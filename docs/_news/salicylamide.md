@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Salicylamide 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：解熱鎮痛、風濕關節痛、神經痛、肌肉痛。預測適應症 10 個。"
 permalink: /news/salicylamide/
@@ -24,19 +24,19 @@ permalink: /news/salicylamide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：解熱鎮痛、風濕關節痛、神經痛、肌肉痛</li>
-<li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>pharyngitis（100.0%）</li>
-<li>nasal cavity disease（100.0%）</li>
-<li>acute laryngopharyngitis（100.0%）</li>
-<li>trigeminal autonomic cephalalgia（99.9%）</li>
-<li class="indication-matched">common cold（99.9%）<span class="indication-tag">📰 感冒</span></li>
-<li>allergic urticaria（99.7%）</li>
-<li>lung disease（99.6%）</li>
-<li>massive neonatal aspiration syndrome（99.6%）</li>
-<li>respiratory syncytial virus bronchiolitis（99.6%）</li>
-<li>hantavirus infectious disease（99.5%）</li>
+<li><strong>原適應症</strong>: 解熱鎮痛、風濕關節痛、神經痛、肌肉痛</li>
+<li><strong>證據等級</strong>: L4</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>pharyngitis (100.0%)</li>
+<li>nasal cavity disease (100.0%)</li>
+<li>acute laryngopharyngitis (100.0%)</li>
+<li>trigeminal autonomic cephalalgia (99.9%)</li>
+<li class="indication-matched">common cold (99.9%)<span class="indication-tag">📰 感冒</span></li>
+<li>allergic urticaria (99.7%)</li>
+<li>lung disease (99.6%)</li>
+<li>massive neonatal aspiration syndrome (99.6%)</li>
+<li>respiratory syncytial virus bronchiolitis (99.6%)</li>
+<li>hantavirus infectious disease (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/salicylamide/
 
 2026-09-13 <span class="news-indication-tag">感冒</span>
 
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
 
 ---
 
@@ -56,13 +56,13 @@ permalink: /news/salicylamide/
 
 2026-09-10 <span class="news-indication-tag">感冒</span>
 
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Isosorbide dinitrate 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Isosorbide dinitrate 的相關健康新聞報導。原適應症：預防及治療狹心症發作、冠狀動脈不全。預測適應症 10 個。"
 permalink: /news/isosorbide_dinitrate/
@@ -24,19 +24,19 @@ permalink: /news/isosorbide_dinitrate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：預防及治療狹心症發作、冠狀動脈不全</li>
-<li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>alopecia（100.0%）</li>
-<li>congenital hypotrichosis milia（100.0%）</li>
-<li>hypotrichosis simplex of the scalp（100.0%）</li>
-<li>pulmonary hypertension（100.0%）</li>
-<li>diffuse alopecia areata（100.0%）</li>
-<li>vascular disease（100.0%）</li>
-<li>hypertrichosis (disease)（100.0%）</li>
-<li>kyphoscoliotic heart disease（100.0%）</li>
-<li>visceral calciphylaxis（100.0%）</li>
-<li>arterial thoracic outlet syndrome（100.0%）</li>
+<li><strong>原適應症</strong>: 預防及治療狹心症發作、冠狀動脈不全</li>
+<li><strong>證據等級</strong>: L2</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>alopecia (100.0%)</li>
+<li>congenital hypotrichosis milia (100.0%)</li>
+<li>hypotrichosis simplex of the scalp (100.0%)</li>
+<li>pulmonary hypertension (100.0%)</li>
+<li>diffuse alopecia areata (100.0%)</li>
+<li>vascular disease (100.0%)</li>
+<li>hypertrichosis (disease) (100.0%)</li>
+<li>kyphoscoliotic heart disease (100.0%)</li>
+<li>visceral calciphylaxis (100.0%)</li>
+<li>arterial thoracic outlet syndrome (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/isosorbide_dinitrate/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

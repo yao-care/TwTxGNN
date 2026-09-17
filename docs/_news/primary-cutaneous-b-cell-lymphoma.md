@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "淋巴癌（primary cutaneous B-cell lymphoma） 相關新聞"
-parent: 健康新聞
+title: "淋巴癌 (primary cutaneous B-cell lymphoma) 相關新聞"
+parent: 📰 健康新聞
 nav_exclude: true
-description: "淋巴癌（primary cutaneous B-cell lymphoma） 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "淋巴癌 (primary cutaneous B-cell lymphoma) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
 permalink: /news/primary-cutaneous-b-cell-lymphoma/
 ---
 
-# 淋巴癌（primary cutaneous B-cell lymphoma） 相關新聞
+# 淋巴癌 (primary cutaneous B-cell lymphoma) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="淋巴癌（primary cutaneous B-cell lymphoma） 有什麼相關新聞？">
-<strong>淋巴癌（primary cutaneous B-cell lymphoma）</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<p class="key-answer" data-question="淋巴癌 (primary cutaneous B-cell lymphoma) 有什麼相關新聞？">
+<strong>淋巴癌 (primary cutaneous B-cell lymphoma)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,11 +36,11 @@ permalink: /news/primary-cutaneous-b-cell-lymphoma/
 
 2026-09-10
 
-來源：[元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMcUpibEIwcHZjNzFLWDlrYkpwS0ZwczktZExYejRpcnpNUW9HZTkwclNNZERJSU9oSFY0RENwZ2I0VGVLQ2tHcTNISHBaYUJRU1lIMUF3STZBWG560gFiQVVfeXFMTzZrZy1oQnNTMXBpUjZkQmJ0cHhabXlsYlZTVHZHdGpCRUhXUWlERjRSbEt3bDBaa2x3dC1VS2d3TWItUVhhbzNhSUNoenBUeTY0T2FVWGRLdlZULXdhVXlhcXc?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>

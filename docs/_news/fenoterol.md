@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Fenoterol 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Fenoterol 的相關健康新聞報導。原適應症：。預測適應症 8 個。"
 permalink: /news/fenoterol/
@@ -24,16 +24,16 @@ permalink: /news/fenoterol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（8 個）：<ul>
-<li>multiple system atrophy（99.7%）</li>
-<li>postural orthostatic tachycardia syndrome（99.6%）</li>
-<li>variably protease-sensitive prionopathy（99.5%）</li>
-<li>open-angle glaucoma（99.4%）</li>
-<li>Raynaud disease（99.4%）</li>
-<li>primary hereditary glaucoma（99.4%）</li>
-<li>sinoatrial block（99.3%）</li>
-<li>sinoatrial node disease（99.2%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（8 個）</strong>:<ul>
+<li>multiple system atrophy (99.7%)</li>
+<li>postural orthostatic tachycardia syndrome (99.6%)</li>
+<li>variably protease-sensitive prionopathy (99.5%)</li>
+<li>open-angle glaucoma (99.4%)</li>
+<li>Raynaud disease (99.4%)</li>
+<li>primary hereditary glaucoma (99.4%)</li>
+<li>sinoatrial block (99.3%)</li>
+<li>sinoatrial node disease (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fenoterol/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -45,7 +45,7 @@ permalink: /news/fenoterol/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

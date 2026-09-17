@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Magnesium sulfate 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Magnesium sulfate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/magnesium_sulfate/
@@ -24,18 +24,18 @@ permalink: /news/magnesium_sulfate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>preeclampsia/eclampsia（100.0%）</li>
-<li>toxemia of pregnancy（100.0%）</li>
-<li>thrombotic disease（99.9%）</li>
-<li>pharyngitis（99.6%）</li>
-<li>nasal cavity disease（99.6%）</li>
-<li>psychotic disorder（99.5%）</li>
-<li>acute laryngopharyngitis（99.5%）</li>
-<li>headache disorder（99.4%）</li>
-<li>trigeminal autonomic cephalalgia（99.2%）</li>
-<li>treatment-refractory schizophrenia（99.1%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>preeclampsia/eclampsia (100.0%)</li>
+<li>toxemia of pregnancy (100.0%)</li>
+<li>thrombotic disease (99.9%)</li>
+<li>pharyngitis (99.6%)</li>
+<li>nasal cavity disease (99.6%)</li>
+<li>psychotic disorder (99.5%)</li>
+<li>acute laryngopharyngitis (99.5%)</li>
+<li>headache disorder (99.4%)</li>
+<li>trigeminal autonomic cephalalgia (99.2%)</li>
+<li>treatment-refractory schizophrenia (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/magnesium_sulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -47,7 +47,7 @@ permalink: /news/magnesium_sulfate/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

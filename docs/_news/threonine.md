@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Threonine 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Threonine 的相關健康新聞報導。原適應症：營養補充劑、氨基酸補給劑。預測適應症 1 個。"
 permalink: /news/threonine/
@@ -24,10 +24,10 @@ permalink: /news/threonine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：營養補充劑、氨基酸補給劑</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（1 個）：<ul>
-<li>gastroparesis (disease)（99.3%）</li>
+<li><strong>原適應症</strong>: 營養補充劑、氨基酸補給劑</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（1 個）</strong>:<ul>
+<li>gastroparesis (disease) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/threonine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -39,7 +39,7 @@ permalink: /news/threonine/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

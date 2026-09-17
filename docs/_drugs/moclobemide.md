@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Moclobemide
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 170
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 ---
 
 # Moclobemide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+證據等級: **L2** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Trihexyphenidyl 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Trihexyphenidyl 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/trihexyphenidyl/
@@ -24,18 +24,18 @@ permalink: /news/trihexyphenidyl/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>attention deficit-hyperactivity disorder（99.9%）</li>
-<li>faciodigitogenital syndrome（99.9%）</li>
-<li>attention deficit hyperactivity disorder, inattentive type（99.8%）</li>
-<li>Rasmussen subacute encephalitis（99.7%）</li>
-<li>PLA2G6-associated neurodegeneration（99.6%）</li>
-<li>congenital disorder of glycosylation with defective fucosylation（99.6%）</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（99.6%）</li>
-<li>retinal dystrophy with or without extraocular anomalies（99.5%）</li>
-<li>myelitis（99.5%）</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（99.5%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>attention deficit-hyperactivity disorder (99.9%)</li>
+<li>faciodigitogenital syndrome (99.9%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (99.8%)</li>
+<li>Rasmussen subacute encephalitis (99.7%)</li>
+<li>PLA2G6-associated neurodegeneration (99.6%)</li>
+<li>congenital disorder of glycosylation with defective fucosylation (99.6%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.6%)</li>
+<li>retinal dystrophy with or without extraocular anomalies (99.5%)</li>
+<li>myelitis (99.5%)</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trihexyphenidyl/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -47,7 +47,7 @@ permalink: /news/trihexyphenidyl/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "DL-alpha-Tocopherol 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "DL-alpha-Tocopherol 的相關健康新聞報導。原適應症：未知。預測適應症 10 個。"
 permalink: /news/dl-alpha-tocopherol/
@@ -24,19 +24,19 @@ permalink: /news/dl-alpha-tocopherol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：未知</li>
-<li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>immature cataract（100.0%）</li>
-<li>mature cataract（100.0%）</li>
-<li>tetanic cataract（100.0%）</li>
-<li>craniostenosis cataract（100.0%）</li>
-<li>diabetes mellitus type 2 associated cataract（100.0%）</li>
-<li>diabetic cataract（100.0%）</li>
-<li>nuclear senile cataract（100.0%）</li>
-<li>cortical cataract（100.0%）</li>
-<li>senile cataract（100.0%）</li>
-<li>antithrombin deficiency type 2（100.0%）</li>
+<li><strong>原適應症</strong>: 未知</li>
+<li><strong>證據等級</strong>: L4</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>immature cataract (100.0%)</li>
+<li>mature cataract (100.0%)</li>
+<li>tetanic cataract (100.0%)</li>
+<li>craniostenosis cataract (100.0%)</li>
+<li>diabetes mellitus type 2 associated cataract (100.0%)</li>
+<li>diabetic cataract (100.0%)</li>
+<li>nuclear senile cataract (100.0%)</li>
+<li>cortical cataract (100.0%)</li>
+<li>senile cataract (100.0%)</li>
+<li>antithrombin deficiency type 2 (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dl-alpha-tocopherol/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/dl-alpha-tocopherol/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

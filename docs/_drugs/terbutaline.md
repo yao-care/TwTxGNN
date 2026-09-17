@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Terbutaline
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 247
-evidence_level: L5
+evidence_level: L1
 indication_count: 3
 ---
 
 # Terbutaline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L1** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---

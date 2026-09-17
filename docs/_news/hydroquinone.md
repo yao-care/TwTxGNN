@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hydroquinone 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Hydroquinone 的相關健康新聞報導。原適應症：黑斑、雀斑、色素沉著。預測適應症 4 個。"
 permalink: /news/hydroquinone/
@@ -24,13 +24,13 @@ permalink: /news/hydroquinone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：黑斑、雀斑、色素沉著</li>
-<li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（4 個）：<ul>
-<li>seborrheic keratosis（99.7%）</li>
-<li>vulvar inverted follicular keratosis（99.6%）</li>
-<li>exanthem (disease)（99.4%）</li>
-<li>lichen disease（99.1%）</li>
+<li><strong>原適應症</strong>: 黑斑、雀斑、色素沉著</li>
+<li><strong>證據等級</strong>: L4</li>
+<li><strong>預測適應症（4 個）</strong>:<ul>
+<li>seborrheic keratosis (99.7%)</li>
+<li>vulvar inverted follicular keratosis (99.6%)</li>
+<li>exanthem (disease) (99.4%)</li>
+<li>lichen disease (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroquinone/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -42,7 +42,7 @@ permalink: /news/hydroquinone/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

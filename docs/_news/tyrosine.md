@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tyrosine 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Tyrosine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/tyrosine/
@@ -24,18 +24,18 @@ permalink: /news/tyrosine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>cauda equina syndrome（99.8%）</li>
-<li>obsolete neurogenic bladder (disease)（99.5%）</li>
-<li>angle-closure glaucoma（99.5%）</li>
-<li>hyperthyroidism（99.5%）</li>
-<li>postural orthostatic tachycardia syndrome（99.5%）</li>
-<li>hyperthyroxinemia（99.5%）</li>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta（99.4%）</li>
-<li>aqueous misdirection（99.3%）</li>
-<li>traumatic glaucoma（99.3%）</li>
-<li>neovascular glaucoma（99.3%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>cauda equina syndrome (99.8%)</li>
+<li>obsolete neurogenic bladder (disease) (99.5%)</li>
+<li>angle-closure glaucoma (99.5%)</li>
+<li>hyperthyroidism (99.5%)</li>
+<li>postural orthostatic tachycardia syndrome (99.5%)</li>
+<li>hyperthyroxinemia (99.5%)</li>
+<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.4%)</li>
+<li>aqueous misdirection (99.3%)</li>
+<li>traumatic glaucoma (99.3%)</li>
+<li>neovascular glaucoma (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tyrosine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -47,7 +47,7 @@ permalink: /news/tyrosine/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

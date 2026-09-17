@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tenofovir alafenamide 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Tenofovir alafenamide 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
 permalink: /news/tenofovir_alafenamide/
@@ -24,11 +24,11 @@ permalink: /news/tenofovir_alafenamide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（3 個）：<ul>
-<li>feline acquired immunodeficiency syndrome（99.9%）</li>
-<li>simian immunodeficiency virus infection（99.9%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.9%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（3 個）</strong>:<ul>
+<li>feline acquired immunodeficiency syndrome (99.9%)</li>
+<li>simian immunodeficiency virus infection (99.9%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tenofovir_alafenamide/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -40,7 +40,7 @@ permalink: /news/tenofovir_alafenamide/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

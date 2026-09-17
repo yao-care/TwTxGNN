@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Cladribine 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Cladribine 的相關健康新聞報導。原適應症：。預測適應症 7 個。"
 permalink: /news/cladribine/
@@ -24,15 +24,15 @@ permalink: /news/cladribine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（7 個）：<ul>
-<li>parameningeal embryonal rhabdomyosarcoma（99.8%）</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina（99.8%）</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
-<li>prostate embryonal rhabdomyosarcoma（99.8%）</li>
-<li>extrahepatic bile duct rhabdomyosarcoma（99.8%）</li>
-<li>rhabdomyosarcoma (disease)（99.7%）</li>
-<li>liver sarcoma（99.7%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（7 個）</strong>:<ul>
+<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
+<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
+<li>prostate embryonal rhabdomyosarcoma (99.8%)</li>
+<li>extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
+<li>rhabdomyosarcoma (disease) (99.7%)</li>
+<li>liver sarcoma (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -44,7 +44,7 @@ permalink: /news/cladribine/
 
 2026-09-14 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[UHK 港生活](https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5)
+來源: [UHK 港生活](https://news.google.com/rss/articles/CBMi5wNBVV95cUxPM1BQbDhpR2ZFS0l4b3d2a3Y0U0NwS3YxOG9VWXJVTmJLaGQwcG1fMUNscHhYTGw5UVBMYTE3R1JTU05XM0pQZ29POWd0aW5KWDg3cnJtR1NuaEV4bDltcHRfMUI3VEpDMTRnLTRETXRiX2hXRHhvZThqaTRCcC1CMEdHNEZjTF9WcnQwYnNYblJnNWtJWjlTd2FTeWtRT25aVXlMSi00cXU4T0MxRzFKbWppOVU4dUhUc0R2Vk1Dd1ZCWDRVeklRTXZiOTh5dTlPNEVJS1pNc2Zza1FWdkt0QTJJTEwtN1k3QnZoOHJ1aGVQdDJRZ19yUURPQmtyOU9DTFl3SFhnMnlQdDM5dHhWYnNtdWFISVVNbnYzWjJiZHBkUThzb19tY0VmWWlPNUNzbUVWMFl4bVZRWFY2eFl6bTRNV3BmdTByandRRHVtYktzMVNkTmpNRkdkaDlQY3hGU3NGVy1kbzdkZFZ5bnkwQ196NXVOX193U1JqMzFTX0pUcnA5QkVIcVdXU1BiemVQTlJsejdEMEVhUTF6VmlJc05RM2QwYUt1LWczbW9ocFNXYUUzS0J6Ym1qRUhuRnU3NUs1UVh4VWhJdFVlWEdMbXZ3RS03ZVVHMUUybmplQXl0djRsZHhB?oc=5)
 
 ---
 
@@ -52,7 +52,7 @@ permalink: /news/cladribine/
 
 2026-09-14 <span class="news-indication-tag">癌症</span>
 
-來源：[taiwannews.com.tw](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yNUx4Y3JIOUplR2F4VWhRbnZQUGdRWGtaSmJlNkMyU0xkS0NIdWp0c0tRM3F2VHljaTNRenh3azAzejRGUUdWSUUwU3ZIWlgxUDF2WHRuM1c?oc=5)
+來源: [taiwannews.com.tw](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yNUx4Y3JIOUplR2F4VWhRbnZQUGdRWGtaSmJlNkMyU0xkS0NIdWp0c0tRM3F2VHljaTNRenh3azAzejRGUUdWSUUwU3ZIWlgxUDF2WHRuM1c?oc=5)
 
 ---
 
@@ -60,7 +60,7 @@ permalink: /news/cladribine/
 
 2026-09-12 <span class="news-indication-tag">腫瘤</span>
 
-來源：[she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
+來源: [she.com](https://news.google.com/rss/articles/CBMi7wFBVV95cUxPazB5aFNzelI3cUhJbFllQ2RIQVN2b0ljRzk4NXY4RmljblZRTkFMZ2ZPbjdwdDFLLXVnMk9kRndTSUJrVndDVWhQM2tMNTFzSVJDM3RKTUFRbGpXNVp0cnduS2lwUEtMM0tsb0VYSWRGUFN6aDRNanNnN2kxbWIzNkc3MEpoaEQxbzNQakJzSGVndDJTcjA0S2FFUENBUFhyOFdYWl8zcm1RXy1KQWg3ZkRzQ2V6a0lBMjMyNzJqZjNiVjBFSG9tS3NHbkR0bW8tMnRHc2p1U1FteG9BV2dtTDg2MXV3RmJYUXJROHc4RQ?oc=5)
 
 ---
 
@@ -68,7 +68,7 @@ permalink: /news/cladribine/
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+來源: [Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 ---
 
@@ -76,7 +76,7 @@ permalink: /news/cladribine/
 
 2026-09-10 <span class="news-indication-tag">腫瘤</span>
 
-來源：[香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxPTW1aNnhUblZoXzg0aEZrcHRKaUR4am9rX2VCcVc5RFNsamVpVXlNei1VREF2MEtiNXFCWU5zYzg3bHpOZWJHa1pfbWUwUmloNFZlUFpwWWJDZjFGempLOGtPQmh3b0FPZFpfZHozV0kwYWRaMEVmMDZoeW5sckh1Qjkwb3Fpbkp6WERvekRWZkhTbUpTbi1JRTJSb1Z6VG1CZGw2dEJ4eTVJMmNSS0l0SENsSTRCZDc3cjRDc1hZNjVaQmFCazM1UmVObWwtUjhKeWZhcjZtYVJ1UHE5cG9WOEVaMVlGeGhEbDB6S081R2xHdFBWTk5pLTR2YXpHdVAyNkVjaW0yQTVJaU55VTBBd1N6anZVdkVESTRVQ3lKY21qYV9zZFltMGRjdFE4dm40ZFczU1BSOXYxSjR2WGhXQzhFUkhfRk9xeUlEaVRzblNRdUxWVm44dktiV0tEd0tDVS1Ua0R1ZzJCZGExVkhzVGdOaXNlekJsNEF3QUdOSGxHb1Jxd19zSjhqcnd6MWNoQWd0T1hSTnVHVWpVZEZGSFZYb0NOUzNMR1VVXzJOMlZrcGlMTENYaHB2NGlNWUxacGk3OHYzekx3MGEwMnJieWhyS0JnSWVmSmZ3UGtLb25BUDZ3RjV6RWVkSy1GQWNOdmZxWXhVM1dkN1N0WHhkMWs4QWt3V2paWmZ5OUl2VWs?oc=5)
 
 ---
 
@@ -84,7 +84,7 @@ permalink: /news/cladribine/
 
 2026-09-09 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源：[大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
+來源: [大紀元時報 香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EZURKaHVwMXZFa3pMdkJfcWdmQzFGcTlLMXVZeDZpc0dQQV9GOVd6RzhRZW1ONXlUZzE5a2lORmdEWmN0d2FwODBoM1FIY2ZTQloybFFJeGxIQ0ZrZDZJ?oc=5)
 
 ---
 
@@ -92,13 +92,13 @@ permalink: /news/cladribine/
 
 2026-09-08 <span class="news-indication-tag">癌症</span>
 
-來源：[webook.com.tw](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
+來源: [webook.com.tw](https://news.google.com/rss/articles/CBMiekFVX3lxTFBKaGVLanYzVmFYdTRsZkdob2x0RnA2aWROcGNVaUp1WlZ3OVk4Y2dzVEtMeGpaajRERHQ2MjBBM2dVMm5sVzhlNmhnSElYRHhFN0RlNy0ya2dqbTllYzhGdkJMcDJOczFHc0QyVENjR3FBRFp0cjJNejJ3?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

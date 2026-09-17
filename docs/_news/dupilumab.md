@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Dupilumab 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Dupilumab 的相關健康新聞報導。原適應症：異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎。預測適應症 10 個。"
 permalink: /news/dupilumab/
@@ -24,19 +24,19 @@ permalink: /news/dupilumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎</li>
-<li><strong>證據等級</strong>：L3</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>bronchitis（99.9%）</li>
-<li>dermatitis（99.7%）</li>
-<li>acne keloid（99.6%）</li>
-<li>exanthem (disease)（99.6%）</li>
-<li>neonatal dermatomyositis（99.6%）</li>
-<li>acrodermatitis chronica atrophicans（99.5%）</li>
-<li>amyopathic dermatomyositis（99.5%）</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease（99.5%）</li>
-<li>hydroa vacciniforme, familial（99.5%）</li>
-<li>severe nonproliferative diabetic retinopathy（99.1%）</li>
+<li><strong>原適應症</strong>: 異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎</li>
+<li><strong>證據等級</strong>: L3</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>bronchitis (99.9%)</li>
+<li>dermatitis (99.7%)</li>
+<li>acne keloid (99.6%)</li>
+<li>exanthem (disease) (99.6%)</li>
+<li>neonatal dermatomyositis (99.6%)</li>
+<li>acrodermatitis chronica atrophicans (99.5%)</li>
+<li>amyopathic dermatomyositis (99.5%)</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (99.5%)</li>
+<li>hydroa vacciniforme, familial (99.5%)</li>
+<li>severe nonproliferative diabetic retinopathy (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dupilumab/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/dupilumab/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

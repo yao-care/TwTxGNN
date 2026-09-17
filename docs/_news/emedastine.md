@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Emedastine 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Emedastine 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
 permalink: /news/emedastine/
@@ -24,10 +24,10 @@ permalink: /news/emedastine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（2 個）：<ul>
-<li>allergic urticaria（100.0%）</li>
-<li>cold urticaria（99.8%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（2 個）</strong>:<ul>
+<li>allergic urticaria (100.0%)</li>
+<li>cold urticaria (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/emedastine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -39,7 +39,7 @@ permalink: /news/emedastine/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

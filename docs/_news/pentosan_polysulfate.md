@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pentosan polysulfate 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Pentosan polysulfate 的相關健康新聞報導。原適應症：間質性膀胱炎引起的膀胱疼痛或不適、栓血症。預測適應症 3 個。"
 permalink: /news/pentosan_polysulfate/
@@ -24,12 +24,12 @@ permalink: /news/pentosan_polysulfate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：間質性膀胱炎引起的膀胱疼痛或不適、栓血症</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（3 個）：<ul>
-<li>primary release disorder of platelets（99.7%）</li>
-<li>Glanzmann thrombasthenia（99.7%）</li>
-<li>pseudo-von Willebrand disease（99.6%）</li>
+<li><strong>原適應症</strong>: 間質性膀胱炎引起的膀胱疼痛或不適、栓血症</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（3 個）</strong>:<ul>
+<li>primary release disorder of platelets (99.7%)</li>
+<li>Glanzmann thrombasthenia (99.7%)</li>
+<li>pseudo-von Willebrand disease (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pentosan_polysulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -41,7 +41,7 @@ permalink: /news/pentosan_polysulfate/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "minoxidil 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "minoxidil 的相關健康新聞報導。原適應症：治療女性雄激素性落髮。預測適應症 3 個。"
 permalink: /news/minoxidil/
@@ -24,12 +24,12 @@ permalink: /news/minoxidil/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：治療女性雄激素性落髮</li>
-<li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（3 個）：<ul>
-<li>hypotrichosis simplex of the scalp（100.0%）</li>
-<li>congenital hypotrichosis milia（100.0%）</li>
-<li>diffuse alopecia areata（100.0%）</li>
+<li><strong>原適應症</strong>: 治療女性雄激素性落髮</li>
+<li><strong>證據等級</strong>: L4</li>
+<li><strong>預測適應症（3 個）</strong>:<ul>
+<li>hypotrichosis simplex of the scalp (100.0%)</li>
+<li>congenital hypotrichosis milia (100.0%)</li>
+<li>diffuse alopecia areata (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/minoxidil/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -41,7 +41,7 @@ permalink: /news/minoxidil/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pitavastatin
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 201
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Pitavastatin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---

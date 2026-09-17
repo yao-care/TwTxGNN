@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Pravastatin 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Pravastatin 的相關健康新聞報導。原適應症：。預測適應症 9 個。"
 permalink: /news/pravastatin/
@@ -24,17 +24,17 @@ permalink: /news/pravastatin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（9 個）：<ul>
-<li>homozygous familial hypercholesterolemia（100.0%）</li>
-<li>HIV infectious disease（99.7%）</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter（99.6%）</li>
-<li>feline acquired immunodeficiency syndrome（99.5%）</li>
-<li>simian immunodeficiency virus infection（99.5%）</li>
-<li>familial hypercholesterolemia（99.3%）</li>
-<li>hypoalphalipoproteinemia（99.2%）</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency（99.1%）</li>
-<li>cholesterol-ester transfer protein deficiency（99.0%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（9 個）</strong>:<ul>
+<li>homozygous familial hypercholesterolemia (100.0%)</li>
+<li>HIV infectious disease (99.7%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.6%)</li>
+<li>feline acquired immunodeficiency syndrome (99.5%)</li>
+<li>simian immunodeficiency virus infection (99.5%)</li>
+<li>familial hypercholesterolemia (99.3%)</li>
+<li>hypoalphalipoproteinemia (99.2%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.1%)</li>
+<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -46,7 +46,7 @@ permalink: /news/pravastatin/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Prednisone 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Prednisone 的相關健康新聞報導。原適應症：風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患。預測適應症 10 個。"
 permalink: /news/prednisone/
@@ -24,19 +24,19 @@ permalink: /news/prednisone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患</li>
-<li><strong>證據等級</strong>：L2</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>alopecia areata（100.0%）</li>
-<li>alopecia mucinosa（100.0%）</li>
-<li>telogen effluvium（100.0%）</li>
-<li>Quinquaud's folliculitis decalvans（100.0%）</li>
-<li>alopecia antibody deficiency（100.0%）</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles（100.0%）</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome（100.0%）</li>
-<li>atrichia with papular lesions（100.0%）</li>
-<li>tenosynovitis（99.8%）</li>
-<li>prolapse of lacrimal gland（99.7%）</li>
+<li><strong>原適應症</strong>: 風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患</li>
+<li><strong>證據等級</strong>: L2</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>alopecia areata (100.0%)</li>
+<li>alopecia mucinosa (100.0%)</li>
+<li>telogen effluvium (100.0%)</li>
+<li>Quinquaud's folliculitis decalvans (100.0%)</li>
+<li>alopecia antibody deficiency (100.0%)</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
+<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
+<li>atrichia with papular lesions (100.0%)</li>
+<li>tenosynovitis (99.8%)</li>
+<li>prolapse of lacrimal gland (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisone/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/prednisone/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

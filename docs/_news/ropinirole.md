@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ropinirole 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Ropinirole 的相關健康新聞報導。原適應症：治療自發性帕金森氏症、原發性腳部躁動症。預測適應症 10 個。"
 permalink: /news/ropinirole/
@@ -24,19 +24,19 @@ permalink: /news/ropinirole/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：治療自發性帕金森氏症、原發性腳部躁動症</li>
-<li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>attention deficit-hyperactivity disorder（100.0%）</li>
-<li>faciodigitogenital syndrome（100.0%）</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（99.9%）</li>
-<li>retinal dystrophy with or without extraocular anomalies（99.9%）</li>
-<li>schizophrenia（99.9%）</li>
-<li>myopia X-linked（99.9%）</li>
-<li>congenital disorder of glycosylation with defective fucosylation（99.9%）</li>
-<li>atypical glycine encephalopathy（99.9%）</li>
-<li>myopia 26, X-linked, female-limited（99.9%）</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（99.9%）</li>
+<li><strong>原適應症</strong>: 治療自發性帕金森氏症、原發性腳部躁動症</li>
+<li><strong>證據等級</strong>: L4</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>attention deficit-hyperactivity disorder (100.0%)</li>
+<li>faciodigitogenital syndrome (100.0%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
+<li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
+<li>schizophrenia (99.9%)</li>
+<li>myopia X-linked (99.9%)</li>
+<li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
+<li>atypical glycine encephalopathy (99.9%)</li>
+<li>myopia 26, X-linked, female-limited (99.9%)</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ropinirole/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/ropinirole/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

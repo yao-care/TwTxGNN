@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rotigotine 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Rotigotine 的相關健康新聞報導。原適應症：原發性帕金森氏症。預測適應症 10 個。"
 permalink: /news/rotigotine/
@@ -24,19 +24,19 @@ permalink: /news/rotigotine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：原發性帕金森氏症</li>
-<li><strong>證據等級</strong>：L4</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>attention deficit-hyperactivity disorder（100.0%）</li>
-<li>schizophrenia（100.0%）</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（100.0%）</li>
-<li>faciodigitogenital syndrome（100.0%）</li>
-<li>congenital disorder of glycosylation with defective fucosylation（100.0%）</li>
-<li>retinal dystrophy with or without extraocular anomalies（100.0%）</li>
-<li>myopia X-linked（100.0%）</li>
-<li>atypical glycine encephalopathy（100.0%）</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G（100.0%）</li>
-<li>myopia 26, X-linked, female-limited（100.0%）</li>
+<li><strong>原適應症</strong>: 原發性帕金森氏症</li>
+<li><strong>證據等級</strong>: L4</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>attention deficit-hyperactivity disorder (100.0%)</li>
+<li>schizophrenia (100.0%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (100.0%)</li>
+<li>faciodigitogenital syndrome (100.0%)</li>
+<li>congenital disorder of glycosylation with defective fucosylation (100.0%)</li>
+<li>retinal dystrophy with or without extraocular anomalies (100.0%)</li>
+<li>myopia X-linked (100.0%)</li>
+<li>atypical glycine encephalopathy (100.0%)</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (100.0%)</li>
+<li>myopia 26, X-linked, female-limited (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rotigotine/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/rotigotine/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

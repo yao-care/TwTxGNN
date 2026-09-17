@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "失智（dementia） 相關新聞"
-parent: 健康新聞
+title: "失智 (dementia) 相關新聞"
+parent: 📰 健康新聞
 nav_exclude: true
-description: "失智（dementia） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智（dementia） 相關新聞
+# 失智 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智（dementia） 有什麼相關新聞？">
-<strong>失智（dementia）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
+<strong>失智 (dementia)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/dementia/
 
 2026-09-14
 
-來源：[早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE95SGlwRzF6LWt5UzJzdlFkMTNJVVJzeExLQmR5WXY1bkk4STlmR0Z5MGhhczVNR3ZJamtVVUw4RVBzVGIzd2c?oc=5)
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE95SGlwRzF6LWt5UzJzdlFkMTNJVVJzeExLQmR5WXY1bkk4STlmR0Z5MGhhczVNR3ZJamtVVUw4RVBzVGIzd2c?oc=5)
 
 ---
 
@@ -43,11 +43,11 @@ permalink: /news/dementia/
 
 2026-09-08
 
-來源：[早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aMzUzMnhIclV5Y0g0RXpTS3BCUHJ3Unlmd29NVHhPWC1kcVNweERPd3JLX3BISzFYOFdtYzEwdno2YzlsMVE?oc=5)
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9aMzUzMnhIclV5Y0g0RXpTS3BCUHJ3Unlmd29NVHhPWC1kcVNweERPd3JLX3BISzFYOFdtYzEwdno2YzlsMVE?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>

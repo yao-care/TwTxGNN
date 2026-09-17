@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ethynodiol diacetate 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Ethynodiol diacetate 的相關健康新聞報導。原適應症：。預測適應症 6 個。"
 permalink: /news/ethynodiol_diacetate/
@@ -24,14 +24,14 @@ permalink: /news/ethynodiol_diacetate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（6 個）：<ul>
-<li>acne (disease)（99.6%）</li>
-<li>female infertility（99.3%）</li>
-<li>46,XY disorder of sex development due to testicular steroidogenesis defect（99.2%）</li>
-<li>longitudinal vaginal septum（99.1%）</li>
-<li>transverse vaginal septum（99.1%）</li>
-<li>eye disease（99.0%）</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（6 個）</strong>:<ul>
+<li>acne (disease) (99.6%)</li>
+<li>female infertility (99.3%)</li>
+<li>46,XY disorder of sex development due to testicular steroidogenesis defect (99.2%)</li>
+<li>longitudinal vaginal septum (99.1%)</li>
+<li>transverse vaginal septum (99.1%)</li>
+<li>eye disease (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ethynodiol_diacetate/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -43,7 +43,7 @@ permalink: /news/ethynodiol_diacetate/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

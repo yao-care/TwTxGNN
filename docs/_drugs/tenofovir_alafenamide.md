@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tenofovir Alafenamide
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 246
-evidence_level: L5
+evidence_level: L2
 indication_count: 3
 ---
 
 # Tenofovir Alafenamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L2** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---

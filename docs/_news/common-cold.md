@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "感冒（common cold） 相關新聞"
-parent: 健康新聞
+title: "感冒 (common cold) 相關新聞"
+parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒（common cold） 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
-# 感冒（common cold） 相關新聞
+# 感冒 (common cold) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="感冒（common cold） 有什麼相關新聞？">
-<strong>感冒（common cold）</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
+<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/common-cold/
 
 2026-09-13
 
-來源：[世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1S3BFcmlKTUcxRkthbHNhZEo4VUNjREFUcFc5RGk4YmVrYkNBaTJsSHp0YThnSjlmM2lvbFNob1ljMTNWQm5XQjBGcjhQVGVMVWVXLTNNSHVqWk01Wm1lMVlR0gFnQVVfeXFMUExnazU2ci1zSmJQWWV2VzlnNWpPd2V4WFRBaTJjaWNTcnRXdmRKdUF0a1c1dU5hOWZOcmx4czJaUEdxRUFJRFBMRXo2NGRsNUlUdHpVa2JxUldsRmpTV3YwZjdmcmwwdw?oc=5)
 
 ---
 
@@ -43,11 +43,11 @@ permalink: /news/common-cold/
 
 2026-09-10
 
-來源：[健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxSWdSSWJkMUQ4V0ppbVpFX05lZ2lXVmtGZVdNLVFyZmEyS2x3cENNTUhYaXlyUGwyLWN0X3VKWm5KTnh5VkNSOW0wX3JNTWh0Q1pRcVhB?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>

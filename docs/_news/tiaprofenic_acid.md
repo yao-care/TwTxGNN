@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tiaprofenic acid 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Tiaprofenic acid 的相關健康新聞報導。原適應症：消炎鎮痛。預測適應症 10 個。"
 permalink: /news/tiaprofenic_acid/
@@ -24,19 +24,19 @@ permalink: /news/tiaprofenic_acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：消炎鎮痛</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>brachydactyly-syndactyly syndrome（100.0%）</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（100.0%）</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome（100.0%）</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type（100.0%）</li>
-<li>myosclerosis（100.0%）</li>
-<li>spondyloarthropathy, susceptibility to（100.0%）</li>
-<li>brachyolmia（100.0%）</li>
-<li>factor 5 excess with spontaneous thrombosis（100.0%）</li>
-<li>heparin cofactor 2 deficiency（100.0%）</li>
-<li>pseudoachondroplasia（100.0%）</li>
+<li><strong>原適應症</strong>: 消炎鎮痛</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>brachydactyly-syndactyly syndrome (100.0%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
+<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
+<li>myosclerosis (100.0%)</li>
+<li>spondyloarthropathy, susceptibility to (100.0%)</li>
+<li>brachyolmia (100.0%)</li>
+<li>factor 5 excess with spontaneous thrombosis (100.0%)</li>
+<li>heparin cofactor 2 deficiency (100.0%)</li>
+<li>pseudoachondroplasia (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tiaprofenic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,7 +48,7 @@ permalink: /news/tiaprofenic_acid/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

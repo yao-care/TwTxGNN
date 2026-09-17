@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ouabain 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速。預測適應症 10 個。"
 permalink: /news/ouabain/
@@ -24,19 +24,19 @@ permalink: /news/ouabain/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速</li>
-<li><strong>證據等級</strong>：L5</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>Prinzmetal angina（99.7%）</li>
-<li>hemoglobinopathy（99.5%）</li>
-<li>myocardial infarction（99.4%）</li>
-<li>thrombotic disease（99.3%）</li>
-<li>hyperthyroidism（99.3%）</li>
-<li>homozygous familial hypercholesterolemia（99.2%）</li>
-<li>partial deletion of the short arm of chromosome 16（99.2%）</li>
-<li>beta-thalassemia with other manifestations（99.2%）</li>
-<li>brain small vessel disease 1 with or without ocular anomalies（99.2%）</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome（99.2%）</li>
+<li><strong>原適應症</strong>: 心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速</li>
+<li><strong>證據等級</strong>: L5</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>Prinzmetal angina (99.7%)</li>
+<li>hemoglobinopathy (99.5%)</li>
+<li>myocardial infarction (99.4%)</li>
+<li>thrombotic disease (99.3%)</li>
+<li>hyperthyroidism (99.3%)</li>
+<li>homozygous familial hypercholesterolemia (99.2%)</li>
+<li>partial deletion of the short arm of chromosome 16 (99.2%)</li>
+<li>beta-thalassemia with other manifestations (99.2%)</li>
+<li>brain small vessel disease 1 with or without ocular anomalies (99.2%)</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -48,13 +48,13 @@ permalink: /news/ouabain/
 
 2026-09-08 <span class="news-indication-tag">心臟衰竭</span>
 
-來源：[mytvsuper.com](https://news.google.com/rss/articles/CBMi8ARBVV95cUxOVExON200bE5nOVN5empLOE0tQnlqYTJob2E1dlR3NDJBcUtSRjVZcHFEQW9CWExfRjNSalg5RmZLVkxBdjFvZWNtdjVmRnBHeFdvdWZUdmQ0YTcyTmFNeExxRkJrRF9DejNWMVM2MnlsbnNGWlNQTDF1VUpOajc2dU9ycGJBRndrWnNhTGhtU2F6Y0NPdVloZU5xS3VmZVd6MFR3c2J6ZWp5RGhKcGVQaGdodkQyNFhRTWx3SVpsdnNBWktGdFhSY0p1dFNrY3dJLXA2dmw1VDFKQWxXNVUzZmdqZURvaTF5dy1LbWJEZE9CVzlnVXd2SDJLcWdYMjRzalptUXFLTXVNY1ZhdW1Ed0FfYmViWTZUTXNMQUgzQzRFV0VlV0MyeTE1M2oxalotaFlVWjdaX3lUWmFkejJPOTJOQ3BTamI5VHVURjRXczdBc2dCRk9SZjVQZG5VWFNkdHQwR0ExRl9jQmc4NDFTT2tlaVI1eHZ4QUI0bFhCSmpPbWU3MjFwZGU3U3dsRktIazk5RXBwWGdmMDZLS0R1b2ZxeVlSRUx0Vi03TGo1S244X2RmUzlWb215eGFqRlRZUlVpWDYzYkRSdHRFMF9UUUZDVm1uTjk2MGtvS2ZrdkdMUjUzbFVBWk1iN2VzTG04TUZVaUNNTm9fR2RZM0JpYXRHd0NNdzcwVUo3Q2JiREJLejBfVHFoWGJyT0V1cDd6VGkyUmo0RW1UanBsNDhMR2tWTjZnRmh1NUhLUHJVNVp0WldVVExkTUVHaWVMRzJZem5UMVpsaDktQnZJQzg0X2ZWX0l2UXV3dmZzOEwyMVQ?oc=5)
+來源: [mytvsuper.com](https://news.google.com/rss/articles/CBMi8ARBVV95cUxOVExON200bE5nOVN5empLOE0tQnlqYTJob2E1dlR3NDJBcUtSRjVZcHFEQW9CWExfRjNSalg5RmZLVkxBdjFvZWNtdjVmRnBHeFdvdWZUdmQ0YTcyTmFNeExxRkJrRF9DejNWMVM2MnlsbnNGWlNQTDF1VUpOajc2dU9ycGJBRndrWnNhTGhtU2F6Y0NPdVloZU5xS3VmZVd6MFR3c2J6ZWp5RGhKcGVQaGdodkQyNFhRTWx3SVpsdnNBWktGdFhSY0p1dFNrY3dJLXA2dmw1VDFKQWxXNVUzZmdqZURvaTF5dy1LbWJEZE9CVzlnVXd2SDJLcWdYMjRzalptUXFLTXVNY1ZhdW1Ed0FfYmViWTZUTXNMQUgzQzRFV0VlV0MyeTE1M2oxalotaFlVWjdaX3lUWmFkejJPOTJOQ3BTamI5VHVURjRXczdBc2dCRk9SZjVQZG5VWFNkdHQwR0ExRl9jQmc4NDFTT2tlaVI1eHZ4QUI0bFhCSmpPbWU3MjFwZGU3U3dsRktIazk5RXBwWGdmMDZLS0R1b2ZxeVlSRUx0Vi03TGo1S244X2RmUzlWb215eGFqRlRZUlVpWDYzYkRSdHRFMF9UUUZDVm1uTjk2MGtvS2ZrdkdMUjUzbFVBWk1iN2VzTG04TUZVaUNNTm9fR2RZM0JpYXRHd0NNdzcwVUo3Q2JiREJLejBfVHFoWGJyT0V1cDd6VGkyUmo0RW1UanBsNDhMR2tWTjZnRmh1NUhLUHJVNVp0WldVVExkTUVHaWVMRzJZem5UMVpsaDktQnZJQzg0X2ZWX0l2UXV3dmZzOEwyMVQ?oc=5)
 
 ---
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lornoxicam 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Lornoxicam 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/lornoxicam/
@@ -24,18 +24,18 @@ permalink: /news/lornoxicam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>：L3</li>
-<li><strong>預測適應症</strong>（10 個）：<ul>
-<li>rheumatoid arthritis（99.9%）</li>
-<li>migraine with or without aura, susceptibility to（99.9%）</li>
-<li>migraine disorder（99.9%）</li>
-<li>migraine with brainstem aura（99.8%）</li>
-<li>brachydactyly-syndactyly syndrome（99.8%）</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome（99.8%）</li>
-<li>headache disorder（99.8%）</li>
-<li>trigeminal autonomic cephalalgia（99.8%）</li>
-<li>tendinitis（99.7%）</li>
-<li>idiopathic granulomatous myositis（99.7%）</li>
+<li><strong>證據等級</strong>: L3</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>rheumatoid arthritis (99.9%)</li>
+<li>migraine with or without aura, susceptibility to (99.9%)</li>
+<li>migraine disorder (99.9%)</li>
+<li>migraine with brainstem aura (99.8%)</li>
+<li>brachydactyly-syndactyly syndrome (99.8%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.8%)</li>
+<li>headache disorder (99.8%)</li>
+<li>trigeminal autonomic cephalalgia (99.8%)</li>
+<li>tendinitis (99.7%)</li>
+<li>idiopathic granulomatous myositis (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lornoxicam/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -47,7 +47,7 @@ permalink: /news/lornoxicam/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>

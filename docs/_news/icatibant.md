@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Icatibant 相關新聞"
-parent: 健康新聞
+parent: 📰 健康新聞
 nav_exclude: true
 description: "Icatibant 的相關健康新聞報導。原適應症：遺傳性血管性水腫(HAE)急性發作症狀治療。預測適應症 7 個。"
 permalink: /news/icatibant/
@@ -24,16 +24,16 @@ permalink: /news/icatibant/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>：遺傳性血管性水腫(HAE)急性發作症狀治療</li>
-<li><strong>證據等級</strong>：L1</li>
-<li><strong>預測適應症</strong>（7 個）：<ul>
-<li>C1 inhibitor deficiency（100.0%）</li>
-<li>serpinopathy with toxic serpin polymerization（100.0%）</li>
-<li>pseudo-von Willebrand disease（99.2%）</li>
-<li>primary release disorder of platelets（99.1%）</li>
-<li>immune-mediated necrotizing myopathy（99.1%）</li>
-<li>antisynthetase syndrome（99.0%）</li>
-<li>Glanzmann thrombasthenia（99.0%）</li>
+<li><strong>原適應症</strong>: 遺傳性血管性水腫(HAE)急性發作症狀治療</li>
+<li><strong>證據等級</strong>: L1</li>
+<li><strong>預測適應症（7 個）</strong>:<ul>
+<li>C1 inhibitor deficiency (100.0%)</li>
+<li>serpinopathy with toxic serpin polymerization (100.0%)</li>
+<li>pseudo-von Willebrand disease (99.2%)</li>
+<li>primary release disorder of platelets (99.1%)</li>
+<li>immune-mediated necrotizing myopathy (99.1%)</li>
+<li>antisynthetase syndrome (99.0%)</li>
+<li>Glanzmann thrombasthenia (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/icatibant/' | relative_url }}">查看完整藥物報告 →</a></p>
@@ -45,7 +45,7 @@ permalink: /news/icatibant/
 
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
+<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
 </div>
 
 <style>
