@@ -36,11 +36,11 @@ permalink: /news/denosumab/
 
 ## 相關新聞（1 則）
 
-### [老了身高狂縮水？恐骨鬆警訊 醫教「332原則檢測法」自救！](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zRDI0N2JZRWZqZUtPOEw0YkRjZjMxSzkwZVhKZk5nMXBMdmlfX1hncTJRZzJadXREbjI3ejZiTF9VSktDdlE0TXJsa08?oc=5)
+### [健康網》老人常見「骨質疏鬆症」 中醫建議這樣補](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WktySVR5OTFLRGFZQVV4djBaR0FJSnNiNDI1Rlk5QnNQU1ZKdV9heHQ0Nmk1NmIydmtSS0Vkd25DeGxPZlZjZ21qczIyd1haLWJtY2JqbEs2ZlIyT25HLTBmMU_SAWpBVV95cUxQaEZsY2h6bkp4eVZOLUlyTFhiOWxyeGdBc3VEMGVJeGNlYTJ5WXl2bG5zeHZlUXZaZjVRSkFLdzM3Si1VY1FGS2pIbDNCZUFyVWZ0S2s3cWh3VEcta0doOU9pTkRSckZKWi1B?oc=5)
 
-2026-09-10 <span class="news-indication-tag">骨質疏鬆症</span>
+2026-09-11 <span class="news-indication-tag">骨質疏鬆症</span>
 
-來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zRDI0N2JZRWZqZUtPOEw0YkRjZjMxSzkwZVhKZk5nMXBMdmlfX1hncTJRZzJadXREbjI3ejZiTF9VSktDdlE0TXJsa08?oc=5)
+來源：[自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WktySVR5OTFLRGFZQVV4djBaR0FJSnNiNDI1Rlk5QnNQU1ZKdV9heHQ0Nmk1NmIydmtSS0Vkd25DeGxPZlZjZ21qczIyd1haLWJtY2JqbEs2ZlIyT25HLTBmMU_SAWpBVV95cUxQaEZsY2h6bkp4eVZOLUlyTFhiOWxyeGdBc3VEMGVJeGNlYTJ5WXl2bG5zeHZlUXZaZjVRSkFLdzM3Si1VY1FGS2pIbDNCZUFyVWZ0S2s3cWh3VEcta0doOU9pTkRSckZKWi1B?oc=5)
 
 ---
 
