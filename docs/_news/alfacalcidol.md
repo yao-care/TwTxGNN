@@ -14,7 +14,7 @@ permalink: /news/alfacalcidol/
 ---
 
 <p class="key-answer" data-question="Alfacalcidol 有什麼相關新聞？">
-<strong>Alfacalcidol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Alfacalcidol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -37,9 +37,15 @@ permalink: /news/alfacalcidol/
 <p><a href="{{ '/drugs/alfacalcidol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUXcteml4VXY3ZmU3NUFfdkRBWHFKREREMTVBSzhwUHhtdUJJRHZjam9xMWgyU0FQbk1TR09FVHMyMWUtcERsZ1k1LU9RdmFZcVJNeFJn?oc=5)
+
+2026-09-14 <span class="news-indication-tag">骨質疏鬆症</span>
+
+來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUXcteml4VXY3ZmU3NUFfdkRBWHFKREREMTVBSzhwUHhtdUJJRHZjam9xMWgyU0FQbk1TR09FVHMyMWUtcERsZ1k1LU9RdmFZcVJNeFJn?oc=5)
+
+---
 
 
 <div class="disclaimer">

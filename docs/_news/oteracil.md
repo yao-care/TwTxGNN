@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>：胃癌用藥。</li>
 <li><strong>證據等級</strong>：L2</li>
 <li><strong>預測適應症</strong>（10 個）：<ul>
-<li>colonic neoplasm（100.0%）</li>
+<li class="indication-matched">colonic neoplasm（100.0%）<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma（100.0%）</li>
 <li>cecum neuroendocrine tumor G1（100.0%）</li>
 <li>lipoma of colon（100.0%）</li>
@@ -42,9 +42,31 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+
+2026-09-15 <span class="news-indication-tag">癌症</span>
+
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+
+---
+
+### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+
+2026-09-12 <span class="news-indication-tag">癌症</span>
+
+來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+
+---
+
+### [59歲女星腸阻塞入院驚患三期大腸癌！悔喊忽視體檢：曾以為我很健康 - U Food](https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5)
+
+2026-09-10 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源：[U Food](https://news.google.com/rss/articles/CBMitgNBVV95cUxOUjNNME03cTBCcHQtU2doa3VhWU1nOHdTencwU3NGVkFnSWs5R0ZMTlh4b0JOT1BKcS1LaHdhN2ZtNmU5RnEtSHhnNHl1SVFGVE1jMEFGSEpaWFNMNngxWnczYkVGOEVCNFp4WVFManBsYUZJWnktSXJnYVFfdVVaS0pwbHFxUElMTG9hOG1JNHhnWGxPbEF1S1RjZ2xPQkZwd2pkVHhaaHlKdUNUcEJiLW1TVVJreDVwOXduLVpaNGVXSm5VU1BMdUcwRWFwS2R0UnJ6c0RqQ1h4YU5iQkxDZUdhdW9qeEFic3lxNGp1QnF6NTlUZGF6ekI1SUpPaXY4OW9uY1RGSDNqX0JOWjR3ZXAxVllLbFA3NW1WRTIwOXdaUTRQeTdXcFJLeWRnWGRPVUREeDVYT0NZclFfUEhhUHFlbmpJUHo0Qno1dG5Yem1mbTctTS1SN0ZTZFZpU3Q4dFJ2SGtHRUFJaXVlYzN2R2VpazlsMlNMMGRoVGQteHl2MElXSmVvSENZdXNGM1pEcmxpeEJjbmJ2bHJYVFdUVXg1Z2IzRW9LTGs1OUFkV3pjZFFTREE?oc=5)
+
+---
 
 
 <div class="disclaimer">
