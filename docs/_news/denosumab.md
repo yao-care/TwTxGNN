@@ -36,11 +36,11 @@ permalink: /news/denosumab/
 
 ## 相關新聞（1 則）
 
-### [「老倒縮」是真的！她變矮3公分、腰痠背痛竟罹「重度骨鬆」…醫示警：骨折沒前兆，4種人應主動篩檢| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUXcteml4VXY3ZmU3NUFfdkRBWHFKREREMTVBSzhwUHhtdUJJRHZjam9xMWgyU0FQbk1TR09FVHMyMWUtcERsZ1k1LU9RdmFZcVJNeFJn?oc=5)
+### [老了身高狂縮水？恐骨鬆警訊 醫教「332原則檢測法」自救！](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zRDI0N2JZRWZqZUtPOEw0YkRjZjMxSzkwZVhKZk5nMXBMdmlfX1hncTJRZzJadXREbjI3ejZiTF9VSktDdlE0TXJsa08?oc=5)
 
-2026-09-14 <span class="news-indication-tag">骨質疏鬆症</span>
+2026-09-10 <span class="news-indication-tag">骨質疏鬆症</span>
 
-來源：[LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUXcteml4VXY3ZmU3NUFfdkRBWHFKREREMTVBSzhwUHhtdUJJRHZjam9xMWgyU0FQbk1TR09FVHMyMWUtcERsZ1k1LU9RdmFZcVJNeFJn?oc=5)
+來源：[三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zRDI0N2JZRWZqZUtPOEw0YkRjZjMxSzkwZVhKZk5nMXBMdmlfX1hncTJRZzJadXREbjI3ejZiTF9VSktDdlE0TXJsa08?oc=5)
 
 ---
 
