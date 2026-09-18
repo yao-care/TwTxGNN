@@ -56,7 +56,7 @@ permalink: /news/acetazolamide/
 
 2026-09-17 <span class="news-indication-tag">癲癇</span>
 
-來源：[blocktempo.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0hPUUpvODZROXFxbFJzTnZONXRBdVVTNVg0VEV0elZDdFlmbTZmcURpWldhaFBmVUJiSnRqaGxRSEdOU09ibUtpaHFQY09LSDJ6YUpqNjhrNVBOSWhBdUNmbTJRT2hHbi0zU0lrR1drMGs1djU3QWpwR082b0JJYlZDc050YmZZT3VBdk1sR2VsRG9ZYWh5TzlPdjExZ3JuN3BkcUN5b1VYMW15dVl6dg?oc=5)
+來源：[動區動趨](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0hPUUpvODZROXFxbFJzTnZONXRBdVVTNVg0VEV0elZDdFlmbTZmcURpWldhaFBmVUJiSnRqaGxRSEdOU09ibUtpaHFQY09LSDJ6YUpqNjhrNVBOSWhBdUNmbTJRT2hHbi0zU0lrR1drMGs1djU3QWpwR082b0JJYlZDc050YmZZT3VBdk1sR2VsRG9ZYWh5TzlPdjExZ3JuN3BkcUN5b1VYMW15dVl6dg?oc=5)
 
 ---
 
@@ -64,7 +64,7 @@ permalink: /news/acetazolamide/
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源：[n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
 
 ---
 
