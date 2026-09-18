@@ -41,7 +41,7 @@ permalink: /news/levamisole/
 
 2026-09-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
 
 ---
 
@@ -49,7 +49,7 @@ permalink: /news/levamisole/
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源：[n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
 
 ---
 
@@ -57,7 +57,7 @@ permalink: /news/levamisole/
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 ---
 

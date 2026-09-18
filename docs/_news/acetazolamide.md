@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [破除新冠網路傳言 醫：打疫苗副作用大幅降低](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
 
 2026-09-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
-來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
+來源：[Yahoo新聞](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
+
+---
+
+### [科學家將人類腦組織植入老鼠，神經元成功整合：腦部疾病研究露曙光](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0hPUUpvODZROXFxbFJzTnZONXRBdVVTNVg0VEV0elZDdFlmbTZmcURpWldhaFBmVUJiSnRqaGxRSEdOU09ibUtpaHFQY09LSDJ6YUpqNjhrNVBOSWhBdUNmbTJRT2hHbi0zU0lrR1drMGs1djU3QWpwR082b0JJYlZDc050YmZZT3VBdk1sR2VsRG9ZYWh5TzlPdjExZ3JuN3BkcUN5b1VYMW15dVl6dg?oc=5)
+
+2026-09-17 <span class="news-indication-tag">癲癇</span>
+
+來源：[動區動趨](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0hPUUpvODZROXFxbFJzTnZONXRBdVVTNVg0VEV0elZDdFlmbTZmcURpWldhaFBmVUJiSnRqaGxRSEdOU09ibUtpaHFQY09LSDJ6YUpqNjhrNVBOSWhBdUNmbTJRT2hHbi0zU0lrR1drMGs1djU3QWpwR082b0JJYlZDc050YmZZT3VBdk1sR2VsRG9ZYWh5TzlPdjExZ3JuN3BkcUN5b1VYMW15dVl6dg?oc=5)
 
 ---
 
@@ -56,7 +64,7 @@ permalink: /news/acetazolamide/
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源：[n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
 
 ---
 
@@ -64,7 +72,7 @@ permalink: /news/acetazolamide/
 
 2026-09-12 <span class="news-indication-tag">癌症</span>
 
-來源：[Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+來源：[singtaousa.com](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
 
 ---
 
