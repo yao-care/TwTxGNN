@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [破除新冠網路傳言 醫：打疫苗副作用大幅降低](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
+
+2026-09-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
+
+來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

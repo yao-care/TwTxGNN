@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [權威期刊認證！1食物護心、降壞膽固醇：每天3份就見效](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQVBWekZjUEJVRTFlajluUndRMVBtWDRSaW91VVMybk5EWVN2M2NrLXpGeXhEQWtmNGlVMS1MYTRZWTA0bHViaWFxWE9MdWhMOS13UTVsX2tjZldmX2tNNTNwZk5MVjNUeVdEMXF0X3JRbEx2Uy05c3FVQ0UzTktFTTZQSEF6NU1mMkxCNDM0QU5SOWd3Q3ptVlRvZE5RQWxaNkpRdi00bXpRVXI3dW83ZXlWWXo4V1pPU3hpeTkxVDJldVFac1FvYzRUTGlCREU4a1hFbkJKMWNjcVhCakFHZjBnTmQxQ0NMRFBnNnFHVmdLMFJETzJlcUJmMnY2NktmLXJQWUZOanhWS2U2aTQtNHp3UE5XSkZpbjNWakd4bGZaMUdVSGhrdTJ0YkxqRGNxOEFFTnZkV0Jaa3pnbFlQTWRCRDFoWkRBZTVhN1pQcEtIVHVQMEE?oc=5)
+
+2026-09-18 <span class="news-indication-tag">心血管</span>
+
+來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQVBWekZjUEJVRTFlajluUndRMVBtWDRSaW91VVMybk5EWVN2M2NrLXpGeXhEQWtmNGlVMS1MYTRZWTA0bHViaWFxWE9MdWhMOS13UTVsX2tjZldmX2tNNTNwZk5MVjNUeVdEMXF0X3JRbEx2Uy05c3FVQ0UzTktFTTZQSEF6NU1mMkxCNDM0QU5SOWd3Q3ptVlRvZE5RQWxaNkpRdi00bXpRVXI3dW83ZXlWWXo4V1pPU3hpeTkxVDJldVFac1FvYzRUTGlCREU4a1hFbkJKMWNjcVhCakFHZjBnTmQxQ0NMRFBnNnFHVmdLMFJETzJlcUJmMnY2NktmLXJQWUZOanhWS2U2aTQtNHp3UE5XSkZpbjNWakd4bGZaMUdVSGhrdTJ0YkxqRGNxOEFFTnZkV0Jaa3pnbFlQTWRCRDFoWkRBZTVhN1pQcEtIVHVQMEE?oc=5)
+
+---
 
 
 <div class="disclaimer">

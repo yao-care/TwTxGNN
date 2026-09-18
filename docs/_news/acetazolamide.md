@@ -44,11 +44,11 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（3 則）
 
-### [科學家將人類腦組織植入老鼠，神經元成功整合：腦部疾病研究露曙光](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0hPUUpvODZROXFxbFJzTnZONXRBdVVTNVg0VEV0elZDdFlmbTZmcURpWldhaFBmVUJiSnRqaGxRSEdOU09ibUtpaHFQY09LSDJ6YUpqNjhrNVBOSWhBdUNmbTJRT2hHbi0zU0lrR1drMGs1djU3QWpwR082b0JJYlZDc050YmZZT3VBdk1sR2VsRG9ZYWh5TzlPdjExZ3JuN3BkcUN5b1VYMW15dVl6dg?oc=5)
+### [破除新冠網路傳言 醫：打疫苗副作用大幅降低](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
 
-2026-09-17 <span class="news-indication-tag">癲癇</span>
+2026-09-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
-來源：[動區動趨](https://news.google.com/rss/articles/CBMisAFBVV95cUxPX0hPUUpvODZROXFxbFJzTnZONXRBdVVTNVg0VEV0elZDdFlmbTZmcURpWldhaFBmVUJiSnRqaGxRSEdOU09ibUtpaHFQY09LSDJ6YUpqNjhrNVBOSWhBdUNmbTJRT2hHbi0zU0lrR1drMGs1djU3QWpwR082b0JJYlZDc050YmZZT3VBdk1sR2VsRG9ZYWh5TzlPdjExZ3JuN3BkcUN5b1VYMW15dVl6dg?oc=5)
+來源：[tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
 
 ---
 
@@ -56,7 +56,7 @@ permalink: /news/acetazolamide/
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源：[蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源：[n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
 
 ---
 
