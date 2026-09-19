@@ -1,15 +1,85 @@
 {
-  "generated": "2026-09-19T09:59:14.519536+00:00",
+  "generated": "2026-09-19T13:44:14.937651+00:00",
   "count": 11,
   "news": [
     {
-      "id": "6abe9a601ce2",
-      "title": "新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思- 健康",
-      "published": "2026-09-19T02:27:38+00:00",
+      "id": "be1a818214f7",
+      "title": "沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0",
+      "published": "2026-09-19T02:00:00+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "直腸癌",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7bfc05cd165",
+      "title": "新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思",
+      "published": "2026-09-19T01:17:12+00:00",
+      "sources": [
+        {
+          "name": "udn.com",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5"
         }
       ],
       "keywords": [
@@ -229,74 +299,19 @@
               "name": "Isosorbide dinitrate"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "be1a818214f7",
-      "title": "沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0",
-      "published": "2026-09-19T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
         },
         {
           "type": "indication",
-          "name": "直腸癌",
-          "keyword": "直腸癌",
+          "name": "stroke",
+          "keyword": "中風",
           "related_drugs": [
             {
-              "slug": "oteracil",
-              "name": "Oteracil"
+              "slug": "dronedarone",
+              "name": "Dronedarone"
             },
             {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
             }
           ]
         }
@@ -607,12 +622,12 @@
       ]
     },
     {
-      "id": "d95d8d7c9377",
+      "id": "6d96dc8a93a2",
       "title": "不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵",
       "published": "2026-09-16T03:04:58+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMHhqVTZBNVdmaEZhX2NHTUhpWlF4SWx5blRld2cybEdMdjBJbHFzdXlfSEVnblU5YVc3aE5qbk95d3lKbVJBSUJvNmlxcHZIakNwTTM1US0zZnFiV3RXX1hVNWpSNXZJQjVjSGNrUU9OWTdjMU1saGpEQUd0NGEyM3ppSWRTZHJpckV1dm9DdkRDVm1ERjB1Ny1KTVM0QjQ4dlluWUJ0cnNYMnM1b1lHdmFrdWowZlBzclh2LWdqeG42Rkl3Q25HdkZHSlctU2RLWTN0RkhNTEZDcUF0alR6b00weF9SU0h3cW55N1BONkJTQi1OTE5DTk1TcXFTS3kyQ2h6TmlMTnRjcjhGYV9nc0hkdWQ5bzR0dmwxUkQwTkJEVjJhbFJLMEltNGVIckQ5SFhfWU9DTDhNaG5fV3VjY0t3VTV0eUhQX3lHMkpCSWg2QlBXdUlrLWlTQmV5dmdqQ1V6YWxjY3hwNnJ5ekNVU0l2M2FROEcwRmdyMUZ1cVVjNkt0aWx1dHJUN0RMT1k?oc=5"
         }
       ],

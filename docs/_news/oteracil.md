@@ -44,19 +44,19 @@ permalink: /news/oteracil/
 
 ## 相關新聞（4 則）
 
-### [新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5)
-
-2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5)
-
----
-
 ### [沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5)
 
 2026-09-19 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5)
+
+---
+
+### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+
+2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
+
+來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
 
 ---
 

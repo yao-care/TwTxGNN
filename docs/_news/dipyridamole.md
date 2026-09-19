@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+
+2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
+
+來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+
+---
 
 
 <div class="disclaimer">
