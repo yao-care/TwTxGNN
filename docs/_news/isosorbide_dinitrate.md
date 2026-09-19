@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0kzMXZEUkM2NzNYMlB0bUJYRk40c1JGNUJNMXRyYkpoZHVlVThlYzFMMHlvSzlHTkh4TXpzOG1UQkRZSi1iNDFKOWo2UUhlOUYzYkJodXoyUG5zN3Vka0hkM2c3RU1tYW0xOVRlenE4S2F5aEhkNjhvdkFlUjM4SkdkdEJmNVlBYWNpRA?oc=5)
+### [新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
+
+2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
+
+---
+
+### [火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0kzMXZEUkM2NzNYMlB0bUJYRk40c1JGNUJNMXRyYkpoZHVlVThlYzFMMHlvSzlHTkh4TXpzOG1UQkRZSi1iNDFKOWo2UUhlOUYzYkJodXoyUG5zN3Vka0hkM2c3RU1tYW0xOVRlenE4S2F5aEhkNjhvdkFlUjM4SkdkdEJmNVlBYWNpRA?oc=5)
 
 2026-09-18 <span class="news-indication-tag">心血管</span>
 
-來源: [news.pchome.com.tw](https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0kzMXZEUkM2NzNYMlB0bUJYRk40c1JGNUJNMXRyYkpoZHVlVThlYzFMMHlvSzlHTkh4TXpzOG1UQkRZSi1iNDFKOWo2UUhlOUYzYkJodXoyUG5zN3Vka0hkM2c3RU1tYW0xOVRlenE4S2F5aEhkNjhvdkFlUjM4SkdkdEJmNVlBYWNpRA?oc=5)
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0kzMXZEUkM2NzNYMlB0bUJYRk40c1JGNUJNMXRyYkpoZHVlVThlYzFMMHlvSzlHTkh4TXpzOG1UQkRZSi1iNDFKOWo2UUhlOUYzYkJodXoyUG5zN3Vka0hkM2c3RU1tYW0xOVRlenE4S2F5aEhkNjhvdkFlUjM4SkdkdEJmNVlBYWNpRA?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [破除新冠網路傳言 醫：打疫苗副作用大幅降低](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
+### [沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5)
 
-2026-09-18 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
+2026-09-19 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiugJBVV95cUxNTUxuYWpUVkdBX09OMkk2T0c5OXZfYVZOREpqX19qekFGN3RRZmtCZFhzbkl4Mm1rVWhNWkRWbDcxUGpPSU9JWXc5bVkzcEU5OFpzb1UwaXlvMWZGT1Z6NUhzZUlpM0V2bTE0Vm5lREdaa2owbHk2XzRud2NHeVZQUk5BemoteF9EcWhjay1nWkZXaGRJTjhkSE9BejY4XzE1X2NPM1pzMUJDNDZKQzJhV3dYRzRJM0JLRWg4MllIaGVLM0hYYmRQTFVVNUtFZGFLZXVieFdqR0FYeUcwY2ZGYWFQNGRhV0taZ1BpWmNYNzh1WjROYzg4eVUtZ0pMNnZPZjlnVkhCT1NjT3BGdjBhM04xSUVDN2Z5b3RYWWdtbGVqZ0Z4eVpKeHNleVBVa2hHMlZkWkFLTjdDUQ?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5)
+
+---
+
+### [新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
+
+2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
+
+---
+
+### [不是花椰菜！「吃1食物」罹癌風險降20% 研究曝黃金份量](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Xd3hyblk1SEhOWGdYMEZHUzZGRy1EcUE2bkJBZjRkelpDbER5SUpHMzByZU5YMDA2WEpSdjV0MDJ6SDREaEZFNFdvM0E?oc=5)
+
+2026-09-17 <span class="news-indication-tag">癌症</span>
+
+來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Xd3hyblk1SEhOWGdYMEZHUzZGRy1EcUE2bkJBZjRkelpDbER5SUpHMzByZU5YMDA2WEpSdjV0MDJ6SDREaEZFNFdvM0E?oc=5)
 
 ---
 
@@ -56,23 +72,15 @@ permalink: /news/carboplatin/
 
 2026-09-15 <span class="news-indication-tag">乳癌</span>
 
-來源: [大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zaDllYk1MVkFzUjM1cTdpcl9MUTJDTGo5NVBja2JxWTV5UDJkYlJERDU4LXdsemNaamxzZ1BqbVM0T2M0OXg1bkJYWjF6UVcwckNPWDVKRHN5LTd4bEJGN9IBZkFVX3lxTE9qOHJIUkZlTVRvajg2WXIyWjBCNmZlYU5RMGVUYTdUN0I5Q21VVGs1eFJ0Ny05N2FzeWR1WlhaX3hXOTA4QmhteE01QUI3UjlUY0MyX1NyY2VYZEhqRmJUaWsydUdYZw?oc=5)
+來源: [epochtimes.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zaDllYk1MVkFzUjM1cTdpcl9MUTJDTGo5NVBja2JxWTV5UDJkYlJERDU4LXdsemNaamxzZ1BqbVM0T2M0OXg1bkJYWjF6UVcwckNPWDVKRHN5LTd4bEJGN9IBZkFVX3lxTE9qOHJIUkZlTVRvajg2WXIyWjBCNmZlYU5RMGVUYTdUN0I5Q21VVGs1eFJ0Ny05N2FzeWR1WlhaX3hXOTA4QmhteE01QUI3UjlUY0MyX1NyY2VYZEhqRmJUaWsydUdYZw?oc=5)
 
 ---
 
-### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
-
----
-
-### [德里24歲男子不育檢查發現子宮，罕見持續性苗勒管綜合症揭示癌症風險](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
-
-2026-09-12 <span class="news-indication-tag">癌症</span>
-
-來源: [Singtaousa](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc08zQVk0bFNIZjQ1ZXRkYVprM3lld0p2V3hjQXpRZjRMQTBSc2puSWsxeFJrakRTemlKUXpBM0swTTlvUTBkYVlSUjExakRnSTg3OTdkUXhTdV93VGJIVnBxMjFWS19ZS2lrUUh6amVISEljV083RS0yLUxSTlA0bEw5a2Q3OTlfdHRtNUkyQzJuNnBHNWlsNlNRand1NW9sdlZVZmlZUEF4djBsMV9CS3BEOGpKZ1psTkpEVmlYbUltdEtYQU5nS053d0dHNEREYXB5ajRn?oc=5)
+來源: [報新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 
 ---
 
