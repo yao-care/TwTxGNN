@@ -1,85 +1,15 @@
 {
-  "generated": "2026-09-19T05:18:56.233019+00:00",
+  "generated": "2026-09-19T09:59:14.519536+00:00",
   "count": 11,
   "news": [
     {
-      "id": "be1a818214f7",
-      "title": "沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0",
-      "published": "2026-09-19T02:00:00+00:00",
+      "id": "6abe9a601ce2",
+      "title": "新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思- 健康",
+      "published": "2026-09-19T02:27:38+00:00",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "直腸癌",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f0433a820484",
-      "title": "新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？",
-      "published": "2026-09-19T01:14:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5"
         }
       ],
       "keywords": [
@@ -299,19 +229,74 @@
               "name": "Isosorbide dinitrate"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "be1a818214f7",
+      "title": "沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0",
+      "published": "2026-09-19T02:00:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
         },
         {
           "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
+          "name": "直腸癌",
+          "keyword": "直腸癌",
           "related_drugs": [
             {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
+              "slug": "oteracil",
+              "name": "Oteracil"
             },
             {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -342,6 +327,30 @@
       ]
     },
     {
+      "id": "6038e9ee01e1",
+      "title": "鼠頭植“人腦”！小鼠會變更聰明嗎？",
+      "published": "2026-09-18T07:19:00+00:00",
+      "sources": [
+        {
+          "name": "鉅亨號",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01a20xNmVzMEFBcTk4dDdwX1JmOTBDR3dJaVh6VTJaX05wZ1kzOGJTTFRIMU0tUzdLdFByWnQtMHlrbFV1RS12WQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "癲癇",
+          "keyword": "癲癇",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "2ef5c7aff454",
       "title": "骨質疏鬆藥竟和阿茲海默症有關？12萬名長者研究發現一個驚人現象",
       "published": "2026-09-17T22:06:46+00:00",
@@ -360,30 +369,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7f7c43746ef5",
-      "title": "「半人半鼠」真的出現了？史丹佛打造人類腦組織小鼠 研究腦部疾病",
-      "published": "2026-09-17T13:08:45+00:00",
-      "sources": [
-        {
-          "name": "udn",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9sRER6YUF5V05Eb2pwX3BHRDVWNGR3US13YjlNRW1tOVhoRUNPY3lSZVN1Tlo0ZkI0dGJDcXVtR3VXWmpjT0xtZEZxTnd4eHhw0gFWQVVfeXFMTnlVWnpvSlJXZE5mWDlYOEZiS0lNZVpsbzlCTWRpSEV5M0w0XzNqOFc5SzRpZURQbVIyeFA2dUFDa0Jlb214eWZqZGhSZTk1TWVRbllqWXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "癲癇",
-          "keyword": "癲癇",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
             }
           ]
         }
@@ -414,13 +399,13 @@
       ]
     },
     {
-      "id": "1d0c8e3c8478",
-      "title": "不是花椰菜！「吃1食物」罹癌風險降20% 研究曝黃金份量",
-      "published": "2026-09-17T03:45:47+00:00",
+      "id": "e22fce84de47",
+      "title": "不是花椰菜！「吃1食物」罹癌風險降20% - 鏡週刊Mirror Media",
+      "published": "2026-09-17T03:41:00+00:00",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Xd3hyblk1SEhOWGdYMEZHUzZGRy1EcUE2bkJBZjRkelpDbER5SUpHMzByZU5YMDA2WEpSdjV0MDJ6SDREaEZFNFdvM0E?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIT1hhdVI4a3Q4UDNXUmtOSTVCNzc3ZXB6UmUtdkVVR3ZudnBJbGd2ZURkSmdRMWU1dmQwR3hHeW5iSmUzeGV0V0VaYXJLZDFZbUNMX2JqUXZnVGJB0gFiQVVfeXFMTUVRWUpwd1JHaTl3WmRkQ010Sm1MYUhUS3RGS3VSR3lDWE9VZEtBcG5CX2ktekt6WjZuUnZNcXNwZDFlbXluZGVDSjc2VmRzZmdKVnlpb1BvbEVvTmdtTjduUmc?oc=5"
         }
       ],
       "keywords": [
@@ -622,12 +607,12 @@
       ]
     },
     {
-      "id": "6d96dc8a93a2",
+      "id": "d95d8d7c9377",
       "title": "不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵",
       "published": "2026-09-16T03:04:58+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMHhqVTZBNVdmaEZhX2NHTUhpWlF4SWx5blRld2cybEdMdjBJbHFzdXlfSEVnblU5YVc3aE5qbk95d3lKbVJBSUJvNmlxcHZIakNwTTM1US0zZnFiV3RXX1hVNWpSNXZJQjVjSGNrUU9OWTdjMU1saGpEQUd0NGEyM3ppSWRTZHJpckV1dm9DdkRDVm1ERjB1Ny1KTVM0QjQ4dlluWUJ0cnNYMnM1b1lHdmFrdWowZlBzclh2LWdqeG42Rkl3Q25HdkZHSlctU2RLWTN0RkhNTEZDcUF0alR6b00weF9SU0h3cW55N1BONkJTQi1OTE5DTk1TcXFTS3kyQ2h6TmlMTnRjcjhGYV9nc0hkdWQ5bzR0dmwxUkQwTkJEVjJhbFJLMEltNGVIckQ5SFhfWU9DTDhNaG5fV3VjY0t3VTV0eUhQX3lHMkpCSWg2QlBXdUlrLWlTQmV5dmdqQ1V6YWxjY3hwNnJ5ekNVU0l2M2FROEcwRmdyMUZ1cVVjNkt0aWx1dHJUN0RMT1k?oc=5"
         }
       ],
@@ -672,12 +657,12 @@
       ]
     },
     {
-      "id": "85467c6171f1",
+      "id": "0fda9b6342c3",
       "title": "乳癌術後疼痛竟與維生素D有關？",
       "published": "2026-09-15T06:41:00+00:00",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zaDllYk1MVkFzUjM1cTdpcl9MUTJDTGo5NVBja2JxWTV5UDJkYlJERDU4LXdsemNaamxzZ1BqbVM0T2M0OXg1bkJYWjF6UVcwckNPWDVKRHN5LTd4bEJGN9IBZkFVX3lxTE9qOHJIUkZlTVRvajg2WXIyWjBCNmZlYU5RMGVUYTdUN0I5Q21VVGs1eFJ0Ny05N2FzeWR1WlhaX3hXOTA4QmhteE01QUI3UjlUY0MyX1NyY2VYZEhqRmJUaWsydUdYZw?oc=5"
         }
       ],

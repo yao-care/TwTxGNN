@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
-
-2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
