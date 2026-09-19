@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+### [新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
 
 2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
 
-來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi6ARBVV95cUxNbjExRThJZ1VQdkV1VWpyTHlSOXZfVXNxR09FN1EtRzNtNHJKNExFUll0dFpQVVU4aXR0a2ZOVFJyYmJqdkgtdEp5aHRjR0dMTXpMdlJjenhCeEIzdWItQ243U0gwbkFXTzhRWHVJeWlMSkFJREFJWUVJRHBWUmNwU1R4RV9kbVhydHlncjY3UDAzWExjZ0F3U0lWZ25vWTQ2cVlrMU85cGJoMzByQk51M2hnVUJQcDlqdThwQkl6WXhCZVNJTVNZTHVEQWgxbUtPQm5ZSlR6SWROX2lFZ0pHXzBXOXh4SzFVbXpqNXo5NVo4ZHBEaUs4VzAzYWdORXd5RmcteVRucHJYMjViVGZzZVAyNG1PQjdzdFA3V250R0UtWUtfN0M1Zy1fbzFCU1dHR3VoSVZBRmI0Q19BMVYxcGNFLW5BakwtWkhwaUJYUWwyMDRrbnVOLXlCTm84SnNZc3VWLVZxNmV4ZmVTSUVfcmREYVNLOTJQT1ZQOFRudmhvVlJucHd1Q2dpRlZPX2hxMnA1YWtIbkNnOGpCQm40d2RyNF85OHgwRExtVXIteTFJbG11dHdnMEtiOGo0VkRkeVNIX0d4Y0J0TzhmZGNKWVN1VG51T1NEZ1hVUlo1NHlITTJ1ODhIUE1YSFJPbTRuUVpvMzY5OHVFVTVNbWFaYXNrTWJPUU9MeGxseG9zWlJod2p1VlAtbG5JSDdrcl84SFNaMmFYX1ZuRUlycC1xZUNNOURlU2pIQy1pNFptY09HY05kWWZLNmRtR045aDNFak5BVmZBeWZRSVB0RkVhaXNyb3dQS1o5?oc=5)
 
 ---
 
@@ -55,7 +55,7 @@ permalink: /news/gefitinib/
 
 2026-09-17 <span class="news-indication-tag">阿茲海默症</span>
 
-來源: [Singtaousa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5)
+來源: [singtaousa.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5)
 
 ---
 
@@ -64,14 +64,6 @@ permalink: /news/gefitinib/
 2026-09-17 <span class="news-indication-tag">失智</span>
 
 來源: [JUKSY 街星](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5)
-
----
-
-### [不是花椰菜！「吃1食物」罹癌風險降20% - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIT1hhdVI4a3Q4UDNXUmtOSTVCNzc3ZXB6UmUtdkVVR3ZudnBJbGd2ZURkSmdRMWU1dmQwR3hHeW5iSmUzeGV0V0VaYXJLZDFZbUNMX2JqUXZnVGJB0gFiQVVfeXFMTUVRWUpwd1JHaTl3WmRkQ010Sm1MYUhUS3RGS3VSR3lDWE9VZEtBcG5CX2ktekt6WjZuUnZNcXNwZDFlbXluZGVDSjc2VmRzZmdKVnlpb1BvbEVvTmdtTjduUmc?oc=5)
-
-2026-09-17 <span class="news-indication-tag">癌症</span>
-
-來源: [鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBIT1hhdVI4a3Q4UDNXUmtOSTVCNzc3ZXB6UmUtdkVVR3ZudnBJbGd2ZURkSmdRMWU1dmQwR3hHeW5iSmUzeGV0V0VaYXJLZDFZbUNMX2JqUXZnVGJB0gFiQVVfeXFMTUVRWUpwd1JHaTl3WmRkQ010Sm1MYUhUS3RGS3VSR3lDWE9VZEtBcG5CX2ktekt6WjZuUnZNcXNwZDFlbXluZGVDSjc2VmRzZmdKVnlpb1BvbEVvTmdtTjduUmc?oc=5)
 
 ---
 
