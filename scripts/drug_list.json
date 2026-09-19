@@ -1,6 +1,6 @@
 {
   "total": 279,
-  "generated_at": "2026-09-18T15:37:13.054287",
+  "generated_at": "2026-09-19T02:40:24.533863",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -1104,7 +1104,7 @@
     {
       "name": "Milrinone",
       "file": "milrinone.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹、頭痛障礙、充血性心衰竭"
     },
@@ -1118,7 +1118,7 @@
     {
       "name": "Moclobemide",
       "file": "moclobemide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 2,
       "predicted_indication": "廣場恐懼症、良性陣發性斜頸症"
     },
@@ -1167,7 +1167,7 @@
     {
       "name": "Nepafenac",
       "file": "nepafenac.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "predicted_indication": "眼科疾病（廣泛眼科應用）"
     },
@@ -1321,7 +1321,7 @@
     {
       "name": "Pimozide",
       "file": "pimozide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": ""
     },
@@ -1335,14 +1335,14 @@
     {
       "name": "Pitavastatin",
       "file": "pitavastatin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": ""
     },
     {
       "name": "Pitolisant",
       "file": "pitolisant.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 3,
       "predicted_indication": ""
     },
@@ -1650,21 +1650,21 @@
     {
       "name": "Tenofovir Alafenamide",
       "file": "tenofovir_alafenamide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 3,
       "predicted_indication": "SIV 感染、貓愛滋病、神經發育障礙"
     },
     {
       "name": "Terbutaline",
       "file": "terbutaline.md",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 3,
       "predicted_indication": "阻塞性肺病（COPD）"
     },
     {
       "name": "Teriparatide",
       "file": "teriparatide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "妊娠相關骨質疏鬆症（PLO）、十二指腸潰瘍、食道疾病"
     },
@@ -1685,14 +1685,14 @@
     {
       "name": "Theophylline",
       "file": "theophylline.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 7,
       "predicted_indication": "鼻腔疾病（嗅覺障礙）、阻塞性肺病、氣管疾病、血栓性疾病"
     },
     {
       "name": "Thiamine",
       "file": "thiamine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 4,
       "predicted_indication": "甲狀腺亢進、甲狀腺素受體 beta 突變、開角型青光眼"
     },
