@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5)
+### [45歲前也要注意！常規血檢或藏大腸癌線索](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Mck5Uc1l0OW9hNUJFTnpocEstUUxINEtRRUlwVkNxbmItLWd6ZWpMSTlPa2hvV01YOHdmOFRSa01LLWhCTWFwYW4xcjI4VjI1cWt4c1FhT0hyS1p3SnBj?oc=5)
 
-2026-09-19
+2026-09-13
 
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE14aHRNRjRLU0w1cXhPTklYUUpPeVgzRFZ0NmtySk9BVElCRnFnU1dpUDA0SXd5RlRDTjVGOUIyeHV6aWZpYWo2cEtIWW5meFJTRjI4?oc=5)
+來源: [大紀元時報香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Mck5Uc1l0OW9hNUJFTnpocEstUUxINEtRRUlwVkNxbmItLWd6ZWpMSTlPa2hvV01YOHdmOFRSa01LLWhCTWFwYW4xcjI4VjI1cWt4c1FhT0hyS1p3SnBj?oc=5)
 
 ---
 
