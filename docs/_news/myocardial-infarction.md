@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "心梗 (myocardial infarction) 相關新聞"
+title: "心肌梗塞 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心梗 (myocardial infarction) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心肌梗塞 (myocardial infarction) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 ---
 
-# 心梗 (myocardial infarction) 相關新聞
+# 心肌梗塞 (myocardial infarction) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
-<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="心肌梗塞 (myocardial infarction) 有什麼相關新聞？">
+<strong>心肌梗塞 (myocardial infarction)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心梗」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「心肌梗塞」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,19 +31,19 @@ permalink: /news/myocardial-infarction/
 
 ## 相關新聞（2 則）
 
+### [沒吃蛋、內臟仍高血脂！醫曝「它們才是關鍵」：戒掉就降膽固醇](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qbWI0bnVxa1ZpanRjTThyalBhNzZQazVKVzRITUtjdURLMDg3SjdoQVlSX2JwYVl5a3pOZUdYYTc0bG9IeFNFSlRIOEw?oc=5)
+
+2026-09-20
+
+來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qbWI0bnVxa1ZpanRjTThyalBhNzZQazVKVzRITUtjdURLMDg3SjdoQVlSX2JwYVl5a3pOZUdYYTc0bG9IeFNFSlRIOEw?oc=5)
+
+---
+
 ### [房仲金童吸金才重判12年，竟A流併發心梗猝逝！醫：流感7天內心臟病風險增6倍](https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5)
 
 2026-09-20
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5)
-
----
-
-### [低密度脂蛋白過高恐誘發心肌梗塞！心臟科醫師推薦15種「降壞膽固醇食物」：藍莓抗氧化、燕麥刮油，吃出乾淨血管 - Women's Health](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2JneDVtdVM4ZzRTVGF5ckxLUEFCZ0hoSjZVSmhBMUVtWkxLZEZRcFdqOU1Yd0E1MFVJNC13cG5uckpXR0xNbTFYMl9RWllfVGxCTzhManZUOWs4RzRCSHhlWVpaNUh4TkJaZ0gzLVlSQWJMTzZtQUFYNVVGNlRfVGlhVVJweHlMQWJfWVFrSnFsS05uN3ljVWI3d2h3M050TjdIM1lGM0YybVdaX3FiX0VvMjN3WENBR0VuMjJB?oc=5)
-
-2026-09-16
-
-來源: [Women's Health](https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2JneDVtdVM4ZzRTVGF5ckxLUEFCZ0hoSjZVSmhBMUVtWkxLZEZRcFdqOU1Yd0E1MFVJNC13cG5uckpXR0xNbTFYMl9RWllfVGxCTzhManZUOWs4RzRCSHhlWVpaNUh4TkJaZ0gzLVlSQWJMTzZtQUFYNVVGNlRfVGlhVVJweHlMQWJfWVFrSnFsS05uN3ljVWI3d2h3M050TjdIM1lGM0YybVdaX3FiX0VvMjN3WENBR0VuMjJB?oc=5)
 
 ---
 
