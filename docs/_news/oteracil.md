@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>: 胃癌用藥。</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">colonic neoplasm (100.0%)<span class="indication-tag">📰 大腸癌</span></li>
+<li>colonic neoplasm (100.0%)</li>
 <li>cecum villous adenoma (100.0%)</li>
 <li>cecum neuroendocrine tumor G1 (100.0%)</li>
 <li>lipoma of colon (100.0%)</li>
@@ -42,39 +42,9 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（0 則）
 
-### [大腸癌不是腸胃炎，專家帶你識別“癌信號”](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYkExcGNRUG5hRXl6X0hmeU1ibVdtd1BiWFY0Y2ZjbmFmWF9NUUNoVHc0Mk5fUDFma0dGc2liLWM4S0xRN1BPUm13RVYtbEktMVI0NGFKSXJDZmFaWXZRYW5NOXpBdmRfdi1uTk1DdlA?oc=5)
-
-2026-09-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">胃炎</span>
-
-來源: [fj.people.com.cn](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYkExcGNRUG5hRXl6X0hmeU1ibVdtd1BiWFY0Y2ZjbmFmWF9NUUNoVHc0Mk5fUDFma0dGc2liLWM4S0xRN1BPUm13RVYtbEktMVI0NGFKSXJDZmFaWXZRYW5NOXpBdmRfdi1uTk1DdlA?oc=5)
-
----
-
-### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
-
-2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
-
-來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
-
----
-
-### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
-
-2026-09-15 <span class="news-indication-tag">癌症</span>
-
-來源: [contentplatform.info](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
-
----
-
-### [45歲前也要注意！常規血檢或藏大腸癌線索](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Mck5Uc1l0OW9hNUJFTnpocEstUUxINEtRRUlwVkNxbmItLWd6ZWpMSTlPa2hvV01YOHdmOFRSa01LLWhCTWFwYW4xcjI4VjI1cWt4c1FhT0hyS1p3SnBj?oc=5)
-
-2026-09-13 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [大紀元時報香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Mck5Uc1l0OW9hNUJFTnpocEstUUxINEtRRUlwVkNxbmItLWd6ZWpMSTlPa2hvV01YOHdmOFRSa01LLWhCTWFwYW4xcjI4VjI1cWt4c1FhT0hyS1p3SnBj?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

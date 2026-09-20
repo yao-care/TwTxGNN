@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,55 +41,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（0 則）
 
-### [長者抑鬱不只情緒問題 研究指或是阿茲海默症早期警號](https://news.google.com/rss/articles/CBMigwNBVV95cUxPQWNoVjFYUWZxcDlmLTNsSDFiWkF5OHplZzA1TmZvMXJlaUFPMUE5enItc0E3YmZ0Zy11czJZc1RyVnFUU1N5ZnlDZ0ZDamxXWjA4YS1RX2V3R2RBcTNqbHQ5WkdCSVJNOGtZZm5qbEowd1BVVDF5ZVkwbnJkd1ZlU2VCMEdNc3hwU09wYlhOQ2piWGw1SFBRYU8tOHVrT3Z1OHc4U1g1RkU5TU5ocHhwOUJWdEEzWHduenowVWpkNEcyT2dGT0VMQmgzQnM5UkJydGZSUjQteGxzcW0zdUxHb3dSWmZuQnltVVc3ZDVUSDJkeVNPekIwSXZ6eE5idEhJekZMejZuZlFkOWlLQ3lWM1htVjMwclQyU0ZoRS1MY0w4VXNpN0lGSmVCeGVxZS0yZVhkOFBFNS1uYk1KdzM3cm5xdlpCZjdjMzJCUXBPSnZSTUQwelo3RjM2SGRhVlNxWFA3T0JjdXNHMVh3UURpSlB1bWhoVFFwaExqX1NTbkJnNmc?oc=5)
-
-2026-09-20 <span class="news-indication-tag">阿茲海默症</span>
-
-來源: [AM730](https://news.google.com/rss/articles/CBMigwNBVV95cUxPQWNoVjFYUWZxcDlmLTNsSDFiWkF5OHplZzA1TmZvMXJlaUFPMUE5enItc0E3YmZ0Zy11czJZc1RyVnFUU1N5ZnlDZ0ZDamxXWjA4YS1RX2V3R2RBcTNqbHQ5WkdCSVJNOGtZZm5qbEowd1BVVDF5ZVkwbnJkd1ZlU2VCMEdNc3hwU09wYlhOQ2piWGw1SFBRYU8tOHVrT3Z1OHc4U1g1RkU5TU5ocHhwOUJWdEEzWHduenowVWpkNEcyT2dGT0VMQmgzQnM5UkJydGZSUjQteGxzcW0zdUxHb3dSWmZuQnltVVc3ZDVUSDJkeVNPekIwSXZ6eE5idEhJekZMejZuZlFkOWlLQ3lWM1htVjMwclQyU0ZoRS1MY0w4VXNpN0lGSmVCeGVxZS0yZVhkOFBFNS1uYk1KdzM3cm5xdlpCZjdjMzJCUXBPSnZSTUQwelo3RjM2SGRhVlNxWFA3T0JjdXNHMVh3UURpSlB1bWhoVFFwaExqX1NTbkJnNmc?oc=5)
-
----
-
-### [沒吃蛋、內臟仍高血脂！醫曝「它們才是關鍵」：戒掉就降膽固醇](https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zZXZPSTFKUkprYU5Qa2NpSXctRloyNVpnUTRLN25abHN3T0pBaU4zak1MQ29UaDAtYURVQWVHbDYtT2Uzdzd3Q9IBTEFVX3lxTE9IVnFpekN2R1M1X05PQ0RGazFlSjZ2Mm5QV2g1Y211VGN0cXRYVWlfaFBOY2tmVjdqeGdpMzZXLVR1RlFJUjYzYjFsQnM?oc=5)
-
-2026-09-20 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span>
-
-來源: [setn.com](https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zZXZPSTFKUkprYU5Qa2NpSXctRloyNVpnUTRLN25abHN3T0pBaU4zak1MQ29UaDAtYURVQWVHbDYtT2Uzdzd3Q9IBTEFVX3lxTE9IVnFpekN2R1M1X05PQ0RGazFlSjZ2Mm5QV2g1Y211VGN0cXRYVWlfaFBOY2tmVjdqeGdpMzZXLVR1RlFJUjYzYjFsQnM?oc=5)
-
----
-
-### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
-
-2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
-
-來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
-
----
-
-### [骨質疏鬆藥竟和阿茲海默症有關？12萬名長者研究發現一個驚人現象](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5)
-
-2026-09-17 <span class="news-indication-tag">阿茲海默症</span>
-
-來源: [Singtaousa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5)
-
----
-
-### [計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密 - JUKSY 街星](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5)
-
-2026-09-17 <span class="news-indication-tag">失智</span>
-
-來源: [JUKSY 街星](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5)
-
----
-
-### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
-
-2026-09-15 <span class="news-indication-tag">癌症</span>
-
-來源: [contentplatform.info](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
