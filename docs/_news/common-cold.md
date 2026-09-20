@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [新型病毒進入高發期 症狀酷似感冒 鍾南山：全世界沒有特效藥](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcUlaQjVtb3IwVWYzcGhrQ0pBeUo0TXdEV2ltUFdIVk9iQTZkNU84ZFJDcDZ2YmZvcFlDRTZJNF84M25MdXRkcmNHek5QSklqNDlySEN5bVpmUdIBX0FVX3lxTFBaTXBoUzFiY0NxemxKWUFLRFF3RV9MNWhxWms5WVY2NkxnNlBhZU1VV1QzQXlyRHlLd2kwRnBBekdCTDhTMkNTcU5sbklXcms5cFM4Nzd4SmI4cUMyZ29R?oc=5)
+
+2026-09-20
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcUlaQjVtb3IwVWYzcGhrQ0pBeUo0TXdEV2ltUFdIVk9iQTZkNU84ZFJDcDZ2YmZvcFlDRTZJNF84M25MdXRkcmNHek5QSklqNDlySEN5bVpmUdIBX0FVX3lxTFBaTXBoUzFiY0NxemxKWUFLRFF3RV9MNWhxWms5WVY2NkxnNlBhZU1VV1QzQXlyRHlLd2kwRnBBekdCTDhTMkNTcU5sbklXcms5cFM4Nzd4SmI4cUMyZ29R?oc=5)
+
+---
 
 ### [孕期感冒安全用藥不傷胎- 國際](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY1E5TklfSENCMXRhMF9ucXhBUURqSnpMWF9xYlZEeU5LeV9ETENYd01zLWFOUTdCdXRlVzI4Ql8wNW9XYS1kQ0tsNEhjZVhUV3BWS0ptOGZ2ZWNwRE84bWFUVE5jSEdaLXc?oc=5)
 

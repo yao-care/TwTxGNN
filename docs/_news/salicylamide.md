@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [新型病毒進入高發期 症狀酷似感冒 鍾南山：全世界沒有特效藥](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcUlaQjVtb3IwVWYzcGhrQ0pBeUo0TXdEV2ltUFdIVk9iQTZkNU84ZFJDcDZ2YmZvcFlDRTZJNF84M25MdXRkcmNHek5QSklqNDlySEN5bVpmUdIBX0FVX3lxTFBaTXBoUzFiY0NxemxKWUFLRFF3RV9MNWhxWms5WVY2NkxnNlBhZU1VV1QzQXlyRHlLd2kwRnBBekdCTDhTMkNTcU5sbklXcms5cFM4Nzd4SmI4cUMyZ29R?oc=5)
+
+2026-09-20 <span class="news-indication-tag">感冒</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcUlaQjVtb3IwVWYzcGhrQ0pBeUo0TXdEV2ltUFdIVk9iQTZkNU84ZFJDcDZ2YmZvcFlDRTZJNF84M25MdXRkcmNHek5QSklqNDlySEN5bVpmUdIBX0FVX3lxTFBaTXBoUzFiY0NxemxKWUFLRFF3RV9MNWhxWms5WVY2NkxnNlBhZU1VV1QzQXlyRHlLd2kwRnBBekdCTDhTMkNTcU5sbklXcms5cFM4Nzd4SmI4cUMyZ29R?oc=5)
+
+---
 
 ### [不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵](https://news.google.com/rss/articles/CBMijwNBVV95cUxPMHhqVTZBNVdmaEZhX2NHTUhpWlF4SWx5blRld2cybEdMdjBJbHFzdXlfSEVnblU5YVc3aE5qbk95d3lKbVJBSUJvNmlxcHZIakNwTTM1US0zZnFiV3RXX1hVNWpSNXZJQjVjSGNrUU9OWTdjMU1saGpEQUd0NGEyM3ppSWRTZHJpckV1dm9DdkRDVm1ERjB1Ny1KTVM0QjQ4dlluWUJ0cnNYMnM1b1lHdmFrdWowZlBzclh2LWdqeG42Rkl3Q25HdkZHSlctU2RLWTN0RkhNTEZDcUF0alR6b00weF9SU0h3cW55N1BONkJTQi1OTE5DTk1TcXFTS3kyQ2h6TmlMTnRjcjhGYV9nc0hkdWQ5bzR0dmwxUkQwTkJEVjJhbFJLMEltNGVIckQ5SFhfWU9DTDhNaG5fV3VjY0t3VTV0eUhQX3lHMkpCSWg2QlBXdUlrLWlTQmV5dmdqQ1V6YWxjY3hwNnJ5ekNVU0l2M2FROEcwRmdyMUZ1cVVjNkt0aWx1dHJUN0RMT1k?oc=5)
 

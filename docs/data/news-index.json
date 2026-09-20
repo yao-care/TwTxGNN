@@ -1,7 +1,55 @@
 {
-  "generated": "2026-09-20T08:05:41.706220+00:00",
-  "count": 11,
+  "generated": "2026-09-20T13:20:33.140950+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "7ab32745d850",
+      "title": "新型病毒進入高發期 症狀酷似感冒 鍾南山：全世界沒有特效藥",
+      "published": "2026-09-20T12:22:36+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VcUlaQjVtb3IwVWYzcGhrQ0pBeUo0TXdEV2ltUFdIVk9iQTZkNU84ZFJDcDZ2YmZvcFlDRTZJNF84M25MdXRkcmNHek5QSklqNDlySEN5bVpmUdIBX0FVX3lxTFBaTXBoUzFiY0NxemxKWUFLRFF3RV9MNWhxWms5WVY2NkxnNlBhZU1VV1QzQXlyRHlLd2kwRnBBekdCTDhTMkNTcU5sbklXcms5cFM4Nzd4SmI4cUMyZ29R?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2b21c9d2cad",
+      "title": "長者抑鬱不只情緒問題 研究指或是阿茲海默症早期警號",
+      "published": "2026-09-20T03:30:00+00:00",
+      "sources": [
+        {
+          "name": "am730.com.hk",
+          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPQWNoVjFYUWZxcDlmLTNsSDFiWkF5OHplZzA1TmZvMXJlaUFPMUE5enItc0E3YmZ0Zy11czJZc1RyVnFUU1N5ZnlDZ0ZDamxXWjA4YS1RX2V3R2RBcTNqbHQ5WkdCSVJNOGtZZm5qbEowd1BVVDF5ZVkwbnJkd1ZlU2VCMEdNc3hwU09wYlhOQ2piWGw1SFBRYU8tOHVrT3Z1OHc4U1g1RkU5TU5ocHhwOUJWdEEzWHduenowVWpkNEcyT2dGT0VMQmgzQnM5UkJydGZSUjQteGxzcW0zdUxHb3dSWmZuQnltVVc3ZDVUSDJkeVNPekIwSXZ6eE5idEhJekZMejZuZlFkOWlLQ3lWM1htVjMwclQyU0ZoRS1MY0w4VXNpN0lGSmVCeGVxZS0yZVhkOFBFNS1uYk1KdzM3cm5xdlpCZjdjMzJCUXBPSnZSTUQwelo3RjM2SGRhVlNxWFA3T0JjdXNHMVh3UURpSlB1bWhoVFFwaExqX1NTbkJnNmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9d5e4a179053",
       "title": "沒吃蛋、內臟仍高血脂！醫曝「它們才是關鍵」：戒掉就降膽固醇",
@@ -147,13 +195,13 @@
       ]
     },
     {
-      "id": "7e8c40df9829",
-      "title": "新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思",
-      "published": "2026-09-19T01:17:12+00:00",
+      "id": "6abe9a601ce2",
+      "title": "新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思- 健康",
+      "published": "2026-09-19T02:27:38+00:00",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5"
         }
       ],
       "keywords": [
@@ -373,21 +421,6 @@
               "name": "Isosorbide dinitrate"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
         }
       ]
     },
@@ -562,12 +595,12 @@
       ]
     },
     {
-      "id": "87c25172d6f6",
+      "id": "e23c1b9b4131",
       "title": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點",
       "published": "2026-09-15T00:44:00+00:00",
       "sources": [
         {
-          "name": "報新聞",
+          "name": "contentplatform.info",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5"
         }
       ],

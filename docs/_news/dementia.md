@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智症 (dementia) 相關新聞"
+title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智症 (dementia) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智症 (dementia) 相關新聞
+# 阿茲海默症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
-<strong>失智症 (dementia)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [長者抑鬱不只情緒問題 研究指或是阿茲海默症早期警號](https://news.google.com/rss/articles/CBMigwNBVV95cUxPQWNoVjFYUWZxcDlmLTNsSDFiWkF5OHplZzA1TmZvMXJlaUFPMUE5enItc0E3YmZ0Zy11czJZc1RyVnFUU1N5ZnlDZ0ZDamxXWjA4YS1RX2V3R2RBcTNqbHQ5WkdCSVJNOGtZZm5qbEowd1BVVDF5ZVkwbnJkd1ZlU2VCMEdNc3hwU09wYlhOQ2piWGw1SFBRYU8tOHVrT3Z1OHc4U1g1RkU5TU5ocHhwOUJWdEEzWHduenowVWpkNEcyT2dGT0VMQmgzQnM5UkJydGZSUjQteGxzcW0zdUxHb3dSWmZuQnltVVc3ZDVUSDJkeVNPekIwSXZ6eE5idEhJekZMejZuZlFkOWlLQ3lWM1htVjMwclQyU0ZoRS1MY0w4VXNpN0lGSmVCeGVxZS0yZVhkOFBFNS1uYk1KdzM3cm5xdlpCZjdjMzJCUXBPSnZSTUQwelo3RjM2SGRhVlNxWFA3T0JjdXNHMVh3UURpSlB1bWhoVFFwaExqX1NTbkJnNmc?oc=5)
+
+2026-09-20
+
+來源: [am730.com.hk](https://news.google.com/rss/articles/CBMigwNBVV95cUxPQWNoVjFYUWZxcDlmLTNsSDFiWkF5OHplZzA1TmZvMXJlaUFPMUE5enItc0E3YmZ0Zy11czJZc1RyVnFUU1N5ZnlDZ0ZDamxXWjA4YS1RX2V3R2RBcTNqbHQ5WkdCSVJNOGtZZm5qbEowd1BVVDF5ZVkwbnJkd1ZlU2VCMEdNc3hwU09wYlhOQ2piWGw1SFBRYU8tOHVrT3Z1OHc4U1g1RkU5TU5ocHhwOUJWdEEzWHduenowVWpkNEcyT2dGT0VMQmgzQnM5UkJydGZSUjQteGxzcW0zdUxHb3dSWmZuQnltVVc3ZDVUSDJkeVNPekIwSXZ6eE5idEhJekZMejZuZlFkOWlLQ3lWM1htVjMwclQyU0ZoRS1MY0w4VXNpN0lGSmVCeGVxZS0yZVhkOFBFNS1uYk1KdzM3cm5xdlpCZjdjMzJCUXBPSnZSTUQwelo3RjM2SGRhVlNxWFA3T0JjdXNHMVh3UURpSlB1bWhoVFFwaExqX1NTbkJnNmc?oc=5)
+
+---
 
 ### [沒吃蛋、內臟仍高血脂！醫曝「它們才是關鍵」：戒掉就降膽固醇](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qbWI0bnVxa1ZpanRjTThyalBhNzZQazVKVzRITUtjdURLMDg3SjdoQVlSX2JwYVl5a3pOZUdYYTc0bG9IeFNFSlRIOEw?oc=5)
 

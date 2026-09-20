@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [長者抑鬱不只情緒問題 研究指或是阿茲海默症早期警號](https://news.google.com/rss/articles/CBMigwNBVV95cUxPQWNoVjFYUWZxcDlmLTNsSDFiWkF5OHplZzA1TmZvMXJlaUFPMUE5enItc0E3YmZ0Zy11czJZc1RyVnFUU1N5ZnlDZ0ZDamxXWjA4YS1RX2V3R2RBcTNqbHQ5WkdCSVJNOGtZZm5qbEowd1BVVDF5ZVkwbnJkd1ZlU2VCMEdNc3hwU09wYlhOQ2piWGw1SFBRYU8tOHVrT3Z1OHc4U1g1RkU5TU5ocHhwOUJWdEEzWHduenowVWpkNEcyT2dGT0VMQmgzQnM5UkJydGZSUjQteGxzcW0zdUxHb3dSWmZuQnltVVc3ZDVUSDJkeVNPekIwSXZ6eE5idEhJekZMejZuZlFkOWlLQ3lWM1htVjMwclQyU0ZoRS1MY0w4VXNpN0lGSmVCeGVxZS0yZVhkOFBFNS1uYk1KdzM3cm5xdlpCZjdjMzJCUXBPSnZSTUQwelo3RjM2SGRhVlNxWFA3T0JjdXNHMVh3UURpSlB1bWhoVFFwaExqX1NTbkJnNmc?oc=5)
+
+2026-09-20 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [am730.com.hk](https://news.google.com/rss/articles/CBMigwNBVV95cUxPQWNoVjFYUWZxcDlmLTNsSDFiWkF5OHplZzA1TmZvMXJlaUFPMUE5enItc0E3YmZ0Zy11czJZc1RyVnFUU1N5ZnlDZ0ZDamxXWjA4YS1RX2V3R2RBcTNqbHQ5WkdCSVJNOGtZZm5qbEowd1BVVDF5ZVkwbnJkd1ZlU2VCMEdNc3hwU09wYlhOQ2piWGw1SFBRYU8tOHVrT3Z1OHc4U1g1RkU5TU5ocHhwOUJWdEEzWHduenowVWpkNEcyT2dGT0VMQmgzQnM5UkJydGZSUjQteGxzcW0zdUxHb3dSWmZuQnltVVc3ZDVUSDJkeVNPekIwSXZ6eE5idEhJekZMejZuZlFkOWlLQ3lWM1htVjMwclQyU0ZoRS1MY0w4VXNpN0lGSmVCeGVxZS0yZVhkOFBFNS1uYk1KdzM3cm5xdlpCZjdjMzJCUXBPSnZSTUQwelo3RjM2SGRhVlNxWFA3T0JjdXNHMVh3UURpSlB1bWhoVFFwaExqX1NTbkJnNmc?oc=5)
+
+---
 
 ### [沒吃蛋、內臟仍高血脂！醫曝「它們才是關鍵」：戒掉就降膽固醇](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qbWI0bnVxa1ZpanRjTThyalBhNzZQazVKVzRITUtjdURLMDg3SjdoQVlSX2JwYVl5a3pOZUdYYTc0bG9IeFNFSlRIOEw?oc=5)
 
@@ -51,11 +59,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+### [新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5)
 
-2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
+2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYlQtQnlxdm5QNF9kSlgwUnlxcXZPSkRoMDdDanRtRFBFWERzcElGeGlMQmJ1NzVGLW10QlZrWGRCUXpGNUlsU0JpaWN2bDU3a1dmZ3RzZl9oYjh6QmY0RHZxYkYwTXlFNWdhSFdn?oc=5)
 
 ---
 
@@ -79,7 +87,7 @@ permalink: /news/gefitinib/
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源: [報新聞](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
+來源: [contentplatform.info](https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUMzTWlmWk5rT19GbjlxdHV6VVZ5ZDVMdUNWQzFRLXV3U2NYaFFyeWJGNGxXX2pIaEQ0UDNkcHQxVnk5V2NsaFNkYkstUXhLMEdGMDRQUUQ0TGNfUS1vNjJjUXQyNUYtMHdvOWxzaFF5ZWJicUZJY0EzR2xwcHdxem05TnZQM2dUVDB4YlNpTGVlX0JlM0hjS3BZTUVSeGN5dUVjREV2bjZuZGJMTi1QX1lHOXdmTVF1R3NlcWhuc3JtSjJ6SUtYS0FvM210Z3pVY3A0LUdzUTluR21mSXJGbFNOX0xwYThMVWdFS09WZ0xKNWxSeFFJVFp1cDhVMk9GU2cwWXB4NUVfRmE4QS1aVkJaSmNWTjEzVlZ4RkE3NF9CWVVHYkdXMndPajRlVzhkWi0zanNydHluNVc2bloyd0VISk1ZX2JkOXgzNWwzTFhUZXp3XzQtX255TjNSNUpv?oc=5)
 
 ---
 

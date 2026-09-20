@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [沒吃蛋、內臟仍高血脂！醫曝「它們才是關鍵」：戒掉就降膽固醇](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qbWI0bnVxa1ZpanRjTThyalBhNzZQazVKVzRITUtjdURLMDg3SjdoQVlSX2JwYVl5a3pOZUdYYTc0bG9IeFNFSlRIOEw?oc=5)
 
 2026-09-20 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">中風</span>
 
 來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qbWI0bnVxa1ZpanRjTThyalBhNzZQazVKVzRITUtjdURLMDg3SjdoQVlSX2JwYVl5a3pOZUdYYTc0bG9IeFNFSlRIOEw?oc=5)
-
----
-
-### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
-
-2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
-
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
 
 ---
 
