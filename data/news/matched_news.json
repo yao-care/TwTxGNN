@@ -1,16 +1,100 @@
 {
-  "last_updated": "2026-09-19T23:53:03.934309+00:00",
+  "last_updated": "2026-09-20T02:30:49.245813+00:00",
   "total_count": 51,
-  "matched_count": 10,
+  "matched_count": 11,
   "news": [
     {
-      "id": "0157c29d7b34",
-      "title": "告別病毒疣！皮膚科醫師點名「飽和食鹽水浸泡法」，有效率高達88.2％",
-      "published": "2026-09-19T23:10:00+00:00",
-      "summary": "告別病毒疣！皮膚科醫師點名「飽和食鹽水浸泡法」，有效率高達88.2％&nbsp;&nbsp;工商時報",
+      "id": "447063d7e186",
+      "title": "房仲金童吸金才重判12年，竟A流併發心梗猝逝！醫：流感7天內心臟病風險增6倍",
+      "published": "2026-09-20T00:02:21+00:00",
+      "summary": "房仲金童吸金才重判12年，竟A流併發心梗猝逝！醫：流感7天內心臟病風險增6倍&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7818ece537ed",
+      "title": "告別病毒疣！皮膚科醫師點名「飽和食鹽水浸泡法」，有效率高達88.2％",
+      "published": "2026-09-19T23:10:00+00:00",
+      "summary": "告別病毒疣！皮膚科醫師點名「飽和食鹽水浸泡法」，有效率高達88.2％&nbsp;&nbsp;ctee.com.tw",
+      "sources": [
+        {
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DSkhvOW9TOGFHalFlZm9CNU5lZ19IT2Zyb3Y0ZmwzU09xWlFEU2x4dnh3U0haZFg1OXdFb3NIcGFpN19pNnY2R2xmSTAycXA2cFhJZEpxNk13WjU4Q0k0?oc=5"
         }
       ],
@@ -30,27 +114,27 @@
       "matched_keywords": []
     },
     {
-      "id": "c3c3bca9cbcb",
+      "id": "c476f8e5d588",
       "title": "驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際",
       "published": "2026-09-19T13:59:00+00:00",
-      "summary": "驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際&nbsp;&nbsp;工商時報科學家將人類腦組織植入老鼠，神經元成功整合：腦部疾病研究露曙光&nbsp;&nbsp;動區動趨鼠頭植“人腦”！小鼠會變更聰明嗎？&nbsp;&nbsp;鉅亨號史丹佛大學研究突破 人類腦組織成功移植活體實驗鼠 | 民視新聞網&nbsp;&nbsp;LINE TODAY「半人半鼠」真的出現了？史丹佛打造人類腦組織小鼠 研究腦部疾病&nbsp;&nbsp;udn.com",
+      "summary": "驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際&nbsp;&nbsp;ctee.com.tw科學家將人類腦組織植入老鼠，神經元成功整合：腦部疾病研究露曙光&nbsp;&nbsp;動區動趨「半人半鼠」真的出現了？史丹佛打造人類腦組織小鼠 研究腦部疾病&nbsp;&nbsp;UDN鼠頭植“人腦”！小鼠會變更聰明嗎？&nbsp;&nbsp;鉅亨號這是否逾越了倫理底線？科學家首次培育出了人鼠混合大腦。&nbsp;&nbsp;Root-Nation.com",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hNVFCX0xkYzFTTU5UdzVBLTNLY0tpZzdfc0Y0aE1XWjlyTmlMTF9DbHc5aVR5YU9TczRzWXJrS2R0LThwR0czb3NhY0JVSGtCRGxQTWVlRFJ4RWtmLVpv?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "9061ef75c7a7",
+      "id": "51ed48fb092e",
       "title": "度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」",
-      "published": "2026-09-19T11:07:00+00:00",
-      "summary": "度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」&nbsp;&nbsp;Yahoo新聞每60人就有1人染愛滋！這國HIV失控 進入緊急狀態&nbsp;&nbsp;自由健康網斐濟宣布全國HIV危機每60名成年人1人感染| 國際&nbsp;&nbsp;中央社 CNA斐濟群島艾滋病例激增 宣布“國家緊急狀態”&nbsp;&nbsp;RFI斐濟宣布進入HIV國家緊急狀態 毒品與不安全性行為成關鍵傳播途徑&nbsp;&nbsp;Taiwan News",
+      "published": "2026-09-19T11:49:02+00:00",
+      "summary": "度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdW1OVnk5MkhHMHdtNFFaV1RTYUU2azZpZjhkYzR6UUl1V212VVhIRmF4cWVMOXNmLTlrdDI3M2VUQ19HdHZPbEFzMThYVndjdDBCMUZYU0ZLWmR3V0gyQVRoY0YxSHhRenIwUFpGUFBMdDgxeENxTm1PVWRhQ1ZoLWxrWnFjd1EwbFVhN2xwUjJ4M3h4QW9wVkpEUUl5NnhxRmdweVM1R19ISkRXWlY5emtoZ29XMGJRbHdYRmJNakxBRW00SUY3MkJqZ09ZZkVCWUlxRE9BTUFVdWp3ZDRrNDl0MmRoOUZ0b1NuY2xBMzdncmlvQnhFcE5LcW5QTTVSN1NVRTQzUktBSUJ2bFVzU29iWXVpTkkwLXREaG9Oam1oRXdjeFRWOS1LQnZ1ckl3U010VWIya3FjX3Q1b0tPX1JCdUhMcVhlcXhFOEk5M0drc1VTa0lMQWVUTkZtMGpqX2lB?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wN0Y1eldxME5ycGJMX0F3dTBzUnBITWhUb3UwRmNUUmR0TlVkTGpoc1BIUk8tNnNwN3NoNC05VnIzVzJ2dkZDYUV6em8?oc=5"
         }
       ],
       "matched_keywords": []
@@ -69,14 +153,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b850d5364a47",
-      "title": "蕭彤雯母患流感併發肺炎送醫！父擔憂：問她話都不會說了- 綜合星聞",
-      "published": "2026-09-19T05:17:13+00:00",
-      "summary": "蕭彤雯母患流感併發肺炎送醫！父擔憂：問她話都不會說了- 綜合星聞&nbsp;&nbsp;中時新聞網十年最強流感！蕭彤雯80歲母A流併發肺炎送醫 揭半夜突癱軟恐怖過程&nbsp;&nbsp;三立新聞媽媽A流併發肺炎急送醫！蕭彤雯驚曝「人生首次叫救護車」：老人轉重症只在一瞬間&nbsp;&nbsp;噓！星聞蕭彤雯高齡母染A流癱軟！ 「人生首叫救護車」醫一度警告恐插管 | ETtoday星光雲&nbsp;&nbsp;LINE TODAY十年最強流感！蕭彤雯80歲母A流併發肺炎送醫 揭半夜突癱軟恐怖過程 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
+      "id": "d16f24b916a9",
+      "title": "媽媽A流併發肺炎急送醫！蕭彤雯驚曝「人生首次叫救護車」：老人轉重症只在一瞬間",
+      "published": "2026-09-19T05:07:03+00:00",
+      "summary": "媽媽A流併發肺炎急送醫！蕭彤雯驚曝「人生首次叫救護車」：老人轉重症只在一瞬間&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHBaSW1feUhDZFdsMnd1R1JtOHBQaG5oT2JPd0tyX1FpTE81TndJT0VHR0ZYUHRYaXpia3F4Um12WGhLRUdIYUNTZ1N6ekptMG42Yy1jVWtxaVpwX2J6XzVsN19MZklPSjhEZVRYVWc2aVByQUltc0FWbTQ0Zk1iV21oQUU4RkZpdE9OcGZR?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPVC1vVE5RVTFGRk5UTVI4VnpnQ0R6WHZGOS10MnB1SmZVXzhMY05jNTBKa2RKejRCYjJ1TXRyRlZac2tzcE5LbUNMR1NCMm5zOWhzby1hd2JiMU9PUEw1eENXTUlqMDBXdmRVUGZrT0ZwVkQ3blp0eFVkTWNGb1QwcHZBNXl5eFFhYzNxZmN5cmdrallRZXozbmdpUVlEZE51SWtvSTZUVjh4S1JMb3hfVnVFdHNUYkN3MzZyaW9fN3pyOWxQTmZrdVk5Zkx1VlY0SkxwUW1hcnpSMjR3MEhtbWg4ZWlaWUY3cHpkQmlJUXIzSXBYYzhvTGMxeEM0dDl6SnZaMzlRS3VEMElwTklzelp1MkVoaXYzWU92VVl6VHFLYUI5WUJSdTg4WHhpUEVrZFZpem02QzlVTTkxSVpLQW5ranBMZUxyTnZGUXB6OG9MN2N1djNmRTdqX0JQYU5BanljeUpjeXVRQkRsYlgtb3N3RXo3TzNRZHdBZjh1ZDI1VU5UV1FWdVI0R2JEU2JtcWtSMHBQQmxwcTJLZW5DZHh4RFoyNW1sbXg4TjhCRXNYZjFPdFBYWXRHRmkyNlBPbkF0VmRnOTZia2huNXlrdjlmOU85d3F3Znc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -121,13 +205,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e7bfc05cd165",
+      "id": "7e8c40df9829",
       "title": "新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思",
       "published": "2026-09-19T01:17:12+00:00",
-      "summary": "新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;udn.com新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？&nbsp;&nbsp;Yahoo新聞打mRNA新冠疫苗會罹癌？台大權威闢謠：沒有證據顯示會致癌&nbsp;&nbsp;遠見雜誌新冠疫苗錯誤資訊充斥 醫破解5大迷思&nbsp;&nbsp;自由健康網網熱議「副作用、癌症」 快打疫苗! 染新冠中風風險增10倍&nbsp;&nbsp;中華新聞雲／中華日報",
+      "summary": "新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;UDN新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？&nbsp;&nbsp;Yahoo新聞打mRNA新冠疫苗會罹癌？台大權威闢謠：沒有證據顯示會致癌&nbsp;&nbsp;遠見雜誌新冠疫苗錯誤資訊充斥 醫破解5大迷思&nbsp;&nbsp;自由健康網網熱議「副作用、癌症」 快打疫苗! 染新冠中風風險增10倍&nbsp;&nbsp;中華新聞雲／中華日報",
       "sources": [
         {
-          "name": "udn.com",
+          "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5"
         }
       ],
@@ -380,13 +464,13 @@
       "matched_keywords": []
     },
     {
-      "id": "be798b84232e",
+      "id": "2185d71c9938",
       "title": "佛羅里達州登革熱疫情嚴峻 錄得數十年來最嚴重爆發之一並致一人死亡",
       "published": "2026-09-18T21:45:14+00:00",
-      "summary": "佛羅里達州登革熱疫情嚴峻 錄得數十年來最嚴重爆發之一並致一人死亡&nbsp;&nbsp;bastillepost.com",
+      "summary": "佛羅里達州登革熱疫情嚴峻 錄得數十年來最嚴重爆發之一並致一人死亡&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT3FuVC1oQXpsb25CYTFGX0dwOUdZQzc0enVRYldqMDJqZlROSU9WSzJGSFY1X1dQeTUtcXJhY1BQRDg0MEtkeVRTdFJxTnlZajJsaEJzNVdPYzdYUE9FZ2VZcjY5SDlfWnItMHNGYUM4Sko2X19tLU9CNFV0ekNOazFwOGxfN3piUTl5N1R1TEZ3UzM4cGw0bVVETzJTVXhORExKWTNUWnRGRVFGSEMwUFAwMjFXd0FGZEQ3ZWtxWlJ2ZHVCNmUyTDFKaGNsZ1NqU25xU3FGUlZVUzVrN2NVcVptZVc2bW5NVjN6UUt5SWs2QVNScXppdUExV0tPZTNadDdyQkttNzZzbW5TY2p4bVVGMFJIRW9uQnRJNHdXbmJIUzZPSkhVaGV6MEx3RWx0ZUxRMGtzaUVmWjFzMDRYelBjcFRLTVpGUlRjUDZmU3FvMU5ENkVwdEhRTU1jcUJBaWpueWhlNlM2V2IwTmN3?oc=5"
         }
       ],
@@ -470,42 +554,13 @@
       "matched_keywords": []
     },
     {
-      "id": "15378cb3251a",
-      "title": "中風患者屬「高危險群」 復發危機不容忽視",
-      "published": "2026-09-18T00:00:00+00:00",
-      "summary": "中風患者屬「高危險群」 復發危機不容忽視&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSUc1UmMwZnhJalVHLUVhaTlyM3lWTEl0WmdCQlJVd2xHVkJKTnNmQ2VGU0JLcUtsbDdsMVpHSDVpS2JTMFAyT3NOY1pSaDhBYjVDMjJNQV9DbkQ1MjdoTUJxWXNmUWpnbnJvVUdUNXQ3LTI3Qmpwbzg0LVlyVHRBc2tVWXZMSl9zWFlWdUE1SWNBZE82a2tlRnZuZUVYenl6eXBsbkRDcFFMM2lpRGxTT1dIUDZTelNmTUhibnVTdFAwb0ZuUGRBekNqNWlRZkNXUGR6SDBLR0NZWElyWG1IMVpPQUdBOU1aRndLcGI4M0djYjB3aHB1bVJ6bFNBUUl6bUZZSmJNTXNibEtLN0c2VGhSNDNGd0oybmNhZVlKYV8zMUZ1Y0ZvY2paN01Cc29EZGdUVjZvekkycDVHX1ctYWt3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "932a0805df8b",
+      "id": "e33f3dc72dc0",
       "title": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！",
       "published": "2026-09-17T22:40:48+00:00",
-      "summary": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！&nbsp;&nbsp;bastillepost.com",
+      "summary": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQMlF3akFOSkF6eDV4N2x2ZUJWcEIzai10eHBxM01IS3pVaEk5QnNjZnVPT0pGY2U5LUJUSVZiODd5SlFiNWNhUGJtMzRzQ0RsTXgyY1VUMmJaTW5fTGpCdmg2ekRZN2ZMU1NnY2ppZUZOSXBVSS1VcHo5QU42Um5RTURYclBHWmRnSk1JY2w0SVA4Tl9PTzdwVjZXYnNTbHA2S2dsd3BhXzB1SGMwNzEzemtBREdHazROcVJlekJ2clVjUU04Sk1vSHJfaVJ5c1ZHUEs3RE45Tm5EeUFpbFVHY0ZLS1hrcWF0TGNUWlYyWVg0Z3ZPUTNMRm8xaVhrcTlRWVF1MDIyRG92bXhyOFR0UjBNWkZfQ2VwUmRlMF9kbkJGTXpmVkk4ZjBGVUVaUWpTZ0pxeTQwMEZ4SlZDdklOV3JiWnpmc1NlRkdqeTIxQUtra1NNQUphdGJUMEpWbV9lY3lOMDYzdHI2a3FrY0VYQw?oc=5"
         }
       ],
@@ -525,13 +580,13 @@
       "matched_keywords": []
     },
     {
-      "id": "87eb3ebb4bab",
+      "id": "2ef5c7aff454",
       "title": "骨質疏鬆藥竟和阿茲海默症有關？12萬名長者研究發現一個驚人現象",
       "published": "2026-09-17T22:06:46+00:00",
-      "summary": "骨質疏鬆藥竟和阿茲海默症有關？12萬名長者研究發現一個驚人現象&nbsp;&nbsp;singtaousa.com",
+      "summary": "骨質疏鬆藥竟和阿茲海默症有關？12萬名長者研究發現一個驚人現象&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5"
         }
       ],
@@ -640,13 +695,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e2cf5f89857d",
+      "id": "d34743c31673",
       "title": "別再誤會龍眼！揭開它低GI、高維生素C的真實面貌- 書房",
       "published": "2026-09-16T23:50:00+00:00",
-      "summary": "別再誤會龍眼！揭開它低GI、高維生素C的真實面貌- 書房&nbsp;&nbsp;工商時報",
+      "summary": "別再誤會龍眼！揭開它低GI、高維生素C的真實面貌- 書房&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HVEQxRFlzUHJScGczOEx2RWlZSGF3aTRyQV9jcTNpYWxub0RicFFHcG1GWlkwcGVPY3RUdWhRMG5jV2VuUnNqcDZTZ0c0WVExQUdLZ3BtMlcxV2c4ODdF?oc=5"
         }
       ],
@@ -703,6 +758,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "7c62a242d233",
+      "title": "低密度脂蛋白過高恐誘發心肌梗塞！心臟科醫師推薦15種「降壞膽固醇食物」：藍莓抗氧化、燕麥刮油，吃出乾淨血管 - Women's Health",
+      "published": "2026-09-16T07:00:00+00:00",
+      "summary": "低密度脂蛋白過高恐誘發心肌梗塞！心臟科醫師推薦15種「降壞膽固醇食物」：藍莓抗氧化、燕麥刮油，吃出乾淨血管&nbsp;&nbsp;Women's Health沒吃蛋、內臟仍高血脂！醫曝「它們才是關鍵」：戒掉就降膽固醇&nbsp;&nbsp;Yahoo新聞健康網》降膽固醇別再怕碰油 網紅醫揭這樣吃 脂肪也能幫上忙&nbsp;&nbsp;自由健康網防心肌梗塞找上身！營養師推5大降膽固醇食材 蘋果、綠茶入列&nbsp;&nbsp;UDN🎙️只吃素也可能膽固醇超標？別再把鍋全部丟給蛋黃&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT2JneDVtdVM4ZzRTVGF5ckxLUEFCZ0hoSjZVSmhBMUVtWkxLZEZRcFdqOU1Yd0E1MFVJNC13cG5uckpXR0xNbTFYMl9RWllfVGxCTzhManZUOWs4RzRCSHhlWVpaNUh4TkJaZ0gzLVlSQWJMTzZtQUFYNVVGNlRfVGlhVVJweHlMQWJfWVFrSnFsS05uN3ljVWI3d2h3M050TjdIM1lGM0YybVdaX3FiX0VvMjN3WENBR0VuMjJB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "bfc11d22ec64",
@@ -808,13 +888,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e71686d61c38",
+      "id": "66ab19a1a007",
       "title": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%",
       "published": "2026-09-15T22:40:56+00:00",
-      "summary": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%&nbsp;&nbsp;bastillepost.com",
+      "summary": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPMk1nUWI2ejk4ejdqNzhCSzJGQnJic3lYTUxGRjZhN0R0NVlRajBKTGJTSThNdlU0QUdZLVctNjBqd1NCTUdvelZXTEZ5TzlqTXd5UHRMbEoxVlUwLVAycWYzSGdBWnFfY25INXN0cFhiNzAxMFRpM0I4QjFYNmx4Q1I3aUNjamZzUGg2UFJzSTh3WjlIUWY5RndKcEVCbW93RmlFcEM2dG43NjBoaVVMMnJ2a2k3VEdTS2lLbnp5ZVlUWHFnWHJITnhTWmlsYVQ2Umc1SHBpQkNRZ25sV0tXR0trcnpfbF9tRmhrQ0UxdGlCT245R1BER0F0M0RaN0Nucm1xYnJWLVNkQXVIbzNkMTFjUGp5TTJiT0RSRDVDY1laRV9EbTlmOEtoRm01TVJWMlE3TFpwOUVwbmRheGdFTGZjbjE1QTRKcDlhVVQ4YnNlSjhlVHhUWmFhTG5OY0dwNlN1QnZMMV8?oc=5"
         }
       ],
@@ -1159,7 +1239,7 @@
       "id": "8d02a4732375",
       "title": "糖胖症恐成HPV防癌破口？醫：肥胖、高血糖影響免疫恐增加感染風險 - Taiwan News",
       "published": "2026-09-14T08:32:00+00:00",
-      "summary": "糖胖症恐成HPV防癌破口？醫：肥胖、高血糖影響免疫恐增加感染風險&nbsp;&nbsp;Taiwan News小心HPV癌變潛在風險 高血糖加肥胖雙重夾擊 醫：男性更要當心&nbsp;&nbsp;經濟日報重大致癌因子肥胖僅次菸害- 醫療保健- 新聞&nbsp;&nbsp;華人今日網「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;udn.com",
+      "summary": "糖胖症恐成HPV防癌破口？醫：肥胖、高血糖影響免疫恐增加感染風險&nbsp;&nbsp;Taiwan News小心HPV癌變潛在風險 高血糖加肥胖雙重夾擊 醫：男性更要當心&nbsp;&nbsp;經濟日報重大致癌因子肥胖僅次菸害- 醫療保健- 新聞&nbsp;&nbsp;華人今日網「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "Taiwan News",
@@ -1233,7 +1313,7 @@
       "id": "fd4015e572c3",
       "title": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測",
       "published": "2026-09-13T13:12:00+00:00",
-      "summary": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測&nbsp;&nbsp;自由健康網人妻患性病被夫控出軌！喊冤疑遭公廁馬桶水濺到長菜花 醫生解答&nbsp;&nbsp;香港01",
+      "summary": "健康網》自己得「菜花」懷疑「被綠」 醫：HPV非不忠的檢測&nbsp;&nbsp;自由健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "自由健康網",
@@ -1251,19 +1331,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XWmRIMDNfdEZPRU93ak5FekVud1B4SEhoOHE4X0VrUE9YUzZ5c1BqVk9PUDF6X2gtdXlRVmtrRlRQdWhUdE52X3oxMUZoZE5ybG9zNTloNTY0bkZ3cEdocnJYb1_SAWpBVV95cUxNWW5VWGNjMlJRaUlEWWdYNzFQbXJyaUdrSHE1WmFFa3NlTFczaHllc21wSjQyTjVpSkw0OWJaMHVMS0JqUDFoXzZfdXFSMVVPcjlDQ1N6Nzg1V1JHbmphY2VBbzdmRVhTbVV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f916575ecc7f",
-      "title": "兒童幾歲才能吃朱古力？醫生教建立正確飲食觀：注意糖分是關鍵",
-      "published": "2026-09-13T02:00:28+00:00",
-      "summary": "兒童幾歲才能吃朱古力？醫生教建立正確飲食觀：注意糖分是關鍵&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPZ3ZQWFpkSm9LZm03NDhwNlFBMW10VVFIU3FyM21zMVVGUXRhdEg0bXpiNnlabk1aTGlRNlhrQ0FJRzd4OEY0aTNyYmVZX1FhTlNYUEdGd1ZMdEdpLTRRd0tpZHRORVFpbXhNNHFtZ2RoVTRfb3JvWGJsVk1TRnNlNXdmMExhMlFwMGFJeFE3QVhjUWdGVWJjQ3pEdlJ0SHBLRDFGcVpCT1MzaVFSeGZGeFVKWDVyZE1RcW82S2NELUxiSDh6ZE5JelUxWHc2X3lNb25tdE9OSlhyTl9qY1I5T05aWEd0SWl4WXd5WTdFQVZmNlNGWEUyLXI1QzR0cDVET251Wk9BVjFFa2xSaUREa1hkMFpUcGRzVGF5cWhlOWpGMFNreFh3LUNIV1M2eWd3OGxRRU80QmZWaFZGTllwNnFCdUE0c1BWWFdsNS1Ec3hHOW5BY0tZaE1KaG5kTkgyT0h6alNrY3ZWelB0RVdwRm51aEpaZnUxRHhDVWdsUFBrNXFCQXE1X2dnd2ZDZWZLRlBKY3Z5eFZmcUpRdy11bmQ2X3I?oc=5"
         }
       ],
       "matched_keywords": []

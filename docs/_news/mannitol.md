@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [房仲金童吸金才重判12年，竟A流併發心梗猝逝！醫：流感7天內心臟病風險增6倍](https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5)
+
+2026-09-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5)
+
+---
 
 ### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
 
 2026-09-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
 
-來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
+來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
 
 ---
 

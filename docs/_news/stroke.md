@@ -3,7 +3,7 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
 
 2026-09-19
 
-來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
-
----
-
-### [中風患者屬「高危險群」 復發危機不容忽視](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSUc1UmMwZnhJalVHLUVhaTlyM3lWTEl0WmdCQlJVd2xHVkJKTnNmQ2VGU0JLcUtsbDdsMVpHSDVpS2JTMFAyT3NOY1pSaDhBYjVDMjJNQV9DbkQ1MjdoTUJxWXNmUWpnbnJvVUdUNXQ3LTI3Qmpwbzg0LVlyVHRBc2tVWXZMSl9zWFlWdUE1SWNBZE82a2tlRnZuZUVYenl6eXBsbkRDcFFMM2lpRGxTT1dIUDZTelNmTUhibnVTdFAwb0ZuUGRBekNqNWlRZkNXUGR6SDBLR0NZWElyWG1IMVpPQUdBOU1aRndLcGI4M0djYjB3aHB1bVJ6bFNBUUl6bUZZSmJNTXNibEtLN0c2VGhSNDNGd0oybmNhZVlKYV8zMUZ1Y0ZvY2paN01Cc29EZGdUVjZvekkycDVHX1ctYWt3?oc=5)
-
-2026-09-18
-
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiwgJBVV95cUxPSUc1UmMwZnhJalVHLUVhaTlyM3lWTEl0WmdCQlJVd2xHVkJKTnNmQ2VGU0JLcUtsbDdsMVpHSDVpS2JTMFAyT3NOY1pSaDhBYjVDMjJNQV9DbkQ1MjdoTUJxWXNmUWpnbnJvVUdUNXQ3LTI3Qmpwbzg0LVlyVHRBc2tVWXZMSl9zWFlWdUE1SWNBZE82a2tlRnZuZUVYenl6eXBsbkRDcFFMM2lpRGxTT1dIUDZTelNmTUhibnVTdFAwb0ZuUGRBekNqNWlRZkNXUGR6SDBLR0NZWElyWG1IMVpPQUdBOU1aRndLcGI4M0djYjB3aHB1bVJ6bFNBUUl6bUZZSmJNTXNibEtLN0c2VGhSNDNGd0oybmNhZVlKYV8zMUZ1Y0ZvY2paN01Cc29EZGdUVjZvekkycDVHX1ctYWt3?oc=5)
+來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwejBLZm1GOUVEZWpJNjVYMlJCV0Mtc0RUVnF3VmVWVW1RejRSUkR2Tkl3SXJpc29OWmFXUlhGOFFiWFI3UjgxRlNJQjNJcHdn?oc=5)
 
 ---
 
