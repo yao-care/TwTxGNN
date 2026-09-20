@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease (100.0%)</li>
 <li>acute laryngopharyngitis (100.0%)</li>
 <li>trigeminal autonomic cephalalgia (99.9%)</li>
-<li>common cold (99.9%)</li>
+<li class="indication-matched">common cold (99.9%)<span class="indication-tag">📰 感冒</span></li>
 <li>allergic urticaria (99.7%)</li>
 <li>lung disease (99.6%)</li>
 <li>massive neonatal aspiration syndrome (99.6%)</li>
@@ -42,9 +42,23 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wc2N0dEwzdDk0Y2RsN3hnT0JKZFIyMVVzd0RQVEd6TEdPMC1WT3o5YV8yS3lQNXgybnV3MTE1S1dXY0NfRzFud2RMUXM1Rk5fa0FaaWRYemhUNnFsRkF2ZmJB0gFnQVVfeXFMT0tZOC1fUmVRZkZZSmtaSm9FYWpNZUZhTGNseDd5eld2RGpTLUZydE03RDN6X0tPWUxCck5QS1ptbUNpbGktRnFfakRPLS1EV3ZESlNUMVJ1X2VxMTNJU25EV3h5alBXbw?oc=5)
+
+2026-09-16 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
+
+來源: [mirrormedia.mg](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wc2N0dEwzdDk0Y2RsN3hnT0JKZFIyMVVzd0RQVEd6TEdPMC1WT3o5YV8yS3lQNXgybnV3MTE1S1dXY0NfRzFud2RMUXM1Rk5fa0FaaWRYemhUNnFsRkF2ZmJB0gFnQVVfeXFMT0tZOC1fUmVRZkZZSmtaSm9FYWpNZUZhTGNseDd5eld2RGpTLUZydE03RDN6X0tPWUxCck5QS1ptbUNpbGktRnFfakRPLS1EV3ZESlNUMVJ1X2VxMTNJU25EV3h5alBXbw?oc=5)
+
+---
+
+### [孕期感冒安全用藥不傷胎- 國際](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY1E5TklfSENCMXRhMF9ucXhBUURqSnpMWF9xYlZEeU5LeV9ETENYd01zLWFOUTdCdXRlVzI4Ql8wNW9XYS1kQ0tsNEhjZVhUV3BWS0ptOGZ2ZWNwRE84bWFUVE5jSEdaLXc?oc=5)
+
+2026-09-14 <span class="news-indication-tag">感冒</span>
+
+來源: [旺得富理財網](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY1E5TklfSENCMXRhMF9ucXhBUURqSnpMWF9xYlZEeU5LeV9ETENYd01zLWFOUTdCdXRlVzI4Ql8wNW9XYS1kQ0tsNEhjZVhUV3BWS0ptOGZ2ZWNwRE84bWFUVE5jSEdaLXc?oc=5)
+
+---
 
 
 <div class="disclaimer">

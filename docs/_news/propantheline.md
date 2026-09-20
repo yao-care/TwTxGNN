@@ -14,7 +14,7 @@ permalink: /news/propantheline/
 ---
 
 <p class="key-answer" data-question="Propantheline 有什麼相關新聞？">
-<strong>Propantheline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Propantheline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/propantheline/
 <p><a href="{{ '/drugs/propantheline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [大腸癌不是腸胃炎，專家帶你識別“癌信號”](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYkExcGNRUG5hRXl6X0hmeU1ibVdtd1BiWFY0Y2ZjbmFmWF9NUUNoVHc0Mk5fUDFma0dGc2liLWM4S0xRN1BPUm13RVYtbEktMVI0NGFKSXJDZmFaWXZRYW5NOXpBdmRfdi1uTk1DdlA?oc=5)
+
+2026-09-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span> <span class="news-indication-tag">胃炎</span>
+
+來源: [fj.people.com.cn](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYkExcGNRUG5hRXl6X0hmeU1ibVdtd1BiWFY0Y2ZjbmFmWF9NUUNoVHc0Mk5fUDFma0dGc2liLWM4S0xRN1BPUm13RVYtbEktMVI0NGFKSXJDZmFaWXZRYW5NOXpBdmRfdi1uTk1DdlA?oc=5)
+
+---
 
 
 <div class="disclaimer">

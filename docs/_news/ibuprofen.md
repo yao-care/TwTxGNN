@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="Ibuprofen 有什麼相關新聞？">
-<strong>Ibuprofen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Ibuprofen</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,9 +39,15 @@ permalink: /news/ibuprofen/
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wc2N0dEwzdDk0Y2RsN3hnT0JKZFIyMVVzd0RQVEd6TEdPMC1WT3o5YV8yS3lQNXgybnV3MTE1S1dXY0NfRzFud2RMUXM1Rk5fa0FaaWRYemhUNnFsRkF2ZmJB0gFnQVVfeXFMT0tZOC1fUmVRZkZZSmtaSm9FYWpNZUZhTGNseDd5eld2RGpTLUZydE03RDN6X0tPWUxCck5QS1ptbUNpbGktRnFfakRPLS1EV3ZESlNUMVJ1X2VxMTNJU25EV3h5alBXbw?oc=5)
+
+2026-09-16 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
+
+來源: [mirrormedia.mg](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wc2N0dEwzdDk0Y2RsN3hnT0JKZFIyMVVzd0RQVEd6TEdPMC1WT3o5YV8yS3lQNXgybnV3MTE1S1dXY0NfRzFud2RMUXM1Rk5fa0FaaWRYemhUNnFsRkF2ZmJB0gFnQVVfeXFMT0tZOC1fUmVRZkZZSmtaSm9FYWpNZUZhTGNseDd5eld2RGpTLUZydE03RDN6X0tPWUxCck5QS1ptbUNpbGktRnFfakRPLS1EV3ZESlNUMVJ1X2VxMTNJU25EV3h5alBXbw?oc=5)
+
+---
 
 
 <div class="disclaimer">
