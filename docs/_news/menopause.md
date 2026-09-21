@@ -38,7 +38,7 @@ permalink: /news/menopause/
 
 2026-09-20
 
-來源: [n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bHp2dDBNcjV3X3BOaDhIdHV5Skt2V1l6X1c0VUFOYWc4MlFCeDR1Qzh6cXhZMjJHRUlncUExdzcxRlZyek1CSF9ubHFlcWw0bWc?oc=5)
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bHp2dDBNcjV3X3BOaDhIdHV5Skt2V1l6X1c0VUFOYWc4MlFCeDR1Qzh6cXhZMjJHRUlncUExdzcxRlZyek1CSF9ubHFlcWw0bWc?oc=5)
 
 ---
 

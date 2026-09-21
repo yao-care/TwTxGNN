@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [大腸癌不是腸胃炎，專家帶你識別“癌信號”](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYkExcGNRUG5hRXl6X0hmeU1ibVdtd1BiWFY0Y2ZjbmFmWF9NUUNoVHc0Mk5fUDFma0dGc2liLWM4S0xRN1BPUm13RVYtbEktMVI0NGFKSXJDZmFaWXZRYW5NOXpBdmRfdi1uTk1DdlA?oc=5)
 
 2026-09-20
 
-來源: [fj.people.com.cn](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYkExcGNRUG5hRXl6X0hmeU1ibVdtd1BiWFY0Y2ZjbmFmWF9NUUNoVHc0Mk5fUDFma0dGc2liLWM4S0xRN1BPUm13RVYtbEktMVI0NGFKSXJDZmFaWXZRYW5NOXpBdmRfdi1uTk1DdlA?oc=5)
-
----
-
-### [沒抽菸酒、天天吃菜也中鏢！醫曝：大腸癌半數無危險因子 滿45歲快做1檢查 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uTmZPaW9qYy1pUHFlTkotWUlqTTBzTWlpb3VQV3p0dzJyb1BnUjRkSmVFUFJta0FGVFUxOV9nNko4ZU9Bb2gtWC0yTXJ2aXJiNFpZaW9R?oc=5)
-
-2026-09-19
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uTmZPaW9qYy1pUHFlTkotWUlqTTBzTWlpb3VQV3p0dzJyb1BnUjRkSmVFUFJta0FGVFUxOV9nNko4ZU9Bb2gtWC0yTXJ2aXJiNFpZaW9R?oc=5)
+來源: [人民网-福建频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9qYkExcGNRUG5hRXl6X0hmeU1ibVdtd1BiWFY0Y2ZjbmFmWF9NUUNoVHc0Mk5fUDFma0dGc2liLWM4S0xRN1BPUm13RVYtbEktMVI0NGFKSXJDZmFaWXZRYW5NOXpBdmRfdi1uTk1DdlA?oc=5)
 
 ---
 
