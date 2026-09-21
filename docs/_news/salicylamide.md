@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/salicylamide/
 <li>nasal cavity disease (100.0%)</li>
 <li>acute laryngopharyngitis (100.0%)</li>
 <li>trigeminal autonomic cephalalgia (99.9%)</li>
-<li class="indication-matched">common cold (99.9%)<span class="indication-tag">📰 感冒</span></li>
+<li>common cold (99.9%)</li>
 <li>allergic urticaria (99.7%)</li>
 <li>lung disease (99.6%)</li>
 <li>massive neonatal aspiration syndrome (99.6%)</li>
@@ -42,21 +42,13 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KRE04NXhzQTh3WlFvbFA5eEs0ZDVncVhiNXhGVUFrUDJXa1BJdWRCWmVwRDVqVVM4a0htUFJpamZ1UGs4ZTRrUldpNVIzUUEweXQ0ZmRvQUVSd2JnbjE2NQ?oc=5)
 
 2026-09-16 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
 
 來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KRE04NXhzQTh3WlFvbFA5eEs0ZDVncVhiNXhGVUFrUDJXa1BJdWRCWmVwRDVqVVM4a0htUFJpamZ1UGs4ZTRrUldpNVIzUUEweXQ0ZmRvQUVSd2JnbjE2NQ?oc=5)
-
----
-
-### [孕期感冒安全用藥不傷胎- 國際](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY1E5TklfSENCMXRhMF9ucXhBUURqSnpMWF9xYlZEeU5LeV9ETENYd01zLWFOUTdCdXRlVzI4Ql8wNW9XYS1kQ0tsNEhjZVhUV3BWS0ptOGZ2ZWNwRE84bWFUVE5jSEdaLXc?oc=5)
-
-2026-09-14 <span class="news-indication-tag">感冒</span>
-
-來源: [旺得富理財網](https://news.google.com/rss/articles/CBMiakFVX3lxTE4wY1E5TklfSENCMXRhMF9ucXhBUURqSnpMWF9xYlZEeU5LeV9ETENYd01zLWFOUTdCdXRlVzI4Ql8wNW9XYS1kQ0tsNEhjZVhUV3BWS0ptOGZ2ZWNwRE84bWFUVE5jSEdaLXc?oc=5)
 
 ---
 

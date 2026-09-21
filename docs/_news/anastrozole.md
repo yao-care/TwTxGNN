@@ -40,11 +40,11 @@ permalink: /news/anastrozole/
 
 ## 相關新聞（4 則）
 
-### [車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
+### [車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
 
 2026-09-20 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
 
-來源: [PChome Online新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
 
 ---
 
@@ -68,7 +68,7 @@ permalink: /news/anastrozole/
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源: [n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
 
 ---
 
