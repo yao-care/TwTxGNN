@@ -1,16 +1,67 @@
 {
-  "last_updated": "2026-09-21T05:41:15.015405+00:00",
-  "total_count": 53,
-  "matched_count": 13,
+  "last_updated": "2026-09-21T11:30:26.808202+00:00",
+  "total_count": 55,
+  "matched_count": 14,
   "news": [
     {
-      "id": "372ab8efc7ff",
-      "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
-      "published": "2026-09-21T03:00:00+00:00",
-      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;uho.com.tw",
+      "id": "574e38df2d45",
+      "title": "每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞",
+      "published": "2026-09-21T09:45:44+00:00",
+      "summary": "每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "uho.com.tw",
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02ef4c33b067",
+      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床",
+      "published": "2026-09-21T06:37:54+00:00",
+      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;Yahoo新聞馬偕專科醫療團第8度來到斐濟提供海外醫療服務- 駐斐濟臺北商務辦事處Taipei Trade Office in Fiji&nbsp;&nbsp;roc-taiwan.org度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」&nbsp;&nbsp;三立新聞每60人就有1人染愛滋！這國HIV失控 進入緊急狀態&nbsp;&nbsp;自由健康網斐濟群島艾滋病例激增 宣布“國家緊急狀態”&nbsp;&nbsp;RFI",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTWVNWTdkcDVIWHhPZ1MwV3E2NENUMlFvcUZabU1SUjlIZVExd3lIOWUzTzBhTVpHTDgwVXRDRFVBZGJXaEFKcEd5M3A5czUtREhSbU0tRTNmb2drTVd4LXhLdlV4Wk1kSEdZMnUwY3lEdGszTGMwTThsVDY5Zi03bE9SYkowbm5Na1NkM2FUNW9mdjBvQTRqWWdnRGg3bmtKbUxNZlgzc0xVenZNcnZDeUpIc0ZySnozNUxINGlxS0dERmF5VXBsTmc5Nk9Nc2lZVzMtOVVzUlNaX1BrMWFHNWc3dUhkSWU3Z1k3T3EtbUo5VUJ1dld0dlRHekZGMjN5RkIyZmZBM0FsaGJZMHR0M2FRbV94akRNeG8xZU5jaW5PeDBaaVdMbV9FX0MwenhuZW1qZ2o3VWVHeU9qNmNyUnhKWEVEOS1oaGRKdllBMmlHMkw2T1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7b44ed552ee6",
+      "title": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】",
+      "published": "2026-09-21T05:28:48+00:00",
+      "summary": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wajFXbHRtTG9rYWZxUkVhLWVlampKUDVfRjl0WkdSSXN4VFJnMVRGdmJjbzQ0YUU5RzZSREZ3ZUFjNGZ6X3NsWmRVelF4N1dYeUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "857afca16cc1",
+      "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
+      "published": "2026-09-21T03:00:00+00:00",
+      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
@@ -71,13 +122,13 @@
       ]
     },
     {
-      "id": "3593286ea104",
-      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞",
+      "id": "40e3d7d54969",
+      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌",
       "published": "2026-09-20T15:00:03+00:00",
-      "summary": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌&nbsp;&nbsp;news.pchome.com.tw",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5"
         }
       ],
@@ -291,32 +342,6 @@
       "matched_keywords": []
     },
     {
-      "id": "90acb5151751",
-      "title": "新研究：限制蛋白質攝取量 反能延長壽命",
-      "published": "2026-09-19T18:35:26+00:00",
-      "summary": "新研究：限制蛋白質攝取量 反能延長壽命&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11UTloM09OeDl2Zk4td0VPcWJTOHNlQ0MwRDVzSzhHUzg5VnU4M3FUeFYxNkI2MXNMZlhtZlRKRlVUXzZ3a05kaUNNZVhYWml6S0dDSHItb2s5SE5HdjU0SXln0gFnQVVfeXFMTU1WbEptVmE4NnRBeTJpUHNhenRFSjFyWkpmMzJPTDZKdThlTS1zZFBnNmF1aEFGNndsa3ZwWElmY0xzZGZjOGdxTEg5YTdza1MtTWZaYS1yWlpRamdzWWFNM0N5YVE1WQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9061ef75c7a7",
-      "title": "度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」",
-      "published": "2026-09-19T11:07:00+00:00",
-      "summary": "度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」&nbsp;&nbsp;Yahoo新聞斐濟宣布全國HIV危機每60名成年人1人感染| 國際&nbsp;&nbsp;中央社 CNA每60人就有1人染愛滋！這國HIV失控 進入緊急狀態&nbsp;&nbsp;自由健康網傳染病暴風式成長 這國進入緊急狀態&nbsp;&nbsp;東森新聞斐濟群島艾滋病例激增 宣布“國家緊急狀態”&nbsp;&nbsp;rfi.fr",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQdW1OVnk5MkhHMHdtNFFaV1RTYUU2azZpZjhkYzR6UUl1V212VVhIRmF4cWVMOXNmLTlrdDI3M2VUQ19HdHZPbEFzMThYVndjdDBCMUZYU0ZLWmR3V0gyQVRoY0YxSHhRenIwUFpGUFBMdDgxeENxTm1PVWRhQ1ZoLWxrWnFjd1EwbFVhN2xwUjJ4M3h4QW9wVkpEUUl5NnhxRmdweVM1R19ISkRXWlY5emtoZ29XMGJRbHdYRmJNakxBRW00SUY3MkJqZ09ZZkVCWUlxRE9BTUFVdWp3ZDRrNDl0MmRoOUZ0b1NuY2xBMzdncmlvQnhFcE5LcW5QTTVSN1NVRTQzUktBSUJ2bFVzU29iWXVpTkkwLXREaG9Oam1oRXdjeFRWOS1LQnZ1ckl3U010VWIya3FjX3Q1b0tPX1JCdUhMcVhlcXhFOEk5M0drc1VTa0lMQWVUTkZtMGpqX2lB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0245cb0570a0",
       "title": "維他命B雜｜降糖尿病風險改善睡眠 1分鐘自測缺甚麼 5方法補充",
       "published": "2026-09-19T09:03:03+00:00",
@@ -369,19 +394,6 @@
       "matched_keywords": []
     },
     {
-      "id": "9fd25294d04b",
-      "title": "隱形眼鏡「日拋戴2天」沒關係？眼科醫曝後果這些習慣恐重傷視力- 健康新聞- PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-09-19T01:30:00+00:00",
-      "summary": "隱形眼鏡「日拋戴2天」沒關係？眼科醫曝後果這些習慣恐重傷視力- 健康新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWFrdlkyeVFIWVE4aGxBc25vdF8zdlpYbDZSZ01YU29ncUQ3SEdLaUNKLWF4SkJFcUY2Nk9iTVd1VVJ2QjVrRUNiU1VYY0JnSUx3NGtmd3ZxQk5Xb1VXdlNXQWJYMDdkRkxCeFFfLUw0MlZMSlVncmFHdVVFQ1BrUlN2RlBrTjJuVTNvempwVTZJdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "be615ed3e92e",
       "title": "天天喝牛奶竟增加攝護腺負擔？研究揭乳製品關聯 醫提醒更該注意這些事",
       "published": "2026-09-19T00:40:54+00:00",
@@ -424,7 +436,7 @@
       "id": "e9b956c7263d",
       "title": "蕭彤雯高齡母染A流癱軟！　「人生首叫救護車」醫一度警告恐插管",
       "published": "2026-09-18T13:20:00+00:00",
-      "summary": "蕭彤雯高齡母染A流癱軟！ 「人生首叫救護車」醫一度警告恐插管&nbsp;&nbsp;ETtoday星光雲十年最強流感！蕭彤雯80歲母A流併發肺炎送醫 揭半夜突癱軟恐怖過程&nbsp;&nbsp;三立新聞媽媽A流併發肺炎急送醫！蕭彤雯驚曝「人生首次叫救護車」：老人轉重症只在一瞬間&nbsp;&nbsp;噓！星聞蕭彤雯高齡母染A流癱軟！ 「人生首叫救護車」醫一度警告恐插管 | ETtoday星光雲&nbsp;&nbsp;LINE TODAY十年最強流感！蕭彤雯80歲母A流併發肺炎送醫 揭半夜突癱軟恐怖過程 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
+      "summary": "蕭彤雯高齡母染A流癱軟！ 「人生首叫救護車」醫一度警告恐插管&nbsp;&nbsp;ETtoday星光雲十年最強流感！蕭彤雯80歲母A流併發肺炎送醫 揭半夜突癱軟恐怖過程&nbsp;&nbsp;三立新聞媽媽A流併發肺炎急送醫！蕭彤雯驚曝「人生首次叫救護車」：老人轉重症只在一瞬間&nbsp;&nbsp;stars.udn.com蕭彤雯高齡母染A流癱軟！ 「人生首叫救護車」醫一度警告恐插管 | ETtoday星光雲&nbsp;&nbsp;today.line.me十年最強流感！蕭彤雯80歲母A流併發肺炎送醫 揭半夜突癱軟恐怖過程 | 三立新聞網&nbsp;&nbsp;today.line.me",
       "sources": [
         {
           "name": "ETtoday星光雲",
@@ -434,13 +446,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8be05ff027a3",
-      "title": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞 - PChome Online 新聞",
+      "id": "d44454b775e8",
+      "title": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞",
       "published": "2026-09-18T09:08:07+00:00",
-      "summary": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞&nbsp;&nbsp;news.pchome.com.tw",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0kzMXZEUkM2NzNYMlB0bUJYRk40c1JGNUJNMXRyYkpoZHVlVThlYzFMMHlvSzlHTkh4TXpzOG1UQkRZSi1iNDFKOWo2UUhlOUYzYkJodXoyUG5zN3Vka0hkM2c3RU1tYW0xOVRlenE4S2F5aEhkNjhvdkFlUjM4SkdkdEJmNVlBYWNpRA?oc=5"
         }
       ],
@@ -537,13 +549,13 @@
       "matched_keywords": []
     },
     {
-      "id": "bc23c5a06e05",
-      "title": "百萬KOL 14日真人戒糖對比實測！僅2星期戒糖組即輕2KG+皮膚變好／對比組內臟脂肪升5.2 - U Food",
+      "id": "5383b5072fd4",
+      "title": "百萬KOL 14日真人戒糖對比實測！僅2星期戒糖組即輕2KG+皮膚變好／對比組內臟脂肪升5.2",
       "published": "2026-09-17T11:17:09+00:00",
-      "summary": "百萬KOL 14日真人戒糖對比實測！僅2星期戒糖組即輕2KG+皮膚變好／對比組內臟脂肪升5.2&nbsp;&nbsp;U Food",
+      "summary": "百萬KOL 14日真人戒糖對比實測！僅2星期戒糖組即輕2KG+皮膚變好／對比組內臟脂肪升5.2&nbsp;&nbsp;ufood.com.hk",
       "sources": [
         {
-          "name": "U Food",
+          "name": "ufood.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNaEZ4QWpVNkNwTlBLb1Nqc1hCR0xNYnB3M3BVUC03SEF5d3hnaWxaLWc5VEZ0OUU0ckF0NF9hVE5RQ0NzN21JVDUwM09UbVFNVllqSmlYeERGTnFUN1hlekhrVFRUQ2EtTTZ3YUI4QXc2eEdET2JCc2ZoMGk1MVNwVHdhT19LcWNnajdCdGJKSXUyRE5IWi1sOGVvWDlIZjhyRnA5Z2dTTVY0dXNSMGt1M2pEdk16Y25jRnc3alNaaDZuX1VrZFdobWhCNmhNU2Y1WUFMNE56UTVNTEFSX09KR19UZlVMVUhvRTlNZDJXRVFyTkI4bW1qQkM0ckpuVU15OE5hS0JmWEN5dTljWjBTb05NLTd4azJyOFFFTTZWZzloTVpDSEFBeGdFb3I5bHk1U1E1bXIyQlE5WVdKcmxNNnhrQlRoZlFRdlZhSFptVmVfMWRRakM1ckRycTE5UnVYMDE1RW9XSDRsRmpYTTVtVnd6TVZuN1dWdktQQ1BJd0RnaHhDOWhIaWVjN3hNS19LRkJkMHAxaUNmVnpKUGw5VWRodl9vWXpTc0w2ajBSSHJ1VVNpNGpnVFZNSVEwVlU1U3JlUUhFRUEyaC1mS3p3MVNaay00dUh6cU01N19tNUJBa0JUT1E?oc=5"
         }
       ],
@@ -579,7 +591,7 @@
       "id": "e57b1b8c4ead",
       "title": "打新冠疫苗會致癌？台大權威闢謠：不進細胞核、不變DNA",
       "published": "2026-09-17T08:15:00+00:00",
-      "summary": "打新冠疫苗會致癌？台大權威闢謠：不進細胞核、不變DNA&nbsp;&nbsp;工商時報新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？&nbsp;&nbsp;Yahoo新聞打mRNA新冠疫苗會罹癌？台大權威闢謠：沒有證據顯示會致癌&nbsp;&nbsp;gvm.com.tw新冠疫苗副作用聚焦！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;udn新冠疫苗錯誤資訊充斥 醫破解5大迷思&nbsp;&nbsp;自由健康網",
+      "summary": "打新冠疫苗會致癌？台大權威闢謠：不進細胞核、不變DNA&nbsp;&nbsp;工商時報打mRNA新冠疫苗會罹癌？台大權威闢謠：沒有證據顯示會致癌&nbsp;&nbsp;遠見雜誌新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？&nbsp;&nbsp;Yahoo新聞疫苗副作用討論度最高！專家搖頭：網友認知停在疫情時代&nbsp;&nbsp;自由健康網#左流右新護肺顧心&nbsp;&nbsp;優活健康網",
       "sources": [
         {
           "name": "工商時報",
@@ -832,13 +844,13 @@
       ]
     },
     {
-      "id": "f114dd094640",
+      "id": "6845780c6036",
       "title": "【開學防病】父母必睇4大貼士！冷熱交替＋校園交叉感染高峰期，小朋友濕敏爆發、頻頻胃痛泄瀉？拆解「腸道屏障」防病關鍵",
       "published": "2026-09-17T05:32:04+00:00",
-      "summary": "【開學防病】父母必睇4大貼士！冷熱交替＋校園交叉感染高峰期，小朋友濕敏爆發、頻頻胃痛泄瀉？拆解「腸道屏障」防病關鍵&nbsp;&nbsp;Yahoo開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss周吉佩幫仔仔執書包 最重要1物竟然唔係文具？ 星級爸爸公開開學必備養肺恩物&nbsp;&nbsp;AM730幫仔仔執書包 最重要1物竟然唔係文具？ 周吉佩公開養肺恩物 護肺止咳全家安心&nbsp;&nbsp;Sky Post",
+      "summary": "【開學防病】父母必睇4大貼士！冷熱交替＋校園交叉感染高峰期，小朋友濕敏爆發、頻頻胃痛泄瀉？拆解「腸道屏障」防病關鍵&nbsp;&nbsp;hk.news.yahoo.com開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss周吉佩幫仔仔執書包 最重要1物竟然唔係文具？ 星級爸爸公開開學必備養肺恩物&nbsp;&nbsp;AM730幫仔仔執書包 最重要1物竟然唔係文具？ 周吉佩公開養肺恩物 護肺止咳全家安心&nbsp;&nbsp;Sky Post",
       "sources": [
         {
-          "name": "Yahoo",
+          "name": "hk.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQa1VqM2ltRWg1STZjX2tQZnVjaFdkNVhSQ0haQkxVZENWUW5sOVJLWnFVeHpzUFhPUXMyVUIwZ1ZrNW9la0cyR2xuSnRFN05wcTdaN3NZSlo5aXd6bHFsZ0pkekloaHNEM1g3dENjNWVoTDIzSlc2U1hVYkdLS25Wd2VVMm9ZSHEzRE1CTGVaQTNRQmVTa3hhRGE0XzI4QTl1Z1JpRkFGVGNZejFMS1lsb2FZcDVRSUV5aDJfZ0FneXVrSTJJX3JpTVRFZUd5U3B5Vmh3c2xkWldjNV82UVBodWJSY0xRV2E1M3NSZU9mUW9EaGpNcU5yZlhDUXZwSklfdkdiNnBjUDd6ejVKT0Q3ZjJ6eXUtUHdWVXd6NG0xejltRFNzWE9MX0c5Zm5fUVZhcTNCRld3ckhfZWcxenlCSmV5VEtxU1RRZzNVVHhmX1p4Q1hVaGc0MURtYl9CWEM2c3V0N3lYUTZaSFJrdHVGLXpWS3J2emFiQjZpdUdTRTJrZC1tRnNNOUNXeTBGZXdiWm9SZkd2Ml93MVViYzIxM0F0cFZQZlFXdHlMRXVVdDZ4T0hMRXFBa25OS2lMUGtubldteV9vck1JbzEwWXc?oc=5"
         }
       ],
@@ -974,13 +986,13 @@
       ]
     },
     {
-      "id": "aa6413b2b950",
+      "id": "5221026a2aef",
       "title": "你的頭皮正在缺氧！30歲髮量像45歲，落髮真兇根本不是壓力大",
       "published": "2026-09-16T02:00:00+00:00",
-      "summary": "你的頭皮正在缺氧！30歲髮量像45歲，落髮真兇根本不是壓力大&nbsp;&nbsp;uho.com.tw",
+      "summary": "你的頭皮正在缺氧！30歲髮量像45歲，落髮真兇根本不是壓力大&nbsp;&nbsp;優活健康網",
       "sources": [
         {
-          "name": "uho.com.tw",
+          "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KN2laU0RhSDBwNGhDaGxsS0JqZ0xPam50ekRlLUNzRjJrQ2wyVjliQXFXbzgyenBLa3hyOW5fUUZUYVZNU2RwRTNXaFNpSzQwclpR?oc=5"
         }
       ],
@@ -1026,13 +1038,13 @@
       "matched_keywords": []
     },
     {
-      "id": "cc9e260a1160",
+      "id": "cee633a66845",
       "title": "性病不應「全家桶式」篩檢！ 泌尿科醫揭3大迷思：陰性不代表從未感染| 健康",
       "published": "2026-09-15T08:55:00+00:00",
-      "summary": "性病不應「全家桶式」篩檢！ 泌尿科醫揭3大迷思：陰性不代表從未感染| 健康&nbsp;&nbsp;三立新聞性病不應「全家桶式」篩檢！ 泌尿科醫揭3大迷思：陰性不代表從未感染&nbsp;&nbsp;三立新聞",
+      "summary": "性病不應「全家桶式」篩檢！ 泌尿科醫揭3大迷思：陰性不代表從未感染| 健康&nbsp;&nbsp;setn.com性病不應「全家桶式」篩檢！ 泌尿科醫揭3大迷思：陰性不代表從未感染&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "setn.com",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1vUEpEaHFidENKMjMzdnk0UkU1aVd0aV96dnpMTVl5WW9aNHBLQ2ZILXBZa0EtTUU3TUM3RmQzUERHYWpId21HYw?oc=5"
         }
       ],
@@ -1126,10 +1138,36 @@
       "matched_keywords": []
     },
     {
+      "id": "f4a99cdcf4cc",
+      "title": "比肥肚子更奪命！研究曝「缺這維生素」大增91%死亡率",
+      "published": "2026-09-15T04:33:05+00:00",
+      "summary": "比肥肚子更奪命！研究曝「缺這維生素」大增91%死亡率&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNWU53QU5oRlg3djVIOFc1RzR3UEFJeHlUZmZBQjBXdTFVbHpqV3V0NjhvRlNMTnhxLW9rWktJRlMwNXNla0ZtbVdrcl9QbXNVVWs1WnEtZTAtVlVJNy1tc0FYaF9mNXZDY3lBQXp1VmFMUy1PWEstdHMwaXdrS1VkbHBfVHRmVi1qbVpsTTBQNzlxWmlkR1VOS0pFSDVsM0gzNjlmWl9lWkxxbmdnZ0xRRlpFVFVBdmwwTk54Y1lfckVqVUkxeEZESWpTZ1RzamlkQUFxMi1FRlFaZUZfTHJNZEJqcWU0cEd0VjVUTEdUYjh3S3I5dk5Kc0lQQTNGRmZDbUo1cjRBNVMzUURCWm0wMjNXZE53bTlVcjdDNzhrS2NHQVJ6TjlwOTV4S2puaW40MWp1WWhRS3FZRDNGQjlnaTdPSzRLd204SURN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ff3156eecf0c",
+      "title": "比肥肚更奪命 「缺這維生素」增91%死亡率 - 鏡週刊Mirror Media",
+      "published": "2026-09-15T04:16:00+00:00",
+      "summary": "比肥肚更奪命 「缺這維生素」增91%死亡率&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yTGItOENELU8xcFNtRnd6VnI4V2hlejBTa1lNNVRqanhGTU1sR2Z5b0lMU1h5NE5LMEdiMW0zaFFCbkNKRUZxWUc3bEhrNVRVSlVZU1JxTkVKX3Fj0gFiQVVfeXFMT2xGZG1oZjZtTjdVWkRfODZyUkVWOFBIV3VqR21qOHpyQzRMZDJfR2wyWEIzVy1LZWFUd1JjWHAwbW9VanpYTVpIdFZjZVBpOXFoSUotRzdhR25sVEx3bnZiUXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1f4ccbaad09d",
       "title": "高血糖加肥胖 可能與HPV雙重夾擊",
       "published": "2026-09-15T03:07:23+00:00",
-      "summary": "高血糖加肥胖 可能與HPV雙重夾擊&nbsp;&nbsp;人間福報電子報小心HPV癌變潛在風險 高血糖加肥胖雙重夾擊 醫：男性更要當心&nbsp;&nbsp;經濟日報重大致癌因子肥胖僅次菸害- 醫療保健- 新聞&nbsp;&nbsp;華人今日網「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;udn",
+      "summary": "高血糖加肥胖 可能與HPV雙重夾擊&nbsp;&nbsp;人間福報電子報重大致癌因子肥胖僅次菸害- 醫療保健- 新聞&nbsp;&nbsp;華人今日網「糖胖症」染HPV 罹癌風險增&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "人間福報電子報",
@@ -1139,13 +1177,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c74735bdec5c",
-      "title": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相 - PChome Online 新聞",
+      "id": "8703ba4d1a29",
+      "title": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相",
       "published": "2026-09-15T01:16:24+00:00",
-      "summary": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "當垃圾食物穿上健康外衣：剖析「健康化零食」的消費迷思與科學真相&nbsp;&nbsp;news.pchome.com.tw",
       "sources": [
         {
-          "name": "PChome Online 新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR2dVYVp4Nm1zdUFtbVFDcXZzYUIwa0twdlhBZXJrYjJTNlpYc3ZsLUJFNklWbTdEcFp2XzlWTGc2TDJMUUI3OTh3MjloeGZIZnJWSktzQzBxRlpjZEFLRXIzQVpFTEEwQ2xfNkJ3eW5xWl95ZnNpUDFwUVZ3WDNHanJuZlNTaUdVX1pz?oc=5"
         }
       ],
@@ -1386,13 +1424,13 @@
       ]
     },
     {
-      "id": "4525ba4e27f2",
-      "title": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 | 科技新報 - LINE TODAY",
+      "id": "5220b6e5451f",
+      "title": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 | 科技新報",
       "published": "2026-09-14T11:47:07+00:00",
-      "summary": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "summary": "活到 117 歲仍少有重病，科學家找到超級人瑞的長壽線索 | 科技新報&nbsp;&nbsp;today.line.me",
       "sources": [
         {
-          "name": "LINE TODAY",
+          "name": "today.line.me",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wT2tZS3dtdWk4LVU2cW1YRUZ2bUNVcGUzRVctOHlQczg3b2tvaFJaRDhJRFBVZkdaR0NZNGhGaHpXY0xPWlNmczZIQVpzRm15c3NLTDhn?oc=5"
         }
       ],

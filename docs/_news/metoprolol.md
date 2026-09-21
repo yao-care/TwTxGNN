@@ -48,7 +48,7 @@ permalink: /news/metoprolol/
 
 2026-09-21 <span class="news-indication-tag">高血壓</span>
 
-來源: [uho.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
+來源: [優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
 
 ---
 

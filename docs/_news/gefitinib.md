@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5)
+
+2026-09-21 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5)
+
+---
 
 ### [多交朋友 少得失智 社交是大腦最強保護盾](https://news.google.com/rss/articles/CBMiX0FVX3lxTE02MHVoelhIbXJMallCWUsxNE45Y0ctUHlGaGFDemJJb05Tekl1RUpXRU5JX2E3a2I1UjdKUXpVLWowalp3bzlacnZUd3hCNDlZcWZ6aXNQZFJGZml5ZXhZ0gFkQVVfeXFMTTB4b1RFaGZlT0RJWTBzTm9GQi1YWWdnU09wSVlEMUlxdjJiZGJfTzZMT1ZYVU9KSi1XQUhxSDVXWV9laUpLcURqTHN0eWdvOEVJdDRBcjJCOTJ4T0FDbV9PZWNfNQ?oc=5)
 
