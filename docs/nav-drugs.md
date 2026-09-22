@@ -3,7 +3,7 @@ layout: default
 title: 藥物報告
 nav_order: 4
 has_children: true
-description: "瀏覽 191 份老藥新用驗證報告，依 L1-L5 證據等級分類。"
+description: "瀏覽 279 份老藥新用驗證報告，依 L1-L5 證據等級分類。"
 permalink: /nav-drugs/
 redirect_from:
   - /nav-drugs.html
@@ -12,7 +12,7 @@ redirect_from:
 # 藥物報告
 
 <p style="font-size: 1.1rem; color: #666; margin-bottom: 1.5rem;">
-依證據等級瀏覽 <strong>191</strong> 份老藥新用驗證報告
+依證據等級瀏覽 <strong>279</strong> 份老藥新用驗證報告
 </p>
 
 <style>
@@ -120,15 +120,15 @@ redirect_from:
 
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 9.4%;" title="高證據等級：18 個藥物">18</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 18.3%;" title="中證據等級：35 個藥物">35</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 72.3%;" title="僅模型預測：138 個藥物">138</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 14.0%;" title="高證據等級：39 個藥物">39</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 25.8%;" title="中證據等級：72 個藥物">72</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 60.2%;" title="僅模型預測：168 個藥物">168</a>
   </div>
 
   <div class="drug-cards">
     <a href="{{ '/evidence-high' | relative_url }}" class="drug-card high">
       <div class="drug-card-icon">
-        <span class="drug-card-count">18</span>
+        <span class="drug-card-count">39</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">高證據等級</div>
@@ -139,7 +139,7 @@ redirect_from:
 
     <a href="{{ '/evidence-medium' | relative_url }}" class="drug-card medium">
       <div class="drug-card-icon">
-        <span class="drug-card-count">35</span>
+        <span class="drug-card-count">72</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">中證據等級</div>
@@ -150,7 +150,7 @@ redirect_from:
 
     <a href="{{ '/evidence-low' | relative_url }}" class="drug-card low">
       <div class="drug-card-icon">
-        <span class="drug-card-count">138</span>
+        <span class="drug-card-count">168</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">僅模型預測</div>
