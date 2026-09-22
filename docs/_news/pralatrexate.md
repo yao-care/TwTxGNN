@@ -44,11 +44,11 @@ permalink: /news/pralatrexate/
 
 ## 相關新聞（1 則）
 
-### [新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思| 專欄](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EQ2x4dkp3bXNrUURoWkNUWmtXNC1UeFdEcUUteHlxb2k5dTBEUWp6WHJHX2Q0dDZab2dQNVVZUVozenNYaGVzMA?oc=5)
+### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 2026-09-22 <span class="news-indication-tag">癌症</span>
 
-來源: [setn.com](https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EQ2x4dkp3bXNrUURoWkNUWmtXNC1UeFdEcUUteHlxb2k5dTBEUWp6WHJHX2Q0dDZab2dQNVVZUVozenNYaGVzMA?oc=5)
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 ---
 
