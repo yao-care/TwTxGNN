@@ -14,7 +14,7 @@ permalink: /news/temozolomide/
 ---
 
 <p class="key-answer" data-question="Temozolomide 有什麼相關新聞？">
-<strong>Temozolomide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Temozolomide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/temozolomide/
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [打新冠疫苗會致癌？台大權威闢謠：不進細胞核、不變DNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRTJGUkprdmxJZ3l1RG51QUN1QzZvOXpTbVJweExSWGpWQm9SNFowOS0wM0l4aHFrVTAwZ0V4cWtwdGtNZUdWMWhWS2VsNXg0VzJKemxJZnJDSWlBbDZ3?oc=5)
 
 2026-09-17 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRTJGUkprdmxJZ3l1RG51QUN1QzZvOXpTbVJweExSWGpWQm9SNFowOS0wM0l4aHFrVTAwZ0V4cWtwdGtNZUdWMWhWS2VsNXg0VzJKemxJZnJDSWlBbDZ3?oc=5)
-
----
-
-### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
-
-2026-09-15 <span class="news-indication-tag">癌症</span>
-
-來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源: [ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRTJGUkprdmxJZ3l1RG51QUN1QzZvOXpTbVJweExSWGpWQm9SNFowOS0wM0l4aHFrVTAwZ0V4cWtwdGtNZUdWMWhWS2VsNXg0VzJKemxJZnJDSWlBbDZ3?oc=5)
 
 ---
 

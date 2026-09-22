@@ -3,7 +3,7 @@ layout: default
 title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "癌症 (generic_cancer) 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
-<strong>癌症 (generic_cancer)</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [打新冠疫苗會致癌？台大權威闢謠：不進細胞核、不變DNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRTJGUkprdmxJZ3l1RG51QUN1QzZvOXpTbVJweExSWGpWQm9SNFowOS0wM0l4aHFrVTAwZ0V4cWtwdGtNZUdWMWhWS2VsNXg0VzJKemxJZnJDSWlBbDZ3?oc=5)
 
 2026-09-17
 
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRTJGUkprdmxJZ3l1RG51QUN1QzZvOXpTbVJweExSWGpWQm9SNFowOS0wM0l4aHFrVTAwZ0V4cWtwdGtNZUdWMWhWS2VsNXg0VzJKemxJZnJDSWlBbDZ3?oc=5)
-
----
-
-### [新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
-
-2026-09-15
-
-來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源: [ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aRTJGUkprdmxJZ3l1RG51QUN1QzZvOXpTbVJweExSWGpWQm9SNFowOS0wM0l4aHFrVTAwZ0V4cWtwdGtNZUdWMWhWS2VsNXg0VzJKemxJZnJDSWlBbDZ3?oc=5)
 
 ---
 
