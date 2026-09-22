@@ -1,8 +1,50 @@
 {
-  "last_updated": "2026-09-21T21:26:37.855299+00:00",
-  "total_count": 54,
-  "matched_count": 13,
+  "last_updated": "2026-09-22T00:24:52.559683+00:00",
+  "total_count": 56,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "8881f425f2a6",
+      "title": "疫情後飲酒率終降 50至64歲卻逆勢上升",
+      "published": "2026-09-21T23:22:49+00:00",
+      "summary": "疫情後飲酒率終降 50至64歲卻逆勢上升&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRU9EWGF4SDZxeUExb0FmbVZHODNIWmlDZ0VNQUtRdzZkMFZ1Skxxd2duOGxGdnRUeFN3NnF2NzRFRktiTTVTdU5mcEc1Ukl6TXd3QmVaUWFjX25Va0RMbmM4RnZwNkxKRTBEQ0pJOS11TExIZmNEWEczNHpRaktJS05GN0NOMmd3V25xc3dwQ08tRjRpWndkOW15QWVyOVlJdUdwRWl6S2xqQmJjY3VpRUNBaVlhTEV2MWtlUDRUSjl2Qk84bEhhSUgzWktBcmVoYkw5NmJncFhGX1FLNFVUMF9SMlkwb0FzOU5zOWJSRThGUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5e0b78d945d6",
+      "title": "健康網》高血壓少吃鹽也出事！ 醫揭3原因：服藥長輩易中招",
+      "published": "2026-09-21T23:19:00+00:00",
+      "summary": "健康網》高血壓少吃鹽也出事！ 醫揭3原因：服藥長輩易中招&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DelQxM2V4T1l5YldJRUhrbmViR1FPMS0ySHRzMi1nRlQzaGhtMVdiOWpucEVQbmFwS3QxOWd6azVVNTM5N0dqSFNyYlpEOVZfOXpRbzB1NkFuUHdaY2pTT3pvZzY?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "02119a17eca9",
       "title": "糖胖成防癌破口醫籲速打疫苗- 國際",
@@ -431,13 +473,13 @@
       "matched_keywords": []
     },
     {
-      "id": "be798b84232e",
+      "id": "2185d71c9938",
       "title": "佛羅里達州登革熱疫情嚴峻 錄得數十年來最嚴重爆發之一並致一人死亡",
       "published": "2026-09-18T21:45:14+00:00",
-      "summary": "佛羅里達州登革熱疫情嚴峻 錄得數十年來最嚴重爆發之一並致一人死亡&nbsp;&nbsp;bastillepost.com",
+      "summary": "佛羅里達州登革熱疫情嚴峻 錄得數十年來最嚴重爆發之一並致一人死亡&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT3FuVC1oQXpsb25CYTFGX0dwOUdZQzc0enVRYldqMDJqZlROSU9WSzJGSFY1X1dQeTUtcXJhY1BQRDg0MEtkeVRTdFJxTnlZajJsaEJzNVdPYzdYUE9FZ2VZcjY5SDlfWnItMHNGYUM4Sko2X19tLU9CNFV0ekNOazFwOGxfN3piUTl5N1R1TEZ3UzM4cGw0bVVETzJTVXhORExKWTNUWnRGRVFGSEMwUFAwMjFXd0FGZEQ3ZWtxWlJ2ZHVCNmUyTDFKaGNsZ1NqU25xU3FGUlZVUzVrN2NVcVptZVc2bW5NVjN6UUt5SWs2QVNScXppdUExV0tPZTNadDdyQkttNzZzbW5TY2p4bVVGMFJIRW9uQnRJNHdXbmJIUzZPSkhVaGV6MEx3RWx0ZUxRMGtzaUVmWjFzMDRYelBjcFRLTVpGUlRjUDZmU3FvMU5ENkVwdEhRTU1jcUJBaWpueWhlNlM2V2IwTmN3?oc=5"
         }
       ],
@@ -521,26 +563,26 @@
       "matched_keywords": []
     },
     {
-      "id": "d98929fcc856",
+      "id": "22992b7439fd",
       "title": "牙齒健康│小朋友牙齒「黑黑的」是不是蛀牙？兒童牙科專科醫師：家長毋須過度擔心| 牙科保健",
       "published": "2026-09-18T03:44:11+00:00",
-      "summary": "牙齒健康│小朋友牙齒「黑黑的」是不是蛀牙？兒童牙科專科醫師：家長毋須過度擔心| 牙科保健&nbsp;&nbsp;Oh!爸媽",
+      "summary": "牙齒健康│小朋友牙齒「黑黑的」是不是蛀牙？兒童牙科專科醫師：家長毋須過度擔心| 牙科保健&nbsp;&nbsp;ohpama.com",
       "sources": [
         {
-          "name": "Oh!爸媽",
+          "name": "ohpama.com",
           "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOdVUySldoNUxSUDNVdUtNa292STd4Qm5ydDdXQUZ2QTVpb25OY1JwY1RXTUUwRmU0MndySmRIZVZTenNSVEg4ckY4bEZHdzNWYk1Kb0NqaTBoUGMyX2NQSWM3R0FYTGlxQzVUTDA5N0F3OHhZZTlWaE4zMklfMkZHUUFqbHM0cEhDN1JxcGMyWWJZSWRrU19DdWZHVV81Z1Z4Rkc0OVlsMW1CRjJXMHVNT2FsT0g2b2tQS3pPcFFTUnRkUk5mdFRhMjlNWmNaOFRnTFNQdUhTQTh5WmFJQnkyZzhjdGJwMkR3eVkxSmRESWpCdE5VenhTa2pjWlZVUGlsejdMWmd3QzhhVFg5eVlCaTJ4Vll3b3ViUXlQM1RRa1U2SW00N1Nab3piNFBwMzBqck02M2RqSUlXcDJZOUhkMDBsSkk5UU03S0VLdkxCdWN5VEhCcEpOQUZ5OExHV3c3VGREOEdUVkZIV0haclZCNW8xelRBNmZHZnRBaUNQZVdBV1lsQmM3QW9rTTlwdnpFZU9sTE1QdjVOZzhMU1A0QzhZQy1rUG1tMVJBVlRGSTBGcHc?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "932a0805df8b",
+      "id": "e33f3dc72dc0",
       "title": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！",
       "published": "2026-09-17T22:40:48+00:00",
-      "summary": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！&nbsp;&nbsp;bastillepost.com",
+      "summary": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQMlF3akFOSkF6eDV4N2x2ZUJWcEIzai10eHBxM01IS3pVaEk5QnNjZnVPT0pGY2U5LUJUSVZiODd5SlFiNWNhUGJtMzRzQ0RsTXgyY1VUMmJaTW5fTGpCdmg2ekRZN2ZMU1NnY2ppZUZOSXBVSS1VcHo5QU42Um5RTURYclBHWmRnSk1JY2w0SVA4Tl9PTzdwVjZXYnNTbHA2S2dsd3BhXzB1SGMwNzEzemtBREdHazROcVJlekJ2clVjUU04Sk1vSHJfaVJ5c1ZHUEs3RE45Tm5EeUFpbFVHY0ZLS1hrcWF0TGNUWlYyWVg0Z3ZPUTNMRm8xaVhrcTlRWVF1MDIyRG92bXhyOFR0UjBNWkZfQ2VwUmRlMF9kbkJGTXpmVkk4ZjBGVUVaUWpTZ0pxeTQwMEZ4SlZDdklOV3JiWnpmc1NlRkdqeTIxQUtra1NNQUphdGJUMEpWbV9lY3lOMDYzdHI2a3FrY0VYQw?oc=5"
         }
       ],
@@ -997,13 +1039,13 @@
       "matched_keywords": []
     },
     {
-      "id": "3d5db692d5bb",
+      "id": "38a4cef6c313",
       "title": "不只減重？熱門藥物GLP-1展現抗老潛力，動物研究現重大突破",
       "published": "2026-09-16T05:22:00+00:00",
-      "summary": "不只減重？熱門藥物GLP-1展現抗老潛力，動物研究現重大突破&nbsp;&nbsp;n.yam.com",
+      "summary": "不只減重？熱門藥物GLP-1展現抗老潛力，動物研究現重大突破&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "n.yam.com",
+          "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YSU5MM0VkeVZEQVVBYkRyNllpcjZ1dGZhZmhYVC1KTTRpTW15VGhXbDF0TVFnSV9sZUVKVTJpeGZmTGYzaDZLOVh6MndLN1lXQnc?oc=5"
         }
       ],
@@ -1036,13 +1078,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e71686d61c38",
+      "id": "66ab19a1a007",
       "title": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%",
       "published": "2026-09-15T22:40:56+00:00",
-      "summary": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%&nbsp;&nbsp;bastillepost.com",
+      "summary": "研究指清晨活動或降癌風險26% 配合早睡早起差距達31%&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPMk1nUWI2ejk4ejdqNzhCSzJGQnJic3lYTUxGRjZhN0R0NVlRajBKTGJTSThNdlU0QUdZLVctNjBqd1NCTUdvelZXTEZ5TzlqTXd5UHRMbEoxVlUwLVAycWYzSGdBWnFfY25INXN0cFhiNzAxMFRpM0I4QjFYNmx4Q1I3aUNjamZzUGg2UFJzSTh3WjlIUWY5RndKcEVCbW93RmlFcEM2dG43NjBoaVVMMnJ2a2k3VEdTS2lLbnp5ZVlUWHFnWHJITnhTWmlsYVQ2Umc1SHBpQkNRZ25sV0tXR0trcnpfbF9tRmhrQ0UxdGlCT245R1BER0F0M0RaN0Nucm1xYnJWLVNkQXVIbzNkMTFjUGp5TTJiT0RSRDVDY1laRV9EbTlmOEtoRm01TVJWMlE3TFpwOUVwbmRheGdFTGZjbjE1QTRKcDlhVVQ4YnNlSjhlVHhUWmFhTG5OY0dwNlN1QnZMMV8?oc=5"
         }
       ],
@@ -1214,13 +1256,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1c4efe68f327",
+      "id": "99935e8238da",
       "title": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點",
       "published": "2026-09-15T00:44:00+00:00",
-      "summary": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點&nbsp;&nbsp;n.yam.com",
+      "summary": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "n.yam.com",
+          "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5"
         }
       ],

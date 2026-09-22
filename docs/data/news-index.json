@@ -1,7 +1,35 @@
 {
-  "generated": "2026-09-21T21:26:37.882925+00:00",
-  "count": 13,
+  "generated": "2026-09-22T00:24:52.594555+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "5e0b78d945d6",
+      "title": "健康網》高血壓少吃鹽也出事！ 醫揭3原因：服藥長輩易中招",
+      "published": "2026-09-21T23:19:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DelQxM2V4T1l5YldJRUhrbmViR1FPMS0ySHRzMi1nRlQzaGhtMVdiOWpucEVQbmFwS3QxOWd6azVVNTM5N0dqSFNyYlpEOVZfOXpRbzB1NkFuUHdaY2pTT3pvZzY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "574e38df2d45",
       "title": "每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞",
@@ -668,12 +696,12 @@
       ]
     },
     {
-      "id": "1c4efe68f327",
+      "id": "99935e8238da",
       "title": "新一代減重藥 Retatrutide 能降癌症風險嗎？最大規模研究數據揭示的真相與盲點",
       "published": "2026-09-15T00:44:00+00:00",
       "sources": [
         {
-          "name": "n.yam.com",
+          "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5"
         }
       ],

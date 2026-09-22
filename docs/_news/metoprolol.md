@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [健康網》高血壓少吃鹽也出事！ 醫揭3原因：服藥長輩易中招](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DelQxM2V4T1l5YldJRUhrbmViR1FPMS0ySHRzMi1nRlQzaGhtMVdiOWpucEVQbmFwS3QxOWd6azVVNTM5N0dqSFNyYlpEOVZfOXpRbzB1NkFuUHdaY2pTT3pvZzY?oc=5)
+
+2026-09-21 <span class="news-indication-tag">高血壓</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DelQxM2V4T1l5YldJRUhrbmViR1FPMS0ySHRzMi1nRlQzaGhtMVdiOWpucEVQbmFwS3QxOWd6azVVNTM5N0dqSFNyYlpEOVZfOXpRbzB1NkFuUHdaY2pTT3pvZzY?oc=5)
+
+---
 
 ### [老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
 
@@ -72,7 +80,7 @@ permalink: /news/metoprolol/
 
 2026-09-15 <span class="news-indication-tag">癌症</span>
 
-來源: [n.yam.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Qei1fVndJYkozZzA2emJfWlZxeW1KaHlVNU5FdmY0N3VKNXpYNjR6SEpITnU4UlpsQm96WElmeXJ5NThrY3B1UUcyN3ZQTHpXUlE?oc=5)
 
 ---
 
