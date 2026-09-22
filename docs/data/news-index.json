@@ -1,223 +1,15 @@
 {
-  "generated": "2026-09-22T10:37:22.585859+00:00",
-  "count": 11,
+  "generated": "2026-09-22T15:16:46.802214+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "345b55091a84",
+      "id": "a90f91869360",
       "title": "新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思| 專欄",
       "published": "2026-09-22T08:00:00+00:00",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "setn.com",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EQ2x4dkp3bXNrUURoWkNUWmtXNC1UeFdEcUUteHlxb2k5dTBEUWp6WHJHX2Q0dDZab2dQNVVZUVozenNYaGVzMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "eaedf8eeb984",
-      "title": "癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%",
-      "published": "2026-09-22T05:38:30+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNVkxuSTVRZ1JKQnA0YmJGcGxlcHYtVTFIY1FwczVtbk5sc0xBODNxUmp0R0dxdWxER2Qydm9hRFJ0THR4OEcyMkR5Z0FpeUczMVExWDdOTGtsZW1SZW5hVzZwcGdiRDQtT09YSDVLY2V5TFZvOS1udzhLOU40clpScXAzYTJnVjhNWjdFNHJLOU1GOGRJR3BoSkxxa2hqZEx2X2tVWGdrcml6SWdCekZEQXlULTJyRFI2bzh6enVZM1h3d2hJSW0wVFJGSXVMeFdBRDkxOWZ3Y21KTTh6em1VMW9qdjg1MWRxWHhhTnkwNkxMR1ozWkN5M1laV2pwVzNUeEtXTWRqXzlETWptbDhsMWNHMldIZ2c3X2VVVXE2LUhOemh5elNOVEpTVDFWWjRCakVQb1Z5LTlkSHQ5a2hlYkgtTERGbWZ3ODByTmh2MkQ3cmVKRVJfTmZRTVJKeWpzUmRIVHVleC1MX0dkLUg0Y183ejZydC1HMV9OLXFjbE5Hek1EMlR2S0xIMS1OR2NZZWNyR3ZtSmlwR0ZybTF4cG84ajhoaXFja0tMaGxYMGhfc2tLQ1dQUUFTM0t0R2lWVDVXZ2EtMGRua3o3U2FKMkNVMmFIZWhwRXBKekJpTjR0MXdLaDlPMmVyTUhZaDR4dlJqWlQ0cTR4ZHlaYU9ncHBtVlFCMThIeWRQNVNGY0FWeVZqZlpQc0ctVktwX2NBRTVWOUVWbk1Bdk9GVXN4MlZrWGRIQWRtQUgtdDgxRDd0a1pwTm1BV1dmLVl0d0NCdnNfcFZLNjBRM09DZVMyVzZmaEN4bW4ySi1CUXZHaGQ3b0tTZlBR?oc=5"
         }
       ],
       "keywords": [
@@ -521,12 +313,12 @@
       ]
     },
     {
-      "id": "6ad351ba4228",
-      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online新聞",
+      "id": "40e3d7d54969",
+      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌",
       "published": "2026-09-20T15:00:03+00:00",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5"
         }
       ],
@@ -675,12 +467,12 @@
       ]
     },
     {
-      "id": "e8641dd9f95c",
-      "title": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞 - PChome Online新聞",
+      "id": "d44454b775e8",
+      "title": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞",
       "published": "2026-09-18T09:08:07+00:00",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "news.pchome.com.tw",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0kzMXZEUkM2NzNYMlB0bUJYRk40c1JGNUJNMXRyYkpoZHVlVThlYzFMMHlvSzlHTkh4TXpzOG1UQkRZSi1iNDFKOWo2UUhlOUYzYkJodXoyUG5zN3Vka0hkM2c3RU1tYW0xOVRlenE4S2F5aEhkNjhvdkFlUjM4SkdkdEJmNVlBYWNpRA?oc=5"
         }
       ],
