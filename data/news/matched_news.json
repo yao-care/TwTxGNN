@@ -1,78 +1,41 @@
 {
-  "last_updated": "2026-09-23T13:08:18.741291+00:00",
-  "total_count": 47,
+  "last_updated": "2026-09-23T18:04:11.431475+00:00",
+  "total_count": 44,
   "matched_count": 13,
   "news": [
     {
-      "id": "976fdb2288e9",
-      "title": "乳房摸到腫塊！47歲女確診乳腺管侵襲癌 醫評估「這項手術」",
-      "published": "2026-09-23T10:00:00+00:00",
-      "summary": "乳房摸到腫塊！47歲女確診乳腺管侵襲癌 醫評估「這項手術」&nbsp;&nbsp;健康醫療網",
+      "id": "ae2c14ed6e04",
+      "title": "破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞- 生技投資第一站",
+      "published": "2026-09-23T17:22:39+00:00",
+      "summary": "破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5teHZzRkVvclAzcUY5a2VPVjk0T1RtM0oySktydTF5cU9LeDZHVG5tNjlaRjljSU1PdlZFMUJVV0ZsNFNlZUhKLWU3b205d3ZQNEhOdmtB?oc=5"
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "fc55d4d5380e",
-      "title": "疫情後飲酒率首見下降趨勢Z世代與千禧世代貢獻最多- 國際",
-      "published": "2026-09-23T09:27:00+00:00",
-      "summary": "疫情後飲酒率首見下降趨勢Z世代與千禧世代貢獻最多- 國際&nbsp;&nbsp;工商時報疫情後飲酒率首見下降趨勢 Z世代與千禧世代貢獻最多&nbsp;&nbsp;中時新聞網疫情後飲酒率終降 50至64歲卻逆勢上升&nbsp;&nbsp;Singtaousa",
+      "id": "387ba6ae217b",
+      "title": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際",
+      "published": "2026-09-23T14:04:00+00:00",
+      "summary": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際&nbsp;&nbsp;工商時報",
       "sources": [
         {
           "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mMF9vd1Q0SkJnbkE5YlhlZ24zelRsNzlwVlRuWU91cEJsSkg4S0VIYVFpaUZLVks1VzQ1cFpCMFdEWWc5dHdvQjVaemMyZXVXUG1xREktczNMVUE5T2xN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f9c9a4dd55ad",
-      "title": "吃膠原蛋白恐致乳癌？醫揭真相：「1類添加物」是元兇",
-      "published": "2026-09-23T09:18:00+00:00",
-      "summary": "吃膠原蛋白恐致乳癌？醫揭真相：「1類添加物」是元兇&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
             }
           ]
         }
@@ -216,14 +179,14 @@
       "matched_keywords": []
     },
     {
-      "id": "3002149c6708",
-      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！ - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
+      "id": "526228547352",
+      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！",
       "published": "2026-09-23T01:00:00+00:00",
-      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！&nbsp;&nbsp;BCCnews",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVy01WEhGSDlhUXl4Q0dZMWRDYkJtekphdmpaSEZXLTJveVR1ckRMellXT0FIVXE3TjBSQ0VHZnlmWGFJTFNzb3V5YXNGdzFVYmt5aTlBZlBjMDQ5VHF4endLS29kM2s4QXk0ZFh5OHNVUlBfZ25IcGxseDZHNlFCVkdGV21GQmVxTE9rejd5cXBsVEU?oc=5"
+          "name": "BCCnews",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10aGtLOFdaSkZpVVNVRUVQMzRNZkV5QXJaeGVuYXozNVBHaFJUR3gzUWxQZzd1clAxRzRaWGEwaVhiWXhtTi1vNDFBMFIxM3M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -529,6 +492,79 @@
       "matched_keywords": []
     },
     {
+      "id": "29ef1c174c17",
+      "title": "長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病",
+      "published": "2026-09-22T01:47:22+00:00",
+      "summary": "長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "dd44992b6d60",
       "title": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」",
       "published": "2026-09-21T10:30:34+00:00",
@@ -542,51 +578,17 @@
       "matched_keywords": []
     },
     {
-      "id": "574e38df2d45",
-      "title": "每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞",
-      "published": "2026-09-21T09:45:44+00:00",
-      "summary": "每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報一天可以吃幾顆蛋？專家曝「正確數量」 失智風險降27%&nbsp;&nbsp;Yahoo新聞膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報你的心血管健康嗎？別只看膽固醇！醫揭「8大指標」超關鍵，睡眠、血脂、血糖都要顧&nbsp;&nbsp;mirrormedia.mg每天1顆水煮蛋好嗎？蛋黃到底能不能吃？藥理教授曝正確吃法- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "182748990bc5",
+      "title": "膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞",
+      "published": "2026-09-21T09:55:05+00:00",
+      "summary": "膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "3f0748025c01",
@@ -615,13 +617,13 @@
       "matched_keywords": []
     },
     {
-      "id": "372ab8efc7ff",
+      "id": "857afca16cc1",
       "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
       "published": "2026-09-21T03:00:00+00:00",
-      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;uho.com.tw",
+      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;優活健康網",
       "sources": [
         {
-          "name": "uho.com.tw",
+          "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
@@ -852,19 +854,6 @@
       "matched_keywords": []
     },
     {
-      "id": "436d02abb58f",
-      "title": "免疫系統「假警報」成老化推手，解析 cGAS 蛋白如何操控發炎與細胞退化 - TechNews 科技新報",
-      "published": "2026-09-19T02:37:48+00:00",
-      "summary": "免疫系統「假警報」成老化推手，解析 cGAS 蛋白如何操控發炎與細胞退化&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9jYWNEZ3FwWXJuSWI0OWZPdms4bWJSU1hMNk1WbzJrSldJVzAwMGN6UC1DcTV4UWJ1VFlHaEQzdVdCN3pIQ2dtZkhIcElOemdzY3VjX01BZ3lPazl3MmpEcnMzbFlFUEh4blJGYXBEeDlGMkc2Vi1rRlI3Q3V0b0lmcHM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "469565aaf88c",
       "title": "熬夜竟致肺纖維化 3方法養出健康好肺 多吃蔬菜/不超過12點入睡",
       "published": "2026-09-19T02:00:59+00:00",
@@ -886,19 +875,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ycXNkNXhYVDFhSGkxWWVnWWlfUTBvRTlHeGtqWVYwbG1mT1ZhM3lYVW1xeXlCSnZ3aktZX3huMGJaNDQ3TVU4Qlc1ejhaazVDeDh4emtleUI1UDZO0gFiQVVfeXFMTU83YVJycmxsTTZWeUhrZEpEc202OFRVYzNMUkVfOFhBcFhEWXRBWmVxcHlXLU5PbzlPOEEzTXZDc0xFWWxPek9mbW4tVDQ2dWlaRUFhQzRlNEhNR1poMWcyV3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e5294cc7b52a",
-      "title": "蕭彤雯高齡母染A流癱軟！　「人生首叫救護車」醫一度警告恐插管 - ETtoday星光雲| ETtoday新聞雲",
-      "published": "2026-09-18T13:20:00+00:00",
-      "summary": "蕭彤雯高齡母染A流癱軟！ 「人生首叫救護車」醫一度警告恐插管&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲蕭彤雯高齡母染A流出院！ 感性吐心聲：我們真的很幸運&nbsp;&nbsp;ETtoday星光雲| ETtoday新聞雲媽媽A流併發肺炎急送醫！蕭彤雯驚曝「人生首次叫救護車」：老人轉重症只在一瞬間&nbsp;&nbsp;stars.udn.com十年最強流感！蕭彤雯80歲母A流併發肺炎送醫 揭半夜突癱軟恐怖過程&nbsp;&nbsp;三立新聞蕭彤雯高齡母染A流癱軟！ 「人生首叫救護車」醫一度警告恐插管 | ETtoday星光雲&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "ETtoday星光雲| ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5UZDd5YUd6ZTF5Vk5Rd1BXbVNOcGRTX1ZwQV9lVV85S2Q0enREVVVCNTRwSVZzbTZOM2VMS0VpZGVBeHJFOFdwUTBTN0lCd9IBTEFVX3lxTFBrUzE2WGNZelRNTTNyMVUtYl8tZGpVNzQ4S1R5MXdQQ01nY3pUR0c0d3NCamwyeVFTaGhvY195aVlIZGZuellyZEpPSzE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -968,13 +944,13 @@
       "matched_keywords": []
     },
     {
-      "id": "e33f3dc72dc0",
+      "id": "932a0805df8b",
       "title": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！",
       "published": "2026-09-17T22:40:48+00:00",
-      "summary": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！&nbsp;&nbsp;巴士的報",
+      "summary": "楊桃暗藏致命風險 正常人一次食逾4個恐急性腎損傷 腎病患者要慎食！&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQMlF3akFOSkF6eDV4N2x2ZUJWcEIzai10eHBxM01IS3pVaEk5QnNjZnVPT0pGY2U5LUJUSVZiODd5SlFiNWNhUGJtMzRzQ0RsTXgyY1VUMmJaTW5fTGpCdmg2ekRZN2ZMU1NnY2ppZUZOSXBVSS1VcHo5QU42Um5RTURYclBHWmRnSk1JY2w0SVA4Tl9PTzdwVjZXYnNTbHA2S2dsd3BhXzB1SGMwNzEzemtBREdHazROcVJlekJ2clVjUU04Sk1vSHJfaVJ5c1ZHUEs3RE45Tm5EeUFpbFVHY0ZLS1hrcWF0TGNUWlYyWVg0Z3ZPUTNMRm8xaVhrcTlRWVF1MDIyRG92bXhyOFR0UjBNWkZfQ2VwUmRlMF9kbkJGTXpmVkk4ZjBGVUVaUWpTZ0pxeTQwMEZ4SlZDdklOV3JiWnpmc1NlRkdqeTIxQUtra1NNQUphdGJUMEpWbV9lY3lOMDYzdHI2a3FrY0VYQw?oc=5"
         }
       ],
@@ -1058,13 +1034,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f3ee32848007",
-      "title": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密",
+      "id": "cd63b60e75f0",
+      "title": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密 - JUKSY 街星",
       "published": "2026-09-17T07:53:24+00:00",
-      "summary": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密&nbsp;&nbsp;juksy.com",
+      "summary": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密&nbsp;&nbsp;JUKSY 街星",
       "sources": [
         {
-          "name": "juksy.com",
+          "name": "JUKSY 街星",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5"
         }
       ],
@@ -1145,19 +1121,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6f70cc16d3ad",
-      "title": "健康網》射精防癌 網紅醫給各年齡男性的建議：30多歲這麼做",
-      "published": "2026-09-16T13:26:00+00:00",
-      "summary": "健康網》射精防癌 網紅醫給各年齡男性的建議：30多歲這麼做&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGaHFQMld1b0NTcnJwRVVQSU5aVGxSdGJFVEljb3Z4S3MyM0JyYWE4T0JtelhxS1pUMGM5VzV1NkxENXRpN1F4anVmbFJCeXJvT2lZRXhGOE5YT2pQSVZvQkt1ZjI?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

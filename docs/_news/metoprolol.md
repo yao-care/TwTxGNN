@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
@@ -52,11 +52,19 @@ permalink: /news/metoprolol/
 
 ---
 
+### [長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5)
+
+2026-09-22 <span class="news-indication-tag">心臟病</span>
+
+來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5)
+
+---
+
 ### [老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
 
 2026-09-21 <span class="news-indication-tag">高血壓</span>
 
-來源: [uho.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
+來源: [優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
 
 ---
 

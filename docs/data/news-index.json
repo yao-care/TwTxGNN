@@ -1,50 +1,26 @@
 {
-  "generated": "2026-09-23T13:08:18.761504+00:00",
+  "generated": "2026-09-23T18:04:11.456478+00:00",
   "count": 13,
   "news": [
     {
-      "id": "f9c9a4dd55ad",
-      "title": "吃膠原蛋白恐致乳癌？醫揭真相：「1類添加物」是元兇",
-      "published": "2026-09-23T09:18:00+00:00",
+      "id": "387ba6ae217b",
+      "title": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際",
+      "published": "2026-09-23T14:04:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
             }
           ]
         }
@@ -354,58 +330,84 @@
       ]
     },
     {
-      "id": "574e38df2d45",
-      "title": "每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞",
-      "published": "2026-09-21T09:45:44+00:00",
+      "id": "29ef1c174c17",
+      "title": "長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病",
+      "published": "2026-09-22T01:47:22+00:00",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5"
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "heart_disease",
+          "keyword": "心臟病",
           "related_drugs": [
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
+            },
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
             }
           ]
         }
       ]
     },
     {
-      "id": "372ab8efc7ff",
+      "id": "857afca16cc1",
       "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
       "published": "2026-09-21T03:00:00+00:00",
       "sources": [
         {
-          "name": "uho.com.tw",
+          "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
@@ -630,12 +632,12 @@
       ]
     },
     {
-      "id": "f3ee32848007",
-      "title": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密",
+      "id": "cd63b60e75f0",
+      "title": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密 - JUKSY 街星",
       "published": "2026-09-17T07:53:24+00:00",
       "sources": [
         {
-          "name": "juksy.com",
+          "name": "JUKSY 街星",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5"
         }
       ],

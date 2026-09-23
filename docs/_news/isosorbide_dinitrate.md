@@ -44,11 +44,11 @@ permalink: /news/isosorbide_dinitrate/
 
 ## 相關新聞（3 則）
 
-### [每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5)
+### [長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5)
 
-2026-09-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-09-22 <span class="news-indication-tag">心臟病</span>
 
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5)
+來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5)
 
 ---
 
