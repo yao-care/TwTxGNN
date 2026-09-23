@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ permalink: /news/trabectedin/
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [吃膠原蛋白恐致乳癌？醫揭真相：「1類添加物」是元兇](https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5)
+
+2026-09-23 <span class="news-indication-tag">乳癌</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5)
+
+---
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 

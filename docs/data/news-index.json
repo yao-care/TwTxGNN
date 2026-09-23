@@ -1,7 +1,90 @@
 {
-  "generated": "2026-09-23T07:00:50.777872+00:00",
-  "count": 11,
+  "generated": "2026-09-23T13:08:18.761504+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "f9c9a4dd55ad",
+      "title": "吃膠原蛋白恐致乳癌？醫揭真相：「1類添加物」是元兇",
+      "published": "2026-09-23T09:18:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cf0586d2a2d",
+      "title": "治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點",
+      "published": "2026-09-23T05:15:00+00:00",
+      "sources": [
+        {
+          "name": "techapple.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "07412702ac0a",
       "title": "瘦身｜日本爆紅「減肥操」每日簡單運動助燃脂 更年期也能輕鬆瘦",
@@ -317,12 +400,12 @@
       ]
     },
     {
-      "id": "857afca16cc1",
+      "id": "372ab8efc7ff",
       "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
       "published": "2026-09-21T03:00:00+00:00",
       "sources": [
         {
-          "name": "優活健康網",
+          "name": "uho.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
@@ -416,12 +499,12 @@
       ]
     },
     {
-      "id": "b80ab5b3c2d9",
+      "id": "447063d7e186",
       "title": "房仲金童吸金才重判12年，竟A流併發心梗猝逝！醫：流感7天內心臟病風險增6倍",
       "published": "2026-09-20T00:02:21+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5"
         }
       ],
@@ -523,12 +606,12 @@
       ]
     },
     {
-      "id": "87eb3ebb4bab",
+      "id": "2ef5c7aff454",
       "title": "骨質疏鬆藥竟和阿茲海默症有關？12萬名長者研究發現一個驚人現象",
       "published": "2026-09-17T22:06:46+00:00",
       "sources": [
         {
-          "name": "singtaousa.com",
+          "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5"
         }
       ],
@@ -547,12 +630,12 @@
       ]
     },
     {
-      "id": "cd63b60e75f0",
-      "title": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密 - JUKSY 街星",
+      "id": "f3ee32848007",
+      "title": "計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密",
       "published": "2026-09-17T07:53:24+00:00",
       "sources": [
         {
-          "name": "JUKSY 街星",
+          "name": "juksy.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5"
         }
       ],

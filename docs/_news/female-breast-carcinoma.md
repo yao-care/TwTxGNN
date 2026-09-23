@@ -3,7 +3,7 @@ layout: default
 title: "乳癌 (female breast carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌 (female breast carcinoma) 有什麼相關新聞？">
-<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [吃膠原蛋白恐致乳癌？醫揭真相：「1類添加物」是元兇](https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5)
+
+2026-09-23
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5)
+
+---
 
 ### [車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
 

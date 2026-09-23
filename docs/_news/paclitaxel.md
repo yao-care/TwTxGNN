@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [吃膠原蛋白恐致乳癌？醫揭真相：「1類添加物」是元兇](https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5)
+
+2026-09-23 <span class="news-indication-tag">乳癌</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxONW9aeENxMmQzMDlmcnNLSFN2eTdzNmdsb0FRblhVaEE1SEJsVGk1QVY1YklZMVhMZUo1V2p5MXVMREhxSWU2LTYySHQ3dksxR1A0V1NaVnhhTEg1X210QVJVMWdONTRHTVVuam9BUHAwMlB6X2U5aUJmSWczX1RVMWNNR1BCV1ljT01yYjkxaFhTX1lScTdBcF9pbG5kUnJfY2lPaDd3Skg5aFFmN2gtVW9VWUpBNUJORTQxT1YxTTFMTXhRSjRuSVE1bkhobVB1VmNUVG5LTE4tUlo0dkRrR1RqZmo2dGtwajhoME9XX3k4LWhZcnY3UFlMcWpEU1VaNmZzc1RFOEY0bnR4amJINjhZSTZmOEJsaFJaWGhPbHlmVzFZY2VvNTd3RkQzYlZOZjhsa2dOcjJQZDh2NGhkLVhTN1JIa2R1?oc=5)
+
+---
 
 ### [瘦身｜日本爆紅「減肥操」每日簡單運動助燃脂 更年期也能輕鬆瘦](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTC1nQTJoaENZM2RKZG94RS1tNnpycEp5a0d6WE9zQ3QtM1dmNUZPdm5CRlZpOUR6UF9MaFVoQjREcGI1VEFhd2llSlIxUTBxWUw0Y3dOX2tZZUFFZFZMcWZqcVFucmZxODh1bWU0SWFWZU5MZW5IaU50SmtOWGJhbVJnXzV6YTRsN1FjWE5ZcFZJOUFXMWp6ZlB5SFhXY0dKZGJfbFc3a2U4V2J4aGNpM2N5Mmp0MS1RblNzdVRtWHVLa01kNUYwQzdEOGdfUTVnNEo0Y3hLcXc5T0pTbGNGVUVUUzVicG1acDk2NHExeWJ1cnRyR2w4U2JpSUhZUlpKbnVzSEEwS09uZmo2Q0JRSmpFdHRmVVlHSnhXeDVtc3IzbVMtODdobHdpVXFJcmRvZnVpV3F2WXAtSlNjd2ZjcTlzYTI2WXVIVXFSQVJkcVp3bVhDLXNyVDNTTHBneHpzYUhpMnBkNnJrQS1UMFhNbFN4U1BxRkxpQkR0alJIZG5CbXlieEdnMnVfTUNFWFhqb3hfc0NTdU5ZRFJjX2YtcGJ4a1B3a25UcGptbkRWYXc2NnM?oc=5)
 
