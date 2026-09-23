@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-23T18:04:08.953664+00:00",
+  "fetched_at": "2026-09-23T21:53:41.564765+00:00",
   "count": 44,
   "news": [
-    {
-      "id": "526228547352",
-      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！ - BCCnews",
-      "published": "2026-09-23T01:00:00+00:00",
-      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！&nbsp;&nbsp;BCCnews",
-      "sources": [
-        {
-          "name": "BCCnews",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10aGtLOFdaSkZpVVNVRUVQMzRNZkV5QXJaeGVuYXozNVBHaFJUR3gzUWxQZzd1clAxRzRaWGEwaVhiWXhtTi1vNDFBMFIxM3M?oc=5"
-        }
-      ]
-    },
     {
       "id": "ae2c14ed6e04",
       "title": "破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞- 生技投資第一站 - genetinfo.com",
@@ -55,11 +43,23 @@
       "id": "7cf0586d2a2d",
       "title": "治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點 - techapple.com",
       "published": "2026-09-23T05:15:00+00:00",
-      "summary": "治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點&nbsp;&nbsp;techapple.com憂鬱可能讓大腦提早老化，研究：長期負面心理與認知退化有關 | 科技新報&nbsp;&nbsp;LINE TODAY1 億用戶要吃掉158 萬顆CPU，Meta Muse 揭開「代理式AI」驚人的硬體胃口- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點&nbsp;&nbsp;techapple.com憂鬱可能讓大腦提早老化，研究：長期負面心理與認知退化有關 | 科技新報&nbsp;&nbsp;LINE TODAY1 億用戶要吃掉158 萬顆CPU，Meta Muse 揭開「代理式AI」驚人的硬體胃口- 股市爆料同學會&nbsp;&nbsp;cmoney.tw",
       "sources": [
         {
           "name": "techapple.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "526228547352",
+      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！ - BCCnews",
+      "published": "2026-09-23T01:00:00+00:00",
+      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！&nbsp;&nbsp;BCCnews",
+      "sources": [
+        {
+          "name": "BCCnews",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10aGtLOFdaSkZpVVNVRUVQMzRNZkV5QXJaeGVuYXozNVBHaFJUR3gzUWxQZzd1clAxRzRaWGEwaVhiWXhtTi1vNDFBMFIxM3M?oc=5"
         }
       ]
     },
@@ -76,25 +76,13 @@
       ]
     },
     {
-      "id": "aa29075ec8fa",
-      "title": "HPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看 - 民報",
-      "published": "2026-09-23T02:05:00+00:00",
-      "summary": "HPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看&nbsp;&nbsp;民報糖胖成防癌破口醫籲速打疫苗- 國際&nbsp;&nbsp;旺得富理財網重大致癌因子肥胖僅次菸害- 醫療保健- 新聞&nbsp;&nbsp;華人今日網無症狀竟帶原 男同打HPV防癌 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞HPV潛伏期超長？沒有症狀莫名就得菜花？認識公費HPV疫苗接種對象&nbsp;&nbsp;美醫誌",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kVTlvVGFQZGZWZHFCSmw4anR3SVZtMVNDeVdkbkFqazZ2Vi1GRmQ2b3ZWczdhUl9kVDlUbHpxVDVCQzVZblFERWFqNDVIWEVMQmo4MkFmTFMzR0dMdVJkcQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "857afca16cc1",
-      "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康 - 優活健康網",
+      "id": "372ab8efc7ff",
+      "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康 - uho.com.tw",
       "published": "2026-09-21T03:00:00+00:00",
-      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;優活健康網",
+      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;uho.com.tw",
       "sources": [
         {
-          "name": "優活健康網",
+          "name": "uho.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ]
@@ -108,6 +96,18 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa29075ec8fa",
+      "title": "HPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看 - 民報",
+      "published": "2026-09-23T02:05:00+00:00",
+      "summary": "HPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看&nbsp;&nbsp;民報糖胖成防癌破口醫籲速打疫苗- 國際&nbsp;&nbsp;wantrich.chinatimes.com重大致癌因子肥胖僅次菸害- 醫療保健- 新聞&nbsp;&nbsp;華人今日網無症狀竟帶原 男同打HPV防癌 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞HPV潛伏期超長？沒有症狀莫名就得菜花？認識公費HPV疫苗接種對象&nbsp;&nbsp;美醫誌",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kVTlvVGFQZGZWZHFCSmw4anR3SVZtMVNDeVdkbkFqazZ2Vi1GRmQ2b3ZWczdhUl9kVDlUbHpxVDVCQzVZblFERWFqNDVIWEVMQmo4MkFmTFMzR0dMdVJkcQ?oc=5"
         }
       ]
     },
@@ -148,26 +148,14 @@
       ]
     },
     {
-      "id": "29ef1c174c17",
-      "title": "長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病 - yesmedia.com.tw",
-      "published": "2026-09-22T01:47:22+00:00",
-      "summary": "長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病&nbsp;&nbsp;yesmedia.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "504ee4608170",
+      "title": "日常壓力恐引發慢性發炎，研究：心臟病發作風險高四成 | 科技新報 - LINE TODAY",
+      "published": "2026-09-22T10:17:39+00:00",
+      "summary": "日常壓力恐引發慢性發炎，研究：心臟病發作風險高四成 | 科技新報&nbsp;&nbsp;LINE TODAY前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "yesmedia.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd3411ee3aca",
-      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床 - 民視新聞網",
-      "published": "2026-09-23T01:30:00+00:00",
-      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taHhXT0xYMDRMVUhJN2Z0Q01iMVpvZ25QamNTYTVycUtTQ0N2Zm5US1ItU1Vhc09EOG5VSENacnJXZWhJMjdDVFdxdDhtQ0t2c1NnWkpVbnJnVGJVUjZKVw?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5"
         }
       ]
     },
@@ -184,6 +172,18 @@
       ]
     },
     {
+      "id": "cd3411ee3aca",
+      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床 - 民視新聞網",
+      "published": "2026-09-23T01:30:00+00:00",
+      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taHhXT0xYMDRMVUhJN2Z0Q01iMVpvZ25QamNTYTVycUtTQ0N2Zm5US1ItU1Vhc09EOG5VSENacnJXZWhJMjdDVFdxdDhtQ0t2c1NnWkpVbnJnVGJVUjZKVw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3f0748025c01",
       "title": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」 - 健康醫療網",
       "published": "2026-09-21T07:00:00+00:00",
@@ -196,13 +196,13 @@
       ]
     },
     {
-      "id": "bfeac1d7dfa0",
-      "title": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍 - 三立新聞",
+      "id": "24f7727bb356",
+      "title": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍 - health.setn.com",
       "published": "2026-09-20T08:58:19+00:00",
-      "summary": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍&nbsp;&nbsp;三立新聞",
+      "summary": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍&nbsp;&nbsp;health.setn.com",
       "sources": [
         {
-          "name": "三立新聞",
+          "name": "health.setn.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JcWl3S28xVjRfUHhqUzUzeTdaeTZRbDY0S1I3bWtISW1FTFNJOThGM3R0SndNRjVLOHVyWmFvMWgyRnpWaFpKdGtNNjM?oc=5"
         }
       ]
@@ -223,23 +223,11 @@
       "id": "b0d8ad667bba",
       "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思 - TVBS新聞網",
       "published": "2026-09-22T18:00:00+00:00",
-      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;TVBS新聞網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;三立新聞民眾擔心打新冠得癌症 醫師：副作用少很多了 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞疫苗副作用討論度最高！專家搖頭：網友認知停在疫情時代&nbsp;&nbsp;自由健康網打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
+      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;TVBS新聞網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;health.setn.com民眾擔心打新冠得癌症 醫師：副作用少很多了 - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞疫苗副作用討論度最高！專家搖頭：網友認知停在疫情時代&nbsp;&nbsp;自由健康網打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
       "sources": [
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f60b2e61974",
-      "title": "美國史丹福大學研究揭示：人類大腦由兩個獨立演化的器官組成 - Singtaousa",
-      "published": "2026-09-23T01:30:00+00:00",
-      "summary": "美國史丹福大學研究揭示：人類大腦由兩個獨立演化的器官組成&nbsp;&nbsp;Singtaousa驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際&nbsp;&nbsp;工商時報史丹福揭大腦竟是「2個器官」！成功培養後腦神經元助漸凍症研究&nbsp;&nbsp;香港01斯坦福研究改寫腦科學認知：人腦其實是「兩個器官」 前腦後腦5.5億年前各自演化&nbsp;&nbsp;techapple.com這是否逾越了倫理底線？科學家首次培育出了人鼠混合大腦。&nbsp;&nbsp;Root-Nation.com",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUZxYjNwRzlrU0hYNDVNa3hpN0drSk1jc2FUWXRiN2R4NEZ1M0F3Q085SkxlNGx5VW8xektWZ2xuNlVkb085aFdscHVwdC1fUFc5NU5kNGRRNFFzcVdudmY1RWtUOW1zaVpEaUZ5Tzg5SXpFM3JfNEd5Y2VoSHpMSzhzblFrTms3a0k0cjJTQkFBb3R3V3l5ZThqSXV0RW8zMmg2ei1vc050V3otWXFCM2hUUVlPTW43UU1laWFqcTRud0J3Q3c?oc=5"
         }
       ]
     },
@@ -264,6 +252,18 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f60b2e61974",
+      "title": "美國史丹福大學研究揭示：人類大腦由兩個獨立演化的器官組成 - Singtaousa",
+      "published": "2026-09-23T01:30:00+00:00",
+      "summary": "美國史丹福大學研究揭示：人類大腦由兩個獨立演化的器官組成&nbsp;&nbsp;Singtaousa驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際&nbsp;&nbsp;工商時報史丹福揭大腦竟是「2個器官」！成功培養後腦神經元助漸凍症研究&nbsp;&nbsp;香港01斯坦福研究改寫腦科學認知：人腦其實是「兩個器官」 前腦後腦5.5億年前各自演化&nbsp;&nbsp;techapple.com這是否逾越了倫理底線？科學家首次培育出了人鼠混合大腦。&nbsp;&nbsp;Root-Nation.com",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUUZxYjNwRzlrU0hYNDVNa3hpN0drSk1jc2FUWXRiN2R4NEZ1M0F3Q085SkxlNGx5VW8xektWZ2xuNlVkb085aFdscHVwdC1fUFc5NU5kNGRRNFFzcVdudmY1RWtUOW1zaVpEaUZ5Tzg5SXpFM3JfNEd5Y2VoSHpMSzhzblFrTms3a0k0cjJTQkFBb3R3V3l5ZThqSXV0RW8zMmg2ei1vc050V3otWXFCM2hUUVlPTW43UU1laWFqcTRud0J3Q3c?oc=5"
         }
       ]
     },
@@ -307,7 +307,7 @@
       "id": "5ebaca11c82f",
       "title": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力 - 香港01",
       "published": "2026-09-22T02:00:21+00:00",
-      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss健康PRO |流感可引發嚴重併發症 打造強健體質 免疫關鍵在腸道&nbsp;&nbsp;星島頭條媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle【開學防病】父母必睇4大貼士！冷熱交替＋校園交叉感染高峰期，小朋友濕敏爆發、頻頻胃痛泄瀉？拆解「腸道屏障」防病關鍵&nbsp;&nbsp;Yahoo",
+      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss健康PRO |流感可引發嚴重併發症 打造強健體質 免疫關鍵在腸道&nbsp;&nbsp;星島頭條媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle【開學防病】父母必睇4大貼士！冷熱交替＋校園交叉感染高峰期，小朋友濕敏爆發、頻頻胃痛泄瀉？拆解「腸道屏障」防病關鍵&nbsp;&nbsp;hk.news.yahoo.com",
       "sources": [
         {
           "name": "香港01",
@@ -520,13 +520,13 @@
       ]
     },
     {
-      "id": "2b67d662ba4e",
-      "title": "林哲玄：偽善的醫療產業 - 20260918 - 觀點 - 明報新聞網",
+      "id": "143579477eca",
+      "title": "林哲玄：偽善的醫療產業 - 20260918 - 觀點 - news.mingpao.com",
       "published": "2026-09-17T20:30:00+00:00",
-      "summary": "林哲玄：偽善的醫療產業 - 20260918 - 觀點&nbsp;&nbsp;明報新聞網",
+      "summary": "林哲玄：偽善的醫療產業 - 20260918 - 觀點&nbsp;&nbsp;news.mingpao.com",
       "sources": [
         {
-          "name": "明報新聞網",
+          "name": "news.mingpao.com",
           "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPREdqdURMR1Z4NW14RjVXZG55c3JxQ2VfTlJaMnM3SXpUN1dxY2FKVEdUeFhMUnd5Q1JWaS02OVlHWjEtYjdlcHQ1clM5b3FEZ3lncVBaRVQ0TEhRalpOTWM4ZndtdUZURVJ6ZHhFalFzQ0lGQXZjNURhLUFPdTJtdnNTdnM4eVZTeHNLZE5wLU5ZUVlOT05Ga2M5TkEtZlJ2S3dqUWN2QjN6VVdGdHI5RE1Db1BTQ2JjRzh4cWVrb1MzYk1qRlZzZ1dBY3dlMVpCUlp6U3NyRjhpSm1QUEFiZE1yZVRKLUJrRkpmbjM0OWd2QzV6WDZSSmlJWmFTRktUbEhWbEFyMEI?oc=5"
         }
       ]

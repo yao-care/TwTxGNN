@@ -52,11 +52,11 @@ permalink: /news/oxytetracycline/
 
 ---
 
-### [長期壓力悄悄改變心臟結構 新AI模型助早期檢測心臟病](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5)
+### [日常壓力恐引發慢性發炎，研究：心臟病發作風險高四成 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5)
 
-2026-09-22 <span class="news-indication-tag">心臟病</span>
+2026-09-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
 
-來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMiwwJBVV95cUxOQVhvak52WVdYaktzcGoxRGlWdEExakVscjBFQ1pDVDBROF9DVnB2NjZNOU5kU0FyR3lrWGhfQ0ZzUzlHc2dIQmhSNTRic2VTWUhWWEdoRU5nV3RrblQ1TzJqbFJaWnNtS3lJOUhWVEhMLXpGMlNhTUZZRmhnaXRQS1pweXpfa3JuZ1NnZkh1SFlkLU9ydEZtMTRSb3Rfd0FqeDhqM1NMRjJLb3hOakNudjBGT2FQb2JBSDh5OUFrSE1Ed0VyOFc3d1JQeDNjNHNrMTZEaWlYSFZ4bjF6Snl2MXJiYi05dTFLcGl0MEVZd0FWTkwwX2pmdktIM2RISzVhWERrZkFBcHlQLVpOQ3lmWmJVUEdLYTlxdDdQamdCVy1oMGhNNGVWUjZnejZ4Rmt4Tk0yZ3BxaEhYSFdwSVJBWTVvTQ?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5)
 
 ---
 
