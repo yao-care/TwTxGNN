@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-22T22:32:49.424006+00:00",
-  "count": 11,
+  "generated": "2026-09-23T01:04:40.869512+00:00",
+  "count": 10,
   "news": [
+    {
+      "id": "27d7078be3a3",
+      "title": "不用激烈運動！保養關節、防骨鬆肌少 靠這運動就夠了",
+      "published": "2026-09-23T00:01:33+00:00",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPeGNDNUJ3SWVpdkdoalBRSjN5U3ZSR19KTjNjYjl1eThQSEVWcEFXbm1HbGZXSU5rcF9OTGJfMUZRRXkxdXp5UndoaF9PYXZpMzdnVk92dWlzZ09kdzdMR2xpejNaUEwyb3dCMEdod2hTZkN3WkZBWWRyVVNxbVh2dDNReDBhb0xFM1lZZU5nR0M5Y3NmOUt3Z2RBaVZoNlZIVDBpVFQ5NDFEa3VSYmtRemg2VHBuWndzY2lORkxYYlF5SEhtbVdNOEJQVHFyd3Nydk5MYm54UXNBWjZaZHF4ekhVOWZ4d2diTWR6cGM1VktudWRIT0FaMElGY3lIYnZtdnI3cE8xSzZVV0QxQWV3MThhTXVpRE5NY1VYZVBBRi0zXzZXeDFTQ29SR2tKUHNCa3N2V0V5TFRSQy1UaFBmeEZmWXdUYnlrMVU1WmdjbVA0MHk5cVgyZnJWNWp2Q2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b0d8ad667bba",
       "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思",
@@ -289,54 +313,6 @@
       ]
     },
     {
-      "id": "87cbddabb6cd",
-      "title": "一個人吃飯就隨便吃！2026樂齡友善大調查：逾五成熟齡族群深陷孤食，如何吃出健康老後？四大解方擺脫寂寞餐桌",
-      "published": "2026-09-21T02:12:00+00:00",
-      "sources": [
-        {
-          "name": "50+全國最大熟齡媒體",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQVBUT0RHekpKakpVY0pJdnExZnRvZDNQcHR3SzlGLWNNYlBGaTNkc1VQbnhwNzEzTVd0Z2JsZkxJdER6VWZNWDhlanVoTzEtYkhpNjBn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ae2e4b715373",
-      "title": "多交朋友 少得失智 社交是大腦最強保護盾",
-      "published": "2026-09-20T17:00:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02MHVoelhIbXJMallCWUsxNE45Y0ctUHlGaGFDemJJb05Tekl1RUpXRU5JX2E3a2I1UjdKUXpVLWowalp3bzlacnZUd3hCNDlZcWZ6aXNQZFJGZml5ZXhZ0gFkQVVfeXFMTTB4b1RFaGZlT0RJWTBzTm9GQi1YWWdnU09wSVlEMUlxdjJiZGJfTzZMT1ZYVU9KSi1XQUhxSDVXWV9laUpLcURqTHN0eWdvOEVJdDRBcjJCOTJ4T0FDbV9PZWNfNQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6ad351ba4228",
       "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online新聞",
       "published": "2026-09-20T15:00:03+00:00",
@@ -408,12 +384,12 @@
       ]
     },
     {
-      "id": "447063d7e186",
+      "id": "b80ab5b3c2d9",
       "title": "房仲金童吸金才重判12年，竟A流併發心梗猝逝！醫：流感7天內心臟病風險增6倍",
       "published": "2026-09-20T00:02:21+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5"
         }
       ],
@@ -563,12 +539,12 @@
       ]
     },
     {
-      "id": "6d96dc8a93a2",
+      "id": "d95d8d7c9377",
       "title": "不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵",
       "published": "2026-09-16T03:04:58+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMHhqVTZBNVdmaEZhX2NHTUhpWlF4SWx5blRld2cybEdMdjBJbHFzdXlfSEVnblU5YVc3aE5qbk95d3lKbVJBSUJvNmlxcHZIakNwTTM1US0zZnFiV3RXX1hVNWpSNXZJQjVjSGNrUU9OWTdjMU1saGpEQUd0NGEyM3ppSWRTZHJpckV1dm9DdkRDVm1ERjB1Ny1KTVM0QjQ4dlluWUJ0cnNYMnM1b1lHdmFrdWowZlBzclh2LWdqeG42Rkl3Q25HdkZHSlctU2RLWTN0RkhNTEZDcUF0alR6b00weF9SU0h3cW55N1BONkJTQi1OTE5DTk1TcXFTS3kyQ2h6TmlMTnRjcjhGYV9nc0hkdWQ5bzR0dmwxUkQwTkJEVjJhbFJLMEltNGVIckQ5SFhfWU9DTDhNaG5fV3VjY0t3VTV0eUhQX3lHMkpCSWg2QlBXdUlrLWlTQmV5dmdqQ1V6YWxjY3hwNnJ5ekNVU0l2M2FROEcwRmdyMUZ1cVVjNkt0aWx1dHJUN0RMT1k?oc=5"
         }
       ],

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "阿茲海默症 (dementia) 相關新聞"
+title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 阿茲海默症 (dementia) 相關新聞
+# 失智 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
+<strong>失智 (dementia)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,29 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [不用激烈運動！保養關節、防骨鬆肌少 靠這運動就夠了](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPeGNDNUJ3SWVpdkdoalBRSjN5U3ZSR19KTjNjYjl1eThQSEVWcEFXbm1HbGZXSU5rcF9OTGJfMUZRRXkxdXp5UndoaF9PYXZpMzdnVk92dWlzZ09kdzdMR2xpejNaUEwyb3dCMEdod2hTZkN3WkZBWWRyVVNxbVh2dDNReDBhb0xFM1lZZU5nR0M5Y3NmOUt3Z2RBaVZoNlZIVDBpVFQ5NDFEa3VSYmtRemg2VHBuWndzY2lORkxYYlF5SEhtbVdNOEJQVHFyd3Nydk5MYm54UXNBWjZaZHF4ekhVOWZ4d2diTWR6cGM1VktudWRIT0FaMElGY3lIYnZtdnI3cE8xSzZVV0QxQWV3MThhTXVpRE5NY1VYZVBBRi0zXzZXeDFTQ29SR2tKUHNCa3N2V0V5TFRSQy1UaFBmeEZmWXdUYnlrMVU1WmdjbVA0MHk5cVgyZnJWNWp2Q2c?oc=5)
+
+2026-09-23
+
+來源: [tw.news.yahoo.com](https://news.google.com/rss/articles/CBMi3wJBVV95cUxPeGNDNUJ3SWVpdkdoalBRSjN5U3ZSR19KTjNjYjl1eThQSEVWcEFXbm1HbGZXSU5rcF9OTGJfMUZRRXkxdXp5UndoaF9PYXZpMzdnVk92dWlzZ09kdzdMR2xpejNaUEwyb3dCMEdod2hTZkN3WkZBWWRyVVNxbVh2dDNReDBhb0xFM1lZZU5nR0M5Y3NmOUt3Z2RBaVZoNlZIVDBpVFQ5NDFEa3VSYmtRemg2VHBuWndzY2lORkxYYlF5SEhtbVdNOEJQVHFyd3Nydk5MYm54UXNBWjZaZHF4ekhVOWZ4d2diTWR6cGM1VktudWRIT0FaMElGY3lIYnZtdnI3cE8xSzZVV0QxQWV3MThhTXVpRE5NY1VYZVBBRi0zXzZXeDFTQ29SR2tKUHNCa3N2V0V5TFRSQy1UaFBmeEZmWXdUYnlrMVU1WmdjbVA0MHk5cVgyZnJWNWp2Q2c?oc=5)
+
+---
 
 ### [每天1顆蛋可以嗎？醫師破解膽固醇迷思 研究：還可能降低阿茲海默症風險 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5)
 
 2026-09-21
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGYUpfV0NEdlBzSThCeHFERVZvQXFiUjJGSkl5aHpGUGtkVzRtNTZGLUkwMHhwLVY5aF80eFNZWWZLc0tHblh2dFR4bUVIM3NqWWt6emxaRm5LRHM?oc=5)
-
----
-
-### [一個人吃飯就隨便吃！2026樂齡友善大調查：逾五成熟齡族群深陷孤食，如何吃出健康老後？四大解方擺脫寂寞餐桌](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQVBUT0RHekpKakpVY0pJdnExZnRvZDNQcHR3SzlGLWNNYlBGaTNkc1VQbnhwNzEzTVd0Z2JsZkxJdER6VWZNWDhlanVoTzEtYkhpNjBn?oc=5)
-
-2026-09-21
-
-來源: [50+全國最大熟齡媒體](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXQVBUT0RHekpKakpVY0pJdnExZnRvZDNQcHR3SzlGLWNNYlBGaTNkc1VQbnhwNzEzTVd0Z2JsZkxJdER6VWZNWDhlanVoTzEtYkhpNjBn?oc=5)
-
----
-
-### [多交朋友 少得失智 社交是大腦最強保護盾](https://news.google.com/rss/articles/CBMiX0FVX3lxTE02MHVoelhIbXJMallCWUsxNE45Y0ctUHlGaGFDemJJb05Tekl1RUpXRU5JX2E3a2I1UjdKUXpVLWowalp3bzlacnZUd3hCNDlZcWZ6aXNQZFJGZml5ZXhZ0gFkQVVfeXFMTTB4b1RFaGZlT0RJWTBzTm9GQi1YWWdnU09wSVlEMUlxdjJiZGJfTzZMT1ZYVU9KSi1XQUhxSDVXWV9laUpLcURqTHN0eWdvOEVJdDRBcjJCOTJ4T0FDbV9PZWNfNQ?oc=5)
-
-2026-09-20
-
-來源: [大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTE02MHVoelhIbXJMallCWUsxNE45Y0ctUHlGaGFDemJJb05Tekl1RUpXRU5JX2E3a2I1UjdKUXpVLWowalp3bzlacnZUd3hCNDlZcWZ6aXNQZFJGZml5ZXhZ0gFkQVVfeXFMTTB4b1RFaGZlT0RJWTBzTm9GQi1YWWdnU09wSVlEMUlxdjJiZGJfTzZMT1ZYVU9KSi1XQUhxSDVXWV9laUpLcURqTHN0eWdvOEVJdDRBcjJCOTJ4T0FDbV9PZWNfNQ?oc=5)
 
 ---
 
