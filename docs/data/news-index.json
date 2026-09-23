@@ -1,26 +1,62 @@
 {
-  "generated": "2026-09-23T01:04:40.869512+00:00",
-  "count": 10,
+  "generated": "2026-09-23T07:00:50.777872+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "27d7078be3a3",
-      "title": "不用激烈運動！保養關節、防骨鬆肌少 靠這運動就夠了",
-      "published": "2026-09-23T00:01:33+00:00",
+      "id": "07412702ac0a",
+      "title": "瘦身｜日本爆紅「減肥操」每日簡單運動助燃脂 更年期也能輕鬆瘦",
+      "published": "2026-09-23T03:32:07+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPeGNDNUJ3SWVpdkdoalBRSjN5U3ZSR19KTjNjYjl1eThQSEVWcEFXbm1HbGZXSU5rcF9OTGJfMUZRRXkxdXp5UndoaF9PYXZpMzdnVk92dWlzZ09kdzdMR2xpejNaUEwyb3dCMEdod2hTZkN3WkZBWWRyVVNxbVh2dDNReDBhb0xFM1lZZU5nR0M5Y3NmOUt3Z2RBaVZoNlZIVDBpVFQ5NDFEa3VSYmtRemg2VHBuWndzY2lORkxYYlF5SEhtbVdNOEJQVHFyd3Nydk5MYm54UXNBWjZaZHF4ekhVOWZ4d2diTWR6cGM1VktudWRIT0FaMElGY3lIYnZtdnI3cE8xSzZVV0QxQWV3MThhTXVpRE5NY1VYZVBBRi0zXzZXeDFTQ29SR2tKUHNCa3N2V0V5TFRSQy1UaFBmeEZmWXdUYnlrMVU1WmdjbVA0MHk5cVgyZnJWNWp2Q2c?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQTC1nQTJoaENZM2RKZG94RS1tNnpycEp5a0d6WE9zQ3QtM1dmNUZPdm5CRlZpOUR6UF9MaFVoQjREcGI1VEFhd2llSlIxUTBxWUw0Y3dOX2tZZUFFZFZMcWZqcVFucmZxODh1bWU0SWFWZU5MZW5IaU50SmtOWGJhbVJnXzV6YTRsN1FjWE5ZcFZJOUFXMWp6ZlB5SFhXY0dKZGJfbFc3a2U4V2J4aGNpM2N5Mmp0MS1RblNzdVRtWHVLa01kNUYwQzdEOGdfUTVnNEo0Y3hLcXc5T0pTbGNGVUVUUzVicG1acDk2NHExeWJ1cnRyR2w4U2JpSUhZUlpKbnVzSEEwS09uZmo2Q0JRSmpFdHRmVVlHSnhXeDVtc3IzbVMtODdobHdpVXFJcmRvZnVpV3F2WXAtSlNjd2ZjcTlzYTI2WXVIVXFSQVJkcVp3bVhDLXNyVDNTTHBneHpzYUhpMnBkNnJrQS1UMFhNbFN4U1BxRkxpQkR0alJIZG5CbXlieEdnMnVfTUNFWFhqb3hfc0NTdU5ZRFJjX2YtcGJ4a1B3a25UcGptbkRWYXc2NnM?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
+          "name": "menopause",
+          "keyword": "更年期",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aa29075ec8fa",
+      "title": "HPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看",
+      "published": "2026-09-23T02:05:00+00:00",
+      "sources": [
+        {
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kVTlvVGFQZGZWZHFCSmw4anR3SVZtMVNDeVdkbkFqazZ2Vi1GRmQ2b3ZWczdhUl9kVDlUbHpxVDVCQzVZblFERWFqNDVIWEVMQmo4MkFmTFMzR0dMdVJkcQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
@@ -269,16 +305,12 @@
         },
         {
           "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
+          "name": "失智",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -313,12 +345,12 @@
       ]
     },
     {
-      "id": "6ad351ba4228",
-      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online新聞",
+      "id": "3593286ea104",
+      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞",
       "published": "2026-09-20T15:00:03+00:00",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5"
         }
       ],
@@ -467,12 +499,12 @@
       ]
     },
     {
-      "id": "e8641dd9f95c",
-      "title": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞 - PChome Online新聞",
+      "id": "8be05ff027a3",
+      "title": "火龍果有助心血管健康9大健康益處一次掌握：有望改善膽固醇- 科技新聞- PChome Online 新聞 - PChome Online 新聞",
       "published": "2026-09-18T09:08:07+00:00",
       "sources": [
         {
-          "name": "PChome Online新聞",
+          "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNd0kzMXZEUkM2NzNYMlB0bUJYRk40c1JGNUJNMXRyYkpoZHVlVThlYzFMMHlvSzlHTkh4TXpzOG1UQkRZSi1iNDFKOWo2UUhlOUYzYkJodXoyUG5zN3Vka0hkM2c3RU1tYW0xOVRlenE4S2F5aEhkNjhvdkFlUjM4SkdkdEJmNVlBYWNpRA?oc=5"
         }
       ],
@@ -491,12 +523,12 @@
       ]
     },
     {
-      "id": "2ef5c7aff454",
+      "id": "87eb3ebb4bab",
       "title": "骨質疏鬆藥竟和阿茲海默症有關？12萬名長者研究發現一個驚人現象",
       "published": "2026-09-17T22:06:46+00:00",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5"
         }
       ],
@@ -539,13 +571,13 @@
       ]
     },
     {
-      "id": "d95d8d7c9377",
+      "id": "f79c98c7850f",
       "title": "不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵",
-      "published": "2026-09-16T03:04:58+00:00",
+      "published": "2026-09-16T22:00:00+00:00",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPMHhqVTZBNVdmaEZhX2NHTUhpWlF4SWx5blRld2cybEdMdjBJbHFzdXlfSEVnblU5YVc3aE5qbk95d3lKbVJBSUJvNmlxcHZIakNwTTM1US0zZnFiV3RXX1hVNWpSNXZJQjVjSGNrUU9OWTdjMU1saGpEQUd0NGEyM3ppSWRTZHJpckV1dm9DdkRDVm1ERjB1Ny1KTVM0QjQ4dlluWUJ0cnNYMnM1b1lHdmFrdWowZlBzclh2LWdqeG42Rkl3Q25HdkZHSlctU2RLWTN0RkhNTEZDcUF0alR6b00weF9SU0h3cW55N1BONkJTQi1OTE5DTk1TcXFTS3kyQ2h6TmlMTnRjcjhGYV9nc0hkdWQ5bzR0dmwxUkQwTkJEVjJhbFJLMEltNGVIckQ5SFhfWU9DTDhNaG5fV3VjY0t3VTV0eUhQX3lHMkpCSWg2QlBXdUlrLWlTQmV5dmdqQ1V6YWxjY3hwNnJ5ekNVU0l2M2FROEcwRmdyMUZ1cVVjNkt0aWx1dHJUN0RMT1k?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KRE04NXhzQTh3WlFvbFA5eEs0ZDVncVhiNXhGVUFrUDJXa1BJdWRCWmVwRDVqVVM4a0htUFJpamZ1UGs4ZTRrUldpNVIzUUEweXQ0ZmRvQUVSd2JnbjE2NQ?oc=5"
         }
       ],
       "keywords": [
