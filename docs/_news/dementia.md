@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "阿茲海默症 (dementia) 相關新聞"
+title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 阿茲海默症 (dementia) 相關新聞
+# 失智 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
+<strong>失智 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,29 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+
+2026-09-24
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+
+---
 
 ### [治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5)
 
 2026-09-23
 
 來源: [techapple.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5)
+
+---
+
+### [每天開車竟能防失智？研究揭443種職業中，「這2種司機」阿茲海默症死亡率最低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
+
+2026-09-22
+
+來源: [造咖](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
 
 ---
 
@@ -52,14 +68,6 @@ permalink: /news/dementia/
 2026-09-17
 
 來源: [Singtaousa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5)
-
----
-
-### [計程車司機失智機率最低！美研究揭關鍵大腦訓練秘密 - JUKSY 街星](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5)
-
-2026-09-17
-
-來源: [JUKSY 街星](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1HWW5rLTFZYXU5T2pvcHJuVjBHWUFQUFkyUUpWOUpCYmhQd3dXcGJSWlJzOXZvV21XLW9RbG5IX2N6YS0zRXRwTXpsQUI?oc=5)
 
 ---
 

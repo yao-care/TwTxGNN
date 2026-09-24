@@ -3,7 +3,7 @@ layout: default
 title: "乳癌 (female breast carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
+description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌 (female breast carcinoma) 有什麼相關新聞？">
-<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [肥胖「關掉」癌細胞死亡開關！《Science》揭9S-HODE抗乳癌機制](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
+
+2026-09-24
+
+來源: [環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
+
+---
+
+### [多學科專家齊聚福州，解讀新版乳腺癌診療指南](https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR0F4b1hjRDFqYVVQYWhGb1dQWG55R3VNVjNvMTFOSURiUTBKbUpLRHVzdnJNRlJkUVlfenJ6bVU2YS1DdEN5bzctRUFUT0FCeHNvUVJoM2E4VTNVUnZKN2I5Q0o2MEZfQ2xpN0VCQks?oc=5)
+
+2026-09-24
+
+來源: [人民网-福建频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR0F4b1hjRDFqYVVQYWhGb1dQWG55R3VNVjNvMTFOSURiUTBKbUpLRHVzdnJNRlJkUVlfenJ6bVU2YS1DdEN5bzctRUFUT0FCeHNvUVJoM2E4VTNVUnZKN2I5Q0o2MEZfQ2xpN0VCQks?oc=5)
+
+---
 
 ### [車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
 

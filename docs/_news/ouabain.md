@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [還沒心臟病症狀，但心臟可能已悄悄改變！研究揭慢性發炎隱形影響](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcnZfRWxDTTZYd0RqYVhHS0trOUsxWS01RzY5VGw2OGM1VjBSN2pYVFJtRnhkeWhYWTlyT1BvbER5cmVFUHktRVZEdjZNODdGbVNHeFRqdTNEaWRi0gFiQVVfeXFMUHZqTTY5Uk80LUFMTzI0dHlKWkhYZXJtV3F4Rms3cGhod3RialY0RFBFaWQ4eDNiUmZfN3NjNlo3N3JCMGpqME5JTjFLREsxVTA2a1Q3emVsa2MzTm54dDVmOFE?oc=5)
+### [日常壓力恐引發慢性發炎研究：心臟病發作風險高四成| 雜誌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
 
-2026-09-22 <span class="news-indication-tag">心臟病</span>
+2026-09-23 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcnZfRWxDTTZYd0RqYVhHS0trOUsxWS01RzY5VGw2OGM1VjBSN2pYVFJtRnhkeWhYWTlyT1BvbER5cmVFUHktRVZEdjZNODdGbVNHeFRqdTNEaWRi0gFiQVVfeXFMUHZqTTY5Uk80LUFMTzI0dHlKWkhYZXJtV3F4Rms3cGhod3RialY0RFBFaWQ4eDNiUmZfN3NjNlo3N3JCMGpqME5JTjFLREsxVTA2a1Q3emVsa2MzTm54dDVmOFE?oc=5)
-
----
-
-### [膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
-
-2026-09-21 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">心肌梗塞</span>
-
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
+來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
 
 ---
 

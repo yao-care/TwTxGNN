@@ -3,7 +3,7 @@ layout: default
 title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "癌症 (generic_cancer) 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
-<strong>癌症 (generic_cancer)</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,13 +75,21 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 2026-09-22
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
+
+---
+
+### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
+
+2026-09-21
+
+來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

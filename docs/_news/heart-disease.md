@@ -43,11 +43,11 @@ permalink: /news/heart-disease/
 
 ## 相關新聞（2 則）
 
-### [還沒心臟病症狀，但心臟可能已悄悄改變！研究揭慢性發炎隱形影響](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcnZfRWxDTTZYd0RqYVhHS0trOUsxWS01RzY5VGw2OGM1VjBSN2pYVFJtRnhkeWhYWTlyT1BvbER5cmVFUHktRVZEdjZNODdGbVNHeFRqdTNEaWRi0gFiQVVfeXFMUHZqTTY5Uk80LUFMTzI0dHlKWkhYZXJtV3F4Rms3cGhod3RialY0RFBFaWQ4eDNiUmZfN3NjNlo3N3JCMGpqME5JTjFLREsxVTA2a1Q3emVsa2MzTm54dDVmOFE?oc=5)
+### [日常壓力恐引發慢性發炎研究：心臟病發作風險高四成| 雜誌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
 
-2026-09-22
+2026-09-23
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcnZfRWxDTTZYd0RqYVhHS0trOUsxWS01RzY5VGw2OGM1VjBSN2pYVFJtRnhkeWhYWTlyT1BvbER5cmVFUHktRVZEdjZNODdGbVNHeFRqdTNEaWRi0gFiQVVfeXFMUHZqTTY5Uk80LUFMTzI0dHlKWkhYZXJtV3F4Rms3cGhod3RialY0RFBFaWQ4eDNiUmZfN3NjNlo3N3JCMGpqME5JTjFLREsxVTA2a1Q3emVsa2MzTm54dDVmOFE?oc=5)
+來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
 
 ---
 

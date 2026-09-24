@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/dehydrocholic_acid/
 2026-09-22 <span class="news-indication-tag">癌症</span>
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
+
+---
+
+### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
+
+2026-09-21 <span class="news-indication-tag">癌症</span>
+
+來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
@@ -44,11 +44,19 @@ permalink: /news/acebutolol/
 
 ---
 
+### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
+
+2026-09-21 <span class="news-indication-tag">癌症</span>
+
+來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
+
+---
+
 ### [老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
 
 2026-09-21 <span class="news-indication-tag">高血壓</span>
 
-來源: [uho.com.tw](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
+來源: [優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5)
 
 ---
 
