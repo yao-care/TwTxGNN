@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5)
 
@@ -56,6 +56,14 @@ permalink: /news/gefitinib/
 2026-09-22 <span class="news-indication-tag">癌症</span>
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
+
+---
+
+### [膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
+
+2026-09-21 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">心肌梗塞</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
 
 ---
 

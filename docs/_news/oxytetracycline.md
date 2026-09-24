@@ -52,11 +52,11 @@ permalink: /news/oxytetracycline/
 
 ---
 
-### [日常壓力恐引發慢性發炎，研究：心臟病發作風險高四成 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5)
+### [還沒心臟病症狀，但心臟可能已悄悄改變！研究揭慢性發炎隱形影響](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcnZfRWxDTTZYd0RqYVhHS0trOUsxWS01RzY5VGw2OGM1VjBSN2pYVFJtRnhkeWhYWTlyT1BvbER5cmVFUHktRVZEdjZNODdGbVNHeFRqdTNEaWRi0gFiQVVfeXFMUHZqTTY5Uk80LUFMTzI0dHlKWkhYZXJtV3F4Rms3cGhod3RialY0RFBFaWQ4eDNiUmZfN3NjNlo3N3JCMGpqME5JTjFLREsxVTA2a1Q3emVsa2MzTm54dDVmOFE?oc=5)
 
-2026-09-22 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+2026-09-22 <span class="news-indication-tag">心臟病</span>
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5)
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcnZfRWxDTTZYd0RqYVhHS0trOUsxWS01RzY5VGw2OGM1VjBSN2pYVFJtRnhkeWhYWTlyT1BvbER5cmVFUHktRVZEdjZNODdGbVNHeFRqdTNEaWRi0gFiQVVfeXFMUHZqTTY5Uk80LUFMTzI0dHlKWkhYZXJtV3F4Rms3cGhod3RialY0RFBFaWQ4eDNiUmZfN3NjNlo3N3JCMGpqME5JTjFLREsxVTA2a1Q3emVsa2MzTm54dDVmOFE?oc=5)
 
 ---
 

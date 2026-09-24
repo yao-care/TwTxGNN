@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "心臟病發 (myocardial infarction) 相關新聞"
+title: "心肌梗塞 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心臟病發 (myocardial infarction) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心肌梗塞 (myocardial infarction) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 ---
 
-# 心臟病發 (myocardial infarction) 相關新聞
+# 心肌梗塞 (myocardial infarction) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心臟病發 (myocardial infarction) 有什麼相關新聞？">
-<strong>心臟病發 (myocardial infarction)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="心肌梗塞 (myocardial infarction) 有什麼相關新聞？">
+<strong>心肌梗塞 (myocardial infarction)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心臟病發」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「心肌梗塞」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/myocardial-infarction/
 
 ## 相關新聞（2 則）
 
-### [日常壓力恐引發慢性發炎，研究：心臟病發作風險高四成 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5)
+### [膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
 
-2026-09-22
+2026-09-21
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5)
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
 
 ---
 

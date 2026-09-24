@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T21:53:43.482601+00:00",
+  "generated": "2026-09-24T00:07:20.214680+00:00",
   "count": 13,
   "news": [
     {
@@ -330,13 +330,13 @@
       ]
     },
     {
-      "id": "504ee4608170",
-      "title": "日常壓力恐引發慢性發炎，研究：心臟病發作風險高四成 | 科技新報 - LINE TODAY",
-      "published": "2026-09-22T10:17:39+00:00",
+      "id": "5fd9dbba9fde",
+      "title": "還沒心臟病症狀，但心臟可能已悄悄改變！研究揭慢性發炎隱形影響",
+      "published": "2026-09-22T06:09:37+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Z0hPWnBTejVoTUJEd3VNN3hIS1VsWklqZ1ZVYkF3Q21rTGE2dnNrVFl1bG5JYzA2cVNfZENQLVRfUVJTYnVwVDd5bEs4U2RLQ20xdlVR?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KcnZfRWxDTTZYd0RqYVhHS0trOUsxWS01RzY5VGw2OGM1VjBSN2pYVFJtRnhkeWhYWTlyT1BvbER5cmVFUHktRVZEdjZNODdGbVNHeFRqdTNEaWRi0gFiQVVfeXFMUHZqTTY5Uk80LUFMTzI0dHlKWkhYZXJtV3F4Rms3cGhod3RialY0RFBFaWQ4eDNiUmZfN3NjNlo3N3JCMGpqME5JTjFLREsxVTA2a1Q3emVsa2MzTm54dDVmOFE?oc=5"
         }
       ],
       "keywords": [
@@ -398,11 +398,57 @@
               "name": "Treprostinil"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "182748990bc5",
+      "title": "膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞",
+      "published": "2026-09-21T09:55:05+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
         },
         {
           "type": "indication",
           "name": "myocardial infarction",
-          "keyword": "心臟病發",
+          "keyword": "心肌梗塞",
           "related_drugs": [
             {
               "slug": "ouabain",
@@ -661,56 +707,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f79c98c7850f",
-      "title": "不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵",
-      "published": "2026-09-16T22:00:00+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KRE04NXhzQTh3WlFvbFA5eEs0ZDVncVhiNXhGVUFrUDJXa1BJdWRCWmVwRDVqVVM4a0htUFJpamZ1UGs4ZTRrUldpNVIzUUEweXQ0ZmRvQUVSd2JnbjE2NQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帶狀皰疹",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "皮蛇",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "神經痛",
-          "keyword": "神經痛",
-          "related_drugs": [
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            },
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

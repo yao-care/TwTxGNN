@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 2026-09-22 <span class="news-indication-tag">癌症</span>
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
-
----
-
-### [不想皮蛇好了還痛好幾個月！醫揭「預防帶狀皰疹後神經痛」關鍵](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KRE04NXhzQTh3WlFvbFA5eEs0ZDVncVhiNXhGVUFrUDJXa1BJdWRCWmVwRDVqVVM4a0htUFJpamZ1UGs4ZTRrUldpNVIzUUEweXQ0ZmRvQUVSd2JnbjE2NQ?oc=5)
-
-2026-09-16 <span class="news-indication-tag">帶狀皰疹</span> <span class="news-indication-tag">皮蛇</span> <span class="news-indication-tag">神經痛</span>
-
-來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KRE04NXhzQTh3WlFvbFA5eEs0ZDVncVhiNXhGVUFrUDJXa1BJdWRCWmVwRDVqVVM4a0htUFJpamZ1UGs4ZTRrUldpNVIzUUEweXQ0ZmRvQUVSd2JnbjE2NQ?oc=5)
 
 ---
 
