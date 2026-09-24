@@ -77,19 +77,19 @@ permalink: /news/generic-cancer/
 
 ## 相關新聞（2 則）
 
+### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
+
+2026-09-24
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
+
+---
+
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 2026-09-22
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
-
----
-
-### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
-
-2026-09-21
-
-來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
-### [肥胖「關掉」癌細胞死亡開關！《Science》揭9S-HODE抗乳癌機制](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
+### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
 
-2026-09-24 <span class="news-indication-tag">乳癌</span>
+2026-09-24 <span class="news-indication-tag">癌症</span>
 
-來源: [環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/paclitaxel/
 2026-09-24 <span class="news-indication-tag">乳腺癌</span>
 
 來源: [人民网-福建频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR0F4b1hjRDFqYVVQYWhGb1dQWG55R3VNVjNvMTFOSURiUTBKbUpLRHVzdnJNRlJkUVlfenJ6bVU2YS1DdEN5bzctRUFUT0FCeHNvUVJoM2E4VTNVUnZKN2I5Q0o2MEZfQ2xpN0VCQks?oc=5)
-
----
-
-### [「HPV檢測」不是子宮頸抹片！兩者不能互相取代](https://news.google.com/rss/articles/CBMipgJBVV95cUxQWHJGbFdiTzFhaFFJRXBjWmpKWWZ6aXkxcHhRUjJjalFOT0h4QTlLaDlEWnhsNWREQ3F2amQwM3FmZFJGcFBnSWJZRWZ5V2liMHdRNTZtUjJTUFFVb0NDVDhRcXpDcElfQXROc1ZMT2l2ejdqV3g0R05GMWcwcFNTSWZwU2llUXh3aXh0eDZsRno0dUhoNTNuNWdhY1d1cjFLY0xMN0tWWGZrWVd0YWxRTU5pdFY2VjZacC0zSlk2ZlVnZEk0QVQ1VDFiNmZXUEN6dUVabEUxNXoyaFNEMWNCYmhkR0NtaHVWMEVNSjY2TU9CNEJoQjlkRWQzWGFabEtmZkRiYVluVDFqQkI2OFNWVTNQbkdmSUNVdHotZUhzZG1fM0dxLXc?oc=5)
-
-2026-09-23 <span class="news-indication-tag">子宮頸癌</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMipgJBVV95cUxQWHJGbFdiTzFhaFFJRXBjWmpKWWZ6aXkxcHhRUjJjalFOT0h4QTlLaDlEWnhsNWREQ3F2amQwM3FmZFJGcFBnSWJZRWZ5V2liMHdRNTZtUjJTUFFVb0NDVDhRcXpDcElfQXROc1ZMT2l2ejdqV3g0R05GMWcwcFNTSWZwU2llUXh3aXh0eDZsRno0dUhoNTNuNWdhY1d1cjFLY0xMN0tWWGZrWVd0YWxRTU5pdFY2VjZacC0zSlk2ZlVnZEk0QVQ1VDFiNmZXUEN6dUVabEUxNXoyaFNEMWNCYmhkR0NtaHVWMEVNSjY2TU9CNEJoQjlkRWQzWGFabEtmZkRiYVluVDFqQkI2OFNWVTNQbkdmSUNVdHotZUhzZG1fM0dxLXc?oc=5)
 
 ---
 
@@ -78,25 +70,17 @@ permalink: /news/paclitaxel/
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
-2026-09-22 <span class="news-indication-tag">癌症</span>
+2026-09-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 ---
 
-### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
+### [糖胖成防癌破口醫籲速打疫苗- 國際新聞- 旺報](https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYVh4X2VqUVNmRXRNM0hDTzJZN3podFRVaXUwOS1yc2NUMFVwcUZsVmNreTBFV1NnbExaTm5LYmxNMGdOdnVhNVhlMEp5WjF3MDUzaW5RZy1XdjQ0N0NQX25aWlZJUy01a19J?oc=5)
 
-2026-09-21 <span class="news-indication-tag">癌症</span>
+2026-09-21 <span class="news-indication-tag">子宮頸癌</span>
 
-來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
-
----
-
-### [更年期荷爾蒙治療何時開始是關鍵 這時間啟動心血管風險低27%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">更年期</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTE5QYVh4X2VqUVNmRXRNM0hDTzJZN3podFRVaXUwOS1yc2NUMFVwcUZsVmNreTBFV1NnbExaTm5LYmxNMGdOdnVhNVhlMEp5WjF3MDUzaW5RZy1XdjQ0N0NQX25aWlZJUy01a19J?oc=5)
 
 ---
 

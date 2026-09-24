@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
+
+---
+
+### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 2026-09-24 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+來源: [health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 ---
 
@@ -61,25 +69,9 @@ permalink: /news/gefitinib/
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
-2026-09-22 <span class="news-indication-tag">癌症</span>
+2026-09-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
-
----
-
-### [每天開車竟能防失智？研究揭443種職業中，「這2種司機」阿茲海默症死亡率最低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
-
-2026-09-22 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源: [造咖](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
-
----
-
-### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
-
-2026-09-21 <span class="news-indication-tag">癌症</span>
-
-來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

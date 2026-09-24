@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 2026-09-24 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
-
----
-
-### [日常壓力恐引發慢性發炎研究：心臟病發作風險高四成| 雜誌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
-
-2026-09-23 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
-
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
+來源: [health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/mannitol/
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,21 @@ permalink: /news/mannitol/
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [日常壓力恐引發慢性發炎研究：心臟病發作風險高四成| 雜誌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
+### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
 
-2026-09-23 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+2026-09-24 <span class="news-indication-tag">癌症</span>
 
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
 
 ---
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
-2026-09-22 <span class="news-indication-tag">癌症</span>
+2026-09-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
-
----
-
-### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
-
-2026-09-21 <span class="news-indication-tag">癌症</span>
-
-來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智 (dementia)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 2026-09-24
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQjNFV3J2ckZRenl2cXY0WXIxUG5Sc3B4eGZYeHlEeW5tSWUwdTNPQVBoNXg0U0U5R2hZRTN6Nkp2RGNIZ1A0d3JiR1BMNC03YUZkVUdWV2lBT1VzQnBkZG91RkFnR0ljSk1Ob3UxczFXcmpiang0cGRDbGd6V2FOQzNn0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+來源: [health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 ---
 
@@ -44,14 +44,6 @@ permalink: /news/dementia/
 2026-09-23
 
 來源: [techapple.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5)
-
----
-
-### [每天開車竟能防失智？研究揭443種職業中，「這2種司機」阿茲海默症死亡率最低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
-
-2026-09-22
-
-來源: [造咖](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
 
 ---
 

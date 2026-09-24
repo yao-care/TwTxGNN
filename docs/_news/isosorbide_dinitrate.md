@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
-### [日常壓力恐引發慢性發炎研究：心臟病發作風險高四成| 雜誌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
+### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
-2026-09-23 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+2026-09-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/isosorbide_dinitrate/
 2026-09-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">失智</span>
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
-
----
-
-### [更年期荷爾蒙治療何時開始是關鍵 這時間啟動心血管風險低27%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
-
-2026-09-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">更年期</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
 
 ---
 

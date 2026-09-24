@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "乳癌 (female breast carcinoma) 相關新聞"
+title: "乳腺癌 (female breast carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。3 則新聞、7 個相關藥物。"
+description: "乳腺癌 (female breast carcinoma) 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
-# 乳癌 (female breast carcinoma) 相關新聞
+# 乳腺癌 (female breast carcinoma) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="乳癌 (female breast carcinoma) 有什麼相關新聞？">
-<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>3 則</strong>相關新聞報導，7 個相關藥物。
+<p class="key-answer" data-question="乳腺癌 (female breast carcinoma) 有什麼相關新聞？">
+<strong>乳腺癌 (female breast carcinoma)</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「乳癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「乳腺癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -35,15 +35,7 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（3 則）
-
-### [肥胖「關掉」癌細胞死亡開關！《Science》揭9S-HODE抗乳癌機制](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
-
-2026-09-24
-
-來源: [環球生技月刊](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [多學科專家齊聚福州，解讀新版乳腺癌診療指南](https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR0F4b1hjRDFqYVVQYWhGb1dQWG55R3VNVjNvMTFOSURiUTBKbUpLRHVzdnJNRlJkUVlfenJ6bVU2YS1DdEN5bzctRUFUT0FCeHNvUVJoM2E4VTNVUnZKN2I5Q0o2MEZfQ2xpN0VCQks?oc=5)
 

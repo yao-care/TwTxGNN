@@ -31,19 +31,19 @@ permalink: /news/cardiovascular/
 
 ## 相關新聞（3 則）
 
+### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
+
+2026-09-22
+
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
+
+---
+
 ### [膽固醇愈低愈健康？醫師：事情沒這麼簡單 90歲長壽者研究出現反常結果 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
 
 2026-09-21
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xMy1aN01qcmNrZWt4WGRhcy1WdWJNaGYzcXpQNEFpLXdwQThjUnVmMDVoSV9UMnhIODZzeWpzSjdxZDQ0aDgxWURlUy00RHc0TzF2ZDByU0RXQXc?oc=5)
-
----
-
-### [更年期荷爾蒙治療何時開始是關鍵 這時間啟動心血管風險低27%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
-
-2026-09-21
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
 
 ---
 

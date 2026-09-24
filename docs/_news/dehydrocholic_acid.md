@@ -44,6 +44,14 @@ permalink: /news/dehydrocholic_acid/
 
 ## 相關新聞（3 則）
 
+### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
+
+2026-09-24 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
+
+---
+
 ### [疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5)
 
 2026-09-23 <span class="news-indication-tag">肝硬化</span>
@@ -54,17 +62,9 @@ permalink: /news/dehydrocholic_acid/
 
 ### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
-2026-09-22 <span class="news-indication-tag">癌症</span>
+2026-09-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
-
----
-
-### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
-
-2026-09-21 <span class="news-indication-tag">癌症</span>
-
-來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

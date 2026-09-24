@@ -3,7 +3,7 @@ layout: default
 title: "心臟病 (heart_disease) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心臟病 (heart_disease) 的相關健康新聞報導。2 則新聞、13 個相關藥物。"
+description: "心臟病 (heart_disease) 的相關健康新聞報導。1 則新聞、13 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="心臟病 (heart_disease) 有什麼相關新聞？">
-<strong>心臟病 (heart_disease)</strong> 目前有 <strong>2 則</strong>相關新聞報導，13 個相關藥物。
+<strong>心臟病 (heart_disease)</strong> 目前有 <strong>1 則</strong>相關新聞報導，13 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [日常壓力恐引發慢性發炎研究：心臟病發作風險高四成| 雜誌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
-
-2026-09-23
-
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VeHJhODdDNnl1S3k1Yl9lZ2FzUXBBanZvYkRFQ2hRM1pieW0ydGJLcTNUYTIwVVZiN1U5Z2h6T2tBU3BhN2hKLTZWTUtncC1Y?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [房仲金童吸金才重判12年，竟A流併發心梗猝逝！醫：流感7天內心臟病風險增6倍](https://news.google.com/rss/articles/CBMixgNBVV95cUxOa0p5NHZsWWZucW9iUTV5N3RZMXRkTnFMcm5IY2pNN0pvRTJKNVFmcWRnUTlKNG0wTk5fN3pwMjVpLWF5czZ0WHZtVk9EU3prVXBYUXo0bXJXeFBJQVB5MWRFcTFnbzVNLUhoZXkycW9xV0ZzcXFjWGZSVmVNamJUcmtzc182eDR4RUhKU3ctbXpOOGxacU9BQ0oxRGRPT2ZsN09mVWhWV1h5RUd4LXVLZEVSQnVrcy1SdFJOTGI5ZVZDbTZXZktGZ1V5bV95aDZPdXBzZC0zSmhrQjk4QXpDQV9ET056NzdLTFNLOUtCSFlLRkY2SE9TS0cyaHJmSjlZQ3d2WDBQbTZEQm4tMEk5TmJsa3BGNHRDSHNvQXVkU1A3ZEJKaEpYYXpOcHdsWEVEN1FEVjNCbDRNMVY0aVBlYWF0M3lMZ0Vsajh0Y3BZR3c5Z1NTNnZCMlktV2JVT3lzd2lHZHEwOC1EeVpPVUYza2ZPeTl5ZC1Qc3JaY1diNXE1WXVaWDJYS2RsLUg5TnhmQ2RJUTdDYkpZaDJPcU04cVBEaGp4dzU2eXdaeDh4WmpVOVl3aWt6c1lXV05uRG5UNV92SU5B?oc=5)
 

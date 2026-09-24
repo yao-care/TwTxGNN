@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "大腸癌 (colonic neoplasm) 相關新聞"
+title: "直腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "直腸癌 (colonic neoplasm) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
-# 大腸癌 (colonic neoplasm) 相關新聞
+# 直腸癌 (colonic neoplasm) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="直腸癌 (colonic neoplasm) 有什麼相關新聞？">
+<strong>直腸癌 (colonic neoplasm)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「直腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（1 則）
 
-### [名醫超喜歡吃紅肉！日常護腸「只忌1食物」：大腸癌細胞的最愛](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MZDQxbm9EdkF1TGd6Q1BjcDJZcEtLSXpYbXdaLXZTODRZVXl2bUVSR0lPZUZha1EtREVzcXBKVmIzaHVCUjdiV9IBTEFVX3lxTE9DTkJnWlNrWVE3UktBXzZqNFdKOENxaTFPVE9OUmxNbGk3UURxeFN2c29wMDhpU085OW5GcmhJdU5uRVY3TmR3VzFESW8?oc=5)
+### [屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了](https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5)
 
-2026-09-24
+2026-09-23
 
-來源: [三立新聞](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MZDQxbm9EdkF1TGd6Q1BjcDJZcEtLSXpYbXdaLXZTODRZVXl2bUVSR0lPZUZha1EtREVzcXBKVmIzaHVCUjdiV9IBTEFVX3lxTE9DTkJnWlNrWVE3UktBXzZqNFdKOENxaTFPVE9OUmxNbGk3UURxeFN2c29wMDhpU085OW5GcmhJdU5uRVY3TmR3VzFESW8?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5)
 
 ---
 
