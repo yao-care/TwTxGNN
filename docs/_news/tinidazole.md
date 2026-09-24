@@ -44,6 +44,14 @@ permalink: /news/tinidazole/
 
 ## 相關新聞（4 則）
 
+### [疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5)
+
+2026-09-24 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5)
+
+---
+
 ### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">癌症</span>
@@ -57,14 +65,6 @@ permalink: /news/tinidazole/
 2026-09-23 <span class="news-indication-tag">更年期</span>
 
 來源: [hk01.com](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTC1nQTJoaENZM2RKZG94RS1tNnpycEp5a0d6WE9zQ3QtM1dmNUZPdm5CRlZpOUR6UF9MaFVoQjREcGI1VEFhd2llSlIxUTBxWUw0Y3dOX2tZZUFFZFZMcWZqcVFucmZxODh1bWU0SWFWZU5MZW5IaU50SmtOWGJhbVJnXzV6YTRsN1FjWE5ZcFZJOUFXMWp6ZlB5SFhXY0dKZGJfbFc3a2U4V2J4aGNpM2N5Mmp0MS1RblNzdVRtWHVLa01kNUYwQzdEOGdfUTVnNEo0Y3hLcXc5T0pTbGNGVUVUUzVicG1acDk2NHExeWJ1cnRyR2w4U2JpSUhZUlpKbnVzSEEwS09uZmo2Q0JRSmpFdHRmVVlHSnhXeDVtc3IzbVMtODdobHdpVXFJcmRvZnVpV3F2WXAtSlNjd2ZjcTlzYTI2WXVIVXFSQVJkcVp3bVhDLXNyVDNTTHBneHpzYUhpMnBkNnJrQS1UMFhNbFN4U1BxRkxpQkR0alJIZG5CbXlieEdnMnVfTUNFWFhqb3hfc0NTdU5ZRFJjX2YtcGJ4a1B3a25UcGptbkRWYXc2NnM?oc=5)
-
----
-
-### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
-
-2026-09-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
 
 ---
 

@@ -43,6 +43,14 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（6 則）
 
+### [疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5)
+
+2026-09-24 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5)
+
+---
+
 ### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5)
 
 2026-09-24 <span class="news-indication-tag">癌症</span>
@@ -55,23 +63,15 @@ permalink: /news/gefitinib/
 
 2026-09-24 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源: [health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 ---
 
-### [治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5)
+### [老年憂鬱恐致假性失智研究：建議每週看一次球賽| 球賽 | 超高齡| 臺灣社會](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNTUU1aVNMczl3MnNDNE96WFFtNndpemNrOG5vX0ZxQW1aX2h5TEU3cldWU1NKd0kwS05WbWEtQTVZY0djdDVhSno2eFduTzAtdEh6Nk5QZ21sS0ZhUXVhamk4T0daSFh5NmpzNERLRUM3a3pCbFN1Y3JfZVpnc0ROaEMtZ3NKdm9mNzJSa3B4QURRMmZ5RDlZd05hNXBBVkVMZ0YzMUV3VmwwU2d0alFtdm5kVkJJWTVqM1BDOWg4Vy1zWnBYS0h0djBxUThkRkNsM19vQ0J0WkhBd2QxZzBRYXZGQWtZczBDMmktdU5Qd2tLdXRMbjRteVAtQkk4emNHSC1aMC1MT182YU5Pb054SVQyQU9mQ0QwazVsajJiTml5M2FCcWowRFphcFVOaWRXZFdWR3h1TWZ5MExHUVZkckNnTUlnZnVNN3FKak9OcW1zYU13?oc=5)
 
 2026-09-23 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源: [techapple.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NR2FmQXU5bWtYUFZjbWtaRVNmbE1iS3FGN28zZl9qd0g3NUZPemVGclRxbGgwT1pKU09xaUVoeHlmV1daNFEzdDZldEs?oc=5)
-
----
-
-### [新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
-
-2026-09-22 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5)
+來源: [台灣大紀元](https://news.google.com/rss/articles/CBMi1AJBVV95cUxNTUU1aVNMczl3MnNDNE96WFFtNndpemNrOG5vX0ZxQW1aX2h5TEU3cldWU1NKd0kwS05WbWEtQTVZY0djdDVhSno2eFduTzAtdEh6Nk5QZ21sS0ZhUXVhamk4T0daSFh5NmpzNERLRUM3a3pCbFN1Y3JfZVpnc0ROaEMtZ3NKdm9mNzJSa3B4QURRMmZ5RDlZd05hNXBBVkVMZ0YzMUV3VmwwU2d0alFtdm5kVkJJWTVqM1BDOWg4Vy1zWnBYS0h0djBxUThkRkNsM19vQ0J0WkhBd2QxZzBRYXZGQWtZczBDMmktdU5Qd2tLdXRMbjRteVAtQkk4emNHSC1aMC1MT182YU5Pb054SVQyQU9mQ0QwazVsajJiTml5M2FCcWowRFphcFVOaWRXZFdWR3h1TWZ5MExHUVZkckNnTUlnZnVNN3FKak9OcW1zYU13?oc=5)
 
 ---
 
@@ -87,7 +87,7 @@ permalink: /news/gefitinib/
 
 2026-09-17 <span class="news-indication-tag">阿茲海默症</span>
 
-來源: [Singtaousa](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5)
+來源: [singtaousa.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMnpoXzJHdlRkOHppV2hMYWI2dk9sQVFsOGtMSU1KT3YxTnE3V3Nya3d5QXRxVGlkU3NXVFFOUlVnaXlROHFTM09rUGctbUNpY3J0dEk5ck9PS0dudVc1QS1tQXFkdG9VQjBlWDhjNVdZSkZIcU45S0hiblhNdGJSOVlDcUp2dUpqRnFsSXZmZlZZemk0dkxSb0FwZmJOY2YwSk53MG5rbV9kR0RsNm1GMy11M0FRLWs2VHNMU2xPcEdYdw?oc=5)
 
 ---
 

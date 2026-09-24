@@ -44,11 +44,11 @@ permalink: /news/salicylamide/
 
 ## 相關新聞（1 則）
 
-### [感冒、流感好了要換牙刷？ 牙醫曝真相：3情況才真的該丟| 世界萬象| 全球](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GNFhZb0p5NlhfX2pDQklnY1NFd01OdGxXRXA4UVl5SkxqX3hBM0dvYkxseDBOMlpyUDQtZnJlZ2xKdEtTTXVEQTd2WUxGU1dz?oc=5)
+### [感冒好了要換牙刷嗎？3牙醫答案超一致 4情況就要換](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGJNV2ZZeEZzVGNDSzhfRjQwczJEck1VMF9OSGNLZUFQYldpODQyNWJpWVIyeTY4Nmt5eThWa0k4QXJrMlFaa2YtYWVCMnRiRGJSTThsRS10bEpMZlVqM3MtbkRwcjI4eVZUQzhkbGE1N3puUjlIR3lwR2xPWHJJQy04N3llbWYzOGZzcnpuSQ?oc=5)
 
 2026-09-24 <span class="news-indication-tag">感冒</span>
 
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GNFhZb0p5NlhfX2pDQklnY1NFd01OdGxXRXA4UVl5SkxqX3hBM0dvYkxseDBOMlpyUDQtZnJlZ2xKdEtTTXVEQTd2WUxGU1dz?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGJNV2ZZeEZzVGNDSzhfRjQwczJEck1VMF9OSGNLZUFQYldpODQyNWJpWVIyeTY4Nmt5eThWa0k4QXJrMlFaa2YtYWVCMnRiRGJSTThsRS10bEpMZlVqM3MtbkRwcjI4eVZUQzhkbGE1N3puUjlIR3lwR2xPWHJJQy04N3llbWYzOGZzcnpuSQ?oc=5)
 
 ---
 
