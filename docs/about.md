@@ -3,7 +3,7 @@ layout: default
 title: 關於專案
 parent: 說明
 nav_order: 3
-description: "TwTxGNN 是基於哈佛 TxGNN 模型的老藥新用預測平台，整合臨床試驗、文獻等多來源證據，提供 191 個台灣健保藥品的完整驗證報告。"
+description: "TwTxGNN 是基於哈佛 TxGNN 模型的老藥新用預測平台，整合臨床試驗、文獻等多來源證據，提供 279 個台灣健保藥品的完整驗證報告。"
 permalink: /about/
 ---
 
@@ -125,7 +125,7 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 
 | 項目 | 數量 |
 |------|------|
-| 藥物報告 | 191 份 |
+| 藥物報告 | 279 份 |
 | 老藥新用候選 | 142,328 筆 |
 | DDI 資料 | 222,391 筆 |
 
