@@ -129,6 +129,8 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 | 老藥新用候選 | 142,328 筆 |
 | DDI 資料 | 222,391 筆 |
 
+依證據等級瀏覽全部報告：[高](/evidence-high/)．[中](/evidence-medium/)．[僅模型預測](/evidence-low/)
+
 ---
 
 ## 如何引用
