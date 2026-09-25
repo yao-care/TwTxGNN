@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/anastrozole/
 
 ---
 
-### [多學科專家齊聚福州，解讀新版乳腺癌診療指南](https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR0F4b1hjRDFqYVVQYWhGb1dQWG55R3VNVjNvMTFOSURiUTBKbUpLRHVzdnJNRlJkUVlfenJ6bVU2YS1DdEN5bzctRUFUT0FCeHNvUVJoM2E4VTNVUnZKN2I5Q0o2MEZfQ2xpN0VCQks?oc=5)
-
-2026-09-24 <span class="news-indication-tag">乳腺癌</span>
-
-來源: [人民网-福建频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE9FR0F4b1hjRDFqYVVQYWhGb1dQWG55R3VNVjNvMTFOSURiUTBKbUpLRHVzdnJNRlJkUVlfenJ6bVU2YS1DdEN5bzctRUFUT0FCeHNvUVJoM2E4VTNVUnZKN2I5Q0o2MEZfQ2xpN0VCQks?oc=5)
-
----
-
 ### [癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MS0I3U0V2MS1KRmwzRTl6RmEzSlJLTXp4ekdYNkgxckJGb3JZYUU4M2pad0xJSmpFQU92dl9TTzRDZEJzSVItUVhMbW9qQU5qSkE?oc=5)
 
 2026-09-22 <span class="news-indication-tag">癌症</span>
@@ -80,11 +72,11 @@ permalink: /news/anastrozole/
 
 ---
 
-### [車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
+### [車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
 
 2026-09-20 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
 
-來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
+來源: [news.pchome.com.tw](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
 
 ---
 
