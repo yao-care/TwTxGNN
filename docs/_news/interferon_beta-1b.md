@@ -64,7 +64,7 @@ permalink: /news/interferon_beta-1b/
 
 2026-09-22 <span class="news-indication-tag">癌症</span>
 
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MS0I3U0V2MS1KRmwzRTl6RmEzSlJLTXp4ekdYNkgxckJGb3JZYUU4M2pad0xJSmpFQU92dl9TTzRDZEJzSVItUVhMbW9qQU5qSkE?oc=5)
+來源: [topick.hket.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MS0I3U0V2MS1KRmwzRTl6RmEzSlJLTXp4ekdYNkgxckJGb3JZYUU4M2pad0xJSmpFQU92dl9TTzRDZEJzSVItUVhMbW9qQU5qSkE?oc=5)
 
 ---
 

@@ -72,7 +72,7 @@ permalink: /news/dehydrocholic_acid/
 
 2026-09-23 <span class="news-indication-tag">肝硬化</span>
 
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5)
+來源: [ctee.com.tw](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5)
 
 ---
 
@@ -80,7 +80,7 @@ permalink: /news/dehydrocholic_acid/
 
 2026-09-22 <span class="news-indication-tag">癌症</span>
 
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MS0I3U0V2MS1KRmwzRTl6RmEzSlJLTXp4ekdYNkgxckJGb3JZYUU4M2pad0xJSmpFQU92dl9TTzRDZEJzSVItUVhMbW9qQU5qSkE?oc=5)
+來源: [topick.hket.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MS0I3U0V2MS1KRmwzRTl6RmEzSlJLTXp4ekdYNkgxckJGb3JZYUU4M2pad0xJSmpFQU92dl9TTzRDZEJzSVItUVhMbW9qQU5qSkE?oc=5)
 
 ---
 
