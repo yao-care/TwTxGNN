@@ -31,11 +31,11 @@ permalink: /news/colonic-neoplasm/
 
 ## 相關新聞（2 則）
 
-### [名醫超喜歡吃紅肉！日常護腸「只忌1食物」：大腸癌細胞的最愛](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLc3pVYzlOUUZrSWE1ZnBPRDk5YndxWi1lRzlZcEw3YUVuRXg5d01tZ1cwSExQbGg2ZlVMRFlyV0dIclVzLWNCNUJwZ3M?oc=5)
+### [男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8ydFl2VHpwbXZaaVVwRWo0bllvaE42aGZLYlZTcWpaaVl0VDJXN0xLOWRBaHdESnY1MzFDT3lSUlRfVkluQTRUeVo1VjM?oc=5)
 
 2026-09-24
 
-來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLc3pVYzlOUUZrSWE1ZnBPRDk5YndxWi1lRzlZcEw3YUVuRXg5d01tZ1cwSExQbGg2ZlVMRFlyV0dIclVzLWNCNUJwZ3M?oc=5)
+來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE8ydFl2VHpwbXZaaVVwRWo0bllvaE42aGZLYlZTcWpaaVl0VDJXN0xLOWRBaHdESnY1MzFDT3lSUlRfVkluQTRUeVo1VjM?oc=5)
 
 ---
 
