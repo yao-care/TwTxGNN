@@ -1,7 +1,250 @@
 {
-  "generated": "2026-09-24T22:50:27.856099+00:00",
-  "count": 14,
+  "generated": "2026-09-25T01:01:25.265718+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "bc072f8838a9",
+      "title": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛",
+      "published": "2026-09-25T00:04:12+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1aff82f6a9f0",
       "title": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」",
@@ -233,13 +476,13 @@
       ]
     },
     {
-      "id": "7298580b358c",
+      "id": "3d7662132c46",
       "title": "本港舉辦「早期癌症篩查新趨勢」業界交流會",
       "published": "2026-09-24T07:52:00+00:00",
       "sources": [
         {
           "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83TWM3U3puRjNCQTQ5SXYxcmVDVm9xM1ZoN0YwY0YtdUNjaUFUVkFOaGZZSXZXekxybmdYcWJHeUFLNGZQN2NCZkZlNjNRd2RvVHdMdlo0TFVmRHNzNnl6OW1sbUZ6eGEzMW9UQk9LVGRoRXJOTlBNY2pIbw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5"
         }
       ],
       "keywords": [
@@ -552,12 +795,12 @@
       ]
     },
     {
-      "id": "ac02db9da633",
+      "id": "387ba6ae217b",
       "title": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際",
       "published": "2026-09-23T14:04:00+00:00",
       "sources": [
         {
-          "name": "ctee.com.tw",
+          "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5"
         }
       ],
@@ -576,12 +819,12 @@
       ]
     },
     {
-      "id": "0b47a393e297",
+      "id": "647a8b8a8e28",
       "title": "老年憂鬱恐致假性失智研究：建議每週看一次球賽| 球賽 | 超高齡| 臺灣社會",
       "published": "2026-09-23T12:14:07+00:00",
       "sources": [
         {
-          "name": "台灣大紀元",
+          "name": "epochtimes.com.tw",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNTUU1aVNMczl3MnNDNE96WFFtNndpemNrOG5vX0ZxQW1aX2h5TEU3cldWU1NKd0kwS05WbWEtQTVZY0djdDVhSno2eFduTzAtdEh6Nk5QZ21sS0ZhUXVhamk4T0daSFh5NmpzNERLRUM3a3pCbFN1Y3JfZVpnc0ROaEMtZ3NKdm9mNzJSa3B4QURRMmZ5RDlZd05hNXBBVkVMZ0YzMUV3VmwwU2d0alFtdm5kVkJJWTVqM1BDOWg4Vy1zWnBYS0h0djBxUThkRkNsM19vQ0J0WkhBd2QxZzBRYXZGQWtZczBDMmktdU5Qd2tLdXRMbjRteVAtQkk4emNHSC1aMC1MT182YU5Pb054SVQyQU9mQ0QwazVsajJiTml5M2FCcWowRFphcFVOaWRXZFdWR3h1TWZ5MExHUVZkckNnTUlnZnVNN3FKak9OcW1zYU13?oc=5"
         }
       ],
