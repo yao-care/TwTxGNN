@@ -13,6 +13,9 @@
 
 - 首頁：https://twtxgnn.yao.care/
 - 藥物報告：https://twtxgnn.yao.care/drugs/
+- 高證據等級報告：https://twtxgnn.yao.care/evidence-high/
+- 中證據等級報告：https://twtxgnn.yao.care/evidence-medium/
+- 僅模型預測報告：https://twtxgnn.yao.care/evidence-low/
 - 方法論：https://twtxgnn.yao.care/methodology/
 - 使用指南：https://twtxgnn.yao.care/guide/
 - 資料來源：https://twtxgnn.yao.care/sources/
