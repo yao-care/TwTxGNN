@@ -1,8 +1,72 @@
 {
-  "last_updated": "2026-09-26T13:29:32.217854+00:00",
+  "last_updated": "2026-09-26T17:29:29.401641+00:00",
   "total_count": 45,
-  "matched_count": 15,
+  "matched_count": 16,
   "news": [
+    {
+      "id": "643aa047e0d5",
+      "title": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛",
+      "published": "2026-09-26T10:30:00+00:00",
+      "summary": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQelRtVmJTa2daYzMxck1LRmIwbThQbGFhUnRZNzI1MVF2VEpKbGhLQ1F0MFVtMS1RNmxva0p4NzdtakI3Vjk0dVIxSHRxb3pZY0M5c2JtRDF6azRVQlRKb215WXNJeE94SjVTdGFod3RPUkphcG5oczVGQnZ5RWJjSGRZdlBpVGIxQU15VU9xaWJqZ2l0Rk9aQkI3NmZqTlBKQnd1dTBwbFZ4SmlUd3J4Z3F1UjdkVm1CSHRTRzlncmdhbjBsakEycWFFUkZCSEtycmV2UnFJb3hEaFlSbzMyM2toZkhFblNSdlZlVFFoR3BCVWNXdk80a0h5RHZ3Y3RtaFRtSS1FUWJmdGFzUFh3Yk9wTS00NDNuZVJCUzFaOUo0dG5iQXdQLUlrRkJDcllvS0hpZ1lRQWRlajExc2t4WDVIYm5OdnJlNm5Yb09ha3lTWWdEbzNmZXlJRG56SVNIWWxuZ25rTmdoUlNMQnBudm5hWmZoZTVseTV5MU41VG5LcE1JdGpYTGN4WW9MQ2VUZWV5ZFhTSkZJYUU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "風濕",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "關節炎",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "dd244bbff105",
       "title": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽",
@@ -32,7 +96,7 @@
       "id": "f83a7fdff908",
       "title": "美國佛州登革熱病例激增 三縣宣布緊急狀態",
       "published": "2026-09-26T08:27:00+00:00",
-      "summary": "美國佛州登革熱病例激增 三縣宣布緊急狀態&nbsp;&nbsp;大纪元美國佛州登革熱病例激增 三縣進入緊急狀態&nbsp;&nbsp;ntdtv.com美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
+      "summary": "美國佛州登革熱病例激增 三縣宣布緊急狀態&nbsp;&nbsp;大纪元美國佛州登革熱病例激增 三縣進入緊急狀態&nbsp;&nbsp;新唐人電視台美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
       "sources": [
         {
           "name": "大纪元",
@@ -58,7 +122,7 @@
       "id": "b3cdd33969e7",
       "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
       "published": "2026-09-26T05:20:08+00:00",
-      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞大腸內狂長20顆！他改吃「1種肉」息肉全消失&nbsp;&nbsp;東森新聞腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲大腸狂長20顆息肉！改吃「1種肉」全消失 大腸癌風險降低12% | TVBS&nbsp;&nbsp;LINE TODAY",
+      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞大腸內狂長20顆！他改吃「1種肉」息肉全消失&nbsp;&nbsp;news.ebc.net.tw腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;topick.hket.com大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲大腸狂長20顆息肉！改吃「1種肉」全消失 大腸癌風險降低12% | TVBS&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -142,13 +206,13 @@
       "matched_keywords": []
     },
     {
-      "id": "ea8812c2dccf",
-      "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活",
+      "id": "6ad20217913b",
+      "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險",
       "published": "2026-09-25T12:15:00+00:00",
-      "summary": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險&nbsp;&nbsp;UHK 港生活",
+      "summary": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險&nbsp;&nbsp;hk.ulifestyle.com.hk",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5"
         }
       ],
@@ -165,19 +229,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "11109d86955e",
-      "title": "大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌 - Martin Cid Magazine",
-      "published": "2026-09-25T10:53:13+00:00",
-      "summary": "大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際&nbsp;&nbsp;工商時報大腦其實是兩個器官？震撼發現：人腦由兩個獨立神經系統拼裝而成&nbsp;&nbsp;TechNews 科技新報研究稱大腦實為兩器官 有望助攻漸凍症研究&nbsp;&nbsp;澳門力報",
-      "sources": [
-        {
-          "name": "Martin Cid Magazine",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZWNDWjFiSjBjeUNzUmVyV1lrSnQ5QjB5MlZJOU5hUGlMU0NpZFBHamNfcTdETHlLNmJTZzI3WmY5LWwwRHpvcWtYaGJWMjZCbTIxZFZMdGZaYXpRSVNZS3J3b29ObVFwUERER0J5YnhaNUNZR2dEdW1PMHVZNVZSdGtBUDZxSG9Ta1hrbEZ2UmgzVGdUU1dFU21hOHlLVEJUNGlKdzg1cUY1d20teU5mT2ZNV0VVRnF2Rk5VRmV0eTJrV3FvUG5xSXVQSW9BaHJGR3FtNGV3d0UwTG50NG5iZF9kRXFNUjVaYTYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "dae0f4de1bf4",
@@ -744,13 +795,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d283279adaaa",
+      "id": "a19f7158569b",
       "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫",
       "published": "2026-09-24T03:46:54+00:00",
-      "summary": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫&nbsp;&nbsp;health.udn.com",
+      "summary": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ],
@@ -835,13 +886,13 @@
       ]
     },
     {
-      "id": "2a7e5defbd87",
+      "id": "49e120936e99",
       "title": "骨密度低不只怕骨折！研究：與認知下降較快、腦白質老化有關",
       "published": "2026-09-23T08:47:56+00:00",
-      "summary": "骨密度低不只怕骨折！研究：與認知下降較快、腦白質老化有關&nbsp;&nbsp;health.udn.com",
+      "summary": "骨密度低不只怕骨折！研究：與認知下降較快、腦白質老化有關&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWelM1WFJzLXBja3A1RTBtc1MwcmxHdFctX3RkcjVBQlpfSEs5VFNCazdYR3lZYUMxYnRnQnN5OG9tMWhWQTVRTF9nVmdqU3dNRnpfbTU2dGVnUUNp0gFiQVVfeXFMUHhSNGY5T0tjTG5aai1JXzVBWElTOXEtTEtQSERpeGM1WjV3U1NiaDBxUVNWTE5vb0w4VFJnR3NZRlo3ZWpkX1VRSW9Dd3Fyb1pIX1hjYm5vTjFJcWxIY1hoVHc?oc=5"
         }
       ],
@@ -933,14 +984,14 @@
       ]
     },
     {
-      "id": "2f699fcf5ffa",
+      "id": "0768dcd8e5d5",
       "title": "研究證實每天吃半碗糙米飯 紅字數值全改善",
-      "published": "2026-09-23T02:12:51+00:00",
-      "summary": "研究證實每天吃半碗糙米飯 紅字數值全改善&nbsp;&nbsp;中天新聞網",
+      "published": "2026-09-23T02:18:41+00:00",
+      "summary": "研究證實每天吃半碗糙米飯 紅字數值全改善&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DTjFRWDdUNEItbUUyLW1oYVc4OXE1cnZkdGxnbk90bm9wOUlCSll2V1p1SF9tcXNaZm5oLUEyM2JLRjZ3SFplSFFsNFRIaTZQMDc0?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPeFpVZ1NzbHZsNXh6dGJSOUFETUgyZDgxMnRSR0l0ekFwN3FERFhVdG1CejlkTlY4aGdla0tlQTNVM1VnNk5HdEZ3OHk2SzNIQTRYNGVfZkhPbTNPeGRETEUxVUFMTWwtTFdBUjRLX1BzYnJpMVJiakZFVGtIbTlxazhmOW1JTUlSTUNLNFBzZTJRUXFiaExWelVPLUZmSDdlWTF4TE1kRUswSjFNMWtQZ3d1NHVYekQ0S3ZmeUZqZjYwVDZQTkZ3RTZtN284QUtRdnkxaWp5bDJJUkVuaHpqdmphUXFNWFFxVzM5dmhPQnZqUnd2ZXhIMkVIUlRqcUFnTGl6ekFSX1FfRlNUWkowSGtjUGlraHdsV1U0bHMyb0k2dGgwWjJmTTJ4b1Jvc0NRZUdyNVh3bHc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -988,7 +1039,7 @@
       "id": "b0d8ad667bba",
       "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思",
       "published": "2026-09-22T18:00:00+00:00",
-      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;TVBS新聞網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;三立新聞打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;ocacnews.net",
+      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;TVBS新聞網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;三立新聞打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
       "sources": [
         {
           "name": "TVBS新聞網",
@@ -998,26 +1049,13 @@
       "matched_keywords": []
     },
     {
-      "id": "fa8bf0eeddde",
-      "title": "健康網》兒童生長板「幾乎閉合」或許能長高 醫談3誤會",
-      "published": "2026-09-22T13:10:00+00:00",
-      "summary": "健康網》兒童生長板「幾乎閉合」或許能長高 醫談3誤會&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91djF5SGwtWUxCTWlPZHNfTzhPd1hfTF8tM05MZXREV09pdkVxZ252TGx0WERSVFBTU2liSnUtdmxjUFFtUXFIMVpkdFJraV9TNGJnOTdsaHFoSlowM3IxREY5N1c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4cfe8e6679dd",
+      "id": "cf107b5567f2",
       "title": "癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%",
       "published": "2026-09-22T05:38:30+00:00",
-      "summary": "癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVXZwdnZtSjd1Wk5UdWZEdk0tNnd1bjJDWmxNQ0txMXR2Xy1LUmNySF9sUlhVN204Z25hSXpBR0hQYVllc0hnSm12ZW03MDhxZlc5SU1ycXRaZXRPQkRSSXkzUU13cS1hZm1lV1plbGxlNnZ3T3ZZcF9GenJ1QlhOeVdhdnd3VDgyTm1UYzBMVFYyVWlBU2ZvQzZ3bUdtTEhFaDRndXotS1dBN296ZElZVGtMUmRHY2t3eG9yb1poaC1ZTWZ6ci03VTZ4R2JYVkZMdVhpdUVVWUxRT2w0RzN5akFoTEFycmN2QkhCd1ZlMUdXUHI2R2hQSVoxQjhtcHVmb1J0a2NMVGtUbjFRQ3FyWFQwcmxMTGxhRTVGRnBNbU5nTURUNEMtWi1UN0JzSUlHVjVwNnhVRWV1bjYtcjBrTzRDdUF1bjdOdlE1b2w5WWtMTS11a21Tb0VPNTRIQ2tTczN1UHEwSUZlTDRvdlMxUU9CbDJZNWlqR3lTWUFrN0lLMFg2VDhWZ3FWTjFJMjQwcjVtdnc3dEUxU1JxbUdMSW1fc1RtWTRqcXFCWFV4OFNZV3l3U0NJUHA5WnowRl8yOUt4N1Btdk5sZDBONVVmbGdGbjY3Y0pDT2pWVXIyLVZGV1lYRUlTNFJEV1lYNXc3SkRfZDd5VVhQMUhvNXNsX3BEQkNHZXI3cnFMZXFDbzY4ZWZvYUJYcWQ0M3NMOVYtMVdkUHlVZnBISEVqcHBqSXB2dDQzNnN1NFpOM3FZc3VMM0JraUZVVU52SmUyUFN6VXVBaGFibEFsaFVmRHlrWmZlMExYSGViZnc?oc=5"
         }
       ],
@@ -1259,7 +1297,7 @@
       "id": "5ebaca11c82f",
       "title": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力",
       "published": "2026-09-22T02:00:21+00:00",
-      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;ulifestyle.com.hk",
+      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
       "sources": [
         {
           "name": "香港01",
@@ -1269,14 +1307,14 @@
       "matched_keywords": []
     },
     {
-      "id": "dd44992b6d60",
+      "id": "4636f0170d73",
       "title": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」",
-      "published": "2026-09-21T10:30:34+00:00",
-      "summary": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」&nbsp;&nbsp;中時新聞網",
+      "published": "2026-09-21T10:35:34+00:00",
+      "summary": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JbnhyQkRHYVh3blF6aWlqSVZ2TWYzaG4wWmdyMzZrc0tyRXlBMzc4dVRhZThSc1RhdmtGaVg3emJiajZWSEZZOEtTdndmaWpKN3JjS1dDRHMyeElZajZReEVFeXluZkhtTENVUmtB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTUFtc0M0MmZsbXhzTldveElSTjllRTdhNXZDLVJudEJqdlFOU21BT2F4TUJ2el83WndUVUppN0FuWHF6eW9JOUIyZThhTkNFVkw5TFZDbkxFX3RmdjNWUHNCSk5SWlN2T0VOa0hEcGpTN25xNWdwRFVQQWdWVmFJSExGS2huUWw5cm1HWU1aemRFTTB5WDQzVnUtRW4wMmFpT0NfeFZTMjJIeTAtRXkzUVdSYmpVUU5qNGQ5VUNjNy1NUkx4X1ktRGhFQXJ1cGZPcmJrOUlueDZaenlhNEVKR1FjTEI4MDFCWUdaNG5ZaWhqOEMxNGw4ZF9ma3lIUmZqN1MxNTRsRDlLejYtaVlBZE5KZWFSYVpDU0UwZWM1VVplZFhCVEhySHNzOGV3R1JLYWZ1T2xMMGJncF9zUEtSQmhOZm5rTUtMZHBRN0lQVHRndWlUdlpNTjVrbW9NeDZtY3RwMWdLZnVzdjBzRTlMa1ZpRmNHemQwR3A0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1308,26 +1346,26 @@
       "matched_keywords": []
     },
     {
-      "id": "7d856381f6b3",
+      "id": "e99101628dd3",
       "title": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】",
       "published": "2026-09-21T05:28:48+00:00",
-      "summary": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】&nbsp;&nbsp;topick.hket.com",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxNLTBZREdHVlVwNlpkbFNZc3NUMk1rZ3M4ZXFXTTA4aEVMNFZRMnZudTJjMHMyUGFwOVJNTFVHUFFRa3IxRk1wclVSamdQdGRvYUl4bklXWk44OU50c2hJb1pvd2lqd1pyTDRuSEdQS1Q1dkNjN2k0ZXJPWHhOdTlraTBfVjJDTEJVV0NxSU9xZ0I3b0VTQWdtWFIzblZwc3ZnMnFMb2FvV1ZBMW1Jemh1dEw2R2ViejdjM1N2bU9tcXFNOUsyN1lzR2gzUDdOSXB3anJyZWZldTQwRVRHZldMVWNHZHBoV0YxekYxZXY5OVQ5b091QkdacFdyYnFIaHllQWZoQVA2OTRsQzJYeXJua2NlTG1peTRiMHk1WlZzUUlSZVdsNlFteTR5ZmRxQmRxZ0JzdjBtdWFIbGNieGVldHNrQTNKRUNYQUNvaTVVbzhRc21yUE9ESmtNM3JianlHU25YTlJ2aEl3bXZTbU1xeVNBTjR4RW0tNTJzSTk1VjBNSFUzc3dabWtoa1k5VnFMM3prYnhlYXVfWExzdUdhWlVvMzRXeFRISk53cXdycl94N3czUEs2MDhpVm5hclVtN0RDQkdwQXdNdi1Vc1JnRElVS0p4S1I5NlZQZUxtQVlPTS1QVjhpSkZ5bEFuRGM1dW9xeUlzNzA1RnoycTRIRFZnZGl3Nk1lbG5ySUZoN2hrck80ZHU2bWlMaVZCQ0dfdnJHZW9QWExyWFBWR25XcWZqdVRkTkc5X1VvZ2pZalpMbUgzN3FyNWJHSERYWWFTN1lRT19CVEc0c1FvdXppeC0tUTlLTDNfdWhTbDNWa0k2dlYtbFU1c2FTUHI0MTVwTDVraS1uVlkwaGNOZVJYUUNDQi1fUHN2cVl5djJRSW1JVHNfb1BVSnd3SXQ0UkEy?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "857afca16cc1",
+      "id": "372ab8efc7ff",
       "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
       "published": "2026-09-21T03:00:00+00:00",
-      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;優活健康網",
+      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;uho.com.tw",
       "sources": [
         {
-          "name": "優活健康網",
+          "name": "uho.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
@@ -1435,27 +1473,40 @@
       ]
     },
     {
-      "id": "dd8e0832e5b8",
+      "id": "bfeac1d7dfa0",
       "title": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍",
-      "published": "2026-09-20T08:58:00+00:00",
-      "summary": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-09-20T08:58:19+00:00",
+      "summary": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPbnR5Z3EtcWp3UXF6ZTd0ZVNmdzFNNklhZEh4dGNRWEtlLXhmakdvN0cxV0JMUHg1d2FhSGhwSWw2cnRmTWRHN2xnSnRjZVZQY3VSWC04S3h3cjB4SVZmNmMyMzRROTF1QlJWLW4ycGNPeGxuQ0N2UDMxV2N0UWFYN2RjSVhZWVJ5XzJlaHZsZUoyUThqOWZWakwySjE2RHZzTGRMb1ZQdm9NaW9ISU5nVkVLTnBfOWx0amRXaVlrWHhYNGRTV1N0Z3l1ai1nREk4cXRoa1phRm9rZF9Eck92Tjc4RkYxX0xRV1dKRktHd2pCeDUyVFJTS2pnOGN3NjRELV9yNlUtbjd3cEQ4YXRFUVdvN1JaWFMxQnE4ZXJPbU5JU0padTRQdnk5c3NWamFqX2tuVk01Zw?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JcWl3S28xVjRfUHhqUzUzeTdaeTZRbDY0S1I3bWtISW1FTFNJOThGM3R0SndNRjVLOHVyWmFvMWgyRnpWaFpKdGtNNjM?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "9bec0c40253c",
+      "id": "d07ec9c52058",
       "title": "年紀大才開始運動還有用嗎？研究揭活動量與糖尿病風險關鍵",
       "published": "2026-09-20T03:00:33+00:00",
-      "summary": "年紀大才開始運動還有用嗎？研究揭活動量與糖尿病風險關鍵&nbsp;&nbsp;health.udn.com",
+      "summary": "年紀大才開始運動還有用嗎？研究揭活動量與糖尿病風險關鍵&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dTE0WXBzZUotRUNLZnRyend4ckFKLVo3TXNGX0Nwc2pwZWFFYktMZGUtWTRuQWpiSTZiUTVZRHZvNVBybGFOWk82VExaNTBSMFhXZm1zaEJhRm1j0gFiQVVfeXFMUDdOQUowcVVHNTZYVTFwRXNOX3pIZEVvUTFRZHd0dEhTeEhyX2w3ckszZmdJRkZwZkU4YVY2SkMwN2lybW9nR3l3d3V3R09uNzRlZXEwT09uVVBOSEZUOTI2UXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2fc13c169332",
+      "title": "人類大腦竟是「兩個器官」 驚人研究或有助漸凍人症治療",
+      "published": "2026-09-20T01:53:31+00:00",
+      "summary": "人類大腦竟是「兩個器官」 驚人研究或有助漸凍人症治療&nbsp;&nbsp;singtao.ca大腦其實是兩個器官？震撼發現：人腦由兩個獨立神經系統拼裝而成&nbsp;&nbsp;TechNews 科技新報研究稱大腦實為兩器官 有望助攻漸凍症研究&nbsp;&nbsp;澳門力報",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxNMjRNaWw1OXVWWEVLYVFCUFBtdlR0bmhHWXByVlYxVDNhdG16N2ZTbTlhaXJBZGoyM3VLWGpYU3ZEeHdRLUxKd1NRMnhXTnBscUlLTlFnN242dlVEbWZCSGY2QkREUDNYSDhSalFQbGpMQkxWc2xrVk90dExOTVVXU201NmlvSXN3SjgtSXdIZnY0bElZN1RRQ2ItODNfOHd6VTZDN2dVQ1V2aXEtRVlYZjdLRDVhUmRwSmZwWE5JeUE2X1dlY2dfU3YzWjdMWVQ1WmVTR0dJWlIxazdZcERFTURtWnVKRVBpRjlWcHpxemJOaDNpancwbUpDUGtZOFVrM0ZKbnlkcGwxanVETnhObS0wZGdoZGtOSU5wZFRBMFR4QXVHSVUtVndZWVJFeUJUbUtBTjFZNzJ2RlZTcnd6UElla3pDNnZES0lQdWNQWW1ENHJFc2swbUswb0RZdWtCVlY2dE8zLVVHTWg4VlhvZkROWjA0Y05ScmFDVWczTDdPdkR2T1dSbzFJamJyN3Ro0gGKAUFVX3lxTFAtV2NDOTZoMXFXZFhhMDhGeVFXUE5GVEZ2RkowbFFWWl9CYWU0YjNvSmppQk5PRFdHdno5bS1SNHpYYzk5WDRhRGdMd1doNFF3dmYxaG5LRU1BcjNHX0VuQXdwNl82b2hnZkIyN2FnRzRsSWhFNFNLdV9lLS1CSVVIMzNjaUtYZzNsZw?oc=5"
         }
       ],
       "matched_keywords": []

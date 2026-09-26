@@ -1,7 +1,70 @@
 {
-  "generated": "2026-09-26T13:29:32.254123+00:00",
-  "count": 15,
+  "generated": "2026-09-26T17:29:29.428193+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "643aa047e0d5",
+      "title": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛",
+      "published": "2026-09-26T10:30:00+00:00",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQelRtVmJTa2daYzMxck1LRmIwbThQbGFhUnRZNzI1MVF2VEpKbGhLQ1F0MFVtMS1RNmxva0p4NzdtakI3Vjk0dVIxSHRxb3pZY0M5c2JtRDF6azRVQlRKb215WXNJeE94SjVTdGFod3RPUkphcG5oczVGQnZ5RWJjSGRZdlBpVGIxQU15VU9xaWJqZ2l0Rk9aQkI3NmZqTlBKQnd1dTBwbFZ4SmlUd3J4Z3F1UjdkVm1CSHRTRzlncmdhbjBsakEycWFFUkZCSEtycmV2UnFJb3hEaFlSbzMyM2toZkhFblNSdlZlVFFoR3BCVWNXdk80a0h5RHZ3Y3RtaFRtSS1FUWJmdGFzUFh3Yk9wTS00NDNuZVJCUzFaOUo0dG5iQXdQLUlrRkJDcllvS0hpZ1lRQWRlajExc2t4WDVIYm5OdnJlNm5Yb09ha3lTWWdEbzNmZXlJRG56SVNIWWxuZ25rTmdoUlNMQnBudm5hWmZoZTVseTV5MU41VG5LcE1JdGpYTGN4WW9MQ2VUZWV5ZFhTSkZJYUU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "風濕",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "關節炎",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "Ibuprofen"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "dd244bbff105",
       "title": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽",
@@ -74,12 +137,12 @@
       ]
     },
     {
-      "id": "ea8812c2dccf",
-      "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活",
+      "id": "6ad20217913b",
+      "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險",
       "published": "2026-09-25T12:15:00+00:00",
       "sources": [
         {
-          "name": "UHK 港生活",
+          "name": "hk.ulifestyle.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5"
         }
       ],
@@ -581,12 +644,12 @@
       ]
     },
     {
-      "id": "d283279adaaa",
+      "id": "a19f7158569b",
       "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫",
       "published": "2026-09-24T03:46:54+00:00",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ],
@@ -727,12 +790,12 @@
       ]
     },
     {
-      "id": "4cfe8e6679dd",
+      "id": "cf107b5567f2",
       "title": "癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%",
       "published": "2026-09-22T05:38:30+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
+          "name": "topick.hket.com",
           "link": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVXZwdnZtSjd1Wk5UdWZEdk0tNnd1bjJDWmxNQ0txMXR2Xy1LUmNySF9sUlhVN204Z25hSXpBR0hQYVllc0hnSm12ZW03MDhxZlc5SU1ycXRaZXRPQkRSSXkzUU13cS1hZm1lV1plbGxlNnZ3T3ZZcF9GenJ1QlhOeVdhdnd3VDgyTm1UYzBMVFYyVWlBU2ZvQzZ3bUdtTEhFaDRndXotS1dBN296ZElZVGtMUmRHY2t3eG9yb1poaC1ZTWZ6ci03VTZ4R2JYVkZMdVhpdUVVWUxRT2w0RzN5akFoTEFycmN2QkhCd1ZlMUdXUHI2R2hQSVoxQjhtcHVmb1J0a2NMVGtUbjFRQ3FyWFQwcmxMTGxhRTVGRnBNbU5nTURUNEMtWi1UN0JzSUlHVjVwNnhVRWV1bjYtcjBrTzRDdUF1bjdOdlE1b2w5WWtMTS11a21Tb0VPNTRIQ2tTczN1UHEwSUZlTDRvdlMxUU9CbDJZNWlqR3lTWUFrN0lLMFg2VDhWZ3FWTjFJMjQwcjVtdnc3dEUxU1JxbUdMSW1fc1RtWTRqcXFCWFV4OFNZV3l3U0NJUHA5WnowRl8yOUt4N1Btdk5sZDBONVVmbGdGbjY3Y0pDT2pWVXIyLVZGV1lYRUlTNFJEV1lYNXc3SkRfZDd5VVhQMUhvNXNsX3BEQkNHZXI3cnFMZXFDbzY4ZWZvYUJYcWQ0M3NMOVYtMVdkUHlVZnBISEVqcHBqSXB2dDQzNnN1NFpOM3FZc3VMM0JraUZVVU52SmUyUFN6VXVBaGFibEFsaFVmRHlrWmZlMExYSGViZnc?oc=5"
         }
       ],
@@ -970,12 +1033,12 @@
       ]
     },
     {
-      "id": "857afca16cc1",
+      "id": "372ab8efc7ff",
       "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
       "published": "2026-09-21T03:00:00+00:00",
       "sources": [
         {
-          "name": "優活健康網",
+          "name": "uho.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
