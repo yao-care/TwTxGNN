@@ -1,7 +1,31 @@
 {
-  "generated": "2026-09-26T08:07:40.714027+00:00",
-  "count": 16,
+  "generated": "2026-09-26T13:29:32.254123+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "dd244bbff105",
+      "title": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽",
+      "published": "2026-09-26T09:10:00+00:00",
+      "sources": [
+        {
+          "name": "知新聞",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LdUVET2loVnA2cUljeTdhLWU5M2ZNbFBxblRELVliV01DLV9UX3RBdkl2bEZtb3FNU1VpR2FPemF4Tk9XZjZ3ZldVRDlsOU9FMGtydmV6b3pjUHhJc1BNd0JNRXNJaTBqaEhMN1A2SQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b3cdd33969e7",
       "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
@@ -557,36 +581,12 @@
       ]
     },
     {
-      "id": "6355dee27e9e",
-      "title": "感冒好了要換牙刷嗎？3牙醫答案超一致 4情況就要換",
-      "published": "2026-09-24T05:42:45+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWGJNV2ZZeEZzVGNDSzhfRjQwczJEck1VMF9OSGNLZUFQYldpODQyNWJpWVIyeTY4Nmt5eThWa0k4QXJrMlFaa2YtYWVCMnRiRGJSTThsRS10bEpMZlVqM3MtbkRwcjI4eVZUQzhkbGE1N3puUjlIR3lwR2xPWHJJQy04N3llbWYzOGZzcnpuSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a19f7158569b",
+      "id": "d283279adaaa",
       "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫",
       "published": "2026-09-24T03:46:54+00:00",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ],
@@ -614,53 +614,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "37c8d8062fa4",
-      "title": "名醫超喜歡吃紅肉！日常護腸「只忌1食物」：大腸癌細胞的最愛",
-      "published": "2026-09-24T03:32:09+00:00",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLc3pVYzlOUUZrSWE1ZnBPRDk5YndxWi1lRzlZcEw3YUVuRXg5d01tZ1cwSExQbGg2ZlVMRFlyV0dIclVzLWNCNUJwZ3M?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
