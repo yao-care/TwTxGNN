@@ -120,15 +120,15 @@ redirect_from:
 
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 14.0%;" title="高證據等級：39 個藥物">39</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 25.8%;" title="中證據等級：72 個藥物">72</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 60.2%;" title="僅模型預測：168 個藥物">168</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 11.5%;" title="高證據等級：32 個藥物">32</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 24.4%;" title="中證據等級：68 個藥物">68</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 64.1%;" title="僅模型預測：179 個藥物">179</a>
   </div>
 
   <div class="drug-cards">
     <a href="{{ '/evidence-high' | relative_url }}" class="drug-card high">
       <div class="drug-card-icon">
-        <span class="drug-card-count">39</span>
+        <span class="drug-card-count">32</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">高證據等級</div>
@@ -139,7 +139,7 @@ redirect_from:
 
     <a href="{{ '/evidence-medium' | relative_url }}" class="drug-card medium">
       <div class="drug-card-icon">
-        <span class="drug-card-count">72</span>
+        <span class="drug-card-count">68</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">中證據等級</div>
@@ -150,7 +150,7 @@ redirect_from:
 
     <a href="{{ '/evidence-low' | relative_url }}" class="drug-card low">
       <div class="drug-card-icon">
-        <span class="drug-card-count">168</span>
+        <span class="drug-card-count">179</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">僅模型預測</div>
