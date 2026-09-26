@@ -1,7 +1,54 @@
 {
-  "generated": "2026-09-26T02:40:01.187734+00:00",
+  "generated": "2026-09-26T08:07:40.714027+00:00",
   "count": 16,
   "news": [
+    {
+      "id": "b3cdd33969e7",
+      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
+      "published": "2026-09-26T05:20:08+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "ea8812c2dccf",
       "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活",
@@ -21,100 +68,6 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ae9cf2355fad",
-      "title": "男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失",
-      "published": "2026-09-25T09:20:09+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdzV4Z0xfRXNaeEhWdXQ2eEE5S2NDblZTaGJSZWJ0NUxxY3kzTzIzTG9HRXZ1VzZhUEpVdVdCckNTSm1SOG9kOVc0ZzVHV0pEZUgtd21vWWlsNVBDRGVGclVIeFNucDJSd20wb2hxZmRPcmpiWG9VQWhBUFFDeWdIRERHUEQzLXZSZlBPYXc2XzNYbGVDSFlHN3BXMk41UWdoZlBoWWI4bU9uUVhUTV9tbG1CWmh0VUkxdVV3clB2MWF1N3A3WTU0RTNIQkNvWkl3N19TZWMzYlF6aGF3eTBjS0NOb3JXMV9qd0ZFTGotUnpBdDVBaXhINW9fSlgtYWhKTnVoWGRGaUE1c1dlT2JDRjZQY1huQ1VFUnpnWg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "af3c3e101d48",
-      "title": "大腸癌｜大腸癌名醫愛食紅肉靠1招化解「致癌危機」 防癌養生不戒口 惟絕不碰1物",
-      "published": "2026-09-25T05:26:34+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNcDNGQXlONkR1MjdkWTZvTks2RHIxaDg1TUhwaTdlMGlqRVdUNFVtY0U1VjFnRzZkSHFaQVhHWnN2ekNYbmxpR2VFMXd5MWdrUFNIYkxHT1ZUOTZvNFotTVdGcVQzbVV1MXZxOGptUDhlNVFscGRsZW5KNG9NUTg2bHoxbjFHbDNwMW1SeGk2TnMxS3JMNlZ3VXBxN0V1RkJqb1M2VmxNZngzTVYyd0VoWEY1RE5vZjd4dkRGRG42ZUpTTVc0cWkwSEdlWUVDNzRNNDN6VUIyY0hRU21NVFU1UjFwcG01OWR0NV9GZWdzTW5WQWE4RVFwLXQtWDVXS0ktS1BER3BEbkNKbzJjcU5CeG1oU0xQWTJBYWR6ZjR6M2RSZkd5bXowLWNpYWswRHhsdXJjVTJXS2FmX1d1WVJ3Nl8zbEdFUXhEcl8tcjlLc192ZHpBSldoRFVDdnY5MmJSQmpxZDJBVV81NHcyWG1KWUgtbnBUMmJxN1djQ1VhOUt4T3pCYUhldVlHSUdFMlR0T250d1pMYmk0alFYZTMxTDItYktURERqNW9uMDdSbFVFY2duSHFuVzJZSzlSZk9UZXNqZlVqZS1YeFRVSEp5Q3JQeW8wUExnd3QwbXZWN2s5Tmh0b0tYN280dUpuWEEzYmdQUkhoRUllUi00UFhnMTVJc0pHcUZ0NVQyVXpsZTk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
@@ -358,6 +311,38 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5d23f5f3364",
+      "title": "肺癌復發後走過10年 名醫分享抗癌生活",
+      "published": "2026-09-24T21:29:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元時報香港",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRWo5c1F6REVleGw5TDB3dVJZSVVyc3ZFV2hMQVFUc2NzekcwNzB1ZEF1V2JLWXh6dWNfX1FOMzU4VGlpUDNwdGpVSEZjQ2ZVTk1OOFJ2b3FVc3VxSEE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
             }
           ]
         }
@@ -629,6 +614,53 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37c8d8062fa4",
+      "title": "名醫超喜歡吃紅肉！日常護腸「只忌1食物」：大腸癌細胞的最愛",
+      "published": "2026-09-24T03:32:09+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLc3pVYzlOUUZrSWE1ZnBPRDk5YndxWi1lRzlZcEw3YUVuRXg5d01tZ1cwSExQbGg2ZlVMRFlyV0dIclVzLWNCNUJwZ3M?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -1013,8 +1045,8 @@
       ]
     },
     {
-      "id": "3593286ea104",
-      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞",
+      "id": "68a44e50a8e8",
+      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘「心碎症候群」好發停經女性：不能只防乳癌- 娛樂新聞 - PChome Online 新聞",
       "published": "2026-09-20T15:00:03+00:00",
       "sources": [
         {
@@ -1161,30 +1193,6 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "725323b1d5ef",
-      "title": "HPV不是「不檢點的懲罰」！醫：有性行為就有風險",
-      "published": "2026-09-19T06:37:31+00:00",
-      "sources": [
-        {
-          "name": "ctinews.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYW5TXzNOQnFudlp1MnRZWUlvUERXcGtBdjhCdndkNXlMdWl5RHp3SjdLLUtLWTdDemxHSlVQdkZJVUw4aVY5NFpUSFpVb3RIWUZr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
             }
           ]
         }

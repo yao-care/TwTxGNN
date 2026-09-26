@@ -1,8 +1,95 @@
 {
-  "last_updated": "2026-09-26T02:40:01.135389+00:00",
-  "total_count": 44,
+  "last_updated": "2026-09-26T08:07:40.677680+00:00",
+  "total_count": 48,
   "matched_count": 16,
   "news": [
+    {
+      "id": "cb3eca38e17e",
+      "title": "豆漿一瓶400毫升「建議飲用380」 網好奇：剩下的要幹嘛- 生活",
+      "published": "2026-09-26T07:23:28+00:00",
+      "summary": "豆漿一瓶400毫升「建議飲用380」 網好奇：剩下的要幹嘛- 生活&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzY1Z5bVBEQmktakFua3N2bzNpTF9kc0VkTjRFU1RXR2dFTWdRczhjWUppbTlUSk9IMi16RFRSdUpLT2Vpd1RDR2VIckljTVlxMURlLTR6dGVMYVNLN3pFR1NSWHU0S29WV0psVFRn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ebf46373a864",
+      "title": "你可能會因為這個奇怪原因突然頭暈",
+      "published": "2026-09-26T06:28:00+00:00",
+      "summary": "你可能會因為這個奇怪原因突然頭暈&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90SzFEX19hTU9NNnNpdE14c2g1bk1WZHdieGFEUHNwWGs3dk00TVJ5N1RpVTkwV3FiVmtObEZna1JWMnlpM3hEN253dXBDWGx4djZkaDB6Qnlid3V1Tl9UbtIBZkFVX3lxTE81YzRyU3Z5aVBBLWNmMG9ZaG81QW9HQmlLRGZaWHBjSWNXUkJVc3RBYXloblRWX2xUcng4SUd2YU01S0QxTkJiNkUyTk9MR0RKWkk0dkY1LXozZHhTcl9veFAxczdmdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b3cdd33969e7",
+      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
+      "published": "2026-09-26T05:20:08+00:00",
+      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞大腸內狂長20顆！他改吃「1種肉」息肉全消失&nbsp;&nbsp;東森新聞腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET男大腸爆長20顆息肉 醫教吃1物 第5次腸鏡「零檢出」&nbsp;&nbsp;中時新聞網男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04ce210a7952",
+      "title": "醫生推介兩款蔬菜「神級組合」營養高50倍！有效擊退脂肪肝 附最佳食法",
+      "published": "2026-09-26T03:00:15+00:00",
+      "summary": "醫生推介兩款蔬菜「神級組合」營養高50倍！有效擊退脂肪肝 附最佳食法&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQMkNyT3ZyU1d0LXNOdFpHdU1yLWZNdDBoN2EwU0J4V01CMkxhNzFLZEFiUWx2UlVicWFZMEZ2SDd2X29TZzlhN0x2WWU1cUF1Vnk3UlpEYkVvOW5FeGNPMzYxUm1DYXoxT01ycUZlMTFoVWNYdzJZNmtuUnVXRTZRbjNMcGtqZmkyRmFtMnAtZ1NhN3c1MF95Q2pUOWNNdWFONXktcHRMUGZIbXpUMk9yeVNIRWFKcFE2WE1nU2RQelVIR1pYQktYaGVwV08tcEJUMERKeTZQRktESEhORHBfX1JPTWJRVTgwcEg2a0RSbGlDZEFmbEF6T0hFSHQxZ19XeHE4UkZqVEZNcU5oanVVTDYyWVNkOUVXMjZqcXRYZmg5LTVyWFlVdTFpZUZhcGZJMU1SeFJlOEhNa0xXOVJSbDRBb05aYWhwc09kSnhCRnRMQV96aHpOdHJzNmNKWXlPTl9QV2dhenBITXBJNDRDUEhuY0xZMWxBVXhVSUhiYjFRUGJCckQyVGtWSXZaZ1EwZG1Tamp5Q2NOUlpKSzR1QnRUdWY2MFZXVmFReldfaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ea0436989d5e",
       "title": "AI 預測的病毒蛋白長什麼樣？AlphaFold 資料庫免費開放 2,800 多種病毒結構",
@@ -68,54 +155,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ae9cf2355fad",
-      "title": "男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失",
-      "published": "2026-09-25T09:20:09+00:00",
-      "summary": "男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失&nbsp;&nbsp;Yahoo新聞男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失 | 民視新聞網&nbsp;&nbsp;LINE TODAY男大腸爆長20顆息肉 醫教吃1物 第5次腸鏡「零檢出」&nbsp;&nbsp;中時新聞網腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET男子大腸猛長20顆息肉 醫教「1飲食法」終於零檢出&nbsp;&nbsp;ctinews.com",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdzV4Z0xfRXNaeEhWdXQ2eEE5S2NDblZTaGJSZWJ0NUxxY3kzTzIzTG9HRXZ1VzZhUEpVdVdCckNTSm1SOG9kOVc0ZzVHV0pEZUgtd21vWWlsNVBDRGVGclVIeFNucDJSd20wb2hxZmRPcmpiWG9VQWhBUFFDeWdIRERHUEQzLXZSZlBPYXc2XzNYbGVDSFlHN3BXMk41UWdoZlBoWWI4bU9uUVhUTV9tbG1CWmh0VUkxdVV3clB2MWF1N3A3WTU0RTNIQkNvWkl3N19TZWMzYlF6aGF3eTBjS0NOb3JXMV9qd0ZFTGotUnpBdDVBaXhINW9fSlgtYWhKTnVoWGRGaUE1c1dlT2JDRjZQY1huQ1VFUnpnWg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5bf355b4c83e",
       "title": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 - TechNews 科技新報",
       "published": "2026-09-25T07:04:45+00:00",
@@ -127,54 +166,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "af3c3e101d48",
-      "title": "大腸癌｜大腸癌名醫愛食紅肉靠1招化解「致癌危機」 防癌養生不戒口 惟絕不碰1物",
-      "published": "2026-09-25T05:26:34+00:00",
-      "summary": "大腸癌｜大腸癌名醫愛食紅肉靠1招化解「致癌危機」 防癌養生不戒口 惟絕不碰1物&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNcDNGQXlONkR1MjdkWTZvTks2RHIxaDg1TUhwaTdlMGlqRVdUNFVtY0U1VjFnRzZkSHFaQVhHWnN2ekNYbmxpR2VFMXd5MWdrUFNIYkxHT1ZUOTZvNFotTVdGcVQzbVV1MXZxOGptUDhlNVFscGRsZW5KNG9NUTg2bHoxbjFHbDNwMW1SeGk2TnMxS3JMNlZ3VXBxN0V1RkJqb1M2VmxNZngzTVYyd0VoWEY1RE5vZjd4dkRGRG42ZUpTTVc0cWkwSEdlWUVDNzRNNDN6VUIyY0hRU21NVFU1UjFwcG01OWR0NV9GZWdzTW5WQWE4RVFwLXQtWDVXS0ktS1BER3BEbkNKbzJjcU5CeG1oU0xQWTJBYWR6ZjR6M2RSZkd5bXowLWNpYWswRHhsdXJjVTJXS2FmX1d1WVJ3Nl8zbEdFUXhEcl8tcjlLc192ZHpBSldoRFVDdnY5MmJSQmpxZDJBVV81NHcyWG1KWUgtbnBUMmJxN1djQ1VhOUt4T3pCYUhldVlHSUdFMlR0T250d1pMYmk0alFYZTMxTDItYktURERqNW9uMDdSbFVFY2duSHFuVzJZSzlSZk9UZXNqZlVqZS1YeFRVSEp5Q3JQeW8wUExnd3QwbXZWN2s5Tmh0b0tYN280dUpuWEEzYmdQUkhoRUllUi00UFhnMTVJc0pHcUZ0NVQyVXpsZTk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "fb9d0a3b39ae",
@@ -434,6 +425,39 @@
       ]
     },
     {
+      "id": "b5d23f5f3364",
+      "title": "肺癌復發後走過10年 名醫分享抗癌生活",
+      "published": "2026-09-24T21:29:00+00:00",
+      "summary": "肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大紀元時報香港",
+      "sources": [
+        {
+          "name": "大紀元時報香港",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRWo5c1F6REVleGw5TDB3dVJZSVVyc3ZFV2hMQVFUc2NzekcwNzB1ZEF1V2JLWXh6dWNfX1FOMzU4VGlpUDNwdGpVSEZjQ2ZVTk1OOFJ2b3FVc3VxSEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e2602fba5297",
       "title": "確診HIV即日治療減傳播 逾九成人支持",
       "published": "2026-09-24T20:00:00+00:00",
@@ -450,7 +474,7 @@
       "id": "e878a2963667",
       "title": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際",
       "published": "2026-09-24T10:17:00+00:00",
-      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;hk.on.cc研究揭示蝙蝠的演化史，可追溯至6500萬年前&nbsp;&nbsp;mtgamer.com",
+      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網研究揭示蝙蝠的演化史，可追溯至6500萬年前&nbsp;&nbsp;mtgamer.com",
       "sources": [
         {
           "name": "工商時報",
@@ -773,6 +797,54 @@
       ]
     },
     {
+      "id": "37c8d8062fa4",
+      "title": "名醫超喜歡吃紅肉！日常護腸「只忌1食物」：大腸癌細胞的最愛",
+      "published": "2026-09-24T03:32:09+00:00",
+      "summary": "名醫超喜歡吃紅肉！日常護腸「只忌1食物」：大腸癌細胞的最愛&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLc3pVYzlOUUZrSWE1ZnBPRDk5YndxWi1lRzlZcEw3YUVuRXg5d01tZ1cwSExQbGg2ZlVMRFlyV0dIclVzLWNCNUJwZ3M?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "11adf36054a8",
       "title": "中秋將至 醫生提醒楊桃可「重創」腎臟 慢性腎病患者飲食要加倍留神",
       "published": "2026-09-24T00:00:00+00:00",
@@ -786,13 +858,26 @@
       "matched_keywords": []
     },
     {
-      "id": "b2046246645e",
-      "title": "絕經後大腦老得更快？新研究發現衰老信號",
-      "published": "2026-09-23T14:40:00+00:00",
-      "summary": "絕經後大腦老得更快？新研究發現衰老信號&nbsp;&nbsp;epochtimes.com",
+      "id": "ae2c14ed6e04",
+      "title": "破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞- 生技投資第一站",
+      "published": "2026-09-23T17:23:11+00:00",
+      "summary": "破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1d226c246433",
+      "title": "絕經後大腦老得更快？新研究發現衰老信號",
+      "published": "2026-09-23T14:40:00+00:00",
+      "summary": "絕經後大腦老得更快？新研究發現衰老信號&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbEs3ODE2dFMtZ2xLVzdHcXJmdHB1ZVQxTDJfODBNS1lJV01rUU1yMGhrT1dRcGhOc3Z5Ymp3R0NmcmgxYUFhWFJ1TmlGc0dZU3dBSUN5YmpabWhGXzM4dtIBZkFVX3lxTFA2V01odGNJTDQ4N3k5MGNwbnZjdERmMjhtVGZkRHQ2VTVqeldHZHE1bHYzSVp5S09PS2QtTmN5bF82WS1oemxPeEZOT3ROWWdMMlJ2THhqd2xMYlJxYnhtV2Vibk9hQQ?oc=5"
         }
       ],
@@ -922,14 +1007,14 @@
       ]
     },
     {
-      "id": "cd3411ee3aca",
-      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床",
-      "published": "2026-09-23T01:30:00+00:00",
-      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "2f699fcf5ffa",
+      "title": "研究證實每天吃半碗糙米飯 紅字數值全改善",
+      "published": "2026-09-23T02:12:51+00:00",
+      "summary": "研究證實每天吃半碗糙米飯 紅字數值全改善&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taHhXT0xYMDRMVUhJN2Z0Q01iMVpvZ25QamNTYTVycUtTQ0N2Zm5US1ItU1Vhc09EOG5VSENacnJXZWhJMjdDVFdxdDhtQ0t2c1NnWkpVbnJnVGJVUjZKVw?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DTjFRWDdUNEItbUUyLW1oYVc4OXE1cnZkdGxnbk90bm9wOUlCSll2V1p1SF9tcXNaZm5oLUEyM2JLRjZ3SFplSFFsNFRIaTZQMDc0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -948,13 +1033,13 @@
       "matched_keywords": []
     },
     {
-      "id": "c2b2bb3e8c3e",
+      "id": "8d6bcbdd986f",
       "title": "可傳登革熱入侵蚊再現東灣 利佛摩今晚大範圍防治",
       "published": "2026-09-23T00:00:19+00:00",
-      "summary": "可傳登革熱入侵蚊再現東灣 利佛摩今晚大範圍防治&nbsp;&nbsp;世界新聞網",
+      "summary": "可傳登革熱入侵蚊再現東灣 利佛摩今晚大範圍防治&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1waVUzT1B6Y1Rab0lxMjR0TndSS1JVVGZZdDRLQ0pXY1RKQURfOWlKRkw1MENtRUx4dkxXQUxKR1NDbEZ2S1k3dkZyWi1USTRfRFVCVThHLU10R0VUeHRBbUxn0gFnQVVfeXFMTTBoMnlZUHIwa2lCR1REVkdxRUVjd2ZEblp3QldsbEh2em00RmZEYWluanFVR185ZGNla2RxZ1U1eWI0UHJRaDZobmdwVDl2S0xlaHB0MmJ5WWgyTWNjNUdqdUY0T3VJZw?oc=5"
         }
       ],
@@ -987,13 +1072,13 @@
       "matched_keywords": []
     },
     {
-      "id": "aa879a622995",
+      "id": "7e4837fdfd94",
       "title": "美國登革熱病例數上升 佛州報告首例死亡",
       "published": "2026-09-22T08:32:00+00:00",
-      "summary": "美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;epochtimes.com",
+      "summary": "美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
       "sources": [
         {
-          "name": "epochtimes.com",
+          "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zdldCZDJjaUhSbXlhT1dzaktiSUhyY0JucG9GZFlTWElWQldJNW1wcWtNTHVRb0MzV3NQOVBrcWt5ZENBVXFnN0I0dnFnYUJ0MUREV0h3Rm5kT2FfV1F6bNIBZkFVX3lxTE5pTGdRTndXa3JPZmV0Mm5mN2UwUzhyRVlLa0J0TGlYd1AwMW1FV1dCOXlsd25kNTFCU09nT25fUGUta3VuZEl5VlJXLUhwU3Y2TjBuMDFDNzRXQVh5RnNCOVYwY1hNQQ?oc=5"
         }
       ],
@@ -1245,6 +1330,19 @@
       ]
     },
     {
+      "id": "5ebaca11c82f",
+      "title": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力",
+      "published": "2026-09-22T02:00:21+00:00",
+      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;sundaykiss.com媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcDJOSVR0UWRGX2tuQUtQaXN1dzlyZExacHktRG9NZmhfM281R2sxRTE5ME9neXhNVTVlRG8wWE9XS2ROeDMwUDdWcnlHbVZnZmpuM1NXR05xOVRqUzJwYlBNZ2YtZEZET21vamxnVW5YQkVTemV2MzZtLTU5NERhUXU3T2o4ai1MekltYzhNZ2FxOVBwMFZwb2FrN1RjcFF5eXZhYVM4a09pMzRfX245UjJpU2c5OUJ0XzJCanVuamx2akN1azFSZEdIcmIyenVodldzT1FOWS1MVHNZUS1Lb2hkY3BrWElvRGlIUUI4WEFtd1R2ZE9KOVk0QTJWZ1VSOFoxdjRaZXBZVEdDU2Rnd2xHbEpaMS1pUF9xeEZXMmlnaXZvR0RxQWs3OThuMGpfQWxjVHdlbFVJamg5YVpKUmtaZVIyWjNhZkh3U2JOb2UxX3F1dGhEQ1RqZmJEaU5UdW10VHpTeWRneWc4U0VMVGdERjd1dVg3LVFPR1VpQjhRWnNuY0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "dd44992b6d60",
       "title": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」",
       "published": "2026-09-21T10:30:34+00:00",
@@ -1266,6 +1364,19 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vN0pwbkJEakZUTndoTzd0OHlhMklPT1ZLUGZWQWtJZURTMjA4N2p0ZVZodEh6YkVqSEd5S1U1bEFMTXFzOXZPcU02RjhhbE05RElLOVFB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "02ef4c33b067",
+      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床",
+      "published": "2026-09-21T06:37:54+00:00",
+      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;Yahoo新聞馬偕專科醫療團第8度來到斐濟提供海外醫療服務- 駐斐濟臺北商務辦事處Taipei Trade Office in Fiji&nbsp;&nbsp;roc-taiwan.org度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTWVNWTdkcDVIWHhPZ1MwV3E2NENUMlFvcUZabU1SUjlIZVExd3lIOWUzTzBhTVpHTDgwVXRDRFVBZGJXaEFKcEd5M3A5czUtREhSbU0tRTNmb2drTVd4LXhLdlV4Wk1kSEdZMnUwY3lEdGszTGMwTThsVDY5Zi03bE9SYkowbm5Na1NkM2FUNW9mdjBvQTRqWWdnRGg3bmtKbUxNZlgzc0xVenZNcnZDeUpIc0ZySnozNUxINGlxS0dERmF5VXBsTmc5Nk9Nc2lZVzMtOVVzUlNaX1BrMWFHNWc3dUhkSWU3Z1k3T3EtbUo5VUJ1dld0dlRHekZGMjN5RkIyZmZBM0FsaGJZMHR0M2FRbV94akRNeG8xZU5jaW5PeDBaaVdMbV9FX0MwenhuZW1qZ2o3VWVHeU9qNmNyUnhKWEVEOS1oaGRKdllBMmlHMkw2T1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1326,10 +1437,10 @@
       "matched_keywords": []
     },
     {
-      "id": "3593286ea104",
-      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌 - PChome Online 新聞",
+      "id": "68a44e50a8e8",
+      "title": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘「心碎症候群」好發停經女性：不能只防乳癌- 娛樂新聞 - PChome Online 新聞",
       "published": "2026-09-20T15:00:03+00:00",
-      "summary": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘 「心碎症候群」好發停經女性：不能只防乳癌&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "車禍僅腳瘀青！58歲婦人數小時後胸悶喘「心碎症候群」好發停經女性：不能只防乳癌- 娛樂新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "PChome Online 新聞",
@@ -1516,57 +1627,6 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DSkhvOW9TOGFHalFlZm9CNU5lZ19IT2Zyb3Y0ZmwzU09xWlFEU2x4dnh3U0haZFg1OXdFb3NIcGFpN19pNnY2R2xmSTAycXA2cFhJZEpxNk13WjU4Q0k0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "47abbcf584d0",
-      "title": "免疫系統「假警報」成老化推手，解析 cGAS 蛋白如何操控發炎與細胞退化 | 科技新報 - LINE TODAY",
-      "published": "2026-09-19T10:57:24+00:00",
-      "summary": "免疫系統「假警報」成老化推手，解析 cGAS 蛋白如何操控發炎與細胞退化 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HQ2pnemhubmxEYkhKUHpwVm9ZeEJvRGhCVkxPMFRxX3k2bXdrZnpkMjhQRUR5Wmd3MUdxNGZ0QWRSd0FwTXZuc0JkNzNEcm5ZRlZOTi1B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "725323b1d5ef",
-      "title": "HPV不是「不檢點的懲罰」！醫：有性行為就有風險",
-      "published": "2026-09-19T06:37:31+00:00",
-      "summary": "HPV不是「不檢點的懲罰」！醫：有性行為就有風險&nbsp;&nbsp;ctinews.comHPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看&nbsp;&nbsp;民報糖胖成防癌破口醫籲速打疫苗- 國際&nbsp;&nbsp;旺得富理財網無症狀竟帶原 男同打HPV防癌 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;news.m.pchome.com.tw中秋團圓「癌」不入家門！醫籲：HPV男女都要防 疫苗接種、篩檢別忽略&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "ctinews.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYW5TXzNOQnFudlp1MnRZWUlvUERXcGtBdjhCdndkNXlMdWl5RHp3SjdLLUtLWTdDemxHSlVQdkZJVUw4aVY5NFpUSFpVb3RIWUZr?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2a0c35b82617",
-      "title": "流感高峰期｜小朋友易中招？營養師分享8類營養抗流感",
-      "published": "2026-09-19T03:00:00+00:00",
-      "summary": "流感高峰期｜小朋友易中招？營養師分享8類營養抗流感&nbsp;&nbsp;星島頭條兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNcjBYc1NBTFpjNDN5QWdST0t3bjI1RmM4Wk5tLTNuY0VTc2twSk04a3F0WTh3OEFrVVI4UWNWd0lySUg1SU1zLWpweWZTR2g5UWIycVlEY3NJSEk4X1RiSXN5VVd0UERRY1JwQ0dVa2lETkRTRG5iS1JOcUNDU09EWFk2NVFCbzc1clJBQVB2T21YeEstSHRpeG5ieHE1OWtmUDJ1TW5UTXFubUpuQkZqTWNYRk5JZHRlN0FFV2tJQTBvNFFKR3BkM3hTWGJSamQ4amhyR085U281bzdyOTlOLWRmQzhtdHFlZHhxajFrd0JLZVgwRTVxR2I0TG1wQzRLc1lyTnRiU0RrVVJRR2gteEFaT0ZQM0Rhd2JyVVVxakR2UG93a29LckVVbkZ5Y1Q1MUNyRWtBSXNLRHJmdlRkMmgxc29SeG8wNFNuQ2xWbGRjYnVYR3VDQnU5S1ZWZw?oc=5"
         }
       ],
       "matched_keywords": []
