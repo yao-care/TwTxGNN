@@ -1,7 +1,39 @@
 {
-  "generated": "2026-09-26T17:29:29.428193+00:00",
+  "generated": "2026-09-26T20:24:01.884437+00:00",
   "count": 16,
   "news": [
+    {
+      "id": "47cb02d49c39",
+      "title": "肺癌復發後走過10年 名醫分享抗癌生活",
+      "published": "2026-09-26T17:00:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "643aa047e0d5",
       "title": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛",
@@ -137,12 +169,12 @@
       ]
     },
     {
-      "id": "6ad20217913b",
-      "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險",
+      "id": "ea8812c2dccf",
+      "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活",
       "published": "2026-09-25T12:15:00+00:00",
       "sources": [
         {
-          "name": "hk.ulifestyle.com.hk",
+          "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5"
         }
       ],
@@ -398,38 +430,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b5d23f5f3364",
-      "title": "肺癌復發後走過10年 名醫分享抗癌生活",
-      "published": "2026-09-24T21:29:00+00:00",
-      "sources": [
-        {
-          "name": "大紀元時報香港",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRWo5c1F6REVleGw5TDB3dVJZSVVyc3ZFV2hMQVFUc2NzekcwNzB1ZEF1V2JLWXh6dWNfX1FOMzU4VGlpUDNwdGpVSEZjQ2ZVTk1OOFJ2b3FVc3VxSEE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
             }
           ]
         }
@@ -998,12 +998,12 @@
       ]
     },
     {
-      "id": "4f156921df9c",
-      "title": "憂鬱可能讓大腦提早老化，研究：長期負面心理與認知退化有關 - TechNews 科技新報",
+      "id": "44633c744fc1",
+      "title": "憂鬱可能讓大腦提早老化，研究：長期負面心理與認知退化有關",
       "published": "2026-09-22T03:28:29+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
+          "name": "technews.tw",
           "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1dvMDhOdmUyVjNkcUh4cEd1TVdITlQ1c2ZSZkdXN2doLVFoeE45Wl96Mlo4LWFDREVBaHpMNjBXUFZFNkVXRXZaaWRKS3ZpcEtVSkpTajQ4dThwUmJTdVRxRVUtdVVBN0ZYSmQyaG05RFBYSWE0NWFjTjZjeFQxampYVVhRUWRNRGt3UHFmcS1ZdXFLOERZXzhsU2hLY3hBWnZxTU01Smc3SUx0Q3cwYzBtS3VVdW1icWJUeVMtUU1ra0U3eDRXWHhEUjlyS0E4aWI0NXB2SQ?oc=5"
         }
       ],
@@ -1033,12 +1033,12 @@
       ]
     },
     {
-      "id": "372ab8efc7ff",
+      "id": "857afca16cc1",
       "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
       "published": "2026-09-21T03:00:00+00:00",
       "sources": [
         {
-          "name": "uho.com.tw",
+          "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
