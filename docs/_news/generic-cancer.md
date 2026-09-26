@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,21 +75,13 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
 
 2026-09-25
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
-
----
-
-### [疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5)
-
-2026-09-24
-
-來源: [元氣網](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5)
 
 ---
 

@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-25T23:42:08.121316+00:00",
-  "total_count": 45,
+  "last_updated": "2026-09-26T02:40:01.135389+00:00",
+  "total_count": 44,
   "matched_count": 16,
   "news": [
+    {
+      "id": "ea0436989d5e",
+      "title": "AI 預測的病毒蛋白長什麼樣？AlphaFold 資料庫免費開放 2,800 多種病毒結構",
+      "published": "2026-09-25T17:10:09+00:00",
+      "summary": "AI 預測的病毒蛋白長什麼樣？AlphaFold 資料庫免費開放 2,800 多種病毒結構&nbsp;&nbsp;明日科學",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zeHpvMkJjMlZVelBTZVBoRGV3RUYtUjlya3pqLU93dXdZUkdETW9WZ09WM1h0SVNGX3dUdlhfN2JqZUQ5bDVLVzdGSWVjX0dwS0M5eE5kRFhGNFk1Njk4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ea8812c2dccf",
       "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活",
@@ -32,7 +45,7 @@
       "id": "11109d86955e",
       "title": "大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌 - Martin Cid Magazine",
       "published": "2026-09-25T10:53:13+00:00",
-      "summary": "大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際&nbsp;&nbsp;工商時報美國史丹福大學研究揭示：人類大腦由兩個獨立演化的器官組成&nbsp;&nbsp;Singtaousa大腦其實是兩個器官？震撼發現：人腦由兩個獨立神經系統拼裝而成&nbsp;&nbsp;TechNews 科技新報研究稱大腦實為兩器官 有望助攻漸凍症研究&nbsp;&nbsp;exmoo.com",
+      "summary": "大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine驚人研究！大腦竟是「兩個器官」 疾病治療有望獲得突破- 國際&nbsp;&nbsp;工商時報美國史丹福大學研究揭示：人類大腦由兩個獨立演化的器官組成&nbsp;&nbsp;Singtaousa大腦其實是兩個器官？震撼發現：人腦由兩個獨立神經系統拼裝而成&nbsp;&nbsp;TechNews 科技新報研究稱大腦實為兩器官 有望助攻漸凍症研究&nbsp;&nbsp;澳門力報",
       "sources": [
         {
           "name": "Martin Cid Magazine",
@@ -58,7 +71,7 @@
       "id": "ae9cf2355fad",
       "title": "男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失",
       "published": "2026-09-25T09:20:09+00:00",
-      "summary": "男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失&nbsp;&nbsp;Yahoo新聞男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失 | 民視新聞網&nbsp;&nbsp;LINE TODAY男大腸爆長20顆息肉 醫教吃1物 第5次腸鏡「零檢出」&nbsp;&nbsp;中時新聞網腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET男子大腸猛長20顆息肉 醫教「1飲食法」終於零檢出&nbsp;&nbsp;中天新聞網",
+      "summary": "男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失&nbsp;&nbsp;Yahoo新聞男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失 | 民視新聞網&nbsp;&nbsp;LINE TODAY男大腸爆長20顆息肉 醫教吃1物 第5次腸鏡「零檢出」&nbsp;&nbsp;中時新聞網腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET男子大腸猛長20顆息肉 醫教「1飲食法」終於零檢出&nbsp;&nbsp;ctinews.com",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -114,6 +127,54 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "af3c3e101d48",
+      "title": "大腸癌｜大腸癌名醫愛食紅肉靠1招化解「致癌危機」 防癌養生不戒口 惟絕不碰1物",
+      "published": "2026-09-25T05:26:34+00:00",
+      "summary": "大腸癌｜大腸癌名醫愛食紅肉靠1招化解「致癌危機」 防癌養生不戒口 惟絕不碰1物&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNcDNGQXlONkR1MjdkWTZvTks2RHIxaDg1TUhwaTdlMGlqRVdUNFVtY0U1VjFnRzZkSHFaQVhHWnN2ekNYbmxpR2VFMXd5MWdrUFNIYkxHT1ZUOTZvNFotTVdGcVQzbVV1MXZxOGptUDhlNVFscGRsZW5KNG9NUTg2bHoxbjFHbDNwMW1SeGk2TnMxS3JMNlZ3VXBxN0V1RkJqb1M2VmxNZngzTVYyd0VoWEY1RE5vZjd4dkRGRG42ZUpTTVc0cWkwSEdlWUVDNzRNNDN6VUIyY0hRU21NVFU1UjFwcG01OWR0NV9GZWdzTW5WQWE4RVFwLXQtWDVXS0ktS1BER3BEbkNKbzJjcU5CeG1oU0xQWTJBYWR6ZjR6M2RSZkd5bXowLWNpYWswRHhsdXJjVTJXS2FmX1d1WVJ3Nl8zbEdFUXhEcl8tcjlLc192ZHpBSldoRFVDdnY5MmJSQmpxZDJBVV81NHcyWG1KWUgtbnBUMmJxN1djQ1VhOUt4T3pCYUhldVlHSUdFMlR0T250d1pMYmk0alFYZTMxTDItYktURERqNW9uMDdSbFVFY2duSHFuVzJZSzlSZk9UZXNqZlVqZS1YeFRVSEp5Q3JQeW8wUExnd3QwbXZWN2s5Tmh0b0tYN280dUpuWEEzYmdQUkhoRUllUi00UFhnMTVJc0pHcUZ0NVQyVXpsZTk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "fb9d0a3b39ae",
@@ -402,232 +463,14 @@
       "id": "1aff82f6a9f0",
       "title": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」",
       "published": "2026-09-24T09:40:57+00:00",
-      "summary": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」&nbsp;&nbsp;元氣網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;三立新聞網SETN.com新冠疫苗還要不要打？疫苗會不會增加癌症、心血管疾病風險？流感疫苗打了，是不是就不用再接種新冠疫苗？&nbsp;&nbsp;PChome Online 新聞打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
+      "summary": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」&nbsp;&nbsp;元氣網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;三立新聞網SETN.com打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
       "sources": [
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "3d7662132c46",
@@ -877,27 +720,14 @@
       ]
     },
     {
-      "id": "908403a3cc26",
+      "id": "26e47961146b",
       "title": "沒頻尿也沒排尿困難 46歲男罹患早期攝護腺癌 健檢做PSA檢查救他一命",
       "published": "2026-09-24T05:41:44+00:00",
-      "summary": "沒頻尿也沒排尿困難 46歲男罹患早期攝護腺癌 健檢做PSA檢查救他一命&nbsp;&nbsp;udn.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "沒頻尿也沒排尿困難 46歲男罹患早期攝護腺癌 健檢做PSA檢查救他一命&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "udn.com",
+          "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sbWZFclZHM216SDNEWDhkYUFlcTgybkZkSXdoVjVtTkhQOW1FZFRHZjZ5OFpSRThwcGNkdlViM0tVODQ0N0YzZ0lTVTVuSVFhZWQ1ekM2b2VwUFF1XzlmQUIxZXViNEMwQWtqTmZuS3JiUjlsbUV6dWhQd9IBVkFVX3lxTE5qM2pwdGxXbVFMTC14aXFWaHlPRDVTeFU1dkZPeG5CT1pwaXZBcXAwYm4yN0V4SXhxaDdiVVF5ZDFvZ1Znd1pxVURJMllINU1SRjMxeHR3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "506603afeb7f",
-      "title": "自曝「喜歡吃紅肉」台大醫教3護腸方式 唯一不碰：含糖飲料！",
-      "published": "2026-09-24T04:39:31+00:00",
-      "summary": "自曝「喜歡吃紅肉」台大醫教3護腸方式 唯一不碰：含糖飲料！&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZmFCV2tLX0xQNi0xamc0UFZyb0FBZFYzQlRtWjB0MTE1cmo1bHQ5SzJZOW9VZVBVemJFS3lHZUUyNUpRbFo3d1dpNkdUZzlYa3BZcnM3WDMzaEIzbHVmS09yeF9HNnllUHFKTUU0U0NoalRGdlhDdGxycWZGRU9rbXVjdndyZWJNdjUtN1hPcWlzb0FHZTlGYm9ua3ItWU82WG1EOVl2MFVzdjA2bkhHLV9xdWdsT0NFQVpNbEw1YXRqOC1DWjZpZld2N2lEMUgtVWNrUkNQc3J0YkdEeHlxNGppTjJuei0zdGtmbFJ5Z2Z0TnQxSU9RRGViTjdMQmEwY1M3amEwckQtdWNWaFFYLUFUWDNPaUc5M3lrLUZYYU5qMGtWNGtXQjR6YndsaW1tQ0E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -956,13 +786,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1d226c246433",
+      "id": "b2046246645e",
       "title": "絕經後大腦老得更快？新研究發現衰老信號",
       "published": "2026-09-23T14:40:00+00:00",
-      "summary": "絕經後大腦老得更快？新研究發現衰老信號&nbsp;&nbsp;大纪元",
+      "summary": "絕經後大腦老得更快？新研究發現衰老信號&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbEs3ODE2dFMtZ2xLVzdHcXJmdHB1ZVQxTDJfODBNS1lJV01rUU1yMGhrT1dRcGhOc3Z5Ymp3R0NmcmgxYUFhWFJ1TmlGc0dZU3dBSUN5YmpabWhGXzM4dtIBZkFVX3lxTFA2V01odGNJTDQ4N3k5MGNwbnZjdERmMjhtVGZkRHQ2VTVqeldHZHE1bHYzSVp5S09PS2QtTmN5bF82WS1oemxPeEZOT3ROWWdMMlJ2THhqd2xMYlJxYnhtV2Vibk9hQQ?oc=5"
         }
       ],
@@ -1092,14 +922,27 @@
       ]
     },
     {
-      "id": "3002149c6708",
-      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！ - 健康新聞 - PChome Online 新聞 - PChome Online 新聞",
-      "published": "2026-09-23T01:00:00+00:00",
-      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！ - 健康新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "cd3411ee3aca",
+      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床",
+      "published": "2026-09-23T01:30:00+00:00",
+      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVy01WEhGSDlhUXl4Q0dZMWRDYkJtekphdmpaSEZXLTJveVR1ckRMellXT0FIVXE3TjBSQ0VHZnlmWGFJTFNzb3V5YXNGdzFVYmt5aTlBZlBjMDQ5VHF4endLS29kM2s4QXk0ZFh5OHNVUlBfZ25IcGxseDZHNlFCVkdGV21GQmVxTE9rejd5cXBsVEU?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taHhXT0xYMDRMVUhJN2Z0Q01iMVpvZ25QamNTYTVycUtTQ0N2Zm5US1ItU1Vhc09EOG5VSENacnJXZWhJMjdDVFdxdDhtQ0t2c1NnWkpVbnJnVGJVUjZKVw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "328ae4b51c48",
+      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！",
+      "published": "2026-09-23T01:11:28+00:00",
+      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObFgxWW9TaHNtbUNyMmdtQ1Vhbi1jSEtnb0xBTUlxSl81bVdsZzAtMzY3UERnWU9yb01jNmpQYUROMXVsUFVEd2FzdGt3UWRkRmo4dEVTZG5jMnprVjNYMmcydFp5ZFlLVnFGQS1lWkpRV2M0OUNaakVPX1FEWWtXWlJFYmpINGdsbWE1eW44UkQ4SXZpdkdnMVloRXJURmdmanlKX0Rtc0lDOXM5UC1SVk1VOHI1VWpUUTc4ZndvWmppNEFoQ01uNU5FaTcwUFZEeGg1Qjc2emEzSXhieXRSR1pna2wtdkNKTzJfVWJ0emlLblhVNDgwa2tNZ0cwUnpDUmJXQVNvTkRVWUFYS1g2MmczaktmVXM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1144,13 +987,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7e4837fdfd94",
+      "id": "aa879a622995",
       "title": "美國登革熱病例數上升 佛州報告首例死亡",
       "published": "2026-09-22T08:32:00+00:00",
-      "summary": "美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
+      "summary": "美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zdldCZDJjaUhSbXlhT1dzaktiSUhyY0JucG9GZFlTWElWQldJNW1wcWtNTHVRb0MzV3NQOVBrcWt5ZENBVXFnN0I0dnFnYUJ0MUREV0h3Rm5kT2FfV1F6bNIBZkFVX3lxTE5pTGdRTndXa3JPZmV0Mm5mN2UwUzhyRVlLa0J0TGlYd1AwMW1FV1dCOXlsd25kNTFCU09nT25fUGUta3VuZEl5VlJXLUhwU3Y2TjBuMDFDNzRXQVh5RnNCOVYwY1hNQQ?oc=5"
         }
       ],
@@ -1428,19 +1271,6 @@
       "matched_keywords": []
     },
     {
-      "id": "02ef4c33b067",
-      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床",
-      "published": "2026-09-21T06:37:54+00:00",
-      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;Yahoo新聞馬偕專科醫療團第8度來到斐濟提供海外醫療服務- 駐斐濟臺北商務辦事處Taipei Trade Office in Fiji&nbsp;&nbsp;roc-taiwan.org度假天堂淪陷！傳「這國」愛滋狂飆16倍 官方急發緊急狀態「急做4事」&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTWVNWTdkcDVIWHhPZ1MwV3E2NENUMlFvcUZabU1SUjlIZVExd3lIOWUzTzBhTVpHTDgwVXRDRFVBZGJXaEFKcEd5M3A5czUtREhSbU0tRTNmb2drTVd4LXhLdlV4Wk1kSEdZMnUwY3lEdGszTGMwTThsVDY5Zi03bE9SYkowbm5Na1NkM2FUNW9mdjBvQTRqWWdnRGg3bmtKbUxNZlgzc0xVenZNcnZDeUpIc0ZySnozNUxINGlxS0dERmF5VXBsTmc5Nk9Nc2lZVzMtOVVzUlNaX1BrMWFHNWc3dUhkSWU3Z1k3T3EtbUo5VUJ1dld0dlRHekZGMjN5RkIyZmZBM0FsaGJZMHR0M2FRbV94akRNeG8xZU5jaW5PeDBaaVdMbV9FX0MwenhuZW1qZ2o3VWVHeU9qNmNyUnhKWEVEOS1oaGRKdllBMmlHMkw2T1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7d856381f6b3",
       "title": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】",
       "published": "2026-09-21T05:28:48+00:00",
@@ -1704,13 +1534,13 @@
       "matched_keywords": []
     },
     {
-      "id": "3b6fad502f4f",
+      "id": "725323b1d5ef",
       "title": "HPV不是「不檢點的懲罰」！醫：有性行為就有風險",
       "published": "2026-09-19T06:37:31+00:00",
-      "summary": "HPV不是「不檢點的懲罰」！醫：有性行為就有風險&nbsp;&nbsp;中天新聞網HPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看&nbsp;&nbsp;民報糖胖成防癌破口醫籲速打疫苗- 國際&nbsp;&nbsp;旺得富理財網無症狀竟帶原 男同打HPV防癌 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;PChome Online 新聞中秋團圓「癌」不入家門！醫籲：HPV男女都要防 疫苗接種、篩檢別忽略&nbsp;&nbsp;健康醫療網",
+      "summary": "HPV不是「不檢點的懲罰」！醫：有性行為就有風險&nbsp;&nbsp;ctinews.comHPV陽性≠子宮頸癌！搞懂兩者差異 公費抹片檢查資格一次看&nbsp;&nbsp;民報糖胖成防癌破口醫籲速打疫苗- 國際&nbsp;&nbsp;旺得富理財網無症狀竟帶原 男同打HPV防癌 - 生活新聞 - PChome Online 新聞&nbsp;&nbsp;news.m.pchome.com.tw中秋團圓「癌」不入家門！醫籲：HPV男女都要防 疫苗接種、篩檢別忽略&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "中天新聞網",
+          "name": "ctinews.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYW5TXzNOQnFudlp1MnRZWUlvUERXcGtBdjhCdndkNXlMdWl5RHp3SjdLLUtLWTdDemxHSlVQdkZJVUw4aVY5NFpUSFpVb3RIWUZr?oc=5"
         }
       ],
@@ -1737,32 +1567,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNcjBYc1NBTFpjNDN5QWdST0t3bjI1RmM4Wk5tLTNuY0VTc2twSk04a3F0WTh3OEFrVVI4UWNWd0lySUg1SU1zLWpweWZTR2g5UWIycVlEY3NJSEk4X1RiSXN5VVd0UERRY1JwQ0dVa2lETkRTRG5iS1JOcUNDU09EWFk2NVFCbzc1clJBQVB2T21YeEstSHRpeG5ieHE1OWtmUDJ1TW5UTXFubUpuQkZqTWNYRk5JZHRlN0FFV2tJQTBvNFFKR3BkM3hTWGJSamQ4amhyR085U281bzdyOTlOLWRmQzhtdHFlZHhxajFrd0JLZVgwRTVxR2I0TG1wQzRLc1lyTnRiU0RrVVJRR2gteEFaT0ZQM0Rhd2JyVVVxakR2UG93a29LckVVbkZ5Y1Q1MUNyRWtBSXNLRHJmdlRkMmgxc29SeG8wNFNuQ2xWbGRjYnVYR3VDQnU5S1ZWZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "469565aaf88c",
-      "title": "熬夜竟致肺纖維化 3方法養出健康好肺 多吃蔬菜/不超過12點入睡",
-      "published": "2026-09-19T02:00:59+00:00",
-      "summary": "熬夜竟致肺纖維化 3方法養出健康好肺 多吃蔬菜/不超過12點入睡&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPRWRCcmZNb3NYaWVreGFYNkZ4X2tMQzlSTm51UnloRVdDMERQN1U3bXV2NVAzZy1IbTU0WlVtcVZkUjBqaEZ0SV9tXzlTOGxhaVd0U245NkpEYmE2OVc0TU5xNnNkSmFyb2s5NW11Qk9xdDcwTlA2UFoyZEllaDdTb0puNEtUd3g2aFBDN2pXeE5Nb0k2Rk5Sa24xV0JMZjJsbG9MN0xVTVUwTWx0b1FrXzhJYl80aGlYRUgwQ09ESW1RWWFlVEI3U0VDSm5PeG9SQ04zbDdCbjV3QVg0MVlUOWI2eHlQM2FLaWJQanV4Z2ZoaVV4RmhJRm55dS1jZFVPclRDSXFSZ0VUMWVvN2gtSTU0Z1B1dFF2TldodVBhZEJHbk4wcUpOMmVhWFlrc0t3TG9fX2xRR2V1QTFZdTBWRURJaS00Y0VScndtemNSSnNNSnhGd1duTHhGOVZfTnZWWktGNzRFY1A1WG5ReFhoWnRhZzgzQ3dZbzVudVRZN1YtVUFQM2VrQVp0d05xN05GSGhBODhlNFlPb1lPVGxMZmtncw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "338045892a88",
-      "title": "天天喝牛奶竟增加攝護腺負擔？研究揭乳製品關聯 醫提醒更該注意這些事",
-      "published": "2026-09-19T00:40:54+00:00",
-      "summary": "天天喝牛奶竟增加攝護腺負擔？研究揭乳製品關聯 醫提醒更該注意這些事&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ycXNkNXhYVDFhSGkxWWVnWWlfUTBvRTlHeGtqWVYwbG1mT1ZhM3lYVW1xeXlCSnZ3aktZX3huMGJaNDQ3TVU4Qlc1ejhaazVDeDh4emtleUI1UDZO0gFiQVVfeXFMTU83YVJycmxsTTZWeUhrZEpEc202OFRVYzNMUkVfOFhBcFhEWXRBWmVxcHlXLU5PbzlPOEEzTXZDc0xFWWxPek9mbW4tVDQ2dWlaRUFhQzRlNEhNR1poMWcyV3c?oc=5"
         }
       ],
       "matched_keywords": []

@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [男大腸狂冒20顆↑息肉！醫教「改吃1物」全消失](https://news.google.com/rss/articles/CBMinAJBVV95cUxNdzV4Z0xfRXNaeEhWdXQ2eEE5S2NDblZTaGJSZWJ0NUxxY3kzTzIzTG9HRXZ1VzZhUEpVdVdCckNTSm1SOG9kOVc0ZzVHV0pEZUgtd21vWWlsNVBDRGVGclVIeFNucDJSd20wb2hxZmRPcmpiWG9VQWhBUFFDeWdIRERHUEQzLXZSZlBPYXc2XzNYbGVDSFlHN3BXMk41UWdoZlBoWWI4bU9uUVhUTV9tbG1CWmh0VUkxdVV3clB2MWF1N3A3WTU0RTNIQkNvWkl3N19TZWMzYlF6aGF3eTBjS0NOb3JXMV9qd0ZFTGotUnpBdDVBaXhINW9fSlgtYWhKTnVoWGRGaUE1c1dlT2JDRjZQY1huQ1VFUnpnWg?oc=5)
 
 2026-09-25
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMinAJBVV95cUxNdzV4Z0xfRXNaeEhWdXQ2eEE5S2NDblZTaGJSZWJ0NUxxY3kzTzIzTG9HRXZ1VzZhUEpVdVdCckNTSm1SOG9kOVc0ZzVHV0pEZUgtd21vWWlsNVBDRGVGclVIeFNucDJSd20wb2hxZmRPcmpiWG9VQWhBUFFDeWdIRERHUEQzLXZSZlBPYXc2XzNYbGVDSFlHN3BXMk41UWdoZlBoWWI4bU9uUVhUTV9tbG1CWmh0VUkxdVV3clB2MWF1N3A3WTU0RTNIQkNvWkl3N19TZWMzYlF6aGF3eTBjS0NOb3JXMV9qd0ZFTGotUnpBdDVBaXhINW9fSlgtYWhKTnVoWGRGaUE1c1dlT2JDRjZQY1huQ1VFUnpnWg?oc=5)
+
+---
+
+### [大腸癌｜大腸癌名醫愛食紅肉靠1招化解「致癌危機」 防癌養生不戒口 惟絕不碰1物](https://news.google.com/rss/articles/CBMikARBVV95cUxNcDNGQXlONkR1MjdkWTZvTks2RHIxaDg1TUhwaTdlMGlqRVdUNFVtY0U1VjFnRzZkSHFaQVhHWnN2ekNYbmxpR2VFMXd5MWdrUFNIYkxHT1ZUOTZvNFotTVdGcVQzbVV1MXZxOGptUDhlNVFscGRsZW5KNG9NUTg2bHoxbjFHbDNwMW1SeGk2TnMxS3JMNlZ3VXBxN0V1RkJqb1M2VmxNZngzTVYyd0VoWEY1RE5vZjd4dkRGRG42ZUpTTVc0cWkwSEdlWUVDNzRNNDN6VUIyY0hRU21NVFU1UjFwcG01OWR0NV9GZWdzTW5WQWE4RVFwLXQtWDVXS0ktS1BER3BEbkNKbzJjcU5CeG1oU0xQWTJBYWR6ZjR6M2RSZkd5bXowLWNpYWswRHhsdXJjVTJXS2FmX1d1WVJ3Nl8zbEdFUXhEcl8tcjlLc192ZHpBSldoRFVDdnY5MmJSQmpxZDJBVV81NHcyWG1KWUgtbnBUMmJxN1djQ1VhOUt4T3pCYUhldVlHSUdFMlR0T250d1pMYmk0alFYZTMxTDItYktURERqNW9uMDdSbFVFY2duSHFuVzJZSzlSZk9UZXNqZlVqZS1YeFRVSEp5Q3JQeW8wUExnd3QwbXZWN2s5Tmh0b0tYN280dUpuWEEzYmdQUkhoRUllUi00UFhnMTVJc0pHcUZ0NVQyVXpsZTk?oc=5)
+
+2026-09-25
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikARBVV95cUxNcDNGQXlONkR1MjdkWTZvTks2RHIxaDg1TUhwaTdlMGlqRVdUNFVtY0U1VjFnRzZkSHFaQVhHWnN2ekNYbmxpR2VFMXd5MWdrUFNIYkxHT1ZUOTZvNFotTVdGcVQzbVV1MXZxOGptUDhlNVFscGRsZW5KNG9NUTg2bHoxbjFHbDNwMW1SeGk2TnMxS3JMNlZ3VXBxN0V1RkJqb1M2VmxNZngzTVYyd0VoWEY1RE5vZjd4dkRGRG42ZUpTTVc0cWkwSEdlWUVDNzRNNDN6VUIyY0hRU21NVFU1UjFwcG01OWR0NV9GZWdzTW5WQWE4RVFwLXQtWDVXS0ktS1BER3BEbkNKbzJjcU5CeG1oU0xQWTJBYWR6ZjR6M2RSZkd5bXowLWNpYWswRHhsdXJjVTJXS2FmX1d1WVJ3Nl8zbEdFUXhEcl8tcjlLc192ZHpBSldoRFVDdnY5MmJSQmpxZDJBVV81NHcyWG1KWUgtbnBUMmJxN1djQ1VhOUt4T3pCYUhldVlHSUdFMlR0T250d1pMYmk0alFYZTMxTDItYktURERqNW9uMDdSbFVFY2duSHFuVzJZSzlSZk9UZXNqZlVqZS1YeFRVSEp5Q3JQeW8wUExnd3QwbXZWN2s5Tmh0b0tYN280dUpuWEEzYmdQUkhoRUllUi00UFhnMTVJc0pHcUZ0NVQyVXpsZTk?oc=5)
 
 ---
 

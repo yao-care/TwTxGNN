@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T23:42:08.149137+00:00",
+  "generated": "2026-09-26T02:40:01.187734+00:00",
   "count": 16,
   "news": [
     {
@@ -34,6 +34,53 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdzV4Z0xfRXNaeEhWdXQ2eEE5S2NDblZTaGJSZWJ0NUxxY3kzTzIzTG9HRXZ1VzZhUEpVdVdCckNTSm1SOG9kOVc0ZzVHV0pEZUgtd21vWWlsNVBDRGVGclVIeFNucDJSd20wb2hxZmRPcmpiWG9VQWhBUFFDeWdIRERHUEQzLXZSZlBPYXc2XzNYbGVDSFlHN3BXMk41UWdoZlBoWWI4bU9uUVhUTV9tbG1CWmh0VUkxdVV3clB2MWF1N3A3WTU0RTNIQkNvWkl3N19TZWMzYlF6aGF3eTBjS0NOb3JXMV9qd0ZFTGotUnpBdDVBaXhINW9fSlgtYWhKTnVoWGRGaUE1c1dlT2JDRjZQY1huQ1VFUnpnWg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af3c3e101d48",
+      "title": "大腸癌｜大腸癌名醫愛食紅肉靠1招化解「致癌危機」 防癌養生不戒口 惟絕不碰1物",
+      "published": "2026-09-25T05:26:34+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNcDNGQXlONkR1MjdkWTZvTks2RHIxaDg1TUhwaTdlMGlqRVdUNFVtY0U1VjFnRzZkSHFaQVhHWnN2ekNYbmxpR2VFMXd5MWdrUFNIYkxHT1ZUOTZvNFotTVdGcVQzbVV1MXZxOGptUDhlNVFscGRsZW5KNG9NUTg2bHoxbjFHbDNwMW1SeGk2TnMxS3JMNlZ3VXBxN0V1RkJqb1M2VmxNZngzTVYyd0VoWEY1RE5vZjd4dkRGRG42ZUpTTVc0cWkwSEdlWUVDNzRNNDN6VUIyY0hRU21NVFU1UjFwcG01OWR0NV9GZWdzTW5WQWE4RVFwLXQtWDVXS0ktS1BER3BEbkNKbzJjcU5CeG1oU0xQWTJBYWR6ZjR6M2RSZkd5bXowLWNpYWswRHhsdXJjVTJXS2FmX1d1WVJ3Nl8zbEdFUXhEcl8tcjlLc192ZHpBSldoRFVDdnY5MmJSQmpxZDJBVV81NHcyWG1KWUgtbnBUMmJxN1djQ1VhOUt4T3pCYUhldVlHSUdFMlR0T250d1pMYmk0alFYZTMxTDItYktURERqNW9uMDdSbFVFY2duSHFuVzJZSzlSZk9UZXNqZlVqZS1YeFRVSEp5Q3JQeW8wUExnd3QwbXZWN2s5Tmh0b0tYN280dUpuWEEzYmdQUkhoRUllUi00UFhnMTVJc0pHcUZ0NVQyVXpsZTk?oc=5"
         }
       ],
       "keywords": [
@@ -311,236 +358,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1aff82f6a9f0",
-      "title": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」",
-      "published": "2026-09-24T09:40:57+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzY0VnBOcnp3LXpFc19NWHBRN0tMWG1KMUlpa0paQnBkZGJGRU1TXzJIQTNWYUw0YnNvcjdOVzNYSkp3V2NPNVliX0ZaNWNYNjY4TVZUb1BSNVBOUXhKZlRqS0dROEZTX1QydWRWY0pRUnJodE03VkVrMWNxeUpudWRONHfSAWRBVV95cUxOOEFXRWpIOThNRUJfdUlsdkh5d28xZkx5dldWVjVhbXItTm1ZQS01M1p5TENZUVpkUXR4SWJhOGgyVm9aaDl2QUx6X05yeWdmOHFtZ3VTa0dtWjI4WFM2RGZENS1L?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
             }
           ]
         }
@@ -1350,12 +1167,12 @@
       ]
     },
     {
-      "id": "3b6fad502f4f",
+      "id": "725323b1d5ef",
       "title": "HPV不是「不檢點的懲罰」！醫：有性行為就有風險",
       "published": "2026-09-19T06:37:31+00:00",
       "sources": [
         {
-          "name": "中天新聞網",
+          "name": "ctinews.com",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FYW5TXzNOQnFudlp1MnRZWUlvUERXcGtBdjhCdndkNXlMdWl5RHp3SjdLLUtLWTdDemxHSlVQdkZJVUw4aVY5NFpUSFpVb3RIWUZr?oc=5"
         }
       ],
