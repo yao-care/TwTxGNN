@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,7 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
 
@@ -85,19 +85,11 @@ permalink: /news/generic-cancer/
 
 ---
 
-### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
+### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
-2026-09-24
+2026-09-21
 
-來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
-
----
-
-### [癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%](https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVXZwdnZtSjd1Wk5UdWZEdk0tNnd1bjJDWmxNQ0txMXR2Xy1LUmNySF9sUlhVN204Z25hSXpBR0hQYVllc0hnSm12ZW03MDhxZlc5SU1ycXRaZXRPQkRSSXkzUU13cS1hZm1lV1plbGxlNnZ3T3ZZcF9GenJ1QlhOeVdhdnd3VDgyTm1UYzBMVFYyVWlBU2ZvQzZ3bUdtTEhFaDRndXotS1dBN296ZElZVGtMUmRHY2t3eG9yb1poaC1ZTWZ6ci03VTZ4R2JYVkZMdVhpdUVVWUxRT2w0RzN5akFoTEFycmN2QkhCd1ZlMUdXUHI2R2hQSVoxQjhtcHVmb1J0a2NMVGtUbjFRQ3FyWFQwcmxMTGxhRTVGRnBNbU5nTURUNEMtWi1UN0JzSUlHVjVwNnhVRWV1bjYtcjBrTzRDdUF1bjdOdlE1b2w5WWtMTS11a21Tb0VPNTRIQ2tTczN1UHEwSUZlTDRvdlMxUU9CbDJZNWlqR3lTWUFrN0lLMFg2VDhWZ3FWTjFJMjQwcjVtdnc3dEUxU1JxbUdMSW1fc1RtWTRqcXFCWFV4OFNZV3l3U0NJUHA5WnowRl8yOUt4N1Btdk5sZDBONVVmbGdGbjY3Y0pDT2pWVXIyLVZGV1lYRUlTNFJEV1lYNXc3SkRfZDd5VVhQMUhvNXNsX3BEQkNHZXI3cnFMZXFDbzY4ZWZvYUJYcWQ0M3NMOVYtMVdkUHlVZnBISEVqcHBqSXB2dDQzNnN1NFpOM3FZc3VMM0JraUZVVU52SmUyUFN6VXVBaGFibEFsaFVmRHlrWmZlMExYSGViZnc?oc=5)
-
-2026-09-22
-
-來源: [topick.hket.com](https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVXZwdnZtSjd1Wk5UdWZEdk0tNnd1bjJDWmxNQ0txMXR2Xy1LUmNySF9sUlhVN204Z25hSXpBR0hQYVllc0hnSm12ZW03MDhxZlc5SU1ycXRaZXRPQkRSSXkzUU13cS1hZm1lV1plbGxlNnZ3T3ZZcF9GenJ1QlhOeVdhdnd3VDgyTm1UYzBMVFYyVWlBU2ZvQzZ3bUdtTEhFaDRndXotS1dBN296ZElZVGtMUmRHY2t3eG9yb1poaC1ZTWZ6ci03VTZ4R2JYVkZMdVhpdUVVWUxRT2w0RzN5akFoTEFycmN2QkhCd1ZlMUdXUHI2R2hQSVoxQjhtcHVmb1J0a2NMVGtUbjFRQ3FyWFQwcmxMTGxhRTVGRnBNbU5nTURUNEMtWi1UN0JzSUlHVjVwNnhVRWV1bjYtcjBrTzRDdUF1bjdOdlE1b2w5WWtMTS11a21Tb0VPNTRIQ2tTczN1UHEwSUZlTDRvdlMxUU9CbDJZNWlqR3lTWUFrN0lLMFg2VDhWZ3FWTjFJMjQwcjVtdnc3dEUxU1JxbUdMSW1fc1RtWTRqcXFCWFV4OFNZV3l3U0NJUHA5WnowRl8yOUt4N1Btdk5sZDBONVVmbGdGbjY3Y0pDT2pWVXIyLVZGV1lYRUlTNFJEV1lYNXc3SkRfZDd5VVhQMUhvNXNsX3BEQkNHZXI3cnFMZXFDbzY4ZWZvYUJYcWQ0M3NMOVYtMVdkUHlVZnBISEVqcHBqSXB2dDQzNnN1NFpOM3FZc3VMM0JraUZVVU52SmUyUFN6VXVBaGFibEFsaFVmRHlrWmZlMExYSGViZnc?oc=5)
+來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

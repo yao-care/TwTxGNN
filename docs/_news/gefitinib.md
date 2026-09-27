@@ -43,19 +43,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（6 則）
 
+### [停經後採荷爾蒙療法 失智風險降23%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+
+2026-09-27 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">停經</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+
+---
+
 ### [憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5)
 
 2026-09-27 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5)
-
----
-
-### [「听不到」是失智推手 医：听损恐酿失智、跌倒、忧郁](https://news.google.com/rss/articles/CBMiUEFVX3lxTE96OXBfNS1WQ2gydVFoemRLTll0TW5sSmxYSDBCUkxvZG9tYUh6NXp4OXJ4azNfX09nTEF3M1J6RjdJTFAtVmdrRlYzUUpEYXhZ?oc=5)
-
-2026-09-26 <span class="news-indication-tag">失智</span>
-
-來源: [soundofhope.org](https://news.google.com/rss/articles/CBMiUEFVX3lxTE96OXBfNS1WQ2gydVFoemRLTll0TW5sSmxYSDBCUkxvZG9tYUh6NXp4OXJ4azNfX09nTEF3M1J6RjdJTFAtVmdrRlYzUUpEYXhZ?oc=5)
+來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5)
 
 ---
 
@@ -67,27 +67,27 @@ permalink: /news/gefitinib/
 
 ---
 
-### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
-
-2026-09-24 <span class="news-indication-tag">癌症</span>
-
-來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
-
----
-
 ### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 2026-09-24 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
+來源: [health.udn.com](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 ---
 
-### [癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%](https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVXZwdnZtSjd1Wk5UdWZEdk0tNnd1bjJDWmxNQ0txMXR2Xy1LUmNySF9sUlhVN204Z25hSXpBR0hQYVllc0hnSm12ZW03MDhxZlc5SU1ycXRaZXRPQkRSSXkzUU13cS1hZm1lV1plbGxlNnZ3T3ZZcF9GenJ1QlhOeVdhdnd3VDgyTm1UYzBMVFYyVWlBU2ZvQzZ3bUdtTEhFaDRndXotS1dBN296ZElZVGtMUmRHY2t3eG9yb1poaC1ZTWZ6ci03VTZ4R2JYVkZMdVhpdUVVWUxRT2w0RzN5akFoTEFycmN2QkhCd1ZlMUdXUHI2R2hQSVoxQjhtcHVmb1J0a2NMVGtUbjFRQ3FyWFQwcmxMTGxhRTVGRnBNbU5nTURUNEMtWi1UN0JzSUlHVjVwNnhVRWV1bjYtcjBrTzRDdUF1bjdOdlE1b2w5WWtMTS11a21Tb0VPNTRIQ2tTczN1UHEwSUZlTDRvdlMxUU9CbDJZNWlqR3lTWUFrN0lLMFg2VDhWZ3FWTjFJMjQwcjVtdnc3dEUxU1JxbUdMSW1fc1RtWTRqcXFCWFV4OFNZV3l3U0NJUHA5WnowRl8yOUt4N1Btdk5sZDBONVVmbGdGbjY3Y0pDT2pWVXIyLVZGV1lYRUlTNFJEV1lYNXc3SkRfZDd5VVhQMUhvNXNsX3BEQkNHZXI3cnFMZXFDbzY4ZWZvYUJYcWQ0M3NMOVYtMVdkUHlVZnBISEVqcHBqSXB2dDQzNnN1NFpOM3FZc3VMM0JraUZVVU52SmUyUFN6VXVBaGFibEFsaFVmRHlrWmZlMExYSGViZnc?oc=5)
+### [每天開車竟能防失智？研究揭443種職業中，「這2種司機」阿茲海默症死亡率最低](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
 
-2026-09-22 <span class="news-indication-tag">癌症</span>
+2026-09-22 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源: [topick.hket.com](https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVXZwdnZtSjd1Wk5UdWZEdk0tNnd1bjJDWmxNQ0txMXR2Xy1LUmNySF9sUlhVN204Z25hSXpBR0hQYVllc0hnSm12ZW03MDhxZlc5SU1ycXRaZXRPQkRSSXkzUU13cS1hZm1lV1plbGxlNnZ3T3ZZcF9GenJ1QlhOeVdhdnd3VDgyTm1UYzBMVFYyVWlBU2ZvQzZ3bUdtTEhFaDRndXotS1dBN296ZElZVGtMUmRHY2t3eG9yb1poaC1ZTWZ6ci03VTZ4R2JYVkZMdVhpdUVVWUxRT2w0RzN5akFoTEFycmN2QkhCd1ZlMUdXUHI2R2hQSVoxQjhtcHVmb1J0a2NMVGtUbjFRQ3FyWFQwcmxMTGxhRTVGRnBNbU5nTURUNEMtWi1UN0JzSUlHVjVwNnhVRWV1bjYtcjBrTzRDdUF1bjdOdlE1b2w5WWtMTS11a21Tb0VPNTRIQ2tTczN1UHEwSUZlTDRvdlMxUU9CbDJZNWlqR3lTWUFrN0lLMFg2VDhWZ3FWTjFJMjQwcjVtdnc3dEUxU1JxbUdMSW1fc1RtWTRqcXFCWFV4OFNZV3l3U0NJUHA5WnowRl8yOUt4N1Btdk5sZDBONVVmbGdGbjY3Y0pDT2pWVXIyLVZGV1lYRUlTNFJEV1lYNXc3SkRfZDd5VVhQMUhvNXNsX3BEQkNHZXI3cnFMZXFDbzY4ZWZvYUJYcWQ0M3NMOVYtMVdkUHlVZnBISEVqcHBqSXB2dDQzNnN1NFpOM3FZc3VMM0JraUZVVU52SmUyUFN6VXVBaGFibEFsaFVmRHlrWmZlMExYSGViZnc?oc=5)
+來源: [造咖](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5)
+
+---
+
+### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
+
+2026-09-21 <span class="news-indication-tag">癌症</span>
+
+來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
 
 ---
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "更年期 (menopause) 相關新聞"
+title: "停經 (menopause) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "更年期 (menopause) 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
+description: "停經 (menopause) 的相關健康新聞報導。4 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
-# 更年期 (menopause) 相關新聞
+# 停經 (menopause) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="更年期 (menopause) 有什麼相關新聞？">
-<strong>更年期 (menopause)</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
+<p class="key-answer" data-question="停經 (menopause) 有什麼相關新聞？">
+<strong>停經 (menopause)</strong> 目前有 <strong>4 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「更年期」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「停經」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -32,13 +32,29 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（4 則）
+
+### [停經後採荷爾蒙療法 失智風險降23%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+
+2026-09-27
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+
+---
 
 ### [瘦身｜日本爆紅「減肥操」每日簡單運動助燃脂 更年期也能輕鬆瘦](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTC1nQTJoaENZM2RKZG94RS1tNnpycEp5a0d6WE9zQ3QtM1dmNUZPdm5CRlZpOUR6UF9MaFVoQjREcGI1VEFhd2llSlIxUTBxWUw0Y3dOX2tZZUFFZFZMcWZqcVFucmZxODh1bWU0SWFWZU5MZW5IaU50SmtOWGJhbVJnXzV6YTRsN1FjWE5ZcFZJOUFXMWp6ZlB5SFhXY0dKZGJfbFc3a2U4V2J4aGNpM2N5Mmp0MS1RblNzdVRtWHVLa01kNUYwQzdEOGdfUTVnNEo0Y3hLcXc5T0pTbGNGVUVUUzVicG1acDk2NHExeWJ1cnRyR2w4U2JpSUhZUlpKbnVzSEEwS09uZmo2Q0JRSmpFdHRmVVlHSnhXeDVtc3IzbVMtODdobHdpVXFJcmRvZnVpV3F2WXAtSlNjd2ZjcTlzYTI2WXVIVXFSQVJkcVp3bVhDLXNyVDNTTHBneHpzYUhpMnBkNnJrQS1UMFhNbFN4U1BxRkxpQkR0alJIZG5CbXlieEdnMnVfTUNFWFhqb3hfc0NTdU5ZRFJjX2YtcGJ4a1B3a25UcGptbkRWYXc2NnM?oc=5)
 
 2026-09-23
 
 來源: [香港01](https://news.google.com/rss/articles/CBMiswNBVV95cUxQTC1nQTJoaENZM2RKZG94RS1tNnpycEp5a0d6WE9zQ3QtM1dmNUZPdm5CRlZpOUR6UF9MaFVoQjREcGI1VEFhd2llSlIxUTBxWUw0Y3dOX2tZZUFFZFZMcWZqcVFucmZxODh1bWU0SWFWZU5MZW5IaU50SmtOWGJhbVJnXzV6YTRsN1FjWE5ZcFZJOUFXMWp6ZlB5SFhXY0dKZGJfbFc3a2U4V2J4aGNpM2N5Mmp0MS1RblNzdVRtWHVLa01kNUYwQzdEOGdfUTVnNEo0Y3hLcXc5T0pTbGNGVUVUUzVicG1acDk2NHExeWJ1cnRyR2w4U2JpSUhZUlpKbnVzSEEwS09uZmo2Q0JRSmpFdHRmVVlHSnhXeDVtc3IzbVMtODdobHdpVXFJcmRvZnVpV3F2WXAtSlNjd2ZjcTlzYTI2WXVIVXFSQVJkcVp3bVhDLXNyVDNTTHBneHpzYUhpMnBkNnJrQS1UMFhNbFN4U1BxRkxpQkR0alJIZG5CbXlieEdnMnVfTUNFWFhqb3hfc0NTdU5ZRFJjX2YtcGJ4a1B3a25UcGptbkRWYXc2NnM?oc=5)
+
+---
+
+### [更年期荷爾蒙治療何時開始是關鍵 這時間啟動心血管風險低27%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
+
+2026-09-21
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5)
 
 ---
 

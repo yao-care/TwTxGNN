@@ -1,8 +1,108 @@
 {
-  "last_updated": "2026-09-27T02:39:39.928029+00:00",
-  "total_count": 48,
-  "matched_count": 15,
+  "last_updated": "2026-09-27T08:44:02.456863+00:00",
+  "total_count": 58,
+  "matched_count": 16,
   "news": [
+    {
+      "id": "825509497dc3",
+      "title": "醫藥／早餐不吃且晚餐太晚 骨折風險增",
+      "published": "2026-09-27T06:08:00+00:00",
+      "summary": "醫藥／早餐不吃且晚餐太晚 骨折風險增&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTTUZyeExxOWFnOHFPcHNHOW5hSVNleEthbnZBQlJDRllMazBHQmlhR3NKUnVTcExsYTJfbUdOQm5wcUtmcXZyck45SHNkMkxOT3AyVnc4dVliWkhmTzBIbE930gFnQVVfeXFMT0RpY3dFTXQ5QVdubm9vVm1IblhpZGl6ekRYaXh3eGh3ZFJTXy1xbEN0NEV5UVE1c2JDOWR0LXpVbTNSNDYyTW1VYW5yMDlGZVBZbHBlR0VCVVlaelBzd01VclV5OXNfWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bdde98b05cf8",
+      "title": "停經後採荷爾蒙療法 失智風險降23%",
+      "published": "2026-09-27T06:00:00+00:00",
+      "summary": "停經後採荷爾蒙療法 失智風險降23%&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ca057b9d0c0",
+      "title": "減重藥物司美格魯肽延緩老鼠老化，高齡母鼠壽命延長近百天 - TechNews 科技新報",
+      "published": "2026-09-27T05:05:39+00:00",
+      "summary": "減重藥物司美格魯肽延緩老鼠老化，高齡母鼠壽命延長近百天&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSDZtSmgxYU1yYXE4a3JlQ0lkOWJiWkxXRFN0YlU4bGw1dE5UbjY5LS0xR2dwaVZBNzdBLVAtSkFmTFlBUnY5SW54WTU5TW14TnFsbUtYVUEyZldQaEZBMFN6MG9pRGpiUmhhcUJ3Ri04UTEtZ1ZuckF3bjNqUFY5bGVBQ0lWWFN2TjQxUzE2S1VlUkpHS2E3MXBB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ab2429c6252d",
+      "title": "失眠飲食｜銀髮族缺1物睡眠質素差 4食物助改善每日宜吃多少燕麥",
+      "published": "2026-09-27T05:00:09+00:00",
+      "summary": "失眠飲食｜銀髮族缺1物睡眠質素差 4食物助改善每日宜吃多少燕麥&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQSktvTVhuWmR4Qm90TjJnQ3I4VTBiVDdGMUZFTWVta2EyejQxNXROcEdpSkM3c05EemxXanRNemFXanN3OGJZUmtvNW4xVkVfMzRsVmRtMy1NazFKaUVOeHFoVEZGcE9aWE0zdWl2NVlrRWI5R3ZqbUFDR2NaTldUVDY1a1NPNDlsY3ozbXhXWlZna202Mnk5VzJ3Wm10dWhDRjFhVkYyWHhpb2lQM2FSY3pLUXpNS2dfd05ZN0J5QnhtVTZtUkQ0YW80Z29tSlJFY3VzbnhDR3RPbHhPeEpOLTFLbUVSekI0UkV4SldDU2l1MEJwczBXSVo0b0Z2dk9zY3FUV3BFNHB3QmI1NTFDUlNoWjJjMjg1bjZDT3lRS2plTWUtQzBDMU5nbHVVbTg3MUJGU21vcHlyd1lSTjhiTzJ6OXpNS3YxclRfMXVoUmZDQkJTNm5iWWUydjd2VmxFYkVkcTMyRGt1ZUdNbTdzdmRjY3BNMWFXajVNVnpLOXRkblpCd1BHZDBKcDBrMzltdjhBNy13VTFxcTE2WENYNk1LM3ZGYV9Qd2puVkRCRFEtaDROZWVzV3NWTXI1TDA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "85e845fd73f8",
+      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因",
+      "published": "2026-09-27T04:43:57+00:00",
+      "summary": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WmJiLW05RDd6Z3I1cl9qMmg4V0ZJWjJqRk5CRTZZUy1ZRDNpNktFbzhTb2lEUXk2LVR6YlAtaUhMV0x5SC1IMmZZVTBncHNyWVNxQmJJQjl3MGNWa1E2aVV5N2dIOE3SAWxBVV95cUxNdUJOT0ZQZzdEMDF5aVZKb2VuZlJyYlJvT2ZrR21ETWw4Y043WC1YQ0t4OVd1WmFON0c3YlJFeXFlZHU0cFQyckNudGl1MUJLUy11bzBFTXVHVFdtdVYxdlRuN0RLa1c3MjFfc0M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c61eaa6c7e73",
       "title": "最新研究打破舊思維：過量 RNA 恐成粒線體剋星，直接削弱能量供應 - TechNews 科技新報",
@@ -17,13 +117,13 @@
       "matched_keywords": []
     },
     {
-      "id": "74d1a70ab539",
+      "id": "a5a8b95445c7",
       "title": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌",
       "published": "2026-09-27T01:02:38+00:00",
-      "summary": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌&nbsp;&nbsp;UDN治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點&nbsp;&nbsp;techapple.com1 億用戶要吃掉158 萬顆CPU，Meta Muse 揭開「代理式AI」驚人的硬體胃口- 股市爆料同學會&nbsp;&nbsp;cmoney.tw憂鬱可能讓大腦提早老化，研究：長期負面心理與認知退化有關- 股市爆料同學會&nbsp;&nbsp;cmoney.tw兆勤推全新智慧型網管交換器助中小企解決效能瓶頸- 股市爆料同學會&nbsp;&nbsp;cmoney.tw",
+      "summary": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌&nbsp;&nbsp;udn.com治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點&nbsp;&nbsp;techapple.com1 億用戶要吃掉158 萬顆CPU，Meta Muse 揭開「代理式AI」驚人的硬體胃口- 股市爆料同學會&nbsp;&nbsp;CMoney憂鬱可能讓大腦提早老化，研究：長期負面心理與認知退化有關- 股市爆料同學會&nbsp;&nbsp;CMoney兆勤推全新智慧型網管交換器助中小企解決效能瓶頸- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
-          "name": "UDN",
+          "name": "udn.com",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5"
         }
       ],
@@ -53,6 +153,19 @@
       ]
     },
     {
+      "id": "c663eaf21051",
+      "title": "新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思| 有肌勵 - udn 女子漾",
+      "published": "2026-09-27T00:02:17+00:00",
+      "summary": "新冠疫苗副作用成焦點！網路十大熱門話題揭曉醫師破解錯誤迷思| 有肌勵&nbsp;&nbsp;udn 女子漾",
+      "sources": [
+        {
+          "name": "udn 女子漾",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kUVM1b1lNUEN5LVhGb1dBZEZBaF9hU2JfREJ4SFdhRWxxLWRETkZ5Z2V3TmVGOGRmR1hLdkJxV3MydGRwemVLMjFqaWlnZjBaMDhSalRIbTRQdHZnUnFPWEtBMXVhMFY5X25jaXA0aVp4akh4R2tUdkRXaVI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9e7b2646109d",
       "title": "靠燕麥降膽固醇點吃先有效？研究揭每日必吃3克這成分 即食燕麥都吃得？",
       "published": "2026-09-26T22:00:17+00:00",
@@ -66,39 +179,14 @@
       "matched_keywords": []
     },
     {
-      "id": "24b47bd77209",
-      "title": "「听不到」是失智推手 医：听损恐酿失智、跌倒、忧郁",
-      "published": "2026-09-26T20:46:18+00:00",
-      "summary": "「听不到」是失智推手 医：听损恐酿失智、跌倒、忧郁&nbsp;&nbsp;soundofhope.org",
+      "id": "7b5fae0b8024",
+      "title": "半夜2點半心跳120，AI其實還是滿有用的",
+      "published": "2026-09-26T20:45:48+00:00",
+      "summary": "半夜2點半心跳120，AI其實還是滿有用的&nbsp;&nbsp;Mobile01",
       "sources": [
         {
-          "name": "soundofhope.org",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96OXBfNS1WQ2gydVFoemRLTll0TW5sSmxYSDBCUkxvZG9tYUh6NXp4OXJ4azNfX09nTEF3M1J6RjdJTFAtVmdrRlYzUUpEYXhZ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b5784a6336b9",
-      "title": "天熱吃冰、作息不規律 小心月經亂了拍",
-      "published": "2026-09-26T20:10:00+00:00",
-      "summary": "天熱吃冰、作息不規律 小心月經亂了拍&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPX0tRQnFhZ3F5RVN3VGpFZzVqY2sxWTRKb1p6T0R4bng0Z0MxaVFoSkd0RGViMVlJenJIQU9aMERreUl6dVpjRU9ZckRWZjFQRVdQR0NTN2I2bDI1OHNVQTZnVEZJM1kyVFMyVklPYzlRQjd4dVJueTljRjlMLU13V0NPSnpSTUtiZnV5cnhXZVdubHZxaHV6R1NVSFlwOVV0VzlHS0xvUG5jNzE5Y0Rwby1lblVyNXd5QmNJYUJnQVVzajZCTy1ycnpCdzY5bTg3WmlDNnVwaTVJN3VXX1BQeE5qekh3ekxuMjV2dnF2YXpPN2RWbHR2Zi03eU1weGNNcmRaUlJXQjZDQ2tBdjRtYUFBRFpfQQ?oc=5"
+          "name": "Mobile01",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16dFdxYTlnWkZDVGhlck1CeHFCa3hYNkVySTdqTWZBWjM2LWJRWTdLUExzRTRiTHVmVUVwSldJSi1MNVJmb0pUZ3BVMnBiVVdYVUE0aExEOEJwRHZpTzVheWhKSVhNNGc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -137,14 +225,66 @@
       ]
     },
     {
-      "id": "3af42fac5fd9",
-      "title": "大腸狂長20顆息肉！醫教他「肉全換吃魚」　第5次追蹤全沒了",
-      "published": "2026-09-26T11:28:00+00:00",
-      "summary": "大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;topick.hket.com大腸狂長20顆息肉！改吃「1種肉」全消失 大腸癌風險降低12% | TVBS&nbsp;&nbsp;LINE TODAY大腸內狂長20顆！他改吃「1種肉」息肉全消失&nbsp;&nbsp;東森新聞",
+      "id": "0ce7636a5529",
+      "title": "這還是市區的天氣",
+      "published": "2026-09-26T12:32:30+00:00",
+      "summary": "這還是市區的天氣&nbsp;&nbsp;Mobile01",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Q1FWcnpaTjlzUnpELTFGVGEyOVZ0R2Z1NDc4cWVpLTltZzlGbm5FeVBsUkY5SGJwWnJ4cWU4dnNZX0FSRXFOazBfYTNZX2Yt0gFPQVVfeXFMUHhNRmhxZG1rbHRHeVg4VzVmS2taeW53VVdPbU5hNHJKYVhPLTB6N003ZWFtQ2d6MkJyOXBxdUQyNk9MUmY2Y2VtUE1PRjkyaw?oc=5"
+          "name": "Mobile01",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZ3lsRTlzWkhvdW00WTZHNjJzWDFfYlVvWWRZVzN4eDNMbXRXaXA2SUlnTWV6elIza1hBZHdGSWpiN1lSTUFkTzdIMHIxNDd6ZWdSSmxrcU9NQ1o3bE5vU1E3YXZJUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5d2e1edffb33",
+      "title": "美國佛州登革熱病例激增 三縣進入緊急狀態",
+      "published": "2026-09-26T09:21:05+00:00",
+      "summary": "美國佛州登革熱病例激增 三縣進入緊急狀態&nbsp;&nbsp;新唐人電視台美國佛州登革熱病例激增 三縣宣布緊急狀態&nbsp;&nbsp;大纪元美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RYXEwVXJTck1sRk0yMVlxaXpERGY4cF9HbDdvTE53cktYYUxEVjc2UU56STVwV2I2VnBEOHVZT0xJME16b3RjenFlOEdwb3BwNTlfZHVLNTFBR0JwUHI1MtIBZkFVX3lxTFBBa05aYTliaEpoaGJ5SGE1VTRnSTJILS1yQ01nZHlwYjRVZ1oyOU56S3VOSXhmZTNtdF9mNFRvMk42YzR6MUFVSEZscUR0elFVWEtQQXhaSGpBaW1zU2ZPOG5VVDQtZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dd244bbff105",
+      "title": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽",
+      "published": "2026-09-26T09:10:00+00:00",
+      "summary": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;知新聞",
+      "sources": [
+        {
+          "name": "知新聞",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LdUVET2loVnA2cUljeTdhLWU5M2ZNbFBxblRELVliV01DLV9UX3RBdkl2bEZtb3FNU1VpR2FPemF4Tk9XZjZ3ZldVRDlsOU9FMGtydmV6b3pjUHhJc1BNd0JNRXNJaTBqaEhMN1A2SQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ebf46373a864",
+      "title": "你可能會因為這個奇怪原因突然頭暈",
+      "published": "2026-09-26T06:28:00+00:00",
+      "summary": "你可能會因為這個奇怪原因突然頭暈&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90SzFEX19hTU9NNnNpdE14c2g1bk1WZHdieGFEUHNwWGs3dk00TVJ5N1RpVTkwV3FiVmtObEZna1JWMnlpM3hEN253dXBDWGx4djZkaDB6Qnlid3V1Tl9UbtIBZkFVX3lxTE81YzRyU3Z5aVBBLWNmMG9ZaG81QW9HQmlLRGZaWHBjSWNXUkJVc3RBYXloblRWX2xUcng4SUd2YU01S0QxTkJiNkUyTk9MR0RKWkk0dkY1LXozZHhTcl9veFAxczdmdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b3cdd33969e7",
+      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
+      "published": "2026-09-26T05:20:08+00:00",
+      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲大腸狂長20顆息肉！改吃「1種肉」全消失 大腸癌風險降低12% | TVBS&nbsp;&nbsp;LINE TODAY大腸內狂長20顆！他改吃「1種肉」息肉全消失&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -185,109 +325,6 @@
       ]
     },
     {
-      "id": "643aa047e0d5",
-      "title": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛",
-      "published": "2026-09-26T10:30:00+00:00",
-      "summary": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQelRtVmJTa2daYzMxck1LRmIwbThQbGFhUnRZNzI1MVF2VEpKbGhLQ1F0MFVtMS1RNmxva0p4NzdtakI3Vjk0dVIxSHRxb3pZY0M5c2JtRDF6azRVQlRKb215WXNJeE94SjVTdGFod3RPUkphcG5oczVGQnZ5RWJjSGRZdlBpVGIxQU15VU9xaWJqZ2l0Rk9aQkI3NmZqTlBKQnd1dTBwbFZ4SmlUd3J4Z3F1UjdkVm1CSHRTRzlncmdhbjBsakEycWFFUkZCSEtycmV2UnFJb3hEaFlSbzMyM2toZkhFblNSdlZlVFFoR3BCVWNXdk80a0h5RHZ3Y3RtaFRtSS1FUWJmdGFzUFh3Yk9wTS00NDNuZVJCUzFaOUo0dG5iQXdQLUlrRkJDcllvS0hpZ1lRQWRlajExc2t4WDVIYm5OdnJlNm5Yb09ha3lTWWdEbzNmZXlJRG56SVNIWWxuZ25rTmdoUlNMQnBudm5hWmZoZTVseTV5MU41VG5LcE1JdGpYTGN4WW9MQ2VUZWV5ZFhTSkZJYUU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "風濕",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "關節炎",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "Ibuprofen"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dd244bbff105",
-      "title": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽",
-      "published": "2026-09-26T09:10:00+00:00",
-      "summary": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;知新聞",
-      "sources": [
-        {
-          "name": "知新聞",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LdUVET2loVnA2cUljeTdhLWU5M2ZNbFBxblRELVliV01DLV9UX3RBdkl2bEZtb3FNU1VpR2FPemF4Tk9XZjZ3ZldVRDlsOU9FMGtydmV6b3pjUHhJc1BNd0JNRXNJaTBqaEhMN1A2SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f83a7fdff908",
-      "title": "美國佛州登革熱病例激增 三縣宣布緊急狀態",
-      "published": "2026-09-26T08:27:00+00:00",
-      "summary": "美國佛州登革熱病例激增 三縣宣布緊急狀態&nbsp;&nbsp;大纪元美國佛州登革熱病例激增 三縣進入緊急狀態&nbsp;&nbsp;新唐人電視台美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qNTFULXJmaDl5bmN5LTNSZ2ppUjFrZS1aa18yQnZ5QU1VVnIxa3ZJc2ExOGRvT1VMY3BvS2Z4dzZSTlFkVVFVcGxmOUkxXzEwcXhQRHpiOHRveVNhY1BfatIBZkFVX3lxTE96THZoYmMyY0d2YTl3cHAydmxQRXItOWRYYUFrQjBueWRXbnZseWtsdzBjNVYyeFRFVHRvWkpBLUVzbVhNNHI4aEViVG54OEVHUFlGU3dCaTNkZ1ZHRFJlNnV5aUNxZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ebf46373a864",
-      "title": "你可能會因為這個奇怪原因突然頭暈",
-      "published": "2026-09-26T06:28:00+00:00",
-      "summary": "你可能會因為這個奇怪原因突然頭暈&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90SzFEX19hTU9NNnNpdE14c2g1bk1WZHdieGFEUHNwWGs3dk00TVJ5N1RpVTkwV3FiVmtObEZna1JWMnlpM3hEN253dXBDWGx4djZkaDB6Qnlid3V1Tl9UbtIBZkFVX3lxTE81YzRyU3Z5aVBBLWNmMG9ZaG81QW9HQmlLRGZaWHBjSWNXUkJVc3RBYXloblRWX2xUcng4SUd2YU01S0QxTkJiNkUyTk9MR0RKWkk0dkY1LXozZHhTcl9veFAxczdmdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "04ce210a7952",
       "title": "醫生推介兩款蔬菜「神級組合」營養高50倍！有效擊退脂肪肝 附最佳食法",
       "published": "2026-09-26T03:00:15+00:00",
@@ -304,7 +341,7 @@
       "id": "92525629cf19",
       "title": "國際基因組研究 揭蝙蝠演化歷程",
       "published": "2026-09-25T20:09:13+00:00",
-      "summary": "國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;IndexBox",
+      "summary": "國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;ctee.com.tw蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;IndexBox",
       "sources": [
         {
           "name": "on.cc東網",
@@ -327,42 +364,17 @@
       "matched_keywords": []
     },
     {
-      "id": "4e95360d10cd",
+      "id": "b77af495e128",
       "title": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 | 科技新報 - LINE TODAY",
-      "published": "2026-09-25T15:14:57+00:00",
+      "published": "2026-09-25T15:58:56+00:00",
       "summary": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kaVVjZFJMNno0UUxSUHZkc2Jva28zMkkwSmFoWHdXbVh2U3AtQmhOMkkyemJhUHFYSml4VkNWTWwzVi1GNm5VbjFMZlFJeExOdDdkR0NR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYmYwUEFGaHZjb0VtT0dLckV3SGt1RTJQSmtYRmhtS3ZJVVdzdV9WWG1CVkFsZ1c1UzJXejlyQy1NWG84RkVHVUNkNHU0RXIzODZpUm9sSDN3Ym9OblBkWHd5VmlKcTFWcUI2NUhlYnp6R1JUUE14dHJMR1FTQQ?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "ea8812c2dccf",
-      "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活",
-      "published": "2026-09-25T12:15:00+00:00",
-      "summary": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "dae0f4de1bf4",
@@ -635,226 +647,56 @@
       ]
     },
     {
-      "id": "e2602fba5297",
-      "title": "確診HIV即日治療減傳播 逾九成人支持",
-      "published": "2026-09-24T20:00:00+00:00",
-      "summary": "確診HIV即日治療減傳播 逾九成人支持&nbsp;&nbsp;AM730",
+      "id": "83333676cf1b",
+      "title": "每天3匙花生醬竟能防跌倒！哈佛研究再揭1吃法降糖尿病風險21％ - TVBS 健康2.0",
+      "published": "2026-09-24T22:53:00+00:00",
+      "summary": "每天3匙花生醬竟能防跌倒！哈佛研究再揭1吃法降糖尿病風險21％&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNdHRMSExSdXBZbHIxZTBnQ1Bnc2VPS2Uxd0JUTVlDTGhvRlB3U1N3RF9zejRJTUhadDJJYkgwSXRJbmE5eFdtXzJGdGF4RFBKVmtTb2FkaHR1OEZyTHYzZW5HSFRFbGFScF9TaVJ0aVFQdGdNMkU1b09jaWI5bnQ1WGREWU1RZnE5eldLV20wNTBXWm5yeG1wX3k0bkQxTmRTZFBDVWNHTUd4LThGOURRcVJfVXN3SGc2Q1VuMnhlS3RSbEtsM05vODR5R0J6MlI4NzE4VjZvOHdqeEliWXhYR1RZbHhKd3hjSXhTVlcwY0JLN2pwQVpRbDNWcVlEQWpLUXhaT2xBTjFmSUt4RHlCVXAxSXJTaTBUZEdv?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fTjI1X184alJUaWlIRmNqX2pEcVpvZ3BibHNnTVFoUkJBcXA2WVY5NDRoT2FOUzJfbFdrRmlqYm9aMXVQMGxaZ2J4aFVfc1JFcXktWkdn?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "3d7662132c46",
-      "title": "本港舉辦「早期癌症篩查新趨勢」業界交流會",
-      "published": "2026-09-24T07:52:00+00:00",
-      "summary": "本港舉辦「早期癌症篩查新趨勢」業界交流會&nbsp;&nbsp;香港商报前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "72834670a93f",
+      "title": "荷蘭西尼羅病毒疫情蔓延 死亡病例增至5例",
+      "published": "2026-09-24T16:37:25+00:00",
+      "summary": "荷蘭西尼羅病毒疫情蔓延 死亡病例增至5例&nbsp;&nbsp;華僑時報",
       "sources": [
         {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5"
+          "name": "華僑時報",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiRC1tWnVDR0EzYXBVbDJ1NnhaYXR4Q1l1SzZyek1HMk1tcXhWN2NSd0xWZGlUcEd3YWZmSi1mbWFVVVN5SF9PX2tBYWtpREFFaVIxckllTG8?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "5231fe7f1c47",
+      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！",
+      "published": "2026-09-24T08:21:43+00:00",
+      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！&nbsp;&nbsp;careonline.com.tw",
+      "sources": [
         {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91enVJQl9JSXoyWnJnc1U4VHczMk95ZUJMcmQ0S2tNVTFESUM2VEZMZHJOb1hNdkhuc0VmMTdFbU5BYmFpUUNJZXBqQVJGMmFvMVZpMmhoTFZqcGRkVDdHdXhDNUo?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "16631ffd8964",
+      "title": "連續吃保健品超過3個月卻驗血沒改善？醫師說這個「吸收前提」沒達到補再多都是浪費",
+      "published": "2026-09-24T06:00:29+00:00",
+      "summary": "連續吃保健品超過3個月卻驗血沒改善？醫師說這個「吸收前提」沒達到補再多都是浪費&nbsp;&nbsp;墨新聞",
+      "sources": [
+        {
+          "name": "墨新聞",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1ETDhYaFFaX0JnWW4wMDRKWDdzM05oVXV1TTN0WS01R2hrTEFucEZqWnBQYlpTc0x3RkZERG5XWnlUdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "8011ab739246",
@@ -870,26 +712,62 @@
       "matched_keywords": []
     },
     {
-      "id": "26e47961146b",
-      "title": "沒頻尿也沒排尿困難 46歲男罹患早期攝護腺癌 健檢做PSA檢查救他一命",
-      "published": "2026-09-24T05:41:44+00:00",
-      "summary": "沒頻尿也沒排尿困難 46歲男罹患早期攝護腺癌 健檢做PSA檢查救他一命&nbsp;&nbsp;UDN",
+      "id": "d985cfb7dbd6",
+      "title": "肥胖「關掉」癌細胞死亡開關！《Science》揭9S-HODE抗乳癌機制",
+      "published": "2026-09-24T05:36:49+00:00",
+      "summary": "肥胖「關掉」癌細胞死亡開關！《Science》揭9S-HODE抗乳癌機制&nbsp;&nbsp;news.gbimonthly.com",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sbWZFclZHM216SDNEWDhkYUFlcTgybkZkSXdoVjVtTkhQOW1FZFRHZjZ5OFpSRThwcGNkdlViM0tVODQ0N0YzZ0lTVTVuSVFhZWQ1ekM2b2VwUFF1XzlmQUIxZXViNEMwQWtqTmZuS3JiUjlsbUV6dWhQd9IBVkFVX3lxTE5qM2pwdGxXbVFMTC14aXFWaHlPRDVTeFU1dkZPeG5CT1pwaXZBcXAwYm4yN0V4SXhxaDdiVVF5ZDFvZ1Znd1pxVURJMllINU1SRjMxeHR3?oc=5"
+          "name": "news.gbimonthly.com",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "a19f7158569b",
+      "id": "d283279adaaa",
       "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫",
       "published": "2026-09-24T03:46:54+00:00",
-      "summary": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫&nbsp;&nbsp;元氣網",
+      "summary": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ],
@@ -949,6 +827,19 @@
       "matched_keywords": []
     },
     {
+      "id": "19d6271c1091",
+      "title": "隨着田納西州麻疹病例增加，西維斯健康提醒居民，疫苗已在全州範圍內供應",
+      "published": "2026-09-23T16:09:00+00:00",
+      "summary": "隨着田納西州麻疹病例增加，西維斯健康提醒居民，疫苗已在全州範圍內供應&nbsp;&nbsp;富途牛牛",
+      "sources": [
+        {
+          "name": "富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRWlXVThMc0JkSWxvMmJDeU1KcUZDNnA0emN1NGNqTVN4bWV3ck5wdUd1Umd1Qk5yQ0NQd2dLTkZrRUplSjlHTFNFR09qRmxQcXRJb3JkenhMNTRzYURncTlzcWk0eEdxS2Vib0xhY2M3dlRPcmx6dlA5ZG5Bekx3UkVXNUpyYU1kUGRIQkp2WDM0N3hmYlQzOHNxTUhIVTBGTTlKTi1CQmZkdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1d226c246433",
       "title": "絕經後大腦老得更快？新研究發現衰老信號",
       "published": "2026-09-23T14:40:00+00:00",
@@ -962,13 +853,13 @@
       "matched_keywords": []
     },
     {
-      "id": "387ba6ae217b",
+      "id": "ac02db9da633",
       "title": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際",
       "published": "2026-09-23T14:04:00+00:00",
-      "summary": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際&nbsp;&nbsp;工商時報",
+      "summary": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5"
         }
       ],
@@ -987,13 +878,13 @@
       ]
     },
     {
-      "id": "49e120936e99",
+      "id": "2a7e5defbd87",
       "title": "骨密度低不只怕骨折！研究：與認知下降較快、腦白質老化有關",
       "published": "2026-09-23T08:47:56+00:00",
-      "summary": "骨密度低不只怕骨折！研究：與認知下降較快、腦白質老化有關&nbsp;&nbsp;元氣網",
+      "summary": "骨密度低不只怕骨折！研究：與認知下降較快、腦白質老化有關&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWelM1WFJzLXBja3A1RTBtc1MwcmxHdFctX3RkcjVBQlpfSEs5VFNCazdYR3lZYUMxYnRnQnN5OG9tMWhWQTVRTF9nVmdqU3dNRnpfbTU2dGVnUUNp0gFiQVVfeXFMUHhSNGY5T0tjTG5aai1JXzVBWElTOXEtTEtQSERpeGM1WjV3U1NiaDBxUVNWTE5vb0w4VFJnR3NZRlo3ZWpkX1VRSW9Dd3Fyb1pIX1hjYm5vTjFJcWxIY1hoVHc?oc=5"
         }
       ],
@@ -1085,19 +976,6 @@
       ]
     },
     {
-      "id": "328ae4b51c48",
-      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！",
-      "published": "2026-09-23T01:11:28+00:00",
-      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObFgxWW9TaHNtbUNyMmdtQ1Vhbi1jSEtnb0xBTUlxSl81bVdsZzAtMzY3UERnWU9yb01jNmpQYUROMXVsUFVEd2FzdGt3UWRkRmo4dEVTZG5jMnprVjNYMmcydFp5ZFlLVnFGQS1lWkpRV2M0OUNaakVPX1FEWWtXWlJFYmpINGdsbWE1eW44UkQ4SXZpdkdnMVloRXJURmdmanlKX0Rtc0lDOXM5UC1SVk1VOHI1VWpUUTc4ZndvWmppNEFoQ01uNU5FaTcwUFZEeGg1Qjc2emEzSXhieXRSR1pna2wtdkNKTzJfVWJ0emlLblhVNDgwa2tNZ0cwUnpDUmJXQVNvTkRVWUFYS1g2MmczaktmVXM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c2b2bb3e8c3e",
       "title": "可傳登革熱入侵蚊再現東灣 利佛摩今晚大範圍防治",
       "published": "2026-09-23T00:00:19+00:00",
@@ -1124,27 +1002,76 @@
       "matched_keywords": []
     },
     {
-      "id": "b0d8ad667bba",
-      "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思",
-      "published": "2026-09-22T18:00:00+00:00",
-      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;TVBS新聞網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;udn 女子漾打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
+      "id": "1151712d1a26",
+      "title": "每天開車竟能防失智？研究揭443種職業中，「這2種司機」阿茲海默症死亡率最低",
+      "published": "2026-09-22T06:58:00+00:00",
+      "summary": "每天開車竟能防失智？研究揭443種職業中，「這2種司機」阿茲海默症死亡率最低&nbsp;&nbsp;造咖",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5"
+          "name": "造咖",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRmNtYThubUx3X2plQlFLLUNaMnVuWUl1S3FNNFk2dDdZa0JFNEk1QVotM19pWXVDR0VzMlhWVENLMGJkYndTOWxiYmx0MEtBQWFN?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8d87daabf8c",
+      "title": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇",
+      "published": "2026-09-22T01:00:00+00:00",
+      "summary": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZDZsVmU2QmNPdVZ4eWtNTFNEWE9XUTBjY0R4LTdzbzZNcGlYZFI1UUN6XzM0OWNtMDdkWUlpTUFNSVNrcU1XM09GUGlsTmoxUFJlWkZB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "cf107b5567f2",
-      "title": "癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%",
-      "published": "2026-09-22T05:38:30+00:00",
-      "summary": "癌症殺手｜32歲女教師腸胃不適一年揭患末期闌尾癌已擴散親揭確診前1徵狀隱蔽性高存活率最低僅14%&nbsp;&nbsp;topick.hket.com",
+      "id": "970fd139546f",
+      "title": "每天10分鐘，對付假胯寬，改善梨形身材",
+      "published": "2026-09-22T01:00:00+00:00",
+      "summary": "每天10分鐘，對付假胯寬，改善梨形身材&nbsp;&nbsp;careonline.com.tw",
       "sources": [
         {
-          "name": "topick.hket.com",
-          "link": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxNVXZwdnZtSjd1Wk5UdWZEdk0tNnd1bjJDWmxNQ0txMXR2Xy1LUmNySF9sUlhVN204Z25hSXpBR0hQYVllc0hnSm12ZW03MDhxZlc5SU1ycXRaZXRPQkRSSXkzUU13cS1hZm1lV1plbGxlNnZ3T3ZZcF9GenJ1QlhOeVdhdnd3VDgyTm1UYzBMVFYyVWlBU2ZvQzZ3bUdtTEhFaDRndXotS1dBN296ZElZVGtMUmRHY2t3eG9yb1poaC1ZTWZ6ci03VTZ4R2JYVkZMdVhpdUVVWUxRT2w0RzN5akFoTEFycmN2QkhCd1ZlMUdXUHI2R2hQSVoxQjhtcHVmb1J0a2NMVGtUbjFRQ3FyWFQwcmxMTGxhRTVGRnBNbU5nTURUNEMtWi1UN0JzSUlHVjVwNnhVRWV1bjYtcjBrTzRDdUF1bjdOdlE1b2w5WWtMTS11a21Tb0VPNTRIQ2tTczN1UHEwSUZlTDRvdlMxUU9CbDJZNWlqR3lTWUFrN0lLMFg2VDhWZ3FWTjFJMjQwcjVtdnc3dEUxU1JxbUdMSW1fc1RtWTRqcXFCWFV4OFNZV3l3U0NJUHA5WnowRl8yOUt4N1Btdk5sZDBONVVmbGdGbjY3Y0pDT2pWVXIyLVZGV1lYRUlTNFJEV1lYNXc3SkRfZDd5VVhQMUhvNXNsX3BEQkNHZXI3cnFMZXFDbzY4ZWZvYUJYcWQ0M3NMOVYtMVdkUHlVZnBISEVqcHBqSXB2dDQzNnN1NFpOM3FZc3VMM0JraUZVVU52SmUyUFN6VXVBaGFibEFsaFVmRHlrWmZlMExYSGViZnc?oc=5"
+          "name": "careonline.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YX1p1MnQ4S1RHMDJ6c09aRENDYkJxUk1MRU9ZNHRpVmtEUXVqOFJlV1l0RVZneXZKYjhIUm5LTkZLdEozYkoxVUkzTEVOUUdBOHdXdm5feE9sOGwwbGtlQmRBamYyWE45ZmJUMy1RQkRILXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "89541a5857b7",
+      "title": "諾貝爾醫學獎研究：癌症竟與「它」有關?！",
+      "published": "2026-09-21T16:19:08+00:00",
+      "summary": "諾貝爾醫學獎研究：癌症竟與「它」有關?！&nbsp;&nbsp;Mobile01",
+      "sources": [
+        {
+          "name": "Mobile01",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1346,32 +1273,6 @@
       ]
     },
     {
-      "id": "5ebaca11c82f",
-      "title": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力",
-      "published": "2026-09-22T02:00:21+00:00",
-      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcDJOSVR0UWRGX2tuQUtQaXN1dzlyZExacHktRG9NZmhfM281R2sxRTE5ME9neXhNVTVlRG8wWE9XS2ROeDMwUDdWcnlHbVZnZmpuM1NXR05xOVRqUzJwYlBNZ2YtZEZET21vamxnVW5YQkVTemV2MzZtLTU5NERhUXU3T2o4ai1MekltYzhNZ2FxOVBwMFZwb2FrN1RjcFF5eXZhYVM4a09pMzRfX245UjJpU2c5OUJ0XzJCanVuamx2akN1azFSZEdIcmIyenVodldzT1FOWS1MVHNZUS1Lb2hkY3BrWElvRGlIUUI4WEFtd1R2ZE9KOVk0QTJWZ1VSOFoxdjRaZXBZVEdDU2Rnd2xHbEpaMS1pUF9xeEZXMmlnaXZvR0RxQWs3OThuMGpfQWxjVHdlbFVJamg5YVpKUmtaZVIyWjNhZkh3U2JOb2UxX3F1dGhEQ1RqZmJEaU5UdW10VHpTeWRneWc4U0VMVGdERjd1dVg3LVFPR1VpQjhRWnNuY0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c8d87daabf8c",
-      "title": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇",
-      "published": "2026-09-22T01:00:00+00:00",
-      "summary": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZDZsVmU2QmNPdVZ4eWtNTFNEWE9XUTBjY0R4LTdzbzZNcGlYZFI1UUN6XzM0OWNtMDdkWUlpTUFNSVNrcU1XM09GUGlsTmoxUFJlWkZB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b0156883c43e",
       "title": "大腦其實是兩個器官？震撼發現：人腦由 2 個獨立神經系統拼裝而成 | 科技新報 - LINE TODAY",
       "published": "2026-09-21T14:47:04+00:00",
@@ -1385,65 +1286,126 @@
       "matched_keywords": []
     },
     {
-      "id": "dd44992b6d60",
+      "id": "4636f0170d73",
       "title": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」",
-      "published": "2026-09-21T10:30:34+00:00",
-      "summary": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JbnhyQkRHYVh3blF6aWlqSVZ2TWYzaG4wWmdyMzZrc0tyRXlBMzc4dVRhZThSc1RhdmtGaVg3emJiajZWSEZZOEtTdndmaWpKN3JjS1dDRHMyeElZajZReEVFeXluZkhtTENVUmtB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "87beb41ba499",
-      "title": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」 - PChome Online 新聞",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlBXalZ0bVJnOGpoV1k1b2Q4eWZkVlFkenZXLXJIZ1d1NkxzS1Z4QTFsOGpxdXF6RzJjUVFSQ1BXTXd2YnNTX0dXbllueERKRXRLRUF1ZEg1aGdhd1FQWjlLS05CN3RheEtScDFWSzVPZVlXYV9NZGlUX1E3RXpTX3YzeXdENjNYaHh0UVRLbWgxeGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "02ef4c33b067",
-      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床",
-      "published": "2026-09-21T06:37:54+00:00",
-      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;Yahoo新聞馬偕專科醫療團第8度來到斐濟提供海外醫療服務- 駐斐濟臺北商務辦事處Taipei Trade Office in Fiji&nbsp;&nbsp;roc-taiwan.org",
+      "published": "2026-09-21T10:35:34+00:00",
+      "summary": "獨家》姚黛瑋驚曝5友愛滋感染！20多年見證生死「從驚嚇到理解」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNTWVNWTdkcDVIWHhPZ1MwV3E2NENUMlFvcUZabU1SUjlIZVExd3lIOWUzTzBhTVpHTDgwVXRDRFVBZGJXaEFKcEd5M3A5czUtREhSbU0tRTNmb2drTVd4LXhLdlV4Wk1kSEdZMnUwY3lEdGszTGMwTThsVDY5Zi03bE9SYkowbm5Na1NkM2FUNW9mdjBvQTRqWWdnRGg3bmtKbUxNZlgzc0xVenZNcnZDeUpIc0ZySnozNUxINGlxS0dERmF5VXBsTmc5Nk9Nc2lZVzMtOVVzUlNaX1BrMWFHNWc3dUhkSWU3Z1k3T3EtbUo5VUJ1dld0dlRHekZGMjN5RkIyZmZBM0FsaGJZMHR0M2FRbV94akRNeG8xZU5jaW5PeDBaaVdMbV9FX0MwenhuZW1qZ2o3VWVHeU9qNmNyUnhKWEVEOS1oaGRKdllBMmlHMkw2T1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxPTUFtc0M0MmZsbXhzTldveElSTjllRTdhNXZDLVJudEJqdlFOU21BT2F4TUJ2el83WndUVUppN0FuWHF6eW9JOUIyZThhTkNFVkw5TFZDbkxFX3RmdjNWUHNCSk5SWlN2T0VOa0hEcGpTN25xNWdwRFVQQWdWVmFJSExGS2huUWw5cm1HWU1aemRFTTB5WDQzVnUtRW4wMmFpT0NfeFZTMjJIeTAtRXkzUVdSYmpVUU5qNGQ5VUNjNy1NUkx4X1ktRGhFQXJ1cGZPcmJrOUlueDZaenlhNEVKR1FjTEI4MDFCWUdaNG5ZaWhqOEMxNGw4ZF9ma3lIUmZqN1MxNTRsRDlLejYtaVlBZE5KZWFSYVpDU0UwZWM1VVplZFhCVEhySHNzOGV3R1JLYWZ1T2xMMGJncF9zUEtSQmhOZm5rTUtMZHBRN0lQVHRndWlUdlpNTjVrbW9NeDZtY3RwMWdLZnVzdjBzRTlMa1ZpRmNHemQwR3A0?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e99101628dd3",
-      "title": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】",
-      "published": "2026-09-21T05:28:48+00:00",
-      "summary": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】&nbsp;&nbsp;topick.hket.com",
+      "id": "0180415ac1df",
+      "title": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」",
+      "published": "2026-09-21T07:00:00+00:00",
+      "summary": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」&nbsp;&nbsp;獨家報導",
       "sources": [
         {
-          "name": "topick.hket.com",
+          "name": "獨家報導",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPaW96QU15OGhhYWp4c09feTV1bGpPTGhsZUtnT19fVGdkTjFtcTg0cks5a094SzB4V0JhTFBsdnVVQm53blFjTldZZGtaandBV0p1RXQtbXptZlhmc2N2UTEzbjF5MUsyZDltNG13R2lXZlI2WENQdVVvcWlWdm5ibnNDSGhmLVZkeExhVHVHaWFTZFdWSUgtYkJGYl9XclNGTUFHNWtSM1ktQlZ4b3ZFWGkxcl9IU0ZjTDJnVm1yQ2E2WEpvRGtXbU4tUDhlZVVwREZtaUlWSnczX2FQcF94ajl1Njh4S2ZlR094dXdwM1RidFk4QVVUMGpQcmctSHpoT2xZeGF3RjQtT0xCcFRYRld4VUUwTUJUNXE0M2NvS3VxeEttUzB2c0hCQ2h0QzF1YUVmQUFLeVdRb0FaWjl2S0huRWVJVkNzcWpXaUh2SFRWbUEyVDdJc1VzNzdSUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6ac14cdd396e",
+      "title": "攝護腺癌治療後 疲倦、肌力下降怎麼辦 生活處方有助改善",
+      "published": "2026-09-21T06:00:00+00:00",
+      "summary": "攝護腺癌治療後 疲倦、肌力下降怎麼辦 生活處方有助改善&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KNzQ4azhHNXFwdnU0cEFLTGVic2hYSnUwQ0lNQ3dzVTEtSzBJODhibHVnQlN0OXpuT1NMazRacUhXQkNoRzVlZHNiNkZ0SUZmUFVBR0QwNWZfaFhhcGxYWGZB0gFnQVVfeXFMUHdjN0dCdGVVX3RWS0Jtd3ZXX3ZiN0J0TUFoUG12SE9SSHd5azA0bEhJczVNVl9IcW85Zzl5VFN0Q0NwUXRCaVRKQk5QcGVHVm5udldCQzgzUktoVS1NVmtnVl9tSzNUSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "21769ba5c0cc",
+      "title": "更年期荷爾蒙治療何時開始是關鍵 這時間啟動心血管風險低27%",
+      "published": "2026-09-21T06:00:00+00:00",
+      "summary": "更年期荷爾蒙治療何時開始是關鍵 這時間啟動心血管風險低27%&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WM2dnX18zWFp3MkdSYlNOOVJwMzBGVXJwRWtTbHFabDg2c1VGMUdubTJQbGJZRGFGblo1RHgzQl9tek1jS2JDTlZQVlVyVkpHbVdpeW50T3ZnWnJ1cWNpY0930gFnQVVfeXFMUGNrSmk3aVRkRF83OUZpTkxacmh0VmNyaWN6MHVlNXhXdjkxTjluU0ZBZXNqVS1MT0llV3ZvR2FMVjlnU1dpNGlFNnZFOXo3TGM5MjV3bnpYUDF3X3Z4cEJvblNfWUdpQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d856381f6b3",
+      "title": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】",
+      "published": "2026-09-21T05:28:48+00:00",
+      "summary": "9·21世界認知障礙日｜日本爆紅「嫲嫲級女僕」Cafe 百無禁忌玩盡黑色幽默滿足1條件方可成為女僕【附腦退化徵兆】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxNLTBZREdHVlVwNlpkbFNZc3NUMk1rZ3M4ZXFXTTA4aEVMNFZRMnZudTJjMHMyUGFwOVJNTFVHUFFRa3IxRk1wclVSamdQdGRvYUl4bklXWk44OU50c2hJb1pvd2lqd1pyTDRuSEdQS1Q1dkNjN2k0ZXJPWHhOdTlraTBfVjJDTEJVV0NxSU9xZ0I3b0VTQWdtWFIzblZwc3ZnMnFMb2FvV1ZBMW1Jemh1dEw2R2ViejdjM1N2bU9tcXFNOUsyN1lzR2gzUDdOSXB3anJyZWZldTQwRVRHZldMVWNHZHBoV0YxekYxZXY5OVQ5b091QkdacFdyYnFIaHllQWZoQVA2OTRsQzJYeXJua2NlTG1peTRiMHk1WlZzUUlSZVdsNlFteTR5ZmRxQmRxZ0JzdjBtdWFIbGNieGVldHNrQTNKRUNYQUNvaTVVbzhRc21yUE9ESmtNM3JianlHU25YTlJ2aEl3bXZTbU1xeVNBTjR4RW0tNTJzSTk1VjBNSFUzc3dabWtoa1k5VnFMM3prYnhlYXVfWExzdUdhWlVvMzRXeFRISk53cXdycl94N3czUEs2MDhpVm5hclVtN0RDQkdwQXdNdi1Vc1JnRElVS0p4S1I5NlZQZUxtQVlPTS1QVjhpSkZ5bEFuRGM1dW9xeUlzNzA1RnoycTRIRFZnZGl3Nk1lbG5ySUZoN2hrck80ZHU2bWlMaVZCQ0dfdnJHZW9QWExyWFBWR25XcWZqdVRkTkc5X1VvZ2pZalpMbUgzN3FyNWJHSERYWWFTN1lRT19CVEc0c1FvdXppeC0tUTlLTDNfdWhTbDNWa0k2dlYtbFU1c2FTUHI0MTVwTDVraS1uVlkwaGNOZVJYUUNDQi1fUHN2cVl5djJRSW1JVHNfb1BVSnd3SXQ0UkEy?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "857afca16cc1",
-      "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
-      "published": "2026-09-21T03:00:00+00:00",
-      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;優活健康網",
+      "id": "8e0f9d3c353d",
+      "title": "馬偕專科醫療團第8度來到斐濟提供海外醫療服務- 駐斐濟臺北商務辦事處Taipei Trade Office in Fiji",
+      "published": "2026-09-21T04:36:04+00:00",
+      "summary": "馬偕專科醫療團第8度來到斐濟提供海外醫療服務- 駐斐濟臺北商務辦事處Taipei Trade Office in Fiji&nbsp;&nbsp;roc-taiwan.org斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "優活健康網",
+          "name": "roc-taiwan.org",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ha0Zjc0JtOXV6WFJDMnJpM0pHVU1uVDE1VFdXYktoRWgtWmhxWG01VzBFNW5OcjFRMks4cEI0R1Z4XzFVSEtwMnZCNTdEeEhZZWVDT2NIYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "372ab8efc7ff",
+      "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康",
+      "published": "2026-09-21T03:00:00+00:00",
+      "summary": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康&nbsp;&nbsp;uho.com.tw",
+      "sources": [
+        {
+          "name": "uho.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
         }
       ],
@@ -1460,6 +1422,44 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e84909e0015d",
+      "title": "開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增",
+      "published": "2026-09-21T01:29:01+00:00",
+      "summary": "開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
+      "sources": [
+        {
+          "name": "Sundaykiss",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxQdXE3dVRXU0ZfbWpfTnlNbkVwZWhqOS1JN2c3V1FoUUdzbE5UMWQtbjZLNmZaMUJyQ3VrSnBpMFdqSExGcE5DaFVZckdZenZCa0tMc1hLLWZ6WTlaaURVczUzQ3pFclZ6cTVSSjlack9ncHMzOUJhN05ZVzh3LVBsMUdZaXpheWthb1Q5eU9UZEtSaHJCZTNnZmJSbkx4R3JFNUdPZ3REVFk2aDdSOFB5NjlzMUI3X05MNmtvUDJNRGpHTjFxckc2S3hwU3FsdTJIU19YS3VoeFZsVjZpRThwQk5SajM2U3FSV0tCenR6TjVhT05SYWJWTThHQ3ZFYUw4NzlydGFVSndZclFOa2tkWE1qZmdsUmxvalhRd0owQTVuRXlkWHN0bHJKM2xCV1BLcWNXcDFXaVFRQnRCWVV3ZG85QXFTNlVFNi13eG9weFoxQ3g0YV90RFNUTkY3cmszNVp6WUJxbw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b768a4f10c64",
+      "title": "闌尾癌｜32歲女教師現腸胃問題一年揭患末期闌尾癌比腸癌更惡如常生活患者激增5倍親吐確診前徵狀- 東張+ - myTV SUPER",
+      "published": "2026-09-21T00:15:00+00:00",
+      "summary": "闌尾癌｜32歲女教師現腸胃問題一年揭患末期闌尾癌比腸癌更惡如常生活患者激增5倍親吐確診前徵狀- 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMirgVBVV95cUxPQmQ0RHJOc1FIQ0djRG1pcnE3UEdoSWw4ai10XzZ6YmRoU05hTzU0Q0RRZ0FoVUxINTlRcThLZ3RrVnAyZXRld1J2ZWdtREpVVElBcEJBT0ZsYUV0VUh6VTJoQVFmR3JKMF9RbTc2Zjh3MUQtQ19NcmlXZ1pBU2trcmR0WEZsQkJhLWM2ZHJhYUdqUmQ3bkQzTkFPaG9ZamVyZG1QZFRjbC02OWJGQ1FzdHo2akRPYTBTMEFQLXQ0VE50ZnZXbm9ZOXpyRHVxNE5jRHc5ZS1IWTVVbmZBZTlIWjdVZXZyTjJzUWl2bmgxc2tvNk55dHZWY0pncjBHVFlwZThNa21kV29UQTAtSUdfTU9aajdTQVctNHh2SlEzM2hfMWRzS3cyLTdyQmlQZDBobFlDMnpTWVVPa2hPeW5Pbk9obFVZQnJZbTdpNS1ndHJGWHpkZldlUHpHakxGTlNONzZDZjZMZS0tTnpDdDJmSjdkVDdIRGZESUp6b3VmNUt5TVl2YWNhcmlQYTFhSWV0MWxUU0hYMVRSanNkalpSRVB6Y1JnRjZqRGVaaHZEQ0hMemo1VzEwUkZPMk9CTjA5eXZiT1Jza3RGaVNaQ2FDeExBVEdUZy04SDBTUGRmSXRkQ0lNZVRwVkVObGxtNkgzazFkVldNdTg1czI4a2ljbGZsVThQTlNoY1VKTlZvRWVTY0d2amRBNksxMS10UENqMlN3SUt2UXhBNy1lR2I1OE1FTE1OR3Vha0wxZ1RRUEZCOXZxSWRETHJ6ODZOc2RNZjdFaVB4Rjh1c3JHcDF5bnV1bnBWLXpmMmZqc0tHMk04S0ZRNkZMcVlQT29XcVN6LVNLQUY2aUN3dGJVTEx6anlXV1N4NjFnYWhhb2d0TER1T1lrLTRWTVVSWWVidw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
             }
           ]
         }
@@ -1551,27 +1551,27 @@
       ]
     },
     {
-      "id": "bfeac1d7dfa0",
-      "title": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍",
-      "published": "2026-09-20T08:58:19+00:00",
-      "summary": "不是看BMI！近6千人研究揭「這2指標」死亡風險增1倍&nbsp;&nbsp;三立新聞",
+      "id": "9fd2cca580a4",
+      "title": "Besremi在PV與ET在美國醫療保險給付條件是否相同？",
+      "published": "2026-09-20T10:58:18+00:00",
+      "summary": "Besremi在PV與ET在美國醫療保險給付條件是否相同？&nbsp;&nbsp;CMoney",
       "sources": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JcWl3S28xVjRfUHhqUzUzeTdaeTZRbDY0S1I3bWtISW1FTFNJOThGM3R0SndNRjVLOHVyWmFvMWgyRnpWaFpKdGtNNjM?oc=5"
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVdHoxeHJjZjZ0T1Z4MWdqd3NVOHdDbXBYTHBiZ2dhUno5NlptUGZZRWZQMW44WDJHd3JKZGdpeldrMHNkcldLaXNvTVBabmRrekVxWHc1WDJzUGxy?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "d07ec9c52058",
-      "title": "年紀大才開始運動還有用嗎？研究揭活動量與糖尿病風險關鍵",
-      "published": "2026-09-20T03:00:33+00:00",
-      "summary": "年紀大才開始運動還有用嗎？研究揭活動量與糖尿病風險關鍵&nbsp;&nbsp;元氣網",
+      "id": "faaec4e837b0",
+      "title": "近6千人研究揭「這2指標」死亡風險增1倍 - 鏡週刊Mirror Media",
+      "published": "2026-09-20T08:53:00+00:00",
+      "summary": "近6千人研究揭「這2指標」死亡風險增1倍&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0dTE0WXBzZUotRUNLZnRyend4ckFKLVo3TXNGX0Nwc2pwZWFFYktMZGUtWTRuQWpiSTZiUTVZRHZvNVBybGFOWk82VExaNTBSMFhXZm1zaEJhRm1j0gFiQVVfeXFMUDdOQUowcVVHNTZYVTFwRXNOX3pIZEVvUTFRZHd0dEhTeEhyX2w3ckszZmdJRkZwZkU4YVY2SkMwN2lybW9nR3l3d3V3R09uNzRlZXEwT09uVVBOSEZUOTI2UXc?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IM3ZmTVNyOE1CMzAzU1NPLUFtZHB5UGhUQVp2c1h2WUJDalFlZWNOUEhqYVkxTzZUNWFlaVM2VmF1bHFpN0podFZzQmFPUGNHeXVlY3hCWFdtVXIz0gFiQVVfeXFMT3BiMnhNV01rWTQyZUQ5bHNMUVdHMGs3RXpVRGhLeFpTRUJZM1ZrNUsxMV9NeWY2akYtWThCS1FPemd4RzhpUF9wbm9vdDVJcFpMLWNKcXpka2MzdmVFRU91ekE?oc=5"
         }
       ],
       "matched_keywords": []
