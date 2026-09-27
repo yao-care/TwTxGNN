@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-27T18:46:31.812167+00:00",
-  "count": 46,
+  "fetched_at": "2026-09-27T21:44:12.952215+00:00",
+  "count": 45,
   "news": [
     {
       "id": "b3cdd33969e7",
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "92525629cf19",
-      "title": "國際基因組研究 揭蝙蝠演化歷程 - on.cc東網",
-      "published": "2026-09-25T20:09:13+00:00",
-      "summary": "國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;IndexBox",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOWlmdkRDTXMtVzlKd29ISi1CbVo5WUpoaFJEdF96ZzQtbkRMOHkyMVdhSDJCclNqYkN4d1RQVUlkV21GVUM1ZS02eFpmbkc0TkFsei1TWFZwbllZUW1Ec1piV3JOOTRfc3FUWUlObG1jeU1wRjRub3BwM2VpaDJLa3h6RFZkODJ6Ull0Vkh1Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "857afca16cc1",
       "title": "老年高血壓不只控血壓！研究揪出3種「關鍵營養素」補好補滿才健康 - 優活健康網",
       "published": "2026-09-21T03:00:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5heHluMTdnRkpXT1lubGt1SWhzb21MSDN3czFhTHZfOGRtNnZnSm1TRDNLQ2pHYUptcnpNRzFqZG9kMDlad0hJX2wtTFRKdHl6NkZn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e878a2963667",
+      "title": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際 - 工商時報",
+      "published": "2026-09-24T10:17:00+00:00",
+      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;indexbox.io國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yUWxuNzFKM2VkclBHU0JNZWJUemZaVEpkYXRrbjBaZ194SXYyYWFrSUlLX3BtVXNPbk5KWUxXakNxQWI5a19jTkpzWDUybU1xRVRZcVpUaHR6M2U2UHZn?oc=5"
         }
       ]
     },
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "9e7b2646109d",
-      "title": "靠燕麥降膽固醇點吃先有效？研究揭每日必吃3克這成分 即食燕麥都吃得？ - CCUE",
-      "published": "2026-09-26T22:00:17+00:00",
-      "summary": "靠燕麥降膽固醇點吃先有效？研究揭每日必吃3克這成分 即食燕麥都吃得？&nbsp;&nbsp;CCUE前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPMjZubGxrM19ZZlpMRHNCRHYyTHF5eDg3d0hvNy0xYmlobGIwQnpFVnFZQVFGZmF1WjUxaUtBcjM5SUlLSlloM24tYV9tRUZLTlE5MDh0OW1HcW1KR3hBalpRc2MxaklnNVEzNFBPVl9odDlMLUxyem04bTFXZG9UbUFxMkZBd29hWkJDcXY5U3dqcmFBWHB0WGJLTnZJQ1pfay1qUFpDN1NnYmVxOFAxX19XV1hkMkdlOXFUcXR4U2o4Yi0tNUd5WU1vVzA1M01KNUN6ZjdxQjRCTVNFREdJaVh6R1l4WmlScHBTSW9oby1jNEUwUF9PdHlhbHhyMV9fdnQ4ZHFRUXM2dmFPd01USk1VZmRERzBrXzBlcmJxaW5lMHBHU0tJTmk2bUpOMlBmbWFrRkdWNFJFdGZDRHFobFdYYWhhVHd3bXdEV3FTYnoyVlRRdFhwS21KYWVhLWM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dc5c2bcc37c9",
       "title": "小中風症狀消失就沒事？研究揭20年失智風險這些警訊要立刻就醫｜腦部．神經｜醫療 - 元氣網",
       "published": "2026-09-24T03:46:54+00:00",
@@ -208,18 +196,6 @@
       ]
     },
     {
-      "id": "464d47392ccd",
-      "title": "美國佛州登革熱病例激增三縣宣布緊急狀態| 大紀元 - 大纪元",
-      "published": "2026-09-26T08:27:00+00:00",
-      "summary": "美國佛州登革熱病例激增三縣宣布緊急狀態| 大紀元&nbsp;&nbsp;大纪元美國佛州登革熱病例激增 三縣進入緊急狀態&nbsp;&nbsp;新唐人電視台美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qNTFULXJmaDl5bmN5LTNSZ2ppUjFrZS1aa18yQnZ5QU1VVnIxa3ZJc2ExOGRvT1VMY3BvS2Z4dzZSTlFkVVFVcGxmOUkxXzEwcXhQRHpiOHRveVNhY1Bfag?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1269a75299d4",
       "title": "他「膀胱脹如排球」痛苦冒汗　緊急插管導出1200cc尿液 - ETtoday健康雲",
       "published": "2026-09-22T23:19:00+00:00",
@@ -228,6 +204,18 @@
         {
           "name": "ETtoday健康雲",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rUjJPYVFRdEgydS1FcFp2aDltRWVIYWRvMzVZelh4NmViN0R2TUNKeGtTQWxzX0JxRE03c3RNSWpPNUxkcWNPMkV1OXBSOHFR0gFPQVVfeXFMUERCQmtDOVBHVUZDcmtId0g4TVFMYkx4TXFBZXhVN3JTNXEyMjJCNVBJVzJUTWNTSzAyOEJwRU1VMXMtOWo3bW9EZW9LYXBtVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "464d47392ccd",
+      "title": "美國佛州登革熱病例激增三縣宣布緊急狀態| 大紀元 - 大纪元",
+      "published": "2026-09-26T08:27:00+00:00",
+      "summary": "美國佛州登革熱病例激增三縣宣布緊急狀態| 大紀元&nbsp;&nbsp;大纪元美國佛州登革熱病例激增 三縣進入緊急狀態&nbsp;&nbsp;新唐人電視台美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qNTFULXJmaDl5bmN5LTNSZ2ppUjFrZS1aa18yQnZ5QU1VVnIxa3ZJc2ExOGRvT1VMY3BvS2Z4dzZSTlFkVVFVcGxmOUkxXzEwcXhQRHpiOHRveVNhY1Bfag?oc=5"
         }
       ]
     },
@@ -256,18 +244,6 @@
       ]
     },
     {
-      "id": "47cb02d49c39",
-      "title": "肺癌復發後走過10年 名醫分享抗癌生活 - 大纪元",
-      "published": "2026-09-26T17:00:00+00:00",
-      "summary": "肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8d87daabf8c",
       "title": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇 - 健康醫療網",
       "published": "2026-09-22T01:00:00+00:00",
@@ -276,6 +252,18 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZDZsVmU2QmNPdVZ4eWtNTFNEWE9XUTBjY0R4LTdzbzZNcGlYZFI1UUN6XzM0OWNtMDdkWUlpTUFNSVNrcU1XM09GUGlsTmoxUFJlWkZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "47cb02d49c39",
+      "title": "肺癌復發後走過10年 名醫分享抗癌生活 - 大纪元",
+      "published": "2026-09-26T17:00:00+00:00",
+      "summary": "肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5"
         }
       ]
     },
@@ -312,18 +300,6 @@
         {
           "name": "大纪元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qbEs3ODE2dFMtZ2xLVzdHcXJmdHB1ZVQxTDJfODBNS1lJV01rUU1yMGhrT1dRcGhOc3Z5Ymp3R0NmcmgxYUFhWFJ1TmlGc0dZU3dBSUN5YmpabWhGXzM4dtIBZkFVX3lxTFA2V01odGNJTDQ4N3k5MGNwbnZjdERmMjhtVGZkRHQ2VTVqeldHZHE1bHYzSVp5S09PS2QtTmN5bF82WS1oemxPeEZOT3ROWWdMMlJ2THhqd2xMYlJxYnhtV2Vibk9hQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9ce9f3097e2",
-      "title": "研究稱大腦實為兩器官 有望助攻漸凍症研究 - 澳門力報",
-      "published": "2026-09-20T23:03:14+00:00",
-      "summary": "研究稱大腦實為兩器官 有望助攻漸凍症研究&nbsp;&nbsp;澳門力報大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine",
-      "sources": [
-        {
-          "name": "澳門力報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6R2UyNGc5SDdSMEJIZzVUX3R2bjdadkJWQlVNdU1UODlBSGZTT01sRlRLbkdkVlowYTkyRlRSZ1MxZEdHUGplZlNlQURqSW15QUYw?oc=5"
         }
       ]
     },
@@ -475,7 +451,7 @@
       "id": "89562a171490",
       "title": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」 - 元氣網",
       "published": "2026-09-24T09:40:57+00:00",
-      "summary": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」&nbsp;&nbsp;元氣網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;udn 女子漾打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
+      "summary": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」&nbsp;&nbsp;元氣網新冠疫苗副作用成焦點！網路十大熱門話題揭曉 醫師破解錯誤迷思&nbsp;&nbsp;woman.udn.com打mRNA疫苗會罹癌？ 專家：沒有證據顯示會致癌|新創臺灣&nbsp;&nbsp;僑新聞",
       "sources": [
         {
           "name": "元氣網",
@@ -504,6 +480,18 @@
         {
           "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9ce9f3097e2",
+      "title": "研究稱大腦實為兩器官 有望助攻漸凍症研究 - 澳門力報",
+      "published": "2026-09-20T23:03:14+00:00",
+      "summary": "研究稱大腦實為兩器官 有望助攻漸凍症研究&nbsp;&nbsp;澳門力報大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine",
+      "sources": [
+        {
+          "name": "澳門力報",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6R2UyNGc5SDdSMEJIZzVUX3R2bjdadkJWQlVNdU1UODlBSGZTT01sRlRLbkdkVlowYTkyRlRSZ1MxZEdHUGplZlNlQURqSW15QUYw?oc=5"
         }
       ]
     },
