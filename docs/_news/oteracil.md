@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>: 胃癌用藥。</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">colonic neoplasm (100.0%)<span class="indication-tag">📰 腸癌</span></li>
+<li class="indication-matched">colonic neoplasm (100.0%)<span class="indication-tag">📰 直腸癌</span></li>
 <li>cecum villous adenoma (100.0%)</li>
 <li>cecum neuroendocrine tumor G1 (100.0%)</li>
 <li>lipoma of colon (100.0%)</li>
@@ -43,6 +43,14 @@ permalink: /news/oteracil/
 </div>
 
 ## 相關新聞（5 則）
+
+### [「盲腸癌」病例急增專家關注 20至39歲升幅最大 疑與幾個因素有關](https://news.google.com/rss/articles/CBMimANBVV95cUxNZ3FhMEc1cjgwTkE3YTRkN1VpcTY1bTlvdWpuTW9NcDBueTB6Z2psVjRDcnI0Z3d3Z3JNSDVxNE9CV0Njdk1UcnFzOV94VHJkQkdpMEZ1c2hWQjloMWhYakxsN0JKMzNBVlhjdTBFTXlfR0hhTHpUWXhOUmZKejlWVVI5eWlqSWRPdlRHZ0NVSlhTVHZHeFBpbmlsbUNXMzc2NWNyUF9uOXhXRnRuLVcyNE9lQzNqRlU1M3ZLRXkwYk5wbkF6MzVOdWtCZTlWWnBtWGloaUs5VUhKTzBhSl9hYXMwdi03LWI2Nmw3Z05qRmRHS1ZFTHhaNGhLVEc3RU1DNnFFMzQ5ZmZ6MjRseHFvaTRsZzF2Ry0zNXlQVWVQMmZ0ektnaWRVcVc2eTlmTmVJMDZCbkZ0QlhoeDJaS0EtM0xSaVBFbHY1cmk4dDk1SGJkVUFpaE1qTmVCME1WU3g2dmFocEVJaEZpSmRfeEY2d0g3U0Q5bmJOZUtVazdYVk9jYTF4dWh4ZHQ1c0g1R2J4M0NadGlDM2w?oc=5)
+
+2026-09-27 <span class="news-indication-tag">腸癌</span>
+
+來源: [AM730](https://news.google.com/rss/articles/CBMimANBVV95cUxNZ3FhMEc1cjgwTkE3YTRkN1VpcTY1bTlvdWpuTW9NcDBueTB6Z2psVjRDcnI0Z3d3Z3JNSDVxNE9CV0Njdk1UcnFzOV94VHJkQkdpMEZ1c2hWQjloMWhYakxsN0JKMzNBVlhjdTBFTXlfR0hhTHpUWXhOUmZKejlWVVI5eWlqSWRPdlRHZ0NVSlhTVHZHeFBpbmlsbUNXMzc2NWNyUF9uOXhXRnRuLVcyNE9lQzNqRlU1M3ZLRXkwYk5wbkF6MzVOdWtCZTlWWnBtWGloaUs5VUhKTzBhSl9hYXMwdi03LWI2Nmw3Z05qRmRHS1ZFTHhaNGhLVEc3RU1DNnFFMzQ5ZmZ6MjRseHFvaTRsZzF2Ry0zNXlQVWVQMmZ0ektnaWRVcVc2eTlmTmVJMDZCbkZ0QlhoeDJaS0EtM0xSaVBFbHY1cmk4dDk1SGJkVUFpaE1qTmVCME1WU3g2dmFocEVJaEZpSmRfeEY2d0g3U0Q5bmJOZUtVazdYVk9jYTF4dWh4ZHQ1c0g1R2J4M0NadGlDM2w?oc=5)
+
+---
 
 ### [大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5)
 
@@ -60,27 +68,19 @@ permalink: /news/oteracil/
 
 ---
 
+### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
+
+2026-09-24 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
+
+---
+
 ### [屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了](https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5)
 
 2026-09-23 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5)
-
----
-
-### [諾貝爾醫學獎研究：癌症竟與「它」有關?！](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
-
-2026-09-21 <span class="news-indication-tag">癌症</span>
-
-來源: [Mobile01](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10MHAzbkVZamtYSTkyMVBqY0JoSV9ET1R5TEhaTXJWbXF0WV9VcThFZ2dmcWplSk5mWGJKOE1WZ1JwOUs4M2F5RjdhMU1vaVpLZUNKTE1CQW9fQlhqTkRMcjZPQXl3enc?oc=5)
-
----
-
-### [闌尾癌｜32歲女教師現腸胃問題一年揭患末期闌尾癌比腸癌更惡如常生活患者激增5倍親吐確診前徵狀- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMirgVBVV95cUxPQmQ0RHJOc1FIQ0djRG1pcnE3UEdoSWw4ai10XzZ6YmRoU05hTzU0Q0RRZ0FoVUxINTlRcThLZ3RrVnAyZXRld1J2ZWdtREpVVElBcEJBT0ZsYUV0VUh6VTJoQVFmR3JKMF9RbTc2Zjh3MUQtQ19NcmlXZ1pBU2trcmR0WEZsQkJhLWM2ZHJhYUdqUmQ3bkQzTkFPaG9ZamVyZG1QZFRjbC02OWJGQ1FzdHo2akRPYTBTMEFQLXQ0VE50ZnZXbm9ZOXpyRHVxNE5jRHc5ZS1IWTVVbmZBZTlIWjdVZXZyTjJzUWl2bmgxc2tvNk55dHZWY0pncjBHVFlwZThNa21kV29UQTAtSUdfTU9aajdTQVctNHh2SlEzM2hfMWRzS3cyLTdyQmlQZDBobFlDMnpTWVVPa2hPeW5Pbk9obFVZQnJZbTdpNS1ndHJGWHpkZldlUHpHakxGTlNONzZDZjZMZS0tTnpDdDJmSjdkVDdIRGZESUp6b3VmNUt5TVl2YWNhcmlQYTFhSWV0MWxUU0hYMVRSanNkalpSRVB6Y1JnRjZqRGVaaHZEQ0hMemo1VzEwUkZPMk9CTjA5eXZiT1Jza3RGaVNaQ2FDeExBVEdUZy04SDBTUGRmSXRkQ0lNZVRwVkVObGxtNkgzazFkVldNdTg1czI4a2ljbGZsVThQTlNoY1VKTlZvRWVTY0d2amRBNksxMS10UENqMlN3SUt2UXhBNy1lR2I1OE1FTE1OR3Vha0wxZ1RRUEZCOXZxSWRETHJ6ODZOc2RNZjdFaVB4Rjh1c3JHcDF5bnV1bnBWLXpmMmZqc0tHMk04S0ZRNkZMcVlQT29XcVN6LVNLQUY2aUN3dGJVTEx6anlXV1N4NjFnYWhhb2d0TER1T1lrLTRWTVVSWWVidw?oc=5)
-
-2026-09-21 <span class="news-indication-tag">腸癌</span>
-
-來源: [myTV SUPER](https://news.google.com/rss/articles/CBMirgVBVV95cUxPQmQ0RHJOc1FIQ0djRG1pcnE3UEdoSWw4ai10XzZ6YmRoU05hTzU0Q0RRZ0FoVUxINTlRcThLZ3RrVnAyZXRld1J2ZWdtREpVVElBcEJBT0ZsYUV0VUh6VTJoQVFmR3JKMF9RbTc2Zjh3MUQtQ19NcmlXZ1pBU2trcmR0WEZsQkJhLWM2ZHJhYUdqUmQ3bkQzTkFPaG9ZamVyZG1QZFRjbC02OWJGQ1FzdHo2akRPYTBTMEFQLXQ0VE50ZnZXbm9ZOXpyRHVxNE5jRHc5ZS1IWTVVbmZBZTlIWjdVZXZyTjJzUWl2bmgxc2tvNk55dHZWY0pncjBHVFlwZThNa21kV29UQTAtSUdfTU9aajdTQVctNHh2SlEzM2hfMWRzS3cyLTdyQmlQZDBobFlDMnpTWVVPa2hPeW5Pbk9obFVZQnJZbTdpNS1ndHJGWHpkZldlUHpHakxGTlNONzZDZjZMZS0tTnpDdDJmSjdkVDdIRGZESUp6b3VmNUt5TVl2YWNhcmlQYTFhSWV0MWxUU0hYMVRSanNkalpSRVB6Y1JnRjZqRGVaaHZEQ0hMemo1VzEwUkZPMk9CTjA5eXZiT1Jza3RGaVNaQ2FDeExBVEdUZy04SDBTUGRmSXRkQ0lNZVRwVkVObGxtNkgzazFkVldNdTg1czI4a2ljbGZsVThQTlNoY1VKTlZvRWVTY0d2amRBNksxMS10UENqMlN3SUt2UXhBNy1lR2I1OE1FTE1OR3Vha0wxZ1RRUEZCOXZxSWRETHJ6ODZOc2RNZjdFaVB4Rjh1c3JHcDF5bnV1bnBWLXpmMmZqc0tHMk04S0ZRNkZMcVlQT29XcVN6LVNLQUY2aUN3dGJVTEx6anlXV1N4NjFnYWhhb2d0TER1T1lrLTRWTVVSWWVidw?oc=5)
 
 ---
 
