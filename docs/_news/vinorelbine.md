@@ -48,7 +48,7 @@ permalink: /news/vinorelbine/
 
 2026-09-26 <span class="news-indication-tag">肺癌</span>
 
-來源: [epochtimes.com](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
+來源: [大纪元](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
 
 ---
 

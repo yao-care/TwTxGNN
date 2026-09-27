@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5)
 
@@ -65,22 +65,6 @@ permalink: /news/gemcitabine/
 2026-09-24 <span class="news-indication-tag">癌症</span>
 
 來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
-
----
-
-### [屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了](https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5)
-
-2026-09-23 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5)
-
----
-
-### [車禍僅腳瘀青！58歲婦人數小時後胸悶喘「心碎症候群」好發停經女性：不能只防乳癌- 娛樂新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
-
-2026-09-20 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
-
-來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWxqV2tRcGJrT3FmTGZsRjJrU0JUb3BSREpSWUcwLXpNQ2lmZ2tpQmJIcmxXUzk5cDhHeEl4dEFqN05ManJTRzdodUlaNll1a3c5U2s4VmV3ZUVZa1Y3S2JnZjVaNGYxZDkyb1V5TDJzY1lISWYwd3BhbDJ0Mm1RSml1QmhlenNVdG5VYXFoOXY?oc=5)
 
 ---
 
