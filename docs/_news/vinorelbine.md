@@ -33,7 +33,7 @@ permalink: /news/vinorelbine/
 <li>lung germ cell tumor (100.0%)</li>
 <li>pulmonary sulcus neoplasm (100.0%)</li>
 <li>hamartoma of lung (100.0%)</li>
-<li class="indication-matched">small cell lung carcinoma (100.0%)<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma (100.0%)</li>
 <li>lung benign neoplasm (100.0%)</li>
 <li>lung hilum carcinoma (100.0%)</li>
 <li>pulmonary blastoma (100.0%)</li>
@@ -43,6 +43,14 @@ permalink: /news/vinorelbine/
 </div>
 
 ## 相關新聞（4 則）
+
+### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
+
+2026-09-28 <span class="news-indication-tag">腫瘤</span>
+
+來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
+
+---
 
 ### [19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5)
 
@@ -60,19 +68,11 @@ permalink: /news/vinorelbine/
 
 ---
 
-### [肺癌復發後走過10年 名醫分享抗癌生活](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRWo5c1F6REVleGw5TDB3dVJZSVVyc3ZFV2hMQVFUc2NzekcwNzB1ZEF1V2JLWXh6dWNfX1FOMzU4VGlpUDNwdGpVSEZjQ2ZVTk1OOFJ2b3FVc3VxSEE?oc=5)
-
-2026-09-24 <span class="news-indication-tag">肺癌</span>
-
-來源: [大紀元時報香港](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRWo5c1F6REVleGw5TDB3dVJZSVVyc3ZFV2hMQVFUc2NzekcwNzB1ZEF1V2JLWXh6dWNfX1FOMzU4VGlpUDNwdGpVSEZjQ2ZVTk1OOFJ2b3FVc3VxSEE?oc=5)
-
----
-
-### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
+### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
 
 2026-09-24 <span class="news-indication-tag">癌症</span>
 
-來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE14X05NcVlUWlFLYS1maTIyQmRmSVJYQ0JaWVRYeURNRUxUSTF1Q2R6UlRHdWFvT0l3QnNxZmxBMVRleUdsS0xCUjQ3YjdtSHlyT3pZYS1WdWl5QmJaY2w1TnBGN1FmTTlHSk1nU1BkMHUxOWdJc1E?oc=5)
+來源: [香港商报](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
 
 ---
 
