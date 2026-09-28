@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [AI 從電子病歷挖出膀胱癌警訊，部分訊號最早確診前五年就出現 - TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMURkN1dMLTl2cTdaVURnU0ZGd2RCX2ZJaTBDbXgxTnViM0NBWk5ubEhjaXdEVDlieVo3Ym55YWF0X29qOHoyRWZqN0FZd2tHWjRSbFY4RE5RUFFxUE04RFVaS1RMZ0E5UW9ZYmdRYkowUmllMEVqUTJUcXRtMktzNmxVcUttNnpRaWxVY0thNnNRdTFvb1dmbzJFcGtva191eEVpVzZOYWx0Q2cyU3c?oc=5)
+
+2026-09-28 <span class="news-indication-tag">膀胱癌</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMURkN1dMLTl2cTdaVURnU0ZGd2RCX2ZJaTBDbXgxTnViM0NBWk5ubEhjaXdEVDlieVo3Ym55YWF0X29qOHoyRWZqN0FZd2tHWjRSbFY4RE5RUFFxUE04RFVaS1RMZ0E5UW9ZYmdRYkowUmllMEVqUTJUcXRtMktzNmxVcUttNnpRaWxVY0thNnNRdTFvb1dmbzJFcGtva191eEVpVzZOYWx0Q2cyU3c?oc=5)
+
+---
+
+### [19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5)
+
+2026-09-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5)
+
+---
 
 ### [腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
 
