@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T21:44:15.095183+00:00",
+  "generated": "2026-09-28T00:08:01.578304+00:00",
   "count": 12,
   "news": [
     {
@@ -94,6 +94,53 @@
       ]
     },
     {
+      "id": "3af42fac5fd9",
+      "title": "大腸狂長20顆息肉！醫教他「肉全換吃魚」　第5次追蹤全沒了",
+      "published": "2026-09-26T11:28:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Q1FWcnpaTjlzUnpELTFGVGEyOVZ0R2Z1NDc4cWVpLTltZzlGbm5FeVBsUkY5SGJwWnJ4cWU4dnNZX0FSRXFOazBfYTNZX2Yt0gFPQVVfeXFMUHhNRmhxZG1rbHRHeVg4VzVmS2taeW53VVdPbU5hNHJKYVhPLTB6N003ZWFtQ2d6MkJyOXBxdUQyNk9MUmY2Y2VtUE1PRjkyaw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "643aa047e0d5",
       "title": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛",
       "published": "2026-09-26T10:30:00+00:00",
@@ -151,53 +198,6 @@
             {
               "slug": "ibuprofen",
               "name": "Ibuprofen"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b3cdd33969e7",
-      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
-      "published": "2026-09-26T05:20:08+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

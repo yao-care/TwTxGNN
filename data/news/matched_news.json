@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-27T21:44:15.075287+00:00",
-  "total_count": 45,
+  "last_updated": "2026-09-28T00:08:01.554689+00:00",
+  "total_count": 44,
   "matched_count": 12,
   "news": [
     {
@@ -104,6 +104,19 @@
       ]
     },
     {
+      "id": "2eb8d1fe7f52",
+      "title": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關",
+      "published": "2026-09-26T22:40:13+00:00",
+      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;bastillepost.com",
+      "sources": [
+        {
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQYzZrQVJHY0Z0cWJ6UGM0cExWbTlfamt4Rl9hRDVvRmFaejlvM2t4T2NYM0hyR0wzS3FBQnBDcG5FMDl4TUdNNDhjdHd5Mm8yQjZvUjIyNHFrRmh5aXQ4Z1g5V01rNGQ0dFhVVDFDV1dCYUg0Qmt1dkdlVzlFczBZT0l2cmdvMUk0a2FPUmlwLXRkY0UwQk9JRzlCcDNXVHNpMEFiZkFHTmJuUWZiRzVzOGFia29MMnFjaFpRY09ObWRMYUdtend6YlZLRUZxSXMtTGIzR0pzVlQ5Sm9waUVNSHkwTHBQdGxuTkVJczdCQXphTXJfeE01U3pDa18tekhNNnVqSDZ3X0tReUxMRmJmeDh1UTlwaXN3SWF6d2VCbGhCM1dHMmlZeENnU1cwRWlmd3BPMU00QjdJR1dMWUVWaEIxMzI4R050U0g5bTNfOEVXLTg5NjN5M1RNOW14SDdwem96NEY1T1lFd3d0Q2JoRw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "bfa41f10a328",
       "title": "安省流感疫苗下周起分階段接種",
       "published": "2026-09-26T18:40:00+00:00",
@@ -144,6 +157,54 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3af42fac5fd9",
+      "title": "大腸狂長20顆息肉！醫教他「肉全換吃魚」　第5次追蹤全沒了",
+      "published": "2026-09-26T11:28:00+00:00",
+      "summary": "大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失&nbsp;&nbsp;Yahoo新聞大腸內狂長20顆！他改吃「1種肉」息肉全消失&nbsp;&nbsp;東森新聞腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET大腸狂長20顆息肉！改吃「1種肉」全消失 大腸癌風險降低12% | TVBS&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Q1FWcnpaTjlzUnpELTFGVGEyOVZ0R2Z1NDc4cWVpLTltZzlGbm5FeVBsUkY5SGJwWnJ4cWU4dnNZX0FSRXFOazBfYTNZX2Yt0gFPQVVfeXFMUHhNRmhxZG1rbHRHeVg4VzVmS2taeW53VVdPbU5hNHJKYVhPLTB6N003ZWFtQ2d6MkJyOXBxdUQyNk9MUmY2Y2VtUE1PRjkyaw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -214,13 +275,13 @@
       ]
     },
     {
-      "id": "dd244bbff105",
+      "id": "b82aeb483f10",
       "title": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽",
       "published": "2026-09-26T09:10:00+00:00",
-      "summary": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;知新聞",
+      "summary": "心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;knews.com.tw",
       "sources": [
         {
-          "name": "知新聞",
+          "name": "knews.com.tw",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LdUVET2loVnA2cUljeTdhLWU5M2ZNbFBxblRELVliV01DLV9UX3RBdkl2bEZtb3FNU1VpR2FPemF4Tk9XZjZ3ZldVRDlsOU9FMGtydmV6b3pjUHhJc1BNd0JNRXNJaTBqaEhMN1A2SQ?oc=5"
         }
       ],
@@ -251,54 +312,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b3cdd33969e7",
-      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
-      "published": "2026-09-26T05:20:08+00:00",
-      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失&nbsp;&nbsp;Yahoo新聞大腸內狂長20顆！他改吃「1種肉」息肉全消失&nbsp;&nbsp;東森新聞腸道健康｜男子連照5次腸鏡切20粒瘜肉切完又生醫生教改食1種肉大腸癌風險降12%【附6大高危特徵】&nbsp;&nbsp;香港經濟日報HKET大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "04ce210a7952",
@@ -350,6 +363,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1aad05c318c0",
+      "title": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關 | 科技新報 - LINE TODAY",
+      "published": "2026-09-25T11:25:55+00:00",
+      "summary": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FLVhrX05Yb2hWVVRJSHZxN2YzM0NndFU5bEFPOXJneDY4bFRscTlSMGZvMTFCREs1ckpVOFJoMjZmSEQ0OHVxMEZSWVQ1U0FETm13WG5n?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "dae0f4de1bf4",
@@ -625,7 +651,7 @@
       "id": "e878a2963667",
       "title": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際",
       "published": "2026-09-24T10:17:00+00:00",
-      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;indexbox.io國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網",
+      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;IndexBox國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
           "name": "工商時報",
@@ -1076,19 +1102,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1269a75299d4",
-      "title": "他「膀胱脹如排球」痛苦冒汗　緊急插管導出1200cc尿液",
-      "published": "2026-09-22T23:19:00+00:00",
-      "summary": "他「膀胱脹如排球」痛苦冒汗 緊急插管導出1200cc尿液&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rUjJPYVFRdEgydS1FcFp2aDltRWVIYWRvMzVZelh4NmViN0R2TUNKeGtTQWxzX0JxRE03c3RNSWpPNUxkcWNPMkV1OXBSOHFR0gFPQVVfeXFMUERCQmtDOVBHVUZDcmtId0g4TVFMYkx4TXFBZXhVN3JTNXEyMjJCNVBJVzJUTWNTSzAyOEJwRU1VMXMtOWo3bW9EZW9LYXBtVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b0d8ad667bba",
       "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思",
       "published": "2026-09-22T18:00:00+00:00",
@@ -1105,7 +1118,7 @@
       "id": "5ebaca11c82f",
       "title": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力",
       "published": "2026-09-22T02:00:21+00:00",
-      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;Sundaykiss媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
+      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01開學季易交叉感染 營養師推薦必吃6大營養素 配合4招免疫力倍增&nbsp;&nbsp;sundaykiss.com媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
       "sources": [
         {
           "name": "香港01",
@@ -1141,27 +1154,14 @@
       "matched_keywords": []
     },
     {
-      "id": "1aad05c318c0",
-      "title": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關 | 科技新報 - LINE TODAY",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "ee78fa174927",
+      "title": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」",
+      "published": "2026-09-21T09:40:00+00:00",
+      "summary": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FLVhrX05Yb2hWVVRJSHZxN2YzM0NndFU5bEFPOXJneDY4bFRscTlSMGZvMTFCREs1ckpVOFJoMjZmSEQ0OHVxMEZSWVQ1U0FETm13WG5n?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "87beb41ba499",
-      "title": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」 - PChome Online 新聞",
-      "published": "2026-09-21T07:00:00+00:00",
-      "summary": "七旬婦血便狂喘險喪命！輸血無效 原是罕見「伊凡斯症候群」&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTlBXalZ0bVJnOGpoV1k1b2Q4eWZkVlFkenZXLXJIZ1d1NkxzS1Z4QTFsOGpxdXF6RzJjUVFSQ1BXTXd2YnNTX0dXbllueERKRXRLRUF1ZEg1aGdhd1FQWjlLS05CN3RheEtScDFWSzVPZVlXYV9NZGlUX1E3RXpTX3YzeXdENjNYaHh0UVRLbWgxeGc?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HcjZhcFR6WTJYVXFaZHUtZWJlWno3Y196R1BhM2JzNWR3NmpPYlR3V0JUeEdJWF9hamlRVTBTMjVKTDcySHNMTWRmc3BXRHhSN1ktWUpFZWxjRjYyQUNJbA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1188,6 +1188,19 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMisAVBVV95cUxNLTBZREdHVlVwNlpkbFNZc3NUMk1rZ3M4ZXFXTTA4aEVMNFZRMnZudTJjMHMyUGFwOVJNTFVHUFFRa3IxRk1wclVSamdQdGRvYUl4bklXWk44OU50c2hJb1pvd2lqd1pyTDRuSEdQS1Q1dkNjN2k0ZXJPWHhOdTlraTBfVjJDTEJVV0NxSU9xZ0I3b0VTQWdtWFIzblZwc3ZnMnFMb2FvV1ZBMW1Jemh1dEw2R2ViejdjM1N2bU9tcXFNOUsyN1lzR2gzUDdOSXB3anJyZWZldTQwRVRHZldMVWNHZHBoV0YxekYxZXY5OVQ5b091QkdacFdyYnFIaHllQWZoQVA2OTRsQzJYeXJua2NlTG1peTRiMHk1WlZzUUlSZVdsNlFteTR5ZmRxQmRxZ0JzdjBtdWFIbGNieGVldHNrQTNKRUNYQUNvaTVVbzhRc21yUE9ESmtNM3JianlHU25YTlJ2aEl3bXZTbU1xeVNBTjR4RW0tNTJzSTk1VjBNSFUzc3dabWtoa1k5VnFMM3prYnhlYXVfWExzdUdhWlVvMzRXeFRISk53cXdycl94N3czUEs2MDhpVm5hclVtN0RDQkdwQXdNdi1Vc1JnRElVS0p4S1I5NlZQZUxtQVlPTS1QVjhpSkZ5bEFuRGM1dW9xeUlzNzA1RnoycTRIRFZnZGl3Nk1lbG5ySUZoN2hrck80ZHU2bWlMaVZCQ0dfdnJHZW9QWExyWFBWR25XcWZqdVRkTkc5X1VvZ2pZalpMbUgzN3FyNWJHSERYWWFTN1lRT19CVEc0c1FvdXppeC0tUTlLTDNfdWhTbDNWa0k2dlYtbFU1c2FTUHI0MTVwTDVraS1uVlkwaGNOZVJYUUNDQi1fUHN2cVl5djJRSW1JVHNfb1BVSnd3SXQ0UkEy?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6216c2afc402",
+      "title": "史丹福揭大腦竟是「2個器官」！成功培養後腦神經元助漸凍症研究",
+      "published": "2026-09-21T05:00:32+00:00",
+      "summary": "史丹福揭大腦竟是「2個器官」！成功培養後腦神經元助漸凍症研究&nbsp;&nbsp;香港01前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQXzdRNEtNOXJGeFI4UTcwTlpjTnNxU0MtZnFDUE1CTlNUaDJlRmx4Wk1JMExTa2RQME1oaGt6a3lUYjNicFpXdVJ5WU45cEh3cGpldVFkNEFNYTBHN1B3cHhBdGZTVWxzS2Y0RlJWUUxIbzQ0TE9veGltQjZoY19qbUJiS0lRV3EzcmdaSUxJUDZhNUY2R1F4QklrWGwzVUtldUFMbzc2bnRLSkJKNHRsNEcyWVQycHNhVDNfc29aOExaZzZ1YXJQanpHaHRERUVkbE5iTWVUcFhqZ3lJUE9PeWJXdmctZ2ZjS1Nyb05McURkeHlRNUE1Vk5xVTBQRXM1VUhhM3RDQkNYOUM4RWhBek1NcldSS3EtSXl6RWh4YnVDZmFaYzFmRGliLXdIN0hOdk5zRzhLLWo3Mi12SUwzcTM5dWRvTVQ2MU5aVElpcW1MTkZBMlF3aFZYeGhmaHRfVld2Q29hLUd3bXZpeEw0eWcxRzFXRkloOFpSZHRoa0Z0c3pjcVBNblcyUkcyc2xzRlNLaU85eEgxNVVrTzV5MjJfdnEzOURLZTBmaTNfYllPUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1220,32 +1233,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c4a28ef63c00",
-      "title": "吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌",
-      "published": "2026-09-21T00:02:03+00:00",
-      "summary": "吃素防癌竟大破功 營養師揭缺「這營養」更毒！醫推「魚素」+這杯更防癌&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQdS1kdnlZaUVwcUxSNGl5SU94Tzlhc0p0Tmp3U3AtVzZkb2VXd1U4V2UxY2xpZkt5TG03dWc3MUJYUXFjU2FPRXFGUHBFSl9LeFNNRW5BVlNaalJkUmdFbkRBTVdZSWYydVdZRGFWb3dBYUk4ZXE0Q2xWMVRKc0FnRUNPSWo2azZNUlFGWTR5Y05jZDFwYklFOTBEQjYtNlQ0X0p2Nk9ya3NJbUFhOUt6U1lMXzVkZ0JUZDZWdnU3N1RCOXh5bnlWbW5kX1d4M25sNE03Y0R3WTBJeGFROElERVFDaWFoZnRlcGg5M3d6aXNKVVUzYk1YSmJvcmpmajRCTDFxYWFqMS1tMEJhaG45UUlHWnJlRFdXSVBJZW1YS1N2S2dnRnBJTWpNeW9xTFRqWnBlWjNCWkhhS1d5TjBPWG8xYnB3M3ZB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b9ce9f3097e2",
-      "title": "研究稱大腦實為兩器官 有望助攻漸凍症研究",
-      "published": "2026-09-20T23:03:14+00:00",
-      "summary": "研究稱大腦實為兩器官 有望助攻漸凍症研究&nbsp;&nbsp;澳門力報大腦是兩個器官，而非一個——這一分化可追溯至6億年前– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine",
-      "sources": [
-        {
-          "name": "澳門力報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6R2UyNGc5SDdSMEJIZzVUX3R2bjdadkJWQlVNdU1UODlBSGZTT01sRlRLbkdkVlowYTkyRlRSZ1MxZEdHUGplZlNlQURqSW15QUYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
