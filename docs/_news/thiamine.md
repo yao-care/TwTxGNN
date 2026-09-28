@@ -3,7 +3,7 @@ layout: default
 title: "Thiamine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Thiamine 的相關健康新聞報導。原適應症：。預測適應症 4 個。"
+description: "Thiamine 的相關健康新聞報導。原適應症：。預測適應症 7 個。"
 permalink: /news/thiamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/thiamine/
 ---
 
 <p class="key-answer" data-question="Thiamine 有什麼相關新聞？">
-<strong>Thiamine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Thiamine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,10 @@ permalink: /news/thiamine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（4 個）</strong>:<ul>
+<li><strong>預測適應症（7 個）</strong>:<ul>
+<li>Thiamine 的神經保護作用與青光眼 (2020.0%)</li>
+<li>維生素 B1 對視神經細胞的保護機轉 (2019.0%)</li>
+<li>營養補充與青光眼進展的關係 (2018.0%)</li>
 <li>hyperthyroidism (99.4%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.4%)</li>
 <li>primary hereditary glaucoma (99.4%)</li>

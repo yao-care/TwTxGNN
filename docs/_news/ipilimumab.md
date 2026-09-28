@@ -3,7 +3,7 @@ layout: default
 title: "Ipilimumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ipilimumab 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
+description: "Ipilimumab 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
 permalink: /news/ipilimumab/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ipilimumab/
 ---
 
 <p class="key-answer" data-question="Ipilimumab 有什麼相關新聞？">
-<strong>Ipilimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Ipilimumab</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/ipilimumab/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（2 個）</strong>:<ul>
+<li><strong>預測適應症（3 個）</strong>:<ul>
+<li>脈絡膜無虹膜症 (1.0%)</li>
 <li>choroideremia (99.1%)</li>
 <li>non-cutaneous melanoma (99.0%)</li>
 </ul></li>
@@ -37,7 +38,7 @@ permalink: /news/ipilimumab/
 
 ### [19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5)
 
-2026-09-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-09-28 <span class="news-indication-tag">癌症</span>
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5)
 

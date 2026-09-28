@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-28T06:07:28.708573+00:00",
-  "count": 16,
+  "generated": "2026-09-28T14:43:59.210976+00:00",
+  "count": 15,
   "news": [
     {
       "id": "13758be5dc6e",
@@ -302,17 +302,6 @@
               "name": "Zanubrutinib"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
         }
       ]
     },
@@ -376,85 +365,6 @@
       ]
     },
     {
-      "id": "47cb02d49c39",
-      "title": "肺癌復發後走過10年 名醫分享抗癌生活",
-      "published": "2026-09-26T17:00:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3af42fac5fd9",
-      "title": "大腸狂長20顆息肉！醫教他「肉全換吃魚」　第5次追蹤全沒了",
-      "published": "2026-09-26T11:28:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Q1FWcnpaTjlzUnpELTFGVGEyOVZ0R2Z1NDc4cWVpLTltZzlGbm5FeVBsUkY5SGJwWnJ4cWU4dnNZX0FSRXFOazBfYTNZX2Yt0gFPQVVfeXFMUHhNRmhxZG1rbHRHeVg4VzVmS2taeW53VVdPbU5hNHJKYVhPLTB6N003ZWFtQ2d6MkJyOXBxdUQyNk9MUmY2Y2VtUE1PRjkyaw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "643aa047e0d5",
       "title": "類風濕關節炎造成手指腫痛變形 微細動脈栓塞介入可緩疼痛",
       "published": "2026-09-26T10:30:00+00:00",
@@ -512,6 +422,53 @@
             {
               "slug": "ibuprofen",
               "name": "Ibuprofen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3cdd33969e7",
+      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
+      "published": "2026-09-26T05:20:08+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
@@ -779,6 +736,38 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5d23f5f3364",
+      "title": "肺癌復發後走過10年 名醫分享抗癌生活",
+      "published": "2026-09-24T21:29:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元時報香港",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRWo5c1F6REVleGw5TDB3dVJZSVVyc3ZFV2hMQVFUc2NzekcwNzB1ZEF1V2JLWXh6dWNfX1FOMzU4VGlpUDNwdGpVSEZjQ2ZVTk1OOFJ2b3FVc3VxSEE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
             }
           ]
         }
@@ -1097,42 +1086,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "07412702ac0a",
-      "title": "瘦身｜日本爆紅「減肥操」每日簡單運動助燃脂 更年期也能輕鬆瘦",
-      "published": "2026-09-23T03:32:07+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQTC1nQTJoaENZM2RKZG94RS1tNnpycEp5a0d6WE9zQ3QtM1dmNUZPdm5CRlZpOUR6UF9MaFVoQjREcGI1VEFhd2llSlIxUTBxWUw0Y3dOX2tZZUFFZFZMcWZqcVFucmZxODh1bWU0SWFWZU5MZW5IaU50SmtOWGJhbVJnXzV6YTRsN1FjWE5ZcFZJOUFXMWp6ZlB5SFhXY0dKZGJfbFc3a2U4V2J4aGNpM2N5Mmp0MS1RblNzdVRtWHVLa01kNUYwQzdEOGdfUTVnNEo0Y3hLcXc5T0pTbGNGVUVUUzVicG1acDk2NHExeWJ1cnRyR2w4U2JpSUhZUlpKbnVzSEEwS09uZmo2Q0JRSmpFdHRmVVlHSnhXeDVtc3IzbVMtODdobHdpVXFJcmRvZnVpV3F2WXAtSlNjd2ZjcTlzYTI2WXVIVXFSQVJkcVp3bVhDLXNyVDNTTHBneHpzYUhpMnBkNnJrQS1UMFhNbFN4U1BxRkxpQkR0alJIZG5CbXlieEdnMnVfTUNFWFhqb3hfc0NTdU5ZRFJjX2YtcGJ4a1B3a25UcGptbkRWYXc2NnM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

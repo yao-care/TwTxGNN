@@ -3,7 +3,7 @@ layout: default
 title: "Theophylline 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Theophylline 的相關健康新聞報導。原適應症：。預測適應症 7 個。"
+description: "Theophylline 的相關健康新聞報導。原適應症：。預測適應症 11 個。"
 permalink: /news/theophylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/theophylline/
 ---
 
 <p class="key-answer" data-question="Theophylline 有什麼相關新聞？">
-<strong>Theophylline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Theophylline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 11 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,11 @@ permalink: /news/theophylline/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（7 個）</strong>:<ul>
+<li><strong>預測適應症（11 個）</strong>:<ul>
+<li>鼻內 Theophylline 治療病毒感染後嗅覺喪失的 Phase 2 試驗 (2021.0%)</li>
+<li>Theophylline 對嗅覺神經元再生的作用機轉 (2020.0%)</li>
+<li>cAMP 信號通路在嗅覺功能恢復中的角色 (2019.0%)</li>
+<li>病毒感染後嗅覺障礙的藥物治療選擇 (2018.0%)</li>
 <li>thrombotic disease (99.6%)</li>
 <li>nasal cavity disease (99.5%)</li>
 <li>laryngotracheitis (99.5%)</li>

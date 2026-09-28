@@ -3,7 +3,7 @@ layout: default
 title: "Griseofulvin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Griseofulvin 的相關健康新聞報導。原適應症：。預測適應症 5 個。"
+description: "Griseofulvin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
 permalink: /news/griseofulvin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/griseofulvin/
 ---
 
 <p class="key-answer" data-question="Griseofulvin 有什麼相關新聞？">
-<strong>Griseofulvin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Griseofulvin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,12 @@ permalink: /news/griseofulvin/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（5 個）</strong>:<ul>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>蠅蛆症 (1.0%)</li>
+<li>疥蟲性蠅蛆症 (1.0%)</li>
+<li>傷口蠅蛆症 (1.0%)</li>
+<li>爬行性蠅蛆症 (1.0%)</li>
+<li>包蟲病 (1.0%)</li>
 <li>myiasis (99.4%)</li>
 <li>furuncular myiasis (99.3%)</li>
 <li>wound myiasis (99.3%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Ferrous gluconate 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ferrous gluconate 的相關健康新聞報導。原適應症：。預測適應症 5 個。"
+description: "Ferrous gluconate 的相關健康新聞報導。原適應症：。預測適應症 8 個。"
 permalink: /news/ferrous_gluconate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ferrous_gluconate/
 ---
 
 <p class="key-answer" data-question="Ferrous gluconate 有什麼相關新聞？">
-<strong>Ferrous gluconate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Ferrous gluconate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,10 @@ permalink: /news/ferrous_gluconate/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（5 個）</strong>:<ul>
+<li><strong>預測適應症（8 個）</strong>:<ul>
+<li>Plummer-Vinson 症候群 (1.0%)</li>
+<li>巨紅血球性貧血 (1.0%)</li>
+<li>維生素缺乏症 (1.0%)</li>
 <li>Plummer-Vinson syndrome (99.9%)</li>
 <li>vitamin B12- and folate-independent constitutional megaloblastic anemia (99.9%)</li>
 <li>non-syndromic esophageal malformation (99.7%)</li>

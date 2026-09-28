@@ -3,7 +3,7 @@ layout: default
 title: "Gefitinib 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Gefitinib 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Gefitinib 的相關健康新聞報導。原適應症：。預測適應症 15 個。"
 permalink: /news/gefitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,12 @@ permalink: /news/gefitinib/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
+<li><strong>預測適應症（15 個）</strong>:<ul>
+<li>牙齦纖維瘤 (1.0%)</li>
+<li>肺纖維瘤 (1.0%)</li>
+<li>額顳葉失智伴肌病 (1.0%)</li>
+<li>肺錯構瘤 (1.0%)</li>
+<li>肺門癌 (1.0%)</li>
 <li>fibromatosis, gingival (99.9%)</li>
 <li>fibroma of lung (99.9%)</li>
 <li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia (99.9%)</li>
@@ -53,7 +58,7 @@ permalink: /news/gefitinib/
 
 ### [19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5)
 
-2026-09-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-09-28 <span class="news-indication-tag">癌症</span>
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5)
 

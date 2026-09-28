@@ -3,7 +3,7 @@ layout: default
 title: "Tenofovir alafenamide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Tenofovir alafenamide 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
+description: "Tenofovir alafenamide 的相關健康新聞報導。原適應症：。預測適應症 8 個。"
 permalink: /news/tenofovir_alafenamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tenofovir_alafenamide/
 ---
 
 <p class="key-answer" data-question="Tenofovir alafenamide 有什麼相關新聞？">
-<strong>Tenofovir alafenamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tenofovir alafenamide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,12 @@ permalink: /news/tenofovir_alafenamide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（3 個）</strong>:<ul>
+<li><strong>預測適應症（8 個）</strong>:<ul>
+<li>長效 TAF 奈米製劑在恆河猴的藥理學評估 (2022.0%)</li>
+<li>長效 TAF 注射劑在猴模型的預防效果 (2021.0%)</li>
+<li>長效 Cabotegravir + TAF 組合在 SHIV 感染模型的評估 (2020.0%)</li>
+<li>TAF 長效製劑在 SIV 猴模型的分布研究 (2020.0%)</li>
+<li>長效 Tenofovir 前驅藥在恆河猴的藥動學 (2019.0%)</li>
 <li>feline acquired immunodeficiency syndrome (99.9%)</li>
 <li>simian immunodeficiency virus infection (99.9%)</li>
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
