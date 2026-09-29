@@ -1,17 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-29T13:34:06.600032+00:00",
-  "count": 52,
+  "fetched_at": "2026-09-29T18:59:31.193412+00:00",
+  "count": 53,
   "news": [
     {
-      "id": "66f3f499365a",
-      "title": "心衰竭患者 恐有較高癌症發生率 - Yahoo新聞",
-      "published": "2026-09-29T12:39:29+00:00",
-      "summary": "心衰竭患者 恐有較高癌症發生率&nbsp;&nbsp;Yahoo新聞打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」&nbsp;&nbsp;Heho健康心衰竭患者罹癌風險較高 醫籲留意體重莫名下降&nbsp;&nbsp;自由健康網心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;知新聞",
+      "id": "649c5bb9b698",
+      "title": "「全身痛」檢查卻正常！她慘被轉精神科 醫揭心因性疼痛：不是裝病 - TVBS新聞網",
+      "published": "2026-09-29T17:00:00+00:00",
+      "summary": "「全身痛」檢查卻正常！她慘被轉精神科 醫揭心因性疼痛：不是裝病&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VRFIyZnJiSW9DMXIxdkJPT1RkLVllZkxWZ0tNb29pcmx6ZVdBUnQ0c0djZTkyMHdiSjg1MHhHZUZOUHd0cXBSUERYSlUtcVhu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "25f9b48d8b55",
+      "title": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」 - Yahoo新聞",
+      "published": "2026-09-29T15:33:20+00:00",
+      "summary": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」&nbsp;&nbsp;Yahoo新聞心衰竭患者罹癌風險較高 醫籲留意體重莫名下降&nbsp;&nbsp;自由健康網心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;知新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOc3dfRGZCOU4tU3N1dEd1YlpfMzJSWXhsMERXY3dDME5iLWI0TGhWMVY2T25YcEp2YkNCVnl1cEFNUTRSM1BTVEdTVWlWLURXNjJGNzdOSFZURk1qaVJFQUxQTmVETjJidE0zMHhDcGpORkN3RnNIQXFpVU1GMEtVSmwtSi0yWHpWQ0h1VE5OQl9qeGMwUkFid1NRMERDU0V6QjNMSWNvYXZFaFMzXzdaYWZyUEV6b0xoa0R2YjIyN3VIaXo0NFlPZGY3TWFxRGRkbjFHTVZ4eWtlOEJzNG1uNkpWTm8wNXk0d0Z3anFYM0lrRV84bERtdFp5bzdQNWxqeHdaQnlGZ1JXbHAxRlZBdFpRMFV5Tk9pNy1tTWhEMDJqV0xTR1BLM2tNQ3p6d2VxVGRoOHMyUk13djRPQXBKRi1FelZSRlQxTjNET1RMbHR4WjRHQ243VWF2cXZKdE5QNXJZRm1RTTl6a3g1bzRQWWVOWEhwdXRUcEI2Q1Y1U0RkYzA4RTc2aERrVUJ3X3I2VC1lVTZrTVRXUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45ac11f7902c",
+      "title": "早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康 - 中時新聞網",
+      "published": "2026-09-29T07:04:12+00:00",
+      "summary": "早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康&nbsp;&nbsp;中時新聞網腫瘤科醫師推薦每天早餐吃「這1種食物」 堪稱防癌營養寶庫- 國際&nbsp;&nbsp;中時新聞網肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】&nbsp;&nbsp;香港經濟日報HKET不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5"
         }
       ]
     },
@@ -40,18 +64,6 @@
       ]
     },
     {
-      "id": "1da7a6f25141",
-      "title": "不是雞蛋！腫瘤醫每天早餐吃「它」防癌 - 三立新聞",
-      "published": "2026-09-28T12:29:23+00:00",
-      "summary": "不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;三立新聞腫瘤科醫師推薦每天早餐吃「這1種食物」 堪稱防癌營養寶庫- 國際&nbsp;&nbsp;中時新聞網肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】&nbsp;&nbsp;香港經濟日報HKET早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "608cb5b7a24c",
       "title": "關節炎止痛新方向 美研究揭阻斷蛋白或緩解疼痛 - 自由健康網",
       "published": "2026-09-29T06:14:00+00:00",
@@ -60,18 +72,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaWU5BUml4T25OVTZWOTQ3VlNzaDEtaE5zZDVreFVaZW5NbDhkUXJtMmp2eW9rQ1cwTVBpUklHYmw4c0lXMC01eFdXYTg3NnExVTR3OVNZakQ0ZE9LV0RCalk2RUI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3866c2285f6",
-      "title": "《ESG》新壽串聯視障團體落實金融友善- 金融 - ctee.com.tw",
-      "published": "2026-09-29T02:39:00+00:00",
-      "summary": "《ESG》新壽串聯視障團體落實金融友善- 金融&nbsp;&nbsp;ctee.com.tw",
-      "sources": [
-        {
-          "name": "ctee.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Sk9SRnppMGd1eVhoQnRlclA2a0o4OWVsUDZuZXd4S2FPNHhCWHhVZUwteTNralhfWnZQenRWWXFpdl8wNktSMDlwTVlxVGtDblBOQm1oR0FoUkFUWFZz?oc=5"
         }
       ]
     },
@@ -100,14 +100,14 @@
       ]
     },
     {
-      "id": "92720ba12117",
-      "title": "動機隨季節起伏變化 從神經科學到行為策略的科學解方 - 住展雜誌",
-      "published": "2026-09-29T00:41:02+00:00",
-      "summary": "動機隨季節起伏變化 從神經科學到行為策略的科學解方&nbsp;&nbsp;住展雜誌",
+      "id": "f3866c2285f6",
+      "title": "《ESG》新壽串聯視障團體落實金融友善- 金融 - ctee.com.tw",
+      "published": "2026-09-29T02:39:00+00:00",
+      "summary": "《ESG》新壽串聯視障團體落實金融友善- 金融&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "住展雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JRU9rRXJvOVppMC1XcFJyS3RtajRYd2JfWmxoSjdKdlYyM0NTWG5GNmczaWpxb1pLQmI0UnB1OUZNY29ReFpaaHRYMU16RVdER1E0VQ?oc=5"
+          "name": "ctee.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Sk9SRnppMGd1eVhoQnRlclA2a0o4OWVsUDZuZXd4S2FPNHhCWHhVZUwteTNralhfWnZQenRWWXFpdl8wNktSMDlwTVlxVGtDblBOQm1oR0FoUkFUWFZz?oc=5"
         }
       ]
     },
@@ -124,6 +124,30 @@
       ]
     },
     {
+      "id": "3c413fd0b91b",
+      "title": "動機隨季節起伏變化 從神經科學到行為策略的科學解方 - myhousing.com.tw",
+      "published": "2026-09-29T00:41:02+00:00",
+      "summary": "動機隨季節起伏變化 從神經科學到行為策略的科學解方&nbsp;&nbsp;myhousing.com.tw",
+      "sources": [
+        {
+          "name": "myhousing.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JRU9rRXJvOVppMC1XcFJyS3RtajRYd2JfWmxoSjdKdlYyM0NTWG5GNmczaWpxb1pLQmI0UnB1OUZNY29ReFpaaHRYMU16RVdER1E0VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ff3263c927a",
+      "title": "《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞 - genetinfo.com",
+      "published": "2026-09-23T17:23:11+00:00",
+      "summary": "《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞&nbsp;&nbsp;genetinfo.com",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "464d47392ccd",
       "title": "美國佛州登革熱病例激增三縣宣布緊急狀態| 大紀元 - 大纪元",
       "published": "2026-09-26T08:27:00+00:00",
@@ -136,37 +160,13 @@
       ]
     },
     {
-      "id": "ae2c14ed6e04",
-      "title": "破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞- 生技投資第一站 - genetinfo.com",
-      "published": "2026-09-23T17:23:11+00:00",
-      "summary": "破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞- 生技投資第一站&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "31f08222e479",
-      "title": "活到117歲仍少有重病，科學家找到超級人瑞的長壽線索 - 財訊",
-      "published": "2026-09-24T06:00:00+00:00",
-      "summary": "活到117歲仍少有重病，科學家找到超級人瑞的長壽線索&nbsp;&nbsp;財訊",
-      "sources": [
-        {
-          "name": "財訊",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11M1ZFam5Zbk8yMVpFWmZDaWlPY2gtNUFVYVQ2d3BrU01FTDF5ai1xRngtc0RnMkx5a0lfZWZKeUMwaWlqTlVtNGVPaWJSLU9zb3hfMHY4Z0gxSU9LbDlEeEhDVEZRdVNRRkVxTnRUQ2UwbWRmMmpmdlVfYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ab6bde2a0a6b",
-      "title": "最新研究打破舊思維：過量 RNA 恐成粒線體剋星，直接削弱能量供應 - technews.tw",
+      "id": "c61eaa6c7e73",
+      "title": "最新研究打破舊思維：過量 RNA 恐成粒線體剋星，直接削弱能量供應 - TechNews 科技新報",
       "published": "2026-09-27T01:31:26+00:00",
-      "summary": "最新研究打破舊思維：過量 RNA 恐成粒線體剋星，直接削弱能量供應&nbsp;&nbsp;technews.tw",
+      "summary": "最新研究打破舊思維：過量 RNA 恐成粒線體剋星，直接削弱能量供應&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGxiOGU4S1hzaEdyNWt2VldsNVFWZXNKQVJCY0xsV2puV0NJTmVDd1lHaW5YWGhIZkJ0b1d1QWFobk9xTnN3elZNWk9RNloyQ3d2V210QXdaajNWTzRzQ3RXcnNjX0xyUVpfRUxPUU5xTjlSTkM1R2NyWHFpQkZqcS1JeDQ2XzhW?oc=5"
         }
       ]
@@ -184,26 +184,14 @@
       ]
     },
     {
-      "id": "b0d8ad667bba",
-      "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思 - TVBS新聞網",
-      "published": "2026-09-22T18:00:00+00:00",
-      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;TVBS新聞網",
+      "id": "0d253c3225d4",
+      "title": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」 - 元氣網",
+      "published": "2026-09-24T09:40:57+00:00",
+      "summary": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d88b1a735cc1",
-      "title": "19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現 - 香港經濟日報HKET",
-      "published": "2026-09-28T01:00:00+00:00",
-      "summary": "19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yTUFuVmdQMXRQTHF1Z08zTTdaeENheXp4SFBzVDNZdDRKSkljSWZpaEtITkt0bktzZkI4UzNUbkhhVEtCWERwUTU4aGpkcjZIeEc4VEdzajlxOFFhTWZF0gFkQVVfeXFMTjhBV0VqSDk4TUVCX3VJbHZIeXdvMWZMeXZXVlY1YW1yLU5tWUEtNTNaeUxDWVFaZFF0eEliYThoMlZvWmg5dkFMel9OcnlnZjhxbWd1U2tHbVoyOFhTNkRmRDUtSw?oc=5"
         }
       ]
     },
@@ -220,6 +208,18 @@
       ]
     },
     {
+      "id": "d88b1a735cc1",
+      "title": "19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現 - 香港經濟日報HKET",
+      "published": "2026-09-28T01:00:00+00:00",
+      "summary": "19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4e95360d10cd",
       "title": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 | 科技新報 - LINE TODAY",
       "published": "2026-09-25T15:14:50+00:00",
@@ -232,13 +232,13 @@
       ]
     },
     {
-      "id": "779e5ec33785",
-      "title": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關 - technews.tw",
+      "id": "fb9d0a3b39ae",
+      "title": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關 - TechNews 科技新報",
       "published": "2026-09-25T02:02:23+00:00",
-      "summary": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關&nbsp;&nbsp;technews.tw",
+      "summary": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "technews.tw",
+          "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXM3V1NWcTNaeW82MDBOdUJDTFhDMEpZejJYZ01xS0FZdG1UYmxmT2FSNC1zSVNlYjUtWU9JNEsxVmR6TXdCR053VTFSSEZXTy1RVzdTTmg3SjBMUl9odDUtc01PdS1Cd0lJUW1GNk9DQjVzX0NweXVQZEdacWZScGVBdmt5dTdlQUR2SFN0RQ?oc=5"
         }
       ]
@@ -247,7 +247,7 @@
       "id": "0f0fd7185f08",
       "title": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際 - ctee.com.tw",
       "published": "2026-09-24T10:17:00+00:00",
-      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;ctee.com.tw蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;technews.tw蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;IndexBox國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網",
+      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;ctee.com.tw蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;IndexBox國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
           "name": "ctee.com.tw",
@@ -412,13 +412,13 @@
       ]
     },
     {
-      "id": "3aa3f0bf39c3",
-      "title": "林盛斌公開接受愛滋測試原因 醫生一句話改變想法 - Singtaousa",
+      "id": "4d4747853331",
+      "title": "林盛斌公開接受愛滋測試原因 醫生一句話改變想法 - singtaousa.com",
       "published": "2026-09-29T11:33:05+00:00",
-      "summary": "林盛斌公開接受愛滋測試原因 醫生一句話改變想法&nbsp;&nbsp;Singtaousa",
+      "summary": "林盛斌公開接受愛滋測試原因 醫生一句話改變想法&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0cydTVjMXVLeDJqLTRBWUk2dDhDaGszQTR3Y2JJQndQXzU0eXN1NDVFOWlWRTBtcDZYMXlYeFpPMmdpNHpPVFFZcnNHWkkzTHR0RFlRX3JKVHlBT21Sek5qRTRQX042QVBKTmZtWDdZVVpSaUVyQ0Vlb19iSHdQcWhCdi14UQ?oc=5"
         }
       ]
@@ -436,13 +436,25 @@
       ]
     },
     {
-      "id": "e300ce2ea436",
-      "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意 - hk01.com",
-      "published": "2026-09-28T02:00:57+00:00",
-      "summary": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意&nbsp;&nbsp;hk01.com",
+      "id": "33c2bd48473c",
+      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生 - Overseas Chinese Daily News",
+      "published": "2026-09-29T13:14:50+00:00",
+      "summary": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生&nbsp;&nbsp;Overseas Chinese Daily News",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "Overseas Chinese Daily News",
+          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQelFIeXNyUmFqcURibkt2SXdsQ2dSbHZocGdnMHdpUW10ODZZWmpoaEVhelNjY1pocU1SQUUtd2RhemJyeXZIajhZWUpXT0pyXzRydVVHbTBmNlZBOURQZnJDLVF0UVFBSTVHY2dudU1DcUM5Q1VEb0s4em92dTdaNVdoQWpjaE1lRC1GOVRyNFBwMm9IaktNUDlmOEtDa1VOS2k3anRQdDZRMGxvejF6dzBQcG12M3kzejVlblVNallqYzlJQmZldENqZXBXWGwwSWlyaWtKa242anBnUjVMQkduX0ZkTDZtWTNSQVczM0dBdEQtbHRIdzJGcy1tcWFIZDhtTExZYzc1RUl5bGsydUFtZzBfSDVqd2RDUGY3M09SbWNGWHEwcVlqVkdJa3l6b3dFdm1DbUkxcDBvN1R5eDFqZHZ5U2RMcTR4bFY2UDkxTk53VkhoYmdPVWhpYTItY2pkNy1BMm1iX1VKZExrMDJCXzJmZi1uSWRjazExa3AtenJGaUZmOUFQcTFhcHMxbmpGa01ncVMzSDY1NlhzNUNHOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d947b19b2780",
+      "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意 - 香港01",
+      "published": "2026-09-28T02:00:57+00:00",
+      "summary": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5"
         }
       ]
@@ -568,13 +580,13 @@
       ]
     },
     {
-      "id": "08f2b0d63040",
-      "title": "本港舉辦「早期癌症篩查新趨勢」業界交流會 - hkcd.com.hk",
+      "id": "2ab8898629dd",
+      "title": "本港舉辦「早期癌症篩查新趨勢」業界交流會 - 香港商报",
       "published": "2026-09-24T07:52:00+00:00",
-      "summary": "本港舉辦「早期癌症篩查新趨勢」業界交流會&nbsp;&nbsp;hkcd.com.hk港怡醫院引入新型血液篩查技術 一次檢測涵蓋50種癌症&nbsp;&nbsp;Singtaousa星洲生科企擬拓灣區醫療市場- 經濟&nbsp;&nbsp;大公文匯網港怡醫院引入個人化血液篩查 可制定篩查50種癌症&nbsp;&nbsp;i-cable.com驗血測癌症｜港怡醫院引入新篩查技術 抽一次血篩查50種癌症 費用數千至數萬元不等&nbsp;&nbsp;singtao.ca",
+      "summary": "本港舉辦「早期癌症篩查新趨勢」業界交流會&nbsp;&nbsp;香港商报港怡醫院引入新型血液篩查技術 一次檢測涵蓋50種癌症&nbsp;&nbsp;singtaousa.com星洲生科企擬拓灣區醫療市場- 經濟&nbsp;&nbsp;大公文匯網港怡醫院引入個人化血液篩查 可制定篩查50種癌症&nbsp;&nbsp;i-cable.com驗血測癌症｜港怡醫院引入新篩查技術 抽一次血篩查50種癌症 費用數千至數萬元不等&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "hkcd.com.hk",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5"
         }
       ]

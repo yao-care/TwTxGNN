@@ -33,11 +33,11 @@ permalink: /news/small-cell-lung-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [不是雞蛋！腫瘤醫每天早餐吃「它」防癌](https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5)
+### [早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
 
-2026-09-28
+2026-09-29
 
-來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
 
 ---
 

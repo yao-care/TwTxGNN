@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
-### [心衰竭患者 恐有較高癌症發生率](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5)
+### [早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
 
-2026-09-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
+2026-09-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5)
-
----
-
-### [不是雞蛋！腫瘤醫每天早餐吃「它」防癌](https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span>
-
-來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
 
 ---
 
@@ -64,7 +56,7 @@ permalink: /news/acebutolol/
 
 2026-09-28 <span class="news-indication-tag">心律不整</span> <span class="news-indication-tag">中風</span>
 
-來源: [hk01.com](https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5)
+來源: [香港01](https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5)
 
 ---
 
@@ -88,7 +80,7 @@ permalink: /news/acebutolol/
 
 2026-09-24 <span class="news-indication-tag">癌症</span>
 
-來源: [hkcd.com.hk](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
+來源: [香港商报](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
 
 ---
 

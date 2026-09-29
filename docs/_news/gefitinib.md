@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,13 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（10 則）
 
-### [心衰竭患者 恐有較高癌症發生率](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5)
+### [早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
 
-2026-09-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
+2026-09-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
 
 ---
 
@@ -69,14 +69,6 @@ permalink: /news/gefitinib/
 2026-09-29 <span class="news-indication-tag">阿茲海默症</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
-
----
-
-### [不是雞蛋！腫瘤醫每天早餐吃「它」防癌](https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span>
-
-來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5)
 
 ---
 
@@ -124,7 +116,7 @@ permalink: /news/gefitinib/
 
 2026-09-24 <span class="news-indication-tag">癌症</span>
 
-來源: [hkcd.com.hk](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
+來源: [香港商报](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
 
 ---
 

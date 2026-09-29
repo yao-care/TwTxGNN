@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5)
+
+2026-09-23 <span class="news-indication-tag">心血管</span>
+
+來源: [genetinfo.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5)
+
+---
 
 
 <div class="disclaimer">

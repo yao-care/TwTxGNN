@@ -1,213 +1,18 @@
 {
-  "generated": "2026-09-29T13:34:09.316386+00:00",
-  "count": 20,
+  "generated": "2026-09-29T18:59:33.847199+00:00",
+  "count": 22,
   "news": [
     {
-      "id": "66f3f499365a",
-      "title": "心衰竭患者 恐有較高癌症發生率",
-      "published": "2026-09-29T12:39:29+00:00",
+      "id": "25f9b48d8b55",
+      "title": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」",
+      "published": "2026-09-29T15:33:20+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOc3dfRGZCOU4tU3N1dEd1YlpfMzJSWXhsMERXY3dDME5iLWI0TGhWMVY2T25YcEp2YkNCVnl1cEFNUTRSM1BTVEdTVWlWLURXNjJGNzdOSFZURk1qaVJFQUxQTmVETjJidE0zMHhDcGpORkN3RnNIQXFpVU1GMEtVSmwtSi0yWHpWQ0h1VE5OQl9qeGMwUkFid1NRMERDU0V6QjNMSWNvYXZFaFMzXzdaYWZyUEV6b0xoa0R2YjIyN3VIaXo0NFlPZGY3TWFxRGRkbjFHTVZ4eWtlOEJzNG1uNkpWTm8wNXk0d0Z3anFYM0lrRV84bERtdFp5bzdQNWxqeHdaQnlGZ1JXbHAxRlZBdFpRMFV5Tk9pNy1tTWhEMDJqV0xTR1BLM2tNQ3p6d2VxVGRoOHMyUk13djRPQXBKRi1FelZSRlQxTjNET1RMbHR4WjRHQ243VWF2cXZKdE5QNXJZRm1RTTl6a3g1bzRQWWVOWEhwdXRUcEI2Q1Y1U0RkYzA4RTc2aERrVUJ3X3I2VC1lVTZrTVRXUQ?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "心臟衰竭",
@@ -216,6 +21,30 @@
             {
               "slug": "ouabain",
               "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33c2bd48473c",
+      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生 - Overseas Chinese Daily News",
+      "published": "2026-09-29T13:14:50+00:00",
+      "sources": [
+        {
+          "name": "Overseas Chinese Daily News",
+          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQelFIeXNyUmFqcURibkt2SXdsQ2dSbHZocGdnMHdpUW10ODZZWmpoaEVhelNjY1pocU1SQUUtd2RhemJyeXZIajhZWUpXT0pyXzRydVVHbTBmNlZBOURQZnJDLVF0UVFBSTVHY2dudU1DcUM5Q1VEb0s4em92dTdaNVdoQWpjaE1lRC1GOVRyNFBwMm9IaktNUDlmOEtDa1VOS2k3anRQdDZRMGxvejF6dzBQcG12M3kzejVlblVNallqYzlJQmZldENqZXBXWGwwSWlyaWtKa242anBnUjVMQkduX0ZkTDZtWTNSQVczM0dBdEQtbHRIdzJGcy1tcWFIZDhtTExZYzc1RUl5bGsydUFtZzBfSDVqd2RDUGY3M09SbWNGWHEwcVlqVkdJa3l6b3dFdm1DbUkxcDBvN1R5eDFqZHZ5U2RMcTR4bFY2UDkxTk53VkhoYmdPVWhpYTItY2pkNy1BMm1iX1VKZExrMDJCXzJmZi1uSWRjazExa3AtenJGaUZmOUFQcTFhcHMxbmpGa01ncVMzSDY1NlhzNUNHOA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "黑斑",
+          "keyword": "黑斑",
+          "related_drugs": [
+            {
+              "slug": "hydroquinone",
+              "name": "Hydroquinone"
             }
           ]
         }
@@ -312,108 +141,13 @@
       ]
     },
     {
-      "id": "608cb5b7a24c",
-      "title": "關節炎止痛新方向 美研究揭阻斷蛋白或緩解疼痛",
-      "published": "2026-09-29T06:14:00+00:00",
+      "id": "45ac11f7902c",
+      "title": "早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康",
+      "published": "2026-09-29T07:04:12+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaWU5BUml4T25OVTZWOTQ3VlNzaDEtaE5zZDVreFVaZW5NbDhkUXJtMmp2eW9rQ1cwTVBpUklHYmw4c0lXMC01eFdXYTg3NnExVTR3OVNZakQ0ZE9LV0RCalk2RUI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "關節炎",
-          "related_drugs": [
-            {
-              "slug": "nitrofurantoin",
-              "name": "Nitrofurantoin"
-            },
-            {
-              "slug": "aluminum_oxide",
-              "name": "Aluminum oxide"
-            },
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol"
-            },
-            {
-              "slug": "lornoxicam",
-              "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "48cdfa180c78",
-      "title": "大腦排毒功能失靈 恐為失智症根源",
-      "published": "2026-09-29T05:00:00+00:00",
-      "sources": [
-        {
-          "name": "大纪元",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2beee642ea63",
-      "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
-      "published": "2026-09-29T00:03:39+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1da7a6f25141",
-      "title": "不是雞蛋！腫瘤醫每天早餐吃「它」防癌",
-      "published": "2026-09-28T12:29:23+00:00",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84Wko2clpmMmNsREJkaW82RkZqb0FjVF9BZmVzTWlocTdtTnFtTi03M21sNDhLTmtjREY5WGM3ZlNURmhyTi0zdzc1cjQ?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5"
         }
       ],
       "keywords": [
@@ -628,6 +362,101 @@
             {
               "slug": "vinorelbine",
               "name": "Vinorelbine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "608cb5b7a24c",
+      "title": "關節炎止痛新方向 美研究揭阻斷蛋白或緩解疼痛",
+      "published": "2026-09-29T06:14:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaWU5BUml4T25OVTZWOTQ3VlNzaDEtaE5zZDVreFVaZW5NbDhkUXJtMmp2eW9rQ1cwTVBpUklHYmw4c0lXMC01eFdXYTg3NnExVTR3OVNZakQ0ZE9LV0RCalk2RUI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48cdfa180c78",
+      "title": "大腦排毒功能失靈 恐為失智症根源",
+      "published": "2026-09-29T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2beee642ea63",
+      "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
+      "published": "2026-09-29T00:03:39+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -866,12 +695,12 @@
       ]
     },
     {
-      "id": "e300ce2ea436",
+      "id": "d947b19b2780",
       "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意",
       "published": "2026-09-28T02:00:57+00:00",
       "sources": [
         {
-          "name": "hk01.com",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5"
         }
       ],
@@ -1506,12 +1335,12 @@
       ]
     },
     {
-      "id": "08f2b0d63040",
+      "id": "2ab8898629dd",
       "title": "本港舉辦「早期癌症篩查新趨勢」業界交流會",
       "published": "2026-09-24T07:52:00+00:00",
       "sources": [
         {
-          "name": "hkcd.com.hk",
+          "name": "香港商报",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5"
         }
       ],
@@ -1747,6 +1576,30 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ff3263c927a",
+      "title": "《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞",
+      "published": "2026-09-23T17:23:11+00:00",
+      "sources": [
+        {
+          "name": "genetinfo.com",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
             }
           ]
         }
