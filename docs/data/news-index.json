@@ -1,14 +1,73 @@
 {
-  "generated": "2026-09-29T00:46:10.550829+00:00",
-  "count": 16,
+  "generated": "2026-09-29T06:25:05.989978+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "2beee642ea63",
+      "id": "0123427519e9",
+      "title": "大腦排毒功能失靈 恐為失智症根源",
+      "published": "2026-09-29T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "epochtimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62f62a522a99",
+      "title": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」",
+      "published": "2026-09-29T03:33:20+00:00",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15X19jRUFmbW9qX3dmN3RfZ0pDdWZwb0VMMnU4STFIeTNnNW9jZ1ZPVGhMNjAyMGZiWWhUdTJnd3dnRlJYZFQxT19mVQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7bace52932b2",
       "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
       "published": "2026-09-29T00:03:39+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
         }
       ],
@@ -21,30 +80,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d367a8e1c8ff",
-      "title": "研究曝「5類人」流感後超慘 心梗機率飆6倍：年輕人也中",
-      "published": "2026-09-28T23:56:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPbF9fUXRKY1pLcjhoU1ROVm9kc3NNN19pOWdLdVc4Ym5wY1JsU2ZnOEZxc2tVOUhad3BFS0c4QW0tbThzbU5yZ21pUVlGX1BXQUVsR3MtZmJWUlhKTlpieXc4THNWa0ZYZXk4enUteUNVUm9XQ2l1VUlTRVlJUnZXZWN3WUxrd1U4SkdveWtLazNCdFZZSHh5OFFPUGgzWnFSS29sMUVVS2Z2ZjI4angzRHhmMzl1c2xSckxGOWtfV0ttbER6Qzc0dGE3SlVpeGo0eHBqTE84YjRULTM0Tm9TaEZwUW1zQi1kc3AzOEZDNkloMXFmSWtzYlUtVVFTMWlob2NxS3ZhS2ZDRXR3UnZFenAxWkVvS1pBV2s4NTZCZW5KbVdoaE9UUWd5UTl4RHF1eU4tRmgyeTdJZVJTLTZqUVdmTm5RUHVicWNmTUEyMXhlakdSSGU4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
             }
           ]
         }
@@ -283,12 +318,12 @@
       ]
     },
     {
-      "id": "d947b19b2780",
+      "id": "e300ce2ea436",
       "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意",
       "published": "2026-09-28T02:00:57+00:00",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5"
         }
       ],
@@ -558,12 +593,12 @@
       ]
     },
     {
-      "id": "a5a8b95445c7",
+      "id": "74d1a70ab539",
       "title": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌",
       "published": "2026-09-27T01:02:38+00:00",
       "sources": [
         {
-          "name": "udn.com",
+          "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5"
         }
       ],
@@ -656,13 +691,13 @@
       ]
     },
     {
-      "id": "258d4461ee6f",
-      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％ - 鏡週刊Mirror Media",
-      "published": "2026-09-26T04:37:00+00:00",
+      "id": "fa8dbf48627b",
+      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％",
+      "published": "2026-09-26T05:20:08+00:00",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LMXRIMmRLbDRnT0RiNVUxamhqVlBINl9MWXVoazYzMENyREZ4aXpYVW1ZV1E2ZXFYOG9hNWs2WmV6dFc2WWZEX014a1A5YldaczdmZG1xT1JxQ2JKYVRKSEVqSdIBaEFVX3lxTE1jRjJrT2EyR0xOTWtPX3NVZHhibDZ2Qk5nUFQ1dXJBbjBjX19DREN2S2RybHlBU3NiTDc3eEVDaW5IMVprNjl3NUtMSHdZWlB6TVF3UW9pcTlpZ1QxTS1hUjAxRHNpN1pv?oc=5"
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
         }
       ],
       "keywords": [
@@ -727,12 +762,12 @@
       ]
     },
     {
-      "id": "bc072f8838a9",
+      "id": "8ccfb0f36859",
       "title": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛",
       "published": "2026-09-25T00:04:12+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5"
         }
       ],
@@ -1178,13 +1213,13 @@
       ]
     },
     {
-      "id": "dc5c2bcc37c9",
-      "title": "小中風症狀消失就沒事？研究揭20年失智風險這些警訊要立刻就醫｜腦部．神經｜醫療",
+      "id": "a19f7158569b",
+      "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫",
       "published": "2026-09-24T03:46:54+00:00",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ],
       "keywords": [
@@ -1241,12 +1276,12 @@
       ]
     },
     {
-      "id": "253ecf050d20",
+      "id": "77eaa74f2a26",
       "title": "屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了",
       "published": "2026-09-23T08:11:01+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5"
         }
       ],

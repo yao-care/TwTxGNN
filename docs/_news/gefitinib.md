@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,13 +46,21 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [大腦排毒功能失靈 恐為失智症根源](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
+
+2026-09-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+
+來源: [epochtimes.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
+
+---
 
 ### [李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">阿茲海默症</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
+來源: [tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
 
 ---
 
@@ -84,7 +92,7 @@ permalink: /news/gefitinib/
 
 2026-09-27 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
-來源: [udn.com](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5)
+來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5)
 
 ---
 
@@ -92,7 +100,7 @@ permalink: /news/gefitinib/
 
 2026-09-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
+來源: [tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
 
 ---
 
@@ -104,11 +112,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [小中風症狀消失就沒事？研究揭20年失智風險這些警訊要立刻就醫｜腦部．神經｜醫療](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk?oc=5)
+### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 2026-09-24 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk?oc=5)
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 ---
 

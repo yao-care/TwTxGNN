@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-09-29T00:46:08.118907+00:00",
+  "fetched_at": "2026-09-29T06:25:03.630451+00:00",
   "count": 47,
   "news": [
     {
-      "id": "d367a8e1c8ff",
-      "title": "研究曝「5類人」流感後超慘 心梗機率飆6倍：年輕人也中 - Yahoo新聞",
-      "published": "2026-09-28T23:56:00+00:00",
-      "summary": "研究曝「5類人」流感後超慘 心梗機率飆6倍：年輕人也中&nbsp;&nbsp;Yahoo新聞",
+      "id": "67a39a9eab25",
+      "title": "《ESG》新壽串聯視障團體落實金融友善- 金融 - 工商時報",
+      "published": "2026-09-29T02:39:00+00:00",
+      "summary": "《ESG》新壽串聯視障團體落實金融友善- 金融&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPbF9fUXRKY1pLcjhoU1ROVm9kc3NNN19pOWdLdVc4Ym5wY1JsU2ZnOEZxc2tVOUhad3BFS0c4QW0tbThzbU5yZ21pUVlGX1BXQUVsR3MtZmJWUlhKTlpieXc4THNWa0ZYZXk4enUteUNVUm9XQ2l1VUlTRVlJUnZXZWN3WUxrd1U4SkdveWtLazNCdFZZSHh5OFFPUGgzWnFSS29sMUVVS2Z2ZjI4angzRHhmMzl1c2xSckxGOWtfV0ttbER6Qzc0dGE3SlVpeGo0eHBqTE84YjRULTM0Tm9TaEZwUW1zQi1kc3AzOEZDNkloMXFmSWtzYlUtVVFTMWlob2NxS3ZhS2ZDRXR3UnZFenAxWkVvS1pBV2s4NTZCZW5KbVdoaE9UUWd5UTl4RHF1eU4tRmgyeTdJZVJTLTZqUVdmTm5RUHVicWNmTUEyMXhlakdSSGU4?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Sk9SRnppMGd1eVhoQnRlclA2a0o4OWVsUDZuZXd4S2FPNHhCWHhVZUwteTNralhfWnZQenRWWXFpdl8wNktSMDlwTVlxVGtDblBOQm1oR0FoUkFUWFZz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "62f62a522a99",
+      "title": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」 - Heho健康",
+      "published": "2026-09-29T03:33:20+00:00",
+      "summary": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」&nbsp;&nbsp;Heho健康",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15X19jRUFmbW9qX3dmN3RfZ0pDdWZwb0VMMnU4STFIeTNnNW9jZ1ZPVGhMNjAyMGZiWWhUdTJnd3dnRlJYZFQxT19mVQ?oc=5"
         }
       ]
     },
@@ -40,6 +52,18 @@
       ]
     },
     {
+      "id": "fa8dbf48627b",
+      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％ - tw.news.yahoo.com",
+      "published": "2026-09-26T05:20:08+00:00",
+      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;tw.news.yahoo.com男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失&nbsp;&nbsp;tw.news.yahoo.com大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲大腸「狂冒20顆↑息肉」險惡化變癌！醫教「改吃1物」腸鏡結果驚人&nbsp;&nbsp;民視健康長照網大腸狂長20顆息肉！改吃「1種肉」全消失 大腸癌風險降低12% | TVBS&nbsp;&nbsp;today.line.me",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5abdf30bf7fc",
       "title": "印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰 - yesmedia.com.tw",
       "published": "2026-09-28T11:16:56+00:00",
@@ -48,30 +72,6 @@
         {
           "name": "yesmedia.com.tw",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "258d4461ee6f",
-      "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％ - 鏡週刊Mirror Media",
-      "published": "2026-09-26T04:37:00+00:00",
-      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;鏡週刊Mirror Media男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失&nbsp;&nbsp;Yahoo新聞大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了&nbsp;&nbsp;ETtoday健康雲大腸「狂冒20顆↑息肉」險惡化變癌！醫教「改吃1物」腸鏡結果驚人&nbsp;&nbsp;民視健康長照網大腸狂長20顆息肉！改吃「1種肉」全消失 大腸癌風險降低12% | TVBS&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LMXRIMmRLbDRnT0RiNVUxamhqVlBINl9MWXVoazYzMENyREZ4aXpYVW1ZV1E2ZXFYOG9hNWs2WmV6dFc2WWZEX014a1A5YldaczdmZG1xT1JxQ2JKYVRKSEVqSdIBaEFVX3lxTE1jRjJrT2EyR0xOTWtPX3NVZHhibDZ2Qk5nUFQ1dXJBbjBjX19DREN2S2RybHlBU3NiTDc3eEVDaW5IMVprNjl3NUtMSHdZWlB6TVF3UW9pcTlpZ1QxTS1hUjAxRHNpN1pv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78f9cd6828aa",
-      "title": "心衰竭患者罹癌風險較高 醫籲留意體重莫名下降 - 自由健康網",
-      "published": "2026-09-23T06:19:00+00:00",
-      "summary": "心衰竭患者罹癌風險較高 醫籲留意體重莫名下降&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jRWpRTFdfeGRlX0dRV2xWSlBzeHlSVDhGUE1vVjVxdE90R1ptNm0wa2FZRm13MDlYRnVIczlWWDVpa1RhclkzNTlhWTF5MDVfb3JTU3J4RXpYZ2pOUEFZVy1td1E?oc=5"
         }
       ]
     },
@@ -112,6 +112,30 @@
       ]
     },
     {
+      "id": "74d1a70ab539",
+      "title": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌 - UDN",
+      "published": "2026-09-27T01:02:38+00:00",
+      "summary": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌&nbsp;&nbsp;UDN治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點&nbsp;&nbsp;techapple.com",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0d8ad667bba",
+      "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思 - TVBS新聞網",
+      "published": "2026-09-22T18:00:00+00:00",
+      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d88b1a735cc1",
       "title": "19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現 - 香港經濟日報HKET",
       "published": "2026-09-28T01:00:00+00:00",
@@ -120,18 +144,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYb1JIOGMwNlF4ZXFvNk5HRk5iNWRlVXBqblZFWTA2Mmh1MXFsaUJWc2lZOGM5Z3BSWUlyQnlrY2NXc0pGUGhBV1l2WEQtWWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3abecf56bb07",
-      "title": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思 - news.tvbs.com.tw",
-      "published": "2026-09-22T18:00:00+00:00",
-      "summary": "新冠疫苗副作用多？網傳恐「致癌、猝死」 醫破解十大迷思&nbsp;&nbsp;news.tvbs.com.tw",
-      "sources": [
-        {
-          "name": "news.tvbs.com.tw",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EOEdqempnSUEwSzdNdF95TDhtamYycUdBakRNS2s3eDR3cU9oMHdTZkF4cmRqOHRZYlI3RU5PQWg4a3Z4dXRFaVRyaWpmZjlN?oc=5"
         }
       ]
     },
@@ -148,13 +160,13 @@
       ]
     },
     {
-      "id": "4e95360d10cd",
-      "title": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 | 科技新報 - LINE TODAY",
+      "id": "6a0d64a7f462",
+      "title": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 | 科技新報 - today.line.me",
       "published": "2026-09-25T15:14:50+00:00",
-      "summary": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "summary": "AI 破解人體老化時鐘：揭開三大「爆發性」衰老軌跡，兩個年齡是斷崖關鍵 | 科技新報&nbsp;&nbsp;today.line.me",
       "sources": [
         {
-          "name": "LINE TODAY",
+          "name": "today.line.me",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kaVVjZFJMNno0UUxSUHZkc2Jva28zMkkwSmFoWHdXbVh2U3AtQmhOMkkyemJhUHFYSml4VkNWTWwzVi1GNm5VbjFMZlFJeExOdDdkR0NR?oc=5"
         }
       ]
@@ -163,23 +175,11 @@
       "id": "e878a2963667",
       "title": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際 - 工商時報",
       "published": "2026-09-24T10:17:00+00:00",
-      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;LINE TODAY研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;indexbox.io國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網",
+      "summary": "最新研究：蝙蝠起源於6500萬年前的歐洲不是非洲或亞洲- 國際&nbsp;&nbsp;工商時報蝙蝠為何能活得久又少生病？研究揭開長壽與抗癌的線索&nbsp;&nbsp;TechNews 科技新報蝙蝠演化之謎揭曉 基因研究曝恐龍滅絕後起源歐洲 | 民視新聞網&nbsp;&nbsp;today.line.me研究發現蝙蝠起源可追溯至6500萬年前的歐洲 - 新聞與統計&nbsp;&nbsp;indexbox.io國際基因組研究 揭蝙蝠演化歷程&nbsp;&nbsp;on.cc東網",
       "sources": [
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yUWxuNzFKM2VkclBHU0JNZWJUemZaVEpkYXRrbjBaZ194SXYyYWFrSUlLX3BtVXNPbk5KWUxXakNxQWI5a19jTkpzWDUybU1xRVRZcVpUaHR6M2U2UHZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3a39de7ec011",
-      "title": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」 - 自由健康網",
-      "published": "2026-09-28T03:56:00+00:00",
-      "summary": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BVThJbmVHd0w2YlB2Ml9mQ09QcE5YbC1uREN0Y1phck1CSG00Ry11ZExGd1F2MHF3dk1oTGp1ZUwtU1VFUW9qM3BtclpkTG1JTW1PLXFoRDh1TGtQMm5uN2FXaDY?oc=5"
         }
       ]
     },
@@ -196,14 +196,26 @@
       ]
     },
     {
-      "id": "dc5c2bcc37c9",
-      "title": "小中風症狀消失就沒事？研究揭20年失智風險這些警訊要立刻就醫｜腦部．神經｜醫療 - 元氣網",
+      "id": "3a39de7ec011",
+      "title": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」 - 自由健康網",
+      "published": "2026-09-28T03:56:00+00:00",
+      "summary": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BVThJbmVHd0w2YlB2Ml9mQ09QcE5YbC1uREN0Y1phck1CSG00Ry11ZExGd1F2MHF3dk1oTGp1ZUwtU1VFUW9qM3BtclpkTG1JTW1PLXFoRDh1TGtQMm5uN2FXaDY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a19f7158569b",
+      "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫 - 元氣網",
       "published": "2026-09-24T03:46:54+00:00",
-      "summary": "小中風症狀消失就沒事？研究揭20年失智風險這些警訊要立刻就醫｜腦部．神經｜醫療&nbsp;&nbsp;元氣網",
+      "summary": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ]
     },
@@ -232,38 +244,26 @@
       ]
     },
     {
-      "id": "253ecf050d20",
-      "title": "屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了 - 中時新聞網",
+      "id": "77eaa74f2a26",
+      "title": "屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了 - chinatimes.com",
       "published": "2026-09-23T08:11:01+00:00",
-      "summary": "屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了&nbsp;&nbsp;中時新聞網",
+      "summary": "屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5"
         }
       ]
     },
     {
-      "id": "a5a8b95445c7",
-      "title": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌 - udn.com",
-      "published": "2026-09-27T01:02:38+00:00",
-      "summary": "憂鬱可能讓大腦提早老化研究：長期負面心理與認知退化有關| 雜誌&nbsp;&nbsp;udn.com治療抑鬱可以預防阿茲海默症失智嗎？研究綜述指它是被忽略的預防靶點&nbsp;&nbsp;techapple.com",
+      "id": "1269a75299d4",
+      "title": "他「膀胱脹如排球」痛苦冒汗　緊急插管導出1200cc尿液 - ETtoday健康雲",
+      "published": "2026-09-22T23:19:00+00:00",
+      "summary": "他「膀胱脹如排球」痛苦冒汗 緊急插管導出1200cc尿液&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "udn.com",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fc3p4THRFWGVCT3ktY2ZUcWlaclcyVUM4TUNyWnF0S3Y0T1RVTkJtWjlkck1MNE44NDN2Z0N4M3N6OE4wT25GaGhyVF81UXZZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "328ae4b51c48",
-      "title": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！ - Yahoo新聞",
-      "published": "2026-09-23T01:11:28+00:00",
-      "summary": "中秋月圓人團圓 別讓骨鬆「斷」了團圓路！&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObFgxWW9TaHNtbUNyMmdtQ1Vhbi1jSEtnb0xBTUlxSl81bVdsZzAtMzY3UERnWU9yb01jNmpQYUROMXVsUFVEd2FzdGt3UWRkRmo4dEVTZG5jMnprVjNYMmcydFp5ZFlLVnFGQS1lWkpRV2M0OUNaakVPX1FEWWtXWlJFYmpINGdsbWE1eW44UkQ4SXZpdkdnMVloRXJURmdmanlKX0Rtc0lDOXM5UC1SVk1VOHI1VWpUUTc4ZndvWmppNEFoQ01uNU5FaTcwUFZEeGg1Qjc2emEzSXhieXRSR1pna2wtdkNKTzJfVWJ0emlLblhVNDgwa2tNZ0cwUnpDUmJXQVNvTkRVWUFYS1g2MmczaktmVXM?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rUjJPYVFRdEgydS1FcFp2aDltRWVIYWRvMzVZelh4NmViN0R2TUNKeGtTQWxzX0JxRE03c3RNSWpPNUxkcWNPMkV1OXBSOHFR0gFPQVVfeXFMUERCQmtDOVBHVUZDcmtId0g4TVFMYkx4TXFBZXhVN3JTNXEyMjJCNVBJVzJUTWNTSzAyOEJwRU1VMXMtOWo3bW9EZW9LYXBtVQ?oc=5"
         }
       ]
     },
@@ -280,14 +280,26 @@
       ]
     },
     {
-      "id": "2beee642ea63",
-      "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要 - Yahoo新聞",
+      "id": "7bace52932b2",
+      "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要 - tw.news.yahoo.com",
       "published": "2026-09-29T00:03:39+00:00",
-      "summary": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要&nbsp;&nbsp;Yahoo新聞",
+      "summary": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0123427519e9",
+      "title": "大腦排毒功能失靈 恐為失智症根源 - epochtimes.com",
+      "published": "2026-09-29T05:00:00+00:00",
+      "summary": "大腦排毒功能失靈 恐為失智症根源&nbsp;&nbsp;epochtimes.com",
+      "sources": [
+        {
+          "name": "epochtimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5"
         }
       ]
     },
@@ -328,37 +340,13 @@
       ]
     },
     {
-      "id": "85e845fd73f8",
-      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因 - BBC",
-      "published": "2026-09-27T04:50:54+00:00",
-      "summary": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WmJiLW05RDd6Z3I1cl9qMmg4V0ZJWjJqRk5CRTZZUy1ZRDNpNktFbzhTb2lEUXk2LVR6YlAtaUhMV0x5SC1IMmZZVTBncHNyWVNxQmJJQjl3MGNWa1E2aVV5N2dIOE3SAWxBVV95cUxNdUJOT0ZQZzdEMDF5aVZKb2VuZlJyYlJvT2ZrR21ETWw4Y043WC1YQ0t4OVd1WmFON0c3YlJFeXFlZHU0cFQyckNudGl1MUJLUy11bzBFTXVHVFdtdVYxdlRuN0RLa1c3MjFfc0M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2309dc93951",
-      "title": "「Maxxing」是甚麼？2026再掀健康最佳化風潮睡眠、蛋白質樣樣計到盡小心走火入魔反陷「健康焦慮」！ - she.com",
-      "published": "2026-09-27T05:00:00+00:00",
-      "summary": "「Maxxing」是甚麼？2026再掀健康最佳化風潮睡眠、蛋白質樣樣計到盡小心走火入魔反陷「健康焦慮」！&nbsp;&nbsp;she.com",
-      "sources": [
-        {
-          "name": "she.com",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEJKSEFLeXplSkZJVk5ZYXlhbU5oR3hOb1B5Sk1rQlBqcU45MTMwTjB1WmF1NW9MdGd6aWplX0ptOXNmYnJYbTdhV0dna1kwOUNVU0hOMGpfdzJTU2Q3VTI5TkNaekpmSF9GVzJ1Y0MwZ2l4UFE1S0V5bFR5Rjk3aHJrVnR0ZlNlQ2pjaUFzOVZsSjZGMlhubDdQb2lwOWhuQXBTc3dUVFpqbFIxTHc0cVRTbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d947b19b2780",
-      "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意 - 香港01",
+      "id": "e300ce2ea436",
+      "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意 - hk01.com",
       "published": "2026-09-28T02:00:57+00:00",
-      "summary": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意&nbsp;&nbsp;香港01",
+      "summary": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意&nbsp;&nbsp;hk01.com",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5"
         }
       ]
@@ -400,25 +388,25 @@
       ]
     },
     {
-      "id": "6a859112b4c0",
-      "title": "洛縣西尼羅河病毒肆虐 創近10年同期最多病例 - 大纪元",
+      "id": "1e3c6ae7be58",
+      "title": "洛縣西尼羅河病毒肆虐 創近10年同期最多病例 - epochtimes.com",
       "published": "2026-09-24T02:36:00+00:00",
-      "summary": "洛縣西尼羅河病毒肆虐 創近10年同期最多病例&nbsp;&nbsp;大纪元",
+      "summary": "洛縣西尼羅河病毒肆虐 創近10年同期最多病例&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01dGNXUGRWUUZMSFVnM2o2WkZ3QW9aWGpSZkw1MGNHTzhrMUtZZThKUF9Ka2ZRdXFsRVNhMDVOalFXYmY1Rmk3c0J6SlRWckJfRWdlSTRpZ2ZZdnhmYjhnMNIBZkFVX3lxTE5oa2VUbktoVGVKZDVOUEhmeEFpR01MYnJKVTBSNS1kOXdYdDhTOHd1TTJvc2NGNE42WjV5ZFZvQnhacTItZFF6M2llY3hqTkRKRnNxczRveEZUTGdOeWktU1MtcnB1Zw?oc=5"
         }
       ]
     },
     {
-      "id": "7e4837fdfd94",
-      "title": "美國登革熱病例數上升 佛州報告首例死亡 - 大纪元",
+      "id": "aa879a622995",
+      "title": "美國登革熱病例數上升 佛州報告首例死亡 - epochtimes.com",
       "published": "2026-09-22T08:32:00+00:00",
-      "summary": "美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;大纪元",
+      "summary": "美國登革熱病例數上升 佛州報告首例死亡&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zdldCZDJjaUhSbXlhT1dzaktiSUhyY0JucG9GZFlTWElWQldJNW1wcWtNTHVRb0MzV3NQOVBrcWt5ZENBVXFnN0I0dnFnYUJ0MUREV0h3Rm5kT2FfV1F6bNIBZkFVX3lxTE5pTGdRTndXa3JPZmV0Mm5mN2UwUzhyRVlLa0J0TGlYd1AwMW1FV1dCOXlsd25kNTFCU09nT25fUGUta3VuZEl5VlJXLUhwU3Y2TjBuMDFDNzRXQVh5RnNCOVYwY1hNQQ?oc=5"
         }
       ]
@@ -436,13 +424,13 @@
       ]
     },
     {
-      "id": "df13819635a9",
-      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床 - ftvnews.com.tw",
+      "id": "cd3411ee3aca",
+      "title": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床 - 民視新聞網",
       "published": "2026-09-23T01:30:00+00:00",
-      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;ftvnews.com.tw前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "斐濟HIV疫情告急 毒品濫用、不安全性行為成擴散溫床&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "ftvnews.com.tw",
+          "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taHhXT0xYMDRMVUhJN2Z0Q01iMVpvZ25QamNTYTVycUtTQ0N2Zm5US1ItU1Vhc09EOG5VSENacnJXZWhJMjdDVFdxdDhtQ0t2c1NnWkpVbnJnVGJVUjZKVw?oc=5"
         }
       ]
@@ -460,25 +448,49 @@
       ]
     },
     {
-      "id": "c8d87daabf8c",
-      "title": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇 - 健康醫療網",
-      "published": "2026-09-22T01:00:00+00:00",
-      "summary": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇&nbsp;&nbsp;健康醫療網",
+      "id": "b688d92387b2",
+      "title": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇 - 民視新聞網",
+      "published": "2026-09-23T12:00:00+00:00",
+      "summary": "罕病治療再進化！中國附醫推動SMA「多專科照護」與治療新選擇&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yZDZsVmU2QmNPdVZ4eWtNTFNEWE9XUTBjY0R4LTdzbzZNcGlYZFI1UUN6XzM0OWNtMDdkWUlpTUFNSVNrcU1XM09GUGlsTmoxUFJlWkZB?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ULXdfdlVUcU10RWdzMTd5T0ZWLVo3OHJ6cWt3SnVOcnZHaGl3QVNlNHJ5bUhnSE1aUy1IWWkyN092YlNzTlNuMHVqN1BKN1hOS3BjcFFXMVZLQmdCVjdrYQ?oc=5"
         }
       ]
     },
     {
-      "id": "bc072f8838a9",
-      "title": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛 - Yahoo新聞",
-      "published": "2026-09-25T00:04:12+00:00",
-      "summary": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛&nbsp;&nbsp;Yahoo新聞",
+      "id": "85e845fd73f8",
+      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因 - BBC",
+      "published": "2026-09-27T04:50:54+00:00",
+      "summary": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因&nbsp;&nbsp;BBC",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WmJiLW05RDd6Z3I1cl9qMmg4V0ZJWjJqRk5CRTZZUy1ZRDNpNktFbzhTb2lEUXk2LVR6YlAtaUhMV0x5SC1IMmZZVTBncHNyWVNxQmJJQjl3MGNWa1E2aVV5N2dIOE3SAWxBVV95cUxNdUJOT0ZQZzdEMDF5aVZKb2VuZlJyYlJvT2ZrR21ETWw4Y043WC1YQ0t4OVd1WmFON0c3YlJFeXFlZHU0cFQyckNudGl1MUJLUy11bzBFTXVHVFdtdVYxdlRuN0RLa1c3MjFfc0M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e2309dc93951",
+      "title": "「Maxxing」是甚麼？2026再掀健康最佳化風潮睡眠、蛋白質樣樣計到盡小心走火入魔反陷「健康焦慮」！ - she.com",
+      "published": "2026-09-27T05:00:00+00:00",
+      "summary": "「Maxxing」是甚麼？2026再掀健康最佳化風潮睡眠、蛋白質樣樣計到盡小心走火入魔反陷「健康焦慮」！&nbsp;&nbsp;she.com",
+      "sources": [
+        {
+          "name": "she.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEJKSEFLeXplSkZJVk5ZYXlhbU5oR3hOb1B5Sk1rQlBqcU45MTMwTjB1WmF1NW9MdGd6aWplX0ptOXNmYnJYbTdhV0dna1kwOUNVU0hOMGpfdzJTU2Q3VTI5TkNaekpmSF9GVzJ1Y0MwZ2l4UFE1S0V5bFR5Rjk3aHJrVnR0ZlNlQ2pjaUFzOVZsSjZGMlhubDdQb2lwOWhuQXBTc3dUVFpqbFIxTHc0cVRTbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ccfb0f36859",
+      "title": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛 - tw.news.yahoo.com",
+      "published": "2026-09-25T00:04:12+00:00",
+      "summary": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛&nbsp;&nbsp;tw.news.yahoo.com",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5"
         }
       ]
@@ -496,13 +508,13 @@
       ]
     },
     {
-      "id": "ebf46373a864",
-      "title": "你可能會因為這個奇怪原因突然頭暈 - 大纪元",
+      "id": "f2916cb4e91e",
+      "title": "你可能會因為這個奇怪原因突然頭暈 - epochtimes.com",
       "published": "2026-09-26T06:28:00+00:00",
-      "summary": "你可能會因為這個奇怪原因突然頭暈&nbsp;&nbsp;大纪元",
+      "summary": "你可能會因為這個奇怪原因突然頭暈&nbsp;&nbsp;epochtimes.com",
       "sources": [
         {
-          "name": "大纪元",
+          "name": "epochtimes.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90SzFEX19hTU9NNnNpdE14c2g1bk1WZHdieGFEUHNwWGs3dk00TVJ5N1RpVTkwV3FiVmtObEZna1JWMnlpM3hEN253dXBDWGx4djZkaDB6Qnlid3V1Tl9UbtIBZkFVX3lxTE81YzRyU3Z5aVBBLWNmMG9ZaG81QW9HQmlLRGZaWHBjSWNXUkJVc3RBYXloblRWX2xUcng4SUd2YU01S0QxTkJiNkUyTk9MR0RKWkk0dkY1LXozZHhTcl9veFAxczdmdw?oc=5"
         }
       ]
@@ -540,18 +552,6 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ebaca11c82f",
-      "title": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力 - 香港01",
-      "published": "2026-09-22T02:00:21+00:00",
-      "summary": "兒童健康｜轉季流感新冠夾擊！營養師教「5做5不做」提升免疫力&nbsp;&nbsp;香港01媽媽必睇！🧠寶貝免疫力 UP！🚀🍓&nbsp;&nbsp;U Lifestyle",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcDJOSVR0UWRGX2tuQUtQaXN1dzlyZExacHktRG9NZmhfM281R2sxRTE5ME9neXhNVTVlRG8wWE9XS2ROeDMwUDdWcnlHbVZnZmpuM1NXR05xOVRqUzJwYlBNZ2YtZEZET21vamxnVW5YQkVTemV2MzZtLTU5NERhUXU3T2o4ai1MekltYzhNZ2FxOVBwMFZwb2FrN1RjcFF5eXZhYVM4a09pMzRfX245UjJpU2c5OUJ0XzJCanVuamx2akN1azFSZEdIcmIyenVodldzT1FOWS1MVHNZUS1Lb2hkY3BrWElvRGlIUUI4WEFtd1R2ZE9KOVk0QTJWZ1VSOFoxdjRaZXBZVEdDU2Rnd2xHbEpaMS1pUF9xeEZXMmlnaXZvR0RxQWs3OThuMGpfQWxjVHdlbFVJamg5YVpKUmtaZVIyWjNhZkh3U2JOb2UxX3F1dGhEQ1RqZmJEaU5UdW10VHpTeWRneWc4U0VMVGdERjd1dVg3LVFPR1VpQjhRWnNuY0E?oc=5"
         }
       ]
     },
