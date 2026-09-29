@@ -13,7 +13,7 @@ The Evidence Pack may contain values or rationale text in another language; tran
 ## 輸入
 你會收到一份 Evidence Pack JSON，包含：
 - `drug`: 藥物基本資訊（inn, drugbank_id, original_moa）
-- `taiwan_regulatory`: 台灣許可證和上市狀態
+- `local_regulatory`: 台灣許可證和上市狀態
 - `predicted_indications`: TxGNN 預測的新適應症（含臨床試驗和文獻）
 - `safety`: 安全性資訊（DDI、警語、禁忌）
 
@@ -43,12 +43,12 @@ The Evidence Pack may contain values or rationale text in another language; tran
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | [從 taiwan_regulatory.licenses 提取，取第一個非空的 approved_indication_text] |
+| 原適應症 | [從 local_regulatory.licenses 提取，取第一個非空的 approved_indication_text] |
 | 預測新適應症 | [從 predicted_indications[0].disease_name 提取] |
 | TxGNN 預測分數 | [從 predicted_indications[0].txgnn.score 提取，轉為百分比] |
 | 證據等級 | [根據臨床試驗和文獻數量判斷 L1-L5] |
-| 台灣上市 | [從 taiwan_regulatory.market_status 提取] |
-| 許可證數 | [從 taiwan_regulatory.total_licenses 提取] |
+| 台灣上市 | [從 local_regulatory.market_status 提取] |
+| 許可證數 | [從 local_regulatory.total_licenses 提取] |
 | 建議決策 | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -99,7 +99,7 @@ The Evidence Pack may contain values or rationale text in another language; tran
 
 ### 台灣上市資訊
 
-從 `taiwan_regulatory.licenses` 提取，製作表格：
+從 `local_regulatory.licenses` 提取，製作表格：
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
 |---------|------|------|-----------|

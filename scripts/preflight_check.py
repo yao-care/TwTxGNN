@@ -115,7 +115,7 @@ class PreflightChecker:
         """檢查 TFDA 許可證"""
         check = self._get_check("tfda_license")
 
-        taiwan_reg = self.evidence_pack.get("taiwan_regulatory", {})
+        taiwan_reg = self.evidence_pack.get("local_regulatory", {})
         if taiwan_reg.get("license_numbers"):
             check.status = "passed"
             check.message = f"找到 {len(taiwan_reg['license_numbers'])} 個許可證"
