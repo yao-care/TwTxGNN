@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [研究曝「5類人」流感後超慘 心梗機率飆6倍：年輕人也中](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPbF9fUXRKY1pLcjhoU1ROVm9kc3NNN19pOWdLdVc4Ym5wY1JsU2ZnOEZxc2tVOUhad3BFS0c4QW0tbThzbU5yZ21pUVlGX1BXQUVsR3MtZmJWUlhKTlpieXc4THNWa0ZYZXk4enUteUNVUm9XQ2l1VUlTRVlJUnZXZWN3WUxrd1U4SkdveWtLazNCdFZZSHh5OFFPUGgzWnFSS29sMUVVS2Z2ZjI4angzRHhmMzl1c2xSckxGOWtfV0ttbER6Qzc0dGE3SlVpeGo0eHBqTE84YjRULTM0Tm9TaEZwUW1zQi1kc3AzOEZDNkloMXFmSWtzYlUtVVFTMWlob2NxS3ZhS2ZDRXR3UnZFenAxWkVvS1pBV2s4NTZCZW5KbVdoaE9UUWd5UTl4RHF1eU4tRmgyeTdJZVJTLTZqUVdmTm5RUHVicWNmTUEyMXhlakdSSGU4?oc=5)
+
+2026-09-28 <span class="news-indication-tag">心梗</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPbF9fUXRKY1pLcjhoU1ROVm9kc3NNN19pOWdLdVc4Ym5wY1JsU2ZnOEZxc2tVOUhad3BFS0c4QW0tbThzbU5yZ21pUVlGX1BXQUVsR3MtZmJWUlhKTlpieXc4THNWa0ZYZXk4enUteUNVUm9XQ2l1VUlTRVlJUnZXZWN3WUxrd1U4SkdveWtLazNCdFZZSHh5OFFPUGgzWnFSS29sMUVVS2Z2ZjI4angzRHhmMzl1c2xSckxGOWtfV0ttbER6Qzc0dGE3SlVpeGo0eHBqTE84YjRULTM0Tm9TaEZwUW1zQi1kc3AzOEZDNkloMXFmSWtzYlUtVVFTMWlob2NxS3ZhS2ZDRXR3UnZFenAxWkVvS1pBV2s4NTZCZW5KbVdoaE9UUWd5UTl4RHF1eU4tRmgyeTdJZVJTLTZqUVdmTm5RUHVicWNmTUEyMXhlakdSSGU4?oc=5)
+
+---
 
 ### [戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5)
 

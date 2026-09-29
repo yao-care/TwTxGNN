@@ -14,7 +14,7 @@ permalink: /news/durvalumab/
 ---
 
 <p class="key-answer" data-question="Durvalumab 有什麼相關新聞？">
-<strong>Durvalumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Durvalumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/durvalumab/
 <p><a href="{{ '/drugs/durvalumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
 
 2026-09-28 <span class="news-indication-tag">腫瘤</span>
 
 來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
-
----
-
-### [AI 從電子病歷挖出膀胱癌警訊，部分訊號最早確診前五年就出現 - TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMURkN1dMLTl2cTdaVURnU0ZGd2RCX2ZJaTBDbXgxTnViM0NBWk5ubEhjaXdEVDlieVo3Ym55YWF0X29qOHoyRWZqN0FZd2tHWjRSbFY4RE5RUFFxUE04RFVaS1RMZ0E5UW9ZYmdRYkowUmllMEVqUTJUcXRtMktzNmxVcUttNnpRaWxVY0thNnNRdTFvb1dmbzJFcGtva191eEVpVzZOYWx0Q2cyU3c?oc=5)
-
-2026-09-28 <span class="news-indication-tag">膀胱癌</span>
-
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMURkN1dMLTl2cTdaVURnU0ZGd2RCX2ZJaTBDbXgxTnViM0NBWk5ubEhjaXdEVDlieVo3Ym55YWF0X29qOHoyRWZqN0FZd2tHWjRSbFY4RE5RUFFxUE04RFVaS1RMZ0E5UW9ZYmdRYkowUmllMEVqUTJUcXRtMktzNmxVcUttNnpRaWxVY0thNnNRdTFvb1dmbzJFcGtva191eEVpVzZOYWx0Q2cyU3c?oc=5)
 
 ---
 
