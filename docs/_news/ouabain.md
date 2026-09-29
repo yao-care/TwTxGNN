@@ -44,11 +44,11 @@ permalink: /news/ouabain/
 
 ## 相關新聞（2 則）
 
-### [打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」](https://news.google.com/rss/articles/CBMiS0FVX3lxTE15X19jRUFmbW9qX3dmN3RfZ0pDdWZwb0VMMnU4STFIeTNnNW9jZ1ZPVGhMNjAyMGZiWWhUdTJnd3dnRlJYZFQxT19mVQ?oc=5)
+### [心衰竭患者 恐有較高癌症發生率](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5)
 
-2026-09-29 <span class="news-indication-tag">心臟衰竭</span>
+2026-09-29 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
 
-來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE15X19jRUFmbW9qX3dmN3RfZ0pDdWZwb0VMMnU4STFIeTNnNW9jZ1ZPVGhMNjAyMGZiWWhUdTJnd3dnRlJYZFQxT19mVQ?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi_AFBVV95cUxOa0JQeGc4RUNEd3Nicms0TjBwdUtCR016WGdVYXZpbDVGSHNMYUJUdjhYUmcwOTNMdTJyRHFrNk83SVQ4ZzBBQ21tV2lObGdUeHhNYzdEOXd0bUVLSjdrR3ZLdHM1M0lFdFRPd25faXl4bWUyWnEzX196YVljSDFrV2NXaFYwbzdxM2ZReHczM3ZEclp5R0tsenRRcHZ4c1djU1RKZ3h3cWMxZ0hpaGM5UmJHQS0zVldPTjZfbEdqdVMtVWRveGxsamRkYWZ5ZkV5a3haLTdKRHFFOWxVQk1VbUxfQVZEYUVpeXpTcnE5Qld4WlZfQVJhc2Fta1g?oc=5)
 
 ---
 
