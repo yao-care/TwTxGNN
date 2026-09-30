@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [腦中風前兆藏在舌頭？每天「做這招」 醫師揭2大防護關鍵](https://news.google.com/rss/articles/CBMibkFVX3lxTE1rZ2VDT2FoTjhfYU1fOE5GQ19nWHpCbVItSklfWHhzTTV5QlZKTFI1Yk9hRHBrV0xYYTlqblpwOXN1TGFpd0NxMUJ3eFhrcF9BNDJHVTFJVUVvZ2hrNjluZ21rM0dMQzhlQ2VqRElB?oc=5)
 
 2026-09-29 <span class="news-indication-tag">中風</span> <span class="news-indication-tag">腦中風</span>
 
 來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1rZ2VDT2FoTjhfYU1fOE5GQ19nWHpCbVItSklfWHhzTTV5QlZKTFI1Yk9hRHBrV0xYYTlqblpwOXN1TGFpd0NxMUJ3eFhrcF9BNDJHVTFJVUVvZ2hrNjluZ21rM0dMQzhlQ2VqRElB?oc=5)
+
+---
+
+### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9pYndQeGFpMDQ3MkdocUk5QjF6Q2VjSUNIRjJwRVFWM0xGR1RqdlQzWF8zbWNza01FeEE?oc=5)
+
+2026-09-28 <span class="news-indication-tag">心臟病</span>
+
+來源: [ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9pYndQeGFpMDQ3MkdocUk5QjF6Q2VjSUNIRjJwRVFWM0xGR1RqdlQzWF8zbWNza01FeEE?oc=5)
 
 ---
 

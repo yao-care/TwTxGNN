@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [3飲品天天喝骨折風險高4.7倍營養師：心血管疾病也上門- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRloyeWNZbUp4a3lWRDZoWTJMVDhCYXVnXzdPSFVoWW04WGIxSUJTSWRGanRZSm1NbjJYYUFHdWhBenhFaGd0dVROdFZzNy1BTWotUDJaUjJ5QllZZEZucHhpLVljRXhuWk5YLWRn?oc=5)
+
+2026-09-29 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRloyeWNZbUp4a3lWRDZoWTJMVDhCYXVnXzdPSFVoWW04WGIxSUJTSWRGanRZSm1NbjJYYUFHdWhBenhFaGd0dVROdFZzNy1BTWotUDJaUjJ5QllZZEZucHhpLVljRXhuWk5YLWRn?oc=5)
+
+---
+
+### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9pYndQeGFpMDQ3MkdocUk5QjF6Q2VjSUNIRjJwRVFWM0xGR1RqdlQzWF8zbWNza01FeEE?oc=5)
+
+2026-09-28 <span class="news-indication-tag">心臟病</span>
+
+來源: [ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9pYndQeGFpMDQ3MkdocUk5QjF6Q2VjSUNIRjJwRVFWM0xGR1RqdlQzWF8zbWNza01FeEE?oc=5)
+
+---
 
 ### [《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5)
 
