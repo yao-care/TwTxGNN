@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-30T19:44:15.941731+00:00",
+  "last_updated": "2026-09-30T23:20:10.092797+00:00",
   "total_count": 47,
   "matched_count": 16,
   "news": [
+    {
+      "id": "ecfdf804c795",
+      "title": "賓州報告第五例與麻疹相關的死亡病例",
+      "published": "2026-09-30T22:44:00+00:00",
+      "summary": "賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大纪元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;cmnews.com.tw美國麻疹疫情創35年最慘 賓州出現第5起死亡病例&nbsp;&nbsp;民視新聞網美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例&nbsp;&nbsp;forecastock.tw美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大纪元",
+      "sources": [
+        {
+          "name": "大纪元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NeXctMHp2em9EVk5PSGs5ZVVCSFlQRURqRTdlbmFNcHVPZ2Jrc1IxbUtJZHR1amd5Z3BBd2RqbXlGMkFNT2djQjdCREE2MjdJRFd3NURNVW91NVVrYXZRNtIBZkFVX3lxTFBGdnB1LWNMRVhGTWtRSHFMeVdtVk5ZVmVEeWc2b29JV2NQMjlydU1GQ1U3RkVScDFhaU9GSllENXdGSl9zYUxlTlg1V3lpYVcyTGVFV0ItUnR6cEh3RzRFb04xaXRzZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "8c63fe8eb25b",
       "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻 - Martin Cid Magazine",
@@ -12,19 +25,6 @@
         {
           "name": "Martin Cid Magazine",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWttNm1leUQ0TGl1a0J4Vm00Y2F5b2gzVEYtTGNyVjFkVHk3dlVjV0lqWXUybElmZl91U2Fzb0RncG9qVGo3SENJR1R2bV9Za0lmdVdHRlpSZzFEOW9fMTRNMDIxTm9OLUtKelFfQlhfcks4Zi1xZ05OTTJ3eWc5b1p4U1NjN1VPanV1S0RvNXlwNFV1a3Y1VlllSkhsM19rdjJFSkJIb3RNRVBCWWhNeFFZc19ObmRpMk9hb0Q4c1EwR0ZoaFgzSmRtN05tQ2M5aTl0eGUyRWYyUGlFWTlCZTRDc1VTTVVkTWVFUGZZVGVZZzc5U0lSbkgzNFVFUmxOeUJFZXlyUHhCazdOT0ttZWRuNl9xZXR0Y0N1NUpMdW05Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c5dd18309d08",
-      "title": "【全國新聞】疾控中心確認今年第二宗麻疹死亡個案 全美麻疹病例持續上升",
-      "published": "2026-09-30T14:32:43+00:00",
-      "summary": "【全國新聞】疾控中心確認今年第二宗麻疹死亡個案 全美麻疹病例持續上升&nbsp;&nbsp;KTSF.com美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大纪元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例&nbsp;&nbsp;forecastock.tw",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOUdwb2Y1T1lWMk5YYUlJTXlxSWE2QmlRSk1jNjYyRE5OdUVJa2xORVJEOGRlRWFBOHFMLUZKSmU2N2lQTUtHZWpWVjd5cHNoQzVsbjhWOWlESFJGY3R2X1J1VXA0aWk5akE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -81,13 +81,13 @@
       ]
     },
     {
-      "id": "a1ff4c14c180",
+      "id": "0bd2effede27",
       "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？",
       "published": "2026-09-30T06:12:00+00:00",
-      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;thebetteraging.businesstoday.com.tw",
+      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;幸福熟齡",
       "sources": [
         {
-          "name": "thebetteraging.businesstoday.com.tw",
+          "name": "幸福熟齡",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xRVJrVFB2NDltMTc4eFU4ZzdMQVJ3VlJWMFA5ZVpyNmFVcmdQYVpncVBjUzlYWEZOQWw5Y0w1NGdPLVB1UzlYbXJGbGV0VXRWLXdlczZpUU91TjREZjZ6VjItcF9Yc3lQLTlxZ0puUmxwSmpMZUNrZm1INA?oc=5"
         }
       ],
@@ -97,7 +97,7 @@
       "id": "d78d6d1c51b8",
       "title": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配",
       "published": "2026-09-30T03:16:00+00:00",
-      "summary": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配&nbsp;&nbsp;自由健康網不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;三立新聞腫瘤科醫師推薦每天早餐吃「這1種食物」 堪稱防癌營養寶庫- 國際&nbsp;&nbsp;chinatimes.com肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配&nbsp;&nbsp;自由健康網不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;三立新聞網SETN.com腫瘤科醫師推薦每天早餐吃「這1種食物」 堪稱防癌營養寶庫- 國際&nbsp;&nbsp;中時新聞網肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "自由健康網",
@@ -621,13 +621,13 @@
       ]
     },
     {
-      "id": "e2365a5c0fc3",
-      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生",
+      "id": "33c2bd48473c",
+      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生 - Overseas Chinese Daily News",
       "published": "2026-09-29T13:14:47+00:00",
-      "summary": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生&nbsp;&nbsp;overseaschinesedailynews.com.my",
+      "summary": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生&nbsp;&nbsp;Overseas Chinese Daily News",
       "sources": [
         {
-          "name": "overseaschinesedailynews.com.my",
+          "name": "Overseas Chinese Daily News",
           "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQelFIeXNyUmFqcURibkt2SXdsQ2dSbHZocGdnMHdpUW10ODZZWmpoaEVhelNjY1pocU1SQUUtd2RhemJyeXZIajhZWUpXT0pyXzRydVVHbTBmNlZBOURQZnJDLVF0UVFBSTVHY2dudU1DcUM5Q1VEb0s4em92dTdaNVdoQWpjaE1lRC1GOVRyNFBwMm9IaktNUDlmOEtDa1VOS2k3anRQdDZRMGxvejF6dzBQcG12M3kzejVlblVNallqYzlJQmZldENqZXBXWGwwSWlyaWtKa242anBnUjVMQkduX0ZkTDZtWTNSQVczM0dBdEQtbHRIdzJGcy1tcWFIZDhtTExZYzc1RUl5bGsydUFtZzBfSDVqd2RDUGY3M09SbWNGWHEwcVlqVkdJa3l6b3dFdm1DbUkxcDBvN1R5eDFqZHZ5U2RMcTR4bFY2UDkxTk53VkhoYmdPVWhpYTItY2pkNy1BMm1iX1VKZExrMDJCXzJmZi1uSWRjazExa3AtenJGaUZmOUFQcTFhcHMxbmpGa01ncVMzSDY1NlhzNUNHOA?oc=5"
         }
       ],
@@ -707,13 +707,13 @@
       ]
     },
     {
-      "id": "8c39d0d5214f",
+      "id": "c31e504c29b3",
       "title": "旅遊旺季防疫克菲爾補給兼顧消化道保養- 健康",
       "published": "2026-09-29T08:08:56+00:00",
-      "summary": "旅遊旺季防疫克菲爾補給兼顧消化道保養- 健康&nbsp;&nbsp;chinatimes.com",
+      "summary": "旅遊旺季防疫克菲爾補給兼顧消化道保養- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "chinatimes.com",
+          "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzTlA1cW41VFZNMkNqMjBmbEVxeHhmbGhwS3dCUFVvalJYZ2RjTlAxVE5veVlJNWh6c3dmZnJzNlVIT3ViMWd3VzNRZEZWVE10NVZpLU9lb0pNUkdjRHFoTExlN040MVc1MFJYYzVn?oc=5"
         }
       ],
@@ -793,13 +793,13 @@
       ]
     },
     {
-      "id": "f3866c2285f6",
+      "id": "67a39a9eab25",
       "title": "《ESG》新壽串聯視障團體落實金融友善- 金融",
       "published": "2026-09-29T02:39:00+00:00",
-      "summary": "《ESG》新壽串聯視障團體落實金融友善- 金融&nbsp;&nbsp;ctee.com.tw",
+      "summary": "《ESG》新壽串聯視障團體落實金融友善- 金融&nbsp;&nbsp;工商時報",
       "sources": [
         {
-          "name": "ctee.com.tw",
+          "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Sk9SRnppMGd1eVhoQnRlclA2a0o4OWVsUDZuZXd4S2FPNHhCWHhVZUwteTNralhfWnZQenRWWXFpdl8wNktSMDlwTVlxVGtDblBOQm1oR0FoUkFUWFZz?oc=5"
         }
       ],
@@ -844,19 +844,6 @@
       ]
     },
     {
-      "id": "72885b0b41eb",
-      "title": "專家談AI製造病原體 現有病毒威脅仍較迫切",
-      "published": "2026-09-28T23:00:56+00:00",
-      "summary": "專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;CMoney劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "澳門力報",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56T1AtTlJGTTB4RWpDdTF3cFVJSTNvdHdkS1hqZWs0ZHJLVzhQQ01kb0JzVW9JM1ZBRnZRR3NwdWV6V2tiaDBER2dDRG5JRjRRaW13?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "d3e4819d8001",
       "title": "新研究揭癌細胞「斷糧」生存機制 助提高療效減輕副作用",
       "published": "2026-09-28T20:04:30+00:00",
@@ -878,19 +865,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZjZESDVlRHZjVUJkZzlJdVNsS2FLNUlQdnN4RGJHWXBMN01USUJZTHJhamYzbVFZR3JsMVR1UU9qbTM5TWFBNU5YSnBqMkQzQlIxVm95a1cxaVFHMDJHSks0R3UwSkwyY3JsWkdzdTA3TlFzZmRLNmU2RWI0VWtBQmNfWGlZek53UHhUdTBnaXF4QllfYWNLS1FVaVlNNUFibTItNE8xTTFTYm5CU3U3cVZTdlJlOXhISjZiZXVmRWdJM2k2elFJd3JSU1h4b2Q3VE9CbndGU3d3aWtxOTFLRWxBS1RDeWp6NFBrb0ZuT2txZkhuUlJmSHg3REMyQy1jT2JQc0tiREV4anU1N09STVJEYWtMQU5BSkpUVkpXVXNLSlRFeFB5dEpUdXdCTHdEeERnNkJyX0pCakNRa19ZSFAtZzU4Zk9vSFJWdXVmQXhHX3RTYngxR1hha2VEcGRia2F4V0VyekRqanVXVl85aXZLeVU1QTZOdTZrWEZfR25nY2F6?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7c7f283fc992",
-      "title": "安省秋季疫苗接種計劃今起展開　高危及優先群組率先接種",
-      "published": "2026-09-28T14:26:59+00:00",
-      "summary": "安省秋季疫苗接種計劃今起展開 高危及優先群組率先接種&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPUUQ3Q0pQTHg2elpwMFNVdk0xTy1Tb21QMFFNYzlMeFQyTTdiNEtaZUFIVThiNzZ3c3dhTVF3MmZzSWp6aUVMdVlZbXR6cHRWdzZJWVE3Q1ppZzVSM29vSWFYaGxrbG9ybFEwaEVqN3ZIWHZHNUtUQkpySGkzMEhvM3RTaWpFUHNCa1g0cUF0QzZFeHB0bHFHdUNjMGpudW8ySXpubjlVX1VBVDlrRXRCQU0xbHdTek5zOV95bHF3YmtjUlFPbEFwQ2NxZFBDM2oxdnF2bTdUOXBHMGkwbE9TcTMzVWgwc1pEMGYzOWZhU01vNk1tTXM2clRjUzhnamJEeGRZRWhycVRaNEZKbTVTdm5sN1V4VUxJY0o2N3RGZ3N3N3A3Z1ZXZ2tnUTVMTkZLTVJwQzlMMnNCX2NCOXJUN3ByOUN1LVRKYklIZ0J2UlVOTkFJaHpmNVczaHRaZ0dkTFFzTGFwMEdocjcwQTFnbWdKU09TWlVEVks2ZThIbkFmZjBSbEpvQmtnbDU2NnI1UzdlStIBjAFBVV95cUxQWUc1aGNXa0xSOVBMMnRPSWxTTGhqa3VPTnJGQlVSeF9fWFFoa0NhLWdnaUt4MXdiVHNSQkpmLURYcjUzYjdfcEEyUll6V0hPSWpGYVV0SkVZb3ZIY2JOLXhIWFhYRUo0d091OUNGeU1ZLVI3VlNxTVdBWFg1c3ZmRFIxYkFBQUw1UDZQYQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1143,6 +1117,19 @@
       "matched_keywords": []
     },
     {
+      "id": "6f3092dd7edb",
+      "title": "這家新創公司利用AI防範未來的AI大流行病",
+      "published": "2026-09-28T03:05:34+00:00",
+      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;CMoney劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
+      "sources": [
+        {
+          "name": "华尔街日报中文版",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOX0UtdjNsdDZrUDJ3OVBzdDJqOF93XzVyUmZ3VFoxOU9oNlFITVZSX1RCWmRSZkxhTG1udTlFblNpX2RvUXhHTkd3X3VIMXF5QlJpRHZLU1FjRVlGTHdmalBpUURVX2hZRVBPYlFnSTg5VUhmTVNaby10NjFkZEZfTUczVjJhM2NYVG5hcmpGMVlPb2hwYXZWUG1QeXl3OXRpZWNRbWVwVkI0b1pQTWVQX2pJLWNKaEZJWndkMHhnNzliNEpmbjA0WmYydjdSeHBKaGQyTGt6S3pLRGctWk1jazUzV1haUXJLb0FtdlZLZEs2cmtLMmlzclN6aElOVnpibGVkcFNaRHBnUmZRQW1hUFhJbG5WakVwODVOOEZsZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d947b19b2780",
       "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意",
       "published": "2026-09-28T02:00:57+00:00",
@@ -1187,6 +1174,19 @@
       ]
     },
     {
+      "id": "e9e2e24075b9",
+      "title": "失眠飲食｜長者缺1物睡眠質素差 4大安眠食物！每日宜吃多少燕麥",
+      "published": "2026-09-27T05:00:09+00:00",
+      "summary": "失眠飲食｜長者缺1物睡眠質素差 4大安眠食物！每日宜吃多少燕麥&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQOUJ4XzU0NFhkQURWSjVkMm1lbDVWRk1IRzNweTAzcEVZQnRNZmpGTGQwdXpabVE2Yl9mT09oMjJkS25LU29FZWIxSHNDX0Q1RUh1UmlVcDlybGVYNkxZYWxKaDF5QWk4SVhaNWlyc0NOei03X1VUanFpWUN5LWs3VjdaMHE4YU1mdmRoWW9QUTczS3BLbjFyeXBNMWhRRVNZc2lHNFBwUFRkeFJ0aUhHRC00eEQyVjRiRWc5elFRcVR5VGlOV29PWUh3MzNoczM1cTVMZC1vUXdGdnc5WUt4NUJzZ25mSVc5dmpOdlVmLVcxSklNSHJDU1JsZGZMZS1LTG9zT3dJdURWTWM5MldOQkw2RDNadFFLN254YUVvOFUteGxhUkxxS25GZ3JQRldBa0xYVHVjZUNrM0VaTHFsM29xR21VRlFuTWYzYi1sLTNUaElyd2djOEMzNXlXUWpZZWJ6eVRMWnZWRVB0dm9ROFJ5cVdnMEhIQjU3Q3VZSi02ckY1X1doMWswbS1TcnRpWmVrd3R0U2xfQllnOUZ3dHluUDlDblNiQ0ItaF9EZVhKRG00?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e2309dc93951",
       "title": "「Maxxing」是甚麼？2026再掀健康最佳化風潮睡眠、蛋白質樣樣計到盡小心走火入魔反陷「健康焦慮」！",
       "published": "2026-09-27T05:00:00+00:00",
@@ -1213,13 +1213,13 @@
       "matched_keywords": []
     },
     {
-      "id": "051bd5370e0a",
+      "id": "2eb8d1fe7f52",
       "title": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關",
       "published": "2026-09-26T22:40:13+00:00",
-      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;巴士的報",
+      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQYzZrQVJHY0Z0cWJ6UGM0cExWbTlfamt4Rl9hRDVvRmFaejlvM2t4T2NYM0hyR0wzS3FBQnBDcG5FMDl4TUdNNDhjdHd5Mm8yQjZvUjIyNHFrRmh5aXQ4Z1g5V01rNGQ0dFhVVDFDV1dCYUg0Qmt1dkdlVzlFczBZT0l2cmdvMUk0a2FPUmlwLXRkY0UwQk9JRzlCcDNXVHNpMEFiZkFHTmJuUWZiRzVzOGFia29MMnFjaFpRY09ObWRMYUdtend6YlZLRUZxSXMtTGIzR0pzVlQ5Sm9waUVNSHkwTHBQdGxuTkVJczdCQXphTXJfeE01U3pDa18tekhNNnVqSDZ3X0tReUxMRmJmeDh1UTlwaXN3SWF6d2VCbGhCM1dHMmlZeENnU1cwRWlmd3BPMU00QjdJR1dMWUVWaEIxMzI4R050U0g5bTNfOEVXLTg5NjN5M1RNOW14SDdwem96NEY1T1lFd3d0Q2JoRw?oc=5"
         }
       ],
@@ -1576,7 +1576,7 @@
       "id": "2ab8898629dd",
       "title": "本港舉辦「早期癌症篩查新趨勢」業界交流會",
       "published": "2026-09-24T07:52:00+00:00",
-      "summary": "本港舉辦「早期癌症篩查新趨勢」業界交流會&nbsp;&nbsp;香港商报星洲生科企擬拓灣區醫療市場- 經濟&nbsp;&nbsp;大公文匯網",
+      "summary": "本港舉辦「早期癌症篩查新趨勢」業界交流會&nbsp;&nbsp;香港商报前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "香港商报",
