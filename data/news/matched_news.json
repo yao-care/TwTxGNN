@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-09-30T14:25:56.271651+00:00",
-  "total_count": 51,
-  "matched_count": 19,
+  "last_updated": "2026-09-30T19:44:15.941731+00:00",
+  "total_count": 47,
+  "matched_count": 16,
   "news": [
     {
-      "id": "525d0802b323",
-      "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻– 馬丁西德雜誌 - Martin Cid Magazine",
-      "published": "2026-09-30T12:35:54+00:00",
-      "summary": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻– 馬丁西德雜誌&nbsp;&nbsp;Martin Cid Magazine",
+      "id": "8c63fe8eb25b",
+      "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻 - Martin Cid Magazine",
+      "published": "2026-09-30T14:38:52+00:00",
+      "summary": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻&nbsp;&nbsp;Martin Cid Magazine",
       "sources": [
         {
           "name": "Martin Cid Magazine",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWttNm1leUQ0TGl1a0J4Vm00Y2F5b2gzVEYtTGNyVjFkVHk3dlVjV0lqWXUybElmZl91U2Fzb0RncG9qVGo3SENJR1R2bV9Za0lmdVdHRlpSZzFEOW9fMTRNMDIxTm9OLUtKelFfQlhfcks4Zi1xZ05OTTJ3eWc5b1p4U1NjN1VPanV1S0RvNXlwNFV1a3Y1VlllSkhsM19rdjJFSkJIb3RNRVBCWWhNeFFZc19ObmRpMk9hb0Q4c1EwR0ZoaFgzSmRtN05tQ2M5aTl0eGUyRWYyUGlFWTlCZTRDc1VTTVVkTWVFUGZZVGVZZzc5U0lSbkgzNFVFUmxOeUJFZXlyUHhCazdOT0ttZWRuNl9xZXR0Y0N1NUpMdW05Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c5dd18309d08",
+      "title": "【全國新聞】疾控中心確認今年第二宗麻疹死亡個案 全美麻疹病例持續上升",
+      "published": "2026-09-30T14:32:43+00:00",
+      "summary": "【全國新聞】疾控中心確認今年第二宗麻疹死亡個案 全美麻疹病例持續上升&nbsp;&nbsp;KTSF.com美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大纪元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例&nbsp;&nbsp;forecastock.tw",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOUdwb2Y1T1lWMk5YYUlJTXlxSWE2QmlRSk1jNjYyRE5OdUVJa2xORVJEOGRlRWFBOHFMLUZKSmU2N2lQTUtHZWpWVjd5cHNoQzVsbjhWOWlESFJGY3R2X1J1VXA0aWk5akE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -68,13 +81,13 @@
       ]
     },
     {
-      "id": "0bd2effede27",
+      "id": "a1ff4c14c180",
       "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？",
       "published": "2026-09-30T06:12:00+00:00",
-      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;幸福熟齡",
+      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;thebetteraging.businesstoday.com.tw",
       "sources": [
         {
-          "name": "幸福熟齡",
+          "name": "thebetteraging.businesstoday.com.tw",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xRVJrVFB2NDltMTc4eFU4ZzdMQVJ3VlJWMFA5ZVpyNmFVcmdQYVpncVBjUzlYWEZOQWw5Y0w1NGdPLVB1UzlYbXJGbGV0VXRWLXdlczZpUU91TjREZjZ6VjItcF9Yc3lQLTlxZ0puUmxwSmpMZUNrZm1INA?oc=5"
         }
       ],
@@ -84,7 +97,7 @@
       "id": "d78d6d1c51b8",
       "title": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配",
       "published": "2026-09-30T03:16:00+00:00",
-      "summary": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配&nbsp;&nbsp;自由健康網不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;三立新聞腫瘤科醫師推薦每天早餐吃「這1種食物」 堪稱防癌營養寶庫- 國際&nbsp;&nbsp;中時新聞網肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配&nbsp;&nbsp;自由健康網不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;三立新聞腫瘤科醫師推薦每天早餐吃「這1種食物」 堪稱防癌營養寶庫- 國際&nbsp;&nbsp;chinatimes.com肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大纪元抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "自由健康網",
@@ -335,26 +348,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7e1f92ef7d3e",
-      "title": "美國麻疹病例達3,659例、創1991年來新高，疫情擴散速度為何如此明顯？",
-      "published": "2026-09-30T00:31:57+00:00",
-      "summary": "美國麻疹病例達3,659例、創1991年來新高，疫情擴散速度為何如此明顯？&nbsp;&nbsp;CMoney美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大纪元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例&nbsp;&nbsp;forecastock.tw",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pd1VISGt3eS1OckR1a3pGOUY5UkZrT3lzV1lqYTR0ZnhiMWo3Vy1oVktKTmpMVU9sZ1R4aEkwLUdFYVl5bUdKU3FIS2RtMW02TGxRWlY4S3hsOHpBaFlKS003VTR3SXA5ZnhaQ00tMkRUcDZESnptYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "56eeaa0907b9",
+      "id": "447901e210c5",
       "title": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略",
       "published": "2026-09-30T00:02:04+00:00",
-      "summary": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;tw.news.yahoo.com19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現&nbsp;&nbsp;香港經濟日報HKETHPV不是「女性專利」 19醫學組織籲推動男女共同接種HPV疫苗&nbsp;&nbsp;晴報 Sky Post",
+      "summary": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略&nbsp;&nbsp;Yahoo新聞19個醫學組織倡男女共同預防HPV 男性HPV相關癌症較難及早發現&nbsp;&nbsp;香港經濟日報HKETHPV不是「女性專利」 19醫學組織籲推動男女共同接種HPV疫苗&nbsp;&nbsp;晴報 Sky Post",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5"
         }
       ],
@@ -596,13 +596,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a7bf7c50e35b",
+      "id": "25f9b48d8b55",
       "title": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」",
       "published": "2026-09-29T15:33:20+00:00",
-      "summary": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」&nbsp;&nbsp;tw.news.yahoo.com心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;知新聞",
+      "summary": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」&nbsp;&nbsp;Yahoo新聞心衰竭患者這6癌風險較高 莫名體重降、貧血、盜汗別輕忽&nbsp;&nbsp;知新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOc3dfRGZCOU4tU3N1dEd1YlpfMzJSWXhsMERXY3dDME5iLWI0TGhWMVY2T25YcEp2YkNCVnl1cEFNUTRSM1BTVEdTVWlWLURXNjJGNzdOSFZURk1qaVJFQUxQTmVETjJidE0zMHhDcGpORkN3RnNIQXFpVU1GMEtVSmwtSi0yWHpWQ0h1VE5OQl9qeGMwUkFid1NRMERDU0V6QjNMSWNvYXZFaFMzXzdaYWZyUEV6b0xoa0R2YjIyN3VIaXo0NFlPZGY3TWFxRGRkbjFHTVZ4eWtlOEJzNG1uNkpWTm8wNXk0d0Z3anFYM0lrRV84bERtdFp5bzdQNWxqeHdaQnlGZ1JXbHAxRlZBdFpRMFV5Tk9pNy1tTWhEMDJqV0xTR1BLM2tNQ3p6d2VxVGRoOHMyUk13djRPQXBKRi1FelZSRlQxTjNET1RMbHR4WjRHQ243VWF2cXZKdE5QNXJZRm1RTTl6a3g1bzRQWWVOWEhwdXRUcEI2Q1Y1U0RkYzA4RTc2aERrVUJ3X3I2VC1lVTZrTVRXUQ?oc=5"
         }
       ],
@@ -621,13 +621,13 @@
       ]
     },
     {
-      "id": "33c2bd48473c",
-      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生 - Overseas Chinese Daily News",
+      "id": "e2365a5c0fc3",
+      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生",
       "published": "2026-09-29T13:14:47+00:00",
-      "summary": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生&nbsp;&nbsp;Overseas Chinese Daily News",
+      "summary": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生&nbsp;&nbsp;overseaschinesedailynews.com.my",
       "sources": [
         {
-          "name": "Overseas Chinese Daily News",
+          "name": "overseaschinesedailynews.com.my",
           "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQelFIeXNyUmFqcURibkt2SXdsQ2dSbHZocGdnMHdpUW10ODZZWmpoaEVhelNjY1pocU1SQUUtd2RhemJyeXZIajhZWUpXT0pyXzRydVVHbTBmNlZBOURQZnJDLVF0UVFBSTVHY2dudU1DcUM5Q1VEb0s4em92dTdaNVdoQWpjaE1lRC1GOVRyNFBwMm9IaktNUDlmOEtDa1VOS2k3anRQdDZRMGxvejF6dzBQcG12M3kzejVlblVNallqYzlJQmZldENqZXBXWGwwSWlyaWtKa242anBnUjVMQkduX0ZkTDZtWTNSQVczM0dBdEQtbHRIdzJGcy1tcWFIZDhtTExZYzc1RUl5bGsydUFtZzBfSDVqd2RDUGY3M09SbWNGWHEwcVlqVkdJa3l6b3dFdm1DbUkxcDBvN1R5eDFqZHZ5U2RMcTR4bFY2UDkxTk53VkhoYmdPVWhpYTItY2pkNy1BMm1iX1VKZExrMDJCXzJmZi1uSWRjazExa3AtenJGaUZmOUFQcTFhcHMxbmpGa01ncVMzSDY1NlhzNUNHOA?oc=5"
         }
       ],
@@ -646,10 +646,23 @@
       ]
     },
     {
+      "id": "5b9585a0c81c",
+      "title": "耶魯大學抗老研究，減緩生物衰老靠自律 | 科技新報 - LINE TODAY",
+      "published": "2026-09-29T10:46:04+00:00",
+      "summary": "耶魯大學抗老研究，減緩生物衰老靠自律 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pa29QTXBjRXdwcFpQMzI4SURiTm1YOEh4aHpjOE9HUUh5T1JNM0RSemRyUzRXQ3VyV1V0T0pGcmdxNDZUQVRmTnJEZVhlX3hyd2JiMWpR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a76a3e2c4c12",
       "title": "不是鮭魚、鰻魚！50歲男狂長20顆大腸息肉、1顆已是原位癌，醫建議改吃「1種魚」： 竟一顆都沒了",
       "published": "2026-09-29T09:30:50+00:00",
-      "summary": "不是鮭魚、鰻魚！50歲男狂長20顆大腸息肉、1顆已是原位癌，醫建議改吃「1種魚」： 竟一顆都沒了&nbsp;&nbsp;Storm.mg男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失&nbsp;&nbsp;tw.news.yahoo.com大腸「狂冒20顆↑息肉」險惡化變癌！醫教「改吃1物」腸鏡結果驚人&nbsp;&nbsp;民視健康長照網【大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了】 （#大表哥）&nbsp;&nbsp;facebook.com大腸20顆息肉\"改吃魚\"竟全消?! 名醫\"忌吃這物\"抗大腸癌│中視新聞 20260927&nbsp;&nbsp;ctv.com.tw",
+      "summary": "不是鮭魚、鰻魚！50歲男狂長20顆大腸息肉、1顆已是原位癌，醫建議改吃「1種魚」： 竟一顆都沒了&nbsp;&nbsp;Storm.mg男大腸狂長20顆息肉！醫教「改吃1物」 5度照腸鏡全消失&nbsp;&nbsp;Yahoo新聞大腸「狂冒20顆↑息肉」險惡化變癌！醫教「改吃1物」腸鏡結果驚人&nbsp;&nbsp;民視健康長照網【大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了】 （#大表哥）&nbsp;&nbsp;facebook.com大腸20顆息肉\"改吃魚\"竟全消?! 名醫\"忌吃這物\"抗大腸癌│中視新聞 20260927&nbsp;&nbsp;ctv.com.tw",
       "sources": [
         {
           "name": "Storm.mg",
@@ -694,13 +707,13 @@
       ]
     },
     {
-      "id": "c31e504c29b3",
+      "id": "8c39d0d5214f",
       "title": "旅遊旺季防疫克菲爾補給兼顧消化道保養- 健康",
       "published": "2026-09-29T08:08:56+00:00",
-      "summary": "旅遊旺季防疫克菲爾補給兼顧消化道保養- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "旅遊旺季防疫克菲爾補給兼顧消化道保養- 健康&nbsp;&nbsp;chinatimes.com",
       "sources": [
         {
-          "name": "中時新聞網",
+          "name": "chinatimes.com",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzTlA1cW41VFZNMkNqMjBmbEVxeHhmbGhwS3dCUFVvalJYZ2RjTlAxVE5veVlJNWh6c3dmZnJzNlVIT3ViMWd3VzNRZEZWVE10NVZpLU9lb0pNUkdjRHFoTExlN040MVc1MFJYYzVn?oc=5"
         }
       ],
@@ -780,27 +793,14 @@
       ]
     },
     {
-      "id": "67a39a9eab25",
+      "id": "f3866c2285f6",
       "title": "《ESG》新壽串聯視障團體落實金融友善- 金融",
       "published": "2026-09-29T02:39:00+00:00",
-      "summary": "《ESG》新壽串聯視障團體落實金融友善- 金融&nbsp;&nbsp;工商時報",
+      "summary": "《ESG》新壽串聯視障團體落實金融友善- 金融&nbsp;&nbsp;ctee.com.tw",
       "sources": [
         {
-          "name": "工商時報",
+          "name": "ctee.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50Sk9SRnppMGd1eVhoQnRlclA2a0o4OWVsUDZuZXd4S2FPNHhCWHhVZUwteTNralhfWnZQenRWWXFpdl8wNktSMDlwTVlxVGtDblBOQm1oR0FoUkFUWFZz?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2eae8c3c8df5",
-      "title": "耶魯大學抗老研究，減緩生物衰老靠自律 - TechNews 科技新報",
-      "published": "2026-09-29T02:15:58+00:00",
-      "summary": "耶魯大學抗老研究，減緩生物衰老靠自律&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmNPX2xnSjBwZVAzY0VZTk5pQUFGUWNZaGNrck9FUlc2bk5CbTBQVjFYMkNWYjZzR0ZNN1V2WHdIVnhsX0dqLU9YNnlacDRGdVVqYzZvNkVhSFBSNFB0Nk5nX1BlTVpyOTNOWng2ZEhremIteFV4ZHpqT3JhZmFMODR2Vm5MSERWQVJybGJEMzJYYXE1Q3FPakZhQW1BZDRyWnMxSQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -819,13 +819,13 @@
       "matched_keywords": []
     },
     {
-      "id": "7bace52932b2",
+      "id": "2beee642ea63",
       "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
       "published": "2026-09-29T00:03:39+00:00",
-      "summary": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
         }
       ],
@@ -847,7 +847,7 @@
       "id": "72885b0b41eb",
       "title": "專家談AI製造病原體 現有病毒威脅仍較迫切",
       "published": "2026-09-28T23:00:56+00:00",
-      "summary": "專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報中國人工智慧工具「教導」研究人員製造生物武器&nbsp;&nbsp;tw.news.yahoo.com中國 AI 模型 Kimi 遭「越獄」，教導製造生武與暗殺恐淪網攻跳板&nbsp;&nbsp;TechNews 科技新報這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney",
+      "summary": "專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;CMoney劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "澳門力報",
@@ -870,14 +870,40 @@
       "matched_keywords": []
     },
     {
-      "id": "d7739aec5ff5",
-      "title": "印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰",
-      "published": "2026-09-28T16:39:05+00:00",
-      "summary": "印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰&nbsp;&nbsp;ENN台灣電報",
+      "id": "9e4bb4560a31",
+      "title": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播",
+      "published": "2026-09-28T16:09:15+00:00",
+      "summary": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTFBETHhSdGJWbTMtSy1hNHVDYWRUaWlHTFJuZmdCcEZUOVJaVXI1QXkya2lIQWgwejR3N0E?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZjZESDVlRHZjVUJkZzlJdVNsS2FLNUlQdnN4RGJHWXBMN01USUJZTHJhamYzbVFZR3JsMVR1UU9qbTM5TWFBNU5YSnBqMkQzQlIxVm95a1cxaVFHMDJHSks0R3UwSkwyY3JsWkdzdTA3TlFzZmRLNmU2RWI0VWtBQmNfWGlZek53UHhUdTBnaXF4QllfYWNLS1FVaVlNNUFibTItNE8xTTFTYm5CU3U3cVZTdlJlOXhISjZiZXVmRWdJM2k2elFJd3JSU1h4b2Q3VE9CbndGU3d3aWtxOTFLRWxBS1RDeWp6NFBrb0ZuT2txZkhuUlJmSHg3REMyQy1jT2JQc0tiREV4anU1N09STVJEYWtMQU5BSkpUVkpXVXNLSlRFeFB5dEpUdXdCTHdEeERnNkJyX0pCakNRa19ZSFAtZzU4Zk9vSFJWdXVmQXhHX3RTYngxR1hha2VEcGRia2F4V0VyekRqanVXVl85aXZLeVU1QTZOdTZrWEZfR25nY2F6?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7c7f283fc992",
+      "title": "安省秋季疫苗接種計劃今起展開　高危及優先群組率先接種",
+      "published": "2026-09-28T14:26:59+00:00",
+      "summary": "安省秋季疫苗接種計劃今起展開 高危及優先群組率先接種&nbsp;&nbsp;singtao.ca",
+      "sources": [
+        {
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPUUQ3Q0pQTHg2elpwMFNVdk0xTy1Tb21QMFFNYzlMeFQyTTdiNEtaZUFIVThiNzZ3c3dhTVF3MmZzSWp6aUVMdVlZbXR6cHRWdzZJWVE3Q1ppZzVSM29vSWFYaGxrbG9ybFEwaEVqN3ZIWHZHNUtUQkpySGkzMEhvM3RTaWpFUHNCa1g0cUF0QzZFeHB0bHFHdUNjMGpudW8ySXpubjlVX1VBVDlrRXRCQU0xbHdTek5zOV95bHF3YmtjUlFPbEFwQ2NxZFBDM2oxdnF2bTdUOXBHMGkwbE9TcTMzVWgwc1pEMGYzOWZhU01vNk1tTXM2clRjUzhnamJEeGRZRWhycVRaNEZKbTVTdm5sN1V4VUxJY0o2N3RGZ3N3N3A3Z1ZXZ2tnUTVMTkZLTVJwQzlMMnNCX2NCOXJUN3ByOUN1LVRKYklIZ0J2UlVOTkFJaHpmNVczaHRaZ0dkTFFzTGFwMEdocjcwQTFnbWdKU09TWlVEVks2ZThIbkFmZjBSbEpvQmtnbDU2NnI1UzdlStIBjAFBVV95cUxQWUc1aGNXa0xSOVBMMnRPSWxTTGhqa3VPTnJGQlVSeF9fWFFoa0NhLWdnaUt4MXdiVHNSQkpmLURYcjUzYjdfcEEyUll6V0hPSWpGYVV0SkVZb3ZIY2JOLXhIWFhYRUo0d091OUNGeU1ZLVI3VlNxTVdBWFg1c3ZmRFIxYkFBQUw1UDZQYQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5abdf30bf7fc",
+      "title": "印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰",
+      "published": "2026-09-28T11:16:56+00:00",
+      "summary": "印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰&nbsp;&nbsp;yesmedia.com.tw",
+      "sources": [
+        {
+          "name": "yesmedia.com.tw",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1079,105 +1105,6 @@
       ]
     },
     {
-      "id": "9e4bb4560a31",
-      "title": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播",
-      "published": "2026-09-28T16:09:15+00:00",
-      "summary": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZjZESDVlRHZjVUJkZzlJdVNsS2FLNUlQdnN4RGJHWXBMN01USUJZTHJhamYzbVFZR3JsMVR1UU9qbTM5TWFBNU5YSnBqMkQzQlIxVm95a1cxaVFHMDJHSks0R3UwSkwyY3JsWkdzdTA3TlFzZmRLNmU2RWI0VWtBQmNfWGlZek53UHhUdTBnaXF4QllfYWNLS1FVaVlNNUFibTItNE8xTTFTYm5CU3U3cVZTdlJlOXhISjZiZXVmRWdJM2k2elFJd3JSU1h4b2Q3VE9CbndGU3d3aWtxOTFLRWxBS1RDeWp6NFBrb0ZuT2txZkhuUlJmSHg3REMyQy1jT2JQc0tiREV4anU1N09STVJEYWtMQU5BSkpUVkpXVXNLSlRFeFB5dEpUdXdCTHdEeERnNkJyX0pCakNRa19ZSFAtZzU4Zk9vSFJWdXVmQXhHX3RTYngxR1hha2VEcGRia2F4V0VyekRqanVXVl85aXZLeVU1QTZOdTZrWEZfR25nY2F6?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fdb1cd1b3c39",
-      "title": "醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根",
-      "published": "2026-09-28T15:00:26+00:00",
-      "summary": "醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9pYndQeGFpMDQ3MkdocUk5QjF6Q2VjSUNIRjJwRVFWM0xGR1RqdlQzWF8zbWNza01FeEE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7c7f283fc992",
-      "title": "安省秋季疫苗接種計劃今起展開　高危及優先群組率先接種",
-      "published": "2026-09-28T14:26:59+00:00",
-      "summary": "安省秋季疫苗接種計劃今起展開 高危及優先群組率先接種&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPUUQ3Q0pQTHg2elpwMFNVdk0xTy1Tb21QMFFNYzlMeFQyTTdiNEtaZUFIVThiNzZ3c3dhTVF3MmZzSWp6aUVMdVlZbXR6cHRWdzZJWVE3Q1ppZzVSM29vSWFYaGxrbG9ybFEwaEVqN3ZIWHZHNUtUQkpySGkzMEhvM3RTaWpFUHNCa1g0cUF0QzZFeHB0bHFHdUNjMGpudW8ySXpubjlVX1VBVDlrRXRCQU0xbHdTek5zOV95bHF3YmtjUlFPbEFwQ2NxZFBDM2oxdnF2bTdUOXBHMGkwbE9TcTMzVWgwc1pEMGYzOWZhU01vNk1tTXM2clRjUzhnamJEeGRZRWhycVRaNEZKbTVTdm5sN1V4VUxJY0o2N3RGZ3N3N3A3Z1ZXZ2tnUTVMTkZLTVJwQzlMMnNCX2NCOXJUN3ByOUN1LVRKYklIZ0J2UlVOTkFJaHpmNVczaHRaZ0dkTFFzTGFwMEdocjcwQTFnbWdKU09TWlVEVks2ZThIbkFmZjBSbEpvQmtnbDU2NnI1UzdlStIBjAFBVV95cUxQWUc1aGNXa0xSOVBMMnRPSWxTTGhqa3VPTnJGQlVSeF9fWFFoa0NhLWdnaUt4MXdiVHNSQkpmLURYcjUzYjdfcEEyUll6V0hPSWpGYVV0SkVZb3ZIY2JOLXhIWFhYRUo0d091OUNGeU1ZLVI3VlNxTVdBWFg1c3ZmRFIxYkFBQUw1UDZQYQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "13758be5dc6e",
       "title": "不要再說沒空學外語！研究發現學新語言是大腦的「最強防毒軟體」，延緩阿茲海默症發病有奇效",
       "published": "2026-09-28T05:30:00+00:00",
@@ -1203,13 +1130,13 @@
       ]
     },
     {
-      "id": "a35e98ea1a9b",
+      "id": "f1b437fe531a",
       "title": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」",
       "published": "2026-09-28T04:16:48+00:00",
-      "summary": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNR2RieDJ5ejUxeFVQekdKcW1zV1pxcXNBWHlKc1VUem96dlRLay1sc1p5UkVsQjhNRGFHMTlLenlSTXpRbHo1bDVkeFBTaVRlMWhGamNBSXREVE1HTTJoNlZNcERmNHRZdTdmMkZKWUo3ajRMQlRMOUtOejdVTTlqTjZCalIxX0x1ejd6cW03bTZfVzRKX3V5Y0ZIVU1zMjNzZW9QMHNIMmVKWEhTVDlieUNYSkhzQjhYOE5vMm5vSzAta2xSbHpZYXlvZ0pLOGJZdUNKVkZqT1Voa201OFZEbWRmZWVWeVNvemkzWkhiMEhsYkppRXJZT2loVmNrc0xpUGZMZHN5ZS11YXY0YnNKam1iNDh4N1VfU3pvb0NQNi0tQl9Hci1iRXhVNkdmNVE5VWEtZUFueF9OempxVkszYXBPdmlPV0FrM3kwZVZKN0pXbFQ1UXdzNHNNVVpFbnFNMGdjSk5KSzU3UGVmdE40RTNwNGJfS2M3ZWNlVXRXYmN5Sk43SFQ3dHhTR0FJb2FLY3B5SjhlWl9RSDg?oc=5"
         }
       ],
@@ -1258,19 +1185,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "e9e2e24075b9",
-      "title": "失眠飲食｜長者缺1物睡眠質素差 4大安眠食物！每日宜吃多少燕麥",
-      "published": "2026-09-27T05:00:09+00:00",
-      "summary": "失眠飲食｜長者缺1物睡眠質素差 4大安眠食物！每日宜吃多少燕麥&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQOUJ4XzU0NFhkQURWSjVkMm1lbDVWRk1IRzNweTAzcEVZQnRNZmpGTGQwdXpabVE2Yl9mT09oMjJkS25LU29FZWIxSHNDX0Q1RUh1UmlVcDlybGVYNkxZYWxKaDF5QWk4SVhaNWlyc0NOei03X1VUanFpWUN5LWs3VjdaMHE4YU1mdmRoWW9QUTczS3BLbjFyeXBNMWhRRVNZc2lHNFBwUFRkeFJ0aUhHRC00eEQyVjRiRWc5elFRcVR5VGlOV29PWUh3MzNoczM1cTVMZC1vUXdGdnc5WUt4NUJzZ25mSVc5dmpOdlVmLVcxSklNSHJDU1JsZGZMZS1LTG9zT3dJdURWTWM5MldOQkw2RDNadFFLN254YUVvOFUteGxhUkxxS25GZ3JQRldBa0xYVHVjZUNrM0VaTHFsM29xR21VRlFuTWYzYi1sLTNUaElyd2djOEMzNXlXUWpZZWJ6eVRMWnZWRVB0dm9ROFJ5cVdnMEhIQjU3Q3VZSi02ckY1X1doMWswbS1TcnRpWmVrd3R0U2xfQllnOUZ3dHluUDlDblNiQ0ItaF9EZVhKRG00?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "e2309dc93951",
@@ -1402,13 +1316,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8ccfb0f36859",
+      "id": "bc072f8838a9",
       "title": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛",
       "published": "2026-09-25T00:04:12+00:00",
-      "summary": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛&nbsp;&nbsp;tw.news.yahoo.com",
+      "summary": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "tw.news.yahoo.com",
+          "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5"
         }
       ],
@@ -1646,13 +1560,13 @@
       ]
     },
     {
-      "id": "29b468751715",
+      "id": "0d253c3225d4",
       "title": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」",
       "published": "2026-09-24T09:40:57+00:00",
-      "summary": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」&nbsp;&nbsp;health.udn.com",
+      "summary": "疫苗大家問 | 第二問：「以前打新冠疫苗好不舒服，現在還要打嗎？」&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yTUFuVmdQMXRQTHF1Z08zTTdaeENheXp4SFBzVDNZdDRKSkljSWZpaEtITkt0bktzZkI4UzNUbkhhVEtCWERwUTU4aGpkcjZIeEc4VEdzajlxOFFhTWZF0gFkQVVfeXFMTjhBV0VqSDk4TUVCX3VJbHZIeXdvMWZMeXZXVlY1YW1yLU5tWUEtNTNaeUxDWVFaZFF0eEliYThoMlZvWmg5dkFMel9OcnlnZjhxbWd1U2tHbVoyOFhTNkRmRDUtSw?oc=5"
         }
       ],
@@ -1662,7 +1576,7 @@
       "id": "2ab8898629dd",
       "title": "本港舉辦「早期癌症篩查新趨勢」業界交流會",
       "published": "2026-09-24T07:52:00+00:00",
-      "summary": "本港舉辦「早期癌症篩查新趨勢」業界交流會&nbsp;&nbsp;香港商报港怡醫院引入新型血液篩查技術 一次檢測涵蓋50種癌症&nbsp;&nbsp;singtaousa.com星洲生科企擬拓灣區醫療市場- 經濟&nbsp;&nbsp;大公文匯網港怡醫院抽一次血篩查50種癌症&nbsp;&nbsp;星島頭條",
+      "summary": "本港舉辦「早期癌症篩查新趨勢」業界交流會&nbsp;&nbsp;香港商报星洲生科企擬拓灣區醫療市場- 經濟&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
           "name": "香港商报",
@@ -1881,13 +1795,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d283279adaaa",
+      "id": "a19f7158569b",
       "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫",
       "published": "2026-09-24T03:46:54+00:00",
-      "summary": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫&nbsp;&nbsp;health.udn.com",
+      "summary": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "health.udn.com",
+          "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ],
@@ -1945,56 +1859,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "9ff3263c927a",
-      "title": "《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞",
-      "published": "2026-09-23T17:23:11+00:00",
-      "summary": "《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞&nbsp;&nbsp;genetinfo.com",
-      "sources": [
-        {
-          "name": "genetinfo.com",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "387ba6ae217b",
-      "title": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際",
-      "published": "2026-09-23T14:04:00+00:00",
-      "summary": "疫情後美國50至64歲重度飲酒率續升36％ 肝硬化恐飆高- 國際&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WMVo2M0xuNEFoemViYkVERzBabzNCdU5kenJwWTk4S0VxR1dDNVYzVTBCUXpPdzBQUkdoMnpwZXlTYUw0M3F0NWhQUlpmVldFXzV4cVBUamNXVnZhc3NF?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "肝硬化",
-          "keyword": "肝硬化",
-          "related_drugs": [
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
