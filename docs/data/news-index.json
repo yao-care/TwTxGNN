@@ -1,85 +1,26 @@
 {
-  "generated": "2026-09-30T07:43:46.595295+00:00",
-  "count": 21,
+  "generated": "2026-09-30T14:25:56.298468+00:00",
+  "count": 19,
   "news": [
     {
-      "id": "93823e83f35e",
-      "title": "林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死",
-      "published": "2026-09-30T05:49:24+00:00",
+      "id": "4e348276d1d4",
+      "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招",
+      "published": "2026-09-30T08:53:34+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxOWEw1WG1NVm44bVZzWW1EY1lnQkRpYTVEVVRZei1yYUlESmIzeThjd2dNQmtJT3dRVGtUTFMxYlNRdkNXY05JNFc5a1J0aEN1eUpualJCc1dRaWZlOWU0dlJYQi0tZ3cyLTVNaWk2VEdVUnVHcG03YVJvZTFnNGlET0tLUzhuaU1xT3pfbDdTNngxZ0xuWmtRSTFFc05wS3lPOUxhb2ZTREdxcm5ZSGp4dEJnTGtrcTFyWTBQY1FiYmhBYmVSUG1BdlBPd1lfVW54cF80emZTSXU0ZDJnb2RtZXlhVzcwenF3RnEzOEdQM0g0WEYzNTZjLTlSWm5sbFhWN1ltd3ZCYmRXc1BpaXBPR3VGSTZnSjY2MUc2UUlvRkk0ekZxTHRFZVpWZjdUWnFmSHo4bDh0RDhvSmpnWGNwZF82bGl4RFVMUUg4OXhGVW45T0V1UzF2YUFEV0NyTzczTksxZUtSazc2eUR0SVhzczNMTkRMRHpHRFhSYVFQQmRXWVNNb2JRUnhMQWxIWDhZZTBjM2toWkdVSFphaVA1dU1ITWIwQUs1Q0dzaUQ5Y3RGNS0xcDNqZ2RRWnBFenVGdjJDNzc3UHRzU3RDWENHbkI5bEpsTXBCWlc3dzZPQWF2NjB6ZWhHRVRub2szZERfMW5lQ1VHbVVXWl9mbHJNeE94aFBXM2E3aC03TGluUnItcnZRZWJTMTBpMzBReDQwaEs1QXpsV1hOamZGS05ZZnpBLXFYLThyZG1pcTBaNXlvQWZSQ1hSSDFEQ2VBRTFWM2h0U0J0a2pWckJ1Y3ZoQ2VDSGc?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNaEZoNkpGWWIzeVEtUGNQMjJOdUFfb1JmeExsdFFWcTdiakdQZkNvMzVPWVZWc2Q1LUVLVjhHcjZvQm9LTEVVZFJsM215TndoT0dTYTlrNFNxLXJBZ1RoMEhPU09lcURXS1RiZ1h1a0NWc3V5NV80WmhnekxSUGxXTkt6YmVWX21hbnpia3Q1X0g4anpIRWctc1dnYWZJTlo3VkpVRndQSXVhOHdpdVUwV1ROc1dWWHdENXI1dFN0blkzS3pQQWkxT1JnMS1NYTVRakViMUg4TFJHeWFaVjRXeEdCYWtVdS1meDBPZm5jZ2hycEdfYkVDVUhLYWo1TGZFMlBUN09tUEFYUm9EMGRxYkxMOFJDcE52bjVBcmw0RmtFbGQ4T0RjUUtNUHFDWUZNeEpmcjRrQ3E0bzI4ZGVoZWNpTllvd3JzV0YxdkFCXy1UemlYRkg2NUVsTlJ5bHRpbVN2cW5MNWJndWhtOWRZOXNtU2RVMDR2WV9vUnRYc1h4SjEwZ3JxenBCc1FjLUtmcmpkeWhlUTBjeE5VTEp6LUN4bW5qTnJfYUt0NjUtdmhzZWhrQVE?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
+          "name": "dementia",
+          "keyword": "失智",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -313,12 +254,12 @@
       ]
     },
     {
-      "id": "447901e210c5",
+      "id": "56eeaa0907b9",
       "title": "8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略",
       "published": "2026-09-30T00:02:04+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5"
         }
       ],
@@ -521,6 +462,30 @@
       ]
     },
     {
+      "id": "a7bf7c50e35b",
+      "title": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」",
+      "published": "2026-09-29T15:33:20+00:00",
+      "sources": [
+        {
+          "name": "tw.news.yahoo.com",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOc3dfRGZCOU4tU3N1dEd1YlpfMzJSWXhsMERXY3dDME5iLWI0TGhWMVY2T25YcEp2YkNCVnl1cEFNUTRSM1BTVEdTVWlWLURXNjJGNzdOSFZURk1qaVJFQUxQTmVETjJidE0zMHhDcGpORkN3RnNIQXFpVU1GMEtVSmwtSi0yWHpWQ0h1VE5OQl9qeGMwUkFid1NRMERDU0V6QjNMSWNvYXZFaFMzXzdaYWZyUEV6b0xoa0R2YjIyN3VIaXo0NFlPZGY3TWFxRGRkbjFHTVZ4eWtlOEJzNG1uNkpWTm8wNXk0d0Z3anFYM0lrRV84bERtdFp5bzdQNWxqeHdaQnlGZ1JXbHAxRlZBdFpRMFV5Tk9pNy1tTWhEMDJqV0xTR1BLM2tNQ3p6d2VxVGRoOHMyUk13djRPQXBKRi1FelZSRlQxTjNET1RMbHR4WjRHQ243VWF2cXZKdE5QNXJZRm1RTTl6a3g1bzRQWWVOWEhwdXRUcEI2Q1Y1U0RkYzA4RTc2aERrVUJ3X3I2VC1lVTZrTVRXUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "33c2bd48473c",
       "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生 - Overseas Chinese Daily News",
       "published": "2026-09-29T13:14:47+00:00",
@@ -663,36 +628,12 @@
       ]
     },
     {
-      "id": "62f62a522a99",
-      "title": "打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」",
-      "published": "2026-09-29T03:33:20+00:00",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15X19jRUFmbW9qX3dmN3RfZ0pDdWZwb0VMMnU4STFIeTNnNW9jZ1ZPVGhMNjAyMGZiWWhUdTJnd3dnRlJYZFQxT19mVQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2beee642ea63",
+      "id": "7bace52932b2",
       "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
       "published": "2026-09-29T00:03:39+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
         }
       ],
@@ -1058,30 +999,6 @@
       ]
     },
     {
-      "id": "36b7bcee1ac3",
-      "title": "「盲腸癌」病例急增專家關注 20至39歲升幅最大 疑與幾個因素有關",
-      "published": "2026-09-27T09:17:23+00:00",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNZ3FhMEc1cjgwTkE3YTRkN1VpcTY1bTlvdWpuTW9NcDBueTB6Z2psVjRDcnI0Z3d3Z3JNSDVxNE9CV0Njdk1UcnFzOV94VHJkQkdpMEZ1c2hWQjloMWhYakxsN0JKMzNBVlhjdTBFTXlfR0hhTHpUWXhOUmZKejlWVVI5eWlqSWRPdlRHZ0NVSlhTVHZHeFBpbmlsbUNXMzc2NWNyUF9uOXhXRnRuLVcyNE9lQzNqRlU1M3ZLRXkwYk5wbkF6MzVOdWtCZTlWWnBtWGloaUs5VUhKTzBhSl9hYXMwdi03LWI2Nmw3Z05qRmRHS1ZFTHhaNGhLVEc3RU1DNnFFMzQ5ZmZ6MjRseHFvaTRsZzF2Ry0zNXlQVWVQMmZ0ektnaWRVcVc2eTlmTmVJMDZCbkZ0QlhoeDJaS0EtM0xSaVBFbHY1cmk4dDk1SGJkVUFpaE1qTmVCME1WU3g2dmFocEVJaEZpSmRfeEY2d0g3U0Q5bmJOZUtVazdYVk9jYTF4dWh4ZHQ1c0g1R2J4M0NadGlDM2w?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ea8812c2dccf",
       "title": "戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活",
       "published": "2026-09-25T12:15:00+00:00",
@@ -1106,12 +1023,12 @@
       ]
     },
     {
-      "id": "bc072f8838a9",
+      "id": "8ccfb0f36859",
       "title": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛",
       "published": "2026-09-25T00:04:12+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5"
         }
       ],
@@ -1557,12 +1474,12 @@
       ]
     },
     {
-      "id": "a19f7158569b",
+      "id": "d283279adaaa",
       "title": "小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫",
       "published": "2026-09-24T03:46:54+00:00",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5"
         }
       ],
@@ -1638,53 +1555,6 @@
             {
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "77eaa74f2a26",
-      "title": "屁股痛4個月沒好！5旬男患直腸癌三期 醫嘆：6症狀危險了",
-      "published": "2026-09-23T08:11:01+00:00",
-      "sources": [
-        {
-          "name": "chinatimes.com",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PdGdESXJQUTZsVDFHeGVCQ2hSQWJEQm1oRzYxdHRXc1hkbnhMUTVlZmRaS3hrQlJ3WWwyWnlrUzlLc0ZNczVYVy1ERGZ3M2J3Y2lIM2dyTmpxalBxeEN0NDdiR19wV1MyZm50RXJn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
