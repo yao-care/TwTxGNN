@@ -3,7 +3,7 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [3飲品天天喝骨折風險高4.7倍營養師：心血管疾病也上門- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRloyeWNZbUp4a3lWRDZoWTJMVDhCYXVnXzdPSFVoWW04WGIxSUJTSWRGanRZSm1NbjJYYUFHdWhBenhFaGd0dVROdFZzNy1BTWotUDJaUjJ5QllZZEZucHhpLVljRXhuWk5YLWRn?oc=5)
-
-2026-09-29
-
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFRloyeWNZbUp4a3lWRDZoWTJMVDhCYXVnXzdPSFVoWW04WGIxSUJTSWRGanRZSm1NbjJYYUFHdWhBenhFaGd0dVROdFZzNy1BTWotUDJaUjJ5QllZZEZucHhpLVljRXhuWk5YLWRn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [《心血管》破解「殭屍細胞」！《Nature》最新研究：粒線體悄悄改寫 DNA，重塑抗慢性發炎關鍵策略，保護老化心臟細胞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9OMmxsOF9INjFHQV9fdXh1Wi1VcjNwek8xbWdpTDBQR253bnhXa3NIMW91elVnd3E0clRCd0xyUUE5XzFCT1FzVTVUWFhadDdnLWVvajluNGVMMENweWpVaGczVjkySXZyQmJhNA?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,37 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死](https://news.google.com/rss/articles/CBMi5ARBVV95cUxOWEw1WG1NVm44bVZzWW1EY1lnQkRpYTVEVVRZei1yYUlESmIzeThjd2dNQmtJT3dRVGtUTFMxYlNRdkNXY05JNFc5a1J0aEN1eUpualJCc1dRaWZlOWU0dlJYQi0tZ3cyLTVNaWk2VEdVUnVHcG03YVJvZTFnNGlET0tLUzhuaU1xT3pfbDdTNngxZ0xuWmtRSTFFc05wS3lPOUxhb2ZTREdxcm5ZSGp4dEJnTGtrcTFyWTBQY1FiYmhBYmVSUG1BdlBPd1lfVW54cF80emZTSXU0ZDJnb2RtZXlhVzcwenF3RnEzOEdQM0g0WEYzNTZjLTlSWm5sbFhWN1ltd3ZCYmRXc1BpaXBPR3VGSTZnSjY2MUc2UUlvRkk0ekZxTHRFZVpWZjdUWnFmSHo4bDh0RDhvSmpnWGNwZF82bGl4RFVMUUg4OXhGVW45T0V1UzF2YUFEV0NyTzczTksxZUtSazc2eUR0SVhzczNMTkRMRHpHRFhSYVFQQmRXWVNNb2JRUnhMQWxIWDhZZTBjM2toWkdVSFphaVA1dU1ITWIwQUs1Q0dzaUQ5Y3RGNS0xcDNqZ2RRWnBFenVGdjJDNzc3UHRzU3RDWENHbkI5bEpsTXBCWlc3dzZPQWF2NjB6ZWhHRVRub2szZERfMW5lQ1VHbVVXWl9mbHJNeE94aFBXM2E3aC03TGluUnItcnZRZWJTMTBpMzBReDQwaEs1QXpsV1hOamZGS05ZZnpBLXFYLThyZG1pcTBaNXlvQWZSQ1hSSDFEQ2VBRTFWM2h0U0J0a2pWckJ1Y3ZoQ2VDSGc?oc=5)
+
+2026-09-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMi5ARBVV95cUxOWEw1WG1NVm44bVZzWW1EY1lnQkRpYTVEVVRZei1yYUlESmIzeThjd2dNQmtJT3dRVGtUTFMxYlNRdkNXY05JNFc5a1J0aEN1eUpualJCc1dRaWZlOWU0dlJYQi0tZ3cyLTVNaWk2VEdVUnVHcG03YVJvZTFnNGlET0tLUzhuaU1xT3pfbDdTNngxZ0xuWmtRSTFFc05wS3lPOUxhb2ZTREdxcm5ZSGp4dEJnTGtrcTFyWTBQY1FiYmhBYmVSUG1BdlBPd1lfVW54cF80emZTSXU0ZDJnb2RtZXlhVzcwenF3RnEzOEdQM0g0WEYzNTZjLTlSWm5sbFhWN1ltd3ZCYmRXc1BpaXBPR3VGSTZnSjY2MUc2UUlvRkk0ekZxTHRFZVpWZjdUWnFmSHo4bDh0RDhvSmpnWGNwZF82bGl4RFVMUUg4OXhGVW45T0V1UzF2YUFEV0NyTzczTksxZUtSazc2eUR0SVhzczNMTkRMRHpHRFhSYVFQQmRXWVNNb2JRUnhMQWxIWDhZZTBjM2toWkdVSFphaVA1dU1ITWIwQUs1Q0dzaUQ5Y3RGNS0xcDNqZ2RRWnBFenVGdjJDNzc3UHRzU3RDWENHbkI5bEpsTXBCWlc3dzZPQWF2NjB6ZWhHRVRub2szZERfMW5lQ1VHbVVXWl9mbHJNeE94aFBXM2E3aC03TGluUnItcnZRZWJTMTBpMzBReDQwaEs1QXpsV1hOamZGS05ZZnpBLXFYLThyZG1pcTBaNXlvQWZSQ1hSSDFEQ2VBRTFWM2h0U0J0a2pWckJ1Y3ZoQ2VDSGc?oc=5)
+
+---
+
+### [健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
+
+2026-09-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
+
+---
 
 ### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5)
 
-2026-09-30 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+2026-09-30 <span class="news-indication-tag">癌症</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5)
 
 ---
 
-### [早餐別只吃雞蛋！腫瘤醫推全穀燕麥加4食材打造防癌利器- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
+### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMiOkFVX3lxTFBETHhSdGJWbTMtSy1hNHVDYWRUaWlHTFJuZmdCcEZUOVJaVXI1QXkya2lIQWgwejR3N0E?oc=5)
 
-2026-09-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span>
+2026-09-28 <span class="news-indication-tag">腫瘤</span>
 
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1KOGtGclRzMC1mQUM3MXZ3LTFLMkV6RkE4R1RucDFEeGljcWdSYXdlbE45dUZ5c2J3Yl84cEh2ZXRBd29GMjRoLUNGWDdqZFhPZ0lIUU5MdnZqVlJPMWNfOXgzQmVEOXVKVlRhUldn?oc=5)
+來源: [ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTFBETHhSdGJWbTMtSy1hNHVDYWRUaWlHTFJuZmdCcEZUOVJaVXI1QXkya2lIQWgwejR3N0E?oc=5)
 
 ---
 
@@ -65,14 +81,6 @@ permalink: /news/acetazolamide/
 2026-09-28 <span class="news-indication-tag">心臟病</span>
 
 來源: [ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE9pYndQeGFpMDQ3MkdocUk5QjF6Q2VjSUNIRjJwRVFWM0xGR1RqdlQzWF8zbWNza01FeEE?oc=5)
-
----
-
-### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
-
-2026-09-28 <span class="news-indication-tag">腫瘤</span>
-
-來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
 
 ---
 

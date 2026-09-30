@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "心肌梗塞 (myocardial infarction) 相關新聞"
+title: "心臟病發 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心肌梗塞 (myocardial infarction) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心臟病發 (myocardial infarction) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 ---
 
-# 心肌梗塞 (myocardial infarction) 相關新聞
+# 心臟病發 (myocardial infarction) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心肌梗塞 (myocardial infarction) 有什麼相關新聞？">
-<strong>心肌梗塞 (myocardial infarction)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="心臟病發 (myocardial infarction) 有什麼相關新聞？">
+<strong>心臟病發 (myocardial infarction)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心肌梗塞」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「心臟病發」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,7 +29,15 @@ permalink: /news/myocardial-infarction/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死](https://news.google.com/rss/articles/CBMi5ARBVV95cUxOWEw1WG1NVm44bVZzWW1EY1lnQkRpYTVEVVRZei1yYUlESmIzeThjd2dNQmtJT3dRVGtUTFMxYlNRdkNXY05JNFc5a1J0aEN1eUpualJCc1dRaWZlOWU0dlJYQi0tZ3cyLTVNaWk2VEdVUnVHcG03YVJvZTFnNGlET0tLUzhuaU1xT3pfbDdTNngxZ0xuWmtRSTFFc05wS3lPOUxhb2ZTREdxcm5ZSGp4dEJnTGtrcTFyWTBQY1FiYmhBYmVSUG1BdlBPd1lfVW54cF80emZTSXU0ZDJnb2RtZXlhVzcwenF3RnEzOEdQM0g0WEYzNTZjLTlSWm5sbFhWN1ltd3ZCYmRXc1BpaXBPR3VGSTZnSjY2MUc2UUlvRkk0ekZxTHRFZVpWZjdUWnFmSHo4bDh0RDhvSmpnWGNwZF82bGl4RFVMUUg4OXhGVW45T0V1UzF2YUFEV0NyTzczTksxZUtSazc2eUR0SVhzczNMTkRMRHpHRFhSYVFQQmRXWVNNb2JRUnhMQWxIWDhZZTBjM2toWkdVSFphaVA1dU1ITWIwQUs1Q0dzaUQ5Y3RGNS0xcDNqZ2RRWnBFenVGdjJDNzc3UHRzU3RDWENHbkI5bEpsTXBCWlc3dzZPQWF2NjB6ZWhHRVRub2szZERfMW5lQ1VHbVVXWl9mbHJNeE94aFBXM2E3aC03TGluUnItcnZRZWJTMTBpMzBReDQwaEs1QXpsV1hOamZGS05ZZnpBLXFYLThyZG1pcTBaNXlvQWZSQ1hSSDFEQ2VBRTFWM2h0U0J0a2pWckJ1Y3ZoQ2VDSGc?oc=5)
+
+2026-09-30
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMi5ARBVV95cUxOWEw1WG1NVm44bVZzWW1EY1lnQkRpYTVEVVRZei1yYUlESmIzeThjd2dNQmtJT3dRVGtUTFMxYlNRdkNXY05JNFc5a1J0aEN1eUpualJCc1dRaWZlOWU0dlJYQi0tZ3cyLTVNaWk2VEdVUnVHcG03YVJvZTFnNGlET0tLUzhuaU1xT3pfbDdTNngxZ0xuWmtRSTFFc05wS3lPOUxhb2ZTREdxcm5ZSGp4dEJnTGtrcTFyWTBQY1FiYmhBYmVSUG1BdlBPd1lfVW54cF80emZTSXU0ZDJnb2RtZXlhVzcwenF3RnEzOEdQM0g0WEYzNTZjLTlSWm5sbFhWN1ltd3ZCYmRXc1BpaXBPR3VGSTZnSjY2MUc2UUlvRkk0ekZxTHRFZVpWZjdUWnFmSHo4bDh0RDhvSmpnWGNwZF82bGl4RFVMUUg4OXhGVW45T0V1UzF2YUFEV0NyTzczTksxZUtSazc2eUR0SVhzczNMTkRMRHpHRFhSYVFQQmRXWVNNb2JRUnhMQWxIWDhZZTBjM2toWkdVSFphaVA1dU1ITWIwQUs1Q0dzaUQ5Y3RGNS0xcDNqZ2RRWnBFenVGdjJDNzc3UHRzU3RDWENHbkI5bEpsTXBCWlc3dzZPQWF2NjB6ZWhHRVRub2szZERfMW5lQ1VHbVVXWl9mbHJNeE94aFBXM2E3aC03TGluUnItcnZRZWJTMTBpMzBReDQwaEs1QXpsV1hOamZGS05ZZnpBLXFYLThyZG1pcTBaNXlvQWZSQ1hSSDFEQ2VBRTFWM2h0U0J0a2pWckJ1Y3ZoQ2VDSGc?oc=5)
+
+---
 
 ### [戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5)
 
