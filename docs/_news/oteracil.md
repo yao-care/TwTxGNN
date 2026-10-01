@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>: 胃癌用藥。</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">colonic neoplasm (100.0%)<span class="indication-tag">📰 大腸癌</span></li>
+<li class="indication-matched">colonic neoplasm (100.0%)<span class="indication-tag">📰 腸癌</span></li>
 <li>cecum villous adenoma (100.0%)</li>
 <li>cecum neuroendocrine tumor G1 (100.0%)</li>
 <li>lipoma of colon (100.0%)</li>
@@ -42,15 +42,7 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
-
-### [健康網》HPV恐釀子宮頸癌 醫籲別緊張：4招保護自己](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
-
-2026-10-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [超車黃豆醫激推1種豆甩脂、防腸癌堪稱超級食物- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmWlZtamVBRDBKTUgzLUIySVVucmVjZDhGWEllUm5pbmFxaHd1ZGI4V1huejM0RHdPYklUYnhrbnZzUi1XNkZ0eFFod2REYnlRc0s4cm5YM3hWZ3RjTFdWMVRlMTV6MzVkb0FWMkhn?oc=5)
 
@@ -78,7 +70,7 @@ permalink: /news/oteracil/
 
 ### [大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5)
 
-2026-09-26 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-09-26 <span class="news-indication-tag">腸癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5)
 

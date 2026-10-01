@@ -14,7 +14,7 @@ permalink: /news/vismodegib/
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/vismodegib/
 <p><a href="{{ '/drugs/vismodegib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [健康網》HPV恐釀子宮頸癌 醫籲別緊張：4招保護自己](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
-
-2026-10-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
 
