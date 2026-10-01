@@ -14,7 +14,7 @@ permalink: /news/benazepril/
 ---
 
 <p class="key-answer" data-question="Benazepril 有什麼相關新聞？">
-<strong>Benazepril</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Benazepril</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ permalink: /news/benazepril/
 <p><a href="{{ '/drugs/benazepril/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
 
@@ -54,11 +54,11 @@ permalink: /news/benazepril/
 
 ---
 
-### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
+### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQUs1bWltOFhVdVhlaW9CcHFTaElxZUc3aUtyc1djcWthQ1VrMl8zQko2ZDZJb2hkQW9JUndSNjBwaUpFNGRqMjBQWQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">腫瘤</span>
 
-來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
+來源: [樂聯網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQUs1bWltOFhVdVhlaW9CcHFTaElxZUc3aUtyc1djcWthQ1VrMl8zQko2ZDZJb2hkQW9JUndSNjBwaUpFNGRqMjBQWQ?oc=5)
 
 ---
 
@@ -67,14 +67,6 @@ permalink: /news/benazepril/
 2026-09-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
-
----
-
-### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
-
-2026-09-24 <span class="news-indication-tag">癌症</span>
-
-來源: [香港商报](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
 
 ---
 

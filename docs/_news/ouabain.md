@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>
-<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心肌梗塞</span></li>
+<li>myocardial infarction (99.4%)</li>
 <li>thrombotic disease (99.3%)</li>
 <li>hyperthyroidism (99.3%)</li>
 <li>homozygous familial hypercholesterolemia (99.2%)</li>
@@ -52,11 +52,11 @@ permalink: /news/ouabain/
 
 ---
 
-### [戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5)
+### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoT2VJaHdjbFJLdUgtSHJmeHZWeWR1R0xCZnRTTUY2WDRIbW5jOGF6TEVLSVJwUjl2bnhxbzZUbFFrblplX0JmQnV1TQ?oc=5)
 
-2026-09-25 <span class="news-indication-tag">心肌梗塞</span>
+2026-09-28 <span class="news-indication-tag">心臟病</span>
 
-來源: [UHK 港生活](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5)
+來源: [樂聯網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoT2VJaHdjbFJLdUgtSHJmeHZWeWR1R0xCZnRTTUY2WDRIbW5jOGF6TEVLSVJwUjl2bnhxbzZUbFFrblplX0JmQnV1TQ?oc=5)
 
 ---
 

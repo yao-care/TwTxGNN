@@ -3,7 +3,7 @@ layout: default
 title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智 (dementia)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招](https://news.google.com/rss/articles/CBMitgNBVV95cUxNaEZoNkpGWWIzeVEtUGNQMjJOdUFfb1JmeExsdFFWcTdiakdQZkNvMzVPWVZWc2Q1LUVLVjhHcjZvQm9LTEVVZFJsM215TndoT0dTYTlrNFNxLXJBZ1RoMEhPU09lcURXS1RiZ1h1a0NWc3V5NV80WmhnekxSUGxXTkt6YmVWX21hbnpia3Q1X0g4anpIRWctc1dnYWZJTlo3VkpVRndQSXVhOHdpdVUwV1ROc1dWWHdENXI1dFN0blkzS3pQQWkxT1JnMS1NYTVRakViMUg4TFJHeWFaVjRXeEdCYWtVdS1meDBPZm5jZ2hycEdfYkVDVUhLYWo1TGZFMlBUN09tUEFYUm9EMGRxYkxMOFJDcE52bjVBcmw0RmtFbGQ4T0RjUUtNUHFDWUZNeEpmcjRrQ3E0bzI4ZGVoZWNpTllvd3JzV0YxdkFCXy1UemlYRkg2NUVsTlJ5bHRpbVN2cW5MNWJndWhtOWRZOXNtU2RVMDR2WV9vUnRYc1h4SjEwZ3JxenBCc1FjLUtmcmpkeWhlUTBjeE5VTEp6LUN4bW5qTnJfYUt0NjUtdmhzZWhrQVE?oc=5)
 
@@ -59,7 +59,15 @@ permalink: /news/dementia/
 
 2026-09-28
 
-來源: [T客邦](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFJzbjg1RDcxOUZkcVl1eURRcHpJM01VMzNlank5M3VGVU1IZVZGb18yOGJpaXItd2wxbmh5TUtReFNUc2c0TTJ5dW1Oc1RkSU9fcWhsTmJIZXhWTnJMR1JtbGJVV2ZWLVJ3cTVpb1VjVXduc1V5S0JOR3ZORmhobXdGZjQ?oc=5)
+來源: [techbang.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFJzbjg1RDcxOUZkcVl1eURRcHpJM01VMzNlank5M3VGVU1IZVZGb18yOGJpaXItd2wxbmh5TUtReFNUc2c0TTJ5dW1Oc1RkSU9fcWhsTmJIZXhWTnJMR1JtbGJVV2ZWLVJ3cTVpb1VjVXduc1V5S0JOR3ZORmhobXdGZjQ?oc=5)
+
+---
+
+### [停經後採荷爾蒙療法 失智風險降23%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+
+2026-09-27
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
 
 ---
 

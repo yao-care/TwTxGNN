@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
 
@@ -60,11 +60,19 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
+### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQUs1bWltOFhVdVhlaW9CcHFTaElxZUc3aUtyc1djcWthQ1VrMl8zQko2ZDZJb2hkQW9JUndSNjBwaUpFNGRqMjBQWQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">腫瘤</span>
 
-來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
+來源: [樂聯網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQUs1bWltOFhVdVhlaW9CcHFTaElxZUc3aUtyc1djcWthQ1VrMl8zQko2ZDZJb2hkQW9JUndSNjBwaUpFNGRqMjBQWQ?oc=5)
+
+---
+
+### [停經後採荷爾蒙療法 失智風險降23%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+
+2026-09-27 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">停經</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
 
 ---
 
@@ -76,11 +84,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [本港舉辦「早期癌症篩查新趨勢」業界交流會](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
+### [肥胖「關掉」癌細胞死亡開關！《Science》揭9S-HODE抗乳癌機制](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
 
-2026-09-24 <span class="news-indication-tag">癌症</span>
+2026-09-24 <span class="news-indication-tag">乳癌</span>
 
-來源: [香港商报](https://news.google.com/rss/articles/CBMicEFVX3lxTFBhckJEaVNYLWtEQTBHV216S3NKWDRGUGt4WXBLYXVmVjZMdGFOeGdvZmItbTF6SElwaXdVUDRTUEFWRU4xVEdwSXZub3FjRV9YbEJFRko3Rl9kQ0FWUVdMcTJWUG5JRlpaZFFYeFFDd3M?oc=5)
+來源: [環球生技](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
 
 ---
 
