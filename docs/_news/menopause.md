@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "停經 (menopause) 相關新聞"
+title: "更年期 (menopause) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "停經 (menopause) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "更年期 (menopause) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
-# 停經 (menopause) 相關新聞
+# 更年期 (menopause) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="停經 (menopause) 有什麼相關新聞？">
-<strong>停經 (menopause)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<p class="key-answer" data-question="更年期 (menopause) 有什麼相關新聞？">
+<strong>更年期 (menopause)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「停經」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「更年期」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -34,11 +34,11 @@ permalink: /news/menopause/
 
 ## 相關新聞（1 則）
 
-### [停經後採荷爾蒙療法 失智風險降23%](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+### [更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
 
-2026-09-27
+2026-10-01
 
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZGI3MFFiRTF4cDktTllvNnJnQVdJSWdPaXVBRkkwLThUNmYwSTQxT0Q1LXNubGk1aDdOOHVGQTBjS1I4WlJMVjF1anJwRjJNSEFuNnF6enRSRmliOU1uM2hn0gFnQVVfeXFMTlhMQzV0eTZ0QXpITHZ5bVA4MmVPYjRpODlSakRwblJtZlhBdzdNSmt6cFdyV3NmRF9GNlBrRlR6ZG41UEcwU0txdjJwVlNMUVNzMjI2RzN0dnNuNWs1eW4zdXIxa3o2MA?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
 
 ---
 

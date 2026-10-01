@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
 
@@ -60,19 +60,11 @@ permalink: /news/gemcitabine/
 
 ---
 
-### [不是鮭魚、鰻魚！50歲男狂長20顆大腸息肉、1顆已是原位癌，醫建議改吃「1種魚」： 竟一顆都沒了](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZanRGY2ZfMjJYVlVfMmw5VXQySDZxaXBfSzdjTlVLblJDMDQyNTRibGl2a2Q1S2V1cmtsOFY2WVUzeko2d19qS2V5VllzY0ZN?oc=5)
-
-2026-09-29 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [Storm.mg](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZanRGY2ZfMjJYVlVfMmw5VXQySDZxaXBfSzdjTlVLblJDMDQyNTRibGl2a2Q1S2V1cmtsOFY2WVUzeko2d19qS2V5VllzY0ZN?oc=5)
-
----
-
-### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQUs1bWltOFhVdVhlaW9CcHFTaElxZUc3aUtyc1djcWthQ1VrMl8zQko2ZDZJb2hkQW9JUndSNjBwaUpFNGRqMjBQWQ?oc=5)
+### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
 
 2026-09-28 <span class="news-indication-tag">腫瘤</span>
 
-來源: [樂聯網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkQUs1bWltOFhVdVhlaW9CcHFTaElxZUc3aUtyc1djcWthQ1VrMl8zQko2ZDZJb2hkQW9JUndSNjBwaUpFNGRqMjBQWQ?oc=5)
+來源: [yesmedia.com.tw](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
 
 ---
 
@@ -81,14 +73,6 @@ permalink: /news/gemcitabine/
 2026-09-25 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5)
-
----
-
-### [肥胖「關掉」癌細胞死亡開關！《Science》揭9S-HODE抗乳癌機制](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
-
-2026-09-24 <span class="news-indication-tag">乳癌</span>
-
-來源: [環球生技](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VTnFGQkhCbU4zcmRJVkhXbDlxNldwbEFCbDhVUTcyX0Y0SVJRQmtzM2hETk1rNDdRSWNoXzdibHNpNGJMd3oydzBnTm5mLWhzMm5ROUVuZHkwR0JWemU1TDZhZXU5VzlM?oc=5)
 
 ---
 

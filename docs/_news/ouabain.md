@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>
-<li>myocardial infarction (99.4%)</li>
+<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心肌梗塞</span></li>
 <li>thrombotic disease (99.3%)</li>
 <li>hyperthyroidism (99.3%)</li>
 <li>homozygous familial hypercholesterolemia (99.2%)</li>
@@ -42,7 +42,7 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [打破傳統認知！心臟衰竭是全身發炎失衡「應納入防癌全身性管理」](https://news.google.com/rss/articles/CBMimgNBVV95cUxOc3dfRGZCOU4tU3N1dEd1YlpfMzJSWXhsMERXY3dDME5iLWI0TGhWMVY2T25YcEp2YkNCVnl1cEFNUTRSM1BTVEdTVWlWLURXNjJGNzdOSFZURk1qaVJFQUxQTmVETjJidE0zMHhDcGpORkN3RnNIQXFpVU1GMEtVSmwtSi0yWHpWQ0h1VE5OQl9qeGMwUkFid1NRMERDU0V6QjNMSWNvYXZFaFMzXzdaYWZyUEV6b0xoa0R2YjIyN3VIaXo0NFlPZGY3TWFxRGRkbjFHTVZ4eWtlOEJzNG1uNkpWTm8wNXk0d0Z3anFYM0lrRV84bERtdFp5bzdQNWxqeHdaQnlGZ1JXbHAxRlZBdFpRMFV5Tk9pNy1tTWhEMDJqV0xTR1BLM2tNQ3p6d2VxVGRoOHMyUk13djRPQXBKRi1FelZSRlQxTjNET1RMbHR4WjRHQ243VWF2cXZKdE5QNXJZRm1RTTl6a3g1bzRQWWVOWEhwdXRUcEI2Q1Y1U0RkYzA4RTc2aERrVUJ3X3I2VC1lVTZrTVRXUQ?oc=5)
 
@@ -52,11 +52,19 @@ permalink: /news/ouabain/
 
 ---
 
-### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoT2VJaHdjbFJLdUgtSHJmeHZWeWR1R0xCZnRTTUY2WDRIbW5jOGF6TEVLSVJwUjl2bnhxbzZUbFFrblplX0JmQnV1TQ?oc=5)
+### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMi9gJBVV95cUxOMW5QZkFUREhpSU1NcENsZlJQc1RSaTdMN2cxd2FoeXZ6M1U2RTlEbnAyWWJ5ajFKUjY0Y3FTRkw0Z3k0SzMwRkotajdGc0R3aU00dHhoejVmT3JpQW1pb0tpLWZ4RzdhWUcxQjJvRl8wSHFYZTRYWEdUT1hHbFhBb3UxclRod19DcFhZR0pfU3ZWOWhRM3o2ZHdXM3BmRlp0U2E3aGxhV3pOc2dYdHltYkJTb3BFYUxJdHYtS0RlZ1JpRTU3V2h0czE4ZnFGSGJvWmtDbWtHbUUwTmpoRm9IaWdaMk5rNFdMYjN2UEZKQmVmVFBaV2dUNXJXeFFNay01NldqbXc4TkZBTFNHUUhqdjFRZnNzUlNOUk4tNnpONHVSMm1WZGNzTFdRYjBXUnZ5RUN4cnBJSnhUSUwxSXBjZHlrMEtkNDUzRVZhZnpNLVNUelU3WERBRE1Za3hucEotanI0dDVhRmFlczBNV0xyQkhQUWRyUQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">心臟病</span>
 
-來源: [樂聯網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoT2VJaHdjbFJLdUgtSHJmeHZWeWR1R0xCZnRTTUY2WDRIbW5jOGF6TEVLSVJwUjl2bnhxbzZUbFFrblplX0JmQnV1TQ?oc=5)
+來源: [商傳媒](https://news.google.com/rss/articles/CBMi9gJBVV95cUxOMW5QZkFUREhpSU1NcENsZlJQc1RSaTdMN2cxd2FoeXZ6M1U2RTlEbnAyWWJ5ajFKUjY0Y3FTRkw0Z3k0SzMwRkotajdGc0R3aU00dHhoejVmT3JpQW1pb0tpLWZ4RzdhWUcxQjJvRl8wSHFYZTRYWEdUT1hHbFhBb3UxclRod19DcFhZR0pfU3ZWOWhRM3o2ZHdXM3BmRlp0U2E3aGxhV3pOc2dYdHltYkJTb3BFYUxJdHYtS0RlZ1JpRTU3V2h0czE4ZnFGSGJvWmtDbWtHbUUwTmpoRm9IaWdaMk5rNFdMYjN2UEZKQmVmVFBaV2dUNXJXeFFNay01NldqbXc4TkZBTFNHUUhqdjFRZnNzUlNOUk4tNnpONHVSMm1WZGNzTFdRYjBXUnZ5RUN4cnBJSnhUSUwxSXBjZHlrMEtkNDUzRVZhZnpNLVNUelU3WERBRE1Za3hucEotanI0dDVhRmFlczBNV0xyQkhQUWRyUQ?oc=5)
+
+---
+
+### [戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5)
+
+2026-09-25 <span class="news-indication-tag">心肌梗塞</span>
+
+來源: [UHK 港生活](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5)
 
 ---
 

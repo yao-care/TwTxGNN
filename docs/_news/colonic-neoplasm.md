@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "大腸癌 (colonic neoplasm) 相關新聞"
+title: "腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "腸癌 (colonic neoplasm) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
-# 大腸癌 (colonic neoplasm) 相關新聞
+# 腸癌 (colonic neoplasm) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="腸癌 (colonic neoplasm) 有什麼相關新聞？">
+<strong>腸癌 (colonic neoplasm)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,21 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [不是鮭魚、鰻魚！50歲男狂長20顆大腸息肉、1顆已是原位癌，醫建議改吃「1種魚」： 竟一顆都沒了](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZanRGY2ZfMjJYVlVfMmw5VXQySDZxaXBfSzdjTlVLblJDMDQyNTRibGl2a2Q1S2V1cmtsOFY2WVUzeko2d19qS2V5VllzY0ZN?oc=5)
+### [超車黃豆醫激推1種豆甩脂、防腸癌堪稱超級食物- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmWlZtamVBRDBKTUgzLUIySVVucmVjZDhGWEllUm5pbmFxaHd1ZGI4V1huejM0RHdPYklUYnhrbnZzUi1XNkZ0eFFod2REYnlRc0s4cm5YM3hWZ3RjTFdWMVRlMTV6MzVkb0FWMkhn?oc=5)
 
-2026-09-29
+2026-10-01
 
-來源: [Storm.mg](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZanRGY2ZfMjJYVlVfMmw5VXQySDZxaXBfSzdjTlVLblJDMDQyNTRibGl2a2Q1S2V1cmtsOFY2WVUzeko2d19qS2V5VllzY0ZN?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmWlZtamVBRDBKTUgzLUIySVVucmVjZDhGWEllUm5pbmFxaHd1ZGI4V1huejM0RHdPYklUYnhrbnZzUi1XNkZ0eFFod2REYnlRc0s4cm5YM3hWZ3RjTFdWMVRlMTV6MzVkb0FWMkhn?oc=5)
+
+---
+
+### [大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5)
+
+2026-09-26
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiiwNBVV95cUxQS2h6Y3pPR3B4ZTYwa044Wi1yMEJrOFBOQXFvejFhM05Bbm1hTEpKNjRaT2kyUGl4TG9VZ29LQ1lsd2dfallHUlN5dFBjRl9uNDRoRThSVFJvSVJBcmNxbWdLaGhONEhaaTROa0FxSk9ySkhPWEpuM0psSlFsX19jWTBsU3o0Wm40Nnd5bk1LQUNaTlZZRHAyRVptMEZfaVRXTEY5N0FuNUpzcnZmU0Y5VVBEZkFtWGt3NGpMLUJERTVaOGFSQmJuWFUzZFpTcXNFbEotMkVibW1Ba0lObDBjbHZlUERFM0RGbktGdzBNZWZQbmFrdE1JLURfS0Z6amwzVzA3NWJDSG1EMmJFUm9LWWlQcy02eVp3UjlKUGlzTW1pTERYcFJrSzBrLUhjZnN0WXFhSFhleUVqUXllRGpFaElDVFY2LUZxWUxkTzAxWFBrSHFKOVc2TkdQWVB6MkNmS0wwQzB3V19RQS1WTGZLWTJDR0g1OG0yajM0blFQQjFNUWJvdG0xc1ZlVQ?oc=5)
 
 ---
 

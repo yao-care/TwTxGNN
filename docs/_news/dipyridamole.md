@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoT2VJaHdjbFJLdUgtSHJmeHZWeWR1R0xCZnRTTUY2WDRIbW5jOGF6TEVLSVJwUjl2bnhxbzZUbFFrblplX0JmQnV1TQ?oc=5)
+### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMi9gJBVV95cUxOMW5QZkFUREhpSU1NcENsZlJQc1RSaTdMN2cxd2FoeXZ6M1U2RTlEbnAyWWJ5ajFKUjY0Y3FTRkw0Z3k0SzMwRkotajdGc0R3aU00dHhoejVmT3JpQW1pb0tpLWZ4RzdhWUcxQjJvRl8wSHFYZTRYWEdUT1hHbFhBb3UxclRod19DcFhZR0pfU3ZWOWhRM3o2ZHdXM3BmRlp0U2E3aGxhV3pOc2dYdHltYkJTb3BFYUxJdHYtS0RlZ1JpRTU3V2h0czE4ZnFGSGJvWmtDbWtHbUUwTmpoRm9IaWdaMk5rNFdMYjN2UEZKQmVmVFBaV2dUNXJXeFFNay01NldqbXc4TkZBTFNHUUhqdjFRZnNzUlNOUk4tNnpONHVSMm1WZGNzTFdRYjBXUnZ5RUN4cnBJSnhUSUwxSXBjZHlrMEtkNDUzRVZhZnpNLVNUelU3WERBRE1Za3hucEotanI0dDVhRmFlczBNV0xyQkhQUWRyUQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">心臟病</span>
 
-來源: [樂聯網](https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoT2VJaHdjbFJLdUgtSHJmeHZWeWR1R0xCZnRTTUY2WDRIbW5jOGF6TEVLSVJwUjl2bnhxbzZUbFFrblplX0JmQnV1TQ?oc=5)
+來源: [商傳媒](https://news.google.com/rss/articles/CBMi9gJBVV95cUxOMW5QZkFUREhpSU1NcENsZlJQc1RSaTdMN2cxd2FoeXZ6M1U2RTlEbnAyWWJ5ajFKUjY0Y3FTRkw0Z3k0SzMwRkotajdGc0R3aU00dHhoejVmT3JpQW1pb0tpLWZ4RzdhWUcxQjJvRl8wSHFYZTRYWEdUT1hHbFhBb3UxclRod19DcFhZR0pfU3ZWOWhRM3o2ZHdXM3BmRlp0U2E3aGxhV3pOc2dYdHltYkJTb3BFYUxJdHYtS0RlZ1JpRTU3V2h0czE4ZnFGSGJvWmtDbWtHbUUwTmpoRm9IaWdaMk5rNFdMYjN2UEZKQmVmVFBaV2dUNXJXeFFNay01NldqbXc4TkZBTFNHUUhqdjFRZnNzUlNOUk4tNnpONHVSMm1WZGNzTFdRYjBXUnZ5RUN4cnBJSnhUSUwxSXBjZHlrMEtkNDUzRVZhZnpNLVNUelU3WERBRE1Za3hucEotanI0dDVhRmFlczBNV0xyQkhQUWRyUQ?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/dipyridamole/
 2026-09-28 <span class="news-indication-tag">心律不整</span> <span class="news-indication-tag">中風</span>
 
 來源: [香港01](https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5)
-
----
-
-### [小中風症狀消失就沒事？研究揭20年失智風險 這些警訊要立刻就醫](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
-
-2026-09-24 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">中風</span>
-
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HZVJnRVRfSTNMNGdINTh4Q05vMEEwdVlFYlBvalhlaHNqZkgwblZ1RmVGbDdYZDBrV0tsUVZMWW5tY09fTko0S1BVSlA1S0hpb19DbS00dkpqSkVk0gFiQVVfeXFMTWQ2aWQ4WTd1Q2JDOGhqeWFqT3F4ZDJTbkx0TVVZSGdaMW0teVFnNTctZFFLLUFtV1JQb09QUk9tX3o2aE80OVB3R2VPU1VCV2Y3RzBUazVqRTlPNFo2YmJvMmc?oc=5)
 
 ---
 
