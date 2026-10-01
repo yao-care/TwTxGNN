@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（9 則）
+
+### [健康網》HPV恐釀子宮頸癌 醫籲別緊張：4招保護自己](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
+
+2026-10-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
+
+---
 
 ### [更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
 
@@ -72,27 +80,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5)
-
-2026-09-30 <span class="news-indication-tag">癌症</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5)
-
----
-
 ### [大腦排毒功能失靈 恐為失智症根源](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源: [大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
-
----
-
-### [李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">阿茲海默症</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
+來源: [大紀元新聞網](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
 
 ---
 

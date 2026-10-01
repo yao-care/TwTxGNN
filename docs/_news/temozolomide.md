@@ -36,19 +36,19 @@ permalink: /news/temozolomide/
 
 ## 相關新聞（4 則）
 
+### [健康網》HPV恐釀子宮頸癌 醫籲別緊張：4招保護自己](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
+
+2026-10-01 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sYU1qUmRzR1hWbWdaeURFNWxWVUNHUzYydUhDVXJtcGkxNzVDNUwySVdhekFLT1pNU2QzcThMdjZfTUFieGlhSnloN3ZyU0YxOXg3SWNmQ2pxeko5WHVTSjJBMW0?oc=5)
+
+---
+
 ### [健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
 
 2026-09-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
-
----
-
-### [8成女性恐感染這病毒！最快5年變癌症 醫揭最強預防策略](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5)
-
-2026-09-30 <span class="news-indication-tag">癌症</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQNHVnQWtyRUxRSjV0QU9rdUROM0dHc3l3dWdheVZ6RXpkQ1BUTUdHamd3RUlsaTRQWUFQbEJwaGtkb3FUZjRURzRrcm1JVmdhNFdrU1pVbmNLaFk3WmZMWFZQUWdDR2hCNGtJcVRnM1Mtc2dLTEJlM0FmN05uUVRBMUxIMVJLSDR2THc2alFFaV91WjFzTG9GQzltcTdXVldZbWZiQU93d2o3MjVvcUp3OF9HSmVFb0dLeTZUbElIMVJuVmpVLWJQTzJPUTZiemlMeGh0ekMtampGb2hoVjlXN2JpYTRhdVhydzRZR3JITW1VV0hvUm5xVkF6OXBwYnFwa2kzdV8zb1d3NEQtM2ZXMEFsQXRfeVdjQU1saDlGTWlqNkNmQXd4ek9SR3ZoTk9zRFhZaXVLdENrNTNHNlRIRWZ2WEtUMEtvSzY0ZlhMNlpFNG5hN2tUbWVFdHlmaXJRWmItVUNSY2hMbGFM?oc=5)
 
 ---
 

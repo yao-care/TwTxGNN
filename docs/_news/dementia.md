@@ -3,7 +3,7 @@ layout: default
 title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
 
@@ -51,15 +51,7 @@ permalink: /news/dementia/
 
 2026-09-29
 
-來源: [大纪元](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
-
----
-
-### [李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
-
-2026-09-29
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
+來源: [大紀元新聞網](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
 
 ---
 
