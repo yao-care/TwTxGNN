@@ -33,11 +33,11 @@ permalink: /news/small-cell-lung-carcinoma/
 
 ## 相關新聞（1 則）
 
-### [健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
+### [肺癌復發後走過10年 名醫分享抗癌生活](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
 
-2026-09-30
+2026-09-26
 
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5)
+來源: [大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-01T22:08:49.977977+00:00",
-  "count": 45,
+  "fetched_at": "2026-10-02T01:53:19.559771+00:00",
+  "count": 44,
   "news": [
     {
       "id": "7846f85604c6",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "1dafaa3de24f",
-      "title": "美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例 - Taiwan News",
-      "published": "2026-10-01T08:28:00+00:00",
-      "summary": "美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan News賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元新聞網美國麻疹疫情創35年最慘 賓州出現第5起死亡病例 | 民視新聞網&nbsp;&nbsp;LINE TODAY【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例&nbsp;&nbsp;forecastock.tw",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CX3FyeVlGRzE0NWxieFhrMFJ2ZXhKZ01yeGFKZkI4bjJUZDNpeFMtWUxzZU5UWFdiX0VWcnZnRjF0Y0RYZXBMV2ZYV0h2WXZfOHhrak0wTlU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4e348276d1d4",
       "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招 - 香港01",
       "published": "2026-09-30T08:53:34+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "新住民全球新聞網",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVBJTVhkcjk5STVzc0tUMWNITEdQbGpVdkRqSW53SUZvX2JjNGtQYXk4Wm9FMTB6T3h6MnBLeFh6anpWLS1Mb1dyTllvcUtPVTFmLXcwY0FVRU1mUjlNS0JFN1hMZWVEYjRKQ3JPV1lLRVZBQ2ZnbnVrX0RiWWpfR1dzNWNmdzY0ZHZzMWNSZEtSWFU3WXk5cm91bw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1dafaa3de24f",
+      "title": "美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例 - Taiwan News",
+      "published": "2026-10-01T08:28:00+00:00",
+      "summary": "美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan News賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元新聞網美國麻疹疫情創35年最慘 賓州出現第5起死亡病例 | 民視新聞網&nbsp;&nbsp;LINE TODAY【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例&nbsp;&nbsp;forecastock.tw",
+      "sources": [
+        {
+          "name": "Taiwan News",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CX3FyeVlGRzE0NWxieFhrMFJ2ZXhKZ01yeGFKZkI4bjJUZDNpeFMtWUxzZU5UWFdiX0VWcnZnRjF0Y0RYZXBMV2ZYV0h2WXZfOHhrak0wTlU?oc=5"
         }
       ]
     },
@@ -100,18 +100,6 @@
       ]
     },
     {
-      "id": "2a9e3fbfdb28",
-      "title": "成年後突然過敏？新冠、抗生素甚至蜱蟲或是誘因 - 新唐人電視台",
-      "published": "2026-09-30T10:31:00+00:00",
-      "summary": "成年後突然過敏？新冠、抗生素甚至蜱蟲或是誘因&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4WDU3YVdHaGUxZ2Z4akJ4NGNrdXNLZ0Y5T1laYUZBSGN3b0VGd0U5dkc3RFJ0dWtuLVMyck9iTWVYQW9uY1NQbFF4U2tkUUtQQ3dNOHRaX0xSYUk1cXJyVtIBZkFVX3lxTFBSaVpjdDg3LVdWQklncjlQc1M3TmNkMERxUjlkQmZFX19ERXp4MmJNQ1YxY0g2SXVqZzJMdlRyaFhtVm1JZjQxcnBXWTRxcWhFRTlWWUk2RElaVmx6UGVWVDhnaDJZZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1c138e552622",
       "title": "中國流感雙毒株流行 許多人中招哀嚎「快嘎了」 - 新唐人電視台",
       "published": "2026-09-29T21:33:00+00:00",
@@ -120,6 +108,18 @@
         {
           "name": "新唐人電視台",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zNTRMV1RFcUVNZnNaNkloR3A0UFU4LWQ3NGh2TUV2Y3k3eVB6cS1DSjZxcUtFUC0tekwyc2pySnNBeHhWUVNQYVlrTk56WmZXWXQ0elE2MUhFRlJkMjlkcNIBZkFVX3lxTE9UU1prelFGaVdJX3BmLURpX2lrSVNuZzdpX1lZU3QxYnFkTEh0VTJhRk1zUmNWZUZLUjl1OHMzQlJUb2hYWjg5X3VNbUtFRXdOMUs4TlMzajh1Z3dDQm9Wb2g4R0Njdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85e845fd73f8",
+      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因 - BBC",
+      "published": "2026-09-27T04:50:54+00:00",
+      "summary": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WmJiLW05RDd6Z3I1cl9qMmg4V0ZJWjJqRk5CRTZZUy1ZRDNpNktFbzhTb2lEUXk2LVR6YlAtaUhMV0x5SC1IMmZZVTBncHNyWVNxQmJJQjl3MGNWa1E2aVV5N2dIOE3SAWxBVV95cUxNdUJOT0ZQZzdEMDF5aVZKb2VuZlJyYlJvT2ZrR21ETWw4Y043WC1YQ0t4OVd1WmFON0c3YlJFeXFlZHU0cFQyckNudGl1MUJLUy11bzBFTXVHVFdtdVYxdlRuN0RLa1c3MjFfc0M?oc=5"
         }
       ]
     },
@@ -136,18 +136,6 @@
       ]
     },
     {
-      "id": "6e8594201202",
-      "title": "《ESG》新壽串聯視障團體 落實金融友善 - 中時新聞網",
-      "published": "2026-09-29T02:49:26+00:00",
-      "summary": "《ESG》新壽串聯視障團體 落實金融友善&nbsp;&nbsp;中時新聞網桃園串聯社企與企業合作 落實金融平權與身障就業&nbsp;&nbsp;中華新聞雲桃園 社會、企業雙軌 落實身障就業&nbsp;&nbsp;中時新聞網桃市府媒合社企深化企業ESG合作了解身心障礙者實際職場需求- 社會新聞&nbsp;&nbsp;PChome Online 新聞桃園青年局輔導社企與企業 推動金融平權與視障就業&nbsp;&nbsp;自由時報",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QSzk0VVFpb3RmYktPZFNPWHhuOWxpaGtzZjhvTVljU3hQSk5yNTBLazdaYktwUXR5bjhVV1E2VThJMHJ6V2NWM1E0QkJUem83MEpWZ29id3JWZ0stcjAxTzRaa2RGMHdLS3BsMFJB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2eae8c3c8df5",
       "title": "耶魯大學抗老研究，減緩生物衰老靠自律 - TechNews 科技新報",
       "published": "2026-09-29T02:15:58+00:00",
@@ -160,14 +148,14 @@
       ]
     },
     {
-      "id": "d78d6d1c51b8",
-      "title": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配 - 自由健康網",
-      "published": "2026-09-30T03:16:00+00:00",
-      "summary": "健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配&nbsp;&nbsp;自由健康網不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;三立新聞網SETN.com腫瘤科醫師推薦每天早餐吃「這1種食物」 堪稱防癌營養寶庫- 國際&nbsp;&nbsp;中時新聞網肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大紀元新聞網抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "261a131a6c58",
+      "title": "肺癌復發後走過10年 名醫分享抗癌生活 - 大紀元新聞網",
+      "published": "2026-09-26T17:00:00+00:00",
+      "summary": "肺癌復發後走過10年 名醫分享抗癌生活&nbsp;&nbsp;大紀元新聞網最強早餐！醫師推薦1食物穩血糖、抗發炎 搭配這類食材還抗癌&nbsp;&nbsp;Yahoo新聞健康網》不是吃雞蛋！ 腫瘤科醫師防癌早餐這樣配&nbsp;&nbsp;自由健康網不是雞蛋！腫瘤醫每天早餐吃「它」防癌&nbsp;&nbsp;health.setn.com大腸癌預防｜研究證每日吃夠50克全穀物降腸癌風險52%！攝取5原則&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fc1dmZmFMUjFSZFJHb1I1QXdQMzFVZ1FEM3RYQ2x1X1pkMTdCU2xqcjN0bnppNUJzLVNRbDd2MW1JSmxCSk5GV1o3UGdObnBMcFIwU2hINWFlN2c2eVB2WXU3c2g?oc=5"
+          "name": "大紀元新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5"
         }
       ]
     },
@@ -199,7 +187,7 @@
       "id": "b3cdd33969e7",
       "title": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％ - Yahoo新聞",
       "published": "2026-09-26T05:20:08+00:00",
-      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "大腸瘋長20顆息肉！醫師曝「改吃1種肉」息肉奇蹟全消、腸癌風險降12％&nbsp;&nbsp;Yahoo新聞不是鮭魚、鰻魚！50歲男狂長20顆大腸息肉、1顆已是原位癌，醫建議改吃「1種魚」： 竟一顆都沒了&nbsp;&nbsp;Storm.mg大腸「狂冒20顆↑息肉」險惡化變癌！醫教「改吃1物」腸鏡結果驚人&nbsp;&nbsp;health.ftvnews.com.tw【大腸狂長20顆息肉！醫教他「肉全換吃魚」 第5次追蹤全沒了】 （#大表哥）&nbsp;&nbsp;facebook.com大腸20顆息肉\"改吃魚\"竟全消?! 名醫\"忌吃這物\"抗大腸癌│中視新聞 20260927&nbsp;&nbsp;ctv.com.tw",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -244,18 +232,6 @@
       ]
     },
     {
-      "id": "6f3092dd7edb",
-      "title": "這家新創公司利用AI防範未來的AI大流行病 - 华尔街日报中文版",
-      "published": "2026-09-28T03:05:34+00:00",
-      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版AI 研發生化武器消滅人類？專家：比起末日幻想，現有病原體威脅性更高&nbsp;&nbsp;TechNews 科技新報真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "华尔街日报中文版",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOX0UtdjNsdDZrUDJ3OVBzdDJqOF93XzVyUmZ3VFoxOU9oNlFITVZSX1RCWmRSZkxhTG1udTlFblNpX2RvUXhHTkd3X3VIMXF5QlJpRHZLU1FjRVlGTHdmalBpUURVX2hZRVBPYlFnSTg5VUhmTVNaby10NjFkZEZfTUczVjJhM2NYVG5hcmpGMVlPb2hwYXZWUG1QeXl3OXRpZWNRbWVwVkI0b1pQTWVQX2pJLWNKaEZJWndkMHhnNzliNEpmbjA0WmYydjdSeHBKaGQyTGt6S3pLRGctWk1jazUzV1haUXJLb0FtdlZLZEs2cmtLMmlzclN6aElOVnpibGVkcFNaRHBnUmZRQW1hUFhJbG5WakVwODVOOEZsZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1aad05c318c0",
       "title": "老化可能與免疫系統失去「清潔力」有關？研究找到關鍵開關 | 科技新報 - LINE TODAY",
       "published": "2026-09-25T11:25:55+00:00",
@@ -264,6 +240,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FLVhrX05Yb2hWVVRJSHZxN2YzM0NndFU5bEFPOXJneDY4bFRscTlSMGZvMTFCREs1ckpVOFJoMjZmSEQ0OHVxMEZSWVQ1U0FETm13WG5n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f3092dd7edb",
+      "title": "這家新創公司利用AI防範未來的AI大流行病 - 华尔街日报中文版",
+      "published": "2026-09-28T03:05:34+00:00",
+      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版AI 研發生化武器消滅人類？專家：比起末日幻想，現有病原體威脅性更高&nbsp;&nbsp;TechNews 科技新報真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;cmoney.tw專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;cmoney.tw",
+      "sources": [
+        {
+          "name": "华尔街日报中文版",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOX0UtdjNsdDZrUDJ3OVBzdDJqOF93XzVyUmZ3VFoxOU9oNlFITVZSX1RCWmRSZkxhTG1udTlFblNpX2RvUXhHTkd3X3VIMXF5QlJpRHZLU1FjRVlGTHdmalBpUURVX2hZRVBPYlFnSTg5VUhmTVNaby10NjFkZEZfTUczVjJhM2NYVG5hcmpGMVlPb2hwYXZWUG1QeXl3OXRpZWNRbWVwVkI0b1pQTWVQX2pJLWNKaEZJWndkMHhnNzliNEpmbjA0WmYydjdSeHBKaGQyTGt6S3pLRGctWk1jazUzV1haUXJLb0FtdlZLZEs2cmtLMmlzclN6aElOVnpibGVkcFNaRHBnUmZRQW1hUFhJbG5WakVwODVOOEZsZw?oc=5"
         }
       ]
     },
@@ -300,6 +288,18 @@
         {
           "name": "商傳媒",
           "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOeERsZWZZbHY2ZnhoZGVXUFR2ZFBuYVZLNDJ6QWd2RHUtb3hOcEg2YndrbGxodUMxcXZ5Y0pBNjlIMm84d0locGZnVVdFQTc0YWVhcU5iUDNhT2FHSmV3eXNDeTlxVGVBcExnWk5nS0FHZkR6NnpEUGtTM3dYbVg2NmFZUGR5QXp5NEF5T0ZpTHM3d0xWQm82dFlLR3BuSlk4MVhKQVQ4ZnBIdEFxdHZFWjhvcFU5bmFzbXZxODMwb2lLRW9acEJCQXlXdVlGV25RazR1eG1oTlVwR0xmRU9qbHZ6THgzMzB5aHo5aEJXV2dMZXhDMWVGaGQwS2RpVUZ2MlF2Nk43SEdDX3g2dm5RT21aSWZEMUVIR1hhUXI1QV9wTjNLWGFHVEk2WnN6UUpRUldkb1VKTEh6N25lRjVtM2RBQWNrLWpaYjlTZVVTbEJaaGN6V2ZuTmdseXRrREcyWE4tblI3VXMxajR1TVB2OXdIcktpRnFNOUQxdDdQT0NKUWpfREJJQ1l2X08wOExPcnpyV29MQ1BpNlJDVnRDaVJKbGhUQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "409af382275f",
+      "title": "舊金山出現本流感季首例死亡| 舊金山即時| 舊金山 | 世界新聞網 - 世界新聞網",
+      "published": "2026-10-02T00:47:32+00:00",
+      "summary": "舊金山出現本流感季首例死亡| 舊金山即時| 舊金山 | 世界新聞網&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLX3VPMFZobjdVQ1lVaVVCQ0JqUTZmbWViZ2otZVAwc205dHhtTHhENG5KeTJDckdoVXRiLUFlMFM3ODd2SURyc0xlblNuZTdScy1ZZTVwMTFQWUFjcG82XzJ3?oc=5"
         }
       ]
     },
@@ -412,13 +412,13 @@
       ]
     },
     {
-      "id": "2eb8d1fe7f52",
-      "title": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關 - bastillepost.com",
+      "id": "051bd5370e0a",
+      "title": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關 - 巴士的報",
       "published": "2026-09-26T22:40:13+00:00",
-      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;bastillepost.com",
+      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQYzZrQVJHY0Z0cWJ6UGM0cExWbTlfamt4Rl9hRDVvRmFaejlvM2t4T2NYM0hyR0wzS3FBQnBDcG5FMDl4TUdNNDhjdHd5Mm8yQjZvUjIyNHFrRmh5aXQ4Z1g5V01rNGQ0dFhVVDFDV1dCYUg0Qmt1dkdlVzlFczBZT0l2cmdvMUk0a2FPUmlwLXRkY0UwQk9JRzlCcDNXVHNpMEFiZkFHTmJuUWZiRzVzOGFia29MMnFjaFpRY09ObWRMYUdtend6YlZLRUZxSXMtTGIzR0pzVlQ5Sm9waUVNSHkwTHBQdGxuTkVJczdCQXphTXJfeE01U3pDa18tekhNNnVqSDZ3X0tReUxMRmJmeDh1UTlwaXN3SWF6d2VCbGhCM1dHMmlZeENnU1cwRWlmd3BPMU00QjdJR1dMWUVWaEIxMzI4R050U0g5bTNfOEVXLTg5NjN5M1RNOW14SDdwem96NEY1T1lFd3d0Q2JoRw?oc=5"
         }
       ]
@@ -444,18 +444,6 @@
         {
           "name": "she.com",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbEJKSEFLeXplSkZJVk5ZYXlhbU5oR3hOb1B5Sk1rQlBqcU45MTMwTjB1WmF1NW9MdGd6aWplX0ptOXNmYnJYbTdhV0dna1kwOUNVU0hOMGpfdzJTU2Q3VTI5TkNaekpmSF9GVzJ1Y0MwZ2l4UFE1S0V5bFR5Rjk3aHJrVnR0ZlNlQ2pjaUFzOVZsSjZGMlhubDdQb2lwOWhuQXBTc3dUVFpqbFIxTHc0cVRTbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc072f8838a9",
-      "title": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛 - Yahoo新聞",
-      "published": "2026-09-25T00:04:12+00:00",
-      "summary": "腫瘤僅1公分竟已4期！60歲婦陪病意外驗出乳癌末期 這兩類乳癌最凶猛&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQUFJuT1RBVktUNGpwRTZDeTZqakVSTFhKUmhSZXhXRlZfa1pVUGhfMnptNDBYT0U4R3dsSDhydTZxOUtIZ3U1SF9SX0RaOVNtR0d5dDBqbkcxNW80UGM0eERxNFA3WnJyMFpYcVFaSnNBNW45bzB4MHZSVUpUOFIzWG5wTUI2SG9FVm50X3F3eWhLVndOSzUyY0dJeVphR3VhWFpINUp5UklXcGw5Ry15UElXdnJBbU9RMlVjVmo0NC04WUMxd1hwRWNyMk43SzQ2X0Zibm5EMEVfZkpWYlU3cGU2elpNOTgzZnFCQUZMVGZTaXcyS05HaTMzZHkydk9oNTNEeU4xU2tvRTVkd0dHYnNtVDV3d2pYc0RhVnMteUZMODZrLXE2NklpUzBWOU10d2FjWG5iVHRzOVRSWmtpZXdVWndfRlp6TFZBNml5cE5YYjZsZU1pV19Db3NmcGFkZGZMMnE2SGZpRmdWc2dMZDk2TURJRGRaRFJxcUR2Y1FhaXlKNllPb1lqUWVVTlZfMkQ5M0RXcG5PVEgwOHdDUGRHUC13eDk4dklj?oc=5"
         }
       ]
     },
@@ -520,13 +508,13 @@
       ]
     },
     {
-      "id": "04ce210a7952",
-      "title": "醫生推介兩款蔬菜「神級組合」營養高50倍！有效擊退脂肪肝 附最佳食法 - 星島頭條",
+      "id": "03a8dc2dfac8",
+      "title": "醫生推介兩款蔬菜「神級組合」營養高50倍！有效擊退脂肪肝 附最佳食法 - stheadline.com",
       "published": "2026-09-26T03:00:15+00:00",
-      "summary": "醫生推介兩款蔬菜「神級組合」營養高50倍！有效擊退脂肪肝 附最佳食法&nbsp;&nbsp;星島頭條",
+      "summary": "醫生推介兩款蔬菜「神級組合」營養高50倍！有效擊退脂肪肝 附最佳食法&nbsp;&nbsp;stheadline.com",
       "sources": [
         {
-          "name": "星島頭條",
+          "name": "stheadline.com",
           "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQMkNyT3ZyU1d0LXNOdFpHdU1yLWZNdDBoN2EwU0J4V01CMkxhNzFLZEFiUWx2UlVicWFZMEZ2SDd2X29TZzlhN0x2WWU1cUF1Vnk3UlpEYkVvOW5FeGNPMzYxUm1DYXoxT01ycUZlMTFoVWNYdzJZNmtuUnVXRTZRbjNMcGtqZmkyRmFtMnAtZ1NhN3c1MF95Q2pUOWNNdWFONXktcHRMUGZIbXpUMk9yeVNIRWFKcFE2WE1nU2RQelVIR1pYQktYaGVwV08tcEJUMERKeTZQRktESEhORHBfX1JPTWJRVTgwcEg2a0RSbGlDZEFmbEF6T0hFSHQxZ19XeHE4UkZqVEZNcU5oanVVTDYyWVNkOUVXMjZqcXRYZmg5LTVyWFlVdTFpZUZhcGZJMU1SeFJlOEhNa0xXOVJSbDRBb05aYWhwc09kSnhCRnRMQV96aHpOdHJzNmNKWXlPTl9QV2dhenBITXBJNDRDUEhuY0xZMWxBVXhVSUhiYjFRUGJCckQyVGtWSXZaZ1EwZG1Tamp5Q2NOUlpKSzR1QnRUdWY2MFZXVmFReldfaw?oc=5"
         }
       ]
