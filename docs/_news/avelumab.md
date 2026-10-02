@@ -44,11 +44,11 @@ permalink: /news/avelumab/
 
 ## 相關新聞（2 則）
 
-### [抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
+### [健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5)
 
-2026-09-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-10-02 <span class="news-indication-tag">皮蛇</span>
 
-來源: [topick.hket.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
+來源: [health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5)
 
 ---
 

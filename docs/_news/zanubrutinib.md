@@ -14,7 +14,7 @@ permalink: /news/zanubrutinib/
 ---
 
 <p class="key-answer" data-question="Zanubrutinib 有什麼相關新聞？">
-<strong>Zanubrutinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Zanubrutinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,13 @@ permalink: /news/zanubrutinib/
 <p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [40歲婦鼻竇炎惡化成急性血癌！忽略3大症狀拖足一年終確診 附8大血癌成因](https://news.google.com/rss/articles/CBMi1wNBVV95cUxNbGJfRnRQNUV0TDd3MFpxNS1SZzNYV1d5aHp0NDc4V2NiV2EtRVBGQ2JIcVpHc1Zfc1d0aW00QnFtMmFuamx2VVdTYTJxa2FzZ1NJai1NdjJuZmlIV3hJd3RDdU9Xa01raFY1eEowS0NFMG1Jdi1ydGJCNzVQWjlXZDZjZTJ5d05SVHJsbTdaOXN4OEtxcXZfUDByQ3VzM2tFZ2ZqcU93WkpPVWNLZDBibnRWQkR5SWxwYndQelJyTXp4Nmg2d0hobUx6S3ZVRzNCYlYyZ0sxbUNMdDJJOFFaVFVsbWduazVzWWdQUVU2ZVVPTTVWOVN0WEl2dHVCc3J3RlN4RFBqZ3FLa1MtWlJuNy1BMUg0a2dqU09uWFZDcmt5dGd6VjdsQ3M3bFZIZW1VVlF1N0thSUNQOGNjakFoOU9DMVh4NFdTekdQTXBKM3ZUY0d0aTB1eElWLXJ1aDNId3h1WEhGVEF4eE55MkVNTnpWWENQclFfcEF5UV9qamY3czA3SXFDcjZsbW0xRTItRkhNSnA0UDkzR2cwVEJfUEREQTh4TzJwcGUxX0NmZDhGdXpOSDVyRTA0SERDbEU2cnRUUnNjMm9PNDJnOGpmZThOXy0xbnfSAZIBQVVfeXFMTmxNVDItMlFFNWM4ZVlmcW90bkRaZzdvZkRLeDB3WXlTcXlVMFgtOTMxQnduTVlKUENZbTU0d1NfSnZYWGlyT1NFSUZneUo3TVFBaHdsUWVlWVdhWGwxN2MyblVTaFdidGZtSjJDeURKZUxIZmxxMkIwUHdiZ2l1azRTZUQ5S3NWSG9hWUphbmF4elE?oc=5)
 
 2026-10-02 <span class="news-indication-tag">血癌</span>
 
 來源: [singtao.ca](https://news.google.com/rss/articles/CBMi1wNBVV95cUxNbGJfRnRQNUV0TDd3MFpxNS1SZzNYV1d5aHp0NDc4V2NiV2EtRVBGQ2JIcVpHc1Zfc1d0aW00QnFtMmFuamx2VVdTYTJxa2FzZ1NJai1NdjJuZmlIV3hJd3RDdU9Xa01raFY1eEowS0NFMG1Jdi1ydGJCNzVQWjlXZDZjZTJ5d05SVHJsbTdaOXN4OEtxcXZfUDByQ3VzM2tFZ2ZqcU93WkpPVWNLZDBibnRWQkR5SWxwYndQelJyTXp4Nmg2d0hobUx6S3ZVRzNCYlYyZ0sxbUNMdDJJOFFaVFVsbWduazVzWWdQUVU2ZVVPTTVWOVN0WEl2dHVCc3J3RlN4RFBqZ3FLa1MtWlJuNy1BMUg0a2dqU09uWFZDcmt5dGd6VjdsQ3M3bFZIZW1VVlF1N0thSUNQOGNjakFoOU9DMVh4NFdTekdQTXBKM3ZUY0d0aTB1eElWLXJ1aDNId3h1WEhGVEF4eE55MkVNTnpWWENQclFfcEF5UV9qamY3czA3SXFDcjZsbW0xRTItRkhNSnA0UDkzR2cwVEJfUEREQTh4TzJwcGUxX0NmZDhGdXpOSDVyRTA0SERDbEU2cnRUUnNjMm9PNDJnOGpmZThOXy0xbnfSAZIBQVVfeXFMTmxNVDItMlFFNWM4ZVlmcW90bkRaZzdvZkRLeDB3WXlTcXlVMFgtOTMxQnduTVlKUENZbTU0d1NfSnZYWGlyT1NFSUZneUo3TVFBaHdsUWVlWVdhWGwxN2MyblVTaFdidGZtSjJDeURKZUxIZmxxMkIwUHdiZ2l1azRTZUQ5S3NWSG9hWUphbmF4elE?oc=5)
-
----
-
-### [抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
-
-2026-09-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [topick.hket.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
 
 ---
 
