@@ -22,6 +22,8 @@ permalink: /guide/
 - 使用頁面右上角的**搜尋功能**
 - 或從 [藥物列表](/drugs/) 瀏覽
 - 或依證據等級篩選：[高](/evidence-high/)．[中](/evidence-medium/)．[僅模型預測](/evidence-low/)
+- 手上只有試驗編號（NCT 開頭）：到[用 NCT 編號找藥](/nct-lookup/)
+- 看到外文藥名，想知道台灣有沒有上市、商品名叫什麼：到[台灣有沒有這個藥](/tw-availability/)
 
 ### 2. 查看證據等級
 
