@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
+
+2026-10-02 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [womenshealthmag.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
+
+---
+
+### [全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29%](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+
+2026-10-02 <span class="news-indication-tag">失智</span>
+
+來源: [womenshealthmag.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+
+---
 
 ### [更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
 
@@ -64,11 +80,27 @@ permalink: /news/gefitinib/
 
 ---
 
+### [抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
+
+2026-09-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [topick.hket.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
+
+---
+
 ### [大腦排毒功能失靈 恐為失智症根源](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源: [大紀元新聞網](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
+
+---
+
+### [李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
+
+2026-09-29 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
 
 ---
 
@@ -80,27 +112,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警](https://news.google.com/rss/articles/CBMipgNBVV95cUxOeERsZWZZbHY2ZnhoZGVXUFR2ZFBuYVZLNDJ6QWd2RHUtb3hOcEg2YndrbGxodUMxcXZ5Y0pBNjlIMm84d0locGZnVVdFQTc0YWVhcU5iUDNhT2FHSmV3eXNDeTlxVGVBcExnWk5nS0FHZkR6NnpEUGtTM3dYbVg2NmFZUGR5QXp5NEF5T0ZpTHM3d0xWQm82dFlLR3BuSlk4MVhKQVQ4ZnBIdEFxdHZFWjhvcFU5bmFzbXZxODMwb2lLRW9acEJCQXlXdVlGV25RazR1eG1oTlVwR0xmRU9qbHZ6THgzMzB5aHo5aEJXV2dMZXhDMWVGaGQwS2RpVUZ2MlF2Nk43SEdDX3g2dm5RT21aSWZEMUVIR1hhUXI1QV9wTjNLWGFHVEk2WnN6UUpRUldkb1VKTEh6N25lRjVtM2RBQWNrLWpaYjlTZVVTbEJaaGN6V2ZuTmdseXRrREcyWE4tblI3VXMxajR1TVB2OXdIcktpRnFNOUQxdDdQT0NKUWpfREJJQ1l2X08wOExPcnpyV29MQ1BpNlJDVnRDaVJKbGhUQQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMipgNBVV95cUxOeERsZWZZbHY2ZnhoZGVXUFR2ZFBuYVZLNDJ6QWd2RHUtb3hOcEg2YndrbGxodUMxcXZ5Y0pBNjlIMm84d0locGZnVVdFQTc0YWVhcU5iUDNhT2FHSmV3eXNDeTlxVGVBcExnWk5nS0FHZkR6NnpEUGtTM3dYbVg2NmFZUGR5QXp5NEF5T0ZpTHM3d0xWQm82dFlLR3BuSlk4MVhKQVQ4ZnBIdEFxdHZFWjhvcFU5bmFzbXZxODMwb2lLRW9acEJCQXlXdVlGV25RazR1eG1oTlVwR0xmRU9qbHZ6THgzMzB5aHo5aEJXV2dMZXhDMWVGaGQwS2RpVUZ2MlF2Nk43SEdDX3g2dm5RT21aSWZEMUVIR1hhUXI1QV9wTjNLWGFHVEk2WnN6UUpRUldkb1VKTEh6N25lRjVtM2RBQWNrLWpaYjlTZVVTbEJaaGN6V2ZuTmdseXRrREcyWE4tblI3VXMxajR1TVB2OXdIcktpRnFNOUQxdDdQT0NKUWpfREJJQ1l2X08wOExPcnpyV29MQ1BpNlJDVnRDaVJKbGhUQQ?oc=5)
-
----
-
 ### [不要再說沒空學外語！研究發現學新語言是大腦的「最強防毒軟體」，延緩阿茲海默症發病有奇效](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFJzbjg1RDcxOUZkcVl1eURRcHpJM01VMzNlank5M3VGVU1IZVZGb18yOGJpaXItd2wxbmh5TUtReFNUc2c0TTJ5dW1Oc1RkSU9fcWhsTmJIZXhWTnJMR1JtbGJVV2ZWLVJ3cTVpb1VjVXduc1V5S0JOR3ZORmhobXdGZjQ?oc=5)
 
 2026-09-28 <span class="news-indication-tag">阿茲海默症</span>
 
 來源: [T客邦](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFJzbjg1RDcxOUZkcVl1eURRcHpJM01VMzNlank5M3VGVU1IZVZGb18yOGJpaXItd2wxbmh5TUtReFNUc2c0TTJ5dW1Oc1RkSU9fcWhsTmJIZXhWTnJMR1JtbGJVV2ZWLVJ3cTVpb1VjVXduc1V5S0JOR3ZORmhobXdGZjQ?oc=5)
-
----
-
-### [肺癌復發後走過10年 名醫分享抗癌生活](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
-
-2026-09-26 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肺癌</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
 
 ---
 

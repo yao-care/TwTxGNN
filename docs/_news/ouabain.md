@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [醫界籲年輕世代重視心臟病風險 不良習慣恐埋下病根](https://news.google.com/rss/articles/CBMi9gJBVV95cUxOMW5QZkFUREhpSU1NcENsZlJQc1RSaTdMN2cxd2FoeXZ6M1U2RTlEbnAyWWJ5ajFKUjY0Y3FTRkw0Z3k0SzMwRkotajdGc0R3aU00dHhoejVmT3JpQW1pb0tpLWZ4RzdhWUcxQjJvRl8wSHFYZTRYWEdUT1hHbFhBb3UxclRod19DcFhZR0pfU3ZWOWhRM3o2ZHdXM3BmRlp0U2E3aGxhV3pOc2dYdHltYkJTb3BFYUxJdHYtS0RlZ1JpRTU3V2h0czE4ZnFGSGJvWmtDbWtHbUUwTmpoRm9IaWdaMk5rNFdMYjN2UEZKQmVmVFBaV2dUNXJXeFFNay01NldqbXc4TkZBTFNHUUhqdjFRZnNzUlNOUk4tNnpONHVSMm1WZGNzTFdRYjBXUnZ5RUN4cnBJSnhUSUwxSXBjZHlrMEtkNDUzRVZhZnpNLVNUelU3WERBRE1Za3hucEotanI0dDVhRmFlczBNV0xyQkhQUWRyUQ?oc=5)
-
-2026-09-28 <span class="news-indication-tag">心臟病</span>
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMi9gJBVV95cUxOMW5QZkFUREhpSU1NcENsZlJQc1RSaTdMN2cxd2FoeXZ6M1U2RTlEbnAyWWJ5ajFKUjY0Y3FTRkw0Z3k0SzMwRkotajdGc0R3aU00dHhoejVmT3JpQW1pb0tpLWZ4RzdhWUcxQjJvRl8wSHFYZTRYWEdUT1hHbFhBb3UxclRod19DcFhZR0pfU3ZWOWhRM3o2ZHdXM3BmRlp0U2E3aGxhV3pOc2dYdHltYkJTb3BFYUxJdHYtS0RlZ1JpRTU3V2h0czE4ZnFGSGJvWmtDbWtHbUUwTmpoRm9IaWdaMk5rNFdMYjN2UEZKQmVmVFBaV2dUNXJXeFFNay01NldqbXc4TkZBTFNHUUhqdjFRZnNzUlNOUk4tNnpONHVSMm1WZGNzTFdRYjBXUnZ5RUN4cnBJSnhUSUwxSXBjZHlrMEtkNDUzRVZhZnpNLVNUelU3WERBRE1Za3hucEotanI0dDVhRmFlczBNV0xyQkhQUWRyUQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [戴口罩致命陷阱｜除低摺埋恐吸微塑膠入血管！專家警告1動作增心肌梗塞風險 - UHK 港生活](https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeFhQVUUxeU9hOXRVQmtGSzY3OGVhdWdCVjV3WWFVTHp1S0x0SGo1Zk9BbnRSWWc3VUpfYnh6LVZ6enJfZzk5S21vQlVKZUdKd1pQeHBkZzBqdWVjRUdXN0pWQmN0UEZfUVo0U0tTVmZQOEdGM0lEdUJ1Nk0xbzFMLTVfUWlFcEQwcFdadFhnWVQ0TEYzRWpSNTZ3TnRFeWlnZUlLWFBWVnVsMzJBWjBoZVcxZ1ZkbDBMbmJkZmRWeVptb1ZmZVBzUkdVXzI3RjRqX0FXc0NzRmhPR193dGNHVjVIWEo1OW90US1YRmp2R1h6N1FuWm5oT1ZFT18zZnVtbUhjbFpnLXN1VDNGSlNFU2t1QTd2SlNVYnlyQjhqYnRWbF9OdmJibEZkZENYY3NwWVJKQklZWlo0S0lJSzc5QlpHYzN5amRoTVpYS3U4V0kyR0UxWUt3ZFg3VmVQN2RlcUE?oc=5)
 

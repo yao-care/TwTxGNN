@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腸癌 (colonic neoplasm) 相關新聞"
+title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腸癌 (colonic neoplasm) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
-# 腸癌 (colonic neoplasm) 相關新聞
+# 大腸癌 (colonic neoplasm) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>腸癌 (colonic neoplasm)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,21 +29,13 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [超車黃豆醫激推1種豆甩脂、防腸癌堪稱超級食物- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmWlZtamVBRDBKTUgzLUIySVVucmVjZDhGWEllUm5pbmFxaHd1ZGI4V1huejM0RHdPYklUYnhrbnZzUi1XNkZ0eFFod2REYnlRc0s4cm5YM3hWZ3RjTFdWMVRlMTV6MzVkb0FWMkhn?oc=5)
+### [抗癌早餐｜腫瘤科醫生首選「防癌早餐」 每日1碗抗炎護腸甜鹹搭配皆可【附推薦2食譜增強抗癌力】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
 
-2026-10-01
+2026-09-29
 
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBmWlZtamVBRDBKTUgzLUIySVVucmVjZDhGWEllUm5pbmFxaHd1ZGI4V1huejM0RHdPYklUYnhrbnZzUi1XNkZ0eFFod2REYnlRc0s4cm5YM3hWZ3RjTFdWMVRlMTV6MzVkb0FWMkhn?oc=5)
-
----
-
-### [肺癌復發後走過10年 名醫分享抗癌生活](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
-
-2026-09-26
-
-來源: [大紀元新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yNjI1b01PTDhqQUkxV3EzR3VuVWxoS1gtOXhIM2tvYWVvcHVncDVDM0RUdlFYMDNXS2FrdGhfRWhpeUlCY0RJRTlFQnZ4ZmtLb3JQNlhtXzFjTGJRTEprNtIBZkFVX3lxTFA2Y2pYUE5MWmZBUllqaDZXUUJVN0w2R21MbjI0Y2FFR1ZJOXhXTndaRVhsdTlWVUlodV8yVk5HWXd1bV9ObV8wR0VDVmVWX2x0bmZmdHdYTW9Qb2lkWkxwbXZmLURmQQ?oc=5)
+來源: [topick.hket.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVGM3TUVkZk1Qb2haUVlwNnRyQmlCNmNsRmVZRTRUal96dkdCNlI5TmZhSW9WTGkxQmRERm5OMmxDbHFqOFFnWjA2MW82QlRrVGc?oc=5)
 
 ---
 
