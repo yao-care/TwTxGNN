@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
-
-2026-10-01 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
 

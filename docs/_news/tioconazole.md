@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,9 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
-
-2026-10-01 <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

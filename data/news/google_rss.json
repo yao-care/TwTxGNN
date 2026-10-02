@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-02T19:40:23.725884+00:00",
-  "count": 45,
+  "fetched_at": "2026-10-02T23:25:58.373726+00:00",
+  "count": 44,
   "news": [
     {
       "id": "ea1e533768b3",
@@ -52,13 +52,13 @@
       ]
     },
     {
-      "id": "07fd3764a778",
-      "title": "大腸桿菌餓到快死時會出現類似「性」的 DNA 交換？ISTA 實驗室：頻率是自發突變的 100 倍以上 - 明日科學",
+      "id": "81382d70b139",
+      "title": "大腸桿菌餓到快死時會出現類似「性」的 DNA 交換？ISTA 實驗室：頻率是自發突變的 100 倍以上 - tomorrowsci.com",
       "published": "2026-10-02T06:59:53+00:00",
-      "summary": "大腸桿菌餓到快死時會出現類似「性」的 DNA 交換？ISTA 實驗室：頻率是自發突變的 100 倍以上&nbsp;&nbsp;明日科學",
+      "summary": "大腸桿菌餓到快死時會出現類似「性」的 DNA 交換？ISTA 實驗室：頻率是自發突變的 100 倍以上&nbsp;&nbsp;tomorrowsci.com",
       "sources": [
         {
-          "name": "明日科學",
+          "name": "tomorrowsci.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjdS1jNDNiemFGa2pmUVpuVGNaOUExT0pQUUQ4c19QVFdXb3oyUDMxMlFsVjhZcW9Qa1pJRk9mVGpDS2NCOXNvMGVJY1p2TXBtaVc2MjF3YXhnVzlaaGNN?oc=5"
         }
       ]
@@ -100,13 +100,25 @@
       ]
     },
     {
-      "id": "0bd2effede27",
-      "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？ - 幸福熟齡",
-      "published": "2026-09-30T06:12:00+00:00",
-      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;幸福熟齡",
+      "id": "1838d60b1406",
+      "title": "佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案 - bastillepost.com",
+      "published": "2026-10-02T19:57:03+00:00",
+      "summary": "佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;bastillepost.com美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News美國佛州登革熱病例激增 三縣宣布緊急狀態&nbsp;&nbsp;大紀元新聞網美國佛州登革熱病例激增 三縣進入緊急狀態&nbsp;&nbsp;新唐人電視台",
       "sources": [
         {
-          "name": "幸福熟齡",
+          "name": "bastillepost.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOdEp4R09oRWVEQ3dvSHM0TzRvaTJoSWYyVElOUGdDWkJNX1VvdVBUZWQ2VlBuaHgtcXBBX2k5QjdMQnE5M3VSeVZrU2ptRVJPSEgwOF9FTzlnTWRGYUMxcjJMM2c4MXFSbVoyMzZFbHgxRndUa3BCT3Q1YlgyTmd2UXRPcFdoNW5TZnRweGJwNkpwODlnV0xzVEg5cVR4Sm5aVXFZaG5KMEhnSHNZcVZOaFAtbER4MGZfS3hnUGlTSmphVHhkVlRud0huUHpZSkR4RWs1QnRjQmd5MFFWR3dNR0dfbXNaTGc2c2hnUVIxTDlnUi13ZWFWNUhTaTNSZTJGT3ZiYmxvamhNVWpPWlVyVUxtVGV6R3VEczJfaHprdXdjY0NnZTlFbEZ4Z2JWeXdnV1BiQnVhbHo1T1MxWTAzNTRRNzE0TTVYdDBmLS04dkN0V1lLdnZ1Q2w4R0NibFNnOW9JVEZiZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a1ff4c14c180",
+      "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？ - thebetteraging.businesstoday.com.tw",
+      "published": "2026-09-30T06:12:00+00:00",
+      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;thebetteraging.businesstoday.com.tw",
+      "sources": [
+        {
+          "name": "thebetteraging.businesstoday.com.tw",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xRVJrVFB2NDltMTc4eFU4ZzdMQVJ3VlJWMFA5ZVpyNmFVcmdQYVpncVBjUzlYWEZOQWw5Y0w1NGdPLVB1UzlYbXJGbGV0VXRWLXdlczZpUU91TjREZjZ6VjItcF9Yc3lQLTlxZ0puUmxwSmpMZUNrZm1INA?oc=5"
         }
       ]
@@ -184,18 +196,6 @@
       ]
     },
     {
-      "id": "85e845fd73f8",
-      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因 - BBC",
-      "published": "2026-09-27T04:50:54+00:00",
-      "summary": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WmJiLW05RDd6Z3I1cl9qMmg4V0ZJWjJqRk5CRTZZUy1ZRDNpNktFbzhTb2lEUXk2LVR6YlAtaUhMV0x5SC1IMmZZVTBncHNyWVNxQmJJQjl3MGNWa1E2aVV5N2dIOE3SAWxBVV95cUxNdUJOT0ZQZzdEMDF5aVZKb2VuZlJyYlJvT2ZrR21ETWw4Y043WC1YQ0t4OVd1WmFON0c3YlJFeXFlZHU0cFQyckNudGl1MUJLUy11bzBFTXVHVFdtdVYxdlRuN0RLa1c3MjFfc0M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5abdf30bf7fc",
       "title": "印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰 - yesmedia.com.tw",
       "published": "2026-09-28T11:16:56+00:00",
@@ -216,6 +216,18 @@
         {
           "name": "住展雜誌",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JRU9rRXJvOVppMC1XcFJyS3RtajRYd2JfWmxoSjdKdlYyM0NTWG5GNmczaWpxb1pLQmI0UnB1OUZNY29ReFpaaHRYMU16RVdER1E0VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85e845fd73f8",
+      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因 - BBC",
+      "published": "2026-09-27T04:50:54+00:00",
+      "summary": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WmJiLW05RDd6Z3I1cl9qMmg4V0ZJWjJqRk5CRTZZUy1ZRDNpNktFbzhTb2lEUXk2LVR6YlAtaUhMV0x5SC1IMmZZVTBncHNyWVNxQmJJQjl3MGNWa1E2aVV5N2dIOE3SAWxBVV95cUxNdUJOT0ZQZzdEMDF5aVZKb2VuZlJyYlJvT2ZrR21ETWw4Y043WC1YQ0t4OVd1WmFON0c3YlJFeXFlZHU0cFQyckNudGl1MUJLUy11bzBFTXVHVFdtdVYxdlRuN0RLa1c3MjFfc0M?oc=5"
         }
       ]
     },
@@ -247,23 +259,11 @@
       "id": "6f3092dd7edb",
       "title": "這家新創公司利用AI防範未來的AI大流行病 - 华尔街日报中文版",
       "published": "2026-09-28T03:05:34+00:00",
-      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版AI 研發生化武器消滅人類？專家：比起末日幻想，現有病原體威脅性更高&nbsp;&nbsp;TechNews 科技新報真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
+      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版AI 研發生化武器消滅人類？專家：比起末日幻想，現有病原體威脅性更高&nbsp;&nbsp;TechNews 科技新報真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;exmoo.com劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "华尔街日报中文版",
           "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOX0UtdjNsdDZrUDJ3OVBzdDJqOF93XzVyUmZ3VFoxOU9oNlFITVZSX1RCWmRSZkxhTG1udTlFblNpX2RvUXhHTkd3X3VIMXF5QlJpRHZLU1FjRVlGTHdmalBpUURVX2hZRVBPYlFnSTg5VUhmTVNaby10NjFkZEZfTUczVjJhM2NYVG5hcmpGMVlPb2hwYXZWUG1QeXl3OXRpZWNRbWVwVkI0b1pQTWVQX2pJLWNKaEZJWndkMHhnNzliNEpmbjA0WmYydjdSeHBKaGQyTGt6S3pLRGctWk1jazUzV1haUXJLb0FtdlZLZEs2cmtLMmlzclN6aElOVnpibGVkcFNaRHBnUmZRQW1hUFhJbG5WakVwODVOOEZsZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2f0e410940ed",
-      "title": "美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態 - Taiwan News",
-      "published": "2026-09-30T02:49:00+00:00",
-      "summary": "美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvaDQ5SlAxdWJYakVVRHBNdTBnUFJ1aDIxUDBxTlZjbU1vT0JseDc1Mnpqc0p4aVEya0J6b2wwTTQ2R1BsZnZqREQ0UHFmcTEyUXliYlY3bzU?oc=5"
         }
       ]
     },
@@ -280,37 +280,37 @@
       ]
     },
     {
-      "id": "8d3e59840863",
-      "title": "【灣區新聞】舊金山出現今季首宗流感死亡個案 - KTSF.com",
+      "id": "4a385348fd4b",
+      "title": "【灣區新聞】舊金山出現今季首宗流感死亡個案 - ktsf.com",
       "published": "2026-10-02T14:11:53+00:00",
-      "summary": "【灣區新聞】舊金山出現今季首宗流感死亡個案&nbsp;&nbsp;KTSF.com",
+      "summary": "【灣區新聞】舊金山出現今季首宗流感死亡個案&nbsp;&nbsp;ktsf.com",
       "sources": [
         {
-          "name": "KTSF.com",
+          "name": "ktsf.com",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aVnU5cnM1ZzV2anNTOThtTVptempILWQtU09ULXlNOWdtYTRXdlctZTVyVUt4aFF5NkNYZmdLRlI3cjdPdHhFeE9ZOFlCbTRqelRTWC1xNjZLZVNheTJEd1Y4TktwZzJIX2JHSTN6ZWRBTy1SeHc0QUhBQ2R1QQ?oc=5"
         }
       ]
     },
     {
-      "id": "6ab52d3f5d6f",
-      "title": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - Women's Health",
+      "id": "c7e1f3567658",
+      "title": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - womenshealthmag.com",
       "published": "2026-10-02T04:24:47+00:00",
-      "summary": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？&nbsp;&nbsp;Women's Health",
+      "summary": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？&nbsp;&nbsp;womenshealthmag.com",
       "sources": [
         {
-          "name": "Women's Health",
+          "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5"
         }
       ]
     },
     {
-      "id": "4712f7c72edc",
-      "title": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health",
+      "id": "98445965532b",
+      "title": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - womenshealthmag.com",
       "published": "2026-10-02T05:48:56+00:00",
-      "summary": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29%&nbsp;&nbsp;Women's Health",
+      "summary": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29%&nbsp;&nbsp;womenshealthmag.com",
       "sources": [
         {
-          "name": "Women's Health",
+          "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5"
         }
       ]
@@ -324,18 +324,6 @@
         {
           "name": "singtao.ca",
           "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxNbGJfRnRQNUV0TDd3MFpxNS1SZzNYV1d5aHp0NDc4V2NiV2EtRVBGQ2JIcVpHc1Zfc1d0aW00QnFtMmFuamx2VVdTYTJxa2FzZ1NJai1NdjJuZmlIV3hJd3RDdU9Xa01raFY1eEowS0NFMG1Jdi1ydGJCNzVQWjlXZDZjZTJ5d05SVHJsbTdaOXN4OEtxcXZfUDByQ3VzM2tFZ2ZqcU93WkpPVWNLZDBibnRWQkR5SWxwYndQelJyTXp4Nmg2d0hobUx6S3ZVRzNCYlYyZ0sxbUNMdDJJOFFaVFVsbWduazVzWWdQUVU2ZVVPTTVWOVN0WEl2dHVCc3J3RlN4RFBqZ3FLa1MtWlJuNy1BMUg0a2dqU09uWFZDcmt5dGd6VjdsQ3M3bFZIZW1VVlF1N0thSUNQOGNjakFoOU9DMVh4NFdTekdQTXBKM3ZUY0d0aTB1eElWLXJ1aDNId3h1WEhGVEF4eE55MkVNTnpWWENQclFfcEF5UV9qamY3czA3SXFDcjZsbW0xRTItRkhNSnA0UDkzR2cwVEJfUEREQTh4TzJwcGUxX0NmZDhGdXpOSDVyRTA0SERDbEU2cnRUUnNjMm9PNDJnOGpmZThOXy0xbnfSAZIBQVVfeXFMTmxNVDItMlFFNWM4ZVlmcW90bkRaZzdvZkRLeDB3WXlTcXlVMFgtOTMxQnduTVlKUENZbTU0d1NfSnZYWGlyT1NFSUZneUo3TVFBaHdsUWVlWVdhWGwxN2MyblVTaFdidGZtSjJDeURKZUxIZmxxMkIwUHdiZ2l1azRTZUQ5S3NWSG9hWUphbmF4elE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "99ac5ca96ef9",
-      "title": "更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0",
-      "published": "2026-10-01T07:47:00+00:00",
-      "summary": "更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23%&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5"
         }
       ]
     },
@@ -364,13 +352,13 @@
       ]
     },
     {
-      "id": "051bd5370e0a",
-      "title": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關 - 巴士的報",
+      "id": "2eb8d1fe7f52",
+      "title": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關 - bastillepost.com",
       "published": "2026-09-26T22:40:13+00:00",
-      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;巴士的報",
+      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQYzZrQVJHY0Z0cWJ6UGM0cExWbTlfamt4Rl9hRDVvRmFaejlvM2t4T2NYM0hyR0wzS3FBQnBDcG5FMDl4TUdNNDhjdHd5Mm8yQjZvUjIyNHFrRmh5aXQ4Z1g5V01rNGQ0dFhVVDFDV1dCYUg0Qmt1dkdlVzlFczBZT0l2cmdvMUk0a2FPUmlwLXRkY0UwQk9JRzlCcDNXVHNpMEFiZkFHTmJuUWZiRzVzOGFia29MMnFjaFpRY09ObWRMYUdtend6YlZLRUZxSXMtTGIzR0pzVlQ5Sm9waUVNSHkwTHBQdGxuTkVJczdCQXphTXJfeE01U3pDa18tekhNNnVqSDZ3X0tReUxMRmJmeDh1UTlwaXN3SWF6d2VCbGhCM1dHMmlZeENnU1cwRWlmd3BPMU00QjdJR1dMWUVWaEIxMzI4R050U0g5bTNfOEVXLTg5NjN5M1RNOW14SDdwem96NEY1T1lFd3d0Q2JoRw?oc=5"
         }
       ]
@@ -460,13 +448,13 @@
       ]
     },
     {
-      "id": "c3d05e077730",
-      "title": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播 - paper.hket.com",
+      "id": "9e4bb4560a31",
+      "title": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播 - 香港經濟日報HKET",
       "published": "2026-09-28T16:09:15+00:00",
-      "summary": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播&nbsp;&nbsp;paper.hket.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "HIV「確診即日治療」接受度高 提早治療有助遏止愛滋病傳播&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "paper.hket.com",
+          "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZjZESDVlRHZjVUJkZzlJdVNsS2FLNUlQdnN4RGJHWXBMN01USUJZTHJhamYzbVFZR3JsMVR1UU9qbTM5TWFBNU5YSnBqMkQzQlIxVm95a1cxaVFHMDJHSks0R3UwSkwyY3JsWkdzdTA3TlFzZmRLNmU2RWI0VWtBQmNfWGlZek53UHhUdTBnaXF4QllfYWNLS1FVaVlNNUFibTItNE8xTTFTYm5CU3U3cVZTdlJlOXhISjZiZXVmRWdJM2k2elFJd3JSU1h4b2Q3VE9CbndGU3d3aWtxOTFLRWxBS1RDeWp6NFBrb0ZuT2txZkhuUlJmSHg3REMyQy1jT2JQc0tiREV4anU1N09STVJEYWtMQU5BSkpUVkpXVXNLSlRFeFB5dEpUdXdCTHdEeERnNkJyX0pCakNRa19ZSFAtZzU4Zk9vSFJWdXVmQXhHX3RTYngxR1hha2VEcGRia2F4V0VyekRqanVXVl85aXZLeVU1QTZOdTZrWEZfR25nY2F6?oc=5"
         }
       ]

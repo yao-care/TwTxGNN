@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-02T19:40:25.965183+00:00",
-  "count": 14,
+  "generated": "2026-10-02T23:26:00.409946+00:00",
+  "count": 13,
   "news": [
     {
       "id": "4150dd607cce",
@@ -27,12 +27,12 @@
       ]
     },
     {
-      "id": "4712f7c72edc",
-      "title": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health",
+      "id": "98445965532b",
+      "title": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29%",
       "published": "2026-10-02T05:48:56+00:00",
       "sources": [
         {
-          "name": "Women's Health",
+          "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5"
         }
       ],
@@ -75,12 +75,12 @@
       ]
     },
     {
-      "id": "6ab52d3f5d6f",
-      "title": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - Women's Health",
+      "id": "c7e1f3567658",
+      "title": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？",
       "published": "2026-10-02T04:24:47+00:00",
       "sources": [
         {
-          "name": "Women's Health",
+          "name": "womenshealthmag.com",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5"
         }
       ],
@@ -115,53 +115,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "99ac5ca96ef9",
-      "title": "更年期補荷爾蒙會失智？最新18萬人研究 抓緊「這年齡」失智風險降23% - TVBS 健康2.0",
-      "published": "2026-10-01T07:47:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBubjJTamVJdk1EZmFHZm15RzQ5cWxoZWZRWXlNTm5xWUxjV2tfVDNTVy1XSHA0SHFxcFVUbTFVTV9MVmFJbjRWWC1XN1ZGbkw1TXlr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
