@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智 (dementia) 相關新聞"
+title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。7 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智 (dementia) 相關新聞
+# 阿茲海默症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>7 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,21 +29,29 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
-### [全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+### [不是核桃！研究：「1食物」每週吃5次 阿茲海默症風險降27%](https://news.google.com/rss/articles/CBMizgJBVV95cUxOVklmREtkRFhTTmVKamVSQ2RfVXA3VFRfSG11VGpxNGVqSjJDWkMzZmxsOVl5YkRubmVZMlFSNWFobXVCTFFuX3hlSjFfSUJnc3Rqc2dQX2sxVzRxaGdDX2hiUFlrMUM4ZUJHTmJJYndqNE13anByTEJUOHA2R3JvdU1SZXIyRlJoRTRqbGtLVHA4RFJ3SWU0ZlE5ZFk2d2xtUTBuU21DbjE5OFpYaWxwU0MwOVhEU0ZCTWFEZEtRQ1JLZzAtN0ZNVnU5U2szenI5eUNEdldJazJ0bWp4Y3B1RjFUMU9rMmN2cEJ0SW9NVExpRm9RVVZlV3pDOHlnMmIzUXF0RTQza1Y0TnNxS0R4Z21lT0FoUFhxUnhPQll5TndKdE9DUUIyUjhHNG03bW0wX3lVUjFsSmtRWjdUUkIxUjZjWFlBY0g1elBsM2Fn?oc=5)
 
-2026-10-02
+2026-10-03
 
-來源: [Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMizgJBVV95cUxOVklmREtkRFhTTmVKamVSQ2RfVXA3VFRfSG11VGpxNGVqSjJDWkMzZmxsOVl5YkRubmVZMlFSNWFobXVCTFFuX3hlSjFfSUJnc3Rqc2dQX2sxVzRxaGdDX2hiUFlrMUM4ZUJHTmJJYndqNE13anByTEJUOHA2R3JvdU1SZXIyRlJoRTRqbGtLVHA4RFJ3SWU0ZlE5ZFk2d2xtUTBuU21DbjE5OFpYaWxwU0MwOVhEU0ZCTWFEZEtRQ1JLZzAtN0ZNVnU5U2szenI5eUNEdldJazJ0bWp4Y3B1RjFUMU9rMmN2cEJ0SW9NVExpRm9RVVZlV3pDOHlnMmIzUXF0RTQza1Y0TnNxS0R4Z21lT0FoUFhxUnhPQll5TndKdE9DUUIyUjhHNG03bW0wX3lVUjFsSmtRWjdUUkIxUjZjWFlBY0g1elBsM2Fn?oc=5)
 
 ---
 
-### [肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
+### [全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29%](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
 
 2026-10-02
 
-來源: [Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
+來源: [womenshealthmag.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+
+---
+
+### [肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
+
+2026-10-02
+
+來源: [womenshealthmag.com](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
 
 ---
 
@@ -51,7 +59,7 @@ permalink: /news/dementia/
 
 2026-09-30
 
-來源: [hk01.com](https://news.google.com/rss/articles/CBMitgNBVV95cUxNaEZoNkpGWWIzeVEtUGNQMjJOdUFfb1JmeExsdFFWcTdiakdQZkNvMzVPWVZWc2Q1LUVLVjhHcjZvQm9LTEVVZFJsM215TndoT0dTYTlrNFNxLXJBZ1RoMEhPU09lcURXS1RiZ1h1a0NWc3V5NV80WmhnekxSUGxXTkt6YmVWX21hbnpia3Q1X0g4anpIRWctc1dnYWZJTlo3VkpVRndQSXVhOHdpdVUwV1ROc1dWWHdENXI1dFN0blkzS3pQQWkxT1JnMS1NYTVRakViMUg4TFJHeWFaVjRXeEdCYWtVdS1meDBPZm5jZ2hycEdfYkVDVUhLYWo1TGZFMlBUN09tUEFYUm9EMGRxYkxMOFJDcE52bjVBcmw0RmtFbGQ4T0RjUUtNUHFDWUZNeEpmcjRrQ3E0bzI4ZGVoZWNpTllvd3JzV0YxdkFCXy1UemlYRkg2NUVsTlJ5bHRpbVN2cW5MNWJndWhtOWRZOXNtU2RVMDR2WV9vUnRYc1h4SjEwZ3JxenBCc1FjLUtmcmpkeWhlUTBjeE5VTEp6LUN4bW5qTnJfYUt0NjUtdmhzZWhrQVE?oc=5)
+來源: [香港01](https://news.google.com/rss/articles/CBMitgNBVV95cUxNaEZoNkpGWWIzeVEtUGNQMjJOdUFfb1JmeExsdFFWcTdiakdQZkNvMzVPWVZWc2Q1LUVLVjhHcjZvQm9LTEVVZFJsM215TndoT0dTYTlrNFNxLXJBZ1RoMEhPU09lcURXS1RiZ1h1a0NWc3V5NV80WmhnekxSUGxXTkt6YmVWX21hbnpia3Q1X0g4anpIRWctc1dnYWZJTlo3VkpVRndQSXVhOHdpdVUwV1ROc1dWWHdENXI1dFN0blkzS3pQQWkxT1JnMS1NYTVRakViMUg4TFJHeWFaVjRXeEdCYWtVdS1meDBPZm5jZ2hycEdfYkVDVUhLYWo1TGZFMlBUN09tUEFYUm9EMGRxYkxMOFJDcE52bjVBcmw0RmtFbGQ4T0RjUUtNUHFDWUZNeEpmcjRrQ3E0bzI4ZGVoZWNpTllvd3JzV0YxdkFCXy1UemlYRkg2NUVsTlJ5bHRpbVN2cW5MNWJndWhtOWRZOXNtU2RVMDR2WV9vUnRYc1h4SjEwZ3JxenBCc1FjLUtmcmpkeWhlUTBjeE5VTEp6LUN4bW5qTnJfYUt0NjUtdmhzZWhrQVE?oc=5)
 
 ---
 
@@ -75,7 +83,7 @@ permalink: /news/dementia/
 
 2026-09-28
 
-來源: [T客邦](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFJzbjg1RDcxOUZkcVl1eURRcHpJM01VMzNlank5M3VGVU1IZVZGb18yOGJpaXItd2wxbmh5TUtReFNUc2c0TTJ5dW1Oc1RkSU9fcWhsTmJIZXhWTnJMR1JtbGJVV2ZWLVJ3cTVpb1VjVXduc1V5S0JOR3ZORmhobXdGZjQ?oc=5)
+來源: [techbang.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFJzbjg1RDcxOUZkcVl1eURRcHpJM01VMzNlank5M3VGVU1IZVZGb18yOGJpaXItd2wxbmh5TUtReFNUc2c0TTJ5dW1Oc1RkSU9fcWhsTmJIZXhWTnJMR1JtbGJVV2ZWLVJ3cTVpb1VjVXduc1V5S0JOR3ZORmhobXdGZjQ?oc=5)
 
 ---
 
