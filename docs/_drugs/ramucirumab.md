@@ -46,14 +46,8 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 | TxGNN 預測分數 | 99.95% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 1 張 |
+| 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
-
-<!-- review:begin ramucirumab-license-count-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「許可證數／4 張」。TFDA 登載含 ramucirumab 的許可證共 1 張（衛部菌疫輸字第000999號）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end ramucirumab-license-count-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -71,9 +65,19 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部菌疫輸字第000999號 | 欣銳擇 注射劑 | 注射劑 | 胃癌、非小細胞肺癌、大腸直腸癌、肝細胞癌 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ramucirumab 的不重複許可證共 **1 張**：有效單方 1 張、有效複方 0 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛部菌疫輸字第000999號 | 欣銳擇 注射劑 | 注射劑 | 台灣禮來股份有限公司 | 2030/12/24 | 1.胃癌： (1)Ramucirumab併用paclitaxel適用於治療正接受或接受過fluoropyrimidine和platinum化學治療仍疾病惡化之晚期或轉移性胃腺癌(或… |
+
+<!-- tfda-licenses:end -->
 
 ## 細胞毒性
 
@@ -108,7 +112,7 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證數寫 4 張 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證數寫 4 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

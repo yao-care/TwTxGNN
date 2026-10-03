@@ -84,19 +84,24 @@ indication_count: 2
 
 ## 台灣上市資訊
 
-### 有效許可證
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-| 許可證字號 | 品名 | 適應症 | 效期 |
-|------------|------|--------|------|
-| 衛署藥輸字第024065號 | 視舒坦人工淚液點眼液 | 眼睛乾澀緩解 | 2029/09/08 |
-| 衛部藥輸字第027112號 | 視舒坦玻尿酸人工淚液 | 眼睛乾澀緩解 | 2027/07/29 |
-| 衛署藥輸字第023462號 | 腹樂疏口服懸液用粉劑 | 便秘治療 | 2027/06/11 |
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-<!-- review:begin polyethylene_glycol_400-forlax-peg4000-2026-10-03 -->
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Polyethylene Glycol 400 的不重複許可證共 **14 張**：有效單方 0 張、有效複方 3 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-> **查核加註（2026-10-03）**：「腹樂疏口服懸液用粉劑」（衛署藥輸字第023462號）主成分是聚乙二醇 4000（PEG 4000），不是本頁的 PEG 400；上方「原核准適應症」中的「便秘治療」也是來自這張許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
 
-<!-- review:end polyethylene_glycol_400-forlax-peg4000-2026-10-03 -->
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥輸字第024065號 | 視舒坦人工淚液點眼液 | POLYETHYLENE GLYCOL 400、PROPYLENE GLYCOL (EQ TO 1,2-DIHYDROX… | 點眼液劑 | 暫時緩解因眼睛乾澀所引起灼熱感與刺激感。 |
+| 衛署藥輸字第025042號 | “愛爾康法國廠”視舒坦單支裝人工淚液點眼液 | POLYETHYLENE GLYCOL 400、PROPYLENE GLYCOL | 點眼液劑 | 暫時緩解因眼睛乾澀所引起灼熱感與刺激感。 暫時緩解因配戴隱形眼鏡造成之不適。 |
+| 衛部藥輸字第027112號 | 視舒坦玻尿酸人工淚液點眼液 | POLYETHYLENE GLYCOL 400、PROPYLENE GLYCOL、HYALURONATE SODIUM… | 無菌眼用液劑 | 暫時緩解因眼睛乾澀所引起的灼熱感及刺激感。 |
+
+<details><summary><strong>已註銷</strong>（11 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第002725號</td><td>水溶性軟膏</td><td>POLYETHYLENE GLYCOL 400、POLYETHYLENE GLYCOL 4000</td><td>2013/10/15</td></tr><tr><td>內衛藥製字第003001號</td><td>聚乙烯二醇膏</td><td>POLYETHYLENE GLYCOL 4000、POLYETHYLENE GLYCOL 400</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第005043號</td><td>水溶性軟膏</td><td>POLYETHYLENE GLYCOL 400、POLYETHYLENE GLYCOL 4000</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第017155號</td><td>妥那膚藥膏</td><td>TOLNAFTATE、POLYETHYLENE GLYCOL 400、POLYETHYLENE GLYCOL 4000</td><td>2010/02/08</td></tr><tr><td>衛署藥輸字第007359號</td><td>密類維他糖衣錠</td><td>RIBOFLAVIN (VIT B2)、POVIDONE (EQ TO POLYVINYL PYRROLIDONE)(…</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第008036號</td><td>蘇兒別斯軟膏</td><td>POLYETHYLENE GLYCOL 4000、POLYETHYLENE GLYCOL 400</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第008778號</td><td>膚定寧抗生素紗布</td><td>LIQUID PARAFFIN (EQ TO LIQUID PETROLATUM)( EQ TO MINERAL OIL…</td><td>1993/04/15</td></tr><tr><td>衛署藥輸字第022220號</td><td>專業眼藥水－特殊配方</td><td>POLYETHYLENE GLYCOL 400、TETRAHYDROZOLINE HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第022590號</td><td>眼聖滋潤眼藥水</td><td>DEXTRAN 70、TETRAHYDROZOLINE HCL、POLYETHYLENE GLYCOL 400、POVI…</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第026035號</td><td>視舒坦人工淚液凝膠</td><td>PROPYLENE GLYCOL (EQ TO 1,2-DIHYDROXYPROPANE)(EQ TO 1,2-PROP…</td><td>2024/05/17</td></tr><tr><td>衛部藥輸字第027214號</td><td>"愛爾康新加坡廠"視舒坦人工淚液點眼液</td><td>PROPYLENE GLYCOL (EQ TO 1,2-DIHYDROXYPROPANE)(EQ TO 1,2-PROP…</td><td>2022/02/14</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ### 主要持證公司
 - 瑞士商愛爾康大藥廠股份有限公司台灣分公司
@@ -151,7 +156,7 @@ indication_count: 2
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「腹樂疏口服懸液用粉劑」列（主成分為 PEG 4000） | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「腹樂疏口服懸液用粉劑」列（主成分為 PEG 4000） | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

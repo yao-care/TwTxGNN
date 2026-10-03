@@ -44,14 +44,8 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 | TxGNN 預測分數 | 0.990（conjunctivitis） |
 | 證據等級 | L4（有歷史 PubMed 文獻） |
 | 台灣上市 | 所有許可證已註銷 |
-| 許可證數 | 40 張（全部已註銷） |
+| 許可證數 | 40 張（有效單方 0／有效複方 1／已註銷 39） |
 | 建議決策 | Hold |
-
-<!-- review:begin sulfamerazine-license-not-all-cancelled-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：資料集中複方許可證 衛署藥製字第027573號「聯邦鐵多拉三種磺胺錠」（sulfamethazine＋sulfamerazine＋sulfadiazine）並未列為已註銷，只是有效日期 2024/05/25 已過；其餘許可證均已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end sulfamerazine-license-not-all-cancelled-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -86,13 +80,22 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
-|---------|------|------|-----------|------|
-| 衛署藥輸字第000298號 | 磺胺甲嘧啶 | （粉） | 肺炎球菌、鏈球菌等感染症 | 已註銷 |
-| 衛署藥輸字第000225號 | 磺胺甲噠 | （粉） | 革蘭氏陽性菌及陰性菌感染症 | 已註銷 |
-| 衛署藥輸字第004278號 | 磺胺甲嘧啶 | （粉） | 磺胺劑 | 已註銷 |
-| 內衛藥輸字第002113號 | 消發米拉錚 | （粉） | 磺胺劑 | 已註銷 |
-| 衛署藥輸字第013906號 | 美拉磺胺粉劑 | （粉） | 磺胺劑 | 已註銷 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sulfamerazine 的不重複許可證共 **40 張**：有效單方 0 張、有效複方 1 張、已註銷 39 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第027573號 | "聯邦"鐵多拉三種磺胺錠 | SULFAMETHAZINE (SULFADIMIDINE)、SULFAMERAZINE、SULFADIAZINE | 錠劑 | 葡萄狀球菌、鏈鎖球菌、肺炎雙球菌、大腸菌、赤痢菌及綠膿菌引起感染症 |
+
+<details><summary><strong>已註銷</strong>（39 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第002472號</td><td>三合治炎片</td><td>SULFAMETHAZINE (SULFADIMIDINE)、SULFAMERAZINE、SULFADIAZINE</td><td>2013/10/15</td></tr><tr><td>內衛藥製字第003373號</td><td>複合磺胺錠</td><td>SULFATHIAZOLE、SULFAMERAZINE、SULFADIAZINE</td><td>2007/05/09</td></tr><tr><td>內衛藥製字第006799號</td><td>三磺胺片</td><td>SULFADIAZINE、SULFAMERAZINE、SULFAMETHAZINE (SULFADIMIDINE)</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第007330號</td><td>磺胺多利精片</td><td>SULFADIAZINE、SULFAMERAZINE、SULFATHIAZOLE</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第007751號</td><td>磺胺保利精顆粒</td><td>SULFADIAZINE、SULFATHIAZOLE、SULFAMERAZINE、SULFISOXAZOLE</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第009912號</td><td>胺氯素片</td><td>SULFATHIAZOLE、SULFAMERAZINE、SULFADIAZINE</td><td>1989/12/31</td></tr><tr><td>內衛藥製字第011129號</td><td>三磺片</td><td>SULFADIAZINE、SULFAMERAZINE、SULFAMETHAZINE (SULFADIMIDINE)</td><td>1989/11/21</td></tr><tr><td>內衛藥製字第012066號</td><td>立消寧膠囊</td><td>SULFATHIAZOLE、SULFAMERAZINE、SULFADIAZINE</td><td>2007/05/09</td></tr><tr><td>內衛藥製字第013670號</td><td>治消炎片</td><td>SULFAMERAZINE、SULFATHIAZOLE、BERBERINE HCL、SULFADIAZINE</td><td>2007/05/09</td></tr><tr><td>內衛藥製字第014459號</td><td>消炎片</td><td>BERBERINE HCL、SULFADIAZINE、TALC (FRENCH CHALK)、SULFATHIAZOLE…</td><td>2007/05/09</td></tr><tr><td>內衛藥製字第014867號</td><td>美美消炎片</td><td>BERBERINE HCL、SULFADIAZINE、SULFAMERAZINE、SULFATHIAZOLE</td><td>1998/03/16</td></tr><tr><td>內衛藥輸字第000554號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1985/08/28</td></tr><tr><td>內衛藥輸字第000560號</td><td>磺胺甲嘧啶鈉</td><td>SULFAMERAZINE SODIUM</td><td>1986/01/28</td></tr><tr><td>內衛藥輸字第001988號</td><td>消發米拉錚鈉</td><td>SULFAMERAZINE SODIUM</td><td>1986/06/04</td></tr><tr><td>內衛藥輸字第002113號</td><td>消發米拉錚</td><td>SULFAMERAZINE</td><td>1986/02/26</td></tr><tr><td>內衛藥輸字第003040號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1986/01/16</td></tr><tr><td>內衛藥輸字第003252號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1985/08/28</td></tr><tr><td>內衛藥輸字第004207號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1986/02/20</td></tr><tr><td>內衛藥輸字第004210號</td><td>磺胺甲嘧啶鈉</td><td>SULFAMERAZINE SODIUM</td><td>1986/05/12</td></tr><tr><td>內衛藥輸字第007097號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1986/07/14</td></tr><tr><td>內衛藥輸字第007103號</td><td>磺胺甲嘧啶鈉</td><td>SULFAMERAZINE SODIUM</td><td>1986/07/14</td></tr><tr><td>衛署藥製字第000380號</td><td>泛須如法控注射液</td><td>SULFAMERAZINE SODIUM、SULFADIAZINE SODIUM、SULFISOMIDINE SODIU…</td><td>1991/07/16</td></tr><tr><td>衛署藥製字第005533號</td><td>三磺胺錠</td><td>SULFADIAZINE、SULFATHIAZOLE、SULFAMERAZINE</td><td>2007/05/09</td></tr><tr><td>衛署藥製字第006509號</td><td>三磺懸浮液</td><td>SULFADIAZINE、SULFAMETHAZINE (SULFADIMIDINE)、SULFAMERAZINE</td><td>1992/12/10</td></tr><tr><td>衛署藥製字第033874號</td><td>泛須如法控注射液</td><td>SULFAMERAZINE SODIUM、SULFADIAZINE SODIUM、SULFISOMIDINE SODIU…</td><td>2000/08/04</td></tr><tr><td>衛署藥輸字第000225號</td><td>磺胺甲噠/</td><td>SULFAMERAZINE</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第000298號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第002114號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第004278號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第004570號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1993/08/12</td></tr><tr><td>衛署藥輸字第004870號</td><td>磺胺美拉純鈉鹽</td><td>SULFAMERAZINE SODIUM</td><td>1994/06/10</td></tr><tr><td>衛署藥輸字第010343號</td><td>磺胺甲嘧啶</td><td>SULFAMERAZINE</td><td>1992/01/17</td></tr><tr><td>衛署藥輸字第013906號</td><td>美拉磺胺粉劑</td><td>SULFAMERAZINE</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013908號</td><td>美拉磺胺粉劑</td><td>SULFAMERAZINE</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第014642號</td><td>美拉磺胺</td><td>SULFAMERAZINE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第014726號</td><td>美拉磺胺</td><td>SULFAMERAZINE SODIUM</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第014765號</td><td>美拉磺胺</td><td>SULFAMERAZINE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第014771號</td><td>美拉磺胺</td><td>SULFAMERAZINE</td><td>1993/08/12</td></tr><tr><td>衛署藥輸字第015043號</td><td>美拉磺胺鈉</td><td>SULFAMERAZINE SODIUM</td><td>1999/09/22</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **注意：所有 Sulfamerazine 相關許可證均已註銷，最後有效期多在 1990 年代前。**
 
@@ -135,7 +138,7 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 快速總覽「全部已註銷」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 快速總覽「全部已註銷」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-以下是根據 Evidence Pack 產生的完整評估報告：
-
----
-
 # Isosorbide mononitrate：從狹心症到多毛症
 
 ## 一句話總結
@@ -52,7 +48,7 @@ TxGNN 模型預測它可能對**多毛症 (Hypertrichosis)** 有效，
 | TxGNN 預測分數 | 99.995% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 6 張 |
+| 許可證數 | 30 張（有效單方 11／有效複方 0／已註銷 19） |
 | 建議決策 | Hold |
 
 <!-- review:begin isosorbide-mononitrate-hypertrichosis-rereview-2026-10-03 -->
@@ -93,12 +89,32 @@ TxGNN 模型預測它可能對**多毛症 (Hypertrichosis)** 有效，
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部藥陸輸字第000756號 | 單硝酸異山梨酯 | 原料藥結晶性粉末 | 預防狹心症發作。 |
-| 衛部藥輸字第026499號 | 稀硝酸異山梨酯 | （粉） | 預防狹心症之發作。 |
-| 衛部藥輸字第027723號 | 稀硝酸異山梨酯 | （粉） | 預防狹心症之發作。 |
-| 衛署藥輸字第024730號 | 愛心明持續性藥效錠 60 毫克 | 持續性藥效錠 | 預防狹心症發作。 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Isosorbide Mononitrate 的不重複許可證共 **30 張**：有效單方 11 張、有效複方 0 張、已註銷 19 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（11 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第031168號 | 愛速脈錠２０毫克（伊速必得） | 錠劑 | 東生華製藥股份有限公司 | 2028/12/21 | 預防狹心症之發作 |
+| 衛署藥製字第033999號 | "優良"優舒錠２０毫克（伊速必得） | 錠劑 | 優良化學製藥股份有限公司 | 2031/05/14 | 預防狹心症之發作。 |
+| 衛署藥製字第034312號 | "安成" 伊速必得錠40毫克 | 錠劑 | 保盛藥業股份有限公司 | 2026/09/09 | 預防狹心症之發作。 |
+| 衛署藥製字第043364號 | 冠欣錠２０公毫克 | 錠劑 | 健喬信元醫藥生技股份有限公司 | 2029/11/09 | 預防狹心症之發作。 |
+| 衛署藥製字第044597號 | 冠欣　持續性藥效錠４０毫克 | 持續性藥效錠 | 健喬信元醫藥生技股份有限公司 | 2031/08/20 | 預防狹心症發作。 |
+| 衛署藥製字第049018號 | 冠欣持續性藥效膜衣錠 60 毫克 | 持續性藥效膜衣錠 | 健喬信元醫藥生技股份有限公司 | 2027/09/12 | 預防狹心症發作。 |
+| 衛署藥製字第049372號 | 圓心 持續性藥效錠 60 毫克 | 持續性藥效錠 | 瑩碩生技醫藥股份有限公司 | 2028/04/18 | 預防狹心症發作。 |
+| 衛署藥製字第049514號 | “十全”愛彼脈持續性藥效膜衣錠 60 毫克 | 持續性藥效膜衣錠 | 十全實業股份有限公司 | 2028/06/18 | 預防狹心症發作。 |
+| 衛署藥製字第049522號 | 恩舒率持續性藥效錠 60 毫克 | 持續性藥效錠 | 永茂藥業股份有限公司 | 2028/06/20 | 預防狹心症發作。 |
+| 衛署藥輸字第020554號 | 寬心持續性藥效錠６０公絲 | 持續性藥效錠 | 裕利股份有限公司 | 2029/07/25 | 預防狹心症發作。 |
+| 衛部藥輸字第026499號 | 稀硝酸異山梨酯 | （粉） | 東譽興業股份有限公司 | 2030/02/06 | 預防狹心症之發作。 |
+
+<details><summary><strong>已註銷</strong>（19 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第011212號</td><td>愛舒脈錠20毫克</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2025/06/16</td></tr><tr><td>衛署藥輸字第011213號</td><td>愛舒脈錠４０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第016855號</td><td>益朗痛錠４０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2009/12/30</td></tr><tr><td>衛署藥輸字第016864號</td><td>益朗痛錠２０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2009/12/30</td></tr><tr><td>衛署藥輸字第017278號</td><td>平多克錠２０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>1992/10/15</td></tr><tr><td>衛署藥輸字第017405號</td><td>康汝欣持續性藥效錠６０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>1995/07/03</td></tr><tr><td>衛署藥輸字第017408號</td><td>康汝欣持續性藥效錠４０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>1997/03/17</td></tr><tr><td>衛署藥輸字第018594號</td><td>愛心錠－４０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第018595號</td><td>愛心錠２０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第018600號</td><td>舒心錠劑２０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第018904號</td><td>單硝酸伊速必得</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第018953號</td><td>循脈克錠２０公絲</td><td>ISOSORBIDE 5-MONONITRATE、LACTOSE (MILK SUGAR)</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第019111號</td><td>循脈克錠４０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第019423號</td><td>平多克錠２０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第021505號</td><td>康汝欣持續性藥效錠４０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2014/04/03</td></tr><tr><td>衛署藥輸字第022617號</td><td>樂心得持續性藥效錠６０公絲</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2022/07/04</td></tr><tr><td>衛署藥輸字第022812號</td><td>史達德愛舒脈錠２０毫克</td><td>ISOSORBIDE 5-MONONITRATE</td><td>2022/06/10</td></tr><tr><td>衛署藥輸字第024730號</td><td>愛心明持續性藥效錠 60 毫克</td><td>ISOSORBIDE-5-MONONITRATE/ LACTOSE BLEND 90/10</td><td>2017/01/06</td></tr><tr><td>衛部藥陸輸字第000756號</td><td>單硝酸異山梨酯</td><td>Isosorbide Mononitrate</td><td>2022/01/03</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

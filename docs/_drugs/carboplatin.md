@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市（為多種複方治療的一部分） |
-| 許可證數 | 多張（目前有效的單方注射液成品 3 張） |
+| 許可證數 | 16 張（有效單方 3／有效複方 0／已註銷 13） |
 | 建議決策 | Proceed with Guardrails |
 
 <!-- review:begin carboplatin-original-indication-2026-10-03 -->
@@ -54,12 +54,6 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 > **查核更正（2026-10-03）**：原寫「原適應症／HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等」。原文列的是 trastuzumab、pembrolizumab 等其他藥品許可證中與 carboplatin 併用的適應症；台灣有效的 carboplatin 許可證（衛署藥輸字第024074號佳鉑帝、第024804號爾定康、衛署藥製字第057314號杏輝剋鉑停）核准適應症都是「卵巢癌」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end carboplatin-original-indication-2026-10-03 -->
-
-<!-- review:begin carboplatin-tw-market-row-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「許可證數／多張（作為 Trastuzumab、Pembrolizumab 等藥物適應症的併用藥物）」。Carboplatin 在台灣有自己的單方注射液許可證，目前有效的成品 3 張（佳鉑帝、爾定康、杏輝剋鉑停），不是只以其他藥品適應症的併用藥物身分存在。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-tw-market-row-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -89,29 +83,24 @@ Carboplatin 在乳腺癌治療中的應用已有多項研究支持，尤其在�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥輸字第024074號 | 佳鉑帝靜脈注射液 | 注射液劑 | 卵巢癌 |
-| 衛署藥輸字第024804號 | 爾定康靜脈注射液 | 注射劑 | 卵巢癌 |
-| 衛署藥製字第057314號 | "杏輝"剋鉑停靜脈注射液10毫克/毫升 | 注射劑 | 卵巢癌 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin carboplatin-license-027591-a-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核更正（2026-10-03）**：原寫「衛部藥輸字第027591號／曲斯若凍晶注射劑150毫克／凍晶注射劑／與 docetaxel 及 carboplatin 併用之 HER2 陽性早期乳癌輔助療法」。衛部藥輸字第027591號在 TFDA 是 pitavastatin calcium 原料藥（匹伐他汀鈣），不是「曲斯若凍晶注射劑」，也不是 carboplatin；改列 carboplatin 的有效許可證衛署藥輸字第024074號。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Carboplatin 的不重複許可證共 **16 張**：有效單方 3 張、有效複方 0 張、已註銷 13 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end carboplatin-license-027591-a-2026-10-03 -->
+**有效・單方**（3 張）
 
-<!-- review:begin carboplatin-license-027591-b-2026-10-03 -->
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第057314號 | "杏輝"剋鉑停靜脈注射液10毫克/毫升 | 注射劑 | 杏輝藥品工業股份有限公司 | 2027/07/30 | 卵巢癌。 |
+| 衛署藥輸字第024074號 | 佳鉑帝靜脈注射液 | 注射液劑 | 台灣大昌華嘉股份有限公司 | 2029/09/29 | 卵巢癌。 |
+| 衛署藥輸字第024804號 | 爾定康靜脈注射液 | 注射劑 | 台灣費森尤斯卡比股份有限公司 | 2028/03/17 | 卵巢癌。 |
 
-> **查核更正（2026-10-03）**：原寫「衛署藥輸字第027591號／賀癌平皮下注射劑／皮下注射劑／與 docetaxel 及 carboplatin 併用之 HER2 陽性早期乳癌輔助療法」。TFDA 資料集查無衛署藥輸字第027591號；「賀癌平」是 trastuzumab，不是 carboplatin。改列 carboplatin 的有效許可證衛署藥輸字第024804號。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+<details><summary><strong>已註銷</strong>（13 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第017782號</td><td>佳鉑帝注射液</td><td>CARBOPLATIN、CARBOPLATIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第018696號</td><td>佳鉑帝凍晶注射劑</td><td>CARBOPLATIN、CARBOPLATIN、CARBOPLATIN</td><td>2008/12/22</td></tr><tr><td>衛署藥輸字第018768號</td><td>佳鉑帝注射液</td><td>CARBOPLATIN、WATER DISTILLED FOR INJECTION</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第020725號</td><td>卡伯拉丁注射液</td><td>CARBOPLATIN</td><td>1997/09/01</td></tr><tr><td>衛署藥輸字第020966號</td><td>克本瘤注射液</td><td>CARBOPLATIN</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第021047號</td><td>克本瘤注射液１０公絲/公撮</td><td>CARBOPLATIN</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第021701號</td><td>卡伯拉丁注射液</td><td>CARBOPLATIN</td><td>2022/09/22</td></tr><tr><td>衛署藥輸字第023368號</td><td>克鉑定 "立可用安全型注射液"</td><td>CARBOPLATIN</td><td>2022/06/30</td></tr><tr><td>衛署藥輸字第024591號</td><td>貝福卡鉑靜脈注射液10毫克/毫升</td><td>CARBOPLATIN</td><td>2014/04/08</td></tr><tr><td>衛署藥輸字第025626號</td><td>卡蒲鉑定"山德士"注射劑10毫克/毫升</td><td>CARBOPLATIN</td><td>2021/07/05</td></tr><tr><td>衛部藥輸字第026387號</td><td>艾鉑霆靜脈注射液10毫克/毫升</td><td>CARBOPLATIN</td><td>2026/08/12</td></tr><tr><td>衛部藥輸字第027083號</td><td>可鉑注射液10毫克/毫升</td><td>CARBOPLATIN</td><td>2026/02/02</td></tr><tr><td>衛部藥陸輸字第000936號</td><td>卡鉑定</td><td>Carboplatin</td><td>2026/06/03</td></tr></tbody></table></details>
 
-<!-- review:end carboplatin-license-027591-b-2026-10-03 -->
-
-<!-- review:begin carboplatin-license-028264-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「衛部藥輸字第028264號／吉舒達膜衣錠／膜衣錠／與 pemetrexed 及 carboplatin 併用之轉移性非鱗狀非小細胞肺癌第一線治療」。衛部藥輸字第028264號在 TFDA 是 vortioxetine hydrobromide 原料藥（渥挺思定氫溴酸鹽），不是「吉舒達」（pembrolizumab 為注射劑，沒有膜衣錠），也不是 carboplatin；改列 carboplatin 的有效許可證衛署藥製字第057314號。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-license-028264-2026-10-03 -->
+<!-- tfda-licenses:end -->
 
 ## 細胞毒性
 
@@ -156,10 +145,10 @@ Carboplatin 在乳腺癌治療中已有大量臨床試驗證據支持，尤其�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」列成 trastuzumab／pembrolizumab 等併用方案的適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 「許可證數」寫成其他藥品適應症中的併用藥物 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表「衛部藥輸字第027591號」列 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表「衛署藥輸字第027591號」列 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表「衛部藥輸字第028264號」列 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「許可證數」寫成其他藥品適應症中的併用藥物 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛部藥輸字第027591號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛署藥輸字第027591號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛部藥輸字第028264號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -69,6 +69,40 @@ class DrugEvidencePackGenerator:
                 return val
         return {"found": False, "records": []}
 
+    @classmethod
+    def _local_regulatory(cls, bundle) -> dict:
+        """台灣許可證的結構化摘要（2026-10-03 起）：張數＝不重複字號數，分單方／複方／已註銷，
+        全部列出、不截斷。LLM 只能引用這些欄位，許可證表由同步時的程式化區塊取代。"""
+        reg = cls._get_regulatory(bundle)
+        recs = reg.get("records", [])
+        seen, lics = set(), []
+        for r in recs:
+            lid = r.get("license_id", r.get("許可證字號", ""))
+            if not lid or lid in seen:
+                continue
+            seen.add(lid)
+            ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()]
+            status = r.get("license_status") or ("cancelled" if (r.get("status") or r.get("註銷狀態")) else "valid")
+            lics.append({
+                "license_number": lid,
+                "product_name_zh": r.get("brand_name_zh", r.get("中文品名", "")),
+                "dosage_form": r.get("dosage_form", r.get("劑型", "")),
+                "manufacturer": r.get("license_holder", r.get("製造廠", r.get("申請商", ""))),
+                "approved_indication_text": r.get("indication", r.get("適應症", "")),
+                "kind": r.get("kind") or ("single" if len(ings) <= 1 else "combo"),
+                "status": status,
+            })
+        valid = [x for x in lics if x["status"] == "valid"]
+        return {
+            "market_status": "Marketed" if valid else ("Cancelled only" if lics else "Not marketed"),
+            "total_licenses": len(lics),
+            "valid_single": sum(1 for x in valid if x["kind"] == "single"),
+            "valid_combo": sum(1 for x in valid if x["kind"] == "combo"),
+            "cancelled": len(lics) - len(valid),
+            "licenses": lics,
+            "_note": "許可證表與張數由程式產生；不要自行列字號或補列。",
+        }
+
     @staticmethod
     def _has_package_insert(bundle) -> dict:
         """Get package_insert data, handling bundles without it."""
@@ -216,19 +250,7 @@ class DrugEvidencePackGenerator:
                 "original_moa": drug.original_moa or "[Data Gap]",
             },
             "local_regulatory": {
-                "market_status": "Marketed" if self._get_regulatory(bundle).get("found") else "Not marketed",
-                "total_licenses": len(self._get_regulatory(bundle).get("records", [])),
-                "licenses": [
-                    {
-                        # Support both English and Chinese field names
-                        "license_number": r.get("license_id", r.get("許可證字號", "")),
-                        "product_name_zh": r.get("brand_name_zh", r.get("中文品名", "")),
-                        "dosage_form": r.get("dosage_form", r.get("劑型", "")),
-                        "manufacturer": r.get("license_holder", r.get("製造廠", r.get("申請商", ""))),
-                        "approved_indication_text": r.get("indication", r.get("適應症", "")),
-                    }
-                    for r in self._get_regulatory(bundle).get("records", [])[:5]  # Limit to 5 for readability
-                ],
+                **self._local_regulatory(bundle),
                 "dosage_forms_by_route": dosage_forms,
             },
             "safety": {

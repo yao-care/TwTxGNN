@@ -193,28 +193,29 @@ class TestTFDACollector:
         assert "dosage" in pkg
         assert "special_populations" in pkg
 
-    def test_limits_records_to_20(self, tmp_path):
-        """Should limit records to 20."""
-        # Create data with more than 20 records
+    def test_no_record_cap_and_distinct_ids(self, tmp_path):
+        """2026-10-03：不再截在 20 筆；同一字號重複多列只算一張。"""
         data = [
             {
                 "許可證字號": f"衛部藥製字第{i:06d}號",
                 "中文品名": f"測試藥品{i}",
                 "英文品名": f"Test Drug {i}",
-                "主成分略述": "TEST INGREDIENT",
+                "主成分略述": "TESTOLIDE HCL",
                 "適應症": "測試適應症",
             }
             for i in range(30)
         ]
+        data.append(dict(data[0]))  # 重複列
         data_file = tmp_path / "many_drugs.json"
         with open(data_file, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False)
 
         collector = TFDACollector(data_path=data_file)
-        result = collector.search("TEST")
+        result = collector.search("testolide")
 
-        assert len(result.data["records"]) == 20
+        assert len(result.data["records"]) == 30
         assert result.data["total_matches"] == 30
+        assert result.data["summary"]["valid_single"] == 30
 
     def test_get_by_license_id(self, tfda_data_file):
         """Should get record by license ID."""
@@ -260,13 +261,13 @@ class TestTFDACollector:
 
         assert result.query == {"drug": "warfarin", "disease": "af"}
 
-    def test_search_by_indication(self, tfda_data_file):
-        """Should find drugs by indication text."""
+    def test_indication_text_does_not_match_drug(self, tfda_data_file):
+        """2026-10-03：藥名查詢不再比對適應症全文（那會把「適應症提到某字」的別藥算成這個藥的證）。"""
         collector = TFDACollector(data_path=tfda_data_file)
         result = collector.search("血栓")
 
         assert result.success is True
-        assert result.data["found"] is True
+        assert result.data["found"] is False
 
     def test_handles_empty_fields(self, tmp_path):
         """Should handle records with empty fields."""

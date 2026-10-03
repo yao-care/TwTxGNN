@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 18 張 |
+| 許可證數 | 18 張（有效單方 1／有效複方 1／已註銷 16） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -74,9 +74,28 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥製字第009846號 | "人人"氫氧化鋁凝膠 | 內服凝膠劑 | 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Aluminum Oxide 的不重複許可證共 **18 張**：有效單方 1 張、有效複方 1 張、已註銷 16 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 內衛藥製字第009846號 | "人人"氫氧化鋁凝膠 | 內服凝膠劑 | 人人化學製藥股份有限公司 | 2029/12/31 | 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。 |
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥輸字第024482號 | 二矽酸鋁鎂 | ALUMINUM OXIDE (ALUMINA)、ALUMINUM MAGNESIUM SILICATE、SILICON… | （粉） | 制酸劑。 |
+
+<details><summary><strong>已註銷</strong>（16 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第027037號</td><td>氫氧鋁鎂碳酸鹽（碳酸氫氧鎂鋁水合物）</td><td>MAGNESIUM OXIDE、ALUMINUM OXIDE (ALUMINA)</td><td>2023/04/25</td></tr><tr><td>衛署藥製字第035499號</td><td>"生達" 滿佳敏凝膠</td><td>ALUMINUM OXIDE (ALUMINA)、MAGALMIN GEL、MAGNESIUM OXIDE</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第036028號</td><td>喜滿佳靈－愛（矽酸鎂鋁）</td><td>SILICON DIOXIDE (SILICA GEL)、ALUMINUM OXIDE (ALUMINA)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第036030號</td><td>喜滿佳靈（偏矽酸鎂鋁）</td><td>ALUMINUM OXIDE (ALUMINA)、SILICON DIOXIDE (SILICA GEL)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第037555號</td><td>氫氧化鋁碳酸鎂混合凝膠體</td><td>ALUMINUM OXIDE (ALUMINA)、MAGNESIUM OXIDE</td><td>2023/05/05</td></tr><tr><td>衛署藥製字第037636號</td><td>氫氧鋁鎂碳酸鹽凝膠（碳酸氫氧鋁鎂水合物凝膠）</td><td>ALUMINUM OXIDE (ALUMINA)、MAGNESIUM OXIDE</td><td>2023/04/19</td></tr><tr><td>衛署藥製字第039572號</td><td>雅美佳</td><td>ALUMINUM OXIDE (ALUMINA)、MAGNESIUM OXIDE、CALCIUM OXIDE</td><td>2016/06/06</td></tr><tr><td>衛署藥輸字第008908號</td><td>益胃元懸液</td><td>ALUMINUM OXIDE (BOEHMITE)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第015261號</td><td>氫氧化鋁膠細粒</td><td>ALUMINUM OXIDE (ALUMINA)</td><td>1993/08/03</td></tr><tr><td>衛署藥輸字第015304號</td><td>氫氧化鋁懸浮液</td><td>ALUMINUM OXIDE (ALUMINA)</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第015372號</td><td>鎂鋁氫氧化物複合劑</td><td>ALUMINUM OXIDE (ALUMINA)、MAGNESIUM HYDROXIDE</td><td>1991/04/10</td></tr><tr><td>衛署藥輸字第015392號</td><td>氫氧化鋁</td><td>ALUMINUM OXIDE (ALUMINA)</td><td>2006/09/25</td></tr><tr><td>衛署藥輸字第018444號</td><td>鎂鋁氫氧化物複合劑</td><td>ALUMINUM OXIDE (ALUMINA)、MAGNESIUM HYDROXIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第018615號</td><td>"富田" 二矽酸鋁鎂</td><td>ALUMINUM MAGNESIUM SILICATE、SILICON DIOXIDE (SILICA GEL)、ALU…</td><td>2017/04/12</td></tr><tr><td>衛署藥輸字第018980號</td><td>"寶亞" 雙羥鋁基尿囊素粉劑</td><td>ALUMINUM OXIDE (ALUMINA)、ALUMINUM DIHYDROXYALLANTOINATE (ALD…</td><td>2013/09/11</td></tr><tr><td>衛署藥輸字第R00053號</td><td>鎝－９９Ｍ孳生器</td><td>Radioactive sodium molybdate （99Mo）solution、Radioactive sodi…</td><td>2020/04/22</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 

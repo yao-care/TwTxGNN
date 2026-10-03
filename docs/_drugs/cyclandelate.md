@@ -53,7 +53,7 @@ TxGNN 模型共預測了 10 項潛在新適應症，其中**偏頭痛預防 (Mig
 | TxGNN 預測分數 | 99.69% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 42 張（有效單方 1／有效複方 0／已註銷 41） |
 | 建議決策 | Proceed with Guardrails |
 
 ### 全部預測適應症概覽
@@ -116,21 +116,22 @@ TxGNN 模型共預測了 10 項潛在新適應症，其中**偏頭痛預防 (Mig
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥製字第002324號 | 益寧膠囊 | 膠囊劑 | 末梢血管循環障礙 |
-| 內衛藥輸字第000909號 | 安保平膠囊 | 膠囊劑 | 腦、末梢血行障礙 |
-| 內衛藥輸字第006652號 | 杏仁酸三甲環已酯 | （粉） | 末稍血管擴張劑 |
-| 內衛藥製字第001567號 | 適通膠囊 | 膠囊劑 | 末梢血管循環障礙 |
-| 衛署藥製字第001045號 | 脈速朗膠囊 | 膠囊劑 | 末梢血管循環障礙 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin cyclandelate-tw-license-cancelled-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：依 TFDA 許可證資料，cyclandelate 目前只剩 1 張有效許可證（衛署藥製字第001045號「脈速朗膠囊」，適應症「末梢血管循環障礙」）；上表的益寧膠囊（2000-08-08）、安保平膠囊（1985-07-01）、杏仁酸三甲環已酯（1986-01-21）、適通膠囊（1989-05-29）都已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cyclandelate 的不重複許可證共 **42 張**：有效單方 1 張、有效複方 0 張、已註銷 41 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end cyclandelate-tw-license-cancelled-2026-10-03 -->
+**有效・單方**（1 張）
 
-（共 20 張許可證，以上列出代表性 5 張）
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第001045號 | 脈速朗膠囊 | 膠囊劑 | 新喜國際企業股份有限公司 | 2031/05/25 | 末梢血管循環障礙 |
+
+<details><summary><strong>已註銷</strong>（41 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第001567號</td><td>適通膠囊</td><td>CYCLANDELATE</td><td>1989/05/29</td></tr><tr><td>內衛藥製字第002324號</td><td>益寧膠囊</td><td>CYCLANDELATE</td><td>2000/08/08</td></tr><tr><td>內衛藥製字第016639號</td><td>循通膠囊</td><td>CYCLANDELATE</td><td>1988/07/19</td></tr><tr><td>內衛藥輸字第000909號</td><td>安保平膠囊</td><td>CYCLANDELATE</td><td>1985/07/01</td></tr><tr><td>內衛藥輸字第006652號</td><td>杏仁酸三甲環已酯</td><td>CYCLANDELATE</td><td>1986/01/21</td></tr><tr><td>衛署藥製字第003642號</td><td>佳泌朗膠囊</td><td>CYCLANDELATE</td><td>2010/02/08</td></tr><tr><td>衛署藥製字第003674號</td><td>迅通膠囊</td><td>CYCLANDELATE</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第005230號</td><td>杏仁酸三甲環己酯</td><td>CYCLANDELATE</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第006094號</td><td>助血脈膠囊</td><td>CYCLANDELATE</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第007707號</td><td>展脈能膠囊</td><td>CYCLANDELATE</td><td>2023/07/24</td></tr><tr><td>衛署藥製字第012877號</td><td>絡可舒膠囊</td><td>CYCLANDELATE</td><td>2009/12/30</td></tr><tr><td>衛署藥輸字第000540號</td><td>杏仁酸三甲環己酯</td><td>CYCLANDELATE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第000781號</td><td>怡杷瑯膠囊</td><td>CYCLANDELATE</td><td>1986/01/22</td></tr><tr><td>衛署藥輸字第000799號</td><td>杏仁酸三甲環己酯</td><td>CYCLANDELATE</td><td>1999/12/02</td></tr><tr><td>衛署藥輸字第001185號</td><td>杏仁酸三甲環己酯</td><td>CYCLANDELATE</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第001861號</td><td>理全朗膠囊</td><td>CYCLANDELATE</td><td>1987/03/24</td></tr><tr><td>衛署藥輸字第001989號</td><td>散血可朗膠囊</td><td>CYCLANDELATE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第002009號</td><td>杏仁酸３，３，５，三甲環乙酯</td><td>CYCLANDELATE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第002075號</td><td>三甲烷環六烷基</td><td>CYCLANDELATE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第003828號</td><td>敏納路</td><td>SODIUM PHOSPHATE DIBASIC (eq to DISOD. HYDROGEN PHOSPHATE) (…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第003852號</td><td>須固拉得膠囊</td><td>CYCLANDELATE</td><td>1986/07/11</td></tr><tr><td>衛署藥輸字第004048號</td><td>惠舒脈通膠囊</td><td>CYCLANDELATE</td><td>1991/03/28</td></tr><tr><td>衛署藥輸字第004196號</td><td>腦塞朗膠囊</td><td>CYCLANDELATE</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第004200號</td><td>塞固頑膠囊</td><td>CYCLANDELATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第004229號</td><td>脈能即補膠囊</td><td>CYCLANDELATE</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第004695號</td><td>斯克蘭膠囊</td><td>CYCLANDELATE</td><td>1988/08/19</td></tr><tr><td>衛署藥輸字第004761號</td><td>喜久樂得膠囊</td><td>CYCLANDELATE</td><td>1986/07/08</td></tr><tr><td>衛署藥輸字第005362號</td><td>希高累得膠囊</td><td>CYCLANDELATE</td><td>2009/12/30</td></tr><tr><td>衛署藥輸字第007653號</td><td>塞克迪拉特膠囊２００公絲</td><td>CYCLANDELATE</td><td>1986/07/08</td></tr><tr><td>衛署藥輸字第008572號</td><td>杏仁酸三甲環己脂</td><td>CYCLANDELATE</td><td>1985/04/18</td></tr><tr><td>衛署藥輸字第009219號</td><td>喜腦明膠囊</td><td>CYCLANDELATE</td><td>1986/11/17</td></tr><tr><td>衛署藥輸字第009222號</td><td>血流循多膠囊</td><td>CYCLANDELATE</td><td>1990/10/08</td></tr><tr><td>衛署藥輸字第009641號</td><td>康拉平膠囊</td><td>CYCLANDELATE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第011765號</td><td>舒可通糖衣錠</td><td>CYCLANDELATE</td><td>1988/11/10</td></tr><tr><td>衛署藥輸字第013390號</td><td>安知先</td><td>CYCLANDELATE</td><td>1992/01/09</td></tr><tr><td>衛署藥輸字第013411號</td><td>杏仁酸三甲環己脂粉劑</td><td>CYCLANDELATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第013552號</td><td>安保平膠囊</td><td>CYCLANDELATE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第014708號</td><td>塞可朗</td><td>CYCLANDELATE</td><td>1992/02/20</td></tr><tr><td>衛署藥輸字第015657號</td><td>塞可朗膠囊１００公絲</td><td>CYCLANDELATE</td><td>2013/11/26</td></tr><tr><td>衛署藥輸字第015845號</td><td>怡杷瑯膠囊</td><td>CYCLANDELATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第018868號</td><td>安知先膠囊</td><td>CYCLANDELATE</td><td>2004/12/23</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -158,7 +159,7 @@ TxGNN 模型共預測了 10 項潛在新適應症，其中**偏頭痛預防 (Mig
 **決策：Proceed with Guardrails**
 
 **理由：**
-Cyclandelate 用於偏頭痛預防已有 6 篇 RCT（含多中心、安慰劑對照及頭對頭比較研究），達 L1 證據等級；台灣有 20 張藥品許可證與完整供應鏈，法規與市場基礎成熟。主要疑慮在於最大規模 RCT（n=251，2001 年）主要終點未達統計顯著，需釐清有效劑量窗與適用族群，方能推進下一步。
+Cyclandelate 用於偏頭痛預防已有 6 篇 RCT（含多中心、安慰劑對照及頭對頭比較研究），達 L1 證據等級；台灣有 42 張藥品許可證（有效 1 張）與完整供應鏈，法規與市場基礎成熟。主要疑慮在於最大規模 RCT（n=251，2001 年）主要終點未達統計顯著，需釐清有效劑量窗與適用族群，方能推進下一步。
 
 **若要推進需要：**
 - 補充完整作用機轉資料（查詢 DrugBank API 取得 MOA）
@@ -175,7 +176,7 @@ Cyclandelate 用於偏頭痛預防已有 6 篇 RCT（含多中心、安慰劑對
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表 5 張中 4 張已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表 5 張中 4 張已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原核准用於腦循環及末梢血管循環障礙」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 預測理由「已核准用於腦循環障礙改善」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 

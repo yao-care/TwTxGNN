@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 | TxGNN 預測分數 | 99.10% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 27 張（部分已註銷） |
+| 許可證數 | 27 張（有效單方 4／有效複方 0／已註銷 23） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -69,11 +69,25 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第026664號 | 鹽酸阿西布特洛 | 粉劑 | Beta 交感神經遮斷劑 |
-| 衛署藥製字第041669號 | "生達" 舒爾心膜衣錠 400mg | 膜衣錠 | 高血壓、狹心症、心律不整 |
-| 衛署藥製字第047472號 | 順律膜衣錠 400mg | 膜衣錠 | 心律不整、狹心症、高血壓 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Acebutolol 的不重複許可證共 **27 張**：有效單方 4 張、有效複方 0 張、已註銷 23 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（4 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第041669號 | "生達" 舒爾心膜衣錠４００公絲（艾思布妥） | 膜衣錠 | 生達化學製藥股份有限公司 | 2027/10/28 | 高血壓、狹心症、心律不整、（心室性心律不整、上心室性心律不整）。 |
+| 衛署藥製字第042967號 | 心適錠４００公絲（艾思布妥）〝應元〞 | 錠劑 | 應元化學製藥股份有限公司 | 2029/05/20 | 高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）。 |
+| 衛署藥製字第047472號 | 順律膜衣錠400毫克 | 膜衣錠 | 盈盈生技製藥股份有限公司三峽廠 | 2025/08/08 | 心律不整(心室性心律不整、上心室性心律不整)、狹心症與高血壓。 |
+| 衛部藥輸字第026664號 | 鹽酸阿西布特洛 | （粉） | 新雙隆生技股份有限公司 | 2030/11/02 | Beta交感神經遮斷劑 |
+
+<details><summary><strong>已註銷</strong>（23 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第041627號</td><td>內外安賜妥錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2019/01/03</td></tr><tr><td>衛署藥製字第042342號</td><td>"壽元"心普膜衣錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2025/04/29</td></tr><tr><td>衛署藥製字第042343號</td><td>艾心樂錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2011/02/22</td></tr><tr><td>衛署藥製字第042909號</td><td>壓心平錠４００公絲（艾思布妥）〝永昌〞</td><td>ACEBUTOLOL HCL</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第042947號</td><td>"健亞"健特樂膜衣錠400毫克(艾思布妥)</td><td>ACEBUTOLOL HCL</td><td>2014/12/19</td></tr><tr><td>衛署藥製字第042999號</td><td>康心寧膜衣錠４００公絲（艾思布妥）〝溫士頓〞</td><td>ACEBUTOLOL HCL</td><td>2019/05/15</td></tr><tr><td>衛署藥製字第044081號</td><td>順舒德膠囊200毫克</td><td>ACEBUTOLOL HCL</td><td>2023/07/07</td></tr><tr><td>衛署藥輸字第005720號</td><td>心施德注射液</td><td>ACEBUTOLOL HCL</td><td>1999/07/19</td></tr><tr><td>衛署藥輸字第005721號</td><td>心施德膠囊１００公絲</td><td>ACEBUTOLOL (HCL)</td><td>2010/06/01</td></tr><tr><td>衛署藥輸字第006049號</td><td>心施德膜衣錠400毫克</td><td>ACEBUTOLOL HCL</td><td>2020/11/03</td></tr><tr><td>衛署藥輸字第010292號</td><td>普定心注射液</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第010304號</td><td>普定心膜衣錠２００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第010309號</td><td>普定心膜衣錠４００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第012673號</td><td>血平定錠</td><td>ACEBUTOLOL (HCL)、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOR…</td><td>1994/04/28</td></tr><tr><td>衛署藥輸字第017325號</td><td>普定心膜衣錠４００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第017326號</td><td>普定心注射液</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第017327號</td><td>普定心膜衣錠２００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第018296號</td><td>鹽酸阿西布特諾兒</td><td>ACEBUTOLOL HCL</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第021462號</td><td>鹽酸阿西布特諾</td><td>ACEBUTOLOL HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021552號</td><td>安心定膠囊１００公絲</td><td>ACEBUTOLOL (HCL)</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第022103號</td><td>舒心膜衣錠４００公絲</td><td>ACEBUTOLOL HCL</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第023148號</td><td>"莫伊士" 鹽酸阿西布特諾</td><td>ACEBUTOLOL HCL</td><td>2017/05/10</td></tr><tr><td>衛署藥輸字第023718號</td><td>艾思布妥鹽酸鹽</td><td>ACEBUTOLOL HCL</td><td>2011/11/29</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 

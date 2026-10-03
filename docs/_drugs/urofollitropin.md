@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-了解，txgnn-pipeline 技能主要針對模型訓練/部署流程，與本次報告生成任務不直接相關。現在根據系統提示的格式規範，直接依 Evidence Pack JSON 產生報告：
-
----
-
 # Urofollitropin：從不孕症到偏頭痛
 
 ## 一句話總結
@@ -52,14 +48,8 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 | TxGNN 預測分數 | 99.85% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 2 張（1 張已註銷） |
+| 許可證數 | 2 張（有效單方 1／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
-
-<!-- review:begin urofollitropin-license-count-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「許可證數／8 張」。TFDA 許可證資料集中含 urofollitropin 的許可證只有 2 張：衛署藥輸字第025574號「保孕威凍晶注射劑75國際單位」已於 2019-07-31 自請註銷，衛署藥輸字第025661號「福喜多滿注射劑75國際單位」有效。頁面寫 8 張有誤（同一張證有多筆資料列，可能因此重複計數）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end urofollitropin-license-count-2026-10-03 -->
 
 ---
 
@@ -87,16 +77,22 @@ FSH 受體除存在於生殖系統外，在腦部血管內皮及部分神經組�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥輸字第025574號 | 保孕威凍晶注射劑75國際單位 | 凍晶注射劑 | 治療符合以下情況的不孕女性患者：對clomiphene citrate治療無反應之無排卵症﹝包括多囊性卵巢症，POCD﹞不孕婦女。接受人工協助生殖技術﹝ART﹞... |
-| 衛署藥輸字第025661號 | 福喜多滿注射劑75國際單位 | 凍晶注射劑 | 因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀。 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin urofollitropin-tw-license-025574-cancelled-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：表中「保孕威凍晶注射劑75國際單位」（衛署藥輸字第025574號）已於 2019-07-31 自請註銷；目前有效的 urofollitropin 許可證只有「福喜多滿注射劑75國際單位」。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Urofollitropin 的不重複許可證共 **2 張**：有效單方 1 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end urofollitropin-tw-license-025574-cancelled-2026-10-03 -->
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥輸字第025661號 | 福喜多滿注射劑75國際單位 | 凍晶注射劑 | 豐樂國際有限公司 | 2027/03/23 | 因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀。 |
+
+<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025574號</td><td>保孕威凍晶注射劑75國際單位</td><td>UROFOLLITROPIN (HIGHLY PURIFIED URINARY FOLLICLE STIMULATING…</td><td>2019/07/31</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -133,8 +129,8 @@ TxGNN 預測分數雖高（99.85%），但屬於 L5 最低證據等級，所有�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 快速總覽「許可證數：8 張」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 台灣上市資訊表「保孕威」已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 快速總覽「許可證數：8 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市資訊表「保孕威」已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

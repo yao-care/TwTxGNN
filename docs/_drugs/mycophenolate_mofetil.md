@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-The txgnn-pipeline skill covers pipeline operations and doesn't add constraints to report generation. The system prompt (v5) contains the complete report format. Proceeding to generate the report now.
-
----
-
 # Mycophenolate Mofetil：從器官移植排斥到 HIV 感染症
 
 ## 一句話總結
@@ -52,7 +48,7 @@ TxGNN 模型預測它可能對 **HIV 感染症 (HIV infectious disease)** 有效
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 10 張（有效單方 5／有效複方 0／已註銷 5） |
 | 建議決策 | Hold |
 
 ---
@@ -103,19 +99,26 @@ TxGNN 模型預測它可能對 **HIV 感染症 (HIV infectious disease)** 有效
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第026397號 | 免達抑膠囊250毫克 | 膠囊劑 | 與Cyclosporin和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥。 |
-| 衛部藥輸字第027227號 | 山喜多注射劑500毫克(法國廠) | 凍晶注射劑 | 與cyclosporin和類固醇合併使用，以預防腎臟、心臟和肝臟移植之器官排斥。 |
-| 衛署菌疫輸字第000526號 | 新睦樂凍晶注射劑 | 凍晶注射劑 | 用於新的腎臟移植(DE NOVO RENAL TRANSPLANTATION)、預防急性器官排斥現象之發生，而且是伴隨以CYCLOSPORIN的微乳劑型(MICROEMULSION)和皮質固醇為基礎的免疫抑制劑治療方式併用... |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin mycophenolate-basiliximab-row-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：上表「新睦樂凍晶注射劑」（衛署菌疫輸字第000526號，Simulect）主成分是 basiliximab，不是 mycophenolate mofetil，只是同為腎臟移植排斥預防用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Mycophenolate Mofetil 的不重複許可證共 **10 張**：有效單方 5 張、有效複方 0 張、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end mycophenolate-basiliximab-row-2026-10-03 -->
+**有效・單方**（5 張）
 
-> 注：本 JSON 提供 3 張許可證資料（含去重），台灣共有 20 張有效許可證，涵蓋膠囊劑、凍晶注射劑、膜衣錠等多種劑型。
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第050154號 | 異莫分膠囊 250 毫克 | 膠囊劑 | 友華生技醫藥股份有限公司 | 2029/05/26 | 與CYCLOSPORIN和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥。 與皮質類固醇合併使用，Cellcept適用於在患有Internat… |
+| 衛署藥製字第050866號 | 喜妥善膠囊 250 毫克 | 膠囊劑 | 健亞生物科技股份有限公司 | 2029/09/02 | 與Cyclosporin和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥。與皮質類固醇合併使用，Mycocep適用於在患有Internatio… |
+| 衛署藥輸字第021757號 | 山喜多膠囊２５０毫克 | 膠囊劑 | 羅氏大藥廠股份有限公司 | 2027/06/13 | 與CYCLOSPORIN和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥。 與皮質類固醇合併使用，Cellcept適用於在患有Internat… |
+| 衛署藥輸字第024215號 | 山喜多膜衣錠500毫克 | 膜衣錠 | 羅氏大藥廠股份有限公司 | 2030/04/29 | 與cyclosporin和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥。 與皮質類固醇合併使用，Cellcept適用於在患有Internat… |
+| 衛署藥輸字第025321號 | 移安“山德士”膜衣錠 500 毫克 | 膜衣錠 | 台灣山德士藥業股份有限公司 | 2031/01/17 | 與cyclosporin和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥。與皮質類固醇合併使用，Mycophenolate mofetil適用… |
+
+<details><summary><strong>已註銷</strong>（5 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第048247號</td><td>黴酚酸嗎啉乙酯</td><td>Mycophenolate mofetil</td><td>2023/11/22</td></tr><tr><td>衛署藥製字第055288號</td><td>“台耀”恩美芙</td><td>Mycophenolate Mofetil“F.L.”</td><td>2025/07/28</td></tr><tr><td>衛署藥輸字第024623號</td><td>山喜多注射劑500毫克</td><td>MYCOPHENOLATE MOFETIL HYDROCHLORIDE</td><td>2023/06/02</td></tr><tr><td>衛部藥輸字第026397號</td><td>免達抑膠囊250毫克</td><td>MYCOPHENOLATE MOFETIL</td><td>2025/04/28</td></tr><tr><td>衛部藥輸字第027227號</td><td>山喜多注射劑500毫克(法國廠)</td><td>MYCOPHENOLATE MOFETIL HYDROCHLORIDE</td><td>2024/04/29</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -159,7 +162,7 @@ TxGNN 模型預測它可能對 **HIV 感染症 (HIV infectious disease)** 有效
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表「新睦樂凍晶注射劑」一列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「新睦樂凍晶注射劑」一列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -103,17 +103,25 @@ Disopyramide 是一種 Class Ia 抗心律不整藥物，TxGNN 預測其可能對
 
 ## 台灣上市狀態
 
-| 許可證號 | 商品名 | 劑型 | 適應症 | 狀態 |
-|----------|--------|------|--------|------|
-| 衛署藥製字第025427號 | 福元心達寧膠囊 100mg | 膠囊 | 心室性不整律 | 有效 (至2028) |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-**現況**：台灣目前有 2 張有效許可證（「福元」心達寧膠囊100毫克、「應元」定律膠囊 100 毫克），其他製劑均已註銷。市場供應有限。
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-<!-- review:begin disopyramide-tw-license-count-2026-10-03 -->
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Disopyramide 的不重複許可證共 **28 張**：有效單方 2 張、有效複方 0 張、已註銷 26 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-> **查核更正（2026-10-03）**：原寫「**現況**：台灣僅剩一項有效許可證，其他製劑均已註銷。」。依 TFDA 許可證資料，disopyramide 目前有 2 張有效許可證（「福元」心達寧膠囊100毫克、「應元」定律膠囊 100 毫克），其餘已註銷。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+**有效・單方**（2 張）
 
-<!-- review:end disopyramide-tw-license-count-2026-10-03 -->
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第025427號 | "福元"心達寧膠囊１００毫克 | 膠囊劑 | 福元化學製藥股份有限公司 | 2028/05/15 | 心室性不整律 |
+| 衛署藥製字第055890號 | “應元”定律膠囊 100 毫克 | 膠囊劑 | 應元化學製藥股份有限公司 | 2030/12/23 | 心室性不整律。 |
+
+<details><summary><strong>已註銷</strong>（26 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第005470號</td><td>律使當膠囊</td><td>DISOPYRAMIDE</td><td>1987/04/20</td></tr><tr><td>衛署藥輸字第005663號</td><td>諾培心膠囊</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>1993/12/03</td></tr><tr><td>衛署藥輸字第005950號</td><td>律使當注射液</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>1987/03/20</td></tr><tr><td>衛署藥輸字第007217號</td><td>諾培心注射液２０公絲/公撮</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第007876號</td><td>心律敏注射液１０公絲/公撮</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>1987/07/02</td></tr><tr><td>衛署藥輸字第008620號</td><td>心律敏膠囊１００公絲</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>1994/06/10</td></tr><tr><td>衛署藥輸字第010297號</td><td>磷酸二索匹拉麥</td><td>DISOPYRAMIDE PHOSPHATE</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第012826號</td><td>律使當持續性錠</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>1987/04/01</td></tr><tr><td>衛署藥輸字第013149號</td><td>磷酸二索匹拉麥粉劑</td><td>DISOPYRAMIDE PHOSPHATE</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第014016號</td><td>二索匹拉麥粉劑</td><td>DISOPYRAMIDE</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第015016號</td><td>待索比樂邁</td><td>DISOPYRAMIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015159號</td><td>磷酸待索匹拉邁</td><td>DISOPYRAMIDE PHOSPHATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015169號</td><td>待索匹拉邁</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015240號</td><td>磷酸待索匹拉邁</td><td>DISOPYRAMIDE PHOSPHATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015256號</td><td>二索匹拉麥</td><td>DISOPYRAMIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015295號</td><td>磷酸二索匹拉麥</td><td>DISOPYRAMIDE PHOSPHATE</td><td>1995/01/31</td></tr><tr><td>衛署藥輸字第015693號</td><td>律使當注射液</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>2006/05/23</td></tr><tr><td>衛署藥輸字第015694號</td><td>律使當持續性錠</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>2006/05/23</td></tr><tr><td>衛署藥輸字第015752號</td><td>律使當膠囊</td><td>DISOPYRAMIDE</td><td>1996/07/24</td></tr><tr><td>衛署藥輸字第015861號</td><td>心律敏注射液１０公絲/公撮</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>1991/11/26</td></tr><tr><td>衛署藥輸字第016307號</td><td>心脈平膠囊１００公絲</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第020011號</td><td>待索匹拉邁</td><td>DISOPYRAMIDE BASE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第020096號</td><td>諾培心膠囊</td><td>DISOPYRAMIDE (PHOSPHATE)</td><td>2004/12/16</td></tr><tr><td>衛署藥輸字第020467號</td><td>司比樂膠囊</td><td>DISOPYRAMIDE</td><td>2000/06/05</td></tr><tr><td>衛署藥輸字第021474號</td><td>達舒脈膠囊１００公絲</td><td>DISOPYRAMIDE</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第022010號</td><td>待索匹拉邁</td><td>DISOPYRAMIDE</td><td>2005/06/15</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
+
+**現況**：台灣僅剩一項有效許可證，其他製劑均已註銷。市場供應有限。
 
 ## 安全性
 
@@ -178,7 +186,7 @@ Disopyramide 的 TxGNN 預測新適應症主要為神經精神疾病（妥瑞症
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「台灣僅剩一項有效許可證」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「台灣僅剩一項有效許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

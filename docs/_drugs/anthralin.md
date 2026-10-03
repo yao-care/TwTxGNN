@@ -33,15 +33,9 @@ indication_count: 10
 
 ## 一句話總結
 
-Anthralin（二羥蒽酮）是一種外用皮膚科藥物，在台灣長期用於牛皮癬及相關皮膚病治療，共有 9 張許可證（目前僅 1 張有效）。
+Anthralin（二羥蒽酮）是一種外用皮膚科藥物，在台灣長期用於牛皮癬及相關皮膚病治療，擁有 9 張有效許可證（有效 1 張）。
 TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 目前有 **4 個臨床試驗**和 **20 篇文獻**支持這個方向，且自 1985 年起即有 Anthralin 直接用於圓禿的臨床應用文獻，並已被納入英國皮膚科醫學會 2024 年治療指引。
-
-<!-- review:begin anthralin-licenses-not-9-active-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「擁有 9 張有效許可證。」。TFDA 登載的 anthralin 許可證共 9 張，其中 8 張已註銷，目前有效的只有衛署藥製字第049649號「貝諾乳膏 1%」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end anthralin-licenses-not-9-active-2026-10-03 -->
 
 ---
 
@@ -54,7 +48,7 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 | TxGNN 預測分數 | 99.58% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 9 張 |
+| 許可證數 | 9 張（有效單方 1／有效複方 0／已註銷 8） |
 | 建議決策 | Proceed with Guardrails |
 
 ---
@@ -103,19 +97,22 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥輸字第005432號 | 蒽酚（粉） | 粉劑 | 牛皮癬 |
-| 衛署藥製字第011402號 | 嗎爾宜唐 | 軟膏劑 | 緩解皮膚刺激及尿布疹、去角質 |
-| 衛署藥製字第022694號 | 嗎爾宜唐軟膏 0.1% | 軟膏劑 | 緩解皮膚刺激及尿布疹、去角質 |
-| 衛署藥輸字第017338號 | 蒽酚（粉） | 粉劑 | 牛皮癬 |
-| 衛署藥製字第014923號 | 速利癬軟膏 | 軟膏劑 | 頑癬、牛皮癬、及其他癬菌所致之皮膚病症 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin anthralin-license-rows-cancelled-combo-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：上表 5 張許可證都已註銷；「嗎爾宜唐」「嗎爾宜唐軟膏 0.1%」「速利癬軟膏」是 anthralin 加 salicylic acid、zinc oxide 的複方，「緩解皮膚刺激及尿布疹、去角質」屬複方適應症。目前唯一有效的 anthralin 許可證是衛署藥製字第049649號「貝諾乳膏 1%」。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Anthralin 的不重複許可證共 **9 張**：有效單方 1 張、有效複方 0 張、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end anthralin-license-rows-cancelled-combo-2026-10-03 -->
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第049649號 | 貝諾乳膏 1% | 乳膏劑 | 華盛頓製藥廠股份有限公司 | 2028/09/10 | 頑癬、牛皮癬、錢癬及其他癬菌所致之皮膚病。 |
+
+<details><summary><strong>已註銷</strong>（8 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第011402號</td><td>嗎爾宜唐</td><td>SALICYLIC ACID、ZINC OXIDE、ANTHRALIN (DITHRANOL)</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第012742號</td><td>疥能淨軟膏</td><td>ANTHRALIN (DITHRANOL)</td><td></td></tr><tr><td>衛署藥製字第014923號</td><td>速利癬軟膏</td><td>ANTHRALIN (DITHRANOL)、ZINC OXIDE、SALICYLIC ACID</td><td>1989/11/22</td></tr><tr><td>衛署藥製字第022694號</td><td>嗎爾宜唐軟膏０．１％</td><td>SALICYLIC ACID、ZINC OXIDE、ANTHRALIN (DITHRANOL)</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第022883號</td><td>嗎爾宜唐軟膏０．５％</td><td>SALICYLIC ACID、ANTHRALIN (DITHRANOL)、ZINC OXIDE</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第028949號</td><td>嗎爾宜唐軟膏０．３％</td><td>SALICYLIC ACID、ZINC OXIDE、ANTHRALIN (DITHRANOL)</td><td>1999/09/30</td></tr><tr><td>衛署藥輸字第005432號</td><td>/酚</td><td>ANTHRALIN (DITHRANOL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第017338號</td><td>/酚</td><td>ANTHRALIN (DITHRANOL)</td><td>1990/07/07</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -130,13 +127,7 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 **決策：Proceed with Guardrails**
 
 **理由：**
-Anthralin 用於圓禿的機轉合理性有充分理論依據（T 細胞免疫調節），自 1985 年起已有直接臨床應用文獻，並擁有多篇回顧性研究與系統性回顧，以及動物模型直接實驗證據，英國皮膚科醫學會 2024 年最新指引亦將其列為治療選項；加上台灣已有 9 張有效許可證、藥品可近性高，整體屬 L3 等級的觀察性研究支持，具備推進條件。
-
-<!-- review:begin anthralin-conclusion-access-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：TFDA 登載的 anthralin 許可證 9 張中只有衛署藥製字第049649號「貝諾乳膏 1%」仍有效，其餘 8 張已註銷，「9 張有效許可證」與實情不符；結論的判斷未改。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end anthralin-conclusion-access-2026-10-03 -->
+Anthralin 用於圓禿的機轉合理性有充分理論依據（T 細胞免疫調節），自 1985 年起已有直接臨床應用文獻，並擁有多篇回顧性研究與系統性回顧，以及動物模型直接實驗證據，英國皮膚科醫學會 2024 年最新指引亦將其列為治療選項；加上台灣已有 9 張有效許可證（有效 1 張）、藥品可近性高，整體屬 L3 等級的觀察性研究支持，具備推進條件。
 
 **若要推進需要：**
 - 補充 DrugBank 正式作用機轉（MOA）資料，強化機轉關聯性論述
@@ -153,9 +144,9 @@ Anthralin 用於圓禿的機轉合理性有充分理論依據（T 細胞免疫�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「擁有 9 張有效許可證」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 結論理由「台灣已有 9 張有效許可證、藥品可近性高」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表所列 5 張許可證皆已註銷，其中 3 張為複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「擁有 9 張有效許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 結論理由「台灣已有 9 張有效許可證、藥品可近性高」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表所列 5 張許可證皆已註銷，其中 3 張為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

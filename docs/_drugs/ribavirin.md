@@ -44,7 +44,7 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 多張 |
+| 許可證數 | 13 張（有效單方 2／有效複方 0／已註銷 11） |
 | 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
@@ -73,15 +73,23 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 多張許可證 | 速威干軟膠囊100毫克等 | 膠囊/錠劑 | 與干擾素或 DAA 併用治療慢性 C 型肝炎 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin ribavirin-asunaprevir-row-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：「速威干軟膠囊100毫克」（衛部藥輸字第026660號）主成分是 asunaprevir，不是 ribavirin，且已於 2021-01-26 註銷。Ribavirin 目前有效的許可證是衛署藥製字第048027號「摩舒肝清膠囊」與衛署藥製字第048152號「源展膠囊200毫克」，許可證寫的是與 peginterferon α 或 α-interferon 併用治療慢性 C 型肝炎。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ribavirin 的不重複許可證共 **13 張**：有效單方 2 張、有效複方 0 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end ribavirin-asunaprevir-row-2026-10-03 -->
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第048027號 | 摩舒肝清膠囊 | 膠囊劑 | 東生華製藥股份有限公司 | 2031/06/20 | 與PEGINTERFERON α 或 α -INTERFERON併用治療：1.曾經使用 α -INTERFERON單一療法治療後又復發的慢性C型肝炎。2.首次接受治療的慢性C型肝炎… |
+| 衛署藥製字第048152號 | 源展膠囊200毫克 | 膠囊劑 | 健喬信元醫藥生技股份有限公司 | 2031/08/02 | 與peginterferon α 或α-interferon 併用治療：1.曾經使用α-interferon 單一療法後又復發的慢性C型肝炎。2.首次接受治療的慢性C型肝炎。 |
+
+<details><summary><strong>已註銷</strong>（11 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第027769號</td><td>速百敏膠囊</td><td>BIOTIN、CHLORPHENIRAMINE MALEATE、GLYCYRRHIZIN (AMMONIATED)、RI…</td><td>1991/09/24</td></tr><tr><td>衛署藥製字第044650號</td><td>羅拔除膠囊200毫克</td><td>RIBAVIRIN</td><td>2021/10/21</td></tr><tr><td>衛署藥輸字第017379號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>1995/09/18</td></tr><tr><td>衛署藥輸字第021029號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>1998/08/05</td></tr><tr><td>衛署藥輸字第022173號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第023204號</td><td>利必妥合併療法（因治隆注射液六百萬單位﹨毫升合併瑞比達膠囊２</td><td>RIBAVIRIN、INTERFERON ALPHA- 2B</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第023205號</td><td>利必妥合併療法（因治隆注射液一千五百萬單位/毫升合併瑞比達膠</td><td>INTERFERON ALPHA- 2B、RIBAVIRIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第023208號</td><td>瑞比達膠囊</td><td>RIBAVIRIN</td><td>2019/02/12</td></tr><tr><td>衛署藥輸字第025232號</td><td>適維肝膠囊 200 毫克</td><td>RIBAVIRIN</td><td>2022/06/23</td></tr><tr><td>衛署藥輸字第025605號</td><td>可珮格膜衣錠200毫克</td><td>RIBAVIRIN</td><td>2021/10/20</td></tr><tr><td>衛署藥輸字第025995號</td><td>立貝維爾</td><td>Ribavirin</td><td>2024/05/02</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 
@@ -117,7 +125,7 @@ Ribavirin 是一種核苷類似物，具有廣譜抗病毒活性。它的作用�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表「速威干軟膠囊100毫克等」列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「速威干軟膠囊100毫克等」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

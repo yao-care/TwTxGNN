@@ -48,7 +48,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 | TxGNN 預測分數 | 99.65% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 1 張 |
+| 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
 <!-- review:begin ascorbyl-phosphate-original-indication-combo-2026-10-03 -->
@@ -91,15 +91,16 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥輸字第023600號 | 德佑視立明眼藥水 | 點眼液劑 | 暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢。 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin ascorbyl-phosphate-license-row-combo-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：「德佑視立明眼藥水」是 7 種成分的複方點眼液，magnesium L-ascorbyl phosphate 只是其中一種成分；表中適應症屬於整個複方。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ascorbyl Phosphate 的不重複許可證共 **1 張**：有效單方 0 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end ascorbyl-phosphate-license-row-combo-2026-10-03 -->
+<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第023600號</td><td>德佑視立明眼藥水</td><td>NEOSTIGMINE METHYLSULFATE、NAPHAZOLINE HCL、DIPOTASSIUM GLYCYR…</td><td>2009/12/31</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -131,7 +132,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」為複方眼藥水的適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表「德佑視立明眼藥水」為 7 成分複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「德佑視立明眼藥水」為 7 成分複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

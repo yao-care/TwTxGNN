@@ -171,25 +171,45 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 
 ## 台灣上市資訊
 
-### 許可證狀態 (精選有效許可證)
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-| 許可證字號 | 商品名 | 劑型 | 持證商 | 效期 |
-|-----------|--------|------|--------|------|
-| 衛署藥製字第004771號 | 硫酸鎂注射液 | 注射劑 | 信東生技 | 2028/05/25 |
-| 衛部藥製字第062091號 | 美我欣注射液100毫克/毫升 | 注射劑 | 南光化學製藥 | 2030/12/24 |
-| 多項藥陸輸字號 | 硫酸鎂 | 原料藥 | 多家 | 各異 |
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-<!-- review:begin magnesium-sulfate-license-013386-2026-10-03 -->
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Magnesium Sulfate 的不重複許可證共 **70 張**：有效單方 5 張、有效複方 14 張、已註銷 51 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-> **查核更正（2026-10-03）**：原寫「衛署藥製字第013386號／濟生硫酸鎂注射液／注射劑／濟生醫藥生技／2028/05/25」。TFDA 許可證資料集查無這個字號，也沒有濟生的硫酸鎂注射液許可證，改列現行有效的單方硫酸鎂注射液許可證（衛署藥製字第004771號，信東生技）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+**有效・單方**（5 張）
 
-<!-- review:end magnesium-sulfate-license-013386-2026-10-03 -->
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第004771號 | 硫酸鎂注射液 | 注射劑 | 信東生技股份有限公司 | 2028/05/25 | 子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充 |
+| 衛署藥製字第038935號 | 〝中國化學〞硫酸鎂注射液１００公絲/公撮 | 注射劑 | 中國化學製藥股份有限公司新豐工廠 | 2030/05/30 | 子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充 |
+| 衛部藥製字第062091號 | 美我欣注射液100毫克/毫升 | 注射劑 | 南光化學製藥股份有限公司 | 2030/12/24 | 子癇症、子癇前症、妊娠毒血症、產科全身麻醉補助；體內鎂離子缺乏時之補充。 |
+| 衛部藥輸字第027619號 | 硫酸鎂 | （粉） | 宣泓貿易有限公司 | 2029/03/25 | 抗痙攣藥；瀉藥 |
+| 衛部藥輸字第028751號 | 七水硫酸鎂 | 原料藥結晶性粉末 | 品承貿易股份有限公司 | 2029/07/23 | 子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充。 |
 
-<!-- review:begin magnesium-sulfate-license-047652-2026-10-03 -->
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（14 張）
 
-> **查核更正（2026-10-03）**：原寫「衛署藥製字第047652號／欣滿福注射液／注射劑／台灣拜耳／2030/12/20」。TFDA 許可證資料集查無這個字號，台灣拜耳也沒有硫酸鎂許可證，改列現行有效的單方硫酸鎂注射液許可證（衛部藥製字第062091號，南光化學製藥）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 內衛藥製字第002607號 | 維他利益糖衣錠 | THIAMINE (VITAMIN B1)、INOSITOL (MESO-INOSITOL)、CYANOCOBALAMI… | 糖衣錠 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給。 |
+| 內衛藥製字第013004號 | "人生"便通樂灌腸 | MAGNESIUM SULFATE、BENZALKONIUM CHLORIDE、SODIUM CHLORIDE、GLYC… | 外用液劑 | 便秘、習慣性便秘、痔疾便秘等之浣腸 |
+| 衛署藥製字第023624號 | 百樂蒙多注射液一號 | CALCIUM GLUCONATE MONOHYDRATE、POTASSIUM ACETATE、MAGNESIUM SU… | 注射劑 | 經口、經腸管營養不能或不充分時之水份電解質和熱量的營養補給 |
+| 衛署藥製字第023625號 | 百樂蒙多注射液二號 | SODIUM PHOSPHATE MONOBASIC DIHYDRATE、MAGNESIUM SULFATE、SODIU… | 注射劑 | 經口、經腸管營養不能或不充分時之水份電解質和熱量的營養補給 |
+| 衛署藥製字第024006號 | 信東八號Ａ點滴注射液 | DEXTROSE MONOHYDRATE、SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM… | 注射劑 | 本劑適於不能或無法充分經口、經腸管補給營養、而經由中心靜脈、營養療法賴以補給水分、電解質和熱量之患者 |
+| 衛署藥製字第024990號 | 信東八號Ｂ點滴注射液 | POTASSIUM ACETATE、SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM AC… | 注射劑 | 水分、電解質及熱量之補充 |
+| 衛署藥製字第029455號 | "台灣大塚"補樂益一號注射液 | MAGNESIUM SULFATE HEPTAHYDRATE、SODIUM ACETATE ANHYDROUS、CALC… | 注射劑 | 小兒病患經口不能攝食時或不能完全攝食之中心靜脈輸注液、小兒電解質熱能補充 |
+| 衛署藥製字第029457號 | "台灣大塚"補樂益二號注射液 | POTASSIUM ACETATE、POTASSIUM PHOSPHATE MONOBASIC(EQ TO POTASS… | 注射劑 | 手術前後及未能進食病人之水份、電解質、熱能補充及磷質補充 |
+| 衛署藥製字第029458號 | "台灣大塚"補樂益三號注射液 | SODIUM CHLORIDE、MAGNESIUM SULFATE HEPTAHYDRATE、CALCIUM GLUCO… | 注射劑 | 手術前後及未能進食之病人之水份、電解質、熱能補充及鈣質補充 |
+| 衛署藥輸字第025150號 | 斯莫克必恩周邊靜脈輸注液 | SERINE、SERINE、ARGININE、SODIUM ACETATE (TRIHYDRATE)、ARGININE、… | 注射劑 | 靜脈營養輸注，適用於無法由口腔進食或經腸道獲取足夠營養，或禁止由口腔及腸道進食之成年患者及2歲以上兒童。 |
+| 衛署藥輸字第025179號 | 必富力得注射液 | Thiamine chloride hydrochloride、L-TRYPTOPHAN、L-ALANINE、GLYCI… | 注射劑 | 經口攝取不足、輕度的低蛋白血症、輕度的營養障礙、手術前後等狀態時的氨基酸、電解質、維生素B1及水分之營養補給。 |
+| 衛署藥輸字第025203號 | 斯莫克必恩中心靜脈輸注液 | GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)、GLYCINE (E… | 注射劑 | 靜脈營養輸注，適用於無法由口腔進食或經腸道獲取足夠營養，或禁止由口腔及腸道進食之成年患者及2歲以上兒童。 |
+| 衛部藥輸字第026371號 | 樂敦乾眼修護人工淚液 | CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE… | 點眼液劑 | 暫時緩解因眼睛乾澀所引起灼熱感與刺激感、眼睛疲勞。 |
+| 衛部藥輸字第028197號 | 斯莫克必恩(升氮)中心靜脈輸注液 | L-PROLINE、SODIUM GLYCEROPHOSPHATE ANHYDROUS、SODIUM ACETATE T… | 注射劑 | 靜脈營養輸注，適用於無法由口腔進食或經腸道獲取足夠營養，或禁止由口腔及腸道進食之成年患者及2歲以上兒童。 |
 
-<!-- review:end magnesium-sulfate-license-047652-2026-10-03 -->
+<details><summary><strong>已註銷</strong>（51 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000035號</td><td>日本藥典第六版硫酸鎂</td><td>MAGNESIUM SULFATE</td><td>1988/12/03</td></tr><tr><td>內衛藥製字第011365號</td><td>維他美樂（２７）糖衣片</td><td>NIACINAMIDE (NICOTINAMIDE)、PYRIDOXINE(VITAMIN B6)、POTASSIUM…</td><td>2008/08/07</td></tr><tr><td>內衛藥製字第013893號</td><td>維他可糖衣錠</td><td>THIAMINE (VITAMIN B1)、FERROUS SULFATE、VITAMIN D、VITAMIN A、CU…</td><td>2002/07/24</td></tr><tr><td>內衛藥輸字第004547號</td><td>加扶樂片</td><td>CALCIUM PHOSPHATE DIBASIC、THIAMINE HYDROCHLORIDE、TAURINE (EQ…</td><td>1990/08/18</td></tr><tr><td>內衛藥輸字第004548號</td><td>補/身</td><td>LYSINE HCL、AMINOACETIC ACID ALPHA-、L-CYSTEINE、CUPRIC SULFATE…</td><td>1991/02/01</td></tr><tr><td>衛署藥製字第014304號</td><td>止咳注射液</td><td>DL-METHYLEPHEDRINE HCL、POTASSIUM GUAIACOLSULFONATE、CAFFEINE…</td><td>2014/07/18</td></tr><tr><td>衛署藥製字第018142號</td><td>血補納膠囊</td><td>PYRIDOXINE HCL、POTASSIUM SULFATE、MANGANESE SULFATE、RIBOFLAVI…</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第022133號</td><td>胖維他Ｍ糖衣錠</td><td>VITAMIN B6 (HCL)、POTASSIUM SULFATE、RIBOFLAVIN (VIT B2)、MANGA…</td><td>1992/04/17</td></tr><tr><td>衛署藥製字第030272號</td><td>百樂蒙多注射液三號</td><td>MAGNESIUM SULFATE 7H2O、POTASSIUM ACETATE、CALCIUM GLUCONATE M…</td><td>2016/09/08</td></tr><tr><td>衛署藥製字第032795號</td><td>硫酸鎂５００公絲/公撮注射液</td><td>MAGNESIUM SULFATE</td><td>2013/10/03</td></tr><tr><td>衛署藥製字第040660號</td><td>"南光" 百利得－Ａ注射液</td><td>POTASSIUM ACETATE、CALCIUM GLUCONATE MONOHYDRATE、MAGNESIUM SU…</td><td>2013/10/03</td></tr><tr><td>衛署藥製字第040661號</td><td>百利得－Ｂ注射液</td><td>GLUCOSE、SODIUM CHLORIDE、SODIUM PHOSPHATE MONOBASIC DIHYDRATE…</td><td>2013/10/03</td></tr><tr><td>衛署藥輸字第004825號</td><td>硫酸鎂</td><td>MAGNESIUM SULFATE</td><td>1985/04/18</td></tr><tr><td>衛署藥輸字第005700號</td><td>身得補錠</td><td>FOLIC ACID、POTASSIUM SULFATE、AMMONIUM MOLYBDATE、MANGANESE SU…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第007669號</td><td>維我百達膠囊</td><td>TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE) (EQ TO VITAMI…</td><td>1996/01/11</td></tr><tr><td>衛署藥輸字第008051號</td><td>德泰復生注射液</td><td>ARGININE HCL L-、PANTHENOL、L-ARGININE、NIACINAMIDE (NICOTINAMI…</td><td>1990/02/26</td></tr><tr><td>衛署藥輸字第008052號</td><td>德泰利多注射液</td><td>ORNITHINE L- ASPARTATE L-、SODIUM CHLORIDE、CYANOCOBALAMIN (VI…</td><td>1988/01/28</td></tr><tr><td>衛署藥輸字第008250號</td><td>樂補力軟膠囊</td><td>MENADIONE SODIUM BISULFITE、RIBOFLAVIN (VIT B2)、FOLIC ACID、MA…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第009112號</td><td>智明眼藥水</td><td>SODIUM CHLORIDE、POTASSIUM CHLORIDE、MAGNESIUM SULFATE、CALCIUM…</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第009229號</td><td>維安比膠囊</td><td>VITAMIN A、FERROUS SULFATE、POTASSIUM IODIDE、THIAMINE MONONITR…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第009385號</td><td>維蒙力斯膠囊</td><td>RIBOFLAVIN (VIT B2)、FOLIC ACID、RUTIN、METHIONINE、PANTOTHENATE…</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第009501號</td><td>"得錄" 高卡路里輸液二號（維持液）</td><td>ZINC SULFATE、GLUCOSE、CALCIUM GLUCONATE、POTASSIUM PHOSPHATE M…</td><td>2015/11/04</td></tr><tr><td>衛署藥輸字第009502號</td><td>高卡路里輸液一號（開始液）</td><td>POTASSIUM ACETATE、MAGNESIUM SULFATE、CALCIUM GLUCONATE、POTASS…</td><td>2015/11/04</td></tr><tr><td>衛署藥輸字第009677號</td><td>愛必託補軟膠囊</td><td>METHIONINE DL-、MANGANESE SULFATE、TOCOPHEROL (ACETATE ALPHA D…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第009889號</td><td>愛必託補軟膠囊</td><td>PYRIDOXINE HCL、GINSENG POWDER、POTASSIUM SULFATE、CALCIUM PHOS…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第010411號</td><td>台德多種維生素軟膠囊</td><td>FERROUS FUMARATE、NIACINAMIDE (NICOTINAMIDE)、PANTOTHENATE CAL…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第010661號</td><td>百惠麗軟膠囊</td><td>CUPRIC SULFATE、NIACINAMIDE (NICOTINAMIDE)、THIAMINE MONONITRA…</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第010857號</td><td>得維他軟膠囊</td><td>NIACINAMIDE (NICOTINAMIDE)、VITAMIN B6 (HCL)、RIBOFLAVIN (VIT…</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第010861號</td><td>得樂蒙軟膠囊</td><td>VITAMIN A (PALMITATE)、ASCORBIC ACID (VIT C)、LECITHIN(LECITHO…</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012026號</td><td>百威軟膠囊</td><td>ZINC OXIDE、VIT D (CALCIFEROL IN OIL)、ASCORBIC ACID (VIT C)、B…</td><td>2004/03/05</td></tr><tr><td>衛署藥輸字第012370號</td><td>硫酸鎂</td><td>MAGNESIUM SULFATE</td><td>1994/06/27</td></tr><tr><td>衛署藥輸字第012693號</td><td>艾必亞百賜隆軟膠囊</td><td>ERGOCALCIFEROL (VIT D2CALCIFEROL)、COBALTOUS SULFATE、POTASSIU…</td><td>1991/04/25</td></tr><tr><td>衛署藥輸字第013415號</td><td>"富田" 硫酸鎂粉劑</td><td>MAGNESIUM SULFATE</td><td>2020/04/07</td></tr><tr><td>衛署藥輸字第013554號</td><td>舒維滿得糖衣錠</td><td>POTASSIUM IODIDE、VITAMIN B12 (0.1% MANNITE)、FERROUS SULFATE、…</td><td>1995/09/21</td></tr><tr><td>衛署藥輸字第014515號</td><td>維礦樂軟膠囊</td><td>CYANOCOBALAMIN (VIT B12)、COBALTOUS SULFATE、POTASSIUM IODIDE、…</td><td>1992/01/14</td></tr><tr><td>衛署藥輸字第016329號</td><td>健寶維他軟膠囊</td><td>ERGOCALCIFEROL (VIT D2CALCIFEROL)、FERROUS SULFATE、CYANOCOBAL…</td><td>2001/07/26</td></tr><tr><td>衛署藥輸字第016723號</td><td>維達補健軟膠囊</td><td>POTASSIUM SULFATE、MAGNESIUM SULFATE、RIBOFLAVIN (VIT B2)、MANG…</td><td>1999/07/05</td></tr><tr><td>衛署藥輸字第017727號</td><td>德泰復生注射液</td><td>CYANOCOBALAMIN (VIT B12)、ORNITHINE L- ASPARTATE L-、GLUTAMIC…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第018932號</td><td>婦更寶軟膠囊</td><td>MAGNESIUM SULFATE、VITAMIN A PALMITATE、CHOLINE BITARTRATE、ERG…</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021008號</td><td>營養維他糖衣錠</td><td>BETAINE HCL、ASCORBIC ACID (VIT C)、ZINC SULFATE、POTASSIUM IOD…</td><td>2015/02/24</td></tr><tr><td>衛署藥輸字第022651號</td><td>倍麗多眼藥水</td><td>MAGNESIUM SULFATE、CALCIUM CHLORIDE、POTASSIUM PHOSPHATE MONOB…</td><td>2004/06/29</td></tr><tr><td>衛署藥輸字第023170號</td><td>百源雙利－３號</td><td>L-METHIONINE、POTASSIUM ACETATE、GLYCINE (EQ TO AMINOACETIC AC…</td><td>2004/07/07</td></tr><tr><td>衛署藥輸字第023171號</td><td>百源雙利－１號</td><td>ZINC SULFATE、L-THREONINE、GLUCOSE、L-PROLINE、L-VALINE、L-HISTID…</td><td>2004/07/07</td></tr><tr><td>衛署藥輸字第023172號</td><td>百源雙利－２號</td><td>L-ASPARTIC ACID、L-TRYPTOPHAN、L-ALANINE、L-ARGININE、L-TYROSINE…</td><td>2004/07/07</td></tr><tr><td>衛署藥輸字第023878號</td><td>氨基富液</td><td>L- GLUTAMIC ACID、L-PHENYLALANINE、L-ALANINE、L-LEUCINE、LYSINE…</td><td>2021/03/26</td></tr><tr><td>衛署藥輸字第024329號</td><td>速立恩中心靜脈輸注液</td><td>ZINC SULFATE 7H2O、CALCIUM CHLORIDE DIHYDRATE、LEUCINE、TYROSIN…</td><td>2022/07/07</td></tr><tr><td>衛署藥輸字第024338號</td><td>速立恩周邊靜脈輸注液</td><td>L-PHENYLALANINE、L-ALANINE、L-TYROSINE、LYSINE ACETATE、L-ARGINI…</td><td>2022/07/07</td></tr><tr><td>衛署藥輸字第024838號</td><td>益達健樂維他糖衣錠</td><td>INOSITOL (MESO-INOSITOL)、IODINE (POTASSIUM)、BETAINE HCL、MAGN…</td><td>2014/08/11</td></tr><tr><td>衛署藥輸字第025669號</td><td>立可舒人工淚液</td><td>Calcium chloride hydrate、SODIUM CHLORIDE、POTASSIUM CHLORIDE、…</td><td>2023/06/12</td></tr><tr><td>衛署藥輸字第025708號</td><td>新派瑞恩12%糖注射液</td><td>L-LYSINE ACETATE、Zinc sulfate hydrate、L-VALINE、L-HISTIDINE、L…</td><td>2021/03/30</td></tr><tr><td>衛署藥輸字第025902號</td><td>新派瑞恩17.5%糖注射液</td><td>L-LYSINE ACETATE、L-LEUCINE、RIBOFLAVIN PHOSPHATE SODIUM、GLUCO…</td><td>2021/03/24</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ### 核准適應症
 
@@ -333,8 +353,8 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
-| 2026-10-03 | 許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

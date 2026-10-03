@@ -121,23 +121,24 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 
 ### 主要製劑
 
-| 許可證字號 | 商品名 | 適應症 | 狀態 |
-|------------|--------|--------|------|
-| 衛署藥製字第002658號 | 旅暈平錠 | 暈動症 (暈車、暈船、暈機) | 有效 |
-| 衛署藥製字第032336號 | 應元赫敏錠 (Homochlorcyclizine) | 過敏性皮疹、濕疹、氣喘 | 有效 |
-| 衛署藥製字第023981號 | 止敏糖衣錠 (Chlorcyclizine) | 過敏性鼻炎、皮膚搔癢 | 有效 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin cyclizine-tw-license-other-ingredients-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：表中「應元赫敏錠」主成分是 homochlorcyclizine、「止敏糖衣錠」主成分是 chlorcyclizine，都是與 cyclizine 不同的成分，其過敏適應症不是 cyclizine 的核准適應症；台灣現行 cyclizine 單方許可證只有「旅暈平錠」（動暈症）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cyclizine 的不重複許可證共 **9 張**：有效單方 1 張、有效複方 0 張、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end cyclizine-tw-license-other-ingredients-2026-10-03 -->
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第002658號 | 旅暈平錠 | 錠劑 | 華盛頓製藥廠股份有限公司 | 2029/05/25 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 |
+
+<details><summary><strong>已註銷</strong>（8 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第003276號</td><td>邁可抗黴酊</td><td>CYCLIZINE HCL、SALICYLIC ACID</td><td>1986/02/04</td></tr><tr><td>內衛藥輸字第004700號</td><td>鹽酸環立淨</td><td>CYCLIZINE HCL</td><td>1985/07/12</td></tr><tr><td>衛署藥製字第022713號</td><td>肝克寧膠囊</td><td>CYCLIZINE、RIBOFLAVIN(5-PHOSPHATE SODIUM)、THIAMINE HYDROCHLOR…</td><td>1996/04/16</td></tr><tr><td>衛署藥輸字第009561號</td><td>滅暈錠</td><td>CYCLIZINE HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第010504號</td><td>二苯甲基４－甲基呱/鹽酸鹽</td><td>CYCLIZINE HCL</td><td>1998/09/29</td></tr><tr><td>衛署藥輸字第011158號</td><td>邁克寧錠</td><td>CYCLIZINE HCL、CAFFEINE (HYDRATE)、ERGOTAMINE TARTRATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第013612號</td><td>鹽酸環立淨粉劑</td><td>CYCLIZINE HCL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第014591號</td><td>邁可抗黴酊</td><td>CYCLIZINE HCL、SALICYLIC ACID</td><td>1999/10/25</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ### 複方製劑
-
-| 許可證字號 | 商品名 | 成分 | 適應症 | 狀態 |
-|------------|--------|------|--------|------|
-| 衛署藥輸字第011158號 | 邁克寧錠 | Ergotamine + Caffeine + Cyclizine | 偏頭痛 | 已註銷 |
 
 **備註**：台灣市場上有多種 cyclizine 衍生物製劑，但許多已註銷。目前有效的製劑主要用於暈動症及過敏。
 
@@ -214,7 +215,7 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 原核准適應症混入其他成分與已註銷複方的適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 主要製劑表列入 homochlorcyclizine、chlorcyclizine 製劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 主要製劑表列入 homochlorcyclizine、chlorcyclizine 製劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 對照表「已核准 (蕁麻疹)」「已核准 (偏頭痛)」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1](https://www.medicines.org.uk/emc/product/4318/smpc) |
 | 2026-10-03 | 蕁麻疹、鼻腔疾病、頭痛預測標記待重審 | 標記待重審 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 

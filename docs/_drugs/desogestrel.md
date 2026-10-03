@@ -33,7 +33,7 @@ indication_count: 10
 
 ## 一句話總結
 
-Desogestrel 是第三代合成孕激素，原本作為口服避孕藥使用，在台灣已有 9 張許可證上市。
+Desogestrel 是第三代合成孕激素，原本作為口服避孕藥使用，在台灣已有 9 張許可證（有效 6 張）上市。
 TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 目前有 **2 個臨床試驗**和 **16 篇文獻**支持這個方向。
 
@@ -48,7 +48,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 | TxGNN 預測分數 | 99.96% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 9 張 |
+| 許可證數 | 9 張（有效單方 0／有效複方 6／已註銷 3） |
 | 建議決策 | Proceed with Guardrails |
 
 ---
@@ -91,19 +91,27 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第027194號 | 美偌琳膜衣錠 | 膜衣錠 | 避孕。 |
-| 衛部藥製字第058638號 | 蜜止妊錠 | 錠劑 | 避孕。 |
-| 衛部藥輸字第028613號 | 母扶樂膜衣錠 | 膜衣錠 | 口服避孕劑。 |
-| 衛署藥輸字第016025號 | 母扶樂錠 | 錠劑 | 口服避孕劑 |
-| 衛署藥輸字第025503號 | 愛逸定膜衣錠 | 膜衣錠 | 避妊。 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin desogestrel-tw-license-combo-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：依 TFDA 許可證資料，上表 5 張都是 desogestrel＋ethinylestradiol（炔雌醇）複方口服避孕藥，不是 desogestrel 單方；其中衛署藥輸字第016025號「母扶樂錠」已於 2019-01-18 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Desogestrel 的不重複許可證共 **9 張**：有效單方 0 張、有效複方 6 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end desogestrel-tw-license-combo-2026-10-03 -->
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（6 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第048386號 | "永信" 息妊佳錠 | DESOGESTREL、2% ETHINYL ESTRADIOL TRITURATION | 錠劑 | 避妊。 |
+| 衛署藥輸字第018424號 | 美適儂錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 錠劑 | 避孕 |
+| 衛署藥輸字第025503號 | 愛逸定膜衣錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 膜衣錠 | 避妊。 |
+| 衛部藥製字第058638號 | 蜜止妊錠 | DESOGESTREL、Ethinyl estradiol | 錠劑 | 避孕。 |
+| 衛部藥輸字第027194號 | 美偌琳膜衣錠 | DESOGESTREL、ETHINYLESTRADIOL MICRONIZED | 膜衣錠 | 避孕。 |
+| 衛部藥輸字第028613號 | 母扶樂膜衣錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 膜衣錠 | 口服避孕劑。 |
+
+<details><summary><strong>已註銷</strong>（3 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012690號</td><td>母扶樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>1987/10/19</td></tr><tr><td>衛署藥輸字第016025號</td><td>母扶樂錠</td><td>DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T…</td><td>2019/01/18</td></tr><tr><td>衛署藥輸字第025375號</td><td>可若絲膚錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2022/07/07</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -147,7 +155,7 @@ Desogestrel 的孕激素機轉與閉經的病理生理具有合理的荷爾蒙�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表皆為複方，母扶樂錠已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表皆為複方，母扶樂錠已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

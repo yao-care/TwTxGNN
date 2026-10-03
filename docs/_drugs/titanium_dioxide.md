@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**藥物誘發的骨質疏鬆 (drug-induced osteop
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L5 |
 | 台灣上市 | ✗ 已註銷 |
-| 許可證數 | 8 張 |
+| 許可證數 | 7 張（有效單方 0／有效複方 2／已註銷 5） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -63,19 +63,23 @@ TxGNN 模型預測它可能對**藥物誘發的骨質疏鬆 (drug-induced osteop
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥輸字第000977號 | 二氧化鈦糊劑 | 糊劑 | 外用抗刺激劑 |
-| 內衛藥輸字第000504號 | 二氧化鈦 | （粉） | 保護劑 |
-| 衛署藥輸字第012421號 | 二氧化鈦 | （粉） | 局部保護劑 |
-| 衛署藥輸字第019682號 | 達帕氏通膠囊 | 膠囊劑 | 帕金森氏病 |
-| 衛署藥製字第028922號 | 富腦膠囊４００毫克（披喇瑟盪） | 膠囊劑 | 對腦血管障礙及老化所引起之智力障礙可能有效 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin titanium-dioxide-tw-license-excipient-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：表中「達帕氏通膠囊」（levodopa）與「富腦膠囊」（piracetam）的適應症屬於主藥，二氧化鈦在這兩張證裡應是膠囊殼成分（富腦膠囊主成分欄同列明膠、月桂基硫酸鈉），不是二氧化鈦本身的作用。富腦膠囊在資料集中未列為已註銷，有效日期 2025/02/25 已過。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Titanium Dioxide 的不重複許可證共 **7 張**：有效單方 0 張、有效複方 2 張、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end titanium-dioxide-tw-license-excipient-2026-10-03 -->
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第029248號 | 生達綜合感冒膠囊 | NEW COCCINE、DEXTROMETHORPHAN HBR、CHLORPHENIRAMINE MALEATE、TI… | 膠囊劑 | 感冒諸症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、咳嗽、畏寒、發燒、頭痛、關節痛、肌肉痛等）之緩解。 |
+| 衛署藥輸字第012019號 | 欣若維豐膠囊 | RIBOFLAVIN (VIT B2)、WAX WHITE、SOYBEAN OIL ( EQ TO SOYA BEAN… | 膠囊劑 | 營養不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給 |
+
+<details><summary><strong>已註銷</strong>（5 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第000504號</td><td>二氧化鈦</td><td>TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>2005/06/16</td></tr><tr><td>內衛藥輸字第000977號</td><td>二氧化鈦糊劑</td><td>TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>1986/03/15</td></tr><tr><td>衛署藥製字第036023號</td><td>多維鋅膜衣錠</td><td>PYRIDOXINE HCL、NIACINAMIDE (NICOTINAMIDE)、FOLIC ACID、RIBOFLA…</td><td>2014/05/15</td></tr><tr><td>衛署藥輸字第012421號</td><td>二氧化鈦</td><td>TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>1994/06/27</td></tr><tr><td>衛署藥輸字第019682號</td><td>達帕氏通膠囊</td><td>LEVODOPA、TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>2000/10/20</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 
@@ -101,7 +105,7 @@ TxGNN 模型預測它可能對**藥物誘發的骨質疏鬆 (drug-induced osteop
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 台灣上市資訊表的達帕氏通膠囊、富腦膠囊 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市資訊表的達帕氏通膠囊、富腦膠囊 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

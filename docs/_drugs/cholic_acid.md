@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對 **HIV 感染性疾病 (HIV infectious disease)** 
 | TxGNN 預測分數 | 99.79% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 10 張（有效單方 2／有效複方 2／已註銷 6） |
 | 建議決策 | Hold |
 
 <!-- review:begin cholic-acid-original-indication-2026-10-03 -->
@@ -99,19 +99,30 @@ Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥製字第004206號 | 得利膽錠 | 錠劑 | 膽石症、預防膽石症、助長維他命之吸收 |
-| 內衛藥輸字第004857號 | 脫氫膽酸 | （粉） | 利膽劑 |
-| 衛部藥陸輸字第000882號 | 去氧熊膽酸 | （粉） | 利膽藥 |
-| 內衛藥製字第002253號 | "大豐"舒肝膽錠50毫克 | 錠劑 | 膽固醇系膽結石之溶解、原發性膽道肝硬化（primary biliary cirrhosis, PBC）之肝功能改善 |
-| 內衛藥輸字第002380號 | 復膽利 | 錠劑 | 膽囊病、膽囊炎 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin cholic-acid-license-rows-other-bile-acids-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：上表 5 張許可證都不是 cholic acid：「得利膽錠」「脫氫膽酸」「復膽利」是 dehydrocholic acid（去氫膽酸）製劑且都已註銷，「去氧熊膽酸」「"大豐"舒肝膽錠」是 ursodeoxycholic acid（熊去氧膽酸）。Cholic acid 本身的有效許可證是罕藥「酷立酸膠囊」250 毫克／50 毫克（衛部罕藥輸字第000054、000055號）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cholic Acid 的不重複許可證共 **10 張**：有效單方 2 張、有效複方 2 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end cholic-acid-license-rows-other-bile-acids-2026-10-03 -->
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛部罕藥輸字第000054號 | 酷立酸 膠囊250毫克 | 膠囊劑 | 吉帝藥品股份有限公司 | 2028/06/06 | 治療由於單一酵素缺乏所造成之先天性膽酸 (cholic acid) 合成障礙。輔助治療過氧化體代謝異常（包括Zellweger spectrum disorders）病人呈現之肝病… |
+| 衛部罕藥輸字第000055號 | 酷立酸 膠囊50毫克 | 膠囊劑 | 吉帝藥品股份有限公司 | 2028/06/07 | 治療由於單一酵素缺乏所造成之先天性膽酸 (cholic acid) 合成障礙。輔助治療過氧化體代謝異常（包括Zellweger spectrum disorders）病人呈現之肝病… |
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 內衛藥製字第011108號 | "人生"胃立爽顆粒 | SODIUM COPPER CHLOROPHYLLIN、POLYMIGEL (AL.HYDROXIDE +CACO3 +… | 內服顆粒劑 | 急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍 |
+| 衛署藥製字第018650號 | 力保體康膠囊 | LECITHIN(LECITHOL)、VITAMIN B1 (NITRATE)、CYANOCOBALAMIN (VIT… | 膠囊劑 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給、維護肝臟正常功能 |
+
+<details><summary><strong>已註銷</strong>（6 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004256號</td><td>胃好實錠</td><td>SCOPOLIA EXTRACT、MAGNESIUM CARBONATE、CHOLIC ACID、BENACTYZINE…</td><td>2012/11/30</td></tr><tr><td>內衛藥輸字第003265號</td><td>利保力體片</td><td>PYRIDOXINE(VITAMIN B6)、NIACINAMIDE (NICOTINAMIDE)、PANTOTHENA…</td><td>1990/09/13</td></tr><tr><td>衛署藥製字第004579號</td><td>爽胃王顆粒</td><td>CHOLIC ACID、SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBO…</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第016203號</td><td>爽胃王錠</td><td>CHOLIC ACID、SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBO…</td><td>1999/09/06</td></tr><tr><td>衛署藥輸字第002730號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1988/09/02</td></tr><tr><td>衛署藥輸字第003007號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1999/09/22</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -159,7 +170,7 @@ Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究�
 |---------|------|------|------|
 | 2026-10-03 | 「在台灣以「得利膽錠」等多種品名上市」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原適應症」引自 dehydrocholic acid 製劑 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表所列皆非 cholic acid | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表所列皆非 cholic acid | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

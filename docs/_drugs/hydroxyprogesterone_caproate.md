@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 | TxGNN 預測分數 | 99.96% |
 | 證據等級 | L2 |
 | 台灣上市 | 有效許可證 |
-| 許可證數 | 多張（部分已註銷） |
+| 許可證數 | 16 張（有效單方 3／有效複方 0／已註銷 13） |
 | 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
@@ -83,10 +83,24 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥製字第005995號 | 確普榮注射液 | 注射劑 | 先兆流產、習慣流產、子宮機能性出血、痛經 |
-| 衛署藥製字第025803號 | 普寶胎注射液125毫克/毫升 | 注射劑 | 無月經、機能性子宮出血、切迫流產、習慣性流產 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Hydroxyprogesterone Caproate 的不重複許可證共 **16 張**：有效單方 3 張、有效複方 0 張、已註銷 13 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（3 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第005995號 | 確普榮注射液 | 注射劑 | 生達化學製藥股份有限公司 | 2030/03/11 | 先兆流產、習慣流產、子宮機能性出血、痛經、月經因難 |
+| 衛署藥製字第015908號 | "台裕"已醯羥化黃體素注射液 | 注射劑 | 台裕化學製藥廠股份有限公司 | 2028/11/11 | 迫切性流產、無月經、習慣性流產、機能性子宮出血、無卵性卵巢失調症 |
+| 衛署藥製字第025803號 | 普寶胎注射液125毫克/毫升 | 注射劑 | 一成藥品股份有限公司 | 2028/05/25 | 無月經、機能性子宮出血、黃體機能不全之不妊症、切迫流產、習慣性流產 |
+
+<details><summary><strong>已註銷</strong>（13 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第000133號</td><td>持續性保路通注射液２５０公絲</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>2000/09/18</td></tr><tr><td>衛署藥製字第000505號</td><td>持續性保路通注射液１２５公絲</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第002666號</td><td>保胎必安注射液</td><td>HYDROXYPROGESTERONE CAPROATE、ESTRADIOL VALERATE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第015274號</td><td>愛樂通注射液（已醯羥化黃體素）</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>2002/04/18</td></tr><tr><td>衛署藥輸字第001013號</td><td>己酸羥基黃体素</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>2006/05/23</td></tr><tr><td>衛署藥輸字第001379號</td><td>已酸孕固醇</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>1992/04/17</td></tr><tr><td>衛署藥輸字第002830號</td><td>保母止血通注射液２５０公絲</td><td>HYDROXYPROGESTERONE CAPROATE、ESTRADIOL BENZOATE</td><td>1998/12/18</td></tr><tr><td>衛署藥輸字第006480號</td><td>尤補勞卡注射液</td><td>ESTRADIOL VALERATE、HYDROXYPROGESTERONE CAPROATE</td><td>1988/06/24</td></tr><tr><td>衛署藥輸字第009646號</td><td>補爾健隆黃體注射液</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>1994/01/27</td></tr><tr><td>衛署藥輸字第011168號</td><td>得汝寧注射液</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第011900號</td><td>持續性普保胎注射液</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>2022/06/20</td></tr><tr><td>衛署藥輸字第012018號</td><td>舒經得保注射液</td><td>HYDROXYPROGESTERONE CAPROATE、ESTRADIOL DIPROPIONATE</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第022787號</td><td>菩如錦　注射液</td><td>HYDROXYPROGESTERONE CAPROATE</td><td>2014/01/27</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 

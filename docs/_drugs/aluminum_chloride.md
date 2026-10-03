@@ -44,7 +44,7 @@ Aluminum chloride 主要用作止汗劑和牙科止血劑，TxGNN 預測其可�
 | TxGNN 預測分數 | 0.997（脂漏性角化症）、0.996（脂漏性皮膚炎） |
 | 證據等級 | L3-L4（有文獻支持，多汗症治療） |
 | 台灣上市 | 已上市 |
-| 許可證數 | 4 張（目前有效 1 張） |
+| 許可證數 | 4 張（有效單方 1／有效複方 0／已註銷 3） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -83,18 +83,22 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
-|---------|------|------|-----------|------|
-| 衛署藥製字第043123號 | 克狐止汗劑（汎生） | 外用液劑 | 抗多汗 | 有效 |
-| 衛署藥輸字第009331號 | 牙齦止血液 | 牙科用液劑 | 牙齦止血 | 已註銷 |
-| 衛署藥輸字第009332號 | 牙齦收縮止血劑 | 壓排線劑 | 牙齦止血 | 已註銷 |
-| 內衛藥製字第009014號 | 純露糖漿 | 糖漿劑 | 緩解感冒症狀 | 已註銷 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin aluminum-chloride-combo-rows-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：上表「牙齦止血液」「牙齦收縮止血劑」是 aluminum chloride 加 oxyquinoline sulfate（後者再加 lidocaine）的牙科複方；「純露糖漿」是 chlorpheniramine maleate、aluminum chloride、potassium guaiacolsulfonate 的感冒糖漿，緩解感冒症狀的適應症來自抗組織胺與祛痰成分，不是 aluminum chloride 本身。三張都已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Aluminum Chloride 的不重複許可證共 **4 張**：有效單方 1 張、有效複方 0 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end aluminum-chloride-combo-rows-2026-10-03 -->
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第043123號 | 克狐　止汗劑〝汎生〞 | 外用液劑 | 臺灣汎生製藥廠股份有限公司 | 2029/07/23 | 抗多汗。 |
+
+<details><summary><strong>已註銷</strong>（3 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第009014號</td><td>純露糖漿</td><td>CHLORPHENIRAMINE MALEATE、ALUMINUM CHLORIDE、POTASSIUM GUAIACO…</td><td>2023/07/24</td></tr><tr><td>衛署藥輸字第009331號</td><td>牙齦止血液</td><td>ALUMINUM CHLORIDE HYDRATED、OXYQUINOLINE SULFATE</td><td>1987/08/29</td></tr><tr><td>衛署藥輸字第009332號</td><td>牙齦收縮止血劑</td><td>ALUMINUM CHLORIDE HYDRATED、OXYQUINOLINE SULFATE、LIDOCAINE</td><td>1987/08/29</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **目前有效許可證持有者**：臺灣汎生製藥廠股份有限公司
 
@@ -144,7 +148,7 @@ TxGNN 預測的新適應症（脂漏性角化症、脂漏性皮膚炎）缺乏�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表「牙齦止血液」「牙齦收縮止血劑」「純露糖漿」三列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「牙齦止血液」「牙齦收縮止血劑」「純露糖漿」三列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

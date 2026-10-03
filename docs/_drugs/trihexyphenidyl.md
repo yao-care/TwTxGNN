@@ -103,19 +103,35 @@ Trihexyphenidyl 是一種抗膽鹼藥物，主要用於治療帕金森氏症，T
 
 ## 台灣上市資訊
 
-### 有效許可證
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-| 許可證字號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |
-|------------|----------|------|--------------|------|
-| 衛部藥輸字第027669號 | 鹽酸三己苯尼迪 | 原料藥 | 新雙隆生技 | 2029/05/20 |
-| 衛署藥製字第038846號 | 班若舒錠2毫克 | 錠劑 | 利達製藥 | 2030/05/15 |
-| 衛署藥製字第031036號 | 亞典內用液 | 內服液劑 | 恆信藥品 | 2028/08/30 |
-| 衛署藥製字第035794號 | 約克亞坦錠 | 錠劑 | 約克製藥 | 2027/10/13 |
-| 衛署藥製字第039597號 | 瑞士瑞丹錠2毫克 | 錠劑 | 瑞士藥廠 | 2030/12/04 |
-| 衛署藥製字第040977號 | 瑞丹錠5公絲 | 錠劑 | 瑞士藥廠 | 2027/03/21 |
-| 衛署藥製字第035966號 | 帕律丹錠5公絲 | 錠劑 | 中國化學製藥 | 2027/12/08 |
-| 衛署藥製字第035967號 | 帕律丹錠2公絲 | 錠劑 | 中國化學製藥 | 2027/12/08 |
-| 衛署藥製字第042142號 | 雅丹甜酏 | 內服液劑 | 汎生製藥 | 2028/04/16 |
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Trihexyphenidyl 的不重複許可證共 **35 張**：有效單方 14 張、有效複方 0 張、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（14 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第031036號 | 亞典內用液（耑和費定） | 內服液劑 | 恆信藥品有限公司 | 2028/08/30 | 帕金森氏症候群 |
+| 衛署藥製字第035355號 | "瑪科隆"帕金鎮錠５毫克（耑和費定) | 錠劑 | 盛雲藥品股份有限公司 | 2027/06/13 | 帕金森氏症候群。 |
+| 衛署藥製字第035794號 | "約克"亞坦錠 | 錠劑 | 約克製藥股份有限公司 | 2027/10/13 | 帕金森氏症侯群。 |
+| 衛署藥製字第035966號 | 帕律丹錠５公絲（耑和費定） | 錠劑 | 中國化學製藥股份有限公司新豐工廠 | 2027/12/08 | 帕金森氏症侯群。 |
+| 衛署藥製字第035967號 | 帕律丹錠２公絲（耑和費定） | 錠劑 | 中國化學製藥股份有限公司新豐工廠 | 2027/12/08 | 帕金森氏症候群。 |
+| 衛署藥製字第037712號 | "瑪科隆"帕金鎮錠２毫克（耑和費定） | 錠劑 | 盛雲藥品股份有限公司 | 2029/06/29 | 帕金森氏症候群． |
+| 衛署藥製字第038846號 | 班若舒錠２毫克（耑和費定） | 錠劑 | 利達製藥股份有限公司 | 2030/05/15 | 帕金森氏症候群 |
+| 衛署藥製字第038847號 | "利達"班若舒錠５毫克（耑和費定） | 錠劑 | 利達製藥股份有限公司 | 2030/05/15 | 帕金森氏症候群 |
+| 衛署藥製字第039597號 | "瑞士"瑞丹錠２毫克（耑和費定） | 錠劑 | 瑞士藥廠股份有限公司 | 2030/12/04 | 帕金森氏症候群 |
+| 衛署藥製字第040977號 | 瑞丹錠５公絲（耑和費定） | 錠劑 | 瑞士藥廠股份有限公司 | 2027/03/21 | 帕金森氏症候群。 |
+| 衛署藥製字第042142號 | 雅丹甜酏０．４公絲/公撮（鹽酸三氟苯塞井）〝汎生〞 | 內服液劑 | 臺灣汎生製藥廠股份有限公司 | 2028/04/16 | 帕金森氏症候群。 |
+| 衛署藥輸字第010249號 | 顫立靜錠２公絲 | 錠劑 | 臺灣美強股份有限公司 | 2003/06/15 | 帕金森氏症候群 |
+| 衛署藥輸字第010250號 | 顫立靜錠５公絲 | 錠劑 | 臺灣美強股份有限公司 | 2003/06/15 | 帕金森氏症候群 |
+| 衛部藥輸字第027669號 | 鹽酸三己苯尼迪 | （粉） | 新雙隆生技股份有限公司 | 2029/05/20 | 副交感神經抑制藥 |
+
+<details><summary><strong>已註銷</strong>（21 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第003944號</td><td>阿丹片５公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2020/08/18</td></tr><tr><td>內衛藥製字第003947號</td><td>阿丹錠２毫克</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2020/08/18</td></tr><tr><td>內衛藥輸字第002840號</td><td>阿丹粉</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1985/12/02</td></tr><tr><td>內衛藥輸字第007665號</td><td>都利片</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1986/06/20</td></tr><tr><td>衛署藥製字第009006號</td><td>阿丹適時膠囊５公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)、TRIHEXYP…</td><td>1995/07/11</td></tr><tr><td>衛署藥製字第031451號</td><td>"強生"苯赫索錠５毫克（耑和費定）</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2026/09/07</td></tr><tr><td>衛署藥輸字第001390號</td><td>阿丹鹽酸鹽</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1993/06/19</td></tr><tr><td>衛署藥輸字第001394號</td><td>著衣阿丹鹽酸鹽</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1993/06/19</td></tr><tr><td>衛署藥輸字第005399號</td><td>巴金寧斯錠</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005693號</td><td>撲顫錠２公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第005694號</td><td>撲顫錠５公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第007000號</td><td>驅爾痙錠５公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第007396號</td><td>驅爾痙錠２公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第010559號</td><td>保能康錠２公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1999/10/15</td></tr><tr><td>衛署藥輸字第011641號</td><td>鹽酸苯環比醇粉劑〝阿奇馬斯〞</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第014406號</td><td>阿丹</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1994/03/14</td></tr><tr><td>衛署藥輸字第019506號</td><td>寶爾惠舒錠５公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第019592號</td><td>鹽酸苯環比醇</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第021049號</td><td>阿丹錠５公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第021050號</td><td>阿丹錠２公絲</td><td>TRIHEXYPHENIDYL HCL (EQ TO BENZHEXOL HYDROCHLORIDE)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第025969號</td><td>鹽酸三己苯尼迪</td><td>Trihexyphenidyl Hydrochloride.</td><td>2019/03/13</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

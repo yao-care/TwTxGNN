@@ -48,7 +48,7 @@ TxGNN 模型預測它可能對 **Prinzmetal 心絞痛 (Prinzmetal angina)** 有�
 | TxGNN 預測分數 | 99.81% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 19 張 |
+| 許可證數 | 14 張（有效單方 1／有效複方 0／已註銷 13） |
 | 建議決策 | Hold |
 
 ---
@@ -83,19 +83,22 @@ Fluorescein 對冠狀動脈平滑肌、血管痙攣或相關訊號傳遞路徑�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥輸字第006158號 | 螢紅鈉 | （粉） | 診斷試劑 |
-| 衛署藥輸字第000616號 | 復露條－Ａ．Ｔ． | 眼用條狀劑 | 張力測驗、眼球檢查時之消毒、眼科手術之消毒 |
-| 衛署藥輸字第006450號 | 複樂力淨診斷用注射劑１０％Ｗ/Ｖ | 注射劑 | 螢光造影劑 |
-| 衛署藥輸字第001090號 | 螢光紅 | （粉） | 外用色素 |
-| 衛署藥輸字第017676號 | ２％服攝得點眼液 | 點眼液劑 | 檢查眼內壓及角膜病變 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin fluorescein-tw-license-cancelled-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：依 TFDA 許可證資料，上表 5 張許可證全部已註銷；fluorescein 目前唯一有效的許可證是衛署藥輸字第025806號「"愛爾康"服攝得注射劑10%」（Fluorescite，血管造影劑）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Fluorescein 的不重複許可證共 **14 張**：有效單方 1 張、有效複方 0 張、已註銷 13 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end fluorescein-tw-license-cancelled-2026-10-03 -->
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥輸字第025806號 | "愛爾康"服攝得注射劑10% | 注射劑 | 瑞士商愛爾康大藥廠股份有限公司台灣分公司 | 2027/08/27 | 血管造影劑。 |
+
+<details><summary><strong>已註銷</strong>（13 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第006158號</td><td>螢紅鈉</td><td>FLUORESCEIN SODIUM (URANIN)(URANIN YELLOW)</td><td>1985/10/16</td></tr><tr><td>衛署藥輸字第000616號</td><td>復露條－Ａ．Ｔ．</td><td>FLUORESCEIN SODIUM (URANIN)(URANIN YELLOW)</td><td>1986/06/16</td></tr><tr><td>衛署藥輸字第001090號</td><td>螢光紅</td><td>FLUORESCEIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第003874號</td><td>服攝得注射劑１０％</td><td>FLUORESCEIN (SODIUM)、SODIUM BICARBONATE ( EQ TO SODIUM HYDRO…</td><td>1986/07/08</td></tr><tr><td>衛署藥輸字第006450號</td><td>複樂力淨診斷用注射劑１０％Ｗ/Ｖ</td><td>FLUORESCEIN SODIUM (URANIN)(URANIN YELLOW)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第014228號</td><td>螢紅鈉</td><td>FLUORESCEIN SODIUM (URANIN)(URANIN YELLOW)</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第014877號</td><td>服攝得注射劑１０％</td><td>FLUORESCEIN</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第017676號</td><td>２％服攝得點眼液</td><td>SODIUM HYDROXIDE、FLUORESCEIN</td><td>1997/06/07</td></tr><tr><td>衛署藥輸字第019218號</td><td>愛爾康服攝得注射劑　１０％</td><td>FLUORESCEIN</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第019617號</td><td>服攝得注射劑〝愛爾康〞</td><td>HYDROCHLORIC ACID、WATER FOR INJECTION、FLUORESCEIN</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第022242號</td><td>服攝得點眼液２％</td><td>FLUORESCEIN SODIUM (URANIN)(URANIN YELLOW)</td><td>2016/05/31</td></tr><tr><td>衛署藥輸字第024616號</td><td>服攝得注射劑10%</td><td>FLUORESCEIN</td><td>2019/03/22</td></tr><tr><td>衛署藥輸字第024943號</td><td>服眼欣注射劑</td><td>FLUORESCEIN SODIUM (URANIN)(URANIN YELLOW)</td><td>2020/04/07</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -126,7 +129,7 @@ Fluorescein 為純診斷性惰性染料，缺乏任何藥理活性或治療機�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「在體內幾乎不被代謝即原形排出」 | 更正 | [DailyMed：FLUORESCITE（fluorescein injection, USP）10% 美國仿單 §12.3](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9) |
-| 2026-10-03 | 許可證表 5 張全數已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表 5 張全數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

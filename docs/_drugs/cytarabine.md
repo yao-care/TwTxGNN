@@ -119,6 +119,25 @@ Cytarabine 的抗腫瘤機轉支持其對多種惡性腫瘤的潛在活性：
 
 ## 台灣上市資訊
 
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cytarabine 的不重複許可證共 **17 張**：有效單方 3 張、有效複方 0 張、已註銷 14 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（3 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥輸字第001879號 | 賽德薩注射劑500毫克 | 注射劑 | 輝瑞大藥廠股份有限公司 | 2028/12/04 | 急性顆粒白血病及其他急性白血病 |
+| 衛署藥輸字第025603號 | 思得靈注射液 | 注射劑 | 台灣費森尤斯卡比股份有限公司 | 2027/01/11 | 抗腫瘤劑。 |
+| 衛部藥輸字第028975號 | 阿糖胞苷 | （粉） | 台灣荃新股份有限公司 | 2030/06/16 | 抗腫瘤劑。 |
+
+<details><summary><strong>已註銷</strong>（14 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第001663號</td><td>基羅塞注射液６０公絲</td><td>CYTARABINE</td><td>2007/06/23</td></tr><tr><td>衛署藥輸字第001664號</td><td>基羅塞注射液２０公絲</td><td>CYTARABINE</td><td>2007/06/23</td></tr><tr><td>衛署藥輸字第001878號</td><td>賽德薩注射劑100毫克</td><td>CYTARABINE</td><td>2019/09/25</td></tr><tr><td>衛署藥輸字第008379號</td><td>生答命注射液</td><td>CYTARABINE</td><td>1997/05/31</td></tr><tr><td>衛署藥輸字第015503號</td><td>賽達命注射劑</td><td>CYTARABINE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015598號</td><td>賽達命注射劑５００公絲/１０公撮</td><td>CYTARABINE</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第018002號</td><td>賽德薩滅菌粉注射劑２公克</td><td>CYTARABINE</td><td>2004/12/16</td></tr><tr><td>衛署藥輸字第018023號</td><td>賽德薩滅菌粉１公克</td><td>CYTARABINE</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第019994號</td><td>斯德律比注射液</td><td>CYTARABINE</td><td>1997/06/30</td></tr><tr><td>衛署藥輸字第020132號</td><td>賽達命注射液１００公絲/公撮</td><td>CYTARABINE</td><td>1997/09/02</td></tr><tr><td>衛署藥輸字第021695號</td><td>"賽達命" 注射液１００公絲／公撮</td><td>CYTARABINE</td><td>2017/11/07</td></tr><tr><td>衛署藥輸字第021721號</td><td>斯德律比注射液</td><td>CYTARABINE</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第023963號</td><td>賽達拉敏注射液</td><td>CYTARABINE</td><td>2018/06/07</td></tr><tr><td>衛部藥輸字第028018號</td><td>賽達賓注射液100毫克/毫升</td><td>CYTARABINE</td><td>2025/08/25</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
+
 Cytarabine 在台灣主要以下列形式使用：
 
 | 用途 | 藥品 | 說明 |

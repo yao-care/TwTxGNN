@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 | TxGNN 預測分數 | 99.93% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 多張（含複方製劑） |
+| 許可證數 | 20 張（有效單方 0／有效複方 1／已註銷 19） |
 | 建議決策 | 可進一步探索 |
 
 <!-- review:begin silicon_dioxide-antacid-combo-2026-10-03 -->
@@ -88,17 +88,22 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
-|---------|------|------|-----------|------|
-| - | 息速坦腸溶糖衣錠100公絲 | 錠劑 | 急慢性支氣管炎、支氣管擴張症、感冒、副鼻腔炎之排膿 | - |
-| - | 含 Silicon Dioxide 之複方制酸劑 | 多種 | 胃酸過多、胃灼熱、胃膨滿 | 有效 |
-| - | 含 Silicon Dioxide 之賦形劑 | 粉/錠劑 | 賦形劑、製錠輔助劑 | 有效 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin silicon_dioxide-mecysteine-combo-row-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：「息速坦腸溶糖衣錠100公絲」是二氧化矽＋mecysteine（半胱胺酸甲酯）複方，支氣管炎排痰的適應症屬於 mecysteine，不是二氧化矽；該證（衛署藥製字第033025號）已於 1998-08-17 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Silicon Dioxide 的不重複許可證共 **20 張**：有效單方 0 張、有效複方 1 張、已註銷 19 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end silicon_dioxide-mecysteine-combo-row-2026-10-03 -->
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥輸字第024482號 | 二矽酸鋁鎂 | ALUMINUM OXIDE (ALUMINA)、ALUMINUM MAGNESIUM SILICATE、SILICON… | （粉） | 制酸劑。 |
+
+<details><summary><strong>已註銷</strong>（19 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第023669號</td><td>美爾胃膠囊（斯比樂）”大同”　　　　　　　　　　　　　　　　 S</td><td>SULPIRIDE、SILICON DIOXIDE (SILICA GEL)</td><td>1989/11/28</td></tr><tr><td>衛署藥製字第029865號</td><td>佳樂心膠囊２００公絲（歐轉惠寧）</td><td>OXTRIPHYLLINE、SILICON DIOXIDE (SILICA GEL)</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第030558號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>SILICON DIOXIDE (SILICA GEL)、MECYSTEINE HCL (CYSTEINE L- MET…</td><td>1990/12/14</td></tr><tr><td>衛署藥製字第033025號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>SILICON DIOXIDE (SILICA GEL)、MECYSTEINE HCL (CYSTEINE L- MET…</td><td>1998/08/17</td></tr><tr><td>衛署藥製字第036028號</td><td>喜滿佳靈－愛（矽酸鎂鋁）</td><td>SILICON DIOXIDE (SILICA GEL)、ALUMINUM OXIDE (ALUMINA)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第036030號</td><td>喜滿佳靈（偏矽酸鎂鋁）</td><td>ALUMINUM OXIDE (ALUMINA)、SILICON DIOXIDE (SILICA GEL)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第002867號</td><td>製錠輔助劑Ｔ型</td><td>CARMELLOSE (CARBOXYMETHYLCELLULOSE)、CELLULOSE、SILICON DIOXID…</td><td>1986/01/16</td></tr><tr><td>衛署藥輸字第002868號</td><td>製錠輔助劑克型</td><td>CARMELLOSE (CARBOXYMETHYLCELLULOSE)、STARCH、CELLULOSE、MAGNESI…</td><td>1986/06/03</td></tr><tr><td>衛署藥輸字第006893號</td><td>矽酸</td><td>SILICON DIOXIDE (SILICA GEL)</td><td>1992/07/09</td></tr><tr><td>衛署藥輸字第011812號</td><td>適胃爽錠</td><td>MAGNESIUM TRISILICATE、MAGNESIUM HYDROXIDE、CALCIUM CARBONATE…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第012366號</td><td>矽凝膠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第013408號</td><td>利護腸錠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)、SIMETHICONE (ACT…</td><td>1988/03/12</td></tr><tr><td>衛署藥輸字第013587號</td><td>舒汝胃凝膠</td><td>CARMELLOSE SODIUM (CMC SOD.)(CELLULOSE GUM SOD.)、CALCIUM CAR…</td><td>1991/11/26</td></tr><tr><td>衛署藥輸字第014632號</td><td>製錠輔助劑Ｄ型</td><td>SILICON DIOXIDE (SILICA GEL)、CARMELLOSE (CARBOXYMETHYLCELLUL…</td><td>1990/06/23</td></tr><tr><td>衛署藥輸字第016328號</td><td>利護腸錠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)、SIMETHICONE (ACT…</td><td>1990/07/04</td></tr><tr><td>衛署藥輸字第017858號</td><td>利護腸錠</td><td>CALCIUM ARACHINATE、SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILIC…</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017958號</td><td>製錠輔助劑Ｄ型</td><td>CELLULOSE、SILICON DIOXIDE (SILICA GEL)、MAGNESIUM STEARATE (E…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018615號</td><td>"富田" 二矽酸鋁鎂</td><td>ALUMINUM MAGNESIUM SILICATE、SILICON DIOXIDE (SILICA GEL)、ALU…</td><td>2017/04/12</td></tr><tr><td>衛署藥輸字第022252號</td><td>高品安利納華陀錠</td><td>DEHYDROACETATE SODIUM、RIBOFLAVIN (VIT B2)、CALCIUM CARBONATE…</td><td>2010/09/21</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 （註：Silicon Dioxide 多作為複方成分或賦形劑使用）
 
@@ -136,7 +141,7 @@ TxGNN 預測的消化性潰瘍適應症與 Silicon Dioxide 相關化合物的制
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表「息速坦腸溶糖衣錠100公絲」列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「息速坦腸溶糖衣錠100公絲」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原適應症」的制酸劑、胃酸過多來自複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

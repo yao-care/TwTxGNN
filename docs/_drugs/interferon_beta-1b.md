@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對 **Hairy Cell Leukemia** (毛細胞白血病) 有�
 | TxGNN 預測分數 | 99.16% |
 | 證據等級 | L3 |
 | 台灣上市 | 曾上市，唯一許可證已於 2026-06-08 註銷 |
-| 許可證數 | 1 張(3筆重複記錄) |
+| 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
 | 建議決策 | Consider |
 
 <!-- review:begin interferon-beta-1b-license-cancelled-2026-10-03 -->
@@ -87,9 +87,16 @@ Interferon Beta-1b 是一種第一型干擾素，具有免疫調節和抗增殖�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署菌疫輸字第000601號 | 貝他費隆注射劑 | 凍晶注射劑 | 反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Interferon Beta-1B 的不重複許可證共 **1 張**：有效單方 0 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署菌疫輸字第000601號</td><td>貝他費隆　注射劑</td><td>INTERFERON BETA-1B</td><td>2026/06/08</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 

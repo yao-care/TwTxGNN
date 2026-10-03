@@ -14,6 +14,8 @@
   annotate  原文不動，在 claim 所在段落（或表格）後加「查核加註」。
   rereview  在 anchor 所在段落後加「待重審」標記（預測本身與證據等級不改）。
   section   在 before 指定的標題前插入一整段 markdown（附來源的作用機轉段）。
+紀錄的 status 為 superseded（錨點落在已改由程式產生的許可證表或張數上）時：紀錄保留、
+頁面不再顯示它的框，查核紀錄表仍列出並註明「已由程式化許可證表取代」。
 每頁另在「免責聲明」前產生「查核紀錄」表，列出該頁全部紀錄。
 
 用法：
@@ -141,10 +143,29 @@ def log_md(recs):
     rows = ["| 查核日期 | 項目 | 處理 | 依據 |", "|---------|------|------|------|"]
     for r in recs:
         item = r.get("summary") or display(r["claim"])
-        rows.append(f"| {r['checked']} | {item} | {ACTION_ZH[r['action']]} | {sources_md(r)} |")
+        act = ACTION_ZH[r["action"]]
+        if r.get("status") == "superseded":
+            act = f"已由程式化許可證表取代（原為{act}）"
+        rows.append(f"| {r['checked']} | {item} | {act} | {sources_md(r)} |")
     intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
              "更正只限基本藥理事實，模型預測、證據等級與結論未改寫。")
     return f"{begin('log')}\n\n## 查核紀錄\n\n{intro}\n\n" + "\n".join(rows) + f"\n\n{end('log')}\n\n"
+
+
+def apply_text(text, fname):
+    """記憶體內套用某頁的紀錄（產線寫頁前用）。回傳 (新內容, 問題清單)。"""
+    recs = [r for r in load() if r["file"] == fname]
+    if not recs:
+        return text, []
+    problems = []
+    for _ in range(4):
+        local = []
+        nxt = render_page(text, recs, local)
+        if nxt == text:
+            break
+        text = nxt
+    problems.extend(local)
+    return text, problems
 
 
 def apply_page(path, recs, problems):
@@ -166,6 +187,8 @@ def render_page(text, recs, problems):
     # 會被 B 紀錄誤認成頁面原文。
     text = re.sub(r"\n*<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->\n*", "\n\n", text, flags=re.S)
     for r in recs:
+        if r.get("status") == "superseded":
+            continue  # 錨點所在的許可證表／張數已由程式化區塊取代：紀錄保留、頁面不再顯示框
         text = apply_record(text, r, problems)
     m = re.search(r"^## 免責聲明", text, re.M)
     log = log_md(recs)

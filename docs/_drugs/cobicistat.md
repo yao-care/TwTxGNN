@@ -90,11 +90,21 @@ Cobicistat 的所有文獻都聚焦於其藥動學增強作用，而非直接治
 
 ## 台灣上市資訊
 
-| 許可證字號 | 商品名 | 成分組成 | 適應症 | 狀態 |
-|------------|--------|----------|--------|------|
-| 衛部藥輸字第027613號 | 信澤力膜衣錠 (Symtuza) | Darunavir + Cobicistat + Emtricitabine + Tenofovir alafenamide | HIV-1 感染 | 有效 |
-| 衛部藥輸字第027001號 | 捷扶康膜衣錠 (Genvoya) | Elvitegravir + Cobicistat + Emtricitabine + Tenofovir alafenamide | HIV-1 感染 | 有效 |
-| 衛部藥輸字第027263號 | 普澤力膜衣錠 (Prezcobix) | Darunavir + Cobicistat | HIV-1 感染 | 有效 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cobicistat 的不重複許可證共 **3 張**：有效單方 0 張、有效複方 3 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、elvitegravir、EMTRI… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
+| 衛部藥輸字第027263號 | 普澤力膜衣錠 | DARUNAVIR ETHANOLATE、cobicistat | 膜衣錠 | 適用於與其他抗反轉錄病毒藥物併用，以治療 未曾接受治療及曾經接受治療且未發生darunavir抗藥性 相關取代（V11I、V32I、L33F、I47V、I50V、I54L、I54M… |
+| 衛部藥輸字第027613號 | 信澤力膜衣錠 | EMTRICITABINE、DARUNAVIR ETHANOLATE、cobicistat、tenofovir alaf… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
+
+<!-- tfda-licenses:end -->
 
 **重點**：Cobicistat 在台灣僅以複方形式上市，不作為單方藥品使用。
 

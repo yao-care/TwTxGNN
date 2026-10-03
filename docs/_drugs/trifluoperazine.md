@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective diso
 | TxGNN 預測分數 | 99.51% |
 | 證據等級 | L3 (有間接文獻證據) |
 | 台灣上市 | 已上市 |
-| 許可證數 | 47 張 |
+| 許可證數 | 44 張（有效單方 6／有效複方 0／已註銷 38） |
 | 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
@@ -75,12 +75,27 @@ Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥輸字第002368號 | 福路新1公絲 | 錠劑 | 意識運動機能亢進引起之急慢性精神病 |
-| 衛署藥製字第002672號 | 惠鎮寧糖衣錠 | 糖衣錠 | 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙 |
-| 衛署藥製字第032029號 | "強生"富祿靜膜衣錠5毫克 | 膜衣錠 | 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙 |
-| 衛署藥製字第035165號 | 福樂靜膠囊2公絲 | 膠囊劑 | 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Trifluoperazine 的不重複許可證共 **44 張**：有效單方 6 張、有效複方 0 張、已註銷 38 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（6 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第021490號 | "健康" 使特靜錠（塩酸三氟陪拉辛） | 錠劑 | 健康化學製藥股份有限公司 | 2028/05/25 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙 |
+| 衛署藥製字第024509號 | 福樂生膜衣錠５公絲（鹽酸三氟陪拉辛） | 膜衣錠 | 榮民製藥股份有限公司 | 2029/12/10 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙 |
+| 衛署藥製字第024833號 | 福樂生糖衣錠２公絲（鹽酸三氟陪拉辛） | 糖衣錠 | 榮民製藥股份有限公司 | 2030/02/12 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙 |
+| 衛署藥製字第027297號 | 樂利靜錠１０毫克（三氟陪拉辛） | 錠劑 | 臺灣汎生製藥廠股份有限公司 | 2029/07/22 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙 |
+| 衛署藥製字第032029號 | “強生”富祿靜膜衣錠５毫克（三氟苯口塞口井） | 膜衣錠 | 強生化學製藥廠股份有限公司 | 2029/12/23 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙 |
+| 衛署藥製字第035165號 | 福樂靜膠囊２公絲（三氟陪拉辛） | 膠囊劑 | 新喜國際企業股份有限公司 | 2031/04/30 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性行為之障礙。 |
+
+<details><summary><strong>已註銷</strong>（38 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第001740號</td><td>福路新糖衣錠二公絲</td><td>TRIFLUOPERAZINE</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第002368號</td><td>福路新１公絲</td><td>TRIFLUOPERAZINE</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第003127號</td><td>福路新５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第004476號</td><td>靜得唯安Ｓ</td><td>MEPHOBARBITAL (METHYL PHENOBARBITAL)、FLUPHENAZINE、NIACINAMID…</td><td>1999/09/22</td></tr><tr><td>內衛藥輸字第004776號</td><td>靜得唯安Ｎ</td><td>TRIFLUOPERAZINE、PEMOLINE (PHENYLPSEUDOHYDANTOINPHENYLISOHYDA…</td><td>1999/09/22</td></tr><tr><td>衛署藥製字第002601號</td><td>賜靜錠</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1991/04/26</td></tr><tr><td>衛署藥製字第002672號</td><td>惠鎮寧糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第003173號</td><td>惠鎮寧糖衣錠１０公絲</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第003174號</td><td>惠鎮寧糖衣錠５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第021201號</td><td>服靜糖衣錠（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2020/11/25</td></tr><tr><td>衛署藥製字第023466號</td><td>"十全"得安錠（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>2025/05/14</td></tr><tr><td>衛署藥製字第023640號</td><td>福樂靜膠囊（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>1992/10/01</td></tr><tr><td>衛署藥製字第024005號</td><td>得平靜膜衣錠２公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第025144號</td><td>使得寧糖衣錠１公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>1997/02/27</td></tr><tr><td>衛署藥製字第026648號</td><td>協得寧錠５公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2013/10/01</td></tr><tr><td>衛署藥製字第031186號</td><td>"十全"得安錠１０公絲（三氟陪拉辛）</td><td>TRIFLUOPERAZINE</td><td>2025/05/14</td></tr><tr><td>衛署藥製字第040467號</td><td>使得寧糖衣錠１公絲（鹽酸三氟苯塞井）</td><td>TRIFLUOPERAZINE HCL</td><td>1998/10/08</td></tr><tr><td>衛署藥輸字第002262號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第002681號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第006529號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第012459號</td><td>使得安靜膜衣錠１公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1995/05/18</td></tr><tr><td>衛署藥輸字第012460號</td><td>使得安靜持續性膠囊１５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012461號</td><td>使得安靜膜衣錠５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1994/08/03</td></tr><tr><td>衛署藥輸字第012462號</td><td>使得安靜注射劑１公絲/１公撮</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012463號</td><td>使得安靜膜衣錠２公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012464號</td><td>使得安靜膜衣錠１０公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012701號</td><td>使得安靜持續性藥效膠囊２公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1999/11/25</td></tr><tr><td>衛署藥輸字第012887號</td><td>使胃寧得錠</td><td>CALCIUM SULFATE (HYDRATED CALCIUM SULFATE)、TRIFLUOPERAZINE (…</td><td>1995/05/18</td></tr><tr><td>衛署藥輸字第015896號</td><td>三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>1999/07/02</td></tr><tr><td>衛署藥輸字第016868號</td><td>福心糖衣錠１０公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016912號</td><td>福心糖衣錠５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016922號</td><td>福心糖衣錠２公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016927號</td><td>福心糖衣錠１公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第018702號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018703號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018704號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018705號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第020487號</td><td>使得安靜膜衣錠５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2010/05/31</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 

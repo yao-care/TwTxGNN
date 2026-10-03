@@ -46,14 +46,8 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (drug-induced osteop
 | TxGNN 預測分數 | 99.31% |
 | 證據等級 | 無證據 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 1 張 |
+| 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Not Recommended |
-
-<!-- review:begin trastuzumab-deruxtecan-license-count-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「許可證數／6 張」。TFDA 許可證資料集中主成分為 trastuzumab deruxtecan 的許可證只有 1 張（衛部菌疫輸字第001179號 優赫得凍晶注射劑100毫克）；資料集另一張含 deruxtecan 的是 datopotamab deruxtecan（達卓優），不同成分。頁面寫 6 張有誤（同一張證有多筆資料列，可能因此重複計數）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end trastuzumab-deruxtecan-license-count-2026-10-03 -->
 
 ## 為什麼這個預測可能不合理？
 
@@ -75,9 +69,19 @@ Trastuzumab deruxtecan 是一種抗體藥物複合體 (ADC)，由抗 HER2 單株
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部菌疫輸字第001179號 | 優赫得凍晶注射劑100毫克 | 凍晶注射劑 | HER2 陽性/弱陽性轉移性乳癌、非小細胞肺癌、胃癌、其他 HER2 陽性實體腫瘤 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Trastuzumab Deruxtecan 的不重複許可證共 **1 張**：有效單方 1 張、有效複方 0 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛部菌疫輸字第001179號 | 優赫得凍晶注射劑100毫克 | 凍晶注射劑 | 台灣第一三共股份有限公司 | 2026/12/07 | 一、HER2 陽性早期乳癌(eBC)：本品之後接續使用THP (taxane 類藥物、trastuzumab及pertuzumab)，作為HER2陽性(IHC 3+ or ISH+… |
+
+<!-- tfda-licenses:end -->
 
 ## 細胞毒性
 
@@ -122,7 +126,7 @@ Trastuzumab deruxtecan 是一種抗體藥物複合體 (ADC)，由抗 HER2 單株
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 快速總覽「許可證數：6 張」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 快速總覽「許可證數：6 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

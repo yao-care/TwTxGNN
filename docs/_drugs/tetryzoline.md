@@ -44,14 +44,8 @@ Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成�
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L4 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 61 張（29 張未註銷，多為複方眼藥水） |
+| 許可證數 | 6 張（有效單方 0／有效複方 5／已註銷 1） |
 | 建議決策 | Hold |
-
-<!-- review:begin tetryzoline-license-count-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「許可證數／5 張（4 張有效）」。TFDA 許可證資料集中主成分含 tetryzoline（tetrahydrozoline）的許可證共 61 張，其中 29 張未註銷，絕大多數是複方眼藥水（頁面所列 4 張也都是複方）；頁面寫 5 張（4 張有效）有誤。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end tetryzoline-license-count-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -74,12 +68,26 @@ Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部藥製字第058779號 | 睛釆眼藥水 | 點眼液劑 | 過敏性結膜炎，眼瞼緣炎，角膜炎 |
-| 衛部藥輸字第026530號 | 樂敦藍視光極禦眼藥水 | 點眼液劑 | 暫時緩解眼部刺激、眼睛紅、癢、疲勞 |
-| 衛部藥輸字第026773號 | 參天沁涼眼藥水 | 點眼液劑 | 暫時緩解眼部刺激、眼睛紅、癢、疲勞 |
-| 衛部藥輸字第028897號 | 樂敦勁極酷眼藥水 | 點眼液劑 | 暫時緩解眼部刺激、眼睛紅、癢、疲勞 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tetryzoline 的不重複許可證共 **6 張**：有效單方 0 張、有效複方 5 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛部藥製字第058779號 | 睛釆眼藥水 | ANTAZOLINE HCL、Tetryzoline Hydrochloride (eq to Tetrahydrozo… | 點眼液劑 | 過敏性結膜炎，眼瞼緣炎，角膜炎。 |
+| 衛部藥製字第062386號 | 玫瑰潤澤眼藥水 | TAURINE (EQ TO 2-AMINOETHANE SULFONIC ACID)、Tetryzoline Hydr… | 點眼液劑 | 暫時緩解因輕微眼部刺激所引起之不適、或眼睛紅、眼睛疲勞 |
+| 衛部藥輸字第026530號 | 樂敦藍視光極禦眼藥水 | CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE… | 點眼液劑 | 暫時緩解因輕微眼部刺激所引起之不適、或眼睛紅、眼睛癢、眼睛疲勞。 |
+| 衛部藥輸字第026773號 | 參天沁涼眼藥水 | PYRIDOXINE HYDROCHLORIDE、NEOSTIGMINE METHYLSULFATE、TAURINE (… | 點眼液劑 | 暫時緩解因輕微眼部刺激所引起之不適、或眼睛紅，眼睛癢，眼睛疲勞。 |
+| 衛部藥輸字第028897號 | 樂敦勁極酷眼藥水 | ALLANTOIN、Tetryzoline Hydrochloride (eq to Tetrahydrozoline… | 點眼液劑 | 暫時緩解因輕微眼部刺激所引起之不適、或眼睛紅，眼睛癢，眼睛疲勞。 |
+
+<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第008728號</td><td>吾視保眼藥水</td><td>Tetryzoline Hydrochloride (eq to Tetrahydrozoline Hydrochlor…</td><td>2020/03/27</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 
@@ -105,7 +113,7 @@ Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 快速總覽「許可證數：5 張（4 張有效）」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 快速總覽「許可證數：5 張（4 張有效）」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

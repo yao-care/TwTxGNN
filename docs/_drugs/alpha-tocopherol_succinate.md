@@ -48,7 +48,7 @@ TxGNN 模型預測它對**藥物誘發性骨質疏鬆症 (Drug-induced Osteoporo
 | TxGNN 預測分數 | 99.997% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 2 張 |
+| 許可證數 | 0 張（TFDA 資料集查無主成分相符的許可證） |
 | 建議決策 | Hold |
 
 ---
@@ -77,16 +77,15 @@ TxGNN 模型預測它對**藥物誘發性骨質疏鬆症 (Drug-induced Osteoporo
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥輸字第012326號 | 維他命Ｅ琥珀酸粉劑 | 粉劑 | 維他命Ｅ缺乏症 |
-| 衛署藥輸字第009164號 | 維他命Ｅ琥珀酸鹽 | 粉劑 | 習慣性流產、末梢血行障礙、維他命Ｅ缺乏症 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin alpha-tocopherol-succinate-license-rows-cancelled-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：上表兩張許可證都已註銷（衛署藥輸字第012326號 1999-09-28、第009164號 1990-06-21），TFDA 主成分欄登載為 tocopherol nicotinate，與品名的 succinate 不一致。資料集中查無現行有效的單方 tocopherol succinate 許可證，目前有效的都是含它的多成分維生素複方（例如衛部藥輸字第026134號「愛喜活麗皙顆粒」），快速總覽的「已上市」應以此理解。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Alpha-Tocopherol Succinate 的不重複許可證共 **0 張**：有效單方 0 張、有效複方 0 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end alpha-tocopherol-succinate-license-rows-cancelled-2026-10-03 -->
+TFDA 資料集查無主成分與本藥相符的許可證。
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -173,7 +172,7 @@ TxGNN 對藥物誘發性骨質疏鬆症的預測分數雖達 99.997%，但完全
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表兩張許可證皆已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表兩張許可證皆已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

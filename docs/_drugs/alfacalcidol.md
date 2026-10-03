@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 | TxGNN 預測分數 | 99.27% |
 | 證據等級 | L3 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 多張（部分已註銷） |
+| 許可證數 | 51 張（有效單方 4／有效複方 0／已註銷 47） |
 | 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
@@ -88,24 +88,25 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥製字第044609號 | 阿法鈣斯多 "台耀" | 粉劑 | 維他命 D 缺乏症 |
-| 衛署藥製字第040333號 | "漁人" 腎骨全軟膠囊 0.25ug | 軟膠囊劑 | 骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、維生素 D 抵抗性佝僂病、骨軟化症 |
-| 衛署藥輸字第021174號 | 愛康鈣軟膠囊 0.25 微公克 | 軟膠囊劑 | 慢性腎衰竭引起之低血鈣症、副甲狀腺機能低下症、維生素 D 抵抗性佝僂病、骨軟化症、骨質疏鬆症 |
-| 衛署藥輸字第021175號 | 愛康鈣軟膠囊 0.5 微公克 | 軟膠囊劑 | 慢性腎衰竭引起之低血鈣症、副甲狀腺機能低下症、維生素 D 抵抗性佝僂病、骨軟化症、骨質疏鬆症 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin alfacalcidol-license-024916-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核更正（2026-10-03）**：原寫「衛署藥輸字第024916號／萬乃補軟膠囊／軟膠囊劑／骨質疏鬆症、維他命 D 缺乏症」。衛署藥輸字第024916號在 TFDA 是已註銷的 ketorolac 點眼液「愛克樂點眼液劑 0.4%」，也查無名為「萬乃補」的 alfacalcidol 許可證；改列現行有效的 alfacalcidol 單方許可證（衛署藥輸字第021174號，一成藥品）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Alfacalcidol 的不重複許可證共 **51 張**：有效單方 4 張、有效複方 0 張、已註銷 47 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end alfacalcidol-license-024916-2026-10-03 -->
+**有效・單方**（4 張）
 
-<!-- review:begin alfacalcidol-license-023050-2026-10-03 -->
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第040333號 | "漁人"腎骨全軟膠囊０．２５微克（維生素Ｄ３） | 軟膠囊劑 | 漁人製藥股份有限公司 | 2027/04/30 | 骨質疏鬆症、慢性腎不全引起低血鈣症、副甲狀腺機能低下症維生素Ｄ抵抗性佝僂病、骨軟化症。 |
+| 衛署藥製字第044609號 | 阿法鈣斯多〝台耀〞 | （粉） | 台耀化學股份有限公司 | 2031/08/31 | 維他命Ｄ缺乏症。 |
+| 衛署藥輸字第021174號 | 愛康鈣軟膠囊０．２５微公克 | 軟膠囊劑 | 一成藥品股份有限公司 | 2031/03/08 | 慢性腎衰竭引起之低血鈣症、副甲狀腺機能低下症、維生素Ｄ抵抗性佝僂病、骨軟化症、骨質疏鬆症。 |
+| 衛署藥輸字第021175號 | 愛康鈣軟膠囊０．５微公克 | 軟膠囊劑 | 一成藥品股份有限公司 | 2031/03/08 | 慢性腎衰竭引起之低血鈣症、副甲狀腺機能低下症、維生素Ｄ抵抗性佝僂病、骨軟化症、骨質疏鬆症。 |
 
-> **查核更正（2026-10-03）**：原寫「衛署藥輸字第023050號／骨精鈣膠囊 1.0ug／軟膠囊劑／骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症」。衛署藥輸字第023050號在 TFDA 是已註銷的 piroxicam 外用凝膠「德國復得健外用凝膠劑 0.5%」，也查無名為「骨精鈣」的 alfacalcidol 許可證；改列現行有效的 alfacalcidol 單方許可證（衛署藥輸字第021175號，一成藥品）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+<details><summary><strong>已註銷</strong>（47 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第035809號</td><td>腎活醇錠０．５微公絲（α－維生素Ｄ３）</td><td>ALFACALCIDOL</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第041388號</td><td>"葡萄王"優骨軟膠囊０．２５微公克（α－維生素Ｄ３）</td><td>ALFACALCIDOL</td><td>2015/12/23</td></tr><tr><td>衛署藥製字第041516號</td><td>優骨軟膠囊１．０微公克（　－維生素Ｄ３）</td><td>ALFACALCIDOL</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第041517號</td><td>優骨軟膠囊０．５微公克（　－維生素Ｄ３）</td><td>ALFACALCIDOL</td><td>2016/09/19</td></tr><tr><td>衛署藥輸字第008764號</td><td>萬而華軟膠囊０．２５微克</td><td>ALFACALCIDOL、TOCOPHEROL ALPHA DL- (EQ TO DL-ALPHA TOCOPHEROL…</td><td>1992/04/07</td></tr><tr><td>衛署藥輸字第008802號</td><td>萬而華軟膠囊１微克</td><td>ALFACALCIDOL、TOCOPHEROL ALPHA DL- (EQ TO DL-ALPHA TOCOPHEROL…</td><td>1992/04/07</td></tr><tr><td>衛署藥輸字第009206號</td><td>骨腎康軟膠囊０．２５微公克</td><td>ALFACALCIDOL</td><td>1993/05/20</td></tr><tr><td>衛署藥輸字第009207號</td><td>骨腎康軟膠囊１微公克</td><td>ALFACALCIDOL</td><td>1993/05/20</td></tr><tr><td>衛署藥輸字第009208號</td><td>骨腎康軟膠囊３微公克</td><td>ALFACALCIDOL</td><td>1993/06/09</td></tr><tr><td>衛署藥輸字第009267號</td><td>骨腎康液</td><td>ALFACALCIDOL</td><td>1993/05/20</td></tr><tr><td>衛署藥輸字第010455號</td><td>骨腎康軟膠囊０．５微公克</td><td>ALFACALCIDOL</td><td>1993/05/20</td></tr><tr><td>衛署藥輸字第013249號</td><td>旺爾華軟膠囊０．５微公絲</td><td>ALFACALCIDOL</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第013250號</td><td>旺爾華軟膠囊１．０微公絲</td><td>ALFACALCIDOL</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第013275號</td><td>旺爾華軟膠囊０．２５微公絲</td><td>ALFACALCIDOL</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018274號</td><td>旺爾華錠０．５微公絲</td><td>ALFACALCIDOL</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018275號</td><td>旺爾華錠１．０微公絲</td><td>ALFACALCIDOL</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018919號</td><td>益骨健１膠囊</td><td>ALFACALCIDOL</td><td>2010/09/29</td></tr><tr><td>衛署藥輸字第018920號</td><td>益骨健０．５膠囊</td><td>ALFACALCIDOL</td><td>2013/01/04</td></tr><tr><td>衛署藥輸字第019096號</td><td>萬而華軟膠囊１微克</td><td>ALFACALCIDOL、TOCOPHEROL ALPHA DL- (EQ TO DL-ALPHA TOCOPHEROL…</td><td>2010/12/06</td></tr><tr><td>衛署藥輸字第019097號</td><td>萬而華軟膠囊０．２５微克</td><td>TOCOPHEROL ALPHA DL- (EQ TO DL-ALPHA TOCOPHEROL)、ALFACALCIDO…</td><td>2005/04/28</td></tr><tr><td>衛署藥輸字第019138號</td><td>濃力膠囊１．０</td><td>ALFACALCIDOL</td><td>2000/10/03</td></tr><tr><td>衛署藥輸字第019140號</td><td>濃力膠囊０．５</td><td>ALFACALCIDOL</td><td>2000/10/03</td></tr><tr><td>衛署藥輸字第019727號</td><td>益骨健軟膠囊０．２５微公克</td><td>ALFACALCIDOL</td><td>2016/05/24</td></tr><tr><td>衛署藥輸字第019768號</td><td>骨腎康軟膠囊０．２５微公克</td><td>ALFACALCIDOL</td><td>2019/09/24</td></tr><tr><td>衛署藥輸字第019769號</td><td>骨腎康軟膠囊０．５微公克</td><td>ALFACALCIDOL</td><td>2015/08/05</td></tr><tr><td>衛署藥輸字第019770號</td><td>骨腎康軟膠囊１微公克</td><td>ALFACALCIDOL</td><td>2015/08/05</td></tr><tr><td>衛署藥輸字第019771號</td><td>骨腎康軟膠囊３微公克</td><td>ALFACALCIDOL</td><td>1999/09/08</td></tr><tr><td>衛署藥輸字第019772號</td><td>骨腎康液</td><td>ALFACALCIDOL</td><td>1999/09/08</td></tr><tr><td>衛署藥輸字第020064號</td><td>樂骨能膠囊０．２５微公絲</td><td>ALFACALCIDOL</td><td>1996/05/06</td></tr><tr><td>衛署藥輸字第020065號</td><td>樂骨能膠囊１．０微公絲</td><td>ALFACALCIDOL</td><td>1996/05/06</td></tr><tr><td>衛署藥輸字第020288號</td><td>護骨疏０．５</td><td>ALFACALCIDOL</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第020289號</td><td>護骨疏１．０</td><td>ALFACALCIDOL</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第020294號</td><td>護骨疏０．２５</td><td>ALFACALCIDOL</td><td>2015/02/24</td></tr><tr><td>衛署藥輸字第020350號</td><td>雷蒙得林膠囊０．５微公克</td><td>ALFACALCIDOL</td><td>2003/12/29</td></tr><tr><td>衛署藥輸字第020404號</td><td>速立妥０．５微公絲</td><td>ALFACALCIDOL</td><td>2013/11/26</td></tr><tr><td>衛署藥輸字第020405號</td><td>速立妥１．０微公絲</td><td>ALFACALCIDOL</td><td>2010/12/06</td></tr><tr><td>衛署藥輸字第020419號</td><td>骨必妥膠囊１．０微毫克</td><td>ALFACALCIDOL</td><td>2005/01/25</td></tr><tr><td>衛署藥輸字第020430號</td><td>濃力軟膠囊０．２５微公克</td><td>ALFACALCIDOL</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第020431號</td><td>雷蒙得林膠囊１．０微公克</td><td>ALFACALCIDOL</td><td>2003/12/29</td></tr><tr><td>衛署藥輸字第020557號</td><td>鈣泛利多軟膠囊１．０微公克</td><td>ALFACALCIDOL</td><td>2000/06/05</td></tr><tr><td>衛署藥輸字第020558號</td><td>鈣泛利多軟膠囊０．２５微公克</td><td>ALFACALCIDOL</td><td>2000/06/07</td></tr><tr><td>衛署藥輸字第020559號</td><td>鈣泛利多軟膠囊０．５微公克</td><td>ALFACALCIDOL</td><td>2000/06/05</td></tr><tr><td>衛署藥輸字第021171號</td><td>樂骨能膠囊１．０微公絲</td><td>ALFACALCIDOL</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第021172號</td><td>樂骨能膠囊０．２５微公絲</td><td>ALFACALCIDOL</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第023029號</td><td>旺爾華錠１微公絲</td><td>ALFACALCIDOL</td><td>2022/12/19</td></tr><tr><td>衛署藥輸字第023031號</td><td>旺爾華錠０．５微公絲</td><td>ALFACALCIDOL</td><td>2022/11/08</td></tr><tr><td>衛署藥輸字第023133號</td><td>旺爾華錠０．２５微公絲</td><td>ALFACALCIDOL</td><td>2020/07/30</td></tr></tbody></table></details>
 
-<!-- review:end alfacalcidol-license-023050-2026-10-03 -->
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 
@@ -155,8 +156,8 @@ Alfacalcidol 在腎小管酸中毒合併骨軟化症的治療中已有多篇個�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表「衛署藥輸字第024916號 萬乃補軟膠囊」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表「衛署藥輸字第023050號 骨精鈣膠囊 1.0ug」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛署藥輸字第024916號 萬乃補軟膠囊」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛署藥輸字第023050號 骨精鈣膠囊 1.0ug」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

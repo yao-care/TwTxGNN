@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**乾眼症 (Dry Eye Syndrome)** 有效，目前�
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L1 |
 | 台灣上市 | ✗ 未上市（許可證 0 張） |
-| 許可證數 | 0 張 |
+| 許可證數 | 11 張（有效單方 0／有效複方 1／已註銷 10） |
 | 建議決策 | Proceed with Guardrails |
 
 ---
@@ -97,6 +97,23 @@ Hyaluronic Acid 是人體玻璃體、關節滑液與角膜前淚膜中天然存�
 ---
 
 ## 台灣上市資訊
+
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Hyaluronic Acid 的不重複許可證共 **11 張**：有效單方 0 張、有效複方 1 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛部藥輸字第027112號 | 視舒坦玻尿酸人工淚液點眼液 | POLYETHYLENE GLYCOL 400、PROPYLENE GLYCOL、HYALURONATE SODIUM… | 無菌眼用液劑 | 暫時緩解因眼睛乾澀所引起的灼熱感及刺激感。 |
+
+<details><summary><strong>已註銷</strong>（10 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012221號</td><td>喜隆玻璃體替代物</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>1984/12/31</td></tr><tr><td>衛署藥輸字第013166號</td><td>喜隆玻璃體替代物</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第017184號</td><td>安衛視玻璃體替代物</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第018213號</td><td>喜隆玻璃體替代物</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>2004/12/16</td></tr><tr><td>衛署藥輸字第018759號</td><td>人工玻璃體</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )、CHONDROITIN…</td><td>1996/09/13</td></tr><tr><td>衛署藥輸字第019803號</td><td>泛美視黃色喜隆注射劑</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>2004/12/16</td></tr><tr><td>衛署藥輸字第019910號</td><td>雅爾眼內注入液</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>1997/11/03</td></tr><tr><td>衛署藥輸字第020069號</td><td>泛美視超黏喜隆注射劑</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>1997/11/28</td></tr><tr><td>衛署藥輸字第021167號</td><td>博微視人工玻璃體</td><td>HYALURONATE SODIUM ( EQ TO SODIUM HYALURONATE )</td><td>1997/07/02</td></tr><tr><td>衛署藥輸字第021345號</td><td>人工玻璃體</td><td>CHONDROITIN SULFATE、HYALURONATE SODIUM ( EQ TO SODIUM HYALUR…</td><td>1997/07/11</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 根據查詢結果，Hyaluronic Acid（DB08818）目前在台灣無任何藥品許可證登記，市場狀態為**未上市**。
 

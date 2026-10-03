@@ -52,7 +52,7 @@ Doxorubicin（鹽酸多柔比星）是 anthracycline 類傳統細胞毒性化療
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 28 張（有效單方 7／有效複方 0／已註銷 21） |
 | 建議決策 | Proceed with Guardrails |
 
 <!-- review:begin doxorubicin-original-indication-2026-10-03 -->
@@ -109,24 +109,28 @@ Ewing 肉瘤是第二常見的兒童原發骨腫瘤，其特徵為 EWS-FLI1 融�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥輸字第022712號 | 艾黴素注射液 | 注射液 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
-| 衛署藥製字第036418號 | 利癌凍晶注射劑10毫克(多索如比辛) | 凍晶注射劑 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin doxorubicin-tw-license-table-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核更正（2026-10-03）**：原寫「衛部菌疫輸字第001123號／保癌寧 凍晶注射劑／凍晶注射劑／1. 與 rituximab、cyclophosphamide、doxorubicin 和 prednisone (R-CHP) 併用，適用於治療先前未接受過治療之瀰漫性大型 B 細胞淋巴瘤（DLBCL）成人病人。2. 與 bendamustine 和 rituximab 併用，適用於治療復發型或難治型且不適合造血幹細胞移植的 DLBCL 病人...」。「保癌寧 凍晶注射劑」主成分是 polatuzumab vedotin，不是 doxorubicin；已改列 doxorubicin 單方許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Doxorubicin 的不重複許可證共 **28 張**：有效單方 7 張、有效複方 0 張、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end doxorubicin-tw-license-table-2026-10-03 -->
+**有效・單方**（7 張）
 
-> **資料說明**：Evidence Pack 中所列 20 張許可證均登記為相同許可證號（衛部菌疫輸字第001123號），疑為資料彙整重複。建議查詢 TFDA 資料庫確認 Doxorubicin（鹽酸多柔比星）完整許可證清單，以補充更準確的上市資訊。
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第036418號 | 利癌凍晶注射劑10毫克(多索如比辛) | 凍晶注射劑 | 南光化學製藥股份有限公司 | 2028/06/02 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
+| 衛署藥製字第041037號 | 力得微脂體注射劑2毫克/毫升（鹽酸杜薩魯比辛） | 注射劑 | 台灣東洋藥品工業股份有限公司 | 2028/09/18 | 用於治療CD4數量低下(<200 CD4 LYMPHOCYTES/MM3）和黏膜、皮膚或內臟有病變的AIDS RELATED KAPOSI'S SARCOMA的病人。用於治療曾接受… |
+| 衛署藥輸字第022712號 | 艾黴素注射液 | 注射劑 | 輝瑞大藥廠股份有限公司 | 2029/12/21 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
+| 衛署藥輸字第025867號 | 鹽酸杜薩魯比辛 | （粉） | 川聖貿易股份有限公司 | 2027/12/02 | 抗癌藥 |
+| 衛部藥製字第061125號 | "意欣"杜索拉凍晶注射劑 | 凍晶注射劑 | 意欣國際有限公司 | 2027/06/13 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
+| 衛部藥製字第061132號 | "霖揚"鹽酸杜薩魯比辛凍晶注射劑10毫克 | 凍晶注射劑 | 霖揚生技製藥股份有限公司 | 2027/07/08 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
+| 衛部藥輸字第027886號 | 德露斯微脂體注射劑2毫克/毫升 | 注射劑 | 台灣瑞迪博士有限公司 | 2030/05/19 | 用於治療CD4數量低下(<200 D4 LYMPHOCYTES/ MM3)和黏膜、皮膚或內臟有病變的AIDS RELATED KAPOSI’S SARCOMA的病人。用於治療曾接受… |
 
-<!-- review:begin doxorubicin-tw-data-note-2026-10-03 -->
+<details><summary><strong>已註銷</strong>（21 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012027號</td><td>艾黴素注射劑</td><td>DOXORUBICIN HCL</td><td>2004/12/16</td></tr><tr><td>衛署藥輸字第014812號</td><td>艾黴素注射劑５０公絲</td><td>DOXORUBICIN HCL</td><td>2004/12/16</td></tr><tr><td>衛署藥輸字第018174號</td><td>德壽魯素注射劑</td><td>DOXORUBICIN HCL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第018176號</td><td>達必素注射劑</td><td>DOXORUBICIN HCL</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第018580號</td><td>"速溶"艾黴素注射劑10毫克</td><td>DOXORUBICIN HCL</td><td>2024/06/18</td></tr><tr><td>衛署藥輸字第018613號</td><td>"速溶" 艾黴素注射劑５０公絲</td><td>DOXORUBICIN HCL</td><td>2022/06/30</td></tr><tr><td>衛署藥輸字第019117號</td><td>德壽魯素注射液２公絲/１公撮</td><td>DOXORUBICIN HCL</td><td>1997/09/02</td></tr><tr><td>衛署藥輸字第019443號</td><td>待朗必信靜脈凍晶注射劑５０公絲</td><td>DOXORUBICIN HCL</td><td>2002/12/20</td></tr><tr><td>衛署藥輸字第019444號</td><td>待明必信靜脈凍晶注射劑１０公絲</td><td>DOXORUBICIN HCL</td><td>2002/12/20</td></tr><tr><td>衛署藥輸字第020335號</td><td>得甦幸注射劑</td><td>DOXORUBICIN HCL</td><td>1997/06/30</td></tr><tr><td>衛署藥輸字第021576號</td><td>德壽魯素注射液２公絲／公撮</td><td>DOXORUBICIN HCL</td><td>2019/03/27</td></tr><tr><td>衛署藥輸字第021718號</td><td>得甦幸注射劑</td><td>DOXORUBICIN HCL</td><td>2000/01/27</td></tr><tr><td>衛署藥輸字第022174號</td><td>阿雷素凍晶注射劑５０公絲/小瓶</td><td>DOXORUBICIN HCL</td><td>2014/03/05</td></tr><tr><td>衛署藥輸字第022175號</td><td>阿雷素凍晶注射劑１０公絲/小瓶</td><td>DOXORUBICIN HCL</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第022207號</td><td>康利斯微脂粒注射劑</td><td>DOXORUBICIN HCL</td><td>2013/10/25</td></tr><tr><td>衛署藥輸字第025840號</td><td>癌佐莓注射液</td><td>DOXORUBICIN HCL</td><td>2024/06/18</td></tr><tr><td>衛署藥輸字第026026號</td><td>艾諾幸"艾威群"注射液2毫克/毫升</td><td>DOXORUBICIN HCL</td><td>2024/05/07</td></tr><tr><td>衛部藥輸字第025808號</td><td>多受祿注射劑2毫克/毫升</td><td>DOXORUBICIN HYDROCHLORIDE</td><td>2024/04/26</td></tr><tr><td>衛部藥輸字第026249號</td><td>克思癌微脂體注射劑2毫克/毫升(鹽酸杜薩魯比辛)</td><td>DOXORUBICIN HCL</td><td>2014/10/08</td></tr><tr><td>衛部藥輸字第026572號</td><td>"精金"德舒癌注射液2毫克/毫升</td><td>DOXORUBICIN HCL</td><td>2022/06/16</td></tr><tr><td>衛部藥輸字第028057號</td><td>多受祿凍晶注射劑</td><td>DOXORUBICIN HYDROCHLORIDE、DOXORUBICIN HYDROCHLORIDE</td><td>2025/08/25</td></tr></tbody></table></details>
 
-> **查核加註（2026-10-03）**：查 TFDA 許可證資料：衛部菌疫輸字第001123號是 polatuzumab vedotin（保癌寧，Polivy）的許可證，不是 doxorubicin；主成分為 doxorubicin 的許可證共 28 張、其中 7 張有效（例如艾黴素注射液、利癌凍晶注射劑、力得微脂體注射劑）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end doxorubicin-tw-data-note-2026-10-03 -->
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -144,7 +148,7 @@ Ewing 肉瘤是第二常見的兒童原發骨腫瘤，其特徵為 EWS-FLI1 融�
 
 ## 安全性考量
 
-**藥物交互作用**（Evidence Pack 顯示共 665 個已知交互作用，以下列出代表性項目）：
+**藥物交互作用**（彙整資料顯示共 665 個已知交互作用，以下列出代表性項目）：
 
 | 相互作用藥物 | 嚴重程度 | 備注 |
 |------------|---------|------|
@@ -174,7 +178,7 @@ Doxorubicin 在 Ewing 肉瘤治療中具備多項已完成的 Phase 3 RCT 直接
 - 補充完整 DrugBank MOA 資料（目前標記為 Data Gap），以強化機轉關聯性分析
 - 建立心毒性監測計畫（治療前基準 LVEF 評估、治療中定期追蹤、累積劑量上限管理）
 - 針對 665 個已知 DDI 進行完整用藥核對，尤其是 CYP3A4 抑制劑與 QT 延長風險藥物
-- 補充 TFDA 正式 Doxorubicin 許可證清單，釐清 Evidence Pack 中重複登記的資料問題
+- 補充 TFDA 正式 Doxorubicin 許可證清單，釐清彙整資料中重複登記的資料問題
 - 考量 Ewing 肉瘤族群（多為兒童/青少年）的長期心毒性監測與晚期效應追蹤計畫
 
 <!-- review:begin log -->
@@ -187,8 +191,8 @@ Doxorubicin 在 Ewing 肉瘤治療中具備多項已完成的 Phase 3 RCT 直接
 |---------|------|------|------|
 | 2026-10-03 | 「在台灣核准用於 DLBCL」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症取自 polatuzumab vedotin 許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表列 polatuzumab vedotin 製劑「保癌寧」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 資料說明「20 張許可證均登記為相同許可證號」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表列 polatuzumab vedotin 製劑「保癌寧」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 資料說明「20 張許可證均登記為相同許可證號」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -50,7 +50,7 @@ Methylprednisolone 是廣泛使用的合成糖皮質激素，台灣核准用於�
 | TxGNN 預測分數 | 98.91% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 12 張 |
+| 許可證數 | 11 張（有效單方 2／有效複方 1／已註銷 8） |
 | 建議決策 | Proceed with Guardrails |
 
 ---
@@ -131,13 +131,29 @@ Methylprednisolone 的原核准適應症涵蓋膠原疾病、過敏反應等多�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥輸字第003633號 | 歐巴生針劑２０公絲 | 乾粉注射劑 | 急性病症（氣喘、休克、虛脫、過敏性疾患） |
-| 衛署藥製字第048248號 | "永信" 甲基普立朗 注射劑500毫克 | 乾粉注射劑 | 腎上腺皮質機能不全，劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染 |
-| 衛署藥輸字第002451號 | 猛加斯特２０公絲注射劑 | 凍晶注射劑 | 膠原質病（類風濕性關節炎、風濕性關節炎）過敏症（支氣管性氣喘、花粉過敏症、鼻炎、濕疹） |
-| 衛署藥輸字第000974號 | 微粒甲基乙醯去氫羥化腎上腺皮質素 | （粉） | 風濕性關節炎 |
-| 衛署藥輸字第004922號 | 舒汝美卓佑注射劑 | 凍晶注射劑 | 腎上腺皮質機能不全、劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Methylprednisone 的不重複許可證共 **11 張**：有效單方 2 張、有效複方 1 張、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第042453號 | 〝井田〞敏炎寶軟膏０．２５％（甲基培尼皮質醇乙酸酯） | 軟膏劑 | 井田國際醫藥廠股份有限公司 | 2028/07/24 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
+| 衛署藥製字第048248號 | "永信" 甲基普立朗 注射劑500毫克 | 乾粉注射劑 | 永信藥品工業股份有限公司 | 2031/09/20 | 腎上腺皮質機能不全，劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染。 |
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥輸字第004922號 | 舒汝美卓佑注射劑 | METHYLPREDNISONE (SODIUM SUCCINATE)、METHYLPREDNISONE (SODIUM… | 凍晶注射劑 | 腎上腺皮質機能不全、劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染 |
+
+<details><summary><strong>已註銷</strong>（8 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第003633號</td><td>歐巴生針劑２０公絲</td><td>METHYLPREDNISONE 6-ALPHA (SODIUM HEMISUCCINATE)</td><td>1985/12/31</td></tr><tr><td>衛署藥輸字第000974號</td><td>微粒甲基乙醯去氫羥化腎上腺皮質素</td><td>MEPREDNISONE 21- ACETATE (METHYLPREDNISONE ACETATE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第002451號</td><td>猛加斯特２０公絲注射劑</td><td>METHYLPREDNISONE 6-ALPHA SODIUM HEMISUCCINATE</td><td>1988/08/15</td></tr><tr><td>衛署藥輸字第008211號</td><td>佳美得寧懸濁注射液４０公絲</td><td>MEPREDNISONE 21- ACETATE (METHYLPREDNISONE ACETATE)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第014531號</td><td>歐巴生針劑２０公絲</td><td>METHYLPREDNISONE 6-ALPHA (SODIUM HEMISUCCINATE)</td><td>1987/03/20</td></tr><tr><td>衛署藥輸字第016584號</td><td>美斯樂１２５公絲注射劑</td><td>METHYLPREDNISONE (SODIUM SUCCINATE)</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第021800號</td><td>亥彌寇特注射劑２公克</td><td>METHYLPREDNISONE SODIUM SUCCINATE</td><td>2004/12/16</td></tr><tr><td>衛署藥輸字第021802號</td><td>亥彌寇特注射劑４０公絲</td><td>METHYLPREDNISONE SODIUM SUCCINATE</td><td>2004/12/16</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

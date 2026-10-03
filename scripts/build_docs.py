@@ -5,6 +5,9 @@ import json
 import re
 import shutil
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from twtxgnn.regulatory.page_postprocess import process_for_site  # noqa: E402
 
 
 def fix_markdown_tables(content: str) -> str:
@@ -175,6 +178,12 @@ indication_count: {indication_count}
 
         # 修復表格格式（確保表格前有空行）
         jekyll_content = fix_markdown_tables(jekyll_content)
+
+        # 確定性後處理（同 sync_notes_to_docs.py）：許可證表／張數由 TFDA 資料集產生，驗證不過不寫
+        jekyll_content, bad_ids = process_for_site(jekyll_content, drug_name, drug_title)
+        if bad_ids:
+            print(f"⛔ {drug_name}: 頁面上有不屬於本藥的許可證字號 {bad_ids}，未寫入")
+            continue
 
         # 寫入檔案
         output_file = drugs_dir / f"{drug_name}.md"

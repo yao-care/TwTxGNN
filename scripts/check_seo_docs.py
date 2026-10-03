@@ -15,6 +15,8 @@
     4. docs/*.md 的站內連結指到存在的 permalink 或實際檔案。
        permalink 含 collection 文件（_drugs/、_news/）：照 _config.yml 的
        `permalink: /drugs/:name/` 樣板＋Jekyll slugify 推導（2026-10-03 補）。
+    6. 藥物頁的許可證字號都屬於該藥（TFDA 快照）、許可證表是程式產生的、張數一致、
+       沒有產線開場白與「Evidence Pack」用語（2026-10-03 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
 
@@ -196,6 +198,33 @@ for md in sorted(DOCS.glob("*.md")):
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from apply_drug_reviews import check_errors  # noqa: E402
 errors.extend(check_errors())
+
+# 6) 藥物頁的許可證字號與張數（2026-10-03 補）：每個許可證字號都必須是該藥主成分相符的 TFDA
+#    許可證（依 snapshots/tfda_licenses.json.gz）；許可證表必須是程式產生的區塊、張數與快照一致；
+#    不得殘留產線開場白或「Evidence Pack」內部用語。修法：python3 scripts/regenerate_tfda_tables.py
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from twtxgnn.regulatory import tfda_licenses as _T  # noqa: E402
+from twtxgnn.regulatory.page_postprocess import strip_preamble as _strip  # noqa: E402
+_snap = (_T.load_snapshot().get("drugs") or {})
+for md in sorted((DOCS / "_drugs").glob("*.md")):
+    text = md.read_text(encoding="utf-8", errors="replace")
+    entry = _snap.get(md.stem)
+    if entry is None:
+        errors.append(f"{md.name}：TFDA 許可證快照沒有這一頁（跑 scripts/regenerate_tfda_tables.py）")
+        continue
+    lics = entry["licenses"]
+    bad = _T.validate_page(text, {x["id"] for x in lics})
+    if bad:
+        errors.append(f"{md.name}：頁面上有不屬於本藥（或 TFDA 查無）的許可證字號 {bad[:5]}")
+    if _T.BEGIN not in text:
+        errors.append(f"{md.name}：許可證表不是程式產生的區塊")
+    m = re.search(r"^\|\s*許可證數\s*\|([^|\n]*)\|", text, re.M)
+    if m and m.group(1).strip() != _T.count_text(_T.summarize(lics)):
+        errors.append(f"{md.name}：「許可證數」與 TFDA 快照不符（{m.group(1).strip()}）")
+    if _strip(text) != text:
+        errors.append(f"{md.name}：報告開頭殘留產線開場白")
+    if "Evidence Pack" in text:
+        errors.append(f"{md.name}：殘留「Evidence Pack」內部用語")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

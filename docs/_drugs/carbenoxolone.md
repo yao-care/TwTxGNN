@@ -42,7 +42,7 @@ Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 
 | TxGNN 預測分數 | 99.9988% |
 | 證據等級 | L5 (僅預測) |
 | 台灣上市 | 部分已上市(多數已註銷) |
-| 許可證數 | 29張(大部分已註銷，4張有效) |
+| 許可證數 | 29 張（有效單方 5／有效複方 0／已註銷 24） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -75,12 +75,27 @@ PubMed 檢索僅發現1篇間接相關文獻：
 Carbenoxolone 在台灣的許可證狀態：
 
 **目前有效許可證**：
-| 許可證字號 | 商品名 | 適應症 | 許可證持有者 |
-|-----------|--------|--------|-------------|
-| 衛署藥製字第021999號 | 炎立治口內軟膏(優良) | 口內潰瘍 | 優良化學製藥 |
-| 衛署藥製字第026232號 | 口舒爽口內膏(西德有機) | 口內炎性潰瘍 | 西德有機化學藥品 |
-| 衛署藥製字第043620號 | 妙潔口內膏(溫士頓) | 口內炎性潰瘍 | 溫士頓醫藥 |
-| 衛署藥製字第046353號 | 治炎寧口內膏(黃氏) | 口內炎性潰瘍 | 黃氏製藥 |
+
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Carbenoxolone 的不重複許可證共 **29 張**：有效單方 5 張、有效複方 0 張、已註銷 24 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（5 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第021999號 | "優良"炎立治口內軟膏（卡變諾） | 軟膏劑 | 優良化學製藥股份有限公司 | 2028/08/19 | 緩解及治療口內潰瘍 |
+| 衛署藥製字第026232號 | "西德有機"口舒爽口內膏２０毫克（卡變諾） | 口內膏 | 西德有機化學藥品股份有限公司 | 2028/09/17 | 口內炎性潰瘍、糜爛性口疾患、潰瘍性之口內傷害 |
+| 衛署藥製字第043620號 | 妙潔口內膏２０公絲/公克（卡變諾）〝溫士頓〞 | 口內膏 | 溫士頓醫藥股份有限公司 | 2030/03/21 | 口內炎性潰瘍、糜爛性口疾患、潰瘍性之口內傷害。 |
+| 衛署藥製字第046353號 | "黃氏" 治炎寧口內膏 | 口內膏 | 黃氏製藥股份有限公司 | 2029/06/28 | 口內炎性潰瘍、糜爛性口疾患、潰瘍性之口內傷害。 |
+| 衛部藥製字第059858號 | 明炎優口內膏2% | 口內膏 | 天下生物科技股份有限公司 | 2028/02/01 | 口內炎性潰瘍、糜爛性口疾患、潰瘍性之口內傷害。 |
+
+<details><summary><strong>已註銷</strong>（24 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第010499號</td><td>加爽朗錠</td><td>CARBENOXOLONE SODIUM</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第010842號</td><td>潰佳錠</td><td>CARBENOXOLONE SODIUM</td><td>1999/08/20</td></tr><tr><td>衛署藥製字第013117號</td><td>卡變諾錠</td><td>CARBENOXOLONE SODIUM</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第014186號</td><td>卡變諾錠</td><td>CARBENOXOLONE SODIUM</td><td>1990/08/13</td></tr><tr><td>衛署藥製字第014872號</td><td>卡變諾錠”人生”　　　　　　　　　　　　　　　　　　　　　　 C</td><td>CARBENOXOLONE SODIUM</td><td>1989/08/17</td></tr><tr><td>衛署藥製字第020288號</td><td>佳胃朗錠（卡變諾）</td><td>CARBENOXOLONE SODIUM</td><td>2023/07/24</td></tr><tr><td>衛署藥製字第020980號</td><td>優胃瘍錠（卡變諾）</td><td>CARBENOXOLONE SODIUM</td><td>1989/10/16</td></tr><tr><td>衛署藥製字第025472號</td><td>克潰隆錠５０公絲（卡變諾）</td><td>CARBENOXOLONE SODIUM</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第027431號</td><td>益潰康錠５０公絲（卡變諾）</td><td>CARBENOXOLONE SODIUM</td><td>1989/09/29</td></tr><tr><td>衛署藥製字第032363號</td><td>卡變諾錠５０公絲</td><td>CARBENOXOLONE SODIUM</td><td>2019/05/14</td></tr><tr><td>衛署藥輸字第002783號</td><td>腸嘉實多膠囊</td><td>CARBENOXOLONE SODIUM、SODIUM BICARBONATE ( EQ TO SODIUM HYDRO…</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第002784號</td><td>胃嘉實多錠</td><td>CARBENOXOLONE SODIUM</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第003875號</td><td>佳胃賜爾顆粒</td><td>MAGNESIUM TRISILICATE、CARBENOXOLONE SODIUM、ALUMINUM HYDROXID…</td><td>1988/06/22</td></tr><tr><td>衛署藥輸字第003876號</td><td>佳胃賜爾錠</td><td>ALUMINUM HYDROXIDE (ALUMINA HYDRATED)、CARBENOXOLONE SODIUM、M…</td><td>1988/06/22</td></tr><tr><td>衛署藥輸字第004036號</td><td>羧丙醯氧油酸鈉鹽</td><td>CARBENOXOLONE SODIUM</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第004682號</td><td>/苯索酮鈉</td><td>CARBENOXOLONE SODIUM</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第011642號</td><td>保胃壯錠５０公絲</td><td>CARBENOXOLONE SODIUM</td><td>1986/11/11</td></tr><tr><td>衛署藥輸字第011643號</td><td>杜潰能膠囊</td><td>CARBENOXOLONE SODIUM</td><td>1986/12/23</td></tr><tr><td>衛署藥輸字第015364號</td><td>保胃壯錠５０公絲</td><td>CARBENOXOLONE SODIUM</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015474號</td><td>杜潰能膠囊</td><td>CARBENOXOLONE SODIUM</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015832號</td><td>遏保勝膠漿</td><td>CARBENOXOLONE SODIUM</td><td>1988/02/01</td></tr><tr><td>衛署藥輸字第016233號</td><td>克寶勝膠漿</td><td>CARBENOXOLONE SODIUM</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第017076號</td><td>倍爾癒膠漿２％Ｗ/Ｗ</td><td>CARBENOXOLONE SODIUM</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第020059號</td><td>可必勝凝膠</td><td>CARBENOXOLONE SODIUM</td><td>2009/12/10</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **已註銷許可證**：
 - 大多數口服錠劑及膠囊劑型已於1980-1990年代註銷

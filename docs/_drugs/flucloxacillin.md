@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**結膜炎 (Conjunctivitis)** 有效，目前有 
 | TxGNN 預測分數 | 99.84% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 24 張（有效單方 1／有效複方 0／已註銷 23） |
 | 建議決策 | Hold |
 
 ---
@@ -79,19 +79,22 @@ TxGNN 模型預測它可能對**結膜炎 (Conjunctivitis)** 有效，目前有 
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥輸字第001819號 | 福樂黴林注射劑２５０公絲 | 注射劑 | 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎 |
-| 衛署藥輸字第012935號 | 萊特黴素膠囊５００公絲 | 膠囊劑 | 革蘭氏陽性菌陰性菌引起之感染症 |
-| 衛署藥輸字第003811號 | 氟氯西林鈉鹽 | （粉） | 對青黴素有感受性之細菌感染症 |
-| 衛署藥輸字第018263號 | 福樂黴林膠囊２５０公絲 | 膠囊劑 | 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎 |
-| 衛署藥輸字第018298號 | 廣撲黴素注射劑５００公絲 | 注射劑 | 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin flucloxacillin-tw-license-cancelled-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：依 TFDA 許可證資料，上表 5 張許可證全部已註銷，其中「廣撲黴素注射劑」是 amoxicillin＋flucloxacillin 複方；flucloxacillin 目前唯一有效的許可證是衛署藥製字第052575號「福可林膠囊 250 毫克」（適應症與上表第一列相同）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Flucloxacillin 的不重複許可證共 **24 張**：有效單方 1 張、有效複方 0 張、已註銷 23 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end flucloxacillin-tw-license-cancelled-2026-10-03 -->
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第052575號 | 福可林膠囊 250 毫克 | 膠囊劑 | 歐舒邁克有限公司 | 2030/03/26 | 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎。 |
+
+<details><summary><strong>已註銷</strong>（23 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第001819號</td><td>福樂黴林注射劑２５０公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>1990/11/22</td></tr><tr><td>衛署藥輸字第001820號</td><td>福樂黴林膠囊２５０公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>1990/11/02</td></tr><tr><td>衛署藥輸字第003811號</td><td>氟氯西林鈉鹽</td><td>FLUCLOXACILLIN SODIUM</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第006553號</td><td>茵菲克膠囊</td><td>FLUCLOXACILLIN (SODIUM)、AMPICILLIN</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第006643號</td><td>茵菲克注射劑５００公絲</td><td>AMPICILLIN (SODIUM)、FLUCLOXACILLIN (SODIUM)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第006644號</td><td>茵菲克注射劑２５０公絲</td><td>AMPICILLIN (SODIUM)、FLUCLOXACILLIN (SODIUM)</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第006646號</td><td>茵菲克注射劑１公克</td><td>AMPICILLIN (SODIUM)、FLUCLOXACILLIN (SODIUM)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第007822號</td><td>復樂安黴素膠囊</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)、AMOXICILLIN (TRIHYDRATE)</td><td>1985/12/31</td></tr><tr><td>衛署藥輸字第008381號</td><td>必服黴素注射劑５００公絲</td><td>LIDOCAINE HCL、EACH SOLVENT CONTAINS、AMOXICILLIN (SODIUM)、FLU…</td><td>1993/01/08</td></tr><tr><td>衛署藥輸字第008398號</td><td>必服黴素注射劑１公克</td><td>LIDOCAINE HCL、EACH SOLVENT CONTAINS、FLUCLOXACILLIN (SODIUM M…</td><td>1993/01/08</td></tr><tr><td>衛署藥輸字第009771號</td><td>必服黴素膠囊５００公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)、AMOXICILLIN (TRIHYDRATE)</td><td>1993/06/29</td></tr><tr><td>衛署藥輸字第009951號</td><td>廣撲黴素注射劑５００公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)、AMOXICILLIN (SODIUM)</td><td>1991/03/07</td></tr><tr><td>衛署藥輸字第009952號</td><td>廣撲黴素注射劑２５０公絲</td><td>AMOXICILLIN (SODIUM)、FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>1991/03/07</td></tr><tr><td>衛署藥輸字第012935號</td><td>萊特黴素膠囊５００公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>1991/12/14</td></tr><tr><td>衛署藥輸字第013146號</td><td>萊特黴素注射劑５００公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>1992/06/30</td></tr><tr><td>衛署藥輸字第018263號</td><td>福樂黴林膠囊２５０公絲</td><td>FLUCLOXACILLIN SODIUM</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018298號</td><td>廣撲黴素注射劑５００公絲</td><td>AMOXICILLIN (SODIUM)、FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018300號</td><td>廣撲黴素注射劑２５０公絲</td><td>AMOXICILLIN (SODIUM)、FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第018305號</td><td>福樂黴林注射劑２５０公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018881號</td><td>萊特黴素膠囊５００公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第018984號</td><td>萊特黴素注射劑５００公絲</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第020164號</td><td>拉瑪瑟膠囊２５０公絲</td><td>FLUCLOXACILLIN SODIUM</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第023873號</td><td>福祿可樂注射劑</td><td>FLUCLOXACILLIN (SODIUM MONOHYDRATE)、FLUCLOXACILLIN (SODIUM M…</td><td>2016/01/29</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -122,7 +125,7 @@ TxGNN 預測分數雖高（99.84%），但無任何針對結膜炎的臨床試�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表 5 張全數已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表 5 張全數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -48,7 +48,7 @@ TxGNN 模型共提出 10 項新適應症預測，其中唯一具有臨床試驗�
 | TxGNN 預測分數 | 99.13% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 37 張（有效單方 3／有效複方 8／已註銷 26） |
 | 建議決策 | Proceed with Guardrails |
 
 <!-- review:begin peppermint_oil-original-indication-combo-2026-10-03 -->
@@ -96,13 +96,37 @@ TxGNN 模型共提出 10 項新適應症預測，其中唯一具有臨床試驗�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛成製字第003166號 | 如意油 | 外用液劑 | 腳部跌打、喉部發痛、腰背痠痛、凸風飽脹、船車暈浪、無名腫毒、湯火灼傷、止痛消腫、皮膚發癢、刀傷... |
-| 內衛藥輸字第000507號 | 薄荷油 | 原料藥溶液劑 | 矯味劑 |
-| 衛部成製字第016950號 | 「洸洋」藥用薄荷油 | 外用液劑 | 切傷、刀傷、創傷、火傷、蟲咬傷、頭暈 |
-| 衛署成製字第011018號 | 「派頓」廣益油 | 外用液劑 | 外用：蟲咬傷、頭暈、頭痛、肌肉痛、牙神經痛及口腔黏膜發炎。內服：緩解腸胃道所引起之不適。吸入：緩解感冒之鼻塞症狀。 |
-| 衛署成製字第009123號 | 金獅牌香口丹 | 口含錠 | 化痰止咳、醒酒嘔酸、提神醒腦、香口生津、胸膈鬱悶、胃痛氣痛、中暑受寒、頭眼暈眩、舟車播蕩 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Peppermint Oil 的不重複許可證共 **37 張**：有效單方 3 張、有效複方 8 張、已註銷 26 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（3 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署成製字第011018號 | 〝派頓〞廣益油 | 外用液劑 | 臺灣派頓化學製藥股份有限公司 | 2029/06/21 | 外用：蟲咬傷、頭暈、頭痛、肌肉痛、牙神經痛及口腔黏膜發炎。內服：緩解腸胃道所引起之不適。吸入：緩解感冒之鼻塞症狀。 |
+| 衛署藥製字第000664號 | "應元"薄荷水 | 外用液劑 | 應元化學製藥股份有限公司 | 2029/05/25 | 液劑之矯味、矯臭劑、驅風劑 |
+| 衛部成製字第016950號 | "洸洋"藥用薄荷油 | 外用液劑 | 洸洋化學製藥股份有限公司 | 2028/01/10 | 切傷、刀傷、創傷、火傷、蟲咬傷、頭暈。 |
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（8 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 內衛藥製字第001049號 | "美"解癢藥膏 | PHENOL (CARBOLIC ACID)、METHYL SALICYLATE、DL-METHYLEPHEDRINE… | 軟膏劑 | 急、慢性濕疹、皮膚搔癢症、汗疹、癢疹、蕁麻疹、肛門陰部部搔癢症、蚊蟲咬刺傷、痱子疹 |
+| 衛署成製字第005716號 | "德山"青皮藥膠布 | METHYL SALICYLATE、L-MENTHOL、PEPPERMINT OIL (OLEUM MENTH PIP)… | 藥膠布 | 神經痛、腰痛、打撲痛、筋肉痛、挫傷、腫脹、扭傷、肩膀酸痛、關節痛 |
+| 衛署成製字第005910號 | "德山"象印膏藥膠布 | METHYL SALICYLATE、L-MENTHOL、ZINC OXIDE、PEPPERMINT OIL (OLEUM… | 藥膠布 | 肩痛、腰痛、打撲傷、肌肉痛、神經痛、齒痛、頭痛、關節痛之消炎鎮痛 |
+| 衛署成製字第009417號 | “艾力特”金象油 | PEPPERMINT OIL (OLEUM MENTH PIP)、CLOVE OIL、L-MENTHOL、EUCALYP… | 軟膏劑 | 切傷、刀傷、創傷、蚊蟲咬傷、頭暈 |
+| 衛署藥製字第021676號 | 諾得胃腸藥散 | CLOVE OIL、MAGNESIUM CARBONATE HEAVY、SWERTIA POWDER、SCOPOLIA… | 散劑 | 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多 |
+| 衛署藥製字第023893號 | 晶涼軟膏 | PEPPERMINT OIL (OLEUM MENTH PIP)、D-CAMPHOR、CLOVE OIL、L-MENTH… | 軟膏劑 | 切傷、刀傷、創傷、火傷、蟲咬傷、頭暈 |
+| 衛署藥製字第028231號 | "德山"祛風濕藥膠布 | MENTHOL、CAMPHOR、SCOPOLIA EXTRACT、PEPPERMINT OIL (OLEUM MENTH… | 藥膠布 | 神經痛、關節痛、風濕、打撲傷、腰痛、齒痛。 |
+| 衛署藥製字第045173號 | "德山" 舒痠痛藥布 | EUCALYPTUS OIL (OLEUM EUCALYPTI)、CAMPHOR、L-MENTHOL、PEPPERMIN… | 藥膠布 | 打撲、捻挫、肌肉痛、肩膀痠痛、腰痛、關節痛、肌肉疲勞。 |
+
+<details><summary><strong>已註銷</strong>（26 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛成製字第001012號</td><td>消腫膏</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、EUCALYPTUS OIL (OLEUM EUCAL…</td><td>2000/08/08</td></tr><tr><td>內衛成製字第003097號</td><td>虎標永安堂八卦丹</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、GLYCYRRHIZA POWDER</td><td>1992/10/28</td></tr><tr><td>內衛成製字第003166號</td><td>如意油</td><td>CLOVE OIL、CASSIA OIL、SESAME OIL、PEPPERMINT OIL (OLEUM MENTH…</td><td>1998/01/12</td></tr><tr><td>內衛藥輸字第000507號</td><td>薄荷油</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)</td><td>2005/06/16</td></tr><tr><td>內衛藥輸字第002925號</td><td>尼可散</td><td>PYRIDOXINE HCL、THIAMINE NITRATE、RIBOFLAVIN (VIT B2)、CINNAMON…</td><td>1986/06/14</td></tr><tr><td>衛署成製字第003328號</td><td>爭虎油</td><td>CLOVE OIL、PEPPERMINT OIL (OLEUM MENTH PIP)、ROSEMARY OIL (OLE…</td><td>1998/02/27</td></tr><tr><td>衛署成製字第003836號</td><td>百珍膏布</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、METHYL SALICYLATE、GARDENIA…</td><td>2015/01/15</td></tr><tr><td>衛署成製字第004211號</td><td>金龍藥膏布</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、L-MENTHOL、THYMOL、GARDENIA F…</td><td>2015/01/15</td></tr><tr><td>衛署成製字第004435號</td><td>黃金膏</td><td>DIPHENHYDRAMINE、METHYL SALICYLATE、PEPPERMINT OIL (OLEUM MENT…</td><td>2015/01/15</td></tr><tr><td>衛署成製字第004906號</td><td>李施德美漱口藥水</td><td>ETHANOL ( EQ TO ETHYL ALCOHOL) (EQ TO ALCOHOL)、METHYL SALICY…</td><td>1998/07/06</td></tr><tr><td>衛署成製字第005021號</td><td>金象油</td><td>JASMINE OIL、PEPPERMINT OIL (OLEUM MENTH PIP)、CLOVE OIL、L-MEN…</td><td>1993/11/10</td></tr><tr><td>衛署成製字第005666號</td><td>大維貼痠痛藥布</td><td>METHYL SALICYLATE、OLIVE OIL、EUCALYPTUS OIL (OLEUM EUCALYPTI)…</td><td>2013/10/03</td></tr><tr><td>衛署成製字第005830號</td><td>耐斯藥膠布</td><td>PHELLODENDRON BARK POWDER (EQ TO POWDERED PHELLODENDRON BARK…</td><td>2015/01/15</td></tr><tr><td>衛署成製字第006647號</td><td>疼痛膏</td><td>DL-CAMPHOR、THYMOL、MENTHOL、SALICYL ETHYLENE GLYCOL、PEPPERMINT…</td><td>2015/01/15</td></tr><tr><td>衛署成製字第009123號</td><td>金獅牌香口丹</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、GLYCYRRHIZA (LIQUORICE)</td><td>1998/09/09</td></tr><tr><td>衛署成製字第009759號</td><td>薄荷李施德霖漱口水</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、METHYL SALICYLATE、SPEARMINT…</td><td>2007/05/09</td></tr><tr><td>衛署成製字第010407號</td><td>清涼油</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、CLOVE OIL、ANISE OIL、CINNAMO…</td><td>2022/05/05</td></tr><tr><td>衛署成製字第015032號</td><td>“杏輝”晶涼軟膏</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、L-MENTHOL、EUCALYPTUS OIL (O…</td><td>2023/07/07</td></tr><tr><td>衛署藥製字第009248號</td><td>咳香糖錠</td><td>THYME OIL、PEPPERMINT OIL (OLEUM MENTH PIP)、EUCALYPTUS OIL (O…</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第011334號</td><td>"三陽" 痠痛萬金膏</td><td>METHYL SALICYLATE、PHELLODENDRON EXTRACT、MENTHOL、CAMPHOR、CHLO…</td><td>2015/01/15</td></tr><tr><td>衛署藥製字第018223號</td><td>鎮痢懸浮液</td><td>KAOLIN (WHITE)(BOLUS ALBA)、BENZOIC ACID、PECTIN、PEPPERMINT OI…</td><td>1992/12/10</td></tr><tr><td>衛署藥製字第019683號</td><td>健樂仙壹錠</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、ALUMINUM HYDROXIDE DRIED GE…</td><td>2017/02/03</td></tr><tr><td>衛署藥製字第023884號</td><td>寶安藥膠布</td><td>EUCALYPTUS OIL (OLEUM EUCALYPTI)、SCOPOLIA EXTRACT、CAMPHOR、L-…</td><td>2015/01/15</td></tr><tr><td>衛署藥製字第027213號</td><td>健胃仙錠</td><td>PEPPERMINT OIL (OLEUM MENTH PIP)、SIMETHICONE (ACTIVE DIMETHI…</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第009198號</td><td>莎膚納軟膏</td><td>CAMPHOR、L-MENTHOL、PEPPERMINT OIL (OLEUM MENTH PIP)、DIPHENHYD…</td><td>2022/07/20</td></tr><tr><td>衛署藥輸字第010094號</td><td>維時利軟膠囊</td><td>INOSITOL (MESO-INOSITOL)、VITAMIN B1 (MONONITRATE)、ASCORBATE…</td><td>2020/04/16</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

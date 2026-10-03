@@ -9,6 +9,14 @@ import subprocess
 import time
 from pathlib import Path
 
+
+
+def clean_response(text: str) -> str:
+    """去掉 LLM 回應開頭的開場白與內部用語（產線後處理同一套規則）。"""
+    from ..regulatory.page_postprocess import strip_preamble, replace_jargon
+    return replace_jargon(strip_preamble(text))
+
+
 # Transient error patterns that trigger retry with backoff
 _TRANSIENT_PATTERNS = ("overloaded", "timeout", "rate", "quota", "limit", "capacity", "too many")
 
@@ -95,6 +103,10 @@ class LLMClient:
             "--tools", "",
             "--strict-mcp-config",
             "--mcp-config", '{"mcpServers":{}}',
+            # 不載入任何技能與使用者／專案設定（CLAUDE.md、skills）。2026-10-03 前沒關，
+            # 模型會先寫「使用 txgnn-pipeline 技能確認…」這類開場白，被原樣寫進藥物頁。
+            "--disable-slash-commands",
+            "--setting-sources", "",
         ]
 
         if self.model:
@@ -127,7 +139,7 @@ class LLMClient:
                     raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {(stderr or stdout)[:300]}")
 
                 self._on_success()
-                return result.stdout.strip()
+                return clean_response(result.stdout.strip())
 
             except subprocess.TimeoutExpired as e:
                 last_error = e

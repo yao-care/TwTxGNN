@@ -119,15 +119,25 @@ Deoxycholic acid 是一種膽酸類藥物，用於注射改善成人頦下脂肪
 
 ## 台灣上市狀態
 
-| 許可證號 | 商品名 | 劑型 | 適應症 | 狀態 |
-|----------|--------|------|--------|------|
-| 衛部藥輸字第027135號、衛部藥製字第061007號、衛部藥製字第061840號 | 倍克脂注射劑（Belkyra）、容脂注射劑、麗容脂注射劑 | 注射劑 | 改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀 | 有效 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin deoxycholic-acid-tw-license-table-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核更正（2026-10-03）**：原寫「多項／去氧熊膽酸等／粉劑/膠囊／膽結石溶解、利膽／部分有效」。「去氧熊膽酸」是 ursodeoxycholic acid（UDCA），與 deoxycholic acid 是不同成分；台灣現行有效的 deoxycholic acid 製劑是頦下脂肪注射劑。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Deoxycholic Acid 的不重複許可證共 **6 張**：有效單方 4 張、有效複方 0 張、已註銷 2 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end deoxycholic-acid-tw-license-table-2026-10-03 -->
+**有效・單方**（4 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛部藥製字第061007號 | 容脂注射劑10.56毫克/毫升 | 注射液劑 | 頂尖生技顧問股份有限公司 | 2031/10/28 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。 |
+| 衛部藥製字第061840號 | 麗容脂注射劑 10.56毫克/毫升 | 注射液劑 | 泰宗生物科技股份有限公司 | 2029/05/09 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。 |
+| 衛部藥輸字第027135號 | 倍克脂注射劑 | 注射液劑 | 瑞士商艾伯維藥品有限公司台灣分公司 | 2027/05/24 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。 |
+| 衛部藥輸字第028648號 | 去氧膽酸 | （粉） | 溫帝國際有限公司 | 2029/01/17 | 乳化劑；頦下脂肪消除劑(注射) |
+
+<details><summary><strong>已註銷</strong>（2 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第020217號</td><td>可樂秘膠囊</td><td>PHENOLPHTHALEIN、DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、DE…</td><td>1991/06/27</td></tr><tr><td>衛署藥輸字第010588號</td><td>肝得健注射劑</td><td>CYANOCOBALAMIN (VIT B12)、DEOXYCHOLIC ACID (DESOXYCHOLIC ACID…</td><td>1992/05/28</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **備註**：多數許可證已註銷，目前主要以 ursodeoxycholic acid 產品為主流。
 
@@ -185,7 +195,7 @@ Deoxycholic acid 的 TxGNN 預測多為罕見遺傳疾病，臨床實用性低�
 |---------|------|------|------|
 | 2026-10-03 | 「用於膽結石溶解和皮下脂肪消除」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 | 2026-10-03 | 原適應症列入膽結石溶解、原發性膽道肝硬化 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
-| 2026-10-03 | 許可證表列「去氧熊膽酸」（UDCA）製劑 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表列「去氧熊膽酸」（UDCA）製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 備註「多數許可證已註銷，目前主要以 UDCA 產品為主流」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

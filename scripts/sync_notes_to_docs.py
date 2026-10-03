@@ -15,6 +15,9 @@ Usage:
 import json
 import re
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from twtxgnn.regulatory.page_postprocess import process_for_site  # noqa: E402
 
 
 LANG_BY_PROJECT = {
@@ -237,6 +240,12 @@ indication_count: {indication_count}
 """
 
         full_content = front_matter + content + disclaimer + "\n---\n\n"
+        # 確定性後處理（2026-10-03）：清開場白／內部用語、許可證表與張數改由 TFDA 資料集產生，
+        # 並驗證頁面上每個許可證字號都屬於這個藥；不符就擋下、不同步。
+        full_content, bad_ids = process_for_site(full_content, drug_name, title)
+        if bad_ids:
+            errors.append(f"{drug_name}: 頁面上有不屬於本藥的許可證字號 {bad_ids}，未同步")
+            continue
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1
 

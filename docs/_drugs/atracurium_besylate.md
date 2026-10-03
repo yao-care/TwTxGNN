@@ -42,7 +42,7 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L3 (觀察性研究/文獻支持) |
 | 台灣上市 | 已上市 |
-| 許可證數 | 5 (有效許可證) |
+| 許可證數 | 6 張（有效單方 2／有效複方 0／已註銷 4） |
 | 建議決策 | Consider |
 
 <!-- review:begin atracurium-preeclampsia-rereview-2026-10-03 -->
@@ -76,18 +76,24 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 | 18383970 | 2008 | Remifentanil bolus for cesarean section in high-risk patients | 高風險剖腹產麻醉管理，包含 atracurium 使用經驗 |
 
 ## 台灣上市資訊
-| 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |
-|----------|----------|------|--------------|------|
-| 衛部藥製字第060359號 | 衛平適注射液2毫克/毫升 | 注射液劑 | 健亞生物科技 | 2029/09/25 |
-| 衛部藥輸字第026541號 | 卡比肌鬆弛注射液2毫克/毫升 | 注射劑 | 台灣費森尤斯卡比 | 2025/05/18 |
-| 衛署藥輸字第022770號 | 肌弛適注射液2公絲/公撮 | 注射液劑 | 安沛國際 | 2030/01/19 |
-| 衛署藥製字第042879號 | 健亞健舒注射液10公絲/公撮 | 注射劑 | 健亞生物科技 | 2029/04/02 |
 
-<!-- review:begin atracurium-license-rows-cisatracurium-2026-10-03 -->
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-> **查核加註（2026-10-03）**：上表前三列（衛平適注射液、卡比肌鬆弛注射液、肌弛適注射液）在 TFDA 登載的主成分是 cisatracurium besylate，是另一個藥品，不是 atracurium；只有「健亞健舒注射液」（衛署藥製字第042879號）是 atracurium besylate。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-<!-- review:end atracurium-license-rows-cisatracurium-2026-10-03 -->
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Atracurium Besylate 的不重複許可證共 **6 張**：有效單方 2 張、有效複方 0 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第042879號 | 〝健亞〞健舒注射液１０公絲/公撮（艾翠克瑞） | 注射劑 | 健亞生物科技股份有限公司 | 2029/04/02 | 本藥乃一高選擇性及競爭性的非去極化神經肌肉阻斷劑。可作為手術全身麻醉或加護病房鎮靜的輔助劑、以鬆弛骨骼肌、幫助氣管插管與人工吸器的協調。 |
+| 衛部藥輸字第029182號 | 阿曲庫銨苯磺酸鹽 | （粉） | 宇直泰貿易股份有限公司 | 2031/06/04 | 骨骼肌鬆弛劑 |
+
+<details><summary><strong>已註銷</strong>（4 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第013148號</td><td>妥開利注射劑</td><td>ATRACURIUM BESYLATE</td><td>2025/06/09</td></tr><tr><td>衛署藥輸字第022066號</td><td>爾促開利注射劑１０公絲／公撮〝岱比博〞</td><td>ATRACURIUM BESYLATE</td><td>2010/10/18</td></tr><tr><td>衛署藥輸字第023136號</td><td>亞庫凱林注射劑５０公絲/小瓶</td><td>ATRACURIUM BESYLATE</td><td>2013/01/03</td></tr><tr><td>衛署藥輸字第023147號</td><td>亞庫凱林注射劑１０公絲/公撮（多次劑量）</td><td>ATRACURIUM BESYLATE</td><td>2013/01/03</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 - 無已記錄的重大藥物交互作用資料
@@ -113,7 +119,7 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 |---------|------|------|------|
 | 2026-10-03 | 「不引起組織胺釋放相關的血壓波動」 | 加註 | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
 | 2026-10-03 | 子癇前症預測標記待重審 | 標記待重審 | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
-| 2026-10-03 | 許可證表中三張是 cisatracurium 製劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表中三張是 cisatracurium 製劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

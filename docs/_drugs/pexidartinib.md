@@ -46,7 +46,7 @@ Pexidartinib（圖拉留）是一種口服小分子 CSF-1R 酪胺酸激酶抑制
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L3 |
 | 台灣上市 | 曾核准上市（唯一許可證已於 2026-02-03 註銷） |
-| 許可證數 | 1 張（已註銷） |
+| 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
 <!-- review:begin pexidartinib-license-cancelled-2026-10-03 -->
@@ -54,12 +54,6 @@ Pexidartinib（圖拉留）是一種口服小分子 CSF-1R 酪胺酸激酶抑制
 > **查核更正（2026-10-03）**：原寫「台灣上市／✓ 已上市」。TFDA 登載 pexidartinib 只有一張許可證（衛部藥輸字第028293號「圖拉留膠囊200毫克」），已於 2026-02-03 註銷，目前沒有有效許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end pexidartinib-license-cancelled-2026-10-03 -->
-
-<!-- review:begin pexidartinib-license-count-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「許可證數／2 張」。TFDA 登載含 pexidartinib 的許可證共 1 張（衛部藥輸字第028293號）。該證已於 2026-02-03 註銷。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end pexidartinib-license-count-2026-10-03 -->
 
 ---
 
@@ -83,9 +77,16 @@ I-SPY 2（NCT01042379）是乳癌新輔助治療領域規模最大的自適應�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第028293號 | 圖拉留膠囊200毫克 | 膠囊劑 | 無法透過手術或其他治療(如局部放射線治療)改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤(TGCT)成人病人。 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Pexidartinib 的不重複許可證共 **1 張**：有效單方 0 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛部藥輸字第028293號</td><td>圖拉留膠囊200毫克</td><td>Pexidartinib HCl</td><td>2026/02/03</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 
@@ -155,7 +156,7 @@ TxGNN 預測分數達 99.98%，CSF-1R 抑制透過減少腫瘤相關巨噬細胞
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「台灣上市 ✓ 已上市」（唯一許可證已註銷） | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證數寫 2 張 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證數寫 2 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

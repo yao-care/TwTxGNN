@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-以下是根據 Evidence Pack 產生的完整評估報告：
-
----
-
 # Iohexol：從造影劑到失眠
 
 ## 一句話總結
@@ -52,7 +48,7 @@ TxGNN 模型預測它可能對**失眠 (insomnia disease)** 有效，
 | TxGNN 預測分數 | 99.87% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 18 張（有效單方 2／有效複方 2／已註銷 14） |
 | 建議決策 | Hold |
 
 ---
@@ -81,13 +77,30 @@ TxGNN 模型預測它可能對**失眠 (insomnia disease)** 有效，
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥製字第044709號 | 威能碘注射液300公絲碘/公撮 | 注射劑 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影 |
-| 衛署藥製字第044720號 | 威能碘注射液350公絲碘/公撮 | 注射劑 | 脊椎造影、血管造影、電腦斷層掃瞄增強造影劑、泌尿道造影 |
-| 衛署藥輸字第014483號 | 安你拍克注射劑300毫克碘/公撮 | 注射劑 | 脊椎造影、血管造影、電腦斷層掃瞄增強造影、泌尿系造影 |
-| 衛署藥輸字第014484號 | 安你拍克注射劑350毫克碘/公撮 | 注射劑 | 脊椎造影、血管造影、電腦斷層掃瞄增強造影、泌尿系造影 |
-| 衛署藥輸字第021652號 | 安你拍克注射劑300毫克碘/公撮 | 注射劑 | 脊椎造影、血管造影、電腦斷層掃瞄增強造影、泌尿道造影 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Iohexol 的不重複許可證共 **18 張**：有效單方 2 張、有效複方 2 張、已註銷 14 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥輸字第022865號 | 〝奇異愛爾蘭廠〞安你拍克 注射劑350毫克碘/公撮 | 注射劑 | 奇異亞洲醫療設備股份有限公司 | 2030/04/27 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影。 |
+| 衛署藥輸字第022866號 | "奇異愛爾蘭廠" 安你拍克 注射劑300毫克碘/公撮 | 注射劑 | 奇異亞洲醫療設備股份有限公司 | 2030/04/27 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影。 |
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第044709號 | 威能碘注射液300公絲碘/公撮 | IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL) | 注射劑 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影。 |
+| 衛署藥製字第044720號 | 威能碘注射液350公絲碘/公撮 | TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL | 注射劑 | 脊椎造影、血管造影、電腦斷層掃瞄增強造影劑、泌尿道造影。 |
+
+<details><summary><strong>已註銷</strong>（14 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第014483號</td><td>安你拍克注射劑３００毫克碘/公撮</td><td>IOHEXOL (ANHYDROUS)</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第014484號</td><td>安你拍克注射劑３５０毫克碘/公撮</td><td>IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第015944號</td><td>安你拍克注射劑１８０毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第015975號</td><td>安你拍克注射劑２４０毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第020621號</td><td>安你拍克注射劑１８０毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020622號</td><td>安你拍克注射劑２４０毫克碘/公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020740號</td><td>安你拍克注射劑３５０毫克碘/公撮</td><td>IOHEXOL</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020741號</td><td>安你拍克注射劑３００毫克碘/公撮</td><td>IOHEXOL (ANHYDROUS)、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO…</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第021651號</td><td>安你拍克注射劑２４０毫克碘／公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第021652號</td><td>安你拍克注射劑３００毫克碘／公撮</td><td>IOHEXOL (ANHYDROUS)</td><td>2023/11/15</td></tr><tr><td>衛署藥輸字第021653號</td><td>安你拍克注射劑３５０毫克碘／公撮</td><td>IOHEXOL</td><td>2023/11/16</td></tr><tr><td>衛署藥輸字第021654號</td><td>安你拍克注射劑１８０毫克碘／公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第023241號</td><td>"奇異愛爾蘭廠" 安你拍克 注射劑180毫克碘/公撮</td><td>IOHEXOL</td><td>2025/09/15</td></tr><tr><td>衛署藥輸字第023242號</td><td>"奇異愛爾蘭廠" 安你拍克 注射劑240毫克碘/公撮</td><td>IOHEXOL</td><td>2025/09/15</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

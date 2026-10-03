@@ -1,6 +1,7 @@
 """TFDA collector - fetches Taiwan FDA drug data."""
 
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -89,33 +90,18 @@ class TFDACollector(BaseCollector):
             )
 
     def _find_matches(self, drug: str, data: list[dict]) -> list[dict]:
-        """Find records matching the drug name.
+        """Find records for a drug, one per license ID.
 
-        Args:
-            drug: Drug name to search for
-            data: List of FDA records
-
-        Returns:
-            List of matching records
+        2026-10-03 起：英文藥名走 twtxgnn.regulatory.tfda_licenses 的主成分比對（確定性、
+        不再用全文子字串，避免把 penicillin G procaine 算成 procaine、把適應症裡提到藥名的
+        別藥算進來）；中文查詢才比對中文品名。同一字號在資料集重複多列時只留一筆。
         """
-        drug_lower = drug.lower()
-        matches = []
+        from ..regulatory.tfda_licenses import dedupe, licenses_for_drug
 
-        for record in data:
-            # Check various name fields
-            fields_to_check = [
-                record.get("中文品名", ""),
-                record.get("英文品名", ""),
-                record.get("主成分略述", ""),
-                record.get("適應症", ""),
-            ]
-
-            for field in fields_to_check:
-                if field and drug_lower in field.lower():
-                    matches.append(record)
-                    break
-
-        return matches
+        by_id = dedupe(data)
+        if re.search(r"[A-Za-z]", drug):
+            return [by_id[x["id"]] for x in licenses_for_drug(drug, by_id)]
+        return [r for r in by_id.values() if drug and drug in (r.get("中文品名") or "")]
 
     def _filter_by_indication(
         self, records: list[dict], disease: str
@@ -153,7 +139,10 @@ class TFDACollector(BaseCollector):
             return {"found": False, "records": []}
 
         formatted_records = []
-        for record in records[:20]:  # Limit to 20 records
+        # 2026-10-03：拿掉 records[:20] 上限，張數＝不重複字號數，並標示單方／複方／已註銷
+        from ..regulatory.tfda_licenses import summarize, to_license
+
+        for record in records:
             formatted = {
                 "license_id": record.get("許可證字號", ""),
                 "brand_name_zh": record.get("中文品名", ""),
@@ -167,7 +156,12 @@ class TFDACollector(BaseCollector):
                 "expiry_date": record.get("有效日期", ""),
                 "status": record.get("註銷狀態", ""),
             }
+            lic = to_license(record) if record.get("許可證字號") else None
+            if lic:
+                formatted["kind"] = lic["kind"]
+                formatted["license_status"] = lic["status"]
             formatted_records.append(formatted)
+        summary = summarize([to_license(r) for r in records if r.get("許可證字號")])
 
         # Create package insert summary from first record
         first_record = records[0]
@@ -182,6 +176,7 @@ class TFDACollector(BaseCollector):
             "found": True,
             "records": formatted_records,
             "total_matches": len(records),
+            "summary": summary,
             "package_insert": package_insert,
         }
 

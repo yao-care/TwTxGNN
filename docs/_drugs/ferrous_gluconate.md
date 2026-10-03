@@ -84,6 +84,31 @@ indication_count: 5
 
 ## 台灣上市資訊
 
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ferrous Gluconate 的不重複許可證共 **22 張**：有效單方 2 張、有效複方 2 張、已註銷 18 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 內衛藥製字第002605號 | 葡萄糖酸鐵糖衣錠 | 糖衣錠 | 天下生物科技股份有限公司 | 2029/05/25 | 各種鐵缺乏性貧血症 |
+| 衛部藥輸字第028799號 | 葡萄糖酸亞鐵 | （粉） | 誠品貿易股份有限公司 | 2029/09/05 | 補鐵劑 |
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 內衛藥製字第001822號 | 維他葡萄糖鐵糖衣錠 | FERROUS GLUCONATE、ASCORBIC ACID (VIT C)、THIAMINE (VITAMIN B1… | 糖衣錠 | 一般食餌性及續發性之鐵缺乏性貧血、妊娠產前產後貧血、小兒貧血、更年期貧血、及其他鐵缺乏性貧血。 |
+| 內衛藥製字第009171號 | 血命健糖衣片 | LIVER、FERROUS GLUCONATE、ASCORBIC ACID (VIT C)、CYANOCOBALAMIN… | 糖衣錠 | 營養不良、缺乏鐵質之貧血以及供應妊娠期間所需之維生素和礦物質。 |
+
+<details><summary><strong>已註銷</strong>（18 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000227號</td><td>利血康膠囊</td><td>FOLIC ACID、RIBOFLAVIN (VIT B2)、POWDER STOMACH、PYRIDOXINE(VIT…</td><td>1999/08/23</td></tr><tr><td>內衛藥輸字第000527號</td><td>葡萄化亞鐵</td><td>FERROUS GLUCONATE</td><td>2005/06/16</td></tr><tr><td>內衛藥輸字第001431號</td><td>葡萄糖酸鐵</td><td>FERROUS GLUCONATE</td><td>1986/05/12</td></tr><tr><td>內衛藥輸字第005689號</td><td>複方肥爾康</td><td>VITAMIN B12 WITH INTRINSIC FACTOR CONCERTRATE、ASCORBIC ACID…</td><td>1999/09/22</td></tr><tr><td>內衛藥輸字第006291號</td><td>菲路宜</td><td>FERROUS GLUCONATE</td><td>1991/02/01</td></tr><tr><td>衛署藥製字第002989號</td><td>補血維他糖衣錠</td><td>OROTIC ACID (VIT B13)、THIAMINE NITRATE、FOLIC ACID、RIBOFLAVIN…</td><td>2010/02/08</td></tr><tr><td>衛署藥製字第018495號</td><td>血邁增糖衣錠</td><td>CUPRIC SULFATE、ASCORBIC ACID (VIT C)、FERROUS GLUCONATE、CYANO…</td><td>1990/09/25</td></tr><tr><td>衛署藥製字第028566號</td><td>力元膠囊</td><td>LIVER DESICCATED、CYANOCOBALAMIN (VIT B12)、CETOTIAMINE、FERROU…</td><td>1988/12/31</td></tr><tr><td>衛署藥輸字第000013號</td><td>維他補血命</td><td>BONE MARROW GLYCERINATED、NIACINAMIDE (NICOTINAMIDE)、THIAMINE…</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第000238號</td><td>葡萄糖酸鐵</td><td>FERROUS GLUCONATE</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第007081號</td><td>佳維他命膜衣錠</td><td>INOSITOL (MESO-INOSITOL)、GLUTAMIC ACID、VITAMIN D、ALFALFA LEA…</td><td>2003/12/05</td></tr><tr><td>衛署藥輸字第007082號</td><td>維特維他命膜衣錠</td><td>BIOFLAVINOIDS (CITRUS FLAVONOID COMPOUNDS)、LECITHIN(LECITHOL…</td><td>2004/05/19</td></tr><tr><td>衛署藥輸字第009385號</td><td>維蒙力斯膠囊</td><td>RIBOFLAVIN (VIT B2)、FOLIC ACID、RUTIN、METHIONINE、PANTOTHENATE…</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第010494號</td><td>瑞服康軟膠囊</td><td>NIACINAMIDE (NICOTINAMIDE)、OROTIC ACID (VIT B13)、FOLIC ACID、…</td><td>1992/07/02</td></tr><tr><td>衛署藥輸字第011286號</td><td>愛爾敦健力糖衣錠</td><td>CALCIUM PHOSPHATE DIBASIC、FERROUS GLUCONATE、THIAMINE (VITAMI…</td><td>1993/08/12</td></tr><tr><td>衛署藥輸字第011483號</td><td>美佳多士膜衣錠</td><td>VITAMIN A (FISH LIVER OIL)、FERROUS GLUCONATE、BIOFLAVINOIDS (…</td><td>2004/12/08</td></tr><tr><td>衛署藥輸字第012603號</td><td>喜得龍</td><td>CYANOCOBALAMIN (VIT B12)、LIVER DESICCATED、FERROUS GLUCONATE、…</td><td>1995/09/13</td></tr><tr><td>衛署藥輸字第021007號</td><td>喜得龍膠囊</td><td>LIVER DESICCATED、CYANOCOBALAMIN (VIT B12)、ASCORBIC ACID (VIT…</td><td>2015/02/24</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
+
 **有效許可證（部分）：**
 - 內衛藥製字第002605號 - 葡萄糖酸鐵糖衣錠（天下生物科技）- 有效至 2029/05/25
 - 內衛藥製字第001822號 - 維他葡萄糖鐵糖衣錠（強生化學）- 有效至 2029/05/25

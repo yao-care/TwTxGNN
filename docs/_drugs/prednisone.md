@@ -44,7 +44,7 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L2 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 多張 |
+| 許可證數 | 7 張（有效單方 0／有效複方 1／已註銷 6） |
 | 建議決策 | Go |
 
 <!-- review:begin prednisone-original-indication-other-drugs-2026-10-03 -->
@@ -81,15 +81,22 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 多張許可證 | 保癌寧等 | 錠劑/注射劑 | 風濕性關節炎、急性病症、皮膚疾患等 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin prednisone-polatuzumab-row-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：「保癌寧」（衛部菌疫輸字第001123號）主成分是 polatuzumab vedotin，不是 prednisone，只是適應症提到與含 prednisone 的 R-CHP 療法併用。TFDA 目前含 prednisone 的有效許可證只有衛署藥製字第042080號「育麗素軟膏」（prednisone＋crotamiton 複方外用，核准濕疹或皮膚炎）；口服單方 prednisone 許可證（如衛部藥輸字第026256號「樂多特1毫克緩釋錠」）已於 2018-09-10 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Prednisone 的不重複許可證共 **7 張**：有效單方 0 張、有效複方 1 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end prednisone-polatuzumab-row-2026-10-03 -->
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第042080號 | 育麗素軟膏 | PREDNISONE、CROTAMITON | 軟膏劑 | 濕疹或皮膚炎 |
+
+<details><summary><strong>已註銷</strong>（6 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第006887號</td><td>育麗素軟膏</td><td>CROTAMITON、PREDNISONE</td><td>1998/07/30</td></tr><tr><td>內衛藥製字第013051號</td><td>百力康軟膏</td><td>PREDNISONE</td><td>1996/08/15</td></tr><tr><td>衛署藥輸字第001597號</td><td>"普強" 去氫可體松</td><td>PREDNISONE</td><td>2016/05/31</td></tr><tr><td>衛部藥輸字第026256號</td><td>樂多特1毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026257號</td><td>樂多特2毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026258號</td><td>樂多特5毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 
@@ -121,7 +128,7 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表「保癌寧等」列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「保癌寧等」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原適應症」混入 methylprednisolone 等其他成分的許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

@@ -112,11 +112,23 @@ Brogden et al. (1977) 的藥物回顧指出：
 
 ## 台灣上市資訊
 
-| 許可證字號 | 中文品名 | 劑量 | 許可證持有者 | 狀態 |
-|-----------|---------|------|-------------|------|
-| 衛署藥製字第041435號 | 應元炎普朗膠囊 | 200mg | 應元化學製藥 | 有效 |
-| 衛署藥製字第037862號 | 伏炎痛膠囊 | - | 西德有機化學藥品 | 有效 |
-| 衛署藥製字第011765號 | 風諾保膠囊 | 300mg | 臺灣禮來 | 已註銷 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Fenoprofen 的不重複許可證共 **10 張**：有效單方 2 張、有效複方 0 張、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第037862號 | 伏炎痛膠囊 | 膠囊劑 | 西德有機化學藥品股份有限公司 | 2029/08/02 | 鎮痛。 |
+| 衛署藥製字第041435號 | "應元"炎普朗膠囊２００毫克（芬諾普芬） | 膠囊劑 | 應元化學製藥股份有限公司 | 2027/06/26 | 鎮痛。 |
+
+<details><summary><strong>已註銷</strong>（8 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第011765號</td><td>風諾保膠囊３００公絲</td><td>FENOPROFEN (CALCIUM)</td><td>2002/09/02</td></tr><tr><td>衛署藥製字第022278號</td><td>痛保膠囊２００公絲（芬諾普芬）</td><td>FENOPROFEN (CALCIUM)</td><td>2002/09/02</td></tr><tr><td>衛署藥輸字第001373號</td><td>菲諾普魯芬鈣</td><td>FENOPROFEN CALCIUM</td><td>1987/09/21</td></tr><tr><td>衛署藥輸字第015760號</td><td>芬諾普芬鈣（膠囊用）</td><td>FENOPROFEN CALCIUM</td><td>2016/05/18</td></tr><tr><td>衛署藥輸字第016969號</td><td>芬諾普芬鈣</td><td>FENOPROFEN CALCIUM</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第019161號</td><td>芬諾普芬鈣</td><td>FENOPROFEN CALCIUM</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019882號</td><td>芬諾普芬鈣</td><td>FENOPROFEN CALCIUM</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第019945號</td><td>芬諾普芬鈣</td><td>FENOPROFEN CALCIUM</td><td>2000/10/18</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **注意**：多數 fenoprofen 製劑已註銷，目前在台灣取得較困難。
 

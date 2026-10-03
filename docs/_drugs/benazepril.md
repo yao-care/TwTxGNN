@@ -42,7 +42,7 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 | TxGNN 預測分數 | 99.65% |
 | 證據等級 | L5 (僅預測，需謹慎評估) |
 | 台灣上市 | 已上市 |
-| 許可證數 | 5 (有效許可證) |
+| 許可證數 | 8 張（有效單方 1／有效複方 4／已註銷 3） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測需要謹慎？
@@ -69,31 +69,32 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 | - | - | (無直接針對此適應症的文獻) | - |
 
 ## 台灣上市資訊
-| 許可證號 | 中文品名 | 劑型 | 許可證持有者 | 效期 |
-|----------|----------|------|--------------|------|
-| 衛署藥製字第056647號 | 紓心膠囊 | 膠囊劑 | 東生華製藥 | 2031/07/21 |
-| 衛署藥製字第057325號 | 壓諾本錠 | 錠劑 | 台灣東洋藥品 | 2027/08/10 |
-| 衛署藥輸字第025881號 | 鹽酸貝那普利 | 原料藥 | 鴻傑藥品 | 2027/12/28 |
-| 衛署藥製字第046742號 | 諾壓錠 | 錠劑 | 東生華製藥 | 2029/12/24 |
-| 衛部藥製字第059395號 | 可得寧膜衣錠 | 膜衣錠 | 中國化學製藥 | 2026/12/09 |
 
-<!-- review:begin benazepril-license-025881-prefix-2026-10-03 -->
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-> **查核更正（2026-10-03）**：原寫「衛部藥輸字第025881號／鹽酸貝那普利／原料藥／鴻傑藥品／2027/12/28」。字號應為「衛署藥輸字第025881號」（TFDA 查無「衛部藥輸字第025881號」）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-<!-- review:end benazepril-license-025881-prefix-2026-10-03 -->
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Benazepril 的不重複許可證共 **8 張**：有效單方 1 張、有效複方 4 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:begin benazepril-license-056647-expiry-2026-10-03 -->
+**有效・單方**（1 張）
 
-> **查核更正（2026-10-03）**：原寫「衛署藥製字第056647號／紓心膠囊／膠囊劑／東生華製藥／2026/07/21」。TFDA 登載的有效日期是 2031/07/21，不是 2026/07/21。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥輸字第025881號 | 鹽酸貝那普利 | （粉） | 鴻傑藥品有限公司 | 2027/12/28 | 血管收縮素轉化每抑制劑 |
 
-<!-- review:end benazepril-license-056647-expiry-2026-10-03 -->
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
 
-<!-- review:begin benazepril-license-rows-combo-2026-10-03 -->
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第046742號 | 諾壓錠 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 錠劑 | 治療高血壓，此複方藥品不適合用於起始治療。 |
+| 衛署藥製字第056647號 | 紓心膠囊 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 膠囊劑 | 治療高血壓，此複方藥品不適合用於起始治療 |
+| 衛署藥製字第057325號 | 壓諾本錠 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 錠劑 | 治療高血壓，此複方藥品不適合用於起始治療。 |
+| 衛部藥製字第059395號 | 可得寧膜衣錠5/10毫克 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 膜衣錠 | 治療高血壓。此複方藥品不適合用於起始治療。 |
 
-> **查核加註（2026-10-03）**：上表 4 張成品許可證（紓心膠囊、壓諾本錠、諾壓錠、可得寧膜衣錠）都是 amlodipine 加 benazepril 的複方，許可證註明不適合用於起始治療；benazepril 單方成品「汽巴欣膜衣錠」（衛署藥輸字第019089～019091號）都已註銷，表中只有鹽酸貝那普利原料藥是單方。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+<details><summary><strong>已註銷</strong>（3 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第019089號</td><td>汽巴欣膜衣錠5毫克</td><td>BENAZEPRIL HYDROCHLORIDE</td><td>2018/07/13</td></tr><tr><td>衛署藥輸字第019090號</td><td>汽巴欣膜衣錠１０公絲</td><td>BENAZEPRIL HYDROCHLORIDE</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第019091號</td><td>汽巴欣膜衣錠２０公絲</td><td>BENAZEPRIL HYDROCHLORIDE</td><td>2005/06/03</td></tr></tbody></table></details>
 
-<!-- review:end benazepril-license-rows-combo-2026-10-03 -->
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 - **Moderate 交互作用**：
@@ -123,9 +124,9 @@ Benazepril 是 ACE 抑制劑，用於治療高血壓，TxGNN 預測其對惡性�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表「衛部藥輸字第025881號 鹽酸貝那普利」字號 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 紓心膠囊許可證效期 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表中 4 張成品許可證皆為 amlodipine＋benazepril 複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛部藥輸字第025881號 鹽酸貝那普利」字號 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 紓心膠囊許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表中 4 張成品許可證皆為 amlodipine＋benazepril 複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

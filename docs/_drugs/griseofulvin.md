@@ -87,14 +87,34 @@ indication_count: 5
 
 **有效許可證：**
 
-| 許可證字號 | 商品名 | 許可證持有者 | 效期 |
-|------------|--------|--------------|------|
-| 內衛藥製字第003414號 | 克黴敏片 | 中國化學新豐工廠 | 2028/05/09 |
-| 衛署藥製字第010941號 | 派頓癬黴淨膠囊 | 臺灣派頓化學 | 2028/05/25 |
-| 衛署藥製字第027776號 | 榮民克癬錠 500mg | 榮民製藥 | 2028/08/15 |
-| 衛署藥製字第027109號 | 克膚癬錠 500mg | 中美兄弟製藥 | 2029/05/25 |
-| 衛署藥製字第019146號 | 格利癬錠 | 政德製藥 | 2029/10/19 |
-| 衛署藥製字第025159號 | 克黴星錠 500mg | 嘉林藥品 | 2029/02/14 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Griseofulvin 的不重複許可證共 **76 張**：有效單方 13 張、有效複方 0 張、已註銷 63 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（13 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 內衛藥製字第003414號 | 克黴敏片 | 錠劑 | 中國化學製藥股份有限公司新豐工廠 | 2028/05/09 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬（ＴＩＮＥＡ ＣＡＰＩＴＩＳ）、不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第007372號 | "生達" 灰黃黴素錠 | 錠劑 | 生達化學製藥股份有限公司 | 2029/09/13 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬（ＴＩＮＥＡ ＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第010941號 | "派頓"癬黴淨膠囊 | 膠囊劑 | 臺灣派頓化學製藥股份有限公司 | 2028/05/25 | 甲癬（Onychomyosis）、髮癬（Tinea capitis），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第012523號 | "聯邦" 克制黴錠 | 錠劑 | 聯邦化學製藥股份有限公司 | 2024/05/25 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬（ＴＩＮＥＡＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第019146號 | 格利癬錠（灰黴素） | 錠劑 | 政德製藥股份有限公司 | 2029/10/19 | 甲癬(Onychomyosis)、髮癬(Tinea Capitis)，不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第024375號 | "元宙"灰黴素錠２５０毫克 | 錠劑 | 元宙化學製藥股份有限公司 | 2029/05/25 | 甲癬（ＯＮＹＣＨＯＭＹＳＩＳ）、髮癬（ＴＩＮＥＡ ＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無故的皮膚黴菌感染。 |
+| 衛署藥製字第024572號 | "聯邦"克制黴錠５００公絲（灰黴素）〝聯邦〞 | 錠劑 | 聯邦化學製藥股份有限公司 | 2024/05/25 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬（ＴＩＮＥＡＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第025159號 | 克黴星錠５００毫克（灰黴素） | 錠劑 | 嘉林藥品有限公司 | 2029/02/14 | 甲癬 (Onychomyosis)、 髮癬 (Tinea Capitis)，不適宜局部外用治療或局部外用無效的皮膚黴菌感染 |
+| 衛署藥製字第026877號 | 灰黴素膠囊２５０公絲 | 膠囊劑 | 嘉信藥品股份有限公司 | 2028/12/31 | 甲癬、髮癬，不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第027109號 | 克膚癬錠５００公絲（灰黴素） | 錠劑 | 中美兄弟製藥股份有限公司 | 2029/05/25 | 甲癬(Onychomyosis)、髮癬(Tinea Capitis)，不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第027776號 | "榮民"克癬錠500毫克(灰黴素) | 錠劑 | 榮民製藥股份有限公司 | 2028/08/15 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬、（ＴＩＮＥＡ ＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第028054號 | 膚友錠 | 錠劑 | 瑞士藥廠股份有限公司 | 2028/05/25 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬（ＴＩＮＥＡ ＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+| 衛署藥製字第028055號 | 膚友錠５００毫克 | 錠劑 | 瑞士藥廠股份有限公司 | 2028/05/25 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬（ＴＩＮＥＡ ＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
+
+<details><summary><strong>已註銷</strong>（63 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第007313號</td><td>黴可淨錠</td><td>GRISEOFULVIN</td><td>1998/06/01</td></tr><tr><td>內衛藥輸字第000795號</td><td>護星５００</td><td>GRISEOFULVIN</td><td>1985/10/03</td></tr><tr><td>內衛藥輸字第004556號</td><td>膚爾皮質達新ＵＦ片</td><td>GRISEOFULVIN</td><td>1985/09/26</td></tr><tr><td>內衛藥輸字第005882號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>1985/09/23</td></tr><tr><td>內衛藥輸字第006262號</td><td>巴里歐軟膏</td><td>PECILOCIN、HYDROCORTISONE、GRISEOFULVIN、ALLANTOIN、NEOMYCIN (FR…</td><td>1985/12/31</td></tr><tr><td>衛署藥製字第004335號</td><td>克黴敏錠５００公絲</td><td>GRISEOFULVIN</td><td>1999/09/30</td></tr><tr><td>衛署藥製字第009019號</td><td>香港腳敏膠囊</td><td>GRISEOFULVIN</td><td>2002/09/05</td></tr><tr><td>衛署藥製字第011974號</td><td>扶星錠</td><td>GRISEOFULVIN</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第013591號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第013594號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>2000/06/12</td></tr><tr><td>衛署藥製字第014740號</td><td>灰黴素錠５００公絲</td><td>GRISEOFULVIN</td><td>2010/03/18</td></tr><tr><td>衛署藥製字第015372號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1990/10/04</td></tr><tr><td>衛署藥製字第016488號</td><td>灰徽素錠</td><td>GRISEOFULVIN</td><td>2000/08/08</td></tr><tr><td>衛署藥製字第016678號</td><td>方克黴錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第017085號</td><td>克癬服錠（灰黴素）</td><td>GRISEOFULVIN</td><td>1991/06/19</td></tr><tr><td>衛署藥製字第017970號</td><td>利癬敏錠（灰黴素）</td><td>GRISEOFULVIN</td><td>1988/12/31</td></tr><tr><td>衛署藥製字第018700號</td><td>方克黴膠囊５００公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第018870號</td><td>豐癬寧錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第019323號</td><td>可威淨錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2013/10/01</td></tr><tr><td>衛署藥製字第020384號</td><td>"華盛頓"吉膚黴素膠囊125毫克（灰黴素）</td><td>GRISEOFULVIN</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第020385號</td><td>"華盛頓"吉膚黴素膠囊250毫克（灰黴素）</td><td>GRISEOFULVIN</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第021319號</td><td>樂膚佳膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>1989/03/30</td></tr><tr><td>衛署藥製字第021550號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1994/01/21</td></tr><tr><td>衛署藥製字第022541號</td><td>克膚鏈素膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>2012/04/25</td></tr><tr><td>衛署藥製字第023465號</td><td>葛利文錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2016/09/08</td></tr><tr><td>衛署藥製字第024313號</td><td>"應元"護膚黴素膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>2024/04/19</td></tr><tr><td>衛署藥製字第024767號</td><td>克黴星膜衣錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>1991/01/29</td></tr><tr><td>衛署藥製字第025278號</td><td>灰黴素５００公絲膠囊</td><td>GRISEOFULVIN</td><td>2023/08/31</td></tr><tr><td>衛署藥製字第027698號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1997/08/28</td></tr><tr><td>衛署藥製字第034962號</td><td>格利蘇芬膜衣錠５００公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2009/03/13</td></tr><tr><td>衛署藥製字第035243號</td><td>格利蘇芬膜衣錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2005/11/08</td></tr><tr><td>衛署藥輸字第000098號</td><td>護星１２５錠</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第000339號</td><td>格利蘇芬錠１２５毫克</td><td>GRISEOFULVIN</td><td>1988/08/17</td></tr><tr><td>衛署藥輸字第000517號</td><td>格利蘇芬錠５００公絲</td><td>GRISEOFULVIN</td><td>1990/02/07</td></tr><tr><td>衛署藥輸字第000728號</td><td>灰鏈素（微粒）</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第002120號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第002561號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第004465號</td><td>克利斯丁錠１２５公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第004995號</td><td>利膚美錠５００公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第004997號</td><td>利膚美錠２５０公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第004998號</td><td>利膚美錠１２５公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第005295號</td><td>格利蘇芬</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第005500號</td><td>格利文錠</td><td>GRISEOFULVIN</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第006323號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006624號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第009680號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第009791號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>1991/05/14</td></tr><tr><td>衛署藥輸字第010267號</td><td>可利適達錠</td><td>GRISEOFULVIN</td><td>1999/07/16</td></tr><tr><td>衛署藥輸字第010985號</td><td>灰黴素錠１２５公絲</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第012186號</td><td>克灰敏錠５００公絲</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第012885號</td><td>格利蘇芬錠１２５公絲</td><td>GRISEOFULVIN</td><td>1990/02/07</td></tr><tr><td>衛署藥輸字第013673號</td><td>可利適達錠</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第014103號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>1998/10/20</td></tr><tr><td>衛署藥輸字第014132號</td><td>膚爾皮質達新錠</td><td>GRISEOFULVIN</td><td>2013/12/05</td></tr><tr><td>衛署藥輸字第014199號</td><td>護星膜衣錠５００公絲</td><td>GRISEOFULVIN</td><td>1998/05/14</td></tr><tr><td>衛署藥輸字第014489號</td><td>巴里歐軟膏</td><td>NEOMYCIN (FRADIOMYCIN)、GRISEOFULVIN、ALLANTOIN、PECILOCIN、HYDR…</td><td>1989/09/11</td></tr><tr><td>衛署藥輸字第015721號</td><td>克黴適錠１２５公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第016852號</td><td>克黴適膜衣錠５００公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第017486號</td><td>格利蘇芬錠１２５公絲</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第017532號</td><td>格利蘇芬錠５００公絲</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018557號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第019446號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第022110號</td><td>護星錠５００公絲</td><td>GRISEOFULVIN</td><td>2009/12/31</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **總計：** 76 筆相關許可證紀錄，其中 13 張仍有效，多數已註銷。
 

@@ -52,7 +52,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L2 |
 | 台灣上市 | 有效許可證 |
-| 許可證數 | 多張 |
+| 許可證數 | 5 張（有效單方 2／有效複方 0／已註銷 3） |
 | 建議決策 | Proceed with Guardrails |
 
 <!-- review:begin hydroxyurea-original-indication-2026-10-03 -->
@@ -110,16 +110,23 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| - | 捷可衛錠 | 錠劑 | 骨髓纖維化、真性紅血球增多症、GvHD |
-| - | Hydroxyurea 膠囊 | 膠囊 | 慢性骨髓性白血病、卵巢癌、頭頸癌 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin hydroxyurea-jakavi-row-ruxolitinib-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核加註（2026-10-03）**：上表「捷可衛錠」（JAKAVI，衛部藥輸字第026359～026361號）主成分是 ruxolitinib，不是 hydroxyurea；骨髓纖維化、真性紅血球增多症、GvHD 是 ruxolitinib 的適應症。Hydroxyurea 的有效許可證是衛署藥輸字第023135號「愛治膠囊500毫克」與衛部藥輸字第029076號「愛得靈膠囊500毫克」。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Hydroxyurea 的不重複許可證共 **5 張**：有效單方 2 張、有效複方 0 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end hydroxyurea-jakavi-row-ruxolitinib-2026-10-03 -->
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥輸字第023135號 | 愛治膠囊500 毫克 | 膠囊劑 | 台灣大昌華嘉股份有限公司 | 2031/03/09 | 1. 治療慢性骨髓性白血病（治療前期與安寧療護）。 2. 治療復發、轉移或不可開刀之卵巢癌。 3. 與輻射線治療併用於除唇外之原發性頭及頸鱗狀細胞癌之局部控制。 |
+| 衛部藥輸字第029076號 | 愛得靈膠囊500毫克 | 膠囊劑 | 韋淳貿易股份有限公司 | 2030/12/29 | 1.治療慢性骨髓性白血病（治療前期與安寧療護）。 2.治療復發、轉移或不可開刀之卵巢癌。 3.與輻射線治療併用於除唇外之原發性頭及頸鱗狀細胞癌之局部控制。 |
+
+<details><summary><strong>已註銷</strong>（3 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第044501號</td><td>"生達"羥化尿素</td><td>HYDROXYUREA</td><td>2017/02/09</td></tr><tr><td>衛署藥輸字第017468號</td><td>愛治膠囊５００公絲</td><td>HYDROXYUREA</td><td>1995/05/05</td></tr><tr><td>衛署藥輸字第020757號</td><td>愛治膠囊５００公絲</td><td>HYDROXYUREA</td><td>2005/06/03</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 
@@ -161,7 +168,7 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」列入骨髓纖維化、真性紅血球增多症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 一句話總結寫原本用於骨髓纖維化及真性紅血球增多症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 許可證表「捷可衛錠」一列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「捷可衛錠」一列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -976,3 +976,12 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - 兩支生成腳本結尾會自動重套；其他會改寫藥物頁的腳本跑完後，手動跑 `python3 scripts/apply_drug_reviews.py`。
 - `python3 scripts/check_seo_docs.py` 會擋下「紀錄沒套在頁面上」的情況。
 - 原則：基本藥理事實照仿單或許可證更正；模型預測、證據等級、結論一律不改寫，只加註。之後補的藥沿用同一份 JSON。
+
+## 藥物頁許可證表與張數：程式產生（2026-10-03 起）
+
+- 「許可證數」與「台灣上市資訊」的許可證表，一律由 `src/twtxgnn/regulatory/tfda_licenses.py` 依 TFDA「全部藥品許可證資料集」（`data/raw/tw_fda_drugs.json`，由 `scripts/process_fda_data.py` 產生）確定性產生：張數＝不重複字號數，分有效單方／有效複方／已註銷，不設上限；比對規則看該檔開頭說明（主成分比對，不用全文子字串）。LLM 只拿結構化結果，prompt 裡許可證表是佔位，不准自行列字號。
+- 產線寫頁前一律走 `src/twtxgnn/regulatory/page_postprocess.py` 的 `process_for_site()`：清 LLM 開場白與「Evidence Pack」用語 → 替換許可證表與「許可證數」列 → 套查核紀錄 → 改寫其他「N 張許可證」敘述 → 驗證頁面上每個許可證字號都屬於這個藥；不符就不寫該頁。
+- `llm_client.py` 呼叫 `claude -p` 時帶 `--disable-slash-commands --setting-sources ""`（不載技能與設定），回應再過 `clean_response()`。
+- 既有頁面重產：`python3 scripts/regenerate_tfda_tables.py --data-date <資料集檔案日期>`（可重複執行）；它同時更新 `snapshots/tfda_licenses.json.gz`（gate 與沒有資料集時的產線用）。
+- 查核紀錄的錨點落在被取代的許可證表或張數上時，該筆標 `status: superseded`＋`superseded_by`，紀錄保留、頁面不顯示框，查核紀錄表註明「已由程式化許可證表取代」。
+- gate（`scripts/check_seo_docs.py`）第 6 項會擋：不屬於該藥的許可證字號、許可證表不是程式區塊、張數與快照不符、殘留開場白或「Evidence Pack」。

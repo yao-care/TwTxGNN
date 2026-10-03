@@ -33,7 +33,7 @@ indication_count: 10
 
 ## 一句話總結
 
-Ergometrine 是麥角生物鹼類藥物，原本作為子宮收縮劑用於產後出血與相關出血症狀，台灣已有 20 張許可證。TxGNN 模型對其預測了 10 個潛在新適應症；其中 **偏頭痛 (Migraine Disorder)** 是最具臨床意義的預測，目前有 **20 篇文獻**支持，且部分台灣核准仿單已明列「偏頭痛」，具備監理先例。
+Ergometrine 是麥角生物鹼類藥物，原本作為子宮收縮劑用於產後出血與相關出血症狀，台灣已有 101 張許可證（有效 18 張）。TxGNN 模型對其預測了 10 個潛在新適應症；其中 **偏頭痛 (Migraine Disorder)** 是最具臨床意義的預測，目前有 **20 篇文獻**支持，且部分台灣核准仿單已明列「偏頭痛」，具備監理先例。
 
 ---
 
@@ -46,7 +46,7 @@ Ergometrine 是麥角生物鹼類藥物，原本作為子宮收縮劑用於產�
 | TxGNN 預測分數 | 99.93% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 101 張（有效單方 17／有效複方 1／已註銷 83） |
 | 建議決策 | Proceed with Guardrails |
 
 <!-- review:begin ergometrine-migraine-rereview-2026-10-03 -->
@@ -126,13 +126,44 @@ Ergometrine 是麥角生物鹼類藥物，原本作為子宮收縮劑用於產�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 內衛藥製字第004304號 | 縮水蘋果酸麥角新/糖衣片 | 糖衣錠 | 產後出血、子宮血崩、月經過多 |
-| 內衛藥製字第004784號 | 縮水蘋果酸麥角新鹼錠０．２公絲 | 錠劑 | 子宮弛緩、胎盤剝離後之出血、子宮收縮不全、第３期陣痛微弱、子宮出血、流產 |
-| 內衛藥輸字第004803號 | 蘋果酸麥角新鹼針 | 注射劑 | 產後促進子宮收縮、分娩後出血、剖腹取兒手術時之出血 |
-| 內衛藥輸字第005918號 | 歐葛百新 | 注射劑 | 產後子宮收縮劑 |
-| 內衛藥製字第001749號 | "強生"縮水蘋果酸麥角新鹼膜衣錠０．２毫克 | 膜衣錠 | 產褥期之出血、流產後之出血、分娩時之子宮弛緩出血、不正常出血、分娩第三期陣痛微弱 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ergometrine 的不重複許可證共 **101 張**：有效單方 17 張、有效複方 1 張、已註銷 83 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（17 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 內衛藥製字第001749號 | “強生”縮水蘋果酸麥角新鹼膜衣錠０．２毫克 | 膜衣錠 | 強生化學製藥廠股份有限公司 | 2029/05/25 | 產褥期之出血、流產後之出血、分娩時之子宮弛緩出血、不正常出血、分娩第三期陣痛微弱。 |
+| 內衛藥製字第007872號 | "尼斯可"縮水蘋果酸麥角新鹼片 | 錠劑 | 尼斯可生技股份有限公司 | 2029/05/25 | 弛緩性子宮出血、分娩後出血、子宮收縮不全、流產出血 |
+| 內衛藥製字第009702號 | "新喜"美宮錠０．２公絲 | 錠劑 | 新喜國際企業股份有限公司 | 2028/05/25 | 產褥期出血、分娩時子宮弛緩出血、產後防止出血、產後子宮收縮不全 |
+| 內衛藥製字第009847號 | 縮水蘋果酸麥角新鹼錠 | 錠劑 | 人人化學製藥股份有限公司 | 2027/12/31 | 產科用於產後促使子宮復原及預防出血過多、偏頭痛 |
+| 內衛藥製字第009850號 | 〝人人〞縮水蘋果酸麥角新鹼注射液 | 注射劑 | 人人化學製藥股份有限公司 | 2029/12/31 | 產後或流產後促進子宮之復元及預防出血過多 |
+| 內衛藥製字第012732號 | 縮水蘋果酸麥角新鹼片 | 錠劑 | 中生生技製藥股份有限公司淡水廠 | 2028/05/25 | 產後子宮肌張力弛緩而致之血崩症、偏頭痛 |
+| 內衛藥製字第013083號 | 爾可利錠 | 錠劑 | 豐田藥品股份有限公司 | 2027/08/20 | 產褥期之出血、子宮內膜搔爬後之出血、流產後之出血、子宮弛緩之出血、子宮不正常出血、分娩第三期陣痛微弱 |
+| 衛署藥製字第001605號 | 縮水蘋果酸麥角新/片 | 錠劑 | 中美兄弟製藥股份有限公司 | 2028/05/25 | 一般婦產科之出血（如分娩時子宮弛緩性出血、產褥期之出血、流產後出血、子宮內膜搔爬後之出血） |
+| 衛署藥製字第003786號 | 麥角新 生僉 注射液 | 注射劑 | 安星製藥股份有限公司 | 2028/05/25 | 產後出血、子宮異常出血、流產後出血、分娩時子宮弛緩出血、分娩第三期陣痛微弱 |
+| 衛署藥製字第014363號 | 縮水蘋果酸麥角新注射液 | 注射劑 | 台裕化學製藥廠股份有限公司 | 2030/02/27 | 分娩後之子宮弛緩、子宮收縮不全、弛緩性出血之預防及止血 |
+| 衛署藥製字第015273號 | "應元"縮水蘋果酸麥角新鹼注射液 | 注射劑 | 應元化學製藥股份有限公司 | 2028/07/13 | 產褥期出血、促進產後子宮之復元及預防出血過多 |
+| 衛署藥製字第017720號 | "優良"優復安錠（縮水蘋果酸麥角新鹼） | 錠劑 | 優良化學製藥股份有限公司 | 2029/06/01 | 預防及治療產後子宮出血 |
+| 衛署藥製字第018516號 | "優良"優復安注射液（縮水蘋果酸麥角新鹼） | 注射劑 | 優良化學製藥股份有限公司 | 2028/08/31 | 生產後及流產後出血 |
+| 衛署藥製字第024272號 | "正和"益兒宮糖衣錠（縮蘋果酸麥角新生僉） | 糖衣錠 | 正和製藥股份有限公司新營廠 | 2028/05/25 | 促進子宮收縮及治療子宮出血 |
+| 衛署藥製字第029626號 | 意如宮注射液（縮水蘋果酸麥角新/） | 注射劑 | 永信藥品工業股份有限公司 | 2030/02/13 | 分娩後之子宮弛緩、子宮弛緩性出血、流產後出血、產褥期出血、子宮內膜刮除後出血之預防及治療、偏頭痛。 |
+| 衛部藥輸字第027396號 | 縮蘋酸麥角新鹼 | （粉） | 新雙隆生技股份有限公司 | 2028/03/01 | 子宮收縮藥 |
+| 衛部藥輸字第027478號 | 縮蘋酸麥角新生僉 | 粉劑 | 仁友興業股份有限公司 | 2028/07/26 | 子宮收縮藥 |
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 內衛藥製字第002200號 | 益兒可針 | ERGONOVINE MALEATE、ASCORBIC ACID (VIT C) | 注射劑 | 產褥期之出血、流產後之出血、分娩時之子宮弛緩性出血、不正常出血等 |
+
+<details><summary><strong>已註銷</strong>（83 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000046號</td><td>麥角新/錠</td><td>ERGONOVINE MALEATE</td><td>2002/09/02</td></tr><tr><td>內衛藥製字第000287號</td><td>益妳好－甲糖衣錠</td><td>MENADIONE (VIT K3)、CARBAZOCHROME、ERGONOVINE MALEATE、BENACTYZ…</td><td>1989/11/25</td></tr><tr><td>內衛藥製字第000390號</td><td>催娩糖衣錠</td><td>QUININE HCL、ERGONOVINE MALEATE、PAPAVERINE HCL</td><td>1993/07/29</td></tr><tr><td>內衛藥製字第001793號</td><td>保美通針</td><td>ERGONOVINE MALEATE、SPARTEINE SULFATE、ASCORBIC ACID (VIT C)</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第002701號</td><td>縮水蘋果酸麥角新/注射液０．０２％</td><td>ERGONOVINE MALEATE</td><td>2013/10/15</td></tr><tr><td>內衛藥製字第002908號</td><td>蘋果酸麥角新/注射液</td><td>ERGONOVINE MALEATE</td><td>2013/04/08</td></tr><tr><td>內衛藥製字第003182號</td><td>麥角蘋注射液</td><td>ERGONOVINE MALEATE</td><td>2016/01/19</td></tr><tr><td>內衛藥製字第003242號</td><td>安產糖衣錠</td><td>ETHAVERINE HCL (eq to BALBONIN) (eq to Ethylpapaverine HCl)、…</td><td>2000/08/04</td></tr><tr><td>內衛藥製字第004304號</td><td>縮水蘋果酸麥角新/糖衣片</td><td>ERGONOVINE MALEATE</td><td>2015/04/15</td></tr><tr><td>內衛藥製字第004784號</td><td>縮水蘋果酸麥角新鹼錠０．２公絲</td><td>ERGONOVINE MALEATE</td><td>1998/03/31</td></tr><tr><td>內衛藥製字第005085號</td><td>益婦明注</td><td>ERGONOVINE MALEATE</td><td>1998/12/24</td></tr><tr><td>內衛藥製字第005177號</td><td>縮水蘋果酸麥角新/錠</td><td>ERGONOVINE MALEATE</td><td>2013/10/01</td></tr><tr><td>內衛藥製字第006364號</td><td>麥托年錠</td><td>ERGONOVINE MALEATE</td><td>1993/07/20</td></tr><tr><td>內衛藥製字第006925號</td><td>益婦明片</td><td>ERGONOVINE MALEATE</td><td>2013/06/10</td></tr><tr><td>內衛藥製字第007126號</td><td>益爾康美得林注射液</td><td>ASCORBIC ACID (VIT C)、ERGONOVINE MALEATE</td><td>1991/06/05</td></tr><tr><td>內衛藥製字第009320號</td><td>娩可敏糖衣錠</td><td>ERGONOVINE MALEATE</td><td>2010/11/18</td></tr><tr><td>內衛藥製字第013362號</td><td>誘娩膠囊</td><td>ERGONOVINE MALEATE、QUININE HCL、PAPAVERINE HCL</td><td>2013/07/11</td></tr><tr><td>內衛藥製字第013372號</td><td>益爾可錠</td><td>ERGONOVINE MALEATE</td><td>2013/10/07</td></tr><tr><td>內衛藥製字第013902號</td><td>縮水蘋果酸麥角新鹼片</td><td>ERGONOVINE MALEATE</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第015148號</td><td>蘋果酸麥角新鹼片</td><td>ERGONOVINE MALEATE</td><td>2013/10/07</td></tr><tr><td>內衛藥輸字第002548號</td><td>美生露</td><td>ERGONOVINE MALEATE</td><td>2000/10/20</td></tr><tr><td>內衛藥輸字第002635號</td><td>美生露片</td><td>ERGONOVINE MALEATE</td><td>2000/10/20</td></tr><tr><td>內衛藥輸字第002865號</td><td>新多美定</td><td>ERGONOVINE MALEATE、OXYTOCIN</td><td>1985/12/26</td></tr><tr><td>內衛藥輸字第004358號</td><td>蘋果酸麥角新鹼注射液</td><td>ERGONOVINE MALEATE</td><td>1984/06/05</td></tr><tr><td>內衛藥輸字第004803號</td><td>蘋果酸麥角新鹼針</td><td>ERGONOVINE MALEATE</td><td>1986/06/20</td></tr><tr><td>內衛藥輸字第005356號</td><td>斯肯麥角新鹼針</td><td>ERGONOVINE MALEATE</td><td>1986/01/16</td></tr><tr><td>內衛藥輸字第005357號</td><td>斯肯麥角新鹼片</td><td>ERGONOVINE MALEATE</td><td>1987/03/24</td></tr><tr><td>內衛藥輸字第005361號</td><td>雅克麥角新鹼片</td><td>ERGONOVINE MALEATE</td><td>2000/10/16</td></tr><tr><td>內衛藥輸字第005918號</td><td>歐葛百新</td><td>ERGONOVINE MALEATE</td><td>1991/02/01</td></tr><tr><td>內衛藥輸字第006176號</td><td>歐葛百新</td><td>ERGONOVINE MALEATE</td><td>1991/02/01</td></tr><tr><td>內衛藥輸字第006507號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>1985/09/17</td></tr><tr><td>內衛藥輸字第007931號</td><td>速把得寧</td><td>CARBAZOCHROME、METHYL HESPERIDIN、SPARTEINE SULFATE、ERGONOVINE…</td><td>1991/01/31</td></tr><tr><td>內衛藥輸字第008322號</td><td>蘋果酸麥角新/注射液</td><td>ERGONOVINE MALEATE</td><td>2000/10/20</td></tr><tr><td>衛署藥製字第000295號</td><td>易爾果速注射液</td><td>SPARTEINE SULFATE、ERGONOVINE MALEATE、ASCORBATE (SODIUM)</td><td>1991/05/06</td></tr><tr><td>衛署藥製字第000360號</td><td>易生注射液</td><td>OXYTOCIN、ERGONOVINE MALEATE</td><td>1991/05/20</td></tr><tr><td>衛署藥製字第002549號</td><td>意如宮錠</td><td>ERGONOVINE MALEATE</td><td>1987/08/21</td></tr><tr><td>衛署藥製字第004289號</td><td>娩朗糖衣錠</td><td>PAPAVERINE HCL、QUININE HCL、ERGONOVINE MALEATE</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第005278號</td><td>縮水蘋果酸麥角新鹼注射液０．２公絲</td><td>ERGONOVINE MALEATE</td><td>2009/10/21</td></tr><tr><td>衛署藥製字第005279號</td><td>伊舒宮錠</td><td>ERGONOVINE MALEATE</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第005426號</td><td>縮水蘋果酸麥角新/錠</td><td>ERGONOVINE MALEATE</td><td>1988/12/31</td></tr><tr><td>衛署藥製字第005992號</td><td>能利娩膠囊</td><td>ERGONOVINE MALEATE、QUININE HCL、PAPAVERINE HCL</td><td>1999/08/23</td></tr><tr><td>衛署藥製字第006003號</td><td>"大豐"麥角新鹼膜衣錠</td><td>ERGONOVINE MALEATE</td><td>2025/05/29</td></tr><tr><td>衛署藥製字第008916號</td><td>意如宮注射液</td><td>ERGONOVINE MALEATE</td><td>1987/06/19</td></tr><tr><td>衛署藥製字第010370號</td><td>醫宮能錠</td><td>ERGONOVINE MALEATE</td><td>2000/08/04</td></tr><tr><td>衛署藥製字第010664號</td><td>益護注射液</td><td>SPARTEINE SULFATE、ERGONOVINE MALEATE</td><td>2007/05/09</td></tr><tr><td>衛署藥製字第013503號</td><td>縮水蘋果酸麥角新/錠</td><td>ERGONOVINE MALEATE</td><td>2014/06/11</td></tr><tr><td>衛署藥製字第013714號</td><td>縮水蘋果酸麥角新鹼糖衣錠</td><td>ERGONOVINE MALEATE</td><td>2014/11/19</td></tr><tr><td>衛署藥製字第014299號</td><td>縮水蘋果酸麥角新/糖衣錠</td><td>ERGONOVINE MALEATE</td><td>1989/08/17</td></tr><tr><td>衛署藥製字第014317號</td><td>縮免停注射液</td><td>ERGONOVINE MALEATE、SPARTEINE SULFATE</td><td>2007/05/09</td></tr><tr><td>衛署藥製字第014426號</td><td>娩可敏錠０．２公絲</td><td>ERGONOVINE MALEATE</td><td>2010/11/18</td></tr><tr><td>衛署藥製字第015117號</td><td>縮水蘋果酸麥角新/錠</td><td>ERGONOVINE MALEATE</td><td>2013/10/15</td></tr><tr><td>衛署藥製字第015831號</td><td>縮水蘋果酸麥角新/注射液</td><td>ERGONOVINE MALEATE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第015832號</td><td>縮水蘋果酸麥角新/錠</td><td>ERGONOVINE MALEATE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第016941號</td><td>縮水蘋果酸麥角新鹼錠　〝順華〞</td><td>ERGONOVINE MALEATE</td><td>2016/09/12</td></tr><tr><td>衛署藥製字第017820號</td><td>縮水蘋果酸麥角新/錠</td><td>ERGONOVINE MALEATE</td><td>2022/05/05</td></tr><tr><td>衛署藥製字第017980號</td><td>安宮能錠０．５公絲（縮水蘋果酸麥角新鹼）</td><td>ERGONOVINE MALEATE</td><td>2005/11/14</td></tr><tr><td>衛署藥製字第019170號</td><td>縮保宮糖衣錠</td><td>BENACTYZINE HCL、ERGONOVINE MALEATE、SPARTEINE SULFATE、MENADIO…</td><td>1987/06/02</td></tr><tr><td>衛署藥製字第019262號</td><td>縮水蘋果酸麥角新鹼錠</td><td>ERGONOVINE MALEATE</td><td>2013/10/15</td></tr><tr><td>衛署藥製字第023151號</td><td>縮蘋果酸麥角新鹼糖衣錠</td><td>ERGONOVINE MALEATE</td><td>2024/01/04</td></tr><tr><td>衛署藥製字第023727號</td><td>益婦康糖衣錠</td><td>METHYL HESPERIDIN、CARBAZOCHROME、SPARTEINE SULFATE、ERGONOVINE…</td><td>2007/05/09</td></tr><tr><td>衛署藥製字第024528號</td><td>縮蘋果酸麥角新鹼注射液０．２公絲/公撮</td><td>ERGONOVINE MALEATE</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第024674號</td><td>益宮縮注射液</td><td>ERGONOVINE MALEATE、SPARTEINE SULFATE</td><td>2007/05/09</td></tr><tr><td>衛署藥製字第026113號</td><td>樂你康錠</td><td>ERGONOVINE MALEATE、SPARTEINE SULFATE、MENADIONE (VIT K3)、ETHE…</td><td>2007/05/09</td></tr><tr><td>衛署藥製字第033769號</td><td>易爾果速注射液</td><td>ASCORBIC ACID (VIT C)、ERGONOVINE MALEATE、SPARTEINE SULFATE</td><td>2000/08/04</td></tr><tr><td>衛署藥製字第033875號</td><td>易生注射液</td><td>ERGONOVINE MALEATE、OXYTOCIN</td><td>1998/03/02</td></tr><tr><td>衛署藥輸字第001981號</td><td>麥角新/片</td><td>ERGONOVINE MALEATE、MAGNESIUM ALUMINUM METASILICATE (NEUSILIN…</td><td>1988/11/08</td></tr><tr><td>衛署藥輸字第002223號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第002689號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>1993/02/16</td></tr><tr><td>衛署藥輸字第002829號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第003625號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>2000/09/05</td></tr><tr><td>衛署藥輸字第003728號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>1990/07/03</td></tr><tr><td>衛署藥輸字第003742號</td><td>保婦針</td><td>SPARTEINE SULFATE、ERGONOVINE MALEATE、ASCORBIC ACID (VIT C)</td><td>1990/10/11</td></tr><tr><td>衛署藥輸字第003755號</td><td>保婦丸</td><td>ERGONOVINE MALEATE、DIMETHYLAMINOETHYL-BETA-BENZILAMIDE HCL、S…</td><td>1990/10/11</td></tr><tr><td>衛署藥輸字第004804號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第006943號</td><td>縮水蘋果酸麥角新鹼</td><td>ERGONOVINE MALEATE</td><td>1998/06/17</td></tr><tr><td>衛署藥輸字第011359號</td><td>麥角新/糖衣錠０、５公絲</td><td>ERGONOVINE MALEATE</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第011840號</td><td>縮水蘋果酸麥角新/粉劑</td><td>ERGONOVINE MALEATE</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012615號</td><td>收縮寧錠</td><td>ERGONOVINE MALEATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第012762號</td><td>蘋果酸麥角新鹼</td><td>ERGONOVINE MALEATE</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第014054號</td><td>縮蘋果酸麥角新/粉劑</td><td>ERGONOVINE MALEATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第014478號</td><td>欣多美定注射液５ＩＵ/ＭＬ</td><td>OXYTOCIN、ERGONOVINE MALEATE</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第014603號</td><td>麥角新/注射液０．５公絲/公撮</td><td>ERGONOVINE MALEATE</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第017934號</td><td>縮水蘋果酸麥角新/</td><td>ERGONOVINE MALEATE</td><td>2005/06/16</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

@@ -82,20 +82,23 @@ PubMed 搜尋發現多篇相關文獻：
 
 ## 台灣上市資訊
 
-| 項目 | 內容 |
-|------|------|
-| 許可證字號 | 衛署藥製字第043147號 |
-| 中文品名 | 克妊滿錠　〝汎生〞（ethynodiol diacetate＋ethinylestradiol 複方） |
-| 英文品名 | NEO-CONOVA TABLETS "PANBIOTIC" |
-| 許可證持有者 | 臺灣汎生製藥廠股份有限公司 |
-| 劑型 | 錠劑 |
-| 核准適應症 | 避孕、月經異常 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-<!-- review:begin ethynodiol-diacetate-tw-license-table-2026-10-03 -->
+### 台灣許可證（依 TFDA 資料集自動產生）
 
-> **查核更正（2026-10-03）**：原寫「許可證字號／衛署藥製字第018095號／／中文品名／亞卡南爾非滅錠／／英文品名／ACARNAN-F／／許可證持有者／南光化學製藥股份有限公司／／劑型／錠劑／／核准適應症／避孕、月經異常」。衛署藥製字第018095號實為制酸劑「胃平鎮錠」；「亞卡南爾非滅錠」是已於 2004-12-23 註銷的衛署藥輸字第005422號。已改列現行有效的衛署藥製字第043147號「克妊滿錠〝汎生〞」（ethynodiol diacetate＋ethinylestradiol 複方）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ethynodiol Diacetate 的不重複許可證共 **8 張**：有效單方 0 張、有效複方 2 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end ethynodiol-diacetate-tw-license-table-2026-10-03 -->
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第032417號 | "汎生" 爾非錠 | ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD… | 錠劑 | 抑制排卵。 |
+| 衛署藥製字第043147號 | 克妊滿錠　〝汎生〞 | ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD… | 錠劑 | 避孕、月經異常。 |
+
+<details><summary><strong>已註銷</strong>（6 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第002668號</td><td>爾非</td><td>ETHYNODIOL DIACETATE、MESTRANOL</td><td>1986/06/20</td></tr><tr><td>衛署藥輸字第005174號</td><td>隔舒錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第005422號</td><td>亞卡南爾非滅錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006867號</td><td>隔樂錠</td><td>ETHYNODIOL DIACETATE、FERROUS FUMARATE、ESTRADIOL ETHINYL (EQ…</td><td>1991/12/19</td></tr><tr><td>衛署藥輸字第012829號</td><td>克妊滿膜衣錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>1999/01/07</td></tr><tr><td>衛署藥輸字第018877號</td><td>隔樂錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>2004/03/19</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **其他上市產品**：
 - 衛署藥製字第032417號："汎生" 爾非錠（ethynodiol diacetate＋ethinylestradiol 複方，適應症：抑制排卵）
@@ -164,7 +167,7 @@ PubMed 搜尋發現多篇相關文獻：
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 許可證表字號與品名不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表字號與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「其他上市產品」原料藥字號不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

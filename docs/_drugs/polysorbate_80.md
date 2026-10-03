@@ -79,11 +79,22 @@ indication_count: 1
 
 ## 台灣上市資訊
 
-### 有效許可證
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-| 許可證字號 | 品名 | 適應症 | 效期 |
-|------------|------|--------|------|
-| 衛部藥輸字第026529號 | 優麗舒加強型單支裝眼用乳劑 | 眼睛乾澀緩解 | 2030/04/27 |
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Polysorbate 80 的不重複許可證共 **12 張**：有效單方 0 張、有效複方 1 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛部藥輸字第026529號 | 優麗舒加強型單支裝眼用乳劑 | Polysorbate 80、CARBOXYMETHYLCELLULOSE SODIUM (EQ TO SODIUM C… | 點眼乳劑 | 暫時緩解因眼睛乾澀所引起灼熱感與刺激感。暫時緩解因配戴隱形眼鏡造成之不適。 |
+
+<details><summary><strong>已註銷</strong>（11 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署菌疫輸字第000759號</td><td>"怡伯" 高純度第九凝血因子注射劑 500 國際單位</td><td>FACTOR IX、POLYSORBATE 80(TWEEN 80)(SORBIMACROGOL OLEATE300</td><td>2009/12/16</td></tr><tr><td>衛署菌疫輸字第000770號</td><td>"益康" 高純度第九凝血因子注射劑５００國際單位</td><td>POLYSORBATE 80(TWEEN 80)(SORBIMACROGOL OLEATE300、HUMAN COAGU…</td><td>2009/12/16</td></tr><tr><td>衛署菌疫輸字第000916號</td><td>平禽律疫苗</td><td>SQUALENE、Purified antigen fractions of inactivated split vir…</td><td>2021/01/18</td></tr><tr><td>衛署菌疫輸字第000921號</td><td>安律平新型流感疫苗</td><td>SQUALENE、TWEEN 80 (EQ TO POLYSORBATE 80)、A/California/7/2009…</td><td>2015/10/06</td></tr><tr><td>衛署藥製字第027331號</td><td>藥用硬空膠囊一號</td><td>GLYCERIN (eq to GLYCEROL)、POLYSORBATE 80(TWEEN 80)(SORBIMACR…</td><td>2010/02/08</td></tr><tr><td>衛署藥輸字第008292號</td><td>千壽眼藥水</td><td>POTASSIUM CHLORIDE、HYDROXYETHYL CELLULOSE、EDETATE DISODIUM (…</td><td>1986/05/26</td></tr><tr><td>衛署藥輸字第012400號</td><td>油酸山梨烷聚乙烯醚８０</td><td>POLYSORBATE 80(TWEEN 80)(SORBIMACROGOL OLEATE300</td><td>1994/06/27</td></tr><tr><td>衛署藥輸字第014990號</td><td>美滴兒眼藥水</td><td>CHLORHEXIDINE GLUCONATE、BORIC ACID、SODIUM BORATE (SODIUM BIB…</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第015865號</td><td>醋酸得美松注射液</td><td>DEXAMETHASONE (ACETATE)、SODIUM CHLORIDE、BENZYL ALCOHOL、POLYS…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第024136號</td><td>"愛力根" 恩德拉眼用點眼液</td><td>GLYCERIN (eq to GLYCEROL)、POLYSORBATE 80(TWEEN 80)(SORBIMACR…</td><td>2014/07/15</td></tr><tr><td>衛署藥輸字第026005號</td><td>愛力根優麗舒 加強型眼用乳劑</td><td>SODIUM CARBOXYMETHYL CELLULOSE、Polysorbate 80、GLYCERIN (eq t…</td><td>2023/04/06</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ### 主要用途分類
 

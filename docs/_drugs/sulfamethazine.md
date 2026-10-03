@@ -44,14 +44,8 @@ Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖�
 | TxGNN 預測分數 | 0.998（diabetic nephropathy） |
 | 證據等級 | L4（有 PubMed 文獻支持） |
 | 台灣上市 | 所有許可證已註銷 |
-| 許可證數 | 59 張（全部已註銷） |
+| 許可證數 | 59 張（有效單方 0／有效複方 1／已註銷 58） |
 | 建議決策 | Hold |
-
-<!-- review:begin sulfamethazine-license-not-all-cancelled-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：資料集中複方許可證 衛署藥製字第027573號「聯邦鐵多拉三種磺胺錠」（sulfamethazine＋sulfamerazine＋sulfadiazine）並未列為已註銷，只是有效日期 2024/05/25 已過；其餘許可證均已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end sulfamethazine-license-not-all-cancelled-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -106,13 +100,22 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 | 狀態 |
-|---------|------|------|-----------|------|
-| 衛署藥輸字第000257號 | 磺胺二甲嘧啶 | （粉） | 革蘭氏陽性菌及陰性菌感染症 | 已註銷 |
-| 內衛藥製字第005289號 | 命多磺淨粉 | 散劑 | 細菌感染症 | 已註銷 |
-| 內衛藥製字第001516號 | 命多磺淨錠 | 錠劑 | 細菌感染症 | 已註銷 |
-| 衛署藥製字第019713號 | 泄卜菌錠 | 錠劑 | 呼吸道、胃腸道、尿道感染症 | 已註銷 |
-| 內衛藥輸字第003821號 | 沙發美星粉 | （粉） | 細菌性感染症 | 已註銷 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sulfamethazine 的不重複許可證共 **59 張**：有效單方 0 張、有效複方 1 張、已註銷 58 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥製字第027573號 | "聯邦"鐵多拉三種磺胺錠 | SULFAMETHAZINE (SULFADIMIDINE)、SULFAMERAZINE、SULFADIAZINE | 錠劑 | 葡萄狀球菌、鏈鎖球菌、肺炎雙球菌、大腸菌、赤痢菌及綠膿菌引起感染症 |
+
+<details><summary><strong>已註銷</strong>（58 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第001516號</td><td>命多磺淨錠０．５公克</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td></td></tr><tr><td>內衛藥製字第002472號</td><td>三合治炎片</td><td>SULFAMETHAZINE (SULFADIMIDINE)、SULFAMERAZINE、SULFADIAZINE</td><td>2013/10/15</td></tr><tr><td>內衛藥製字第003671號</td><td>去腎炎錠</td><td>PHENAZOPYRIDINE HCL、SULFAMETHAZINE (SULFADIMIDINE)</td><td>1989/11/27</td></tr><tr><td>內衛藥製字第004450號</td><td>富可治膠囊</td><td>NITROFURANTOIN、SULFAMETHAZINE (SULFADIMIDINE)</td><td>2013/10/01</td></tr><tr><td>內衛藥製字第005289號</td><td>命多磺淨粉</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td></td></tr><tr><td>內衛藥製字第006799號</td><td>三磺胺片</td><td>SULFADIAZINE、SULFAMERAZINE、SULFAMETHAZINE (SULFADIMIDINE)</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第011129號</td><td>三磺片</td><td>SULFADIAZINE、SULFAMERAZINE、SULFAMETHAZINE (SULFADIMIDINE)</td><td>1989/11/21</td></tr><tr><td>內衛藥製字第011587號</td><td>磺胺保利精片</td><td>SULFISOXAZOLE、SULFATHIAZOLE、SULFAMETHAZINE (SULFADIMIDINE)、S…</td><td>1988/07/19</td></tr><tr><td>內衛藥製字第014772號</td><td>速力輕錠</td><td>SULFADIAZINE、SULFAMETHAZINE (SULFADIMIDINE)、SULFATHIAZOLE</td><td>2004/05/31</td></tr><tr><td>內衛藥輸字第000515號</td><td>磺胺雙甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2005/06/16</td></tr><tr><td>內衛藥輸字第000553號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1985/09/07</td></tr><tr><td>內衛藥輸字第000561號</td><td>磺胺二甲嘧啶鈉</td><td>SULFAMETHAZINE SODIUM</td><td>1985/09/07</td></tr><tr><td>內衛藥輸字第001109號</td><td>磺胺咪叮</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1985/08/20</td></tr><tr><td>內衛藥輸字第001170號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1986/01/21</td></tr><tr><td>內衛藥輸字第001316號</td><td>磺胺二甲嘧啶鈉</td><td>SULFAMETHAZINE SODIUM</td><td>1985/08/12</td></tr><tr><td>內衛藥輸字第001987號</td><td>消發利美淨鈉</td><td>SULFAMETHAZINE SODIUM</td><td>1986/02/27</td></tr><tr><td>內衛藥輸字第002114號</td><td>磺胺二甲密定</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1986/06/04</td></tr><tr><td>內衛藥輸字第003206號</td><td>沙發美星鈉粉</td><td>SULFAMETHAZINE SODIUM</td><td>1990/08/01</td></tr><tr><td>內衛藥輸字第003251號</td><td>磺胺美沙淨</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1985/09/07</td></tr><tr><td>內衛藥輸字第003254號</td><td>磺胺二甲嘧啶鈉</td><td>SULFAMETHAZINE SODIUM</td><td>1985/08/28</td></tr><tr><td>內衛藥輸字第003572號</td><td>美素靈片</td><td>PHENAZOPYRIDINE HCL、SULFAMETHAZINE (SULFADIMIDINE)</td><td>1990/08/01</td></tr><tr><td>內衛藥輸字第003821號</td><td>沙發美星粉</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1990/08/01</td></tr><tr><td>內衛藥輸字第003822號</td><td>沙發美星片</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1990/08/01</td></tr><tr><td>內衛藥輸字第007094號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1986/07/14</td></tr><tr><td>衛署藥製字第001472號</td><td>滅得利錠</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第006509號</td><td>三磺懸浮液</td><td>SULFADIAZINE、SULFAMETHAZINE (SULFADIMIDINE)、SULFAMERAZINE</td><td>1992/12/10</td></tr><tr><td>衛署藥製字第019713號</td><td>泄卜菌錠</td><td>TRIMETHOPRIM、SULFAMETHAZINE (SULFADIMIDINE)</td><td>2013/10/15</td></tr><tr><td>衛署藥製字第020401號</td><td>索扶新錠（磺胺二甲氧嘧定）</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2013/10/15</td></tr><tr><td>衛署藥製字第037132號</td><td>美沙磺胺錠５００公絲〝瑞士〞</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2002/07/24</td></tr><tr><td>衛署藥輸字第000257號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第000264號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第000333號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第002190號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第002263號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第004280號</td><td>磺胺美沙淨</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第004680號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第004690號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第005077號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1995/04/06</td></tr><tr><td>衛署藥輸字第005079號</td><td>磺胺二甲嘧啶鈉</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1995/04/06</td></tr><tr><td>衛署藥輸字第005268號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1995/04/06</td></tr><tr><td>衛署藥輸字第010341號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1992/01/17</td></tr><tr><td>衛署藥輸字第011011號</td><td>"波蘭聯合" 磺胺二甲嘧啶粉劑</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1993/04/15</td></tr><tr><td>衛署藥輸字第013793號</td><td>磺胺二甲嘧啶鈉粉劑</td><td>SULFAMETHAZINE SODIUM</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013831號</td><td>達嘧磺胺粉劑</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第013900號</td><td>達嘧磺胺鈉粉劑</td><td>SULFAMETHAZINE SODIUM</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013904號</td><td>達嘧磺胺鈉粉劑</td><td>SULFAMETHAZINE SODIUM</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013930號</td><td>美沙磺胺粉劑</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1998/07/27</td></tr><tr><td>衛署藥輸字第013936號</td><td>達嘧磺胺粉劑</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第014727號</td><td>達嘧磺胺</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第014764號</td><td>達嘧磺胺鈉</td><td>SULFAMETHAZINE SODIUM</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015042號</td><td>美沙磺胺</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第018514號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019647號</td><td>磺胺美沙靜</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1998/01/22</td></tr><tr><td>衛署藥輸字第020007號</td><td>磺胺二甲嘧啶</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第022270號</td><td>美沙磺胺</td><td>SULPHADIMIDINE (SULFAMETHAZINE)</td><td>2009/12/31</td></tr><tr><td>衛署藥陸輸字第000190號</td><td>美沙磺胺</td><td>SULFAMETHAZINE (SULFADIMIDINE)</td><td>2019/03/15</td></tr><tr><td>衛署藥陸輸字第000388號</td><td>美沙磺胺</td><td>SULFAMETHAZINE</td><td>2016/05/31</td></tr><tr><td>衛署藥陸輸字第000451號</td><td>美沙磺胺</td><td>Sulfamethazine (Sulfadimidine)</td><td>2017/04/14</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 **注意：所有 Sulfamethazine 相關許可證均已註銷。**
 
@@ -160,7 +163,7 @@ Sulfamethazine 作為磺胺類抗菌劑，對引起結膜炎的細菌（包括�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 快速總覽「全部已註銷」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 快速總覽「全部已註銷」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

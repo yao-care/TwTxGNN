@@ -43,12 +43,12 @@ The Evidence Pack may contain values or rationale text in another language; tran
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | [從 local_regulatory.licenses 提取，取第一個非空的 approved_indication_text] |
+| 原適應症 | [從 local_regulatory.licenses 中 kind 為 single 且 status 為 valid 者提取，取第一個非空的 approved_indication_text；不要用複方的適應症] |
 | 預測新適應症 | [從 predicted_indications[0].disease_name 提取] |
 | TxGNN 預測分數 | [從 predicted_indications[0].txgnn.score 提取，轉為百分比] |
 | 證據等級 | [根據臨床試驗和文獻數量判斷 L1-L5] |
 | 台灣上市 | [從 local_regulatory.market_status 提取] |
-| 許可證數 | [從 local_regulatory.total_licenses 提取] |
+| 許可證數 | [從 local_regulatory.total_licenses 提取；同步時會由程式改寫成不重複張數與分類] |
 | 建議決策 | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -99,15 +99,13 @@ The Evidence Pack may contain values or rationale text in another language; tran
 
 ### 台灣上市資訊
 
-從 `local_regulatory.licenses` 提取，製作表格：
+許可證表與張數由程式依 TFDA 資料集產生（同步到網站前會整段替換），**你不要自己列許可證字號、不要自己寫張數**。
+這一節只寫一行佔位：
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛部藥製字第... | 中文品名 | 劑型 | 適應症摘要 |
+`<!-- TFDA_LICENSE_TABLE -->`
 
-**規則：**
-- 最多列出 5 張主要許可證
-- 如果適應症文字過長，只取前 100 字並加 "..."
+需要提到上市狀況時，只能引用 `local_regulatory` 的結構化欄位（`total_licenses`、`valid_single`、`valid_combo`、`cancelled`），
+不得補列、不得推測字號。
 
 ---
 

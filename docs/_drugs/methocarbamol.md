@@ -117,14 +117,28 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 
 ## 台灣上市資訊
 
-| 許可證字號 | 商品名 | 劑型 | 許可證持有者 | 狀態 |
-|-----------|--------|------|-------------|------|
-| 內衛藥製字第007888號 | 達士邦錠 | 錠劑 | 豐田藥品 | 有效 |
-| 衛部藥製字第060618號 | 美卡欣錠500毫克 | 錠劑 | 優良化學製藥 | 有效 |
-| 衛署藥製字第018570號 | 肌樂弛錠500毫克 | 錠劑 | 榮民製藥 | 有效 |
-| 衛署藥製字第039385號 | 寶樂欣膜衣錠500毫克 | 膜衣錠 | 健喬信元 | 有效 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
-**台灣共有 40 張相關許可證，目前有效者約 6 張。**
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Methocarbamol 的不重複許可證共 **39 張**：有效單方 7 張、有效複方 0 張、已註銷 32 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（7 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 內衛藥製字第007888號 | 達士邦錠 | 錠劑 | 豐田藥品股份有限公司 | 2027/08/20 | 腰痛、肌肉痛、四肢痛、關節痛、變形性脊椎症、肌炎、肌肉之異常緊張、強直疼痛 |
+| 衛署藥製字第018570號 | 肌樂弛錠５００公絲（每弛卡摩） | 錠劑 | 榮民製藥股份有限公司 | 2029/09/04 | 解除肌肉攣縮症狀（如骨折、脫臼、肩痛、扭傷、背痛、斜頸等所引起肌肉痙攣） |
+| 衛署藥製字第028259號 | "七星" ３－（鄰－甲氧基苯氧基）１，２－丙二醇－１－氨基甲酸鹽粉劑 | （粉） | 七星化學製藥股份有限公司 | 2029/08/29 | 肌肉鬆弛劑 |
+| 衛署藥製字第039385號 | 寶樂欣膜衣錠５００毫克（每弛卡摩） | 膜衣錠 | 健喬信元醫藥生技股份有限公司 | 2030/02/07 | 肌肉攣縮症狀、肩痛斜頸、肌肉痙攣。 |
+| 衛署藥製字第043325號 | "中化合成" 每弛卡摩 | （粉） | 中化合成生技股份有限公司山佳工廠 | 2024/10/25 | 肌肉鬆弛劑。 |
+| 衛署藥陸輸字第000306號 | 每弛卡摩 | （粉） | 龍大生技股份有限公司 | 2027/12/31 | 肌肉鬆弛劑。 |
+| 衛部藥製字第060618號 | 美卡欣錠500毫克 | 錠劑 | 優良化學製藥股份有限公司 | 2031/01/22 | 肌肉攣縮症狀、肩痛斜頸、肌肉痙攣。 |
+
+<details><summary><strong>已註銷</strong>（32 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第008884號</td><td>佳復筋片</td><td>METHOCARBAMOL</td><td>1999/08/23</td></tr><tr><td>衛署藥製字第007693號</td><td>扶百生錠</td><td>METHOCARBAMOL</td><td>2014/10/08</td></tr><tr><td>衛署藥製字第008892號</td><td>美受百通錠</td><td>METHOCARBAMOL</td><td>1988/08/01</td></tr><tr><td>衛署藥製字第017582號</td><td>舒腱錠（每弛卡摩）</td><td>METHOCARBAMOL</td><td>1999/12/30</td></tr><tr><td>衛署藥製字第020908號</td><td>"國信"美弛注射液</td><td>METHOCARBAMOL</td><td>2023/07/12</td></tr><tr><td>衛署藥製字第030987號</td><td>美受百通錠５００公絲（每弛卡摩）</td><td>METHOCARBAMOL</td><td>2024/12/09</td></tr><tr><td>衛署藥製字第037055號</td><td>每弛卡痲</td><td>METHOCARBAMOL</td><td>2023/07/06</td></tr><tr><td>衛署藥製字第038228號</td><td>美佳莫</td><td>METHOCARBAMOL</td><td>2001/11/15</td></tr><tr><td>衛署藥製字第038553號</td><td>達士邦錠５００公絲（每弛卡摩）</td><td>METHOCARBAMOL</td><td>2005/11/30</td></tr><tr><td>衛署藥輸字第000352號</td><td>羥丙基氨基甲醯</td><td>METHOCARBAMOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第000435號</td><td>莫索卡巴莫</td><td>METHOCARBAMOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第003069號</td><td>滅痛兒注射液</td><td>METHOCARBAMOL</td><td>1985/10/02</td></tr><tr><td>衛署藥輸字第005702號</td><td>絡脾生錠劑</td><td>METHOCARBAMOL</td><td>1992/08/13</td></tr><tr><td>衛署藥輸字第005813號</td><td>絡脾生注射劑</td><td>METHOCARBAMOL</td><td>1994/04/15</td></tr><tr><td>衛署藥輸字第005860號</td><td>（Ｏ一甲氧苯氧基）羥丙基氨基甲醯</td><td>METHOCARBAMOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005924號</td><td>絡脾舒錠劑</td><td>METHOCARBAMOL、ASPIRIN</td><td>1992/08/13</td></tr><tr><td>衛署藥輸字第006933號</td><td>美多卡莫爾</td><td>METHOCARBAMOL</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第007487號</td><td>複合歐力克新注射液</td><td>SODIUM SALICYLATE、METHOCARBAMOL、SULPYRINE (EQ TO DIPYRONE )</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第009232號</td><td>胳必新錠</td><td>METHOCARBAMOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第011428號</td><td>邁肌健錠</td><td>METHOCARBAMOL</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第011651號</td><td>美舒筋錠</td><td>METHOCARBAMOL</td><td>1986/07/04</td></tr><tr><td>衛署藥輸字第012090號</td><td>寶樂欣錠５００公絲</td><td>METHOCARBAMOL</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第013024號</td><td>每弛卡麻粉劑</td><td>METHOCARBAMOL</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第015089號</td><td>美佳舒筋錠</td><td>METHOCARBAMOL</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第015434號</td><td>每弛卡麻</td><td>METHOCARBAMOL</td><td>1992/11/11</td></tr><tr><td>衛署藥輸字第016049號</td><td>克筋炎錠２５０公絲</td><td>METHOCARBAMOL</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第017981號</td><td>滅痠錠７５０公絲</td><td>METHOCARBAMOL</td><td>2007/06/28</td></tr><tr><td>衛署藥輸字第017982號</td><td>滅痠錠５００公絲</td><td>METHOCARBAMOL</td><td>2007/06/28</td></tr><tr><td>衛署藥輸字第018597號</td><td>帕巴可欣注射液</td><td>METHOCARBAMOL</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第019202號</td><td>絡脾生錠劑</td><td>METHOCARBAMOL</td><td>2002/06/13</td></tr><tr><td>衛署藥輸字第019203號</td><td>絡脾舒錠劑</td><td>METHOCARBAMOL、ASPIRIN</td><td>2002/06/13</td></tr><tr><td>衛署藥輸字第019462號</td><td>絡脾生注射劑</td><td>METHOCARBAMOL</td><td>2007/06/28</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

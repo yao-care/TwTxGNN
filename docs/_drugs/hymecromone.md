@@ -48,7 +48,7 @@ TxGNN 模型預測它可能對**糖尿病腎病 (Diabetic Nephropathy)** 有效�
 | TxGNN 預測分數 | 99.85% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 14 張 |
+| 許可證數 | 14 張（有效單方 2／有效複方 0／已註銷 12） |
 | 建議決策 | Hold |
 
 ---
@@ -77,13 +77,23 @@ TxGNN 模型預測它可能對**糖尿病腎病 (Diabetic Nephropathy)** 有效�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥陸輸字第000135號 | 和美克隆 | （粉） | 利膽、鎮痙劑。 |
-| 衛署藥輸字第006149號 | 膽能爽膠囊 | 膠囊劑 | 下列諸症之利膽及鎮痙、膽石症、膽囊炎、膽道運動不全、膽囊切除後症候群 |
-| 衛署藥製字第055889號 | 〝元宙〞安利膽膠囊 | 膠囊劑 | 下列諸症之利膽及鎮痙作用：膽石、膽囊炎、膽道阻礙、膽囊切除後症候群。 |
-| 衛署藥輸字第010217號 | 賜康寧軟膠囊 | 軟膠囊劑 | 下列諸症之利膽及鎮痙：膽石症、膽囊炎、膽道機能性運動障礙、膽囊切除後症候群 |
-| 衛署藥輸字第015334號 | 利樂道膠囊 | 膠囊劑 | 下列諸症狀之利膽及鎮痙：膽石症、膽囊炎、膽道運動困難、膽囊切除後症候群 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Hymecromone 的不重複許可證共 **14 張**：有效單方 2 張、有效複方 0 張、已註銷 12 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（2 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第049261號 | 利鎮膽膠囊 | 膠囊劑 | 瑩碩生技醫藥股份有限公司 | 2028/01/28 | 下列諸症之利膽及鎮痙作用膽石、膽囊炎、膽道阻礙、膽囊切除後症候群。 |
+| 衛署藥製字第055889號 | 〝元宙〞安利膽膠囊 | 膠囊劑 | 元宙化學製藥股份有限公司 | 2030/12/23 | 下列諸症之利膽及鎮痙作用：膽石、膽囊炎、膽道阻礙、膽囊切除後症候群。 |
+
+<details><summary><strong>已註銷</strong>（12 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第003962號</td><td>七氫氧四甲基香豆素</td><td>HYMECROMONE (IMECROMONE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006149號</td><td>膽能爽膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第006437號</td><td>趕膽炎膠囊</td><td>ALUMINUM MAGNESIUM SILICATE、HYMECROMONE (IMECROMONE)</td><td>1986/06/21</td></tr><tr><td>衛署藥輸字第006507號</td><td>膽力可定膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第007023號</td><td>益膽膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2014/05/15</td></tr><tr><td>衛署藥輸字第007493號</td><td>可爾膽蒙膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第010217號</td><td>賜康寧軟膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第010616號</td><td>和美克隆</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第011950號</td><td>優克膽膠囊２００公絲</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第015053號</td><td>趕膽炎膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015334號</td><td>利樂道膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2013/11/26</td></tr><tr><td>衛署藥陸輸字第000135號</td><td>和美克隆</td><td>HYMECROMONE (IMECROMONE)</td><td>2013/12/16</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ---
 

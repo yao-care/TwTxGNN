@@ -44,7 +44,7 @@ Metoprolol（美托普洛）是一種選擇性 beta-1 腎上腺素受體阻斷�
 | TxGNN 預測分數 | 99.91% (惡性高血壓腎病變), 99.40% (慢性肺心病) |
 | 證據等級 | L2 (慢性肺心病), L5 (惡性高血壓腎病變) |
 | 台灣上市 | 已上市 |
-| 許可證數 | 15+ 張 |
+| 許可證數 | 46 張（有效單方 8／有效複方 0／已註銷 38） |
 | 建議決策 | Explore |
 
 ## 為什麼這個預測合理？
@@ -84,11 +84,29 @@ Metoprolol 通過選擇性阻斷心臟 beta-1 受體，減少心率、心肌收�
 
 ## 台灣上市資訊
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
-|---------|------|------|-----------|
-| 衛署藥製字第029301號 | "明德"心壓暢錠100毫克 | 錠劑 | 高血壓、狹心症 |
-| 衛署藥製字第029313號 | "成大"貝他寧錠100毫克 | 錠劑 | 高血壓、狹心症 |
-| 衛署藥製字第031032號 | "健喬"心舒寧錠100毫克 | 錠劑 | 高血壓、狹心症 |
+<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
+
+### 台灣許可證（依 TFDA 資料集自動產生）
+
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Metoprolol 的不重複許可證共 **46 張**：有效單方 8 張、有效複方 0 張、已註銷 38 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+**有效・單方**（8 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛署藥製字第029301號 | "明德" 心壓暢錠100毫克（美托普洛） | 錠劑 | 明德製藥股份有限公司 | 2029/11/28 | 高血壓、狹心症 |
+| 衛署藥製字第029313號 | “成大”貝他寧錠１００毫克（美托普洛） | 錠劑 | 成大藥品股份有限公司 | 2028/12/10 | 高血壓、狹心症 |
+| 衛署藥製字第031032號 | “健喬”心舒寧錠１００毫克（美托普洛） | 錠劑 | 健喬信元醫藥生技股份有限公司 | 2028/08/30 | 高血壓、狹心症。 |
+| 衛署藥製字第036844號 | 速暢壓錠100毫克 | 錠劑 | 約克製藥股份有限公司 | 2028/10/20 | 高血壓、狹心症。 |
+| 衛署藥製字第048912號 | “生泰”琥珀酸美托普洛 | 原料藥結晶性粉末 | 生泰合成工業股份有限公司 | 2027/07/30 | 降血壓劑。 |
+| 衛署藥製字第057407號 | "永日"琥珀酸美托普洛 | 原料藥粉末 | 永日化學工業股份有限公司台中幼獅廠 | 2027/10/18 | 降血壓劑。 |
+| 衛部藥輸字第026220號 | 酒石酸美托普洛 | （粉） | 新雙隆生技股份有限公司 | 2028/12/16 | 降壓劑 |
+| 衛部藥輸字第026617號 | 琥珀酸美托普洛 | （粉） | 新雙隆生技股份有限公司 | 2030/09/03 | 降血壓劑 |
+
+<details><summary><strong>已註銷</strong>（38 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第035842號</td><td>美托普洛錠１００公絲</td><td>METOPROLOL TARTRATE</td><td>2010/02/08</td></tr><tr><td>衛署藥製字第040476號</td><td>"生泰"酒石酸美托普洛</td><td>METOPROLOL TARTRATE</td><td>2019/05/16</td></tr><tr><td>衛署藥製字第040547號</td><td>"壽元"滅得錠１００公絲/（美托普洛）</td><td>METOPROLOL TARTRATE</td><td>2023/07/21</td></tr><tr><td>衛署藥製字第041956號</td><td>"十全"心達樂錠100毫克(酒石酸美托普洛)</td><td>METOPROLOL TARTRATE</td><td>2025/05/14</td></tr><tr><td>衛署藥輸字第009358號</td><td>舒壓寧錠１００公絲</td><td>METOPROLOL TARTRATE</td><td>1989/07/25</td></tr><tr><td>衛署藥輸字第012933號</td><td>倍舒壓錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、METOPR…</td><td>1985/11/15</td></tr><tr><td>衛署藥輸字第013519號</td><td>舒壓寧注射液１公絲/公撮</td><td>METOPROLOL TARTRATE</td><td>1989/05/03</td></tr><tr><td>衛署藥輸字第013672號</td><td>舒壓寧持效錠２００公絲</td><td>METOPROLOL TARTRATE</td><td>1989/05/03</td></tr><tr><td>衛署藥輸字第014370號</td><td>倍舒壓錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、METOPR…</td><td>1989/05/03</td></tr><tr><td>衛署藥輸字第015811號</td><td>美托普洛酒石酸鹽</td><td>METOPROLOL</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第015962號</td><td>樂華寧錠</td><td>METOPROLOL TARTRATE</td><td>1991/12/18</td></tr><tr><td>衛署藥輸字第016210號</td><td>"合吉" 酒石酸美托普洛</td><td>METOPROLOL TARTRATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第016503號</td><td>美得寧錠１００公絲</td><td>METOPROLOL TARTRATE</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第016564號</td><td>康達心錠</td><td>METOPROLOL TARTRATE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第016585號</td><td>美得寧錠５０公絲</td><td>METOPROLOL TARTRATE</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第016649號</td><td>可達平錠５０公絲</td><td>METOPROLOL TARTRATE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第016888號</td><td>得耐舒錠１００公絲</td><td>METOPROLOL TARTRATE</td><td>2025/06/03</td></tr><tr><td>衛署藥輸字第017200號</td><td>舒壓寧錠１００公絲</td><td>METOPROLOL TARTRATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第017202號</td><td>舒壓寧持效錠２００公絲</td><td>METOPROLOL TARTRATE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第017205號</td><td>舒壓寧注射液１公絲/公撮</td><td>METOPROLOL TARTRATE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第017228號</td><td>倍舒壓錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、METOPR…</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第017477號</td><td>酒石酸美托普洛</td><td>METOPROLOL TARTRATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017837號</td><td>美托普洛醇酒石酸酯</td><td>METOPROLOL TARTRATE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第018751號</td><td>酒石酸美托普洛</td><td>METOPROLOL TARTRATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第018794號</td><td>樂華寧錠</td><td>METOPROLOL TARTRATE</td><td>1993/06/14</td></tr><tr><td>衛署藥輸字第018891號</td><td>酒石酸美托普洛</td><td>METOPROLOL TARTRATE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第019044號</td><td>酒石酸鹽美托普洛</td><td>METOPROLOL TARTRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019507號</td><td>敏樂舒錠５０公絲</td><td>METOPROLOL TARTRATE</td><td>2019/03/14</td></tr><tr><td>衛署藥輸字第019508號</td><td>敏樂舒錠１００公絲</td><td>METOPROLOL TARTRATE</td><td>2019/03/14</td></tr><tr><td>衛署藥輸字第020097號</td><td>酒石酸美托普洛</td><td>METOPROLOL TARTRATE</td><td>1999/03/11</td></tr><tr><td>衛署藥輸字第020173號</td><td>舒壓寧控釋錠２００公絲</td><td>METOPROLOL SUCCINATE</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第020174號</td><td>舒壓寧控釋錠１００公絲</td><td>METOPROLOL SUCCINATE</td><td>2025/10/07</td></tr><tr><td>衛署藥輸字第020175號</td><td>舒壓寧控釋錠５０公絲</td><td>METOPROLOL SUCCINATE</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第020540號</td><td>樂必舒緩釋錠１９０公絲</td><td>METOPROLOL</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第021187號</td><td>脈妥普樂注射液１公絲－公撮</td><td>METOPROLOL TARTRATE</td><td>1997/12/10</td></tr><tr><td>衛署藥輸字第021835號</td><td>"莫伊士" 酒石酸美托普洛</td><td>METOPROLOL TARTRATE</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第021955號</td><td>脈妥普樂注射液１公絲－公撮</td><td>METOPROLOL TARTRATE</td><td>2002/03/29</td></tr><tr><td>衛署藥輸字第023799號</td><td>舒壓寧控釋錠２５公絲</td><td>METOPROLOL SUCCINATE</td><td>2025/03/18</td></tr></tbody></table></details>
+
+<!-- tfda-licenses:end -->
 
 ## 安全性考量
 
