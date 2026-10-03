@@ -105,7 +105,7 @@ def _license_tables(lines: list[str]) -> list[tuple[int, int]]:
 
 
 SECTION_RE = re.compile(r"^## .*台灣上市", re.M)
-COUNT_PROSE_RE = re.compile(r"(\d[\d,，]*)\s*張(相關|藥品|有效)?許可證(?!（有效)")
+COUNT_PROSE_RE = re.compile(r"(\d[\d,，]*)\s*張(相關|藥品|有效)?許可證(?:（有效 \d+ 張）)?")  # 已改寫過的連同括號一起更新
 
 
 def rewrite_count_prose(text: str, s: dict) -> str:

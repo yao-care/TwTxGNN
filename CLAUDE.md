@@ -984,4 +984,6 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - `llm_client.py` 呼叫 `claude -p` 時帶 `--disable-slash-commands --setting-sources ""`（不載技能與設定），回應再過 `clean_response()`。
 - 既有頁面重產：`python3 scripts/regenerate_tfda_tables.py --data-date <資料集檔案日期>`（可重複執行）；它同時更新 `snapshots/tfda_licenses.json.gz`（gate 與沒有資料集時的產線用）。
 - 查核紀錄的錨點落在被取代的許可證表或張數上時，該筆標 `status: superseded`＋`superseded_by`，紀錄保留、頁面不顯示框，查核紀錄表註明「已由程式化許可證表取代」。
-- gate（`scripts/check_seo_docs.py`）第 6 項會擋：不屬於該藥的許可證字號、許可證表不是程式區塊、張數與快照不符、殘留開場白或「Evidence Pack」。
+- 比對用的別名（INN 別名、鹽類／酯類、放射性核種寫法、拼字變體）放在 `config/tfda_synonyms.json`，每筆附依據；只收同一個藥的寫法。改完重跑 `scripts/regenerate_tfda_tables.py`。
+- gate（`scripts/check_seo_docs.py`）第 6 項會擋：不屬於該藥的許可證字號、許可證表不是程式區塊、張數與快照不符、殘留開場白或「Evidence Pack」；另外被 superseded 的查核紀錄裡確認屬於本藥的字號（`asserted_license_ids`）必須都在程式表裡——比對漏同義名時會在這裡被擋下。
+- 「原適應症」列的交叉驗證：`python3 scripts/check_original_indications.py`，只把可疑頁寫進 `docs/_data/drug_reviews_uncertain.json`，不改頁面。

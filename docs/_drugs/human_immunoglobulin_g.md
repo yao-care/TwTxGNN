@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**糖尿病視網膜病變 (diabetic retinopathy)*
 | TxGNN 預測分數 | 99.63% |
 | 證據等級 | L3 |
 | 台灣上市 | 有效許可證 |
-| 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
+| 許可證數 | 33 張（有效單方 7／有效複方 0／已註銷 26） |
 | 建議決策 | Explore |
 
 ## 為什麼這個預測合理？
@@ -91,13 +91,22 @@ Human immunoglobulin G 是一種免疫調節生物製劑，透過多種機轉發
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Human Immunoglobulin G 的不重複許可證共 **1 張**：有效單方 1 張、有效複方 0 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Human Immunoglobulin G 的不重複許可證共 **33 張**：有效單方 7 張、有效複方 0 張、已註銷 26 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
+**有效・單方**（7 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
+| 衛署菌疫輸字第000643號 | 〝貝靈〞B型肝炎免疫球蛋白注射液 | 注射劑 | 傑特貝林有限公司 | 2031/12/03 | B型肝炎的免疫預防。 |
+| 衛署菌疫輸字第000672號 | 〝基立福〞人免疫球蛋白靜脈注射液５％ DIF | 注射劑 | 台灣綠十字股份有限公司 | 2031/06/26 | 免疫球蛋白缺乏症、原發性血小板減少紫瘢症。川崎氏症(KAWASAKI DISEASE)。 |
 | 衛署菌疫輸字第000841號 | “國血製劑益康”人類免疫球蛋白靜脈注射劑 | 注射劑 | 醫療財團法人台灣血液基金會 | 2027/07/12 | IgG的替代治療用藥，適應症包括：1.原發性免疫不全症（primary immune deficiency）。2.由潛在疾病或治療所引發之次發性症狀性低伽瑪球蛋白血症。 用於改善免… |
+| 衛署菌疫輸字第000895號 | 克歐維人類免疫球蛋白靜脈輸注液 100 毫克/ 毫升 | 注射液 | 台灣武田藥品工業股份有限公司 | 2030/02/24 | 替代療法： • 原發性免疫不全症候群(primary immunodeficiency syndrome，PID)。 例如： − 先天性丙種球蛋白缺乏症(congenital ag… |
+| 衛部菌疫輸字第000965號 | "貝靈"瑞利勁人體免疫球蛋白靜脈注射液10% | 注射液劑 | 傑特貝林有限公司 | 2030/01/20 | 作為替代療法： 1.原發性免疫不全症(Primary immunodeficiency syndromes，PID)如： (1)先天性丙種免疫球蛋白缺乏症(congenital a… |
+| 衛部菌疫輸字第001048號 | "貝靈" 優利勁人體免疫球蛋白皮下注射液20% | 注射液劑 | 傑特貝林有限公司 | 2027/11/24 | 成人、兒童和青少年（0-18歲）之替代療法： (1) 原發性免疫不全症(primary immunodeficiency syndrome)（例如：先天性丙種免疫球蛋白缺乏症(co… |
+| 衛部菌疫輸字第001238號 | 第二代"國血製劑益康"人體免疫球蛋白靜脈注射液10% | 注射劑 | 醫療財團法人台灣血液基金會 | 2028/09/15 | 1、作為替代療法 (１)原發性免疫不全症(Primary immunodeficiency syndromes，PID)如： 甲、先天性丙種免疫球蛋白缺乏症(congenital… |
+
+<details><summary><strong>已註銷</strong>（26 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署菌疫製字第000070號</td><td>乾燥聚乙烯乙二醇處理人免疫血清球蛋白靜脈注射劑</td><td>IMMUNOGLOBULIN HUMAN、IMMUNOGLOBULIN HUMAN、ALBUMIN HUMAN SERU…</td><td>2009/12/18</td></tr><tr><td>衛署菌疫製字第000091號</td><td>息喘球蛋白注射劑</td><td>IMMUNOGLOBULIN HUMAN、HISTAMINE 2HCL</td><td>2009/12/18</td></tr><tr><td>衛署菌疫輸字第000047號</td><td>丙球蛋白血清注射液</td><td>IMMUNOGLOBULIN HUMAN</td><td>1992/03/16</td></tr><tr><td>衛署菌疫輸字第000124號</td><td>免疫血清丙球蛋白注射劑</td><td>IMMUNOGLOBULIN HUMAN SERUM, PLASMATIC ORIGIN</td><td>1993/12/03</td></tr><tr><td>衛署菌疫輸字第000182號</td><td>克療丙</td><td>IMMUNOGLOBULIN HUMAN</td><td></td></tr><tr><td>衛署菌疫輸字第000184號</td><td>丙球靜</td><td>IMMUNOGLOBULIN HUMAN</td><td>2007/09/19</td></tr><tr><td>衛署菌疫輸字第000221號</td><td>克療丙注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>1997/01/07</td></tr><tr><td>衛署菌疫輸字第000224號</td><td>丙球靜注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>1992/01/17</td></tr><tr><td>衛署菌疫輸字第000245號</td><td>西施太平注射劑</td><td>IMMUNOGLOBULIN HUMAN、HISTAMINE 2HCL</td><td>1995/07/22</td></tr><tr><td>衛署菌疫輸字第000343號</td><td>丙球靜注射劑</td><td>IMMUNOGLOBULIN HUMAN、IMMUNOGLOBULIN HUMAN、IMMUNOGLOBULIN HUM…</td><td>1997/01/07</td></tr><tr><td>衛署菌疫輸字第000365號</td><td>抗Ｂ型肝炎免疫血清注射劑</td><td>IMMUNOGLOBULIN HUMAN、HEPATITIS B, ANTIBODY</td><td>2001/08/06</td></tr><tr><td>衛署菌疫輸字第000373號</td><td>人體免疫球蛋白靜脈注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>2000/08/14</td></tr><tr><td>衛署菌疫輸字第000386號</td><td>百合球蛋白靜脈注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>2000/08/14</td></tr><tr><td>衛署菌疫輸字第000422號</td><td>"貝靈" 克療丙注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>2025/05/28</td></tr><tr><td>衛署菌疫輸字第000431號</td><td>丙球靜注射劑</td><td>IMMUNOGLOBULIN HUMAN、IMMUNOGLOBULIN HUMAN、IMMUNOGLOBULIN HUM…</td><td>2007/09/19</td></tr><tr><td>衛署菌疫輸字第000587號</td><td>人體免疫球蛋白靜脈注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>2014/01/24</td></tr><tr><td>衛署菌疫輸字第000611號</td><td>１０％免疫球蛋白靜脈注射液</td><td>IMMUNOGLOBULIN HUMAN</td><td>2014/01/24</td></tr><tr><td>衛署菌疫輸字第000629號</td><td>人體免疫球蛋白靜脈注射劑〝益康〞</td><td>WATER FOR INJECTION、IMMUNOGLOBULIN HUMAN</td><td>2009/12/16</td></tr><tr><td>衛署菌疫輸字第000680號</td><td>人體免疫球蛋白靜脈注射劑〝蘇伯〞</td><td>WATER FOR INJECTION、IMMUNOGLOBULIN HUMAN</td><td>2014/01/24</td></tr><tr><td>衛署菌疫輸字第000808號</td><td>"喜斯悅" 人體免疫球蛋白靜脈注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>2018/09/10</td></tr><tr><td>衛署藥輸字第000389號</td><td>加敏林</td><td>IMMUNOGLOBULIN HUMAN SERUM</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第000761號</td><td>西施太平針</td><td>IMMUNOGLOBULIN HUMAN、HISTAMINE 2HCL</td><td>1988/05/26</td></tr><tr><td>衛署藥輸字第001218號</td><td>人免疫血清球蛋白原料粉末</td><td>IMMUNOGLOBULIN HUMAN</td><td>1986/01/16</td></tr><tr><td>衛署藥輸字第004723號</td><td>蕾敏注射劑</td><td>HISTAMINE 2HCL、EACH SOLVENT CONTAINS、SODIUM THIOSULFATE、IMMU…</td><td>1984/12/31</td></tr><tr><td>衛署藥輸字第005140號</td><td>球蛋白靜脈注射劑</td><td>IMMUNOGLOBULIN HUMAN</td><td>1994/08/11</td></tr><tr><td>衛署藥輸字第015225號</td><td>人免疫血清球蛋白原料粉末</td><td>IMMUNOGLOBULIN HUMAN SERUM</td><td>2005/06/03</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

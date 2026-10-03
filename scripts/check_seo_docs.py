@@ -16,7 +16,8 @@
        permalink 含 collection 文件（_drugs/、_news/）：照 _config.yml 的
        `permalink: /drugs/:name/` 樣板＋Jekyll slugify 推導（2026-10-03 補）。
     6. 藥物頁的許可證字號都屬於該藥（TFDA 快照）、許可證表是程式產生的、張數一致、
-       沒有產線開場白與「Evidence Pack」用語（2026-10-03 補）。
+       沒有產線開場白與「Evidence Pack」用語；被 superseded 的查核紀錄確認屬於本藥的字號
+       （asserted_license_ids）必須都在程式表裡（2026-10-03 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
 
@@ -225,6 +226,17 @@ for md in sorted((DOCS / "_drugs").glob("*.md")):
         errors.append(f"{md.name}：報告開頭殘留產線開場白")
     if "Evidence Pack" in text:
         errors.append(f"{md.name}：殘留「Evidence Pack」內部用語")
+# 6b) 被 superseded 的查核紀錄寫明「屬於本藥」的字號，程式表必須包含（防比對漏同義名把錯寫回去）
+_rev = DOCS / "_data" / "drug_reviews.json"
+if _rev.exists():
+    for _r in json.loads(_rev.read_text(encoding="utf-8"))["records"]:
+        _ids = set(_r.get("asserted_license_ids") or [])
+        _entry = _snap.get(_r["file"][:-3])
+        if _ids and _entry is not None:
+            _miss = _ids - {x["id"] for x in _entry["licenses"]}
+            if _miss:
+                errors.append(f"{_r['file']}：查核紀錄 {_r['id']} 確認屬於本藥的字號 {sorted(_miss)} 不在程式產生的許可證表裡"
+                              "（比對規則漏了同義名？補 config/tfda_synonyms.json 後重跑 scripts/regenerate_tfda_tables.py）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

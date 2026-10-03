@@ -180,3 +180,24 @@ class TestLLMClient:
         i = cmd.index("--setting-sources")
         assert cmd[i + 1] == ""
         assert text == "# 報告\n\n依彙整資料撰寫"
+
+
+class TestSynonymsAndIds:
+    def test_synonyms_come_from_config_file(self):
+        cfg = json.loads(T.SYNONYMS_FILE.read_text(encoding="utf-8"))
+        assert "LUTETIUM LU 177 DOTATATE" in cfg["synonyms"]
+        assert T.SYNONYMS["LUTETIUM LU 177 DOTATATE"]  # 由設定檔載入，不寫死在比對邏輯
+
+    def test_radionuclide_alias_and_r_prefixed_id(self):
+        recs = [rec("衛部藥輸字第R00104號", "177Lu-DOTA0-TYR3-Octreotate", "鎦癌平注射液")]
+        assert [x["id"] for x in T.licenses_for_drug("Lutetium Lu 177 Dotatate", recs)] == ["衛部藥輸字第R00104號"]
+        assert T.LICENSE_RE.findall("許可證是衛部藥輸字第R00104號") == ["衛部藥輸字第R00104號"]
+
+    def test_parenthesised_salt(self):
+        recs = [rec("衛署藥製字第000009號", "MAGNESIUM (SULFATE);;GLUCOSE")]
+        assert len(T.licenses_for_drug("Magnesium Sulfate", recs)) == 1
+
+    def test_ester_variants_not_merged(self):
+        recs = [rec("衛署藥輸字第012326號", "TOCOPHEROL NICOTINATE ALPHA DL-"),
+                rec("衛署藥輸字第000010號", "TOCOPHEROL-ALPHA-D ACID SUCCINATE")]
+        assert [x["id"] for x in T.licenses_for_drug("Alpha-Tocopherol Succinate", recs)] == ["衛署藥輸字第000010號"]

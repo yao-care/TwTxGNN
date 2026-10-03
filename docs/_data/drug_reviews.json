@@ -373,7 +373,10 @@
    ],
    "replacement": "| 衛署藥製字第004771號 | 硫酸鎂注射液 | 注射劑 | 信東生技 | 2028/05/25 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第004771號"
+   ]
   },
   {
    "id": "magnesium-sulfate-license-047652-2026-10-03",
@@ -396,7 +399,10 @@
    ],
    "replacement": "| 衛部藥製字第062091號 | 美我欣注射液100毫克/毫升 | 注射劑 | 南光化學製藥 | 2030/12/24 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥製字第062091號"
+   ]
   },
   {
    "id": "magnesium-sulfate-combo-indications-2026-10-03",
@@ -439,7 +445,10 @@
    ],
    "replacement": "| 衛部藥製字第060902號 | 法迪朗膜衣錠 500mg | 膜衣錠 | 有效 (至2031) |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥製字第060902號"
+   ]
   },
   {
    "id": "diosmin-license-001025-expiry-2026-10-03",
@@ -462,7 +471,10 @@
    ],
    "replacement": "| 衛部藥陸輸字第001025號 | 香葉木素芸香糖苷 | 粉劑 | 有效 (至2031) |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥陸輸字第001025號"
+   ]
   },
   {
    "id": "procaine-penicillin-combo-rows-2026-10-03",
@@ -555,7 +567,10 @@
    ],
    "replacement": "| 衛署罕藥輸字第000027號 | 止蹈錠 12.5 毫克 | 錠劑 | 12.5 mg |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署罕藥輸字第000027號"
+   ]
   },
   {
    "id": "tetrabenazine-license-25mg-2026-10-03",
@@ -578,7 +593,10 @@
    ],
    "replacement": "| 衛署罕藥輸字第000026號 | 止蹈錠 25 毫克 | 錠劑 | 25 mg |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署罕藥輸字第000026號"
+   ]
   },
   {
    "id": "naphazoline-penso-license-2026-10-03",
@@ -601,7 +619,10 @@
    ],
    "replacement": "| 內衛藥製字第012086號 | 噴速點鼻液外用（複方：naphazoline＋chlorpheniramine） | 外用液劑 | 急慢性鼻炎、過敏性鼻炎、鼻蓄膿症 | 有效 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "內衛藥製字第012086號"
+   ]
   },
   {
    "id": "fludarabine-license-rows-other-drugs-2026-10-03",
@@ -623,7 +644,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第022732號"
+   ]
   },
   {
    "id": "pitolisant-license-028103-expiry-2026-10-03",
@@ -646,7 +670,10 @@
    ],
    "replacement": "| 衛部藥輸字第028103號 | 唯醒膜衣錠4.5毫克 (Wakix) | 膜衣錠 | 信東生技股份有限公司 | 2031/07/13 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第028103號"
+   ]
   },
   {
    "id": "pitolisant-license-028104-expiry-2026-10-03",
@@ -669,7 +696,10 @@
    ],
    "replacement": "| 衛部藥輸字第028104號 | 唯醒膜衣錠18毫克 (Wakix) | 膜衣錠 | 信東生技股份有限公司 | 2031/07/13 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第028104號"
+   ]
   },
   {
    "id": "acyclovir-license-rows-valacyclovir-cancelled-2026-10-03",
@@ -734,7 +764,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第021174號"
+   ]
   },
   {
    "id": "alfacalcidol-license-023050-2026-10-03",
@@ -757,7 +790,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第021175號"
+   ]
   },
   {
    "id": "alpha-tocopherol-acetate-license-rows-cancelled-2026-10-03",
@@ -1103,7 +1139,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第025853號"
+   ]
   },
   {
    "id": "bempedoic-acid-ldlr-premise-2026-10-03",
@@ -1168,7 +1207,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第025881號"
+   ]
   },
   {
    "id": "benazepril-license-056647-expiry-2026-10-03",
@@ -1191,7 +1233,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第056647號"
+   ]
   },
   {
    "id": "benazepril-license-rows-combo-2026-10-03",
@@ -1398,7 +1443,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027715號"
+   ]
   },
   {
    "id": "buprenorphine-suboxone-name-2026-10-03",
@@ -1570,7 +1618,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第024074號"
+   ]
   },
   {
    "id": "carboplatin-license-027591-b-2026-10-03",
@@ -1593,7 +1644,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第024804號"
+   ]
   },
   {
    "id": "carboplatin-license-028264-2026-10-03",
@@ -1616,7 +1670,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第057314號"
+   ]
   },
   {
    "id": "cefoperazone-license-rows-sulbactam-combo-2026-10-03",
@@ -1789,7 +1846,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第033930號"
+   ]
   },
   {
    "id": "clomipramine-original-indication-2026-10-03",
@@ -2268,7 +2328,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署菌疫輸字第000918號"
+   ]
   },
   {
    "id": "deoxycholic-acid-summary-indication-2026-10-03",
@@ -2345,7 +2408,12 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥製字第061007號",
+    "衛部藥製字第061840號",
+    "衛部藥輸字第027135號"
+   ]
   },
   {
    "id": "deoxycholic-acid-tw-note-2026-10-03",
@@ -2539,7 +2607,11 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第057971號",
+    "衛部藥輸字第027525號"
+   ]
   },
   {
    "id": "doxorubicin-summary-indication-2026-10-03",
@@ -2604,7 +2676,11 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第036418號",
+    "衛署藥輸字第022712號"
+   ]
   },
   {
    "id": "doxorubicin-tw-data-note-2026-10-03",
@@ -2649,7 +2725,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第025224號"
+   ]
   },
   {
    "id": "dronedarone-tw-license-count-2026-10-03",
@@ -2739,7 +2818,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部菌疫輸字第001139號"
+   ]
   },
   {
    "id": "ethynodiol-diacetate-tw-license-table-2026-10-03",
@@ -2762,7 +2844,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第043147號"
+   ]
   },
   {
    "id": "ethynodiol-diacetate-tw-other-product-2026-10-03",
@@ -2806,7 +2891,11 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第024772號",
+    "衛署藥輸字第025165號"
+   ]
   },
   {
    "id": "famotidine-tw-license-table-2026-10-03",
@@ -2829,7 +2918,12 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第039794號",
+    "衛署藥製字第040206號",
+    "衛部藥製字第058377號"
+   ]
   },
   {
    "id": "fenoprofen-original-indication-2026-10-03",
@@ -3064,7 +3158,11 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第029086號",
+    "衛部藥輸字第029184號"
+   ]
   },
   {
    "id": "gefitinib-tw-license-table-2026-10-03",
@@ -3087,7 +3185,14 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第023808號",
+    "衛部藥製字第059239號",
+    "衛部藥製字第060182號",
+    "衛部藥製字第060414號",
+    "衛部藥輸字第028441號"
+   ]
   },
   {
    "id": "gemcitabine-summary-indication-2026-10-03",
@@ -3152,7 +3257,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第025899號"
+   ]
   },
   {
    "id": "gemcitabine-why-premise-2026-10-03",
@@ -3551,7 +3659,10 @@
    ],
    "replacement": "| 衛部藥輸字第028121號 | 百特 歐立美N12E輸注乳液 | 注射液劑 | 百特醫療產品 | 有效 | 2031/07/20 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第028121號"
+   ]
   },
   {
    "id": "isosorbide-mononitrate-minoxidil-k-channel-premise-2026-10-03",
@@ -3679,7 +3790,10 @@
    ],
    "replacement": "| 衛署藥輸字第023615號 | 艾炎寧膜衣錠10毫克 | 膜衣錠 | 賽諾菲 | 已註銷（2026/07/02） | 2027/12/30 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第023615號"
+   ]
   },
   {
    "id": "leflunomide-license-048558-expiry-2026-10-03",
@@ -3702,7 +3816,10 @@
    ],
    "replacement": "| 衛署藥製字第048558號 | 美時 雅努麻錠10毫克 | 錠劑 | 美時化學製藥 | 有效 | 2032/01/26 |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第048558號"
+   ]
   },
   {
    "id": "letrozole-estrogen-suppression-percent-2026-10-03",
@@ -3810,7 +3927,10 @@
    ],
    "replacement": "| 許可證號 | 品名 | 狀態 | 核准適應症 |\n|---------|------|------|-----------|\n| 衛部藥輸字第R00104號 | 鎦癌平注射液370百萬貝克/毫升（Lutathera） | 有效（至 2031/04/07） | 成人無法手術切除或轉移性、分化良好（G1、G2）且經體抑素類似物治療無效之體抑素受體陽性胃腸道胰腺神經內分泌腫瘤（GEP-NETs） |",
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第R00104號"
+   ]
   },
   {
    "id": "lutetium-lu177-dotatate-conclusion-no-license-2026-10-03",
@@ -4175,7 +4295,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第024084號"
+   ]
   },
   {
    "id": "peppermint_oil-original-indication-combo-2026-10-03",
@@ -4285,7 +4408,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027002號"
+   ]
   },
   {
    "id": "pitavastatin-license-059192-expiry-2026-10-03",
@@ -4308,7 +4434,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥製字第059192號"
+   ]
   },
   {
    "id": "polyethylene_glycol-mircera-indication-2026-10-03",
@@ -4373,7 +4502,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第044330號"
+   ]
   },
   {
    "id": "potassium_iodide-original-indication-combo-2026-10-03",
@@ -4642,7 +4774,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第026168號"
+   ]
   },
   {
    "id": "remdesivir-license-number-placeholder-2026-10-03",
@@ -4665,7 +4800,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027898號"
+   ]
   },
   {
    "id": "ribavirin-asunaprevir-row-2026-10-03",
@@ -4716,7 +4854,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第028266號"
+   ]
   },
   {
    "id": "riluzole-not-only-als-drug-2026-10-03",
@@ -4927,7 +5068,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第020224號"
+   ]
   },
   {
    "id": "salicylic_acid-tw-rows-other-drugs-2026-10-03",
@@ -5250,7 +5394,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第023324號"
+   ]
   },
   {
    "id": "tenofovir-alafenamide-tw-license-027163-2026-10-03",
@@ -5279,7 +5426,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027086號"
+   ]
   },
   {
    "id": "tenofovir-alafenamide-tw-license-027012-2026-10-03",
@@ -5308,7 +5458,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027274號"
+   ]
   },
   {
    "id": "tenofovir-alafenamide-tw-license-027398-2026-10-03",
@@ -5337,7 +5490,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027570號"
+   ]
   },
   {
    "id": "tenofovir-alafenamide-tw-license-027464-2026-10-03",
@@ -5372,7 +5528,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027001號"
+   ]
   },
   {
    "id": "tenofovir-alafenamide-tw-license-027645-2026-10-03",
@@ -5401,7 +5560,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027613號"
+   ]
   },
   {
    "id": "tenofovir-alafenamide-license-count-2026-10-03",
@@ -5480,7 +5642,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥製字第058325號"
+   ]
   },
   {
    "id": "terbutaline-tw-license-026805-2026-10-03",
@@ -5509,7 +5674,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第034922號"
+   ]
   },
   {
    "id": "terbutaline-tw-license-019714-2026-10-03",
@@ -5532,7 +5700,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第037396號"
+   ]
   },
   {
    "id": "terbutaline-tw-license-033582-2026-10-03",
@@ -5561,7 +5732,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第043735號"
+   ]
   },
   {
    "id": "terbutaline-brand-names-2026-10-03",
@@ -5623,7 +5797,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署菌疫輸字第000787號"
+   ]
   },
   {
    "id": "teriparatide-tw-license-027865-2026-10-03",
@@ -5652,7 +5829,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部菌疫輸字第001151號"
+   ]
   },
   {
    "id": "teriparatide-tw-license-028123-2026-10-03",
@@ -5681,7 +5861,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部菌疫輸字第001194號"
+   ]
   },
   {
    "id": "teriparatide-tw-license-028456-2026-10-03",
@@ -5710,7 +5893,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部菌疫輸字第001252號"
+   ]
   },
   {
    "id": "teriparatide-license-count-2026-10-03",
@@ -5756,7 +5942,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "內衛藥製字第004548號"
+   ]
   },
   {
    "id": "theophylline-tw-license-023456-2026-10-03",
@@ -5779,7 +5968,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥製字第059776號"
+   ]
   },
   {
    "id": "theophylline-tw-license-034567-2026-10-03",
@@ -5808,7 +6000,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第044083號"
+   ]
   },
   {
    "id": "theophylline-tw-license-045678-2026-10-03",
@@ -5831,7 +6026,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第019557號"
+   ]
   },
   {
    "id": "theophylline-brand-names-2026-10-03",
@@ -5910,7 +6108,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第034375號"
+   ]
   },
   {
    "id": "tioconazole-trosyd-cancelled-table-2026-10-03",
@@ -5945,7 +6146,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第047752號"
+   ]
   },
   {
    "id": "tioconazole-trosyd-cancelled-overview-2026-10-03",
@@ -6023,7 +6227,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第048176號"
+   ]
   },
   {
    "id": "tolvaptan-license-count-2026-10-03",
@@ -6371,7 +6578,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥輸字第023484號"
+   ]
   },
   {
    "id": "uracil-tw-license-001136-2026-10-03",
@@ -6400,7 +6610,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛署藥製字第043698號"
+   ]
   },
   {
    "id": "urea-dpp4-not-urea-derivative-2026-10-03",
@@ -6669,7 +6882,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第027623號"
+   ]
   },
   {
    "id": "vonoprazan-license-count-2026-10-03",
@@ -6733,7 +6949,10 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "asserted_license_ids": [
+    "衛部藥輸字第026309號"
+   ]
   },
   {
    "id": "voriconazole-license-count-2026-10-03",

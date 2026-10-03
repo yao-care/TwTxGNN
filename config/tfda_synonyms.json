@@ -1,0 +1,26 @@
+{
+ "_doc": "TFDA 許可證主成分比對用的別名表（src/twtxgnn/regulatory/tfda_licenses.py 讀取）。鍵＝藥物頁藥名正規化（大寫、非英數換空白）；值＝TFDA「主成分略述」可能出現的其他寫法（INN 別名、鹽類／酯類寫法、放射性核種寫法、拼字變體）。只收「同一個藥」的寫法；衍生物、不同酯類、不同鹽基的不同藥不要加（例：butylscopolamine 不是 scopolamine、methylergometrine 不是 ergometrine、tocopherol nicotinate 不是 tocopherol succinate）。每筆附 note 說明依據。修改後跑 scripts/regenerate_tfda_tables.py 並在 PR 說明。",
+ "synonyms": {
+  "ERGOMETRINE": {"names": ["ERGONOVINE"], "note": "INN ergometrine＝USAN ergonovine"},
+  "RIFAMPICIN": {"names": ["RIFAMPIN"], "note": "INN rifampicin＝USAN rifampin"},
+  "CROMOGLICIC ACID": {"names": ["CROMOLYN", "SODIUM CROMOGLICATE", "SODIUM CROMOGLYCATE", "DISODIUM CROMOGLYCATE"], "note": "cromoglicic acid 的鈉鹽與 USAN cromolyn"},
+  "HYALURONIC ACID": {"names": ["HYALURONATE SODIUM", "SODIUM HYALURONATE"], "note": "鈉鹽寫法"},
+  "ISOSORBIDE MONONITRATE": {"names": ["ISOSORBIDE 5 MONONITRATE"], "note": "isosorbide-5-mononitrate 為同一化合物"},
+  "CONJUGATED ESTROGENS": {"names": ["ESTROGEN CONJUGATED"], "note": "TFDA 倒裝寫法"},
+  "NORETHINDRONE ENANTHATE": {"names": ["NORETHISTERONE ENANTHATE"], "note": "INN norethisterone＝USAN norethindrone"},
+  "LEVAMISOLE": {"names": ["TETRAMISOLE L"], "note": "levamisole 為 L-tetramisole"},
+  "LUTETIUM LU 177 DOTATATE": {"names": ["177LU DOTA0 TYR3 OCTREOTATE", "LUTETIUM 177LU OXODOTREOTIDE", "LUTETIUM LU 177 OXODOTREOTIDE", "LU 177 DOTATATE"], "note": "Lutathera：INN lutetium (177Lu) oxodotreotide；TFDA 登載 177Lu-DOTA0-TYR3-Octreotate（衛部藥輸字第R00104號）"},
+  "ALPHA TOCOPHEROL SUCCINATE": {"names": ["ALPHA TOCOPHEROL ACID SUCCINATE", "TOCOPHEROL ALPHA ACID CALCIUM SUCCINATE", "ALPHA TOCOPHERYL ACID SUCCINATE", "ALPHA TOCOPHERYL SUCCINATE"], "note": "α-tocopheryl (acid) succinate 及其鈣鹽；D-／DL- 立體寫法由比對邏輯忽略。tocopherol nicotinate 是不同酯類，不收"},
+  "ALPHA TOCOPHEROL ACETATE": {"names": ["ALPHA TOCOPHERYL ACETATE"], "note": "tocopheryl／tocopherol 拼法"},
+  "HUMAN IMMUNOGLOBULIN G": {"names": ["IMMUNOGLOBULIN HUMAN", "HUMAN NORMAL IMMUNOGLOBULIN"], "note": "人類免疫球蛋白（以 IgG 為主）的 TFDA 寫法；特異性免疫球蛋白（如 antitetanic）不收"},
+  "HYDROXYPROGESTERONE CAPROATE": {"names": ["HYDROXYPROGESTERONE 17 ALPHA CAPROATE"], "note": "17α-hydroxyprogesterone caproate"},
+  "GLYCOL SALICYLATE": {"names": ["GLYCOL MONOSALICYLATE", "MONOGLYCOL SALICYLATE", "ETHYLENE GLYCOL MONOSALICYLATE"], "note": "glycol salicylate＝ethylene glycol monosalicylate；dipropylene glycol salicylate 為不同化合物，不收"},
+  "INOSITOL": {"names": ["MYO INOSITOL"], "note": "藥用 inositol 即 myo-inositol"},
+  "TETRYZOLINE": {"names": ["TETRAHYDROZOLINE"], "note": "INN tetryzoline＝USAN tetrahydrozoline"},
+  "UROFOLLITROPIN": {"names": ["UROFOLLITROPHIN"], "note": "TFDA 拼字變體"}
+ },
+ "slug_query": {
+  "warfarin_af": {"query": "Warfarin", "note": "頁名是 warfarin 的適應症子頁"},
+  "warfarin_atrial_fibrillation": {"query": "Warfarin", "note": "同上"}
+ }
+}

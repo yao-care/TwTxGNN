@@ -29,32 +29,33 @@ SNAPSHOT = REPO / "snapshots" / "tfda_licenses.json.gz"
 SOURCE_LABEL = "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）"
 SOURCE_URL = "https://data.fda.gov.tw/data/opendata/export/36/json"
 
-LICENSE_RE = re.compile(r"[一-鿿]{1,8}字第\d{6}號")
+# 字號：衛署／衛部／內衛開頭；號碼可帶英文字首（放射性藥品 R00104 這類）
+LICENSE_RE = re.compile(r"(?:衛署|衛部|內衛)[\u4e00-\u9fff]{0,6}字第[A-Z]?\d{5,6}號")
 BEGIN = "<!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->"
 END = "<!-- tfda-licenses:end -->"
 
-# 藥名同義（INN 與 TFDA 慣用名不同者）。鍵是頁面藥名正規化後的字串。
-SYNONYMS = {
-    "ERGOMETRINE": ["ERGONOVINE"],
-    "RIFAMPICIN": ["RIFAMPIN"],
-    "CROMOGLICIC ACID": ["CROMOLYN", "SODIUM CROMOGLICATE", "SODIUM CROMOGLYCATE", "DISODIUM CROMOGLYCATE"],
-    "HYALURONIC ACID": ["HYALURONATE SODIUM", "SODIUM HYALURONATE"],
-    "ISOSORBIDE MONONITRATE": ["ISOSORBIDE 5 MONONITRATE"],
-    "CONJUGATED ESTROGENS": ["ESTROGEN CONJUGATED"],
-    "NORETHINDRONE ENANTHATE": ["NORETHISTERONE ENANTHATE"],
-    "LEVAMISOLE": ["TETRAMISOLE L"],
-}
-# 頁面 slug 對應的查詢藥名（頁名不是單純藥名者）。
-SLUG_QUERY = {
-    "warfarin_af": "Warfarin",
-    "warfarin_atrial_fibrillation": "Warfarin",
-}
+SYNONYMS_FILE = REPO / "config" / "tfda_synonyms.json"
+
+
+def _load_synonym_config() -> tuple[dict, dict]:
+    """別名表放在 config/tfda_synonyms.json（可審閱），這裡只讀不寫死。"""
+    if not SYNONYMS_FILE.exists():
+        return {}, {}
+    cfg = json.loads(SYNONYMS_FILE.read_text(encoding="utf-8"))
+    syn = {norm(k): [norm(n) for n in v["names"]] for k, v in cfg.get("synonyms", {}).items()}
+    slug = {k: v["query"] for k, v in cfg.get("slug_query", {}).items()}
+    return syn, slug
+
+
 STEREO = {"L", "D", "DL"}
 SALT_PREFIX = {"SODIUM", "DISODIUM", "POTASSIUM", "MAGNESIUM", "CALCIUM", "ZINC"}
 
 
 def norm(s: str | None) -> str:
     return re.sub(r"[^A-Z0-9]+", " ", (s or "").upper()).strip()
+
+
+SYNONYMS, SLUG_QUERY = _load_synonym_config()
 
 
 def _sing(tok: str) -> str:
@@ -64,6 +65,10 @@ def _sing(tok: str) -> str:
 def drug_terms(name: str) -> list[str]:
     base = norm(name)
     terms = [base] + SYNONYMS.get(base, [])
+    # 「DL-ALPHA-TOCOPHEROL」這類藥名：去掉立體標記的版本也當一個詞
+    stripped = " ".join(x for x in base.split() if x not in STEREO)
+    if stripped and stripped != base:
+        terms.append(stripped)
     if base.endswith("IC ACID"):
         stem = base[: -len("IC ACID")]
         terms.append(stem + "ATE")
@@ -81,6 +86,7 @@ def _ingredient_names(raw: str) -> list[str]:
     names = []
     main = re.sub(r"\(.*?\)", " ", raw)
     names.append(norm(main))
+    names.append(norm(raw))  # 括號內容併入：「MAGNESIUM (SULFATE)」「TOCOPHEROL (ACETATE ALPHA DL-)」
     for alias in re.findall(r"\(\s*(?:EQ TO\s+)?([^()]*)\)", raw, flags=re.I):
         names.append(norm(alias))
     return [n for n in names if n]
@@ -95,7 +101,7 @@ def ingredient_matches(raw: str, terms: list[str]) -> bool:
             for t in terms:
                 if joined == t or joined.startswith(t + " "):
                     return True
-                if core and sorted(_sing(x) for x in core) == sorted(_sing(x) for x in t.split()):
+                if core and sorted(_sing(x) for x in core) == sorted(_sing(x) for x in t.split() if x not in STEREO):
                     return True
     return False
 
@@ -180,7 +186,7 @@ def licenses_for_drug(name: str, records: list[dict] | dict[str, dict]) -> list[
         for joined, lid in first.get(tt[0], []):
             if joined == t or joined.startswith(t + " "):
                 hit.add(lid)
-        hit |= tset.get(tuple(sorted(_sing(x) for x in tt)), set())
+        hit |= tset.get(tuple(sorted(_sing(x) for x in tt if x not in STEREO)), set())
     out = [to_license(by_id[lid]) for lid in hit]
     order = {("valid", "single"): 0, ("valid", "combo"): 1}
     out.sort(key=lambda x: (order.get((x["status"], x["kind"]), 2), x["id"]))

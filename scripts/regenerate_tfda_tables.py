@@ -33,6 +33,22 @@ COUNT_RE = re.compile(r"\d[\d,，]*\s*張[^。；\n]{0,30}許可證")
 SUPERSEDED_BY = "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
 
 
+ASSERT_RE = re.compile(r"(本身|本藥|改列)[^。；]{0,40}?((?:(?:衛署|衛部|內衛)[\u4e00-\u9fff]{0,6}字第[A-Z]?\d{5,6}號[、，與及和]?)+)")
+
+
+def asserted_ids(r: dict) -> list[str]:
+    """查核紀錄裡寫明「屬於本藥」的許可證字號：更正後內容裡的字號，以及說明中
+    「本身／本藥／改列 … 字號」的字號。被 superseded 時存進 asserted_license_ids，
+    gate 要求程式產生的許可證表必須包含它們（防止比對規則漏掉同義名而把已更正的錯寫回去）。"""
+    ids = set()
+    if r["action"] == "correct":
+        ids |= set(T.LICENSE_RE.findall(r["replacement"]))
+    for fld in ("note", "finding"):
+        for m in ASSERT_RE.finditer(r.get(fld, "")):
+            ids |= set(T.LICENSE_RE.findall(m.group(2)))
+    return sorted(ids)
+
+
 def title_of(text: str) -> str:
     m = re.search(r"^title:\s*(.+)$", text, re.M)
     return m.group(1).strip().strip('"').strip("'") if m else ""
@@ -77,6 +93,10 @@ def main():
             if gone or owns_count:
                 r["status"] = "superseded"
                 r["superseded_by"] = SUPERSEDED_BY
+                ids = asserted_ids(r)
+                if ids:
+                    r["asserted_license_ids"] = ids
+                    print(f"  {r['id']}：紀錄寫明屬於本藥的字號 {ids}（請審閱；gate 會要求程式表含這些字號）")
                 sup += 1
     A.DATA.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
