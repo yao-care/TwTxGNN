@@ -1,6 +1,6 @@
 {
   "total": 279,
-  "generated_at": "2026-10-03T03:19:37.392309",
+  "generated_at": "2026-10-03T15:33:24.577671",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -194,7 +194,7 @@
     {
       "name": "Bempedoic Acid",
       "file": "bempedoic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)"
     },
@@ -439,7 +439,7 @@
     {
       "name": "Cyclizine",
       "file": "cyclizine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 9,
       "predicted_indication": "過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患"
     },
