@@ -53,6 +53,22 @@ Ergometrine 是麥角生物鹼類藥物，原本作為子宮收縮劑用於產�
 
 ---
 
+## Ergometrine 的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- Ergometrine 屬麥角生物鹼，透過對子宮肌層 5-HT2 受體與 α 腎上腺素受體的作用劑或部分作用劑效果，讓子宮產生持續的強直性收縮，子宮上段與下段都會收縮。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）
+- 這種持續收縮能控制子宮出血；和 oxytocin 不同，它對未懷孕的子宮也有作用。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）
+- 它會抑制泌乳素分泌，因此可能減少乳汁分泌。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）
+- 肌肉注射後約 7 分鐘內開始刺激子宮，靜脈注射則幾乎立即作用。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）
+- 對血管有部分作用劑效果（比 ergotamine 弱），對心血管與中樞神經的影響也比其他麥角生物鹼小；對 α 腎上腺素受體幾乎沒有拮抗作用。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）
+
+**來源**：[英國 emc：Ergometrine Injection BP 0.05% w/v 產品特性摘要（SmPC）§5.1 藥效學](https://www.medicines.org.uk/emc/product/6265/smpc)；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 目前 Ergometrine 的詳細作用機轉（MOA）資料尚有缺口。根據現有藥理學文獻，Ergometrine 為麥角生物鹼（ergot alkaloid），具備與同類藥物一致的受體藥理特性：透過激動 **5-HT1B/1D 受體**使顱內異常擴張的血管收縮，並作用於 **α-腎上腺素受體**抑制三叉神經源性炎症反應。這正是麥角類藥物治療偏頭痛的核心機轉。

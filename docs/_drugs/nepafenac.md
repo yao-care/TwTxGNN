@@ -51,6 +51,20 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 
 ---
 
+## Nepafenac（納衛視）的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- 點眼後，nepafenac 會穿透角膜，被眼內組織的水解酶轉換成 amfenac，amfenac 是一種非類固醇抗發炎藥（NSAID）。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)）
+- Amfenac 被認為會抑制前列腺素 H 合成酶（也就是環氧化酶，COX），這個酶是身體製造前列腺素必需的。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)）
+- 雙眼每天點 3 次的試驗中，多數受試者血中只測到很低的 nepafenac 與 amfenac 濃度。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)）
+
+**來源**：[DailyMed：NEVANAC（nepafenac ophthalmic suspension）0.1% 美國仿單（Novartis）§12.1、§12.3](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)，版本日期 2023-04-19；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 ### 藥理機轉分析

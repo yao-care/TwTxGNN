@@ -48,6 +48,21 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 | 臨床試驗支持 | **豐富** (中風預防) |
 | 文獻支持 | **豐富** |
 
+## Dipyridamole 的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- Dipyridamole 會抑制血小板、血管內皮細胞與紅血球回收 adenosine，使局部 adenosine 濃度升高。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）
+- 升高的 adenosine 作用在血小板的 A2 受體，活化 adenylate cyclase、提高血小板內的 cAMP，因而抑制 PAF、膠原、ADP 等刺激引起的血小板凝集。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）
+- 它也抑制多種組織的磷酸二酯酶（PDE）：對 cAMP-PDE 的抑制很弱，但在治療濃度下會抑制 cGMP-PDE，加強一氧化氮（EDRF）帶來的 cGMP 上升。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）
+- 狗的試驗中，dipyridamole 會依劑量降低全身與冠狀動脈的血管阻力，使血壓下降、冠狀動脈血流增加。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）
+
+**來源**：[DailyMed：Dipyridamole Tablets, USP 仿單（Amneal Pharmaceuticals of New York），Clinical Pharmacology／Mechanism of Action 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)，版本日期 2026-04-15；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼預測合理
 
 ### 機轉分析

@@ -53,6 +53,22 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 ---
 
+## Amylmetacresol 的作用
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- Amylmetacresol（AMC）是喉嚨含片常用的局部抗菌成分，常與 2,4-二氯苄醇（DCBA）併用；體外試驗顯示兩者都有抗細菌（殺菌與抑菌）、抗真菌與抗病毒的性質。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）
+- 兩種成分合併時有協同的抗菌作用，因此合併劑量可以較低。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）
+- 體外試驗中，接觸 1 分鐘就能殺死部分引起喉嚨痛的細菌，例如 Streptococcus pyogenes、Staphylococcus aureus、Haemophilus influenzae、Moraxella catarrhalis；接觸 1–2 分鐘對 A 型流感病毒、呼吸道融合病毒、冠狀病毒等有套膜病毒也有作用。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）
+- 臨床試驗中，這類含片能減輕喉嚨痛與吞嚥困難，約 5 分鐘開始見效、最長可維持 2 小時。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）
+- 英國仿單的藥物動力學段寫「None available」，也就是沒有提供吸收與代謝資料。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）
+
+**來源**：[英國 emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）產品特性摘要（SmPC）§5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Amylmetacresol 是一種親脂性酚類化合物，作用於口咽黏膜表面，透過干擾細菌細胞膜結構發揮局部殺菌效果。其應用形式為口含錠，藥物主要停留在口腔與咽喉局部，全身吸收量極低。

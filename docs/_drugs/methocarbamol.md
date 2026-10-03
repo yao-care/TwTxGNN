@@ -51,6 +51,19 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 
 ---
 
+## Methocarbamol 的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- 美國仿單寫明：methocarbamol 在人體的作用機轉**尚未確立**，可能與整體的中樞神經系統抑制有關。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c)）
+- 它不直接作用在橫紋肌的收縮機制、運動終板或神經纖維上，所以不是直接讓肌肉本身放鬆。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c)）
+
+**來源**：[DailyMed：Methocarbamol Tablets, USP 仿單（Granules Pharmaceuticals），Clinical Pharmacology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c)，版本日期 2026-07-07；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 ### 藥理機轉分析

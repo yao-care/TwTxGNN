@@ -54,6 +54,24 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 ---
 
+## Magnesium Sulfate（硫酸鎂）的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+這份來源是注射劑仿單；口服當瀉劑時的作用方式不在這份仿單範圍內，本段不涵蓋。
+
+- 鎂離子是許多酵素反應的輔因子，在神經化學傳導與肌肉興奮性上扮演重要角色。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）
+- 鎂能預防或控制抽搐，方式是阻斷神經肌肉傳導，並減少運動神經衝動在終板釋放的乙醯膽鹼量。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）
+- 鎂被認為對中樞神經系統有抑制作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）
+- 鎂在周邊會造成血管擴張：低劑量時只有潮紅與流汗，較大劑量會使血壓下降。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）
+- 靜脈注射時抗抽搐作用立即出現、約維持 30 分鐘；肌肉注射約 1 小時起效、維持 3 到 4 小時。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）
+
+**來源**：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)，版本日期 2026-08-24；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 ### 機轉推論
