@@ -13,6 +13,8 @@
     3. head_custom.html 的 GA4 評量 ID 還在、script 標籤成對、每個 ld+json 區塊仍是
        合法 JSON（結構化資料壞掉不會影響版面，只會讓 rich result 消失）。
     4. docs/*.md 的站內連結指到存在的 permalink 或實際檔案。
+       permalink 含 collection 文件（_drugs/、_news/）：照 _config.yml 的
+       `permalink: /drugs/:name/` 樣板＋Jekyll slugify 推導（2026-10-03 補）。
 
 用法：python3 scripts/check_seo_docs.py      # 非零＝不通過
 """
@@ -79,6 +81,58 @@ for md in DOCS.rglob("*.md"):
     if fm.get("permalink"):
         permalinks.add(fm["permalink"].rstrip("/") + "/" if fm["permalink"] != "/" else "/")
     redirects.update(redirect_paths(text))
+
+
+def jekyll_slugify(s):
+    """Jekyll Utils.slugify 的預設模式：非英數（含底線）連成一個 '-'、去頭尾 '-'、轉小寫。
+    實測線上 /drugs/magnesium-sulfate/ 回 200、/drugs/magnesium_sulfate/ 回 404（檔名 magnesium_sulfate.md）。"""
+    return re.sub(r"[\W_]+", "-", s).strip("-").lower()
+
+
+def collection_rules():
+    """從 _config.yml 的 collections: 區塊讀 {名稱: permalink 樣板}，只取 output: true 的。
+    本機無 PyYAML，用縮排解析；只認得這種兩層結構，讀不到就回空（不影響其他檢查）。"""
+    cfg = DOCS / "_config.yml"
+    if not cfg.exists():
+        return {}
+    rules, cur, inside = {}, None, False
+    for line in cfg.read_text(encoding="utf-8", errors="replace").splitlines():
+        if re.match(r"^collections:\s*$", line):
+            inside = True
+            continue
+        if not inside:
+            continue
+        if line.strip() == "" or line.lstrip().startswith("#"):
+            continue
+        if not line.startswith(" "):
+            break
+        m = re.match(r"^  ([A-Za-z_][\w-]*):\s*$", line)
+        if m:
+            cur = m.group(1)
+            rules[cur] = {}
+            continue
+        m = re.match(r"^\s{4,}(output|permalink):\s*(\S+)\s*$", line)
+        if m and cur:
+            rules[cur][m.group(1)] = m.group(2).strip('"').strip("'")
+    return {k: v["permalink"] for k, v in rules.items()
+            if v.get("output") == "true" and v.get("permalink")}
+
+
+# collection 文件（_drugs 等）的網址：照 _config.yml 的 permalink 樣板推導，
+# 文件自己的 front matter permalink 優先（上面已收）。2026-10-03 補：之前漏掉這塊，
+# nct-lookup.md／tw-availability.md 連到 /drugs/* 的 672 條連結全被誤判成斷連結。
+for cname, pattern in collection_rules().items():
+    if re.search(r":(?!name\b)\w+", pattern):
+        errors.append(f"_config.yml collection {cname} 的 permalink {pattern} 含本 gate 不認得的變數（只支援 :name），請擴充 check_seo_docs.py")
+        continue
+    for f in (DOCS / f"_{cname}").glob("*"):
+        if f.suffix not in (".md", ".markdown", ".html"):
+            continue
+        text = f.read_text(encoding="utf-8", errors="replace")
+        if front_matter(text).get("permalink"):
+            continue
+        url = pattern.replace(":name", jekyll_slugify(f.stem))
+        permalinks.add(url if url.endswith("/") else url + "/")
 
 # 1) 關鍵 permalink
 for p in CRITICAL:
