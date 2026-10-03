@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀](https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5)
+
+2026-10-02 <span class="news-indication-tag">卵巢癌</span>
+
+來源: [hk01.com](https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5)
+
+---
 
 ### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
 
