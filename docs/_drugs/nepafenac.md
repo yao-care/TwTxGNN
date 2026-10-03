@@ -51,6 +51,8 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 
 ---
 
+<!-- review:begin nepafenac-moa-2026-10-03 -->
+
 ## Nepafenac（納衛視）的作用機轉
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -64,6 +66,8 @@ Nepafenac 是一種眼用非類固醇抗發炎藥（NSAID）前驅物，TxGNN �
 **來源**：[DailyMed：NEVANAC（nepafenac ophthalmic suspension）0.1% 美國仿單（Novartis）§12.1、§12.3](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)，版本日期 2023-04-19；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end nepafenac-moa-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -204,6 +208,18 @@ Nepafenac 是 amfenac 的前驅藥物，透過抑制環氧化酶（COX）來減�
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：NEVANAC 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

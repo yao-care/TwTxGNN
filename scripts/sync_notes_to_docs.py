@@ -250,6 +250,14 @@ indication_count: {indication_count}
         for err in errors[:20]:
             print(f"  - {err}")
 
+    # 人工查核紀錄（更正／加註／待重審／附來源的機轉段）在重產後重套，否則會被整頁覆寫蓋掉。
+    # 來源：docs/_data/drug_reviews.json；說明見 scripts/apply_drug_reviews.py。
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from apply_drug_reviews import run as _apply_reviews
+    _problems, _changed = _apply_reviews()
+    print(f"查核紀錄重套：{len(_changed)} 頁" + (f"，問題 {len(_problems)} 項（需人工重查）：" + "；".join(_problems) if _problems else ""))
+
     level_counts = {"L1": 0, "L2": 0, "L3": 0, "L4": 0, "L5": 0}
     for drug_file in docs_drugs_dir.glob("*.md"):
         match = re.search(r"evidence_level:\s*(L[1-5])", drug_file.read_text(encoding="utf-8"))

@@ -101,7 +101,13 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 
 | 許可證字號 | 商品名 | 劑型 | 適應症 | 狀態 |
 |-----------|--------|------|--------|------|
-| （多張許可證） | 噴速點鼻液 | 點鼻液 | 過敏性鼻炎、鼻塞 | 有效 |
+| 內衛藥製字第012086號 | 噴速點鼻液外用（複方：naphazoline＋chlorpheniramine） | 外用液劑 | 急慢性鼻炎、過敏性鼻炎、鼻蓄膿症 | 有效 |
+
+<!-- review:begin naphazoline-penso-license-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「（多張許可證）／噴速點鼻液／點鼻液／過敏性鼻炎、鼻塞／有效」。「噴速點鼻液」在 TFDA 只有一張許可證，而且是 naphazoline 加 chlorpheniramine 的複方，劑型與適應症依許可證更正。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end naphazoline-penso-license-2026-10-03 -->
 
 ### 眼用製劑
 
@@ -175,6 +181,18 @@ Naphazoline 是一種 alpha-1 和 alpha-2 腎上腺素受體致效劑，主要�
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「噴速點鼻液」許可證列 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

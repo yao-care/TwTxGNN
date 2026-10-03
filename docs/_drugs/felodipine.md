@@ -47,6 +47,8 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 | 最高預測分數 | 0.9991 (pulmonary hypertension) |
 | 證據等級 | L4 (前臨床) 至 L5 (僅預測) |
 
+<!-- review:begin felodipine-moa-2026-10-03 -->
+
 ## Felodipine 的作用機轉
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -60,6 +62,8 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 **來源**：[DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster Pharmaceuticals），Clinical Pharmacology／Mechanism of Action 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)，版本日期 2023-07-17；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end felodipine-moa-2026-10-03 -->
 
 ## 為什麼這個預測合理
 
@@ -171,6 +175,18 @@ PubMed 搜尋發現一些間接相關的文獻：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

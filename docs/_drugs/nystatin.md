@@ -49,6 +49,14 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
 
+<!-- review:begin nystatin-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此為複方許可證的適應症（內衛藥製字第003610號「立達泰定膠囊」，含 demeclocycline＋nystatin；細菌感染適應症屬於其中的四環素類抗生素 demeclocycline），不是 nystatin 本身的作用；該證已於 1995-07-11 註銷。Nystatin 單方仿單載明它是抗真菌藥，對細菌、原蟲、病毒沒有明顯活性。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)。
+
+<!-- review:end nystatin-original-indication-combo-2026-10-03 -->
+
+<!-- review:begin nystatin-moa-2026-10-03 -->
+
 ## Nystatin 的作用機轉
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -62,6 +70,8 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 **來源**：[DailyMed：Nystatin Oral Suspension USP 仿單（PAI Pharma），Clinical Pharmacology／Microbiology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)，版本日期 2026-07-21；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end nystatin-moa-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -92,6 +102,12 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | 衛署藥製字第018023號 | "優良"優膚力霜劑 | 乳膏劑 | 過敏性、發炎性與念珠菌黴菌及酵母菌之皮膚感染 |
 | 衛署藥製字第034747號 | 紐黴素軟膏１００，０００單位/公克（耐絲菌素） | 軟膏劑 | 用於治療白色念珠球菌所引起之皮下及黏膜皮膚之黴菌感染症。 |
 
+<!-- review:begin nystatin-tw-license-row-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：表中第一列「立達泰定膠囊」是 demeclocycline＋nystatin 的複方許可證，細菌感染適應症屬於 demeclocycline；該證已於 1995-07-11 自請註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end nystatin-tw-license-row-combo-2026-10-03 -->
+
 ## 安全性考量
 
 - **藥物交互作用**：Nystatin 與 Cyclosporine、Octreotide、Cyanocobalamin、Calcitriol 和 Folic acid 等藥物可能有未知的交互作用。
@@ -107,6 +123,21 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 - 詳細的藥物作用機轉資料（MOA）
 - 進一步的臨床試驗以驗證其療效和安全性
 - 針對特定族群的安全性監測計畫
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」寫細菌感染 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
+| 2026-10-03 | 台灣上市資訊表第一列（立達泰定膠囊） | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

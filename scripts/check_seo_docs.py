@@ -15,6 +15,8 @@
     4. docs/*.md 的站內連結指到存在的 permalink 或實際檔案。
        permalink 含 collection 文件（_drugs/、_news/）：照 _config.yml 的
        `permalink: /drugs/:name/` 樣板＋Jekyll slugify 推導（2026-10-03 補）。
+    5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
+       都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
 
 用法：python3 scripts/check_seo_docs.py      # 非零＝不通過
 """
@@ -188,6 +190,12 @@ for md in sorted(DOCS.glob("*.md")):
         if (DOCS / path.lstrip("/")).exists():
             continue
         errors.append(f"{md.name} 的站內連結指不到東西：{link}")
+
+# 5) 藥物頁人工查核紀錄（docs/_data/drug_reviews.json）都還套在頁面上（2026-10-03 補）：
+#    藥物頁是產線重產的，重產會蓋掉更正與加註；沒重套就擋下。
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from apply_drug_reviews import check_errors  # noqa: E402
+errors.extend(check_errors())
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

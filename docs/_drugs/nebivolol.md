@@ -51,6 +51,8 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 
 ---
 
+<!-- review:begin nebivolol-moa-2026-10-03 -->
+
 ## Nebivolol 的作用機轉
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -64,6 +66,8 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 **來源**：[DailyMed：BYSTOLIC（nebivolol）美國仿單（Allergan），§12 Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)，版本日期 2024-08-01；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end nebivolol-moa-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -212,6 +216,18 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：BYSTOLIC 美國仿單 §12](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

@@ -49,6 +49,8 @@ TxGNN 模型預測它可能對**失眠 (insomnia)** 有效，
 | 許可證數 | 38 張（含已註銷） |
 | 建議決策 | Hold |
 
+<!-- review:begin carisoprodol-moa-2026-10-03 -->
+
 ## Carisoprodol 的作用機轉
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -62,6 +64,8 @@ TxGNN 模型預測它可能對**失眠 (insomnia)** 有效，
 **來源**：[DailyMed：SOMA（carisoprodol）美國仿單（Viatris），§12.1、§12.2](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)，版本日期 2025-08-29；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end carisoprodol-moa-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -128,6 +132,18 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 - 安全性評估，特別是濫用和依賴性風險
 - 與現有失眠治療藥物的比較研究
 - 考慮其他更安全的治療選項
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：SOMA 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

@@ -190,6 +190,14 @@ indication_count: {indication_count}
         print(f"✅ {drug_title} ({evidence_level}, {indication_count} 適應症)")
         nav_order += 1
 
+    # 人工查核紀錄（更正／加註／待重審／附來源的機轉段）在重產後重套，否則會被整頁覆寫蓋掉。
+    # 來源：docs/_data/drug_reviews.json；說明見 scripts/apply_drug_reviews.py。
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from apply_drug_reviews import run as _apply_reviews
+    _problems, _changed = _apply_reviews()
+    print(f"查核紀錄重套：{len(_changed)} 頁" + (f"，問題 {len(_problems)} 項（需人工重查）：" + "；".join(_problems) if _problems else ""))
+
     # 建立藥物列表頁面
     create_drug_list_page(drug_list)
 

@@ -48,6 +48,8 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 | 臨床試驗支持 | **豐富** (中風預防) |
 | 文獻支持 | **豐富** |
 
+<!-- review:begin dipyridamole-moa-2026-10-03 -->
+
 ## Dipyridamole 的作用機轉
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -62,6 +64,8 @@ Dipyridamole 是一種磷酸二酯酶抑制劑和腺苷再攝取抑制劑，用�
 **來源**：[DailyMed：Dipyridamole Tablets, USP 仿單（Amneal Pharmaceuticals of New York），Clinical Pharmacology／Mechanism of Action 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)，版本日期 2026-04-15；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end dipyridamole-moa-2026-10-03 -->
 
 ## 為什麼預測合理
 
@@ -189,6 +193,18 @@ Dipyridamole 的 TxGNN 預測雖然分數很高，但兩項主要預測都與現
 ---
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Dipyridamole Tablets, USP 仿單（Amneal）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

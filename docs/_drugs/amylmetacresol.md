@@ -53,6 +53,8 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 ---
 
+<!-- review:begin amylmetacresol-moa-2026-10-03 -->
+
 ## Amylmetacresol 的作用
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -68,6 +70,8 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 **來源**：[英國 emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）產品特性摘要（SmPC）§5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end amylmetacresol-moa-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -120,6 +124,19 @@ Amylmetacresol 為局部口腔用藥，與馬尾症候群（及其餘所有前 1
 - 進行體外細胞毒性及神經細胞活性篩選實驗，確認是否有任何臨床前依據
 - 重新評估 TxGNN 知識圖譜中產生此預測的圖譜路徑，確認是否為雜訊或有意義的關聯
 - 若欲探索 Amylmetacresol 的再利用潛力，建議優先考慮更具生物合理性的方向（如呼吸道感染、口咽黏膜炎等）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Strepsils Honey and Lemon SmPC §5.1](https://www.medicines.org.uk/emc/product/5606/smpc) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

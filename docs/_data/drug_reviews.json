@@ -1,0 +1,651 @@
+{
+ "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落）。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論、證據等級、結論一律不改寫，只加註。之後補的藥沿用本檔。",
+ "schema_version": 1,
+ "records": [
+  {
+   "id": "nystatin-original-indication-combo-2026-10-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "快速總覽「原適應症」、台灣上市資訊",
+   "summary": "「原適應症」寫細菌感染",
+   "claim": "| 原適應症 | 對革蘭氏陽性菌及陰性菌所引起之感染症 |",
+   "finding": "這段適應症文字來自複方許可證 內衛藥製字第003610號「立達泰定膠囊」（LEDERSTATIN CAPSULES），主成分為 demeclocycline（四環素類抗生素）＋nystatin，細菌感染的適應症屬於 demeclocycline；該證已於 1995-07-11 自請註銷。Nystatin 單方仿單載明其為抗真菌藥，對細菌沒有明顯活性。",
+   "note": "此為複方許可證的適應症（內衛藥製字第003610號「立達泰定膠囊」，含 demeclocycline＋nystatin；細菌感染適應症屬於其中的四環素類抗生素 demeclocycline），不是 nystatin 本身的作用；該證已於 1995-07-11 註銷。Nystatin 單方仿單載明它是抗真菌藥，對細菌、原蟲、病毒沒有明顯活性。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第003610號｜中文品名 立達泰定膠囊｜英文品名 LEDERSTATIN CAPSULES｜主成分略述 DEMECLOCYCLINE;;NYSTATIN｜適應症 對革蘭氏陽性菌及陰性菌所引起之感染症｜註銷狀態 已註銷｜註銷日期 1995/07/11｜註銷理由 自請註銷",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "DailyMed：Nystatin Oral Suspension USP 仿單（PAI）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3",
+     "excerpt": "Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "nystatin-tw-license-row-combo-2026-10-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "台灣上市資訊",
+   "summary": "台灣上市資訊表第一列（立達泰定膠囊）",
+   "claim": "| 內衛藥製字第003610號 | 立達泰定膠囊 | 膠囊劑 | 對革蘭氏陽性菌及陰性菌所引起之感染症 |",
+   "finding": "這段適應症文字來自複方許可證 內衛藥製字第003610號「立達泰定膠囊」（LEDERSTATIN CAPSULES），主成分為 demeclocycline（四環素類抗生素）＋nystatin，細菌感染的適應症屬於 demeclocycline；該證已於 1995-07-11 自請註銷。Nystatin 單方仿單載明其為抗真菌藥，對細菌沒有明顯活性。",
+   "note": "表中第一列「立達泰定膠囊」是 demeclocycline＋nystatin 的複方許可證，細菌感染適應症屬於 demeclocycline；該證已於 1995-07-11 自請註銷。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第003610號｜中文品名 立達泰定膠囊｜英文品名 LEDERSTATIN CAPSULES｜主成分略述 DEMECLOCYCLINE;;NYSTATIN｜適應症 對革蘭氏陽性菌及陰性菌所引起之感染症｜註銷狀態 已註銷｜註銷日期 1995/07/11｜註銷理由 自請註銷",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ergometrine-methylergonovine-not-metabolite-2026-10-03",
+   "drug": "ergometrine",
+   "file": "ergometrine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "為什麼這個預測合理",
+   "summary": "「methylergonovine 是 ergometrine 的活性代謝物」",
+   "claim": "Ergometrine 的活性代謝物 methylergonovine",
+   "replacement": "與 Ergometrine 結構相近的半合成同系物 methylergonovine",
+   "finding": "Methylergonovine 不是 ergometrine 的代謝物：它是 ergometrine（ergonovine）多一個 CH2 的同系物，屬半合成麥角生物鹼；ergometrine 仿單所載的代謝途徑是羥化、葡萄糖醛酸結合（可能還有 N-去甲基），主要排出物為 12-hydroxyergometrine glucuronide。本次只更正這個藥理事實，引用的研究、證據等級與結論未改。",
+   "note": "Methylergonovine 不是 ergometrine 的代謝物：它是 ergometrine（ergonovine）多一個 CH2 的同系物，屬半合成麥角生物鹼；ergometrine 仿單所載的代謝途徑是羥化、葡萄糖醛酸結合（可能還有 N-去甲基），主要排出物為 12-hydroxyergometrine glucuronide。本次只更正這個藥理事實，引用的研究、證據等級與結論未改。",
+   "sources": [
+    {
+     "title": "NLM MeSH：Methylergonovine（D008755）",
+     "url": "https://meshb.nlm.nih.gov/record/ui?ui=D008755",
+     "excerpt": "A homolog of ERGONOVINE containing one more CH2 group. (Merck Index, 11th ed)",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072",
+     "excerpt": "Methylergonovine maleate is a semi-synthetic ergot alkaloid used for the prevention and control of postpartum hemorrhage.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "emc：Ergometrine Injection BP 0.05% w/v SmPC §5.2",
+     "url": "https://www.medicines.org.uk/emc/product/6265/smpc",
+     "excerpt": "Ergometrine is mainly metabolised in the liver by hydroxylation and glucuronic acid conjugation and possibly N-demethylation. ... When administered orally, the drug is mainly eliminated with the bile into the faeces as 12-hydroxyergometrine glucuronide.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ergometrine-methylergonovine-not-metabolite-conclusion-2026-10-03",
+   "drug": "ergometrine",
+   "file": "ergometrine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "結論與下一步",
+   "summary": "結論段「及其活性代謝物 methylergonovine」",
+   "claim": "Ergometrine 及其活性代謝物 methylergonovine",
+   "replacement": "Ergometrine 及其半合成同系物 methylergonovine",
+   "finding": "Methylergonovine 不是 ergometrine 的代謝物：它是 ergometrine（ergonovine）多一個 CH2 的同系物，屬半合成麥角生物鹼；ergometrine 仿單所載的代謝途徑是羥化、葡萄糖醛酸結合（可能還有 N-去甲基），主要排出物為 12-hydroxyergometrine glucuronide。本次只更正這個藥理事實，引用的研究、證據等級與結論未改。",
+   "note": "同上，methylergonovine 是 ergometrine 的半合成同系物而非代謝物；結論的判斷未改。",
+   "sources": [
+    {
+     "title": "NLM MeSH：Methylergonovine（D008755）",
+     "url": "https://meshb.nlm.nih.gov/record/ui?ui=D008755",
+     "excerpt": "A homolog of ERGONOVINE containing one more CH2 group. (Merck Index, 11th ed)",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072",
+     "excerpt": "Methylergonovine maleate is a semi-synthetic ergot alkaloid used for the prevention and control of postpartum hemorrhage.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ergometrine-alpha-premise-2026-10-03",
+   "drug": "ergometrine",
+   "file": "ergometrine.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "預測理由「作用於 α-腎上腺素受體抑制三叉神經源性炎症」",
+   "claim": "並作用於 **α-腎上腺素受體**抑制三叉神經源性炎症反應",
+   "finding": "仿單所載 ergometrine 的受體作用是子宮肌層 5-HT2 與 α 腎上腺素受體的作用劑／部分作用劑效果，並寫明它對 α 腎上腺素受體幾乎沒有拮抗作用；仿單沒有提到 5-HT1B/1D，也沒有提到經 α 受體抑制三叉神經源性炎症。",
+   "note": "此前提與仿單不符。仿單所載 ergometrine 的受體作用是子宮肌層 5-HT2 與 α 腎上腺素受體的作用劑／部分作用劑效果，並寫明它對 α 腎上腺素受體幾乎沒有拮抗作用；仿單沒有提到 5-HT1B/1D，也沒有提到經 α 受體抑制三叉神經源性炎症。上段原文保留未改。",
+   "sources": [
+    {
+     "title": "emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1",
+     "url": "https://www.medicines.org.uk/emc/product/6265/smpc",
+     "excerpt": "Ergometrine produces sustained tonic uterine contraction via agonist or partial agonist effects at myometrial 5-HT2 receptors and alpha-adrenergic receptors. ... It has a partial agonist action in blood vessels (less than ergotamine) and has little or no antagonist action at α adrenergic receptors.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ergometrine-migraine-rereview-2026-10-03",
+   "drug": "ergometrine",
+   "file": "ergometrine.md",
+   "checked": "2026-10-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "偏頭痛預測標記待重審",
+   "prediction": "偏頭痛 (Migraine Disorder)",
+   "status": "pending_rereview",
+   "claim": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
+   "finding": "偏頭痛這筆預測的機轉理由（5-HT1B/1D、經 α 受體抑制三叉神經源性炎症）與仿單所載受體作用不符，需重審；證據等級（L3）、文獻與決策暫不更動。",
+   "note": "偏頭痛這筆預測的機轉理由前提與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1",
+     "url": "https://www.medicines.org.uk/emc/product/6265/smpc",
+     "excerpt": "Ergometrine produces sustained tonic uterine contraction via agonist or partial agonist effects at myometrial 5-HT2 receptors and alpha-adrenergic receptors.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "methocarbamol-moa-2026-10-03",
+   "drug": "methocarbamol",
+   "file": "methocarbamol.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Methocarbamol 的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- 美國仿單寫明：methocarbamol 在人體的作用機轉**尚未確立**，可能與整體的中樞神經系統抑制有關。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c)）\n- 它不直接作用在橫紋肌的收縮機制、運動終板或神經纖維上，所以不是直接讓肌肉本身放鬆。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c)）\n\n**來源**：[DailyMed：Methocarbamol Tablets, USP 仿單（Granules Pharmaceuticals），Clinical Pharmacology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c)，版本日期 2026-07-07；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：Methocarbamol Tablets, USP 仿單（Granules）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c",
+     "excerpt": "The mechanism of action of methocarbamol in humans has not been established, but may be due to general central nervous system (CNS) depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ergometrine-moa-2026-10-03",
+   "drug": "ergometrine",
+   "file": "ergometrine.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Ergometrine 的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- Ergometrine 屬麥角生物鹼，透過對子宮肌層 5-HT2 受體與 α 腎上腺素受體的作用劑或部分作用劑效果，讓子宮產生持續的強直性收縮，子宮上段與下段都會收縮。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）\n- 這種持續收縮能控制子宮出血；和 oxytocin 不同，它對未懷孕的子宮也有作用。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）\n- 它會抑制泌乳素分泌，因此可能減少乳汁分泌。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）\n- 肌肉注射後約 7 分鐘內開始刺激子宮，靜脈注射則幾乎立即作用。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）\n- 對血管有部分作用劑效果（比 ergotamine 弱），對心血管與中樞神經的影響也比其他麥角生物鹼小；對 α 腎上腺素受體幾乎沒有拮抗作用。（[仿單](https://www.medicines.org.uk/emc/product/6265/smpc)）\n\n**來源**：[英國 emc：Ergometrine Injection BP 0.05% w/v 產品特性摘要（SmPC）§5.1 藥效學](https://www.medicines.org.uk/emc/product/6265/smpc)；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1",
+     "url": "https://www.medicines.org.uk/emc/product/6265/smpc",
+     "excerpt": "Ergometrine produces sustained tonic uterine contraction via agonist or partial agonist effects at myometrial 5-HT2 receptors and alpha-adrenergic receptors.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "nepafenac-moa-2026-10-03",
+   "drug": "nepafenac",
+   "file": "nepafenac.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Nepafenac（納衛視）的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- 點眼後，nepafenac 會穿透角膜，被眼內組織的水解酶轉換成 amfenac，amfenac 是一種非類固醇抗發炎藥（NSAID）。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)）\n- Amfenac 被認為會抑制前列腺素 H 合成酶（也就是環氧化酶，COX），這個酶是身體製造前列腺素必需的。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)）\n- 雙眼每天點 3 次的試驗中，多數受試者血中只測到很低的 nepafenac 與 amfenac 濃度。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)）\n\n**來源**：[DailyMed：NEVANAC（nepafenac ophthalmic suspension）0.1% 美國仿單（Novartis）§12.1、§12.3](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51)，版本日期 2023-04-19；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：NEVANAC 美國仿單 §12.1",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a2909252-c5f1-421f-9073-b7be90b45b51",
+     "excerpt": "After topical ocular dosing, nepafenac penetrates the cornea and is converted by ocular tissue hydrolases to amfenac, an NSAID. Amfenac is thought to inhibit the action of prostaglandin H synthase (cyclooxygenase), an enzyme required for prostaglandin production.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "amylmetacresol-moa-2026-10-03",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Amylmetacresol 的作用\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- Amylmetacresol（AMC）是喉嚨含片常用的局部抗菌成分，常與 2,4-二氯苄醇（DCBA）併用；體外試驗顯示兩者都有抗細菌（殺菌與抑菌）、抗真菌與抗病毒的性質。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）\n- 兩種成分合併時有協同的抗菌作用，因此合併劑量可以較低。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）\n- 體外試驗中，接觸 1 分鐘就能殺死部分引起喉嚨痛的細菌，例如 Streptococcus pyogenes、Staphylococcus aureus、Haemophilus influenzae、Moraxella catarrhalis；接觸 1–2 分鐘對 A 型流感病毒、呼吸道融合病毒、冠狀病毒等有套膜病毒也有作用。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）\n- 臨床試驗中，這類含片能減輕喉嚨痛與吞嚥困難，約 5 分鐘開始見效、最長可維持 2 小時。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）\n- 英國仿單的藥物動力學段寫「None available」，也就是沒有提供吸收與代謝資料。（[仿單](https://www.medicines.org.uk/emc/product/5606/smpc)）\n\n**來源**：[英國 emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）產品特性摘要（SmPC）§5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "emc：Strepsils Honey and Lemon SmPC §5.1",
+     "url": "https://www.medicines.org.uk/emc/product/5606/smpc",
+     "excerpt": "2,4-dichlorobenzyl alcohol and amylmetacresol are antiseptics and possess antibacterial (bactericidal and bacteriostatic), antifungal and antiviral properties as demonstrated in vitro.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "dipyridamole-moa-2026-10-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Dipyridamole 的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- Dipyridamole 會抑制血小板、血管內皮細胞與紅血球回收 adenosine，使局部 adenosine 濃度升高。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）\n- 升高的 adenosine 作用在血小板的 A2 受體，活化 adenylate cyclase、提高血小板內的 cAMP，因而抑制 PAF、膠原、ADP 等刺激引起的血小板凝集。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）\n- 它也抑制多種組織的磷酸二酯酶（PDE）：對 cAMP-PDE 的抑制很弱，但在治療濃度下會抑制 cGMP-PDE，加強一氧化氮（EDRF）帶來的 cGMP 上升。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）\n- 狗的試驗中，dipyridamole 會依劑量降低全身與冠狀動脈的血管阻力，使血壓下降、冠狀動脈血流增加。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)）\n\n**來源**：[DailyMed：Dipyridamole Tablets, USP 仿單（Amneal Pharmaceuticals of New York），Clinical Pharmacology／Mechanism of Action 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373)，版本日期 2026-04-15；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：Dipyridamole Tablets, USP 仿單（Amneal）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373",
+     "excerpt": "Dipyridamole inhibits the uptake of adenosine into platelets, endothelial cells and erythrocytes in vitro and in vivo",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "nystatin-moa-2026-10-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Nystatin 的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- Nystatin 是抗真菌藥，會與易感念珠菌（Candida）細胞膜上的固醇結合，改變細胞膜的通透性，讓細胞內的成分漏出。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)）\n- 體外試驗中，它對多種酵母菌與類酵母菌同時有抑制生長與殺菌的作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)）\n- 口服時腸胃道幾乎不吸收，大部分以原形隨糞便排出。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)）\n\n**來源**：[DailyMed：Nystatin Oral Suspension USP 仿單（PAI Pharma），Clinical Pharmacology／Microbiology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)，版本日期 2026-07-21；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：Nystatin Oral Suspension USP 仿單（PAI）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3",
+     "excerpt": "Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "felodipine-moa-2026-10-03",
+   "drug": "felodipine",
+   "file": "felodipine.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Felodipine 的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- Felodipine 屬二氫吡啶類鈣離子通道阻斷劑，會可逆地與其他鈣離子通道阻斷劑競爭二氫吡啶結合位，阻斷血管平滑肌的電位依賴性鈣離子電流。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)）\n- 體外試驗中，它對血管平滑肌的作用大於對心肌的作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)）\n- 它降血壓主要是因為依劑量降低周邊血管阻力，同時伴隨輕度的反射性心跳加快。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)）\n\n**來源**：[DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster Pharmaceuticals），Clinical Pharmacology／Mechanism of Action 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)，版本日期 2023-07-17；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40",
+     "excerpt": "Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers).",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "nebivolol-moa-2026-10-03",
+   "drug": "nebivolol",
+   "file": "nebivolol.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Nebivolol 的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- Nebivolol 是 β 腎上腺素受體阻斷劑；在多數人（CYP2D6 廣泛代謝者）且劑量 10 mg 以下時，偏向選擇性阻斷 β1；在慢代謝者或較高劑量時，β1 與 β2 都會被抑制。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)）\n- 在臨床劑量下，它沒有內在擬交感活性與膜穩定作用，也沒有 α1 受體阻斷作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)）\n- 仿單寫明降血壓的機轉**尚未完全確立**，可能的因素包括：心跳減慢、心肌收縮力下降、腦部血管運動中樞送往周邊的交感神經張力減少、腎素活性受抑制，以及血管擴張使周邊阻力下降。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)）\n\n**來源**：[DailyMed：BYSTOLIC（nebivolol）美國仿單（Allergan），§12 Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)，版本日期 2024-08-01；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：BYSTOLIC 美國仿單 §12",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8",
+     "excerpt": "The mechanism of action of the antihypertensive response of BYSTOLIC has not been definitively established.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "carisoprodol-moa-2026-10-03",
+   "drug": "carisoprodol",
+   "file": "carisoprodol.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Carisoprodol 的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n- 仿單寫明：carisoprodol 緩解急性肌肉骨骼疼痛的機轉**尚未明確**；動物試驗中，它造成的肌肉鬆弛與脊髓及腦部下行網狀結構的中間神經元活性改變有關。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)）\n- Carisoprodol 是中樞作用型骨骼肌鬆弛劑，不會直接讓骨骼肌放鬆。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)）\n- 它的代謝物 meprobamate 有抗焦慮與鎮靜作用，但這對療效與安全性的貢獻有多少，目前未知。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)）\n\n**來源**：[DailyMed：SOMA（carisoprodol）美國仿單（Viatris），§12.1、§12.2](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)，版本日期 2025-08-29；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：SOMA 美國仿單 §12.1",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b",
+     "excerpt": "The mechanism of action of carisoprodol in relieving discomfort associated with acute painful musculoskeletal conditions has not been clearly identified.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "magnesium_sulfate-moa-2026-10-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-03",
+   "action": "section",
+   "summary": "新增「作用機轉」段（每點附仿單來源）",
+   "claim": "",
+   "finding": "頁面原本沒有附來源的原本作用機轉說明；依官方仿單藥理段落補上。",
+   "before": "^## 為什麼",
+   "markdown": "## Magnesium Sulfate（硫酸鎂）的作用機轉\n\n<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->\n\n以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。\n\n這份來源是注射劑仿單；口服當瀉劑時的作用方式不在這份仿單範圍內，本段不涵蓋。\n\n- 鎂離子是許多酵素反應的輔因子，在神經化學傳導與肌肉興奮性上扮演重要角色。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）\n- 鎂能預防或控制抽搐，方式是阻斷神經肌肉傳導，並減少運動神經衝動在終板釋放的乙醯膽鹼量。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）\n- 鎂被認為對中樞神經系統有抑制作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）\n- 鎂在周邊會造成血管擴張：低劑量時只有潮紅與流汗，較大劑量會使血壓下降。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）\n- 靜脈注射時抗抽搐作用立即出現、約維持 30 分鐘；肌肉注射約 1 小時起效、維持 3 到 4 小時。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)）\n\n**來源**：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)，版本日期 2026-08-24；查閱日期 2026-10-03。\n\n---",
+   "sources": [
+    {
+     "title": "DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d",
+     "excerpt": "Magnesium prevents or controls convulsions by blocking neuromuscular transmission and decreasing the amount of acetylcholine liberated at the end plate by the motor nerve impulse.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "magnesium-sulfate-license-013386-2026-10-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」",
+   "claim": "| 衛署藥製字第013386號 | 濟生硫酸鎂注射液 | 注射劑 | 濟生醫藥生技 | 2028/05/25 |",
+   "finding": "TFDA 許可證資料集查無「衛署藥製字第013386號」，也沒有濟生的硫酸鎂注射液許可證；改列現行有效的單方硫酸鎂注射液許可證。",
+   "note": "TFDA 許可證資料集查無這個字號，也沒有濟生的硫酸鎂注射液許可證，改列現行有效的單方硫酸鎂注射液許可證（衛署藥製字第004771號，信東生技）。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第013386號：資料集查無此許可證字號；衛署藥製字第004771號｜硫酸鎂注射液｜主成分 MAGNESIUM SULFATE 7H2O｜適應症 子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充｜狀態 有效｜有效日期 2028/05/25｜申請商 信東生技股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛署藥製字第004771號 | 硫酸鎂注射液 | 注射劑 | 信東生技 | 2028/05/25 |"
+  },
+  {
+   "id": "magnesium-sulfate-license-047652-2026-10-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "許可證表「衛署藥製字第047652號 欣滿福注射液」",
+   "claim": "| 衛署藥製字第047652號 | 欣滿福注射液 | 注射劑 | 台灣拜耳 | 2030/12/20 |",
+   "finding": "TFDA 許可證資料集查無「衛署藥製字第047652號」（任何字別都沒有此號），台灣拜耳也沒有硫酸鎂許可證；改列現行有效的單方硫酸鎂注射液許可證。",
+   "note": "TFDA 許可證資料集查無這個字號，台灣拜耳也沒有硫酸鎂許可證，改列現行有效的單方硫酸鎂注射液許可證（衛部藥製字第062091號，南光化學製藥）。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第047652號：資料集查無此許可證字號；衛部藥製字第062091號｜美我欣注射液100毫克/毫升｜主成分 MAGNESIUM SULFATE HEPTAHYDRATE｜適應症 子癇症、子癇前症、妊娠毒血症、產科全身麻醉補助；體內鎂離子缺乏時之補充。｜狀態 有效｜有效日期 2030/12/24｜申請商 南光化學製藥股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛部藥製字第062091號 | 美我欣注射液100毫克/毫升 | 注射劑 | 南光化學製藥 | 2030/12/24 |"
+  },
+  {
+   "id": "magnesium-sulfate-combo-indications-2026-10-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "台灣上市資訊／核准適應症",
+   "summary": "核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」",
+   "claim": "   - 維他命與礦物質缺乏症",
+   "finding": "「靜脈營養輸注」「維他命與礦物質缺乏症」是含硫酸鎂的多成分營養輸液／維他命礦物質複方的適應症；現行單方硫酸鎂許可證只寫子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助、鎂離子缺乏補充。",
+   "note": "上列「靜脈營養輸注」「維他命與礦物質缺乏症」是含硫酸鎂的多成分複方（例如中心靜脈營養輸注液）的適應症，不是單方硫酸鎂的核准適應症；現行單方硫酸鎂注射液許可證寫的是子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助與鎂離子缺乏補充。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部藥輸字第026388號｜斯莫克必恩中心靜脈輸注液493毫升｜主成分 MAGNESIUM SULPHATE HEPTAHYDRATE  ;;L-LYSINE ACETATE;;L-HISTIDINE;;L-ISOLEUCINE;;L-THREONINE;;L-PROLINE;;SODIUM ACETATE TRIHYDRATE (EQ TO SODIUM ACETATE 3H2O );;TAURINE (EQ TO AMINOETHYL SULFONIC ACID );;L-SERINE;;FISH-OIL RICH IN OMEGA-3 ACIDS;;L-TRYPTOPHAN;;CALCIUM CHLORIDE DEHYDRATE;;OLIVE OIL;;L-ARGININE;;L-TYROSINE;;POTASSIUM CHLORIDE;;L-VALINE;;ZINC SULPHATE HEPTAHYDRATE;;SODIUM GLYCEROPHOSPHATE;;SOYBEAN OIL ( EQ TO SOYA BEAN OIL);;L-PHENYLALANINE;;L-ALANINE;;L-LEUCINE;;TRIGLYCERIDES MEDIUM CHAIN;;GLUCOSE MONOHYDRATE;;L-METHIONINE;;GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)｜適應症 靜脈營養輸注，適用於無法由口腔進食或經腸道獲取足夠營養，或禁止由口腔及腸道進食之成年患者及2歲以上兒童。｜狀態 有效｜有效日期 2029/08/29｜申請商 台灣費森尤斯卡比股份有限公司；衛署藥製字第004771號｜硫酸鎂注射液｜主成分 MAGNESIUM SULFATE 7H2O｜適應症 子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充｜狀態 有效｜有效日期 2028/05/25｜申請商 信東生技股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "diosmin-license-060902-expiry-2026-10-03",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "法迪朗膜衣錠許可證效期",
+   "claim": "| 衛部藥製字第060902號 | 法迪朗膜衣錠 500mg | 膜衣錠 | 有效 (至2026) |",
+   "finding": "TFDA 登載有效日期為 2031/06/10。",
+   "note": "TFDA 登載的有效日期是 2031/06/10，不是 2026。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部藥製字第060902號｜法迪朗膜衣錠500毫克｜主成分 Diosmin｜適應症 協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解。｜狀態 有效｜有效日期 2031/06/10｜申請商 法諾亞生技藥品股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛部藥製字第060902號 | 法迪朗膜衣錠 500mg | 膜衣錠 | 有效 (至2031) |"
+  },
+  {
+   "id": "diosmin-license-001025-expiry-2026-10-03",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "香葉木素芸香糖苷許可證效期",
+   "claim": "| 衛部藥陸輸字第001025號 | 香葉木素芸香糖苷 | 粉劑 | 有效 (至2026) |",
+   "finding": "TFDA 登載有效日期為 2031/10/15。",
+   "note": "TFDA 登載的有效日期是 2031/10/15，不是 2026。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部藥陸輸字第001025號｜香葉木素芸香糖苷｜主成分 None｜適應症 協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解。｜狀態 有效｜有效日期 2031/10/15｜申請商 東譽興業股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛部藥陸輸字第001025號 | 香葉木素芸香糖苷 | 粉劑 | 有效 (至2031) |"
+  },
+  {
+   "id": "procaine-penicillin-combo-rows-2026-10-03",
+   "drug": "procaine",
+   "file": "procaine.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "台灣上市資訊",
+   "summary": "許可證表中三張 procaine penicillin 製劑",
+   "claim": "| 內衛藥輸字第002572號 | 鉍黴素針劑 | 乾粉注射劑 | 梅毒、急性扁桃腺炎、喉炎 |",
+   "finding": "內衛藥製字第004458號、內衛藥輸字第001221號、第002572號的主成分是 penicillin G procaine（盤尼西林抗生素，含或不含其他盤尼西林），不是局部麻醉藥 procaine 單方；表中細菌感染適應症屬於盤尼西林。三張證均已註銷。",
+   "note": "表中「博西林注四十萬單位」（內衛藥製字第004458號）、「普樂西林」（內衛藥輸字第001221號）、「鉍黴素針劑」（內衛藥輸字第002572號）是 penicillin G procaine 等盤尼西林抗生素製劑，細菌感染適應症屬於盤尼西林，不是局部麻醉藥 procaine 本身；三張證都已註銷。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "內衛藥製字第004458號｜博西林注四十萬單位｜主成分 PENICILLIN G POTASSIUM BUFFERED;;PENICILLIN G PROCAINE (EQ TO BENZYLPENICILLIN PROCAINE)｜適應症 葡萄狀球菌、鏈球狀球菌、肺炎雙球菌所引起之感染症｜狀態 已註銷 2018/05/11｜有效日期 2018/05/25｜申請商 永豐化學工業股份有限公司；內衛藥輸字第001221號｜普樂西林（３，０００，０００ＩＵ）｜主成分 PENICILLIN G PROCAINE (EQ TO BENZYLPENICILLIN PROCAINE)｜適應症 盤尼西林感受性細菌引起之感染症｜狀態 已註銷 1984/12/31｜有效日期 1985/04/29｜申請商 廣福西藥行；內衛藥輸字第002572號｜鉍黴素針劑｜主成分 PENICILLIN G PROCAINE (EQ TO BENZYLPENICILLIN PROCAINE);;PENICILLIN G BENZATHINE｜適應症 梅毒、急性扁桃腺炎、喉炎｜狀態 已註銷 1986/10/20｜有效日期 2008/09/04｜申請商 悅懋有限公司",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "cytarabine-original-indication-cll-2026-10-03",
+   "drug": "cytarabine",
+   "file": "cytarabine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原核准適應症」",
+   "summary": "原核准適應症列入「慢性淋巴球性白血病 (CLL)」",
+   "claim": "| 原核准適應症 | 急性骨髓性白血病 (AML)、慢性淋巴球性白血病 (CLL)、與其他藥物併用 |",
+   "finding": "仿單核准的是急性非淋巴球性（骨髓性）白血病緩解誘導，並用於急性淋巴球性白血病、慢性骨髓性白血病急性轉化期與腦膜白血病（鞘內）；不含 CLL。台灣現行許可證寫「急性顆粒白血病及其他急性白血病」「抗腫瘤劑」。",
+   "note": "Cytarabine 仿單的核准用途是急性非淋巴球性（骨髓性）白血病，並用於急性淋巴球性白血病、慢性骨髓性白血病急性轉化期與腦膜白血病（鞘內），不含慢性淋巴球性白血病；台灣現行許可證寫「急性顆粒白血病及其他急性白血病」。",
+   "sources": [
+    {
+     "title": "DailyMed：Cytarabine Injection 仿單（Fresenius Kabi）",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c4fdc56e-efd7-4825-a518-ef430b2b3df0",
+     "excerpt": "Cytarabine Injection in combination with other approved anti-cancer drugs is indicated for remission induction in acute non-lymphocytic leukemia of adults and pediatric patients. It has also been found useful in the treatment of acute lymphocytic leukemia and the blast phase of chronic myelocytic leukemia. Intrathecal administration of Cytarabine Injection (preservative free preparations only) is indicated in the prophylaxis and treatment of meningeal leukemia.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第001879號｜賽德薩注射劑500毫克｜主成分 CYTARABINE｜適應症 急性顆粒白血病及其他急性白血病｜狀態 有效｜有效日期 2028/12/04｜申請商 輝瑞大藥廠股份有限公司；衛署藥輸字第025603號｜思得靈注射液｜主成分 CYTARABINE｜適應症 抗腫瘤劑。｜狀態 有效｜有效日期 2027/01/11｜申請商 台灣費森尤斯卡比股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 原核准適應症 | 急性骨髓性白血病 (AML)、急性淋巴球性白血病 (ALL)、慢性骨髓性白血病急性轉化期、腦膜白血病（鞘內），多與其他藥物併用 |"
+  },
+  {
+   "id": "cytarabine-venetoclax-row-2026-10-03",
+   "drug": "cytarabine",
+   "file": "cytarabine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊／併用",
+   "summary": "併用表「CLL 治療｜Venetoclax 併用低劑量 Ara-C」",
+   "claim": "| CLL 治療 | Venetoclax 併用低劑量 Ara-C | 不適合強化化療的患者 |",
+   "finding": "Venetoclax 併用低劑量 cytarabine 核准用於新診斷、75 歲以上或有共病而不適合強化誘導化療的 AML；venetoclax 治療 CLL 時並不併用 cytarabine。",
+   "note": "Venetoclax 併用低劑量 cytarabine 的核准用途是新診斷 AML（75 歲以上或有共病、不適合強化誘導化療），不是 CLL。",
+   "sources": [
+    {
+     "title": "DailyMed：VENCLEXTA（venetoclax）美國仿單 §1",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018",
+     "excerpt": "For the treatment of adult patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). (1.1) In combination with azacitidine, or decitabine, or low-dose cytarabine for the treatment of newly diagnosed acute myeloid leukemia (AML) in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy. (1.2)",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| AML 治療（新診斷、不適合強化化療） | Venetoclax 併用低劑量 Ara-C | 75 歲以上或有共病、不適合強化誘導化療的患者 |"
+  },
+  {
+   "id": "tetrabenazine-license-12-5mg-2026-10-03",
+   "drug": "tetrabenazine",
+   "file": "tetrabenazine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "止蹈錠 12.5 毫克許可證字號",
+   "claim": "| 衛部藥輸字第026234號 | 止蹈錠 12.5 毫克 | 錠劑 | 12.5 mg |",
+   "finding": "衛部藥輸字第026234號在 TFDA 是已註銷的鹽酸利度卡因（Lidocaine HCl）；止蹈錠 12.5 毫克的許可證是衛署罕藥輸字第000027號（有效）。",
+   "note": "衛部藥輸字第026234號在 TFDA 是已註銷的鹽酸利度卡因，不是止蹈錠；止蹈錠 12.5 毫克的許可證是衛署罕藥輸字第000027號。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部藥輸字第026234號｜鹽酸利度卡因｜主成分 None｜適應症 局部麻醉劑｜狀態 已註銷 2020/03/30｜有效日期 2019/01/02｜申請商 恒海貿易股份有限公司；衛署罕藥輸字第000027號｜止蹈錠12.5毫克｜主成分 Tetrabenazine｜適應症 治療亨汀頓舞蹈症之舞蹈症狀。｜狀態 有效｜有效日期 2028/02/04｜申請商 吉泰藥品股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛署罕藥輸字第000027號 | 止蹈錠 12.5 毫克 | 錠劑 | 12.5 mg |"
+  },
+  {
+   "id": "tetrabenazine-license-25mg-2026-10-03",
+   "drug": "tetrabenazine",
+   "file": "tetrabenazine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "止蹈錠 25 毫克許可證字號",
+   "claim": "| 衛部藥輸字第026235號 | 止蹈錠 25 毫克 | 錠劑 | 25 mg |",
+   "finding": "衛部藥輸字第026235號在 TFDA 是已註銷的維生素 B2／C 複方「日方多喜錠」；止蹈錠 25 毫克的許可證是衛署罕藥輸字第000026號（有效）。",
+   "note": "衛部藥輸字第026235號在 TFDA 是已註銷的維生素複方「日方多喜錠」，不是止蹈錠；止蹈錠 25 毫克的許可證是衛署罕藥輸字第000026號。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部藥輸字第026235號｜日方多喜錠｜主成分 ASCORBATE CALCIUM DIHYDRATE;;RIBOFLAVIN BUTYRATE;;ASCORBIC ACID｜適應症 維生素B2及C缺乏症｜狀態 已註銷 2025/03/27｜有效日期 2024/01/09｜申請商 優德貿易有限公司；衛署罕藥輸字第000026號｜止蹈錠25毫克｜主成分 Tetrabenazine｜適應症 治療亨汀頓舞蹈症之舞蹈症狀。｜狀態 有效｜有效日期 2028/02/05｜申請商 吉泰藥品股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛署罕藥輸字第000026號 | 止蹈錠 25 毫克 | 錠劑 | 25 mg |"
+  },
+  {
+   "id": "naphazoline-penso-license-2026-10-03",
+   "drug": "naphazoline",
+   "file": "naphazoline.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "「噴速點鼻液」許可證列",
+   "claim": "| （多張許可證） | 噴速點鼻液 | 點鼻液 | 過敏性鼻炎、鼻塞 | 有效 |",
+   "finding": "「噴速點鼻液」在 TFDA 只有一張許可證（內衛藥製字第012086號），是 naphazoline＋chlorpheniramine 複方外用液劑，適應症為急慢性鼻炎、過敏性鼻炎、鼻蓄膿症。",
+   "note": "「噴速點鼻液」在 TFDA 只有一張許可證，而且是 naphazoline 加 chlorpheniramine 的複方，劑型與適應症依許可證更正。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "內衛藥製字第012086號｜\"人生\" 噴速點鼻液外用｜主成分 NAPHAZOLINE HCL;;CHLORPHENIRAMINE MALEATE｜適應症 急慢性鼻炎、過敏性鼻炎、鼻蓄膿症｜狀態 有效｜有效日期 2029/05/25｜申請商 人生製藥股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 內衛藥製字第012086號 | 噴速點鼻液外用（複方：naphazoline＋chlorpheniramine） | 外用液劑 | 急慢性鼻炎、過敏性鼻炎、鼻蓄膿症 | 有效 |"
+  },
+  {
+   "id": "fludarabine-license-rows-other-drugs-2026-10-03",
+   "drug": "fludarabine",
+   "file": "fludarabine.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "台灣上市資訊",
+   "summary": "許可證表「癌即瓦注射劑」「瑞樂靶注射劑」兩列",
+   "claim": "| 衛部菌疫輸字第000948號 | 瑞樂靶注射劑 | 注射劑 | 非何杰金氏淋巴瘤：用於復發或對化學療法有抗性之低惡度B-細胞非何杰金氏淋巴瘤。併用CVP化學療法用於未經治療之和緩性B細胞非何杰金氏淋巴瘤... |",
+   "finding": "衛部菌疫輸字第000973號「癌即瓦注射劑」主成分是 obinutuzumab、衛部菌疫輸字第000948號「瑞樂靶注射劑」主成分是 rituximab（已於 2020-04-13 註銷），都不是 fludarabine，只是適應症文字提到 fludarabine。Fludarabine 本身的有效許可證是衛署藥輸字第022732號「福達樂靜脈凍晶注射劑」。",
+   "note": "上表「癌即瓦注射劑」（衛部菌疫輸字第000973號）主成分是 obinutuzumab，「瑞樂靶注射劑」（衛部菌疫輸字第000948號）主成分是 rituximab 且已於 2020-04-13 註銷，兩者都不是 fludarabine，只是適應症文字提到 fludarabine。Fludarabine 本身的有效許可證是衛署藥輸字第022732號「福達樂靜脈凍晶注射劑」，核准用於 B 細胞慢性淋巴性白血病（CLL）與低惡性度非何杰金氏淋巴瘤。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部菌疫輸字第000973號｜癌即瓦注射劑｜主成分 Obinutuzumab｜適應症 1.慢性淋巴球性白血病：與chlorambucil 併用，適用於先前未曾接受過治療，且具有合併症(comorbidities)而不適合接受含fludarabine治療的CD20陽性慢性淋巴球性白血病(CLL)病人。 \n2.濾泡性淋巴瘤：與化療藥物併用作為誘導治療，並續以本品單藥維持治療，適用於先前未曾接受過治療的濾泡性淋巴瘤(FL)病人。與bendamustine併用並續以本品單藥維持治療，適用於先前曾接受含rituximab治療無效或復發的濾泡性淋巴瘤(FL)病人。\n3.前置治療以降低 glofitamab 誘導的細胞激素釋放症候群(CRS)的風險。\n4.狼瘡性腎炎：與標準治療併用，適用於治療患有活動性狼瘡腎炎的成人病人。\n｜狀態 有效｜有效日期 2030/04/20｜申請商 羅氏大藥廠股份有限公司；衛部菌疫輸字第000948號｜瑞樂靶注射劑｜主成分 Rituximab｜適應症 非何杰金氏淋巴瘤\r\n用於復發或對化學療法有抗性之低惡度B-細胞非何杰金氏淋巴瘤。\r\n併用CVP化學療法用於未經治療之和緩性(組織型態為濾泡型）B細胞非何杰金氏淋巴瘤的病人。\r\n併用CHOP或其他化學療法用於CD20抗原陽性之瀰漫性大型B細胞非何杰金氏淋巴瘤。\r\n用於做為濾泡性淋巴瘤患者對誘導療法產生反應之後的維持治療用藥。\r\n類風濕性關節炎：\r\n與methotrexate併用，適用於治療曾接受一種(含)以上之腫瘤壞死因子(TNF)抑制療法治療但效果不彰，或無法耐受的活動性類風濕性關節炎成人患者。\r\n瑞樂靶（Ristova）與methotrexate併用，經X光檢查已證實可減緩關節結構受損的進展。\r\n慢性淋巴球性白血病\r\n瑞樂靶（Ristova）適用於與fludarabine及cyclophosphamide併用，做為CD20陽性慢性淋巴球性白血病(CLL)患者的第一線用藥。\r\n瑞樂靶（Ristova）適用於與化學療法併用，做為復發/頑固性的CD20陽性慢性淋巴球性白血病病患的治療用藥。\r\n肉芽腫性血管炎( Granulomatosis with Polyangiitis, Granulomatosis with Polyangiitis, GPA)(Wegener’s肉芽腫症)及顯微多發性血管炎(Microscopic Polyangiitis, MPA)： \r\n瑞樂靶（Ristova）與葡萄糖皮質素(glucocorticoids)併用，適用於治療成人之肉芽腫性血管炎(GPA，亦稱為韋格納肉芽腫症)及顯微多發性血管炎(MPA)。｜狀態 已註銷 2020/04/13｜有效日期 2018/10/25｜申請商 台灣羅氏醫療診斷設備股份有限公司；衛署藥輸字第022732號｜福達樂靜脈凍晶注射劑｜主成分 FLUDARABINE PHOSPHATE｜適應症 用於B細胞慢性淋巴性白血病(CLL)病患的起始治療及CLL與低惡性度非何杰金氏淋巴瘤(LG-NHL)病患，歷經至少一種標準內容的烷化基藥劑(ALKYLATING AGENT)的治療方法都無效，或治療後雖有效但隨後疾病又繼續惡化的病人。以本品作為第一線治療，只適用於重度病患即評估為RAI III/IV階段(BINET C級)或RAI I/II (BINET A/B級)但併有疾病相關症候或病情持續惡化的病人。｜狀態 有效｜有效日期 2030/01/05｜申請商 賽諾菲股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "pitolisant-license-028103-expiry-2026-10-03",
+   "drug": "pitolisant",
+   "file": "pitolisant.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "唯醒膜衣錠4.5毫克許可證效期",
+   "claim": "| 衛部藥輸字第028103號 | 唯醒膜衣錠4.5毫克 (Wakix) | 膜衣錠 | 信東生技股份有限公司 | 2026/07/13 |",
+   "finding": "TFDA 登載有效日期為 2031/07/13。",
+   "note": "TFDA 登載的有效日期是 2031/07/13，不是 2026/07/13。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部藥輸字第028103號｜唯醒膜衣錠4.5毫克｜主成分 Pitolisant hydrochloride｜適應症 1、治療6歲以上猝睡症(伴隨或未伴隨猝倒現象)的病人。\r\n2、改善患有阻塞性睡眠呼吸中止 (OSA)成人病人的覺醒狀態並減少日間過度嗜睡(EDS)，這些病人的EDS無法透過如持續性呼吸道正壓 (CPAP)等 OSA主要治療方式，而得到令人滿意的治療成果或對其無法耐受。｜狀態 有效｜有效日期 2031/07/13｜申請商 信東生技股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛部藥輸字第028103號 | 唯醒膜衣錠4.5毫克 (Wakix) | 膜衣錠 | 信東生技股份有限公司 | 2031/07/13 |"
+  },
+  {
+   "id": "pitolisant-license-028104-expiry-2026-10-03",
+   "drug": "pitolisant",
+   "file": "pitolisant.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊",
+   "summary": "唯醒膜衣錠18毫克許可證效期",
+   "claim": "| 衛部藥輸字第028104號 | 唯醒膜衣錠18毫克 (Wakix) | 膜衣錠 | 信東生技股份有限公司 | 2026/07/13 |",
+   "finding": "TFDA 登載有效日期為 2031/07/13。",
+   "note": "TFDA 登載的有效日期是 2031/07/13，不是 2026/07/13。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部藥輸字第028104號｜唯醒膜衣錠18毫克｜主成分 Pitolisant hydrochloride｜適應症 １、治療6歲以上猝睡症(伴隨或未伴隨猝倒現象)的病人。\r\n２、改善患有阻塞性睡眠呼吸中止 (OSA)成人病人的覺醒狀態並減少日間過度嗜睡(EDS)，這些病人的EDS無法透過如持續性呼吸道正壓 (CPAP)等 OSA主要治療方式，而得到令人滿意的治療成果或對其無法耐受。\r\n｜狀態 有效｜有效日期 2031/07/13｜申請商 信東生技股份有限公司",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 衛部藥輸字第028104號 | 唯醒膜衣錠18毫克 (Wakix) | 膜衣錠 | 信東生技股份有限公司 | 2031/07/13 |"
+  }
+ ]
+}

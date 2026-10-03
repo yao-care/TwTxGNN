@@ -49,9 +49,17 @@ Ergometrine 是麥角生物鹼類藥物，原本作為子宮收縮劑用於產�
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
 
+<!-- review:begin ergometrine-migraine-rereview-2026-10-03 -->
+
+> **待重審（2026-10-03）**：偏頭痛這筆預測的機轉理由前提與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。依據：[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc)。
+
+<!-- review:end ergometrine-migraine-rereview-2026-10-03 -->
+
 > **附註**：TxGNN 分數最高的預測為毛髮過多症 (Hypertrichosis，99.96%)，但該適應症缺乏臨床證據且機轉連結薄弱（評等 L5，建議 Hold）。本報告以最具臨床意義的預測（偏頭痛）為主要分析對象。
 
 ---
+
+<!-- review:begin ergometrine-moa-2026-10-03 -->
 
 ## Ergometrine 的作用機轉
 
@@ -69,11 +77,25 @@ Ergometrine 是麥角生物鹼類藥物，原本作為子宮收縮劑用於產�
 
 ---
 
+<!-- review:end ergometrine-moa-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前 Ergometrine 的詳細作用機轉（MOA）資料尚有缺口。根據現有藥理學文獻，Ergometrine 為麥角生物鹼（ergot alkaloid），具備與同類藥物一致的受體藥理特性：透過激動 **5-HT1B/1D 受體**使顱內異常擴張的血管收縮，並作用於 **α-腎上腺素受體**抑制三叉神經源性炎症反應。這正是麥角類藥物治療偏頭痛的核心機轉。
 
-子宮收縮與偏頭痛治療看似毫無關聯，但 Ergometrine 的效用根本都來自相同的**血管收縮特性**。偏頭痛急性發作時顱內血管異常擴張，麥角生物鹼恰好能透過上述受體機轉逆轉此病理狀態。Ergometrine 的活性代謝物 methylergonovine 已有多項觀察性研究直接用於月經性偏頭痛預防及頑固性偏頭痛急性治療。
+<!-- review:begin ergometrine-alpha-premise-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此前提與仿單不符。仿單所載 ergometrine 的受體作用是子宮肌層 5-HT2 與 α 腎上腺素受體的作用劑／部分作用劑效果，並寫明它對 α 腎上腺素受體幾乎沒有拮抗作用；仿單沒有提到 5-HT1B/1D，也沒有提到經 α 受體抑制三叉神經源性炎症。上段原文保留未改。依據：[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc)。
+
+<!-- review:end ergometrine-alpha-premise-2026-10-03 -->
+
+子宮收縮與偏頭痛治療看似毫無關聯，但 Ergometrine 的效用根本都來自相同的**血管收縮特性**。偏頭痛急性發作時顱內血管異常擴張，麥角生物鹼恰好能透過上述受體機轉逆轉此病理狀態。與 Ergometrine 結構相近的半合成同系物 methylergonovine 已有多項觀察性研究直接用於月經性偏頭痛預防及頑固性偏頭痛急性治療。
+
+<!-- review:begin ergometrine-methylergonovine-not-metabolite-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Ergometrine 的活性代謝物 methylergonovine」。Methylergonovine 不是 ergometrine 的代謝物：它是 ergometrine（ergonovine）多一個 CH2 的同系物，屬半合成麥角生物鹼；ergometrine 仿單所載的代謝途徑是羥化、葡萄糖醛酸結合（可能還有 N-去甲基），主要排出物為 12-hydroxyergometrine glucuronide。本次只更正這個藥理事實，引用的研究、證據等級與結論未改。依據：[NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072)；[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.2](https://www.medicines.org.uk/emc/product/6265/smpc)。
+
+<!-- review:end ergometrine-methylergonovine-not-metabolite-2026-10-03 -->
 
 更值得關注的是，**台灣部分核准仿單已明列「偏頭痛」為適應症**（如「分娩後之子宮弛緩⋯⋯偏頭痛」），代表此一用途在台灣監理層面已有前例，大幅降低法規再申請的障礙。
 
@@ -139,7 +161,13 @@ Moderate 級別交互作用包含：Doxycycline、Aprepitant、Dexamethasone、T
 **決策：Proceed with Guardrails**
 
 **理由：**
-偏頭痛預測具備 L3 等級觀察性研究證據，多篇臨床觀察研究支持 Ergometrine 及其活性代謝物 methylergonovine 用於月經性偏頭痛預防與頑固性偏頭痛治療；尤其台灣現行仿單已核准「偏頭痛」適應症，法規路徑比一般再利用案例更為順暢。然而，目前仍缺乏高等級 RCT 證據，且血管收縮特性帶來特定族群的安全疑慮，需謹慎規劃。
+偏頭痛預測具備 L3 等級觀察性研究證據，多篇臨床觀察研究支持 Ergometrine 及其半合成同系物 methylergonovine 用於月經性偏頭痛預防與頑固性偏頭痛治療；尤其台灣現行仿單已核准「偏頭痛」適應症，法規路徑比一般再利用案例更為順暢。然而，目前仍缺乏高等級 RCT 證據，且血管收縮特性帶來特定族群的安全疑慮，需謹慎規劃。
+
+<!-- review:begin ergometrine-methylergonovine-not-metabolite-conclusion-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Ergometrine 及其活性代謝物 methylergonovine」。同上，methylergonovine 是 ergometrine 的半合成同系物而非代謝物；結論的判斷未改。依據：[NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072)。
+
+<!-- review:end ergometrine-methylergonovine-not-metabolite-conclusion-2026-10-03 -->
 
 **若要推進需要：**
 - 補充 DrugBank MOA 詳細資料，確認 5-HT1B/1D 受體及 α-腎上腺素受體作用機轉
@@ -147,6 +175,23 @@ Moderate 級別交互作用包含：Doxycycline、Aprepitant、Dexamethasone、T
 - 建立心血管安全監測計畫，特別針對 Major DDI 藥物（Epinephrine、Ephedrine、Cobicistat）及合併冠心病、高血壓患者
 - **肺動脈高壓患者（TxGNN 第 10 名預測）為明確安全疑慮族群**：Ergometrine 在此族群可能誘發急性肺高壓危象（見文獻 PMID 26050249），應列為禁忌評估
 - 評估是否申請「偏頭痛」正式適應症擴充，利用既有台灣仿單先例加速審查
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「methylergonovine 是 ergometrine 的活性代謝物」 | 更正 | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072)；[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.2](https://www.medicines.org.uk/emc/product/6265/smpc) |
+| 2026-10-03 | 結論段「及其活性代謝物 methylergonovine」 | 更正 | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072) |
+| 2026-10-03 | 預測理由「作用於 α-腎上腺素受體抑制三叉神經源性炎症」 | 加註 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
+| 2026-10-03 | 偏頭痛預測標記待重審 | 標記待重審 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

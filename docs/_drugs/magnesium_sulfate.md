@@ -54,6 +54,8 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 
 ---
 
+<!-- review:begin magnesium_sulfate-moa-2026-10-03 -->
+
 ## Magnesium Sulfate（硫酸鎂）的作用機轉
 
 <!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
@@ -71,6 +73,8 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
 **來源**：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)，版本日期 2026-08-24；查閱日期 2026-10-03。
 
 ---
+
+<!-- review:end magnesium_sulfate-moa-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -171,9 +175,21 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 
 | 許可證字號 | 商品名 | 劑型 | 持證商 | 效期 |
 |-----------|--------|------|--------|------|
-| 衛署藥製字第013386號 | 濟生硫酸鎂注射液 | 注射劑 | 濟生醫藥生技 | 2028/05/25 |
-| 衛署藥製字第047652號 | 欣滿福注射液 | 注射劑 | 台灣拜耳 | 2030/12/20 |
+| 衛署藥製字第004771號 | 硫酸鎂注射液 | 注射劑 | 信東生技 | 2028/05/25 |
+| 衛部藥製字第062091號 | 美我欣注射液100毫克/毫升 | 注射劑 | 南光化學製藥 | 2030/12/24 |
 | 多項藥陸輸字號 | 硫酸鎂 | 原料藥 | 多家 | 各異 |
+
+<!-- review:begin magnesium-sulfate-license-013386-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛署藥製字第013386號／濟生硫酸鎂注射液／注射劑／濟生醫藥生技／2028/05/25」。TFDA 許可證資料集查無這個字號，也沒有濟生的硫酸鎂注射液許可證，改列現行有效的單方硫酸鎂注射液許可證（衛署藥製字第004771號，信東生技）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end magnesium-sulfate-license-013386-2026-10-03 -->
+
+<!-- review:begin magnesium-sulfate-license-047652-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛署藥製字第047652號／欣滿福注射液／注射劑／台灣拜耳／2030/12/20」。TFDA 許可證資料集查無這個字號，台灣拜耳也沒有硫酸鎂許可證，改列現行有效的單方硫酸鎂注射液許可證（衛部藥製字第062091號，南光化學製藥）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end magnesium-sulfate-license-047652-2026-10-03 -->
 
 ### 核准適應症
 
@@ -193,6 +209,12 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
    - 瀉劑/緩瀉劑
    - 靜脈營養輸注
    - 維他命與礦物質缺乏症
+
+<!-- review:begin magnesium-sulfate-combo-indications-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上列「靜脈營養輸注」「維他命與礦物質缺乏症」是含硫酸鎂的多成分複方（例如中心靜脈營養輸注液）的適應症，不是單方硫酸鎂的核准適應症；現行單方硫酸鎂注射液許可證寫的是子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助與鎂離子缺乏補充。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end magnesium-sulfate-combo-indications-2026-10-03 -->
 
 ---
 
@@ -301,6 +323,21 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 *本筆記由 TxGNN 老藥新用預測系統生成，僅供研究參考，不構成醫療建議。*
 
 *生成日期：2026-02-11*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-03 | 許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

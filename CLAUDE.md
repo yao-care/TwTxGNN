@@ -966,3 +966,13 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - 老藥新用候選需經過臨床驗證才能應用
 - DDI 資料需定期更新以確保準確性
 - 所有 docs/ 頁面需包含 YMYL 免責聲明
+
+---
+
+## 藥物頁人工查核紀錄（2026-10-03 起）
+
+藥物頁 `docs/_drugs/*.md` 是產線生成的（`sync_notes_to_docs.py`／`build_docs.py` 會整頁覆寫）。人工對照仿單或 TFDA 許可證所做的更正、加註、待重審標記、附來源的作用機轉段，**一律記在 `docs/_data/drug_reviews.json`**，由 `scripts/apply_drug_reviews.py` 套到頁面（頁面上以「查核更正／查核加註／待重審」引言框與每頁「查核紀錄」表呈現）。
+
+- 兩支生成腳本結尾會自動重套；其他會改寫藥物頁的腳本跑完後，手動跑 `python3 scripts/apply_drug_reviews.py`。
+- `python3 scripts/check_seo_docs.py` 會擋下「紀錄沒套在頁面上」的情況。
+- 原則：基本藥理事實照仿單或許可證更正；模型預測、證據等級、結論一律不改寫，只加註。之後補的藥沿用同一份 JSON。
