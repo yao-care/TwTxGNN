@@ -49,6 +49,20 @@ TxGNN 模型預測它可能對**失眠 (insomnia)** 有效，
 | 許可證數 | 38 張（含已註銷） |
 | 建議決策 | Hold |
 
+## Carisoprodol 的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- 仿單寫明：carisoprodol 緩解急性肌肉骨骼疼痛的機轉**尚未明確**；動物試驗中，它造成的肌肉鬆弛與脊髓及腦部下行網狀結構的中間神經元活性改變有關。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)）
+- Carisoprodol 是中樞作用型骨骼肌鬆弛劑，不會直接讓骨骼肌放鬆。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)）
+- 它的代謝物 meprobamate 有抗焦慮與鎮靜作用，但這對療效與安全性的貢獻有多少，目前未知。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)）
+
+**來源**：[DailyMed：SOMA（carisoprodol）美國仿單（Viatris），§12.1、§12.2](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b)，版本日期 2025-08-29；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測適應症的關聯：

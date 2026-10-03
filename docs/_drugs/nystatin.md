@@ -49,6 +49,20 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
 
+## Nystatin 的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- Nystatin 是抗真菌藥，會與易感念珠菌（Candida）細胞膜上的固醇結合，改變細胞膜的通透性，讓細胞內的成分漏出。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)）
+- 體外試驗中，它對多種酵母菌與類酵母菌同時有抑制生長與殺菌的作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)）
+- 口服時腸胃道幾乎不吸收，大部分以原形隨糞便排出。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)）
+
+**來源**：[DailyMed：Nystatin Oral Suspension USP 仿單（PAI Pharma），Clinical Pharmacology／Microbiology 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3)，版本日期 2026-07-21；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Nystatin 是抗真菌藥物的一部分，

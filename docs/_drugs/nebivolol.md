@@ -51,6 +51,20 @@ Nebivolol 是一種具有血管擴張作用的高選擇性 beta-1 阻斷劑，Tx
 
 ---
 
+## Nebivolol 的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- Nebivolol 是 β 腎上腺素受體阻斷劑；在多數人（CYP2D6 廣泛代謝者）且劑量 10 mg 以下時，偏向選擇性阻斷 β1；在慢代謝者或較高劑量時，β1 與 β2 都會被抑制。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)）
+- 在臨床劑量下，它沒有內在擬交感活性與膜穩定作用，也沒有 α1 受體阻斷作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)）
+- 仿單寫明降血壓的機轉**尚未完全確立**，可能的因素包括：心跳減慢、心肌收縮力下降、腦部血管運動中樞送往周邊的交感神經張力減少、腎素活性受抑制，以及血管擴張使周邊阻力下降。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)）
+
+**來源**：[DailyMed：BYSTOLIC（nebivolol）美國仿單（Allergan），§12 Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)，版本日期 2024-08-01；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理？
 
 ### 藥理機轉分析

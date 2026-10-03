@@ -47,6 +47,20 @@ Felodipine 是鈣離子通道阻斷劑，TxGNN 預測其可用於多種肺高壓
 | 最高預測分數 | 0.9991 (pulmonary hypertension) |
 | 證據等級 | L4 (前臨床) 至 L5 (僅預測) |
 
+## Felodipine 的作用機轉
+
+<!-- moa-sourced: 2026-10-03 用戶拍板例外，只限附來源的作用機轉段 -->
+
+以下只說明這個藥原本怎麼作用，每一點都摘自官方仿單的藥理段落並附連結；與本頁的老藥新用預測無關，也不構成用藥建議。
+
+- Felodipine 屬二氫吡啶類鈣離子通道阻斷劑，會可逆地與其他鈣離子通道阻斷劑競爭二氫吡啶結合位，阻斷血管平滑肌的電位依賴性鈣離子電流。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)）
+- 體外試驗中，它對血管平滑肌的作用大於對心肌的作用。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)）
+- 它降血壓主要是因為依劑量降低周邊血管阻力，同時伴隨輕度的反射性心跳加快。（[仿單](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)）
+
+**來源**：[DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster Pharmaceuticals），Clinical Pharmacology／Mechanism of Action 段](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40)，版本日期 2023-07-17；查閱日期 2026-10-03。
+
+---
+
 ## 為什麼這個預測合理
 
 Felodipine 作為二氫吡啶類鈣離子通道阻斷劑，其對預測適應症的潛在療效有以下藥理學基礎：
