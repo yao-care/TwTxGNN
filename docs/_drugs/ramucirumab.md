@@ -46,8 +46,14 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 | TxGNN 預測分數 | 99.95% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 4 張 |
+| 許可證數 | 1 張 |
 | 建議決策 | Hold |
+
+<!-- review:begin ramucirumab-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／4 張」。TFDA 登載含 ramucirumab 的許可證共 1 張（衛部菌疫輸字第000999號）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ramucirumab-license-count-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -93,6 +99,19 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 **若要推進需要：**
 - 進一步的臨床試驗以驗證療效
 - 詳細的藥物作用機轉資料（MOA）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 許可證數寫 4 張 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

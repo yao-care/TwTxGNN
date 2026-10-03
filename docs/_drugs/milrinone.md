@@ -49,6 +49,12 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 | 最高預測分數 | 0.9991（禿髮症） |
 | 證據等級 | L3（觀察性研究/病例報告 - 頭痛障礙） |
 
+<!-- review:begin milrinone-alopecia-rereview-2026-10-03 -->
+
+> **待重審（2026-10-03）**：禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹這幾筆預測的機轉理由有一項前提與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；頭痛障礙與充血性心衰竭不在此列。證據等級、文獻與決策在重審完成前不更動。依據：[DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789)。
+
+<!-- review:end milrinone-alopecia-rereview-2026-10-03 -->
+
 ---
 
 ## 為什麼這個預測合理？
@@ -61,6 +67,12 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
    - PDE 抑制劑（如 minoxidil）已知可促進毛髮生長
    - Milrinone 作為 PDE3 抑制劑理論上可能有類似作用
    - 但缺乏直接證據
+
+<!-- review:begin milrinone-minoxidil-not-pde-inhibitor-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此前提與仿單不符。Minoxidil 仿單把它歸類為直接作用的周邊血管擴張劑，NLM MeSH 列的藥理作用是抗高血壓藥與血管擴張劑，都沒有把它列為磷酸二酯酶（PDE）抑制劑；外用製劑仿單也寫明生髮機轉尚未完全了解。上段原文保留未改。依據：[DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789)；[NLM MeSH：Minoxidil（D008914）](https://meshb.nlm.nih.gov/record/ui?ui=D008914)；[emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc)。
+
+<!-- review:end milrinone-minoxidil-not-pde-inhibitor-2026-10-03 -->
 
 2. **頭痛障礙**（TxGNN Score: 0.9946）
    - Milrinone 具有血管擴張作用
@@ -173,6 +185,19 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 
 *報告產生日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 預測理由「PDE 抑制劑（如 minoxidil）已知可促進毛髮生長」 | 加註 | [DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789)；[NLM MeSH：Minoxidil（D008914）](https://meshb.nlm.nih.gov/record/ui?ui=D008914)；[emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
+| 2026-10-03 | 禿髮症／毛髮稀疏症預測標記待重審 | 標記待重審 | [DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

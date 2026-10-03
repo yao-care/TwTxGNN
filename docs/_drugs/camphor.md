@@ -51,6 +51,12 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 | 許可證數 | 20 張 |
 | 建議決策 | Hold |
 
+<!-- review:begin camphor-original-indication-oxocamphor-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：這段適應症來自「康心針」（內衛藥製字第007950號），TFDA 登載的主成分是 trans-oxocamphor（氧樟腦），不是 camphor，且該證已於 1988-07-19 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end camphor-original-indication-oxocamphor-2026-10-03 -->
+
 ---
 
 ## 為什麼這個預測合理？
@@ -91,6 +97,12 @@ Camphor 被認為可作為 TRPV1（瞬態受體電位香草素受體）激動劑
 | 內衛藥製字第001881號 | 心得康針 | 注射劑 | 急性心臟衰弱、一般心臟疾患、血行障害、急性虛脫狀態、呼吸困難 |
 | 內衛藥輸字第003716號 | 氧樟腦精 | 粉劑 | 急性心臟衰弱、呼吸困難 |
 
+<!-- review:begin camphor-license-rows-oxocamphor-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上表「康心針」「心得康針」「氧樟腦精」的主成分是 oxocamphor（氧樟腦），不是 camphor，三張都已於 1988 年註銷；「"明通"申藥」是 camphor 加辣椒酊的複方，「靈芝濟眾水」是辣椒酊、肉桂、樟腦酊的複方且已於 2023-08-08 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end camphor-license-rows-oxocamphor-combo-2026-10-03 -->
+
 ---
 
 ## 安全性考量
@@ -111,6 +123,20 @@ Camphor 對 TRPV1/TRPM8 受體的調節雖在機轉上提供了偏頭痛的理�
 - 釐清現有個案報告中 camphor 引發頭痛的劑量、劑型與給藥途徑，排除安全性疑慮
 - 設計針對外用或吸入給藥途徑的小型 Proof-of-concept 研究（需與神經科/頭痛專科合作）
 - 建立神經毒性風險評估計畫（camphor 中毒可引發驚厥，高劑量安全性需事先確認）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」為已註銷 oxocamphor 注射劑的適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表中 3 張為 oxocamphor、2 張為複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

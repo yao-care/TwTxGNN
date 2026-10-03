@@ -54,6 +54,12 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 目前缺乏詳細的作用機轉資料。根據已知資訊，Aluminum oxide 是一種內服凝膠劑，主要用於緩解胃酸過多相關症狀。
 由於類風濕性關節炎涉及免疫系統，現有劑型無法達到全身性療效，需開發新劑型以評估其在類風濕性關節炎中的潛力。
 
+<!-- review:begin aluminum-oxide-gel-is-aluminum-hydroxide-gel-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：本頁所列許可證（內衛藥製字第009846號）中英文品名都是「氫氧化鋁凝膠」（ALUMINUM HYDROXIDE GEL），只是 TFDA 主成分欄登載為 aluminum oxide (alumina)；內服凝膠劑指的是這個氫氧化鋁凝膠制酸劑的劑型。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end aluminum-oxide-gel-is-aluminum-hydroxide-gel-2026-10-03 -->
+
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
@@ -87,6 +93,19 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 - 詳細的藥物作用機轉資料（MOA）
 - 針對類風濕性關節炎的直接臨床試驗
 - 開發適合全身性療效的新劑型
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「Aluminum oxide 是一種內服凝膠劑」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

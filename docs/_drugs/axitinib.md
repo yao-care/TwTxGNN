@@ -33,9 +33,15 @@ indication_count: 10
 
 ## 一句話總結
 
-Axitinib（英利達）是高度選擇性的 VEGFR 酪胺酸激酶抑制劑，台灣核准用於接受過 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌病患。
+Axitinib（抑癌特）是高度選擇性的 VEGFR 酪胺酸激酶抑制劑，台灣核准用於接受過 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌病患。
 TxGNN 模型預測它可能對**未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)** 有效，
 目前有 **2 個真實世界觀察性研究**提供間接支持，尚無針對此特定亞型的直接文獻。
+
+<!-- review:begin axitinib-tw-brand-name-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Axitinib（英利達）」。TFDA 登載的 axitinib（INLYTA）中文品名是「抑癌特膜衣錠」（衛署藥輸字第025853號 1 毫克、第025854號 5 毫克），不是「英利達」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end axitinib-tw-brand-name-2026-10-03 -->
 
 ---
 
@@ -83,6 +89,12 @@ TxGNN 模型預測它可能對**未分類腎細胞癌 (Unclassified Renal Cell C
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
 |---------|------|------|-----------|
 | 衛部菌疫輸字第001025號 | 吉舒達注射劑 | 注射劑 | 1.黑色素細胞瘤：治療無法切除或轉移性黑色素瘤病人。作為輔助性療法治療患有第IIB或IIC期黑色素... |
+
+<!-- review:begin axitinib-license-row-pembrolizumab-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上表唯一一列是 pembrolizumab（吉舒達）的許可證，不是 axitinib。Axitinib 本身的有效許可證是衛署藥輸字第025853號、第025854號「抑癌特膜衣錠」1 毫克／5 毫克（INLYTA，輝瑞大藥廠），核准治療已接受過 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌，有效日期 2027/11/13。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end axitinib-license-row-pembrolizumab-2026-10-03 -->
 
 > **資料說明**：本 Evidence Pack 台灣許可證資料顯示為 **吉舒達（Pembrolizumab/Keytruda）** 之登記，其核准適應症第 14 項明載「與 axitinib 併用，做為晚期腎細胞癌病人的第一線治療藥物」。Axitinib 本身（英利達/Inlyta，口服膜衣錠）之獨立許可證資料建議另行向台灣食藥署查核補充，以確認 Axitinib 單藥適應症及完整許可證清單。
 
@@ -132,6 +144,20 @@ Axitinib 的 VEGFR 抑制機轉在廣義 RCC 中已有充分的療效基礎（L1
 - 設計針對未分類 RCC 亞型的前瞻性探索性 Phase 2 研究（建議納入 axitinib 單藥或聯合 ICI）
 - 建立病患分子分型，識別 VEGF 訊號路徑依賴程度較高的亞群以提升療效預測
 - 設計特定安全性監測計畫，涵蓋高血壓管理、甲狀腺功能及 CYP3A4 相關 DDI 審查
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | Axitinib 台灣中文品名寫成「英利達」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表只列出 pembrolizumab（吉舒達）的許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

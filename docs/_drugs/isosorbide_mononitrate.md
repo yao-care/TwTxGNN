@@ -55,6 +55,12 @@ TxGNN 模型預測它可能對**多毛症 (Hypertrichosis)** 有效，
 | 許可證數 | 6 張 |
 | 建議決策 | Hold |
 
+<!-- review:begin isosorbide-mononitrate-hypertrichosis-rereview-2026-10-03 -->
+
+> **待重審（2026-10-03）**：多毛症這筆預測的機轉討論有一項前提與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。依據：[emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc)。
+
+<!-- review:end isosorbide-mononitrate-hypertrichosis-rereview-2026-10-03 -->
+
 ---
 
 ## 為什麼這個預測合理？
@@ -62,6 +68,12 @@ TxGNN 模型預測它可能對**多毛症 (Hypertrichosis)** 有效，
 目前缺乏詳細的作用機轉資料（MOA）。根據已知資訊，Isosorbide mononitrate 屬於有機硝酸酯類藥物，以 NO 供體角色釋放一氧化氮（NO），透過 **NO → cGMP → PKG** 路徑促進血管平滑肌舒張，用於預防狹心症的療效已被廣泛驗證。
 
 從概念上推測，NO 引發的局部血管舒張理論上可改善毛囊微循環，與 minoxidil 誘發多毛症的現象有一定相似性。然而，minoxidil 促進毛髮生長的機轉主要透過開放 K⁺ 通道（而非 NO/cGMP），兩條路徑本質不同，機轉類比十分間接。
+
+<!-- review:begin isosorbide-mononitrate-minoxidil-k-channel-premise-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此前提與仿單不符。Minoxidil 外用製劑仿單寫明它促進毛髮生長的機轉尚未完全了解，只列出增加毛幹直徑、刺激並延長生長期等作用，沒有把生髮機轉歸於開放鉀離子通道。上段原文保留未改。依據：[emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc)。
+
+<!-- review:end isosorbide-mononitrate-minoxidil-k-channel-premise-2026-10-03 -->
 
 目前對於 Isosorbide mononitrate 用於多毛症，**無任何前臨床、臨床試驗或文獻支持**。此預測純粹基於 TxGNN 圖神經網路的知識圖譜拓樸關聯，尚需前臨床實驗驗證其生物學合理性。
 
@@ -125,6 +137,20 @@ TxGNN 模型預測它可能對**多毛症 (Hypertrichosis)** 有效，
 - 驗證 NO/cGMP 路徑對毛囊生長週期的直接影響
 - 評估外用劑型可行性（現有許可劑型為口服及原料藥，全身性低血壓風險限制口服用於皮膚科適應症的可行性）
 - 若機轉驗證成功，考慮與 IND 申請前顧問會議（Pre-IND meeting）確認監管路徑
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 預測理由「minoxidil 促進毛髮生長主要透過開放 K⁺ 通道」 | 加註 | [emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
+| 2026-10-03 | 多毛症預測標記待重審 | 標記待重審 | [emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

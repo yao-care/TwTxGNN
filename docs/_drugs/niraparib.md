@@ -55,6 +55,12 @@ TxGNN 模型預測它可能對**會厭腫瘤（Epiglottis Neoplasm）**有效，
 | 許可證數 | 10 張 |
 | 建議決策 | Hold |
 
+<!-- review:begin niraparib-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此為 niraparib＋abiraterone 複方「澤截膜衣錠」（衛部藥輸字第028617號）的適應症；niraparib 單方「截永樂錠100毫克」（衛部藥輸字第028651號）核准的是晚期卵巢癌（含輸卵管、原發性腹膜癌）第一線維持治療與復發性卵巢癌維持治療。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end niraparib-original-indication-combo-2026-10-03 -->
+
 ---
 
 ## 為什麼這個預測合理？
@@ -129,6 +135,19 @@ TxGNN 模型預測分數雖高（99.99%），但 Niraparib 的 PARP 抑制合成
 - 會厭腫瘤樣本的 BRCA/HRD 突變率流行病學調查
 - 細胞株或類器官模型的臨床前療效驗證數據
 - 明確的 Niraparib 完整作用機轉資料（MOA，建議查詢 DrugBank API）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」只寫 mCRPC | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

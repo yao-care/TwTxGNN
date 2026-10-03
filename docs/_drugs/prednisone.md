@@ -47,6 +47,12 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 | 許可證數 | 多張 |
 | 建議決策 | Go |
 
+<!-- review:begin prednisone-original-indication-other-drugs-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：「急性病症（氣喘、休克）」的字樣來自主成分登載為 methylprednisone（甲基類固醇琥珀酸鹽）的已註銷注射劑許可證（內衛藥輸字第003633號「歐巴生針劑」），「風濕性關節炎」字樣也見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號）；兩者都不是 prednisone 的許可證。Prednisone 單方許可證所載為類風濕關節炎（衛部藥輸字第026256號「樂多特」緩釋錠，已註銷）等。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end prednisone-original-indication-other-drugs-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制作用。它透過抑制多種炎症介質和免疫細胞功能來發揮作用。
@@ -79,6 +85,12 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 |---------|------|------|-----------|
 | 多張許可證 | 保癌寧等 | 錠劑/注射劑 | 風濕性關節炎、急性病症、皮膚疾患等 |
 
+<!-- review:begin prednisone-polatuzumab-row-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：「保癌寧」（衛部菌疫輸字第001123號）主成分是 polatuzumab vedotin，不是 prednisone，只是適應症提到與含 prednisone 的 R-CHP 療法併用。TFDA 目前含 prednisone 的有效許可證只有衛署藥製字第042080號「育麗素軟膏」（prednisone＋crotamiton 複方外用，核准濕疹或皮膚炎）；口服單方 prednisone 許可證（如衛部藥輸字第026256號「樂多特1毫克緩釋錠」）已於 2018-09-10 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end prednisone-polatuzumab-row-2026-10-03 -->
+
 ## 安全性考量
 
 安全性資訊請參考原廠仿單。
@@ -100,6 +112,19 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 - 根據患者個別情況評估風險效益
 - 考慮與 methotrexate 或 JAK 抑制劑併用
 - 制定長期監測計畫（骨密度、血糖等）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 許可證表「保癌寧等」列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」混入 methylprednisolone 等其他成分的許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

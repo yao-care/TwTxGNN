@@ -72,6 +72,12 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 |----------|----------|------|--------------|------|
 | (多張許可證) | 博西林注四十萬單位等 | 注射劑 | 多家藥廠 | 依各許可證 |
 
+<!-- review:begin benzylpenicillin-license-row-bicillin-combo-cancelled-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：表中舉例的「博西林注四十萬單位」（內衛藥製字第004458號）是 penicillin G potassium 加 penicillin G procaine 的複方，已於 2018-05-11 註銷；現行有效的單方注射劑例如衛署藥製字第015845號「"永豐"芐基青黴素鈉注射劑」、衛署藥製字第023250號「鉀西林注射劑」。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end benzylpenicillin-license-row-bicillin-combo-cancelled-2026-10-03 -->
+
 **註：** Benzylpenicillin 主要為注射劑型，口腔感染通常使用其口服衍生物如 phenoxymethylpenicillin (penicillin V) 或 amoxicillin。
 
 ## 安全性考量
@@ -89,6 +95,18 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 3. 考慮合併 metronidazole 以涵蓋厭氧菌
 4. 注意青黴素過敏病史，必要時改用 clindamycin 或 azithromycin
 5. 此預測更多確認現有實務，而非提出新的治療方向
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 許可證表代表品項「博西林注四十萬單位」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

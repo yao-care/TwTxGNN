@@ -51,6 +51,12 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 | 許可證數 | 1 張 |
 | 建議決策 | Hold |
 
+<!-- review:begin ascorbyl-phosphate-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此為複方點眼液的適應症：衛署藥輸字第023600號「德佑視立明眼藥水」含 neostigmine、naphazoline（血管收縮劑）、chlorpheniramine（抗組織胺）、glycyrrhizinate、allantoin、維生素 E 與 magnesium L-ascorbyl phosphate 共 7 種成分，緩解眼紅、眼癢等適應症屬於整個複方，不是 ascorbyl phosphate 單一成分的核准用途。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ascorbyl-phosphate-original-indication-combo-2026-10-03 -->
+
 ---
 
 ## 為什麼這個預測合理？
@@ -89,6 +95,12 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 |---------|------|------|-----------|
 | 衛署藥輸字第023600號 | 德佑視立明眼藥水 | 點眼液劑 | 暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢。 |
 
+<!-- review:begin ascorbyl-phosphate-license-row-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：「德佑視立明眼藥水」是 7 種成分的複方點眼液，magnesium L-ascorbyl phosphate 只是其中一種成分；表中適應症屬於整個複方。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ascorbyl-phosphate-license-row-combo-2026-10-03 -->
+
 ---
 
 ## 安全性考量
@@ -109,6 +121,20 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 - 設計臨床前動物模型，驗證點眼局部給藥是否能達到視網膜層有效藥物濃度
 - 搜尋廣義維生素 C 衍生物（ascorbic acid、ascorbate）用於糖尿病視網膜病變的相關文獻，評估類別效應（class effect）可能性
 - 若轉向**痤瘡**適應症推進（建議），可直接規劃 Phase 2 隨機對照試驗，利用現有 RCT 作為先導依據
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」為複方眼藥水的適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「德佑視立明眼藥水」為 7 成分複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

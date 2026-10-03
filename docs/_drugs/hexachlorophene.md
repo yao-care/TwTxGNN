@@ -41,13 +41,19 @@ Hexachlorophene（六氯酚）是歷史悠久的外用廣效抗菌劑，台灣�
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 濕疹、腫痛、皮膚炎、搔癢與蟲咬 |
+| 原適應症 | 外科擦拭用、供皮膚抑菌使用目的之清潔劑 |
 | 預測新適應症 | 廣義皮膚病 (Skin Disease) |
 | TxGNN 預測分數 | 99.92% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin hexachlorophene-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／濕疹、腫痛、皮膚炎、搔癢與蟲咬」。原寫內容取自 prednisolone＋benzocaine＋hexachlorophene 複方「脫濕美軟膏」（已於 1989-12-29 註銷），不是 hexachlorophene 本身的作用；已改為現行有效單方許可證的適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hexachlorophene-original-indication-2026-10-03 -->
 
 ---
 
@@ -97,6 +103,12 @@ Hexachlorophene（六氯酚）是歷史悠久的外用廣效抗菌劑，台灣�
 | 衛署藥製字第000974號 | "惠民" 柔和潔乳白軟膏（六氯酚） | 軟膏劑 | 外科擦拭用、供皮膚抑菌使用目的之清潔劑 |
 | 衛署成製字第008210號 | 諾德露洗劑 | 洗劑 | 體臭、止汗 |
 
+<!-- review:begin hexachlorophene-tw-license-table-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：依 TFDA 許可證資料，上表只有「"惠民" 柔和潔乳白軟膏（六氯酚）」仍有效；「脫濕美軟膏」（prednisolone＋benzocaine＋hexachlorophene）、「康速龍軟膏」（＋prednisolone）、「諾德露洗劑」（＋鋁鹽）是複方，與「菲克斯潔膚消毒漿」都已註銷，濕疹、皮膚炎等適應症屬於複方中的類固醇。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hexachlorophene-tw-license-table-2026-10-03 -->
+
 ---
 
 ## 安全性考量
@@ -122,6 +134,20 @@ Hexachlorophene 在細菌性皮膚感染（尤其 MRSA 皮膚去定植）方面�
 - 聚焦具明確機轉依據的皮膚病亞型（如 MRSA 相關復發性皮膚感染、外科部位皮膚去定植），避免機轉不明的廣義適應症申請
 - 進行台灣法規可行性評估：在 FDA 已停用背景下，現有台灣許可證的延伸使用路徑及監管策略
 - 確認現有製劑濃度、劑型是否符合擬議新適應症的藥學需求
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 原適應症取自已註銷的類固醇複方 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表含複方且多數已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

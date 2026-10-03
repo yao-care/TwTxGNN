@@ -84,15 +84,27 @@ PubMed 搜尋發現多篇相關文獻：
 
 | 項目 | 內容 |
 |------|------|
-| 許可證字號 | 衛署藥製字第018095號 |
-| 中文品名 | 亞卡南爾非滅錠 |
-| 英文品名 | ACARNAN-F |
-| 許可證持有者 | 南光化學製藥股份有限公司 |
+| 許可證字號 | 衛署藥製字第043147號 |
+| 中文品名 | 克妊滿錠　〝汎生〞（ethynodiol diacetate＋ethinylestradiol 複方） |
+| 英文品名 | NEO-CONOVA TABLETS "PANBIOTIC" |
+| 許可證持有者 | 臺灣汎生製藥廠股份有限公司 |
 | 劑型 | 錠劑 |
 | 核准適應症 | 避孕、月經異常 |
 
+<!-- review:begin ethynodiol-diacetate-tw-license-table-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證字號／衛署藥製字第018095號／／中文品名／亞卡南爾非滅錠／／英文品名／ACARNAN-F／／許可證持有者／南光化學製藥股份有限公司／／劑型／錠劑／／核准適應症／避孕、月經異常」。衛署藥製字第018095號實為制酸劑「胃平鎮錠」；「亞卡南爾非滅錠」是已於 2004-12-23 註銷的衛署藥輸字第005422號。已改列現行有效的衛署藥製字第043147號「克妊滿錠〝汎生〞」（ethynodiol diacetate＋ethinylestradiol 複方）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ethynodiol-diacetate-tw-license-table-2026-10-03 -->
+
 **其他上市產品**：
-- 衛署藥輸字第017959號：ETHYNODIOL DIACETATE (原料藥)
+- 衛署藥製字第032417號："汎生" 爾非錠（ethynodiol diacetate＋ethinylestradiol 複方，適應症：抑制排卵）
+
+<!-- review:begin ethynodiol-diacetate-tw-other-product-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「- 衛署藥輸字第017959號：ETHYNODIOL DIACETATE (原料藥)」。衛署藥輸字第017959號實為「氧化鎂」原料（已註銷），不是 ethynodiol diacetate；另一張現行有效的 ethynodiol diacetate 製劑是衛署藥製字第032417號「汎生爾非錠」（與 ethinylestradiol 複方，適應症「抑制排卵」）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ethynodiol-diacetate-tw-other-product-2026-10-03 -->
 
 ## 安全性考量
 
@@ -143,6 +155,19 @@ PubMed 搜尋發現多篇相關文獻：
 
 *報告生成日期：2026-02-11*
 *資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 許可證表字號與品名不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「其他上市產品」原料藥字號不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

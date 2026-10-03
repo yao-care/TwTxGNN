@@ -44,8 +44,14 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 | TxGNN 預測分數 | 99.78% |
 | 證據等級 | L5 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 3 張 |
+| 許可證數 | 1 張 |
 | 建議決策 | Hold |
+
+<!-- review:begin sacituzumab_govitecan-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／3 張」。TFDA 登載含 sacituzumab govitecan 的許可證共 1 張（衛部菌疫輸字第001206號）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end sacituzumab_govitecan-license-count-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -124,6 +130,18 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 - 發現 Trop-2 在骨代謝中的相關作用
 - 基礎研究證明機轉合理性
 - 考慮到毒性，此適應症不建議進一步探索
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 許可證數寫 3 張 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

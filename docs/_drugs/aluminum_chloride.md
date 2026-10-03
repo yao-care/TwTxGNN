@@ -90,6 +90,12 @@ Aluminum chloride 的主要作用機轉是阻塞汗腺管道並造成局部蛋�
 | 衛署藥輸字第009332號 | 牙齦收縮止血劑 | 壓排線劑 | 牙齦止血 | 已註銷 |
 | 內衛藥製字第009014號 | 純露糖漿 | 糖漿劑 | 緩解感冒症狀 | 已註銷 |
 
+<!-- review:begin aluminum-chloride-combo-rows-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上表「牙齦止血液」「牙齦收縮止血劑」是 aluminum chloride 加 oxyquinoline sulfate（後者再加 lidocaine）的牙科複方；「純露糖漿」是 chlorpheniramine maleate、aluminum chloride、potassium guaiacolsulfonate 的感冒糖漿，緩解感冒症狀的適應症來自抗組織胺與祛痰成分，不是 aluminum chloride 本身。三張都已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end aluminum-chloride-combo-rows-2026-10-03 -->
+
 **目前有效許可證持有者**：臺灣汎生製藥廠股份有限公司
 
 ## 安全性考量
@@ -129,6 +135,18 @@ TxGNN 預測的新適應症（脂漏性角化症、脂漏性皮膚炎）缺乏�
 - 牙科局部止血（雖台灣已無相關許可證）
 
 **不建議用於**：脂漏性角化症或脂漏性皮膚炎的治療，除非有更多機轉證據支持。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 許可證表「牙齦止血液」「牙齦收縮止血劑」「純露糖漿」三列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

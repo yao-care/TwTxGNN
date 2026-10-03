@@ -33,7 +33,13 @@ indication_count: 10
 
 ## 一句話總結
 
-Cromoglicic acid（色甘酸）是已知的**肥大細胞穩定劑**，國際上核准用於過敏性結膜炎、氣喘及食物過敏，但台灣目前無任何藥品許可證。TxGNN 模型針對 10 項新適應症進行預測，**過敏性蕁麻疹 (Allergic Urticaria)** 具備最強的機轉合理性，目前有 **19 篇文獻**間接支持，建議列為研究問題；TxGNN 分數最高的**潰瘍性直腸乙狀結腸炎**已有直接 RCT 顯示局部給藥無效，建議暫緩。
+Cromoglicic acid（色甘酸）是已知的**肥大細胞穩定劑**，國際上核准用於過敏性結膜炎、氣喘及食物過敏；台灣目前有 14 張有效許可證（主成分色甘酸鈉，多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑）。TxGNN 模型針對 10 項新適應症進行預測，**過敏性蕁麻疹 (Allergic Urticaria)** 具備最強的機轉合理性，目前有 **19 篇文獻**間接支持，建議列為研究問題；TxGNN 分數最高的**潰瘍性直腸乙狀結腸炎**已有直接 RCT 顯示局部給藥無效，建議暫緩。
+
+<!-- review:begin cromoglicic-acid-tw-license-summary-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「，但台灣目前無任何藥品許可證。」。台灣目前有 14 張主成分為色甘酸鈉（cromolyn sodium）的有效許可證，多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cromoglicic-acid-tw-license-summary-2026-10-03 -->
 
 ---
 
@@ -41,14 +47,32 @@ Cromoglicic acid（色甘酸）是已知的**肥大細胞穩定劑**，國際上
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 過敏性結膜炎、氣喘（台灣未登記） |
+| 原適應症 | 過敏性結膜炎、過敏性鼻炎（台灣有效許可證） |
 | 預測適應症數 | 10 項 |
 | TxGNN 最高分適應症 | 潰瘍性直腸乙狀結腸炎（99.99%） |
 | 最具潛力適應症 | 過敏性蕁麻疹（L3 證據，Research Question） |
 | 最佳證據等級 | L3（潰瘍性直腸乙狀結腸炎、過敏性蕁麻疹） |
-| 台灣上市 | ✗ 未上市 |
-| 許可證數 | 0 張 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 14 張（有效） |
 | 建議決策 | **Research Question**（2 項）／Hold（8 項） |
+
+<!-- review:begin cromoglicic-acid-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／過敏性結膜炎、氣喘（台灣未登記）」。台灣有效許可證核准的適應症為過敏性結膜炎（點眼液）與過敏性鼻炎（噴鼻劑）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cromoglicic-acid-original-indication-2026-10-03 -->
+
+<!-- review:begin cromoglicic-acid-tw-marketed-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「台灣上市／✗ 未上市」。台灣有主成分為色甘酸鈉的有效許可證，屬已上市。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cromoglicic-acid-tw-marketed-2026-10-03 -->
+
+<!-- review:begin cromoglicic-acid-tw-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／0 張」。依 TFDA 許可證資料，主成分為色甘酸鈉的有效許可證為 14 張。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cromoglicic-acid-tw-license-count-2026-10-03 -->
 
 ---
 
@@ -123,7 +147,13 @@ Cromoglicic acid 的核心機轉是**阻斷肥大細胞脫顆粒**：當 IgE 與
 
 ## 台灣上市資訊
 
-Cromoglicic acid 在台灣目前**無任何藥品許可證**，屬未上市藥物。若有研究需求，需透過 TFDA 專案核准（專案進口）管道取得。
+Cromoglicic acid（色甘酸鈉，cromolyn sodium）在台灣目前有 14 張有效藥品許可證，多為過敏性結膜炎點眼液（例如信妥單劑量點眼液2%、悅力舒點眼液）與過敏性鼻炎噴鼻劑（例如艾麗鼻用噴液劑），另有原料藥許可證。
+
+<!-- review:begin cromoglicic-acid-tw-license-section-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Cromoglicic acid 在台灣目前**無任何藥品許可證**，屬未上市藥物。若有研究需求，需透過 TFDA 專案核准（專案進口）管道取得。」。台灣目前有 14 張主成分為色甘酸鈉的有效許可證（點眼液、噴鼻劑與原料藥）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cromoglicic-acid-tw-license-section-2026-10-03 -->
 
 ---
 
@@ -164,6 +194,30 @@ Cromoglicic acid 在台灣目前**無任何藥品許可證**，屬未上市藥�
 - 補充完整 TFDA 仿單資料，完成安全性初評（Data Gap DG001）
 - 查詢 DrugBank API 補充完整作用機轉資料（Data Gap DG002）
 - 評估台灣 TFDA 引進路徑（目前 0 張許可證，需確認專案進口或新申請可行性）
+
+<!-- review:begin cromoglicic-acid-next-step-license-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：依 TFDA 許可證資料，台灣目前有 14 張主成分為色甘酸鈉的有效許可證（點眼液與噴鼻劑），並非 0 張；建議內容原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cromoglicic-acid-next-step-license-2026-10-03 -->
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「台灣目前無任何藥品許可證」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症「（台灣未登記）」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市「未上市」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證數「0 張」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「在台灣目前無任何藥品許可證，屬未上市藥物」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 下一步「目前 0 張許可證」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

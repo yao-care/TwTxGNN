@@ -53,7 +53,31 @@ def strip_block(text, rid):
 
 
 def sources_md(rec):
-    return "；".join(f"[{s['title']}]({s['url']})" for s in rec["sources"])
+    """同一筆紀錄裡重複的來源網址只顯示一次（紀錄本身不動，逐字摘錄仍全部留在 JSON）。"""
+    seen, out = set(), []
+    for s in rec["sources"]:
+        if s["url"] in seen:
+            continue
+        seen.add(s["url"])
+        out.append(f"[{s['title']}]({s['url']})")
+    return "；".join(out)
+
+
+BLOCK_RE = re.compile(r"<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->", re.S)
+
+
+def find_outside(text, needle):
+    """找 needle 在頁面原文中的位置，跳過已插入的查核框（框裡會引用原句，不能當定位點）。"""
+    spans = [m.span() for m in BLOCK_RE.finditer(text)]
+    start = 0
+    while True:
+        i = text.find(needle, start)
+        if i < 0:
+            return -1
+        hit = next((s for s in spans if s[0] <= i < s[1]), None)
+        if not hit:
+            return i
+        start = hit[1]
 
 
 def display(s):
@@ -92,12 +116,13 @@ def apply_record(text, rec, problems):
         block = f"{begin(rid)}\n\n{rec['markdown'].strip()}\n\n{end(rid)}\n\n"
         return text[:m.start()] + block + text[m.start():]
     if act == "correct":
-        if rec["claim"] in text:
-            text = text.replace(rec["claim"], rec["replacement"], 1)
+        j = find_outside(text, rec["claim"])
+        if j >= 0:
+            text = text[:j] + rec["replacement"] + text[j + len(rec["claim"]):]
         anchor = rec["replacement"]
     else:
         anchor = rec.get("anchor") or rec["claim"]
-    i = text.find(anchor)
+    i = find_outside(text, anchor)
     if i < 0:
         problems.append(f"{rid}：頁面上找不到 {'replacement' if act == 'correct' else 'anchor'}「{anchor[:40]}…」（頁面可能被重產改寫，需人工重查）")
         return text

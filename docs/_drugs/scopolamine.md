@@ -49,6 +49,12 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 | 許可證數 | 317 張 |
 | 建議決策 | Hold |
 
+<!-- review:begin scopolamine-butylscopolamine-licenses-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上列適應症與下方許可證表的產品，主成分都是丁基東莨菪鹼（butylscopolamine bromide／hyoscine-N-butylbromide），例如內衛藥製字第010222號「南光」胃使可胖注射液、內衛藥製字第000509號「保賜康膠囊」。它是 scopolamine 的四級銨衍生物，與 scopolamine 本身是不同藥品（scopolamine 中樞作用較多）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[NLM MeSH：Butylscopolammonium Bromide（D002086）](https://meshb.nlm.nih.gov/record/ui?ui=D002086)；[NLM MeSH：Scopolamine（D012601）](https://meshb.nlm.nih.gov/record/ui?ui=D012601)。
+
+<!-- review:end scopolamine-butylscopolamine-licenses-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮抗劑，
@@ -116,6 +122,18 @@ TxGNN 預測的馬尾症候群及神經源性膀胱適應症與 Scopolamine 的�
 - 針對神經源性膀胱的臨床試驗數據
 - 探索 Scopolamine 在馬尾症候群相關膀胱功能障礙的應用
 - 評估長期使用的安全性，特別是與其他抗膽鹼藥物併用時
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」與許可證表皆為丁基東莨菪鹼（butylscopolamine） | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[NLM MeSH：Butylscopolammonium Bromide（D002086）](https://meshb.nlm.nih.gov/record/ui?ui=D002086)；[NLM MeSH：Scopolamine（D012601）](https://meshb.nlm.nih.gov/record/ui?ui=D012601) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

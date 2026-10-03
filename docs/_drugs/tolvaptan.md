@@ -46,8 +46,14 @@ Tolvaptan（佳腎康）是血管加壓素 V2 受體拮抗劑，原本核准用�
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L1（2 篇已完成 Phase 3 RCT，適用於 ADPKD 上位診斷） |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 19 張 |
+| 許可證數 | 7 張 |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin tolvaptan-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／19 張」。TFDA 許可證資料集中含 tolvaptan 的許可證共 7 張：佳腎康錠（Jinarc）15／30／45／60／90 毫克 5 張，與伸舒康錠（Samsca）15／30 毫克 2 張，均有效；頁面寫 19 張有誤（資料集同一張證有多筆資料列，可能因此重複計數）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tolvaptan-license-count-2026-10-03 -->
 
 ---
 
@@ -56,6 +62,12 @@ Tolvaptan（佳腎康）是血管加壓素 V2 受體拮抗劑，原本核准用�
 Tolvaptan 是選擇性血管加壓素 V2 受體（V2R）拮抗劑，作用於腎臟集尿管，透過阻斷 V2R 降低細胞內 cAMP（環腺苷酸）濃度，抑制囊泡液體分泌與囊泡上皮細胞異常增殖。目前缺乏完整的 DrugBank MOA 結構化記錄，但其藥理機轉在多篇 NEJM 大型 RCT 中已被清楚闡明。
 
 多囊性腎臟病第3型（PKD3）由 **GANAB 或 DNAJB11 基因突變**引起，雖然致病基因與 PKD1（多囊蛋白1）、PKD2（多囊蛋白2）不同，但下游病理機轉——cAMP 升高驅動的囊泡液體積累與上皮細胞增生——在本質上一致。這使得 tolvaptan 的 V2R 拮抗靶點對 PKD3 同樣具有直接的藥理學依據。
+
+<!-- review:begin tolvaptan-pkd3-gene-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：依 NCBI MedGen，PKD3 的致病基因是 GANAB；DNAJB11 突變對應的是 PKD6（Polycystic kidney disease 6 with or without polycystic liver disease），不屬於 PKD3。推論內容與證據等級未改。依據：[NCBI MedGen：Polycystic kidney disease 3 with or without polycystic liver disease（C3887964）](https://www.ncbi.nlm.nih.gov/medgen/854672)；[NCBI MedGen：Polycystic kidney disease 6 with or without polycystic liver disease（C4748044）](https://www.ncbi.nlm.nih.gov/medgen/1648469)。
+
+<!-- review:end tolvaptan-pkd3-gene-2026-10-03 -->
 
 此外，台灣許可證批准的 ADPKD 適應症本身即為 PKD3 的**上位診斷**（umbrella diagnosis）。實務上，PKD3 患者若符合 ADPKD 臨床表現，臨床醫師已可在現有核准適應症框架下考慮 tolvaptan 使用，這進一步降低了再利用的監管障礙。
 
@@ -95,7 +107,13 @@ Tolvaptan 是選擇性血管加壓素 V2 受體（V2R）拮抗劑，作用於腎
 | 衛部藥輸字第027341號 | 佳腎康錠15毫克 | 錠劑 | 適用於自體顯性多囊性腎臟病（ADPKD）且 eGFR 大於 25 mL/min/1.73m² 之慢性腎臟病成人患者，已出現病情迅速惡化跡象，用以延緩囊泡的生長... |
 | 衛部藥輸字第027342號 | 佳腎康錠30毫克 | 錠劑 | 適用於自體顯性多囊性腎臟病（ADPKD）且 eGFR 大於 25 mL/min/1.73m² 之慢性腎臟病成人患者，已出現病情迅速惡化跡象，用以延緩囊泡的生長... |
 
-> 台灣共有 **19 張**許可證，上表列出代表性規格。另含 SAMSCA 品牌（適應症為心臟衰竭及 SIADH 引起之低血鈉症）。
+> 台灣共有 **7 張**許可證，上表列出代表性規格。另含 SAMSCA 品牌（適應症為心臟衰竭及 SIADH 引起之低血鈉症）。
+
+<!-- review:begin tolvaptan-license-count-note-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「> 台灣共有 **19 張**許可證」。TFDA 許可證資料集中含 tolvaptan 的許可證共 7 張（佳腎康錠 5 種規格、伸舒康錠 2 種規格）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tolvaptan-license-count-note-2026-10-03 -->
 
 ---
 
@@ -140,6 +158,21 @@ PKD3（GANAB/DNAJB11 突變）與 PKD1/PKD2 共享 cAMP 驅動的囊泡生成機
 - **肝功能監測計畫**：PKD3 患者常合併多囊性肝臟病，tolvaptan 已知具肝毒性風險（ALT/AST 上升），需制定更嚴格的 LFT 監測方案
 - **小兒族群考量**：已有兒童 ADPKD 試驗（NCT02964273），若 PKD3 患者年齡較小，需評估兒科劑量
 - **倫理與知情同意**：因 PKD3 為 ADPKD 亞型而非獨立核准適應症，臨床使用需以 off-label 框架說明
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 快速總覽「許可證數：19 張」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市資訊表下「台灣共有 19 張許可證」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「PKD3 由 GANAB 或 DNAJB11 基因突變引起」 | 加註 | [NCBI MedGen：Polycystic kidney disease 3 with or without polycystic liver disease（C3887964）](https://www.ncbi.nlm.nih.gov/medgen/854672)；[NCBI MedGen：Polycystic kidney disease 6 with or without polycystic liver disease（C4748044）](https://www.ncbi.nlm.nih.gov/medgen/1648469) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -53,6 +53,12 @@ Indacaterol 是超長效 β2 腎上腺素受體激動劑（ultra-LABA），台�
 | 許可證數 | 19 張 |
 | 建議決策 | Proceed with Guardrails |
 
+<!-- review:begin indacaterol-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此為三合一複方許可證「艾能舒吸入膠囊」（衛部藥輸字第028048號，含 glycopyrronium、indacaterol、mometasone）的適應症；indacaterol 單方「昂舒吸入膠囊150微克」（衛署藥輸字第025282號）核准的是慢性阻塞性肺疾（COPD）之維持治療。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end indacaterol-original-indication-combo-2026-10-03 -->
+
 ---
 
 ## 為什麼這個預測合理？
@@ -143,6 +149,19 @@ Indacaterol 為選擇性超長效 β2 腎上腺素受體激動劑，與氣道平
 - 確認不同 Indacaterol 組合製劑（IND 單藥 / IND+GLY / IND+GLY+MF）在特定支氣管疾病亞型（如小兒族群、嗜酸球性表型）中的劑量選擇依據
 - 對 9 項 L5 預測適應症，如有探索意願，應優先進行機轉合理性評估及前臨床研究設計，並釐清吸入製劑對非肺部標靶器官的給藥途徑可行性
 - 定期更新 DDI 資料（建議每季確認 DDInter 資料庫版本）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」寫氣喘維持治療 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

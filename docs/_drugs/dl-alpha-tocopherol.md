@@ -33,21 +33,33 @@ indication_count: 10
 
 ## 一句話總結
 
-dl-alpha-tocopherol 是一種維生素 E 的形式，原適應症未明。
+dl-alpha-tocopherol 是一種維生素 E 的形式，台灣許可證核准的原適應症為維他命 E 缺乏症。
 TxGNN 模型預測它可能對**未成熟白內障 (immature cataract)** 有效，
 目前有 **1 篇文獻**支持這個方向。
+
+<!-- review:begin dl-alpha-tocopherol-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「dl-alpha-tocopherol 是一種維生素 E 的形式，原適應症未明。」。依 TFDA 許可證資料，dl-alpha-tocopherol 單方製劑核准適應症為維他命 E 缺乏症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end dl-alpha-tocopherol-summary-indication-2026-10-03 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 未知 |
+| 原適應症 | 維他命 E 缺乏症 |
 | 預測新適應症 | 未成熟白內障 (immature cataract) |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin dl-alpha-tocopherol-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／未知」。依 TFDA 許可證資料，dl-alpha-tocopherol 單方製劑核准適應症為「維他命Ｅ缺乏症」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end dl-alpha-tocopherol-original-indication-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -79,6 +91,20 @@ dl-alpha-tocopherol 具有抗氧化特性，可能在機轉上適用於延緩白
 **若要推進需要：**
 - 進一步的臨床試驗以驗證其在未成熟白內障中的療效
 - 詳細的藥物作用機轉資料（MOA）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症未明」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症「未知」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

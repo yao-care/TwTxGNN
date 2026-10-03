@@ -47,13 +47,25 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 拮抗 rocuronium 或 vecuronium 誘導的神經肌肉阻斷 |
+| 原適應症 | 全身麻醉的輔佐藥，幫助支氣管內插管、提供手術及快速麻醉誘導時的骨骼肌鬆弛，以及加護病房插管與使用人工呼吸器時 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張 |
+| 許可證數 | 8 張 |
 | 建議決策 | Hold |
+
+<!-- review:begin rocuronium-original-indication-sugammadex-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／拮抗 rocuronium 或 vecuronium 誘導的神經肌肉阻斷」。原文是 rocuronium 逆轉劑 sugammadex 的適應症。Rocuronium 本身的台灣許可證（例如衛署藥輸字第022140號「安心麻儂注射劑」）核准為全身麻醉的輔佐藥，用於幫助支氣管內插管、提供手術需快速麻醉誘導時的骨骼肌鬆弛，以及加護病房中需插管及使用人工呼吸器時。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end rocuronium-original-indication-sugammadex-2026-10-03 -->
+
+<!-- review:begin rocuronium-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／20 張」。TFDA 登載含 rocuronium bromide 的許可證共 8 張（衛署藥製字第052611號、衛署藥輸字第022140號、衛部藥製字第058097號、衛部藥輸字第026336號、衛部藥輸字第027026號、衛部藥輸字第027933號、衛部藥輸字第029021號、衛部藥陸輸字第001282號）。原頁面計入的是 sugammadex（rocuronium 逆轉劑）的許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end rocuronium-license-count-2026-10-03 -->
 
 ---
 
@@ -95,6 +107,12 @@ TxGNN 的高預測分數（99.90%）最可能源於知識圖譜中**神經系統
 
 > 📌 **資料說明**：台灣許可證查詢結果顯示的品項均為 **Sugammadex**（γ-環糊精硫丙酸鈉鹽，Rocuronium 的特異性逆轉藥物），總計 20 張。這是因為 FDA 資料庫中 Sugammadex 的核准適應症文字包含「rocuronium」關鍵字，導致資料連結。Rocuronium 本身（神經肌肉阻斷劑）亦已在台灣上市，建議另行查詢台灣 FDA 資料庫確認其自身許可證數量。
 
+<!-- review:begin rocuronium-tw-table-sugammadex-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：已查 TFDA：rocuronium bromide 本身的有效許可證共 8 張，例如衛署藥輸字第022140號「安心麻儂注射劑10毫克/毫升」、衛署藥製字第052611號「肌麻注射劑 10 毫克/毫升」、衛部藥輸字第026336號「卡比」羅庫諾林注射液。上表各列都是 sugammadex，不是 rocuronium。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end rocuronium-tw-table-sugammadex-2026-10-03 -->
+
 ---
 
 ## 安全性考量
@@ -130,6 +148,21 @@ Rocuronium 的作用機轉（外周骨骼肌 nAChR 競爭性拮抗）與偏頭�
 - **知識圖譜路徑分析**：釐清 TxGNN 連結路徑（Rocuronium → Migraine Disorder 的中介節點），判斷是否為圖譜偽陽性
 - **前臨床機轉研究**：確認 Rocuronium 或其代謝物是否對三叉神經血管系統、CGRP 路徑或皮質興奮性有直接效應
 - **替代適應症評估**：Rank 10 的 **頭痛疾患 (Headache Disorder)** 有更直接的文獻支持（RCT：PMID [23812022](https://pubmed.ncbi.nlm.nih.gov/23812022/)，rocuronium-sugammadex 組合可減少 ECT 後頭痛），機轉連結較偏頭痛更為合理，建議優先評估此方向
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」寫成 sugammadex 的適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證數寫 20 張（計入 sugammadex） | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表全為 sugammadex | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

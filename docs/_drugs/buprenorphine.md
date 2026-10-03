@@ -75,11 +75,23 @@ Buprenorphine 在台灣有多種劑型：
 
 **舌下錠/含舌下複方錠**
 - 解佳益舌下錠 - 用於鴉片類物質成癮替代療法
-- 速必治舌下錠 (含 naloxone) - 成癮替代療法
+- 舒倍生舌下錠 (含 naloxone) - 成癮替代療法
+
+<!-- review:begin buprenorphine-suboxone-name-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「- 速必治舌下錠 (含 naloxone) - 成癮替代療法」。「速必治錠」在 TFDA 是利尿劑 ethacrynic acid（衛署藥製字第011225號）；含 naloxone 的 buprenorphine 舌下錠是「舒倍生」（Suboxone，衛署藥輸字第024951、024952號）。另外上一行的「解佳益」舌下錠同樣是 buprenorphine 加 naloxone 的複方，單方舌下錠是「解佳 舌下錠8毫克」（衛署藥製字第050250號）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end buprenorphine-suboxone-name-2026-10-03 -->
 
 **經皮貼片**
 - 舒免疼貼片 - 用於中度非癌症疼痛
 - 多種劑量規格 (5, 10, 20 mcg/hr)
+
+<!-- review:begin buprenorphine-sovenor-cancelled-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：「舒免疼穿皮貼片劑」5／10／20 微公克/小時（衛部藥輸字第026280～026282號）已於 2022 年 1 月註銷，另一款「全克痛穿皮貼片劑」（衛部藥輸字第026935、026936號）也已於 2023 年註銷；目前 TFDA 查無有效的 buprenorphine 貼片許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end buprenorphine-sovenor-cancelled-2026-10-03 -->
 
 **注射劑**
 - 用於術後及中重度疼痛
@@ -128,6 +140,19 @@ Buprenorphine 在台灣有多種劑型：
 - 比較不同類鴉片藥物在紫質症患者中的安全性特性
 
 **特別注意**：此為探索性建議，臨床使用仍需依據個案評估及專科醫師判斷。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「速必治舌下錠 (含 naloxone)」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「舒免疼貼片」許可證已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

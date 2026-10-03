@@ -100,6 +100,12 @@ Hyaluronic Acid 是人體玻璃體、關節滑液與角膜前淚膜中天然存�
 
 根據查詢結果，Hyaluronic Acid（DB08818）目前在台灣無任何藥品許可證登記，市場狀態為**未上市**。
 
+<!-- review:begin hyaluronic-acid-tw-license-note-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：依 TFDA 藥品許可證資料，目前有 1 張含玻尿酸鈉的有效藥品許可證：衛部藥輸字第027112號「視舒坦玻尿酸人工淚液點眼液」（與 polyethylene glycol 400、propylene glycol 的複方，用於緩解眼睛乾澀）；過去也有多張 sodium hyaluronate 單方眼科手術黏彈劑許可證（如 HEALON），均已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hyaluronic-acid-tw-license-note-2026-10-03 -->
+
 > 需注意：HA 相關產品可能以**醫療器材**（如玻尿酸眼藥水為 Class II 醫材）而非藥品申請許可，建議同步確認 TFDA 醫材資料庫的登記狀況。
 
 ---
@@ -130,6 +136,19 @@ Hyaluronic Acid 是人體玻璃體、關節滑液與角膜前淚膜中天然存�
 - 補充 TFDA 仿單警語與禁忌症資料（目前 Data Gap，屬 Blocking 等級缺口）
 - 建立特定高風險族群（糖尿病、術後、老年患者）的安全性監測計畫
 - 評估與眼科防腐劑（Benzalkonium、Cetylpyridinium）配方相容性，建議單位劑量無防腐劑設計以規避交互作用風險
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「目前在台灣無任何藥品許可證登記」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

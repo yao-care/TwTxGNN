@@ -41,11 +41,17 @@ Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現�
 |------|------|
 | 藥物名稱 | Tenofovir alafenamide (TAF) |
 | DrugBank ID | DB09299 |
-| 台灣商品名 | 韋立得膜衣錠、達可揮膜衣錠、必克達膜衣錠等 |
+| 台灣商品名 | 韋立得膜衣錠、達可揮膜衣錠、吉他韋膜衣錠等 |
 | 原核准適應症 | HIV-1 感染治療、HIV 暴露前預防 (PrEP)、慢性 B 型肝炎 |
 | 預測新適應症 | SIV 感染、貓愛滋病、神經發育障礙 |
 | 最高證據等級 | **L2**（單一 RCT / 多個 Phase 2） |
 | TxGNN 分數 | 0.875（SIV 感染） |
+
+<!-- review:begin tenofovir-alafenamide-brand-names-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「台灣商品名／韋立得膜衣錠、達可揮膜衣錠、必克達膜衣錠等」。資料集中沒有「必克達膜衣錠」；bictegravir＋emtricitabine＋TAF 的台灣品名是「吉他韋 膜衣錠」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tenofovir-alafenamide-brand-names-2026-10-03 -->
 
 ## 為什麼這個預測合理
 
@@ -98,15 +104,51 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 
 ## 台灣上市資訊
 
-### 已核准產品（共 13 項）
+### 已核准產品（TFDA 資料集共 8 張許可證，含 1 張原料藥）
+
+<!-- review:begin tenofovir-alafenamide-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「### 已核准產品（共 13 項）」。TFDA 許可證資料集中含 tenofovir alafenamide 的許可證共 8 張（韋立得、達可揮 2 張、吉他韋、捷扶康、安以斯、信澤力，以及 1 張原料藥），不是 13 項；資料集中沒有「必克達膜衣錠」，bictegravir 複方的品名是「吉他韋」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tenofovir-alafenamide-license-count-2026-10-03 -->
 
 | 許可證號 | 商品名 | 成分組合 | 適應症 |
 |----------|--------|----------|--------|
-| 衛部藥輸字第027163號 | 韋立得膜衣錠 25 毫克 | TAF 單方 | 慢性 B 型肝炎 |
-| 衛部藥輸字第027012號 | 達可揮膜衣錠 | Emtricitabine + TAF | HIV PrEP |
-| 衛部藥輸字第027398號 | 必克達膜衣錠 | Bictegravir + Emtricitabine + TAF | HIV 治療 |
-| 衛部藥輸字第027464號 | 舒發泰膜衣錠 | Emtricitabine + TAF | HIV 治療 |
-| 衛部藥輸字第027645號 | 欣他佳膜衣錠 | Darunavir + Cobicistat + Emtricitabine + TAF | HIV 治療 |
+| 衛部藥輸字第027086號 | 韋立得膜衣錠 | TAF 單方 | 慢性 B 型肝炎 |
+| 衛部藥輸字第027274號 | 達可揮膜衣錠 200 毫克/25 毫克 | Emtricitabine + TAF | HIV-1 感染治療 |
+| 衛部藥輸字第027570號 | 吉他韋 膜衣錠 | Bictegravir + Emtricitabine + TAF | HIV 治療 |
+| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | Elvitegravir + Cobicistat + Emtricitabine + TAF | HIV 治療 |
+| 衛部藥輸字第027613號 | 信澤力膜衣錠 | Darunavir + Cobicistat + Emtricitabine + TAF | HIV 治療 |
+
+<!-- review:begin tenofovir-alafenamide-tw-license-027163-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛部藥輸字第027163號／韋立得膜衣錠 25 毫克／TAF 單方／慢性 B 型肝炎」。頁面所列許可證字號 衛部藥輸字第027163號 在 TFDA 許可證資料集中是「鹽酸梯可匹定」（英文品名 Ticlopidine Hydrochloride），不是 tenofovir alafenamide 製劑。本列改為資料集中實際的 tenofovir alafenamide 許可證 衛部藥輸字第027086號「韋立得膜衣錠」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tenofovir-alafenamide-tw-license-027163-2026-10-03 -->
+
+<!-- review:begin tenofovir-alafenamide-tw-license-027012-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛部藥輸字第027012號／達可揮膜衣錠／Emtricitabine + TAF／HIV PrEP」。頁面所列許可證字號 衛部藥輸字第027012號 在 TFDA 許可證資料集中是「美加柔持續性藥效膜衣錠200毫克」（主成分 QUETIAPINE FUMARATE），不是 tenofovir alafenamide 製劑。本列改為資料集中實際的 tenofovir alafenamide 許可證 衛部藥輸字第027274號「達可揮膜衣錠 200 毫克/25 毫克」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tenofovir-alafenamide-tw-license-027012-2026-10-03 -->
+
+<!-- review:begin tenofovir-alafenamide-tw-license-027398-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛部藥輸字第027398號／必克達膜衣錠／Bictegravir + Emtricitabine + TAF／HIV 治療」。頁面所列許可證字號 衛部藥輸字第027398號 在 TFDA 許可證資料集中是「水楊醯胺」（英文品名 Salicylamide），不是 tenofovir alafenamide 製劑。Bictegravir＋emtricitabine＋TAF 在台灣的品名是「吉他韋」（Biktarvy），資料集中沒有「必克達膜衣錠」。本列改為資料集中實際的 tenofovir alafenamide 許可證 衛部藥輸字第027570號「吉他韋 膜衣錠」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tenofovir-alafenamide-tw-license-027398-2026-10-03 -->
+
+<!-- review:begin tenofovir-alafenamide-tw-license-027464-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛部藥輸字第027464號／舒發泰膜衣錠／Emtricitabine + TAF／HIV 治療」。頁面所列許可證字號 衛部藥輸字第027464號 在 TFDA 許可證資料集中是「釋糖健15/100毫克膜衣錠」（主成分 Ertugliflozin L-PGA;;SITAGLIPTIN PHOSPHATE(AS MONOHYDRATE PHOSPHATE SALT)），不是 tenofovir alafenamide 製劑。另外「舒發泰膜衣錠」（Truvada，衛署藥輸字第024769號）的成分是 emtricitabine＋tenofovir disoproxil fumarate，不含 TAF。本列改為資料集中實際的 tenofovir alafenamide 許可證 衛部藥輸字第027001號「捷扶康 膜衣錠」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tenofovir-alafenamide-tw-license-027464-2026-10-03 -->
+
+<!-- review:begin tenofovir-alafenamide-tw-license-027645-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛部藥輸字第027645號／欣他佳膜衣錠／Darunavir + Cobicistat + Emtricitabine + TAF／HIV 治療」。頁面所列許可證字號 衛部藥輸字第027645號 在 TFDA 許可證資料集中是「舒林達酸」（英文品名 Sulindac），不是 tenofovir alafenamide 製劑。Darunavir＋cobicistat＋emtricitabine＋TAF 在台灣的品名是「信澤力」（Symtuza），資料集中沒有「欣他佳膜衣錠」。本列改為資料集中實際的 tenofovir alafenamide 許可證 衛部藥輸字第027613號「信澤力膜衣錠」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end tenofovir-alafenamide-tw-license-027645-2026-10-03 -->
 
 ### 健保給付狀態
 
@@ -156,6 +198,24 @@ Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶�
 
 *本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
 *更新日期：2026-02-11*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第027163號 與品名不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第027012號 與品名不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第027398號 與品名不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第027464號 與品名不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第027645號 與品名不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「已核准產品（共 13 項）」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 快速總覽「必克達膜衣錠」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

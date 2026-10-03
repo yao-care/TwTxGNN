@@ -55,13 +55,25 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoi
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | ⚠️ 許可證資料錯誤（顯示為 Trastuzumab 適應症）；5-FU 已知核准適應症包含大腸直腸癌、胃癌、乳癌等 |
+| 原適應症 | 消化器癌（如胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解；結腸癌、直腸癌、乳癌、胃癌、胰臟癌，以及不可以手術之胃腸道、乳部惡性腫瘤的姑息療法 |
 | 預測新適應症 | 陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoid-type Embryonal Rhabdomyosarcoma of the Vagina) |
 | TxGNN 預測分數 | 99.75% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張（詳見資料品質警示） |
+| 許可證數 | 4 張有效（注射液 3 張、原料藥 1 張） |
 | 建議決策 | Hold |
+
+<!-- review:begin fluorouracil-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／⚠️ 許可證資料錯誤（顯示為 Trastuzumab 適應症）；5-FU 已知核准適應症包含大腸直腸癌、胃癌、乳癌等」。已依 TFDA 現行有效的 fluorouracil 注射液許可證改寫適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fluorouracil-original-indication-2026-10-03 -->
+
+<!-- review:begin fluorouracil-tw-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／20 張（詳見資料品質警示）」。依 TFDA 許可證資料，fluorouracil 目前有效的許可證為 4 張（注射液 3 張、原料藥 1 張）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fluorouracil-tw-license-count-2026-10-03 -->
 
 ---
 
@@ -97,6 +109,12 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoi
 | 衛部菌疫輸字第001136號 | 曲斯若凍晶注射劑440毫克 | 凍晶注射劑 | ⚠️ 此為 Trastuzumab 生物相似藥，非 Fluorouracil |
 
 **正確資訊提示**：Fluorouracil 注射劑在台灣確有合法上市，許可證總數約 20 張，劑型以注射劑為主，請透過 TFDA 藥品許可證查詢系統（搜尋關鍵字：fluorouracil / 氟尿嘧啶）取得正確資料。
+
+<!-- review:begin fluorouracil-tw-license-note-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：查 TFDA 許可證資料：fluorouracil 目前有效的許可證是衛部藥製字第058842號「癒復達注射液50毫克/毫升」、衛署藥製字第022587號「清淨癌注射液」、衛部藥製字第058033號「好復注射液50毫克/毫升」，以及 1 張原料藥許可證；歷年累計共 48 張，其餘已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fluorouracil-tw-license-note-2026-10-03 -->
 
 ---
 
@@ -146,6 +164,21 @@ Fluorouracil 屬於抗腫瘤/細胞毒性藥物（Antineoplastic Agents、Antime
 1. **修正資料管道**：確保台灣許可證資料正確對應 Fluorouracil（5-FU），而非 Trastuzumab
 2. **補充 MOA 資料**：查詢 DrugBank API 取得 DB00544 完整作用機轉描述
 3. **前臨床驗證**：在 RMS 細胞株（如 RD、A204）進行 5-FU 敏感性測試，建立最低可信的前臨床依據後，才可考慮進一步評估
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 原適應症改為 TFDA 許可證所載 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證數「20 張」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 正確資訊提示「許可證總數約 20 張」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -47,6 +47,12 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 | 許可證數 | 40 張（全部已註銷） |
 | 建議決策 | Hold |
 
+<!-- review:begin sulfamerazine-license-not-all-cancelled-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：資料集中複方許可證 衛署藥製字第027573號「聯邦鐵多拉三種磺胺錠」（sulfamethazine＋sulfamerazine＋sulfadiazine）並未列為已註銷，只是有效日期 2024/05/25 已過；其餘許可證均已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end sulfamerazine-license-not-all-cancelled-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 ### 結膜炎（Conjunctivitis）- TxGNN 分數 0.990
@@ -120,6 +126,18 @@ Sulfamerazine 作為磺胺類抗菌劑，可抑制細菌二氫葉酸合成酶，
 
 **建議：**
 除非有特殊需求（如特定抗藥性菌株治療），否則不建議投入資源開發此藥物的新適應症。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 快速總覽「全部已註銷」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

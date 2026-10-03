@@ -33,7 +33,13 @@ indication_count: 10
 
 ## 一句話總結
 
-Doxorubicin（鹽酸多柔比星）是 anthracycline 類傳統細胞毒性化療藥物，在台灣核准用於瀰漫性大型 B 細胞淋巴瘤（DLBCL）等抗腫瘤聯合化療方案。TxGNN 模型預測它可能對 **Ewing 肉瘤（Ewing Sarcoma）** 有效，目前有 **47 個臨床試驗**和 **20 篇文獻**支持這個方向，且多項已完成的 Phase 3 RCT 直接確立其在 Ewing 肉瘤治療中的核心地位。
+Doxorubicin（鹽酸多柔比星）是 anthracycline 類傳統細胞毒性化療藥物，在台灣核准用於急慢性白血球過多症（白血病）、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。TxGNN 模型預測它可能對 **Ewing 肉瘤（Ewing Sarcoma）** 有效，目前有 **47 個臨床試驗**和 **20 篇文獻**支持這個方向，且多項已完成的 Phase 3 RCT 直接確立其在 Ewing 肉瘤治療中的核心地位。
+
+<!-- review:begin doxorubicin-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「在台灣核准用於瀰漫性大型 B 細胞淋巴瘤（DLBCL）等抗腫瘤聯合化療方案。」。這段取自 polatuzumab vedotin（保癌寧，Polivy）的許可證；台灣 doxorubicin 單方許可證核准適應症為急慢性白血病、硬瘤、淋巴瘤、軟組織肉瘤、神經母細胞瘤、乳癌、肺癌。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end doxorubicin-summary-indication-2026-10-03 -->
 
 ---
 
@@ -41,13 +47,19 @@ Doxorubicin（鹽酸多柔比星）是 anthracycline 類傳統細胞毒性化療
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 瀰漫性大型 B 細胞淋巴瘤（DLBCL） |
+| 原適應症 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌 |
 | 預測新適應症 | Ewing 肉瘤（Ewing Sarcoma） |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin doxorubicin-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／瀰漫性大型 B 細胞淋巴瘤（DLBCL）」。原寫內容取自 polatuzumab vedotin（保癌寧，衛部菌疫輸字第001123號）的許可證；已改為台灣 doxorubicin 單方許可證的核准適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end doxorubicin-original-indication-2026-10-03 -->
 
 ---
 
@@ -99,9 +111,22 @@ Ewing 肉瘤是第二常見的兒童原發骨腫瘤，其特徵為 EWS-FLI1 融�
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
 |---------|------|------|-----------|
-| 衛部菌疫輸字第001123號 | 保癌寧 凍晶注射劑 | 凍晶注射劑 | 1. 與 rituximab、cyclophosphamide、doxorubicin 和 prednisone (R-CHP) 併用，適用於治療先前未接受過治療之瀰漫性大型 B 細胞淋巴瘤（DLBCL）成人病人。2. 與 bendamustine 和 rituximab 併用，適用於治療復發型或難治型且不適合造血幹細胞移植的 DLBCL 病人... |
+| 衛署藥輸字第022712號 | 艾黴素注射液 | 注射液 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
+| 衛署藥製字第036418號 | 利癌凍晶注射劑10毫克(多索如比辛) | 凍晶注射劑 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。 |
+
+<!-- review:begin doxorubicin-tw-license-table-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「衛部菌疫輸字第001123號／保癌寧 凍晶注射劑／凍晶注射劑／1. 與 rituximab、cyclophosphamide、doxorubicin 和 prednisone (R-CHP) 併用，適用於治療先前未接受過治療之瀰漫性大型 B 細胞淋巴瘤（DLBCL）成人病人。2. 與 bendamustine 和 rituximab 併用，適用於治療復發型或難治型且不適合造血幹細胞移植的 DLBCL 病人...」。「保癌寧 凍晶注射劑」主成分是 polatuzumab vedotin，不是 doxorubicin；已改列 doxorubicin 單方許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end doxorubicin-tw-license-table-2026-10-03 -->
 
 > **資料說明**：Evidence Pack 中所列 20 張許可證均登記為相同許可證號（衛部菌疫輸字第001123號），疑為資料彙整重複。建議查詢 TFDA 資料庫確認 Doxorubicin（鹽酸多柔比星）完整許可證清單，以補充更準確的上市資訊。
+
+<!-- review:begin doxorubicin-tw-data-note-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：查 TFDA 許可證資料：衛部菌疫輸字第001123號是 polatuzumab vedotin（保癌寧，Polivy）的許可證，不是 doxorubicin；主成分為 doxorubicin 的許可證共 28 張、其中 7 張有效（例如艾黴素注射液、利癌凍晶注射劑、力得微脂體注射劑）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end doxorubicin-tw-data-note-2026-10-03 -->
 
 ---
 
@@ -151,6 +176,22 @@ Doxorubicin 在 Ewing 肉瘤治療中具備多項已完成的 Phase 3 RCT 直接
 - 針對 665 個已知 DDI 進行完整用藥核對，尤其是 CYP3A4 抑制劑與 QT 延長風險藥物
 - 補充 TFDA 正式 Doxorubicin 許可證清單，釐清 Evidence Pack 中重複登記的資料問題
 - 考量 Ewing 肉瘤族群（多為兒童/青少年）的長期心毒性監測與晚期效應追蹤計畫
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「在台灣核准用於 DLBCL」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 polatuzumab vedotin 許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表列 polatuzumab vedotin 製劑「保癌寧」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 資料說明「20 張許可證均登記為相同許可證號」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -55,7 +55,13 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預�
 
 ## 為什麼這個預測合理？
 
-DrugBank 正式作用機轉（MOA）欄位目前缺乏資料，但根據現有文獻，Letrozole 是第三代非固醇性芳香化酶抑制劑，透過選擇性且可逆地抑制 **CYP19A1（芳香化酶）**，阻斷腎上腺雄激素（如雄烯二酮、睪固酮）轉化為雌二醇的生化路徑，使停經後婦女體內雌激素水平大幅下降（降幅超過 95%），直接剝奪雌激素受體（ER）陽性乳癌細胞的增殖信號。
+DrugBank 正式作用機轉（MOA）欄位目前缺乏資料，但根據現有文獻，Letrozole 是第三代非固醇性芳香化酶抑制劑，透過選擇性且可逆地抑制 **CYP19A1（芳香化酶）**，阻斷腎上腺雄激素（如雄烯二酮、睪固酮）轉化為雌二醇的生化路徑，使停經後婦女體內雌激素水平大幅下降（仿單記載降幅約 75% 至 95%），直接剝奪雌激素受體（ER）陽性乳癌細胞的增殖信號。
+
+<!-- review:begin letrozole-estrogen-suppression-percent-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「使停經後婦女體內雌激素水平大幅下降（降幅超過 95%）」。Femara 仿單記載每日 0.1～5 mg 使血漿 estradiol、estrone、estrone sulfate 較基準值下降 75% 至 95%，不是超過 95%。預測推論與結論未改。依據：[DailyMed：Femara (letrozole) tablets 仿單（Novartis），Pharmacodynamics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406)。
+
+<!-- review:end letrozole-estrogen-suppression-percent-2026-10-03 -->
 
 TxGNN 預測 Letrozole 對「女性乳癌」有效，實質上是對其核准適應症的模型確認。台灣現行核准範圍涵蓋停經後 ER 陽性乳癌的末期、局部晚期/轉移性（第一線）、輔助及延伸輔助治療等多個情境；而「女性乳癌」作為更廣義的病理類別，代表模型捕捉到 Letrozole 在乳癌治療體系中的核心地位。
 
@@ -149,6 +155,19 @@ TxGNN 模型以 99.98% 的高分預測 Letrozole 對女性乳癌有效，完全�
 - 查閱並更新原廠仿單，填補目前缺漏的主要警語與禁忌症資料
 - 建立長期使用者（輔助治療 5-10 年）的骨密度監測與骨折風險管理計畫
 - 評估 Letrozole 在特定亞型擴展情境中的定位：停經前合併卵巢抑制、HR+/HER2+ 雙受體陽性、以及新興 CDK4/6 抑制劑後線治療等組合策略
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「雌激素降幅超過 95%」 | 更正 | [DailyMed：Femara (letrozole) tablets 仿單（Novartis），Pharmacodynamics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

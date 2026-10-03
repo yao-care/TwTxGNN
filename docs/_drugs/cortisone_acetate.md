@@ -43,13 +43,19 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 風濕性關節炎、急性關節風濕、支氣管氣喘、過敏性疾患、慢性潰瘍性大腸炎及局部性腸炎、濕疹樣症候群、蕁麻疹、腎臟疾患等 |
+| 原適應症 | 腎上腺皮質機能不全症、風濕熱、風濕性關節炎、支氣管氣喘、過敏性濕疹、兒童急性白血病及惡性淋巴腫 |
 | 預測新適應症 | 圓禿 (Alopecia Areata) |
 | TxGNN 預測分數 | 99.95% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Hold |
+
+<!-- review:begin cortisone-acetate-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／風濕性關節炎、急性關節風濕、支氣管氣喘、過敏性疾患、慢性潰瘍性大腸炎及局部性腸炎、濕疹樣症候群、蕁麻疹、腎臟疾患等」。原寫內容取自主成分為 hydrocortisone acetate 的許可證（內衛藥製字第004637號，已於 2000-08-08 註銷）；已改為現行有效 cortisone acetate 錠劑（衛署藥製字第046456號）的核准適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cortisone-acetate-original-indication-2026-10-03 -->
 
 ---
 
@@ -96,6 +102,12 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 | 內衛藥輸字第004764號 | 可体松（原料） | 粉劑 | 關節炎、風溼、痛風、氣喘 |
 | 內衛藥輸字第004931號 | 氫化腎上腺皮質酮醋酸鹽 | 粉劑 | 腎上腺皮質分泌缺乏症 |
 
+<!-- review:begin cortisone-acetate-tw-license-table-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：依 TFDA 許可證資料，上表 5 張許可證全部已註銷；內衛藥製字第004637號、內衛藥輸字第004931號的主成分是 hydrocortisone acetate，內衛藥輸字第002641號「敷疾聖眼膏」是 neomycin＋hydrocortisone acetate 複方（細菌性眼疾適應症屬於 neomycin），三者都不是 cortisone acetate 製劑。現行有效的 cortisone acetate 製劑例如衛署藥製字第046456號「韋淳」乙酸可體松錠25毫克。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cortisone-acetate-tw-license-table-2026-10-03 -->
+
 ---
 
 ## 安全性考量
@@ -117,6 +129,20 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 - 設計現代化隨機對照試驗以取得 L1/L2 等級證據
 - 建立全身性皮質固醇長期使用的安全性監測計畫（HPA 軸抑制、骨質疏鬆、感染風險等）
 - 考慮特定次族群（如重症全禿、合併其他自體免疫疾病患者）是否有較高療效預測性
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 原適應症取自 hydrocortisone acetate 許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表混入 hydrocortisone 製劑且全數註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

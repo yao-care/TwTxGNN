@@ -33,21 +33,33 @@ indication_count: 10
 
 ## 一句話總結
 
-Hydroxyurea 原本用於治療慢性骨髓性白血病、骨髓纖維化及真性紅血球增多症。
+Hydroxyurea 原本用於治療慢性骨髓性白血病、卵巢癌，以及併用放射治療控制頭頸部鱗狀細胞癌。
 TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有效，
 目前有 **超過 20 篇文獻**支持這個研究方向。
+
+<!-- review:begin hydroxyurea-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Hydroxyurea 原本用於治療慢性骨髓性白血病、骨髓纖維化及真性紅血球增多症。」。台灣 hydroxyurea 許可證核准的是慢性骨髓性白血病、卵巢癌、頭頸部鱗狀細胞癌（併用放療），不含骨髓纖維化與真性紅血球增多症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hydroxyurea-summary-indication-2026-10-03 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌 |
+| 原適應症 | 慢性骨髓性白血病、復發／轉移或不可開刀之卵巢癌、併用放射治療之頭頸部鱗狀細胞癌局部控制 |
 | 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L2 |
 | 台灣上市 | 有效許可證 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin hydroxyurea-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌」。台灣現行 hydroxyurea 許可證（愛治膠囊、愛得靈膠囊）核准的是慢性骨髓性白血病、復發／轉移或不可開刀之卵巢癌、併用放射治療之頭頸部鱗狀細胞癌局部控制，不含骨髓纖維化與真性紅血球增多症（這兩項是 ruxolitinib「捷可衛錠」的適應症）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hydroxyurea-original-indication-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -103,6 +115,12 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 | - | 捷可衛錠 | 錠劑 | 骨髓纖維化、真性紅血球增多症、GvHD |
 | - | Hydroxyurea 膠囊 | 膠囊 | 慢性骨髓性白血病、卵巢癌、頭頸癌 |
 
+<!-- review:begin hydroxyurea-jakavi-row-ruxolitinib-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上表「捷可衛錠」（JAKAVI，衛部藥輸字第026359～026361號）主成分是 ruxolitinib，不是 hydroxyurea；骨髓纖維化、真性紅血球增多症、GvHD 是 ruxolitinib 的適應症。Hydroxyurea 的有效許可證是衛署藥輸字第023135號「愛治膠囊500毫克」與衛部藥輸字第029076號「愛得靈膠囊500毫克」。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hydroxyurea-jakavi-row-ruxolitinib-2026-10-03 -->
+
 ## 安全性考量
 
 - **藥物交互作用**：文獻中多與其他化療藥物合併使用
@@ -132,6 +150,20 @@ Hydroxyurea 是一種核糖核苷酸還原酶抑制劑，透過阻斷 DNA 合成
 - 開發更有效的藥物傳遞系統以提高腫瘤靶向性
 - 確定最適合的乳癌亞型（如三陰性乳癌）
 - 設計與 valproic acid 或其他增敏劑的聯合用藥方案
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」列入骨髓纖維化、真性紅血球增多症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 一句話總結寫原本用於骨髓纖維化及真性紅血球增多症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表「捷可衛錠」一列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

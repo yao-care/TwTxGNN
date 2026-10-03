@@ -109,6 +109,12 @@ TxGNN 模型預測它可能對 **HIV 感染症 (HIV infectious disease)** 有效
 | 衛部藥輸字第027227號 | 山喜多注射劑500毫克(法國廠) | 凍晶注射劑 | 與cyclosporin和類固醇合併使用，以預防腎臟、心臟和肝臟移植之器官排斥。 |
 | 衛署菌疫輸字第000526號 | 新睦樂凍晶注射劑 | 凍晶注射劑 | 用於新的腎臟移植(DE NOVO RENAL TRANSPLANTATION)、預防急性器官排斥現象之發生，而且是伴隨以CYCLOSPORIN的微乳劑型(MICROEMULSION)和皮質固醇為基礎的免疫抑制劑治療方式併用... |
 
+<!-- review:begin mycophenolate-basiliximab-row-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上表「新睦樂凍晶注射劑」（衛署菌疫輸字第000526號，Simulect）主成分是 basiliximab，不是 mycophenolate mofetil，只是同為腎臟移植排斥預防用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end mycophenolate-basiliximab-row-2026-10-03 -->
+
 > 注：本 JSON 提供 3 張許可證資料（含去重），台灣共有 20 張有效許可證，涵蓋膠囊劑、凍晶注射劑、膜衣錠等多種劑型。
 
 ---
@@ -144,6 +150,19 @@ TxGNN 模型預測它可能對 **HIV 感染症 (HIV infectious disease)** 有效
 - 評估 MMF 在 HIV 感染者中的長期安全性，特別是機會性感染風險
 - 確認 MAN2 Study（NCT00120419）的完整結果資料（目前狀態為「未知」）
 - 針對 HIV 合併腎臟移植的特定族群，收集 MMF 劑量最佳化數據
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 許可證表「新睦樂凍晶注射劑」一列 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

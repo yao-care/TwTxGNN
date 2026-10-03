@@ -45,11 +45,23 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 | 許可證數 | 5 (有效許可證) |
 | 建議決策 | Consider |
 
+<!-- review:begin atracurium-preeclampsia-rereview-2026-10-03 -->
+
+> **待重審（2026-10-03）**：子癇前症這筆預測的理由之一（不釋放組織胺、血流動力學穩定）與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。依據：[DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54)。
+
+<!-- review:end atracurium-preeclampsia-rereview-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 1. **器官獨立代謝**：透過 Hofmann 消除和酯酶水解代謝，不依賴肝腎功能，對於可能有肝腎功能受損的子癇前症患者特別安全
 2. **血流動力學穩定**：不引起組織胺釋放相關的血壓波動，有助於控制子癇前症患者的血壓
 3. **可預測的藥效**：孕期藥物動力學研究顯示其分佈容積和清除率在妊娠期間相對穩定
+
+<!-- review:begin atracurium-histamine-release-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此前提與仿單不符。Atracurium 並非不釋放組織胺：仿單寫明它的組織胺釋放比 d-tubocurarine、metocurine 弱，起始劑量 0.5 mg/kg 以下時輕微、血流動力學變化小，但 0.6 mg/kg 時曾見中度組織胺釋放與明顯血壓下降，對組織胺釋放特別危險的病人要考慮這個可能。上段原文保留未改。依據：[DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54)。
+
+<!-- review:end atracurium-histamine-release-2026-10-03 -->
 
 ## 臨床試驗證據
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
@@ -71,6 +83,12 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 | 衛署藥輸字第022770號 | 肌弛適注射液2公絲/公撮 | 注射液劑 | 安沛國際 | 2030/01/19 |
 | 衛署藥製字第042879號 | 健亞健舒注射液10公絲/公撮 | 注射劑 | 健亞生物科技 | 2029/04/02 |
 
+<!-- review:begin atracurium-license-rows-cisatracurium-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上表前三列（衛平適注射液、卡比肌鬆弛注射液、肌弛適注射液）在 TFDA 登載的主成分是 cisatracurium besylate，是另一個藥品，不是 atracurium；只有「健亞健舒注射液」（衛署藥製字第042879號）是 atracurium besylate。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end atracurium-license-rows-cisatracurium-2026-10-03 -->
+
 ## 安全性考量
 - 無已記錄的重大藥物交互作用資料
 - 子癇前症患者常使用硫酸鎂，需注意與神經肌肉阻斷劑的協同作用可能延長肌肉鬆弛時間
@@ -84,6 +102,20 @@ Atracurium besylate 具有以下特性使其適用於子癇前症患者：
 1. 系統性回顧子癇前症患者使用不同神經肌肉阻斷劑的比較研究
 2. 與麻醉科專家合作，制定子癇前症剖腹產麻醉的最佳實踐指引
 3. 注意此預測更偏向麻醉藥物選擇最佳化，而非傳統意義的藥物重新定位
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「不引起組織胺釋放相關的血壓波動」 | 加註 | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
+| 2026-10-03 | 子癇前症預測標記待重審 | 標記待重審 | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
+| 2026-10-03 | 許可證表中三張是 cisatracurium 製劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

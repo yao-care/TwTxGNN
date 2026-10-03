@@ -45,11 +45,23 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 | 許可證數 | 1 |
 | 建議決策 | Go |
 
+<!-- review:begin bempedoic-acid-hofh-rereview-2026-10-03 -->
+
+> **待重審（2026-10-03）**：HoFH 這筆預測的首要理由（非 LDL 受體依賴）與仿單所載機轉不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。依據：[DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9)。
+
+<!-- review:end bempedoic-acid-hofh-rereview-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成，作用位點在 HMG-CoA 還原酶的上游。對 HoFH 患者的關鍵優勢：
 1. **非 LDL 受體依賴機制**：HoFH 患者 LDL 受體功能缺損或缺失，傳統 statin 和 PCSK9 抑制劑效果受限
 2. **與現有療法協同**：可與 statin、ezetimibe、PCSK9 抑制劑等合併使用
 3. **不依賴肌肉代謝**：作為前藥僅在肝臟活化，不會在肌肉細胞中活化，減少肌肉相關副作用
+
+<!-- review:begin bempedoic-acid-ldlr-premise-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此前提與仿單不符。仿單寫明 bempedoic acid 抑制肝臟 ACL、減少膽固醇合成後，是「經由上調 LDL 受體」降低血中 LDL-C，和 statin 一樣依賴 LDL 受體，不是非 LDL 受體依賴的機制。上段原文保留未改。依據：[DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9)。
+
+<!-- review:end bempedoic-acid-ldlr-premise-2026-10-03 -->
 
 ## 臨床試驗證據
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
@@ -87,6 +99,19 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 2. 收集台灣 HoFH 患者使用經驗，建立本土數據
 3. 考慮申請適應症擴展
 4. 注意與 simvastatin 的交互作用，避免超過建議劑量
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 預測理由「非 LDL 受體依賴機制」 | 加註 | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
+| 2026-10-03 | 同合子家族性高膽固醇血症預測標記待重審 | 標記待重審 | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

@@ -46,8 +46,14 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (drug-induced osteop
 | TxGNN 預測分數 | 99.31% |
 | 證據等級 | 無證據 |
 | 台灣上市 | 已上市 |
-| 許可證數 | 6 張 |
+| 許可證數 | 1 張 |
 | 建議決策 | Not Recommended |
+
+<!-- review:begin trastuzumab-deruxtecan-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／6 張」。TFDA 許可證資料集中主成分為 trastuzumab deruxtecan 的許可證只有 1 張（衛部菌疫輸字第001179號 優赫得凍晶注射劑100毫克）；資料集另一張含 deruxtecan 的是 datopotamab deruxtecan（達卓優），不同成分。頁面寫 6 張有誤（同一張證有多筆資料列，可能因此重複計數）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end trastuzumab-deruxtecan-license-count-2026-10-03 -->
 
 ## 為什麼這個預測可能不合理？
 
@@ -107,6 +113,18 @@ Trastuzumab deruxtecan 是一種抗體藥物複合體 (ADC)，由抗 HER2 單株
 - 作用機轉與適應症無生物學關聯
 - 藥物本身可能加重骨質疏鬆
 - 高度細胞毒性不適用於非腫瘤適應症
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 快速總覽「許可證數：6 張」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

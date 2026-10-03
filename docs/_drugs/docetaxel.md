@@ -33,21 +33,33 @@ indication_count: 10
 
 ## 一句話總結
 
-Docetaxel 原本用於治療 HER2 陽性乳癌及轉移性胃癌。
+Docetaxel 原本用於治療乳癌、非小細胞肺癌、前列腺癌、胃腺癌與頭頸癌。
 TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有效，
 目前有 **超過50個臨床試驗**和 **多篇文獻**支持這個方向。
+
+<!-- review:begin docetaxel-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Docetaxel 原本用於治療 HER2 陽性乳癌及轉移性胃癌。」。這段原適應症取自 trastuzumab 製劑（曲斯若，Trazimera）的許可證；台灣 docetaxel 許可證核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-summary-indication-2026-10-03 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌 |
+| 原適應症 | 乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌 |
 | 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L1 |
 | 台灣上市 | 已上市 |
 | 許可證數 | 多張 |
 | 建議決策 | Proceed |
+
+<!-- review:begin docetaxel-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌」。原寫內容是 trastuzumab 製劑（曲斯若，衛部菌疫輸字第001135號）的適應症；已改為台灣 docetaxel 許可證的核准適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-original-indication-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -78,7 +90,13 @@ Docetaxel 屬於 taxane 類抗腫瘤藥物，透過促進微管蛋白聚合並�
 
 | 許可證號 | 品名 | 劑型 | 核准適應症 |
 |---------|------|------|-----------|
-| 多張許可證 | 曲斯若凍晶注射劑150毫克 | 注射劑 | HER2陽性早期乳癌輔助治療、轉移性乳癌、轉移性胃癌 |
+| 多張許可證（例：衛署藥製字第057971號、衛部藥輸字第027525號） | "永信"活克癌注射液20毫克/毫升、舒癌寧20毫克/毫升單支注射液等 | 注射劑 | 乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌 |
+
+<!-- review:begin docetaxel-tw-license-table-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「多張許可證／曲斯若凍晶注射劑150毫克／注射劑／HER2陽性早期乳癌輔助治療、轉移性乳癌、轉移性胃癌」。「曲斯若凍晶注射劑150毫克」主成分是 trastuzumab，不是 docetaxel；已改列 docetaxel 單方許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-tw-license-table-2026-10-03 -->
 
 ## 細胞毒性
 
@@ -106,6 +124,20 @@ Docetaxel 在女性乳腺癌的臨床應用已有大量 Phase 3 試驗支持，�
 **若要推進需要：**
 - 針對特定乳癌亞型的精準治療方案優化
 - 減少周邊神經病變等長期毒性的策略研究
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原本用於治療 HER2 陽性乳癌及轉移性胃癌」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 trastuzumab 許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表列 trastuzumab 製劑「曲斯若」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

@@ -51,10 +51,16 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 
 ## 為什麼這個預測合理？
 
-Dupilumab 是一種人源化單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳遞，
+Dupilumab 是一種全人類（human）IgG4 單株抗體，可阻斷 IL-4 和 IL-13 的訊號傳遞，
 這兩種細胞因子是第二型發炎反應的關鍵介質。支氣管炎，特別是嗜酸性支氣管炎，
 涉及類似的發炎機轉。Dupilumab 已核准用於嗜酸性白血球表現型的氣喘，
 其對下呼吸道發炎的抑制作用可能延伸至支氣管炎的治療。
+
+<!-- review:begin dupilumab-human-antibody-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Dupilumab 是一種人源化單株抗體」。仿單載明 dupilumab 是全人類（human）IgG4 單株抗體，不是人源化（humanized）抗體；它與 IL-4、IL-13 受體共用的 IL-4Rα 次單元結合而抑制兩者的訊號。本次只更正這個藥理事實，推論與結論未改。依據：[DailyMed：DUPIXENT（dupilumab）injection 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780)。
+
+<!-- review:end dupilumab-human-antibody-2026-10-03 -->
 
 ## 臨床試驗證據
 
@@ -100,6 +106,18 @@ Dupilumab 抑制 IL-4/IL-13 的機轉適用於嗜酸性發炎相關的支氣管�
 - 區分嗜酸性與非嗜酸性支氣管炎的生物標記
 - 針對慢性支氣管炎患者的前瞻性臨床試驗
 - 與 COPD 合併嗜酸性白血球增高患者的治療效益評估
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「Dupilumab 是一種人源化單株抗體」 | 更正 | [DailyMed：DUPIXENT（dupilumab）injection 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

@@ -45,9 +45,21 @@ Pexidartinib（圖拉留）是一種口服小分子 CSF-1R 酪胺酸激酶抑制
 | 預測新適應症 | HER2 陽性乳癌 (HER2 positive breast carcinoma) |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
-| 許可證數 | 2 張 |
+| 台灣上市 | 曾核准上市（唯一許可證已於 2026-02-03 註銷） |
+| 許可證數 | 1 張（已註銷） |
 | 建議決策 | Hold |
+
+<!-- review:begin pexidartinib-license-cancelled-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「台灣上市／✓ 已上市」。TFDA 登載 pexidartinib 只有一張許可證（衛部藥輸字第028293號「圖拉留膠囊200毫克」），已於 2026-02-03 註銷，目前沒有有效許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end pexidartinib-license-cancelled-2026-10-03 -->
+
+<!-- review:begin pexidartinib-license-count-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「許可證數／2 張」。TFDA 登載含 pexidartinib 的許可證共 1 張（衛部藥輸字第028293號）。該證已於 2026-02-03 註銷。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end pexidartinib-license-count-2026-10-03 -->
 
 ---
 
@@ -133,6 +145,20 @@ TxGNN 預測分數達 99.98%，CSF-1R 抑制透過減少腫瘤相關巨噬細胞
 - 補充 pexidartinib 完整 MOA 資料（建議查詢 DrugBank API，解決 DG001 數據缺口）
 - 系統性評估 DDI 風險，尤其是與 PPI 類（影響吸收）及 CYP3A4 調節劑的交互作用
 - 制定 HER2+ 乳癌的生物標記策略（如 TAM 密度、CSF-1R 表現量、免疫微環境分型）以利病人篩選
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「台灣上市 ✓ 已上市」（唯一許可證已註銷） | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證數寫 2 張 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

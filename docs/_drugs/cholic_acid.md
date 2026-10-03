@@ -33,9 +33,15 @@ indication_count: 10
 
 ## 一句話總結
 
-Cholic Acid（膽酸）是人體重要的初級膽汁酸，在台灣以「得利膽錠」等多種品名上市，原本用於膽石症、膽囊炎及利膽等肝膽相關適應症。
+Cholic Acid（膽酸）是人體重要的初級膽汁酸，在台灣以罕藥「酷立酸膠囊」（Cholbam）上市，核准用於單一酵素缺乏造成的先天性膽酸合成障礙，以及過氧化體代謝異常病人肝病表現等併發症的輔助治療。
 TxGNN 模型預測它可能對 **HIV 感染性疾病 (HIV infectious disease)** 有效，
 目前有 **0 個臨床試驗**及 **9 篇文獻**相關資料，但現有證據主要來自局部外用抗病毒的體外研究，部分文獻甚至顯示膽酸衍生物可能促進病毒複製，整體支持強度有限。
+
+<!-- review:begin cholic-acid-tw-brand-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「在台灣以「得利膽錠」等多種品名上市，原本用於膽石症、膽囊炎及利膽等肝膽相關適應症。」。「得利膽錠」的主成分是 dehydrocholic acid（去氫膽酸），不是 cholic acid，且已於 2016 年註銷；台灣現行的 cholic acid 許可證是罕藥「酷立酸膠囊」（Cholbam，衛部罕藥輸字第000054、000055號），核准用於先天性膽酸合成障礙等。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cholic-acid-tw-brand-2026-10-03 -->
 
 ---
 
@@ -43,13 +49,19 @@ TxGNN 模型預測它可能對 **HIV 感染性疾病 (HIV infectious disease)** 
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 膽石症、預防膽石症、助長維他命之吸收 |
+| 原適應症 | 單一酵素缺乏造成的先天性膽酸合成障礙；過氧化體代謝異常（含 Zellweger spectrum disorders）之肝病表現、脂肪瀉或脂溶性維生素吸收降低併發症的輔助治療 |
 | 預測新適應症 | HIV 感染性疾病 (HIV infectious disease) |
 | TxGNN 預測分數 | 99.79% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 20 張 |
 | 建議決策 | Hold |
+
+<!-- review:begin cholic-acid-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／膽石症、預防膽石症、助長維他命之吸收」。原文的適應症來自 dehydrocholic acid 製劑「得利膽錠」（已註銷）；cholic acid 本身的台灣許可證「酷立酸膠囊」核准的是先天性膽酸合成障礙，及過氧化體代謝異常相關併發症的輔助治療。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cholic-acid-original-indication-2026-10-03 -->
 
 ---
 
@@ -95,6 +107,12 @@ Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究�
 | 內衛藥製字第002253號 | "大豐"舒肝膽錠50毫克 | 錠劑 | 膽固醇系膽結石之溶解、原發性膽道肝硬化（primary biliary cirrhosis, PBC）之肝功能改善 |
 | 內衛藥輸字第002380號 | 復膽利 | 錠劑 | 膽囊病、膽囊炎 |
 
+<!-- review:begin cholic-acid-license-rows-other-bile-acids-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：上表 5 張許可證都不是 cholic acid：「得利膽錠」「脫氫膽酸」「復膽利」是 dehydrocholic acid（去氫膽酸）製劑且都已註銷，「去氧熊膽酸」「"大豐"舒肝膽錠」是 ursodeoxycholic acid（熊去氧膽酸）。Cholic acid 本身的有效許可證是罕藥「酷立酸膠囊」250 毫克／50 毫克（衛部罕藥輸字第000054、000055號）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cholic-acid-license-rows-other-bile-acids-2026-10-03 -->
+
 ---
 
 ## 安全性考量
@@ -130,6 +148,21 @@ Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究�
 - 評估膽汁酸-HIV 互動在系統性給藥途徑下的作用機轉（非局部 detergent 效應）
 - 確認與抗病毒藥物（特別是 Tipranavir 等蛋白酶抑制劑）的交互作用安全性
 - 補充完整的 DrugBank MOA 資料，以強化機轉合理性分析
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「在台灣以「得利膽錠」等多種品名上市」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」引自 dehydrocholic acid 製劑 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 許可證表所列皆非 cholic acid | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

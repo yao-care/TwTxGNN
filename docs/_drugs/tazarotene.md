@@ -51,6 +51,12 @@ Tazarotene 是一種維A酸類衍生物，原本用於治療乾癬和尋常性�
 
 Tazarotene 是一種合成的維A酸類藥物，透過與視黃酸受體（RAR）結合，調節表皮細胞的分化和增殖。根據藥理學資料，它對視黃酸受體-beta（RARB）具有最高親和力。
 
+<!-- review:begin tazarotene-rar-selectivity-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單載明 tazarotene 是前驅藥，去酯化成 tazarotenic acid 後與 RARα、RARβ、RARγ 三種受體都結合，對 RARβ 和 RARγ 有相對選擇性；並非只對 RARβ 親和力最高。原文保留。依據：[DailyMed：TAZORAC (tazarotene) Cream 仿單 §12.1（Almirall）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021744d1-a6d7-4ad6-99c2-7187c24e64c6)。
+
+<!-- review:end tazarotene-rar-selectivity-2026-10-03 -->
+
 乾癬和脂漏性皮膚炎都屬於表皮角質化異常的皮膚疾病。乾癬的特徵是角質細胞過度增殖，而脂漏性皮膚炎則涉及皮脂腺功能異常和馬拉色菌感染。兩者在病理機轉上有部分重疊，特別是在表皮分化調節方面。
 
 Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性皮膚炎的角質化異常有所幫助，但目前缺乏直接證據支持這一適應症。
@@ -103,6 +109,18 @@ Tazarotene 調節角質形成細胞的分化作用，理論上可能對脂漏性
 - 進行針對脂漏性皮膚炎的 Pilot 臨床試驗
 - 收集使用者的療效觀察性資料
 - 與脂漏性角化症的文獻證據進行區分和比較
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「對 RARB 具有最高親和力」 | 加註 | [DailyMed：TAZORAC (tazarotene) Cream 仿單 §12.1（Almirall）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021744d1-a6d7-4ad6-99c2-7187c24e64c6) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

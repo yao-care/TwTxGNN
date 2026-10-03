@@ -44,10 +44,22 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 | 藥物名稱 | Cyclizine (環立淨) 及其衍生物 |
 | DrugBank ID | DB01176 |
 | 台灣商品名 | 旅暈平錠、赫敏錠、止敏糖衣錠等 |
-| 原核准適應症 | 暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛 |
+| 原核准適應症 | 暈動症（預防或緩解暈車、暈船、暈機引起之頭暈、噁心、嘔吐、頭痛等症狀） |
 | 預測新適應症 | 過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患 |
 | 最高預測分數 | 0.9998 (allergic urticaria) |
 | 證據等級 | L2-L3 (已有臨床使用經驗) |
+
+<!-- review:begin cyclizine-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原核准適應症／暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛」。台灣現行 cyclizine 單方許可證（旅暈平錠）的核准適應症只有動暈症；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cyclizine-original-indication-2026-10-03 -->
+
+<!-- review:begin cyclizine-prediction-rereview-2026-10-03 -->
+
+> **待重審（2026-10-03）**：這批預測的判讀前提（cyclizine 已核准蕁麻疹、過敏性鼻炎、偏頭痛）與許可證資料不符（見上方查核更正與加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cyclizine-prediction-rereview-2026-10-03 -->
 
 ---
 
@@ -67,6 +79,12 @@ Cyclizine 及其相關衍生物（如 homochlorcyclizine）的藥理機轉直接
 | Cold urticaria | 屬蕁麻疹亞型 | H1 受體拮抗 |
 | Nasal cavity disease | 已核准 (過敏性鼻炎) | H1 受體拮抗 |
 | Headache disorder | 已核准 (偏頭痛) | 抗膽鹼 + 止吐作用 |
+
+<!-- review:begin cyclizine-why-approved-premise-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：對照表中「已核准（蕁麻疹）」「已核准（過敏性鼻炎）」「已核准（偏頭痛）」的前提與許可證資料不符：台灣現行 cyclizine 單方許可證只核准動暈症；蕁麻疹、過敏性鼻炎屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已註銷的 ergotamine＋caffeine＋cyclizine 複方。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症等。推論原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1](https://www.medicines.org.uk/emc/product/4318/smpc)。
+
+<!-- review:end cyclizine-why-approved-premise-2026-10-03 -->
 
 ---
 
@@ -108,6 +126,12 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 | 衛署藥製字第002658號 | 旅暈平錠 | 暈動症 (暈車、暈船、暈機) | 有效 |
 | 衛署藥製字第032336號 | 應元赫敏錠 (Homochlorcyclizine) | 過敏性皮疹、濕疹、氣喘 | 有效 |
 | 衛署藥製字第023981號 | 止敏糖衣錠 (Chlorcyclizine) | 過敏性鼻炎、皮膚搔癢 | 有效 |
+
+<!-- review:begin cyclizine-tw-license-other-ingredients-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：表中「應元赫敏錠」主成分是 homochlorcyclizine、「止敏糖衣錠」主成分是 chlorcyclizine，都是與 cyclizine 不同的成分，其過敏適應症不是 cyclizine 的核准適應症；台灣現行 cyclizine 單方許可證只有「旅暈平錠」（動暈症）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cyclizine-tw-license-other-ingredients-2026-10-03 -->
 
 ### 複方製劑
 
@@ -180,6 +204,21 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 *本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
 
 *最後更新：2026-02-11*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 原核准適應症混入其他成分與已註銷複方的適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 主要製劑表列入 homochlorcyclizine、chlorcyclizine 製劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 對照表「已核准 (蕁麻疹)」「已核准 (偏頭痛)」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1](https://www.medicines.org.uk/emc/product/4318/smpc) |
+| 2026-10-03 | 蕁麻疹、鼻腔疾病、頭痛預測標記待重審 | 標記待重審 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

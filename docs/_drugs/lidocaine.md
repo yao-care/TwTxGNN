@@ -49,6 +49,12 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 | 許可證數 | 20 張 |
 | 建議決策 | Hold |
 
+<!-- review:begin lidocaine-original-indication-epinephrine-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此為已註銷（2010-02-08）的 lidocaine＋epinephrine 複方注射液許可證（內衛藥製字第016167號）的適應症，「牙科」是該複方的用途範圍；lidocaine 單方注射液（例如內衛藥製字第010383號）核准的是局部麻醉。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end lidocaine-original-indication-epinephrine-combo-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Lidocaine 是局部麻醉劑的一部分，
@@ -92,6 +98,19 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (punctate epithelial ke
 **若要推進需要：**
 - 進一步的臨床試驗以評估 Lidocaine 在眼科適應症中的有效性和安全性
 - 詳細的藥物作用機轉資料（MOA）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 「原適應症」寫牙科麻醉 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。
