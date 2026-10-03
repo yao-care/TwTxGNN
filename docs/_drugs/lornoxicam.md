@@ -62,7 +62,13 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 2. **類風濕性關節炎應用**：
    - NSAIDs 是類風濕性關節炎症狀控制的基礎用藥
    - Lornoxicam 的抗發炎與止痛效果適用於關節炎疼痛管理
-   - 相較其他 oxicam 類藥物，其半衰期較短 (3-5 小時)，可能減少副作用累積
+   - 相較其他 oxicam 類藥物，其半衰期較短 (3-4 小時)，可能減少副作用累積
+
+<!-- review:begin lornoxicam-half-life-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「其半衰期較短 (3-5 小時)」。Lornoxicam 仿單載明原形藥平均排除半衰期為 3 至 4 小時。依據：[HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf)。
+
+<!-- review:end lornoxicam-half-life-2026-10-03 -->
 
 3. **偏頭痛應用**：
    - 前列腺素在偏頭痛發病機轉中扮演重要角色
@@ -231,6 +237,18 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 *本筆記由 TxGNN 老藥新用預測系統生成，僅供研究參考，不構成醫療建議。*
 
 *生成日期：2026-02-11*
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 半衰期寫 3-5 小時 | 更正 | [HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

@@ -57,6 +57,12 @@ TxGNN 模型預測它可能對**糖尿病腎病 (Diabetic Nephropathy)** 有效�
 
 目前缺乏詳細的作用機轉資料（MOA 為 Data Gap）。根據現有研究資訊，Hymecromone 又稱 4-methylumbelliferone（4-MU），為香豆素衍生物。其代謝產物 4-methylumbelliferyl glucuronide（4-MUG）可耗竭 UDP-葡萄糖醛酸（UDP-glucuronic acid），進而抑制透明質酸（hyaluronan, HA）的生合成。
 
+<!-- review:begin hymecromone-udpgla-depletion-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：文獻描述的是 4-MU 本身被 UGT 接上葡萄糖醛酸、在這個過程中消耗 UDP-葡萄糖醛酸而抑制透明質酸合成；4-MUG 是反應產物，不是去耗竭 UDP-葡萄糖醛酸的物質。原文保留。依據：[Nagy N, et al. 4-methylumbelliferone treatment and hyaluronan inhibition as a therapeutic strategy in inflammation, autoimmunity, and cancer. Front Immunol. 2015;6:123（Europe PMC 全文，PMC4369655）](https://europepmc.org/article/PMC/PMC4369655)。
+
+<!-- review:end hymecromone-udpgla-depletion-2026-10-03 -->
+
 在糖尿病腎病的病理機轉中，透明質酸於腎小管間質大量積聚，促進纖維化與慢性炎症反應，加劇腎臟功能惡化。理論上，Hymecromone 透過抑制透明質酸合成，或可緩解腎臟纖維化與炎症，提供腎臟保護效果。
 
 然而，**此關聯目前僅為機轉推論，無任何臨床或前臨床研究直接支持**。值得注意的是，本次預測排名第 8 的 **1 型糖尿病（Type 1 Diabetes Mellitus）**具有更明確的前臨床機轉基礎——已有 3 篇動物研究顯示抑制透明質酸合成可恢復胰島炎模型的免疫耐受性，證據等級達 L4，可作為後續研究的優先探索方向。
@@ -115,6 +121,19 @@ TxGNN 預測分數雖高達 99.85%，但糖尿病腎病適應症目前完全缺�
 - 建立糖尿病腎病動物模型的前臨床研究（測試 4-MU 對腎小管纖維化的影響）
 - 優先評估機轉基礎更明確的 **1 型糖尿病（Rank 8，L4 等級）**——已有動物研究支持，可作為更可行的切入點
 - 補全安全性資料（警語、禁忌症），為後續人體試驗設計提供依據
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 說代謝物 4-MUG 耗竭 UDP-葡萄糖醛酸 | 加註 | [Nagy N, et al. 4-methylumbelliferone treatment and hyaluronan inhibition as a therapeutic strategy in inflammation, autoimmunity, and cancer. Front Immunol. 2015;6:123（Europe PMC 全文，PMC4369655）](https://europepmc.org/article/PMC/PMC4369655) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

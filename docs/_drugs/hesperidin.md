@@ -43,13 +43,19 @@ TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neopla
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 增強毛細血管 |
+| 原適應症 | 強化血管、末梢血管強化劑（hesperidin 單方許可證，皆已註銷，如衛署藥輸字第013726號）；現行有效許可證均為含 hesperidin 的複方（綜合感冒藥等） |
 | 預測新適應症 | 骨髓增生性腫瘤 (Myeloproliferative Neoplasm) |
 | TxGNN 預測分數 | 99.47% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 74 張（有效單方 0／有效複方 10／已註銷 64） |
 | 建議決策 | Hold |
+
+<!-- review:begin hesperidin-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／增強毛細血管」。「增強毛細血管」出自 methyl hesperidin、troxerutin 的已註銷許可證；hesperidin 單方許可證曾載「強化血管」「末梢血管強化劑」，但已全部註銷，現行有效許可證都是複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hesperidin-original-indication-2026-10-03 -->
 
 ---
 
@@ -137,6 +143,7 @@ TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neopla
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表 5 張全數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症「增強毛細血管」取自其他成分 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

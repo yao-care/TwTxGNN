@@ -43,13 +43,19 @@ TxGNN 模型預測它可能對**漿細胞骨髓瘤 (Plasma Cell Myeloma)** 有�
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 慢性淋巴球性白血病（CLL）、濾泡性淋巴瘤 |
+| 原適應症 | B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL；限烷化基藥劑治療無效或惡化者）（衛署藥輸字第022732號） |
 | 預測新適應症 | 漿細胞骨髓瘤 (Plasma Cell Myeloma) |
 | TxGNN 預測分數 | 99.82% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 3 張（有效單方 1／有效複方 0／已註銷 2） |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin fludarabine-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／慢性淋巴球性白血病（CLL）、濾泡性淋巴瘤」。台灣現行 fludarabine 許可證的適應症是 B 細胞慢性淋巴性白血病（CLL）與低惡性度非何杰金氏淋巴瘤（LG-NHL），未寫濾泡性淋巴瘤；已改為許可證寫法。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fludarabine-original-indication-2026-10-03 -->
 
 ---
 
@@ -169,6 +175,7 @@ Fludarabine 在漿細胞骨髓瘤有直接的體外抗腫瘤證據（PMID 179761
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「癌即瓦注射劑」「瑞樂靶注射劑」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症寫濾泡性淋巴瘤 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

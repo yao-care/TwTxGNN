@@ -975,7 +975,11 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 
 - 兩支生成腳本結尾會自動重套；其他會改寫藥物頁的腳本跑完後，手動跑 `python3 scripts/apply_drug_reviews.py`。
 - `python3 scripts/check_seo_docs.py` 會擋下「紀錄沒套在頁面上」的情況。
-- 原則：基本藥理事實照仿單或許可證更正；模型預測、證據等級、結論一律不改寫，只加註。之後補的藥沿用同一份 JSON。
+- 原則：基本藥理事實照仿單或許可證更正；模型預測原文一律不刪不改寫，只加註；證據等級與決策只能經下方重審機制變更。之後補的藥沿用同一份 JSON。
+- 重審（2026-10-03 起）：「待重審」的預測依 `docs/methodology.md` 的 L1–L5 定義重審（扣掉錯誤前提看剩餘理由；PubMed、ClinicalTrials.gov 正反證據都查，查無結果的查詢記在 `searches`），結論寫成 `action: rereview_result`，用 `resolves` 指回原 rereview（原紀錄改標 `status: rereviewed` 保留）。頁面上「待重審」框原位換成「重審結果」框（維持／降級／撤回、原等級→新等級、理由、文獻）。只有降級或撤回才用 `table_updates` 改頁面上該適應症的等級／決策儲存格，原值留在紀錄並列在查核紀錄表。
+- 頁首等級：有 `rereview_result` 的頁，`apply_drug_reviews.py` 依快速總覽「證據等級」列重算 front matter `evidence_level`、`parent` 與頁首「證據等級」列（產線規則：取該列最高等級；`sync_notes_to_docs.py`／`build_docs.py` 的解析式只認純值儲存格，帶說明文字就落到預設 L5，其他頁也有同樣不一致，未動）。
+- 同 id 重發的紀錄：前版整筆存進該筆的 `history`（`retired`、`reason`），不覆蓋丟棄；頁面停在前版更正文字時，套用會把它換成新版。
+- 待查清單 `docs/_data/drug_reviews_uncertain.json` 的項目不刪：查清標 `status: resolved`（附 `record_ids`），查不出定論標 `status: unresolvable`（附 `searched`、`unresolvable_reason`）。
 
 ## 藥物頁許可證表與張數：程式產生（2026-10-03 起）
 

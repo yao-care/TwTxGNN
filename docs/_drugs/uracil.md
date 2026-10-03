@@ -33,7 +33,13 @@ indication_count: 10
 
 ## 一句話總結
 
-Uracil 在台灣以口服粉劑形式登記用於甲狀腺機能亢進症，同時也是 UFT（tegafur-uracil）複方的關鍵成分，透過抑制 DPD 酶來強化 5-FU 的抗腫瘤效果。TxGNN 模型預測它可能對**大腸腫瘤（Colonic Neoplasm）**有效，這項預測有堅實的生物學機轉支持。目前有多達 **50 個臨床試驗**及 **20 篇文獻**佐證氟嘧啶類藥物在大腸腫瘤的療效，其中包含多項直接評估 UFT 用於大腸癌術後輔助化療的 Phase 3 RCT。
+Uracil 在台灣的單方許可證是原料藥（適應症「抗惡性腫瘤劑」），同時也是 UFT（tegafur-uracil）複方的關鍵成分，透過抑制 DPD 酶來強化 5-FU 的抗腫瘤效果。TxGNN 模型預測它可能對**大腸腫瘤（Colonic Neoplasm）**有效，這項預測有堅實的生物學機轉支持。目前有多達 **50 個臨床試驗**及 **20 篇文獻**佐證氟嘧啶類藥物在大腸腫瘤的療效，其中包含多項直接評估 UFT 用於大腸癌術後輔助化療的 Phase 3 RCT。
+
+<!-- review:begin uracil-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Uracil 在台灣以口服粉劑形式登記用於甲狀腺機能亢進症，同時也是」。甲狀腺機能亢進症屬於已註銷的 methylthiouracil 許可證；現行 uracil 單方許可證是原料藥，適應症為抗惡性腫瘤劑。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end uracil-summary-indication-2026-10-03 -->
 
 ---
 
@@ -41,7 +47,7 @@ Uracil 在台灣以口服粉劑形式登記用於甲狀腺機能亢進症，同�
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 甲狀腺機能亢進症 |
+| 原適應症 | 抗惡性腫瘤劑（單方原料藥，如衛部藥製字第060268號）；與 tegafur 組成複方膠囊（UFT），用於胃癌、大腸癌、乳癌等（如衛署藥輸字第023484號） |
 | 預測新適應症 | 大腸腫瘤（Colonic Neoplasm） |
 | TxGNN 預測分數 | 99.50% |
 | 證據等級 | L1 |
@@ -51,7 +57,7 @@ Uracil 在台灣以口服粉劑形式登記用於甲狀腺機能亢進症，同�
 
 <!-- review:begin uracil-original-indication-methylthiouracil-2026-10-03 -->
 
-> **查核加註（2026-10-03）**：此適應症出自 內衛藥輸字第001118號「甲基硫克由拉西」，主成分是 methylthiouracil（抗甲狀腺藥），不是 uracil 本身的作用；該證已於 1986-03-15 註銷。Uracil 在台灣現行許可證中是 tegafur-uracil 複方（如優富多膠囊）的成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「原適應症／甲狀腺機能亢進症」。原寫的甲狀腺機能亢進症出自 內衛藥輸字第001118號「甲基硫克由拉西」，主成分是 methylthiouracil（抗甲狀腺藥），不是 uracil，該證已於 1986-03-15 註銷。現行 uracil 單方許可證是原料藥，適應症「抗惡性腫瘤劑」；另為 tegafur-uracil 複方膠囊的成分。已改為許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end uracil-original-indication-methylthiouracil-2026-10-03 -->
 
@@ -174,9 +180,10 @@ Uracil 在台灣以口服粉劑形式登記用於甲狀腺機能亢進症，同�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症」寫甲狀腺機能亢進症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」寫甲狀腺機能亢進症 | 更正（2026-10-03 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表把 trastuzumab（曲斯若）列為含 uracil 製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表把 trastuzumab（曲斯若）列為含 uracil 製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 一句話總結說 uracil 在台灣登記用於甲狀腺機能亢進症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

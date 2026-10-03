@@ -1,6 +1,6 @@
 {
- "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落）。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論、證據等級、結論一律不改寫，只加註。之後補的藥沿用本檔。",
- "schema_version": 1,
+ "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級或撤回時更新，原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。",
+ "schema_version": 2,
  "records": [
   {
    "id": "nystatin-original-indication-combo-2026-10-03",
@@ -139,7 +139,7 @@
    "section": "快速總覽「預測新適應症」",
    "summary": "偏頭痛預測標記待重審",
    "prediction": "偏頭痛 (Migraine Disorder)",
-   "status": "pending_rereview",
+   "status": "rereviewed",
    "claim": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
    "finding": "偏頭痛這筆預測的機轉理由（5-HT1B/1D、經 α 受體抑制三叉神經源性炎症）與仿單所載受體作用不符，需重審；證據等級（L3）、文獻與決策暫不更動。",
    "note": "偏頭痛這筆預測的機轉理由前提與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。",
@@ -150,7 +150,8 @@
      "excerpt": "Ergometrine produces sustained tonic uterine contraction via agonist or partial agonist effects at myometrial 5-HT2 receptors and alpha-adrenergic receptors.",
      "accessed": "2026-10-03"
     }
-   ]
+   ],
+   "resolved_by": "ergometrine-migraine-rereview-result-2026-10-03"
   },
   {
    "id": "methocarbamol-moa-2026-10-03",
@@ -507,23 +508,60 @@
    "section": "快速總覽「原核准適應症」",
    "summary": "原核准適應症列入「慢性淋巴球性白血病 (CLL)」",
    "claim": "| 原核准適應症 | 急性骨髓性白血病 (AML)、慢性淋巴球性白血病 (CLL)、與其他藥物併用 |",
-   "finding": "仿單核准的是急性非淋巴球性（骨髓性）白血病緩解誘導，並用於急性淋巴球性白血病、慢性骨髓性白血病急性轉化期與腦膜白血病（鞘內）；不含 CLL。台灣現行許可證寫「急性顆粒白血病及其他急性白血病」「抗腫瘤劑」。",
-   "note": "Cytarabine 仿單的核准用途是急性非淋巴球性（骨髓性）白血病，並用於急性淋巴球性白血病、慢性骨髓性白血病急性轉化期與腦膜白血病（鞘內），不含慢性淋巴球性白血病；台灣現行許可證寫「急性顆粒白血病及其他急性白血病」。",
+   "finding": "TFDA 許可證資料集中 cytarabine 現行有效單方許可證 3 張：衛署藥輸字第001879號「賽德薩注射劑500毫克」適應症「急性顆粒白血病及其他急性白血病」，衛署藥輸字第025603號「思得靈注射液」與衛部藥輸字第028975號「阿糖胞苷」適應症「抗腫瘤劑」。頁面原寫的慢性淋巴球性白血病（CLL）不在任何一張的適應症內；先前依美國仿單改寫的 ALL、CML 急性轉化期、腦膜白血病等字樣也不是台灣許可證寫法，改以台灣許可證原文為準。",
+   "note": "台灣現行 cytarabine 單方許可證的適應症為「急性顆粒白血病及其他急性白血病」（衛署藥輸字第001879號）與「抗腫瘤劑」（衛署藥輸字第025603號、衛部藥輸字第028975號），不含慢性淋巴球性白血病；已改為台灣許可證原文。",
    "sources": [
     {
-     "title": "DailyMed：Cytarabine Injection 仿單（Fresenius Kabi）",
-     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c4fdc56e-efd7-4825-a518-ef430b2b3df0",
-     "excerpt": "Cytarabine Injection in combination with other approved anti-cancer drugs is indicated for remission induction in acute non-lymphocytic leukemia of adults and pediatric patients. It has also been found useful in the treatment of acute lymphocytic leukemia and the blast phase of chronic myelocytic leukemia. Intrathecal administration of Cytarabine Injection (preservative free preparations only) is indicated in the prophylaxis and treatment of meningeal leukemia.",
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第001879號｜中文品名 賽德薩注射劑500毫克｜英文品名 CYTOSAR FREEZE-DRIED POWDER FOR INJECTION 500MG｜主成分略述 CYTARABINE｜適應症 急性顆粒白血病及其他急性白血病｜有效日期 2028/12/04",
      "accessed": "2026-10-03"
     },
     {
-     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "衛署藥輸字第001879號｜賽德薩注射劑500毫克｜主成分 CYTARABINE｜適應症 急性顆粒白血病及其他急性白血病｜狀態 有效｜有效日期 2028/12/04｜申請商 輝瑞大藥廠股份有限公司；衛署藥輸字第025603號｜思得靈注射液｜主成分 CYTARABINE｜適應症 抗腫瘤劑。｜狀態 有效｜有效日期 2027/01/11｜申請商 台灣費森尤斯卡比股份有限公司",
+     "excerpt": "許可證字號 衛署藥輸字第025603號｜中文品名 思得靈注射液｜英文品名 Cytarine Injection｜主成分略述 CYTARABINE｜適應症 抗腫瘤劑。｜有效日期 2027/01/11",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥輸字第028975號｜中文品名 阿糖胞苷｜英文品名 Cytarabine｜主成分略述 None｜適應症 抗腫瘤劑。｜有效日期 2030/06/16",
      "accessed": "2026-10-03"
     }
    ],
-   "replacement": "| 原核准適應症 | 急性骨髓性白血病 (AML)、急性淋巴球性白血病 (ALL)、慢性骨髓性白血病急性轉化期、腦膜白血病（鞘內），多與其他藥物併用 |"
+   "replacement": "| 原核准適應症 | 急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、衛部藥輸字第028975號） |",
+   "history": [
+    {
+     "id": "cytarabine-original-indication-cll-2026-10-03",
+     "drug": "cytarabine",
+     "file": "cytarabine.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「原核准適應症」",
+     "summary": "原核准適應症列入「慢性淋巴球性白血病 (CLL)」",
+     "claim": "| 原核准適應症 | 急性骨髓性白血病 (AML)、慢性淋巴球性白血病 (CLL)、與其他藥物併用 |",
+     "finding": "仿單核准的是急性非淋巴球性（骨髓性）白血病緩解誘導，並用於急性淋巴球性白血病、慢性骨髓性白血病急性轉化期與腦膜白血病（鞘內）；不含 CLL。台灣現行許可證寫「急性顆粒白血病及其他急性白血病」「抗腫瘤劑」。",
+     "note": "Cytarabine 仿單的核准用途是急性非淋巴球性（骨髓性）白血病，並用於急性淋巴球性白血病、慢性骨髓性白血病急性轉化期與腦膜白血病（鞘內），不含慢性淋巴球性白血病；台灣現行許可證寫「急性顆粒白血病及其他急性白血病」。",
+     "sources": [
+      {
+       "title": "DailyMed：Cytarabine Injection 仿單（Fresenius Kabi）",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c4fdc56e-efd7-4825-a518-ef430b2b3df0",
+       "excerpt": "Cytarabine Injection in combination with other approved anti-cancer drugs is indicated for remission induction in acute non-lymphocytic leukemia of adults and pediatric patients. It has also been found useful in the treatment of acute lymphocytic leukemia and the blast phase of chronic myelocytic leukemia. Intrathecal administration of Cytarabine Injection (preservative free preparations only) is indicated in the prophylaxis and treatment of meningeal leukemia.",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "衛署藥輸字第001879號｜賽德薩注射劑500毫克｜主成分 CYTARABINE｜適應症 急性顆粒白血病及其他急性白血病｜狀態 有效｜有效日期 2028/12/04｜申請商 輝瑞大藥廠股份有限公司；衛署藥輸字第025603號｜思得靈注射液｜主成分 CYTARABINE｜適應症 抗腫瘤劑。｜狀態 有效｜有效日期 2027/01/11｜申請商 台灣費森尤斯卡比股份有限公司",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "replacement": "| 原核准適應症 | 急性骨髓性白血病 (AML)、急性淋巴球性白血病 (ALL)、慢性骨髓性白血病急性轉化期、腦膜白血病（鞘內），多與其他藥物併用 |",
+     "retired": "2026-10-03",
+     "reason": "待查清單複查（2026-10-03）：改依台灣 TFDA 許可證原文重發；前版 action=correct，頁面上曾顯示前版更正文字"
+    }
+   ]
   },
   {
    "id": "cytarabine-venetoclax-row-2026-10-03",
@@ -1064,7 +1102,7 @@
    "summary": "子癇前症預測標記待重審",
    "claim": "| 預測新適應症 | 子癇前症 (preeclampsia) |",
    "prediction": "子癇前症 (preeclampsia)",
-   "status": "pending_rereview",
+   "status": "rereviewed",
    "finding": "子癇前症這筆預測的理由之一是 atracurium「不引起組織胺釋放相關的血壓波動」，與仿單所載（會釋放組織胺，高劑量時可見明顯血壓下降）不符，需重審；證據等級（L3）、文獻與決策暫不更動。",
    "note": "子癇前症這筆預測的理由之一（不釋放組織胺、血流動力學穩定）與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。",
    "sources": [
@@ -1074,7 +1112,8 @@
      "excerpt": "Atracurium is a less potent histamine releaser than d-tubocurarine or metocurine. Histamine release is minimal with initial atracurium besylate doses up to 0.5 mg/kg, and hemodynamic changes are minimal within the recommended dose range. A moderate histamine release and significant falls in blood pressure have been seen following 0.6 mg/kg of atracurium besylate.",
      "accessed": "2026-10-03"
     }
-   ]
+   ],
+   "resolved_by": "atracurium-preeclampsia-rereview-result-2026-10-03"
   },
   {
    "id": "atracurium-license-rows-cisatracurium-2026-10-03",
@@ -1174,7 +1213,7 @@
    "summary": "同合子家族性高膽固醇血症預測標記待重審",
    "claim": "| 預測新適應症 | 同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia) |",
    "prediction": "同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)",
-   "status": "pending_rereview",
+   "status": "rereviewed",
    "finding": "HoFH 這筆預測的首要理由「非 LDL 受體依賴機制」與仿單所載機轉（經由上調 LDL 受體降低 LDL-C）不符，需重審；證據等級（L3）、文獻與決策暫不更動。",
    "note": "HoFH 這筆預測的首要理由（非 LDL 受體依賴）與仿單所載機轉不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。",
    "sources": [
@@ -1184,7 +1223,8 @@
      "excerpt": "Bempedoic acid and its active metabolite, ESP15228, require coenzyme A (CoA) activation by very long-chain acyl-CoA synthetase 1 (ACSVL1) to ETC-1002-CoA and ESP15228-CoA, respectively. ACSVL1 is expressed primarily in the liver. Inhibition of ACL by ETC-1002-CoA results in decreased cholesterol synthesis in the liver and lowers LDL-C in blood via upregulation of low-density lipoprotein receptors.",
      "accessed": "2026-10-03"
     }
-   ]
+   ],
+   "resolved_by": "bempedoic-acid-hofh-rereview-result-2026-10-03"
   },
   {
    "id": "benazepril-license-025881-prefix-2026-10-03",
@@ -1362,7 +1402,7 @@
    "summary": "會厭腫瘤預測標記待重審",
    "claim": "| 預測新適應症 | 會厭腫瘤 (epiglottis neoplasm) |",
    "prediction": "會厭腫瘤 (epiglottis neoplasm)",
-   "status": "pending_rereview",
+   "status": "rereviewed",
    "finding": "會厭腫瘤這筆預測的主要理由「bevacizumab 已核准用於頭頸部鱗狀細胞癌」與仿單、許可證不符，需重審；證據等級（L5）與建議暫不更動。",
    "note": "會厭腫瘤這筆預測的主要理由（已核准用於頭頸部鱗狀細胞癌）與仿單及台灣許可證不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級與建議在重審完成前不更動。",
    "sources": [
@@ -1378,7 +1418,8 @@
      "excerpt": "衛署菌疫輸字第000807號｜癌思停 注射劑｜AVASTIN INJECTION｜主成分 BEVACIZUMAB｜狀態 有效｜有效日期 2030/05/24｜申請商 羅氏大藥廠股份有限公司；衛部菌疫輸字第001117號｜艾法施注射液｜MVASI Solution for Injection｜主成分 BEVACIZUMAB｜狀態 有效｜有效日期 2029/12/17｜申請商 台灣安進藥品有限公司 ；衛部菌疫輸字第001156號｜癌畢弭 注射劑｜ABEVMY｜主成分 BEVACIZUMAB｜狀態 有效｜有效日期 2031/06/29｜申請商 台灣生資科技股份有限公司；衛部菌疫輸字第001185號｜艾麥思注射劑｜Alymsys concentrate for solution for Infusion｜主成分 BEVACIZUMAB｜狀態 有效｜有效日期 2032/01/14｜申請商 美時化學製藥股份有限公司；衛部菌疫輸字第001245號｜衛癌瑪注射液｜Vegzelma concentrate for solution for infusion｜主成分 BEVACIZUMAB｜狀態 有效｜有效日期 2029/01/09｜申請商 台灣賽特瑞恩有限公司（5 張有效許可證的適應症欄皆無頭頸部癌）",
      "accessed": "2026-10-03"
     }
-   ]
+   ],
+   "resolved_by": "bevacizumab-epiglottis-rereview-result-2026-10-03"
   },
   {
    "id": "bevacizumab-vegzelma-name-holder-2026-10-03",
@@ -1516,18 +1557,55 @@
    "drug": "camphor",
    "file": "camphor.md",
    "checked": "2026-10-03",
-   "action": "annotate",
+   "action": "correct",
    "section": "快速總覽「原適應症」",
    "summary": "「原適應症」為已註銷 oxocamphor 注射劑的適應症",
    "claim": "| 原適應症 | 心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息 |",
    "finding": "快速總覽「原適應症」與一句話總結引用的「心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息」來自內衛藥製字第007950號「康心針」（LITA-CAMPHOR INJECTION），其主成分是 trans-oxocamphor，不是 camphor；同類的「心得康針」（trans-oxocamphor）、「氧樟腦精」（10-oxo-camphor）也是 oxocamphor，三張證都已於 1988 年註銷。表中「\"明通\"申藥」（camphor＋capsicum tincture）與「靈芝濟眾水」（capsicum、cinnamon、camphor spirit）是複方，後者已於 2023-08-08 註銷。",
-   "note": "這段適應症來自「康心針」（內衛藥製字第007950號），TFDA 登載的主成分是 trans-oxocamphor（氧樟腦），不是 camphor，且該證已於 1988-07-19 註銷。原文保留。",
+   "note": "原寫內容來自「康心針」（內衛藥製字第007950號），TFDA 登載的主成分是 trans-oxocamphor（氧樟腦），不是 camphor，且該證已於 1988-07-19 註銷。已改為現行有效 camphor 單方許可證（2 張外用軟膏／乳膏）的適應症原文。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "內衛藥製字第007950號｜康心針｜主成分 OXOCAMPHOR TRANS-｜適應症 心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息｜狀態 已註銷 1988/07/19｜有效日期 1985/12/31｜申請商 利達製藥股份有限公司；內衛藥製字第001881號｜心得康針｜主成分 OXOCAMPHOR TRANS-｜適應症 急性心臟衰弱、一般心臟疾患、血行障害、急性虛脫狀態、呼吸困難｜狀態 已註銷 1988/07/19｜有效日期 1985/12/31｜申請商 信東化學工業股份有限公司；內衛藥輸字第003716號｜氧樟腦精｜主成分 10-OXO-CAMPHOR｜適應症 急性心臟衰弱、呼吸困難｜狀態 已註銷 1988/09/05｜有效日期 1985/06/22｜申請商 正豐貿易股份有限公司；內衛成製字第001341號｜\"明通\"申藥｜主成分 CAMPHOR;;CAPSICUM TINCTURE｜適應症 中暑引起之眩暈、嘔吐｜狀態 有效｜有效日期 2029/05/25｜申請商 明通化學製藥股份有限公司第二廠；內衛成製字第003078號｜靈芝濟眾水｜主成分 CAPSICUM TINCTURE;;CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK);;CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK);;CAMPHOR SPIRIT｜適應症 噁心、嘔吐、肚瀉｜狀態 已註銷 2023/08/08｜有效日期 2024/05/25｜申請商 靈芝山藥品有限公司",
      "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署成製字第003013號｜中文品名 “艾力特”膚得樂軟膏｜英文品名 FUDERLEH OINTMENT \"ELT\"｜主成分略述 DL-CAMPHOR ｜適應症 燙傷、刀傷、昆蟲咬傷、一般外傷｜有效日期 2030/05/25",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署成製字第013693號｜中文品名 允消健膚樂乳膏｜英文品名 WINSOLVE SKINER CREAM｜主成分略述 CAMPHOR POWDER｜適應症 切傷、刀傷、創傷、火傷、蟲咬傷、頭暈。｜有效日期 2030/05/25",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 原適應症 | 燙傷、刀傷、昆蟲咬傷、一般外傷（衛署成製字第003013號）；切傷、刀傷、創傷、火傷、蟲咬傷、頭暈（衛署成製字第013693號） |",
+   "history": [
+    {
+     "id": "camphor-original-indication-oxocamphor-2026-10-03",
+     "drug": "camphor",
+     "file": "camphor.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "快速總覽「原適應症」",
+     "summary": "「原適應症」為已註銷 oxocamphor 注射劑的適應症",
+     "claim": "| 原適應症 | 心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息 |",
+     "finding": "快速總覽「原適應症」與一句話總結引用的「心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息」來自內衛藥製字第007950號「康心針」（LITA-CAMPHOR INJECTION），其主成分是 trans-oxocamphor，不是 camphor；同類的「心得康針」（trans-oxocamphor）、「氧樟腦精」（10-oxo-camphor）也是 oxocamphor，三張證都已於 1988 年註銷。表中「\"明通\"申藥」（camphor＋capsicum tincture）與「靈芝濟眾水」（capsicum、cinnamon、camphor spirit）是複方，後者已於 2023-08-08 註銷。",
+     "note": "這段適應症來自「康心針」（內衛藥製字第007950號），TFDA 登載的主成分是 trans-oxocamphor（氧樟腦），不是 camphor，且該證已於 1988-07-19 註銷。原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "內衛藥製字第007950號｜康心針｜主成分 OXOCAMPHOR TRANS-｜適應症 心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息｜狀態 已註銷 1988/07/19｜有效日期 1985/12/31｜申請商 利達製藥股份有限公司；內衛藥製字第001881號｜心得康針｜主成分 OXOCAMPHOR TRANS-｜適應症 急性心臟衰弱、一般心臟疾患、血行障害、急性虛脫狀態、呼吸困難｜狀態 已註銷 1988/07/19｜有效日期 1985/12/31｜申請商 信東化學工業股份有限公司；內衛藥輸字第003716號｜氧樟腦精｜主成分 10-OXO-CAMPHOR｜適應症 急性心臟衰弱、呼吸困難｜狀態 已註銷 1988/09/05｜有效日期 1985/06/22｜申請商 正豐貿易股份有限公司；內衛成製字第001341號｜\"明通\"申藥｜主成分 CAMPHOR;;CAPSICUM TINCTURE｜適應症 中暑引起之眩暈、嘔吐｜狀態 有效｜有效日期 2029/05/25｜申請商 明通化學製藥股份有限公司第二廠；內衛成製字第003078號｜靈芝濟眾水｜主成分 CAPSICUM TINCTURE;;CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK);;CINNAMON (CINNAMON CORTEX ) (CINNAMON BARK);;CAMPHOR SPIRIT｜適應症 噁心、嘔吐、肚瀉｜狀態 已註銷 2023/08/08｜有效日期 2024/05/25｜申請商 靈芝山藥品有限公司",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-03",
+     "reason": "待查清單複查（2026-10-03）：改依台灣 TFDA 許可證原文重發；前版 action=annotate"
     }
    ]
   },
@@ -2184,15 +2262,40 @@
    "section": "快速總覽「原核准適應症」",
    "summary": "原核准適應症混入其他成分與已註銷複方的適應症",
    "claim": "| 原核准適應症 | 暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛 |",
-   "replacement": "| 原核准適應症 | 暈動症（預防或緩解暈車、暈船、暈機引起之頭暈、噁心、嘔吐、頭痛等症狀） |",
+   "replacement": "| 原核准適應症 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀（衛署藥製字第002658號） |",
    "finding": "TFDA 許可證資料中，主成分為 cyclizine 的現行有效許可證只有衛署藥製字第002658號「旅暈平錠」，適應症為預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。過敏性皮膚炎、濕疹、支氣管氣喘來自「赫敏錠」（homochlorcyclizine）、過敏性鼻炎與搔癢來自「止敏糖衣錠」（chlorcyclizine），兩者是不同成分；偏頭痛來自 ergotamine＋caffeine＋cyclizine 複方「邁克寧錠」，已於 2010-05-31 註銷。",
-   "note": "台灣現行 cyclizine 單方許可證（旅暈平錠）的核准適應症只有動暈症；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。",
+   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），適應症為「預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀」；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。已改為許可證原文。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜英文品名 LIUMPIN TABLETS｜主成分略述 CYCLIZINE HCL｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/25 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜英文品名 HOMOMIN TABLETS 10MG \"Y.Y.\"(HOMOCHLORCYCLIZINE)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜英文品名 ZIMIN S.C. TABLETS (CHLORCYCLIZINE) \"NCP\"｜主成分略述 CHLORCYCLIZINE HCL｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥輸字第011158號｜中文品名 邁克寧錠｜主成分略述 CYCLIZINE HCL;;CAFFEINE (HYDRATE);;ERGOTAMINE TARTRATE｜適應症 偏頭痛及因偏頭痛所引起之噁心、嘔吐、頭暈等症狀之緩解｜註銷狀態 已註銷｜註銷日期 2010/05/31",
      "accessed": "2026-10-03"
+    }
+   ],
+   "history": [
+    {
+     "id": "cyclizine-original-indication-2026-10-03",
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「原核准適應症」",
+     "summary": "原核准適應症混入其他成分與已註銷複方的適應症",
+     "claim": "| 原核准適應症 | 暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛 |",
+     "replacement": "| 原核准適應症 | 暈動症（預防或緩解暈車、暈船、暈機引起之頭暈、噁心、嘔吐、頭痛等症狀） |",
+     "finding": "TFDA 許可證資料中，主成分為 cyclizine 的現行有效許可證只有衛署藥製字第002658號「旅暈平錠」，適應症為預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。過敏性皮膚炎、濕疹、支氣管氣喘來自「赫敏錠」（homochlorcyclizine）、過敏性鼻炎與搔癢來自「止敏糖衣錠」（chlorcyclizine），兩者是不同成分；偏頭痛來自 ergotamine＋caffeine＋cyclizine 複方「邁克寧錠」，已於 2010-05-31 註銷。",
+     "note": "台灣現行 cyclizine 單方許可證（旅暈平錠）的核准適應症只有動暈症；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜英文品名 LIUMPIN TABLETS｜主成分略述 CYCLIZINE HCL｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/25 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜英文品名 HOMOMIN TABLETS 10MG \"Y.Y.\"(HOMOCHLORCYCLIZINE)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜英文品名 ZIMIN S.C. TABLETS (CHLORCYCLIZINE) \"NCP\"｜主成分略述 CHLORCYCLIZINE HCL｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥輸字第011158號｜中文品名 邁克寧錠｜主成分略述 CYCLIZINE HCL;;CAFFEINE (HYDRATE);;ERGOTAMINE TARTRATE｜適應症 偏頭痛及因偏頭痛所引起之噁心、嘔吐、頭暈等症狀之緩解｜註銷狀態 已註銷｜註銷日期 2010/05/31",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-03",
+     "reason": "待查清單複查（2026-10-03）：改依台灣 TFDA 許可證原文重發；前版 action=correct，頁面上曾顯示前版更正文字"
     }
    ]
   },
@@ -2254,7 +2357,7 @@
    "summary": "蕁麻疹、鼻腔疾病、頭痛預測標記待重審",
    "claim": "| 預測新適應症 | 過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患 |",
    "prediction": "過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患",
-   "status": "pending_rereview",
+   "status": "rereviewed",
    "finding": "這批預測被判為「已核准適應症的再確認」，但前提（cyclizine 已核准蕁麻疹、過敏性鼻炎、偏頭痛）與許可證資料不符，需重審；證據等級、文獻與決策暫不更動。",
    "note": "這批預測的判讀前提（cyclizine 已核准蕁麻疹、過敏性鼻炎、偏頭痛）與許可證資料不符（見上方查核更正與加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。",
    "sources": [
@@ -2264,7 +2367,8 @@
      "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜英文品名 LIUMPIN TABLETS｜主成分略述 CYCLIZINE HCL｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/25 ／ 許可證字號 衛署藥輸字第011158號｜中文品名 邁克寧錠｜主成分略述 CYCLIZINE HCL;;CAFFEINE (HYDRATE);;ERGOTAMINE TARTRATE｜適應症 偏頭痛及因偏頭痛所引起之噁心、嘔吐、頭暈等症狀之緩解｜註銷狀態 已註銷｜註銷日期 2010/05/31",
      "accessed": "2026-10-03"
     }
-   ]
+   ],
+   "resolved_by": "cyclizine-prediction-rereview-result-2026-10-03"
   },
   {
    "id": "dehydrocholic-acid-tw-license-count-2026-10-03",
@@ -3292,7 +3396,7 @@
    "summary": "女性乳腺癌預測標記待重審",
    "claim": "| 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |",
    "prediction": "女性乳腺癌 (female breast carcinoma)",
-   "status": "pending_rereview",
+   "status": "rereviewed",
    "finding": "女性乳腺癌這筆預測的推論前提（gemcitabine 已證實用於轉移性大腸直腸癌）與許可證不符，且乳癌（併用 paclitaxel）本已在台灣 gemcitabine 核准適應症內，需重審；證據等級、文獻與決策暫不更動。",
    "note": "這筆預測的推論前提與許可證不符，且乳癌（併用 paclitaxel）已是 gemcitabine 的核准適應症（見上方查核更正與加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。",
    "sources": [
@@ -3302,7 +3406,8 @@
      "excerpt": "許可證字號 衛署藥輸字第025899號｜中文品名 健仕平\"山德士\"40毫克/毫升注射劑｜英文品名 Gemcitabine Sandoz 40mg/ml Concentrate for Solution for Infusion｜主成分略述 GEMCITABINE HYDROCHLORIDE｜適應症 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用含鉑類藥物(PLATINUM-BASED)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。｜註銷狀態 （空白，未註銷）",
      "accessed": "2026-10-03"
     }
-   ]
+   ],
+   "resolved_by": "gemcitabine-breast-rereview-result-2026-10-03"
   },
   {
    "id": "glatiramer-tw-license-cancelled-2026-10-03",
@@ -3704,7 +3809,8 @@
     }
    ],
    "prediction": "多毛症 (Hypertrichosis)",
-   "status": "pending_rereview"
+   "status": "rereviewed",
+   "resolved_by": "isosorbide-mononitrate-hypertrichosis-rereview-result-2026-10-03"
   },
   {
    "id": "lactic-acid-summary-oral-uses-2026-10-03",
@@ -4026,7 +4132,8 @@
     }
    ],
    "prediction": "禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹",
-   "status": "pending_rereview"
+   "status": "rereviewed",
+   "resolved_by": "milrinone-alopecia-rereview-result-2026-10-03"
   },
   {
    "id": "mycophenolate-basiliximab-row-2026-10-03",
@@ -4623,18 +4730,61 @@
    "drug": "prednisone",
    "file": "prednisone.md",
    "checked": "2026-10-03",
-   "action": "annotate",
+   "action": "correct",
    "section": "快速總覽「原適應症」",
    "summary": "「原適應症」混入 methylprednisolone 等其他成分的許可證",
    "claim": "| 原適應症 | 風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患 |",
    "finding": "「急性病症（氣喘、休克…）」的字樣來自主成分登載為 METHYLPREDNISONE 6-ALPHA (SODIUM HEMISUCCINATE) 的「歐巴生針劑２０公絲」（內衛藥輸字第003633號，已於 1985 註銷），不是 prednisone；「風濕性關節炎」字樣亦見於主成分為 PREDNISOLONE 的已註銷許可證（內衛藥輸字第005124號）。Prednisone 單方許可證所載為類風濕關節炎（樂多特緩釋錠，已註銷）與濕疹、過敏症等。",
-   "note": "「急性病症（氣喘、休克）」的字樣來自主成分登載為 methylprednisone（甲基類固醇琥珀酸鹽）的已註銷注射劑許可證（內衛藥輸字第003633號「歐巴生針劑」），「風濕性關節炎」字樣也見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號）；兩者都不是 prednisone 的許可證。Prednisone 單方許可證所載為類風濕關節炎（衛部藥輸字第026256號「樂多特」緩釋錠，已註銷）等。原文保留。",
+   "note": "原寫的「急性病症（氣喘、休克）」來自主成分登載為 methylprednisone 的已註銷注射劑（內衛藥輸字第003633號），「風濕性關節炎」字樣來自 prednisolone 的已註銷許可證（內衛藥輸字第005124號），都不是 prednisone 的許可證。Prednisone 單方許可證已全部註銷（曾載濕疹、過敏症、類風濕關節炎）；現行唯一有效許可證是與 crotamiton 的複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。已改為許可證原文。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "內衛藥輸字第003633號｜歐巴生針劑２０公絲｜主成分 METHYLPREDNISONE 6-ALPHA (SODIUM HEMISUCCINATE)｜適應症 急性病症（氣喘、休克、虛脫、過敏性疾患）｜狀態 已註銷 1985/12/31｜有效日期 1985/06/20｜申請商 臺灣安萬特藥品股份有限公司；內衛藥輸字第005124號｜右旋去氫可体松｜主成分 PREDNISOLONE｜適應症 風溼性關節炎｜狀態 已註銷 1985/11/07｜有效日期 1985/07/14｜申請商 馥興貿易有限公司；衛部藥輸字第026256號｜樂多特1毫克緩釋錠｜主成分 PREDNISONE｜適應症 用於治療成年人中度至重度類風濕關節炎伴隨晨間僵硬症狀者。｜狀態 已註銷 2018/09/10｜有效日期 2019/08/26｜申請商 台灣萌蒂藥品有限公司",
      "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第042080號｜中文品名 育麗素軟膏｜英文品名 EURAXIL OINTMENT｜主成分略述 PREDNISONE;;CROTAMITON｜適應症 濕疹或皮膚炎｜有效日期 2029/12/31",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第001597號｜中文品名 \"普強\" 去氫可體松｜英文品名 PREDNISONE \"UPJOHN\"｜主成分略述 PREDNISONE｜適應症 濕疹、過敏症｜有效日期 2013/08/01｜註銷狀態 已註銷｜註銷日期 2016/05/31｜註銷理由 許可證已逾有效期",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥輸字第026256號｜中文品名 樂多特1毫克緩釋錠｜英文品名 LODOTRA 1mg modified-release tablets｜主成分略述 PREDNISONE｜適應症 用於治療成年人中度至重度類風濕關節炎伴隨晨間僵硬症狀者。｜有效日期 2019/08/26｜註銷狀態 已註銷｜註銷日期 2018/09/10｜註銷理由 自請註銷",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 原適應症 | 台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 prednisone＋crotamiton 複方軟膏：濕疹或皮膚炎（衛署藥製字第042080號） |",
+   "history": [
+    {
+     "id": "prednisone-original-indication-other-drugs-2026-10-03",
+     "drug": "prednisone",
+     "file": "prednisone.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "快速總覽「原適應症」",
+     "summary": "「原適應症」混入 methylprednisolone 等其他成分的許可證",
+     "claim": "| 原適應症 | 風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患 |",
+     "finding": "「急性病症（氣喘、休克…）」的字樣來自主成分登載為 METHYLPREDNISONE 6-ALPHA (SODIUM HEMISUCCINATE) 的「歐巴生針劑２０公絲」（內衛藥輸字第003633號，已於 1985 註銷），不是 prednisone；「風濕性關節炎」字樣亦見於主成分為 PREDNISOLONE 的已註銷許可證（內衛藥輸字第005124號）。Prednisone 單方許可證所載為類風濕關節炎（樂多特緩釋錠，已註銷）與濕疹、過敏症等。",
+     "note": "「急性病症（氣喘、休克）」的字樣來自主成分登載為 methylprednisone（甲基類固醇琥珀酸鹽）的已註銷注射劑許可證（內衛藥輸字第003633號「歐巴生針劑」），「風濕性關節炎」字樣也見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號）；兩者都不是 prednisone 的許可證。Prednisone 單方許可證所載為類風濕關節炎（衛部藥輸字第026256號「樂多特」緩釋錠，已註銷）等。原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "內衛藥輸字第003633號｜歐巴生針劑２０公絲｜主成分 METHYLPREDNISONE 6-ALPHA (SODIUM HEMISUCCINATE)｜適應症 急性病症（氣喘、休克、虛脫、過敏性疾患）｜狀態 已註銷 1985/12/31｜有效日期 1985/06/20｜申請商 臺灣安萬特藥品股份有限公司；內衛藥輸字第005124號｜右旋去氫可体松｜主成分 PREDNISOLONE｜適應症 風溼性關節炎｜狀態 已註銷 1985/11/07｜有效日期 1985/07/14｜申請商 馥興貿易有限公司；衛部藥輸字第026256號｜樂多特1毫克緩釋錠｜主成分 PREDNISONE｜適應症 用於治療成年人中度至重度類風濕關節炎伴隨晨間僵硬症狀者。｜狀態 已註銷 2018/09/10｜有效日期 2019/08/26｜申請商 台灣萌蒂藥品有限公司",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-03",
+     "reason": "待查清單複查（2026-10-03）：改依台灣 TFDA 許可證原文重發；前版 action=annotate"
     }
    ]
   },
@@ -6530,12 +6680,12 @@
    "drug": "uracil",
    "file": "uracil.md",
    "checked": "2026-10-03",
-   "action": "annotate",
+   "action": "correct",
    "section": "快速總覽「原適應症」",
    "summary": "「原適應症」寫甲狀腺機能亢進症",
    "claim": "| 原適應症 | 甲狀腺機能亢進症 |",
    "finding": "「原適應症：甲狀腺機能亢進症」出自 內衛藥輸字第001118號「甲基硫克由拉西」，主成分是 methylthiouracil（硫脲類抗甲狀腺藥），不是 uracil；該證已於 1986-03-15 註銷。Uracil 在台灣現行許可證中是 tegafur-uracil（UFT）複方的成分，適應症為胃癌、大腸癌等。",
-   "note": "此適應症出自 內衛藥輸字第001118號「甲基硫克由拉西」，主成分是 methylthiouracil（抗甲狀腺藥），不是 uracil 本身的作用；該證已於 1986-03-15 註銷。Uracil 在台灣現行許可證中是 tegafur-uracil 複方（如優富多膠囊）的成分。原文保留。",
+   "note": "原寫的甲狀腺機能亢進症出自 內衛藥輸字第001118號「甲基硫克由拉西」，主成分是 methylthiouracil（抗甲狀腺藥），不是 uracil，該證已於 1986-03-15 註銷。現行 uracil 單方許可證是原料藥，適應症「抗惡性腫瘤劑」；另為 tegafur-uracil 複方膠囊的成分。已改為許可證原文。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
@@ -6548,6 +6698,43 @@
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "許可證字號 衛署藥輸字第023484號｜中文品名 優富多膠囊｜英文品名 UFT CAPSULES｜主成分略述 URACIL;;TEGAFUR (FTORAFUR)｜適應症 胃癌、結腸癌、大腸癌、乳癌、與CISPLATIN併用治療轉移及末期肺癌、頭頸部癌 ...｜有效日期 2027/07/02",
      "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥製字第060268號｜中文品名 \"博謙\"尿嘧啶｜英文品名 Uracil \"PharmaCore\"｜主成分略述 None｜適應症 抗惡性腫瘤劑。｜有效日期 2024/04/08",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "replacement": "| 原適應症 | 抗惡性腫瘤劑（單方原料藥，如衛部藥製字第060268號）；與 tegafur 組成複方膠囊（UFT），用於胃癌、大腸癌、乳癌等（如衛署藥輸字第023484號） |",
+   "history": [
+    {
+     "id": "uracil-original-indication-methylthiouracil-2026-10-03",
+     "drug": "uracil",
+     "file": "uracil.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "快速總覽「原適應症」",
+     "summary": "「原適應症」寫甲狀腺機能亢進症",
+     "claim": "| 原適應症 | 甲狀腺機能亢進症 |",
+     "finding": "「原適應症：甲狀腺機能亢進症」出自 內衛藥輸字第001118號「甲基硫克由拉西」，主成分是 methylthiouracil（硫脲類抗甲狀腺藥），不是 uracil；該證已於 1986-03-15 註銷。Uracil 在台灣現行許可證中是 tegafur-uracil（UFT）複方的成分，適應症為胃癌、大腸癌等。",
+     "note": "此適應症出自 內衛藥輸字第001118號「甲基硫克由拉西」，主成分是 methylthiouracil（抗甲狀腺藥），不是 uracil 本身的作用；該證已於 1986-03-15 註銷。Uracil 在台灣現行許可證中是 tegafur-uracil 複方（如優富多膠囊）的成分。原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 內衛藥輸字第001118號｜中文品名 甲基硫克由拉西｜英文品名 METHYL THIOURACIL｜主成分略述 METHYLTHIOURACIL｜適應症 甲狀腺機能亢進症｜有效日期 1985/04/21｜註銷狀態 已註銷｜註銷日期 1986/03/15｜註銷理由 有效期間已屆未能補件",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第023484號｜中文品名 優富多膠囊｜英文品名 UFT CAPSULES｜主成分略述 URACIL;;TEGAFUR (FTORAFUR)｜適應症 胃癌、結腸癌、大腸癌、乳癌、與CISPLATIN併用治療轉移及末期肺癌、頭頸部癌 ...｜有效日期 2027/07/02",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-03",
+     "reason": "待查清單複查（2026-10-03）：改依台灣 TFDA 許可證原文重發；前版 action=annotate"
     }
    ]
   },
@@ -7126,6 +7313,1442 @@
    ],
    "status": "superseded",
    "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+  },
+  {
+   "id": "camphor-summary-indication-2026-10-03",
+   "drug": "camphor",
+   "file": "camphor.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "一句話總結",
+   "summary": "一句話總結的台灣許可適應症",
+   "claim": "台灣許可適應症以心臟衰弱之興奮、呼吸困難及新生兒窒息的急性支持為代表。",
+   "replacement": "台灣現行單方許可證為外用軟膏／乳膏，適應症為燙傷、刀傷、昆蟲咬傷等外傷。",
+   "finding": "「心臟衰弱之興奮、呼吸困難、新生兒窒息」出自已於 1988 年註銷的 trans-oxocamphor 注射劑「康心針」（內衛藥製字第007950號），不是 camphor 的許可證。現行有效的 camphor 單方許可證只有 2 張外用製劑：衛署成製字第003013號「膚得樂軟膏」（燙傷、刀傷、昆蟲咬傷、一般外傷）與衛署成製字第013693號「允消健膚樂乳膏」（切傷、刀傷、創傷、火傷、蟲咬傷、頭暈）。",
+   "note": "心臟衰弱之興奮、呼吸困難、新生兒窒息出自已註銷的 trans-oxocamphor 注射劑（康心針），不是 camphor；現行 camphor 單方許可證是外用軟膏／乳膏，適應症為燙傷、刀傷、蟲咬傷等外傷。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第007950號｜中文品名 康心針｜英文品名 LITA-CAMPHOR INJECTION｜主成分略述 OXOCAMPHOR TRANS-｜適應症 心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息｜有效日期 1985/12/31｜註銷狀態 已註銷｜註銷日期 1988/07/19｜註銷理由 安用科更新資料",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署成製字第003013號｜中文品名 “艾力特”膚得樂軟膏｜英文品名 FUDERLEH OINTMENT \"ELT\"｜主成分略述 DL-CAMPHOR ｜適應症 燙傷、刀傷、昆蟲咬傷、一般外傷｜有效日期 2030/05/25",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署成製字第013693號｜中文品名 允消健膚樂乳膏｜英文品名 WINSOLVE SKINER CREAM｜主成分略述 CAMPHOR POWDER｜適應症 切傷、刀傷、創傷、火傷、蟲咬傷、頭暈。｜有效日期 2030/05/25",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "uracil-summary-indication-2026-10-03",
+   "drug": "uracil",
+   "file": "uracil.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "一句話總結",
+   "summary": "一句話總結說 uracil 在台灣登記用於甲狀腺機能亢進症",
+   "claim": "Uracil 在台灣以口服粉劑形式登記用於甲狀腺機能亢進症，同時也是",
+   "replacement": "Uracil 在台灣的單方許可證是原料藥（適應症「抗惡性腫瘤劑」），同時也是",
+   "finding": "TFDA 資料集中適應症為甲狀腺機能亢進症的是 methylthiouracil 原料藥許可證（內衛藥輸字第001118號，1986 年已註銷），不是 uracil。現行 uracil 單方許可證（衛部藥製字第060268號、第062093號、第062102號）都是原料藥，適應症「抗惡性腫瘤劑」。",
+   "note": "甲狀腺機能亢進症屬於已註銷的 methylthiouracil 許可證；現行 uracil 單方許可證是原料藥，適應症為抗惡性腫瘤劑。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥輸字第001118號｜中文品名 甲基硫克由拉西｜英文品名 METHYL THIOURACIL｜主成分略述 METHYLTHIOURACIL｜適應症 甲狀腺機能亢進症｜有效日期 1985/04/21｜註銷狀態 已註銷｜註銷日期 1986/03/15｜註銷理由 有效期間已屆未能補件",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥製字第060268號｜中文品名 \"博謙\"尿嘧啶｜英文品名 Uracil \"PharmaCore\"｜主成分略述 None｜適應症 抗惡性腫瘤劑。｜有效日期 2024/04/08",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "diosmin-original-indication-2026-10-03",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症列入已註銷證的「機能性月經過多」",
+   "claim": "| 原適應症 | 慢性靜脈功能不全、靜脈曲張、痔瘡、機能性月經過多 |",
+   "replacement": "| 原適應症 | 協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解（衛部藥製字第060902號等）；靜脈曲張與痔瘡用藥（原料藥，衛部藥陸輸字第001111號） |",
+   "finding": "TFDA 資料集中 diosmin 現行有效單方許可證 8 張，7 張適應症為「協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解」，1 張原料藥（衛部藥陸輸字第001111號）為「靜脈曲張與痔瘡用藥」。「機能性月經過多」不在任何有效許可證適應症中，只見於已註銷的達復朗糖衣錠。",
+   "note": "台灣現行 diosmin 許可證的適應症為「協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解」（原料藥另載靜脈曲張與痔瘡用藥），不含機能性月經過多。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥製字第060902號｜中文品名 法迪朗膜衣錠500毫克｜英文品名 Dasmin 500mg film coated tablets｜主成分略述 Diosmin｜適應症 協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解。｜有效日期 2031/06/10",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥陸輸字第001111號｜中文品名 香葉木苷｜英文品名 Diosmin｜主成分略述 None｜適應症 靜脈曲張與痔瘡用藥。｜有效日期 2028/07/14",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "diosmin-amenorrhea-premise-2026-10-03",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼預測合理（閉經）",
+   "summary": "閉經預測理由引用「機能性月經過多症」為原適應症",
+   "claim": "   - Diosmin 的原適應症包含「機能性月經過多症」，是一種影響月經的藥物",
+   "finding": "閉經預測的理由以「原適應症包含機能性月經過多症」為前提；台灣現行 diosmin 有效許可證都不含此適應症。",
+   "note": "台灣現行 diosmin 許可證的適應症只有慢性靜脈功能不全引起之腫脹疼痛與痔瘡症狀（原料藥另載靜脈曲張），沒有「機能性月經過多症」，這項推論前提與許可證不符。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥製字第060902號｜中文品名 法迪朗膜衣錠500毫克｜英文品名 Dasmin 500mg film coated tablets｜主成分略述 Diosmin｜適應症 協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解。｜有效日期 2031/06/10",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥陸輸字第001111號｜中文品名 香葉木苷｜英文品名 Diosmin｜主成分略述 None｜適應症 靜脈曲張與痔瘡用藥。｜有效日期 2028/07/14",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "diosmin-amenorrhea-rereview-2026-10-03",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "checked": "2026-10-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "閉經預測標記待重審",
+   "claim": "| 預測新適應症 | 閉經 (amenorrhea) |",
+   "finding": "閉經預測的推論前提（原適應症含機能性月經過多症）與台灣許可證不符，需重審。證據等級與決策暫不更動。",
+   "note": "閉經這筆預測的理由有一項前提與台灣許可證不符（見下方「為什麼預測合理」的查核加註），已標記待重審。證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥製字第060902號｜中文品名 法迪朗膜衣錠500毫克｜英文品名 Dasmin 500mg film coated tablets｜主成分略述 Diosmin｜適應症 協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解。｜有效日期 2031/06/10",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "prediction": "閉經 (amenorrhea)",
+   "status": "rereviewed",
+   "resolved_by": "diosmin-amenorrhea-rereview-result-2026-10-03"
+  },
+  {
+   "id": "pimozide-original-indication-2026-10-03",
+   "drug": "pimozide",
+   "file": "pimozide.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原核准適應症」",
+   "summary": "原核准適應症多列精神分裂症、幻覺、妄想",
+   "claim": "| 原核准適應症 | 精神病、精神分裂症、幻覺、妄想 |",
+   "replacement": "| 原核准適應症 | 精神病狀態（衛署藥製字第043118號、第044175號） |",
+   "finding": "TFDA 資料集中 pimozide 現行有效許可證 2 張（衛署藥製字第043118號、第044175號），適應症都只寫「精神病狀態」。",
+   "note": "台灣現行 pimozide 許可證的適應症只有「精神病狀態」。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第043118號｜中文品名 \"十全\" 杜鬱錠２毫克（匹莫靜）｜英文品名 TOPIMO TABLETS 2MG \"S.C.\" (PIMOZIDE) ｜主成分略述 PIMOZIDE｜適應症 精神病狀態。｜有效日期 2029/07/21",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第044175號｜中文品名 活潑　錠｜英文品名 FOPO TABLETS｜主成分略述 PIMOZIDE｜適應症 精神病狀態。｜有效日期 2030/12/20",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "pimozide-tw-indication-section-2026-10-03",
+   "drug": "pimozide",
+   "file": "pimozide.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "台灣上市資訊「核准適應症」",
+   "summary": "核准適應症多列精神分裂症",
+   "claim": "### 核准適應症\n精神病狀態、精神分裂症",
+   "replacement": "### 核准適應症\n精神病狀態",
+   "finding": "TFDA 資料集中 pimozide 現行有效許可證 2 張，適應症都只寫「精神病狀態」，未寫精神分裂症。",
+   "note": "台灣現行 pimozide 許可證的適應症只有「精神病狀態」。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第043118號｜中文品名 \"十全\" 杜鬱錠２毫克（匹莫靜）｜英文品名 TOPIMO TABLETS 2MG \"S.C.\" (PIMOZIDE) ｜主成分略述 PIMOZIDE｜適應症 精神病狀態。｜有效日期 2029/07/21",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第044175號｜中文品名 活潑　錠｜英文品名 FOPO TABLETS｜主成分略述 PIMOZIDE｜適應症 精神病狀態。｜有效日期 2030/12/20",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "fludarabine-original-indication-2026-10-03",
+   "drug": "fludarabine",
+   "file": "fludarabine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症寫濾泡性淋巴瘤",
+   "claim": "| 原適應症 | 慢性淋巴球性白血病（CLL）、濾泡性淋巴瘤 |",
+   "replacement": "| 原適應症 | B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL；限烷化基藥劑治療無效或惡化者）（衛署藥輸字第022732號） |",
+   "finding": "TFDA 資料集中 fludarabine 現行有效許可證只有衛署藥輸字第022732號「福達樂靜脈凍晶注射劑」，適應症為 B 細胞慢性淋巴性白血病（CLL）起始治療，以及經烷化基藥劑治療無效或惡化之 CLL 與低惡性度非何杰金氏淋巴瘤（LG-NHL）；未寫濾泡性淋巴瘤。",
+   "note": "台灣現行 fludarabine 許可證的適應症是 B 細胞慢性淋巴性白血病（CLL）與低惡性度非何杰金氏淋巴瘤（LG-NHL），未寫濾泡性淋巴瘤；已改為許可證寫法。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第022732號｜中文品名 福達樂靜脈凍晶注射劑｜英文品名 FLUDARA LYOPHILIZED IV INJECTION｜主成分略述 FLUDARABINE PHOSPHATE｜適應症 用於B細胞慢性淋巴性白血病(CLL)病患的起始治療及CLL與低惡性度非何杰金氏淋巴瘤(LG-NHL)病患，歷經至少一種標準內容的烷化基藥劑(ALKYLATING AGENT)的治療方法都無效，或治療後雖有效但隨後疾病又繼續惡化的病人。以本品作為第一線治療，只適用於重度病患即評估為RAI III/IV階段(BINET C級)或RAI I/II (BINET A/B級)但併有疾病相關症候或病情持續惡化的病人。｜有效日期 2030/01/05",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "enfortumab-vedotin-original-indication-2026-10-03",
+   "drug": "enfortumab_vedotin",
+   "file": "enfortumab_vedotin.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症漏列肌肉侵犯性膀胱癌（MIBC）",
+   "claim": "| 原適應症 | 局部晚期或轉移性泌尿道上皮癌 (mUC) |",
+   "replacement": "| 原適應症 | 局部晚期或轉移性泌尿道上皮癌 (mUC)；與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號） |",
+   "finding": "TFDA 資料集中 enfortumab vedotin 有效許可證 2 張（衛部菌疫輸字第001212號、第001213號），適應症除局部晚期或轉移性泌尿道上皮癌（mUC）外，第三項為與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC），作為根治性膀胱切除術的前導性與輔助治療。頁面漏列此項。",
+   "note": "台灣許可證另核准與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療，頁面原只列 mUC。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部菌疫輸字第001212號｜中文品名 備思復凍晶注射劑20毫克｜英文品名 PADCEV powder for concentrate for solution for infusion 20 mg｜主成分略述 Enfortumab vedotin｜適應症 １、單獨使用適用於治療患有局部晚期或轉移性泌尿道上皮癌（mUC）的成人病人： (１)先前接受過PD-1（programmed death receptor-1）或PDL1（programmed death-ligand 1）抑制劑和含鉑化學治療；或 (２)不適合接受含cisplatin 化學治療，且先前接受過一線以上治療。 ２、併用pembrolizumab適用於治療局部晚期或轉移性泌尿道上皮癌（mUC）的成人病人。 ３、與pembrolizumab併用，治療不適合接受含cisplatin化學治療的肌肉侵犯性膀胱癌(MIBC)成人病人，作為其根治性膀胱切除術(radical cystectomy)的前導性治療(neoadjuvant therapy)，並於術後繼續併用作為輔助治療(adjuvant therapy)。｜有效日期 2027/12/28",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "chloral-hydrate-original-indication-2026-10-03",
+   "drug": "chloral_hydrate",
+   "file": "chloral_hydrate.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症列入已註銷證的催眠劑、鎮靜劑",
+   "claim": "| 原適應症 | 催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜 |",
+   "replacement": "| 原適應症 | 兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號） |",
+   "finding": "TFDA 資料集中 chloral hydrate 現行有效單方許可證只有衛部罕藥製字第000020號「可律靜內服液劑」，適應症「兒童檢查(non-painful procedure)前之鎮靜」；「催眠劑」「鎮靜劑」只見於已註銷的原料藥許可證（內衛藥輸字第004918號、第000493號、衛署藥輸字第013503號）。",
+   "note": "「催眠劑」「鎮靜劑」只見於已註銷的原料藥許可證；現行唯一有效單方許可證只核准兒童檢查（non-painful procedure）前之鎮靜。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部罕藥製字第000020號｜中文品名 \"晟德\" 可律靜內服液劑｜英文品名 Clodrin Oral Solution \"CENTER\"｜主成分略述 CHLORAL HYDRATE｜適應症 兒童檢查(non-painful procedure)前之鎮靜｜有效日期 2029/04/12",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥輸字第004918號｜中文品名 水合三氯乙醛｜英文品名 CHLORAL HYDRATE｜主成分略述 CHLORAL HYDRATE｜適應症 催眠劑｜有效日期 1985/07/09｜註銷狀態 已註銷｜註銷日期 1985/07/27｜註銷理由 自請註銷",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第013503號｜中文品名 水合三氯乙醛粉劑｜英文品名 CHLORAL HYDRATE｜主成分略述 CHLORAL HYDRATE｜適應症 鎮靜劑｜有效日期 1993/04/01｜註銷狀態 已註銷｜註銷日期 1999/09/22｜註銷理由 未展延而逾期者",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "cephalexin-original-indication-parenthesis-2026-10-03",
+   "drug": "cephalexin",
+   "file": "cephalexin.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症括號內多列骨關節",
+   "claim": "（呼吸道、泌尿道、皮膚軟組織、骨關節等）",
+   "replacement": "（呼吸道、生殖泌尿道、皮膚及軟組織等）",
+   "finding": "TFDA 資料集中 cephalexin 有效單方許可證的適應症，有的寫「葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症」（如衛署藥製字第005062號），有的寫呼吸道、生殖泌尿道、皮膚及軟組織等感染症（如衛署藥製字第007680號）；沒有任何一張有效許可證寫骨關節感染。",
+   "note": "台灣現行 cephalexin 許可證列舉的感染部位是呼吸道、生殖泌尿道、皮膚及軟組織等，沒有骨關節。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第005062號｜中文品名 景多力膠囊250毫克(賜福力欣)｜英文品名 Kidolex  Capsules  250mg (Cephalexin)｜主成分略述 CEPHALEXIN (MONOHYDRATE)｜適應症 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症。｜有效日期 2029/05/25",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第007680號｜中文品名 \"利達\"利發新膠囊２５０毫克｜英文品名 LIPHALEXIN CAPSULES 250MG \"LITA\"｜主成分略述 CEPHALEXIN (MONOHYDRATE)｜適應症 有感受性細菌所致之呼吸道、生殖泌尿道、皮膚及軟組織等引起之感染症｜有效日期 2029/05/25",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "acyclovir-original-indication-2026-10-03",
+   "drug": "acyclovir",
+   "file": "acyclovir.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症寫「復發性生殖器疱疹的預防及治療」",
+   "claim": "| 原適應症 | 帶狀疱疹、復發性生殖器疱疹的預防及治療 |",
+   "replacement": "| 原適應症 | 帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染、復發性單純疱疹感染之抑制（衛署藥製字第034583號等口服錠）；外用乳膏與眼藥膏另核准唇疱疹、單純皰疹性角膜炎 |",
+   "finding": "TFDA 資料集中 acyclovir 有效單方口服錠的適應症為「帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染、復發性單純疱疹感染之抑制」（如衛署藥製字第034583號），另有外用乳膏（唇疱疹等）與眼藥膏（單純皰疹性角膜炎）；沒有任何一張有效 acyclovir 許可證寫「生殖器疱疹」。",
+   "note": "台灣現行 acyclovir 口服許可證寫的是帶狀疱疹病毒感染、單純疱疹病毒皮膚黏膜感染、免疫不全病人單純疱疹感染之預防與復發性單純疱疹感染之抑制，沒有寫生殖器疱疹；已改為許可證寫法。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第034583號｜中文品名 〝永信〞剋疱錠２００公絲(艾賽可威)｜英文品名 VIRLESS TABLETS 200MG (ACYCLOVIR) \"YUNG SHIN\"｜主成分略述 ACYCLOVIR｜適應症 帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染、復發性單純疱疹感染之抑制。｜有效日期 2031/11/18",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第033738號｜中文品名 迪威樂（艾賽可威）眼藥膏３％｜英文品名 DEVIRO OPHTHALMIC OINTMENT 3% (ACYCLOVIR) ｜主成分略述 ACYCLOVIR｜適應症 單純皰疹性角膜炎｜有效日期 2031/03/04",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "hesperidin-original-indication-2026-10-03",
+   "drug": "hesperidin",
+   "file": "hesperidin.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症「增強毛細血管」取自其他成分",
+   "claim": "| 原適應症 | 增強毛細血管 |",
+   "replacement": "| 原適應症 | 強化血管、末梢血管強化劑（hesperidin 單方許可證，皆已註銷，如衛署藥輸字第013726號）；現行有效許可證均為含 hesperidin 的複方（綜合感冒藥等） |",
+   "finding": "「增強毛細血管」字樣見於 methyl hesperidin（內衛藥輸字第001040號）與 troxerutin（衛署藥輸字第009286號）的許可證，兩者都不是 hesperidin 且已註銷。Hesperidin 單方許可證全部已註銷，所載為「強化血管」「末梢血管強化劑」等（如衛署藥輸字第013726號）；現行有效許可證都是含 hesperidin 的複方（綜合感冒藥、貧血用藥）。",
+   "note": "「增強毛細血管」出自 methyl hesperidin、troxerutin 的已註銷許可證；hesperidin 單方許可證曾載「強化血管」「末梢血管強化劑」，但已全部註銷，現行有效許可證都是複方。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥輸字第001040號｜中文品名 甲基柑橘素｜英文品名 METHYL HESPERIDIN｜主成分略述 METHYL HESPERIDIN｜適應症 增強毛細血管｜有效日期 1985/04/03｜註銷狀態 已註銷｜註銷日期 1985/04/04｜註銷理由 內政部許可證展延",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第013726號｜中文品名 血平鎮粉劑｜英文品名 HESPERIDIN｜主成分略述 HESPERIDIN (VIT P)｜適應症 末梢血管強化劑｜有效日期 1991/07/09｜註銷狀態 已註銷｜註銷日期 1999/09/22｜註銷理由 未展延而逾期者",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第019401號｜中文品名 咳熱愛兒康顆粒｜英文品名 ANTICOLD AIZICON GRANULES｜主成分略述 CAFFEINE ANHYDROUS;;HESPERIDIN (VIT P);;DIPHENHYDRAMINE TANNATE;;ACETAMINOPHEN (EQ TO PARACETAMOL)｜適應症 緩解感冒之各種症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、畏寒、發燒、頭痛、關節痛、肌肉酸痛）。｜有效日期 2029/05/25",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "sodium-carbonate-original-indication-2026-10-03",
+   "drug": "sodium_carbonate",
+   "file": "sodium_carbonate.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症「制酸劑」等取自其他成分",
+   "claim": "| 原適應症 | 制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑 |",
+   "replacement": "| 原適應症 | 無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分 |",
+   "finding": "「制酸劑」字樣來自 sodium bicarbonate（衛署藥製字第057810號「展旺無菌碳酸氫鈉」，2025-05-15 註銷）與 magnesium trisilicate（衛署藥輸字第004924號）等其他成分。Sodium carbonate 唯一單方許可證衛部藥製字第058317號「展旺無菌碳酸鈉」適應症「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；現行有效許可證中 sodium carbonate 是 ceftazidime 注射劑的賦形劑（適應症屬主藥）或複方點眼液、胃散的成分。",
+   "note": "「制酸劑」出自碳酸氫鈉、三矽酸鎂等其他成分；sodium carbonate 唯一單方許可證（無菌製劑輔助劑(鹼化藥)）已於 2023-06-30 註銷，現行有效許可證中它是抗生素注射劑的賦形劑或複方點眼液、胃散的成分。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜英文品名 Sterile Sodium Carbonate \"SLC\"｜主成分略述 None｜適應症 無菌製劑輔助劑(鹼化藥)。｜有效日期 2019/06/26｜註銷狀態 已註銷｜註銷日期 2023/06/30｜註銷理由 未展延而逾期者",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第057810號｜中文品名 \"展旺\"無菌碳酸氫鈉｜英文品名 Sterile Sodium Bicarbonate \"SLC\"｜主成分略述 None｜適應症 制酸劑，代謝性酸中毒之鹼化劑。｜有效日期 2023/01/22｜註銷狀態 已註銷｜註銷日期 2025/05/15｜註銷理由 未展延而逾期者",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜英文品名 GETA FOR INIECTION\"CHI SHENG\" (CEFTAZIDIME)｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ 是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。｜有效日期 2027/04/03",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "aluminum-hydroxide-original-indication-2026-10-03",
+   "drug": "aluminum_hydroxide",
+   "file": "aluminum_hydroxide.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症把潰瘍、胃炎寫成獨立適應症",
+   "claim": "| 原適應症 | 胃酸過多、胃炎、胃及十二指腸潰瘍 |",
+   "replacement": "| 原適應症 | 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第001706號等）；制酸劑（原料藥） |",
+   "finding": "TFDA 資料集中 aluminum hydroxide 有效單方許可證多數的適應症為「緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多」（如內衛藥製字第001706號），原料藥寫「制酸劑」（如衛署藥輸字第023638號）；潰瘍、胃炎是伴隨胃酸過多的情境，不是單獨核准的適應症。直接寫「胃潰瘍、十二指腸潰瘍」的是含 dicyclomine 等的複方。",
+   "note": "台灣現行 aluminum hydroxide 單方許可證核准的是緩解胃部不適或灼熱感，或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（原料藥寫制酸劑）；潰瘍、胃炎本身不是單獨的核准適應症。已改為許可證原文。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第001706號｜中文品名 \"強生\"氫氧化鋁膠錠３２４毫克｜英文品名 ALUMINUM HYDROXIDE TABLETS 324MG \"JOHNSON\"｜主成分略述 ALUMINUM HYDROXIDE DRIED GEL｜適應症 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多｜有效日期 2029/05/25",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第023638號｜中文品名 乾燥氫氧化鋁凝膠｜英文品名 DRIED ALUMINIUM HYDROXIDE GEL｜主成分略述 ALUMINUM HYDROXIDE DRIED GEL｜適應症 制酸劑。｜有效日期 2028/01/23",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第000294號｜中文品名 \"強生\"妙治胃顆粒｜英文品名 BENTYLINE GRANULES \"JOHNSON\"｜主成分略述 MAGNESIUM OXIDE;;ALUMINUM HYDROXIDE DRIED GEL;;DICYCLOMINE HCL｜適應症 胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多症、胃痛｜有效日期 2029/05/25",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "amylmetacresol-original-indication-combo-2026-10-03",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "快速總覽「原適應症」",
+   "summary": "原適應症屬於複方",
+   "claim": "| 原適應症 | 口腔殺菌劑、咽喉炎 |",
+   "finding": "TFDA 資料集中含 amylmetacresol 的 4 張有效許可證（舒立效口含錠系列）全是與 2,4-dichlorobenzyl alcohol 的複方（部分另含 menthol 或維他命 C），沒有單方許可證；「口腔殺菌劑、咽喉炎」是整個複方的適應症。",
+   "note": "台灣含 amylmetacresol 的 4 張許可證都是與 2,4-dichlorobenzyl alcohol 的複方口含錠，「口腔殺菌劑、咽喉炎」是複方的適應症，台灣沒有 amylmetacresol 單方許可證。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第022195號｜中文品名 舒立效口含錠｜英文品名 STREPSILS LOZENGE｜主成分略述 DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL);;DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL);;AMYLMETACRESOL;;AMYLMETACRESOL｜適應症 口腔殺菌劑、咽喉炎。｜有效日期 2028/06/02",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第022196號｜中文品名 舒立效口含錠舒緩蜂蜜檸檬｜英文品名 STREPSILS Soothing HONEY & LEMON LOZENGE｜主成分略述 AMYLMETACRESOL;;DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)｜適應症 口腔殺菌劑、咽喉炎。｜有效日期 2028/06/02",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "butenafine-class-translation-2026-10-03",
+   "drug": "butenafine",
+   "file": "butenafine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "為什麼這個預測合理",
+   "summary": "benzylamine 譯成「苯胺類」",
+   "claim": "Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物",
+   "replacement": "Butenafine 是一種苄胺類(benzylamine)抗黴菌藥物",
+   "finding": "FDA 藥理分類把 butenafine 列為 Benzylamine Antifungal（苄胺類抗黴菌藥）。Benzylamine（phenylmethanamine，CAS 100-46-9）是苄胺；「苯胺」是 aniline（C6H5NH2，CAS 62-53-3），兩者是不同化合物，頁面譯名錯誤。",
+   "note": "Butenafine 屬於 benzylamine（苄胺類）抗黴菌藥；「苯胺」是 aniline（C6H5NH2），是另一種化合物。",
+   "sources": [
+    {
+     "title": "PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）",
+     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/2484",
+     "excerpt": "Butenafine is a Benzylamine Antifungal. ｜ Established Pharmacologic Class [EPC] - Benzylamine Antifungal ｜ Chemical Structure [CS] - Benzylamines",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubChem：Benzylamine（CID 7504）",
+     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/7504",
+     "excerpt": "BENZYLAMINE ｜ 100-46-9 ｜ phenylmethanamine",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」",
+     "url": "https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html",
+     "excerpt": "苯胺 Aniline 第三類毒性化學物質 ... 化學文摘社登記號碼 CAS No. 62-53-3 分子式 Chemical Formula C6H5NH2",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "butenafine-class-translation-lit-2026-10-03",
+   "drug": "butenafine",
+   "file": "butenafine.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "文獻證據",
+   "summary": "文獻摘要中 benzylamine 譯成「苯胺類」",
+   "claim": "   - 將 butenafine 歸類為苯胺類藥物的代表",
+   "replacement": "   - 將 butenafine 歸類為苄胺類（benzylamine）藥物的代表",
+   "finding": "同上：butenafine 的 FDA 藥理分類是 Benzylamine Antifungal，benzylamine 中文為苄胺，「苯胺」是 aniline。",
+   "note": "Benzylamine 應譯為苄胺；「苯胺」是 aniline。",
+   "sources": [
+    {
+     "title": "PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）",
+     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/2484",
+     "excerpt": "Butenafine is a Benzylamine Antifungal. ｜ Established Pharmacologic Class [EPC] - Benzylamine Antifungal ｜ Chemical Structure [CS] - Benzylamines",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」",
+     "url": "https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html",
+     "excerpt": "苯胺 Aniline 第三類毒性化學物質 ... 化學文摘社登記號碼 CAS No. 62-53-3 分子式 Chemical Formula C6H5NH2",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "fidaxomicin-moa-sigma-2026-10-03",
+   "drug": "fidaxomicin",
+   "file": "fidaxomicin.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "作用機轉寫成「σ 因子釋放步驟」",
+   "claim": "Fidaxomicin 藉由抑制細菌 **RNA 聚合酶的 σ 因子釋放步驟**來發揮抗菌作用",
+   "finding": "美國仿單與 EMA SmPC 只寫 fidaxomicin 結合細菌 RNA 聚合酶、抑制 RNA 合成，作用位置與 rifamycin 不同；PubChem（DrugBank）的機轉描述是結合 DNA 模板－RNA 聚合酶複合體、阻止轉錄起始時 DNA 雙股的初始分離。所查來源都沒有「σ 因子釋放步驟」的說法。",
+   "note": "仿單寫 fidaxomicin 結合細菌 RNA 聚合酶、抑制 RNA 合成（作用位置與 rifamycin 不同）；PubChem 收錄的機轉是結合 DNA 模板－RNA 聚合酶複合體，阻止轉錄起始時 DNA 雙股分離。所查來源沒有「σ 因子釋放步驟」的說法。原文保留。",
+   "sources": [
+    {
+     "title": "DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb",
+     "excerpt": "Fidaxomicin is a macrolide antibacterial drug that inhibits RNA synthesis by binding to RNA polymerases. ｜ Fidaxomicin has minimal systemic absorption following oral administration, with plasma concentrations of fidaxomicin and OP-1118 in the ng/mL range at the therapeutic dose.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2",
+     "url": "https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf",
+     "excerpt": "Fidaxomicin is bactericidal and inhibits RNA synthesis by bacterial RNA polymerase. It interferes with RNA polymerase at a distinct site from that of rifamycins. ｜ 5.2 Pharmacokinetic properties Absorption The bioavailability in humans is unknown.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubChem：Fidaxomicin（CID 10034073），Pharmacology and Biochemistry › Mechanism of Action（DrugBank 提供）",
+     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/10034073",
+     "excerpt": "Fidaxomicin binds to the DNA template-RNA polymerase complex, thereby preventing the initial separation of DNA strands during transcription and inhibiting messenger RNA synthesis.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "fidaxomicin-bioavailability-2026-10-03",
+   "drug": "fidaxomicin",
+   "file": "fidaxomicin.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "口服生體可用率寫「< 1%」",
+   "claim": "**口服生體可用率極低（< 1%）**",
+   "finding": "EMA SmPC 明寫人體生體可用率未知（The bioavailability in humans is unknown），美國仿單只寫全身吸收極少、血中濃度在 ng/mL 範圍；兩份仿單都沒有「< 1%」的數字。全身暴露很低這個方向與仿單一致。",
+   "note": "仿單沒有「< 1%」這個數字：EMA 仿單寫人體生體可用率未知，美國仿單寫全身吸收極少、血中濃度在 ng/mL 範圍。全身暴露很低的方向與仿單一致。原文保留。",
+   "sources": [
+    {
+     "title": "EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2",
+     "url": "https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf",
+     "excerpt": "Fidaxomicin is bactericidal and inhibits RNA synthesis by bacterial RNA polymerase. It interferes with RNA polymerase at a distinct site from that of rifamycins. ｜ 5.2 Pharmacokinetic properties Absorption The bioavailability in humans is unknown.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb",
+     "excerpt": "Fidaxomicin is a macrolide antibacterial drug that inhibits RNA synthesis by binding to RNA polymerases. ｜ Fidaxomicin has minimal systemic absorption following oral administration, with plasma concentrations of fidaxomicin and OP-1118 in the ng/mL range at the therapeutic dose.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "hexachlorophene-fda-discontinued-2026-10-03",
+   "drug": "hexachlorophene",
+   "file": "hexachlorophene.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "FDA 核准外用品「已全面停用」",
+   "claim": "Hexachlorophene 在 FDA 的核准外用用途**已全面停用**",
+   "finding": "Drugs@FDA 中主成分為 hexachlorophene 的品項多數標示 Discontinued，但 NDA 017433 的 PRE-OP 與 PRE-OP II（hexachlorophene 480 mg 外用海綿）上市狀態仍為 Prescription（處方藥）；「全面停用」與 FDA 資料庫不符。",
+   "note": "Drugs@FDA 裡 hexachlorophene 外用品多數已標示停售（Discontinued），但 NDA 017433 的 PRE-OP／PRE-OP II 外用海綿仍登載為處方藥（Prescription），並非全面停用。原文保留。",
+   "sources": [
+    {
+     "title": "Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）",
+     "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433",
+     "excerpt": "New Drug Application (NDA) : 017433 Company: DAVIS AND GECK ... PRE-OP HEXACHLOROPHENE 480MG SPONGE;TOPICAL Prescription AT Yes Yes PRE-OP II HEXACHLOROPHENE 480MG SPONGE;TOPICAL Prescription AT Yes No",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:\"HEXACHLOROPHENE\"）",
+     "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100",
+     "excerpt": "NDA017411 HEXA-GERM Discontinued ... NDA017423 SEPTISOL Discontinued ... NDA017433 PRE-OP Prescription ... NDA017433 PRE-OP II Prescription（17 筆申請案中 19 個品項，17 個 Discontinued、2 個 Prescription）",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "hexachlorophene-fda-discontinued-tw-2026-10-03",
+   "drug": "hexachlorophene",
+   "file": "hexachlorophene.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "台灣上市資訊「重要安全背景」",
+   "summary": "FDA 核准外用品「已全面停用」",
+   "claim": "FDA 核准的 Hexachlorophene 外用品已全面停用（discontinued）",
+   "finding": "Drugs@FDA 中主成分為 hexachlorophene 的品項多數標示 Discontinued，但 NDA 017433 的 PRE-OP 與 PRE-OP II（hexachlorophene 480 mg 外用海綿）上市狀態仍為 Prescription（處方藥）；「全面停用」與 FDA 資料庫不符。",
+   "note": "Drugs@FDA 裡 hexachlorophene 外用品多數已標示停售（Discontinued），但 NDA 017433 的 PRE-OP／PRE-OP II 外用海綿仍登載為處方藥（Prescription），並非全面停用。原文保留。",
+   "sources": [
+    {
+     "title": "Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）",
+     "url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433",
+     "excerpt": "New Drug Application (NDA) : 017433 Company: DAVIS AND GECK ... PRE-OP HEXACHLOROPHENE 480MG SPONGE;TOPICAL Prescription AT Yes Yes PRE-OP II HEXACHLOROPHENE 480MG SPONGE;TOPICAL Prescription AT Yes No",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:\"HEXACHLOROPHENE\"）",
+     "url": "https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100",
+     "excerpt": "NDA017411 HEXA-GERM Discontinued ... NDA017423 SEPTISOL Discontinued ... NDA017433 PRE-OP Prescription ... NDA017433 PRE-OP II Prescription（17 筆申請案中 19 個品項，17 個 Discontinued、2 個 Prescription）",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "interferon-beta-1b-hcl-history-2026-10-03",
+   "drug": "interferon_beta-1b",
+   "file": "interferon_beta-1b.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "「Beta 干擾素曾用於 HCL 治療」",
+   "claim": "4. **歷史應用**：Beta 干擾素曾在 1980-1990 年代用於 HCL 治療",
+   "finding": "美國核准用於毛細胞白血病（HCL）的是 interferon alfa-2b（INTRON A）；interferon beta-1b（BETASERON）仿單的適應症只有復發型多發性硬化症。頁面所稱的「歷史應用」不是 beta 干擾素的核准用途。",
+   "note": "核准用於毛細胞白血病的是 interferon alfa-2b（INTRON A）；interferon beta-1b 仿單的適應症只有復發型多發性硬化症，HCL 不是 beta 干擾素的核准用途。原文保留。",
+   "sources": [
+    {
+     "title": "Drugs@FDA：INTRON A（interferon alfa-2b）仿單，Indications and Usage",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103132s5199lbl.pdf",
+     "excerpt": "INDICATIONS AND USAGE Hairy Cell Leukemia INTRON® A is indicated for the treatment of patients 18 years of age or older with hairy cell leukemia.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "DailyMed：BETASERON（interferon beta-1b）仿單（Bayer），1 Indications and Usage",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5",
+     "excerpt": "BETASERON is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "lornoxicam-half-life-2026-10-03",
+   "drug": "lornoxicam",
+   "file": "lornoxicam.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "為什麼這個預測合理",
+   "summary": "半衰期寫 3-5 小時",
+   "claim": "其半衰期較短 (3-5 小時)",
+   "replacement": "其半衰期較短 (3-4 小時)",
+   "finding": "Xefo（lornoxicam）SmPC 載明原形藥平均排除半衰期 3 至 4 小時，頁面寫 3-5 小時。",
+   "note": "Lornoxicam 仿單載明原形藥平均排除半衰期為 3 至 4 小時。",
+   "sources": [
+    {
+     "title": "HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2",
+     "url": "https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf",
+     "excerpt": "The mean elimination half-life is 3-4 hours. ｜ Elimination The mean elimination half-life of the parent compound is 3 to 4 hours.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "hymecromone-udpgla-depletion-2026-10-03",
+   "drug": "hymecromone",
+   "file": "hymecromone.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "說代謝物 4-MUG 耗竭 UDP-葡萄糖醛酸",
+   "claim": "其代謝產物 4-methylumbelliferyl glucuronide（4-MUG）可耗竭 UDP-葡萄糖醛酸（UDP-glucuronic acid）",
+   "finding": "文獻描述的機制是 4-MU 本身作為 UDP-葡萄糖醛酸轉移酶（UGT）的競爭性受質，被接上葡萄糖醛酸的過程消耗細胞質中的 UDP-GlcUA，進而減少透明質酸合成；4-MUG 是這個反應的產物，不是去耗竭 UDP-GlcUA 的物質。抑制透明質酸合成的結論不受影響。",
+   "note": "文獻描述的是 4-MU 本身被 UGT 接上葡萄糖醛酸、在這個過程中消耗 UDP-葡萄糖醛酸而抑制透明質酸合成；4-MUG 是反應產物，不是去耗竭 UDP-葡萄糖醛酸的物質。原文保留。",
+   "sources": [
+    {
+     "title": "Nagy N, et al. 4-methylumbelliferone treatment and hyaluronan inhibition as a therapeutic strategy in inflammation, autoimmunity, and cancer. Front Immunol. 2015;6:123（Europe PMC 全文，PMC4369655）",
+     "url": "https://europepmc.org/article/PMC/PMC4369655",
+     "excerpt": "4-MU is thought to function as a competitive substrate for UDP-glucuronosyltransferase (UGT) ... when 4-MU is present, it covalently binds through its hydroxyl group at position four to glucuronic acid via the UGT. As a consequence, the concentration of UDP-GlcUA declines in the cytosol and HA synthesis is reduced",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "zanubrutinib-btk-ic50-2026-10-03",
+   "drug": "zanubrutinib",
+   "file": "zanubrutinib.md",
+   "checked": "2026-10-03",
+   "action": "correct",
+   "section": "為什麼這個預測合理",
+   "summary": "BTK IC50 寫約 20 nM",
+   "claim": "- 抑制 BTK (Bruton tyrosine kinase)，IC50 約 20 nM",
+   "replacement": "- 抑制 BTK (Bruton tyrosine kinase)，細胞試驗 IC50 約 1.8 nM（BTK pY223）",
+   "finding": "EMA 評估報告記載 zanubrutinib（BGB-3111）在細胞試驗中抑制 BTK 自體磷酸化（pY223）的 IC50 為 1.8 nM，BTK 佔據試驗 IC50 為 2.2 nM；頁面寫約 20 nM，差約一個數量級。",
+   "note": "EMA 評估報告記載 zanubrutinib 在細胞試驗中抑制 BTK 磷酸化（pY223）的 IC50 為 1.8 nM、BTK 佔據試驗為 2.2 nM，不是 20 nM。",
+   "sources": [
+    {
+     "title": "EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics",
+     "url": "https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf",
+     "excerpt": "BGB-3111 inhibited BTK pY223 with an IC50 of 1.8 nM in a cellular assay. ... In the BTK occupation assay, BGB-3111 occupied intracellular BTK with an IC50 of 2.2 nM.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "cefoperazone-acinetobacter-2026-10-03",
+   "drug": "cefoperazone",
+   "file": "cefoperazone.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "把鮑曼不動桿菌列為 cefoperazone 主要抗菌目標",
+   "claim": "鮑曼不動桿菌等均為 Cefoperazone 的主要抗菌目標",
+   "finding": "Cefobid（cefoperazone 單方）美國仿單列出的活性菌種（體外與臨床感染）包含 Streptococcus pneumoniae、Klebsiella、Pseudomonas 等，沒有 Acinetobacter；仿單並把 Acinetobacter 列為葡萄糖非發酵菌中排除在藥敏折點之外的菌屬。鮑曼不動桿菌不是 cefoperazone 單方的主要抗菌目標，頁面同段也說明其活性主要來自 sulbactam。",
+   "note": "Cefoperazone 單方仿單列出的活性菌種有肺炎鏈球菌、克雷伯氏菌、假單胞菌等，沒有不動桿菌，且把 Acinetobacter 列為排除菌屬；對鮑曼不動桿菌的活性主要來自與 sulbactam 的複方。原文保留。",
+   "sources": [
+    {
+     "title": "Drugs@FDA：CEFOBID（cefoperazone）仿單（2017），Microbiology",
+     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/050551s045lbl.pdf",
+     "excerpt": "Cefoperazone has been shown to be active against the following microorganisms, both in vitro and in clinical infections ... Gram-negative aerobic bacteria: Citrobacter species Enterobacter species Escherichia coli Haemophilus influenzae Klebsiella species ... Pseudomonas species Serratia marcescens ... nonfastidious glucose-nonfermenting gram-negative bacilli with the exception of: Pseudomonas aeruginosa, Acinetobacter species, Burkholderia species and Stenotrophomonas maltophilia.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "amylmetacresol-moa-pk-claim-2026-10-03",
+   "drug": "amylmetacresol",
+   "file": "amylmetacresol.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "說作用為干擾細菌細胞膜、全身吸收量極低",
+   "claim": "透過干擾細菌細胞膜結構發揮局部殺菌效果。其應用形式為口含錠，藥物主要停留在口腔與咽喉局部，全身吸收量極低。",
+   "finding": "SmPC 只寫 amylmetacresol 與 2,4-dichlorobenzyl alcohol 為防腐殺菌劑，體外具抗菌、抗黴菌與抗病毒作用，未提細胞膜機轉；藥動學段寫「None available」，沒有全身吸收量的資料。",
+   "note": "仿單只寫 amylmetacresol 是防腐殺菌劑、體外具抗菌（殺菌與抑菌）、抗黴菌與抗病毒作用，沒有寫干擾細胞膜的機轉；藥動學段為「無資料」，「全身吸收量極低」沒有仿單依據。原文保留。",
+   "sources": [
+    {
+     "title": "emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2",
+     "url": "https://www.medicines.org.uk/emc/product/5606/smpc",
+     "excerpt": "2,4-dichlorobenzyl alcohol and amylmetacresol are antiseptics and possess antibacterial (bactericidal and bacteriostatic), antifungal and antiviral properties as demonstrated in vitro. ｜ 5.2 Pharmacokinetic properties None available.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "anthralin-moa-2026-10-03",
+   "drug": "anthralin",
+   "file": "anthralin.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "機轉寫成誘導 ROS 並抑制粒線體氧化磷酸化",
+   "claim": "Anthralin 透過**誘導活性氧（ROS）並抑制粒線體氧化磷酸化**",
+   "finding": "仿單寫 anthralin 抗乾癬的確切機轉尚未完全了解，已知有抗增生與抗發炎作用：抗增生來自抑制 DNA 合成與強還原性，另與誘導脂質過氧化、降低內皮黏附分子有關；未提粒線體氧化磷酸化或 IL-1、IL-6、TNF-α 下調。",
+   "note": "仿單寫 anthralin 的確切機轉尚未完全了解，已知有抗增生（抑制 DNA 合成、強還原性）與抗發炎作用，並與誘導脂質過氧化、降低內皮黏附分子有關；沒有提到抑制粒線體氧化磷酸化或下調 IL-1、IL-6、TNF-α。原文保留。",
+   "sources": [
+    {
+     "title": "DailyMed：ZITHRANOL-RR（anthralin）Cream 仿單（Elorac），Clinical Pharmacology",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=45bad116-0351-442f-8e49-f11089a955fd",
+     "excerpt": "Zithranol-RR contains anthralin, a synthetic compound whose precise mechanism of anti-psoriatic action is not yet fully understood. However, numerous studies have demonstrated anti-proliferative and anti-inflammatory effects of anthralin on psoriatic and normal skin. The anti-proliferative effects of anthralin appear to result from both an inhibition of DNA synthesis as well as from its strong reducing properties. Recently, anthralin's effectiveness as an anti-psoriatic agent has also been in part attributed to its abilities to induce lipid peroxidation and reduce levels of endothelial adhesion molecules",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "methocarbamol-moa-polysynaptic-2026-10-03",
+   "drug": "methocarbamol",
+   "file": "methocarbamol.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "把抑制多突觸反射弧寫成確定的主要機轉",
+   "claim": "Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統抑制多突觸反射弧。",
+   "finding": "仿單寫 methocarbamol 在人體的作用機轉尚未確立，可能與一般性中樞神經抑制有關，對橫紋肌收縮機制、運動終板與神經纖維沒有直接作用；未寫抑制多突觸反射弧。",
+   "note": "仿單寫 methocarbamol 在人體的作用機轉尚未確立，可能與一般性中樞神經抑制有關；「抑制多突觸反射弧」不是仿單確認的機轉。原文保留。",
+   "sources": [
+    {
+     "title": "DailyMed：Methocarbamol Tablets, USP 仿單（Granules），Clinical Pharmacology",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c",
+     "excerpt": "The mechanism of action of methocarbamol in humans has not been established, but may be due to general central nervous system (CNS) depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber.",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "magnesium-sulfate-cerebral-perfusion-2026-10-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理",
+   "summary": "機轉列「降低腦血管痙攣及腦灌流壓」",
+   "claim": "   - 降低腦血管痙攣及腦灌流壓",
+   "finding": "仿單列出的機轉是阻斷神經肌肉傳導、減少運動神經末梢乙醯膽鹼釋放、中樞抑制作用與周邊血管擴張；沒有降低腦血管痙攣或腦灌流壓，也沒有 NMDA 受體阻斷與抗發炎作用。預測的子癇前症／子癇症本身是仿單核准適應症，結論不受影響。",
+   "note": "仿單寫硫酸鎂是藉阻斷神經肌肉傳導、減少乙醯膽鹼釋放來預防或控制抽搐，另有中樞抑制與周邊血管擴張作用；沒有「降低腦血管痙攣及腦灌流壓」，本段的 NMDA 受體阻斷與抗發炎作用也不在仿單內。原文保留。",
+   "sources": [
+    {
+     "title": "DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d",
+     "excerpt": "Magnesium prevents or controls convulsions by blocking neuromuscular transmission and decreasing the amount of acetylcholine liberated at the end plate by the motor nerve impulse. Magnesium is said to have a depressant effect on the central nervous system ... Magnesium acts peripherally to produce vasodilation",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "potassium-iodide-antifungal-2026-10-03",
+   "drug": "potassium_iodide",
+   "file": "potassium_iodide.md",
+   "checked": "2026-10-03",
+   "action": "annotate",
+   "section": "為什麼這個預測合理（鼻腔疾病）",
+   "summary": "說碘化鉀對孢子絲菌病和接合菌病有已知抗真菌活性",
+   "claim": "1. **抗真菌活性**: 碘化鉀具有已知的抗真菌活性,特別是對孢子絲菌病和接合菌病",
+   "finding": "AHFS（經 PubChem 收錄）記載碘化鉀對孢子絲菌（Sporothrix schenckii）的抗真菌作用機轉尚未確定，體外不增加單核球或嗜中性球殺菌，但碘溶液可快速破壞孢子絲菌酵母型；WHO 基本藥物清單把碘化鉀列為抗真菌藥、適應症孢子絲菌病。所查來源未列接合菌病。",
+   "note": "碘化鉀用於孢子絲菌病有依據（WHO 基本藥物清單列為抗真菌藥），但其抗真菌作用機轉尚未確定；所查來源只列孢子絲菌病，沒有接合菌病。原文保留。",
+   "sources": [
+    {
+     "title": "PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）",
+     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/4875",
+     "excerpt": "The mechanism of action of potassium iodide's antifungal activity against Sporothix schenckii has not been determined. Potassium iodide does not appear to increase monocyte or neutrophil killing of S. schenckii in in vitro studies. However, exposure of the yeast form of S. schenckii to various concentrations of iodine (iodine and potassium iodide solution) has resulted in rapid cell destruction.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubChem：Potassium iodide（CID 4875），WHO Essential Medicines",
+     "url": "https://pubchem.ncbi.nlm.nih.gov/compound/4875",
+     "excerpt": "Drug Classes: Antifungal medicines; Thyroid hormones and antithyroid medicines ｜ Indication: Sporotrichosis; Thyrotoxicosis",
+     "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "ergometrine-migraine-rereview-result-2026-10-03",
+   "drug": "ergometrine",
+   "file": "ergometrine.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "ergometrine-migraine-rereview-2026-10-03",
+   "summary": "偏頭痛預測重審結果",
+   "claim": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
+   "prediction": "偏頭痛 (Migraine Disorder)",
+   "verdict": "maintain",
+   "original_level": "L3",
+   "new_level": "L3",
+   "level_note": "L3",
+   "flawed_premises": [
+    "經 α 腎上腺素受體抑制三叉神經源性炎症（仿單：對 α 受體為作用劑／部分作用劑，幾乎沒有拮抗作用；未提三叉神經炎症）",
+    "以 5-HT1B/1D 作用劑為機轉主軸（仿單未載；文獻有前臨床支持，見 PMID 9448572，屬未載於仿單而非已證偽）"
+   ],
+   "remaining_support": [
+    "ergonovine 本藥的觀察性研究：40 名月經性偏頭痛患者間歇預防 6 個月，無對照組（PMID 2759844）",
+    "同系物 methylergonovine 的觀察性／開放性研究（PMID 23432443、19895705）——不是本藥，只能當旁證",
+    "前臨床：ergometrine 微離子導入可抑制貓三叉神經二級神經元放電（PMID 9448572）",
+    "台灣 3 張有效單方許可證適應症已含「偏頭痛」（內衛藥製字第009847號、第012732號、衛署藥製字第029626號），屬既有監理紀錄，非新發現"
+   ],
+   "rationale": "錯誤前提只是機轉說明的一部分；L3 依據的是臨床觀察資料，扣掉錯誤前提後仍有本藥的觀察性研究（PMID 2759844），符合 methodology「有觀察性研究或病例系列」的 L3 定義。限制：唯一的本藥研究規模小、無對照、年代久遠；其餘人體研究是同系物 methylergonovine；查無 RCT 或登錄試驗；另有血管痙攣類安全性報告。",
+   "note": "機轉說明裡「經 α 受體抑制三叉神經源性炎症」不成立，但 L3 原本就不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)）。methylergonovine 的研究是同系物，只能當旁證。查無 RCT，ClinicalTrials.gov 也查無登錄試驗；另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。",
+   "sources": [
+    {
+     "title": "PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2759844/",
+     "excerpt": "ergonovine maleate 0.2 mg 間歇預防，40 名難治月經性偏頭痛患者；3 個月時 60% 自述發作較輕，6 個月效果下降；單組、無對照。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/9448572/",
+     "excerpt": "Storer & Goadsby 1997：ergometrine 直接施用可抑制貓三叉神經頸複合體神經元放電（9/10 細胞）；前臨床。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23432443/",
+     "excerpt": "口服 methylergonovine 用於難治偏頭痛／叢發性頭痛預防的個案與回顧；同系物，非本藥。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/19895705/",
+     "excerpt": "急診靜脈 methylergonovine 用於女性偏頭痛的開放性前導研究；同系物，非本藥。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23216317/",
+     "excerpt": "反面：回顧血清素類偏頭痛用藥的心臟不良事件，含冠狀動脈痙攣與心肌缺血。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/6773347/",
+     "excerpt": "反面：個案報告，使用 Sansert（methysergide）與 Ergotrate（ergonovine）治療偏頭痛後出現肋膜增厚。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "ergonovine／ergometrine／methylergonovine × migraine",
+     "result": "查無登錄試驗（2026-10-03）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定"
+  },
+  {
+   "id": "atracurium-preeclampsia-rereview-result-2026-10-03",
+   "drug": "atracurium_besylate",
+   "file": "atracurium_besylate.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "atracurium-preeclampsia-rereview-2026-10-03",
+   "summary": "子癇前症預測重審結果",
+   "claim": "| 預測新適應症 | 子癇前症 (preeclampsia) |",
+   "prediction": "子癇前症 (preeclampsia)",
+   "verdict": "downgrade",
+   "original_level": "L3",
+   "new_level": "L5",
+   "level_note": "L3（快速總覽表；頁首 front matter 為 L5，兩處不一致）",
+   "flawed_premises": [
+    "「不引起組織胺釋放相關的血壓波動」（仿單：會釋放組織胺，0.6 mg/kg 曾見中度組織胺釋放與明顯血壓下降）",
+    "附帶發現：文獻表 PMID 18383970 研究用的是 cisatracurium，不是 atracurium"
+   ],
+   "remaining_support": [
+    "Hofmann 消除與酯解、不依賴肝腎功能（仿單事實，但只關乎麻醉用藥安全性，不是治療子癇前症的證據）",
+    "孕期藥動學與非孕期相近（PMID 9646009 回顧）——同樣只關乎麻醉用藥",
+    "1986 年一封讀者來信報告在子癇前症產婦麻醉中使用（PMID 3778800），屬麻醉用藥經驗，不是治療子癇前症"
+   ],
+   "rationale": "神經肌肉阻斷劑不會治療子癇前症；頁面本身也承認這不是新適應症，而是麻醉用藥選擇。原 L3 依據的三篇文獻：一篇是麻醉經驗讀者來信、一篇是藥動學回顧、一篇用的是 cisatracurium，都沒有評估 atracurium 對子癇前症的療效。「血流動力學穩定」這條支持理由不成立後，剩下的理由都只跟麻醉安全性有關。依 methodology，查無以子癇前症為適應症的臨床證據，符合 L5。",
+   "note": "「不釋放組織胺、血壓穩定」這條理由與仿單不符；剩下的理由（不靠肝腎代謝、孕期藥動學穩定）只跟麻醉用藥安全性有關，不是治療子癇前症的證據。原列文獻中，[PMID 3778800](https://pubmed.ncbi.nlm.nih.gov/3778800/) 是麻醉經驗讀者來信，[PMID 9646009](https://pubmed.ncbi.nlm.nih.gov/9646009/) 是藥動學回顧，[PMID 18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) 用的其實是 cisatracurium。PubMed 與 ClinicalTrials.gov 都查無以子癇前症為適應症的研究。",
+   "sources": [
+    {
+     "title": "PubMed：Use of atracurium in pre-eclamptic patients（PMID 3778800）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/3778800/",
+     "excerpt": "Br J Anaesth 1986 讀者來信：子癇前症產婦使用 atracurium；性質為麻醉用藥經驗，未評估對子癇前症本身的療效（無摘要）。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Clinical pharmacokinetics of neuromuscular relaxants in pregnancy（PMID 9646009）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/9646009/",
+     "excerpt": "孕期神經肌肉阻斷劑藥動學回顧：atracurium 分布體積與清除率在孕期不變；同時指出子癇前症常用的硫酸鎂會加強非去極化阻斷劑作用。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：[Remifentanil bolus for cesarean section in high-risk patients: study of 12 cases]（PMID 18383970）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18383970/",
+     "excerpt": "高風險剖腹產 12 例（含子癇前症、HELLP）：方法中使用的是 cisatracurium，不能當 atracurium 的證據。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "atracurium × preeclampsia／pre-eclampsia",
+     "result": "查無登錄試驗（2026-10-03）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+   "decision_basis": "原決策 Consider；依 L5 建議改為 Hold（決策欄是否一併調整，由站方決定）。",
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L3 (觀察性研究/文獻支持) |",
+     "replacement": "| 證據等級 | L5（2026-10-03 重審降級） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Consider |",
+     "replacement": "| 建議決策 | Hold（2026-10-03 重審調整） |"
+    },
+    {
+     "label": "結論「決策」",
+     "claim": "**決策：Consider**",
+     "replacement": "**決策：Hold**（2026-10-03 重審調整）"
+    }
+   ]
+  },
+  {
+   "id": "bempedoic-acid-hofh-rereview-result-2026-10-03",
+   "drug": "bempedoic_acid",
+   "file": "bempedoic_acid.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "bempedoic-acid-hofh-rereview-2026-10-03",
+   "summary": "同合子家族性高膽固醇血症預測重審結果",
+   "claim": "| 預測新適應症 | 同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia) |",
+   "prediction": "同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)",
+   "verdict": "maintain",
+   "original_level": "L3",
+   "new_level": "L3",
+   "level_note": "L3（快速總覽表；頁首 front matter 為 L5，兩處不一致）",
+   "flawed_premises": [
+    "首要理由「非 LDL 受體依賴機制」（仿單：抑制 ACL 後經上調 LDL 受體降低 LDL-C）",
+    "結論段「療效機轉明確」建立在同一前提上"
+   ],
+   "remaining_support": [
+    "單中心回溯研究：5 名 HoFH 患者（皆已用 statin）加上 bempedoic acid，首次追蹤 LDL-C 平均 −33%（PMID 41274797）",
+    "前臨床：LDLR−/− 迷你豬 LDL-C 仍降 29%（PMID 29449335），提示 LDL 受體完全缺失時仍有部分效果",
+    "可與 statin、ezetimibe 等併用（仿單事實，非 HoFH 特有證據）"
+   ],
+   "rationale": "錯誤前提是機轉理由，但 L3 的依據是 HoFH 患者的回溯性觀察資料（PMID 41274797），扣掉錯誤前提後仍符合 L3 定義。強度很弱：只有 5 名患者、無對照、皆已併用 statin。動物資料顯示 LDL 受體完全缺失時降幅明顯較小（29% vs 61%），與「效果依賴 LDL 受體」的仿單敘述一致。結論段「已獲大量文獻支持」「療效機轉明確」與現有證據不符。",
+   "note": "「非 LDL 受體依賴」這條理由與仿單不符，但 L3 的依據是一篇 HoFH 回溯研究：5 名已用 statin 的患者加上本藥後，LDL-C 平均下降約 33%（[PMID 41274797](https://pubmed.ncbi.nlm.nih.gov/41274797/)）。樣本極小、沒有對照組。動物研究中，LDL 受體完全缺失的豬降幅（29%）明顯小於部分缺失者（61%）（[PMID 29449335](https://pubmed.ncbi.nlm.nih.gov/29449335/)）。ClinicalTrials.gov 查無專門的 HoFH 試驗。依現有證據，結論段的「Go」與「機轉明確」說法偏強。",
+   "sources": [
+    {
+     "title": "PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41274797/",
+     "excerpt": "Warden & Duell 2026，J Clin Lipidol：單中心回溯，14 名 HoFH 中 5 人用藥、4 人持續；LDL-C 首次追蹤 −33.2%±15.1%、最近追蹤 −29.4%；2 人達標；無對照、樣本極小。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29449335/",
+     "excerpt": "Burke 2018，ATVB：LDLR+/− 豬 LDL-C 最多降 61%，LDLR−/− 豬降 29%，主動脈與冠狀動脈病灶減少；動物研究。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "bempedoic acid × homozygous familial hypercholesterolemia",
+     "result": "查無專門 HoFH 試驗；CLEAR 系列與兒童 HeFH（NCT05694260）不涵蓋 HoFH（2026-10-03）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+   "decision_note": "原決策 Go（methodology：強力證據支持）與 L3 不相稱；建議改為 Explore 或 Consider（是否調整由站方決定）。"
+  },
+  {
+   "id": "bevacizumab-epiglottis-rereview-result-2026-10-03",
+   "drug": "bevacizumab",
+   "file": "bevacizumab.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "bevacizumab-epiglottis-rereview-2026-10-03",
+   "summary": "會厭腫瘤預測重審結果",
+   "claim": "| 預測新適應症 | 會厭腫瘤 (epiglottis neoplasm) |",
+   "prediction": "會厭腫瘤 (epiglottis neoplasm)",
+   "verdict": "withdraw",
+   "original_level": "L5",
+   "new_level": "L5",
+   "level_note": "L5",
+   "flawed_premises": [
+    "主要理由「已核准用於頭頸部鱗狀細胞癌」（美國仿單與台灣有效許可證皆無此適應症）",
+    "第 3 點「與已核准適應症的頭頸部癌症相似」與建議第 2 點「優先參考 HNSCC 使用經驗」都建立在同一前提上"
+   ],
+   "remaining_support": [
+    "VEGF 抑制的一般抗血管新生機轉（不專屬會厭）",
+    "會厭位於頭頸部的解剖推論"
+   ],
+   "rationale": "原推論的主要支柱是錯誤前提，剩下的只是通用的抗血管新生機轉與解剖位置推論。查無會厭腫瘤專屬證據；最接近的直接證據（頭頸部鱗癌，含喉癌）是第三期 RCT：整體存活沒有改善，出血與治療相關死亡反而增加（PMID 31618129），另一個第二期試驗也是只增加毒性、療效沒有提升（PMID 27177865）。推論失去依據，而且相近族群的證據偏向反面。等級已是最低的 L5，無法再降。",
+   "note": "原推論的主要理由「已核准用於頭頸部鱗癌」不成立，剩下的只是通用的抗血管新生機轉。查無會厭腫瘤的專屬研究。最接近的證據是頭頸部鱗癌（含喉癌）的第三期試驗：加上 bevacizumab 後整體存活沒有改善，3–5 級出血與治療相關死亡增加（[PMID 31618129](https://pubmed.ncbi.nlm.nih.gov/31618129/)，[NCT00588770](https://clinicaltrials.gov/study/NCT00588770)）。另一項第二期試驗也是毒性增加、療效沒有提升（[PMID 27177865](https://pubmed.ncbi.nlm.nih.gov/27177865/)）。",
+   "sources": [
+    {
+     "title": "PubMed：Phase III Randomized Trial of Chemotherapy With or Without Bevacizumab in Patients With Recurrent or Metastatic Head and Neck Cancer（PMID 31618129）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/31618129/",
+     "excerpt": "E1305 第三期 RCT（403 人，復發／轉移性頭頸部鱗癌，含喉癌）：化療加 bevacizumab 未改善整體存活（HR 0.87，P=.22），反應率與 PFS 改善，但 3–5 級出血（6.7% vs 0.5%）與治療相關死亡（9.3% vs 3.5%）增加。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "ClinicalTrials.gov：Chemotherapy With or Without Bevacizumab in Treating Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma（NCT00588770）",
+     "url": "https://clinicaltrials.gov/study/NCT00588770",
+     "excerpt": "上述 E1305 試驗的登錄號。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Phase II randomized trial of radiation therapy, cetuximab, and pemetrexed with or without bevacizumab in patients with locally advanced head and neck cancer（PMID 27177865）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27177865/",
+     "excerpt": "第二期隨機試驗（局部晚期頭頸癌，含 12 名喉癌）：放療＋cetuximab＋pemetrexed 再加 bevacizumab，療效未見改善、出血增加。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "ClinicalTrials.gov：Testing the Use of Investigational Drugs Atezolizumab and/or Bevacizumab With or Without Standard Chemotherapy in the Second-Line Treatment of Advanced-Stage Head and Neck Cancers（NCT05063552）",
+     "url": "https://clinicaltrials.gov/study/NCT05063552",
+     "excerpt": "進行中第二／三期：atezolizumab 合併或不合併 bevacizumab 用於頭頸鱗癌二線治療（含喉癌）；尚無結果。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "bevacizumab × epiglottis／supraglottic 腫瘤",
+     "result": "查無會厭腫瘤專屬研究；喉部相關文獻主要是復發性呼吸道乳突瘤（良性、HPV 相關），與本預測不同（2026-10-03）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+   "decision_basis": "原建議 Explore，並寫「可考慮探索性使用」「優先參考 HNSCC 使用經驗」；建議改為 Hold，並由站方評估是否移除這類接近用藥建議的句子。",
+   "table_updates": [
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Explore |",
+     "replacement": "| 建議決策 | Hold（2026-10-03 重審撤回此推論） |"
+    }
+   ]
+  },
+  {
+   "id": "cyclizine-prediction-rereview-result-2026-10-03",
+   "drug": "cyclizine",
+   "file": "cyclizine.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "cyclizine-prediction-rereview-2026-10-03",
+   "summary": "蕁麻疹、鼻腔疾病、頭痛預測重審結果",
+   "claim": "| 預測新適應症 | 過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患 |",
+   "prediction": "過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患",
+   "verdict": "downgrade",
+   "original_level": "L2–L3",
+   "new_level": {
+    "頭痛疾患": "L4",
+    "過敏性蕁麻疹": "L5",
+    "冷蕁麻疹": "L5",
+    "鼻腔疾病": "L5"
+   },
+   "level_note": "L2–L3（快速總覽表與結論表；頁首 front matter 為 L5，兩處不一致）",
+   "flawed_premises": [
+    "整批預測被判為「已核准適應症的再確認」：cyclizine 已核准蕁麻疹、過敏性鼻炎、偏頭痛（台灣現行 cyclizine 單方許可證只核准動暈症；蕁麻疹／鼻炎屬 homochlorcyclizine、chlorcyclizine，偏頭痛屬已註銷的 ergotamine 複方）",
+    "L2–L3 的依據「已有臨床使用經驗」其實是其他成分或複方的經驗",
+    "附帶發現：文獻 PMID 8573923 是日光性蕁麻疹機轉研究，MeSH 標的是 homochlorcyclizine 等，未見 cyclizine 單方療效數據"
+   ],
+   "remaining_support": [
+    "H1 受體拮抗的藥理類別推論（蕁麻疹、鼻炎）——類別層級，不是 cyclizine 的臨床數據",
+    "頭痛：只有含 cyclizine 的複方試驗（ergotamine＋caffeine＋cyclizine，或含 cyclizine 的止痛複方），cyclizine 本身的貢獻無法分離"
+   ],
+   "rationale": "L2–L3 是建立在「已核准、已有臨床經驗」的前提上，這個前提不成立後就沒有支撐。蕁麻疹、冷蕁麻疹、鼻腔疾病只剩 H1 拮抗的類別推論，查無 cyclizine 單方的臨床研究，屬 L5。頭痛疾患有含 cyclizine 複方的 RCT 與對照試驗，但無法分離 cyclizine 本身的效果，而且在 RCT 中複方不如 naproxen，只能算間接證據，建議 L4。",
+   "note": "原判定的依據「已核准、已有臨床經驗」來自其他成分（homochlorcyclizine、chlorcyclizine）或已註銷複方的許可證。PubMed 與 ClinicalTrials.gov 都查無 cyclizine 單方用於蕁麻疹或鼻炎的臨床研究，只剩 H1 拮抗的類別推論。頭痛方面只有含 ergotamine 的複方試驗，無法分離 cyclizine 本身的效果，而且該複方療效不如 naproxen、嘔吐較多（[PMID 3926322](https://pubmed.ncbi.nlm.nih.gov/3926322/)）。",
+   "sources": [
+    {
+     "title": "PubMed：Acute migraine attack therapy: comparison of naproxen sodium and an ergotamine tartrate compound（PMID 3926322）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/3926322/",
+     "excerpt": "RCT 114 人：naproxen 對比 ergotamine 2 mg＋caffeine＋cyclizine 50 mg 複方治療急性偏頭痛；兩者都縮短發作，naproxen 較佳，複方嘔吐與副作用較多；無法分離 cyclizine 本身的效果。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Migraine treated with an antihistamine-analgesic combination（PMID 4148490）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/4148490/",
+     "excerpt": "1973 年對照試驗：含 cyclizine 的抗組織胺／止痛複方治療偏頭痛（MeSH 另列 ergotamine、codeine、acetaminophen）；無摘要，無法確認 cyclizine 單獨效果。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Detection of action, inhibition and augmentation spectra in solar urticaria（PMID 8573923）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/8573923/",
+     "excerpt": "日光性蕁麻疹作用光譜研究（單一個案機轉研究）；MeSH 列 homochlorcyclizine、terfenadine、azelastine 等，非 cyclizine 單方療效證據。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Standard treatment: the role of antihistamines（PMID 11764306）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11764306/",
+     "excerpt": "抗組織胺治療蕁麻疹的類別回顧（MeSH 列 cyclizine 等）；類別層級，無 cyclizine 專屬臨床試驗。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Cyclizine anaphylaxis, when administered with propanidid（PMID 5762012）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/5762012/",
+     "excerpt": "反面／安全性：cyclizine 與 propanidid 併用時發生過敏性休克的個案報告。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "cyclizine × urticaria／migraine／rhinitis",
+     "result": "皆查無登錄試驗（2026-10-03）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L2-L3 (已有臨床使用經驗) |",
+     "replacement": "| 證據等級 | 頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5（2026-10-03 重審降級） |"
+    },
+    {
+     "label": "結論「整體證據等級」",
+     "claim": "| 整體證據等級 | **L2-L3 (已有臨床經驗)** |",
+     "replacement": "| 整體證據等級 | **L4**（頭痛疾患；其餘三筆 L5，2026-10-03 重審降級） |"
+    }
+   ]
+  },
+  {
+   "id": "gemcitabine-breast-rereview-result-2026-10-03",
+   "drug": "gemcitabine",
+   "file": "gemcitabine.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "gemcitabine-breast-rereview-2026-10-03",
+   "summary": "女性乳腺癌預測重審結果",
+   "claim": "| 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |",
+   "prediction": "女性乳腺癌 (female breast carcinoma)",
+   "verdict": "maintain",
+   "original_level": "L2",
+   "new_level": "L2",
+   "level_note": "L2",
+   "flawed_premises": [
+    "推論句「其成分在轉移性大腸直腸癌中的療效已被證實，機轉上可能適用於女性乳腺癌」——大腸直腸癌是 bevacizumab 的適應症，不是 gemcitabine 的"
+   ],
+   "remaining_support": [
+    "頁面原列的乳癌臨床試驗與文獻本身成立（NCT00006459、NCT00561119 等第三期試驗）",
+    "乳癌（併用 paclitaxel，用於曾接受 anthracycline 的局部復發無法切除或轉移性乳癌）已在台灣 gemcitabine 許可證核准範圍內"
+   ],
+   "rationale": "錯誤前提只是一句籠統的推論，跟乳癌證據無關；扣掉之後，頁面原列的乳癌試驗與另查得的第三期 RCT（PMID 18711184）都還在，證據強度沒有被高估（以 methodology 定義來看，轉移性乳癌其實已有 ≥2 個第三期試驗，達 L1 門檻）。但乳癌（併用 paclitaxel）本來就是台灣核准適應症，這筆是模型「找回已知適應症」，不是新適應症；而早期乳癌輔助治療的第三期試驗為陰性（PMID 28479233）。",
+   "note": "「在大腸直腸癌已證實」這句前提錯誤，但跟乳癌證據無關。轉移性乳癌另有第三期試驗：gemcitabine 併用 paclitaxel 的中位存活優於單用 paclitaxel（18.6 vs 15.8 個月，[PMID 18711184](https://pubmed.ncbi.nlm.nih.gov/18711184/)）；早期乳癌輔助治療加 gemcitabine 的第三期試驗則沒有益處（[PMID 28479233](https://pubmed.ncbi.nlm.nih.gov/28479233/)）。要注意的是，乳癌（併用 paclitaxel）本來就是台灣 gemcitabine 的核准適應症，這筆預測是找回已知適應症，不是新適應症。",
+   "sources": [
+    {
+     "title": "PubMed：Gemcitabine plus Paclitaxel versus Paclitaxel monotherapy in patients with metastatic breast cancer and prior anthracycline treatment（PMID 18711184）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18711184/",
+     "excerpt": "Albain 2008 JCO 第三期 RCT（529 人，曾用 anthracycline 的轉移性乳癌）：gemcitabine＋paclitaxel 對比 paclitaxel，中位存活 18.6 vs 15.8 個月（HR 0.78），TTP 與反應率較佳，3–4 級嗜中性球減少較多。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Biomarker assessment of the CBCSG006 trial: a randomized phase III trial of cisplatin plus gemcitabine compared with paclitaxel plus gemcitabine as first-line therapy for patients with metastatic triple-negative breast cancer（PMID 29905759）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29905759/",
+     "excerpt": "CBCSG006 第三期 RCT（轉移性三陰性乳癌一線 cisplatin＋gemcitabine 對比 paclitaxel＋gemcitabine）的生物標記分析；兩組都含 gemcitabine。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Addition of gemcitabine to paclitaxel, epirubicin, and cyclophosphamide adjuvant chemotherapy for women with early-stage breast cancer (tAnGo): final 10-year follow-up of an open-label, randomised, phase 3 trial（PMID 28479233）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/28479233/",
+     "excerpt": "反面：tAnGo 第三期 RCT 10 年追蹤，早期乳癌輔助化療加 gemcitabine 無 DFS 益處、毒性增加。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "ClinicalTrials.gov：Paclitaxel With or Without Gemcitabine in Treating Women With Advanced Breast Cancer（NCT00006459）",
+     "url": "https://clinicaltrials.gov/study/NCT00006459",
+     "excerpt": "頁面原列的第三期試驗：gemcitabine＋paclitaxel 對比 paclitaxel 用於不可切除局部復發或轉移性乳癌（已完成）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+   "decision_note": "建議頁面標明「此為已核准適應症（轉移性乳癌併用 paclitaxel），非新適應症」；是否依 L1 門檻上調等級，不在本次重審範圍，交站方決定。"
+  },
+  {
+   "id": "isosorbide-mononitrate-hypertrichosis-rereview-result-2026-10-03",
+   "drug": "isosorbide_mononitrate",
+   "file": "isosorbide_mononitrate.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "isosorbide-mononitrate-hypertrichosis-rereview-2026-10-03",
+   "summary": "多毛症預測重審結果",
+   "claim": "| 預測新適應症 | 多毛症 (Hypertrichosis) |",
+   "prediction": "多毛症 (Hypertrichosis)",
+   "verdict": "maintain",
+   "original_level": "L5",
+   "new_level": "L5",
+   "level_note": "L5",
+   "flawed_premises": [
+    "「minoxidil 促進毛髮生長主要透過開放 K⁺ 通道」寫成定論（仿單：機轉尚未完全了解）。這句在原文是用來削弱預測的保留意見，不是支持理由；體外研究支持 K⁺ 通道假說（PMID 15816824、18258787），所以應視為未定論，不是已證偽"
+   ],
+   "remaining_support": [
+    "無：原文本來就寫「無任何前臨床、臨床試驗或文獻支持」，只有 NO 血管擴張→毛囊微循環的概念推測"
+   ],
+   "rationale": "錯誤前提出現在保留意見裡，拿掉它不會增加或減少支持；原本就是 L5、Hold，重新查詢也查無任何直接證據。另外要注意，原文的類比談的是「促進毛髮生長」，邏輯上比較接近「可能誘發多毛」，而不是「治療多毛症」，推論方向本身就不清楚。",
+   "note": "被加註的那句（minoxidil 生髮靠開放 K⁺ 通道）在原文是用來削弱預測的保留意見，不是支持理由；仿單寫明機轉未完全了解，但體外研究支持這個假說（[PMID 15816824](https://pubmed.ncbi.nlm.nih.gov/15816824/)）。重新查詢 PubMed 與 ClinicalTrials.gov，仍查無硝酸鹽類藥物與多毛症或毛髮生長的研究。另外，原文的類比談的是促進毛髮生長，與「治療多毛症」方向不一致。",
+   "sources": [
+    {
+     "title": "PubMed：Novel and established potassium channel openers stimulate hair growth in vitro: implications for their modes of action in hair follicles（PMID 15816824）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15816824/",
+     "excerpt": "體外研究：多種 K⁺ 通道開放劑可刺激毛囊生長，支持 minoxidil 的 K⁺ 通道假說（與本藥無關，只用來說明錯誤前提的性質）。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Human hair follicles contain two forms of ATP-sensitive potassium channels, only one of which is sensitive to minoxidil（PMID 18258787）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18258787/",
+     "excerpt": "人類毛囊含兩種 ATP 敏感 K⁺ 通道，只有一種對 minoxidil 敏感（同上，只用來說明前提的性質）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "isosorbide mononitrate／nitroglycerin／glyceryl trinitrate × hypertrichosis／hirsutism／hair growth／alopecia",
+     "result": "查無相關人體或動物研究（2026-10-03）。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "isosorbide × hypertrichosis／alopecia、nitroglycerin × alopecia",
+     "result": "查無登錄試驗（2026-10-03）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定"
+  },
+  {
+   "id": "milrinone-alopecia-rereview-result-2026-10-03",
+   "drug": "milrinone",
+   "file": "milrinone.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "milrinone-alopecia-rereview-2026-10-03",
+   "summary": "禿髮症／毛髮稀疏症預測重審結果",
+   "claim": "| 預測新適應症 | 禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹、頭痛障礙、充血性心衰竭 |",
+   "prediction": "禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹",
+   "verdict": "withdraw",
+   "original_level": "L5",
+   "new_level": "L5",
+   "level_note": "L5（這三筆在頁面結論表為 L5；頁面整體 L3 來自頭痛障礙，不在本次範圍）",
+   "flawed_premises": [
+    "唯一的機轉理由「PDE 抑制劑（如 minoxidil）已知可促進毛髮生長」——minoxidil 是直接作用的血管擴張劑，不是 PDE 抑制劑"
+   ],
+   "remaining_support": [
+    "原文第 2、3 點（「理論上可能有類似作用」「缺乏直接證據」）都依附在錯誤前提上，沒有獨立支撐"
+   ],
+   "rationale": "原推論唯一的理由是錯誤前提，拿掉後沒有任何支撐；milrinone 與毛髮的研究在 PubMed 與 ClinicalTrials.gov 都是零筆。cilostazol 的前臨床研究顯示 PDE3 抑制在類別層級可能和毛髮生長有關，但那是不同藥物，不能據此推回 milrinone；先天性毛髮稀疏症合併粟粒疹屬遺傳疾病，更沒有任何依據。等級已是 L5，無法再降。頁面原本就是「不建議進一步開發」，與此結論一致。",
+   "note": "撤回範圍：禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹三筆。原推論唯一的理由「minoxidil 是 PDE 抑制劑」不成立，拿掉後沒有其他支撐。PubMed 查 milrinone 與毛髮或禿髮的研究為零筆，ClinicalTrials.gov 也查無登錄試驗。另一個 PDE3 抑制劑 cilostazol 有促進毛髮生長的前臨床研究（[PMID 29678305](https://pubmed.ncbi.nlm.nih.gov/29678305/)），但藥物不同，不能當作 milrinone 的證據。頭痛障礙與充血性心衰竭兩筆不受影響。",
+   "sources": [
+    {
+     "title": "PubMed：The effect of cilostazol, a phosphodiesterase 3 (PDE3) inhibitor, on human hair growth with the dual promoting mechanisms（PMID 29678305）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/29678305/",
+     "excerpt": "另一個 PDE3 抑制劑 cilostazol 的前臨床研究：可促進人類毛乳頭細胞增生、離體毛幹延長與小鼠生長期誘導。藥物不同，而且只是前臨床，不能當 milrinone 的證據。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "milrinone × hair／alopecia／hypotrichosis",
+     "result": "0 筆（2026-10-03）。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "milrinone × alopecia／hypotrichosis",
+     "result": "查無登錄試驗（2026-10-03）。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "結論「評估結論」禿髮症列",
+     "claim": "| 禿髮症 | L5 | 低 | 不建議優先開發 |",
+     "replacement": "| 禿髮症 | L5 | 低 | 撤回（2026-10-03 重審） |"
+    }
+   ]
+  },
+  {
+   "id": "diosmin-amenorrhea-rereview-result-2026-10-03",
+   "drug": "diosmin",
+   "file": "diosmin.md",
+   "checked": "2026-10-03",
+   "action": "rereview_result",
+   "resolves": "diosmin-amenorrhea-rereview-2026-10-03",
+   "summary": "閉經預測重審結果",
+   "claim": "| 預測新適應症 | 閉經 (amenorrhea) |",
+   "prediction": "閉經 (amenorrhea)",
+   "verdict": "withdraw",
+   "original_level": "L5",
+   "new_level": "L5",
+   "level_note": "頁面快速總覽無證據等級列；front matter 與結論表皆為 L5（臨床試驗、文獻皆無）",
+   "flawed_premises": [
+    "「Diosmin 的原適應症包含機能性月經過多症」：台灣現行 diosmin 有效許可證都不含此適應症，只見於已註銷的達復朗糖衣錠（見 diosmin-amenorrhea-premise-2026-10-03）"
+   ],
+   "remaining_support": [
+    "「血管保護與抗發炎作用可能影響子宮內膜血流」的理論推測；原文同段已寫「從月經過多到閉經的機轉連結極為薄弱」"
+   ],
+   "rationale": "原推論中唯一與本藥直接相關的理由是錯誤前提，扣除後只剩通用的血管保護理論推測，原文自己也判定機轉連結極弱。直接查詢（PubMed、ClinicalTrials.gov）diosmin 與閉經皆為零筆。最接近的人體資料是異常子宮出血／經血過多：RCT（PMID 38029032）顯示加上 diosmin 後經血量與出血天數減少更多，另有短篇報告（PMID 15847886）與登錄試驗 NCT02616731，作用方向都是減少經血，與治療閉經相反，屬反面證據。前臨床的大鼠研究（PMID 33802633）顯示 diosmin 可減輕 cyclophosphamide 造成的卵巢損傷，終點是卵巢組織與荷爾蒙、沒有評估月經或動情週期，不能當作閉經的證據；PCOS 登錄試驗 NCT06083935 狀態不明、無結果、主要終點是發炎與血糖。推論失去依據，證據等級已是 L5 無法再降，裁定撤回。頁面原結論即為「不推薦／不建議進行老藥新用研究」，與此一致。",
+   "note": "原推論中唯一跟本藥有關的理由「原適應症含機能性月經過多症」與台灣許可證不符，剩下的只是血管保護作用可能影響子宮內膜血流的理論推測，原文也寫明機轉連結極為薄弱。PubMed 與 ClinicalTrials.gov 都查無 diosmin 用於閉經的研究。最接近的人體資料是異常子宮出血：diosmin 合併 tranexamic acid 與 mefenamic acid 的隨機對照試驗中，經血量與出血天數減少得更多（[PMID 38029032](https://pubmed.ncbi.nlm.nih.gov/38029032/)），作用方向是減少經血，與閉經的需求相反。大鼠研究顯示 diosmin 可減輕 cyclophosphamide 造成的卵巢損傷（[PMID 33802633](https://pubmed.ncbi.nlm.nih.gov/33802633/)），但沒有評估月經，不能當作閉經的證據。",
+   "sources": [
+    {
+     "title": "PubMed：To Study the Efficacy and Safety of Diosmin with Tranexamic Acid and Mefenamic Acid Versus only Tranexamic Acid and Mefenamic Acid in Medical Management of Abnormal Uterine Bleeding: A Randomized Controlled Trial（PMID 38029032）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38029032/",
+     "excerpt": "Both the group's diosmin with tranexamic acid and mefenamic acid (Group I) and tranexamic acid and mefenamic acid (Group II) were efficacious in reducing menstrual blood loss, number of menstrual days and dysmenorrhea with effect being more by addition of diosmin.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Treatment of abnormal uterine bleeding with micronized flavonoids（PMID 15847886）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/15847886/",
+     "excerpt": "Int J Gynaecol Obstet 2005;89(2):156-7（短篇報告，無摘要）：micronized flavonoids 用於異常子宮出血。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "ClinicalTrials.gov：Oral Tranexamic Acid Versus Diosmin for Treatment of Menorrhagia in Women Using Copper IUD（NCT02616731）",
+     "url": "https://clinicaltrials.gov/study/NCT02616731",
+     "excerpt": "Condition: Menorrhagia；比較口服 tranexamic acid 與 diosmin 治療銅 IUD 使用者的經血過多。",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "PubMed：Diosmin Mitigates Cyclophosphamide Induced Premature Ovarian Insufficiency in Rat Model（PMID 33802633）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/33802633/",
+     "excerpt": "Based on our findings, diosmin has a dose-dependent protective effect against cyclophosphamide-induced ovarian toxicity in rats.（前臨床；終點為卵巢組織學、FSH、E2、AMH，未評估月經或動情週期）",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "ClinicalTrials.gov：Evaluation of the Effects of Diosmin/Hespiridin Combination on the Clinical Outcomes in Patients With Polycystic Ovary Syndrome（NCT06083935）",
+     "url": "https://clinicaltrials.gov/study/NCT06083935",
+     "excerpt": "Phase 4，狀態 UNKNOWN，無結果；主要終點 Improvement of the inflammation、glycemic index、PCOS status levels、quality of life，未以月經恢復為終點。",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "diosmin AND amenorrhea",
+     "result": "0 筆",
+     "accessed": "2026-10-03"
+    },
+    {
+     "db": "PubMed",
+     "query": "(\"micronized purified flavonoid fraction\" OR Daflon) AND (amenorrhea OR menstrual OR menorrhagia)",
+     "result": "6 筆，皆為經血過多／骨盆鬱血／經前靜脈症狀，無閉經",
+     "accessed": "2026-10-03"
+    },
+    {
+     "db": "PubMed",
+     "query": "diosmin AND (ovary OR ovarian OR endometrium OR uterine)",
+     "result": "15 筆，相關者為 PMID 33802633（大鼠卵巢保護）、OHSS 預防研究；無閉經",
+     "accessed": "2026-10-03"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "intervention=diosmin, condition=amenorrhea",
+     "result": "0 筆",
+     "accessed": "2026-10-03"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "intervention=diosmin, condition=premature ovarian insufficiency",
+     "result": "0 筆",
+     "accessed": "2026-10-03"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "term=diosmin amenorrhea",
+     "result": "0 筆",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "結論「證據等級總結」閉經列",
+     "claim": "| 閉經 | 0.9942 | 無 | 無 | 極低 | 不推薦 |",
+     "replacement": "| 閉經 | 0.9942 | 無 | 無 | 極低 | 撤回（2026-10-03 重審） |"
+    }
+   ]
   }
  ]
 }

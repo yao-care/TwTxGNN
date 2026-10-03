@@ -85,7 +85,8 @@ def main():
             if r["action"] == "section" or r.get("status") == "superseded":
                 continue
             if r["action"] == "correct":
-                gone = r["replacement"] not in body and r["claim"] not in body
+                olds = [h["replacement"] for h in r.get("history") or [] if h.get("replacement")]
+                gone = all(x not in body for x in [r["replacement"], r["claim"], *olds])
                 owns_count = bool(COUNT_RE.search(r["replacement"]))
             else:
                 gone = (r.get("anchor") or r["claim"]) not in body

@@ -85,6 +85,12 @@ Magnesium sulfate 為多用途藥物，TxGNN 預測其用於子癇前症/子癇�
    - 降低腦血管痙攣及腦灌流壓
    - 有效預防子癇症痙攣發作
 
+<!-- review:begin magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單寫硫酸鎂是藉阻斷神經肌肉傳導、減少乙醯膽鹼釋放來預防或控制抽搐，另有中樞抑制與周邊血管擴張作用；沒有「降低腦血管痙攣及腦灌流壓」，本段的 NMDA 受體阻斷與抗發炎作用也不在仿單內。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
+
+<!-- review:end magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
+
 2. **血管擴張效應**：
    - 作為鈣離子拮抗劑，可放鬆血管平滑肌
    - 減少周邊血管阻力
@@ -356,6 +362,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 | 2026-10-03 | 許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 機轉列「降低腦血管痙攣及腦灌流壓」 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 
 <!-- review:end log -->
 

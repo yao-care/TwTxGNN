@@ -74,6 +74,12 @@ Methocarbamol 是一種中樞性骨骼肌鬆弛劑，TxGNN 預測其可能對馬
 
 Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統抑制多突觸反射弧。其機轉與預測適應症的關聯：
 
+<!-- review:begin methocarbamol-moa-polysynaptic-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單寫 methocarbamol 在人體的作用機轉尚未確立，可能與一般性中樞神經抑制有關；「抑制多突觸反射弧」不是仿單確認的機轉。原文保留。依據：[DailyMed：Methocarbamol Tablets, USP 仿單（Granules），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c)。
+
+<!-- review:end methocarbamol-moa-polysynaptic-2026-10-03 -->
+
 1. **馬尾症候群**（TxGNN Score: 0.9998）
    - 馬尾症候群常伴隨嚴重的肌肉痙攣
    - Methocarbamol 的肌肉鬆弛作用可能有助於緩解相關症狀
@@ -199,6 +205,7 @@ Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Methocarbamol Tablets, USP 仿單（Granules）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c) |
+| 2026-10-03 | 把抑制多突觸反射弧寫成確定的主要機轉 | 加註 | [DailyMed：Methocarbamol Tablets, USP 仿單（Granules），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c) |
 
 <!-- review:end log -->
 

@@ -63,6 +63,12 @@ indication_count: 2
 3. **免疫調節**: 可能具有增強局部免疫反應的作用
 4. **歷史應用**: 傳統上用於治療深部真菌感染
 
+<!-- review:begin potassium-iodide-antifungal-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：碘化鉀用於孢子絲菌病有依據（WHO 基本藥物清單列為抗真菌藥），但其抗真菌作用機轉尚未確定；所查來源只列孢子絲菌病，沒有接合菌病。原文保留。依據：[PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）](https://pubchem.ncbi.nlm.nih.gov/compound/4875)。
+
+<!-- review:end potassium-iodide-antifungal-2026-10-03 -->
+
 ### 急性喉咽炎預測分析 (TxGNN Score: 0.9995, Rank: 1664)
 
 1. **祛痰作用**: 碘化鉀可增加呼吸道分泌物,有助於痰液排出
@@ -224,6 +230,7 @@ indication_count: 2
 |---------|------|------|------|
 | 2026-10-03 | 碘楊酸外用液劑許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原核准適應症」混入複方與已註銷許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 說碘化鉀對孢子絲菌病和接合菌病有已知抗真菌活性 | 加註 | [PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）](https://pubchem.ncbi.nlm.nih.gov/compound/4875) |
 
 <!-- review:end log -->
 

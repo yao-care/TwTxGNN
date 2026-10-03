@@ -41,13 +41,19 @@ Enfortumab vedotin（備思復）是靶向 Nectin-4 的抗體藥物結合物 (AD
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 局部晚期或轉移性泌尿道上皮癌 (mUC) |
+| 原適應症 | 局部晚期或轉移性泌尿道上皮癌 (mUC)；與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號） |
 | 預測新適應症 | HER2 陽性乳癌 (HER2 Positive Breast Carcinoma) |
 | TxGNN 預測分數 | 98.99% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin enfortumab-vedotin-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／局部晚期或轉移性泌尿道上皮癌 (mUC)」。台灣許可證另核准與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療，頁面原只列 mUC。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end enfortumab-vedotin-original-indication-2026-10-03 -->
 
 ---
 
@@ -145,6 +151,19 @@ EV-202（NCT04225117）Phase 2 籃子試驗已直接納入乳癌 cohort，正式
 - 與現有 HER2 靶向 ADC（T-DM1、T-DXd）療效的比較或互補性分析
 - 釐清 Nectin-4 / HER2 共陽性族群的精準篩選標準
 - 制定合併降糖藥使用時的血糖監測與劑量調整計畫
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 原適應症漏列肌肉侵犯性膀胱癌（MIBC） | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

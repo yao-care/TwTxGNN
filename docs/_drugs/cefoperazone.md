@@ -59,6 +59,12 @@ TxGNN 模型預測它可能對**肺炎（Pneumonia）** 具有更系統性的應
 
 原適應症（廣譜細菌感染）與肺炎之間的關聯性極為直接。肺炎鏈球菌（*Streptococcus pneumoniae*）、克雷伯氏肺炎桿菌（*Klebsiella pneumoniae*）、假單胞菌（*Pseudomonas* spp.）及鮑曼不動桿菌等均為 Cefoperazone 的主要抗菌目標，同時也是院內肺炎（HAP）與呼吸器相關肺炎（VAP）的常見致病菌。
 
+<!-- review:begin cefoperazone-acinetobacter-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：Cefoperazone 單方仿單列出的活性菌種有肺炎鏈球菌、克雷伯氏菌、假單胞菌等，沒有不動桿菌，且把 Acinetobacter 列為排除菌屬；對鮑曼不動桿菌的活性主要來自與 sulbactam 的複方。原文保留。依據：[Drugs@FDA：CEFOBID（cefoperazone）仿單（2017），Microbiology](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/050551s045lbl.pdf)。
+
+<!-- review:end cefoperazone-acinetobacter-2026-10-03 -->
+
 特別是 Cefoperazone/Sulbactam 組合，因 Sulbactam 對鮑曼不動桿菌具天然固有抑制活性，使其成為應對廣泛耐藥（XDR）院內肺炎的重要選擇。現有一項已發表的隨機非劣性試驗支持其療效，機轉上的合理性充分。
 
 ---
@@ -177,6 +183,7 @@ TxGNN 模型預測它可能對**肺炎（Pneumonia）** 具有更系統性的應
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表中 4 列為 cefoperazone＋sulbactam 複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 把鮑曼不動桿菌列為 cefoperazone 主要抗菌目標 | 加註 | [Drugs@FDA：CEFOBID（cefoperazone）仿單（2017），Microbiology](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/050551s045lbl.pdf) |
 
 <!-- review:end log -->
 

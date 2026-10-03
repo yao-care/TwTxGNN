@@ -55,9 +55,15 @@ Zanubrutinib 是高選擇性的布魯頓酪氨酸激酶 (BTK) 抑制劑。
 BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可阻斷惡性 B 細胞的增殖與存活。
 
 **作用機轉：**
-- 抑制 BTK (Bruton tyrosine kinase)，IC50 約 20 nM
+- 抑制 BTK (Bruton tyrosine kinase)，細胞試驗 IC50 約 1.8 nM（BTK pY223）
 - 相較於 ibrutinib，具有更高的 BTK 選擇性
 - 較少 off-target 效應，心房顫動等副作用較低
+
+<!-- review:begin zanubrutinib-btk-ic50-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「- 抑制 BTK (Bruton tyrosine kinase)，IC50 約 20 nM」。EMA 評估報告記載 zanubrutinib 在細胞試驗中抑制 BTK 磷酸化（pY223）的 IC50 為 1.8 nM、BTK 佔據試驗為 2.2 nM，不是 20 nM。依據：[EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics](https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf)。
+
+<!-- review:end zanubrutinib-btk-ic50-2026-10-03 -->
 
 雖然 BTK 主要表現於 B 細胞，但近年研究發現 BTK 在某些骨髓性惡性腫瘤中也有表現，
 這可能是預測 zanubrutinib 對骨髓性白血病有效的機轉基礎。
@@ -142,6 +148,18 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 - 設計專門針對骨髓性白血病的 Phase 1/2 臨床試驗
 - 評估與現有骨髓性白血病治療藥物的聯合效果
 - 建立生物標記預測可能受益的患者亞群
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | BTK IC50 寫約 20 nM | 更正 | [EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics](https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

@@ -57,9 +57,21 @@ TxGNN 模型預測它可能對**葡萄球菌燙傷樣皮膚症候群（Staphyloc
 
 目前缺乏詳細的作用機轉資料（Data Gap）。根據已知資訊，Fidaxomicin 藉由抑制細菌 **RNA 聚合酶的 σ 因子釋放步驟**來發揮抗菌作用，對革蘭氏陽性菌（包括 *Clostridioides difficile*）具有高度選擇性。
 
+<!-- review:begin fidaxomicin-moa-sigma-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單寫 fidaxomicin 結合細菌 RNA 聚合酶、抑制 RNA 合成（作用位置與 rifamycin 不同）；PubChem 收錄的機轉是結合 DNA 模板－RNA 聚合酶複合體，阻止轉錄起始時 DNA 雙股分離。所查來源沒有「σ 因子釋放步驟」的說法。原文保留。依據：[DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb)；[EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2](https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf)；[PubChem：Fidaxomicin（CID 10034073），Pharmacology and Biochemistry › Mechanism of Action（DrugBank 提供）](https://pubchem.ncbi.nlm.nih.gov/compound/10034073)。
+
+<!-- review:end fidaxomicin-moa-sigma-2026-10-03 -->
+
 葡萄球菌燙傷樣皮膚症候群（SSSS）由 *Staphylococcus aureus* 噬菌體 II 型產生的剝脫毒素所引起。由於 *S. aureus* 同屬革蘭氏陽性菌，Fidaxomicin 理論上可透過抑制其 RNA 聚合酶、減少毒素基因轉錄來發揮作用。CDAD 與 SSSS 同屬細菌毒素媒介疾病，這是模型做出此預測的生物學基礎。
 
 然而，Fidaxomicin 有一個根本性的藥動學障礙：**口服生體可用率極低（< 1%）**，藥物幾乎全部停留於腸道局部，無法達到全身性治療 SSSS 所需的系統性血中濃度。目前亦無任何外用或靜脈注射劑型上市，因此在製劑條件未解決之前，機轉上的合理性難以轉化為臨床可行性。
+
+<!-- review:begin fidaxomicin-bioavailability-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單沒有「< 1%」這個數字：EMA 仿單寫人體生體可用率未知，美國仿單寫全身吸收極少、血中濃度在 ng/mL 範圍。全身暴露很低的方向與仿單一致。原文保留。依據：[EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2](https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf)；[DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb)。
+
+<!-- review:end fidaxomicin-bioavailability-2026-10-03 -->
 
 ---
 
@@ -126,6 +138,20 @@ TxGNN 模型預測它可能對**葡萄球菌燙傷樣皮膚症候群（Staphyloc
 - 評估外用製劑（如局部皮膚應用）的技術可行性
 - 取得 DrugBank 完整 MOA 資料以強化機轉分析
 - 至少達到前臨床動物模型（in vivo）的初步療效證據，才可重新評估升至 Go
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 作用機轉寫成「σ 因子釋放步驟」 | 加註 | [DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb)；[EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2](https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf)；[PubChem：Fidaxomicin（CID 10034073），Pharmacology and Biochemistry › Mechanism of Action（DrugBank 提供）](https://pubchem.ncbi.nlm.nih.gov/compound/10034073) |
+| 2026-10-03 | 口服生體可用率寫「< 1%」 | 加註 | [EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2](https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf)；[DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

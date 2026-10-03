@@ -49,11 +49,11 @@ Milrinone 是一種磷酸二酯酶抑制劑，TxGNN 預測其對禿髮症及頭�
 | 最高預測分數 | 0.9991（禿髮症） |
 | 證據等級 | L3（觀察性研究/病例報告 - 頭痛障礙） |
 
-<!-- review:begin milrinone-alopecia-rereview-2026-10-03 -->
+<!-- review:begin milrinone-alopecia-rereview-result-2026-10-03 -->
 
-> **待重審（2026-10-03）**：禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹這幾筆預測的機轉理由有一項前提與仿單不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；頭痛障礙與充血性心衰竭不在此列。證據等級、文獻與決策在重審完成前不更動。依據：[DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789)。
+> **重審結果（2026-10-03）**：**撤回**（證據等級 L5 不變）。撤回範圍：禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹三筆。原推論唯一的理由「minoxidil 是 PDE 抑制劑」不成立，拿掉後沒有其他支撐。PubMed 查 milrinone 與毛髮或禿髮的研究為零筆，ClinicalTrials.gov 也查無登錄試驗。另一個 PDE3 抑制劑 cilostazol 有促進毛髮生長的前臨床研究（[PMID 29678305](https://pubmed.ncbi.nlm.nih.gov/29678305/)），但藥物不同，不能當作 milrinone 的證據。頭痛障礙與充血性心衰竭兩筆不受影響。本頁結論「評估結論」禿髮症列已依重審結果更新，原值列在下方查核紀錄。依據：[PubMed：The effect of cilostazol, a phosphodiesterase 3 (PDE3) inhibitor, on human hair growth with the dual promoting mechanisms（PMID 29678305）](https://pubmed.ncbi.nlm.nih.gov/29678305/)。
 
-<!-- review:end milrinone-alopecia-rereview-2026-10-03 -->
+<!-- review:end milrinone-alopecia-rereview-result-2026-10-03 -->
 
 ---
 
@@ -174,7 +174,7 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 | 預測適應症 | 證據等級 | 臨床轉譯可行性 | 建議優先順序 |
 |-----------|---------|---------------|-------------|
 | 頭痛障礙（RCVS） | L3 | 中等 | 建議進一步研究 |
-| 禿髮症 | L5 | 低 | 不建議優先開發 |
+| 禿髮症 | L5 | 低 | 撤回（2026-10-03 重審） |
 | 心衰竭 | L1 | 高（已核准） | 不適用 |
 
 ### 建議
@@ -204,12 +204,13 @@ Milrinone 是選擇性磷酸二酯酶-3（PDE3）抑制劑，透過增加細胞�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 預測理由「PDE 抑制劑（如 minoxidil）已知可促進毛髮生長」 | 加註 | [DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789)；[NLM MeSH：Minoxidil（D008914）](https://meshb.nlm.nih.gov/record/ui?ui=D008914)；[emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
-| 2026-10-03 | 禿髮症／毛髮稀疏症預測標記待重審 | 標記待重審 | [DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789) |
+| 2026-10-03 | 禿髮症／毛髮稀疏症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：Minoxidil Tablets USP 仿單（American Health Packaging），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0b4fc036-9497-442b-b629-c4b386932789) |
+| 2026-10-03 | 禿髮症／毛髮稀疏症預測重審結果 | 重審：撤回，證據等級 L5 不變；結論「評估結論」禿髮症列：原「禿髮症／L5／低／不建議優先開發」→「禿髮症／L5／低／撤回（2026-10-03 重審）」 | [PubMed：The effect of cilostazol, a phosphodiesterase 3 (PDE3) inhibitor, on human hair growth with the dual promoting mechanisms（PMID 29678305）](https://pubmed.ncbi.nlm.nih.gov/29678305/) |
 
 <!-- review:end log -->
 

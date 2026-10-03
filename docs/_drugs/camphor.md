@@ -33,9 +33,15 @@ indication_count: 10
 
 ## 一句話總結
 
-Camphor 是一種天然萜類化合物，台灣許可適應症以心臟衰弱之興奮、呼吸困難及新生兒窒息的急性支持為代表。
+Camphor 是一種天然萜類化合物，台灣現行單方許可證為外用軟膏／乳膏，適應症為燙傷、刀傷、昆蟲咬傷等外傷。
 TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 目前有 **0 個臨床試驗**和 **5 篇文獻**支持這個方向。
+
+<!-- review:begin camphor-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「台灣許可適應症以心臟衰弱之興奮、呼吸困難及新生兒窒息的急性支持為代表。」。心臟衰弱之興奮、呼吸困難、新生兒窒息出自已註銷的 trans-oxocamphor 注射劑（康心針），不是 camphor；現行 camphor 單方許可證是外用軟膏／乳膏，適應症為燙傷、刀傷、蟲咬傷等外傷。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end camphor-summary-indication-2026-10-03 -->
 
 ---
 
@@ -43,7 +49,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息 |
+| 原適應症 | 燙傷、刀傷、昆蟲咬傷、一般外傷（衛署成製字第003013號）；切傷、刀傷、創傷、火傷、蟲咬傷、頭暈（衛署成製字第013693號） |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
 | TxGNN 預測分數 | 99.85% |
 | 證據等級 | L4 |
@@ -53,7 +59,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 <!-- review:begin camphor-original-indication-oxocamphor-2026-10-03 -->
 
-> **查核加註（2026-10-03）**：這段適應症來自「康心針」（內衛藥製字第007950號），TFDA 登載的主成分是 trans-oxocamphor（氧樟腦），不是 camphor，且該證已於 1988-07-19 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「原適應症／心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息」。原寫內容來自「康心針」（內衛藥製字第007950號），TFDA 登載的主成分是 trans-oxocamphor（氧樟腦），不是 camphor，且該證已於 1988-07-19 註銷。已改為現行有效 camphor 單方許可證（2 張外用軟膏／乳膏）的適應症原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end camphor-original-indication-oxocamphor-2026-10-03 -->
 
@@ -139,8 +145,9 @@ Camphor 對 TRPV1/TRPM8 受體的調節雖在機轉上提供了偏頭痛的理�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症」為已註銷 oxocamphor 注射劑的適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」為已註銷 oxocamphor 注射劑的適應症 | 更正（2026-10-03 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表中 3 張為 oxocamphor、2 張為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 一句話總結的台灣許可適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

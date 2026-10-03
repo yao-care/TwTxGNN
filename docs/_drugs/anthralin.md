@@ -57,6 +57,12 @@ TxGNN 模型預測它可能對**圓禿 (Alopecia Areata)** 有效，
 
 目前 DrugBank 尚未提供 Anthralin 的正式作用機轉資料。根據現有研究文獻，Anthralin 透過**誘導活性氧（ROS）並抑制粒線體氧化磷酸化**，下調 IL-1、IL-6、TNF-α 等促炎細胞因子，進而抑制局部免疫炎症反應。在牛皮癬治療中，這種機轉能有效緩解角質細胞異常增殖與 T 細胞驅動的皮膚炎症。
 
+<!-- review:begin anthralin-moa-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單寫 anthralin 的確切機轉尚未完全了解，已知有抗增生（抑制 DNA 合成、強還原性）與抗發炎作用，並與誘導脂質過氧化、降低內皮黏附分子有關；沒有提到抑制粒線體氧化磷酸化或下調 IL-1、IL-6、TNF-α。原文保留。依據：[DailyMed：ZITHRANOL-RR（anthralin）Cream 仿單（Elorac），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=45bad116-0351-442f-8e49-f11089a955fd)。
+
+<!-- review:end anthralin-moa-2026-10-03 -->
+
 圓禿與牛皮癬同屬 **T 細胞介導的自體免疫性皮膚病**，兩者共享關鍵的免疫病理機轉：皮膚局部 CD4⁺/CD8⁺ T 細胞浸潤及促炎細胞因子過度活化。圓禿的核心病理是 T 淋巴細胞對毛囊的自體免疫攻擊（毛囊免疫豁免崩潰），而 Anthralin 恰好能夠減輕毛囊周圍的 T 細胞介導炎症，這為其在圓禿的應用提供了合理的機轉基礎。
 
 機轉合理性更獲實驗證據支持：2003 年以 Dundee 實驗禿毛大鼠模型進行的研究顯示，0.1% Anthralin 外用軟膏能達到 100% 的毛囊活性恢復，並確認其透過細胞因子信號調節發揮療效。臨床上，Anthralin 自 1985 年即被直接用於圓禿治療，英國皮膚科醫學會（BAD）2024 年圓禿治療活體指引亦將其列為治療選項之一。
@@ -147,6 +153,7 @@ Anthralin 用於圓禿的機轉合理性有充分理論依據（T 細胞免疫�
 | 2026-10-03 | 「擁有 9 張有效許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 結論理由「台灣已有 9 張有效許可證、藥品可近性高」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表所列 5 張許可證皆已註銷，其中 3 張為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 機轉寫成誘導 ROS 並抑制粒線體氧化磷酸化 | 加註 | [DailyMed：ZITHRANOL-RR（anthralin）Cream 仿單（Elorac），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=45bad116-0351-442f-8e49-f11089a955fd) |
 
 <!-- review:end log -->
 

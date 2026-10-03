@@ -1,404 +1,686 @@
 {
- "_doc": "藥物頁查核的「待查清單」：查核時覺得可疑、但找不到權威來源明文可直接證明錯誤的項目，依規定不動頁面、只列在這裡。不呈現在網站上（_data 檔不輸出成頁面）。確認後改寫成 docs/_data/drug_reviews.json 的紀錄再刪除本檔對應項目。",
+ "_doc": "藥物頁查核的「待查清單」：查核時覺得可疑、但找不到權威來源明文可直接證明錯誤的項目，依規定不動頁面、只列在這裡。不呈現在網站上（_data 檔不輸出成頁面）。項目一律保留不刪：查清後改寫成 docs/_data/drug_reviews.json 的紀錄，本檔該項標 status=resolved（附 resolved 日期、resolution、record_ids）；查過權威來源仍無法定論的標 status=unresolvable，searched 列出查過的來源、unresolvable_reason 寫明原因。",
  "items": [
   {
    "file": "(全批)",
    "claim": "快速總覽「許可證數」",
    "why": "頁面張數看起來是直接數 TFDA 資料集的列數（同一字號會重複多列），不是不重複的許可證字號數，例如 alirocumab 頁寫 13 張，實際只有衛部菌疫輸字第001037、001038號 2 張；acitretin 寫 6 張，不重複字號 3 張。屬產線計數方法問題，未逐頁寫紀錄，建議改產線。",
    "found": "2026-10-03",
-   "batch": "全站查核第1批"
+   "batch": "全站查核第1批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "程式化許可證計數已取代：「許可證數」列與內文張數改為不重複字號數（例：alirocumab 2 張、acitretin 3 張、rifampicin 155 張），不需紀錄"
   },
   {
    "file": "butenafine.md",
    "claim": "Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物",
    "why": "benzylamine 中文應為「苄胺類」，「苯胺」是 aniline；屬譯名錯誤，但手邊 DailyMed 只有 OTC 仿單（無藥理段），未找到可逐字佐證的官方來源，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第1批"
+   "batch": "全站查核第1批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "butenafine-class-translation-2026-10-03",
+    "butenafine-class-translation-lit-2026-10-03"
+   ]
   },
   {
    "file": "fidaxomicin.md",
    "claim": "Fidaxomicin 藉由抑制細菌 **RNA 聚合酶的 σ 因子釋放步驟**來發揮抗菌作用",
    "why": "DIFICID 美國仿單只寫「inhibits RNA synthesis by binding to RNA polymerases」，未提 σ 因子；找不到仿單逐字可證實或否定「σ 因子釋放步驟」這個細節。",
    "found": "2026-10-03",
-   "batch": "全站查核第2批"
+   "batch": "全站查核第2批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "fidaxomicin-moa-sigma-2026-10-03"
+   ]
   },
   {
    "file": "fidaxomicin.md",
    "claim": "**口服生體可用率極低（< 1%）**",
    "why": "仿單只寫「minimal systemic absorption」、血中濃度在 ng/mL 範圍，未給出 <1% 的數字；方向正確但數字無仿單逐字佐證。",
    "found": "2026-10-03",
-   "batch": "全站查核第2批"
+   "batch": "全站查核第2批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "fidaxomicin-bioavailability-2026-10-03"
+   ]
   },
   {
    "file": "hexachlorophene.md",
    "claim": "Hexachlorophene 在 FDA 的核准外用用途**已全面停用**",
    "why": "DailyMed 查無現行 hexachlorophene（pHisoHex）仿單，無法取得官方逐字來源確認「全面停用」；FDA 1972 年起限制為處方藥的歷史也需另查權威來源。",
    "found": "2026-10-03",
-   "batch": "全站查核第2批"
+   "batch": "全站查核第2批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "hexachlorophene-fda-discontinued-2026-10-03",
+    "hexachlorophene-fda-discontinued-tw-2026-10-03"
+   ]
   },
   {
    "file": "ivermectin.md",
    "claim": "| 原適應症 | 驅蟲劑（疥瘡、糞小桿線蟲感染、蟠尾絲蟲感染） |",
    "why": "美國 Stromectol 仿單只核准糞小桿線蟲與蟠尾絲蟲感染，口服治療疥瘡在部分國家核准；台灣只有原料藥（驅蟲劑）與 Soolantra 乳膏（酒糟），未能確認頁面所列疥瘡的出處，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第3批"
+   "batch": "全站查核第3批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文正確：台灣有效許可證衛部藥輸字第027134號「絲每妥錠3毫克」適應症即疥瘡、腸道糞小桿線蟲感染、蟠尾絲蟲感染，不需紀錄"
   },
   {
    "file": "interferon_beta-1b.md",
    "claim": "4. **歷史應用**：Beta 干擾素曾在 1980-1990 年代用於 HCL 治療",
    "why": "核准用於毛細胞白血病的是 interferon alfa；beta 干擾素曾有小型研究，未找到可逐字佐證或否定「曾用於 HCL 治療」的官方仿單文字，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第3批"
+   "batch": "全站查核第3批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "interferon-beta-1b-hcl-history-2026-10-03"
+   ]
   },
   {
    "file": "lornoxicam.md",
    "claim": "其半衰期較短 (3-5 小時)",
    "why": "印象中 Xefo 仿單寫平均排除半衰期 3～4 小時，但這次未能開到官方仿單逐字確認，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第3批"
+   "batch": "全站查核第3批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "lornoxicam-half-life-2026-10-03"
+   ]
   },
   {
    "file": "hymecromone.md",
    "claim": "其代謝產物 4-methylumbelliferyl glucuronide（4-MUG）可耗竭 UDP-葡萄糖醛酸",
    "why": "文獻描述是 4-MU 被葡萄糖醛酸化的過程消耗 UDP-葡萄糖醛酸，而不是代謝物 4-MUG 去耗竭；hymecromone 沒有 FDA／emc 仿單可對照，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第3批"
+   "batch": "全站查核第3批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "hymecromone-udpgla-depletion-2026-10-03"
+   ]
   },
   {
    "file": "hydroxyurea.md",
    "claim": "| - | Hydroxyurea 膠囊 | 膠囊 | 慢性骨髓性白血病、卵巢癌、頭頸癌 |",
    "why": "沒有寫許可證字號，內容與台灣愛治膠囊／愛得靈膠囊適應症一致；只是無法對應到特定證號，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第3批"
+   "batch": "全站查核第3批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "rotigotine.md",
    "claim": "Rotigotine 是一種非麥角類多巴胺促效劑，對所有五種多巴胺受體亞型（D1-D5）都有活性",
    "why": "美國 Neupro 仿單 12.1 只寫 non-ergoline dopamine agonist，未列受體亞型；未取得能逐字佐證或否定 D4/D5 活性的官方仿單段落，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第4批"
+   "batch": "全站查核第4批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文正確：Neupro SmPC 明載 rotigotine 為 D2、D3 促效劑，亦作用於 D1、D4、D5，不需紀錄"
   },
   {
    "file": "salicylic_acid.md",
    "claim": "| 內衛成製字第000697號 | 癬治水 | 外用液劑 | 頑癬、濕癬、乾癬、疥癬 | 有效 |",
    "why": "TFDA 資料集「註銷狀態」欄空白，但「註銷日期」2009/11/13、註銷理由「藥品類別變更」、有效日期 2009/05/25；狀態寫法矛盾，無法確定應改為已註銷，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第4批"
+   "batch": "全站查核第4批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "potassium_iodide.md",
    "claim": "碘化鉀具有已知的抗真菌活性,特別是對孢子絲菌病和接合菌病",
    "why": "碘化鉀治療孢子絲菌病有臨床用途，但其體外抗真菌活性與作用機轉在官方仿單層級的來源未取得逐字佐證，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第4批"
+   "batch": "全站查核第4批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "potassium-iodide-antifungal-2026-10-03"
+   ]
   },
   {
    "file": "(多頁)",
    "claim": "「許可證數 20 張」：prednisolone.md、rifampicin.md（另見一句話總結「20 張許可證」）、peppermint_oil.md、sodium_acetate.md",
    "why": "疑似產線查詢上限 20 筆造成，TFDA 實際筆數遠多於 20（例：rifampicin 相關許可證百餘張、有效 17 張；prednisolone 有效百餘張），但正確數字依是否計入複方而定，未寫紀錄。pentoxifylline 93 張、pitavastatin 46 張、salicylic_acid 326 張、scopolamine 317 張等大數字同樣口徑不明，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第4批"
+   "batch": "全站查核第4批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "程式化許可證計數已取代：「許可證數」列與內文張數改為不重複字號數（例：alirocumab 2 張、acitretin 3 張、rifampicin 155 張），不需紀錄"
   },
   {
    "file": "palbociclib.md / prilocaine.md / ravulizumab.md / rocuronium.md / sodium_acetate.md",
    "claim": "頁首殘留產線訊息，例如「The `txgnn-pipeline` skill confirms this is TxGNN context work...」「使用 `txgnn-pipeline` 技能確認任務範圍後…」「以下是根據 Evidence Pack 產生的藥物再利用評估報告：」",
    "why": "非藥理或許可證事實，查核紀錄的 action 無對應處理方式，需由產線或人工清除，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第4批"
+   "batch": "全站查核第4批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "page_postprocess.strip_preamble 已清除產線開場白，五頁現已無 txgnn-pipeline／skill／Evidence Pack 字樣，不需紀錄"
   },
   {
    "file": "trabectedin.md",
    "claim": "BRCA 缺陷敏感性：對 BRCA1/2 突變的腫瘤具有特殊療效",
    "why": "DailyMed Yondelis 仿單未提 BRCA，屬文獻層級說法；「特殊療效」可能過度陳述，但未找到權威來源可逐字反駁，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第5批"
+   "batch": "全站查核第5批",
+   "status": "unresolvable",
+   "checked": "2026-10-03",
+   "searched": [
+    "DailyMed：YONDELIS（trabectedin）仿單 https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=472bd78e-be17-4b9d-90f4-9482c3aec9ff（未提 BRCA）",
+    "emc：Yondelis SmPC https://www.medicines.org.uk/emc/product/6164/smpc（§5.1 機轉為結合 DNA 小溝、影響 DNA 修復路徑；全文無 BRCA）",
+    "PubChem：Trabectedin（CID 108150）",
+    "NCBI Bookshelf StatPearls（本機連線被 reCAPTCHA 擋下，無法開啟）"
+   ],
+   "unresolvable_reason": "官方仿單與 SmPC 都沒有 BRCA 相關敘述，可佐證或否定「對 BRCA1/2 突變腫瘤具有特殊療效」的只有文獻層級資料（頁面文獻表即列 BRCA 相關回顧）；仿單未提不等於否定，無法以權威來源逐字定論。"
   },
   {
    "file": "zanubrutinib.md",
    "claim": "抑制 BTK (Bruton tyrosine kinase)，IC50 約 20 nM",
    "why": "DailyMed BRUKINSA 仿單未載 IC50 數值；文獻常見的生化 IC50 為次奈莫耳級，頁面 20 nM 可能有誤，但未取得可逐字引用的權威來源，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第5批"
+   "batch": "全站查核第5批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "zanubrutinib-btk-ic50-2026-10-03"
+   ]
   },
   {
    "file": "timepidium.md",
    "claim": "抗膽鹼作用可能產生一定程度的鎮靜效果（作為失眠症預測的推論前提）",
    "why": "Timepidium bromide 為四級銨抗膽鹼藥，中樞穿透理論上有限，推論前提可能不成立；未取得可逐字引用的官方仿單（日本 Sesden 仿單）佐證，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第5批"
+   "batch": "全站查核第5批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文未與仿單矛盾：日本 Sesden 添付文書把眠気列為副作用並警示避免駕駛，「可能產生一定程度的鎮靜效果」有仿單依據，不需紀錄"
   },
   {
    "file": "vonoprazan.md",
    "claim": "不受 CYP2C19 基因多型性影響",
    "why": "Vonoprazan 主要經 CYP3A4 代謝，部分經 CYP2B6、CYP2C19、CYP2D6；「不受影響」屬簡化說法，未逐字對照仿單 §12.3 確認，未寫紀錄。",
    "found": "2026-10-03",
-   "batch": "全站查核第5批"
+   "batch": "全站查核第5批",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文正確：Voquezna 仿單 12.3 載明依 CYP2C19 代謝型別無臨床上有意義的藥動學差異，不需紀錄"
   },
   {
    "file": "magnesium_sulfate.md",
    "claim": "   - 降低腦血管痙攣及腦灌流壓",
    "why": "仿單只寫阻斷神經肌肉傳導、減少乙醯膽鹼釋放、中樞抑制與周邊血管擴張，沒有「降低腦灌流壓」；NMDA 阻斷、抗發炎也不在仿單內。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "magnesium-sulfate-cerebral-perfusion-2026-10-03"
+   ]
   },
   {
    "file": "diosmin.md",
    "claim": "| 原適應症 | 慢性靜脈功能不全、靜脈曲張、痔瘡、機能性月經過多 |",
    "why": "現行有效許可證沒有「機能性月經過多」，只見於 1994 年已註銷的達復朗糖衣錠；「為什麼這個預測合理」也以此為推論前提。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "diosmin-original-indication-2026-10-03",
+    "diosmin-amenorrhea-premise-2026-10-03",
+    "diosmin-amenorrhea-rereview-2026-10-03"
+   ]
   },
   {
    "file": "nepafenac.md",
    "claim": "| （待確認） | Ilevro 0.3% | 點眼懸液劑 | Alcon | 有效（國際） |",
    "why": "Ilevro 在台灣有有效許可證（衛部藥輸字第026743號），寫「國際」易誤讀為台灣未上市；0.1% 那列可補字號 衛署藥輸字第024795號。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "methocarbamol.md",
    "claim": "Methocarbamol 作為中樞性肌肉鬆弛劑，主要作用於中樞神經系統抑制多突觸反射弧。",
    "why": "仿單寫人體機轉尚未確立，頁面寫成確定的主要機轉。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "methocarbamol-moa-polysynaptic-2026-10-03"
+   ]
   },
   {
    "file": "procaine.md",
    "claim": "| 內衛藥製字第000477號 | 鹽酸普魯卡因注射液２％ | 注射劑 | 局部麻醉 |",
    "why": "表內五列全是已註銷證，頁面卻寫「已上市」；另有有效單方證可列。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "procaine.md",
    "claim": "PABA 能將血紅素中的亞鐵（Fe²⁺）氧化為高鐵（Fe³⁺），導致血紅蛋白失去攜氧能力，引發高鐵血紅蛋白血症。",
    "why": "仿單只支持水解成 aminobenzoic acid；PABA 致高鐵血紅蛋白血症無仿單佐證。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文有權威佐證：PubChem（Haz-Map／MSDS）記載 PABA 可誘發高鐵血紅蛋白血症（methemoglobinemia 列為次要毒性效應），不需紀錄"
   },
   {
    "file": "fludarabine.md",
    "claim": "| 原適應症 | 慢性淋巴球性白血病（CLL）、濾泡性淋巴瘤 |",
    "why": "fludarabine 許可證寫 CLL 與低惡性度非何杰金氏淋巴瘤，未寫濾泡性淋巴瘤（屬 LG-NHL 的一種，不算直接矛盾）。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "fludarabine-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "pimozide.md",
    "claim": "精神病狀態、精神分裂症",
    "why": "許可證只寫「精神病狀態」，頁面多加「精神分裂症」。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "pimozide-tw-indication-section-2026-10-03"
+   ]
   },
   {
    "file": "pimozide.md",
    "claim": "| 原核准適應症 | 精神病、精神分裂症、幻覺、妄想 |",
    "why": "台灣許可證只寫「精神病狀態」；美國仿單核准的是 Tourette 症抽動。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "pimozide-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "ravulizumab.md",
    "claim": "| 衛部罕菌疫輸字第000036號 | 妥立瑞輸注液300毫克 | 注射液 | 治療陣發性夜間血紅素尿症的成年病人 |",
    "why": "此證 2025/07/03 已註銷，頁面未標示。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "cefoperazone.md",
    "claim": "| 衛部藥陸輸字第000837號 | 頭孢匹拉腙鈉舒巴坦鈉 | （粉） | 抗生素 |",
    "why": "此證 2024/05/06 已註銷未標示；表中多張為 cefoperazone＋sulbactam 複方。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "cefoperazone.md",
    "claim": "| 原適應症 | 廣譜細菌感染（上下呼吸道感染、泌尿道感染、腹膜炎、敗血病等） |",
    "why": "唯一列明細適應症的是複方證 061039，且不含「敗血病」；單方證只寫「抗生素」。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文正確：cefoperazone 有效單方許可證衛署藥製字第028538號適應症含上下呼吸道、上下泌尿道感染、腹膜炎、敗血病等，待查清單「單方證只寫抗生素」的判斷有誤，不需紀錄"
   },
   {
    "file": "cefoperazone.md",
    "claim": "鮑曼不動桿菌等均為 Cefoperazone 的主要抗菌目標",
    "why": "找不到權威來源支持鮑曼不動桿菌是 cefoperazone 單方主要目標；頁面自己也說活性主要來自 sulbactam。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "cefoperazone-acinetobacter-2026-10-03"
+   ]
   },
   {
    "file": "glycol_salicylate.md",
    "claim": "| 衛署藥輸字第020601號 | 日本祐德巴斯貼布劑 | 貼片劑 | 腰痛、肩膀酸痛、關節痛、跌打損傷、肌肉痛、肌肉疲勞。 |",
    "why": "三張證已註銷未標示；五張全是複方，原適應症由複方適應症湊成。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "aluminum_hydroxide.md",
    "claim": "| 原適應症 | 胃酸過多、胃炎、胃及十二指腸潰瘍 |",
    "why": "潰瘍適應症來自複方證（dicyclomine＋氫氧化鋁＋氧化鎂）；單方證只寫制酸劑且已註銷。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "aluminum-hydroxide-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "amylmetacresol.md",
    "claim": "| 原適應症 | 口腔殺菌劑、咽喉炎 |",
    "why": "四張許可證都是與 2,4-dichlorobenzyl alcohol 的複方。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "amylmetacresol-original-indication-combo-2026-10-03"
+   ]
   },
   {
    "file": "amylmetacresol.md",
    "claim": "透過干擾細菌細胞膜結構發揮局部殺菌效果。其應用形式為口含錠，藥物主要停留在口腔與咽喉局部，全身吸收量極低。",
    "why": "SmPC 未提細胞膜機轉，藥動學寫 None available。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "amylmetacresol-moa-pk-claim-2026-10-03"
+   ]
   },
   {
    "file": "enfortumab_vedotin.md",
    "claim": "| 原適應症 | 局部晚期或轉移性泌尿道上皮癌 (mUC) |",
    "why": "漏列台灣許可證第三項適應症（併用 pembrolizumab 用於 MIBC 前導及輔助治療）。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "enfortumab-vedotin-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "anthralin.md",
    "claim": "| 衛署藥輸字第005432號 | 蒽酚（粉） | 粉劑 | 牛皮癬 |",
    "why": "表中五張證全已註銷未標示；有效單方證 衛署藥製字第049649號 未列。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "anthralin.md",
    "claim": "| 衛署藥製字第011402號 | 嗎爾宜唐 | 軟膏劑 | 緩解皮膚刺激及尿布疹、去角質 |",
    "why": "複方（salicylic acid＋zinc oxide＋anthralin）適應症，且已註銷。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "頁面已由程式依 TFDA 資料集重產（tfda-licenses 區塊與「許可證數」列），原句已不在頁面上，不需紀錄"
   },
   {
    "file": "anthralin.md",
    "claim": "Anthralin 透過**誘導活性氧（ROS）並抑制粒線體氧化磷酸化**",
    "why": "仿單寫機轉尚未完全了解，未提粒線體氧化磷酸化或細胞激素下調。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "anthralin-moa-2026-10-03"
+   ]
   },
   {
    "file": "chloral_hydrate.md",
    "claim": "| 原適應症 | 催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜 |",
    "why": "「催眠劑」「鎮靜劑」只見於已註銷證；唯一有效證只核准兒童檢查前鎮靜。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "chloral-hydrate-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "cephalexin.md",
    "claim": "（呼吸道、泌尿道、皮膚軟組織、骨關節等）",
    "why": "括號內容不在許可證適應症原文中。",
    "found": "2026-10-03",
-   "batch": "第一輪抽查 30 頁"
+   "batch": "第一輪抽查 30 頁",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "cephalexin-original-indication-parenthesis-2026-10-03"
+   ]
   },
   {
    "file": "acyclovir.md",
    "claim": "| 原適應症 | 帶狀疱疹、復發性生殖器疱疹的預防及治療 |",
    "why": "原適應症 2 個詞組中有 1 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「復發性生殖器疱疹的預防」見於 衛署藥製字第057352號、衛部藥輸字第026455號、衛部藥陸輸字第000846號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "acyclovir-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "camphor.md",
    "claim": "| 原適應症 | 心臟衰弱之興奮、肺炎、呼吸困難、新生兒窒息 |",
    "why": "原適應症 3 個詞組中有 2 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「心臟衰弱之興奮」見於 內衛藥製字第007950號；「新生兒窒息」見於 內衛藥製字第007950號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "camphor-original-indication-oxocamphor-2026-10-03",
+    "camphor-summary-indication-2026-10-03"
+   ]
   },
   {
    "file": "cyclizine.md",
    "claim": "| 原核准適應症 | 暈動症（預防或緩解暈車、暈船、暈機引起之頭暈、噁心、嘔吐、頭痛等症狀） |",
    "why": "原適應症 3 個詞組中有 2 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「暈動症」見於 衛署藥製字第033535號、衛署藥製字第014044號、衛署藥製字第019907號；「緩解暈車」見於 衛署藥製字第019666號、內衛藥製字第009942號、衛署藥製字第040049號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "cyclizine-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "cytarabine.md",
    "claim": "| 原核准適應症 | 急性骨髓性白血病 (AML)、急性淋巴球性白血病 (ALL)、慢性骨髓性白血病急性轉化期、腦膜白血病（鞘內），多與其他藥物併用 |",
    "why": "原適應症 5 個詞組中有 4 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「急性骨髓性白血病」見於 衛部藥輸字第028815號、衛部藥輸字第027930號、內衛藥輸字第002940號；「急性淋巴球性白血病」見於 衛署藥輸字第012182號、衛署藥輸字第012183號、衛署藥輸字第012308號；「腦膜白血病」見於 衛署藥輸字第016418號、衛署藥輸字第020643號、衛署藥輸字第013877號；「其他藥物併用」見於 衛署藥輸字第022384號、衛部藥輸字第026592號、衛署藥輸字第023049號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "cytarabine-original-indication-cll-2026-10-03"
+   ]
   },
   {
    "file": "enfortumab_vedotin.md",
    "claim": "| 原適應症 | 局部晚期或轉移性泌尿道上皮癌 (mUC) |",
    "why": "原適應症 2 個詞組中有 1 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「轉移性泌尿道上皮癌」見於 衛部菌疫輸字第001000號、衛部菌疫輸字第001013號、衛部菌疫輸字第001025號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "enfortumab-vedotin-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "fludarabine.md",
    "claim": "| 原適應症 | 慢性淋巴球性白血病（CLL）、濾泡性淋巴瘤 |",
    "why": "原適應症 2 個詞組中有 2 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「慢性淋巴球性白血病」見於 衛部藥輸字第026803號、衛部藥輸字第026804號、衛部藥輸字第028047號；「濾泡性淋巴瘤」見於 衛部菌疫輸字第001195號、衛部菌疫輸字第001211號、衛部藥輸字第028160號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "fludarabine-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "hesperidin.md",
    "claim": "| 原適應症 | 增強毛細血管 |",
    "why": "原適應症 1 個詞組中有 1 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「增強毛細血管」見於 衛署藥輸字第009286號、內衛藥輸字第001040號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "hesperidin-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "inclisiran.md",
    "claim": "| 原適應症 | 原發性高血脂症(含異合子家族性高膽固醇血症)之 LDL-C 降低 |",
    "why": "原適應症 2 個詞組中有 1 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「含異合子家族性高膽固醇血症」見於 衛部菌疫輸字第001033號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文與許可證一致（交叉驗證是斷詞誤判）：衛部藥輸字第028761號適應症為原發性高血脂症（家族性者限異合子 HeFH）之 LDL-C 降低，不需紀錄"
   },
   {
    "file": "pemetrexed.md",
    "claim": "| 原適應症 | 非小細胞肺癌、惡性胸膜間皮瘤 |",
    "why": "原適應症 2 個詞組中有 1 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「惡性胸膜間皮瘤」見於 衛部菌疫輸字第001025號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文與許可證一致：許可證寫「惡性肋膜間質細胞瘤」即惡性胸膜間皮瘤，非小細胞肺癌亦在適應症內，不需紀錄"
   },
   {
    "file": "prednisone.md",
    "claim": "| 原適應症 | 風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患 |",
    "why": "原適應症 3 個詞組中有 3 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「風濕性關節炎」見於 內衛藥製字第006306號、內衛藥製字第006327號、內衛藥製字第006415號；「急性病症」見於 衛署藥輸字第017267號、衛署藥輸字第015678號、衛署藥輸字第015679號；「皮膚疾患」見於 內衛藥輸字第001392號、衛署藥製字第013421號、衛署藥製字第013565號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "prednisone-original-indication-other-drugs-2026-10-03"
+   ]
   },
   {
    "file": "remdesivir.md",
    "claim": "| 原適應症 | 新型冠狀病毒疾病（COVID-19） |",
    "why": "原適應症 1 個詞組中有 1 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「新型冠狀病毒疾病」見於 衛部藥輸字第027288號、衛部藥輸字第027289號、衛部菌疫輸字第001262號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文與許可證一致（斷詞誤判）：衛部藥輸字第027899號適應症為新型冠狀病毒疾病(COVID-19)，不需紀錄"
   },
   {
    "file": "sodium_carbonate.md",
    "claim": "| 原適應症 | 制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑 |",
    "why": "原適應症 4 個詞組中有 3 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「制酸劑」見於 衛署藥製字第057810號、衛署藥輸字第004924號、衛署藥輸字第004926號；「無菌製劑輔助劑」見於 衛部藥製字第058317號；「鹼化藥」見於 衛部藥製字第058317號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "sodium-carbonate-original-indication-2026-10-03"
+   ]
   },
   {
    "file": "teriparatide.md",
    "claim": "| 原核准適應症 | 停經後骨質疏鬆症、糖皮質激素誘發骨質疏鬆症、男性骨質疏鬆症 |",
    "why": "原適應症 3 個詞組中有 2 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「停經後骨質疏鬆症」見於 衛署藥輸字第024836號、衛署藥輸字第022402號、衛署藥輸字第022403號；「男性骨質疏鬆症」見於 衛署藥製字第057366號、衛署藥輸字第024480號、衛部藥輸字第026271號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文與許可證一致（簡寫）：teriparatide 許可證核准停經後婦女、男性原發性或性腺功能低下、糖化皮質類固醇引起之骨質疏鬆症（具高度骨折風險者），不需紀錄"
   },
   {
    "file": "trifluoperazine.md",
    "claim": "| 原適應症 | 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙 |",
    "why": "原適應症 4 個詞組中有 2 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「噁心嘔吐」見於 衛署藥輸字第007282號、內衛藥製字第007340號、內衛藥製字第007589號；「破壞性行為障礙」見於 衛署藥製字第048327號、衛署藥製字第048337號、衛署藥製字第048352號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "原文與許可證一致：衛署藥製字第021490號等適應症即精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙，不需紀錄"
   },
   {
    "file": "uracil.md",
    "claim": "| 原適應症 | 甲狀腺機能亢進症 |",
    "why": "原適應症 1 個詞組中有 1 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，卻出現在其他藥的許可證：「甲狀腺機能亢進症」見於 衛署藥輸字第002589號、衛署藥輸字第011703號、內衛藥製字第007916號。可能取自別藥或複方的適應症，需人工確認。",
    "found": "2026-10-03",
-   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）"
+   "batch": "原適應症交叉驗證（scripts/check_original_indications.py）",
+   "status": "resolved",
+   "resolved": "2026-10-03",
+   "resolution": "已寫紀錄",
+   "record_ids": [
+    "uracil-original-indication-methylthiouracil-2026-10-03",
+    "uracil-summary-indication-2026-10-03"
+   ]
   }
  ]
 }

@@ -64,6 +64,12 @@ Interferon Beta-1b 是一種第一型干擾素，具有免疫調節和抗增殖�
 3. **分化誘導**：可能誘導異常 B 細胞分化或凋亡
 4. **歷史應用**：Beta 干擾素曾在 1980-1990 年代用於 HCL 治療
 
+<!-- review:begin interferon-beta-1b-hcl-history-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：核准用於毛細胞白血病的是 interferon alfa-2b（INTRON A）；interferon beta-1b 仿單的適應症只有復發型多發性硬化症，HCL 不是 beta 干擾素的核准用途。原文保留。依據：[Drugs@FDA：INTRON A（interferon alfa-2b）仿單，Indications and Usage](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103132s5199lbl.pdf)；[DailyMed：BETASERON（interferon beta-1b）仿單（Bayer），1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5)。
+
+<!-- review:end interferon-beta-1b-hcl-history-2026-10-03 -->
+
 此預測在歷史臨床實踐中有據可查，但已被更新療法取代。
 
 ## 臨床試驗證據
@@ -141,6 +147,7 @@ Interferon Beta-1b 用於毛細胞白血病有 1980-1990 年代的歷史臨床�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「台灣上市：已上市」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「Beta 干擾素曾用於 HCL 治療」 | 加註 | [Drugs@FDA：INTRON A（interferon alfa-2b）仿單，Indications and Usage](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103132s5199lbl.pdf)；[DailyMed：BETASERON（interferon beta-1b）仿單（Bayer），1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5) |
 
 <!-- review:end log -->
 

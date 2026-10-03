@@ -43,13 +43,13 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 | 證據等級 | L5 (僅預測) |
 | 台灣上市 | 已上市 |
 | 許可證數 | 8 張（有效單方 5／有效複方 0／已註銷 3） |
-| 建議決策 | Explore |
+| 建議決策 | Hold（2026-10-03 重審撤回此推論） |
 
-<!-- review:begin bevacizumab-epiglottis-rereview-2026-10-03 -->
+<!-- review:begin bevacizumab-epiglottis-rereview-result-2026-10-03 -->
 
-> **待重審（2026-10-03）**：會厭腫瘤這筆預測的主要理由（已核准用於頭頸部鱗狀細胞癌）與仿單及台灣許可證不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級與建議在重審完成前不更動。依據：[DailyMed：AVASTIN（bevacizumab）美國仿單 §1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=939b5d1f-9fb2-4499-80ef-0607aa6b114e)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **重審結果（2026-10-03）**：**撤回**（證據等級 L5 不變）。原推論的主要理由「已核准用於頭頸部鱗癌」不成立，剩下的只是通用的抗血管新生機轉。查無會厭腫瘤的專屬研究。最接近的證據是頭頸部鱗癌（含喉癌）的第三期試驗：加上 bevacizumab 後整體存活沒有改善，3–5 級出血與治療相關死亡增加（[PMID 31618129](https://pubmed.ncbi.nlm.nih.gov/31618129/)，[NCT00588770](https://clinicaltrials.gov/study/NCT00588770)）。另一項第二期試驗也是毒性增加、療效沒有提升（[PMID 27177865](https://pubmed.ncbi.nlm.nih.gov/27177865/)）。本頁快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[PubMed：Phase III Randomized Trial of Chemotherapy With or Without Bevacizumab in Patients With Recurrent or Metastatic Head and Neck Cancer（PMID 31618129）](https://pubmed.ncbi.nlm.nih.gov/31618129/)；[ClinicalTrials.gov：Chemotherapy With or Without Bevacizumab in Treating Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma（NCT00588770）](https://clinicaltrials.gov/study/NCT00588770)；[PubMed：Phase II randomized trial of radiation therapy, cetuximab, and pemetrexed with or without bevacizumab in patients with locally advanced head and neck cancer（PMID 27177865）](https://pubmed.ncbi.nlm.nih.gov/27177865/)；[ClinicalTrials.gov：Testing the Use of Investigational Drugs Atezolizumab and/or Bevacizumab With or Without Standard Chemotherapy in the Second-Line Treatment of Advanced-Stage Head and Neck Cancers（NCT05063552）](https://clinicaltrials.gov/study/NCT05063552)。
 
-<!-- review:end bevacizumab-epiglottis-rereview-2026-10-03 -->
+<!-- review:end bevacizumab-epiglottis-rereview-result-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 Bevacizumab 是一種人源化單株抗體，透過結合血管內皮生長因子(VEGF)來抑制腫瘤血管新生。其作用機轉具有廣泛的抗腫瘤活性：
@@ -159,14 +159,15 @@ Bevacizumab 在台灣有多項藥品許可證：
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 預測理由「已核准用於頭頸部鱗狀細胞癌(HNSCC)的治療」 | 加註 | [DailyMed：AVASTIN（bevacizumab）美國仿單 §1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=939b5d1f-9fb2-4499-80ef-0607aa6b114e)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 會厭腫瘤預測標記待重審 | 標記待重審 | [DailyMed：AVASTIN（bevacizumab）美國仿單 §1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=939b5d1f-9fb2-4499-80ef-0607aa6b114e)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 會厭腫瘤預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：AVASTIN（bevacizumab）美國仿單 §1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=939b5d1f-9fb2-4499-80ef-0607aa6b114e)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「Vegzelma (艾法施) - 信東」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「ABEVMY - 三星生技」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 會厭腫瘤預測重審結果 | 重審：撤回，證據等級 L5 不變；快速總覽「建議決策」：原「建議決策／Explore」→「建議決策／Hold（2026-10-03 重審撤回此推論）」 | [PubMed：Phase III Randomized Trial of Chemotherapy With or Without Bevacizumab in Patients With Recurrent or Metastatic Head and Neck Cancer（PMID 31618129）](https://pubmed.ncbi.nlm.nih.gov/31618129/)；[ClinicalTrials.gov：Chemotherapy With or Without Bevacizumab in Treating Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma（NCT00588770）](https://clinicaltrials.gov/study/NCT00588770)；[PubMed：Phase II randomized trial of radiation therapy, cetuximab, and pemetrexed with or without bevacizumab in patients with locally advanced head and neck cancer（PMID 27177865）](https://pubmed.ncbi.nlm.nih.gov/27177865/)；[ClinicalTrials.gov：Testing the Use of Investigational Drugs Atezolizumab and/or Bevacizumab With or Without Standard Chemotherapy in the Second-Line Treatment of Advanced-Stage Head and Neck Cancers（NCT05063552）](https://clinicaltrials.gov/study/NCT05063552) |
 
 <!-- review:end log -->
 

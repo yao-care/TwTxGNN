@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Bempedoic Acid
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 38
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Bempedoic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -45,11 +45,13 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 | 許可證數 | 2 張（有效單方 1／有效複方 1／已註銷 0） |
 | 建議決策 | Go |
 
-<!-- review:begin bempedoic-acid-hofh-rereview-2026-10-03 -->
+<!-- review:begin bempedoic-acid-hofh-rereview-result-2026-10-03 -->
 
-> **待重審（2026-10-03）**：HoFH 這筆預測的首要理由（非 LDL 受體依賴）與仿單所載機轉不符（見下方「為什麼這個預測合理」的查核加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。依據：[DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9)。
+> **重審結果（2026-10-03）**：**維持**（證據等級 L3 不變）。「非 LDL 受體依賴」這條理由與仿單不符，但 L3 的依據是一篇 HoFH 回溯研究：5 名已用 statin 的患者加上本藥後，LDL-C 平均下降約 33%（[PMID 41274797](https://pubmed.ncbi.nlm.nih.gov/41274797/)）。樣本極小、沒有對照組。動物研究中，LDL 受體完全缺失的豬降幅（29%）明顯小於部分缺失者（61%）（[PMID 29449335](https://pubmed.ncbi.nlm.nih.gov/29449335/)）。ClinicalTrials.gov 查無專門的 HoFH 試驗。依現有證據，結論段的「Go」與「機轉明確」說法偏強。依據：[PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/)。
+>
+> 決策建議另議：原決策 Go（methodology：強力證據支持）與 L3 不相稱；建議改為 Explore 或 Consider（是否調整由站方決定）。
 
-<!-- review:end bempedoic-acid-hofh-rereview-2026-10-03 -->
+<!-- review:end bempedoic-acid-hofh-rereview-result-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成，作用位點在 HMG-CoA 還原酶的上游。對 HoFH 患者的關鍵優勢：
@@ -126,7 +128,8 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 預測理由「非 LDL 受體依賴機制」 | 加註 | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
-| 2026-10-03 | 同合子家族性高膽固醇血症預測標記待重審 | 標記待重審 | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
+| 2026-10-03 | 同合子家族性高膽固醇血症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
+| 2026-10-03 | 同合子家族性高膽固醇血症預測重審結果 | 重審：維持，證據等級 L3 不變 | [PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/) |
 
 <!-- review:end log -->
 

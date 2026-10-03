@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cyclizine
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 73
-evidence_level: L5
+evidence_level: L4
 indication_count: 9
 ---
 
 # Cyclizine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+證據等級: **L4** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -44,22 +44,22 @@ Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，T
 | 藥物名稱 | Cyclizine (環立淨) 及其衍生物 |
 | DrugBank ID | DB01176 |
 | 台灣商品名 | 旅暈平錠、赫敏錠、止敏糖衣錠等 |
-| 原核准適應症 | 暈動症（預防或緩解暈車、暈船、暈機引起之頭暈、噁心、嘔吐、頭痛等症狀） |
+| 原核准適應症 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀（衛署藥製字第002658號） |
 | 預測新適應症 | 過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患 |
 | 最高預測分數 | 0.9998 (allergic urticaria) |
-| 證據等級 | L2-L3 (已有臨床使用經驗) |
+| 證據等級 | 頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5（2026-10-03 重審降級） |
 
 <!-- review:begin cyclizine-original-indication-2026-10-03 -->
 
-> **查核更正（2026-10-03）**：原寫「原核准適應症／暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛」。台灣現行 cyclizine 單方許可證（旅暈平錠）的核准適應症只有動暈症；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「原核准適應症／暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛」。台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），適應症為「預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀」；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。已改為許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end cyclizine-original-indication-2026-10-03 -->
 
-<!-- review:begin cyclizine-prediction-rereview-2026-10-03 -->
+<!-- review:begin cyclizine-prediction-rereview-result-2026-10-03 -->
 
-> **待重審（2026-10-03）**：這批預測的判讀前提（cyclizine 已核准蕁麻疹、過敏性鼻炎、偏頭痛）與許可證資料不符（見上方查核更正與加註），已標記待重審；證據等級、文獻與決策在重審完成前不更動。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **重審結果（2026-10-03）**：**降級**（證據等級 L2–L3→頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5）。原判定的依據「已核准、已有臨床經驗」來自其他成分（homochlorcyclizine、chlorcyclizine）或已註銷複方的許可證。PubMed 與 ClinicalTrials.gov 都查無 cyclizine 單方用於蕁麻疹或鼻炎的臨床研究，只剩 H1 拮抗的類別推論。頭痛方面只有含 ergotamine 的複方試驗，無法分離 cyclizine 本身的效果，而且該複方療效不如 naproxen、嘔吐較多（[PMID 3926322](https://pubmed.ncbi.nlm.nih.gov/3926322/)）。本頁快速總覽「證據等級」、結論「整體證據等級」已依重審結果更新，原值列在下方查核紀錄。依據：[PubMed：Acute migraine attack therapy: comparison of naproxen sodium and an ergotamine tartrate compound（PMID 3926322）](https://pubmed.ncbi.nlm.nih.gov/3926322/)；[PubMed：Migraine treated with an antihistamine-analgesic combination（PMID 4148490）](https://pubmed.ncbi.nlm.nih.gov/4148490/)；[PubMed：Detection of action, inhibition and augmentation spectra in solar urticaria（PMID 8573923）](https://pubmed.ncbi.nlm.nih.gov/8573923/)；[PubMed：Standard treatment: the role of antihistamines（PMID 11764306）](https://pubmed.ncbi.nlm.nih.gov/11764306/)；[PubMed：Cyclizine anaphylaxis, when administered with propanidid（PMID 5762012）](https://pubmed.ncbi.nlm.nih.gov/5762012/)。
 
-<!-- review:end cyclizine-prediction-rereview-2026-10-03 -->
+<!-- review:end cyclizine-prediction-rereview-result-2026-10-03 -->
 
 ---
 
@@ -179,7 +179,7 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 | 機轉合理性 | 高 - H1 受體拮抗對過敏反應有明確效果 |
 | 臨床證據 | 中等 - 有歷史臨床使用經驗 |
 | 文獻支持 | 中等 |
-| 整體證據等級 | **L2-L3 (已有臨床經驗)** |
+| 整體證據等級 | **L4**（頭痛疾患；其餘三筆 L5，2026-10-03 重審降級） |
 
 ### 臨床建議
 
@@ -210,14 +210,15 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 原核准適應症混入其他成分與已註銷複方的適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原核准適應症混入其他成分與已註銷複方的適應症 | 更正（2026-10-03 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 主要製劑表列入 homochlorcyclizine、chlorcyclizine 製劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 對照表「已核准 (蕁麻疹)」「已核准 (偏頭痛)」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1](https://www.medicines.org.uk/emc/product/4318/smpc) |
-| 2026-10-03 | 蕁麻疹、鼻腔疾病、頭痛預測標記待重審 | 標記待重審 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 蕁麻疹、鼻腔疾病、頭痛預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 蕁麻疹、鼻腔疾病、頭痛預測重審結果 | 重審：降級，證據等級 L2–L3→頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5；快速總覽「證據等級」：原「證據等級／L2-L3 (已有臨床使用經驗)」→「證據等級／頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5（2026-10-03 重審降級）」；結論「整體證據等級」：原「整體證據等級／**L2-L3 (已有臨床經驗)**」→「整體證據等級／**L4**（頭痛疾患；其餘三筆 L5，2026-10-03 重審降級）」 | [PubMed：Acute migraine attack therapy: comparison of naproxen sodium and an ergotamine tartrate compound（PMID 3926322）](https://pubmed.ncbi.nlm.nih.gov/3926322/)；[PubMed：Migraine treated with an antihistamine-analgesic combination（PMID 4148490）](https://pubmed.ncbi.nlm.nih.gov/4148490/)；[PubMed：Detection of action, inhibition and augmentation spectra in solar urticaria（PMID 8573923）](https://pubmed.ncbi.nlm.nih.gov/8573923/)；[PubMed：Standard treatment: the role of antihistamines（PMID 11764306）](https://pubmed.ncbi.nlm.nih.gov/11764306/)；[PubMed：Cyclizine anaphylaxis, when administered with propanidid（PMID 5762012）](https://pubmed.ncbi.nlm.nih.gov/5762012/) |
 
 <!-- review:end log -->
 

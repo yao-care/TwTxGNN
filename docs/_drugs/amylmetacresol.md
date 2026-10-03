@@ -51,6 +51,12 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 | 許可證數 | 4 張（有效單方 0／有效複方 4／已註銷 0） |
 | 建議決策 | Hold |
 
+<!-- review:begin amylmetacresol-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：台灣含 amylmetacresol 的 4 張許可證都是與 2,4-dichlorobenzyl alcohol 的複方口含錠，「口腔殺菌劑、咽喉炎」是複方的適應症，台灣沒有 amylmetacresol 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end amylmetacresol-original-indication-combo-2026-10-03 -->
+
 ---
 
 <!-- review:begin amylmetacresol-moa-2026-10-03 -->
@@ -76,6 +82,12 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Amylmetacresol 是一種親脂性酚類化合物，作用於口咽黏膜表面，透過干擾細菌細胞膜結構發揮局部殺菌效果。其應用形式為口含錠，藥物主要停留在口腔與咽喉局部，全身吸收量極低。
+
+<!-- review:begin amylmetacresol-moa-pk-claim-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單只寫 amylmetacresol 是防腐殺菌劑、體外具抗菌（殺菌與抑菌）、抗黴菌與抗病毒作用，沒有寫干擾細胞膜的機轉；藥動學段為「無資料」，「全身吸收量極低」沒有仿單依據。原文保留。依據：[emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)。
+
+<!-- review:end amylmetacresol-moa-pk-claim-2026-10-03 -->
 
 馬尾症候群是一種由腰椎間盤突出、腫瘤或外傷引起脊髓馬尾神經根受壓的急症，病理機轉涉及神經根壓迫、缺血與局部發炎。Amylmetacresol 作為局部表面抗菌劑，目前**無任何已知的全身性抗發炎、神經保護或解壓機轉**，與馬尾症候群的病理過程缺乏生物學上的合理聯繫。
 
@@ -144,6 +156,8 @@ Amylmetacresol 為局部口腔用藥，與馬尾症候群（及其餘所有前 1
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Strepsils Honey and Lemon SmPC §5.1](https://www.medicines.org.uk/emc/product/5606/smpc) |
+| 2026-10-03 | 原適應症屬於複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 說作用為干擾細菌細胞膜、全身吸收量極低 | 加註 | [emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc) |
 
 <!-- review:end log -->
 

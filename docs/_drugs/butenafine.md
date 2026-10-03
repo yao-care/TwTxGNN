@@ -46,7 +46,13 @@ Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用
 | 建議決策 | Go |
 
 ## 為什麼這個預測合理？
-Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物，作用機轉獨特：
+Butenafine 是一種苄胺類(benzylamine)抗黴菌藥物，作用機轉獨特：
+
+<!-- review:begin butenafine-class-translation-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Butenafine 是一種苯胺類(benzylamine)抗黴菌藥物」。Butenafine 屬於 benzylamine（苄胺類）抗黴菌藥；「苯胺」是 aniline（C6H5NH2），是另一種化合物。依據：[PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[PubChem：Benzylamine（CID 7504）](https://pubchem.ncbi.nlm.nih.gov/compound/7504)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html)。
+
+<!-- review:end butenafine-class-translation-2026-10-03 -->
 
 1. **角鯊烯環氧酶抑制**：阻斷真菌細胞膜麥角固醇的生物合成
 2. **殺黴菌活性**：對皮膚黴菌(dermatophytes)具有殺菌而非抑菌作用
@@ -85,7 +91,13 @@ PubMed 檢索發現多篇支持性文獻：
 
 4. **Del Rosso JQ, Kircik LH (2013)** - *Journal of Drugs in Dermatology*
    - 表淺皮膚真菌感染的外用抗黴菌治療優化
-   - 將 butenafine 歸類為苯胺類藥物的代表
+   - 將 butenafine 歸類為苄胺類（benzylamine）藥物的代表
+
+<!-- review:begin butenafine-class-translation-lit-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「- 將 butenafine 歸類為苯胺類藥物的代表」。Benzylamine 應譯為苄胺；「苯胺」是 aniline。依據：[PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html)。
+
+<!-- review:end butenafine-class-translation-lit-2026-10-03 -->
 
 ## 台灣上市資訊
 Butenafine 在台灣有眾多品牌：
@@ -160,6 +172,19 @@ Butenafine 在台灣有眾多品牌：
 - 探討 butenafine 與其他外用藥物併用的協同效果
 
 **臨床提示**：由於此為非標示適應症(off-label)使用，建議告知病患並記錄臨床療效追蹤。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | benzylamine 譯成「苯胺類」 | 更正 | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[PubChem：Benzylamine（CID 7504）](https://pubchem.ncbi.nlm.nih.gov/compound/7504)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
+| 2026-10-03 | 文獻摘要中 benzylamine 譯成「苯胺類」 | 更正 | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 
