@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-04T06:31:51.589967+00:00",
+  "fetched_at": "2026-10-04T12:57:16.483024+00:00",
   "count": 40,
   "news": [
     {
-      "id": "1e3455573113",
-      "title": "專家教你保／挑選防癌險 掌握四大關鍵 - UDN",
-      "published": "2026-10-03T19:48:42+00:00",
-      "summary": "專家教你保／挑選防癌險 掌握四大關鍵&nbsp;&nbsp;UDN",
+      "id": "71b1c10cbdac",
+      "title": "佛州登革熱疫情感染升至252例 1人死亡 - 大紀元",
+      "published": "2026-10-04T02:35:00+00:00",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元時報香港",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ITnBWLWdIdFpSNEZmVTd3QWYtY0M3TnRTUHFlYjZYWHhwYzQtRHprTk1SamxNcjk1NzNGZDVabUJEczBsU3NaMkV2SGlWSWhE0gFWQVVfeXFMT0ZNQzB1UldPeFk4RFZ0VG9uMzcxQ2JIRnh5aDM1bUVEb2RjcUMweEpTTzUtV0NuX3hnNTFRbW9qaUFGcURITnd2SFpxeWFDVWlVY3RyNlE?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb62d440d7d2",
+      "title": "專家教你保／挑選防癌險 掌握四大關鍵 - Yahoo新聞",
+      "published": "2026-10-03T22:20:24+00:00",
+      "summary": "專家教你保／挑選防癌險 掌握四大關鍵&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPY2lNZll4bG53SFpHSVJUa01CMHp2UjhLbUZVeEZGV0JvRHN0UWpIaU9wZ2JTYTA5NnpQajdUYnduaHo2REhuenZub0Fod25CcUp4VkNtZGRuaUpTNGp3RENuaWZCWVVSRVJpZzZianJveGVTZlh1WWJnNEFwNmFFc1kteW1OQi1TTnVmczFFdExPR3lXVWJkZnQ5ckNkM1ZvUEVoYkJkQW5EZEdzQnhqazBzRjRRV2pJWkdPaXhrZHBDMzdHbV9ERjNON29yY2gwMXgtbTBHYm9sZDZGNmpUZXluM2F2OVp4bENyVGJQVjJlbk82V2N5dktkMHJXZDBGOXV4bUlWTGV0Z2p4azBXRG5WRkhhUQ?oc=5"
         }
       ]
     },
@@ -28,6 +40,18 @@
       ]
     },
     {
+      "id": "d1ee916c6389",
+      "title": "醫療專家呼籲民眾十月底前接種流感疫苗防重症 - Singtaousa",
+      "published": "2026-09-30T22:15:44+00:00",
+      "summary": "醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網​首日逾千人接種新一季流感疫苗&nbsp;&nbsp;濠江日報本澳流感病毒和腸病毒轉趨活躍_中国澳门_新闻&nbsp;&nbsp;华人头条小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;鏡報",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUWYxOXpUN0Y2LW10aFVKcGM5ZDRvRjRUQ2RLM1A3WUZiTThnN21JNDRhVU56bWl2elppdEZyN1JacVBDOERabURwdEVka0ZQaUxyMG90Z3hlc0lkNmRKbndXbUxDZ2EybXlnbU1rMHptVDFsa3NWbjhMbGdYUm5vT1YyR2d2ZDJfYW5hY3M0VnVMWHVuR1Fha04yR2ZCZUhQWmF4VjZBOFZ2MTNtWmtrd09PQzNpNjdiejJPVk4wOGhZQTlDbVhYVnNQd0tOeC1aTk91Q25UZHJhTTV2R2h6WlhhNHh0a3k3WEJMNE5TVGs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "54e1eef63e6c",
       "title": "健康網》RSV常找上嬰兒 醫談預防法 - 自由健康網",
       "published": "2026-10-03T09:10:00+00:00",
@@ -40,18 +64,6 @@
       ]
     },
     {
-      "id": "7e4248eac5fa",
-      "title": "休士頓社區打疫苗 流感季節守護健康 - Yahoo新聞",
-      "published": "2026-09-28T22:36:11+00:00",
-      "summary": "休士頓社區打疫苗 流感季節守護健康&nbsp;&nbsp;Yahoo新聞1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網​首日逾千人接種新一季流感疫苗&nbsp;&nbsp;濠江日報本澳流感病毒和腸病毒轉趨活躍_中国澳门_新闻&nbsp;&nbsp;华人头条小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;鏡報",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMVRrQk5Icy1rVTlueG1zd1NkZGlQYXF5dklvQVdhckFkOVNqbUR6S01SN2p0bTBad0t5eFQ4NURlZEpScGhtTUZGN0xweFNEZjRNRGlEQmdSeW5wa213UGZSVEItUWI2OUtLNkI4RDlweEw2MnYtWVloRzV2YVdoSFBXWFo0SnZtR2Z4MUNJekNLcVVISmx6XzJVVkhRZmsxNnhwdkJReTZXb2trUDZtRk1EVDB6aGhhTXdVeEJWbnZVYXRTWlZKSnhTUFZjbmExaWM0SS1oUGF3Y0oxREZRUk9ENlNhWHRRa2ljWi1vZWF1UU9YdlRfbjhaenNEVlpRLUdySGZNY3BKTmtidmFwSXN0dFM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a048f36b6f28",
       "title": "雞精、蜆精能養肝、消脂肪肝？營養師揭真相：研究結果不一樣- 營養好食 - TVBS 健康2.0",
       "published": "2026-10-02T16:02:00+00:00",
@@ -60,18 +72,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDeWFpQmdpWGxjUmtYN0lPQ3pJdW16RE0zZUY4UmtTYlhESWMzblRhWFRITnNsUm91MjVKNnIxT1NqQmQtNGkxSnNrRnFpZ1FKXy1KZ1Nn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71b1c10cbdac",
-      "title": "佛州登革熱疫情感染升至252例 1人死亡 - 大紀元",
-      "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元時報香港",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
         }
       ]
     },
@@ -124,26 +124,26 @@
       ]
     },
     {
-      "id": "3640ea66ee88",
-      "title": "美國麻疹疫情創35年最慘 賓州出現第5起死亡病例 | 民視新聞網 - LINE TODAY",
-      "published": "2026-09-30T23:17:41+00:00",
-      "summary": "美國麻疹疫情創35年最慘 賓州出現第5起死亡病例 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan NewsGriffin：麻疹、登革熱與伊波拉死亡案例，揭示疫苗政策倒退的後果&nbsp;&nbsp;BigGo 財經賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌",
+      "id": "bd9fcaf5174b",
+      "title": "美國賓州麻疹疫情持續蔓延 確診已超900例 - 大紀元",
+      "published": "2026-09-29T03:38:00+00:00",
+      "summary": "美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大紀元美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan NewsGriffin：麻疹、登革熱與伊波拉死亡案例，揭示疫苗政策倒退的後果&nbsp;&nbsp;finance.biggo.com.tw賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IVmR6YTNNcjM0dGRuejBkREpLczJOSTdtYjFfSVlLLUc3ZzQybGZrWVA3aG5KeVgwV25ZMk8zM0xhOURGdVNoQVQwVDFPVVVNS2tYLUxn?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RcXZwaDNUR2stcjJOby12VVJ1akpQUHBma0hDYVE2RTZORV9PRkZHYV9FYnZpYXNQLVZQRFJDZE8zT0t4V2JHeklLNjJDVHVySktjMDJiV1ppUWJYWmQ5aNIBZkFVX3lxTE93bnktTUYzTVlXa2x0Nl9KdjVwWWdvS2ZCN2ViUWs0Y0piU2JIRWNOUFdMQ256dUs0bmxRNFBXdUJrRXoyZTZKTkJGb2hYRmpDV1JDRTlTeGNRV0t5NkFKVFBhWW1uQQ?oc=5"
         }
       ]
     },
     {
-      "id": "7c22b0b2f5d5",
-      "title": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 - 民視新聞網",
-      "published": "2026-10-01T07:50:16+00:00",
-      "summary": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻&nbsp;&nbsp;民視新聞網",
+      "id": "3a215841963b",
+      "title": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網 - today.line.me",
+      "published": "2026-10-01T08:23:41+00:00",
+      "summary": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網&nbsp;&nbsp;today.line.me",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1MlIzWjVMNXFmUXlxXy1VYUdDNm5lQ3pmSjlfM3JPLTBkTU9kWFFZYkJZRTFWX3l5Q19kN1RIWlFtX01KNDJNelA2WmRkNHplTVVqcGVyRmZTM2xBU0JvWg?oc=5"
+          "name": "today.line.me",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uQmhNaXgzSnRTTU5wcFRyWDUxVEN2dkFqODBWWklyV2RvT09fQXVSRkdrMFBLTGl6bHRVYWt1ZlRKYlFmMm1RUVNYX0lMSUlIZEd2Rmt3?oc=5"
         }
       ]
     },
@@ -220,22 +220,10 @@
       ]
     },
     {
-      "id": "2a9e3fbfdb28",
-      "title": "成年後突然過敏？新冠、抗生素甚至蜱蟲或是誘因 - 新唐人電視台",
-      "published": "2026-09-30T10:31:00+00:00",
-      "summary": "成年後突然過敏？新冠、抗生素甚至蜱蟲或是誘因&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4WDU3YVdHaGUxZ2Z4akJ4NGNrdXNLZ0Y5T1laYUZBSGN3b0VGd0U5dkc3RFJ0dWtuLVMyck9iTWVYQW9uY1NQbFF4U2tkUUtQQ3dNOHRaX0xSYUk1cXJyVtIBZkFVX3lxTFBSaVpjdDg3LVdWQklncjlQc1M3TmNkMERxUjlkQmZFX19ERXp4MmJNQ1YxY0g2SXVqZzJMdlRyaFhtVm1JZjQxcnBXWTRxcWhFRTlWWUk2RElaVmx6UGVWVDhnaDJZZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6f3092dd7edb",
       "title": "這家新創公司利用AI防範未來的AI大流行病 - 华尔街日报中文版",
       "published": "2026-09-28T03:05:34+00:00",
-      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;CMoney劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
+      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;cmoney.tw專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;cmoney.tw劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;cmoney.tw",
       "sources": [
         {
           "name": "华尔街日报中文版",
@@ -252,6 +240,18 @@
         {
           "name": "商傳媒",
           "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOeERsZWZZbHY2ZnhoZGVXUFR2ZFBuYVZLNDJ6QWd2RHUtb3hOcEg2YndrbGxodUMxcXZ5Y0pBNjlIMm84d0locGZnVVdFQTc0YWVhcU5iUDNhT2FHSmV3eXNDeTlxVGVBcExnWk5nS0FHZkR6NnpEUGtTM3dYbVg2NmFZUGR5QXp5NEF5T0ZpTHM3d0xWQm82dFlLR3BuSlk4MVhKQVQ4ZnBIdEFxdHZFWjhvcFU5bmFzbXZxODMwb2lLRW9acEJCQXlXdVlGV25RazR1eG1oTlVwR0xmRU9qbHZ6THgzMzB5aHo5aEJXV2dMZXhDMWVGaGQwS2RpVUZ2MlF2Nk43SEdDX3g2dm5RT21aSWZEMUVIR1hhUXI1QV9wTjNLWGFHVEk2WnN6UUpRUldkb1VKTEh6N25lRjVtM2RBQWNrLWpaYjlTZVVTbEJaaGN6V2ZuTmdseXRrREcyWE4tblI3VXMxajR1TVB2OXdIcktpRnFNOUQxdDdQT0NKUWpfREJJQ1l2X08wOExPcnpyV29MQ1BpNlJDVnRDaVJKbGhUQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "17a095727bd1",
+      "title": "捷克女子夢遊時會用手機拍照 迄今已77張 - 大紀元",
+      "published": "2026-10-04T08:28:00+00:00",
+      "summary": "捷克女子夢遊時會用手機拍照 迄今已77張&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90YWUxRW53bkZ0eGc1Y3p6Y0M3MTdxNUw2Z0tSR196VURHd0MzaTVPRVM1RmJac1laZENZbC1rSEc2RW00LVR2ei1LWHRYZWx0R2pTZk9XV2taRFduSWIyR9IBZkFVX3lxTE9YOFFXXzNGMXZMR0otbmtUV19MMGgtZnhVZkFUcGxGbkluZ0NZVUFrNHNVZG1URkZOd2pCOGNrN1I0aXY3YVhyVjAtM2xTS3lHSl9aQXN5aVdRRjVENk1EM2dQdE9jUQ?oc=5"
         }
       ]
     },
