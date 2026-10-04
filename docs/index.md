@@ -2,7 +2,7 @@
 layout: default
 title: 老藥新用驗證報告
 nav_order: 1
-description: "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告。L1-L5 五級證據分類，從預測到證據一目瞭然。"
+description: "用 AI 預測台灣健保藥品的潛在新適應症，提供 279 個藥物的臨床試驗與文獻證據驗證報告。L1-L5 五級證據分類，從預測到證據一目瞭然。"
 permalink: /
 image: /assets/images/og-default.png
 ---
@@ -303,7 +303,7 @@ image: /assets/images/og-default.png
 
 | 項目 | 數量 |
 |------|------|
-| 藥物報告 | 191 份 |
+| 藥物報告 | {{ site.data.drug_stats.total_drugs }} 份 |
 | 老藥新用候選 | 4,889 筆 |
 | DDI 資料 | 222,391 筆 |
 

@@ -96,9 +96,9 @@
 <div class="d3-chart-section">
   <div class="d3-chart-title">證據等級 vs 適應症數量</div>
   <div class="chart-tabs">
-    <button class="chart-tab active" data-filter="all">全部 (191)</button>
-    <button class="chart-tab" data-filter="high">高證據 L1-L2 (18)</button>
-    <button class="chart-tab" data-filter="medium">中證據 L3-L4 (35)</button>
+    <button class="chart-tab active" data-filter="all">全部 ({{ site.data.drug_stats.total_drugs }})</button>
+    <button class="chart-tab" data-filter="high">高證據 L1-L2 ({{ site.data.drug_stats.level_counts.L1 | plus: site.data.drug_stats.level_counts.L2 }})</button>
+    <button class="chart-tab" data-filter="medium">中證據 L3-L4 ({{ site.data.drug_stats.level_counts.L3 | plus: site.data.drug_stats.level_counts.L4 }})</button>
   </div>
   <div class="d3-chart-container">
     <div id="evidence-scatter-chart"></div>

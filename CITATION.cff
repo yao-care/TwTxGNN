@@ -10,7 +10,7 @@ url: "https://twtxgnn.yao.care"
 abstract: >-
   TwTxGNN is a drug repurposing validation platform based on Harvard's TxGNN
   model (Nature Medicine, 2023), focusing on Taiwan National Health Insurance
-  (NHI) approved drugs. The platform provides 191 drug validation reports with
+  (NHI) approved drugs. The platform provides 279 drug validation reports with
   evidence levels (L1-L5), integrating data from ClinicalTrials.gov, PubMed,
   DrugBank, and Taiwan FDA. It also includes comprehensive drug interaction
   data: DDI (302,516), DDSI (8,359), DFI (857), and DHI (35).

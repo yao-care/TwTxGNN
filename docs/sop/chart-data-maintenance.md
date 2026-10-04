@@ -54,7 +54,7 @@ docs/_includes/d3-charts.html
 
 ```json
 {
-  "total_drugs": 191,
+  "total_drugs": 279,
   "level_counts": { "L1": 8, "L2": 12, ... },
   "top_by_indications": [...],
   "all_drugs": [

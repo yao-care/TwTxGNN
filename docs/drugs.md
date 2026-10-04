@@ -10,7 +10,7 @@ redirect_from:
 # 藥物總覽
 {: .fs-9 }
 
-共 279 個藥物的驗證報告
+共 {{ site.data.drug_stats.total_drugs }} 個藥物的驗證報告
 {: .fs-6 .fw-300 }
 
 ---

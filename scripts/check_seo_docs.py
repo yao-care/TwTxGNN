@@ -18,7 +18,8 @@
     6. 藥物頁的許可證字號都屬於該藥（TFDA 快照）、許可證表是程式產生的、張數一致、
        沒有產線開場白與「Evidence Pack」用語；被 superseded 的查核紀錄確認屬於本藥的字號
        （asserted_license_ids）必須都在程式表裡（2026-10-03 補）。
-    7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級；表格前面不缺空行（2026-10-04 補）。
+    7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級；表格前面不缺空行；吃等級的衍生檔與頁首一致；
+       不能用 Liquid 的寫死藥物數／等級分布等於 drug_stats.json（2026-10-04 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
 
@@ -276,6 +277,15 @@ for _rel, _key, _fld, _fix in _DERIVED:
     if _bad or _missing:
         errors.append(f"{_rel}：等級與藥物頁頁首不一致 {_bad[:5]}、缺 {_missing[:5]}（跑 {_fix}）")
 
+# 7c) 不能用 Liquid 的寫死藥物數／等級分布（front matter description、ld+json numberOfItems、README、CITATION…）
+#     必須等於 drug_stats.json（2026-10-04 補）。清單與修法：scripts/generate_drug_stats.py 的 COUNT_SPOTS。
+from generate_drug_stats import count_spot_problems as _count_spots  # noqa: E402
+_stats_path = DOCS / "_data" / "drug_stats.json"
+if _stats_path.exists():
+    _stats = json.loads(_stats_path.read_text(encoding="utf-8"))
+    if _stats.get("total_drugs") != len(_fm_level):
+        errors.append(f"drug_stats.json total_drugs={_stats.get('total_drugs')}，藥物頁 {len(_fm_level)} 頁（跑 scripts/generate_drug_stats.py）")
+    errors.extend(f"寫死的藥物數：{e}（跑 scripts/generate_drug_stats.py）" for e in _count_spots(_stats))
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
     for e in errors:

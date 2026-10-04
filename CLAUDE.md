@@ -979,7 +979,7 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - 重審（2026-10-03 起）：「待重審」的預測依 `docs/methodology.md` 的 L1–L5 定義重審（扣掉錯誤前提看剩餘理由；PubMed、ClinicalTrials.gov 正反證據都查，查無結果的查詢記在 `searches`），結論寫成 `action: rereview_result`，用 `resolves` 指回原 rereview（原紀錄改標 `status: rereviewed` 保留）。頁面上「待重審」框原位換成「重審結果」框（維持／降級／撤回、原等級→新等級、理由、文獻）。只有降級或撤回才用 `table_updates` 改頁面上該適應症的等級／決策儲存格，原值留在紀錄並列在查核紀錄表。
 - 頁首等級（2026-10-04 起全站）：每頁的 front matter `evidence_level`、`parent` 與頁首「證據等級」列＝快速總覽「證據等級」列的最高等級（同格多個等級取數字最小者；該列沒有 Lx 就不動）。規則在 `src/twtxgnn/regulatory/page_format.py`，產線 `process_for_site()` 與 `apply_drug_reviews.py` 都套；`sync_notes_to_docs.py`／`build_docs.py` 的解析式已改成整格取最高等級（舊式只認純值儲存格，帶說明文字就落到預設 L5）。頁首有變動的頁在 `drug_reviews.json` 各有一筆 `action: header_level`（原值 `original_level`／`original_parent`），查核紀錄表顯示「頁首等級依總覽表重算（原 Lx→Ly）」。
 - 表格前空行：表格第一列前面不是空行時，kramdown 會把整張表排成純文字；後處理（`page_format.fix_table_spacing`）自動補。
-- 吃等級的衍生檔都從藥物頁頁首重算，頁面重產後要一起跑：`scripts/generate_drug_stats.py`（`docs/_data/drug_stats.json`，首頁圖表）、`scripts/generate_data_exports.py`（`docs/data/drugs*.json/csv`）、`scripts/generate_download_data.py`（`docs/downloads/`）、`scripts/build_lookup_pages.py`（`tw-availability.md`、`nct-lookup.md`）、`scripts/generate_search_index.py --levels-from-pages`（搜尋索引的藥物層等級）；新聞頁由新聞排程依 `docs/data/drugs.json` 重產。首頁、`nav-drugs.md`、`drugs.md`、`downloads.md` 的等級分布數字用 Liquid 讀 `site.data.drug_stats`，不要手寫。
+- 吃等級的衍生檔都從藥物頁頁首重算，頁面重產後要一起跑：`scripts/generate_drug_stats.py`（`docs/_data/drug_stats.json`，首頁圖表）、`scripts/generate_data_exports.py`（`docs/data/drugs*.json/csv`）、`scripts/generate_download_data.py`（`docs/downloads/`）、`scripts/build_lookup_pages.py`（`tw-availability.md`、`nct-lookup.md`）、`scripts/generate_search_index.py --levels-from-pages`（搜尋索引的藥物層等級）；新聞頁由新聞排程依 `docs/data/drugs.json` 重產。公開頁面上的藥物總數與等級分布數字一律用 Liquid 讀 `site.data.drug_stats`（`total_drugs`、`level_counts`），不要手寫；不能用 Liquid 的地方（front matter `description`、ld+json `numberOfItems`、`README.md`、`CITATION.cff` 等）列在 `scripts/generate_drug_stats.py` 的 `COUNT_SPOTS`，由該腳本改寫，gate 第 7c 項檢查。新增這類數字時要嘛用 Liquid，要嘛加進 `COUNT_SPOTS`。
 - 同 id 重發的紀錄：前版整筆存進該筆的 `history`（`retired`、`reason`），不覆蓋丟棄；頁面停在前版更正文字時，套用會把它換成新版。
 - 待查清單 `docs/_data/drug_reviews_uncertain.json` 的項目不刪：查清標 `status: resolved`（附 `record_ids`），查不出定論標 `status: unresolvable`（附 `searched`、`unresolvable_reason`）。
 
@@ -992,5 +992,5 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - 查核紀錄的錨點落在被取代的許可證表或張數上時，該筆標 `status: superseded`＋`superseded_by`，紀錄保留、頁面不顯示框，查核紀錄表註明「已由程式化許可證表取代」。
 - 比對用的別名（INN 別名、鹽類／酯類、放射性核種寫法、拼字變體）放在 `config/tfda_synonyms.json`，每筆附依據；只收同一個藥的寫法。改完重跑 `scripts/regenerate_tfda_tables.py`。
 - gate（`scripts/check_seo_docs.py`）第 6 項會擋：不屬於該藥的許可證字號、許可證表不是程式區塊、張數與快照不符、殘留開場白或「Evidence Pack」；另外被 superseded 的查核紀錄裡確認屬於本藥的字號（`asserted_license_ids`）必須都在程式表裡——比對漏同義名時會在這裡被擋下。
-- gate 第 7 項（2026-10-04 起）會擋：頁首等級不等於快速總覽最高等級、表格前面缺空行、上列衍生檔的等級與頁首不一致（或缺藥）。
+- gate 第 7 項（2026-10-04 起）會擋：頁首等級不等於快速總覽最高等級、表格前面缺空行、上列衍生檔的等級與頁首不一致（或缺藥）、`COUNT_SPOTS` 裡寫死的藥物數或等級分布與 `drug_stats.json` 不符。
 - 「原適應症」列的交叉驗證：`python3 scripts/check_original_indications.py`，只把可疑頁寫進 `docs/_data/drug_reviews_uncertain.json`，不改頁面。

@@ -12,7 +12,7 @@ redirect_from:
 # 藥物報告
 
 <p style="font-size: 1.1rem; color: #666; margin-bottom: 1.5rem;">
-依證據等級瀏覽 <strong>279</strong> 份老藥新用驗證報告
+依證據等級瀏覽 <strong>{{ site.data.drug_stats.total_drugs }}</strong> 份老藥新用驗證報告
 </p>
 
 <style>
