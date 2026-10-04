@@ -77,7 +77,7 @@ image: /assets/images/og-default.png
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">台灣藥品全覆蓋</strong><br>
-    <span style="color: #666;">聚焦 TFDA 核准藥品，涵蓋 189 種藥物、704 個預測適應症。報告包含台灣許可證狀態與健保資訊，直接對接本地研究與臨床需求。</span>
+    <span style="color: #666;">聚焦 TFDA 核准藥品，涵蓋 {{ site.data.drug_stats.total_drugs }} 種藥物、704 個預測適應症。報告包含台灣許可證狀態與健保資訊，直接對接本地研究與臨床需求。</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">四大交互作用資料庫</strong><br>

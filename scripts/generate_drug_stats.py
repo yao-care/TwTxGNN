@@ -39,6 +39,7 @@ COUNT_SPOTS = [
     ("docs/_includes/head_custom.html", r'(自動監測 )(\d+)( 種藥物)', "keywords"),
     ("docs/_includes/head_custom.html", r'("numberOfItems": )(\d+)()', "total"),
     ("README.md", r'(\| \*\*藥物報告\*\* \| )(\d+)( 份)', "total"),
+    ("README.md", r'(\| \*\*涵蓋藥物\*\* \| )(\d+)( 種)', "total"),  # 一份報告對應一個藥
     *[("README.md", rf'(^\| \*\*L{n}\*\* \| )(\d+)( \|)', f"L{n}") for n in range(1, 6)],
     ("CITATION.cff", r'(provides )(\d+)( drug validation reports)', "total"),
     ("docs/sop/chart-data-maintenance.md", r'("total_drugs": )(\d+)()', "total"),
