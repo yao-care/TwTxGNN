@@ -35,7 +35,7 @@ permalink: /news/herpes-zoster/
 
 2026-10-02
 
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5)
+來源: [health.ltn.com.tw](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5)
 
 ---
 

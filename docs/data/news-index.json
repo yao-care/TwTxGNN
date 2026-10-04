@@ -1,14 +1,14 @@
 {
-  "generated": "2026-10-04T00:03:55.592945+00:00",
-  "count": 16,
+  "generated": "2026-10-04T00:14:58.005199+00:00",
+  "count": 15,
   "news": [
     {
-      "id": "a5e5fd477098",
+      "id": "0d31c206acb2",
       "title": "58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞",
       "published": "2026-10-03T10:00:12+00:00",
       "sources": [
         {
-          "name": "經濟日報",
+          "name": "money.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTFNNc1M4WFlSRHMzLTFheWVNNElfQWJvUmQteWk1OHdIN09pQVpEa0doRURsTy1Hc3lWWmZsaTFCeE41UzNLNlpKYVZhdzhIX2VMZm41OE5MQQ?oc=5"
         }
       ],
@@ -78,12 +78,12 @@
       ]
     },
     {
-      "id": "4150dd607cce",
+      "id": "e80b7f95dec5",
       "title": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍",
       "published": "2026-10-02T08:32:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5"
         }
       ],
@@ -144,52 +144,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6ab52d3f5d6f",
-      "title": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - Women's Health",
-      "published": "2026-10-02T04:24:47+00:00",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -291,12 +245,12 @@
       ]
     },
     {
-      "id": "608cb5b7a24c",
+      "id": "197af1cc1b10",
       "title": "關節炎止痛新方向 美研究揭阻斷蛋白或緩解疼痛",
       "published": "2026-09-29T06:14:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaWU5BUml4T25OVTZWOTQ3VlNzaDEtaE5zZDVreFVaZW5NbDhkUXJtMmp2eW9rQ1cwTVBpUklHYmw4c0lXMC01eFdXYTg3NnExVTR3OVNZakQ0ZE9LV0RCalk2RUI?oc=5"
         }
       ],
@@ -362,12 +316,12 @@
       ]
     },
     {
-      "id": "2beee642ea63",
+      "id": "7bace52932b2",
       "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
       "published": "2026-09-29T00:01:54+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
         }
       ],

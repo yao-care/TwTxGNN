@@ -48,7 +48,7 @@ permalink: /news/nystatin/
 
 2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">停經</span>
 
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTFNNc1M4WFlSRHMzLTFheWVNNElfQWJvUmQteWk1OHdIN09pQVpEa0doRURsTy1Hc3lWWmZsaTFCeE41UzNLNlpKYVZhdzhIX2VMZm41OE5MQQ?oc=5)
+來源: [money.udn.com](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTFNNc1M4WFlSRHMzLTFheWVNNElfQWJvUmQteWk1OHdIN09pQVpEa0doRURsTy1Hc3lWWmZsaTFCeE41UzNLNlpKYVZhdzhIX2VMZm41OE5MQQ?oc=5)
 
 ---
 

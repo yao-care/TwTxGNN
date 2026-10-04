@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-04T00:03:55.542363+00:00",
-  "total_count": 46,
-  "matched_count": 16,
+  "last_updated": "2026-10-04T00:14:57.980036+00:00",
+  "total_count": 44,
+  "matched_count": 15,
   "news": [
     {
       "id": "1e3455573113",
@@ -17,39 +17,39 @@
       "matched_keywords": []
     },
     {
-      "id": "f3e0b4d8d2b1",
+      "id": "0a3f79b810d1",
       "title": "三藩市出現首例成年人流感死亡",
       "published": "2026-10-03T13:00:50+00:00",
-      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;Singtaousa流感不可輕忽 舊金山現本季首例死亡&nbsp;&nbsp;世界新聞網舊金山出現本流感季首例死亡| 舊金山即時| 舊金山 | 世界新聞網&nbsp;&nbsp;世界新聞網",
+      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;singtaousa.com流感不可輕忽 舊金山現本季首例死亡&nbsp;&nbsp;世界新聞網舊金山出現本流感季首例死亡| 舊金山即時| 舊金山 | 世界新聞網&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0J0RkUwelQya1dPQy1pUTMzM2ZPX3JEekpOTzZ2ZUpLOEYwRzAzaWVDTTcwSHB3LU14WFdtam96MHVHZVpfWHFIemd6WE5qblRjbDA4SHFhYkVvNGUySWRqSnpYRUV5WFk5MGVhZnZfZzhoblA1d0EtRldsSWhXMjN3aw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "c2e2fc605b08",
+      "id": "b38dc482546b",
       "title": "健康網》愛吃生魚片 小心！醫：李斯特菌恐釀腦膜炎",
       "published": "2026-10-03T11:47:00+00:00",
-      "summary": "健康網》愛吃生魚片 小心！醫：李斯特菌恐釀腦膜炎&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》愛吃生魚片 小心！醫：李斯特菌恐釀腦膜炎&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90US1keUlVUWV3Mjg0ajMxMTkySkM5QUN2U0hOaDVGM3VzUGZjdnduQ2tHdjNzMm1admlyZjVldnZSQ1JNYUwycGcwR2w4RW1RVWR6Yl9hOHdPUV9seGdUMWg0Wkg?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "a5e5fd477098",
+      "id": "0d31c206acb2",
       "title": "58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞",
       "published": "2026-10-03T10:00:12+00:00",
-      "summary": "58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
+      "summary": "58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞&nbsp;&nbsp;money.udn.com",
       "sources": [
         {
-          "name": "經濟日報",
+          "name": "money.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTFNNc1M4WFlSRHMzLTFheWVNNElfQWJvUmQteWk1OHdIN09pQVpEa0doRURsTy1Hc3lWWmZsaTFCeE41UzNLNlpKYVZhdzhIX2VMZm41OE5MQQ?oc=5"
         }
       ],
@@ -91,26 +91,26 @@
       ]
     },
     {
-      "id": "54e1eef63e6c",
+      "id": "4e86aaa16aeb",
       "title": "健康網》RSV常找上嬰兒 醫談預防法",
       "published": "2026-10-03T09:10:00+00:00",
-      "summary": "健康網》RSV常找上嬰兒 醫談預防法&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》RSV常找上嬰兒 醫談預防法&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNZE5SMm5oTVAyTEtFMklKMFNNei0wMjdIWlNtUWgxTWJfYURiSUl5RFFaTnRVNEJmdEI2aXBGVnZfWUhMNE1kRk9qejVERHhyZi1nMDBKYWVIcVptQl9STi1YOXg?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "5a0009af4e88",
+      "id": "bf06434abb21",
       "title": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播",
       "published": "2026-10-03T08:27:00+00:00",
-      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;巴士的報",
+      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPU2RxMUZCRXIyem9ETXF3RmNoWUMxOGNaS0F4TVA4ckRsUmUzNHI2dGFDUURGNzFva0Q2MVJzRGh4TGhtbnlhaTYtQ3dJUlR6UUo3SkNJT0JFX043UDl2RXg3eDFhSzNJNko4SHFNT3BUMFplS3p0dWNmZHE0UjNSbFdNQmFiZ19XZ3RYTUR1MV9Db1R4UDBDdkpVZmpPOWZ4ZWVTX3gwc05ObVI1OElMbzZVeDF6SDRNQ2pCUVB2SnFTSDVBYmN1cmQ0MWp6dU9JdkM1X0VfWDRmaVpKNU0ySWNtbWUzTWRRN0ZSem5SQjZCVUhRZWhIQkY4WWZhZEtRb3Q5NmFVTVpEcnJQZjRBQUtIbm4xMVF2RWtTUkVWUVAzeGdDTFM0UnprRU5SRVVQMUVZYlF3QnhpaV9pb0twV3hLWXl5WjVURi1hTURvMnhuVEc5MlRz?oc=5"
         }
       ],
@@ -146,39 +146,39 @@
       ]
     },
     {
-      "id": "e425dd90d485",
+      "id": "1838d60b1406",
       "title": "佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案",
       "published": "2026-10-02T19:57:03+00:00",
-      "summary": "佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News",
+      "summary": "佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;bastillepost.com美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOdEp4R09oRWVEQ3dvSHM0TzRvaTJoSWYyVElOUGdDWkJNX1VvdVBUZWQ2VlBuaHgtcXBBX2k5QjdMQnE5M3VSeVZrU2ptRVJPSEgwOF9FTzlnTWRGYUMxcjJMM2c4MXFSbVoyMzZFbHgxRndUa3BCT3Q1YlgyTmd2UXRPcFdoNW5TZnRweGJwNkpwODlnV0xzVEg5cVR4Sm5aVXFZaG5KMEhnSHNZcVZOaFAtbER4MGZfS3hnUGlTSmphVHhkVlRud0huUHpZSkR4RWs1QnRjQmd5MFFWR3dNR0dfbXNaTGc2c2hnUVIxTDlnUi13ZWFWNUhTaTNSZTJGT3ZiYmxvamhNVWpPWlVyVUxtVGV6R3VEczJfaHprdXdjY0NnZTlFbEZ4Z2JWeXdnV1BiQnVhbHo1T1MxWTAzNTRRNzE0TTVYdDBmLS04dkN0V1lLdnZ1Q2w4R0NibFNnOW9JVEZiZw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "a048f36b6f28",
-      "title": "雞精、蜆精能養肝、消脂肪肝？營養師揭真相：研究結果不一樣- 營養好食 - TVBS 健康2.0",
+      "id": "58b6cc842907",
+      "title": "雞精、蜆精能養肝、消脂肪肝？營養師揭真相：研究結果不一樣- 營養好食",
       "published": "2026-10-02T16:02:00+00:00",
-      "summary": "雞精、蜆精能養肝、消脂肪肝？營養師揭真相：研究結果不一樣- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "雞精、蜆精能養肝、消脂肪肝？營養師揭真相：研究結果不一樣- 營養好食&nbsp;&nbsp;health.tvbs.com.tw",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
+          "name": "health.tvbs.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDeWFpQmdpWGxjUmtYN0lPQ3pJdW16RE0zZUY4UmtTYlhESWMzblRhWFRITnNsUm91MjVKNnIxT1NqQmQtNGkxSnNrRnFpZ1FKXy1KZ1Nn?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4150dd607cce",
+      "id": "e80b7f95dec5",
       "title": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍",
       "published": "2026-10-02T08:32:00+00:00",
-      "summary": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5"
         }
       ],
@@ -273,53 +273,6 @@
       ]
     },
     {
-      "id": "6ab52d3f5d6f",
-      "title": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - Women's Health",
-      "published": "2026-10-02T04:24:47+00:00",
-      "summary": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "b7406805110e",
       "title": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜",
       "published": "2026-10-02T00:43:15+00:00",
@@ -346,26 +299,26 @@
       "matched_keywords": []
     },
     {
-      "id": "3510d85a52c2",
-      "title": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網 - LINE TODAY",
+      "id": "3a215841963b",
+      "title": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網",
       "published": "2026-10-01T08:23:41+00:00",
-      "summary": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "summary": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網&nbsp;&nbsp;today.line.me",
       "sources": [
         {
-          "name": "LINE TODAY",
+          "name": "today.line.me",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uQmhNaXgzSnRTTU5wcFRyWDUxVEN2dkFqODBWWklyV2RvT09fQXVSRkdrMFBLTGl6bHRVYWt1ZlRKYlFmMm1RUVNYX0lMSUlIZEd2Rmt3?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8c63fe8eb25b",
-      "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻 - Martin Cid Magazine",
+      "id": "2a7e489e943e",
+      "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻",
       "published": "2026-09-30T14:38:52+00:00",
-      "summary": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻&nbsp;&nbsp;Martin Cid Magazine",
+      "summary": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻&nbsp;&nbsp;zh-hant.martincid.com",
       "sources": [
         {
-          "name": "Martin Cid Magazine",
+          "name": "zh-hant.martincid.com",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWttNm1leUQ0TGl1a0J4Vm00Y2F5b2gzVEYtTGNyVjFkVHk3dlVjV0lqWXUybElmZl91U2Fzb0RncG9qVGo3SENJR1R2bV9Za0lmdVdHRlpSZzFEOW9fMTRNMDIxTm9OLUtKelFfQlhfcks4Zi1xZ05OTTJ3eWc5b1p4U1NjN1VPanV1S0RvNXlwNFV1a3Y1VlllSkhsM19rdjJFSkJIb3RNRVBCWWhNeFFZc19ObmRpMk9hb0Q4c1EwR0ZoaFgzSmRtN05tQ2M5aTl0eGUyRWYyUGlFWTlCZTRDc1VTTVVkTWVFUGZZVGVZZzc5U0lSbkgzNFVFUmxOeUJFZXlyUHhCazdOT0ttZWRuNl9xZXR0Y0N1NUpMdW05Zw?oc=5"
         }
       ],
@@ -385,13 +338,13 @@
       "matched_keywords": []
     },
     {
-      "id": "67d1e64eb9a3",
+      "id": "658efedae1eb",
       "title": "健康網》怕缺維生素D不敢擦防曬 醫揭靠曬太陽反增2風險",
       "published": "2026-09-30T10:52:00+00:00",
-      "summary": "健康網》怕缺維生素D不敢擦防曬 醫揭靠曬太陽反增2風險&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》怕缺維生素D不敢擦防曬 醫揭靠曬太陽反增2風險&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5cGhmOTN1WVdVWWM5UjMyTTFhMWFBWjZmR0JBYXR6bThwb0JUdEJWN3ByUG9DYlhGS1BOSWctaHR0SHpaUTFDaFNHU24xSzF6R25Wd3RiYWtUS0ZRTzgwX3hLcXE?oc=5"
         }
       ],
@@ -423,13 +376,13 @@
       ]
     },
     {
-      "id": "0bd2effede27",
+      "id": "a1ff4c14c180",
       "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？",
       "published": "2026-09-30T06:12:00+00:00",
-      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;幸福熟齡",
+      "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;thebetteraging.businesstoday.com.tw",
       "sources": [
         {
-          "name": "幸福熟齡",
+          "name": "thebetteraging.businesstoday.com.tw",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xRVJrVFB2NDltMTc4eFU4ZzdMQVJ3VlJWMFA5ZVpyNmFVcmdQYVpncVBjUzlYWEZOQWw5Y0w1NGdPLVB1UzlYbXJGbGV0VXRWLXdlczZpUU91TjREZjZ6VjItcF9Yc3lQLTlxZ0puUmxwSmpMZUNrZm1INA?oc=5"
         }
       ],
@@ -500,13 +453,13 @@
       ]
     },
     {
-      "id": "4a239c05ac43",
+      "id": "ff583e946fca",
       "title": "林盛斌初聞驗愛滋錯愕 醫生一席話改變觀念：任何有性行為都應測試",
       "published": "2026-09-29T11:00:34+00:00",
-      "summary": "林盛斌初聞驗愛滋錯愕 醫生一席話改變觀念：任何有性行為都應測試&nbsp;&nbsp;SingtaousaBob林盛斌自爆將驗愛滋 初聞建議反應大：點解我要做？ 醫生點出一關鍵決接受測試&nbsp;&nbsp;星島頭條林盛斌公開接受愛滋測試原因 醫生一句話改變想法&nbsp;&nbsp;Singtaousa",
+      "summary": "林盛斌初聞驗愛滋錯愕 醫生一席話改變觀念：任何有性行為都應測試&nbsp;&nbsp;singtaousa.comBob林盛斌自爆將驗愛滋 初聞建議反應大：點解我要做？ 醫生點出一關鍵決接受測試&nbsp;&nbsp;stheadline.com林盛斌公開接受愛滋測試原因 醫生一句話改變想法&nbsp;&nbsp;singtaousa.com",
       "sources": [
         {
-          "name": "Singtaousa",
+          "name": "singtaousa.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmdxczQzZzA0TEpOdjB6ZWtRdngxRkZ0TUtIcHU4WW9wR0xfeEFIMUxXVGhPRUI4NEVGYWEyNkJPVW9VendVSnlNcE9DNHkzU1ZYdDRHU3IxZnhwdTNvLWVHaFFsSWtvaEl2bVRGWUp5c0lSS09GT3pCc2tycUVHS0VB?oc=5"
         }
       ],
@@ -561,13 +514,13 @@
       ]
     },
     {
-      "id": "608cb5b7a24c",
+      "id": "197af1cc1b10",
       "title": "關節炎止痛新方向 美研究揭阻斷蛋白或緩解疼痛",
       "published": "2026-09-29T06:14:00+00:00",
-      "summary": "關節炎止痛新方向 美研究揭阻斷蛋白或緩解疼痛&nbsp;&nbsp;自由健康網",
+      "summary": "關節炎止痛新方向 美研究揭阻斷蛋白或緩解疼痛&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaWU5BUml4T25OVTZWOTQ3VlNzaDEtaE5zZDVreFVaZW5NbDhkUXJtMmp2eW9rQ1cwTVBpUklHYmw4c0lXMC01eFdXYTg3NnExVTR3OVNZakQ0ZE9LV0RCalk2RUI?oc=5"
         }
       ],
@@ -647,13 +600,13 @@
       "matched_keywords": []
     },
     {
-      "id": "2beee642ea63",
+      "id": "7bace52932b2",
       "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
       "published": "2026-09-29T00:01:54+00:00",
-      "summary": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要&nbsp;&nbsp;Yahoo新聞",
+      "summary": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要&nbsp;&nbsp;tw.news.yahoo.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
         }
       ],
@@ -672,13 +625,13 @@
       ]
     },
     {
-      "id": "7e4248eac5fa",
+      "id": "ec8d9a9d9d45",
       "title": "休士頓社區打疫苗 流感季節守護健康",
       "published": "2026-09-28T22:36:11+00:00",
-      "summary": "休士頓社區打疫苗 流感季節守護健康&nbsp;&nbsp;Yahoo新聞1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網​首日逾千人接種新一季流感疫苗&nbsp;&nbsp;濠江日報本澳流感病毒和腸病毒轉趨活躍_中国澳门_新闻&nbsp;&nbsp;华人头条小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;鏡報",
+      "summary": "休士頓社區打疫苗 流感季節守護健康&nbsp;&nbsp;tw.news.yahoo.com1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網​首日逾千人接種新一季流感疫苗&nbsp;&nbsp;濠江日報本澳流感病毒和腸病毒轉趨活躍_中国澳门_新闻&nbsp;&nbsp;52hrtt.com小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;mirrordaily.news",
       "sources": [
         {
-          "name": "Yahoo新聞",
+          "name": "tw.news.yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMVRrQk5Icy1rVTlueG1zd1NkZGlQYXF5dklvQVdhckFkOVNqbUR6S01SN2p0bTBad0t5eFQ4NURlZEpScGhtTUZGN0xweFNEZjRNRGlEQmdSeW5wa213UGZSVEItUWI2OUtLNkI4RDlweEw2MnYtWVloRzV2YVdoSFBXWFo0SnZtR2Z4MUNJekNLcVVISmx6XzJVVkhRZmsxNnhwdkJReTZXb2trUDZtRk1EVDB6aGhhTXdVeEJWbnZVYXRTWlZKSnhTUFZjbmExaWM0SS1oUGF3Y0oxREZRUk9ENlNhWHRRa2ljWi1vZWF1UU9YdlRfbjhaenNEVlpRLUdySGZNY3BKTmtidmFwSXN0dFM?oc=5"
         }
       ],
@@ -981,13 +934,13 @@
       ]
     },
     {
-      "id": "3a39de7ec011",
+      "id": "969ae8bb0682",
       "title": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」",
       "published": "2026-09-28T03:56:00+00:00",
-      "summary": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」&nbsp;&nbsp;自由健康網",
+      "summary": "培養皿養出的人類腦組織竟長大近5倍！移植後還與神經系統「接上」&nbsp;&nbsp;health.ltn.com.tw",
       "sources": [
         {
-          "name": "自由健康網",
+          "name": "health.ltn.com.tw",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BVThJbmVHd0w2YlB2Ml9mQ09QcE5YbC1uREN0Y1phck1CSG00Ry11ZExGd1F2MHF3dk1oTGp1ZUwtU1VFUW9qM3BtclpkTG1JTW1PLXFoRDh1TGtQMm5uN2FXaDY?oc=5"
         }
       ],
@@ -1085,19 +1038,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGxiOGU4S1hzaEdyNWt2VldsNVFWZXNKQVJCY0xsV2puV0NJTmVDd1lHaW5YWGhIZkJ0b1d1QWFobk9xTnN3elZNWk9RNloyQ3d2V210QXdaajNWTzRzQ3RXcnNjX0xyUVpfRUxPUU5xTjlSTkM1R2NyWHFpQkZqcS1JeDQ2XzhW?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "051bd5370e0a",
-      "title": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關",
-      "published": "2026-09-26T22:40:13+00:00",
-      "summary": "研究揭：放屁突變頻密兼腹痛腹脹要留神 或與3 大腸胃問題有關&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQYzZrQVJHY0Z0cWJ6UGM0cExWbTlfamt4Rl9hRDVvRmFaejlvM2t4T2NYM0hyR0wzS3FBQnBDcG5FMDl4TUdNNDhjdHd5Mm8yQjZvUjIyNHFrRmh5aXQ4Z1g5V01rNGQ0dFhVVDFDV1dCYUg0Qmt1dkdlVzlFczBZT0l2cmdvMUk0a2FPUmlwLXRkY0UwQk9JRzlCcDNXVHNpMEFiZkFHTmJuUWZiRzVzOGFia29MMnFjaFpRY09ObWRMYUdtend6YlZLRUZxSXMtTGIzR0pzVlQ5Sm9waUVNSHkwTHBQdGxuTkVJczdCQXphTXJfeE01U3pDa18tekhNNnVqSDZ3X0tReUxMRmJmeDh1UTlwaXN3SWF6d2VCbGhCM1dHMmlZeENnU1cwRWlmd3BPMU00QjdJR1dMWUVWaEIxMzI4R050U0g5bTNfOEVXLTg5NjN5M1RNOW14SDdwem96NEY1T1lFd3d0Q2JoRw?oc=5"
         }
       ],
       "matched_keywords": []
