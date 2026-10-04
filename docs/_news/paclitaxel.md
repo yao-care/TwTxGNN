@@ -44,11 +44,11 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（3 則）
 
-### [58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTFNNc1M4WFlSRHMzLTFheWVNNElfQWJvUmQteWk1OHdIN09pQVpEa0doRURsTy1Hc3lWWmZsaTFCeE41UzNLNlpKYVZhdzhIX2VMZm41OE5MQQ?oc=5)
+### [58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
 
 2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">停經</span>
 
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTFNNc1M4WFlSRHMzLTFheWVNNElfQWJvUmQteWk1OHdIN09pQVpEa0doRURsTy1Hc3lWWmZsaTFCeE41UzNLNlpKYVZhdzhIX2VMZm41OE5MQQ?oc=5)
+來源: [經濟日報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
 
 ---
 
