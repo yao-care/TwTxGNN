@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-04T12:57:16.483024+00:00",
-  "count": 40,
+  "fetched_at": "2026-10-04T17:16:17.244482+00:00",
+  "count": 42,
   "news": [
     {
-      "id": "71b1c10cbdac",
-      "title": "佛州登革熱疫情感染升至252例 1人死亡 - 大紀元",
-      "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元時報香港",
+      "id": "5a8a47119639",
+      "title": "打流感疫苗怕副作用？醫師揭密 - 東森新聞",
+      "published": "2026-10-04T15:30:00+00:00",
+      "summary": "打流感疫苗怕副作用？醫師揭密&nbsp;&nbsp;東森新聞衛生局今起為高風險人士免費接種流感疫苗&nbsp;&nbsp;大衆報小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;Yahoo新聞醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a5a26a0b0175",
+      "title": "換季孩子鼻塞、過敏一整晚睡不好？從居家環境到睡前習慣，幫助孩子睡得更安穩 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-10-04T13:31:07+00:00",
+      "summary": "換季孩子鼻塞、過敏一整晚睡不好？從居家環境到睡前習慣，幫助孩子睡得更安穩&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ua19ib3MxLUIyOF9EbEVBcWhCOWJMZjNWMEtnbGdQWUdyMXRWakZBMHhpM0xPT3o0U29jU2h0WmtFSlM1NmZzUTlyLV9tTmlJTGRhMDhn?oc=5"
         }
       ]
     },
@@ -28,6 +40,18 @@
       ]
     },
     {
+      "id": "71b1c10cbdac",
+      "title": "佛州登革熱疫情感染升至252例 1人死亡 - 大紀元",
+      "published": "2026-10-04T02:35:00+00:00",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元時報香港",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a5e5fd477098",
       "title": "58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞 - 經濟日報",
       "published": "2026-10-03T10:00:12+00:00",
@@ -36,18 +60,6 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tTFNNc1M4WFlSRHMzLTFheWVNNElfQWJvUmQteWk1OHdIN09pQVpEa0doRURsTy1Hc3lWWmZsaTFCeE41UzNLNlpKYVZhdzhIX2VMZm41OE5MQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1ee916c6389",
-      "title": "醫療專家呼籲民眾十月底前接種流感疫苗防重症 - Singtaousa",
-      "published": "2026-09-30T22:15:44+00:00",
-      "summary": "醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網​首日逾千人接種新一季流感疫苗&nbsp;&nbsp;濠江日報本澳流感病毒和腸病毒轉趨活躍_中国澳门_新闻&nbsp;&nbsp;华人头条小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;鏡報",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUWYxOXpUN0Y2LW10aFVKcGM5ZDRvRjRUQ2RLM1A3WUZiTThnN21JNDRhVU56bWl2elppdEZyN1JacVBDOERabURwdEVka0ZQaUxyMG90Z3hlc0lkNmRKbndXbUxDZ2EybXlnbU1rMHptVDFsa3NWbjhMbGdYUm5vT1YyR2d2ZDJfYW5hY3M0VnVMWHVuR1Fha04yR2ZCZUhQWmF4VjZBOFZ2MTNtWmtrd09PQzNpNjdiejJPVk4wOGhZQTlDbVhYVnNQd0tOeC1aTk91Q25UZHJhTTV2R2h6WlhhNHh0a3k3WEJMNE5TVGs?oc=5"
         }
       ]
     },
@@ -124,26 +136,26 @@
       ]
     },
     {
-      "id": "bd9fcaf5174b",
-      "title": "美國賓州麻疹疫情持續蔓延 確診已超900例 - 大紀元",
-      "published": "2026-09-29T03:38:00+00:00",
-      "summary": "美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大紀元美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan NewsGriffin：麻疹、登革熱與伊波拉死亡案例，揭示疫苗政策倒退的後果&nbsp;&nbsp;finance.biggo.com.tw賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌",
+      "id": "7c22b0b2f5d5",
+      "title": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 - 民視新聞網",
+      "published": "2026-10-01T07:50:16+00:00",
+      "summary": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RcXZwaDNUR2stcjJOby12VVJ1akpQUHBma0hDYVE2RTZORV9PRkZHYV9FYnZpYXNQLVZQRFJDZE8zT0t4V2JHeklLNjJDVHVySktjMDJiV1ppUWJYWmQ5aNIBZkFVX3lxTE93bnktTUYzTVlXa2x0Nl9KdjVwWWdvS2ZCN2ViUWs0Y0piU2JIRWNOUFdMQ256dUs0bmxRNFBXdUJrRXoyZTZKTkJGb2hYRmpDV1JDRTlTeGNRV0t5NkFKVFBhWW1uQQ?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1MlIzWjVMNXFmUXlxXy1VYUdDNm5lQ3pmSjlfM3JPLTBkTU9kWFFZYkJZRTFWX3l5Q19kN1RIWlFtX01KNDJNelA2WmRkNHplTVVqcGVyRmZTM2xBU0JvWg?oc=5"
         }
       ]
     },
     {
-      "id": "3a215841963b",
-      "title": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網 - today.line.me",
-      "published": "2026-10-01T08:23:41+00:00",
-      "summary": "孟加拉登革熱疫情拉警報 專家警告10月恐更嚴峻 | 民視新聞網&nbsp;&nbsp;today.line.me",
+      "id": "bd9fcaf5174b",
+      "title": "美國賓州麻疹疫情持續蔓延 確診已超900例 - 大紀元",
+      "published": "2026-09-29T03:38:00+00:00",
+      "summary": "美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大紀元美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan NewsGriffin：麻疹、登革熱與伊波拉死亡案例，揭示疫苗政策倒退的後果&nbsp;&nbsp;BigGo 財經賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌",
       "sources": [
         {
-          "name": "today.line.me",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uQmhNaXgzSnRTTU5wcFRyWDUxVEN2dkFqODBWWklyV2RvT09fQXVSRkdrMFBLTGl6bHRVYWt1ZlRKYlFmMm1RUVNYX0lMSUlIZEd2Rmt3?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RcXZwaDNUR2stcjJOby12VVJ1akpQUHBma0hDYVE2RTZORV9PRkZHYV9FYnZpYXNQLVZQRFJDZE8zT0t4V2JHeklLNjJDVHVySktjMDJiV1ppUWJYWmQ5aNIBZkFVX3lxTE93bnktTUYzTVlXa2x0Nl9KdjVwWWdvS2ZCN2ViUWs0Y0piU2JIRWNOUFdMQ256dUs0bmxRNFBXdUJrRXoyZTZKTkJGb2hYRmpDV1JDRTlTeGNRV0t5NkFKVFBhWW1uQQ?oc=5"
         }
       ]
     },
@@ -223,7 +235,7 @@
       "id": "6f3092dd7edb",
       "title": "這家新創公司利用AI防範未來的AI大流行病 - 华尔街日报中文版",
       "published": "2026-09-28T03:05:34+00:00",
-      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;cmoney.tw專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;cmoney.tw劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;cmoney.tw",
+      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;CMoney劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "华尔街日报中文版",
@@ -259,7 +271,7 @@
       "id": "f3e0b4d8d2b1",
       "title": "三藩市出現首例成年人流感死亡 - Singtaousa",
       "published": "2026-10-03T13:00:50+00:00",
-      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;Singtaousa流感不可輕忽 舊金山現本季首例死亡&nbsp;&nbsp;世界新聞網舊金山出現本流感季首例死亡| 舊金山即時| 舊金山 | 世界新聞網&nbsp;&nbsp;世界新聞網",
+      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;Singtaousa流感不可輕忽 舊金山現本季首例死亡&nbsp;&nbsp;世界新聞網舊金山出現本流感季首例死亡&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "Singtaousa",
@@ -360,6 +372,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ab52d3f5d6f",
+      "title": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - Women's Health",
+      "published": "2026-10-01T07:00:00+00:00",
+      "summary": "肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5"
         }
       ]
     },

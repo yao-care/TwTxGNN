@@ -3,7 +3,7 @@ layout: default
 title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智 (dementia)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
 
 2026-10-02
 
 來源: [Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+
+---
+
+### [肌酸不只健身能吃！最新研究揭：補充「肌酸」有助改善失智症與阿茲海默症認知功能？ - Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
+
+2026-10-01
+
+來源: [Women's Health](https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkliQ0gzVkZ5MGEzQ0J0Q3VZMVRJR0l4U09mWG9JYUpZamVCV0EwWmRaNTlUYV9jLXRKdFNlRmV4dm1nNENRa0dHd09SbU90c3pWSjFnMWd0TnZNdG9wQTN1WHNZX0xIWTlmQURybmRvWjZDbW81MHVhbi1SejgwSEN5Z0lrSWFHNG1CbFNkUHN3OGg4Q2ZzWWtBeWRTY2U2cnVWbFhyUkFmN2x4anRKOWlqNU1GYmUtVDhNdUM0bEI?oc=5)
 
 ---
 
