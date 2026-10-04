@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
 
@@ -64,19 +64,11 @@ permalink: /news/gefitinib/
 
 ---
 
-### [大腦排毒功能失靈 恐為失智症根源](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
-
-來源: [大紀元](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZbG53a1JRWmZOb0trLTJ4emNkZUIwSlVWdjFsTFFLUmk4N1VPS2dGcVJnWTMwdHdhMlFad05vNl9vYlNMWmpSWUwzdFNtNUhqTEtYYmtFNWRUbHRvM0440gFkQVVfeXFMTWdxdkVqYmhaellxMzQ0N1lvRThadC03NGZjX1daa0t3WF9hNndEcTVWQTYtdjhlWHoyWS0xeTRJbWw4Q1MzeGxIQ2hlN2p6dzVLb2Q4bi1SQ3VkN1Q2bjMtY2JmMQ?oc=5)
-
----
-
 ### [李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
 
 2026-09-29 <span class="news-indication-tag">阿茲海默症</span>
 
-來源: [tw.news.yahoo.com](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5)
 
 ---
 

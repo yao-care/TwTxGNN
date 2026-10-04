@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀](https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5)
 
 2026-10-02 <span class="news-indication-tag">卵巢癌</span>
 
 來源: [香港01](https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5)
-
----
-
-### [不是鮭魚、鰻魚！50歲男狂長20顆大腸息肉、1顆已是原位癌，醫建議改吃「1種魚」： 竟一顆都沒了](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZanRGY2ZfMjJYVlVfMmw5VXQySDZxaXBfSzdjTlVLblJDMDQyNTRibGl2a2Q1S2V1cmtsOFY2WVUzeko2d19qS2V5VllzY0ZN?oc=5)
-
-2026-09-29 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [Storm.mg](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZanRGY2ZfMjJYVlVfMmw5VXQySDZxaXBfSzdjTlVLblJDMDQyNTRibGl2a2Q1S2V1cmtsOFY2WVUzeko2d19qS2V5VllzY0ZN?oc=5)
 
 ---
 

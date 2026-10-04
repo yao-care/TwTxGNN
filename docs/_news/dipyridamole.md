@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5)
+
+2026-10-04 <span class="news-indication-tag">中風</span>
+
+來源: [香港01](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5)
+
+---
 
 ### [心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意](https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5)
 
