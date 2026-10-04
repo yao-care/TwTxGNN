@@ -1,16 +1,16 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-04T20:40:13.463200+00:00",
+  "fetched_at": "2026-10-04T23:43:06.497771+00:00",
   "count": 43,
   "news": [
     {
-      "id": "80bc1f213c2b",
-      "title": "打流感疫苗怕副作用？醫師揭密 - news.ebc.net.tw",
-      "published": "2026-10-04T15:30:00+00:00",
-      "summary": "打流感疫苗怕副作用？醫師揭密&nbsp;&nbsp;news.ebc.net.tw衛生局今起為高風險人士免費接種流感疫苗&nbsp;&nbsp;大衆報小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;Yahoo新聞醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
+      "id": "5a8a47119639",
+      "title": "打流感疫苗怕副作用？醫師揭密 - 東森新聞",
+      "published": "2026-10-04T08:11:00+00:00",
+      "summary": "打流感疫苗怕副作用？醫師揭密&nbsp;&nbsp;東森新聞衛生局今起為高風險人士免費接種流感疫苗&nbsp;&nbsp;大衆報小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;Yahoo新聞醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
-          "name": "news.ebc.net.tw",
+          "name": "東森新聞",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
         }
       ]
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "71b1c10cbdac",
-      "title": "佛州登革熱疫情感染升至252例 1人死亡 - 大紀元",
-      "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;bastillepost.com美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;hk.epochtimes.com",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a048f36b6f28",
       "title": "雞精、蜆精能養肝、消脂肪肝？營養師揭真相：研究結果不一樣- 營養好食 - TVBS 健康2.0",
       "published": "2026-10-02T16:02:00+00:00",
@@ -84,6 +72,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDeWFpQmdpWGxjUmtYN0lPQ3pJdW16RE0zZUY4UmtTYlhESWMzblRhWFRITnNsUm91MjVKNnIxT1NqQmQtNGkxSnNrRnFpZ1FKXy1KZ1Nn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "71b1c10cbdac",
+      "title": "佛州登革熱疫情感染升至252例 1人死亡 - 大紀元",
+      "published": "2026-10-04T02:35:00+00:00",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
         }
       ]
     },
@@ -124,13 +124,13 @@
       ]
     },
     {
-      "id": "b7406805110e",
-      "title": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜 - 元氣網",
+      "id": "854cdab2a08e",
+      "title": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜 - health.udn.com",
       "published": "2026-10-02T00:43:15+00:00",
-      "summary": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜&nbsp;&nbsp;元氣網",
+      "summary": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DX3lnZl9XdUVRa3J6akU1SHZoZDVEeHBHaFlQV19pYTYwNlBXQVdWU2MyU3hPb0Zxb0l2Tm1sQUNjekQ3M0RWMGpJSUpYWGQyaUQ4TGd0SkRXMlhjdVdBQzB30gFiQVVfeXFMTUNfeWdmX1d1RVFrcnpqRTVIdmhkNUR4cEdoWVBXX2lhNjA2UFdBV1ZTYzJTeE9vRnFvSXZObWxBQ2N6RDczRFYwaklJSlhYZDJpRDhMZ3RKRFcyWGN1V0FDMHc?oc=5"
         }
       ]
@@ -244,13 +244,13 @@
       ]
     },
     {
-      "id": "9b0fa0c58e7f",
-      "title": "最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警 - sunmedia.tw",
+      "id": "2ed35a3dc7bd",
+      "title": "最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警 - 商傳媒",
       "published": "2026-09-28T07:02:39+00:00",
-      "summary": "最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警&nbsp;&nbsp;sunmedia.tw",
+      "summary": "最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "sunmedia.tw",
+          "name": "商傳媒",
           "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOeERsZWZZbHY2ZnhoZGVXUFR2ZFBuYVZLNDJ6QWd2RHUtb3hOcEg2YndrbGxodUMxcXZ5Y0pBNjlIMm84d0locGZnVVdFQTc0YWVhcU5iUDNhT2FHSmV3eXNDeTlxVGVBcExnWk5nS0FHZkR6NnpEUGtTM3dYbVg2NmFZUGR5QXp5NEF5T0ZpTHM3d0xWQm82dFlLR3BuSlk4MVhKQVQ4ZnBIdEFxdHZFWjhvcFU5bmFzbXZxODMwb2lLRW9acEJCQXlXdVlGV25RazR1eG1oTlVwR0xmRU9qbHZ6THgzMzB5aHo5aEJXV2dMZXhDMWVGaGQwS2RpVUZ2MlF2Nk43SEdDX3g2dm5RT21aSWZEMUVIR1hhUXI1QV9wTjNLWGFHVEk2WnN6UUpRUldkb1VKTEh6N25lRjVtM2RBQWNrLWpaYjlTZVVTbEJaaGN6V2ZuTmdseXRrREcyWE4tblI3VXMxajR1TVB2OXdIcktpRnFNOUQxdDdQT0NKUWpfREJJQ1l2X08wOExPcnpyV29MQ1BpNlJDVnRDaVJKbGhUQQ?oc=5"
         }
       ]
@@ -292,13 +292,13 @@
       ]
     },
     {
-      "id": "bf06434abb21",
-      "title": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播 - bastillepost.com",
+      "id": "5a0009af4e88",
+      "title": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播 - 巴士的報",
       "published": "2026-10-03T08:27:00+00:00",
-      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;bastillepost.com",
+      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPU2RxMUZCRXIyem9ETXF3RmNoWUMxOGNaS0F4TVA4ckRsUmUzNHI2dGFDUURGNzFva0Q2MVJzRGh4TGhtbnlhaTYtQ3dJUlR6UUo3SkNJT0JFX043UDl2RXg3eDFhSzNJNko4SHFNT3BUMFplS3p0dWNmZHE0UjNSbFdNQmFiZ19XZ3RYTUR1MV9Db1R4UDBDdkpVZmpPOWZ4ZWVTX3gwc05ObVI1OElMbzZVeDF6SDRNQ2pCUVB2SnFTSDVBYmN1cmQ0MWp6dU9JdkM1X0VfWDRmaVpKNU0ySWNtbWUzTWRRN0ZSem5SQjZCVUhRZWhIQkY4WWZhZEtRb3Q5NmFVTVpEcnJQZjRBQUtIbm4xMVF2RWtTUkVWUVAzeGdDTFM0UnprRU5SRVVQMUVZYlF3QnhpaV9pb0twV3hLWXl5WjVURi1hTURvMnhuVEc5MlRz?oc=5"
         }
       ]
@@ -312,18 +312,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5da6c01cb2e8",
-      "title": "卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀 - 香港01",
-      "published": "2026-10-02T23:40:16+00:00",
-      "summary": "卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5"
         }
       ]
     },
@@ -444,6 +432,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxPZjZESDVlRHZjVUJkZzlJdVNsS2FLNUlQdnN4RGJHWXBMN01USUJZTHJhamYzbVFZR3JsMVR1UU9qbTM5TWFBNU5YSnBqMkQzQlIxVm95a1cxaVFHMDJHSks0R3UwSkwyY3JsWkdzdTA3TlFzZmRLNmU2RWI0VWtBQmNfWGlZek53UHhUdTBnaXF4QllfYWNLS1FVaVlNNUFibTItNE8xTTFTYm5CU3U3cVZTdlJlOXhISjZiZXVmRWdJM2k2elFJd3JSU1h4b2Q3VE9CbndGU3d3aWtxOTFLRWxBS1RDeWp6NFBrb0ZuT2txZkhuUlJmSHg3REMyQy1jT2JQc0tiREV4anU1N09STVJEYWtMQU5BSkpUVkpXVXNLSlRFeFB5dEpUdXdCTHdEeERnNkJyX0pCakNRa19ZSFAtZzU4Zk9vSFJWdXVmQXhHX3RTYngxR1hha2VEcGRia2F4V0VyekRqanVXVl85aXZLeVU1QTZOdTZrWEZfR25nY2F6?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5da6c01cb2e8",
+      "title": "卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀 - 香港01",
+      "published": "2026-10-02T23:40:16+00:00",
+      "summary": "卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5"
         }
       ]
     },

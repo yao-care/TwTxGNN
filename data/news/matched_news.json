@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T20:40:15.489053+00:00",
+  "last_updated": "2026-10-04T23:43:08.644879+00:00",
   "total_count": 43,
   "matched_count": 16,
   "news": [
@@ -12,19 +12,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CMWYxOFcxSWdmSW5venVzaFEtYmluRGNUejlSSlJPa3IwSFNibTJnR0QyR1JxY1ZIVG1kaEpSb1BOclNKMzlqck5qWGtpR01MM1BiOVNGSjlkWVk0eWdQM1Rn0gFnQVVfeXFMT3h0djAzVWVpcE9xU1J1SWRXOFFsUVctY2g0Z2lSbjVteEo2SFUyMGI3RXo2LWlUTV82U3hTOWMzSl9hX1dZRUxSWVpOczQ1Y2tJQzhIOVNVNHo2Z2hkVG5vUVFRY1MwWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "80bc1f213c2b",
-      "title": "打流感疫苗怕副作用？醫師揭密",
-      "published": "2026-10-04T15:30:00+00:00",
-      "summary": "打流感疫苗怕副作用？醫師揭密&nbsp;&nbsp;news.ebc.net.tw衛生局今起為高風險人士免費接種流感疫苗&nbsp;&nbsp;大衆報小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;Yahoo新聞醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
-      "sources": [
-        {
-          "name": "news.ebc.net.tw",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -68,10 +55,23 @@
       "matched_keywords": []
     },
     {
+      "id": "5a8a47119639",
+      "title": "打流感疫苗怕副作用？醫師揭密",
+      "published": "2026-10-04T08:11:00+00:00",
+      "summary": "打流感疫苗怕副作用？醫師揭密&nbsp;&nbsp;東森新聞衛生局今起為高風險人士免費接種流感疫苗&nbsp;&nbsp;大衆報小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;Yahoo新聞醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "71b1c10cbdac",
       "title": "佛州登革熱疫情感染升至252例 1人死亡",
       "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;bastillepost.com美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;hk.epochtimes.com",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
       "sources": [
         {
           "name": "大紀元",
@@ -197,13 +197,13 @@
       "matched_keywords": []
     },
     {
-      "id": "bf06434abb21",
+      "id": "5a0009af4e88",
       "title": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播",
       "published": "2026-10-03T08:27:00+00:00",
-      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;bastillepost.com",
+      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "bastillepost.com",
+          "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPU2RxMUZCRXIyem9ETXF3RmNoWUMxOGNaS0F4TVA4ckRsUmUzNHI2dGFDUURGNzFva0Q2MVJzRGh4TGhtbnlhaTYtQ3dJUlR6UUo3SkNJT0JFX043UDl2RXg3eDFhSzNJNko4SHFNT3BUMFplS3p0dWNmZHE0UjNSbFdNQmFiZ19XZ3RYTUR1MV9Db1R4UDBDdkpVZmpPOWZ4ZWVTX3gwc05ObVI1OElMbzZVeDF6SDRNQ2pCUVB2SnFTSDVBYmN1cmQ0MWp6dU9JdkM1X0VfWDRmaVpKNU0ySWNtbWUzTWRRN0ZSem5SQjZCVUhRZWhIQkY4WWZhZEtRb3Q5NmFVTVpEcnJQZjRBQUtIbm4xMVF2RWtTUkVWUVAzeGdDTFM0UnprRU5SRVVQMUVZYlF3QnhpaV9pb0twV3hLWXl5WjVURi1hTURvMnhuVEc5MlRz?oc=5"
         }
       ],
@@ -353,13 +353,13 @@
       ]
     },
     {
-      "id": "b7406805110e",
+      "id": "854cdab2a08e",
       "title": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜",
       "published": "2026-10-02T00:43:15+00:00",
-      "summary": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜&nbsp;&nbsp;元氣網",
+      "summary": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜&nbsp;&nbsp;health.udn.com",
       "sources": [
         {
-          "name": "元氣網",
+          "name": "health.udn.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DX3lnZl9XdUVRa3J6akU1SHZoZDVEeHBHaFlQV19pYTYwNlBXQVdWU2MyU3hPb0Zxb0l2Tm1sQUNjekQ3M0RWMGpJSUpYWGQyaUQ4TGd0SkRXMlhjdVdBQzB30gFiQVVfeXFMTUNfeWdmX1d1RVFrcnpqRTVIdmhkNUR4cEdoWVBXX2lhNjA2UFdBV1ZTYzJTeE9vRnFvSXZObWxBQ2N6RDczRFYwaklJSlhYZDJpRDhMZ3RKRFcyWGN1V0FDMHc?oc=5"
         }
       ],
@@ -903,13 +903,13 @@
       ]
     },
     {
-      "id": "9b0fa0c58e7f",
+      "id": "2ed35a3dc7bd",
       "title": "最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警",
       "published": "2026-09-28T07:02:39+00:00",
-      "summary": "最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警&nbsp;&nbsp;sunmedia.tw",
+      "summary": "最新研究揭示眼部健康與失智症關聯 眼部檢查有望成早期預警&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "sunmedia.tw",
+          "name": "商傳媒",
           "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOeERsZWZZbHY2ZnhoZGVXUFR2ZFBuYVZLNDJ6QWd2RHUtb3hOcEg2YndrbGxodUMxcXZ5Y0pBNjlIMm84d0locGZnVVdFQTc0YWVhcU5iUDNhT2FHSmV3eXNDeTlxVGVBcExnWk5nS0FHZkR6NnpEUGtTM3dYbVg2NmFZUGR5QXp5NEF5T0ZpTHM3d0xWQm82dFlLR3BuSlk4MVhKQVQ4ZnBIdEFxdHZFWjhvcFU5bmFzbXZxODMwb2lLRW9acEJCQXlXdVlGV25RazR1eG1oTlVwR0xmRU9qbHZ6THgzMzB5aHo5aEJXV2dMZXhDMWVGaGQwS2RpVUZ2MlF2Nk43SEdDX3g2dm5RT21aSWZEMUVIR1hhUXI1QV9wTjNLWGFHVEk2WnN6UUpRUldkb1VKTEh6N25lRjVtM2RBQWNrLWpaYjlTZVVTbEJaaGN6V2ZuTmdseXRrREcyWE4tblI3VXMxajR1TVB2OXdIcktpRnFNOUQxdDdQT0NKUWpfREJJQ1l2X08wOExPcnpyV29MQ1BpNlJDVnRDaVJKbGhUQQ?oc=5"
         }
       ],
