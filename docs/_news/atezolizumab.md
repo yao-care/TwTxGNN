@@ -3,7 +3,7 @@ layout: default
 title: "Atezolizumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Atezolizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Atezolizumab 的相關健康新聞報導。原適應症：非小細胞肺癌、三陰性乳癌、小細胞肺癌、肝細胞癌、肺泡狀軟組織肉瘤。預測適應症 10 個。"
 permalink: /news/atezolizumab/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/atezolizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 非小細胞肺癌、三陰性乳癌、小細胞肺癌、肝細胞癌、肺泡狀軟組織肉瘤</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>prostatic urethra urothelial carcinoma (100.0%)</li>
 <li>kidney pelvis sarcomatoid transitional cell carcinoma (100.0%)</li>

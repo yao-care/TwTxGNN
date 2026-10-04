@@ -25,7 +25,7 @@ permalink: /news/alprostadil/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>aortic malformation (100.0%)</li>
 <li>congenital tricuspid stenosis (99.9%)</li>

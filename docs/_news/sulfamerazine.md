@@ -25,7 +25,7 @@ permalink: /news/sulfamerazine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 磺胺劑、革蘭氏陽性及陰性菌感染症</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
 <li>gout (99.3%)</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.2%)</li>

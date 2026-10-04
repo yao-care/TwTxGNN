@@ -25,7 +25,7 @@ permalink: /news/xylometazoline/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 感冒、鼻塞、過敏性鼻炎</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>nasal cavity disease (99.9%)</li>
 <li>acute laryngopharyngitis (99.9%)</li>

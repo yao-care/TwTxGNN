@@ -24,7 +24,7 @@ permalink: /news/lornoxicam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li class="indication-matched">rheumatoid arthritis (99.9%)<span class="indication-tag">📰 關節炎</span></li>
 <li>migraine with or without aura, susceptibility to (99.9%)</li>

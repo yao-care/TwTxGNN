@@ -3,7 +3,7 @@ layout: default
 title: "Benazepril 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Benazepril 的相關健康新聞報導。原適應症：。預測適應症 5 個。"
+description: "Benazepril 的相關健康新聞報導。原適應症：高血壓。預測適應症 5 個。"
 permalink: /news/benazepril/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/benazepril/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 高血壓</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（5 個）</strong>:<ul>
 <li>malignant renovascular hypertension (99.7%)</li>

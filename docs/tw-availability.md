@@ -30,13 +30,13 @@ permalink: /tw-availability/
 | [Acitretin](/drugs/acitretin/) | 已上市 |  | L3 |
 | [Acyclovir](/drugs/acyclovir/) | ✓ 已上市 |  | L4 |
 | [Alfacalcidol](/drugs/alfacalcidol/) | 已上市 |  | L3 |
-| [Alirocumab](/drugs/alirocumab/) | 已上市 |  | L5 |
-| [Allopurinol](/drugs/allopurinol/) | 已上市 |  | L5 |
+| [Alirocumab](/drugs/alirocumab/) | 已上市 |  | L3 |
+| [Allopurinol](/drugs/allopurinol/) | 已上市 |  | L3 |
 | [Alpelisib](/drugs/alpelisib/) | ✓ 已上市 |  | L4 |
 | [Alpha-Tocopherol Acetate](/drugs/alpha-tocopherol-acetate/) | ✓ 已上市 |  | L2 |
 | [Alpha-Tocopherol Succinate](/drugs/alpha-tocopherol-succinate/) | ✓ 已上市 |  | L5 |
-| [Alprostadil](/drugs/alprostadil/) | 已上市 |  | L5 |
-| [Aluminum Chloride](/drugs/aluminum-chloride/) | 已上市 |  | L5 |
+| [Alprostadil](/drugs/alprostadil/) | 已上市 |  | L1 |
+| [Aluminum Chloride](/drugs/aluminum-chloride/) | 已上市 |  | L3 |
 | [Aluminum Hydroxide](/drugs/aluminum-hydroxide/) | 有上市 |  | L3 |
 | [Aluminum Oxide](/drugs/aluminum-oxide/) | ✓ 已上市 |  | L4 |
 | [Amcinonide](/drugs/amcinonide/) | 有上市 |  | L3 |
@@ -47,22 +47,22 @@ permalink: /tw-availability/
 | [Ascorbyl Phosphate](/drugs/ascorbyl-phosphate/) | ✓ 已上市 |  | L5 |
 | [Asfotase Alfa](/drugs/asfotase-alfa/) | ✓ 已上市 |  | L5 |
 | [Aspirin](/drugs/aspirin/) | ✓ 已上市 |  | L5 |
-| [Atezolizumab](/drugs/atezolizumab/) | 已上市 |  | L5 |
+| [Atezolizumab](/drugs/atezolizumab/) | 已上市 |  | L2 |
 | [Atracurium Besylate](/drugs/atracurium-besylate/) | 已上市 |  | L5 |
 | [Avelumab](/drugs/avelumab/) | ✓ 已上市 |  | L5 |
 | [Axitinib](/drugs/axitinib/) | ✓ 已上市 |  | L3 |
-| [Belimumab](/drugs/belimumab/) | 已上市 |  | L5 |
-| [Bempedoic Acid](/drugs/bempedoic-acid/) | 已上市 |  | L5 |
+| [Belimumab](/drugs/belimumab/) | 已上市 |  | L3 |
+| [Bempedoic Acid](/drugs/bempedoic-acid/) | 已上市 |  | L3 |
 | [Benazepril](/drugs/benazepril/) | 已上市 |  | L5 |
-| [Benzylpenicillin](/drugs/benzylpenicillin/) | 已上市 |  | L5 |
+| [Benzylpenicillin](/drugs/benzylpenicillin/) | 已上市 |  | L3 |
 | [Berberine](/drugs/berberine/) | ✓ 已上市 |  | L5 |
 | [Betamethasone](/drugs/betamethasone/) | ✓ 已上市 |  | L1 |
 | [Bevacizumab](/drugs/bevacizumab/) | 已上市 |  | L5 |
-| [Brivaracetam](/drugs/brivaracetam/) | 已上市 |  | L5 |
+| [Brivaracetam](/drugs/brivaracetam/) | 已上市 |  | L3 |
 | [Brodalumab](/drugs/brodalumab/) | ✓ 已上市 |  | L4 |
-| [Buprenorphine](/drugs/buprenorphine/) | 已上市 |  | L5 |
+| [Buprenorphine](/drugs/buprenorphine/) | 已上市 |  | L4 |
 | [Busulfan](/drugs/busulfan/) | ✓ 已上市 |  | L1 |
-| [Butenafine](/drugs/butenafine/) | 已上市 |  | L5 |
+| [Butenafine](/drugs/butenafine/) | 已上市 |  | L3 |
 | [Cabazitaxel](/drugs/cabazitaxel/) | ✓ 已上市 |  | L2 |
 | [Camphor](/drugs/camphor/) | ✓ 已上市 |  | L4 |
 | [Caplacizumab](/drugs/caplacizumab/) | 已上市 |  | L5 |
@@ -81,14 +81,14 @@ permalink: /tw-availability/
 | [Cisatracurium](/drugs/cisatracurium/) | ✓ 已上市 |  | L4 |
 | [Cladribine](/drugs/cladribine/) | 見報告 | 瑪威克錠 10 毫克 (Mavenclad)、祿斯得停注射劑 (Leustatin) | L5 |
 | [Clobetasone](/drugs/clobetasone/) | ✓ 已上市 |  | L5 |
-| [Clomipramine](/drugs/clomipramine/) | 見報告 | 倍欣膜衣錠 25 公絲 等多種製劑 | L5 |
+| [Clomipramine](/drugs/clomipramine/) | 見報告 | 倍欣膜衣錠 25 公絲 等多種製劑 | L1 |
 | [Cobicistat](/drugs/cobicistat/) | 見報告 | 信澤力膜衣錠 (Symtuza)、捷扶康膜衣錠 (Genvoya)、普澤力膜衣錠 (Prezcobix) | L5 |
 | [Conjugated Estrogens](/drugs/conjugated-estrogens/) | ✓ 已上市 |  | L3 |
 | [Cortisone Acetate](/drugs/cortisone-acetate/) | ✓ 已上市 |  | L3 |
-| [Cromoglicic Acid](/drugs/cromoglicic-acid/) | ✗ 未上市 |  | L5 |
+| [Cromoglicic Acid](/drugs/cromoglicic-acid/) | ✓ 已上市 |  | L5 |
 | [Cyclandelate](/drugs/cyclandelate/) | ✓ 已上市 |  | L1 |
-| [Cyclizine](/drugs/cyclizine/) | 見報告 | 旅暈平錠、赫敏錠、止敏糖衣錠等 | L5 |
-| [Cytarabine](/drugs/cytarabine/) | 見報告 | 複方製劑中的成分，如 Midostaurin 併用方案 | L5 |
+| [Cyclizine](/drugs/cyclizine/) | 見報告 | 旅暈平錠、赫敏錠、止敏糖衣錠等 | L4 |
+| [Cytarabine](/drugs/cytarabine/) | 見報告 | 複方製劑中的成分，如 Midostaurin 併用方案 | L3 |
 | [Daptomycin](/drugs/daptomycin/) | ✓ 已上市 |  | L4 |
 | [Dehydrocholic Acid](/drugs/dehydrocholic-acid/) | 見報告 | 得利膽錠、派頓去氫膽酸錠 | L5 |
 | [Denosumab](/drugs/denosumab/) | 見報告 | 癌骨瓦 (XGEVA)、保骼麗 (Prolia) | L5 |
@@ -105,16 +105,16 @@ permalink: /tw-availability/
 | [Dronedarone](/drugs/dronedarone/) | 已上市 |  | L2 |
 | [Dupilumab](/drugs/dupilumab/) | 已上市 |  | L3 |
 | [Durvalumab](/drugs/durvalumab/) | 已上市 |  | L3 |
-| [Emedastine](/drugs/emedastine/) | 見報告 | 二反丁烯二酸依美斯汀、愛敏定點眼液、益美定眼藥水 | L5 |
+| [Emedastine](/drugs/emedastine/) | 見報告 | 二反丁烯二酸依美斯汀、愛敏定點眼液、益美定眼藥水 | L2 |
 | [Enfortumab Vedotin](/drugs/enfortumab-vedotin/) | ✓ 已上市 |  | L3 |
 | [Erdafitinib](/drugs/erdafitinib/) | ✓ 已上市 |  | L5 |
 | [Ergometrine](/drugs/ergometrine/) | ✓ 已上市 |  | L3 |
 | [Etanercept](/drugs/etanercept/) | 見報告 | 爾瑞易注射液 | L5 |
-| [Ethynodiol Diacetate](/drugs/ethynodiol-diacetate/) | 見報告 | 亞卡南爾非滅錠 | L5 |
+| [Ethynodiol Diacetate](/drugs/ethynodiol-diacetate/) | 見報告 | 亞卡南爾非滅錠 | L3 |
 | [Everolimus](/drugs/everolimus/) | ✓ 已上市 |  | L2 |
-| [Famotidine](/drugs/famotidine/) | 見報告 | 諾得舒胃福治潰膜衣錠 | L5 |
-| [Felodipine](/drugs/felodipine/) | 見報告 | 非洛地平 | L5 |
-| [Fenoprofen](/drugs/fenoprofen/) | 見報告 | 風諾保膠囊 | L5 |
+| [Famotidine](/drugs/famotidine/) | 見報告 | 諾得舒胃福治潰膜衣錠 | L2 |
+| [Felodipine](/drugs/felodipine/) | 見報告 | 非洛地平 | L4 |
+| [Fenoprofen](/drugs/fenoprofen/) | 見報告 | 風諾保膠囊 | L2 |
 | [Fenoterol](/drugs/fenoterol/) | 見報告 | 井田菲諾魯錠、永信喘祿錠 | L5 |
 | [Ferrous Gluconate](/drugs/ferrous-gluconate/) | 見報告 | 葡萄糖酸鐵糖衣錠、維他葡萄糖鐵糖衣錠、血命健糖衣片等 | L5 |
 | [Fidaxomicin](/drugs/fidaxomicin/) | ✓ 已上市 |  | L5 |
@@ -151,7 +151,7 @@ permalink: /tw-availability/
 | [Indacaterol](/drugs/indacaterol/) | ✓ 已上市 |  | L1 |
 | [Inositol](/drugs/inositol/) | 已上市(部分已註銷) |  | L3 |
 | [Insulin Lispro](/drugs/insulin-lispro/) | 已上市 |  | L5 |
-| [Interferon Beta-1B](/drugs/interferon-beta-1b/) | 已上市 |  | L3 |
+| [Interferon Beta-1B](/drugs/interferon-beta-1b/) | 曾上市，唯一許可證已於 2026-06-08 註銷 |  | L3 |
 | [Iodixanol](/drugs/iodixanol/) | 已上市 |  | L5 |
 | [Iohexol](/drugs/iohexol/) | ✓ 已上市 |  | L5 |
 | [Iopromide](/drugs/iopromide/) | ✓ 已上市 |  | L5 |
@@ -170,17 +170,17 @@ permalink: /tw-availability/
 | [Letrozole](/drugs/letrozole/) | ✓ 已上市 |  | L1 |
 | [Levamisole](/drugs/levamisole/) | ✓ 已上市 |  | L5 |
 | [Lidocaine](/drugs/lidocaine/) | ✓ 已上市 |  | L5 |
-| [Lornoxicam](/drugs/lornoxicam/) | 見報告 | 療紓疼速效膜衣錠 | L3 |
-| [Loteprednol Etabonate](/drugs/loteprednol-etabonate/) | 見報告 | 隆特明眼用懸浮液 0.5%、宜而明眼用懸浮液 0.2% | L5 |
-| [Lutetium Lu 177 Dotatate](/drugs/lutetium-lu-177-dotatate/) | ✗ 未上市 |  | L5 |
-| [Magnesium Sulfate](/drugs/magnesium-sulfate/) | 見報告 | 硫酸鎂、濟生硫酸鎂注射液等 | L5 |
-| [Mannitol](/drugs/mannitol/) | 見報告 | 信東美立妥、滿乃通、濟生邁尼妥等 | L5 |
+| [Lornoxicam](/drugs/lornoxicam/) | 見報告 | 療紓疼速效膜衣錠 | L2 |
+| [Loteprednol Etabonate](/drugs/loteprednol-etabonate/) | 見報告 | 隆特明眼用懸浮液 0.5%、宜而明眼用懸浮液 0.2% | L3 |
+| [Lutetium Lu 177 Dotatate](/drugs/lutetium-lu-177-dotatate/) | ✓ 已上市（衛部藥輸字第R00104號） |  | L5 |
+| [Magnesium Sulfate](/drugs/magnesium-sulfate/) | 見報告 | 硫酸鎂、濟生硫酸鎂注射液等 | L1 |
+| [Mannitol](/drugs/mannitol/) | 見報告 | 信東美立妥、滿乃通、濟生邁尼妥等 | L3 |
 | [Maraviroc](/drugs/maraviroc/) | ✓ 已上市 |  | L5 |
 | [Methionine](/drugs/methionine/) | ✓ 已上市 |  | L5 |
 | [Methocarbamol](/drugs/methocarbamol/) | 見報告 | 佳復筋片、達士邦錠、寶樂欣膜衣錠、肌樂弛錠、美卡欣錠 | L5 |
 | [Methylprednisolone](/drugs/methylprednisolone/) | ✓ 已上市 |  | L3 |
 | [Methylprednisone](/drugs/methylprednisone/) | ✓ 已上市 |  | L3 |
-| [Metoprolol](/drugs/metoprolol/) | 已上市 |  | L5 |
+| [Metoprolol](/drugs/metoprolol/) | 已上市 |  | L2 |
 | [Mexiletine](/drugs/mexiletine/) | ✓ 已上市 |  | L5 |
 | [Milrinone](/drugs/milrinone/) | 見報告 | 米力心注射劑0.2毫克/毫升 | L3 |
 | [Minoxidil](/drugs/minoxidil/) | ✓ 已上市 |  | L4 |
@@ -189,7 +189,7 @@ permalink: /tw-availability/
 | [Naftifine](/drugs/naftifine/) | 已上市 |  | L1 |
 | [Naphazoline](/drugs/naphazoline/) | 見報告 | 噴速點鼻液、各類眼藥水 | L5 |
 | [Naproxen](/drugs/naproxen/) | 已上市 |  | L5 |
-| [Nebivolol](/drugs/nebivolol/) | 見報告 | 舒爾脈錠、耐比洛錠、欣倍泰錠 | L5 |
+| [Nebivolol](/drugs/nebivolol/) | 見報告 | 舒爾脈錠、耐比洛錠、欣倍泰錠 | L3 |
 | [Nefopam](/drugs/nefopam/) | ✓ 已上市 |  | L5 |
 | [Nepafenac](/drugs/nepafenac/) | 見報告 | 納衛視點眼懸液劑 0.1% | L1 |
 | [Niraparib](/drugs/niraparib/) | ✓ 已上市 |  | L5 |
@@ -200,32 +200,32 @@ permalink: /tw-availability/
 | [Nystatin](/drugs/nystatin/) | ✓ 已上市 |  | L4 |
 | [Omalizumab](/drugs/omalizumab/) | 已上市 |  | L2 |
 | [Oteracil](/drugs/oteracil/) | ✓ 已上市 |  | L2 |
-| [Ouabain](/drugs/ouabain/) | 見報告 | 安保心注射液 | L5 |
+| [Ouabain](/drugs/ouabain/) | 見報告 | 安保心注射液 | L4 |
 | [Oxybutynin](/drugs/oxybutynin/) | 見報告 | 達多幫錠、安薄汗擦劑、歐保尿克貼布等 | L5 |
-| [Oxytetracycline](/drugs/oxytetracycline/) | 見報告 | 鹽酸羥四環素膠囊等 | L5 |
-| [Paclitaxel](/drugs/paclitaxel/) | 見報告 | 曲斯若凍晶注射劑、汰癌勝注射劑等 | L5 |
+| [Oxytetracycline](/drugs/oxytetracycline/) | 見報告 | 鹽酸羥四環素膠囊等 | L2 |
+| [Paclitaxel](/drugs/paclitaxel/) | 見報告 | 曲斯若凍晶注射劑、汰癌勝注射劑等 | L1 |
 | [Palbociclib](/drugs/palbociclib/) | ✓ 已上市 |  | L5 |
 | [Pancrelipase](/drugs/pancrelipase/) | ✓ 已上市 |  | L5 |
-| [Pemetrexed](/drugs/pemetrexed/) | 見報告 | 愛寧達注射劑 (Alimta)、各廠學名藥 | L5 |
+| [Pemetrexed](/drugs/pemetrexed/) | 見報告 | 愛寧達注射劑 (Alimta)、各廠學名藥 | L1 |
 | [Pemigatinib](/drugs/pemigatinib/) | ✓ 已上市 |  | L5 |
 | [Penciclovir](/drugs/penciclovir/) | ✓ 已上市 |  | L5 |
 | [Pentosan Polysulfate](/drugs/pentosan-polysulfate/) | 見報告 | 愛泌羅膠囊、優而順膠囊、舒泌解膠囊 | L5 |
 | [Pentoxifylline](/drugs/pentoxifylline/) | 見報告 |  | L5 |
 | [Peppermint Oil](/drugs/peppermint-oil/) | ✓ 已上市 |  | L3 |
-| [Pexidartinib](/drugs/pexidartinib/) | ✓ 已上市 |  | L3 |
+| [Pexidartinib](/drugs/pexidartinib/) | 曾核准上市（唯一許可證已於 2026-02-03 註銷） |  | L3 |
 | [Pimozide](/drugs/pimozide/) | 見報告 |  | L3 |
 | [Pipemidic Acid](/drugs/pipemidic-acid/) | 見報告 |  | L5 |
 | [Pitavastatin](/drugs/pitavastatin/) | 見報告 |  | L3 |
 | [Pitolisant](/drugs/pitolisant/) | 見報告 |  | L3 |
 | [Polyethylene Glycol](/drugs/polyethylene-glycol/) | 見報告 |  | L5 |
 | [Polyethylene Glycol 400](/drugs/polyethylene-glycol-400/) | 見報告 | 視舒坦人工淚液、腹樂疏口服懸液用粉劑 | L5 |
-| [Polymyxin B](/drugs/polymyxin-b/) | 見報告 | 地靈黴素眼藥膏等多種眼用製劑 | L5 |
+| [Polymyxin B](/drugs/polymyxin-b/) | 見報告 | 地靈黴素眼藥膏等多種眼用製劑 | L3 |
 | [Polysorbate 80](/drugs/polysorbate-80/) | 見報告 | 優麗舒加強型眼用乳劑等 | L5 |
-| [Potassium Iodide](/drugs/potassium-iodide/) | 見報告 | 碘化鉀、濃碘酊、碘楊酸外用液劑 | L5 |
+| [Potassium Iodide](/drugs/potassium-iodide/) | 見報告 | 碘化鉀、濃碘酊、碘楊酸外用液劑 | L3 |
 | [Povidone](/drugs/povidone/) | 見報告 | 必達定系列、普維酮-碘 | L5 |
 | [Pralatrexate](/drugs/pralatrexate/) | ✓ 已上市 |  | L4 |
 | [Prasugrel](/drugs/prasugrel/) | ✓ 已上市 |  | L4 |
-| [Pravastatin](/drugs/pravastatin/) | 見報告 | 帕瓦斯德定鈉鹽、Mevalotin等 | L5 |
+| [Pravastatin](/drugs/pravastatin/) | 見報告 | 帕瓦斯德定鈉鹽、Mevalotin等 | L2 |
 | [Prednisolone](/drugs/prednisolone/) | ✓ 已上市 |  | L3 |
 | [Prednisolone Acetate](/drugs/prednisolone-acetate/) | 已上市 |  | L4 |
 | [Prednisone](/drugs/prednisone/) | 已上市 |  | L2 |
@@ -253,19 +253,19 @@ permalink: /tw-availability/
 | [Silicon Dioxide](/drugs/silicon-dioxide/) | 已上市 |  | L4 |
 | [Simoctocog Alfa](/drugs/simoctocog-alfa/) | 已上市 |  | L5 |
 | [Sodium Acetate](/drugs/sodium-acetate/) | ✓ 已上市 |  | L5 |
-| [Sodium Carbonate](/drugs/sodium-carbonate/) | 有效許可證存在 |  | L5 |
-| [Sodium Citrate](/drugs/sodium-citrate/) | 有效許可證存在 |  | L5 |
+| [Sodium Carbonate](/drugs/sodium-carbonate/) | 有效許可證存在 |  | L4 |
+| [Sodium Citrate](/drugs/sodium-citrate/) | 有效許可證存在 |  | L3 |
 | [Sotatercept](/drugs/sotatercept/) | ✓ 已上市 |  | L5 |
-| [Sulfamerazine](/drugs/sulfamerazine/) | 所有許可證已註銷 |  | L5 |
-| [Sulfamethazine](/drugs/sulfamethazine/) | 所有許可證已註銷 |  | L5 |
+| [Sulfamerazine](/drugs/sulfamerazine/) | 所有許可證已註銷 |  | L4 |
+| [Sulfamethazine](/drugs/sulfamethazine/) | 所有許可證已註銷 |  | L4 |
 | [Tazarotene](/drugs/tazarotene/) | 已上市 |  | L5 |
 | [Temozolomide](/drugs/temozolomide/) | 已上市 |  | L1 |
-| [Tenofovir Alafenamide](/drugs/tenofovir-alafenamide/) | 見報告 | 韋立得膜衣錠、達可揮膜衣錠、必克達膜衣錠等 | L2 |
-| [Terbutaline](/drugs/terbutaline/) | 見報告 | 喘克注射液、特必林錠、布乃可錠等 | L1 |
+| [Tenofovir Alafenamide](/drugs/tenofovir-alafenamide/) | 見報告 | 韋立得膜衣錠、達可揮膜衣錠、吉他韋膜衣錠等 | L2 |
+| [Terbutaline](/drugs/terbutaline/) | 見報告 | 喘克注射液、喘利錠、鎮喘錠等 | L1 |
 | [Teriparatide](/drugs/teriparatide/) | 見報告 | 骨穩注射液、艾歐骨得注射液、福穩骨注射液等 | L2 |
 | [Tetrabenazine](/drugs/tetrabenazine/) | 見報告 | 止蹈錠 12.5 毫克、止蹈錠 25 毫克（Xenazine） | L5 |
 | [Tetryzoline](/drugs/tetryzoline/) | 已上市 |  | L4 |
-| [Theophylline](/drugs/theophylline/) | 見報告 | 小兒治喘糖漿、氣舒錠、泰乙乳甘液等 | L2 |
+| [Theophylline](/drugs/theophylline/) | 見報告 | 優汝喘持續性藥效錠、息喘寧緩釋錠、適優喘液等 | L2 |
 | [Thiamine](/drugs/thiamine/) | 見報告 | 強維命Ｇ糖衣錠、維他命Ｂ1錠等（眾多） | L2 |
 | [Threonine](/drugs/threonine/) | 已上市 |  | L5 |
 | [Thyrotropin Alfa](/drugs/thyrotropin-alfa/) | ✓ 已上市 |  | L5 |
@@ -277,14 +277,14 @@ permalink: /tw-availability/
 | [Tizanidine](/drugs/tizanidine/) | 見報告 |  | L5 |
 | [Tofacitinib](/drugs/tofacitinib/) | 見報告 |  | L5 |
 | [Tolmetin](/drugs/tolmetin/) | 見報告 |  | L5 |
-| [Tolvaptan](/drugs/tolvaptan/) | ✓ 已上市 |  | L5 |
+| [Tolvaptan](/drugs/tolvaptan/) | ✓ 已上市 |  | L1 |
 | [Trabectedin](/drugs/trabectedin/) | 已上市 |  | L5 |
 | [Tranexamic Acid](/drugs/tranexamic-acid/) | 已上市 |  | L5 |
 | [Trastuzumab Deruxtecan](/drugs/trastuzumab-deruxtecan/) | 已上市 |  | L5 |
 | [Travoprost](/drugs/travoprost/) | ✓ 已上市 |  | L5 |
-| [Treprostinil](/drugs/treprostinil/) | 已上市 |  | L5 |
+| [Treprostinil](/drugs/treprostinil/) | 已上市 |  | L2 |
 | [Triamcinolone](/drugs/triamcinolone/) | ✓ 已上市 |  | L4 |
-| [Trifluoperazine](/drugs/trifluoperazine/) | 已上市 |  | L5 |
+| [Trifluoperazine](/drugs/trifluoperazine/) | 已上市 |  | L3 |
 | [Trihexyphenidyl](/drugs/trihexyphenidyl/) | 見報告 |  | L5 |
 | [Tyrosine](/drugs/tyrosine/) | 見報告 |  | L5 |
 | [Uracil](/drugs/uracil/) | ✓ 已上市 |  | L1 |
@@ -298,11 +298,11 @@ permalink: /tw-availability/
 | [Vonoprazan](/drugs/vonoprazan/) | 已上市 |  | L2 |
 | [Voriconazole](/drugs/voriconazole/) | 已上市 |  | L5 |
 | [Warfarin](/drugs/warfarin/) | ✓ 已上市 |  | L5 |
-| [Warfarin Af](/drugs/warfarin-af/) | 已上市 |  | L5 |
-| [Warfarin Atrial Fibrillation](/drugs/warfarin-atrial-fibrillation/) | 已上市 |  | L5 |
-| [Xylitol](/drugs/xylitol/) | 僅 1 張有效許可證 |  | L5 |
-| [Xylometazoline](/drugs/xylometazoline/) | 已上市 |  | L5 |
-| [Zanubrutinib](/drugs/zanubrutinib/) | 已上市 |  | L5 |
+| [Warfarin Af](/drugs/warfarin-af/) | 已上市 |  | L1 |
+| [Warfarin Atrial Fibrillation](/drugs/warfarin-atrial-fibrillation/) | 已上市 |  | L1 |
+| [Xylitol](/drugs/xylitol/) | 有效許可證（xylitol 單方注射液 6 張、含 xylitol 複方輸注液 7 張） |  | L5 |
+| [Xylometazoline](/drugs/xylometazoline/) | 已上市 |  | L3 |
+| [Zanubrutinib](/drugs/zanubrutinib/) | 已上市 |  | L2 |
 | [Zonisamide](/drugs/zonisamide/) | ✓ 已上市 |  | L5 |
 
 ---

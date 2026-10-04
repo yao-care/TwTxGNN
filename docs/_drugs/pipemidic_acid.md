@@ -68,6 +68,7 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 **證據等級：L5 (僅預測)**
 
 僅發現 1 篇間接相關文獻：
+
 | PMID | 標題 | 年份 | 內容 |
 |------|------|------|------|
 | 372558 | Use of pipemidic acid in renal insufficiency and hemodialysis | 1978 | 討論 Pipemidic acid 在腎功能不全患者的使用，與心臟病無直接關聯 |

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Alprostadil
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 21
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Alprostadil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -140,6 +140,18 @@ TxGNN 對 alprostadil 的預測與其實際臨床應用高度一致。主動脈�
 - 需要心房間血液混合的病變（大動脈轉位）
 
 **不需要額外驗證**：這些適應症已有充分的臨床證據支持。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

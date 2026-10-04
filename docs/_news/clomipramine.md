@@ -24,7 +24,7 @@ permalink: /news/clomipramine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>anxiety disorder (99.9%)</li>
 <li>benign paroxysmal torticollis of infancy (99.9%)</li>

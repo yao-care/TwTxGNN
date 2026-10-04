@@ -118,17 +118,20 @@ redirect_from:
 .drug-card.low .drug-card-badge { background: #F5F5F5; color: #757575; }
 </style>
 
+{% comment %}分布數字由 docs/_data/drug_stats.json 計算（scripts/generate_drug_stats.py），不要手寫。{% endcomment %}
+{% assign lc = site.data.drug_stats.level_counts %}{% assign tot = site.data.drug_stats.total_drugs %}{% assign nh = lc.L1 | plus: lc.L2 %}{% assign nm = lc.L3 | plus: lc.L4 %}{% assign nl = lc.L5 %}
+{% assign ph = nh | times: 100.0 | divided_by: tot | round: 1 %}{% assign pm = nm | times: 100.0 | divided_by: tot | round: 1 %}{% assign pl = nl | times: 100.0 | divided_by: tot | round: 1 %}
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 14.0%;" title="高證據等級：39 個藥物">39</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 25.8%;" title="中證據等級：72 個藥物">72</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 60.2%;" title="僅模型預測：168 個藥物">168</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: {{ ph }}%;" title="高證據等級：{{ nh }} 個藥物">{{ nh }}</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: {{ pm }}%;" title="中證據等級：{{ nm }} 個藥物">{{ nm }}</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: {{ pl }}%;" title="僅模型預測：{{ nl }} 個藥物">{{ nl }}</a>
   </div>
 
   <div class="drug-cards">
     <a href="{{ '/evidence-high' | relative_url }}" class="drug-card high">
       <div class="drug-card-icon">
-        <span class="drug-card-count">39</span>
+        <span class="drug-card-count">{{ nh }}</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">高證據等級</div>
@@ -139,7 +142,7 @@ redirect_from:
 
     <a href="{{ '/evidence-medium' | relative_url }}" class="drug-card medium">
       <div class="drug-card-icon">
-        <span class="drug-card-count">72</span>
+        <span class="drug-card-count">{{ nm }}</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">中證據等級</div>
@@ -150,7 +153,7 @@ redirect_from:
 
     <a href="{{ '/evidence-low' | relative_url }}" class="drug-card low">
       <div class="drug-card-icon">
-        <span class="drug-card-count">168</span>
+        <span class="drug-card-count">{{ nl }}</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">僅模型預測</div>

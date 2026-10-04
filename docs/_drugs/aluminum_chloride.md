@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Aluminum Chloride
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 22
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Aluminum Chloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -149,6 +149,7 @@ TxGNN 預測的新適應症（脂漏性角化症、脂漏性皮膚炎）缺乏�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「牙齦止血液」「牙齦收縮止血劑」「純露糖漿」三列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Xylometazoline
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 287
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 ---
 
 # Xylometazoline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+證據等級: **L3** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -139,6 +139,18 @@ Xylometazoline 在鼻腔疾病中的應用與其原適應症高度相關，機�
 - 對於急性咽喉炎適應症，需要額外的臨床證據
 - 針對特定鼻腔疾病亞型的療效評估
 - 長期使用安全性監測
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

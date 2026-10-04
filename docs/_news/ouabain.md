@@ -25,7 +25,7 @@ permalink: /news/ouabain/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>

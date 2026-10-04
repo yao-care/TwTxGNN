@@ -289,12 +289,44 @@ def _prune_search_index():
     print(f"  Pruned search index: {before} -> {len(idx['drugs'])} drugs")
 
 
+def _sync_levels_from_pages():
+    """藥物層的 level 以藥物頁頁首（front matter evidence_level）為準（2026-10-04 補）。
+
+    頁首等級由產線依「快速總覽」證據等級列確定性重算（src/twtxgnn/regulatory/page_format.py），
+    是全站顯示的等級；bundle 算的是各適應症自己的等級，留在 indications[].level 不動。
+    沒有 bundle 也能單獨跑：python3 scripts/generate_search_index.py --levels-from-pages
+    """
+    import json as _json
+    import re as _re
+    from pathlib import Path as _Path
+
+    idx_path = _Path("docs/data/search-index.json")
+    drugs_dir = _Path("docs/_drugs")
+    if not idx_path.exists():
+        return
+    idx = _json.loads(idx_path.read_text(encoding="utf-8"))
+    changed = 0
+    for d in idx.get("drugs", []):
+        page = drugs_dir / f"{d.get('slug')}.md"
+        if not page.exists():
+            continue
+        m = _re.search(r"^evidence_level:[ \t]*(L[1-5])", page.read_text(encoding="utf-8")[:2000], _re.M)
+        if m and d.get("level") != m.group(1):
+            d["level"] = m.group(1)
+            changed += 1
+    idx_path.write_text(_json.dumps(idx, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  Synced drug levels from pages: {changed} changed")
+
+
 _main_before_prune = main
 
 
 def main():
-    _main_before_prune()
-    _prune_search_index()
+    import sys as _sys
+    if "--levels-from-pages" not in _sys.argv:
+        _main_before_prune()
+        _prune_search_index()
+    _sync_levels_from_pages()
 
 
 if __name__ == "__main__":

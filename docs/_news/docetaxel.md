@@ -3,7 +3,7 @@ layout: default
 title: "Docetaxel 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Docetaxel 的相關健康新聞報導。原適應症：HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌。預測適應症 10 個。"
+description: "Docetaxel 的相關健康新聞報導。原適應症：乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌。預測適應症 10 個。"
 permalink: /news/docetaxel/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/docetaxel/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌</li>
+<li><strong>原適應症</strong>: 乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>female breast carcinoma (99.9%)</li>

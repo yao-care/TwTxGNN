@@ -24,7 +24,7 @@ permalink: /news/felodipine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>

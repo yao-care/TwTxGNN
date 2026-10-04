@@ -19,11 +19,11 @@ redirect_from:
 
 | 證據等級 | 藥物數 | 說明 |
 |---------|--------|------|
-| **L1** | 15 | 多個 RCT / 系統性回顧 |
-| **L2** | 17 | 單一 RCT / Phase 2 試驗 |
-| **L3** | 34 | 觀察性研究 / 大型病例系列 |
-| **L4** | 34 | 前臨床 / 機轉研究 |
-| **L5** | 179 | 僅模型預測 |
+| **L1** | {{ site.data.drug_stats.level_counts.L1 }} | 多個 RCT / 系統性回顧 |
+| **L2** | {{ site.data.drug_stats.level_counts.L2 }} | 單一 RCT / Phase 2 試驗 |
+| **L3** | {{ site.data.drug_stats.level_counts.L3 }} | 觀察性研究 / 大型病例系列 |
+| **L4** | {{ site.data.drug_stats.level_counts.L4 }} | 前臨床 / 機轉研究 |
+| **L5** | {{ site.data.drug_stats.level_counts.L5 }} | 僅模型預測 |
 
 ---
 

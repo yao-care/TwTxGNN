@@ -25,7 +25,7 @@ permalink: /news/alirocumab/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>ichthyosis, X-linked, without steroid sulfatase deficiency (99.4%)</li>
 <li>disorder of other vitamins and cofactors metabolism and transport (99.4%)</li>

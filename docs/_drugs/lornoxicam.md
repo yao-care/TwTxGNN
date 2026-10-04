@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lornoxicam
-parent: 中證據等級 (L3-L4)
+parent: 高證據等級 (L1-L2)
 nav_order: 156
-evidence_level: L3
+evidence_level: L2
 indication_count: 10
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -247,6 +247,7 @@ Lornoxicam 為 oxicam 類 NSAID 止痛消炎藥，TxGNN 預測其可用於類風
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 半衰期寫 3-5 小時 | 更正 | [HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L3→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

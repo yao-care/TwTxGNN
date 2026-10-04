@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxyurea 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Hydroxyurea 的相關健康新聞報導。原適應症：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌。預測適應症 10 個。"
+description: "Hydroxyurea 的相關健康新聞報導。原適應症：慢性骨髓性白血病、復發／轉移或不可開刀之卵巢癌、併用放射治療之頭頸部鱗狀細胞癌局部控制。預測適應症 10 個。"
 permalink: /news/hydroxyurea/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/hydroxyurea/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌</li>
+<li><strong>原適應症</strong>: 慢性骨髓性白血病、復發／轉移或不可開刀之卵巢癌、併用放射治療之頭頸部鱗狀細胞癌局部控制</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>female breast carcinoma (100.0%)</li>

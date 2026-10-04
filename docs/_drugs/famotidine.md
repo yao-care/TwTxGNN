@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Famotidine
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 98
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Famotidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -186,6 +186,7 @@ Famotidine 可安全用於：
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表三列字號與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

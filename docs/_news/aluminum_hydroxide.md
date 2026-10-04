@@ -3,7 +3,7 @@ layout: default
 title: "Aluminum hydroxide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Aluminum hydroxide 的相關健康新聞報導。原適應症：胃酸過多、胃炎、胃及十二指腸潰瘍。預測適應症 4 個。"
+description: "Aluminum hydroxide 的相關健康新聞報導。原適應症：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第0017...。預測適應症 4 個。"
 permalink: /news/aluminum_hydroxide/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/aluminum_hydroxide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 胃酸過多、胃炎、胃及十二指腸潰瘍</li>
+<li><strong>原適應症</strong>: 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第001706號等）；制酸劑（原料藥）</li>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
 <li>active peptic ulcer disease (99.6%)</li>

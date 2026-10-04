@@ -1,5 +1,5 @@
 {
- "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級或撤回時更新，原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。",
+ "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。header_level（2026-10-04 起）記錄頁首等級依快速總覽重算後的變動：original_level／new_level／original_parent／new_parent，只列在查核紀錄表。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級或撤回時更新，原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。",
  "schema_version": 2,
  "records": [
   {
@@ -8747,6 +8747,995 @@
      "label": "結論「證據等級總結」閉經列",
      "claim": "| 閉經 | 0.9942 | 無 | 無 | 極低 | 不推薦 |",
      "replacement": "| 閉經 | 0.9942 | 無 | 無 | 極低 | 撤回（2026-10-03 重審） |"
+    }
+   ]
+  },
+  {
+   "id": "alirocumab-header-level-2026-10-04",
+   "drug": "alirocumab",
+   "file": "alirocumab.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3（有文獻支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3（有文獻支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "allopurinol-header-level-2026-10-04",
+   "drug": "allopurinol",
+   "file": "allopurinol.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3（有文獻支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3（有文獻支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "alprostadil-header-level-2026-10-04",
+   "drug": "alprostadil",
+   "file": "alprostadil.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L1-L2（臨床試驗及大量文獻支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L1-L2（臨床試驗及大量文獻支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "aluminum-chloride-header-level-2026-10-04",
+   "drug": "aluminum_chloride",
+   "file": "aluminum_chloride.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3-L4（有文獻支持，多汗症治療）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3-L4（有文獻支持，多汗症治療）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "atezolizumab-header-level-2026-10-04",
+   "drug": "atezolizumab",
+   "file": "atezolizumab.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (Phase 1/2 臨床試驗進行中)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (Phase 1/2 臨床試驗進行中)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "belimumab-header-level-2026-10-04",
+   "drug": "belimumab",
+   "file": "belimumab.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (間接臨床試驗證據)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (間接臨床試驗證據)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "bempedoic-acid-header-level-2026-10-04",
+   "drug": "bempedoic_acid",
+   "file": "bempedoic_acid.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (多篇文獻支持，真實世界數據)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (多篇文獻支持，真實世界數據)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "benzylpenicillin-header-level-2026-10-04",
+   "drug": "benzylpenicillin",
+   "file": "benzylpenicillin.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (多篇觀察性研究和回顧性文獻)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (多篇觀察性研究和回顧性文獻)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "brivaracetam-header-level-2026-10-04",
+   "drug": "brivaracetam",
+   "file": "brivaracetam.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (觀察性研究/光敏感性研究)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (觀察性研究/光敏感性研究)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "buprenorphine-header-level-2026-10-04",
+   "drug": "buprenorphine",
+   "file": "buprenorphine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L4",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L4 (個案報告/麻醉管理經驗)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L4 (個案報告/麻醉管理經驗)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "butenafine-header-level-2026-10-04",
+   "drug": "butenafine",
+   "file": "butenafine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (文獻回顧支持)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (文獻回顧支持)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "clomipramine-header-level-2026-10-04",
+   "drug": "clomipramine",
+   "file": "clomipramine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L1-L2 (多個 RCT/系統性回顧)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L1-L2 (多個 RCT/系統性回顧)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "cyclizine-header-level-2026-10-04",
+   "drug": "cyclizine",
+   "file": "cyclizine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L4",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5（2026-10-03 重審降級）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5（2026-10-03 重審降級）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "cytarabine-header-level-2026-10-04",
+   "drug": "cytarabine",
+   "file": "cytarabine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (歷史臨床研究，非現代標準)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (歷史臨床研究，非現代標準)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "emedastine-header-level-2026-10-04",
+   "drug": "emedastine",
+   "file": "emedastine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (有 RCT 證據)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (有 RCT 證據)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ethynodiol-diacetate-header-level-2026-10-04",
+   "drug": "ethynodiol_diacetate",
+   "file": "ethynodiol_diacetate.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (觀察性研究)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (觀察性研究)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "famotidine-header-level-2026-10-04",
+   "drug": "famotidine",
+   "file": "famotidine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (單一 RCT/多個 Phase 2)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (單一 RCT/多個 Phase 2)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "felodipine-header-level-2026-10-04",
+   "drug": "felodipine",
+   "file": "felodipine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L4",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L4 (前臨床) 至 L5 (僅預測)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L4 (前臨床) 至 L5 (僅預測)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "fenoprofen-header-level-2026-10-04",
+   "drug": "fenoprofen",
+   "file": "fenoprofen.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (僵直性脊椎炎有多個臨床試驗)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (僵直性脊椎炎有多個臨床試驗)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "lornoxicam-header-level-2026-10-04",
+   "drug": "lornoxicam",
+   "file": "lornoxicam.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L3",
+   "new_level": "L2",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L3",
+   "basis": "快速總覽「證據等級」列：**L2** (偏頭痛 - Phase 2 臨床試驗)、**L3** (類風濕性關節炎 - 多篇文獻)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：**L2** (偏頭痛 - Phase 2 臨床試驗)、**L3** (類風濕性關節炎 - 多篇文獻)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "loteprednol-etabonate-header-level-2026-10-04",
+   "drug": "loteprednol_etabonate",
+   "file": "loteprednol_etabonate.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：**L3** (慢性濾泡性結膜炎、偽膜性結膜炎 - 有文獻)、**L5** (其他 - 僅預測)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：**L3** (慢性濾泡性結膜炎、偽膜性結膜炎 - 有文獻)、**L5** (其他 - 僅預測)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "magnesium-sulfate-header-level-2026-10-04",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：**L1** (多個 RCT 及 Phase 3/4 臨床試驗)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：**L1** (多個 RCT 及 Phase 3/4 臨床試驗)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "mannitol-header-level-2026-10-04",
+   "drug": "mannitol",
+   "file": "mannitol.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：**L3** (低血鉀週期性麻痺)、**L5** (其他 - 僅預測或文獻薄弱)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：**L3** (低血鉀週期性麻痺)、**L5** (其他 - 僅預測或文獻薄弱)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "metoprolol-header-level-2026-10-04",
+   "drug": "metoprolol",
+   "file": "metoprolol.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (慢性肺心病), L5 (惡性高血壓腎病變)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (慢性肺心病), L5 (惡性高血壓腎病變)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "nebivolol-header-level-2026-10-04",
+   "drug": "nebivolol",
+   "file": "nebivolol.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L5（僅預測）至 L3（文獻支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L5（僅預測）至 L3（文獻支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "ouabain-header-level-2026-10-04",
+   "drug": "ouabain",
+   "file": "ouabain.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L4",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L4 (前臨床研究)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L4 (前臨床研究)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "oxytetracycline-header-level-2026-10-04",
+   "drug": "oxytetracycline",
+   "file": "oxytetracycline.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (單一 RCT / 多個臨床研究)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (單一 RCT / 多個臨床研究)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "paclitaxel-header-level-2026-10-04",
+   "drug": "paclitaxel",
+   "file": "paclitaxel.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L1 (多個 RCT)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L1 (多個 RCT)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "pemetrexed-header-level-2026-10-04",
+   "drug": "pemetrexed",
+   "file": "pemetrexed.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L1 (多個 RCT)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L1 (多個 RCT)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "polymyxin-b-header-level-2026-10-04",
+   "drug": "polymyxin_b",
+   "file": "polymyxin_b.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (觀察性研究)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (觀察性研究)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "potassium-iodide-header-level-2026-10-04",
+   "drug": "potassium_iodide",
+   "file": "potassium_iodide.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (病例報告)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (病例報告)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "pravastatin-header-level-2026-10-04",
+   "drug": "pravastatin",
+   "file": "pravastatin.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (系統性回顧支持)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (系統性回顧支持)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "sodium-carbonate-header-level-2026-10-04",
+   "drug": "sodium_carbonate",
+   "file": "sodium_carbonate.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L4",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L4（有 PubMed 文獻支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L4（有 PubMed 文獻支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "sodium-citrate-header-level-2026-10-04",
+   "drug": "sodium_citrate",
+   "file": "sodium_citrate.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3（有多篇 PubMed 文獻及臨床試驗）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3（有多篇 PubMed 文獻及臨床試驗）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "sulfamerazine-header-level-2026-10-04",
+   "drug": "sulfamerazine",
+   "file": "sulfamerazine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L4",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L4（有歷史 PubMed 文獻）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L4（有歷史 PubMed 文獻）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "sulfamethazine-header-level-2026-10-04",
+   "drug": "sulfamethazine",
+   "file": "sulfamethazine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L4",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L4（有 PubMed 文獻支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L4（有 PubMed 文獻支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "tolvaptan-header-level-2026-10-04",
+   "drug": "tolvaptan",
+   "file": "tolvaptan.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L1（2 篇已完成 Phase 3 RCT，適用於 ADPKD 上位診斷）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L1（2 篇已完成 Phase 3 RCT，適用於 ADPKD 上位診斷）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "treprostinil-header-level-2026-10-04",
+   "drug": "treprostinil",
+   "file": "treprostinil.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (結締組織疾病相關 PAH)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (結締組織疾病相關 PAH)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "trifluoperazine-header-level-2026-10-04",
+   "drug": "trifluoperazine",
+   "file": "trifluoperazine.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (有間接文獻證據)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (有間接文獻證據)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "warfarin-af-header-level-2026-10-04",
+   "drug": "warfarin_af",
+   "file": "warfarin_af.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L1（多個 RCT 支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L1（多個 RCT 支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "warfarin-atrial-fibrillation-header-level-2026-10-04",
+   "drug": "warfarin_atrial_fibrillation",
+   "file": "warfarin_atrial_fibrillation.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L1",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L1（多個 RCT 支持）",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L1（多個 RCT 支持）",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "xylometazoline-header-level-2026-10-04",
+   "drug": "xylometazoline",
+   "file": "xylometazoline.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L3 (有文獻支持)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L3 (有文獻支持)",
+     "accessed": "2026-10-04"
+    }
+   ]
+  },
+  {
+   "id": "zanubrutinib-header-level-2026-10-04",
+   "drug": "zanubrutinib",
+   "file": "zanubrutinib.md",
+   "checked": "2026-10-04",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：L2 (有臨床試驗支持)",
+   "note": "頁首等級（front matter evidence_level、parent、頁首「證據等級」列）依本頁快速總覽「證據等級」列重算：列內有多個等級取最高。舊解析式只認純值儲存格，帶說明文字就落到預設 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L2 (有臨床試驗支持)",
+     "accessed": "2026-10-04"
     }
    ]
   }

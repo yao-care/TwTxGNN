@@ -3,7 +3,7 @@ layout: default
 title: "Belimumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Belimumab 的相關健康新聞報導。原適應症：。預測適應症 6 個。"
+description: "Belimumab 的相關健康新聞報導。原適應症：全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎。預測適應症 6 個。"
 permalink: /news/belimumab/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/belimumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>primary release disorder of platelets (100.0%)</li>
 <li>pseudo-von Willebrand disease (100.0%)</li>

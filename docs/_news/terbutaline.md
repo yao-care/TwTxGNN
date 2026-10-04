@@ -24,7 +24,7 @@ permalink: /news/terbutaline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>obstructive lung disease (100.0%)</li>
 <li>respiratory malformation (99.5%)</li>

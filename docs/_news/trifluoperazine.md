@@ -25,7 +25,7 @@ permalink: /news/trifluoperazine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>manic bipolar affective disorder (99.5%)</li>
 </ul></li>

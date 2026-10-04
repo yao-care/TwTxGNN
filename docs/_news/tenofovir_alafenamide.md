@@ -24,7 +24,7 @@ permalink: /news/tenofovir_alafenamide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
 <li>長效 TAF 奈米製劑在恆河猴的藥理學評估 (2022.0%)</li>
 <li>長效 TAF 注射劑在猴模型的預防效果 (2021.0%)</li>

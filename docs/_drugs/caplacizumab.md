@@ -35,6 +35,7 @@ indication_count: 10
 Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗von Willebrand因子奈米抗體，TxGNN 預測其可能對血小板原發釋放障礙(primary release disorder of platelets)有治療潛力。
 
 ## 快速總覽
+
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用 |
@@ -123,6 +124,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 - 需監測出血徵象
 
 ### 藥物交互作用(主要)
+
 | 交互作用藥物 | 嚴重程度 |
 |-------------|---------|
 | 阿斯匹靈 | 重度 |

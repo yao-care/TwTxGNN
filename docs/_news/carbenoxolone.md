@@ -3,7 +3,7 @@ layout: default
 title: "Carbenoxolone 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Carbenoxolone 的相關健康新聞報導。原適應症：。預測適應症 7 個。"
+description: "Carbenoxolone 的相關健康新聞報導。原適應症：胃潰瘍、十二指腸潰瘍、口內炎性潰瘍。預測適應症 7 個。"
 permalink: /news/carbenoxolone/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/carbenoxolone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 胃潰瘍、十二指腸潰瘍、口內炎性潰瘍</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>non-syndromic esophageal malformation (100.0%)</li>

@@ -2,142 +2,222 @@ name,slug,evidence_level,indication_count,original_indication,predicted_indicati
 Acebutolol,acebutolol,L4,2,高血壓、狹心症、心律不整,惡性腎血管高血壓 (malignant renovascular hypertension),99.10%,True,Hold,/drugs/acebutolol/
 Acetazolamide,acetazolamide,L2,10,青光眼、癲癇、充血性心衰竭水腫,心肌病變 (cardiomyopathy),99.83%,True,Proceed with Guardrails,/drugs/acetazolamide/
 Acitretin,acitretin,L3,4,嚴重性牛皮癬、皮膚角化症,青春痘 (acne),99.94%,True,Proceed with Guardrails,/drugs/acitretin/
+Acyclovir,acyclovir,L4,10,帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染、復發性單純疱疹感染之抑制（衛署藥製字第034583號等口服錠）；外用乳膏與眼藥膏另核准唇疱疹、單純皰疹性角膜炎,點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis),99.67%,True,Hold,/drugs/acyclovir/
 Alfacalcidol,alfacalcidol,L3,5,骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症,腎小管酸中毒 (renal tubular acidosis),99.27%,True,Proceed with Guardrails,/drugs/alfacalcidol/
-Alirocumab,alirocumab,L5,10,預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症,黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病,0.994（黃色瘤病）、0.994（膽固醇代謝疾病）,True,Consider,/drugs/alirocumab/
-Allopurinol,allopurinol,L5,10,痛風症、痛風性關節炎、尿酸結石、高尿酸血症,肝性紫質症、苯丙胺酸代謝異常,0.999（肝性紫質症）、0.999（苯丙胺酸代謝異常）,True,Explore,/drugs/allopurinol/
-Alprostadil,alprostadil,L5,10,週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持,主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損,0.9998（主動脈畸形）、0.999（三尖瓣病變）,True,Validated,/drugs/alprostadil/
-Aluminum Chloride,aluminum_chloride,L5,10,抗多汗、牙齦止血、牙齦收斂,脂漏性角化症、脂漏性皮膚炎、痤瘡、皮膚疾病（多汗相關）,0.997（脂漏性角化症）、0.996（脂漏性皮膚炎）,True,Hold,/drugs/aluminum_chloride/
-Aluminum Hydroxide,aluminum_hydroxide,L3,4,胃酸過多、胃炎、胃及十二指腸潰瘍,活動性消化性潰瘍 (active peptic ulcer disease),99.64%,False,Proceed with Caution,/drugs/aluminum_hydroxide/
+Alirocumab,alirocumab,L3,10,預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症,黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病,0.994（黃色瘤病）、0.994（膽固醇代謝疾病）,True,Consider,/drugs/alirocumab/
+Allopurinol,allopurinol,L3,10,痛風症、痛風性關節炎、尿酸結石、高尿酸血症,肝性紫質症、苯丙胺酸代謝異常,0.999（肝性紫質症）、0.999（苯丙胺酸代謝異常）,True,Explore,/drugs/allopurinol/
+Alpelisib,alpelisib,L4,10,HR+/HER2-/PIK3CA 突變型局部晚期或轉移性乳癌（內分泌治療後惡化）,肺動脈高壓 (Pulmonary Hypertension),99.03%,True,Hold,/drugs/alpelisib/
+Alpha-Tocopherol Acetate,alpha-tocopherol_acetate,L2,10,維他命Ｅ缺乏症,糖尿病視網膜病變 (Diabetic Retinopathy),99.99%,True,Proceed with Guardrails,/drugs/alpha-tocopherol_acetate/
+Alpha-Tocopherol Succinate,alpha-tocopherol_succinate,L5,10,維他命Ｅ缺乏症,藥物誘發性骨質疏鬆症 (Drug-induced Osteoporosis),99.997%,True,Hold,/drugs/alpha-tocopherol_succinate/
+Alprostadil,alprostadil,L1,10,週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持,主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損,0.9998（主動脈畸形）、0.999（三尖瓣病變）,True,Validated,/drugs/alprostadil/
+Aluminum Chloride,aluminum_chloride,L3,10,抗多汗、牙齦止血、牙齦收斂,脂漏性角化症、脂漏性皮膚炎、痤瘡、皮膚疾病（多汗相關）,0.997（脂漏性角化症）、0.996（脂漏性皮膚炎）,True,Hold,/drugs/aluminum_chloride/
+Aluminum Hydroxide,aluminum_hydroxide,L3,4,緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第001706號等）；制酸劑（原料藥）,活動性消化性潰瘍 (active peptic ulcer disease),99.64%,False,Proceed with Caution,/drugs/aluminum_hydroxide/
 Aluminum Oxide,aluminum_oxide,L4,10,緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。,類風濕性關節炎 (Rheumatoid Arthritis),99.98%,True,Hold,/drugs/aluminum_oxide/
 Amcinonide,amcinonide,L3,8,異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎,皮膚炎 (dermatitis),99.30%,False,Already Approved (原適應症範圍內),/drugs/amcinonide/
 Amorolfine,amorolfine,L5,10,抗黴菌劑,藥物誘發性骨質疏鬆 (Drug-Induced Osteoporosis),99.998%,True,Hold,/drugs/amorolfine/
+Amylmetacresol,amylmetacresol,L5,10,口腔殺菌劑、咽喉炎,馬尾症候群 (Cauda Equina Syndrome),99.99%,True,Hold,/drugs/amylmetacresol/
 Anastrozole,anastrozole,L1,6,停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療,女性乳腺癌 (female breast carcinoma),99.68%,False,Already Approved (原適應症範圍內),/drugs/anastrozole/
+Anthralin,anthralin,L3,10,牛皮癬,圓禿 (Alopecia Areata),99.58%,True,Proceed with Guardrails,/drugs/anthralin/
+Ascorbyl Phosphate,ascorbyl_phosphate,L5,10,暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢,嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy),99.65%,True,Hold,/drugs/ascorbyl_phosphate/
+Asfotase Alfa,asfotase_alfa,L5,10,小兒發作型低磷酸酯酶症（Pediatric-onset HPP）,粒線體氧化磷酸化障礙（Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies）,99.95%,True,Hold,/drugs/asfotase_alfa/
 Aspirin,aspirin,L5,0,解熱鎮痛劑,無,無,True,Hold,/drugs/aspirin/
-Atezolizumab,atezolizumab,L5,10,,,,False,,/drugs/atezolizumab/
-Atracurium Besylate,atracurium_besylate,L5,10,,,,False,,/drugs/atracurium_besylate/
+Atezolizumab,atezolizumab,L2,10,非小細胞肺癌、三陰性乳癌、小細胞肺癌、肝細胞癌、肺泡狀軟組織肉瘤,攝護腺尿道泌尿上皮癌 (prostatic urethra urothelial carcinoma),99.98%,True,Proceed,/drugs/atezolizumab/
+Atracurium Besylate,atracurium_besylate,L5,10,全身麻醉輔助劑、加護病房鎮靜輔助、氣管插管、人工呼吸器協調,子癇前症 (preeclampsia),99.97%,True,Hold（2026-10-03 重審調整）,/drugs/atracurium_besylate/
 Avelumab,avelumab,L5,10,適用於治療轉移性默克細胞癌 (Merkel Cell Carcinoma)之成人病人。,人類皰疹病毒8相關腫瘤 (human herpesvirus 8-related tumor),99.97%,True,Hold,/drugs/avelumab/
-Belimumab,belimumab,L5,6,,,,False,,/drugs/belimumab/
-Bempedoic Acid,bempedoic_acid,L5,10,,,,False,,/drugs/bempedoic_acid/
-Benazepril,benazepril,L5,5,,,,False,,/drugs/benazepril/
-Benzylpenicillin,benzylpenicillin,L5,7,,,,False,,/drugs/benzylpenicillin/
+Axitinib,axitinib,L3,10,晚期腎細胞癌（接受 sunitinib 或 cytokine 治療失敗後之二線治療）,未分類腎細胞癌 (Unclassified Renal Cell Carcinoma),99.90%,True,Proceed with Guardrails,/drugs/axitinib/
+Belimumab,belimumab,L3,6,全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎,血小板原發性釋放障礙 (primary release disorder of platelets),99.96%,True,Explore,/drugs/belimumab/
+Bempedoic Acid,bempedoic_acid,L3,10,原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低,同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia),99.48%,True,Go,/drugs/bempedoic_acid/
+Benazepril,benazepril,L5,5,高血壓,惡性腎血管性高血壓 (malignant renovascular hypertension),99.65%,True,Hold,/drugs/benazepril/
+Benzylpenicillin,benzylpenicillin,L3,7,葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎,牙冠周炎 (pericoronitis),99.36%,True,Go,/drugs/benzylpenicillin/
 Berberine,berberine,L5,10,腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾,重度子癲前症 (Severe Pre-eclampsia),99.83%,True,Hold,/drugs/berberine/
-Bevacizumab,bevacizumab,L5,10,,,,False,,/drugs/bevacizumab/
-Brivaracetam,brivaracetam,L5,10,,,,False,,/drugs/brivaracetam/
+Betamethasone,betamethasone,L1,10,原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹,圓禿 (Alopecia Areata),99.97%,True,Proceed with Guardrails,/drugs/betamethasone/
+Bevacizumab,bevacizumab,L5,10,轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等,會厭腫瘤 (epiglottis neoplasm),99.90%,True,Hold（2026-10-03 重審撤回此推論）,/drugs/bevacizumab/
+Brivaracetam,brivaracetam,L3,10,1個月大以上局部癲癇發作病人的治療,視覺性癲癇 (visual epilepsy),99.51%,True,Proceed,/drugs/brivaracetam/
 Brodalumab,brodalumab,L4,10,斑塊性乾癬,眼病 (Eye Disease),99.82%,True,Research Question,/drugs/brodalumab/
-Buprenorphine,buprenorphine,L5,6,,,,False,,/drugs/buprenorphine/
-Butenafine,butenafine,L5,5,,,,False,,/drugs/butenafine/
-Caplacizumab,caplacizumab,L5,10,,,,False,,/drugs/caplacizumab/
-Carbenoxolone,carbenoxolone,L5,7,,,,False,,/drugs/carbenoxolone/
-Carboplatin,carboplatin,L2,10,HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等,女性乳腺癌 (female breast carcinoma),99.86%,True,Proceed with Guardrails,/drugs/carboplatin/
+Buprenorphine,buprenorphine,L4,6,中重度疼痛、鴉片類物質成癮替代療法,急性間歇性紫質症 (acute intermittent porphyria),99.41%,True,Consider,/drugs/buprenorphine/
+Busulfan,busulfan,L1,10,慢性、亞急性骨髓性白血病,骨髓增生異常症候群 (Myelodysplastic Syndrome),99.62%,True,Proceed with Guardrails,/drugs/busulfan/
+Butenafine,butenafine,L3,5,指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染,皮膚念珠菌病 (cutaneous candidiasis),99.33%,True,Go,/drugs/butenafine/
+Cabazitaxel,cabazitaxel,L2,10,與 prednisone 或 prednisolone 併用，治療去勢抗性轉移性前列腺癌（已接受過 docetaxel 治療者）,女性乳癌 (Female Breast Carcinoma),99.92%,True,Proceed with Guardrails,/drugs/cabazitaxel/
+Camphor,camphor,L4,10,燙傷、刀傷、昆蟲咬傷、一般外傷（衛署成製字第003013號）；切傷、刀傷、創傷、火傷、蟲咬傷、頭暈（衛署成製字第013693號）,偏頭痛 (Migraine Disorder),99.85%,True,Hold,/drugs/camphor/
+Caplacizumab,caplacizumab,L5,10,後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用,血小板原發釋放障礙 (primary release disorder of platelets),99.9998%,True,Hold,/drugs/caplacizumab/
+Carbenoxolone,carbenoxolone,L5,7,胃潰瘍、十二指腸潰瘍、口內炎性潰瘍,非症候群性食道畸形 (non-syndromic esophageal malformation),99.9988%,True,Hold,/drugs/carbenoxolone/
+Carboplatin,carboplatin,L2,10,卵巢癌（台灣許可證核准適應症）,女性乳腺癌 (female breast carcinoma),99.86%,True,Proceed with Guardrails,/drugs/carboplatin/
 Carisoprodol,carisoprodol,L5,1,焦慮緊張症、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛,失眠 (insomnia),99.02%,True,Hold,/drugs/carisoprodol/
 Caspofungin,caspofungin,L5,1,侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症之經驗療法,胃泌素分泌異常 (gastrin secretion abnormality),99.44%,True,Hold,/drugs/caspofungin/
 Cefmetazole,cefmetazole,L5,9,葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症,高澱粉酶血症、多株性高黏滯症候群、先天性無白蛋白血症、血型不相容、淋病性尿道炎、解尿素支原體尿道炎、惡性前血液系統疾病、單株免疫球蛋白血症、血液疾病相關周邊神經病變,99.0-99.5%,True,Hold,/drugs/cefmetazole/
-Cephalexin,cephalexin,L5,0,葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、泌尿道、皮膚軟組織、骨關節等）,無,無,True,Hold,/drugs/cephalexin/
+Cefoperazone,cefoperazone,L2,10,廣譜細菌感染（上下呼吸道感染、泌尿道感染、腹膜炎、敗血病等）,肺炎（Pneumonia）,99.93%,True,Proceed with Guardrails,/drugs/cefoperazone/
+Cephalexin,cephalexin,L5,0,葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、生殖泌尿道、皮膚及軟組織等）,無,無,True,Hold,/drugs/cephalexin/
 Cerliponase Alfa,cerliponase_alfa,L5,10,神經元蠟樣脂褐質儲積症2型 (CLN2),Scheie syndrome,99.98%,True,Hold,/drugs/cerliponase_alfa/
-Chloral Hydrate,chloral_hydrate,L5,0,催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜,無,無,True,Hold,/drugs/chloral_hydrate/
+Chloral Hydrate,chloral_hydrate,L5,0,兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號）,無,無,True,Hold,/drugs/chloral_hydrate/
+Chlorobutanol,chlorobutanol,L5,10,結膜充血、角膜炎、角膜充血,勃起功能障礙 (Erectile Dysfunction),99.79%,True,Hold,/drugs/chlorobutanol/
+Cholic Acid,cholic_acid,L4,10,單一酵素缺乏造成的先天性膽酸合成障礙；過氧化體代謝異常（含 Zellweger spectrum disorders）之肝病表現、脂肪瀉或脂溶性維生素吸收降低併發症的輔助治療,HIV 感染性疾病 (HIV infectious disease),99.79%,True,Hold,/drugs/cholic_acid/
+Choline Salicylate,choline_salicylate,L5,10,解熱鎮痛劑,Prinzmetal 心絞痛 (Prinzmetal Angina),99.84%,True,Hold,/drugs/choline_salicylate/
 Cisatracurium,cisatracurium,L4,10,作為手術全身麻醉劑之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調,子癲前症 (Preeclampsia),99.99%,True,Research Question,/drugs/cisatracurium/
 Cladribine,cladribine,L5,7,,橫紋肌肉瘤 (多種亞型)、肝臟肉瘤,,False,,/drugs/cladribine/
 Clobetasone,clobetasone,L5,10,外用抗炎性皮質醇,原發性皮膚 T 細胞淋巴瘤 (primary cutaneous T-cell lymphoma),99.97%,True,Hold,/drugs/clobetasone/
-Clomipramine,clomipramine,L5,10,,焦慮症 (anxiety disorder),,False,,/drugs/clomipramine/
+Clomipramine,clomipramine,L1,10,,焦慮症 (anxiety disorder),,False,,/drugs/clomipramine/
 Cobicistat,cobicistat,L5,3,,猴免疫缺乏病毒感染、貓免疫缺乏症候群、神經發育障礙,,False,,/drugs/cobicistat/
-Cyclizine,cyclizine,L5,9,,過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患,,False,,/drugs/cyclizine/
-Cytarabine,cytarabine,L5,9,,小細胞肺癌、原發性肺淋巴瘤,,False,,/drugs/cytarabine/
+Conjugated Estrogens,conjugated_estrogens,L3,10,卵巢機能不全、月經不順、月經困難、機能性子宮出血,偏頭痛（Migraine Disorder）,99.77%,True,Hold,/drugs/conjugated_estrogens/
+Cortisone Acetate,cortisone_acetate,L3,10,腎上腺皮質機能不全症、風濕熱、風濕性關節炎、支氣管氣喘、過敏性濕疹、兒童急性白血病及惡性淋巴腫,圓禿 (Alopecia Areata),99.95%,True,Hold,/drugs/cortisone_acetate/
+Cromoglicic Acid,cromoglicic_acid,L5,10,過敏性結膜炎、過敏性鼻炎（台灣有效許可證）,,,True,**Research Question**（2 項）／Hold（8 項）,/drugs/cromoglicic_acid/
+Cyclandelate,cyclandelate,L1,10,末梢血管循環障礙,,99.69%,True,Proceed with Guardrails,/drugs/cyclandelate/
+Cyclizine,cyclizine,L4,9,,過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患,,False,,/drugs/cyclizine/
+Cytarabine,cytarabine,L3,9,,小細胞肺癌、原發性肺淋巴瘤,,False,,/drugs/cytarabine/
+Daptomycin,daptomycin,L4,10,抗生素,骨關節炎 (Osteoarthritis),99.86%,True,Hold,/drugs/daptomycin/
 Dehydrocholic Acid,dehydrocholic_acid,L5,10,利膽劑、膽石症、膽囊炎、膽道炎、肝硬化、黃疸,急性尿酸腎病、腎結石、膽道疾病、膽管腫瘤,,False,,/drugs/dehydrocholic_acid/
 Denosumab,denosumab,L5,2,骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症,嚴重非增殖性糖尿病視網膜病變、糖尿病視網膜病變,,False,,/drugs/denosumab/
-Deoxycholic Acid,deoxycholic_acid,L5,3,膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除,家族性血尿-視網膜動脈迂曲-攣縮症候群、腦小血管病變、糖尿病腎病,,False,,/drugs/deoxycholic_acid/
-Diosmin,diosmin,L5,1,慢性靜脈功能不全、靜脈曲張、痔瘡、機能性月經過多,閉經 (amenorrhea),,False,,/drugs/diosmin/
+Deoxycholic Acid,deoxycholic_acid,L5,3,頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀）,家族性血尿-視網膜動脈迂曲-攣縮症候群、腦小血管病變、糖尿病腎病,,False,,/drugs/deoxycholic_acid/
+Desogestrel,desogestrel,L3,10,避孕,閉經 (Amenorrhea),99.96%,True,Proceed with Guardrails,/drugs/desogestrel/
+Dexamethasone,dexamethasone,L2,10,過敏症、關節炎、風濕痛,圓禿（Alopecia Areata）,99.99%,True,Proceed with Guardrails,/drugs/dexamethasone/
+Diosmin,diosmin,L5,1,協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解（衛部藥製字第060902號等）；靜脈曲張與痔瘡用藥（原料藥，衛部藥陸輸字第001111號）,閉經 (amenorrhea),,False,,/drugs/diosmin/
 Dipyridamole,dipyridamole,L5,10,慢性狹心症、冠狀動脈不全、血小板凝集降低、心肌灌流造影替代運動試驗,變異型心絞痛 (Prinzmetal angina)、中風,,False,,/drugs/dipyridamole/
 Disopyramide,disopyramide,L5,10,心室性不整律、心律不整,妥瑞症、ADHD、拔毛症、多灶性心房頻脈、新生兒心房撲動,,False,,/drugs/disopyramide/
-Dl-Alpha-Tocopherol,dl-alpha-tocopherol,L4,10,未知,未成熟白內障 (immature cataract),99.98%,True,Proceed with Guardrails,/drugs/dl-alpha-tocopherol/
-Docetaxel,docetaxel,L1,10,HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌,女性乳腺癌 (female breast carcinoma),99.90%,True,Proceed,/drugs/docetaxel/
+Dl-Alpha-Tocopherol,dl-alpha-tocopherol,L4,10,維他命 E 缺乏症,未成熟白內障 (immature cataract),99.98%,True,Proceed with Guardrails,/drugs/dl-alpha-tocopherol/
+Docetaxel,docetaxel,L1,10,乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌,女性乳腺癌 (female breast carcinoma),99.90%,True,Proceed,/drugs/docetaxel/
 Dorzolamide,dorzolamide,L3,10,高眼壓症、廣角性青光眼,原發性遺傳性青光眼 (primary hereditary glaucoma),99.99%,True,Proceed with Guardrails,/drugs/dorzolamide/
+Doxorubicin,doxorubicin,L1,10,急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌,Ewing 肉瘤（Ewing Sarcoma）,99.90%,True,Proceed with Guardrails,/drugs/doxorubicin/
 Dronedarone,dronedarone,L2,10,心房纖維顫動、心房撲動,中風疾病 (stroke disorder),99.97%,True,Proceed with Guardrails,/drugs/dronedarone/
 Dupilumab,dupilumab,L3,10,異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎,支氣管炎 (bronchitis),99.92%,True,Proceed with Guardrails,/drugs/dupilumab/
 Durvalumab,durvalumab,L3,10,非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌、膀胱癌,前列腺尿道泌尿道上皮癌 (prostatic urethra urothelial carcinoma),99.98%,True,Proceed with Guardrails,/drugs/durvalumab/
-Emedastine,emedastine,L5,2,,過敏性蕁麻疹、冷蕁麻疹,,False,,/drugs/emedastine/
+Emedastine,emedastine,L2,2,,過敏性蕁麻疹、冷蕁麻疹,,False,,/drugs/emedastine/
+Enfortumab Vedotin,enfortumab_vedotin,L3,10,局部晚期或轉移性泌尿道上皮癌 (mUC)；與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）,HER2 陽性乳癌 (HER2 Positive Breast Carcinoma),98.99%,True,Proceed with Guardrails,/drugs/enfortumab_vedotin/
+Erdafitinib,erdafitinib,L5,10,局部晚期或轉移性泌尿道上皮癌 (mUC)，需帶有 FGFR3 敏感性基因變異,肺動脈高壓 (Pulmonary Hypertension),99.38%,True,Hold,/drugs/erdafitinib/
+Ergometrine,ergometrine,L3,10,產後出血、子宮血崩、月經過多,偏頭痛 (Migraine Disorder),99.93%,True,Proceed with Guardrails,/drugs/ergometrine/
 Etanercept,etanercept,L5,6,,多發性硬化症(primary progressive)、視神經脊髓炎、肌萎縮性脊髓側索硬化症,,False,,/drugs/etanercept/
-Ethynodiol Diacetate,ethynodiol_diacetate,L5,6,,痤瘡(acne)、女性不孕症,,False,,/drugs/ethynodiol_diacetate/
-Famotidine,famotidine,L5,10,,十二指腸胃逆流、十二指腸阻塞、活動性消化性潰瘍,,False,,/drugs/famotidine/
-Felodipine,felodipine,L5,7,,肺高壓(肺疾病/缺氧相關)、惡性腎血管性高血壓、惡性高血壓性腎病,,False,,/drugs/felodipine/
-Fenoprofen,fenoprofen,L5,10,,僵直性脊椎炎、假性軟骨發育不全、WHIM 症候群,,False,,/drugs/fenoprofen/
+Ethynodiol Diacetate,ethynodiol_diacetate,L3,6,,痤瘡(acne)、女性不孕症,,False,,/drugs/ethynodiol_diacetate/
+Everolimus,everolimus,L2,10,器官移植抗排斥藥物、治療腎臟癌藥物,脂肉瘤 (Liposarcoma),99.88%,True,Proceed with Guardrails,/drugs/everolimus/
+Famotidine,famotidine,L2,10,,十二指腸胃逆流、十二指腸阻塞、活動性消化性潰瘍,,False,,/drugs/famotidine/
+Felodipine,felodipine,L4,7,,肺高壓(肺疾病/缺氧相關)、惡性腎血管性高血壓、惡性高血壓性腎病,,False,,/drugs/felodipine/
+Fenoprofen,fenoprofen,L2,10,,僵直性脊椎炎、假性軟骨發育不全、WHIM 症候群,,False,,/drugs/fenoprofen/
 Fenoterol,fenoterol,L5,8,,多系統萎縮、姿勢性心搏過速症候群、開放性青光眼、雷諾氏病,,False,,/drugs/fenoterol/
 Ferrous Gluconate,ferrous_gluconate,L5,5,,Plummer-Vinson 症候群、維生素缺乏症、巨紅血球性貧血,,False,,/drugs/ferrous_gluconate/
+Fidaxomicin,fidaxomicin,L5,10,"困難梭狀桿菌相關腹瀉 (C. difficile-associated diarrhoea, CDAD)",葡萄球菌燙傷樣皮膚症候群 (Staphylococcal Scalded Skin Syndrome),99.71%,True,Hold,/drugs/fidaxomicin/
+Flucloxacillin,flucloxacillin,L4,10,皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎,結膜炎 (Conjunctivitis),99.84%,True,Hold,/drugs/flucloxacillin/
+Fludarabine,fludarabine,L3,10,B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL；限烷化基藥劑治療無效或惡化者）（衛署藥輸字第022732號）,漿細胞骨髓瘤 (Plasma Cell Myeloma),99.82%,True,Proceed with Guardrails,/drugs/fludarabine/
 Flunitrazepam,flunitrazepam,L5,10,,失眠（疾病分類）、偏頭痛、腦幹先兆偏頭痛、焦慮,,False,,/drugs/flunitrazepam/
+Fluorescein,fluorescein,L5,10,診斷試劑,Prinzmetal 心絞痛 (Prinzmetal angina),99.81%,True,Hold,/drugs/fluorescein/
+Fluorouracil,fluorouracil,L5,10,消化器癌（如胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解；結腸癌、直腸癌、乳癌、胃癌、胰臟癌，以及不可以手術之胃腸道、乳部惡性腫瘤的姑息療法,陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoid-type Embryonal Rhabdomyosarcoma of the Vagina),99.75%,True,Hold,/drugs/fluorouracil/
+Fluticasone,fluticasone,L4,10,抗炎性皮質固醇（外用）,偏頭痛 (Migraine Disorder),99.20%,True,Hold,/drugs/fluticasone/
 Fosfomycin,fosfomycin,L5,10,,淋病性尿道炎、尿漿菌性尿道炎、子宮炎、會厭炎,,False,,/drugs/fosfomycin/
+Fulvestrant,fulvestrant,L5,10,荷爾蒙受體陽性局部晚期或轉移性乳癌,HIV infectious disease,99.91%,True,Hold,/drugs/fulvestrant/
 Gefitinib,gefitinib,L5,10,,牙齦纖維瘤、肺纖維瘤、肺錯構瘤、額顳葉失智伴包涵體肌病,,False,,/drugs/gefitinib/
-Gemcitabine,gemcitabine,L2,10,轉移性大腸直腸癌,女性乳腺癌 (female breast carcinoma),99.98%,True,Proceed with Guardrails,/drugs/gemcitabine/
+Gemcitabine,gemcitabine,L2,10,非小細胞肺癌、胰臟癌、膀胱癌、乳癌（與 paclitaxel 併用）、卵巢癌（第二線）、膽道癌,女性乳腺癌 (female breast carcinoma),99.98%,True,Proceed with Guardrails,/drugs/gemcitabine/
+Gemfibrozil,gemfibrozil,L4,10,降血脂劑（高脂血症）,類風濕性關節炎 (Rheumatoid Arthritis),99.90%,True,Hold,/drugs/gemfibrozil/
+Glatiramer,glatiramer,L5,10,用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率,血紅素病變 (Hemoglobinopathy),99.03%,True,Hold,/drugs/glatiramer/
+Glycerin,glycerin,L4,10,灌腸料、丸劑、流浸膏等調製賦形劑；緩解便秘,,99.59%,True,Hold,/drugs/glycerin/
+Glycol Salicylate,glycol_salicylate,L5,10,暫時緩解局部疼痛（腰痛、肩膀酸痛、關節痛等）,Glanzmann 血小板無力症 (Glanzmann Thrombasthenia),98.17%,True,Hold,/drugs/glycol_salicylate/
 Griseofulvin,griseofulvin,L5,5,,蠅蛆症、疥蟲性蠅蛆症、傷口蠅蛆症、爬行性蠅蛆症、包蟲病,,False,,/drugs/griseofulvin/
+Guselkumab,guselkumab,L5,10,中度至重度活動性潰瘍性結腸炎及克隆氏症（對傳統或生物製劑治療反應不佳、失去反應或無法耐受者）,藥物性骨質疏鬆 (drug-induced osteoporosis),99.84%,True,Hold,/drugs/guselkumab/
+Hesperidin,hesperidin,L4,10,強化血管、末梢血管強化劑（hesperidin 單方許可證，皆已註銷，如衛署藥輸字第013726號）；現行有效許可證均為含 hesperidin 的複方（綜合感冒藥等）,骨髓增生性腫瘤 (Myeloproliferative Neoplasm),99.47%,True,Hold,/drugs/hesperidin/
+Hexachlorophene,hexachlorophene,L3,10,外科擦拭用、供皮膚抑菌使用目的之清潔劑,廣義皮膚病 (Skin Disease),99.92%,True,Proceed with Guardrails,/drugs/hexachlorophene/
 Homatropine Methylbromide,homatropine_methylbromide,L5,2,胃酸過多、消化性潰瘍、胃腸道痙攣,胃十二指腸炎 (gastroduodenitis),99.39%,False,Hold,/drugs/homatropine_methylbromide/
 Human Immunoglobulin G,human_immunoglobulin_g,L3,3,原發性免疫不全症、ITP、川崎氏症、GBS,糖尿病視網膜病變 (diabetic retinopathy),99.63%,False,Explore,/drugs/human_immunoglobulin_g/
+Hyaluronic Acid,hyaluronic_acid,L1,10,無台灣許可證登記（國際用途包含眼科黏彈劑、關節腔注射、皮膚填充）,乾眼症 (Dry Eye Syndrome),99.86%,False,Proceed with Guardrails,/drugs/hyaluronic_acid/
+Hydrocortisone,hydrocortisone,L1,10,風濕性關節炎、急性關節風濕、支氣管氣喘、過敏性疾患、慢性潰瘍性大腸炎及局部性腸炎、濕疹樣症候群、蕁麻疹、腎臟疾患等,圓禿 (Alopecia Areata),99.97%,True,Proceed with Guardrails,/drugs/hydrocortisone/
 Hydroquinone,hydroquinone,L4,4,黑斑、雀斑、色素沉著,脂漏性角化症 (seborrheic keratosis),99.73%,False,Hold,/drugs/hydroquinone/
 Hydroxyprogesterone Caproate,hydroxyprogesterone_caproate,L2,10,習慣性流產、機能性子宮出血、黃體機能不全,子宮內膜癌 (endometrial cancer),99.96%,False,Proceed with Guardrails,/drugs/hydroxyprogesterone_caproate/
-Hydroxyurea,hydroxyurea,L2,10,慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌,女性乳腺癌 (female breast carcinoma),99.97%,False,Proceed with Guardrails,/drugs/hydroxyurea/
+Hydroxyurea,hydroxyurea,L2,10,慢性骨髓性白血病、復發／轉移或不可開刀之卵巢癌、併用放射治療之頭頸部鱗狀細胞癌局部控制,女性乳腺癌 (female breast carcinoma),99.97%,False,Proceed with Guardrails,/drugs/hydroxyurea/
+Hymecromone,hymecromone,L5,10,利膽、鎮痙劑（膽石症、膽囊炎、膽道阻礙、膽囊切除後症候群）,糖尿病腎病 (Diabetic Nephropathy),99.85%,True,Hold,/drugs/hymecromone/
 Ibuprofen,ibuprofen,L5,7,解熱、鎮痛、關節炎、神經痛,肢端肢中發育不良 (acromesomelic dysplasia),99.74%,False,Hold,/drugs/ibuprofen/
 Icatibant,icatibant,L1,7,遺傳性血管性水腫(HAE)急性發作症狀治療,C1 Inhibitor Deficiency,99.99%,True,Proceed,/drugs/icatibant/
+Imatinib,imatinib,L4,10,慢性骨髓性白血病（CML）、胃腸道基質瘤（GIST）、Ph+ALL 等多種血液及實體腫瘤,心臟纖維肉瘤（Heart Fibrosarcoma）,99.94%,True,Hold,/drugs/imatinib/
 Inclisiran,inclisiran,L5,10,原發性高血脂症(含異合子家族性高膽固醇血症)之 LDL-C 降低,Potassium Deficiency Disease,99.93%,True,Hold,/drugs/inclisiran/
+Indacaterol,indacaterol,L1,10,氣喘維持治療（ICS 控制不佳，需合併 LABA/ICS 之成年病人）,支氣管疾病 (Bronchial Disease),99.18%,True,Proceed with Guardrails,/drugs/indacaterol/
 Inositol,inositol,L3,10,末梢血管循環障礙、營養劑、趨脂劑,Familial Hypercholesterolemia,99.47%,True,Consider,/drugs/inositol/
 Insulin Lispro,insulin_lispro,L5,9,糖尿病(成人、青少年及1歲以上兒童),Autoimmune Oophoritis,99.78%,True,Hold,/drugs/insulin_lispro/
-Interferon Beta-1B,interferon_beta-1b,L3,2,反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群,Hairy Cell Leukemia,99.16%,True,Consider,/drugs/interferon_beta-1b/
+Interferon Beta-1B,interferon_beta-1b,L3,2,反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群,Hairy Cell Leukemia,99.16%,False,Consider,/drugs/interferon_beta-1b/
 Iodixanol,iodixanol,L5,3,X光對比劑：心臟血管、腦血管、周邊動脈造影等,骨關節炎 (osteoarthritis),99.07%,True,Hold,/drugs/iodixanol/
+Iohexol,iohexol,L5,10,脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影,失眠 (insomnia disease),99.87%,True,Hold,/drugs/iohexol/
+Iopromide,iopromide,L5,10,電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影及心血管造影,骨關節炎易感性 (Osteoarthritis Susceptibility),99.57%,True,Hold,/drugs/iopromide/
+Ioversol,ioversol,L5,10,心臟血管系統 X 射線攝影（含腦部、冠狀、腎動脈攝影及 CT 顯影增強）,骨關節炎易感性 (Osteoarthritis Susceptibility),99.67%,True,Hold,/drugs/ioversol/
 Ipilimumab,ipilimumab,L5,2,,脈絡膜無虹膜症、非皮膚黑色素瘤,,False,,/drugs/ipilimumab/
 Ipratropium,ipratropium,L1,10,慢性阻塞性支氣管炎、支氣管氣喘、阻塞性呼吸道疾病併發的可逆性支氣管痙攣,阻塞性肺疾病 (obstructive lung disease),99.97%,True,Validate,/drugs/ipratropium/
 Irbesartan,irbesartan,L5,4,本態性高血壓、第二型糖尿病患者的高血壓及糖尿病性腎病變,惡性高血壓腎病變、惡性腎血管性高血壓、肺高壓,99.31% (惡性高血壓腎病變),True,Consider,/drugs/irbesartan/
 Isoleucine,isoleucine,L5,1,,胃輕癱 (gastroparesis),0.993,False,,/drugs/isoleucine/
 Isosorbide Dinitrate,isosorbide_dinitrate,L2,10,預防及治療狹心症發作、冠狀動脈不全,肺高壓 (pulmonary hypertension)、脫髮症 (alopecia),99.98% (肺高壓),True,Explore,/drugs/isosorbide_dinitrate/
+Isosorbide Mononitrate,isosorbide_mononitrate,L5,10,預防狹心症發作,多毛症 (Hypertrichosis),99.995%,True,Hold,/drugs/isosorbide_mononitrate/
+Ivermectin,ivermectin,L5,10,驅蟲劑（疥瘡、糞小桿線蟲感染、蟠尾絲蟲感染）,外陰陰道念珠菌病 (Vulvovaginal Candidiasis),99.95%,True,Hold,/drugs/ivermectin/
+Lacosamide,lacosamide,L3,10,四歲以上局部癲癇發作之單一藥物治療；複雜性局部癲癇發作及次發性全身發作之輔助治療,,99.96%,True,Hold,/drugs/lacosamide/
+Lactic Acid,lactic_acid,L5,10,婦女陰道及陰部之除臭與洗潔、白帶之預防與治療,非典型主動脈縮窄 (Atypical Coarctation of Aorta),99.59%,True,Hold,/drugs/lactic_acid/
+Larotrectinib,larotrectinib,L3,10,具 NTRK 基因融合之轉移性實體腫瘤（成人及兒童，無後天阻抗性突變）,多發性內分泌腺瘤病（Multiple Endocrine Neoplasia）,99.24%,True,Hold,/drugs/larotrectinib/
 Leflunomide,leflunomide,L5,2,,短指併指症候群 (brachydactyly-syndactyly syndrome)、眼缺損-根莖骨發育不全症候群,0.999,False,,/drugs/leflunomide/
+Letrozole,letrozole,L1,10,停經後末期乳癌、局部晚期/轉移性乳癌第一線、荷爾蒙受體陽性初期乳癌輔助治療,女性乳癌 (Female Breast Carcinoma),99.98%,True,Proceed with Guardrails,/drugs/letrozole/
 Levamisole,levamisole,L5,3,抗腫瘍藥，用於氟嘧啶二酮之輔助治療劑,藥物誘發性骨質疏鬆症 (drug-induced osteoporosis),99.9993%,True,Hold,/drugs/levamisole/
 Lidocaine,lidocaine,L5,10,牙科之表面麻醉、浸潤麻醉、傳達麻醉、局部麻醉,點狀上皮角結膜炎 (punctate epithelial keratoconjunctivitis),99.99%,True,Hold,/drugs/lidocaine/
-Lornoxicam,lornoxicam,L3,10,,類風濕性關節炎、偏頭痛,0.999 (RA)、0.999 (偏頭痛),False,,/drugs/lornoxicam/
-Loteprednol Etabonate,loteprednol_etabonate,L5,10,,濾泡性結膜炎、慢性濾泡性結膜炎、漿液性結膜炎、寄生蟲性結膜炎、偽膜性結膜炎、急性出血性結膜炎、酒糟性結膜炎、外耳炎等,0.991-0.997,False,,/drugs/loteprednol_etabonate/
-Magnesium Sulfate,magnesium_sulfate,L5,10,,,0.99999 (極高),False,,/drugs/magnesium_sulfate/
-Mannitol,mannitol,L5,10,,腎源性抗利尿不當症候群、惡性高熱、家族性週期性麻痺、低血鉀週期性麻痺、腎源性尿崩症、King-Denborough 症候群等,0.997-0.999,False,,/drugs/mannitol/
+Lornoxicam,lornoxicam,L2,10,,類風濕性關節炎、偏頭痛,0.999 (RA)、0.999 (偏頭痛),False,,/drugs/lornoxicam/
+Loteprednol Etabonate,loteprednol_etabonate,L3,10,,濾泡性結膜炎、慢性濾泡性結膜炎、漿液性結膜炎、寄生蟲性結膜炎、偽膜性結膜炎、急性出血性結膜炎、酒糟性結膜炎、外耳炎等,0.991-0.997,False,,/drugs/loteprednol_etabonate/
+Lutetium Lu 177 Dotatate,lutetium_lu_177_dotatate,L5,10,GEP-NETs（胃腸胰神經內分泌腫瘤）,垂體性侏儒症（Pituitary Dwarfism）,99.99%,True,Hold,/drugs/lutetium_lu_177_dotatate/
+Magnesium Sulfate,magnesium_sulfate,L1,10,,,0.99999 (極高),False,,/drugs/magnesium_sulfate/
+Mannitol,mannitol,L3,10,,腎源性抗利尿不當症候群、惡性高熱、家族性週期性麻痺、低血鉀週期性麻痺、腎源性尿崩症、King-Denborough 症候群等,0.997-0.999,False,,/drugs/mannitol/
+Maraviroc,maraviroc,L5,10,CCR5 趨性 HIV-1 感染（對第一線抗反轉錄病毒藥物無法耐受或治療失敗之成人患者）,多發性內分泌腫瘤 (Multiple Endocrine Neoplasia),99.82%,True,Hold,/drugs/maraviroc/
 Methionine,methionine,L5,10,肝機能障礙,痤瘡 (Acne),99.9996%,True,Hold,/drugs/methionine/
 Methocarbamol,methocarbamol,L5,10,,馬尾症候群、腸躁症、全葡萄膜炎、過敏性休克、心室頻脈,,False,,/drugs/methocarbamol/
-Metoprolol,metoprolol,L5,10,高血壓、狹心症、心室上心律不整,惡性高血壓腎病變、慢性肺心病、心肌梗塞,"99.91% (惡性高血壓腎病變), 99.40% (慢性肺心病)",True,Explore,/drugs/metoprolol/
-Milrinone,milrinone,L5,10,,禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹、頭痛障礙、充血性心衰竭,,False,,/drugs/milrinone/
+Methylprednisolone,methylprednisolone,L3,10,抗炎性皮質固醇（風濕性關節炎、氣喘、過敏性疾患）,圓禿症 (Alopecia Areata),99.99%,True,Proceed with Guardrails,/drugs/methylprednisolone/
+Methylprednisone,methylprednisone,L3,10,急性病症（氣喘、休克、虛脫、過敏性疾患）,,98.91%,True,Proceed with Guardrails,/drugs/methylprednisone/
+Metoprolol,metoprolol,L2,10,高血壓、狹心症、心室上心律不整,惡性高血壓腎病變、慢性肺心病、心肌梗塞,"99.91% (惡性高血壓腎病變), 99.40% (慢性肺心病)",True,Explore,/drugs/metoprolol/
+Mexiletine,mexiletine,L5,10,抗心律不整藥（心室性不整律）,多毛症 (Hypertrichosis),99.78%,True,Hold,/drugs/mexiletine/
+Milrinone,milrinone,L3,10,,禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹、頭痛障礙、充血性心衰竭,,False,,/drugs/milrinone/
 Minoxidil,minoxidil,L4,3,治療女性雄激素性落髮,頭皮單純性稀毛症 (hypotrichosis simplex of the scalp),99.99991655349731%,True,Research Question,/drugs/minoxidil/
-Moclobemide,moclobemide,L5,2,,廣場恐懼症、良性陣發性斜頸症,,False,,/drugs/moclobemide/
+Moclobemide,moclobemide,L2,2,,廣場恐懼症、良性陣發性斜頸症,,False,,/drugs/moclobemide/
+Mycophenolate Mofetil,mycophenolate_mofetil,L3,10,預防腎臟、心臟和肝臟移植之急性器官排斥,HIV 感染症 (HIV infectious disease),99.86%,True,Hold,/drugs/mycophenolate_mofetil/
 Naftifine,naftifine,L1,8,皮膚黴菌病、表皮念珠菌病、甲黴菌病、花斑癬,皮膚念珠菌病、花斑癬、Majocchi 肉芽腫,"99.84% (皮膚念珠菌病), 99.68% (花斑癬)",True,Validate,/drugs/naftifine/
 Naphazoline,naphazoline,L5,10,,頭皮毛髮稀疏症、先天性毛髮稀疏症、瀰漫性圓禿、禿髮症、原發性遺傳性青光眼、開角型青光眼,,False,,/drugs/naphazoline/
 Naproxen,naproxen,L5,4,骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛,短指併指症候群、眼缺損小眼症-根肢發育不良症候群等,99.35% (brachydactyly-syndactyly syndrome),True,Hold,/drugs/naproxen/
-Nebivolol,nebivolol,L5,5,,惡性腎血管性高血壓、惡性高血壓性腎病、肺高壓（低氧相關）、Braddock 症候群,,False,,/drugs/nebivolol/
+Nebivolol,nebivolol,L3,5,,惡性腎血管性高血壓、惡性高血壓性腎病、肺高壓（低氧相關）、Braddock 症候群,,False,,/drugs/nebivolol/
 Nefopam,nefopam,L5,10,鎮痛,破傷風性白內障 (Tetanic Cataract),99.98%,True,Hold,/drugs/nefopam/
-Nepafenac,nepafenac,L5,10,,眼科疾病（廣泛眼科應用）,,False,,/drugs/nepafenac/
+Nepafenac,nepafenac,L1,10,,眼科疾病（廣泛眼科應用）,,False,,/drugs/nepafenac/
+Niraparib,niraparib,L5,10,轉移性去勢療法抗性前列腺癌（mCRPC，需具 BRCA 1/2 突變，與 prednisone/prednisolone 併用）,會厭腫瘤（Epiglottis Neoplasm）,99.99%,True,Hold,/drugs/niraparib/
 Nitrofurantoin,nitrofurantoin,L5,10,尿路感染（膀胱炎、腎盂炎、尿道炎）,類風濕性關節炎 (rheumatoid arthritis),99.89%,True,Hold,/drugs/nitrofurantoin/
+Nitrous Oxide,nitrous_oxide,L4,10,呼入性全身麻醉鎮痛,良性攝護腺增生 (Benign Prostatic Hyperplasia),99.52%,True,Hold,/drugs/nitrous_oxide/
+Nitroxoline,nitroxoline,L5,10,尿道炎、膀胱炎、腎盂腎炎及其他泌尿道感染症,閉經 (Amenorrhea),99.74%,True,Hold,/drugs/nitroxoline/
+Norethindrone Enanthate,norethindrone_enanthate,L5,10,長效注射型避孕藥（台灣無核准許可證）,第二型抗凝血素缺乏症 (Antithrombin Deficiency Type 2),98.93%,False,Hold,/drugs/norethindrone_enanthate/
 Nystatin,nystatin,L4,10,對革蘭氏陽性菌及陰性菌所引起之感染症,外陰陰道炎 (Vulvovaginitis),99.92%,True,Proceed with Guardrails,/drugs/nystatin/
 Omalizumab,omalizumab,L2,10,重度過敏性氣喘、慢性鼻竇炎併鼻息肉、慢性自發性蕁麻疹,支氣管炎、異位性皮膚炎,"99.99% (支氣管炎), 99.97% (異位性皮膚炎)",True,Explore,/drugs/omalizumab/
 Oteracil,oteracil,L2,10,胃癌用藥。,大腸腫瘤 (Colonic Neoplasm),99.99%,True,Proceed with Guardrails,/drugs/oteracil/
-Ouabain,ouabain,L5,10,心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速,鐮刀型紅血球貧血 (Sickle cell anemia)、心肌梗塞 (Myocardial infarction),0.995 (鐮刀型紅血球貧血)、0.994 (心肌梗塞),False,,/drugs/ouabain/
+Ouabain,ouabain,L4,10,心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速,鐮刀型紅血球貧血 (Sickle cell anemia)、心肌梗塞 (Myocardial infarction),0.995 (鐮刀型紅血球貧血)、0.994 (心肌梗塞),False,,/drugs/ouabain/
 Oxybutynin,oxybutynin,L5,3,膀胱過動症、原發性手掌多汗症、膀胱神經控制不適伴隨排尿症狀,腸胃道相關疾病,高分預測,False,,/drugs/oxybutynin/
-Oxytetracycline,oxytetracycline,L5,10,革蘭氏陽性及陰性菌感染症、螺旋菌感染症、立克次體感染症,外耳炎 (Otitis externa),高分預測,False,,/drugs/oxytetracycline/
-Paclitaxel,paclitaxel,L5,10,卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌,三陰性乳癌、雌激素受體陽性乳癌、荷爾蒙抗性乳癌,0.999+,False,,/drugs/paclitaxel/
-Pemetrexed,pemetrexed,L5,10,非小細胞肺癌、惡性胸膜間皮瘤,惡性腹膜間皮瘤 (Malignant peritoneal mesothelioma),0.9999+,False,,/drugs/pemetrexed/
+Oxytetracycline,oxytetracycline,L2,10,革蘭氏陽性及陰性菌感染症、螺旋菌感染症、立克次體感染症,外耳炎 (Otitis externa),高分預測,False,,/drugs/oxytetracycline/
+Paclitaxel,paclitaxel,L1,10,卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌,三陰性乳癌、雌激素受體陽性乳癌、荷爾蒙抗性乳癌,0.999+,False,,/drugs/paclitaxel/
+Palbociclib,palbociclib,L5,10,HR+/HER2- 局部晚期或轉移性乳癌（合併芳香環轉化酶抑制劑或 fulvestrant）,甲狀腺功能亢進 (Hyperthyroidism),99.44%,True,Hold,/drugs/palbociclib/
+Pancrelipase,pancrelipase,L5,10,解脂,核DNA異常所致粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies),99.99%,True,Hold,/drugs/pancrelipase/
+Pemetrexed,pemetrexed,L1,10,非小細胞肺癌、惡性胸膜間皮瘤,惡性腹膜間皮瘤 (Malignant peritoneal mesothelioma),0.9999+,False,,/drugs/pemetrexed/
+Pemigatinib,pemigatinib,L5,10,腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌,多發性內分泌腫瘤 (Multiple Endocrine Neoplasia),99.71%,True,Hold,/drugs/pemigatinib/
+Penciclovir,penciclovir,L5,10,治療由單純皰疹病毒引起之後發性唇皰疹,肝吸蟲病 (Fascioliasis),99.06%,True,Hold,/drugs/penciclovir/
 Pentosan Polysulfate,pentosan_polysulfate,L5,3,間質性膀胱炎引起的膀胱疼痛或不適、栓血症,原發性血小板釋放障礙、Glanzmann 血小板無力症、假性類血友病,0.996-0.997,False,,/drugs/pentosan_polysulfate/
 Pentoxifylline,pentoxifylline,L5,0,,,,False,,/drugs/pentoxifylline/
-Pimozide,pimozide,L5,10,,,,False,,/drugs/pimozide/
+Peppermint Oil,peppermint_oil,L3,10,腳部跌打、腰背痠痛、止痛消腫、外用傷口護理（如意油）,心血管疾病（Cardiovascular Disease）,99.13%,True,Proceed with Guardrails,/drugs/peppermint_oil/
+Pexidartinib,pexidartinib,L3,10,症狀性腱鞘巨細胞瘤（TGCT）— 無法透過手術或其他治療改善、具嚴重後遺症或嚴重功能受限的成人病人,HER2 陽性乳癌 (HER2 positive breast carcinoma),99.98%,False,Hold,/drugs/pexidartinib/
+Pimozide,pimozide,L3,10,,,,False,,/drugs/pimozide/
 Pipemidic Acid,pipemidic_acid,L5,10,,,,False,,/drugs/pipemidic_acid/
-Pitavastatin,pitavastatin,L5,10,,,,False,,/drugs/pitavastatin/
-Pitolisant,pitolisant,L5,3,,,,False,,/drugs/pitolisant/
+Pitavastatin,pitavastatin,L3,10,,,,False,,/drugs/pitavastatin/
+Pitolisant,pitolisant,L3,3,,,,False,,/drugs/pitolisant/
 Polyethylene Glycol,polyethylene_glycol,L5,1,,,,False,,/drugs/polyethylene_glycol/
 Polyethylene Glycol 400,polyethylene_glycol_400,L5,2,,支氣管炎 (bronchitis)、先天性魚鱗癬樣紅皮症,,False,,/drugs/polyethylene_glycol_400/
-Polymyxin B,polymyxin_b,L5,3,,支氣管炎 (bronchitis)、喉氣管炎、結膜炎,,False,,/drugs/polymyxin_b/
+Polymyxin B,polymyxin_b,L3,3,,支氣管炎 (bronchitis)、喉氣管炎、結膜炎,,False,,/drugs/polymyxin_b/
 Polysorbate 80,polysorbate_80,L5,1,,先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma),,False,,/drugs/polysorbate_80/
-Potassium Iodide,potassium_iodide,L5,2,,鼻腔疾病 (nasal cavity disease)、急性喉咽炎,,False,,/drugs/potassium_iodide/
+Potassium Iodide,potassium_iodide,L3,2,,鼻腔疾病 (nasal cavity disease)、急性喉咽炎,,False,,/drugs/potassium_iodide/
 Povidone,povidone,L5,1,,先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma),,False,,/drugs/povidone/
 Pralatrexate,pralatrexate,L4,10,治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益,胸膜上皮型間皮瘤 (pleural epithelioid mesothelioma),99.89%,True,Research Question,/drugs/pralatrexate/
-Pravastatin,pravastatin,L5,9,,同合子家族性高膽固醇血症 (hoFH)、HIV感染相關血脂異常,,False,,/drugs/pravastatin/
+Prasugrel,prasugrel,L4,10,急性冠狀動脈症候群（ACS）合併冠狀動脈介入性治療（PCI）,肺動脈高壓 (Pulmonary Hypertension),99.88%,True,Hold,/drugs/prasugrel/
+Pravastatin,pravastatin,L2,9,,同合子家族性高膽固醇血症 (hoFH)、HIV感染相關血脂異常,,False,,/drugs/pravastatin/
 Prednisolone,prednisolone,L3,10,濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等,斑禿 (Alopecia Areata),99.99%,True,Proceed with Guardrails,/drugs/prednisolone/
 Prednisolone Acetate,prednisolone_acetate,L4,10,眼瞼炎、結膜炎、角膜炎、鞏膜炎、虹彩毛樣體炎等過敏性疾患,寄生蟲性結膜炎 (Parasitic Conjunctivitis),99.74%,True,Proceed with Guardrails,/drugs/prednisolone_acetate/
-Prednisone,prednisone,L2,10,風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患,圓禿症 (Alopecia Areata),99.99%,True,Go,/drugs/prednisone/
+Prednisone,prednisone,L2,10,台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 prednisone＋crotamiton 複方軟膏：濕疹或皮膚炎（衛署藥製字第042080號）,圓禿症 (Alopecia Areata),99.99%,True,Go,/drugs/prednisone/
+Prilocaine,prilocaine,L3,10,局部麻醉劑,,99.34%,True,Proceed with Guardrails,/drugs/prilocaine/
 Probenecid,probenecid,L4,3,痛風、痛風性關節炎、尿酸排泄增進,腎性低尿酸血症 (Renal Hypouricemia),99.73%,True,Hold,/drugs/probenecid/
+Procaine,procaine,L4,10,局部麻醉,高鐵血紅蛋白血症 (Methemoglobinemia),99.50%,True,Hold,/drugs/procaine/
 Propantheline,propantheline,L3,2,胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多,胃十二指腸炎 (Gastroduodenitis),99.90%,True,Go,/drugs/propantheline/
+Prucalopride,prucalopride,L5,10,使用瀉劑仍無法達到適當緩解效果之成人慢性便秘,低α脂蛋白血症 (Hypoalphalipoproteinemia),99.82%,True,Hold,/drugs/prucalopride/
 Raloxifene,raloxifene,L5,4,預防及治療停經後婦女骨質疏鬆症,十二指腸潰瘍 (Duodenal Ulcer),99.72%,True,Hold,/drugs/raloxifene/
 Ramucirumab,ramucirumab,L5,10,胃癌,子宮韌帶腺癌 (Uterine Ligament Adenocarcinoma),99.95%,True,Hold,/drugs/ramucirumab/
+Ravulizumab,ravulizumab,L5,10,陣發性夜間血紅素尿症、非典型性尿毒溶血症候群、泛視神經脊髓炎,G6PC3 缺乏型常染色體隱性嚴重先天性中性球減少症,99.96%,True,Hold,/drugs/ravulizumab/
 Regorafenib,regorafenib,L2,8,轉移性大腸直腸癌、胃腸道間質腫瘤、肝細胞癌,脂肪肉瘤 (Liposarcoma),99.76%,True,Proceed with Guardrails,/drugs/regorafenib/
 Remdesivir,remdesivir,L5,6,新型冠狀病毒疾病（COVID-19）,多發性內分泌腫瘤 (Multiple Endocrine Neoplasia),99.50%,True,Hold,/drugs/remdesivir/
 Ribavirin,ribavirin,L3,10,慢性 C 型肝炎（與 peginterferon 或 DAA 併用）,慢性 B 型肝炎病毒感染 (Chronic HBV Infection),99.86%,True,Proceed with Guardrails,/drugs/ribavirin/
+Rifampicin,rifampicin,L3,10,結核菌性感染症,結膜炎 (Conjunctivitis),99.95%,True,Hold（研究問題階段）,/drugs/rifampicin/
 Riluzole,riluzole,L4,10,肌萎縮脊髓側索硬化症（ALS）,雙側旁矢狀頂枕多小腦回畸形、下運動神經元症候群、Mills 症候群、ALS 易感性,99.94%-99.98%,True,Proceed with Guardrails,/drugs/riluzole/
 Ritonavir,ritonavir,L4,3,人類免疫缺乏病毒（HIV）感染,猿免疫缺乏病毒感染 (SIV Infection)、貓愛滋病,99.92%,True,Proceed with Guardrails,/drugs/ritonavir/
+Rocuronium,rocuronium,L5,10,全身麻醉的輔佐藥，幫助支氣管內插管、提供手術及快速麻醉誘導時的骨骼肌鬆弛，以及加護病房插管與使用人工呼吸器時,偏頭痛 (Migraine Disorder),99.90%,True,Hold,/drugs/rocuronium/
 Ropinirole,ropinirole,L4,10,治療自發性帕金森氏症、原發性腳部躁動症,思覺失調症 (schizophrenia),99.90%,True,Worth Exploring,/drugs/ropinirole/
 Rotigotine,rotigotine,L4,10,原發性帕金森氏症,思覺失調症 (schizophrenia),99.996%,True,Worth Exploring,/drugs/rotigotine/
 Sacituzumab Govitecan,sacituzumab_govitecan,L5,4,晚期三陰性乳癌、HR+/HER2- 乳癌,藥物誘發性骨質疏鬆症 (drug-induced osteoporosis),99.78%,True,Hold,/drugs/sacituzumab_govitecan/
@@ -146,20 +226,23 @@ Salicylic Acid,salicylic_acid,L5,10,抗皮膚角化劑、殺菌、角質軟化�
 Scopolamine,scopolamine,L5,6,胃腸痙攣、膽管痙攣、尿路痙攣、女性生殖器痙攣,Cauda Equina Syndrome（馬尾症候群）,99.99%,True,Hold,/drugs/scopolamine/
 Silicon Dioxide,silicon_dioxide,L4,4,賦形劑、制酸劑、胃酸過多、氣體吸著劑,Active Peptic Ulcer Disease（活動性消化性潰瘍）,99.93%,True,可進一步探索,/drugs/silicon_dioxide/
 Simoctocog Alfa,simoctocog_alfa,L5,10,治療與預防 A 型血友病（先天性第八凝血因子缺乏）病人的出血,Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病）,99.997%,True,Hold,/drugs/simoctocog_alfa/
-Sodium Carbonate,sodium_carbonate,L5,6,制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑,過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）,0.997（anaphylaxis）,False,Watch,/drugs/sodium_carbonate/
-Sodium Citrate,sodium_citrate,L5,9,抗凝血劑、袪痰劑、促進利尿、制酸,胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis）,0.999（stomach disease）,False,Watch,/drugs/sodium_citrate/
-Sulfamerazine,sulfamerazine,L5,4,磺胺劑、革蘭氏陽性及陰性菌感染症,結膜炎（conjunctivitis）、痛風（gout）,0.990（conjunctivitis）,False,Hold,/drugs/sulfamerazine/
-Sulfamethazine,sulfamethazine,L5,6,磺胺劑、革蘭氏陽性及陰性菌感染症,糖尿病腎病變（diabetic nephropathy）、結膜炎（conjunctivitis）、支氣管炎（bronchitis）,0.998（diabetic nephropathy）,False,Hold,/drugs/sulfamethazine/
+Sodium Acetate,sodium_acetate,L5,10,血液透析藥,先天性凝血酶原缺乏症 (congenital prothrombin deficiency),99.98%,True,Hold,/drugs/sodium_acetate/
+Sodium Carbonate,sodium_carbonate,L4,6,無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分,過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）,0.997（anaphylaxis）,False,Watch,/drugs/sodium_carbonate/
+Sodium Citrate,sodium_citrate,L3,9,抗凝血劑、袪痰劑、促進利尿、制酸,胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis）,0.999（stomach disease）,False,Watch,/drugs/sodium_citrate/
+Sotatercept,sotatercept,L5,10,特發性或遺傳性肺動脈高壓,急性淋巴母細胞白血病 (acute lymphoblastic leukemia),99.78%,True,Hold,/drugs/sotatercept/
+Sulfamerazine,sulfamerazine,L4,4,磺胺劑、革蘭氏陽性及陰性菌感染症,結膜炎（conjunctivitis）、痛風（gout）,0.990（conjunctivitis）,False,Hold,/drugs/sulfamerazine/
+Sulfamethazine,sulfamethazine,L4,6,磺胺劑、革蘭氏陽性及陰性菌感染症,糖尿病腎病變（diabetic nephropathy）、結膜炎（conjunctivitis）、支氣管炎（bronchitis）,0.998（diabetic nephropathy）,False,Hold,/drugs/sulfamethazine/
 Tazarotene,tazarotene,L5,3,乾癬及尋常性痤瘡,脂漏性皮膚炎 (Seborrheic Dermatitis),99.79%,True,Hold,/drugs/tazarotene/
 Temozolomide,temozolomide,L1,2,神經膠母細胞瘤（與放射治療同步及輔助治療）,成人星狀細胞瘤 (Adult Astrocytic Tumour),99.36%,True,Go,/drugs/temozolomide/
-Tenofovir Alafenamide,tenofovir_alafenamide,L5,3,,SIV 感染、貓愛滋病、神經發育障礙,,False,,/drugs/tenofovir_alafenamide/
-Terbutaline,terbutaline,L5,3,,阻塞性肺病（COPD）,,False,,/drugs/terbutaline/
-Teriparatide,teriparatide,L5,10,,妊娠相關骨質疏鬆症（PLO）、十二指腸潰瘍、食道疾病,,False,,/drugs/teriparatide/
+Tenofovir Alafenamide,tenofovir_alafenamide,L2,3,,SIV 感染、貓愛滋病、神經發育障礙,,False,,/drugs/tenofovir_alafenamide/
+Terbutaline,terbutaline,L1,3,,阻塞性肺病（COPD）,,False,,/drugs/terbutaline/
+Teriparatide,teriparatide,L2,10,,妊娠相關骨質疏鬆症（PLO）、十二指腸潰瘍、食道疾病,,False,,/drugs/teriparatide/
 Tetrabenazine,tetrabenazine,L5,10,,多囊性腎病第 3 型、腎-肝-胰發育不全、乳乙伯症候群,,False,,/drugs/tetrabenazine/
 Tetryzoline,tetryzoline,L4,2,眼睛刺激、結膜炎、結膜充血,鼻腔疾病 (Nasal Cavity Disease),99.98%,True,Hold,/drugs/tetryzoline/
-Theophylline,theophylline,L5,7,,鼻腔疾病（嗅覺障礙）、阻塞性肺病、氣管疾病、血栓性疾病,,False,,/drugs/theophylline/
-Thiamine,thiamine,L5,4,,甲狀腺亢進、甲狀腺素受體 beta 突變、開角型青光眼,,False,,/drugs/thiamine/
+Theophylline,theophylline,L2,7,,鼻腔疾病（嗅覺障礙）、阻塞性肺病、氣管疾病、血栓性疾病,,False,,/drugs/theophylline/
+Thiamine,thiamine,L2,4,,甲狀腺亢進、甲狀腺素受體 beta 突變、開角型青光眼,,False,,/drugs/thiamine/
 Threonine,threonine,L5,1,營養補充劑、氨基酸補給劑,Gastroparesis（胃輕癱）,99.32%,True,Hold,/drugs/threonine/
+Thyrotropin Alfa,thyrotropin_alfa,L5,10,甲狀腺分化癌（術後放射碘輔助治療）,偏頭痛 (Migraine Disorder),99.98%,True,Hold,/drugs/thyrotropin_alfa/
 Tiaprofenic Acid,tiaprofenic_acid,L5,10,消炎鎮痛,Brachydactyly-Syndactyly Syndrome（首位）,99.99%（最高分）,True,Hold,/drugs/tiaprofenic_acid/
 Timepidium,timepidium,L5,1,胃腸道平滑肌痙攣性疼痛（胃炎、消化性潰瘍、腸炎、膽道疾患、尿路結石、胰臟炎）,失眠症 (insomnia),,False,,/drugs/timepidium/
 Tinidazole,tinidazole,L5,10,陰道滴蟲症、阿米巴症、梨形鞭毛蟲症,停經後萎縮性陰道炎、外陰潰瘍、外陰腫瘤、乳房纖維囊腫、AIDS 等,,False,,/drugs/tinidazole/
@@ -168,15 +251,19 @@ Titanium Dioxide,titanium_dioxide,L5,10,外用抗刺激劑,藥物誘發的骨質
 Tizanidine,tizanidine,L5,6,神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣,偏頭痛 (migraine disorder)、伴腦幹預兆偏頭痛、妥瑞氏症等,,False,,/drugs/tizanidine/
 Tofacitinib,tofacitinib,L5,0,類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎、潰瘍性結腸炎、多關節型兒童特發性關節炎,**無**（TxGNN 未預測出符合條件的新適應症）,,False,,/drugs/tofacitinib/
 Tolmetin,tolmetin,L5,10,類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風,肢端中段發育不全、短軀幹發育不良、肌硬化症、假性軟骨發育不全等罕病,,False,,/drugs/tolmetin/
+Tolvaptan,tolvaptan,L1,10,自體顯性多囊性腎臟病（ADPKD，eGFR > 25 mL/min/1.73m²）,多囊性腎臟病第3型合併多囊性肝臟病（PKD3 with/without PLD）,99.99%,True,Proceed with Guardrails,/drugs/tolvaptan/
 Trabectedin,trabectedin,L5,1,無法切除或轉移性脂肪肉瘤/平滑肌肉瘤,女性乳腺癌 (female breast carcinoma),99.73%,True,Proceed with Guardrails,/drugs/trabectedin/
 Tranexamic Acid,tranexamic_acid,L5,1,全身及局部出血或出血性疾病,閉經 (amenorrhea),99.19%,True,Needs Further Investigation,/drugs/tranexamic_acid/
 Trastuzumab Deruxtecan,trastuzumab_deruxtecan,L5,1,HER2 陽性乳癌、非小細胞肺癌、胃癌、實體腫瘤,藥物誘發性骨質疏鬆 (drug-induced osteoporosis),99.31%,True,Not Recommended,/drugs/trastuzumab_deruxtecan/
 Travoprost,travoprost,L5,3,降低隅角開放性青光眼、慢性隅角閉鎖性青光眼患者的眼壓,內臟鈣化皮炎 (Visceral Calciphylaxis),99.9998%,True,Hold,/drugs/travoprost/
-Treprostinil,treprostinil,L5,10,特發性或遺傳性肺動脈高壓 (WHO functional class III/IV),肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等）,,True,Proceed with Guardrails,/drugs/treprostinil/
-Trifluoperazine,trifluoperazine,L5,1,精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙,躁鬱症躁症期 (manic bipolar affective disorder),99.51%,True,Proceed with Guardrails,/drugs/trifluoperazine/
+Treprostinil,treprostinil,L2,10,特發性或遺傳性肺動脈高壓 (WHO functional class III/IV),肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等）,,True,Proceed with Guardrails,/drugs/treprostinil/
+Triamcinolone,triamcinolone,L4,10,過敏性疾病,黏蛋白性脫髮 (Alopecia Mucinosa),99.99%,True,Hold,/drugs/triamcinolone/
+Trifluoperazine,trifluoperazine,L3,1,精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙,躁鬱症躁症期 (manic bipolar affective disorder),99.51%,True,Proceed with Guardrails,/drugs/trifluoperazine/
 Trihexyphenidyl,trihexyphenidyl,L5,10,,,,False,,/drugs/trihexyphenidyl/
 Tyrosine,tyrosine,L5,10,,,,False,,/drugs/tyrosine/
+Uracil,uracil,L1,10,抗惡性腫瘤劑（單方原料藥，如衛部藥製字第060268號）；與 tegafur 組成複方膠囊（UFT），用於胃癌、大腸癌、乳癌等（如衛署藥輸字第023484號）,大腸腫瘤（Colonic Neoplasm）,99.50%,True,Proceed with Guardrails,/drugs/uracil/
 Urea,urea,L5,0,,,,False,,/drugs/urea/
+Urofollitropin,urofollitropin,L5,10,不排卵不孕症（含多囊性卵巢症）及人工協助生殖技術（IVF、GIFT、ICSI）,偏頭痛 (Migraine Disorder),99.85%,True,Hold,/drugs/urofollitropin/
 Verteporfin,verteporfin,L5,1,,,,False,,/drugs/verteporfin/
 Vigabatrin,vigabatrin,L5,0,抗癲癇之輔助療法,無,N/A,True,無老藥新用候選,/drugs/vigabatrin/
 Vinorelbine,vinorelbine,L3,10,非小細胞肺癌、轉移性乳癌,Ewing 肉瘤 (Ewing sarcoma),99.999%,True,Proceed with Guardrails,/drugs/vinorelbine/
@@ -185,8 +272,9 @@ Vitamin E,vitamin_e,L3,10,習慣性早流產、末梢血行障礙、維生素 E 
 Vonoprazan,vonoprazan,L2,10,糜爛性食道炎、胃潰瘍、十二指腸潰瘍、幽門螺旋桿菌根除輔助,活動性消化性潰瘍 (active peptic ulcer disease),99.97%,True,Strong Proceed,/drugs/vonoprazan/
 Voriconazole,voriconazole,L5,0,侵犯性麴菌症、侵犯性念珠菌感染、足分枝菌/鐮刀菌感染、預防侵入性黴菌感染,無,N/A,True,無老藥新用候選,/drugs/voriconazole/
 Warfarin,warfarin,L5,3,抗凝血劑,Heparin Cofactor 2 Deficiency,99.87%,True,Hold,/drugs/warfarin/
-Warfarin Af,warfarin_af,L5,0,,,,True,標準治療,/drugs/warfarin_af/
-Warfarin Atrial Fibrillation,warfarin_atrial_fibrillation,L5,0,,,,True,標準治療（非老藥新用候選）,/drugs/warfarin_atrial_fibrillation/
+Warfarin Af,warfarin_af,L1,0,,,,True,標準治療,/drugs/warfarin_af/
+Warfarin Atrial Fibrillation,warfarin_atrial_fibrillation,L1,0,,,,True,標準治療（非老藥新用候選）,/drugs/warfarin_atrial_fibrillation/
 Xylitol,xylitol,L5,1,糖尿病代謝異常、醣類補充,腦膜炎球菌感染 (meningococcal infection),99.66%,False,Wait for More Evidence,/drugs/xylitol/
-Xylometazoline,xylometazoline,L5,2,感冒、鼻塞、過敏性鼻炎,鼻腔疾病、急性咽喉炎,99.91% (鼻腔疾病)、99.89% (急性咽喉炎),True,Proceed with Guardrails,/drugs/xylometazoline/
-Zanubrutinib,zanubrutinib,L5,6,被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤,骨髓性白血病 (myeloid leukemia),99.65%,True,Proceed with Guardrails,/drugs/zanubrutinib/
+Xylometazoline,xylometazoline,L3,2,感冒、鼻塞、過敏性鼻炎,鼻腔疾病、急性咽喉炎,99.91% (鼻腔疾病)、99.89% (急性咽喉炎),True,Proceed with Guardrails,/drugs/xylometazoline/
+Zanubrutinib,zanubrutinib,L2,6,被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤,骨髓性白血病 (myeloid leukemia),99.65%,True,Proceed with Guardrails,/drugs/zanubrutinib/
+Zonisamide,zonisamide,L5,10,成人局部癲癇發作（單純性、複雜性、續發型全身性強直-陣攣性發作）之單一或輔助治療,妥瑞症 (Tourette syndrome),99.85%,True,Hold,/drugs/zonisamide/

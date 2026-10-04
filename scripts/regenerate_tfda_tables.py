@@ -82,7 +82,7 @@ def main():
         t1 = replace_tfda(clean_llm_output(base), title, lics, args.data_date)
         body = REVIEW_RE.sub("", t1)
         for r in by_file.get(p.name, []):
-            if r["action"] == "section" or r.get("status") == "superseded":
+            if r["action"] in ("section", "header_level") or r.get("status") == "superseded":
                 continue
             if r["action"] == "correct":
                 olds = [h["replacement"] for h in r.get("history") or [] if h.get("replacement")]

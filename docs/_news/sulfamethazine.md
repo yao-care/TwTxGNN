@@ -25,7 +25,7 @@ permalink: /news/sulfamethazine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 磺胺劑、革蘭氏陽性及陰性菌感染症</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>gout (99.9%)</li>
 <li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>

@@ -32,9 +32,11 @@ def get_evidence_level(content: str) -> str:
     """從 markdown 內容提取最佳證據等級"""
     # v5 格式：從「快速總覽」表格提取
     # | 證據等級 | L1 |
-    v5_match = re.search(r'\|\s*證據等級\s*\|\s*(L[1-5])\s*\|', content)
-    if v5_match:
-        return v5_match.group(1)
+    # 2026-10-04：整格取最高等級（儲存格常帶說明文字，舊式只認純值會落到預設 L5）
+    v5_match = re.search(r'\|\s*證據等級\s*\|([^|\n]*)\|', content)
+    v5_levels = re.findall(r'L([1-5])', v5_match.group(1)) if v5_match else []
+    if v5_levels:
+        return f"L{min(int(l) for l in v5_levels)}"
 
     # v4 格式：從「預測新適應症總覽」表格提取
     table_match = re.search(

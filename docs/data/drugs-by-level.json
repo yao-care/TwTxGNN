@@ -3,8 +3,14 @@
   "source": "TwTxGNN - https://twtxgnn.yao.care/",
   "summary": {
     "L1": {
-      "count": 6,
+      "count": 25,
       "drugs": [
+        {
+          "name": "Alprostadil",
+          "slug": "alprostadil",
+          "decision": "Validated",
+          "indication_count": 10
+        },
         {
           "name": "Anastrozole",
           "slug": "anastrozole",
@@ -12,9 +18,51 @@
           "indication_count": 6
         },
         {
+          "name": "Betamethasone",
+          "slug": "betamethasone",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Busulfan",
+          "slug": "busulfan",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Clomipramine",
+          "slug": "clomipramine",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Cyclandelate",
+          "slug": "cyclandelate",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
           "name": "Docetaxel",
           "slug": "docetaxel",
           "decision": "Proceed",
+          "indication_count": 10
+        },
+        {
+          "name": "Doxorubicin",
+          "slug": "doxorubicin",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Hyaluronic Acid",
+          "slug": "hyaluronic_acid",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Hydrocortisone",
+          "slug": "hydrocortisone",
+          "decision": "Proceed with Guardrails",
           "indication_count": 10
         },
         {
@@ -24,9 +72,27 @@
           "indication_count": 7
         },
         {
+          "name": "Indacaterol",
+          "slug": "indacaterol",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
           "name": "Ipratropium",
           "slug": "ipratropium",
           "decision": "Validate",
+          "indication_count": 10
+        },
+        {
+          "name": "Letrozole",
+          "slug": "letrozole",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Magnesium Sulfate",
+          "slug": "magnesium_sulfate",
+          "decision": "",
           "indication_count": 10
         },
         {
@@ -36,19 +102,85 @@
           "indication_count": 8
         },
         {
+          "name": "Nepafenac",
+          "slug": "nepafenac",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Paclitaxel",
+          "slug": "paclitaxel",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Pemetrexed",
+          "slug": "pemetrexed",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
           "name": "Temozolomide",
           "slug": "temozolomide",
           "decision": "Go",
           "indication_count": 2
+        },
+        {
+          "name": "Terbutaline",
+          "slug": "terbutaline",
+          "decision": "",
+          "indication_count": 3
+        },
+        {
+          "name": "Tolvaptan",
+          "slug": "tolvaptan",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Uracil",
+          "slug": "uracil",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Warfarin Af",
+          "slug": "warfarin_af",
+          "decision": "標準治療",
+          "indication_count": 0
+        },
+        {
+          "name": "Warfarin Atrial Fibrillation",
+          "slug": "warfarin_atrial_fibrillation",
+          "decision": "標準治療（非老藥新用候選）",
+          "indication_count": 0
         }
       ]
     },
     "L2": {
-      "count": 12,
+      "count": 32,
       "drugs": [
         {
           "name": "Acetazolamide",
           "slug": "acetazolamide",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Alpha-Tocopherol Acetate",
+          "slug": "alpha-tocopherol_acetate",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Atezolizumab",
+          "slug": "atezolizumab",
+          "decision": "Proceed",
+          "indication_count": 10
+        },
+        {
+          "name": "Cabazitaxel",
+          "slug": "cabazitaxel",
           "decision": "Proceed with Guardrails",
           "indication_count": 10
         },
@@ -59,9 +191,45 @@
           "indication_count": 10
         },
         {
+          "name": "Cefoperazone",
+          "slug": "cefoperazone",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Dexamethasone",
+          "slug": "dexamethasone",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
           "name": "Dronedarone",
           "slug": "dronedarone",
           "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Emedastine",
+          "slug": "emedastine",
+          "decision": "",
+          "indication_count": 2
+        },
+        {
+          "name": "Everolimus",
+          "slug": "everolimus",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Famotidine",
+          "slug": "famotidine",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Fenoprofen",
+          "slug": "fenoprofen",
+          "decision": "",
           "indication_count": 10
         },
         {
@@ -89,6 +257,24 @@
           "indication_count": 10
         },
         {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Metoprolol",
+          "slug": "metoprolol",
+          "decision": "Explore",
+          "indication_count": 10
+        },
+        {
+          "name": "Moclobemide",
+          "slug": "moclobemide",
+          "decision": "",
+          "indication_count": 2
+        },
+        {
           "name": "Omalizumab",
           "slug": "omalizumab",
           "decision": "Explore",
@@ -99,6 +285,18 @@
           "slug": "oteracil",
           "decision": "Proceed with Guardrails",
           "indication_count": 10
+        },
+        {
+          "name": "Oxytetracycline",
+          "slug": "oxytetracycline",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Pravastatin",
+          "slug": "pravastatin",
+          "decision": "",
+          "indication_count": 9
         },
         {
           "name": "Prednisone",
@@ -113,15 +311,51 @@
           "indication_count": 8
         },
         {
+          "name": "Tenofovir Alafenamide",
+          "slug": "tenofovir_alafenamide",
+          "decision": "",
+          "indication_count": 3
+        },
+        {
+          "name": "Teriparatide",
+          "slug": "teriparatide",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Theophylline",
+          "slug": "theophylline",
+          "decision": "",
+          "indication_count": 7
+        },
+        {
+          "name": "Thiamine",
+          "slug": "thiamine",
+          "decision": "",
+          "indication_count": 4
+        },
+        {
+          "name": "Treprostinil",
+          "slug": "treprostinil",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
           "name": "Vonoprazan",
           "slug": "vonoprazan",
           "decision": "Strong Proceed",
           "indication_count": 10
+        },
+        {
+          "name": "Zanubrutinib",
+          "slug": "zanubrutinib",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 6
         }
       ]
     },
     "L3": {
-      "count": 16,
+      "count": 55,
       "drugs": [
         {
           "name": "Acitretin",
@@ -136,6 +370,24 @@
           "indication_count": 5
         },
         {
+          "name": "Alirocumab",
+          "slug": "alirocumab",
+          "decision": "Consider",
+          "indication_count": 10
+        },
+        {
+          "name": "Allopurinol",
+          "slug": "allopurinol",
+          "decision": "Explore",
+          "indication_count": 10
+        },
+        {
+          "name": "Aluminum Chloride",
+          "slug": "aluminum_chloride",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Aluminum Hydroxide",
           "slug": "aluminum_hydroxide",
           "decision": "Proceed with Caution",
@@ -146,6 +398,72 @@
           "slug": "amcinonide",
           "decision": "Already Approved (原適應症範圍內)",
           "indication_count": 8
+        },
+        {
+          "name": "Anthralin",
+          "slug": "anthralin",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Axitinib",
+          "slug": "axitinib",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Belimumab",
+          "slug": "belimumab",
+          "decision": "Explore",
+          "indication_count": 6
+        },
+        {
+          "name": "Bempedoic Acid",
+          "slug": "bempedoic_acid",
+          "decision": "Go",
+          "indication_count": 10
+        },
+        {
+          "name": "Benzylpenicillin",
+          "slug": "benzylpenicillin",
+          "decision": "Go",
+          "indication_count": 7
+        },
+        {
+          "name": "Brivaracetam",
+          "slug": "brivaracetam",
+          "decision": "Proceed",
+          "indication_count": 10
+        },
+        {
+          "name": "Butenafine",
+          "slug": "butenafine",
+          "decision": "Go",
+          "indication_count": 5
+        },
+        {
+          "name": "Conjugated Estrogens",
+          "slug": "conjugated_estrogens",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Cortisone Acetate",
+          "slug": "cortisone_acetate",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Cytarabine",
+          "slug": "cytarabine",
+          "decision": "",
+          "indication_count": 9
+        },
+        {
+          "name": "Desogestrel",
+          "slug": "desogestrel",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
         },
         {
           "name": "Dorzolamide",
@@ -162,6 +480,36 @@
         {
           "name": "Durvalumab",
           "slug": "durvalumab",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Enfortumab Vedotin",
+          "slug": "enfortumab_vedotin",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Ergometrine",
+          "slug": "ergometrine",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Ethynodiol Diacetate",
+          "slug": "ethynodiol_diacetate",
+          "decision": "",
+          "indication_count": 6
+        },
+        {
+          "name": "Fludarabine",
+          "slug": "fludarabine",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Hexachlorophene",
+          "slug": "hexachlorophene",
           "decision": "Proceed with Guardrails",
           "indication_count": 10
         },
@@ -184,14 +532,110 @@
           "indication_count": 2
         },
         {
-          "name": "Lornoxicam",
-          "slug": "lornoxicam",
+          "name": "Lacosamide",
+          "slug": "lacosamide",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Larotrectinib",
+          "slug": "larotrectinib",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Loteprednol Etabonate",
+          "slug": "loteprednol_etabonate",
           "decision": "",
           "indication_count": 10
         },
         {
+          "name": "Mannitol",
+          "slug": "mannitol",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Methylprednisolone",
+          "slug": "methylprednisolone",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Methylprednisone",
+          "slug": "methylprednisone",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Milrinone",
+          "slug": "milrinone",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Mycophenolate Mofetil",
+          "slug": "mycophenolate_mofetil",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Nebivolol",
+          "slug": "nebivolol",
+          "decision": "",
+          "indication_count": 5
+        },
+        {
+          "name": "Peppermint Oil",
+          "slug": "peppermint_oil",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Pexidartinib",
+          "slug": "pexidartinib",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Pimozide",
+          "slug": "pimozide",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Pitavastatin",
+          "slug": "pitavastatin",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Pitolisant",
+          "slug": "pitolisant",
+          "decision": "",
+          "indication_count": 3
+        },
+        {
+          "name": "Polymyxin B",
+          "slug": "polymyxin_b",
+          "decision": "",
+          "indication_count": 3
+        },
+        {
+          "name": "Potassium Iodide",
+          "slug": "potassium_iodide",
+          "decision": "",
+          "indication_count": 2
+        },
+        {
           "name": "Prednisolone",
           "slug": "prednisolone",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 10
+        },
+        {
+          "name": "Prilocaine",
+          "slug": "prilocaine",
           "decision": "Proceed with Guardrails",
           "indication_count": 10
         },
@@ -208,6 +652,24 @@
           "indication_count": 10
         },
         {
+          "name": "Rifampicin",
+          "slug": "rifampicin",
+          "decision": "Hold（研究問題階段）",
+          "indication_count": 10
+        },
+        {
+          "name": "Sodium Citrate",
+          "slug": "sodium_citrate",
+          "decision": "Watch",
+          "indication_count": 9
+        },
+        {
+          "name": "Trifluoperazine",
+          "slug": "trifluoperazine",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 1
+        },
+        {
           "name": "Vinorelbine",
           "slug": "vinorelbine",
           "decision": "Proceed with Guardrails",
@@ -218,17 +680,35 @@
           "slug": "vitamin_e",
           "decision": "Proceed with Caution",
           "indication_count": 10
+        },
+        {
+          "name": "Xylometazoline",
+          "slug": "xylometazoline",
+          "decision": "Proceed with Guardrails",
+          "indication_count": 2
         }
       ]
     },
     "L4": {
-      "count": 19,
+      "count": 41,
       "drugs": [
         {
           "name": "Acebutolol",
           "slug": "acebutolol",
           "decision": "Hold",
           "indication_count": 2
+        },
+        {
+          "name": "Acyclovir",
+          "slug": "acyclovir",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Alpelisib",
+          "slug": "alpelisib",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Aluminum Oxide",
@@ -243,9 +723,39 @@
           "indication_count": 10
         },
         {
+          "name": "Buprenorphine",
+          "slug": "buprenorphine",
+          "decision": "Consider",
+          "indication_count": 6
+        },
+        {
+          "name": "Camphor",
+          "slug": "camphor",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Cholic Acid",
+          "slug": "cholic_acid",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Cisatracurium",
           "slug": "cisatracurium",
           "decision": "Research Question",
+          "indication_count": 10
+        },
+        {
+          "name": "Cyclizine",
+          "slug": "cyclizine",
+          "decision": "",
+          "indication_count": 9
+        },
+        {
+          "name": "Daptomycin",
+          "slug": "daptomycin",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -255,10 +765,52 @@
           "indication_count": 10
         },
         {
+          "name": "Felodipine",
+          "slug": "felodipine",
+          "decision": "",
+          "indication_count": 7
+        },
+        {
+          "name": "Flucloxacillin",
+          "slug": "flucloxacillin",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Fluticasone",
+          "slug": "fluticasone",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Gemfibrozil",
+          "slug": "gemfibrozil",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Glycerin",
+          "slug": "glycerin",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Hesperidin",
+          "slug": "hesperidin",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Hydroquinone",
           "slug": "hydroquinone",
           "decision": "Hold",
           "indication_count": 4
+        },
+        {
+          "name": "Imatinib",
+          "slug": "imatinib",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Minoxidil",
@@ -267,15 +819,33 @@
           "indication_count": 3
         },
         {
+          "name": "Nitrous Oxide",
+          "slug": "nitrous_oxide",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Nystatin",
           "slug": "nystatin",
           "decision": "Proceed with Guardrails",
           "indication_count": 10
         },
         {
+          "name": "Ouabain",
+          "slug": "ouabain",
+          "decision": "",
+          "indication_count": 10
+        },
+        {
           "name": "Pralatrexate",
           "slug": "pralatrexate",
           "decision": "Research Question",
+          "indication_count": 10
+        },
+        {
+          "name": "Prasugrel",
+          "slug": "prasugrel",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -289,6 +859,12 @@
           "slug": "probenecid",
           "decision": "Hold",
           "indication_count": 3
+        },
+        {
+          "name": "Procaine",
+          "slug": "procaine",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Riluzole",
@@ -327,10 +903,34 @@
           "indication_count": 4
         },
         {
+          "name": "Sodium Carbonate",
+          "slug": "sodium_carbonate",
+          "decision": "Watch",
+          "indication_count": 6
+        },
+        {
+          "name": "Sulfamerazine",
+          "slug": "sulfamerazine",
+          "decision": "Hold",
+          "indication_count": 4
+        },
+        {
+          "name": "Sulfamethazine",
+          "slug": "sulfamethazine",
+          "decision": "Hold",
+          "indication_count": 6
+        },
+        {
           "name": "Tetryzoline",
           "slug": "tetryzoline",
           "decision": "Hold",
           "indication_count": 2
+        },
+        {
+          "name": "Triamcinolone",
+          "slug": "triamcinolone",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Vismodegib",
@@ -341,29 +941,11 @@
       ]
     },
     "L5": {
-      "count": 138,
+      "count": 126,
       "drugs": [
         {
-          "name": "Alirocumab",
-          "slug": "alirocumab",
-          "decision": "Consider",
-          "indication_count": 10
-        },
-        {
-          "name": "Allopurinol",
-          "slug": "allopurinol",
-          "decision": "Explore",
-          "indication_count": 10
-        },
-        {
-          "name": "Alprostadil",
-          "slug": "alprostadil",
-          "decision": "Validated",
-          "indication_count": 10
-        },
-        {
-          "name": "Aluminum Chloride",
-          "slug": "aluminum_chloride",
+          "name": "Alpha-Tocopherol Succinate",
+          "slug": "alpha-tocopherol_succinate",
           "decision": "Hold",
           "indication_count": 10
         },
@@ -374,21 +956,33 @@
           "indication_count": 10
         },
         {
+          "name": "Amylmetacresol",
+          "slug": "amylmetacresol",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Ascorbyl Phosphate",
+          "slug": "ascorbyl_phosphate",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Asfotase Alfa",
+          "slug": "asfotase_alfa",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Aspirin",
           "slug": "aspirin",
           "decision": "Hold",
           "indication_count": 0
         },
         {
-          "name": "Atezolizumab",
-          "slug": "atezolizumab",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
           "name": "Atracurium Besylate",
           "slug": "atracurium_besylate",
-          "decision": "",
+          "decision": "Hold（2026-10-03 重審調整）",
           "indication_count": 10
         },
         {
@@ -398,28 +992,10 @@
           "indication_count": 10
         },
         {
-          "name": "Belimumab",
-          "slug": "belimumab",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Bempedoic Acid",
-          "slug": "bempedoic_acid",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
           "name": "Benazepril",
           "slug": "benazepril",
-          "decision": "",
+          "decision": "Hold",
           "indication_count": 5
-        },
-        {
-          "name": "Benzylpenicillin",
-          "slug": "benzylpenicillin",
-          "decision": "",
-          "indication_count": 7
         },
         {
           "name": "Berberine",
@@ -430,37 +1006,19 @@
         {
           "name": "Bevacizumab",
           "slug": "bevacizumab",
-          "decision": "",
+          "decision": "Hold（2026-10-03 重審撤回此推論）",
           "indication_count": 10
-        },
-        {
-          "name": "Brivaracetam",
-          "slug": "brivaracetam",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Buprenorphine",
-          "slug": "buprenorphine",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Butenafine",
-          "slug": "butenafine",
-          "decision": "",
-          "indication_count": 5
         },
         {
           "name": "Caplacizumab",
           "slug": "caplacizumab",
-          "decision": "",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
           "name": "Carbenoxolone",
           "slug": "carbenoxolone",
-          "decision": "",
+          "decision": "Hold",
           "indication_count": 7
         },
         {
@@ -500,6 +1058,18 @@
           "indication_count": 0
         },
         {
+          "name": "Chlorobutanol",
+          "slug": "chlorobutanol",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Choline Salicylate",
+          "slug": "choline_salicylate",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Cladribine",
           "slug": "cladribine",
           "decision": "",
@@ -512,28 +1082,16 @@
           "indication_count": 10
         },
         {
-          "name": "Clomipramine",
-          "slug": "clomipramine",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
           "name": "Cobicistat",
           "slug": "cobicistat",
           "decision": "",
           "indication_count": 3
         },
         {
-          "name": "Cyclizine",
-          "slug": "cyclizine",
-          "decision": "",
-          "indication_count": 9
-        },
-        {
-          "name": "Cytarabine",
-          "slug": "cytarabine",
-          "decision": "",
-          "indication_count": 9
+          "name": "Cromoglicic Acid",
+          "slug": "cromoglicic_acid",
+          "decision": "**Research Question**（2 項）／Hold（8 項）",
+          "indication_count": 10
         },
         {
           "name": "Dehydrocholic Acid",
@@ -572,40 +1130,16 @@
           "indication_count": 10
         },
         {
-          "name": "Emedastine",
-          "slug": "emedastine",
-          "decision": "",
-          "indication_count": 2
+          "name": "Erdafitinib",
+          "slug": "erdafitinib",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Etanercept",
           "slug": "etanercept",
           "decision": "",
           "indication_count": 6
-        },
-        {
-          "name": "Ethynodiol Diacetate",
-          "slug": "ethynodiol_diacetate",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Famotidine",
-          "slug": "famotidine",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Felodipine",
-          "slug": "felodipine",
-          "decision": "",
-          "indication_count": 7
-        },
-        {
-          "name": "Fenoprofen",
-          "slug": "fenoprofen",
-          "decision": "",
-          "indication_count": 10
         },
         {
           "name": "Fenoterol",
@@ -620,9 +1154,27 @@
           "indication_count": 5
         },
         {
+          "name": "Fidaxomicin",
+          "slug": "fidaxomicin",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Flunitrazepam",
           "slug": "flunitrazepam",
           "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Fluorescein",
+          "slug": "fluorescein",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Fluorouracil",
+          "slug": "fluorouracil",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -632,9 +1184,27 @@
           "indication_count": 10
         },
         {
+          "name": "Fulvestrant",
+          "slug": "fulvestrant",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Gefitinib",
           "slug": "gefitinib",
           "decision": "",
+          "indication_count": 10
+        },
+        {
+          "name": "Glatiramer",
+          "slug": "glatiramer",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Glycol Salicylate",
+          "slug": "glycol_salicylate",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -644,10 +1214,22 @@
           "indication_count": 5
         },
         {
+          "name": "Guselkumab",
+          "slug": "guselkumab",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Homatropine Methylbromide",
           "slug": "homatropine_methylbromide",
           "decision": "Hold",
           "indication_count": 2
+        },
+        {
+          "name": "Hymecromone",
+          "slug": "hymecromone",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Ibuprofen",
@@ -674,6 +1256,24 @@
           "indication_count": 3
         },
         {
+          "name": "Iohexol",
+          "slug": "iohexol",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Iopromide",
+          "slug": "iopromide",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Ioversol",
+          "slug": "ioversol",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Ipilimumab",
           "slug": "ipilimumab",
           "decision": "",
@@ -690,6 +1290,24 @@
           "slug": "isoleucine",
           "decision": "",
           "indication_count": 1
+        },
+        {
+          "name": "Isosorbide Mononitrate",
+          "slug": "isosorbide_mononitrate",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Ivermectin",
+          "slug": "ivermectin",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Lactic Acid",
+          "slug": "lactic_acid",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Leflunomide",
@@ -710,21 +1328,15 @@
           "indication_count": 10
         },
         {
-          "name": "Loteprednol Etabonate",
-          "slug": "loteprednol_etabonate",
-          "decision": "",
+          "name": "Lutetium Lu 177 Dotatate",
+          "slug": "lutetium_lu_177_dotatate",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
-          "name": "Magnesium Sulfate",
-          "slug": "magnesium_sulfate",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Mannitol",
-          "slug": "mannitol",
-          "decision": "",
+          "name": "Maraviroc",
+          "slug": "maraviroc",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -740,22 +1352,10 @@
           "indication_count": 10
         },
         {
-          "name": "Metoprolol",
-          "slug": "metoprolol",
-          "decision": "Explore",
+          "name": "Mexiletine",
+          "slug": "mexiletine",
+          "decision": "Hold",
           "indication_count": 10
-        },
-        {
-          "name": "Milrinone",
-          "slug": "milrinone",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Moclobemide",
-          "slug": "moclobemide",
-          "decision": "",
-          "indication_count": 2
         },
         {
           "name": "Naphazoline",
@@ -770,21 +1370,15 @@
           "indication_count": 4
         },
         {
-          "name": "Nebivolol",
-          "slug": "nebivolol",
-          "decision": "",
-          "indication_count": 5
-        },
-        {
           "name": "Nefopam",
           "slug": "nefopam",
           "decision": "Hold",
           "indication_count": 10
         },
         {
-          "name": "Nepafenac",
-          "slug": "nepafenac",
-          "decision": "",
+          "name": "Niraparib",
+          "slug": "niraparib",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -794,9 +1388,15 @@
           "indication_count": 10
         },
         {
-          "name": "Ouabain",
-          "slug": "ouabain",
-          "decision": "",
+          "name": "Nitroxoline",
+          "slug": "nitroxoline",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Norethindrone Enanthate",
+          "slug": "norethindrone_enanthate",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -806,21 +1406,27 @@
           "indication_count": 3
         },
         {
-          "name": "Oxytetracycline",
-          "slug": "oxytetracycline",
-          "decision": "",
+          "name": "Palbociclib",
+          "slug": "palbociclib",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
-          "name": "Paclitaxel",
-          "slug": "paclitaxel",
-          "decision": "",
+          "name": "Pancrelipase",
+          "slug": "pancrelipase",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
-          "name": "Pemetrexed",
-          "slug": "pemetrexed",
-          "decision": "",
+          "name": "Pemigatinib",
+          "slug": "pemigatinib",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Penciclovir",
+          "slug": "penciclovir",
+          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -836,28 +1442,10 @@
           "indication_count": 0
         },
         {
-          "name": "Pimozide",
-          "slug": "pimozide",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
           "name": "Pipemidic Acid",
           "slug": "pipemidic_acid",
           "decision": "",
           "indication_count": 10
-        },
-        {
-          "name": "Pitavastatin",
-          "slug": "pitavastatin",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Pitolisant",
-          "slug": "pitolisant",
-          "decision": "",
-          "indication_count": 3
         },
         {
           "name": "Polyethylene Glycol",
@@ -872,22 +1460,10 @@
           "indication_count": 2
         },
         {
-          "name": "Polymyxin B",
-          "slug": "polymyxin_b",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
           "name": "Polysorbate 80",
           "slug": "polysorbate_80",
           "decision": "",
           "indication_count": 1
-        },
-        {
-          "name": "Potassium Iodide",
-          "slug": "potassium_iodide",
-          "decision": "",
-          "indication_count": 2
         },
         {
           "name": "Povidone",
@@ -896,10 +1472,10 @@
           "indication_count": 1
         },
         {
-          "name": "Pravastatin",
-          "slug": "pravastatin",
-          "decision": "",
-          "indication_count": 9
+          "name": "Prucalopride",
+          "slug": "prucalopride",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Raloxifene",
@@ -914,10 +1490,22 @@
           "indication_count": 10
         },
         {
+          "name": "Ravulizumab",
+          "slug": "ravulizumab",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Remdesivir",
           "slug": "remdesivir",
           "decision": "Hold",
           "indication_count": 6
+        },
+        {
+          "name": "Rocuronium",
+          "slug": "rocuronium",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Sacituzumab Govitecan",
@@ -944,28 +1532,16 @@
           "indication_count": 10
         },
         {
-          "name": "Sodium Carbonate",
-          "slug": "sodium_carbonate",
-          "decision": "Watch",
-          "indication_count": 6
-        },
-        {
-          "name": "Sodium Citrate",
-          "slug": "sodium_citrate",
-          "decision": "Watch",
-          "indication_count": 9
-        },
-        {
-          "name": "Sulfamerazine",
-          "slug": "sulfamerazine",
+          "name": "Sodium Acetate",
+          "slug": "sodium_acetate",
           "decision": "Hold",
-          "indication_count": 4
+          "indication_count": 10
         },
         {
-          "name": "Sulfamethazine",
-          "slug": "sulfamethazine",
+          "name": "Sotatercept",
+          "slug": "sotatercept",
           "decision": "Hold",
-          "indication_count": 6
+          "indication_count": 10
         },
         {
           "name": "Tazarotene",
@@ -974,46 +1550,22 @@
           "indication_count": 3
         },
         {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir_alafenamide",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Terbutaline",
-          "slug": "terbutaline",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Teriparatide",
-          "slug": "teriparatide",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
           "name": "Tetrabenazine",
           "slug": "tetrabenazine",
           "decision": "",
           "indication_count": 10
         },
         {
-          "name": "Theophylline",
-          "slug": "theophylline",
-          "decision": "",
-          "indication_count": 7
-        },
-        {
-          "name": "Thiamine",
-          "slug": "thiamine",
-          "decision": "",
-          "indication_count": 4
-        },
-        {
           "name": "Threonine",
           "slug": "threonine",
           "decision": "Hold",
           "indication_count": 1
+        },
+        {
+          "name": "Thyrotropin Alfa",
+          "slug": "thyrotropin_alfa",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Tiaprofenic Acid",
@@ -1088,18 +1640,6 @@
           "indication_count": 3
         },
         {
-          "name": "Treprostinil",
-          "slug": "treprostinil",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Trifluoperazine",
-          "slug": "trifluoperazine",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 1
-        },
-        {
           "name": "Trihexyphenidyl",
           "slug": "trihexyphenidyl",
           "decision": "",
@@ -1116,6 +1656,12 @@
           "slug": "urea",
           "decision": "",
           "indication_count": 0
+        },
+        {
+          "name": "Urofollitropin",
+          "slug": "urofollitropin",
+          "decision": "Hold",
+          "indication_count": 10
         },
         {
           "name": "Verteporfin",
@@ -1142,34 +1688,16 @@
           "indication_count": 3
         },
         {
-          "name": "Warfarin Af",
-          "slug": "warfarin_af",
-          "decision": "標準治療",
-          "indication_count": 0
-        },
-        {
-          "name": "Warfarin Atrial Fibrillation",
-          "slug": "warfarin_atrial_fibrillation",
-          "decision": "標準治療（非老藥新用候選）",
-          "indication_count": 0
-        },
-        {
           "name": "Xylitol",
           "slug": "xylitol",
           "decision": "Wait for More Evidence",
           "indication_count": 1
         },
         {
-          "name": "Xylometazoline",
-          "slug": "xylometazoline",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 2
-        },
-        {
-          "name": "Zanubrutinib",
-          "slug": "zanubrutinib",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 6
+          "name": "Zonisamide",
+          "slug": "zonisamide",
+          "decision": "Hold",
+          "indication_count": 10
         }
       ]
     }

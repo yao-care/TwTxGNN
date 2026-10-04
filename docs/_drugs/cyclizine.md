@@ -219,6 +219,7 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 | 2026-10-03 | 對照表「已核准 (蕁麻疹)」「已核准 (偏頭痛)」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1](https://www.medicines.org.uk/emc/product/4318/smpc) |
 | 2026-10-03 | 蕁麻疹、鼻腔疾病、頭痛預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 蕁麻疹、鼻腔疾病、頭痛預測重審結果 | 重審：降級，證據等級 L2–L3→頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5；快速總覽「證據等級」：原「證據等級／L2-L3 (已有臨床使用經驗)」→「證據等級／頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5（2026-10-03 重審降級）」；結論「整體證據等級」：原「整體證據等級／**L2-L3 (已有臨床經驗)**」→「整體證據等級／**L4**（頭痛疾患；其餘三筆 L5，2026-10-03 重審降級）」 | [PubMed：Acute migraine attack therapy: comparison of naproxen sodium and an ergotamine tartrate compound（PMID 3926322）](https://pubmed.ncbi.nlm.nih.gov/3926322/)；[PubMed：Migraine treated with an antihistamine-analgesic combination（PMID 4148490）](https://pubmed.ncbi.nlm.nih.gov/4148490/)；[PubMed：Detection of action, inhibition and augmentation spectra in solar urticaria（PMID 8573923）](https://pubmed.ncbi.nlm.nih.gov/8573923/)；[PubMed：Standard treatment: the role of antihistamines（PMID 11764306）](https://pubmed.ncbi.nlm.nih.gov/11764306/)；[PubMed：Cyclizine anaphylaxis, when administered with propanidid（PMID 5762012）](https://pubmed.ncbi.nlm.nih.gov/5762012/) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

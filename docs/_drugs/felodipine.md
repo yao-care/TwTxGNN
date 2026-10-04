@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Felodipine
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 99
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Felodipine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+證據等級: **L4** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -222,6 +222,7 @@ PubMed 搜尋發現一些間接相關的文獻：
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

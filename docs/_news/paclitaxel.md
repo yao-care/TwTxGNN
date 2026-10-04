@@ -3,7 +3,7 @@ layout: default
 title: "Paclitaxel 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Paclitaxel 的相關健康新聞報導。原適應症：卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌。預測適應症 10 個。"
+description: "Paclitaxel 的相關健康新聞報導。原適應症：卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌。預測適應症 10 個。"
 permalink: /news/paclitaxel/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/paclitaxel/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌</li>
+<li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>female breast carcinoma (100.0%)</li>
 <li>estrogen-receptor negative breast cancer (99.9%)</li>

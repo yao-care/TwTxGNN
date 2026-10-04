@@ -1,6 +1,6 @@
 {
   "generated": "2026-02-19",
-  "total_count": 191,
+  "total_count": 279,
   "source": "TwTxGNN - https://twtxgnn.yao.care/",
   "drugs": [
     {
@@ -40,6 +40,18 @@
       "url": "/drugs/acitretin/"
     },
     {
+      "slug": "acyclovir",
+      "name": "Acyclovir",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染、復發性單純疱疹感染之抑制（衛署藥製字第034583號等口服錠）；外用乳膏與眼藥膏另核准唇疱疹、單純皰疹性角膜炎",
+      "predicted_indication": "點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis)",
+      "txgnn_score": "99.67%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/acyclovir/"
+    },
+    {
       "slug": "alfacalcidol",
       "name": "Alfacalcidol",
       "evidence_level": "L3",
@@ -54,7 +66,7 @@
     {
       "slug": "alirocumab",
       "name": "Alirocumab",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症",
       "predicted_indication": "黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病",
@@ -66,7 +78,7 @@
     {
       "slug": "allopurinol",
       "name": "Allopurinol",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "痛風症、痛風性關節炎、尿酸結石、高尿酸血症",
       "predicted_indication": "肝性紫質症、苯丙胺酸代謝異常",
@@ -76,9 +88,45 @@
       "url": "/drugs/allopurinol/"
     },
     {
+      "slug": "alpelisib",
+      "name": "Alpelisib",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "HR+/HER2-/PIK3CA 突變型局部晚期或轉移性乳癌（內分泌治療後惡化）",
+      "predicted_indication": "肺動脈高壓 (Pulmonary Hypertension)",
+      "txgnn_score": "99.03%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/alpelisib/"
+    },
+    {
+      "slug": "alpha-tocopherol_acetate",
+      "name": "Alpha-Tocopherol Acetate",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "維他命Ｅ缺乏症",
+      "predicted_indication": "糖尿病視網膜病變 (Diabetic Retinopathy)",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/alpha-tocopherol_acetate/"
+    },
+    {
+      "slug": "alpha-tocopherol_succinate",
+      "name": "Alpha-Tocopherol Succinate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "維他命Ｅ缺乏症",
+      "predicted_indication": "藥物誘發性骨質疏鬆症 (Drug-induced Osteoporosis)",
+      "txgnn_score": "99.997%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/alpha-tocopherol_succinate/"
+    },
+    {
       "slug": "alprostadil",
       "name": "Alprostadil",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "original_indication": "週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持",
       "predicted_indication": "主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損",
@@ -90,7 +138,7 @@
     {
       "slug": "aluminum_chloride",
       "name": "Aluminum Chloride",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "抗多汗、牙齦止血、牙齦收斂",
       "predicted_indication": "脂漏性角化症、脂漏性皮膚炎、痤瘡、皮膚疾病（多汗相關）",
@@ -104,7 +152,7 @@
       "name": "Aluminum Hydroxide",
       "evidence_level": "L3",
       "indication_count": 4,
-      "original_indication": "胃酸過多、胃炎、胃及十二指腸潰瘍",
+      "original_indication": "緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第001706號等）；制酸劑（原料藥）",
       "predicted_indication": "活動性消化性潰瘍 (active peptic ulcer disease)",
       "txgnn_score": "99.64%",
       "taiwan_approved": false,
@@ -148,6 +196,18 @@
       "url": "/drugs/amorolfine/"
     },
     {
+      "slug": "amylmetacresol",
+      "name": "Amylmetacresol",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "口腔殺菌劑、咽喉炎",
+      "predicted_indication": "馬尾症候群 (Cauda Equina Syndrome)",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/amylmetacresol/"
+    },
+    {
       "slug": "anastrozole",
       "name": "Anastrozole",
       "evidence_level": "L1",
@@ -158,6 +218,42 @@
       "taiwan_approved": false,
       "decision": "Already Approved (原適應症範圍內)",
       "url": "/drugs/anastrozole/"
+    },
+    {
+      "slug": "anthralin",
+      "name": "Anthralin",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "牛皮癬",
+      "predicted_indication": "圓禿 (Alopecia Areata)",
+      "txgnn_score": "99.58%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/anthralin/"
+    },
+    {
+      "slug": "ascorbyl_phosphate",
+      "name": "Ascorbyl Phosphate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢",
+      "predicted_indication": "嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)",
+      "txgnn_score": "99.65%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/ascorbyl_phosphate/"
+    },
+    {
+      "slug": "asfotase_alfa",
+      "name": "Asfotase Alfa",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "小兒發作型低磷酸酯酶症（Pediatric-onset HPP）",
+      "predicted_indication": "粒線體氧化磷酸化障礙（Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies）",
+      "txgnn_score": "99.95%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/asfotase_alfa/"
     },
     {
       "slug": "aspirin",
@@ -174,13 +270,13 @@
     {
       "slug": "atezolizumab",
       "name": "Atezolizumab",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "非小細胞肺癌、三陰性乳癌、小細胞肺癌、肝細胞癌、肺泡狀軟組織肉瘤",
+      "predicted_indication": "攝護腺尿道泌尿上皮癌 (prostatic urethra urothelial carcinoma)",
+      "txgnn_score": "99.98%",
+      "taiwan_approved": true,
+      "decision": "Proceed",
       "url": "/drugs/atezolizumab/"
     },
     {
@@ -188,11 +284,11 @@
       "name": "Atracurium Besylate",
       "evidence_level": "L5",
       "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "全身麻醉輔助劑、加護病房鎮靜輔助、氣管插管、人工呼吸器協調",
+      "predicted_indication": "子癇前症 (preeclampsia)",
+      "txgnn_score": "99.97%",
+      "taiwan_approved": true,
+      "decision": "Hold（2026-10-03 重審調整）",
       "url": "/drugs/atracurium_besylate/"
     },
     {
@@ -208,27 +304,39 @@
       "url": "/drugs/avelumab/"
     },
     {
+      "slug": "axitinib",
+      "name": "Axitinib",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "晚期腎細胞癌（接受 sunitinib 或 cytokine 治療失敗後之二線治療）",
+      "predicted_indication": "未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)",
+      "txgnn_score": "99.90%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/axitinib/"
+    },
+    {
       "slug": "belimumab",
       "name": "Belimumab",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 6,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎",
+      "predicted_indication": "血小板原發性釋放障礙 (primary release disorder of platelets)",
+      "txgnn_score": "99.96%",
+      "taiwan_approved": true,
+      "decision": "Explore",
       "url": "/drugs/belimumab/"
     },
     {
       "slug": "bempedoic_acid",
       "name": "Bempedoic Acid",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低",
+      "predicted_indication": "同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)",
+      "txgnn_score": "99.48%",
+      "taiwan_approved": true,
+      "decision": "Go",
       "url": "/drugs/bempedoic_acid/"
     },
     {
@@ -236,23 +344,23 @@
       "name": "Benazepril",
       "evidence_level": "L5",
       "indication_count": 5,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "高血壓",
+      "predicted_indication": "惡性腎血管性高血壓 (malignant renovascular hypertension)",
+      "txgnn_score": "99.65%",
+      "taiwan_approved": true,
+      "decision": "Hold",
       "url": "/drugs/benazepril/"
     },
     {
       "slug": "benzylpenicillin",
       "name": "Benzylpenicillin",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 7,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎",
+      "predicted_indication": "牙冠周炎 (pericoronitis)",
+      "txgnn_score": "99.36%",
+      "taiwan_approved": true,
+      "decision": "Go",
       "url": "/drugs/benzylpenicillin/"
     },
     {
@@ -268,27 +376,39 @@
       "url": "/drugs/berberine/"
     },
     {
+      "slug": "betamethasone",
+      "name": "Betamethasone",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹",
+      "predicted_indication": "圓禿 (Alopecia Areata)",
+      "txgnn_score": "99.97%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/betamethasone/"
+    },
+    {
       "slug": "bevacizumab",
       "name": "Bevacizumab",
       "evidence_level": "L5",
       "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等",
+      "predicted_indication": "會厭腫瘤 (epiglottis neoplasm)",
+      "txgnn_score": "99.90%",
+      "taiwan_approved": true,
+      "decision": "Hold（2026-10-03 重審撤回此推論）",
       "url": "/drugs/bevacizumab/"
     },
     {
       "slug": "brivaracetam",
       "name": "Brivaracetam",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "1個月大以上局部癲癇發作病人的治療",
+      "predicted_indication": "視覺性癲癇 (visual epilepsy)",
+      "txgnn_score": "99.51%",
+      "taiwan_approved": true,
+      "decision": "Proceed",
       "url": "/drugs/brivaracetam/"
     },
     {
@@ -306,37 +426,73 @@
     {
       "slug": "buprenorphine",
       "name": "Buprenorphine",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 6,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "中重度疼痛、鴉片類物質成癮替代療法",
+      "predicted_indication": "急性間歇性紫質症 (acute intermittent porphyria)",
+      "txgnn_score": "99.41%",
+      "taiwan_approved": true,
+      "decision": "Consider",
       "url": "/drugs/buprenorphine/"
+    },
+    {
+      "slug": "busulfan",
+      "name": "Busulfan",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "慢性、亞急性骨髓性白血病",
+      "predicted_indication": "骨髓增生異常症候群 (Myelodysplastic Syndrome)",
+      "txgnn_score": "99.62%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/busulfan/"
     },
     {
       "slug": "butenafine",
       "name": "Butenafine",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 5,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染",
+      "predicted_indication": "皮膚念珠菌病 (cutaneous candidiasis)",
+      "txgnn_score": "99.33%",
+      "taiwan_approved": true,
+      "decision": "Go",
       "url": "/drugs/butenafine/"
+    },
+    {
+      "slug": "cabazitaxel",
+      "name": "Cabazitaxel",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "與 prednisone 或 prednisolone 併用，治療去勢抗性轉移性前列腺癌（已接受過 docetaxel 治療者）",
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)",
+      "txgnn_score": "99.92%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/cabazitaxel/"
+    },
+    {
+      "slug": "camphor",
+      "name": "Camphor",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "燙傷、刀傷、昆蟲咬傷、一般外傷（衛署成製字第003013號）；切傷、刀傷、創傷、火傷、蟲咬傷、頭暈（衛署成製字第013693號）",
+      "predicted_indication": "偏頭痛 (Migraine Disorder)",
+      "txgnn_score": "99.85%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/camphor/"
     },
     {
       "slug": "caplacizumab",
       "name": "Caplacizumab",
       "evidence_level": "L5",
       "indication_count": 10,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用",
+      "predicted_indication": "血小板原發釋放障礙 (primary release disorder of platelets)",
+      "txgnn_score": "99.9998%",
+      "taiwan_approved": true,
+      "decision": "Hold",
       "url": "/drugs/caplacizumab/"
     },
     {
@@ -344,11 +500,11 @@
       "name": "Carbenoxolone",
       "evidence_level": "L5",
       "indication_count": 7,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
+      "original_indication": "胃潰瘍、十二指腸潰瘍、口內炎性潰瘍",
+      "predicted_indication": "非症候群性食道畸形 (non-syndromic esophageal malformation)",
+      "txgnn_score": "99.9988%",
+      "taiwan_approved": true,
+      "decision": "Hold",
       "url": "/drugs/carbenoxolone/"
     },
     {
@@ -356,7 +512,7 @@
       "name": "Carboplatin",
       "evidence_level": "L2",
       "indication_count": 10,
-      "original_indication": "HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等",
+      "original_indication": "卵巢癌（台灣許可證核准適應症）",
       "predicted_indication": "女性乳腺癌 (female breast carcinoma)",
       "txgnn_score": "99.86%",
       "taiwan_approved": true,
@@ -400,11 +556,23 @@
       "url": "/drugs/cefmetazole/"
     },
     {
+      "slug": "cefoperazone",
+      "name": "Cefoperazone",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "廣譜細菌感染（上下呼吸道感染、泌尿道感染、腹膜炎、敗血病等）",
+      "predicted_indication": "肺炎（Pneumonia）",
+      "txgnn_score": "99.93%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/cefoperazone/"
+    },
+    {
       "slug": "cephalexin",
       "name": "Cephalexin",
       "evidence_level": "L5",
       "indication_count": 0,
-      "original_indication": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、泌尿道、皮膚軟組織、骨關節等）",
+      "original_indication": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、生殖泌尿道、皮膚及軟組織等）",
       "predicted_indication": "無",
       "txgnn_score": "無",
       "taiwan_approved": true,
@@ -428,12 +596,48 @@
       "name": "Chloral Hydrate",
       "evidence_level": "L5",
       "indication_count": 0,
-      "original_indication": "催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜",
+      "original_indication": "兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號）",
       "predicted_indication": "無",
       "txgnn_score": "無",
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/chloral_hydrate/"
+    },
+    {
+      "slug": "chlorobutanol",
+      "name": "Chlorobutanol",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "結膜充血、角膜炎、角膜充血",
+      "predicted_indication": "勃起功能障礙 (Erectile Dysfunction)",
+      "txgnn_score": "99.79%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/chlorobutanol/"
+    },
+    {
+      "slug": "cholic_acid",
+      "name": "Cholic Acid",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "單一酵素缺乏造成的先天性膽酸合成障礙；過氧化體代謝異常（含 Zellweger spectrum disorders）之肝病表現、脂肪瀉或脂溶性維生素吸收降低併發症的輔助治療",
+      "predicted_indication": "HIV 感染性疾病 (HIV infectious disease)",
+      "txgnn_score": "99.79%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/cholic_acid/"
+    },
+    {
+      "slug": "choline_salicylate",
+      "name": "Choline Salicylate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "解熱鎮痛劑",
+      "predicted_indication": "Prinzmetal 心絞痛 (Prinzmetal Angina)",
+      "txgnn_score": "99.84%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/choline_salicylate/"
     },
     {
       "slug": "cisatracurium",
@@ -474,7 +678,7 @@
     {
       "slug": "clomipramine",
       "name": "Clomipramine",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "焦慮症 (anxiety disorder)",
@@ -496,9 +700,57 @@
       "url": "/drugs/cobicistat/"
     },
     {
+      "slug": "conjugated_estrogens",
+      "name": "Conjugated Estrogens",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "卵巢機能不全、月經不順、月經困難、機能性子宮出血",
+      "predicted_indication": "偏頭痛（Migraine Disorder）",
+      "txgnn_score": "99.77%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/conjugated_estrogens/"
+    },
+    {
+      "slug": "cortisone_acetate",
+      "name": "Cortisone Acetate",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "腎上腺皮質機能不全症、風濕熱、風濕性關節炎、支氣管氣喘、過敏性濕疹、兒童急性白血病及惡性淋巴腫",
+      "predicted_indication": "圓禿 (Alopecia Areata)",
+      "txgnn_score": "99.95%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/cortisone_acetate/"
+    },
+    {
+      "slug": "cromoglicic_acid",
+      "name": "Cromoglicic Acid",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "過敏性結膜炎、過敏性鼻炎（台灣有效許可證）",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "taiwan_approved": true,
+      "decision": "**Research Question**（2 項）／Hold（8 項）",
+      "url": "/drugs/cromoglicic_acid/"
+    },
+    {
+      "slug": "cyclandelate",
+      "name": "Cyclandelate",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "末梢血管循環障礙",
+      "predicted_indication": "",
+      "txgnn_score": "99.69%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/cyclandelate/"
+    },
+    {
       "slug": "cyclizine",
       "name": "Cyclizine",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 9,
       "original_indication": "",
       "predicted_indication": "過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患",
@@ -510,7 +762,7 @@
     {
       "slug": "cytarabine",
       "name": "Cytarabine",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 9,
       "original_indication": "",
       "predicted_indication": "小細胞肺癌、原發性肺淋巴瘤",
@@ -518,6 +770,18 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/cytarabine/"
+    },
+    {
+      "slug": "daptomycin",
+      "name": "Daptomycin",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "抗生素",
+      "predicted_indication": "骨關節炎 (Osteoarthritis)",
+      "txgnn_score": "99.86%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/daptomycin/"
     },
     {
       "slug": "dehydrocholic_acid",
@@ -548,7 +812,7 @@
       "name": "Deoxycholic Acid",
       "evidence_level": "L5",
       "indication_count": 3,
-      "original_indication": "膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除",
+      "original_indication": "頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀）",
       "predicted_indication": "家族性血尿-視網膜動脈迂曲-攣縮症候群、腦小血管病變、糖尿病腎病",
       "txgnn_score": "",
       "taiwan_approved": false,
@@ -556,11 +820,35 @@
       "url": "/drugs/deoxycholic_acid/"
     },
     {
+      "slug": "desogestrel",
+      "name": "Desogestrel",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "避孕",
+      "predicted_indication": "閉經 (Amenorrhea)",
+      "txgnn_score": "99.96%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/desogestrel/"
+    },
+    {
+      "slug": "dexamethasone",
+      "name": "Dexamethasone",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "過敏症、關節炎、風濕痛",
+      "predicted_indication": "圓禿（Alopecia Areata）",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/dexamethasone/"
+    },
+    {
       "slug": "diosmin",
       "name": "Diosmin",
       "evidence_level": "L5",
       "indication_count": 1,
-      "original_indication": "慢性靜脈功能不全、靜脈曲張、痔瘡、機能性月經過多",
+      "original_indication": "協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解（衛部藥製字第060902號等）；靜脈曲張與痔瘡用藥（原料藥，衛部藥陸輸字第001111號）",
       "predicted_indication": "閉經 (amenorrhea)",
       "txgnn_score": "",
       "taiwan_approved": false,
@@ -596,7 +884,7 @@
       "name": "Dl-Alpha-Tocopherol",
       "evidence_level": "L4",
       "indication_count": 10,
-      "original_indication": "未知",
+      "original_indication": "維他命 E 缺乏症",
       "predicted_indication": "未成熟白內障 (immature cataract)",
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
@@ -608,7 +896,7 @@
       "name": "Docetaxel",
       "evidence_level": "L1",
       "indication_count": 10,
-      "original_indication": "HER2陽性早期乳癌、轉移性乳癌、轉移性胃癌",
+      "original_indication": "乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌",
       "predicted_indication": "女性乳腺癌 (female breast carcinoma)",
       "txgnn_score": "99.90%",
       "taiwan_approved": true,
@@ -626,6 +914,18 @@
       "taiwan_approved": true,
       "decision": "Proceed with Guardrails",
       "url": "/drugs/dorzolamide/"
+    },
+    {
+      "slug": "doxorubicin",
+      "name": "Doxorubicin",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌",
+      "predicted_indication": "Ewing 肉瘤（Ewing Sarcoma）",
+      "txgnn_score": "99.90%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/doxorubicin/"
     },
     {
       "slug": "dronedarone",
@@ -666,7 +966,7 @@
     {
       "slug": "emedastine",
       "name": "Emedastine",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 2,
       "original_indication": "",
       "predicted_indication": "過敏性蕁麻疹、冷蕁麻疹",
@@ -674,6 +974,42 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/emedastine/"
+    },
+    {
+      "slug": "enfortumab_vedotin",
+      "name": "Enfortumab Vedotin",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "局部晚期或轉移性泌尿道上皮癌 (mUC)；與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）",
+      "predicted_indication": "HER2 陽性乳癌 (HER2 Positive Breast Carcinoma)",
+      "txgnn_score": "98.99%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/enfortumab_vedotin/"
+    },
+    {
+      "slug": "erdafitinib",
+      "name": "Erdafitinib",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "局部晚期或轉移性泌尿道上皮癌 (mUC)，需帶有 FGFR3 敏感性基因變異",
+      "predicted_indication": "肺動脈高壓 (Pulmonary Hypertension)",
+      "txgnn_score": "99.38%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/erdafitinib/"
+    },
+    {
+      "slug": "ergometrine",
+      "name": "Ergometrine",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "產後出血、子宮血崩、月經過多",
+      "predicted_indication": "偏頭痛 (Migraine Disorder)",
+      "txgnn_score": "99.93%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/ergometrine/"
     },
     {
       "slug": "etanercept",
@@ -690,7 +1026,7 @@
     {
       "slug": "ethynodiol_diacetate",
       "name": "Ethynodiol Diacetate",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 6,
       "original_indication": "",
       "predicted_indication": "痤瘡(acne)、女性不孕症",
@@ -700,9 +1036,21 @@
       "url": "/drugs/ethynodiol_diacetate/"
     },
     {
+      "slug": "everolimus",
+      "name": "Everolimus",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "original_indication": "器官移植抗排斥藥物、治療腎臟癌藥物",
+      "predicted_indication": "脂肉瘤 (Liposarcoma)",
+      "txgnn_score": "99.88%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/everolimus/"
+    },
+    {
       "slug": "famotidine",
       "name": "Famotidine",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "十二指腸胃逆流、十二指腸阻塞、活動性消化性潰瘍",
@@ -714,7 +1062,7 @@
     {
       "slug": "felodipine",
       "name": "Felodipine",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 7,
       "original_indication": "",
       "predicted_indication": "肺高壓(肺疾病/缺氧相關)、惡性腎血管性高血壓、惡性高血壓性腎病",
@@ -726,7 +1074,7 @@
     {
       "slug": "fenoprofen",
       "name": "Fenoprofen",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "僵直性脊椎炎、假性軟骨發育不全、WHIM 症候群",
@@ -760,6 +1108,42 @@
       "url": "/drugs/ferrous_gluconate/"
     },
     {
+      "slug": "fidaxomicin",
+      "name": "Fidaxomicin",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "困難梭狀桿菌相關腹瀉 (C. difficile-associated diarrhoea, CDAD)",
+      "predicted_indication": "葡萄球菌燙傷樣皮膚症候群 (Staphylococcal Scalded Skin Syndrome)",
+      "txgnn_score": "99.71%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/fidaxomicin/"
+    },
+    {
+      "slug": "flucloxacillin",
+      "name": "Flucloxacillin",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎",
+      "predicted_indication": "結膜炎 (Conjunctivitis)",
+      "txgnn_score": "99.84%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/flucloxacillin/"
+    },
+    {
+      "slug": "fludarabine",
+      "name": "Fludarabine",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL；限烷化基藥劑治療無效或惡化者）（衛署藥輸字第022732號）",
+      "predicted_indication": "漿細胞骨髓瘤 (Plasma Cell Myeloma)",
+      "txgnn_score": "99.82%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/fludarabine/"
+    },
+    {
       "slug": "flunitrazepam",
       "name": "Flunitrazepam",
       "evidence_level": "L5",
@@ -772,6 +1156,42 @@
       "url": "/drugs/flunitrazepam/"
     },
     {
+      "slug": "fluorescein",
+      "name": "Fluorescein",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "診斷試劑",
+      "predicted_indication": "Prinzmetal 心絞痛 (Prinzmetal angina)",
+      "txgnn_score": "99.81%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/fluorescein/"
+    },
+    {
+      "slug": "fluorouracil",
+      "name": "Fluorouracil",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "消化器癌（如胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解；結腸癌、直腸癌、乳癌、胃癌、胰臟癌，以及不可以手術之胃腸道、乳部惡性腫瘤的姑息療法",
+      "predicted_indication": "陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoid-type Embryonal Rhabdomyosarcoma of the Vagina)",
+      "txgnn_score": "99.75%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/fluorouracil/"
+    },
+    {
+      "slug": "fluticasone",
+      "name": "Fluticasone",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "抗炎性皮質固醇（外用）",
+      "predicted_indication": "偏頭痛 (Migraine Disorder)",
+      "txgnn_score": "99.20%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/fluticasone/"
+    },
+    {
       "slug": "fosfomycin",
       "name": "Fosfomycin",
       "evidence_level": "L5",
@@ -782,6 +1202,18 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/fosfomycin/"
+    },
+    {
+      "slug": "fulvestrant",
+      "name": "Fulvestrant",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "荷爾蒙受體陽性局部晚期或轉移性乳癌",
+      "predicted_indication": "HIV infectious disease",
+      "txgnn_score": "99.91%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/fulvestrant/"
     },
     {
       "slug": "gefitinib",
@@ -800,12 +1232,60 @@
       "name": "Gemcitabine",
       "evidence_level": "L2",
       "indication_count": 10,
-      "original_indication": "轉移性大腸直腸癌",
+      "original_indication": "非小細胞肺癌、胰臟癌、膀胱癌、乳癌（與 paclitaxel 併用）、卵巢癌（第二線）、膽道癌",
       "predicted_indication": "女性乳腺癌 (female breast carcinoma)",
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
       "decision": "Proceed with Guardrails",
       "url": "/drugs/gemcitabine/"
+    },
+    {
+      "slug": "gemfibrozil",
+      "name": "Gemfibrozil",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "降血脂劑（高脂血症）",
+      "predicted_indication": "類風濕性關節炎 (Rheumatoid Arthritis)",
+      "txgnn_score": "99.90%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/gemfibrozil/"
+    },
+    {
+      "slug": "glatiramer",
+      "name": "Glatiramer",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率",
+      "predicted_indication": "血紅素病變 (Hemoglobinopathy)",
+      "txgnn_score": "99.03%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/glatiramer/"
+    },
+    {
+      "slug": "glycerin",
+      "name": "Glycerin",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "灌腸料、丸劑、流浸膏等調製賦形劑；緩解便秘",
+      "predicted_indication": "",
+      "txgnn_score": "99.59%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/glycerin/"
+    },
+    {
+      "slug": "glycol_salicylate",
+      "name": "Glycol Salicylate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "暫時緩解局部疼痛（腰痛、肩膀酸痛、關節痛等）",
+      "predicted_indication": "Glanzmann 血小板無力症 (Glanzmann Thrombasthenia)",
+      "txgnn_score": "98.17%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/glycol_salicylate/"
     },
     {
       "slug": "griseofulvin",
@@ -818,6 +1298,42 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/griseofulvin/"
+    },
+    {
+      "slug": "guselkumab",
+      "name": "Guselkumab",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "中度至重度活動性潰瘍性結腸炎及克隆氏症（對傳統或生物製劑治療反應不佳、失去反應或無法耐受者）",
+      "predicted_indication": "藥物性骨質疏鬆 (drug-induced osteoporosis)",
+      "txgnn_score": "99.84%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/guselkumab/"
+    },
+    {
+      "slug": "hesperidin",
+      "name": "Hesperidin",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "強化血管、末梢血管強化劑（hesperidin 單方許可證，皆已註銷，如衛署藥輸字第013726號）；現行有效許可證均為含 hesperidin 的複方（綜合感冒藥等）",
+      "predicted_indication": "骨髓增生性腫瘤 (Myeloproliferative Neoplasm)",
+      "txgnn_score": "99.47%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/hesperidin/"
+    },
+    {
+      "slug": "hexachlorophene",
+      "name": "Hexachlorophene",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "外科擦拭用、供皮膚抑菌使用目的之清潔劑",
+      "predicted_indication": "廣義皮膚病 (Skin Disease)",
+      "txgnn_score": "99.92%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/hexachlorophene/"
     },
     {
       "slug": "homatropine_methylbromide",
@@ -842,6 +1358,30 @@
       "taiwan_approved": false,
       "decision": "Explore",
       "url": "/drugs/human_immunoglobulin_g/"
+    },
+    {
+      "slug": "hyaluronic_acid",
+      "name": "Hyaluronic Acid",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "無台灣許可證登記（國際用途包含眼科黏彈劑、關節腔注射、皮膚填充）",
+      "predicted_indication": "乾眼症 (Dry Eye Syndrome)",
+      "txgnn_score": "99.86%",
+      "taiwan_approved": false,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/hyaluronic_acid/"
+    },
+    {
+      "slug": "hydrocortisone",
+      "name": "Hydrocortisone",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "風濕性關節炎、急性關節風濕、支氣管氣喘、過敏性疾患、慢性潰瘍性大腸炎及局部性腸炎、濕疹樣症候群、蕁麻疹、腎臟疾患等",
+      "predicted_indication": "圓禿 (Alopecia Areata)",
+      "txgnn_score": "99.97%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/hydrocortisone/"
     },
     {
       "slug": "hydroquinone",
@@ -872,12 +1412,24 @@
       "name": "Hydroxyurea",
       "evidence_level": "L2",
       "indication_count": 10,
-      "original_indication": "慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌",
+      "original_indication": "慢性骨髓性白血病、復發／轉移或不可開刀之卵巢癌、併用放射治療之頭頸部鱗狀細胞癌局部控制",
       "predicted_indication": "女性乳腺癌 (female breast carcinoma)",
       "txgnn_score": "99.97%",
       "taiwan_approved": false,
       "decision": "Proceed with Guardrails",
       "url": "/drugs/hydroxyurea/"
+    },
+    {
+      "slug": "hymecromone",
+      "name": "Hymecromone",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "利膽、鎮痙劑（膽石症、膽囊炎、膽道阻礙、膽囊切除後症候群）",
+      "predicted_indication": "糖尿病腎病 (Diabetic Nephropathy)",
+      "txgnn_score": "99.85%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/hymecromone/"
     },
     {
       "slug": "ibuprofen",
@@ -904,6 +1456,18 @@
       "url": "/drugs/icatibant/"
     },
     {
+      "slug": "imatinib",
+      "name": "Imatinib",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "慢性骨髓性白血病（CML）、胃腸道基質瘤（GIST）、Ph+ALL 等多種血液及實體腫瘤",
+      "predicted_indication": "心臟纖維肉瘤（Heart Fibrosarcoma）",
+      "txgnn_score": "99.94%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/imatinib/"
+    },
+    {
       "slug": "inclisiran",
       "name": "Inclisiran",
       "evidence_level": "L5",
@@ -914,6 +1478,18 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/inclisiran/"
+    },
+    {
+      "slug": "indacaterol",
+      "name": "Indacaterol",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "氣喘維持治療（ICS 控制不佳，需合併 LABA/ICS 之成年病人）",
+      "predicted_indication": "支氣管疾病 (Bronchial Disease)",
+      "txgnn_score": "99.18%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/indacaterol/"
     },
     {
       "slug": "inositol",
@@ -947,7 +1523,7 @@
       "original_indication": "反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群",
       "predicted_indication": "Hairy Cell Leukemia",
       "txgnn_score": "99.16%",
-      "taiwan_approved": true,
+      "taiwan_approved": false,
       "decision": "Consider",
       "url": "/drugs/interferon_beta-1b/"
     },
@@ -962,6 +1538,42 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/iodixanol/"
+    },
+    {
+      "slug": "iohexol",
+      "name": "Iohexol",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影",
+      "predicted_indication": "失眠 (insomnia disease)",
+      "txgnn_score": "99.87%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/iohexol/"
+    },
+    {
+      "slug": "iopromide",
+      "name": "Iopromide",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影及心血管造影",
+      "predicted_indication": "骨關節炎易感性 (Osteoarthritis Susceptibility)",
+      "txgnn_score": "99.57%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/iopromide/"
+    },
+    {
+      "slug": "ioversol",
+      "name": "Ioversol",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "心臟血管系統 X 射線攝影（含腦部、冠狀、腎動脈攝影及 CT 顯影增強）",
+      "predicted_indication": "骨關節炎易感性 (Osteoarthritis Susceptibility)",
+      "txgnn_score": "99.67%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/ioversol/"
     },
     {
       "slug": "ipilimumab",
@@ -1024,6 +1636,66 @@
       "url": "/drugs/isosorbide_dinitrate/"
     },
     {
+      "slug": "isosorbide_mononitrate",
+      "name": "Isosorbide Mononitrate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "預防狹心症發作",
+      "predicted_indication": "多毛症 (Hypertrichosis)",
+      "txgnn_score": "99.995%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/isosorbide_mononitrate/"
+    },
+    {
+      "slug": "ivermectin",
+      "name": "Ivermectin",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "驅蟲劑（疥瘡、糞小桿線蟲感染、蟠尾絲蟲感染）",
+      "predicted_indication": "外陰陰道念珠菌病 (Vulvovaginal Candidiasis)",
+      "txgnn_score": "99.95%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/ivermectin/"
+    },
+    {
+      "slug": "lacosamide",
+      "name": "Lacosamide",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "四歲以上局部癲癇發作之單一藥物治療；複雜性局部癲癇發作及次發性全身發作之輔助治療",
+      "predicted_indication": "",
+      "txgnn_score": "99.96%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/lacosamide/"
+    },
+    {
+      "slug": "lactic_acid",
+      "name": "Lactic Acid",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "婦女陰道及陰部之除臭與洗潔、白帶之預防與治療",
+      "predicted_indication": "非典型主動脈縮窄 (Atypical Coarctation of Aorta)",
+      "txgnn_score": "99.59%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/lactic_acid/"
+    },
+    {
+      "slug": "larotrectinib",
+      "name": "Larotrectinib",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "具 NTRK 基因融合之轉移性實體腫瘤（成人及兒童，無後天阻抗性突變）",
+      "predicted_indication": "多發性內分泌腺瘤病（Multiple Endocrine Neoplasia）",
+      "txgnn_score": "99.24%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/larotrectinib/"
+    },
+    {
       "slug": "leflunomide",
       "name": "Leflunomide",
       "evidence_level": "L5",
@@ -1034,6 +1706,18 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/leflunomide/"
+    },
+    {
+      "slug": "letrozole",
+      "name": "Letrozole",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "停經後末期乳癌、局部晚期/轉移性乳癌第一線、荷爾蒙受體陽性初期乳癌輔助治療",
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)",
+      "txgnn_score": "99.98%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/letrozole/"
     },
     {
       "slug": "levamisole",
@@ -1062,7 +1746,7 @@
     {
       "slug": "lornoxicam",
       "name": "Lornoxicam",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "類風濕性關節炎、偏頭痛",
@@ -1074,7 +1758,7 @@
     {
       "slug": "loteprednol_etabonate",
       "name": "Loteprednol Etabonate",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "濾泡性結膜炎、慢性濾泡性結膜炎、漿液性結膜炎、寄生蟲性結膜炎、偽膜性結膜炎、急性出血性結膜炎、酒糟性結膜炎、外耳炎等",
@@ -1084,9 +1768,21 @@
       "url": "/drugs/loteprednol_etabonate/"
     },
     {
+      "slug": "lutetium_lu_177_dotatate",
+      "name": "Lutetium Lu 177 Dotatate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "GEP-NETs（胃腸胰神經內分泌腫瘤）",
+      "predicted_indication": "垂體性侏儒症（Pituitary Dwarfism）",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/lutetium_lu_177_dotatate/"
+    },
+    {
       "slug": "magnesium_sulfate",
       "name": "Magnesium Sulfate",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "",
@@ -1098,7 +1794,7 @@
     {
       "slug": "mannitol",
       "name": "Mannitol",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "腎源性抗利尿不當症候群、惡性高熱、家族性週期性麻痺、低血鉀週期性麻痺、腎源性尿崩症、King-Denborough 症候群等",
@@ -1106,6 +1802,18 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/mannitol/"
+    },
+    {
+      "slug": "maraviroc",
+      "name": "Maraviroc",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "CCR5 趨性 HIV-1 感染（對第一線抗反轉錄病毒藥物無法耐受或治療失敗之成人患者）",
+      "predicted_indication": "多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)",
+      "txgnn_score": "99.82%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/maraviroc/"
     },
     {
       "slug": "methionine",
@@ -1132,9 +1840,33 @@
       "url": "/drugs/methocarbamol/"
     },
     {
+      "slug": "methylprednisolone",
+      "name": "Methylprednisolone",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "抗炎性皮質固醇（風濕性關節炎、氣喘、過敏性疾患）",
+      "predicted_indication": "圓禿症 (Alopecia Areata)",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/methylprednisolone/"
+    },
+    {
+      "slug": "methylprednisone",
+      "name": "Methylprednisone",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "急性病症（氣喘、休克、虛脫、過敏性疾患）",
+      "predicted_indication": "",
+      "txgnn_score": "98.91%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/methylprednisone/"
+    },
+    {
       "slug": "metoprolol",
       "name": "Metoprolol",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "高血壓、狹心症、心室上心律不整",
       "predicted_indication": "惡性高血壓腎病變、慢性肺心病、心肌梗塞",
@@ -1144,9 +1876,21 @@
       "url": "/drugs/metoprolol/"
     },
     {
+      "slug": "mexiletine",
+      "name": "Mexiletine",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "抗心律不整藥（心室性不整律）",
+      "predicted_indication": "多毛症 (Hypertrichosis)",
+      "txgnn_score": "99.78%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/mexiletine/"
+    },
+    {
       "slug": "milrinone",
       "name": "Milrinone",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹、頭痛障礙、充血性心衰竭",
@@ -1170,7 +1914,7 @@
     {
       "slug": "moclobemide",
       "name": "Moclobemide",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 2,
       "original_indication": "",
       "predicted_indication": "廣場恐懼症、良性陣發性斜頸症",
@@ -1178,6 +1922,18 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/moclobemide/"
+    },
+    {
+      "slug": "mycophenolate_mofetil",
+      "name": "Mycophenolate Mofetil",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "預防腎臟、心臟和肝臟移植之急性器官排斥",
+      "predicted_indication": "HIV 感染症 (HIV infectious disease)",
+      "txgnn_score": "99.86%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/mycophenolate_mofetil/"
     },
     {
       "slug": "naftifine",
@@ -1218,7 +1974,7 @@
     {
       "slug": "nebivolol",
       "name": "Nebivolol",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 5,
       "original_indication": "",
       "predicted_indication": "惡性腎血管性高血壓、惡性高血壓性腎病、肺高壓（低氧相關）、Braddock 症候群",
@@ -1242,7 +1998,7 @@
     {
       "slug": "nepafenac",
       "name": "Nepafenac",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "眼科疾病（廣泛眼科應用）",
@@ -1250,6 +2006,18 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/nepafenac/"
+    },
+    {
+      "slug": "niraparib",
+      "name": "Niraparib",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "轉移性去勢療法抗性前列腺癌（mCRPC，需具 BRCA 1/2 突變，與 prednisone/prednisolone 併用）",
+      "predicted_indication": "會厭腫瘤（Epiglottis Neoplasm）",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/niraparib/"
     },
     {
       "slug": "nitrofurantoin",
@@ -1262,6 +2030,42 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/nitrofurantoin/"
+    },
+    {
+      "slug": "nitrous_oxide",
+      "name": "Nitrous Oxide",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "呼入性全身麻醉鎮痛",
+      "predicted_indication": "良性攝護腺增生 (Benign Prostatic Hyperplasia)",
+      "txgnn_score": "99.52%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/nitrous_oxide/"
+    },
+    {
+      "slug": "nitroxoline",
+      "name": "Nitroxoline",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "尿道炎、膀胱炎、腎盂腎炎及其他泌尿道感染症",
+      "predicted_indication": "閉經 (Amenorrhea)",
+      "txgnn_score": "99.74%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/nitroxoline/"
+    },
+    {
+      "slug": "norethindrone_enanthate",
+      "name": "Norethindrone Enanthate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "長效注射型避孕藥（台灣無核准許可證）",
+      "predicted_indication": "第二型抗凝血素缺乏症 (Antithrombin Deficiency Type 2)",
+      "txgnn_score": "98.93%",
+      "taiwan_approved": false,
+      "decision": "Hold",
+      "url": "/drugs/norethindrone_enanthate/"
     },
     {
       "slug": "nystatin",
@@ -1302,7 +2106,7 @@
     {
       "slug": "ouabain",
       "name": "Ouabain",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
       "original_indication": "心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速",
       "predicted_indication": "鐮刀型紅血球貧血 (Sickle cell anemia)、心肌梗塞 (Myocardial infarction)",
@@ -1326,7 +2130,7 @@
     {
       "slug": "oxytetracycline",
       "name": "Oxytetracycline",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "革蘭氏陽性及陰性菌感染症、螺旋菌感染症、立克次體感染症",
       "predicted_indication": "外耳炎 (Otitis externa)",
@@ -1338,9 +2142,9 @@
     {
       "slug": "paclitaxel",
       "name": "Paclitaxel",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
-      "original_indication": "卵巢癌、乳癌、非小細胞肺癌、胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌",
+      "original_indication": "卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌",
       "predicted_indication": "三陰性乳癌、雌激素受體陽性乳癌、荷爾蒙抗性乳癌",
       "txgnn_score": "0.999+",
       "taiwan_approved": false,
@@ -1348,9 +2152,33 @@
       "url": "/drugs/paclitaxel/"
     },
     {
+      "slug": "palbociclib",
+      "name": "Palbociclib",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "HR+/HER2- 局部晚期或轉移性乳癌（合併芳香環轉化酶抑制劑或 fulvestrant）",
+      "predicted_indication": "甲狀腺功能亢進 (Hyperthyroidism)",
+      "txgnn_score": "99.44%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/palbociclib/"
+    },
+    {
+      "slug": "pancrelipase",
+      "name": "Pancrelipase",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "解脂",
+      "predicted_indication": "核DNA異常所致粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/pancrelipase/"
+    },
+    {
       "slug": "pemetrexed",
       "name": "Pemetrexed",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 10,
       "original_indication": "非小細胞肺癌、惡性胸膜間皮瘤",
       "predicted_indication": "惡性腹膜間皮瘤 (Malignant peritoneal mesothelioma)",
@@ -1358,6 +2186,30 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/pemetrexed/"
+    },
+    {
+      "slug": "pemigatinib",
+      "name": "Pemigatinib",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌",
+      "predicted_indication": "多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)",
+      "txgnn_score": "99.71%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/pemigatinib/"
+    },
+    {
+      "slug": "penciclovir",
+      "name": "Penciclovir",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "治療由單純皰疹病毒引起之後發性唇皰疹",
+      "predicted_indication": "肝吸蟲病 (Fascioliasis)",
+      "txgnn_score": "99.06%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/penciclovir/"
     },
     {
       "slug": "pentosan_polysulfate",
@@ -1384,9 +2236,33 @@
       "url": "/drugs/pentoxifylline/"
     },
     {
+      "slug": "peppermint_oil",
+      "name": "Peppermint Oil",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "腳部跌打、腰背痠痛、止痛消腫、外用傷口護理（如意油）",
+      "predicted_indication": "心血管疾病（Cardiovascular Disease）",
+      "txgnn_score": "99.13%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/peppermint_oil/"
+    },
+    {
+      "slug": "pexidartinib",
+      "name": "Pexidartinib",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "症狀性腱鞘巨細胞瘤（TGCT）— 無法透過手術或其他治療改善、具嚴重後遺症或嚴重功能受限的成人病人",
+      "predicted_indication": "HER2 陽性乳癌 (HER2 positive breast carcinoma)",
+      "txgnn_score": "99.98%",
+      "taiwan_approved": false,
+      "decision": "Hold",
+      "url": "/drugs/pexidartinib/"
+    },
+    {
       "slug": "pimozide",
       "name": "Pimozide",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "",
@@ -1410,7 +2286,7 @@
     {
       "slug": "pitavastatin",
       "name": "Pitavastatin",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "",
@@ -1422,7 +2298,7 @@
     {
       "slug": "pitolisant",
       "name": "Pitolisant",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 3,
       "original_indication": "",
       "predicted_indication": "",
@@ -1458,7 +2334,7 @@
     {
       "slug": "polymyxin_b",
       "name": "Polymyxin B",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 3,
       "original_indication": "",
       "predicted_indication": "支氣管炎 (bronchitis)、喉氣管炎、結膜炎",
@@ -1482,7 +2358,7 @@
     {
       "slug": "potassium_iodide",
       "name": "Potassium Iodide",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 2,
       "original_indication": "",
       "predicted_indication": "鼻腔疾病 (nasal cavity disease)、急性喉咽炎",
@@ -1516,9 +2392,21 @@
       "url": "/drugs/pralatrexate/"
     },
     {
+      "slug": "prasugrel",
+      "name": "Prasugrel",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "急性冠狀動脈症候群（ACS）合併冠狀動脈介入性治療（PCI）",
+      "predicted_indication": "肺動脈高壓 (Pulmonary Hypertension)",
+      "txgnn_score": "99.88%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/prasugrel/"
+    },
+    {
       "slug": "pravastatin",
       "name": "Pravastatin",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 9,
       "original_indication": "",
       "predicted_indication": "同合子家族性高膽固醇血症 (hoFH)、HIV感染相關血脂異常",
@@ -1556,12 +2444,24 @@
       "name": "Prednisone",
       "evidence_level": "L2",
       "indication_count": 10,
-      "original_indication": "風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患",
+      "original_indication": "台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 prednisone＋crotamiton 複方軟膏：濕疹或皮膚炎（衛署藥製字第042080號）",
       "predicted_indication": "圓禿症 (Alopecia Areata)",
       "txgnn_score": "99.99%",
       "taiwan_approved": true,
       "decision": "Go",
       "url": "/drugs/prednisone/"
+    },
+    {
+      "slug": "prilocaine",
+      "name": "Prilocaine",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "局部麻醉劑",
+      "predicted_indication": "",
+      "txgnn_score": "99.34%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/prilocaine/"
     },
     {
       "slug": "probenecid",
@@ -1576,6 +2476,18 @@
       "url": "/drugs/probenecid/"
     },
     {
+      "slug": "procaine",
+      "name": "Procaine",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "局部麻醉",
+      "predicted_indication": "高鐵血紅蛋白血症 (Methemoglobinemia)",
+      "txgnn_score": "99.50%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/procaine/"
+    },
+    {
       "slug": "propantheline",
       "name": "Propantheline",
       "evidence_level": "L3",
@@ -1586,6 +2498,18 @@
       "taiwan_approved": true,
       "decision": "Go",
       "url": "/drugs/propantheline/"
+    },
+    {
+      "slug": "prucalopride",
+      "name": "Prucalopride",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "使用瀉劑仍無法達到適當緩解效果之成人慢性便秘",
+      "predicted_indication": "低α脂蛋白血症 (Hypoalphalipoproteinemia)",
+      "txgnn_score": "99.82%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/prucalopride/"
     },
     {
       "slug": "raloxifene",
@@ -1610,6 +2534,18 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/ramucirumab/"
+    },
+    {
+      "slug": "ravulizumab",
+      "name": "Ravulizumab",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "陣發性夜間血紅素尿症、非典型性尿毒溶血症候群、泛視神經脊髓炎",
+      "predicted_indication": "G6PC3 缺乏型常染色體隱性嚴重先天性中性球減少症",
+      "txgnn_score": "99.96%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/ravulizumab/"
     },
     {
       "slug": "regorafenib",
@@ -1648,6 +2584,18 @@
       "url": "/drugs/ribavirin/"
     },
     {
+      "slug": "rifampicin",
+      "name": "Rifampicin",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "original_indication": "結核菌性感染症",
+      "predicted_indication": "結膜炎 (Conjunctivitis)",
+      "txgnn_score": "99.95%",
+      "taiwan_approved": true,
+      "decision": "Hold（研究問題階段）",
+      "url": "/drugs/rifampicin/"
+    },
+    {
       "slug": "riluzole",
       "name": "Riluzole",
       "evidence_level": "L4",
@@ -1670,6 +2618,18 @@
       "taiwan_approved": true,
       "decision": "Proceed with Guardrails",
       "url": "/drugs/ritonavir/"
+    },
+    {
+      "slug": "rocuronium",
+      "name": "Rocuronium",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "全身麻醉的輔佐藥，幫助支氣管內插管、提供手術及快速麻醉誘導時的骨骼肌鬆弛，以及加護病房插管與使用人工呼吸器時",
+      "predicted_indication": "偏頭痛 (Migraine Disorder)",
+      "txgnn_score": "99.90%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/rocuronium/"
     },
     {
       "slug": "ropinirole",
@@ -1768,11 +2728,23 @@
       "url": "/drugs/simoctocog_alfa/"
     },
     {
+      "slug": "sodium_acetate",
+      "name": "Sodium Acetate",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "血液透析藥",
+      "predicted_indication": "先天性凝血酶原缺乏症 (congenital prothrombin deficiency)",
+      "txgnn_score": "99.98%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/sodium_acetate/"
+    },
+    {
       "slug": "sodium_carbonate",
       "name": "Sodium Carbonate",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 6,
-      "original_indication": "制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑",
+      "original_indication": "無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分",
       "predicted_indication": "過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）",
       "txgnn_score": "0.997（anaphylaxis）",
       "taiwan_approved": false,
@@ -1782,7 +2754,7 @@
     {
       "slug": "sodium_citrate",
       "name": "Sodium Citrate",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 9,
       "original_indication": "抗凝血劑、袪痰劑、促進利尿、制酸",
       "predicted_indication": "胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis）",
@@ -1792,9 +2764,21 @@
       "url": "/drugs/sodium_citrate/"
     },
     {
+      "slug": "sotatercept",
+      "name": "Sotatercept",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "特發性或遺傳性肺動脈高壓",
+      "predicted_indication": "急性淋巴母細胞白血病 (acute lymphoblastic leukemia)",
+      "txgnn_score": "99.78%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/sotatercept/"
+    },
+    {
       "slug": "sulfamerazine",
       "name": "Sulfamerazine",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 4,
       "original_indication": "磺胺劑、革蘭氏陽性及陰性菌感染症",
       "predicted_indication": "結膜炎（conjunctivitis）、痛風（gout）",
@@ -1806,7 +2790,7 @@
     {
       "slug": "sulfamethazine",
       "name": "Sulfamethazine",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 6,
       "original_indication": "磺胺劑、革蘭氏陽性及陰性菌感染症",
       "predicted_indication": "糖尿病腎病變（diabetic nephropathy）、結膜炎（conjunctivitis）、支氣管炎（bronchitis）",
@@ -1842,7 +2826,7 @@
     {
       "slug": "tenofovir_alafenamide",
       "name": "Tenofovir Alafenamide",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 3,
       "original_indication": "",
       "predicted_indication": "SIV 感染、貓愛滋病、神經發育障礙",
@@ -1854,7 +2838,7 @@
     {
       "slug": "terbutaline",
       "name": "Terbutaline",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 3,
       "original_indication": "",
       "predicted_indication": "阻塞性肺病（COPD）",
@@ -1866,7 +2850,7 @@
     {
       "slug": "teriparatide",
       "name": "Teriparatide",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "",
       "predicted_indication": "妊娠相關骨質疏鬆症（PLO）、十二指腸潰瘍、食道疾病",
@@ -1902,7 +2886,7 @@
     {
       "slug": "theophylline",
       "name": "Theophylline",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 7,
       "original_indication": "",
       "predicted_indication": "鼻腔疾病（嗅覺障礙）、阻塞性肺病、氣管疾病、血栓性疾病",
@@ -1914,7 +2898,7 @@
     {
       "slug": "thiamine",
       "name": "Thiamine",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 4,
       "original_indication": "",
       "predicted_indication": "甲狀腺亢進、甲狀腺素受體 beta 突變、開角型青光眼",
@@ -1934,6 +2918,18 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/threonine/"
+    },
+    {
+      "slug": "thyrotropin_alfa",
+      "name": "Thyrotropin Alfa",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "甲狀腺分化癌（術後放射碘輔助治療）",
+      "predicted_indication": "偏頭痛 (Migraine Disorder)",
+      "txgnn_score": "99.98%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/thyrotropin_alfa/"
     },
     {
       "slug": "tiaprofenic_acid",
@@ -2032,6 +3028,18 @@
       "url": "/drugs/tolmetin/"
     },
     {
+      "slug": "tolvaptan",
+      "name": "Tolvaptan",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "自體顯性多囊性腎臟病（ADPKD，eGFR > 25 mL/min/1.73m²）",
+      "predicted_indication": "多囊性腎臟病第3型合併多囊性肝臟病（PKD3 with/without PLD）",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/tolvaptan/"
+    },
+    {
       "slug": "trabectedin",
       "name": "Trabectedin",
       "evidence_level": "L5",
@@ -2082,7 +3090,7 @@
     {
       "slug": "treprostinil",
       "name": "Treprostinil",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)",
       "predicted_indication": "肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等）",
@@ -2092,9 +3100,21 @@
       "url": "/drugs/treprostinil/"
     },
     {
+      "slug": "triamcinolone",
+      "name": "Triamcinolone",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "過敏性疾病",
+      "predicted_indication": "黏蛋白性脫髮 (Alopecia Mucinosa)",
+      "txgnn_score": "99.99%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/triamcinolone/"
+    },
+    {
       "slug": "trifluoperazine",
       "name": "Trifluoperazine",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 1,
       "original_indication": "精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙",
       "predicted_indication": "躁鬱症躁症期 (manic bipolar affective disorder)",
@@ -2128,6 +3148,18 @@
       "url": "/drugs/tyrosine/"
     },
     {
+      "slug": "uracil",
+      "name": "Uracil",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "original_indication": "抗惡性腫瘤劑（單方原料藥，如衛部藥製字第060268號）；與 tegafur 組成複方膠囊（UFT），用於胃癌、大腸癌、乳癌等（如衛署藥輸字第023484號）",
+      "predicted_indication": "大腸腫瘤（Colonic Neoplasm）",
+      "txgnn_score": "99.50%",
+      "taiwan_approved": true,
+      "decision": "Proceed with Guardrails",
+      "url": "/drugs/uracil/"
+    },
+    {
       "slug": "urea",
       "name": "Urea",
       "evidence_level": "L5",
@@ -2138,6 +3170,18 @@
       "taiwan_approved": false,
       "decision": "",
       "url": "/drugs/urea/"
+    },
+    {
+      "slug": "urofollitropin",
+      "name": "Urofollitropin",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "不排卵不孕症（含多囊性卵巢症）及人工協助生殖技術（IVF、GIFT、ICSI）",
+      "predicted_indication": "偏頭痛 (Migraine Disorder)",
+      "txgnn_score": "99.85%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/urofollitropin/"
     },
     {
       "slug": "verteporfin",
@@ -2238,7 +3282,7 @@
     {
       "slug": "warfarin_af",
       "name": "Warfarin Af",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 0,
       "original_indication": "",
       "predicted_indication": "",
@@ -2250,7 +3294,7 @@
     {
       "slug": "warfarin_atrial_fibrillation",
       "name": "Warfarin Atrial Fibrillation",
-      "evidence_level": "L5",
+      "evidence_level": "L1",
       "indication_count": 0,
       "original_indication": "",
       "predicted_indication": "",
@@ -2274,7 +3318,7 @@
     {
       "slug": "xylometazoline",
       "name": "Xylometazoline",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 2,
       "original_indication": "感冒、鼻塞、過敏性鼻炎",
       "predicted_indication": "鼻腔疾病、急性咽喉炎",
@@ -2286,7 +3330,7 @@
     {
       "slug": "zanubrutinib",
       "name": "Zanubrutinib",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 6,
       "original_indication": "被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤",
       "predicted_indication": "骨髓性白血病 (myeloid leukemia)",
@@ -2294,6 +3338,18 @@
       "taiwan_approved": true,
       "decision": "Proceed with Guardrails",
       "url": "/drugs/zanubrutinib/"
+    },
+    {
+      "slug": "zonisamide",
+      "name": "Zonisamide",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "成人局部癲癇發作（單純性、複雜性、續發型全身性強直-陣攣性發作）之單一或輔助治療",
+      "predicted_indication": "妥瑞症 (Tourette syndrome)",
+      "txgnn_score": "99.85%",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/zonisamide/"
     }
   ]
 }

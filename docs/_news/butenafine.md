@@ -3,7 +3,7 @@ layout: default
 title: "Butenafine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Butenafine 的相關健康新聞報導。原適應症：。預測適應症 5 個。"
+description: "Butenafine 的相關健康新聞報導。原適應症：指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染。預測適應症 5 個。"
 permalink: /news/butenafine/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/butenafine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（5 個）</strong>:<ul>
 <li>cutaneous candidiasis (99.3%)</li>
 <li>superficial mycosis (99.0%)</li>

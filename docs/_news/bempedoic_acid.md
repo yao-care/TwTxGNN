@@ -3,7 +3,7 @@ layout: default
 title: "Bempedoic acid 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Bempedoic acid 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Bempedoic acid 的相關健康新聞報導。原適應症：原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低。預測適應症 10 個。"
 permalink: /news/bempedoic_acid/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/bempedoic_acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>hyperthyroidism (99.6%)</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.6%)</li>

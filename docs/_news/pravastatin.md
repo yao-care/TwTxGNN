@@ -24,7 +24,7 @@ permalink: /news/pravastatin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (100.0%)</li>
 <li>HIV infectious disease (99.7%)</li>

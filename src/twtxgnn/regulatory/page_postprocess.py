@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import re
 
+from . import page_format as F
 from . import tfda_licenses as T
 
 REVIEW_RE = re.compile(r"<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->", re.S)
@@ -183,12 +184,14 @@ def _count_row(text: str, s: dict) -> str:
 
 def postprocess_with_licenses(text: str, display_name: str, lics: list[dict], data_date: str,
                               slug: str | None = None):
-    """清理 → 程式化許可證表與「許可證數」列 → 套人工查核紀錄 → 改寫其他張數敘述 → 驗證。
+    """清理 → 程式化許可證表與「許可證數」列 → 表格前補空行 → 套人工查核紀錄 → 改寫其他張數敘述
+    → 頁首等級依快速總覽重算 → 驗證。
     回傳 (新內容, 不符字號)。slug 給了才套查核紀錄（docs/_data/drug_reviews.json）。"""
-    new = replace_tfda(clean_llm_output(text), display_name, lics, data_date)
+    new = F.fix_table_spacing(replace_tfda(clean_llm_output(text), display_name, lics, data_date))
     if slug:
         new, _ = _apply_reviews(new, f"{slug}.md")
     new = re.sub(r"\n{3,}", "\n\n", rewrite_count_prose(new, T.summarize(lics)))
+    new = F.sync_header_level(new)  # 頁首等級＝快速總覽證據等級列的最高等級（page_format）
     bad = T.validate_page(new, {x["id"] for x in lics})
     return new, bad
 

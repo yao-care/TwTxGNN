@@ -24,7 +24,7 @@ permalink: /news/cyclizine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>allergic urticaria (100.0%)</li>
 <li>nasal cavity disease (100.0%)</li>

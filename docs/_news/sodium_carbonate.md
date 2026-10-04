@@ -3,7 +3,7 @@ layout: default
 title: "Sodium carbonate 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Sodium carbonate 的相關健康新聞報導。原適應症：制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑。預測適應症 6 個。"
+description: "Sodium carbonate 的相關健康新聞報導。原適應症：無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現...。預測適應症 6 個。"
 permalink: /news/sodium_carbonate/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/sodium_carbonate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>cauda equina syndrome (99.8%)</li>
 <li>anaphylaxis (99.7%)</li>

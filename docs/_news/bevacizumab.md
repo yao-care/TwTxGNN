@@ -3,7 +3,7 @@ layout: default
 title: "Bevacizumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Bevacizumab 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Bevacizumab 的相關健康新聞報導。原適應症：轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等。預測適應症 10 個。"
 permalink: /news/bevacizumab/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/bevacizumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>epiglottis neoplasm (99.9%)</li>

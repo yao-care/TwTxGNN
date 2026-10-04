@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Zanubrutinib
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 288
-evidence_level: L5
+evidence_level: L2
 indication_count: 6
 ---
 
 # Zanubrutinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+證據等級: **L2** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -158,6 +158,7 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | BTK IC50 寫約 20 nM | 更正 | [EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics](https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

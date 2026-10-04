@@ -25,7 +25,7 @@ permalink: /news/allopurinol/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 痛風症、痛風性關節炎、尿酸結石、高尿酸血症</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>hepatic porphyria (100.0%)</li>
 <li>hepatoportal sclerosis (99.9%)</li>

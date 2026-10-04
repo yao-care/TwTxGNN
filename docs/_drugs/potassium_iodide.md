@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Potassium Iodide
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 207
-evidence_level: L5
+evidence_level: L3
 indication_count: 2
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+證據等級: **L3** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -166,6 +166,7 @@ indication_count: 2
 碘化鉀有多項重要藥物交互作用,需特別注意:
 
 **Major (主要) 交互作用**:
+
 | 交互藥物 | 機制/風險 |
 |----------|-----------|
 | ACE抑制劑 (Benazepril, Captopril, Enalapril等) | 增加高血鉀風險 |
@@ -174,6 +175,7 @@ indication_count: 2
 | Trimethoprim | 高血鉀風險 |
 
 **Moderate (中等) 交互作用**:
+
 | 交互藥物 | 機制/風險 |
 |----------|-----------|
 | NSAIDs (Ibuprofen, Diclofenac, Naproxen等) | 可能增加血鉀 |
@@ -231,6 +233,7 @@ indication_count: 2
 | 2026-10-03 | 碘楊酸外用液劑許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原核准適應症」混入複方與已註銷許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 說碘化鉀對孢子絲菌病和接合菌病有已知抗真菌活性 | 加註 | [PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）](https://pubchem.ncbi.nlm.nih.gov/compound/4875) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

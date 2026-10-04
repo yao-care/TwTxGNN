@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Magnesium Sulfate
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 159
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Magnesium Sulfate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -363,6 +363,7 @@ Magnesium sulfate 用於子癇前症/子癇症的文獻極為豐富，為產科�
 | 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 機轉列「降低腦血管痙攣及腦灌流壓」 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

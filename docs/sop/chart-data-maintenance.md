@@ -78,6 +78,8 @@ NCT 數量從 `docs/_drugs/*.md` 藥物頁面中提取，透過正則表達式 `
 
 ## 3. 更新 drug_stats.json
 
+> 2026-10-04 起一律跑 `python3 scripts/generate_drug_stats.py` 從 `docs/_drugs/*.md` 整份重算（等級取頁首 `evidence_level`，NCT 數取頁面上不重複的 NCT 編號）；下面的手動片段只留作說明，不要再用它局部更新。gate（`scripts/check_seo_docs.py` 第 7 項）會擋等級與頁首不一致。
+
 ### 3.1 更新 NCT 數量
 
 當藥物頁面內容更新後，執行以下腳本重新計算 NCT 數量：

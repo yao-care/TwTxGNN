@@ -3,7 +3,7 @@ layout: default
 title: "Brivaracetam 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Brivaracetam 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Brivaracetam 的相關健康新聞報導。原適應症：1個月大以上局部癲癇發作病人的治療。預測適應症 10 個。"
 permalink: /news/brivaracetam/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/brivaracetam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 1個月大以上局部癲癇發作病人的治療</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>visual epilepsy (99.5%)</li>
 <li>status epilepticus (99.4%)</li>

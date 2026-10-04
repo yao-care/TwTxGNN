@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sodium Carbonate
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 239
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
 # Sodium Carbonate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+證據等級: **L4** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -139,6 +139,7 @@ Sodium Carbonate 作為鹼化劑，可調節局部 pH 值。根據 2021 年發�
 |---------|------|------|------|
 | 2026-10-03 | 台灣上市資訊表：sodium carbonate 在所列許可證中是賦形劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症「制酸劑」等取自其他成分 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

@@ -3,7 +3,7 @@ layout: default
 title: "Deoxycholic acid 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Deoxycholic acid 的相關健康新聞報導。原適應症：膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除。預測適應症 3 個。"
+description: "Deoxycholic acid 的相關健康新聞報導。原適應症：頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀）。預測適應症 3 個。"
 permalink: /news/deoxycholic_acid/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/deoxycholic_acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 膽固醇性膽結石溶解、原發性膽道肝硬化、頦下脂肪消除</li>
+<li><strong>原適應症</strong>: 頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.5%)</li>

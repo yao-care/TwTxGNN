@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Warfarin Af
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 284
-evidence_level: L5
+evidence_level: L1
 indication_count: 0
 ---
 
 # Warfarin Af
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+證據等級: **L1** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -153,6 +153,18 @@ Warfarin 用於心房顫動是已確立的適應症，具有充分的臨床試�
 
 如需 Warfarin 其他 TxGNN 預測的新適應症資訊（如 Heparin Cofactor 2 Deficiency），
 請參考 [Warfarin 主要藥師筆記](../warfarin/drug_pharmacist_notes.md)。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

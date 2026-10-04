@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Treprostinil
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 268
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Treprostinil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -74,11 +74,13 @@ Treprostinil 是一種前列環素類似物，其作用機轉支持在各類肺�
 ## 臨床試驗證據
 
 ### 結締組織疾病相關 PAH
+
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | 相關試驗 | Phase 2/3 | COMPLETED | N/A | Treprostinil 可改善 CTD-PAH 患者的運動耐力及血流動力學參數 |
 
 ### 先天性心臟病相關 PAH
+
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | 相關試驗 | Phase 2 | COMPLETED | N/A | 評估 Treprostinil 在艾森曼格症候群患者中的療效 |
@@ -153,6 +155,7 @@ Treprostinil 在結締組織疾病相關肺動脈高壓中已有充分的臨床�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：25 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

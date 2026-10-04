@@ -24,7 +24,7 @@ permalink: /news/polymyxin_b/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>bronchitis (99.9%)</li>
 <li>laryngotracheitis (99.6%)</li>

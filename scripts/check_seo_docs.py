@@ -18,6 +18,7 @@
     6. 藥物頁的許可證字號都屬於該藥（TFDA 快照）、許可證表是程式產生的、張數一致、
        沒有產線開場白與「Evidence Pack」用語；被 superseded 的查核紀錄確認屬於本藥的字號
        （asserted_license_ids）必須都在程式表裡（2026-10-03 補）。
+    7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級；表格前面不缺空行（2026-10-04 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
 
@@ -237,6 +238,43 @@ if _rev.exists():
             if _miss:
                 errors.append(f"{_r['file']}：查核紀錄 {_r['id']} 確認屬於本藥的字號 {sorted(_miss)} 不在程式產生的許可證表裡"
                               "（比對規則漏了同義名？補 config/tfda_synonyms.json 後重跑 scripts/regenerate_tfda_tables.py）")
+
+# 7) 藥物頁格式（2026-10-04 補）：頁首等級（front matter evidence_level、parent、頁首「證據等級」列）
+#    必須等於「快速總覽」證據等級列的最高等級；表格第一列前面必須是空行（否則 kramdown 排成純文字）。
+#    規則與修法都在 src/twtxgnn/regulatory/page_format.py；修法：python3 scripts/regenerate_tfda_tables.py
+from twtxgnn.regulatory import page_format as _F  # noqa: E402
+for md in sorted((DOCS / "_drugs").glob("*.md")):
+    text = md.read_text(encoding="utf-8", errors="replace")
+    for e in _F.header_problems(text):
+        errors.append(f"{md.name}：頁首等級與快速總覽不一致：{e}")
+    for e in _F.table_spacing_problems(text):
+        errors.append(f"{md.name}：{e}")
+# 7b) 吃等級的衍生檔要跟頁首一致（重產頁面後忘了重產衍生檔就擋）
+_fm_level = {}
+for md in (DOCS / "_drugs").glob("*.md"):
+    _m = re.search(r"^evidence_level:[ \t]*(L[1-5])", md.read_text(encoding="utf-8", errors="replace")[:2000], re.M)
+    if _m:
+        _fm_level[md.stem] = _m.group(1)
+_DERIVED = [("_data/drug_stats.json", "all_drugs", "level", "scripts/generate_drug_stats.py"),
+            ("data/drugs.json", "drugs", "evidence_level", "scripts/generate_data_exports.py"),
+            ("downloads/twtxgnn_drugs_summary.json", "drugs", "evidence_level", "scripts/generate_download_data.py"),
+            ("data/search-index.json", "drugs", "level", "scripts/generate_search_index.py --levels-from-pages")]
+def _slug_of(r):
+    if r.get("slug"):
+        return r["slug"]
+    _u = re.match(r"/drugs/([^/]+)/", r.get("url") or "")
+    return _u.group(1) if _u else None
+
+
+for _rel, _key, _fld, _fix in _DERIVED:
+    _f = DOCS / _rel
+    if not _f.exists():
+        continue
+    _rows = {_slug_of(r): r for r in (json.loads(_f.read_text(encoding="utf-8")).get(_key) or [])}
+    _bad = sorted(s for s, r in _rows.items() if s in _fm_level and r.get(_fld) != _fm_level[s])
+    _missing = sorted(set(_fm_level) - set(_rows))
+    if _bad or _missing:
+        errors.append(f"{_rel}：等級與藥物頁頁首不一致 {_bad[:5]}、缺 {_missing[:5]}（跑 {_fix}）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

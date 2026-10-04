@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # 老藥新用，從數據到證據
 
 <p class="key-answer" data-question="什麼是 TwTxGNN 老藥新用驗證報告？">
-<strong>TwTxGNN</strong> 是基於哈佛 TxGNN 模型的老藥新用預測平台。我們用 AI 預測了 <strong>4,889</strong> 個老藥新用候選，並為 <strong>191</strong> 種台灣健保藥物完成臨床證據驗證，提供從預測到證據的完整報告。
+<strong>TwTxGNN</strong> 是基於哈佛 TxGNN 模型的老藥新用預測平台。我們用 AI 預測了 <strong>4,889</strong> 個老藥新用候選，並為 <strong>{{ site.data.drug_stats.total_drugs }}</strong> 種台灣健保藥物完成臨床證據驗證，提供從預測到證據的完整報告。
 </p>
 
 <div class="key-takeaway">
@@ -206,22 +206,27 @@ image: /assets/images/og-default.png
 }
 </style>
 
+{% comment %}等級分布一律由 docs/_data/drug_stats.json 計算（scripts/generate_drug_stats.py 依藥物頁頁首等級產生），不要手寫數字。{% endcomment %}
+{% assign ds = site.data.drug_stats %}{% assign lc = ds.level_counts %}{% assign tot = ds.total_drugs %}
+{% assign c5 = lc.L5 | times: 502.65 | divided_by: tot | round: 1 %}{% assign c4 = lc.L4 | times: 502.65 | divided_by: tot | round: 1 %}{% assign c3 = lc.L3 | times: 502.65 | divided_by: tot | round: 1 %}{% assign c2 = lc.L2 | times: 502.65 | divided_by: tot | round: 1 %}{% assign c1 = lc.L1 | times: 502.65 | divided_by: tot | round: 1 %}
+{% assign o4 = c5 | times: -1 %}{% assign o3 = c5 | plus: c4 | times: -1 %}{% assign o2 = c5 | plus: c4 | plus: c3 | times: -1 %}{% assign o1 = c5 | plus: c4 | plus: c3 | plus: c2 | times: -1 %}
+{% assign p1 = lc.L1 | times: 100.0 | divided_by: tot | round: 1 %}{% assign p2 = lc.L2 | times: 100.0 | divided_by: tot | round: 1 %}{% assign p3 = lc.L3 | times: 100.0 | divided_by: tot | round: 1 %}{% assign p4 = lc.L4 | times: 100.0 | divided_by: tot | round: 1 %}{% assign p5 = lc.L5 | times: 100.0 | divided_by: tot | round: 1 %}
 <div class="chart-container">
   <div class="donut-chart">
     <svg viewBox="0 0 200 200">
-      <!-- L5: 138/191 = 72.3% -->
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="362.7 502.65" stroke-dashoffset="0" onclick="location.href='{{ '/evidence-low' | relative_url }}'"/>
-      <!-- L4: 19/191 = 9.9% -->
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FB8C00" stroke-dasharray="49.7 502.65" stroke-dashoffset="-362.7" onclick="location.href='{{ '/evidence-medium' | relative_url }}'"/>
-      <!-- L3: 16/191 = 8.4% -->
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FDD835" stroke-dasharray="42.1 502.65" stroke-dashoffset="-412.4" onclick="location.href='{{ '/evidence-medium' | relative_url }}'"/>
-      <!-- L2: 12/191 = 6.3% -->
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#66BB6A" stroke-dasharray="31.6 502.65" stroke-dashoffset="-454.5" onclick="location.href='{{ '/evidence-high' | relative_url }}'"/>
-      <!-- L1: 6/191 = 3.1% -->
-      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#2E7D32" stroke-dasharray="15.6 502.65" stroke-dashoffset="-486.1" onclick="location.href='{{ '/evidence-high' | relative_url }}'"/>
+      <!-- L5 -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#9E9E9E" stroke-dasharray="{{ c5 }} 502.65" stroke-dashoffset="0" onclick="location.href='{{ '/evidence-low' | relative_url }}'"/>
+      <!-- L4 -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FB8C00" stroke-dasharray="{{ c4 }} 502.65" stroke-dashoffset="{{ o4 }}" onclick="location.href='{{ '/evidence-medium' | relative_url }}'"/>
+      <!-- L3 -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#FDD835" stroke-dasharray="{{ c3 }} 502.65" stroke-dashoffset="{{ o3 }}" onclick="location.href='{{ '/evidence-medium' | relative_url }}'"/>
+      <!-- L2 -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#66BB6A" stroke-dasharray="{{ c2 }} 502.65" stroke-dashoffset="{{ o2 }}" onclick="location.href='{{ '/evidence-high' | relative_url }}'"/>
+      <!-- L1 -->
+      <circle class="donut-segment" cx="100" cy="100" r="80" stroke="#2E7D32" stroke-dasharray="{{ c1 }} 502.65" stroke-dashoffset="{{ o1 }}" onclick="location.href='{{ '/evidence-high' | relative_url }}'"/>
     </svg>
     <div class="donut-center">
-      <div class="number">191</div>
+      <div class="number">{{ tot }}</div>
       <div class="label">藥物報告</div>
     </div>
   </div>
@@ -230,37 +235,37 @@ image: /assets/images/og-default.png
     <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #2E7D32;"></span>
       <span class="legend-text">L1 多個 Phase 3 RCT</span>
-      <span class="legend-count">6</span>
+      <span class="legend-count">{{ lc.L1 }}</span>
     </a>
     <a href="{{ '/evidence-high' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #66BB6A;"></span>
       <span class="legend-text">L2 單一 RCT / Phase 2</span>
-      <span class="legend-count">12</span>
+      <span class="legend-count">{{ lc.L2 }}</span>
     </a>
     <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #FDD835;"></span>
       <span class="legend-text">L3 觀察性研究</span>
-      <span class="legend-count">16</span>
+      <span class="legend-count">{{ lc.L3 }}</span>
     </a>
     <a href="{{ '/evidence-medium' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #FB8C00;"></span>
       <span class="legend-text">L4 前臨床 / 機轉研究</span>
-      <span class="legend-count">19</span>
+      <span class="legend-count">{{ lc.L4 }}</span>
     </a>
     <a href="{{ '/evidence-low' | relative_url }}" class="legend-item">
       <span class="legend-color" style="background: #9E9E9E;"></span>
       <span class="legend-text">L5 僅模型預測</span>
-      <span class="legend-count">138</span>
+      <span class="legend-count">{{ lc.L5 }}</span>
     </a>
   </div>
 </div>
 
 <div class="evidence-bar">
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: 3.1%" title="L1: 6 個藥物">L1</a>
-  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: 6.3%" title="L2: 12 個藥物">L2</a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: 8.4%" title="L3: 16 個藥物">L3</a>
-  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: 9.9%" title="L4: 19 個藥物">L4</a>
-  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: 72.3%" title="L5: 138 個藥物">L5: 138</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l1" style="width: {{ p1 }}%" title="L1: {{ lc.L1 }} 個藥物">L1</a>
+  <a href="{{ '/evidence-high' | relative_url }}" class="bar-segment l2" style="width: {{ p2 }}%" title="L2: {{ lc.L2 }} 個藥物">L2</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l3" style="width: {{ p3 }}%" title="L3: {{ lc.L3 }} 個藥物">L3</a>
+  <a href="{{ '/evidence-medium' | relative_url }}" class="bar-segment l4" style="width: {{ p4 }}%" title="L4: {{ lc.L4 }} 個藥物">L4</a>
+  <a href="{{ '/evidence-low' | relative_url }}" class="bar-segment l5" style="width: {{ p5 }}%" title="L5: {{ lc.L5 }} 個藥物">L5: {{ lc.L5 }}</a>
 </div>
 
 {% include d3-charts.html %}
@@ -271,10 +276,10 @@ image: /assets/images/og-default.png
 
 | 分類 | 說明 | 連結 |
 |------|------|------|
-| **高證據等級** | L1-L2，可優先評估 | [查看 18 個藥物]({{ '/evidence-high' | relative_url }}) |
-| **中證據等級** | L3-L4，需補充證據 | [查看 35 個藥物]({{ '/evidence-medium' | relative_url }}) |
-| **僅模型預測** | L5，研究方向參考 | [查看 138 個藥物]({{ '/evidence-low' | relative_url }}) |
-| **完整列表** | 所有 191 個藥物（可搜尋篩選） | [藥物列表](${window.TWTXGNN_CONFIG.drugsBaseUrl}) |
+| **高證據等級** | L1-L2，可優先評估 | [查看 {{ lc.L1 | plus: lc.L2 }} 個藥物]({{ '/evidence-high' | relative_url }}) |
+| **中證據等級** | L3-L4，需補充證據 | [查看 {{ lc.L3 | plus: lc.L4 }} 個藥物]({{ '/evidence-medium' | relative_url }}) |
+| **僅模型預測** | L5，研究方向參考 | [查看 {{ lc.L5 }} 個藥物]({{ '/evidence-low' | relative_url }}) |
+| **完整列表** | 所有 {{ tot }} 個藥物（可搜尋篩選） | [藥物列表](${window.TWTXGNN_CONFIG.drugsBaseUrl}) |
 | **藥物交互作用** | 222,391 筆 DDI 資料 | [DDI 專區]({{ '/ddi/' | relative_url }}) |
 | **研究案例** | 教學與案例解讀 | [研究案例]({{ '/blog/' | relative_url }}) |
 | **資料下載** | CSV / JSON 格式 | [下載頁面]({{ '/downloads/' | relative_url }}) |

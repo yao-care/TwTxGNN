@@ -24,7 +24,7 @@ permalink: /news/ethynodiol_diacetate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>acne (disease) (99.6%)</li>
 <li>female infertility (99.3%)</li>

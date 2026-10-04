@@ -25,7 +25,7 @@ permalink: /news/zanubrutinib/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li class="indication-matched">myeloid leukemia (99.7%)<span class="indication-tag">📰 血癌</span></li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.4%)</li>

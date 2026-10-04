@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Butenafine
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 48
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Butenafine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+證據等級: **L3** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,6 +35,7 @@ indication_count: 5
 Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用抗黴菌藥，TxGNN 預測其可能對皮膚念珠菌病(cutaneous candidiasis)有治療潛力。
 
 ## 快速總覽
+
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染 |
@@ -183,6 +184,7 @@ Butenafine 在台灣有眾多品牌：
 |---------|------|------|------|
 | 2026-10-03 | benzylamine 譯成「苯胺類」 | 更正 | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[PubChem：Benzylamine（CID 7504）](https://pubchem.ncbi.nlm.nih.gov/compound/7504)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
 | 2026-10-03 | 文獻摘要中 benzylamine 譯成「苯胺類」 | 更正 | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

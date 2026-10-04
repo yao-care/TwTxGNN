@@ -25,9 +25,9 @@ permalink: /downloads/
 
 | 檔案 | 格式 | 說明 | 下載 |
 |------|------|------|------|
-| 藥物證據摘要 | CSV | 191 個藥物的證據等級與適應症數量 | [下載 CSV]({{ '/downloads/twtxgnn_drugs_summary.csv' | relative_url }}) |
+| 藥物證據摘要 | CSV | {{ site.data.drug_stats.total_drugs }} 個藥物的證據等級與適應症數量 | [下載 CSV]({{ '/downloads/twtxgnn_drugs_summary.csv' | relative_url }}) |
 | 藥物證據摘要 | JSON | 同上，含證據分布統計 | [下載 JSON]({{ '/downloads/twtxgnn_drugs_summary.json' | relative_url }}) |
-| 高證據藥物 | CSV | L1-L2 等級的 18 個藥物 | [下載 CSV]({{ '/downloads/twtxgnn_high_evidence.csv' | relative_url }}) |
+| 高證據藥物 | CSV | L1-L2 等級的 {{ site.data.drug_stats.level_counts.L1 | plus: site.data.drug_stats.level_counts.L2 }} 個藥物 | [下載 CSV]({{ '/downloads/twtxgnn_high_evidence.csv' | relative_url }}) |
 
 ### 完整預測資料
 

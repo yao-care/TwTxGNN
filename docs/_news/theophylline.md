@@ -24,7 +24,7 @@ permalink: /news/theophylline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（11 個）</strong>:<ul>
 <li>鼻內 Theophylline 治療病毒感染後嗅覺喪失的 Phase 2 試驗 (2021.0%)</li>
 <li>Theophylline 對嗅覺神經元再生的作用機轉 (2020.0%)</li>

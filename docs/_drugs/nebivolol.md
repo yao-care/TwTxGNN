@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nebivolol
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 175
-evidence_level: L5
+evidence_level: L3
 indication_count: 5
 ---
 
 # Nebivolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+證據等級: **L3** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -235,6 +235,7 @@ Nebivolol 是第三代 beta 阻斷劑，具有獨特的雙重作用機轉：
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：BYSTOLIC 美國仿單 §12](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

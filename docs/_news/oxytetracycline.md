@@ -25,7 +25,7 @@ permalink: /news/oxytetracycline/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 革蘭氏陽性及陰性菌感染症、螺旋菌感染症、立克次體感染症</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>chronic rhinosinusitis (99.6%)</li>
 <li>chronic ethmoidal sinusitis (99.6%)</li>

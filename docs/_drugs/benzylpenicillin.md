@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Benzylpenicillin
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 40
-evidence_level: L5
+evidence_level: L3
 indication_count: 7
 ---
 
 # Benzylpenicillin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+證據等級: **L3** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,6 +35,7 @@ indication_count: 7
 Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種革蘭氏陽性菌感染，TxGNN 預測其對牙冠周炎有效，此預測獲得充分文獻支持。
 
 ## 快速總覽
+
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎 |
@@ -53,12 +54,14 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌有效，是口腔感染的一線抗生素選擇。
 
 ## 臨床試驗證據
+
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
 | NCT03692819 | NA | 已完成 | 45 | 慢性牙周炎輔助治療中的抗生素 vs 益生菌 |
 | NCT05916742 | NA | 未知 | 75 | 牙齦萎縮治療研究 |
 
 ## 文獻證據
+
 | PMID | 年份 | 標題 | 相關性 |
 |------|------|------|--------|
 | 1873287 | 1991 | British oral and maxillofacial surgeons' views on acute pericoronitis | 直接相關：確認 penicillins 對牙冠周炎有效 |
@@ -120,6 +123,7 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表代表品項「博西林注四十萬單位」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

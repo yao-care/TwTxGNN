@@ -3,7 +3,7 @@ layout: default
 title: "Buprenorphine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Buprenorphine 的相關健康新聞報導。原適應症：。預測適應症 6 個。"
+description: "Buprenorphine 的相關健康新聞報導。原適應症：中重度疼痛、鴉片類物質成癮替代療法。預測適應症 6 個。"
 permalink: /news/buprenorphine/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/buprenorphine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 中重度疼痛、鴉片類物質成癮替代療法</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>acute intermittent porphyria (99.4%)</li>
 <li>lingual-facial-buccal dyskinesia (99.3%)</li>

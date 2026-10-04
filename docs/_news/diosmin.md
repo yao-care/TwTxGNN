@@ -3,7 +3,7 @@ layout: default
 title: "Diosmin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Diosmin 的相關健康新聞報導。原適應症：慢性靜脈功能不全、靜脈曲張、痔瘡、機能性月經過多。預測適應症 1 個。"
+description: "Diosmin 的相關健康新聞報導。原適應症：協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解（衛部藥製字第060902號等）；靜脈曲...。預測適應症 1 個。"
 permalink: /news/diosmin/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/diosmin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 慢性靜脈功能不全、靜脈曲張、痔瘡、機能性月經過多</li>
+<li><strong>原適應症</strong>: 協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解（衛部藥製字第060902號等）；靜脈曲張與痔瘡用藥（原料藥，衛部藥陸輸字第001111號）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>amenorrhea (disease) (99.4%)</li>

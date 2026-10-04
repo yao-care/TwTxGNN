@@ -24,7 +24,7 @@ permalink: /news/famotidine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>duodenogastric reflux (100.0%)</li>
 <li>duodenal obstruction (100.0%)</li>

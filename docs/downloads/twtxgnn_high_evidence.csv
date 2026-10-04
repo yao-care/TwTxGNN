@@ -1,19 +1,58 @@
 drug_name,evidence_level,indication_count,url
 Acetazolamide,L2,10,https://twtxgnn.yao.care/drugs/acetazolamide/
+Alpha-Tocopherol Acetate,L2,10,https://twtxgnn.yao.care/drugs/alpha-tocopherol_acetate/
+Alprostadil,L1,10,https://twtxgnn.yao.care/drugs/alprostadil/
 Anastrozole,L1,6,https://twtxgnn.yao.care/drugs/anastrozole/
+Atezolizumab,L2,10,https://twtxgnn.yao.care/drugs/atezolizumab/
+Betamethasone,L1,10,https://twtxgnn.yao.care/drugs/betamethasone/
+Busulfan,L1,10,https://twtxgnn.yao.care/drugs/busulfan/
+Cabazitaxel,L2,10,https://twtxgnn.yao.care/drugs/cabazitaxel/
 Carboplatin,L2,10,https://twtxgnn.yao.care/drugs/carboplatin/
+Cefoperazone,L2,10,https://twtxgnn.yao.care/drugs/cefoperazone/
+Clomipramine,L1,10,https://twtxgnn.yao.care/drugs/clomipramine/
+Cyclandelate,L1,10,https://twtxgnn.yao.care/drugs/cyclandelate/
+Dexamethasone,L2,10,https://twtxgnn.yao.care/drugs/dexamethasone/
 Docetaxel,L1,10,https://twtxgnn.yao.care/drugs/docetaxel/
+Doxorubicin,L1,10,https://twtxgnn.yao.care/drugs/doxorubicin/
 Dronedarone,L2,10,https://twtxgnn.yao.care/drugs/dronedarone/
+Emedastine,L2,2,https://twtxgnn.yao.care/drugs/emedastine/
+Everolimus,L2,10,https://twtxgnn.yao.care/drugs/everolimus/
+Famotidine,L2,10,https://twtxgnn.yao.care/drugs/famotidine/
+Fenoprofen,L2,10,https://twtxgnn.yao.care/drugs/fenoprofen/
 Gemcitabine,L2,10,https://twtxgnn.yao.care/drugs/gemcitabine/
+Hyaluronic Acid,L1,10,https://twtxgnn.yao.care/drugs/hyaluronic_acid/
+Hydrocortisone,L1,10,https://twtxgnn.yao.care/drugs/hydrocortisone/
 Hydroxyprogesterone Caproate,L2,10,https://twtxgnn.yao.care/drugs/hydroxyprogesterone_caproate/
 Hydroxyurea,L2,10,https://twtxgnn.yao.care/drugs/hydroxyurea/
 Icatibant,L1,7,https://twtxgnn.yao.care/drugs/icatibant/
+Indacaterol,L1,10,https://twtxgnn.yao.care/drugs/indacaterol/
 Ipratropium,L1,10,https://twtxgnn.yao.care/drugs/ipratropium/
 Isosorbide Dinitrate,L2,10,https://twtxgnn.yao.care/drugs/isosorbide_dinitrate/
+Letrozole,L1,10,https://twtxgnn.yao.care/drugs/letrozole/
+Lornoxicam,L2,10,https://twtxgnn.yao.care/drugs/lornoxicam/
+Magnesium Sulfate,L1,10,https://twtxgnn.yao.care/drugs/magnesium_sulfate/
+Metoprolol,L2,10,https://twtxgnn.yao.care/drugs/metoprolol/
+Moclobemide,L2,2,https://twtxgnn.yao.care/drugs/moclobemide/
 Naftifine,L1,8,https://twtxgnn.yao.care/drugs/naftifine/
+Nepafenac,L1,10,https://twtxgnn.yao.care/drugs/nepafenac/
 Omalizumab,L2,10,https://twtxgnn.yao.care/drugs/omalizumab/
 Oteracil,L2,10,https://twtxgnn.yao.care/drugs/oteracil/
+Oxytetracycline,L2,10,https://twtxgnn.yao.care/drugs/oxytetracycline/
+Paclitaxel,L1,10,https://twtxgnn.yao.care/drugs/paclitaxel/
+Pemetrexed,L1,10,https://twtxgnn.yao.care/drugs/pemetrexed/
+Pravastatin,L2,9,https://twtxgnn.yao.care/drugs/pravastatin/
 Prednisone,L2,10,https://twtxgnn.yao.care/drugs/prednisone/
 Regorafenib,L2,8,https://twtxgnn.yao.care/drugs/regorafenib/
 Temozolomide,L1,2,https://twtxgnn.yao.care/drugs/temozolomide/
+Tenofovir Alafenamide,L2,3,https://twtxgnn.yao.care/drugs/tenofovir_alafenamide/
+Terbutaline,L1,3,https://twtxgnn.yao.care/drugs/terbutaline/
+Teriparatide,L2,10,https://twtxgnn.yao.care/drugs/teriparatide/
+Theophylline,L2,7,https://twtxgnn.yao.care/drugs/theophylline/
+Thiamine,L2,4,https://twtxgnn.yao.care/drugs/thiamine/
+Tolvaptan,L1,10,https://twtxgnn.yao.care/drugs/tolvaptan/
+Treprostinil,L2,10,https://twtxgnn.yao.care/drugs/treprostinil/
+Uracil,L1,10,https://twtxgnn.yao.care/drugs/uracil/
 Vonoprazan,L2,10,https://twtxgnn.yao.care/drugs/vonoprazan/
+Warfarin Af,L1,0,https://twtxgnn.yao.care/drugs/warfarin_af/
+Warfarin Atrial Fibrillation,L1,0,https://twtxgnn.yao.care/drugs/warfarin_atrial_fibrillation/
+Zanubrutinib,L2,6,https://twtxgnn.yao.care/drugs/zanubrutinib/

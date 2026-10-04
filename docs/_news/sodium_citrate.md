@@ -25,7 +25,7 @@ permalink: /news/sodium_citrate/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 抗凝血劑、袪痰劑、促進利尿、制酸</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>papillary conjunctivitis (100.0%)</li>
 <li>nasal cavity disease (100.0%)</li>

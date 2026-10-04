@@ -24,7 +24,7 @@ permalink: /news/pitolisant/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>insomnia (disease) (99.7%)</li>
 <li>attention deficit-hyperactivity disorder (99.4%)</li>

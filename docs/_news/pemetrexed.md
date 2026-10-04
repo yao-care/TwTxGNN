@@ -25,7 +25,7 @@ permalink: /news/pemetrexed/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 非小細胞肺癌、惡性胸膜間皮瘤</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>malignant peritoneal mesothelioma (100.0%)</li>
 <li>pleural adenomatoid tumor (100.0%)</li>

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cytarabine
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 74
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 ---
 
 # Cytarabine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+證據等級: **L3** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -224,6 +224,7 @@ Cytarabine 在台灣主要以下列形式使用：
 |---------|------|------|------|
 | 2026-10-03 | 原核准適應症列入「慢性淋巴球性白血病 (CLL)」 | 更正（2026-10-03 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 併用表「CLL 治療｜Venetoclax 併用低劑量 Ara-C」 | 更正 | [DailyMed：VENCLEXTA（venetoclax）美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

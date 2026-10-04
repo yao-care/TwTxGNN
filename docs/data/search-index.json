@@ -208,7 +208,7 @@
       "slug": "alirocumab",
       "brands": [],
       "original": "1. 預防心血管事件：對於已確診心血管疾病的成年病人，Praluent可用於降低心肌梗塞、中風以及需...",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "ichthyosis, X-linked, without steroid sulfatase deficiency",
@@ -267,7 +267,7 @@
       "slug": "allopurinol",
       "brands": [],
       "original": "痛風症、痛風性關節炎、尿酸結石、癌症、或經化學治療產生之高尿酸血症。",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "hepatic porphyria",
@@ -503,7 +503,7 @@
       "slug": "alprostadil",
       "brands": [],
       "original": "週邊動脈阻塞疾病症狀改善。",
-      "level": "L5",
+      "level": "L1",
       "indications": [
         {
           "name": "aortic malformation",
@@ -562,7 +562,7 @@
       "slug": "aluminum_chloride",
       "brands": [],
       "original": "抗多汗。",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "seborrheic keratosis",
@@ -1100,7 +1100,7 @@
       "slug": "atezolizumab",
       "brands": [],
       "original": "適應症：1、非小細胞肺癌：(1)單獨使用，適用於第II至IIIA期(UICC/AJCC分期系統第7版...",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "prostatic urethra urothelial carcinoma",
@@ -1336,7 +1336,7 @@
       "slug": "belimumab",
       "brands": [],
       "original": "1.與標準治療併用，適用於在標準治療下仍存有高疾病活性(如：同時符合anti-dsDNA陽性、低補體...",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "primary release disorder of platelets",
@@ -1375,7 +1375,7 @@
       "slug": "bempedoic_acid",
       "brands": [],
       "original": "１、適用於患有異合子家族性或非家族性之原發性高膽固醇血症、或混合型血脂異常的成人病人，作為飲食的輔助...",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "hyperthyroidism",
@@ -1468,7 +1468,7 @@
       "slug": "benzylpenicillin",
       "brands": [],
       "original": "革蘭氏陰、陽性細菌引起之感染症",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "pericoronitis",
@@ -1689,7 +1689,7 @@
       "slug": "brivaracetam",
       "brands": [],
       "original": "抗癲癇藥",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "visual epilepsy",
@@ -1807,7 +1807,7 @@
       "slug": "buprenorphine",
       "brands": [],
       "original": "需要長期全天性使用類鴉片鎮痛劑之中度至重度癌症疼痛，以及對非類鴉片鎮痛劑無效之重度疼痛。說明：僅限使...",
-      "level": "L5",
+      "level": "L4",
       "indications": [
         {
           "name": "acute intermittent porphyria",
@@ -1905,7 +1905,7 @@
       "slug": "butenafine",
       "brands": [],
       "original": "指(趾)間黴菌病(香港腳)、圓癬(體癬)股癬等皮膚真菌屬黴菌引起之皮膚感染症。",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "cutaneous candidiasis",
@@ -2774,7 +2774,7 @@
       "slug": "clomipramine",
       "brands": [],
       "original": "鬱病、抑鬱狀態",
-      "level": "L5",
+      "level": "L1",
       "indications": [
         {
           "name": "anxiety disorder",
@@ -3093,7 +3093,7 @@
       "slug": "cyclizine",
       "brands": [],
       "original": "偏頭痛及因偏頭痛所引起之噁心、嘔吐、頭暈等症狀之緩解",
-      "level": "L5",
+      "level": "L4",
       "indications": [
         {
           "name": "allergic urticaria",
@@ -3147,7 +3147,7 @@
       "slug": "cytarabine",
       "brands": [],
       "original": "1. 於新確診為FLT3突變陽性的急性骨髓性白血病(AML)成人病人之標準前導(daunorubic...",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "small cell lung carcinoma",
@@ -4025,7 +4025,7 @@
       "slug": "emedastine",
       "brands": [],
       "original": "過敏性結膜炎症狀及徵候的暫時性緩解。",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "allergic urticaria",
@@ -4260,7 +4260,7 @@
       "slug": "ethynodiol_diacetate",
       "brands": [],
       "original": "抑制排卵。",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "acne (disease)",
@@ -4358,7 +4358,7 @@
       "slug": "famotidine",
       "brands": [],
       "original": "住院病人伴隨有病理性胃酸分泌過高之症狀，頑固性（難治的）十二指腸潰瘍，或不能口服之病人消化性潰瘍之短...",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "duodenogastric reflux",
@@ -4417,7 +4417,7 @@
       "slug": "felodipine",
       "brands": [],
       "original": "高血壓、心絞痛。",
-      "level": "L5",
+      "level": "L4",
       "indications": [
         {
           "name": "pulmonary hypertension owing to lung disease and/or hypoxia",
@@ -4461,7 +4461,7 @@
       "slug": "fenoprofen",
       "brands": [],
       "original": "風濕性關節炎、骨關節炎、關節強硬性脊椎炎、急性痛風、非關節風濕病、外傷、手術後傷口、女陰切開術後或子...",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "acromesomelic dysplasia, Hunter-Thompson type",
@@ -7400,7 +7400,7 @@
       "slug": "lornoxicam",
       "brands": [],
       "original": "(1)輕度至中度急性疼痛之短期止痛。(2)退化性關節炎之症狀及徵象緩解。",
-      "level": "L3",
+      "level": "L2",
       "indications": [
         {
           "name": "rheumatoid arthritis",
@@ -7459,7 +7459,7 @@
       "slug": "loteprednol_etabonate",
       "brands": [],
       "original": "眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎，酒渣鼻角膜炎，表淺性點...",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "conjunctival folliculosis",
@@ -7577,7 +7577,7 @@
       "slug": "magnesium_sulfate",
       "brands": [],
       "original": "發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給",
-      "level": "L5",
+      "level": "L1",
       "indications": [
         {
           "name": "preeclampsia/eclampsia",
@@ -7636,7 +7636,7 @@
       "slug": "mannitol",
       "brands": [],
       "original": "腦神經外科手術中、腦容積增大、腦壓亢進、腦腫瘍等之治療與預防",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "nephrogenic syndrome of inappropriate antidiuresis",
@@ -7990,7 +7990,7 @@
       "slug": "metoprolol",
       "brands": [],
       "original": "高血壓、狹心症。",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "malignant hypertensive renal disease",
@@ -8406,7 +8406,7 @@
       "slug": "nebivolol",
       "brands": [],
       "original": "治療原發性高血壓。",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "malignant renovascular hypertension",
@@ -9030,7 +9030,7 @@
       "slug": "ouabain",
       "brands": [],
       "original": "心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速",
-      "level": "L5",
+      "level": "L4",
       "indications": [
         {
           "name": "Prinzmetal angina",
@@ -9113,7 +9113,7 @@
       "slug": "oxytetracycline",
       "brands": [],
       "original": "革蘭氏陽性菌和陰性菌、立克次氏體及大型濾過性病毒引起之感染症",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "chronic rhinosinusitis",
@@ -9172,7 +9172,7 @@
       "slug": "paclitaxel",
       "brands": [],
       "original": "Herceptin應使用於下列HER2過度表現或HER2基因amplification之早期乳癌、轉...",
-      "level": "L5",
+      "level": "L1",
       "indications": [
         {
           "name": "female breast carcinoma",
@@ -9349,7 +9349,7 @@
       "slug": "pemetrexed",
       "brands": [],
       "original": "1.黑色素細胞瘤： 治療無法切除或轉移性黑色素瘤病人。 作為輔助性療法治療患有第IIB或IIC期黑色...",
-      "level": "L5",
+      "level": "L1",
       "indications": [
         {
           "name": "malignant peritoneal mesothelioma",
@@ -9910,7 +9910,7 @@
       "slug": "polymyxin_b",
       "brands": [],
       "original": "傷口感染、皮膚創傷、膿瘍、燒傷、初期膿皮膚病二期感染皮膚痛。",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "bronchitis",
@@ -9948,7 +9948,7 @@
       "slug": "potassium_iodide",
       "brands": [],
       "original": "外科殺菌敷傷用、皮膚殺菌消毒",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "nasal cavity disease",
@@ -10099,7 +10099,7 @@
       "slug": "pravastatin",
       "brands": [],
       "original": "血脂調節劑",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "homozygous familial hypercholesterolemia",
@@ -11496,7 +11496,7 @@
       "slug": "sodium_carbonate",
       "brands": [],
       "original": "ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性...",
-      "level": "L5",
+      "level": "L4",
       "indications": [
         {
           "name": "cauda equina syndrome",
@@ -11535,7 +11535,7 @@
       "slug": "sodium_citrate",
       "brands": [],
       "original": "止咳劑",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "papillary conjunctivitis",
@@ -11648,7 +11648,7 @@
       "slug": "sulfamerazine",
       "brands": [],
       "original": "肺炎球菌、鏈球菌、葡萄球菌、腦膜炎菌感染症",
-      "level": "L5",
+      "level": "L4",
       "indications": [
         {
           "name": "gout",
@@ -11677,7 +11677,7 @@
       "slug": "sulfamethazine",
       "brands": [],
       "original": "細菌性感染症",
-      "level": "L5",
+      "level": "L4",
       "indications": [
         {
           "name": "gout",
@@ -12471,7 +12471,7 @@
       "slug": "tolvaptan",
       "brands": [],
       "original": "適用於自體顯性多囊性腎臟病(ADPKD)且eGFR大於25mL/min/1.73m2之慢性腎臟病成人...",
-      "level": "L5",
+      "level": "L1",
       "indications": [
         {
           "name": "polycystic kidney disease 3 with or without polycystic liver disease",
@@ -12596,7 +12596,7 @@
       "slug": "treprostinil",
       "brands": [],
       "original": "抗凝血劑。",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "pulmonary arteriovenous malformation (disease)",
@@ -12714,7 +12714,7 @@
       "slug": "trifluoperazine",
       "brands": [],
       "original": "意識運動機能亢進引起之急、慢性精神病",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "manic bipolar affective disorder",
@@ -13262,7 +13262,7 @@
       "slug": "warfarin_af",
       "brands": [],
       "original": "",
-      "level": "L5",
+      "level": "L1",
       "indications": []
     },
     {
@@ -13270,7 +13270,7 @@
       "slug": "warfarin_atrial_fibrillation",
       "brands": [],
       "original": "",
-      "level": "L5",
+      "level": "L1",
       "indications": []
     },
     {
@@ -13292,7 +13292,7 @@
       "slug": "xylometazoline",
       "brands": [],
       "original": "一般感冒、鼻塞、流鼻水、打噴嚏、過敏性鼻炎及由過敏引起之鼻充血。",
-      "level": "L5",
+      "level": "L3",
       "indications": [
         {
           "name": "nasal cavity disease",
@@ -13311,7 +13311,7 @@
       "slug": "zanubrutinib",
       "brands": [],
       "original": "1. 適用於先前曾接受至少一種治療的被套細胞淋巴瘤(Mantle Cell Lymphoma, MC...",
-      "level": "L5",
+      "level": "L2",
       "indications": [
         {
           "name": "myeloid leukemia",

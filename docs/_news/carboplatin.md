@@ -3,7 +3,7 @@ layout: default
 title: "Carboplatin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Carboplatin 的相關健康新聞報導。原適應症：HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道...。預測適應症 10 個。"
+description: "Carboplatin 的相關健康新聞報導。原適應症：卵巢癌（台灣許可證核准適應症）。預測適應症 10 個。"
 permalink: /news/carboplatin/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/carboplatin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: HER2 陽性早期乳癌、轉移性乳癌、黑色素瘤、非小細胞肺癌、何杰金氏淋巴瘤、頭頸部鱗狀細胞癌、泌尿道上皮癌等</li>
+<li><strong>原適應症</strong>: 卵巢癌（台灣許可證核准適應症）</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>female breast carcinoma (99.9%)</li>

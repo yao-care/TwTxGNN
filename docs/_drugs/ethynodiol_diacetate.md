@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ethynodiol Diacetate
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 96
-evidence_level: L5
+evidence_level: L3
 indication_count: 6
 ---
 
 # Ethynodiol Diacetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+證據等級: **L3** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -169,6 +169,7 @@ PubMed 搜尋發現多篇相關文獻：
 |---------|------|------|------|
 | 2026-10-03 | 許可證表字號與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「其他上市產品」原料藥字號不符 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

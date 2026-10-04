@@ -3,7 +3,7 @@ layout: default
 title: "DL-alpha-Tocopherol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "DL-alpha-Tocopherol 的相關健康新聞報導。原適應症：未知。預測適應症 10 個。"
+description: "DL-alpha-Tocopherol 的相關健康新聞報導。原適應症：維他命 E 缺乏症。預測適應症 10 個。"
 permalink: /news/dl-alpha-tocopherol/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/dl-alpha-tocopherol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 未知</li>
+<li><strong>原適應症</strong>: 維他命 E 缺乏症</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>immature cataract (100.0%)</li>

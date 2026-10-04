@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Buprenorphine
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 46
-evidence_level: L5
+evidence_level: L4
 indication_count: 6
 ---
 
 # Buprenorphine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **6** 個
+證據等級: **L4** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -35,6 +35,7 @@ indication_count: 6
 Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類成癮替代療法，TxGNN 預測其可能對急性間歇性紫質症(acute intermittent porphyria)有治療潛力。
 
 ## 快速總覽
+
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 中重度疼痛、鴉片類物質成癮替代療法 |
@@ -149,6 +150,7 @@ Buprenorphine 在台灣有多種劑型：
 - 肝功能不全者需調整劑量
 
 ### 藥物交互作用(主要)
+
 | 交互作用藥物 | 嚴重程度 |
 |-------------|---------|
 | Ethanol (酒精) | 重度 |
@@ -182,6 +184,7 @@ Buprenorphine 在台灣有多種劑型：
 |---------|------|------|------|
 | 2026-10-03 | 「速必治舌下錠 (含 naloxone)」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「舒免疼貼片」許可證已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

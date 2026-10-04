@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pemetrexed
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 192
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -222,6 +222,7 @@ Pemetrexed 對惡性間皮瘤 (包括腹膜型) 的預測已獲堅實證據支�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「吉舒達注射劑」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

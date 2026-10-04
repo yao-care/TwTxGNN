@@ -3,7 +3,7 @@ layout: default
 title: "Gemcitabine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Gemcitabine 的相關健康新聞報導。原適應症：轉移性大腸直腸癌。預測適應症 10 個。"
+description: "Gemcitabine 的相關健康新聞報導。原適應症：非小細胞肺癌、胰臟癌、膀胱癌、乳癌（與 paclitaxel 併用）、卵巢癌（第二線）、膽道癌。預測適應症 10 個。"
 permalink: /news/gemcitabine/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/gemcitabine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 轉移性大腸直腸癌</li>
+<li><strong>原適應症</strong>: 非小細胞肺癌、胰臟癌、膀胱癌、乳癌（與 paclitaxel 併用）、卵巢癌（第二線）、膽道癌</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>female breast carcinoma (100.0%)</li>

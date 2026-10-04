@@ -3,7 +3,7 @@ layout: default
 title: "Prednisone 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Prednisone 的相關健康新聞報導。原適應症：風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患。預測適應症 10 個。"
+description: "Prednisone 的相關健康新聞報導。原適應症：台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 predni...。預測適應症 10 個。"
 permalink: /news/prednisone/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/prednisone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患</li>
+<li><strong>原適應症</strong>: 台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 prednisone＋crotamiton 複方軟膏：濕疹或皮膚炎（衛署藥製字第042080號）</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>alopecia areata (100.0%)</li>

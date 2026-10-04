@@ -24,7 +24,7 @@ permalink: /news/thiamine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>Thiamine 的神經保護作用與青光眼 (2020.0%)</li>
 <li>維生素 B1 對視神經細胞的保護機轉 (2019.0%)</li>

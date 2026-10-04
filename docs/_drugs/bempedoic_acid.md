@@ -35,6 +35,7 @@ indication_count: 10
 Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 預測其對同合子家族性高膽固醇血症 (HoFH) 有額外價值，此預測已獲文獻強力支持。
 
 ## 快速總覽
+
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低 |
@@ -66,11 +67,13 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 <!-- review:end bempedoic-acid-ldlr-premise-2026-10-03 -->
 
 ## 臨床試驗證據
+
 | 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
 |----------|------|------|----------|----------|
 | - | - | - | - | (無專門 HoFH 的註冊臨床試驗) |
 
 ## 文獻證據
+
 | PMID | 年份 | 標題 | 相關性 |
 |------|------|------|--------|
 | 41274797 | 2026 | Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia | 直接相關：HoFH 患者使用 bempedoic acid 的真實世界數據 |
@@ -130,6 +133,7 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 | 2026-10-03 | 預測理由「非 LDL 受體依賴機制」 | 加註 | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 | 2026-10-03 | 同合子家族性高膽固醇血症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 | 2026-10-03 | 同合子家族性高膽固醇血症預測重審結果 | 重審：維持，證據等級 L3 不變 | [PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

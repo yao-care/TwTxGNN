@@ -24,7 +24,7 @@ permalink: /news/loteprednol_etabonate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>conjunctival folliculosis (99.7%)</li>
 <li>chronic follicular conjunctivitis (99.7%)</li>

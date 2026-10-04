@@ -19,11 +19,10 @@
             原等級→新等級、理由與文獻）；rereview 紀錄本身保留，查核紀錄表兩筆都列。
             table_updates（[{label, claim, replacement}]）把頁面上該適應症的證據等級／決策
             儲存格換成重審後的值（降級、撤回時才用）；原值留在紀錄的 claim，查核紀錄表列出變更。
-            頁面有 rereview_result 時，頁首等級（front matter evidence_level、parent、
-            「證據等級: **Lx**」列）依「快速總覽」的「證據等級」列重算——產線規則：頁首取該列的
-            等級，列內有多個等級取最高（數字最小）者（sync_notes_to_docs.extract_evidence_level、
-            build_docs.get_evidence_level）；原解析式只認「| 證據等級 | L3 |」這種純值，儲存格
-            帶說明文字就落到預設 L5，這是頁首與總覽表不一致的來源。
+  header_level  頁首等級重算的留存紀錄（2026-10-04 起）：頁首等級依快速總覽重算（全站規則，
+            見 src/twtxgnn/regulatory/page_format.py）後與原值不同的頁，各記一筆 original_level／
+            new_level／original_parent／new_parent。不顯示框，只在查核紀錄表列「頁首等級依總覽表重算（原 Lx→Ly）」。
+            頁首重算本身每頁都做（有沒有紀錄都一樣），產線寫頁前也做。
 紀錄可帶 history：同 id 重發時的前版（整筆前版內容＋retired 日期＋reason）。correct 紀錄
 在頁面上找不到 claim 時，會改找 history 裡前版的 replacement 換成新版（頁面停在前版時用）。
 紀錄的 status 為 superseded（錨點落在已改由程式產生的許可證表或張數上）時：紀錄保留、
@@ -40,15 +39,16 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "src"))
+from twtxgnn.regulatory import page_format as F  # noqa: E402
 DOCS = ROOT / "docs"
 DATA = DOCS / "_data" / "drug_reviews.json"
 DRUGS = DOCS / "_drugs"
 
 LABEL = {"correct": "查核更正", "annotate": "查核加註", "rereview": "待重審", "rereview_result": "重審結果"}
 ACTION_ZH = {"correct": "更正", "annotate": "加註", "rereview": "標記待重審", "section": "新增附來源段落",
-             "rereview_result": "重審完成"}
+             "rereview_result": "重審完成", "header_level": "頁首等級依總覽表重算"}
 VERDICT_ZH = {"maintain": "維持", "downgrade": "降級", "withdraw": "撤回"}
-EVIDENCE_PAGES = {"high": "evidence-high.md", "medium": "evidence-medium.md", "low": "evidence-low.md"}
 
 
 def load():
@@ -190,6 +190,8 @@ def log_md(recs):
         act = ACTION_ZH[r["action"]]
         if r["action"] == "rereview" and r["id"] in resolved:
             act = "標記待重審 → 已重審（見下列重審結果）"
+        if r["action"] == "header_level":
+            act = f"頁首等級依總覽表重算（原 {r['original_level']}→{r['new_level']}）"
         if r["action"] == "rereview_result":
             act = f"重審：{VERDICT_ZH[r['verdict']]}，{level_change(r)}"
             for u in r.get("table_updates") or []:
@@ -201,7 +203,10 @@ def log_md(recs):
         rows.append(f"| {r['checked']} | {item} | {act} | {sources_md(r)} |")
     intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
              "更正只限基本藥理事實，模型預測、證據等級與結論未改寫。")
-    if any(r["action"] == "rereview_result" and r.get("table_updates") for r in recs):
+    if all(r["action"] == "header_level" for r in recs):
+        intro = ("以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，"
+                 "模型預測、總覽表與結論未改寫。")
+    elif any(r["action"] == "rereview_result" and r.get("table_updates") for r in recs):
         intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
                  "更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。")
     return f"{begin('log')}\n\n## 查核紀錄\n\n{intro}\n\n" + "\n".join(rows) + f"\n\n{end('log')}\n\n"
@@ -249,45 +254,6 @@ def apply_result(text, rereview, res, problems):
     return apply_record(text, rec, problems)
 
 
-_PARENTS = {}
-
-
-def parent_titles():
-    """證據等級 → 列表頁標題（docs/evidence-*.md 的 title，標題裡的 L 範圍決定歸屬；同 sync_notes_to_docs.get_parent_titles）。"""
-    if not _PARENTS:
-        for fname in EVIDENCE_PAGES.values():
-            p = DOCS / fname
-            if not p.exists():
-                continue
-            m = re.search(r"^title:\s*(.+?)\s*$", p.read_text(encoding="utf-8"), re.M)
-            if not m:
-                continue
-            title = m.group(1).strip().strip('"').strip("'")
-            lv = [int(x) for x in re.findall(r"L([1-5])", title)]
-            for n in range(min(lv), max(lv) + 1) if lv else []:
-                _PARENTS.setdefault(f"L{n}", title)
-    return _PARENTS
-
-
-def sync_header_level(text, problems):
-    """頁首等級＝「快速總覽」證據等級列的最高等級（產線規則，見檔頭說明）。只在有重審結果的頁執行。"""
-    m = re.search(r"^\|\s*證據等級\s*\|([^|\n]*)\|", text, re.M)
-    lv = re.findall(r"L([1-5])", m.group(1)) if m else []
-    if not lv:
-        return text
-    best = f"L{min(lv)}"
-    fm_end = text.find("\n---", 3) if text.startswith("---") else -1
-    if fm_end < 0:
-        problems.append("頁首等級：找不到 front matter")
-        return text
-    fm = re.sub(r"^(evidence_level:[ \t]*)L[1-5][ \t]*$", lambda x: x.group(1) + best, text[:fm_end], count=1, flags=re.M)
-    parent = parent_titles().get(best)
-    if parent:
-        fm = re.sub(r"^parent:.*$", lambda x: f"parent: {parent}", fm, count=1, flags=re.M)
-    rest = re.sub(r"^(證據等級: \*\*)L[1-5](\*\*)", lambda x: x.group(1) + best + x.group(2), text[fm_end:], count=1, flags=re.M)
-    return fm + rest
-
-
 def validate(recs):
     """rereview_result 的結構檢查：resolves 要指到同頁的 rereview、一筆 rereview 最多一筆結果、
     verdict 合法、降級時新等級要低於原等級。"""
@@ -317,18 +283,18 @@ def render_page(text, recs, problems):
     # 先清掉本頁所有先前產生的區塊，再依序重套；否則 A 紀錄的說明文字裡引用的原句
     # 會被 B 紀錄誤認成頁面原文。
     text = re.sub(r"\n*<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->\n*", "\n\n", text, flags=re.S)
+    text = F.fix_table_spacing(text)  # 先補表格前空行，查核框的插入位置才與產線一致
     results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result"}
     for r in recs:
         if r.get("status") == "superseded":
             continue  # 錨點所在的許可證表／張數已由程式化區塊取代：紀錄保留、頁面不再顯示框
-        if r["action"] == "rereview_result":
-            continue  # 在它 resolves 的那筆 rereview 位置渲染
+        if r["action"] in ("rereview_result", "header_level"):
+            continue  # rereview_result 在它 resolves 的那筆 rereview 位置渲染；header_level 只進查核紀錄表
         if r["action"] == "rereview" and r["id"] in results:
             text = apply_result(text, r, results[r["id"]], problems)
             continue
         text = apply_record(text, r, problems)
-    if results:
-        text = sync_header_level(text, problems)
+    text = F.sync_header_level(text)  # 頁首等級依快速總覽重算（全站規則，見 page_format）
     m = re.search(r"^## 免責聲明", text, re.M)
     log = log_md(recs)
     text = text[:m.start()] + log + text[m.start():] if m else text.rstrip() + "\n\n" + log

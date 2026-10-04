@@ -92,8 +92,10 @@ DISCLAIMERS = {
 EVIDENCE_LABELS = [s["evidence"] for s in STRINGS.values()] + [
     "Evidence Level", "Evidence level", "Nivel de Evidencia", "Evidenzlevel",
 ]
+# 2026-10-04：抓整格內容再取最高等級。舊式只認「| 證據等級 | L3 |」純值，儲存格帶說明文字
+# （「L3 (觀察性研究)」「**L2** (偏頭痛)、**L3** (…)」）就落到預設 L5，造成頁首與總覽表不一致。
 _LABEL_RE = re.compile(
-    r"\|\s*(?:%s)\s*\|\s*(L[1-5])\s*\|" % "|".join(re.escape(x) for x in sorted(set(EVIDENCE_LABELS))),
+    r"\|\s*(?:%s)\s*\|([^|\n]*)\|" % "|".join(re.escape(x) for x in sorted(set(EVIDENCE_LABELS))),
     re.IGNORECASE,
 )
 # Language-agnostic fallback: any two-cell row whose second cell is just L1-L5.
@@ -106,7 +108,11 @@ def get_lang(base_dir: Path) -> str:
 
 def extract_evidence_level(content: str) -> str:
     """Extract evidence level from note content, in any supported language."""
-    match = _LABEL_RE.search(content) or _ROW_RE.search(content)
+    m = _LABEL_RE.search(content)
+    levels = re.findall(r"L([1-5])", m.group(1), re.I) if m else []
+    if levels:
+        return f"L{min(levels)}"  # 同格多個等級取最高（數字最小），與 page_format.overview_level 一致
+    match = _ROW_RE.search(content)
     if match:
         return match.group(1).upper()
     return "L5"

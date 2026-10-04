@@ -25,7 +25,7 @@ permalink: /news/aluminum_chloride/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 抗多汗、牙齦止血、牙齦收斂</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>seborrheic keratosis (99.7%)</li>
 <li>congenital prothrombin deficiency (99.7%)</li>

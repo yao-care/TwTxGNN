@@ -24,7 +24,7 @@ permalink: /news/nebivolol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（5 個）</strong>:<ul>
 <li>malignant renovascular hypertension (99.4%)</li>
 <li>malignant hypertensive renal disease (99.4%)</li>

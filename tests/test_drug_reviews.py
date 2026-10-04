@@ -103,3 +103,42 @@ def test_validate(bad, msg):
     rs = recs()
     rs[2].update(bad)
     assert any(msg in e for e in A.validate(rs))
+
+
+# ---- page_format：頁首等級與表格空行（2026-10-04）----
+from twtxgnn.regulatory import page_format as F  # noqa: E402
+
+
+@pytest.mark.parametrize("cell,want", [
+    ("L3 (觀察性研究/文獻支持)", "L3"),
+    ("**L2** (偏頭痛)、**L3** (類風濕)", "L2"),
+    ("L4 (前臨床) 至 L5 (僅預測)", "L4"),
+    ("不適用", None),
+])
+def test_overview_level(cell, want):
+    assert F.overview_level(f"| 證據等級 | {cell} |\n") == want
+
+
+def test_sync_header_and_gate():
+    page = PAGE.replace("| 證據等級 | L3 (觀察性研究) |", "| 證據等級 | **L1** (多個 RCT) |")
+    assert F.header_problems(page)
+    out = F.sync_header_level(page)
+    assert "evidence_level: L1" in out and "parent: 高證據等級 (L1-L2)" in out and "證據等級: **L1**" in out
+    assert F.header_problems(out) == []
+    assert F.sync_header_level(out) == out
+
+
+def test_table_spacing():
+    page = "## 快速總覽\n| a | b |\n|---|---|\n| 1 | 2 |\n\n```\n說明\n| 不是表格 |\n```\n"
+    assert len(F.table_spacing_problems(page)) == 1
+    out = F.fix_table_spacing(page)
+    assert "## 快速總覽\n\n| a | b |" in out and F.table_spacing_problems(out) == []
+    assert F.fix_table_spacing(out) == out
+
+
+def test_pipeline_parsers_read_annotated_cells():
+    import build_docs
+    import sync_notes_to_docs
+    txt = "| 證據等級 | **L2** (偏頭痛)、**L3** (類風濕) |\n"
+    assert sync_notes_to_docs.extract_evidence_level(txt) == "L2"
+    assert build_docs.get_evidence_level(txt) == "L2"

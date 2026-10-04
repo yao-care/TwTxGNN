@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 263
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -173,6 +173,7 @@ PKD3（GANAB/DNAJB11 突變）與 PKD1/PKD2 共享 cAMP 驅動的囊泡生成機
 | 2026-10-03 | 快速總覽「許可證數：19 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表下「台灣共有 19 張許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「PKD3 由 GANAB 或 DNAJB11 基因突變引起」 | 加註 | [NCBI MedGen：Polycystic kidney disease 3 with or without polycystic liver disease（C3887964）](https://www.ncbi.nlm.nih.gov/medgen/854672)；[NCBI MedGen：Polycystic kidney disease 6 with or without polycystic liver disease（C4748044）](https://www.ncbi.nlm.nih.gov/medgen/1648469) |
+| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

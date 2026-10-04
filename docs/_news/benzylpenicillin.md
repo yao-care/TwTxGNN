@@ -3,7 +3,7 @@ layout: default
 title: "Benzylpenicillin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Benzylpenicillin 的相關健康新聞報導。原適應症：。預測適應症 7 個。"
+description: "Benzylpenicillin 的相關健康新聞報導。原適應症：葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎。預測適應症 7 個。"
 permalink: /news/benzylpenicillin/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/benzylpenicillin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>pericoronitis (99.4%)</li>
 <li>gingival recession (99.3%)</li>
