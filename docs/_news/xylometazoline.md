@@ -36,11 +36,11 @@ permalink: /news/xylometazoline/
 
 ## 相關新聞（1 則）
 
-### [換季孩子鼻塞、過敏一整晚睡不好？從居家環境到睡前習慣，幫助孩子睡得更安穩 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ua19ib3MxLUIyOF9EbEVBcWhCOWJMZjNWMEtnbGdQWUdyMXRWakZBMHhpM0xPT3o0U29jU2h0WmtFSlM1NmZzUTlyLV9tTmlJTGRhMDhn?oc=5)
+### [換季孩子鼻塞、過敏一整晚睡不好？從居家環境到睡前習慣，幫助孩子睡得更安穩](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ua19ib3MxLUIyOF9EbEVBcWhCOWJMZjNWMEtnbGdQWUdyMXRWakZBMHhpM0xPT3o0U29jU2h0WmtFSlM1NmZzUTlyLV9tTmlJTGRhMDhn?oc=5)
 
 2026-10-04 <span class="news-indication-tag">鼻塞</span>
 
-來源: [Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ua19ib3MxLUIyOF9EbEVBcWhCOWJMZjNWMEtnbGdQWUdyMXRWakZBMHhpM0xPT3o0U29jU2h0WmtFSlM1NmZzUTlyLV9tTmlJTGRhMDhn?oc=5)
+來源: [mombaby.com.tw](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ua19ib3MxLUIyOF9EbEVBcWhCOWJMZjNWMEtnbGdQWUdyMXRWakZBMHhpM0xPT3o0U29jU2h0WmtFSlM1NmZzUTlyLV9tTmlJTGRhMDhn?oc=5)
 
 ---
 
