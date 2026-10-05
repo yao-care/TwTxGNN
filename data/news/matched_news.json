@@ -1,16 +1,56 @@
 {
-  "last_updated": "2026-10-04T23:43:08.644879+00:00",
-  "total_count": 43,
+  "last_updated": "2026-10-05T03:09:34.312299+00:00",
+  "total_count": 44,
   "matched_count": 16,
   "news": [
     {
-      "id": "2757941f8b71",
-      "title": "突然感到天旋地轉？女性發病率是男性2倍",
-      "published": "2026-10-04T16:35:47+00:00",
-      "summary": "突然感到天旋地轉？女性發病率是男性2倍&nbsp;&nbsp;世界新聞網",
+      "id": "e1f719f8a339",
+      "title": "確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0",
+      "published": "2026-10-05T02:00:00+00:00",
+      "summary": "確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b80ba766e402",
+      "title": "突然感到天旋地轉？女性發病率是男性2倍",
+      "published": "2026-10-04T16:35:47+00:00",
+      "summary": "突然感到天旋地轉？女性發病率是男性2倍&nbsp;&nbsp;worldjournal.com",
+      "sources": [
+        {
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CMWYxOFcxSWdmSW5venVzaFEtYmluRGNUejlSSlJPa3IwSFNibTJnR0QyR1JxY1ZIVG1kaEpSb1BOclNKMzlqck5qWGtpR01MM1BiOVNGSjlkWVk0eWdQM1Rn0gFnQVVfeXFMT3h0djAzVWVpcE9xU1J1SWRXOFFsUVctY2g0Z2lSbjVteEo2SFUyMGI3RXo2LWlUTV82U3hTOWMzSl9hX1dZRUxSWVpOczQ1Y2tJQzhIOVNVNHo2Z2hkVG5vUVFRY1MwWQ?oc=5"
         }
       ],
@@ -42,10 +82,10 @@
       ]
     },
     {
-      "id": "17a095727bd1",
-      "title": "捷克女子夢遊時會用手機拍照 迄今已77張",
+      "id": "7439a1ee330c",
+      "title": "捷克女子夢遊時用手機拍照 迄今已拍77張",
       "published": "2026-10-04T08:28:00+00:00",
-      "summary": "捷克女子夢遊時會用手機拍照 迄今已77張&nbsp;&nbsp;大紀元",
+      "summary": "捷克女子夢遊時用手機拍照 迄今已拍77張&nbsp;&nbsp;大紀元",
       "sources": [
         {
           "name": "大紀元",
@@ -58,7 +98,7 @@
       "id": "5a8a47119639",
       "title": "打流感疫苗怕副作用？醫師揭密",
       "published": "2026-10-04T08:11:00+00:00",
-      "summary": "打流感疫苗怕副作用？醫師揭密&nbsp;&nbsp;東森新聞衛生局今起為高風險人士免費接種流感疫苗&nbsp;&nbsp;大衆報小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;Yahoo新聞醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
+      "summary": "打流感疫苗怕副作用？醫師揭密&nbsp;&nbsp;東森新聞衛生局今起為高風險人士免費接種流感疫苗&nbsp;&nbsp;大衆報小孩每年打流感疫苗還是中A流！醫師破解迷思：疫苗真正防的是「這件事」&nbsp;&nbsp;鏡報1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
       "sources": [
         {
           "name": "東森新聞",
@@ -71,7 +111,7 @@
       "id": "71b1c10cbdac",
       "title": "佛州登革熱疫情感染升至252例 1人死亡",
       "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;bastillepost.com美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
       "sources": [
         {
           "name": "大紀元",
@@ -110,14 +150,14 @@
       ]
     },
     {
-      "id": "1e3455573113",
+      "id": "90e4754de0c0",
       "title": "專家教你保／挑選防癌險 掌握四大關鍵",
       "published": "2026-10-03T19:48:42+00:00",
       "summary": "專家教你保／挑選防癌險 掌握四大關鍵&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ITnBWLWdIdFpSNEZmVTd3QWYtY0M3TnRTUHFlYjZYWHhwYzQtRHprTk1SamxNcjk1NzNGZDVabUJEczBsU3NaMkV2SGlWSWhE0gFWQVVfeXFMT0ZNQzB1UldPeFk4RFZ0VG9uMzcxQ2JIRnh5aDM1bUVEb2RjcUMweEpTTzUtV0NuX3hnNTFRbW9qaUFGcURITnd2SFpxeWFDVWlVY3RyNlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFemtvX0FTdTFzcUFpNVZIdFdDQXloY29LNHhfN0pOZ3dZU0hVMzdkUG9yWS1Hamxzc2hwdmRfRWdNdEJWYVo1Sl9jWEtRRGdvbmNKbWhGTHd1U1Rtd1RJdkFrd0ctY0xlQXpPOVlTVmVGZ9IBVkFVX3lxTE9GTUMwdVJXT3hZOERWdFRvbjM3MUNiSEZ4eWgzNW1FRG9kY3FDMHhKU081LVdDbl94ZzUxUW1vamlBRnFESE53dkhacXlhQ1VpVWN0cjZR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -126,7 +166,7 @@
       "id": "f3e0b4d8d2b1",
       "title": "三藩市出現首例成年人流感死亡",
       "published": "2026-10-03T13:00:50+00:00",
-      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;Singtaousa流感不可輕忽 舊金山現本季首例死亡&nbsp;&nbsp;世界新聞網舊金山出現本流感季首例死亡&nbsp;&nbsp;世界新聞網",
+      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;Singtaousa流感不可輕忽 舊金山現本季首例死亡&nbsp;&nbsp;worldjournal.com舊金山出現本流感季首例死亡&nbsp;&nbsp;worldjournal.com",
       "sources": [
         {
           "name": "Singtaousa",
@@ -197,13 +237,13 @@
       "matched_keywords": []
     },
     {
-      "id": "5a0009af4e88",
+      "id": "bf06434abb21",
       "title": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播",
       "published": "2026-10-03T08:27:00+00:00",
-      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;巴士的報",
+      "summary": "古巴爆發嚴重病毒疫情 基礎設施不足加劇傳播&nbsp;&nbsp;bastillepost.com",
       "sources": [
         {
-          "name": "巴士的報",
+          "name": "bastillepost.com",
           "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPU2RxMUZCRXIyem9ETXF3RmNoWUMxOGNaS0F4TVA4ckRsUmUzNHI2dGFDUURGNzFva0Q2MVJzRGh4TGhtbnlhaTYtQ3dJUlR6UUo3SkNJT0JFX043UDl2RXg3eDFhSzNJNko4SHFNT3BUMFplS3p0dWNmZHE0UjNSbFdNQmFiZ19XZ3RYTUR1MV9Db1R4UDBDdkpVZmpPOWZ4ZWVTX3gwc05ObVI1OElMbzZVeDF6SDRNQ2pCUVB2SnFTSDVBYmN1cmQ0MWp6dU9JdkM1X0VfWDRmaVpKNU0ySWNtbWUzTWRRN0ZSem5SQjZCVUhRZWhIQkY4WWZhZEtRb3Q5NmFVTVpEcnJQZjRBQUtIbm4xMVF2RWtTUkVWUVAzeGdDTFM0UnprRU5SRVVQMUVZYlF3QnhpaV9pb0twV3hLWXl5WjVURi1hTURvMnhuVEc5MlRz?oc=5"
         }
       ],
@@ -353,6 +393,19 @@
       ]
     },
     {
+      "id": "56a5c356a0d4",
+      "title": "血糖高、骨頭脆！糖尿病3大骨鬆警訊別輕忽 GLP-1竟藏骨鬆風險 - TVBS 健康2.0",
+      "published": "2026-10-02T02:04:44+00:00",
+      "summary": "血糖高、骨頭脆！糖尿病3大骨鬆警訊別輕忽 GLP-1竟藏骨鬆風險&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zUTNpWWljX2xyRUhGVkJnS1NIMjUtaEhNcy1LdkdIMW1QRXFNS29lM1pRZFoyMndxQXRveHZYTGRJQzA2a2d2QWFyTVpZdTJweW85aDI3N0htaDdia2ZxM213V3I1SWdyTmE5Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "854cdab2a08e",
       "title": "健康食物也鈉爆表！營養師點名12種「高鈉食品」全麥麵包、堅果入榜",
       "published": "2026-10-02T00:43:15+00:00",
@@ -439,13 +492,26 @@
       ]
     },
     {
-      "id": "8c63fe8eb25b",
-      "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻 - Martin Cid Magazine",
-      "published": "2026-09-30T14:38:52+00:00",
-      "summary": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻&nbsp;&nbsp;Martin Cid Magazine",
+      "id": "3640ea66ee88",
+      "title": "美國麻疹疫情創35年最慘 賓州出現第5起死亡病例 | 民視新聞網 - LINE TODAY",
+      "published": "2026-09-30T23:17:41+00:00",
+      "summary": "美國麻疹疫情創35年最慘 賓州出現第5起死亡病例 | 民視新聞網&nbsp;&nbsp;LINE TODAY美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan NewsGriffin：麻疹、登革熱與伊波拉死亡案例，揭示疫苗政策倒退的後果&nbsp;&nbsp;BigGo 財經賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌",
       "sources": [
         {
-          "name": "Martin Cid Magazine",
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IVmR6YTNNcjM0dGRuejBkREpLczJOSTdtYjFfSVlLLUc3ZzQybGZrWVA3aG5KeVgwV25ZMk8zM0xhOURGdVNoQVQwVDFPVVVNS2tYLUxn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2a7e489e943e",
+      "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻",
+      "published": "2026-09-30T14:38:52+00:00",
+      "summary": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻&nbsp;&nbsp;zh-hant.martincid.com",
+      "sources": [
+        {
+          "name": "zh-hant.martincid.com",
           "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWttNm1leUQ0TGl1a0J4Vm00Y2F5b2gzVEYtTGNyVjFkVHk3dlVjV0lqWXUybElmZl91U2Fzb0RncG9qVGo3SENJR1R2bV9Za0lmdVdHRlpSZzFEOW9fMTRNMDIxTm9OLUtKelFfQlhfcks4Zi1xZ05OTTJ3eWc5b1p4U1NjN1VPanV1S0RvNXlwNFV1a3Y1VlllSkhsM19rdjJFSkJIb3RNRVBCWWhNeFFZc19ObmRpMk9hb0Q4c1EwR0ZoaFgzSmRtN05tQ2M5aTl0eGUyRWYyUGlFWTlCZTRDc1VTTVVkTWVFUGZZVGVZZzc5U0lSbkgzNFVFUmxOeUJFZXlyUHhCazdOT0ttZWRuNl9xZXR0Y0N1NUpMdW05Zw?oc=5"
         }
       ],
@@ -570,7 +636,7 @@
       "id": "4a239c05ac43",
       "title": "林盛斌初聞驗愛滋錯愕 醫生一席話改變觀念：任何有性行為都應測試",
       "published": "2026-09-29T11:00:34+00:00",
-      "summary": "林盛斌初聞驗愛滋錯愕 醫生一席話改變觀念：任何有性行為都應測試&nbsp;&nbsp;SingtaousaBob林盛斌自爆將驗愛滋 初聞建議反應大：點解我要做？ 醫生點出一關鍵決接受測試&nbsp;&nbsp;星島頭條林盛斌公開接受愛滋測試原因 醫生一句話改變想法&nbsp;&nbsp;Singtaousa",
+      "summary": "林盛斌初聞驗愛滋錯愕 醫生一席話改變觀念：任何有性行為都應測試&nbsp;&nbsp;SingtaousaBob林盛斌自爆將驗愛滋 初聞建議反應大：點解我要做？ 醫生點出一關鍵決接受測試&nbsp;&nbsp;stheadline.com林盛斌公開接受愛滋測試原因 醫生一句話改變想法&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Singtaousa",
@@ -617,19 +683,6 @@
       ]
     },
     {
-      "id": "bd9fcaf5174b",
-      "title": "美國賓州麻疹疫情持續蔓延 確診已超900例",
-      "published": "2026-09-29T03:38:00+00:00",
-      "summary": "美國賓州麻疹疫情持續蔓延 確診已超900例&nbsp;&nbsp;大紀元美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例&nbsp;&nbsp;Taiwan NewsGriffin：麻疹、登革熱與伊波拉死亡案例，揭示疫苗政策倒退的後果&nbsp;&nbsp;BigGo 財經賓州報告第五例與麻疹相關的死亡病例&nbsp;&nbsp;大紀元【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執&nbsp;&nbsp;CMoney投資網誌",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RcXZwaDNUR2stcjJOby12VVJ1akpQUHBma0hDYVE2RTZORV9PRkZHYV9FYnZpYXNQLVZQRFJDZE8zT0t4V2JHeklLNjJDVHVySktjMDJiV1ppUWJYWmQ5aNIBZkFVX3lxTE93bnktTUYzTVlXa2x0Nl9KdjVwWWdvS2ZCN2ViUWs0Y0piU2JIRWNOUFdMQ256dUs0bmxRNFBXdUJrRXoyZTZKTkJGb2hYRmpDV1JDRTlTeGNRV0t5NkFKVFBhWW1uQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "92720ba12117",
       "title": "動機隨季節起伏變化 從神經科學到行為策略的科學解方",
       "published": "2026-09-29T00:41:02+00:00",
@@ -668,13 +721,26 @@
       ]
     },
     {
-      "id": "d3e4819d8001",
-      "title": "新研究揭癌細胞「斷糧」生存機制 助提高療效減輕副作用",
-      "published": "2026-09-28T20:04:30+00:00",
-      "summary": "新研究揭癌細胞「斷糧」生存機制 助提高療效減輕副作用&nbsp;&nbsp;世界新聞網",
+      "id": "72885b0b41eb",
+      "title": "專家談AI製造病原體 現有病毒威脅仍較迫切",
+      "published": "2026-09-28T23:00:56+00:00",
+      "summary": "專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
       "sources": [
         {
-          "name": "世界新聞網",
+          "name": "澳門力報",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56T1AtTlJGTTB4RWpDdTF3cFVJSTNvdHdkS1hqZWs0ZHJLVzhQQ01kb0JzVW9JM1ZBRnZRR3NwdWV6V2tiaDBER2dDRG5JRjRRaW13?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b808d0350485",
+      "title": "新研究揭癌細胞「斷糧」生存機制 助提高療效減輕副作用",
+      "published": "2026-09-28T20:04:30+00:00",
+      "summary": "新研究揭癌細胞「斷糧」生存機制 助提高療效減輕副作用&nbsp;&nbsp;worldjournal.com",
+      "sources": [
+        {
+          "name": "worldjournal.com",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX0lncWhmX2RYWlM2eFR3UmRQUXowX3M2UkMyYmw5Vl9vdXh3cEp5UTZfZ2xGMUZBWTl2M21ZbDJmRUpkcFU4VE1QVk5WS0J0UUMxZUNRY1l6M2tvdE5sUm9R0gFnQVVfeXFMT3hQb2NMVDNpbm93enh5SkpUcXBjUF9QSUlQVmdtSDBDRTExMGZHMU50M3lKRlUydC1lODB1MDdVaE8wZGZpWVJLR1FQWlZ0dGNTMlhaVlR5cHhFMnBiT19mUWZHZWR3UQ?oc=5"
         }
       ],
@@ -975,63 +1041,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "6f3092dd7edb",
-      "title": "這家新創公司利用AI防範未來的AI大流行病",
-      "published": "2026-09-28T03:05:34+00:00",
-      "summary": "這家新創公司利用AI防範未來的AI大流行病&nbsp;&nbsp;华尔街日报中文版真的是粉絲！劉寅娜知道「三泰民」、「高雄爆衣事件」，連拍《觸及真心》都是聽著《MOVE》獲得力量&nbsp;&nbsp;CMoney專家談AI製造病原體 現有病毒威脅仍較迫切&nbsp;&nbsp;澳門力報朴寶劍、申叡恩戀愛劇確定破局！《夜旅人》編成卡關雙雙辭演！粉絲心碎：等不到這對CP了&nbsp;&nbsp;CMoney劉在錫竟沒收到卞約漢♥Tiffany婚禮邀請、原因曝光！《只要有空，5》被追問「為什麼沒邀我？」&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "华尔街日报中文版",
-          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOX0UtdjNsdDZrUDJ3OVBzdDJqOF93XzVyUmZ3VFoxOU9oNlFITVZSX1RCWmRSZkxhTG1udTlFblNpX2RvUXhHTkd3X3VIMXF5QlJpRHZLU1FjRVlGTHdmalBpUURVX2hZRVBPYlFnSTg5VUhmTVNaby10NjFkZEZfTUczVjJhM2NYVG5hcmpGMVlPb2hwYXZWUG1QeXl3OXRpZWNRbWVwVkI0b1pQTWVQX2pJLWNKaEZJWndkMHhnNzliNEpmbjA0WmYydjdSeHBKaGQyTGt6S3pLRGctWk1jazUzV1haUXJLb0FtdlZLZEs2cmtLMmlzclN6aElOVnpibGVkcFNaRHBnUmZRQW1hUFhJbG5WakVwODVOOEZsZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d947b19b2780",
-      "title": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意",
-      "published": "2026-09-28T02:00:57+00:00",
-      "summary": "心律不整竟引發「腳中風」 6症狀是警號 腳變黑且疼痛要注意&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQOUhPcEJVUmQxaHE4QmZqN28zaUhqeHhid3daMVptMlo2Zk1JMGtZcTJKWklnM0JhbTVEalZRX1B6TlYwNWFfTFdlZnYyQ204aGlnMHBVY1hCc0N1OWp5V2RUTFdIWHlISEU4MWVkYUgwUmNYdUhFRVVwbnpSQURWOWtTZ1V0YW55cjE5S3ZIU3Rxemh1bjUxODl4V3V2QjVHVkRSNG5rc0wyd2cxUUZRWnhCTnhiWUZjX2lrY1Q5Y2pBQVRhWml0dzVHQThfODRtTGt1MkxFaFp3bjk3ckg1a3FiTGpZSE82cm1PczV3WTBWQTVkV3lINlJEYWZMTmUxbWxyNktyUno5cl8xOHpqbzYweG5LWnMySW1CLTR3TFlBbjhPdlNOMFZ2LUZyMnZMRUQ0MkFqSVZ4SzQxUUJxN0FyRGExd3l3N3JEWVlxcXFoS1VzSFNPajVGd3V4enIwX2Z4ZHo2N0VqdlRqeG5zYTNGcVRVMm4yNkhpSGtIZWh2eC16X3NISQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "心律不整",
-          "keyword": "心律不整",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
