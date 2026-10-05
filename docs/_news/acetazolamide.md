@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [女性心臟病更會「偽裝」！專家揭5個隱藏警訊 第一個很多人當體力差](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSktXOF9LQ2xjRlJ5a0hINWNfbHpaRDNNakJmQzQ4TllLdmt6cnBtYk9YQ0w3dUlyZUZKNllhY0ZHd1BnMUo5M0FqMVd3djRtOFRpSTNXWVpjcllvZDBTLWRhSkRlYThCUTJ2Mm02Z1pFeFBSOHktd0xUVXlxQ2R3eDlDSl9iTjNtY0ZhdU9CX0otZw?oc=5)
+
+2026-10-05 <span class="news-indication-tag">心臟病</span>
+
+來源: [news.pchome.com.tw](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSktXOF9LQ2xjRlJ5a0hINWNfbHpaRDNNakJmQzQ4TllLdmt6cnBtYk9YQ0w3dUlyZUZKNllhY0ZHd1BnMUo5M0FqMVd3djRtOFRpSTNXWVpjcllvZDBTLWRhSkRlYThCUTJ2Mm02Z1pFeFBSOHktd0xUVXlxQ2R3eDlDSl9iTjNtY0ZhdU9CX0otZw?oc=5)
+
+---
 
 ### [印度力推精準腫瘤治療策略 盼解決高成本與近用不均挑戰](https://news.google.com/rss/articles/CBMizAJBVV95cUxNN1IwTHJpYkNFNVhqY2p1bHNjdXp3dmlncmpRMktUZEdKYWdDbUdTNjdfT2FKN0lob2U2MERHX1ZhZjVYR0JWNnpBZGo0NW1jWTloZ0VTaktfZHpZTzN2X1k4aVNVeE8wZjBwRWlBdWJIMk9qcWJGOFdzV183c0JlWlRhcmNPSi13LVRBTTJobURVMHB6Ym1oWlJGUnZ3dDA1VlZ6UXdKQ3J1MWJLQXMzTElLX054bVgtdU1mWmVZRGljRFFkTzFSWWFvUXhmanFfT1Y3WHB1Z1NUUERhaGZiaWloQkh5bzBmRk9ZRFVMdTMtZVZRQTNEeXNBUkg0MGlKcEFyOE1pWVNTVzQzT2N5YnI0anNUNGx4cUh2aTg2YjJaTlVDOU43bURuVTZPYkxyYVhDU216aWFjaGFpcEprYzFTb1AzUFFIUEYyZg?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
 ### [確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
 
 2026-10-05 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
 來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
+
+---
+
+### [女性心臟病更會「偽裝」！專家揭5個隱藏警訊 第一個很多人當體力差](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSktXOF9LQ2xjRlJ5a0hINWNfbHpaRDNNakJmQzQ4TllLdmt6cnBtYk9YQ0w3dUlyZUZKNllhY0ZHd1BnMUo5M0FqMVd3djRtOFRpSTNXWVpjcllvZDBTLWRhSkRlYThCUTJ2Mm02Z1pFeFBSOHktd0xUVXlxQ2R3eDlDSl9iTjNtY0ZhdU9CX0otZw?oc=5)
+
+2026-10-05 <span class="news-indication-tag">心臟病</span>
+
+來源: [news.pchome.com.tw](https://news.google.com/rss/articles/CBMikgFBVV95cUxQSktXOF9LQ2xjRlJ5a0hINWNfbHpaRDNNakJmQzQ4TllLdmt6cnBtYk9YQ0w3dUlyZUZKNllhY0ZHd1BnMUo5M0FqMVd3djRtOFRpSTNXWVpjcllvZDBTLWRhSkRlYThCUTJ2Mm02Z1pFeFBSOHktd0xUVXlxQ2R3eDlDSl9iTjNtY0ZhdU9CX0otZw?oc=5)
 
 ---
 
