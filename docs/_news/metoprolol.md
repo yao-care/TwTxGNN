@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [養生／豆類食物 護心又降高血壓](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YV1pidWJlbXhUTTJoZXd3RUdEbTlsWW9kbTBfWU1mZWVNdkVTTWdENlR1bnhuT2d1d0tJQ3h2NjI0Z09neEw0WW5UbEkzS1VMRk1SRE1HUGFNaEhVQnZtV1Vn0gFnQVVfeXFMTTI4TGFsamRqMzgzaC1YMTZWX1BNSUZLWjRCYUt0bDN2LWVDOGl6Q1NtcjRyb1ZBX2RuUllHM3pmSkJnYVEtVV9mOFhuLUlJNnFLYklhNUZGS3NycXFSOHc5cmc5ZDJ2Yw?oc=5)
-
-2026-10-04 <span class="news-indication-tag">高血壓</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YV1pidWJlbXhUTTJoZXd3RUdEbTlsWW9kbTBfWU1mZWVNdkVTTWdENlR1bnhuT2d1d0tJQ3h2NjI0Z09neEw0WW5UbEkzS1VMRk1SRE1HUGFNaEhVQnZtV1Vn0gFnQVVfeXFMTTI4TGFsamRqMzgzaC1YMTZWX1BNSUZLWjRCYUt0bDN2LWVDOGl6Q1NtcjRyb1ZBX2RuUllHM3pmSkJnYVEtVV9mOFhuLUlJNnFLYklhNUZGS3NycXFSOHc5cmc5ZDJ2Yw?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
 

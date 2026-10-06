@@ -44,11 +44,11 @@ permalink: /news/nystatin/
 
 ## 相關新聞（1 則）
 
-### [58歲婦車禍後竟得「心碎症候群」 更年期後為何心臟更脆弱？](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdG14MHFPQW5aUlJGT2ppT0hYT3R6anA3U1NxMVAzS0JzSWhNNVJVU1Z2MUd5emN6Q0UyekV4eDI0Vmx1MnYzZm5XU1BhSDBvTWFQQk11ZDlDbUUzc1pR0gFfQVVfeXFMTlN0bXgwcU9BblpSUkZPamlPSFhPdHpqcDdTU3ExUDNLQnNJaE01UlVTVnYxR3l6Y3pDRTJ6RXh4MjRWbHUydjNmbldTUGFIMG9NYVBCTXVkOUNtRTNzWlE?oc=5)
+### [58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
 
-2026-10-05 <span class="news-indication-tag">更年期</span>
+2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">停經</span>
 
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdG14MHFPQW5aUlJGT2ppT0hYT3R6anA3U1NxMVAzS0JzSWhNNVJVU1Z2MUd5emN6Q0UyekV4eDI0Vmx1MnYzZm5XU1BhSDBvTWFQQk11ZDlDbUUzc1pR0gFfQVVfeXFMTlN0bXgwcU9BblpSUkZPamlPSFhPdHpqcDdTU3ExUDNLQnNJaE01UlVTVnYxR3l6Y3pDRTJ6RXh4MjRWbHUydjNmbldTUGFIMG9NYVBCTXVkOUNtRTNzWlE?oc=5)
+來源: [經濟日報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
 
 ---
 

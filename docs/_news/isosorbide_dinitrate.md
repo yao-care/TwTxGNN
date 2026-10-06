@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
 
 2026-10-03 <span class="news-indication-tag">心臟病</span>
 
 來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
+
+---
+
+### [58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
+
+2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">停經</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CU1FhTTZKSEdyOWwzSGNKd0dMdGVfbmJZNHNBOW45V3lNMnBmVUlOOHl0Sk40QzVUWU9xZnRuUjF5cmRhbWtvRnJ6anJQTHJUQ3BncVdn?oc=5)
-
-2026-10-05 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CU1FhTTZKSEdyOWwzSGNKd0dMdGVfbmJZNHNBOW45V3lNMnBmVUlOOHl0Sk40QzVUWU9xZnRuUjF5cmRhbWtvRnJ6anJQTHJUQ3BncVdn?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5)
 
 2026-10-04 <span class="news-indication-tag">中風</span>
 
-來源: [hk01.com](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5)
+來源: [香港01](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5)
 
 ---
 
