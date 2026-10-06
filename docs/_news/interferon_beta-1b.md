@@ -14,7 +14,7 @@ permalink: /news/interferon_beta-1b/
 ---
 
 <p class="key-answer" data-question="Interferon beta-1b 有什麼相關新聞？">
-<strong>Interferon beta-1b</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Interferon beta-1b</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/interferon_beta-1b/
 <p><a href="{{ '/drugs/interferon_beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [血癌｜全身瘀傷以為跳舞受傷28歲女確診血癌抗癌成功訂婚重拾工作白血病成因+徵狀糖尿病高危- 東張+](https://news.google.com/rss/articles/CBMilwVBVV95cUxQTEZpR3k1Um9yV0lBWDFQazRBLWFiWjlpcXNkdXNKYVoycFdUWF9BN2xNSlAxUno3VndXQS1PMHFJdlNpYUhKelRmdjBWazRJeWRsMkkwUUIybHJGeFFUVHp1c3hGRWY5Y0ZMYXRBN3JwdHdGOHNOMkFoX2hkUWJ6eHVMalIyQWxLR3RBU1FtSzdsM1JEVDR1UFNxbl9xLVotQzdmamplaXBaYXc0NGg0VTVkZ2ZxajdIQ2J3U1FZZFpiSk9kUmxqZ01QM0M1U1c5SThLbEtZelRJb0JTdjZGN1pNUGxtZlNrVFY0SUo4Slo0cVlYQlFFMGYwMTFobDR1SWlOeC00blFCRkhkRDFZbzRuei1hNTR6VnlWUG9ZOVpFZEFGMjREZkgzenVyX0x3bGVpbTZ1X0N6ZVJqSkVLYUJwbFcxQ1NrZUltNW9pV1FibW1MMlhMS1E1ZTFFMlBsMS12NUpVU05UdlRXc1M4aXgtSGNaeUdBVjZXNnlXdUZpUl9IS0RHcmpEc2NzQmRYLUdxbVJxQmk0ZGtoQnFoaWlLZDdZWG9RUzNqR3V2OFZBQXBPZHVZcm9uRzdkR0xVOGdLMGtQckl1YTlTYlY1N3FfVmFNX1p6TVkzaThSeUFqcmlobTRBWTR6YmF0cWFRQ3d2cTJ0SUpzQ3ZhZXVyUmZNakJmWllWN05scHdHRm9MUUZjSF9COUNzb3ZWaXBrVWVpU1NxcDM3TDZPb0g0dWxfYUJoQ09icG5HOG10MXhLVzZDcUE5MDhkaEJfWHNtZ3lnQ085Uy1JQUdfMlVpa24tS3RrdzFOR25SSHhGdmN1alktRzN1bzZJMTREWDMwRWRZMnlaN29qSlFhamxRcmRLY1Nialk?oc=5)
+
+2026-09-30 <span class="news-indication-tag">血癌</span> <span class="news-indication-tag">白血病</span>
+
+來源: [mytvsuper.com](https://news.google.com/rss/articles/CBMilwVBVV95cUxQTEZpR3k1Um9yV0lBWDFQazRBLWFiWjlpcXNkdXNKYVoycFdUWF9BN2xNSlAxUno3VndXQS1PMHFJdlNpYUhKelRmdjBWazRJeWRsMkkwUUIybHJGeFFUVHp1c3hGRWY5Y0ZMYXRBN3JwdHdGOHNOMkFoX2hkUWJ6eHVMalIyQWxLR3RBU1FtSzdsM1JEVDR1UFNxbl9xLVotQzdmamplaXBaYXc0NGg0VTVkZ2ZxajdIQ2J3U1FZZFpiSk9kUmxqZ01QM0M1U1c5SThLbEtZelRJb0JTdjZGN1pNUGxtZlNrVFY0SUo4Slo0cVlYQlFFMGYwMTFobDR1SWlOeC00blFCRkhkRDFZbzRuei1hNTR6VnlWUG9ZOVpFZEFGMjREZkgzenVyX0x3bGVpbTZ1X0N6ZVJqSkVLYUJwbFcxQ1NrZUltNW9pV1FibW1MMlhMS1E1ZTFFMlBsMS12NUpVU05UdlRXc1M4aXgtSGNaeUdBVjZXNnlXdUZpUl9IS0RHcmpEc2NzQmRYLUdxbVJxQmk0ZGtoQnFoaWlLZDdZWG9RUzNqR3V2OFZBQXBPZHVZcm9uRzdkR0xVOGdLMGtQckl1YTlTYlY1N3FfVmFNX1p6TVkzaThSeUFqcmlobTRBWTR6YmF0cWFRQ3d2cTJ0SUpzQ3ZhZXVyUmZNakJmWllWN05scHdHRm9MUUZjSF9COUNzb3ZWaXBrVWVpU1NxcDM3TDZPb0g0dWxfYUJoQ09icG5HOG10MXhLVzZDcUE5MDhkaEJfWHNtZ3lnQ085Uy1JQUdfMlVpa24tS3RrdzFOR25SSHhGdmN1alktRzN1bzZJMTREWDMwRWRZMnlaN29qSlFhamxRcmRLY1Nialk?oc=5)
+
+---
 
 
 <div class="disclaimer">

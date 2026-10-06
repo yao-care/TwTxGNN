@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [養生／豆類食物 護心又降高血壓](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YV1pidWJlbXhUTTJoZXd3RUdEbTlsWW9kbTBfWU1mZWVNdkVTTWdENlR1bnhuT2d1d0tJQ3h2NjI0Z09neEw0WW5UbEkzS1VMRk1SRE1HUGFNaEhVQnZtV1Vn0gFnQVVfeXFMTTI4TGFsamRqMzgzaC1YMTZWX1BNSUZLWjRCYUt0bDN2LWVDOGl6Q1NtcjRyb1ZBX2RuUllHM3pmSkJnYVEtVV9mOFhuLUlJNnFLYklhNUZGS3NycXFSOHc5cmc5ZDJ2Yw?oc=5)
+
+2026-10-04 <span class="news-indication-tag">高血壓</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YV1pidWJlbXhUTTJoZXd3RUdEbTlsWW9kbTBfWU1mZWVNdkVTTWdENlR1bnhuT2d1d0tJQ3h2NjI0Z09neEw0WW5UbEkzS1VMRk1SRE1HUGFNaEhVQnZtV1Vn0gFnQVVfeXFMTTI4TGFsamRqMzgzaC1YMTZWX1BNSUZLWjRCYUt0bDN2LWVDOGl6Q1NtcjRyb1ZBX2RuUllHM3pmSkJnYVEtVV9mOFhuLUlJNnFLYklhNUZGS3NycXFSOHc5cmc5ZDJ2Yw?oc=5)
+
+---
 
 
 <div class="disclaimer">

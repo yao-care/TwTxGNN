@@ -1,11 +1,95 @@
 {
-  "generated": "2026-10-05T19:32:36.152882+00:00",
-  "count": 14,
+  "generated": "2026-10-06T01:02:29.362020+00:00",
+  "count": 20,
   "news": [
+    {
+      "id": "5f6780d2f956",
+      "title": "她「懷孕30周」感冒要出國　醫快篩嚇一跳：救2條命",
+      "published": "2026-10-05T23:28:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvSE11ZE5rTEp2NlRaN2VJNXVwaUJYdm5FRkkyODl1cWNsRlk1S2VxSThVWm9udEFVZzJqclBwSnRrSWg5elpOU3RQbUhfWFRv0gFPQVVfeXFMTkJ3VElCQTdTRWpwMmpBcm1MbUJJMXp3NnBpR01WcXVYMGxQN2xOY250WVV1V3VGTk90T2puRVdlc3JHWEFydmFfVDh5TnZ1NA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ec6a49b8977",
+      "title": "旅行完就狂咳 因飛機冷氣太凍？醫生揭4大症狀勿只當普通感冒",
+      "published": "2026-10-05T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPcllDSExWMk5DMmd6Q2pzX09wQ2V2NTczVzFrQ1cwbEdNX3o2MkctWDloOEVwLWtmQ0NxWjRHUV9XUThLWG9NTzVVRU03OGNIQ0hiS0lyU2VfSWswRlNxUkcwV3I1dVZCSmZaUnpJSTZ0d19QX1d4WW9DSnhMbUpkcC1Jd2l6eFd3OHN6elRWYzZLRzdpUlFZQ2JmNl9pZ3JEem5jSWc3ZXp6X0FIN280Yk1DSXJ3b0FEelFSSm50Q19JS3UyVVZhZk9YSXk2NWR6bDdnTWp2NkN2bU8yZ1l6ekRIYTJ1S3R4V181SHRUQ3BCd3ZTN0dCZ0dmY040NnBrdktwY3djLXR2bmYwWmt1MkVhME5WVUhyOWVxaFgwbzgyMVVqbzZWS3hndDIxLUtoczFYaHZGelV0V0lWMTltSlpSeEtSWEI2N0wzTjVDNUZVMjJvS0lpLU4tQVNVNlJBZ01NX3dhUnBfelJwaGNNVDJocmFDSF9Cemkyc0VkeFJVTS1aRmlaUlBWUHVMOVVmX0VWZmpHQkg1c1hEVXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23a66c0000c0",
+      "title": "58歲婦車禍後竟得「心碎症候群」 更年期後為何心臟更脆弱？",
+      "published": "2026-10-05T08:58:48+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdG14MHFPQW5aUlJGT2ppT0hYT3R6anA3U1NxMVAzS0JzSWhNNVJVU1Z2MUd5emN6Q0UyekV4eDI0Vmx1MnYzZm5XU1BhSDBvTWFQQk11ZDlDbUUzc1pR0gFfQVVfeXFMTlN0bXgwcU9BblpSUkZPamlPSFhPdHpqcDdTU3ExUDNLQnNJaE01UlVTVnYxR3l6Y3pDRTJ6RXh4MjRWbHUydjNmbldTUGFIMG9NYVBCTXVkOUNtRTNzWlE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "3c2e3be2fb57",
       "title": "出國前必看！感冒還是流感？秋冬防疫這樣做 避開重症找上門",
-      "published": "2026-10-05T15:41:00+00:00",
+      "published": "2026-10-05T07:27:00+00:00",
       "sources": [
         {
           "name": "東森新聞",
@@ -27,13 +111,13 @@
       ]
     },
     {
-      "id": "e1f719f8a339",
+      "id": "344738d749fa",
       "title": "確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0",
-      "published": "2026-10-05T02:00:00+00:00",
+      "published": "2026-10-05T02:02:04+00:00",
       "sources": [
         {
           "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CU1FhTTZKSEdyOWwzSGNKd0dMdGVfbmJZNHNBOW45V3lNMnBmVUlOOHl0Sk40QzVUWU9xZnRuUjF5cmRhbWtvRnJ6anJQTHJUQ3BncVdn?oc=5"
         }
       ],
       "keywords": [
@@ -66,12 +150,12 @@
       ]
     },
     {
-      "id": "306e2690f048",
-      "title": "換季孩子鼻塞、過敏一整晚睡不好？從居家環境到睡前習慣，幫助孩子睡得更安穩",
+      "id": "a5a26a0b0175",
+      "title": "換季孩子鼻塞、過敏一整晚睡不好？從居家環境到睡前習慣，幫助孩子睡得更安穩 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-10-04T13:31:07+00:00",
       "sources": [
         {
-          "name": "mombaby.com.tw",
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ua19ib3MxLUIyOF9EbEVBcWhCOWJMZjNWMEtnbGdQWUdyMXRWakZBMHhpM0xPT3o0U29jU2h0WmtFSlM1NmZzUTlyLV9tTmlJTGRhMDhn?oc=5"
         }
       ],
@@ -90,12 +174,64 @@
       ]
     },
     {
-      "id": "55ad2336f4a9",
+      "id": "c041f0abdfc5",
+      "title": "養生／豆類食物 護心又降高血壓",
+      "published": "2026-10-04T06:07:30+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YV1pidWJlbXhUTTJoZXd3RUdEbTlsWW9kbTBfWU1mZWVNdkVTTWdENlR1bnhuT2d1d0tJQ3h2NjI0Z09neEw0WW5UbEkzS1VMRk1SRE1HUGFNaEhVQnZtV1Vn0gFnQVVfeXFMTTI4TGFsamRqMzgzaC1YMTZWX1BNSUZLWjRCYUt0bDN2LWVDOGl6Q1NtcjRyb1ZBX2RuUllHM3pmSkJnYVEtVV9mOFhuLUlJNnFLYklhNUZGS3NycXFSOHc5cmc5ZDJ2Yw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "516b6b71eb19",
+      "title": "骨質疏鬆不只怕骨折還會造成失智、腦白質老化？ | 醫藥百科| 健康 | 世界新聞網",
+      "published": "2026-10-04T06:00:00+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BNUgxOEJ2TkV0N3pheTh0TlRIZEMzMDJILUdxTkZjS3Q3WTVfeUVpYjRWUk1nZF9YTzVUSjRCLUprMkdMU0M1enFNTENYLUhZRXozSmxiYzlMRHZMY3lZSV9B?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af97065f4872",
       "title": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要",
       "published": "2026-10-04T02:00:19+00:00",
       "sources": [
         {
-          "name": "香港01",
+          "name": "hk01.com",
           "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5"
         }
       ],
@@ -118,208 +254,13 @@
       ]
     },
     {
-      "id": "cf99bf443d8c",
-      "title": "58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞",
-      "published": "2026-10-03T10:00:12+00:00",
+      "id": "4dea5753ccb5",
+      "title": "不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%",
+      "published": "2026-10-03T10:12:02+00:00",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0cd4e0a318b3",
-      "title": "乳癌｜32歲女每晚淺酌紅酒易臉紅 求醫揭患乳癌 醫生教6招降低風險患乳癌",
-      "published": "2026-10-03T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNWEpZaXhXSFRtM0pISHRRaW55cDFRWGY2OFBwZHJMOTlxRllNWWtYSTdoNzRhcUt1LUhWempxRkt0b3Jza1Q5TEppUTlfUEdTWV9nX0owUG93VXBVMGhtZm42RE9uUjBXMTVBMVExUkFDd3E5MUZWeFREdDN5SXZWT1VJRk1ack9fajN4RWFuSjZMYnF5SC1lSlU5RXZUazEwMDI3aXFVMnJsYnJWd0ZocXBSVXN5bHRzckY2WmZQUFRjaFdJMVV2QUpFVXNKX3BUTEhZMlh0S2lscE00TVN3NWYxQzRFV2lzMXE2dURJSnFnT2NaOEtOWkJyZ1dkSWNOOE9uZm55OTdGbUNZbW5zMHQ5R1VSSG1vY3F6VWRKUEpIcTBHZHZPX1lFU3UyalFwRjRYWDlZNzFFclZQaHJqakgyX0xWSlc4T05XWFlJY3ZXbFMyUThqemNXclBQUE9acERnOVhXNXZadm9kQmt5MjdlZEZfRWFrOGxKazZyc19nNWVObWFWbEd5VkVEOGtieFZUVjcwcVJhT09zRFJrWkpUOG5wLW9na3FOLWxwb0pQTmcyMGtQa0x4RF9oazY1RWE5UWhac0NrZUVYRUd0dzJ3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5da6c01cb2e8",
-      "title": "卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀",
-      "published": "2026-10-02T23:40:16+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4150dd607cce",
-      "title": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍",
-      "published": "2026-10-02T08:32:00+00:00",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4712f7c72edc",
-      "title": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health",
-      "published": "2026-10-02T05:48:56+00:00",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4e348276d1d4",
-      "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招",
-      "published": "2026-09-30T08:53:34+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNaEZoNkpGWWIzeVEtUGNQMjJOdUFfb1JmeExsdFFWcTdiakdQZkNvMzVPWVZWc2Q1LUVLVjhHcjZvQm9LTEVVZFJsM215TndoT0dTYTlrNFNxLXJBZ1RoMEhPU09lcURXS1RiZ1h1a0NWc3V5NV80WmhnekxSUGxXTkt6YmVWX21hbnpia3Q1X0g4anpIRWctc1dnYWZJTlo3VkpVRndQSXVhOHdpdVUwV1ROc1dWWHdENXI1dFN0blkzS3pQQWkxT1JnMS1NYTVRakViMUg4TFJHeWFaVjRXeEdCYWtVdS1meDBPZm5jZ2hycEdfYkVDVUhLYWo1TGZFMlBUN09tUEFYUm9EMGRxYkxMOFJDcE52bjVBcmw0RmtFbGQ4T0RjUUtNUHFDWUZNeEpmcjRrQ3E0bzI4ZGVoZWNpTllvd3JzV0YxdkFCXy1UemlYRkg2NUVsTlJ5bHRpbVN2cW5MNWJndWhtOWRZOXNtU2RVMDR2WV9vUnRYc1h4SjEwZ3JxenBCc1FjLUtmcmpkeWhlUTBjeE5VTEp6LUN4bW5qTnJfYUt0NjUtdmhzZWhrQVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8eb24d4c0ae1",
-      "title": "林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死",
-      "published": "2026-09-30T05:49:24+00:00",
-      "sources": [
-        {
-          "name": "topick.hket.com",
-          "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNcUJQZlRNVEZBMmJ5XzdiNXI5dGFIaW5rQ1h1dmJXNWhzX3RmVHF3eEFDMXU3a3pzMFZyY0VkTl9CSVU2RlpnZEJXRDh4cHRtaGxlNTM1YVloazRnMGVTZWoyalh3aWhGRGMtV29CQktCSGNBTmtUZ2lxSEM1VGVaNEQ2cFRxSWNoektJUkFqa2VXRzJxTEpmMHplSlFhck5rT1k0QW1HRVlLSmRmRWNqcHdzTjZ0RUEtY1dpaXRqd2pTX1dVYlhHTlZWMWxxWGZyaHpJVl80Z2hDNUtWZ0FQVmxwalRwYW9tSUZjdTYzNVB3S0txYk5xQXdsSHduSURpWlExck0tU2lJeWhqS011Ykl6ck4yOVlzbTZWSTlETTB6VDJOdDUweVZPSnJBajlxdWlSMkUzYjFvRS1VUjZHblByREN6YWZPUzJ4TUMtM2FfTTdhV3R0WGtDRXB6enk2YzdOaEg1dWFjc2w2MDJDaFlwVGFlNV94NERvUkxTNGljNlRfSlVEVGtqUTBUOVJ5SEZnZHhINzFHeGxGSWJZbDgyNE1sRHVBMlRNcm8zazlLdUtEXzBKdmNJTE9fdW9rSnZPTlFQMjNoWFNjbW9VYkE0LTNKU3hNbU5FRF9PX0RvbFlRWHc1WmtnRkJBTW5zWENxQ2U2YmlYQUxQNnhLLXJVaF9hcFJ0RzRqMXJVb29GQ2pJVzExWVFsSldId1hnU0RTM3RsWGExOU5TOW9wdU45cnV0LWtIdjR5eUFkay1GbV9tM1M2SGRFYmM2MmtyNnRYNFB2VQ?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5"
         }
       ],
       "keywords": [
@@ -381,27 +322,263 @@
               "name": "Treprostinil"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "0cd4e0a318b3",
+      "title": "乳癌｜32歲女每晚淺酌紅酒易臉紅 求醫揭患乳癌 醫生教6招降低風險患乳癌",
+      "published": "2026-10-03T01:00:00+00:00",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNWEpZaXhXSFRtM0pISHRRaW55cDFRWGY2OFBwZHJMOTlxRllNWWtYSTdoNzRhcUt1LUhWempxRkt0b3Jza1Q5TEppUTlfUEdTWV9nX0owUG93VXBVMGhtZm42RE9uUjBXMTVBMVExUkFDd3E5MUZWeFREdDN5SXZWT1VJRk1ack9fajN4RWFuSjZMYnF5SC1lSlU5RXZUazEwMDI3aXFVMnJsYnJWd0ZocXBSVXN5bHRzckY2WmZQUFRjaFdJMVV2QUpFVXNKX3BUTEhZMlh0S2lscE00TVN3NWYxQzRFV2lzMXE2dURJSnFnT2NaOEtOWkJyZ1dkSWNOOE9uZm55OTdGbUNZbW5zMHQ5R1VSSG1vY3F6VWRKUEpIcTBHZHZPX1lFU3UyalFwRjRYWDlZNzFFclZQaHJqakgyX0xWSlc4T05XWFlJY3ZXbFMyUThqemNXclBQUE9acERnOVhXNXZadm9kQmt5MjdlZEZfRWFrOGxKazZyc19nNWVObWFWbEd5VkVEOGtieFZUVjcwcVJhT09zRFJrWkpUOG5wLW9na3FOLWxwb0pQTmcyMGtQa0x4RF9oazY1RWE5UWhac0NrZUVYRUd0dzJ3?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
-              "slug": "ouabain",
-              "name": "Ouabain"
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
             }
           ]
         }
       ]
     },
     {
-      "id": "33c2bd48473c",
-      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生 - Overseas Chinese Daily News",
+      "id": "030ae00aa9f1",
+      "title": "卵巢癌75%確診已末期 日本女星1個月逝世 留意4大偽腸胃病症狀",
+      "published": "2026-10-02T23:40:16+00:00",
+      "sources": [
+        {
+          "name": "hk01.com",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPSGUyS0t0UF9SSUs0am82SjdDRXF2NHF2S1A2SktkLUIwNVZVcG9KbEJFOEt2UTMxUHp3V0ZkTHpLd3hCbUVPTnh6MG5PNEhiOXFxdXRhc04ySVBMc3ZkVnJnU0llMDhuWFF3YzZpUTZsR21JZTRDWmxDdThmWDRJZ3ZHdHBqZnNUZ19OanptNVh6R052Umd6OFJPNmdNaVR6X0NNY1FZaE04LXoxUDhUR2JQa3RlYWVfNTRONThXb0RDa0JjWjVEQjNmSDRyZHRRTXJwMzBRcnFpbzMyMUF3c2FEMUk5OGRraWlFSkc4OUNQODBPbnF2ZE5wZ0hoa2tSOFVvb1MyRC1OMnFqV1EtQk9xN3kxSE9zQzMtV3N0bEhySmRSb1ZuRm85VTk3RFpHemN4UmRYOEhUc21oVHJxSXRER242WnU5c3VBWlAtMlg1bU1LY25jTFpNLVpTN3o5YU14bzdFVW1FcGpweXJCb2VJUXhzS1ZkdTYxZFktQlNCel9hRnlia0x2RnFzRGowelJMY2oydHI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4150dd607cce",
+      "title": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍",
+      "published": "2026-10-02T08:32:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98445965532b",
+      "title": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29%",
+      "published": "2026-10-02T05:48:56+00:00",
+      "sources": [
+        {
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7134dc15450e",
+      "title": "鼻竇炎｜5旬男長年鼻塞頭痛鼻臉灼痛無法入睡戒除一類食品4日鼻竇炎症狀消失14%患者有相同過敏- 東張+",
+      "published": "2026-10-01T02:15:00+00:00",
+      "sources": [
+        {
+          "name": "mytvsuper.com",
+          "link": "https://news.google.com/rss/articles/CBMimwVBVV95cUxQNzh6LWpVbEc4ZThmR09sZnNaREZmRlM2cFlSQ1hEa3FDSWVZVTNHcXRpaUtNSjl6TWpPOWRMNnhfU1lUYXFNOFFZbGlqakJ1UXVhNndBMnNtNV9xYTNDWkRKS0N1elNZRGJCcWItMFhCTWlZdEVpQzBxYlFfWDloaS1MWVBTeGZuVkltQXlQRTFRbHJDVFhPSkdOTGNkemxTOHZCcjdPZzY1UHpnMFl4THF2aEtlS2h6R3M1Rl9aWXZyS3h6QjdpUUpLZmZOMVR0QjM2STh5VmFHT2lWblZiVGlPdzN5WHp0MU9oZUIyT2ZFbTJlbTI0cVRzQ0JieXRoaXZYQk1BNExXRUd3STEtalJNeGRGVmZKNk81V3hhZzBZNmlrMjNaeXNiZHdSVE8tclNKN1dvRXNEaE01NkJkRl8wYkQ2VHpfWWJKRGhGdUU1UTJ0VkdHOWhUMEY4QUY0V0xBN2hJQUtxeXhYenJUT2J4VWhzZlNkMWYzZ1M5Yzk5R0kyUzQ5T0Nnb0Q0QlB0QmRjYXUyWlVwRWZCOGgxbWJndlFMQU9EZ3RkSlhKdmdNZ3VyS3h1eF9oVk9nd3Y4dWV1WjhqdjVYTV9VVDhfWVZ2VmNTbmt6YTZhcVJ2eFBmVExWR3A2X2UtdE55Si1HWEJfd09jS2N5ZGlDUjUyTVNVaGFaN1U5eW9GS2xfd25aOF9KT0F5X0xrZ21HdnNEU3ctdXJwM0gwaDVCckZwUmVvTFRzU2NZbTd2OWRyVF9vOEdsZU5QalAxV1ZNVWdmOHhkNVhudzFOX3JRVmUtNFlEMzA2V2c3VWlibzc0SUVNQzdwRDZkTkg4dUl5TEJfdXhmdmZacFlQZEctQjJvVUE4Mkt0OFRnOE1j?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29af6c79564c",
+      "title": "血癌｜全身瘀傷以為跳舞受傷28歲女確診血癌抗癌成功訂婚重拾工作白血病成因+徵狀糖尿病高危- 東張+",
+      "published": "2026-09-30T23:45:00+00:00",
+      "sources": [
+        {
+          "name": "mytvsuper.com",
+          "link": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQTEZpR3k1Um9yV0lBWDFQazRBLWFiWjlpcXNkdXNKYVoycFdUWF9BN2xNSlAxUno3VndXQS1PMHFJdlNpYUhKelRmdjBWazRJeWRsMkkwUUIybHJGeFFUVHp1c3hGRWY5Y0ZMYXRBN3JwdHdGOHNOMkFoX2hkUWJ6eHVMalIyQWxLR3RBU1FtSzdsM1JEVDR1UFNxbl9xLVotQzdmamplaXBaYXc0NGg0VTVkZ2ZxajdIQ2J3U1FZZFpiSk9kUmxqZ01QM0M1U1c5SThLbEtZelRJb0JTdjZGN1pNUGxtZlNrVFY0SUo4Slo0cVlYQlFFMGYwMTFobDR1SWlOeC00blFCRkhkRDFZbzRuei1hNTR6VnlWUG9ZOVpFZEFGMjREZkgzenVyX0x3bGVpbTZ1X0N6ZVJqSkVLYUJwbFcxQ1NrZUltNW9pV1FibW1MMlhMS1E1ZTFFMlBsMS12NUpVU05UdlRXc1M4aXgtSGNaeUdBVjZXNnlXdUZpUl9IS0RHcmpEc2NzQmRYLUdxbVJxQmk0ZGtoQnFoaWlLZDdZWG9RUzNqR3V2OFZBQXBPZHVZcm9uRzdkR0xVOGdLMGtQckl1YTlTYlY1N3FfVmFNX1p6TVkzaThSeUFqcmlobTRBWTR6YmF0cWFRQ3d2cTJ0SUpzQ3ZhZXVyUmZNakJmWllWN05scHdHRm9MUUZjSF9COUNzb3ZWaXBrVWVpU1NxcDM3TDZPb0g0dWxfYUJoQ09icG5HOG10MXhLVzZDcUE5MDhkaEJfWHNtZ3lnQ085Uy1JQUdfMlVpa24tS3RrdzFOR25SSHhGdmN1alktRzN1bzZJMTREWDMwRWRZMnlaN29qSlFhamxRcmRLY1Nialk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myeloid leukemia",
+          "keyword": "血癌",
+          "related_drugs": [
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "白血病",
+          "keyword": "白血病",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14cdb6b57e04",
+      "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招",
+      "published": "2026-09-30T08:53:34+00:00",
+      "sources": [
+        {
+          "name": "hk01.com",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNaEZoNkpGWWIzeVEtUGNQMjJOdUFfb1JmeExsdFFWcTdiakdQZkNvMzVPWVZWc2Q1LUVLVjhHcjZvQm9LTEVVZFJsM215TndoT0dTYTlrNFNxLXJBZ1RoMEhPU09lcURXS1RiZ1h1a0NWc3V5NV80WmhnekxSUGxXTkt6YmVWX21hbnpia3Q1X0g4anpIRWctc1dnYWZJTlo3VkpVRndQSXVhOHdpdVUwV1ROc1dWWHdENXI1dFN0blkzS3pQQWkxT1JnMS1NYTVRakViMUg4TFJHeWFaVjRXeEdCYWtVdS1meDBPZm5jZ2hycEdfYkVDVUhLYWo1TGZFMlBUN09tUEFYUm9EMGRxYkxMOFJDcE52bjVBcmw0RmtFbGQ4T0RjUUtNUHFDWUZNeEpmcjRrQ3E0bzI4ZGVoZWNpTllvd3JzV0YxdkFCXy1UemlYRkg2NUVsTlJ5bHRpbVN2cW5MNWJndWhtOWRZOXNtU2RVMDR2WV9vUnRYc1h4SjEwZ3JxenBCc1FjLUtmcmpkeWhlUTBjeE5VTEp6LUN4bW5qTnJfYUt0NjUtdmhzZWhrQVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f44c6bc0b42f",
+      "title": "卵巢癌｜摯友命喪卵巢癌數月後5旬婦同確診兩度復發積極做義工回溯4大徵狀誤當衰老壓力大延醫- 東張+",
+      "published": "2026-09-30T01:27:21+00:00",
+      "sources": [
+        {
+          "name": "mytvsuper.com",
+          "link": "https://news.google.com/rss/articles/CBMiogVBVV95cUxOcVRyaWF3UUlKMElYcXFXazJYZlpNaS1QTHlXdnFZSTloWFU5djJXWVBucXdqMHRGejFDTVdQeWlxeW5BNFRMazBtNnZQdWtoN2JFcVpWSVNfaHVqWUR2aWIta0dFRU5QckpGQl9hTWU4VkhRWWMwYmlOVHFWTUZOTjY0aWJSZy1TTUlmenFMV3BzUFZXVmVEQ2FBTFFqeng4RU13M3lVTVVWaG53ajI4dEJCcjFnQ3JWTXotTzg4ODRSRHFhNjY4ZVRWa3BGdzBEdzhheUNRVUdacjZsTE9TNENxYlVhS3RTanJWRlRIdGs3cjF1UjdpWF93dHVDVFBYU1dybEtKNU1oOTRiMmZLYTRHQldRRVhNcnhKY3gtcUh4ZUlzM1RLc0ViZHRsUkU2bTUzM2J3TGo4YjItblY2aU1pV1lxOXcyZXRGYkRkVE5oS0dQN3dmTzdoUUlaZTJLNTQwa2VpeFBqRkhPc3FhSHFWQVlyX2JDb0duOFoyWnJjVmhDY1hIZG9FdTd1UmhPNVZRd3VyM2JOM2dSZldwUlZQLWcxYzhoMktWZjJnRWE0Vjh4OUlMNE9GLTZxR3E2RFZXX3JyRU85eF9RNnBnX3Q2RWlHOS01UG9pRTJPT3JqaEdWTkdDRm1ZcjQ4U0V5bHF2VktpeEJCYzkyc3o3OTR2Y2MwRzdwOEVTRFNZRnRGNThKbDhqbFZqZ1FvVGJiQnhlQ0RBX3FlSGtWUjJRcUY4TlljQjAwOExCRzZLXzZZdTdCMmVsNElXWlhTUEExa2xjeDNSMXNELWxlT2lNM19hQVB6T3FyMmlTTDdvdzhJRXRHbnlDbVhQaUREUUNrbzhQZFU3cThvVGI0V0xheXVsNm5XeDlOd2RCMXBKTFBDQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2365a5c0fc3",
+      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生",
       "published": "2026-09-29T13:14:47+00:00",
       "sources": [
         {
-          "name": "Overseas Chinese Daily News",
+          "name": "overseaschinesedailynews.com.my",
           "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQelFIeXNyUmFqcURibkt2SXdsQ2dSbHZocGdnMHdpUW10ODZZWmpoaEVhelNjY1pocU1SQUUtd2RhemJyeXZIajhZWUpXT0pyXzRydVVHbTBmNlZBOURQZnJDLVF0UVFBSTVHY2dudU1DcUM5Q1VEb0s4em92dTdaNVdoQWpjaE1lRC1GOVRyNFBwMm9IaktNUDlmOEtDa1VOS2k3anRQdDZRMGxvejF6dzBQcG12M3kzejVlblVNallqYzlJQmZldENqZXBXWGwwSWlyaWtKa242anBnUjVMQkduX0ZkTDZtWTNSQVczM0dBdEQtbHRIdzJGcy1tcWFIZDhtTExZYzc1RUl5bGsydUFtZzBfSDVqd2RDUGY3M09SbWNGWHEwcVlqVkdJa3l6b3dFdm1DbUkxcDBvN1R5eDFqZHZ5U2RMcTR4bFY2UDkxTk53VkhoYmdPVWhpYTItY2pkNy1BMm1iX1VKZExrMDJCXzJmZi1uSWRjazExa3AtenJGaUZmOUFQcTFhcHMxbmpGa01ncVMzSDY1NlhzNUNHOA?oc=5"
         }
       ],
@@ -450,30 +627,6 @@
             {
               "slug": "lornoxicam",
               "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2beee642ea63",
-      "title": "李連杰自爆患「阿茲海默症」坦言想擺爛！醫：先別慌！控制14風險因子很重要",
-      "published": "2026-09-29T00:01:54+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQZmxIQkowVXN3TDltZjJhVmNHRGh6b3YzbDFfQXg3b2RwLXJ6VTJnczJTR2JNcjluTHc2elZTODljM0dqem9MUmQyTkhfMzF5TktGU2JnLXdGUnJWLXNxVEpIY05lb3FnaHdjMHhQZzFaOWV2TWdtNThHb2VLOWlaV3l6TEtFaXNGY0dKVENxT1pCZV9nTDhuTkFFNzJWeUV6bUp5REZIY0c5X0Q5cWxrTjhOTTc3Q01JOHVUSFBsSkF2alFPSHM4RjFKc05QbzhZTF8xSjVaOTFZa0xIWmZ5MzJsXzBDZlZaa1pRQVp1RFlSVmVSbXd3aWhOQkNEbEhQMnhDTl9sbHJWanRfQ280UnRneGh0WG1HMkhtYjloVkwtV2NIdjdaaWE0S1hzMS1LT210STdJZDN2TkZlWjU4aE9qM2FnSzNQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

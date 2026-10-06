@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "停經 (menopause) 相關新聞"
+title: "更年期 (menopause) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "停經 (menopause) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "更年期 (menopause) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
-# 停經 (menopause) 相關新聞
+# 更年期 (menopause) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="停經 (menopause) 有什麼相關新聞？">
-<strong>停經 (menopause)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<p class="key-answer" data-question="更年期 (menopause) 有什麼相關新聞？">
+<strong>更年期 (menopause)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「停經」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「更年期」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -34,11 +34,11 @@ permalink: /news/menopause/
 
 ## 相關新聞（1 則）
 
-### [58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
+### [58歲婦車禍後竟得「心碎症候群」 更年期後為何心臟更脆弱？](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdG14MHFPQW5aUlJGT2ppT0hYT3R6anA3U1NxMVAzS0JzSWhNNVJVU1Z2MUd5emN6Q0UyekV4eDI0Vmx1MnYzZm5XU1BhSDBvTWFQQk11ZDlDbUUzc1pR0gFfQVVfeXFMTlN0bXgwcU9BblpSUkZPamlPSFhPdHpqcDdTU3ExUDNLQnNJaE01UlVTVnYxR3l6Y3pDRTJ6RXh4MjRWbHUydjNmbldTUGFIMG9NYVBCTXVkOUNtRTNzWlE?oc=5)
 
-2026-10-03
+2026-10-05
 
-來源: [經濟日報](https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5)
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TdG14MHFPQW5aUlJGT2ppT0hYT3R6anA3U1NxMVAzS0JzSWhNNVJVU1Z2MUd5emN6Q0UyekV4eDI0Vmx1MnYzZm5XU1BhSDBvTWFQQk11ZDlDbUUzc1pR0gFfQVVfeXFMTlN0bXgwcU9BblpSUkZPamlPSFhPdHpqcDdTU3ExUDNLQnNJaE01UlVTVnYxR3l6Y3pDRTJ6RXh4MjRWbHUydjNmbldTUGFIMG9NYVBCTXVkOUNtRTNzWlE?oc=5)
 
 ---
 

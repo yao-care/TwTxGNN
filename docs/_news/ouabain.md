@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>
-<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心臟病發</span></li>
+<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心梗</span></li>
 <li>thrombotic disease (99.3%)</li>
 <li>hyperthyroidism (99.3%)</li>
 <li>homozygous familial hypercholesterolemia (99.2%)</li>
@@ -44,19 +44,19 @@ permalink: /news/ouabain/
 
 ## 相關新聞（2 則）
 
-### [確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
+### [確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CU1FhTTZKSEdyOWwzSGNKd0dMdGVfbmJZNHNBOW45V3lNMnBmVUlOOHl0Sk40QzVUWU9xZnRuUjF5cmRhbWtvRnJ6anJQTHJUQ3BncVdn?oc=5)
 
 2026-10-05 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CU1FhTTZKSEdyOWwzSGNKd0dMdGVfbmJZNHNBOW45V3lNMnBmVUlOOHl0Sk40QzVUWU9xZnRuUjF5cmRhbWtvRnJ6anJQTHJUQ3BncVdn?oc=5)
 
 ---
 
-### [林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死](https://news.google.com/rss/articles/CBMi1wRBVV95cUxNcUJQZlRNVEZBMmJ5XzdiNXI5dGFIaW5rQ1h1dmJXNWhzX3RmVHF3eEFDMXU3a3pzMFZyY0VkTl9CSVU2RlpnZEJXRDh4cHRtaGxlNTM1YVloazRnMGVTZWoyalh3aWhGRGMtV29CQktCSGNBTmtUZ2lxSEM1VGVaNEQ2cFRxSWNoektJUkFqa2VXRzJxTEpmMHplSlFhck5rT1k0QW1HRVlLSmRmRWNqcHdzTjZ0RUEtY1dpaXRqd2pTX1dVYlhHTlZWMWxxWGZyaHpJVl80Z2hDNUtWZ0FQVmxwalRwYW9tSUZjdTYzNVB3S0txYk5xQXdsSHduSURpWlExck0tU2lJeWhqS011Ykl6ck4yOVlzbTZWSTlETTB6VDJOdDUweVZPSnJBajlxdWlSMkUzYjFvRS1VUjZHblByREN6YWZPUzJ4TUMtM2FfTTdhV3R0WGtDRXB6enk2YzdOaEg1dWFjc2w2MDJDaFlwVGFlNV94NERvUkxTNGljNlRfSlVEVGtqUTBUOVJ5SEZnZHhINzFHeGxGSWJZbDgyNE1sRHVBMlRNcm8zazlLdUtEXzBKdmNJTE9fdW9rSnZPTlFQMjNoWFNjbW9VYkE0LTNKU3hNbU5FRF9PX0RvbFlRWHc1WmtnRkJBTW5zWENxQ2U2YmlYQUxQNnhLLXJVaF9hcFJ0RzRqMXJVb29GQ2pJVzExWVFsSldId1hnU0RTM3RsWGExOU5TOW9wdU45cnV0LWtIdjR5eUFkay1GbV9tM1M2SGRFYmM2MmtyNnRYNFB2VQ?oc=5)
+### [不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
 
-2026-09-30 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心臟病發</span>
+2026-10-03 <span class="news-indication-tag">心臟病</span>
 
-來源: [topick.hket.com](https://news.google.com/rss/articles/CBMi1wRBVV95cUxNcUJQZlRNVEZBMmJ5XzdiNXI5dGFIaW5rQ1h1dmJXNWhzX3RmVHF3eEFDMXU3a3pzMFZyY0VkTl9CSVU2RlpnZEJXRDh4cHRtaGxlNTM1YVloazRnMGVTZWoyalh3aWhGRGMtV29CQktCSGNBTmtUZ2lxSEM1VGVaNEQ2cFRxSWNoektJUkFqa2VXRzJxTEpmMHplSlFhck5rT1k0QW1HRVlLSmRmRWNqcHdzTjZ0RUEtY1dpaXRqd2pTX1dVYlhHTlZWMWxxWGZyaHpJVl80Z2hDNUtWZ0FQVmxwalRwYW9tSUZjdTYzNVB3S0txYk5xQXdsSHduSURpWlExck0tU2lJeWhqS011Ykl6ck4yOVlzbTZWSTlETTB6VDJOdDUweVZPSnJBajlxdWlSMkUzYjFvRS1VUjZHblByREN6YWZPUzJ4TUMtM2FfTTdhV3R0WGtDRXB6enk2YzdOaEg1dWFjc2w2MDJDaFlwVGFlNV94NERvUkxTNGljNlRfSlVEVGtqUTBUOVJ5SEZnZHhINzFHeGxGSWJZbDgyNE1sRHVBMlRNcm8zazlLdUtEXzBKdmNJTE9fdW9rSnZPTlFQMjNoWFNjbW9VYkE0LTNKU3hNbU5FRF9PX0RvbFlRWHc1WmtnRkJBTW5zWENxQ2U2YmlYQUxQNnhLLXJVaF9hcFJ0RzRqMXJVb29GQ2pJVzExWVFsSldId1hnU0RTM3RsWGExOU5TOW9wdU45cnV0LWtIdjR5eUFkay1GbV9tM1M2SGRFYmM2MmtyNnRYNFB2VQ?oc=5)
+來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
 
 ---
 
