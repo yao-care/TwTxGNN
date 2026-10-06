@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,17 +46,9 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [雞蛋吃對護腦 研究揭「每週5次」阿茲海默症風險降27%](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVXcyNHM4MklxdmlfUFVUNGpHQ09jM28takJOVXBBOXRsS24zZDF0cXYyakQwVUJ1bFRvaC11WldFQTVJRmhnQi03VHF0OW5mekNlMVV4cnN3OGNDeXZ2TA?oc=5)
-
-2026-10-05 <span class="news-indication-tag">阿茲海默症</span>
-
-來源: [民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVXcyNHM4MklxdmlfUFVUNGpHQ09jM28takJOVXBBOXRsS24zZDF0cXYyakQwVUJ1bFRvaC11WldFQTVJRmhnQi03VHF0OW5mekNlMVV4cnN3OGNDeXZ2TA?oc=5)
-
----
-
-### [全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+### [吃全脂起司會胖又傷心臟？權威期刊翻轉迷思：低脂起司無效！每天吃「這份量」血管性失智風險大降29% - Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
 
 2026-10-02 <span class="news-indication-tag">失智</span>
 

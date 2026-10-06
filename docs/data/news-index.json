@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T15:34:01.364233+00:00",
-  "count": 14,
+  "generated": "2026-10-06T20:40:04.562750+00:00",
+  "count": 13,
   "news": [
     {
       "id": "9137404b1185",
@@ -153,12 +153,12 @@
       ]
     },
     {
-      "id": "bfbbdf122753",
+      "id": "8ec6a49b8977",
       "title": "旅行完就狂咳 因飛機冷氣太凍？醫生揭4大症狀勿只當普通感冒",
       "published": "2026-10-05T23:00:00+00:00",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPcllDSExWMk5DMmd6Q2pzX09wQ2V2NTczVzFrQ1cwbEdNX3o2MkctWDloOEVwLWtmQ0NxWjRHUV9XUThLWG9NTzVVRU03OGNIQ0hiS0lyU2VfSWswRlNxUkcwV3I1dVZCSmZaUnpJSTZ0d19QX1d4WW9DSnhMbUpkcC1Jd2l6eFd3OHN6elRWYzZLRzdpUlFZQ2JmNl9pZ3JEem5jSWc3ZXp6X0FIN280Yk1DSXJ3b0FEelFSSm50Q19JS3UyVVZhZk9YSXk2NWR6bDdnTWp2NkN2bU8yZ1l6ekRIYTJ1S3R4V181SHRUQ3BCd3ZTN0dCZ0dmY040NnBrdktwY3djLXR2bmYwWmt1MkVhME5WVUhyOWVxaFgwbzgyMVVqbzZWS3hndDIxLUtoczFYaHZGelV0V0lWMTltSlpSeEtSWEI2N0wzTjVDNUZVMjJvS0lpLU4tQVNVNlJBZ01NX3dhUnBfelJwaGNNVDJocmFDSF9Cemkyc0VkeFJVTS1aRmlaUlBWUHVMOVVmX0VWZmpHQkg1c1hEVXc?oc=5"
         }
       ],
@@ -195,30 +195,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a9e3474d1a5e",
-      "title": "雞蛋吃對護腦 研究揭「每週5次」阿茲海默症風險降27%",
-      "published": "2026-10-05T04:09:31+00:00",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVXcyNHM4MklxdmlfUFVUNGpHQ09jM28takJOVXBBOXRsS24zZDF0cXYyakQwVUJ1bFRvaC11WldFQTVJRmhnQi03VHF0OW5mekNlMVV4cnN3OGNDeXZ2TA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }
@@ -336,12 +312,12 @@
       ]
     },
     {
-      "id": "f29096570802",
+      "id": "0cd4e0a318b3",
       "title": "乳癌｜32歲女每晚淺酌紅酒易臉紅 求醫揭患乳癌 醫生教6招降低風險患乳癌",
       "published": "2026-10-03T01:00:00+00:00",
       "sources": [
         {
-          "name": "am730.com.hk",
+          "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNWEpZaXhXSFRtM0pISHRRaW55cDFRWGY2OFBwZHJMOTlxRllNWWtYSTdoNzRhcUt1LUhWempxRkt0b3Jza1Q5TEppUTlfUEdTWV9nX0owUG93VXBVMGhtZm42RE9uUjBXMTVBMVExUkFDd3E5MUZWeFREdDN5SXZWT1VJRk1ack9fajN4RWFuSjZMYnF5SC1lSlU5RXZUazEwMDI3aXFVMnJsYnJWd0ZocXBSVXN5bHRzckY2WmZQUFRjaFdJMVV2QUpFVXNKX3BUTEhZMlh0S2lscE00TVN3NWYxQzRFV2lzMXE2dURJSnFnT2NaOEtOWkJyZ1dkSWNOOE9uZm55OTdGbUNZbW5zMHQ5R1VSSG1vY3F6VWRKUEpIcTBHZHZPX1lFU3UyalFwRjRYWDlZNzFFclZQaHJqakgyX0xWSlc4T05XWFlJY3ZXbFMyUThqemNXclBQUE9acERnOVhXNXZadm9kQmt5MjdlZEZfRWFrOGxKazZyc19nNWVObWFWbEd5VkVEOGtieFZUVjcwcVJhT09zRFJrWkpUOG5wLW9na3FOLWxwb0pQTmcyMGtQa0x4RF9oazY1RWE5UWhac0NrZUVYRUd0dzJ3?oc=5"
         }
       ],
@@ -408,8 +384,8 @@
       ]
     },
     {
-      "id": "4712f7c72edc",
-      "title": "全脂起司能防失智？25年追蹤研究揭「1關鍵」：吃對這份量血管性失智風險降29% - Women's Health",
+      "id": "629ec610868a",
+      "title": "吃全脂起司會胖又傷心臟？權威期刊翻轉迷思：低脂起司無效！每天吃「這份量」血管性失智風險大降29% - Women's Health",
       "published": "2026-10-02T05:48:56+00:00",
       "sources": [
         {
