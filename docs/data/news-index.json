@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-06T08:20:05.042189+00:00",
-  "count": 12,
+  "generated": "2026-10-06T15:34:01.364233+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "d71a357965ff",
-      "title": "孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」",
-      "published": "2026-10-06T06:31:12+00:00",
+      "id": "9137404b1185",
+      "title": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-10-06T04:16:23+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPd3I3c09tU1kwY2c5R1pJVTB5OFlrVnlrQk5XQjV0S1B4ZHpFXzBhU1dLdVphcUhrTEZldXNxM2MyS1hVbjZtRlR4bVBYOWZSZmVWZWZiOC1KRGlNN1UxTFVIZ09iSmFGbG40azUzUjNlemx3RFR3QmhqZXNGblBYUlpqeV9mOGFmTjRZWnFDTzc3NVdQaTlnMVFoaFlQMi16R2k2QTNKbWxQYm1IcUxTZUxuUk80WkNfRzU5RXByeGhLMEZtS2p5emUtUnJEbUlOUk12R3RLMEMxamRiRmxOYzhwV0NveHNZeHctYWZvWFMyLVpoN1I4NjRET2FQYTg4ZmJaUnoteGJDNTA3MXJHTnlNa3NrNWN3S0lKdFp0R2xTbUJJ?oc=5"
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5"
         }
       ],
       "keywords": [
@@ -27,9 +27,37 @@
       ]
     },
     {
+      "id": "bdae5a6b22a8",
+      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
+      "published": "2026-10-06T02:57:59+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ3FkYkZIMFRfU19acDJtaVRpanYtMDJvTzRUWjlaYS00eGJDSjVZNnptUU52RTlEczQ4em9UdFpONkk1R0hvVVNURjNQT2dOWUpvVUs3Rm96dHV1RmJfRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "663987970bb4",
       "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％",
-      "published": "2026-10-06T00:03:56+00:00",
+      "published": "2026-10-06T02:42:05+00:00",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -75,12 +103,62 @@
       ]
     },
     {
-      "id": "8ec6a49b8977",
+      "id": "e6e86e14303d",
+      "title": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子",
+      "published": "2026-10-06T00:18:13+00:00",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNLUlESGVIclhYTWRodVJKUVVudHhKblRFaXE0c2dORXBieFBic0NzbzhZRXU4QU5KNzlMMGlJLXpMZVpMNm9aWldhdG15UDRwaGJBR1I2ZklTMDE2X1l1bF9CNUJpblJ3a3V3Y2V6VlN0c2Zac09HYzFqT0FkVTRfdVU5aC1RV2ViUERIbTY2RVMybnk3QktCUnhHQWdhaldGRkxkYXJVdU1uY0hSQWpVMkVBNHI0d3k3TmU1VXVmNGs1UlQzdmZvUjlVRzJ5R0ZkWDAyUjcwQVJVcklLdzd3T2JvUFlWWXBzbHdXY0Q4MWNjV1RVcG5HeEN4VjYyRVdGekxNRGxZRXVydFpkZ1MxNzdESXViVFdId1B1Tl9KQzNHNUx6WmdoRlZGN2pmR05TUVdNd3NpR2wwdjBUWW92YWNBZnJVUEFYVl9hSzRMQ2hVbDZIcnFsMGlkVXNYQkdnUnBOR2FuS092MkJTczdsTWhEbVJIZ0psR1BlbXFlZHVwRTNKRXdN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfbbdf122753",
       "title": "旅行完就狂咳 因飛機冷氣太凍？醫生揭4大症狀勿只當普通感冒",
       "published": "2026-10-05T23:00:00+00:00",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPcllDSExWMk5DMmd6Q2pzX09wQ2V2NTczVzFrQ1cwbEdNX3o2MkctWDloOEVwLWtmQ0NxWjRHUV9XUThLWG9NTzVVRU03OGNIQ0hiS0lyU2VfSWswRlNxUkcwV3I1dVZCSmZaUnpJSTZ0d19QX1d4WW9DSnhMbUpkcC1Jd2l6eFd3OHN6elRWYzZLRzdpUlFZQ2JmNl9pZ3JEem5jSWc3ZXp6X0FIN280Yk1DSXJ3b0FEelFSSm50Q19JS3UyVVZhZk9YSXk2NWR6bDdnTWp2NkN2bU8yZ1l6ekRIYTJ1S3R4V181SHRUQ3BCd3ZTN0dCZ0dmY040NnBrdktwY3djLXR2bmYwWmt1MkVhME5WVUhyOWVxaFgwbzgyMVVqbzZWS3hndDIxLUtoczFYaHZGelV0V0lWMTltSlpSeEtSWEI2N0wzTjVDNUZVMjJvS0lpLU4tQVNVNlJBZ01NX3dhUnBfelJwaGNNVDJocmFDSF9Cemkyc0VkeFJVTS1aRmlaUlBWUHVMOVVmX0VWZmpHQkg1c1hEVXc?oc=5"
         }
       ],
@@ -123,16 +201,51 @@
       ]
     },
     {
-      "id": "55ad2336f4a9",
-      "title": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要",
-      "published": "2026-10-04T02:00:19+00:00",
+      "id": "a9e3474d1a5e",
+      "title": "雞蛋吃對護腦 研究揭「每週5次」阿茲海默症風險降27%",
+      "published": "2026-10-05T04:09:31+00:00",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fVXcyNHM4MklxdmlfUFVUNGpHQ09jM28takJOVXBBOXRsS24zZDF0cXYyakQwVUJ1bFRvaC11WldFQTVJRmhnQi03VHF0OW5mekNlMVV4cnN3OGNDeXZ2TA?oc=5"
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1f719f8a339",
+      "title": "確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0",
+      "published": "2026-10-05T02:00:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "stroke",
@@ -151,12 +264,12 @@
       ]
     },
     {
-      "id": "4dea5753ccb5",
+      "id": "32bf3326611c",
       "title": "不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%",
       "published": "2026-10-03T10:12:02+00:00",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5"
         }
       ],
@@ -223,59 +336,12 @@
       ]
     },
     {
-      "id": "cf99bf443d8c",
-      "title": "58歲婦車禍後突發「心碎症候群」 醫師提醒：停經後心血管風險不能只看三高 | 熱門話題 | 要聞",
-      "published": "2026-10-03T10:00:12+00:00",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XVF9QR0d2MFA2a05HRjkwMTdzZ1F0bnZEakZFQ1lObXdldlZaSnFESFdRMDc0MHNvbXRGa3FZNHE1ZXU3RTJGcHZGT1U4UkNYemYxT0xFWFVRUVBEMl9zSHZVVDlDclNyYXNXS2dKcl9kOWFNYVZN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0cd4e0a318b3",
+      "id": "f29096570802",
       "title": "乳癌｜32歲女每晚淺酌紅酒易臉紅 求醫揭患乳癌 醫生教6招降低風險患乳癌",
       "published": "2026-10-03T01:00:00+00:00",
       "sources": [
         {
-          "name": "AM730",
+          "name": "am730.com.hk",
           "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNWEpZaXhXSFRtM0pISHRRaW55cDFRWGY2OFBwZHJMOTlxRllNWWtYSTdoNzRhcUt1LUhWempxRkt0b3Jza1Q5TEppUTlfUEdTWV9nX0owUG93VXBVMGhtZm42RE9uUjBXMTVBMVExUkFDd3E5MUZWeFREdDN5SXZWT1VJRk1ack9fajN4RWFuSjZMYnF5SC1lSlU5RXZUazEwMDI3aXFVMnJsYnJWd0ZocXBSVXN5bHRzckY2WmZQUFRjaFdJMVV2QUpFVXNKX3BUTEhZMlh0S2lscE00TVN3NWYxQzRFV2lzMXE2dURJSnFnT2NaOEtOWkJyZ1dkSWNOOE9uZm55OTdGbUNZbW5zMHQ5R1VSSG1vY3F6VWRKUEpIcTBHZHZPX1lFU3UyalFwRjRYWDlZNzFFclZQaHJqakgyX0xWSlc4T05XWFlJY3ZXbFMyUThqemNXclBQUE9acERnOVhXNXZadm9kQmt5MjdlZEZfRWFrOGxKazZyc19nNWVObWFWbEd5VkVEOGtieFZUVjcwcVJhT09zRFJrWkpUOG5wLW9na3FOLWxwb0pQTmcyMGtQa0x4RF9oazY1RWE5UWhac0NrZUVYRUd0dzJ3?oc=5"
         }
       ],
@@ -368,7 +434,7 @@
     {
       "id": "4e348276d1d4",
       "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招",
-      "published": "2026-09-30T08:53:34+00:00",
+      "published": "2026-09-30T08:56:12+00:00",
       "sources": [
         {
           "name": "香港01",
@@ -390,24 +456,83 @@
       ]
     },
     {
-      "id": "e2365a5c0fc3",
-      "title": "隨骨痛熱症病例增加, 納閩社區受促採取行動, 杜絕黑斑蚊滋生",
-      "published": "2026-09-29T13:14:47+00:00",
+      "id": "a8146762ec31",
+      "title": "林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死",
+      "published": "2026-09-30T05:49:24+00:00",
       "sources": [
         {
-          "name": "overseaschinesedailynews.com.my",
-          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQelFIeXNyUmFqcURibkt2SXdsQ2dSbHZocGdnMHdpUW10ODZZWmpoaEVhelNjY1pocU1SQUUtd2RhemJyeXZIajhZWUpXT0pyXzRydVVHbTBmNlZBOURQZnJDLVF0UVFBSTVHY2dudU1DcUM5Q1VEb0s4em92dTdaNVdoQWpjaE1lRC1GOVRyNFBwMm9IaktNUDlmOEtDa1VOS2k3anRQdDZRMGxvejF6dzBQcG12M3kzejVlblVNallqYzlJQmZldENqZXBXWGwwSWlyaWtKa242anBnUjVMQkduX0ZkTDZtWTNSQVczM0dBdEQtbHRIdzJGcy1tcWFIZDhtTExZYzc1RUl5bGsydUFtZzBfSDVqd2RDUGY3M09SbWNGWHEwcVlqVkdJa3l6b3dFdm1DbUkxcDBvN1R5eDFqZHZ5U2RMcTR4bFY2UDkxTk53VkhoYmdPVWhpYTItY2pkNy1BMm1iX1VKZExrMDJCXzJmZi1uSWRjazExa3AtenJGaUZmOUFQcTFhcHMxbmpGa01ncVMzSDY1NlhzNUNHOA?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNcUJQZlRNVEZBMmJ5XzdiNXI5dGFIaW5rQ1h1dmJXNWhzX3RmVHF3eEFDMXU3a3pzMFZyY0VkTl9CSVU2RlpnZEJXRDh4cHRtaGxlNTM1YVloazRnMGVTZWoyalh3aWhGRGMtV29CQktCSGNBTmtUZ2lxSEM1VGVaNEQ2cFRxSWNoektJUkFqa2VXRzJxTEpmMHplSlFhck5rT1k0QW1HRVlLSmRmRWNqcHdzTjZ0RUEtY1dpaXRqd2pTX1dVYlhHTlZWMWxxWGZyaHpJVl80Z2hDNUtWZ0FQVmxwalRwYW9tSUZjdTYzNVB3S0txYk5xQXdsSHduSURpWlExck0tU2lJeWhqS011Ykl6ck4yOVlzbTZWSTlETTB6VDJOdDUweVZPSnJBajlxdWlSMkUzYjFvRS1VUjZHblByREN6YWZPUzJ4TUMtM2FfTTdhV3R0WGtDRXB6enk2YzdOaEg1dWFjc2w2MDJDaFlwVGFlNV94NERvUkxTNGljNlRfSlVEVGtqUTBUOVJ5SEZnZHhINzFHeGxGSWJZbDgyNE1sRHVBMlRNcm8zazlLdUtEXzBKdmNJTE9fdW9rSnZPTlFQMjNoWFNjbW9VYkE0LTNKU3hNbU5FRF9PX0RvbFlRWHc1WmtnRkJBTW5zWENxQ2U2YmlYQUxQNnhLLXJVaF9hcFJ0RzRqMXJVb29GQ2pJVzExWVFsSldId1hnU0RTM3RsWGExOU5TOW9wdU45cnV0LWtIdjR5eUFkay1GbV9tM1M2SGRFYmM2MmtyNnRYNFB2VQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "黑斑",
-          "keyword": "黑斑",
+          "name": "heart_disease",
+          "keyword": "心臟病",
           "related_drugs": [
             {
-              "slug": "hydroquinone",
-              "name": "Hydroquinone"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
             }
           ]
         }

@@ -1,53 +1,41 @@
 ---
 layout: default
-title: "心臟病 (heart_disease) 相關新聞"
+title: "心梗 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心臟病 (heart_disease) 的相關健康新聞報導。2 則新聞、13 個相關藥物。"
-permalink: /news/heart-disease/
+description: "心梗 (myocardial infarction) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+permalink: /news/myocardial-infarction/
 ---
 
-# 心臟病 (heart_disease) 相關新聞
+# 心梗 (myocardial infarction) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心臟病 (heart_disease) 有什麼相關新聞？">
-<strong>心臟病 (heart_disease)</strong> 目前有 <strong>2 則</strong>相關新聞報導，13 個相關藥物。
+<p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
+<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心臟病」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「心梗」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
 <strong>相關藥物報告</strong>
 <p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><a href="{{ '/drugs/acetazolamide/' | relative_url }}">Acetazolamide</a></li>
-<li><a href="{{ '/drugs/dipyridamole/' | relative_url }}">Dipyridamole</a></li>
-<li><a href="{{ '/drugs/dorzolamide/' | relative_url }}">Dorzolamide</a></li>
-<li><a href="{{ '/drugs/felodipine/' | relative_url }}">Felodipine</a></li>
-<li><a href="{{ '/drugs/inositol/' | relative_url }}">Inositol</a></li>
-<li><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">Isosorbide dinitrate</a></li>
-<li><a href="{{ '/drugs/mannitol/' | relative_url }}">Mannitol</a></li>
-<li><a href="{{ '/drugs/metoprolol/' | relative_url }}">Metoprolol</a></li>
-<li><a href="{{ '/drugs/milrinone/' | relative_url }}">Milrinone</a></li>
 <li><a href="{{ '/drugs/ouabain/' | relative_url }}">Ouabain</a></li>
-<li><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">Oxytetracycline</a></li>
-<li><a href="{{ '/drugs/pipemidic_acid/' | relative_url }}">Pipemidic acid</a></li>
-<li><a href="{{ '/drugs/treprostinil/' | relative_url }}">Treprostinil</a></li>
 </ul>
 </div>
 
 ## 相關新聞（2 則）
 
-### [不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
+### [確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
 
-2026-10-03
+2026-10-05
 
-來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
 
 ---
 
