@@ -1,7 +1,163 @@
 {
-  "generated": "2026-10-07T00:14:34.589516+00:00",
+  "generated": "2026-10-07T06:42:30.573410+00:00",
   "count": 13,
   "news": [
+    {
+      "id": "44571db6c138",
+      "title": "這種肉要少吃！每天吃2片「阿茲海默症」風險飆升52％",
+      "published": "2026-10-07T04:49:19+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQd0FWM0lQX0ZDNW92UUMxNVN3NHVUSGZZUzZ2MWhJMlduSTVlS2V4V3p1OEI3ZFowTHVGdHE0Y0l0QjhVRkRXZ3FzVVc4RXdHY3hkZzZNdE0zQnVacVRvdUVSQUdYMm11VXNHMVNNbnVYbG5td2JVRHh5U0tWWV9zYzg3NlliRmtSdEJ6b25za01kQWNLRTNrTnpZd0VJcWp1YU54UlZQUjZNNk8za3JNYnFYNmhmUjdvalM1bHVNbjY4TC0tSnMzam9fTE1VNlJKQlNCUTlud240U3pzcWlJU0p5cWl5SlAydkZRUzFpRFQtalpnXzBnbWtGbVVtek5lNWlkSEhFNHFKSU9JUlNaSFYxUmZCRXA0Tm41TnAxZ2dvVWNWclpaZzVKczdPX1I2eW53ODJWR2s4ckY5OTc4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "19aba7b22ec1",
+      "title": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！",
+      "published": "2026-10-07T00:03:48+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81fb5eabc1d0",
+      "title": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？",
+      "published": "2026-10-06T12:44:52+00:00",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNb2lJNXFua0NGekU2WTNmTDVEMVVlMXVEdUFaTk5KMjdxeGdVUkN6a05sWUlKeUl6aU1RSlRTbEg3XzhaQVJXWTNZcGp3dXg4NWxnQkNsZl9jLWZraVZjMmFFaGtjeUViWGVhTUpJeGxVRF9pRGNBTDNsWGZkNTd2V1BUWVlKVnlxOFVDblpLdWFqTlpmMm1VX2FwbXppcFRwdlJjMlFVa0x0YTFwbmZ0UWJ6dGY1SGJBazZGVXFlV3MtbFd2U0xaOWRuZXdoWGVpSHBMOHQzZXMzbDdWN05KWXFBNXhxWUtOYTNrUWpDc2JNaHpDUmRkbHpIdy1TNlg5NDlpeVNBbUo1ckNuUVBZcGN0bU83RW1JNWFxOTE5bG0tMkloSVBwQWtiTkZwbHZ5aHY0MW9qV1UySndRUzY2R3psTEM5RENaZjR0UllMQjRuVHJBTm80?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5dd4e241ad83",
+      "title": "潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事",
+      "published": "2026-10-06T06:52:21+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnV2a0FOcWNUelMtbHFOZXMtRl9qcUN1RENERzBzeUd1RFJ0bERGeUk3MkpWUGJIaXNqc29IdXJaTFZqVnQ1b0RpenhQVlgwSTJ0ZmRBNUZMdjNwLWVZajVwNHFCRUVnWmUwRHBzUUpKVzBXNmwwYVpxUHpSVi1pYTBR0gFiQVVfeXFMTnZlaEJJM21KMDN1T2QxSUlGMWZyS3Jpd25wTjFfSHhYOTk5OEgtNEtQemlOcVF6cmw2cEZYUkoxaWRGbnZtSmY1OUFDcXNoeGVWTFcwTUNZRHJQY3dMN014TGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "青光眼",
+          "keyword": "青光眼",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9137404b1185",
       "title": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網",
@@ -21,34 +177,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "af5b85864dcf",
-      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
-      "published": "2026-10-06T04:00:06+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS2NPT2FZVnFKblJONWdrdHExU2FMb1Y1cF9Za18wd0M0ZENnMDM1VUhVVGJYQkZyMHBHTW5pNmdFWUxiWmR5eTNsRERYRDJ0NVhQMEcxeHRUWkRpMHBnRW56dlJSVkpTckZhcUpKaEhQczRLSjdWWmtycndDUFA0S2kzVFBTdnA2LWQydVpOeS1sVjEzUllrcFFPd1Y5ZnFLYmxfenRtYlZlRWZET0JyWXl2VUJMeXBOYTBmVS1IMklHVmhaSmtuN2JtSDRxbTgxNmxyNDNpRThrSjA4UV9rN25nckZTbEgwMTVSd0dXZnhlclJMMlBwYXRzb3JXUkh2YkVLdFhWQnBQazFNSXpSd0NscWxUWHZlQzNGdE5nRXJ4S0RBUm1ZTXNvb0M4LUJ0bjU2SVpFZHFKZnRVT0xpNHdsX2RscXRLWVdUWFdyM3FRS0FPNzJtRVlDLWN0RkVjUkdESjBCQlc2QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }
@@ -229,78 +357,6 @@
       ]
     },
     {
-      "id": "32bf3326611c",
-      "title": "不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%",
-      "published": "2026-10-03T10:12:02+00:00",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "0cd4e0a318b3",
       "title": "乳癌｜32歲女每晚淺酌紅酒易臉紅 求醫揭患乳癌 醫生教6招降低風險患乳癌",
       "published": "2026-10-03T01:00:00+00:00",
@@ -373,30 +429,6 @@
       ]
     },
     {
-      "id": "629ec610868a",
-      "title": "吃全脂起司會胖又傷心臟？權威期刊翻轉迷思：低脂起司無效！每天吃「這份量」血管性失智風險大降29% - Women's Health",
-      "published": "2026-10-02T05:48:56+00:00",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4e348276d1d4",
       "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招",
       "published": "2026-09-30T08:56:12+00:00",
@@ -415,89 +447,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a8146762ec31",
-      "title": "林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死",
-      "published": "2026-09-30T05:49:24+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNcUJQZlRNVEZBMmJ5XzdiNXI5dGFIaW5rQ1h1dmJXNWhzX3RmVHF3eEFDMXU3a3pzMFZyY0VkTl9CSVU2RlpnZEJXRDh4cHRtaGxlNTM1YVloazRnMGVTZWoyalh3aWhGRGMtV29CQktCSGNBTmtUZ2lxSEM1VGVaNEQ2cFRxSWNoektJUkFqa2VXRzJxTEpmMHplSlFhck5rT1k0QW1HRVlLSmRmRWNqcHdzTjZ0RUEtY1dpaXRqd2pTX1dVYlhHTlZWMWxxWGZyaHpJVl80Z2hDNUtWZ0FQVmxwalRwYW9tSUZjdTYzNVB3S0txYk5xQXdsSHduSURpWlExck0tU2lJeWhqS011Ykl6ck4yOVlzbTZWSTlETTB6VDJOdDUweVZPSnJBajlxdWlSMkUzYjFvRS1VUjZHblByREN6YWZPUzJ4TUMtM2FfTTdhV3R0WGtDRXB6enk2YzdOaEg1dWFjc2w2MDJDaFlwVGFlNV94NERvUkxTNGljNlRfSlVEVGtqUTBUOVJ5SEZnZHhINzFHeGxGSWJZbDgyNE1sRHVBMlRNcm8zazlLdUtEXzBKdmNJTE9fdW9rSnZPTlFQMjNoWFNjbW9VYkE0LTNKU3hNbU5FRF9PX0RvbFlRWHc1WmtnRkJBTW5zWENxQ2U2YmlYQUxQNnhLLXJVaF9hcFJ0RzRqMXJVb29GQ2pJVzExWVFsSldId1hnU0RTM3RsWGExOU5TOW9wdU45cnV0LWtIdjR5eUFkay1GbV9tM1M2SGRFYmM2MmtyNnRYNFB2VQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
             }
           ]
         }

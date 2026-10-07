@@ -1,8 +1,140 @@
 {
-  "last_updated": "2026-10-07T00:14:34.555400+00:00",
-  "total_count": 43,
+  "last_updated": "2026-10-07T06:42:30.555007+00:00",
+  "total_count": 42,
   "matched_count": 13,
   "news": [
+    {
+      "id": "44571db6c138",
+      "title": "這種肉要少吃！每天吃2片「阿茲海默症」風險飆升52％",
+      "published": "2026-10-07T04:49:19+00:00",
+      "summary": "這種肉要少吃！每天吃2片「阿茲海默症」風險飆升52％&nbsp;&nbsp;Yahoo新聞少碰1款肉 50萬人研究曝日吃2片：阿茲海默症風險飆52％&nbsp;&nbsp;中時新聞網常吃香腸、火腿？ 研究揭「每天多吃這份量」失智風險增44％&nbsp;&nbsp;自由健康網這種肉少碰！50萬人研究：每天吃2片「失智風險暴增44％」&nbsp;&nbsp;ETtoday新聞雲研究：每天兩片火腿腸失智症風險顯著升高| 超加工食品| 加工熟食肉製品| 阿茲海默症| 新唐人电视台&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQd0FWM0lQX0ZDNW92UUMxNVN3NHVUSGZZUzZ2MWhJMlduSTVlS2V4V3p1OEI3ZFowTHVGdHE0Y0l0QjhVRkRXZ3FzVVc4RXdHY3hkZzZNdE0zQnVacVRvdUVSQUdYMm11VXNHMVNNbnVYbG5td2JVRHh5U0tWWV9zYzg3NlliRmtSdEJ6b25za01kQWNLRTNrTnpZd0VJcWp1YU54UlZQUjZNNk8za3JNYnFYNmhmUjdvalM1bHVNbjY4TC0tSnMzam9fTE1VNlJKQlNCUTlud240U3pzcWlJU0p5cWl5SlAydkZRUzFpRFQtalpnXzBnbWtGbVVtek5lNWlkSEhFNHFKSU9JUlNaSFYxUmZCRXA0Tm41TnAxZ2dvVWNWclpaZzVKczdPX1I2eW53ODJWR2s4ckY5OTc4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b49a1098dd42",
+      "title": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾",
+      "published": "2026-10-07T03:21:55+00:00",
+      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPLVYxaWZWeEg4VTMyYmRUX0FENXBZOVFJSU9MVHhMNHN6MzNzNGRRLWRpUkJRRnhfcTdUTGlXOUQzOTJUNmxOajBLc0JucjE4dko1NFYzMHg0endnSlMtTFpJdTdKRUtZNU9hSk5NTENHT1RMUkp2X0Rib3hLQnVfZURpMXNEak5YMS1QQXRfUHU0REduSW1tRGlELU9mNWhtb3RiRGxMbnpFQjdxOUdGM0w3ekl3TjNKcWZrUV9XSUpMXzg2bVVBWnIwZE5aVlgwWkpaU0dJa0Uzdkw2Q3ZPSzlmX2tLbE1zTDh6SGI5OW54bEtkLVQtRzZnNU1jQzhJeXJJLTJ1bUp4bHh2OEoyOWwwT1YyRmJGTnBUVEVzRVA4STZCazhCTWRjSjJQRlVYT0NwTnFZaHhuam1HTDB3TEx6N2tfY2JqNWRkZXEtYVNvVUZIYzNJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e1bc54d1baf3",
+      "title": "中疾控研究員：防範手足口病、諾如病毒病需守好三關",
+      "published": "2026-10-07T02:33:54+00:00",
+      "summary": "中疾控研究員：防範手足口病、諾如病毒病需守好三關&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzIzMUZpSExSX05uR2ZsUUxvcWJVVGlsNnJXUktJN3l3U3Y5Z2RyUDZILVVicDlrb19BUW9NZFBXTUt6TmgyN2tVRkNiSHo0YklLVmE3alFzeWJ5czJ4TE9sbTNrSkYwbHpiTHNwcnFabmNSLTI5OTJUUzg1RlN2cHluVEtxNTJDNWZYZEZJcXY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "19aba7b22ec1",
+      "title": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！",
+      "published": "2026-10-07T00:03:48+00:00",
+      "summary": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞體重沒變褲頭卻愈來愈緊？ 醫師：更年期真正要防的不是變胖而是脂肪往肚子跑| 熱門話題| 要聞&nbsp;&nbsp;經濟日報腰變粗 超傷腦 失智風險增53％&nbsp;&nbsp;華人今日網健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c83e0ab69891",
       "title": "園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線",
@@ -15,6 +147,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "81fb5eabc1d0",
+      "title": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？",
+      "published": "2026-10-06T12:44:52+00:00",
+      "summary": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNb2lJNXFua0NGekU2WTNmTDVEMVVlMXVEdUFaTk5KMjdxeGdVUkN6a05sWUlKeUl6aU1RSlRTbEg3XzhaQVJXWTNZcGp3dXg4NWxnQkNsZl9jLWZraVZjMmFFaGtjeUViWGVhTUpJeGxVRF9pRGNBTDNsWGZkNTd2V1BUWVlKVnlxOFVDblpLdWFqTlpmMm1VX2FwbXppcFRwdlJjMlFVa0x0YTFwbmZ0UWJ6dGY1SGJBazZGVXFlV3MtbFd2U0xaOWRuZXdoWGVpSHBMOHQzZXMzbDdWN05KWXFBNXhxWUtOYTNrUWpDc2JNaHpDUmRkbHpIdy1TNlg5NDlpeVNBbUo1ckNuUVBZcGN0bU83RW1JNWFxOTE5bG0tMkloSVBwQWtiTkZwbHZ5aHY0MW9qV1UySndRUzY2R3psTEM5RENaZjR0UllMQjRuVHJBTm80?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "e1decb51d473",
@@ -30,14 +191,27 @@
       "matched_keywords": []
     },
     {
-      "id": "3f95a68a15d5",
-      "title": "日本研究：高熱量飲食恐致腦神經突觸異常認知功能下降| 國際 - 中央社 CNA",
-      "published": "2026-10-06T08:49:00+00:00",
-      "summary": "日本研究：高熱量飲食恐致腦神經突觸異常認知功能下降| 國際&nbsp;&nbsp;中央社 CNA",
+      "id": "c1cad5cec938",
+      "title": "日本研究：高熱量飲食恐致腦神經突觸異常，認知功能下降 - TechNews 科技新報",
+      "published": "2026-10-06T10:40:36+00:00",
+      "summary": "日本研究：高熱量飲食恐致腦神經突觸異常，認知功能下降&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1laWNxbHRfdDlfV1laWThCbkh5THExZzh4bHN2ZHlhdDllZC1ZeFBRbGdlN2puUHpWOUhndDVoQVNGQjVoUVphSTUwNDBMaGtRdTlUWFROUUc0TUhBZmtF?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3FmYWhqblloUXU1R3ZmMTRVZ3J1YklzblRfYlZjdFBSbV9VYkVjbi1pM2xhYzlPYU15eDV1UldlV1d1MFFDMm1tMlZ1M3dObnFOUXZzWUdRY1dQdkdUQVdPc1J5bkdJNTlxb3l1TEZycW4yU3BYZm52dnhCajN4eXdZNDBWUkIwTFM5TlZKNTA5MGlWZWZzRHRraHMyd3RXWi03ZHFTSmxXdUc1eVJNOHhuOXNoSHNjN0JkWE4ydFNUOUlGX3pRQg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "47bab24d0713",
+      "title": "出遊住旅館「馬桶、床單」會染性病？泌尿醫用「2字」給終極解答",
+      "published": "2026-10-06T08:36:26+00:00",
+      "summary": "出遊住旅館「馬桶、床單」會染性病？泌尿醫用「2字」給終極解答&nbsp;&nbsp;民視新聞網坐旅館馬桶恐染性病？醫曝機率極低 揭5大染病風險：這些設施更要小心&nbsp;&nbsp;UDN旅館馬桶會傳染性病？ 泌尿醫破解迷思：「這些地方」更該小心&nbsp;&nbsp;Yahoo新聞旅館馬桶、浴缸害人染性病？泌尿醫1句話終極解答&nbsp;&nbsp;三立新聞外宿後下體發炎全怪旅館馬桶？名醫破解「完美替罪羊」真相 染病死角在這幾處&nbsp;&nbsp;鏡報",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tbjBEVHp6M04tQkZsd3Z5MkVfLXZzUWRId2hoLTg2Tnl3MkNkVmM2QUhjTHFBTjd0Um9NZWMwX3pidmhKdy1PUklmQ05FR04zWFo2NU02LW1vcS1oc3VmNQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -56,30 +230,29 @@
       "matched_keywords": []
     },
     {
-      "id": "563a3ab85c16",
-      "title": "旅館馬桶害染性病？泌尿醫破解迷思 「這情況」才可能中招",
-      "published": "2026-10-06T07:44:00+00:00",
-      "summary": "旅館馬桶害染性病？泌尿醫破解迷思 「這情況」才可能中招&nbsp;&nbsp;TVBS新聞網",
+      "id": "5dd4e241ad83",
+      "title": "潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事",
+      "published": "2026-10-06T06:52:21+00:00",
+      "summary": "潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcTRUWnhsYU9UZklJOThkdjZSaGR0ckJiWWlWZ0d5Y3h5TGFfNlF0b2ZFU2txZDhzRjMtTUpES21YSkVuRlMzRl92QVhLWWc?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnV2a0FOcWNUelMtbHFOZXMtRl9qcUN1RENERzBzeUd1RFJ0bERGeUk3MkpWUGJIaXNqc29IdXJaTFZqVnQ1b0RpenhQVlgwSTJ0ZmRBNUZMdjNwLWVZajVwNHFCRUVnWmUwRHBzUUpKVzBXNmwwYVpxUHpSVi1pYTBR0gFiQVVfeXFMTnZlaEJJM21KMDN1T2QxSUlGMWZyS3Jpd25wTjFfSHhYOTk5OEgtNEtQemlOcVF6cmw2cEZYUkoxaWRGbnZtSmY1OUFDcXNoeGVWTFcwTUNZRHJQY3dMN014TGc?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "df63926a958e",
-      "title": "秋季花粉過敏可按三步處理 實用預防要點",
-      "published": "2026-10-06T06:44:16+00:00",
-      "summary": "秋季花粉過敏可按三步處理 實用預防要點&nbsp;&nbsp;紫荊網",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXpzMUJCUDFFUm9Nc2ZfbFRtaG92R01oTVl4anA4ZVJxSjIyWDdyTDdZLUJVZnpmSUV3UGp3NlhCWC13cDRtM0ZiOU90d3BnaFRKbFg2cmtmVjVVeEdwRzJUNmdrM1YzMGYzSUc4RGUzSFVoQURxOENYMldqYTA0MHBlcWNNQUR4UGdja3pwNlQ?oc=5"
+          "type": "indication",
+          "name": "青光眼",
+          "keyword": "青光眼",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "e3f12fc6d888",
@@ -133,19 +306,6 @@
       ]
     },
     {
-      "id": "39c49bf84992",
-      "title": "緊張就拉肚子不是腸胃差，恐是腸躁與情緒共病！醫解析治療 3 原則",
-      "published": "2026-10-06T04:10:58+00:00",
-      "summary": "緊張就拉肚子不是腸胃差，恐是腸躁與情緒共病！醫解析治療 3 原則&nbsp;&nbsp;Heho健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03c0htckZPbGhVTzBEOElVay1ZcjZYUndtLXVMZVhLUmdKd19wM1hTLW1NM2FyeDdtc0JxNElnN0g4UlNwU3pkNFp1OA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "42d5d8e84925",
       "title": "三寶媽優雅有術》孩子親眼看見公園衝突後 先別急著告訴他「誰對誰錯」",
       "published": "2026-10-06T04:00:30+00:00",
@@ -159,33 +319,17 @@
       "matched_keywords": []
     },
     {
-      "id": "af5b85864dcf",
-      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
-      "published": "2026-10-06T04:00:06+00:00",
-      "summary": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;Yahoo新聞",
+      "id": "56ccfbe4206c",
+      "title": "糞便潛血陽性別拖著不做大腸鏡！研究：多做3件事追蹤率明顯提高",
+      "published": "2026-10-06T03:52:27+00:00",
+      "summary": "糞便潛血陽性別拖著不做大腸鏡！研究：多做3件事追蹤率明顯提高&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS2NPT2FZVnFKblJONWdrdHExU2FMb1Y1cF9Za18wd0M0ZENnMDM1VUhVVGJYQkZyMHBHTW5pNmdFWUxiWmR5eTNsRERYRDJ0NVhQMEcxeHRUWkRpMHBnRW56dlJSVkpTckZhcUpKaEhQczRLSjdWWmtycndDUFA0S2kzVFBTdnA2LWQydVpOeS1sVjEzUllrcFFPd1Y5ZnFLYmxfenRtYlZlRWZET0JyWXl2VUJMeXBOYTBmVS1IMklHVmhaSmtuN2JtSDRxbTgxNmxyNDNpRThrSjA4UV9rN25nckZTbEgwMTVSd0dXZnhlclJMMlBwYXRzb3JXUkh2YkVLdFhWQnBQazFNSXpSd0NscWxUWHZlQzNGdE5nRXJ4S0RBUm1ZTXNvb0M4LUJ0bjU2SVpFZHFKZnRVT0xpNHdsX2RscXRLWVdUWFdyM3FRS0FPNzJtRVlDLWN0RkVjUkdESjBCQlc2QQ?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlZWNwajRHTkxvanFMa3ZuMS1rRUs5cWp4bkNNOXM2clMtOEtya0xMUFBhSkhSLTVoU1lWMl92aC1nWW56ZENCQmtRWnhwY0YwYWg4ZjVQNVJVMi140gFiQVVfeXFMT2hVUmRWOG1rcVlTYjh1ZEpRWjJ6SzQ3MEtkXzJxUnlTUzBUQ19PbkVQQ1pMSFREQXZ0NkFvWnZpY3Nrc3lDY0gxdWNwcGpZZm90ZzZmZjJDRXF6cTBiMThzZ3c?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "663987970bb4",
@@ -326,9 +470,22 @@
       ]
     },
     {
+      "id": "141e9dea560e",
+      "title": "【加州新聞】洛杉磯縣染狂犬病毒的蝙蝠數量創下歷史新高",
+      "published": "2026-10-05T21:09:54+00:00",
+      "summary": "【加州新聞】洛杉磯縣染狂犬病毒的蝙蝠數量創下歷史新高&nbsp;&nbsp;KTSF.com",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GLS1SVnlKdzBFUjRuV0FnZmVldUJZVzBtLVZlX0RTTHQ1OTVBNVdpejlJUDNKVnBEcHNDVEFJVloybzhVQ1ZBbVQ2aW1uR0xTVXNUVEw2bmZXSHNTU01yeDdidjM4NE03cVJudkZLQzQ3OV9WZy1BT2otWDRsUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7407cd896bff",
       "title": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性 - 台灣醒報 Awakening News Network",
-      "published": "2026-10-05T16:00:25+00:00",
+      "published": "2026-10-05T09:47:44+00:00",
       "summary": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性&nbsp;&nbsp;台灣醒報 Awakening News Network",
       "sources": [
         {
@@ -416,6 +573,19 @@
       "matched_keywords": []
     },
     {
+      "id": "71b1c10cbdac",
+      "title": "佛州登革熱疫情感染升至252例 1人死亡",
+      "published": "2026-10-04T02:35:00+00:00",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元據報道，佛羅裡達州爆發的登革熱疫情是美國數十年來規模最大的一次。&nbsp;&nbsp;MTGamer佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "55ad2336f4a9",
       "title": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要",
       "published": "2026-10-04T02:00:19+00:00",
@@ -445,19 +615,6 @@
       ]
     },
     {
-      "id": "90e4754de0c0",
-      "title": "專家教你保／挑選防癌險 掌握四大關鍵",
-      "published": "2026-10-03T19:48:42+00:00",
-      "summary": "專家教你保／挑選防癌險 掌握四大關鍵&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFemtvX0FTdTFzcUFpNVZIdFdDQXloY29LNHhfN0pOZ3dZU0hVMzdkUG9yWS1Hamxzc2hwdmRfRWdNdEJWYVo1Sl9jWEtRRGdvbmNKbWhGTHd1U1Rtd1RJdkFrd0ctY0xlQXpPOVlTVmVGZ9IBVkFVX3lxTE9GTUMwdVJXT3hZOERWdFRvbjM3MUNiSEZ4eWgzNW1FRG9kY3FDMHhKU081LVdDbl94ZzUxUW1vamlBRnFESE53dkhacXlhQ1VpVWN0cjZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f3e0b4d8d2b1",
       "title": "三藩市出現首例成年人流感死亡",
       "published": "2026-10-03T13:00:50+00:00",
@@ -469,79 +626,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "32bf3326611c",
-      "title": "不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%",
-      "published": "2026-10-03T10:12:02+00:00",
-      "summary": "不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "54e1eef63e6c",
@@ -670,31 +754,6 @@
       "matched_keywords": []
     },
     {
-      "id": "629ec610868a",
-      "title": "吃全脂起司會胖又傷心臟？權威期刊翻轉迷思：低脂起司無效！每天吃「這份量」血管性失智風險大降29% - Women's Health",
-      "published": "2026-10-02T05:48:56+00:00",
-      "summary": "吃全脂起司會胖又傷心臟？權威期刊翻轉迷思：低脂起司無效！每天吃「這份量」血管性失智風險大降29%&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "56a5c356a0d4",
       "title": "血糖高、骨頭脆！糖尿病3大骨鬆警訊別輕忽 GLP-1竟藏骨鬆風險 - TVBS 健康2.0",
       "published": "2026-10-02T02:04:44+00:00",
@@ -747,6 +806,19 @@
       "matched_keywords": []
     },
     {
+      "id": "e660a65234b1",
+      "title": "愛滋病｜Bob林盛斌因醫生1句話決定驗愛滋 Bob嫂曾患妊娠糖尿病為生B捱980針胰島素",
+      "published": "2026-09-30T10:36:49+00:00",
+      "summary": "愛滋病｜Bob林盛斌因醫生1句話決定驗愛滋 Bob嫂曾患妊娠糖尿病為生B捱980針胰島素&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQZktnOC1jbHRnOWtjYXNYMEdrbjJQdVdUVF9qN092WXZiUjhGY0NkRGNzUC1yT0hKRGpBMHY2SFRyYUplVTVTZkxTT0FuUXppOXJ4Q1I3NVZaMTF1Q3NzMGJha2pJMzM4ZFdKSFdxakxnT2MtZ1liZjRjTjVrQkdZZEZ1MnhMVGZxaFVrUTFCcXQ4eDVNR19ZZFQzUEV2ZDE1VVNycllMMkVLU1lqSVVsY3ppSlBHVmtvMHdfMVZ3Z3JyOERqZDRkU1ZfYS15b0phbWg4ZXctcW1DRUxWS21lWTduQi1IZ3dqNmxCZ2VxSGhBTjgwV1dpY2twU2NSX3NJWldZZVlaWVpnQVpMYXYzVXE5MWtCeXRwNGYyRWUwUzdQMGJBUk0zdGZKVEpfNzlKbUR2VFJLejFIZ2FjY0NyalhQOXM0a2tncEhoMXc3UVpFNnpFUnF1bk9ObmM4aktfb3hYVm55MTdtUUNnRGlrb1BaMk5sckdLRndfV0VwWnNfOTFyRmRlWjRoMGd0ZFdoWHY4Q2ptNWV3d3BzaUxTbHVyZXR1ZUc0bllfNER1Zm5hT2xYUUN1OC1qbHY5U3Fqdl8waTVuMXpnaVRYR3A3eDhuYjVXZFR4QlBNSE9vRi1fOWEtNndlNjVOZGY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "4e348276d1d4",
       "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招",
       "published": "2026-09-30T08:56:12+00:00",
@@ -770,142 +842,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a8146762ec31",
-      "title": "林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死",
-      "published": "2026-09-30T05:49:24+00:00",
-      "summary": "林盛斌驗愛滋︱林盛斌自爆做愛滋病測試初時抗拒1原因被醫生勸服四孩之父曾捱到心臟病發險死&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNcUJQZlRNVEZBMmJ5XzdiNXI5dGFIaW5rQ1h1dmJXNWhzX3RmVHF3eEFDMXU3a3pzMFZyY0VkTl9CSVU2RlpnZEJXRDh4cHRtaGxlNTM1YVloazRnMGVTZWoyalh3aWhGRGMtV29CQktCSGNBTmtUZ2lxSEM1VGVaNEQ2cFRxSWNoektJUkFqa2VXRzJxTEpmMHplSlFhck5rT1k0QW1HRVlLSmRmRWNqcHdzTjZ0RUEtY1dpaXRqd2pTX1dVYlhHTlZWMWxxWGZyaHpJVl80Z2hDNUtWZ0FQVmxwalRwYW9tSUZjdTYzNVB3S0txYk5xQXdsSHduSURpWlExck0tU2lJeWhqS011Ykl6ck4yOVlzbTZWSTlETTB6VDJOdDUweVZPSnJBajlxdWlSMkUzYjFvRS1VUjZHblByREN6YWZPUzJ4TUMtM2FfTTdhV3R0WGtDRXB6enk2YzdOaEg1dWFjc2w2MDJDaFlwVGFlNV94NERvUkxTNGljNlRfSlVEVGtqUTBUOVJ5SEZnZHhINzFHeGxGSWJZbDgyNE1sRHVBMlRNcm8zazlLdUtEXzBKdmNJTE9fdW9rSnZPTlFQMjNoWFNjbW9VYkE0LTNKU3hNbU5FRF9PX0RvbFlRWHc1WmtnRkJBTW5zWENxQ2U2YmlYQUxQNnhLLXJVaF9hcFJ0RzRqMXJVb29GQ2pJVzExWVFsSldId1hnU0RTM3RsWGExOU5TOW9wdU45cnV0LWtIdjR5eUFkay1GbV9tM1M2SGRFYmM2MmtyNnRYNFB2VQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5d2dbfe812d9",
-      "title": "無糖也藏陷阱！ 醫曝「1款添加物」反害血糖飆、還傷害腸道",
-      "published": "2026-09-30T04:28:00+00:00",
-      "summary": "無糖也藏陷阱！ 醫曝「1款添加物」反害血糖飆、還傷害腸道&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1nNFNyZU9KVk1UZVJZTmJMcEFrUXFrWmtvUDlCUlRvemxRcDhHMFlhTkZfaVRqbjZnbVBZTnNlb1F3MFF3dm1SOdIBTEFVX3lxTE5pbzlWdE9oaW1DSEkySG5VWHlYcDluZ241cVc1NTFYdEFMVE0tSzhpbXNFSzdubHJSRnRjbHVReS1EQUMyYTlrMnR5a1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "15ee6c465b4a",
-      "title": "戒糖都糖尿病？婆婆天天飲無糖飲料患糖尿病酮症！長者控血糖5招",
-      "published": "2026-09-30T03:05:14+00:00",
-      "summary": "戒糖都糖尿病？婆婆天天飲無糖飲料患糖尿病酮症！長者控血糖5招&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPeFU5MHZHcTlPQ0xzNzNoY3VhSkc0WnZ4eFhHU1dIRFRELTZqVzJ0QlFlekxsYlJIaXY3TzlKY1ZHQ04xbXhKd2YwQXR1eEMxSHBudEVkcXlHQTV2MmtGREp6TWg5RWQ3cjZVaVRWRzNlQ2dIOWZYZWNLYXJ3QlRxSFVwUUE1OEFGZ3VEV0U4a19OeUlZT2FzMVN1d3VERW1JQ3c1dlZVOUFYV1pfM1BsOGVSNm5zT3Vka2dZa1JhMmEtWGRWSlNOU2plTmR5SWFtY2JEbWh3WlBHS3ltZWdrOUdCeFpIUUV4OGVwazNTQl90U0RJRExhSzVfdXNEazE1cS14b2EtWUtWcDNITENSNDk3aE1EWVBnOFdvdkFoM2ZmY09xYjZyd2lMYURkNWVRY3JuZG5pSlJWc1l1bU1CcFBMTTRibVVwZjJsaGwzYmlDYXpXWHB1YXFkSFg4NnNKUEswQlRyaWJaWTJVQWk4Y0hSR2hHU3lkVnhCWVlSYUpBa2FnYy1HYWQyeFdIUE8zR2RsS1ZlSEs5bjZRU3ZXN2IyNmgzM190VXY1YWRmYmNlRDBPUWUzTmpXMW5kUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2f0e410940ed",
-      "title": "美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態 - Taiwan News",
-      "published": "2026-09-30T02:49:00+00:00",
-      "summary": "美國佛州登革熱疫情升溫 3郡宣布進入地方緊急狀態&nbsp;&nbsp;Taiwan News佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元據報道，佛羅裡達州爆發的登革熱疫情是美國數十年來規模最大的一次。&nbsp;&nbsp;MTGamer佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
-      "sources": [
-        {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvaDQ5SlAxdWJYakVVRHBNdTBnUFJ1aDIxUDBxTlZjbU1vT0JseDc1Mnpqc0p4aVEya0J6b2wwTTQ2R1BsZnZqREQ0UHFmcTEyUXliYlY3bzU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7e1f92ef7d3e",
-      "title": "美國麻疹病例達3,659例、創1991年來新高，疫情擴散速度為何如此明顯？",
-      "published": "2026-09-30T00:31:57+00:00",
-      "summary": "美國麻疹病例達3,659例、創1991年來新高，疫情擴散速度為何如此明顯？&nbsp;&nbsp;CMoney美國賓州上千人感染麻疹 紐約州進入災難緊急狀態&nbsp;&nbsp;你的公共電視賓州麻疹病例破千 全國35年首見&nbsp;&nbsp;UDN美麻疹疫情30年最嚴峻 紐約州進入災難緊急狀態 | 路透社&nbsp;&nbsp;LINE TODAY美國麻疹創35年最嚴重 賓州1004例198住院5死&nbsp;&nbsp;Rti 中央廣播電臺",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pd1VISGt3eS1OckR1a3pGOUY5UkZrT3lzV1lqYTR0ZnhiMWo3Vy1oVktKTmpMVU9sZ1R4aEkwLUdFYVl5bUdKU3FIS2RtMW02TGxRWlY4S3hsOHpBaFlKS003VTR3SXA5ZnhaQ00tMkRUcDZESnptYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

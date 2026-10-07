@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "失智 (dementia) 相關新聞"
+title: "失智症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智症 (dementia) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
-# 失智 (dementia) 相關新聞
+# 失智症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
+<strong>失智症 (dementia)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,21 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [吃全脂起司會胖又傷心臟？權威期刊翻轉迷思：低脂起司無效！每天吃「這份量」血管性失智風險大降29% - Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+### [這種肉要少吃！每天吃2片「阿茲海默症」風險飆升52％](https://news.google.com/rss/articles/CBMivwJBVV95cUxQd0FWM0lQX0ZDNW92UUMxNVN3NHVUSGZZUzZ2MWhJMlduSTVlS2V4V3p1OEI3ZFowTHVGdHE0Y0l0QjhVRkRXZ3FzVVc4RXdHY3hkZzZNdE0zQnVacVRvdUVSQUdYMm11VXNHMVNNbnVYbG5td2JVRHh5U0tWWV9zYzg3NlliRmtSdEJ6b25za01kQWNLRTNrTnpZd0VJcWp1YU54UlZQUjZNNk8za3JNYnFYNmhmUjdvalM1bHVNbjY4TC0tSnMzam9fTE1VNlJKQlNCUTlud240U3pzcWlJU0p5cWl5SlAydkZRUzFpRFQtalpnXzBnbWtGbVVtek5lNWlkSEhFNHFKSU9JUlNaSFYxUmZCRXA0Tm41TnAxZ2dvVWNWclpaZzVKczdPX1I2eW53ODJWR2s4ckY5OTc4?oc=5)
 
-2026-10-02
+2026-10-07
 
-來源: [Women's Health](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbm1FQk03U1BnN2dBVkZQSm1UVVZlU0wxcmt3WVI5T0d3Zk9ZakRyRGVETkhqN1hKbjA4TWUxbDRkRXB1STZfb3NjRl8wWmRFcWlGMHFkSVJKdjk5UDBWcHRPSVpTVmR0TXkwVVYxY2UyUFA1OFF6RzBBS1p5QUhkTDhQTGFqY2ZRT3BjWkhGM0R3dEhfaHdFSUpWYkR5Vkh2SnNoXzIteG9vZFRMdjZteWVqV2k0SndXMEIzTTN4QzFmQQ?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMivwJBVV95cUxQd0FWM0lQX0ZDNW92UUMxNVN3NHVUSGZZUzZ2MWhJMlduSTVlS2V4V3p1OEI3ZFowTHVGdHE0Y0l0QjhVRkRXZ3FzVVc4RXdHY3hkZzZNdE0zQnVacVRvdUVSQUdYMm11VXNHMVNNbnVYbG5td2JVRHh5U0tWWV9zYzg3NlliRmtSdEJ6b25za01kQWNLRTNrTnpZd0VJcWp1YU54UlZQUjZNNk8za3JNYnFYNmhmUjdvalM1bHVNbjY4TC0tSnMzam9fTE1VNlJKQlNCUTlud240U3pzcWlJU0p5cWl5SlAydkZRUzFpRFQtalpnXzBnbWtGbVVtek5lNWlkSEhFNHFKSU9JUlNaSFYxUmZCRXA0Tm41TnAxZ2dvVWNWclpaZzVKczdPX1I2eW53ODJWR2s4ckY5OTc4?oc=5)
+
+---
+
+### [中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！](https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5)
+
+2026-10-07
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5)
 
 ---
 
