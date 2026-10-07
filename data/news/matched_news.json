@@ -1,91 +1,20 @@
 {
-  "last_updated": "2026-10-07T14:04:18.568809+00:00",
-  "total_count": 41,
+  "last_updated": "2026-10-07T20:20:02.801969+00:00",
+  "total_count": 43,
   "matched_count": 13,
   "news": [
     {
-      "id": "d1c60e3947c0",
-      "title": "為什麼過敏有的孩子鼻塞、有的卻皮膚癢？醫揭「症狀差異關鍵」",
-      "published": "2026-10-07T13:00:00+00:00",
-      "summary": "為什麼過敏有的孩子鼻塞、有的卻皮膚癢？醫揭「症狀差異關鍵」&nbsp;&nbsp;Yahoo新聞",
+      "id": "445dcb665c29",
+      "title": "不同國家女性更年期症狀差異巨大",
+      "published": "2026-10-07T19:00:00+00:00",
+      "summary": "不同國家女性更年期症狀差異巨大&nbsp;&nbsp;大紀元",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPWDQ3WnYxMWJBMGJYaHFPd2lEU2xTYU5Dakl5QVZJaTdIOHpvOFNEWVE0T2tYTUlqSGhJeGhQRlJBVy14YVd5bDd0LXdwVXhQTE12TjZ4LVc1a1pzd2VOdi1YTU43RnY0THpUejRWMUZwOTBxazlxVnNPOGpmbGpLMUlNcjViYUZ1a213bjE5YTg1dG1hNjdNZFhISkpydzFrYWZQZVRNc0huNHF5djFFcFBWNndqU3E2bGFKQTJTS3hSMjl0N1E4NG9sRi0wMEtScnBOQWVuVzA4Q2RPQlQzWmRBUEpvajlpSFVyTHRfRm9IYzNQSXFoWFJJQ3ZtRXVUUXpuekxSdmJ6bUJrdVowX0ZqR3U5SkY5TDk5QTNBS0xHLXZCZnljTlJCSzlvb1loUGJsa0x0TnRpR2tNU0pabG9TXzhINWhuODd1ZVpsdjRaX1VYNGlLRWJtUzRKNlZDcFVoQnIwWHFxbkhsNnZEVGJNUmtMek5SUDhEck14YWlyNTA?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOVktNXNPczR0TXRfUThfbHYyVllvUWNjaHVac2hJeTg2dTJwTVlaWkU4QU1ENUlrbGprZU9RNWNIY09ucG5zR3lkSGFITmpFQTVYZm5wZGlvTDAz0gFmQVVfeXFMTU45Z0lObTZWbWs0angxbVBFYU5jYmszVFpvaFpQN01fNElCbVhFWHNKU3M3bXRBSHlpTzdLQW1tYVhnV2M1MXhoRnpaeG5tV19FRVRLaFZMaXdGN2FRaTJXVjRHRm5R?oc=5"
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鼻塞",
-          "keyword": "鼻塞",
-          "related_drugs": [
-            {
-              "slug": "xylometazoline",
-              "name": "Xylometazoline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f2f9cd4ec731",
-      "title": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家",
-      "published": "2026-10-07T12:17:00+00:00",
-      "summary": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZ2hWWW9zZ2MwQ3hpcW11ZXota1RUczctWjRVSTBOVUZrSy1IbkVXU2EyS2JCcjB3VVdzNVBLc1NRU09ZZjJEMUJZLWxoVlpt?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cd67f7b705a1",
-      "title": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0",
-      "published": "2026-10-07T10:10:00+00:00",
-      "summary": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉&nbsp;&nbsp;TVBS 健康2.0失智症患者胖一點反而活較久？研究揭肥胖悖論 但別急著刻意增重&nbsp;&nbsp;元氣網中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％&nbsp;&nbsp;自由健康網體重沒變褲頭卻愈來愈緊？ 醫師：更年期真正要防的不是變胖而是脂肪往肚子跑| 熱門話題| 要聞&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "menopause",
@@ -110,6 +39,45 @@
           ]
         }
       ]
+    },
+    {
+      "id": "fd04f449efef",
+      "title": "每天喝超過5杯咖啡要留意！近萬名高齡女性研究：與骨密度下降有關 - 食力 foodNEXT",
+      "published": "2026-10-07T18:42:50+00:00",
+      "summary": "每天喝超過5杯咖啡要留意！近萬名高齡女性研究：與骨密度下降有關&nbsp;&nbsp;食力 foodNEXT",
+      "sources": [
+        {
+          "name": "食力 foodNEXT",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mRUx6LVJ3RzBFSWJpUE1YeFE4RGZRcW1FMG4yMGloVk1US2pyWWw5b3J5WXZhb3hqMTQtUV9NUGtDekxXTHYtS0I5TmVLQjJVZmV0cEdJQUlMZzBQRk5uQTlVb3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2b7bcc561abe",
+      "title": "抗性澱粉成脂肪肝剋星 上海研究：每天40克4個月降57.7% - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-10-07T13:39:58+00:00",
+      "summary": "抗性澱粉成脂肪肝剋星 上海研究：每天40克4個月降57.7%&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "sources": [
+        {
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQY3dFeWlHcUVOaWo0VDhRVTRxOFVIOUkzZUN4aU1XTVJJbndCM0Q0bUF3RUgxMk15X3NBd1ZvSjhqQ084MnhDSndwbWk1UmE5TjFoQU9qWVhualRIMlZ2ZWRvdWR1LVJyNHU4My13ZWMzcHkwNE1OX2RqbFlIS0RaMlVoY2Zuek9GRXg3Z05falBFMndaZGtqd3lVUW80N1lwSTR5V0plaUEzTTNFQmlhb29QdkZzR2NqRks2ZDhTT3V5Q21PY3Q4OFBkWTFieldfUDdSaHU5a2VOTjJGazVBV1U5TktXd3BkMG93aC0yaEllRkRQN3hEdDVnX3o1TUY3V1lPdTEyNktYN1JGV1ZGYWNQTzVkb1dlZ1lTZjJPdHB3bTdqM3RyNl82c2s5enpXR1BQRS1lTFRROFRhMXR1VUFjT1NWZ19sOE16Sl9CRmJURkZ3WVdLVGdaLW9BUFZmWVFnbUw1UUbSAYoBQVVfeXFMT0tLTDQxQlBFTlEtTUk2X0NLQjRJd1NIUWt1TGtfeEhNb0Y0Q1ZkOUk0YUdGckZzeW5nbTB3SnJIajhNQTBvcEI4Uy00RldjZ1Q4cC1JZFFuR2VpaG9fbVdELTVVdENDclh1SmtMRHBjMENLamtkU3J1UEFOcnlJTnpjNkd2TzN3RThR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f2f9cd4ec731",
+      "title": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家",
+      "published": "2026-10-07T12:17:00+00:00",
+      "summary": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網過去好好的幹嘛打？醫曝加護病房「每個流感重症都沒打疫苗」&nbsp;&nbsp;ETtoday新聞雲園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞【過去好好的幹嘛打？醫曝加護病房「每個流感重症都沒打疫苗」】 （#大表哥）&nbsp;&nbsp;Facebook",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZ2hWWW9zZ2MwQ3hpcW11ZXota1RUczctWjRVSTBOVUZrSy1IbkVXU2EyS2JCcjB3VVdzNVBLc1NRU09ZZjJEMUJZLWxoVlpt?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "ce8703f6bf58",
@@ -177,6 +145,105 @@
       "matched_keywords": []
     },
     {
+      "id": "19aba7b22ec1",
+      "title": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！",
+      "published": "2026-10-07T00:03:48+00:00",
+      "summary": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉&nbsp;&nbsp;TVBS 健康2.0失智症患者胖一點反而活較久？研究揭肥胖悖論 但別急著刻意增重&nbsp;&nbsp;元氣網健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％&nbsp;&nbsp;自由健康網體重沒變褲頭卻愈來愈緊？ 醫師：更年期真正要防的不是變胖而是脂肪往肚子跑| 熱門話題| 要聞&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "81fb5eabc1d0",
+      "title": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？",
+      "published": "2026-10-06T12:44:52+00:00",
+      "summary": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？&nbsp;&nbsp;台灣大紀元",
+      "sources": [
+        {
+          "name": "台灣大紀元",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNb2lJNXFua0NGekU2WTNmTDVEMVVlMXVEdUFaTk5KMjdxeGdVUkN6a05sWUlKeUl6aU1RSlRTbEg3XzhaQVJXWTNZcGp3dXg4NWxnQkNsZl9jLWZraVZjMmFFaGtjeUViWGVhTUpJeGxVRF9pRGNBTDNsWGZkNTd2V1BUWVlKVnlxOFVDblpLdWFqTlpmMm1VX2FwbXppcFRwdlJjMlFVa0x0YTFwbmZ0UWJ6dGY1SGJBazZGVXFlV3MtbFd2U0xaOWRuZXdoWGVpSHBMOHQzZXMzbDdWN05KWXFBNXhxWUtOYTNrUWpDc2JNaHpDUmRkbHpIdy1TNlg5NDlpeVNBbUo1ckNuUVBZcGN0bU83RW1JNWFxOTE5bG0tMkloSVBwQWtiTkZwbHZ5aHY0MW9qV1UySndRUzY2R3psTEM5RENaZjR0UllMQjRuVHJBTm80?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e1decb51d473",
       "title": "「健康365」健康品傳4、 捷運、公車一直有人咳嗽，怎麼保護自己？",
       "published": "2026-10-06T12:14:51+00:00",
@@ -190,14 +257,14 @@
       "matched_keywords": []
     },
     {
-      "id": "c1cad5cec938",
-      "title": "日本研究：高熱量飲食恐致腦神經突觸異常，認知功能下降 - TechNews 科技新報",
-      "published": "2026-10-06T10:40:36+00:00",
-      "summary": "日本研究：高熱量飲食恐致腦神經突觸異常，認知功能下降&nbsp;&nbsp;TechNews 科技新報",
+      "id": "1a414d326565",
+      "title": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降",
+      "published": "2026-10-06T08:49:54+00:00",
+      "summary": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3FmYWhqblloUXU1R3ZmMTRVZ3J1YklzblRfYlZjdFBSbV9VYkVjbi1pM2xhYzlPYU15eDV1UldlV1d1MFFDMm1tMlZ1M3dObnFOUXZzWUdRY1dQdkdUQVdPc1J5bkdJNTlxb3l1TEZycW4yU3BYZm52dnhCajN4eXdZNDBWUkIwTFM5TlZKNTA5MGlWZWZzRHRraHMyd3RXWi03ZHFTSmxXdUc1eVJNOHhuOXNoSHNjN0JkWE4ydFNUOUlGX3pRQg?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPQXRZdFB0SjJIQUcyMjRRZ0VyOHhFVGZaT29UX19vTE90Z1JyRXM2X2JSN0xiLXJZR2Vld05PNEVVX3U3QTlUTlMwaVBsaGd1VG1jNExaLXRPOERQT2cwR3UyWks1akVHVndIbUYyMnU2eHhyMU56bTItTkRmYmstaDhXYVAyU1d5M3M5WWttX2JPQ2lfN01KUFc4QktUdm9nOUJvVHpVaUVkYUs4ZHBDdXkyWnRtdVFPeHlsRGJxdG1lb09tM0ctSU1qd1gtWHo2SGVHb0FCRU1TWjFNSlQ5UTVKTXp5TnUwcE4wVGZqVld6UTZLR1ozb3NEZWVoUGExb2NOVGJHcTk3ZE8xd2EtTllRLTR1d0lVdlAxcWd3WWNYOThoQ3F5bmp0QUJZVGsyRE5RMmx3bmRjSG1BNVFJTlJ2SjRsUjhyM1BhNTdQRVhNU1dYNDBCYU5PYnlkb3UtLXhVaFJkYXRSSmhIRXdPc0VfendoUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -479,7 +546,7 @@
       "id": "9137404b1185",
       "title": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-10-06T04:16:23+00:00",
-      "summary": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網她懷孕30周要出國「沒發燒中A流」 醫快篩驚：救2條命&nbsp;&nbsp;ETtoday健康雲孕婦沒發燒只咳嗽流鼻水！醫一聽「明天要出國」急做快篩 竟揪出A流 | CTWANT&nbsp;&nbsp;LINE TODAY一次診救兩條命 孕婦懷孕30周要出國 中A流被醫篩出&nbsp;&nbsp;中時新聞網孕婦感冒隔天要出國！快篩竟「揪出A流」 醫驚：救2條命&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網她懷孕30周要出國「沒發燒中A流」 醫快篩驚：救2條命&nbsp;&nbsp;ETtoday健康雲孕婦沒發燒只咳嗽流鼻水！醫一聽「明天要出國」急做快篩 竟揪出A流 | CTWANT&nbsp;&nbsp;LINE TODAY一次診救兩條命孕婦懷孕30周要出國 中A流被醫篩出- 生活&nbsp;&nbsp;中時新聞網孕婦感冒隔天要出國！快篩竟「揪出A流」 醫驚：救2條命&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "Mombaby 媽媽寶寶懷孕生活網",
@@ -512,35 +579,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "af5b85864dcf",
-      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
-      "published": "2026-10-06T04:00:06+00:00",
-      "summary": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS2NPT2FZVnFKblJONWdrdHExU2FMb1Y1cF9Za18wd0M0ZENnMDM1VUhVVGJYQkZyMHBHTW5pNmdFWUxiWmR5eTNsRERYRDJ0NVhQMEcxeHRUWkRpMHBnRW56dlJSVkpTckZhcUpKaEhQczRLSjdWWmtycndDUFA0S2kzVFBTdnA2LWQydVpOeS1sVjEzUllrcFFPd1Y5ZnFLYmxfenRtYlZlRWZET0JyWXl2VUJMeXBOYTBmVS1IMklHVmhaSmtuN2JtSDRxbTgxNmxyNDNpRThrSjA4UV9rN25nckZTbEgwMTVSd0dXZnhlclJMMlBwYXRzb3JXUkh2YkVLdFhWQnBQazFNSXpSd0NscWxUWHZlQzNGdE5nRXJ4S0RBUm1ZTXNvb0M4LUJ0bjU2SVpFZHFKZnRVT0xpNHdsX2RscXRLWVdUWFdyM3FRS0FPNzJtRVlDLWN0RkVjUkdESjBCQlc2QQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "56ccfbe4206c",
@@ -707,19 +745,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7407cd896bff",
-      "title": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性 - 台灣醒報 Awakening News Network",
-      "published": "2026-10-05T09:47:44+00:00",
-      "summary": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性&nbsp;&nbsp;台灣醒報 Awakening News Network",
-      "sources": [
-        {
-          "name": "台灣醒報 Awakening News Network",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE55dER2ejc5bHB4RTA1TU1oc2ZMdmVjNF9YYTFTVUdYLUQ5U0R0QVNKclpiaUlwUVRDb3YxMmhCT1dkOF9QYXNDcFdqSmF5WFgyYTh6Q0tURQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3c2e3be2fb57",
       "title": "出國前必看！感冒還是流感？秋冬防疫這樣做 避開重症找上門",
       "published": "2026-10-05T07:27:00+00:00",
@@ -753,6 +778,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOGxFazBMQkRiVWFDbDZrMzNueUw0T0duRzVibHUweW9Ua2hYVWJEZDVUbE5HT0NpYkNtakFVeWkyNkJVYmxmRGE3cDRrMkpMR3NabjROZTlUOC1xM0FNWGJfc0p0ZVllcTRSQzVydTdaX2tJbURYcFR6ZFhYTExjclhQcEtvdWVoWlBOUzREandQak13eEtXTFd2NEgtREdUZEhYc1VsNEdQVU8zMDQ3MG1RZmFSNkVzS2ItSVExS1gtWjctVVoxUnl5cE91THUwQlZfc051TUtFZ3A5c3pITFE1U1dWNk1ITk0xdGkyY2pBM1ZCUmUzT0Z5YnV6QXV2RlkyYzMwbGhGdXBJMU50dkJ1LVUtSmFjWWhnV2xONDd1ZGlCY1N5Zm9VSXVFRy1ialN2VUljM0FSamFfRkR3b0JPTk56dVFwWWZtN2YyVjMySGw0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "31135cbf9826",
+      "title": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性 - PChome Online 新聞",
+      "published": "2026-10-05T04:19:23+00:00",
+      "summary": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDRxVXFVcUJNMml0ZHdUNkZhY2lRMk93Um4xWFNIVjhMMmZUTERQN20tdlZJTllfU0pMb255ck9kYmdCQlNtSzFVSno5Y21TSUVvWEN5QTdWanRDYzAyUzFXNVdKVk9KbnFKUmZ0d1gwMG85SEtIUG5wZWRFUmFMaHFIMkFzWHdWb2FwYnNuOERadw?oc=5"
         }
       ],
       "matched_keywords": []

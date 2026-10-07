@@ -3,7 +3,7 @@ layout: default
 title: "更年期 (menopause) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "更年期 (menopause) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "更年期 (menopause) 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) 有什麼相關新聞？">
-<strong>更年期 (menopause)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<strong>更年期 (menopause)</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
+### [不同國家女性更年期症狀差異巨大](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOVktNXNPczR0TXRfUThfbHYyVllvUWNjaHVac2hJeTg2dTJwTVlaWkU4QU1ENUlrbGprZU9RNWNIY09ucG5zR3lkSGFITmpFQTVYZm5wZGlvTDAz0gFmQVVfeXFMTU45Z0lObTZWbWs0angxbVBFYU5jYmszVFpvaFpQN01fNElCbVhFWHNKU3M3bXRBSHlpTzdLQW1tYVhnV2M1MXhoRnpaeG5tV19FRVRLaFZMaXdGN2FRaTJXVjRHRm5R?oc=5)
 
 2026-10-07
 
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
+來源: [大紀元](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOVktNXNPczR0TXRfUThfbHYyVllvUWNjaHVac2hJeTg2dTJwTVlaWkU4QU1ENUlrbGprZU9RNWNIY09ucG5zR3lkSGFITmpFQTVYZm5wZGlvTDAz0gFmQVVfeXFMTU45Z0lObTZWbWs0angxbVBFYU5jYmszVFpvaFpQN01fNElCbVhFWHNKU3M3bXRBSHlpTzdLQW1tYVhnV2M1MXhoRnpaeG5tV19FRVRLaFZMaXdGN2FRaTJXVjRHRm5R?oc=5)
+
+---
+
+### [中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！](https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5)
+
+2026-10-07
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5)
 
 ---
 
