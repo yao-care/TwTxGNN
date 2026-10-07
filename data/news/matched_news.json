@@ -1,90 +1,55 @@
 {
-  "last_updated": "2026-10-07T06:42:30.555007+00:00",
-  "total_count": 42,
+  "last_updated": "2026-10-07T14:04:18.568809+00:00",
+  "total_count": 41,
   "matched_count": 13,
   "news": [
     {
-      "id": "44571db6c138",
-      "title": "這種肉要少吃！每天吃2片「阿茲海默症」風險飆升52％",
-      "published": "2026-10-07T04:49:19+00:00",
-      "summary": "這種肉要少吃！每天吃2片「阿茲海默症」風險飆升52％&nbsp;&nbsp;Yahoo新聞少碰1款肉 50萬人研究曝日吃2片：阿茲海默症風險飆52％&nbsp;&nbsp;中時新聞網常吃香腸、火腿？ 研究揭「每天多吃這份量」失智風險增44％&nbsp;&nbsp;自由健康網這種肉少碰！50萬人研究：每天吃2片「失智風險暴增44％」&nbsp;&nbsp;ETtoday新聞雲研究：每天兩片火腿腸失智症風險顯著升高| 超加工食品| 加工熟食肉製品| 阿茲海默症| 新唐人电视台&nbsp;&nbsp;新唐人電視台",
+      "id": "d1c60e3947c0",
+      "title": "為什麼過敏有的孩子鼻塞、有的卻皮膚癢？醫揭「症狀差異關鍵」",
+      "published": "2026-10-07T13:00:00+00:00",
+      "summary": "為什麼過敏有的孩子鼻塞、有的卻皮膚癢？醫揭「症狀差異關鍵」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQd0FWM0lQX0ZDNW92UUMxNVN3NHVUSGZZUzZ2MWhJMlduSTVlS2V4V3p1OEI3ZFowTHVGdHE0Y0l0QjhVRkRXZ3FzVVc4RXdHY3hkZzZNdE0zQnVacVRvdUVSQUdYMm11VXNHMVNNbnVYbG5td2JVRHh5U0tWWV9zYzg3NlliRmtSdEJ6b25za01kQWNLRTNrTnpZd0VJcWp1YU54UlZQUjZNNk8za3JNYnFYNmhmUjdvalM1bHVNbjY4TC0tSnMzam9fTE1VNlJKQlNCUTlud240U3pzcWlJU0p5cWl5SlAydkZRUzFpRFQtalpnXzBnbWtGbVVtek5lNWlkSEhFNHFKSU9JUlNaSFYxUmZCRXA0Tm41TnAxZ2dvVWNWclpaZzVKczdPX1I2eW53ODJWR2s4ckY5OTc4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxPWDQ3WnYxMWJBMGJYaHFPd2lEU2xTYU5Dakl5QVZJaTdIOHpvOFNEWVE0T2tYTUlqSGhJeGhQRlJBVy14YVd5bDd0LXdwVXhQTE12TjZ4LVc1a1pzd2VOdi1YTU43RnY0THpUejRWMUZwOTBxazlxVnNPOGpmbGpLMUlNcjViYUZ1a213bjE5YTg1dG1hNjdNZFhISkpydzFrYWZQZVRNc0huNHF5djFFcFBWNndqU3E2bGFKQTJTS3hSMjl0N1E4NG9sRi0wMEtScnBOQWVuVzA4Q2RPQlQzWmRBUEpvajlpSFVyTHRfRm9IYzNQSXFoWFJJQ3ZtRXVUUXpuekxSdmJ6bUJrdVowX0ZqR3U5SkY5TDk5QTNBS0xHLXZCZnljTlJCSzlvb1loUGJsa0x0TnRpR2tNU0pabG9TXzhINWhuODd1ZVpsdjRaX1VYNGlLRWJtUzRKNlZDcFVoQnIwWHFxbkhsNnZEVGJNUmtMek5SUDhEck14YWlyNTA?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "阿茲海默症",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
+              "slug": "xylometazoline",
+              "name": "Xylometazoline"
             }
           ]
         }
       ]
     },
     {
-      "id": "b49a1098dd42",
-      "title": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾",
-      "published": "2026-10-07T03:21:55+00:00",
-      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "f2f9cd4ec731",
+      "title": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家",
+      "published": "2026-10-07T12:17:00+00:00",
+      "summary": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPLVYxaWZWeEg4VTMyYmRUX0FENXBZOVFJSU9MVHhMNHN6MzNzNGRRLWRpUkJRRnhfcTdUTGlXOUQzOTJUNmxOajBLc0JucjE4dko1NFYzMHg0endnSlMtTFpJdTdKRUtZNU9hSk5NTENHT1RMUkp2X0Rib3hLQnVfZURpMXNEak5YMS1QQXRfUHU0REduSW1tRGlELU9mNWhtb3RiRGxMbnpFQjdxOUdGM0w3ekl3TjNKcWZrUV9XSUpMXzg2bVVBWnIwZE5aVlgwWkpaU0dJa0Uzdkw2Q3ZPSzlmX2tLbE1zTDh6SGI5OW54bEtkLVQtRzZnNU1jQzhJeXJJLTJ1bUp4bHh2OEoyOWwwT1YyRmJGTnBUVEVzRVA4STZCazhCTWRjSjJQRlVYT0NwTnFZaHhuam1HTDB3TEx6N2tfY2JqNWRkZXEtYVNvVUZIYzNJ?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZ2hWWW9zZ2MwQ3hpcW11ZXota1RUczctWjRVSTBOVUZrSy1IbkVXU2EyS2JCcjB3VVdzNVBLc1NRU09ZZjJEMUJZLWxoVlpt?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e1bc54d1baf3",
-      "title": "中疾控研究員：防範手足口病、諾如病毒病需守好三關",
-      "published": "2026-10-07T02:33:54+00:00",
-      "summary": "中疾控研究員：防範手足口病、諾如病毒病需守好三關&nbsp;&nbsp;紫荊網",
+      "id": "cd67f7b705a1",
+      "title": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0",
+      "published": "2026-10-07T10:10:00+00:00",
+      "summary": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉&nbsp;&nbsp;TVBS 健康2.0失智症患者胖一點反而活較久？研究揭肥胖悖論 但別急著刻意增重&nbsp;&nbsp;元氣網中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％&nbsp;&nbsp;自由健康網體重沒變褲頭卻愈來愈緊？ 醫師：更年期真正要防的不是變胖而是脂肪往肚子跑| 熱門話題| 要聞&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzIzMUZpSExSX05uR2ZsUUxvcWJVVGlsNnJXUktJN3l3U3Y5Z2RyUDZILVVicDlrb19BUW9NZFBXTUt6TmgyN2tVRkNiSHo0YklLVmE3alFzeWJ5czJ4TE9sbTNrSkYwbHpiTHNwcnFabmNSLTI5OTJUUzg1RlN2cHluVEtxNTJDNWZYZEZJcXY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "19aba7b22ec1",
-      "title": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！",
-      "published": "2026-10-07T00:03:48+00:00",
-      "summary": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞體重沒變褲頭卻愈來愈緊？ 醫師：更年期真正要防的不是變胖而是脂肪往肚子跑| 熱門話題| 要聞&nbsp;&nbsp;經濟日報腰變粗 超傷腦 失智風險增53％&nbsp;&nbsp;華人今日網健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -102,6 +67,17 @@
         {
           "type": "indication",
           "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -136,46 +112,69 @@
       ]
     },
     {
-      "id": "c83e0ab69891",
-      "title": "園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線",
-      "published": "2026-10-06T23:00:38+00:00",
-      "summary": "園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞流感疫苗「打了還是可能中獎」乾脆不打，中了直接吃特效藥就好？阿包醫師：3理由建議孩子必打&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網",
+      "id": "ce8703f6bf58",
+      "title": "65歲以上約1％罹帕金森，治療與照護要花多少錢？",
+      "published": "2026-10-07T09:31:06+00:00",
+      "summary": "65歲以上約1％罹帕金森，治療與照護要花多少錢？&nbsp;&nbsp;《現代保險》雜誌",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQY0tRdjRLMWhRMVJKYU1telB6endxZEVYaUR1eHR2U29seG9nNG11dmlhRm0zRlVqYmhaZkN0VThvVGJ5VGtlcXZOMDBWQ1ZMVGRXNkZVZ0w0dzZ6Qi0wQl82dF9EWWFnUjl6cTdzYVE1MUJNcElEcm5PY3gzM0ViWUhiamVtSDB0ZE9SdXRSbnRYY2lUMzNYbC0tTEdpaFV3cEFZLXpiRjM3aWZtUFV6U3F1UTNraWI0VkNkYnBYaE8xRDJDU2FQV2VSYW1DX3duNXBJTUw3cS1PdmVSdWhDSmhlT2hIU3dpXzNTZzNRcHByS2ZtcGRtNHJtOFJaX010X2U0X2VjT1FrYk12aEJPeHlzZjIwbVRvd0Nscm85eVFwenB5QzZObDlqczBhY21wR1JPXzFIY2lmWmdmNFlBUlZRcDRSLTdzenZ3c1g0eFpzWU5SUWlxSlJkX1NraEdpYmZHRExWOHBqY0t4dWFvdU03a0lJMDBiUXpOcHdfLWFpTmE0?oc=5"
+          "name": "《現代保險》雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqbUNCSXhrSjRDcDdOYXdiSVhWSkhtcnNQZmZyRnVhUVhtWHRfOVRFU3ZJenNyb0tLRDlwZmp4M013al9CVlQ3S29kSzNJMFdwRlJJ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "81fb5eabc1d0",
-      "title": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？",
-      "published": "2026-10-06T12:44:52+00:00",
-      "summary": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？&nbsp;&nbsp;台灣大紀元",
+      "id": "238722659493",
+      "title": "孩子有哮喘 家長要知如何支援抗病以保發育",
+      "published": "2026-10-07T08:31:14+00:00",
+      "summary": "孩子有哮喘 家長要知如何支援抗病以保發育&nbsp;&nbsp;shemom.com",
       "sources": [
         {
-          "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNb2lJNXFua0NGekU2WTNmTDVEMVVlMXVEdUFaTk5KMjdxeGdVUkN6a05sWUlKeUl6aU1RSlRTbEg3XzhaQVJXWTNZcGp3dXg4NWxnQkNsZl9jLWZraVZjMmFFaGtjeUViWGVhTUpJeGxVRF9pRGNBTDNsWGZkNTd2V1BUWVlKVnlxOFVDblpLdWFqTlpmMm1VX2FwbXppcFRwdlJjMlFVa0x0YTFwbmZ0UWJ6dGY1SGJBazZGVXFlV3MtbFd2U0xaOWRuZXdoWGVpSHBMOHQzZXMzbDdWN05KWXFBNXhxWUtOYTNrUWpDc2JNaHpDUmRkbHpIdy1TNlg5NDlpeVNBbUo1ckNuUVBZcGN0bU83RW1JNWFxOTE5bG0tMkloSVBwQWtiTkZwbHZ5aHY0MW9qV1UySndRUzY2R3psTEM5RENaZjR0UllMQjRuVHJBTm80?oc=5"
+          "name": "shemom.com",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPOGZRaEp2Z0FvZ1hTd3RGYzN3eDFXTEJOVjAwYzRGOFJrZjVIejRVNVJteHF4Nm9YS2lpSTV6VWlXUW5qV0lFd2U2SmVGV1QyeWhjUGhkdG1mTUp0blctMndhOHM1ck9YU09aNFhUODB1UEhVaEpqZGdvWThkQldsQmViZTMwTjNOQzg5aUw5MTZ3RWpqRFo1NTlRQTl1dnlJRmhnMVZsbkxjVDFBNDkwWmhHTy1URWNiRVVWWE5FMVd1b0NZQi1HSmFZUXJjNHlDOHprdkpZV1dMRWdWZk1JSV82bnRLTGxMMjNyWFRjckZCLUpRaFJ4YVlGVWk0OTg4emE0OEp3Qm5jeFBJWko3dGpOX3JsdFN3TmluUHJjN3FEYThqT09VeEJJX2lmd3c?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "05d71792df3c",
+      "title": "坐旅館馬桶恐染性病？醫曝機率極低 揭5大染病風險：這些設施更要小心",
+      "published": "2026-10-07T05:46:08+00:00",
+      "summary": "坐旅館馬桶恐染性病？醫曝機率極低 揭5大染病風險：這些設施更要小心&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
         {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NU2VwZmgzTnNSRmk0TUNheDBsbS0wajhXUXcwamUwV2NPUGluNjd1YjY0OTBvRUxoLTQ5Z1hkWHBKN040REJUSzhHUzgza290ZGk4ZExzOFZaRWJqQWxKSE5lQmgzdjlMQ3d0SHhWd2VkbzQ?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b49a1098dd42",
+      "title": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾",
+      "published": "2026-10-07T03:21:55+00:00",
+      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPLVYxaWZWeEg4VTMyYmRUX0FENXBZOVFJSU9MVHhMNHN6MzNzNGRRLWRpUkJRRnhfcTdUTGlXOUQzOTJUNmxOajBLc0JucjE4dko1NFYzMHg0endnSlMtTFpJdTdKRUtZNU9hSk5NTENHT1RMUkp2X0Rib3hLQnVfZURpMXNEak5YMS1QQXRfUHU0REduSW1tRGlELU9mNWhtb3RiRGxMbnpFQjdxOUdGM0w3ekl3TjNKcWZrUV9XSUpMXzg2bVVBWnIwZE5aVlgwWkpaU0dJa0Uzdkw2Q3ZPSzlmX2tLbE1zTDh6SGI5OW54bEtkLVQtRzZnNU1jQzhJeXJJLTJ1bUp4bHh2OEoyOWwwT1YyRmJGTnBUVEVzRVA4STZCazhCTWRjSjJQRlVYT0NwTnFZaHhuam1HTDB3TEx6N2tfY2JqNWRkZXEtYVNvVUZIYzNJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e1bc54d1baf3",
+      "title": "中疾控研究員：防範手足口病、諾如病毒病需守好三關",
+      "published": "2026-10-07T02:33:54+00:00",
+      "summary": "中疾控研究員：防範手足口病、諾如病毒病需守好三關&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzIzMUZpSExSX05uR2ZsUUxvcWJVVGlsNnJXUktJN3l3U3Y5Z2RyUDZILVVicDlrb19BUW9NZFBXTUt6TmgyN2tVRkNiSHo0YklLVmE3alFzeWJ5czJ4TE9sbTNrSkYwbHpiTHNwcnFabmNSLTI5OTJUUzg1RlN2cHluVEtxNTJDNWZYZEZJcXY?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "e1decb51d473",
@@ -204,27 +203,223 @@
       "matched_keywords": []
     },
     {
-      "id": "47bab24d0713",
-      "title": "出遊住旅館「馬桶、床單」會染性病？泌尿醫用「2字」給終極解答",
-      "published": "2026-10-06T08:36:26+00:00",
-      "summary": "出遊住旅館「馬桶、床單」會染性病？泌尿醫用「2字」給終極解答&nbsp;&nbsp;民視新聞網坐旅館馬桶恐染性病？醫曝機率極低 揭5大染病風險：這些設施更要小心&nbsp;&nbsp;UDN旅館馬桶會傳染性病？ 泌尿醫破解迷思：「這些地方」更該小心&nbsp;&nbsp;Yahoo新聞旅館馬桶、浴缸害人染性病？泌尿醫1句話終極解答&nbsp;&nbsp;三立新聞外宿後下體發炎全怪旅館馬桶？名醫破解「完美替罪羊」真相 染病死角在這幾處&nbsp;&nbsp;鏡報",
+      "id": "7774dd48eafd",
+      "title": "全球八分之一癌症病例與這些感染有關大多數可預防- 國際",
+      "published": "2026-10-06T07:58:00+00:00",
+      "summary": "全球八分之一癌症病例與這些感染有關大多數可預防- 國際&nbsp;&nbsp;工商時報全球八分之一癌症病例與這些感染有關 大多數可預防&nbsp;&nbsp;中時新聞網The Sick Times 彙整醫學研究：病毒致癌與長新冠衝擊公衛&nbsp;&nbsp;商傳媒【好Heal】研究：全球八分之一癌症個案與感染有關 接種疫苗及治療可減患癌風險&nbsp;&nbsp;Now 新聞研究：全球八份一癌症與感染有關 接種疫苗及篩查可助預防&nbsp;&nbsp;SBS",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tbjBEVHp6M04tQkZsd3Z5MkVfLXZzUWRId2hoLTg2Tnl3MkNkVmM2QUhjTHFBTjd0Um9NZWMwX3pidmhKdy1PUklmQ05FR04zWFo2NU02LW1vcS1oc3VmNQ?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "9470106a7f10",
-      "title": "為什麼年紀大會有「老人味」？醫揭真正元凶 洗再乾淨也可能出現",
-      "published": "2026-10-06T08:00:00+00:00",
-      "summary": "為什麼年紀大會有「老人味」？醫揭真正元凶 洗再乾淨也可能出現&nbsp;&nbsp;Yahoo新聞",
+      "id": "563a3ab85c16",
+      "title": "旅館馬桶害染性病？泌尿醫破解迷思 「這情況」才可能中招",
+      "published": "2026-10-06T07:44:00+00:00",
+      "summary": "旅館馬桶害染性病？泌尿醫破解迷思 「這情況」才可能中招&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNOGhwWklCVzJDamJqYm94VHB0a3dnVXE3cWJNRGFOM2R0MlJFcW1QWjVlOFluVkFpVkRRQUtTWmJhWHE2OWJsd1FZSGswSVlfcHRQZ1BOOFRHNkRXT3Y3N0t3RERwbGhMV1llRWNkQW9CVVgwTEZnTDhma1ptY3pGSjJTUllyYWloVEJGNWtlejVfU2RWa090MXRfWTN3eTh2UW9DQVRaeU9wSDNOVUhXNm9BZWNMNkRSMkZuNGRBTERFVzRwQTI1WTFuVHJSSWFuVHlEaElaSk1sd3gtVnFXVGFaUEw5RGxjZHE3R3QyYXp1ZWpDeU5EZTBzcTNQbDAtbWlGa3NHSmxEMDRKcXcyWW1aNG5mY2czVXI3dUpDc2ZoR3NOWW5tRUZYNzBHRUVFcnJ1MFYyR0hoelFJUXZjMGtnM1NIX3Fxc1VDRklJalB3NDRYRkUyeUlVWUVsX1dnQWZ0ZHdEVTNRYnRLcDNCRUgzbnRvMUdWRlFDQzZZdmR2Q0k0MnczeUpiSWV5RXc?oc=5"
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcTRUWnhsYU9UZklJOThkdjZSaGR0ckJiWWlWZ0d5Y3h5TGFfNlF0b2ZFU2txZDhzRjMtTUpES21YSkVuRlMzRl92QVhLWWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -317,6 +512,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "af5b85864dcf",
+      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
+      "published": "2026-10-06T04:00:06+00:00",
+      "summary": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS2NPT2FZVnFKblJONWdrdHExU2FMb1Y1cF9Za18wd0M0ZENnMDM1VUhVVGJYQkZyMHBHTW5pNmdFWUxiWmR5eTNsRERYRDJ0NVhQMEcxeHRUWkRpMHBnRW56dlJSVkpTckZhcUpKaEhQczRLSjdWWmtycndDUFA0S2kzVFBTdnA2LWQydVpOeS1sVjEzUllrcFFPd1Y5ZnFLYmxfenRtYlZlRWZET0JyWXl2VUJMeXBOYTBmVS1IMklHVmhaSmtuN2JtSDRxbTgxNmxyNDNpRThrSjA4UV9rN25nckZTbEgwMTVSd0dXZnhlclJMMlBwYXRzb3JXUkh2YkVLdFhWQnBQazFNSXpSd0NscWxUWHZlQzNGdE5nRXJ4S0RBUm1ZTXNvb0M4LUJ0bjU2SVpFZHFKZnRVT0xpNHdsX2RscXRLWVdUWFdyM3FRS0FPNzJtRVlDLWN0RkVjUkdESjBCQlc2QQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "56ccfbe4206c",
@@ -778,70 +1002,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "8c63fe8eb25b",
-      "title": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻 - Martin Cid Magazine",
-      "published": "2026-09-30T14:38:52+00:00",
-      "summary": "醫療化：DSM不再擴編，改寫「正常」的是診斷門檻&nbsp;&nbsp;Martin Cid Magazine",
-      "sources": [
-        {
-          "name": "Martin Cid Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOWttNm1leUQ0TGl1a0J4Vm00Y2F5b2gzVEYtTGNyVjFkVHk3dlVjV0lqWXUybElmZl91U2Fzb0RncG9qVGo3SENJR1R2bV9Za0lmdVdHRlpSZzFEOW9fMTRNMDIxTm9OLUtKelFfQlhfcks4Zi1xZ05OTTJ3eWc5b1p4U1NjN1VPanV1S0RvNXlwNFV1a3Y1VlllSkhsM19rdjJFSkJIb3RNRVBCWWhNeFFZc19ObmRpMk9hb0Q4c1EwR0ZoaFgzSmRtN05tQ2M5aTl0eGUyRWYyUGlFWTlCZTRDc1VTTVVkTWVFUGZZVGVZZzc5U0lSbkgzNFVFUmxOeUJFZXlyUHhCazdOT0ttZWRuNl9xZXR0Y0N1NUpMdW05Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "67d1e64eb9a3",
-      "title": "健康網》怕缺維生素D不敢擦防曬 醫揭靠曬太陽反增2風險",
-      "published": "2026-09-30T10:52:00+00:00",
-      "summary": "健康網》怕缺維生素D不敢擦防曬 醫揭靠曬太陽反增2風險&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5cGhmOTN1WVdVWWM5UjMyTTFhMWFBWjZmR0JBYXR6bThwb0JUdEJWN3ByUG9DYlhGS1BOSWctaHR0SHpaUTFDaFNHU24xSzF6R25Wd3RiYWtUS0ZRTzgwX3hLcXE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e660a65234b1",
-      "title": "愛滋病｜Bob林盛斌因醫生1句話決定驗愛滋 Bob嫂曾患妊娠糖尿病為生B捱980針胰島素",
-      "published": "2026-09-30T10:36:49+00:00",
-      "summary": "愛滋病｜Bob林盛斌因醫生1句話決定驗愛滋 Bob嫂曾患妊娠糖尿病為生B捱980針胰島素&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxQZktnOC1jbHRnOWtjYXNYMEdrbjJQdVdUVF9qN092WXZiUjhGY0NkRGNzUC1yT0hKRGpBMHY2SFRyYUplVTVTZkxTT0FuUXppOXJ4Q1I3NVZaMTF1Q3NzMGJha2pJMzM4ZFdKSFdxakxnT2MtZ1liZjRjTjVrQkdZZEZ1MnhMVGZxaFVrUTFCcXQ4eDVNR19ZZFQzUEV2ZDE1VVNycllMMkVLU1lqSVVsY3ppSlBHVmtvMHdfMVZ3Z3JyOERqZDRkU1ZfYS15b0phbWg4ZXctcW1DRUxWS21lWTduQi1IZ3dqNmxCZ2VxSGhBTjgwV1dpY2twU2NSX3NJWldZZVlaWVpnQVpMYXYzVXE5MWtCeXRwNGYyRWUwUzdQMGJBUk0zdGZKVEpfNzlKbUR2VFJLejFIZ2FjY0NyalhQOXM0a2tncEhoMXc3UVpFNnpFUnF1bk9ObmM4aktfb3hYVm55MTdtUUNnRGlrb1BaMk5sckdLRndfV0VwWnNfOTFyRmRlWjRoMGd0ZFdoWHY4Q2ptNWV3d3BzaUxTbHVyZXR1ZUc0bllfNER1Zm5hT2xYUUN1OC1qbHY5U3Fqdl8waTVuMXpnaVRYR3A3eDhuYjVXZFR4QlBNSE9vRi1fOWEtNndlNjVOZGY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4e348276d1d4",
-      "title": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招",
-      "published": "2026-09-30T08:56:12+00:00",
-      "summary": "維他命D分2種！長者吃錯增失智相關死亡風險2倍！附防骨質疏鬆6招&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNaEZoNkpGWWIzeVEtUGNQMjJOdUFfb1JmeExsdFFWcTdiakdQZkNvMzVPWVZWc2Q1LUVLVjhHcjZvQm9LTEVVZFJsM215TndoT0dTYTlrNFNxLXJBZ1RoMEhPU09lcURXS1RiZ1h1a0NWc3V5NV80WmhnekxSUGxXTkt6YmVWX21hbnpia3Q1X0g4anpIRWctc1dnYWZJTlo3VkpVRndQSXVhOHdpdVUwV1ROc1dWWHdENXI1dFN0blkzS3pQQWkxT1JnMS1NYTVRakViMUg4TFJHeWFaVjRXeEdCYWtVdS1meDBPZm5jZ2hycEdfYkVDVUhLYWo1TGZFMlBUN09tUEFYUm9EMGRxYkxMOFJDcE52bjVBcmw0RmtFbGQ4T0RjUUtNUHFDWUZNeEpmcjRrQ3E0bzI4ZGVoZWNpTllvd3JzV0YxdkFCXy1UemlYRkg2NUVsTlJ5bHRpbVN2cW5MNWJndWhtOWRZOXNtU2RVMDR2WV9vUnRYc1h4SjEwZ3JxenBCc1FjLUtmcmpkeWhlUTBjeE5VTEp6LUN4bW5qTnJfYUt0NjUtdmhzZWhrQVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

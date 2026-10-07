@@ -14,7 +14,7 @@ permalink: /news/xylometazoline/
 ---
 
 <p class="key-answer" data-question="Xylometazoline 有什麼相關新聞？">
-<strong>Xylometazoline</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Xylometazoline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,15 @@ permalink: /news/xylometazoline/
 <p><a href="{{ '/drugs/xylometazoline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [為什麼過敏有的孩子鼻塞、有的卻皮膚癢？醫揭「症狀差異關鍵」](https://news.google.com/rss/articles/CBMigwNBVV95cUxPWDQ3WnYxMWJBMGJYaHFPd2lEU2xTYU5Dakl5QVZJaTdIOHpvOFNEWVE0T2tYTUlqSGhJeGhQRlJBVy14YVd5bDd0LXdwVXhQTE12TjZ4LVc1a1pzd2VOdi1YTU43RnY0THpUejRWMUZwOTBxazlxVnNPOGpmbGpLMUlNcjViYUZ1a213bjE5YTg1dG1hNjdNZFhISkpydzFrYWZQZVRNc0huNHF5djFFcFBWNndqU3E2bGFKQTJTS3hSMjl0N1E4NG9sRi0wMEtScnBOQWVuVzA4Q2RPQlQzWmRBUEpvajlpSFVyTHRfRm9IYzNQSXFoWFJJQ3ZtRXVUUXpuekxSdmJ6bUJrdVowX0ZqR3U5SkY5TDk5QTNBS0xHLXZCZnljTlJCSzlvb1loUGJsa0x0TnRpR2tNU0pabG9TXzhINWhuODd1ZVpsdjRaX1VYNGlLRWJtUzRKNlZDcFVoQnIwWHFxbkhsNnZEVGJNUmtMek5SUDhEck14YWlyNTA?oc=5)
+
+2026-10-07 <span class="news-indication-tag">鼻塞</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMigwNBVV95cUxPWDQ3WnYxMWJBMGJYaHFPd2lEU2xTYU5Dakl5QVZJaTdIOHpvOFNEWVE0T2tYTUlqSGhJeGhQRlJBVy14YVd5bDd0LXdwVXhQTE12TjZ4LVc1a1pzd2VOdi1YTU43RnY0THpUejRWMUZwOTBxazlxVnNPOGpmbGpLMUlNcjViYUZ1a213bjE5YTg1dG1hNjdNZFhISkpydzFrYWZQZVRNc0huNHF5djFFcFBWNndqU3E2bGFKQTJTS3hSMjl0N1E4NG9sRi0wMEtScnBOQWVuVzA4Q2RPQlQzWmRBUEpvajlpSFVyTHRfRm9IYzNQSXFoWFJJQ3ZtRXVUUXpuekxSdmJ6bUJrdVowX0ZqR3U5SkY5TDk5QTNBS0xHLXZCZnljTlJCSzlvb1loUGJsa0x0TnRpR2tNU0pabG9TXzhINWhuODd1ZVpsdjRaX1VYNGlLRWJtUzRKNlZDcFVoQnIwWHFxbkhsNnZEVGJNUmtMek5SUDhEck14YWlyNTA?oc=5)
+
+---
 
 
 <div class="disclaimer">
