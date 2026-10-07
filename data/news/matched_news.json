@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-06T20:40:04.528439+00:00",
+  "last_updated": "2026-10-07T00:14:34.555400+00:00",
   "total_count": 43,
   "matched_count": 13,
   "news": [
+    {
+      "id": "c83e0ab69891",
+      "title": "園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線",
+      "published": "2026-10-06T23:00:38+00:00",
+      "summary": "園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞流感疫苗「打了還是可能中獎」乾脆不打，中了直接吃特效藥就好？阿包醫師：3理由建議孩子必打&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網1人流感恐全家中招醫籲及早打疫苗- 其他&nbsp;&nbsp;旺得富理財網",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQY0tRdjRLMWhRMVJKYU1telB6endxZEVYaUR1eHR2U29seG9nNG11dmlhRm0zRlVqYmhaZkN0VThvVGJ5VGtlcXZOMDBWQ1ZMVGRXNkZVZ0w0dzZ6Qi0wQl82dF9EWWFnUjl6cTdzYVE1MUJNcElEcm5PY3gzM0ViWUhiamVtSDB0ZE9SdXRSbnRYY2lUMzNYbC0tTEdpaFV3cEFZLXpiRjM3aWZtUFV6U3F1UTNraWI0VkNkYnBYaE8xRDJDU2FQV2VSYW1DX3duNXBJTUw3cS1PdmVSdWhDSmhlT2hIU3dpXzNTZzNRcHByS2ZtcGRtNHJtOFJaX010X2U0X2VjT1FrYk12aEJPeHlzZjIwbVRvd0Nscm85eVFwenB5QzZObDlqczBhY21wR1JPXzFIY2lmWmdmNFlBUlZRcDRSLTdzenZ3c1g0eFpzWU5SUWlxSlJkX1NraEdpYmZHRExWOHBqY0t4dWFvdU03a0lJMDBiUXpOcHdfLWFpTmE0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e1decb51d473",
       "title": "「健康365」健康品傳4、 捷運、公車一直有人咳嗽，怎麼保護自己？",
@@ -146,14 +159,14 @@
       "matched_keywords": []
     },
     {
-      "id": "bdae5a6b22a8",
+      "id": "af5b85864dcf",
       "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
-      "published": "2026-10-06T02:57:59+00:00",
-      "summary": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;民視新聞網",
+      "published": "2026-10-06T04:00:06+00:00",
+      "summary": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ3FkYkZIMFRfU19acDJtaVRpanYtMDJvTzRUWjlaYS00eGJDSjVZNnptUU52RTlEczQ4em9UdFpONkk1R0hvVVNURjNQT2dOWUpvVUs3Rm96dHV1RmJfRQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS2NPT2FZVnFKblJONWdrdHExU2FMb1Y1cF9Za18wd0M0ZENnMDM1VUhVVGJYQkZyMHBHTW5pNmdFWUxiWmR5eTNsRERYRDJ0NVhQMEcxeHRUWkRpMHBnRW56dlJSVkpTckZhcUpKaEhQczRLSjdWWmtycndDUFA0S2kzVFBTdnA2LWQydVpOeS1sVjEzUllrcFFPd1Y5ZnFLYmxfenRtYlZlRWZET0JyWXl2VUJMeXBOYTBmVS1IMklHVmhaSmtuN2JtSDRxbTgxNmxyNDNpRThrSjA4UV9rN25nckZTbEgwMTVSd0dXZnhlclJMMlBwYXRzb3JXUkh2YkVLdFhWQnBQazFNSXpSd0NscWxUWHZlQzNGdE5nRXJ4S0RBUm1ZTXNvb0M4LUJ0bjU2SVpFZHFKZnRVT0xpNHdsX2RscXRLWVdUWFdyM3FRS0FPNzJtRVlDLWN0RkVjUkdESjBCQlc2QQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -390,28 +403,30 @@
       "matched_keywords": []
     },
     {
-      "id": "e1f719f8a339",
-      "title": "確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0",
-      "published": "2026-10-05T02:00:00+00:00",
-      "summary": "確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」&nbsp;&nbsp;TVBS 健康2.0",
+      "id": "7dd72beeaef2",
+      "title": "第二型糖尿病能逆轉嗎？研究逾半患者半年達緩解 但這方法別自己照做",
+      "published": "2026-10-04T07:43:49+00:00",
+      "summary": "第二型糖尿病能逆轉嗎？研究逾半患者半年達緩解 但這方法別自己照做&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE9fUnhmSzlPME15X1U3cVN2Sm1YZ1c1dFJnSTlqX1E5VkY4a09rc2pIdk9Ib2E2R21yRGYxR3JEWHN3em9qUGo0a2hmOGxicGU3dFhCTFpTaFpUT25qNDRkSnZ3OXlFXzhwN0xpbHctRUE1bG1oNmJXc1ZnQWxXaUJ30gFiQVVfeXFMTVdrd3hkVERUR1phRWFvYWEzeTFvWDlra0FNbmlrT0k5OVQ3WDFaOWt4N1dETjdLVVFMRW5xY21QQlVWMk9VQWNpbkVfTTZPb2hoTHN1bm5tbFZ5Vk5DdzhSLUE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "55ad2336f4a9",
+      "title": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要",
+      "published": "2026-10-04T02:00:19+00:00",
+      "summary": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5"
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "stroke",
@@ -428,19 +443,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "7dd72beeaef2",
-      "title": "第二型糖尿病能逆轉嗎？研究逾半患者半年達緩解 但這方法別自己照做",
-      "published": "2026-10-04T07:43:49+00:00",
-      "summary": "第二型糖尿病能逆轉嗎？研究逾半患者半年達緩解 但這方法別自己照做&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE9fUnhmSzlPME15X1U3cVN2Sm1YZ1c1dFJnSTlqX1E5VkY4a09rc2pIdk9Ib2E2R21yRGYxR3JEWHN3em9qUGo0a2hmOGxicGU3dFhCTFpTaFpUT25qNDRkSnZ3OXlFXzhwN0xpbHctRUE1bG1oNmJXc1ZnQWxXaUJ30gFiQVVfeXFMTVdrd3hkVERUR1phRWFvYWEzeTFvWDlra0FNbmlrT0k5OVQ3WDFaOWt4N1dETjdLVVFMRW5xY21QQlVWMk9VQWNpbkVfTTZPb2hoTHN1bm5tbFZ5Vk5DdzhSLUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "90e4754de0c0",
@@ -714,19 +716,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQcmZyVVhxRkhnY3BtY1RpYndaSHNzUVcwOV9sckNTOVZVaGpCV3hlQldsdWNjellpUGQ3RlhsUmduMVN6bmRrcnR5c0pFblh3MHpZUEl6N2lXd3NiajlHdlFSejRrVTBhRnFCSi1fbUpxMjE5V0xTb2NPWkFXS1M5d2RxTTNrQ28xRE51SE9uVlFiVlgwUTgzakdjZ0Z5Y0c0TVVTMXUxQXYzNkpURDd5N29qWUlWWGJQaFJreXRaS3k5R1VWU0VmRXE5R1RBTVZTbkZpNG04QldhVG9VZllrZ0JnbS1BUzJCM0lfd01zWnZuVjEwYUx2Y1JBcUlpMk9WYS1kUExXclRyT3gwSFRwWVktT2YycE9KcS1WNEZOWWdoWW5tMVdFR05VRmQ0Uzczc2s3Uy1iaVU5UTVINGoxdkJELXFINVRubkZra0UzY2dPNUtxaFN1ZlFkT1NEWGxzWTdMVHFXMERKR0ozcTBrV2w5c3Q4UVkwSGxrQ0I1ajRXZkpHczE1UmJKMFhXdjhsaFlmeVdoejktZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d1ee916c6389",
-      "title": "醫療專家呼籲民眾十月底前接種流感疫苗防重症",
-      "published": "2026-09-30T22:15:44+00:00",
-      "summary": "醫療專家呼籲民眾十月底前接種流感疫苗防重症&nbsp;&nbsp;Singtaousa流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞長者流感針2026｜50歲或以上免費！打針前後須知+地點+3類人不宜&nbsp;&nbsp;香港01流感疫苗「打了還是可能中獎」乾脆不打，中了直接吃特效藥就好？阿包醫師：3理由建議孩子必打&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網50歲或以上人士盡早接種流感疫苗- 政務號&nbsp;&nbsp;大公文匯網",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUWYxOXpUN0Y2LW10aFVKcGM5ZDRvRjRUQ2RLM1A3WUZiTThnN21JNDRhVU56bWl2elppdEZyN1JacVBDOERabURwdEVka0ZQaUxyMG90Z3hlc0lkNmRKbndXbUxDZ2EybXlnbU1rMHptVDFsa3NWbjhMbGdYUm5vT1YyR2d2ZDJfYW5hY3M0VnVMWHVuR1Fha04yR2ZCZUhQWmF4VjZBOFZ2MTNtWmtrd09PQzNpNjdiejJPVk4wOGhZQTlDbVhYVnNQd0tOeC1aTk91Q25UZHJhTTV2R2h6WlhhNHh0a3k3WEJMNE5TVGs?oc=5"
         }
       ],
       "matched_keywords": []

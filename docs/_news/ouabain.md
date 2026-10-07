@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
-
-2026-10-05 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [不是少吃肥肉就好！研究揭「1類食物」=血栓地雷 心臟病死亡率飆66%](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rVjc5dVhKSlcybXlNdTQ3LTYtVGhpNzdLbzQteWlKLVdPS3pSaW5IMVRXd212WDl2aXpnQzRRZzBsRlpiV2xNd1lnMlg?oc=5)
 

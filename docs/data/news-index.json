@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T20:40:04.562750+00:00",
+  "generated": "2026-10-07T00:14:34.589516+00:00",
   "count": 13,
   "news": [
     {
@@ -27,13 +27,13 @@
       ]
     },
     {
-      "id": "bdae5a6b22a8",
+      "id": "af5b85864dcf",
       "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
-      "published": "2026-10-06T02:57:59+00:00",
+      "published": "2026-10-06T04:00:06+00:00",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ3FkYkZIMFRfU19acDJtaVRpanYtMDJvTzRUWjlaYS00eGJDSjVZNnptUU52RTlEczQ4em9UdFpONkk1R0hvVVNURjNQT2dOWUpvVUs3Rm96dHV1RmJfRQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPS2NPT2FZVnFKblJONWdrdHExU2FMb1Y1cF9Za18wd0M0ZENnMDM1VUhVVGJYQkZyMHBHTW5pNmdFWUxiWmR5eTNsRERYRDJ0NVhQMEcxeHRUWkRpMHBnRW56dlJSVkpTckZhcUpKaEhQczRLSjdWWmtycndDUFA0S2kzVFBTdnA2LWQydVpOeS1sVjEzUllrcFFPd1Y5ZnFLYmxfenRtYlZlRWZET0JyWXl2VUJMeXBOYTBmVS1IMklHVmhaSmtuN2JtSDRxbTgxNmxyNDNpRThrSjA4UV9rN25nckZTbEgwMTVSd0dXZnhlclJMMlBwYXRzb3JXUkh2YkVLdFhWQnBQazFNSXpSd0NscWxUWHZlQzNGdE5nRXJ4S0RBUm1ZTXNvb0M4LUJ0bjU2SVpFZHFKZnRVT0xpNHdsX2RscXRLWVdUWFdyM3FRS0FPNzJtRVlDLWN0RkVjUkdESjBCQlc2QQ?oc=5"
         }
       ],
       "keywords": [
@@ -201,27 +201,16 @@
       ]
     },
     {
-      "id": "e1f719f8a339",
-      "title": "確診糖尿病先飲控？研究：增67%心梗、51%中風 第一年是「護心腎黃金期」 - TVBS 健康2.0",
-      "published": "2026-10-05T02:00:00+00:00",
+      "id": "55ad2336f4a9",
+      "title": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要",
+      "published": "2026-10-04T02:00:19+00:00",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Cd1NlWmdqell2MjN5cGlyNXlNSEUtbmJEMW5iaXhad1F4Z1JTSXhtQ3V5STQ1aEszNlREa1pqRWlQUnI4TFEtczVHeXI5Z1QwVkNj?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "stroke",
