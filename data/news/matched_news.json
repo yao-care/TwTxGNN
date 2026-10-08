@@ -1,32 +1,46 @@
 {
-  "last_updated": "2026-10-08T00:35:53.530824+00:00",
+  "last_updated": "2026-10-08T06:51:21.187192+00:00",
   "total_count": 45,
-  "matched_count": 13,
+  "matched_count": 12,
   "news": [
     {
-      "id": "f6c866bf258d",
-      "title": "他感冒「抗生素開強一點明天要上班」　醫不開遭怒退掛",
-      "published": "2026-10-07T23:19:00+00:00",
-      "summary": "他感冒「抗生素開強一點明天要上班」 醫不開遭怒退掛&nbsp;&nbsp;ETtoday健康雲",
+      "id": "c4c4cb7ac954",
+      "title": "小孩不愛喝牛奶長不高？　醫師曝替代改吃這些：一樣可以好好長大 - 鏡週刊Mirror Media",
+      "published": "2026-10-08T05:02:00+00:00",
+      "summary": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44V1hkbVJFa2picGR3WFJ0UEplTXdvUDZHWnJ3bVQ1MEk3RlBWVmZRUGw5TEVfb3pwR3RCaWs3bXVXaFllV2x6WDhYZ1ZJdGZP0gFPQVVfeXFMTWp5eFpfWlRqT0JleF9jTVVJc0R3UF82MjZ1Nmh2czR4QlIwZnN3LWZDY2xNRWNBT094VEpXd1d0aGg1ZGlwQWdaaHkzM0RaTQ?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00V1o4N3htQ0VoQk4xNDJKaWdYRkVJOXVGX1hYZ253b09id3BJR3lVVTRWZk5OMmNaRFpoemRESzhvdnhBRUFmYlAxSGRNeVFKZVNOVzFSd1BmVVXSAWBBVV95cUxPMGZVTG0ySmxiVDNXNldCVXBqQ2pkRXlzNE5VRDhpMGhoOV9oLVhjRkU2c0pBZ21XZ054R2tKN0hVRm5FTkFwOVlhd1JUYURCODF3eTRnZ0J2cEFYVlVhQzY?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "338ba50aabd1",
+      "title": "胸悶以為胃食道逆流 63歲男2年裝7支支架",
+      "published": "2026-10-08T05:00:00+00:00",
+      "summary": "胸悶以為胃食道逆流 63歲男2年裝7支支架&nbsp;&nbsp;健康醫療網",
+      "sources": [
         {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vaEFNSHNDUURMUkgzOGQxQkpld0JJeTNkOWE0Qy05Y012dC13elhnZXExdWJBX0pVeDdGWG1Db0p1OFo5bHJnQVBGSkRmUjRoaG5XZUZR?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0970edde9c9e",
+      "title": "流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」",
+      "published": "2026-10-08T02:06:00+00:00",
+      "summary": "流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;優活健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OakFnMWhLd016QXlPYnpvVi01WWI5WGRRanhKVFV3QmhoY3M5ZkZQLXh3OVBCcjhveGFBRXYya3lhcy11TWc0bjNaNkY5NVBUOUZ3?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "ce8703f6bf58",
@@ -107,25 +121,12 @@
     {
       "id": "2b7bcc561abe",
       "title": "抗性澱粉成脂肪肝剋星 上海研究：每天40克4個月降57.7% - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-07T13:39:58+00:00",
+      "published": "2026-10-07T15:24:34+00:00",
       "summary": "抗性澱粉成脂肪肝剋星 上海研究：每天40克4個月降57.7%&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
           "name": "Sing Tao Daily 星島日報加拿大",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQY3dFeWlHcUVOaWo0VDhRVTRxOFVIOUkzZUN4aU1XTVJJbndCM0Q0bUF3RUgxMk15X3NBd1ZvSjhqQ084MnhDSndwbWk1UmE5TjFoQU9qWVhualRIMlZ2ZWRvdWR1LVJyNHU4My13ZWMzcHkwNE1OX2RqbFlIS0RaMlVoY2Zuek9GRXg3Z05falBFMndaZGtqd3lVUW80N1lwSTR5V0plaUEzTTNFQmlhb29QdkZzR2NqRks2ZDhTT3V5Q21PY3Q4OFBkWTFieldfUDdSaHU5a2VOTjJGazVBV1U5TktXd3BkMG93aC0yaEllRkRQN3hEdDVnX3o1TUY3V1lPdTEyNktYN1JGV1ZGYWNQTzVkb1dlZ1lTZjJPdHB3bTdqM3RyNl82c2s5enpXR1BQRS1lTFRROFRhMXR1VUFjT1NWZ19sOE16Sl9CRmJURkZ3WVdLVGdaLW9BUFZmWVFnbUw1UUbSAYoBQVVfeXFMT0tLTDQxQlBFTlEtTUk2X0NLQjRJd1NIUWt1TGtfeEhNb0Y0Q1ZkOUk0YUdGckZzeW5nbTB3SnJIajhNQTBvcEI4Uy00RldjZ1Q4cC1JZFFuR2VpaG9fbVdELTVVdENDclh1SmtMRHBjMENLamtkU3J1UEFOcnlJTnpjNkd2TzN3RThR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f2f9cd4ec731",
-      "title": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家",
-      "published": "2026-10-07T12:17:00+00:00",
-      "summary": "長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網孩子人生第一針決定一輩子的免疫記憶？兒童感染科權威解密流感疫苗如何達到精準防護！&nbsp;&nbsp;天下雜誌過去好好的幹嘛打？醫曝加護病房「每個流感重症都沒打疫苗」&nbsp;&nbsp;ETtoday新聞雲園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZ2hWWW9zZ2MwQ3hpcW11ZXota1RUczctWjRVSTBOVUZrSy1IbkVXU2EyS2JCcjB3VVdzNVBLc1NRU09ZZjJEMUJZLWxoVlpt?oc=5"
         }
       ],
       "matched_keywords": []
@@ -186,7 +187,7 @@
       "id": "19aba7b22ec1",
       "title": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！",
       "published": "2026-10-07T00:03:48+00:00",
-      "summary": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉&nbsp;&nbsp;TVBS 健康2.0失智症患者胖一點反而活較久？研究揭肥胖悖論 但別急著刻意增重&nbsp;&nbsp;元氣網健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％&nbsp;&nbsp;自由健康網體重沒變褲頭卻愈來愈緊？ 醫師：更年期真正要防的不是變胖而是脂肪往肚子跑| 熱門話題| 要聞&nbsp;&nbsp;經濟日報",
+      "summary": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞失智症患者胖一點反而活較久？研究揭肥胖悖論 但別急著刻意增重&nbsp;&nbsp;元氣網更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉&nbsp;&nbsp;TVBS 健康2.0不想運動也有望瘦肚子 9飲食習慣擊退內臟脂肪&nbsp;&nbsp;世界新聞網健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -295,30 +296,226 @@
       "matched_keywords": []
     },
     {
-      "id": "6d0bd5ba8453",
-      "title": "眼科醫師警告日常7惡習恐損害眼部健康- 國際",
-      "published": "2026-10-06T09:16:00+00:00",
-      "summary": "眼科醫師警告日常7惡習恐損害眼部健康- 國際&nbsp;&nbsp;工商時報",
+      "id": "50cc754b967b",
+      "title": "眼科醫師警告 日常7惡習恐損害眼部健康",
+      "published": "2026-10-06T09:16:21+00:00",
+      "summary": "眼科醫師警告 日常7惡習恐損害眼部健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xQWlsM3drNDB2LVZ5R3o1Ri12RjI4dEFnUDhzY25kdncyczlUMk9Ua0dKWE1Tak9hRXhMN0xrSGJWRnZObkk1OHhlazh6NjFFN3docTZkZUduaFJKTnZB?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10eW93NHNoSXh1eG40c0RRMEZ0OWtPcmZZVWgwVVVWeXk4WmFqaEYtV0lyVWVNVEw0d2V6X0tfcWVyY2RGZjBFUGRjVlVpREtLcWF0cmlKSVVjVzZKSjYyZHg2bGVnTmNBM2h6c1hB?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "3ae698b34452",
-      "title": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降 - PChome Online新聞",
-      "published": "2026-10-06T08:49:54+00:00",
-      "summary": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降&nbsp;&nbsp;PChome Online新聞",
+      "id": "7774dd48eafd",
+      "title": "全球八分之一癌症病例與這些感染有關大多數可預防- 國際",
+      "published": "2026-10-06T07:58:00+00:00",
+      "summary": "全球八分之一癌症病例與這些感染有關大多數可預防- 國際&nbsp;&nbsp;工商時報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "PChome Online新聞",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSy1GZk1mM01tWlNabUdIb1R5eS1pMHRlakdWMG50ZHZBaGlqS1otajRLaW8wRHpkbTl0WDIwVFI1elFnYlVtM1J3X0txWjRLd1JINlBEQ0dOQXFsQ0ZOZGotOWtLbkwzNzVFZTBOME84LUxDVUNIY2JLek9EQ3hKRWRWZUtScHEwOG9N?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "563a3ab85c16",
@@ -359,31 +556,6 @@
       ]
     },
     {
-      "id": "5b80a4e138ed",
-      "title": "孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」",
-      "published": "2026-10-06T06:10:45+00:00",
-      "summary": "孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」&nbsp;&nbsp;民視新聞網她懷孕30周要出國「沒發燒中A流」 醫快篩驚：救2條命&nbsp;&nbsp;ETtoday健康雲孕婦沒發燒只咳嗽流鼻水！醫一聽「明天要出國」急做快篩 竟揪出A流 | CTWANT&nbsp;&nbsp;LINE TODAY一次診救兩條命孕婦懷孕30周要出國 中A流被醫篩出- 生活&nbsp;&nbsp;中時新聞網孕婦感冒隔天要出國！快篩竟「揪出A流」 醫驚：救2條命&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e3f12fc6d888",
       "title": "戒糖失敗｜極端戒糖5大壞處 或導致疲累、易暈更影響腦部運作 識揀好糖才是重點",
       "published": "2026-10-06T05:30:00+00:00",
@@ -410,6 +582,31 @@
       "matched_keywords": []
     },
     {
+      "id": "9137404b1185",
+      "title": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網",
+      "published": "2026-10-06T04:16:23+00:00",
+      "summary": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網她懷孕30周要出國「沒發燒中A流」 醫快篩驚：救2條命&nbsp;&nbsp;ETtoday健康雲孕婦沒發燒只咳嗽流鼻水！醫一聽「明天要出國」急做快篩 竟揪出A流 | CTWANT&nbsp;&nbsp;LINE TODAY一次診救兩條命孕婦懷孕30周要出國 中A流被醫篩出- 生活&nbsp;&nbsp;中時新聞網孕婦感冒隔天要出國！快篩竟「揪出A流」 醫驚：救2條命&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "Mombaby 媽媽寶寶懷孕生活網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "42d5d8e84925",
       "title": "三寶媽優雅有術》孩子親眼看見公園衝突後 先別急著告訴他「誰對誰錯」",
       "published": "2026-10-06T04:00:30+00:00",
@@ -434,57 +631,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "6697dea3cf44",
-      "title": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子",
-      "published": "2026-10-06T03:15:44+00:00",
-      "summary": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子&nbsp;&nbsp;ENN台灣電報",
-      "sources": [
-        {
-          "name": "ENN台灣電報",
-          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1rQUM5MWdCbHFUeXRHRE05M2Rkby1NVmFSOFZzMFRxcGNXUndzcTZFc3hvOU5YajNZUGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "663987970bb4",
@@ -549,6 +695,57 @@
       "matched_keywords": []
     },
     {
+      "id": "1e314eeab6eb",
+      "title": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子",
+      "published": "2026-10-05T23:15:00+00:00",
+      "summary": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子&nbsp;&nbsp;https://www.yesmedia.com.tw/",
+      "sources": [
+        {
+          "name": "https://www.yesmedia.com.tw/",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOTzU1MWxqQ21iODZVRU1ZMnkzLWEwRXhTYlR4aVRjaUNETVhSOWx2ci1CMk5aeG5YMHJjRWJ2VVduN2dmNHhZVmNlRzhZT2JTYzFNX3BUZDE1UTQ5Q1NTY1puaGdmVUZTNVVidjhzTV9VSzdhZ3FpMHlRbG10bU5VbmM0NjZLc3JNNmF4RW8zbGRzZEtpTzN0R1dmSFFmaGV2UUtEOENrRmVQM08xcTNpOV84YW1haXpVSng0aVRYaWVVSEVUZGFrZVdGVDM4cFNrSTFlaDlRZnFOaGprR3NRTmhLdHdEYkluQkVCM2Z5b0NMbTJhamRORFRIMEZzOFJuNXhJZU5SMC16WWRlQjY4ZnlJSG1Sdk40U3VCbWZ1VE9kTmxkQlNtcGFiRW5uM25Kc0ZiWUZRalBRR3k3UXJ5UlIzTmN3M21fYkhmOA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8ec6a49b8977",
       "title": "旅行完就狂咳 因飛機冷氣太凍？醫生揭4大症狀勿只當普通感冒",
       "published": "2026-10-05T23:00:00+00:00",
@@ -587,34 +784,9 @@
       "matched_keywords": []
     },
     {
-      "id": "3c2e3be2fb57",
-      "title": "出國前必看！感冒還是流感？秋冬防疫這樣做 避開重症找上門",
-      "published": "2026-10-05T07:27:00+00:00",
-      "summary": "出國前必看！感冒還是流感？秋冬防疫這樣做 避開重症找上門&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oQmN5Y081a3cwOEZnSG5kQ2p6d0luQ3lDV2o4M2NaZUVZSVYxMFJpc3lzWGxoZkRzUWFPN0RwRHlUdHZYR3ktazZpaWtNZnRRV2o4cA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "24fe2a7de8c8",
       "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？",
-      "published": "2026-10-05T06:00:01+00:00",
+      "published": "2026-10-05T08:21:01+00:00",
       "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
@@ -625,27 +797,27 @@
       "matched_keywords": []
     },
     {
-      "id": "19c9600ce0d5",
-      "title": "抗癌藥物可阻斷瘧疾兼可降低細胞毒性| 生活 | 生活",
-      "published": "2026-10-05T05:14:34+00:00",
-      "summary": "抗癌藥物可阻斷瘧疾兼可降低細胞毒性| 生活 | 生活&nbsp;&nbsp;UDN",
+      "id": "31135cbf9826",
+      "title": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性 - PChome Online 新聞",
+      "published": "2026-10-05T04:19:23+00:00",
+      "summary": "抗癌藥物可阻斷瘧疾 兼可降低細胞毒性&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XbWlWbWJEczl6WEhRV0dMWW1yX0ZUSGNlMWVoSDl0Vm5iM1VjTTZNUmVadU9PdnVISDFuVUhOM05wTnZPSjg4YUlnc2hUemds?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDRxVXFVcUJNMml0ZHdUNkZhY2lRMk93Um4xWFNIVjhMMmZUTERQN20tdlZJTllfU0pMb255ck9kYmdCQlNtSzFVSno5Y21TSUVvWEN5QTdWanRDYzAyUzFXNVdKVk9KbnFKUmZ0d1gwMG85SEtIUG5wZWRFUmFMaHFIMkFzWHdWb2FwYnNuOERadw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "e895a253f39c",
+      "id": "619457912684",
       "title": "腦膜炎雙球菌可致截肢及腦功能受損 市民年底長假期外遊須嚴防感染",
       "published": "2026-10-05T04:01:08+00:00",
       "summary": "腦膜炎雙球菌可致截肢及腦功能受損 市民年底長假期外遊須嚴防感染&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPTHNjQnVsbFJBM3FyWVAzaWxwNm9raHZXalMxWGhuVnFDeGREZmVHQXJGbXBveXBEZTNrbTBRdDVvNmFaZkMtT1FqMWM2REg5T0l6cXVYX0N1RVNXMjBpRzdnYjIxb202aHMySjZmR2lTejJPYW94aWxEc2JXdlRnWUFLZVp3MXdTMlpvSTMzY0RvcklNc2JDZEtBVmhRbThjWGtRNTdNdlJlUzBOVFlIYTFtMlFIdlpWck93WU5QVVFGbFo5a3J4ZGdxSTNxN3daWlppNFRqSnhoLVJJZTR4WHl2QXRsQ0JGcDB5MjFZMEpVRHNSTWhWZE5Cay1hLWx2NjhKWlA2bFd2bGRtYVZFUERuS21YMUd2TmpsUFY3RjhwMnE4MmhMWm93bDBxSDNrNzI3Rl82aTZqcnFjcjUxdVYzTThIdDUxRTQxVWpyQ1FDeUxKWjJzOHoyNDlfUUFlTl9xS3NiYnFYR0Y5SjRoZWEzak0wRXZTNGlvRWZvaDZOWEpUWG5EQ29QTGhJdS1uQUVpZFZYb0R2MlRJNG9XcGJycVZ4TTV4dUxFVmN6RG9SS2EzallpTHFIOTRfNTNuMzZuY2dqeHdFY1E?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOS3g0SUJqbm9JZ1hGQk9RYWR2d215aHVIZk1YNDVZb3FzT1VMTFN4ZktCbGxLbkVydnA5S0NKV1phNmUwOWhiQldvSmo3d3c2czl6WnloZTB6ZU02bUdzRlNiWFp6SWo0ZHZrcW5rekE2a1A4MldFNVJTanBLUDlmam5UN0tSSzY4Z1BTbnk4NXBIQkVqZEo4VElGbHVGcFdYWkdsbjRTZ1Z6MVZGQTdTd2VxbHJXelNVSnV3X09sY1YzN3I3S2RpZm40YWJUUEFYWjBfUFJ2ZHI3M3Y2dFVfNE5rR1pZeHpPNUZ1NE9uY0U3Y0NYRnF3NGU2ZDZubjlEQi0tUDdpc2Jrcnowckc5MUdCTTVtUGJBYjBvVGg4NzB3YV9XRjZaUmtwR1dPTk0zNTRmVXhaMTZLUy16NzI2TWlnNmRMcUlzbW5nT1lPLWJoREcxSDVqTC1NemJDMkRVUTY0dUpkRHlNM1dmekNyZmY3ZHJaNGtlcmpGWmhXN1lIRm8xTDRCY3RsU29JS2hPWkdvWkVva2JRWGZ0V2pkakRLOXNKNlpVRkl2Tm5HU3Jwd3M0WDRyM2J3WF9WUQ?oc=5"
         }
       ],
       "matched_keywords": []

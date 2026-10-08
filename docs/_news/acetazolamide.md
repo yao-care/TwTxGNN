@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [全球八分之一癌症病例與這些感染有關大多數可預防- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
+
+2026-10-06 <span class="news-indication-tag">癌症</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
+
+---
 
 ### [潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnV2a0FOcWNUelMtbHFOZXMtRl9qcUN1RENERzBzeUd1RFJ0bERGeUk3MkpWUGJIaXNqc29IdXJaTFZqVnQ1b0RpenhQVlgwSTJ0ZmRBNUZMdjNwLWVZajVwNHFCRUVnWmUwRHBzUUpKVzBXNmwwYVpxUHpSVi1pYTBR0gFiQVVfeXFMTnZlaEJJM21KMDN1T2QxSUlGMWZyS3Jpd25wTjFfSHhYOTk5OEgtNEtQemlOcVF6cmw2cEZYUkoxaWRGbnZtSmY1OUFDcXNoeGVWTFcwTUNZRHJQY3dMN014TGc?oc=5)
 
