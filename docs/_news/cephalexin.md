@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Cephalexin 有什麼相關新聞？">
-<strong>Cephalexin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>Cephalexin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,9 @@ permalink: /news/cephalexin/
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNb2lJNXFua0NGekU2WTNmTDVEMVVlMXVEdUFaTk5KMjdxeGdVUkN6a05sWUlKeUl6aU1RSlRTbEg3XzhaQVJXWTNZcGp3dXg4NWxnQkNsZl9jLWZraVZjMmFFaGtjeUViWGVhTUpJeGxVRF9pRGNBTDNsWGZkNTd2V1BUWVlKVnlxOFVDblpLdWFqTlpmMm1VX2FwbXppcFRwdlJjMlFVa0x0YTFwbmZ0UWJ6dGY1SGJBazZGVXFlV3MtbFd2U0xaOWRuZXdoWGVpSHBMOHQzZXMzbDdWN05KWXFBNXhxWUtOYTNrUWpDc2JNaHpDUmRkbHpIdy1TNlg5NDlpeVNBbUo1ckNuUVBZcGN0bU83RW1JNWFxOTE5bG0tMkloSVBwQWtiTkZwbHZ5aHY0MW9qV1UySndRUzY2R3psTEM5RENaZjR0UllMQjRuVHJBTm80?oc=5)
-
-2026-10-06 <span class="news-indication-tag">鏈球菌</span>
-
-來源: [台灣大紀元](https://news.google.com/rss/articles/CBMi1wJBVV95cUxNb2lJNXFua0NGekU2WTNmTDVEMVVlMXVEdUFaTk5KMjdxeGdVUkN6a05sWUlKeUl6aU1RSlRTbEg3XzhaQVJXWTNZcGp3dXg4NWxnQkNsZl9jLWZraVZjMmFFaGtjeUViWGVhTUpJeGxVRF9pRGNBTDNsWGZkNTd2V1BUWVlKVnlxOFVDblpLdWFqTlpmMm1VX2FwbXppcFRwdlJjMlFVa0x0YTFwbmZ0UWJ6dGY1SGJBazZGVXFlV3MtbFd2U0xaOWRuZXdoWGVpSHBMOHQzZXMzbDdWN05KWXFBNXhxWUtOYTNrUWpDc2JNaHpDUmRkbHpIdy1TNlg5NDlpeVNBbUo1ckNuUVBZcGN0bU83RW1JNWFxOTE5bG0tMkloSVBwQWtiTkZwbHZ5aHY0MW9qV1UySndRUzY2R3psTEM5RENaZjR0UllMQjRuVHJBTm80?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -1,7 +1,91 @@
 {
-  "generated": "2026-10-08T06:51:21.222516+00:00",
-  "count": 12,
+  "generated": "2026-10-08T14:13:53.637114+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "681d72bcc0db",
+      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - PChome Online 新聞",
+      "published": "2026-10-08T01:30:00+00:00",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ff48438455b",
+      "title": "乳過天晴｜「樂杖行」助力乳癌治療後復健",
+      "published": "2026-10-07T23:00:00+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2a281b9e58ff",
       "title": "不同國家女性更年期症狀差異巨大",
@@ -39,13 +123,13 @@
       ]
     },
     {
-      "id": "19aba7b22ec1",
-      "title": "中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！",
-      "published": "2026-10-07T00:03:48+00:00",
+      "id": "cd67f7b705a1",
+      "title": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0",
+      "published": "2026-10-07T10:10:00+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPbG44Q25OalhiVjR1MHViRkxtNWdjWktfX1pCMjRwTXBOMHhFR29fNlR2eFE5NDdjb3ZhOWs5Y0J0dldrNi1jY0FINVdSVnEtSVhsZ3o2R3JneFo1WEptUkRlTk52S1g3Q1ZPWlhTS1dWdzBIdzVjdlRLVVlMS3h5azQ0dUxxb3ZQcllKX3ltckdhbFBNSTJoOTBRU0dmU3J6c3lxN3lqY3JXUk5QZXAyZnlOX0dSbDJTbFhBMWpRNzdzUVBXbFU2M3lTUjBxcGV2UHktYVBwb3ljck43TlFWb2RzMUd2MDFFNy1DNjJxMjNDLUR0dHd0QlVMRnI0TVN2ZTJPV0ZRQ0VwdlFtX2t6WWVUMHlfOFVPVGFvamloRTJzaklrSlJIVGcwbHdjQ3haQVp3YXhnM21FX21YYXhZSjFsMWRUczdvQmQ3MlJ3NV85RFVaNjZ5REpDNkRVaEZSSWU5VlluZlA3dE9Wc3N2WHowMWcxYk5ncFhVLVVKVGJmWE9WbC1kZzNmWGVOTGRvRnNwREFmUmhCX0dWLVhtSzV1am03RnJUZTBfV3ZpVHRSOURoLWpxckdFMmt3QmtJT0NzNk9oZC1zMVl6eXFGNA?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5"
         }
       ],
       "keywords": [
@@ -63,17 +147,6 @@
         {
           "type": "indication",
           "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
           "keyword": "失智",
           "related_drugs": [
             {
@@ -102,34 +175,6 @@
             {
               "slug": "nystatin",
               "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "81fb5eabc1d0",
-      "title": "醫師來解答 成人肺炎鏈球菌新疫苗上路 你打了嗎？",
-      "published": "2026-10-06T12:44:52+00:00",
-      "sources": [
-        {
-          "name": "台灣大紀元",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNb2lJNXFua0NGekU2WTNmTDVEMVVlMXVEdUFaTk5KMjdxeGdVUkN6a05sWUlKeUl6aU1RSlRTbEg3XzhaQVJXWTNZcGp3dXg4NWxnQkNsZl9jLWZraVZjMmFFaGtjeUViWGVhTUpJeGxVRF9pRGNBTDNsWGZkNTd2V1BUWVlKVnlxOFVDblpLdWFqTlpmMm1VX2FwbXppcFRwdlJjMlFVa0x0YTFwbmZ0UWJ6dGY1SGJBazZGVXFlV3MtbFd2U0xaOWRuZXdoWGVpSHBMOHQzZXMzbDdWN05KWXFBNXhxWUtOYTNrUWpDc2JNaHpDUmRkbHpIdy1TNlg5NDlpeVNBbUo1ckNuUVBZcGN0bU83RW1JNWFxOTE5bG0tMkloSVBwQWtiTkZwbHZ5aHY0MW9qV1UySndRUzY2R3psTEM5RENaZjR0UllMQjRuVHJBTm80?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
             }
           ]
         }

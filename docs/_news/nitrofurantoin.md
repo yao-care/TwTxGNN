@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/nitrofurantoin/
 <li><strong>原適應症</strong>: 尿路感染（膀胱炎、腎盂炎、尿道炎）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>rheumatoid arthritis (99.9%)</li>
+<li class="indication-matched">rheumatoid arthritis (99.9%)<span class="indication-tag">📰 關節炎</span></li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.8%)</li>
 <li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>
 <li>diabetic nephropathy (99.8%)</li>
@@ -42,9 +42,15 @@ permalink: /news/nitrofurantoin/
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
+
+2026-10-08 <span class="news-indication-tag">關節炎</span>
+
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
