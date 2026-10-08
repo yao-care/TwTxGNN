@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [全球八分之一癌症病例與這些感染有關大多數可預防- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
-
-2026-10-06 <span class="news-indication-tag">癌症</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
-
----
-
-### [英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子](https://news.google.com/rss/articles/CBMihwNBVV95cUxNLUlESGVIclhYTWRodVJKUVVudHhKblRFaXE0c2dORXBieFBic0NzbzhZRXU4QU5KNzlMMGlJLXpMZVpMNm9aWldhdG15UDRwaGJBR1I2ZklTMDE2X1l1bF9CNUJpblJ3a3V3Y2V6VlN0c2Zac09HYzFqT0FkVTRfdVU5aC1RV2ViUERIbTY2RVMybnk3QktCUnhHQWdhaldGRkxkYXJVdU1uY0hSQWpVMkVBNHI0d3k3TmU1VXVmNGs1UlQzdmZvUjlVRzJ5R0ZkWDAyUjcwQVJVcklLdzd3T2JvUFlWWXBzbHdXY0Q4MWNjV1RVcG5HeEN4VjYyRVdGekxNRGxZRXVydFpkZ1MxNzdESXViVFdId1B1Tl9KQzNHNUx6WmdoRlZGN2pmR05TUVdNd3NpR2wwdjBUWW92YWNBZnJVUEFYVl9hSzRMQ2hVbDZIcnFsMGlkVXNYQkdnUnBOR2FuS092MkJTczdsTWhEbVJIZ0psR1BlbXFlZHVwRTNKRXdN?oc=5)
+### [英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1rQUM5MWdCbHFUeXRHRE05M2Rkby1NVmFSOFZzMFRxcGNXUndzcTZFc3hvOU5YajNZUGc?oc=5)
 
 2026-10-06 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">高血壓</span>
 
-來源: [行銷人](https://news.google.com/rss/articles/CBMihwNBVV95cUxNLUlESGVIclhYTWRodVJKUVVudHhKblRFaXE0c2dORXBieFBic0NzbzhZRXU4QU5KNzlMMGlJLXpMZVpMNm9aWldhdG15UDRwaGJBR1I2ZklTMDE2X1l1bF9CNUJpblJ3a3V3Y2V6VlN0c2Zac09HYzFqT0FkVTRfdVU5aC1RV2ViUERIbTY2RVMybnk3QktCUnhHQWdhaldGRkxkYXJVdU1uY0hSQWpVMkVBNHI0d3k3TmU1VXVmNGs1UlQzdmZvUjlVRzJ5R0ZkWDAyUjcwQVJVcklLdzd3T2JvUFlWWXBzbHdXY0Q4MWNjV1RVcG5HeEN4VjYyRVdGekxNRGxZRXVydFpkZ1MxNzdESXViVFdId1B1Tl9KQzNHNUx6WmdoRlZGN2pmR05TUVdNd3NpR2wwdjBUWW92YWNBZnJVUEFYVl9hSzRMQ2hVbDZIcnFsMGlkVXNYQkdnUnBOR2FuS092MkJTczdsTWhEbVJIZ0psR1BlbXFlZHVwRTNKRXdN?oc=5)
+來源: [ENN台灣電報](https://news.google.com/rss/articles/CBMiOkFVX3lxTE1rQUM5MWdCbHFUeXRHRE05M2Rkby1NVmFSOFZzMFRxcGNXUndzcTZFc3hvOU5YajNZUGc?oc=5)
 
 ---
 

@@ -1,15 +1,39 @@
 {
-  "generated": "2026-10-07T20:20:02.838273+00:00",
+  "generated": "2026-10-08T00:35:53.551108+00:00",
   "count": 13,
   "news": [
     {
-      "id": "445dcb665c29",
+      "id": "f6c866bf258d",
+      "title": "他感冒「抗生素開強一點明天要上班」　醫不開遭怒退掛",
+      "published": "2026-10-07T23:19:00+00:00",
+      "sources": [
+        {
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44V1hkbVJFa2picGR3WFJ0UEplTXdvUDZHWnJ3bVQ1MEk3RlBWVmZRUGw5TEVfb3pwR3RCaWs3bXVXaFllV2x6WDhYZ1ZJdGZP0gFPQVVfeXFMTWp5eFpfWlRqT0JleF9jTVVJc0R3UF82MjZ1Nmh2czR4QlIwZnN3LWZDY2xNRWNBT094VEpXd1d0aGg1ZGlwQWdaaHkzM0RaTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a281b9e58ff",
       "title": "不同國家女性更年期症狀差異巨大",
       "published": "2026-10-07T19:00:00+00:00",
       "sources": [
         {
           "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOVktNXNPczR0TXRfUThfbHYyVllvUWNjaHVac2hJeTg2dTJwTVlaWkU4QU1ENUlrbGprZU9RNWNIY09ucG5zR3lkSGFITmpFQTVYZm5wZGlvTDAz0gFmQVVfeXFMTU45Z0lObTZWbWs0angxbVBFYU5jYmszVFpvaFpQN01fNElCbVhFWHNKU3M3bXRBSHlpTzdLQW1tYVhnV2M1MXhoRnpaeG5tV19FRVRLaFZMaXdGN2FRaTJXVjRHRm5R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONzF0bXFqRDdFMUVad09xZUJERWtlQzQ4Z1pWLXJCWGJ6eHJoMHNjRWtzdG14cmxMSERYTG9CUDgxME54TzZmTzh1Umltc3c4S0xwbHhFY25XOHc2N3VDT9IBZkFVX3lxTE1OOWdJTm02Vm1rNGp4MW1QRWFOY2JrM1Rab2haUDdNXzRJQm1YRVhzSlNzN210QUh5aU83S0FtbWFYZ1djNTF4aEZ6WnhubVdfRUVUS2hWTGl3RjdhUWkyV1Y0R0ZuUQ?oc=5"
         }
       ],
       "keywords": [
@@ -136,214 +160,6 @@
       ]
     },
     {
-      "id": "7774dd48eafd",
-      "title": "全球八分之一癌症病例與這些感染有關大多數可預防- 國際",
-      "published": "2026-10-06T07:58:00+00:00",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5dd4e241ad83",
       "title": "潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事",
       "published": "2026-10-06T06:52:21+00:00",
@@ -368,13 +184,13 @@
       ]
     },
     {
-      "id": "9137404b1185",
-      "title": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-10-06T04:16:23+00:00",
+      "id": "5b80a4e138ed",
+      "title": "孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」",
+      "published": "2026-10-06T06:10:45+00:00",
       "sources": [
         {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5"
         }
       ],
       "keywords": [
@@ -386,6 +202,56 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6697dea3cf44",
+      "title": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子",
+      "published": "2026-10-06T03:15:44+00:00",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE1rQUM5MWdCbHFUeXRHRE05M2Rkby1NVmFSOFZzMFRxcGNXUndzcTZFc3hvOU5YajNZUGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
             }
           ]
         }
@@ -434,56 +300,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e6e86e14303d",
-      "title": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子",
-      "published": "2026-10-06T00:18:13+00:00",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNLUlESGVIclhYTWRodVJKUVVudHhKblRFaXE0c2dORXBieFBic0NzbzhZRXU4QU5KNzlMMGlJLXpMZVpMNm9aWldhdG15UDRwaGJBR1I2ZklTMDE2X1l1bF9CNUJpblJ3a3V3Y2V6VlN0c2Zac09HYzFqT0FkVTRfdVU5aC1RV2ViUERIbTY2RVMybnk3QktCUnhHQWdhaldGRkxkYXJVdU1uY0hSQWpVMkVBNHI0d3k3TmU1VXVmNGs1UlQzdmZvUjlVRzJ5R0ZkWDAyUjcwQVJVcklLdzd3T2JvUFlWWXBzbHdXY0Q4MWNjV1RVcG5HeEN4VjYyRVdGekxNRGxZRXVydFpkZ1MxNzdESXViVFdId1B1Tl9KQzNHNUx6WmdoRlZGN2pmR05TUVdNd3NpR2wwdjBUWW92YWNBZnJVUEFYVl9hSzRMQ2hVbDZIcnFsMGlkVXNYQkdnUnBOR2FuS092MkJTczdsTWhEbVJIZ0psR1BlbXFlZHVwRTNKRXdN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
             }
           ]
         }
