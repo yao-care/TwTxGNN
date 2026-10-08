@@ -3,7 +3,7 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
-
-2026-10-07
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子](https://news.google.com/rss/articles/CBMizAJBVV95cUxOTzU1MWxqQ21iODZVRU1ZMnkzLWEwRXhTYlR4aVRjaUNETVhSOWx2ci1CMk5aeG5YMHJjRWJ2VVduN2dmNHhZVmNlRzhZT2JTYzFNX3BUZDE1UTQ5Q1NTY1puaGdmVUZTNVVidjhzTV9VSzdhZ3FpMHlRbG10bU5VbmM0NjZLc3JNNmF4RW8zbGRzZEtpTzN0R1dmSFFmaGV2UUtEOENrRmVQM08xcTNpOV84YW1haXpVSng0aVRYaWVVSEVUZGFrZVdGVDM4cFNrSTFlaDlRZnFOaGprR3NRTmhLdHdEYkluQkVCM2Z5b0NMbTJhamRORFRIMEZzOFJuNXhJZU5SMC16WWRlQjY4ZnlJSG1Sdk40U3VCbWZ1VE9kTmxkQlNtcGFiRW5uM25Kc0ZiWUZRalBRR3k3UXJ5UlIzTmN3M21fYkhmOA?oc=5)
 

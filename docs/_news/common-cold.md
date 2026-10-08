@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5)
 
 2026-10-06
 
 來源: [Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5)
-
----
-
-### [旅行完就狂咳 因飛機冷氣太凍？醫生揭4大症狀勿只當普通感冒](https://news.google.com/rss/articles/CBMingNBVV95cUxPcllDSExWMk5DMmd6Q2pzX09wQ2V2NTczVzFrQ1cwbEdNX3o2MkctWDloOEVwLWtmQ0NxWjRHUV9XUThLWG9NTzVVRU03OGNIQ0hiS0lyU2VfSWswRlNxUkcwV3I1dVZCSmZaUnpJSTZ0d19QX1d4WW9DSnhMbUpkcC1Jd2l6eFd3OHN6elRWYzZLRzdpUlFZQ2JmNl9pZ3JEem5jSWc3ZXp6X0FIN280Yk1DSXJ3b0FEelFSSm50Q19JS3UyVVZhZk9YSXk2NWR6bDdnTWp2NkN2bU8yZ1l6ekRIYTJ1S3R4V181SHRUQ3BCd3ZTN0dCZ0dmY040NnBrdktwY3djLXR2bmYwWmt1MkVhME5WVUhyOWVxaFgwbzgyMVVqbzZWS3hndDIxLUtoczFYaHZGelV0V0lWMTltSlpSeEtSWEI2N0wzTjVDNUZVMjJvS0lpLU4tQVNVNlJBZ01NX3dhUnBfelJwaGNNVDJocmFDSF9Cemkyc0VkeFJVTS1aRmlaUlBWUHVMOVVmX0VWZmpHQkg1c1hEVXc?oc=5)
-
-2026-10-05
-
-來源: [AM730](https://news.google.com/rss/articles/CBMingNBVV95cUxPcllDSExWMk5DMmd6Q2pzX09wQ2V2NTczVzFrQ1cwbEdNX3o2MkctWDloOEVwLWtmQ0NxWjRHUV9XUThLWG9NTzVVRU03OGNIQ0hiS0lyU2VfSWswRlNxUkcwV3I1dVZCSmZaUnpJSTZ0d19QX1d4WW9DSnhMbUpkcC1Jd2l6eFd3OHN6elRWYzZLRzdpUlFZQ2JmNl9pZ3JEem5jSWc3ZXp6X0FIN280Yk1DSXJ3b0FEelFSSm50Q19JS3UyVVZhZk9YSXk2NWR6bDdnTWp2NkN2bU8yZ1l6ekRIYTJ1S3R4V181SHRUQ3BCd3ZTN0dCZ0dmY040NnBrdktwY3djLXR2bmYwWmt1MkVhME5WVUhyOWVxaFgwbzgyMVVqbzZWS3hndDIxLUtoczFYaHZGelV0V0lWMTltSlpSeEtSWEI2N0wzTjVDNUZVMjJvS0lpLU4tQVNVNlJBZ01NX3dhUnBfelJwaGNNVDJocmFDSF9Cemkyc0VkeFJVTS1aRmlaUlBWUHVMOVVmX0VWZmpHQkg1c1hEVXc?oc=5)
 
 ---
 

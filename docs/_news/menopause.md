@@ -3,7 +3,7 @@ layout: default
 title: "更年期 (menopause) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "更年期 (menopause) 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
+description: "更年期 (menopause) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/menopause/
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) 有什麼相關新聞？">
-<strong>更年期 (menopause)</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
+<strong>更年期 (menopause)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ permalink: /news/menopause/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [不同國家女性更年期症狀差異巨大](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONzF0bXFqRDdFMUVad09xZUJERWtlQzQ4Z1pWLXJCWGJ6eHJoMHNjRWtzdG14cmxMSERYTG9CUDgxME54TzZmTzh1Umltc3c4S0xwbHhFY25XOHc2N3VDT9IBZkFVX3lxTE1OOWdJTm02Vm1rNGp4MW1QRWFOY2JrM1Rab2haUDdNXzRJQm1YRVhzSlNzN210QUh5aU83S0FtbWFYZ1djNTF4aEZ6WnhubVdfRUVUS2hWTGl3RjdhUWkyV1Y0R0ZuUQ?oc=5)
 
 2026-10-07
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONzF0bXFqRDdFMUVad09xZUJERWtlQzQ4Z1pWLXJCWGJ6eHJoMHNjRWtzdG14cmxMSERYTG9CUDgxME54TzZmTzh1Umltc3c4S0xwbHhFY25XOHc2N3VDT9IBZkFVX3lxTE1OOWdJTm02Vm1rNGp4MW1QRWFOY2JrM1Rab2haUDdNXzRJQm1YRVhzSlNzN210QUh5aU83S0FtbWFYZ1djNTF4aEZ6WnhubVdfRUVUS2hWTGl3RjdhUWkyV1Y0R0ZuUQ?oc=5)
-
----
-
-### [更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
-
-2026-10-07
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
 
 ---
 

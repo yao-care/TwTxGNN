@@ -1,15 +1,43 @@
 {
-  "generated": "2026-10-08T14:13:53.637114+00:00",
-  "count": 13,
+  "generated": "2026-10-08T20:22:37.219140+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "681d72bcc0db",
-      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - PChome Online 新聞",
-      "published": "2026-10-08T01:30:00+00:00",
+      "id": "b5c3b5a2eed9",
+      "title": "【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵",
+      "published": "2026-10-08T08:49:20+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxPd1pVMzhiZ1kzcWRIbG1QR1dtdjYwdnIwM1hBbGJ6UmJ2ajBLMHpWZVdYblFqNkhJb25fZUxnOHpiVDdXanBUajV1X2NyT2o4WDNNTU1VWVZqTmUyN2VSWlRpSkRoTkZFSU0zOUNVYUpadXhsc3M1UVVEbFBrYTI5bXI4dGZldFZxY3d1ME1GQlRRbXlUc1BLamRSWTR6S3gyRENvbnlZQk9rS1RpYWdabEU2bnFmMUpKbkFRX2RfNFNKbjh6TXRqYXQ3SmozVGt2cVR0Mlk3bW16MU1VMlNRN3hSTGM0bGQ1RkpoRThlNENqYjlBd0xBdDJvZDZJUzJ3N2FsSFpsQkZsUjR2Y1FPQWQxSVdwQWx6cExFNHJJdWh5YWg5N3I5NXJWdGF3QUk5LThHZ0xCTGJVV0xaNENRSWctVy1DUW1rbm9BT0pGbU5jZFpfbGJtWG5HbUhPcG9JeUtLaWVTaUx5WThEUG03RlpLcHhmOVM2LWtGR0dRZlZRRWFMdkhEVmQxN2NCMmR1eDlIUkdkRFEtV3NGZVpFWE9tOW4yRjl3U29tZFgwVFhmSTVhRjN2ZjlneTJ5dWptZTVrVW5yZEhSTVN1UG9Rd3BpQ0w5VjhYTXl3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a976962a125",
+      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位",
+      "published": "2026-10-08T01:43:16+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOcFJyNHNMN1pMeWFrQXczSmFobkhKd2F2dG5WZU4xdEtiV0ZQNXlyZ2pNTWg2QWJ6TmsxcWJISVhLM0dDYml6S3NVNVZBR2ZCYjBScnZhZ1luc1BNamt1ekw3QUNuT3FRYTdGTWZGMk8teHBtbVhReGgxZGxIMWRuTU1kbjF2dGp4N1ZYUGVBRVVYYU96UFZwaUFoRWhDdm9LWW9JeEJaNGlBczZZX291YkZsSzJIZlQ5bWJCcU5lcmkyVUVTTkpOcW54Z2k1eTJfUjhndTZrdmVJQ19qbWRYc2FBdEZTTHpaeFNIMWs5QVVPRl9UalBKRW1oZGRRb1luNkxyRG04TUhSbWJBRlE2cEl6dlRXcjVYOVFwakxnOVZLUDNmajF3SzItS25kbXktM2JSSUtsdk1RWXhiRTZQMW11SUJvSEI1REFaLTdRZ0xJaW9ZaEJBUm5CdWg1S096bGVod3dEMllPZExwWV95TDV3UGZjajNneFBzcXRVREdhbGF1ZzUwYUI1ZFNnMjR6b0ZSRXl1ZVlSVjdiY0tMSFlGXzlDcy1k?oc=5"
         }
       ],
       "keywords": [
@@ -97,64 +125,6 @@
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cd67f7b705a1",
-      "title": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0",
-      "published": "2026-10-07T10:10:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "menopause",
@@ -529,30 +499,6 @@
             {
               "slug": "metoprolol",
               "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8ec6a49b8977",
-      "title": "旅行完就狂咳 因飛機冷氣太凍？醫生揭4大症狀勿只當普通感冒",
-      "published": "2026-10-05T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPcllDSExWMk5DMmd6Q2pzX09wQ2V2NTczVzFrQ1cwbEdNX3o2MkctWDloOEVwLWtmQ0NxWjRHUV9XUThLWG9NTzVVRU03OGNIQ0hiS0lyU2VfSWswRlNxUkcwV3I1dVZCSmZaUnpJSTZ0d19QX1d4WW9DSnhMbUpkcC1Jd2l6eFd3OHN6elRWYzZLRzdpUlFZQ2JmNl9pZ3JEem5jSWc3ZXp6X0FIN280Yk1DSXJ3b0FEelFSSm50Q19JS3UyVVZhZk9YSXk2NWR6bDdnTWp2NkN2bU8yZ1l6ekRIYTJ1S3R4V181SHRUQ3BCd3ZTN0dCZ0dmY040NnBrdktwY3djLXR2bmYwWmt1MkVhME5WVUhyOWVxaFgwbzgyMVVqbzZWS3hndDIxLUtoczFYaHZGelV0V0lWMTltSlpSeEtSWEI2N0wzTjVDNUZVMjJvS0lpLU4tQVNVNlJBZ01NX3dhUnBfelJwaGNNVDJocmFDSF9Cemkyc0VkeFJVTS1aRmlaUlBWUHVMOVVmX0VWZmpHQkg1c1hEVXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

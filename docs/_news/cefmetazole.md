@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵](https://news.google.com/rss/articles/CBMi2wNBVV95cUxPd1pVMzhiZ1kzcWRIbG1QR1dtdjYwdnIwM1hBbGJ6UmJ2ajBLMHpWZVdYblFqNkhJb25fZUxnOHpiVDdXanBUajV1X2NyT2o4WDNNTU1VWVZqTmUyN2VSWlRpSkRoTkZFSU0zOUNVYUpadXhsc3M1UVVEbFBrYTI5bXI4dGZldFZxY3d1ME1GQlRRbXlUc1BLamRSWTR6S3gyRENvbnlZQk9rS1RpYWdabEU2bnFmMUpKbkFRX2RfNFNKbjh6TXRqYXQ3SmozVGt2cVR0Mlk3bW16MU1VMlNRN3hSTGM0bGQ1RkpoRThlNENqYjlBd0xBdDJvZDZJUzJ3N2FsSFpsQkZsUjR2Y1FPQWQxSVdwQWx6cExFNHJJdWh5YWg5N3I5NXJWdGF3QUk5LThHZ0xCTGJVV0xaNENRSWctVy1DUW1rbm9BT0pGbU5jZFpfbGJtWG5HbUhPcG9JeUtLaWVTaUx5WThEUG03RlpLcHhmOVM2LWtGR0dRZlZRRWFMdkhEVmQxN2NCMmR1eDlIUkdkRFEtV3NGZVpFWE9tOW4yRjl3U29tZFgwVFhmSTVhRjN2ZjlneTJ5dWptZTVrVW5yZEhSTVN1UG9Rd3BpQ0w5VjhYTXl3?oc=5)
+
+2026-10-08 <span class="news-indication-tag">鏈球菌</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi2wNBVV95cUxPd1pVMzhiZ1kzcWRIbG1QR1dtdjYwdnIwM1hBbGJ6UmJ2ajBLMHpWZVdYblFqNkhJb25fZUxnOHpiVDdXanBUajV1X2NyT2o4WDNNTU1VWVZqTmUyN2VSWlRpSkRoTkZFSU0zOUNVYUpadXhsc3M1UVVEbFBrYTI5bXI4dGZldFZxY3d1ME1GQlRRbXlUc1BLamRSWTR6S3gyRENvbnlZQk9rS1RpYWdabEU2bnFmMUpKbkFRX2RfNFNKbjh6TXRqYXQ3SmozVGt2cVR0Mlk3bW16MU1VMlNRN3hSTGM0bGQ1RkpoRThlNENqYjlBd0xBdDJvZDZJUzJ3N2FsSFpsQkZsUjR2Y1FPQWQxSVdwQWx6cExFNHJJdWh5YWg5N3I5NXJWdGF3QUk5LThHZ0xCTGJVV0xaNENRSWctVy1DUW1rbm9BT0pGbU5jZFpfbGJtWG5HbUhPcG9JeUtLaWVTaUx5WThEUG03RlpLcHhmOVM2LWtGR0dRZlZRRWFMdkhEVmQxN2NCMmR1eDlIUkdkRFEtV3NGZVpFWE9tOW4yRjl3U29tZFgwVFhmSTVhRjN2ZjlneTJ5dWptZTVrVW5yZEhSTVN1UG9Rd3BpQ0w5VjhYTXl3?oc=5)
+
+---
 
 ### [全球八分之一癌症病例與這些感染有關大多數可預防- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
 
