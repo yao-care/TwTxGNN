@@ -1,17 +1,132 @@
 {
-  "last_updated": "2026-10-09T06:59:42.367186+00:00",
-  "total_count": 46,
+  "last_updated": "2026-10-09T14:13:45.464038+00:00",
+  "total_count": 47,
   "matched_count": 13,
   "news": [
     {
-      "id": "914d13f4735b",
-      "title": "健康網》醫：鼻噴疫苗與傳統注射比「沒特別好」",
+      "id": "3ffb19dfdebd",
+      "title": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-10-09T12:46:08+00:00",
+      "summary": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42anhIbTY1VlZjdmxBRkFONGlwNkJGZWNWaUd3X3RSS0NIbHBHZ21YNEkyX3MxT3J6emN6WVhxdmptUkdSNEk1T2JXQlJmckJxS3Zrc19JVE5qN2t4Q0ZqNktKVHB3U3U4QUFYeG9OM1M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "01a2d3098492",
+      "title": "感官轉譯AI：從修復到增強的2026感知革命",
+      "published": "2026-10-09T10:30:04+00:00",
+      "summary": "感官轉譯AI：從修復到增強的2026感知革命&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNYzMtMDFRMHp3R3FSa3pmNDF2cDFma3dnOE90M2RydXFPZGFJS1R3a3VfVzZCTWotNHlXOFowc1plTDdEa1YwbHJ1aGIyTHRXV1pkNkJQdEpTT2QyS2dHSGY1VzJRdkdwSkhld2NURU9QQnNSd01xaktUMC1fajJKaklkczkzQjNiaUk4VXdRQmx3STVjcElJYXJHU2w4SE1qUHctdmRyd2tsT01MNmdBV0VKN0dRYkV3TDBwaGZQdjVHVGRkbjlRbXY3TDVwZ0xCTFhHNl9xZW9OYV9mcDdnS2ZWd2tMdU9QV2dXZDl5TFdNQmVTSWRwcW04a0YyM1ZRZmMzZ2JVOUF4VDhYY3FCRlU0aV9wbFZJbG10d1NhUnRWQXppWmc0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2f2d19634730",
+      "title": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康",
+      "published": "2026-10-09T08:45:00+00:00",
+      "summary": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康&nbsp;&nbsp;人民网-福建频道",
+      "sources": [
+        {
+          "name": "人民网-福建频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f2bea004b4d8",
+      "title": "多吃菜能護攝護腺？哈佛28年研究出爐「1類植物食物」沒效益- 健康",
+      "published": "2026-10-09T08:12:13+00:00",
+      "summary": "多吃菜能護攝護腺？哈佛28年研究出爐「1類植物食物」沒效益- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rY1dNZ29iQlpLSzZDVkR0QmJQZmlETndwUmZCa01Jd0VqRHh5cUR6blI0YjVUSGs3N2VNN1NjenBpc1NNVDlfdUxDRXZSRGN2TW92ZG1VRHljc2poLTcyd1VwcnBKSUpldGZELW9n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c37ac3fc38ae",
+      "title": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星 | 科技新報 - LINE TODAY",
+      "published": "2026-10-09T08:01:59+00:00",
+      "summary": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aS3NudzZzeWFIVldHNGttaktteHNfb1FCS0ZJYUR2NGFLdm03MEVnOFhRYk5NbVFUTkdUNlpRWU1PbnZKMGhPZWx6MEFLSnFJeUV0aGxR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "68ab6ce54331",
+      "title": "不只性病！性行為竟會傳染腹瀉 1族群風險最高",
+      "published": "2026-10-09T06:58:00+00:00",
+      "summary": "不只性病！性行為竟會傳染腹瀉 1族群風險最高&nbsp;&nbsp;壹蘋新聞網",
+      "sources": [
+        {
+          "name": "壹蘋新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUpjRGJTNElaS2lMdEVicU9QS0FQaE9CLXc0aVpCMG9MX3dXMzdfVThULUpBUFptejN2clhGU0lHQXhWQVhIdDVXVmZqU3lvckFDY21kZ0JlSW5sZXhVUnpxU2k0b1BMN0FBV2VGaTRSTi0waEptcnlXb0w5b09YVC1qTlVQOE9XckE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "腹瀉",
+          "keyword": "腹瀉",
+          "related_drugs": [
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7978a5f9f98",
+      "title": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童",
       "published": "2026-10-09T06:01:00+00:00",
-      "summary": "健康網》醫：鼻噴疫苗與傳統注射比「沒特別好」&nbsp;&nbsp;自由健康網",
+      "summary": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KUDQwZlVWYklUNV9OeXNGVGUwZXoyMHo2bDRrbHlfMm9QaVJBS243OUhLRlFRa1h4RDVLWGZRT3ZXV3g0QmdSbWVVck9Fa0RkeTJ6U09BWXQza2hXWjlpdkdDbDM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b04021f492be",
+      "title": "3歲童臉上冒出「菜花」 元兇竟是阿公！醫揭「1生活習慣」釀禍 - TEEPR 亮新聞",
+      "published": "2026-10-09T02:50:57+00:00",
+      "summary": "3歲童臉上冒出「菜花」 元兇竟是阿公！醫揭「1生活習慣」釀禍&nbsp;&nbsp;TEEPR 亮新聞3歲弟弟臉上長菜花？醫揭恐怖感染源頭：阿公的錯&nbsp;&nbsp;Yahoo新聞3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵&nbsp;&nbsp;UDN一家共用毛巾！3歲男童臉長「菜花」感染源竟是阿公&nbsp;&nbsp;東森新聞3歲童臉冒菜花阿公害的醫揭全家1習慣惹禍- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "TEEPR 亮新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkRReWo4aksxYnNULVdPLXRIZ1dXMkpKWGtkS21pdzJmWl9QSnd3U2lMLWdlTkN0SXQ5U1ZoLU15YkE5QkZhYktrcEY4VVFQb29nV0gwaHVpNWpzMGRWOWRyM2E1ZThqUmd0dFZrSnBmUUNtVnBwbTBUdTRHMDEtWVJ3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -79,19 +194,6 @@
         {
           "name": "PeoPo 公民新聞",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jbWVhMmpELUs5dUJsWjhydHBNUno1QUd3WjcyQ1lIVkJGekE5RXBETUZoRUtSVDNlTjQ5T1Z6dk9Fc3dLdklqZA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ec913136789d",
-      "title": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星 - TechNews 科技新報",
-      "published": "2026-10-09T00:04:58+00:00",
-      "summary": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ma2EwTzBrYWdjY0NrZTNwMHAxX2NuQlBsVHJZQlF1YU9MYnNFWkVDenI0WnJieHFSM2VoTTV2dFVFbTVyQkdmSzBlR2Y4MFFCUVVTNTlzMnY5Q3UxNzhoemVwc1FtQnFDY1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -208,27 +310,27 @@
       "matched_keywords": []
     },
     {
-      "id": "c4c4cb7ac954",
-      "title": "小孩不愛喝牛奶長不高？　醫師曝替代改吃這些：一樣可以好好長大 - 鏡週刊Mirror Media",
-      "published": "2026-10-08T05:02:00+00:00",
-      "summary": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "0259745d3e50",
+      "title": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大",
+      "published": "2026-10-08T06:46:16+00:00",
+      "summary": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00V1o4N3htQ0VoQk4xNDJKaWdYRkVJOXVGX1hYZ253b09id3BJR3lVVTRWZk5OMmNaRFpoemRESzhvdnhBRUFmYlAxSGRNeVFKZVNOVzFSd1BmVVXSAWBBVV95cUxPMGZVTG0ySmxiVDNXNldCVXBqQ2pkRXlzNE5VRDhpMGhoOV9oLVhjRkU2c0pBZ21XZ054R2tKN0hVRm5FTkFwOVlhd1JUYURCODF3eTRnZ0J2cEFYVlVhQzY?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOd1RjRVBFRnk2OUM0WDdYWHhtTTFsX0ZSdHg0RG4tYjRYcGdYekxPTVliRmZ6TUYzZjdvQi1lNXcwMm1yQ1RYbzZ6djJwc0tZa296eEVpNW9KWGNuQWZRczZFQnB1c0lQNFo0VF9KOWlMTW10WjVqZ2FKTkdhOUFIX3o2b1VmMS12azlyekNsUWVWRWN2ZUVyZzRXaTNNQ3dnSUhWcWQ0ellnTmNxVU0xblRJUTVfRWpaUmZCbU5QYnVGSHl2a0o2Wlh2WGo3VXROb3NQanhBbmd2VE5qZnJIaXR6a09OMzk0bHZIWWh5RGYyZURjRmF4MlMybG5yMUltZ19CYUNQRkhGOVdXZ1hYa3BjSXg3eW5xTWd0eUU1NTczcWhZdmk3SlZpX3BBeGJIY2tXV29rVWI5Y3RqRXNQLXZfY3VvTlFwcmFsUUNrN3N1OEFEUzQwZ1BFaWI5SHhkYmliYk5CQjZaaWdENEExUFdQQngtODIyOGNpM3gxc1BxNGJBdGktN3J0Ym5OZw?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "7a976962a125",
-      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位",
-      "published": "2026-10-08T01:43:16+00:00",
-      "summary": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位&nbsp;&nbsp;Yahoo新聞",
+      "id": "681d72bcc0db",
+      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - PChome Online 新聞",
+      "published": "2026-10-08T01:30:00+00:00",
+      "summary": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位&nbsp;&nbsp;PChome Online 新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOcFJyNHNMN1pMeWFrQXczSmFobkhKd2F2dG5WZU4xdEtiV0ZQNXlyZ2pNTWg2QWJ6TmsxcWJISVhLM0dDYml6S3NVNVZBR2ZCYjBScnZhZ1luc1BNamt1ekw3QUNuT3FRYTdGTWZGMk8teHBtbVhReGgxZGxIMWRuTU1kbjF2dGp4N1ZYUGVBRVVYYU96UFZwaUFoRWhDdm9LWW9JeEJaNGlBczZZX291YkZsSzJIZlQ5bWJCcU5lcmkyVUVTTkpOcW54Z2k1eTJfUjhndTZrdmVJQ19qbWRYc2FBdEZTTHpaeFNIMWs5QVVPRl9UalBKRW1oZGRRb1luNkxyRG04TUhSbWJBRlE2cEl6dlRXcjVYOVFwakxnOVZLUDNmajF3SzItS25kbXktM2JSSUtsdk1RWXhiRTZQMW11SUJvSEI1REFaLTdRZ0xJaW9ZaEJBUm5CdWg1S096bGVod3dEMllPZExwWV95TDV3UGZjajNneFBzcXRVREdhbGF1ZzUwYUI1ZFNnMjR6b0ZSRXl1ZVlSVjdiY0tMSFlGXzlDcy1k?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -258,68 +360,6 @@
       ]
     },
     {
-      "id": "523f12e272e8",
-      "title": "3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵",
-      "published": "2026-10-08T01:18:40+00:00",
-      "summary": "3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵&nbsp;&nbsp;UDN3歲弟弟臉上長菜花？醫揭恐怖感染源頭：阿公的錯&nbsp;&nbsp;Yahoo新聞一家共用毛巾！3歲男童臉長「菜花」感染源竟是阿公&nbsp;&nbsp;東森新聞3歲童臉冒菜花阿公害的醫揭全家1習慣惹禍- 健康&nbsp;&nbsp;中時新聞網3歲弟臉上長菜花 竟是阿公去紅燈區「全家共用毛巾傳染」&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MREkzYl9GTDhsMG14OGE5TzB3eWJndzZPNVl4WjAxdDIzTTA2RW1iUmd6OEV2cXN4dGJheUpTbmhYUmJFQUo1SDVCRHZzeU9s0gFWQVVfeXFMTlJ0V3BQQ0NrN295WjAxQmNBZVJwTVRvbEl1YS1BTHBfcU9NaWw4T0poQUd3d0Y5QzNYWnVaMy1KeEEwYm9mM0IwUzd2MURBam5DLXNTMEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4ff48438455b",
-      "title": "乳過天晴｜「樂杖行」助力乳癌治療後復健",
-      "published": "2026-10-07T23:00:00+00:00",
-      "summary": "乳過天晴｜「樂杖行」助力乳癌治療後復健&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ce8703f6bf58",
       "title": "65歲以上約1％罹帕金森，治療與照護要花多少錢？",
       "published": "2026-10-07T21:32:20+00:00",
@@ -336,7 +376,7 @@
       "id": "7783d9b42caf",
       "title": "大多區呼吸道疾病季提前 醫生籲及早防護",
       "published": "2026-10-07T19:52:00+00:00",
-      "summary": "大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒西雅圖流感提早報到急診病例暴增逾6倍 | 西雅圖／夏威夷 | 美國 | 世界新聞網&nbsp;&nbsp;世界新聞網",
+      "summary": "大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒",
       "sources": [
         {
           "name": "大紀元",
@@ -396,14 +436,14 @@
       "matched_keywords": []
     },
     {
-      "id": "2b7bcc561abe",
-      "title": "抗性澱粉成脂肪肝剋星 上海研究：每天40克4個月降57.7% - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-07T15:24:34+00:00",
-      "summary": "抗性澱粉成脂肪肝剋星 上海研究：每天40克4個月降57.7%&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "id": "9f821ce0c5cf",
+      "title": "上海研究：每日補充抗性澱粉有助改善脂肪肝",
+      "published": "2026-10-07T17:52:33+00:00",
+      "summary": "上海研究：每日補充抗性澱粉有助改善脂肪肝&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQY3dFeWlHcUVOaWo0VDhRVTRxOFVIOUkzZUN4aU1XTVJJbndCM0Q0bUF3RUgxMk15X3NBd1ZvSjhqQ084MnhDSndwbWk1UmE5TjFoQU9qWVhualRIMlZ2ZWRvdWR1LVJyNHU4My13ZWMzcHkwNE1OX2RqbFlIS0RaMlVoY2Zuek9GRXg3Z05falBFMndaZGtqd3lVUW80N1lwSTR5V0plaUEzTTNFQmlhb29QdkZzR2NqRks2ZDhTT3V5Q21PY3Q4OFBkWTFieldfUDdSaHU5a2VOTjJGazVBV1U5TktXd3BkMG93aC0yaEllRkRQN3hEdDVnX3o1TUY3V1lPdTEyNktYN1JGV1ZGYWNQTzVkb1dlZ1lTZjJPdHB3bTdqM3RyNl82c2s5enpXR1BQRS1lTFRROFRhMXR1VUFjT1NWZ19sOE16Sl9CRmJURkZ3WVdLVGdaLW9BUFZmWVFnbUw1UUbSAYoBQVVfeXFMT0tLTDQxQlBFTlEtTUk2X0NLQjRJd1NIUWt1TGtfeEhNb0Y0Q1ZkOUk0YUdGckZzeW5nbTB3SnJIajhNQTBvcEI4Uy00RldjZ1Q4cC1JZFFuR2VpaG9fbVdELTVVdENDclh1SmtMRHBjMENLamtkU3J1UEFOcnlJTnpjNkd2TzN3RThR?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnl6V1RfODNJbkJxSUZGSWxZX0E1LXp2NmRDTG10aG9obDM0aWhYT1dHOHFFZExva2RzWUxFYVVrLWN1UXpHTzQtdGo3VGhvOWk4OU9hWjVQa0x4eU0yeG1ZZXhZdkFabGh0NWtlT3hkVVlmRUc0Q3VuTEZmd2dETTlmTUpSanJScjBmV2xNRlpkZ2syWEZmM2lB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -669,19 +709,6 @@
       ]
     },
     {
-      "id": "3b2af1cbf519",
-      "title": "旅館馬桶、浴缸害人染性病？泌尿醫1句話終極解答 | 三立新聞網 - LINE TODAY",
-      "published": "2026-10-06T06:31:40+00:00",
-      "summary": "旅館馬桶、浴缸害人染性病？泌尿醫1句話終極解答 | 三立新聞網&nbsp;&nbsp;LINE TODAY坐旅館馬桶恐染性病？醫曝機率極低 揭5大染病風險：這些設施更要小心&nbsp;&nbsp;UDN外宿後下體發炎全怪旅館馬桶？名醫破解「完美替罪羊」真相 染病死角在這幾處&nbsp;&nbsp;Yahoo新聞旅館馬桶、浴缸害人染性病？泌尿醫1句話終極解答&nbsp;&nbsp;三立新聞旅館馬桶會害感染性病？泌尿醫破解迷思：該注意的是這設備&nbsp;&nbsp;ETtoday新聞雲",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvZTVzRnFtZkhoX1kxUmNUZ2RycnpjbXBUc00zSFFRMTlmN1ByT2hyN3AwRGU1UjZrM2hhcjlyMmh3UnI2cnVxa2FDNmNlckEzUEJiYWV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e3f12fc6d888",
       "title": "戒糖失敗｜極端戒糖5大壞處 或導致疲累、易暈更影響腦部運作 識揀好糖才是重點",
       "published": "2026-10-06T05:30:00+00:00",
@@ -911,14 +938,14 @@
       "matched_keywords": []
     },
     {
-      "id": "9085cd0ead85",
+      "id": "e90cf7b129b5",
       "title": "50歲後缺維生素B12不只怕貧血 研究：與骨折風險高33%有關",
       "published": "2026-10-05T02:50:26+00:00",
       "summary": "50歲後缺維生素B12不只怕貧血 研究：與骨折風險高33%有關&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFJtdVE3NkNZelBGTkFMMkNQN3BlXzBBMFA3OXVlT3NEQ0ZjVjM1YXVkdW5sOTBONnZrNmJCTHo1Yk96UXM1Y0FkNTNjMDh3Qy16WlFfOTZoTmFPS24waWQyaUQtbjYxR1o3bm03NWhiSXo5eGRQU1ZVTUhXRUd3QWVR0gFiQVVfeXFMTlRUNEJ3RGFUTkhfNTZWRlcxVk1QdlVnSS02T1ZtWi14UUFWbGRlNDZkR1k2N1JEc3Vuejl6THpQSVE4SHQwdWJNbUpwSl9HbHRyS3RlVGZtZzJodmdYaV9SVFE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43MUJiR2lHWGRLV2FNVTZXaDA3V1V2NlNHZXc3dUhkeFhsTHhEUTBSNmVTbl9FVEdnWlY1cllac1ZEQ3NEaFNIYy12WnRXdEtkLTNvY0stQTJSOHFW0gFiQVVfeXFMTlRUNEJ3RGFUTkhfNTZWRlcxVk1QdlVnSS02T1ZtWi14UUFWbGRlNDZkR1k2N1JEc3Vuejl6THpQSVE4SHQwdWJNbUpwSl9HbHRyS3RlVGZtZzJodmdYaV9SVFE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -953,7 +980,7 @@
       "id": "71b1c10cbdac",
       "title": "佛州登革熱疫情感染升至252例 1人死亡",
       "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元據報道，佛羅裡達州爆發的登革熱疫情是美國數十年來規模最大的一次。&nbsp;&nbsp;MTGamer佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元據報道，佛羅裡達州爆發的登革熱疫情是美國數十年來規模最大的一次。&nbsp;&nbsp;MTGamer佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
       "sources": [
         {
           "name": "大紀元",
@@ -995,7 +1022,7 @@
       "id": "f3e0b4d8d2b1",
       "title": "三藩市出現首例成年人流感死亡",
       "published": "2026-10-03T13:00:50+00:00",
-      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;Singtaousa流感不可輕忽 舊金山現本季首例死亡&nbsp;&nbsp;世界新聞網",
+      "summary": "三藩市出現首例成年人流感死亡&nbsp;&nbsp;Singtaousa前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Singtaousa",
@@ -1039,44 +1066,6 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDeWFpQmdpWGxjUmtYN0lPQ3pJdW16RE0zZUY4UmtTYlhESWMzblRhWFRITnNsUm91MjVKNnIxT1NqQmQtNGkxSnNrRnFpZ1FKXy1KZ1Nn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4150dd607cce",
-      "title": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍",
-      "published": "2026-10-02T08:32:00+00:00",
-      "summary": "健康網》不是皮蛇上身竟是燒燙傷 醫揪兒孝親「做這事」釀禍&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mWFBXVXNuSl9xX2oxdUVrVkNUanQ1UVA0bV96aVhBdGs5WTVrT21tOTVYd2R0TjBZNDg5SkpLcUFFRV9zVzg4bGpYd3pBcE1NY3UxQXBPQTJLWmNLVi1QMTF3YjI?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "皮蛇",
-          "related_drugs": [
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "07fd3764a778",
-      "title": "大腸桿菌餓到快死時會出現類似「性」的 DNA 交換？ISTA 實驗室：頻率是自發突變的 100 倍以上",
-      "published": "2026-10-02T06:59:53+00:00",
-      "summary": "大腸桿菌餓到快死時會出現類似「性」的 DNA 交換？ISTA 實驗室：頻率是自發突變的 100 倍以上&nbsp;&nbsp;明日科學",
-      "sources": [
-        {
-          "name": "明日科學",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjdS1jNDNiemFGa2pmUVpuVGNaOUExT0pQUUQ4c19QVFdXb3oyUDMxMlFsVjhZcW9Qa1pJRk9mVGpDS2NCOXNvMGVJY1p2TXBtaVc2MjF3YXhnVzlaaGNN?oc=5"
         }
       ],
       "matched_keywords": []

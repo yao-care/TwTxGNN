@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [不只性病！性行為竟會傳染腹瀉 1族群風險最高](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUpjRGJTNElaS2lMdEVicU9QS0FQaE9CLXc0aVpCMG9MX3dXMzdfVThULUpBUFptejN2clhGU0lHQXhWQVhIdDVXVmZqU3lvckFDY21kZ0JlSW5sZXhVUnpxU2k0b1BMN0FBV2VGaTRSTi0waEptcnlXb0w5b09YVC1qTlVQOE9XckE?oc=5)
+
+2026-10-09 <span class="news-indication-tag">腹瀉</span>
+
+來源: [壹蘋新聞網](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUpjRGJTNElaS2lMdEVicU9QS0FQaE9CLXc0aVpCMG9MX3dXMzdfVThULUpBUFptejN2clhGU0lHQXhWQVhIdDVXVmZqU3lvckFDY21kZ0JlSW5sZXhVUnpxU2k0b1BMN0FBV2VGaTRSTi0waEptcnlXb0w5b09YVC1qTlVQOE9XckE?oc=5)
+
+---
 
 ### [全球八分之一癌症病例與這些感染有關大多數可預防- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
 
