@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [感冒快好「反而最毒」？耳鼻喉醫揭真相 傳染高峰期曝](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOZnBFMWFOV2FjSlJYb296M21nanF3VGJBelhqQUxjd1h3dGxtU0ptd29zdkN1OUVfeThvenI4LU04QjFtbmNkMnNlejRkMDZ0RmI2YkM4R2kyZGhqMnVwYjNJZGJPM29hRml1NThGMmowUE5hMVNUTnR5ZkJQaXE2RHE4LUVKZk1rVDNMdDB6MVQyenZJMjRPZTRIRnB0MUtZaWdkYm1FQVZ6Zl9UQ1A2TkN6NHNoMkhKeXBFM2VRSVpfQlk5MjlmU3FPUzNnWW9wWEtLZnNyaTRQbmVRV0c1Y1VKNkRvdm1vTGNYY05LUUNwLVBPVDBkQVJ2ajViRXptT1Q4ZzI3amhqQUtwNzYtRjM1R0kzVmd4dUx4ZkFWQ1RCVTB5VXNrTDFGS3BoZWx0bW56Nkc1VVBGMS12bVlvcUEtU0FFaTItbG1obk53LURFNm8?oc=5)
-
-2026-10-09 <span class="news-indication-tag">感冒</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi0wJBVV95cUxOZnBFMWFOV2FjSlJYb296M21nanF3VGJBelhqQUxjd1h3dGxtU0ptd29zdkN1OUVfeThvenI4LU04QjFtbmNkMnNlejRkMDZ0RmI2YkM4R2kyZGhqMnVwYjNJZGJPM29hRml1NThGMmowUE5hMVNUTnR5ZkJQaXE2RHE4LUVKZk1rVDNMdDB6MVQyenZJMjRPZTRIRnB0MUtZaWdkYm1FQVZ6Zl9UQ1A2TkN6NHNoMkhKeXBFM2VRSVpfQlk5MjlmU3FPUzNnWW9wWEtLZnNyaTRQbmVRV0c1Y1VKNkRvdm1vTGNYY05LUUNwLVBPVDBkQVJ2ajViRXptT1Q4ZzI3amhqQUtwNzYtRjM1R0kzVmd4dUx4ZkFWQ1RCVTB5VXNrTDFGS3BoZWx0bW56Nkc1VVBGMS12bVlvcUEtU0FFaTItbG1obk53LURFNm8?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5)
 
