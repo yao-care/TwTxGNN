@@ -1,8 +1,88 @@
 {
-  "last_updated": "2026-10-09T00:51:16.357266+00:00",
-  "total_count": 44,
+  "last_updated": "2026-10-09T06:59:42.367186+00:00",
+  "total_count": 46,
   "matched_count": 13,
   "news": [
+    {
+      "id": "914d13f4735b",
+      "title": "健康網》醫：鼻噴疫苗與傳統注射比「沒特別好」",
+      "published": "2026-10-09T06:01:00+00:00",
+      "summary": "健康網》醫：鼻噴疫苗與傳統注射比「沒特別好」&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KUDQwZlVWYklUNV9OeXNGVGUwZXoyMHo2bDRrbHlfMm9QaVJBS243OUhLRlFRa1h4RDVLWGZRT3ZXV3g0QmdSbWVVck9Fa0RkeTJ6U09BWXQza2hXWjlpdkdDbDM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0f9e0e0d37fb",
+      "title": "偏頭痛吃阿斯匹靈防中風？醫：恐引胃出血 做對4件事才安全 - TVBS 健康2.0",
+      "published": "2026-10-09T02:00:00+00:00",
+      "summary": "偏頭痛吃阿斯匹靈防中風？醫：恐引胃出血 做對4件事才安全&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbVZKeTJON2dpSFZ0R2tGd01kWVdtVC1tN2syUHVlSWNoN0R2U1QzSzZ2UHJDdG9VMjIxcHBUa1dSaFVwZ3lYYmRqTlktMDBMeTdz?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "536100a8c98b",
+      "title": "感冒快好「反而最毒」？耳鼻喉醫揭真相 傳染高峰期曝",
+      "published": "2026-10-09T01:42:25+00:00",
+      "summary": "感冒快好「反而最毒」？耳鼻喉醫揭真相 傳染高峰期曝&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOZnBFMWFOV2FjSlJYb296M21nanF3VGJBelhqQUxjd1h3dGxtU0ptd29zdkN1OUVfeThvenI4LU04QjFtbmNkMnNlejRkMDZ0RmI2YkM4R2kyZGhqMnVwYjNJZGJPM29hRml1NThGMmowUE5hMVNUTnR5ZkJQaXE2RHE4LUVKZk1rVDNMdDB6MVQyenZJMjRPZTRIRnB0MUtZaWdkYm1FQVZ6Zl9UQ1A2TkN6NHNoMkhKeXBFM2VRSVpfQlk5MjlmU3FPUzNnWW9wWEtLZnNyaTRQbmVRV0c1Y1VKNkRvdm1vTGNYY05LUUNwLVBPVDBkQVJ2ajViRXptT1Q4ZzI3amhqQUtwNzYtRjM1R0kzVmd4dUx4ZkFWQ1RCVTB5VXNrTDFGS3BoZWx0bW56Nkc1VVBGMS12bVlvcUEtU0FFaTItbG1obk53LURFNm8?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85a6319ec588",
+      "title": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！ - PeoPo 公民新聞",
+      "published": "2026-10-09T01:00:00+00:00",
+      "summary": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！&nbsp;&nbsp;PeoPo 公民新聞",
+      "sources": [
+        {
+          "name": "PeoPo 公民新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jbWVhMmpELUs5dUJsWjhydHBNUno1QUd3WjcyQ1lIVkJGekE5RXBETUZoRUtSVDNlTjQ5T1Z6dk9Fc3dLdklqZA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ec913136789d",
       "title": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星 - TechNews 科技新報",
@@ -115,215 +195,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b571de3902dd",
-      "title": "台灣女孩日 兩性同行織起健康防護網 翻轉衛教思維 HPV 與癌症防治不分「妳我」",
-      "published": "2026-10-08T08:11:00+00:00",
-      "summary": "台灣女孩日 兩性同行織起健康防護網 翻轉衛教思維 HPV 與癌症防治不分「妳我」&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fV2tfWWRGbDQ5RG14RnJvWWRGRlV5NjNqWTR0eFhEUmZ1UEJ4RkExSXlUOVYtVEtab2lWYTdERk5Pck9qeWtsN0dPVFNxQ1ppOGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "572f0a0d0694",
       "title": "網傳「美國屍檢發現新冠疫苗致死率74%」是具誤導性的錯誤訊息",
       "published": "2026-10-08T07:09:09+00:00",
@@ -337,27 +208,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0259745d3e50",
-      "title": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大",
-      "published": "2026-10-08T06:46:16+00:00",
-      "summary": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大&nbsp;&nbsp;Yahoo新聞",
+      "id": "c4c4cb7ac954",
+      "title": "小孩不愛喝牛奶長不高？　醫師曝替代改吃這些：一樣可以好好長大 - 鏡週刊Mirror Media",
+      "published": "2026-10-08T05:02:00+00:00",
+      "summary": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOd1RjRVBFRnk2OUM0WDdYWHhtTTFsX0ZSdHg0RG4tYjRYcGdYekxPTVliRmZ6TUYzZjdvQi1lNXcwMm1yQ1RYbzZ6djJwc0tZa296eEVpNW9KWGNuQWZRczZFQnB1c0lQNFo0VF9KOWlMTW10WjVqZ2FKTkdhOUFIX3o2b1VmMS12azlyekNsUWVWRWN2ZUVyZzRXaTNNQ3dnSUhWcWQ0ellnTmNxVU0xblRJUTVfRWpaUmZCbU5QYnVGSHl2a0o2Wlh2WGo3VXROb3NQanhBbmd2VE5qZnJIaXR6a09OMzk0bHZIWWh5RGYyZURjRmF4MlMybG5yMUltZ19CYUNQRkhGOVdXZ1hYa3BjSXg3eW5xTWd0eUU1NTczcWhZdmk3SlZpX3BBeGJIY2tXV29rVWI5Y3RqRXNQLXZfY3VvTlFwcmFsUUNrN3N1OEFEUzQwZ1BFaWI5SHhkYmliYk5CQjZaaWdENEExUFdQQngtODIyOGNpM3gxc1BxNGJBdGktN3J0Ym5OZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0970edde9c9e",
-      "title": "流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」",
-      "published": "2026-10-08T02:06:00+00:00",
-      "summary": "流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;優活健康網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OakFnMWhLd016QXlPYnpvVi01WWI5WGRRanhKVFV3QmhoY3M5ZkZQLXh3OVBCcjhveGFBRXYya3lhcy11TWc0bjNaNkY5NVBUOUZ3?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00V1o4N3htQ0VoQk4xNDJKaWdYRkVJOXVGX1hYZ253b09id3BJR3lVVTRWZk5OMmNaRFpoemRESzhvdnhBRUFmYlAxSGRNeVFKZVNOVzFSd1BmVVXSAWBBVV95cUxPMGZVTG0ySmxiVDNXNldCVXBqQ2pkRXlzNE5VRDhpMGhoOV9oLVhjRkU2c0pBZ21XZ054R2tKN0hVRm5FTkFwOVlhd1JUYURCODF3eTRnZ0J2cEFYVlVhQzY?oc=5"
         }
       ],
       "matched_keywords": []
@@ -400,29 +258,17 @@
       ]
     },
     {
-      "id": "f6c866bf258d",
-      "title": "他感冒「抗生素開強一點明天要上班」　醫不開遭怒退掛",
-      "published": "2026-10-07T23:19:00+00:00",
-      "summary": "他感冒「抗生素開強一點明天要上班」 醫不開遭怒退掛&nbsp;&nbsp;ETtoday健康雲",
+      "id": "523f12e272e8",
+      "title": "3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵",
+      "published": "2026-10-08T01:18:40+00:00",
+      "summary": "3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵&nbsp;&nbsp;UDN3歲弟弟臉上長菜花？醫揭恐怖感染源頭：阿公的錯&nbsp;&nbsp;Yahoo新聞一家共用毛巾！3歲男童臉長「菜花」感染源竟是阿公&nbsp;&nbsp;東森新聞3歲童臉冒菜花阿公害的醫揭全家1習慣惹禍- 健康&nbsp;&nbsp;中時新聞網3歲弟臉上長菜花 竟是阿公去紅燈區「全家共用毛巾傳染」&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44V1hkbVJFa2picGR3WFJ0UEplTXdvUDZHWnJ3bVQ1MEk3RlBWVmZRUGw5TEVfb3pwR3RCaWs3bXVXaFllV2x6WDhYZ1ZJdGZP0gFPQVVfeXFMTWp5eFpfWlRqT0JleF9jTVVJc0R3UF82MjZ1Nmh2czR4QlIwZnN3LWZDY2xNRWNBT094VEpXd1d0aGg1ZGlwQWdaaHkzM0RaTQ?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MREkzYl9GTDhsMG14OGE5TzB3eWJndzZPNVl4WjAxdDIzTTA2RW1iUmd6OEV2cXN4dGJheUpTbmhYUmJFQUo1SDVCRHZzeU9s0gFWQVVfeXFMTlJ0V3BQQ0NrN295WjAxQmNBZVJwTVRvbEl1YS1BTHBfcU9NaWw4T0poQUd3d0Y5QzNYWnVaMy1KeEEwYm9mM0IwUzd2MURBam5DLXNTMEE?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "4ff48438455b",
@@ -558,19 +404,6 @@
         {
           "name": "Sing Tao Daily 星島日報加拿大",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQY3dFeWlHcUVOaWo0VDhRVTRxOFVIOUkzZUN4aU1XTVJJbndCM0Q0bUF3RUgxMk15X3NBd1ZvSjhqQ084MnhDSndwbWk1UmE5TjFoQU9qWVhualRIMlZ2ZWRvdWR1LVJyNHU4My13ZWMzcHkwNE1OX2RqbFlIS0RaMlVoY2Zuek9GRXg3Z05falBFMndaZGtqd3lVUW80N1lwSTR5V0plaUEzTTNFQmlhb29QdkZzR2NqRks2ZDhTT3V5Q21PY3Q4OFBkWTFieldfUDdSaHU5a2VOTjJGazVBV1U5TktXd3BkMG93aC0yaEllRkRQN3hEdDVnX3o1TUY3V1lPdTEyNktYN1JGV1ZGYWNQTzVkb1dlZ1lTZjJPdHB3bTdqM3RyNl82c2s5enpXR1BQRS1lTFRROFRhMXR1VUFjT1NWZ19sOE16Sl9CRmJURkZ3WVdLVGdaLW9BUFZmWVFnbUw1UUbSAYoBQVVfeXFMT0tLTDQxQlBFTlEtTUk2X0NLQjRJd1NIUWt1TGtfeEhNb0Y0Q1ZkOUk0YUdGckZzeW5nbTB3SnJIajhNQTBvcEI4Uy00RldjZ1Q4cC1JZFFuR2VpaG9fbVdELTVVdENDclh1SmtMRHBjMENLamtkU3J1UEFOcnlJTnpjNkd2TzN3RThR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "238722659493",
-      "title": "孩子有哮喘 家長要知如何支援抗病以保發育",
-      "published": "2026-10-07T08:31:14+00:00",
-      "summary": "孩子有哮喘 家長要知如何支援抗病以保發育&nbsp;&nbsp;shemom.com",
-      "sources": [
-        {
-          "name": "shemom.com",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPOGZRaEp2Z0FvZ1hTd3RGYzN3eDFXTEJOVjAwYzRGOFJrZjVIejRVNVJteHF4Nm9YS2lpSTV6VWlXUW5qV0lFd2U2SmVGV1QyeWhjUGhkdG1mTUp0blctMndhOHM1ck9YU09aNFhUODB1UEhVaEpqZGdvWThkQldsQmViZTMwTjNOQzg5aUw5MTZ3RWpqRFo1NTlRQTl1dnlJRmhnMVZsbkxjVDFBNDkwWmhHTy1URWNiRVVWWE5FMVd1b0NZQi1HSmFZUXJjNHlDOHprdkpZV1dMRWdWZk1JSV82bnRLTGxMMjNyWFRjckZCLUpRaFJ4YVlGVWk0OTg4emE0OEp3Qm5jeFBJWko3dGpOX3JsdFN3TmluUHJjN3FEYThqT09VeEJJX2lmd3c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1086,6 +919,19 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFJtdVE3NkNZelBGTkFMMkNQN3BlXzBBMFA3OXVlT3NEQ0ZjVjM1YXVkdW5sOTBONnZrNmJCTHo1Yk96UXM1Y0FkNTNjMDh3Qy16WlFfOTZoTmFPS24waWQyaUQtbjYxR1o3bm03NWhiSXo5eGRQU1ZVTUhXRUd3QWVR0gFiQVVfeXFMTlRUNEJ3RGFUTkhfNTZWRlcxVk1QdlVnSS02T1ZtWi14UUFWbGRlNDZkR1k2N1JEc3Vuejl6THpQSVE4SHQwdWJNbUpwSl9HbHRyS3RlVGZtZzJodmdYaV9SVFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "348d04eda613",
+      "title": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略",
+      "published": "2026-10-04T08:11:00+00:00",
+      "summary": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞孩子人生第一針決定一輩子的免疫記憶？兒童感染科權威解密流感疫苗如何達到精準防護！&nbsp;&nbsp;天下雜誌流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;PChome Online 新聞園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
         }
       ],
       "matched_keywords": []

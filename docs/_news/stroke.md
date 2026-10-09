@@ -3,7 +3,7 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [偏頭痛吃阿斯匹靈防中風？醫：恐引胃出血 做對4件事才安全 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbVZKeTJON2dpSFZ0R2tGd01kWVdtVC1tN2syUHVlSWNoN0R2U1QzSzZ2UHJDdG9VMjIxcHBUa1dSaFVwZ3lYYmRqTlktMDBMeTdz?oc=5)
+
+2026-10-09
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbVZKeTJON2dpSFZ0R2tGd01kWVdtVC1tN2syUHVlSWNoN0R2U1QzSzZ2UHJDdG9VMjIxcHBUa1dSaFVwZ3lYYmRqTlktMDBMeTdz?oc=5)
+
+---
 
 ### [長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5)
 
