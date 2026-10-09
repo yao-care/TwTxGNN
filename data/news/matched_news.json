@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-09T19:55:15.133855+00:00",
-  "total_count": 45,
-  "matched_count": 14,
+  "last_updated": "2026-10-09T23:43:22.231699+00:00",
+  "total_count": 44,
+  "matched_count": 13,
   "news": [
     {
       "id": "b83633084e50",
@@ -272,215 +272,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b571de3902dd",
-      "title": "台灣女孩日 兩性同行織起健康防護網 翻轉衛教思維 HPV 與癌症防治不分「妳我」",
-      "published": "2026-10-08T08:11:00+00:00",
-      "summary": "台灣女孩日 兩性同行織起健康防護網 翻轉衛教思維 HPV 與癌症防治不分「妳我」&nbsp;&nbsp;蕃新聞沒長菜花不代表沒事！HPV潛伏期長達25年，婦產科醫：驗出陽性「先別懷疑另一半」 | 美醫誌| 風生活&nbsp;&nbsp;Storm.mg單一性伴侶也中標！半年64%驗出HPV 男性陷抗體劣勢&nbsp;&nbsp;知新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fV2tfWWRGbDQ5RG14RnJvWWRGRlV5NjNqWTR0eFhEUmZ1UEJ4RkExSXlUOVYtVEtab2lWYTdERk5Pck9qeWtsN0dPVFNxQ1ppOGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "572f0a0d0694",
       "title": "網傳「美國屍檢發現新冠疫苗致死率74%」是具誤導性的錯誤訊息",
       "published": "2026-10-08T07:09:09+00:00",
@@ -669,14 +460,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b49a1098dd42",
+      "id": "ad0d8647defb",
       "title": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾",
       "published": "2026-10-07T03:21:55+00:00",
-      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET風癩不只是痕 患者自殺風險高3倍 調查:逾六成半患者因痕癢而失眠&nbsp;&nbsp;香港01醫療檔案｜逾九成患者誤解風癩成因 錯誤認知成治療絆腳石&nbsp;&nbsp;Eastweek過半受訪者蕁麻疹達慢性 逾6成人陷焦慮壓力增&nbsp;&nbsp;on.cc東網調查揭逾半蕁麻疹患者病情已達慢性 痕癢折騰身心 專家籲勿獨自忍耐&nbsp;&nbsp;晴報 Sky Post",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPLVYxaWZWeEg4VTMyYmRUX0FENXBZOVFJSU9MVHhMNHN6MzNzNGRRLWRpUkJRRnhfcTdUTGlXOUQzOTJUNmxOajBLc0JucjE4dko1NFYzMHg0endnSlMtTFpJdTdKRUtZNU9hSk5NTENHT1RMUkp2X0Rib3hLQnVfZURpMXNEak5YMS1QQXRfUHU0REduSW1tRGlELU9mNWhtb3RiRGxMbnpFQjdxOUdGM0w3ekl3TjNKcWZrUV9XSUpMXzg2bVVBWnIwZE5aVlgwWkpaU0dJa0Uzdkw2Q3ZPSzlmX2tLbE1zTDh6SGI5OW54bEtkLVQtRzZnNU1jQzhJeXJJLTJ1bUp4bHh2OEoyOWwwT1YyRmJGTnBUVEVzRVA4STZCazhCTWRjSjJQRlVYT0NwTnFZaHhuam1HTDB3TEx6N2tfY2JqNWRkZXEtYVNvVUZIYzNJ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OazdPcWVKZTFxMWJ3azE1V2pjTlduai1rS1hTd3ZkNXo3ZlBYbVdiamk1NU5ORS1pZ21KcHRKa1VNblFYYWM3UnVFTnFMX2hYa1E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1174,7 +965,7 @@
       "id": "71b1c10cbdac",
       "title": "佛州登革熱疫情感染升至252例 1人死亡",
       "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元據報道，佛羅裡達州爆發的登革熱疫情是美國數十年來規模最大的一次。&nbsp;&nbsp;MTGamer佛羅里達州登革熱疫情數十年最嚴重 超250 宗本地感染個案&nbsp;&nbsp;巴士的報美國佛州登革熱疫情感染升至252宗 1人死亡&nbsp;&nbsp;大紀元時報香港",
+      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元據報道，佛羅裡達州爆發的登革熱疫情是美國數十年來規模最大的一次。&nbsp;&nbsp;MTGamer",
       "sources": [
         {
           "name": "大紀元",
