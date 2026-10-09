@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
+
+2026-10-08 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
+
+---
 
 ### [不同國家女性更年期症狀差異巨大](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONzF0bXFqRDdFMUVad09xZUJERWtlQzQ4Z1pWLXJCWGJ6eHJoMHNjRWtzdG14cmxMSERYTG9CUDgxME54TzZmTzh1Umltc3c4S0xwbHhFY25XOHc2N3VDT9IBZkFVX3lxTE1OOWdJTm02Vm1rNGp4MW1QRWFOY2JrM1Rab2haUDdNXzRJQm1YRVhzSlNzN210QUh5aU83S0FtbWFYZ1djNTF4aEZ6WnhubVdfRUVUS2hWTGl3RjdhUWkyV1Y0R0ZuUQ?oc=5)
 

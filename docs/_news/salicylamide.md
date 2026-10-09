@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [他感冒「抗生素開強一點明天要上班」　醫不開遭怒退掛](https://news.google.com/rss/articles/CBMiUEFVX3lxTE44V1hkbVJFa2picGR3WFJ0UEplTXdvUDZHWnJ3bVQ1MEk3RlBWVmZRUGw5TEVfb3pwR3RCaWs3bXVXaFllV2x6WDhYZ1ZJdGZP0gFPQVVfeXFMTWp5eFpfWlRqT0JleF9jTVVJc0R3UF82MjZ1Nmh2czR4QlIwZnN3LWZDY2xNRWNBT094VEpXd1d0aGg1ZGlwQWdaaHkzM0RaTQ?oc=5)
+
+2026-10-07 <span class="news-indication-tag">感冒</span>
+
+來源: [ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE44V1hkbVJFa2picGR3WFJ0UEplTXdvUDZHWnJ3bVQ1MEk3RlBWVmZRUGw5TEVfb3pwR3RCaWs3bXVXaFllV2x6WDhYZ1ZJdGZP0gFPQVVfeXFMTWp5eFpfWlRqT0JleF9jTVVJc0R3UF82MjZ1Nmh2czR4QlIwZnN3LWZDY2xNRWNBT094VEpXd1d0aGg1ZGlwQWdaaHkzM0RaTQ?oc=5)
+
+---
 
 ### [孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5)
 

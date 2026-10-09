@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
+
+2026-10-08 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
+
+---
 
 ### [英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子](https://news.google.com/rss/articles/CBMizAJBVV95cUxOTzU1MWxqQ21iODZVRU1ZMnkzLWEwRXhTYlR4aVRjaUNETVhSOWx2ci1CMk5aeG5YMHJjRWJ2VVduN2dmNHhZVmNlRzhZT2JTYzFNX3BUZDE1UTQ5Q1NTY1puaGdmVUZTNVVidjhzTV9VSzdhZ3FpMHlRbG10bU5VbmM0NjZLc3JNNmF4RW8zbGRzZEtpTzN0R1dmSFFmaGV2UUtEOENrRmVQM08xcTNpOV84YW1haXpVSng0aVRYaWVVSEVUZGFrZVdGVDM4cFNrSTFlaDlRZnFOaGprR3NRTmhLdHdEYkluQkVCM2Z5b0NMbTJhamRORFRIMEZzOFJuNXhJZU5SMC16WWRlQjY4ZnlJSG1Sdk40U3VCbWZ1VE9kTmxkQlNtcGFiRW5uM25Kc0ZiWUZRalBRR3k3UXJ5UlIzTmN3M21fYkhmOA?oc=5)
 

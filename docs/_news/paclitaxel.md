@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
+
+2026-10-08 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
+
+---
+
+### [台灣女孩日 兩性同行織起健康防護網 翻轉衛教思維 HPV 與癌症防治不分「妳我」](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fV2tfWWRGbDQ5RG14RnJvWWRGRlV5NjNqWTR0eFhEUmZ1UEJ4RkExSXlUOVYtVEtab2lWYTdERk5Pck9qeWtsN0dPVFNxQ1ppOGc?oc=5)
+
+2026-10-08 <span class="news-indication-tag">癌症</span>
+
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fV2tfWWRGbDQ5RG14RnJvWWRGRlV5NjNqWTR0eFhEUmZ1UEJ4RkExSXlUOVYtVEtab2lWYTdERk5Pck9qeWtsN0dPVFNxQ1ppOGc?oc=5)
+
+---
 
 ### [乳過天晴｜「樂杖行」助力乳癌治療後復健](https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5)
 
@@ -73,14 +89,6 @@ permalink: /news/paclitaxel/
 2026-10-06 <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxQLVdTWjJBYm1CMHFzZ2tkWW9jeWczdVRLUTdwSmJxTzNuTFRtU0hLb21fbFhURzJ6REMyTG5TbTA1Q3pCOUhFT1hkWFRFMnpXYW56S1RaZy1BNUo2c3lPMVF5RFc0czFCMFNncDVoTkxaQ0lQMzR5VkF0dTdqVkhqUlh6UnVYa2M3c2JYQUdHMVdlTjBrb0lmMHNoS1NRTTNEdHpoOU85YlRfQTJ0elFtR3Q2TmxRb1JXVUsyVExZTUpkOGVhQWNwMUVQX2R3NmZMLS1PYzJpQnZDYllkUUxpanVzdlQ4SGk0amYyc210dk9MdTR1RGU2eFp1UEdrUTJVV2NJZnNoRy1oazcwTldBSFpxR2xyVmZrYnRKRm1rX19sdlR3aV82ODRCNjVxeS1KMUd2Y0dySWUwU2xQSGpqcE9KZEw2b0FVTUE?oc=5)
-
----
-
-### [乳癌｜32歲女每晚淺酌紅酒易臉紅 求醫揭患乳癌 醫生教6招降低風險患乳癌](https://news.google.com/rss/articles/CBMi0gNBVV95cUxNWEpZaXhXSFRtM0pISHRRaW55cDFRWGY2OFBwZHJMOTlxRllNWWtYSTdoNzRhcUt1LUhWempxRkt0b3Jza1Q5TEppUTlfUEdTWV9nX0owUG93VXBVMGhtZm42RE9uUjBXMTVBMVExUkFDd3E5MUZWeFREdDN5SXZWT1VJRk1ack9fajN4RWFuSjZMYnF5SC1lSlU5RXZUazEwMDI3aXFVMnJsYnJWd0ZocXBSVXN5bHRzckY2WmZQUFRjaFdJMVV2QUpFVXNKX3BUTEhZMlh0S2lscE00TVN3NWYxQzRFV2lzMXE2dURJSnFnT2NaOEtOWkJyZ1dkSWNOOE9uZm55OTdGbUNZbW5zMHQ5R1VSSG1vY3F6VWRKUEpIcTBHZHZPX1lFU3UyalFwRjRYWDlZNzFFclZQaHJqakgyX0xWSlc4T05XWFlJY3ZXbFMyUThqemNXclBQUE9acERnOVhXNXZadm9kQmt5MjdlZEZfRWFrOGxKazZyc19nNWVObWFWbEd5VkVEOGtieFZUVjcwcVJhT09zRFJrWkpUOG5wLW9na3FOLWxwb0pQTmcyMGtQa0x4RF9oazY1RWE5UWhac0NrZUVYRUd0dzJ3?oc=5)
-
-2026-10-03 <span class="news-indication-tag">乳癌</span>
-
-來源: [AM730](https://news.google.com/rss/articles/CBMi0gNBVV95cUxNWEpZaXhXSFRtM0pISHRRaW55cDFRWGY2OFBwZHJMOTlxRllNWWtYSTdoNzRhcUt1LUhWempxRkt0b3Jza1Q5TEppUTlfUEdTWV9nX0owUG93VXBVMGhtZm42RE9uUjBXMTVBMVExUkFDd3E5MUZWeFREdDN5SXZWT1VJRk1ack9fajN4RWFuSjZMYnF5SC1lSlU5RXZUazEwMDI3aXFVMnJsYnJWd0ZocXBSVXN5bHRzckY2WmZQUFRjaFdJMVV2QUpFVXNKX3BUTEhZMlh0S2lscE00TVN3NWYxQzRFV2lzMXE2dURJSnFnT2NaOEtOWkJyZ1dkSWNOOE9uZm55OTdGbUNZbW5zMHQ5R1VSSG1vY3F6VWRKUEpIcTBHZHZPX1lFU3UyalFwRjRYWDlZNzFFclZQaHJqakgyX0xWSlc4T05XWFlJY3ZXbFMyUThqemNXclBQUE9acERnOVhXNXZadm9kQmt5MjdlZEZfRWFrOGxKazZyc19nNWVObWFWbEd5VkVEOGtieFZUVjcwcVJhT09zRFJrWkpUOG5wLW9na3FOLWxwb0pQTmcyMGtQa0x4RF9oazY1RWE5UWhac0NrZUVYRUd0dzJ3?oc=5)
 
 ---
 
