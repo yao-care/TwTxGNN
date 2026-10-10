@@ -45,11 +45,11 @@ permalink: /news/tioconazole/
 
 ---
 
-### [健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
+### [更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
 
-2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+2026-10-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
 
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
 
 ---
 

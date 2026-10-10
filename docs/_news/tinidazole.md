@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [不同國家女性更年期症狀差異巨大](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOVktNXNPczR0TXRfUThfbHYyVllvUWNjaHVac2hJeTg2dTJwTVlaWkU4QU1ENUlrbGprZU9RNWNIY09ucG5zR3lkSGFITmpFQTVYZm5wZGlvTDAz0gFmQVVfeXFMTU45Z0lObTZWbWs0angxbVBFYU5jYmszVFpvaFpQN01fNElCbVhFWHNKU3M3bXRBSHlpTzdLQW1tYVhnV2M1MXhoRnpaeG5tV19FRVRLaFZMaXdGN2FRaTJXVjRHRm5R?oc=5)
 
@@ -52,19 +52,11 @@ permalink: /news/tinidazole/
 
 ---
 
-### [全球八分之一癌症病例與這些感染有關大多數可預防- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
+### [更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
 
-2026-10-06 <span class="news-indication-tag">癌症</span>
+2026-10-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
 
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
-
----
-
-### [健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
 
 ---
 

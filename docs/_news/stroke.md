@@ -32,11 +32,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [偏頭痛吃阿斯匹靈防中風？醫：恐引胃出血 做對4件事才安全 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbVZKeTJON2dpSFZ0R2tGd01kWVdtVC1tN2syUHVlSWNoN0R2U1QzSzZ2UHJDdG9VMjIxcHBUa1dSaFVwZ3lYYmRqTlktMDBMeTdz?oc=5)
+### [偏頭痛別亂吞阿斯匹靈！醫揭「恐胃出血」 1組合中風機率狂飆](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
 
 2026-10-09
 
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qbVZKeTJON2dpSFZ0R2tGd01kWVdtVC1tN2syUHVlSWNoN0R2U1QzSzZ2UHJDdG9VMjIxcHBUa1dSaFVwZ3lYYmRqTlktMDBMeTdz?oc=5)
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
 
 ---
 

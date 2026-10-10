@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [乳過天晴｜「樂杖行」助力乳癌治療後復健](https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5)
 
@@ -60,11 +60,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [全球八分之一癌症病例與這些感染有關大多數可預防- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
+### [更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
 
-2026-10-06 <span class="news-indication-tag">癌症</span>
+2026-10-07 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
 
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/paclitaxel/
 2026-10-06 <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxQLVdTWjJBYm1CMHFzZ2tkWW9jeWczdVRLUTdwSmJxTzNuTFRtU0hLb21fbFhURzJ6REMyTG5TbTA1Q3pCOUhFT1hkWFRFMnpXYW56S1RaZy1BNUo2c3lPMVF5RFc0czFCMFNncDVoTkxaQ0lQMzR5VkF0dTdqVkhqUlh6UnVYa2M3c2JYQUdHMVdlTjBrb0lmMHNoS1NRTTNEdHpoOU85YlRfQTJ0elFtR3Q2TmxRb1JXVUsyVExZTUpkOGVhQWNwMUVQX2R3NmZMLS1PYzJpQnZDYllkUUxpanVzdlQ4SGk0amYyc210dk9MdTR1RGU2eFp1UEdrUTJVV2NJZnNoRy1oazcwTldBSFpxR2xyVmZrYnRKRm1rX19sdlR3aV82ODRCNjVxeS1KMUd2Y0dySWUwU2xQSGpqcE9KZEw2b0FVTUE?oc=5)
-
----
-
-### [健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
-
-2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
 
 ---
 
