@@ -1,8 +1,37 @@
 {
-  "last_updated": "2026-10-10T20:23:21.104693+00:00",
+  "last_updated": "2026-10-10T23:59:39.681374+00:00",
   "total_count": 43,
   "matched_count": 12,
   "news": [
+    {
+      "id": "77a3ccdc7890",
+      "title": "別讓流感透支退休生活！長者染流感4大代價 醫生解析為何應打疫苗",
+      "published": "2026-10-10T22:00:12+00:00",
+      "summary": "別讓流感透支退休生活！長者染流感4大代價 醫生解析為何應打疫苗&nbsp;&nbsp;香港01【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵&nbsp;&nbsp;Yahoo新聞年輕肌肉男「少做1事」 得流感急送ICU搶命！醫：很多人輕忽&nbsp;&nbsp;三立新聞網SETN.com流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;民視新聞網一場流感，可能讓長輩失去自理能力！50歲後防重症，這件事別拖過48小時&nbsp;&nbsp;50+全國最大熟齡媒體",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPbUNSc1M4cVo4MlZrSkxxbkpKOGZnVkVnR3NZaENDMmZma1ZtWmpYejFHMXN6NWNOcEZETkRQUWVHOG5KRk9wYk02SDVIWGJDd01lQ1RTU1E1dVdPOE9mRTVFSlhUcEhnbmdVa2xxbUFFVTYyejg5alhnV1BOTmlhNDAwMjV1YzVmM2RnNkRDNnVuQWE3Ry1FVHNwOUUtNmtMUGhkTVMwc3hhRHRyRmFrVXpKeEJ3WW0zeWp3TEVMNmJ1cUpUU3pDeGQ0WlRRdVM3dF9rVEZCakZlN0Rwa0dMOHFiN3AwWUdqV1lIcnJuemxnb2Y0YUU5dDVwUWxHWkp0WHo1Nlo0eEVzb1dfNWNUcXJ3Vkw5aHcwSUhhZmRZYjlzOHAwM2pidWhSaV9jckJ5Y3dWM1ZyRFJpdl9mc2pFUUwyNjRvbzlLVjFBcnNQVzNIdUstZFo2UjhTZVdESzlhNWVmU3VZcEdHbFR5ZmNhZzRfNHduOTB6YVBSNjJiVWlyeXhNd2FLbElQZWh5SFNtazl2UkVUd3JqcHBaVWVRaXRfWC1iUE1tT2FpemNaR1g4WUJOMWxZ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0cd3cf11c9f7",
       "title": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防",
@@ -33,7 +62,7 @@
       "id": "9022104534ae",
       "title": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵",
       "published": "2026-10-10T03:51:54+00:00",
-      "summary": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵&nbsp;&nbsp;Yahoo新聞發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素 | 科技新報&nbsp;&nbsp;LINE TODAY發炎是慢性病的隱形推手- 健康新聞&nbsp;&nbsp;PChome Online 新聞醫藥短波／抗發炎 變熱門 飲食是關鍵&nbsp;&nbsp;世界新聞網發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵&nbsp;&nbsp;Yahoo新聞健康網》「抗發炎」很簡單 營養師建議這樣吃&nbsp;&nbsp;自由健康網發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素 | 科技新報&nbsp;&nbsp;LINE TODAY發炎是慢性病的隱形推手- 健康新聞&nbsp;&nbsp;PChome Online 新聞醫藥短波／抗發炎 變熱門 飲食是關鍵&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -576,35 +605,6 @@
       "matched_keywords": []
     },
     {
-      "id": "bdae5a6b22a8",
-      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
-      "published": "2026-10-06T02:57:59+00:00",
-      "summary": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;民視新聞網【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵&nbsp;&nbsp;Yahoo新聞討論牆 | 年輕壯男得流感「沒做1事」變重症 醫揭3警訊：別以為撐一下就好&nbsp;&nbsp;LINE TODAY一場流感，可能讓長輩失去自理能力！50歲後防重症，這件事別拖過48小時&nbsp;&nbsp;50+全國最大熟齡媒體年輕肌肉男「少做1事」 得流感急送ICU搶命！醫：很多人輕忽&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ3FkYkZIMFRfU19acDJtaVRpanYtMDJvTzRUWjlaYS00eGJDSjVZNnptUU52RTlEczQ4em9UdFpONkk1R0hvVVNURjNQT2dOWUpvVUs3Rm96dHV1RmJfRQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole"
-            },
-            {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "663987970bb4",
       "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％",
       "published": "2026-10-06T02:42:05+00:00",
@@ -773,7 +773,7 @@
       "id": "348d04eda613",
       "title": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略",
       "published": "2026-10-04T08:11:00+00:00",
-      "summary": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞孩子人生第一針決定一輩子的免疫記憶？兒童感染科權威解密流感疫苗如何達到精準防護！&nbsp;&nbsp;天下雜誌流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;PChome Online 新聞園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網",
+      "summary": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;PChome Online 新聞園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網醫生說你在呼吸道病毒流行季可能需要接種哪些疫苗&nbsp;&nbsp;MTGamer",
       "sources": [
         {
           "name": "東森新聞",

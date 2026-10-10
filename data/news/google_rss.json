@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-10T20:23:19.234359+00:00",
+  "fetched_at": "2026-10-10T23:59:37.487918+00:00",
   "count": 43,
   "news": [
     {
       "id": "9022104534ae",
       "title": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵 - Yahoo新聞",
       "published": "2026-10-10T03:51:54+00:00",
-      "summary": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵&nbsp;&nbsp;Yahoo新聞發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素 | 科技新報&nbsp;&nbsp;LINE TODAY發炎是慢性病的隱形推手- 健康新聞&nbsp;&nbsp;PChome Online 新聞醫藥短波／抗發炎 變熱門 飲食是關鍵&nbsp;&nbsp;世界新聞網發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素- 股市爆料同學會&nbsp;&nbsp;CMoney",
+      "summary": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵&nbsp;&nbsp;Yahoo新聞健康網》「抗發炎」很簡單 營養師建議這樣吃&nbsp;&nbsp;自由健康網發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素 | 科技新報&nbsp;&nbsp;LINE TODAY發炎是慢性病的隱形推手- 健康新聞&nbsp;&nbsp;PChome Online 新聞醫藥短波／抗發炎 變熱門 飲食是關鍵&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "f3a5baa291d6",
-      "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰 - 行銷人",
-      "published": "2026-10-10T08:49:26+00:00",
-      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNOUhsSXBhazRndkdNbWFvU3JCcjdoQzB3M1RhNDVmdmp1cWhFRFZkYmloZHdOZDBnSUtEZUxXUnZnYU5TeTlSZ2xaUG9VS1ZqaThmelVsMDlPZjRtQjB4WGhDS3luRHUxMFUzYnNvOUNCMWdfOHB6ZEVwVjdJNUh0SkxYamg0VjBlbzdici1wTmliUnk0cUdOOHpKUmwwSjl2a3J6Y2k5amRPXzUtREVHcGUydTNoX3FWX0xwUlVSekgxWU81Ry1wcFRzSk9taG92b01USEMtRHVqODhSc1MtWFpIMjdfVnNNcVUxSFRPbzE1NmhrMDMzdW1ISG53WHNFQUluZGttUUFXY2tPeTlKbEZ6UDdYeDRBbTFvMC1TRmtDY1o3SzlRRTJqR1RhM2VIMXBlSThQeHZyZWs0TERoZ2RTZzBJbmlZVEZvemVLLVo2bEN3Rnhxdm45S0pxYjc3LUtsbWk4UmRMdl9nYW0wc3FGZG1LQXlfY2tJUUtYZ2NoVUlHRXNj?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b04021f492be",
       "title": "3歲童臉上冒出「菜花」 元兇竟是阿公！醫揭「1生活習慣」釀禍 - TEEPR 亮新聞",
       "published": "2026-10-09T02:50:57+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "TEEPR 亮新聞",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkRReWo4aksxYnNULVdPLXRIZ1dXMkpKWGtkS21pdzJmWl9QSnd3U2lMLWdlTkN0SXQ5U1ZoLU15YkE5QkZhYktrcEY4VVFQb29nV0gwaHVpNWpzMGRWOWRyM2E1ZThqUmd0dFZrSnBmUUNtVnBwbTBUdTRHMDEtWVJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3a5baa291d6",
+      "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰 - 行銷人",
+      "published": "2026-10-10T08:49:26+00:00",
+      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNOUhsSXBhazRndkdNbWFvU3JCcjdoQzB3M1RhNDVmdmp1cWhFRFZkYmloZHdOZDBnSUtEZUxXUnZnYU5TeTlSZ2xaUG9VS1ZqaThmelVsMDlPZjRtQjB4WGhDS3luRHUxMFUzYnNvOUNCMWdfOHB6ZEVwVjdJNUh0SkxYamg0VjBlbzdici1wTmliUnk0cUdOOHpKUmwwSjl2a3J6Y2k5amRPXzUtREVHcGUydTNoX3FWX0xwUlVSekgxWU81Ry1wcFRzSk9taG92b01USEMtRHVqODhSc1MtWFpIMjdfVnNNcVUxSFRPbzE1NmhrMDMzdW1ISG53WHNFQUluZGttUUFXY2tPeTlKbEZ6UDdYeDRBbTFvMC1TRmtDY1o3SzlRRTJqR1RhM2VIMXBlSThQeHZyZWs0TERoZ2RTZzBJbmlZVEZvemVLLVo2bEN3Rnhxdm45S0pxYjc3LUtsbWk4UmRMdl9nYW0wc3FGZG1LQXlfY2tJUUtYZ2NoVUlHRXNj?oc=5"
         }
       ]
     },
@@ -88,14 +88,14 @@
       ]
     },
     {
-      "id": "d7978a5f9f98",
-      "title": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童 - 自由健康網",
-      "published": "2026-10-09T06:01:00+00:00",
-      "summary": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童&nbsp;&nbsp;自由健康網",
+      "id": "77a3ccdc7890",
+      "title": "別讓流感透支退休生活！長者染流感4大代價 醫生解析為何應打疫苗 - 香港01",
+      "published": "2026-10-10T22:00:12+00:00",
+      "summary": "別讓流感透支退休生活！長者染流感4大代價 醫生解析為何應打疫苗&nbsp;&nbsp;香港01【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵&nbsp;&nbsp;Yahoo新聞年輕肌肉男「少做1事」 得流感急送ICU搶命！醫：很多人輕忽&nbsp;&nbsp;三立新聞網SETN.com流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;民視新聞網一場流感，可能讓長輩失去自理能力！50歲後防重症，這件事別拖過48小時&nbsp;&nbsp;50+全國最大熟齡媒體",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KUDQwZlVWYklUNV9OeXNGVGUwZXoyMHo2bDRrbHlfMm9QaVJBS243OUhLRlFRa1h4RDVLWGZRT3ZXV3g0QmdSbWVVck9Fa0RkeTJ6U09BWXQza2hXWjlpdkdDbDM?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPbUNSc1M4cVo4MlZrSkxxbkpKOGZnVkVnR3NZaENDMmZma1ZtWmpYejFHMXN6NWNOcEZETkRQUWVHOG5KRk9wYk02SDVIWGJDd01lQ1RTU1E1dVdPOE9mRTVFSlhUcEhnbmdVa2xxbUFFVTYyejg5alhnV1BOTmlhNDAwMjV1YzVmM2RnNkRDNnVuQWE3Ry1FVHNwOUUtNmtMUGhkTVMwc3hhRHRyRmFrVXpKeEJ3WW0zeWp3TEVMNmJ1cUpUU3pDeGQ0WlRRdVM3dF9rVEZCakZlN0Rwa0dMOHFiN3AwWUdqV1lIcnJuemxnb2Y0YUU5dDVwUWxHWkp0WHo1Nlo0eEVzb1dfNWNUcXJ3Vkw5aHcwSUhhZmRZYjlzOHAwM2pidWhSaV9jckJ5Y3dWM1ZyRFJpdl9mc2pFUUwyNjRvbzlLVjFBcnNQVzNIdUstZFo2UjhTZVdESzlhNWVmU3VZcEdHbFR5ZmNhZzRfNHduOTB6YVBSNjJiVWlyeXhNd2FLbElQZWh5SFNtazl2UkVUd3JqcHBaVWVRaXRfWC1iUE1tT2FpemNaR1g4WUJOMWxZ?oc=5"
         }
       ]
     },
@@ -108,6 +108,18 @@
         {
           "name": "生技投資第一站-Genet觀點",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NVW1nMjNWMGFFeGQ4aFNsZmFZZ2NVejlvMl8xSERPSXc2ZU43bm83SGx3cVFlQW9NWFNfdm16c0lCQkc0TlB1MGJtS2syeGhyMVJnQzZwRnpQVXNKQ1BnY3BGS3hXa2RPclpMVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7978a5f9f98",
+      "title": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童 - 自由健康網",
+      "published": "2026-10-09T06:01:00+00:00",
+      "summary": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KUDQwZlVWYklUNV9OeXNGVGUwZXoyMHo2bDRrbHlfMm9QaVJBS243OUhLRlFRa1h4RDVLWGZRT3ZXV3g0QmdSbWVVck9Fa0RkeTJ6U09BWXQza2hXWjlpdkdDbDM?oc=5"
         }
       ]
     },
@@ -172,18 +184,6 @@
       ]
     },
     {
-      "id": "348d04eda613",
-      "title": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略 - 東森新聞",
-      "published": "2026-10-04T08:11:00+00:00",
-      "summary": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞孩子人生第一針決定一輩子的免疫記憶？兒童感染科權威解密流感疫苗如何達到精準防護！&nbsp;&nbsp;天下雜誌流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;PChome Online 新聞園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0b8cd539c63f",
       "title": "研究：高熱量飲食恐致腦神經突觸異常 認知功能下降 - 新唐人電視台",
       "published": "2026-10-06T21:54:00+00:00",
@@ -192,18 +192,6 @@
         {
           "name": "新唐人電視台",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UU09GMnBtR0xOU1Z5Y0kyZUdEV1lSV2lqQU8zX0w3bG9TTFQtcTQxYzhaRlJGMU5nenhDX2hVeW4zMHVQX1cyUDhXWjVBLWh5QnNKbkdtb2FlN2l5MUhUYtIBZkFVX3lxTE5vNUNrc1dyeXYyUWU1SEVoTUpVRldwT2h2M3lRUGM4Q2R5dTI5My1ib3VGN0lnWHBBM3pjaWxEaElSOVVKRzk5NkFvbDd0UzFhbWRCNU5sSHpCdnVhd2lubGN4dDB6dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bdae5a6b22a8",
-      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力 - 民視新聞網",
-      "published": "2026-10-06T02:57:59+00:00",
-      "summary": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;民視新聞網【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵&nbsp;&nbsp;Yahoo新聞討論牆 | 年輕壯男得流感「沒做1事」變重症 醫揭3警訊：別以為撐一下就好&nbsp;&nbsp;LINE TODAY一場流感，可能讓長輩失去自理能力！50歲後防重症，這件事別拖過48小時&nbsp;&nbsp;50+全國最大熟齡媒體年輕肌肉男「少做1事」 得流感急送ICU搶命！醫：很多人輕忽&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ3FkYkZIMFRfU19acDJtaVRpanYtMDJvTzRUWjlaYS00eGJDSjVZNnptUU52RTlEczQ4em9UdFpONkk1R0hvVVNURjNQT2dOWUpvVUs3Rm96dHV1RmJfRQ?oc=5"
         }
       ]
     },
@@ -240,6 +228,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnV2a0FOcWNUelMtbHFOZXMtRl9qcUN1RENERzBzeUd1RFJ0bERGeUk3MkpWUGJIaXNqc29IdXJaTFZqVnQ1b0RpenhQVlgwSTJ0ZmRBNUZMdjNwLWVZajVwNHFCRUVnWmUwRHBzUUpKVzBXNmwwYVpxUHpSVi1pYTBR0gFiQVVfeXFMTnZlaEJJM21KMDN1T2QxSUlGMWZyS3Jpd25wTjFfSHhYOTk5OEgtNEtQemlOcVF6cmw2cEZYUkoxaWRGbnZtSmY1OUFDcXNoeGVWTFcwTUNZRHJQY3dMN014TGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "348d04eda613",
+      "title": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略 - 東森新聞",
+      "published": "2026-10-04T08:11:00+00:00",
+      "summary": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;PChome Online 新聞園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網醫生說你在呼吸道病毒流行季可能需要接種哪些疫苗&nbsp;&nbsp;MTGamer",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
         }
       ]
     },
@@ -364,18 +364,6 @@
       ]
     },
     {
-      "id": "3ffb19dfdebd",
-      "title": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-10-09T14:11:16+00:00",
-      "summary": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42anhIbTY1VlZjdmxBRkFONGlwNkJGZWNWaUd3X3RSS0NIbHBHZ21YNEkyX3MxT3J6emN6WVhxdmptUkdSNEk1T2JXQlJmckJxS3Zrc19JVE5qN2t4Q0ZqNktKVHB3U3U4QUFYeG9OM1M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b83633084e50",
       "title": "每天一粒維他命D可延緩老化？哈佛研究：4年內端粒縮短減少逾半 - Singtaousa",
       "published": "2026-10-09T17:51:47+00:00",
@@ -388,14 +376,14 @@
       ]
     },
     {
-      "id": "2f2d19634730",
-      "title": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康 - 人民网-福建频道",
-      "published": "2026-10-09T08:45:00+00:00",
-      "summary": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康&nbsp;&nbsp;人民网-福建频道",
+      "id": "3ffb19dfdebd",
+      "title": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-10-09T14:11:16+00:00",
+      "summary": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
       "sources": [
         {
-          "name": "人民网-福建频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5"
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42anhIbTY1VlZjdmxBRkFONGlwNkJGZWNWaUd3X3RSS0NIbHBHZ21YNEkyX3MxT3J6emN6WVhxdmptUkdSNEk1T2JXQlJmckJxS3Zrc19JVE5qN2t4Q0ZqNktKVHB3U3U4QUFYeG9OM1M?oc=5"
         }
       ]
     },
@@ -408,6 +396,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVElBcm50QmJwSHlKQlpNSzF6ZUVXLVVEMGgtSlRuaFNvbl9mR2FWaEJVSkNhNVp2WjNJbEc3UTBIdmM5Vm1zR01HVEVmYWFfQXd2S3IyUS0xT1lHYlo3ejVHMWFHTVBVWWJEUDlGQ1pCZzVHTnMxNTlqU3JDUF9wdVBWbzJHUExBc3VGNGc4ME5MaklRTFRMcGptdjlhczdNdk1UbU5FcUttQU4yRUNnU2J4dkctZmZBTFdmckN0c3ZfWFU2NlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2f2d19634730",
+      "title": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康 - 人民网-福建频道",
+      "published": "2026-10-09T08:45:00+00:00",
+      "summary": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康&nbsp;&nbsp;人民网-福建频道",
+      "sources": [
+        {
+          "name": "人民网-福建频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5"
         }
       ]
     },
