@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T03:29:07.118497+00:00",
+  "generated": "2026-10-10T10:16:43.527500+00:00",
   "count": 13,
   "news": [
     {
@@ -21,30 +21,6 @@
             {
               "slug": "isosorbide_dinitrate",
               "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "68ab6ce54331",
-      "title": "不只性病！性行為竟會傳染腹瀉 1族群風險最高",
-      "published": "2026-10-09T06:58:00+00:00",
-      "sources": [
-        {
-          "name": "壹蘋新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQUpjRGJTNElaS2lMdEVicU9QS0FQaE9CLXc0aVpCMG9MX3dXMzdfVThULUpBUFptejN2clhGU0lHQXhWQVhIdDVXVmZqU3lvckFDY21kZ0JlSW5sZXhVUnpxU2k0b1BMN0FBV2VGaTRSTi0waEptcnlXb0w5b09YVC1qTlVQOE9XckE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "腹瀉",
-          "keyword": "腹瀉",
-          "related_drugs": [
-            {
-              "slug": "berberine",
-              "name": "Berberine"
             }
           ]
         }
@@ -73,64 +49,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8b284e56e0fb",
-      "title": "更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊",
-      "published": "2026-10-08T13:45:02+00:00",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
@@ -513,6 +431,34 @@
       ]
     },
     {
+      "id": "bdae5a6b22a8",
+      "title": "流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力",
+      "published": "2026-10-06T02:57:59+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ3FkYkZIMFRfU19acDJtaVRpanYtMDJvTzRUWjlaYS00eGJDSjVZNnptUU52RTlEczQ4em9UdFpONkk1R0hvVVNURjNQT2dOWUpvVUs3Rm96dHV1RmJfRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "663987970bb4",
       "title": "每周1小時就有效！研究揭這種運動 乳癌死亡率少49％",
       "published": "2026-10-06T02:42:05+00:00",
@@ -633,6 +579,64 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1efe6d74384b",
+      "title": "健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％",
+      "published": "2026-10-03T12:40:00+00:00",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
             }
           ]
         }

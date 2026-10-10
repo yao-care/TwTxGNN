@@ -44,14 +44,6 @@ permalink: /news/paclitaxel/
 
 ## 相關新聞（5 則）
 
-### [更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
-
-2026-10-08 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
-
----
-
 ### [乳過天晴｜「樂杖行」助力乳癌治療後復健](https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5)
 
 2026-10-07 <span class="news-indication-tag">乳癌</span>
@@ -81,6 +73,14 @@ permalink: /news/paclitaxel/
 2026-10-06 <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxQLVdTWjJBYm1CMHFzZ2tkWW9jeWczdVRLUTdwSmJxTzNuTFRtU0hLb21fbFhURzJ6REMyTG5TbTA1Q3pCOUhFT1hkWFRFMnpXYW56S1RaZy1BNUo2c3lPMVF5RFc0czFCMFNncDVoTkxaQ0lQMzR5VkF0dTdqVkhqUlh6UnVYa2M3c2JYQUdHMVdlTjBrb0lmMHNoS1NRTTNEdHpoOU85YlRfQTJ0elFtR3Q2TmxRb1JXVUsyVExZTUpkOGVhQWNwMUVQX2R3NmZMLS1PYzJpQnZDYllkUUxpanVzdlQ4SGk0amYyc210dk9MdTR1RGU2eFp1UEdrUTJVV2NJZnNoRy1oazcwTldBSFpxR2xyVmZrYnRKRm1rX19sdlR3aV82ODRCNjVxeS1KMUd2Y0dySWUwU2xQSGpqcE9KZEw2b0FVTUE?oc=5)
+
+---
+
+### [健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
+
+2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
 
 ---
 

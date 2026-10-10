@@ -52,19 +52,19 @@ permalink: /news/isosorbide_dinitrate/
 
 ---
 
-### [更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
-
-2026-10-08 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
-
----
-
 ### [英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子](https://news.google.com/rss/articles/CBMizAJBVV95cUxOTzU1MWxqQ21iODZVRU1ZMnkzLWEwRXhTYlR4aVRjaUNETVhSOWx2ci1CMk5aeG5YMHJjRWJ2VVduN2dmNHhZVmNlRzhZT2JTYzFNX3BUZDE1UTQ5Q1NTY1puaGdmVUZTNVVidjhzTV9VSzdhZ3FpMHlRbG10bU5VbmM0NjZLc3JNNmF4RW8zbGRzZEtpTzN0R1dmSFFmaGV2UUtEOENrRmVQM08xcTNpOV84YW1haXpVSng0aVRYaWVVSEVUZGFrZVdGVDM4cFNrSTFlaDlRZnFOaGprR3NRTmhLdHdEYkluQkVCM2Z5b0NMbTJhamRORFRIMEZzOFJuNXhJZU5SMC16WWRlQjY4ZnlJSG1Sdk40U3VCbWZ1VE9kTmxkQlNtcGFiRW5uM25Kc0ZiWUZRalBRR3k3UXJ5UlIzTmN3M21fYkhmOA?oc=5)
 
 2026-10-05 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">高血壓</span>
 
 來源: [https://www.yesmedia.com.tw/](https://news.google.com/rss/articles/CBMizAJBVV95cUxOTzU1MWxqQ21iODZVRU1ZMnkzLWEwRXhTYlR4aVRjaUNETVhSOWx2ci1CMk5aeG5YMHJjRWJ2VVduN2dmNHhZVmNlRzhZT2JTYzFNX3BUZDE1UTQ5Q1NTY1puaGdmVUZTNVVidjhzTV9VSzdhZ3FpMHlRbG10bU5VbmM0NjZLc3JNNmF4RW8zbGRzZEtpTzN0R1dmSFFmaGV2UUtEOENrRmVQM08xcTNpOV84YW1haXpVSng0aVRYaWVVSEVUZGFrZVdGVDM4cFNrSTFlaDlRZnFOaGprR3NRTmhLdHdEYkluQkVCM2Z5b0NMbTJhamRORFRIMEZzOFJuNXhJZU5SMC16WWRlQjY4ZnlJSG1Sdk40U3VCbWZ1VE9kTmxkQlNtcGFiRW5uM25Kc0ZiWUZRalBRR3k3UXJ5UlIzTmN3M21fYkhmOA?oc=5)
+
+---
+
+### [健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
+
+2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
 
 ---
 

@@ -44,14 +44,6 @@ permalink: /news/tinidazole/
 
 ## 相關新聞（3 則）
 
-### [更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
-
-2026-10-08 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
-
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Cek1hemxJVVVuUUppWU1VaDJqM0ozcGJfQ1hFaktUbi1rNjE3b1pGN0YtVzl0bGFiMThhTTJ1Y1dBR3FfXzF0Ym5yd00yQURHV1kwRmg0NmtmZ9IBX0FVX3lxTE51ZTNSdFhRendnUnlYcm1rMlJYdWpRUG8zelJPOU02SWpxdTc4TkptazBTVlBxeWNETkl1aU9pZlUxX2FkaFNURDNXbXY2YzY3M1RHVWU1OUl3dTlXclY4?oc=5)
-
----
-
 ### [不同國家女性更年期症狀差異巨大](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOVktNXNPczR0TXRfUThfbHYyVllvUWNjaHVac2hJeTg2dTJwTVlaWkU4QU1ENUlrbGprZU9RNWNIY09ucG5zR3lkSGFITmpFQTVYZm5wZGlvTDAz0gFmQVVfeXFMTU45Z0lObTZWbWs0angxbVBFYU5jYmszVFpvaFpQN01fNElCbVhFWHNKU3M3bXRBSHlpTzdLQW1tYVhnV2M1MXhoRnpaeG5tV19FRVRLaFZMaXdGN2FRaTJXVjRHRm5R?oc=5)
 
 2026-10-07 <span class="news-indication-tag">更年期</span>
@@ -65,6 +57,14 @@ permalink: /news/tinidazole/
 2026-10-06 <span class="news-indication-tag">癌症</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SXzgwQzhlRy1yV1ZxZHEyWnIwSWxkMkVhNXBQUW8tOXBtVlZ1UjJwLVV4eG5IT05kaFVqVnVzZElPdFdOTEkxOTg4N2xhNVNqc0RaUVJ0WmZHZU1ISW04?oc=5)
+
+---
+
+### [健康網》不只傷心血管！ 研究揭腰圍變粗 失智風險飆增53％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
+
+2026-10-03 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">失智</span> <span class="news-indication-tag">更年期</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Zb04zWmlETUdrRUhjUFk3bmJzMWlqQllXUUdvalFPTW9STjA5SVFGZ1JqMFdNNXFYRUVMbldJa0trRlQtb1g2eTNjazQxRGNBN1owSFZBcGRTdzU4RF9JU2tCTzQ?oc=5)
 
 ---
 
