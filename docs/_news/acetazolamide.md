@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
+
+2026-10-11 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝癌</span>
+
+來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
+
+---
 
 ### [潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事](https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnV2a0FOcWNUelMtbHFOZXMtRl9qcUN1RENERzBzeUd1RFJ0bERGeUk3MkpWUGJIaXNqc29IdXJaTFZqVnQ1b0RpenhQVlgwSTJ0ZmRBNUZMdjNwLWVZajVwNHFCRUVnWmUwRHBzUUpKVzBXNmwwYVpxUHpSVi1pYTBR0gFiQVVfeXFMTnZlaEJJM21KMDN1T2QxSUlGMWZyS3Jpd25wTjFfSHhYOTk5OEgtNEtQemlOcVF6cmw2cEZYUkoxaWRGbnZtSmY1OUFDcXNoeGVWTFcwTUNZRHJQY3dMN014TGc?oc=5)
 

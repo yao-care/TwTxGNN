@@ -14,7 +14,7 @@ permalink: /news/cladribine/
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,21 @@ permalink: /news/cladribine/
 <li>prostate embryonal rhabdomyosarcoma (99.8%)</li>
 <li>extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
 <li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>liver sarcoma (99.7%)</li>
+<li class="indication-matched">liver sarcoma (99.7%)<span class="indication-tag">📰 肝癌</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
+
+2026-10-11 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝癌</span>
+
+來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
+
+---
 
 
 <div class="disclaimer">

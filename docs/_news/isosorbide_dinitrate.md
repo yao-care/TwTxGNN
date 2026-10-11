@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [廈心醫院舉辦公益開放日 科普科學減重守護心血管健康](https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5)
-
-2026-10-09 <span class="news-indication-tag">心血管</span>
-
-來源: [人民网-福建频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [別讓流感透支退休生活！長者染流感4大代價 醫生解析為何應打疫苗](https://news.google.com/rss/articles/CBMitwNBVV95cUxPbUNSc1M4cVo4MlZrSkxxbkpKOGZnVkVnR3NZaENDMmZma1ZtWmpYejFHMXN6NWNOcEZETkRQUWVHOG5KRk9wYk02SDVIWGJDd01lQ1RTU1E1dVdPOE9mRTVFSlhUcEhnbmdVa2xxbUFFVTYyejg5alhnV1BOTmlhNDAwMjV1YzVmM2RnNkRDNnVuQWE3Ry1FVHNwOUUtNmtMUGhkTVMwc3hhRHRyRmFrVXpKeEJ3WW0zeWp3TEVMNmJ1cUpUU3pDeGQ0WlRRdVM3dF9rVEZCakZlN0Rwa0dMOHFiN3AwWUdqV1lIcnJuemxnb2Y0YUU5dDVwUWxHWkp0WHo1Nlo0eEVzb1dfNWNUcXJ3Vkw5aHcwSUhhZmRZYjlzOHAwM2pidWhSaV9jckJ5Y3dWM1ZyRFJpdl9mc2pFUUwyNjRvbzlLVjFBcnNQVzNIdUstZFo2UjhTZVdESzlhNWVmU3VZcEdHbFR5ZmNhZzRfNHduOTB6YVBSNjJiVWlyeXhNd2FLbElQZWh5SFNtazl2UkVUd3JqcHBaVWVRaXRfWC1iUE1tT2FpemNaR1g4WUJOMWxZ?oc=5)
+### [15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
 
-2026-10-10 <span class="news-indication-tag">鏈球菌</span>
+2026-10-11 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝癌</span>
 
-來源: [香港01](https://news.google.com/rss/articles/CBMitwNBVV95cUxPbUNSc1M4cVo4MlZrSkxxbkpKOGZnVkVnR3NZaENDMmZma1ZtWmpYejFHMXN6NWNOcEZETkRQUWVHOG5KRk9wYk02SDVIWGJDd01lQ1RTU1E1dVdPOE9mRTVFSlhUcEhnbmdVa2xxbUFFVTYyejg5alhnV1BOTmlhNDAwMjV1YzVmM2RnNkRDNnVuQWE3Ry1FVHNwOUUtNmtMUGhkTVMwc3hhRHRyRmFrVXpKeEJ3WW0zeWp3TEVMNmJ1cUpUU3pDeGQ0WlRRdVM3dF9rVEZCakZlN0Rwa0dMOHFiN3AwWUdqV1lIcnJuemxnb2Y0YUU5dDVwUWxHWkp0WHo1Nlo0eEVzb1dfNWNUcXJ3Vkw5aHcwSUhhZmRZYjlzOHAwM2pidWhSaV9jckJ5Y3dWM1ZyRFJpdl9mc2pFUUwyNjRvbzlLVjFBcnNQVzNIdUstZFo2UjhTZVdESzlhNWVmU3VZcEdHbFR5ZmNhZzRfNHduOTB6YVBSNjJiVWlyeXhNd2FLbElQZWh5SFNtazl2UkVUd3JqcHBaVWVRaXRfWC1iUE1tT2FpemNaR1g4WUJOMWxZ?oc=5)
+來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
+
+---
+
+### [年輕壯男流感重症插管！醫提醒肌肉不是免死金牌 出現「惡化警訊」快就醫](https://news.google.com/rss/articles/CBMiwANBVV95cUxQWTNzU0lFY1UwbjJIOU9FYWZVVVZtb1hHdHdYWXY1SGZqdjhfTi03eU52TmRjVERsdFYxZk1maHZRV25YZExLYW1NSWRfZjVNTThCQ2JPU1ZpR1BkdHRfSGFmUEFZTWh1V3gyRVhDVWFkaGhJNjRvdEJjTDdNTEpzY01ldkcwbFJhYlI3RW9FLTRwV1V5X0wwY3NfNzVveVJsWHBjTlg2Q1ZoYVZveDRxUERYLVN5cFE3N2ZtdDluNVhrTGMtT1N0dW5YNXdBYjAyY1p3LVlWZjFVaTRneEstWThIbDk1ZFNyVEllWDlCTTNyNVNpYWZySUFuRXNYelZVZVVFNENTd053Tjl0YW1hNmdHTGhoYlozdUhUVUhsUUhNcE16SEMydHR0TzhZbEFadDloWkxLWG1IVTZaMEk2RHRqMjl1ZG9ncVhoNWNjYjFqWHhNdl8zby02cy1nR1QyNW93Yy0xY084RzI0cl9GTDR4Q3k3dFprYndZY25pS2NrQUZEaHpJM05KcndtbFY2UEFWSjZMdU1rX2hqb2RmWl9icXJuSEZJMWEzNDJXa0NyMUFPa19pZklJMEpMVGJM?oc=5)
+
+2026-10-05 <span class="news-indication-tag">鏈球菌</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiwANBVV95cUxQWTNzU0lFY1UwbjJIOU9FYWZVVVZtb1hHdHdYWXY1SGZqdjhfTi03eU52TmRjVERsdFYxZk1maHZRV25YZExLYW1NSWRfZjVNTThCQ2JPU1ZpR1BkdHRfSGFmUEFZTWh1V3gyRVhDVWFkaGhJNjRvdEJjTDdNTEpzY01ldkcwbFJhYlI3RW9FLTRwV1V5X0wwY3NfNzVveVJsWHBjTlg2Q1ZoYVZveDRxUERYLVN5cFE3N2ZtdDluNVhrTGMtT1N0dW5YNXdBYjAyY1p3LVlWZjFVaTRneEstWThIbDk1ZFNyVEllWDlCTTNyNVNpYWZySUFuRXNYelZVZVVFNENTd053Tjl0YW1hNmdHTGhoYlozdUhUVUhsUUhNcE16SEMydHR0TzhZbEFadDloWkxLWG1IVTZaMEk2RHRqMjl1ZG9ncVhoNWNjYjFqWHhNdl8zby02cy1nR1QyNW93Yy0xY084RzI0cl9GTDR4Q3k3dFprYndZY25pS2NrQUZEaHpJM05KcndtbFY2UEFWSjZMdU1rX2hqb2RmWl9icXJuSEZJMWEzNDJXa0NyMUFPa19pZklJMEpMVGJM?oc=5)
 
 ---
 

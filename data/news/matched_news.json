@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T04:51:42.830476+00:00",
-  "total_count": 42,
+  "last_updated": "2026-10-11T11:07:08.567588+00:00",
+  "total_count": 39,
   "matched_count": 11,
   "news": [
     {
@@ -17,56 +17,234 @@
       "matched_keywords": []
     },
     {
-      "id": "dbcdf4408da0",
-      "title": "連假一過「3病人」激增！塞車憋尿釀大禍 見7症狀快就醫 | TVBS - LINE TODAY",
-      "published": "2026-10-11T01:01:43+00:00",
-      "summary": "連假一過「3病人」激增！塞車憋尿釀大禍 見7症狀快就醫 | TVBS&nbsp;&nbsp;LINE TODAY",
+      "id": "ad1079fd4d95",
+      "title": "15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷",
+      "published": "2026-10-11T02:58:40+00:00",
+      "summary": "15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaGl1SDFZdzAzN2RkTTVBNUlneDczY0M2M0JkR1R3NFlsMzg1LTBDdXVkTkZvLWNOM0lKaVNGZXBNemV6WlRjbWNyYTZUZ0h2SU5ueHRn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "77a3ccdc7890",
-      "title": "別讓流感透支退休生活！長者染流感4大代價 醫生解析為何應打疫苗",
-      "published": "2026-10-10T22:00:12+00:00",
-      "summary": "別讓流感透支退休生活！長者染流感4大代價 醫生解析為何應打疫苗&nbsp;&nbsp;香港01【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵&nbsp;&nbsp;Yahoo新聞年輕肌肉男「少做1事」 得流感急送ICU搶命！醫：很多人輕忽&nbsp;&nbsp;三立新聞網SETN.com流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;民視新聞網一場流感，可能讓長輩失去自理能力！50歲後防重症，這件事別拖過48小時&nbsp;&nbsp;50+全國最大熟齡媒體",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPbUNSc1M4cVo4MlZrSkxxbkpKOGZnVkVnR3NZaENDMmZma1ZtWmpYejFHMXN6NWNOcEZETkRQUWVHOG5KRk9wYk02SDVIWGJDd01lQ1RTU1E1dVdPOE9mRTVFSlhUcEhnbmdVa2xxbUFFVTYyejg5alhnV1BOTmlhNDAwMjV1YzVmM2RnNkRDNnVuQWE3Ry1FVHNwOUUtNmtMUGhkTVMwc3hhRHRyRmFrVXpKeEJ3WW0zeWp3TEVMNmJ1cUpUU3pDeGQ0WlRRdVM3dF9rVEZCakZlN0Rwa0dMOHFiN3AwWUdqV1lIcnJuemxnb2Y0YUU5dDVwUWxHWkp0WHo1Nlo0eEVzb1dfNWNUcXJ3Vkw5aHcwSUhhZmRZYjlzOHAwM2pidWhSaV9jckJ5Y3dWM1ZyRFJpdl9mc2pFUUwyNjRvbzlLVjFBcnNQVzNIdUstZFo2UjhTZVdESzlhNWVmU3VZcEdHbFR5ZmNhZzRfNHduOTB6YVBSNjJiVWlyeXhNd2FLbElQZWh5SFNtazl2UkVUd3JqcHBaVWVRaXRfWC1iUE1tT2FpemNaR1g4WUJOMWxZ?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
           "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
             {
               "slug": "cefmetazole",
               "name": "Cefmetazole"
             },
             {
-              "slug": "cephalexin",
-              "name": "Cephalexin"
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "liver sarcoma",
+          "keyword": "肝癌",
+          "related_drugs": [
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
             }
           ]
         }
       ]
     },
     {
-      "id": "0cd3cf11c9f7",
+      "id": "d4d02fc9c0ef",
       "title": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防",
       "published": "2026-10-10T11:34:05+00:00",
       "summary": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "風火輪傳媒有限公司",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laDE3aExDd01uSmE1SXp1VWtHekV2S0tTa0JmckNrdVk5WWwzcUdqdVNUU2RnOFhsLXBraXlDM3BjZE44ZDZDN0pBOGJ1OEZNZmNKeU1YQ2NRWTZtYW5MYW80Qkk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -96,6 +274,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "672042c92ae5",
+      "title": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強",
+      "published": "2026-10-10T00:03:43+00:00",
+      "summary": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOTWhLXy1wRU12Vi1tRGUyWEFYbkpILUpoazU0Sm1KY1d6eHhNOHAxdzJOckRheS15dHBZV0YzbDhNRnNzRUNOemM3Y0tUVFRqUFg2ZldCeGtHTzlMb1BUREhnc1hiN013Y0IwazUxMTZnSk9CZVFITTZIeXl4WVpuRVZ1VFVQMGJKWmlweG5rUGRpQ3hka3pCdXhQVDRxVVR0NjhEZTlfbmJsUzlmYmRJREdXc3RLMTU1Tm9rQUw2NXJfQVlFNGRlR1pZWlJsNFE1OWcxLXNndS00Si1zMlltZUhsaEwtRzNMQXpRdWI2andtLXdIUEUtYmxJVWlPT2tRN0FDNkhzQnZyT3pkaS1qeEdWdm4zR3J0WWtQVWNrNF9wa01nN052NkcyY3NocEdnZHhxZWxQVm9sSTdUaXpoTWhWSC1OQ1g1ekFyREJDd3AyWHBoUFlCdFFXR0JVQkpGX3RINnBNNHlTdTUtLV9RYXp1VF9lM1otU2N2d0FnRnBNVm5FeFJoVDNsWm5OR3NRaEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "b51f3e8edd16",
@@ -145,44 +348,6 @@
         {
           "name": "報新聞",
           "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNYzMtMDFRMHp3R3FSa3pmNDF2cDFma3dnOE90M2RydXFPZGFJS1R3a3VfVzZCTWotNHlXOFowc1plTDdEa1YwbHJ1aGIyTHRXV1pkNkJQdEpTT2QyS2dHSGY1VzJRdkdwSkhld2NURU9QQnNSd01xaktUMC1fajJKaklkczkzQjNiaUk4VXdRQmx3STVjcElJYXJHU2w4SE1qUHctdmRyd2tsT01MNmdBV0VKN0dRYkV3TDBwaGZQdjVHVGRkbjlRbXY3TDVwZ0xCTFhHNl9xZW9OYV9mcDdnS2ZWd2tMdU9QV2dXZDl5TFdNQmVTSWRwcW04a0YyM1ZRZmMzZ2JVOUF4VDhYY3FCRlU0aV9wbFZJbG10d1NhUnRWQXppWmc0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2f2d19634730",
-      "title": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康",
-      "published": "2026-10-09T08:45:00+00:00",
-      "summary": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康&nbsp;&nbsp;人民网-福建频道",
-      "sources": [
-        {
-          "name": "人民网-福建频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c37ac3fc38ae",
-      "title": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星 | 科技新報 - LINE TODAY",
-      "published": "2026-10-09T08:17:18+00:00",
-      "summary": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aS3NudzZzeWFIVldHNGttaktteHNfb1FCS0ZJYUR2NGFLdm03MEVnOFhRYk5NbVFUTkdUNlpRWU1PbnZKMGhPZWx6MEFLSnFJeUV0aGxR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -243,6 +408,19 @@
       "matched_keywords": []
     },
     {
+      "id": "ec913136789d",
+      "title": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星 - TechNews 科技新報",
+      "published": "2026-10-09T00:04:58+00:00",
+      "summary": "烏賊竟然全身都是耳朵？最新 3D 感測地圖有望成為人類聽力受損救星&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ma2EwTzBrYWdjY0NrZTNwMHAxX2NuQlBsVHJZQlF1YU9MYnNFWkVDenI0WnJieHFSM2VoTTV2dFVFbTVyQkdmSzBlR2Y4MFFCUVVTNTlzMnY5Q3UxNzhoemVwc1FtQnFDY1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "311ddc8bae4d",
       "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - 晴報 Sky Post",
       "published": "2026-10-08T10:31:49+00:00",
@@ -282,14 +460,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7a976962a125",
-      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位",
-      "published": "2026-10-08T01:43:16+00:00",
-      "summary": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "681d72bcc0db",
+      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - PChome Online 新聞",
+      "published": "2026-10-08T01:30:00+00:00",
+      "summary": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位&nbsp;&nbsp;PChome Online 新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOcFJyNHNMN1pMeWFrQXczSmFobkhKd2F2dG5WZU4xdEtiV0ZQNXlyZ2pNTWg2QWJ6TmsxcWJISVhLM0dDYml6S3NVNVZBR2ZCYjBScnZhZ1luc1BNamt1ekw3QUNuT3FRYTdGTWZGMk8teHBtbVhReGgxZGxIMWRuTU1kbjF2dGp4N1ZYUGVBRVVYYU96UFZwaUFoRWhDdm9LWW9JeEJaNGlBczZZX291YkZsSzJIZlQ5bWJCcU5lcmkyVUVTTkpOcW54Z2k1eTJfUjhndTZrdmVJQ19qbWRYc2FBdEZTTHpaeFNIMWs5QVVPRl9UalBKRW1oZGRRb1luNkxyRG04TUhSbWJBRlE2cEl6dlRXcjVYOVFwakxnOVZLUDNmajF3SzItS25kbXktM2JSSUtsdk1RWXhiRTZQMW11SUJvSEI1REFaLTdRZ0xJaW9ZaEJBUm5CdWg1S096bGVod3dEMllPZExwWV95TDV3UGZjajNneFBzcXRVREdhbGF1ZzUwYUI1ZFNnMjR6b0ZSRXl1ZVlSVjdiY0tMSFlGXzlDcy1k?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -384,7 +562,7 @@
       "id": "7783d9b42caf",
       "title": "大多區呼吸道疾病季提前 醫生籲及早防護",
       "published": "2026-10-07T19:52:00+00:00",
-      "summary": "大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/西雅圖流感提早報到急診病例暴增逾6倍 | 西雅圖／夏威夷 | 美國 | 世界新聞網&nbsp;&nbsp;世界新聞網加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa",
+      "summary": "大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/南加流感季早來 衛生官籲速打疫苗&nbsp;&nbsp;Singtaousa美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒",
       "sources": [
         {
           "name": "大紀元",
@@ -444,73 +622,14 @@
       "matched_keywords": []
     },
     {
-      "id": "cd67f7b705a1",
-      "title": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉 - TVBS 健康2.0",
-      "published": "2026-10-07T10:29:00+00:00",
-      "summary": "更年期易累又變胖怎麼救？醫曝3招救回粒線體，能量不再一路掉&nbsp;&nbsp;TVBS 健康2.0更年期後別只盯體重 腰圍變粗、內臟脂肪增加 才是代謝風險警訊&nbsp;&nbsp;經濟日報不想運動也有望瘦肚子 9飲食習慣擊退內臟脂肪&nbsp;&nbsp;世界新聞網中年瘦肚子秘訣！李靜減28公斤成功逆襲！公開飲食5原則，內臟脂肪腰圍一起改善！&nbsp;&nbsp;Yahoo新聞失智症患者胖一點反而活較久？研究揭肥胖悖論 但別急著刻意增重&nbsp;&nbsp;元氣網",
+      "id": "52baf102757f",
+      "title": "3歲童臉上長菜花嚇壞家人！醫一問揪出源頭竟和阿公共用毛巾有關- 健康新聞 - PChome Online 新聞",
+      "published": "2026-10-07T08:21:32+00:00",
+      "summary": "3歲童臉上長菜花嚇壞家人！醫一問揪出源頭竟和阿公共用毛巾有關- 健康新聞&nbsp;&nbsp;PChome Online 新聞3歲弟弟臉上長菜花？醫揭恐怖感染源頭：阿公的錯&nbsp;&nbsp;Yahoo新聞3歲弟臉上長菜花 竟是阿公去紅燈區「全家共用毛巾傳染」&nbsp;&nbsp;ETtoday健康雲HPV感染｜6旬男浸溫泉染「椰菜花」半年下體蔓延如「植物園」遊日泡湯一動作自保 附傳播途徑+症狀&nbsp;&nbsp;myTV SUPER3歲童臉冒菜花阿公害的醫揭全家1習慣惹禍- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lUkU0Z0R4TnNzRmhfYXRnZkNfdmxTTkJJUUxOdDhpaW16VWNqMjhzNjdXNU9vNllwNTFqalROY0tqUmxPdlRMMXVIYVFlSGRpNVE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "280827c2c7aa",
-      "title": "3歲弟臉上長菜花　竟是阿公去紅燈區「全家共用毛巾傳染」",
-      "published": "2026-10-06T22:56:00+00:00",
-      "summary": "3歲弟臉上長菜花 竟是阿公去紅燈區「全家共用毛巾傳染」&nbsp;&nbsp;ETtoday健康雲3歲弟弟臉上長菜花？醫揭恐怖感染源頭：阿公的錯&nbsp;&nbsp;Yahoo新聞3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵&nbsp;&nbsp;UDN一家共用毛巾！3歲男童臉長「菜花」感染源竟是阿公&nbsp;&nbsp;東森新聞3歲童臉冒菜花阿公害的醫揭全家1習慣惹禍- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40SjdjbHBpd0R3MXN0RlVnQkl2MWVaTXpRMElEVXh2M0NrbUZXSEpES0xEMnI2SGNMZEdlbmkyOGtnTFpOS1oyWUh3VlByMF9i0gFPQVVfeXFMT0NYUjhUeFoxTWwyY2d3RXJTZC1CbW4zRnJYU1BRUW5XVjAzNXpEcmRuQmIwa0F5U2Jlcy02ZGduWmFvVllDR0Q2WThscjQxMA?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFpFbUw1eDJHMmFaMk5BcjJkc2tuMjFRV0V3MllPOERReHdobF9lYm13NHVGT3NiczJGQVc1cXVMS1RMU3Z2Wk5UWVJtZnNvaU1HS0dUZzJyYVA3OVNrSDZwR0hYeXlkM2MyOW1MQVJmTkR5aExlUi10TW5VSTZUNldyOVZaNnpxTnFRX2VR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -524,6 +643,19 @@
         {
           "name": "新唐人電視台",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UU09GMnBtR0xOU1Z5Y0kyZUdEV1lSV2lqQU8zX0w3bG9TTFQtcTQxYzhaRlJGMU5nenhDX2hVeW4zMHVQX1cyUDhXWjVBLWh5QnNKbkdtb2FlN2l5MUhUYtIBZkFVX3lxTE5vNUNrc1dyeXYyUWU1SEVoTUpVRldwT2h2M3lRUGM4Q2R5dTI5My1ib3VGN0lnWHBBM3pjaWxEaElSOVVKRzk5NkFvbDd0UzFhbWRCNU5sSHpCdnVhd2lubGN4dDB6dw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6d0bd5ba8453",
+      "title": "眼科醫師警告日常7惡習恐損害眼部健康- 國際",
+      "published": "2026-10-06T09:16:00+00:00",
+      "summary": "眼科醫師警告日常7惡習恐損害眼部健康- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xQWlsM3drNDB2LVZ5R3o1Ri12RjI4dEFnUDhzY25kdncyczlUMk9Ua0dKWE1Tak9hRXhMN0xrSGJWRnZObkk1OHhlazh6NjFFN3docTZkZUduaFJKTnZB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -680,9 +812,38 @@
       "matched_keywords": []
     },
     {
+      "id": "5525221ba958",
+      "title": "年輕壯男流感重症插管！醫提醒肌肉不是免死金牌 出現「惡化警訊」快就醫",
+      "published": "2026-10-05T14:38:00+00:00",
+      "summary": "年輕壯男流感重症插管！醫提醒肌肉不是免死金牌 出現「惡化警訊」快就醫&nbsp;&nbsp;Yahoo新聞【有影】50+共病族群如何慎防流感？流感重症不只看年齡 共病與免疫能力也是關鍵&nbsp;&nbsp;Yahoo新聞年輕肌肉男「少做1事」 得流感急送ICU搶命！醫：很多人輕忽&nbsp;&nbsp;三立新聞網SETN.com流感痊癒別大意! 警覺肺炎鏈球菌 接種疫苗提升保護力&nbsp;&nbsp;民視新聞網一場流感，可能讓長輩失去自理能力！50歲後防重症，這件事別拖過48小時&nbsp;&nbsp;50+全國最大熟齡媒體",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQWTNzU0lFY1UwbjJIOU9FYWZVVVZtb1hHdHdYWXY1SGZqdjhfTi03eU52TmRjVERsdFYxZk1maHZRV25YZExLYW1NSWRfZjVNTThCQ2JPU1ZpR1BkdHRfSGFmUEFZTWh1V3gyRVhDVWFkaGhJNjRvdEJjTDdNTEpzY01ldkcwbFJhYlI3RW9FLTRwV1V5X0wwY3NfNzVveVJsWHBjTlg2Q1ZoYVZveDRxUERYLVN5cFE3N2ZtdDluNVhrTGMtT1N0dW5YNXdBYjAyY1p3LVlWZjFVaTRneEstWThIbDk1ZFNyVEllWDlCTTNyNVNpYWZySUFuRXNYelZVZVVFNENTd053Tjl0YW1hNmdHTGhoYlozdUhUVUhsUUhNcE16SEMydHR0TzhZbEFadDloWkxLWG1IVTZaMEk2RHRqMjl1ZG9ncVhoNWNjYjFqWHhNdl8zby02cy1nR1QyNW93Yy0xY084RzI0cl9GTDR4Q3k3dFprYndZY25pS2NrQUZEaHpJM05KcndtbFY2UEFWSjZMdU1rX2hqb2RmWl9icXJuSEZJMWEzNDJXa0NyMUFPa19pZklJMEpMVGJM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "cephalexin",
+              "name": "Cephalexin"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "24fe2a7de8c8",
       "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？",
-      "published": "2026-10-05T08:21:01+00:00",
+      "published": "2026-10-05T06:00:01+00:00",
       "summary": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
@@ -763,45 +924,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "348d04eda613",
-      "title": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略",
-      "published": "2026-10-04T08:11:00+00:00",
-      "summary": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略&nbsp;&nbsp;東森新聞流感來勢洶洶全年恐中招！3歲童未接種疫苗高燒住院 醫：怕打針可選「鼻噴式流感疫苗」&nbsp;&nbsp;PChome Online 新聞園遊．杏林｜一文破解流感疫苗迷思 快快打針共築健康防線&nbsp;&nbsp;香港01長輩別怕！流感疫苗80年安全驗證 疾管署籲接種：打一針護全家&nbsp;&nbsp;TVBS新聞網醫生說你在呼吸道病毒流行季可能需要接種哪些疫苗&nbsp;&nbsp;MTGamer",
-      "sources": [
-        {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RSnJZVXhkRVdjWTJIUXpHVnJqVmlWakozWkNaUkRUWHNfbzNIWldoemRCQ3p0T3FYWHBiUjYzUHFLYWFMRWtueVZQbXZYUFpDcEZ4eA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7dd72beeaef2",
-      "title": "第二型糖尿病能逆轉嗎？研究逾半患者半年達緩解 但這方法別自己照做",
-      "published": "2026-10-04T07:43:49+00:00",
-      "summary": "第二型糖尿病能逆轉嗎？研究逾半患者半年達緩解 但這方法別自己照做&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWE9fUnhmSzlPME15X1U3cVN2Sm1YZ1c1dFJnSTlqX1E5VkY4a09rc2pIdk9Ib2E2R21yRGYxR3JEWHN3em9qUGo0a2hmOGxicGU3dFhCTFpTaFpUT25qNDRkSnZ3OXlFXzhwN0xpbHctRUE1bG1oNmJXc1ZnQWxXaUJ30gFiQVVfeXFMTVdrd3hkVERUR1phRWFvYWEzeTFvWDlra0FNbmlrT0k5OVQ3WDFaOWt4N1dETjdLVVFMRW5xY21QQlVWMk9VQWNpbkVfTTZPb2hoTHN1bm5tbFZ5Vk5DdzhSLUE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a31bb89282b",
-      "title": "6個月至3歲幼兒流感疫苗改規則！曾打1劑今年也要2劑",
-      "published": "2026-10-04T06:49:19+00:00",
-      "summary": "6個月至3歲幼兒流感疫苗改規則！曾打1劑今年也要2劑&nbsp;&nbsp;中天新聞網",
-      "sources": [
-        {
-          "name": "中天新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrZlRCRENrSzkxd01fM1hiWWJVakVOSGM3TVljMWx2UHJDazRaeVJVT0FTMk05c3pBNTRseGUzbXJ4WloxMVRrR0ZydkN6bnpIQklv?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
