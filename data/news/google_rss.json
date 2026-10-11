@@ -1,53 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-10T23:59:37.487918+00:00",
-  "count": 43,
+  "fetched_at": "2026-10-11T04:51:39.410536+00:00",
+  "count": 42,
   "news": [
     {
-      "id": "9022104534ae",
-      "title": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵 - Yahoo新聞",
-      "published": "2026-10-10T03:51:54+00:00",
-      "summary": "別只吃藍莓、魚油想抗發炎！營養師：均衡多元飲食更關鍵&nbsp;&nbsp;Yahoo新聞健康網》「抗發炎」很簡單 營養師建議這樣吃&nbsp;&nbsp;自由健康網發炎控制了還是痛？專家：憂鬱、睡眠、肥胖問題是隱藏因素 | 科技新報&nbsp;&nbsp;LINE TODAY發炎是慢性病的隱形推手- 健康新聞&nbsp;&nbsp;PChome Online 新聞醫藥短波／抗發炎 變熱門 飲食是關鍵&nbsp;&nbsp;世界新聞網",
+      "id": "dbcdf4408da0",
+      "title": "連假一過「3病人」激增！塞車憋尿釀大禍 見7症狀快就醫 | TVBS - LINE TODAY",
+      "published": "2026-10-11T01:01:43+00:00",
+      "summary": "連假一過「3病人」激增！塞車憋尿釀大禍 見7症狀快就醫 | TVBS&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPS1RfbEJCbmxReVVLc29DYkpNSHNPNUVuY1Nka1F5OGpYWUJMVUwzR0l1LVlqbW50cWV1clhJYW5tVnFOTko5WlZJVlZFZlNJdklKZFZtV0F5STB3NTUxR2ZVUWNpeGd2N0xDYXJya0NVOEVRaFdtVlhwNWI0dVVaUDRYc1k3MjRuX29RU3k2bTBSdnZOT0lEdEdNVUpKd3NablgzMG9kQUJsS2lZZnZWWVRCN0dWRFFyMTVQTmxvU1htVnhrVy1DeDUzczJUTWJDM0NUTkRudEFncGJQRXc2OW1IS2hiTHhrTWhyUHZ4Y2EyejVIWFVZTnNSWlc4dXlzVG55bGhqUlF0OGdOVUhYaXhKQVZLNmNFMEtsRTQtQ2ZSYXZqRlh6ZnhLbFJPTU9sVWdTeWRCRnUtM09KSGpLUFZlYXZxVEJsQ1poems4a01hemt5TVpROWEyWXZoLVAtaGdDVzQ0YjlEYUk?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oaGl1SDFZdzAzN2RkTTVBNUlneDczY0M2M0JkR1R3NFlsMzg1LTBDdXVkTkZvLWNOM0lKaVNGZXBNemV6WlRjbWNyYTZUZ0h2SU5ueHRn?oc=5"
         }
       ]
     },
     {
-      "id": "0cd3cf11c9f7",
-      "title": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防 - 風火輪傳媒有限公司",
-      "published": "2026-10-10T11:34:05+00:00",
-      "summary": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "3fb05c5e91e5",
+      "title": "抗衰老飲食｜防老人病40歲起要打底？醫博士推4飲食要訣起床1杯水 - 香港01",
+      "published": "2026-10-11T04:00:26+00:00",
+      "summary": "抗衰老飲食｜防老人病40歲起要打底？醫博士推4飲食要訣起床1杯水&nbsp;&nbsp;香港01藍區vs.地中海飲食 差在哪？哪種更有助健康老化？&nbsp;&nbsp;世界新聞網50歲後吃什麼更長壽？哈佛30年研究揭密「這7種食物」&nbsp;&nbsp;Harper's BAZAAR營養師揭長壽飲食真相！地中海、DASH飲食不用照單全收，吃對「這些」更重要&nbsp;&nbsp;Cosmopolitan長壽專家指 百歲人瑞比例高地區有3種常見飲料&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "風火輪傳媒有限公司",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPaFNtalhzaUd1WDdrSERsQWhaMGN6NlVITmlZcDVDcnU4alo3ZGZfRmMtT0E5SHFtWGNSTUhabXJSWHcwZFFqajgzLTlFeTc5TkNBeThpcHM3RmNwYVFTYkpMbGkybVR5ZlZzM2FVeVNHdDFlNGhyNFd0Zl9WX3FmSHVxMlRTT19MWDRHQnBXUC1PLVd0c1V0WUx6N2F6bEIxdW00QWJpakRjLV9vOEdTVDZRZ19idG5hTndlR1FqN2dVNXpfdF90M0xCdHBYUTV0czFaU2dVQ3FkUzNDVWNUQkZTaVo2WTUxXy1vOUt0MURLb1dRendSYkZJclJseFQxMFVDTUMwNUtydlF3RktGWWFrRWtPM3JGSWljc2FRUmpQU0FQYUFxNjBCcVFsMnpmdGp5dUFMbHIzWlZ5NXRJQlBjbEZpNHFLSVZYR2N5ZVRmWE9LcDNITW0xdFpEWl9lNnBLTERKTXVVNmJPczhUMmhNaFRuUkRKUGw3RUZrN2lfTkZ6MC1RXzJXSEgyS0lWajRzSFNldkRhVHNCeVViVjhiU1RQb3A5cF9sZHcyZEUxVjRBZlE?oc=5"
         }
       ]
     },
     {
-      "id": "b04021f492be",
-      "title": "3歲童臉上冒出「菜花」 元兇竟是阿公！醫揭「1生活習慣」釀禍 - TEEPR 亮新聞",
-      "published": "2026-10-09T02:50:57+00:00",
-      "summary": "3歲童臉上冒出「菜花」 元兇竟是阿公！醫揭「1生活習慣」釀禍&nbsp;&nbsp;TEEPR 亮新聞3歲弟弟臉上長菜花？醫揭恐怖感染源頭：阿公的錯&nbsp;&nbsp;Yahoo新聞3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵&nbsp;&nbsp;UDN一家共用毛巾！3歲男童臉長「菜花」感染源竟是阿公&nbsp;&nbsp;東森新聞3歲童臉冒菜花阿公害的醫揭全家1習慣惹禍- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "280827c2c7aa",
+      "title": "3歲弟臉上長菜花　竟是阿公去紅燈區「全家共用毛巾傳染」 - ETtoday健康雲",
+      "published": "2026-10-06T22:56:00+00:00",
+      "summary": "3歲弟臉上長菜花 竟是阿公去紅燈區「全家共用毛巾傳染」&nbsp;&nbsp;ETtoday健康雲3歲弟弟臉上長菜花？醫揭恐怖感染源頭：阿公的錯&nbsp;&nbsp;Yahoo新聞3歲童臉上長「菜花」！阿公竟是傳染源 醫曝全家習慣是關鍵&nbsp;&nbsp;UDN一家共用毛巾！3歲男童臉長「菜花」感染源竟是阿公&nbsp;&nbsp;東森新聞3歲童臉冒菜花阿公害的醫揭全家1習慣惹禍- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "TEEPR 亮新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkRReWo4aksxYnNULVdPLXRIZ1dXMkpKWGtkS21pdzJmWl9QSnd3U2lMLWdlTkN0SXQ5U1ZoLU15YkE5QkZhYktrcEY4VVFQb29nV0gwaHVpNWpzMGRWOWRyM2E1ZThqUmd0dFZrSnBmUUNtVnBwbTBUdTRHMDEtWVJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3a5baa291d6",
-      "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰 - 行銷人",
-      "published": "2026-10-10T08:49:26+00:00",
-      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNOUhsSXBhazRndkdNbWFvU3JCcjdoQzB3M1RhNDVmdmp1cWhFRFZkYmloZHdOZDBnSUtEZUxXUnZnYU5TeTlSZ2xaUG9VS1ZqaThmelVsMDlPZjRtQjB4WGhDS3luRHUxMFUzYnNvOUNCMWdfOHB6ZEVwVjdJNUh0SkxYamg0VjBlbzdici1wTmliUnk0cUdOOHpKUmwwSjl2a3J6Y2k5amRPXzUtREVHcGUydTNoX3FWX0xwUlVSekgxWU81Ry1wcFRzSk9taG92b01USEMtRHVqODhSc1MtWFpIMjdfVnNNcVUxSFRPbzE1NmhrMDMzdW1ISG53WHNFQUluZGttUUFXY2tPeTlKbEZ6UDdYeDRBbTFvMC1TRmtDY1o3SzlRRTJqR1RhM2VIMXBlSThQeHZyZWs0TERoZ2RTZzBJbmlZVEZvemVLLVo2bEN3Rnhxdm45S0pxYjc3LUtsbWk4UmRMdl9nYW0wc3FGZG1LQXlfY2tJUUtYZ2NoVUlHRXNj?oc=5"
+          "name": "ETtoday健康雲",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40SjdjbHBpd0R3MXN0RlVnQkl2MWVaTXpRMElEVXh2M0NrbUZXSEpES0xEMnI2SGNMZEdlbmkyOGtnTFpOS1oyWUh3VlByMF9i0gFPQVVfeXFMT0NYUjhUeFoxTWwyY2d3RXJTZC1CbW4zRnJYU1BRUW5XVjAzNXpEcmRuQmIwa0F5U2Jlcy02ZGduWmFvVllDR0Q2WThscjQxMA?oc=5"
         }
       ]
     },
@@ -64,14 +52,50 @@
       ]
     },
     {
+      "id": "f3a5baa291d6",
+      "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰 - 行銷人",
+      "published": "2026-10-10T08:49:26+00:00",
+      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNOUhsSXBhazRndkdNbWFvU3JCcjdoQzB3M1RhNDVmdmp1cWhFRFZkYmloZHdOZDBnSUtEZUxXUnZnYU5TeTlSZ2xaUG9VS1ZqaThmelVsMDlPZjRtQjB4WGhDS3luRHUxMFUzYnNvOUNCMWdfOHB6ZEVwVjdJNUh0SkxYamg0VjBlbzdici1wTmliUnk0cUdOOHpKUmwwSjl2a3J6Y2k5amRPXzUtREVHcGUydTNoX3FWX0xwUlVSekgxWU81Ry1wcFRzSk9taG92b01USEMtRHVqODhSc1MtWFpIMjdfVnNNcVUxSFRPbzE1NmhrMDMzdW1ISG53WHNFQUluZGttUUFXY2tPeTlKbEZ6UDdYeDRBbTFvMC1TRmtDY1o3SzlRRTJqR1RhM2VIMXBlSThQeHZyZWs0TERoZ2RTZzBJbmlZVEZvemVLLVo2bEN3Rnhxdm45S0pxYjc3LUtsbWk4UmRMdl9nYW0wc3FGZG1LQXlfY2tJUUtYZ2NoVUlHRXNj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0cd3cf11c9f7",
+      "title": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防 - 風火輪傳媒有限公司",
+      "published": "2026-10-10T11:34:05+00:00",
+      "summary": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "風火輪傳媒有限公司",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9137404b1185",
       "title": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-10-06T04:16:23+00:00",
-      "summary": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網她懷孕30周要出國「沒發燒中A流」 醫快篩驚：救2條命&nbsp;&nbsp;ETtoday健康雲孕婦沒發燒只咳嗽流鼻水！醫一聽「明天要出國」急做快篩 竟揪出A流 | CTWANT&nbsp;&nbsp;LINE TODAY一次診救兩條命孕婦懷孕30周要出國 中A流被醫篩出- 生活&nbsp;&nbsp;中時新聞網孕婦感冒隔天要出國！快篩竟「揪出A流」 醫驚：救2條命&nbsp;&nbsp;三立新聞",
+      "summary": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網她懷孕30周要出國「沒發燒中A流」 醫快篩驚：救2條命&nbsp;&nbsp;ETtoday健康雲孕婦沒發燒只咳嗽流鼻水！醫一聽「明天要出國」急做快篩 竟揪出A流 | CTWANT&nbsp;&nbsp;LINE TODAY一次診救兩條命孕婦懷孕30周要出國 中A流被醫篩出- 生活&nbsp;&nbsp;中時新聞網孕婦感冒隔天要出國！快篩竟「揪出A流」 醫驚：救2條命&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
           "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "490b90cbcbef",
+      "title": "《肝炎》nChroma Bio 創新表觀遺傳沉默療法 CRMA-1001，如同按下 B 肝病毒「靜音鍵」，三劑可使 90% 肝炎小鼠病毒歸零 - 生技投資第一站-Genet觀點",
+      "published": "2026-10-06T04:24:52+00:00",
+      "summary": "《肝炎》nChroma Bio 創新表觀遺傳沉默療法 CRMA-1001，如同按下 B 肝病毒「靜音鍵」，三劑可使 90% 肝炎小鼠病毒歸零&nbsp;&nbsp;生技投資第一站-Genet觀點",
+      "sources": [
+        {
+          "name": "生技投資第一站-Genet觀點",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NVW1nMjNWMGFFeGQ4aFNsZmFZZ2NVejlvMl8xSERPSXc2ZU43bm83SGx3cVFlQW9NWFNfdm16c0lCQkc0TlB1MGJtS2syeGhyMVJnQzZwRnpQVXNKQ1BnY3BGS3hXa2RPclpMVQ?oc=5"
         }
       ]
     },
@@ -96,18 +120,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPbUNSc1M4cVo4MlZrSkxxbkpKOGZnVkVnR3NZaENDMmZma1ZtWmpYejFHMXN6NWNOcEZETkRQUWVHOG5KRk9wYk02SDVIWGJDd01lQ1RTU1E1dVdPOE9mRTVFSlhUcEhnbmdVa2xxbUFFVTYyejg5alhnV1BOTmlhNDAwMjV1YzVmM2RnNkRDNnVuQWE3Ry1FVHNwOUUtNmtMUGhkTVMwc3hhRHRyRmFrVXpKeEJ3WW0zeWp3TEVMNmJ1cUpUU3pDeGQ0WlRRdVM3dF9rVEZCakZlN0Rwa0dMOHFiN3AwWUdqV1lIcnJuemxnb2Y0YUU5dDVwUWxHWkp0WHo1Nlo0eEVzb1dfNWNUcXJ3Vkw5aHcwSUhhZmRZYjlzOHAwM2pidWhSaV9jckJ5Y3dWM1ZyRFJpdl9mc2pFUUwyNjRvbzlLVjFBcnNQVzNIdUstZFo2UjhTZVdESzlhNWVmU3VZcEdHbFR5ZmNhZzRfNHduOTB6YVBSNjJiVWlyeXhNd2FLbElQZWh5SFNtazl2UkVUd3JqcHBaVWVRaXRfWC1iUE1tT2FpemNaR1g4WUJOMWxZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "490b90cbcbef",
-      "title": "《肝炎》nChroma Bio 創新表觀遺傳沉默療法 CRMA-1001，如同按下 B 肝病毒「靜音鍵」，三劑可使 90% 肝炎小鼠病毒歸零 - 生技投資第一站-Genet觀點",
-      "published": "2026-10-06T04:24:52+00:00",
-      "summary": "《肝炎》nChroma Bio 創新表觀遺傳沉默療法 CRMA-1001，如同按下 B 肝病毒「靜音鍵」，三劑可使 90% 肝炎小鼠病毒歸零&nbsp;&nbsp;生技投資第一站-Genet觀點",
-      "sources": [
-        {
-          "name": "生技投資第一站-Genet觀點",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NVW1nMjNWMGFFeGQ4aFNsZmFZZ2NVejlvMl8xSERPSXc2ZU43bm83SGx3cVFlQW9NWFNfdm16c0lCQkc0TlB1MGJtS2syeGhyMVJnQzZwRnpQVXNKQ1BnY3BGS3hXa2RPclpMVQ?oc=5"
         }
       ]
     },
@@ -151,7 +163,7 @@
       "id": "7a976962a125",
       "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - Yahoo新聞",
       "published": "2026-10-08T01:43:16+00:00",
-      "summary": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位&nbsp;&nbsp;Yahoo新聞",
+      "summary": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -232,6 +244,18 @@
       ]
     },
     {
+      "id": "42d5d8e84925",
+      "title": "三寶媽優雅有術》孩子親眼看見公園衝突後 先別急著告訴他「誰對誰錯」 - 觸mii",
+      "published": "2026-10-06T04:00:30+00:00",
+      "summary": "三寶媽優雅有術》孩子親眼看見公園衝突後 先別急著告訴他「誰對誰錯」&nbsp;&nbsp;觸mii",
+      "sources": [
+        {
+          "name": "觸mii",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yOHVvOFMyRy12cVVaUXFSaTNZeFdfMkNvTnpqNEozUmpvYUhSYUg3TDVGUFNKU1Z1SXR4TkpoLVliNmZtbUpXRTVQU1NGN0hKbTJEMHBUS2pTellaS05GaUxleHhyYWM5V0ZUUA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "348d04eda613",
       "title": "流感季即將來襲！打疫苗怕副作用？關於接種必知的防護攻略 - 東森新聞",
       "published": "2026-10-04T08:11:00+00:00",
@@ -256,18 +280,6 @@
       ]
     },
     {
-      "id": "0bb823aa4442",
-      "title": "標靶與基因檢測 告別沉默殺手威脅 - 報新聞",
-      "published": "2026-10-06T02:11:05+00:00",
-      "summary": "標靶與基因檢測 告別沉默殺手威脅&nbsp;&nbsp;報新聞",
-      "sources": [
-        {
-          "name": "報新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUSDdmX2JXQlhPcU1nTF81bzBlRnlWMmhnSmw2aGhVWnpiNUROWUhLOEpkUE1KdnN4M0w0V19ONHdSblR6aEg2d1hfYVIyVlVqYnNld2tRX05sX2FFQkZ4d2UyUmNwdW9RMnBnag?oc=5"
-        }
-      ]
-    },
-    {
       "id": "24fe2a7de8c8",
       "title": "阿嬤最怕孫子看到針就哭！過敏、夜尿、過動…沒有針的「雷射針灸」為何受到關注？ - Yahoo新聞",
       "published": "2026-10-05T08:21:01+00:00",
@@ -276,6 +288,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQOGxFazBMQkRiVWFDbDZrMzNueUw0T0duRzVibHUweW9Ua2hYVWJEZDVUbE5HT0NpYkNtakFVeWkyNkJVYmxmRGE3cDRrMkpMR3NabjROZTlUOC1xM0FNWGJfc0p0ZVllcTRSQzVydTdaX2tJbURYcFR6ZFhYTExjclhQcEtvdWVoWlBOUzREandQak13eEtXTFd2NEgtREdUZEhYc1VsNEdQVU8zMDQ3MG1RZmFSNkVzS2ItSVExS1gtWjctVVoxUnl5cE91THUwQlZfc051TUtFZ3A5c3pITFE1U1dWNk1ITk0xdGkyY2pBM1ZCUmUzT0Z5YnV6QXV2RlkyYzMwbGhGdXBJMU50dkJ1LVUtSmFjWWhnV2xONDd1ZGlCY1N5Zm9VSXVFRy1ialN2VUljM0FSamFfRkR3b0JPTk56dVFwWWZtN2YyVjMySGw0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bb823aa4442",
+      "title": "標靶與基因檢測 告別沉默殺手威脅 - 報新聞",
+      "published": "2026-10-06T02:11:05+00:00",
+      "summary": "標靶與基因檢測 告別沉默殺手威脅&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUSDdmX2JXQlhPcU1nTF81bzBlRnlWMmhnSmw2aGhVWnpiNUROWUhLOEpkUE1KdnN4M0w0V19ONHdSblR6aEg2d1hfYVIyVlVqYnNld2tRX05sX2FFQkZ4d2UyUmNwdW9RMnBnag?oc=5"
         }
       ]
     },
@@ -304,50 +328,26 @@
       ]
     },
     {
-      "id": "dd4eff191a7f",
-      "title": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子 - 商傳媒",
-      "published": "2026-10-05T23:15:00+00:00",
-      "summary": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子&nbsp;&nbsp;商傳媒",
+      "id": "4ccd9eee8ba5",
+      "title": "健康網》腰痛竟與珍奶有關！研究揭每天喝糖超過200大卡 下背痛風險增 - 自由健康網",
+      "published": "2026-10-04T12:24:00+00:00",
+      "summary": "健康網》腰痛竟與珍奶有關！研究揭每天喝糖超過200大卡 下背痛風險增&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQMlktZzlfdnNnRnpoMWZfTEMtTWExU1hwWEZPdmllcjRMWWdPZkYxQ3V4V29FWUQ4SmNvbzk0Z1ppS1gySlFlQU04bEVpb3dPLWltQVBCZWxpel9TV2QzUzNmeVJpN1N5MVpsRGRHdGtTd1gzcFE4ZjVDajMyZTRZSXNhbEVLTjdTQTR6NURmMzdEc1N4T0xaZWZBcG9JRkk4bVpNZGdfVl9nckxJMmhCTFNBeFZUbHVqVXJzX2dLUG00d1FJYVZfN3M1ZkQyMXhCWnVfemtILXhEa21Wc002Y1YySFVhTC1uSll6aGVxX3FjWGtpd3pJdDBPQ1ZDY3g1cndsc2Y3d3JsTEg4ekxJWlRoeVVrSWZXS0lNeGJfamlvMm5aVmdZYVN5Y2lKRC1JSjFDR2wtbE9KLTJnbkd4LWVleFl6MmtxLXhQcVRYSnJkQ1AwYVV1cTc3eFJ6MWJvajdPbGdDZ05IWnRvSldZYm0wdFpuanRtQ2FKQ3ZHdUlMTE5Va3RvRThXb2lwN0FJSGdoRW1ySHFqWW5PSEdMZXpTVFRpbjlCRUdGdHdaNUdhRThfZUo3ME5kUWw5UQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JX2xSc3NTbi0tLVpBYXRIRjA5TDJVUnV6akNHcmV4aDhGdVNhelRLWGRERWN5VTJzSmMwTnllcDNDWGc4d2ZmaV9vaXlQNkdtbGdfS001NzlXU2dhUU1ETDRvUkY?oc=5"
         }
       ]
     },
     {
-      "id": "dc918cfe3cbf",
-      "title": "腰痛別只怪姿勢！椎間盤退化「最猛元凶」現形 研究：風險飆高111% - Yahoo新聞",
-      "published": "2026-10-09T00:01:40+00:00",
-      "summary": "腰痛別只怪姿勢！椎間盤退化「最猛元凶」現形 研究：風險飆高111%&nbsp;&nbsp;Yahoo新聞",
+      "id": "3a31bb89282b",
+      "title": "6個月至3歲幼兒流感疫苗改規則！曾打1劑今年也要2劑 - 中天新聞網",
+      "published": "2026-10-04T06:49:19+00:00",
+      "summary": "6個月至3歲幼兒流感疫苗改規則！曾打1劑今年也要2劑&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNRV91aWV3WHZYSHBqM05qVDVyTnVWcmViT2xVb1hhRm5hNEpiVEdXU0VRWjhHUE5Tcm1yRW52RWNadFY1bnI1UFRSZm5PNFVUTEY2QUlYTHh6RFBzTkk1NE5qZkUwRS1mLVcyUDlzaGlUVGhsUWp0QklIM2xhWkMxdjNTbXEyVHNybmhucDR5TGd2dVNPaDJIc2h6TDNFTDdralNJLWx4cElEUzBxdjhMSFpYcXBEcmhYdC1JMFJJano2dFlTRzhwbzNNLWFEczlhaXg1Z2hCODlpaldHNUpZczFDTWNBTVVPbW9tLVFVUHppR3lza3M3aGMtZUE1MDY4Y2dfakJya012NXRSYVRmUG8xejJIYThyVXVPX3hRTnBoSl9TdGVTenhyaGdncDJYN0o3WDlrbW1WeXZ1dG1GMkY2eUpIekhN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e776b28f5e4a",
-      "title": "幼兒流感疫苗新規定　3歲以下「曾打1劑」今年要打2劑 - ETtoday健康雲",
-      "published": "2026-10-04T01:26:00+00:00",
-      "summary": "幼兒流感疫苗新規定 3歲以下「曾打1劑」今年要打2劑&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RdW15S3lfTWtRcTZfaHBtOU16bjg4TG44SmktZWJ5Unp4cG5mYW5oa1FQMjZqYmZXb3RpS1V5ZlAtMjRwVjIxdlVId2dIR0hy0gFPQVVfeXFMUHVpbC1CNVc2Ui1MMnVMMHZhR05NVEc3Yy1NcW1BSVJaTDZKTExEbkFOYTZsMDdSYkl6MmFGbzlUajdCM1JrZjdlclZvUGRJYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "71b1c10cbdac",
-      "title": "佛州登革熱疫情感染升至252例 1人死亡 - 大紀元",
-      "published": "2026-10-04T02:35:00+00:00",
-      "summary": "佛州登革熱疫情感染升至252例 1人死亡&nbsp;&nbsp;大紀元據報道，佛羅裡達州爆發的登革熱疫情是美國數十年來規模最大的一次。&nbsp;&nbsp;MTGamer",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RVEk5Z0w5SThKdElTYWE1dTdfbmtXdnhPdHYwa0VTZG9hdVhjeHdSV0ZlVzdUS1F3QTZRbFVSdThzdVpjcjZheXJpRTMxZWhqSVlVVDJTWkhfVHhuOTRET9IBZkFVX3lxTE9YZXlUREJQVmJQazRIMFBaUkFTbHowdkNROFJMUzVIZ0M4V1Z4cVZUTE55M3lpeDNPM2ExVTdXbU1weF9HeTJlLW1nS1lBSXQyMnRfRlg1cHRlUXk1djI1U1Fpb0JkQQ?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrZlRCRENrSzkxd01fM1hiWWJVakVOSGM3TVljMWx2UHJDazRaeVJVT0FTMk05c3pBNTRseGUzbXJ4WloxMVRrR0ZydkN6bnpIQklv?oc=5"
         }
       ]
     },
@@ -376,18 +376,6 @@
       ]
     },
     {
-      "id": "3ffb19dfdebd",
-      "title": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-10-09T14:11:16+00:00",
-      "summary": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42anhIbTY1VlZjdmxBRkFONGlwNkJGZWNWaUd3X3RSS0NIbHBHZ21YNEkyX3MxT3J6emN6WVhxdmptUkdSNEk1T2JXQlJmckJxS3Zrc19JVE5qN2t4Q0ZqNktKVHB3U3U4QUFYeG9OM1M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b51f3e8edd16",
       "title": "破50年紀錄！洛杉磯驚現狂犬病浣熊 - Singtaousa",
       "published": "2026-10-09T19:22:04+00:00",
@@ -400,6 +388,18 @@
       ]
     },
     {
+      "id": "3ffb19dfdebd",
+      "title": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-10-09T14:11:16+00:00",
+      "summary": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
+      "sources": [
+        {
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42anhIbTY1VlZjdmxBRkFONGlwNkJGZWNWaUd3X3RSS0NIbHBHZ21YNEkyX3MxT3J6emN6WVhxdmptUkdSNEk1T2JXQlJmckJxS3Zrc19JVE5qN2t4Q0ZqNktKVHB3U3U4QUFYeG9OM1M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2f2d19634730",
       "title": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康 - 人民网-福建频道",
       "published": "2026-10-09T08:45:00+00:00",
@@ -408,18 +408,6 @@
         {
           "name": "人民网-福建频道",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85a6319ec588",
-      "title": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！ - PeoPo 公民新聞",
-      "published": "2026-10-09T01:00:00+00:00",
-      "summary": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！&nbsp;&nbsp;PeoPo 公民新聞",
-      "sources": [
-        {
-          "name": "PeoPo 公民新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jbWVhMmpELUs5dUJsWjhydHBNUno1QUd3WjcyQ1lIVkJGekE5RXBETUZoRUtSVDNlTjQ5T1Z6dk9Fc3dLdklqZA?oc=5"
         }
       ]
     },
@@ -448,6 +436,18 @@
       ]
     },
     {
+      "id": "85a6319ec588",
+      "title": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！ - PeoPo 公民新聞",
+      "published": "2026-10-09T01:00:00+00:00",
+      "summary": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！&nbsp;&nbsp;PeoPo 公民新聞",
+      "sources": [
+        {
+          "name": "PeoPo 公民新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jbWVhMmpELUs5dUJsWjhydHBNUno1QUd3WjcyQ1lIVkJGekE5RXBETUZoRUtSVDNlTjQ5T1Z6dk9Fc3dLdklqZA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "445dcb665c29",
       "title": "不同國家女性更年期症狀差異巨大 - 大紀元",
       "published": "2026-10-07T19:00:00+00:00",
@@ -468,18 +468,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQLVdTWjJBYm1CMHFzZ2tkWW9jeWczdVRLUTdwSmJxTzNuTFRtU0hLb21fbFhURzJ6REMyTG5TbTA1Q3pCOUhFT1hkWFRFMnpXYW56S1RaZy1BNUo2c3lPMVF5RFc0czFCMFNncDVoTkxaQ0lQMzR5VkF0dTdqVkhqUlh6UnVYa2M3c2JYQUdHMVdlTjBrb0lmMHNoS1NRTTNEdHpoOU85YlRfQTJ0elFtR3Q2TmxRb1JXVUsyVExZTUpkOGVhQWNwMUVQX2R3NmZMLS1PYzJpQnZDYllkUUxpanVzdlQ4SGk0amYyc210dk9MdTR1RGU2eFp1UEdrUTJVV2NJZnNoRy1oazcwTldBSFpxR2xyVmZrYnRKRm1rX19sdlR3aV82ODRCNjVxeS1KMUd2Y0dySWUwU2xQSGpqcE9KZEw2b0FVTUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55ad2336f4a9",
-      "title": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要 - 香港01",
-      "published": "2026-10-04T02:00:19+00:00",
-      "summary": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5"
         }
       ]
     },

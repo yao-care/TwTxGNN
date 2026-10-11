@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-10T23:59:39.699679+00:00",
-  "count": 12,
+  "generated": "2026-10-11T04:51:42.865091+00:00",
+  "count": 11,
   "news": [
     {
       "id": "77a3ccdc7890",
@@ -357,78 +357,32 @@
       ]
     },
     {
-      "id": "dd4eff191a7f",
-      "title": "英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子",
-      "published": "2026-10-05T23:15:00+00:00",
+      "id": "4ccd9eee8ba5",
+      "title": "健康網》腰痛竟與珍奶有關！研究揭每天喝糖超過200大卡 下背痛風險增",
+      "published": "2026-10-04T12:24:00+00:00",
       "sources": [
         {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQMlktZzlfdnNnRnpoMWZfTEMtTWExU1hwWEZPdmllcjRMWWdPZkYxQ3V4V29FWUQ4SmNvbzk0Z1ppS1gySlFlQU04bEVpb3dPLWltQVBCZWxpel9TV2QzUzNmeVJpN1N5MVpsRGRHdGtTd1gzcFE4ZjVDajMyZTRZSXNhbEVLTjdTQTR6NURmMzdEc1N4T0xaZWZBcG9JRkk4bVpNZGdfVl9nckxJMmhCTFNBeFZUbHVqVXJzX2dLUG00d1FJYVZfN3M1ZkQyMXhCWnVfemtILXhEa21Wc002Y1YySFVhTC1uSll6aGVxX3FjWGtpd3pJdDBPQ1ZDY3g1cndsc2Y3d3JsTEg4ekxJWlRoeVVrSWZXS0lNeGJfamlvMm5aVmdZYVN5Y2lKRC1JSjFDR2wtbE9KLTJnbkd4LWVleFl6MmtxLXhQcVRYSnJkQ1AwYVV1cTc3eFJ6MWJvajdPbGdDZ05IWnRvSldZYm0wdFpuanRtQ2FKQ3ZHdUlMTE5Va3RvRThXb2lwN0FJSGdoRW1ySHFqWW5PSEdMZXpTVFRpbjlCRUdGdHdaNUdhRThfZUo3ME5kUWw5UQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JX2xSc3NTbi0tLVpBYXRIRjA5TDJVUnV6akNHcmV4aDhGdVNhelRLWGRERWN5VTJzSmMwTnllcDNDWGc4d2ZmaV9vaXlQNkdtbGdfS001NzlXU2dhUU1ETDRvUkY?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
+          "name": "gout",
+          "keyword": "痛風",
           "related_drugs": [
             {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol"
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
             },
             {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "55ad2336f4a9",
-      "title": "長者蛀牙加速腦退化引發中風！3大元兇減糖都冇用 1種營養最重要",
-      "published": "2026-10-04T02:00:19+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUnFObUtiOU5KbTJIQWtTMGhBWWVlbF9LMW1QLWVraExKZWVzSVFPNXVNSG5iM3kzZmtaOExwd3pET3Fhb19oYVd3MlZsaDBLREpjVGlpMU9YMXU1QnBKSWNveUNORm5lM1ZMVHBTZzdtRVZTeTlTQVAxRk1LTzlaZWpFNmNQSHVsclU3NWdZVkxKYmJZYkNuTWZLZGd4SktUU1pVMHpYSlpWaHdPZUlDSUNEQjlNVXFRQ3FlSmdsQXFDRV9uWktVQlpGVWYxaVpXbV9za0V4NklKYW93dndVeXVPYWFhaWJPNk12ckxaX0NGV0pwRWR2OU5UT1V4R3RaR1JIUVV2UnMtUURMQjRLZC1BdjlNRFMwRFJWZzBFMXpkajI5bjVGRmRsNTN5UzR4M1BtVlAxZnJtX0t0UFNoR0lCeWhxMjVPYlJnaldiN1NFOUNRQW1ad1NIV0k1Y2hmWElwTFBTU2RVWjZSMy1fWXpFOHNzNmstNV9LV0dZMUk3NF9LYXdXS0pZLVFXMElFd1FiTmZOMzBzMWtMMURJTkZyZjFueDB0b1VfdGJSUXp6QkFua1NMZC1LUVAtcVU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine"
             },
             {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine"
             }
           ]
         }

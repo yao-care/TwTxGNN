@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子](https://news.google.com/rss/articles/CBMivgNBVV95cUxQMlktZzlfdnNnRnpoMWZfTEMtTWExU1hwWEZPdmllcjRMWWdPZkYxQ3V4V29FWUQ4SmNvbzk0Z1ppS1gySlFlQU04bEVpb3dPLWltQVBCZWxpel9TV2QzUzNmeVJpN1N5MVpsRGRHdGtTd1gzcFE4ZjVDajMyZTRZSXNhbEVLTjdTQTR6NURmMzdEc1N4T0xaZWZBcG9JRkk4bVpNZGdfVl9nckxJMmhCTFNBeFZUbHVqVXJzX2dLUG00d1FJYVZfN3M1ZkQyMXhCWnVfemtILXhEa21Wc002Y1YySFVhTC1uSll6aGVxX3FjWGtpd3pJdDBPQ1ZDY3g1cndsc2Y3d3JsTEg4ekxJWlRoeVVrSWZXS0lNeGJfamlvMm5aVmdZYVN5Y2lKRC1JSjFDR2wtbE9KLTJnbkd4LWVleFl6MmtxLXhQcVRYSnJkQ1AwYVV1cTc3eFJ6MWJvajdPbGdDZ05IWnRvSldZYm0wdFpuanRtQ2FKQ3ZHdUlMTE5Va3RvRThXb2lwN0FJSGdoRW1ySHFqWW5PSEdMZXpTVFRpbjlCRUdGdHdaNUdhRThfZUo3ME5kUWw5UQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">高血壓</span>
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMivgNBVV95cUxQMlktZzlfdnNnRnpoMWZfTEMtTWExU1hwWEZPdmllcjRMWWdPZkYxQ3V4V29FWUQ4SmNvbzk0Z1ppS1gySlFlQU04bEVpb3dPLWltQVBCZWxpel9TV2QzUzNmeVJpN1N5MVpsRGRHdGtTd1gzcFE4ZjVDajMyZTRZSXNhbEVLTjdTQTR6NURmMzdEc1N4T0xaZWZBcG9JRkk4bVpNZGdfVl9nckxJMmhCTFNBeFZUbHVqVXJzX2dLUG00d1FJYVZfN3M1ZkQyMXhCWnVfemtILXhEa21Wc002Y1YySFVhTC1uSll6aGVxX3FjWGtpd3pJdDBPQ1ZDY3g1cndsc2Y3d3JsTEg4ekxJWlRoeVVrSWZXS0lNeGJfamlvMm5aVmdZYVN5Y2lKRC1JSjFDR2wtbE9KLTJnbkd4LWVleFl6MmtxLXhQcVRYSnJkQ1AwYVV1cTc3eFJ6MWJvajdPbGdDZ05IWnRvSldZYm0wdFpuanRtQ2FKQ3ZHdUlMTE5Va3RvRThXb2lwN0FJSGdoRW1ySHFqWW5PSEdMZXpTVFRpbjlCRUdGdHdaNUdhRThfZUo3ME5kUWw5UQ?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

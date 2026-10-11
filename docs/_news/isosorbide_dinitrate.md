@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [廈心醫院舉辦公益開放日 科普科學減重守護心血管健康](https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5)
 
 2026-10-09 <span class="news-indication-tag">心血管</span>
 
 來源: [人民网-福建频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5)
-
----
-
-### [英國研究示警：近六成高血壓患者未確診 心血管疾病最大風險因子](https://news.google.com/rss/articles/CBMivgNBVV95cUxQMlktZzlfdnNnRnpoMWZfTEMtTWExU1hwWEZPdmllcjRMWWdPZkYxQ3V4V29FWUQ4SmNvbzk0Z1ppS1gySlFlQU04bEVpb3dPLWltQVBCZWxpel9TV2QzUzNmeVJpN1N5MVpsRGRHdGtTd1gzcFE4ZjVDajMyZTRZSXNhbEVLTjdTQTR6NURmMzdEc1N4T0xaZWZBcG9JRkk4bVpNZGdfVl9nckxJMmhCTFNBeFZUbHVqVXJzX2dLUG00d1FJYVZfN3M1ZkQyMXhCWnVfemtILXhEa21Wc002Y1YySFVhTC1uSll6aGVxX3FjWGtpd3pJdDBPQ1ZDY3g1cndsc2Y3d3JsTEg4ekxJWlRoeVVrSWZXS0lNeGJfamlvMm5aVmdZYVN5Y2lKRC1JSjFDR2wtbE9KLTJnbkd4LWVleFl6MmtxLXhQcVRYSnJkQ1AwYVV1cTc3eFJ6MWJvajdPbGdDZ05IWnRvSldZYm0wdFpuanRtQ2FKQ3ZHdUlMTE5Va3RvRThXb2lwN0FJSGdoRW1ySHFqWW5PSEdMZXpTVFRpbjlCRUdGdHdaNUdhRThfZUo3ME5kUWw5UQ?oc=5)
-
-2026-10-05 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">高血壓</span>
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMivgNBVV95cUxQMlktZzlfdnNnRnpoMWZfTEMtTWExU1hwWEZPdmllcjRMWWdPZkYxQ3V4V29FWUQ4SmNvbzk0Z1ppS1gySlFlQU04bEVpb3dPLWltQVBCZWxpel9TV2QzUzNmeVJpN1N5MVpsRGRHdGtTd1gzcFE4ZjVDajMyZTRZSXNhbEVLTjdTQTR6NURmMzdEc1N4T0xaZWZBcG9JRkk4bVpNZGdfVl9nckxJMmhCTFNBeFZUbHVqVXJzX2dLUG00d1FJYVZfN3M1ZkQyMXhCWnVfemtILXhEa21Wc002Y1YySFVhTC1uSll6aGVxX3FjWGtpd3pJdDBPQ1ZDY3g1cndsc2Y3d3JsTEg4ekxJWlRoeVVrSWZXS0lNeGJfamlvMm5aVmdZYVN5Y2lKRC1JSjFDR2wtbE9KLTJnbkd4LWVleFl6MmtxLXhQcVRYSnJkQ1AwYVV1cTc3eFJ6MWJvajdPbGdDZ05IWnRvSldZYm0wdFpuanRtQ2FKQ3ZHdUlMTE5Va3RvRThXb2lwN0FJSGdoRW1ySHFqWW5PSEdMZXpTVFRpbjlCRUdGdHdaNUdhRThfZUo3ME5kUWw5UQ?oc=5)
 
 ---
 
