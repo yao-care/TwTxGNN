@@ -21,6 +21,7 @@
 - 資料來源：https://twtxgnn.yao.care/sources/
 - 資料下載：https://twtxgnn.yao.care/downloads/
 - 安全性資料：https://twtxgnn.yao.care/nav-safety/
+- 健康新聞監測：https://twtxgnn.yao.care/news/
 - 關於專案：https://twtxgnn.yao.care/about/
 - 引用與原始模型：https://twtxgnn.yao.care/about/
 
