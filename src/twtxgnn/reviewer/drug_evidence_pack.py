@@ -258,6 +258,8 @@ class DrugEvidencePackGenerator:
                 "drugbank_id": drug.drugbank_id,
                 "brand_name_zh": getattr(drug, "brand_name_zh", getattr(drug, "brand_name_th", getattr(drug, "brand_name", None))),
                 "original_indications": drug.original_indications,
+                # 本國藥證沒有適應症欄時，refresh_bundle_evidence.py 改用 KG 的 indication 邊補，來源要標對
+                "original_indications_source": bundle.metadata.get("original_indications_source") or f"{SITE_AGENCY} license",
                 "original_moa": drug.original_moa or "[Data Gap]",
             },
             "local_regulatory": {
@@ -267,6 +269,11 @@ class DrugEvidencePackGenerator:
             "safety": {
                 "key_warnings": self._has_package_insert(bundle).get("warnings", ["[Data Gap]"]),
                 "contraindications": self._has_package_insert(bundle).get("contraindications", ["[Data Gap]"]),
+                # TxGNN 知識圖譜（PrimeKG）的藥-病禁忌邊，不是仿單原文
+                "kg_contraindications": {
+                    "source": "TxGNN knowledge graph (PrimeKG) drug-disease contraindication edges, not label text",
+                    "diseases": bundle.safety.get("kg_contraindications", []),
+                },
                 "ddi": {
                     "query_status": "completed" if bundle.safety.get("ddi") else "not_found",
                     "total_count": len(bundle.safety.get("ddi", [])),
@@ -609,7 +616,7 @@ IMPORTANT: Write every free-text value (rationale, mechanistic_link, notes, clas
             f"| 藥物 (INN) | {drug['inn']} | |",
             f"| DrugBank ID | {drug['drugbank_id'] or '[Data Gap]'} | |",
             f"| 中文商品名 | {drug['brand_name_zh'] or '[Data Gap]'} | |",
-            f"| 原核准適應症 | {', '.join(drug['original_indications']) or '[Data Gap]'} | [來源：{SITE_AGENCY} 許可證] |",
+            f"| 原核准適應症 | {', '.join(drug['original_indications']) or '[Data Gap]'} | [來源：{drug.get('original_indications_source') or SITE_AGENCY}] |",
             f"| 原作用機轉 | {drug['original_moa']} | [來源：DrugBank] |",
             f"| 上市狀態 | {reg['market_status']} | {SITE_AGENCY} |",
             "",
