@@ -12,8 +12,12 @@ from pathlib import Path
 
 
 def clean_response(text: str) -> str:
-    """去掉 LLM 回應開頭的開場白與內部用語（產線後處理同一套規則）。"""
-    from ..regulatory.page_postprocess import strip_preamble, replace_jargon
+    """去掉 LLM 回應開頭的開場白與內部用語（產線後處理同一套規則）。
+    regulatory/ 只有 TwTxGNN 有；本檔由 sync_shared_code.sh 同步到各站，其他站沒有就原樣回傳。"""
+    try:
+        from ..regulatory.page_postprocess import strip_preamble, replace_jargon
+    except ImportError:
+        return text
     return replace_jargon(strip_preamble(text))
 
 
