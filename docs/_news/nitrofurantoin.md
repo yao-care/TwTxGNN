@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,28 +35,20 @@ permalink: /news/nitrofurantoin/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.7%)</li>
 <li>sclerosing cholangitis (99.6%)</li>
 <li>methemoglobinemia, alpha type (99.4%)</li>
-<li class="indication-matched">gout (99.4%)<span class="indication-tag">📰 痛風</span></li>
+<li>gout (99.4%)</li>
 <li>methemoglobinemia (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
 
 2026-10-08 <span class="news-indication-tag">關節炎</span>
 
 來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
-
----
-
-### [健康網》腰痛竟與珍奶有關！研究揭每天喝糖超過200大卡 下背痛風險增](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JX2xSc3NTbi0tLVpBYXRIRjA5TDJVUnV6akNHcmV4aDhGdVNhelRLWGRERWN5VTJzSmMwTnllcDNDWGc4d2ZmaV9vaXlQNkdtbGdfS001NzlXU2dhUU1ETDRvUkY?oc=5)
-
-2026-10-04 <span class="news-indication-tag">痛風</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JX2xSc3NTbi0tLVpBYXRIRjA5TDJVUnV6akNHcmV4aDhGdVNhelRLWGRERWN5VTJzSmMwTnllcDNDWGc4d2ZmaV9vaXlQNkdtbGdfS001NzlXU2dhUU1ETDRvUkY?oc=5)
 
 ---
 

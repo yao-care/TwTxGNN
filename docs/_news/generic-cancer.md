@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "腫瘤 (generic_cancer) 相關新聞"
+title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
-# 腫瘤 (generic_cancer) 相關新聞
+# 癌症 (generic_cancer) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [鼻咽癌｜女子長期鼻塞未理會檢查驚患鼻咽癌醫生警告：伴隨5大症狀速求醫【附鼻炎VS 鼻咽癌症狀區別】](https://news.google.com/rss/articles/CBMinwVBVV95cUxQUlRZWURmUEpWQVlKRWpQRzY3MjdEWjZnMmp0V1o4dk02Qk9mSFJwakVjU3BkU3BTNHR4V2U4eGt0MEJ0WHN2LURFRjZLYldTczdySktVYU5rMktQWTM3eUQxVTh6WnZiSEE0Y05KUG9mbG1lNVY2UmhNZnpLNnh2cS1MNmR0cmh0eElpZ2F3NUdidzd6TnFZWVdCVHZYMGg3b3h0SWExcDlyOUpCalVkT0VFUWlwa0R6TWg5S2dPMG5XYjZzQ2FzSV83eDI1cHUySzJkMnZJSmV6Y0o3VUVLa3BNQ1ZUbjFjM2xqcXRhbHdrV21rc3FpR1ByVGpYa3I4RENPZ1lVMW82ZG0wTjBfRUJrLWtIMWZuVmVfQVVoR2tibE1xU05NR2RKVEJibXM3N25KaHVOMFFzNlJwekJXM2hpSUlFdzd2ZGNfdWpvVktFVWttd0xuRVlhMmhwNkNiQzh1RTZXX1JabzJTRWhzUW92RGh6UjF5UHpKMVdwcUdNYVJZb2x5c0RxVDBPT0c4WTZrNF9tVWxtNWQxQjdzaGZxejhJTkdOdjcxMnJNaFBicUxnN3IyZWYxcnJKN3hoRjRKOURMSER5d3BlODRqSjFVLWZ2c1FPb281SjAyM1h1bGdhYVNab1ptMkdQWWhoc2ZfRDlOTExfU1N5R3FSTHV2TzFIdTN1M3BZT1RuV1ZkemMzTGJrQkJmcUxwMTFJd1Jxa3hVMXpuNVpRMV9MTFZHTS1abTNBZGlEUFNNdFY1eVJpU0JmUTVZSDZyQm1KSWpxQ0x1T0NoQnJGYmdtRGt6YTR1b2ZaSTNRdGdSWmdTS3pxMDNqXzhsNU52VVBBc0s1elFDZ2dhZkVTRHFMSmhyZ2RoTnhEQVBUMUNqdw?oc=5)
+
+2026-10-11
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMinwVBVV95cUxQUlRZWURmUEpWQVlKRWpQRzY3MjdEWjZnMmp0V1o4dk02Qk9mSFJwakVjU3BkU3BTNHR4V2U4eGt0MEJ0WHN2LURFRjZLYldTczdySktVYU5rMktQWTM3eUQxVTh6WnZiSEE0Y05KUG9mbG1lNVY2UmhNZnpLNnh2cS1MNmR0cmh0eElpZ2F3NUdidzd6TnFZWVdCVHZYMGg3b3h0SWExcDlyOUpCalVkT0VFUWlwa0R6TWg5S2dPMG5XYjZzQ2FzSV83eDI1cHUySzJkMnZJSmV6Y0o3VUVLa3BNQ1ZUbjFjM2xqcXRhbHdrV21rc3FpR1ByVGpYa3I4RENPZ1lVMW82ZG0wTjBfRUJrLWtIMWZuVmVfQVVoR2tibE1xU05NR2RKVEJibXM3N25KaHVOMFFzNlJwekJXM2hpSUlFdzd2ZGNfdWpvVktFVWttd0xuRVlhMmhwNkNiQzh1RTZXX1JabzJTRWhzUW92RGh6UjF5UHpKMVdwcUdNYVJZb2x5c0RxVDBPT0c4WTZrNF9tVWxtNWQxQjdzaGZxejhJTkdOdjcxMnJNaFBicUxnN3IyZWYxcnJKN3hoRjRKOURMSER5d3BlODRqSjFVLWZ2c1FPb281SjAyM1h1bGdhYVNab1ptMkdQWWhoc2ZfRDlOTExfU1N5R3FSTHV2TzFIdTN1M3BZT1RuV1ZkemMzTGJrQkJmcUxwMTFJd1Jxa3hVMXpuNVpRMV9MTFZHTS1abTNBZGlEUFNNdFY1eVJpU0JmUTVZSDZyQm1KSWpxQ0x1T0NoQnJGYmdtRGt6YTR1b2ZaSTNRdGdSWmdTS3pxMDNqXzhsNU52VVBBc0s1elFDZ2dhZkVTRHFMSmhyZ2RoTnhEQVBUMUNqdw?oc=5)
+
+---
 
 ### [15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
 
