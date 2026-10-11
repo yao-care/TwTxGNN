@@ -233,12 +233,12 @@
         <div class="drug-result-card">
           <div class="drug-header">
             <h3>
-              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">
+              <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank">
                 ${escapeHtml(drug.name)}
               </a>
               <span class="level-badge level-${drug.level}">${drug.level}</span>
             </h3>
-            <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank" class="view-full">
+            <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank" class="view-full">
               查看完整報告 →
             </a>
           </div>
@@ -275,7 +275,7 @@
           html += `
             <div class="more-indications">
               ...及其他 ${indications.length - 10} 個預測適應症
-              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">查看全部</a>
+              <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank">查看全部</a>
             </div>
           `;
         }
