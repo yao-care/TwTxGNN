@@ -1,7 +1,43 @@
 {
-  "generated": "2026-10-11T17:04:01.016034+00:00",
-  "count": 11,
+  "generated": "2026-10-11T21:15:55.808682+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "102bd57e9500",
+      "title": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊",
+      "published": "2026-10-11T20:30:00+00:00",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcW42SUROczY0VEFIN1JrVV9jSTVZdmZjcTJVbkFoQ2ladEJ1N2MyTlY5Q2UzeE1oMVpOdXN6T1FtOS1uU21lOEpXWjlSMEYyRl8zMVpnTDdRM1lORnBLYTZoOUp0LXlRaVZKZXJRSzVQZHc2YzlSVFlWeEhYbUphbjFoQzJ2THQyWS1UQ1pOZkMySVRuSGdmcWtPUEl4ZUtHdUZPbEFKbGpTaGppSjBJTE5UZnlBS1hhR3pKZFQwTktCTnk1Z2h1cU0yQzdydUkwdlFWblQ2ZmxqbHBMc1o5OWpidktDRFVrZW4wRWo5YmZtUkdsc1cxRFdSVFVCWnJ0U2dvRy1TZHZWZjd4Mk9VamFDNGlCdERXSHZ6R2J3VDBLSUxOWS1td05sYU0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "20e5a72fec7f",
       "title": "鼻咽癌｜女子長期鼻塞未理會檢查驚患鼻咽癌醫生警告：伴隨5大症狀速求醫【附鼻炎VS 鼻咽癌症狀區別】",

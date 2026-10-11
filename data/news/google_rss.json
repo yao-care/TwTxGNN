@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-11T17:03:57.774561+00:00",
-  "count": 40,
+  "fetched_at": "2026-10-11T21:15:53.566675+00:00",
+  "count": 42,
   "news": [
     {
       "id": "830dba7d78e0",
@@ -24,18 +24,6 @@
         {
           "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3fb05c5e91e5",
-      "title": "抗衰老飲食｜防老人病40歲起要打底？醫博士推4飲食要訣起床1杯水 - 香港01",
-      "published": "2026-10-11T04:00:26+00:00",
-      "summary": "抗衰老飲食｜防老人病40歲起要打底？醫博士推4飲食要訣起床1杯水&nbsp;&nbsp;香港01藍區vs.地中海飲食 差在哪？哪種更有助健康老化？&nbsp;&nbsp;世界新聞網50歲後吃什麼更長壽？哈佛30年研究揭密「這7種食物」&nbsp;&nbsp;Harper's BAZAAR營養師揭長壽飲食真相！地中海、DASH飲食不用照單全收，吃對「這些」更重要&nbsp;&nbsp;Cosmopolitan長壽專家指 百歲人瑞比例高地區有3種常見飲料&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPaFNtalhzaUd1WDdrSERsQWhaMGN6NlVITmlZcDVDcnU4alo3ZGZfRmMtT0E5SHFtWGNSTUhabXJSWHcwZFFqajgzLTlFeTc5TkNBeThpcHM3RmNwYVFTYkpMbGkybVR5ZlZzM2FVeVNHdDFlNGhyNFd0Zl9WX3FmSHVxMlRTT19MWDRHQnBXUC1PLVd0c1V0WUx6N2F6bEIxdW00QWJpakRjLV9vOEdTVDZRZ19idG5hTndlR1FqN2dVNXpfdF90M0xCdHBYUTV0czFaU2dVQ3FkUzNDVWNUQkZTaVo2WTUxXy1vOUt0MURLb1dRendSYkZJclJseFQxMFVDTUMwNUtydlF3RktGWWFrRWtPM3JGSWljc2FRUmpQU0FQYUFxNjBCcVFsMnpmdGp5dUFMbHIzWlZ5NXRJQlBjbEZpNHFLSVZYR2N5ZVRmWE9LcDNITW0xdFpEWl9lNnBLTERKTXVVNmJPczhUMmhNaFRuUkRKUGw3RUZrN2lfTkZ6MC1RXzJXSEgyS0lWajRzSFNldkRhVHNCeVViVjhiU1RQb3A5cF9sZHcyZEUxVjRBZlE?oc=5"
         }
       ]
     },
@@ -64,6 +52,18 @@
       ]
     },
     {
+      "id": "3fb05c5e91e5",
+      "title": "抗衰老飲食｜防老人病40歲起要打底？醫博士推4飲食要訣起床1杯水 - 香港01",
+      "published": "2026-10-11T04:00:26+00:00",
+      "summary": "抗衰老飲食｜防老人病40歲起要打底？醫博士推4飲食要訣起床1杯水&nbsp;&nbsp;香港01藍區vs.地中海飲食 差在哪？哪種更有助健康老化？&nbsp;&nbsp;世界新聞網50歲後吃什麼更長壽？哈佛30年研究揭密「這7種食物」&nbsp;&nbsp;Harper's BAZAAR營養師揭長壽飲食真相！地中海、DASH飲食不用照單全收，吃對「這些」更重要&nbsp;&nbsp;Cosmopolitan長壽專家指 百歲人瑞比例高地區有3種常見飲料&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPaFNtalhzaUd1WDdrSERsQWhaMGN6NlVITmlZcDVDcnU4alo3ZGZfRmMtT0E5SHFtWGNSTUhabXJSWHcwZFFqajgzLTlFeTc5TkNBeThpcHM3RmNwYVFTYkpMbGkybVR5ZlZzM2FVeVNHdDFlNGhyNFd0Zl9WX3FmSHVxMlRTT19MWDRHQnBXUC1PLVd0c1V0WUx6N2F6bEIxdW00QWJpakRjLV9vOEdTVDZRZ19idG5hTndlR1FqN2dVNXpfdF90M0xCdHBYUTV0czFaU2dVQ3FkUzNDVWNUQkZTaVo2WTUxXy1vOUt0MURLb1dRendSYkZJclJseFQxMFVDTUMwNUtydlF3RktGWWFrRWtPM3JGSWljc2FRUmpQU0FQYUFxNjBCcVFsMnpmdGp5dUFMbHIzWlZ5NXRJQlBjbEZpNHFLSVZYR2N5ZVRmWE9LcDNITW0xdFpEWl9lNnBLTERKTXVVNmJPczhUMmhNaFRuUkRKUGw3RUZrN2lfTkZ6MC1RXzJXSEgyS0lWajRzSFNldkRhVHNCeVViVjhiU1RQb3A5cF9sZHcyZEUxVjRBZlE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f3a5baa291d6",
       "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰 - 行銷人",
       "published": "2026-10-10T08:49:26+00:00",
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "d4d02fc9c0ef",
-      "title": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防 - 風火輪傳媒有限公司",
-      "published": "2026-10-10T11:34:05+00:00",
-      "summary": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "風火輪傳媒有限公司",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laDE3aExDd01uSmE1SXp1VWtHekV2S0tTa0JmckNrdVk5WWwzcUdqdVNUU2RnOFhsLXBraXlDM3BjZE44ZDZDN0pBOGJ1OEZNZmNKeU1YQ2NRWTZtYW5MYW80Qkk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "490b90cbcbef",
       "title": "《肝炎》nChroma Bio 創新表觀遺傳沉默療法 CRMA-1001，如同按下 B 肝病毒「靜音鍵」，三劑可使 90% 肝炎小鼠病毒歸零 - 生技投資第一站-Genet觀點",
       "published": "2026-10-06T04:24:52+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "生技投資第一站-Genet觀點",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NVW1nMjNWMGFFeGQ4aFNsZmFZZ2NVejlvMl8xSERPSXc2ZU43bm83SGx3cVFlQW9NWFNfdm16c0lCQkc0TlB1MGJtS2syeGhyMVJnQzZwRnpQVXNKQ1BnY3BGS3hXa2RPclpMVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4d02fc9c0ef",
+      "title": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防 - 風火輪傳媒有限公司",
+      "published": "2026-10-10T11:34:05+00:00",
+      "summary": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "風火輪傳媒有限公司",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9laDE3aExDd01uSmE1SXp1VWtHekV2S0tTa0JmckNrdVk5WWwzcUdqdVNUU2RnOFhsLXBraXlDM3BjZE44ZDZDN0pBOGJ1OEZNZmNKeU1YQ2NRWTZtYW5MYW80Qkk?oc=5"
         }
       ]
     },
@@ -328,6 +328,30 @@
       ]
     },
     {
+      "id": "bc13c11fe49b",
+      "title": "預防復發：人生經歷以新蓋舊 冲淡負面記憶影響 - 20261012 - 副刊 - 明報新聞網",
+      "published": "2026-10-11T20:30:00+00:00",
+      "summary": "預防復發：人生經歷以新蓋舊 冲淡負面記憶影響 - 20261012 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOQzhITTFwWklJODNkc3ljQXZ1bkhNOEhrc01HaExNYWU1aUVuSVpVUnVQMVFmZlRUdEsxUlIwVVpkMl9PcTQtTENCT1UxanRIME1Jc1I5eGhGOTdqeDRYb09rc1BKd1hpMGx1dG9jR0h1dVl1X0pKd2xBWF9MZEFrWmlOUFpGQjNtY3l3NGhGTW11ckY3eFVvU2lFVFN4YkxaMzk2QXZ2dTZWMlNid3ZRRmhhY0JVOFZuczNvWWg3NTdoUTI0ZGY3c3plR2hXWWNiODBvaC0tUVFDSW8weUZXUlR0S29sdE9GUW0ydlJfVGpZT3lkczFQQlRKbE5ud1hUYjRNejJZdmFmTE8zSUlMc29zMWRBbUZkczFtaHlpclFMRjFaV2h6ZUtNeWQyYTZTckIxdkJ0Z2gtTXJpb0thZk54ZlBCZWJYUlVEV2FaTkYxTFdnZTJrRlNyWHZEV29zQ3JuUl9wRl9teHh0R1lxTnE0YlZwbnI2eWVYVFVmTnJ4Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "102bd57e9500",
+      "title": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊 - 明報新聞網",
+      "published": "2026-10-11T20:30:00+00:00",
+      "summary": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcW42SUROczY0VEFIN1JrVV9jSTVZdmZjcTJVbkFoQ2ladEJ1N2MyTlY5Q2UzeE1oMVpOdXN6T1FtOS1uU21lOEpXWjlSMEYyRl8zMVpnTDdRM1lORnBLYTZoOUp0LXlRaVZKZXJRSzVQZHc2YzlSVFlWeEhYbUphbjFoQzJ2THQyWS1UQ1pOZkMySVRuSGdmcWtPUEl4ZUtHdUZPbEFKbGpTaGppSjBJTE5UZnlBS1hhR3pKZFQwTktCTnk1Z2h1cU0yQzdydUkwdlFWblQ2ZmxqbHBMc1o5OWpidktDRFVrZW4wRWo5YmZtUkdsc1cxRFdSVFVCWnJ0U2dvRy1TZHZWZjd4Mk9VamFDNGlCdERXSHZ6R2J3VDBLSUxOWS1td05sYU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "672042c92ae5",
       "title": "黑木耳狂降血糖、血脂、防癌！專家大推加1物一起煮防失智效果最強 - Yahoo新聞",
       "published": "2026-10-10T00:03:43+00:00",
@@ -364,14 +388,14 @@
       ]
     },
     {
-      "id": "b51f3e8edd16",
-      "title": "破50年紀錄！洛杉磯驚現狂犬病浣熊 - Singtaousa",
-      "published": "2026-10-09T19:22:04+00:00",
-      "summary": "破50年紀錄！洛杉磯驚現狂犬病浣熊&nbsp;&nbsp;Singtaousa",
+      "id": "3ffb19dfdebd",
+      "title": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+      "published": "2026-10-09T14:11:16+00:00",
+      "summary": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVElBcm50QmJwSHlKQlpNSzF6ZUVXLVVEMGgtSlRuaFNvbl9mR2FWaEJVSkNhNVp2WjNJbEc3UTBIdmM5Vm1zR01HVEVmYWFfQXd2S3IyUS0xT1lHYlo3ejVHMWFHTVBVWWJEUDlGQ1pCZzVHTnMxNTlqU3JDUF9wdVBWbzJHUExBc3VGNGc4ME5MaklRTFRMcGptdjlhczdNdk1UbU5FcUttQU4yRUNnU2J4dkctZmZBTFdmckN0c3ZfWFU2NlE?oc=5"
+          "name": "Investing.com 香港 - 股市報價& 財經新聞",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42anhIbTY1VlZjdmxBRkFONGlwNkJGZWNWaUd3X3RSS0NIbHBHZ21YNEkyX3MxT3J6emN6WVhxdmptUkdSNEk1T2JXQlJmckJxS3Zrc19JVE5qN2t4Q0ZqNktKVHB3U3U4QUFYeG9OM1M?oc=5"
         }
       ]
     },
@@ -388,18 +412,6 @@
       ]
     },
     {
-      "id": "3ffb19dfdebd",
-      "title": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-10-09T14:11:16+00:00",
-      "summary": "金迪克(688670.SH)：三價流感疫苗獲得藥品註冊證書公司可能觸及財務類退市風險警示作者智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞",
-      "sources": [
-        {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42anhIbTY1VlZjdmxBRkFONGlwNkJGZWNWaUd3X3RSS0NIbHBHZ21YNEkyX3MxT3J6emN6WVhxdmptUkdSNEk1T2JXQlJmckJxS3Zrc19JVE5qN2t4Q0ZqNktKVHB3U3U4QUFYeG9OM1M?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eb3b67b38a7d",
       "title": "感染西尼羅病毒重症 南加州少年無法行走 - Singtaousa",
       "published": "2026-10-07T23:51:11+00:00",
@@ -408,6 +420,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yRl84R1BoQVB5Wmo2cDRuazhJQWVVRmFyTDlqWUpWd2Z6NDJ0NjBkRDlybU9uSVNhcVpLUWJSZlNXcE9fZXFNeHBteGNlYmhPMVZIczE3MjFMT3FtUGV5YlBvNmJMdGtHbHJBczI4anVGU3EtSC13VXVhVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b51f3e8edd16",
+      "title": "破50年紀錄！洛杉磯驚現狂犬病浣熊 - Singtaousa",
+      "published": "2026-10-09T19:22:04+00:00",
+      "summary": "破50年紀錄！洛杉磯驚現狂犬病浣熊&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVElBcm50QmJwSHlKQlpNSzF6ZUVXLVVEMGgtSlRuaFNvbl9mR2FWaEJVSkNhNVp2WjNJbEc3UTBIdmM5Vm1zR01HVEVmYWFfQXd2S3IyUS0xT1lHYlo3ejVHMWFHTVBVWWJEUDlGQ1pCZzVHTnMxNTlqU3JDUF9wdVBWbzJHUExBc3VGNGc4ME5MaklRTFRMcGptdjlhczdNdk1UbU5FcUttQU4yRUNnU2J4dkctZmZBTFdmckN0c3ZfWFU2NlE?oc=5"
         }
       ]
     },
@@ -448,13 +472,13 @@
       ]
     },
     {
-      "id": "311ddc8bae4d",
-      "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - 晴報 Sky Post",
+      "id": "c4c90b29d52a",
+      "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - Sky Post",
       "published": "2026-10-08T10:31:49+00:00",
-      "summary": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠&nbsp;&nbsp;晴報 Sky Post",
+      "summary": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠&nbsp;&nbsp;Sky Post",
       "sources": [
         {
-          "name": "晴報 Sky Post",
+          "name": "Sky Post",
           "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQUWZaUlFyLTY1MGlFMDcwNElyVGtvcGJDSzNadzgwVmdkTmZfU2ZkX3RKalRleW5zTmVGNXNxa3I5cmR2VnVfRXpYbFY1Y2N6eXh1a0ZxU2d0cFpEM1dsbnBqNEpJYWxDbXJJeXRCMVRTUFNNVmh4anBDNEEzbmdYcXZvclBfR2hOU3B3VmpiUEw5Mzh0RDVnWGp1bnh5TXpLa01oRUF4NlBUdnoyRzV1YXNXWWJzcmJmTERhcHRGT1JONlBBWXFXSmptSHltVVFBUVJVQ2tya2p0MTdUc0xORVhsQlRQY0NIUDdoNjVyZjZVbEc0dHB0ZjBrNnBjSm5CMHZkNG5YcjBDRlVMUjJJT3dOalBqYUZ6VXNwZm9mMnVUUmF1a0dYaUZNUFd0NlF5OTFHM2xHN05vMmh3Y0RXREtjUzdnYnBjeVljMlB4ZkJmTUwzaTlQQm8tN2pURjNiQUpCOS1td2ZlRjQ5c2tDak11VnFLWXFGbFBRUG85SU13RGl6UHJ5Z2dPQVZnSUFtcnF2dHVPRVFPa05ENnJ6cGV0NFIxS1RmZURJSTFLYjE2Q1Q4cDRTTGhoeWZHY25uZ01Jb3hRaTFBUWViSkFnZHRDX2lVdHJDYmhnTGduVWk5T1VmRmtfLUd0ajNpUk1kMS1wMkV1d0t2eHQ0Nm9XbG84aDVsbHpfNHYzSHVkQVItOXI2aUZiSFpaUEhmU1o2XzFmRUJ3?oc=5"
         }
       ]

@@ -1,8 +1,58 @@
 {
-  "last_updated": "2026-10-11T17:04:00.935183+00:00",
-  "total_count": 40,
-  "matched_count": 11,
+  "last_updated": "2026-10-11T21:15:55.757612+00:00",
+  "total_count": 42,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "bc13c11fe49b",
+      "title": "預防復發：人生經歷以新蓋舊 冲淡負面記憶影響 - 20261012 - 副刊",
+      "published": "2026-10-11T20:30:00+00:00",
+      "summary": "預防復發：人生經歷以新蓋舊 冲淡負面記憶影響 - 20261012 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOQzhITTFwWklJODNkc3ljQXZ1bkhNOEhrc01HaExNYWU1aUVuSVpVUnVQMVFmZlRUdEsxUlIwVVpkMl9PcTQtTENCT1UxanRIME1Jc1I5eGhGOTdqeDRYb09rc1BKd1hpMGx1dG9jR0h1dVl1X0pKd2xBWF9MZEFrWmlOUFpGQjNtY3l3NGhGTW11ckY3eFVvU2lFVFN4YkxaMzk2QXZ2dTZWMlNid3ZRRmhhY0JVOFZuczNvWWg3NTdoUTI0ZGY3c3plR2hXWWNiODBvaC0tUVFDSW8weUZXUlR0S29sdE9GUW0ydlJfVGpZT3lkczFQQlRKbE5ud1hUYjRNejJZdmFmTE8zSUlMc29zMWRBbUZkczFtaHlpclFMRjFaV2h6ZUtNeWQyYTZTckIxdkJ0Z2gtTXJpb0thZk54ZlBCZWJYUlVEV2FaTkYxTFdnZTJrRlNyWHZEV29zQ3JuUl9wRl9teHh0R1lxTnE0YlZwbnI2eWVYVFVmTnJ4Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "102bd57e9500",
+      "title": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊",
+      "published": "2026-10-11T20:30:00+00:00",
+      "summary": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcW42SUROczY0VEFIN1JrVV9jSTVZdmZjcTJVbkFoQ2ladEJ1N2MyTlY5Q2UzeE1oMVpOdXN6T1FtOS1uU21lOEpXWjlSMEYyRl8zMVpnTDdRM1lORnBLYTZoOUp0LXlRaVZKZXJRSzVQZHc2YzlSVFlWeEhYbUphbjFoQzJ2THQyWS1UQ1pOZkMySVRuSGdmcWtPUEl4ZUtHdUZPbEFKbGpTaGppSjBJTE5UZnlBS1hhR3pKZFQwTktCTnk1Z2h1cU0yQzdydUkwdlFWblQ2ZmxqbHBMc1o5OWpidktDRFVrZW4wRWo5YmZtUkdsc1cxRFdSVFVCWnJ0U2dvRy1TZHZWZjd4Mk9VamFDNGlCdERXSHZ6R2J3VDBLSUxOWS1td05sYU0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "830dba7d78e0",
       "title": "神祕狂犬病疫情，源頭動物讓人出乎意料",
@@ -680,13 +730,13 @@
       "matched_keywords": []
     },
     {
-      "id": "311ddc8bae4d",
-      "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - 晴報 Sky Post",
+      "id": "c4c90b29d52a",
+      "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - Sky Post",
       "published": "2026-10-08T10:31:49+00:00",
-      "summary": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠&nbsp;&nbsp;晴報 Sky Post",
+      "summary": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠&nbsp;&nbsp;Sky Post",
       "sources": [
         {
-          "name": "晴報 Sky Post",
+          "name": "Sky Post",
           "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQUWZaUlFyLTY1MGlFMDcwNElyVGtvcGJDSzNadzgwVmdkTmZfU2ZkX3RKalRleW5zTmVGNXNxa3I5cmR2VnVfRXpYbFY1Y2N6eXh1a0ZxU2d0cFpEM1dsbnBqNEpJYWxDbXJJeXRCMVRTUFNNVmh4anBDNEEzbmdYcXZvclBfR2hOU3B3VmpiUEw5Mzh0RDVnWGp1bnh5TXpLa01oRUF4NlBUdnoyRzV1YXNXWWJzcmJmTERhcHRGT1JONlBBWXFXSmptSHltVVFBUVJVQ2tya2p0MTdUc0xORVhsQlRQY0NIUDdoNjVyZjZVbEc0dHB0ZjBrNnBjSm5CMHZkNG5YcjBDRlVMUjJJT3dOalBqYUZ6VXNwZm9mMnVUUmF1a0dYaUZNUFd0NlF5OTFHM2xHN05vMmh3Y0RXREtjUzdnYnBjeVljMlB4ZkJmTUwzaTlQQm8tN2pURjNiQUpCOS1td2ZlRjQ5c2tDak11VnFLWXFGbFBRUG85SU13RGl6UHJ5Z2dPQVZnSUFtcnF2dHVPRVFPa05ENnJ6cGV0NFIxS1RmZURJSTFLYjE2Q1Q4cDRTTGhoeWZHY25uZ01Jb3hRaTFBUWViSkFnZHRDX2lVdHJDYmhnTGduVWk5T1VmRmtfLUd0ajNpUk1kMS1wMkV1d0t2eHQ0Nm9XbG84aDVsbHpfNHYzSHVkQVItOXI2aUZiSFpaUEhmU1o2XzFmRUJ3?oc=5"
         }
       ],
