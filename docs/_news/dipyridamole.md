@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [小夜燈光線竟是心臟殺手！睡眠微光恐致心肌肥厚、中風危機](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xcWkwQTRzOFF5TWJJZDk0aDE3MGtTS0dsM0wwQk9QQU5qNFg1VXJkRWRZMk44aUc0ZVo4ejlIa0p6eGJiZngzaVYtUUE?oc=5)
+
+2026-10-12 <span class="news-indication-tag">中風</span>
+
+來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xcWkwQTRzOFF5TWJJZDk0aDE3MGtTS0dsM0wwQk9QQU5qNFg1VXJkRWRZMk44aUc0ZVo4ejlIa0p6eGJiZngzaVYtUUE?oc=5)
+
+---
 
 ### [偏頭痛別亂吞阿斯匹靈！醫揭「恐胃出血」 1組合中風機率狂飆](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
 

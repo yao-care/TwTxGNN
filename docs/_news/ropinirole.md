@@ -14,7 +14,7 @@ permalink: /news/ropinirole/
 ---
 
 <p class="key-answer" data-question="Ropinirole 有什麼相關新聞？">
-<strong>Ropinirole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ropinirole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/ropinirole/
 <li>faciodigitogenital syndrome (100.0%)</li>
 <li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
 <li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
-<li>schizophrenia (99.9%)</li>
+<li class="indication-matched">schizophrenia (99.9%)<span class="indication-tag">📰 思覺失調症</span></li>
 <li>myopia X-linked (99.9%)</li>
 <li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
 <li>atypical glycine encephalopathy (99.9%)</li>
@@ -42,9 +42,15 @@ permalink: /news/ropinirole/
 <p><a href="{{ '/drugs/ropinirole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [思覺失調症越早發病、家族罹病率越高！國衛院揪出4大關鍵基因](https://news.google.com/rss/articles/CBMijwNBVV95cUxQdWFhSlp6dmh1NEN6b3ZiWTFfbG4wUXF5N3lVS1lKeVYtWnMzdnE5SEw4WWI1YzdQYWN1dkJubU5BWWRveFFaM2ViV25kcXBmd19sczBaQlJiZ25SUGtxcF8yVnV5TTRvMkxQbEZra2l6eUkzc0h2SDA5bFZFVUtLYng4RHk3SXJoc1R5bTY2VFpZcy1CcmdIY2Zrb01TNlhqVFgtRGJHNkhKbnFpaFBMZXRwR3pjUnptOEVSbFZGMVV6dUV1Ty05bThZeWpXNXBwZlV5ckFFUjI5OTJVSFI1djZ3R3RkWXgwT3lWaFkxYi1RaVY3MHZyLTZDaXlMUzU0SGtUVGd5UVE3M0x5M3UzZHpTLXduN21QVXBlUzJHOUxRV2dBQjczeWxlM0Y3UVV2UkkyYk9ZaU0wYkFUYm9ydjUyelFBRlB0eHJDaWZhN1dOcWlKb1hDWFFocldpdGxEMFRUbTZyTnVVYWxxUWhSam1CWXB2T2RkamdZU3FlTW90NXk1TlNuX2JYZXV0Qk0?oc=5)
+
+2026-10-12 <span class="news-indication-tag">思覺失調症</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMijwNBVV95cUxQdWFhSlp6dmh1NEN6b3ZiWTFfbG4wUXF5N3lVS1lKeVYtWnMzdnE5SEw4WWI1YzdQYWN1dkJubU5BWWRveFFaM2ViV25kcXBmd19sczBaQlJiZ25SUGtxcF8yVnV5TTRvMkxQbEZra2l6eUkzc0h2SDA5bFZFVUtLYng4RHk3SXJoc1R5bTY2VFpZcy1CcmdIY2Zrb01TNlhqVFgtRGJHNkhKbnFpaFBMZXRwR3pjUnptOEVSbFZGMVV6dUV1Ty05bThZeWpXNXBwZlV5ckFFUjI5OTJVSFI1djZ3R3RkWXgwT3lWaFkxYi1RaVY3MHZyLTZDaXlMUzU0SGtUVGd5UVE3M0x5M3UzZHpTLXduN21QVXBlUzJHOUxRV2dBQjczeWxlM0Y3UVV2UkkyYk9ZaU0wYkFUYm9ydjUyelFBRlB0eHJDaWZhN1dOcWlKb1hDWFFocldpdGxEMFRUbTZyTnVVYWxxUWhSam1CWXB2T2RkamdZU3FlTW90NXk1TlNuX2JYZXV0Qk0?oc=5)
+
+---
 
 
 <div class="disclaimer">

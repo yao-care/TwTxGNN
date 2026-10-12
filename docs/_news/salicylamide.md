@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [收假身邊狂咳嗽？醫揭辦公室輪流生病真相 4警訊快就醫](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhRUM0WUNVWGkyNU9QNTFKTzNPZmx3NEd3WkJqMWI5bDdxUjc5YllmbkM3eU9KdTJ4b1hZcjBfQXZ0UHVVNVdNdHRUTnljdFhf?oc=5)
+
+2026-10-12 <span class="news-indication-tag">感冒</span>
+
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhRUM0WUNVWGkyNU9QNTFKTzNPZmx3NEd3WkJqMWI5bDdxUjc5YllmbkM3eU9KdTJ4b1hZcjBfQXZ0UHVVNVdNdHRUTnljdFhf?oc=5)
+
+---
 
 ### [感冒沒開抗生素氣到退掛 醫糾錯](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
 

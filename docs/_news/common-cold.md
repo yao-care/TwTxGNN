@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [收假身邊狂咳嗽？醫揭辦公室輪流生病真相 4警訊快就醫](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhRUM0WUNVWGkyNU9QNTFKTzNPZmx3NEd3WkJqMWI5bDdxUjc5YllmbkM3eU9KdTJ4b1hZcjBfQXZ0UHVVNVdNdHRUTnljdFhf?oc=5)
+
+2026-10-12
+
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhRUM0WUNVWGkyNU9QNTFKTzNPZmx3NEd3WkJqMWI5bDdxUjc5YllmbkM3eU9KdTJ4b1hZcjBfQXZ0UHVVNVdNdHRUTnljdFhf?oc=5)
+
+---
 
 ### [感冒沒開抗生素氣到退掛 醫糾錯](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
 

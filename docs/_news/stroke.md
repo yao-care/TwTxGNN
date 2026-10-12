@@ -3,7 +3,7 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [小夜燈光線竟是心臟殺手！睡眠微光恐致心肌肥厚、中風危機](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xcWkwQTRzOFF5TWJJZDk0aDE3MGtTS0dsM0wwQk9QQU5qNFg1VXJkRWRZMk44aUc0ZVo4ejlIa0p6eGJiZngzaVYtUUE?oc=5)
+
+2026-10-12
+
+來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xcWkwQTRzOFF5TWJJZDk0aDE3MGtTS0dsM0wwQk9QQU5qNFg1VXJkRWRZMk44aUc0ZVo4ejlIa0p6eGJiZngzaVYtUUE?oc=5)
+
+---
 
 ### [偏頭痛別亂吞阿斯匹靈！醫揭「恐胃出血」 1組合中風機率狂飆](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
 
