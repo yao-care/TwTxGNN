@@ -1,8 +1,46 @@
 {
-  "last_updated": "2026-10-11T21:15:55.757612+00:00",
-  "total_count": 42,
-  "matched_count": 12,
+  "last_updated": "2026-10-12T00:51:16.348026+00:00",
+  "total_count": 44,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "f02a29a3c9b8",
+      "title": "斐濟HIV疫情——台灣用公衛展現溫柔善良吸引力的契機",
+      "published": "2026-10-11T22:30:00+00:00",
+      "summary": "斐濟HIV疫情——台灣用公衛展現溫柔善良吸引力的契機&nbsp;&nbsp;鏡報",
+      "sources": [
+        {
+          "name": "鏡報",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJRDlnTDZJd0hpb1d5WHVkMlBBOGhEVDdsZmRZNjVqd1Iyb0EzSEY1cVc1MF9QOWJGd3o1ajFZdHVIZ2hmZWE4UGEyNW9lSnlTUVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2ce63bc9ca90",
+      "title": "感冒沒開抗生素氣到退掛 醫糾錯",
+      "published": "2026-10-11T22:00:26+00:00",
+      "summary": "感冒沒開抗生素氣到退掛 醫糾錯&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "bc13c11fe49b",
       "title": "預防復發：人生經歷以新蓋舊 冲淡負面記憶影響 - 20261012 - 副刊",
@@ -70,7 +108,7 @@
       "id": "1db95dae634a",
       "title": "社醫聯盟上門替老人家打流感疫苗",
       "published": "2026-10-11T13:00:58+00:00",
-      "summary": "社醫聯盟上門替老人家打流感疫苗&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/南加流感季早來 衛生官籲速打疫苗&nbsp;&nbsp;Singtaousa大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元",
+      "summary": "社醫聯盟上門替老人家打流感疫苗&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒",
       "sources": [
         {
           "name": "Singtaousa",
@@ -80,14 +118,14 @@
       "matched_keywords": []
     },
     {
-      "id": "20e5a72fec7f",
+      "id": "6e7aab1f1946",
       "title": "鼻咽癌｜女子長期鼻塞未理會檢查驚患鼻咽癌醫生警告：伴隨5大症狀速求醫【附鼻炎VS 鼻咽癌症狀區別】",
       "published": "2026-10-11T10:11:41+00:00",
       "summary": "鼻咽癌｜女子長期鼻塞未理會檢查驚患鼻咽癌醫生警告：伴隨5大症狀速求醫【附鼻炎VS 鼻咽癌症狀區別】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxQUlRZWURmUEpWQVlKRWpQRzY3MjdEWjZnMmp0V1o4dk02Qk9mSFJwakVjU3BkU3BTNHR4V2U4eGt0MEJ0WHN2LURFRjZLYldTczdySktVYU5rMktQWTM3eUQxVTh6WnZiSEE0Y05KUG9mbG1lNVY2UmhNZnpLNnh2cS1MNmR0cmh0eElpZ2F3NUdidzd6TnFZWVdCVHZYMGg3b3h0SWExcDlyOUpCalVkT0VFUWlwa0R6TWg5S2dPMG5XYjZzQ2FzSV83eDI1cHUySzJkMnZJSmV6Y0o3VUVLa3BNQ1ZUbjFjM2xqcXRhbHdrV21rc3FpR1ByVGpYa3I4RENPZ1lVMW82ZG0wTjBfRUJrLWtIMWZuVmVfQVVoR2tibE1xU05NR2RKVEJibXM3N25KaHVOMFFzNlJwekJXM2hpSUlFdzd2ZGNfdWpvVktFVWttd0xuRVlhMmhwNkNiQzh1RTZXX1JabzJTRWhzUW92RGh6UjF5UHpKMVdwcUdNYVJZb2x5c0RxVDBPT0c4WTZrNF9tVWxtNWQxQjdzaGZxejhJTkdOdjcxMnJNaFBicUxnN3IyZWYxcnJKN3hoRjRKOURMSER5d3BlODRqSjFVLWZ2c1FPb281SjAyM1h1bGdhYVNab1ptMkdQWWhoc2ZfRDlOTExfU1N5R3FSTHV2TzFIdTN1M3BZT1RuV1ZkemMzTGJrQkJmcUxwMTFJd1Jxa3hVMXpuNVpRMV9MTFZHTS1abTNBZGlEUFNNdFY1eVJpU0JmUTVZSDZyQm1KSWpxQ0x1T0NoQnJGYmdtRGt6YTR1b2ZaSTNRdGdSWmdTS3pxMDNqXzhsNU52VVBBc0s1elFDZ2dhZkVTRHFMSmhyZ2RoTnhEQVBUMUNqdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -313,13 +351,13 @@
       "matched_keywords": []
     },
     {
-      "id": "ad1079fd4d95",
+      "id": "a676745efa1a",
       "title": "15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷",
       "published": "2026-10-11T02:58:40+00:00",
-      "summary": "15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "15歲少女腹痛罹肝癌！肝臟現10公分腫瘤 醫揭飲食地雷&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5"
         }
       ],

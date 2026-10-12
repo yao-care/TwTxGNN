@@ -35,7 +35,7 @@ permalink: /news/liver-sarcoma/
 
 2026-10-11
 
-來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
+來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hbTlaRk96eFRpX01QUkt6MnBLQm5rRGlQU0lLeUpsTUs3Y3RYd2dNZy1aQWozcW9yWmx3SUJRMWsxUWk3RWVWVmd0WXA?oc=5)
 
 ---
 

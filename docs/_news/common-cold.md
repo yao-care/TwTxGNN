@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [感冒沒開抗生素氣到退掛 醫糾錯](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
+
+2026-10-11
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
+
+---
 
 ### [孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5)
 
