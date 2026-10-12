@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,20 +35,28 @@ permalink: /news/nitrofurantoin/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.7%)</li>
 <li>sclerosing cholangitis (99.6%)</li>
 <li>methemoglobinemia, alpha type (99.4%)</li>
-<li>gout (99.4%)</li>
+<li class="indication-matched">gout (99.4%)<span class="indication-tag">📰 痛風</span></li>
 <li>methemoglobinemia (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
+### [退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQVmpIemFIbGU2OEJXNktiUGhMX0h1UVRhZm5tc2hmeHAxdVF2S2hxdEh2aWh6LXpqQmRDYld1a2t4cmFXekx5bDc1NjVxUTJvWURmWG9UWEtDT0p5T2JCalZjYm03ZkpfZmdRMF9neUhQNmYwSDhGZzFnSFhWVGprSHdCcE1DWms1VkQwWmYxek4yYkZpcUUxLTBwZXdUZUZnbFpmMjhVekVlVTdBUG9ZOWVFQU81MlR3UGlfREt6V1J2dTMwSTVEVzR4RURycTNELVNONVFCTnVzbUZEcTMxbTY5ZnhSLXRpUHlya1F3MnlrTnVBbFU2UzdLOUE2QVRwRUp6bDFBS2tXZlpMa041UzhvQzVka2tVbHhBdlFIRFJ4RVV4NFRoMENtWHAxWElfdFBqU3Bqbi13UUF2TWs1b0c0VlRkaHM5cEc4UWQybzNONjdQSW94RWtOTGFDdw?oc=5)
 
 2026-10-08 <span class="news-indication-tag">關節炎</span>
 
-來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
+來源: [獨家報導](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQVmpIemFIbGU2OEJXNktiUGhMX0h1UVRhZm5tc2hmeHAxdVF2S2hxdEh2aWh6LXpqQmRDYld1a2t4cmFXekx5bDc1NjVxUTJvWURmWG9UWEtDT0p5T2JCalZjYm03ZkpfZmdRMF9neUhQNmYwSDhGZzFnSFhWVGprSHdCcE1DWms1VkQwWmYxek4yYkZpcUUxLTBwZXdUZUZnbFpmMjhVekVlVTdBUG9ZOWVFQU81MlR3UGlfREt6V1J2dTMwSTVEVzR4RURycTNELVNONVFCTnVzbUZEcTMxbTY5ZnhSLXRpUHlya1F3MnlrTnVBbFU2UzdLOUE2QVRwRUp6bDFBS2tXZlpMa041UzhvQzVka2tVbHhBdlFIRFJ4RVV4NFRoMENtWHAxWElfdFBqU3Bqbi13UUF2TWs1b0c0VlRkaHM5cEc4UWQybzNONjdQSW94RWtOTGFDdw?oc=5)
+
+---
+
+### [常飲珍珠奶茶竟會腰痛？研究揭喝超這份量 慢性下背痛風險飆1.6倍 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMivwJBVV95cUxPTk9HbFNlNUhXZVVfZTdqQjJsQko4Tzh1aXBmREtuYVJ2RDJyVG1PSS03RV81M05hOHppM3BBaE5VbVRxaV9odGtuOGRBRGY3TnJka2Z1T3Nmekt6UTBTQlJlSzB6UTFBVy1uVzc1Y1JQR09Fd1g5YVB0OTJvYkRpSmY1Qkw3ZUNEdlVHY1JlYktvWmxtb3lWUGpGTTFET01ScVpScnFVZVYtWEs4T2ZpYmxRblZtQ2x5WFNwVnl1SDc1UHgxVDhZOWZyNVkxT0szTVk3MnpOQzRoNXpRbDhiSlZWdWNvOVFodkdMWHlfVUhBTXFaYVp2VW5iZ21RXzJfeG9aeVdsQURRQVNZSFdPbHpScnZfaVgzcEY5NUJiS1VwVmp6UXBGX1ZlZ3d0c3ZjYkpaUXlxcy1uMEdSTkhB0gGPAUFVX3lxTE5ILU5SVDRocS1kNmlLX1gxNTR5dlJYbnU0c1BtLVlGdnZjUnB6NFo3WFpFTGZDMFIzYmZPSUgySUlsNTJxU3pncXkzSDhFOVFqQVhNVTZORTRfdEpneVN1WkdmZHc4MTBKaDZUTGVhOUtIWld5NVNDcUVtbkVvVE8xNzZXaEp1OUdVcWRTU2FN?oc=5)
+
+2026-10-06 <span class="news-indication-tag">痛風</span>
+
+來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMivwJBVV95cUxPTk9HbFNlNUhXZVVfZTdqQjJsQko4Tzh1aXBmREtuYVJ2RDJyVG1PSS03RV81M05hOHppM3BBaE5VbVRxaV9odGtuOGRBRGY3TnJka2Z1T3Nmekt6UTBTQlJlSzB6UTFBVy1uVzc1Y1JQR09Fd1g5YVB0OTJvYkRpSmY1Qkw3ZUNEdlVHY1JlYktvWmxtb3lWUGpGTTFET01ScVpScnFVZVYtWEs4T2ZpYmxRblZtQ2x5WFNwVnl1SDc1UHgxVDhZOWZyNVkxT0szTVk3MnpOQzRoNXpRbDhiSlZWdWNvOVFodkdMWHlfVUhBTXFaYVp2VW5iZ21RXzJfeG9aeVdsQURRQVNZSFdPbHpScnZfaVgzcEY5NUJiS1VwVmp6UXBGX1ZlZ3d0c3ZjYkpaUXlxcy1uMEdSTkhB0gGPAUFVX3lxTE5ILU5SVDRocS1kNmlLX1gxNTR5dlJYbnU0c1BtLVlGdnZjUnB6NFo3WFpFTGZDMFIzYmZPSUgySUlsNTJxU3pncXkzSDhFOVFqQVhNVTZORTRfdEpneVN1WkdmZHc4MTBKaDZUTGVhOUtIWld5NVNDcUVtbkVvVE8xNzZXaEp1OUdVcWRTU2FN?oc=5)
 
 ---
 

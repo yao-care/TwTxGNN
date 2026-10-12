@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="Cephalexin 有什麼相關新聞？">
-<strong>Cephalexin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 0 個。
+<strong>Cephalexin</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 0 個。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,9 @@ permalink: /news/cephalexin/
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [年輕壯男流感重症插管！醫提醒肌肉不是免死金牌 出現「惡化警訊」快就醫](https://news.google.com/rss/articles/CBMiwANBVV95cUxQWTNzU0lFY1UwbjJIOU9FYWZVVVZtb1hHdHdYWXY1SGZqdjhfTi03eU52TmRjVERsdFYxZk1maHZRV25YZExLYW1NSWRfZjVNTThCQ2JPU1ZpR1BkdHRfSGFmUEFZTWh1V3gyRVhDVWFkaGhJNjRvdEJjTDdNTEpzY01ldkcwbFJhYlI3RW9FLTRwV1V5X0wwY3NfNzVveVJsWHBjTlg2Q1ZoYVZveDRxUERYLVN5cFE3N2ZtdDluNVhrTGMtT1N0dW5YNXdBYjAyY1p3LVlWZjFVaTRneEstWThIbDk1ZFNyVEllWDlCTTNyNVNpYWZySUFuRXNYelZVZVVFNENTd053Tjl0YW1hNmdHTGhoYlozdUhUVUhsUUhNcE16SEMydHR0TzhZbEFadDloWkxLWG1IVTZaMEk2RHRqMjl1ZG9ncVhoNWNjYjFqWHhNdl8zby02cy1nR1QyNW93Yy0xY084RzI0cl9GTDR4Q3k3dFprYndZY25pS2NrQUZEaHpJM05KcndtbFY2UEFWSjZMdU1rX2hqb2RmWl9icXJuSEZJMWEzNDJXa0NyMUFPa19pZklJMEpMVGJM?oc=5)
-
-2026-10-05 <span class="news-indication-tag">鏈球菌</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiwANBVV95cUxQWTNzU0lFY1UwbjJIOU9FYWZVVVZtb1hHdHdYWXY1SGZqdjhfTi03eU52TmRjVERsdFYxZk1maHZRV25YZExLYW1NSWRfZjVNTThCQ2JPU1ZpR1BkdHRfSGFmUEFZTWh1V3gyRVhDVWFkaGhJNjRvdEJjTDdNTEpzY01ldkcwbFJhYlI3RW9FLTRwV1V5X0wwY3NfNzVveVJsWHBjTlg2Q1ZoYVZveDRxUERYLVN5cFE3N2ZtdDluNVhrTGMtT1N0dW5YNXdBYjAyY1p3LVlWZjFVaTRneEstWThIbDk1ZFNyVEllWDlCTTNyNVNpYWZySUFuRXNYelZVZVVFNENTd053Tjl0YW1hNmdHTGhoYlozdUhUVUhsUUhNcE16SEMydHR0TzhZbEFadDloWkxLWG1IVTZaMEk2RHRqMjl1ZG9ncVhoNWNjYjFqWHhNdl8zby02cy1nR1QyNW93Yy0xY084RzI0cl9GTDR4Q3k3dFprYndZY25pS2NrQUZEaHpJM05KcndtbFY2UEFWSjZMdU1rX2hqb2RmWl9icXJuSEZJMWEzNDJXa0NyMUFPa19pZklJMEpMVGJM?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

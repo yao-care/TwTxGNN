@@ -14,7 +14,7 @@ permalink: /news/sulfamethazine/
 ---
 
 <p class="key-answer" data-question="Sulfamethazine 有什麼相關新聞？">
-<strong>Sulfamethazine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Sulfamethazine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/sulfamethazine/
 <li><strong>原適應症</strong>: 磺胺劑、革蘭氏陽性及陰性菌感染症</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
-<li>gout (99.9%)</li>
+<li class="indication-matched">gout (99.9%)<span class="indication-tag">📰 痛風</span></li>
 <li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.8%)</li>
 <li>diabetic nephropathy (99.8%)</li>
@@ -38,9 +38,15 @@ permalink: /news/sulfamethazine/
 <p><a href="{{ '/drugs/sulfamethazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [常飲珍珠奶茶竟會腰痛？研究揭喝超這份量 慢性下背痛風險飆1.6倍 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMivwJBVV95cUxPTk9HbFNlNUhXZVVfZTdqQjJsQko4Tzh1aXBmREtuYVJ2RDJyVG1PSS03RV81M05hOHppM3BBaE5VbVRxaV9odGtuOGRBRGY3TnJka2Z1T3Nmekt6UTBTQlJlSzB6UTFBVy1uVzc1Y1JQR09Fd1g5YVB0OTJvYkRpSmY1Qkw3ZUNEdlVHY1JlYktvWmxtb3lWUGpGTTFET01ScVpScnFVZVYtWEs4T2ZpYmxRblZtQ2x5WFNwVnl1SDc1UHgxVDhZOWZyNVkxT0szTVk3MnpOQzRoNXpRbDhiSlZWdWNvOVFodkdMWHlfVUhBTXFaYVp2VW5iZ21RXzJfeG9aeVdsQURRQVNZSFdPbHpScnZfaVgzcEY5NUJiS1VwVmp6UXBGX1ZlZ3d0c3ZjYkpaUXlxcy1uMEdSTkhB0gGPAUFVX3lxTE5ILU5SVDRocS1kNmlLX1gxNTR5dlJYbnU0c1BtLVlGdnZjUnB6NFo3WFpFTGZDMFIzYmZPSUgySUlsNTJxU3pncXkzSDhFOVFqQVhNVTZORTRfdEpneVN1WkdmZHc4MTBKaDZUTGVhOUtIWld5NVNDcUVtbkVvVE8xNzZXaEp1OUdVcWRTU2FN?oc=5)
+
+2026-10-06 <span class="news-indication-tag">痛風</span>
+
+來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMivwJBVV95cUxPTk9HbFNlNUhXZVVfZTdqQjJsQko4Tzh1aXBmREtuYVJ2RDJyVG1PSS03RV81M05hOHppM3BBaE5VbVRxaV9odGtuOGRBRGY3TnJka2Z1T3Nmekt6UTBTQlJlSzB6UTFBVy1uVzc1Y1JQR09Fd1g5YVB0OTJvYkRpSmY1Qkw3ZUNEdlVHY1JlYktvWmxtb3lWUGpGTTFET01ScVpScnFVZVYtWEs4T2ZpYmxRblZtQ2x5WFNwVnl1SDc1UHgxVDhZOWZyNVkxT0szTVk3MnpOQzRoNXpRbDhiSlZWdWNvOVFodkdMWHlfVUhBTXFaYVp2VW5iZ21RXzJfeG9aeVdsQURRQVNZSFdPbHpScnZfaVgzcEY5NUJiS1VwVmp6UXBGX1ZlZ3d0c3ZjYkpaUXlxcy1uMEdSTkhB0gGPAUFVX3lxTE5ILU5SVDRocS1kNmlLX1gxNTR5dlJYbnU0c1BtLVlGdnZjUnB6NFo3WFpFTGZDMFIzYmZPSUgySUlsNTJxU3pncXkzSDhFOVFqQVhNVTZORTRfdEpneVN1WkdmZHc4MTBKaDZUTGVhOUtIWld5NVNDcUVtbkVvVE8xNzZXaEp1OUdVcWRTU2FN?oc=5)
+
+---
 
 
 <div class="disclaimer">
