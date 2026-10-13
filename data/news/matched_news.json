@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-13T19:40:01.963195+00:00",
-  "total_count": 39,
+  "last_updated": "2026-10-13T23:31:50.385903+00:00",
+  "total_count": 40,
   "matched_count": 15,
   "news": [
+    {
+      "id": "eb5515c99a6e",
+      "title": "種子油有毒？ 破解KOL「故事陷阱」 - 20261014 - 副刊",
+      "published": "2026-10-13T20:30:00+00:00",
+      "summary": "種子油有毒？ 破解KOL「故事陷阱」 - 20261014 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdFFOR3Y4WlZrWWtGUnVUZWt2UGtJR2NUb2Y1Y0V0b3lzYS15clB4aFJfajBWbW12ZnZNSlJyQ2V6eHB0MzlEOWFLNVZqQUtWcFJBcVZWZnNUUGYyWW5TV3ItaThVdHZNX2ZFQnhtNVgtQXlRMlhvYVM2TXU3eVhVMmpiRHBjS3FGZWVFSUZ4MWpKUnZUZDdoQXAteTZaLS14NnljdDctbE9kd2RJY0xPelNfRGFFMmE4eElYSDY1OVozbURWMDlNQmQzc1JkdmFCOHBmc3dPcG5icVlxWDRVQlk3ZklLV3ROT0RZa0RkeHpETzFqcTFqY3N6eFdhZDhCWUNVaG1kR3ZaYUNfdUNZWXFuTFVwSGJhVW1OSUVmZWlfeFVWVVdoeHF3R0IzWmhC?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d24ac1aa2835",
       "title": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券",
@@ -92,7 +105,7 @@
       "id": "e108b1df80a7",
       "title": "癌症五條「入侵路徑」都與日常習慣有關",
       "published": "2026-10-13T11:00:00+00:00",
-      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元【好Heal】研究：全球八分之一癌症個案與感染有關 接種疫苗及治療可減患癌風險&nbsp;&nbsp;Now 新聞",
+      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元【好Heal】研究：全球八分之一癌症個案與感染有關 接種疫苗及治療可減患癌風險&nbsp;&nbsp;Now 新聞很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;Yahoo新聞討論牆 | 不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "大紀元",
@@ -677,42 +690,17 @@
       "matched_keywords": []
     },
     {
-      "id": "d20e13892525",
+      "id": "2799c4897e74",
       "title": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效",
-      "published": "2026-10-12T02:00:00+00:00",
-      "summary": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效&nbsp;&nbsp;民報",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCXzFIcExjdFdUcnJuSmVyaF94SEliUFVIREhfNXpCZ1pmM3hHRDRTdkZSVkttUHAwV1RjNENVUmtodm9MUFFkUnk3ZlVHV1BQbzIzUktPNjJ0c0psM3Yzeg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2ce63bc9ca90",
-      "title": "感冒沒開抗生素氣到退掛 醫糾錯",
-      "published": "2026-10-11T22:00:26+00:00",
-      "summary": "感冒沒開抗生素氣到退掛 醫糾錯&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "2026-10-12T02:35:39+00:00",
+      "summary": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPenpNZjlVeDFpS3h5aHVEaml5el90aVNFM1pyY3VtMUN4X0Q1TkZNNDlJYmwzZEhNWDRWeUtDRWZKRU01d2hCVjhhYXJDR19nRGNqYTVWQzRoS3FqUlI1YWE3eVd4bEE5R21jeDIwMUl6TEtDckI3WGpyZGRpd2ZBV0pPeWVoWHJHUmRfZFFuSWplSDRROVBNUW41cmF0NW01NHMtcDNtSVJQUWVqZU84TFktaTdpOTdOUVcyN1lRZHVZNEI1VGp6RnlQVW14OUtFckVCcHYwWDJ4dmF6aURUT0ktcmtna0JqTU42bGk2SUdubDA2bXI5NnA2M2sySjI2ZGROWGdvOERUYXh6aGZaSktKb1hCb29zOUNHQTQtU2ZpSkMxSXVmNmV4REdCSnZvWjRYVmwyMTk2M2xWSUJ2Smxha0pUQi1QcnlnamtXRDB1RjRTRjg4akNCMWltV1BZak1QYnYtMVd4bEFMOTVsdFN0dDUwQXc?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "102bd57e9500",
@@ -1143,6 +1131,19 @@
       "matched_keywords": []
     },
     {
+      "id": "6140bdf30b1b",
+      "title": "長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降",
+      "published": "2026-10-08T20:00:54+00:00",
+      "summary": "長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降&nbsp;&nbsp;巴士的報愛吃炸物甜食？小心大腦發炎！&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQc0h3WTE2ckVOOVBVS0VydHBpam9CV0pucGhRLXdMa3c0Ql9EU0JTQS1hWF9XVzVma0JDTFFqcUMtampoVFdvZE03SFBFeThxVWg2aDJfb1RQajlRaE44Znlzemx0blR0eDNXRjA5cmFmQVdYbWs1eXF5T3JXbGM1OGxiWTdYOUpDTmNCMlFVQ05OWURncnFfd0RyOU1XYmV0ZElnaDEydi1HQzVJS0I1RVpvM1phcG1oS2c4Y21INnhmQVJ4YUZtMHlwVnJOQjdMRTRXbVNCUTFVLXhSSnVyaFhwZmpQRmE0Q21JQWVlaG5LVTVQVzhob0RPSnEwOHNNemU1Wkp1LXA4ejhaMC1pczZGX1pmTDRyczFSLVdDNEJ5Y19LdW9MYkp2eldMc3ZiM0p0dzBIY1Zia1pVNlBZRFAwLTRJckp1SmhOUE5UeExyb3RHZVR3dFEtamZPSWJCZXNjdWFqN0t2U1I1a1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "c4c90b29d52a",
       "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - Sky Post",
       "published": "2026-10-08T10:31:49+00:00",
@@ -1192,6 +1193,31 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "a0674fb982d3",
+      "title": "不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康",
+      "published": "2026-10-08T04:04:55+00:00",
+      "summary": "不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康&nbsp;&nbsp;中時新聞網感冒沒開抗生素氣到退掛 醫糾錯&nbsp;&nbsp;中華日報感冒討抗生素遭拒怒退掛 醫揭迷思：非萬用藥、更殺不死病毒&nbsp;&nbsp;民報他感冒「抗生素開強一點明天要上班」 醫不開遭怒退掛&nbsp;&nbsp;ETtoday健康雲感冒看診氣到退掛！病人「指定開1藥」遭拒當場走人 醫揭恐怖後果&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CR3l5SUh5ZDdkcFp6c1I3eGNFaEVfSmtsSktCVGRIaWpiUnczbGJjLUhDQ1AxRXhuY1FJT3VCd0locTRhdy00ZWd1MFhRTTJfOFZzOEk1NElfZE1aa1VWeG1FbFF1OFhBZ3JNU3FR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1fdf655acd2a",
@@ -1346,24 +1372,11 @@
       "id": "29c7e6b3c55c",
       "title": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾",
       "published": "2026-10-07T03:21:55+00:00",
-      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET調查：六成半蕁麻疹患者睡不安寧 痕癢影響深遠&nbsp;&nbsp;星島頭條每5人有1個患蕁麻疹 痕到無得瞓壓力倍增&nbsp;&nbsp;東方日報",
+      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET調查：六成半蕁麻疹患者睡不安寧 痕癢影響深遠&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQOFBSUUV2VndWVGNKVm1mRVZkOUF3WFZ3d2dfTG11eWtoaW1vN050dDJfWlJSVE1sVVFLa195SjFPTmdEV1I3NFJJM2JwZEZab1h6RjdLS0pRSW51Q3BqSFFoMUZOTWpkd3hRVjJ5RmhFUEhFRFVYUDZTdzg4TkM2NXpMU1FJOFdKVFVLRzVIcEVCcTJNVEl1M2gwX0RLRk5DRkdFY1g0ZS1KWEc2d21xbGNUV3pMejFINFVUYlIxajg4a19LbVFCSTFBaUxmTllkVWkxTnZxa085WlhQVW10VW8yVFh3TDB3R1J5SU9Vc3NvUWV3bjYtNTdMbHdncXRqQ3ZiUDl3QUxLamJBT0JwSmUxMmlZU2pzaG04S0pBOU1odDRCRXB1eGxfdlRDT1FNSE90LUpWRmtESUdBaGs4ZmREbTFnaFczalE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fc4337e5efe7",
-      "title": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降",
-      "published": "2026-10-06T21:31:03+00:00",
-      "summary": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降&nbsp;&nbsp;世界新聞網愛吃炸物甜食？小心大腦發炎！&nbsp;&nbsp;東森新聞長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93S1J5Ym9NZlJPQzNRcFZNMVkyd0drZXJYV1RILWhIeS0wQVplcVRKZDBpTTlDM0o3UGFtVlBGbnBpb1B3YUExTTcteU16aHR4OGVWcFZyZXliLTlHcUQ5WmxR0gFnQVVfeXFMUE4xSnlvNlRJUVEtY3ZmcGwwSU81RHJHSS13SWdVQWdHY3hPckFINmNMcFdtTVNjdXNMS0tXb1NkdFBkRnM0RXZuM19rQ2M5MVIzWEI2X1VScXo2a3YwNFkzcGduQjc1cw?oc=5"
         }
       ],
       "matched_keywords": []

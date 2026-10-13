@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-13T19:39:59.362590+00:00",
-  "count": 39,
+  "fetched_at": "2026-10-13T23:31:48.307232+00:00",
+  "count": 40,
   "news": [
     {
       "id": "eaafb2188543",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "d11fffd7435c",
-      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
-      "published": "2026-10-12T23:36:12+00:00",
-      "summary": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2d9c362e89fc",
       "title": "「1食物」甜爆卻抗發炎、預防糖尿病！是天然甜味劑 - Yahoo新聞",
       "published": "2026-10-12T04:22:57+00:00",
@@ -52,14 +40,14 @@
       ]
     },
     {
-      "id": "7962a31f5b17",
-      "title": "健康網》骨密度下降不只傷骨頭！ 研究揭認知功能退化警訊 - 自由健康網",
-      "published": "2026-10-12T09:53:00+00:00",
-      "summary": "健康網》骨密度下降不只傷骨頭！ 研究揭認知功能退化警訊&nbsp;&nbsp;自由健康網",
+      "id": "d11fffd7435c",
+      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
+      "published": "2026-10-12T23:36:12+00:00",
+      "summary": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5icEtHWnZPaHR5ZDVRejBxdXRQekxXX0hHdUlwV2NBNHgxTDM5UjNha0hMS1FwN0ZkYng0ZkY0TDRaTWphLUpUYmI1c1JZbm5PX1Vwbm5VaUN1VXAyQVEtV1NjTlA?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
         }
       ]
     },
@@ -72,6 +60,18 @@
         {
           "name": "風傳媒",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KQnU4TUs4MktKcnhkVnJJZ3QwTks3Nlp4dUVSWFF3aEhISmJ0ZjJadEtOQmxrX1l6TV9pT294S0lySERuZmlrMVRuVjFQZEdq?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7962a31f5b17",
+      "title": "健康網》骨密度下降不只傷骨頭！ 研究揭認知功能退化警訊 - 自由健康網",
+      "published": "2026-10-12T09:53:00+00:00",
+      "summary": "健康網》骨密度下降不只傷骨頭！ 研究揭認知功能退化警訊&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5icEtHWnZPaHR5ZDVRejBxdXRQekxXX0hHdUlwV2NBNHgxTDM5UjNha0hMS1FwN0ZkYng0ZkY0TDRaTWphLUpUYmI1c1JZbm5PX1Vwbm5VaUN1VXAyQVEtV1NjTlA?oc=5"
         }
       ]
     },
@@ -100,14 +100,26 @@
       ]
     },
     {
-      "id": "d20e13892525",
-      "title": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效 - 民報",
-      "published": "2026-10-12T02:00:00+00:00",
-      "summary": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效&nbsp;&nbsp;民報",
+      "id": "e108b1df80a7",
+      "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元",
+      "published": "2026-10-13T11:00:00+00:00",
+      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元【好Heal】研究：全球八分之一癌症個案與感染有關 接種疫苗及治療可減患癌風險&nbsp;&nbsp;Now 新聞很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;Yahoo新聞討論牆 | 不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCXzFIcExjdFdUcnJuSmVyaF94SEliUFVIREhfNXpCZ1pmM3hHRDRTdkZSVkttUHAwV1RjNENVUmtodm9MUFFkUnk3ZlVHV1BQbzIzUktPNjJ0c0psM3Yzeg?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2799c4897e74",
+      "title": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效 - Yahoo新聞",
+      "published": "2026-10-12T02:35:39+00:00",
+      "summary": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPenpNZjlVeDFpS3h5aHVEaml5el90aVNFM1pyY3VtMUN4X0Q1TkZNNDlJYmwzZEhNWDRWeUtDRWZKRU01d2hCVjhhYXJDR19nRGNqYTVWQzRoS3FqUlI1YWE3eVd4bEE5R21jeDIwMUl6TEtDckI3WGpyZGRpd2ZBV0pPeWVoWHJHUmRfZFFuSWplSDRROVBNUW41cmF0NW01NHMtcDNtSVJQUWVqZU84TFktaTdpOTdOUVcyN1lRZHVZNEI1VGp6RnlQVW14OUtFckVCcHYwWDJ4dmF6aURUT0ktcmtna0JqTU42bGk2SUdubDA2bXI5NnA2M2sySjI2ZGROWGdvOERUYXh6aGZaSktKb1hCb29zOUNHQTQtU2ZpSkMxSXVmNmV4REdCSnZvWjRYVmwyMTk2M2xWSUJ2Smxha0pUQi1QcnlnamtXRDB1RjRTRjg4akNCMWltV1BZak1QYnYtMVd4bEFMOTVsdFN0dDUwQXc?oc=5"
         }
       ]
     },
@@ -124,18 +136,6 @@
       ]
     },
     {
-      "id": "e108b1df80a7",
-      "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元",
-      "published": "2026-10-13T11:00:00+00:00",
-      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元【好Heal】研究：全球八分之一癌症個案與感染有關 接種疫苗及治療可減患癌風險&nbsp;&nbsp;Now 新聞",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ad6ea2f888b6",
       "title": "想活到70歲還健康、頭腦清楚？哈佛研究曝「7類食物」要常吃- 書房 - 工商時報",
       "published": "2026-10-12T23:10:00+00:00",
@@ -148,14 +148,14 @@
       ]
     },
     {
-      "id": "2ce63bc9ca90",
-      "title": "感冒沒開抗生素氣到退掛 醫糾錯 - Yahoo新聞",
-      "published": "2026-10-11T22:00:26+00:00",
-      "summary": "感冒沒開抗生素氣到退掛 醫糾錯&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "a0674fb982d3",
+      "title": "不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康 - 中時新聞網",
+      "published": "2026-10-08T04:04:55+00:00",
+      "summary": "不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康&nbsp;&nbsp;中時新聞網感冒沒開抗生素氣到退掛 醫糾錯&nbsp;&nbsp;中華日報感冒討抗生素遭拒怒退掛 醫揭迷思：非萬用藥、更殺不死病毒&nbsp;&nbsp;民報他感冒「抗生素開強一點明天要上班」 醫不開遭怒退掛&nbsp;&nbsp;ETtoday健康雲感冒看診氣到退掛！病人「指定開1藥」遭拒當場走人 醫揭恐怖後果&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CR3l5SUh5ZDdkcFp6c1I3eGNFaEVfSmtsSktCVGRIaWpiUnczbGJjLUhDQ1AxRXhuY1FJT3VCd0locTRhdy00ZWd1MFhRTTJfOFZzOEk1NElfZE1aa1VWeG1FbFF1OFhBZ3JNU3FR?oc=5"
         }
       ]
     },
@@ -244,14 +244,14 @@
       ]
     },
     {
-      "id": "fc4337e5efe7",
-      "title": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降 - 世界新聞網",
-      "published": "2026-10-06T21:31:03+00:00",
-      "summary": "日本研究：高熱量飲食恐致腦神經突觸異常 認知功能下降&nbsp;&nbsp;世界新聞網愛吃炸物甜食？小心大腦發炎！&nbsp;&nbsp;東森新聞長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降&nbsp;&nbsp;巴士的報",
+      "id": "6140bdf30b1b",
+      "title": "長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降 - 巴士的報",
+      "published": "2026-10-08T20:00:54+00:00",
+      "summary": "長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降&nbsp;&nbsp;巴士的報愛吃炸物甜食？小心大腦發炎！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93S1J5Ym9NZlJPQzNRcFZNMVkyd0drZXJYV1RILWhIeS0wQVplcVRKZDBpTTlDM0o3UGFtVlBGbnBpb1B3YUExTTcteU16aHR4OGVWcFZyZXliLTlHcUQ5WmxR0gFnQVVfeXFMUE4xSnlvNlRJUVEtY3ZmcGwwSU81RHJHSS13SWdVQWdHY3hPckFINmNMcFdtTVNjdXNMS0tXb1NkdFBkRnM0RXZuM19rQ2M5MVIzWEI2X1VScXo2a3YwNFkzcGduQjc1cw?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQc0h3WTE2ckVOOVBVS0VydHBpam9CV0pucGhRLXdMa3c0Ql9EU0JTQS1hWF9XVzVma0JDTFFqcUMtampoVFdvZE03SFBFeThxVWg2aDJfb1RQajlRaE44Znlzemx0blR0eDNXRjA5cmFmQVdYbWs1eXF5T3JXbGM1OGxiWTdYOUpDTmNCMlFVQ05OWURncnFfd0RyOU1XYmV0ZElnaDEydi1HQzVJS0I1RVpvM1phcG1oS2c4Y21INnhmQVJ4YUZtMHlwVnJOQjdMRTRXbVNCUTFVLXhSSnVyaFhwZmpQRmE0Q21JQWVlaG5LVTVQVzhob0RPSnEwOHNNemU1Wkp1LXA4ejhaMC1pczZGX1pmTDRyczFSLVdDNEJ5Y19LdW9MYkp2eldMc3ZiM0p0dzBIY1Zia1pVNlBZRFAwLTRJckp1SmhOUE5UeExyb3RHZVR3dFEtamZPSWJCZXNjdWFqN0t2U1I1a1E?oc=5"
         }
       ]
     },
@@ -280,18 +280,6 @@
       ]
     },
     {
-      "id": "b60177cbe31e",
-      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站 - CCUE",
-      "published": "2026-10-12T03:00:39+00:00",
-      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWNGcmVpbVF3RG1vOVFNb3VpRzgxTURJMzNMX21pSm40Skd5dUN0cEVuWVZhcjkxWm16UXd0ajIzRXZDTGgxejdoY0lDLTBXdjBTTzA2MUJJV29KSDJ1S0ozRjZEQlNWbTdpMERhb3duLUNNckZUeVN5bW9nMmVJeWdUTF85dmZyRGVsUER3dTFSZ0h3bjJmeUVlc2syVkpvWFFDeUxMaGNYcGUwLXRnc0NTbFJZN0pwOVYyQUxGWk9UMXBJeFJJNXZVS0VtU2pBUGJfZ1otY3JwcFFhR2ZpTVhIYUdYS0tzQTJIYV8xT2JUUlFZM0s4Z1lHODBadkMzTm1yUkN4eXpUaHItQjViVXVaOFFpR0sxME1LSFppOFRpUzZDR2NIVWpSckZuNDJabWxHX1Nib1BNdE80UmxBc3dVM25GSTZEMVJLemJFOGZFMW40U01kYmRkZTJ4UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d24ac1aa2835",
       "title": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券 - healthyD",
       "published": "2026-10-13T12:40:02+00:00",
@@ -304,6 +292,30 @@
       ]
     },
     {
+      "id": "b60177cbe31e",
+      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站 - CCUE",
+      "published": "2026-10-12T03:00:39+00:00",
+      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWNGcmVpbVF3RG1vOVFNb3VpRzgxTURJMzNMX21pSm40Skd5dUN0cEVuWVZhcjkxWm16UXd0ajIzRXZDTGgxejdoY0lDLTBXdjBTTzA2MUJJV29KSDJ1S0ozRjZEQlNWbTdpMERhb3duLUNNckZUeVN5bW9nMmVJeWdUTF85dmZyRGVsUER3dTFSZ0h3bjJmeUVlc2syVkpvWFFDeUxMaGNYcGUwLXRnc0NTbFJZN0pwOVYyQUxGWk9UMXBJeFJJNXZVS0VtU2pBUGJfZ1otY3JwcFFhR2ZpTVhIYUdYS0tzQTJIYV8xT2JUUlFZM0s4Z1lHODBadkMzTm1yUkN4eXpUaHItQjViVXVaOFFpR0sxME1LSFppOFRpUzZDR2NIVWpSckZuNDJabWxHX1Nib1BNdE80UmxBc3dVM25GSTZEMVJLemJFOGZFMW40U01kYmRkZTJ4UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eb5515c99a6e",
+      "title": "種子油有毒？ 破解KOL「故事陷阱」 - 20261014 - 副刊 - 明報新聞網",
+      "published": "2026-10-13T20:30:00+00:00",
+      "summary": "種子油有毒？ 破解KOL「故事陷阱」 - 20261014 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdFFOR3Y4WlZrWWtGUnVUZWt2UGtJR2NUb2Y1Y0V0b3lzYS15clB4aFJfajBWbW12ZnZNSlJyQ2V6eHB0MzlEOWFLNVZqQUtWcFJBcVZWZnNUUGYyWW5TV3ItaThVdHZNX2ZFQnhtNVgtQXlRMlhvYVM2TXU3eVhVMmpiRHBjS3FGZWVFSUZ4MWpKUnZUZDdoQXAteTZaLS14NnljdDctbE9kd2RJY0xPelNfRGFFMmE4eElYSDY1OVozbURWMDlNQmQzc1JkdmFCOHBmc3dPcG5icVlxWDRVQlk3ZklLV3ROT0RZa0RkeHpETzFqcTFqY3N6eFdhZDhCWUNVaG1kR3ZaYUNfdUNZWXFuTFVwSGJhVW1OSUVmZWlfeFVWVVdoeHF3R0IzWmhC?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8ea540f8497f",
       "title": "25歲言語治療師實習期間突中風！錯過3大警號險送命 緊急入ICU｜健康專訪 - 星島頭條",
       "published": "2026-10-12T09:00:11+00:00",
@@ -312,18 +324,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNZUg0UmNtX01QM2FsTV92NFFMRU9yTDFLZmpnMjFHbW1HSUx4cGwxTHBEdi1wRWNZdXE3dEVTOUJDRGpqNnFVRi1HMkdxY1YzZEROV0RKT0FMUjNQaHk1UlJmQ05zbFd2QzlESTdfUGphd0x3MGVQVVZITG8xZjlsRUo5emQtSGQ5bk4ydXdWaFBqM0pmZFRmbzJyZlltblBUYllzeFJxSjJyX3FpSkNYRlVTNXhWQ0h5R09ZN2tKQ1RzcF9vdDhzMjdyY1d4MzRWMTNJcExRZUVsQ0ZnVEJybS1Jc3FKTUd1UGtUMFZVaDBGaGlzUTBSMTVBaHNoQlNCR1kzRG9zZGcwdlF0T3dmSzJJRzhkWjY5bW9SMG00SU9fVkRfQXRoT2s1UThUdnRSV1FJZmRMaWtHQ21qWmZ4OFZoSS1pQ2d1Q19WUzEycDlZWTQyT3JTUDVjdEt1UklUMVVNOFhoenV1Q3FuRl9yMFh1dnBpRG1PQ0J3YUQtb3B6Ym1kMnluNWptU04zNUVFQ0pLVGhLaGhOU2pIQkUtNEdONXB4RXgxRnRxaW1DdE0ycVk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "102bd57e9500",
-      "title": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊 - 明報新聞網",
-      "published": "2026-10-11T20:30:00+00:00",
-      "summary": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcW42SUROczY0VEFIN1JrVV9jSTVZdmZjcTJVbkFoQ2ladEJ1N2MyTlY5Q2UzeE1oMVpOdXN6T1FtOS1uU21lOEpXWjlSMEYyRl8zMVpnTDdRM1lORnBLYTZoOUp0LXlRaVZKZXJRSzVQZHc2YzlSVFlWeEhYbUphbjFoQzJ2THQyWS1UQ1pOZkMySVRuSGdmcWtPUEl4ZUtHdUZPbEFKbGpTaGppSjBJTE5UZnlBS1hhR3pKZFQwTktCTnk1Z2h1cU0yQzdydUkwdlFWblQ2ZmxqbHBMc1o5OWpidktDRFVrZW4wRWo5YmZtUkdsc1cxRFdSVFVCWnJ0U2dvRy1TZHZWZjd4Mk9VamFDNGlCdERXSHZ6R2J3VDBLSUxOWS1td05sYU0?oc=5"
         }
       ]
     },
@@ -412,6 +412,18 @@
       ]
     },
     {
+      "id": "102bd57e9500",
+      "title": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊 - 明報新聞網",
+      "published": "2026-10-11T20:30:00+00:00",
+      "summary": "醫學滿東華：更年期遇上青春期 - 20261012 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNcW42SUROczY0VEFIN1JrVV9jSTVZdmZjcTJVbkFoQ2ladEJ1N2MyTlY5Q2UzeE1oMVpOdXN6T1FtOS1uU21lOEpXWjlSMEYyRl8zMVpnTDdRM1lORnBLYTZoOUp0LXlRaVZKZXJRSzVQZHc2YzlSVFlWeEhYbUphbjFoQzJ2THQyWS1UQ1pOZkMySVRuSGdmcWtPUEl4ZUtHdUZPbEFKbGpTaGppSjBJTE5UZnlBS1hhR3pKZFQwTktCTnk1Z2h1cU0yQzdydUkwdlFWblQ2ZmxqbHBMc1o5OWpidktDRFVrZW4wRWo5YmZtUkdsc1cxRFdSVFVCWnJ0U2dvRy1TZHZWZjd4Mk9VamFDNGlCdERXSHZ6R2J3VDBLSUxOWS1td05sYU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c4c90b29d52a",
       "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - Sky Post",
       "published": "2026-10-08T10:31:49+00:00",
@@ -451,7 +463,7 @@
       "id": "29c7e6b3c55c",
       "title": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾 - 香港經濟日報HKET",
       "published": "2026-10-07T03:21:55+00:00",
-      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET調查：六成半蕁麻疹患者睡不安寧 痕癢影響深遠&nbsp;&nbsp;星島頭條每5人有1個患蕁麻疹 痕到無得瞓壓力倍增&nbsp;&nbsp;東方日報",
+      "summary": "蕁麻疹發作難預測 六成半受訪患者受睡眠困擾&nbsp;&nbsp;香港經濟日報HKET調查：六成半蕁麻疹患者睡不安寧 痕癢影響深遠&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "香港經濟日報HKET",
