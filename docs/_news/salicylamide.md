@@ -52,11 +52,11 @@ permalink: /news/salicylamide/
 
 ---
 
-### [感冒沒開抗生素氣到退掛 醫糾錯](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR09VcmkzUUh0TjVFQXMtUXZJRFF1bnFIWFR3RGFhWDliVi1QWWQ0Q2ZIUGJ1QmxoVXhSTTM1VnhkcXBldlcxWDdPVEFUMHI2cEE?oc=5)
+### [感冒沒開抗生素氣到退掛 醫糾錯](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
 
 2026-10-11 <span class="news-indication-tag">感冒</span>
 
-來源: [中華日報](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR09VcmkzUUh0TjVFQXMtUXZJRFF1bnFIWFR3RGFhWDliVi1QWWQ0Q2ZIUGJ1QmxoVXhSTTM1VnhkcXBldlcxWDdPVEFUMHI2cEE?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
 
 ---
 

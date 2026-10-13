@@ -14,7 +14,7 @@ permalink: /news/milrinone/
 ---
 
 <p class="key-answer" data-question="Milrinone 有什麼相關新聞？">
-<strong>Milrinone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Milrinone</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,9 @@ permalink: /news/milrinone/
 <p><a href="{{ '/drugs/milrinone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [哈佛研究認證「護心運動」是它！每天只要30分鐘，降低高血壓、減少心臟病風險 - Women's Health](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlREaWZDNVBMOFBKbl9PSFpGRFBPZk0tWVpCU3Rnd192TUpYeTY5QWE5NUdmTURvNlNVRUxCN0RHY3A5dnhzS0pFSGMyVWE1NTJLcnVLMDk3a2N5dnRsNnBEU3V6QkVfZlRIc2FRdWlvVzhsR2JQZWxBQnk2VnNSUHVpRURhaVZLdDBZWTlWNGVCTDZLT281Rg?oc=5)
-
-2026-10-09 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">高血壓</span>
-
-來源: [Women's Health](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlREaWZDNVBMOFBKbl9PSFpGRFBPZk0tWVpCU3Rnd192TUpYeTY5QWE5NUdmTURvNlNVRUxCN0RHY3A5dnhzS0pFSGMyVWE1NTJLcnVLMDk3a2N5dnRsNnBEU3V6QkVfZlRIc2FRdWlvVzhsR2JQZWxBQnk2VnNSUHVpRURhaVZLdDBZWTlWNGVCTDZLT281Rg?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
