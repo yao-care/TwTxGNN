@@ -1,7 +1,31 @@
 {
-  "generated": "2026-10-12T23:23:22.038694+00:00",
-  "count": 16,
+  "generated": "2026-10-13T04:39:58.465679+00:00",
+  "count": 17,
   "news": [
+    {
+      "id": "d11fffd7435c",
+      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
+      "published": "2026-10-12T23:36:12+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "未知",
+          "keyword": "未知",
+          "related_drugs": [
+            {
+              "slug": "dl-alpha-tocopherol",
+              "name": "DL-alpha-Tocopherol"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fffff1fe7ef5",
       "title": "47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0",
@@ -21,34 +45,6 @@
             {
               "slug": "salicylamide",
               "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b77997510170",
-      "title": "早發型思覺失調症18歲前就發病！國衛院揪「4基因」有望迎新藥",
-      "published": "2026-10-12T10:04:19+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxOMTE3S2l5ZDc5WHhRdWdCRzRiLTFTWnZGVlJtSDlPT0FuTzFIUEdBeDVBUnFKTHdFdW1UUFNYeXVkVmg5MDlaX3RkWWNuXzA2SDFkenFVNDF2aTNwd2Z1QmFHTlZBemQyd29UMFlKbGVCRHMwMGRCMlRlSmVvUTV2VFpkbFYyMTI2QzJEcElxbEZKOE5CVVlVS243TmxxbUVJT3RsckhyNm0tUE5jSUJwWnRCRzVSV2pVV2hDU0xkbEUtWENLZloyVHhKYVFlVDVzUzBjWEMtQ1Q2a0t1LUtaRVo2aW1PTFZHYVZrMU1UYjludUFFTjg0ZU5nNTV6Y0U4OGpiQm1UR1BNY0VuVWJ0eW9pNVdocW1SSl9EVHNpSGI3VzN3Q2dpUUJ4VGxyR2ZfZFFRMGNxeXlNUXY0Y055elQtVTNGS2lhZTFIZFJLNzExQ25rUFhaeDMzSi1vZjVjdmpVZU8wOWF5R19CcGM0S21pNDd3R0hOXzRv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "思覺失調症",
-          "related_drugs": [
-            {
-              "slug": "ropinirole",
-              "name": "Ropinirole"
-            },
-            {
-              "slug": "rotigotine",
-              "name": "Rotigotine"
             }
           ]
         }
@@ -351,13 +347,13 @@
       ]
     },
     {
-      "id": "6e7aab1f1946",
+      "id": "20e5a72fec7f",
       "title": "鼻咽癌｜女子長期鼻塞未理會檢查驚患鼻咽癌醫生警告：伴隨5大症狀速求醫【附鼻炎VS 鼻咽癌症狀區別】",
       "published": "2026-10-11T10:11:41+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxQUlRZWURmUEpWQVlKRWpQRzY3MjdEWjZnMmp0V1o4dk02Qk9mSFJwakVjU3BkU3BTNHR4V2U4eGt0MEJ0WHN2LURFRjZLYldTczdySktVYU5rMktQWTM3eUQxVTh6WnZiSEE0Y05KUG9mbG1lNVY2UmhNZnpLNnh2cS1MNmR0cmh0eElpZ2F3NUdidzd6TnFZWVdCVHZYMGg3b3h0SWExcDlyOUpCalVkT0VFUWlwa0R6TWg5S2dPMG5XYjZzQ2FzSV83eDI1cHUySzJkMnZJSmV6Y0o3VUVLa3BNQ1ZUbjFjM2xqcXRhbHdrV21rc3FpR1ByVGpYa3I4RENPZ1lVMW82ZG0wTjBfRUJrLWtIMWZuVmVfQVVoR2tibE1xU05NR2RKVEJibXM3N25KaHVOMFFzNlJwekJXM2hpSUlFdzd2ZGNfdWpvVktFVWttd0xuRVlhMmhwNkNiQzh1RTZXX1JabzJTRWhzUW92RGh6UjF5UHpKMVdwcUdNYVJZb2x5c0RxVDBPT0c4WTZrNF9tVWxtNWQxQjdzaGZxejhJTkdOdjcxMnJNaFBicUxnN3IyZWYxcnJKN3hoRjRKOURMSER5d3BlODRqSjFVLWZ2c1FPb281SjAyM1h1bGdhYVNab1ptMkdQWWhoc2ZfRDlOTExfU1N5R3FSTHV2TzFIdTN1M3BZT1RuV1ZkemMzTGJrQkJmcUxwMTFJd1Jxa3hVMXpuNVpRMV9MTFZHTS1abTNBZGlEUFNNdFY1eVJpU0JmUTVZSDZyQm1KSWpxQ0x1T0NoQnJGYmdtRGt6YTR1b2ZaSTNRdGdSWmdTS3pxMDNqXzhsNU52VVBBc0s1elFDZ2dhZkVTRHFMSmhyZ2RoTnhEQVBUMUNqdw?oc=5"
         }
       ],
       "keywords": [
@@ -564,30 +560,6 @@
             {
               "slug": "xylometazoline",
               "name": "Xylometazoline"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7fb5c84d0ae6",
-      "title": "感冒好了卻咳不停！醫揭「3大咳嗽型態」 狂吃止咳藥恐錯了",
-      "published": "2026-10-11T03:59:28+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPNzlzRHQ0Nmt6N3Rlcll3UWZtR2RxX25zdmZXSWxJN0p6Nmx3c29pS3FOMXBKMHZ4UFlyVGF2RHQ3dzVjcF9uSkw5MUoyVUwyVVlyWnNvaVlGYllaMjktblZMVlBqRjBPVnEwSTdkS1FOUmJMNldkRC0xbTh0VzVJS2xpaHJPT3ZuTmdXNERUdVBTT0JYcVV1VG9pSjdJWWx4QjY3Vl9hODhnMFNES1d5bnR5RERmUVNUbWszcC01UndYYXQtaXh3VExVNmwwd2hwU3E3d0FNblBYWVV0TTc1eTZoUHVKQUk1YnB6UlNRRXhLdVJvVlN1cW1Najh0bTBUY2t5eVFxMEtWdnZvVXRFSktnSlNLczZJTjYxN29IYXNndE51QjVIekV1ZC1Nc1pOTmZIank5V1Q5U0N3SU1JVmdwaFgzaXE1YWtNQkl6c0k1bDV4VmVWbWZzUHJpZUZpWFZQOHk2ZXV3U2NW?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }
@@ -802,6 +774,30 @@
       ]
     },
     {
+      "id": "2f2d19634730",
+      "title": "廈心醫院舉辦公益開放日 科普科學減重守護心血管健康",
+      "published": "2026-10-09T08:45:00+00:00",
+      "sources": [
+        {
+          "name": "人民网-福建频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YOUxETzdYNlNaN0FzT3dVZ18zY20wNnRKMUs0ZjFKb1NrSXpBTnFWTDk1aHlHRGJ3ZnlyZ081QUFXQ1RHTkpwRnpreXBmdC1DZUN3empJMTZHalVWVko0TkEzdW9EdHZZU1AzWDRQUV8?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7be95b6bec5e",
       "title": "偏頭痛別亂吞阿斯匹靈！醫揭「恐胃出血」 1組合中風機率狂飆",
       "published": "2026-10-09T07:47:00+00:00",
@@ -974,6 +970,30 @@
       ]
     },
     {
+      "id": "d32fcbff67e8",
+      "title": "感冒反覆一直不好？醫：恐非單一感染 當心病毒接力賽",
+      "published": "2026-10-06T07:34:00+00:00",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaXNYWkN2Tk9RZ25nQXFIYWUzNnpqSXlPaG9OaVNIdjBfNFQtVUZ1UjhGM2FnZThEdnhNTnhNMnF2Z2ZUZWZhdm5zcWJTdHl2Z3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5dd4e241ad83",
       "title": "潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事",
       "published": "2026-10-06T06:52:21+00:00",
@@ -998,13 +1018,13 @@
       ]
     },
     {
-      "id": "9137404b1185",
-      "title": "孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網",
-      "published": "2026-10-06T04:16:23+00:00",
+      "id": "5b80a4e138ed",
+      "title": "孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」",
+      "published": "2026-10-06T06:10:45+00:00",
       "sources": [
         {
-          "name": "Mombaby 媽媽寶寶懷孕生活網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5"
         }
       ],
       "keywords": [

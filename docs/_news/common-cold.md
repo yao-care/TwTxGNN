@@ -47,19 +47,19 @@ permalink: /news/common-cold/
 
 ---
 
-### [感冒好了卻咳不停！醫揭「3大咳嗽型態」 狂吃止咳藥恐錯了](https://news.google.com/rss/articles/CBMi7AJBVV95cUxPNzlzRHQ0Nmt6N3Rlcll3UWZtR2RxX25zdmZXSWxJN0p6Nmx3c29pS3FOMXBKMHZ4UFlyVGF2RHQ3dzVjcF9uSkw5MUoyVUwyVVlyWnNvaVlGYllaMjktblZMVlBqRjBPVnEwSTdkS1FOUmJMNldkRC0xbTh0VzVJS2xpaHJPT3ZuTmdXNERUdVBTT0JYcVV1VG9pSjdJWWx4QjY3Vl9hODhnMFNES1d5bnR5RERmUVNUbWszcC01UndYYXQtaXh3VExVNmwwd2hwU3E3d0FNblBYWVV0TTc1eTZoUHVKQUk1YnB6UlNRRXhLdVJvVlN1cW1Najh0bTBUY2t5eVFxMEtWdnZvVXRFSktnSlNLczZJTjYxN29IYXNndE51QjVIekV1ZC1Nc1pOTmZIank5V1Q5U0N3SU1JVmdwaFgzaXE1YWtNQkl6c0k1bDV4VmVWbWZzUHJpZUZpWFZQOHk2ZXV3U2NW?oc=5)
-
-2026-10-11
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi7AJBVV95cUxPNzlzRHQ0Nmt6N3Rlcll3UWZtR2RxX25zdmZXSWxJN0p6Nmx3c29pS3FOMXBKMHZ4UFlyVGF2RHQ3dzVjcF9uSkw5MUoyVUwyVVlyWnNvaVlGYllaMjktblZMVlBqRjBPVnEwSTdkS1FOUmJMNldkRC0xbTh0VzVJS2xpaHJPT3ZuTmdXNERUdVBTT0JYcVV1VG9pSjdJWWx4QjY3Vl9hODhnMFNES1d5bnR5RERmUVNUbWszcC01UndYYXQtaXh3VExVNmwwd2hwU3E3d0FNblBYWVV0TTc1eTZoUHVKQUk1YnB6UlNRRXhLdVJvVlN1cW1Najh0bTBUY2t5eVFxMEtWdnZvVXRFSktnSlNLczZJTjYxN29IYXNndE51QjVIekV1ZC1Nc1pOTmZIank5V1Q5U0N3SU1JVmdwaFgzaXE1YWtNQkl6c0k1bDV4VmVWbWZzUHJpZUZpWFZQOHk2ZXV3U2NW?oc=5)
-
----
-
-### [孕婦沒發燒只是咳嗽流鼻水，準備隔天出國來拿藥，醫師快篩竟驗出A流 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5)
+### [感冒反覆一直不好？醫：恐非單一感染 當心病毒接力賽](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaXNYWkN2Tk9RZ25nQXFIYWUzNnpqSXlPaG9OaVNIdjBfNFQtVUZ1UjhGM2FnZThEdnhNTnhNMnF2Z2ZUZWZhdm5zcWJTdHl2Z3c?oc=5)
 
 2026-10-06
 
-來源: [Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnWGlNOVRULWdfc1dLMV9NVEF4Y1BncHJ5YnUwUzFIUi1pWjV3SDhHdV9OdnpHV2h1SzhrR1k1ZjdicG5hT1J4SWVxVHVZYzhpc2VOSFVB?oc=5)
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaXNYWkN2Tk9RZ25nQXFIYWUzNnpqSXlPaG9OaVNIdjBfNFQtVUZ1UjhGM2FnZThEdnhNTnhNMnF2Z2ZUZWZhdm5zcWJTdHl2Z3c?oc=5)
+
+---
+
+### [孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5)
+
+2026-10-06
+
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5)
 
 ---
 

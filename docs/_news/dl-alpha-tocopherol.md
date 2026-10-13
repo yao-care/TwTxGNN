@@ -14,7 +14,7 @@ permalink: /news/dl-alpha-tocopherol/
 ---
 
 <p class="key-answer" data-question="DL-alpha-Tocopherol 有什麼相關新聞？">
-<strong>DL-alpha-Tocopherol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>DL-alpha-Tocopherol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dl-alpha-tocopherol/
 <p><a href="{{ '/drugs/dl-alpha-tocopherol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5)
+
+2026-10-12 <span class="news-indication-tag">未知</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5)
+
+---
 
 
 <div class="disclaimer">
