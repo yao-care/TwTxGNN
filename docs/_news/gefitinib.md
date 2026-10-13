@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,23 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（8 則）
+
+### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
+
+2026-10-13 <span class="news-indication-tag">癌症</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
+
+---
+
+### [骨頭密度低恐失智 代謝問題釀雙重退化 - 台灣醒報 Awakening News Network](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5)
+
+2026-10-12 <span class="news-indication-tag">失智</span>
+
+來源: [台灣醒報 Awakening News Network](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5)
+
+---
 
 ### [子曰論健康》無症狀也可能藏癌症！ AI PET助揪早期病灶、評估轉移](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5)
 
@@ -64,15 +80,31 @@ permalink: /news/gefitinib/
 
 ---
 
-### [很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防](https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5)
+### [92歲婦切肝腫瘤 微創手術傷口小 精準麻醉降疼痛](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
 
-2026-10-10 <span class="news-indication-tag">癌症</span>
+2026-10-10 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝腫瘤</span>
 
-來源: [風火輪傳媒有限公司](https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5)
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
 
 ---
 
-### [大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通](https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5)
+### [顧關節保健品會加速失智？研究揭葡萄糖胺「過度糖基化」影響大腦](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTFRNXdJUFU0ZTNSQzZiODV0N1RJVjZxOWpBb3Q0cFhVSklZcUtnTy1kTno5MVQ5RENkY0JfM0RJMWJkTWdaekJ1dE0yNm9nc1lDcFBLcERodFRqbWtDRnJnWWRlcVIxMFJpQldLVDA3RnA1Tk0zQXNfclVObHdLMVd30gFiQVVfeXFMTWVTUHBzWG9JLTFpTDdraHZ1cWRXRFdCR0pfRmExQzhKTnFha0JKYnN3bk5KSDVkWk54NWJXX1Eta0xrVk5FS25ReWhnNnFnbWFIU244TDE2aEVOWDBsZjJPZXc?oc=5)
+
+2026-10-10 <span class="news-indication-tag">失智</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTFRNXdJUFU0ZTNSQzZiODV0N1RJVjZxOWpBb3Q0cFhVSklZcUtnTy1kTno5MVQ5RENkY0JfM0RJMWJkTWdaekJ1dE0yNm9nc1lDcFBLcERodFRqbWtDRnJnWWRlcVIxMFJpQldLVDA3RnA1Tk0zQXNfclVObHdLMVd30gFiQVVfeXFMTWVTUHBzWG9JLTFpTDdraHZ1cWRXRFdCR0pfRmExQzhKTnFha0JKYnN3bk5KSDVkWk54NWJXX1Eta0xrVk5FS25ReWhnNnFnbWFIU244TDE2aEVOWDBsZjJPZXc?oc=5)
+
+---
+
+### [居住環境攸關 失智風險？](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kQVU3RXFTdTd3dzVWcEJ0UXhTdnlpLTh4ay1sazRKc1RhS3RYLWFhX0dyU0x5aVFXekFCYUprU19yeHhVcjZEMVZ3Sy1RTzhLZ3ZxQU10R2pqMmRmakRld3hOWlZwQQ?oc=5)
+
+2026-10-08 <span class="news-indication-tag">失智</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kQVU3RXFTdTd3dzVWcEJ0UXhTdnlpLTh4ay1sazRKc1RhS3RYLWFhX0dyU0x5aVFXekFCYUprU19yeHhVcjZEMVZ3Sy1RTzhLZ3ZxQU10R2pqMmRmakRld3hOWlZwQQ?oc=5)
+
+---
+
+### [大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低 - etnet 經濟通](https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5)
 
 2026-10-08 <span class="news-indication-tag">阿茲海默症</span>
 

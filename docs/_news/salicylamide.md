@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 
@@ -52,27 +52,11 @@ permalink: /news/salicylamide/
 
 ---
 
-### [感冒沒開抗生素氣到退掛 醫糾錯](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
+### [感冒沒開抗生素氣到退掛 醫糾錯](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR09VcmkzUUh0TjVFQXMtUXZJRFF1bnFIWFR3RGFhWDliVi1QWWQ0Q2ZIUGJ1QmxoVXhSTTM1VnhkcXBldlcxWDdPVEFUMHI2cEE?oc=5)
 
 2026-10-11 <span class="news-indication-tag">感冒</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5)
-
----
-
-### [感冒反覆一直不好？醫：恐非單一感染 當心病毒接力賽](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaXNYWkN2Tk9RZ25nQXFIYWUzNnpqSXlPaG9OaVNIdjBfNFQtVUZ1UjhGM2FnZThEdnhNTnhNMnF2Z2ZUZWZhdm5zcWJTdHl2Z3c?oc=5)
-
-2026-10-06 <span class="news-indication-tag">感冒</span>
-
-來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaXNYWkN2Tk9RZ25nQXFIYWUzNnpqSXlPaG9OaVNIdjBfNFQtVUZ1UjhGM2FnZThEdnhNTnhNMnF2Z2ZUZWZhdm5zcWJTdHl2Z3c?oc=5)
-
----
-
-### [孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5)
-
-2026-10-06 <span class="news-indication-tag">感冒</span>
-
-來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5)
+來源: [中華日報](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR09VcmkzUUh0TjVFQXMtUXZJRFF1bnFIWFR3RGFhWDliVi1QWWQ0Q2ZIUGJ1QmxoVXhSTTM1VnhkcXBldlcxWDdPVEFUMHI2cEE?oc=5)
 
 ---
 

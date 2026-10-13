@@ -1,15 +1,259 @@
 {
-  "generated": "2026-10-13T04:39:58.465679+00:00",
-  "count": 17,
+  "generated": "2026-10-13T12:21:22.175497+00:00",
+  "count": 22,
   "news": [
     {
-      "id": "d11fffd7435c",
-      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
-      "published": "2026-10-12T23:36:12+00:00",
+      "id": "87e8e647ef7a",
+      "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
+      "published": "2026-10-13T11:00:00+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e108b1df80a7",
+      "title": "癌症五條「入侵路徑」都與日常習慣有關",
+      "published": "2026-10-13T11:00:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ed71f4ae9f22",
+      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報 - LINE TODAY",
+      "published": "2026-10-13T07:32:01+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWFdZdjlKS3ViN3poZlRJY2hhYVRCUlRzRS1DODlxTGdoTVBmUXBORXlybFlFZHFfcU8taU5GYXowUUNTOXJWbUpBMEJ3VHc0Mnp3TGVn?oc=5"
         }
       ],
       "keywords": [
@@ -73,6 +317,30 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "012677d7bafa",
+      "title": "骨頭密度低恐失智 代謝問題釀雙重退化 - 台灣醒報 Awakening News Network",
+      "published": "2026-10-12T06:44:07+00:00",
+      "sources": [
+        {
+          "name": "台灣醒報 Awakening News Network",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
             }
           ]
         }
@@ -287,13 +555,41 @@
       ]
     },
     {
-      "id": "2ce63bc9ca90",
-      "title": "感冒沒開抗生素氣到退掛 醫糾錯",
-      "published": "2026-10-11T22:00:26+00:00",
+      "id": "5deb3e36d50d",
+      "title": "國衛院揪出思覺失調症4樞紐基因！早發型患者新藥靶點露曙光",
+      "published": "2026-10-12T03:12:47+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQSVZKdkhaTmtwMzJIMWd5a2JKLW80U2lqS0tqbXVJUkRfQXBoZTJWWVQ4RGZuR2NoQ0VPRVh6VDVXajZaSE5uNkxGSmh1YmhfcFh4MnFaY3JMTVhKczVPeTl3T253dE4zZURpakprVVZVa1NXV3VDbFltZXluVXRrLUR4MFJHekdjanluTlROd1R4Q0l3b0RkLXhodV9VLXVrSEkwdWZacy1kUDUzRlhTeUtBZ3FuQWtQbHA4Z0pKRFRWVElNT0VGU0tuN3ktbGtPNTR2a0EyUENxZEpzS2dldlVzbUtxTUc1Tmh4MHloZFhFU0w5bkpoUUticzA?oc=5"
+          "name": "環球生技月刊",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12bWNLeUJ2WDhPNzNrbTgxRktNYjBLSVJhZ2JXRHp4b1phenN1cVhiYzR4ZWVONTE2ZF9MTUxlazF5RU5KX2RSR25LSGwwaW0zRjJ5YUlKdGk0T210M2E3dHFjYlVjd2lER3BUVmlNZVBpZndRQVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "思覺失調症",
+          "related_drugs": [
+            {
+              "slug": "ropinirole",
+              "name": "Ropinirole"
+            },
+            {
+              "slug": "rotigotine",
+              "name": "Rotigotine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f7f8d6a10ff",
+      "title": "感冒沒開抗生素氣到退掛 醫糾錯",
+      "published": "2026-10-11T22:08:10+00:00",
+      "sources": [
+        {
+          "name": "中華日報",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR09VcmkzUUh0TjVFQXMtUXZJRFF1bnFIWFR3RGFhWDliVi1QWWQ0Q2ZIUGJ1QmxoVXhSTTM1VnhkcXBldlcxWDdPVEFUMHI2cEE?oc=5"
         }
       ],
       "keywords": [
@@ -566,20 +862,20 @@
       ]
     },
     {
-      "id": "0cd3cf11c9f7",
-      "title": "很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防",
-      "published": "2026-10-10T11:34:05+00:00",
+      "id": "84d915743c92",
+      "title": "92歲婦切肝腫瘤 微創手術傷口小 精準麻醉降疼痛",
+      "published": "2026-10-10T06:00:00+00:00",
       "sources": [
         {
-          "name": "風火輪傳媒有限公司",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "癌症",
+          "keyword": "腫瘤",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -770,6 +1066,41 @@
               "name": "Zanubrutinib"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "liver sarcoma",
+          "keyword": "肝腫瘤",
+          "related_drugs": [
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1ec0d8c496c",
+      "title": "顧關節保健品會加速失智？研究揭葡萄糖胺「過度糖基化」影響大腦",
+      "published": "2026-10-10T02:06:52+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdTFRNXdJUFU0ZTNSQzZiODV0N1RJVjZxOWpBb3Q0cFhVSklZcUtnTy1kTno5MVQ5RENkY0JfM0RJMWJkTWdaekJ1dE0yNm9nc1lDcFBLcERodFRqbWtDRnJnWWRlcVIxMFJpQldLVDA3RnA1Tk0zQXNfclVObHdLMVd30gFiQVVfeXFMTWVTUHBzWG9JLTFpTDdraHZ1cWRXRFdCR0pfRmExQzhKTnFha0JKYnN3bk5KSDVkWk54NWJXX1Eta0xrVk5FS25ReWhnNnFnbWFIU244TDE2aEVOWDBsZjJPZXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
         }
       ]
     },
@@ -826,8 +1157,119 @@
       ]
     },
     {
-      "id": "aefd1ffb4c49",
-      "title": "大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低| 健康解「迷」 - 醫學通識- 健康好人生 - etnet 經濟通",
+      "id": "7ffd2313f5aa",
+      "title": "哈佛研究認證「護心運動」是它！每天只要30分鐘，降低高血壓、減少心臟病風險 - Women's Health",
+      "published": "2026-10-09T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlREaWZDNVBMOFBKbl9PSFpGRFBPZk0tWVpCU3Rnd192TUpYeTY5QWE5NUdmTURvNlNVRUxCN0RHY3A5dnhzS0pFSGMyVWE1NTJLcnVLMDk3a2N5dnRsNnBEU3V6QkVfZlRIc2FRdWlvVzhsR2JQZWxBQnk2VnNSUHVpRURhaVZLdDBZWTlWNGVCTDZLT281Rg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a07905fb89c",
+      "title": "居住環境攸關 失智風險？",
+      "published": "2026-10-08T12:23:32+00:00",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kQVU3RXFTdTd3dzVWcEJ0UXhTdnlpLTh4ay1sazRKc1RhS3RYLWFhX0dyU0x5aVFXekFCYUprU19yeHhVcjZEMVZ3Sy1RTzhLZ3ZxQU10R2pqMmRmakRld3hOWlZwQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8ab4f2a03da7",
+      "title": "大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低 - etnet 經濟通",
       "published": "2026-10-08T09:04:37+00:00",
       "sources": [
         {
@@ -850,13 +1292,13 @@
       ]
     },
     {
-      "id": "1fdf655acd2a",
-      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看醫揭葡萄糖胺定位- 健康新聞 - PChome Online 新聞",
+      "id": "b75da70b6ae0",
+      "title": "退化性關節炎不只軟骨磨損！常見症狀、治療一次看 醫揭葡萄糖胺定位",
       "published": "2026-10-08T01:30:00+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5"
+          "name": "獨家報導",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQVmpIemFIbGU2OEJXNktiUGhMX0h1UVRhZm5tc2hmeHAxdVF2S2hxdEh2aWh6LXpqQmRDYld1a2t4cmFXekx5bDc1NjVxUTJvWURmWG9UWEtDT0p5T2JCalZjYm03ZkpfZmdRMF9neUhQNmYwSDhGZzFnSFhWVGprSHdCcE1DWms1VkQwWmYxek4yYkZpcUUxLTBwZXdUZUZnbFpmMjhVekVlVTdBUG9ZOWVFQU81MlR3UGlfREt6V1J2dTMwSTVEVzR4RURycTNELVNONVFCTnVzbUZEcTMxbTY5ZnhSLXRpUHlya1F3MnlrTnVBbFU2UzdLOUE2QVRwRUp6bDFBS2tXZlpMa041UzhvQzVka2tVbHhBdlFIRFJ4RVV4NFRoMENtWHAxWElfdFBqU3Bqbi13UUF2TWs1b0c0VlRkaHM5cEc4UWQybzNONjdQSW94RWtOTGFDdw?oc=5"
         }
       ],
       "keywords": [
@@ -934,13 +1376,13 @@
       ]
     },
     {
-      "id": "445dcb665c29",
+      "id": "2a281b9e58ff",
       "title": "不同國家女性更年期症狀差異巨大",
       "published": "2026-10-07T19:00:00+00:00",
       "sources": [
         {
           "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XOVktNXNPczR0TXRfUThfbHYyVllvUWNjaHVac2hJeTg2dTJwTVlaWkU4QU1ENUlrbGprZU9RNWNIY09ucG5zR3lkSGFITmpFQTVYZm5wZGlvTDAz0gFmQVVfeXFMTU45Z0lObTZWbWs0angxbVBFYU5jYmszVFpvaFpQN01fNElCbVhFWHNKU3M3bXRBSHlpTzdLQW1tYVhnV2M1MXhoRnpaeG5tV19FRVRLaFZMaXdGN2FRaTJXVjRHRm5R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONzF0bXFqRDdFMUVad09xZUJERWtlQzQ4Z1pWLXJCWGJ6eHJoMHNjRWtzdG14cmxMSERYTG9CUDgxME54TzZmTzh1Umltc3c4S0xwbHhFY25XOHc2N3VDT9IBZkFVX3lxTE1OOWdJTm02Vm1rNGp4MW1QRWFOY2JrM1Rab2haUDdNXzRJQm1YRVhzSlNzN210QUh5aU83S0FtbWFYZ1djNTF4aEZ6WnhubVdfRUVUS2hWTGl3RjdhUWkyV1Y0R0ZuUQ?oc=5"
         }
       ],
       "keywords": [
@@ -970,72 +1412,24 @@
       ]
     },
     {
-      "id": "d32fcbff67e8",
-      "title": "感冒反覆一直不好？醫：恐非單一感染 當心病毒接力賽",
-      "published": "2026-10-06T07:34:00+00:00",
+      "id": "92731eefea71",
+      "title": "印度國產HPV疫苗獲世衛認證 全球加速子宮頸癌防治",
+      "published": "2026-10-07T01:03:24+00:00",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaXNYWkN2Tk9RZ25nQXFIYWUzNnpqSXlPaG9OaVNIdjBfNFQtVUZ1UjhGM2FnZThEdnhNTnhNMnF2Z2ZUZWZhdm5zcWJTdHl2Z3c?oc=5"
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQZmFDejNfYXItYTh6Z2cwREV6QlVpOWhsS1hEQW9RWTlCU2JfRzM0WlNQVVFhUlZwZkd3R1g2T1h4Y1MyVmxTTm5oU2xsZ0FGRmFGWnR3S0hWbldodUE5blZpdFlvdFZxX1pEX0gtaUdIT3FqdTZOamEwVGJndmp5MVBzZ3c1cldVanc1RDc2WGd3ZnJ5bXp3emhmWDN2cF9ubzVKMnJPR0EtSUJUVmMyaVd1Q2ZjcGk0N0E5VUYtRFNmdU1tckFzT0Z2WXQ0ekN2SnYwdmlfdjZ0dG1ZeWcwOXhOeTJ0TGhUa0wwdVR5MDh3Zm1oRzRSZGtHc2s5X2JCMi02UEpVUy05dDJZSGZ0RXBkNXpPeG5LUmhYc0JVcWpGdzZTdVdyUQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
           "related_drugs": [
             {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5dd4e241ad83",
-      "title": "潘懷宗／吃犀利士會增加青光眼罹患風險？這些高風險族群應做1事",
-      "published": "2026-10-06T06:52:21+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNnV2a0FOcWNUelMtbHFOZXMtRl9qcUN1RENERzBzeUd1RFJ0bERGeUk3MkpWUGJIaXNqc29IdXJaTFZqVnQ1b0RpenhQVlgwSTJ0ZmRBNUZMdjNwLWVZajVwNHFCRUVnWmUwRHBzUUpKVzBXNmwwYVpxUHpSVi1pYTBR0gFiQVVfeXFMTnZlaEJJM21KMDN1T2QxSUlGMWZyS3Jpd25wTjFfSHhYOTk5OEgtNEtQemlOcVF6cmw2cEZYUkoxaWRGbnZtSmY1OUFDcXNoeGVWTFcwTUNZRHJQY3dMN014TGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "青光眼",
-          "keyword": "青光眼",
-          "related_drugs": [
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5b80a4e138ed",
-      "title": "孕婦感冒求拿常備藥⋯醫一驗秒變臉「救2條命」",
-      "published": "2026-10-06T06:10:45+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwamI5MVFCVm8yMDVrTmVUV2ZFZ0UzQ3dQY09ya0x2UnM0eU0zM042a1pvMjJRajE3c1lZUktiYk0wdDVYTjU1aHhGNExHTTdNbWU3VUpBWGRmTUZUTVVDMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
             }
           ]
         }
