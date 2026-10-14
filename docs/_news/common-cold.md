@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [只是感冒咳嗽！年輕男「一直胸痛」衝急診　肺泡竟破了](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYeVZFYTZ3T3hPRDVhSTFpMDNteWFTZVFqRUt2clYxazRtTC1TalVfWDhNY2VENU4ySVlfMHA3dm43c0dINGpGVUlRb3JndW9WZVJpUjJGTERrWEt3NWfSAUtBVV95cUxOd3VUNmhVOW1hTGdnM0dVWHhDTUNzUHljUEw0bHhzLXJYMG1FZE9STmNBSnlvaTNCQXE3WG9ZUEl3OXI1WmZXd3JHQmc?oc=5)
+
+2026-10-14
+
+來源: [ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYeVZFYTZ3T3hPRDVhSTFpMDNteWFTZVFqRUt2clYxazRtTC1TalVfWDhNY2VENU4ySVlfMHA3dm43c0dINGpGVUlRb3JndW9WZVJpUjJGTERrWEt3NWfSAUtBVV95cUxOd3VUNmhVOW1hTGdnM0dVWHhDTUNzUHljUEw0bHhzLXJYMG1FZE9STmNBSnlvaTNCQXE3WG9ZUEl3OXI1WmZXd3JHQmc?oc=5)
+
+---
 
 ### [47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 
