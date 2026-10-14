@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-14T14:12:24.987561+00:00",
-  "count": 38,
+  "fetched_at": "2026-10-14T19:04:53.646349+00:00",
+  "count": 37,
   "news": [
-    {
-      "id": "0914e925f132",
-      "title": "不只壯陽還能助肌肉修復？ 最新研究揭意外功效 - 自由健康網",
-      "published": "2026-10-14T07:46:00+00:00",
-      "summary": "不只壯陽還能助肌肉修復？ 最新研究揭意外功效&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iZUR6N1U3MHFwSFNIOXJ2NjUzS0JJdzRFbzNybElPbXFwclhTcEc5Tzh3dEY3SWNaVGlrcmV5SFY2UV9IMnlHUkV5UUFfakRpbGpzb09FcThmenloanlndlFYdTU?oc=5"
-        }
-      ]
-    },
     {
       "id": "084ecf2a1d7b",
       "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆 - 健康醫療網",
@@ -24,6 +12,18 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0914e925f132",
+      "title": "不只壯陽還能助肌肉修復？ 最新研究揭意外功效 - 自由健康網",
+      "published": "2026-10-14T07:46:00+00:00",
+      "summary": "不只壯陽還能助肌肉修復？ 最新研究揭意外功效&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iZUR6N1U3MHFwSFNIOXJ2NjUzS0JJdzRFbzNybElPbXFwclhTcEc5Tzh3dEY3SWNaVGlrcmV5SFY2UV9IMnlHUkV5UUFfakRpbGpzb09FcThmenloanlndlFYdTU?oc=5"
         }
       ]
     },
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "fffff1fe7ef5",
-      "title": "47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0",
-      "published": "2026-10-12T10:16:24+00:00",
-      "summary": "47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d4db79b2e52b",
       "title": "子曰論健康》無症狀也可能藏癌症！ AI PET助揪早期病灶、評估轉移 - 自由健康網",
       "published": "2026-10-12T04:00:00+00:00",
@@ -108,6 +96,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fffff1fe7ef5",
+      "title": "47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0",
+      "published": "2026-10-12T10:16:24+00:00",
+      "summary": "47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5"
         }
       ]
     },
@@ -144,30 +144,6 @@
         {
           "name": "國家地理雜誌",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GVDFidVg1QVFqWVRPR3dMZVN6bDJwWFRaVHZ4SWxSZjdRYXhHN3czLVFOZFlvVGRrejF5cXdDU3dhZ0o4M3daSHcyMnBfcDZSblA3bzA5cFY5bVNVVXc3eEdKcjRPODBMRU85cERtMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0674fb982d3",
-      "title": "不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康 - 中時新聞網",
-      "published": "2026-10-08T04:04:55+00:00",
-      "summary": "不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康&nbsp;&nbsp;中時新聞網抗生素濫用恐成全球健康危機 醫籲：遵守四不一要&nbsp;&nbsp;自由健康網感冒沒開抗生素氣到退掛 醫糾錯 | 中華日報&nbsp;&nbsp;LINE TODAY用對抗生素未來才有藥可醫 新竹臺大分院攜手醫策會響應抗藥性防治&nbsp;&nbsp;蕃新聞他感冒「抗生素開強一點明天要上班」 醫不開遭怒退掛&nbsp;&nbsp;ETtoday健康雲",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CR3l5SUh5ZDdkcFp6c1I3eGNFaEVfSmtsSktCVGRIaWpiUnczbGJjLUhDQ1AxRXhuY1FJT3VCd0locTRhdy00ZWd1MFhRTTJfOFZzOEk1NElfZE1aa1VWeG1FbFF1OFhBZ3JNU3FR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ad6ea2f888b6",
-      "title": "想活到70歲還健康、頭腦清楚？哈佛研究曝「7類食物」要常吃- 書房 - 工商時報",
-      "published": "2026-10-12T23:10:00+00:00",
-      "summary": "想活到70歲還健康、頭腦清楚？哈佛研究曝「7類食物」要常吃- 書房&nbsp;&nbsp;工商時報吃對食物比吃補品重要！長壽專家每周必吃5種平價超級食物 菜市場就能買到&nbsp;&nbsp;元氣網不用狂吞顆保健品！史丹佛專家與《BMJ》權威期刊證實：5個「零成本長壽習慣」延長健康壽命7～10年&nbsp;&nbsp;Women's Health藍區vs.地中海飲食 差在哪？哪種更有助健康老化？&nbsp;&nbsp;世界新聞網每日多睡OO分鐘就能延壽？研究揭改善3大生活習慣可多活近10年！&nbsp;&nbsp;U Beauty",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkZGRZZjhjWlg0RVZMckJ6SDNuWDk3UnFkR3I5ajIyTDgyN0dXOHJpSE82cVF1OUM4RzR1R1M0MTlXRENGX3hxYlVlN0dwYWhocE1VMF9XT0ZGb3Bxdlhn?oc=5"
         }
       ]
     },
@@ -271,7 +247,7 @@
       "id": "92f4c21c91f3",
       "title": "流感季提早數月殺到 西岸成重災區 - Singtaousa",
       "published": "2026-10-14T00:35:25+00:00",
-      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元",
+      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Singtaousa",
@@ -360,6 +336,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVElBcm50QmJwSHlKQlpNSzF6ZUVXLVVEMGgtSlRuaFNvbl9mR2FWaEJVSkNhNVp2WjNJbEc3UTBIdmM5Vm1zR01HVEVmYWFfQXd2S3IyUS0xT1lHYlo3ejVHMWFHTVBVWWJEUDlGQ1pCZzVHTnMxNTlqU3JDUF9wdVBWbzJHUExBc3VGNGc4ME5MaklRTFRMcGptdjlhczdNdk1UbU5FcUttQU4yRUNnU2J4dkctZmZBTFdmckN0c3ZfWFU2NlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85a6319ec588",
+      "title": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！ - PeoPo 公民新聞",
+      "published": "2026-10-09T01:00:00+00:00",
+      "summary": "即使是短暫使用電子煙，也可能損害肺部並削弱對呼吸道病毒的防禦能力！&nbsp;&nbsp;PeoPo 公民新聞",
+      "sources": [
+        {
+          "name": "PeoPo 公民新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jbWVhMmpELUs5dUJsWjhydHBNUno1QUd3WjcyQ1lIVkJGekE5RXBETUZoRUtSVDNlTjQ5T1Z6dk9Fc3dLdklqZA?oc=5"
         }
       ]
     },

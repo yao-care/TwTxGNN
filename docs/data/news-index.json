@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-14T14:12:26.804775+00:00",
-  "count": 17,
+  "generated": "2026-10-14T19:04:56.232931+00:00",
+  "count": 16,
   "news": [
     {
       "id": "084ecf2a1d7b",
@@ -1088,30 +1088,6 @@
             {
               "slug": "gefitinib",
               "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a0674fb982d3",
-      "title": "不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康",
-      "published": "2026-10-08T04:04:55+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CR3l5SUh5ZDdkcFp6c1I3eGNFaEVfSmtsSktCVGRIaWpiUnczbGJjLUhDQ1AxRXhuY1FJT3VCd0locTRhdy00ZWd1MFhRTTJfOFZzOEk1NElfZE1aa1VWeG1FbFF1OFhBZ3JNU3FR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

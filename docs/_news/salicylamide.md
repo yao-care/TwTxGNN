@@ -14,7 +14,7 @@ permalink: /news/salicylamide/
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/salicylamide/
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [只是感冒咳嗽！年輕男「一直胸痛」衝急診　肺泡竟破了](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYeVZFYTZ3T3hPRDVhSTFpMDNteWFTZVFqRUt2clYxazRtTC1TalVfWDhNY2VENU4ySVlfMHA3dm43c0dINGpGVUlRb3JndW9WZVJpUjJGTERrWEt3NWfSAUtBVV95cUxOd3VUNmhVOW1hTGdnM0dVWHhDTUNzUHljUEw0bHhzLXJYMG1FZE9STmNBSnlvaTNCQXE3WG9ZUEl3OXI1WmZXd3JHQmc?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/salicylamide/
 2026-10-12 <span class="news-indication-tag">感冒</span>
 
 來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
-
----
-
-### [不開抗生素病人氣到當場退掛醫無奈：多吃幾次代價大- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CR3l5SUh5ZDdkcFp6c1I3eGNFaEVfSmtsSktCVGRIaWpiUnczbGJjLUhDQ1AxRXhuY1FJT3VCd0locTRhdy00ZWd1MFhRTTJfOFZzOEk1NElfZE1aa1VWeG1FbFF1OFhBZ3JNU3FR?oc=5)
-
-2026-10-08 <span class="news-indication-tag">感冒</span>
-
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9CR3l5SUh5ZDdkcFp6c1I3eGNFaEVfSmtsSktCVGRIaWpiUnczbGJjLUhDQ1AxRXhuY1FJT3VCd0locTRhdy00ZWd1MFhRTTJfOFZzOEk1NElfZE1aa1VWeG1FbFF1OFhBZ3JNU3FR?oc=5)
 
 ---
 
