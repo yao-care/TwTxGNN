@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-14T19:04:56.196402+00:00",
-  "total_count": 37,
-  "matched_count": 16,
+  "last_updated": "2026-10-14T22:52:13.010865+00:00",
+  "total_count": 36,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "173e0729b7b9",
+      "title": "新興新冠變異株 SV.2.4橫行中國南方",
+      "published": "2026-10-14T17:59:49+00:00",
+      "summary": "新興新冠變異株 SV.2.4橫行中國南方&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSVlLeFZwaHZwQWhUdXN1NWNuZU16RVZSTVZRZnZFM25sWURyQlZuOThjYmFLdE5HNFU3YTlvTVhEb1FuQWFQQmRER0RrYVRtdGRTVWZrNk11V1BlcDJPZNIBZkFVX3lxTFB6bTJIT2lhUjJWcG9qdVFvOFZXNnpiX1pVWFZtMmVNZUZCSXBqTWxGNkhFdEN2SVNrcjdibUp0SFYtRWt5eXh6OTBxVFVScGwyMmJmSVVOamRrZGduNm1Nam40T0VSQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "440678c0b88c",
       "title": "最新研究顯示本港對於HIV「確診即日治療」接受度極高",
@@ -280,7 +293,7 @@
       "id": "92f4c21c91f3",
       "title": "流感季提早數月殺到 西岸成重災區",
       "published": "2026-10-14T00:35:25+00:00",
-      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa",
+      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Singtaousa",
@@ -1448,56 +1461,6 @@
             {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a60d4f0ea0fb",
-      "title": "50歲後肚子越來越大要緊嗎？研究：缺「1營養素」，死亡風險飆升123％ | 食力foodNEXT | 風生活",
-      "published": "2026-10-07T22:41:00+00:00",
-      "summary": "50歲後肚子越來越大要緊嗎？研究：缺「1營養素」，死亡風險飆升123％ | 食力foodNEXT | 風生活&nbsp;&nbsp;風傳媒",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KQnU4TUs4MktKcnhkVnJJZ3QwTks3Nlp4dUVSWFF3aEhISmJ0ZjJadEtOQmxrX1l6TV9pT294S0lySERuZmlrMVRuVjFQZEdq?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2a281b9e58ff",
-      "title": "不同國家女性更年期症狀差異巨大",
-      "published": "2026-10-07T19:00:00+00:00",
-      "summary": "不同國家女性更年期症狀差異巨大&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONzF0bXFqRDdFMUVad09xZUJERWtlQzQ4Z1pWLXJCWGJ6eHJoMHNjRWtzdG14cmxMSERYTG9CUDgxME54TzZmTzh1Umltc3c4S0xwbHhFY25XOHc2N3VDT9IBZkFVX3lxTE1OOWdJTm02Vm1rNGp4MW1QRWFOY2JrM1Rab2haUDdNXzRJQm1YRVhzSlNzN210QUh5aU83S0FtbWFYZ1djNTF4aEZ6WnhubVdfRUVUS2hWTGl3RjdhUWkyV1Y0R0ZuUQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }
