@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-13T23:31:50.430142+00:00",
-  "count": 15,
+  "generated": "2026-10-14T02:48:52.184634+00:00",
+  "count": 16,
   "news": [
     {
       "id": "eaafb2188543",
@@ -51,6 +51,100 @@
         {
           "type": "indication",
           "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87e8e647ef7a",
+      "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
+      "published": "2026-10-13T11:00:00+00:00",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
           "keyword": "停經",
           "related_drugs": [
             {

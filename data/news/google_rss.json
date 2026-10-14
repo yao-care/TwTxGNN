@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-13T23:31:48.307232+00:00",
-  "count": 40,
+  "fetched_at": "2026-10-14T02:48:49.838770+00:00",
+  "count": 42,
   "news": [
+    {
+      "id": "87e8e647ef7a",
+      "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
+      "published": "2026-10-13T11:00:00+00:00",
+      "summary": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤&nbsp;&nbsp;Marie Claire 美麗佳人骨鬆危機大爆發！台灣50歲以上女性每3人有1人骨折 醫曝「2大致命缺口」&nbsp;&nbsp;三立新聞58歲婦車禍腳只瘀青，返家後卻胸悶喘！心碎症候群好發停經女性，真正該防的不只乳癌&nbsp;&nbsp;經濟日報燥熱失眠伴隨耳鳴困擾中醫調理體質改善更年期不適- 健康新聞&nbsp;&nbsp;PChome Online 新聞停經婦女髖骨骨折 每5人1個極高風險&nbsp;&nbsp;東方日報",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "eaafb2188543",
       "title": "58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌 - 經濟日報",
@@ -28,6 +40,18 @@
       ]
     },
     {
+      "id": "71d77e882e5c",
+      "title": "銀髮族防流感重症！ 「高劑量、佐劑型」增強保護力 - 民視新聞網",
+      "published": "2026-10-13T09:42:20+00:00",
+      "summary": "銀髮族防流感重症！ 「高劑量、佐劑型」增強保護力&nbsp;&nbsp;民視新聞網自認健康拒打疫苗 他染流感「從發燒到呼吸衰竭」僅幾小時&nbsp;&nbsp;Yahoo新聞兒童甲流可急速惡化 醫生提醒留意危險徵狀及早求醫&nbsp;&nbsp;醫理說高危長者染流感增併發症風險 重組流感疫苗3倍抗原加強保護力&nbsp;&nbsp;HK FEATURE新聞追蹤/流感肆虐口罩店生意急升市民：身邊多人中招專家：盡快接種疫苗- 港聞&nbsp;&nbsp;大公文匯網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LQ0RuQTdYZGVTSlZISDhEdFdEWl9GRlN3VVNLb296ajQ0bjlLN3BJdHB2ZGZxQlNQNHlFMldqcjI1ZFAwMUw5WlI2NXVidFpQV0xCTWlnWi1yMjNYSms2TQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2d9c362e89fc",
       "title": "「1食物」甜爆卻抗發炎、預防糖尿病！是天然甜味劑 - Yahoo新聞",
       "published": "2026-10-12T04:22:57+00:00",
@@ -48,6 +72,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e108b1df80a7",
+      "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元",
+      "published": "2026-10-13T11:00:00+00:00",
+      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元【好Heal】研究：全球八分之一癌症個案與感染有關 接種疫苗及治療可減患癌風險&nbsp;&nbsp;Now 新聞很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;Yahoo新聞討論牆 | 不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5"
         }
       ]
     },
@@ -100,26 +136,14 @@
       ]
     },
     {
-      "id": "e108b1df80a7",
-      "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元",
-      "published": "2026-10-13T11:00:00+00:00",
-      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元【好Heal】研究：全球八分之一癌症個案與感染有關 接種疫苗及治療可減患癌風險&nbsp;&nbsp;Now 新聞很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防&nbsp;&nbsp;風火輪傳媒有限公司不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;Yahoo新聞討論牆 | 不菸不酒也罹癌？醫師點名「這5個習慣」，90%台灣人都有&nbsp;&nbsp;LINE TODAY",
+      "id": "d20e13892525",
+      "title": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效 - 民報",
+      "published": "2026-10-12T02:00:00+00:00",
+      "summary": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效&nbsp;&nbsp;民報",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2799c4897e74",
-      "title": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效 - Yahoo新聞",
-      "published": "2026-10-12T02:35:39+00:00",
-      "summary": "鼻過敏想靠益生菌改善？ 營養師揭真相：菌數越多不一定有效&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPenpNZjlVeDFpS3h5aHVEaml5el90aVNFM1pyY3VtMUN4X0Q1TkZNNDlJYmwzZEhNWDRWeUtDRWZKRU01d2hCVjhhYXJDR19nRGNqYTVWQzRoS3FqUlI1YWE3eVd4bEE5R21jeDIwMUl6TEtDckI3WGpyZGRpd2ZBV0pPeWVoWHJHUmRfZFFuSWplSDRROVBNUW41cmF0NW01NHMtcDNtSVJQUWVqZU84TFktaTdpOTdOUVcyN1lRZHVZNEI1VGp6RnlQVW14OUtFckVCcHYwWDJ4dmF6aURUT0ktcmtna0JqTU42bGk2SUdubDA2bXI5NnA2M2sySjI2ZGROWGdvOERUYXh6aGZaSktKb1hCb29zOUNHQTQtU2ZpSkMxSXVmNmV4REdCSnZvWjRYVmwyMTk2M2xWSUJ2Smxha0pUQi1QcnlnamtXRDB1RjRTRjg4akNCMWltV1BZak1QYnYtMVd4bEFMOTVsdFN0dDUwQXc?oc=5"
+          "name": "民報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCXzFIcExjdFdUcnJuSmVyaF94SEliUFVIREhfNXpCZ1pmM3hHRDRTdkZSVkttUHAwV1RjNENVUmtodm9MUFFkUnk3ZlVHV1BQbzIzUktPNjJ0c0psM3Yzeg?oc=5"
         }
       ]
     },
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "id": "70312db30c34",
-      "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰 - https://www.yesmedia.com.tw/",
-      "published": "2026-10-10T07:54:44+00:00",
-      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;https://www.yesmedia.com.tw/",
-      "sources": [
-        {
-          "name": "https://www.yesmedia.com.tw/",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNOXpKYVNMV1IteE9pNmtZaEV4M3FpZ2pCX0s2anNrWmlDYTNrZkhkREJzZUVPcVZvdm1vYVg1QVRmZHpwWUhMdlRQbWlRZ0tGS2dDUkdNaUNQX3dRZlJpVDFLTWhSNFJzeTBibm5hcjN5QWM4REcwRENkdHlrSnVPWTA5T3FWZUUzaUhKODJsM1BHQTNSRURodVRvVldRRmRBS2hUZzlhU2JQcmZhS2FhUWM5dUlkOGhua0ZLczlRSUxRMkx4V2ZtdUV2NzNfdk00LTl4YUFKdG53Z0ZmOFVDWWZNdUdYVFRmQTNSZXk1eUhnQ3ZWMTdPQXkwdUY5SHQ4eFNIMDJkX0M1bHZUTmF2bWM1aWxEVVU5b2F4b1pKdmhlRjB2SlY3NXl1WHdnU25BLUVJOEY4WlhLdFdLNTJWbVRYSmJVYm01bzRZUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7be95b6bec5e",
       "title": "偏頭痛別亂吞阿斯匹靈！醫揭「恐胃出血」 1組合中風機率狂飆 - TVBS新聞網",
       "published": "2026-10-09T07:47:00+00:00",
@@ -204,6 +216,18 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "70312db30c34",
+      "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰 - https://www.yesmedia.com.tw/",
+      "published": "2026-10-10T07:54:44+00:00",
+      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;https://www.yesmedia.com.tw/",
+      "sources": [
+        {
+          "name": "https://www.yesmedia.com.tw/",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNOXpKYVNMV1IteE9pNmtZaEV4M3FpZ2pCX0s2anNrWmlDYTNrZkhkREJzZUVPcVZvdm1vYVg1QVRmZHpwWUhMdlRQbWlRZ0tGS2dDUkdNaUNQX3dRZlJpVDFLTWhSNFJzeTBibm5hcjN5QWM4REcwRENkdHlrSnVPWTA5T3FWZUUzaUhKODJsM1BHQTNSRURodVRvVldRRmRBS2hUZzlhU2JQcmZhS2FhUWM5dUlkOGhua0ZLczlRSUxRMkx4V2ZtdUV2NzNfdk00LTl4YUFKdG53Z0ZmOFVDWWZNdUdYVFRmQTNSZXk1eUhnQ3ZWMTdPQXkwdUY5SHQ4eFNIMDJkX0M1bHZUTmF2bWM1aWxEVVU5b2F4b1pKdmhlRjB2SlY3NXl1WHdnU25BLUVJOEY4WlhLdFdLNTJWbVRYSmJVYm01bzRZUQ?oc=5"
         }
       ]
     },
@@ -220,14 +244,26 @@
       ]
     },
     {
-      "id": "0259745d3e50",
-      "title": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大 - Yahoo新聞",
-      "published": "2026-10-08T06:46:16+00:00",
-      "summary": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大&nbsp;&nbsp;Yahoo新聞",
+      "id": "5340cb7912fc",
+      "title": "世衛不建議10歲以下兒童使用減肥藥物 - Yahoo 財經",
+      "published": "2026-10-07T08:00:06+00:00",
+      "summary": "世衛不建議10歲以下兒童使用減肥藥物&nbsp;&nbsp;Yahoo 財經LLY 禮來- 世界衛生組織首次指導兒童肥胖：藥物治療被擱置，飲食與運動成首選！ - 股市爆料同學會&nbsp;&nbsp;CMoney世衛首發治療兒童肥胖指南 減肥針不是首選&nbsp;&nbsp;大紀元世界衛生組織首次指導兒童肥胖：藥物治療被擱置，飲食與運動成首選！&nbsp;&nbsp;CMoney投資網誌",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOd1RjRVBFRnk2OUM0WDdYWHhtTTFsX0ZSdHg0RG4tYjRYcGdYekxPTVliRmZ6TUYzZjdvQi1lNXcwMm1yQ1RYbzZ6djJwc0tZa296eEVpNW9KWGNuQWZRczZFQnB1c0lQNFo0VF9KOWlMTW10WjVqZ2FKTkdhOUFIX3o2b1VmMS12azlyekNsUWVWRWN2ZUVyZzRXaTNNQ3dnSUhWcWQ0ellnTmNxVU0xblRJUTVfRWpaUmZCbU5QYnVGSHl2a0o2Wlh2WGo3VXROb3NQanhBbmd2VE5qZnJIaXR6a09OMzk0bHZIWWh5RGYyZURjRmF4MlMybG5yMUltZ19CYUNQRkhGOVdXZ1hYa3BjSXg3eW5xTWd0eUU1NTczcWhZdmk3SlZpX3BBeGJIY2tXV29rVWI5Y3RqRXNQLXZfY3VvTlFwcmFsUUNrN3N1OEFEUzQwZ1BFaWI5SHhkYmliYk5CQjZaaWdENEExUFdQQngtODIyOGNpM3gxc1BxNGJBdGktN3J0Ym5OZw?oc=5"
+          "name": "Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNRzRJcV9ocmQ3WVJGMFp4UzVlZGItOXdBbXdybUxJMDVlSXB1WFJjTENwbEM4N1ZtVEpoSEZ1RnFFZnVkd281d3FKYTZaQnJCLTIzUnhFOV9NV0ZhbDFlMzZjZWR0Y29JM3c5RUJpS21jaGxmNGhMaWhQOFRYbm1rbHcza2tvdkp2VU9zUG9GTVRabm5Ga0l5R3puaDlVTC1NN2w4NlhqREFRVjRpaXJDVVB0YU1BaFU5ZmFEUGgwcy15ZVR3emtERGpJaUpwekNrVmdFX01ya0hLZHBtbmRyN01SbGFJVDN0MWpHdjZyQ2c4RlRzc3FpeW5xMGdrOTRxZWFCVWctLUg4UXhwcnRZeldXOVdwWHNTNnljUU5UQU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4c4cb7ac954",
+      "title": "小孩不愛喝牛奶長不高？　醫師曝替代改吃這些：一樣可以好好長大 - 鏡週刊Mirror Media",
+      "published": "2026-10-08T05:02:00+00:00",
+      "summary": "小孩不愛喝牛奶長不高？ 醫師曝替代改吃這些：一樣可以好好長大&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00V1o4N3htQ0VoQk4xNDJKaWdYRkVJOXVGX1hYZ253b09id3BJR3lVVTRWZk5OMmNaRFpoemRESzhvdnhBRUFmYlAxSGRNeVFKZVNOVzFSd1BmVVXSAWBBVV95cUxPMGZVTG0ySmxiVDNXNldCVXBqQ2pkRXlzNE5VRDhpMGhoOV9oLVhjRkU2c0pBZ21XZ054R2tKN0hVRm5FTkFwOVlhd1JUYURCODF3eTRnZ0J2cEFYVlVhQzY?oc=5"
         }
       ]
     },
@@ -247,11 +283,23 @@
       "id": "6140bdf30b1b",
       "title": "長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降 - 巴士的報",
       "published": "2026-10-08T20:00:54+00:00",
-      "summary": "長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降&nbsp;&nbsp;巴士的報愛吃炸物甜食？小心大腦發炎！&nbsp;&nbsp;東森新聞",
+      "summary": "長期食高熱量食物會變蠢？ 日研究揭腦內關鍵蛋白被抑制認知功能下降&nbsp;&nbsp;巴士的報科學研究 - 東京科學大學闡明高熱量飲食導致認知功能下降的機制&nbsp;&nbsp;客观日本愛吃炸物甜食？小心大腦發炎！&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQc0h3WTE2ckVOOVBVS0VydHBpam9CV0pucGhRLXdMa3c0Ql9EU0JTQS1hWF9XVzVma0JDTFFqcUMtampoVFdvZE03SFBFeThxVWg2aDJfb1RQajlRaE44Znlzemx0blR0eDNXRjA5cmFmQVdYbWs1eXF5T3JXbGM1OGxiWTdYOUpDTmNCMlFVQ05OWURncnFfd0RyOU1XYmV0ZElnaDEydi1HQzVJS0I1RVpvM1phcG1oS2c4Y21INnhmQVJ4YUZtMHlwVnJOQjdMRTRXbVNCUTFVLXhSSnVyaFhwZmpQRmE0Q21JQWVlaG5LVTVQVzhob0RPSnEwOHNNemU1Wkp1LXA4ejhaMC1pczZGX1pmTDRyczFSLVdDNEJ5Y19LdW9MYkp2eldMc3ZiM0p0dzBIY1Zia1pVNlBZRFAwLTRJckp1SmhOUE5UeExyb3RHZVR3dFEtamZPSWJCZXNjdWFqN0t2U1I1a1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92f4c21c91f3",
+      "title": "流感季提早數月殺到 西岸成重災區 - Singtaousa",
+      "published": "2026-10-14T00:35:25+00:00",
+      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/小心流感上身！專家稱今年症狀似乎更嚴重&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQU9nWDNhcV9Dcm5WYUFoMXFiajhILWlfaF9nYW9CRjZSSk05a0dJWlR3Qi1DcTFvOG1JN2NtOWtsc2FTUjV3MHhyUkdqSGRzanpVVVlLN01TMkZnbDhkQlE3N0dCLVFiOEFKcXd3WXR3TDlkUVBZWmVvMkFRRkNvTzVKN3VzMmljNl8tVHZfUlRaM2hNS2hLYVlwVjY0UjFsSl93ZEJSQW4wcXNudTJLcWxIVnRLT19L?oc=5"
         }
       ]
     },
@@ -292,30 +340,6 @@
       ]
     },
     {
-      "id": "b60177cbe31e",
-      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站 - CCUE",
-      "published": "2026-10-12T03:00:39+00:00",
-      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWNGcmVpbVF3RG1vOVFNb3VpRzgxTURJMzNMX21pSm40Skd5dUN0cEVuWVZhcjkxWm16UXd0ajIzRXZDTGgxejdoY0lDLTBXdjBTTzA2MUJJV29KSDJ1S0ozRjZEQlNWbTdpMERhb3duLUNNckZUeVN5bW9nMmVJeWdUTF85dmZyRGVsUER3dTFSZ0h3bjJmeUVlc2syVkpvWFFDeUxMaGNYcGUwLXRnc0NTbFJZN0pwOVYyQUxGWk9UMXBJeFJJNXZVS0VtU2pBUGJfZ1otY3JwcFFhR2ZpTVhIYUdYS0tzQTJIYV8xT2JUUlFZM0s4Z1lHODBadkMzTm1yUkN4eXpUaHItQjViVXVaOFFpR0sxME1LSFppOFRpUzZDR2NIVWpSckZuNDJabWxHX1Nib1BNdE80UmxBc3dVM25GSTZEMVJLemJFOGZFMW40U01kYmRkZTJ4UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eb5515c99a6e",
-      "title": "種子油有毒？ 破解KOL「故事陷阱」 - 20261014 - 副刊 - 明報新聞網",
-      "published": "2026-10-13T20:30:00+00:00",
-      "summary": "種子油有毒？ 破解KOL「故事陷阱」 - 20261014 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdFFOR3Y4WlZrWWtGUnVUZWt2UGtJR2NUb2Y1Y0V0b3lzYS15clB4aFJfajBWbW12ZnZNSlJyQ2V6eHB0MzlEOWFLNVZqQUtWcFJBcVZWZnNUUGYyWW5TV3ItaThVdHZNX2ZFQnhtNVgtQXlRMlhvYVM2TXU3eVhVMmpiRHBjS3FGZWVFSUZ4MWpKUnZUZDdoQXAteTZaLS14NnljdDctbE9kd2RJY0xPelNfRGFFMmE4eElYSDY1OVozbURWMDlNQmQzc1JkdmFCOHBmc3dPcG5icVlxWDRVQlk3ZklLV3ROT0RZa0RkeHpETzFqcTFqY3N6eFdhZDhCWUNVaG1kR3ZaYUNfdUNZWXFuTFVwSGJhVW1OSUVmZWlfeFVWVVdoeHF3R0IzWmhC?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ea540f8497f",
       "title": "25歲言語治療師實習期間突中風！錯過3大警號險送命 緊急入ICU｜健康專訪 - 星島頭條",
       "published": "2026-10-12T09:00:11+00:00",
@@ -324,6 +348,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNZUg0UmNtX01QM2FsTV92NFFMRU9yTDFLZmpnMjFHbW1HSUx4cGwxTHBEdi1wRWNZdXE3dEVTOUJDRGpqNnFVRi1HMkdxY1YzZEROV0RKT0FMUjNQaHk1UlJmQ05zbFd2QzlESTdfUGphd0x3MGVQVVZITG8xZjlsRUo5emQtSGQ5bk4ydXdWaFBqM0pmZFRmbzJyZlltblBUYllzeFJxSjJyX3FpSkNYRlVTNXhWQ0h5R09ZN2tKQ1RzcF9vdDhzMjdyY1d4MzRWMTNJcExRZUVsQ0ZnVEJybS1Jc3FKTUd1UGtUMFZVaDBGaGlzUTBSMTVBaHNoQlNCR1kzRG9zZGcwdlF0T3dmSzJJRzhkWjY5bW9SMG00SU9fVkRfQXRoT2s1UThUdnRSV1FJZmRMaWtHQ21qWmZ4OFZoSS1pQ2d1Q19WUzEycDlZWTQyT3JTUDVjdEt1UklUMVVNOFhoenV1Q3FuRl9yMFh1dnBpRG1PQ0J3YUQtb3B6Ym1kMnluNWptU04zNUVFQ0pLVGhLaGhOU2pIQkUtNEdONXB4RXgxRnRxaW1DdE0ycVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b60177cbe31e",
+      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站 - CCUE",
+      "published": "2026-10-12T03:00:39+00:00",
+      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWNGcmVpbVF3RG1vOVFNb3VpRzgxTURJMzNMX21pSm40Skd5dUN0cEVuWVZhcjkxWm16UXd0ajIzRXZDTGgxejdoY0lDLTBXdjBTTzA2MUJJV29KSDJ1S0ozRjZEQlNWbTdpMERhb3duLUNNckZUeVN5bW9nMmVJeWdUTF85dmZyRGVsUER3dTFSZ0h3bjJmeUVlc2syVkpvWFFDeUxMaGNYcGUwLXRnc0NTbFJZN0pwOVYyQUxGWk9UMXBJeFJJNXZVS0VtU2pBUGJfZ1otY3JwcFFhR2ZpTVhIYUdYS0tzQTJIYV8xT2JUUlFZM0s4Z1lHODBadkMzTm1yUkN4eXpUaHItQjViVXVaOFFpR0sxME1LSFppOFRpUzZDR2NIVWpSckZuNDJabWxHX1Nib1BNdE80UmxBc3dVM25GSTZEMVJLemJFOGZFMW40U01kYmRkZTJ4UQ?oc=5"
         }
       ]
     },
@@ -372,18 +408,6 @@
         {
           "name": "PeoPo 公民新聞",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9jbWVhMmpELUs5dUJsWjhydHBNUno1QUd3WjcyQ1lIVkJGekE5RXBETUZoRUtSVDNlTjQ5T1Z6dk9Fc3dLdklqZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7783d9b42caf",
-      "title": "大多區呼吸道疾病季提前 醫生籲及早防護 - 大紀元",
-      "published": "2026-10-07T19:52:00+00:00",
-      "summary": "大多區呼吸道疾病季提前 醫生籲及早防護&nbsp;&nbsp;大紀元流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大省首席衛生官Bonnie Henry星期三宣布 本省的免疫接種計劃&nbsp;&nbsp;https://am1320.com/小心流感上身！專家稱今年症狀似乎更嚴重&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UUWQzSWFld0N2cWdfUVZpMk90Q0tYTDdBOUxQNkNIc25aVzc2M3J1U29SclVTX3RGdk8tSDhxLTd5MWJQQUF3UE5ScHNSRU12YnZHaWdmNU80U2pSeV95SNIBZkFVX3lxTE1BV3JNV3N0c1NXbmZsZklIRE9oZDN6a2I0WFZwRHg4aUZlZ080Y2Vrd0xFS0s0TW1vRzZVTkw1cm1MeHk3bkxuMnRGaFYtdzBlaVdIbW40MVpmN1dLb3V4VHQxLTdqQQ?oc=5"
         }
       ]
     },
