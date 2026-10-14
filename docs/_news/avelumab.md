@@ -14,7 +14,7 @@ permalink: /news/avelumab/
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/avelumab/
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（4 則）
 
 ### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
-
----
-
-### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">腫瘤</span>
-
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
 
 ---
 
@@ -81,14 +73,6 @@ permalink: /news/avelumab/
 2026-10-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">鼻塞</span>
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5)
-
----
-
-### [92歲婦切肝腫瘤 微創手術傷口小 精準麻醉降疼痛](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝腫瘤</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
 
 ---
 

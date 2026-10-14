@@ -14,7 +14,7 @@ permalink: /news/ropinirole/
 ---
 
 <p class="key-answer" data-question="Ropinirole 有什麼相關新聞？">
-<strong>Ropinirole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ropinirole</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ permalink: /news/ropinirole/
 <li>faciodigitogenital syndrome (100.0%)</li>
 <li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
 <li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
-<li class="indication-matched">schizophrenia (99.9%)<span class="indication-tag">📰 思覺失調症</span></li>
+<li>schizophrenia (99.9%)</li>
 <li>myopia X-linked (99.9%)</li>
 <li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
 <li>atypical glycine encephalopathy (99.9%)</li>
@@ -42,15 +42,9 @@ permalink: /news/ropinirole/
 <p><a href="{{ '/drugs/ropinirole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [國衛院揪出思覺失調症4樞紐基因！早發型患者新藥靶點露曙光](https://news.google.com/rss/articles/CBMidkFVX3lxTE12bWNLeUJ2WDhPNzNrbTgxRktNYjBLSVJhZ2JXRHp4b1phenN1cVhiYzR4ZWVONTE2ZF9MTUxlazF5RU5KX2RSR25LSGwwaW0zRjJ5YUlKdGk0T210M2E3dHFjYlVjd2lER3BUVmlNZVBpZndRQVE?oc=5)
-
-2026-10-12 <span class="news-indication-tag">思覺失調症</span>
-
-來源: [環球生技月刊](https://news.google.com/rss/articles/CBMidkFVX3lxTE12bWNLeUJ2WDhPNzNrbTgxRktNYjBLSVJhZ2JXRHp4b1phenN1cVhiYzR4ZWVONTE2ZF9MTUxlazF5RU5KX2RSR25LSGwwaW0zRjJ5YUlKdGk0T210M2E3dHFjYlVjd2lER3BUVmlNZVBpZndRQVE?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">
