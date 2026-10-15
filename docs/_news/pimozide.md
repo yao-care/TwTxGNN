@@ -3,7 +3,7 @@ layout: default
 title: "Pimozide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Pimozide 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Pimozide 的相關健康新聞報導。原適應症：精神病狀態。預測適應症 10 個。"
 permalink: /news/pimozide/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/pimozide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 精神病狀態</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>trichotillomania (100.0%)</li>
 <li>manic bipolar affective disorder (100.0%)</li>

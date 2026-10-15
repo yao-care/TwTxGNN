@@ -3,7 +3,7 @@ layout: default
 title: "Tyrosine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Tyrosine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tyrosine 的相關健康新聞報導。原適應症：氨基酸補給劑、營養劑（胺基酸）（取自台灣單一成分許可證中現行有效者；有效證另有 TKI 類產品的血液...。預測適應症 10 個。"
 permalink: /news/tyrosine/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/tyrosine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 氨基酸補給劑、營養劑（胺基酸）（取自台灣單一成分許可證中現行有效者；有效證另有 TKI 類產品的血液腫瘤適應症，其藥理與酪胺酸營養劑不同）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>cauda equina syndrome (99.8%)</li>

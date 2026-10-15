@@ -25,7 +25,7 @@ permalink: /news/aluminum_oxide/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li class="indication-matched">rheumatoid arthritis (100.0%)<span class="indication-tag">📰 關節炎</span></li>
 <li>brachydactyly-syndactyly syndrome (100.0%)</li>

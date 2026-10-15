@@ -3,7 +3,7 @@ layout: default
 title: "Clomipramine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Clomipramine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Clomipramine 的相關健康新聞報導。原適應症：憂鬱病。預測適應症 10 個。"
 permalink: /news/clomipramine/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/clomipramine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 憂鬱病</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>anxiety disorder (99.9%)</li>

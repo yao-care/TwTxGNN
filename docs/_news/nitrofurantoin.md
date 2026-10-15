@@ -3,7 +3,7 @@ layout: default
 title: "Nitrofurantoin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Nitrofurantoin 的相關健康新聞報導。原適應症：尿路感染（膀胱炎、腎盂炎、尿道炎）。預測適應症 10 個。"
+description: "Nitrofurantoin 的相關健康新聞報導。原適應症：腎盂炎、膀胱炎、淋病、尿路感染症。預測適應症 10 個。"
 permalink: /news/nitrofurantoin/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/nitrofurantoin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 尿路感染（膀胱炎、腎盂炎、尿道炎）</li>
+<li><strong>原適應症</strong>: 腎盂炎、膀胱炎、淋病、尿路感染症</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li class="indication-matched">rheumatoid arthritis (99.9%)<span class="indication-tag">📰 關節炎</span></li>

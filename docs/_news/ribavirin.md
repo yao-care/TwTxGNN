@@ -3,7 +3,7 @@ layout: default
 title: "Ribavirin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ribavirin 的相關健康新聞報導。原適應症：慢性 C 型肝炎（與 peginterferon 或 DAA 併用）。預測適應症 10 個。"
+description: "Ribavirin 的相關健康新聞報導。原適應症：與其他藥物併用治療慢性 C 型肝炎病毒（HCV）感染（成人；基因型 1–4，依併用藥物而異），亦用於...。預測適應症 10 個。"
 permalink: /news/ribavirin/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/ribavirin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 慢性 C 型肝炎（與 peginterferon 或 DAA 併用）</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 與其他藥物併用治療慢性 C 型肝炎病毒（HCV）感染（成人；基因型 1–4，依併用藥物而異），亦用於 12 歲以上兒童之基因型 2 或 3 感染</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>chronic hepatitis B virus infection (99.9%)</li>
 <li>hepatopulmonary syndrome (99.6%)</li>

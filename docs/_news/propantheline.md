@@ -3,7 +3,7 @@ layout: default
 title: "Propantheline 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Propantheline 的相關健康新聞報導。原適應症：胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多。預測適應症 2 個。"
+description: "Propantheline 的相關健康新聞報導。原適應症：胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣。預測適應症 2 個。"
 permalink: /news/propantheline/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/propantheline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多</li>
+<li><strong>原適應症</strong>: 胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣</li>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>gastroduodenitis (99.9%)</li>

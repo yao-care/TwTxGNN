@@ -3,7 +3,7 @@ layout: default
 title: "Etanercept 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Etanercept 的相關健康新聞報導。原適應症：。預測適應症 6 個。"
+description: "Etanercept 的相關健康新聞報導。原適應症：對 DMARDs（如 methotrexate）無適當療效之成人活動性類風濕性關節炎；先前未使用 m...。預測適應症 6 個。"
 permalink: /news/etanercept/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/etanercept/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 對 DMARDs（如 methotrexate）無適當療效之成人活動性類風濕性關節炎；先前未使用 methotrexate 之成人中度至重度活動性類風濕性關節炎；2 歲以上多關節幼年型慢性關節炎；乾癬性關節炎；活動性僵直性脊椎炎；中度至重度乾癬等</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>rheumatoid vasculitis (99.7%)</li>
 <li>hypermobility of coccyx (99.6%)</li>

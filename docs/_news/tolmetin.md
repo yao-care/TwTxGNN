@@ -3,7 +3,7 @@ layout: default
 title: "Tolmetin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Tolmetin 的相關健康新聞報導。原適應症：類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風。預測適應症 10 個。"
+description: "Tolmetin 的相關健康新聞報導。原適應症：類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風。預測適應症 10 個。"
 permalink: /news/tolmetin/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/tolmetin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風</li>
+<li><strong>原適應症</strong>: 類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>

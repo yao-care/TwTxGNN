@@ -3,7 +3,7 @@ layout: default
 title: "Tetrabenazine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Tetrabenazine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Tetrabenazine 的相關健康新聞報導。原適應症：治療亨汀頓舞蹈症之舞蹈症狀。預測適應症 10 個。"
 permalink: /news/tetrabenazine/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/tetrabenazine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 治療亨汀頓舞蹈症之舞蹈症狀</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>polycystic kidney disease 3 with or without polycystic liver disease (99.9%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Human immunoglobulin G 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Human immunoglobulin G 的相關健康新聞報導。原適應症：原發性免疫不全症、ITP、川崎氏症、GBS。預測適應症 3 個。"
+description: "Human immunoglobulin G 的相關健康新聞報導。原適應症：IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症；以及改善免疫調節機能：原發性...。預測適應症 3 個。"
 permalink: /news/human_immunoglobulin_g/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/human_immunoglobulin_g/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 原發性免疫不全症、ITP、川崎氏症、GBS</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症；以及改善免疫調節機能：原發性血小板缺乏性紫斑症（ITP）、異體骨髓移植、川崎氏症、Guillain-Barré 症候群</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>severe nonproliferative diabetic retinopathy (99.8%)</li>
 <li>diabetic retinopathy (99.6%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Interferon beta-1b 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Interferon beta-1b 的相關健康新聞報導。原適應症：反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群。預測適應症 2 個。"
+description: "Interferon beta-1b 的相關健康新聞報導。原適應症：降低反覆發作型多發性硬化症的發作頻率及嚴重度；降低續發型多發性硬化症復發的頻率及嚴重度；延緩單一臨床...。預測適應症 2 個。"
 permalink: /news/interferon_beta-1b/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/interferon_beta-1b/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 反覆發作型多發性硬化症、續發型多發性硬化症、臨床孤立症候群</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 降低反覆發作型多發性硬化症的發作頻率及嚴重度；降低續發型多發性硬化症復發的頻率及嚴重度；延緩單一臨床症狀（疑似多發性硬化症）病患惡化成多發性硬化症</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>hairy cell leukemia (99.2%)</li>
 <li>autoimmune disease of central nervous system (99.0%)</li>
@@ -44,11 +44,11 @@ permalink: /news/interferon_beta-1b/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

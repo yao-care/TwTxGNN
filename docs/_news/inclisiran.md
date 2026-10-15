@@ -3,7 +3,7 @@ layout: default
 title: "Inclisiran 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Inclisiran 的相關健康新聞報導。原適應症：原發性高血脂症(含異合子家族性高膽固醇血症)之 LDL-C 降低。預測適應症 10 個。"
+description: "Inclisiran 的相關健康新聞報導。原適應症：原發性高血脂症（家族性高膽固醇血症僅適用於異合子型 HeFH）：作為飲食及其他降血脂藥品（例如最大耐...。預測適應症 10 個。"
 permalink: /news/inclisiran/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/inclisiran/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 原發性高血脂症(含異合子家族性高膽固醇血症)之 LDL-C 降低</li>
+<li><strong>原適應症</strong>: 原發性高血脂症（家族性高膽固醇血症僅適用於異合子型 HeFH）：作為飲食及其他降血脂藥品（例如最大耐受劑量 statin 類藥品）的輔助治療，以降低成人病人之 LDL-C</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>potassium deficiency disease (99.9%)</li>

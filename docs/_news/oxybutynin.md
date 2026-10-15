@@ -3,7 +3,7 @@ layout: default
 title: "Oxybutynin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Oxybutynin 的相關健康新聞報導。原適應症：膀胱過動症、原發性手掌多汗症、膀胱神經控制不適伴隨排尿症狀。預測適應症 3 個。"
+description: "Oxybutynin 的相關健康新聞報導。原適應症：適用於12歲以上之原發性手掌多汗症病人（擦劑）；錠劑、貼片則用於膀胱過動症及排尿症狀緩解。預測適應症 3 個。"
 permalink: /news/oxybutynin/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/oxybutynin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 膀胱過動症、原發性手掌多汗症、膀胱神經控制不適伴隨排尿症狀</li>
+<li><strong>原適應症</strong>: 適用於12歲以上之原發性手掌多汗症病人（擦劑）；錠劑、貼片則用於膀胱過動症及排尿症狀緩解</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>restless legs syndrome (99.7%)</li>

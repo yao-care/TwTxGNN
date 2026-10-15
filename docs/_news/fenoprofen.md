@@ -3,7 +3,7 @@ layout: default
 title: "Fenoprofen 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Fenoprofen 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Fenoprofen 的相關健康新聞報導。原適應症：鎮痛（有效單方許可證之核准適應症）。預測適應症 10 個。"
 permalink: /news/fenoprofen/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/fenoprofen/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 鎮痛（有效單方許可證之核准適應症）</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>

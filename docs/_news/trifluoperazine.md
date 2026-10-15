@@ -3,7 +3,7 @@ layout: default
 title: "Trifluoperazine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Trifluoperazine 的相關健康新聞報導。原適應症：精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙。預測適應症 1 個。"
+description: "Trifluoperazine 的相關健康新聞報導。原適應症：精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙。預測適應症 1 個。"
 permalink: /news/trifluoperazine/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/trifluoperazine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>manic bipolar affective disorder (99.5%)</li>
 </ul></li>

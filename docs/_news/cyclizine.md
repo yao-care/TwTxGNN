@@ -3,7 +3,7 @@ layout: default
 title: "Cyclizine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Cyclizine 的相關健康新聞報導。原適應症：。預測適應症 9 個。"
+description: "Cyclizine 的相關健康新聞報導。原適應症：預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。預測適應症 9 個。"
 permalink: /news/cyclizine/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/cyclizine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>allergic urticaria (100.0%)</li>

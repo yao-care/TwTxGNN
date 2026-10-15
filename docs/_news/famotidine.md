@@ -3,7 +3,7 @@ layout: default
 title: "Famotidine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Famotidine 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Famotidine 的相關健康新聞報導。原適應症：胃潰瘍、十二指腸潰瘍、逆流性食道炎、ZOLLINGER-ELLISON症候群。預測適應症 10 個。"
 permalink: /news/famotidine/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/famotidine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 胃潰瘍、十二指腸潰瘍、逆流性食道炎、ZOLLINGER-ELLISON症候群</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>duodenogastric reflux (100.0%)</li>
 <li>duodenal obstruction (100.0%)</li>

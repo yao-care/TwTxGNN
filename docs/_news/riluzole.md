@@ -25,7 +25,7 @@ permalink: /news/riluzole/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 肌萎縮脊髓側索硬化症（ALS）</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>bilateral parasagittal parieto-occipital polymicrogyria (100.0%)</li>
 <li>axial spondylometaphyseal dysplasia (100.0%)</li>

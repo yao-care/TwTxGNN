@@ -3,7 +3,7 @@ layout: default
 title: "warfarin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "warfarin 的相關健康新聞報導。原適應症：抗凝血劑。預測適應症 3 個。"
+description: "warfarin 的相關健康新聞報導。原適應症：1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜...。預測適應症 3 個。"
 permalink: /news/warfarin/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/warfarin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 抗凝血劑</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>heparin cofactor 2 deficiency (99.9%)</li>
 <li>factor 5 excess with spontaneous thrombosis (99.8%)</li>

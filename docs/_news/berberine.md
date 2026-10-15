@@ -3,7 +3,7 @@ layout: default
 title: "Berberine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Berberine 的相關健康新聞報導。原適應症：腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾。預測適應症 10 個。"
+description: "Berberine 的相關健康新聞報導。原適應症：痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎。預測適應症 10 個。"
 permalink: /news/berberine/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/berberine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 腹瀉、急慢性腸炎、腸內異常醱酵、細菌性痢疾</li>
+<li><strong>原適應症</strong>: 痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>severe pre-eclampsia (99.8%)</li>
@@ -52,11 +52,11 @@ permalink: /news/berberine/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

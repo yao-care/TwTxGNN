@@ -3,7 +3,7 @@ layout: default
 title: "Methocarbamol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Methocarbamol 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Methocarbamol 的相關健康新聞報導。原適應症：肌肉攣縮症狀、肩痛斜頸、肌肉痙攣。預測適應症 10 個。"
 permalink: /news/methocarbamol/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/methocarbamol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 肌肉攣縮症狀、肩痛斜頸、肌肉痙攣</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>cauda equina syndrome (100.0%)</li>

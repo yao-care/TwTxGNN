@@ -3,7 +3,7 @@ layout: default
 title: "Leflunomide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Leflunomide 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
+description: "Leflunomide 的相關健康新聞報導。原適應症：風濕性關節炎。預測適應症 2 個。"
 permalink: /news/leflunomide/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/leflunomide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 風濕性關節炎</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>brachydactyly-syndactyly syndrome (99.9%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Amorolfine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Amorolfine 的相關健康新聞報導。原適應症：抗黴菌劑。預測適應症 10 個。"
+description: "Amorolfine 的相關健康新聞報導。原適應症：由皮真菌、酵母菌及黴菌引起之遠端及外側之輕度甲癬。預測適應症 10 個。"
 permalink: /news/amorolfine/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/amorolfine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 抗黴菌劑</li>
+<li><strong>原適應症</strong>: 由皮真菌、酵母菌及黴菌引起之遠端及外側之輕度甲癬</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>drug-induced osteoporosis (100.0%)</li>

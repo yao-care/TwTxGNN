@@ -3,7 +3,7 @@ layout: default
 title: "Homatropine methylbromide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Homatropine methylbromide 的相關健康新聞報導。原適應症：胃酸過多、消化性潰瘍、胃腸道痙攣。預測適應症 2 個。"
+description: "Homatropine methylbromide 的相關健康新聞報導。原適應症：副交感神經抑制劑。預測適應症 2 個。"
 permalink: /news/homatropine_methylbromide/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/homatropine_methylbromide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 胃酸過多、消化性潰瘍、胃腸道痙攣</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 副交感神經抑制劑</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>gastroduodenitis (99.4%)</li>
 <li>cauda equina syndrome (99.1%)</li>

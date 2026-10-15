@@ -3,7 +3,7 @@ layout: default
 title: "Dupilumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Dupilumab 的相關健康新聞報導。原適應症：異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎。預測適應症 10 個。"
+description: "Dupilumab 的相關健康新聞報導。原適應症：中度至重度異位性皮膚炎（成人及 6 個月以上兒童病人，可併用或不併用局部皮質類固醇）。預測適應症 10 個。"
 permalink: /news/dupilumab/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/dupilumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 中度至重度異位性皮膚炎（成人及 6 個月以上兒童病人，可併用或不併用局部皮質類固醇）</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>bronchitis (99.9%)</li>
 <li>dermatitis (99.7%)</li>

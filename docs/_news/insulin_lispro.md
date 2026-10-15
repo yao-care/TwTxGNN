@@ -3,7 +3,7 @@ layout: default
 title: "Insulin lispro 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Insulin lispro 的相關健康新聞報導。原適應症：糖尿病(成人、青少年及1歲以上兒童)。預測適應症 9 個。"
+description: "Insulin lispro 的相關健康新聞報導。原適應症：糖尿病（目前有效的許可證皆為複方類別，以下為許可證登載之適應症：糖尿病）。預測適應症 9 個。"
 permalink: /news/insulin_lispro/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/insulin_lispro/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 糖尿病(成人、青少年及1歲以上兒童)</li>
+<li><strong>原適應症</strong>: 糖尿病（目前有效的許可證皆為複方類別，以下為許可證登載之適應症：糖尿病）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>autoimmune oophoritis (99.8%)</li>

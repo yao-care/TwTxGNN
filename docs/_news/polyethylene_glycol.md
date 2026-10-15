@@ -3,7 +3,7 @@ layout: default
 title: "Polyethylene glycol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Polyethylene glycol 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
+description: "Polyethylene glycol 的相關健康新聞報導。原適應症：治療慢性腎病（CKD）所引起的症狀性貧血（Mircera 製劑）。預測適應症 1 個。"
 permalink: /news/polyethylene_glycol/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/polyethylene_glycol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 治療慢性腎病（CKD）所引起的症狀性貧血（Mircera 製劑）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>congenital ichthyosiform erythroderma (99.0%)</li>

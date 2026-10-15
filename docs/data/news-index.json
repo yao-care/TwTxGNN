@@ -1,7 +1,43 @@
 {
-  "generated": "2026-10-15T12:18:41.982626+00:00",
+  "generated": "2026-10-15T17:30:03.317464+00:00",
   "count": 16,
   "news": [
+    {
+      "id": "90d852a04ee7",
+      "title": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」",
+      "published": "2026-10-15T14:40:09+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "09806ade8893",
       "title": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY",
@@ -275,13 +311,13 @@
       ]
     },
     {
-      "id": "084ecf2a1d7b",
+      "id": "1fc52a62b44e",
       "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆",
-      "published": "2026-10-14T05:00:00+00:00",
+      "published": "2026-10-14T22:30:00+00:00",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5"
         }
       ],
       "keywords": [
@@ -544,42 +580,6 @@
             {
               "slug": "cladribine",
               "name": "Cladribine"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "87e8e647ef7a",
-      "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
-      "published": "2026-10-13T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin"
             }
           ]
         }

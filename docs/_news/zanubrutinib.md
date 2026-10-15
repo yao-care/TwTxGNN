@@ -3,7 +3,7 @@ layout: default
 title: "Zanubrutinib 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Zanubrutinib 的相關健康新聞報導。原適應症：被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤。預測適應症 6 個。"
+description: "Zanubrutinib 的相關健康新聞報導。原適應症：先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、F...。預測適應症 6 個。"
 permalink: /news/zanubrutinib/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/zanubrutinib/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤</li>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症）</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>myeloid leukemia (99.7%)</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.4%)</li>
@@ -48,11 +48,11 @@ permalink: /news/zanubrutinib/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

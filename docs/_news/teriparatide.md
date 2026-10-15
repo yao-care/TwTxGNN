@@ -3,7 +3,7 @@ layout: default
 title: "Teriparatide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Teriparatide 的相關健康新聞報導。原適應症：。預測適應症 12 個。"
+description: "Teriparatide 的相關健康新聞報導。原適應症：停經後婦女骨質疏鬆症具高度骨折風險者；男性原發性或次發於性腺功能低下症之骨質疏鬆且具高度骨折風險者；...。預測適應症 12 個。"
 permalink: /news/teriparatide/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/teriparatide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 停經後婦女骨質疏鬆症具高度骨折風險者；男性原發性或次發於性腺功能低下症之骨質疏鬆且具高度骨折風險者；女性及男性因糖化皮質類固醇治療引起之骨質疏鬆症且具高度骨折風險者</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（12 個）</strong>:<ul>
 <li>懷孕相關骨質疏鬆症 (99.5%)</li>
 <li>閉經 (amenorrhea)，主要指功能性下視丘閉經的低骨密度 (99.0%)</li>

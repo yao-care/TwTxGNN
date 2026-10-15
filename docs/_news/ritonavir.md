@@ -3,7 +3,7 @@ layout: default
 title: "Ritonavir 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ritonavir 的相關健康新聞報導。原適應症：人類免疫缺乏病毒（HIV）感染。預測適應症 3 個。"
+description: "Ritonavir 的相關健康新聞報導。原適應症：與其他抗反轉錄病毒藥物併用，治療曾接受抗病毒治療、對蛋白酶抑制劑產生抗藥性之 HIV-1 感染成人及...。預測適應症 3 個。"
 permalink: /news/ritonavir/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/ritonavir/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 人類免疫缺乏病毒（HIV）感染</li>
+<li><strong>原適應症</strong>: 與其他抗反轉錄病毒藥物併用，治療曾接受抗病毒治療、對蛋白酶抑制劑產生抗藥性之 HIV-1 感染成人及兒童（取自單方有效許可證）</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>simian immunodeficiency virus infection (99.9%)</li>

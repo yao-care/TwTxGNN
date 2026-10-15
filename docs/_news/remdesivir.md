@@ -3,7 +3,7 @@ layout: default
 title: "Remdesivir 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Remdesivir 的相關健康新聞報導。原適應症：新型冠狀病毒疾病（COVID-19）。預測適應症 6 個。"
+description: "Remdesivir 的相關健康新聞報導。原適應症：適用於治療新型冠狀病毒疾病 (COVID-19)：發生肺炎並須給予氧氣治療的成人與 28 天大以上且...。預測適應症 6 個。"
 permalink: /news/remdesivir/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/remdesivir/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 新型冠狀病毒疾病（COVID-19）</li>
+<li><strong>原適應症</strong>: 適用於治療新型冠狀病毒疾病 (COVID-19)：發生肺炎並須給予氧氣治療的成人與 28 天大以上且體重至少 3 公斤之兒童；不須氧氣治療但惡化成重度 COVID-19 風險較高的成人與兒童</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>multiple endocrine neoplasia (99.5%)</li>

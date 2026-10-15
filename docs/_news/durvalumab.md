@@ -3,7 +3,7 @@ layout: default
 title: "Durvalumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Durvalumab 的相關健康新聞報導。原適應症：非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌、膀胱癌。預測適應症 10 個。"
+description: "Durvalumab 的相關健康新聞報導。原適應症：非小細胞肺癌（與含鉑化療併用作為前導性及輔助治療；或用於放化療後未惡化之局部晚期無法切除者）。預測適應症 10 個。"
 permalink: /news/durvalumab/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/durvalumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌、膀胱癌</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 非小細胞肺癌（與含鉑化療併用作為前導性及輔助治療；或用於放化療後未惡化之局部晚期無法切除者）</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>prostatic urethra urothelial carcinoma (100.0%)</li>
 <li>kidney pelvis sarcomatoid transitional cell carcinoma (100.0%)</li>
@@ -52,11 +52,11 @@ permalink: /news/durvalumab/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

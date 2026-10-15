@@ -3,7 +3,7 @@ layout: default
 title: "Carbenoxolone 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Carbenoxolone 的相關健康新聞報導。原適應症：胃潰瘍、十二指腸潰瘍、口內炎性潰瘍。預測適應症 7 個。"
+description: "Carbenoxolone 的相關健康新聞報導。原適應症：胃潰瘍（單方許可證中，目前仍有效者為口內潰瘍：緩解及治療口內潰瘍）。預測適應症 7 個。"
 permalink: /news/carbenoxolone/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/carbenoxolone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 胃潰瘍、十二指腸潰瘍、口內炎性潰瘍</li>
+<li><strong>原適應症</strong>: 胃潰瘍（單方許可證中，目前仍有效者為口內潰瘍：緩解及治療口內潰瘍）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>non-syndromic esophageal malformation (100.0%)</li>
@@ -49,11 +49,11 @@ permalink: /news/carbenoxolone/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

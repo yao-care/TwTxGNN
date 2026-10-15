@@ -3,7 +3,7 @@ layout: default
 title: "Trihexyphenidyl 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Trihexyphenidyl 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Trihexyphenidyl 的相關健康新聞報導。原適應症：帕金森氏症候群。預測適應症 10 個。"
 permalink: /news/trihexyphenidyl/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/trihexyphenidyl/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 帕金森氏症候群</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>attention deficit-hyperactivity disorder (99.9%)</li>

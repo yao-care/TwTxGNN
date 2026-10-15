@@ -3,7 +3,7 @@ layout: default
 title: "Isoleucine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Isoleucine 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
+description: "Isoleucine 的相關健康新聞報導。原適應症：營養劑。預測適應症 1 個。"
 permalink: /news/isoleucine/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/isoleucine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 營養劑</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>gastroparesis (disease) (99.3%)</li>

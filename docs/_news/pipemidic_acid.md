@@ -3,7 +3,7 @@ layout: default
 title: "Pipemidic acid 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Pipemidic acid 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Pipemidic acid 的相關健康新聞報導。原適應症：抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）。預測適應症 10 個。"
 permalink: /news/pipemidic_acid/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/pipemidic_acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>heart disease (99.9%)</li>
 <li>Laubry-Pezzi syndrome (99.9%)</li>

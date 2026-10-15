@@ -3,7 +3,7 @@ layout: default
 title: "Loteprednol etabonate 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Loteprednol etabonate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Loteprednol etabonate 的相關健康新聞報導。原適應症：眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎、酒渣鼻角膜炎、表淺性點...。預測適應症 10 個。"
 permalink: /news/loteprednol_etabonate/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/loteprednol_etabonate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎、酒渣鼻角膜炎、表淺性點狀角膜炎、帶狀疱疹角膜炎、虹膜炎、睫狀體炎，以及其他感染性結膜炎等；及眼睛手術之發炎</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>conjunctival folliculosis (99.7%)</li>
 <li>chronic follicular conjunctivitis (99.7%)</li>

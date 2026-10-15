@@ -3,7 +3,7 @@ layout: default
 title: "Moclobemide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Moclobemide 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
+description: "Moclobemide 的相關健康新聞報導。原適應症：抗憂鬱症。預測適應症 2 個。"
 permalink: /news/moclobemide/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/moclobemide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 抗憂鬱症</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>agoraphobia (99.4%)</li>
 <li>benign paroxysmal torticollis of infancy (99.3%)</li>

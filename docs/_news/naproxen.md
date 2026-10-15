@@ -3,7 +3,7 @@ layout: default
 title: "Naproxen 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Naproxen 的相關健康新聞報導。原適應症：骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛。預測適應症 7 個。"
+description: "Naproxen 的相關健康新聞報導。原適應症：消炎鎮痛劑（風濕性關節炎、骨關節炎、強直性脊椎炎、急性痛風、經痛等）。預測適應症 7 個。"
 permalink: /news/naproxen/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/naproxen/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛</li>
+<li><strong>原適應症</strong>: 消炎鎮痛劑（風濕性關節炎、骨關節炎、強直性脊椎炎、急性痛風、經痛等）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>眼缺損小眼症－肢根型發育不良症候群 (99.2%)</li>

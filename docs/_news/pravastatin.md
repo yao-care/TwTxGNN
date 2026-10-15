@@ -3,7 +3,7 @@ layout: default
 title: "Pravastatin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Pravastatin 的相關健康新聞報導。原適應症：。預測適應症 9 個。"
+description: "Pravastatin 的相關健康新聞報導。原適應症：血脂調節劑。預測適應症 9 個。"
 permalink: /news/pravastatin/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/pravastatin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 血脂調節劑</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (100.0%)</li>
 <li>HIV infectious disease (99.7%)</li>

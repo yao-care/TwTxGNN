@@ -3,7 +3,7 @@ layout: default
 title: "Amcinonide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Amcinonide 的相關健康新聞報導。原適應症：異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎。預測適應症 8 個。"
+description: "Amcinonide 的相關健康新聞報導。原適應症：皮膚炎群、皮膚搔癢症、癢疹群、蟲螫、濕疹、苔癬化型濕疹、尿布疹、牛皮癬、富貴手、苔癬、頑癬、紅皮症、...。預測適應症 8 個。"
 permalink: /news/amcinonide/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/amcinonide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 皮膚炎群、皮膚搔癢症、癢疹群、蟲螫、濕疹、苔癬化型濕疹、尿布疹、牛皮癬、富貴手、苔癬、頑癬、紅皮症、圓形脫毛症、日光皮膚炎、股癬、體癬等</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
 <li>vulvar inverted follicular keratosis (99.8%)</li>
 <li>annular atrophic lichen planus (99.7%)</li>
@@ -50,11 +50,11 @@ permalink: /news/amcinonide/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Prednisolone 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Prednisolone 的相關健康新聞報導。原適應症：濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等。預測適應症 10 個。"
+description: "Prednisolone 的相關健康新聞報導。原適應症：風濕性疾患、支氣管氣喘、腎炎症候群、過敏性皮膚疾患。預測適應症 10 個。"
 permalink: /news/prednisolone/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/prednisolone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 風濕性疾患、支氣管氣喘、腎炎症候群、過敏性皮膚疾患</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>alopecia areata (100.0%)</li>
 <li>alopecia mucinosa (100.0%)</li>

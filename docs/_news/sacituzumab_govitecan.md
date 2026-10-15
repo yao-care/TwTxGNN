@@ -3,7 +3,7 @@ layout: default
 title: "Sacituzumab govitecan 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Sacituzumab govitecan 的相關健康新聞報導。原適應症：晚期三陰性乳癌、HR+/HER2- 乳癌。預測適應症 4 個。"
+description: "Sacituzumab govitecan 的相關健康新聞報導。原適應症：1. 先前已接受兩次以上全身性治療無效（其中一次需為治療晚期疾病）之無法切除的局部晚期或轉移性三陰性...。預測適應症 4 個。"
 permalink: /news/sacituzumab_govitecan/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/sacituzumab_govitecan/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 晚期三陰性乳癌、HR+/HER2- 乳癌</li>
+<li><strong>原適應症</strong>: 1. 先前已接受兩次以上全身性治療無效（其中一次需為治療晚期疾病）之無法切除的局部晚期或轉移性三陰性乳癌成年病人。2. 荷爾蒙受體（HR）陽性、HER2 陰性（IHC 0、IHC 1+ 或 IHC 2+/ISH–）、無法切除的局部晚期或轉移性乳癌，且過去曾接受至少 2 次轉移性乳癌全身性治療的成年病人</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
 <li>drug-induced osteoporosis (99.8%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Fosfomycin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Fosfomycin 的相關健康新聞報導。原適應症：。預測適應症 13 個。"
+description: "Fosfomycin 的相關健康新聞報導。原適應症：抗菌劑。預測適應症 13 個。"
 permalink: /news/fosfomycin/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/fosfomycin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 抗菌劑</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（13 個）</strong>:<ul>
 <li>子宮炎性疾病 (1.0%)</li>
 <li>腎盂腎炎（變異型） (1.0%)</li>

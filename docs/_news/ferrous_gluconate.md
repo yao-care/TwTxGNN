@@ -3,7 +3,7 @@ layout: default
 title: "Ferrous gluconate 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ferrous gluconate 的相關健康新聞報導。原適應症：。預測適應症 8 個。"
+description: "Ferrous gluconate 的相關健康新聞報導。原適應症：各種鐵缺乏性貧血症。預測適應症 8 個。"
 permalink: /news/ferrous_gluconate/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/ferrous_gluconate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 各種鐵缺乏性貧血症</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
 <li>Plummer-Vinson 症候群 (1.0%)</li>

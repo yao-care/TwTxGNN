@@ -3,7 +3,7 @@ layout: default
 title: "Treprostinil 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Treprostinil 的相關健康新聞報導。原適應症：特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)。預測適應症 15 個。"
+description: "Treprostinil 的相關健康新聞報導。原適應症：特發性或遺傳性肺動脈高壓（WHO functional class III 及 IV）。預測適應症 15 個。"
 permalink: /news/treprostinil/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/treprostinil/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)</li>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 特發性或遺傳性肺動脈高壓（WHO functional class III 及 IV）</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（15 個）</strong>:<ul>
 <li>結締組織疾病相關肺動脈高壓 (99.5%)</li>
 <li>HIV 相關肺動脈高壓 (99.5%)</li>

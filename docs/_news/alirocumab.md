@@ -3,7 +3,7 @@ layout: default
 title: "Alirocumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Alirocumab 的相關健康新聞報導。原適應症：預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症。預測適應症 10 個。"
+description: "Alirocumab 的相關健康新聞報導。原適應症：預防心血管事件：已確診心血管疾病的成年病人，降低心肌梗塞、中風及需住院治療的不穩定心絞痛之風險（另含...。預測適應症 10 個。"
 permalink: /news/alirocumab/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/alirocumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 預防心血管事件：已確診心血管疾病的成年病人，降低心肌梗塞、中風及需住院治療的不穩定心絞痛之風險（另含原發性高血脂症與 8 歲以上 HeFH 的 LDL-C 降低）</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>ichthyosis, X-linked, without steroid sulfatase deficiency (99.4%)</li>
 <li>disorder of other vitamins and cofactors metabolism and transport (99.4%)</li>

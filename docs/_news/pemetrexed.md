@@ -3,7 +3,7 @@ layout: default
 title: "Pemetrexed 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Pemetrexed 的相關健康新聞報導。原適應症：非小細胞肺癌、惡性胸膜間皮瘤。預測適應症 10 個。"
+description: "Pemetrexed 的相關健康新聞報導。原適應症：非鱗狀非小細胞肺癌（顯著鱗狀細胞組織型除外）、惡性肋膜間皮瘤（取自 pemetrexed 本身的單方...。預測適應症 10 個。"
 permalink: /news/pemetrexed/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/pemetrexed/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 非小細胞肺癌、惡性胸膜間皮瘤</li>
-<li><strong>證據等級</strong>: L1</li>
+<li><strong>原適應症</strong>: 非鱗狀非小細胞肺癌（顯著鱗狀細胞組織型除外）、惡性肋膜間皮瘤（取自 pemetrexed 本身的單方許可證）</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>malignant peritoneal mesothelioma (100.0%)</li>
 <li>pleural adenomatoid tumor (100.0%)</li>
@@ -52,11 +52,11 @@ permalink: /news/pemetrexed/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

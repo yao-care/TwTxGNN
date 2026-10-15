@@ -3,7 +3,7 @@ layout: default
 title: "Theophylline 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Theophylline 的相關健康新聞報導。原適應症：。預測適應症 11 個。"
+description: "Theophylline 的相關健康新聞報導。原適應症：平滑肌鬆弛藥（單方有效許可證中最先出現的核准適應症文字）。預測適應症 11 個。"
 permalink: /news/theophylline/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/theophylline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 平滑肌鬆弛藥（單方有效許可證中最先出現的核准適應症文字）</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（11 個）</strong>:<ul>
 <li>鼻內 Theophylline 治療病毒感染後嗅覺喪失的 Phase 2 試驗 (2021.0%)</li>
 <li>Theophylline 對嗅覺神經元再生的作用機轉 (2020.0%)</li>

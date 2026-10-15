@@ -3,7 +3,7 @@ layout: default
 title: "Ethynodiol diacetate 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ethynodiol diacetate 的相關健康新聞報導。原適應症：。預測適應症 6 個。"
+description: "Ethynodiol diacetate 的相關健康新聞報導。原適應症：避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）。預測適應症 6 個。"
 permalink: /news/ethynodiol_diacetate/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/ethynodiol_diacetate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）</li>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>acne (disease) (99.6%)</li>

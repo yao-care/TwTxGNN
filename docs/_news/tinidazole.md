@@ -3,7 +3,7 @@ layout: default
 title: "Tinidazole 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Tinidazole 的相關健康新聞報導。原適應症：陰道滴蟲症、阿米巴症、梨形鞭毛蟲症。預測適應症 10 個。"
+description: "Tinidazole 的相關健康新聞報導。原適應症：男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎。預測適應症 10 個。"
 permalink: /news/tinidazole/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/tinidazole/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 陰道滴蟲症、阿米巴症、梨形鞭毛蟲症</li>
+<li><strong>原適應症</strong>: 男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>postmenopausal atrophic vaginitis (99.9%)</li>
@@ -44,6 +44,14 @@ permalink: /news/tinidazole/
 
 ## 相關新聞（7 則）
 
+### [《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」](https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5)
+
+2026-10-15 <span class="news-indication-tag">更年期</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5)
+
+---
+
 ### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
 2026-10-15 <span class="news-indication-tag">癌症</span>
@@ -52,19 +60,11 @@ permalink: /news/tinidazole/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
-
----
-
-### [10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5)
-
-2026-10-13 <span class="news-indication-tag">更年期</span>
-
-來源: [Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "Pitolisant 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Pitolisant 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
+description: "Pitolisant 的相關健康新聞報導。原適應症：1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並...。預測適應症 3 個。"
 permalink: /news/pitolisant/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/pitolisant/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS），這些病人的 EDS 無法透過 CPAP 等 OSA 主要治療方式得到滿意成果或無法耐受。</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>insomnia (disease) (99.7%)</li>
 <li>attention deficit-hyperactivity disorder (99.4%)</li>

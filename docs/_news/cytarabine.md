@@ -3,7 +3,7 @@ layout: default
 title: "Cytarabine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Cytarabine 的相關健康新聞報導。原適應症：。預測適應症 9 個。"
+description: "Cytarabine 的相關健康新聞報導。原適應症：與標準化療（daunorubicin 併用 cytarabine）及高劑量 cytarabine 鞏...。預測適應症 9 個。"
 permalink: /news/cytarabine/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/cytarabine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 與標準化療（daunorubicin 併用 cytarabine）及高劑量 cytarabine 鞏固治療併用 midostaurin，用於新確診 FLT3 突變陽性的急性骨髓性白血病（AML）成人病人；另用於侵犯性全身性肥大細胞增生症等</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li class="indication-matched">small cell lung carcinoma (99.8%)<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma (99.8%)</li>
@@ -50,11 +51,11 @@ permalink: /news/cytarabine/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

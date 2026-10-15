@@ -3,7 +3,7 @@ layout: default
 title: "Sodium citrate 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Sodium citrate 的相關健康新聞報導。原適應症：抗凝血劑、袪痰劑、促進利尿、制酸。預測適應症 9 個。"
+description: "Sodium citrate 的相關健康新聞報導。原適應症：輸血用抗凝結劑。預測適應症 9 個。"
 permalink: /news/sodium_citrate/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/sodium_citrate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 抗凝血劑、袪痰劑、促進利尿、制酸</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 輸血用抗凝結劑</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>papillary conjunctivitis (100.0%)</li>
 <li>nasal cavity disease (100.0%)</li>

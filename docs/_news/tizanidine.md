@@ -25,7 +25,7 @@ permalink: /news/tizanidine/
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>migraine disorder (99.8%)</li>
 <li>migraine with brainstem aura (99.7%)</li>

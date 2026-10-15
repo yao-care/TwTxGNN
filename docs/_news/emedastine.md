@@ -3,7 +3,7 @@ layout: default
 title: "Emedastine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Emedastine 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
+description: "Emedastine 的相關健康新聞報導。原適應症：過敏性結膜炎症狀及徵候的暫時性緩解。預測適應症 2 個。"
 permalink: /news/emedastine/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/emedastine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 過敏性結膜炎症狀及徵候的暫時性緩解</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>allergic urticaria (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Scopolamine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Scopolamine 的相關健康新聞報導。原適應症：胃腸痙攣、膽管痙攣、尿路痙攣、女性生殖器痙攣。預測適應症 6 個。"
+description: "Scopolamine 的相關健康新聞報導。原適應症：胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙...。預測適應症 6 個。"
 permalink: /news/scopolamine/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/scopolamine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 胃腸痙攣、膽管痙攣、尿路痙攣、女性生殖器痙攣</li>
+<li><strong>原適應症</strong>: 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>cauda equina syndrome (100.0%)</li>

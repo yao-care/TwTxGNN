@@ -3,7 +3,7 @@ layout: default
 title: "Sulfamethazine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Sulfamethazine 的相關健康新聞報導。原適應症：磺胺劑、革蘭氏陽性及陰性菌感染症。預測適應症 6 個。"
+description: "Sulfamethazine 的相關健康新聞報導。原適應症：細菌性感染症。預測適應症 6 個。"
 permalink: /news/sulfamethazine/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/sulfamethazine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 磺胺劑、革蘭氏陽性及陰性菌感染症</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 細菌性感染症</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>gout (99.9%)</li>
 <li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>

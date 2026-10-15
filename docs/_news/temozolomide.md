@@ -3,7 +3,7 @@ layout: default
 title: "Temozolomide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Temozolomide 的相關健康新聞報導。原適應症：神經膠母細胞瘤（與放射治療同步及輔助治療）。預測適應症 2 個。"
+description: "Temozolomide 的相關健康新聞報導。原適應症：新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性...。預測適應症 2 個。"
 permalink: /news/temozolomide/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/temozolomide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 神經膠母細胞瘤（與放射治療同步及輔助治療）</li>
-<li><strong>證據等級</strong>: L1</li>
+<li><strong>原適應症</strong>: 新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>adult astrocytic tumour (99.4%)</li>
 <li>cauda equina neoplasm (99.3%)</li>
@@ -44,11 +44,11 @@ permalink: /news/temozolomide/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

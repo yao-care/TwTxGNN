@@ -3,7 +3,7 @@ layout: default
 title: "Dipyridamole 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Dipyridamole 的相關健康新聞報導。原適應症：慢性狹心症、冠狀動脈不全、血小板凝集降低、心肌灌流造影替代運動試驗。預測適應症 10 個。"
+description: "Dipyridamole 的相關健康新聞報導。原適應症：取代心肌造影時所需之運動試驗（另有慢性狹心症之治療、血小板集結降低藥等適應症）。預測適應症 10 個。"
 permalink: /news/dipyridamole/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/dipyridamole/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 慢性狹心症、冠狀動脈不全、血小板凝集降低、心肌灌流造影替代運動試驗</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 取代心肌造影時所需之運動試驗（另有慢性狹心症之治療、血小板集結降低藥等適應症）</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (100.0%)</li>
 <li>stroke disorder (100.0%)</li>

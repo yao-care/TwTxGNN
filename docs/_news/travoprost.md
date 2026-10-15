@@ -3,7 +3,7 @@ layout: default
 title: "travoprost 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "travoprost 的相關健康新聞報導。原適應症：降低隅角開放性青光眼、慢性隅角閉鎖性青光眼患者的眼壓。預測適應症 3 個。"
+description: "travoprost 的相關健康新聞報導。原適應症：降低隅角開放性青光眼、慢性隅角閉鎖性青光眼且曾施行週邊虹膜切開術之病人或高眼壓患者之眼壓。預測適應症 3 個。"
 permalink: /news/travoprost/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/travoprost/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 降低隅角開放性青光眼、慢性隅角閉鎖性青光眼患者的眼壓</li>
+<li><strong>原適應症</strong>: 降低隅角開放性青光眼、慢性隅角閉鎖性青光眼且曾施行週邊虹膜切開術之病人或高眼壓患者之眼壓</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>visceral calciphylaxis (100.0%)</li>

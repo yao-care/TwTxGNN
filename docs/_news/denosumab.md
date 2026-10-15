@@ -3,7 +3,7 @@ layout: default
 title: "Denosumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Denosumab 的相關健康新聞報導。原適應症：骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症。預測適應症 2 個。"
+description: "Denosumab 的相關健康新聞報導。原適應症：多發性骨髓瘤及實質腫瘤骨轉移：適用於實體腫瘤已有骨轉移及多發性骨髓瘤之成人病人，預防發生骨骼相關事件。預測適應症 2 個。"
 permalink: /news/denosumab/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/denosumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 骨質疏鬆症、骨轉移、骨巨細胞瘤、惡性高血鈣症</li>
+<li><strong>原適應症</strong>: 多發性骨髓瘤及實質腫瘤骨轉移：適用於實體腫瘤已有骨轉移及多發性骨髓瘤之成人病人，預防發生骨骼相關事件</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>severe nonproliferative diabetic retinopathy (99.6%)</li>

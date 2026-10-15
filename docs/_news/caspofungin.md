@@ -3,7 +3,7 @@ layout: default
 title: "Caspofungin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Caspofungin 的相關健康新聞報導。原適應症：侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症...。預測適應症 1 個。"
+description: "Caspofungin 的相關健康新聞報導。原適應症：適用於其他治療方法無效或不能忍受的侵入性麴菌病之第二線用藥、食道念珠菌感染、侵入性念珠菌感染症（含念...。預測適應症 1 個。"
 permalink: /news/caspofungin/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/caspofungin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 侵入性麴菌病（第二線）、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）、發燒性嗜中性白血球缺乏症之經驗療法</li>
+<li><strong>原適應症</strong>: 適用於其他治療方法無效或不能忍受的侵入性麴菌病之第二線用藥、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症），以及發燒的重度嗜中性白血球缺乏症患者可能罹患黴菌感染症之經驗療法</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>gastrin secretion abnormality (99.4%)</li>

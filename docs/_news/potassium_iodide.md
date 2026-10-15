@@ -3,7 +3,7 @@ layout: default
 title: "Potassium Iodide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Potassium Iodide 的相關健康新聞報導。原適應症：。預測適應症 2 個。"
+description: "Potassium Iodide 的相關健康新聞報導。原適應症：祛痰藥。預測適應症 2 個。"
 permalink: /news/potassium_iodide/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/potassium_iodide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 祛痰藥</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>nasal cavity disease (100.0%)</li>
 <li>acute laryngopharyngitis (100.0%)</li>

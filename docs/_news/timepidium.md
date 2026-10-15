@@ -3,7 +3,7 @@ layout: default
 title: "Timepidium 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Timepidium 的相關健康新聞報導。原適應症：胃腸道平滑肌痙攣性疼痛（胃炎、消化性潰瘍、腸炎、膽道疾患、尿路結石、胰臟炎）。預測適應症 1 個。"
+description: "Timepidium 的相關健康新聞報導。原適應症：胃炎、胃、十二指腸潰瘍，腸炎、膽道疾患、尿路結石症、胰炎所引起之痙攣性疼痛。預測適應症 1 個。"
 permalink: /news/timepidium/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/timepidium/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 胃腸道平滑肌痙攣性疼痛（胃炎、消化性潰瘍、腸炎、膽道疾患、尿路結石、胰臟炎）</li>
+<li><strong>原適應症</strong>: 胃炎、胃、十二指腸潰瘍，腸炎、膽道疾患、尿路結石症、胰炎所引起之痙攣性疼痛</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>insomnia (disease) (99.5%)</li>

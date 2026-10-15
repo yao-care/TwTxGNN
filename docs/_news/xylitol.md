@@ -3,7 +3,7 @@ layout: default
 title: "Xylitol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Xylitol 的相關健康新聞報導。原適應症：糖尿病代謝異常、醣類補充。預測適應症 1 個。"
+description: "Xylitol 的相關健康新聞報導。原適應症：糖尿病、高血糖時之醣類補充液、由於水份或電解質代謝作用不良引起之脫水現象、外傷刺激麻醉、手術後引起之...。預測適應症 1 個。"
 permalink: /news/xylitol/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/xylitol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 糖尿病代謝異常、醣類補充</li>
+<li><strong>原適應症</strong>: 糖尿病、高血糖時之醣類補充液、由於水份或電解質代謝作用不良引起之脫水現象、外傷刺激麻醉、手術後引起之不正常醣類代謝作用時之熱能補充</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>meningococcal infection (99.7%)</li>

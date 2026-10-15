@@ -3,7 +3,7 @@ layout: default
 title: "Terbutaline 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Terbutaline 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
+description: "Terbutaline 的相關健康新聞報導。原適應症：支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解。預測適應症 3 個。"
 permalink: /news/terbutaline/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/terbutaline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>obstructive lung disease (100.0%)</li>

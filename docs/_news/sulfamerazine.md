@@ -3,7 +3,7 @@ layout: default
 title: "Sulfamerazine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Sulfamerazine 的相關健康新聞報導。原適應症：磺胺劑、革蘭氏陽性及陰性菌感染症。預測適應症 4 個。"
+description: "Sulfamerazine 的相關健康新聞報導。原適應症：肺炎球菌、鏈球菌、葡萄球菌、腦膜炎菌感染症。預測適應症 4 個。"
 permalink: /news/sulfamerazine/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/sulfamerazine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 磺胺劑、革蘭氏陽性及陰性菌感染症</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 肺炎球菌、鏈球菌、葡萄球菌、腦膜炎菌感染症</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
 <li>gout (99.3%)</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.2%)</li>

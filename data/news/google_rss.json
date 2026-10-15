@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-15T12:18:39.496772+00:00",
-  "count": 37,
+  "fetched_at": "2026-10-15T17:30:01.072924+00:00",
+  "count": 36,
   "news": [
     {
       "id": "09806ade8893",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "id": "e6ba6e1369d2",
-      "title": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體 - 自由健康網",
-      "published": "2026-10-15T03:06:00+00:00",
-      "summary": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體&nbsp;&nbsp;自由健康網",
+      "id": "90d852a04ee7",
+      "title": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」 - Yahoo新聞",
+      "published": "2026-10-15T14:40:09+00:00",
+      "summary": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVHZ0NTZlSFJJRFl2RkZlQlNMSmpQb3pTQS1QZXVEdXFOcXFNdWhnamlLVE1uMHRNZU9WUkRvNXFlUXU1bzFWeEJBa2FOLWxuNmpPUE1kR3p4S0xwd0ZUdks2amQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5"
         }
       ]
     },
@@ -52,26 +52,14 @@
       ]
     },
     {
-      "id": "87e8e647ef7a",
-      "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
-      "published": "2026-10-13T11:00:00+00:00",
-      "summary": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤&nbsp;&nbsp;Marie Claire 美麗佳人",
-      "sources": [
-        {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81e5a7166583",
-      "title": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關 - 自由健康網",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關&nbsp;&nbsp;自由健康網",
+      "id": "e6ba6e1369d2",
+      "title": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體 - 自由健康網",
+      "published": "2026-10-15T03:06:00+00:00",
+      "summary": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVHZ0NTZlSFJJRFl2RkZlQlNMSmpQb3pTQS1QZXVEdXFOcXFNdWhnamlLVE1uMHRNZU9WUkRvNXFlUXU1bzFWeEJBa2FOLWxuNmpPUE1kR3p4S0xwd0ZUdks2amQ?oc=5"
         }
       ]
     },
@@ -100,6 +88,18 @@
       ]
     },
     {
+      "id": "81e5a7166583",
+      "title": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關 - 自由健康網",
+      "published": "2026-10-15T04:00:00+00:00",
+      "summary": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1d8782ed5988",
       "title": "「1食物」甜爆卻抗發炎　還能預防糖尿病 - 鏡週刊Mirror Media",
       "published": "2026-10-12T04:11:00+00:00",
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "084ecf2a1d7b",
-      "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆 - 健康醫療網",
-      "published": "2026-10-14T05:00:00+00:00",
-      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆&nbsp;&nbsp;健康醫療網",
+      "id": "1fc52a62b44e",
+      "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆 - 民視新聞網",
+      "published": "2026-10-14T22:30:00+00:00",
+      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5"
         }
       ]
     },
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "e31b1bf83946",
-      "title": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％ - UDN",
-      "published": "2026-10-15T01:51:23+00:00",
-      "summary": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oYU4xbFJtODF6ZmdfY2hhRmRZMVoxazFHLVo4aWtSamFQeUtpbXlQQTVnNWJ1b3VKY19sYm1YTndKaDRueE50LU40TFA0X3JQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fffff1fe7ef5",
       "title": "47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0",
       "published": "2026-10-12T10:16:24+00:00",
@@ -180,6 +168,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e31b1bf83946",
+      "title": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％ - UDN",
+      "published": "2026-10-15T01:51:23+00:00",
+      "summary": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oYU4xbFJtODF6ZmdfY2hhRmRZMVoxazFHLVo4aWtSamFQeUtpbXlQQTVnNWJ1b3VKY19sYm1YTndKaDRueE50LU40TFA0X3JQ?oc=5"
         }
       ]
     },
@@ -295,7 +295,7 @@
       "id": "73a124cde2b6",
       "title": "今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！ - Women's Health",
       "published": "2026-10-15T10:21:51+00:00",
-      "summary": "今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！&nbsp;&nbsp;Women's Health流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa大多區流感季提早來襲 安省26日起開放全民疫苗接種&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "summary": "今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！&nbsp;&nbsp;Women's Health流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Women's Health",
@@ -420,18 +420,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "653185bb9c7f",
-      "title": "合資格人士可免費接種 - 信報網站",
-      "published": "2026-10-11T19:35:34+00:00",
-      "summary": "合資格人士可免費接種&nbsp;&nbsp;信報網站",
-      "sources": [
-        {
-          "name": "信報網站",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOZzZpT3Y0anV2VUNsWFpJUUF3SGdwOUJpdjVSNjA3MkJ3MEVUNzI0dk1XbUQ4YUJEczlUdjdEZDdua3FUMDg2RmxscmtKamg5N3YyVDNOQnBiWHZsaHVGMUc3MmQ2eEpsVDVFV1NQWHhmZlhjbHlOaDUzSHBnWEdoeDh4TjJwUnFQcGpmbENBOXRaaWxVLXV3RFJQQmplRDlaeklmN0lIQ1U0T2kwdVBORzNSTFM1bHZPb0lid196eXVLOU5RX1ptY2lwXzVTU3F3M0UzSjdwdjczT2ctYnNHZ3VTZzR3NkhWalJDUzZMeXJ3MWFPOWl6NHJubm1QRzZVa0QtRU9ZaUVKMHJvb1hnSWZkR000NFJEWGJYanJyWXFKTTNBc1hVRldUXzZSaFE?oc=5"
         }
       ]
     },

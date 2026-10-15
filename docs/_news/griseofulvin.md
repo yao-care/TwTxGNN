@@ -3,7 +3,7 @@ layout: default
 title: "Griseofulvin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Griseofulvin 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Griseofulvin 的相關健康新聞報導。原適應症：甲癬（Onychomycosis）、髮癬（Tinea capitis），不適宜局部外用治療或局部外用...。預測適應症 10 個。"
 permalink: /news/griseofulvin/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/griseofulvin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 甲癬（Onychomycosis）、髮癬（Tinea capitis），不適宜局部外用治療或局部外用無效的皮膚黴菌感染</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>蠅蛆症 (1.0%)</li>

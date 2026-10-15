@@ -3,7 +3,7 @@ layout: default
 title: "Brodalumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Brodalumab 的相關健康新聞報導。原適應症：斑塊性乾癬。預測適應症 10 個。"
+description: "Brodalumab 的相關健康新聞報導。原適應症：斑塊性乾癬：治療適合接受全身性治療的中至重度斑塊性乾癬成人病人（另含膿疱性乾癬、乾癬性關節炎、僵直性...。預測適應症 10 個。"
 permalink: /news/brodalumab/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/brodalumab/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 斑塊性乾癬</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 斑塊性乾癬：治療適合接受全身性治療的中至重度斑塊性乾癬成人病人（另含膿疱性乾癬、乾癬性關節炎、僵直性脊椎炎、掌蹠膿皰症）</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>strongyloidiasis (99.8%)</li>
 <li>eye disease (99.8%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Tiaprofenic acid 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Tiaprofenic acid 的相關健康新聞報導。原適應症：消炎鎮痛。預測適應症 10 個。"
+description: "Tiaprofenic acid 的相關健康新聞報導。原適應症：消炎、鎮痛。預測適應症 10 個。"
 permalink: /news/tiaprofenic_acid/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/tiaprofenic_acid/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 消炎鎮痛</li>
+<li><strong>原適應症</strong>: 消炎、鎮痛</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>brachydactyly-syndactyly syndrome (100.0%)</li>

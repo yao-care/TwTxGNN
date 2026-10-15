@@ -3,7 +3,7 @@ layout: default
 title: "Vitamin E 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Vitamin E 的相關健康新聞報導。原適應症：習慣性早流產、末梢血行障礙、維生素 E 缺乏症。預測適應症 10 個。"
+description: "Vitamin E 的相關健康新聞報導。原適應症：皮膚乾燥及因維他命E缺乏引起之皮膚症。預測適應症 10 個。"
 permalink: /news/vitamin_e/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/vitamin_e/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 習慣性早流產、末梢血行障礙、維生素 E 缺乏症</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 皮膚乾燥及因維他命E缺乏引起之皮膚症</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>inborn disorder of bilirubin metabolism (100.0%)</li>
 <li>bilirubin metabolism disease (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Allopurinol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Allopurinol 的相關健康新聞報導。原適應症：痛風症、痛風性關節炎、尿酸結石、高尿酸血症。預測適應症 10 個。"
+description: "Allopurinol 的相關健康新聞報導。原適應症：治痛風藥（台灣單方許可證另載有：痛風症、痛風性關節炎、尿酸結石、癌症或經化學治療產生之高尿酸血症）。預測適應症 10 個。"
 permalink: /news/allopurinol/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/allopurinol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 痛風症、痛風性關節炎、尿酸結石、高尿酸血症</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 治痛風藥（台灣單方許可證另載有：痛風症、痛風性關節炎、尿酸結石、癌症或經化學治療產生之高尿酸血症）</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>hepatic porphyria (100.0%)</li>
 <li>hepatoportal sclerosis (99.9%)</li>

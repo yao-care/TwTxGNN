@@ -3,7 +3,7 @@ layout: default
 title: "Polymyxin B 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Polymyxin B 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
+description: "Polymyxin B 的相關健康新聞報導。原適應症：抗生素（單方許可證僅載明此項）。預測適應症 3 個。"
 permalink: /news/polymyxin_b/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/polymyxin_b/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 抗生素（單方許可證僅載明此項）</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>bronchitis (99.9%)</li>
 <li>laryngotracheitis (99.6%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Ouabain 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速。預測適應症 10 個。"
+description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速。預測適應症 10 個。"
 permalink: /news/ouabain/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/ouabain/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心搏過速</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>

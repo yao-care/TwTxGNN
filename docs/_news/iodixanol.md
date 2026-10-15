@@ -3,7 +3,7 @@ layout: default
 title: "Iodixanol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Iodixanol 的相關健康新聞報導。原適應症：X光對比劑：心臟血管、腦血管、周邊動脈造影等。預測適應症 3 個。"
+description: "Iodixanol 的相關健康新聞報導。原適應症：X 光對比劑：用於心臟血管、腦血管、周邊動脈造影、腹腔動脈造影、泌尿道攝影、靜脈造影、電腦斷層影像加...。預測適應症 3 個。"
 permalink: /news/iodixanol/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/iodixanol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: X光對比劑：心臟血管、腦血管、周邊動脈造影等</li>
+<li><strong>原適應症</strong>: X 光對比劑：用於心臟血管、腦血管、周邊動脈造影、腹腔動脈造影、泌尿道攝影、靜脈造影、電腦斷層影像加強；腰椎、胸椎及頸椎之脊髓造影</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>osteoarthritis susceptibility (99.2%)</li>

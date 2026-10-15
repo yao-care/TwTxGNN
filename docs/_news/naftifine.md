@@ -3,7 +3,7 @@ layout: default
 title: "Naftifine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Naftifine 的相關健康新聞報導。原適應症：皮膚黴菌病、表皮念珠菌病、甲黴菌病、花斑癬。預測適應症 8 個。"
+description: "Naftifine 的相關健康新聞報導。原適應症：髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起之感染、表皮念珠菌病、甲黴菌病、花斑...。預測適應症 8 個。"
 permalink: /news/naftifine/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/naftifine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 皮膚黴菌病、表皮念珠菌病、甲黴菌病、花斑癬</li>
-<li><strong>證據等級</strong>: L1</li>
+<li><strong>原適應症</strong>: 髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起之感染、表皮念珠菌病、甲黴菌病、花斑癬</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
 <li>cutaneous candidiasis (99.8%)</li>
 <li>Majocchi granuloma (99.7%)</li>

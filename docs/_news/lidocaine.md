@@ -3,7 +3,7 @@ layout: default
 title: "Lidocaine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Lidocaine 的相關健康新聞報導。原適應症：牙科之表面麻醉、浸潤麻醉、傳達麻醉、局部麻醉。預測適應症 10 個。"
+description: "Lidocaine 的相關健康新聞報導。原適應症：局部麻醉。預測適應症 10 個。"
 permalink: /news/lidocaine/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/lidocaine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 牙科之表面麻醉、浸潤麻醉、傳達麻醉、局部麻醉</li>
+<li><strong>原適應症</strong>: 局部麻醉</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>punctate epithelial keratoconjunctivitis (100.0%)</li>

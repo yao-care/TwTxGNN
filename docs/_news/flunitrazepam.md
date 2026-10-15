@@ -3,7 +3,7 @@ layout: default
 title: "Flunitrazepam 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Flunitrazepam 的相關健康新聞報導。原適應症：。預測適應症 13 個。"
+description: "Flunitrazepam 的相關健康新聞報導。原適應症：失眠。預測適應症 13 個。"
 permalink: /news/flunitrazepam/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/flunitrazepam/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 失眠</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（13 個）</strong>:<ul>
 <li>失眠（疾病） (1.0%)</li>
 <li>偏頭痛 (1.0%)</li>

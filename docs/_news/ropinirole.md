@@ -3,7 +3,7 @@ layout: default
 title: "Ropinirole 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ropinirole 的相關健康新聞報導。原適應症：治療自發性帕金森氏症、原發性腳部躁動症。預測適應症 10 個。"
+description: "Ropinirole 的相關健康新聞報導。原適應症：治療帕金森氏症。預測適應症 10 個。"
 permalink: /news/ropinirole/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/ropinirole/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 治療自發性帕金森氏症、原發性腳部躁動症</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 治療帕金森氏症</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>attention deficit-hyperactivity disorder (100.0%)</li>
 <li>faciodigitogenital syndrome (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Cobicistat 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Cobicistat 的相關健康新聞報導。原適應症：。預測適應症 3 個。"
+description: "Cobicistat 的相關健康新聞報導。原適應症：感染第一型人類免疫缺乏病毒（HIV-1）的成人、青少年與兒童病人（目前許可證皆為複方，無單方許可證）。預測適應症 3 個。"
 permalink: /news/cobicistat/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/cobicistat/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 感染第一型人類免疫缺乏病毒（HIV-1）的成人、青少年與兒童病人（目前許可證皆為複方，無單方許可證）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>simian immunodeficiency virus infection (99.9%)</li>

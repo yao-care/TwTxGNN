@@ -3,7 +3,7 @@ layout: default
 title: "Methionine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Methionine 的相關健康新聞報導。原適應症：肝機能障礙。預測適應症 10 個。"
+description: "Methionine 的相關健康新聞報導。原適應症：發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給。預測適應症 10 個。"
 permalink: /news/methionine/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/methionine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 肝機能障礙</li>
+<li><strong>原適應症</strong>: 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>acne (disease) (100.0%)</li>

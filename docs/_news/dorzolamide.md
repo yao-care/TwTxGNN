@@ -3,7 +3,7 @@ layout: default
 title: "Dorzolamide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Dorzolamide 的相關健康新聞報導。原適應症：高眼壓症、廣角性青光眼。預測適應症 10 個。"
+description: "Dorzolamide 的相關健康新聞報導。原適應症：碳酸酐脢抑制劑，用於高眼壓和開角型青光眼患者，以降低眼內壓。預測適應症 10 個。"
 permalink: /news/dorzolamide/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/dorzolamide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 高眼壓症、廣角性青光眼</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: 碳酸酐脢抑制劑，用於高眼壓和開角型青光眼患者，以降低眼內壓</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>primary hereditary glaucoma (100.0%)</li>
 <li>hypotrichosis simplex of the scalp (100.0%)</li>

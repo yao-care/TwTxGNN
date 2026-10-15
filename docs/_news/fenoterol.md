@@ -3,7 +3,7 @@ layout: default
 title: "Fenoterol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Fenoterol 的相關健康新聞報導。原適應症：。預測適應症 8 個。"
+description: "Fenoterol 的相關健康新聞報導。原適應症：下列支氣管痙攣疾患之治療與預防：支氣管氣喘、阻塞性支氣管炎、肺氣腫和伴有支氣管痙攣之肺支氣管障害。預測適應症 8 個。"
 permalink: /news/fenoterol/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/fenoterol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 下列支氣管痙攣疾患之治療與預防：支氣管氣喘、阻塞性支氣管炎、肺氣腫和伴有支氣管痙攣之肺支氣管障害</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
 <li>multiple system atrophy (99.7%)</li>

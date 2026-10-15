@@ -3,7 +3,7 @@ layout: default
 title: "Thiamine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Thiamine 的相關健康新聞報導。原適應症：。預測適應症 7 個。"
+description: "Thiamine 的相關健康新聞報導。原適應症：腳氣病、維他命Ｂ１缺乏症。預測適應症 7 個。"
 permalink: /news/thiamine/
 ---
 
@@ -24,7 +24,8 @@ permalink: /news/thiamine/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 腳氣病、維他命Ｂ１缺乏症</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>Thiamine 的神經保護作用與青光眼 (2020.0%)</li>
 <li>維生素 B1 對視神經細胞的保護機轉 (2019.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Icatibant 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Icatibant 的相關健康新聞報導。原適應症：遺傳性血管性水腫(HAE)急性發作症狀治療。預測適應症 7 個。"
+description: "Icatibant 的相關健康新聞報導。原適應症：體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作...。預測適應症 7 個。"
 permalink: /news/icatibant/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/icatibant/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 遺傳性血管性水腫(HAE)急性發作症狀治療</li>
+<li><strong>原適應症</strong>: 體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
 <li>C1 inhibitor deficiency (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Dronedarone 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Dronedarone 的相關健康新聞報導。原適應症：心房纖維顫動、心房撲動。預測適應症 10 個。"
+description: "Dronedarone 的相關健康新聞報導。原適應症：血管擴張劑。（另一張許可證：最近 6 個月內有陣發性或持續性 AF/AFL，且目前處於竇性節律者，降...。預測適應症 10 個。"
 permalink: /news/dronedarone/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/dronedarone/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 心房纖維顫動、心房撲動</li>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>原適應症</strong>: 血管擴張劑。（另一張許可證：最近 6 個月內有陣發性或持續性 AF/AFL，且目前處於竇性節律者，降低心房顫動住院風險）</li>
+<li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>stroke disorder (100.0%)</li>
 <li>obsolete susceptibility to ischemic stroke (100.0%)</li>

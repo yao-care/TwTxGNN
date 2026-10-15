@@ -3,7 +3,7 @@ layout: default
 title: "Trabectedin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Trabectedin 的相關健康新聞報導。原適應症：無法切除或轉移性脂肪肉瘤/平滑肌肉瘤。預測適應症 1 個。"
+description: "Trabectedin 的相關健康新聞報導。原適應症：無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)...。預測適應症 1 個。"
 permalink: /news/trabectedin/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/trabectedin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 無法切除或轉移性脂肪肉瘤/平滑肌肉瘤</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>原適應症</strong>: 無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)，且曾接受一種含 anthracycline 療程的病人</li>
+<li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>female breast carcinoma (99.7%)</li>
 </ul></li>
@@ -43,11 +43,11 @@ permalink: /news/trabectedin/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

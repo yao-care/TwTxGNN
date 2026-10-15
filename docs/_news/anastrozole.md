@@ -3,7 +3,7 @@ layout: default
 title: "Anastrozole 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Anastrozole 的相關健康新聞報導。原適應症：停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療。預測適應症 6 個。"
+description: "Anastrozole 的相關健康新聞報導。原適應症：治療停經後婦女晚期乳癌；輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌；輔助治療已使用 ta...。預測適應症 6 個。"
 permalink: /news/anastrozole/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/anastrozole/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 停經後婦女晚期乳癌、荷爾蒙接受器陽性早期乳癌輔助治療</li>
+<li><strong>原適應症</strong>: 治療停經後婦女晚期乳癌；輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌；輔助治療已使用 tamoxifen 2-3 年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>female breast carcinoma (99.7%)</li>
@@ -48,11 +48,11 @@ permalink: /news/anastrozole/
 
 ---
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
 
 ---
 

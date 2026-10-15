@@ -3,7 +3,7 @@ layout: default
 title: "Magnesium sulfate 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Magnesium sulfate 的相關健康新聞報導。原適應症：。預測適應症 10 個。"
+description: "Magnesium sulfate 的相關健康新聞報導。原適應症：抗痙攣藥；瀉藥。預測適應症 10 個。"
 permalink: /news/magnesium_sulfate/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/magnesium_sulfate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 抗痙攣藥；瀉藥</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>preeclampsia/eclampsia (100.0%)</li>

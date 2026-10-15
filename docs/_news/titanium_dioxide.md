@@ -3,7 +3,7 @@ layout: default
 title: "Titanium dioxide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Titanium dioxide 的相關健康新聞報導。原適應症：外用抗刺激劑。預測適應症 10 個。"
+description: "Titanium dioxide 的相關健康新聞報導。原適應症：外用抗刺激劑（單方許可證，已註銷）。預測適應症 10 個。"
 permalink: /news/titanium_dioxide/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/titanium_dioxide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 外用抗刺激劑</li>
+<li><strong>原適應症</strong>: 外用抗刺激劑（單方許可證，已註銷）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>drug-induced osteoporosis (100.0%)</li>

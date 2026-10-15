@@ -3,7 +3,7 @@ layout: default
 title: "Verteporfin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Verteporfin 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
+description: "Verteporfin 的相關健康新聞報導。原適應症：因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生，病理性近視(PM)或疑...。預測適應症 1 個。"
 permalink: /news/verteporfin/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/verteporfin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生，病理性近視(PM)或疑似眼組織漿菌症引起之視網膜下中央凹脈絡膜血管新生</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.5%)</li>

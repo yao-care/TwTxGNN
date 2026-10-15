@@ -3,7 +3,7 @@ layout: default
 title: "Tetryzoline 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Tetryzoline 的相關健康新聞報導。原適應症：眼睛刺激、結膜炎、結膜充血。預測適應症 2 個。"
+description: "Tetryzoline 的相關健康新聞報導。原適應症：目前台灣有效許可證皆為複方，無有效的單方許可證可引用。複方許可證的核准適應症包括：暫時緩解因輕微眼部...。預測適應症 2 個。"
 permalink: /news/tetryzoline/
 ---
 
@@ -24,8 +24,8 @@ permalink: /news/tetryzoline/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 眼睛刺激、結膜炎、結膜充血</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 目前台灣有效許可證皆為複方，無有效的單方許可證可引用。複方許可證的核准適應症包括：暫時緩解因輕微眼部刺激所引起之不適、眼睛紅、眼睛癢、眼睛疲勞；過敏性結膜炎、眼瞼緣炎、角膜炎</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
 <li>nasal cavity disease (100.0%)</li>
 <li>acute laryngopharyngitis (100.0%)</li>

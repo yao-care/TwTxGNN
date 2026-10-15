@@ -3,7 +3,7 @@ layout: default
 title: "Polysorbate 80 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Polysorbate 80 的相關健康新聞報導。原適應症：。預測適應症 1 個。"
+description: "Polysorbate 80 的相關健康新聞報導。原適應症：界面活性劑。預測適應症 1 個。"
 permalink: /news/polysorbate_80/
 ---
 
@@ -24,6 +24,7 @@ permalink: /news/polysorbate_80/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
+<li><strong>原適應症</strong>: 界面活性劑</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>congenital ichthyosiform erythroderma (99.4%)</li>
