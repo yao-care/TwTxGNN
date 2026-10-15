@@ -1,139 +1,146 @@
 {
-  "total": 279,
-  "generated_at": "2026-10-15T02:45:32.908168",
+  "total": 302,
+  "generated_at": "2026-10-15T16:06:53.231972",
   "drugs": [
     {
       "name": "Acebutolol",
       "file": "acebutolol.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": "惡性腎血管高血壓 (malignant renovascular hypertension)"
+      "predicted_indication": "惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)"
     },
     {
       "name": "Acetazolamide",
       "file": "acetazolamide.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "心肌病變 (cardiomyopathy)"
+      "predicted_indication": "運動誘發惡性高熱 (Exercise-induced Malignant Hyperthermia)"
     },
     {
       "name": "Acitretin",
       "file": "acitretin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 4,
-      "predicted_indication": "青春痘 (acne)"
+      "predicted_indication": "痤瘡 (Acne)"
     },
     {
       "name": "Acyclovir",
       "file": "acyclovir.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis)"
+      "predicted_indication": "尋常疣 (Common Wart)（TxGNN 排名第 2；排名第 1 的點狀上皮角結膜炎僅有模型預測，證據等級 L5）"
     },
     {
       "name": "Alfacalcidol",
       "file": "alfacalcidol.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 5,
-      "predicted_indication": "腎小管酸中毒 (renal tubular acidosis)"
+      "predicted_indication": "家族性孤立性副甲狀腺低下症（Familial isolated hypoparathyroidism due to impaired PTH secretion）"
     },
     {
       "name": "Alirocumab",
       "file": "alirocumab.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病"
+      "predicted_indication": "X 染色體性聯魚鱗癬，無類固醇硫酸酯酶缺乏 (ichthyosis, X-linked, without steroid sulfatase deficiency)"
+    },
+    {
+      "name": "Aliskiren",
+      "file": "aliskiren.md",
+      "evidence_level": "L4",
+      "indication_count": 7,
+      "predicted_indication": "肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia)"
     },
     {
       "name": "Allopurinol",
       "file": "allopurinol.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "肝性紫質症、苯丙胺酸代謝異常"
+      "predicted_indication": "肝性卟啉症 (Hepatic Porphyria)"
     },
     {
       "name": "Alpelisib",
       "file": "alpelisib.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "肺動脈高壓 (Pulmonary Hypertension)"
     },
     {
       "name": "Alpha-Tocopherol Acetate",
       "file": "alpha-tocopherol_acetate.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "糖尿病視網膜病變 (Diabetic Retinopathy)"
+      "predicted_indication": "藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)"
     },
     {
       "name": "Alpha-Tocopherol Succinate",
       "file": "alpha-tocopherol_succinate.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "藥物誘發性骨質疏鬆症 (Drug-induced Osteoporosis)"
+      "predicted_indication": "藥物性骨質疏鬆 (Drug-induced Osteoporosis)"
     },
     {
       "name": "Alprostadil",
       "file": "alprostadil.md",
-      "evidence_level": "L1",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損"
+      "predicted_indication": "主動脈畸形 (Aortic Malformation)"
     },
     {
       "name": "Aluminum Chloride",
       "file": "aluminum_chloride.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "脂漏性角化症、脂漏性皮膚炎、痤瘡、皮膚疾病（多汗相關）"
+      "predicted_indication": "脂漏性角化症 (Seborrheic Keratosis)"
     },
     {
       "name": "Aluminum Hydroxide",
       "file": "aluminum_hydroxide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 4,
-      "predicted_indication": "活動性消化性潰瘍 (active peptic ulcer disease)"
+      "predicted_indication": "活動性消化性潰瘍 (Active Peptic Ulcer Disease)"
     },
     {
       "name": "Aluminum Oxide",
       "file": "aluminum_oxide.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "類風濕性關節炎 (Rheumatoid Arthritis)"
     },
     {
       "name": "Amcinonide",
       "file": "amcinonide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 8,
-      "predicted_indication": "皮膚炎 (dermatitis)"
+      "predicted_indication": "皮膚炎 (Dermatitis)"
     },
     {
       "name": "Amorolfine",
       "file": "amorolfine.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "藥物誘發性骨質疏鬆 (Drug-Induced Osteoporosis)"
+      "predicted_indication": "藥物性骨質疏鬆 (Drug-induced Osteoporosis)"
     },
     {
       "name": "Amylmetacresol",
       "file": "amylmetacresol.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "馬尾症候群 (Cauda Equina Syndrome)"
+      "predicted_indication": "脊髓馬尾症候群 (Cauda Equina Syndrome)"
     },
     {
       "name": "Anastrozole",
       "file": "anastrozole.md",
       "evidence_level": "L1",
       "indication_count": 6,
-      "predicted_indication": "女性乳腺癌 (female breast carcinoma)"
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
     },
     {
       "name": "Anthralin",
       "file": "anthralin.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "圓禿 (Alopecia Areata)"
+      "predicted_indication": "圓形禿 (Alopecia Areata)"
     },
     {
       "name": "Ascorbyl Phosphate",
@@ -147,7 +154,7 @@
       "file": "asfotase_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "粒線體氧化磷酸化障礙（Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies）"
+      "predicted_indication": "核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)"
     },
     {
       "name": "Aspirin",
@@ -159,119 +166,126 @@
     {
       "name": "Atezolizumab",
       "file": "atezolizumab.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "攝護腺尿道泌尿上皮癌 (prostatic urethra urothelial carcinoma)"
+      "predicted_indication": "攝護腺尿道泌尿上皮癌 (Prostatic urethra urothelial carcinoma)"
     },
     {
       "name": "Atracurium Besylate",
       "file": "atracurium_besylate.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "子癇前症 (preeclampsia)"
+      "predicted_indication": "子癇前症 (Preeclampsia)"
     },
     {
       "name": "Avelumab",
       "file": "avelumab.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "人類皰疹病毒8相關腫瘤 (human herpesvirus 8-related tumor)"
+      "predicted_indication": "人類疱疹病毒 8 型相關腫瘤 (human herpesvirus 8-related tumor)"
     },
     {
       "name": "Axitinib",
       "file": "axitinib.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)"
+      "predicted_indication": "未分類腎細胞癌 (unclassified renal cell carcinoma)"
+    },
+    {
+      "name": "Balsalazide",
+      "file": "balsalazide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "痛風 (Gout)"
     },
     {
       "name": "Belimumab",
       "file": "belimumab.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": "血小板原發性釋放障礙 (primary release disorder of platelets)"
+      "predicted_indication": "原發性血小板釋放障礙 (primary release disorder of platelets)"
     },
     {
       "name": "Bempedoic Acid",
       "file": "bempedoic_acid.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)"
+      "predicted_indication": "同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)；排名第一的預測為甲狀腺機能亢進 (hyperthyroidism)，證據等級 L5，建議 Hold"
     },
     {
       "name": "Benazepril",
       "file": "benazepril.md",
       "evidence_level": "L5",
       "indication_count": 5,
-      "predicted_indication": "惡性腎血管性高血壓 (malignant renovascular hypertension)"
+      "predicted_indication": "惡性腎血管性高血壓 (Malignant Renovascular Hypertension)"
     },
     {
       "name": "Benzylpenicillin",
       "file": "benzylpenicillin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": "牙冠周炎 (pericoronitis)"
+      "predicted_indication": "牙冠周炎 (Pericoronitis)"
     },
     {
       "name": "Berberine",
       "file": "berberine.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "重度子癲前症 (Severe Pre-eclampsia)"
+      "predicted_indication": "重度子癇前症 (Severe Pre-eclampsia)"
     },
     {
       "name": "Betamethasone",
       "file": "betamethasone.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "圓禿 (Alopecia Areata)"
+      "predicted_indication": "斑禿 (Alopecia Areata)"
     },
     {
       "name": "Bevacizumab",
       "file": "bevacizumab.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "會厭腫瘤 (epiglottis neoplasm)"
+      "predicted_indication": "會厭腫瘤 (Epiglottis Neoplasm)"
     },
     {
       "name": "Brivaracetam",
       "file": "brivaracetam.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "視覺性癲癇 (visual epilepsy)"
+      "predicted_indication": "視覺性癲癇 (Visual Epilepsy)"
     },
     {
       "name": "Brodalumab",
       "file": "brodalumab.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "眼病 (Eye Disease)"
+      "predicted_indication": "類圓線蟲症 (Strongyloidiasis)"
     },
     {
       "name": "Buprenorphine",
       "file": "buprenorphine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": "急性間歇性紫質症 (acute intermittent porphyria)"
+      "predicted_indication": "急性間歇性紫質症 (Acute Intermittent Porphyria)"
     },
     {
       "name": "Busulfan",
       "file": "busulfan.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "骨髓增生異常症候群 (Myelodysplastic Syndrome)"
+      "predicted_indication": "骨髓發育不良症候群 (Myelodysplastic Syndrome)"
     },
     {
       "name": "Butenafine",
       "file": "butenafine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 5,
-      "predicted_indication": "皮膚念珠菌病 (cutaneous candidiasis)"
+      "predicted_indication": "皮膚念珠菌病 (Cutaneous Candidiasis)"
     },
     {
       "name": "Cabazitaxel",
       "file": "cabazitaxel.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
     },
@@ -287,49 +301,49 @@
       "file": "caplacizumab.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "血小板原發釋放障礙 (primary release disorder of platelets)"
+      "predicted_indication": "血小板釋放障礙 (Primary release disorder of platelets)"
     },
     {
       "name": "Carbenoxolone",
       "file": "carbenoxolone.md",
       "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": "非症候群性食道畸形 (non-syndromic esophageal malformation)"
+      "predicted_indication": "非症候群型食道畸形 (Non-syndromic Esophageal Malformation)"
     },
     {
       "name": "Carboplatin",
       "file": "carboplatin.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "女性乳腺癌 (female breast carcinoma)"
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
     },
     {
       "name": "Carisoprodol",
       "file": "carisoprodol.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 1,
-      "predicted_indication": "失眠 (insomnia)"
+      "predicted_indication": "失眠 (Insomnia)"
     },
     {
       "name": "Caspofungin",
       "file": "caspofungin.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "胃泌素分泌異常 (gastrin secretion abnormality)"
+      "predicted_indication": "胃泌素分泌異常 (Gastrin Secretion Abnormality)"
     },
     {
       "name": "Cefmetazole",
       "file": "cefmetazole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 9,
-      "predicted_indication": "高澱粉酶血症、多株性高黏滯症候群、先天性無白蛋白血症、血型不相容、淋病性尿道炎、解尿素支原體尿道炎、惡性前血液系統疾病、單株免疫球蛋白血症、血液疾病相關周邊神經病變"
+      "predicted_indication": "高澱粉酶血症 (Hyperamylasemia)"
     },
     {
       "name": "Cefoperazone",
       "file": "cefoperazone.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "肺炎（Pneumonia）"
+      "predicted_indication": "硬化性膽管炎 (Sclerosing Cholangitis)"
     },
     {
       "name": "Cephalexin",
@@ -343,7 +357,14 @@
       "file": "cerliponase_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Scheie syndrome"
+      "predicted_indication": "Scheie 症候群 (Scheie syndrome)"
+    },
+    {
+      "name": "Cetuximab",
+      "file": "cetuximab.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "兒童支氣管腺瘤／類癌 (Bronchial adenomas/carcinoids, childhood)"
     },
     {
       "name": "Chloral Hydrate",
@@ -364,28 +385,28 @@
       "file": "cholic_acid.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "HIV 感染性疾病 (HIV infectious disease)"
+      "predicted_indication": "HIV 感染 (HIV infectious disease)"
     },
     {
       "name": "Choline Salicylate",
       "file": "choline_salicylate.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "Prinzmetal 心絞痛 (Prinzmetal Angina)"
+      "predicted_indication": "類風濕性關節炎 (Rheumatoid Arthritis)"
     },
     {
       "name": "Cisatracurium",
       "file": "cisatracurium.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "子癲前症 (Preeclampsia)"
+      "predicted_indication": "馬尾症候群 (Cauda Equina Syndrome)"
     },
     {
       "name": "Cladribine",
       "file": "cladribine.md",
       "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": "橫紋肌肉瘤 (多種亞型)、肝臟肉瘤"
+      "predicted_indication": "副腦膜胚胎型橫紋肌肉瘤 (Parameningeal Embryonal Rhabdomyosarcoma)"
     },
     {
       "name": "Clobetasone",
@@ -399,84 +420,91 @@
       "file": "clomipramine.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "焦慮症 (anxiety disorder)"
+      "predicted_indication": "焦慮症 (Anxiety Disorder)"
     },
     {
       "name": "Cobicistat",
       "file": "cobicistat.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "猴免疫缺乏病毒感染、貓免疫缺乏症候群、神經發育障礙"
+      "predicted_indication": "猿猴免疫缺乏病毒感染 (simian immunodeficiency virus infection)"
+    },
+    {
+      "name": "Cobimetinib",
+      "file": "cobimetinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "肌萎縮性側索硬化症 (Amyotrophic Lateral Sclerosis)"
     },
     {
       "name": "Conjugated Estrogens",
       "file": "conjugated_estrogens.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "偏頭痛（Migraine Disorder）"
+      "predicted_indication": "偏頭痛 (Migraine Disorder)"
     },
     {
       "name": "Cortisone Acetate",
       "file": "cortisone_acetate.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "圓禿 (Alopecia Areata)"
+      "predicted_indication": "斑禿 (Alopecia Areata)"
     },
     {
       "name": "Cromoglicic Acid",
       "file": "cromoglicic_acid.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "潰瘍性直腸乙狀結腸炎 (Ulcerative Proctosigmoiditis)"
     },
     {
       "name": "Cyclandelate",
       "file": "cyclandelate.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "偏頭痛 (migraine disorder)；此為證據最完整的預測，TxGNN 排名第 3，排名第 1 為 Prinzmetal 心絞痛"
     },
     {
       "name": "Cyclizine",
       "file": "cyclizine.md",
       "evidence_level": "L4",
       "indication_count": 9,
-      "predicted_indication": "過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患"
+      "predicted_indication": "過敏性蕁麻疹 (Allergic Urticaria)"
     },
     {
       "name": "Cytarabine",
       "file": "cytarabine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 9,
-      "predicted_indication": "小細胞肺癌、原發性肺淋巴瘤"
+      "predicted_indication": "小細胞肺癌 (Small Cell Lung Carcinoma)"
     },
     {
       "name": "Daptomycin",
       "file": "daptomycin.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "骨關節炎 (Osteoarthritis)"
+      "predicted_indication": "骨關節炎 (osteoarthritis)"
     },
     {
       "name": "Dehydrocholic Acid",
       "file": "dehydrocholic_acid.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "急性尿酸腎病、腎結石、膽道疾病、膽管腫瘤"
+      "predicted_indication": "急性尿酸腎病變 (Acute Urate Nephropathy)"
     },
     {
       "name": "Denosumab",
       "file": "denosumab.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": "嚴重非增殖性糖尿病視網膜病變、糖尿病視網膜病變"
+      "predicted_indication": "嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)"
     },
     {
       "name": "Deoxycholic Acid",
       "file": "deoxycholic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
-      "predicted_indication": "家族性血尿-視網膜動脈迂曲-攣縮症候群、腦小血管病變、糖尿病腎病"
+      "predicted_indication": "糖尿病腎病變 (Diabetic Nephropathy)（排名第 3；排名第 1、2 的預測無任何證據，見下文說明）"
     },
     {
       "name": "Desogestrel",
@@ -490,91 +518,112 @@
       "file": "dexamethasone.md",
       "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "圓禿（Alopecia Areata）"
+      "predicted_indication": "圓形禿 (Alopecia Areata)"
+    },
+    {
+      "name": "Dexketoprofen",
+      "file": "dexketoprofen.md",
+      "evidence_level": "L1",
+      "indication_count": 10,
+      "predicted_indication": "偏頭痛 (Migraine Disorder)"
     },
     {
       "name": "Diosmin",
       "file": "diosmin.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "閉經 (amenorrhea)"
+      "predicted_indication": "閉經 (Amenorrhea)"
     },
     {
       "name": "Dipyridamole",
       "file": "dipyridamole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "變異型心絞痛 (Prinzmetal angina)、中風"
+      "predicted_indication": "Prinzmetal 狹心症 (Prinzmetal angina)"
     },
     {
       "name": "Disopyramide",
       "file": "disopyramide.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "妥瑞症、ADHD、拔毛症、多灶性心房頻脈、新生兒心房撲動"
+      "predicted_indication": "妥瑞氏症 (Tourette syndrome)"
     },
     {
       "name": "Dl-Alpha-Tocopherol",
       "file": "dl-alpha-tocopherol.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "未成熟白內障 (immature cataract)"
+      "predicted_indication": "未成熟型白內障 (Immature Cataract)"
     },
     {
       "name": "Docetaxel",
       "file": "docetaxel.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "女性乳腺癌 (female breast carcinoma)"
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
+    },
+    {
+      "name": "Doripenem",
+      "file": "doripenem.md",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "predicted_indication": "肝門靜脈硬化症 (Hepatoportal Sclerosis)"
     },
     {
       "name": "Dorzolamide",
       "file": "dorzolamide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "原發性遺傳性青光眼 (primary hereditary glaucoma)"
+      "predicted_indication": "原發性遺傳性青光眼 (Primary Hereditary Glaucoma)"
     },
     {
       "name": "Doxorubicin",
       "file": "doxorubicin.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "Ewing 肉瘤（Ewing Sarcoma）"
+      "predicted_indication": "尤文氏肉瘤 (Ewing sarcoma)"
     },
     {
       "name": "Dronedarone",
       "file": "dronedarone.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "中風疾病 (stroke disorder)"
+      "predicted_indication": "中風相關疾患 (Stroke Disorder)"
     },
     {
       "name": "Dupilumab",
       "file": "dupilumab.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "支氣管炎 (bronchitis)"
+      "predicted_indication": "支氣管炎 (Bronchitis)"
     },
     {
       "name": "Durvalumab",
       "file": "durvalumab.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "前列腺尿道泌尿道上皮癌 (prostatic urethra urothelial carcinoma)"
+      "predicted_indication": "前列腺尿道泌尿上皮癌 (Prostatic Urethra Urothelial Carcinoma)"
+    },
+    {
+      "name": "Eltrombopag",
+      "file": "eltrombopag.md",
+      "evidence_level": "L3",
+      "indication_count": 1,
+      "predicted_indication": "HIV 感染相關疾病 (HIV infectious disease)"
     },
     {
       "name": "Emedastine",
       "file": "emedastine.md",
       "evidence_level": "L2",
       "indication_count": 2,
-      "predicted_indication": "過敏性蕁麻疹、冷蕁麻疹"
+      "predicted_indication": "過敏性蕁麻疹 (Allergic Urticaria)"
     },
     {
       "name": "Enfortumab Vedotin",
       "file": "enfortumab_vedotin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "HER2 陽性乳癌 (HER2 Positive Breast Carcinoma)"
+      "predicted_indication": "痲瘋病 (Leprosy)"
     },
     {
       "name": "Erdafitinib",
@@ -586,65 +635,65 @@
     {
       "name": "Ergometrine",
       "file": "ergometrine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "偏頭痛 (Migraine Disorder)"
+      "predicted_indication": "多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向"
     },
     {
       "name": "Etanercept",
       "file": "etanercept.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 6,
-      "predicted_indication": "多發性硬化症(primary progressive)、視神經脊髓炎、肌萎縮性脊髓側索硬化症"
+      "predicted_indication": "類風濕性血管炎 (Rheumatoid Vasculitis)"
     },
     {
       "name": "Ethynodiol Diacetate",
       "file": "ethynodiol_diacetate.md",
       "evidence_level": "L3",
       "indication_count": 6,
-      "predicted_indication": "痤瘡(acne)、女性不孕症"
+      "predicted_indication": "痤瘡 (Acne)"
     },
     {
       "name": "Everolimus",
       "file": "everolimus.md",
       "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "脂肉瘤 (Liposarcoma)"
+      "predicted_indication": "脂肪肉瘤 (Liposarcoma)"
     },
     {
       "name": "Famotidine",
       "file": "famotidine.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "十二指腸胃逆流、十二指腸阻塞、活動性消化性潰瘍"
+      "predicted_indication": "十二指腸胃逆流 (Duodenogastric Reflux)"
     },
     {
       "name": "Felodipine",
       "file": "felodipine.md",
       "evidence_level": "L4",
       "indication_count": 7,
-      "predicted_indication": "肺高壓(肺疾病/缺氧相關)、惡性腎血管性高血壓、惡性高血壓性腎病"
+      "predicted_indication": "因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia)"
     },
     {
       "name": "Fenoprofen",
       "file": "fenoprofen.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "僵直性脊椎炎、假性軟骨發育不全、WHIM 症候群"
+      "predicted_indication": "僵直性脊椎炎 (Ankylosing Spondylitis)"
     },
     {
       "name": "Fenoterol",
       "file": "fenoterol.md",
       "evidence_level": "L5",
       "indication_count": 8,
-      "predicted_indication": "多系統萎縮、姿勢性心搏過速症候群、開放性青光眼、雷諾氏病"
+      "predicted_indication": "多發性系統萎縮症 (Multiple System Atrophy)"
     },
     {
       "name": "Ferrous Gluconate",
       "file": "ferrous_gluconate.md",
       "evidence_level": "L5",
       "indication_count": 5,
-      "predicted_indication": "Plummer-Vinson 症候群、維生素缺乏症、巨紅血球性貧血"
+      "predicted_indication": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)"
     },
     {
       "name": "Fidaxomicin",
@@ -670,58 +719,79 @@
     {
       "name": "Flunitrazepam",
       "file": "flunitrazepam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "失眠（疾病分類）、偏頭痛、腦幹先兆偏頭痛、焦慮"
+      "predicted_indication": "失眠 (Insomnia)（與原適應症相同；其餘預測包含偏頭痛、焦慮、酒精戒斷譫妄等）"
     },
     {
       "name": "Fluorescein",
       "file": "fluorescein.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Prinzmetal 心絞痛 (Prinzmetal angina)"
+      "predicted_indication": "變異型心絞痛 (Prinzmetal angina)"
     },
     {
       "name": "Fluorouracil",
       "file": "fluorouracil.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoid-type Embryonal Rhabdomyosarcoma of the Vagina)"
+      "predicted_indication": "陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)"
+    },
+    {
+      "name": "Fluphenazine",
+      "file": "fluphenazine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "視網膜失養症 (Retinal dystrophy with or without extraocular anomalies)"
     },
     {
       "name": "Fluticasone",
       "file": "fluticasone.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "偏頭痛 (Migraine Disorder)"
     },
     {
       "name": "Fosfomycin",
       "file": "fosfomycin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "淋病性尿道炎、尿漿菌性尿道炎、子宮炎、會厭炎"
+      "predicted_indication": "淋病性尿道炎 (Gonococcal Urethritis)"
     },
     {
       "name": "Fulvestrant",
       "file": "fulvestrant.md",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "predicted_indication": "HIV 感染 (HIV infectious disease)"
+    },
+    {
+      "name": "Gabexate",
+      "file": "gabexate.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "葛蘭茲曼氏血小板無力症 (Glanzmann thrombasthenia)"
+    },
+    {
+      "name": "Gadoxetic Acid",
+      "file": "gadoxetic_acid.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "HIV infectious disease"
+      "predicted_indication": "甲狀腺機能亢進 (Hyperthyroidism)"
     },
     {
       "name": "Gefitinib",
       "file": "gefitinib.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "牙齦纖維瘤、肺纖維瘤、肺錯構瘤、額顳葉失智伴包涵體肌病"
+      "predicted_indication": "牙齦纖維瘤病 (Fibromatosis, Gingival)"
     },
     {
       "name": "Gemcitabine",
       "file": "gemcitabine.md",
-      "evidence_level": "L2",
+      "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "女性乳腺癌 (female breast carcinoma)"
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
     },
     {
       "name": "Gemfibrozil",
@@ -740,177 +810,184 @@
     {
       "name": "Glycerin",
       "file": "glycerin.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "馬尾症候群 (Cauda Equina Syndrome)"
     },
     {
       "name": "Glycol Salicylate",
       "file": "glycol_salicylate.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Glanzmann 血小板無力症 (Glanzmann Thrombasthenia)"
+      "predicted_indication": "Glanzmann 血小板無力症 (Glanzmann thrombasthenia)"
     },
     {
       "name": "Griseofulvin",
       "file": "griseofulvin.md",
       "evidence_level": "L5",
       "indication_count": 5,
-      "predicted_indication": "蠅蛆症、疥蟲性蠅蛆症、傷口蠅蛆症、爬行性蠅蛆症、包蟲病"
+      "predicted_indication": "蠅蛆症 (Myiasis)"
+    },
+    {
+      "name": "Guaiacol",
+      "file": "guaiacol.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "急性喉咽炎 (Acute Laryngopharyngitis)"
     },
     {
       "name": "Guselkumab",
       "file": "guselkumab.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "藥物性骨質疏鬆 (drug-induced osteoporosis)"
+      "predicted_indication": "藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)"
     },
     {
       "name": "Hesperidin",
       "file": "hesperidin.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "骨髓增生性腫瘤 (Myeloproliferative Neoplasm)"
     },
     {
       "name": "Hexachlorophene",
       "file": "hexachlorophene.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "廣義皮膚病 (Skin Disease)"
+      "predicted_indication": "脂漏性角化症 (Seborrheic Keratosis)"
     },
     {
       "name": "Homatropine Methylbromide",
       "file": "homatropine_methylbromide.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 2,
-      "predicted_indication": "胃十二指腸炎 (gastroduodenitis)"
+      "predicted_indication": "胃十二指腸炎 (Gastroduodenitis)"
     },
     {
       "name": "Human Immunoglobulin G",
       "file": "human_immunoglobulin_g.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "糖尿病視網膜病變 (diabetic retinopathy)"
+      "predicted_indication": "嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)"
     },
     {
       "name": "Hyaluronic Acid",
       "file": "hyaluronic_acid.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "乾眼症 (Dry Eye Syndrome)"
     },
     {
       "name": "Hydrocortisone",
       "file": "hydrocortisone.md",
-      "evidence_level": "L1",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "圓禿 (Alopecia Areata)"
+      "predicted_indication": "圓形禿 (Alopecia Areata)"
     },
     {
       "name": "Hydroquinone",
       "file": "hydroquinone.md",
       "evidence_level": "L4",
       "indication_count": 4,
-      "predicted_indication": "脂漏性角化症 (seborrheic keratosis)"
+      "predicted_indication": "脂漏性角化症 (Seborrheic Keratosis)"
     },
     {
       "name": "Hydroxyprogesterone Caproate",
       "file": "hydroxyprogesterone_caproate.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "子宮內膜癌 (endometrial cancer)"
+      "predicted_indication": "子宮內膜異位症 (Endometriosis of uterus)"
     },
     {
       "name": "Hydroxyurea",
       "file": "hydroxyurea.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "女性乳腺癌 (female breast carcinoma)"
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
     },
     {
       "name": "Hymecromone",
       "file": "hymecromone.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "糖尿病腎病 (Diabetic Nephropathy)"
+      "predicted_indication": "糖尿病腎病變 (Diabetic Nephropathy)"
     },
     {
       "name": "Ibuprofen",
       "file": "ibuprofen.md",
       "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": "肢端肢中發育不良 (acromesomelic dysplasia)"
+      "predicted_indication": "肢端中段發育不良 Hunter-Thompson 型 (Acromesomelic dysplasia, Hunter-Thompson type)"
     },
     {
       "name": "Icatibant",
       "file": "icatibant.md",
       "evidence_level": "L1",
       "indication_count": 7,
-      "predicted_indication": "C1 Inhibitor Deficiency"
+      "predicted_indication": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)"
     },
     {
       "name": "Imatinib",
       "file": "imatinib.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "心臟纖維肉瘤（Heart Fibrosarcoma）"
+      "predicted_indication": "心臟纖維肉瘤 (Heart Fibrosarcoma)"
     },
     {
       "name": "Inclisiran",
       "file": "inclisiran.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Potassium Deficiency Disease"
+      "predicted_indication": "鉀缺乏症 (Potassium Deficiency Disease)"
     },
     {
       "name": "Indacaterol",
       "file": "indacaterol.md",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "支氣管疾病 (Bronchial Disease)"
+      "predicted_indication": "腎因性抗利尿激素不適當分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)"
     },
     {
       "name": "Inositol",
       "file": "inositol.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Familial Hypercholesterolemia"
+      "predicted_indication": "肝門靜脈硬化症 (Hepatoportal Sclerosis)"
     },
     {
       "name": "Insulin Lispro",
       "file": "insulin_lispro.md",
       "evidence_level": "L5",
       "indication_count": 9,
-      "predicted_indication": "Autoimmune Oophoritis"
+      "predicted_indication": "自體免疫性卵巢炎 (Autoimmune Oophoritis)"
     },
     {
       "name": "Interferon Beta-1B",
       "file": "interferon_beta-1b.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": "Hairy Cell Leukemia"
+      "predicted_indication": "毛細胞白血病 (Hairy Cell Leukemia)"
     },
     {
       "name": "Iodixanol",
       "file": "iodixanol.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "骨關節炎 (osteoarthritis)"
+      "predicted_indication": "骨關節炎易感性 (Osteoarthritis Susceptibility)"
     },
     {
       "name": "Iohexol",
       "file": "iohexol.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "失眠 (insomnia disease)"
+      "predicted_indication": "失眠 (Insomnia)"
     },
     {
       "name": "Iopromide",
       "file": "iopromide.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "骨關節炎易感性 (Osteoarthritis Susceptibility)"
+      "predicted_indication": "退化性關節炎易感性 (Osteoarthritis Susceptibility)"
     },
     {
       "name": "Ioversol",
@@ -924,42 +1001,42 @@
       "file": "ipilimumab.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": "脈絡膜無虹膜症、非皮膚黑色素瘤"
+      "predicted_indication": "脈絡膜缺失症 (Choroideremia)"
     },
     {
       "name": "Ipratropium",
       "file": "ipratropium.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "阻塞性肺疾病 (obstructive lung disease)"
+      "predicted_indication": "阻塞性肺疾病 (Obstructive Lung Disease)"
     },
     {
       "name": "Irbesartan",
       "file": "irbesartan.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": "惡性高血壓腎病變、惡性腎血管性高血壓、肺高壓"
+      "predicted_indication": "惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)"
     },
     {
       "name": "Isoleucine",
       "file": "isoleucine.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "胃輕癱 (gastroparesis)"
+      "predicted_indication": "胃輕癱 (Gastroparesis)"
     },
     {
       "name": "Isosorbide Dinitrate",
       "file": "isosorbide_dinitrate.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "肺高壓 (pulmonary hypertension)、脫髮症 (alopecia)"
+      "predicted_indication": "肺高壓 (Pulmonary Hypertension)"
     },
     {
       "name": "Isosorbide Mononitrate",
       "file": "isosorbide_mononitrate.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "多毛症 (Hypertrichosis)"
+      "predicted_indication": "毛髮過多症 (Hypertrichosis)"
     },
     {
       "name": "Ivermectin",
@@ -973,28 +1050,35 @@
       "file": "lacosamide.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)"
     },
     {
       "name": "Lactic Acid",
       "file": "lactic_acid.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "非典型主動脈縮窄 (Atypical Coarctation of Aorta)"
+      "predicted_indication": "非典型主動脈縮窄 (Atypical coarctation of aorta)"
     },
     {
       "name": "Larotrectinib",
       "file": "larotrectinib.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "多發性內分泌腺瘤病（Multiple Endocrine Neoplasia）"
+      "predicted_indication": "多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)"
     },
     {
       "name": "Leflunomide",
       "file": "leflunomide.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": "短指併指症候群 (brachydactyly-syndactyly syndrome)、眼缺損-根莖骨發育不全症候群"
+      "predicted_indication": "短指併指症候群 (Brachydactyly-Syndactyly Syndrome)"
+    },
+    {
+      "name": "Lenvatinib",
+      "file": "lenvatinib.md",
+      "evidence_level": "L3",
+      "indication_count": 10,
+      "predicted_indication": "脂肪肉瘤 (Liposarcoma)"
     },
     {
       "name": "Letrozole",
@@ -1008,49 +1092,56 @@
       "file": "levamisole.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "藥物誘發性骨質疏鬆症 (drug-induced osteoporosis)"
+      "predicted_indication": "藥物性骨質疏鬆 (Drug-induced Osteoporosis)"
     },
     {
       "name": "Lidocaine",
       "file": "lidocaine.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "點狀上皮角結膜炎 (punctate epithelial keratoconjunctivitis)"
+      "predicted_indication": "點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis)"
+    },
+    {
+      "name": "Lorcaserin",
+      "file": "lorcaserin.md",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "predicted_indication": "維生素過多症 (Hypervitaminosis)"
     },
     {
       "name": "Lornoxicam",
       "file": "lornoxicam.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "類風濕性關節炎、偏頭痛"
+      "predicted_indication": "類風濕性關節炎 (Rheumatoid Arthritis)"
     },
     {
       "name": "Loteprednol Etabonate",
       "file": "loteprednol_etabonate.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "濾泡性結膜炎、慢性濾泡性結膜炎、漿液性結膜炎、寄生蟲性結膜炎、偽膜性結膜炎、急性出血性結膜炎、酒糟性結膜炎、外耳炎等"
+      "predicted_indication": "結膜濾泡增生症 (Conjunctival Folliculosis)"
     },
     {
       "name": "Lutetium Lu 177 Dotatate",
       "file": "lutetium_lu_177_dotatate.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "垂體性侏儒症（Pituitary Dwarfism）"
+      "predicted_indication": "垂體性侏儒症 (Pituitary Dwarfism)"
     },
     {
       "name": "Magnesium Sulfate",
       "file": "magnesium_sulfate.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "子癇前症／子癇 (preeclampsia/eclampsia)"
     },
     {
       "name": "Mannitol",
       "file": "mannitol.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "腎源性抗利尿不當症候群、惡性高熱、家族性週期性麻痺、低血鉀週期性麻痺、腎源性尿崩症、King-Denborough 症候群等"
+      "predicted_indication": "腎因性抗利尿不適當症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)"
     },
     {
       "name": "Maraviroc",
@@ -1071,126 +1162,140 @@
       "file": "methocarbamol.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "馬尾症候群、腸躁症、全葡萄膜炎、過敏性休克、心室頻脈"
+      "predicted_indication": "馬尾症候群 (Cauda Equina Syndrome)"
     },
     {
       "name": "Methylprednisolone",
       "file": "methylprednisolone.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "圓禿症 (Alopecia Areata)"
+      "predicted_indication": "圓形禿 (Alopecia Areata)"
     },
     {
       "name": "Methylprednisone",
       "file": "methylprednisone.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "痲瘋病 (Leprosy)"
     },
     {
       "name": "Metoprolol",
       "file": "metoprolol.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "惡性高血壓腎病變、慢性肺心病、心肌梗塞"
+      "predicted_indication": "惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)"
     },
     {
       "name": "Mexiletine",
       "file": "mexiletine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "多毛症 (Hypertrichosis)"
+      "predicted_indication": "毛髮過多症 (Hypertrichosis)（排名第 1，無證據）；證據最多者為頭痛疾患 (Headache Disorder)（排名第 10）"
     },
     {
       "name": "Milrinone",
       "file": "milrinone.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "禿髮症、頭皮單純性毛髮稀疏症、先天性毛髮稀疏症合併粟粒疹、頭痛障礙、充血性心衰竭"
+      "predicted_indication": "禿髮 (Alopecia)"
     },
     {
       "name": "Minoxidil",
       "file": "minoxidil.md",
       "evidence_level": "L4",
       "indication_count": 3,
-      "predicted_indication": "頭皮單純性稀毛症 (hypotrichosis simplex of the scalp)"
+      "predicted_indication": "單純性頭皮毛髮稀少症 (Hypotrichosis simplex of the scalp)"
+    },
+    {
+      "name": "Mitiglinide",
+      "file": "mitiglinide.md",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "predicted_indication": "Opsismodysplasia"
+    },
+    {
+      "name": "Mitomycin",
+      "file": "mitomycin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "胰臟實體假乳突癌 (Solid Pseudopapillary Carcinoma of Pancreas)"
     },
     {
       "name": "Moclobemide",
       "file": "moclobemide.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 2,
-      "predicted_indication": "廣場恐懼症、良性陣發性斜頸症"
+      "predicted_indication": "懼曠症 (Agoraphobia)"
     },
     {
       "name": "Mycophenolate Mofetil",
       "file": "mycophenolate_mofetil.md",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "HIV 感染症 (HIV infectious disease)"
+      "predicted_indication": "HIV 感染 (HIV infectious disease)"
     },
     {
       "name": "Naftifine",
       "file": "naftifine.md",
-      "evidence_level": "L1",
+      "evidence_level": "L3",
       "indication_count": 8,
-      "predicted_indication": "皮膚念珠菌病、花斑癬、Majocchi 肉芽腫"
+      "predicted_indication": "皮膚念珠菌病 (Cutaneous Candidiasis)"
     },
     {
       "name": "Naphazoline",
       "file": "naphazoline.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "頭皮毛髮稀疏症、先天性毛髮稀疏症、瀰漫性圓禿、禿髮症、原發性遺傳性青光眼、開角型青光眼"
+      "predicted_indication": "頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)"
     },
     {
       "name": "Naproxen",
       "file": "naproxen.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": "短指併指症候群、眼缺損小眼症-根肢發育不良症候群等"
+      "predicted_indication": "短指併指症候群 (Brachydactyly-syndactyly syndrome)"
     },
     {
       "name": "Nebivolol",
       "file": "nebivolol.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 5,
-      "predicted_indication": "惡性腎血管性高血壓、惡性高血壓性腎病、肺高壓（低氧相關）、Braddock 症候群"
+      "predicted_indication": "惡性腎血管性高血壓 (Malignant Renovascular Hypertension)"
     },
     {
       "name": "Nefopam",
       "file": "nefopam.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "破傷風性白內障 (Tetanic Cataract)"
+      "predicted_indication": "手足搐搦性白內障 (Tetanic Cataract)"
     },
     {
       "name": "Nepafenac",
       "file": "nepafenac.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "眼科疾病（廣泛眼科應用）"
+      "predicted_indication": "眼部疾病 (Eye Disease)"
     },
     {
       "name": "Niraparib",
       "file": "niraparib.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "會厭腫瘤（Epiglottis Neoplasm）"
+      "predicted_indication": "囊性腫瘤 (Cystic Neoplasm)"
     },
     {
       "name": "Nitrofurantoin",
       "file": "nitrofurantoin.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "類風濕性關節炎 (rheumatoid arthritis)"
+      "predicted_indication": "類風濕性關節炎 (Rheumatoid Arthritis)"
     },
     {
       "name": "Nitrous Oxide",
       "file": "nitrous_oxide.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "良性攝護腺增生 (Benign Prostatic Hyperplasia)"
+      "predicted_indication": "良性攝護腺肥大 (Benign Prostatic Hyperplasia)"
     },
     {
       "name": "Nitroxoline",
@@ -1204,21 +1309,21 @@
       "file": "norethindrone_enanthate.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "第二型抗凝血素缺乏症 (Antithrombin Deficiency Type 2)"
+      "predicted_indication": "第 2 型抗凝血酶缺乏症 (Antithrombin deficiency type 2)"
     },
     {
       "name": "Nystatin",
       "file": "nystatin.md",
-      "evidence_level": "L4",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "外陰陰道炎 (Vulvovaginitis)"
     },
     {
       "name": "Omalizumab",
       "file": "omalizumab.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "支氣管炎、異位性皮膚炎"
+      "predicted_indication": "支氣管炎 (Bronchitis)"
     },
     {
       "name": "Oteracil",
@@ -1230,51 +1335,58 @@
     {
       "name": "Ouabain",
       "file": "ouabain.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "鐮刀型紅血球貧血 (Sickle cell anemia)、心肌梗塞 (Myocardial infarction)"
+      "predicted_indication": "Prinzmetal 心絞痛 (Prinzmetal angina)"
     },
     {
       "name": "Oxybutynin",
       "file": "oxybutynin.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "腸胃道相關疾病"
+      "predicted_indication": "不寧腿症候群 (Restless Legs Syndrome)"
     },
     {
       "name": "Oxytetracycline",
       "file": "oxytetracycline.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "外耳炎 (Otitis externa)"
+      "predicted_indication": "慢性鼻竇炎 (Chronic Rhinosinusitis)"
     },
     {
       "name": "Paclitaxel",
       "file": "paclitaxel.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "三陰性乳癌、雌激素受體陽性乳癌、荷爾蒙抗性乳癌"
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
     },
     {
       "name": "Palbociclib",
       "file": "palbociclib.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "甲狀腺功能亢進 (Hyperthyroidism)"
+      "predicted_indication": "甲狀腺機能亢進 (Hyperthyroidism)"
     },
     {
       "name": "Pancrelipase",
       "file": "pancrelipase.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "核DNA異常所致粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)"
+      "predicted_indication": "核 DNA 異常所致粒線體氧化磷酸化疾患 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)"
+    },
+    {
+      "name": "Pefloxacin",
+      "file": "pefloxacin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": "心臟傳導疾病 (Heart Conduction Disease)"
     },
     {
       "name": "Pemetrexed",
       "file": "pemetrexed.md",
-      "evidence_level": "L1",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "惡性腹膜間皮瘤 (Malignant peritoneal mesothelioma)"
+      "predicted_indication": "惡性腹膜間皮瘤 (Malignant Peritoneal Mesothelioma)"
     },
     {
       "name": "Pemigatinib",
@@ -1288,14 +1400,14 @@
       "file": "penciclovir.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "肝吸蟲病 (Fascioliasis)"
+      "predicted_indication": "肝吸蟲症 (Fascioliasis)"
     },
     {
       "name": "Pentosan Polysulfate",
       "file": "pentosan_polysulfate.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "原發性血小板釋放障礙、Glanzmann 血小板無力症、假性類血友病"
+      "predicted_indication": "血小板釋放障礙 (primary release disorder of platelets)"
     },
     {
       "name": "Pentoxifylline",
@@ -1307,119 +1419,133 @@
     {
       "name": "Peppermint Oil",
       "file": "peppermint_oil.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "心血管疾病（Cardiovascular Disease）"
+      "predicted_indication": "痲瘋病 (Leprosy)"
+    },
+    {
+      "name": "Perindopril",
+      "file": "perindopril.md",
+      "evidence_level": "L4",
+      "indication_count": 5,
+      "predicted_indication": "惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)"
     },
     {
       "name": "Pexidartinib",
       "file": "pexidartinib.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "HER2 陽性乳癌 (HER2 positive breast carcinoma)"
     },
     {
       "name": "Pimozide",
       "file": "pimozide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "拔毛症 (Trichotillomania)"
     },
     {
       "name": "Pipemidic Acid",
       "file": "pipemidic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "心臟疾病 (Heart disease)"
     },
     {
       "name": "Pitavastatin",
       "file": "pitavastatin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)"
     },
     {
       "name": "Pitolisant",
       "file": "pitolisant.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 3,
-      "predicted_indication": ""
+      "predicted_indication": "失眠 (Insomnia)"
     },
     {
       "name": "Polyethylene Glycol",
       "file": "polyethylene_glycol.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
+      "predicted_indication": "先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma)"
     },
     {
       "name": "Polyethylene Glycol 400",
       "file": "polyethylene_glycol_400.md",
       "evidence_level": "L5",
       "indication_count": 2,
-      "predicted_indication": "支氣管炎 (bronchitis)、先天性魚鱗癬樣紅皮症"
+      "predicted_indication": "支氣管炎 (Bronchitis)"
     },
     {
       "name": "Polymyxin B",
       "file": "polymyxin_b.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 3,
-      "predicted_indication": "支氣管炎 (bronchitis)、喉氣管炎、結膜炎"
+      "predicted_indication": "支氣管炎 (Bronchitis)"
     },
     {
       "name": "Polysorbate 80",
       "file": "polysorbate_80.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma)"
+      "predicted_indication": "先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma)"
+    },
+    {
+      "name": "Posaconazole",
+      "file": "posaconazole.md",
+      "evidence_level": "L4",
+      "indication_count": 1,
+      "predicted_indication": "肺囊蟲病 (Pneumocystosis)"
     },
     {
       "name": "Potassium Iodide",
       "file": "potassium_iodide.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 2,
-      "predicted_indication": "鼻腔疾病 (nasal cavity disease)、急性喉咽炎"
+      "predicted_indication": "鼻腔疾病 (Nasal Cavity Disease)"
     },
     {
       "name": "Povidone",
       "file": "povidone.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma)"
+      "predicted_indication": "先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma)"
     },
     {
       "name": "Pralatrexate",
       "file": "pralatrexate.md",
-      "evidence_level": "L4",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "胸膜上皮型間皮瘤 (pleural epithelioid mesothelioma)"
+      "predicted_indication": "胸膜上皮樣間皮瘤 (Pleural Epithelioid Mesothelioma)"
     },
     {
       "name": "Prasugrel",
       "file": "prasugrel.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "肺動脈高壓 (Pulmonary Hypertension)"
+      "predicted_indication": "肺高壓 (Pulmonary Hypertension)"
     },
     {
       "name": "Pravastatin",
       "file": "pravastatin.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 9,
-      "predicted_indication": "同合子家族性高膽固醇血症 (hoFH)、HIV感染相關血脂異常"
+      "predicted_indication": "同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)"
     },
     {
       "name": "Prednisolone",
       "file": "prednisolone.md",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "斑禿 (Alopecia Areata)"
+      "predicted_indication": "圓形禿 (Alopecia Areata)"
     },
     {
       "name": "Prednisolone Acetate",
       "file": "prednisolone_acetate.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "寄生蟲性結膜炎 (Parasitic Conjunctivitis)"
     },
@@ -1428,28 +1554,28 @@
       "file": "prednisone.md",
       "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "圓禿症 (Alopecia Areata)"
+      "predicted_indication": "圓形禿 (Alopecia Areata)"
     },
     {
       "name": "Prilocaine",
       "file": "prilocaine.md",
       "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "首位預測：乳突狀結膜炎 (Papillary Conjunctivitis)；證據最充分：神經痛 (Neuralgia)"
     },
     {
       "name": "Probenecid",
       "file": "probenecid.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "腎性低尿酸血症 (Renal Hypouricemia)"
+      "predicted_indication": "腎性低尿酸血症 (hypouricemia, renal)"
     },
     {
       "name": "Procaine",
       "file": "procaine.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "高鐵血紅蛋白血症 (Methemoglobinemia)"
+      "predicted_indication": "高鐵血紅素血症 (Methemoglobinemia)"
     },
     {
       "name": "Propantheline",
@@ -1463,7 +1589,7 @@
       "file": "prucalopride.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "低α脂蛋白血症 (Hypoalphalipoproteinemia)"
+      "predicted_indication": "低 α 脂蛋白血症 (Hypoalphalipoproteinemia)"
     },
     {
       "name": "Raloxifene",
@@ -1484,7 +1610,7 @@
       "file": "ravulizumab.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "G6PC3 缺乏型常染色體隱性嚴重先天性中性球減少症"
+      "predicted_indication": "體染色體隱性嚴重先天性嗜中性白血球低下症（G6PC3 缺乏所致）"
     },
     {
       "name": "Regorafenib",
@@ -1503,30 +1629,30 @@
     {
       "name": "Ribavirin",
       "file": "ribavirin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "慢性 B 型肝炎病毒感染 (Chronic HBV Infection)"
+      "predicted_indication": "慢性 B 型肝炎 (Chronic Hepatitis B Virus Infection)"
     },
     {
       "name": "Rifampicin",
       "file": "rifampicin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
       "predicted_indication": "結膜炎 (Conjunctivitis)"
     },
     {
       "name": "Riluzole",
       "file": "riluzole.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "雙側旁矢狀頂枕多小腦回畸形、下運動神經元症候群、Mills 症候群、ALS 易感性"
+      "predicted_indication": "雙側副矢狀頂枕多小腦回症 (bilateral parasagittal parieto-occipital polymicrogyria)"
     },
     {
       "name": "Ritonavir",
       "file": "ritonavir.md",
       "evidence_level": "L4",
       "indication_count": 3,
-      "predicted_indication": "猿免疫缺乏病毒感染 (SIV Infection)、貓愛滋病"
+      "predicted_indication": "猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)"
     },
     {
       "name": "Rocuronium",
@@ -1538,100 +1664,128 @@
     {
       "name": "Ropinirole",
       "file": "ropinirole.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "思覺失調症 (schizophrenia)"
+      "predicted_indication": "注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)"
     },
     {
       "name": "Rotigotine",
       "file": "rotigotine.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "思覺失調症 (schizophrenia)"
+      "predicted_indication": "注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)"
     },
     {
       "name": "Sacituzumab Govitecan",
       "file": "sacituzumab_govitecan.md",
       "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": "藥物誘發性骨質疏鬆症 (drug-induced osteoporosis)"
+      "predicted_indication": "藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)"
+    },
+    {
+      "name": "Sacubitril",
+      "file": "sacubitril.md",
+      "evidence_level": "L3",
+      "indication_count": 5,
+      "predicted_indication": "糖尿病腎病變 (Diabetic Nephropathy)"
+    },
+    {
+      "name": "Safinamide",
+      "file": "safinamide.md",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": "Rasmussen 亞急性腦炎 (Rasmussen subacute encephalitis)"
     },
     {
       "name": "Salicylamide",
       "file": "salicylamide.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "普通感冒 (common cold)、咽炎 (pharyngitis)"
+      "predicted_indication": "咽炎 (Pharyngitis)"
     },
     {
       "name": "Salicylic Acid",
       "file": "salicylic_acid.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Papillary Conjunctivitis"
+      "predicted_indication": "乳突狀結膜炎 (Papillary conjunctivitis)"
     },
     {
       "name": "Scopolamine",
       "file": "scopolamine.md",
       "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": "Cauda Equina Syndrome（馬尾症候群）"
+      "predicted_indication": "脊髓馬尾症候群 (Cauda Equina Syndrome)"
+    },
+    {
+      "name": "Sennosides",
+      "file": "sennosides.md",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "predicted_indication": "頭皮單純性毛髮稀疏症 (Hypotrichosis Simplex of the Scalp)"
     },
     {
       "name": "Silicon Dioxide",
       "file": "silicon_dioxide.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": "Active Peptic Ulcer Disease（活動性消化性潰瘍）"
+      "predicted_indication": "活動性消化性潰瘍 (Active Peptic Ulcer Disease)"
     },
     {
       "name": "Simoctocog Alfa",
       "file": "simoctocog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病）"
+      "predicted_indication": "偽性類血友病 (pseudo-von Willebrand disease)"
     },
     {
       "name": "Sodium Acetate",
       "file": "sodium_acetate.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "先天性凝血酶原缺乏症 (congenital prothrombin deficiency)"
+      "predicted_indication": "先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)"
     },
     {
       "name": "Sodium Carbonate",
       "file": "sodium_carbonate.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": "過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）"
+      "predicted_indication": "馬尾症候群（Cauda Equina Syndrome）；排名第 1"
     },
     {
       "name": "Sodium Citrate",
       "file": "sodium_citrate.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
-      "predicted_indication": "胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis）"
+      "predicted_indication": "乳突性結膜炎 (Papillary Conjunctivitis)"
+    },
+    {
+      "name": "Sorafenib",
+      "file": "sorafenib.md",
+      "evidence_level": "L2",
+      "indication_count": 10,
+      "predicted_indication": "脂肪肉瘤 (Liposarcoma)"
     },
     {
       "name": "Sotatercept",
       "file": "sotatercept.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "急性淋巴母細胞白血病 (acute lymphoblastic leukemia)"
+      "predicted_indication": "急性淋巴性白血病 (Acute Lymphoblastic Leukemia)"
     },
     {
       "name": "Sulfamerazine",
       "file": "sulfamerazine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 4,
-      "predicted_indication": "結膜炎（conjunctivitis）、痛風（gout）"
+      "predicted_indication": "痛風 (Gout)"
     },
     {
       "name": "Sulfamethazine",
       "file": "sulfamethazine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 6,
-      "predicted_indication": "糖尿病腎病變（diabetic nephropathy）、結膜炎（conjunctivitis）、支氣管炎（bronchitis）"
+      "predicted_indication": "痛風 (Gout)"
     },
     {
       "name": "Tazarotene",
@@ -1643,65 +1797,65 @@
     {
       "name": "Temozolomide",
       "file": "temozolomide.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 2,
-      "predicted_indication": "成人星狀細胞瘤 (Adult Astrocytic Tumour)"
+      "predicted_indication": "成人星狀細胞腫瘤 (Adult Astrocytic Tumour)"
     },
     {
       "name": "Tenofovir Alafenamide",
       "file": "tenofovir_alafenamide.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 3,
-      "predicted_indication": "SIV 感染、貓愛滋病、神經發育障礙"
+      "predicted_indication": "猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)（模型第 1 順位為貓免疫缺乏症候群，無任何證據，故改評估第 2 順位）"
     },
     {
       "name": "Terbutaline",
       "file": "terbutaline.md",
       "evidence_level": "L1",
       "indication_count": 3,
-      "predicted_indication": "阻塞性肺病（COPD）"
+      "predicted_indication": "阻塞性肺病 (Obstructive Lung Disease)"
     },
     {
       "name": "Teriparatide",
       "file": "teriparatide.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "妊娠相關骨質疏鬆症（PLO）、十二指腸潰瘍、食道疾病"
+      "predicted_indication": "十二指腸潰瘍 (duodenal ulcer)"
     },
     {
       "name": "Tetrabenazine",
       "file": "tetrabenazine.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "多囊性腎病第 3 型、腎-肝-胰發育不全、乳乙伯症候群"
+      "predicted_indication": "多囊腎疾病 3 型，可合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease)"
     },
     {
       "name": "Tetryzoline",
       "file": "tetryzoline.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 2,
       "predicted_indication": "鼻腔疾病 (Nasal Cavity Disease)"
     },
     {
       "name": "Theophylline",
       "file": "theophylline.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 7,
-      "predicted_indication": "鼻腔疾病（嗅覺障礙）、阻塞性肺病、氣管疾病、血栓性疾病"
+      "predicted_indication": "血栓性疾病 (Thrombotic disease)"
     },
     {
       "name": "Thiamine",
       "file": "thiamine.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 4,
-      "predicted_indication": "甲狀腺亢進、甲狀腺素受體 beta 突變、開角型青光眼"
+      "predicted_indication": "甲狀腺機能亢進 (Hyperthyroidism)"
     },
     {
       "name": "Threonine",
       "file": "threonine.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "Gastroparesis（胃輕癱）"
+      "predicted_indication": "胃輕癱 (Gastroparesis)"
     },
     {
       "name": "Thyrotropin Alfa",
@@ -1715,42 +1869,42 @@
       "file": "tiaprofenic_acid.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Brachydactyly-Syndactyly Syndrome（首位）"
+      "predicted_indication": "短指（趾）併指症候群 (Brachydactyly-Syndactyly Syndrome)"
     },
     {
       "name": "Timepidium",
       "file": "timepidium.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "失眠症 (insomnia)"
+      "predicted_indication": "失眠 (Insomnia)"
     },
     {
       "name": "Tinidazole",
       "file": "tinidazole.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "停經後萎縮性陰道炎、外陰潰瘍、外陰腫瘤、乳房纖維囊腫、AIDS 等"
+      "predicted_indication": "停經後萎縮性陰道炎 (postmenopausal atrophic vaginitis)"
     },
     {
       "name": "Tioconazole",
       "file": "tioconazole.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 3,
-      "predicted_indication": "外陰陰道炎 (vulvovaginitis)"
+      "predicted_indication": "外陰陰道炎 (Vulvovaginitis)"
     },
     {
       "name": "Titanium Dioxide",
       "file": "titanium_dioxide.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "藥物誘發的骨質疏鬆"
+      "predicted_indication": "藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)"
     },
     {
       "name": "Tizanidine",
       "file": "tizanidine.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 6,
-      "predicted_indication": "偏頭痛 (migraine disorder)、伴腦幹預兆偏頭痛、妥瑞氏症等"
+      "predicted_indication": "偏頭痛 (Migraine Disorder)"
     },
     {
       "name": "Tofacitinib",
@@ -1764,28 +1918,28 @@
       "file": "tolmetin.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "肢端中段發育不全、短軀幹發育不良、肌硬化症、假性軟骨發育不全等罕病"
+      "predicted_indication": "肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)"
     },
     {
       "name": "Tolvaptan",
       "file": "tolvaptan.md",
       "evidence_level": "L1",
       "indication_count": 10,
-      "predicted_indication": "多囊性腎臟病第3型合併多囊性肝臟病（PKD3 with/without PLD）"
+      "predicted_indication": "多囊性腎臟病第 3 型，合併或不合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease)"
     },
     {
       "name": "Trabectedin",
       "file": "trabectedin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 1,
-      "predicted_indication": "女性乳腺癌 (female breast carcinoma)"
+      "predicted_indication": "女性乳癌 (Female Breast Carcinoma)"
     },
     {
       "name": "Tranexamic Acid",
       "file": "tranexamic_acid.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 1,
-      "predicted_indication": "閉經 (amenorrhea)"
+      "predicted_indication": "無月經 (Amenorrhea)"
     },
     {
       "name": "Trastuzumab Deruxtecan",
@@ -1799,49 +1953,49 @@
       "file": "travoprost.md",
       "evidence_level": "L5",
       "indication_count": 3,
-      "predicted_indication": "內臟鈣化皮炎 (Visceral Calciphylaxis)"
+      "predicted_indication": "內臟鈣化防禦症 (Visceral Calciphylaxis)"
     },
     {
       "name": "Treprostinil",
       "file": "treprostinil.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等）"
+      "predicted_indication": "先天性心臟病相關肺動脈高壓 (Pulmonary Arterial Hypertension Associated with Congenital Heart Disease)"
     },
     {
       "name": "Triamcinolone",
       "file": "triamcinolone.md",
       "evidence_level": "L4",
       "indication_count": 10,
-      "predicted_indication": "黏蛋白性脫髮 (Alopecia Mucinosa)"
+      "predicted_indication": "黏蛋白性禿髮 (Alopecia Mucinosa)"
     },
     {
       "name": "Trifluoperazine",
       "file": "trifluoperazine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 1,
-      "predicted_indication": "躁鬱症躁症期 (manic bipolar affective disorder)"
+      "predicted_indication": "躁期雙相情感障礙 (Manic Bipolar Affective Disorder)"
     },
     {
       "name": "Trihexyphenidyl",
       "file": "trihexyphenidyl.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)"
     },
     {
       "name": "Tyrosine",
       "file": "tyrosine.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": ""
+      "predicted_indication": "馬尾症候群 (Cauda Equina Syndrome)"
     },
     {
       "name": "Uracil",
       "file": "uracil.md",
-      "evidence_level": "L1",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "predicted_indication": "大腸腫瘤（Colonic Neoplasm）"
+      "predicted_indication": "大腸腫瘤 (Colonic Neoplasm)"
     },
     {
       "name": "Urea",
@@ -1858,11 +2012,18 @@
       "predicted_indication": "偏頭痛 (Migraine Disorder)"
     },
     {
+      "name": "Vasopressin",
+      "file": "vasopressin.md",
+      "evidence_level": "L4",
+      "indication_count": 2,
+      "predicted_indication": "先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)"
+    },
+    {
       "name": "Verteporfin",
       "file": "verteporfin.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": ""
+      "predicted_indication": "核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)"
     },
     {
       "name": "Vigabatrin",
@@ -1874,21 +2035,21 @@
     {
       "name": "Vinorelbine",
       "file": "vinorelbine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "Ewing 肉瘤 (Ewing sarcoma)"
+      "predicted_indication": "尤文氏肉瘤 (Ewing sarcoma)"
     },
     {
       "name": "Vismodegib",
       "file": "vismodegib.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "著色性乾皮症 (Xeroderma Pigmentosum)"
+      "predicted_indication": "皮膚癌 (Skin Cancer)"
     },
     {
       "name": "Vitamin E",
       "file": "vitamin_e.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism)"
     },
@@ -1897,7 +2058,7 @@
       "file": "vonoprazan.md",
       "evidence_level": "L2",
       "indication_count": 10,
-      "predicted_indication": "活動性消化性潰瘍 (active peptic ulcer disease)"
+      "predicted_indication": "活動性消化性潰瘍 (Active Peptic Ulcer Disease)"
     },
     {
       "name": "Voriconazole",
@@ -1909,9 +2070,9 @@
     {
       "name": "Warfarin",
       "file": "warfarin.md",
-      "evidence_level": "L5",
+      "evidence_level": "L4",
       "indication_count": 3,
-      "predicted_indication": "Heparin Cofactor 2 Deficiency"
+      "predicted_indication": "肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency)"
     },
     {
       "name": "Warfarin Af",
@@ -1932,28 +2093,28 @@
       "file": "xylitol.md",
       "evidence_level": "L5",
       "indication_count": 1,
-      "predicted_indication": "腦膜炎球菌感染 (meningococcal infection)"
+      "predicted_indication": "腦膜炎球菌感染 (Meningococcal Infection)"
     },
     {
       "name": "Xylometazoline",
       "file": "xylometazoline.md",
       "evidence_level": "L3",
       "indication_count": 2,
-      "predicted_indication": "鼻腔疾病、急性咽喉炎"
+      "predicted_indication": "鼻腔疾病 (Nasal Cavity Disease)"
     },
     {
       "name": "Zanubrutinib",
       "file": "zanubrutinib.md",
-      "evidence_level": "L2",
+      "evidence_level": "L4",
       "indication_count": 6,
-      "predicted_indication": "骨髓性白血病 (myeloid leukemia)"
+      "predicted_indication": "骨髓性白血病 (Myeloid Leukemia)"
     },
     {
       "name": "Zonisamide",
       "file": "zonisamide.md",
       "evidence_level": "L5",
       "indication_count": 10,
-      "predicted_indication": "妥瑞症 (Tourette syndrome)"
+      "predicted_indication": "妥瑞氏症 (Tourette syndrome)"
     }
   ]
 }
