@@ -135,7 +135,7 @@ BTK 在骨髓系細胞中也有表現，因此在機轉上對骨髓性白血病�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | BTK IC50 寫約 20 nM | 更正 | [EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics](https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf) |
+| 2026-10-03 | BTK IC50 寫約 20 nM | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 BTK IC50 約 20 nM；原為更正） | [EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics](https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

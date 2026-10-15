@@ -136,7 +136,7 @@ TxGNN 模型預測它可能對**脂漏性皮膚炎 (Seborrheic Dermatitis)** 有
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「對 RARB 具有最高親和力」 | 加註 | [DailyMed：TAZORAC (tazarotene) Cream 仿單 §12.1（Almirall）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021744d1-a6d7-4ad6-99c2-7187c24e64c6) |
+| 2026-10-03 | 「對 RARB 具有最高親和力」 | 報告重生後已無此錯誤（2026-10-15：新報告寫 tazarotenic acid 選擇性結合 RAR-beta/gamma，未再寫對 RARβ 親和力最高；原為加註） | [DailyMed：TAZORAC (tazarotene) Cream 仿單 §12.1（Almirall）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021744d1-a6d7-4ad6-99c2-7187c24e64c6) |
 
 <!-- review:end log -->
 

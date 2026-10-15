@@ -49,6 +49,10 @@ LABEL = {"correct": "查核更正", "annotate": "查核加註", "rereview": "待
 ACTION_ZH = {"correct": "更正", "annotate": "加註", "rereview": "標記待重審", "section": "新增附來源段落",
              "rereview_result": "重審完成", "header_level": "頁首等級依總覽表重算"}
 VERDICT_ZH = {"maintain": "維持", "downgrade": "降級", "withdraw": "撤回"}
+# 2026-10-15 起：報告整份重生後原句消失、且新報告已沒有那個錯誤的紀錄，標 status=resolved_by_regeneration
+# （附 resolved_on、resolved_note＝新報告的對應寫法）。紀錄保留、頁面不顯示框，只在查核紀錄表註明。
+# 與 superseded 不同：superseded 只用於錨點落在被程式化許可證表取代的區塊。
+RESOLVED = "resolved_by_regeneration"
 
 
 def load():
@@ -157,8 +161,11 @@ def apply_record(text, rec, problems):
         return text[:m.start()] + block + text[m.start():]
     if act == "correct":
         # 頁面上是原句就換；頁面停在前版更正（同 id 重發）就把前版換成新版
+        # 重新定錨（reanchored）的前版是舊報告的句子，不會留在新頁面上，不參與替換；
+        # 被新版更正文字包含的舊字串也排除，否則每次重套都會在新版裡再替換一次（2026-10-15 deoxycholic 疊字）
         olds = [rec["claim"]] + [h["replacement"] for h in rec.get("history") or []
-                                 if h.get("replacement") and h["replacement"] != rec["replacement"]]
+                                 if h.get("replacement") and h["replacement"] != rec["replacement"]
+                                 and not h.get("reanchored") and h["replacement"] not in rec["replacement"]]
         for old in olds:
             j = find_outside(text, old)
             if j >= 0:
@@ -200,6 +207,8 @@ def log_md(recs):
             act += f"（{r['history'][-1]['retired']} 修訂，前版保留於紀錄）"
         if r.get("status") == "superseded":
             act = f"已由程式化許可證表取代（原為{act}）"
+        elif r.get("status") == RESOLVED:
+            act = f"報告重生後已無此錯誤（{r['resolved_on']}：{r['resolved_note']}；原為{act}）"
         rows.append(f"| {r['checked']} | {item} | {act} | {sources_md(r)} |")
     intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
              "更正只限基本藥理事實，模型預測、證據等級與結論未改寫。")
@@ -286,8 +295,8 @@ def render_page(text, recs, problems):
     text = F.fix_table_spacing(text)  # 先補表格前空行，查核框的插入位置才與產線一致
     results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result"}
     for r in recs:
-        if r.get("status") == "superseded":
-            continue  # 錨點所在的許可證表／張數已由程式化區塊取代：紀錄保留、頁面不再顯示框
+        if r.get("status") in ("superseded", RESOLVED):
+            continue  # 錨點所在的許可證表／張數已由程式化區塊取代，或報告重生後已無此錯誤：紀錄保留、頁面不再顯示框
         if r["action"] in ("rereview_result", "header_level"):
             continue  # rereview_result 在它 resolves 的那筆 rereview 位置渲染；header_level 只進查核紀錄表
         if r["action"] == "rereview" and r["id"] in results:

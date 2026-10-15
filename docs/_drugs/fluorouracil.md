@@ -43,13 +43,19 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | HER2 過度表現之早期乳癌、轉移性乳癌；轉移性胃癌（合併 capecitabine 或 5-FU 及 cisplatin）。此為許可證資料所載文字，見上方資料提醒 |
+| 原適應症 | 消化器癌（如胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解；結腸癌、直腸癌、乳癌、胃癌、胰臟癌，以及不可以手術之胃腸道、乳部惡性腫瘤的姑息療法 |
 | 預測新適應症 | 陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina) |
 | TxGNN 預測分數 | 99.75% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 40 張（有效單方 4／有效複方 0／已註銷 36） |
 | 建議決策 | Hold |
+
+<!-- review:begin fluorouracil-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現之早期乳癌、轉移性乳癌；轉移性胃癌（合併 capecitabine 或 5-FU 及 cisplatin）。此為許可證資料所載文字，見上方資料提醒」。2026-10-15 報告重生後此列仍是 trastuzumab 許可證的適應症。已依 TFDA 現行有效的 fluorouracil 注射液許可證改寫適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fluorouracil-original-indication-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -137,9 +143,9 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 原適應症改為 TFDA 許可證所載 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症改為 TFDA 許可證所載 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證數「20 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 正確資訊提示「許可證總數約 20 張」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 正確資訊提示「許可證總數約 20 張」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -82,15 +82,25 @@ def main():
         t1 = replace_tfda(clean_llm_output(base), title, lics, args.data_date)
         body = REVIEW_RE.sub("", t1)
         for r in by_file.get(p.name, []):
-            if r["action"] in ("section", "header_level") or r.get("status") == "superseded":
+            if r["action"] in ("section", "header_level") or r.get("status") in ("superseded", A.RESOLVED):
                 continue
+            # 2026-10-15：只有「重產前還在頁面上、換成程式化許可證表後消失」才算被許可證表取代。
+            # 原本就找不到（例如報告整份重生、原句改寫）不是許可證表造成的，不能自動標 superseded，
+            # 否則人工更正會被藏起來（10/15 差點把 135 筆這樣標掉）；只回報，交給人逐筆判斷。
             if r["action"] == "correct":
                 olds = [h["replacement"] for h in r.get("history") or [] if h.get("replacement")]
-                gone = all(x not in body for x in [r["replacement"], r["claim"], *olds])
+                cands = [r["replacement"], r["claim"], *olds]
+                in_base = any(x in base for x in cands)
+                gone = in_base and all(x not in body for x in cands)
                 owns_count = bool(COUNT_RE.search(r["replacement"]))
             else:
-                gone = (r.get("anchor") or r["claim"]) not in body
-                owns_count = bool(COUNT_RE.search(r.get("anchor") or r["claim"]))  # 加註的對象就是張數
+                a = r.get("anchor") or r["claim"]
+                in_base = a in base
+                gone = in_base and a not in body
+                owns_count = bool(COUNT_RE.search(a))  # 加註的對象就是張數
+            if not in_base and not owns_count:
+                print(f"  {r['id']}：錨點不在頁面上（報告可能被重產改寫），未自動處理，請人工判斷")
+                continue
             if gone or owns_count:
                 r["status"] = "superseded"
                 r["superseded_by"] = SUPERSEDED_BY

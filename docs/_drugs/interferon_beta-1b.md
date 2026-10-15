@@ -44,9 +44,15 @@ TxGNN 模型預測它可能對**毛細胞白血病 (Hairy Cell Leukemia)** 有�
 | 預測新適應症 | 毛細胞白血病 (Hairy Cell Leukemia) |
 | TxGNN 預測分數 | 99.16% |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 曾上市，唯一許可證已於 2026-06-08 註銷 |
 | 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
+
+<!-- review:begin interferon-beta-1b-license-cancelled-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「台灣上市／✓ 已上市」。本頁列的唯一許可證衛署菌疫輸字第000601號「貝他費隆注射劑」已於 2026-06-08 註銷，TFDA 資料集中沒有其他有效的 interferon beta-1b 許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end interferon-beta-1b-license-cancelled-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -111,8 +117,8 @@ Interferon beta 與 interferon alpha 透過同一個第一型干擾素受體（I
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「台灣上市：已上市」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 「Beta 干擾素曾用於 HCL 治療」 | 加註 | [Drugs@FDA：INTRON A（interferon alfa-2b）仿單，Indications and Usage](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103132s5199lbl.pdf)；[DailyMed：BETASERON（interferon beta-1b）仿單（Bayer），1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5) |
+| 2026-10-03 | 「台灣上市：已上市」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「Beta 干擾素曾用於 HCL 治療」 | 報告重生後已無此錯誤（2026-10-15：新報告改以 interferon alpha 與同一受體的類別推論說明，未再寫 beta 干擾素曾用於毛細胞白血病；原為加註） | [Drugs@FDA：INTRON A（interferon alfa-2b）仿單，Indications and Usage](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103132s5199lbl.pdf)；[DailyMed：BETASERON（interferon beta-1b）仿單（Bayer），1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5) |
 
 <!-- review:end log -->
 

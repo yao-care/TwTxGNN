@@ -147,7 +147,7 @@ TxGNN 模型預測其可能對 **圓形禿 (Alopecia Areata)** 有效，目前�
 | 2026-10-03 | 「擁有 9 張有效許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 結論理由「台灣已有 9 張有效許可證、藥品可近性高」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表所列 5 張許可證皆已註銷，其中 3 張為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 機轉寫成誘導 ROS 並抑制粒線體氧化磷酸化 | 加註 | [DailyMed：ZITHRANOL-RR（anthralin）Cream 仿單（Elorac），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=45bad116-0351-442f-8e49-f11089a955fd) |
+| 2026-10-03 | 機轉寫成誘導 ROS 並抑制粒線體氧化磷酸化 | 報告重生後已無此錯誤（2026-10-15：新報告機轉段改為角質溶解、抗增生與局部免疫調節，未再寫誘導 ROS、抑制粒線體氧化磷酸化或 IL-1／IL-6／TNF-α 下調；原為加註） | [DailyMed：ZITHRANOL-RR（anthralin）Cream 仿單（Elorac），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=45bad116-0351-442f-8e49-f11089a955fd) |
 
 <!-- review:end log -->
 

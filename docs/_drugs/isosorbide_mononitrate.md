@@ -49,6 +49,12 @@ TxGNN 模型預測分數最高的新適應症是**毛髮過多症 (Hypertrichosi
 | 許可證數 | 30 張（有效單方 11／有效複方 0／已註銷 19） |
 | 建議決策 | Hold |
 
+<!-- review:begin isosorbide-mononitrate-hypertrichosis-rereview-result-2026-10-03 -->
+
+> **重審結果（2026-10-03）**：**維持**（證據等級 L5 不變）。被加註的那句（minoxidil 生髮靠開放 K⁺ 通道）在原文是用來削弱預測的保留意見，不是支持理由；仿單寫明機轉未完全了解，但體外研究支持這個假說（[PMID 15816824](https://pubmed.ncbi.nlm.nih.gov/15816824/)）。重新查詢 PubMed 與 ClinicalTrials.gov，仍查無硝酸鹽類藥物與多毛症或毛髮生長的研究。另外，原文的類比談的是促進毛髮生長，與「治療多毛症」方向不一致。依據：[PubMed：Novel and established potassium channel openers stimulate hair growth in vitro: implications for their modes of action in hair follicles（PMID 15816824）](https://pubmed.ncbi.nlm.nih.gov/15816824/)；[PubMed：Human hair follicles contain two forms of ATP-sensitive potassium channels, only one of which is sensitive to minoxidil（PMID 18258787）](https://pubmed.ncbi.nlm.nih.gov/18258787/)。
+
+<!-- review:end isosorbide-mononitrate-hypertrichosis-rereview-result-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料（DrugBank 未收錄）。依一般藥理知識，Isosorbide mononitrate 會釋放 NO，活化可溶性鳥苷酸環化酶（sGC），使 cGMP 上升，進而舒張血管平滑肌，這也是它預防狹心症的基礎。
@@ -130,9 +136,9 @@ TxGNN 模型預測分數最高的新適應症是**毛髮過多症 (Hypertrichosi
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 預測理由「minoxidil 促進毛髮生長主要透過開放 K⁺ 通道」 | 加註 | [emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
+| 2026-10-03 | 預測理由「minoxidil 促進毛髮生長主要透過開放 K⁺ 通道」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 minoxidil 經開放 K⁺ 通道促進毛髮生長；原為加註） | [emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
 | 2026-10-03 | 多毛症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
-| 2026-10-03 | 多毛症預測重審結果 | 重審：維持，證據等級 L5 不變 | [PubMed：Novel and established potassium channel openers stimulate hair growth in vitro: implications for their modes of action in hair follicles（PMID 15816824）](https://pubmed.ncbi.nlm.nih.gov/15816824/)；[PubMed：Human hair follicles contain two forms of ATP-sensitive potassium channels, only one of which is sensitive to minoxidil（PMID 18258787）](https://pubmed.ncbi.nlm.nih.gov/18258787/) |
+| 2026-10-03 | 多毛症預測重審結果 | 重審：維持，證據等級 L5 不變（2026-10-15 修訂，前版保留於紀錄） | [PubMed：Novel and established potassium channel openers stimulate hair growth in vitro: implications for their modes of action in hair follicles（PMID 15816824）](https://pubmed.ncbi.nlm.nih.gov/15816824/)；[PubMed：Human hair follicles contain two forms of ATP-sensitive potassium channels, only one of which is sensitive to minoxidil（PMID 18258787）](https://pubmed.ncbi.nlm.nih.gov/18258787/) |
 
 <!-- review:end log -->
 

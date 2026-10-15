@@ -49,6 +49,12 @@ TxGNN 模型預測分數最高的新適應症是**第 2 型抗凝血酶缺乏症
 | 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
+<!-- review:begin norethindrone-enanthate-historic-license-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（Noristerat），適應症為抑制排卵，已於 1991-06-07 註銷；目前沒有有效許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end norethindrone-enanthate-historic-license-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。Norethindrone enanthate 屬於黃體素類藥物，一般作為長效注射避孕劑使用。
@@ -120,7 +126,7 @@ TxGNN 模型預測分數最高的新適應症是**第 2 型抗凝血酶缺乏症
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「台灣上市：未上市」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「台灣上市：未上市」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -49,6 +49,14 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 | 許可證數 | 20 張（有效單方 6／有效複方 4／已註銷 10） |
 | 建議決策 | Proceed with Guardrails |
 
+<!-- review:begin gemcitabine-breast-rereview-result-2026-10-03 -->
+
+> **重審結果（2026-10-03）**：**維持**（證據等級 L2 不變）。2026-10-15 報告重生後評為 L1；重審時已註明轉移性乳癌有 ≥2 個第三期試驗、達 L1 門檻，但乳癌（併用 paclitaxel）本屬台灣核准適應症，不是新適應症。「在大腸直腸癌已證實」這句前提錯誤，但跟乳癌證據無關。轉移性乳癌另有第三期試驗：gemcitabine 併用 paclitaxel 的中位存活優於單用 paclitaxel（18.6 vs 15.8 個月，[PMID 18711184](https://pubmed.ncbi.nlm.nih.gov/18711184/)）；早期乳癌輔助治療加 gemcitabine 的第三期試驗則沒有益處（[PMID 28479233](https://pubmed.ncbi.nlm.nih.gov/28479233/)）。要注意的是，乳癌（併用 paclitaxel）本來就是台灣 gemcitabine 的核准適應症，這筆預測是找回已知適應症，不是新適應症。依據：[PubMed：Gemcitabine plus Paclitaxel versus Paclitaxel monotherapy in patients with metastatic breast cancer and prior anthracycline treatment（PMID 18711184）](https://pubmed.ncbi.nlm.nih.gov/18711184/)；[PubMed：Biomarker assessment of the CBCSG006 trial: a randomized phase III trial of cisplatin plus gemcitabine compared with paclitaxel plus gemcitabine as first-line therapy for patients with metastatic triple-negative breast cancer（PMID 29905759）](https://pubmed.ncbi.nlm.nih.gov/29905759/)；[PubMed：Addition of gemcitabine to paclitaxel, epirubicin, and cyclophosphamide adjuvant chemotherapy for women with early-stage breast cancer (tAnGo): final 10-year follow-up of an open-label, randomised, phase 3 trial（PMID 28479233）](https://pubmed.ncbi.nlm.nih.gov/28479233/)；[ClinicalTrials.gov：Paclitaxel With or Without Gemcitabine in Treating Women With Advanced Breast Cancer（NCT00006459）](https://clinicaltrials.gov/study/NCT00006459)。
+>
+> 決策建議另議：建議頁面標明「此為已核准適應症（轉移性乳癌併用 paclitaxel），非新適應症」；是否依 L1 門檻上調等級，不在本次重審範圍，交站方決定。
+
+<!-- review:end gemcitabine-breast-rereview-result-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Gemcitabine 是核苷類似物類的抗代謝化療藥物，其活性代謝物可抑制核糖核苷酸還原酶並嵌入 DNA，造成 DNA 鏈終止與細胞凋亡，對快速增殖的腫瘤細胞有作用。
@@ -167,12 +175,12 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原本用於…包括轉移性大腸直腸癌」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症取自 bevacizumab 許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原本用於…包括轉移性大腸直腸癌」 | 報告重生後已無此錯誤（2026-10-15：新報告一句話總結為非小細胞肺癌、胰臟癌、膀胱癌與膽道癌，未再寫大腸直腸癌；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 bevacizumab 許可證 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為 gemcitabine 許可證原文；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表列 bevacizumab 製劑「艾法施注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 預測理由「在轉移性大腸直腸癌中的療效已被證實」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 預測理由「在轉移性大腸直腸癌中的療效已被證實」 | 報告重生後已無此錯誤（2026-10-15：新報告預測理由改以台灣已核准併用 paclitaxel 治療乳癌為依據，未再引用大腸直腸癌；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 女性乳腺癌預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 女性乳腺癌預測重審結果 | 重審：維持，證據等級 L2 不變 | [PubMed：Gemcitabine plus Paclitaxel versus Paclitaxel monotherapy in patients with metastatic breast cancer and prior anthracycline treatment（PMID 18711184）](https://pubmed.ncbi.nlm.nih.gov/18711184/)；[PubMed：Biomarker assessment of the CBCSG006 trial: a randomized phase III trial of cisplatin plus gemcitabine compared with paclitaxel plus gemcitabine as first-line therapy for patients with metastatic triple-negative breast cancer（PMID 29905759）](https://pubmed.ncbi.nlm.nih.gov/29905759/)；[PubMed：Addition of gemcitabine to paclitaxel, epirubicin, and cyclophosphamide adjuvant chemotherapy for women with early-stage breast cancer (tAnGo): final 10-year follow-up of an open-label, randomised, phase 3 trial（PMID 28479233）](https://pubmed.ncbi.nlm.nih.gov/28479233/)；[ClinicalTrials.gov：Paclitaxel With or Without Gemcitabine in Treating Women With Advanced Breast Cancer（NCT00006459）](https://clinicaltrials.gov/study/NCT00006459) |
+| 2026-10-03 | 女性乳腺癌預測重審結果 | 重審：維持，證據等級 L2 不變（2026-10-15 修訂，前版保留於紀錄） | [PubMed：Gemcitabine plus Paclitaxel versus Paclitaxel monotherapy in patients with metastatic breast cancer and prior anthracycline treatment（PMID 18711184）](https://pubmed.ncbi.nlm.nih.gov/18711184/)；[PubMed：Biomarker assessment of the CBCSG006 trial: a randomized phase III trial of cisplatin plus gemcitabine compared with paclitaxel plus gemcitabine as first-line therapy for patients with metastatic triple-negative breast cancer（PMID 29905759）](https://pubmed.ncbi.nlm.nih.gov/29905759/)；[PubMed：Addition of gemcitabine to paclitaxel, epirubicin, and cyclophosphamide adjuvant chemotherapy for women with early-stage breast cancer (tAnGo): final 10-year follow-up of an open-label, randomised, phase 3 trial（PMID 28479233）](https://pubmed.ncbi.nlm.nih.gov/28479233/)；[ClinicalTrials.gov：Paclitaxel With or Without Gemcitabine in Treating Women With Advanced Breast Cancer（NCT00006459）](https://clinicaltrials.gov/study/NCT00006459) |
 
 <!-- review:end log -->
 

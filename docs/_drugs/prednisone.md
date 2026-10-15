@@ -41,13 +41,19 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 風溼性關節炎 |
+| 原適應症 | 台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 prednisone＋crotamiton 複方軟膏：濕疹或皮膚炎（衛署藥製字第042080號） |
 | 預測新適應症 | 圓形禿 (Alopecia Areata) |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L2（註：文獻中有 1 篇 RCT，但為 methotrexate 單用對比 methotrexate 加低劑量 prednisone，並非 prednisone 單用的已完成 Phase 2/3 RCT，且無臨床試驗登記，實際證據偏弱，保守可視為 L3） |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 7 張（有效單方 0／有效複方 1／已註銷 6） |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin prednisone-original-indication-other-drugs-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／風溼性關節炎」。2026-10-15 報告重生後此列改寫為「風溼性關節炎」，但 prednisone 目前沒有有效單方許可證。原寫的「急性病症（氣喘、休克）」來自主成分登載為 methylprednisone 的已註銷注射劑（內衛藥輸字第003633號），「風濕性關節炎」字樣來自 prednisolone 的已註銷許可證（內衛藥輸字第005124號），都不是 prednisone 的許可證。Prednisone 單方許可證已全部註銷（曾載濕疹、過敏症、類風濕關節炎）；現行唯一有效許可證是與 crotamiton 的複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。已改為許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end prednisone-original-indication-other-drugs-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -138,7 +144,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「保癌寧等」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 「原適應症」混入 methylprednisolone 等其他成分的許可證 | 更正（2026-10-03 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」混入 methylprednisolone 等其他成分的許可證 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

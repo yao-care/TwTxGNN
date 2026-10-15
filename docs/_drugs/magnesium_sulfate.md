@@ -74,6 +74,12 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）。根據資料彙整的機轉推論，硫酸鎂可拮抗 NMDA 受體、阻斷鈣離子通道，並促進腦血管擴張。這些作用能提高癲癇發作閾值，並對抗子癇時的血管痙攣。
 
+<!-- review:begin magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單寫硫酸鎂是藉阻斷神經肌肉傳導、減少乙醯膽鹼釋放來預防或控制抽搐，另有中樞抑制與周邊血管擴張作用；沒有「降低腦血管痙攣及腦灌流壓」，本段的 NMDA 受體阻斷與抗發炎作用也不在仿單內。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
+
+<!-- review:end magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
+
 台灣已核准的硫酸鎂注射液適應症，本來就包含「子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助」。所以這個預測與既有的核准用途相符，屬於以證據補強既有用途，而非全新的用途。
 
 文獻也支持此看法：多篇回顧指出，硫酸鎂是預防與控制子癇抽搐的首選藥物，其療效與安全性已被長期記錄。
@@ -192,8 +198,8 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-03 | 許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 機轉列「降低腦血管痙攣及腦灌流壓」 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 機轉列「降低腦血管痙攣及腦灌流壓」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

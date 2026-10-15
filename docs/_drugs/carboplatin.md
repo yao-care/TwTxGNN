@@ -42,13 +42,19 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | HER2 過度表現之早期乳癌、轉移性乳癌，以及未曾接受化療之 HER2 過度表現轉移性胃腺癌（來自許可證文字，carboplatin 為併用藥物） |
+| 原適應症 | 卵巢癌（台灣許可證核准適應症） |
 | 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 16 張（有效單方 3／有效複方 0／已註銷 13） |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin carboplatin-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現之早期乳癌、轉移性乳癌，以及未曾接受化療之 HER2 過度表現轉移性胃腺癌（來自許可證文字，carboplatin 為併用藥物）」。2026-10-15 報告重生後，此列改寫成 trastuzumab 許可證中與 carboplatin 併用的適應症，仍不是 carboplatin 本身的核准適應症。原文列的是 trastuzumab、pembrolizumab 等其他藥品許可證中與 carboplatin 併用的適應症；台灣有效的 carboplatin 許可證（衛署藥輸字第024074號佳鉑帝、第024804號爾定康、衛署藥製字第057314號杏輝剋鉑停）核准適應症都是「卵巢癌」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end carboplatin-original-indication-2026-10-03 -->
 
 由於原適應症本身已含乳癌，這個預測更像是**擴大或釐清使用族群**（例如三陰性乳癌、BRCA 相關乳癌），而不是全新的疾病領域。
 
@@ -160,7 +166,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症」列成 trastuzumab／pembrolizumab 等併用方案的適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」列成 trastuzumab／pembrolizumab 等併用方案的適應症 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「許可證數」寫成其他藥品適應症中的併用藥物 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛部藥輸字第027591號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛署藥輸字第027591號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |

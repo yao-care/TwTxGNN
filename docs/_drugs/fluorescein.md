@@ -114,7 +114,7 @@ TxGNN 模型預測它可能對**變異型心絞痛 (Prinzmetal angina)** 有效�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「在體內幾乎不被代謝即原形排出」 | 更正 | [DailyMed：FLUORESCITE（fluorescein injection, USP）10% 美國仿單 §12.3](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9) |
+| 2026-10-03 | 「在體內幾乎不被代謝即原形排出」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 fluorescein 幾乎不被代謝；原為更正） | [DailyMed：FLUORESCITE（fluorescein injection, USP）10% 美國仿單 §12.3](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9) |
 | 2026-10-03 | 許可證表 5 張全數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

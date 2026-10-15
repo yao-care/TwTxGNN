@@ -49,6 +49,12 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 | 許可證數 | 8 張（有效單方 8／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
+<!-- review:begin diosmin-amenorrhea-rereview-result-2026-10-03 -->
+
+> **重審結果（2026-10-03）**：**撤回**（證據等級 L5 不變）。原推論中唯一跟本藥有關的理由「原適應症含機能性月經過多症」與台灣許可證不符，剩下的只是血管保護作用可能影響子宮內膜血流的理論推測，原文也寫明機轉連結極為薄弱。PubMed 與 ClinicalTrials.gov 都查無 diosmin 用於閉經的研究。最接近的人體資料是異常子宮出血：diosmin 合併 tranexamic acid 與 mefenamic acid 的隨機對照試驗中，經血量與出血天數減少得更多（[PMID 38029032](https://pubmed.ncbi.nlm.nih.gov/38029032/)），作用方向是減少經血，與閉經的需求相反。大鼠研究顯示 diosmin 可減輕 cyclophosphamide 造成的卵巢損傷（[PMID 33802633](https://pubmed.ncbi.nlm.nih.gov/33802633/)），但沒有評估月經，不能當作閉經的證據。（2026-10-15 報告重生後：新報告結論沒有「證據等級總結」表，建議決策已是 Hold，頁面等級／決策不再改寫。）依據：[PubMed：To Study the Efficacy and Safety of Diosmin with Tranexamic Acid and Mefenamic Acid Versus only Tranexamic Acid and Mefenamic Acid in Medical Management of Abnormal Uterine Bleeding: A Randomized Controlled Trial（PMID 38029032）](https://pubmed.ncbi.nlm.nih.gov/38029032/)；[PubMed：Treatment of abnormal uterine bleeding with micronized flavonoids（PMID 15847886）](https://pubmed.ncbi.nlm.nih.gov/15847886/)；[ClinicalTrials.gov：Oral Tranexamic Acid Versus Diosmin for Treatment of Menorrhagia in Women Using Copper IUD（NCT02616731）](https://clinicaltrials.gov/study/NCT02616731)；[PubMed：Diosmin Mitigates Cyclophosphamide Induced Premature Ovarian Insufficiency in Rat Model（PMID 33802633）](https://pubmed.ncbi.nlm.nih.gov/33802633/)；[ClinicalTrials.gov：Evaluation of the Effects of Diosmin/Hespiridin Combination on the Clinical Outcomes in Patients With Polycystic Ovary Syndrome（NCT06083935）](https://clinicaltrials.gov/study/NCT06083935)。
+
+<!-- review:end diosmin-amenorrhea-rereview-result-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Diosmin 是一種靜脈活性類黃酮，可改善靜脈張力與毛細血管抵抗力，在慢性靜脈功能不全與痔瘡中的使用已被認可。
@@ -112,16 +118,16 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 法迪朗膜衣錠許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 香葉木素芸香糖苷許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症列入已註銷證的「機能性月經過多」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 閉經預測理由引用「機能性月經過多症」為原適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症列入已註銷證的「機能性月經過多」 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為有效許可證原文，未再列機能性月經過多；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 閉經預測理由引用「機能性月經過多症」為原適應症 | 報告重生後已無此錯誤（2026-10-15：新報告改寫為「台灣部分舊許可證曾核准機能性月經過多症」，未再當作現行原適應症；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 閉經預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 閉經預測重審結果 | 重審：撤回，證據等級 L5 不變；結論「證據等級總結」閉經列：原「閉經／0.9942／無／無／極低／不推薦」→「閉經／0.9942／無／無／極低／撤回（2026-10-03 重審）」 | [PubMed：To Study the Efficacy and Safety of Diosmin with Tranexamic Acid and Mefenamic Acid Versus only Tranexamic Acid and Mefenamic Acid in Medical Management of Abnormal Uterine Bleeding: A Randomized Controlled Trial（PMID 38029032）](https://pubmed.ncbi.nlm.nih.gov/38029032/)；[PubMed：Treatment of abnormal uterine bleeding with micronized flavonoids（PMID 15847886）](https://pubmed.ncbi.nlm.nih.gov/15847886/)；[ClinicalTrials.gov：Oral Tranexamic Acid Versus Diosmin for Treatment of Menorrhagia in Women Using Copper IUD（NCT02616731）](https://clinicaltrials.gov/study/NCT02616731)；[PubMed：Diosmin Mitigates Cyclophosphamide Induced Premature Ovarian Insufficiency in Rat Model（PMID 33802633）](https://pubmed.ncbi.nlm.nih.gov/33802633/)；[ClinicalTrials.gov：Evaluation of the Effects of Diosmin/Hespiridin Combination on the Clinical Outcomes in Patients With Polycystic Ovary Syndrome（NCT06083935）](https://clinicaltrials.gov/study/NCT06083935) |
+| 2026-10-03 | 閉經預測重審結果 | 重審：撤回，證據等級 L5 不變（2026-10-15 修訂，前版保留於紀錄） | [PubMed：To Study the Efficacy and Safety of Diosmin with Tranexamic Acid and Mefenamic Acid Versus only Tranexamic Acid and Mefenamic Acid in Medical Management of Abnormal Uterine Bleeding: A Randomized Controlled Trial（PMID 38029032）](https://pubmed.ncbi.nlm.nih.gov/38029032/)；[PubMed：Treatment of abnormal uterine bleeding with micronized flavonoids（PMID 15847886）](https://pubmed.ncbi.nlm.nih.gov/15847886/)；[ClinicalTrials.gov：Oral Tranexamic Acid Versus Diosmin for Treatment of Menorrhagia in Women Using Copper IUD（NCT02616731）](https://clinicaltrials.gov/study/NCT02616731)；[PubMed：Diosmin Mitigates Cyclophosphamide Induced Premature Ovarian Insufficiency in Rat Model（PMID 33802633）](https://pubmed.ncbi.nlm.nih.gov/33802633/)；[ClinicalTrials.gov：Evaluation of the Effects of Diosmin/Hespiridin Combination on the Clinical Outcomes in Patients With Polycystic Ovary Syndrome（NCT06083935）](https://clinicaltrials.gov/study/NCT06083935) |
 
 <!-- review:end log -->
 

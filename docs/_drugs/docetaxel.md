@@ -33,21 +33,33 @@ indication_count: 10
 
 ## 一句話總結
 
-Docetaxel 是紫杉醇類（taxane）細胞毒性化療藥物，本報告所用的台灣許可證資料記載的原適應症為 HER2 過度表現之早期／轉移性乳癌與轉移性胃癌。
+Docetaxel 是紫杉醇類（taxane）細胞毒性化療藥物，台灣 docetaxel 單方許可證核准的原適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌與頭頸癌。
 TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預測分數 99.90%。
 目前有 **多個 Phase 3 隨機對照試驗**（共 40 餘個臨床試驗）和 **多篇文獻**支持這個方向，包括 ABC 系列輔助治療試驗。
+
+<!-- review:begin docetaxel-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「本報告所用的台灣許可證資料記載的原適應症為 HER2 過度表現之早期／轉移性乳癌與轉移性胃癌。」。2026-10-15 報告重生後仍沿用 trastuzumab 許可證的適應症。這段原適應症取自 trastuzumab 製劑（曲斯若，Trazimera）的許可證；台灣 docetaxel 許可證核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-summary-indication-2026-10-03 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | HER2 過度表現或基因擴增之早期乳癌、轉移性乳癌；轉移性胃癌（與 capecitabine 或 5-FU 及 cisplatin 併用）（見下方註記） |
+| 原適應症 | 乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌 |
 | 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 26 張（有效單方 18／有效複方 1／已註銷 7） |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin docetaxel-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現或基因擴增之早期乳癌、轉移性乳癌；轉移性胃癌（與 capecitabine 或 5-FU 及 cisplatin 併用）（見下方註記）」。原寫內容是 trastuzumab 製劑（曲斯若，衛部菌疫輸字第001135號）的適應症；已改為台灣 docetaxel 許可證的核准適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-original-indication-2026-10-03 -->
 
 > **資料註記：** 本次彙整的 6 張台灣許可證，品名為曲斯若、賀癌平、康癌停、赫珠瑪等，核准適應症文字都是 HER2 陽性乳癌與胃癌，內容看起來屬於 trastuzumab 類生物藥品，並非 docetaxel 單方製劑。因此「原適應症」欄位的內容未必代表 docetaxel 自身的核准範圍，建議向 TFDA 另行確認 docetaxel 本身的許可證與適應症。
 
@@ -178,8 +190,8 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原本用於治療 HER2 陽性乳癌及轉移性胃癌」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症取自 trastuzumab 許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原本用於治療 HER2 陽性乳癌及轉移性胃癌」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 trastuzumab 許可證 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表列 trastuzumab 製劑「曲斯若」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

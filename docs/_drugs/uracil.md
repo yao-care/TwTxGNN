@@ -33,9 +33,15 @@ indication_count: 10
 
 ## 一句話總結
 
-Uracil（台灣許可證品名：甲基硫克由拉西）在台灣單方許可證上的原適應症為甲狀腺機能亢進症。
+Uracil 在台灣的單方許可證是原料藥（適應症「抗惡性腫瘤劑」）；「甲基硫克由拉西」是 methylthiouracil，不是 uracil。
 TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 目前有 **1 個臨床試驗**和 **20 篇文獻**與此方向相關，但這些證據多半針對 UFT（tegafur + uracil）複方，而非 uracil 單獨使用。
+
+<!-- review:begin uracil-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Uracil（台灣許可證品名：甲基硫克由拉西）在台灣單方許可證上的原適應症為甲狀腺機能亢進症。」。2026-10-15 報告重生後仍把 methylthiouracil 的許可證當成 uracil。甲狀腺機能亢進症屬於已註銷的 methylthiouracil 許可證；現行 uracil 單方許可證是原料藥，適應症為抗惡性腫瘤劑。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end uracil-summary-indication-2026-10-03 -->
 
 ## 快速總覽
 
@@ -149,7 +155,7 @@ Uracil 本身並非典型的細胞毒性藥物，但本預測所依據的 UFT �
 | 2026-10-03 | 「原適應症」寫甲狀腺機能亢進症 | 更正（2026-10-03 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表把 trastuzumab（曲斯若）列為含 uracil 製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表把 trastuzumab（曲斯若）列為含 uracil 製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 一句話總結說 uracil 在台灣登記用於甲狀腺機能亢進症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 一句話總結說 uracil 在台灣登記用於甲狀腺機能亢進症 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

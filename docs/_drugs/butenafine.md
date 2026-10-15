@@ -137,8 +137,8 @@ TxGNN 模型預測它可能對**皮膚念珠菌病 (Cutaneous Candidiasis)** 有
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | benzylamine 譯成「苯胺類」 | 更正 | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[PubChem：Benzylamine（CID 7504）](https://pubchem.ncbi.nlm.nih.gov/compound/7504)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
-| 2026-10-03 | 文獻摘要中 benzylamine 譯成「苯胺類」 | 更正 | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
+| 2026-10-03 | benzylamine 譯成「苯胺類」 | 報告重生後已無此錯誤（2026-10-15：新報告寫「苯甲胺類」（benzylamine），譯名正確；原為更正） | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[PubChem：Benzylamine（CID 7504）](https://pubchem.ncbi.nlm.nih.gov/compound/7504)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
+| 2026-10-03 | 文獻摘要中 benzylamine 譯成「苯胺類」 | 報告重生後已無此錯誤（2026-10-15：新報告文獻表未再把 butenafine 歸為苯胺類；原為更正） | [PubChem：Butenafine（CID 2484），Pharmacology and Biochemistry（FDA Pharmacology Summary／Pharmacological Classes）](https://pubchem.ncbi.nlm.nih.gov/compound/2484)；[環境部化學物質管理署：毒性及關注化學物質快速查詢「苯胺 Aniline」](https://www.cha.gov.tw/sp-toch-form-1768-e4c54ce8734c4b669b9734f873c315e7-1.html) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

@@ -115,7 +115,7 @@ TxGNN 模型預測它可能對**糖尿病腎病變 (Diabetic Nephropathy)** 有�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 說代謝物 4-MUG 耗竭 UDP-葡萄糖醛酸 | 加註 | [Nagy N, et al. 4-methylumbelliferone treatment and hyaluronan inhibition as a therapeutic strategy in inflammation, autoimmunity, and cancer. Front Immunol. 2015;6:123（Europe PMC 全文，PMC4369655）](https://europepmc.org/article/PMC/PMC4369655) |
+| 2026-10-03 | 說代謝物 4-MUG 耗竭 UDP-葡萄糖醛酸 | 報告重生後已無此錯誤（2026-10-15：新報告只寫可抑制玻尿酸合成，未再寫 4-MUG 耗竭 UDP-葡萄糖醛酸；原為加註） | [Nagy N, et al. 4-methylumbelliferone treatment and hyaluronan inhibition as a therapeutic strategy in inflammation, autoimmunity, and cancer. Front Immunol. 2015;6:123（Europe PMC 全文，PMC4369655）](https://europepmc.org/article/PMC/PMC4369655) |
 
 <!-- review:end log -->
 

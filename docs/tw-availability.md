@@ -162,7 +162,7 @@ permalink: /tw-availability/
 | [Indacaterol](/drugs/indacaterol/) | ✓ 已上市 |  | L5 |
 | [Inositol](/drugs/inositol/) | ✓ 已上市 |  | L5 |
 | [Insulin Lispro](/drugs/insulin-lispro/) | ✓ 已上市 |  | L5 |
-| [Interferon Beta-1B](/drugs/interferon-beta-1b/) | ✓ 已上市 |  | L5 |
+| [Interferon Beta-1B](/drugs/interferon-beta-1b/) | 曾上市，唯一許可證已於 2026-06-08 註銷 |  | L5 |
 | [Iodixanol](/drugs/iodixanol/) | ✓ 已上市 |  | L5 |
 | [Iohexol](/drugs/iohexol/) | ✓ 已上市 |  | L5 |
 | [Iopromide](/drugs/iopromide/) | ✓ 已上市 |  | L5 |
@@ -185,7 +185,7 @@ permalink: /tw-availability/
 | [Lorcaserin](/drugs/lorcaserin/) | ✓ 已上市 |  | L5 |
 | [Lornoxicam](/drugs/lornoxicam/) | ✓ 已上市 |  | L4 |
 | [Loteprednol Etabonate](/drugs/loteprednol-etabonate/) | ✓ 已上市 |  | L5 |
-| [Lutetium Lu 177 Dotatate](/drugs/lutetium-lu-177-dotatate/) | 未上市 |  | L5 |
+| [Lutetium Lu 177 Dotatate](/drugs/lutetium-lu-177-dotatate/) | ✓ 已上市（衛部藥輸字第R00104號） |  | L5 |
 | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | ✓ 已上市 |  | L1 |
 | [Mannitol](/drugs/mannitol/) | ✓ 已上市 |  | L5 |
 | [Maraviroc](/drugs/maraviroc/) | ✓ 已上市 |  | L5 |

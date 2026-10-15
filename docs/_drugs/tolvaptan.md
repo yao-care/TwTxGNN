@@ -136,7 +136,7 @@ Tolvaptan 在 ADPKD 已有 Phase 3 RCT 與統合分析支持，並已於台灣�
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：19 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表下「台灣共有 19 張許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 「PKD3 由 GANAB 或 DNAJB11 基因突變引起」 | 加註 | [NCBI MedGen：Polycystic kidney disease 3 with or without polycystic liver disease（C3887964）](https://www.ncbi.nlm.nih.gov/medgen/854672)；[NCBI MedGen：Polycystic kidney disease 6 with or without polycystic liver disease（C4748044）](https://www.ncbi.nlm.nih.gov/medgen/1648469) |
+| 2026-10-03 | 「PKD3 由 GANAB 或 DNAJB11 基因突變引起」 | 報告重生後已無此錯誤（2026-10-15：新報告寫 PKD3 為 GANAB 基因相關，未再列 DNAJB11；原為加註） | [NCBI MedGen：Polycystic kidney disease 3 with or without polycystic liver disease（C3887964）](https://www.ncbi.nlm.nih.gov/medgen/854672)；[NCBI MedGen：Polycystic kidney disease 6 with or without polycystic liver disease（C4748044）](https://www.ncbi.nlm.nih.gov/medgen/1648469) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

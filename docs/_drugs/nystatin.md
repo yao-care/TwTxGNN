@@ -191,7 +191,7 @@ Nystatin 對念珠菌性外陰陰道炎的機轉直接相關，且台灣已有�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症」寫細菌感染 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
+| 2026-10-03 | 「原適應症」寫細菌感染 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列未再引用 demeclocycline 複方的細菌感染適應症；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
 | 2026-10-03 | 台灣上市資訊表第一列（立達泰定膠囊） | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
 

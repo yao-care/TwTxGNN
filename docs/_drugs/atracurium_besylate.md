@@ -48,6 +48,12 @@ TxGNN 模型預測它可能對**子癇前症 (Preeclampsia)** 有效，但目前
 | 許可證數 | 6 張（有效單方 2／有效複方 0／已註銷 4） |
 | 建議決策 | Hold |
 
+<!-- review:begin atracurium-preeclampsia-rereview-result-2026-10-03 -->
+
+> **重審結果（2026-10-03）**：**降級**（證據等級 L3→L5）。「不釋放組織胺、血壓穩定」這條理由與仿單不符；剩下的理由（不靠肝腎代謝、孕期藥動學穩定）只跟麻醉用藥安全性有關，不是治療子癇前症的證據。原列文獻中，[PMID 3778800](https://pubmed.ncbi.nlm.nih.gov/3778800/) 是麻醉經驗讀者來信，[PMID 9646009](https://pubmed.ncbi.nlm.nih.gov/9646009/) 是藥動學回顧，[PMID 18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) 用的其實是 cisatracurium。PubMed 與 ClinicalTrials.gov 都查無以子癇前症為適應症的研究。（2026-10-15 報告重生後：新報告的證據等級已是 L5、決策已是 Hold，與重審結果一致，頁面等級／決策不再改寫。）依據：[PubMed：Use of atracurium in pre-eclamptic patients（PMID 3778800）](https://pubmed.ncbi.nlm.nih.gov/3778800/)；[PubMed：Clinical pharmacokinetics of neuromuscular relaxants in pregnancy（PMID 9646009）](https://pubmed.ncbi.nlm.nih.gov/9646009/)；[PubMed：[Remifentanil bolus for cesarean section in high-risk patients: study of 12 cases]（PMID 18383970）](https://pubmed.ncbi.nlm.nih.gov/18383970/)。
+
+<!-- review:end atracurium-preeclampsia-rereview-result-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知的藥理分類，Atracurium 是作用於神經肌肉接合處菸鹼型乙醯膽鹼受體的非去極化神經肌肉阻斷劑，主要用於麻醉時的骨骼肌鬆弛。
@@ -108,14 +114,14 @@ TxGNN 模型預測它可能對**子癇前症 (Preeclampsia)** 有效，但目前
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「不引起組織胺釋放相關的血壓波動」 | 加註 | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
+| 2026-10-03 | 「不引起組織胺釋放相關的血壓波動」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 atracurium 不引起組織胺釋放；原為加註） | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
 | 2026-10-03 | 子癇前症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
 | 2026-10-03 | 許可證表中三張是 cisatracurium 製劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 子癇前症預測重審結果 | 重審：降級，證據等級 L3→L5；快速總覽「證據等級」：原「證據等級／L3 (觀察性研究/文獻支持)」→「證據等級／L5（2026-10-03 重審降級）」；快速總覽「建議決策」：原「建議決策／Consider」→「建議決策／Hold（2026-10-03 重審調整）」；結論「決策」：原「**決策：Consider**」→「**決策：Hold**（2026-10-03 重審調整）」 | [PubMed：Use of atracurium in pre-eclamptic patients（PMID 3778800）](https://pubmed.ncbi.nlm.nih.gov/3778800/)；[PubMed：Clinical pharmacokinetics of neuromuscular relaxants in pregnancy（PMID 9646009）](https://pubmed.ncbi.nlm.nih.gov/9646009/)；[PubMed：[Remifentanil bolus for cesarean section in high-risk patients: study of 12 cases]（PMID 18383970）](https://pubmed.ncbi.nlm.nih.gov/18383970/) |
+| 2026-10-03 | 子癇前症預測重審結果 | 重審：降級，證據等級 L3→L5（2026-10-15 修訂，前版保留於紀錄） | [PubMed：Use of atracurium in pre-eclamptic patients（PMID 3778800）](https://pubmed.ncbi.nlm.nih.gov/3778800/)；[PubMed：Clinical pharmacokinetics of neuromuscular relaxants in pregnancy（PMID 9646009）](https://pubmed.ncbi.nlm.nih.gov/9646009/)；[PubMed：[Remifentanil bolus for cesarean section in high-risk patients: study of 12 cases]（PMID 18383970）](https://pubmed.ncbi.nlm.nih.gov/18383970/) |
 
 <!-- review:end log -->
 

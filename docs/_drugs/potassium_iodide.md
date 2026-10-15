@@ -37,6 +37,12 @@ indication_count: 2
 TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 目前**無臨床試驗**，僅有 **4 篇個案報告**（多為動物），證據相當有限。
 
+<!-- review:begin potassium_iodide-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：「皮膚消毒」「絲狀菌感染」是碘＋碘化鉀（濃碘酊，衛署藥製字第033308號）與碘＋碘化鉀＋水楊酸（碘楊酸外用液劑，衛署藥製字第044330號）複方的適應症，殺菌與抗黴菌作用主要來自碘與水楊酸；「預防甲狀腺腫」來自已於 2005-06-16 註銷的許可證（內衛藥輸字第000502號）。現行單方碘化鉀錠（衛署藥製字第056668號）核准的是輻射緊急事故時保護甲狀腺。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end potassium_iodide-original-indication-combo-2026-10-03 -->
+
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -52,6 +58,12 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，碘化鉀是傳統的祛痰劑，也長期用於皮下及鼻顏面部的真菌與卵菌感染（如孢子絲菌病、接合菌病、腐霉病），可能透過免疫調節與抗微生物作用發揮效果。
+
+<!-- review:begin potassium-iodide-antifungal-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：碘化鉀用於孢子絲菌病有依據（WHO 基本藥物清單列為抗真菌藥），但其抗真菌作用機轉尚未確定；所查來源只列孢子絲菌病，沒有接合菌病。原文保留。依據：[PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）](https://pubchem.ncbi.nlm.nih.gov/compound/4875)。
+
+<!-- review:end potassium-iodide-antifungal-2026-10-03 -->
 
 原適應症（祛痰、呼吸道分泌物稀釋）與呼吸道黏膜相關，而鼻腔疾病與上呼吸道黏膜相關，兩者在解剖與病理上有一定關聯。另外，碘化鉀的絲狀菌感染相關核准用途（含碘水楊酸製劑）也與真菌性鼻部感染的概念相近。
 
@@ -145,8 +157,8 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 碘楊酸外用液劑許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 「原核准適應症」混入複方與已註銷許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 說碘化鉀對孢子絲菌病和接合菌病有已知抗真菌活性 | 加註 | [PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）](https://pubchem.ncbi.nlm.nih.gov/compound/4875) |
+| 2026-10-03 | 「原核准適應症」混入複方與已註銷許可證 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 說碘化鉀對孢子絲菌病和接合菌病有已知抗真菌活性 | 加註（2026-10-15 修訂，前版保留於紀錄） | [PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）](https://pubchem.ncbi.nlm.nih.gov/compound/4875) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

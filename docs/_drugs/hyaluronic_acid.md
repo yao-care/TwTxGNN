@@ -48,6 +48,12 @@ TxGNN 模型預測它可能對**乾眼症 (Dry Eye Syndrome)** 有效，目前�
 | 許可證數 | 11 張（有效單方 0／有效複方 1／已註銷 10） |
 | 建議決策 | Proceed with Guardrails |
 
+<!-- review:begin hyaluronic-acid-tw-license-note-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：依 TFDA 藥品許可證資料，目前有 1 張含玻尿酸鈉的有效藥品許可證：衛部藥輸字第027112號「視舒坦玻尿酸人工淚液點眼液」（與 polyethylene glycol 400、propylene glycol 的複方，用於緩解眼睛乾澀）；過去也有多張 sodium hyaluronate 單方眼科手術黏彈劑許可證（如 HEALON），均已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hyaluronic-acid-tw-license-note-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料（原廠 MOA 欄位無資料）。以下根據一般藥理知識說明：玻尿酸是具吸水性與黏彈性的葡萄糖胺聚醣，可在眼表面保留水分、穩定淚膜，並可能透過 CD44 結合促進角膜上皮修復。
@@ -142,7 +148,7 @@ TxGNN 模型預測它可能對**乾眼症 (Dry Eye Syndrome)** 有效，目前�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「目前在台灣無任何藥品許可證登記」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「目前在台灣無任何藥品許可證登記」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

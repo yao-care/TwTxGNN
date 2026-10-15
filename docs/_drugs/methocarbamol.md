@@ -139,7 +139,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Methocarbamol Tablets, USP 仿單（Granules）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c) |
-| 2026-10-03 | 把抑制多突觸反射弧寫成確定的主要機轉 | 加註 | [DailyMed：Methocarbamol Tablets, USP 仿單（Granules），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c) |
+| 2026-10-03 | 把抑制多突觸反射弧寫成確定的主要機轉 | 報告重生後已無此錯誤（2026-10-15：新報告寫機轉尚未完全釐清、與中樞神經抑制有關，未再寫抑制多突觸反射弧；原為加註） | [DailyMed：Methocarbamol Tablets, USP 仿單（Granules），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c) |
 
 <!-- review:end log -->
 

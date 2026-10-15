@@ -51,6 +51,12 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 | 許可證數 | 101 張（有效單方 17／有效複方 1／已註銷 83） |
 | 建議決策 | Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護 |
 
+<!-- review:begin ergometrine-migraine-rereview-result-2026-10-03 -->
+
+> **重審結果（2026-10-03）**：**維持**（證據等級 L3 不變）。2026-10-15 報告重生後把偏頭痛評為 L4，未納入本藥的觀察性研究（PMID 2759844）；依本次重審，偏頭痛證據等級為 L3。機轉說明裡「經 α 受體抑制三叉神經源性炎症」不成立，但 L3 原本就不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)）。methylergonovine 的研究是同系物，只能當旁證。查無 RCT，ClinicalTrials.gov 也查無登錄試驗；另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/)。
+
+<!-- review:end ergometrine-migraine-rereview-result-2026-10-03 -->
+
 ---
 
 <!-- review:begin ergometrine-moa-2026-10-03 -->
@@ -80,6 +86,12 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 **多毛症（排名第 1）**：毛髮生長與毛囊發育的機轉，與 Ergometrine 的受體藥理沒有已知關聯。其他排名靠前的預測，如 Ambras 症候群（涉及 TRPS1 調控）、腎因性抗利尿不適當症候群（AVPR2 功能獲得性變異）、Dandy-Walker 畸形、遺傳性毛幹異常、痲瘋病等，同樣缺乏機轉或證據支持，應視為模型的統計關聯，而非有根據的再利用假說。
 
 **偏頭痛（排名第 7）**：Ergometrine 與 ergotamine、methysergide 同屬麥角骨架，作用於 5-HT1B/1D 等血清素受體，理論上有血管收縮與抗偏頭痛的合理性。台灣有一張許可證（意如宮注射液）的核准適應症已列有偏頭痛。但目前只有間接證據，且麥角類藥物的血管痙攣與腦血管病變風險，需要嚴格的防護措施。
+
+<!-- review:begin ergometrine-alpha-premise-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：此前提與仿單不符。仿單所載 ergometrine 的受體作用是子宮肌層 5-HT2 與 α 腎上腺素受體的作用劑／部分作用劑效果，並寫明它對 α 腎上腺素受體幾乎沒有拮抗作用；仿單沒有提到 5-HT1B/1D，也沒有提到經 α 受體抑制三叉神經源性炎症。上段原文保留未改。依據：[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc)。
+
+<!-- review:end ergometrine-alpha-premise-2026-10-03 -->
 
 **肺動脈高壓（排名第 10）**：Ergometrine 的血管收縮作用可能增加肺血管阻力，與治療方向相反，此項應視為安全警訊而非治療機會。
 
@@ -184,12 +196,12 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「methylergonovine 是 ergometrine 的活性代謝物」 | 更正 | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072)；[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.2](https://www.medicines.org.uk/emc/product/6265/smpc) |
-| 2026-10-03 | 結論段「及其活性代謝物 methylergonovine」 | 更正 | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072) |
-| 2026-10-03 | 預測理由「作用於 α-腎上腺素受體抑制三叉神經源性炎症」 | 加註 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
+| 2026-10-03 | 「methylergonovine 是 ergometrine 的活性代謝物」 | 報告重生後已無此錯誤（2026-10-15：新報告未再稱 methylergonovine 為 ergometrine 的活性代謝物；原為更正） | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072)；[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.2](https://www.medicines.org.uk/emc/product/6265/smpc) |
+| 2026-10-03 | 結論段「及其活性代謝物 methylergonovine」 | 報告重生後已無此錯誤（2026-10-15：新報告結論未再提及 methylergonovine 為代謝物；原為更正） | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072) |
+| 2026-10-03 | 預測理由「作用於 α-腎上腺素受體抑制三叉神經源性炎症」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 偏頭痛預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
-| 2026-10-03 | 偏頭痛預測重審結果 | 重審：維持，證據等級 L3 不變 | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
+| 2026-10-03 | 偏頭痛預測重審結果 | 重審：維持，證據等級 L3 不變（2026-10-15 修訂，前版保留於紀錄） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
 
 <!-- review:end log -->
 

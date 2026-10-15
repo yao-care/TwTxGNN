@@ -154,7 +154,7 @@ Letrozole 為荷爾蒙治療藥物（芳香環轉化酶抑制劑），不屬於�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「雌激素降幅超過 95%」 | 更正 | [DailyMed：Femara (letrozole) tablets 仿單（Novartis），Pharmacodynamics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
+| 2026-10-03 | 「雌激素降幅超過 95%」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫雌激素降幅超過 95%；原為更正） | [DailyMed：Femara (letrozole) tablets 仿單（Novartis），Pharmacodynamics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
 
 <!-- review:end log -->
 

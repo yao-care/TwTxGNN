@@ -151,7 +151,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 半衰期寫 3-5 小時 | 更正 | [HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf) |
+| 2026-10-03 | 半衰期寫 3-5 小時 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫半衰期 3-5 小時；原為更正） | [HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L3→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

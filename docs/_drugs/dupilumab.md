@@ -123,7 +123,7 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「Dupilumab 是一種人源化單株抗體」 | 更正 | [DailyMed：DUPIXENT（dupilumab）injection 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
+| 2026-10-03 | 「Dupilumab 是一種人源化單株抗體」 | 報告重生後已無此錯誤（2026-10-15：新報告未再稱 dupilumab 為人源化抗體；原為更正） | [DailyMed：DUPIXENT（dupilumab）injection 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
 
 <!-- review:end log -->
 

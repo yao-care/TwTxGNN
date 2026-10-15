@@ -83,6 +83,12 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 
 此外，該藥為口腔咽喉局部使用，全身暴露量極低，難以在神經根病變部位達到有效濃度。因此，這個預測的合理性**偏低**，需要先有機轉或前臨床證據才值得進一步投入。
 
+<!-- review:begin amylmetacresol-moa-pk-claim-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：仿單只寫 amylmetacresol 是防腐殺菌劑、體外具抗菌（殺菌與抑菌）、抗黴菌與抗病毒作用，沒有寫干擾細胞膜的機轉；藥動學段為「無資料」，「全身吸收量極低」沒有仿單依據。原文保留。依據：[emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)。
+
+<!-- review:end amylmetacresol-moa-pk-claim-2026-10-03 -->
+
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記
@@ -156,7 +162,7 @@ TxGNN 另預測下列適應症，皆同為 L5、建議 Hold，且均無臨床試
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Strepsils Honey and Lemon SmPC §5.1](https://www.medicines.org.uk/emc/product/5606/smpc) |
 | 2026-10-03 | 原適應症屬於複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 說作用為干擾細菌細胞膜、全身吸收量極低 | 加註 | [emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc) |
+| 2026-10-03 | 說作用為干擾細菌細胞膜、全身吸收量極低 | 加註（2026-10-15 修訂，前版保留於紀錄） | [emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc) |
 
 <!-- review:end log -->
 

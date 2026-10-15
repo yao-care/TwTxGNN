@@ -140,7 +140,7 @@ TxGNN 模型預測它可能對**硬化性膽管炎 (Sclerosing Cholangitis)** �
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表中 4 列為 cefoperazone＋sulbactam 複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 把鮑曼不動桿菌列為 cefoperazone 主要抗菌目標 | 加註 | [Drugs@FDA：CEFOBID（cefoperazone）仿單（2017），Microbiology](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/050551s045lbl.pdf) |
+| 2026-10-03 | 把鮑曼不動桿菌列為 cefoperazone 主要抗菌目標 | 報告重生後已無此錯誤（2026-10-15：新報告未再把鮑曼不動桿菌列為 cefoperazone 的抗菌目標；原為加註） | [Drugs@FDA：CEFOBID（cefoperazone）仿單（2017），Microbiology](https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/050551s045lbl.pdf) |
 
 <!-- review:end log -->
 

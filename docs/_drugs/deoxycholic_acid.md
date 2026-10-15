@@ -33,21 +33,33 @@ indication_count: 3
 
 ## 一句話總結
 
-Deoxycholic acid（去氧膽酸／去氧熊膽酸）是一種次級膽酸，在台灣原本用於溶解膽固醇系膽結石，並改善原發性膽道肝硬化的肝功能。
+Deoxycholic acid（去氧膽酸）是一種次級膽酸，在台灣核准用於注射改善成人頦下脂肪堆積；溶解膽固醇系膽結石、改善原發性膽道肝硬化是去氧熊膽酸（ursodeoxycholic acid）的適應症。
 TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩者完全沒有臨床試驗或文獻支持。
 因此本報告以有間接文獻線索的 **糖尿病腎病變 (Diabetic Nephropathy)**（排名第 3）為主要討論對象，目前有 **0 個臨床試驗**和 **4 篇間接文獻**（皆為動物研究或膽酸代謝研究）。
+
+<!-- review:begin deoxycholic-acid-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「Deoxycholic acid（去氧膽酸／去氧熊膽酸）是一種次級膽酸，在台灣原本用於溶解膽固醇系膽結石，並改善原發性膽道肝硬化的肝功能。」。2026-10-15 報告重生後仍把去氧膽酸與去氧熊膽酸（UDCA）混為一談。Deoxycholic acid 的核准用途只有注射改善成人頦下脂肪堆積，不用於膽結石溶解，也不核准用於頦下以外的皮下脂肪；膽結石溶解是 ursodeoxycholic acid（去氧熊膽酸）的用途。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
+
+<!-- review:end deoxycholic-acid-summary-indication-2026-10-03 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 膽固醇系膽結石之溶解、原發性膽道肝硬化 (PBC) 之肝功能改善 |
+| 原適應症 | 頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀） |
 | 預測新適應症 | 糖尿病腎病變 (Diabetic Nephropathy)（排名第 3；排名第 1、2 的預測無任何證據，見下文說明） |
 | TxGNN 預測分數 | 99.33%（排名第 1 的預測為 99.49%） |
 | 證據等級 | L4（排名第 1、2 的預測為 L5） |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 6 張（有效單方 4／有效複方 0／已註銷 2） |
 | 建議決策 | Hold |
+
+<!-- review:begin deoxycholic-acid-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／膽固醇系膽結石之溶解、原發性膽道肝硬化 (PBC) 之肝功能改善」。膽固醇性膽結石溶解與原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症；deoxycholic acid 在台灣許可證與美國仿單的核准用途只有改善成人頦下脂肪堆積。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
+
+<!-- review:end deoxycholic-acid-original-indication-2026-10-03 -->
 
 > **說明：** 模型分數最高的兩個預測為「體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群」(99.49%) 與「腦小血管病 1 型（伴或不伴眼部異常）」(99.49%)。兩者皆屬 COL4A1 相關的血管基底膜疾病，與去氧膽酸沒有已知的機轉關聯，且無臨床試驗與文獻，證據等級為 L5，建議 Hold。
 
@@ -132,10 +144,10 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「用於膽結石溶解和皮下脂肪消除」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
-| 2026-10-03 | 原適應症列入膽結石溶解、原發性膽道肝硬化 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-10-03 | 「用於膽結石溶解和皮下脂肪消除」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-10-03 | 原適應症列入膽結石溶解、原發性膽道肝硬化 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 | 2026-10-03 | 許可證表列「去氧熊膽酸」（UDCA）製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 備註「多數許可證已註銷，目前主要以 UDCA 產品為主流」 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 備註「多數許可證已註銷，目前主要以 UDCA 產品為主流」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫「多數許可證已註銷，以 ursodeoxycholic acid 產品為主流」；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -40,13 +40,19 @@ TxGNN 模型預測它可能對**小細胞肺癌 (Small Cell Lung Carcinoma)** �
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 與標準化療（daunorubicin 併用 cytarabine）及高劑量 cytarabine 鞏固治療併用 midostaurin，用於新確診 FLT3 突變陽性的急性骨髓性白血病（AML）成人病人；另用於侵犯性全身性肥大細胞增生症等 |
+| 原適應症 | 急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、衛部藥輸字第028975號） |
 | 預測新適應症 | 小細胞肺癌 (Small Cell Lung Carcinoma) |
 | TxGNN 預測分數 | 99.78% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 17 張（有效單方 3／有效複方 0／已註銷 14） |
 | 建議決策 | Hold |
+
+<!-- review:begin cytarabine-original-indication-cll-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／與標準化療（daunorubicin 併用 cytarabine）及高劑量 cytarabine 鞏固治療併用 midostaurin，用於新確診 FLT3 突變陽性的急性骨髓性白血病（AML）成人病人；另用於侵犯性全身性肥大細胞增生症等」。2026-10-15 報告重生後，此列改寫成 midostaurin 許可證的併用適應症，仍不是 cytarabine 本身的核准適應症。台灣現行 cytarabine 單方許可證的適應症為「急性顆粒白血病及其他急性白血病」（衛署藥輸字第001879號）與「抗腫瘤劑」（衛署藥輸字第025603號、衛部藥輸字第028975號），不含慢性淋巴球性白血病；已改為台灣許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cytarabine-original-indication-cll-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -139,8 +145,8 @@ TxGNN 模型預測它可能對**小細胞肺癌 (Small Cell Lung Carcinoma)** �
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 原核准適應症列入「慢性淋巴球性白血病 (CLL)」 | 更正（2026-10-03 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 併用表「CLL 治療｜Venetoclax 併用低劑量 Ara-C」 | 更正 | [DailyMed：VENCLEXTA（venetoclax）美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
+| 2026-10-03 | 原核准適應症列入「慢性淋巴球性白血病 (CLL)」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 併用表「CLL 治療｜Venetoclax 併用低劑量 Ara-C」 | 報告重生後已無此錯誤（2026-10-15：新報告已無「venetoclax 併用低劑量 Ara-C 治療 CLL」的表列；原為更正） | [DailyMed：VENCLEXTA（venetoclax）美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
