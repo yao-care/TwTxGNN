@@ -90,15 +90,15 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第048386號 | "永信" 息妊佳錠 | 2% ETHINYL ESTRADIOL TRITURATION、DESOGESTREL | 錠劑 | 避妊。 |
+| 衛署藥製字第048386號 | "永信" 息妊佳錠 | DESOGESTREL、2% ETHINYL ESTRADIOL TRITURATION | 錠劑 | 避妊。 |
 | 衛署藥輸字第018424號 | 美適儂錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 錠劑 | 避孕 |
 | 衛署藥輸字第025503號 | 愛逸定膜衣錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 膜衣錠 | 避妊。 |
 | 衛部藥製字第058638號 | 蜜止妊錠 | DESOGESTREL、Ethinyl estradiol | 錠劑 | 避孕。 |
 | 衛部藥輸字第027194號 | 美偌琳膜衣錠 | DESOGESTREL、ETHINYLESTRADIOL MICRONIZED | 膜衣錠 | 避孕。 |
-| 衛部藥輸字第028613號 | 母扶樂膜衣錠 | ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST… | 膜衣錠 | 口服避孕劑。 |
+| 衛部藥輸字第028613號 | 母扶樂膜衣錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 膜衣錠 | 口服避孕劑。 |
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012690號</td><td>母扶樂錠</td><td>DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T…</td><td>1987/10/19</td></tr><tr><td>衛署藥輸字第016025號</td><td>母扶樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2019/01/18</td></tr><tr><td>衛署藥輸字第025375號</td><td>可若絲膚錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2022/07/07</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012690號</td><td>母扶樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>1987/10/19</td></tr><tr><td>衛署藥輸字第016025號</td><td>母扶樂錠</td><td>DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T…</td><td>2019/01/18</td></tr><tr><td>衛署藥輸字第025375號</td><td>可若絲膚錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2022/07/07</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

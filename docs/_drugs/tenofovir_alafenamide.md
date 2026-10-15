@@ -45,7 +45,7 @@ TxGNN 模型的首位預測是**貓免疫缺乏症候群**，但完全沒有臨�
 | TxGNN 預測分數 | 99.89% |
 | 證據等級 | L4（僅有動物與前臨床研究） |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 7 張（有效單方 1／有效複方 6／已註銷 0） |
+| 許可證數 | 8 張（有效單方 2／有效複方 6／已註銷 0） |
 | 建議決策 | Hold（作為研究問題追蹤，不建議進入臨床開發） |
 
 ## 為什麼這個預測合理？
@@ -79,24 +79,25 @@ SIV 與 HIV 同屬慢病毒，並具有反轉錄酶。獼猴的 SIV/SHIV 感染�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tenofovir Alafenamide 的不重複許可證共 **7 張**：有效單方 1 張、有效複方 6 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tenofovir Alafenamide 的不重複許可證共 **8 張**：有效單方 2 張、有效複方 6 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
+**有效・單方**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛部藥輸字第027086號 | 韋立得膜衣錠 | 膜衣錠 | 香港商吉立亞醫藥有限公司台灣分公司 | 2027/04/19 | 適用於治療6歲以上且體重至少25公斤之慢性B型肝炎病人。 |
+| 衛部藥輸字第029183號 | 天諾膦維爾丙胺酸酯延胡索酸鹽 | （粉） | 川聖貿易股份有限公司 | 2031/06/05 | 抗病毒藥 |
 
 **有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（6 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、EMTRICITABINE、elvi… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
+| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、elvitegravir、EMTRI… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
 | 衛部藥輸字第027274號 | 達可揮膜衣錠 200 毫克/25 毫克 | EMTRICITABINE、tenofovir alafenamide fumarate | 膜衣錠 | 治療HIV-1 感染 適用於與其他抗反轉錄病毒藥物併用，藉以治療人類免疫不全病毒第一型（HIV-1）的成人與青少年（12歲（含）以上且體重至少35公斤）。 HIV-1 暴露前預防性… |
 | 衛部藥輸字第027275號 | 達可揮膜衣錠 200 毫克/10 毫克 | tenofovir alafenamide fumarate、EMTRICITABINE | 膜衣錠 | Descovy適用於與其他抗反轉錄病毒藥物併用，藉以治療人類免疫不全病毒第一型(HIV-1)的成人與青少年(12歲(含)以上且體重至少35公斤)。 |
 | 衛部藥輸字第027505號 | 安以斯膜衣錠 | RILPIVIRINE HYDROCHLORIDE、tenofovir alafenamide fumarate、EMT… | 膜衣錠 | 先前未曾使用過抗病毒藥物治療之愛滋病毒(HIV-1)感染之完整治療，且在治療開始時其病毒量HIV-1 RNA ≦100,000 copies/mL之12歲以上(體重至少35公斤)患… |
-| 衛部藥輸字第027570號 | 吉他韋 膜衣錠 | tenofovir alafenamide fumarate、Bictegravir Sodium、EMTRICITAB… | 膜衣錠 | 治療感染第一型人類免疫缺乏病毒(HIV-1) 且不具已知或疑似與bictegravir或tenofovir抗藥性相關突變的成人與體重至少25公斤的兒童病人。 |
-| 衛部藥輸字第027613號 | 信澤力膜衣錠 | tenofovir alafenamide fumarate、DARUNAVIR ETHANOLATE、EMTRICIT… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
+| 衛部藥輸字第027570號 | 吉他韋 膜衣錠 | tenofovir alafenamide fumarate、EMTRICITABINE、Bictegravir Sod… | 膜衣錠 | 治療感染第一型人類免疫缺乏病毒(HIV-1) 且不具已知或疑似與bictegravir或tenofovir抗藥性相關突變的成人與體重至少25公斤的兒童病人。 |
+| 衛部藥輸字第027613號 | 信澤力膜衣錠 | EMTRICITABINE、DARUNAVIR ETHANOLATE、cobicistat、tenofovir alaf… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
 
 <!-- tfda-licenses:end -->
 

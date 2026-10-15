@@ -86,13 +86,13 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
-| 衛部藥製字第061007號 | 容脂注射劑10.56毫克/毫升 | 注射液劑 | 頂尖生技顧問股份有限公司 | 2026/10/28 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。 |
+| 衛部藥製字第061007號 | 容脂注射劑10.56毫克/毫升 | 注射液劑 | 頂尖生技顧問股份有限公司 | 2031/10/28 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。 |
 | 衛部藥製字第061840號 | 麗容脂注射劑 10.56毫克/毫升 | 注射液劑 | 泰宗生物科技股份有限公司 | 2029/05/09 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。 |
 | 衛部藥輸字第027135號 | 倍克脂注射劑 | 注射液劑 | 瑞士商艾伯維藥品有限公司台灣分公司 | 2027/05/24 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。 |
 | 衛部藥輸字第028648號 | 去氧膽酸 | （粉） | 溫帝國際有限公司 | 2029/01/17 | 乳化劑；頦下脂肪消除劑(注射) |
 
 <details><summary><strong>已註銷</strong>（2 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第020217號</td><td>可樂秘膠囊</td><td>DEOXYCHOLIC ACID (DESOXYCHOLIC ACID)、PHENOLPHTHALEIN、DIOCTYL…</td><td>1991/06/27</td></tr><tr><td>衛署藥輸字第010588號</td><td>肝得健注射劑</td><td>PHOSPHOLIPID ESSENTIAL、PYRIDOXINE HCL、DEOXYCHOLIC ACID (DESO…</td><td>1992/05/28</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第020217號</td><td>可樂秘膠囊</td><td>PHENOLPHTHALEIN、DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、DE…</td><td>1991/06/27</td></tr><tr><td>衛署藥輸字第010588號</td><td>肝得健注射劑</td><td>CYANOCOBALAMIN (VIT B12)、DEOXYCHOLIC ACID (DESOXYCHOLIC ACID…</td><td>1992/05/28</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

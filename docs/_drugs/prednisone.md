@@ -93,7 +93,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 | 衛署藥製字第042080號 | 育麗素軟膏 | PREDNISONE、CROTAMITON | 軟膏劑 | 濕疹或皮膚炎 |
 
 <details><summary><strong>已註銷</strong>（6 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第006887號</td><td>育麗素軟膏</td><td>PREDNISONE、CROTAMITON</td><td>1998/07/30</td></tr><tr><td>內衛藥製字第013051號</td><td>百力康軟膏</td><td>PREDNISONE</td><td>1996/08/15</td></tr><tr><td>衛署藥輸字第001597號</td><td>"普強" 去氫可體松</td><td>PREDNISONE</td><td>2016/05/31</td></tr><tr><td>衛部藥輸字第026256號</td><td>樂多特1毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026257號</td><td>樂多特2毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026258號</td><td>樂多特5毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第006887號</td><td>育麗素軟膏</td><td>CROTAMITON、PREDNISONE</td><td>1998/07/30</td></tr><tr><td>內衛藥製字第013051號</td><td>百力康軟膏</td><td>PREDNISONE</td><td>1996/08/15</td></tr><tr><td>衛署藥輸字第001597號</td><td>"普強" 去氫可體松</td><td>PREDNISONE</td><td>2016/05/31</td></tr><tr><td>衛部藥輸字第026256號</td><td>樂多特1毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026257號</td><td>樂多特2毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026258號</td><td>樂多特5毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

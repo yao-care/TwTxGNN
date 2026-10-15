@@ -104,10 +104,10 @@ Oteracil 是 S-1 中負責保護腸胃道的成分。它會抑制腸道黏膜中
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥輸字第025242號 | 愛斯萬膠囊25毫克 | GIMERACIL、TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM | 膠囊劑 | 1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期… |
-| 衛署藥輸字第025243號 | 愛斯萬膠囊20毫克 | GIMERACIL、TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM | 膠囊劑 | 1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期… |
-| 衛部藥製字第060480號 | "杏輝"剋伏膠囊25毫克 | TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM、GIMERACIL、WATER PURIFI… | 膠囊劑 | (一)胃癌：1、胃癌術後輔助性化療，本品用於罹患TNM STAGE II (排除TI)，IIIA或IIIB胃癌且接受過胃癌根除性手術之成年患者。2、本品適用於治療無法切除之晚期胃癌… |
-| 衛部藥製字第060482號 | "杏輝"剋伏膠囊20毫克 | WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )、… | 膠囊劑 | (一)胃癌：1、胃癌術後輔助性化療，本品用於罹患TNM STAGE II (排除TI)，IIIA或IIIB胃癌且接受過胃癌根除性手術之成年患者。2、本品適用於治療無法切除之晚期胃癌… |
+| 衛署藥輸字第025242號 | 愛斯萬膠囊25毫克 | TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM、GIMERACIL | 膠囊劑 | 1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期… |
+| 衛署藥輸字第025243號 | 愛斯萬膠囊20毫克 | TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM、GIMERACIL | 膠囊劑 | 1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期… |
+| 衛部藥製字第060480號 | "杏輝"剋伏膠囊25毫克 | TEGAFUR (FTORAFUR)、WATER PURIFIED ( EQ TO AQUEOUS PURIFIED O… | 膠囊劑 | (一)胃癌：1、胃癌術後輔助性化療，本品用於罹患TNM STAGE II (排除TI)，IIIA或IIIB胃癌且接受過胃癌根除性手術之成年患者。2、本品適用於治療無法切除之晚期胃癌… |
+| 衛部藥製字第060482號 | "杏輝"剋伏膠囊20毫克 | GIMERACIL、OTERACIL POTASSIUM、TEGAFUR (FTORAFUR)、WATER PURIFI… | 膠囊劑 | (一)胃癌：1、胃癌術後輔助性化療，本品用於罹患TNM STAGE II (排除TI)，IIIA或IIIB胃癌且接受過胃癌根除性手術之成年患者。2、本品適用於治療無法切除之晚期胃癌… |
 
 <!-- tfda-licenses:end -->
 

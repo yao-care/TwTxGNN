@@ -97,7 +97,7 @@ TxGNN 模型預測它可能對**惡性腎血管性高血壓 (Malignant Renovascu
 | 衛署藥製字第046742號 | 諾壓錠 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 錠劑 | 治療高血壓，此複方藥品不適合用於起始治療。 |
 | 衛署藥製字第056647號 | 紓心膠囊 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 膠囊劑 | 治療高血壓，此複方藥品不適合用於起始治療 |
 | 衛署藥製字第057325號 | 壓諾本錠 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 錠劑 | 治療高血壓，此複方藥品不適合用於起始治療。 |
-| 衛部藥製字第059395號 | 可得寧膜衣錠5/10毫克 | BENAZEPRIL HYDROCHLORIDE、AMLODIPINE BESYLATE | 膜衣錠 | 治療高血壓。此複方藥品不適合用於起始治療。 |
+| 衛部藥製字第059395號 | 可得寧膜衣錠5/10毫克 | AMLODIPINE BESYLATE、BENAZEPRIL HYDROCHLORIDE | 膜衣錠 | 治療高血壓。此複方藥品不適合用於起始治療。 |
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第019089號</td><td>汽巴欣膜衣錠5毫克</td><td>BENAZEPRIL HYDROCHLORIDE</td><td>2018/07/13</td></tr><tr><td>衛署藥輸字第019090號</td><td>汽巴欣膜衣錠１０公絲</td><td>BENAZEPRIL HYDROCHLORIDE</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第019091號</td><td>汽巴欣膜衣錠２０公絲</td><td>BENAZEPRIL HYDROCHLORIDE</td><td>2005/06/03</td></tr></tbody></table></details>

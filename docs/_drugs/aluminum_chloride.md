@@ -101,7 +101,7 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 | 衛署藥製字第043123號 | 克狐　止汗劑〝汎生〞 | 外用液劑 | 臺灣汎生製藥廠股份有限公司 | 2029/07/23 | 抗多汗。 |
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第009014號</td><td>純露糖漿</td><td>CHLORPHENIRAMINE MALEATE、POTASSIUM GUAIACOLSULFONATE、ALUMINU…</td><td>2023/07/24</td></tr><tr><td>衛署藥輸字第009331號</td><td>牙齦止血液</td><td>OXYQUINOLINE SULFATE、ALUMINUM CHLORIDE HYDRATED</td><td>1987/08/29</td></tr><tr><td>衛署藥輸字第009332號</td><td>牙齦收縮止血劑</td><td>OXYQUINOLINE SULFATE、LIDOCAINE、ALUMINUM CHLORIDE HYDRATED</td><td>1987/08/29</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第009014號</td><td>純露糖漿</td><td>CHLORPHENIRAMINE MALEATE、ALUMINUM CHLORIDE、POTASSIUM GUAIACO…</td><td>2023/07/24</td></tr><tr><td>衛署藥輸字第009331號</td><td>牙齦止血液</td><td>ALUMINUM CHLORIDE HYDRATED、OXYQUINOLINE SULFATE</td><td>1987/08/29</td></tr><tr><td>衛署藥輸字第009332號</td><td>牙齦收縮止血劑</td><td>ALUMINUM CHLORIDE HYDRATED、OXYQUINOLINE SULFATE、LIDOCAINE</td><td>1987/08/29</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

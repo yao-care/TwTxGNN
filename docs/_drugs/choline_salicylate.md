@@ -89,11 +89,11 @@ Choline salicylate 是非乙醯化的水楊酸鹽，主要透過抑制 COX 酶�
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第039009號 | 治膜炎凝膠 | CETALKONIUM CHLORIDE、CHOLINE SALICYLATE | 外用凝膠劑 | 發炎、疼痛、單純庖瘡 |
+| 衛署藥製字第039009號 | 治膜炎凝膠 | CHOLINE SALICYLATE、CETALKONIUM CHLORIDE | 外用凝膠劑 | 發炎、疼痛、單純庖瘡 |
 | 衛署藥製字第047620號 | 允消炎凝膠 | CHOLINE SALICYLATE、CETALKONIUM CHLORIDE | 外用凝膠劑 | 發炎、疼痛、單純&#30129;瘡。 |
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第008406號</td><td>炎可愈凝膠</td><td>CHOLINE SALICYLATE、CETALKONIUM CHLORIDE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第009882號</td><td>水楊酸膽素８０％</td><td>CHOLINE SALICYLATE</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第011187號</td><td>柳酸膽/</td><td>CHOLINE SALICYLATE</td><td>1999/09/22</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第008406號</td><td>炎可愈凝膠</td><td>CETALKONIUM CHLORIDE、CHOLINE SALICYLATE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第009882號</td><td>水楊酸膽素８０％</td><td>CHOLINE SALICYLATE</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第011187號</td><td>柳酸膽/</td><td>CHOLINE SALICYLATE</td><td>1999/09/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

@@ -115,7 +115,7 @@ TxGNN 模型預測它可能對**阻塞性肺疾病 (Obstructive Lung Disease)** 
 | 衛署藥製字第046902號 | 宜喘去吸入液 0.25 公絲/公撮 | 吸入用液劑 | 科進製藥科技股份有限公司 | 2025/01/13 | 慢性阻塞性支氣管炎、支氣管氣喘。 |
 | 衛署藥製字第048701號 | “晟德”益喘平吸入液 0.25 毫克/毫升 | 吸入用液劑 | 晟德大藥廠股份有限公司 | 2027/05/01 | 慢性阻塞性支氣管炎、支氣管氣喘。 |
 | 衛署藥製字第049595號 | 輔安喘吸入液 0.25 毫克/毫升 | 吸入用液劑 | 瑩碩生技醫藥股份有限公司 | 2028/08/13 | 慢性阻塞性支氣管炎、支氣管氣喘。 |
-| 衛署藥輸字第018863號 | 定喘樂單一劑量吸入液０．５毫克/２毫升 | 吸入用液劑 | 台灣百靈佳殷格翰股份有限公司 | 2026/11/05 | 慢性阻塞性支氣管炎、支氣管氣喘。 |
+| 衛署藥輸字第018863號 | 定喘樂單一劑量吸入液０．５毫克/２毫升 | 吸入用液劑 | 台灣百靈佳殷格翰股份有限公司 | 2031/11/05 | 慢性阻塞性支氣管炎、支氣管氣喘。 |
 | 衛部藥輸字第026375號 | 溴化伊普托品 | （粉） | 川聖貿易股份有限公司 | 2029/08/19 | 慢性阻塞性支氣管炎、支氣管氣喘 |
 | 衛部藥輸字第027316號 | 溴化依普托品 | （粉） | 新雙隆生技股份有限公司 | 2027/11/17 | 慢性阻塞性肺疾、支氣管氣喘 |
 | 衛部藥輸字第027346號 | 溴化依普托品 | （粉） | 新雙隆生技股份有限公司 | 2027/12/15 | 慢性阻塞性支氣管炎、支氣管氣喘 |
@@ -124,14 +124,14 @@ TxGNN 模型預測它可能對**阻塞性肺疾病 (Obstructive Lung Disease)** 
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第049369號 | “信東”倍舒美吸入液 | SALBUTAMOL (SULFATE)、IPRATROPIUM BROMIDE | 口腔吸入劑 | 用於治療阻塞性呼吸道疾病併發的可逆性支氣管痙攣，需要一種以上支氣管擴張劑治療者。 |
-| 衛署藥製字第055577號 | 〝晟德〞適氣寧吸入液 | IPRATROPIUM BROMIDE、SALBUTAMOL SULFATE(ALBUTEROL SULFATE) | 口腔吸入劑 | 用於治療阻塞性呼吸道疾病併發的可逆性支氣管痙攣，需要一種以上支氣管擴張劑治療者。 |
+| 衛署藥製字第049369號 | “信東”倍舒美吸入液 | IPRATROPIUM BROMIDE、SALBUTAMOL (SULFATE) | 口腔吸入劑 | 用於治療阻塞性呼吸道疾病併發的可逆性支氣管痙攣，需要一種以上支氣管擴張劑治療者。 |
+| 衛署藥製字第055577號 | 〝晟德〞適氣寧吸入液 | SALBUTAMOL SULFATE(ALBUTEROL SULFATE)、IPRATROPIUM BROMIDE | 口腔吸入劑 | 用於治療阻塞性呼吸道疾病併發的可逆性支氣管痙攣，需要一種以上支氣管擴張劑治療者。 |
 | 衛署藥輸字第023357號 | 冠喘衛單一劑量吸入液 | IPRATROPIUM BROMIDE、SALBUTAMOL | 口腔吸入劑 | 用於治療阻塞性呼吸道疾病併發的可逆性支氣管痙攣，需要一種以上支氣管擴張劑治療者。 |
-| 衛署藥輸字第023473號 | 備喘全定量噴霧液 "德國廠" | FENOTEROL HYDROBROMIDE、IPRATROPIUM BROMIDE | 噴霧劑 | 下列支氣管痙攣疾患之預防和治療:支氣管氣喘、阻塞性支氣管炎、慢性支氣管炎、氣腫和伴支氣管痙攣之肺支氣管障害。 |
-| 衛部藥製字第059891號 | 樂佐寧複方噴鼻液 | XYLOMETAZOLINE HCL、Ipratropium bromide (monohydrate) | 鼻用噴液劑 | 一般感冒引起的鼻塞、流鼻水症狀之治療。 |
+| 衛署藥輸字第023473號 | 備喘全定量噴霧液 "德國廠" | IPRATROPIUM BROMIDE、FENOTEROL HYDROBROMIDE | 噴霧劑 | 下列支氣管痙攣疾患之預防和治療:支氣管氣喘、阻塞性支氣管炎、慢性支氣管炎、氣腫和伴支氣管痙攣之肺支氣管障害。 |
+| 衛部藥製字第059891號 | 樂佐寧複方噴鼻液 | Ipratropium bromide (monohydrate)、XYLOMETAZOLINE HCL | 鼻用噴液劑 | 一般感冒引起的鼻塞、流鼻水症狀之治療。 |
 
 <details><summary><strong>已註銷</strong>（13 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第029201號</td><td>備喘全定量噴霧液</td><td>IPRATROPIUM BROMIDE、FENOTEROL HYDROBROMIDE</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第035504號</td><td>定喘樂定量噴霧液０．４公絲/公撮（溴化伊普托品）</td><td>IPRATROPIUM BROMIDE (ANHYDROUS)</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第036941號</td><td>定喘樂吸入液０．２５公絲/公撮（溴化伊普托品）</td><td>IPRATROPIUM BROMIDE (ANHYDROUS)</td><td>2010/02/08</td></tr><tr><td>衛署藥製字第044074號</td><td>冠喘衛定量噴霧液</td><td>SALBUTAMOL SULFATE(ALBUTEROL SULFATE)、IPRATROPIUM BROMIDE(IP…</td><td>2017/02/09</td></tr><tr><td>衛署藥製字第048365號</td><td>合氣舒 單一劑量吸入液</td><td>SALBUTAMOL (SULFATE)、IPRATROPIUM BROMIDE</td><td>2017/03/28</td></tr><tr><td>衛署藥輸字第009107號</td><td>安喘樂定量噴霧液</td><td>IPRATROPIUM BROMIDE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015291號</td><td>定喘樂吸入液０．０２５％</td><td>IPRATROPIUM BROMIDE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第020703號</td><td>益普芬口腔吸入劑</td><td>IPRATROPIUM BROMIDE、IPRATROPIUM BROMIDE、FENOTEROL HYDROBROMI…</td><td>2010/06/03</td></tr><tr><td>衛署藥輸字第022974號</td><td>抑洛喘吸入液〝岱比博〞</td><td>IPRATROPIUM BROMIDE(IPRATROPIUM BROMIDE ANHYDROUS mg)</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第023512號</td><td>宜克喘吸入液２５０微克／公撮</td><td>IPRATROPIUM BROMIDE</td><td>2021/12/08</td></tr><tr><td>衛署藥輸字第023614號</td><td>定喘樂２０微公克定量噴霧液</td><td>Ipratropium bromide (monohydrate)</td><td>2018/10/22</td></tr><tr><td>衛部藥製字第059642號</td><td>合氣舒單一劑量吸入液</td><td>IPRATROPIUM BROMIDE、SALBUTAMOL SULFATE(ALBUTEROL SULFATE)</td><td>2024/04/27</td></tr><tr><td>衛部藥輸字第026137號</td><td>歐治鼻雙效噴鼻液</td><td>Ipratropium bromide (monohydrate)、XYLOMETAZOLINE HCL</td><td>2025/04/07</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第029201號</td><td>備喘全定量噴霧液</td><td>IPRATROPIUM BROMIDE、FENOTEROL HYDROBROMIDE</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第035504號</td><td>定喘樂定量噴霧液０．４公絲/公撮（溴化伊普托品）</td><td>IPRATROPIUM BROMIDE (ANHYDROUS)</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第036941號</td><td>定喘樂吸入液０．２５公絲/公撮（溴化伊普托品）</td><td>IPRATROPIUM BROMIDE (ANHYDROUS)</td><td>2010/02/08</td></tr><tr><td>衛署藥製字第044074號</td><td>冠喘衛定量噴霧液</td><td>IPRATROPIUM BROMIDE(IPRATROPIUM BROMIDE ANHYDROUS mg)、SALBUT…</td><td>2017/02/09</td></tr><tr><td>衛署藥製字第048365號</td><td>合氣舒 單一劑量吸入液</td><td>IPRATROPIUM BROMIDE、SALBUTAMOL (SULFATE)</td><td>2017/03/28</td></tr><tr><td>衛署藥輸字第009107號</td><td>安喘樂定量噴霧液</td><td>IPRATROPIUM BROMIDE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015291號</td><td>定喘樂吸入液０．０２５％</td><td>IPRATROPIUM BROMIDE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第020703號</td><td>益普芬口腔吸入劑</td><td>FENOTEROL HYDROBROMIDE、IPRATROPIUM BROMIDE、IPRATROPIUM BROMI…</td><td>2010/06/03</td></tr><tr><td>衛署藥輸字第022974號</td><td>抑洛喘吸入液〝岱比博〞</td><td>IPRATROPIUM BROMIDE(IPRATROPIUM BROMIDE ANHYDROUS mg)</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第023512號</td><td>宜克喘吸入液２５０微克／公撮</td><td>IPRATROPIUM BROMIDE</td><td>2021/12/08</td></tr><tr><td>衛署藥輸字第023614號</td><td>定喘樂２０微公克定量噴霧液</td><td>Ipratropium bromide (monohydrate)</td><td>2018/10/22</td></tr><tr><td>衛部藥製字第059642號</td><td>合氣舒單一劑量吸入液</td><td>IPRATROPIUM BROMIDE、SALBUTAMOL SULFATE(ALBUTEROL SULFATE)</td><td>2024/04/27</td></tr><tr><td>衛部藥輸字第026137號</td><td>歐治鼻雙效噴鼻液</td><td>XYLOMETAZOLINE HCL、Ipratropium bromide (monohydrate)</td><td>2025/04/07</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

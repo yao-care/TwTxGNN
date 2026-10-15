@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**肺疾病及（或）缺氧所致的肺高壓 (p
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 15 張（有效單方 0／有效複方 4／已註銷 11） |
+| 許可證數 | 15 張（有效單方 0／有效複方 0／已註銷 15） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -76,19 +76,10 @@ TxGNN 模型預測它可能對**肺疾病及（或）缺氧所致的肺高壓 (p
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Aliskiren 的不重複許可證共 **15 張**：有效單方 0 張、有效複方 4 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Aliskiren 的不重複許可證共 **15 張**：有效單方 0 張、有效複方 0 張、已註銷 15 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
-
-| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
-|------|------|------|------|------|
-| 衛署藥輸字第025161號 | 絡舒利適150/25毫克膜衣錠 | HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、ALISKI… | 膜衣錠 | 高血壓，Co-Rasilez適用於無法有效以aliskiren或hydrochlorothiazide單一療法控制血壓的病患。 |
-| 衛署藥輸字第025162號 | 絡舒利適150/12.5毫克膜衣錠 | ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR… | 膜衣錠 | 高血壓，Co-Rasilez適用於無法有效以aliskiren或hydrochlorothiazide單一療法控制血壓的病患。 |
-| 衛署藥輸字第025163號 | 絡舒利適300/12.5毫克膜衣錠 | ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR… | 膜衣錠 | 高血壓，Co-Rasilez適用於無法有效以aliskiren或hydrochlorothiazide單一療法控制血壓的病患。 |
-| 衛署藥輸字第025164號 | 絡舒利適300/25毫克膜衣錠 | ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR… | 膜衣錠 | 高血壓，Co-Rasilez適用於無法有效以aliskiren或hydrochlorothiazide單一療法控制血壓的病患。 |
-
-<details><summary><strong>已註銷</strong>（11 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024883號</td><td>絡舒樂適膜衣錠 300 毫克</td><td>ALISKIREN HEMIFUMARATE</td><td>2025/06/11</td></tr><tr><td>衛署藥輸字第024884號</td><td>絡舒樂適膜衣錠 150 毫克</td><td>ALISKIREN HEMIFUMARATE</td><td>2025/06/11</td></tr><tr><td>衛署藥輸字第025700號</td><td>絡舒優適 150/5 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、ALISKIREN HEMIFUMARATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025701號</td><td>絡舒優適 150/10 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、ALISKIREN HEMIFUMARATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025702號</td><td>絡舒優適 300/5 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、ALISKIREN HEMIFUMARATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025703號</td><td>絡舒優適 300/10 毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、AMLODIPINE BESYLATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025944號</td><td>絡舒安適300/10/25 毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025945號</td><td>絡舒安適300/10/12.5 毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025946號</td><td>絡舒安適300/5/25 毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025947號</td><td>絡舒安適300/5/12.5 毫克膜衣錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、AMLODI…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025948號</td><td>絡舒安適150/5/12.5 毫克膜衣錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、AMLODI…</td><td>2017/03/01</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（15 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024883號</td><td>絡舒樂適膜衣錠 300 毫克</td><td>ALISKIREN HEMIFUMARATE</td><td>2025/06/11</td></tr><tr><td>衛署藥輸字第024884號</td><td>絡舒樂適膜衣錠 150 毫克</td><td>ALISKIREN HEMIFUMARATE</td><td>2025/06/11</td></tr><tr><td>衛署藥輸字第025161號</td><td>絡舒利適150/25毫克膜衣錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、ALISKI…</td><td></td></tr><tr><td>衛署藥輸字第025162號</td><td>絡舒利適150/12.5毫克膜衣錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、ALISKI…</td><td></td></tr><tr><td>衛署藥輸字第025163號</td><td>絡舒利適300/12.5毫克膜衣錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、ALISKI…</td><td></td></tr><tr><td>衛署藥輸字第025164號</td><td>絡舒利適300/25毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR…</td><td></td></tr><tr><td>衛署藥輸字第025700號</td><td>絡舒優適 150/5 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、ALISKIREN HEMIFUMARATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025701號</td><td>絡舒優適 150/10 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、ALISKIREN HEMIFUMARATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025702號</td><td>絡舒優適 300/5 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、ALISKIREN HEMIFUMARATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025703號</td><td>絡舒優適 300/10 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、ALISKIREN HEMIFUMARATE</td><td>2017/03/20</td></tr><tr><td>衛署藥輸字第025944號</td><td>絡舒安適300/10/25 毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDR…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025945號</td><td>絡舒安適300/10/12.5 毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、AMLODIPINE BESYLATE、HYDROCHLOROTHIAZI…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025946號</td><td>絡舒安適300/5/25 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCH…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025947號</td><td>絡舒安適300/5/12.5 毫克膜衣錠</td><td>ALISKIREN HEMIFUMARATE、AMLODIPINE BESYLATE、HYDROCHLOROTHIAZI…</td><td>2017/03/01</td></tr><tr><td>衛署藥輸字第025948號</td><td>絡舒安適150/5/12.5 毫克膜衣錠</td><td>AMLODIPINE BESYLATE、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCH…</td><td>2017/03/01</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

@@ -80,7 +80,7 @@ TxGNN 模型預測它可能對**先天性凝血酶原缺乏症 (Congenital Proth
 依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Vasopressin 的不重複許可證共 **4 張**：有效單方 0 張、有效複方 0 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <details><summary><strong>已註銷</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第009756號</td><td>必壓生５單位/公撮注射劑</td><td>VASOPRESSIN TANNATE</td><td>1997/12/05</td></tr><tr><td>衛署藥輸字第009774號</td><td>利度痛注射液３％</td><td>VASOPRESSIN、LIDOCAINE HCL、L-NOREPINEPHRINE</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第013329號</td><td>紐利度痛注射劑</td><td>VASOPRESSIN、LIDOCAINE HCL、L-NOREPINEPHRINE</td><td>1994/11/01</td></tr><tr><td>衛署藥輸字第020506號</td><td>８－氨胍戊酸血管加壓素注射用粉劑</td><td>VASOPRESSIN</td><td>2010/08/24</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第009756號</td><td>必壓生５單位/公撮注射劑</td><td>VASOPRESSIN TANNATE</td><td>1997/12/05</td></tr><tr><td>衛署藥輸字第009774號</td><td>利度痛注射液３％</td><td>L-NOREPINEPHRINE、LIDOCAINE HCL、VASOPRESSIN</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第013329號</td><td>紐利度痛注射劑</td><td>L-NOREPINEPHRINE、LIDOCAINE HCL、VASOPRESSIN</td><td>1994/11/01</td></tr><tr><td>衛署藥輸字第020506號</td><td>８－氨胍戊酸血管加壓素注射用粉劑</td><td>VASOPRESSIN</td><td>2010/08/24</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

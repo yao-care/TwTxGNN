@@ -1,19 +1,20 @@
 drug_name,evidence_level,indication_count,parent_category,url
-Acebutolol,L4,2,中證據等級 (L3-L4),/drugs/acebutolol/
-Acetazolamide,L2,10,高證據等級 (L1-L2),/drugs/acetazolamide/
-Acitretin,L3,4,中證據等級 (L3-L4),/drugs/acitretin/
-Acyclovir,L4,10,中證據等級 (L3-L4),/drugs/acyclovir/
-Alfacalcidol,L3,5,中證據等級 (L3-L4),/drugs/alfacalcidol/
-Alirocumab,L3,10,中證據等級 (L3-L4),/drugs/alirocumab/
-Allopurinol,L3,10,中證據等級 (L3-L4),/drugs/allopurinol/
-Alpelisib,L4,10,中證據等級 (L3-L4),/drugs/alpelisib/
-Alpha-Tocopherol Acetate,L2,10,高證據等級 (L1-L2),/drugs/alpha-tocopherol_acetate/
+Acebutolol,L5,2,僅模型預測 (L5),/drugs/acebutolol/
+Acetazolamide,L5,10,僅模型預測 (L5),/drugs/acetazolamide/
+Acitretin,L4,4,中證據等級 (L3-L4),/drugs/acitretin/
+Acyclovir,L2,10,高證據等級 (L1-L2),/drugs/acyclovir/
+Alfacalcidol,L5,5,僅模型預測 (L5),/drugs/alfacalcidol/
+Alirocumab,L5,10,僅模型預測 (L5),/drugs/alirocumab/
+Aliskiren,L4,7,中證據等級 (L3-L4),/drugs/aliskiren/
+Allopurinol,L5,10,僅模型預測 (L5),/drugs/allopurinol/
+Alpelisib,L5,10,僅模型預測 (L5),/drugs/alpelisib/
+Alpha-Tocopherol Acetate,L5,10,僅模型預測 (L5),/drugs/alpha-tocopherol_acetate/
 Alpha-Tocopherol Succinate,L5,10,僅模型預測 (L5),/drugs/alpha-tocopherol_succinate/
-Alprostadil,L1,10,高證據等級 (L1-L2),/drugs/alprostadil/
-Aluminum Chloride,L3,10,中證據等級 (L3-L4),/drugs/aluminum_chloride/
-Aluminum Hydroxide,L3,4,中證據等級 (L3-L4),/drugs/aluminum_hydroxide/
-Aluminum Oxide,L4,10,中證據等級 (L3-L4),/drugs/aluminum_oxide/
-Amcinonide,L3,8,中證據等級 (L3-L4),/drugs/amcinonide/
+Alprostadil,L3,10,中證據等級 (L3-L4),/drugs/alprostadil/
+Aluminum Chloride,L5,10,僅模型預測 (L5),/drugs/aluminum_chloride/
+Aluminum Hydroxide,L4,4,中證據等級 (L3-L4),/drugs/aluminum_hydroxide/
+Aluminum Oxide,L5,10,僅模型預測 (L5),/drugs/aluminum_oxide/
+Amcinonide,L2,8,高證據等級 (L1-L2),/drugs/amcinonide/
 Amorolfine,L5,10,僅模型預測 (L5),/drugs/amorolfine/
 Amylmetacresol,L5,10,僅模型預測 (L5),/drugs/amylmetacresol/
 Anastrozole,L1,6,高證據等級 (L1-L2),/drugs/anastrozole/
@@ -21,111 +22,121 @@ Anthralin,L3,10,中證據等級 (L3-L4),/drugs/anthralin/
 Ascorbyl Phosphate,L5,10,僅模型預測 (L5),/drugs/ascorbyl_phosphate/
 Asfotase Alfa,L5,10,僅模型預測 (L5),/drugs/asfotase_alfa/
 Aspirin,L5,0,僅模型預測 (L5),/drugs/aspirin/
-Atezolizumab,L2,10,高證據等級 (L1-L2),/drugs/atezolizumab/
+Atezolizumab,L4,10,中證據等級 (L3-L4),/drugs/atezolizumab/
 Atracurium Besylate,L5,10,僅模型預測 (L5),/drugs/atracurium_besylate/
 Avelumab,L5,10,僅模型預測 (L5),/drugs/avelumab/
-Axitinib,L3,10,中證據等級 (L3-L4),/drugs/axitinib/
-Belimumab,L3,6,中證據等級 (L3-L4),/drugs/belimumab/
+Axitinib,L5,10,僅模型預測 (L5),/drugs/axitinib/
+Balsalazide,L5,10,僅模型預測 (L5),/drugs/balsalazide/
+Belimumab,L5,6,僅模型預測 (L5),/drugs/belimumab/
 Bempedoic Acid,L3,10,中證據等級 (L3-L4),/drugs/bempedoic_acid/
 Benazepril,L5,5,僅模型預測 (L5),/drugs/benazepril/
-Benzylpenicillin,L3,7,中證據等級 (L3-L4),/drugs/benzylpenicillin/
+Benzylpenicillin,L5,7,僅模型預測 (L5),/drugs/benzylpenicillin/
 Berberine,L5,10,僅模型預測 (L5),/drugs/berberine/
-Betamethasone,L1,10,高證據等級 (L1-L2),/drugs/betamethasone/
+Betamethasone,L2,10,高證據等級 (L1-L2),/drugs/betamethasone/
 Bevacizumab,L5,10,僅模型預測 (L5),/drugs/bevacizumab/
-Brivaracetam,L3,10,中證據等級 (L3-L4),/drugs/brivaracetam/
-Brodalumab,L4,10,中證據等級 (L3-L4),/drugs/brodalumab/
-Buprenorphine,L4,6,中證據等級 (L3-L4),/drugs/buprenorphine/
-Busulfan,L1,10,高證據等級 (L1-L2),/drugs/busulfan/
-Butenafine,L3,5,中證據等級 (L3-L4),/drugs/butenafine/
-Cabazitaxel,L2,10,高證據等級 (L1-L2),/drugs/cabazitaxel/
+Brivaracetam,L4,10,中證據等級 (L3-L4),/drugs/brivaracetam/
+Brodalumab,L5,10,僅模型預測 (L5),/drugs/brodalumab/
+Buprenorphine,L5,6,僅模型預測 (L5),/drugs/buprenorphine/
+Busulfan,L2,10,高證據等級 (L1-L2),/drugs/busulfan/
+Butenafine,L4,5,中證據等級 (L3-L4),/drugs/butenafine/
+Cabazitaxel,L4,10,中證據等級 (L3-L4),/drugs/cabazitaxel/
 Camphor,L4,10,中證據等級 (L3-L4),/drugs/camphor/
 Caplacizumab,L5,10,僅模型預測 (L5),/drugs/caplacizumab/
 Carbenoxolone,L5,7,僅模型預測 (L5),/drugs/carbenoxolone/
-Carboplatin,L2,10,高證據等級 (L1-L2),/drugs/carboplatin/
-Carisoprodol,L5,1,僅模型預測 (L5),/drugs/carisoprodol/
+Carboplatin,L1,10,高證據等級 (L1-L2),/drugs/carboplatin/
+Carisoprodol,L4,1,中證據等級 (L3-L4),/drugs/carisoprodol/
 Caspofungin,L5,1,僅模型預測 (L5),/drugs/caspofungin/
-Cefmetazole,L5,9,僅模型預測 (L5),/drugs/cefmetazole/
-Cefoperazone,L2,10,高證據等級 (L1-L2),/drugs/cefoperazone/
+Cefmetazole,L4,9,中證據等級 (L3-L4),/drugs/cefmetazole/
+Cefoperazone,L5,10,僅模型預測 (L5),/drugs/cefoperazone/
 Cephalexin,L5,0,僅模型預測 (L5),/drugs/cephalexin/
 Cerliponase Alfa,L5,10,僅模型預測 (L5),/drugs/cerliponase_alfa/
+Cetuximab,L5,10,僅模型預測 (L5),/drugs/cetuximab/
 Chloral Hydrate,L5,0,僅模型預測 (L5),/drugs/chloral_hydrate/
 Chlorobutanol,L5,10,僅模型預測 (L5),/drugs/chlorobutanol/
 Cholic Acid,L4,10,中證據等級 (L3-L4),/drugs/cholic_acid/
-Choline Salicylate,L5,10,僅模型預測 (L5),/drugs/choline_salicylate/
-Cisatracurium,L4,10,中證據等級 (L3-L4),/drugs/cisatracurium/
+Choline Salicylate,L3,10,中證據等級 (L3-L4),/drugs/choline_salicylate/
+Cisatracurium,L5,10,僅模型預測 (L5),/drugs/cisatracurium/
 Cladribine,L5,7,僅模型預測 (L5),/drugs/cladribine/
 Clobetasone,L5,10,僅模型預測 (L5),/drugs/clobetasone/
 Clomipramine,L1,10,高證據等級 (L1-L2),/drugs/clomipramine/
 Cobicistat,L5,3,僅模型預測 (L5),/drugs/cobicistat/
+Cobimetinib,L5,10,僅模型預測 (L5),/drugs/cobimetinib/
 Conjugated Estrogens,L3,10,中證據等級 (L3-L4),/drugs/conjugated_estrogens/
-Cortisone Acetate,L3,10,中證據等級 (L3-L4),/drugs/cortisone_acetate/
+Cortisone Acetate,L4,10,中證據等級 (L3-L4),/drugs/cortisone_acetate/
 Cromoglicic Acid,L5,10,僅模型預測 (L5),/drugs/cromoglicic_acid/
-Cyclandelate,L1,10,高證據等級 (L1-L2),/drugs/cyclandelate/
+Cyclandelate,L2,10,高證據等級 (L1-L2),/drugs/cyclandelate/
 Cyclizine,L4,9,中證據等級 (L3-L4),/drugs/cyclizine/
-Cytarabine,L3,9,中證據等級 (L3-L4),/drugs/cytarabine/
+Cytarabine,L4,9,中證據等級 (L3-L4),/drugs/cytarabine/
 Daptomycin,L4,10,中證據等級 (L3-L4),/drugs/daptomycin/
 Dehydrocholic Acid,L5,10,僅模型預測 (L5),/drugs/dehydrocholic_acid/
 Denosumab,L5,2,僅模型預測 (L5),/drugs/denosumab/
-Deoxycholic Acid,L5,3,僅模型預測 (L5),/drugs/deoxycholic_acid/
+Deoxycholic Acid,L4,3,中證據等級 (L3-L4),/drugs/deoxycholic_acid/
 Desogestrel,L3,10,中證據等級 (L3-L4),/drugs/desogestrel/
 Dexamethasone,L2,10,高證據等級 (L1-L2),/drugs/dexamethasone/
+Dexketoprofen,L1,10,高證據等級 (L1-L2),/drugs/dexketoprofen/
 Diosmin,L5,1,僅模型預測 (L5),/drugs/diosmin/
-Dipyridamole,L5,10,僅模型預測 (L5),/drugs/dipyridamole/
+Dipyridamole,L4,10,中證據等級 (L3-L4),/drugs/dipyridamole/
 Disopyramide,L5,10,僅模型預測 (L5),/drugs/disopyramide/
-Dl-Alpha-Tocopherol,L4,10,中證據等級 (L3-L4),/drugs/dl-alpha-tocopherol/
+Dl-Alpha-Tocopherol,L5,10,僅模型預測 (L5),/drugs/dl-alpha-tocopherol/
 Docetaxel,L1,10,高證據等級 (L1-L2),/drugs/docetaxel/
-Dorzolamide,L3,10,中證據等級 (L3-L4),/drugs/dorzolamide/
+Doripenem,L5,5,僅模型預測 (L5),/drugs/doripenem/
+Dorzolamide,L5,10,僅模型預測 (L5),/drugs/dorzolamide/
 Doxorubicin,L1,10,高證據等級 (L1-L2),/drugs/doxorubicin/
-Dronedarone,L2,10,高證據等級 (L1-L2),/drugs/dronedarone/
-Dupilumab,L3,10,中證據等級 (L3-L4),/drugs/dupilumab/
-Durvalumab,L3,10,中證據等級 (L3-L4),/drugs/durvalumab/
+Dronedarone,L4,10,中證據等級 (L3-L4),/drugs/dronedarone/
+Dupilumab,L4,10,中證據等級 (L3-L4),/drugs/dupilumab/
+Durvalumab,L4,10,中證據等級 (L3-L4),/drugs/durvalumab/
+Eltrombopag,L3,1,中證據等級 (L3-L4),/drugs/eltrombopag/
 Emedastine,L2,2,高證據等級 (L1-L2),/drugs/emedastine/
-Enfortumab Vedotin,L3,10,中證據等級 (L3-L4),/drugs/enfortumab_vedotin/
+Enfortumab Vedotin,L5,10,僅模型預測 (L5),/drugs/enfortumab_vedotin/
 Erdafitinib,L5,10,僅模型預測 (L5),/drugs/erdafitinib/
-Ergometrine,L3,10,中證據等級 (L3-L4),/drugs/ergometrine/
-Etanercept,L5,6,僅模型預測 (L5),/drugs/etanercept/
+Ergometrine,L4,10,中證據等級 (L3-L4),/drugs/ergometrine/
+Etanercept,L4,6,中證據等級 (L3-L4),/drugs/etanercept/
 Ethynodiol Diacetate,L3,6,中證據等級 (L3-L4),/drugs/ethynodiol_diacetate/
 Everolimus,L2,10,高證據等級 (L1-L2),/drugs/everolimus/
-Famotidine,L2,10,高證據等級 (L1-L2),/drugs/famotidine/
+Famotidine,L3,10,中證據等級 (L3-L4),/drugs/famotidine/
 Felodipine,L4,7,中證據等級 (L3-L4),/drugs/felodipine/
-Fenoprofen,L2,10,高證據等級 (L1-L2),/drugs/fenoprofen/
+Fenoprofen,L3,10,中證據等級 (L3-L4),/drugs/fenoprofen/
 Fenoterol,L5,8,僅模型預測 (L5),/drugs/fenoterol/
 Ferrous Gluconate,L5,5,僅模型預測 (L5),/drugs/ferrous_gluconate/
 Fidaxomicin,L5,10,僅模型預測 (L5),/drugs/fidaxomicin/
 Flucloxacillin,L4,10,中證據等級 (L3-L4),/drugs/flucloxacillin/
 Fludarabine,L3,10,中證據等級 (L3-L4),/drugs/fludarabine/
-Flunitrazepam,L5,10,僅模型預測 (L5),/drugs/flunitrazepam/
+Flunitrazepam,L3,10,中證據等級 (L3-L4),/drugs/flunitrazepam/
 Fluorescein,L5,10,僅模型預測 (L5),/drugs/fluorescein/
 Fluorouracil,L5,10,僅模型預測 (L5),/drugs/fluorouracil/
-Fluticasone,L4,10,中證據等級 (L3-L4),/drugs/fluticasone/
-Fosfomycin,L5,10,僅模型預測 (L5),/drugs/fosfomycin/
-Fulvestrant,L5,10,僅模型預測 (L5),/drugs/fulvestrant/
+Fluphenazine,L5,10,僅模型預測 (L5),/drugs/fluphenazine/
+Fluticasone,L5,10,僅模型預測 (L5),/drugs/fluticasone/
+Fosfomycin,L2,10,高證據等級 (L1-L2),/drugs/fosfomycin/
+Fulvestrant,L4,10,中證據等級 (L3-L4),/drugs/fulvestrant/
+Gabexate,L5,3,僅模型預測 (L5),/drugs/gabexate/
+Gadoxetic Acid,L5,10,僅模型預測 (L5),/drugs/gadoxetic_acid/
 Gefitinib,L5,10,僅模型預測 (L5),/drugs/gefitinib/
-Gemcitabine,L2,10,高證據等級 (L1-L2),/drugs/gemcitabine/
+Gemcitabine,L1,10,高證據等級 (L1-L2),/drugs/gemcitabine/
 Gemfibrozil,L4,10,中證據等級 (L3-L4),/drugs/gemfibrozil/
 Glatiramer,L5,10,僅模型預測 (L5),/drugs/glatiramer/
-Glycerin,L4,10,中證據等級 (L3-L4),/drugs/glycerin/
+Glycerin,L5,10,僅模型預測 (L5),/drugs/glycerin/
 Glycol Salicylate,L5,10,僅模型預測 (L5),/drugs/glycol_salicylate/
 Griseofulvin,L5,5,僅模型預測 (L5),/drugs/griseofulvin/
+Guaiacol,L5,2,僅模型預測 (L5),/drugs/guaiacol/
 Guselkumab,L5,10,僅模型預測 (L5),/drugs/guselkumab/
-Hesperidin,L4,10,中證據等級 (L3-L4),/drugs/hesperidin/
-Hexachlorophene,L3,10,中證據等級 (L3-L4),/drugs/hexachlorophene/
-Homatropine Methylbromide,L5,2,僅模型預測 (L5),/drugs/homatropine_methylbromide/
-Human Immunoglobulin G,L3,3,中證據等級 (L3-L4),/drugs/human_immunoglobulin_g/
-Hyaluronic Acid,L1,10,高證據等級 (L1-L2),/drugs/hyaluronic_acid/
-Hydrocortisone,L1,10,高證據等級 (L1-L2),/drugs/hydrocortisone/
+Hesperidin,L5,10,僅模型預測 (L5),/drugs/hesperidin/
+Hexachlorophene,L5,10,僅模型預測 (L5),/drugs/hexachlorophene/
+Homatropine Methylbromide,L4,2,中證據等級 (L3-L4),/drugs/homatropine_methylbromide/
+Human Immunoglobulin G,L5,3,僅模型預測 (L5),/drugs/human_immunoglobulin_g/
+Hyaluronic Acid,L2,10,高證據等級 (L1-L2),/drugs/hyaluronic_acid/
+Hydrocortisone,L3,10,中證據等級 (L3-L4),/drugs/hydrocortisone/
 Hydroquinone,L4,4,中證據等級 (L3-L4),/drugs/hydroquinone/
-Hydroxyprogesterone Caproate,L2,10,高證據等級 (L1-L2),/drugs/hydroxyprogesterone_caproate/
-Hydroxyurea,L2,10,高證據等級 (L1-L2),/drugs/hydroxyurea/
+Hydroxyprogesterone Caproate,L4,10,中證據等級 (L3-L4),/drugs/hydroxyprogesterone_caproate/
+Hydroxyurea,L4,10,中證據等級 (L3-L4),/drugs/hydroxyurea/
 Hymecromone,L5,10,僅模型預測 (L5),/drugs/hymecromone/
 Ibuprofen,L5,7,僅模型預測 (L5),/drugs/ibuprofen/
 Icatibant,L1,7,高證據等級 (L1-L2),/drugs/icatibant/
-Imatinib,L4,10,中證據等級 (L3-L4),/drugs/imatinib/
+Imatinib,L5,10,僅模型預測 (L5),/drugs/imatinib/
 Inclisiran,L5,10,僅模型預測 (L5),/drugs/inclisiran/
-Indacaterol,L1,10,高證據等級 (L1-L2),/drugs/indacaterol/
-Inositol,L3,10,中證據等級 (L3-L4),/drugs/inositol/
+Indacaterol,L5,10,僅模型預測 (L5),/drugs/indacaterol/
+Inositol,L5,10,僅模型預測 (L5),/drugs/inositol/
 Insulin Lispro,L5,9,僅模型預測 (L5),/drugs/insulin_lispro/
-Interferon Beta-1B,L3,2,中證據等級 (L3-L4),/drugs/interferon_beta-1b/
+Interferon Beta-1B,L5,2,僅模型預測 (L5),/drugs/interferon_beta-1b/
 Iodixanol,L5,3,僅模型預測 (L5),/drugs/iodixanol/
 Iohexol,L5,10,僅模型預測 (L5),/drugs/iohexol/
 Iopromide,L5,10,僅模型預測 (L5),/drugs/iopromide/
@@ -134,77 +145,84 @@ Ipilimumab,L5,2,僅模型預測 (L5),/drugs/ipilimumab/
 Ipratropium,L1,10,高證據等級 (L1-L2),/drugs/ipratropium/
 Irbesartan,L5,4,僅模型預測 (L5),/drugs/irbesartan/
 Isoleucine,L5,1,僅模型預測 (L5),/drugs/isoleucine/
-Isosorbide Dinitrate,L2,10,高證據等級 (L1-L2),/drugs/isosorbide_dinitrate/
+Isosorbide Dinitrate,L3,10,中證據等級 (L3-L4),/drugs/isosorbide_dinitrate/
 Isosorbide Mononitrate,L5,10,僅模型預測 (L5),/drugs/isosorbide_mononitrate/
 Ivermectin,L5,10,僅模型預測 (L5),/drugs/ivermectin/
 Lacosamide,L3,10,中證據等級 (L3-L4),/drugs/lacosamide/
 Lactic Acid,L5,10,僅模型預測 (L5),/drugs/lactic_acid/
-Larotrectinib,L3,10,中證據等級 (L3-L4),/drugs/larotrectinib/
+Larotrectinib,L4,10,中證據等級 (L3-L4),/drugs/larotrectinib/
 Leflunomide,L5,2,僅模型預測 (L5),/drugs/leflunomide/
+Lenvatinib,L3,10,中證據等級 (L3-L4),/drugs/lenvatinib/
 Letrozole,L1,10,高證據等級 (L1-L2),/drugs/letrozole/
 Levamisole,L5,3,僅模型預測 (L5),/drugs/levamisole/
 Lidocaine,L5,10,僅模型預測 (L5),/drugs/lidocaine/
-Lornoxicam,L2,10,高證據等級 (L1-L2),/drugs/lornoxicam/
-Loteprednol Etabonate,L3,10,中證據等級 (L3-L4),/drugs/loteprednol_etabonate/
+Lorcaserin,L5,4,僅模型預測 (L5),/drugs/lorcaserin/
+Lornoxicam,L4,10,中證據等級 (L3-L4),/drugs/lornoxicam/
+Loteprednol Etabonate,L5,10,僅模型預測 (L5),/drugs/loteprednol_etabonate/
 Lutetium Lu 177 Dotatate,L5,10,僅模型預測 (L5),/drugs/lutetium_lu_177_dotatate/
 Magnesium Sulfate,L1,10,高證據等級 (L1-L2),/drugs/magnesium_sulfate/
-Mannitol,L3,10,中證據等級 (L3-L4),/drugs/mannitol/
+Mannitol,L5,10,僅模型預測 (L5),/drugs/mannitol/
 Maraviroc,L5,10,僅模型預測 (L5),/drugs/maraviroc/
 Methionine,L5,10,僅模型預測 (L5),/drugs/methionine/
 Methocarbamol,L5,10,僅模型預測 (L5),/drugs/methocarbamol/
 Methylprednisolone,L3,10,中證據等級 (L3-L4),/drugs/methylprednisolone/
-Methylprednisone,L3,10,中證據等級 (L3-L4),/drugs/methylprednisone/
-Metoprolol,L2,10,高證據等級 (L1-L2),/drugs/metoprolol/
-Mexiletine,L5,10,僅模型預測 (L5),/drugs/mexiletine/
-Milrinone,L3,10,中證據等級 (L3-L4),/drugs/milrinone/
+Methylprednisone,L5,10,僅模型預測 (L5),/drugs/methylprednisone/
+Metoprolol,L5,10,僅模型預測 (L5),/drugs/metoprolol/
+Mexiletine,L3,10,中證據等級 (L3-L4),/drugs/mexiletine/
+Milrinone,L5,10,僅模型預測 (L5),/drugs/milrinone/
 Minoxidil,L4,3,中證據等級 (L3-L4),/drugs/minoxidil/
-Moclobemide,L2,2,高證據等級 (L1-L2),/drugs/moclobemide/
-Mycophenolate Mofetil,L3,10,中證據等級 (L3-L4),/drugs/mycophenolate_mofetil/
-Naftifine,L1,8,高證據等級 (L1-L2),/drugs/naftifine/
+Mitiglinide,L5,1,僅模型預測 (L5),/drugs/mitiglinide/
+Mitomycin,L5,10,僅模型預測 (L5),/drugs/mitomycin/
+Moclobemide,L3,2,中證據等級 (L3-L4),/drugs/moclobemide/
+Mycophenolate Mofetil,L2,10,高證據等級 (L1-L2),/drugs/mycophenolate_mofetil/
+Naftifine,L3,8,中證據等級 (L3-L4),/drugs/naftifine/
 Naphazoline,L5,10,僅模型預測 (L5),/drugs/naphazoline/
 Naproxen,L5,4,僅模型預測 (L5),/drugs/naproxen/
-Nebivolol,L3,5,中證據等級 (L3-L4),/drugs/nebivolol/
+Nebivolol,L5,5,僅模型預測 (L5),/drugs/nebivolol/
 Nefopam,L5,10,僅模型預測 (L5),/drugs/nefopam/
-Nepafenac,L1,10,高證據等級 (L1-L2),/drugs/nepafenac/
-Niraparib,L5,10,僅模型預測 (L5),/drugs/niraparib/
+Nepafenac,L2,10,高證據等級 (L1-L2),/drugs/nepafenac/
+Niraparib,L3,10,中證據等級 (L3-L4),/drugs/niraparib/
 Nitrofurantoin,L5,10,僅模型預測 (L5),/drugs/nitrofurantoin/
 Nitrous Oxide,L4,10,中證據等級 (L3-L4),/drugs/nitrous_oxide/
 Nitroxoline,L5,10,僅模型預測 (L5),/drugs/nitroxoline/
 Norethindrone Enanthate,L5,10,僅模型預測 (L5),/drugs/norethindrone_enanthate/
-Nystatin,L4,10,中證據等級 (L3-L4),/drugs/nystatin/
-Omalizumab,L2,10,高證據等級 (L1-L2),/drugs/omalizumab/
+Nystatin,L3,10,中證據等級 (L3-L4),/drugs/nystatin/
+Omalizumab,L4,10,中證據等級 (L3-L4),/drugs/omalizumab/
 Oteracil,L2,10,高證據等級 (L1-L2),/drugs/oteracil/
-Ouabain,L4,10,中證據等級 (L3-L4),/drugs/ouabain/
+Ouabain,L5,10,僅模型預測 (L5),/drugs/ouabain/
 Oxybutynin,L5,3,僅模型預測 (L5),/drugs/oxybutynin/
-Oxytetracycline,L2,10,高證據等級 (L1-L2),/drugs/oxytetracycline/
+Oxytetracycline,L5,10,僅模型預測 (L5),/drugs/oxytetracycline/
 Paclitaxel,L1,10,高證據等級 (L1-L2),/drugs/paclitaxel/
 Palbociclib,L5,10,僅模型預測 (L5),/drugs/palbociclib/
 Pancrelipase,L5,10,僅模型預測 (L5),/drugs/pancrelipase/
-Pemetrexed,L1,10,高證據等級 (L1-L2),/drugs/pemetrexed/
+Pefloxacin,L5,10,僅模型預測 (L5),/drugs/pefloxacin/
+Pemetrexed,L3,10,中證據等級 (L3-L4),/drugs/pemetrexed/
 Pemigatinib,L5,10,僅模型預測 (L5),/drugs/pemigatinib/
 Penciclovir,L5,10,僅模型預測 (L5),/drugs/penciclovir/
 Pentosan Polysulfate,L5,3,僅模型預測 (L5),/drugs/pentosan_polysulfate/
 Pentoxifylline,L5,0,僅模型預測 (L5),/drugs/pentoxifylline/
-Peppermint Oil,L3,10,中證據等級 (L3-L4),/drugs/peppermint_oil/
-Pexidartinib,L3,10,中證據等級 (L3-L4),/drugs/pexidartinib/
-Pimozide,L3,10,中證據等級 (L3-L4),/drugs/pimozide/
-Pipemidic Acid,L5,10,僅模型預測 (L5),/drugs/pipemidic_acid/
-Pitavastatin,L3,10,中證據等級 (L3-L4),/drugs/pitavastatin/
-Pitolisant,L3,3,中證據等級 (L3-L4),/drugs/pitolisant/
+Peppermint Oil,L5,10,僅模型預測 (L5),/drugs/peppermint_oil/
+Perindopril,L4,5,中證據等級 (L3-L4),/drugs/perindopril/
+Pexidartinib,L4,10,中證據等級 (L3-L4),/drugs/pexidartinib/
+Pimozide,L4,10,中證據等級 (L3-L4),/drugs/pimozide/
+Pipemidic Acid,L4,10,中證據等級 (L3-L4),/drugs/pipemidic_acid/
+Pitavastatin,L4,10,中證據等級 (L3-L4),/drugs/pitavastatin/
+Pitolisant,L4,3,中證據等級 (L3-L4),/drugs/pitolisant/
 Polyethylene Glycol,L5,1,僅模型預測 (L5),/drugs/polyethylene_glycol/
 Polyethylene Glycol 400,L5,2,僅模型預測 (L5),/drugs/polyethylene_glycol_400/
-Polymyxin B,L3,3,中證據等級 (L3-L4),/drugs/polymyxin_b/
+Polymyxin B,L4,3,中證據等級 (L3-L4),/drugs/polymyxin_b/
 Polysorbate 80,L5,1,僅模型預測 (L5),/drugs/polysorbate_80/
-Potassium Iodide,L3,2,中證據等級 (L3-L4),/drugs/potassium_iodide/
+Posaconazole,L4,1,中證據等級 (L3-L4),/drugs/posaconazole/
+Potassium Iodide,L4,2,中證據等級 (L3-L4),/drugs/potassium_iodide/
 Povidone,L5,1,僅模型預測 (L5),/drugs/povidone/
-Pralatrexate,L4,10,中證據等級 (L3-L4),/drugs/pralatrexate/
-Prasugrel,L4,10,中證據等級 (L3-L4),/drugs/prasugrel/
-Pravastatin,L2,9,高證據等級 (L1-L2),/drugs/pravastatin/
-Prednisolone,L3,10,中證據等級 (L3-L4),/drugs/prednisolone/
-Prednisolone Acetate,L4,10,中證據等級 (L3-L4),/drugs/prednisolone_acetate/
+Pralatrexate,L3,10,中證據等級 (L3-L4),/drugs/pralatrexate/
+Prasugrel,L5,10,僅模型預測 (L5),/drugs/prasugrel/
+Pravastatin,L4,9,中證據等級 (L3-L4),/drugs/pravastatin/
+Prednisolone,L2,10,高證據等級 (L1-L2),/drugs/prednisolone/
+Prednisolone Acetate,L5,10,僅模型預測 (L5),/drugs/prednisolone_acetate/
 Prednisone,L2,10,高證據等級 (L1-L2),/drugs/prednisone/
 Prilocaine,L3,10,中證據等級 (L3-L4),/drugs/prilocaine/
-Probenecid,L4,3,中證據等級 (L3-L4),/drugs/probenecid/
+Probenecid,L5,3,僅模型預測 (L5),/drugs/probenecid/
 Procaine,L4,10,中證據等級 (L3-L4),/drugs/procaine/
 Propantheline,L3,2,中證據等級 (L3-L4),/drugs/propantheline/
 Prucalopride,L5,10,僅模型預測 (L5),/drugs/prucalopride/
@@ -213,68 +231,73 @@ Ramucirumab,L5,10,僅模型預測 (L5),/drugs/ramucirumab/
 Ravulizumab,L5,10,僅模型預測 (L5),/drugs/ravulizumab/
 Regorafenib,L2,8,高證據等級 (L1-L2),/drugs/regorafenib/
 Remdesivir,L5,6,僅模型預測 (L5),/drugs/remdesivir/
-Ribavirin,L3,10,中證據等級 (L3-L4),/drugs/ribavirin/
-Rifampicin,L3,10,中證據等級 (L3-L4),/drugs/rifampicin/
-Riluzole,L4,10,中證據等級 (L3-L4),/drugs/riluzole/
+Ribavirin,L2,10,高證據等級 (L1-L2),/drugs/ribavirin/
+Rifampicin,L4,10,中證據等級 (L3-L4),/drugs/rifampicin/
+Riluzole,L5,10,僅模型預測 (L5),/drugs/riluzole/
 Ritonavir,L4,3,中證據等級 (L3-L4),/drugs/ritonavir/
 Rocuronium,L5,10,僅模型預測 (L5),/drugs/rocuronium/
-Ropinirole,L4,10,中證據等級 (L3-L4),/drugs/ropinirole/
+Ropinirole,L2,10,高證據等級 (L1-L2),/drugs/ropinirole/
 Rotigotine,L4,10,中證據等級 (L3-L4),/drugs/rotigotine/
 Sacituzumab Govitecan,L5,4,僅模型預測 (L5),/drugs/sacituzumab_govitecan/
+Sacubitril,L3,5,中證據等級 (L3-L4),/drugs/sacubitril/
+Safinamide,L5,3,僅模型預測 (L5),/drugs/safinamide/
 Salicylamide,L4,10,中證據等級 (L3-L4),/drugs/salicylamide/
 Salicylic Acid,L5,10,僅模型預測 (L5),/drugs/salicylic_acid/
 Scopolamine,L5,6,僅模型預測 (L5),/drugs/scopolamine/
-Silicon Dioxide,L4,4,中證據等級 (L3-L4),/drugs/silicon_dioxide/
+Sennosides,L5,6,僅模型預測 (L5),/drugs/sennosides/
+Silicon Dioxide,L5,4,僅模型預測 (L5),/drugs/silicon_dioxide/
 Simoctocog Alfa,L5,10,僅模型預測 (L5),/drugs/simoctocog_alfa/
 Sodium Acetate,L5,10,僅模型預測 (L5),/drugs/sodium_acetate/
-Sodium Carbonate,L4,6,中證據等級 (L3-L4),/drugs/sodium_carbonate/
-Sodium Citrate,L3,9,中證據等級 (L3-L4),/drugs/sodium_citrate/
+Sodium Carbonate,L5,6,僅模型預測 (L5),/drugs/sodium_carbonate/
+Sodium Citrate,L5,9,僅模型預測 (L5),/drugs/sodium_citrate/
+Sorafenib,L2,10,高證據等級 (L1-L2),/drugs/sorafenib/
 Sotatercept,L5,10,僅模型預測 (L5),/drugs/sotatercept/
-Sulfamerazine,L4,4,中證據等級 (L3-L4),/drugs/sulfamerazine/
-Sulfamethazine,L4,6,中證據等級 (L3-L4),/drugs/sulfamethazine/
+Sulfamerazine,L5,4,僅模型預測 (L5),/drugs/sulfamerazine/
+Sulfamethazine,L5,6,僅模型預測 (L5),/drugs/sulfamethazine/
 Tazarotene,L5,3,僅模型預測 (L5),/drugs/tazarotene/
-Temozolomide,L1,2,高證據等級 (L1-L2),/drugs/temozolomide/
-Tenofovir Alafenamide,L2,3,高證據等級 (L1-L2),/drugs/tenofovir_alafenamide/
+Temozolomide,L2,2,高證據等級 (L1-L2),/drugs/temozolomide/
+Tenofovir Alafenamide,L4,3,中證據等級 (L3-L4),/drugs/tenofovir_alafenamide/
 Terbutaline,L1,3,高證據等級 (L1-L2),/drugs/terbutaline/
-Teriparatide,L2,10,高證據等級 (L1-L2),/drugs/teriparatide/
+Teriparatide,L5,10,僅模型預測 (L5),/drugs/teriparatide/
 Tetrabenazine,L5,10,僅模型預測 (L5),/drugs/tetrabenazine/
-Tetryzoline,L4,2,中證據等級 (L3-L4),/drugs/tetryzoline/
-Theophylline,L2,7,高證據等級 (L1-L2),/drugs/theophylline/
-Thiamine,L2,4,高證據等級 (L1-L2),/drugs/thiamine/
+Tetryzoline,L5,2,僅模型預測 (L5),/drugs/tetryzoline/
+Theophylline,L5,7,僅模型預測 (L5),/drugs/theophylline/
+Thiamine,L3,4,中證據等級 (L3-L4),/drugs/thiamine/
 Threonine,L5,1,僅模型預測 (L5),/drugs/threonine/
 Thyrotropin Alfa,L5,10,僅模型預測 (L5),/drugs/thyrotropin_alfa/
 Tiaprofenic Acid,L5,10,僅模型預測 (L5),/drugs/tiaprofenic_acid/
 Timepidium,L5,1,僅模型預測 (L5),/drugs/timepidium/
 Tinidazole,L5,10,僅模型預測 (L5),/drugs/tinidazole/
-Tioconazole,L5,3,僅模型預測 (L5),/drugs/tioconazole/
+Tioconazole,L2,3,高證據等級 (L1-L2),/drugs/tioconazole/
 Titanium Dioxide,L5,10,僅模型預測 (L5),/drugs/titanium_dioxide/
-Tizanidine,L5,6,僅模型預測 (L5),/drugs/tizanidine/
+Tizanidine,L2,6,高證據等級 (L1-L2),/drugs/tizanidine/
 Tofacitinib,L5,0,僅模型預測 (L5),/drugs/tofacitinib/
 Tolmetin,L5,10,僅模型預測 (L5),/drugs/tolmetin/
 Tolvaptan,L1,10,高證據等級 (L1-L2),/drugs/tolvaptan/
-Trabectedin,L5,1,僅模型預測 (L5),/drugs/trabectedin/
-Tranexamic Acid,L5,1,僅模型預測 (L5),/drugs/tranexamic_acid/
+Trabectedin,L2,1,高證據等級 (L1-L2),/drugs/trabectedin/
+Tranexamic Acid,L4,1,中證據等級 (L3-L4),/drugs/tranexamic_acid/
 Trastuzumab Deruxtecan,L5,1,僅模型預測 (L5),/drugs/trastuzumab_deruxtecan/
 Travoprost,L5,3,僅模型預測 (L5),/drugs/travoprost/
-Treprostinil,L2,10,高證據等級 (L1-L2),/drugs/treprostinil/
+Treprostinil,L3,10,中證據等級 (L3-L4),/drugs/treprostinil/
 Triamcinolone,L4,10,中證據等級 (L3-L4),/drugs/triamcinolone/
-Trifluoperazine,L3,1,中證據等級 (L3-L4),/drugs/trifluoperazine/
+Trifluoperazine,L4,1,中證據等級 (L3-L4),/drugs/trifluoperazine/
 Trihexyphenidyl,L5,10,僅模型預測 (L5),/drugs/trihexyphenidyl/
 Tyrosine,L5,10,僅模型預測 (L5),/drugs/tyrosine/
-Uracil,L1,10,高證據等級 (L1-L2),/drugs/uracil/
+Uracil,L3,10,中證據等級 (L3-L4),/drugs/uracil/
 Urea,L5,0,僅模型預測 (L5),/drugs/urea/
 Urofollitropin,L5,10,僅模型預測 (L5),/drugs/urofollitropin/
+Vasopressin,L4,2,中證據等級 (L3-L4),/drugs/vasopressin/
 Verteporfin,L5,1,僅模型預測 (L5),/drugs/verteporfin/
 Vigabatrin,L5,0,僅模型預測 (L5),/drugs/vigabatrin/
-Vinorelbine,L3,10,中證據等級 (L3-L4),/drugs/vinorelbine/
-Vismodegib,L4,10,中證據等級 (L3-L4),/drugs/vismodegib/
-Vitamin E,L3,10,中證據等級 (L3-L4),/drugs/vitamin_e/
+Vinorelbine,L5,10,僅模型預測 (L5),/drugs/vinorelbine/
+Vismodegib,L2,10,高證據等級 (L1-L2),/drugs/vismodegib/
+Vitamin E,L5,10,僅模型預測 (L5),/drugs/vitamin_e/
 Vonoprazan,L2,10,高證據等級 (L1-L2),/drugs/vonoprazan/
 Voriconazole,L5,0,僅模型預測 (L5),/drugs/voriconazole/
-Warfarin,L5,3,僅模型預測 (L5),/drugs/warfarin/
+Warfarin,L4,3,中證據等級 (L3-L4),/drugs/warfarin/
 Warfarin Af,L1,0,高證據等級 (L1-L2),/drugs/warfarin_af/
 Warfarin Atrial Fibrillation,L1,0,高證據等級 (L1-L2),/drugs/warfarin_atrial_fibrillation/
 Xylitol,L5,1,僅模型預測 (L5),/drugs/xylitol/
 Xylometazoline,L3,2,中證據等級 (L3-L4),/drugs/xylometazoline/
-Zanubrutinib,L2,6,高證據等級 (L1-L2),/drugs/zanubrutinib/
+Zanubrutinib,L4,6,中證據等級 (L3-L4),/drugs/zanubrutinib/
 Zonisamide,L5,10,僅模型預測 (L5),/drugs/zonisamide/

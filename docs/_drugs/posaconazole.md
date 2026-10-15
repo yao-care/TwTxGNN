@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**肺囊蟲病 (Pneumocystosis)** 有效，但目�
 | TxGNN 預測分數 | 99.77% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 5 張（有效單方 4／有效複方 0／已註銷 1） |
+| 許可證數 | 7 張（有效單方 6／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
 ---
@@ -90,9 +90,9 @@ TxGNN 模型預測它可能對**肺囊蟲病 (Pneumocystosis)** 有效，但目�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Posaconazole 的不重複許可證共 **5 張**：有效單方 4 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Posaconazole 的不重複許可證共 **7 張**：有效單方 6 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（4 張）
+**有效・單方**（6 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -100,9 +100,11 @@ TxGNN 模型預測它可能對**肺囊蟲病 (Pneumocystosis)** 有效，但目�
 | 衛部藥輸字第026376號 | 波賽特錠劑100毫克 | 膜衣錠 | 美商默沙東藥廠股份有限公司台灣分公司 | 2030/02/03 | (1)對amphotericin B或itraconazole或voriconazole治療無效或不能忍受之成人侵入性麴菌病(invasive aspergillosis)的第二線… |
 | 衛部藥輸字第026570號 | 波賽特 18毫克/毫升濃縮輸注液 | 注射液劑 | 美商默沙東藥廠股份有限公司台灣分公司 | 2031/02/22 | (1)對amphotericin B或itraconazole或voriconazole治療無效或不能忍受之成人侵入性麴菌病(invasive aspergillosis)的第二線… |
 | 衛部藥輸字第028570號 | 泊剋黴唑 | （粉） | 川聖貿易股份有限公司 | 2028/09/07 | 抗黴菌劑 |
+| 衛部藥輸字第029141號 | 黴適樂腸溶膜衣錠100毫克 | 腸溶膜衣錠 | 宇笛生物科技股份有限公司 | 2031/04/23 | (1)對amphotericin B或itraconazole或voriconazole治療無效或不能忍受之成人侵入性麴菌病(invasive aspergillosis)的第二線… |
+| 衛部藥陸輸字第001255號 | 泊剋黴唑 | （粉） | 鴻傑藥品有限公司 | 2031/02/23 | 抗黴菌劑 |
 
 <details><summary><strong>已註銷</strong>（1 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025274號</td><td>波賽特口服懸液劑</td><td>POSACONAZOLE, MICRONIZED</td><td>2018/09/12</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025274號</td><td>波賽特口服懸液劑</td><td>POSACONAZOLE</td><td>2018/09/12</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

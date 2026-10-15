@@ -78,11 +78,11 @@ TxGNN 模型預測它可能對**核 DNA 異常所致粒線體氧化磷酸化疾�
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第046067號 | 優妙化腸溶微粒膠囊 | AMYLASE、PANCRELIPASE、PROTEASE、LIPASE | 腸溶微粒膠囊劑 | 囊腫性纖維化疾病、慢性胰臟炎、胰臟切除、胃腸繞道手術及因腫瘤引發胰管式膽管阻塞等疾病所導致的胰液分泌不全。 |
-| 衛署藥製字第055412號 | 金妙化腸溶微粒膠囊 | LIPASE、PROTEASE、AMYLASE、PANCRELIPASE | 腸溶微粒膠囊劑 | 幫助消化。 |
+| 衛署藥製字第046067號 | 優妙化腸溶微粒膠囊 | AMYLASE、LIPASE、PANCRELIPASE、PROTEASE | 腸溶微粒膠囊劑 | 囊腫性纖維化疾病、慢性胰臟炎、胰臟切除、胃腸繞道手術及因腫瘤引發胰管式膽管阻塞等疾病所導致的胰液分泌不全。 |
+| 衛署藥製字第055412號 | 金妙化腸溶微粒膠囊 | LIPASE、PANCRELIPASE、AMYLASE、PROTEASE | 腸溶微粒膠囊劑 | 幫助消化。 |
 
 <details><summary><strong>已註銷</strong>（8 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第002311號</td><td>新滋肝片</td><td>DIASTASE ASPERGILLUS ORYZAE(DIASTASE TAKA)、PANCRELIPASE、PANC…</td><td>1985/08/31</td></tr><tr><td>內衛藥輸字第003521號</td><td>克達健片</td><td>BILE EXTRACT, OX、PANCRELIPASE、CELLULOSE</td><td>1985/08/22</td></tr><tr><td>衛署藥輸字第007271號</td><td>胰脂酵素</td><td>PANCRELIPASE</td><td>1985/09/19</td></tr><tr><td>衛署藥輸字第010867號</td><td>利食妥安膠囊</td><td>PEPSIN、PEPSIN、PANCRELIPASE、PANCREATIN (DIASTASE VERA)、BETAIN…</td><td>2003/12/29</td></tr><tr><td>衛署藥輸字第013850號</td><td>克達健錠</td><td>BILE EXTRACT, OX、CELLULOSE、PANCRELIPASE</td><td>1988/06/16</td></tr><tr><td>衛署藥輸字第013926號</td><td>增滋康錠</td><td>PEPSIN、PANCREATIN (DIASTASE VERA)、PANCRELIPASE、DIASTASE ASPE…</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第017263號</td><td>平胰素膠囊</td><td>PANCRELIPASE</td><td>1996/07/24</td></tr><tr><td>衛署藥輸字第022643號</td><td>胰酵素</td><td>PANCRELIPASE</td><td>2014/01/28</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第002311號</td><td>新滋肝片</td><td>DIASTASE ASPERGILLUS ORYZAE(DIASTASE TAKA)、PANCRELIPASE、PANC…</td><td>1985/08/31</td></tr><tr><td>內衛藥輸字第003521號</td><td>克達健片</td><td>BILE EXTRACT, OX、PANCRELIPASE、CELLULOSE</td><td>1985/08/22</td></tr><tr><td>衛署藥輸字第007271號</td><td>胰脂酵素</td><td>PANCRELIPASE</td><td>1985/09/19</td></tr><tr><td>衛署藥輸字第010867號</td><td>利食妥安膠囊</td><td>PANCRELIPASE、DIASTASE、PEPSIN、PEPSIN、PANCREATIN (DIASTASE VER…</td><td>2003/12/29</td></tr><tr><td>衛署藥輸字第013850號</td><td>克達健錠</td><td>CELLULOSE、PANCRELIPASE、BILE EXTRACT, OX</td><td>1988/06/16</td></tr><tr><td>衛署藥輸字第013926號</td><td>增滋康錠</td><td>PANCRELIPASE、DIASTASE ASPERGILLUS ORYZAE(DIASTASE TAKA)、PEPS…</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第017263號</td><td>平胰素膠囊</td><td>PANCRELIPASE</td><td>1996/07/24</td></tr><tr><td>衛署藥輸字第022643號</td><td>胰酵素</td><td>PANCRELIPASE</td><td>2014/01/28</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

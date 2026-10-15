@@ -91,10 +91,10 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 衛署藥製字第032417號 | "汎生" 爾非錠 | ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD… | 錠劑 | 抑制排卵。 |
-| 衛署藥製字第043147號 | 克妊滿錠　〝汎生〞 | ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST… | 錠劑 | 避孕、月經異常。 |
+| 衛署藥製字第043147號 | 克妊滿錠　〝汎生〞 | ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD… | 錠劑 | 避孕、月經異常。 |
 
 <details><summary><strong>已註銷</strong>（6 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第002668號</td><td>爾非</td><td>ETHYNODIOL DIACETATE、MESTRANOL</td><td>1986/06/20</td></tr><tr><td>衛署藥輸字第005174號</td><td>隔舒錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第005422號</td><td>亞卡南爾非滅錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006867號</td><td>隔樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>1991/12/19</td></tr><tr><td>衛署藥輸字第012829號</td><td>克妊滿膜衣錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>1999/01/07</td></tr><tr><td>衛署藥輸字第018877號</td><td>隔樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2004/03/19</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第002668號</td><td>爾非</td><td>ETHYNODIOL DIACETATE、MESTRANOL</td><td>1986/06/20</td></tr><tr><td>衛署藥輸字第005174號</td><td>隔舒錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第005422號</td><td>亞卡南爾非滅錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006867號</td><td>隔樂錠</td><td>ETHYNODIOL DIACETATE、FERROUS FUMARATE、ESTRADIOL ETHINYL (EQ…</td><td>1991/12/19</td></tr><tr><td>衛署藥輸字第012829號</td><td>克妊滿膜衣錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>1999/01/07</td></tr><tr><td>衛署藥輸字第018877號</td><td>隔樂錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>2004/03/19</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

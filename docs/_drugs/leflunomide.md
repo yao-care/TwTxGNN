@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**短指併指症候群 (Brachydactyly-Syndactyly 
 | TxGNN 預測分數 | 99.93% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 12 張（有效單方 8／有效複方 0／已註銷 4） |
+| 許可證數 | 12 張（有效單方 7／有效複方 0／已註銷 5） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -71,23 +71,22 @@ TxGNN 模型預測它可能對**短指併指症候群 (Brachydactyly-Syndactyly 
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Leflunomide 的不重複許可證共 **12 張**：有效單方 8 張、有效複方 0 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Leflunomide 的不重複許可證共 **12 張**：有效單方 7 張、有效複方 0 張、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（8 張）
+**有效・單方**（7 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第045330號 | "台耀" 耐福諾邁 | （粉） | 台耀化學股份有限公司 | 2028/01/21 | 風濕性關節炎 |
 | 衛署藥製字第045971號 | "美時" 雅努麻錠２０毫克 | 錠劑 | 美時化學製藥股份有限公司 | 2028/12/05 | 治療成人類風濕性關節炎，並可能減緩類風濕病程對關節所造成之結構性損害(即屬於DMARD disease modifying antirheumatic drug)。治療具活動性的成… |
-| 衛署藥製字第048558號 | "美時" 雅努麻 錠10毫克 | 錠劑 | 美時化學製藥股份有限公司 | 2027/01/26 | 治療成人類風濕性關節炎，並可能減緩類風濕病程對關節所造成之結構性損害(即屬於DMARD disease modifying antirheumatic drug)。 治療具活動性的… |
-| 衛署藥輸字第023615號 | 艾炎寧膜衣錠10毫克 | 膜衣錠 | 賽諾菲股份有限公司 | 2027/12/30 | 治療成人類風濕性關節炎，並可能減緩類風濕性病程對關節所造成之結構性損害(即屬於DMARD DISEASE MODIFYING ANTIHEUMATIC DRUG)。治療具活動性的成… |
+| 衛署藥製字第048558號 | "美時" 雅努麻 錠10毫克 | 錠劑 | 美時化學製藥股份有限公司 | 2032/01/26 | 治療成人類風濕性關節炎，並可能減緩類風濕病程對關節所造成之結構性損害(即屬於DMARD disease modifying antirheumatic drug)。 治療具活動性的… |
 | 衛部藥輸字第027098號 | 希關炎膜衣錠100毫克 | 膜衣錠 | 西海生技股份有限公司 | 2027/03/28 | 治療成人類風濕性關節炎，並可能減緩類風濕病程對關節所造成之結構性損害（即屬於DMARD DISEASE MODIFYING ANTIRHEUMATIC DRUG）。治療具活動性的成… |
 | 衛部藥輸字第027175號 | 希關炎膜衣錠10毫克 | 膜衣錠 | 西海生技股份有限公司 | 2027/06/06 | 治療成人類風濕性關節炎，並可能減緩類風濕病程對關節所造成之結構性損害（即屬於DMARD DISEASE MODIFYING ANTIRHEUMATIC DRUG）。治療具活動性的成… |
 | 衛部藥輸字第027176號 | 希關炎膜衣錠20毫克 | 膜衣錠 | 西海生技股份有限公司 | 2027/06/06 | 治療成人類風濕性關節炎，並可能減緩類風濕病程對關節所造成之結構性損害(即屬於DMARD DISEASE MODIFYING ANTIRHEUMATIC DRUG)。治療具活動性的成… |
 | 衛部藥輸字第027234號 | 耐福諾邁 | （粉） | 漢旭股份有限公司 | 2027/08/14 | 風濕性關節炎 |
 
-<details><summary><strong>已註銷</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第023616號</td><td>艾炎寧膜衣錠20毫克</td><td>LEFLUNOMIDE</td><td>2018/07/03</td></tr><tr><td>衛署藥輸字第023617號</td><td>艾炎寧膜衣錠100毫克</td><td>LEFLUNOMIDE</td><td>2018/07/03</td></tr><tr><td>衛部藥輸字第026363號</td><td>福納膜衣錠10毫克</td><td>LEFLUNOMIDE</td><td>2022/07/07</td></tr><tr><td>衛部藥輸字第026364號</td><td>福納膜衣錠20毫克</td><td>LEFLUNOMIDE</td><td>2022/07/07</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（5 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第023615號</td><td>艾炎寧膜衣錠10毫克</td><td>LEFLUNOMIDE</td><td>2026/07/02</td></tr><tr><td>衛署藥輸字第023616號</td><td>艾炎寧膜衣錠20毫克</td><td>LEFLUNOMIDE</td><td>2018/07/03</td></tr><tr><td>衛署藥輸字第023617號</td><td>艾炎寧膜衣錠100毫克</td><td>LEFLUNOMIDE</td><td>2018/07/03</td></tr><tr><td>衛部藥輸字第026363號</td><td>福納膜衣錠10毫克</td><td>LEFLUNOMIDE</td><td>2022/07/07</td></tr><tr><td>衛部藥輸字第026364號</td><td>福納膜衣錠20毫克</td><td>LEFLUNOMIDE</td><td>2022/07/07</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

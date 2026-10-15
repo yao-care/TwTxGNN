@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀疏症 (Hypotrichosis Si
 | TxGNN 預測分數 | 99.29% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 52 張（有效單方 19／有效複方 19／已註銷 14） |
+| 許可證數 | 54 張（有效單方 20／有效複方 19／已註銷 15） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -71,31 +71,32 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀疏症 (Hypotrichosis Si
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sennosides 的不重複許可證共 **52 張**：有效單方 19 張、有效複方 19 張、已註銷 14 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sennosides 的不重複許可證共 **54 張**：有效單方 20 張、有效複方 19 張、已註銷 15 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（19 張）
+**有效・單方**（20 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第040351號 | "瑞士" 快便膜衣錠12毫克(番瀉甘) | 膜衣錠 | 瑞士藥廠股份有限公司 | 2026/09/20 | 緩解便祕。 |
 | 衛署藥製字第043067號 | "羅得"百暢舒膜衣錠20毫克 | 膜衣錠 | 羅得化學製藥股份有限公司 | 2029/07/05 | 緩解便祕。 |
 | 衛署藥製字第043290號 | 消秘糖衣錠 | 糖衣錠 | 井田國際醫藥廠股份有限公司 | 2029/10/05 | 緩解便秘。 |
-| 衛署藥製字第043923號 | "永勝" 特立通微粒膠囊２０毫克 | 微粒膠囊 | 永勝藥品工業股份有限公司 | 2030/08/21 | 緩解便祕。 |
+| 衛署藥製字第043923號 | 為您好特立通微粒膠囊20毫克 | 微粒膠囊 | 永勝藥品工業股份有限公司 | 2030/08/21 | 緩解便祕。 |
 | 衛署藥製字第045486號 | 舒悠膜衣錠 | 膜衣錠 | 秝荃生技有限公司 | 2028/04/14 | 緩解便秘。 |
 | 衛署藥製字第046387號 | "黃氏" 疏樂膜衣錠 | 膜衣錠 | 黃氏製藥股份有限公司 | 2029/07/05 | 緩解便秘。 |
-| 衛署藥製字第047916號 | "衛達" 瀉樂 膜衣錠 | 膜衣錠 | 衛達化學製藥股份有限公司 | 2026/04/03 | 緩解便祕。 |
-| 衛署藥製字第047998號 | "德聯" 舒利通膜衣錠 | 膜衣錠 | 德聯藥品有限公司 | 2026/05/24 | 緩解便秘。 |
+| 衛署藥製字第047916號 | "衛達" 瀉樂 膜衣錠 | 膜衣錠 | 衛達化學製藥股份有限公司 | 2031/04/03 | 緩解便祕。 |
+| 衛署藥製字第047998號 | "德聯" 舒利通膜衣錠 | 膜衣錠 | 德聯藥品有限公司 | 2031/05/24 | 緩解便秘。 |
 | 衛署藥製字第049056號 | "嘉林"賽諾膜衣錠 12 毫克 | 膜衣錠 | 嘉林藥品有限公司 | 2027/09/28 | 緩解便秘。 |
 | 衛署藥製字第049497號 | 樂秘消膜衣錠12毫克 (旃那苷) | 膜衣錠 | 華樺生技藥品股份有限公司 | 2028/06/16 | 緩解便祕。 |
 | 衛署藥製字第055001號 | “華興”樂秘消膜衣錠 24 毫克 | 膜衣錠 | 華興化學製藥廠股份有限公司 | 2030/05/28 | 緩解便秘。 |
 | 衛署藥輸字第016139號 | "阿魯普斯" 番瀉苷 | （粉） | 裕元興業股份有限公司 | 2029/11/09 | 緩瀉劑 |
-| 衛署藥輸字第025019號 | 番瀉苷90% | （粉） | 台灣荃新股份有限公司 | 2024/04/29 | 緩瀉劑。 |
-| 衛署藥輸字第025108號 | 番瀉苷 60% | （粉） | 台灣荃新股份有限公司 | 2029/11/03 | 緩瀉劑。 |
+| 衛署藥輸字第025108號 | 番瀉苷 | （粉） | 台灣荃新股份有限公司 | 2029/11/03 | 緩瀉劑。 |
 | 衛署藥輸字第025689號 | 番瀉甘 | （粉） | 新雙隆生技股份有限公司 | 2027/05/10 | 緩瀉劑 |
 | 衛部藥製字第058797號 | "大豐"仙諾膜衣錠12毫克 | 膜衣錠 | 大豐製藥股份有限公司 | 2030/07/02 | 緩解便秘。 |
-| 衛部藥製字第060857號 | 清立漂膜衣錠12毫克 | 膜衣錠 | 科進製藥科技股份有限公司 | 2026/04/13 | 緩解便秘。 |
+| 衛部藥製字第060857號 | 清立漂膜衣錠12毫克 | 膜衣錠 | 科進製藥科技股份有限公司 | 2031/04/13 | 緩解便秘。 |
 | 衛部藥輸字第028439號 | 番瀉苷 | 原料藥粉末 | 宇直泰貿易股份有限公司 | 2028/02/21 | 瀉藥 |
 | 衛部藥輸字第028625號 | 番瀉苷 | （粉） | 吉富貿易有限公司 | 2028/12/06 | 瀉藥 |
+| 衛部藥輸字第029181號 | 番瀉苷 | （粉） | 新雙隆生技股份有限公司 | 2031/06/04 | 瀉藥 |
+| 衛部藥輸字第029211號 | 番瀉苷 | （粉） | 宇直泰貿易股份有限公司 | 2031/08/05 | 瀉藥 |
 
 **有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（19 張）
 
@@ -103,26 +104,26 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀疏症 (Hypotrichosis Si
 |------|------|------|------|------|
 | 衛署藥製字第032372號 | 秘福糖衣錠 | BISACODYL、SENNOSIDE、DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT… | 糖衣錠 | 便秘及綏和便秘所伴生之下列諸症狀：腹部膨滿、腸內異常發酵、食慾不振 |
 | 衛署藥製字第037697號 | "中美"便通樂膜衣錠(番瀉葉苷) | SENNOSIDE、SENNOSIDE | 膜衣錠 | 緩解便祕。 |
-| 衛署藥製字第042956號 | 〝人生〞秘速特顆粒 | SENNOSIDE、PLANTAGO | 內服顆粒劑 | 暫時緩解便秘。 |
+| 衛署藥製字第042956號 | 〝人生〞秘速特顆粒 | PLANTAGO、SENNOSIDE | 內服顆粒劑 | 暫時緩解便秘。 |
 | 衛署藥製字第044082號 | "為您好"纖得姿微粒 | PLANTAGO、SENNOSIDE | 內服顆粒劑 | 緩解便祕。 |
 | 衛署藥製字第044369號 | "本草健康工房" 速體纖微粒 | PLANTAGO OVATA SEED、SENNOSIDE | 內服顆粒劑 | 緩解便秘。 |
-| 衛署藥製字第048031號 | "成大" 享通膜衣錠20毫克 | SENNOSIDE A+B、CALCIUM SENNOSIDES | 膜衣錠 | 緩解便祕。 |
-| 衛署藥製字第048279號 | "中美" 便通便腸溶膜衣錠 | BISACODYL、SENNOSIDE | 腸溶膜衣錠 | 緩解便祕。 |
-| 衛署藥製字第048521號 | 瀉樂舒 腸溶膜衣錠 | CALCIUM SENNOSIDES、BISACODYL | 腸溶膜衣錠 | 緩解便秘。 |
-| 衛署藥製字第049241號 | “汎生”通克婷腸溶膜衣錠 | CALCIUM SENNOSIDES、BISACODYL | 腸溶膜衣錠 | 緩解便秘。 |
+| 衛署藥製字第048031號 | "成大" 享通膜衣錠20毫克 | CALCIUM SENNOSIDES、SENNOSIDE A+B | 膜衣錠 | 緩解便祕。 |
+| 衛署藥製字第048279號 | "中美" 便通便腸溶膜衣錠 | SENNOSIDE、BISACODYL | 腸溶膜衣錠 | 緩解便祕。 |
+| 衛署藥製字第048521號 | 瀉樂舒 腸溶膜衣錠 | BISACODYL、CALCIUM SENNOSIDES | 腸溶膜衣錠 | 緩解便秘。 |
+| 衛署藥製字第049241號 | “汎生”通克婷腸溶膜衣錠 | BISACODYL、CALCIUM SENNOSIDES | 腸溶膜衣錠 | 緩解便秘。 |
 | 衛署藥製字第049490號 | 舒暢通 膜衣錠 | DOCUSATE SODIUM、CALCIUM SENNOSIDES | 膜衣錠 | 緩解便祕。 |
-| 衛署藥製字第056744號 | "元宙"順順通腸溶膜衣錠 | CALCIUM SENNOSIDES、BISACODYL | 腸溶膜衣錠 | 緩解便祕。 |
+| 衛署藥製字第056744號 | "元宙"順順通腸溶膜衣錠 | BISACODYL、CALCIUM SENNOSIDES | 腸溶膜衣錠 | 緩解便祕。 |
 | 衛署藥製字第057155號 | 卡卡 拉拉腸溶膜衣錠 | SENNOSIDE、BISACODYL | 腸溶膜衣錠 | 緩解便祕。 |
 | 衛署藥製字第057193號 | 拉利通腸溶膜衣錠 | SENNOSIDE (A+B)、BISACODYL | 腸溶膜衣錠 | 緩解便祕。 |
-| 衛署藥輸字第022881號 | 丹平健秘丸 | ALOE POWDER (EQ TO POWDERED ALOE)、CALCIUM SENNOSIDES、RHUBARB… | 丸劑 | 緩解便祕。 |
+| 衛署藥輸字第022881號 | 丹平健秘丸 | CALCIUM SENNOSIDES、ALOE POWDER (EQ TO POWDERED ALOE)、RHUBARB… | 丸劑 | 緩解便祕。 |
 | 衛署藥輸字第024162號 | 諾得艾立通便秘腸溶糖衣錠 | BISACODYL、SENNOSIDE | 糖衣錠 | 緩解便秘。 |
-| 衛署藥輸字第025128號 | 日方便秘腸溶糖衣錠 | SENNOSIDE、BISACODYL | 腸溶糖衣錠 | 緩解便秘 |
+| 衛署藥輸字第025128號 | 日方便秘腸溶糖衣錠 | BISACODYL、SENNOSIDE | 腸溶糖衣錠 | 緩解便秘 |
 | 衛部藥製字第060220號 | "威勝"秘通樂膜衣錠12毫克 | SENNOSIDE、SENNOSIDE | 膜衣錠 | 緩解便袐。 |
-| 衛部藥製字第061057號 | 秘可通膜衣錠 | DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、SENNOSIDE、BISACODY… | 膜衣錠 | 便秘及綏和便秘所伴生之下列諸症狀：腹部膨滿、腸內異常發酵、食慾不振。 |
-| 衛部藥製字第061058號 | 可治秘膜衣錠 | DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、SENNOSIDE、BISACODY… | 膜衣錠 | 便秘及綏和便秘所伴生之下列諸症狀：腹部膨滿、腸內異常發酵、食慾不振。 |
+| 衛部藥製字第061057號 | 秘可通膜衣錠 | BISACODYL、DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、SENNOSID… | 膜衣錠 | 便秘及綏和便秘所伴生之下列諸症狀：腹部膨滿、腸內異常發酵、食慾不振。 |
+| 衛部藥製字第061058號 | 可治秘膜衣錠 | SENNOSIDE、DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、BISACODY… | 膜衣錠 | 便秘及綏和便秘所伴生之下列諸症狀：腹部膨滿、腸內異常發酵、食慾不振。 |
 
-<details><summary><strong>已註銷</strong>（14 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第029799號</td><td>舒暢錠（番瀉/）</td><td>SENNOSIDE (A+B)</td><td>1988/09/16</td></tr><tr><td>衛署藥製字第030918號</td><td>便通樂錠（番瀉/）</td><td>SENNOSIDE (A+B)</td><td>1994/10/13</td></tr><tr><td>衛署藥輸字第000651號</td><td>舒緩糖衣錠</td><td>SENNOSIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第003567號</td><td>善納消錠</td><td>SENNOSIDE</td><td>2004/05/25</td></tr><tr><td>衛署藥輸字第005183號</td><td>保體母糖衣錠</td><td>SENNOSIDE、LIVER EXTRACT DRY、PEONY EXTRACT、RHUBARB EXTRACT、MA…</td><td>1984/12/31</td></tr><tr><td>衛署藥輸字第005927號</td><td>通爽身錠</td><td>BISACODYL、SENNOSIDE</td><td>1986/01/17</td></tr><tr><td>衛署藥輸字第008780號</td><td>仙塞落糖衣錠</td><td>SENNOSIDE</td><td>2020/03/27</td></tr><tr><td>衛署藥輸字第012886號</td><td>保體母糖衣錠</td><td>SILICIC ACID LIGHT ANHYDROUS、MAGNOLIA EXTRACT、BILE OX POWDER…</td><td>2004/01/06</td></tr><tr><td>衛署藥輸字第014596號</td><td>通爽糖衣錠</td><td>SENNOSIDE、BISACODYL</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018344號</td><td>舒樂顆粒</td><td>PLANTAGO、SENNOSIDE</td><td>2017/07/05</td></tr><tr><td>衛署藥輸字第020525號</td><td>番瀉/</td><td>SENNOSIDE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第020633號</td><td>舒利便膜衣錠</td><td>RHUBARB POWDER (EQ TO POWDERED RHUBARB)、ALOE POWDER (EQ TO P…</td><td>2022/07/20</td></tr><tr><td>衛署藥輸字第023867號</td><td>護理通膜衣錠</td><td>ALOE POWDER (EQ TO POWDERED ALOE)、RHUBARB POWDER (EQ TO POWD…</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第024963號</td><td>番瀉甘</td><td>Sennosides</td><td>2020/03/27</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（15 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第029799號</td><td>舒暢錠（番瀉/）</td><td>SENNOSIDE (A+B)</td><td>1988/09/16</td></tr><tr><td>衛署藥製字第030918號</td><td>便通樂錠（番瀉/）</td><td>SENNOSIDE (A+B)</td><td>1994/10/13</td></tr><tr><td>衛署藥輸字第000651號</td><td>舒緩糖衣錠</td><td>SENNOSIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第003567號</td><td>善納消錠</td><td>SENNOSIDE</td><td>2004/05/25</td></tr><tr><td>衛署藥輸字第005183號</td><td>保體母糖衣錠</td><td>LIVER EXTRACT DRY、MAGNOLIA EXTRACT、PEONY EXTRACT、RHUBARB EXT…</td><td>1984/12/31</td></tr><tr><td>衛署藥輸字第005927號</td><td>通爽身錠</td><td>BISACODYL、SENNOSIDE</td><td>1986/01/17</td></tr><tr><td>衛署藥輸字第008780號</td><td>仙塞落糖衣錠</td><td>SENNOSIDE</td><td>2020/03/27</td></tr><tr><td>衛署藥輸字第012886號</td><td>保體母糖衣錠</td><td>SILICIC ACID LIGHT ANHYDROUS、RHUBARB EXTRACT、PEONY EXTRACT、M…</td><td>2004/01/06</td></tr><tr><td>衛署藥輸字第014596號</td><td>通爽糖衣錠</td><td>BISACODYL、SENNOSIDE</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018344號</td><td>舒樂顆粒</td><td>PLANTAGO、SENNOSIDE</td><td>2017/07/05</td></tr><tr><td>衛署藥輸字第020525號</td><td>番瀉/</td><td>SENNOSIDE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第020633號</td><td>舒利便膜衣錠</td><td>RHUBARB POWDER (EQ TO POWDERED RHUBARB)、SENNOSIDE、ALOE POWDE…</td><td>2022/07/20</td></tr><tr><td>衛署藥輸字第023867號</td><td>護理通膜衣錠</td><td>ALOE POWDER (EQ TO POWDERED ALOE)、RHUBARB POWDER (EQ TO POWD…</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第024963號</td><td>番瀉甘</td><td>Sennosides</td><td>2020/03/27</td></tr><tr><td>衛署藥輸字第025019號</td><td>番瀉苷90%</td><td>Calcium Sennosides 90TPC</td><td>2025/03/21</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

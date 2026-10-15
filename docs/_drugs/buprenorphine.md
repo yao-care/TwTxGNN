@@ -85,7 +85,7 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第050251號 | 解佳益 舌下錠 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
+| 衛署藥製字第050251號 | 解佳益 舌下錠 | NALOXONE HCL DIHYDRATE、BUPRENORPHINE HYDROCHLORIDE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
 | 衛署藥輸字第024951號 | 舒倍生 2 毫克 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
 | 衛署藥輸字第024952號 | 舒倍生 8 毫克 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
 | 衛部藥製字第058289號 | 解佳益 4/1毫克 舌下錠 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法 |

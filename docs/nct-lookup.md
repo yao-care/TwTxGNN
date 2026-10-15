@@ -10,7 +10,7 @@ permalink: /nct-lookup/
 # 用 NCT 編號找藥
 
 <p class="key-answer" data-question="拿到一組 NCT 編號，怎麼知道它對應哪個藥？">
-下表把 TwTxGNN 藥物報告引用到的 ClinicalTrials.gov 試驗編號（共 381 組）反查回藥物。找到編號後，點藥名看完整報告，點編號看 ClinicalTrials.gov 的原始登記。
+下表把 TwTxGNN 藥物報告引用到的 ClinicalTrials.gov 試驗編號（共 273 組）反查回藥物。找到編號後，點藥名看完整報告，點編號看 ClinicalTrials.gov 的原始登記。
 </p>
 
 用瀏覽器的頁內搜尋（Ctrl+F 或 Cmd+F）貼上編號即可。
@@ -23,399 +23,284 @@ permalink: /nct-lookup/
 
 | NCT 編號 | 藥物 | 證據等級 | 報告中的試驗摘要 |
 |----------|------|:--------:|------------------|
-| [NCT00002601](https://clinicaltrials.gov/study/NCT00002601) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 直接評估高劑量 doxorubicin + ifosfamide 序貫 melphalan + cisplatin 用於高危復發 Ewing 肉瘤 |
-| [NCT00002707](https://clinicaltrials.gov/study/NCT00002707) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較術前 AC 化療合併 docetaxel 的效果 |
-| [NCT00002989](https://clinicaltrials.gov/study/NCT00002989) | [Busulfan](/drugs/busulfan/) | L1 | Phase 3 RCT 比較異體幹細胞移植條件療法強化策略（含 Idarubicin）用於高復發風險白血病及 MDS |
-| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | [Vinorelbine](/drugs/vinorelbine/) | L3 | 研究 Vinorelbine 在復發/難治性兒童惡性腫瘤中的效果，包括 Ewing 肉瘤 |
-| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | [Gemcitabine](/drugs/gemcitabine/) | L2 | 研究 gemcitabine 在先前接受過 Adriamycin 和 Taxol 治療的轉移性乳腺癌患者中的效果 |
-| [NCT00004310](https://clinicaltrials.gov/study/NCT00004310) | [Clomipramine](/drugs/clomipramine/) | L1 | IV vs Oral Clomipramine in OCD |
-| [NCT00004399](https://clinicaltrials.gov/study/NCT00004399) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | Nimodipine vs MgSO4 預防子癇症痙攣 |
-| [NCT00006379](https://clinicaltrials.gov/study/NCT00006379) | [Fludarabine](/drugs/fludarabine/) | L3 | 以嘌呤類似物（Fludarabine）為基礎的非骨髓清除性異體 SCT，適應症直接涵蓋多發性骨髓瘤，為最高相關性試驗 |
-| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | [Gemcitabine](/drugs/gemcitabine/) | L2 | 比較 gemcitabine 和 paclitaxel 在不可切除的局部復發或轉移性乳腺癌中的效果 |
-| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 隨機比較化療壓縮間隔策略用於 Ewing 肉瘤及 PNET，評估不同含 doxorubicin 方案療效 |
-| [NCT00009009](https://clinicaltrials.gov/study/NCT00009009) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | HIV 感染末期腎病患者腎臟移植安全性與有效性研究，MMF 作為免疫抑制組成，評估免疫功能受損族群接受移植的可行性 |
-| [NCT00017758](https://clinicaltrials.gov/study/NCT00017758) | [Pravastatin](/drugs/pravastatin/) | L2 | 藥動學交互作用研究 |
-| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | [Doxorubicin](/drugs/doxorubicin/) | L1 | EURO-E.W.I.N.G. 99 大型多中心試驗，doxorubicin 為標準誘導方案核心，係 Ewing 肉瘤最重要的奠基性試驗 |
-| [NCT00021489](https://clinicaltrials.gov/study/NCT00021489) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | 評估 MMF 作為 Abacavir 輔助治療的安全性、耐受性與抗反轉錄病毒活性，針對治療失敗且多線暴露的 HIV 感染者（因故撤回，無有效數據） |
-| [NCT00024050](https://clinicaltrials.gov/study/NCT00024050) | [Busulfan](/drugs/busulfan/) | L1 | Phase 2 直接研究異體 PBSC 移植治療「低風險 MDS」，評估化療後幹細胞移植有效性 |
-| [NCT00025337](https://clinicaltrials.gov/study/NCT00025337) | [Uracil](/drugs/uracil/) | L1 | 進展性結直腸癌：bevacizumab+FOLFOX vs FOLFOX vs bevacizumab 單藥三臂 Phase 3 比較 |
-| [NCT00038272](https://clinicaltrials.gov/study/NCT00038272) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | 隨機雙盲先導研究：比較新型核苷類 DAPD 單用與 DAPD+MMF 聯用在多藥耐受 HIV 感染者中的安全性與抗病毒活性 |
-| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | [Carboplatin](/drugs/carboplatin/) | L2 | 比較 docetaxel/trastuzumab 與 docetaxel/carboplatin/trastuzumab 在 HER2 陽性轉移性乳腺癌的療效 |
-| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較 docetaxel+trastuzumab 與 docetaxel+carboplatin+trastuzumab |
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | [Temozolomide](/drugs/temozolomide/) | L1 | 比較 Temozolomide 單藥與 PCV 化療方案用於復發性 WHO 第 3-4 級星狀細胞瘤，主要終點為總存活期 |
-| [NCT00069121](https://clinicaltrials.gov/study/NCT00069121) | [Uracil](/drugs/uracil/) | L1 | Stage III 結腸癌術後 XELOX（capecitabine+oxaliplatin）vs 5-FU/LV 輔助化療，capecitabine 為 5-FU 口服前驅藥 |
-| [NCT00074490](https://clinicaltrials.gov/study/NCT00074490) | [Fludarabine](/drugs/fludarabine/) | L3 | 低強度含 Fludarabine 調理的異體 HSCT（含 Sirolimus），適應症含骨髓瘤、淋巴瘤及 MDS，提供直接可行性資料 |
-| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | [Clomipramine](/drugs/clomipramine/) | L1 | 兒童 OCD 的 SRI 部分反應者治療 |
-| [NCT00078065](https://clinicaltrials.gov/study/NCT00078065) | [Fludarabine](/drugs/fludarabine/) | L3 | 隨機比較 Xcellerated T 細胞有無 Fludarabine 前處理用於多發性骨髓瘤，直接檢驗 Fludarabine 在 MM 的作用 |
-| [NCT00079274](https://clinicaltrials.gov/study/NCT00079274) | [Uracil](/drugs/uracil/) | L1 | Stage III 結腸癌術後六臂 RCT，比較含 5-FU 的 FOLFOX（±irinotecan、±cetuximab）各組合療效 |
-| [NCT00097695](https://clinicaltrials.gov/study/NCT00097695) | [Icatibant](/drugs/icatibant/) | L1 | 評估 Icatibant 治療急性 HAE 發作的療效與安全性 |
-| [NCT00108017](https://clinicaltrials.gov/study/NCT00108017) | [Dorzolamide](/drugs/dorzolamide/) | L3 | 評估 dorzolamide/timolol 複方的 24 小時降眼壓效果 |
-| [NCT00112593](https://clinicaltrials.gov/study/NCT00112593) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | 以低強度化療（Fludarabine）加全身放療後異體 HSCT，誘導混合造血嵌合達成 HIV 功能性治療，MMF + Cyclosporin 作為移植後免疫抑制 |
-| [NCT00117533](https://clinicaltrials.gov/study/NCT00117533) | [Ribavirin](/drugs/ribavirin/) | L3 | Peginterferon alfa-2b + ribavirin 治療 B/D 型肝炎合併感染 |
-| [NCT00120419](https://clinicaltrials.gov/study/NCT00120419) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | MAN2 Study：評估 MMF 是否能抑制未接受抗病毒治療之慢性 HIV-1 感染患者的免疫過活化，並觀察 CD4+ 計數、血漿 HIV-1 RNA 及病程進展 |
-| [NCT00158821](https://clinicaltrials.gov/study/NCT00158821) | [Terbutaline](/drugs/terbutaline/) | L1 | 預防運動誘發支氣管痙攣研究 |
-| [NCT00158912](https://clinicaltrials.gov/study/NCT00158912) | [Theophylline](/drugs/theophylline/) | L2 | Theophylline 與吸入型類固醇合併治療 COPD |
-| [NCT00171314](https://clinicaltrials.gov/study/NCT00171314) | [Letrozole](/drugs/letrozole/) | L1 | 停經後乳癌接受 Letrozole 輔助治療期間，比較立即 vs 延遲 Zoledronic acid 預防骨密度流失 |
-| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | [Vinorelbine](/drugs/vinorelbine/) | L3 | 評估 Vinorelbine 與 Cyclophosphamide 組合在難治性腫瘤中的抗腫瘤活性 |
-| [NCT00216437](https://clinicaltrials.gov/study/NCT00216437) | [Terbutaline](/drugs/terbutaline/) | L1 | Terbutaline vs Tiotropium 在 COPD 患者的比較 |
-| [NCT00217737](https://clinicaltrials.gov/study/NCT00217737) | [Uracil](/drugs/uracil/) | L1 | Stage II 高風險結腸癌術後 FOLFOX±bevacizumab，同步前瞻性評估分子標記預後價值 |
-| [NCT00227500](https://clinicaltrials.gov/study/NCT00227500) | [Pravastatin](/drugs/pravastatin/) | L2 |  |
-| [NCT00239434](https://clinicaltrials.gov/study/NCT00239434) | [Ipratropium](/drugs/ipratropium/) | L1 | Tiotropium vs Ipratropium 在 COPD 中的比較 |
-| [NCT00239577](https://clinicaltrials.gov/study/NCT00239577) | [Terbutaline](/drugs/terbutaline/) | L1 | 支氣管擴張劑對 COPD 患者呼吸困難之影響 |
-| [NCT00241631](https://clinicaltrials.gov/study/NCT00241631) | [Theophylline](/drugs/theophylline/) | L2 | 低劑量 Theophylline 對 COPD 發炎的影響 |
-| [NCT00247494](https://clinicaltrials.gov/study/NCT00247494) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | MAN2 子研究：評估 MMF 500mg BID 對 HIV-1 感染患者心血管代謝替代指標的影響（與 MAN2 同族群） |
-| [NCT00252564](https://clinicaltrials.gov/study/NCT00252564) | [Uracil](/drugs/uracil/) | L1 | 轉移性結直腸癌一線：cetuximab+bevacizumab+5-FU/LV vs Bev-FOLFOX，比較 12 個月 PFS |
-| [NCT00265759](https://clinicaltrials.gov/study/NCT00265759) | [Letrozole](/drugs/letrozole/) | L1 | 停經後 Stage II-III ER+ 乳癌：比較 Exemestane、Letrozole、Anastrozole 16-18 週新輔助療效 |
-| [NCT00281658](https://clinicaltrials.gov/study/NCT00281658) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Lapatinib + Paclitaxel vs Paclitaxel |
-| [NCT00282087](https://clinicaltrials.gov/study/NCT00282087) | [Dexamethasone](/drugs/dexamethasone/) | L2 | Gemcitabine/Docetaxel + Doxorubicin 輔助化療治療高危子宮平滑肌肉瘤 |
-| [NCT00287534](https://clinicaltrials.gov/study/NCT00287534) | [Anastrozole](/drugs/anastrozole/) | L1 | Tamoxifen 2年後轉 Anastrozole 3年 vs 持續 Tamoxifen 5年 |
-| [NCT00288548](https://clinicaltrials.gov/study/NCT00288548) | [Metoprolol](/drugs/metoprolol/) | L2 | Metoprolol 與 Formoterol 合用對 COPD 肺功能的影響 |
-| [NCT00305682](https://clinicaltrials.gov/study/NCT00305682) | [Fludarabine](/drugs/fludarabine/) | L3 | 非親屬臍帶血移植治療血液惡性疾病（含 MM），Fludarabine+Cyclophosphamide 骨髓清除方案 |
-| [NCT00314548](https://clinicaltrials.gov/study/NCT00314548) | [Theophylline](/drugs/theophylline/) | L2 | Theophylline 對 COPD 運動耐受性的影響 |
-| [NCT00322101](https://clinicaltrials.gov/study/NCT00322101) | [Busulfan](/drugs/busulfan/) | L1 | Phase 3 多中心 RCT 比較骨髓消融（含 Busulfan）vs 非骨髓消融移植條件療法用於 MDS/AML |
-| [NCT00333125](https://clinicaltrials.gov/study/NCT00333125) | [Dorzolamide](/drugs/dorzolamide/) | L3 | 比較兩種複方製劑在開角性青光眼的療效 |
-| [NCT00344058](https://clinicaltrials.gov/study/NCT00344058) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 產後 12 vs 24 小時 MgSO4 |
-| [NCT00345865](https://clinicaltrials.gov/study/NCT00345865) | [Cytarabine](/drugs/cytarabine/) | L3 | Cytarabine 為條件療法一部分 |
-| [NCT00371527](https://clinicaltrials.gov/study/NCT00371527) | [Ipratropium](/drugs/ipratropium/) | L1 | 評估急性支氣管炎症狀控制效果 |
-| [NCT00386815](https://clinicaltrials.gov/study/NCT00386815) | [Pemetrexed](/drugs/pemetrexed/) | L1 | Pemetrexed + Cisplatin |
-| [NCT00402766](https://clinicaltrials.gov/study/NCT00402766) | [Dexamethasone](/drugs/dexamethasone/) | L2 | Cisplatin + Pemetrexed + Imatinib 治療惡性間皮瘤，Dexamethasone 為標準前驅藥 |
-| [NCT00427310](https://clinicaltrials.gov/study/NCT00427310) | [Uracil](/drugs/uracil/) | L1 | 結腸癌（Dukes A/B/C）術後門靜脈輸注 5-FU vs 觀察組，大型 RCT 直接驗證氟嘧啶類術後輔助治療效益 |
-| [NCT00427570](https://clinicaltrials.gov/study/NCT00427570) | [Uracil](/drugs/uracil/) | L1 | 可切除結腸癌術後含氟嘧啶類化療（5-FU+vincristine+semustine）vs BCG 免疫治療長期對照 RCT |
-| [NCT00450216](https://clinicaltrials.gov/study/NCT00450216) | [Famotidine](/drugs/famotidine/) | L2 | 十二指腸潰瘍(NSAID相關) |
-| [NCT00450658](https://clinicaltrials.gov/study/NCT00450658) | [Famotidine](/drugs/famotidine/) | L2 |  |
-| [NCT00452374](https://clinicaltrials.gov/study/NCT00452374) | [Cytarabine](/drugs/cytarabine/) | L3 | Oxaliplatin + Fludarabine + Ara-C + Rituximab |
-| [NCT00466609](https://clinicaltrials.gov/study/NCT00466609) | [Clomipramine](/drugs/clomipramine/) | L1 | 比較 fluoxetine + clomipramine vs fluoxetine + quetiapine |
-| [NCT00484679](https://clinicaltrials.gov/study/NCT00484679) | [Hydrocortisone](/drugs/hydrocortisone/) | L1 | 圓禿局部注射 Triamcinolone acetonide（同類皮質類固醇）對腎上腺功能影響之安全性研究，提供局部類固醇用於圓禿的安全性背景數據 |
-| [NCT00509886](https://clinicaltrials.gov/study/NCT00509886) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L3 | 處方與非處方止汗劑比較 |
-| [NCT00524706](https://clinicaltrials.gov/study/NCT00524706) | [Oteracil](/drugs/oteracil/) | L2 | S-1 與 Oxaliplatin 組合治療顯示出對未治療之轉移性大腸癌的良好活性和可接受的毒性。 |
-| [NCT00527072](https://clinicaltrials.gov/study/NCT00527072) | [Terbutaline](/drugs/terbutaline/) | L1 | Formoterol vs Terbutaline 在 COPD 患者的長期比較 |
-| [NCT00529529](https://clinicaltrials.gov/study/NCT00529529) | [Indacaterol](/drugs/indacaterol/) | L1 | Indacaterol 300/600μg vs Salmeterol 26 週長期安全性比較，中至重度持續性氣喘患者，雙盲雙模擬設計 |
-| [NCT00532324](https://clinicaltrials.gov/study/NCT00532324) | [Hexachlorophene](/drugs/hexachlorophene/) | L3 | 前瞻性世代研究：評估孕婦金黃色葡萄球菌（含 CA-MRSA）的臨床與分子流行病學，提供皮膚病原菌背景資料 |
-| [NCT00535418](https://clinicaltrials.gov/study/NCT00535418) | [Letrozole](/drugs/letrozole/) | L1 | 停經後 ER/PgR 陽性乳癌術前 Letrozole 最適治療時間評估，並建立療效替代標記的相關性 |
-| [NCT00544778](https://clinicaltrials.gov/study/NCT00544778) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 新輔助高劑量 doxorubicin + ifosfamide + irinotecan 用於晚期 Ewing 肉瘤，雖提前終止仍為直接藥物-疾病配對 |
-| [NCT00559273](https://clinicaltrials.gov/study/NCT00559273) | [Polyethylene Glycol 400](/drugs/polyethylene-glycol-400/) | L5 | 與darbepoetin比較 |
-| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | [Gemcitabine](/drugs/gemcitabine/) | L2 | 比較 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的維持治療效果 |
-| [NCT00561470](https://clinicaltrials.gov/study/NCT00561470) | [Uracil](/drugs/uracil/) | L1 | 轉移性結直腸癌二線治療：FOLFIRI（含 5-FU）+ aflibercept vs 安慰劑，大型國際雙盲 RCT |
-| [NCT00580619](https://clinicaltrials.gov/study/NCT00580619) | [Tyrosine](/drugs/tyrosine/) | L5 | POTS/慢性疲勞 |
-| [NCT00581542](https://clinicaltrials.gov/study/NCT00581542) | [Polymyxin B](/drugs/polymyxin-b/) | L3 | Polytrim vs Moxifloxacin |
-| [NCT00583778](https://clinicaltrials.gov/study/NCT00583778) | [Ipratropium](/drugs/ipratropium/) | L1 | Levalbuterol + Ipratropium vs Levalbuterol 單獨使用 |
-| [NCT00615589](https://clinicaltrials.gov/study/NCT00615589) | [Fludarabine](/drugs/fludarabine/) | L3 | 含 Fludarabine 減低毒性骨髓清除調理方案用於高風險多發性骨髓瘤異體 HSCT |
-| [NCT00629798](https://clinicaltrials.gov/study/NCT00629798) | [Busulfan](/drugs/busulfan/) | L1 | Busulfan+Melphalan+Fludarabine 加 Palifermin 保護後接 T 細胞去除 HSCT 用於進展期 MDS/AML |
-| [NCT00650468](https://clinicaltrials.gov/study/NCT00650468) | [Methylprednisone](/drugs/methylprednisone/) | L3 | 比較腎移植患者早期停用類固醇 vs. 長期維持方案（Prograf + CellCept）；皮質類固醇與心血管結果為次要觀察終點，屬間接相關 |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | [Oteracil](/drugs/oteracil/) | L2 | 比較 S-1 與其他治療在 III 期結腸癌患者中的效果。 |
-| [NCT00666133](https://clinicaltrials.gov/study/NCT00666133) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 低資源環境治療方案 (印度) |
-| [NCT00764530](https://clinicaltrials.gov/study/NCT00764530) | [Aluminum Oxide](/drugs/aluminum-oxide/) | L4 | 試驗涉及類風濕性關節炎患者，但主要針對髖關節置換術的材料研究 |
-| [NCT00774280](https://clinicaltrials.gov/study/NCT00774280) | [Busulfan](/drugs/busulfan/) | L1 | 隨機比較一日一次靜脈 Busulfan+Cyclophosphamide vs Busulfan+Fludarabine 用於白血病及 MDS 異體 HCT |
-| [NCT00781170](https://clinicaltrials.gov/study/NCT00781170) | [Fludarabine](/drugs/fludarabine/) | L3 | Melphalan/Fludarabine 減量異體移植後評估移植物抗骨髓瘤效應，適應症 Stage II/III MM |
-| [NCT00782717](https://clinicaltrials.gov/study/NCT00782717) | [Nepafenac](/drugs/nepafenac/) | L1 | Nepafenac 減少糖尿病視網膜病變患者術後黃斑水腫 |
-| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | [Trabectedin](/drugs/trabectedin/) | L5 | 評估 Trabectedin 對 QT/QTc 間隔的影響 |
-| [NCT00794157](https://clinicaltrials.gov/study/NCT00794157) | [Ipratropium](/drugs/ipratropium/) | L1 | Indacaterol 在中重度 COPD 的效果 |
-| [NCT00809198](https://clinicaltrials.gov/study/NCT00809198) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | Kynex（含 HA）vs Refresh Plus 用於輕中度乾眼症的平行組隨機遮蔽試驗 |
-| [NCT00822783](https://clinicaltrials.gov/study/NCT00822783) | [Omalizumab](/drugs/omalizumab/) | L2 | 評估抗 IgE 對異位性皮膚炎樹突細胞的影響 |
-| [NCT00887536](https://clinicaltrials.gov/study/NCT00887536) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較 TC+bevacizumab 與 TC 及 TAC 在 HER2 陰性乳癌的輔助治療 |
-| [NCT00908531](https://clinicaltrials.gov/study/NCT00908531) | [Letrozole](/drugs/letrozole/) | L1 | DBCG 試驗：評估 Letrozole 4 個月作為停經後 HR+ 早期乳癌初始治療 vs 手術優先策略 |
-| [NCT00911508](https://clinicaltrials.gov/study/NCT00911508) | [Dronedarone](/drugs/dronedarone/) | L2 | CABANA 試驗比較導管消融與抗心律不整藥物治療 |
-| [NCT00912093](https://clinicaltrials.gov/study/NCT00912093) | [Icatibant](/drugs/icatibant/) | L1 | 與安慰劑比較，證實症狀緩解時間顯著縮短 |
-| [NCT00916942](https://clinicaltrials.gov/study/NCT00916942) | [Prilocaine](/drugs/prilocaine/) | L3 | 開放性多中心試驗，直接研究 Lidocaine 2.5%/Prilocaine 2.5% 乳膏作為帶狀疱疹後遺神經痛（PHN）治療前置局部麻醉的耐受性；藥物與疾病族群完全吻合 |
-| [NCT00941798](https://clinicaltrials.gov/study/NCT00941798) | [Indacaterol](/drugs/indacaterol/) | L1 | QMF149 Twisthaler 大型安全性試驗，以嚴重氣喘惡化（住院／插管／死亡）為事件驅動終點，評估 IND/MF 固定劑量組合的安全性 |
-| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | [Desogestrel](/drugs/desogestrel/) | L3 | 研究年輕女性運動員的脂肪介導生殖內分泌功能，探討下視丘性閉經（HOA）族群中經皮或口服雌激素對骨密度與骨微結構的影響 |
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | [Temozolomide](/drugs/temozolomide/) | L1 | 評估 XL184 合併 Temozolomide 和放射治療用於第 4 級星狀細胞腫瘤的安全性和藥物動力學 |
-| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | [Oteracil](/drugs/oteracil/) | L2 | S-1 與 Bevacizumab 組合用於不可切除或復發性大腸癌。 |
-| [NCT00982189](https://clinicaltrials.gov/study/NCT00982189) | [Pravastatin](/drugs/pravastatin/) | L2 | Polypill預防研究 |
-| [NCT00991822](https://clinicaltrials.gov/study/NCT00991822) | [Dorzolamide](/drugs/dorzolamide/) | L3 | 比較 dorzolamide 和 timolol 對視神經盤血流的影響 |
-| [NCT00997204](https://clinicaltrials.gov/study/NCT00997204) | [Icatibant](/drugs/icatibant/) | L1 | 證實自我注射的安全性與療效 |
-| [NCT01017510](https://clinicaltrials.gov/study/NCT01017510) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | 比較 DERMOJET 與傳統注射針用於圓禿症局部類固醇（皮內注射）給藥方式的療效與便利性 |
-| [NCT01030627](https://clinicaltrials.gov/study/NCT01030627) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | Springfusor pump 給藥評估 |
-| [NCT01034969](https://clinicaltrials.gov/study/NCT01034969) | [Icatibant](/drugs/icatibant/) | L1 | 長期追蹤 1,761 名患者的安全性監測 |
-| [NCT01042379](https://clinicaltrials.gov/study/NCT01042379) | [Pexidartinib](/drugs/pexidartinib/) | L3 | I-SPY 2 乳癌新輔助治療自適應平台試驗，探索不同實驗性藥物與各乳癌分子亞型（含 HER2+）的治療反應及早期預測標記；pexidartinib 是否已列為測試藥物之一尚待確認，疾病相關性高但藥物直接關聯性待驗證 |
-| [NCT01049438](https://clinicaltrials.gov/study/NCT01049438) | [Hexachlorophene](/drugs/hexachlorophene/) | L3 | 前瞻性試驗：鼻腔 Mupirocin＋Hexachlorophene 全身洗浴＋全身性抗生素三聯療法，驗證對社區型 MRSA 復發性皮膚感染去定植的效果 |
-| [NCT01055496](https://clinicaltrials.gov/study/NCT01055496) | [Dexamethasone](/drugs/dexamethasone/) | L2 | R-CVP/R-GDP + Inotuzumab Ozogamicin 治療 CD22⁺ 非霍奇金淋巴瘤 |
-| [NCT01072396](https://clinicaltrials.gov/study/NCT01072396) | [Terbutaline](/drugs/terbutaline/) | L1 | COPD 患者支氣管擴張劑反應性研究 |
-| [NCT01101984](https://clinicaltrials.gov/study/NCT01101984) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 大型多國隨機平行對照試驗，直接以 DE-089（0.1% 玻尿酸鈉眼藥水）對比標準眼藥水用於乾眼症，為高品質直接療效證據 |
-| [NCT01108744](https://clinicaltrials.gov/study/NCT01108744) | [Mannitol](/drugs/mannitol/) | L3 | 高張鹽水 vs Mannitol 降顱內壓 |
-| [NCT01109173](https://clinicaltrials.gov/study/NCT01109173) | [Nepafenac](/drugs/nepafenac/) | L1 | Nepafenac 0.3% 用於白內障術後發炎和疼痛 |
-| [NCT01111981](https://clinicaltrials.gov/study/NCT01111981) | [Betamethasone](/drugs/betamethasone/) | L1 | clobetasol propionate 0.05% 泡沫劑於中心性離心性瘢痕性脫髮的安全性與療效，提供同類藥物的間接機轉佐證 |
-| [NCT01126736](https://clinicaltrials.gov/study/NCT01126736) | [Dexamethasone](/drugs/dexamethasone/) | L2 | Eribulin + Pemetrexed 治療非小細胞肺癌，Dexamethasone 作為化療前驅藥 |
-| [NCT01148225](https://clinicaltrials.gov/study/NCT01148225) | [Human Immunoglobulin G](/drugs/human-immunoglobulin-g/) | L3 | Adalimumab 用於非感染性葡萄膜炎（含 DR 相關併發症） |
-| [NCT01151137](https://clinicaltrials.gov/study/NCT01151137) | [Dronedarone](/drugs/dronedarone/) | L2 | PALLAS 試驗評估 dronedarone 在永久性心房纖維顫動預防主要心血管事件 |
-| [NCT01156844](https://clinicaltrials.gov/study/NCT01156844) | [Indacaterol](/drugs/indacaterol/) | L1 | 多中心雙盲重複給藥研究，比較三種 Indacaterol 劑量方案（含每日一次）於持續性氣喘的支氣管擴張療效 |
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | 直接研究口服大劑量脈衝 methylprednisolone 用於重度難治性圓禿症，探討更高劑量、更高頻率脈衝方案是否能改善全頭禿及全身禿的療效 |
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | [Prednisolone](/drugs/prednisolone/) | L3 | 研究大劑量口服類固醇在嚴重斑禿中的安全性和效果。 |
-| [NCT01168219](https://clinicaltrials.gov/study/NCT01168219) | [Busulfan](/drugs/busulfan/) | L1 | Busulfan+Fludarabine 減毒強度條件療法加 Azacitidine 用於高風險 MDS 及老年 AML 異體移植 |
-| [NCT01179529](https://clinicaltrials.gov/study/NCT01179529) | [Omalizumab](/drugs/omalizumab/) | L2 | 評估 omalizumab 在成人中重度 AD 的治療潛力 |
-| [NCT01215916](https://clinicaltrials.gov/study/NCT01215916) | [Dexamethasone](/drugs/dexamethasone/) | L2 | LY573636 + Pemetrexed 治療實體腫瘤，Dexamethasone 作為化療前驅藥 |
-| [NCT01227863](https://clinicaltrials.gov/study/NCT01227863) | [Polymyxin B](/drugs/polymyxin-b/) | L3 | Maxinom vs Maxitrol比較 |
-| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 隨機試驗比較 VTC 加入含 doxorubicin 標準 VDC/IE 方案用於非轉移性 Ewing 肉瘤，為本適應症最高品質直接證據之一 |
-| [NCT01256476](https://clinicaltrials.gov/study/NCT01256476) | [Pitavastatin](/drugs/pitavastatin/) | L3 | Pitavastatin 4mg vs Pravastatin 40mg |
-| [NCT01274078](https://clinicaltrials.gov/study/NCT01274078) | [Theophylline](/drugs/theophylline/) | L2 | 低劑量 Theophylline 加強吸入型類固醇效果 |
-| [NCT01280461](https://clinicaltrials.gov/study/NCT01280461) | [Cefoperazone](/drugs/cefoperazone/) | L2 | 開放性隨機比較試驗，直接評估 Cefoperazone/Sulbactam vs Cefepime 用於院內肺炎（HAP）及醫療相關肺炎（HCAP）之療效與安全性，療程 7–21 天，已有對應發表論文（PMID 31138577） |
-| [NCT01288131](https://clinicaltrials.gov/study/NCT01288131) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | 抗 EPO 誘發純紅血球再生障礙（PRCA）治療研究：Cyclosporin+MMF vs. Cyclophosphamide+Prednisolone（主適應症非 HIV，提前終止） |
-| [NCT01288352](https://clinicaltrials.gov/study/NCT01288352) | [Dronedarone](/drugs/dronedarone/) | L2 | EAST 試驗證實早期節律控制可預防心血管死亡和中風 |
-| [NCT01318694](https://clinicaltrials.gov/study/NCT01318694) | [Ribavirin](/drugs/ribavirin/) | L3 | Alisporivir + peginterferon + ribavirin 治療 C 型肝炎 |
-| [NCT01339910](https://clinicaltrials.gov/study/NCT01339910) | [Busulfan](/drugs/busulfan/) | L1 | Phase 3 多中心 RCT（BMT CTN #0901）比較骨髓消融 vs 減毒強度條件療法用於 MDS/AML 異體 HSCT |
-| [NCT01383707](https://clinicaltrials.gov/study/NCT01383707) | [Uracil](/drugs/uracil/) | L1 | 結直腸癌肝轉移 bevacizumab+mFOLFOX-6（含 5-FU）兩階段 Simon 設計，評估療效與安全性 |
-| [NCT01386658](https://clinicaltrials.gov/study/NCT01386658) | [Icatibant](/drugs/icatibant/) | L1 | 兒童及青少年的藥動學與安全性研究 |
-| [NCT01386853](https://clinicaltrials.gov/study/NCT01386853) | [Pitavastatin](/drugs/pitavastatin/) | L3 | Pitavastatin vs Atorvastatin 非劣性試驗 |
-| [NCT01422824](https://clinicaltrials.gov/study/NCT01422824) | [Polyethylene Glycol 400](/drugs/polyethylene-glycol-400/) | L5 | PEG化紅血球生成素 |
-| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | [Fosfomycin](/drugs/fosfomycin/) | L5 | 兒童標準照護藥物的藥動學研究 |
-| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | [Rocuronium](/drugs/rocuronium/) | L5 | 兒科多藥藥動學觀察研究，rocuronium 依標準照護給藥；研究目的為 PK 描述，與偏頭痛治療無直接關聯（相關性評級：C） |
-| [NCT01437982](https://clinicaltrials.gov/study/NCT01437982) | [Prednisolone Acetate](/drugs/prednisolone-acetate/) | L4 | Lotemax 眼用懸浮液的安全性和療效評估 |
-| [NCT01445418](https://clinicaltrials.gov/study/NCT01445418) | [Carboplatin](/drugs/carboplatin/) | L2 | 研究 PARP 抑制劑 AZD2281 與 carboplatin 併用在 BRCA1/2 突變攜帶者乳腺癌中的安全性 |
-| [NCT01453192](https://clinicaltrials.gov/study/NCT01453192) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | HIV 感染者腎臟移植後多中心前瞻研究，MMF 作為免疫抑制方案組成，評估含 Raltegravir 的三聯抗病毒方案下 6 個月內急性排斥率 |
-| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | [Hydrocortisone](/drugs/hydrocortisone/) | L1 | 兒童圓禿 RCT：直接比較 Hydrocortisone 1% cream vs Clobetasol propionate 0.05% cream，為本適應症最強等級的直接臨床證據（對應 PMID 24226568） |
-| [NCT01519947](https://clinicaltrials.gov/study/NCT01519947) | [Polyethylene Glycol 400](/drugs/polyethylene-glycol-400/) | L5 | 海拔對劑量影響研究 |
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | [Dorzolamide](/drugs/dorzolamide/) | L3 | 評估 latanoprost 和 dorzolamide 在兒童先天性青光眼的降眼壓效果 |
-| [NCT01540877](https://clinicaltrials.gov/study/NCT01540877) | [Prilocaine](/drugs/prilocaine/) | L3 | 探討局部麻醉劑（LA）阻斷 C 纖維的感覺變化模型，以辣椒素聯合局部麻醉劑研究神經痛機轉 |
-| [NCT01556906](https://clinicaltrials.gov/study/NCT01556906) | [Vitamin E](/drugs/vitamin-e/) | L3 | 評估 MTP 抑制劑在同型合子家族性高膽固醇血症患者中的效果（需監測脂溶性維生素） |
-| [NCT01573442](https://clinicaltrials.gov/study/NCT01573442) | [Letrozole](/drugs/letrozole/) | L1 | Anastrozole 或 Letrozole 引起的關節痛：睪固酮 vs 安慰劑輔助治療的隨機對照試驗 |
-| [NCT01583426](https://clinicaltrials.gov/study/NCT01583426) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較 nab-paclitaxel 與 solvent-based paclitaxel 作為新輔助化療 |
-| [NCT01583426](https://clinicaltrials.gov/study/NCT01583426) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Nab-paclitaxel vs 傳統 Paclitaxel |
-| [NCT01587924](https://clinicaltrials.gov/study/NCT01587924) | [Terbutaline](/drugs/terbutaline/) | L1 | 吸入型支氣管擴張劑對 COPD 患者膈肌功能影響 |
-| [NCT01588873](https://clinicaltrials.gov/study/NCT01588873) | [Desogestrel](/drugs/desogestrel/) | L3 | 比較含 desogestrel 口服避孕藥與陰道避孕環在 PCOS 婦女中對雄激素、胰島素代謝及發炎指標的長期（59 週）影響 |
-| [NCT01609478](https://clinicaltrials.gov/study/NCT01609478) | [Indacaterol](/drugs/indacaterol/) | L1 | Indacaterol acetate 75μg/150μg 12 週療效、安全性及藥動學研究，為 QMF149 固定劑量組合的劑量選擇提供依據 |
-| [NCT01610492](https://clinicaltrials.gov/study/NCT01610492) | [Belimumab](/drugs/belimumab/) | L3 | 特發性膜性腎病變研究，涉及 PLA2R 自體抗體，間接與血小板功能相關 |
-| [NCT01678092](https://clinicaltrials.gov/study/NCT01678092) | [Omalizumab](/drugs/omalizumab/) | L2 | Omalizumab 在異位性皮膚炎患者的單中心研究 |
-| [NCT01809483](https://clinicaltrials.gov/study/NCT01809483) | [Polymyxin B](/drugs/polymyxin-b/) | L3 |  |
-| [NCT01812161](https://clinicaltrials.gov/study/NCT01812161) | [Hydroxyprogesterone Caproate](/drugs/hydroxyprogesterone-caproate/) | L2 | 電針灸對 PCOS 患者 17-OHP 水平的影響（間接相關） |
-| [NCT01844505](https://clinicaltrials.gov/study/NCT01844505) | [Ipilimumab](/drugs/ipilimumab/) | L5 | Nivolumab 單藥或併用 Ipilimumab vs Ipilimumab 單藥用於未治療轉移性黑色素瘤 |
-| [NCT01846156](https://clinicaltrials.gov/study/NCT01846156) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 最佳 MgSO4 療程方案 (埃及) |
-| [NCT01853072](https://clinicaltrials.gov/study/NCT01853072) | [Nepafenac](/drugs/nepafenac/) | L1 | Nepafenac 0.3% 用於糖尿病患者白內障術後 |
-| [NCT01866449](https://clinicaltrials.gov/study/NCT01866449) | [Dexamethasone](/drugs/dexamethasone/) | L2 | Cabazitaxel 治療復發性膠質母細胞瘤，Dexamethasone 控制腦水腫 |
-| [NCT01872611](https://clinicaltrials.gov/study/NCT01872611) | [Nepafenac](/drugs/nepafenac/) | L1 | Nepafenac 0.3% 改善糖尿病患者術後視力 |
-| [NCT01881230](https://clinicaltrials.gov/study/NCT01881230) | [Carboplatin](/drugs/carboplatin/) | L2 | 評估 nab-paclitaxel 與 gemcitabine 或 carboplatin 在三陰性轉移性乳腺癌的療效 |
-| [NCT01900743](https://clinicaltrials.gov/study/NCT01900743) | [Regorafenib](/drugs/regorafenib/) | L2 | REGOSARC：Regorafenib vs 安慰劑用於軟組織肉瘤，包含脂肪肉瘤組 |
-| [NCT01911377](https://clinicaltrials.gov/study/NCT01911377) | [Prilocaine](/drugs/prilocaine/) | L3 | 肉毒桿菌素用於脊髓損傷或多發性硬化症之異痛性神經病變疼痛（已終止），提供疾病族群相關性 |
-| [NCT01911494](https://clinicaltrials.gov/study/NCT01911494) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | CLIP 社區介入子癇前症 |
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | [Oteracil](/drugs/oteracil/) | L2 | 比較 S-1 與 Capecitabine 在轉移性大腸癌患者中的效果。 |
-| [NCT01934894](https://clinicaltrials.gov/study/NCT01934894) | [Cabazitaxel](/drugs/cabazitaxel/) | L2 | Cabazitaxel + lapatinib 穿越血腦屏障的療效 |
-| [NCT01946529](https://clinicaltrials.gov/study/NCT01946529) | [Doxorubicin](/drugs/doxorubicin/) | L1 | Ewing 肉瘤家族腫瘤（ESFT）及 DSRCT 治療試驗，依腫瘤特徵分組，doxorubicin 為方案核心藥物 |
-| [NCT01949311](https://clinicaltrials.gov/study/NCT01949311) | [Dupilumab](/drugs/dupilumab/) | L3 | Dupilumab 在異位性皮膚炎成人患者的長期安全性研究 |
-| [NCT01958021](https://clinicaltrials.gov/study/NCT01958021) | [Letrozole](/drugs/letrozole/) | L1 | MONALEESA-2：評估 Ribociclib 合併 Letrozole 於 HR+/HER2− 晚期乳癌一線治療的無進展存活期 |
-| [NCT02004275](https://clinicaltrials.gov/study/NCT02004275) | [Dexamethasone](/drugs/dexamethasone/) | L2 | Pomalidomide + Dexamethasone ± Ixazomib 治療復發性多發性骨髓瘤 |
-| [NCT02037191](https://clinicaltrials.gov/study/NCT02037191) | [Prednisone](/drugs/prednisone/) | L2 | Methotrexate 加低劑量 prednisone vs 安慰劑治療嚴重圓禿 |
-| [NCT02042092](https://clinicaltrials.gov/study/NCT02042092) | [Alprostadil](/drugs/alprostadil/) | L1 | 血管超音波與 MRA 比較 |
-| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | [Regorafenib](/drugs/regorafenib/) | L2 | SARC024：Regorafenib 用於脂肪肉瘤、骨肉瘤、Ewing 肉瘤等 |
-| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | [Omalizumab](/drugs/omalizumab/) | L2 | 嗜酸性球性支氣管炎患者的類固醇減量效果 |
-| [NCT02056847](https://clinicaltrials.gov/study/NCT02056847) | [Pitavastatin](/drugs/pitavastatin/) | L3 | Pitavastatin 在空腹血糖異常患者 |
-| [NCT02060149](https://clinicaltrials.gov/study/NCT02060149) | [Cefoperazone](/drugs/cefoperazone/) | L2 | 多中心隨機研究，探討霧化鹼性溶液合併 Cefoperazone-Sulbactam 及 Minocycline，用於廣泛耐藥鮑曼不動桿菌（XDRAB）肺炎之療效，假說為改變氣道 pH 環境可抑制 XDRAB 生物活性 |
-| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 隨機評估非轉移性 Ewing 肉瘤劑量強化方案（含 doxorubicin 誘導）對無事件存活的影響 |
-| [NCT02090114](https://clinicaltrials.gov/study/NCT02090114) | [Chlorobutanol](/drugs/chlorobutanol/) | L5 | BAT 序列接 Enzalutamide／Abiraterone 用於轉移性 CRPC；研究藥物與 Chlorobutanol 無關，ED 為副作用背景測量 |
-| [NCT02091401](https://clinicaltrials.gov/study/NCT02091401) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | Springfusor vs 持續靜脈輸注 |
-| [NCT02098629](https://clinicaltrials.gov/study/NCT02098629) | [Milrinone](/drugs/milrinone/) | L3 | Milrinone 與 Esmolol 併用於急性心肌梗塞 |
-| [NCT02139358](https://clinicaltrials.gov/study/NCT02139358) | [Gemcitabine](/drugs/gemcitabine/) | L2 | 評估 gemcitabine 與 trastuzumab 和 pertuzumab 在 HER2+ 乳腺癌中的安全性和活性 |
-| [NCT02156895](https://clinicaltrials.gov/study/NCT02156895) | [Axitinib](/drugs/axitinib/) | L3 | Axitinib（Inlyta）於 RCC 患者的上市後安全性與療效監測研究，提供真實使用情境下的直接觀察性資料 |
-| [NCT02206984](https://clinicaltrials.gov/study/NCT02206984) | [Anastrozole](/drugs/anastrozole/) | L1 | 侵犯性乳小葉癌對內分泌治療反應評估 |
-| [NCT02221310](https://clinicaltrials.gov/study/NCT02221310) | [Busulfan](/drugs/busulfan/) | L1 | Gemtuzumab Ozogamicin 聯合 Busulfan/Cyclophosphamide 條件療法後異體移植用於高風險 AML/MDS |
-| [NCT02233322](https://clinicaltrials.gov/study/NCT02233322) | [Ferrous Gluconate](/drugs/ferrous-gluconate/) | L5 | 鐵治療自體顯性低磷酸鹽血症性佝僂病 |
-| [NCT02260011](https://clinicaltrials.gov/study/NCT02260011) | [Ipratropium](/drugs/ipratropium/) | L1 | Ipratropium bromide HFA 與 Atrovent CFC 比較 |
-| [NCT02275234](https://clinicaltrials.gov/study/NCT02275234) | [Terbutaline](/drugs/terbutaline/) | L1 | COPD 患者住院期間支氣管擴張劑給予方式比較 |
-| [NCT02277769](https://clinicaltrials.gov/study/NCT02277769) | [Dupilumab](/drugs/dupilumab/) | L3 | 確認 dupilumab 單藥治療中至重度異位性皮膚炎的療效 |
-| [NCT02286921](https://clinicaltrials.gov/study/NCT02286921) | [Chlorobutanol](/drugs/chlorobutanol/) | L5 | 比較 BAT 與 Enzalutamide 用於無症狀前列腺癌；研究藥物與 Chlorobutanol 無關，ED 為雄激素剝奪已知副作用的背景記錄 |
-| [NCT02288078](https://clinicaltrials.gov/study/NCT02288078) | [Dexamethasone](/drugs/dexamethasone/) | L2 | Dexamethasone 預防 Regorafenib 引起的疲勞（大腸直腸癌，安慰劑對照） |
-| [NCT02297438](https://clinicaltrials.gov/study/NCT02297438) | [Letrozole](/drugs/letrozole/) | L1 | PALOMA-2 亞洲族群：比較 Palbociclib+Letrozole vs 安慰劑+Letrozole，用於未治療 ER+/HER2− 停經後晚期乳癌 |
-| [NCT02300701](https://clinicaltrials.gov/study/NCT02300701) | [Omalizumab](/drugs/omalizumab/) | L2 | 評估 omalizumab 對嚴重小兒異位性濕疹的療效 |
-| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 隨機評估 IGF-1R 單株抗體 ganitumab 加入含 doxorubicin 間隔壓縮化療用於新確診轉移性 Ewing 肉瘤 |
-| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 探討產前接受 8 小時以上 MgSO4 者產後是否仍需繼續治療 |
-| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 產後 6 vs 24 小時 MgSO4 |
-| [NCT02325518](https://clinicaltrials.gov/study/NCT02325518) | [Dorzolamide](/drugs/dorzolamide/) | L3 | 比較 brinzolamide/timolol 與 dorzolamide/timolol 複方的療效 |
-| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | [Betamethasone](/drugs/betamethasone/) | L1 | 隨機比較局部 betamethasone 與 latanoprost 於局限性圓禿的療效與安全性，為局部皮質類固醇治療圓禿的頭對頭比較 |
-| [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 維持劑量 1g/h vs 2g/h |
-| [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | [Tizanidine](/drugs/tizanidine/) | L5 | PACE 研究：外用複合止痛藥療效 |
-| [NCT02413320](https://clinicaltrials.gov/study/NCT02413320) | [Carboplatin](/drugs/carboplatin/) | L2 | 評估含 carboplatin 化療方案在三陰性乳腺癌新輔助治療中的病理完全緩解率 |
-| [NCT02441946](https://clinicaltrials.gov/study/NCT02441946) | [Anastrozole](/drugs/anastrozole/) | L1 | Abemaciclib + Anastrozole 新輔助治療，Ki67 顯著下降 |
-| [NCT02443155](https://clinicaltrials.gov/study/NCT02443155) | [Human Immunoglobulin G](/drugs/human-immunoglobulin-g/) | L3 | 研究保護 beta 細胞功能的免疫調節治療 |
-| [NCT02465060](https://clinicaltrials.gov/study/NCT02465060) | [Larotrectinib](/drugs/larotrectinib/) | L3 | NCI-MATCH 跨瘤種籃型試驗，含 NTRK1/2/3 融合臂（Arm Z1A），可能納入 MEN 相關實體腫瘤；惟試驗設計並非針對 MEN，為間接相關 |
-| [NCT02537951](https://clinicaltrials.gov/study/NCT02537951) | [Prilocaine](/drugs/prilocaine/) | L3 | Pilot 研究，以 EMLA 乳膏前處理進行表皮內神經纖維自體螢光成像，佐證 EMLA 在小纖維神經病變評估情境的實際應用 |
-| [NCT02542254](https://clinicaltrials.gov/study/NCT02542254) | [Ipratropium](/drugs/ipratropium/) | L1 | RPL554 添加於 Ipratropium 的支氣管擴張效果 |
-| [NCT02554786](https://clinicaltrials.gov/study/NCT02554786) | [Indacaterol](/drugs/indacaterol/) | L1 | QMF149（Indacaterol/Mometasone）兩種劑量 vs Mometasone 單藥 52 週研究，評估固定劑量組合對肺功能改善與氣喘控制的優越性 |
-| [NCT02571777](https://clinicaltrials.gov/study/NCT02571777) | [Indacaterol](/drugs/indacaterol/) | L1 | QVM149 兩種劑量（IND/GLY/MF 150/50/80μg 及 150/50/160μg）vs QMF149（IND/MF）52 週療效與安全性比較，評估三合一組合用於控制不佳氣喘患者的肺功能及氣喘控制 |
-| [NCT02587351](https://clinicaltrials.gov/study/NCT02587351) | [Metoprolol](/drugs/metoprolol/) | L2 | Metoprolol 預防 COPD 急性惡化 |
-| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | [Oteracil](/drugs/oteracil/) | L2 | 評估轉移性大腸癌患者的中位疾病無進展生存期 (mPFS)。 |
-| [NCT02626962](https://clinicaltrials.gov/study/NCT02626962) | [Ipilimumab](/drugs/ipilimumab/) | L5 | Nivolumab + Ipilimumab 用於未治療轉移性葡萄膜黑色素瘤 |
-| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | [Flunitrazepam](/drugs/flunitrazepam/) | L5 | 老年人安眠藥物風險效益評估 |
-| [NCT02679755](https://clinicaltrials.gov/study/NCT02679755) | [Letrozole](/drugs/letrozole/) | L1 | Palbociclib+Letrozole 用於 HR+/HER2− 停經後晚期乳癌的真實世界療效與安全性觀察 |
-| [NCT02685826](https://clinicaltrials.gov/study/NCT02685826) | [Dexamethasone](/drugs/dexamethasone/) | L2 | Durvalumab + Lenalidomide ± Dexamethasone 治療新診斷多發性骨髓瘤 |
-| [NCT02727387](https://clinicaltrials.gov/study/NCT02727387) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 高劑量化療 + 放療 + cyclophosphamide 鞏固治療用於轉移性 Ewing 肉瘤，doxorubicin 為誘導方案成份 |
-| [NCT02738385](https://clinicaltrials.gov/study/NCT02738385) | [Tenofovir Alafenamide](/drugs/tenofovir-alafenamide/) | L2 | Tenofovir alafenamide 用於 SIV/SHIV 感染恆河猴之 PK 研究 |
-| [NCT02767245](https://clinicaltrials.gov/study/NCT02767245) | [Thiamine](/drugs/thiamine/) | L2 | 高劑量 Thiamine 治療甲狀腺亢進相關疲勞 |
-| [NCT02793544](https://clinicaltrials.gov/study/NCT02793544) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | HLA 不相合非親屬骨髓移植加 PTCy+Sirolimus+MMF 預防 GVHD 於血液惡性腫瘤患者（與 HIV 治療無直接關聯） |
-| [NCT02800083](https://clinicaltrials.gov/study/NCT02800083) | [Pitolisant](/drugs/pitolisant/) | L3 | Pitolisant for Alcohol Use Disorder |
-| [NCT02812420](https://clinicaltrials.gov/study/NCT02812420) | [Durvalumab](/drugs/durvalumab/) | L3 | 評估 durvalumab+tremelimumab 在無法接受 cisplatin 的高風險泌尿道上皮癌術前治療 |
-| [NCT02834390](https://clinicaltrials.gov/study/NCT02834390) | [Teriparatide](/drugs/teriparatide/) | L2 | 產後骨質疏鬆症的骨代謝研究 |
-| [NCT02835339](https://clinicaltrials.gov/study/NCT02835339) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | BMI >= 35 kg/m2 |
-| [NCT02844816](https://clinicaltrials.gov/study/NCT02844816) | [Atezolizumab](/drugs/atezolizumab/) | L2 | BCG 無效之非肌肉侵犯性膀胱癌使用 atezolizumab |
-| [NCT02891447](https://clinicaltrials.gov/study/NCT02891447) | [Sodium Citrate](/drugs/sodium-citrate/) | L3 | 胃癌細胞減積術與 HIPEC |
-| [NCT02899299](https://clinicaltrials.gov/study/NCT02899299) | [Pemetrexed](/drugs/pemetrexed/) | L1 | Nivolumab + Ipilimumab vs Pemetrexed + Platinum |
-| [NCT02924987](https://clinicaltrials.gov/study/NCT02924987) | [Human Immunoglobulin G](/drugs/human-immunoglobulin-g/) | L3 | 抗 VEGF 治療糖尿病黃斑部水腫 |
-| [NCT02953821](https://clinicaltrials.gov/study/NCT02953821) | [Prednisone](/drugs/prednisone/) | L2 | Acthar Gel 用於系統性紅斑狼瘡患者 |
-| [NCT03050307](https://clinicaltrials.gov/study/NCT03050307) | [Sodium Citrate](/drugs/sodium-citrate/) | L3 | TAK-438 vs Lansoprazole 治療胃潰瘍 |
-| [NCT03050359](https://clinicaltrials.gov/study/NCT03050359) | [Sodium Citrate](/drugs/sodium-citrate/) | L3 | TAK-438 vs Lansoprazole 治療十二指腸潰瘍 |
-| [NCT03100825](https://clinicaltrials.gov/study/NCT03100825) | [Indacaterol](/drugs/indacaterol/) | L1 | QVM149 在日本氣喘患者的 52 週長期安全性研究，支持日本地區藥品許可申請 |
-| [NCT03101579](https://clinicaltrials.gov/study/NCT03101579) | [Cytarabine](/drugs/cytarabine/) | L3 | 鞘內 Pemetrexed 治療 NSCLC 腦膜轉移 |
-| [NCT03111615](https://clinicaltrials.gov/study/NCT03111615) | [Letrozole](/drugs/letrozole/) | L1 | 探討組織確診後立即啟動 Letrozole 治療對腫瘤生物特性的潛在影響 |
-| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | [Everolimus](/drugs/everolimus/) | L2 | Ribociclib（300 mg/day，3 週開 1 週停）＋Everolimus（2.5 mg）聯合療法，分兩組分別研究進展性去分化脂肉瘤（Arm A）及平滑肌肉瘤（Arm B）；結果已於 2024 年在 Clinical Cancer Research 發表（PMID 37967116） |
-| [NCT03115086](https://clinicaltrials.gov/study/NCT03115086) | [Vitamin E](/drugs/vitamin-e/) | L3 | Cholbam (膽酸)治療膽汁酸合成缺陷患者的登記研究 |
-| [NCT03116841](https://clinicaltrials.gov/study/NCT03116841) | [Vonoprazan](/drugs/vonoprazan/) | L2 | 評估 Vonoprazan 20mg 對反流性食道炎患者睡眠障礙的影響 |
-| [NCT03154385](https://clinicaltrials.gov/study/NCT03154385) | [Methylprednisone](/drugs/methylprednisone/) | L3 | 評估 Rituximab 合併 Belimumab 治療持續性 ITP 的療效與安全性；皮質類固醇（含 Methylprednisolone）作為聯合治療基礎，追蹤期 1 年 |
-| [NCT03158311](https://clinicaltrials.gov/study/NCT03158311) | [Indacaterol](/drugs/indacaterol/) | L1 | QVM149 vs Salmeterol/Fluticasone + Tiotropium 自由三合一組合 24 週非劣效性研究，支持固定劑量三合一製劑替代自由組合的可行性 |
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | [Atezolizumab](/drugs/atezolizumab/) | L2 | Cabozantinib 合併 atezolizumab 用於泌尿上皮癌等多種實體腫瘤 |
-| [NCT03191396](https://clinicaltrials.gov/study/NCT03191396) | [Sulfamethazine](/drugs/sulfamethazine/) | L4 | Semaglutide vs Liraglutide 糖尿病試驗 |
-| [NCT03207945](https://clinicaltrials.gov/study/NCT03207945) | [Alirocumab](/drugs/alirocumab/) | L3 | 評估 PCSK9 抑制劑對動脈粥狀硬化的影響 |
-| [NCT03214952](https://clinicaltrials.gov/study/NCT03214952) | [Vonoprazan](/drugs/vonoprazan/) | L2 | 評估 Vonoprazan 在胃潰瘍、十二指腸潰瘍和反流性食道炎中的安全性和有效性 |
-| [NCT03220009](https://clinicaltrials.gov/study/NCT03220009) | [Ipilimumab](/drugs/ipilimumab/) | L5 | 黏膜黑色素瘤（術前輔助） |
-| [NCT03220113](https://clinicaltrials.gov/study/NCT03220113) | [Prilocaine](/drugs/prilocaine/) | L3 | 開放性試驗，De-Novo 配方（含局部麻醉劑）注射三叉神經分支及枕大/枕小神經，用於頑固性顱顏神經痛 |
-| [NCT03223909](https://clinicaltrials.gov/study/NCT03223909) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 含 HA 的 PRO-087 眼藥水 vs Systane Ultra 用於輕中度淚膜功能障礙，評估眼表解剖與生理恢復 |
-| [NCT03299166](https://clinicaltrials.gov/study/NCT03299166) | [Clomipramine](/drugs/clomipramine/) | L1 | 評估對 SSRI/clomipramine 反應不佳患者的輔助治療 |
-| [NCT03303950](https://clinicaltrials.gov/study/NCT03303950) | [Fludarabine](/drugs/fludarabine/) | L3 | Busulfan+Fludarabine 加供者幹細胞移植直接用於多發性骨髓瘤及骨髓纖維化，雖提前終止仍有直接試驗紀錄 |
-| [NCT03346434](https://clinicaltrials.gov/study/NCT03346434) | [Dupilumab](/drugs/dupilumab/) | L3 | 評估 dupilumab 在 6 個月至 6 歲異位性皮膚炎兒童的藥動學和療效 |
-| [NCT03370835](https://clinicaltrials.gov/study/NCT03370835) | [Metoprolol](/drugs/metoprolol/) | L2 | 比較 Metoprolol 和 Carvedilol 在 COPD 患者的耐受性 |
-| [NCT03412071](https://clinicaltrials.gov/study/NCT03412071) | [Tinidazole](/drugs/tinidazole/) | L5 | Testing the Ability of a Microbiome-Focused Intervention to Reduce HIV Susceptibility in Ugandan Men |
-| [NCT03416348](https://clinicaltrials.gov/study/NCT03416348) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L3 | 建立多汗症治療流程 |
-| [NCT03433859](https://clinicaltrials.gov/study/NCT03433859) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L3 | 比較 aluminum chloride 與肉毒桿菌素 |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | [Oteracil](/drugs/oteracil/) | L2 | 比較 S-1 與 Capecitabine 作為 III 期大腸癌患者的輔助化療。 |
-| [NCT03452332](https://clinicaltrials.gov/study/NCT03452332) | [Durvalumab](/drugs/durvalumab/) | L3 | 低分次放療聯合 durvalumab 和 tremelimumab 治療復發/轉移性婦科癌症 |
-| [NCT03469960](https://clinicaltrials.gov/study/NCT03469960) | [Ipilimumab](/drugs/ipilimumab/) | L5 | Nivolumab-Ipilimumab 持續治療 vs 觀察用於 PD-L1 陽性 NSCLC |
-| [NCT03470805](https://clinicaltrials.gov/study/NCT03470805) | [Trabectedin](/drugs/trabectedin/) | L5 | 評估 Olaparib 作為 Trabectedin-PLD 療程後維持治療在復發性卵巢癌中的效果 |
-| [NCT03499873](https://clinicaltrials.gov/study/NCT03499873) | [Nepafenac](/drugs/nepafenac/) | L1 | Nepafenac 0.3% 生物等效性研究 |
-| [NCT03500328](https://clinicaltrials.gov/study/NCT03500328) | [Interferon Beta-1B](/drugs/interferon-beta-1b/) | L3 |  |
-| [NCT03507244](https://clinicaltrials.gov/study/NCT03507244) | [Cytarabine](/drugs/cytarabine/) | L3 | 鞘內 Pemetrexed 治療腦膜轉移 |
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | [Pravastatin](/drugs/pravastatin/) | L2 | 兒童青少年hoFH,背景他汀治療 |
-| [NCT03524235](https://clinicaltrials.gov/study/NCT03524235) | [Fludarabine](/drugs/fludarabine/) | L3 | Bendamustine+Fludarabine+Rituximab 調理用於半相合 SCT，適應症含 MM 及 CLL |
-| [NCT03535233](https://clinicaltrials.gov/study/NCT03535233) | [Betamethasone](/drugs/betamethasone/) | L1 | 強效局部皮質類固醇聯合 minoxidil 5% 對比病灶內三安西諾龍注射於圓禿的隨機對照試驗 |
-| [NCT03549767](https://clinicaltrials.gov/study/NCT03549767) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | Springfusor vs 標準方法 (烏干達) |
-| [NCT03566667](https://clinicaltrials.gov/study/NCT03566667) | [Metoprolol](/drugs/metoprolol/) | L2 | Beta-blocker 對 COPD 患者的益處 |
-| [NCT03587220](https://clinicaltrials.gov/study/NCT03587220) | [Prilocaine](/drugs/prilocaine/) | L3 | 研究辣椒素去敏化機轉，以 EMLA 乳膏（含 Prilocaine）為皮膚前處理；直接於神經痛情境使用含 Prilocaine 製劑，佐證其 Na⁺ 通道阻斷效果 |
-| [NCT03588091](https://clinicaltrials.gov/study/NCT03588091) | [Docetaxel](/drugs/docetaxel/) | L1 | 評估 pyrotinib 聯合 trastuzumab 和 docetaxel 的新輔助治療 |
-| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | Baricitinib（JAK1/2 抑制劑）用於圓禿症疾病族群的雙盲安慰劑對照大型 RCT，代表同疾病領域最高等級試驗背景 |
-| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | [Prednisolone](/drugs/prednisolone/) | L3 | 研究 Baricitinib 在 SLE 患者中的效果和安全性。 |
-| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | [Prednisone](/drugs/prednisone/) | L2 | Baricitinib 用於系統性紅斑狼瘡 |
-| [NCT03692819](https://clinicaltrials.gov/study/NCT03692819) | [Benzylpenicillin](/drugs/benzylpenicillin/) | L3 | 慢性牙周炎輔助治療中的抗生素 vs 益生菌 |
-| [NCT03702374](https://clinicaltrials.gov/study/NCT03702374) | [Alpha-Tocopherol Acetate](/drugs/alpha-tocopherol-acetate/) | L2 | 評估長期複合抗氧化療法對中度、重度及增生性糖尿病視網膜病變患者氧化壓力與粒線體功能障礙標記的影響，12 個月口服介入，設有安慰劑對照組 |
-| [NCT03725059](https://clinicaltrials.gov/study/NCT03725059) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Pembrolizumab + 化療 (含 Paclitaxel) |
-| [NCT03778554](https://clinicaltrials.gov/study/NCT03778554) | [Metoprolol](/drugs/metoprolol/) | L2 | 心肌梗塞後無心衰患者的 beta-blocker 治療 |
-| [NCT03778931](https://clinicaltrials.gov/study/NCT03778931) | [Anastrozole](/drugs/anastrozole/) | L1 | Elacestrant vs AI 在 CDK4/6 抑制劑失敗後的 ER+/HER2- 乳癌 |
-| [NCT03822468](https://clinicaltrials.gov/study/NCT03822468) | [Anastrozole](/drugs/anastrozole/) | L1 | Ribociclib 400mg + AI 在晚期乳癌的療效與安全性 |
-| [NCT03839875](https://clinicaltrials.gov/study/NCT03839875) | [Tioconazole](/drugs/tioconazole/) | L5 | Gynomax XL Ovule 治療陰道感染 |
-| [NCT03843125](https://clinicaltrials.gov/study/NCT03843125) | [Prednisolone](/drugs/prednisolone/) | L3 | 長期研究 Baricitinib 在 SLE 患者中的效果和安全性。 |
-| [NCT03845517](https://clinicaltrials.gov/study/NCT03845517) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | PF-06700841（TYK2/JAK1 抑制劑）用於中重度活躍性圓禿症族群的雙盲隨機劑量探索研究 |
-| [NCT03888183](https://clinicaltrials.gov/study/NCT03888183) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 隨機雙盲對照試驗，評估無防腐劑低濃度 HA 含鹽眼藥水對乾眼症的短期輔助效果（334 人大樣本） |
-| [NCT03912818](https://clinicaltrials.gov/study/NCT03912818) | [Durvalumab](/drugs/durvalumab/) | L3 | 評估 durvalumab 聯合新輔助化療在變異組織型膀胱癌的療效 |
-| [NCT03990766](https://clinicaltrials.gov/study/NCT03990766) | [Theophylline](/drugs/theophylline/) | L2 | Theophylline 治療病毒感染後嗅覺障礙 |
-| [NCT03993119](https://clinicaltrials.gov/study/NCT03993119) | [Prasugrel](/drugs/prasugrel/) | L4 | 觀察性橫斷面研究，描述西班牙老年非瓣膜性心房顫動患者的 NOAC 使用現況，非直接研究 Prasugrel 或肺動脈高壓，僅提供抗栓藥物背景資訊 |
-| [NCT03999749](https://clinicaltrials.gov/study/NCT03999749) | [Ipilimumab](/drugs/ipilimumab/) | L5 | Tocilizumab + Ipilimumab + Nivolumab 用於晚期黑色素瘤 |
-| [NCT04003688](https://clinicaltrials.gov/study/NCT04003688) | [Cisatracurium](/drugs/cisatracurium/) | L4 | 比較兩種方法計算肥胖患者的硫酸鎂劑量，涉及子癲前症。 |
-| [NCT04003688](https://clinicaltrials.gov/study/NCT04003688) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 肥胖患者 MgSO4 劑量計算策略 |
-| [NCT04033991](https://clinicaltrials.gov/study/NCT04033991) | [Axitinib](/drugs/axitinib/) | L3 | 英國單中心回顧性資料庫研究，評估轉移性/晚期 RCC 患者接受 sunitinib 一線及 axitinib 二線治療的真實世界 PFS，並依 MSKCC/IMDC 風險分類分層分析；可能涵蓋未分類亞型患者 |
-| [NCT04054115](https://clinicaltrials.gov/study/NCT04054115) | [Alprostadil](/drugs/alprostadil/) | L1 | 評估 alprostadil 對腦血流的急性效應 |
-| [NCT04065269](https://clinicaltrials.gov/study/NCT04065269) | [Durvalumab](/drugs/durvalumab/) | L3 | ATARI 試驗：ATR 抑制劑聯合 olaparib/durvalumab 治療 ARID1A 缺失婦科癌症 |
-| [NCT04071977](https://clinicaltrials.gov/study/NCT04071977) | [Alpha-Tocopherol Acetate](/drugs/alpha-tocopherol-acetate/) | L2 | 評估複合抗氧化療法（含 alpha-tocopherol）對增生性糖尿病視網膜病變患者玻璃體切除術前後房水與玻璃體氧化壓力標記的影響，2 個月介入 |
-| [NCT04153565](https://clinicaltrials.gov/study/NCT04153565) | [Pemetrexed](/drugs/pemetrexed/) | L1 | Pembrolizumab + Cisplatin + Pemetrexed |
-| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | [Betamethasone](/drugs/betamethasone/) | L1 | 中心性離心性瘢痕性脫髮（CCCA）多中心前瞻性治療結果研究，皮質類固醇應用具間接參考價值 |
-| [NCT04225117](https://clinicaltrials.gov/study/NCT04225117) | [Enfortumab Vedotin](/drugs/enfortumab-vedotin/) | L3 | EV-202 多腫瘤籃子試驗，評估 Enfortumab vedotin 於多種實體腫瘤（含乳癌 cohort）及聯合 pembrolizumab（cohort 9）的客觀緩解率，目前仍持續追蹤 |
-| [NCT04259164](https://clinicaltrials.gov/study/NCT04259164) | [Indacaterol](/drugs/indacaterol/) | L1 | 雙盲交叉研究，評估於 Indacaterol/Mometasone 基礎上加入 Glycopyrronium 對過敏原誘發晚期氣喘反應的抗炎效果 |
-| [NCT04278404](https://clinicaltrials.gov/study/NCT04278404) | [Fosfomycin](/drugs/fosfomycin/) | L5 | 未充分研究藥物的 PK/PD 和安全性 |
-| [NCT04287621](https://clinicaltrials.gov/study/NCT04287621) | [Dupilumab](/drugs/dupilumab/) | L3 | RAPID 登記研究：氣喘患者使用 dupilumab 的真實世界數據 |
-| [NCT04334759](https://clinicaltrials.gov/study/NCT04334759) | [Pemetrexed](/drugs/pemetrexed/) | L1 | Durvalumab + 化療 (含 Pemetrexed) |
-| [NCT04343560](https://clinicaltrials.gov/study/NCT04343560) | [Dexamethasone](/drugs/dexamethasone/) | L2 | 探討類固醇代謝異常對骨密度及體組成的影響（MACS 患者，提供長期皮質素安全性資料） |
-| [NCT04343560](https://clinicaltrials.gov/study/NCT04343560) | [Hydrocortisone](/drugs/hydrocortisone/) | L1 | 類固醇代謝組異常（MACS）對骨質強度與體成分影響之觀察性研究，提供全身性類固醇暴露的機轉背景數據 |
-| [NCT04356339](https://clinicaltrials.gov/study/NCT04356339) | [Interferon Beta-1B](/drugs/interferon-beta-1b/) | L3 |  |
-| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | [Dupilumab](/drugs/dupilumab/) | L3 | 評估 dupilumab 在無鼻息肉的慢性鼻竇炎患者的療效 |
-| [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | [Zanubrutinib](/drugs/zanubrutinib/) | L2 | CG-806 (luxeptinib) 治療復發/難治性急性骨髓性白血病或高風險 MDS |
-| [NCT04579523](https://clinicaltrials.gov/study/NCT04579523) | [Fludarabine](/drugs/fludarabine/) | L3 | ²¹¹At 標記抗 CD38 抗體合併 Fludarabine 調理用於高風險多發性骨髓瘤 HCT |
-| [NCT04582136](https://clinicaltrials.gov/study/NCT04582136) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | Sirolimus 加上背景類固醇治療活躍性自體免疫疾患的 Phase 3 雙盲 RCT，提供類固醇聯合免疫抑制劑的設計參考 |
-| [NCT04645719](https://clinicaltrials.gov/study/NCT04645719) | [Cisatracurium](/drugs/cisatracurium/) | L4 | Magnesium sulfate 在肥胖患者中的最佳劑量研究，涉及子癲前症控制。 |
-| [NCT04645719](https://clinicaltrials.gov/study/NCT04645719) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 肥胖患者最佳 MgSO4 劑量 |
-| [NCT04663906](https://clinicaltrials.gov/study/NCT04663906) | [Acitretin](/drugs/acitretin/) | L3 | 研究口服 isotretinoin（同屬 retinoid）在 COVID-19 感染風險的影響 |
-| [NCT04676126](https://clinicaltrials.gov/study/NCT04676126) | [Glycerin](/drugs/glycerin/) | L4 | 評估黃斑色素補充劑（Lumega-Z）搭配局部碳酸酐酶抑制劑對青光眼患者周邊視覺功能的影響；已撤回且未招募任何受試者，與 glycerin 降眼壓療效無直接關聯，僅提供疾病背景 |
-| [NCT04677816](https://clinicaltrials.gov/study/NCT04677816) | [Paclitaxel](/drugs/paclitaxel/) | L1 | 維生素D補充對三陰性乳癌化療反應的影響 |
-| [NCT04680637](https://clinicaltrials.gov/study/NCT04680637) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | Efavaleukin alfa（IL-2 路徑免疫調節劑）用於圓禿症族群的有效性與安全性研究 |
-| [NCT04705584](https://clinicaltrials.gov/study/NCT04705584) | [Prednisolone Acetate](/drugs/prednisolone-acetate/) | L4 | 探討免疫抑制劑治療春季卡他性結膜炎 |
-| [NCT04718350](https://clinicaltrials.gov/study/NCT04718350) | [Milrinone](/drugs/milrinone/) | L3 | 靜脈 Levosimendan vs 吸入 Milrinone 比較 |
-| [NCT04740307](https://clinicaltrials.gov/study/NCT04740307) | [Tyrosine](/drugs/tyrosine/) | L5 | 肝細胞癌 (TKI 組合療法) |
-| [NCT04809454](https://clinicaltrials.gov/study/NCT04809454) | [Tyrosine](/drugs/tyrosine/) | L5 |  |
-| [NCT04835441](https://clinicaltrials.gov/study/NCT04835441) | [Prednisolone](/drugs/prednisolone/) | L3 | 研究 ALPN-101 在中重度 SLE 患者中的效果。 |
-| [NCT04846556](https://clinicaltrials.gov/study/NCT04846556) | [Prasugrel](/drugs/prasugrel/) | L4 | 回顧性多中心研究，分析癌症相關血栓患者中不符合 CARAVAGGIO 試驗資格的比例，與 Prasugrel 或 PAH 無直接關聯 |
-| [NCT04914637](https://clinicaltrials.gov/study/NCT04914637) | [Prilocaine](/drugs/prilocaine/) | L3 | 乾針刺結合硬膜外類固醇注射治療頸椎椎間盤突出引起的慢性頸部神經痛，涉及局部麻醉劑介入成分 |
-| [NCT05071833](https://clinicaltrials.gov/study/NCT05071833) | [Peppermint Oil](/drugs/peppermint-oil/) | L3 | 口服薄荷補充劑對心臟代謝參數（血壓、血脂、血糖等）之隨機試驗；前期非隨機干預已顯示潛在改善效益 |
-| [NCT05072392](https://clinicaltrials.gov/study/NCT05072392) | [Xylometazoline](/drugs/xylometazoline/) | L3 | 研究 Foley 導管輔助鼻腔插管對成人患者鼻出血的影響 |
-| [NCT05097599](https://clinicaltrials.gov/study/NCT05097599) | [Enfortumab Vedotin](/drugs/enfortumab-vedotin/) | L3 | StrataPATH 精準醫療平台試驗，評估已核准藥物於生物標誌指引族群的臨床活性；因入組人數不足而提前終止，可用數據極為有限 |
-| [NCT05130268](https://clinicaltrials.gov/study/NCT05130268) | [Dronedarone](/drugs/dronedarone/) | L2 | 評估首發心房纖維顫動患者早期使用 dronedarone 的效果 |
-| [NCT05131646](https://clinicaltrials.gov/study/NCT05131646) | [Tyrosine](/drugs/tyrosine/) | L5 | 新生血管性 AMD |
-| [NCT05143970](https://clinicaltrials.gov/study/NCT05143970) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Anti-CD73 IPH5301 與 Paclitaxel + Trastuzumab 併用 |
-| [NCT05162586](https://clinicaltrials.gov/study/NCT05162586) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | Enpatoran 用於圓禿症族群的隨機雙盲安慰劑對照劑量探索平行研究 |
-| [NCT05162586](https://clinicaltrials.gov/study/NCT05162586) | [Prednisolone](/drugs/prednisolone/) | L3 | 研究 Enpatoran 在 SLE 和 CLE 患者中的效果和安全性。 |
-| [NCT05174117](https://clinicaltrials.gov/study/NCT05174117) | [Teriparatide](/drugs/teriparatide/) | L2 | Teriparatide 治療妊娠及哺乳相關骨質疏鬆症 |
-| [NCT05183828](https://clinicaltrials.gov/study/NCT05183828) | [Letrozole](/drugs/letrozole/) | L1 | 評估 HSD3B1 基因型（1245C 突變）是否降低 Letrozole 術前治療療效（Stage I-III ER+/HER2−） |
-| [NCT05266300](https://clinicaltrials.gov/study/NCT05266300) | [Uracil](/drugs/uracil/) | L1 | DPYD 基因型前測試臨床實施研究，評估氟嘧啶類（5-FU/capecitabine/tegafur）代謝安全性，與 Uracil 的 DPD 抑制機轉直接相關 |
-| [NCT05274425](https://clinicaltrials.gov/study/NCT05274425) | [Indacaterol](/drugs/indacaterol/) | L1 | Enerzair（QVM149）24 週上市後真實世界觀察性研究，在常規臨床實務下評估長期安全性與有效性 |
-| [NCT05293080](https://clinicaltrials.gov/study/NCT05293080) | [Dronedarone](/drugs/dronedarone/) | L2 | 急性中風合併心房纖維顫動患者的早期節律控制 |
-| [NCT05384496](https://clinicaltrials.gov/study/NCT05384496) | [Ipilimumab](/drugs/ipilimumab/) | L5 |  |
-| [NCT05411900](https://clinicaltrials.gov/study/NCT05411900) | [Prilocaine](/drugs/prilocaine/) | L3 | 多中心隨機雙盲安慰劑對照試驗，肉毒桿菌素用於腕隧道症候群周邊神經病變疼痛，疾病族群相關 |
-| [NCT05428007](https://clinicaltrials.gov/study/NCT05428007) | [Ipilimumab](/drugs/ipilimumab/) | L5 | Sarilumab + Ipilimumab + Nivolumab + Relatlimab 用於黑色素瘤 |
-| [NCT05457556](https://clinicaltrials.gov/study/NCT05457556) | [Busulfan](/drugs/busulfan/) | L1 | 大型 Phase 3 RCT 比較 MUD vs 半相合供者骨髓消融 HCT，治療兒童及青少年急性白血病與 MDS |
-| [NCT05484349](https://clinicaltrials.gov/study/NCT05484349) | [Tizanidine](/drugs/tizanidine/) | L5 | Tizanidine 預防成人偏頭痛發作的安全性與療效 |
-| [NCT05485571](https://clinicaltrials.gov/study/NCT05485571) | [Anthralin](/drugs/anthralin/) | L3 | 微針聯合 Methotrexate（免疫抑制劑）治療圓禿，藥物免疫抑制機轉方向與 Anthralin 相近 |
-| [NCT05501444](https://clinicaltrials.gov/study/NCT05501444) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L3 |  |
-| [NCT05502653](https://clinicaltrials.gov/study/NCT05502653) | [Mannitol](/drugs/mannitol/) | L3 | Lactulose/mannitol 糖吸收試驗 |
-| [NCT05561543](https://clinicaltrials.gov/study/NCT05561543) | [Peppermint Oil](/drugs/peppermint-oil/) | L3 | 薄荷油對輕中度高血壓患者心臟代謝指標的影響；為 NCT05071833 的延伸隨機試驗，前期數據顯示收縮壓與血脂指標有改善趨勢 |
-| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | [Zanubrutinib](/drugs/zanubrutinib/) | L2 | PRT2527 (CDK9 抑制劑) 與 zanubrutinib 併用治療復發/難治性血液惡性腫瘤 |
-| [NCT05753306](https://clinicaltrials.gov/study/NCT05753306) | [Sodium Citrate](/drugs/sodium-citrate/) | L3 | 機器人輔助胃癌 HIPEC 手術 |
-| [NCT05767359](https://clinicaltrials.gov/study/NCT05767359) | [Fludarabine](/drugs/fludarabine/) | L3 | Cilta-cel 用於高風險冒煙型骨髓瘤，調理方案明確使用 Cyclophosphamide+Fludarabine |
-| [NCT05802849](https://clinicaltrials.gov/study/NCT05802849) | [Acetazolamide](/drugs/acetazolamide/) | L2 | 評估 acetazolamide 口服在失代償性心衰竭（包括心肌病變）中的療效 |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | [Betamethasone](/drugs/betamethasone/) | L1 | 評估並比較局部 cetirizine 1% 與局部 betamethasone valerate 0.1% 治療局限性圓禿之療效與安全性 |
-| [NCT05803096](https://clinicaltrials.gov/study/NCT05803096) | [Nitrous Oxide](/drugs/nitrous-oxide/) | L4 | 研究患者自行吸入 N2O（SANO）於經直腸前列腺切片程序中，評估能否減輕焦慮與疼痛、改善就醫體驗；藥物一致，但目標為程序性疼痛管理，非 BPH 疾病治療 |
-| [NCT05916742](https://clinicaltrials.gov/study/NCT05916742) | [Benzylpenicillin](/drugs/benzylpenicillin/) | L3 | 牙齦萎縮治療研究 |
-| [NCT05999994](https://clinicaltrials.gov/study/NCT05999994) | [Vinorelbine](/drugs/vinorelbine/) | L3 | CAMPFIRE 兒童和青少年創新研究主協議 |
-| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | [Carboplatin](/drugs/carboplatin/) | L2 | 評估 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在轉移性三陰性乳腺癌中的療效 |
-| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | [Gemcitabine](/drugs/gemcitabine/) | L2 | 測試 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在局部晚期不可切除或轉移性三陰性乳腺癌中的組合效果 |
-| [NCT06046534](https://clinicaltrials.gov/study/NCT06046534) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | Anifrolumab 早期使用計畫的回顧性病歷審查，評估真實世界系統性免疫抑制治療的用藥型態與患者經驗 |
-| [NCT06056947](https://clinicaltrials.gov/study/NCT06056947) | [Tioconazole](/drugs/tioconazole/) | L5 | Fenticonazole + Tinidazole + Lidocaine 組合製劑比較試驗 |
-| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | [Betamethasone](/drugs/betamethasone/) | L1 | 以 betamethasone valerate 0.1% 霜為主動對照，比較 pentoxifylline 2% 及 metformin 10% 凝膠治療斑塊型圓禿 |
-| [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | [Acetazolamide](/drugs/acetazolamide/) | L2 | TAILOR-AHF：尿鈉導向的利尿劑演算法研究 |
-| [NCT06097728](https://clinicaltrials.gov/study/NCT06097728) | [Pemetrexed](/drugs/pemetrexed/) | L1 | Volrustomig + Carboplatin + Pemetrexed |
-| [NCT06146881](https://clinicaltrials.gov/study/NCT06146881) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 比較 Diquafosol 3% 與 HA 0.1% 預防白內障術後乾眼症發生率，HA 組為對照 |
-| [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | [Acetazolamide](/drugs/acetazolamide/) | L2 | 比較 loop diuretics 合併 Metolazone 或 Acetazolamide 在急性心衰竭容量過負荷的效果 |
-| [NCT06176339](https://clinicaltrials.gov/study/NCT06176339) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Pentoxifylline 加入含 Paclitaxel 的前導化療 |
-| [NCT06247592](https://clinicaltrials.gov/study/NCT06247592) | [Prilocaine](/drugs/prilocaine/) | L3 | 枕大神經阻斷術（2% Prilocaine）vs. 脈衝射頻比較試驗，針對慢性偏頭痛相關神經痛，Prilocaine 為神經阻斷術核心成分 |
-| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | [Oteracil](/drugs/oteracil/) | L2 | Fuquinitinib 與 S-1 組合用於晚期轉移性結直腸癌的三線治療。 |
-| [NCT06264544](https://clinicaltrials.gov/study/NCT06264544) | [Tyrosine](/drugs/tyrosine/) | L5 | 預防甲狀腺毒症 (鋅/硒/L-Tyrosine) |
-| [NCT06281782](https://clinicaltrials.gov/study/NCT06281782) | [Tazarotene](/drugs/tazarotene/) | L5 | 研究富含血小板血漿合併外用維A酸治療尋常性痤瘡（提及脂漏性皮膚炎作為痤瘡的臨床特徵） |
-| [NCT06295159](https://clinicaltrials.gov/study/NCT06295159) | [Ipilimumab](/drugs/ipilimumab/) | L5 | 局部區域晚期黑色素瘤 |
-| [NCT06317922](https://clinicaltrials.gov/study/NCT06317922) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 評估含海藻糖與 HA（0.15g）的 Thealoz Duo 眼藥水緩解玻璃體內注射患者眼部不適症狀的療效 |
-| [NCT06327581](https://clinicaltrials.gov/study/NCT06327581) | [Anthralin](/drugs/anthralin/) | L3 | 微針聯合乳酸／Vitamin D3／Triamcinolone 多臂比較研究，評估局部療法對圓禿相對療效 |
-| [NCT06443255](https://clinicaltrials.gov/study/NCT06443255) | [Xylometazoline](/drugs/xylometazoline/) | L3 | 比較 cocaine、lidocaine/xylometazoline 和生理食鹽水在鼻腔鎮痛的效果 |
-| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | [Vinorelbine](/drugs/vinorelbine/) | L3 | 評估中國兒童 Ewing 肉瘤風險分層導向治療的療效和安全性 |
-| [NCT06465810](https://clinicaltrials.gov/study/NCT06465810) | [Vitamin E](/drugs/vitamin-e/) | L3 | 轉甲狀腺素澱粉樣變性患者的真實世界研究 |
-| [NCT06478134](https://clinicaltrials.gov/study/NCT06478134) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 以 HA 淚液替代品為對照組的隨機雙盲 RCT，評估多效淚液替代品的非劣效性 |
-| [NCT06517667](https://clinicaltrials.gov/study/NCT06517667) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 隨機單盲試驗，比較不同 HA 淚液替代品配方（分子量、濃度）用於蒸發型乾眼症的療效差異 |
-| [NCT06527729](https://clinicaltrials.gov/study/NCT06527729) | [Anthralin](/drugs/anthralin/) | L3 | Sildenafil 奈米脂質載體外用治療圓禿，探索新型藥物遞送策略於圓禿的可行性 |
-| [NCT06551818](https://clinicaltrials.gov/study/NCT06551818) | [Hydrocortisone](/drugs/hydrocortisone/) | L1 | 皮質類固醇不同劑量製劑用於輕中度雄性禿（Grade I-III）之四臂雙盲劑量反應比較研究 |
-| [NCT06642337](https://clinicaltrials.gov/study/NCT06642337) | [Ferrous Gluconate](/drugs/ferrous-gluconate/) | L5 | 營養教育計畫對兒童缺鐵性貧血的影響 |
-| [NCT06653556](https://clinicaltrials.gov/study/NCT06653556) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | LCAR-AIO 用於復發/難治性重度自體免疫疾患的開放標籤安全性、耐受性、PK/PD 探索研究 |
-| [NCT06705504](https://clinicaltrials.gov/study/NCT06705504) | [Alpelisib](/drugs/alpelisib/) | L4 | 歐洲多中心回溯性世代研究，評估 ribociclib 或 alpelisib 於 HR+/HER2- 晚期乳癌患者的真實世界療效與安全性；目標疾病為乳癌，與肺動脈高壓無直接關聯，僅提供 alpelisib 一般安全性背景資料 |
-| [NCT06747611](https://clinicaltrials.gov/study/NCT06747611) | [Anthralin](/drugs/anthralin/) | L3 | 腸道微生物群移植治療圓禿，反映圓禿免疫調節治療的多元探索方向 |
-| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | [Betamethasone](/drugs/betamethasone/) | L1 | 直接比較 betamethasone 口服 mini-pulse（BOMP）與 azathioprine 週脈衝療法治療中至重度圓禿之療效 |
-| [NCT06820957](https://clinicaltrials.gov/study/NCT06820957) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 隨機比較 VIrR 方案聯合 VDC/IE（含 doxorubicin）用於新確診轉移性 Ewing 肉瘤 |
-| [NCT06825728](https://clinicaltrials.gov/study/NCT06825728) | [Metoprolol](/drugs/metoprolol/) | L2 | Metoprolol 對 HFrEF 合併 COPD 患者的死亡和再住院影響 |
-| [NCT06843304](https://clinicaltrials.gov/study/NCT06843304) | [Sulfamethazine](/drugs/sulfamethazine/) | L4 | 糖尿病腎病變智慧預防控制系統 |
-| [NCT06869265](https://clinicaltrials.gov/study/NCT06869265) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L3 | 老年高風險 AML 患者 TBF 方案半相合 HSCT，MMF 作為 GVHD 預防藥物（與 HIV 治療無直接關聯） |
-| [NCT06869824](https://clinicaltrials.gov/study/NCT06869824) | [Ferrous Gluconate](/drugs/ferrous-gluconate/) | L5 | 富鐵營養軟糖對女性貧血的療效評估 |
-| [NCT06899438](https://clinicaltrials.gov/study/NCT06899438) | [Prilocaine](/drugs/prilocaine/) | L3 | 前瞻性 RCT 設計，直接比較 Prilocaine 注射（觸發點注射）vs. 肉毒桿菌素用於肌筋膜疼痛症候群，Prilocaine 為主要研究對象之一 |
-| [NCT06999980](https://clinicaltrials.gov/study/NCT06999980) | [Ipilimumab](/drugs/ipilimumab/) | L5 | 可切除晚期黑色素瘤和黏膜黑色素瘤 |
-| [NCT07021495](https://clinicaltrials.gov/study/NCT07021495) | [Brodalumab](/drugs/brodalumab/) | L4 | 觀察性研究，未直接針對 brodalumab 用於特定眼病的治療效果。 |
-| [NCT07097922](https://clinicaltrials.gov/study/NCT07097922) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 直接比較 3% Diquafosol 與 0.1% HA 用於 LASIK 術後乾眼症，提供頭對頭療效比較數據 |
-| [NCT07101471](https://clinicaltrials.gov/study/NCT07101471) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | Tofacitinib（JAK 抑制劑，±輔助 prednisolone）用於圓禿症的真實世界安全性與療效評估 |
-| [NCT07101471](https://clinicaltrials.gov/study/NCT07101471) | [Prednisolone](/drugs/prednisolone/) | L3 | 評估 Rhofanib® (Tofacitinib) 在斑禿患者中的安全性和效果。 |
-| [NCT07183878](https://clinicaltrials.gov/study/NCT07183878) | [Busulfan](/drugs/busulfan/) | L1 | 比較 Venetoclax 強化 BUCY vs 標準 BUCY 條件療法用於高風險 MDS/AML 異體 HSCT，評估療效與安全性 |
-| [NCT07186062](https://clinicaltrials.gov/study/NCT07186062) | [Milrinone](/drugs/milrinone/) | L3 | Levosimendan vs Dobutamine vs Milrinone 比較 |
-| [NCT07200882](https://clinicaltrials.gov/study/NCT07200882) | [Tyrosine](/drugs/tyrosine/) | L5 | TKI 對甲狀腺功能影響 |
-| [NCT07220902](https://clinicaltrials.gov/study/NCT07220902) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | Levetiracetam vs MgSO4 預防子癇症 |
-| [NCT07245836](https://clinicaltrials.gov/study/NCT07245836) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 | 評估含 HA 成分的 Thealoz Total 眼藥水對慢性乾眼症伴眼表炎症患者的抗炎效果 |
-| [NCT07278206](https://clinicaltrials.gov/study/NCT07278206) | [Inositol](/drugs/inositol/) | L3 | 針對 Long COVID 認知問題，與高血脂症無直接相關 |
-| [NCT07287995](https://clinicaltrials.gov/study/NCT07287995) | [Enfortumab Vedotin](/drugs/enfortumab-vedotin/) | L3 | ASP2998（TROP2 靶向 ADC）單獨使用或聯合 pembrolizumab、carboplatin 及 Enfortumab vedotin 用於局部晚期或轉移性實體腫瘤的安全性與療效評估 |
-| [NCT07309770](https://clinicaltrials.gov/study/NCT07309770) | [Enfortumab Vedotin](/drugs/enfortumab-vedotin/) | L3 | Trastuzumab Rezetecan（HER2 靶向 ADC）於 HER2 陽性晚期實體腫瘤多 cohort 研究，含 Extramammary Paget's Disease、罕見實體腫瘤及泌尿道上皮癌 |
-| [NCT07366502](https://clinicaltrials.gov/study/NCT07366502) | [Ferrous Gluconate](/drugs/ferrous-gluconate/) | L5 | 低劑量脂質體鐵 vs 傳統口服鐵治療胃袖手術後缺鐵性貧血 |
-| [NCT07412132](https://clinicaltrials.gov/study/NCT07412132) | [Lacosamide](/drugs/lacosamide/) | L3 | 隨機、雙盲、平行組設計，評估 Lacosamide 作為一線或二線用藥的增強療法，用於雙極症 I 型與 II 型的中至重度重度抑鬱發作。前期觀察性研究提示 Lacosamide 可改善癲癇共病患者的憂鬱與躁狂症狀，本試驗為首個以 BD 患者為主體的對照試驗 |
+| [NCT00000478](https://clinicaltrials.gov/study/NCT00000478) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L3 | 無症狀心肌缺血前導研究，比較藥物與血管重建策略（無法區分個別藥物效果） |
+| [NCT00002466](https://clinicaltrials.gov/study/NCT00002466) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 含 cyclophosphamide、doxorubicin、vincristine、etoposide、ifosfamide 的化療，後續手術與放療，用於周邊原始神經外胚層腫瘤或尤文氏肉瘤 |
+| [NCT00002516](https://clinicaltrials.gov/study/NCT00002516) | [Doxorubicin](/drugs/doxorubicin/) | L1 | EICESS 92，比較尤文氏肉瘤的多種化療方案 |
+| [NCT00002707](https://clinicaltrials.gov/study/NCT00002707) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較術前 AC 合併或不合併術前／術後 docetaxel 用於 II–III 期乳癌 |
+| [NCT00002826](https://clinicaltrials.gov/study/NCT00002826) | [Paclitaxel](/drugs/paclitaxel/) | L1 | 以 PSC 833 調節多重藥物抗藥性，併用 paclitaxel 治療復發／轉移性乳癌 |
+| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | [Vinorelbine](/drugs/vinorelbine/) | L5 | Vinorelbine 用於兒童復發或難治性惡性腫瘤（混合實體瘤，非尤文氏肉瘤專屬） |
+| [NCT00003519](https://clinicaltrials.gov/study/NCT00003519) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較 Adriamycin/Taxotere 與 Adriamycin/Cytoxan 用於淋巴結陽性或高風險乳癌的輔助治療 |
+| [NCT00003539](https://clinicaltrials.gov/study/NCT00003539) | [Paclitaxel](/drugs/paclitaxel/) | L1 | 每週 1 小時 paclitaxel 併用 trastuzumab，治療轉移性乳癌 |
+| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | [Gemcitabine](/drugs/gemcitabine/) | L1 | 單用 gemcitabine 治療曾接受 doxorubicin 與 paclitaxel 的轉移性乳癌 |
+| [NCT00003612](https://clinicaltrials.gov/study/NCT00003612) | [Carboplatin](/drugs/carboplatin/) | L1 | Paclitaxel + carboplatin + Herceptin 用於 HER2 過度表現轉移性乳癌第一線治療 |
+| [NCT00003667](https://clinicaltrials.gov/study/NCT00003667) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 同上類型之隨機試驗（VAC＋dexrazoxane，加或不加 ImmTher） |
+| [NCT00003782](https://clinicaltrials.gov/study/NCT00003782) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較 AC-T、AT 與 ATC 三種輔助化療方案（腋下淋巴結陽性乳癌） |
+| [NCT00004310](https://clinicaltrials.gov/study/NCT00004310) | [Clomipramine](/drugs/clomipramine/) | L1 | 比較靜脈與口服 Clomipramine 負荷給藥，後續 12 週維持治療用於強迫症（直接相關） |
+| [NCT00004399](https://clinicaltrials.gov/study/NCT00004399) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | Nimodipine vs 硫酸鎂預防嚴重子癇前症的子癇發作 |
+| [NCT00005866](https://clinicaltrials.gov/study/NCT00005866) | [Busulfan](/drugs/busulfan/) | L2 | 比較 Busulfan-TBI 與 Cyclophosphamide-TBI 作為進展期 MDS 或 MDS 相關 AML 的移植前處置 |
+| [NCT00006007](https://clinicaltrials.gov/study/NCT00006007) | [Gemcitabine](/drugs/gemcitabine/) | L1 | Pemetrexed 併用 gemcitabine 治療轉移性乳癌 |
+| [NCT00006120](https://clinicaltrials.gov/study/NCT00006120) | [Paclitaxel](/drugs/paclitaxel/) | L1 | 比較 docetaxel 或 paclitaxel 兩種給藥時程於轉移性乳癌 |
+| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | [Gemcitabine](/drugs/gemcitabine/) | L1 | Gemcitabine + paclitaxel vs. paclitaxel，用於無法切除、局部復發或轉移性乳癌；為現行標示適應症的關鍵試驗 |
+| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Paclitaxel 加或不加 gemcitabine，用於晚期乳癌 |
+| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 以化療壓縮間隔強化療程，用於尤文氏肉瘤及相關腫瘤 |
+| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | [Doxorubicin](/drugs/doxorubicin/) | L1 | EURO-E.W.I.N.G.99，比較尤文氏肉瘤的化療與放療策略 |
+| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | [Carboplatin](/drugs/carboplatin/) | L1 | 比較 AC-T、AC-TH 與 TCH（docetaxel + carboplatin + trastuzumab）用於 HER2 陽性可手術乳癌的輔助治療 |
+| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | [Docetaxel](/drugs/docetaxel/) | L1 | 比較 AC-T、AC-TH 與 TCH 用於 HER2 陽性淋巴結陽性或高風險乳癌的術後輔助治療，主要指標為無病存活 |
+| [NCT00021489](https://clinicaltrials.gov/study/NCT00021489) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L2 | 評估 MMF 併用 abacavir 的安全性與抗病毒活性；未入組，無證據產出 |
+| [NCT00025493](https://clinicaltrials.gov/study/NCT00025493) | [Docetaxel](/drugs/docetaxel/) | L1 | 單藥 docetaxel 用於 70 歲以上轉移性乳癌患者 |
+| [NCT00025688](https://clinicaltrials.gov/study/NCT00025688) | [Carboplatin](/drugs/carboplatin/) | L1 | 每週 paclitaxel 加或不加 carboplatin，用於 65 歲以上轉移性乳癌第一線治療 |
+| [NCT00038142](https://clinicaltrials.gov/study/NCT00038142) | [Doxorubicin](/drugs/doxorubicin/) | L1 | VAC 加 dexrazoxane，合併或不合併 ImmTher，用於新診斷高風險尤文氏肉瘤 |
+| [NCT00038272](https://clinicaltrials.gov/study/NCT00038272) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L2 | 安慰劑對照先導試驗，比較 DAPD 與 DAPD＋MMF 加入現有抗 HIV 療法；結果摘要未提供 |
+| [NCT00039546](https://clinicaltrials.gov/study/NCT00039546) | [Gemcitabine](/drugs/gemcitabine/) | L1 | tAnGo 試驗：ER/PgR 低表現之早期乳癌，在含 paclitaxel、epirubicin 的輔助化療中加入 gemcitabine |
+| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | [Carboplatin](/drugs/carboplatin/) | L1 | 比較 docetaxel + trastuzumab 加或不加 carboplatin，用於 HER2 基因擴增的晚期乳癌第一線治療 |
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | [Temozolomide](/drugs/temozolomide/) | L2 | 比較 temozolomide 與 PCV（procarbazine、lomustine、vincristine）用於復發 WHO 第 III、IV 級星狀細胞腫瘤，藥物與疾病均直接相符 |
+| [NCT00056966](https://clinicaltrials.gov/study/NCT00056966) | [Fludarabine](/drugs/fludarabine/) | L3 | CD45 抗體與 alemtuzumab 的減量前處理異體移植 |
+| [NCT00061477](https://clinicaltrials.gov/study/NCT00061477) | [Pemetrexed](/drugs/pemetrexed/) | L3 | Pemetrexed 加 gemcitabine 作為肋膜或腹膜間皮瘤第一線治療，評估安全性、存活期與腫瘤反應（與本藥直接相關度最高） |
+| [NCT00070278](https://clinicaltrials.gov/study/NCT00070278) | [Gemcitabine](/drugs/gemcitabine/) | L1 | 高風險早期乳癌的前導化療，比較 EC 序貫 paclitaxel 加或不加 gemcitabine |
+| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | [Clomipramine](/drugs/clomipramine/) | L1 | 兒童強迫症 SRI 部分反應者，評估認知行為治療的加成效果（Clomipramine 非試驗藥物） |
+| [NCT00075270](https://clinicaltrials.gov/study/NCT00075270) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Lapatinib 加 paclitaxel 對比單用 paclitaxel，用於第一線晚期乳癌 |
+| [NCT00093795](https://clinicaltrials.gov/study/NCT00093795) | [Gemcitabine](/drugs/gemcitabine/) | L1 | 淋巴結陽性乳癌術後輔助治療，比較 TAC、劑量密集 AC→P 與加入 gemcitabine 的 DD AC→PG |
+| [NCT00097695](https://clinicaltrials.gov/study/NCT00097695) | [Icatibant](/drugs/icatibant/) | L1 | 隨機、雙盲、安慰劑對照，評估皮下注射 Icatibant 治療 HAE 急性發作的療效與安全性 |
+| [NCT00108017](https://clinicaltrials.gov/study/NCT00108017) | [Dorzolamide](/drugs/dorzolamide/) | L5 | 評估 dorzolamide/timolol 複方 24 小時降眼壓效果 |
+| [NCT00112593](https://clinicaltrials.gov/study/NCT00112593) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L2 | HIV 陽性者異體幹細胞移植，MMF 為移植後免疫抑制的一部分；並非檢驗 MMF 對 HIV 的效果 |
+| [NCT00114361](https://clinicaltrials.gov/study/NCT00114361) | [Ribavirin](/drugs/ribavirin/) | L2 | PEG-IFN alfa-2a 併用 Ribavirin 對比 PEG-IFN 單用，治療 HBeAg 陰性慢性 B 型肝炎；未見 Ribavirin 明確的額外效益 |
+| [NCT00117533](https://clinicaltrials.gov/study/NCT00117533) | [Ribavirin](/drugs/ribavirin/) | L2 | PEG-IFN alfa-2b 併用 Ribavirin，用於 B 型與 D 型肝炎雙重感染的前導試驗 |
+| [NCT00118053](https://clinicaltrials.gov/study/NCT00118053) | [Carboplatin](/drugs/carboplatin/) | L1 | Docetaxel + carboplatin + Herceptin 用於局部晚期或發炎性乳癌 |
+| [NCT00143390](https://clinicaltrials.gov/study/NCT00143390) | [Anastrozole](/drugs/anastrozole/) | L1 | Exemestane 對比 anastrozole 作為晚期/復發乳癌初始荷爾蒙治療的非劣性試驗 |
+| [NCT00154869](https://clinicaltrials.gov/study/NCT00154869) | [Ribavirin](/drugs/ribavirin/) | L2 | PEG-IFN alfa-2a 併用 Ribavirin，用於 HCV/HBV 共同感染與慢性 C 型肝炎的比較 |
+| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | [Dipyridamole](/drugs/dipyridamole/) | L4 | ESPRIT：比較 aspirin 加 dipyridamole 與單用 aspirin 於腦缺血後的療效與安全性 |
+| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | [Vinorelbine](/drugs/vinorelbine/) | L5 | Vinorelbine + 環磷醯胺用於難治或復發腫瘤，族群包含尤文氏腫瘤、橫紋肌肉瘤、骨肉瘤等 |
+| [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | [Sorafenib](/drugs/sorafenib/) | L2 | Sorafenib 用於晚期軟組織肉瘤，族群涵蓋脂肪肉瘤，但非脂肪肉瘤專屬 |
+| [NCT00238667](https://clinicaltrials.gov/study/NCT00238667) | [Dipyridamole](/drugs/dipyridamole/) | L4 | 頸動脈剝離中風：抗血小板與抗凝血治療的可行性研究（Dipyridamole 僅為可選藥物之一） |
+| [NCT00239434](https://clinicaltrials.gov/study/NCT00239434) | [Ipratropium](/drugs/ipratropium/) | L1 | Tiotropium 每日一次與 Atrovent MDI 每日四次的雙盲比較 |
+| [NCT00244933](https://clinicaltrials.gov/study/NCT00244933) | [Gemcitabine](/drugs/gemcitabine/) | L1 | Gemcitabine 併用 genistein 治療第 IV 期乳癌，並進行生物標記分析 |
+| [NCT00252863](https://clinicaltrials.gov/study/NCT00252863) | [Terbutaline](/drugs/terbutaline/) | L1 | Symbicort 單一吸入器療法 vs. 常規最佳治療，26 週 |
+| [NCT00254735](https://clinicaltrials.gov/study/NCT00254735) | [Clomipramine](/drugs/clomipramine/) | L1 | 嚴重強迫症在 SSRI／Clomipramine 基礎治療上加用 Quetiapine（試驗藥物為 Quetiapine） |
+| [NCT00256217](https://clinicaltrials.gov/study/NCT00256217) | [Anastrozole](/drugs/anastrozole/) | L1 | Anastrozole 用於停經後 DCIS 與早期侵犯性乳癌的化學預防 |
+| [NCT00259766](https://clinicaltrials.gov/study/NCT00259766) | [Terbutaline](/drugs/terbutaline/) | L1 | 真實世界氣喘醫療成本比較，terbutaline（Bricanyl）為隨需對照 |
+| [NCT00273455](https://clinicaltrials.gov/study/NCT00273455) | [Dorzolamide](/drugs/dorzolamide/) | L5 | 比較 Lumigan 與 Cosopt（dorzolamide/timolol）的眼壓效果與安全性 |
+| [NCT00275938](https://clinicaltrials.gov/study/NCT00275938) | [Ribavirin](/drugs/ribavirin/) | L2 | 干擾素 alfa-2b 併用 Ribavirin 治療慢性 B 型肝炎的前導試驗 |
+| [NCT00299858](https://clinicaltrials.gov/study/NCT00299858) | [Theophylline](/drugs/theophylline/) | L5 | Theophylline 對已使用長效支氣管擴張劑之 COPD 患者運動耐力與肺功能的影響 |
+| [NCT00300508](https://clinicaltrials.gov/study/NCT00300508) | [Anastrozole](/drugs/anastrozole/) | L1 | 完成 5 年輔助荷爾蒙治療後，再用 3 年 anastrozole 對比不治療 |
+| [NCT00301457](https://clinicaltrials.gov/study/NCT00301457) | [Anastrozole](/drugs/anastrozole/) | L1 | 使用 tamoxifen 2–3 年後，比較 6 年與 3 年 anastrozole 的無病存活 |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | [Fludarabine](/drugs/fludarabine/) | L3 | Cyclophosphamide／fludarabine／全身放射線的臍帶血移植前處理，用於血液疾病 |
+| [NCT00316407](https://clinicaltrials.gov/study/NCT00316407) | [Carboplatin](/drugs/carboplatin/) | L1 | Lapatinib 併用 carboplatin/paclitaxel，用於復發卵巢癌或 IV 期乳癌 |
+| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | [Carboplatin](/drugs/carboplatin/) | L1 | 隨機試驗，比較 carboplatin 與 docetaxel 用於轉移性遺傳性（BRCA）乳癌 |
+| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | [Docetaxel](/drugs/docetaxel/) | L1 | 隨機比較 carboplatin 與 docetaxel，用於遺傳性（BRCA）轉移性乳癌 |
+| [NCT00327769](https://clinicaltrials.gov/study/NCT00327769) | [Anastrozole](/drugs/anastrozole/) | L1 | Fulvestrant 與 Arimidex 作為二線治療，ER 陽性晚期乳癌的療效與安全性比較 |
+| [NCT00333255](https://clinicaltrials.gov/study/NCT00333255) | [Nepafenac](/drugs/nepafenac/) | L2 | Nevanac 0.1% 對比 Acular LS，用於白內障術後發炎 |
+| [NCT00333775](https://clinicaltrials.gov/study/NCT00333775) | [Docetaxel](/drugs/docetaxel/) | L1 | Bevacizumab 加 docetaxel 對比 docetaxel 加安慰劑，作為 HER2 陰性轉移性乳癌第一線治療 |
+| [NCT00382070](https://clinicaltrials.gov/study/NCT00382070) | [Letrozole](/drugs/letrozole/) | L1 | 完成 5 年荷爾蒙治療後，延長 5 年 Letrozole 對比安慰劑，評估無病存活期 |
+| [NCT00402766](https://clinicaltrials.gov/study/NCT00402766) | [Pemetrexed](/drugs/pemetrexed/) | L3 | Cisplatin + pemetrexed + imatinib，用於無法切除或轉移性惡性間皮瘤（未限定腹膜） |
+| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | [Gemcitabine](/drugs/gemcitabine/) | L1 | 可手術乳癌的前導化療，評估在 docetaxel 中加入 capecitabine 或 gemcitabine 對病理完全緩解率的影響 |
+| [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | [Terbutaline](/drugs/terbutaline/) | L1 | Symbicort 用於中國慢性阻塞性肺病 (COPD) 患者的療效與安全性 |
+| [NCT00431080](https://clinicaltrials.gov/study/NCT00431080) | [Paclitaxel](/drugs/paclitaxel/) | L1 | 劑量密集 FE75C 後接 docetaxel 對比 paclitaxel，用於淋巴結陽性乳癌的輔助化療 |
+| [NCT00437853](https://clinicaltrials.gov/study/NCT00437853) | [Anastrozole](/drugs/anastrozole/) | L1 | Anastrozole 用於停經後 ER 陽性可手術乳癌的新輔助荷爾蒙治療 |
+| [NCT00466609](https://clinicaltrials.gov/study/NCT00466609) | [Clomipramine](/drugs/clomipramine/) | L1 | 對第一線治療無反應的強迫症，比較 Fluoxetine 單用、加 Quetiapine、加 Clomipramine（雙盲） |
+| [NCT00500656](https://clinicaltrials.gov/study/NCT00500656) | [Icatibant](/drugs/icatibant/) | L1 | 雙盲對照，Icatibant 對比口服傳明酸 (tranexamic acid)，主要指標為症狀緩解起始時間 |
+| [NCT00502905](https://clinicaltrials.gov/study/NCT00502905) | [Busulfan](/drugs/busulfan/) | L2 | 高劑量靜脈 Busulfan 加 Fludarabine，用於 AML 與 MDS 的異體移植 |
+| [NCT00513292](https://clinicaltrials.gov/study/NCT00513292) | [Paclitaxel](/drugs/paclitaxel/) | L1 | HER2 陽性可手術乳癌，比較兩種含 paclitaxel／trastuzumab 的新輔助順序 |
+| [NCT00553358](https://clinicaltrials.gov/study/NCT00553358) | [Paclitaxel](/drugs/paclitaxel/) | L1 | Neo-ALTTO：新輔助 lapatinib、trastuzumab 及兩者併用，皆加每週 paclitaxel |
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | [Dipyridamole](/drugs/dipyridamole/) | L4 | 卵圓孔未閉：關閉術、抗凝血與抗血小板預防中風復發（Dipyridamole 非主要測試藥物） |
+| [NCT00562588](https://clinicaltrials.gov/study/NCT00562588) | [Dipyridamole](/drugs/dipyridamole/) | L4 | EARLY：急性缺血性中風 24 小時內開始 Aggrenox 與先用 aspirin 7 天後再用 Aggrenox 的比較 |
+| [NCT00564564](https://clinicaltrials.gov/study/NCT00564564) | [Clomipramine](/drugs/clomipramine/) | L1 | 對 SSRI 無反應的強迫症，比較 Quetiapine 與 Clomipramine 加成治療（開放試驗） |
+| [NCT00567476](https://clinicaltrials.gov/study/NCT00567476) | [Terbutaline](/drugs/terbutaline/) | L1 | Omalizumab 附加治療對重度過敏性氣喘生活品質的影響（terbutaline 僅為背景治療） |
+| [NCT00599716](https://clinicaltrials.gov/study/NCT00599716) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 多中心、隨機、雙盲，比較含玻尿酸鈉的 Vismed 與不含活性成分的載體滴眼液，用於乾眼症 |
+| [NCT00606437](https://clinicaltrials.gov/study/NCT00606437) | [Fludarabine](/drugs/fludarabine/) | L3 | 全身放射線加 fludarabine 前處理，合併臍帶血移植 |
+| [NCT00616967](https://clinicaltrials.gov/study/NCT00616967) | [Carboplatin](/drugs/carboplatin/) | L1 | Carboplatin + nab-paclitaxel 加或不加 vorinostat，用於 HER2 陰性可手術乳癌的術前化療，評估療效與生物標記 |
+| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | [Oteracil](/drugs/oteracil/) | L2 | UFT＋leucovorin 對比 S-1 用於 Stage III 結腸癌術後輔助治療 |
+| [NCT00667251](https://clinicaltrials.gov/study/NCT00667251) | [Docetaxel](/drugs/docetaxel/) | L1 | Taxane 化療加 lapatinib 對比加 trastuzumab，用於 HER2 陽性轉移性乳癌第一線治療 |
+| [NCT00667251](https://clinicaltrials.gov/study/NCT00667251) | [Paclitaxel](/drugs/paclitaxel/) | L1 | 紫杉烷化療搭配 lapatinib 或 trastuzumab，作為 HER2 陽性轉移性乳癌第一線治療 |
+| [NCT00671151](https://clinicaltrials.gov/study/NCT00671151) | [Theophylline](/drugs/theophylline/) | L5 | 低劑量 Theophylline 對 COPD 惡化分子機轉（NF-κB、HDAC）的調節 |
+| [NCT00675207](https://clinicaltrials.gov/study/NCT00675207) | [Dorzolamide](/drugs/dorzolamide/) | L5 | 比較 brimonidine、dorzolamide、brinzolamide 作為前列腺素類似物的輔助治療 |
+| [NCT00678587](https://clinicaltrials.gov/study/NCT00678587) | [Eltrombopag](/drugs/eltrombopag/) | L3 | 評估 eltrombopag 能否提升慢性肝病血小板減少症患者的血小板數、減少接受侵入性處置時的血小板輸注需求；為隨機、雙盲、安慰劑對照試驗，但並非針對 HIV，僅為相似族群，且提前終止限制結論強度 |
+| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | [Dipyridamole](/drugs/dipyridamole/) | L4 | Gore REDUCE：卵圓孔未閉關閉術加抗血小板治療 vs. 單用抗血小板治療 |
+| [NCT00782717](https://clinicaltrials.gov/study/NCT00782717) | [Nepafenac](/drugs/nepafenac/) | L2 | Nevanac 0.1% vs 載體，用於糖尿病視網膜病變患者白內障術後黃斑水腫 |
+| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | [Anastrozole](/drugs/anastrozole/) | L1 | 雙盲 RCT，比較 Arimidex、Nolvadex 及兩者合併輔助治療的生活品質 |
+| [NCT00784862](https://clinicaltrials.gov/study/NCT00784862) | [Anastrozole](/drugs/anastrozole/) | L1 | 評估 Arimidex 與 tamoxifen 合併使用時的藥物動力學交互作用 |
+| [NCT00784940](https://clinicaltrials.gov/study/NCT00784940) | [Anastrozole](/drugs/anastrozole/) | L1 | 評估 Arimidex 與 Nolvadex 對骨密度與骨代謝的影響 |
+| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | [Trabectedin](/drugs/trabectedin/) | L2 | 單盲、安慰劑對照的 QT 間期研究，評估單次給予 Trabectedin 對晚期實體腫瘤病人心電圖 QT/QTc 的影響；屬安全性研究，並非乳癌專屬的療效試驗 |
+| [NCT00803634](https://clinicaltrials.gov/study/NCT00803634) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L3 | 急性心衰竭合併高血壓之降壓研究，測試藥物為 clevidipine（間接） |
+| [NCT00822081](https://clinicaltrials.gov/study/NCT00822081) | [Dorzolamide](/drugs/dorzolamide/) | L5 | 比較 brimonidine/timolol 與 dorzolamide/timolol 複方 |
+| [NCT00822393](https://clinicaltrials.gov/study/NCT00822393) | [Busulfan](/drugs/busulfan/) | L2 | Treosulfan 與減低強度 Busulfan 條件療法比較，對象為不適合標準條件療法的 AML/MDS 患者 |
+| [NCT00839800](https://clinicaltrials.gov/study/NCT00839800) | [Terbutaline](/drugs/terbutaline/) | L1 | Symbicort SMART vs. Symbicort＋隨需 terbutaline 0.4 mg，12 個月 |
+| [NCT00849095](https://clinicaltrials.gov/study/NCT00849095) | [Terbutaline](/drugs/terbutaline/) | L1 | 隨需 vs. 規則使用 budesonide/formoterol＋隨需 terbutaline |
+| [NCT00878917](https://clinicaltrials.gov/study/NCT00878917) | [Dorzolamide](/drugs/dorzolamide/) | L5 | 雙盲交叉等效性試驗，比較 dorzolamide 2% 與參考製劑在開角型青光眼或高眼壓症的降眼壓效果 |
+| [NCT00887536](https://clinicaltrials.gov/study/NCT00887536) | [Docetaxel](/drugs/docetaxel/) | L1 | TC 加 bevacizumab 對比 TC 單用及 TAC，用於 HER2 陰性高風險乳癌 |
+| [NCT00908531](https://clinicaltrials.gov/study/NCT00908531) | [Letrozole](/drugs/letrozole/) | L1 | 術前 4 個月 Letrozole 對比先手術，用於停經後可手術的 HR+ 腫瘤 |
+| [NCT00909948](https://clinicaltrials.gov/study/NCT00909948) | [Fludarabine](/drugs/fludarabine/) | L3 | 非清髓移植後刻意排斥供者移植物；樣本小 |
+| [NCT00912093](https://clinicaltrials.gov/study/NCT00912093) | [Icatibant](/drugs/icatibant/) | L1 | 隨機、雙盲、安慰劑對照，評估 Icatibant 對 HAE 急性發作的療效與安全性 |
+| [NCT00916942](https://clinicaltrials.gov/study/NCT00916942) | [Prilocaine](/drugs/prilocaine/) | L3 | 開放標籤研究，以 lidocaine 2.5%/prilocaine 2.5% 乳膏預先處理 NGX-4010（辣椒素貼片）用於疱疹後神經痛，評估耐受性；規模小且無對照 |
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | [Desogestrel](/drugs/desogestrel/) | L3 | 探討年輕運動員停經的身體組成與荷爾蒙差異，並評估經皮或口服雌激素是否改善骨密度；未顯示 Desogestrel 為指定介入藥物，僅屬荷爾蒙療法的間接證據 |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | [Temozolomide](/drugs/temozolomide/) | L2 | XL184（cabozantinib）併用 temozolomide 與放射治療於膠質母細胞瘤的劑量探索；重點在 XL184 的安全性與藥動學，對 temozolomide 僅屬間接支持 |
+| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | [Oteracil](/drugs/oteracil/) | L2 | S-1＋Bevacizumab 用於先前化療失敗的無法切除或復發大腸直腸癌 |
+| [NCT00991822](https://clinicaltrials.gov/study/NCT00991822) | [Dorzolamide](/drugs/dorzolamide/) | L5 | 比較 dorzolamide 與 timolol 對視神經盤血流的影響 |
+| [NCT00997204](https://clinicaltrials.gov/study/NCT00997204) | [Icatibant](/drugs/icatibant/) | L1 | 開放標籤，評估病人自行注射的安全性、局部耐受性與療效 |
+| [NCT01008462](https://clinicaltrials.gov/study/NCT01008462) | [Fludarabine](/drugs/fludarabine/) | L3 | 自體加非清髓異體移植用於高風險淋巴瘤、骨髓瘤或 CLL；fludarabine 可能為前處理一部分 |
+| [NCT01021761](https://clinicaltrials.gov/study/NCT01021761) | [Nepafenac](/drugs/nepafenac/) | L2 | 比較 Acuvail、Xibrom、Nevanac 對 PGE2 的抑制 |
+| [NCT01071564](https://clinicaltrials.gov/study/NCT01071564) | [Vismodegib](/drugs/vismodegib/) | L2 | Vismodegib 合併 Notch 抑制劑用於晚期乳癌 |
+| [NCT01109173](https://clinicaltrials.gov/study/NCT01109173) | [Nepafenac](/drugs/nepafenac/) | L2 | 0.3% 懸液用於白內障術後眼部發炎與疼痛的安全性與療效 |
+| [NCT01132781](https://clinicaltrials.gov/study/NCT01132781) | [Theophylline](/drugs/theophylline/) | L5 | Theophylline 用於過敏性鼻炎 |
+| [NCT01136421](https://clinicaltrials.gov/study/NCT01136421) | [Ipratropium](/drugs/ipratropium/) | L1 | 硫酸鎂對比 ipratropium（皆合併 SABA）用於 COPD 急性惡化 |
+| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | [Methylprednisolone](/drugs/methylprednisolone/) | L3 | 以更高劑量、更頻繁的口服大劑量脈衝 methylprednisolone，治療嚴重且對治療無反應的圓形禿 |
+| [NCT01168219](https://clinicaltrials.gov/study/NCT01168219) | [Busulfan](/drugs/busulfan/) | L2 | Busulfan、Fludarabine 與 ATG 加 Azacitidine，用於高風險 MDS 與年長 AML |
+| [NCT01208480](https://clinicaltrials.gov/study/NCT01208480) | [Carboplatin](/drugs/carboplatin/) | L1 | 新輔助 bevacizumab + docetaxel + carboplatin 用於三陰性乳癌 |
+| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 於標準五藥化療（含 doxorubicin）加入 vincristine-topotecan-cyclophosphamide，用於非轉移性尤文氏肉瘤 |
+| [NCT01288131](https://clinicaltrials.gov/study/NCT01288131) | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L2 | 抗 EPO 相關純紅血球再生不全，以 cyclosporine＋MMF 治療；非 HIV 試驗，僅佐證免疫抑制機轉與耐受性 |
+| [NCT01309932](https://clinicaltrials.gov/study/NCT01309932) | [Ribavirin](/drugs/ribavirin/) | L2 | PEG-IFN lambda 併用 Ribavirin 與 DAA，對比 Pegasys 加 Ribavirin，治療 HCV 基因型 1（HCV 研究） |
+| [NCT01313884](https://clinicaltrials.gov/study/NCT01313884) | [Doxorubicin](/drugs/doxorubicin/) | L1 | Cyclophosphamide/doxorubicin/vincristine 與 irinotecan/temozolomide 交替，用於轉移性尤文氏肉瘤（僅 3 人，資料有限） |
+| [NCT01318499](https://clinicaltrials.gov/study/NCT01318499) | [Nepafenac](/drugs/nepafenac/) | L2 | 0.3% vs 0.1% vs 載體，用於預防與治療白內障術後發炎與疼痛 |
+| [NCT01386658](https://clinicaltrials.gov/study/NCT01386658) | [Icatibant](/drugs/icatibant/) | L1 | 兒童及青少年 HAE 的藥物動力學、耐受性與安全性 |
+| [NCT01404871](https://clinicaltrials.gov/study/NCT01404871) | [Clomipramine](/drugs/clomipramine/) | L1 | 強迫症患者隨機接受 Clomipramine 或 Escitalopram，探討藥物反應預測因子 |
+| [NCT01426854](https://clinicaltrials.gov/study/NCT01426854) | [Nepafenac](/drugs/nepafenac/) | L2 | 0.1% 對比安慰劑，於中國成人白內障術後的療效 |
+| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | [Rocuronium](/drugs/rocuronium/) | L5 | 針對兒童常規使用之藥物進行藥動學研究；並未檢驗 rocuronium 對偏頭痛的療效，無療效證據 |
+| [NCT01437982](https://clinicaltrials.gov/study/NCT01437982) | [Prednisolone Acetate](/drugs/prednisolone-acetate/) | L5 | 乳突性結膜炎：以另一種局部類固醇（loteprednol etabonate 0.5%）進行上市後監測，主要評估不良事件，並非本藥 |
+| [NCT01439711](https://clinicaltrials.gov/study/NCT01439711) | [Letrozole](/drugs/letrozole/) | L1 | 停經後 ER+ 乳管原位癌術前 Letrozole |
+| [NCT01447420](https://clinicaltrials.gov/study/NCT01447420) | [Ribavirin](/drugs/ribavirin/) | L2 | PEG-IFN alfa-2a 加 Ribavirin 治療 HCV 基因型 1，探討 IL-28B 表現與持續病毒學反應（與 HBV 僅部分相關） |
+| [NCT01453686](https://clinicaltrials.gov/study/NCT01453686) | [Hydrocortisone](/drugs/hydrocortisone/) | L3 | 比較 clobetasol propionate 0.05% 乳膏與 hydrocortisone 1% 乳膏用於兒童圓形禿；hydrocortisone 為對照組 |
+| [NCT01457430](https://clinicaltrials.gov/study/NCT01457430) | [Icatibant](/drugs/icatibant/) | L1 | 開放標籤，評估自行注射 Icatibant 的安全性、便利性與療效 |
+| [NCT01513070](https://clinicaltrials.gov/study/NCT01513070) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L3 | 中藥複方與 ISDN 用於中度冠狀動脈狹窄（間接） |
+| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | [Dorzolamide](/drugs/dorzolamide/) | L5 | 評估 latanoprost 與 dorzolamide 在兒童青光眼的降眼壓效果 |
+| [NCT01543581](https://clinicaltrials.gov/study/NCT01543581) | [Vismodegib](/drugs/vismodegib/) | L2 | 安慰劑對照，評估 Vismodegib 用於 Mohs 手術前基底細胞癌的療效與安全性；樣本數極小 |
+| [NCT01599871](https://clinicaltrials.gov/study/NCT01599871) | [Theophylline](/drugs/theophylline/) | L5 | 52 週雙盲安慰劑對照，評估低劑量 Theophylline 加於 LABA+ICS 治療重度 COPD 的急性惡化率 |
+| [NCT01631331](https://clinicaltrials.gov/study/NCT01631331) | [Vismodegib](/drugs/vismodegib/) | L2 | 手術前使用 Vismodegib 治療散發性基底細胞癌的先導研究 |
+| [NCT01643668](https://clinicaltrials.gov/study/NCT01643668) | [Busulfan](/drugs/busulfan/) | L2 | Busulfan/Clofarabine 減低強度條件療法 |
+| [NCT01658319](https://clinicaltrials.gov/study/NCT01658319) | [Fludarabine](/drugs/fludarabine/) | L3 | Fludarabine 併用 methoxyamine 用於復發或難治性血液惡性腫瘤；族群廣泛，非骨髓瘤專屬 |
+| [NCT01691482](https://clinicaltrials.gov/study/NCT01691482) | [Ipratropium](/drugs/ipratropium/) | L1 | Albuterol 與 ipratropium 單獨及合併使用，評估 COPD 每日支氣管擴張反應 |
+| [NCT01730326](https://clinicaltrials.gov/study/NCT01730326) | [Dexketoprofen](/drugs/dexketoprofen/) | L1 | 急診中靜脈 dexketoprofen 對比 paracetamol，治療急性偏頭痛頭痛 |
+| [NCT01740427](https://clinicaltrials.gov/study/NCT01740427) | [Letrozole](/drugs/letrozole/) | L1 | PALOMA-2：Palbociclib + Letrozole 對比安慰劑 + Letrozole，用於未接受過晚期治療的 ER+/HER2- 乳癌 |
+| [NCT01795911](https://clinicaltrials.gov/study/NCT01795911) | [Ribavirin](/drugs/ribavirin/) | L2 | 與上一項為同一系列研究的另一登記（HCV 研究） |
+| [NCT01822314](https://clinicaltrials.gov/study/NCT01822314) | [Paclitaxel](/drugs/paclitaxel/) | L1 | ETNA：新輔助 nab-paclitaxel 對比溶劑型 paclitaxel，比較病理完全緩解率 |
+| [NCT01835626](https://clinicaltrials.gov/study/NCT01835626) | [Vismodegib](/drugs/vismodegib/) | L2 | 放射線治療合併 Vismodegib 用於頭頸部局部晚期基底細胞癌的安全性與耐受性 |
+| [NCT01853072](https://clinicaltrials.gov/study/NCT01853072) | [Nepafenac](/drugs/nepafenac/) | L2 | 0.3% 每日一次 vs 載體，用於糖尿病患者白內障術後 |
+| [NCT01872611](https://clinicaltrials.gov/study/NCT01872611) | [Nepafenac](/drugs/nepafenac/) | L2 | 同上設計之重複試驗，評估糖尿病患者術後臨床結果 |
+| [NCT02028208](https://clinicaltrials.gov/study/NCT02028208) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L5 | 汞、鋁、鈀金屬過敏原斑貼試驗劑量反應研究，屬鋁的皮膚反應（安全性訊號），非治療效益 |
+| [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | [Regorafenib](/drugs/regorafenib/) | L2 | SARC024：評估口服 Regorafenib 用於特定肉瘤亞型（含脂肪肉瘤族群） |
+| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | [Omalizumab](/drugs/omalizumab/) | L4 | 雙盲安慰劑對照試驗，評估 Omalizumab 對氣喘合併嗜酸性球性支氣管炎病人的類固醇節省效果；樣本數很小 |
+| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 非轉移性尤文氏肉瘤的劑量強化 vs 標準治療 |
+| [NCT02125344](https://clinicaltrials.gov/study/NCT02125344) | [Carboplatin](/drugs/carboplatin/) | L1 | GeparOcto：比較兩種劑量密集方案（含 carboplatin 的 PM(Cb)）用於高風險早期乳癌新輔助治療 |
+| [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | [Terbutaline](/drugs/terbutaline/) | L1 | Symbicort 隨需使用 vs. 隨需 terbutaline vs. Pulmicort＋隨需 terbutaline |
+| [NCT02159547](https://clinicaltrials.gov/study/NCT02159547) | [Dexketoprofen](/drugs/dexketoprofen/) | L1 | 急診中靜脈注射 dexketoprofen 對比安慰劑，檢驗能否終止偏頭痛發作 |
+| [NCT02172469](https://clinicaltrials.gov/study/NCT02172469) | [Ipratropium](/drugs/ipratropium/) | L1 | Tiotropium 與 Atrovent MDI 在菲律賓 COPD 患者的療效與安全性比較 |
+| [NCT02177253](https://clinicaltrials.gov/study/NCT02177253) | [Ipratropium](/drugs/ipratropium/) | L1 | Ipratropium/salbutamol 經 Respimat 吸入器與 COMBIVENT 比較，為期 12 週的 COPD 支氣管擴張療效與安全性試驗 |
+| [NCT02182700](https://clinicaltrials.gov/study/NCT02182700) | [Ipratropium](/drugs/ipratropium/) | L1 | Combivent 氣霧劑加輔助吸入器用於成人中重度氣喘急性發作 |
+| [NCT02216149](https://clinicaltrials.gov/study/NCT02216149) | [Oteracil](/drugs/oteracil/) | L2 | S-1 或 Capecitabine＋Oxaliplatin 對冠狀動脈血流的影響（心臟安全性，非療效） |
+| [NCT02219477](https://clinicaltrials.gov/study/NCT02219477) | [Ribavirin](/drugs/ribavirin/) | L2 | Ombitasvir/paritaprevir/ritonavir 加 dasabuvir 與 Ribavirin，治療失代償性肝硬化的 HCV（HCV 研究） |
+| [NCT02224157](https://clinicaltrials.gov/study/NCT02224157) | [Terbutaline](/drugs/terbutaline/) | L1 | Symbicort 隨需使用 vs. Pulmicort 每日兩次＋隨需 terbutaline，用於氣喘 |
+| [NCT02235428](https://clinicaltrials.gov/study/NCT02235428) | [Ipratropium](/drugs/ipratropium/) | L1 | 幼童急性氣喘加用 ipratropium 的雙盲試驗（僅 3 人，證據力極低） |
+| [NCT02246621](https://clinicaltrials.gov/study/NCT02246621) | [Anastrozole](/drugs/anastrozole/) | L1 | 非類固醇芳香環轉化酶抑制劑（anastrozole 或 letrozole）加 abemaciclib 對比安慰劑，用於 HR+/HER2− 晚期乳癌 |
+| [NCT02260011](https://clinicaltrials.gov/study/NCT02260011) | [Ipratropium](/drugs/ipratropium/) | L1 | Ipratropium HFA-134a 與 Atrovent CFC 在 COPD 的單劑交叉比較 |
+| [NCT02261727](https://clinicaltrials.gov/study/NCT02261727) | [Theophylline](/drugs/theophylline/) | L5 | 低劑量 Theophylline 單用或合併低劑量 prednisone 對 COPD 急性惡化風險的影響 |
+| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 於多藥化療（含 doxorubicin）加入 ganitumab，用於新診斷轉移性尤文氏肉瘤 |
+| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 產前已用藥超過 8 小時者，產後 24 小時 vs 不續用 |
+| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 嚴重子癇前症產後硫酸鎂 6 小時 vs 24 小時（產前已用藥不足 8 小時者） |
+| [NCT02322788](https://clinicaltrials.gov/study/NCT02322788) | [Terbutaline](/drugs/terbutaline/) | L1 | Bricanyl Turbuhaler M3 vs. M2 對乙醯甲膽鹼誘發支氣管收縮的保護效果 |
+| [NCT02325518](https://clinicaltrials.gov/study/NCT02325518) | [Dorzolamide](/drugs/dorzolamide/) | L5 | brinzolamide/timolol 複方對比 dorzolamide/timolol 複方的降眼壓療效 |
+| [NCT02340520](https://clinicaltrials.gov/study/NCT02340520) | [Theophylline](/drugs/theophylline/) | L5 | 評估 Theophylline 與 roflumilast 對 HDAC 及皮質類固醇療效的增強作用 |
+| [NCT02344550](https://clinicaltrials.gov/study/NCT02344550) | [Letrozole](/drugs/letrozole/) | L1 | 停經前轉移性乳癌：卵巢抑制 + Letrozole + Everolimus |
+| [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | [Betamethasone](/drugs/betamethasone/) | L2 | 局部 Latanoprost 與局部皮質類固醇（Betamethasone）用於局部斑禿的隨機比較；Betamethasone 作為對照組的角色尚未由標題完全確認 |
+| [NCT02374567](https://clinicaltrials.gov/study/NCT02374567) | [Clomipramine](/drugs/clomipramine/) | L1 | 老年精神科住院病人的藥物不良反應監測（僅提供一般安全性參考） |
+| [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 維持劑量 1 g/h vs 2 g/h 預防子癇 |
+| [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | [Tizanidine](/drugs/tizanidine/) | L2 | 外用 NSAID 止痛療效的觀察性研究，與 Tizanidine 及偏頭痛關聯有限，僅屬間接參考 |
+| [NCT02465060](https://clinicaltrials.gov/study/NCT02465060) | [Larotrectinib](/drugs/larotrectinib/) | L4 | NCI-MATCH：依基因檢測結果分派治療的泛腫瘤籃式試驗，針對標準治療後惡化的晚期實體腫瘤、淋巴瘤或多發性骨髓瘤；並非針對 MEN 或 Larotrectinib，僅能支持機轉層面的合理性 |
+| [NCT02465060](https://clinicaltrials.gov/study/NCT02465060) | [Vismodegib](/drugs/vismodegib/) | L2 | NCI-MATCH 基因導向治療總試驗，Vismodegib 僅為其中一個子組 |
+| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | [Omalizumab](/drugs/omalizumab/) | L4 | QGE031 用於慢性自發性蕁麻疹的劑量探索試驗，並非支氣管炎族群，僅提供 IgE 路徑的背景資訊 |
+| [NCT02535312](https://clinicaltrials.gov/study/NCT02535312) | [Pemetrexed](/drugs/pemetrexed/) | L3 | TRC102 併用 cisplatin 與 pemetrexed，對象為晚期實體瘤或間皮瘤（族群混合，非腹膜專屬） |
+| [NCT02600923](https://clinicaltrials.gov/study/NCT02600923) | [Letrozole](/drugs/letrozole/) | L1 | Palbociclib 併用 Letrozole 用於停經後 HR+/HER2- 晚期乳癌（拉丁美洲用藥可近性研究） |
+| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | [Oteracil](/drugs/oteracil/) | L2 | Raltitrexed＋S-1 用於標準化療失敗的轉移性癌症，主要終點為無惡化存活期 |
+| [NCT02630862](https://clinicaltrials.gov/study/NCT02630862) | [Dipyridamole](/drugs/dipyridamole/) | L4 | 頸動脈血管重建後的氧化壓力與抗血栓治療效果（僅支持機轉） |
+| [NCT02690948](https://clinicaltrials.gov/study/NCT02690948) | [Vismodegib](/drugs/vismodegib/) | L2 | Pembrolizumab 加或不加 Vismodegib 用於無法切除或轉移性基底細胞癌 |
+| [NCT02694224](https://clinicaltrials.gov/study/NCT02694224) | [Vismodegib](/drugs/vismodegib/) | L2 | 標準新輔助化療加入 Vismodegib 用於三陰性乳癌（病灶非皮膚癌） |
+| [NCT02767245](https://clinicaltrials.gov/study/NCT02767245) | [Thiamine](/drugs/thiamine/) | L3 | 評估重度甲狀腺機能亢進患者的 thiamine 缺乏盛行率，以及補充 thiamine 後心血管功能的改善；為小型先導試驗 |
+| [NCT02789033](https://clinicaltrials.gov/study/NCT02789033) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L3 | ISDN 噴霧加幾丁聚醣用於糖尿病足潰瘍（藥物相符，疾病間接相關；結果未提供） |
+| [NCT02941926](https://clinicaltrials.gov/study/NCT02941926) | [Letrozole](/drugs/letrozole/) | L1 | Ribociclib 併用 Letrozole 用於 HR+/HER2- 晚期乳癌的安全性與療效（含男性及停經前後女性） |
+| [NCT03025945](https://clinicaltrials.gov/study/NCT03025945) | [Nepafenac](/drugs/nepafenac/) | L2 | 0.3% 每日一次 vs 安慰劑，預防人工水晶體眼囊樣黃斑水腫 |
+| [NCT03074344](https://clinicaltrials.gov/study/NCT03074344) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 交聯玻尿酸加輔酶 Q10 滴眼液用於輕中度乾眼症（隨機、單盲） |
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | [Everolimus](/drugs/everolimus/) | L2 | Ribociclib 併用 everolimus 用於曾接受過至少一線全身治療的晚期去分化脂肪肉瘤 (DDL) 與平滑肌肉瘤 (LMS)，評估抗腫瘤活性；預計 2026 年 12 月完成 |
+| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 嚴重子癇前症維持劑量 1 g vs 2 g 的療效與安全性 |
+| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | [Atezolizumab](/drugs/atezolizumab/) | L4 | Cabozantinib 單用或與 atezolizumab 併用，用於局部晚期或轉移性實體腫瘤（含泌尿上皮癌、腎細胞癌、攝護腺癌等）；評估安全性、耐受性、初步療效與藥動學 |
+| [NCT03186313](https://clinicaltrials.gov/study/NCT03186313) | [Ribavirin](/drugs/ribavirin/) | L2 | 埃及基因型 4 HCV 患者，複方 sofosbuvir/daclatasvir/Ribavirin 與分開給藥比較（HCV 研究） |
+| [NCT03303950](https://clinicaltrials.gov/study/NCT03303950) | [Fludarabine](/drugs/fludarabine/) | L3 | Busulfan／fludarabine／cyclophosphamide 移植前處理用於骨髓瘤或骨髓纖維化；人數極少，證據有限 |
+| [NCT03318211](https://clinicaltrials.gov/study/NCT03318211) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 產後繼續 vs 停用硫酸鎂 |
+| [NCT03412552](https://clinicaltrials.gov/study/NCT03412552) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 嚴重子癇前症／子癇加護照護的觀察性分析（硫酸鎂為整體處置的一部分） |
+| [NCT03416348](https://clinicaltrials.gov/study/NCT03416348) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L5 | 截肢者殘肢多汗症的治療流程研究，該適應症已是核准用途 |
+| [NCT03425838](https://clinicaltrials.gov/study/NCT03425838) | [Letrozole](/drugs/letrozole/) | L1 | SONIA：芳香環轉化酶抑制劑加 CDK4/6 抑制劑用於第一線或第二線的順序比較 |
+| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | [Oteracil](/drugs/oteracil/) | L2 | SOX（Oxaliplatin＋S-1）對比 XELOX 用於 Stage III 大腸直腸癌輔助化療，尚無結果 |
+| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | [Pravastatin](/drugs/pravastatin/) | L4 | 開放標籤試驗，評估 alirocumab（PCSK9 抗體）用於 8–17 歲同合子 FH 兒童與青少年的 LDL-C 降幅；**並非 pravastatin** |
+| [NCT03526679](https://clinicaltrials.gov/study/NCT03526679) | [Lenvatinib](/drugs/lenvatinib/) | L3 | LEADER 研究：lenvatinib 併用 eribulin 治療無法手術或轉移性的脂肪細胞肉瘤與平滑肌肉瘤，評估安全性與療效（單臂） |
+| [NCT03588091](https://clinicaltrials.gov/study/NCT03588091) | [Docetaxel](/drugs/docetaxel/) | L1 | 術前 pyrotinib 加 trastuzumab 和 docetaxel 對比安慰劑組，用於 HER2 陽性早期或局部晚期乳癌 |
+| [NCT03759782](https://clinicaltrials.gov/study/NCT03759782) | [Ribavirin](/drugs/ribavirin/) | L2 | 在 HBV 核苷類似物治療上加入 Ribavirin，探索免疫調節作用的前導試驗 |
+| [NCT03875144](https://clinicaltrials.gov/study/NCT03875144) | [Pemetrexed](/drugs/pemetrexed/) | L3 | MESOTIP：PIPAC（腹腔加壓氣霧化化療）搭配 cisplatin + pemetrexed 全身化療，對比單純全身化療，作為第一線治療 |
+| [NCT03888755](https://clinicaltrials.gov/study/NCT03888755) | [Icatibant](/drugs/icatibant/) | L1 | 日本 I 型或 II 型 HAE 急性發作的療效、藥動學與安全性 |
+| [NCT03984188](https://clinicaltrials.gov/study/NCT03984188) | [Theophylline](/drugs/theophylline/) | L5 | 低劑量 Theophylline 用於生質燃料相關 COPD |
+| [NCT04057131](https://clinicaltrials.gov/study/NCT04057131) | [Icatibant](/drugs/icatibant/) | L1 | 日本上市後一般使用結果調查，收集真實世界安全性與療效資料 |
+| [NCT04159155](https://clinicaltrials.gov/study/NCT04159155) | [Niraparib](/drugs/niraparib/) | L3 | 漿液性或 p53 突變子宮內膜癌的多組別前線與維持治療試驗（含 Niraparib）；僅收 11 人，難以解讀療效 |
+| [NCT04164069](https://clinicaltrials.gov/study/NCT04164069) | [Uracil](/drugs/uracil/) | L3 | 以 dasatinib 預防轉移性消化道癌病人接受 FOLFOX 化療時的奧沙利鉑神經病變；未評估 uracil，僅為間接背景 |
+| [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | [Betamethasone](/drugs/betamethasone/) | L2 | 中央離心性瘢痕性禿髮（與斑禿相關但不同的疾病）的治療結果比較；Betamethasone 的角色不明 |
+| [NCT04252521](https://clinicaltrials.gov/study/NCT04252521) | [Dexketoprofen](/drugs/dexketoprofen/) | L1 | 靜脈 metoclopramide、dexketoprofen trometamol 及兩者併用的雙盲隨機試驗 |
+| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | [Letrozole](/drugs/letrozole/) | L1 | 老年早期 ER+ 乳癌病人術前荷爾蒙治療窗口期研究 |
+| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | [Dupilumab](/drugs/dupilumab/) | L4 | 以隨機、雙盲、安慰劑對照設計，評估 Dupilumab 用於無鼻息肉慢性鼻竇炎的療效；屬不同疾病，僅間接支持上下呼吸道第 2 型發炎的共通機轉 |
+| [NCT04368559](https://clinicaltrials.gov/study/NCT04368559) | [Posaconazole](/drugs/posaconazole/) | L4 | 針對異體血液與骨髓移植成人，比較 rezafungin 與標準抗微生物方案預防侵入性黴菌感染。**試驗藥物為 echinocandin 類的 rezafungin，並非 posaconazole**，僅支持此適應症領域，無 posaconazole 數據 |
+| [NCT04372264](https://clinicaltrials.gov/study/NCT04372264) | [Dexketoprofen](/drugs/dexketoprofen/) | L1 | 靜脈 paracetamol、dexketoprofen、ibuprofen 對疼痛視覺類比量表（VAS）的影響 |
+| [NCT04446637](https://clinicaltrials.gov/study/NCT04446637) | [Ipratropium](/drugs/ipratropium/) | L1 | Ipratropium/levosalbutamol 固定複方對比自由複方（未收案） |
+| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 低劑量 vs 標準 Pritchard 療程用於嚴重子癇前症／子癇 |
+| [NCT04533568](https://clinicaltrials.gov/study/NCT04533568) | [Dexketoprofen](/drugs/dexketoprofen/) | L1 | 靜脈 ibuprofen 對比靜脈 dexketoprofen，治療無預兆偏頭痛相關頭痛 |
+| [NCT04568616](https://clinicaltrials.gov/study/NCT04568616) | [Letrozole](/drugs/letrozole/) | L1 | NAOMI：停經後 ER+/HER2- 乳癌術前 Letrozole 4–24 週的分子分析 |
+| [NCT04654351](https://clinicaltrials.gov/study/NCT04654351) | [Icatibant](/drugs/icatibant/) | L1 | 日本兒童及青少年 HAE 的安全性與療效（人數極少，參考價值有限） |
+| [NCT04673643](https://clinicaltrials.gov/study/NCT04673643) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 耳迷走神經刺激治療乾眼症；玻尿酸可能僅為背景治療 |
+| [NCT04705584](https://clinicaltrials.gov/study/NCT04705584) | [Prednisolone Acetate](/drugs/prednisolone-acetate/) | L5 | 春季結膜炎：比較 cyclosporine 2% 與 tacrolimus 0.3% 作為類固醇替代療法，並非本藥 |
+| [NCT04708054](https://clinicaltrials.gov/study/NCT04708054) | [Busulfan](/drugs/busulfan/) | L2 | 在分次 Busulfan 方案中加入 Venetoclax，用於高風險 AML/MDS |
+| [NCT04713956](https://clinicaltrials.gov/study/NCT04713956) | [Busulfan](/drugs/busulfan/) | L2 | 同上，對象為 RAEB-1/2 與 MDS 繼發 AML |
+| [NCT04716686](https://clinicaltrials.gov/study/NCT04716686) | [Niraparib](/drugs/niraparib/) | L3 | Niraparib 單藥用於子宮內膜漿液性癌的維持與復發治療；尚無結果 |
+| [NCT05001880](https://clinicaltrials.gov/study/NCT05001880) | [Pemetrexed](/drugs/pemetrexed/) | L3 | 腹膜間皮瘤，比較 carboplatin + pemetrexed + bevacizumab 加或不加 atezolizumab（隨機分派） |
+| [NCT05289648](https://clinicaltrials.gov/study/NCT05289648) | [Niraparib](/drugs/niraparib/) | L3 | 術前使用 Niraparib 於高惡性度子宮內膜癌的探索性研究；未收案，無資料 |
+| [NCT05324904](https://clinicaltrials.gov/study/NCT05324904) | [Acyclovir](/drugs/acyclovir/) | L2 | 病灶內維生素 D3 對比 Acyclovir 治療足底疣的療效與安全性 |
+| [NCT05429151](https://clinicaltrials.gov/study/NCT05429151) | [Acyclovir](/drugs/acyclovir/) | L2 | 病灶內 Acyclovir 對比念珠菌抗原治療足底疣 |
+| [NCT05453552](https://clinicaltrials.gov/study/NCT05453552) | [Busulfan](/drugs/busulfan/) | L2 | G-CSF+Decitabine 搭配 BUCY 與 BF 兩種條件療法，用於高風險 MDS |
+| [NCT05463757](https://clinicaltrials.gov/study/NCT05463757) | [Vismodegib](/drugs/vismodegib/) | L2 | 荷蘭 Vismodegib 與 Sonidegib 用於晚期及多發性基底細胞癌的觀察性登錄研究 |
+| [NCT05484349](https://clinicaltrials.gov/study/NCT05484349) | [Tizanidine](/drugs/tizanidine/) | L2 | 多中心、隨機、雙盲、安慰劑對照，評估口服 Tizanidine 預防成人發作性偏頭痛的療效、安全性與耐受性；預計 2025-12 完成，尚無結果 |
+| [NCT05561543](https://clinicaltrials.gov/study/NCT05561543) | [Peppermint Oil](/drugs/peppermint-oil/) | L5 | 薄荷油用於輕中度高血壓與高血壓前期受試者的心血管代謝指標；先前試驗顯示口服薄荷可改善健康受試者的收縮壓與血脂 |
+| [NCT05651828](https://clinicaltrials.gov/study/NCT05651828) | [Vismodegib](/drugs/vismodegib/) | L2 | 比較四種給藥時程（含個人化間歇給藥）用於晚期基底細胞癌 |
+| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | [Zanubrutinib](/drugs/zanubrutinib/) | L4 | 評估 CDK9 抑制劑 PRT2527 單用，或與 zanubrutinib、venetoclax 併用於復發/難治性血液惡性腫瘤的安全性與初步療效；並未直接測試 zanubrutinib 於骨髓性白血病 |
+| [NCT05737511](https://clinicaltrials.gov/study/NCT05737511) | [Clomipramine](/drugs/clomipramine/) | L1 | Hydroxyzine 對比常規治療用於恐慌症（Clomipramine 至多屬常規治療） |
+| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | [Betamethasone](/drugs/betamethasone/) | L2 | 局部 Cetirizine 1% 與 Betamethasone valerate 0.1% 用於局部斑禿的療效與安全性比較 |
+| [NCT05803096](https://clinicaltrials.gov/study/NCT05803096) | [Nitrous Oxide](/drugs/nitrous-oxide/) | L4 | 評估自行施用氧化亞氮是否能降低經直腸攝護腺切片時的焦慮與疼痛；目標為處置體驗，並非治療 BPH |
+| [NCT05823961](https://clinicaltrials.gov/study/NCT05823961) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 交聯玻尿酸滴眼液的上市後臨床追蹤，評估淚液異常與乾眼症狀的表現與安全性 |
+| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | [Gemcitabine](/drugs/gemcitabine/) | L1 | Trilaciclib、pembrolizumab、gemcitabine 與 carboplatin 用於轉移性三陰性乳癌 |
+| [NCT06045806](https://clinicaltrials.gov/study/NCT06045806) | [Fludarabine](/drugs/fludarabine/) | L3 | Ide-cel 加 lenalidomide 維持治療；fludarabine 僅可能作為淋巴清除，屬機轉面的佐證 |
+| [NCT06053021](https://clinicaltrials.gov/study/NCT06053021) | [Dipyridamole](/drugs/dipyridamole/) | L4 | 急性缺血性中風合併血小板低下的抗血小板治療 |
+| [NCT06057935](https://clinicaltrials.gov/study/NCT06057935) | [Pemetrexed](/drugs/pemetrexed/) | L3 | ICARuS II：減積手術與 HIPEC 後，比較腹腔內與靜脈化療（是否使用 pemetrexed 不明，僅供背景參考） |
+| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | [Betamethasone](/drugs/betamethasone/) | L2 | 局部 Pentoxifylline、Metformin 凝膠與 Betamethasone valerate 0.1% 乳膏用於斑塊型斑禿的比較 |
+| [NCT06122428](https://clinicaltrials.gov/study/NCT06122428) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 回溯性研究，評估核黃素強化玻尿酸滴眼液 (HAr 0.1%) 對乾眼症的效果 |
+| [NCT06247917](https://clinicaltrials.gov/study/NCT06247917) | [Busulfan](/drugs/busulfan/) | L2 | FLU-BU-MEL 條件療法，單臂研究，用於 MDS |
+| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | [Oteracil](/drugs/oteracil/) | L2 | Fruquintinib＋S-1 複方用於晚期轉移性大腸直腸癌三線治療，尚無資料 |
+| [NCT06261684](https://clinicaltrials.gov/study/NCT06261684) | [Acyclovir](/drugs/acyclovir/) | L2 | 病灶內 Acyclovir 對比冷凍治療於足底疣的隨機對照試驗，評估安全性與療效 |
+| [NCT06357988](https://clinicaltrials.gov/study/NCT06357988) | [Vismodegib](/drugs/vismodegib/) | L2 | NCI-MATCH 子試驗，用於 SMO 或 PTCH1 突變的非基底細胞皮膚癌腫瘤 |
+| [NCT06413498](https://clinicaltrials.gov/study/NCT06413498) | [Fludarabine](/drugs/fludarabine/) | L3 | Anito-cel 對比標準治療用於復發／難治性骨髓瘤；fludarabine 僅涉及淋巴清除 |
+| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | [Vinorelbine](/drugs/vinorelbine/) | L5 | 中國兒童尤文氏肉瘤風險分層治療的前瞻性世代研究；Vinorelbine 的角色尚不明確 |
+| [NCT06478134](https://clinicaltrials.gov/study/NCT06478134) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 多成分人工淚液 TriMix 對比以玻尿酸為基底的對照淚液（雙盲 RCT） |
+| [NCT06486025](https://clinicaltrials.gov/study/NCT06486025) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | 過重及肥胖子癇前症婦女的替代劑量方案 |
+| [NCT06501651](https://clinicaltrials.gov/study/NCT06501651) | [Sacubitril](/drugs/sacubitril/) | L3 | Hyper-Save 研究：比較 sacubitril/valsartan 與 valsartan 用於原發性高血壓合併第 2 型糖尿病腎病變，治療 12 週；預計 2025 年 4 月完成，目前尚無結果 |
+| [NCT06543069](https://clinicaltrials.gov/study/NCT06543069) | [Pemetrexed](/drugs/pemetrexed/) | L3 | 單臂試驗：sintilimab + bevacizumab 併用 pemetrexed + cisplatin，用於無法切除的腹膜間皮瘤 |
+| [NCT06544447](https://clinicaltrials.gov/study/NCT06544447) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 耳迷走神經刺激治療合併瞼板腺功能障礙的乾眼症；玻尿酸可能僅為背景治療 |
+| [NCT06626620](https://clinicaltrials.gov/study/NCT06626620) | [Terbutaline](/drugs/terbutaline/) | L1 | 靜脈注射硫酸鎂 vs. terbutaline，用於兒童急性氣喘發作 |
+| [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | [Betamethasone](/drugs/betamethasone/) | L2 | 比較每週 Azathioprine 脈衝療法與口服 Betamethasone mini-pulse 用於中重度斑禿 |
+| [NCT06899438](https://clinicaltrials.gov/study/NCT06899438) | [Prilocaine](/drugs/prilocaine/) | L3 | 比較肉毒桿菌毒素與 prilocaine 用於肌筋膜疼痛症候群；僅提供一般疼痛模型背景 |
+| [NCT06918418](https://clinicaltrials.gov/study/NCT06918418) | [Ipratropium](/drugs/ipratropium/) | L1 | 兒童急性氣喘：salbutamol 單用對比 salbutamol 加 ipratropium |
+| [NCT06983795](https://clinicaltrials.gov/study/NCT06983795) | [Dipyridamole](/drugs/dipyridamole/) | L4 | 亞太地區卵圓孔未閉合併缺血性中風的登錄研究 |
+| [NCT07089511](https://clinicaltrials.gov/study/NCT07089511) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | 臍帶血乏血小板血漿滴眼液用於乾眼症；玻尿酸可能為對照，角色不明 |
+| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | [Etanercept](/drugs/etanercept/) | L4 | 風濕病患者接受肩關節置換術前後的免疫抑制劑停藥策略；並未研究類風濕性血管炎或 etanercept 療效，僅屬背景參考 |
+| [NCT07183878](https://clinicaltrials.gov/study/NCT07183878) | [Busulfan](/drugs/busulfan/) | L2 | 隨機比較 Venetoclax 加強型 BUCY 與標準 BUCY |
+| [NCT07220902](https://clinicaltrials.gov/study/NCT07220902) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 | Levetiracetam 與硫酸鎂預防子癇發作的等效性比較 |
+| [NCT07290855](https://clinicaltrials.gov/study/NCT07290855) | [Icatibant](/drugs/icatibant/) | L1 | 台灣研究，評估 Icatibant 對緩激肽相關血管性水腫病人的安全性與療效 |
+| [NCT07401277](https://clinicaltrials.gov/study/NCT07401277) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L5 | 5-氟尿嘧啶加鋁用於光線性角化症的探索性研究，鋁的形式與角色尚不明確 |
+| [NCT07448844](https://clinicaltrials.gov/study/NCT07448844) | [Acyclovir](/drugs/acyclovir/) | L2 | 病灶內 Acyclovir 對比維生素 D3 治療皮膚病毒疣，主要終點為第 8 週完全清除 |
+| [NCT07528768](https://clinicaltrials.gov/study/NCT07528768) | [Gemcitabine](/drugs/gemcitabine/) | L1 | 非洲裔女性轉移性三陰性乳癌，比較 gemcitabine 與 paclitaxel |
+| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | [Betamethasone](/drugs/betamethasone/) | L2 | Metformin 30%、Simvastatin 2% 與 Betamethasone valerate 0.1% 用於斑塊型斑禿；尚無療效資料 |
+| [NCT07708480](https://clinicaltrials.gov/study/NCT07708480) | [Acitretin](/drugs/acitretin/) | L4 | 比較口服 apremilast 與 acitretin 用於中重度化膿性汗腺炎，療程 12 週，主要指標為 IHS4 嚴重度評分；疾病與痤瘡不同，僅屬間接證據 |
+| [NCT07722650](https://clinicaltrials.gov/study/NCT07722650) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 | Systane Complete 每日兩次對比含海藻糖與玻尿酸的 Thealoz Duo 每日四次（非劣性 RCT）；玻尿酸貢獻與其他成分混合 |
+| [NCT07736690](https://clinicaltrials.gov/study/NCT07736690) | [Nepafenac](/drugs/nepafenac/) | L2 | 圍手術期使用於視網膜前膜手術後的解剖與功能恢復 |
+| [NCT07764978](https://clinicaltrials.gov/study/NCT07764978) | [Fludarabine](/drugs/fludarabine/) | L3 | BCMA/CD19 CAR-T 鞏固治療；fludarabine 僅涉及淋巴清除 |
 
 ---
 

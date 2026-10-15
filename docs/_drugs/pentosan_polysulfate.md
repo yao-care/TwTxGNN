@@ -90,7 +90,7 @@ TxGNN 模型預測它可能對**血小板釋放障礙 (primary release disorder 
 |------|------|------|------|------|------|
 | 衛署藥製字第057862號 | 優而順膠囊 | 膠囊劑 | 泰宗生物科技股份有限公司 | 2028/03/18 | 使用於因間質性膀胱炎引起的膀胱疼痛或不適的解除。 |
 | 衛部藥製字第058601號 | 舒泌解膠囊100毫克 | 膠囊劑 | 國邑藥品科技股份有限公司 | 2030/07/02 | 因間質性膀胱炎引起的膀胱疼痛或不適的解除。 |
-| 衛部藥輸字第027629號 | 硫酸戊聚糖鈉 | （粉） | 恒亞貿易股份有限公司 | 2024/04/11 | 因間質性膀胱炎引起的膀胱疼痛或不適的解除。 |
+| 衛部藥輸字第027629號 | 硫酸戊聚糖鈉 | （粉） | 恒亞貿易股份有限公司 | 2029/04/11 | 因間質性膀胱炎引起的膀胱疼痛或不適的解除。 |
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第002092號</td><td>愛斯庇５４針</td><td>SODIUM PENTOSAN POLYSULPHATE ( EQ TO PENTOSAN POLYSULFATE SO…</td><td>1986/08/19</td></tr><tr><td>內衛藥輸字第002202號</td><td>愛斯庇５４錠</td><td>SODIUM PENTOSAN POLYSULPHATE ( EQ TO PENTOSAN POLYSULFATE SO…</td><td>1986/08/19</td></tr><tr><td>衛署藥輸字第023657號</td><td>愛泌羅膠囊１００公絲</td><td>SODIUM PENTOSAN POLYSULPHATE ( EQ TO PENTOSAN POLYSULFATE SO…</td><td>2013/07/24</td></tr></tbody></table></details>

@@ -99,11 +99,11 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 內衛藥製字第011108號 | "人生"胃立爽顆粒 | SODIUM COPPER CHLOROPHYLLIN、MAGNESIUM CARBONATE、CHOLIC ACID、… | 內服顆粒劑 | 急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍 |
-| 衛署藥製字第018650號 | 力保體康膠囊 | PANTOTHENATE CALCIUM、NIACINAMIDE (NICOTINAMIDE)、FOLIC ACID、P… | 膠囊劑 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給、維護肝臟正常功能 |
+| 內衛藥製字第011108號 | "人生"胃立爽顆粒 | SODIUM COPPER CHLOROPHYLLIN、POLYMIGEL (AL.HYDROXIDE +CACO3 +… | 內服顆粒劑 | 急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍 |
+| 衛署藥製字第018650號 | 力保體康膠囊 | LECITHIN(LECITHOL)、VITAMIN B1 (NITRATE)、CYANOCOBALAMIN (VIT… | 膠囊劑 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給、維護肝臟正常功能 |
 
 <details><summary><strong>已註銷</strong>（6 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004256號</td><td>胃好實錠</td><td>SCOPOLIA EXTRACT、BENACTYZINE HCL、CHOLIC ACID、CHLOROPHYLL SOD…</td><td>2012/11/30</td></tr><tr><td>內衛藥輸字第003265號</td><td>利保力體片</td><td>OROTIC ACID (VIT B13)、FOLIC ACID、PANTOTHENATE CALCIUM、NIACIN…</td><td>1990/09/13</td></tr><tr><td>衛署藥製字第004579號</td><td>爽胃王顆粒</td><td>POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 )、CHOLIC ACID、BENACTYZ…</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第016203號</td><td>爽胃王錠</td><td>POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 )、CHLOROPHYLL SODIUM C…</td><td>1999/09/06</td></tr><tr><td>衛署藥輸字第002730號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1988/09/02</td></tr><tr><td>衛署藥輸字第003007號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1999/09/22</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004256號</td><td>胃好實錠</td><td>SCOPOLIA EXTRACT、MAGNESIUM CARBONATE、CHOLIC ACID、BENACTYZINE…</td><td>2012/11/30</td></tr><tr><td>內衛藥輸字第003265號</td><td>利保力體片</td><td>PYRIDOXINE(VITAMIN B6)、NIACINAMIDE (NICOTINAMIDE)、PANTOTHENA…</td><td>1990/09/13</td></tr><tr><td>衛署藥製字第004579號</td><td>爽胃王顆粒</td><td>CHOLIC ACID、SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBO…</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第016203號</td><td>爽胃王錠</td><td>CHOLIC ACID、SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBO…</td><td>1999/09/06</td></tr><tr><td>衛署藥輸字第002730號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1988/09/02</td></tr><tr><td>衛署藥輸字第003007號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1999/09/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

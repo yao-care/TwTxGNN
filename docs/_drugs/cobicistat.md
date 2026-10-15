@@ -79,9 +79,9 @@ SIV 是非人類靈長類的疾病，沒有人類臨床意義。要推進這個�
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、EMTRICITABINE、elvi… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
-| 衛部藥輸字第027263號 | 普澤力膜衣錠 | cobicistat、DARUNAVIR ETHANOLATE | 膜衣錠 | 適用於與其他抗反轉錄病毒藥物併用，以治療 未曾接受治療及曾經接受治療且未發生darunavir抗藥性 相關取代（V11I、V32I、L33F、I47V、I50V、I54L、I54M… |
-| 衛部藥輸字第027613號 | 信澤力膜衣錠 | tenofovir alafenamide fumarate、DARUNAVIR ETHANOLATE、EMTRICIT… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
+| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、elvitegravir、EMTRI… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
+| 衛部藥輸字第027263號 | 普澤力膜衣錠 | DARUNAVIR ETHANOLATE、cobicistat | 膜衣錠 | 適用於與其他抗反轉錄病毒藥物併用，以治療 未曾接受治療及曾經接受治療且未發生darunavir抗藥性 相關取代（V11I、V32I、L33F、I47V、I50V、I54L、I54M… |
+| 衛部藥輸字第027613號 | 信澤力膜衣錠 | EMTRICITABINE、DARUNAVIR ETHANOLATE、cobicistat、tenofovir alaf… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
 
 <!-- tfda-licenses:end -->
 

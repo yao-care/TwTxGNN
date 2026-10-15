@@ -80,7 +80,7 @@ TxGNN 模型預測它可能對**骨關節炎易感性 (Osteoarthritis Susceptibi
 | 衛署藥輸字第022492號 | 歐得利350造影劑 | 注射劑 | 台灣古爾貝特股份有限公司 | 2029/05/31 | 成人冠狀動脈攝影和心室Ｘ射線攝影、週邊和內臟血管攝影、拍攝電腦斷層掃描時頭部及身體之靜脈對照增強劑、排泄性尿路Ｘ射線攝影、靜脈數位減法血管Ｘ射線攝影和靜脈Ｘ射線攝影。兒童心臟血管Ｘ… |
 
 <details><summary><strong>已註銷</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第018460號</td><td>歐得利１６０造影劑</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOVERSO…</td><td>2014/04/28</td></tr><tr><td>衛署藥輸字第018461號</td><td>歐得利２４０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/11/05</td></tr><tr><td>衛署藥輸字第018463號</td><td>歐得利３２０造影劑</td><td>IOVERSOL</td><td>2022/04/11</td></tr><tr><td>衛署藥輸字第021156號</td><td>加拿大 "麥林可" 歐得利２４０造影劑</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOVERSO…</td><td>2014/11/12</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第018460號</td><td>歐得利１６０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/04/28</td></tr><tr><td>衛署藥輸字第018461號</td><td>歐得利２４０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/11/05</td></tr><tr><td>衛署藥輸字第018463號</td><td>歐得利３２０造影劑</td><td>IOVERSOL</td><td>2022/04/11</td></tr><tr><td>衛署藥輸字第021156號</td><td>加拿大 "麥林可" 歐得利２４０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/11/12</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

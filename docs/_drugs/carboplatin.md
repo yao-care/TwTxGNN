@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 16 張（有效單方 6／有效複方 0／已註銷 10） |
+| 許可證數 | 16 張（有效單方 3／有效複方 0／已註銷 13） |
 | 建議決策 | Proceed with Guardrails |
 
 由於原適應症本身已含乳癌，這個預測更像是**擴大或釐清使用族群**（例如三陰性乳癌、BRCA 相關乳癌），而不是全新的疾病領域。
@@ -96,21 +96,18 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Carboplatin 的不重複許可證共 **16 張**：有效單方 6 張、有效複方 0 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Carboplatin 的不重複許可證共 **16 張**：有效單方 3 張、有效複方 0 張、已註銷 13 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（6 張）
+**有效・單方**（3 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第057314號 | "杏輝"剋鉑停靜脈注射液10毫克/毫升 | 注射劑 | 杏輝藥品工業股份有限公司 | 2027/07/30 | 卵巢癌。 |
 | 衛署藥輸字第024074號 | 佳鉑帝靜脈注射液 | 注射液劑 | 台灣大昌華嘉股份有限公司 | 2029/09/29 | 卵巢癌。 |
 | 衛署藥輸字第024804號 | 爾定康靜脈注射液 | 注射劑 | 台灣費森尤斯卡比股份有限公司 | 2028/03/17 | 卵巢癌。 |
-| 衛部藥輸字第026387號 | 艾鉑霆靜脈注射液10毫克/毫升 | 注射液 | 美時化學製藥股份有限公司 | 2024/08/29 | 卵巢癌。 |
-| 衛部藥輸字第027083號 | 可鉑注射液10毫克/毫升 | 注射劑 | 台灣邁蘭有限公司 | 2027/03/07 | 卵巢癌。 |
-| 衛部藥陸輸字第000936號 | 卡鉑定 | （粉） | 新雙隆生技股份有限公司 | 2025/05/28 | 抗腫瘤藥 |
 
-<details><summary><strong>已註銷</strong>（10 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第017782號</td><td>佳鉑帝注射液</td><td>CARBOPLATIN、CARBOPLATIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第018696號</td><td>佳鉑帝凍晶注射劑</td><td>CARBOPLATIN、CARBOPLATIN、CARBOPLATIN</td><td>2008/12/22</td></tr><tr><td>衛署藥輸字第018768號</td><td>佳鉑帝注射液</td><td>WATER DISTILLED FOR INJECTION、CARBOPLATIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第020725號</td><td>卡伯拉丁注射液</td><td>CARBOPLATIN</td><td>1997/09/01</td></tr><tr><td>衛署藥輸字第020966號</td><td>克本瘤注射液</td><td>CARBOPLATIN</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第021047號</td><td>克本瘤注射液１０公絲/公撮</td><td>CARBOPLATIN</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第021701號</td><td>卡伯拉丁注射液</td><td>CARBOPLATIN</td><td>2022/09/22</td></tr><tr><td>衛署藥輸字第023368號</td><td>克鉑定 "立可用安全型注射液"</td><td>CARBOPLATIN</td><td>2022/06/30</td></tr><tr><td>衛署藥輸字第024591號</td><td>貝福卡鉑靜脈注射液10毫克/毫升</td><td>CARBOPLATIN</td><td>2014/04/08</td></tr><tr><td>衛署藥輸字第025626號</td><td>卡蒲鉑定"山德士"注射劑10毫克/毫升</td><td>CARBOPLATIN</td><td>2021/07/05</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（13 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第017782號</td><td>佳鉑帝注射液</td><td>CARBOPLATIN、CARBOPLATIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第018696號</td><td>佳鉑帝凍晶注射劑</td><td>CARBOPLATIN、CARBOPLATIN、CARBOPLATIN</td><td>2008/12/22</td></tr><tr><td>衛署藥輸字第018768號</td><td>佳鉑帝注射液</td><td>CARBOPLATIN、WATER DISTILLED FOR INJECTION</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第020725號</td><td>卡伯拉丁注射液</td><td>CARBOPLATIN</td><td>1997/09/01</td></tr><tr><td>衛署藥輸字第020966號</td><td>克本瘤注射液</td><td>CARBOPLATIN</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第021047號</td><td>克本瘤注射液１０公絲/公撮</td><td>CARBOPLATIN</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第021701號</td><td>卡伯拉丁注射液</td><td>CARBOPLATIN</td><td>2022/09/22</td></tr><tr><td>衛署藥輸字第023368號</td><td>克鉑定 "立可用安全型注射液"</td><td>CARBOPLATIN</td><td>2022/06/30</td></tr><tr><td>衛署藥輸字第024591號</td><td>貝福卡鉑靜脈注射液10毫克/毫升</td><td>CARBOPLATIN</td><td>2014/04/08</td></tr><tr><td>衛署藥輸字第025626號</td><td>卡蒲鉑定"山德士"注射劑10毫克/毫升</td><td>CARBOPLATIN</td><td>2021/07/05</td></tr><tr><td>衛部藥輸字第026387號</td><td>艾鉑霆靜脈注射液10毫克/毫升</td><td>CARBOPLATIN</td><td>2026/08/12</td></tr><tr><td>衛部藥輸字第027083號</td><td>可鉑注射液10毫克/毫升</td><td>CARBOPLATIN</td><td>2026/02/02</td></tr><tr><td>衛部藥陸輸字第000936號</td><td>卡鉑定</td><td>Carboplatin</td><td>2026/06/03</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

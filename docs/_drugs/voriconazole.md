@@ -45,7 +45,7 @@ TxGNN 模型**未預測**出任何新的適應症。
 | TxGNN 預測分數 | N/A |
 | 證據等級 | N/A |
 | 台灣上市 | 已上市 |
-| 許可證數 | 22 張（有效單方 19／有效複方 0／已註銷 3） |
+| 許可證數 | 22 張（有效單方 18／有效複方 0／已註銷 4） |
 | 建議決策 | 無老藥新用候選 |
 
 ## 為什麼沒有預測新適應症？
@@ -66,9 +66,9 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Voriconazole 的不重複許可證共 **22 張**：有效單方 19 張、有效複方 0 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Voriconazole 的不重複許可證共 **22 張**：有效單方 18 張、有效複方 0 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（19 張）
+**有效・單方**（18 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -76,12 +76,11 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 | 衛署藥輸字第023646號 | 黴飛膜衣錠200毫克 | 膜衣錠 | 輝瑞大藥廠股份有限公司 | 2028/01/30 | 一、治療侵犯性麴菌症(invasive aspergillosis)、二、治療嚴重之侵犯性念珠菌感染(Serious invasive Candida infections)、三、… |
 | 衛署藥輸字第023647號 | 黴飛膜衣錠50毫克 | 膜衣錠 | 輝瑞大藥廠股份有限公司 | 2028/01/30 | 一、治療侵犯性麴菌症(invasive aspergillosis)、二、治療嚴重之侵犯性念珠菌感染(Serious invasive Candida infections)、三、… |
 | 衛署藥輸字第023648號 | 黴飛凍晶注射液200毫克 | 凍晶注射劑 | 輝瑞大藥廠股份有限公司 | 2028/01/30 | 一、治療侵犯性麴菌病(INVASIVE ASPERGILLOSIS)；二、治療嚴重之侵犯性念珠菌感染(SERIOUS INVASIVE CANDIDA INFECTIONS)；三、… |
-| 衛部藥製字第059232號 | 遠黴膜衣錠200毫克 | 膜衣錠 | 永信藥品工業股份有限公司 | 2026/07/11 | 一、治療侵犯性麴菌症(invasive aspergillosis)。二、治療嚴重之侵犯性念珠菌感染(Serious invasive Candida infections)。三、… |
+| 衛部藥製字第059232號 | 遠黴膜衣錠200毫克 | 膜衣錠 | 永信藥品工業股份有限公司 | 2031/07/11 | 一、治療侵犯性麴菌症(invasive aspergillosis)。二、治療嚴重之侵犯性念珠菌感染(Serious invasive Candida infections)。三、… |
 | 衛部藥製字第059743號 | 遠黴膜衣錠50毫克 | 膜衣錠 | 永信藥品工業股份有限公司 | 2027/08/02 | 一、治療侵犯性麴菌病（invasive aspergillosis）﹔二、治療嚴重之侵犯性念珠菌感染（Serious invasive Candida infections）﹔三、… |
 | 衛部藥製字第060356號 | 遠黴凍晶注射劑200毫克 | 凍晶注射劑 | 永信藥品工業股份有限公司 | 2029/09/25 | 一、治療侵犯性麴菌病(INVASIVE ASPERGILLOSIS)；二、治療嚴重之侵犯性念珠菌感染(SERIOUS INVASIVE CANDIDA INFECTIONS)；三、… |
 | 衛部藥製字第060491號 | "永信"伏立康唑 | 粉劑 | 永信藥品工業股份有限公司 | 2030/05/08 | 抗黴菌用藥。 |
 | 衛部藥輸字第026218號 | 伏立康唑 | （粉） | 新雙隆生技股份有限公司 | 2023/12/11 | 抗黴菌用藥 |
-| 衛部藥輸字第026309號 | 歐癬平膜衣錠200毫克 | 膜衣錠 | 台灣山德士藥業股份有限公司 | 2029/04/30 | 一、治療侵犯性麴菌症(invasive aspergillosis)。二、治療嚴重之侵犯性念珠菌感染(Serious invasive Candida infections)。三、… |
 | 衛部藥輸字第026337號 | 威剋黴膜衣錠200毫克 | 膜衣錠 | 台灣邁蘭有限公司 | 2029/06/26 | 一、治療侵犯性麴菌症(invasive aspergillosis)。二、治療嚴重之侵犯性念珠菌感染(Serious invasive Candida infections)。三、… |
 | 衛部藥輸字第026698號 | 歐癬平凍晶注射劑 | 凍晶注射劑 | 台灣山德士藥業股份有限公司 | 2030/12/08 | 一、治療侵犯性麴菌病（INVASIVE ASPERGILLOSIS）﹔二、治療嚴重之侵犯性念珠菌感染（SERIOUS INVASIVE CANDIDA INFECTIONS）﹔三、… |
 | 衛部藥輸字第027416號 | 止黴捷凍晶注射液200毫克 | 凍晶注射劑 | 美時化學製藥股份有限公司 | 2028/04/16 | 一、治療侵犯性麴菌病（INVASIVE ASPERGILLOSIS）﹔二、治療嚴重之侵犯性念珠菌感染（SERIOUS INVASIVE CANDIDA INFECTIONS）﹔三、… |
@@ -90,10 +89,10 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 | 衛部藥輸字第027648號 | 伏立康唑 | （粉） | 台灣荃新股份有限公司 | 2029/05/01 | 抗黴菌用藥。 |
 | 衛部藥輸字第027755號 | 止黴捷膜衣錠200毫克 | 膜衣錠 | 美時化學製藥股份有限公司 | 2029/11/01 | 一、治療侵犯性麴菌病 (INVASIVE ASPERGILLOSIS)；二、治療嚴重之侵犯性念珠菌感染 (SERIOUS INVASIVE CANDIDA INFECTIONS)；… |
 | 衛部藥輸字第027758號 | 止黴捷膜衣錠50毫克 | 膜衣錠 | 美時化學製藥股份有限公司 | 2029/11/11 | 一、治療侵犯性麴菌病（INVASIVE ASPERGILLOSIS）﹔二、治療嚴重之侵犯性念珠菌感染（SERIOUS INVASIVE CANDIDA INFECTIONS）﹔三、… |
-| 衛部藥陸輸字第000853號 | 伏立康唑 | 粉劑 | 仁友興業有限公司 | 2028/08/30 | 抗黴菌用藥 |
+| 衛部藥陸輸字第000853號 | 伏立康唑 | 粉劑 | 仁友興業股份有限公司 | 2028/08/30 | 抗黴菌用藥 |
 
-<details><summary><strong>已註銷</strong>（3 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024434號</td><td>黴飛口服懸液用粉劑</td><td>VORICONAZOLE、VORICONAZOLE</td><td>2021/12/08</td></tr><tr><td>衛部藥製字第060145號</td><td>伏利沙恩凍晶注射液200毫克</td><td>VORICONAZOLE</td><td>2025/07/29</td></tr><tr><td>衛部藥輸字第026308號</td><td>歐癬平膜衣錠50毫克</td><td>VORICONAZOLE</td><td>2022/04/01</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（4 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024434號</td><td>黴飛口服懸液用粉劑</td><td>VORICONAZOLE、VORICONAZOLE</td><td>2021/12/08</td></tr><tr><td>衛部藥製字第060145號</td><td>伏利沙恩凍晶注射液200毫克</td><td>VORICONAZOLE</td><td>2025/07/29</td></tr><tr><td>衛部藥輸字第026308號</td><td>歐癬平膜衣錠50毫克</td><td>VORICONAZOLE</td><td>2022/04/01</td></tr><tr><td>衛部藥輸字第026309號</td><td>歐癬平膜衣錠200毫克</td><td>VORICONAZOLE</td><td>2026/08/11</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

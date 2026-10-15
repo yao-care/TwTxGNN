@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**毛細胞白血病 (Hairy Cell Leukemia)** 有�
 | TxGNN 預測分數 | 99.16% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
+| 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -72,13 +72,10 @@ Interferon beta 與 interferon alpha 透過同一個第一型干擾素受體（I
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Interferon Beta-1B 的不重複許可證共 **1 張**：有效單方 1 張、有效複方 0 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Interferon Beta-1B 的不重複許可證共 **1 張**：有效單方 0 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
-
-| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
-|------|------|------|------|------|------|
-| 衛署菌疫輸字第000601號 | 貝他費隆　注射劑 | 凍晶注射劑 | 台灣拜耳股份有限公司 | 2025/04/11 | 降低反覆發作型多發性硬化症的發作頻率及嚴重度。降低續發型多發性硬化症(secondary progressive multiple sclerosis)復發的頻率及嚴重度。發生單一… |
+<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署菌疫輸字第000601號</td><td>貝他費隆　注射劑</td><td>INTERFERON BETA-1B</td><td>2026/06/08</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
