@@ -82,7 +82,7 @@ def main():
         t1 = replace_tfda(clean_llm_output(base), title, lics, args.data_date)
         body = REVIEW_RE.sub("", t1)
         for r in by_file.get(p.name, []):
-            if r["action"] in ("section", "header_level") or r.get("status") in ("superseded", A.RESOLVED):
+            if r["action"] in ("section", "header_level") or r.get("status") in ("superseded", "rereviewed", A.RESOLVED):
                 continue
             # 2026-10-15：只有「重產前還在頁面上、換成程式化許可證表後消失」才算被許可證表取代。
             # 原本就找不到（例如報告整份重生、原句改寫）不是許可證表造成的，不能自動標 superseded，
