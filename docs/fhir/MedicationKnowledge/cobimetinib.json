@@ -15,7 +15,7 @@
         "display": "DB05239"
       }
     ],
-    "text": "Acebutolol"
+    "text": "cobimetinib"
   },
   "intendedJurisdiction": [
     {
@@ -32,17 +32,6 @@
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L5"
-    }
-  ],
-  "indicationGuideline": [
-    {
-      "indication": [
-        {
-          "reference": {
-            "display": "ＢＥＴＡ交感神經遮斷劑"
-          }
-        }
-      ]
     }
   ]
 }

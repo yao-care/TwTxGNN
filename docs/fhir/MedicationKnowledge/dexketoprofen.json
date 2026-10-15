@@ -15,7 +15,7 @@
         "display": "DB09214"
       }
     ],
-    "text": "Acebutolol"
+    "text": "dexketoprofen"
   },
   "intendedJurisdiction": [
     {
@@ -32,17 +32,6 @@
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L1"
-    }
-  ],
-  "indicationGuideline": [
-    {
-      "indication": [
-        {
-          "reference": {
-            "display": "ＢＥＴＡ交感神經遮斷劑"
-          }
-        }
-      ]
     }
   ]
 }

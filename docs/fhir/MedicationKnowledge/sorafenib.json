@@ -15,7 +15,7 @@
         "display": "DB00398"
       }
     ],
-    "text": "Acebutolol"
+    "text": "sorafenib"
   },
   "intendedJurisdiction": [
     {
@@ -32,17 +32,6 @@
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L2"
-    }
-  ],
-  "indicationGuideline": [
-    {
-      "indication": [
-        {
-          "reference": {
-            "display": "ＢＥＴＡ交感神經遮斷劑"
-          }
-        }
-      ]
     }
   ]
 }

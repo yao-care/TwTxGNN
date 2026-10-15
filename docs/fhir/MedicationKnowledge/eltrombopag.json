@@ -15,7 +15,7 @@
         "display": "DB06210"
       }
     ],
-    "text": "Acebutolol"
+    "text": "eltrombopag"
   },
   "intendedJurisdiction": [
     {
@@ -32,17 +32,6 @@
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L3"
-    }
-  ],
-  "indicationGuideline": [
-    {
-      "indication": [
-        {
-          "reference": {
-            "display": "ＢＥＴＡ交感神經遮斷劑"
-          }
-        }
-      ]
     }
   ]
 }

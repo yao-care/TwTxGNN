@@ -15,7 +15,7 @@
         "display": "DB01263"
       }
     ],
-    "text": "Acebutolol"
+    "text": "posaconazole"
   },
   "intendedJurisdiction": [
     {
@@ -32,17 +32,6 @@
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L4"
-    }
-  ],
-  "indicationGuideline": [
-    {
-      "indication": [
-        {
-          "reference": {
-            "display": "ＢＥＴＡ交感神經遮斷劑"
-          }
-        }
-      ]
     }
   ]
 }
