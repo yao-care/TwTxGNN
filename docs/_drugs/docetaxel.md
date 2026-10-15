@@ -29,7 +29,13 @@ indication_count: 10
 
 </div>
 
-# Docetaxel：從 HER2 過度表現之乳癌／轉移性胃癌 到 女性乳癌
+# Docetaxel：從乳癌、非小細胞肺癌、前列腺癌等到女性乳癌
+
+<!-- review:begin docetaxel-original-indication-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Docetaxel：從 HER2 過度表現之乳癌／轉移性胃癌 到 女性乳癌」。TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第056672號泰欣），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -63,11 +69,23 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預�
 
 > **資料註記：** 本次彙整的 6 張台灣許可證，品名為曲斯若、賀癌平、康癌停、赫珠瑪等，核准適應症文字都是 HER2 陽性乳癌與胃癌，內容看起來屬於 trastuzumab 類生物藥品，並非 docetaxel 單方製劑。因此「原適應症」欄位的內容未必代表 docetaxel 自身的核准範圍，建議向 TFDA 另行確認 docetaxel 本身的許可證與適應症。
 
+<!-- review:begin docetaxel-original-indication-data-note-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第056672號泰欣），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-original-indication-data-note-2026-10-16 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏 DrugBank 的詳細作用機轉資料。根據模型整理的機轉說明，docetaxel 會穩定微管並阻止其解聚，使快速分裂的癌細胞停滯在有絲分裂期，最終走向細胞凋亡。這是紫杉醇類藥物的典型機轉，對增生快速的乳癌細胞特別適用。
 
 在原適應症與新適應症的關聯上，兩者本質上都是乳癌。TFDA 許可證文字多處提到 docetaxel 是 HER2 陽性乳癌輔助與轉移治療的併用化療選項，例如與 docetaxel 及 carboplatin 併用、以 AC 治療後再合併 paclitaxel 或 docetaxel 等。
+
+<!-- review:begin docetaxel-original-indication-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第056672號泰欣），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-original-indication-why-2026-10-16 -->
 
 因此這項預測更接近對既有臨床用途的確認，而非全新的適應症開發。ABC 系列隨機輔助治療試驗等資料顯示，docetaxel 與 cyclophosphamide（TC）方案在早期乳癌已有明確的臨床地位。
 
@@ -182,6 +200,12 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預�
 - 建立血液學監測、CYP3A4 交互作用審查與細胞毒性藥物處置的作業流程。
 - 其他預測適應症（如 Ewing 肉瘤，證據等級 L2，僅有單臂 Phase 2 的有限活性；橫紋肌肉瘤，L3）仍屬研究性質，不建議與本報告的決策一併推進。
 
+<!-- review:begin docetaxel-original-indication-next-step-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第056672號泰欣），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end docetaxel-original-indication-next-step-2026-10-16 -->
+
 <!-- review:begin log -->
 
 ## 查核紀錄
@@ -193,6 +217,10 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預�
 | 2026-10-03 | 「原本用於治療 HER2 陽性乳癌及轉移性胃癌」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症取自 trastuzumab 許可證 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表列 trastuzumab 製劑「曲斯若」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 資料註記稱彙整的許可證都是 trastuzumab 類 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由引用 trastuzumab 許可證文字 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步建議另行確認 docetaxel 許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -106,7 +106,7 @@ TxGNN 模型預測它可能對**垂體性侏儒症 (Pituitary Dwarfism)** 有效
 
 <!-- review:begin lutetium-lu177-dotatate-conclusion-no-license-2026-10-03 -->
 
-> **查核加註（2026-10-03）**：「台灣目前無許可證」與 TFDA 登載不符：衛部藥輸字第R00104號「鎦癌平注射液」（Lutathera）有效至 2031-04-07；下方「評估台灣引進路徑」一項也應以已上市為前提。決策與其餘理由原文保留未改。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核加註（2026-10-03）**：「該藥在台灣尚未上市」與 TFDA 登載不符：衛部藥輸字第R00104號「鎦癌平注射液」（Lutathera）有效至 2031-04-07，已在台灣上市。決策與其餘理由原文保留未改。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end lutetium-lu177-dotatate-conclusion-no-license-2026-10-03 -->
 
@@ -128,7 +128,7 @@ TxGNN 模型預測它可能對**垂體性侏儒症 (Pituitary Dwarfism)** 有效
 | 2026-10-03 | 「台灣上市：未上市」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「許可證數：0 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「未在台灣取得任何藥品許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 結論理由「台灣目前無許可證」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 結論理由「台灣目前無許可證」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

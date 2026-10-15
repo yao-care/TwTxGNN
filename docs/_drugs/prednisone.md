@@ -29,13 +29,25 @@ indication_count: 10
 
 </div>
 
-# Prednisone：從風溼性關節炎到圓形禿 (Alopecia Areata)
+# Prednisone：從糖皮質素抗發炎用途到圓形禿 (Alopecia Areata)
+
+<!-- review:begin prednisone-original-indication-other-drugs-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Prednisone：從風溼性關節炎到圓形禿 (Alopecia Areata)」。TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end prednisone-original-indication-other-drugs-title-2026-10-16 -->
 
 ## 一句話總結
 
-Prednisone 是口服糖皮質素（glucocorticoid）類藥物，台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症等發炎與免疫相關疾病。
+Prednisone 是口服糖皮質素（glucocorticoid）類藥物，台灣目前沒有有效的 prednisone 單方許可證，唯一有效許可證是與 crotamiton 的複方軟膏（濕疹或皮膚炎）。
 TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 目前**無登記的臨床試驗**，但有 **20 篇文獻**支持這個方向，其中包含 1 篇隨機對照試驗（RCT）。
+
+<!-- review:begin prednisone-original-indication-other-drugs-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症等發炎與免疫相關疾病。」。TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end prednisone-original-indication-other-drugs-summary-2026-10-16 -->
 
 ## 快速總覽
 
@@ -51,7 +63,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 <!-- review:begin prednisone-original-indication-other-drugs-2026-10-03 -->
 
-> **查核更正（2026-10-03）**：原寫「原適應症／風溼性關節炎」。2026-10-15 報告重生後此列改寫為「風溼性關節炎」，但 prednisone 目前沒有有效單方許可證。原寫的「急性病症（氣喘、休克）」來自主成分登載為 methylprednisone 的已註銷注射劑（內衛藥輸字第003633號），「風濕性關節炎」字樣來自 prednisolone 的已註銷許可證（內衛藥輸字第005124號），都不是 prednisone 的許可證。Prednisone 單方許可證已全部註銷（曾載濕疹、過敏症、類風濕關節炎）；現行唯一有效許可證是與 crotamiton 的複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。已改為許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「原適應症／風溼性關節炎」。TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。已改為台灣許可證現況。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end prednisone-original-indication-other-drugs-2026-10-03 -->
 
@@ -144,7 +156,9 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「保癌寧等」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 「原適應症」混入 methylprednisolone 等其他成分的許可證 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」混入 methylprednisolone 等其他成分的許可證 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以風溼性關節炎為台灣原適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

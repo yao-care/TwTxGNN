@@ -29,7 +29,13 @@ indication_count: 3
 
 </div>
 
-# Deoxycholic acid：從膽固醇性膽結石到糖尿病腎病變
+# Deoxycholic acid：從頦下脂肪堆積到糖尿病腎病變
+
+<!-- review:begin deoxycholic-acid-summary-indication-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Deoxycholic acid：從膽固醇性膽結石到糖尿病腎病變」。Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
+
+<!-- review:end deoxycholic-acid-summary-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -65,7 +71,13 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知去氧膽酸是一種具有清潔劑特性與細胞溶解活性的次級膽酸，原本用於溶解膽固醇性膽結石與改善膽汁相關肝病。
+目前缺乏詳細的作用機轉資料。已知去氧膽酸是一種具有清潔劑特性與細胞溶解活性的次級膽酸，在台灣核准用於注射改善成人頦下脂肪堆積（溶解膽固醇性膽結石是去氧熊膽酸的用途）。
+
+<!-- review:begin deoxycholic-acid-summary-indication-why-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「原本用於溶解膽固醇性膽結石與改善膽汁相關肝病。」。Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
+
+<!-- review:end deoxycholic-acid-summary-indication-why-2026-10-16 -->
 
 就糖尿病腎病變而言，膽酸訊號（FXR 與 TGR5 路徑）被認為與腎臟發炎、脂質代謝及氧化壓力有關。已有研究顯示，糖尿病腎病變的患者與動物模型中膽酸組成會改變。這提供了一個值得探討的方向。
 
@@ -147,7 +159,9 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 | 2026-10-03 | 「用於膽結石溶解和皮下脂肪消除」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 | 2026-10-03 | 原適應症列入膽結石溶解、原發性膽道肝硬化 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 | 2026-10-03 | 許可證表列「去氧熊膽酸」（UDCA）製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 備註「多數許可證已註銷，目前主要以 UDCA 產品為主流」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫「多數許可證已註銷，以 ursodeoxycholic acid 產品為主流」；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 備註「多數許可證已註銷，目前主要以 UDCA 產品為主流」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫「以 ursodeoxycholic acid 產品為主流」；把膽結石算成本藥用途的寫法（一句話總結、快速總覽、標題、預測理由）另以 deoxycholic-acid-summary／original 系列紀錄更正；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以膽固醇性膽結石為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-10-16 | 預測理由稱原本用於溶解膽固醇性膽結石 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 
 <!-- review:end log -->
 

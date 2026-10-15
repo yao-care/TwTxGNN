@@ -143,6 +143,12 @@ TxGNN 排名前 10 的預測中，下列兩項有部分資料可供參考，但�
 - **藥物交互作用**：資料庫僅記錄 1 筆藥理學層面的交互作用，標靶為 N-醯基磷脂醯乙醇胺磷脂酶 D (NAPEPLD)，無臨床嚴重度分級。
 - **文獻提及的風險**：多篇文獻指出六氯酚用於早產兒或新生兒全身沐浴時，可能造成中樞神經系統空泡化，而外用藥物也可能經皮吸收，因此嬰幼兒使用須特別謹慎。美國 FDA 已終止其核准用途。
 
+<!-- review:begin hexachlorophene-fda-discontinued-tw-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：Drugs@FDA 裡 hexachlorophene 外用品多數已標示停售（Discontinued），但 NDA 017433 的 PRE-OP／PRE-OP II 外用海綿仍登載為處方藥（Prescription），並非全面停用。原文保留。依據：[Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100)。
+
+<!-- review:end hexachlorophene-fda-discontinued-tw-2026-10-03 -->
+
 其餘警語與禁忌資訊請參考原廠仿單。
 
 ---
@@ -171,8 +177,8 @@ TxGNN 排名前 10 的預測中，下列兩項有部分資料可供參考，但�
 |---------|------|------|------|
 | 2026-10-03 | 原適應症取自已註銷的類固醇複方 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表含複方且多數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | FDA 核准外用品「已全面停用」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 FDA 核准用途已全面停用；原為加註） | [Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100) |
-| 2026-10-03 | FDA 核准外用品「已全面停用」 | 已由程式化許可證表取代（原為加註） | [Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100) |
+| 2026-10-03 | FDA 核准外用品「已全面停用」 | 報告重生後已無此錯誤（2026-10-15：預測理由段已無此說；新報告改在「安全性考量」寫「美國 FDA 已終止其核准用途」，由 hexachlorophene-fda-discontinued-tw 紀錄處理；原為加註） | [Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100) |
+| 2026-10-03 | FDA 核准外用品「已全面停用」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100) |
 
 <!-- review:end log -->
 

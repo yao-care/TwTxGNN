@@ -53,7 +53,7 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 
 <!-- review:begin scopolamine-butylscopolamine-licenses-2026-10-03 -->
 
-> **查核加註（2026-10-03）**：上列適應症與下方許可證表的產品，主成分都是丁基東莨菪鹼（butylscopolamine bromide／hyoscine-N-butylbromide），例如內衛藥製字第010222號「南光」胃使可胖注射液、內衛藥製字第000509號「保賜康膠囊」。它是 scopolamine 的四級銨衍生物，與 scopolamine 本身是不同藥品（scopolamine 中樞作用較多）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[NLM MeSH：Butylscopolammonium Bromide（D002086）](https://meshb.nlm.nih.gov/record/ui?ui=D002086)；[NLM MeSH：Scopolamine（D012601）](https://meshb.nlm.nih.gov/record/ui?ui=D012601)。
+> **查核加註（2026-10-03）**：上列適應症取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine bromide／hyoscine-N-butylbromide），即 scopolamine 的四級銨衍生物，與 scopolamine 本身是不同藥品（scopolamine 中樞作用較多）。scopolamine 本身現行有效的單方製劑如衛署藥製字第044712號「暈得寧防暈貼片劑」，適應症為預防或緩解動暈症。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[NLM MeSH：Butylscopolammonium Bromide（D002086）](https://meshb.nlm.nih.gov/record/ui?ui=D002086)；[NLM MeSH：Scopolamine（D012601）](https://meshb.nlm.nih.gov/record/ui?ui=D012601)。
 
 <!-- review:end scopolamine-butylscopolamine-licenses-2026-10-03 -->
 
@@ -186,7 +186,7 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症」與許可證表皆為丁基東莨菪鹼（butylscopolamine） | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[NLM MeSH：Butylscopolammonium Bromide（D002086）](https://meshb.nlm.nih.gov/record/ui?ui=D002086)；[NLM MeSH：Scopolamine（D012601）](https://meshb.nlm.nih.gov/record/ui?ui=D012601) |
+| 2026-10-03 | 「原適應症」與許可證表皆為丁基東莨菪鹼（butylscopolamine） | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[NLM MeSH：Butylscopolammonium Bromide（D002086）](https://meshb.nlm.nih.gov/record/ui?ui=D002086)；[NLM MeSH：Scopolamine（D012601）](https://meshb.nlm.nih.gov/record/ui?ui=D012601) |
 
 <!-- review:end log -->
 

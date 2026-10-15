@@ -33,8 +33,14 @@ indication_count: 10
 
 ## 一句話總結
 
-Hesperidin（橙皮苷，中文品名甲基柑橘素）是一種類黃酮，在台灣原本用於強化毛細血管與防止出血。
+Hesperidin（橙皮苷）是一種類黃酮，在台灣原本用於強化毛細血管與防止出血。
 TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neoplasm)** 有效，但目前**沒有臨床試驗**，僅有 **1 篇**體外／電腦模擬文獻直接支持，屬於模型預測階段的假說。
+
+<!-- review:begin hesperidin-original-indication-name-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「（橙皮苷，中文品名甲基柑橘素）」。「甲基柑橘素」是 methyl hesperidin（內衛藥輸字第001040號，已註銷）的品名，與 hesperidin 是不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hesperidin-original-indication-name-2026-10-16 -->
 
 ## 快速總覽
 
@@ -145,6 +151,7 @@ TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neopla
 |---------|------|------|------|
 | 2026-10-03 | 許可證表 5 張全數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症「增強毛細血管」取自其他成分 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結把「甲基柑橘素」當成本藥品名 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

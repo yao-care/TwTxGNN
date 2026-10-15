@@ -50,9 +50,9 @@ TxGNN 模型的預測排名第一為甲狀腺機能亢進，但該預測缺乏�
 
 <!-- review:begin bempedoic-acid-hofh-rereview-result-2026-10-03 -->
 
-> **重審結果（2026-10-03）**：**維持**（證據等級 L3 不變）。「非 LDL 受體依賴」這條理由與仿單不符，但 L3 的依據是一篇 HoFH 回溯研究：5 名已用 statin 的患者加上本藥後，LDL-C 平均下降約 33%（[PMID 41274797](https://pubmed.ncbi.nlm.nih.gov/41274797/)）。樣本極小、沒有對照組。動物研究中，LDL 受體完全缺失的豬降幅（29%）明顯小於部分缺失者（61%）（[PMID 29449335](https://pubmed.ncbi.nlm.nih.gov/29449335/)）。ClinicalTrials.gov 查無專門的 HoFH 試驗。依現有證據，結論段的「Go」與「機轉明確」說法偏強。依據：[PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/)。
+> **重審結果（2026-10-03）**：**維持**（證據等級 L3 不變）。本筆重審的對象是 2026-10-03 版報告；當時的理由「非 LDL 受體依賴機制」與仿單不符（仿單：抑制 ACL 後經上調 LDL 受體降低 LDL-C），但 L3 的依據是一篇 HoFH 回溯研究：5 名已用 statin 的患者加上本藥後，LDL-C 平均下降約 33%（[PMID 41274797](https://pubmed.ncbi.nlm.nih.gov/41274797/)），樣本極小、無對照；動物研究中 LDL 受體完全缺失時降幅（29%）明顯小於部分缺失（61%）（[PMID 29449335](https://pubmed.ncbi.nlm.nih.gov/29449335/)）。2026-10-15 重生的報告已改寫為「作用部分依賴 LDL 受體上調、療效取決於殘存受體活性」，與仿單一致，HoFH 證據等級 L3、決策 Hold。依據：[PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/)。
 >
-> 決策建議另議：原決策 Go（methodology：強力證據支持）與 L3 不相稱；建議改為 Explore 或 Consider（是否調整由站方決定）。
+> 決策建議另議：重審當時頁面決策為 Go（methodology：強力證據支持），與 L3 不相稱，建議改為 Explore 或 Consider；2026-10-15 重生的報告決策為 Hold（HoFH 列為值得研究的方向），已無此問題。
 
 <!-- review:end bempedoic-acid-hofh-rereview-result-2026-10-03 -->
 
@@ -142,7 +142,7 @@ TxGNN 模型的預測排名第一為甲狀腺機能亢進，但該預測缺乏�
 |---------|------|------|------|
 | 2026-10-03 | 預測理由「非 LDL 受體依賴機制」 | 報告重生後已無此錯誤（2026-10-15：新報告寫明 bempedoic acid 經提升 LDL 受體表現降低 LDL-C，且 HoFH 療效受殘存受體活性限制，與仿單一致；原為加註） | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 | 2026-10-03 | 同合子家族性高膽固醇血症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
-| 2026-10-03 | 同合子家族性高膽固醇血症預測重審結果 | 重審：維持，證據等級 L3 不變（2026-10-15 修訂，前版保留於紀錄） | [PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/) |
+| 2026-10-03 | 同合子家族性高膽固醇血症預測重審結果 | 重審：維持，證據等級 L3 不變（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

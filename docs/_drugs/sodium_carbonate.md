@@ -29,13 +29,25 @@ indication_count: 6
 
 </div>
 
-# 碳酸鈉（Sodium carbonate）：從制酸劑／無菌製劑鹼化輔助劑到乾眼症
+# 碳酸鈉（Sodium carbonate）：從無菌製劑鹼化輔助劑到乾眼症
+
+<!-- review:begin sodium-carbonate-original-indication-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# 碳酸鈉（Sodium carbonate）：從制酸劑／無菌製劑鹼化輔助劑到乾眼症」。「制酸劑」字樣來自 sodium bicarbonate（衛署藥製字第057810號，已註銷）與 magnesium trisilicate 等其他成分；sodium carbonate 唯一單方許可證衛部藥製字第058317號「展旺無菌碳酸鈉」適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；現行有效許可證中 sodium carbonate 是 ceftazidime 等注射劑的賦形劑，或複方點眼液、胃散的成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end sodium-carbonate-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-碳酸鈉是一種鹼化劑與制酸劑，在台灣常用於制酸、無菌製劑的 pH 調整，也作為多種注射用抗生素的緩衝成分。
+碳酸鈉是一種鹼化劑；台灣唯一的單方許可證（已註銷）用途為無菌製劑的鹼化輔助劑，現行有效許可證中則是注射用抗生素的賦形劑及複方點眼液、胃散的成分。
 TxGNN 模型預測分數最高的新適應症為**海綿尾症候群（馬尾症候群，Cauda Equina Syndrome）**，但完全沒有臨床試驗或文獻支持。
 相對較有線索的是**乾眼症（Dry Eye Syndrome）**，目前僅有 **1 篇**間接相關文獻（探討口乾，而非乾眼）。整體證據非常薄弱。
+
+<!-- review:begin sodium-carbonate-original-indication-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「碳酸鈉是一種鹼化劑與制酸劑，在台灣常用於制酸、無菌製劑的 pH 調整，也作為多種注射用抗生素的緩衝成分。」。「制酸劑」字樣來自 sodium bicarbonate（衛署藥製字第057810號，已註銷）與 magnesium trisilicate 等其他成分；sodium carbonate 唯一單方許可證衛部藥製字第058317號「展旺無菌碳酸鈉」適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；現行有效許可證中 sodium carbonate 是 ceftazidime 等注射劑的賦形劑，或複方點眼液、胃散的成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end sodium-carbonate-original-indication-summary-2026-10-16 -->
 
 ---
 
@@ -64,6 +76,12 @@ TxGNN 模型預測分數最高的新適應症為**海綿尾症候群（馬尾症
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，碳酸鈉是鹼化劑與制酸劑，作用為中和胃酸、調整溶液 pH，並在多種注射用抗生素粉劑（如 Meropenem、Ceftazidime 製劑）中作為緩衝成分。
+
+<!-- review:begin sodium-carbonate-original-indication-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：「制酸劑」字樣來自 sodium bicarbonate（衛署藥製字第057810號，已註銷）與 magnesium trisilicate 等其他成分；sodium carbonate 唯一單方許可證衛部藥製字第058317號「展旺無菌碳酸鈉」適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；現行有效許可證中 sodium carbonate 是 ceftazidime 等注射劑的賦形劑，或複方點眼液、胃散的成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end sodium-carbonate-original-indication-why-2026-10-16 -->
 
 針對各預測適應症，機轉上的合理性評估如下：
 
@@ -157,6 +175,9 @@ TxGNN 模型預測分數最高的新適應症為**海綿尾症候群（馬尾症
 | 2026-10-03 | 台灣上市資訊表：sodium carbonate 在所列許可證中是賦形劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症「制酸劑」等取自其他成分 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-16 | 標題以制酸劑為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱在台灣常用於制酸 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱碳酸鈉為制酸劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

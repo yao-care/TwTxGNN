@@ -38,7 +38,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 <!-- review:begin aluminum-oxide-gel-is-aluminum-hydroxide-gel-2026-10-03 -->
 
-> **查核加註（2026-10-03）**：本頁所列許可證（內衛藥製字第009846號）中英文品名都是「氫氧化鋁凝膠」（ALUMINUM HYDROXIDE GEL），只是 TFDA 主成分欄登載為 aluminum oxide (alumina)；內服凝膠劑指的是這個氫氧化鋁凝膠制酸劑的劑型。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核加註（2026-10-03）**：本頁唯一列出的許可證 內衛藥製字第009846號，中英文品名都是「氫氧化鋁凝膠」（ALUMINUM HYDROXIDE GEL），只是 TFDA 主成分欄登載為 aluminum oxide (alumina)。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end aluminum-oxide-gel-is-aluminum-hydroxide-gel-2026-10-03 -->
 
@@ -125,7 +125,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「Aluminum oxide 是一種內服凝膠劑」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「Aluminum oxide 是一種內服凝膠劑」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

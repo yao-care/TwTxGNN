@@ -133,6 +133,12 @@ TxGNN 模型預測它可能對**乾眼症 (Dry Eye Syndrome)** 有效，目前�
 - 乾眼症有已完成的 Phase 3 雙盲、載體對照 RCT，並有多篇統合分析與 RCT 支持，機轉也合理。主要限制是台灣目前無上市許可證，且仿單層級的安全性資料尚未取得。
 - 其他預測適應症（Sjögren 症候群的乾眼症狀屬輔助緩解，其餘多為間接或無證據）不建議作為優先方向。
 
+<!-- review:begin hyaluronic-acid-tw-license-note-conclusion-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 藥品許可證資料中，含 sodium hyaluronate（玻尿酸鈉）的許可證目前有 1 張有效：衛部藥輸字第027112號「視舒坦玻尿酸人工淚液點眼液」（SYSTANE Hydration，與 polyethylene glycol 400、propylene glycol 的複方），適應症為緩解眼睛乾澀；另有多張已註銷的單方眼科手術黏彈劑許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hyaluronic-acid-tw-license-note-conclusion-2026-10-16 -->
+
 **若要推進需要：**
 - 取得 TFDA 仿單的警語與禁忌症，完成安全性篩選
 - 補充藥物作用機轉（MOA）的正式資料
@@ -149,6 +155,7 @@ TxGNN 模型預測它可能對**乾眼症 (Dry Eye Syndrome)** 有效，目前�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「目前在台灣無任何藥品許可證登記」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱台灣目前無上市許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

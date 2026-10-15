@@ -3,14 +3,14 @@ layout: default
 title: Ergometrine
 parent: 中證據等級 (L3-L4)
 nav_order: 101
-evidence_level: L4
+evidence_level: L3
 indication_count: 10
 ---
 
 # Ergometrine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,7 +29,13 @@ indication_count: 10
 
 </div>
 
-# Ergometrine：從產後子宮出血到偏頭痛（預測排名第 1 為猖毛症，證據不足）
+# Ergometrine：從產後子宮出血到偏頭痛（預測排名第 1 為多毛症，證據不足）
+
+<!-- review:begin ergometrine-migraine-rereview-result-title-typo-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「預測排名第 1 為猖毛症」。本頁預測排名第 1 的是多毛症（Hypertrichosis），標題誤植為「猖毛症」。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/)。
+
+<!-- review:end ergometrine-migraine-rereview-result-title-typo-2026-10-16 -->
 
 ## 一句話總結
 
@@ -46,14 +52,14 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 | 原適應症 | 產後出血、子宮血崩、月經過多 |
 | 預測新適應症 | 多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向 |
 | TxGNN 預測分數 | 99.96%（多毛症）；99.93%（偏頭痛） |
-| 證據等級 | L5（多毛症）；L4（偏頭痛） |
+| 證據等級 | L5（多毛症）；L3（偏頭痛，2026-10-03 重審） |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 101 張（有效單方 17／有效複方 1／已註銷 83） |
 | 建議決策 | Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護 |
 
 <!-- review:begin ergometrine-migraine-rereview-result-2026-10-03 -->
 
-> **重審結果（2026-10-03）**：**維持**（證據等級 L3 不變）。2026-10-15 報告重生後把偏頭痛評為 L4，未納入本藥的觀察性研究（PMID 2759844）；依本次重審，偏頭痛證據等級為 L3。機轉說明裡「經 α 受體抑制三叉神經源性炎症」不成立，但 L3 原本就不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)）。methylergonovine 的研究是同系物，只能當旁證。查無 RCT，ClinicalTrials.gov 也查無登錄試驗；另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/)。
+> **重審結果（2026-10-03）**：**維持**（證據等級 L3 不變）。本筆重審的對象是 2026-10-03 版報告；當時的機轉說明（經 α 受體抑制三叉神經源性炎症）不成立，但 L3 不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)）；methylergonovine 的研究是同系物，只能當旁證。查無 RCT 或登錄試驗，另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。2026-10-15 重生的報告未納入 PMID 2759844、把偏頭痛評為 L4，本頁等級已依重審改回 L3。本頁快速總覽「證據等級」、結論「偏頭痛」理由已依重審結果更新，原值列在下方查核紀錄。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/)。
 
 <!-- review:end ergometrine-migraine-rereview-result-2026-10-03 -->
 
@@ -89,7 +95,7 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 
 <!-- review:begin ergometrine-alpha-premise-2026-10-03 -->
 
-> **查核加註（2026-10-03）**：此前提與仿單不符。仿單所載 ergometrine 的受體作用是子宮肌層 5-HT2 與 α 腎上腺素受體的作用劑／部分作用劑效果，並寫明它對 α 腎上腺素受體幾乎沒有拮抗作用；仿單沒有提到 5-HT1B/1D，也沒有提到經 α 受體抑制三叉神經源性炎症。上段原文保留未改。依據：[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc)。
+> **查核加註（2026-10-03）**：仿單（emc Ergometrine Injection SmPC §5.1）所載 ergometrine 的受體作用是子宮肌層 5-HT2 與 α 腎上腺素受體的作用劑／部分作用劑效果，沒有提到 5-HT1B/1D；5-HT1B/1D 機轉只有前臨床文獻支持（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)：ergometrine 微離子導入可抑制貓三叉神經二級神經元放電），屬仿單未載、尚未證實，不是已確立的作用機轉。原文保留。依據：[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc)。
 
 <!-- review:end ergometrine-alpha-premise-2026-10-03 -->
 
@@ -179,7 +185,7 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 
 **理由：**
 - 排名第 1 的多毛症及多數高分預測，缺乏任何臨床試驗、文獻與機轉依據，目前僅有模型分數，屬 L5。
-- 偏頭痛有麥角骨架與血清素受體的合理性（L4），但證據只有間接回顧與個案報告，且麥角類的血管風險明確，不足以支持直接推進。
+- 偏頭痛有本藥的小型觀察性研究（L3，2026-10-03 重審；PMID 2759844），但規模小、無對照，其餘多為間接回顧與個案報告，且麥角類的血管風險明確，不足以支持直接推進。
 
 **若要推進需要：**
 - 補充詳細的作用機轉（MOA）資料，包含受體親和力與選擇性。
@@ -192,16 +198,17 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「methylergonovine 是 ergometrine 的活性代謝物」 | 報告重生後已無此錯誤（2026-10-15：新報告未再稱 methylergonovine 為 ergometrine 的活性代謝物；原為更正） | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072)；[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.2](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 結論段「及其活性代謝物 methylergonovine」 | 報告重生後已無此錯誤（2026-10-15：新報告結論未再提及 methylergonovine 為代謝物；原為更正） | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072) |
-| 2026-10-03 | 預測理由「作用於 α-腎上腺素受體抑制三叉神經源性炎症」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
+| 2026-10-03 | 預測理由「作用於 α-腎上腺素受體抑制三叉神經源性炎症」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 偏頭痛預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
-| 2026-10-03 | 偏頭痛預測重審結果 | 重審：維持，證據等級 L3 不變（2026-10-15 修訂，前版保留於紀錄） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
+| 2026-10-03 | 偏頭痛預測重審結果 | 重審：維持，證據等級 L3 不變；快速總覽「證據等級」：原「證據等級／L5（多毛症）；L4（偏頭痛）」→「證據等級／L5（多毛症）；L3（偏頭痛，2026-10-03 重審）」；結論「偏頭痛」理由：原「- 偏頭痛有麥角骨架與血清素受體的合理性（L4），但證據只有間接回顧與個案報告，且麥角類的血管風險明確，不足以支持直接推進。」→「- 偏頭痛有本藥的小型觀察性研究（L3，2026-10-03 重審；PMID 2759844），但規模小、無對照，其餘多為間接回顧與個案報告，且麥角類的血管風險明確，不足以支持直接推進。」（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
+| 2026-10-16 | 標題把多毛症寫成「猖毛症」 | 更正 | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
 
 <!-- review:end log -->
 

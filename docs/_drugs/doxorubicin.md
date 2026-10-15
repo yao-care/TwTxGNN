@@ -29,17 +29,23 @@ indication_count: 10
 
 </div>
 
-# Doxorubicin：從 HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤相關治療到尤文氏肉瘤
+# Doxorubicin：從白血病、淋巴瘤與實體腫瘤到尤文氏肉瘤
+
+<!-- review:begin doxorubicin-original-indication-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Doxorubicin：從 HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤相關治療到尤文氏肉瘤」。HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤分別是 trastuzumab 類與 polatuzumab vedotin 許可證的適應症。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end doxorubicin-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Doxorubicin 是廣泛使用的蒽環類（anthracycline）細胞毒性化療藥物，台灣 doxorubicin 單方許可證核准的適應症為急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。
+Doxorubicin 是廣泛使用的蒽環類（anthracycline）細胞毒性化療藥物，台灣 doxorubicin 單方許可證核准的適應症為急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。
 TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 目前資料顯示有 **27 個臨床試驗**登記和 **20 篇文獻**支持這個方向，其中包含多個 Phase 3 隨機試驗。
 
 <!-- review:begin doxorubicin-summary-indication-2026-10-03 -->
 
-> **查核更正（2026-10-03）**：原寫「台灣許可證所列的相關適應症為乳癌、胃癌及瀰漫性大型 B 細胞淋巴瘤的併用治療。」。2026-10-15 報告重生後仍沿用 trastuzumab／polatuzumab vedotin 等併用藥物許可證的適應症。這段取自 polatuzumab vedotin（保癌寧，Polivy）的許可證；台灣 doxorubicin 單方許可證核准適應症為急慢性白血病、硬瘤、淋巴瘤、軟組織肉瘤、神經母細胞瘤、乳癌、肺癌。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「台灣許可證所列的相關適應症為乳癌、胃癌及瀰漫性大型 B 細胞淋巴瘤的併用治療。」。原句的乳癌、胃癌來自 trastuzumab 類許可證，瀰漫性大型 B 細胞淋巴瘤來自 polatuzumab vedotin（保癌寧，衛部菌疫輸字第001123號）許可證，doxorubicin 只是其中的併用藥。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end doxorubicin-summary-indication-2026-10-03 -->
 
@@ -47,7 +53,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌 |
+| 原適應症 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型另核准 AIDS 相關卡波西氏肉瘤、卵巢癌、轉移性乳癌、多發性骨髓瘤 |
 | 預測新適應症 | 尤文氏肉瘤 (Ewing sarcoma) |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L1 |
@@ -57,7 +63,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 <!-- review:begin doxorubicin-original-indication-2026-10-03 -->
 
-> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現之早期乳癌、轉移性乳癌、轉移性胃癌（取自單一成分許可證的核准適應症文字）」。2026-10-15 報告重生後此列改寫成 trastuzumab 許可證的適應症，仍不是 doxorubicin 本身的核准適應症。原寫內容取自 polatuzumab vedotin（保癌寧，衛部菌疫輸字第001123號）的許可證；已改為台灣 doxorubicin 單方許可證的核准適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現之早期乳癌、轉移性乳癌、轉移性胃癌（取自單一成分許可證的核准適應症文字）」。此列是 trastuzumab 類許可證（HER2 陽性乳癌、轉移性胃癌）的適應症，不是 doxorubicin 本身的核准適應症。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end doxorubicin-original-indication-2026-10-03 -->
 
@@ -170,10 +176,11 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「在台灣核准用於 DLBCL」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症取自 polatuzumab vedotin 許可證 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「在台灣核准用於 DLBCL」 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 polatuzumab vedotin 許可證 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表列 polatuzumab vedotin 製劑「保癌寧」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 資料說明「20 張許可證均登記為相同許可證號」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以 HER2 陽性乳癌與 DLBCL 為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -151,6 +151,12 @@ fludarabine 在骨髓瘤中的角色，主要是作為異體幹細胞移植的�
 - 確認台灣許可證中 fludarabine 本身的核准適應症文字，因目前取得的單方適應症多屬 CD20 抗體類產品內容。
 - 若要評估直接療效，需有骨髓瘤專屬、以 fludarabine 為主要介入的前瞻性試驗。
 
+<!-- review:begin fludarabine-original-indication-next-step-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 資料集中 fludarabine 現行有效許可證只有衛署藥輸字第022732號「福達樂靜脈凍晶注射劑」，適應症為 B 細胞慢性淋巴性白血病（CLL）與經烷化基藥劑治療無效或惡化之低惡性度非何杰金氏淋巴瘤，已列於快速總覽的查核更正。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fludarabine-original-indication-next-step-2026-10-16 -->
+
 **其他預測適應症的簡要說明：**
 - **骨髓發育不良症候群（MDS）**：證據等級 L2，有含 fludarabine 前處理的 Phase 2/3 試驗與隨機對照（如 PMID 31606445），但同樣是前處理骨幹角色，建議「Proceed with Guardrails」。
 - **惰性漿細胞骨髓瘤、未分類 MDS**：證據等級 L3，屬研究問題。
@@ -166,6 +172,7 @@ fludarabine 在骨髓瘤中的角色，主要是作為異體幹細胞移植的�
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「癌即瓦注射劑」「瑞樂靶注射劑」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症寫濾泡性淋巴瘤 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步稱取得的單方適應症多屬 CD20 抗體 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

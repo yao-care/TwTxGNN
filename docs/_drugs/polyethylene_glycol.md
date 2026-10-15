@@ -29,7 +29,13 @@ indication_count: 1
 
 </div>
 
-# Polyethylene glycol：從軟膏基劑與慢性腎病貧血到先天性魚鱗癬樣紅皮症
+# Polyethylene glycol：從軟膏基劑與人工淚液到先天性魚鱗癬樣紅皮症
+
+<!-- review:begin polyethylene_glycol-mircera-indication-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Polyethylene glycol：從軟膏基劑與慢性腎病貧血到先天性魚鱗癬樣紅皮症」。慢性腎病貧血是衛署菌疫輸字第000887號「美血樂」的適應症，主成分是 methoxy polyethylene glycol-epoetin beta（聚乙二醇化的紅血球生成素），治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol-mircera-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -62,6 +68,12 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 從這個角度看，PEG 理論上可作為魚鱗癬局部護理的賦形劑或載體，協助皮膚保濕。但這屬於「基劑功能」的推論，並不代表 PEG 本身對疾病有治療作用。
 
 TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有臨床或文獻證據支持。此外，原適應症（CKD 貧血、乾眼、軟膏基劑）與先天性魚鱗癬樣紅皮症之間，沒有明確的病理關聯。
+
+<!-- review:begin polyethylene_glycol-mircera-indication-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：慢性腎病貧血是衛署菌疫輸字第000887號「美血樂」（methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol-mircera-indication-why-2026-10-16 -->
 
 ## 臨床試驗證據
 
@@ -133,6 +145,8 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原核准適應症」列入慢性腎病貧血 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以慢性腎病貧血為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由把 CKD 貧血列為原適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

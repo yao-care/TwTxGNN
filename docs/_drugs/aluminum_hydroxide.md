@@ -33,9 +33,15 @@ indication_count: 4
 
 ## 一句話總結
 
-Aluminum hydroxide（氫氧化鋁）是常見的制酸劑，在台灣原本用於緩解胃酸過多、胃痛及胃、十二指腸潰瘍。
+Aluminum hydroxide（氫氧化鋁）是常見的制酸劑，在台灣單方許可證核准用於緩解胃部不適或灼熱感，或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。
 TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Disease)** 有效，
 但目前**沒有臨床試驗登記**，文獻也以間接證據與歷史研究為主，整體證據偏弱。
+
+<!-- review:begin aluminum-hydroxide-original-indication-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「在台灣原本用於緩解胃酸過多、胃痛及胃、十二指腸潰瘍。」。TFDA 資料集中 aluminum hydroxide 有效單方許可證多數的適應症為「緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多」（如內衛藥製字第001706號），原料藥寫「制酸劑」；潰瘍、胃炎是伴隨胃酸過多的情境，不是單獨核准的適應症。直接寫「胃潰瘍、十二指腸潰瘍」的是含 dicyclomine 等的複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end aluminum-hydroxide-original-indication-summary-2026-10-16 -->
 
 ## 快速總覽
 
@@ -60,6 +66,12 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 目前缺乏詳細的作用機轉資料。根據已知資訊，氫氧化鋁屬於制酸劑，可中和胃酸並降低胃蛋白酶活性，有助於潰瘍癒合。文獻中的體外研究也顯示，含氫氧化鋁的制酸劑可透過提高胃內 pH 值及吸附胃蛋白酶來抑制其活性。
 
 原適應症本身已包含胃、十二指腸潰瘍，因此預測的「活動性消化性潰瘍」與既有適應症高度重疊，與其說是全新的用途，不如說是對既有用途的再確認。
+
+<!-- review:begin aluminum-hydroxide-original-indication-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 資料集中 aluminum hydroxide 有效單方許可證多數的適應症為「緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多」（如內衛藥製字第001706號），原料藥寫「制酸劑」；潰瘍、胃炎是伴隨胃酸過多的情境，不是單獨核准的適應症。直接寫「胃潰瘍、十二指腸潰瘍」的是含 dicyclomine 等的複方。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end aluminum-hydroxide-original-indication-why-2026-10-16 -->
 
 需要注意的是，目前提供的文獻多為間接證據：包含 sucralfate（含氫氧化鋁成分）、nizatidine 的研究、體外制酸能力測試及綜述，沒有直接以氫氧化鋁為對象的現代隨機對照試驗。
 
@@ -160,6 +172,8 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「固胃必朗錠」「氫氧化鋁膠」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症把潰瘍、胃炎寫成獨立適應症 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結把潰瘍寫成單獨的原適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱原適應症已包含胃、十二指腸潰瘍 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

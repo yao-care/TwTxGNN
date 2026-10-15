@@ -76,7 +76,7 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 <!-- review:begin magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
 
-> **查核加註（2026-10-03）**：仿單寫硫酸鎂是藉阻斷神經肌肉傳導、減少乙醯膽鹼釋放來預防或控制抽搐，另有中樞抑制與周邊血管擴張作用；沒有「降低腦血管痙攣及腦灌流壓」，本段的 NMDA 受體阻斷與抗發炎作用也不在仿單內。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
+> **查核加註（2026-10-03）**：仿單寫硫酸鎂藉阻斷神經肌肉傳導、減少運動神經末梢乙醯膽鹼釋放來預防或控制抽搐，另有中樞抑制與周邊血管擴張作用；本句的 NMDA 受體拮抗、阻斷鈣離子通道與「促進腦血管擴張」都不在仿單內（仿單寫的是周邊血管擴張）。預測的子癇前症／子癇症本身是仿單核准適應症，結論不受影響。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
 
 <!-- review:end magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
 
@@ -199,7 +199,7 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 2026-10-03 | 許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 機轉列「降低腦血管痙攣及腦灌流壓」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-03 | 機轉列「降低腦血管痙攣及腦灌流壓」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

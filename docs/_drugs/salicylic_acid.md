@@ -29,13 +29,25 @@ indication_count: 10
 
 </div>
 
-# Salicylic acid：從解熱鎮痛與皮膚角質問題到乳突狀結膜炎
+# Salicylic acid：從皮膚角質問題到乳突狀結膜炎
+
+<!-- review:begin salicylic_acid-original-indication-aspirin-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Salicylic acid：從解熱鎮痛與皮膚角質問題到乳突狀結膜炎」。「解熱鎮痛」對應乙醯水楊酸（aspirin）原料藥許可證衛部藥陸輸字第000870號的「鎮痛藥、退熱藥、抗風濕藥」，不是 salicylic acid；salicylic acid 單方許可證所載為抗皮膚角質化劑、雞眼、疣贅、胼胝、癬等外用適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end salicylic_acid-original-indication-aspirin-title-2026-10-16 -->
 
 ## 一句話總結
 
-Salicylic acid（水楊酸／柳酸）原本用於解熱鎮痛，以及皮膚角質軟化與白癬、疣贅等皮膚病症的外用治療。
+Salicylic acid（水楊酸／柳酸）原本用於皮膚角質軟化與白癬、疣贅等皮膚病症的外用治療。
 TxGNN 模型預測它可能對**乳突狀結膜炎 (Papillary conjunctivitis)** 有效，
 但目前**沒有臨床試驗與文獻**支持，僅為模型預測。
+
+<!-- review:begin salicylic_acid-original-indication-aspirin-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「原本用於解熱鎮痛，以及皮膚角質軟化」。「解熱鎮痛」對應乙醯水楊酸（aspirin）原料藥許可證衛部藥陸輸字第000870號，不是 salicylic acid；salicylic acid 單方許可證所載為抗皮膚角質化劑、雞眼、疣贅、胼胝、癬等外用適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end salicylic_acid-original-indication-aspirin-summary-2026-10-16 -->
 
 ## 快速總覽
 
@@ -145,6 +157,8 @@ TxGNN 模型預測它可能對**乳突狀結膜炎 (Papillary conjunctivitis)** 
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「乙醯水楊酸」「貝靈瑞利勁人體免疫球蛋白」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原適應症」含「解熱鎮痛」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以解熱鎮痛為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結以解熱鎮痛為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

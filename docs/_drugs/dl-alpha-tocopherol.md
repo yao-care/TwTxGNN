@@ -33,21 +33,33 @@ indication_count: 10
 
 ## 一句話總結
 
-DL-alpha-Tocopherol（合成型維生素 E）原本用於治療維他命 E 缺乏症與末梢血管循環障礙。
+DL-alpha-Tocopherol（合成型維生素 E）原本用於治療維他命 E 缺乏症（末梢血管循環障礙是 tocopherol nicotinate 製劑的適應症）。
 TxGNN 模型預測它可能對**未成熟型白內障 (Immature Cataract)** 有效，
 但目前**沒有臨床試驗與直接相關文獻**支持，證據僅來自模型預測。
+
+<!-- review:begin dl-alpha-tocopherol-summary-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原本用於治療維他命 E 缺乏症與末梢血管循環障礙。」。TFDA 許可證資料中，dl-alpha-tocopherol 現行有效單方許可證（如衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」）核准的是維他命Ｅ缺乏症；「末梢血管循環障礙」是 tocopherol nicotinate（妥非尼克進，例如衛署藥製字第019636號「暢淨血膠囊」）的適應症，屬不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end dl-alpha-tocopherol-summary-indication-2026-10-03 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 末梢血管循環障礙（現行有效的單方許可證適應症）；另有維他命 E 缺乏症 |
+| 原適應症 | 維他命 E 缺乏症 |
 | 預測新適應症 | 未成熟型白內障 (Immature Cataract) |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 269 張（有效單方 1／有效複方 31／已註銷 237） |
 | 建議決策 | Hold |
+
+<!-- review:begin dl-alpha-tocopherol-original-indication-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「原適應症／末梢血管循環障礙（現行有效的單方許可證適應症）；另有維他命 E 缺乏症」。TFDA 許可證資料中，dl-alpha-tocopherol 現行有效單方許可證（如衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」）核准的是維他命Ｅ缺乏症；「末梢血管循環障礙」是 tocopherol nicotinate（妥非尼克進，例如衛署藥製字第019636號「暢淨血膠囊」）的適應症，屬不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end dl-alpha-tocopherol-original-indication-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -125,8 +137,8 @@ TxGNN 同時預測了多種白內障亞型，包括成熟型、核性老年性�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症未明」 | 報告重生後已無此錯誤（2026-10-15：新報告一句話總結寫明原本用於治療維他命 E 缺乏症，未再寫原適應症未明；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症「未知」 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列已列出維他命 E 缺乏症，未再寫「未知」；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症未明」 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症「未知」 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

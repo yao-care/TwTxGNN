@@ -33,8 +33,14 @@ indication_count: 9
 
 ## 一句話總結
 
-Cytarabine 是急性骨髓性白血病（AML）標準化療方案中的核心成分，台灣目前以併用藥物（如 midostaurin、quizartinib、venetoclax）的許可證適應症呈現。
+Cytarabine 是急性骨髓性白血病（AML）標準化療方案中的核心成分，台灣 cytarabine 單方許可證核准「急性顆粒白血病及其他急性白血病」（衛署藥輸字第001879號）與「抗腫瘤劑」（衛署藥輸字第025603號、衛部藥輸字第028975號）。
 TxGNN 模型預測它可能對**小細胞肺癌 (Small Cell Lung Carcinoma)** 有效，但目前**無臨床試驗登記**，僅有 **20 篇文獻**，且多為非小細胞肺癌、腦膜轉移或一般化療藥物回顧，屬間接證據。
+
+<!-- review:begin cytarabine-original-indication-cll-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「台灣目前以併用藥物（如 midostaurin、quizartinib、venetoclax）的許可證適應症呈現。」。midostaurin、quizartinib、venetoclax 是各自的許可證，cytarabine 只是其中的併用藥；台灣 cytarabine 本身有 3 張有效單方許可證，適應症為「急性顆粒白血病及其他急性白血病」與「抗腫瘤劑」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cytarabine-original-indication-cll-summary-2026-10-16 -->
 
 ## 快速總覽
 
@@ -148,6 +154,7 @@ TxGNN 模型預測它可能對**小細胞肺癌 (Small Cell Lung Carcinoma)** �
 | 2026-10-03 | 原核准適應症列入「慢性淋巴球性白血病 (CLL)」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 併用表「CLL 治療｜Venetoclax 併用低劑量 Ara-C」 | 報告重生後已無此錯誤（2026-10-15：新報告已無「venetoclax 併用低劑量 Ara-C 治療 CLL」的表列；原為更正） | [DailyMed：VENCLEXTA（venetoclax）美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-16 | 一句話總結以併用藥物許可證呈現原適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

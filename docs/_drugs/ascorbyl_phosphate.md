@@ -29,7 +29,13 @@ indication_count: 10
 
 </div>
 
-# Ascorbyl phosphate：從眼部輕微刺激不適到嚴重非增殖性糖尿病視網膜病變
+# Ascorbyl phosphate：從複方眼藥水成分到嚴重非增殖性糖尿病視網膜病變
+
+<!-- review:begin ascorbyl-phosphate-original-indication-combo-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Ascorbyl phosphate：從眼部輕微刺激不適到嚴重非增殖性糖尿病視網膜病變」。眼部輕微刺激不適是 7 種成分複方點眼液（衛署藥輸字第023600號「德佑視立明眼藥水」，已註銷）的適應症，不是 ascorbyl phosphate 單一成分的適應症；台灣沒有 ascorbyl phosphate 單方許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ascorbyl-phosphate-original-indication-combo-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -109,6 +115,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」為複方眼藥水的適應症 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列已自行註明「來源為複方許可證，台灣無有效單方許可證」；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「德佑視立明眼藥水」為 7 成分複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題把複方眼藥水的適應症當成原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

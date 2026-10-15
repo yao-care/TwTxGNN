@@ -115,7 +115,7 @@ permalink: /tw-availability/
 | [Emedastine](/drugs/emedastine/) | ✓ 已上市 |  | L2 |
 | [Enfortumab Vedotin](/drugs/enfortumab-vedotin/) | ✓ 已上市 |  | L5 |
 | [Erdafitinib](/drugs/erdafitinib/) | ✓ 已上市 |  | L5 |
-| [Ergometrine](/drugs/ergometrine/) | ✓ 已上市 |  | L4 |
+| [Ergometrine](/drugs/ergometrine/) | ✓ 已上市 |  | L3 |
 | [Etanercept](/drugs/etanercept/) | ✓ 已上市 |  | L4 |
 | [Ethynodiol Diacetate](/drugs/ethynodiol-diacetate/) | ✓ 已上市 |  | L3 |
 | [Everolimus](/drugs/everolimus/) | ✓ 已上市 |  | L2 |

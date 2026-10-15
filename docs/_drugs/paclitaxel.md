@@ -29,13 +29,25 @@ indication_count: 10
 
 </div>
 
-# Paclitaxel：從 HER2 過度表現乳癌／胃癌（許可證所載）到女性乳癌
+# Paclitaxel：從卵巢癌、乳癌與非小細胞肺癌到女性乳癌
+
+<!-- review:begin paclitaxel-original-indication-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Paclitaxel：從 HER2 過度表現乳癌／胃癌（許可證所載）到女性乳癌」。TFDA 許可證資料中，paclitaxel 有多張有效單方許可證（例如衛署藥製字第044601號「永信」伏摩素注射液、衛署藥輸字第021157號汰癌勝注射液、衛部藥輸字第026484號亞伯杉注射劑），核准晚期卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤，白蛋白結合型另核准胰腺癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end paclitaxel-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Paclitaxel（紫杉醇）是抑制細胞有絲分裂的紫杉烷類化療藥，在台灣許可證資料中主要出現在 HER2 陽性乳癌與轉移性胃癌的治療方案裡。
+Paclitaxel（紫杉醇）是抑制細胞有絲分裂的紫杉烷類化療藥，台灣 paclitaxel 單方許可證核准晚期卵巢癌、乳癌、非小細胞肺癌與愛滋病相關卡波西氏肉瘤（白蛋白結合型另核准胰腺癌）。
 TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目前有 **40 個臨床試驗**（多為含 paclitaxel 的併用方案）和 **20 篇文獻**支持這個方向。
 需要說明的是，這是已被廣泛使用的既有適應症，並非真正的新用途。
+
+<!-- review:begin paclitaxel-original-indication-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「在台灣許可證資料中主要出現在 HER2 陽性乳癌與轉移性胃癌的治療方案裡。」。TFDA 許可證資料中，paclitaxel 有多張有效單方許可證（例如衛署藥製字第044601號「永信」伏摩素注射液、衛署藥輸字第021157號汰癌勝注射液、衛部藥輸字第026484號亞伯杉注射劑），核准晚期卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤，白蛋白結合型另核准胰腺癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end paclitaxel-original-indication-summary-2026-10-16 -->
 
 ## 快速總覽
 
@@ -56,6 +68,12 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目�
 <!-- review:end paclitaxel-original-indication-2026-10-03 -->
 
 **資料說明：** 許可證中有效的 6 張，品名為曲斯若、賀癌平、康癌停、赫珠瑪，核准文字都是 trastuzumab 類製劑的適應症，paclitaxel 只是文中的併用藥。唯一以「紫杉醇」為品名的許可證已註銷，適應症僅寫「抗癌藥」。因此「原適應症」一欄反映的是併用情境，並非 paclitaxel 單方的核准範圍。
+
+<!-- review:begin paclitaxel-original-indication-data-note-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，paclitaxel 有多張有效單方許可證（例如衛署藥製字第044601號「永信」伏摩素注射液、衛署藥輸字第021157號汰癌勝注射液、衛部藥輸字第026484號亞伯杉注射劑），核准晚期卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤，白蛋白結合型另核准胰腺癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end paclitaxel-original-indication-data-note-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -158,6 +176,12 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目�
 - 乳癌有多個已完成的 Phase 3 隨機試驗，納入含 paclitaxel 的方案，且 paclitaxel 已是乳癌臨床標準化療骨幹，因此預測高度合理。
 - 這不算真正的藥物再利用，而是既有適應症的確認。同時，台灣有效許可證都是 trastuzumab 類製劑，以 paclitaxel 為品名的許可證已註銷，需要釐清實際供應與給付狀況。
 
+<!-- review:begin paclitaxel-original-indication-conclusion-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，paclitaxel 有多張有效單方許可證（例如衛署藥製字第044601號「永信」伏摩素注射液、衛署藥輸字第021157號汰癌勝注射液、衛部藥輸字第026484號亞伯杉注射劑），核准晚期卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤，白蛋白結合型另核准胰腺癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end paclitaxel-original-indication-conclusion-2026-10-16 -->
+
 **若要推進需要：**
 - 釐清台灣目前 paclitaxel 單方（含 nab-paclitaxel 等劑型）的有效許可證與核准適應症
 - 取得 paclitaxel 的作用機轉（MOA）資料，補足機轉分析
@@ -175,6 +199,10 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目�
 |---------|------|------|------|
 | 2026-10-03 | 原適應症列入胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結以 trastuzumab 許可證的適應症為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 資料說明稱有效許可證都是 trastuzumab 類、紫杉醇品名已註銷 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱台灣有效許可證都是 trastuzumab 類 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

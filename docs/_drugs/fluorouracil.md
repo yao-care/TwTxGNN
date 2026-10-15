@@ -29,15 +29,33 @@ indication_count: 10
 
 </div>
 
-# Fluorouracil：從 HER2 陽性乳癌與轉移性胃癌（許可證所載適應症）到陰道葡萄狀胚胎型橫紋肌肉瘤
+# Fluorouracil：從消化器癌與乳癌等實體腫瘤到陰道葡萄狀胚胎型橫紋肌肉瘤
+
+<!-- review:begin fluorouracil-original-indication-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Fluorouracil：從 HER2 陽性乳癌與轉移性胃癌（許可證所載適應症）到陰道葡萄狀胚胎型橫紋肌肉瘤」。TFDA 許可證資料中，fluorouracil 有 4 張有效單方許可證（衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，及衛署藥製字第012452號福特喜膠囊），核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，以及結腸癌、直腸癌、乳癌、胃癌、胰臟癌等胃腸道與乳部惡性腫瘤的姑息療法；賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fluorouracil-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-本報告彙整的台灣許可證資料所載適應症為 HER2 過度表現之乳癌與轉移性胃癌，其中胃癌適應症提到與 5-fluorouracil 併用。Fluorouracil 本身是廣泛使用的抗代謝型化療藥。
+台灣 fluorouracil 單方許可證核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，以及結腸癌、直腸癌、乳癌、胃癌、胰臟癌等的姑息療法。Fluorouracil 本身是廣泛使用的抗代謝型化療藥。
 TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)** 有效，預測分數為 99.75%。
 目前**沒有任何臨床試驗或文獻**直接支持這個預測，證據僅來自模型預測（L5）。
 
+<!-- review:begin fluorouracil-original-indication-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「本報告彙整的台灣許可證資料所載適應症為 HER2 過度表現之乳癌與轉移性胃癌，其中胃癌適應症提到與 5-fluorouracil 併用。」。TFDA 許可證資料中，fluorouracil 有 4 張有效單方許可證（衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，及衛署藥製字第012452號福特喜膠囊），核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，以及結腸癌、直腸癌、乳癌、胃癌、胰臟癌等胃腸道與乳部惡性腫瘤的姑息療法；賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fluorouracil-original-indication-summary-2026-10-16 -->
+
 > **資料提醒：** 本報告所列的 40 張有效許可證（有效 4 張），品名與適應症文字都屬於 trastuzumab 類生物製劑（如賀癌平、康癌停、赫珠瑪、曲斯若），並非 fluorouracil 單方製劑。文中的 5-FU 只是併用藥物。因此下表的「原適應症」不能直接視為 fluorouracil 本身的核准適應症，需另行核對 fluorouracil 製劑的許可證。
+
+<!-- review:begin fluorouracil-original-indication-data-note-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，fluorouracil 有 4 張有效單方許可證（衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，及衛署藥製字第012452號福特喜膠囊），核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，以及結腸癌、直腸癌、乳癌、胃癌、胰臟癌等胃腸道與乳部惡性腫瘤的姑息療法；賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fluorouracil-original-indication-data-note-2026-10-16 -->
 
 ## 快速總覽
 
@@ -146,6 +164,9 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 | 2026-10-03 | 原適應症改為 TFDA 許可證所載 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證數「20 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 正確資訊提示「許可證總數約 20 張」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結以 trastuzumab 許可證的適應症為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 資料提醒稱許可證都屬 trastuzumab 類 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

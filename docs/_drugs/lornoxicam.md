@@ -74,7 +74,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
 | [19821419](https://pubmed.ncbi.nlm.nih.gov/19821419/) | 2009 | Meta-analysis | Cochrane Database Syst Rev | 單劑口服 lornoxicam 用於術後急性疼痛的系統性回顧（針對疼痛，非類風濕性關節炎） |
-| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | 回顧 lornoxicam 的藥理與在疼痛及發炎性疾病的治療潛力；半衰期較短（3–5 小時） |
+| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | 回顧 lornoxicam 的藥理與在疼痛及發炎性疾病的治療潛力；半衰期較短（回顧寫 3–5 小時；仿單記載原形藥平均排除半衰期 3–4 小時） |
 | [22469263](https://pubmed.ncbi.nlm.nih.gov/22469263/) | 2011 | Review | Profiles Drug Subst Excip Relat Methodol | 藥物完整概述，指出用於骨關節炎和類風濕性關節炎等肌肉骨骼疾病 |
 | [27086708](https://pubmed.ncbi.nlm.nih.gov/27086708/) | 2016 | 安全性評估 | Pain Manag | 評估 lornoxicam 在急性與風濕性疼痛的耐受性，著重胃腸道事件 |
 | [12404032](https://pubmed.ncbi.nlm.nih.gov/12404032/) | 2002 | 交叉雙盲研究 | Reumatismo | 在類風濕性關節炎患者比較 8 與 16 mg/日 lornoxicam 與 diclofenac 150 mg/日（摘要未提供結果） |
@@ -83,6 +83,12 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 | [23567043](https://pubmed.ncbi.nlm.nih.gov/23567043/) | 2013 | 動物研究 | J Control Release | 含 teriflunomide 與 lornoxicam 的經皮貼片，探討關節內藥物遞送 |
 | [32792844](https://pubmed.ncbi.nlm.nih.gov/32792844/) | 2020 | 體外研究 | Saudi Pharm J | 載 lornoxicam 的微海綿凝膠配方，提供持續抗發炎效果 |
 | [12240779](https://pubmed.ncbi.nlm.nih.gov/12240779/) | 2002 | Review | Clin Ther | NSAID 劑量與療效、不良事件關係的文獻回顧（類風濕性關節炎與骨關節炎） |
+
+<!-- review:begin lornoxicam-half-life-2026-10-03 -->
+
+> **查核更正（2026-10-03）**：原寫「半衰期較短（3–5 小時）」。仿單（Xefo SmPC §5.2）載明原形藥平均排除半衰期為 3 至 4 小時；此處是 1996 年回顧文章的摘要，已並列仿單數值。依據：[HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf)。
+
+<!-- review:end lornoxicam-half-life-2026-10-03 -->
 
 另有數篇劑型開發研究（脈衝釋放、迷你錠、乳膠凝膠、經皮傳遞系統等），屬藥劑學研究，未提供臨床療效資料，故未列入。
 
@@ -151,7 +157,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 半衰期寫 3-5 小時 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫半衰期 3-5 小時；原為更正） | [HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf) |
+| 2026-10-03 | 半衰期寫 3-5 小時 | 更正（2026-10-16 修訂，前版保留於紀錄） | [HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L3→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->

@@ -51,13 +51,25 @@ TxGNN 模型預測它可能對**腎因性抗利尿激素不適當分泌症候群
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供）。根據已知資訊，Indacaterol 是吸入型長效 β2 受體作用劑。它會提高細胞內 cAMP，使氣道平滑肌持續放鬆，因此用於 COPD 與氣喘。
+目前缺乏詳細的作用機轉資料（DrugBank 未提供）。根據已知資訊，Indacaterol 是吸入型長效 β2 受體作用劑。它會提高細胞內 cAMP，使氣道平滑肌持續放鬆，因此用於 COPD（台灣單方許可證只核准 COPD 維持治療，氣喘屬於含吸入型類固醇的複方適應症）。
+
+<!-- review:begin indacaterol-original-indication-combo-why-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「因此用於 COPD 與氣喘。」。TFDA 許可證資料中，indacaterol 單方許可證（衛署藥輸字第025282號「昂舒吸入膠囊150微克」）只核准慢性阻塞性肺疾之維持治療；氣喘適應症屬於含 mometasone 等吸入型類固醇的複方（如衛部藥輸字第028048號「艾能舒吸入膠囊」）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end indacaterol-original-indication-combo-why-2026-10-16 -->
 
 NSIAD 的成因是 AVPR2（血管加壓素 V2 受體）的功能獲得型突變，使 cAMP 訊號持續過度活化，導致腎臟不當地濃縮尿液。Indacaterol 同樣會提高 cAMP，所以**機轉上看不出治療關聯，反而可能加劇 cAMP 訊號而適得其反**。
 
 因此，這個預測目前只能視為模型分數的結果，缺乏機轉與臨床支持，很可能是知識圖譜中的關聯假象。
 
-另外，預測清單中排名第 7 的「支氣管疾病 (bronchial disease)」有較多研究。但那與藥物原本的 COPD 與氣喘適應症高度重疊，不算真正的藥物再利用。
+另外，預測清單中排名第 7 的「支氣管疾病 (bronchial disease)」有較多研究。但那與藥物原本的 COPD 適應症高度重疊（單方不含氣喘適應症），不算真正的藥物再利用。
+
+<!-- review:begin indacaterol-original-indication-combo-other-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「但那與藥物原本的 COPD 與氣喘適應症高度重疊」。TFDA 許可證資料中，indacaterol 單方許可證（衛署藥輸字第025282號「昂舒吸入膠囊150微克」）只核准慢性阻塞性肺疾之維持治療；氣喘適應症屬於含 mometasone 等吸入型類固醇的複方（如衛部藥輸字第028048號「艾能舒吸入膠囊」）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end indacaterol-original-indication-combo-other-2026-10-16 -->
 
 ## 臨床試驗證據
 
@@ -126,7 +138,9 @@ NSIAD 的成因是 AVPR2（血管加壓素 V2 受體）的功能獲得型突變�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症」寫氣喘維持治療 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為 indacaterol 單方許可證的慢性阻塞性肺疾維持治療；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」寫氣喘維持治療 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為單方許可證的慢性阻塞性肺疾維持治療；預測理由與其他預測段仍寫 COPD 與氣喘，另以 -why／-other 紀錄更正；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱 indacaterol 用於 COPD 與氣喘 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 其他預測段稱原本有 COPD 與氣喘適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 
