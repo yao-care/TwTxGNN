@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>: 治療停經後婦女晚期乳癌；輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌；輔助治療已使用 tamoxifen 2-3 年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
-<li>female breast carcinoma (99.7%)</li>
+<li class="indication-matched">female breast carcinoma (99.7%)<span class="indication-tag">📰 乳癌</span></li>
 <li>neuroblastoma (99.5%)</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.4%)</li>
 <li>ganglioneuroblastoma (disease) (99.4%)</li>
@@ -38,7 +38,7 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（9 則）
 
 ### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
@@ -53,6 +53,30 @@ permalink: /news/anastrozole/
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
+
+---
+
+### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">腫瘤</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
+
+---
+
+### [美國研究：無私人健保男性乳癌診斷晚、治療延誤致存活率低](https://news.google.com/rss/articles/CBMiugJBVV95cUxQQjlXN21rbmQyNzFINEVWMXZLNE9ydHpUYm5GX1ZLZ04xQmxqaElLUU5QcmFjUWwwZ196cnBxWmYxSmItTWJNZ1ZWbmdDSG5LQm5PTmRXYmpnRFFoRVNpT3V4OXhzcEZsNDVoR1pqd3RxRE9lakFBcThZZi1CektoU0I2SXJYNU5xQVZiandhZHkxZjN2bWhkTUpaUmN3UC1KQVhkOG1vRnEwZkxkQWhGNEZ5eHRSSnRsOXprd3lXNjB1OWZ5QmR5M3pFdEVyUnNpUE9KX0pHbXFKRzJ3VzgycEZJS1I5bTFteU15OTFJbUVKX0l6VDZTdUhLaE5NeUM3dEtNUWl0VEhsQ1Vkcy1qakJFWjd6VW5OdWktQUM3bXhCV0pKSTR0V2Y2eUxjY3F6a0tEbXlsUjVYQQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">乳癌</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMiugJBVV95cUxQQjlXN21rbmQyNzFINEVWMXZLNE9ydHpUYm5GX1ZLZ04xQmxqaElLUU5QcmFjUWwwZ196cnBxWmYxSmItTWJNZ1ZWbmdDSG5LQm5PTmRXYmpnRFFoRVNpT3V4OXhzcEZsNDVoR1pqd3RxRE9lakFBcThZZi1CektoU0I2SXJYNU5xQVZiandhZHkxZjN2bWhkTUpaUmN3UC1KQVhkOG1vRnEwZkxkQWhGNEZ5eHRSSnRsOXprd3lXNjB1OWZ5QmR5M3pFdEVyUnNpUE9KX0pHbXFKRzJ3VzgycEZJS1I5bTFteU15OTFJbUVKX0l6VDZTdUhLaE5NeUM3dEtNUWl0VEhsQ1Vkcy1qakJFWjd6VW5OdWktQUM3bXhCV0pKSTR0V2Y2eUxjY3F6a0tEbXlsUjVYQQ?oc=5)
+
+---
+
+### [58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
+
+2026-10-13 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
 
 ---
 
@@ -77,6 +101,14 @@ permalink: /news/anastrozole/
 2026-10-10 <span class="news-indication-tag">癌症</span>
 
 來源: [風火輪傳媒有限公司](https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5)
+
+---
+
+### [92歲婦切肝腫瘤 微創手術傷口小 精準麻醉降疼痛](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
+
+2026-10-10 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝腫瘤</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
 
 ---
 

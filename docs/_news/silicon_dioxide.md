@@ -3,7 +3,7 @@ layout: default
 title: "Silicon dioxide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Silicon dioxide 的相關健康新聞報導。原適應症：氣體吸著劑、賦形劑、維生素（單方許可證皆已註銷；現行有效者為制酸劑複方）。預測適應症 4 個。"
+description: "Silicon dioxide 的相關健康新聞報導。原適應症：賦形劑、氣體吸著劑（單方許可證皆已註銷）；現行有效者為制酸劑複方（衛署藥輸字第024482號「二矽酸...。預測適應症 4 個。"
 permalink: /news/silicon_dioxide/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/silicon_dioxide/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 氣體吸著劑、賦形劑、維生素（單方許可證皆已註銷；現行有效者為制酸劑複方）</li>
+<li><strong>原適應症</strong>: 賦形劑、氣體吸著劑（單方許可證皆已註銷）；現行有效者為制酸劑複方（衛署藥輸字第024482號「二矽酸鋁鎂」）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
 <li>active peptic ulcer disease (99.9%)</li>

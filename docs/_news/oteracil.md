@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>: 胃癌用藥</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>colonic neoplasm (100.0%)</li>
+<li class="indication-matched">colonic neoplasm (100.0%)<span class="indication-tag">📰 大腸癌</span></li>
 <li>cecum villous adenoma (100.0%)</li>
 <li>cecum neuroendocrine tumor G1 (100.0%)</li>
 <li>lipoma of colon (100.0%)</li>
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [新研究：超加工食品類型影響大腸癌風險](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5)
+
+2026-10-15 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [Singtaousa](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5)
+
+---
 
 ### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
@@ -57,6 +65,14 @@ permalink: /news/oteracil/
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSnFEOGhwWnlkTlZKcXJKSzVrQmtTWTZOeW9TV2xwQzRMVF9tTzNYemRhd2JwWi1Rb002UEdJbzhwalEtTHNOUGkzZ0R6dExwbWZDWGtVN0RKSS04UjNYYw?oc=5)
+
+---
+
+### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">腫瘤</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
 
 ---
 
@@ -81,6 +97,14 @@ permalink: /news/oteracil/
 2026-10-10 <span class="news-indication-tag">癌症</span>
 
 來源: [風火輪傳媒有限公司](https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5)
+
+---
+
+### [92歲婦切肝腫瘤 微創手術傷口小 精準麻醉降疼痛](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
+
+2026-10-10 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝腫瘤</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/sulfamethazine/
 ---
 
 <p class="key-answer" data-question="Sulfamethazine 有什麼相關新聞？">
-<strong>Sulfamethazine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Sulfamethazine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/sulfamethazine/
 <li><strong>原適應症</strong>: 細菌性感染症</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
-<li>gout (99.9%)</li>
+<li class="indication-matched">gout (99.9%)<span class="indication-tag">📰 痛風</span></li>
 <li>brain small vessel disease 1 with or without ocular anomalies (99.8%)</li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.8%)</li>
 <li>diabetic nephropathy (99.8%)</li>
@@ -38,9 +38,15 @@ permalink: /news/sulfamethazine/
 <p><a href="{{ '/drugs/sulfamethazine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [痛風石纏手10年 45歲男微創手術切除](https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbjNpellzMkFOQ1hTc040bndybzBZMnNGZDRFb21Hd2ZEcm1ZN3l2cENxUEwwM0o3TlFMd0UtVWRHQlM1UGNVX1hmbG83M0JjLTlxWkxVWVpKZUZ3dVdwZHhnVGxtMEUzS0VNbEh2Uk4wWlJsNjBhWDE5MHBSd9IBZ0FVX3lxTE1hSWJTQmM3LV9lQWJwVDJiUTZISjM4NDFGS1d6TTdoM2hLUEdzRnY5UG5kNWxXclNtSkp5VUp3SDRFWUhKdVJQZjlNS2lvZzVGelNLYnZ2MG9FVzRzT2R3OEpvajNqSHM?oc=5)
+
+2026-10-15 <span class="news-indication-tag">痛風</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbjNpellzMkFOQ1hTc040bndybzBZMnNGZDRFb21Hd2ZEcm1ZN3l2cENxUEwwM0o3TlFMd0UtVWRHQlM1UGNVX1hmbG83M0JjLTlxWkxVWVpKZUZ3dVdwZHhnVGxtMEUzS0VNbEh2Uk4wWlJsNjBhWDE5MHBSd9IBZ0FVX3lxTE1hSWJTQmM3LV9lQWJwVDJiUTZISjM4NDFGS1d6TTdoM2hLUEdzRnY5UG5kNWxXclNtSkp5VUp3SDRFWUhKdVJQZjlNS2lvZzVGelNLYnZ2MG9FVzRzT2R3OEpvajNqSHM?oc=5)
+
+---
 
 
 <div class="disclaimer">
