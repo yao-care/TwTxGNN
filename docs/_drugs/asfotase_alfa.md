@@ -2,7 +2,7 @@
 layout: default
 title: Asfotase Alfa
 parent: 僅模型預測 (L5)
-nav_order: 31
+nav_order: 32
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,20 +29,20 @@ indication_count: 10
 
 </div>
 
-# Asfotase alfa：從低磷酸酯酶症到粒線體氧化磷酸化障礙
+# Asfotase alfa：從小兒發作型低磷酸酯酶症到粒線體氧化磷酸化障礙（核 DNA 異常所致）
 
 ## 一句話總結
 
-Asfotase alfa 是重組人類組織非特異性鹼性磷酸酶（TNSALP）融合蛋白，原本核准用於**小兒發作型低磷酸酯酶症（HPP）**的長期酵素替代療法。
-TxGNN 模型預測它可能對**粒線體氧化磷酸化障礙（Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies）**有效，
-目前**無臨床試驗**及**無文獻**支持，屬純模型預測。
+Asfotase alfa 是一種酵素替代療法，原本用於治療小兒發作型低磷酸酯酶症 (HPP)。
+TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 小兒發作型低磷酸酯酶症（Pediatric-onset HPP） |
-| 預測新適應症 | 粒線體氧化磷酸化障礙（Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies） |
+| 原適應症 | 小兒發作型低磷酸酯酶症 (Pediatric-onset hypophosphatasia; HPP) 病人之長期酵素替代療法 |
+| 預測新適應症 | 核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
 | TxGNN 預測分數 | 99.95% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
@@ -51,11 +51,16 @@ TxGNN 模型預測它可能對**粒線體氧化磷酸化障礙（Mitochondrial O
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Asfotase alfa 是重組人類組織非特異性鹼性磷酸酶（TNSALP）融合蛋白，透過水解無機焦磷酸鹽（PPi）來促進骨骼礦化，已在 HPP 患者中證實其酵素替代療效。
+目前缺乏詳細的作用機轉資料。已知 Asfotase alfa 是重組的組織非特異性鹼性磷酸酶 (TNSALP)，
+可水解細胞外的受質，例如無機焦磷酸 (inorganic pyrophosphate) 與吡哆醛-5'-磷酸 (pyridoxal-5'-phosphate)，
+在低磷酸酯酶症中用來促進骨礦化。
 
-鹼性磷酸酶除參與骨骼礦化外，亦涉及細胞內磷酸鹽恆定調節，理論上可能影響粒線體 ATP 合成所需的磷酸鹽底物供應。HPP 和粒線體氧化磷酸化障礙都涉及細胞能量代謝與磷酸鹽代謝的異常，這是 TxGNN 在知識圖譜中識別兩者關聯的潛在共同基礎。
+然而，這個機轉與核基因編碼的氧化磷酸化 (OXPHOS) 缺陷之間，並沒有已建立的關聯。
+高分數僅來自知識圖譜的關聯推論，不代表有生物學上的支持。
+因此這項預測應視為一個**待驗證的假說**，而非有依據的治療方向。
 
-然而，此機轉連結屬於高度推論性。粒線體氧化磷酸化障礙的根本病因為核 DNA 異常導致呼吸鏈酵素缺陷，與 HPP 的 *ALPL* 基因缺乏截然不同。Asfotase alfa 補充 TNSALP 是否能改善粒線體能量代謝，目前缺乏任何直接的臨床前或臨床研究佐證，機轉關聯薄弱。
+另外，在排名前 10 的其他預測中（如 Steel syndrome、Scheie syndrome、Hurler syndrome、胰臟外分泌不足等），
+同樣沒有臨床試驗或文獻佐證，機轉連結也都相當薄弱，多半只是「酵素替代」或「骨骼表現」的概念類比。
 
 ## 臨床試驗證據
 
@@ -82,6 +87,8 @@ TxGNN 模型預測它可能對**粒線體氧化磷酸化障礙（Mitochondrial O
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
 安全性資訊請參考原廠仿單。
@@ -91,12 +98,15 @@ TxGNN 模型預測它可能對**粒線體氧化磷酸化障礙（Mitochondrial O
 **決策：Hold**
 
 **理由：**
-所有 10 個 TxGNN 預測適應症均屬 L5 等級，僅有模型預測，無任何臨床試驗或文獻支持。首位預測（粒線體氧化磷酸化障礙）雖具磷酸鹽代謝的間接理論連結，但與 HPP 的根本病因機轉截然不同，目前生物合理性薄弱，不建議投入資源推進。
+- 證據等級僅為 L5：沒有臨床試驗、沒有文獻，只有模型分數。
+- 機轉上找不到 Asfotase alfa 與核 DNA 相關 OXPHOS 缺陷之間的合理連結，高分很可能是圖譜推論的假象。
 
 **若要推進需要：**
-- 取得 Asfotase alfa 的詳細作用機轉資料（MOA），確認其對粒線體磷酸鹽代謝的影響路徑
-- 在細胞或動物模型中驗證 TNSALP 活性對粒線體氧化磷酸化功能的潛在影響
-- 搜尋 TNSALP 與粒線體功能相關的基礎研究文獻，確立前臨床概念驗證後，再評估是否進入臨床階段
+- 補齊詳細的作用機轉資料 (MOA)，並評估其與粒線體疾病病理的可能關聯
+- 進行系統性文獻回顧，確認是否有任何前臨床或病例層級的證據
+- 若有機轉假說，先以細胞或動物模型做前臨床驗證
+- 補齊安全性資料（警語、禁忌、藥物交互作用），再評估特定族群的風險
+- 在上述證據出現前，建議不投入臨床開發資源，並持續監測新發表的研究
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

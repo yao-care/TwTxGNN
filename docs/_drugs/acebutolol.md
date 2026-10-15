@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Acebutolol
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 11
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 ---
 
 # Acebutolol
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **2** 個
+證據等級: **L5** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,43 +29,58 @@ indication_count: 2
 
 </div>
 
-# Acebutolol：從高血壓心律不整到惡性腎血管高血壓
+# Acebutolol：從高血壓、狹心症、心律不整到惡性高血壓性腎病變
 
 ## 一句話總結
 
-Acebutolol 原本用於高血壓、狹心症及心律不整。
-TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular hypertension)** 有效，
-目前有 **1 篇文獻**支持這個方向。
+Acebutolol（鹽酸阿西布特洛）是一種 Beta 交感神經遮斷劑，原本用於高血壓、狹心症與心律不整（心室性及上心室性）。
+TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)** 有效，但目前**沒有臨床試驗與文獻**直接支持，僅有模型預測。
+
+---
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 高血壓、狹心症、心律不整 |
-| 預測新適應症 | 惡性腎血管高血壓 (malignant renovascular hypertension) |
+| 原適應症 | 高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整） |
+| 預測新適應症 | 惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease) |
 | TxGNN 預測分數 | 99.10% |
-| 證據等級 | L4 |
-| 台灣上市 | 已上市 |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 27 張（有效單方 4／有效複方 0／已註銷 23） |
 | 建議決策 | Hold |
 
+---
+
 ## 為什麼這個預測合理？
 
-Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交感活性 (ISA)。其降壓機轉包括減少心輸出量、抑制腎素釋放，以及中樞性降壓作用。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Acebutolol 是具有內在擬交感活性的心臟選擇性 Beta-1 阻斷劑，能降低血壓、減慢心跳並減少腎素釋放。
 
-在腎血管性高血壓的病理機轉中，腎素-血管張力素系統 (RAS) 過度活化扮演關鍵角色。Beta 阻斷劑能抑制腎素分泌，理論上可能對腎血管性高血壓有輔助療效。1975 年的法國研究 (PMID: 768911) 指出，acebutolol 在血漿腎素活性增高的腎血管性高血壓患者中展現良好療效。
+原適應症「高血壓」與預測的「惡性高血壓性腎病變」在病理上密切相關：長期、嚴重的血壓升高會造成腎臟小血管損傷。控制血壓與抑制腎素—血管張力素系統的活化，理論上有助於減緩腎臟傷害。
 
-然而，目前臨床上對於惡性腎血管高血壓的一線治療仍以血管介入或手術為主，藥物治療多以 ACE 抑制劑或 ARB 為首選。
+不過，這僅屬機轉上的推論。目前沒有任何臨床或文獻證據顯示 Acebutolol 對這個疾病有效，且原始作用機轉資料也有缺口，因此只能視為待驗證的假說。
+
+另有一個相關的次要預測是**惡性腎血管性高血壓 (Malignant Renovascular Hypertension)**（分數同為 99.10%）。其機轉較為合理，因為腎血管性高血壓由腎素驅動，而 Beta 阻斷劑可減少腎素釋放。此預測有一篇 1975 年的病例系列（證據等級 L4），屬間接證據。
+
+---
 
 ## 臨床試驗證據
 
-目前無針對 acebutolol 與惡性腎血管高血壓的註冊臨床試驗。
+目前無相關臨床試驗登記。
+
+---
 
 ## 文獻證據
 
+針對主要預測（惡性高血壓性腎病變），目前無相關文獻。
+
+針對次要預測（惡性腎血管性高血壓），僅有下列一篇間接證據：
+
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [768911](https://pubmed.ncbi.nlm.nih.gov/768911/) | 1975 | Clinical Trial | La Nouvelle presse medicale | 50 例高血壓患者使用 acebutolol，74% 效果良好；研究指出腎血管性高血壓伴隨高腎素活性者為良好適應症 |
+| [768911](https://pubmed.ncbi.nlm.nih.gov/768911/) | 1975 | 病例系列 | La Nouvelle presse medicale | 50 位高血壓患者使用 Acebutolol（單用或併用其他降壓藥）進行為期一年的開放性試驗，74% 療效良好或中等，26% 治療失敗，耐受性佳；內容亦涉及腎血管性高血壓，但並非針對惡性型態 |
+
+---
 
 ## 台灣上市資訊
 
@@ -85,49 +100,49 @@ Acebutolol 是一種選擇性 beta-1 交感神經阻斷劑，具有內在擬交�
 | 衛部藥輸字第026664號 | 鹽酸阿西布特洛 | （粉） | 新雙隆生技股份有限公司 | 2030/11/02 | Beta交感神經遮斷劑 |
 
 <details><summary><strong>已註銷</strong>（23 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第041627號</td><td>內外安賜妥錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2019/01/03</td></tr><tr><td>衛署藥製字第042342號</td><td>"壽元"心普膜衣錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2025/04/29</td></tr><tr><td>衛署藥製字第042343號</td><td>艾心樂錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2011/02/22</td></tr><tr><td>衛署藥製字第042909號</td><td>壓心平錠４００公絲（艾思布妥）〝永昌〞</td><td>ACEBUTOLOL HCL</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第042947號</td><td>"健亞"健特樂膜衣錠400毫克(艾思布妥)</td><td>ACEBUTOLOL HCL</td><td>2014/12/19</td></tr><tr><td>衛署藥製字第042999號</td><td>康心寧膜衣錠４００公絲（艾思布妥）〝溫士頓〞</td><td>ACEBUTOLOL HCL</td><td>2019/05/15</td></tr><tr><td>衛署藥製字第044081號</td><td>順舒德膠囊200毫克</td><td>ACEBUTOLOL HCL</td><td>2023/07/07</td></tr><tr><td>衛署藥輸字第005720號</td><td>心施德注射液</td><td>ACEBUTOLOL HCL</td><td>1999/07/19</td></tr><tr><td>衛署藥輸字第005721號</td><td>心施德膠囊１００公絲</td><td>ACEBUTOLOL (HCL)</td><td>2010/06/01</td></tr><tr><td>衛署藥輸字第006049號</td><td>心施德膜衣錠400毫克</td><td>ACEBUTOLOL HCL</td><td>2020/11/03</td></tr><tr><td>衛署藥輸字第010292號</td><td>普定心注射液</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第010304號</td><td>普定心膜衣錠２００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第010309號</td><td>普定心膜衣錠４００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第012673號</td><td>血平定錠</td><td>ACEBUTOLOL (HCL)、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOR…</td><td>1994/04/28</td></tr><tr><td>衛署藥輸字第017325號</td><td>普定心膜衣錠４００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第017326號</td><td>普定心注射液</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第017327號</td><td>普定心膜衣錠２００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第018296號</td><td>鹽酸阿西布特諾兒</td><td>ACEBUTOLOL HCL</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第021462號</td><td>鹽酸阿西布特諾</td><td>ACEBUTOLOL HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021552號</td><td>安心定膠囊１００公絲</td><td>ACEBUTOLOL (HCL)</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第022103號</td><td>舒心膜衣錠４００公絲</td><td>ACEBUTOLOL HCL</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第023148號</td><td>"莫伊士" 鹽酸阿西布特諾</td><td>ACEBUTOLOL HCL</td><td>2017/05/10</td></tr><tr><td>衛署藥輸字第023718號</td><td>艾思布妥鹽酸鹽</td><td>ACEBUTOLOL HCL</td><td>2011/11/29</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第041627號</td><td>內外安賜妥錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2019/01/03</td></tr><tr><td>衛署藥製字第042342號</td><td>"壽元"心普膜衣錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2025/04/29</td></tr><tr><td>衛署藥製字第042343號</td><td>艾心樂錠４００公絲（艾思布妥）</td><td>ACEBUTOLOL HCL</td><td>2011/02/22</td></tr><tr><td>衛署藥製字第042909號</td><td>壓心平錠４００公絲（艾思布妥）〝永昌〞</td><td>ACEBUTOLOL HCL</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第042947號</td><td>"健亞"健特樂膜衣錠400毫克(艾思布妥)</td><td>ACEBUTOLOL HCL</td><td>2014/12/19</td></tr><tr><td>衛署藥製字第042999號</td><td>康心寧膜衣錠４００公絲（艾思布妥）〝溫士頓〞</td><td>ACEBUTOLOL HCL</td><td>2019/05/15</td></tr><tr><td>衛署藥製字第044081號</td><td>順舒德膠囊200毫克</td><td>ACEBUTOLOL HCL</td><td>2023/07/07</td></tr><tr><td>衛署藥輸字第005720號</td><td>心施德注射液</td><td>ACEBUTOLOL HCL</td><td>1999/07/19</td></tr><tr><td>衛署藥輸字第005721號</td><td>心施德膠囊１００公絲</td><td>ACEBUTOLOL (HCL)</td><td>2010/06/01</td></tr><tr><td>衛署藥輸字第006049號</td><td>心施德膜衣錠400毫克</td><td>ACEBUTOLOL HCL</td><td>2020/11/03</td></tr><tr><td>衛署藥輸字第010292號</td><td>普定心注射液</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第010304號</td><td>普定心膜衣錠２００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第010309號</td><td>普定心膜衣錠４００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第012673號</td><td>血平定錠</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、ACEBUT…</td><td>1994/04/28</td></tr><tr><td>衛署藥輸字第017325號</td><td>普定心膜衣錠４００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第017326號</td><td>普定心注射液</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第017327號</td><td>普定心膜衣錠２００公絲</td><td>ACEBUTOLOL (HCL)</td><td>1990/07/07</td></tr><tr><td>衛署藥輸字第018296號</td><td>鹽酸阿西布特諾兒</td><td>ACEBUTOLOL HCL</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第021462號</td><td>鹽酸阿西布特諾</td><td>ACEBUTOLOL HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021552號</td><td>安心定膠囊１００公絲</td><td>ACEBUTOLOL (HCL)</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第022103號</td><td>舒心膜衣錠４００公絲</td><td>ACEBUTOLOL HCL</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第023148號</td><td>"莫伊士" 鹽酸阿西布特諾</td><td>ACEBUTOLOL HCL</td><td>2017/05/10</td></tr><tr><td>衛署藥輸字第023718號</td><td>艾思布妥鹽酸鹽</td><td>ACEBUTOLOL HCL</td><td>2011/11/29</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
+---
+
 ## 安全性考量
 
-### 重要藥物交互作用
+- **知識圖譜標示的禁忌疾病**（來自 TxGNN 知識圖譜的藥物—疾病禁忌關聯，並非仿單內容）：
+  - 心血管：房室傳導阻滯、病竇症候群、周邊血管疾病（含間歇性跛行、周邊動脈疾病）
+  - 呼吸：氣喘（內因性、過敏性）、肺氣腫
+  - 代謝：糖尿病、糖尿病酮酸中毒
+  - 腎、肝、膽：腎臟疾病、肝臟疾病、膽囊疾病
+  - 神經肌肉：重症肌無力、神經肌肉接合部疾病
+  - 腎上腺腫瘤：嗜鉻細胞瘤、交感神經副神經節瘤
+  - 精神：焦慮症、官能症、輕鬱症
+  - 其他：乾癬、類乾癬等
 
-**Major 交互作用：**
-- Dolasetron：可能增加 QT 延長風險
+  特別提醒：預測的目標族群為腎病變患者，而「腎臟疾病」本身即出現在上述禁忌清單中，需審慎評估。
 
-**Moderate 交互作用：**
-- 降血糖藥物（Glimepiride、Glipizide、Glyburide、各類胰島素）：可能掩蓋低血糖症狀
-- 類固醇（Betamethasone、Dexamethasone、Hydrocortisone、Prednisolone、Prednisone）：可能減弱降壓效果
-- 鈣離子補充劑：可能影響心臟傳導
-- 腎上腺素（Epinephrine）：可能產生嚴重高血壓反應
-- Bupropion：可能增加降壓效果
-- Cimetidine：可能增加 acebutolol 血中濃度
+- **藥物交互作用**：共查得 228 筆，以下為部分範例：
+  - 中度：Acetohexamide、Chlorpropamide（降血糖藥）、Canagliflozin、Dapagliflozin、Atropine、Betamethasone、Budesonide、Bupropion、Cimetidine、Clidinium、多種鈣鹽（碳酸鈣、乳酸鈣、葡萄糖酸鈣等）
+  - 輕微：Aluminum hydroxide、Acetylsalicylic acid、Attapulgite
 
-**Minor 交互作用：**
-- 制酸劑（Aluminum hydroxide、Magnesium hydroxide）：可能減少吸收
-- Aspirin：輕微影響降壓效果
+詳細警語與禁忌請參考原廠仿單。
 
-### 禁忌症
-- 竇性心搏過緩
-- 二度或三度房室傳導阻滯
-- 明顯心衰竭
-- 心因性休克
-
-安全性資訊請參考原廠仿單。
+---
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-雖然 acebutolol 的藥理機轉（抑制腎素釋放）理論上可能對腎血管性高血壓有益，但目前僅有 1 篇 1975 年的文獻支持，且現行臨床指引對於惡性腎血管高血壓優先推薦介入治療及 RAS 阻斷劑。
+- 主要預測（惡性高血壓性腎病變）僅有模型分數，沒有臨床試驗與文獻支持，證據等級為 L5。
+- 作用機轉資料缺漏，且腎臟疾病出現在知識圖譜的禁忌清單中，在釐清安全性之前不宜推進。
 
 **若要推進需要：**
-- 設計前瞻性臨床試驗，比較 acebutolol 與標準治療在腎血管性高血壓的療效
-- 進行更多機轉研究，探討 beta 阻斷劑在高腎素狀態下的角色
-- 與血管介入或手術治療的併用策略研究
-
+- 補齊 Acebutolol 的作用機轉資料（DrugBank）。
+- 針對惡性高血壓與腎臟保護進行系統性文獻回顧，確認是否有直接證據。
+- 評估腎功能不全患者的藥物動力學與劑量調整（Acebutolol 及其活性代謝物主要經腎排除），並釐清腎臟疾病禁忌的實際依據。
+- 若機轉較合理的次要預測（惡性腎血管性高血壓）值得優先探索，可先設計小型探索性研究。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

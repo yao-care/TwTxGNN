@@ -2,7 +2,7 @@
 layout: default
 title: Fludarabine
 parent: 中證據等級 (L3-L4)
-nav_order: 105
+nav_order: 112
 evidence_level: L3
 indication_count: 10
 ---
@@ -29,79 +29,68 @@ indication_count: 10
 
 </div>
 
-# Fludarabine：從慢性淋巴球性白血病到漿細胞骨髓瘤
+# Fludarabine：從非何杰金氏淋巴瘤與慢性淋巴球性白血病到漿細胞骨髓瘤
 
 ## 一句話總結
 
-Fludarabine 是一種嘌呤核苷酸類似物，原本用於治療慢性淋巴球性白血病（CLL）及低惡度 B 細胞非何杰金氏淋巴瘤。
+Fludarabine（癌即瓦）是嘌呤類似物（purine analog）化療藥，台灣許可證資料中的核准適應症以 B 細胞惡性腫瘤（非何杰金氏淋巴瘤、慢性淋巴球性白血病）為主。
 TxGNN 模型預測它可能對**漿細胞骨髓瘤 (Plasma Cell Myeloma)** 有效，
-目前有 **50 個臨床試驗**和 **20 篇文獻**支持這個方向。
-
----
+目前有 **30 個臨床試驗**和 **20 篇文獻**列入此預測，但多數為含 fludarabine 的移植前處理或 CAR-T 淋巴清除情境，並非以 fludarabine 單獨治療骨髓瘤的證據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL；限烷化基藥劑治療無效或惡化者）（衛署藥輸字第022732號） |
+| 原適應症 | 慢性淋巴球性白血病（CLL）、濾泡性淋巴瘤等 B 細胞惡性腫瘤（註：許可證資料中的單方適應症文字多為 CD20 抗體類產品的內容，與 fludarabine 本身的標示可能不一致，建議對照原廠仿單） |
 | 預測新適應症 | 漿細胞骨髓瘤 (Plasma Cell Myeloma) |
 | TxGNN 預測分數 | 99.82% |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 3 張（有效單方 1／有效複方 0／已註銷 2） |
-| 建議決策 | Proceed with Guardrails |
-
-<!-- review:begin fludarabine-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／慢性淋巴球性白血病（CLL）、濾泡性淋巴瘤」。台灣現行 fludarabine 許可證的適應症是 B 細胞慢性淋巴性白血病（CLL）與低惡性度非何杰金氏淋巴瘤（LG-NHL），未寫濾泡性淋巴瘤；已改為許可證寫法。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fludarabine-original-indication-2026-10-03 -->
-
----
+| 建議決策 | Hold（作為研究問題持續追蹤；不建議以單藥骨髓瘤適應症推進） |
 
 ## 為什麼這個預測合理？
 
-Fludarabine 的詳細作用機轉資料目前缺乏（MOA 待補充）。根據已知臨床與基礎研究資料，Fludarabine 屬於嘌呤核苷酸類似物，可抑制 DNA 聚合酶及核糖核苷酸還原酶，阻斷 DNA 合成，並可誘導淋巴球及漿細胞凋亡，同時具有強效免疫抑制作用。
+目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位未收錄）。根據已知資訊，fludarabine 是嘌呤類似物，其活性代謝物會抑制 DNA 合成並造成明顯的淋巴細胞耗竭。
 
-漿細胞骨髓瘤（多發性骨髓瘤，MM）為異常漿細胞克隆增生所致的血液惡性腫瘤，與 Fludarabine 原始適應症（CLL、B 細胞淋巴瘤）同屬 B 細胞譜系來源的血液腫瘤，在細胞生物學上具有直接關聯性。體外及動物實驗（PMID 17976186）已直接證實 Fludarabine 對骨髓瘤細胞株 RPMI8226 具有細胞毒性，並伴隨 Akt 磷酸化降低，揭示可能的細胞訊號干預機轉。
+骨髓瘤與 CLL 同屬 B 細胞系惡性腫瘤，一篇 1992 年的綜述也討論了兩者的相似與差異。
+fludarabine 在骨髓瘤中的角色，主要是作為異體幹細胞移植的減量前處理（reduced-intensity conditioning）骨幹，以及 BCMA CAR-T 療法的淋巴清除（lymphodepletion）用藥，而非直接的抗骨髓瘤藥物。
 
-在臨床上，Fludarabine 是異體造血幹細胞移植（allo-HSCT）非骨髓清除性及減低強度調理方案（RIC）的標準核心藥物之一，已廣泛用於含骨髓瘤患者的 HSCT 調理。透過免疫抑制促進植入，並藉由移植物抗骨髓瘤（Graft-versus-Myeloma, GVM）效應清除殘餘病灶。此外，Fludarabine/Cyclophosphamide 組合亦是 BCMA CAR-T 細胞治療前淋巴清除（lymphodepletion）的主流方案之一，直接在骨髓瘤治療流程中佔有核心角色。
-
----
+另有一篇體外與動物研究（PMID 17976186）顯示 fludarabine 對骨髓瘤細胞株有抑制作用，但這類研究對骨髓瘤的直接療效仍有爭議，需要更多臨床證據。
 
 ## 臨床試驗證據
 
+資料中共有 30 個試驗，以下列出與 fludarabine 關聯度較高的 10 個。多數為移植前處理或 CAR-T 試驗，fludarabine 並非受試的主要介入。
+
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT00006379](https://clinicaltrials.gov/study/NCT00006379) | Phase 2 | 已完成 | 58 | 以嘌呤類似物（Fludarabine）為基礎的非骨髓清除性異體 SCT，適應症直接涵蓋多發性骨髓瘤，為最高相關性試驗 |
-| [NCT00074490](https://clinicaltrials.gov/study/NCT00074490) | Phase 2 | 已終止 | 442 | 低強度含 Fludarabine 調理的異體 HSCT（含 Sirolimus），適應症含骨髓瘤、淋巴瘤及 MDS，提供直接可行性資料 |
-| [NCT03303950](https://clinicaltrials.gov/study/NCT03303950) | Phase 2 | 已終止 | 6 | Busulfan+Fludarabine 加供者幹細胞移植直接用於多發性骨髓瘤及骨髓纖維化，雖提前終止仍有直接試驗紀錄 |
-| [NCT00781170](https://clinicaltrials.gov/study/NCT00781170) | Phase 2 | 已完成 | 20 | Melphalan/Fludarabine 減量異體移植後評估移植物抗骨髓瘤效應，適應症 Stage II/III MM |
-| [NCT00615589](https://clinicaltrials.gov/study/NCT00615589) | Phase 2 | 已終止 | 22 | 含 Fludarabine 減低毒性骨髓清除調理方案用於高風險多發性骨髓瘤異體 HSCT |
-| [NCT00078065](https://clinicaltrials.gov/study/NCT00078065) | Phase 2 | 已完成 | 30 | 隨機比較 Xcellerated T 細胞有無 Fludarabine 前處理用於多發性骨髓瘤，直接檢驗 Fludarabine 在 MM 的作用 |
-| [NCT04579523](https://clinicaltrials.gov/study/NCT04579523) | Phase 1 | 尚未招募 | 30 | ²¹¹At 標記抗 CD38 抗體合併 Fludarabine 調理用於高風險多發性骨髓瘤 HCT |
-| [NCT03524235](https://clinicaltrials.gov/study/NCT03524235) | Phase 1 | 已完成 | 20 | Bendamustine+Fludarabine+Rituximab 調理用於半相合 SCT，適應症含 MM 及 CLL |
-| [NCT05767359](https://clinicaltrials.gov/study/NCT05767359) | Phase 2 | 活躍中（未招募） | 20 | Cilta-cel 用於高風險冒煙型骨髓瘤，調理方案明確使用 Cyclophosphamide+Fludarabine |
-| [NCT00305682](https://clinicaltrials.gov/study/NCT00305682) | Phase 2 | 已完成 | 295 | 非親屬臍帶血移植治療血液惡性疾病（含 MM），Fludarabine+Cyclophosphamide 骨髓清除方案 |
-
----
+| [NCT03303950](https://clinicaltrials.gov/study/NCT03303950) | Phase 2 | 提前終止 | 6 | Busulfan／fludarabine／cyclophosphamide 移植前處理用於骨髓瘤或骨髓纖維化；人數極少，證據有限 |
+| [NCT01658319](https://clinicaltrials.gov/study/NCT01658319) | Phase 1 | 完成 | 20 | Fludarabine 併用 methoxyamine 用於復發或難治性血液惡性腫瘤；族群廣泛，非骨髓瘤專屬 |
+| [NCT01008462](https://clinicaltrials.gov/study/NCT01008462) | Phase 2 | 完成 | 16 | 自體加非清髓異體移植用於高風險淋巴瘤、骨髓瘤或 CLL；fludarabine 可能為前處理一部分 |
+| [NCT00909948](https://clinicaltrials.gov/study/NCT00909948) | Phase 1 | 提前終止 | 7 | 非清髓移植後刻意排斥供者移植物；樣本小 |
+| [NCT00056966](https://clinicaltrials.gov/study/NCT00056966) | Phase 1/2 | 完成 | 24 | CD45 抗體與 alemtuzumab 的減量前處理異體移植 |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | 完成 | 213 | Cyclophosphamide／fludarabine／全身放射線的臍帶血移植前處理，用於血液疾病 |
+| [NCT00606437](https://clinicaltrials.gov/study/NCT00606437) | Phase 1 | 完成 | 40 | 全身放射線加 fludarabine 前處理，合併臍帶血移植 |
+| [NCT06045806](https://clinicaltrials.gov/study/NCT06045806) | Phase 3 | 進行中（不再收案） | 79 | Ide-cel 加 lenalidomide 維持治療；fludarabine 僅可能作為淋巴清除，屬機轉面的佐證 |
+| [NCT07764978](https://clinicaltrials.gov/study/NCT07764978) | Phase 3 | 收案中 | 750 | BCMA/CD19 CAR-T 鞏固治療；fludarabine 僅涉及淋巴清除 |
+| [NCT06413498](https://clinicaltrials.gov/study/NCT06413498) | Phase 3 | 進行中（不再收案） | 452 | Anito-cel 對比標準治療用於復發／難治性骨髓瘤；fludarabine 僅涉及淋巴清除 |
 
 ## 文獻證據
 
+資料中的文獻多為世代研究與回顧，沒有以 fludarabine 為主要介入的隨機對照試驗。以下列出與 fludarabine 較相關者。
+
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [38483213](https://pubmed.ncbi.nlm.nih.gov/38483213/) | 2024 | Phase 1 | Am J Clin Oncol | Bortezomib+Fludarabine+Melphalan（含/不含全骨髓照射）作為高風險/復發難治性 MM 異體 HSCT 調理方案，直接檢驗 Fludarabine 在骨髓瘤的安全性 |
-| [17976186](https://pubmed.ncbi.nlm.nih.gov/17976186/) | 2007 | 體外/動物 | Eur J Haematol | Fludarabine 在體外及動物實驗中對骨髓瘤細胞株具直接抗腫瘤活性，同時降低 Akt 磷酸化，提供機轉依據 |
-| [37701906](https://pubmed.ncbi.nlm.nih.gov/37701906/) | 2023 | Phase 2 | Leuk Res Rep | 分次 Busulfan+Fludarabine+post-transplant Cyclophosphamide 骨髓清除性方案用於 MM 及骨髓纖維化異體 SCT，1 年存活率 50% |
-| [17310135](https://pubmed.ncbi.nlm.nih.gov/17310135/) | 2007 | 多中心回顧 | Bone Marrow Transplant | 34 例 Fludarabine+Treosulfan 減毒調理用於多發性骨髓瘤異體 SCT，評估可行性與毒性 |
-| [15389436](https://pubmed.ncbi.nlm.nih.gov/15389436/) | 2004 | 多中心研究 | Biol Blood Marrow Transplant | 120 例 Melphalan/Fludarabine 減量異體移植 MM 資料，1 年 TRM 18%，確立復發後移植為最強預後不良因子 |
-| [37833271](https://pubmed.ncbi.nlm.nih.gov/37833271/) | 2023 | 回顧性研究 | Blood Cancer J | 比較 Fludarabine/Cyclophosphamide 與 Bendamustine 作為 BCMA CAR-T 前淋巴清除方案，直接確立 Flu/Cy 在骨髓瘤 CAR-T 流程中的核心地位 |
-| [7781758](https://pubmed.ncbi.nlm.nih.gov/7781758/) | 1995 | 病例報告 | Eur J Haematol | 最早報告 Fludarabine 用於漿細胞性白血病（plasma cell leukemia），奠定 Fludarabine 在漿細胞疾病的應用基礎 |
-| [35333600](https://pubmed.ncbi.nlm.nih.gov/35333600/) | 2022 | Phase 1/2 隨訪 | J Clin Oncol | BCMA+CD19 雙靶向 CAR-T 長期隨訪（復發/難治 MM），Fludarabine 用於淋巴清除前處理，顯示高反應率 |
-| [39365257](https://pubmed.ncbi.nlm.nih.gov/39365257/) | 2025 | 世代研究 | Blood | 16 家美國學術中心 236 例標準治療 Cilta-cel 真實世界數據，Fludarabine 為調理方案核心，92.5% 完成輸注 |
-| [36690811](https://pubmed.ncbi.nlm.nih.gov/36690811/) | 2023 | Phase 1 | Nature Medicine | 異體 BCMA CAR-T（ALLO-715）加含 ALLO-647 淋巴清除方案用於復發/難治 MM（UNIVERSAL 試驗），43 例安全性資料 |
-
----
+| [17976186](https://pubmed.ncbi.nlm.nih.gov/17976186/) | 2007 | 體外／動物研究 | Eur J Haematol | Fludarabine 在體外與體內均能抑制骨髓瘤細胞株 RPMI8226 |
+| [17310135](https://pubmed.ncbi.nlm.nih.gov/17310135/) | 2007 | 世代研究（回顧性） | Bone Marrow Transplant | Fludarabine 加 treosulfan 的低毒性前處理用於骨髓瘤異體移植（34 位病人），可行 |
+| [38483213](https://pubmed.ncbi.nlm.nih.gov/38483213/) | 2024 | 第一期研究 | Am J Clin Oncol | Bortezomib／fludarabine／melphalan（可加全骨髓照射）用於高風險或難治性骨髓瘤的異體移植前處理 |
+| [37701906](https://pubmed.ncbi.nlm.nih.gov/37701906/) | 2023 | 第二期研究 | Leuk Res Rep | 分次 busulfan、fludarabine 與移植後 cyclophosphamide；2 位骨髓瘤病人，1 年非復發死亡率 33.3% |
+| [40972962](https://pubmed.ncbi.nlm.nih.gov/40972962/) | 2025 | 真實世界研究 | Transplant Cell Ther | Ide-cel 前的 fludarabine 淋巴清除暴露量與毒性相關 |
+| [38659046](https://pubmed.ncbi.nlm.nih.gov/38659046/) | 2024 | 世代研究 | J Hematol Oncol | LEGEND-2 五年追蹤：BCMA CAR-T 可帶來長期緩解（fludarabine 非研究主體） |
+| [39365257](https://pubmed.ncbi.nlm.nih.gov/39365257/) | 2025 | 世代研究 | Blood | Cilta-cel 在標準照護情境的結果 |
+| [7781758](https://pubmed.ncbi.nlm.nih.gov/7781758/) | 1995 | 其他 | Eur J Haematol | Fludarabine 與漿細胞白血病（無摘要可供摘錄） |
+| [1415309](https://pubmed.ncbi.nlm.nih.gov/1415309/) | 1992 | 回顧 | Am J Med | 骨髓瘤與 CLL 的異同 |
+| [31058154](https://pubmed.ncbi.nlm.nih.gov/31058154/) | 2019 | 回顧 | Front Med | [18F]-Fludarabine 用於血液惡性腫瘤的 PET 影像 |
 
 ## 台灣上市資訊
 
@@ -122,49 +111,44 @@ Fludarabine 的詳細作用機轉資料目前缺乏（MOA 待補充）。根據�
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（Purine Nucleoside Analog / 嘌呤核苷酸類似物） |
-| 骨髓抑制風險 | 高度（嘌呤類似物為已知強效骨髓抑制劑，中性白血球及淋巴球減少為常見劑量限制性毒性） |
-| 致吐性分級 | 低度 |
-| 監測項目 | CBC（含分類計數）、肝腎功能（特別是腎功能，劑量調整依據）、感染指標（因免疫抑制風險高）、神經毒性評估 |
-| 處置防護 | 需依細胞毒性藥物處置規範操作；因強效免疫抑制，需警惕 CMV、PCP 等機會性感染並考慮預防性投藥 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（嘌呤類似物） |
+| 骨髓抑制風險 | 高（文獻指出使用可能導致明顯骨髓抑制與其他毒性） |
+| 致吐性分級 | 請參考原廠仿單 |
+| 監測項目 | 全血球計數（含分類）、肝腎功能；另據文獻，高劑量與神經毒性相關 |
+| 處置防護 | 需依細胞毒性藥物處置規範操作 |
 
----
+此外，文獻顯示 fludarabine 合併化療後有發生治療相關 MDS／AML 的報告。
 
 ## 安全性考量
 
-**藥物交互作用**（資料庫共收錄 369 筆，以下列出已確認的主要交互作用）：
+- **藥物交互作用**：資料庫共記錄 369 筆交互作用。其中中度者包括 metronidazole、rosuvastatin、simvastatin、tinidazole；輕度者包括 levofloxacin；其餘（如 doxycycline、amphotericin B、metformin、morphine、omeprazole 等）分級未明。
 
-| 交互藥物 | 嚴重程度 | 資料來源 |
-|---------|---------|---------|
-| Metronidazole | 中度 | DDInter |
-| Rosuvastatin | 中度 | DDInter |
-| Simvastatin | 中度 | DDInter |
-| Tinidazole | 中度 | DDInter |
-| Levofloxacin | 輕度 | DDInter |
-
-主要警語及禁忌症請參考原廠仿單。
-
----
+主要警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-Fludarabine 在漿細胞骨髓瘤有直接的體外抗腫瘤證據（PMID 17976186），並作為 HSCT 調理方案及 CAR-T 前淋巴清除的核心藥物廣泛用於骨髓瘤臨床流程；多個 Phase 1/2 試驗已確認其在骨髓瘤患者的安全性與可行性，但目前缺乏以 Fludarabine 為主角（非調理輔助角色）的 Phase 3 骨髓瘤隨機對照試驗，整體證據等級為 L3。
+- 骨髓瘤相關證據幾乎都來自含 fludarabine 的移植前處理或 CAR-T 淋巴清除情境，缺乏 fludarabine 單獨或作為主要介入的骨髓瘤對照試驗。
+- 其證據可支持「移植前處理與淋巴清除骨幹」的角色，不支持新增直接抗骨髓瘤適應症。藥物本身也有明顯骨髓抑制與免疫抑制風險。
 
 **若要推進需要：**
-- 補充 Fludarabine 詳細作用機轉（MOA）資料（DrugBank API）
-- 釐清 Fludarabine 在骨髓瘤治療中的精準定位：直接抗腫瘤用藥 vs. HSCT 調理 vs. CAR-T 前處理
-- 評估在現代骨髓瘤治療背景（蛋白酶體抑制劑、IMiD、CD38 抗體）下 Fludarabine 的加乘或互補潛力
-- 確認台灣許可證資料完整性（現有資料疑含 CD20 靶向抗體之許可證，建議重新比對 TFDA 資料庫）
-- 規劃高度免疫抑制情境下的機會性感染監測計畫與風險管理方案
+- 明確定義用途（移植前處理或 CAR-T 淋巴清除，還是直接抗骨髓瘤），並分別彙整對應證據。
+- 取得 fludarabine 的作用機轉資料（MOA）及原廠仿單的警語、禁忌症。
+- 確認台灣許可證中 fludarabine 本身的核准適應症文字，因目前取得的單方適應症多屬 CD20 抗體類產品內容。
+- 若要評估直接療效，需有骨髓瘤專屬、以 fludarabine 為主要介入的前瞻性試驗。
+
+**其他預測適應症的簡要說明：**
+- **骨髓發育不良症候群（MDS）**：證據等級 L2，有含 fludarabine 前處理的 Phase 2/3 試驗與隨機對照（如 PMID 31606445），但同樣是前處理骨幹角色，建議「Proceed with Guardrails」。
+- **惰性漿細胞骨髓瘤、未分類 MDS**：證據等級 L3，屬研究問題。
+- **甲狀腺機能亢進、糖尿病腎病變及其他罕見遺傳疾病**：僅有模型預測，缺乏可信的機轉或臨床證據，建議 Hold。
 
 <!-- review:begin log -->
 

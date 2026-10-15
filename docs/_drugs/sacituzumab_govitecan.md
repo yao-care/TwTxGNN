@@ -2,7 +2,7 @@
 layout: default
 title: Sacituzumab Govitecan
 parent: 僅模型預測 (L5)
-nav_order: 232
+nav_order: 250
 evidence_level: L5
 indication_count: 4
 ---
@@ -29,41 +29,41 @@ indication_count: 4
 
 </div>
 
-# Sacituzumab Govitecan：從三陰性乳癌到新適應症探索
+# Sacituzumab govitecan：從三陰性乳癌到藥物誘發性骨質疏鬆
 
 ## 一句話總結
 
-Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳癌。TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced osteoporosis)** 有效，但目前僅有模型預測支持，缺乏臨床證據。
+Sacituzumab govitecan（商品名：拓達維）是一種以 Trop-2 為標的的抗體藥物複合體（ADC），原本用於治療無法切除的局部晚期或轉移性乳癌。
+TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 晚期三陰性乳癌、HR+/HER2- 乳癌 |
-| 預測新適應症 | 藥物誘發性骨質疏鬆症 (drug-induced osteoporosis) |
+| 原適應症 | 1. 先前已接受兩次以上全身性治療無效（其中一次需為治療晚期疾病）之無法切除的局部晚期或轉移性三陰性乳癌成年病人。2. 荷爾蒙受體（HR）陽性、HER2 陰性（IHC 0、IHC 1+ 或 IHC 2+/ISH–）、無法切除的局部晚期或轉移性乳癌，且過去曾接受至少 2 次轉移性乳癌全身性治療的成年病人 |
+| 預測新適應症 | 藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis) |
 | TxGNN 預測分數 | 99.78% |
 | 證據等級 | L5 |
-| 台灣上市 | 已上市 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 抗體與 SN-38（irinotecan 的活性代謝物）連結：
+目前缺乏詳細的作用機轉資料。已知 Sacituzumab govitecan 是以 Trop-2 為標的的抗體，連結 SN-38（拓樸異構酶 I 抑制劑）作為細胞毒性藥物載荷，用於已多線治療的乳癌。
 
-1. **Trop-2 靶點**：Trop-2（tumor-associated calcium signal transducer 2）主要在上皮細胞表達，在多種實體腫瘤中過度表達。
+**坦白說，這個預測在機轉上缺乏合理性。** 目前沒有任何證據顯示 Trop-2 標的的細胞毒性藥物與骨重塑或骨質疏鬆有關。細胞毒性載荷反而可能對骨骼健康造成不利影響，而非改善。這項預測完全來自 TxGNN 的計算分數，沒有臨床或前臨床研究佐證。
 
-2. **細胞毒性機轉**：SN-38 是拓撲異構酶 I 抑制劑，主要用於抗腫瘤治療。
-
-3. **預測適應症的合理性存疑**：藥物誘發性骨質疏鬆症與 Trop-2 或拓撲異構酶 I 抑制劑的作用機轉缺乏明確關聯，此預測的生物學合理性較低。
+其他排名較前的預測（嚴重非增殖性糖尿病視網膜病變、糖尿病視網膜病變、糖尿病白內障）同樣沒有試驗或文獻支持，也缺乏機轉依據。
 
 ## 臨床試驗證據
 
-目前無 Sacituzumab govitecan 用於藥物誘發性骨質疏鬆症的臨床試驗登記。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-目前無相關文獻支持。
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -81,59 +81,42 @@ Sacituzumab govitecan 是一種抗體藥物複合體（ADC），由抗 Trop-2 �
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 抗體藥物複合體 (ADC) |
-| 骨髓抑制風險 | 高 - 中性粒細胞減少症是常見嚴重不良反應 |
-| 致吐性分級 | 中度 |
-| 監測項目 | 完整血球計數、肝腎功能、腹瀉症狀 |
-| 處置防護 | 需遵循細胞毒性藥物處理標準 |
+| 細胞毒性分類 | 抗體藥物複合體（ADC），載荷 SN-38 為拓樸異構酶 I 抑制劑，屬細胞毒性藥物 |
+| 骨髓抑制風險 | 高（系統性細胞毒性，常見嗜中性白血球低下） |
+| 致吐性分級 | 請參考原廠仿單 |
+| 監測項目 | CBC（含分類）、肝腎功能、腹瀉與脫水狀況 |
+| 處置防護 | 需依細胞毒性藥物處置規範操作 |
+
+其餘細節請參考原廠仿單的警語與注意事項。
 
 ## 安全性考量
 
-### 重大藥物交互作用
+- **藥物交互作用**：已查詢到 40 筆交互作用，以下列出部分重點：
+  - **Major（嚴重）**：Irinotecan（與 SN-38 同屬拓樸異構酶 I 抑制劑）、Deferiprone、Fostamatinib、Adalimumab、Apalutamide、Certolizumab pegol、Cladribine、Dacomitinib、Leflunomide、Natalizumab、Nilotinib、Ozanimod
+  - **Moderate（中度）**：Alefacept、Alemtuzumab、Anakinra、Canakinumab、Dimethyl fumarate、Lorlatinib、Ocrelizumab、Omacetaxine mepesuccinate
 
-| 交互作用藥物 | 嚴重程度 | 來源 |
-|-------------|---------|------|
-| Deferiprone | 重大 | DDInter |
-| Irinotecan | 重大 | DDInter |
-| Leflunomide | 重大 | DDInter |
-| Natalizumab | 重大 | DDInter |
-| Adalimumab | 重大 | DDInter |
-| Infliximab | 重大 | DDInter |
-| Etanercept | 重大 | DDInter |
-| Fingolimod | 重大 | DDInter |
-| Apalutamide | 重大 | DDInter |
+  多數屬免疫抑制劑或具骨髓抑制作用的藥物，合併使用時需留意感染與血球低下風險。
 
-### 藥理學標靶
-
-| 標靶 | 基因名稱 | 說明 |
-|-----|---------|------|
-| TROP-2 (tumor associated calcium signal transducer 2) | TACSTD2 | Sacituzumab govitecan 的抗體部分與 TROP-2 結合 |
-
-### 重要警語
-
-- **嚴重中性粒細胞減少症**：可能導致發熱性中性粒細胞減少症
-- **嚴重腹瀉**：SN-38 可引起嚴重腹瀉
-- **過敏反應**：輸注相關反應
-- **UGT1A1 多型性**：UGT1A1*28 同型合子患者可能有更高毒性風險
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-1. 預測適應症（藥物誘發性骨質疏鬆症）與藥物作用機轉缺乏生物學合理性
-2. 無臨床試驗或文獻證據支持
-3. 作為細胞毒性藥物，用於非惡性疾病的安全性堪慮
-4. 成本效益比不適合骨質疏鬆症適應症
+- 這個預測僅來自模型分數，沒有任何臨床試驗或文獻，證據等級為 L5。
+- 機轉上沒有合理連結，且系統性細胞毒性藥物用於非腫瘤的慢性疾病，風險效益比不利。
 
 **若要推進需要：**
-- 發現 Trop-2 在骨代謝中的相關作用
-- 基礎研究證明機轉合理性
-- 考慮到毒性，此適應症不建議進一步探索
+- 取得詳細的作用機轉資料（MOA），評估與骨代謝是否有任何關聯
+- 先進行文獻與前臨床證據的系統性檢索，確認是否有支持訊號
+- 若無任何支持證據，建議不再推進此預測，並優先評估其他排名較高、機轉較合理的候選適應症
 
 <!-- review:begin log -->
 

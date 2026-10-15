@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Pipemidic Acid
-parent: 僅模型預測 (L5)
-nav_order: 200
-evidence_level: L5
+parent: 中證據等級 (L3-L4)
+nav_order: 217
+evidence_level: L4
 indication_count: 10
 ---
 
 # Pipemidic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,66 +29,62 @@ indication_count: 10
 
 </div>
 
-# Pipemidic Acid 藥師筆記
+# Pipemidic acid：從泌尿道與腸道細菌感染到心臟疾病
 
 ## 一句話總結
 
-Pipemidic acid 為第一代喹諾酮類抗生素，TxGNN 預測對心臟病及罕見遺傳疾病有潛在療效，但文獻證據極為有限。
+Pipemidic acid（吡嘧啶酸）是一種喹諾酮類抗菌劑，原本用於治療泌尿道感染、腸炎、中耳炎等細菌感染。
+TxGNN 模型預測它可能對**心臟疾病 (Heart disease)** 有效，但目前**沒有任何臨床試驗**，僅有 **1 篇 1978 年的病例系列文獻**，且該文獻談的是腎功能不全患者的抗菌使用，並非心臟疾病療效，因此證據非常薄弱。
+
+---
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥品學名 | Pipemidic acid (匹培咪迪/吡嘧啶酸) |
-| DrugBank ID | DB13823 |
-| 原核准適應症 | 泌尿道感染、腸道感染、中耳炎、副鼻腔炎 |
-| TxGNN 預測新適應症 | 心臟病、Laubry-Pezzi 症候群、Pierre Robin 症候群等 |
-| 台灣許可證數 | 74 張 |
-| 證據等級 | L5 (僅預測) |
+| 原適應症 | 抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等） |
+| 預測新適應症 | 心臟疾病 (Heart disease) |
+| TxGNN 預測分數 | 99.93% |
+| 證據等級 | L5（資料中另標示為 L4，但目前僅有模型預測與一篇不相關的舊文獻，無機轉或前臨床研究支持，故以 L5 判定） |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 74 張（有效單方 28／有效複方 1／已註銷 45） |
+| 建議決策 | Hold |
 
-## 為什麼這個預測合理
+---
 
-TxGNN 模型預測 Pipemidic acid 對多種疾病有潛在療效，但這些預測的機轉連結較不清晰：
+## 為什麼這個預測合理？
 
-1. **心臟病 (Heart disease)**：可能基於知識圖譜中感染與心臟併發症的關聯性
-2. **遺傳性疾病**：如 Laubry-Pezzi 症候群、Pierre Robin 症候群等預測可能為模型過度類推
+目前缺乏詳細的作用機轉資料。根據已知藥理，Pipemidic acid 屬於喹諾酮類抗菌劑，作用於細菌的 DNA gyrase 與 topoisomerase IV，用來抑制細菌複製。
 
-Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作用，與預測的新適應症缺乏明確的藥理學關聯。
+這種機轉針對的是細菌，與心臟疾病的病理（如瓣膜病變、心肌或先天性結構缺陷）沒有已知的直接關聯。因此，原適應症（細菌感染）與預測的新適應症（心臟疾病）之間，目前找不到合理的機轉橋接。
+
+TxGNN 的高分預測是來自知識圖譜的關聯推論，並非生物學上的證實。排名較後的候選（如心臟瓣膜疾病、Pierre Robin 症候群、染色體缺失、顏面裂等）同樣沒有機轉依據，整體預測可信度偏低。
+
+---
 
 ## 臨床試驗證據
 
-| 預測適應症 | 臨床試驗數 | 說明 |
-|------------|-----------|------|
-| 心臟病 | 0 | 無相關臨床試驗 |
-| 其他預測疾病 | 0 | 均無相關臨床試驗 |
+目前無相關臨床試驗登記。
+
+---
 
 ## 文獻證據
 
-### 心臟病 (Heart disease)
-**證據等級：L5 (僅預測)**
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [372558](https://pubmed.ncbi.nlm.nih.gov/372558/) | 1978 | 病例系列 | Journal d'urologie et de nephrologie | 探討 Pipemidic acid 在腎功能不全與血液透析患者中作為泌尿道以外感染的抗生素使用；並非針對心臟疾病的療效研究（無摘要） |
 
-僅發現 1 篇間接相關文獻：
-
-| PMID | 標題 | 年份 | 內容 |
-|------|------|------|------|
-| 372558 | Use of pipemidic acid in renal insufficiency and hemodialysis | 1978 | 討論 Pipemidic acid 在腎功能不全患者的使用，與心臟病無直接關聯 |
-
-### 其他預測疾病
-所有其他預測適應症（Laubry-Pezzi 症候群、Pierre Robin 症候群、染色體異常等）均無相關文獻支持。
+---
 
 ## 台灣上市資訊
-
-### 上市狀態
-
-### 代表性產品
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Pipemidic Acid 的不重複許可證共 **74 張**：有效單方 27 張、有效複方 1 張、已註銷 46 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Pipemidic Acid 的不重複許可證共 **74 張**：有效單方 28 張、有效複方 1 張、已註銷 45 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（27 張）
+**有效・單方**（28 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -108,6 +104,7 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 | 衛署藥製字第026465號 | 瑞療菌錠２５０公絲（匹培咪迪） | 錠劑 | 瑞人企業股份有限公司 | 2023/10/30 | 腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前立腺炎、中耳炎 |
 | 衛署藥製字第026736號 | 佑克炎錠 | 錠劑 | 新喜國際企業股份有限公司 | 2029/08/27 | 由綠膿菌、大腸菌、變形桿菌、克雷白氏桿菌、腸內桿菌、枸櫞桿菌、赤痢菌、腸炎弧菌所引起的腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前列腺炎、細菌性赤痢、腸炎、中耳炎、副鼻腔炎 |
 | 衛署藥製字第028654號 | 炎之膠囊４００公絲（匹培咪迪） | 膠囊劑 | 回春堂製藥廠股份有限公司 | 2028/05/12 | 尿路感染症（急性和慢性膀胱炎、腎盂腎炎、腎盂炎）前列腺炎、中耳炎 |
+| 衛署藥製字第029704號 | 能疏錠４００毫克（匹培咪迪） | 錠劑 | 杏輝藥品工業股份有限公司 | 2024/05/25 | 由綠膿菌、大腸菌、變形桿菌、克雷白氏桿菌、腸內桿菌、枸櫞桿菌所引起之腎盂腎炎、腎盂炎、膀胱炎、尿道炎、攝護腺炎、中耳炎、副鼻腔炎、細菌性赤痢及腸炎 |
 | 衛署藥製字第030614號 | "優生"廣利腎膠囊４００毫克（匹培咪迪） | 膠囊劑 | 優生製藥廠股份有限公司 | 2030/01/27 | 由綠膿症、大腸菌、變形桿菌、克雷白氏桿菌、腸內桿菌、枸椽桿菌、赤痢菌、腸炎弧菌所引起的腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前列腺炎、中耳炎、細菌性赤痢、腸炎、副鼻腔炎 |
 | 衛署藥製字第031513號 | 樂必康錠２５０公絲（匹培咪迪） | 錠劑 | 永吉製藥股份有限公司 | 2024/06/03 | 由綠膿菌、大腸菌、變形桿菌、克雷白氏桿菌、腸內桿菌、枸櫞桿菌所引起的腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前列腺炎、中耳炎 |
 | 衛署藥製字第031536號 | "國嘉"必克林膜衣錠250毫克（匹培咪迪） | 膜衣錠 | 國嘉製藥工業股份有限公司幼獅三廠 | 2029/06/13 | 腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前列腺炎、細菌性痢疾、腸炎、中耳炎、副鼻腔炎 |
@@ -126,47 +123,34 @@ Pipemidic acid 主要作用機轉為抑制細菌 DNA 旋轉酶，屬於抗菌作
 |------|------|------|------|------|
 | 衛署藥製字第028014號 | "衛達"必沛樂膠囊２００毫克（匹培咪迪） | PIPEMIDIC ACID (TRIHYDRATE)、PIPEMIDIC ACID (TRIHYDRATE) | 膠囊劑 | 由綠膿菌、大腸菌、變形桿菌、克雷白氏桿菌、腸內桿菌、枸櫞桿菌、赤痢菌、腸炎弧菌所引起之腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前立腺炎、中耳炎、細菌性赤痢、腸炎、副鼻腔炎 |
 
-<details><summary><strong>已註銷</strong>（46 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第022570號</td><td>可尿淨錠（匹培咪迪）</td><td>PIPEMIDIC ACID</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第023166號</td><td>"濟時" 倍得寧膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2019/08/02</td></tr><tr><td>衛署藥製字第023217號</td><td>去炎膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2013/10/11</td></tr><tr><td>衛署藥製字第023290號</td><td>富保康膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第023369號</td><td>匹培克膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第024881號</td><td>康腎膠囊２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2018/11/07</td></tr><tr><td>衛署藥製字第025486號</td><td>必得康錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1992/02/13</td></tr><tr><td>衛署藥製字第025543號</td><td>尿疾克膠囊２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1992/09/24</td></tr><tr><td>衛署藥製字第025927號</td><td>必培美得錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1991/06/03</td></tr><tr><td>衛署藥製字第026543號</td><td>必普克錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第027281號</td><td>普能淨膠囊２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第027490號</td><td>流清膠囊４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1992/03/13</td></tr><tr><td>衛署藥製字第028302號</td><td>排泌菌膜衣錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2016/09/08</td></tr><tr><td>衛署藥製字第029704號</td><td>能疏錠４００毫克（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2026/09/07</td></tr><tr><td>衛署藥製字第029749號</td><td>倍力克膜衣錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第033372號</td><td>必培美得錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1997/09/23</td></tr><tr><td>衛署藥製字第035479號</td><td>必滅炎菌錠４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第037447號</td><td>炎平錠４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2009/10/21</td></tr><tr><td>衛署藥製字第040652號</td><td>克菌錠４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2011/09/15</td></tr><tr><td>衛署藥製字第041173號</td><td>必培美得錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2018/08/09</td></tr><tr><td>衛署藥製字第043702號</td><td>舒泌膠囊〝厚生〞</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2016/09/10</td></tr><tr><td>衛署藥製字第049031號</td><td>"誠陽" 優比泌膠囊 400 毫克(匹培咪迪)</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2023/07/04</td></tr><tr><td>衛署藥輸字第007285號</td><td>圖留康酸三水化合物</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第009040號</td><td>比別米酸三結晶水</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第010873號</td><td>保泌道膠囊</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>1988/04/27</td></tr><tr><td>衛署藥輸字第011196號</td><td>佑樂重通膠囊４００公絲</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1986/12/23</td></tr><tr><td>衛署藥輸字第011200號</td><td>必德美酸三水合物</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第011255號</td><td>比派美酸三殲化合物粉劑</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第011274號</td><td>優比泌膠囊２００公絲</td><td>PIPEMIDIC ACID</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第011275號</td><td>優比泌膠囊４００公絲</td><td>PIPEMIDIC ACID</td><td>2004/05/11</td></tr><tr><td>衛署藥輸字第013204號</td><td>匹培咪迪粉劑</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第014582號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1995/02/15</td></tr><tr><td>衛署藥輸字第015023號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015473號</td><td>佑樂重通膠囊４００公絲</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2004/05/24</td></tr><tr><td>衛署藥輸字第015855號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015927號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第016458號</td><td>保泌道膠囊</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第016539號</td><td>三水化匹培咪迪粉劑”辛蒲”　　　　　　　　　　　　　　　　　 P</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017313號</td><td>三水匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第017786號</td><td>特泌寧錠</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018140號</td><td>諾利膠囊</td><td>PIPEMIDIC ACID</td><td>1996/07/24</td></tr><tr><td>衛署藥輸字第018841號</td><td>欣得健膜衣錠</td><td>Pipemidic Acid Hydrate</td><td>2018/03/09</td></tr><tr><td>衛署藥輸字第019372號</td><td>三水化匹培米迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019575號</td><td>無水匹培朱迪</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第022965號</td><td>必德美酸三水合物</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2010/05/31</td></tr><tr><td>衛署藥陸輸字第000040號</td><td>口比口蜜啶酸</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2015/05/22</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（45 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第022570號</td><td>可尿淨錠（匹培咪迪）</td><td>PIPEMIDIC ACID</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第023166號</td><td>"濟時" 倍得寧膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2019/08/02</td></tr><tr><td>衛署藥製字第023217號</td><td>去炎膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2013/10/11</td></tr><tr><td>衛署藥製字第023290號</td><td>富保康膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第023369號</td><td>匹培克膠囊（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第024881號</td><td>康腎膠囊２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2018/11/07</td></tr><tr><td>衛署藥製字第025486號</td><td>必得康錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1992/02/13</td></tr><tr><td>衛署藥製字第025543號</td><td>尿疾克膠囊２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1992/09/24</td></tr><tr><td>衛署藥製字第025927號</td><td>必培美得錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1991/06/03</td></tr><tr><td>衛署藥製字第026543號</td><td>必普克錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第027281號</td><td>普能淨膠囊２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第027490號</td><td>流清膠囊４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1992/03/13</td></tr><tr><td>衛署藥製字第028302號</td><td>排泌菌膜衣錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2016/09/08</td></tr><tr><td>衛署藥製字第029749號</td><td>倍力克膜衣錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第033372號</td><td>必培美得錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1997/09/23</td></tr><tr><td>衛署藥製字第035479號</td><td>必滅炎菌錠４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第037447號</td><td>炎平錠４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2009/10/21</td></tr><tr><td>衛署藥製字第040652號</td><td>克菌錠４００公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2011/09/15</td></tr><tr><td>衛署藥製字第041173號</td><td>必培美得錠２５０公絲（匹培咪迪）</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2018/08/09</td></tr><tr><td>衛署藥製字第043702號</td><td>舒泌膠囊〝厚生〞</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2016/09/10</td></tr><tr><td>衛署藥製字第049031號</td><td>"誠陽" 優比泌膠囊 400 毫克(匹培咪迪)</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2023/07/04</td></tr><tr><td>衛署藥輸字第007285號</td><td>圖留康酸三水化合物</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第009040號</td><td>比別米酸三結晶水</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第010873號</td><td>保泌道膠囊</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>1988/04/27</td></tr><tr><td>衛署藥輸字第011196號</td><td>佑樂重通膠囊４００公絲</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1986/12/23</td></tr><tr><td>衛署藥輸字第011200號</td><td>必德美酸三水合物</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第011255號</td><td>比派美酸三殲化合物粉劑</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第011274號</td><td>優比泌膠囊２００公絲</td><td>PIPEMIDIC ACID</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第011275號</td><td>優比泌膠囊４００公絲</td><td>PIPEMIDIC ACID</td><td>2004/05/11</td></tr><tr><td>衛署藥輸字第013204號</td><td>匹培咪迪粉劑</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第014582號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1995/02/15</td></tr><tr><td>衛署藥輸字第015023號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015473號</td><td>佑樂重通膠囊４００公絲</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2004/05/24</td></tr><tr><td>衛署藥輸字第015855號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015927號</td><td>匹培咪迪</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第016458號</td><td>保泌道膠囊</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第016539號</td><td>三水化匹培咪迪粉劑”辛蒲”　　　　　　　　　　　　　　　　　 P</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017313號</td><td>三水匹培咪迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第017786號</td><td>特泌寧錠</td><td>PIPEMIDIC ACID (TRIHYDRATE)</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018140號</td><td>諾利膠囊</td><td>PIPEMIDIC ACID</td><td>1996/07/24</td></tr><tr><td>衛署藥輸字第018841號</td><td>欣得健膜衣錠</td><td>Pipemidic Acid Hydrate</td><td>2018/03/09</td></tr><tr><td>衛署藥輸字第019372號</td><td>三水化匹培米迪</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019575號</td><td>無水匹培朱迪</td><td>PIPEMIDIC ACID ANHYDROUS</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第022965號</td><td>必德美酸三水合物</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2010/05/31</td></tr><tr><td>衛署藥陸輸字第000040號</td><td>口比口蜜啶酸</td><td>PIPEMIDIC ACID TRIHYDRATE</td><td>2015/05/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
-### 核准適應症
-- 由綠膿菌、大腸菌、變形桿菌、克雷白氏桿菌等引起之：
-  - 泌尿道感染：腎盂腎炎、腎盂炎、膀胱炎、尿道炎、前列腺炎
-  - 腸道感染：細菌性赤痢、腸炎
-  - 耳鼻喉感染：中耳炎、副鼻腔炎
+<!-- TFDA_LICENSE_TABLE -->
+
+---
 
 ## 安全性考量
 
-### 藥物交互作用
-DDInter 資料庫未發現 Pipemidic acid 的藥物交互作用資料。
+安全性資訊請參考原廠仿單。
 
-### 注意事項
-1. **喹諾酮類通用警語**：可能導致肌腱炎及肌腱斷裂風險
-2. **中樞神經系統影響**：可能引起頭暈、頭痛
-3. **光敏感性**：使用期間應避免過度日曬
-4. **抗藥性問題**：第一代喹諾酮抗菌譜較窄，目前已較少使用
+---
 
 ## 結論與下一步
 
-### 預測價值評估
+**決策：Hold**
 
-| 預測適應症 | 證據等級 | 文獻支持 | 臨床試驗 | 總評 |
-|------------|----------|----------|----------|------|
-| 心臟病 | L5 | 1 篇(間接) | 0 | 極弱 |
-| Laubry-Pezzi 症候群 | L5 | 0 | 0 | 無支持 |
-| Pierre Robin 症候群 | L5 | 0 | 0 | 無支持 |
-| 其他遺傳疾病 | L5 | 0 | 0 | 無支持 |
+**理由：**
+- 預測僅來自模型分數，沒有臨床試驗，唯一的文獻與心臟疾病無關，且藥物的抗菌機轉與心臟疾病之間沒有已知關聯。
+- 缺乏作用機轉與安全性資料，現階段不適合推進。
 
-### 建議
-1. TxGNN 預測的新適應症缺乏機轉合理性及文獻支持，不建議進一步探索
-2. 此藥物預測可能代表模型的假陽性，需謹慎解讀
-3. 建議維持現有抗菌適應症使用
-
----
-*本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
-*產生日期：2026-02-11*
+**若要推進需要：**
+- 補充詳細的作用機轉資料，並提出藥物與心臟疾病之間合理的生物學假說
+- 進行前臨床（體外或動物）研究驗證心臟相關效果
+- 取得完整的安全性資料（警語、禁忌、藥物交互作用），並評估喹諾酮類對心血管（如 QT 延長）的潛在影響
+- 若仍要探索，建議重新評估預測清單中是否有與抗菌或感染更相關的候選適應症
 
 <!-- review:begin log -->
 

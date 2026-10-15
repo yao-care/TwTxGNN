@@ -2,7 +2,7 @@
 layout: default
 title: Tolmetin
 parent: 僅模型預測 (L5)
-nav_order: 262
+nav_order: 284
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,75 +29,43 @@ indication_count: 10
 
 </div>
 
-# Tolmetin (妥美汀) - 藥師評估報告
+# Tolmetin：從類風濕性關節炎到肢端中段發育不良（Hunter-Thompson 型）
 
 ## 一句話總結
 
-Tolmetin 是一種非類固醇抗發炎藥 (NSAID)，TxGNN 預測多項罕見骨骼發育疾病，但均缺乏臨床試驗與文獻支持，不建議用於這些預測適應症。
-
----
+Tolmetin（妥美汀）是一種非類固醇消炎止痛藥（NSAID），原本用於類風濕性關節炎、骨關節炎、僵直性脊椎炎等發炎性關節疾病的症狀緩解。
+TxGNN 模型預測它可能對**肢端中段發育不良（Hunter-Thompson 型，acromesomelic dysplasia, Hunter-Thompson type）**有效，
+但目前**沒有任何臨床試驗與文獻**支持，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Tolmetin (妥美汀) |
-| DrugBank ID | DB00500 |
-| 原適應症 | 類風濕性關節炎、骨關節炎、僵直性脊椎炎、急性痛風 |
-| 預測新適應症 | 肢端中段發育不全、短軀幹發育不良、肌硬化症、假性軟骨發育不全等罕病 |
-| 最高 TxGNN 分數 | 0.9998 (Hunter-Thompson 型肢端中段發育不全，排名 887) |
-| 證據等級 | 所有預測適應症均無臨床試驗與文獻支持 |
-| 台灣上市狀態 | 有效許可證（利達、恆信、應元等廠） |
+| 原適應症 | 類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風 |
+| 預測新適應症 | 肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
+| TxGNN 預測分數 | 99.98% |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 14 張（有效單方 3／有效複方 0／已註銷 11） |
+| 建議決策 | Hold |
 
----
+## 為什麼這個預測合理？
 
-## 為什麼預測合理？
+目前缺乏詳細的作用機轉資料。根據已知資訊，Tolmetin 是非選擇性 COX 抑制劑，具有消炎與止痛作用，在類風濕性關節炎等發炎性關節疾病中的症狀緩解效果已有核准適應症。
 
-### 機轉分析
+然而，Hunter-Thompson 型肢端中段發育不良是一種與 CDMP1/GDF5 相關的罕見遺傳性骨骼發育異常。Tolmetin 的 COX 抑制作用與此疾病的致病機轉之間，**沒有已知的機轉連結**。此預測完全來自 TxGNN 圖譜分數，高分並不等於有生物學或臨床上的合理性。
 
-Tolmetin 是非選擇性 COX 抑制劑，具有抗發炎、鎮痛、解熱作用。TxGNN 預測的適應症多為罕見骨骼發育異常疾病：
+此外，同一份預測清單的前幾名多為罕見遺傳性骨骼或發育疾病（如 brachyolmia、pseudoachondroplasia 等），多數缺乏機轉依據。相對而言，排名較後但與原適應症較相關的項目，例如類風濕性結節病、類風濕因子陽性多關節型幼年特發性關節炎、脊椎關節病變，在機轉上較為合理，但同樣沒有任何試驗或文獻證據。
 
-| 預測適應症 | TxGNN 分數 | 疾病特性 |
-|-----------|-----------|---------|
-| Hunter-Thompson 型肢端中段發育不全 | 0.9998 | GDF5 基因突變，軟骨發育異常 |
-| 短軀幹發育不良-牙釉質發育不全症候群 | 0.9998 | LTBP3 基因突變 |
-| 肌硬化症 | 0.9998 | 肌肉進行性纖維化 |
-| 假性軟骨發育不全 | 0.9995 | COMP 基因突變 |
+## 臨床試驗證據
 
-### 預測限制
-
-1. **機轉不符**：NSAID 無法修正基因突變導致的發育異常
-2. **疾病本質**：這些疾病是結構性/發育性問題，非發炎性疾病
-3. **可能原因**：這些疾病常伴有關節疼痛，可能造成知識圖譜關聯
-
-### 合理的症狀緩解應用
-
-部分預測可能反映的是：
-- 骨骼發育異常患者常有關節疼痛
-- NSAID 可用於這些患者的症狀緩解
-- 但這不等於「治療」該疾病本身
-
----
-
-## 臨床試驗
-
-**所有預測適應症均無相關臨床試驗**
-
-在 ClinicalTrials.gov 與 ICTRP 未找到 Tolmetin 用於任何預測適應症的臨床試驗。
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-**所有預測適應症均無相關 PubMed 文獻**
+目前無相關文獻。
 
-未發現任何探討 Tolmetin 用於這些罕見骨骼發育疾病的學術文獻。
-
----
-
-## 台灣上市情形
-
-Tolmetin 在台灣有有效許可證，但多數已註銷：
+## 台灣上市資訊
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
@@ -114,91 +82,34 @@ Tolmetin 在台灣有有效許可證，但多數已註銷：
 | 衛署藥製字第055941號 | “應元”遠痛錠 200 毫克 | 錠劑 | 應元化學製藥股份有限公司 | 2031/02/21 | 類風濕性關節炎、骨關節炎(關節痛、退化性關節炎)、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風。 |
 
 <details><summary><strong>已註銷</strong>（11 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第030056號</td><td>妥力定錠２００公絲（妥美汀）</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2013/09/30</td></tr><tr><td>衛署藥輸字第006365號</td><td>妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1987/12/18</td></tr><tr><td>衛署藥輸字第008441號</td><td>一－甲基５－對位－甲苯基/喀２－醋酸鈉二水合物</td><td>TOLMETIN SODIUM</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第008609號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM)</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第014881號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015258號</td><td>施樂妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1989/08/29</td></tr><tr><td>衛署藥輸字第017293號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>1993/02/12</td></tr><tr><td>衛署藥輸字第017649號</td><td>妥美汀</td><td>TOLMETIN SODIUM DIHYDRATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第019628號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>2004/07/15</td></tr><tr><td>衛署藥輸字第021930號</td><td>妥力定膠囊２００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN、TOLMETIN SODIUM DIHYDRATE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第021935號</td><td>妥力定膠４００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN、TOLMETIN SODIUM DIHYDRATE</td><td>2005/06/15</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第030056號</td><td>妥力定錠２００公絲（妥美汀）</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2013/09/30</td></tr><tr><td>衛署藥輸字第006365號</td><td>妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1987/12/18</td></tr><tr><td>衛署藥輸字第008441號</td><td>一－甲基５－對位－甲苯基/喀２－醋酸鈉二水合物</td><td>TOLMETIN SODIUM</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第008609號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM)</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第014881號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015258號</td><td>施樂妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1989/08/29</td></tr><tr><td>衛署藥輸字第017293號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>1993/02/12</td></tr><tr><td>衛署藥輸字第017649號</td><td>妥美汀</td><td>TOLMETIN SODIUM DIHYDRATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第019628號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>2004/07/15</td></tr><tr><td>衛署藥輸字第021930號</td><td>妥力定膠囊２００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN、TOLMETIN SODIUM DIHYDRATE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第021935號</td><td>妥力定膠４００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN SODIUM DIHYDRATE、TOLMETIN</td><td>2005/06/15</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
-### 已註銷許可證
-
-多數進口製劑（嬌生妥力定系列）已於 2000 年代初期陸續註銷。
-
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 藥物交互作用
+- **藥物交互作用**：共查得 153 筆交互作用，以下為部分範例：
+  - 中度：Hydrocortisone、Dexamethasone、Betamethasone、Triamcinolone、Budesonide（皮質類固醇類）；Acetylsalicylic acid（阿斯匹靈）；Metformin；Glimepiride、Chlorpropamide（磺醯脲類降血糖藥）；Mesalazine、Balsalazide；Naltrexone；Potassium citrate、Potassium bicarbonate；Picosulfuric acid；Polyethylene glycol（含電解質）
+  - 輕度：Famotidine、Ranitidine、Cimetidine、Linaclotide
+- **知識圖譜顯示的潛在禁忌疾病**（來自 TxGNN 知識圖譜的藥物—疾病禁忌關聯，非仿單文字）：高血壓、肝衰竭、肝臟疾病、腎臟疾病、膽囊疾病、活動性消化性潰瘍、血液凝固疾病、心肌梗塞、冠狀動脈血栓、心血管疾病、心臟病、血紅蛋白病變等。
 
-| 嚴重度 | 交互作用藥物 | 臨床意義 |
-|--------|-------------|---------|
-| Moderate | Acetylsalicylic acid | 增加胃腸道出血風險 |
-| Moderate | 類固醇類 | 增加胃腸道副作用 |
-| Moderate | Metformin | 可能影響腎功能 |
-| Moderate | Vancomycin | 增加腎毒性風險 |
-| Moderate | Warfarin | 增強抗凝血作用 |
-| Minor | H2 受體拮抗劑 | 可能降低 Tolmetin 吸收 |
+其餘警語與禁忌症，請參考原廠仿單。
 
-### NSAID 類別警告
+## 結論與下一步
 
-1. **心血管風險**：
-   - 增加心肌梗塞、中風風險
-   - 長期使用風險更高
+**決策：Hold**
 
-2. **胃腸道風險**：
-   - 潰瘍、出血、穿孔
-   - 老年人風險較高
+**理由：**
+- 此預測僅來自模型分數，沒有任何臨床試驗或文獻佐證（證據等級 L5），且 Tolmetin 的 COX 抑制機轉與 CDMP1/GDF5 相關骨骼發育異常之間沒有已知連結。
+- 該藥物的 NSAID 類安全性疑慮（心血管、胃腸道、腎臟、肝臟等）對罕見遺傳性骨骼疾病的長期使用並不划算。
 
-3. **腎臟風險**：
-   - 可能導致急性腎損傷
-   - 慢性使用可能影響腎功能
-
-### 使用注意事項
-
-1. 有心血管疾病史者慎用
-2. 有消化道潰瘍史者慎用
-3. 腎功能不全者需調整劑量
-4. 避免與其他 NSAID 併用
-
----
-
-## 結論
-
-### 預測適應症評估
-
-| 適應症 | TxGNN 分數 | 臨床試驗 | 文獻 | 建議 |
-|-------|-----------|---------|------|------|
-| Hunter-Thompson 型肢端中段發育不全 | 0.9998 | 無 | 無 | **不建議** |
-| 短軀幹發育不良-牙釉質發育不全 | 0.9998 | 無 | 無 | **不建議** |
-| 肌硬化症 | 0.9998 | 無 | 無 | **不建議** |
-| 假性軟骨發育不全 | 0.9995 | 無 | 無 | **不建議** |
-| 類風濕結節症 | 0.9976 | 無 | 無 | 可考慮（症狀緩解） |
-| RF 陽性多關節型幼年特發性關節炎 | 0.9975 | 無 | 無 | 可考慮（同類藥物有證據） |
-
-### 臨床建議
-
-1. **不建議用於預測的罕見骨骼發育疾病**：
-   - 這些疾病無法被 NSAID「治療」
-   - 缺乏任何臨床證據支持
-
-2. **維持現有適應症使用**：
-   - 類風濕性關節炎
-   - 骨關節炎
-   - 僵直性脊椎炎
-   - 急性痛風
-
-3. **症狀緩解考量**：
-   - 骨骼發育異常患者若有關節疼痛，可考慮使用 NSAID 類藥物緩解症狀
-   - 但這屬於一般止痛用途，非針對疾病本身
-
-4. **TxGNN 預測解讀**：
-   - 高分數可能反映疾病與藥物在知識圖譜中的關聯（如共同的疼痛症狀）
-   - 不等於治療效果的預測
-   - 罕見疾病的預測需更謹慎解讀
-
----
-
-*報告產生日期：2026-02-11*
-*資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
+**若要推進需要：**
+- 補齊 Tolmetin 的作用機轉資料，並釐清與 GDF5 訊號路徑或軟骨發育的可能關聯。
+- 進行系統性文獻與臨床試驗檢索，確認是否有任何前臨床或病例層級的證據。
+- 若仍想探索，建議優先評估與原適應症較相關的預測（如類風濕因子陽性多關節型幼年特發性關節炎、脊椎關節病變、類風濕性結節病），這些在機轉上較合理。
+- 補充仿單層級的警語與禁忌症資料，並評估長期使用的風險效益。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

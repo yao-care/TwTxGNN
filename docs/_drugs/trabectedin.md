@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trabectedin
-parent: 僅模型預測 (L5)
-nav_order: 264
-evidence_level: L5
+parent: 高證據等級 (L1-L2)
+nav_order: 286
+evidence_level: L2
 indication_count: 1
 ---
 
 # Trabectedin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,52 +29,55 @@ indication_count: 1
 
 </div>
 
-# Trabectedin：從軟組織肉瘤到女性乳腺癌
+# Trabectedin：從脂肪肉瘤／平滑肌肉瘤到女性乳癌
 
 ## 一句話總結
 
-Trabectedin 原本用於治療無法切除或轉移性脂肪肉瘤及平滑肌肉瘤。
-TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有效，
-目前有 **2 個臨床試驗**和 **多篇文獻**支持這個方向。
+Trabectedin 原本用於治療曾接受 anthracycline 療程、無法切除或轉移性的脂肪肉瘤與平滑肌肉瘤。
+TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效，
+目前有 **1 個臨床試驗**和 **20 篇文獻**支持這個方向，其中包含數項針對乳癌的 Phase 2 研究。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 無法切除或轉移性脂肪肉瘤/平滑肌肉瘤 |
-| 預測新適應症 | 女性乳腺癌 (female breast carcinoma) |
+| 原適應症 | 無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)，且曾接受一種含 anthracycline 療程的病人 |
+| 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
 | TxGNN 預測分數 | 99.73% |
-| 證據等級 | 待評估 |
-| 台灣上市 | 已上市 |
+| 證據等級 | L2 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
 
-Trabectedin 是一種源自海洋生物的抗腫瘤藥物，主要透過影響轉錄調控抑制癌細胞增殖。其獨特的作用機轉包括：
+目前缺乏來自 DrugBank 的詳細作用機轉資料，但根據本報告彙整的文獻，Trabectedin 會結合 DNA 小溝，並干擾轉錄偶聯的核苷酸切除修復 (transcription-coupled nucleotide excision repair)，造成 DNA 雙股斷裂。它也會減少腫瘤相關巨噬細胞 (TAM)，進而調節腫瘤微環境。
 
-1. **DNA 修復系統干擾**：影響轉錄耦合核苷酸切除修復及同源重組修復 (HRR)
-2. **腫瘤微環境調節**：減少腫瘤相關巨噬細胞 (TAM) 數量
-3. **BRCA 缺陷敏感性**：對 BRCA1/2 突變的腫瘤具有特殊療效
+這個機轉與乳癌有合理的連結。同源重組缺陷 (HR-deficient) 的腫瘤，例如 BRCA 突變者，對 Trabectedin 特別敏感；而三陰性乳癌 (TNBC) 的免疫抑制性骨髓細胞，也可能成為其調節微環境作用的標的。文獻指出，Trabectedin 在 BRCA1/2 種系突變的轉移性乳癌中已有 Phase 2 研究，臨床前研究也顯示它能增強 IL-12 在三陰性乳癌中的抗腫瘤效果。
 
-這些機轉在乳腺癌中同樣具有臨床意義，特別是 BRCA 突變的乳腺癌患者。
+原適應症（軟組織肉瘤）與乳癌的相似性目前尚無明確評估，因此這項預測較偏向以機轉為基礎的假說，尚需臨床資料驗證。
 
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT03470805](https://clinicaltrials.gov/study/NCT03470805) | Phase 2 | COMPLETED | 9 | 評估 Olaparib 作為 Trabectedin-PLD 療程後維持治療在復發性卵巢癌中的效果 |
-| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | Phase 2 | COMPLETED | 76 | 評估 Trabectedin 對 QT/QTc 間隔的影響 |
+| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | Phase 2 | 完成 | 76 | 單盲、安慰劑對照的 QT 間期研究，評估單次給予 Trabectedin 對晚期實體腫瘤病人心電圖 QT/QTc 的影響；屬安全性研究，並非乳癌專屬的療效試驗 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [26592307](https://pubmed.ncbi.nlm.nih.gov/26592307/) | 2016 | Review | Expert Opin Investig Drugs | 討論 Trabectedin 在乳腺癌中的潛在應用 |
-| [25239225](https://pubmed.ncbi.nlm.nih.gov/25239225/) | 2014 | Phase II RCT | Clin Breast Cancer | 評估 Trabectedin 單藥治療晚期乳腺癌的療效與安全性 |
-| [27710871](https://pubmed.ncbi.nlm.nih.gov/27710871/) | 2016 | Review | Cancer Treat Rev | 探討 Trabectedin 在 BRCA 缺陷患者中的化療選擇 |
-| [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | Phase II | Clin Breast Cancer | 根據 XPG 基因表達評估 Trabectedin 在 HR+/HER2- 晚期乳腺癌中的療效 |
-| [38863768](https://pubmed.ncbi.nlm.nih.gov/38863768/) | 2024 | Review | Drug Des Devel Ther | 聚焦 Trabectedin 在卵巢癌中的應用及 BRCA 突變情況 |
+| [25239225](https://pubmed.ncbi.nlm.nih.gov/25239225/) | 2014 | Phase 2 | Clin Breast Cancer | 多中心隨機 Phase 2 研究，比較兩種給藥方案，評估 Trabectedin 單藥用於 anthracycline 與 taxane 治療後晚期乳癌的療效與安全性 |
+| [24692579](https://pubmed.ncbi.nlm.nih.gov/24692579/) | 2014 | Phase 2 | Ann Oncol | 評估 Trabectedin 用於 BRCA1/2 種系突變、已接受過治療的轉移性乳癌的療效與安全性 |
+| [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | Phase 2 | Clin Breast Cancer | 依 XPG 基因表現，評估 Trabectedin 用於 HR 陽性、HER2 陰性晚期乳癌的療效 |
+| [19114300](https://pubmed.ncbi.nlm.nih.gov/19114300/) | 2009 | Phase 1 | Eur J Cancer | Trabectedin 合併 doxorubicin 用於晚期軟組織肉瘤與乳癌的可行性及藥動學研究（38 位病人，其中 9 位為乳癌） |
+| [26592307](https://pubmed.ncbi.nlm.nih.gov/26592307/) | 2016 | Review | Expert Opin Investig Drugs | 回顧 Trabectedin 用於乳癌的機轉與潛力，包括減少腫瘤相關巨噬細胞的作用 |
+| [27710871](https://pubmed.ncbi.nlm.nih.gov/27710871/) | 2016 | Review | Cancer Treat Rev | 探討 Trabectedin 作為 BRCA 缺陷病人化療選項的角色 |
+| [18410797](https://pubmed.ncbi.nlm.nih.gov/18410797/) | 2008 | Review | Semin Oncol | 回顧 anthracycline 及 taxane 難治性轉移性乳癌的新興藥物 |
+| [19496709](https://pubmed.ncbi.nlm.nih.gov/19496709/) | 2009 | Review | Expert Rev Anticancer Ther | 回顧 Trabectedin 在軟組織肉瘤的應用，並提及其在卵巢癌與乳癌的單藥活性；常見毒性為血液學與肝臟毒性 |
+| [39777457](https://pubmed.ncbi.nlm.nih.gov/39777457/) | 2025 | 動物研究 | Cancer Immunol Res | Trabectedin 可增強 IL-12 對三陰性乳癌的抗腫瘤效果 |
+| [24941346](https://pubmed.ncbi.nlm.nih.gov/24941346/) | 2014 | 細胞研究 | Eur Cytokine Netw | Trabectedin 對乳癌細胞株及血管內皮細胞具抗血管新生作用 |
+| [23792433](https://pubmed.ncbi.nlm.nih.gov/23792433/) | 2013 | 細胞研究 | Toxicol Lett | Trabectedin 在不同基因型的乳癌細胞株中誘導細胞凋亡的情形不同 |
 
 ## 台灣上市資訊
 
@@ -92,35 +95,38 @@ Trabectedin 是一種源自海洋生物的抗腫瘤藥物，主要透過影響�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 抗腫瘤抗生素 (海洋來源) |
-| 骨髓抑制風險 | 高度 |
-| 致吐性分級 | 中度至高度 |
-| 監測項目 | CBC（含分類）、肝腎功能、CK |
-| 處置防護 | 需依細胞毒性藥物處置規範操作 |
-| 特殊注意 | 可能引起橫紋肌溶解症，需監測肌酸激酶 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（海洋來源的 DNA 結合型烷化類抗腫瘤藥物） |
+| 骨髓抑制風險 | 中至高（文獻指出約 50% 病人出現 3–4 級嗜中性白血球減少，約 20% 出現血小板減少） |
+| 致吐性分級 | 請參考原廠仿單 |
+| 監測項目 | CBC（含分類）、肝功能（文獻指出毒性以血液學與肝臟為主） |
+| 處置防護 | 請參考原廠仿單，並依細胞毒性藥物處置規範操作 |
 
 ## 安全性考量
 
-- **肝毒性**：需定期監測肝功能
-- **骨髓抑制**：可能導致嗜中性白血球減少、血小板減少
-- **橫紋肌溶解症**：罕見但嚴重的不良反應
-- **心臟毒性**：需監測 QT 間隔
+- **藥物交互作用**：本報告彙整的資料顯示共有 450 筆潛在交互作用。其中被列為 **Major** 的包括 Clarithromycin；其餘多為 Moderate，例如 Aprepitant、Dexamethasone、Cimetidine、Metronidazole、Levofloxacin、Simvastatin、Rosuvastatin 等。使用時須留意併用藥物，尤其是會影響肝臟代謝酵素的藥物。
+- **心臟安全性**：已有專門的 QT 間期研究（NCT00786838、PMID 21739119），可作為心電圖安全性評估的參考。
+
+其餘警語與禁忌症資料不足，請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**
 
 **理由：**
-Trabectedin 在乳腺癌中的多項臨床試驗及文獻顯示其潛在療效，特別是對 BRCA 突變患者。其獨特的作用機轉與現有乳腺癌治療藥物不同，可能提供新的治療選擇。
+- 已有數項針對乳癌的 Phase 2 研究（含 BRCA1/2 突變族群與 anthracycline／taxane 治療後的晚期乳癌），機轉上也有合理依據，TxGNN 分數很高（99.73%）。但缺乏已完成的 Phase 3 RCT，且唯一登記的臨床試驗屬 QT 安全性研究，並非乳癌療效試驗，因此證據等級為 L2，宜在限定族群與嚴格監測下推進。
 
 **若要推進需要：**
-- 針對乳腺癌的大型隨機對照試驗
-- BRCA 突變狀態的生物標記篩選策略
-- 與現有乳腺癌治療方案的比較研究
+- 取得並確認各 Phase 2 乳癌研究的主要療效數據（反應率、無惡化存活期），並與現行標準治療比較
+- 鎖定最可能受益的族群（如 BRCA1/2 突變、HR 缺陷或三陰性乳癌）
+- 補充 DrugBank 的作用機轉資料及原廠仿單的警語與禁忌症
+- 規劃骨髓抑制與肝毒性的監測計畫，並審視與 CYP3A4 相關藥物（如 Clarithromycin）的併用風險
+- 評估是否需設計前瞻性的隨機對照試驗，以取得更高等級的證據
 
 <!-- review:begin log -->
 

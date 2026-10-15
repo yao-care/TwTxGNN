@@ -2,7 +2,7 @@
 layout: default
 title: Iopromide
 parent: 僅模型預測 (L5)
-nav_order: 140
+nav_order: 151
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,20 +29,19 @@ indication_count: 10
 
 </div>
 
-# Iopromide：從電腦斷層造影到骨關節炎易感性
+# Iopromide：從影像診斷（電腦斷層攝影、血管造影等）到退化性關節炎（Osteoarthritis）
 
 ## 一句話總結
 
-Iopromide（優照維斯）是非離子型碘化顯影劑，原本用於電腦斷層攝影、血管造影術及各類放射診斷程序。
-TxGNN 模型預測它可能對**骨關節炎易感性 (Osteoarthritis Susceptibility)** 有效，
-但目前**無臨床試驗**且**無相關文獻**支持這個治療方向。
+Iopromide 是含碘的非離子型 X 光對比劑，原本用於電腦斷層攝影、血管造影、尿路造影、關節攝影及成人對比增強乳房攝影等影像診斷。
+TxGNN 模型預測它可能對**退化性關節炎易感性 (Osteoarthritis Susceptibility)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測，應視為知識圖譜的推論結果。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影及心血管造影 |
-| 預測新適應症 | 骨關節炎易感性 (Osteoarthritis Susceptibility) |
+| 原適應症 | 電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影（特別是心血管造影）及身體空腔部份（如關節攝影、廔管造影）攝影，但脊椎造影、腦室攝影及腦池攝影除外；亦適用於成人對比增強乳房攝影 |
+| 預測新適應症 | 退化性關節炎易感性 (Osteoarthritis Susceptibility) |
 | TxGNN 預測分數 | 99.57% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
@@ -51,11 +50,11 @@ TxGNN 模型預測它可能對**骨關節炎易感性 (Osteoarthritis Susceptibi
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Iopromide 是非離子型碘化顯影劑（nonionic iodinated contrast medium），於影像診斷中經靜脈注射或直接注入體腔（包含關節腔）以增強 X 光或 CT 的對比度，本身不具藥理治療活性。
+目前缺乏詳細的作用機轉資料。就已知資訊，Iopromide 是含碘的非離子型放射線對比劑，靠碘對 X 光的衰減來顯影，並非透過藥理作用治療疾病。目前沒有已知的抗發炎、免疫調節或軟骨保護機轉，可與遺傳性退化性關節炎易感性連結。
 
-TxGNN 的預測可能源自知識圖譜中的間接連結：Iopromide 在關節攝影（arthrography）中直接進入關節腔，因此在圖譜中與「骨骼/關節疾病」節點存在解剖位置上的共用節點路徑，模型據此推論其與骨關節炎易感性的關聯。
+這個預測較可能源自知識圖譜的關聯假象：Iopromide 在臨床上用於關節攝影，因此在圖譜中與關節疾病相連，但這反映的是「用於關節影像檢查」，而不是「對關節疾病有治療效果」。
 
-然而，這是**診斷用途的地理重疊，而非治療機轉的生物學合理性**。目前無任何已知機轉支持 Iopromide 對軟骨代謝、滑膜微環境、軟骨下骨重塑或骨關節炎易感相關基因通路（如 GDF5、ALDH1A2 等）具有任何治療或保護作用。此預測被判定為知識圖譜拓樸鄰近性（topological proximity）所產生的假陽性訊號。
+排名其後的預測也有同樣特徵，包括退化性關節炎、類風濕性關節炎、短軀幹症 (brachyolmia)、肢中發育不良（Hunter-Thompson 型）、禿髮、肌硬化症、血紅素病變及假性軟骨發育不全。這些預測目前都沒有臨床試驗或文獻佐證，機轉上也找不到合理連結，因此本報告以排名第一者為主要評估對象。
 
 ## 臨床試驗證據
 
@@ -83,29 +82,34 @@ TxGNN 的預測可能源自知識圖譜中的間接連結：Iopromide 在關節�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-**藥物交互作用**（資料庫共收錄 202 筆，以下列出 Major 等級交互作用）：
+- **藥物交互作用**：資料庫共收錄 202 筆交互作用。列為 Major 的包括：
+  - Metformin
+  - Amphotericin B 及其脂質劑型
+  - Mesalazine、Balsalazide、Olsalazine、Sulfasalazine
+  - Vancomycin
+  - 胺基糖苷類（Kanamycin、Neomycin、Streptomycin）
+  - Polymyxin B
+- Mannitol 為 Moderate。
+- Clotrimazole、Acetylsalicylic acid、Bupropion、Dexamethasone、Pantoprazole 的等級為 Unknown。
 
-| 交互作用藥物 | 等級 | 備註 |
-|------------|------|------|
-| Metformin | Major | 顯影劑使用前後需暫停，以避免顯影劑誘發的腎毒性引發乳酸酸中毒 |
-| Amphotericin B（含 lipid complex、cholesteryl sulfate、liposomal 劑型） | Major | 兩藥合用可能加重腎毒性 |
-| Vancomycin | Major | 可能增加腎毒性風險 |
-| Mesalazine / Balsalazide / Olsalazine / Sulfasalazine | Major | 5-ASA 類藥物與顯影劑合用的腎功能交互作用 |
-| Kanamycin / Neomycin / Streptomycin / Polymyxin B | Major | 胺基醣苷類與多黏菌素類抗生素可能疊加腎毒性 |
+其他警語與禁忌症請參考原廠仿單。此外，碘化對比劑用於部分血紅素病變（如鐮刀型貧血）時有安全性考量，不支持將其作為這類疾病的治療。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-Iopromide 為純診斷用途的顯影劑，無任何已知治療性藥理機轉。TxGNN 分數達 99.57% 但此高分反映的是知識圖譜拓樸結構（關節攝影與關節疾病節點的共鄰居），而非真實的生物活性關聯。證據等級僅為 L5（純模型預測），無臨床試驗或文獻支持，不具備推進再利用研究的生物學依據。
+- 預測僅來自 TxGNN 模型分數，沒有任何臨床試驗或文獻支持（證據等級 L5）。
+- Iopromide 是診斷用對比劑，沒有已知的疾病修飾機轉，預測很可能是因「關節攝影」用途而產生的圖譜假象。
 
 **若要推進需要：**
-- 提出可驗證的藥理學機轉假說（例如：碘化苯環結構是否對軟骨細胞具有任何直接生物活性）
-- 前臨床細胞/動物實驗以排除假陽性可能
-- 分析 TxGNN 知識圖譜中此預測的完整節點路徑，確認是否為非特異性拓樸連結所致
+- 取得作用機轉相關資料，確認是否有任何與關節軟骨或發炎相關的生物學作用。
+- 進行系統性文獻與臨床試驗檢索，確認是否有任何實際研究支持。
+- 在沒有上述證據前，不建議投入進一步的臨床開發資源。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

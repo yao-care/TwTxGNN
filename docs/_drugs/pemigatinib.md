@@ -2,7 +2,7 @@
 layout: default
 title: Pemigatinib
 parent: 僅模型預測 (L5)
-nav_order: 193
+nav_order: 209
 evidence_level: L5
 indication_count: 10
 ---
@@ -33,17 +33,15 @@ indication_count: 10
 
 ## 一句話總結
 
-Pemigatinib（達伯坦錠）是一種口服選擇性 FGFR 抑制劑，在台灣核准用於帶有 FGFR2 融合或重排的不可切除局部晚期或轉移性膽管癌。
+Pemigatinib（達伯坦）是一種口服 FGFR 抑制劑，原本用於治療具 FGFR2 融合或重排的晚期膽管癌。
 TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)** 有效，
-但目前**尚無任何臨床試驗或文獻**直接支持此方向，證據基礎薄弱。
-
----
+但目前**沒有任何臨床試驗與文獻**支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌 |
+| 原適應症 | 適用於成人接受過全身性藥物治療、腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌 |
 | 預測新適應症 | 多發性內分泌腫瘤 (Multiple Endocrine Neoplasia) |
 | TxGNN 預測分數 | 99.71% |
 | 證據等級 | L5 |
@@ -51,29 +49,21 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的 DrugBank 作用機轉資料。根據已知資訊，Pemigatinib 是一種選擇性 FGFR1/2/3 激酶抑制劑，透過競爭性結合 ATP 結合位點，阻斷纖維母細胞生長因子受體（FGFR）的磷酸化與下游訊號傳遞（包括 RAS/MAPK、PI3K/AKT 等路徑），進而抑制腫瘤增殖。在膽管癌中，FGFR2 融合基因造成受體持續活化，是明確的致癌驅動突變，Pemigatinib 正是針對此機轉設計的靶向治療。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Pemigatinib 是選擇性 FGFR1–3 激酶抑制劑，在 FGFR2 融合或重排的膽管癌中療效已被證實。
 
-多發性內分泌腫瘤（MEN）是一組累及多種內分泌腺體的遺傳性腫瘤症候群，FGFR 訊號路徑在內分泌器官的正常發育中扮演重要角色。部分 MEN 相關腫瘤（如垂體腺瘤）被報告可能攜帶 FGFR 相關變異，在理論上提供了 FGFR 抑制介入的依據，這是 TxGNN 模型給出高分預測的可能原因之一。
+然而，多發性內分泌腫瘤通常由 MEN1 或 RET 等基因變異驅動，與 FGFR 訊號並無已知的因果關聯。因此，這項預測目前只建立在 TxGNN 知識圖譜的推論上，缺乏機轉面的支持。
 
-然而需謹慎解讀：MEN 的主要驅動突變為 **MEN1、RET、CDKN1B** 等基因，與 FGFR 路徑並無直接關聯。目前完全缺乏前臨床或臨床資料支持 Pemigatinib 應用於 MEN，此預測極可能源自知識圖譜中腫瘤節點的間接拓撲相似性，而非真正的機轉聯繫。
-
----
+另外值得留意的是，同一份預測清單中的其他項目（例如巨細胞病毒感染、牛傳染性鼻氣管炎、惡性卡他熱、肌萎縮性側索硬化症等），同樣沒有機轉或臨床證據支持，部分疑為知識圖譜的衍生假象。其中 HER2 陽性乳癌雖有 FGFR 訊號與抗 HER2 治療抗藥性相關的推測性理由，但目前僅有一篇泛論激酶抑制劑的文獻，並無針對 Pemigatinib 的直接證據。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
 目前無相關文獻。
-
----
 
 ## 台灣上市資訊
 
@@ -93,55 +83,40 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 細胞毒性
 
-Pemigatinib 為抗腫瘤標靶藥物，適用以下細胞毒性評估：
-
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 標靶藥物（FGFR1/2/3 選擇性激酶抑制劑） |
-| 骨髓抑制風險 | 低（FGFR 抑制劑骨髓抑制風險低，仍需常規監測） |
-| 致吐性分級 | 低度 |
-| 監測項目 | CBC（含分類計數）、肝功能（ALT/AST）、腎功能、血磷（高磷血症為 FGFR 抑制劑特有副作用）、眼科檢查（視網膜毒性監測） |
-| 處置防護 | 需依抗腫瘤口服藥物處置規範操作；避免磨碎或剝半 |
-
----
+| 細胞毒性分類 | 標靶藥物（FGFR 激酶抑制劑） |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 請參考原廠仿單的警語與注意事項 |
+| 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ## 安全性考量
 
-**藥物交互作用**（來源：DDInter，共 50 筆，列出主要項目）：
+- **藥物交互作用**：本報告彙整的資料共記錄 50 筆交互作用，以下為其中主要項目：
+  - **嚴重（Major）**：Aprepitant、Dexamethasone、Clarithromycin、Cobicistat、Lumacaftor、Chloramphenicol、Erythromycin、Ketoconazole、Fluconazole
+  - **中度（Moderate）**：Cimetidine、Metreleptin、Clotrimazole、Glycerol phenylbutyrate、Troglitazone、Deferasirox、Ivacaftor、Zafirlukast、Griseofulvin、Elagolix、Osilodrostat
+  - 多數嚴重交互作用藥物為 CYP3A4 抑制劑或誘導劑，併用時需謹慎評估（此為依藥物類別的一般推論，請以仿單為準）。
 
-| 藥物 | 嚴重程度 | 臨床意義 |
-|------|---------|---------|
-| Clarithromycin | Major（重大） | 強效 CYP3A4 抑制劑，可顯著升高 Pemigatinib 血中濃度 |
-| Ketoconazole | Major（重大） | 強效 CYP3A4 抑制劑，建議避免合用 |
-| Fluconazole | Major（重大） | CYP3A4 抑制劑，需評估劑量調整 |
-| Cobicistat | Major（重大） | 強效 CYP3A4 抑制劑，合用需謹慎 |
-| Erythromycin | Major（重大） | CYP3A4 抑制劑，可能升高藥物暴露量 |
-| Lumacaftor | Major（重大） | CYP3A4 強效誘導劑，可能降低 Pemigatinib 療效 |
-| Chloramphenicol | Major（重大） | CYP3A4 抑制劑 |
-| Aprepitant | Major（重大） | CYP3A4 中度抑制劑 |
-| Dexamethasone | Major（重大） | CYP3A4 誘導劑，長期使用可能降低療效 |
-| Cimetidine | Moderate（中度） | 影響胃酸 pH，可能影響吸收 |
-
-> Pemigatinib 主要經 CYP3A4 代謝，合用強效 CYP3A4 抑制劑或誘導劑時，應參考原廠仿單進行劑量調整或避免合用。其餘安全性資訊請參考原廠仿單。
-
----
+其他警語與禁忌症資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-TxGNN 預測分數雖達 99.71%，但多發性內分泌腫瘤的主要致病機轉（MEN1、RET、CDKN1B 突變）與 FGFR 路徑缺乏直接關聯，且完全沒有臨床試驗或文獻支持（L5 等級），現階段不具備推進的科學依據。
+- 這項預測沒有任何臨床試驗或文獻支持，證據等級為 L5，僅有模型分數。
+- 多發性內分泌腫瘤的致病機轉（MEN1、RET 變異）與 FGFR 抑制無已知關聯，機轉上缺乏合理性。
 
 **若要推進需要：**
-- 補充 DrugBank MOA 完整資料，確認 Pemigatinib 的 FGFR 選擇性是否涵蓋 MEN 相關腫瘤的驅動突變
-- 系統性分析 MEN 相關腫瘤組織（垂體腺瘤、副甲狀腺腺瘤、胰島細胞腫瘤）中 FGFR1/2/3 突變/擴增的發生率
-- 進行 MEN 細胞株的前臨床藥效評估（IC₅₀、增殖抑制試驗），以確認 FGFR 抑制的實際療效
-- 若前臨床數據支持，再規劃 Basket Trial 或 Biomarker-selected Phase 2 試驗設計
+- 補充 Pemigatinib 的完整作用機轉資料，並釐清 FGFR 訊號是否參與多發性內分泌腫瘤的病理。
+- 進行前臨床研究（如細胞或動物模型）驗證 FGFR 抑制對相關腫瘤的作用。
+- 系統性檢索文獻與試驗登記，確認是否有任何間接證據。
+- 在證據出現前，建議將資源優先放在已有機轉或初步文獻支持的候選適應症上（例如 HER2 陽性乳癌的 FGFR 相關抗藥性假說），並先補足安全性（警語、禁忌症）資料。
 
 <!-- review:begin log -->
 

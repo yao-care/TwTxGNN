@@ -2,7 +2,7 @@
 layout: default
 title: Iodixanol
 parent: 僅模型預測 (L5)
-nav_order: 138
+nav_order: 149
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,45 +29,49 @@ indication_count: 3
 
 </div>
 
-# Iodixanol：從 X光對比劑 到 骨關節炎
+# Iodixanol：從 X 光對比劑用途到退化性關節炎（骨關節炎）
 
 ## 一句話總結
 
-Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於心血管、腦血管及泌尿道造影。TxGNN 模型預測它可能對**骨關節炎 (osteoarthritis)** 有潛在關聯，目前有 **7 篇文獻**探討相關機制，但無臨床試驗支持。
+Iodixanol 是一種碘化、等滲透壓的 X 光對比劑，原本用於心臟血管、腦血管、周邊動脈等造影及電腦斷層影像加強。
+TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis Susceptibility)** 有效，但目前**沒有任何臨床試驗**，且相關文獻僅顯示它被用作關節軟骨的影像探針，並非治療證據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | X光對比劑：心臟血管、腦血管、周邊動脈造影等 |
-| 預測新適應症 | 骨關節炎 (osteoarthritis) |
-| TxGNN 預測分數 | 99.07% |
+| 原適應症 | X 光對比劑：用於心臟血管、腦血管、周邊動脈造影、腹腔動脈造影、泌尿道攝影、靜脈造影、電腦斷層影像加強；腰椎、胸椎及頸椎之脊髓造影 |
+| 預測新適應症 | 骨關節炎易感性 (Osteoarthritis Susceptibility) |
+| TxGNN 預測分數 | 99.16% |
 | 證據等級 | L5 |
-| 台灣上市 | 已上市 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Iodixanol 是一種非離子型等滲透壓的碘化對比劑，主要用於影像學檢查。目前缺乏直接的藥理機轉資料說明其對骨關節炎的治療潛力。
+目前缺乏詳細的作用機轉資料。Iodixanol 是碘化、等滲透壓的放射線對比劑，作用是阻擋 X 光以呈現影像，並非具疾病修飾作用的藥物。它對骨關節炎的遺傳易感性路徑沒有已知的藥理作用。
 
-然而，從文獻證據來看，Iodixanol 作為顯影劑被用於關節軟骨的 CT 造影研究。多篇研究使用對比增強電腦斷層（CECT）技術結合 iodixanol 來評估軟骨結構和成分變化，這些變化與早期骨關節炎相關。這種應用主要是診斷性質，而非治療性質。
+排名第 2 的預測「骨關節炎」雖然有文獻，但內容都是把 iodixanol 當作 CT 影像探針，用來研究軟骨的溶質擴散與傳輸，並非治療效益。TxGNN 的高分很可能反映的是這種影像與診斷上的關聯，而不是治療機轉。
 
-TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係（如文獻中同時提及），而非直接的治療效果。
+排名第 3 的「類風濕性關節炎」也沒有合理的抗發炎或免疫調節機轉。整體而言，這些預測在機轉上缺乏支持，目前較適合視為模型的關聯訊號，而非可驗證的療效假說。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
+以下文獻來自排名第 2 的預測（骨關節炎）與排名第 3 的預測（類風濕性關節炎）。這些研究都不是以治療為目的。
+
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Journal Article | Ann Biomed Eng | 使用光子計數CT結合雙對比劑評估關節軟骨健康 |
-| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Journal Article | J Biomech | 使用iodixanol研究骨軟骨界面的溶質傳輸 |
-| [30145230](https://pubmed.ncbi.nlm.nih.gov/30145230/) | 2018 | Journal Article | Osteoarthr Cartil | 研究馬下顎髁軟骨老化不影響壓縮剛性 |
-| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Journal Article | Ann Biomed Eng | 透過奈米粒子擴散成像揭示軟骨功能 |
-| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Journal Article | J Biomech | 骨軟骨界面中性溶質傳輸的有限元分析 |
+| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | 體外研究 | Annals of Biomedical Engineering | 以奈米粒子擴散 CT 影像與有限元素模型，探討軟骨功能 |
+| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | 體外研究 | Journal of Biomechanics | 以 CT 與有限元素模型，模擬中性溶質穿越骨軟骨界面的傳輸 |
+| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | 體外研究 | Annals of Biomedical Engineering | 於光子計數 CT 使用雙對比劑，評估關節軟骨健康 |
+| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | 體外研究 | Journal of Biomechanics | 以 iodixanol 作為擴散 CT 對比劑，研究軟骨與軟骨下骨板界面的通透性 |
+| [30374787](https://pubmed.ncbi.nlm.nih.gov/30374787/) | 2018 | 體外研究 | Journal of Experimental Orthopaedics | 碘對比劑在早期時間點不影響富含血小板血漿（PRP）的功能 |
+| [36628042](https://pubmed.ncbi.nlm.nih.gov/36628042/) | 2022 | 病例系列 | Cureus | 一名類風濕性關節炎併發澱粉樣變性的病人，成功脫敏對另一種對比劑 iohexol，與 iodixanol 的治療用途無關 |
 
 ## 台灣上市資訊
 
@@ -86,34 +90,33 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-**藥物交互作用**：
+- **藥物交互作用**：已查詢到 148 筆交互作用紀錄，以下為部分被列為「嚴重 (Major)」的項目：
+  - Metformin
+  - Amphotericin B（含脂質複合物、膽固醇硫酸酯、脂質體等劑型）
+  - Mesalazine、Balsalazide、Olsalazine、Sulfasalazine
+  - Vancomycin
+  - Kanamycin、Neomycin、Streptomycin
+  - Polymyxin B
+- 另有 Mannitol 為中度 (Moderate) 交互作用。
 
-主要交互作用（Major）：
-- Metformin：可能增加乳酸酸中毒風險
-- Amphotericin B：可能增加腎毒性
-- Vancomycin、Aminoglycosides（Amikacin, Gentamicin, Kanamycin）：可能增加腎毒性
-- Cyclosporine、Tacrolimus：可能增加腎毒性
-- NSAIDs（Ketorolac, Ibuprofen, Naproxen, Celecoxib）：可能增加腎毒性
-- Cisplatin：可能增加腎毒性
-
-中度交互作用（Moderate）：
-- Beta-blockers（Metoprolol, Atenolol 等）
-- 利尿劑（Furosemide, Hydrochlorothiazide 等）
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-文獻中 iodixanol 與骨關節炎的關聯主要來自診斷性應用（顯影劑用於軟骨造影），而非治療效果。缺乏機轉支持和臨床試驗證據表明這個預測可能是知識圖譜中的偽相關。
+- TxGNN 分數雖高（約 99%），但沒有任何臨床試驗。現有文獻皆為影像探針或不相關的病例報告，且 iodixanol 作為對比劑，在機轉上缺乏治療骨關節炎或類風濕性關節炎的依據。
 
 **若要推進需要：**
-- 明確的藥理機轉研究支持治療潛力
-- 體外/體內實驗驗證 iodixanol 對軟骨的直接效果
-- 目前不建議進一步探索此適應症
-
+- 補充詳細的作用機轉資料，並釐清是否存在任何治療性機轉
+- 區分「影像或診斷用途」與「治療用途」，必要時改以關節造影或軟骨影像診斷作為方向評估
+- 若仍要探討治療假說，需先有前臨床研究（如細胞或動物模型）支持
+- 確認關節內給藥的途徑與安全性（目前許可證僅涵蓋血管內及脊髓腔造影等用途）
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

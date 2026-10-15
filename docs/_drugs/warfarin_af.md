@@ -2,7 +2,7 @@
 layout: default
 title: Warfarin Af
 parent: 高證據等級 (L1-L2)
-nav_order: 284
+nav_order: 307
 evidence_level: L1
 indication_count: 0
 ---

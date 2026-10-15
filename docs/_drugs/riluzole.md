@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Riluzole
-parent: 中證據等級 (L3-L4)
-nav_order: 227
-evidence_level: L4
+parent: 僅模型預測 (L5)
+nav_order: 245
+evidence_level: L5
 indication_count: 10
 ---
 
 # Riluzole
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,59 +29,52 @@ indication_count: 10
 
 </div>
 
-# Riluzole：從 ALS 到運動神經元相關疾病
+# Riluzole：從肌萎縮脊髓側索硬化症到雙側副矢狀頂枕多小腦回症
 
 ## 一句話總結
 
-Riluzole 是一種谷氨酸拮抗劑，原本用於肌萎縮脊髓側索硬化症（ALS）的治療。TxGNN 模型預測它可能對多種運動神經元相關疾病有效，包括**下運動神經元症候群 (Lower Motor Neuron Syndrome)** 和 **ALS 易感性**，目前有 **多篇文獻**支持這個方向。
+Riluzole 原本用於治療肌萎縮脊髓側索硬化症（ALS）。
+TxGNN 模型預測排名第一的新適應症是**雙側副矢狀頂枕多小腦回症 (bilateral parasagittal parieto-occipital polymicrogyria)**，但目前**沒有任何臨床試驗或文獻**支持，僅有模型預測。
+在所有預測中，與原適應症機轉最相近、且有文獻可供參考的是「ALS 易感性 (amyotrophic lateral sclerosis, susceptibility to)」，僅有綜述等間接證據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 肌萎縮脊髓側索硬化症（ALS） |
-| 預測新適應症 | 雙側旁矢狀頂枕多小腦回畸形、下運動神經元症候群、Mills 症候群、ALS 易感性 |
-| TxGNN 預測分數 | 99.94%-99.98% |
-| 證據等級 | L4 |
-| 台灣上市 | 已上市 |
+| 預測新適應症 | 雙側副矢狀頂枕多小腦回症 (bilateral parasagittal parieto-occipital polymicrogyria) |
+| TxGNN 預測分數 | 99.99% |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 5 張（有效單方 4／有效複方 0／已註銷 1） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Riluzole 是核准用於 ALS 治療的藥物之一（台灣另有 edaravone 許可證）。它的主要作用機轉包括：
-- 抑制谷氨酸釋放
-- 阻斷電壓依賴性鈉離子通道
-- 減少興奮性毒性（excitotoxicity）
+目前缺乏詳細的作用機轉資料。根據已知資訊，Riluzole 能減少麩胺酸釋放，並阻斷電壓門控鈉離子通道，以此減輕興奮性毒性，這是它用於 ALS 的主要理論基礎。
 
-<!-- review:begin riluzole-not-only-als-drug-2026-10-03 -->
+對於排名第一的皮質發育異常（多小腦回症），資料中找不到與上述機轉的明確連結，這個預測目前只來自 TxGNN 模型，缺乏任何實證。因此合理性偏低。
 
-> **查核更正（2026-10-03）**：原寫「Riluzole 是目前唯一被核准用於 ALS 治療的藥物。」。Riluzole 不是唯一核准用於 ALS 的藥物；台灣另有 edaravone 許可證（衛部藥製字第062121號，適應症寫「用於減緩肌肉萎縮性側索硬化症」）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end riluzole-not-only-als-drug-2026-10-03 -->
-
-ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個適應症與 ALS 在病理機轉上有密切關聯：
-
-1. **下運動神經元症候群（晚發型）**：與 ALS 共享下運動神經元退化的特徵
-2. **Mills 症候群**：一種以單側進行性肢體無力為特徵的運動神經元疾病
-3. **ALS 易感性**：代表可能發展為 ALS 的高風險狀態
-4. **單肢肌萎縮症（Monomelic Amyotrophy）**：一種局限性的運動神經元疾病
-
-這些疾病都涉及運動神經元的退化，riluzole 的神經保護作用可能對這些疾病有類似的療效。
+相較之下，排名較後的幾項預測與運動神經元疾病有重疊，機轉上較說得通，例如下運動神經元症候群、單肢肌萎縮症、Mills 症候群、ALS 第 22 型。不過這些同樣沒有臨床證據，只能視為待驗證的假說。
 
 ## 臨床試驗證據
 
-目前無針對這些特定適應症的臨床試驗登記。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
+排名第一的預測沒有任何文獻。以下為排名第 8 的相關概念「ALS 易感性」的文獻，僅供機轉背景參考，並不直接支持排名第一的預測：
+
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [9178165](https://pubmed.ncbi.nlm.nih.gov/9178165/) | 1997 | Review | J Neurol | 谷氨酸、興奮性毒性與 ALS 的關係，riluzole 作為治療選擇 |
-| [16723044](https://pubmed.ncbi.nlm.nih.gov/16723044/) | 2006 | Review | Expert Rev Mol Med | ALS 的病理機轉和治療途徑，riluzole 是唯一延長存活的藥物 |
-| [21128691](https://pubmed.ncbi.nlm.nih.gov/21128691/) | 2011 | Review | CNS Drugs | ALS 的病理生理學、診斷和治療管理 |
-| [20942786](https://pubmed.ncbi.nlm.nih.gov/20942786/) | 2010 | Review | CNS Neurol Disord Drug Targets | ALS 的診斷、發病機制和治療標靶 |
-| [19593125](https://pubmed.ncbi.nlm.nih.gov/19593125/) | 2009 | Review | Curr Opin Neurol | 運動神經元疾病的最新進展 |
+| [22763933](https://pubmed.ncbi.nlm.nih.gov/22763933/) | 2012 | Review | Praxis | ALS 的診斷與治療概述 |
+| [9178165](https://pubmed.ncbi.nlm.nih.gov/9178165/) | 1997 | Review | Journal of neurology | 麩胺酸興奮性毒性是運動神經元損傷的主要機轉之一 |
+| [16723044](https://pubmed.ncbi.nlm.nih.gov/16723044/) | 2006 | Review | Expert reviews in molecular medicine | 整理 ALS 的可能機轉（氧化壓力、興奮性毒性、粒線體功能障礙等）與治療途徑 |
+| [21128691](https://pubmed.ncbi.nlm.nih.gov/21128691/) | 2011 | Review | CNS drugs | Riluzole 是唯一被證實可適度延長 ALS 存活期的藥物 |
+| [20698807](https://pubmed.ncbi.nlm.nih.gov/20698807/) | 2011 | 綜述類 | Amyotrophic lateral sclerosis | 僅 riluzole 能改善存活，幅度有限；討論疾病異質性與試驗設計 |
+| [42161327](https://pubmed.ncbi.nlm.nih.gov/42161327/) | 2026 | Case-control | Brain | 探討 CYP2D6 變異與 ALS 風險及存活的關聯，riluzole 療效可能因人而異 |
+| [8061281](https://pubmed.ncbi.nlm.nih.gov/8061281/) | 1994 | 前臨床 | Neuroreport | Riluzole 對 ALS 腦脊髓液毒性具神經保護作用 |
+| [32040174](https://pubmed.ncbi.nlm.nih.gov/32040174/) | 2020 | 模擬研究 | Toxicological sciences | 口服錠劑約 50% 患者 ALT 高於正常上限；舌下劑型可能降低肝損傷風險 |
 
 ## 台灣上市資訊
 
@@ -95,8 +88,8 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
-| 衛署藥製字第044485號 | 解凍膜衣錠５０毫克 | 膜衣錠 | 吉帝藥品股份有限公司 | 2031/06/19 | 肌萎縮脊髓側索硬化症（ＡＭＹＯＴＲＯＰＨＩＣ ＬＡＴＥＲＡＬ ＳＣＬＥＲＯＳＩＳ，ＡＬＳ）。 |
-| 衛署藥製字第056777號 | "台灣神隆"瑞隆首 | （粉） | 台灣神隆股份有限公司 | 2032/01/19 | 肌萎縮脊髓側索硬化症。 |
+| 衛署藥製字第044485號 | 解凍膜衣錠５０毫克 | 膜衣錠 | 吉帝藥品股份有限公司 | 2026/06/19 | 肌萎縮脊髓側索硬化症（ＡＭＹＯＴＲＯＰＨＩＣ ＬＡＴＥＲＡＬ ＳＣＬＥＲＯＳＩＳ，ＡＬＳ）。 |
+| 衛署藥製字第056777號 | "台灣神隆"瑞隆首 | （粉） | 台灣神隆股份有限公司 | 2027/01/19 | 肌萎縮脊髓側索硬化症。 |
 | 衛署藥輸字第021905號 | 銳力得膜衣錠 | 膜衣錠 | 賽諾菲股份有限公司 | 2027/09/22 | 肌萎縮脊髓側索硬化症（ＡＭＹＯＴＲＯＰＨＩＣ ＬＡＴＥＲＡＬＳＣＬＥＲＯＳＩＳ，ＡＬＳ） |
 | 衛部藥輸字第028266號 | 特魯希口服懸浮液 5毫克/毫升 | 口服懸液劑 | 台灣李氏藥業有限公司 | 2027/03/18 | 肌萎縮脊髓側索硬化症(AMYOTROPHIC LATERL SCLEROSIS, ALS) |
 
@@ -105,27 +98,29 @@ ALS 的特徵是上下運動神經元的進行性退化。TxGNN 預測的幾個�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-**主要警語：**
-- 肝毒性：需定期監測肝功能
-- 間質性肺病：罕見但嚴重
+- **藥物交互作用**：已查得 44 筆交互作用紀錄，以下為部分中度等級項目：Obeticholic acid、Naltrexone、Deferasirox、Osilodrostat、Anagrelide、Asparaginase、Brentuximab vedotin、Clofarabine、Methotrexate、Epirubicin。
+- **知識圖譜中與疾病相關的禁忌訊號**（非仿單內容）：嗜中性白血球減少、顆粒球缺乏症、物質濫用/依賴、高膽紅素血症、Gilbert 症候群、間質性肺病、藥物性肝損傷。
+- 文獻也指出口服 riluzole 常見 ALT 升高，使用時應留意肝功能。
 
-**禁忌症：**
-- 嚴重肝功能損害
+其餘警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-TxGNN 預測的適應症與 ALS 在病理機轉上高度相關，都涉及運動神經元的退化。Riluzole 的神經保護作用機轉（抗谷氨酸毒性）在理論上可能對這些疾病有效。然而，由於缺乏針對這些特定適應症的臨床試驗數據，需要謹慎評估。
+排名第一的預測沒有臨床試驗、沒有文獻，也找不到合理的機轉連結，證據等級為 L5，僅是模型輸出。前十名中多數同為 L5，只有「ALS 易感性」有間接的綜述證據（L4）。
 
 **若要推進需要：**
-- 對 Mills 症候群、單肢肌萎縮症等運動神經元疾病進行小規模臨床研究
-- 收集真實世界證據（如 ALS 門診中其他運動神經元疾病患者使用 riluzole 的經驗）
-- 定期監測肝功能
-- 評估長期療效和安全性
+- 取得 Riluzole 詳細的作用機轉資料
+- 針對多小腦回症等皮質發育異常，進行機轉與前臨床文獻檢索
+- 若優先考慮機轉較合理的運動神經元疾病（如單肢肌萎縮症、ALS 第 22 型），需進一步蒐集病例或試驗證據
+- 確認劑型、給藥途徑與目標族群（如兒童）的適用性
+- 納入肝功能與血球監測的安全性計畫
 
 <!-- review:begin log -->
 

@@ -2,7 +2,7 @@
 layout: default
 title: Iohexol
 parent: 僅模型預測 (L5)
-nav_order: 139
+nav_order: 150
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,51 +29,46 @@ indication_count: 10
 
 </div>
 
-# Iohexol：從造影劑到失眠
+# Iohexol：從脊椎／血管／泌尿道造影到失眠（預測）
 
 ## 一句話總結
 
-Iohexol 是非離子性含碘顯影劑，廣泛用於脊椎造影、血管造影、電腦斷層掃描增強造影及泌尿道造影等影像學檢查。
-TxGNN 模型預測它可能對**失眠 (insomnia disease)** 有效，
-然而目前**無任何臨床試驗或文獻**支持此方向——此預測僅來自知識圖譜推論，缺乏藥理生物學依據。
-
----
+Iohexol 是一種非離子型含碘造影劑，原本用於脊椎造影、血管造影、電腦斷層掃描增強造影與泌尿道造影。
+TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有任何臨床試驗與文獻**支持，屬於純模型預測，機轉上也缺乏合理依據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影 |
-| 預測新適應症 | 失眠 (insomnia disease) |
+| 預測新適應症 | 失眠 (Insomnia) |
 | TxGNN 預測分數 | 99.87% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 18 張（有效單方 2／有效複方 2／已註銷 14） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Iohexol 是非離子性三碘苯環顯影劑，其碘原子以共價鍵結合於苯環上，不具游離碘的生物活性。臨床上作為惰性標記物使用——注射後幾乎完全由腎臟以原形排出，不與蛋白質結合，亦不進行代謝轉化，在體內無已知的受體結合或酵素抑制作用。
+目前缺乏詳細的作用機轉資料。Iohexol 是惰性的非離子型碘造影劑，作用在於影像對比，並無已知的鎮靜或調節睡眠的藥理活性。
 
-失眠的病理機轉涉及 GABA 能神經元抑制減弱、褪黑激素分泌異常及下視丘-腦下垂體-腎上腺軸（HPA axis）失調等中樞神經機制。Iohexol 作為親水性大分子顯影劑，無法穿越血腦屏障，亦無任何已知的中樞神經系統受體結合活性，與上述病理機轉完全無交集。
+失眠屬於中樞神經與睡眠調節問題，與造影劑的診斷用途沒有明顯關聯。TxGNN 的高分更可能來自知識圖譜中的間接關聯，而非真實的藥理連結。
 
-因此，此預測最可能源自 TxGNN 知識圖譜中的間接關聯路徑（例如共病族群或共同研究脈絡），而非真實的藥理連結。此為典型的圖神經網路高分卻低可信度的預測案例。
-
----
+其他排名較前的預測（焦慮、類風濕性關節炎、抗凝血酶缺乏、纖維肌痛、結膜炎、肌腱炎等）同樣缺乏機轉或臨床支持。文獻中 Iohexol 僅作為造影工具、腎絲球過濾率測量工具或過敏反應誘因出現，並非治療用途。因此，**本預測不建議視為合理的再利用方向**。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
-目前無相關文獻。
+目前沒有針對「失眠」的文獻。以下為次要預測（焦慮）下檢索到的文獻，僅供參考，內容皆非治療效益證據：
 
----
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [8883531](https://pubmed.ncbi.nlm.nih.gov/8883531/) | 1996 | RCT | Academic Radiology | 比較 iodixanol 與 iohexol 用於肢體靜脈攝影的療效、安全性與注射不適感，與焦慮治療無關 |
+| [2352635](https://pubmed.ncbi.nlm.nih.gov/2352635/) | 1990 | Cohort | Neuroradiology | 200 名腰椎脊髓造影患者的副作用分析，頭痛、噁心、頭暈及輕微精神症狀（含焦慮或憂鬱）較常見，屬不良反應而非療效 |
+| [2125805](https://pubmed.ncbi.nlm.nih.gov/2125805/) | 1990 | Cohort | Acta Neurochirurgica | 腦血管攝影期間以經顱都卜勒監測雙側腦血流動力學，屬技術與生理觀察 |
 
 ## 台灣上市資訊
 
@@ -94,47 +89,44 @@ TxGNN 模型預測它可能對**失眠 (insomnia disease)** 有效，
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第044709號 | 威能碘注射液300公絲碘/公撮 | IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL) | 注射劑 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影。 |
+| 衛署藥製字第044709號 | 威能碘注射液300公絲碘/公撮 | TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL | 注射劑 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影。 |
 | 衛署藥製字第044720號 | 威能碘注射液350公絲碘/公撮 | TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL | 注射劑 | 脊椎造影、血管造影、電腦斷層掃瞄增強造影劑、泌尿道造影。 |
 
 <details><summary><strong>已註銷</strong>（14 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第014483號</td><td>安你拍克注射劑３００毫克碘/公撮</td><td>IOHEXOL (ANHYDROUS)</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第014484號</td><td>安你拍克注射劑３５０毫克碘/公撮</td><td>IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第015944號</td><td>安你拍克注射劑１８０毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第015975號</td><td>安你拍克注射劑２４０毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第020621號</td><td>安你拍克注射劑１８０毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020622號</td><td>安你拍克注射劑２４０毫克碘/公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020740號</td><td>安你拍克注射劑３５０毫克碘/公撮</td><td>IOHEXOL</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020741號</td><td>安你拍克注射劑３００毫克碘/公撮</td><td>IOHEXOL (ANHYDROUS)、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO…</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第021651號</td><td>安你拍克注射劑２４０毫克碘／公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第021652號</td><td>安你拍克注射劑３００毫克碘／公撮</td><td>IOHEXOL (ANHYDROUS)</td><td>2023/11/15</td></tr><tr><td>衛署藥輸字第021653號</td><td>安你拍克注射劑３５０毫克碘／公撮</td><td>IOHEXOL</td><td>2023/11/16</td></tr><tr><td>衛署藥輸字第021654號</td><td>安你拍克注射劑１８０毫克碘／公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第023241號</td><td>"奇異愛爾蘭廠" 安你拍克 注射劑180毫克碘/公撮</td><td>IOHEXOL</td><td>2025/09/15</td></tr><tr><td>衛署藥輸字第023242號</td><td>"奇異愛爾蘭廠" 安你拍克 注射劑240毫克碘/公撮</td><td>IOHEXOL</td><td>2025/09/15</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第014483號</td><td>安你拍克注射劑３００毫克碘/公撮</td><td>IOHEXOL (ANHYDROUS)</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第014484號</td><td>安你拍克注射劑３５０毫克碘/公撮</td><td>IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第015944號</td><td>安你拍克注射劑１８０毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第015975號</td><td>安你拍克注射劑２４０毫克碘/公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>1995/02/28</td></tr><tr><td>衛署藥輸字第020621號</td><td>安你拍克注射劑１８０毫克碘/公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020622號</td><td>安你拍克注射劑２４０毫克碘/公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020740號</td><td>安你拍克注射劑３５０毫克碘/公撮</td><td>IOHEXOL</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第020741號</td><td>安你拍克注射劑３００毫克碘/公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL…</td><td>1997/08/19</td></tr><tr><td>衛署藥輸字第021651號</td><td>安你拍克注射劑２４０毫克碘／公撮</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOHEXOL</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第021652號</td><td>安你拍克注射劑３００毫克碘／公撮</td><td>IOHEXOL (ANHYDROUS)</td><td>2023/11/15</td></tr><tr><td>衛署藥輸字第021653號</td><td>安你拍克注射劑３５０毫克碘／公撮</td><td>IOHEXOL</td><td>2023/11/16</td></tr><tr><td>衛署藥輸字第021654號</td><td>安你拍克注射劑１８０毫克碘／公撮</td><td>IOHEXOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)</td><td>2013/12/31</td></tr><tr><td>衛署藥輸字第023241號</td><td>"奇異愛爾蘭廠" 安你拍克 注射劑180毫克碘/公撮</td><td>IOHEXOL</td><td>2025/09/15</td></tr><tr><td>衛署藥輸字第023242號</td><td>"奇異愛爾蘭廠" 安你拍克 注射劑240毫克碘/公撮</td><td>IOHEXOL</td><td>2025/09/15</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-**藥物交互作用**：共記錄 325 筆交互作用，以下列出主要（Major）交互作用中臨床最相關者：
+- **藥物交互作用**：共查得 325 筆交互作用紀錄，其中多筆為 Major 等級，例如：
+  - Metformin
+  - Hydrocortisone、Dexamethasone、Betamethasone、Triamcinolone 等皮質類固醇
+  - Amphotericin B
+  - Vancomycin、Kanamycin、Neomycin 等胺基糖苷／糖肽類抗生素
+  - Levofloxacin
+  - Bupropion
+  - Morphine
+  - Metoclopramide
+  - Mesalazine、Balsalazide
 
-| 交互藥物 | 等級 | 臨床重要性 |
-|---------|------|-----------|
-| Metformin | Major | 含碘顯影劑可抑制腎小管排泄 Metformin，顯著增加乳酸酸中毒風險，建議造影前暫停使用 |
-| Vancomycin | Major | 合用加重腎毒性，需密切監測腎功能及藥物濃度 |
-| Amphotericin B | Major | 合用具累加性腎毒性風險 |
-| Amphotericin B (lipid complex) | Major | 同 Amphotericin B，腎毒性風險累加 |
-| Kanamycin | Major | 胺基醣苷類抗生素與含碘顯影劑合用增加腎毒性 |
-| Levofloxacin | Major | 合用可能影響腎臟清除，需監測腎功能 |
-| Hydrocortisone | Major | 皮質類固醇與顯影劑合用需注意過敏預防給藥流程及血流動力學 |
-| Dexamethasone | Major | 同 Hydrocortisone，為顯影前預防性用藥常見情境 |
-| Betamethasone | Major | 同 Hydrocortisone 注意事項 |
-| Triamcinolone | Major | 同 Hydrocortisone 注意事項 |
-
----
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-Iohexol 是藥理上的惰性顯影劑，無任何中樞神經系統或睡眠調節機轉，與失眠治療缺乏生物學合理性。預測結果為 L5 等級——僅有 TxGNN 圖譜推論，零臨床試驗、零文獻支持，不具任何推進條件。
+- 失眠預測僅來自 TxGNN 模型分數，沒有任何臨床試驗或文獻，證據等級為 L5。
+- Iohexol 是惰性造影劑，無已知中樞神經或睡眠調節作用，機轉上缺乏合理性。
 
 **若要推進需要：**
-- 補充 Iohexol 的作用機轉（MOA）完整資料，確認是否存在任何中樞神經相關活性（目前為 Data Gap，建議查詢 DrugBank API）
-- 進行前臨床機轉研究，確認是否有睡眠調節相關受體（GABA-A、褪黑激素受體等）結合活性
-- 評估 TxGNN 圖譜推論路徑，釐清高分的來源是否為資料雜訊或間接共病關聯
-- 建議優先評估排名 2–10 中較具機轉合理性的其他適應症（如 rheumatoid arthritis 或 tendinitis 均有 Iohexol 實際應用的間接依據）
+- 提出可驗證的作用機轉假說，並補足 MOA 資料
+- 完成前臨床或機轉研究，證明對睡眠調節有任何作用
+- 評估造影劑給藥途徑與長期使用需求是否符合失眠治療情境
+- 若無上述證據，建議不進一步投入資源
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

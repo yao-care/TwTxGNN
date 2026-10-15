@@ -2,7 +2,7 @@
 layout: default
 title: Letrozole
 parent: 高證據等級 (L1-L2)
-nav_order: 153
+nav_order: 165
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,79 +29,66 @@ indication_count: 10
 
 </div>
 
-# Letrozole：從停經後乳癌到女性乳癌
+# Letrozole：從乳癌到女性乳癌（荷爾蒙受體陽性）
 
 ## 一句話總結
 
-Letrozole（立妥芙）是第三代非固醇性芳香化酶抑制劑，台灣已核准用於停經後荷爾蒙受體陽性乳癌的多種治療情境，包括末期治療、第一線晚期/轉移性治療，以及輔助與延伸輔助治療。
-TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預測分數高達 **99.98%**，此結果確認並延伸了現有核准適應症的廣泛適用範疇，
-目前有超過 **40 個臨床試驗**和 **20 篇文獻**支持。
-
----
+Letrozole 是非固醇類芳香環轉化酶（aromatase）抑制劑，原本用於停經後荷爾蒙受體陽性乳癌的治療。
+TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目前有 **41 個臨床試驗**和 **19 篇文獻**支持這個方向，其中包含多項 Phase 3 試驗。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 停經後末期乳癌、局部晚期/轉移性乳癌第一線、荷爾蒙受體陽性初期乳癌輔助治療 |
+| 原適應症 | 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療；停經後之局部晚期或轉移性乳癌婦女患者之第一線治療；荷爾蒙接受器呈陽性及淋巴結轉移陽性之乳癌病人作為 Tamoxifen 輔助療法之後的延伸治療；停經後荷爾蒙接受器呈陽性之初期乳癌病人之輔助治療 |
 | 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 16 張（有效單方 9／有效複方 0／已註銷 7） |
+| 許可證數 | 16 張（有效單方 10／有效複方 0／已註銷 6） |
 | 建議決策 | Proceed with Guardrails |
-
----
 
 ## 為什麼這個預測合理？
 
-DrugBank 正式作用機轉（MOA）欄位目前缺乏資料，但根據現有文獻，Letrozole 是第三代非固醇性芳香化酶抑制劑，透過選擇性且可逆地抑制 **CYP19A1（芳香化酶）**，阻斷腎上腺雄激素（如雄烯二酮、睪固酮）轉化為雌二醇的生化路徑，使停經後婦女體內雌激素水平大幅下降（仿單記載降幅約 75% 至 95%），直接剝奪雌激素受體（ER）陽性乳癌細胞的增殖信號。
+目前缺乏詳細的作用機轉（MOA）原始資料。就已知資訊，Letrozole 是非固醇類芳香環轉化酶抑制劑，能阻斷雄激素轉化為雌激素，使依賴雌激素生長的荷爾蒙敏感型乳癌失去生長訊號。這也是它現有乳癌適應症的核心機轉。
 
-<!-- review:begin letrozole-estrogen-suppression-percent-2026-10-03 -->
+需要說明的是：「女性乳癌」本質上與 Letrozole 現有適應症高度重疊，屬於同一疾病領域。因此這項預測較接近「確認並涵蓋既有用途」，而非跨疾病的全新用途。
 
-> **查核更正（2026-10-03）**：原寫「使停經後婦女體內雌激素水平大幅下降（降幅超過 95%）」。Femara 仿單記載每日 0.1～5 mg 使血漿 estradiol、estrone、estrone sulfate 較基準值下降 75% 至 95%，不是超過 95%。預測推論與結論未改。依據：[DailyMed：Femara (letrozole) tablets 仿單（Novartis），Pharmacodynamics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406)。
-
-<!-- review:end letrozole-estrogen-suppression-percent-2026-10-03 -->
-
-TxGNN 預測 Letrozole 對「女性乳癌」有效，實質上是對其核准適應症的模型確認。台灣現行核准範圍涵蓋停經後 ER 陽性乳癌的末期、局部晚期/轉移性（第一線）、輔助及延伸輔助治療等多個情境；而「女性乳癌」作為更廣義的病理類別，代表模型捕捉到 Letrozole 在乳癌治療體系中的核心地位。
-
-值得注意的是，Letrozole 近年已成為多個 CDK4/6 抑制劑（Palbociclib、Ribociclib、Abemaciclib）的標準內分泌治療搭配藥物。大型 Phase 3 試驗（MONALEESA-2、PALOMA-2、BIG 1-98）不斷擴展其在 HR+/HER2− 乳癌各臨床情境中的標準治療地位，這些豐富的機轉與臨床證據正是 TxGNN 給出 99.98% 高分的基礎。
-
----
+另外，此預測成立的前提是腫瘤為荷爾蒙受體陽性。支持證據幾乎都來自 ER+/HR+ 的族群，對受體陰性的乳癌，機轉上不預期有效。
 
 ## 臨床試驗證據
 
+以下列出與 Letrozole 最相關的試驗（依相關性與階段挑選，共 10 項）：
+
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT02297438](https://clinicaltrials.gov/study/NCT02297438) | Phase 3 | 完成 | 340 | PALOMA-2 亞洲族群：比較 Palbociclib+Letrozole vs 安慰劑+Letrozole，用於未治療 ER+/HER2− 停經後晚期乳癌 |
-| [NCT01958021](https://clinicaltrials.gov/study/NCT01958021) | Phase 3 | 完成 | 668 | MONALEESA-2：評估 Ribociclib 合併 Letrozole 於 HR+/HER2− 晚期乳癌一線治療的無進展存活期 |
-| [NCT00265759](https://clinicaltrials.gov/study/NCT00265759) | Phase 3 | 完成 | 622 | 停經後 Stage II-III ER+ 乳癌：比較 Exemestane、Letrozole、Anastrozole 16-18 週新輔助療效 |
-| [NCT00908531](https://clinicaltrials.gov/study/NCT00908531) | Phase 3 | 已終止 | 123 | DBCG 試驗：評估 Letrozole 4 個月作為停經後 HR+ 早期乳癌初始治療 vs 手術優先策略 |
-| [NCT00171314](https://clinicaltrials.gov/study/NCT00171314) | Phase 3 | 完成 | 527 | 停經後乳癌接受 Letrozole 輔助治療期間，比較立即 vs 延遲 Zoledronic acid 預防骨密度流失 |
-| [NCT01573442](https://clinicaltrials.gov/study/NCT01573442) | Phase 3 | 完成 | 227 | Anastrozole 或 Letrozole 引起的關節痛：睪固酮 vs 安慰劑輔助治療的隨機對照試驗 |
-| [NCT05183828](https://clinicaltrials.gov/study/NCT05183828) | Phase 4 | 招募中 | 68 | 評估 HSD3B1 基因型（1245C 突變）是否降低 Letrozole 術前治療療效（Stage I-III ER+/HER2−） |
-| [NCT00535418](https://clinicaltrials.gov/study/NCT00535418) | Phase 2/3 | 完成 | 35 | 停經後 ER/PgR 陽性乳癌術前 Letrozole 最適治療時間評估，並建立療效替代標記的相關性 |
-| [NCT03111615](https://clinicaltrials.gov/study/NCT03111615) | Phase 4 | 未知 | 90 | 探討組織確診後立即啟動 Letrozole 治療對腫瘤生物特性的潛在影響 |
-| [NCT02679755](https://clinicaltrials.gov/study/NCT02679755) | Phase 4 | 完成 | 252 | Palbociclib+Letrozole 用於 HR+/HER2− 停經後晚期乳癌的真實世界療效與安全性觀察 |
+| [NCT02941926](https://clinicaltrials.gov/study/NCT02941926) | Phase 3 | 完成 | 3246 | Ribociclib 併用 Letrozole 用於 HR+/HER2- 晚期乳癌的安全性與療效（含男性及停經前後女性） |
+| [NCT02600923](https://clinicaltrials.gov/study/NCT02600923) | Phase 3 | 完成 | 131 | Palbociclib 併用 Letrozole 用於停經後 HR+/HER2- 晚期乳癌（拉丁美洲用藥可近性研究） |
+| [NCT01740427](https://clinicaltrials.gov/study/NCT01740427) | Phase 3 | 完成 | 666 | PALOMA-2：Palbociclib + Letrozole 對比安慰劑 + Letrozole，用於未接受過晚期治療的 ER+/HER2- 乳癌 |
+| [NCT00382070](https://clinicaltrials.gov/study/NCT00382070) | Phase 3 | 狀態未知 | 3966 | 完成 5 年荷爾蒙治療後，延長 5 年 Letrozole 對比安慰劑，評估無病存活期 |
+| [NCT00908531](https://clinicaltrials.gov/study/NCT00908531) | Phase 3 | 提前終止 | 123 | 術前 4 個月 Letrozole 對比先手術，用於停經後可手術的 HR+ 腫瘤 |
+| [NCT03425838](https://clinicaltrials.gov/study/NCT03425838) | Phase 3 | 進行中 | 1050 | SONIA：芳香環轉化酶抑制劑加 CDK4/6 抑制劑用於第一線或第二線的順序比較 |
+| [NCT04272801](https://clinicaltrials.gov/study/NCT04272801) | Phase 2 | 進行中 | 84 | 老年早期 ER+ 乳癌病人術前荷爾蒙治療窗口期研究 |
+| [NCT04568616](https://clinicaltrials.gov/study/NCT04568616) | Phase 2 | 進行中 | 178 | NAOMI：停經後 ER+/HER2- 乳癌術前 Letrozole 4–24 週的分子分析 |
+| [NCT01439711](https://clinicaltrials.gov/study/NCT01439711) | Phase 2 | 完成 | 108 | 停經後 ER+ 乳管原位癌術前 Letrozole |
+| [NCT02344550](https://clinicaltrials.gov/study/NCT02344550) | Phase 2 | 完成 | 137 | 停經前轉移性乳癌：卵巢抑制 + Letrozole + Everolimus |
 
----
+> 說明：上述多數試驗是以 Letrozole 作為荷爾蒙治療主幹，搭配 CDK4/6 抑制劑等新藥，因此提供的是「Letrozole 為標準治療基礎」的間接支持。
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [32683565](https://pubmed.ncbi.nlm.nih.gov/32683565/) | 2020 | RCT | Breast Cancer Res Treat | PALOMA-1 整體存活分析：Palbociclib+Letrozole vs Letrozole 單藥，中位 PFS 20.2 vs 10.2 個月 |
-| [35464999](https://pubmed.ncbi.nlm.nih.gov/35464999/) | 2022 | RCT | Comput Math Methods Med | Tamoxifen 序貫治療 vs Letrozole 單藥治療乳癌的療效、安全性與患者預後比較 |
-| [16382061](https://pubmed.ncbi.nlm.nih.gov/16382061/) | 2005 | RCT | N Engl J Med | BIG 1-98 試驗：Letrozole 優於 Tamoxifen 作為停經後早期 HR+ 乳癌的輔助治療 |
-| [36243120](https://pubmed.ncbi.nlm.nih.gov/36243120/) | 2022 | Review | Life Sciences | Letrozole 藥理機轉、毒性及潛在治療效果的全面性系統回顧 |
-| [20095792](https://pubmed.ncbi.nlm.nih.gov/20095792/) | 2010 | Review | Expert Opin Drug Metab Toxicol | Letrozole 藥動學、藥效學及臨床療效與安全性的專家完整評述 |
-| [35378469](https://pubmed.ncbi.nlm.nih.gov/35378469/) | 2022 | Cohort | Curr Probl Cancer | Palbociclib+Letrozole 於 HR+ 晚期乳癌：反應預測因子與預後因子的多因素分析 |
-| [34645649](https://pubmed.ncbi.nlm.nih.gov/34645649/) | 2022 | Cohort | Clin Cancer Res | ER+/HER2− 乳癌中 Palbociclib+Letrozole 的抗增殖反應、藥動效應及抗藥性生物標記 |
-| [29229198](https://pubmed.ncbi.nlm.nih.gov/29229198/) | 2017 | Cohort | Arch Med Res | Raloxifene 合併 Letrozole 對 MCF-7 乳癌細胞株及 HEK 細胞的細胞毒性效應評估 |
-| [16500235](https://pubmed.ncbi.nlm.nih.gov/16500235/) | 2006 | Review | Breast | Letrozole 開發歷程、晚期乳癌應用與新輔助治療情境的全面性回顧 |
-| [27235140](https://pubmed.ncbi.nlm.nih.gov/27235140/) | 2016 | In vitro | Med Oncol | Letrozole 誘導腫瘤相關纖維母細胞（CAF）功能改變，進而影響乳癌細胞的內分泌療效 |
-
----
+| [35263519](https://pubmed.ncbi.nlm.nih.gov/35263519/) | 2022 | RCT | N Engl J Med | MONALEESA-2：Ribociclib + Letrozole 用於 HR+/HER2- 晚期乳癌的整體存活分析 |
+| [29718092](https://pubmed.ncbi.nlm.nih.gov/29718092/) | 2018 | RCT | Ann Oncol | MONALEESA-2 更新：第一線 Ribociclib + Letrozole 延長無惡化存活期，毒性可控 |
+| [36243120](https://pubmed.ncbi.nlm.nih.gov/36243120/) | 2022 | Review | Life Sci | Letrozole 的藥理、毒性與潛在治療效果 |
+| [20095792](https://pubmed.ncbi.nlm.nih.gov/20095792/) | 2010 | Review | Expert Opin Drug Metab Toxicol | 第三代芳香環轉化酶抑制劑 Letrozole 的藥效、藥動、療效與安全性 |
+| [21364577](https://pubmed.ncbi.nlm.nih.gov/21364577/) | 2011 | Review | Br J Cancer | 比較 Anastrozole 與 Letrozole 的臨床差異 |
+| [30632023](https://pubmed.ncbi.nlm.nih.gov/30632023/) | 2019 | Cohort | Breast Cancer Res Treat | PALOMA-2 延長追蹤：Palbociclib + Letrozole 的持續獲益 |
+| [31190621](https://pubmed.ncbi.nlm.nih.gov/31190621/) | 2019 | Cohort | Pharmacogenomics | SLCO1B1 多型性與接受 Letrozole／Exemestane 病人血漿雌激素濃度的關聯 |
+| [19380449](https://pubmed.ncbi.nlm.nih.gov/19380449/) | 2009 | Phase 2 隨機試驗 | J Clin Oncol | 術前 Everolimus + Letrozole 對比安慰劑 + Letrozole 用於 ER+ 乳癌 |
+| [16621229](https://pubmed.ncbi.nlm.nih.gov/16621229/) | 2006 | Review | Eur J Obstet Gynecol Reprod Biol | Tamoxifen 後延長使用 Letrozole 的原因、對象與期間 |
+| [12113048](https://pubmed.ncbi.nlm.nih.gov/12113048/) | 2002 | Review | Expert Rev Anticancer Ther | Letrozole 作為轉移性停經後乳癌第一線治療，優於 Tamoxifen |
 
 ## 台灣上市資訊
 
@@ -109,9 +96,9 @@ TxGNN 預測 Letrozole 對「女性乳癌」有效，實質上是對其核准適
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Letrozole 的不重複許可證共 **16 張**：有效單方 9 張、有效複方 0 張、已註銷 7 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Letrozole 的不重複許可證共 **16 張**：有效單方 10 張、有效複方 0 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（9 張）
+**有效・單方**（10 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -122,56 +109,43 @@ TxGNN 預測 Letrozole 對「女性乳癌」有效，實質上是對其核准適
 | 衛部藥輸字第026206號 | 利妥柔膜衣錠2.5毫克 | 膜衣錠 | 美時化學製藥股份有限公司 | 2028/12/02 | 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療。停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。荷爾蒙接受器呈陽性及LN METASTASIS POSITIVE… |
 | 衛部藥輸字第026313號 | 萊特汝膜衣錠2.5毫克 | 膜衣錠 | 凱沛爾藥品有限公司 | 2029/05/12 | 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療。停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。荷爾蒙接受器呈陽性及LN METASTASIS POSITIVE… |
 | 衛部藥輸字第026581號 | 利乳寧膜衣錠2.5毫克 | 膜衣錠 | 昱泰藥品股份有限公司 | 2030/08/05 | 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療。停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。荷爾蒙接受器呈陽性及LN METASTASIS POSITIVE… |
+| 衛部藥輸字第027448號 | 法萌樂膜衣錠 | 膜衣錠 | 台灣邁蘭有限公司 | 2028/06/04 | 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療。停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。荷爾蒙接受器呈陽性及LN METASTASIS POSITIVE… |
 | 衛部藥輸字第027485號 | 利妥唑 | （粉） | 恒亞貿易股份有限公司 | 2028/07/31 | 非固醇性抗雌激素藥 |
 | 衛部藥輸字第028712號 | 立妥芙膜衣錠2.5毫克 | 膜衣錠 | 毅有生技醫藥股份有限公司 | 2029/06/21 | 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療。停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。 荷爾蒙接受器呈陽性及LN METASTASIS POSITIV… |
 
-<details><summary><strong>已註銷</strong>（7 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025143號</td><td>特羅捷膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2022/07/06</td></tr><tr><td>衛部藥輸字第026108號</td><td>益乳寧膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2025/06/09</td></tr><tr><td>衛部藥輸字第026127號</td><td>蕾卓洛膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2025/04/29</td></tr><tr><td>衛部藥輸字第026333號</td><td>艾爾芬膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2020/04/10</td></tr><tr><td>衛部藥輸字第026564號</td><td>"精金"蕾乳妥膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2022/06/16</td></tr><tr><td>衛部藥輸字第027448號</td><td>法萌樂膜衣錠</td><td>LETROZOLE</td><td>2026/02/11</td></tr><tr><td>衛部藥輸字第027594號</td><td>利妥唑</td><td>Letrozole</td><td>2025/04/24</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（6 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025143號</td><td>特羅捷膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2022/07/06</td></tr><tr><td>衛部藥輸字第026108號</td><td>益乳寧膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2025/06/09</td></tr><tr><td>衛部藥輸字第026127號</td><td>蕾卓洛膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2025/04/29</td></tr><tr><td>衛部藥輸字第026333號</td><td>艾爾芬膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2020/04/10</td></tr><tr><td>衛部藥輸字第026564號</td><td>"精金"蕾乳妥膜衣錠2.5毫克</td><td>LETROZOLE</td><td>2022/06/16</td></tr><tr><td>衛部藥輸字第027594號</td><td>利妥唑</td><td>Letrozole</td><td>2025/04/24</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 細胞毒性
 
-| 項目 | 內容 |
-|------|------|
-| 細胞毒性分類 | 標靶內分泌治療（非固醇性芳香化酶抑制劑）；**非傳統細胞毒性化療藥物** |
-| 骨髓抑制風險 | 低（不具骨髓毒性，不直接抑制造血功能） |
-| 致吐性分級 | 低 |
-| 監測項目 | 骨密度（DXA 掃描，建議每 1-2 年）、血脂（LDL/HDL）、肝功能（ALT/AST）、骨折風險評估 |
-| 處置防護 | 一般口服固體製劑，無需細胞毒性藥物特殊防護規範 |
-
----
+Letrozole 為荷爾蒙治療藥物（芳香環轉化酶抑制劑），不屬於傳統細胞毒性化療藥。本次資料中缺乏細胞毒性相關資訊，請參考原廠仿單的警語與注意事項。
 
 ## 安全性考量
 
-**藥物交互作用**（共 259 筆紀錄，以下列出主要項目）：
+- **知識圖譜標示的潛在禁忌／風險疾病**（來自藥物－疾病關聯資料，並非仿單文字，需與仿單核對）：肝衰竭、肝硬化、骨質疏鬆（含停經後骨質疏鬆）、高膽紅素血症（含遺傳性高膽紅素血症、Gilbert 症候群）、腦血管疾病。
+- **藥物交互作用**：資料庫共記錄 259 筆交互作用。其中明確分級為中度者包括 Aprepitant；其餘列出的（如 Calcitriol、Glimepiride、Lansoprazole、Metformin、Omeprazole、Prednisone、Simvastatin 等）等級為未知，需進一步評估。
+- 臨床試驗與文獻中也曾提及芳香環轉化酶抑制劑相關的關節痛／肌痛、骨骼不良反應，以及個案報告中的黃斑部病變。
 
-| 交互藥物 | 嚴重程度 | 說明 |
-|---------|---------|------|
-| Aprepitant | **中度 (Moderate)** | NK1 受體拮抗劑，可能影響 CYP3A4 代謝路徑，與 Letrozole 合用時需注意血藥濃度變化 |
-| Simvastatin | 未知 | 同為 CYP 受質，潛在代謝交互作用有待臨床確認 |
-| Prednisone | 未知 | 乳癌患者常合用類固醇，建議監測 |
-| Metformin | 未知 | 常見合併症（糖尿病）用藥，潛在影響不明 |
-| Omeprazole | 未知 | 常見胃腸道保護劑，潛在影響不明 |
-
-其餘主要警語與禁忌症資訊請參考原廠仿單。
-
----
+其餘警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**
 
 **理由：**
-TxGNN 模型以 99.98% 的高分預測 Letrozole 對女性乳癌有效，完全一致於其台灣現有核准適應症，並獲得多項已完成 Phase 3 RCT（MONALEESA-2、PALOMA-2、BIG 1-98 等）的 L1 等級證據支持。Letrozole 在台灣擁有 16 張許可證（有效 9 張），已是乳癌內分泌治療的主流用藥，近年更成為 CDK4/6 抑制劑組合療法的核心搭配藥物，臨床應用持續擴展。
+- Letrozole 在女性乳癌（荷爾蒙受體陽性）有多項已完成的 Phase 3 試驗及高等級文獻支持，且已在台灣取得相同領域的核准適應症，證據充分。
+- 但此預測與既有適應症高度重疊，且僅適用於 HR+ 族群，需設下適用範圍的護欄。
 
 **若要推進需要：**
-- 補充正式 DrugBank 作用機轉（MOA）欄位，強化機轉層級的科學論述
-- 查閱並更新原廠仿單，填補目前缺漏的主要警語與禁忌症資料
-- 建立長期使用者（輔助治療 5-10 年）的骨密度監測與骨折風險管理計畫
-- 評估 Letrozole 在特定亞型擴展情境中的定位：停經前合併卵巢抑制、HR+/HER2+ 雙受體陽性、以及新興 CDK4/6 抑制劑後線治療等組合策略
+- 明確限定適用族群：荷爾蒙受體陽性、停經後（或停經前併用卵巢抑制）；不應推廣至 ER 陰性乳癌。
+- 補齊作用機轉（MOA）資料與仿單警語、禁忌的正式內容。
+- 建立骨密度、肝功能與心血管風險的監測計畫（對照知識圖譜所列風險疾病）。
+- 審視 DDI 清單，確認併用藥物（特別是中度交互作用藥物）的處置原則。
+- 其他預測（如 ER 陰性乳癌、Ehrlich 腫瘤、纖維囊腫等）證據薄弱或機轉不支持，不建議納入本次推進範圍。
 
 <!-- review:begin log -->
 

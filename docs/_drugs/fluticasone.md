@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fluticasone
-parent: 中證據等級 (L3-L4)
-nav_order: 109
-evidence_level: L4
+parent: 僅模型預測 (L5)
+nav_order: 117
+evidence_level: L5
 indication_count: 10
 ---
 
 # Fluticasone
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,14 @@ indication_count: 10
 
 </div>
 
-# Fluticasone：從氣喘與過敏性鼻炎到偏頭痛
+# Fluticasone：從抗炎性皮質類固醇到偏頭痛
 
 ## 一句話總結
 
-Fluticasone（丙酸氟替皮質醇）是一種廣泛使用的皮質類固醇，原本核准用於治療氣喘、慢性阻塞性肺部疾病、過敏性鼻炎及發炎性皮膚病。TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，目前有 **0 個臨床試驗**和 **1 篇文獻**支持這個方向，整體證據極為薄弱。
+Fluticasone（丙酸氟替皮質醇）是一種糖皮質素，在台灣已用於過敏性鼻炎、氣喘與慢性阻塞性肺病（複方）及發炎性皮膚病等。
+TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目前**沒有臨床試驗**，僅有 **1 篇文獻**，且該文獻是鼻用類固醇神經精神不良反應的回顧，並非療效證據，因此支持度非常薄弱。
+
+---
 
 ## 快速總覽
 
@@ -42,28 +45,38 @@ Fluticasone（丙酸氟替皮質醇）是一種廣泛使用的皮質類固醇，
 | 原適應症 | 抗炎性皮質固醇（外用） |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
 | TxGNN 預測分數 | 99.20% |
-| 證據等級 | L4 |
+| 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 58 張（有效單方 23／有效複方 13／已註銷 22） |
+| 許可證數 | 57 張（有效單方 23／有效複方 12／已註銷 22） |
 | 建議決策 | Hold |
+
+---
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（MOA）。根據已知資訊，Fluticasone 是糖皮質激素（glucocorticoid）藥物類別的一員，具有高親和力結合糖皮質激素受體（GR）的特性，廣泛抑制促炎細胞因子的生成與釋放。其抗炎與免疫調節效果在氣喘、COPD、過敏性鼻炎及皮膚炎等適應症中均已得到臨床確認。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Fluticasone 是具有抗發炎活性的糖皮質素，已在過敏性鼻炎、氣喘及發炎性皮膚病中證實療效。
 
-偏頭痛的發病機轉與三叉神經血管系統的神經源性炎症（neurogenic inflammation）密切相關——促炎介質（如 CGRP、P 物質）在偏頭痛發作期間大量釋放。理論上，Fluticasone 的廣效抗炎機轉可能抑制上述炎症路徑，提供了間接的生物學關聯性。
+理論上，糖皮質素可能調節神經源性發炎，而神經源性發炎被認為與偏頭痛的病理有關。不過這只是推論，目前沒有臨床前或臨床資料直接支持。
 
-然而，目前唯一相關的文獻（2008 年 WHO 藥物警戒回顧）探討的是**鼻內皮質類固醇引發的神經精神副作用**，並非評估治療偏頭痛的療效，不足以支持此適應症的臨床開發。TxGNN 的高分預測可能源自知識圖譜中的遠端間接關聯，臨床意義有限。
+需要特別留意：唯一檢索到的文獻討論的是鼻用類固醇的神經精神副作用，反而提醒此類藥物可能有神經方面的安全疑慮，不能視為支持療效。
+
+此外，同一份預測清單中的其他高分項目（如變異型心絞痛、畸胎瘤、外生骨疣等）多半缺乏合理的機轉連結，顯示 TxGNN 分數高不等於臨床上可行。
+
+---
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
+---
+
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [18681087](https://pubmed.ncbi.nlm.nih.gov/18681087/) | 2008 | Review | Ann Allergy Asthma Immunol | 回顧 WHO Uppsala 監測中心收錄的鼻內皮質類固醇相關神經精神障礙案例；此為藥物警戒副作用研究，並非 Fluticasone 用於偏頭痛的療效研究 |
+| [18681087](https://pubmed.ncbi.nlm.nih.gov/18681087/) | 2008 | Review | Annals of Allergy, Asthma & Immunology | 回顧世界衛生組織國際藥物安全監視計畫資料，指出鼻用類固醇使用期間出現一群神經精神異常的通報。此為安全性回顧，非偏頭痛療效證據。 |
+
+---
 
 ## 台灣上市資訊
 
@@ -71,7 +84,7 @@ Fluticasone（丙酸氟替皮質醇）是一種廣泛使用的皮質類固醇，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Fluticasone 的不重複許可證共 **58 張**：有效單方 23 張、有效複方 13 張、已註銷 22 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Fluticasone 的不重複許可證共 **57 張**：有效單方 23 張、有效複方 12 張、已註銷 22 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 **有效・單方**（23 張）
 
@@ -83,7 +96,7 @@ Fluticasone（丙酸氟替皮質醇）是一種廣泛使用的皮質類固醇，
 | 衛署藥製字第047028號 | 悠得爽乳膏 | 乳膏劑 | 瑩碩生技醫藥股份有限公司 | 2030/01/20 | 緩解皮膚病之發炎以及搔癢症狀。如:溼疹、包括異位性、初期和盤狀溼疹;結節性癢疹;乾癬(不包括廣泛性板魂之乾癬)、神經性皮膚炎、包括單純苔癬、扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
 | 衛署藥製字第047834號 | 悠得爽軟膏0.005% | 軟膏劑 | 瑩碩生技醫藥股份有限公司 | 2031/02/21 | 緩解皮膚病之發炎以及搔癢症狀，如：溼疹，包括異位性、初期和盤狀溼疹；牛皮癬(不包括蔓延性斑之牛皮癬)；神經性皮膚病，包括單純苔癬；扁平苔癬、皮脂漏皮膚炎、接觸性過敏反應、盤狀性紅斑… |
 | 衛署藥製字第047977號 | "羅得" 膚可松乳膏 | 乳膏劑 | 羅得化學製藥股份有限公司 | 2031/05/09 | 緩解皮膚病之發炎以及搔癢症狀。如:溼疹、包括異位性、初期和盤狀溼疹;結節性癢疹;乾癬(不包括廣泛性板塊之乾癬)、神經性皮膚炎、包括單純苔癬、扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
-| 衛署藥製字第048505號 | "十全" 全佳膚乳膏 | 乳膏劑 | 十全實業股份有限公司 | 2032/01/09 | 緩解皮膚病之發炎以及搔癢症狀，如：溼疹、包括異位性、初期和盤狀溼疹；結節性癢疹；乾癬(不包括廣泛性板塊之乾癬)；神經性皮膚炎，包括單純苔癬；扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
+| 衛署藥製字第048505號 | "十全" 全佳膚乳膏 | 乳膏劑 | 十全實業股份有限公司 | 2027/01/09 | 緩解皮膚病之發炎以及搔癢症狀，如：溼疹、包括異位性、初期和盤狀溼疹；結節性癢疹；乾癬(不包括廣泛性板塊之乾癬)；神經性皮膚炎，包括單純苔癬；扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
 | 衛署藥製字第048582號 | "羅得"可安軟膏 | 軟膏劑 | 羅得化學製藥股份有限公司 | 2027/02/07 | 緩解皮膚病之發炎以及搔癢症狀，如：濕疹，包括異位性、初期和盤狀濕疹；牛皮癬(不包括蔓延性斑之牛皮癬)；神經性皮膚病，包括單純苔癬；扁平苔癬、皮脂漏皮膚炎、接觸性過敏反應、盤狀性紅斑… |
 | 衛署藥製字第049274號 | 益膚敏乳膏 0.05% | 乳膏劑 | 意欣國際有限公司 | 2028/02/01 | 緩解皮膚病之發炎及搔癢症狀，如：溼疹，包括異位性、初期和盤狀溼疹；結節性癢疹；乾癬(不包括廣泛性板塊之乾癬)、神經性皮膚炎，包括單純苔蘚、扁平苔蘚、脂漏性皮膚炎、接觸性過敏反應、圓… |
 | 衛署藥製字第049338號 | 德敏妍 乳膏 | 乳膏劑 | 壽元化學工業股份有限公司 | 2028/03/24 | 緩解皮膚病之發炎以及搔癢症狀，如：溼疹，包括異位性、初期和盤狀溼疹；結節性癢疹；乾癬(不包括廣泛性板塊之乾癬)；神經性皮膚炎，包括單純苔癬；扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
@@ -93,7 +106,7 @@ Fluticasone（丙酸氟替皮質醇）是一種廣泛使用的皮質類固醇，
 | 衛署藥輸字第023755號 | 輔舒酮 優氟 吸入劑５０微公克／劑量 | 口腔吸入劑 | 荷商葛蘭素史克藥廠股份有限公司台灣分公司 | 2028/06/20 | 用於預防性治療成人及兒童氣喘。 |
 | 衛署藥輸字第024877號 | 艾敏釋鼻用噴液懸浮劑 | 鼻用懸液劑 | 荷商葛蘭素史克藥廠股份有限公司台灣分公司 | 2028/09/03 | 治療2歲以上的兒童、青少年與成人的過敏性鼻炎。 |
 | 衛署藥輸字第025961號 | 丙酸氟替卡松 | （粉） | 新雙隆生技股份有限公司 | 2028/03/27 | 緩解皮膚病之發炎以及搔癢症狀用藥。 |
-| 衛部藥製字第059738號 | 康利舒冒舒敏鼻噴劑 | 鼻用噴液懸浮劑 | 優良生技醫藥股份有限公司 | 2027/07/24 | 暫時緩解已經醫師診斷之過敏性鼻炎或其他上呼吸道過敏相關症狀：鼻塞、流鼻水、打噴嚏、鼻搔癢、眼睛癢、流眼淚。 |
+| 衛部藥製字第059738號 | 普樂康舒敏鼻噴劑 | 鼻用噴液懸浮劑 | 健喬信元醫藥生技股份有限公司 | 2027/07/24 | 暫時緩解已經醫師診斷之過敏性鼻炎或其他上呼吸道過敏相關症狀：鼻塞、流鼻水、打噴嚏、鼻搔癢、眼睛癢、流眼淚。 |
 | 衛部藥製字第060471號 | 膚提舒乳膏0.05% | 乳膏劑 | 中生生技製藥股份有限公司淡水廠 | 2030/04/06 | 發炎性皮膚病之治療。Fluticasone Propionate乳膏為一種供成人、兒童以及滿3個月嬰幼童使用的有效外用皮質類固醇，用於對皮質類固醇有反應的皮膚病，緩解皮膚病之發炎以… |
 | 衛部藥製字第061525號 | 輔停敏鼻用噴液懸浮劑 27.5微公克/劑量 | 鼻用懸液劑 | 健喬信元醫藥生技股份有限公司 | 2028/11/28 | 治療2歲以上的兒童、青少年與成人的過敏性鼻炎。 |
 | 衛部藥輸字第027974號 | 丙酸氟替皮質醇 | （粉） | 東譽興業股份有限公司 | 2030/10/13 | 抗炎性皮質固醇（外用） |
@@ -101,53 +114,57 @@ Fluticasone（丙酸氟替皮質醇）是一種廣泛使用的皮質類固醇，
 | 衛部藥輸字第028911號 | 氟替皮質醇丙酸酯 | （粉） | 盛佳國際股份有限公司 | 2030/03/06 | 抗炎皮質固醇 |
 | 衛部藥陸輸字第000836號 | 丙酸氟替皮質醇 | （粉） | 菩鏹股份有限公司 | 2028/05/14 | 抗炎性皮質固醇(外用) |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（13 張）
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（12 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥輸字第023202號 | 使肺泰１００準納　乾粉吸入劑 | SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO… | 口腔吸入劑 | STRETIDE適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(β-AGO… |
+| 衛署藥輸字第023202號 | 使肺泰１００準納　乾粉吸入劑 | FLUTICASONE PROPIONATE MICRONIZED、SALMETEROL XINAFOATE MICRO… | 口腔吸入劑 | STRETIDE適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(β-AGO… |
 | 衛署藥輸字第023203號 | 使肺泰２５０準納乾粉吸入劑 | SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO… | 粉狀吸入劑 | STRETIDE適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(β-AGO… |
 | 衛署藥輸字第023480號 | 使肺泰50優氟吸入劑 | SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO… | 口腔吸入劑 | SERETIDE適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法的兒童與成人。這可能包括正在使用長效乙型作用劑(β-AGONIST)及… |
 | 衛署藥輸字第023481號 | 使肺泰250優氟吸入劑 | SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO… | 口腔吸入劑 | SERETIDE適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(β-AGO… |
-| 衛署藥輸字第023482號 | 使肺泰125優氟吸入劑 | SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO… | 口腔吸入劑 | SERETIDE適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(β-AGO… |
+| 衛署藥輸字第023482號 | 使肺泰125優氟吸入劑 | FLUTICASONE PROPIONATE MICRONIZED、SALMETEROL XINAFOATE MICRO… | 口腔吸入劑 | SERETIDE適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(β-AGO… |
 | 衛署藥輸字第024849號 | 使肺泰 50/500 準納乾粉吸入劑 | SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO… | 乾粉吸入劑 | 成人及12歲以上青少年之嚴重氣喘及中至重度(FEV1<60%)慢性阻塞性肺部疾病之維持性治療。 |
 | 衛部藥製字第060851號 | "健喬"帝伏寧137/50定量鼻噴懸液劑 | AZELASTINE HYDROCHLORIDE、FLUTICASONE PROPIONATE MICRONIZED | 鼻用懸液劑 | 本品適用於治療6歲以上兒童及成人之中度至重度過敏性鼻炎的相關症狀。 |
-| 衛部藥製字第062105號 | 欣輔寧137/50定量鼻用噴霧劑 | AZELASTINE HYDROCHLORIDE、FLUTICASONE PROPIONATE MICRONIZED | 鼻用懸液劑 | 本品適用於治療6歲以上兒童及成人之中度至重度過敏性鼻炎的相關症狀。 |
-| 衛部藥輸字第026318號 | 潤娃易利達92/22 mcg乾粉吸入劑 | Fluticasone furoate (micronised)、Vilanterol trifenatate (mic… | 乾粉吸入劑 | 1.慢性阻塞性肺病的維持治療：適用於慢性阻塞性肺病(COPD)病人的維持治療。降低有惡化病史病人之COPD惡化。 2.氣喘的維持治療：適用於適合使用吸入型皮質類固醇及長效β2 作用… |
+| 衛部藥輸字第026318號 | 潤娃易利達92/22 mcg乾粉吸入劑 | Vilanterol trifenatate (micronised)、Fluticasone furoate (mic… | 乾粉吸入劑 | 1.1 慢性阻塞性肺病的維持治療： 慢性阻塞性肺病(COPD)患者之氣道阻塞症狀的維持治療。 降低有惡化病史患者之COPD惡化。 1.2 氣喘的治療： 治療適合使用吸入型皮質類固醇… |
 | 衛部藥輸字第027034號 | 潤娃易利達184/22 mcg 乾粉吸入劑 | Fluticasone furoate (micronised)、Vilanterol trifenatate (mic… | 乾粉吸入劑 | 治療適合使用吸入型皮質類固醇及長效β2作用劑合併治療的18歲及以上氣喘患者 |
-| 衛部藥輸字第027395號 | 肺樂喜易利達92/55/22 mcg乾粉吸入劑 | Fluticasone furoate (micronised)、Vilanterol trifenatate (mic… | 乾粉吸入劑 | 1. 慢性阻塞性肺病維持治療：適用於已接受吸入性皮質類固醇與長效β2作用劑合併治療，或已定期使用兩種吸入型長效支氣管擴張劑合併治療，而仍控制不佳的慢性阻塞性肺病(COPD)病人，以… |
+| 衛部藥輸字第027395號 | 肺樂喜易利達92/55/22 mcg乾粉吸入劑 | Umeclidinium bromide (micronised)、Vilanterol trifenatate (mi… | 乾粉吸入劑 | 1. 慢性阻塞性肺病維持治療：適用於已接受吸入性皮質類固醇與長效β2作用劑合併治療，或已定期使用兩種吸入型長效支氣管擴張劑合併治療，而仍控制不佳的慢性阻塞性肺病(COPD)病人，以… |
 | 衛部藥輸字第027767號 | 吸洛復250定量噴霧吸入劑 | SALMETEROL、FLUTICASONE PROPIONATE | 口腔吸入劑 | 適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(ß-AGONIST)及吸入… |
-| 衛部藥輸字第028240號 | 肺樂喜易利達184/55/22 mcg 乾粉吸入劑 | Vilanterol trifenatate (micronised)、Umeclidinium bromide (mi… | 乾粉吸入劑 | 適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 |
+| 衛部藥輸字第028240號 | 肺樂喜易利達184/55/22 mcg 乾粉吸入劑 | Fluticasone furoate (micronised)、Vilanterol trifenatate (mic… | 乾粉吸入劑 | 適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 |
 
 <details><summary><strong>已註銷</strong>（22 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第040364號</td><td>克延膚軟膏０．００５％（氟梯卡松）</td><td>FLUTICASONE PROPIONATE</td><td>2013/04/08</td></tr><tr><td>衛署藥輸字第021475號</td><td>輔舒酮　吸入劑２５０微公克／ＤＯＳＥ</td><td>FLUTICASONE PROPIONATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021476號</td><td>輔舒酮　吸入劑５０微公克／DOSE</td><td>FLUTICASONE PROPIONATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021922號</td><td>輔舒銅ＴＭ準納ＴＭ乾粉吸入劑５０微公克／DOSE</td><td>FLUTICASONE PROPIONATE</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第021923號</td><td>輔舒銅ＴＭ準納ＴＭ乾粉吸入劑５００微公克／ＤＯＳＥ</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第022792號</td><td>輔舒酮　呼吸溶液劑０．５公絲/２公撮</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第022793號</td><td>輔舒酮　呼吸溶液劑　２毫克/２毫升</td><td>FLUTICASONE PROPIONATE</td><td>2024/06/12</td></tr><tr><td>衛署藥輸字第023273號</td><td>輔舒良　鼻用滴劑４００ＭＣＧ</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第023753號</td><td>輔舒酮優氟吸入劑２５０微公克／劑量</td><td>FLUTICASONE PROPIONATE MICRONIZED</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第023773號</td><td>克廷膚乳膏 0.05% (氟梯卡松)</td><td>FLUTICASONE PROPIONATE</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026253號</td><td>優游50優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026254號</td><td>優游125優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026255號</td><td>優游250優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026343號</td><td>呼特康50/5微克加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、FORMOTEROL FUMARATE DIHYDRATE</td><td>2023/03/24</td></tr><tr><td>衛部藥輸字第026344號</td><td>呼特康250/10微克加壓驅動懸浮吸入劑</td><td>FORMOTEROL FUMARATE DIHYDRATE、FLUTICASONE PROPIONATE</td><td>2023/03/21</td></tr><tr><td>衛部藥輸字第026345號</td><td>呼特康125/5微克加壓驅動懸浮吸入劑</td><td>FORMOTEROL FUMARATE DIHYDRATE、FLUTICASONE PROPIONATE</td><td>2023/03/13</td></tr><tr><td>衛部藥輸字第026650號</td><td>肺服欣乾粉吸入劑50微克/500微克</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2020/09/07</td></tr><tr><td>衛部藥輸字第026824號</td><td>肺服欣乾粉吸入劑50微克/250微克</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2020/09/07</td></tr><tr><td>衛部藥輸字第027128號</td><td>丙酸氟替皮質醇</td><td>Fluticasone Propionate</td><td>2024/09/27</td></tr><tr><td>衛部藥輸字第027681號</td><td>鼻適暢137/50定量鼻用噴霧劑</td><td>AZELASTINE HYDROCHLORIDE、FLUTICASONE PROPIONATE</td><td>2025/08/15</td></tr><tr><td>衛部藥輸字第028035號</td><td>順肺坦250定量加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2025/08/18</td></tr><tr><td>衛部藥輸字第028036號</td><td>順肺坦125定量加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2025/08/15</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第040364號</td><td>克延膚軟膏０．００５％（氟梯卡松）</td><td>FLUTICASONE PROPIONATE</td><td>2013/04/08</td></tr><tr><td>衛署藥輸字第021475號</td><td>輔舒酮　吸入劑２５０微公克／ＤＯＳＥ</td><td>FLUTICASONE PROPIONATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021476號</td><td>輔舒酮　吸入劑５０微公克／DOSE</td><td>FLUTICASONE PROPIONATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021922號</td><td>輔舒銅ＴＭ準納ＴＭ乾粉吸入劑５０微公克／DOSE</td><td>FLUTICASONE PROPIONATE</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第021923號</td><td>輔舒銅ＴＭ準納ＴＭ乾粉吸入劑５００微公克／ＤＯＳＥ</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第022792號</td><td>輔舒酮　呼吸溶液劑０．５公絲/２公撮</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第022793號</td><td>輔舒酮　呼吸溶液劑　２毫克/２毫升</td><td>FLUTICASONE PROPIONATE</td><td>2024/06/12</td></tr><tr><td>衛署藥輸字第023273號</td><td>輔舒良　鼻用滴劑４００ＭＣＧ</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第023753號</td><td>輔舒酮優氟吸入劑２５０微公克／劑量</td><td>FLUTICASONE PROPIONATE MICRONIZED</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第023773號</td><td>克廷膚乳膏 0.05% (氟梯卡松)</td><td>FLUTICASONE PROPIONATE</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026253號</td><td>優游50優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026254號</td><td>優游125優氟吸入劑</td><td>FLUTICASONE PROPIONATE MICRONIZED、SALMETEROL XINAFOATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026255號</td><td>優游250優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026343號</td><td>呼特康50/5微克加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、FORMOTEROL FUMARATE DIHYDRATE</td><td>2023/03/24</td></tr><tr><td>衛部藥輸字第026344號</td><td>呼特康250/10微克加壓驅動懸浮吸入劑</td><td>FORMOTEROL FUMARATE DIHYDRATE、FLUTICASONE PROPIONATE</td><td>2023/03/21</td></tr><tr><td>衛部藥輸字第026345號</td><td>呼特康125/5微克加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、FORMOTEROL FUMARATE DIHYDRATE</td><td>2023/03/13</td></tr><tr><td>衛部藥輸字第026650號</td><td>肺服欣乾粉吸入劑50微克/500微克</td><td>SALMETEROL XINAFOATE、FLUTICASONE PROPIONATE</td><td>2020/09/07</td></tr><tr><td>衛部藥輸字第026824號</td><td>肺服欣乾粉吸入劑50微克/250微克</td><td>SALMETEROL XINAFOATE、FLUTICASONE PROPIONATE</td><td>2020/09/07</td></tr><tr><td>衛部藥輸字第027128號</td><td>丙酸氟替皮質醇</td><td>Fluticasone Propionate</td><td>2024/09/27</td></tr><tr><td>衛部藥輸字第027681號</td><td>鼻適暢137/50定量鼻用噴霧劑</td><td>FLUTICASONE PROPIONATE、AZELASTINE HYDROCHLORIDE</td><td>2025/08/15</td></tr><tr><td>衛部藥輸字第028035號</td><td>順肺坦250定量加壓驅動懸浮吸入劑</td><td>SALMETEROL XINAFOATE、FLUTICASONE PROPIONATE</td><td>2025/08/18</td></tr><tr><td>衛部藥輸字第028036號</td><td>順肺坦125定量加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2025/08/15</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
+---
+
 ## 安全性考量
 
-**藥物交互作用**（資料庫共收錄 474 筆，以下列出代表性項目）：
+- **藥物交互作用**：資料庫共收錄 474 筆交互作用，以下為部分主要項目：
+  - **Clarithromycin**：嚴重 (Major)
+  - **Aprepitant**：中度 (Moderate)
+  - **Insulin human（吸入型速效）**：中度 (Moderate)
+  - 其餘多項（如 Triamcinolone、Prednisone、Simvastatin 等）等級未明
 
-| 交互作用藥物 | 嚴重程度 |
-|------------|--------|
-| Clarithromycin | **Major**（大環內酯類抗生素，CYP3A4 強抑制劑，可能顯著升高 Fluticasone 血中濃度） |
-| Aprepitant | Moderate |
-| Insulin human（吸入型速效） | Moderate |
+其他警語與禁忌症請參考原廠仿單。
 
-其餘警語與禁忌症資訊請參考原廠仿單。
+---
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-目前完全缺乏評估 Fluticasone 用於偏頭痛的臨床試驗，唯一相關文獻為副作用警戒回顧而非療效研究，機轉關聯薄弱，不足以支持進一步的臨床開發決策。
+- 偏頭痛適應症目前僅有模型預測，沒有臨床試驗，唯一文獻是安全性回顧而非療效證據，證據等級為 L5。
+- 缺乏作用機轉資料，且鼻用類固醇有神經精神不良反應的通報，不宜貿然推進。
 
 **若要推進需要：**
-- 補充詳細的 MOA 資料（建議查詢 DrugBank API），確認 Fluticasone 對三叉神經血管炎症的影響
-- 設計前臨床研究，評估糖皮質激素在偏頭痛動物模型中的抑炎效果
-- 系統性回顧皮質類固醇輔助用於偏頭痛急性發作的現有文獻（目前此用途在急診室有一定實務使用，可探索相關數據）
-- 確認給藥途徑（鼻腔、吸入、全身）在偏頭痛治療中的可行性
+- 取得完整的作用機轉資料，並建立糖皮質素與偏頭痛神經源性發炎之間的機轉假說
+- 進行系統性文獻回顧，確認是否有類固醇用於偏頭痛的既有證據
+- 進行前臨床或小規模探索性研究，驗證療效訊號
+- 釐清給藥途徑的可行性（目前台灣劑型為吸入、鼻用、外用），並評估神經精神與全身性安全風險
 
 <!-- review:begin log -->
 

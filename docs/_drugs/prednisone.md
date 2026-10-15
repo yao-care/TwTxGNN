@@ -2,7 +2,7 @@
 layout: default
 title: Prednisone
 parent: 高證據等級 (L1-L2)
-nav_order: 214
+nav_order: 232
 evidence_level: L2
 indication_count: 10
 ---
@@ -29,55 +29,54 @@ indication_count: 10
 
 </div>
 
-# Prednisone：從風濕性疾病到圓禿症
+# Prednisone：從風溼性關節炎到圓形禿 (Alopecia Areata)
 
 ## 一句話總結
 
-Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節炎、氣喘、休克等多種適應症。TxGNN 模型預測它可能對**圓禿症 (Alopecia Areata)** 有效，目前有 **30+ 個臨床試驗**和 **多篇文獻**支持這個方向。
+Prednisone 是口服糖皮質素（glucocorticoid）類藥物，台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症等發炎與免疫相關疾病。
+TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
+目前**無登記的臨床試驗**，但有 **20 篇文獻**支持這個方向，其中包含 1 篇隨機對照試驗（RCT）。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 prednisone＋crotamiton 複方軟膏：濕疹或皮膚炎（衛署藥製字第042080號） |
-| 預測新適應症 | 圓禿症 (Alopecia Areata) |
+| 原適應症 | 風溼性關節炎 |
+| 預測新適應症 | 圓形禿 (Alopecia Areata) |
 | TxGNN 預測分數 | 99.99% |
-| 證據等級 | L2 |
-| 台灣上市 | 已上市 |
+| 證據等級 | L2（註：文獻中有 1 篇 RCT，但為 methotrexate 單用對比 methotrexate 加低劑量 prednisone，並非 prednisone 單用的已完成 Phase 2/3 RCT，且無臨床試驗登記，實際證據偏弱，保守可視為 L3） |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 7 張（有效單方 0／有效複方 1／已註銷 6） |
-| 建議決策 | Go |
-
-<!-- review:begin prednisone-original-indication-other-drugs-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患」。原寫的「急性病症（氣喘、休克）」來自主成分登載為 methylprednisone 的已註銷注射劑（內衛藥輸字第003633號），「風濕性關節炎」字樣來自 prednisolone 的已註銷許可證（內衛藥輸字第005124號），都不是 prednisone 的許可證。Prednisone 單方許可證已全部註銷（曾載濕疹、過敏症、類風濕關節炎）；現行唯一有效許可證是與 crotamiton 的複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。已改為許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end prednisone-original-indication-other-drugs-2026-10-03 -->
+| 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
 
-Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制作用。它透過抑制多種炎症介質和免疫細胞功能來發揮作用。
+目前缺乏詳細的作用機轉資料（原始 MOA 欄位為空）。根據一般藥理知識，Prednisone 在體內轉換為 prednisolone，作為糖皮質素受體促效劑，具有抗發炎與免疫抑制作用。
 
-圓禿症是一種自體免疫疾病，特徵是免疫系統攻擊毛囊導致脫髮。這種疾病的病理機轉涉及 T 細胞介導的自體免疫反應。Prednisone 的免疫抑制作用可以抑制這種異常的免疫反應，從而減少對毛囊的攻擊。
+圓形禿是 T 細胞介導的自體免疫疾病，免疫細胞攻擊毛囊。Prednisone 在風溼性關節炎等自體免疫、發炎疾病中的療效已被證實，抑制 T 細胞攻擊的機轉上，可能同樣適用於圓形禿。
 
-臨床上，皮質類固醇（包括 prednisone）已被廣泛用於治療嚴重的圓禿症，特別是與 methotrexate 併用時效果更佳。最新的隨機對照試驗證實了這種組合療法的有效性。
+不過，歷史文獻顯示療效多為短期：1976 年的追蹤報告指出，停藥後長期效益不顯著，且全身性類固醇有痤瘡、肥胖、水晶體混濁、輕度高血壓等副作用。近年的研究方向是低劑量 prednisone 與其他藥物（如 methotrexate、baricitinib）併用。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT02037191](https://clinicaltrials.gov/study/NCT02037191) | Phase 3 | 已完成 | 90 | Methotrexate 加低劑量 prednisone vs 安慰劑治療嚴重圓禿 |
-| [NCT02953821](https://clinicaltrials.gov/study/NCT02953821) | Phase 4 | 已完成 | 172 | Acthar Gel 用於系統性紅斑狼瘡患者 |
-| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | Phase 3 | 已完成 | 778 | Baricitinib 用於系統性紅斑狼瘡 |
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
+下表列出最相關的文獻（RCT 優先）：
+
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT | JAMA Dermatology | Methotrexate 加低劑量 prednisone 對圓禿全禿/普禿有效 |
-| [26735937](https://pubmed.ncbi.nlm.nih.gov/26735937/) | 2016 | Journal Article | Dermatology | Methotrexate 與中低劑量皮質類固醇併用治療嚴重圓禿的安全性和療效 |
-| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Case Series | Clin Exp Dermatol | Baricitinib 與低劑量皮質類固醇併用治療非常嚴重的圓禿有顯著改善 |
-| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Review | Arch Dermatol | 圓禿治療的療效、安全性和機轉回顧 |
-| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Journal Article | Arch Dermatol | Prednisone 治療圓禿的免疫學研究 |
+| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT | JAMA Dermatology | 針對全禿／普禿型圓形禿，比較 methotrexate 單用與 methotrexate 加低劑量 prednisone 的兩階段雙盲試驗 |
+| [1444500](https://pubmed.ncbi.nlm.nih.gov/1444500/) | 1992 | 隨機對照試驗（原資料未標示類型） | Arch Dermatol | 32 名患者接受 6 週 prednisone 漸減，之後合併 2% minoxidil 或安慰劑，另與 48 人開放試驗比較 |
+| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Review | Arch Dermatol | 回顧圓形禿的治療、療效、安全性與機轉；因研究設計差異大，難以比較各藥物 |
+| [38650498](https://pubmed.ncbi.nlm.nih.gov/38650498/) | 2024 | Cohort | Ital J Dermatol Venereol | 義大利圓形禿住院患者的共病、治療模式與經濟負擔 |
+| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Case series | Clin Exp Dermatol | 8 例極嚴重圓形禿，baricitinib 併用低劑量類固醇有明顯改善 |
+| [41958306](https://pubmed.ncbi.nlm.nih.gov/41958306/) | 2026 | Case series | JEADV | Baricitinib 加低劑量 prednisone 治療極嚴重圓形禿的回溯性病例系列 |
+| [20804894](https://pubmed.ncbi.nlm.nih.gov/20804894/) | 2010 | Case series | Ann Dermatol Venereol | 每月一次口服 prednisone 脈衝療法的療效與安全性評估 |
+| [791152](https://pubmed.ncbi.nlm.nih.gov/791152/) | 1976 | Case series | Arch Dermatol | 18 名隔日服用 prednisone 者，停藥後平均 15 個月追蹤，長期效益不顯著且副作用多 |
+| [8996277](https://pubmed.ncbi.nlm.nih.gov/8996277/) | 1997 | 未分類 | J Am Acad Dermatol | 全身性 cyclosporine 加低劑量 prednisone 治療慢性嚴重圓形禿 |
+| [24326561](https://pubmed.ncbi.nlm.nih.gov/24326561/) | 2013 | 病例報告 | J Investig Dermatol Symp Proc | 嚴重圓形禿合併多重自體免疫疾病患者，使用 cyclosporine 加 prednisone 後有臨床反應 |
 
 ## 台灣上市資訊
 
@@ -94,31 +93,41 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 | 衛署藥製字第042080號 | 育麗素軟膏 | PREDNISONE、CROTAMITON | 軟膏劑 | 濕疹或皮膚炎 |
 
 <details><summary><strong>已註銷</strong>（6 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第006887號</td><td>育麗素軟膏</td><td>CROTAMITON、PREDNISONE</td><td>1998/07/30</td></tr><tr><td>內衛藥製字第013051號</td><td>百力康軟膏</td><td>PREDNISONE</td><td>1996/08/15</td></tr><tr><td>衛署藥輸字第001597號</td><td>"普強" 去氫可體松</td><td>PREDNISONE</td><td>2016/05/31</td></tr><tr><td>衛部藥輸字第026256號</td><td>樂多特1毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026257號</td><td>樂多特2毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026258號</td><td>樂多特5毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第006887號</td><td>育麗素軟膏</td><td>PREDNISONE、CROTAMITON</td><td>1998/07/30</td></tr><tr><td>內衛藥製字第013051號</td><td>百力康軟膏</td><td>PREDNISONE</td><td>1996/08/15</td></tr><tr><td>衛署藥輸字第001597號</td><td>"普強" 去氫可體松</td><td>PREDNISONE</td><td>2016/05/31</td></tr><tr><td>衛部藥輸字第026256號</td><td>樂多特1毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026257號</td><td>樂多特2毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr><tr><td>衛部藥輸字第026258號</td><td>樂多特5毫克緩釋錠</td><td>PREDNISONE</td><td>2018/09/10</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-安全性資訊請參考原廠仿單。
+- **藥物交互作用**：資料庫共記錄 806 筆交互作用，部分重要項目如下：
+  - 重大（Major）：Adalimumab
+  - 中度（Moderate）：Zidovudine、Isotretinoin、Acarbose、Ketorolac、Ibuprofen、Nifedipine、Ethinylestradiol、Aldesleukin、Alemtuzumab 等
+  - 輕微（Minor）：Formoterol、Salbutamol
+- **知識圖譜顯示的疾病禁忌**（來自模型知識圖譜，非仿單內容）：高血壓、癲癇、高血糖、充血性心衰竭、麻疹、單純疱疹病毒角膜炎、尿素循環代謝異常（如瓜胺酸血症、高精胺酸血症）、腦下垂體功能不全與生長激素缺乏相關疾病等。
+- 文獻也提到全身性類固醇的實際副作用，包括痤瘡、肥胖、水晶體混濁與輕度高血壓。
 
-長期使用皮質類固醇的常見注意事項：
-- 骨質疏鬆風險
-- 血糖升高
-- 免疫抑制導致感染風險增加
-- 腎上腺皮質功能抑制
+詳細警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Go**
+**決策：Proceed with Guardrails**
 
 **理由：**
-有高品質的隨機對照試驗（包括 2023 年發表於 JAMA Dermatology 的研究）證實 prednisone 與 methotrexate 併用對嚴重圓禿有效。這個預測有充分的臨床證據支持。
+- 糖皮質素的免疫抑制機轉與圓形禿的自體免疫病理吻合，且有 1 篇 2023 年 RCT 與多篇病例系列支持低劑量 prednisone 作為合併治療的一環。
+- 但缺乏臨床試驗登記，早期研究顯示單用療效短暫、停藥後易復發，且長期全身性使用副作用明顯，因此需設限條件推進。
 
 **若要推進需要：**
-- 根據患者個別情況評估風險效益
-- 考慮與 methotrexate 或 JAK 抑制劑併用
-- 制定長期監測計畫（骨密度、血糖等）
+- 補充 prednisone 作用機轉資料（MOA）。
+- 設計以 prednisone 為主體的前瞻性對照試驗，並明確定義劑量、療程與合併藥物（如 methotrexate、JAK 抑制劑）。
+- 建立長期安全性監測計畫（血壓、血糖、眼睛、骨密度、感染風險），並考量排除有高血壓、高血糖、心衰竭等禁忌共病的族群。
+- 與已核准的圓形禿治療（如 JAK 抑制劑）進行定位比較。
+
+**其他預測適應症的簡要說明：**
+- 腱鞘炎（tenosynovitis，L3）：有觀察性文獻，屬研究性問題，建議列為後續探索。
+- 黏蛋白性禿髮（alopecia mucinosis，L4）：僅有病例報告，列為研究性問題。
+- 其餘預測（休止期落髮、禿髮性毛囊炎、遺傳性毛髮疾病等）僅有模型預測，機轉合理性不足，建議暫緩（Hold）。
 
 <!-- review:begin log -->
 

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fenoprofen
-parent: 高證據等級 (L1-L2)
-nav_order: 100
-evidence_level: L2
+parent: 中證據等級 (L3-L4)
+nav_order: 107
+evidence_level: L3
 indication_count: 10
 ---
 
 # Fenoprofen
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,86 +29,52 @@ indication_count: 10
 
 </div>
 
-# Fenoprofen 藥師評估筆記
+# Fenoprofen：從疼痛與風濕性關節炎到僵直性脊椎炎
 
 ## 一句話總結
 
-Fenoprofen 是一種 NSAID 類止痛藥，TxGNN 預測其可用於多種骨骼肌肉疾病，其中僵直性脊椎炎的預測具有多項臨床試驗支持。
+Fenoprofen（芬諾普芬）是一種非類固醇消炎止痛藥（NSAID），在台灣原本用於鎮痛、消炎與解熱，並用於風濕性關節炎、骨關節炎等疾病。
+TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測完全沒有證據支持。本報告改以**證據最完整的預測：僵直性脊椎炎 (Ankylosing Spondylitis)** 為主軸，目前有 **0 個臨床試驗**和 **9 篇文獻**（含 2 篇雙盲交叉試驗）支持這個方向。
+
+> 說明：預測清單第 1 名為 acromesomelic dysplasia, Hunter-Thompson type（預測分數 99.997%），但沒有任何臨床試驗或文獻，證據等級為 L5，建議為 Hold。第 1～9 名預測均屬此類，只有第 10 名的僵直性脊椎炎有文獻證據，因此以它作為評估重點。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Fenoprofen (芬諾普芬) |
-| DrugBank ID | DB00573 |
-| 台灣商品名 | 風諾保膠囊 |
-| 原核准適應症 | 鎮痛（現行有效許可證）；風濕性關節炎、骨關節炎、急性痛風、解熱等見於已註銷的原廠許可證 |
-| 預測新適應症 | 僵直性脊椎炎、假性軟骨發育不全、WHIM 症候群 |
-| 最高預測分數 | 0.9999 (acromesomelic dysplasia) |
-| 證據等級 | L2 (僵直性脊椎炎有多個臨床試驗) |
+| 原適應症 | 鎮痛（有效單方許可證之核准適應症） |
+| 預測新適應症 | 僵直性脊椎炎 (Ankylosing Spondylitis) |
+| TxGNN 預測分數 | 99.94%（模型排名第 1839） |
+| 證據等級 | L3 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 10 張（有效單方 2／有效複方 0／已註銷 8） |
+| 建議決策 | Proceed with Guardrails |
 
-<!-- review:begin fenoprofen-original-indication-2026-10-03 -->
+## 為什麼這個預測合理？
 
-> **查核更正（2026-10-03）**：原寫「原核准適應症／風濕性關節炎、骨關節炎、急性痛風、鎮痛、解熱」。台灣現行有效的 fenoprofen 許可證核准適應症只有「鎮痛」；風濕性關節炎、骨關節炎、急性痛風、解熱等屬於已於 2002-09-02 註銷的風諾保膠囊。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Fenoprofen 是丙酸類 NSAID，一般認為它透過抑制 COX-1 與 COX-2 來減少前列腺素合成，進而發揮消炎、止痛與解熱作用。
 
-<!-- review:end fenoprofen-original-indication-2026-10-03 -->
+僵直性脊椎炎的核心症狀是脊椎與薦髂關節的發炎性疼痛與僵硬，NSAID 本來就是這類疾病的第一線治療。Fenoprofen 的原核准適應症中也包含關節強硬性脊椎炎（僵直性脊椎炎的舊稱），因此這個預測與其既有用途高度重疊，屬於合理性高但「新意」有限的預測。
 
-## 為什麼這個預測合理
-
-Fenoprofen 作為丙酸類 NSAID，其對預測適應症的機轉如下：
-
-1. **COX 抑制作用**：同時抑制 COX-1 和 COX-2，減少前列腺素合成
-2. **抗發炎效果**：對關節炎和脊椎炎的發炎有效
-3. **止痛作用**：中樞和周邊的止痛機轉
-4. **同類藥物比較**：屬於與 naproxen、ibuprofen 同類的丙酸類 NSAID
-
-### 僵直性脊椎炎預測特別合理
-- NSAIDs 是僵直性脊椎炎的一線治療藥物
-- 部分原核准適應症已包含「關節強硬性脊椎炎」（即僵直性脊椎炎）
-
-<!-- review:begin fenoprofen-why-as-premise-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：依 TFDA 許可證資料，含「關節強硬性脊椎炎」的是原廠「風諾保膠囊」（衛署藥製字第011765號），該證已於 2002-09-02 註銷；現行有效的 fenoprofen 許可證適應症只有「鎮痛」。推論原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fenoprofen-why-as-premise-2026-10-03 -->
+此外，已有雙盲交叉試驗將 Fenoprofen 與 phenylbutazone、indomethacin 比較，另有一項六種 NSAID 的雙盲研究顯示 fenoprofen calcium 在僵直性脊椎炎中屬於較有效的藥物之一。不過這些研究規模小、年代久遠（1970～1980 年代）。
 
 ## 臨床試驗證據
 
-### 僵直性脊椎炎相關試驗
-
-雖然 ClinicalTrials.gov 未找到近期試驗，但 PubMed 文獻記載了多項歷史臨床試驗：
-
-| 研究 | 設計 | 關鍵發現 |
-|------|------|---------|
-| Wordsworth 1980 | 雙盲交叉試驗 | Fenoprofen 600mg tid vs Phenylbutazone 100mg tid；Phenylbutazone 較優 |
-| Wasner 1981 | 雙盲隨機試驗 | 比較 6 種 NSAIDs，fenoprofen 為僵直性脊椎炎的有效選擇之一 |
-| Shipley 1980 | 雙盲交叉試驗 | Fenoprofen vs Indomethacin vs 安慰劑比較 |
-
-**證據等級：L2 (多個臨床試驗)**
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-### 僵直性脊椎炎
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 7010512 | 1980 | RCT | 30 位患者；fenoprofen 改善胸廓擴張，但整體效果不如 phenylbutazone |
-| 7026817 | 1981 | RCT | 32 位患者；naproxen、indomethacin、fenoprofen 為最有效的三種 NSAIDs |
-| 6996071 | 1980 | RCT | Fenoprofen 優於安慰劑，但不如 indomethacin |
-| 324748 | 1977 | 綜述 | Fenoprofen 2.4g/day 用於僵直性脊椎炎的療效與安全性回顧 |
-
-### 其他關節疾病
-
-| PMID | 年份 | 研究類型 | 關鍵發現 |
-|------|------|----------|---------|
-| 387372 | 1979 | 綜述 | 比較 naproxen 和 fenoprofen 在類風濕性關節炎的效果 |
-| 300118 | 1977 | 綜述 | Fenoprofen、naproxen、tolmetin 在風濕疾病的應用 |
-
-### 重要歷史研究
-Brogden et al. (1977) 的藥物回顧指出：
-- Fenoprofen 2.4g/day 療效與 aspirin 3.6-4g/day 相當
-- 胃腸道副作用較 aspirin 少且輕微
-- 可用於類風濕性關節炎、退化性關節炎、僵直性脊椎炎和痛風
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [7010512](https://pubmed.ncbi.nlm.nih.gov/7010512/) | 1980 | RCT | Rheumatology and Rehabilitation | 30 名患者雙盲交叉試驗，fenoprofen 600 mg 每日三次對比 phenylbutazone；phenylbutazone 顯著改善晨僵、疼痛等多項指標，fenoprofen 僅胸廓擴張度有改善 |
+| [6996071](https://pubmed.ncbi.nlm.nih.gov/6996071/) | 1980 | RCT | Rheumatology and Rehabilitation | 雙盲交叉試驗，比較 indomethacin、fenoprofen 與安慰劑（無摘要可供摘錄結果） |
+| [7026817](https://pubmed.ncbi.nlm.nih.gov/7026817/) | 1981 | 雙盲隨機交叉研究（資料庫標示為 Review） | JAMA | 六種 NSAID 比較；在僵直性脊椎炎中，naproxen、indomethacin 與 fenoprofen calcium 最有效 |
+| [324748](https://pubmed.ncbi.nlm.nih.gov/324748/) | 1977 | Review | Drugs | 回顧 fenoprofen 的藥理與在風濕疾病的療效，指出可用於類風濕性關節炎、退化性關節病、僵直性脊椎炎與痛風 |
+| [300118](https://pubmed.ncbi.nlm.nih.gov/300118/) | 1977 | Review | JAMA | 新型抗風濕藥回顧；fenoprofen 等可能適用於僵直性脊椎炎，但療效與劑量的資料不足 |
+| [387372](https://pubmed.ncbi.nlm.nih.gov/387372/) | 1979 | Review | Drugs | Naproxen 的回顧，與 fenoprofen 屬同類藥物，間接參考 |
+| [391117](https://pubmed.ncbi.nlm.nih.gov/391117/) | 1979 | Review | Annals of Internal Medicine | Ibuprofen 回顧，提到其與 fenoprofen 化學結構相關，間接參考 |
+| [4615887](https://pubmed.ncbi.nlm.nih.gov/4615887/) | 1974 | Case series | Current Medical Research and Opinion | Fenoprofen 作為新型抗風濕藥的臨床使用經驗（無摘要） |
+| [36583943](https://pubmed.ncbi.nlm.nih.gov/36583943/) | 2023 | In vitro | ChemMedChem | Fenoprofen 的碳硼烷類似物具有較佳的抗腫瘤活性，屬前臨床研究，與僵直性脊椎炎無直接關係 |
 
 ## 台灣上市資訊
 
@@ -130,69 +96,36 @@ Brogden et al. (1977) 的藥物回顧指出：
 
 <!-- tfda-licenses:end -->
 
-**注意**：多數 fenoprofen 製劑已註銷，目前在台灣取得較困難。
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 已知風險
-- **胃腸道風險**：潰瘍、出血、穿孔
-- **心血管風險**：NSAIDs 類效應，可能增加心血管事件風險
-- **腎臟風險**：可能導致急性腎損傷，尤其在脫水狀態
-- **過敏反應**：aspirin 過敏者可能交叉過敏
+- **禁忌症（知識圖譜推論，非仿單內容）**：知識圖譜顯示本藥與下列疾病存在禁忌關聯，需對照原廠仿單確認：
+  - 心血管：高血壓、鬱血性心衰竭、心肌梗塞、腦中風與腦梗塞、血栓性疾病、冠狀動脈血栓
+  - 腎臟：腎臟病、腎乳頭壞死
+  - 胃腸與肝臟：活動性消化性潰瘍、藥物性肝損傷
+  - 血液：凝血疾病、貧血、血紅素病變
+  - 其他：視覺障礙、聽覺障礙、物質濫用／依賴
+- **藥物交互作用**：共查得 159 筆，以下為部分範例：
+  - 中度：乙醯水楊酸（阿斯匹靈）、hydrocortisone、dexamethasone、betamethasone、triamcinolone、budesonide、metformin、glimepiride、chlorpropamide、mesalazine、balsalazide、檸檬酸鉀與碳酸氫鉀
+  - 輕度：famotidine、ranitidine、cimetidine、linaclotide
 
-### 藥物交互作用
-
-根據 DDInter 資料庫：
-
-| 交互作用藥物 | 嚴重度 | 說明 |
-|-------------|--------|------|
-| Acetylsalicylic acid | Moderate | 增加胃腸道出血風險 |
-| Hydrocortisone | Moderate | 增加胃腸道副作用 |
-| Metformin | Moderate | 可能增加乳酸中毒風險 |
-| Triamcinolone | Moderate | 增加胃腸道副作用 |
-| Famotidine | Minor | 可降低 NSAIDs 相關潰瘍風險 |
-| Ranitidine | Minor | 可降低 NSAIDs 相關潰瘍風險 |
-
-### 禁忌症
-- 活動性胃腸道潰瘍或出血
-- 嚴重心衰竭
-- 冠狀動脈繞道手術前後
-- 對 NSAIDs 或 aspirin 過敏
-
-### 特殊族群
-- **孕婦**：C 級(第三孕期 D 級)，避免使用
-- **哺乳**：分泌至乳汁，不建議使用
-- **老年人**：增加胃腸道出血風險，建議最低有效劑量
-- **腎功能不全**：避免使用或減量
+其餘警語請參考原廠仿單。
 
 ## 結論與下一步
 
-### 整體評估
-僵直性脊椎炎的預測**具有臨床價值**，原因如下：
-1. 多個歷史 RCT 支持 fenoprofen 對僵直性脊椎炎的療效
-2. NSAIDs 是僵直性脊椎炎的一線治療藥物
-3. 部分原核准適應症已涵蓋此用途
+**決策：Proceed with Guardrails**
 
-其他預測（如罕見骨骼發育異常）缺乏證據，不建議應用。
+**理由：**
+- 僵直性脊椎炎是預測清單中唯一有文獻支持的項目，且有雙盲交叉試驗，但研究規模小、年代久遠，且其中一項試驗顯示 fenoprofen 的療效不及 phenylbutazone。
+- 此適應症與既有核准適應症（關節強硬性脊椎炎）重疊，屬於既有用途的再確認，而非真正的新適應症。
+- 其餘 9 個預測（多為罕見骨骼發育疾病）僅有模型分數，無任何證據，建議全部 Hold。
 
-### 建議行動
-- [x] 僵直性脊椎炎可作為 fenoprofen 的合理使用適應症
-- [ ] 考量到 fenoprofen 在台灣取得困難，可優先選用其他同類 NSAIDs
-- [ ] 其他預測的罕見疾病需要進一步研究
-
-### 臨床建議
-對於僵直性脊椎炎患者：
-1. NSAIDs 仍是一線藥物選擇
-2. Fenoprofen 是有效選項之一，但療效可能不如 indomethacin 或 naproxen
-3. 若 fenoprofen 不可得，可選用其他丙酸類 NSAIDs
-
-### 風險等級
-**中等風險** - 僵直性脊椎炎使用有證據支持，但需注意 NSAIDs 通用風險
-
----
-
-*報告生成日期：2026-02-11*
-*資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、TFDA*
+**若要推進需要：**
+- 取得 Fenoprofen 完整的作用機轉資料
+- 與現行第一線 NSAID（如 naproxen、celecoxib）及生物製劑做療效與安全性比較
+- 針對心血管、腎臟與胃腸道風險設計安全性監測，特別是高風險族群
+- 確認現行有效許可證（鎮痛）的核准適應症是否需要擴增，並對照原廠仿單
 
 <!-- review:begin log -->
 

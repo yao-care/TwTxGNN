@@ -2,7 +2,7 @@
 layout: default
 title: Tolvaptan
 parent: 高證據等級 (L1-L2)
-nav_order: 263
+nav_order: 285
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,70 +29,52 @@ indication_count: 10
 
 </div>
 
-# Tolvaptan：從自體顯性多囊性腎臟病到多囊性腎臟病第3型合併多囊性肝臟病
+# Tolvaptan：從自體顯性多囊性腎臟病到 PKD3 型多囊性腎臟病（合併或不合併多囊肝）
 
 ## 一句話總結
 
-Tolvaptan（佳腎康）是血管加壓素 V2 受體拮抗劑，原本核准用於自體顯性多囊性腎臟病（ADPKD）及低血鈉症的治療。TxGNN 模型預測它可能對**多囊性腎臟病第3型合併多囊性肝臟病（Polycystic Kidney Disease 3 with or without Polycystic Liver Disease）**有效，此適應症為 ADPKD 的特定基因亞型（GANAB/DNAJB11 突變），與原核准適應症共享相同的 cAMP 驅動囊泡生成機轉，目前有 **0 個專屬臨床試驗**及 **20 篇相關文獻**（含 2 篇 Phase 3 RCT）支持這個方向。
-
----
+Tolvaptan 是一種口服血管加壓素 V2 受體拮抗劑，原本用於延緩自體顯性多囊性腎臟病（ADPKD）的惡化，以及治療心臟衰竭與 SIADH 引起的低血鈉症。
+TxGNN 模型預測它可能對**多囊性腎臟病第 3 型，合併或不合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease)** 有效。
+目前本報告彙整的資料中沒有登記的臨床試驗，但有 **19 篇文獻**支持這個方向，其中包含 2 篇 RCT（TEMPO 3:4 與 REPRISE）與 1 篇統合分析。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 自體顯性多囊性腎臟病（ADPKD，eGFR > 25 mL/min/1.73m²） |
-| 預測新適應症 | 多囊性腎臟病第3型合併多囊性肝臟病（PKD3 with/without PLD） |
+| 原適應症 | 自體顯性多囊性腎臟病（ADPKD），適用於 eGFR 大於 25 mL/min/1.73m² 且已出現病情迅速惡化跡象之慢性腎臟病成人患者 |
+| 預測新適應症 | 多囊性腎臟病第 3 型，合併或不合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease) |
 | TxGNN 預測分數 | 99.99% |
-| 證據等級 | L1（2 篇已完成 Phase 3 RCT，適用於 ADPKD 上位診斷） |
+| 證據等級 | L1（資料彙整的評等；但上述 RCT 針對 ADPKD 整體，並非專門針對 PKD3，見下方說明） |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 7 張（有效單方 7／有效複方 0／已註銷 0） |
 | 建議決策 | Proceed with Guardrails |
 
----
-
 ## 為什麼這個預測合理？
 
-Tolvaptan 是選擇性血管加壓素 V2 受體（V2R）拮抗劑，作用於腎臟集尿管，透過阻斷 V2R 降低細胞內 cAMP（環腺苷酸）濃度，抑制囊泡液體分泌與囊泡上皮細胞異常增殖。目前缺乏完整的 DrugBank MOA 結構化記錄，但其藥理機轉在多篇 NEJM 大型 RCT 中已被清楚闡明。
+Tolvaptan 是選擇性的血管加壓素 V2 受體拮抗劑。V2 受體被阻斷後，腎臟細胞內的 cAMP 會下降，而 cAMP 正是驅動囊泡液體分泌與囊泡細胞增生的關鍵因子。原廠機轉資料欄位目前缺漏，但上述機轉在文獻中有充分描述（如 PMID 28614813、18434616）。
 
-多囊性腎臟病第3型（PKD3）由 **GANAB 或 DNAJB11 基因突變**引起，雖然致病基因與 PKD1（多囊蛋白1）、PKD2（多囊蛋白2）不同，但下游病理機轉——cAMP 升高驅動的囊泡液體積累與上皮細胞增生——在本質上一致。這使得 tolvaptan 的 V2R 拮抗靶點對 PKD3 同樣具有直接的藥理學依據。
+PKD3（GANAB 基因相關）屬於 ADPKD 的遺傳亞型，與 PKD1/PKD2 同樣呈現 cAMP 驅動的囊泡形成，並可合併多囊肝。因此，Tolvaptan 對 PKD1/PKD2 為主的 ADPKD 所展現的療效，可合理外推至 PKD3，這也是模型給出高分的原因。
 
-<!-- review:begin tolvaptan-pkd3-gene-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：依 NCBI MedGen，PKD3 的致病基因是 GANAB；DNAJB11 突變對應的是 PKD6（Polycystic kidney disease 6 with or without polycystic liver disease），不屬於 PKD3。推論內容與證據等級未改。依據：[NCBI MedGen：Polycystic kidney disease 3 with or without polycystic liver disease（C3887964）](https://www.ncbi.nlm.nih.gov/medgen/854672)；[NCBI MedGen：Polycystic kidney disease 6 with or without polycystic liver disease（C4748044）](https://www.ncbi.nlm.nih.gov/medgen/1648469)。
-
-<!-- review:end tolvaptan-pkd3-gene-2026-10-03 -->
-
-此外，台灣許可證批准的 ADPKD 適應症本身即為 PKD3 的**上位診斷**（umbrella diagnosis）。實務上，PKD3 患者若符合 ADPKD 臨床表現，臨床醫師已可在現有核准適應症框架下考慮 tolvaptan 使用，這進一步降低了再利用的監管障礙。
-
----
+需要注意的是，目前的 RCT（TEMPO 3:4、REPRISE）主要納入 PKD1/PKD2 族群，**沒有專門針對 PKD3 的直接證據**，此為外推而來。此外，ADPKD 本身已是 Tolvaptan 在台灣的核准適應症，所以這項預測更像是對既有適應症的基因亞型擴充，而非全新疾病領域。
 
 ## 臨床試驗證據
 
-目前無針對「多囊性腎臟病第3型（PKD3）」專屬的臨床試驗登記。
-
-> **說明**：相關的大型 Phase 3 RCT（TEMPO 3:4、REPRISE）以 ADPKD 為整體族群設計，PKD3 患者未被單獨分層分析，此為目前最主要的證據缺口。
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-共 20 篇相關文獻，優先列出 RCT 及系統性回顧（最多 10 篇）：
-
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|------|------|------|---------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT | N Engl J Med | **TEMPO 3:4 試驗**：tolvaptan vs. 安慰劑，顯著抑制 ADPKD 患者腎臟總體積增長並減緩 eGFR 下降，確立 V2R 拮抗療效 |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT | N Engl J Med | **REPRISE 試驗**：針對較晚期 ADPKD（eGFR 25–65），tolvaptan 仍顯著減緩腎功能惡化，支持廣泛 eGFR 範圍的使用 |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | Systematic Review | Cochrane Database Syst Rev | 系統性回顧 ADPKD 疾病修飾治療，tolvaptan 為目前最強證據的藥物干預 |
-| [37150675](https://pubmed.ncbi.nlm.nih.gov/37150675/) | 2023 | Meta-analysis | Nefrologia | 系統性回顧與 meta-analysis：tolvaptan 在 ADPKD 中的療效與安全性，確認臨床獲益與肝毒性需監測 |
-| [35134221](https://pubmed.ncbi.nlm.nih.gov/35134221/) | 2022 | Review | Nephrol Dial Transplant | ERA 共識聲明：tolvaptan 於 ADPKD 使用更新建議，含適用族群選擇與長期管理 |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | ADPKD 完整回顧，涵蓋 PKD1/2/3 基因型分類及 tolvaptan 在各亞型中的角色 |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | **直接相關**：ADPKD 合併多囊性肝臟病（PCLD）的臨床管理，明確指出 tolvaptan 可減緩囊泡腎功能惡化及囊泡生長 |
-| [28614813](https://pubmed.ncbi.nlm.nih.gov/28614813/) | 2017 | Review | Ann Nutr Metab | Vasopressin 路徑在多囊性腎臟病中的核心角色，為 tolvaptan 機轉關聯性提供直接支持 |
-| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | Adv Kidney Dis Health | PKD 遺傳譜系（含 PKD3 相關基因如 GANAB）與表現型分析，說明不同基因型的共同下游機轉 |
-| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Curr Opin Nephrol Hypertens | ADPKD 新興療法展望：tolvaptan 為目前唯一 FDA 核准疾病修飾藥物，同時介紹 mTOR 抑制劑、CFTR 調節劑等新方向 |
-
----
+|------|-----|------|------|---------|
+| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT | N Engl J Med | TEMPO 3:4 試驗：V2 受體拮抗劑可抑制囊泡生長、延緩腎功能下降（早期 ADPKD） |
+| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT | N Engl J Med | 針對較晚期 ADPKD 的試驗，評估療效與安全性；先前試驗顯示肝臟轉胺酶與膽紅素上升較多 |
+| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | 統合分析 | Cochrane Database Syst Rev | 評估各種延緩 ADPKD 進展的介入措施 |
+| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | ADPKD 綜述，涵蓋疾病特徵與治療 |
+| [41771281](https://pubmed.ncbi.nlm.nih.gov/41771281/) | 2026 | Review | Lancet | Tolvaptan 為疾病修飾治療，建議高風險族群早期使用 |
+| [40844441](https://pubmed.ncbi.nlm.nih.gov/40844441/) | 2025 | Review | Am J Kidney Dis | 腎體積、腎功能與基因突變可預測進展風險，以篩選適合疾病修飾治療者 |
+| [40268755](https://pubmed.ncbi.nlm.nih.gov/40268755/) | 2025 | Review | Renal Failure | ADPKD 遺傳與臨床進展總覽，含腎外表現 |
+| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Curr Opin Nephrol Hypertens | Tolvaptan 為目前唯一獲 FDA 核准的疾病進展治療，另有新療法在發展中 |
+| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | 多囊肝是 ADPKD 最常見的腎外表現；Tolvaptan 可延緩腎功能惡化與囊泡生長 |
+| [32392574](https://pubmed.ncbi.nlm.nih.gov/32392574/) | 2021 | Review | Pediatr Res | 討論青少年與年輕成人快速進展者使用 Tolvaptan |
 
 ## 台灣上市資訊
 
@@ -116,51 +98,33 @@ Tolvaptan 是選擇性血管加壓素 V2 受體（V2R）拮抗劑，作用於腎
 
 <!-- tfda-licenses:end -->
 
-> 台灣共有 **19 張**許可證，上表列出代表性規格。另含 SAMSCA 品牌（適應症為心臟衰竭及 SIADH 引起之低血鈉症）。
-
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 藥物交互作用
+- **禁忌症（知識圖譜資料，非仿單文字）**：知識圖譜列出的藥物－疾病禁忌關聯包括肝衰竭、肝硬化、物質濫用/依賴、活動性消化性潰瘍、脫髓鞘疾病。
+- **肝臟安全性**：文獻指出 Tolvaptan 可使肝臟轉胺酶與膽紅素上升較多，需進行肝功能監測。
+- **藥物交互作用**：資料庫共收錄 128 項交互作用。主要例子包括：
+  - 重大（Major）：Clarithromycin
+  - 中度（Moderate）：Aprepitant、Dexamethasone、Miconazole、Rifaximin、Rolapitant、Empagliflozin，以及多種鉀補充劑（氯化鉀、檸檬酸鉀、碳酸氫鉀、葡萄糖酸鉀）
+  - 另需審視 CYP3A4 抑制劑與誘導劑的併用
 
-共查詢到 **128 個**藥物交互作用（DDinter 資料庫），以下列出主要等級：
-
-**Major（需特別注意）：**
-
-| 交互藥物 | 等級 | 臨床意義 |
-|---------|------|---------|
-| Clarithromycin | Major | CYP3A4 強效抑制劑，可大幅提高 tolvaptan 血中濃度，增加肝毒性及副作用風險 |
-
-**Moderate（重要中度交互作用，代表性列舉）：**
-
-| 交互藥物 | 等級 | 交互藥物 | 等級 |
-|---------|------|---------|------|
-| Aprepitant | Moderate | Miconazole | Moderate |
-| Dexamethasone | Moderate | Empagliflozin | Moderate |
-| Potassium citrate | Moderate | Naltrexone | Moderate |
-| Potassium chloride | Moderate | Rifaximin | Moderate |
-| Potassium gluconate | Moderate | Eliglustat | Moderate |
-
-> **注意**：多項含鉀製劑（Potassium citrate/bicarbonate/chloride/gluconate）均列為 Moderate 交互作用，使用時需監測電解質。Tolvaptan 主要經 CYP3A4 代謝，所有 CYP3A4 強效抑制劑（如 Clarithromycin、Miconazole）均可能顯著提高暴露量。
-
-> 其他安全性資訊（警語、禁忌症）請參考原廠仿單。
-
----
+其餘警語與詳細禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**
 
 **理由：**
-PKD3（GANAB/DNAJB11 突變）與 PKD1/PKD2 共享 cAMP 驅動的囊泡生成機轉，tolvaptan 的 V2R 拮抗靶點具有直接且合理的藥理依據；兩篇 NEJM Phase 3 RCT（TEMPO 3:4、REPRISE）確立了 tolvaptan 在廣泛 ADPKD 族群（包含 PKD3 亞型）中的療效，且台灣已有 19 張上市許可，監管障礙最低。
+Tolvaptan 在 ADPKD 已有 Phase 3 RCT 與統合分析支持，並已於台灣取得 ADPKD 適應症；PKD3 與 PKD1/PKD2 共享 cAMP 驅動的囊泡形成機轉，外推合理。但目前缺乏 PKD3 專屬的臨床證據，且有肝損傷風險，因此需設置安全防護。
 
 **若要推進需要：**
-- **PKD3 亞型分層分析**：向 TEMPO/REPRISE 試驗研究者申請 GANAB/DNAJB11 突變患者的子群分析資料
-- **MOA 結構化記錄**：補充 DrugBank API 查詢結果，完整記錄 V2R 拮抗作用機轉文件（目前為 Data Gap）
-- **肝功能監測計畫**：PKD3 患者常合併多囊性肝臟病，tolvaptan 已知具肝毒性風險（ALT/AST 上升），需制定更嚴格的 LFT 監測方案
-- **小兒族群考量**：已有兒童 ADPKD 試驗（NCT02964273），若 PKD3 患者年齡較小，需評估兒科劑量
-- **倫理與知情同意**：因 PKD3 為 ADPKD 亞型而非獨立核准適應症，臨床使用需以 off-label 框架說明
+- 蒐集 PKD3（GANAB）患者使用 Tolvaptan 的臨床或真實世界資料
+- 建立肝功能監測計畫（用藥前與用藥期間定期檢測）
+- 確認病人符合仿單的 eGFR 門檻與快速惡化標準
+- 逐項審視併用藥物，特別是 CYP3A4 抑制劑與誘導劑
+- 補充詳細的作用機轉資料與完整仿單警語、禁忌症
+- 對於預測排名較後的其他疾病（如腎肝胰發育不良、卡里奧巨核間質性腎炎等），目前僅有模型預測、缺乏實質證據，建議暫不推進（Hold）
 
 <!-- review:begin log -->
 

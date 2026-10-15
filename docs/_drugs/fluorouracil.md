@@ -2,7 +2,7 @@
 layout: default
 title: Fluorouracil
 parent: 僅模型預測 (L5)
-nav_order: 108
+nav_order: 115
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,65 +29,45 @@ indication_count: 10
 
 </div>
 
-# Fluorouracil（5-FU）：從消化道腫瘤到陰道葡萄狀胚胎型橫紋肌肉瘤
-
----
-
----
+# Fluorouracil：從 HER2 陽性乳癌與轉移性胃癌（許可證所載適應症）到陰道葡萄狀胚胎型橫紋肌肉瘤
 
 ## 一句話總結
 
-Fluorouracil（5-FU）是臨床使用超過 60 年的 Fluoropyrimidine 類抗代謝化療藥，廣泛應用於大腸直腸癌、胃癌、乳癌等消化道及固態腫瘤的標準化療方案。
-TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoid-type Embryonal Rhabdomyosarcoma of the Vagina)** 有效，
-然而目前**無任何臨床試驗或文獻**支持此特定亞型，此預測屬純模型預測（L5 等級），建議維持 **Hold**。
+本報告彙整的台灣許可證資料所載適應症為 HER2 過度表現之乳癌與轉移性胃癌，其中胃癌適應症提到與 5-fluorouracil 併用。Fluorouracil 本身是廣泛使用的抗代謝型化療藥。
+TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)** 有效，預測分數為 99.75%。
+目前**沒有任何臨床試驗或文獻**直接支持這個預測，證據僅來自模型預測（L5）。
 
----
+> **資料提醒：** 本報告所列的 40 張有效許可證（有效 4 張），品名與適應症文字都屬於 trastuzumab 類生物製劑（如賀癌平、康癌停、赫珠瑪、曲斯若），並非 fluorouracil 單方製劑。文中的 5-FU 只是併用藥物。因此下表的「原適應症」不能直接視為 fluorouracil 本身的核准適應症，需另行核對 fluorouracil 製劑的許可證。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 消化器癌（如胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解；結腸癌、直腸癌、乳癌、胃癌、胰臟癌，以及不可以手術之胃腸道、乳部惡性腫瘤的姑息療法 |
-| 預測新適應症 | 陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoid-type Embryonal Rhabdomyosarcoma of the Vagina) |
+| 原適應症 | HER2 過度表現之早期乳癌、轉移性乳癌；轉移性胃癌（合併 capecitabine 或 5-FU 及 cisplatin）。此為許可證資料所載文字，見上方資料提醒 |
+| 預測新適應症 | 陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina) |
 | TxGNN 預測分數 | 99.75% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 40 張（有效單方 4／有效複方 0／已註銷 36） |
 | 建議決策 | Hold |
 
-<!-- review:begin fluorouracil-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／⚠️ 許可證資料錯誤（顯示為 Trastuzumab 適應症）；5-FU 已知核准適應症包含大腸直腸癌、胃癌、乳癌等」。已依 TFDA 現行有效的 fluorouracil 注射液許可證改寫適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-original-indication-2026-10-03 -->
-
----
-
 ## 為什麼這個預測合理？
 
-目前彙整資料中 Fluorouracil 的作用機轉（MOA）標記為 Data Gap。根據已知藥理學知識，5-FU 屬於 **Fluoropyrimidine 抗代謝藥物**，其主要機轉為：**抑制胸苷酸合酶（Thymidylate Synthase, TS）**，阻斷去氧尿苷一磷酸（dUMP）轉換為去氧胸苷一磷酸（dTMP），中斷 DNA 合成；同時，5-FU 代謝產物（FUTP）可嵌入 RNA，干擾 RNA 加工與蛋白質合成。這種廣效的核酸代謝干擾機轉，使 5-FU 對所有快速增殖的腫瘤細胞具有潛在的細胞毒性。
+目前缺乏詳細的作用機轉（MOA）資料。以下說明依一般藥理知識整理：Fluorouracil 是胸苷酸合成酶（thymidylate synthase）抑制劑，屬抗代謝藥物。它會干擾腫瘤細胞的 DNA 與 RNA 合成，對快速增生的細胞有細胞毒性。
 
-陰道葡萄狀胚胎型橫紋肌肉瘤（Botryoid-type Embryonal Rhabdomyosarcoma of the Vagina）是一種極罕見的兒童期婦科惡性腫瘤，腫瘤細胞具有快速增殖特性，理論上對抗代謝藥物具有潛在敏感性。從疾病生物學角度看，RMS 與 5-FU 原始適應症（消化道腫瘤）同樣涉及快速分裂的腫瘤細胞群體，機轉上存在間接關聯性。
+橫紋肌肉瘤是增生快速的惡性軟組織肉瘤，從機轉上看，抗代謝藥物有可能對它產生作用。但這只是理論上的合理性，目前沒有針對此疾病的 fluorouracil 臨床試驗或文獻佐證。
 
-然而需要特別指出，橫紋肌肉瘤的標準化療方案為 **VAC（Vincristine + Actinomycin-D + Cyclophosphamide）**，5-FU 並非 RMS 任何亞型的一線或標準治療選項。TxGNN 的高分預測可能反映知識圖譜中 5-FU 廣泛的抗腫瘤活性節點連結，而非疾病特異性的直接生物學關聯。此亞型好發於幼兒，且為婦科局部病灶，5-FU 在 RMS 的特殊解剖位置與給藥路徑上亦無文獻支持。
-
----
+原適應症為乳癌與胃癌等上皮來源的癌症，與橫紋肌肉瘤這類間質來源的肉瘤，在組織學與治療慣例上差異不小。因此兩者的關聯性主要建立在「細胞毒性化療」這個共通點上，並不是疾病本質相近。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-目前無相關文獻
-
----
+目前無相關文獻。
 
 ## 台灣上市資訊
-
-> ⚠️ **以下許可證資料為資料管道錯誤所引入的 Trastuzumab 生物相似藥（曲斯若）資訊，並非 Fluorouracil（5-FU）的台灣許可證。** 此列表僅供識別資料錯誤之用，不應作為 5-FU 法規依據引用。
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
@@ -109,62 +89,45 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (Botryoi
 
 <!-- tfda-licenses:end -->
 
-**正確資訊提示**：Fluorouracil 注射劑在台灣確有合法上市，許可證總數約 20 張，劑型以注射劑為主，請透過 TFDA 藥品許可證查詢系統（搜尋關鍵字：fluorouracil / 氟尿嘧啶）取得正確資料。
-
-<!-- review:begin fluorouracil-tw-license-note-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：查 TFDA 許可證資料：fluorouracil 目前有效的許可證是衛部藥製字第058842號「癒復達注射液50毫克/毫升」、衛署藥製字第022587號「清淨癌注射液」、衛部藥製字第058033號「好復注射液50毫克/毫升」，以及 1 張原料藥許可證；歷年累計共 48 張，其餘已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-tw-license-note-2026-10-03 -->
-
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 細胞毒性
 
-Fluorouracil 屬於抗腫瘤/細胞毒性藥物（Antineoplastic Agents、Antimetabolites），符合本章節適用條件。
-
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（Fluoropyrimidine 類抗代謝劑） |
-| 骨髓抑制風險 | 中度（常見嗜中性白血球減少、血小板減少，連續輸注時黏膜炎較顯著） |
-| 致吐性分級 | 低至中度（依劑量與給藥方式而異） |
-| 監測項目 | CBC（含分類）、肝腎功能（Cr/BUN）、電解質、口腔黏膜狀況、手足症候群評估 |
-| 處置防護 | 需依細胞毒性藥物調配與給藥規範操作；連續輸注（持續性靜滴）應使用密閉給藥系統 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（氟嘧啶類 fluoropyrimidine 抗代謝藥） |
+| 骨髓抑制風險 | 中度。知識圖譜顯示與血小板減少、嗜中性白血球減少、白血球減少、顆粒球缺乏相關 |
+| 致吐性分級 | 低至中度（依藥物類別判斷） |
+| 監測項目 | CBC（含分類）、肝腎功能；用藥前宜留意 DPD（二氫嘧啶去氫酶）缺乏風險 |
+| 處置防護 | 需依細胞毒性藥物處置規範操作 |
 
-請參考原廠仿單的警語與注意事項，以獲取完整的毒性描述（包含心臟毒性、神經毒性等警示）。
-
----
+具體警語與劑量調整請參考原廠仿單。
 
 ## 安全性考量
 
-### 藥物交互作用
+- **知識圖譜標示的禁忌或需謹慎的疾病**（來源為知識圖譜，並非仿單文字）：腎臟疾病、肝臟疾病、膽囊疾病、血小板減少、嗜中性白血球減少、顆粒球缺乏、白血球減少、腹瀉類疾病、活動性消化性潰瘍、咽炎、口腔炎、膿輸尿管、二氫嘧啶去氫酶（DPD）缺乏症。
+- **藥物交互作用**：資料庫共有 361 筆紀錄。已列出的項目中：
+  - 中度：Metronidazole、Tinidazole
+  - 輕度：Cimetidine、Levofloxacin
+  - 其餘多數等級未知
 
-共偵測到 **361 筆**交互作用（來源：DDInter 2.0），以下為主要具臨床意義項目：
-
-| 交互藥物 | 等級 | 臨床意義 |
-|---------|------|---------|
-| Metronidazole | 中度（Moderate） | 可能抑制 5-FU 的二氫嘧啶去氫酶（DPD）代謝路徑，增加 5-FU 暴露量及毒性風險 |
-| Tinidazole | 中度（Moderate） | 機轉類似 Metronidazole，同屬硝基咪唑類，需注意毒性疊加 |
-| Cimetidine | 輕度（Minor） | 可能輕度影響 5-FU 代謝清除 |
-| Levofloxacin | 輕度（Minor） | 需注意 QTc 延長風險的加成效應 |
-
-> 完整 361 筆交互作用清單請參考 DDInter 2.0（https://ddinter2.scbdd.com）。
-
----
+  用藥時宜留意併用藥物，細節請對照完整交互作用資料與仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-陰道葡萄狀胚胎型橫紋肌肉瘤為極罕見兒科婦科亞型，目前完全無臨床試驗或文獻支持 5-FU 用於此疾病，證據等級僅達 L5（純模型預測）。RMS 的標準化療不含 5-FU，再利用潛力薄弱。
+- 這個預測只有模型分數（99.75%）支持，沒有任何臨床試驗或文獻，證據等級為 L5。
+- 骨髓抑制等毒性不低，且許可證資料與 fluorouracil 本身並不對應，現階段不宜推進。
+- 同一份預測清單中，「橫紋肌肉瘤 (rhabdomyosarcoma)」有 4 篇間接文獻（等級 L4），但多為老舊的兒童肉瘤綜述與化療總覽。唯一的成人舌部橫紋肌肉瘤個案報告中，cisplatin 加 5-FU 的方案後疾病仍進展，因此這些文獻也不足以支持 fluorouracil 的療效。
 
-> 📌 **優先建議**：本批次 10 項預測中，**Rank 7：肝臟肉瘤（Liver Sarcoma）** 具有相對最佳的證據基礎（5 個臨床試驗、20 篇文獻、L4 等級、Research Question 建議），建議優先就該適應症重新生成詳細評估報告，以支持後續研究決策。
-
-**若要推進本適應症需要：**
-1. **修正資料管道**：確保台灣許可證資料正確對應 Fluorouracil（5-FU），而非 Trastuzumab
-2. **補充 MOA 資料**：查詢 DrugBank API 取得 DB00544 完整作用機轉描述
-3. **前臨床驗證**：在 RMS 細胞株（如 RD、A204）進行 5-FU 敏感性測試，建立最低可信的前臨床依據後，才可考慮進一步評估
+**若要推進需要：**
+- 核對並補足 fluorouracil 單方製劑的台灣許可證與核准適應症
+- 補充 DrugBank 的作用機轉（MOA）資料
+- 進行系統性文獻回顧，確認 fluorouracil 在橫紋肌肉瘤（尤其是兒童與婦科部位）的既有療效與治療地位
+- 與現行標準化療方案（如 vincristine、actinomycin D、cyclophosphamide 等）比較，評估 fluorouracil 是否有納入的必要
+- 若要進入研究，需有完整的安全性監測計畫，包括血液學與 DPD 檢測
 
 <!-- review:begin log -->
 

@@ -2,7 +2,7 @@
 layout: default
 title: Cholic Acid
 parent: 中證據等級 (L3-L4)
-nav_order: 62
+nav_order: 65
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,19 +29,12 @@ indication_count: 10
 
 </div>
 
-# Cholic Acid：從膽石症到 HIV 感染性疾病
+# Cholic Acid：從先天性膽酸合成障礙到 HIV 感染
 
 ## 一句話總結
 
-Cholic Acid（膽酸）是人體重要的初級膽汁酸，在台灣以罕藥「酷立酸膠囊」（Cholbam）上市，核准用於單一酵素缺乏造成的先天性膽酸合成障礙，以及過氧化體代謝異常病人肝病表現等併發症的輔助治療。
-TxGNN 模型預測它可能對 **HIV 感染性疾病 (HIV infectious disease)** 有效，
-目前有 **0 個臨床試驗**及 **9 篇文獻**相關資料，但現有證據主要來自局部外用抗病毒的體外研究，部分文獻甚至顯示膽酸衍生物可能促進病毒複製，整體支持強度有限。
-
-<!-- review:begin cholic-acid-tw-brand-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「在台灣以「得利膽錠」等多種品名上市，原本用於膽石症、膽囊炎及利膽等肝膽相關適應症。」。「得利膽錠」的主成分是 dehydrocholic acid（去氫膽酸），不是 cholic acid，且已於 2016 年註銷；台灣現行的 cholic acid 許可證是罕藥「酷立酸膠囊」（Cholbam，衛部罕藥輸字第000054、000055號），核准用於先天性膽酸合成障礙等。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end cholic-acid-tw-brand-2026-10-03 -->
+Cholic Acid（膽酸）是人體天然的初級膽酸，原本用於治療先天性膽酸合成障礙，以及輔助治療過氧化體代謝異常（含 Zellweger spectrum disorders）。
+TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，但目前**沒有臨床試驗**，只有 **5 篇相關文獻**，且多為體外研究或綜述，其中一項研究還顯示膽酸衍生物反而促進 HIV-1 複製。
 
 ---
 
@@ -49,29 +42,23 @@ TxGNN 模型預測它可能對 **HIV 感染性疾病 (HIV infectious disease)** 
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 單一酵素缺乏造成的先天性膽酸合成障礙；過氧化體代謝異常（含 Zellweger spectrum disorders）之肝病表現、脂肪瀉或脂溶性維生素吸收降低併發症的輔助治療 |
-| 預測新適應症 | HIV 感染性疾病 (HIV infectious disease) |
+| 原適應症 | 治療由於單一酵素缺乏所造成之先天性膽酸合成障礙；輔助治療過氧化體代謝異常（包括 Zellweger spectrum disorders）病人的肝病表現、脂肪瀉或脂溶性維生素吸收降低所引起的併發症 |
+| 預測新適應症 | HIV 感染 (HIV infectious disease) |
 | TxGNN 預測分數 | 99.79% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 10 張（有效單方 2／有效複方 2／已註銷 6） |
 | 建議決策 | Hold |
 
-<!-- review:begin cholic-acid-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／膽石症、預防膽石症、助長維他命之吸收」。原文的適應症來自 dehydrocholic acid 製劑「得利膽錠」（已註銷）；cholic acid 本身的台灣許可證「酷立酸膠囊」核准的是先天性膽酸合成障礙，及過氧化體代謝異常相關併發症的輔助治療。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end cholic-acid-original-indication-2026-10-03 -->
-
 ---
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Cholic Acid 為人體初級膽汁酸，從藥理學資料可知其作用於兩個主要靶點：**GPBA 受體（TGR5/GPBAR1）** 及 **法尼醇 X 受體（Farnesoid X Receptor, FXR）**，兩者在膽汁酸代謝、脂質吸收與腸道穩態調控中扮演關鍵角色。
+目前缺乏詳細的作用機轉（MOA）資料。已知膽酸是 FXR（法尼醇 X 受體）與 GPBA（TGR5，GPBAR1）受體的天然配體，在膽酸合成、膽汁分泌與脂質吸收中扮演核心角色。
 
-Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究（1986–1993 年）顯示其外用形式（sodium cholate）對 HIV-1 反轉錄酶活性有體外抑制作用，並被納入含殺精劑的避孕海綿（Protectaid）作為局部抗病毒成分。TxGNN 的預測可能部分來自知識圖譜中此類「膽酸–病毒包膜破壞」的連結。
+與 HIV 的關聯較為間接。1993 年的體外研究顯示，膽酸鈉具有殺精與抗 HIV-1 活性，能抑制病毒相關逆轉錄酶活性，並曾被用於含膽酸鈉的陰道避孕海綿。不過，2006 年另一項研究指出，胺基修飾的膽酸衍生物反而**誘發 T 細胞融合（syncytia）並增強 HIV-1 複製**。因此機轉上的連結薄弱，且部分結果相互矛盾。
 
-然而，一項 2006 年體外研究（PMID 16610808）明確指出，**胺基化膽酸衍生物反而誘導 HIV-1 在 T 細胞中大量複製並促進合胞體形成**，顯示系統性給藥途徑的機轉存在根本不確定性。原適應症（膽道/肝臟疾病）與 HIV 感染在病理機轉上亦無直接關聯，口服膽酸用於 HIV 治療目前缺乏任何臨床依據。
+此外，一項 2010 年的世代研究觀察到，接受蛋白酶抑制劑治療的 HIV 感染者血漿膽酸濃度有變化，可能與肝毒性有關，但這只是觀察性關聯，並非膽酸治療 HIV 的證據。
 
 ---
 
@@ -85,15 +72,11 @@ Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究�
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [32052857](https://pubmed.ncbi.nlm.nih.gov/32052857/) | 2020 | Review | Hepatology | HIV 感染者通常被排除於 NASH 臨床試驗之外，膽汁酸類新藥用於此族群時的 DDI 值得高度關注 |
-| [9238301](https://pubmed.ncbi.nlm.nih.gov/9238301/) | 1997 | Review | Ann NY Acad Sci | 綜述含 sodium cholate 的陰道海綿作為抗 STD 避孕方法的研發現況 |
-| [7848210](https://pubmed.ncbi.nlm.nih.gov/7848210/) | 1994 | Review | Aust NZ J Obstet Gynaecol | HIV 流行促進新型殺精劑與抗病毒避孕方法研發的政策討論 |
-| [8849197](https://pubmed.ncbi.nlm.nih.gov/8849197/) | 1995 | Review | Ann Acad Med Singapore | 物理與化學屏障避孕法（含 sodium cholate 海綿）對 HIV 防護的系統性回顧 |
-| [20030469](https://pubmed.ncbi.nlm.nih.gov/20030469/) | 2010 | Cohort | Pharmacotherapy | HIV 感染者接受蛋白酶抑制劑治療時膽汁酸濃度升高，且與肝毒性風險相關 |
-| [7688380](https://pubmed.ncbi.nlm.nih.gov/7688380/) | 1993 | In vitro | Human Reproduction | Sodium cholate 體外抑制 HIV-1 反轉錄酶活性；Protectaid 海綿具殺精及局部抗病毒效果 |
-| [2870224](https://pubmed.ncbi.nlm.nih.gov/2870224/) | 1986 | In vitro | Lancet | TNBP/sodium cholate 組合使 HBV、NANB 及 HTLV-III 病毒失活，適用血液製品滅菌 |
-| [16610808](https://pubmed.ncbi.nlm.nih.gov/16610808/) | 2006 | In vitro | J Med Chem | ⚠️ 胺基化膽酸衍生物**促進** HIV-1 在 T 細胞中複製並誘導合胞體形成（負面發現） |
-| [28745428](https://pubmed.ncbi.nlm.nih.gov/28745428/) | 2017 | In vitro | ChemMedChem | 界面活性劑（Triton X-100）顯著降低 HIV-1 蛋白酶抑制劑結合親和力，提示 detergent 特性在分析中的干擾問題 |
+| [20030469](https://pubmed.ncbi.nlm.nih.gov/20030469/) | 2010 | Cohort | Pharmacotherapy | 評估接受蛋白酶抑制劑治療的 HIV 感染者血漿膽酸濃度，探討其與肝毒性的可能關係 |
+| [7848210](https://pubmed.ncbi.nlm.nih.gov/7848210/) | 1994 | Review | Aust N Z J Obstet Gynaecol | 回顧未來避孕方式與 HIV／性傳染病防護的需求 |
+| [8849197](https://pubmed.ncbi.nlm.nih.gov/8849197/) | 1995 | Review | Ann Acad Med Singapore | 回顧避孕屏障方法，乳膠保險套對 HIV 防護效果高 |
+| [7688380](https://pubmed.ncbi.nlm.nih.gov/7688380/) | 1993 | In vitro | Hum Reprod | 膽酸鈉具有殺精與抗 HIV-1 活性，含其成分的陰道海綿作為避孕產品 |
+| [16610808](https://pubmed.ncbi.nlm.nih.gov/16610808/) | 2006 | In vitro | J Med Chem | 新型胺基膽酸衍生物在 T 細胞中誘發融合並增強 HIV-1 複製 |
 
 ---
 
@@ -116,34 +99,28 @@ Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究�
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 內衛藥製字第011108號 | "人生"胃立爽顆粒 | SODIUM COPPER CHLOROPHYLLIN、POLYMIGEL (AL.HYDROXIDE +CACO3 +… | 內服顆粒劑 | 急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍 |
-| 衛署藥製字第018650號 | 力保體康膠囊 | LECITHIN(LECITHOL)、VITAMIN B1 (NITRATE)、CYANOCOBALAMIN (VIT… | 膠囊劑 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給、維護肝臟正常功能 |
+| 內衛藥製字第011108號 | "人生"胃立爽顆粒 | SODIUM COPPER CHLOROPHYLLIN、MAGNESIUM CARBONATE、CHOLIC ACID、… | 內服顆粒劑 | 急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍 |
+| 衛署藥製字第018650號 | 力保體康膠囊 | PANTOTHENATE CALCIUM、NIACINAMIDE (NICOTINAMIDE)、FOLIC ACID、P… | 膠囊劑 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給、維護肝臟正常功能 |
 
 <details><summary><strong>已註銷</strong>（6 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004256號</td><td>胃好實錠</td><td>SCOPOLIA EXTRACT、MAGNESIUM CARBONATE、CHOLIC ACID、BENACTYZINE…</td><td>2012/11/30</td></tr><tr><td>內衛藥輸字第003265號</td><td>利保力體片</td><td>PYRIDOXINE(VITAMIN B6)、NIACINAMIDE (NICOTINAMIDE)、PANTOTHENA…</td><td>1990/09/13</td></tr><tr><td>衛署藥製字第004579號</td><td>爽胃王顆粒</td><td>CHOLIC ACID、SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBO…</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第016203號</td><td>爽胃王錠</td><td>CHOLIC ACID、SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBO…</td><td>1999/09/06</td></tr><tr><td>衛署藥輸字第002730號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1988/09/02</td></tr><tr><td>衛署藥輸字第003007號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1999/09/22</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004256號</td><td>胃好實錠</td><td>SCOPOLIA EXTRACT、BENACTYZINE HCL、CHOLIC ACID、CHLOROPHYLL SOD…</td><td>2012/11/30</td></tr><tr><td>內衛藥輸字第003265號</td><td>利保力體片</td><td>OROTIC ACID (VIT B13)、FOLIC ACID、PANTOTHENATE CALCIUM、NIACIN…</td><td>1990/09/13</td></tr><tr><td>衛署藥製字第004579號</td><td>爽胃王顆粒</td><td>POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 )、CHOLIC ACID、BENACTYZ…</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第016203號</td><td>爽胃王錠</td><td>POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 )、CHLOROPHYLL SODIUM C…</td><td>1999/09/06</td></tr><tr><td>衛署藥輸字第002730號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1988/09/02</td></tr><tr><td>衛署藥輸字第003007號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1999/09/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
+
+<!-- TFDA_LICENSE_TABLE -->
 
 ---
 
 ## 安全性考量
 
-**藥物交互作用**（來源：DDInter，共 10 項，均為中度）：
+- **知識圖譜標示的禁忌疾病**（來自 TxGNN 知識圖譜，並非仿單文字）：肝病、膽囊疾病、腹瀉性疾病、膽汁淤積、良性復發性肝內膽汁淤積、家族性肝內膽汁淤積、闌尾炎、硬化性膽管炎、原發性膽汁性膽管炎、Reynolds 症候群。
+- **藥物交互作用**：共查得 12 項，其中 10 項為中度（Moderate）等級，主要包括：
+  - 膽酸結合劑：Cholestyramine、Colesevelam、Colestipol（可能降低膽酸吸收）
+  - 制酸劑／保護劑：Aluminum hydroxide、Sucralfate
+  - 其他：Cyclosporine、Phenobarbital、Ribociclib、Sorafenib、Tipranavir
+- 另有 2 項屬藥理標靶資料（非臨床交互作用）：GPBA 受體與 Farnesoid X 受體，為膽酸的作用標靶。
 
-| 交互藥物 | 等級 | 備註 |
-|---------|------|------|
-| Cholestyramine | 中度 | 膽酸螯合劑，可能降低 Cholic Acid 腸道吸收 |
-| Colesevelam | 中度 | 膽酸螯合劑，同類交互機轉 |
-| Colestipol | 中度 | 膽酸螯合劑，同類交互機轉 |
-| Aluminum hydroxide | 中度 | 制酸劑，可能影響膽酸吸收 |
-| Sucralfate | 中度 | 胃黏膜保護劑，可能影響膽酸吸收 |
-| Cyclosporine | 中度 | 免疫抑制劑，可能競爭膽汁酸轉運體 |
-| Phenobarbital | 中度 | 肝酶誘導劑，影響膽酸代謝 |
-| Tipranavir | 中度 | HIV 蛋白酶抑制劑，若考慮 HIV 適應症需特別評估此交互作用 |
-| Ribociclib | 中度 | CDK4/6 抑制劑，注意潛在肝毒性疊加 |
-| Sorafenib | 中度 | 多靶點激酶抑制劑，注意潛在肝毒性疊加 |
-
-此外，Cholic Acid 為 **GPBA 受體（TGR5）** 及 **Farnesoid X 受體（FXR）** 的內源性配體，與影響這兩條信號路徑的藥物合用時應注意潛在交互影響。
+其餘警語與禁忌症請參考原廠仿單。
 
 ---
 
@@ -152,13 +129,18 @@ Cholic Acid 具有兩親性界面活性劑（detergent）特性，早期研究�
 **決策：Hold**
 
 **理由：**
-現有文獻支持僅限於局部外用的體外抗病毒效果（1980–1990 年代的避孕海綿研究），且 2006 年關鍵體外研究已明確顯示膽酸衍生物可能**促進 HIV 複製**；口服系統性給藥用於 HIV 治療的機轉依據不足，缺乏任何臨床試驗支持，無法推進。
+- 預測分數雖高（99.79%），但沒有任何臨床試驗，文獻僅有 1990 年代的體外研究、綜述與一項觀察性研究。
+- 膽酸衍生物曾被報告促進 HIV-1 複製，與抗病毒假說相互矛盾，機轉連結薄弱。
 
 **若要推進需要：**
-- 先釐清口服 Cholic Acid 本身（而非衍生物）對 HIV 複製的影響，排除促進病毒複製的安全疑慮
-- 評估膽汁酸-HIV 互動在系統性給藥途徑下的作用機轉（非局部 detergent 效應）
-- 確認與抗病毒藥物（特別是 Tipranavir 等蛋白酶抑制劑）的交互作用安全性
-- 補充完整的 DrugBank MOA 資料，以強化機轉合理性分析
+- 補齊膽酸的作用機轉（MOA）資料。
+- 重新驗證膽酸本身（非衍生物）的體外抗 HIV 活性，並釐清與促進複製報告的差異。
+- 在有可信的體外與動物證據前，不建議啟動臨床開發。
+- 補充仿單中的警語與禁忌症資料，以便評估在 HIV 族群（尤其是接受蛋白酶抑制劑者，如 Tipranavir）中的安全性。
+
+---
+
+**補充觀察（非主要預測）：**資料中排名第 5 的「維生素缺乏症 (vitamin deficiency disorder)」有較完整的支持（證據等級 L3），多篇病例系列與世代研究顯示，膽酸替代療法可改善因膽酸合成障礙導致的脂溶性維生素缺乏。不過這與原適應症高度重疊，屬於既有適應症的延伸，並非一般性維生素缺乏的新用途。
 
 <!-- review:begin log -->
 

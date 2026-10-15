@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Axitinib
-parent: 中證據等級 (L3-L4)
-nav_order: 36
-evidence_level: L3
+parent: 僅模型預測 (L5)
+nav_order: 37
+evidence_level: L5
 indication_count: 10
 ---
 
 # Axitinib
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,15 +33,9 @@ indication_count: 10
 
 ## 一句話總結
 
-Axitinib（抑癌特）是高度選擇性的 VEGFR 酪胺酸激酶抑制劑，台灣核准用於接受過 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌病患。
-TxGNN 模型預測它可能對**未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)** 有效，
-目前有 **2 個真實世界觀察性研究**提供間接支持，尚無針對此特定亞型的直接文獻。
-
-<!-- review:begin axitinib-tw-brand-name-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「Axitinib（英利達）」。TFDA 登載的 axitinib（INLYTA）中文品名是「抑癌特膜衣錠」（衛署藥輸字第025853號 1 毫克、第025854號 5 毫克），不是「英利達」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end axitinib-tw-brand-name-2026-10-03 -->
+Axitinib 是口服的 VEGFR 酪胺酸激酶抑制劑，原本用於曾接受 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌。
+TxGNN 模型預測它可能對**未分類腎細胞癌 (unclassified renal cell carcinoma)** 有效，分數為 99.90%。
+但這個首位預測目前**沒有任何臨床試驗或文獻**直接支持，僅有模型預測。
 
 ---
 
@@ -49,38 +43,52 @@ TxGNN 模型預測它可能對**未分類腎細胞癌 (Unclassified Renal Cell C
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 晚期腎細胞癌（接受 sunitinib 或 cytokine 治療失敗後之二線治療） |
-| 預測新適應症 | 未分類腎細胞癌 (Unclassified Renal Cell Carcinoma) |
+| 原適應症 | 治療已接受過 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌病患 |
+| 預測新適應症 | 未分類腎細胞癌 (unclassified renal cell carcinoma) |
 | TxGNN 預測分數 | 99.90% |
-| 證據等級 | L3 |
+| 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
+
+> 補充：排名前 10 的預測中，「腎細胞癌 (renal carcinoma)」一項證據最完整（L1），但那屬於已核准的適應症，不算真正的藥物再利用。詳見下方「其他預測的證據概況」。
 
 ---
 
 ## 為什麼這個預測合理？
 
-目前彙整資料中缺乏 Axitinib 的完整作用機轉原始資料（MOA 列為待補充）。根據既有文獻，Axitinib 是第二代口服 VEGFR 酪胺酸激酶抑制劑，核心機制為高度選擇性抑制 VEGFR-1、VEGFR-2 及 VEGFR-3，阻斷 VEGF 訊號通路，進而切斷腫瘤新生血管的養分供應。其對 VEGFR 家族的 IC50 較同類 TKI 低約 10 倍，靶點選擇性突出。
+Axitinib 是選擇性的 VEGFR-1、-2、-3 抑制劑，透過阻斷腫瘤血管新生來抑制腫瘤生長。腎細胞癌（尤其是透明細胞型）的生長高度依賴 VEGF 訊號，因此 VEGFR 抑制劑是此類癌症的核心治療。目前缺乏 DrugBank 的詳細作用機轉資料，以上機轉說明來自本次整理的文獻與預測資料。
 
-「未分類腎細胞癌」涵蓋所有病理上無法歸入已知亞型的腎上皮惡性腫瘤，異質性高，但現有研究提示多數亞型的腫瘤微環境中仍存在 VEGF 訊號通路活化，與 Axitinib 的抗血管新生機轉高度重疊。真實世界觀察性資料顯示，Axitinib 在廣義轉移性 RCC（包含清細胞及非清細胞亞型）中皆展現臨床療效，為此預測提供間接佐證。
+「未分類腎細胞癌」同屬腎細胞癌大類，原適應症與新適應症在疾病生物學上高度相關，所以模型給出高分並不意外。不過，這類亞型的腫瘤生物學差異大，已核准適應症的證據不能直接套用。
 
-值得注意的是，KEYNOTE-426（pembrolizumab + axitinib）及 JAVELIN Renal 101（avelumab + axitinib）兩項大型 Phase 3 RCT 已確立 axitinib 聯合免疫治療作為晚期 RCC 第一線標準治療的地位。此療效基礎延伸至未分類亞型在機轉上具合理性，但目前缺乏專門的前瞻性臨床試驗驗證，建議審慎推進。
+目前沒有針對此亞型的試驗或文獻，這個預測只能視為假說。
 
 ---
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT04033991](https://clinicaltrials.gov/study/NCT04033991) | 真實世界研究 | 完成 | 684 | 英國單中心回顧性資料庫研究，評估轉移性/晚期 RCC 患者接受 sunitinib 一線及 axitinib 二線治療的真實世界 PFS，並依 MSKCC/IMDC 風險分類分層分析；可能涵蓋未分類亞型患者 |
-| [NCT02156895](https://clinicaltrials.gov/study/NCT02156895) | 上市後監測 | 完成 | 111 | Axitinib（Inlyta）於 RCC 患者的上市後安全性與療效監測研究，提供真實使用情境下的直接觀察性資料 |
+目前無相關臨床試驗登記。
 
 ---
 
 ## 文獻證據
 
-目前無相關文獻（針對「未分類腎細胞癌」與 axitinib 的直接文獻尚未收錄）。
+目前無相關文獻。
+
+---
+
+## 其他預測的證據概況
+
+以下是排名前 10 的其他預測中，具有證據者：
+
+| 預測適應症 | 證據等級 | 主要證據 | 建議 |
+|-----------|---------|---------|------|
+| 腎細胞癌 (renal carcinoma) | L1 | [AXIS（NCT00678392）](https://clinicaltrials.gov/study/NCT00678392) 與 [KEYNOTE-426（NCT02853331）](https://clinicaltrials.gov/study/NCT02853331) 等已完成 Phase 3 試驗；[PMID 30779529](https://pubmed.ncbi.nlm.nih.gov/30779529/)、[30779531](https://pubmed.ncbi.nlm.nih.gov/30779531/) 等 RCT | Proceed with Guardrails（屬已核准範圍） |
+| TFE3 轉位型腎細胞癌 | L3 | [NCT03595124](https://clinicaltrials.gov/study/NCT03595124)：Phase 2，axitinib+nivolumab，僅 15 人，進行中 | Research Question |
+| 集尿管癌 (collecting duct carcinoma) | L4 | [NCT06211114](https://clinicaltrials.gov/study/NCT06211114)：Phase 2，30 人，招募中；病例報告 [PMID 36341193](https://pubmed.ncbi.nlm.nih.gov/36341193/) | Research Question |
+| 兒童腎細胞癌 | L4 | 一篇回顧 [PMID 31012542](https://pubmed.ncbi.nlm.nih.gov/31012542/) 與一則病例 [PMID 26279736](https://pubmed.ncbi.nlm.nih.gov/26279736/) | Research Question |
+| 脂肪肉瘤 | L4 | 僅體外研究 [PMID 27822137](https://pubmed.ncbi.nlm.nih.gov/27822137/) | Hold |
+| 腎細胞癌合併神經母細胞瘤、卵巢黏液樣脂肪肉瘤、血管脂肪瘤、家族性自發性氣胸 | L5 | 無 | Hold |
 
 ---
 
@@ -101,52 +109,47 @@ TxGNN 模型預測它可能對**未分類腎細胞癌 (Unclassified Renal Cell C
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ---
 
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 標靶藥物（VEGFR 酪胺酸激酶抑制劑，第二代 TKI；非傳統細胞毒性藥物） |
-| 骨髓抑制風險 | 低（TKI 類骨髓抑制少見，但仍需定期監測） |
-| 致吐性分級 | 低度 |
-| 監測項目 | 血壓（高血壓為最常見不良反應）、甲狀腺功能、肝腎功能（ALT/AST/Cr）、CBC、尿蛋白 |
-| 處置防護 | 口服劑型，一般抗癌藥物安全操作規範即可；重點在高血壓預防性管理及療程中持續血壓監測 |
+| 細胞毒性分類 | 標靶藥物（VEGFR 酪胺酸激酶抑制劑） |
+| 骨髓抑制風險 | 請參考原廠仿單 |
+| 致吐性分級 | 請參考原廠仿單 |
+| 監測項目 | 高血壓、肝功能（依本次整理資料所列風險） |
+| 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ---
 
 ## 安全性考量
 
-**藥物交互作用**（資料庫共收錄 178 筆 DDI，以下列出主要警示交互作用）：
+- **藥物交互作用**：共記錄 178 筆交互作用。Axitinib 為 CYP3A4/5 受質，需特別留意強效抑制劑或誘導劑。主要例子如下：
+  - **重大（Major）**：Clarithromycin、Dexamethasone
+  - **中度（Moderate）**：Aprepitant、Clotrimazole、Miconazole、Naltrexone
+  - **輕微（Minor）**：Famotidine、Ranitidine、Cimetidine、Rabeprazole、Esomeprazole、Lansoprazole 及多種制酸劑（氫氧化鋁、碳酸鈣、氫氧化鎂等）
+- **需留意的不良反應**：高血壓與肝毒性（來自本次整理的評估資料）。
 
-| 交互藥物 | 嚴重程度 | 臨床意義 |
-|---------|---------|---------|
-| Clarithromycin | **主要（Major）** | CYP3A4 強效抑制劑，可顯著升高 axitinib 血中濃度，毒性風險倍增，應避免併用或密切監測 |
-| Dexamethasone | **主要（Major）** | CYP3A4 強效誘導劑，可大幅降低 axitinib 暴露量，恐影響療效，需評估替代方案 |
-| Aprepitant | 中度（Moderate） | CYP3A4 中等抑制劑，可中度升高 axitinib 濃度，需監測不良反應 |
-| Clotrimazole | 中度（Moderate） | 外用/口腔抗黴菌劑，具 CYP3A4 抑制效應，系統性吸收後可能影響 axitinib 代謝 |
-| Miconazole | 中度（Moderate） | 同上，CYP3A4 抑制效應 |
-| Naltrexone | 中度（Moderate） | 交互作用機轉尚未完全釐清，建議臨床監測 |
-| 制酸劑類（Famotidine、Ranitidine、制酸鋁鎂鹽等） | 輕微（Minor） | 可能輕微影響 axitinib 口服吸收，臨床意義有限 |
-| PPI 類（Rabeprazole、Esomeprazole、Lansoprazole 等） | 輕微（Minor） | 同上 |
-
-完整 178 筆交互作用詳情請查閱 DDInter 2.0 資料庫。其餘安全性警語與禁忌症請參考原廠仿單。
+其餘警語與禁忌症請參考原廠仿單。
 
 ---
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-Axitinib 的 VEGFR 抑制機轉在廣義 RCC 中已有充分的療效基礎（L1 級 Phase 3 RCT 支持一般 RCC），延伸至「未分類」亞型在機轉上具合理性；然而目前僅有 2 個間接真實世界觀察性研究，缺乏針對未分類亞型的直接前瞻性證據（L3），且 RCC 亞型異質性高，療效存在不確定性。
+- 首位預測「未分類腎細胞癌」只有模型分數支持，沒有任何試驗或文獻，證據等級為 L5。
+- 腎細胞癌大類已是核准適應症，並有多項 Phase 3 RCT（AXIS、KEYNOTE-426、JAVELIN Renal 101 等）支持，但這是既有用途，不是新的再利用機會。
 
 **若要推進需要：**
-- 補充 Axitinib（DB06626）的完整 MOA 及 DrugBank 分類資料
-- 釐清並補充 Axitinib（英利達/Inlyta 口服膜衣錠）在台灣的獨立許可證資料，與吉舒達資料脫鉤
-- 設計針對未分類 RCC 亞型的前瞻性探索性 Phase 2 研究（建議納入 axitinib 單藥或聯合 ICI）
-- 建立病患分子分型，識別 VEGF 訊號路徑依賴程度較高的亞群以提升療效預測
-- 設計特定安全性監測計畫，涵蓋高血壓管理、甲狀腺功能及 CYP3A4 相關 DDI 審查
+- 針對未分類腎細胞癌的回顧性病例資料或小型前瞻性研究，確認 axitinib 的療效訊號。
+- 補充作用機轉資料（MOA）。
+- 若考慮罕見亞型（如 TFE3 轉位型、集尿管癌），可追蹤 NCT03595124 與 NCT06211114 的結果。
+- 擬定 CYP3A4 交互作用管理，以及高血壓與肝功能的監測計畫。
 
 <!-- review:begin log -->
 

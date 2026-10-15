@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Warfarin
-parent: 僅模型預測 (L5)
-nav_order: 283
-evidence_level: L5
+parent: 中證據等級 (L3-L4)
+nav_order: 306
+evidence_level: L4
 indication_count: 3
 ---
 
 # Warfarin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L4** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,45 +29,50 @@ indication_count: 3
 
 </div>
 
-# Warfarin：從抗凝血劑到 Heparin Cofactor 2 Deficiency
+# Warfarin：從靜脈栓塞症到肝素輔因子 II 缺乏症
 
 ## 一句話總結
 
-Warfarin 原本用於抗凝血治療。
-TxGNN 模型預測它可能對**Heparin Cofactor 2 Deficiency** 有效，
-目前有 **5 篇文獻**支持這個方向，但缺乏臨床試驗的支持。
+Warfarin（華法林）是口服抗凝血劑，原本用於預防及治療靜脈栓塞症、肺栓塞，以及心房纖維顫動或心臟瓣膜置換引起的血栓性栓塞。
+TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency)** 有效，
+目前**沒有臨床試驗**，僅有 **3 篇個案報告類文獻**支持這個方向。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 抗凝血劑 |
-| 預測新適應症 | Heparin Cofactor 2 Deficiency |
+| 原適應症 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
+| 預測新適應症 | 肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency) |
 | TxGNN 預測分數 | 99.87% |
-| 證據等級 | L5 |
+| 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 37 張（有效單方 14／有效複方 2／已註銷 21） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Warfarin 是一種抗凝劑，
-其成分在抗凝血治療中的療效已被證實，但與 Heparin Cofactor 2 Deficiency 的直接機轉關聯不明確。
-Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形成，這可能與新適應症有潛在關聯。
+目前缺乏詳細的作用機轉資料。根據已知資訊，warfarin 為維生素 K 拮抗劑類的抗凝血劑，其在靜脈栓塞症的療效已被證實。
+一般認為它透過抑制維生素 K 環氧化還原酶，降低凝血因子 II、VII、IX、X 的功能性合成。
+
+肝素輔因子 II 缺乏症是遺傳性血栓傾向疾病，因凝血酶抑制能力下降而容易形成血栓。
+這與 warfarin 原本用於治療的靜脈栓塞、肺栓塞屬於同一類血栓性疾病，
+因此機轉上，降低凝血因子合成可能有助於抵銷過度的凝血傾向。
+
+不過目前支持的證據僅限於個案報告與機轉推論。個案中 warfarin 的使用多屬一般抗凝治療，無法證明對這個特定疾病有額外或專一的療效。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [11177584](https://pubmed.ncbi.nlm.nih.gov/11177584/) | 2001 | Review | AIDS patient care and STDs | HIV感染患者的血栓事件報導，涉及抗磷脂抗體和狼瘡抗凝物的異常。 |
-| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | Case report | Kyobu geka. The Japanese journal of thoracic surgery | 家族性heparin cofactor II缺乏症患者的右心室血栓。 |
-| [3778142](https://pubmed.ncbi.nlm.nih.gov/3778142/) | 1986 | In vitro | Archives of pathology & laboratory medicine | heparin cofactor II的實驗室測定方法。 |
-| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | Case report | Journal of UOEH | 一家族多發性血栓的報導，其中一名患者使用Warfarin治療。 |
-| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | Case report | Nihon Kyobu Shikkan Gakkai zasshi | 先天性抗凝血酶II缺乏症患者的肺梗塞病例。 |
+| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | 個案報告 | Kyobu Geka | 14 歲女性家族性肝素輔因子 II 缺乏，右心室出現血栓，經手術移除 |
+| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | 個案報告 | Nihon Kyobu Shikkan Gakkai Zasshi | 先天性抗凝血酶缺乏併肺梗塞，曾使用 warfarin 7 年，住院後改用低劑量肝素 |
+| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | 個案報告 | Journal of UOEH | 家族性多發血栓，其中一名病患使用 warfarin 後仍再發深層靜脈栓塞 |
+
+*註：上述文獻皆為個案報告，其中後兩篇的疾病診斷與目標適應症並不完全一致，證據間接且力道有限。*
 
 ## 台灣上市資訊
 
@@ -108,23 +113,31 @@ Warfarin 透過抑制維生素K依賴性凝血因子的合成來減少血栓形�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-- **藥物交互作用**：
-  - **主要交互作用**：Acetylsalicylic acid（重大）
-  - **其他交互作用**：Ranitidine、Rabeprazole、Doxycycline、Hydrocortisone、Metformin 等（中度）
+- **藥物交互作用**：資料庫共收錄 865 筆交互作用，以下為部分重點：
+  - **嚴重 (Major)**：Acetylsalicylic acid（阿斯匹靈）、Metronidazole
+  - **中度 (Moderate)**：Ranitidine、Rabeprazole、Doxycycline、Hydrocortisone、Metformin、Amoxicillin、Bupropion、Aprepitant、Mesalazine、Dexamethasone 等
+  - **輕微 (Minor)**：Acarbose、Albiglutide、Ascorbic acid
+- **知識圖譜標示的疾病禁忌（非仿單內容）**：高血壓、肝衰竭與肝病、膽囊疾病、鬱血性心衰竭、甲狀腺功能低下、腎病症候群、腎功能不全、精神疾病、血液凝固疾病、貧血、膽汁鬱積、慢性腹瀉疾病等。這些僅為模型知識圖譜的關聯，臨床使用請以原廠仿單為準。
+
+其餘警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-目前缺乏足夠的臨床試驗和詳細的作用機轉資料來支持 Warfarin 用於 Heparin Cofactor 2 Deficiency。
+- 目前沒有任何臨床試驗，文獻僅有個案報告，證據等級為 L4，其餘預測的疾病證據更少。
+- Warfarin 出血風險與交互作用複雜，在證據不足下不宜推進到新適應症。
 
 **若要推進需要：**
-- 更詳細的藥物作用機轉資料
-- 針對 Heparin Cofactor 2 Deficiency 的臨床試驗數據
-- 進一步探索 Warfarin 在此適應症中的安全性與有效性
+- 取得 warfarin 完整的作用機轉資料，釐清與肝素輔因子 II 缺乏症的機轉關聯
+- 系統性文獻回顧，評估遺傳性血栓傾向病患使用維生素 K 拮抗劑的療效與出血風險
+- 與現行標準抗凝治療（如 DOAC、肝素類）比較的觀察性研究或前瞻性試驗
+- 針對此族群的 INR 監測與藥物交互作用管理計畫
 
 <!-- review:begin log -->
 

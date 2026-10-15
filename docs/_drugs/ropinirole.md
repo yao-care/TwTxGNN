@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ropinirole
-parent: 中證據等級 (L3-L4)
-nav_order: 230
-evidence_level: L4
+parent: 高證據等級 (L1-L2)
+nav_order: 248
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ropinirole
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,67 +29,50 @@ indication_count: 10
 
 </div>
 
-# Ropinirole：從帕金森氏症到思覺失調症
+# Ropinirole：從帕金森氏症到注意力不足過動症（ADHD）
 
 ## 一句話總結
 
-Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預測它可能對**思覺失調症 (schizophrenia)** 有效，這個預測獲得多篇 PubMed 文獻支持，包含系統性回顧及案例報告。
+Ropinirole（羅匹尼羅）是多巴胺 D2/D3 受體促效劑，原本用於治療自發性帕金森氏症與原發性腳部躁動症。
+TxGNN 模型預測它可能對**注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)** 有效，
+目前**尚無登記的臨床試驗**，但有 **8 篇文獻**，其中包含 1 篇 2026 年發表的隨機對照試驗（RCT）支持這個方向。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療自發性帕金森氏症、原發性腳部躁動症 |
-| 預測新適應症 | 思覺失調症 (schizophrenia) |
-| TxGNN 預測分數 | 99.90% |
-| 證據等級 | L4 |
-| 台灣上市 | 部分已上市 |
+| 原適應症 | 治療帕金森氏症 |
+| 預測新適應症 | 注意力不足過動症 (Attention Deficit-Hyperactivity Disorder) |
+| TxGNN 預測分數 | 99.99% |
+| 證據等級 | L2（僅 1 篇 RCT，且尚無登記試驗，等級判定偏寬鬆，宜保守解讀） |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 7 張（有效單方 5／有效複方 0／已註銷 2） |
-| 建議決策 | Worth Exploring |
+| 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
 
-Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺失調症的多巴胺假說密切相關：
+Ropinirole 是 D2/D3（亦對 D4 有活性）多巴胺促效劑。目前缺乏 DrugBank 的詳細作用機轉資料，以下推論主要根據藥物類別與文獻。多巴胺功能低下被認為與 ADHD 有關，因此以多巴胺促效劑調節此路徑，在機轉上有合理性。
 
-1. **多巴胺受體親和力**：Ropinirole 對 D2 和 D3 受體具有高親和力，這與思覺失調症的神經生物學基礎相關。
+ADHD 與腳部躁動症（RLS）常同時出現，而 RLS 正是 ropinirole 的核准適應症之一。兩者可能共享多巴胺相關通路，有文獻回顧討論過這種關聯，以及兩者共用藥物治療的可能性。2005 年有一則個案報告：一名 6 歲男童同時有 ADHD 與疑似 RLS，使用 ropinirole 後，ADHD 症狀與睡眠問題都有明顯改善。
 
-2. **負性症狀改善潛力**：思覺失調症的負性症狀（如情感淡漠、社交退縮）與獎賞系統功能受損有關，促多巴胺藥物可能作為輔助治療。
-
-3. **抗精神病藥物副作用緩解**：文獻顯示 Ropinirole 可用於治療 Aripiprazole 引起的遲發性靜坐不能。
+另有 2026 年的隨機、雙盲、安慰劑對照試驗（66 名 6–17 歲 ADHD 門診病童），評估 ropinirole 作為 methylphenidate 的輔助治療。這是目前最直接的證據，但樣本數小、為單一試驗，仍需重複驗證。
 
 ## 臨床試驗證據
 
-目前無 Ropinirole 用於思覺失調症的臨床試驗登記。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-共找到 15 篇相關文獻：
-
-### 關鍵文獻
-
-1. **Sabe et al. (2019)** - Journal of Clinical Psychopharmacology
-   - 標題：Prodopaminergic Drugs for Treating the Negative Symptoms of Schizophrenia: Systematic Review and Meta-analysis of Randomized Controlled Trials
-   - 類型：系統性回顧與統合分析
-   - 重點：促多巴胺藥物可能作為思覺失調症負性症狀的輔助治療
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/31688399/)
-
-2. **Michalopoulou et al. (2012)** - Journal of Clinical Psychopharmacology
-   - 標題：Ropinirole as an effective adjunctive treatment for clozapine-resistant negative symptoms in simple schizophrenia
-   - 類型：案例報告
-   - 重點：Ropinirole 成功作為 Clozapine 抗藥性負性症狀的輔助治療
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/22926612/)
-
-3. **Maple et al. (2017)** - J Pharmacol Exp Ther
-   - 標題：Effects of Repeated Ropinirole Treatment on Phencyclidine-Induced Hyperlocomotion, Prepulse Inhibition Deficits, and Social Avoidance in Rats
-   - 類型：動物研究
-   - 重點：重複 Ropinirole 治療可改善思覺失調症動物模型的症狀
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/28167638/)
-
-4. **Berger et al. (2011)** - Biological Psychiatry
-   - 標題：cAMP response element binding protein phosphorylation in nucleus accumbens underlies sustained recovery of sensorimotor gating following repeated D2-like receptor agonist treatment in rats
-   - 類型：基礎研究
-   - 重點：揭示 D2 受體促效劑改善感覺運動閘控的分子機制
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/21035786/)
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [42640474](https://pubmed.ncbi.nlm.nih.gov/42640474/) | 2026 | RCT | Eur Child Adolesc Psychiatry | 66 名 6–17 歲 ADHD 病童，8 週雙盲試驗，評估 ropinirole 併用 methylphenidate 對比安慰劑併用 methylphenidate 的療效與安全性 |
+| [16218085](https://pubmed.ncbi.nlm.nih.gov/16218085/) | 2005 | Review | Sleep | 回顧 RLS 與 ADHD 的關聯、可能機轉，以及兩者共病時共用藥物治療的潛力 |
+| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Rev Neurol | RLS 的整體回顧（法文），涵蓋臨床特徵與相關疾病 |
+| [15866437](https://pubmed.ncbi.nlm.nih.gov/15866437/) | 2005 | Case series | Pediatr Neurol | 一名 6 歲 ADHD 合併 RLS 男童，使用 ropinirole 後 ADHD 症狀與睡眠問題皆顯著改善 |
+| [24992083](https://pubmed.ncbi.nlm.nih.gov/24992083/) | 2014 | Cohort | Clin Neuropharmacol | 帕金森氏症患者的警覺性比較研究（piribedil 對比 pramipexole 與 ropinirole），與 ADHD 間接相關 |
+| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | In vitro | Pharmacol Res | α2A 腎上腺素受體與多巴胺 D4 受體變異體的異聚化，探討與 ADHD 等衝動控制疾患的關聯 |
+| [30950895](https://pubmed.ncbi.nlm.nih.gov/30950895/) | 2019 | Case series | Cornea | 3 例與全身性多巴胺類藥物相關的角膜水腫（安全性訊號） |
+| [17483695](https://pubmed.ncbi.nlm.nih.gov/17483695/) | 2007 | Animal | J Neuropathol Exp Neurol | 缺鐵的 A11 損傷小鼠 RLS 動物模型，活動量增加 |
 
 ## 台灣上市資訊
 
@@ -114,40 +97,35 @@ Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-### 重要藥物交互作用
+- **禁忌／需謹慎的疾病（來自知識圖譜，非仿單內容）**：多系統萎縮、姿勢性姿態心搏過速症候群、姿勢性低血壓、藥物誘發的運動障礙、肝衰竭、精神病性疾患、類精神分裂症、精神疾患、情感性精神分裂症、低血壓。
+- **藥物交互作用**：共查得 167 筆。中度等級包括 Morphine、Cimetidine、Dronabinol、Obeticholic acid、Metoclopramide、Nabilone、Opium 等；其中 Metoclopramide 為多巴胺拮抗劑，與 ropinirole 作用相反，使用時需特別留意。
+- **衝動控制問題**：瑞典全國登記研究顯示，使用 ropinirole 等多巴胺促效劑與賭博成癮風險增加有關；對於本身即有衝動控制問題的 ADHD 族群尤須注意。
+- **對兒童的適用性**：ropinirole 的核准適應症為成人，ADHD 病童使用屬仿單外使用。
 
-| 交互作用藥物 | 嚴重程度 | 來源 |
-|-------------|---------|------|
-| Morphine | 中度 | DDInter |
-| Metoclopramide | 中度 | DDInter |
-| Ethanol | 中度 | DDInter |
-| Caffeine | 中度 | DDInter |
-| Warfarin | 中度 | DDInter |
-| Cimetidine | 中度 | DDInter |
-| Promethazine | 中度 | DDInter |
-
-### 特殊注意事項
-
-- **衝動控制障礙風險**：文獻報告 Ropinirole 可能增加病態性賭博的風險
-- **精神症狀**：可能引發孤立性妄想症候群
-- **嗜睡**：可能導致突發性睡眠
+其餘警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Worth Exploring**
+**決策：Proceed with Guardrails**
 
 **理由：**
-1. 多巴胺機轉與思覺失調症病理生理學有明確關聯
-2. 有案例報告支持其作為負性症狀的輔助治療
-3. 系統性回顧顯示促多巴胺藥物類別可能有效
-4. 台灣已有多種劑型上市
+- 有 1 篇 2026 年的 RCT 及個案報告支持，且 ADHD 與 RLS 共病提供了合理的多巴胺相關機轉。但目前僅有單一小型試驗、無登記臨床試驗，並且缺乏 MOA 資料，證據仍屬初步。
+- 目標族群為兒童，而知識圖譜顯示精神疾患、低血壓等相關風險，須設置安全防護。
 
 **若要推進需要：**
-- 隨機對照試驗評估 Ropinirole 輔助治療思覺失調症負性症狀的療效
-- 更詳細的安全性資料，特別是與抗精神病藥物併用時
-- 建立適當的起始劑量和滴定方案
+- 取得 2026 年 RCT 全文，確認主要療效指標、效果量與不良反應結果
+- 補充詳細的作用機轉資料（MOA）
+- 設計較大樣本、多中心的確認性試驗，並納入兒童族群的安全性監測計畫（血壓、精神症狀、衝動控制行為、嗜睡）
+- 評估與 methylphenidate 及其他常用 ADHD 藥物併用時的交互作用
+- 釐清兒童仿單外使用的法規與倫理要求
+
+**其他預測適應症備註：**
+- 思覺失調症（schizophrenia）目前僅有前臨床與間接證據（L4），且 D2 促效可能使精神症狀惡化，建議列為研究問題，不建議優先推進。
+- 其餘 8 項預測（如 faciodigitogenital syndrome、X 連鎖近視等）僅有模型預測，無實際研究，建議暫緩（Hold）。
 
 <!-- review:begin log -->
 

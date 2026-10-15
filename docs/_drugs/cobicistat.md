@@ -2,7 +2,7 @@
 layout: default
 title: Cobicistat
 parent: 僅模型預測 (L5)
-nav_order: 68
+nav_order: 71
 evidence_level: L5
 indication_count: 3
 ---
@@ -29,64 +29,43 @@ indication_count: 3
 
 </div>
 
-# Cobicistat 藥師筆記
+# Cobicistat：從 HIV-1 感染到猿猴免疫缺乏病毒感染
 
 ## 一句話總結
 
-Cobicistat 是一種藥動學增強劑（pharmacokinetic enhancer），專門用於 HIV 治療中增加蛋白酶抑制劑的血中濃度，TxGNN 預測其對其他免疫缺乏病毒感染有療效，但這些預測臨床意義有限且缺乏實際應用價值。
-
----
+Cobicistat 是一種 CYP3A 抑制劑，在台灣以複方形式用於 HIV-1 感染治療，作為抗反轉錄病毒藥物的藥動學增強劑。
+TxGNN 模型預測它可能對**猿猴免疫缺乏病毒感染 (simian immunodeficiency virus infection)** 有效，
+但目前**沒有任何臨床試驗與文獻**支持，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Cobicistat |
-| DrugBank ID | DB09065 |
-| 台灣商品名 | 信澤力膜衣錠 (Symtuza)、捷扶康膜衣錠 (Genvoya)、普澤力膜衣錠 (Prezcobix) |
-| 原核准適應症 | HIV-1 感染（與其他抗反轉錄病毒藥物併用） |
-| 預測新適應症 | 猴免疫缺乏病毒感染、貓免疫缺乏症候群、神經發育障礙 |
-| 最高預測分數 | 0.999 (simian/feline immunodeficiency) |
-| 證據等級 | L5 (僅預測，無臨床意義) |
+| 原適應症 | 感染第一型人類免疫缺乏病毒（HIV-1）的成人、青少年與兒童病人（目前許可證皆為複方，無單方許可證） |
+| 預測新適應症 | 猿猴免疫缺乏病毒感染 (simian immunodeficiency virus infection) |
+| TxGNN 預測分數 | 99.92% |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 3 張（有效單方 0／有效複方 3／已註銷 0） |
+| 建議決策 | Hold |
 
----
+## 為什麼這個預測合理？
 
-## 為什麼這個預測合理（或不合理）
+目前缺乏詳細的作用機轉資料。根據已知資訊，Cobicistat 是複方的一部分，是 CYP3A 抑制劑，本身沒有抗病毒活性，用途是提高併用抗反轉錄病毒藥物的血中濃度。
 
-### Cobicistat 的特殊藥理角色
+TxGNN 給出高分，可能是因為猿猴免疫缺乏病毒（SIV）與 HIV-1 同屬慢病毒，在知識圖譜中關聯緊密。不過，這比較像是疾病名稱相似造成的圖譜關聯，並非 cobicistat 對 SIV 有直接作用的證據。
 
-Cobicistat 本身 **不具有抗病毒活性**，其作用是：
+SIV 是非人類靈長類的疾病，沒有人類臨床意義。要推進這個預測，只有在動物模型研究中才有意義，而目前沒有任何相關資料。
 
-1. **CYP3A 抑制**：強效抑制 CYP3A 酵素，延緩蛋白酶抑制劑（如 darunavir、atazanavir）及整合酶抑制劑（如 elvitegravir）的代謝
-2. **藥動學增強**：使併用藥物維持有效血中濃度，減少給藥頻率
-
-### 預測分析
-
-| 預測適應症 | 分析 |
-|------------|------|
-| Simian immunodeficiency virus (SIV) | 知識圖譜基於 HIV 關聯推斷，但 cobicistat 本身無抗病毒作用 |
-| Feline acquired immunodeficiency syndrome (FIV) | 同上，且獸醫領域無此應用 |
-| 神經發育障礙 | 與 cobicistat 作用機轉完全無關，屬誤判 |
-
-**結論**：這些預測反映了知識圖譜方法的局限性 - 它基於關聯性而非因果性，未能區分「藥動學增強劑」與「抗病毒藥物」的本質差異。
-
----
+此外，同一份預測清單中還有「貓後天免疫缺乏症候群」（分數 99.92%，獸醫領域疾病）與「伴有共濟失調步態、無語言及皮質白質減少的神經發展障礙」（分數 99.91%，罕見遺傳疾病）。兩者同樣沒有證據，後者與 CYP3A 抑制之間也看不出合理的機轉關聯，較可能是圖譜運算的假象。
 
 ## 臨床試驗證據
 
-**無** 針對預測適應症的臨床試驗。
-
-所有 cobicistat 相關試驗都是關於其在 HIV 治療中作為藥動學增強劑的角色。
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-**無** 支持預測適應症的文獻。
-
-Cobicistat 的所有文獻都聚焦於其藥動學增強作用，而非直接治療效果。
-
----
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -100,70 +79,37 @@ Cobicistat 的所有文獻都聚焦於其藥動學增強作用，而非直接治
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、elvitegravir、EMTRI… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
-| 衛部藥輸字第027263號 | 普澤力膜衣錠 | DARUNAVIR ETHANOLATE、cobicistat | 膜衣錠 | 適用於與其他抗反轉錄病毒藥物併用，以治療 未曾接受治療及曾經接受治療且未發生darunavir抗藥性 相關取代（V11I、V32I、L33F、I47V、I50V、I54L、I54M… |
-| 衛部藥輸字第027613號 | 信澤力膜衣錠 | EMTRICITABINE、DARUNAVIR ETHANOLATE、cobicistat、tenofovir alaf… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
+| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、EMTRICITABINE、elvi… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
+| 衛部藥輸字第027263號 | 普澤力膜衣錠 | cobicistat、DARUNAVIR ETHANOLATE | 膜衣錠 | 適用於與其他抗反轉錄病毒藥物併用，以治療 未曾接受治療及曾經接受治療且未發生darunavir抗藥性 相關取代（V11I、V32I、L33F、I47V、I50V、I54L、I54M… |
+| 衛部藥輸字第027613號 | 信澤力膜衣錠 | tenofovir alafenamide fumarate、DARUNAVIR ETHANOLATE、EMTRICIT… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
 
 <!-- tfda-licenses:end -->
 
-**重點**：Cobicistat 在台灣僅以複方形式上市，不作為單方藥品使用。
-
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 重要藥物交互作用
+- **藥物交互作用**：資料庫共收錄 420 筆交互作用，以下為部分代表性項目：
+  - **嚴重 (Major)**：Loperamide、Triamcinolone、Cisapride、Budesonide
+  - **中度 (Moderate)**：Hydrocortisone、Aprepitant、Betamethasone、Dexamethasone、Clarithromycin、Repaglinide、Metoclopramide、Clotrimazole 等
+  - **輕微 (Minor)**：Prucalopride
 
-Cobicistat 是強效 CYP3A 抑制劑，藥物交互作用極為廣泛且複雜：
+  這些交互作用與 cobicistat 抑制 CYP3A 的特性一致，併用時需評估藥物濃度升高的風險。
 
-| 交互作用類型 | 代表藥物 | 嚴重程度 |
-|--------------|----------|----------|
-| **禁忌併用** | Simvastatin, Alfuzosin, Cisapride | Major |
-| 類固醇 | Triamcinolone, Budesonide | Major (可能導致庫欣症候群) |
-| 鎮痛劑 | Fentanyl, Alfentanil, Hydrocodone | Major |
-| 心血管藥物 | Amiodarone, Apixaban | Major |
-| 抗癲癇藥 | Fosphenytoin | Major |
-| 鎮靜安眠藥 | Alprazolam, Triazolam | Moderate |
-
-### 特別警語
-
-1. **腎功能監測**：Cobicistat 會影響肌酸酐分泌，可能造成血清肌酸酐假性上升
-2. **骨質密度**：長期使用需監測骨密度
-3. **脂質代謝**：可能影響血脂
-
----
+其他安全性資訊（警語、禁忌症）請參考原廠仿單。
 
 ## 結論與下一步
 
-### 預測評估
+**決策：Hold**
 
-| 評估項目 | 結果 |
-|----------|------|
-| 機轉合理性 | 不合理 - Cobicistat 無直接抗病毒活性 |
-| 臨床證據 | 無 |
-| 文獻支持 | 無 |
-| 整體證據等級 | **L5 (僅預測，無臨床意義)** |
+**理由：**
+- 三個預測適應症均無臨床試驗與文獻佐證，證據等級為 L5。
+- Cobicistat 本身沒有抗病毒活性，預測的疾病分別屬於非人類靈長類疾病、獸醫疾病與罕見遺傳疾病，缺乏人類臨床意義或合理機轉。
 
-### 方法學反思
-
-此藥物的預測結果凸顯了知識圖譜方法的重要限制：
-
-1. **未區分藥物角色**：將藥動學增強劑誤判為具有直接治療作用
-2. **關聯性 vs 因果性**：cobicistat 與 HIV 藥物的關聯被錯誤延伸至其他免疫缺乏症
-3. **動物疾病預測**：SIV 和 FIV 的預測在人類醫學無實際應用價值
-
-### 建議
-
-1. **不建議任何臨床延伸使用**：預測結果無科學依據
-2. **方法改進方向**：未來知識圖譜模型應納入藥物作用類型標註，區分直接治療效果與輔助增強作用
-3. **維持現有適應症**：Cobicistat 應繼續僅用於其核准的 HIV 治療藥動學增強角色
-
----
-
-*本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
-
-*最後更新：2026-02-11*
-
+**若要推進需要：**
+- 補充詳細的作用機轉資料（MOA）。
+- 若有意探討 SIV 相關用途，需有動物模型的前臨床證據；對人類而言，建議將研究重心放在已核准的 HIV-1 藥動學增強用途。
+- 針對神經發展障礙的預測，需先確認是否存在任何生物學關聯，否則應視為圖譜假象排除。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

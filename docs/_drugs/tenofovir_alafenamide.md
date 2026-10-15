@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tenofovir Alafenamide
-parent: 高證據等級 (L1-L2)
-nav_order: 246
-evidence_level: L2
+parent: 中證據等級 (L3-L4)
+nav_order: 268
+evidence_level: L4
 indication_count: 3
 ---
 
 # Tenofovir Alafenamide
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **3** 個
+證據等級: **L4** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,157 +29,98 @@ indication_count: 3
 
 </div>
 
-# Tenofovir Alafenamide 藥師筆記
+# Tenofovir alafenamide：從慢性 B 型肝炎到猿猴免疫缺乏病毒感染
 
 ## 一句話總結
 
-Tenofovir alafenamide（韋立得）是核苷酸反轉錄酶抑制劑，除現有 HIV/HBV 適應症外，TxGNN 預測其對 SIV 感染具潛力，已有臨床試驗及文獻支持。
+Tenofovir alafenamide（TAF）是 tenofovir 的前驅藥，在台灣單方用於慢性 B 型肝炎，複方則用於 HIV-1 治療與暴露前預防。
+TxGNN 模型的首位預測是**貓免疫缺乏症候群**，但完全沒有臨床試驗或文獻支持。本報告改以證據較完整的第 2 順位**猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)** 為主要評估對象，目前有 **0 個臨床試驗**和 **8 篇動物研究文獻**，皆為獼猴或人源化小鼠模型。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Tenofovir alafenamide (TAF) |
-| DrugBank ID | DB09299 |
-| 台灣商品名 | 韋立得膜衣錠、達可揮膜衣錠、吉他韋膜衣錠等 |
-| 原核准適應症 | HIV-1 感染治療、HIV 暴露前預防 (PrEP)、慢性 B 型肝炎 |
-| 預測新適應症 | SIV 感染、貓愛滋病、神經發育障礙 |
-| 最高證據等級 | **L2**（單一 RCT / 多個 Phase 2） |
-| TxGNN 分數 | 0.875（SIV 感染） |
+| 原適應症 | 適用於治療 6 歲以上且體重至少 25 公斤之慢性 B 型肝炎病人 |
+| 預測新適應症 | 猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)（模型第 1 順位為貓免疫缺乏症候群，無任何證據，故改評估第 2 順位） |
+| TxGNN 預測分數 | 99.89% |
+| 證據等級 | L4（僅有動物與前臨床研究） |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 7 張（有效單方 1／有效複方 6／已註銷 0） |
+| 建議決策 | Hold（作為研究問題追蹤，不建議進入臨床開發） |
 
-<!-- review:begin tenofovir-alafenamide-brand-names-2026-10-03 -->
+## 為什麼這個預測合理？
 
-> **查核更正（2026-10-03）**：原寫「台灣商品名／韋立得膜衣錠、達可揮膜衣錠、必克達膜衣錠等」。資料集中沒有「必克達膜衣錠」；bictegravir＋emtricitabine＋TAF 的台灣品名是「吉他韋 膜衣錠」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+目前缺乏詳細的作用機轉資料。根據已知資訊，TAF 是 tenofovir 的前驅藥，在細胞內轉換為 tenofovir diphosphate，抑制反轉錄酶並終止病毒 DNA 鏈延長。
 
-<!-- review:end tenofovir-alafenamide-brand-names-2026-10-03 -->
+SIV 與 HIV 同屬慢病毒，並具有反轉錄酶。獼猴的 SIV/SHIV 感染是 HIV 的標準前臨床模型，因此機轉上可直接套用。TAF 在台灣已有 HIV-1 治療與 PrEP 的複方適應症，這是預測合理的基礎。
 
-## 為什麼這個預測合理
-
-### 作用機轉支持
-
-Tenofovir alafenamide 是 tenofovir 的前驅藥物，透過抑制反轉錄酶阻斷病毒複製。其機轉對所有依賴反轉錄酶的逆轉錄病毒（包括 HIV、SIV、FIV）理論上均有效。
-
-### 預測適應症分析
-
-1. **SIV 感染**（猴免疫缺乏病毒）
-   - TxGNN 分數：0.875（排名第 1）
-   - SIV 與 HIV 高度同源，常作為 HIV 疫苗與治療研究模型
-   - 機轉高度相關：同為逆轉錄病毒
-
-2. **貓愛滋病（FIV 感染）**
-   - TxGNN 分數：0.813
-   - FIV 亦為逆轉錄病毒，機轉相似
-
-3. **神經發育障礙**
-   - TxGNN 分數：0.752
-   - 證據較弱，需進一步研究
+需要留意：SIV 感染的是非人類靈長類，人類並無此適應症。這個預測的實際意義在於**動物模型的研究價值**，而非新的人類治療用途。第 1 順位的貓免疫缺乏症候群屬獸醫領域，同樣沒有證據。第 3 順位（神經發展障礙）與 TAF 的抗病毒機轉沒有明顯關聯。
 
 ## 臨床試驗證據
 
-### SIV 感染相關試驗
-
-| NCT 編號 | 試驗名稱 | 階段 | 狀態 |
-|----------|----------|------|------|
-| NCT02738385 | Tenofovir alafenamide 用於 SIV/SHIV 感染恆河猴之 PK 研究 | Phase 1 | 已完成 |
-
-**試驗摘要**：該試驗評估 TAF 在 SIV/SHIV 感染恆河猴模型中的藥物動力學特性，為將 TAF 應用於非人靈長類感染模型提供基礎數據。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-### SIV 感染相關文獻（共 9 篇）
-
-| PMID | 標題摘要 | 年份 |
-|------|----------|------|
-| 35426679 | 長效 TAF 奈米製劑在恆河猴的藥理學評估 | 2022 |
-| 33958620 | 長效 TAF 注射劑在猴模型的預防效果 | 2021 |
-| 32908166 | 長效 Cabotegravir + TAF 組合在 SHIV 感染模型的評估 | 2020 |
-| 32561755 | TAF 長效製劑在 SIV 猴模型的分布研究 | 2020 |
-| 30992367 | 長效 Tenofovir 前驅藥在恆河猴的藥動學 | 2019 |
-
-### 證據強度評估
-
-- 臨床試驗：1 項 Phase 1（恆河猴 PK 研究）
-- PubMed 文獻：9 篇，主要為動物模型研究
-- **綜合證據等級：L2**（有臨床試驗階段研究，多篇前臨床文獻）
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [27465645](https://pubmed.ncbi.nlm.nih.gov/27465645/) | 2016 | 動物研究 | J Infect Dis | 口服 emtricitabine/TAF 可保護獼猴免於直腸 SHIV 感染 |
+| [31362305](https://pubmed.ncbi.nlm.nih.gov/31362305/) | 2019 | 動物研究 | J Infect Dis | 評估口服 TAF/FTC 複方或單用 TAF 對獼猴陰道 SHIV 感染的預防效果 |
+| [35913838](https://pubmed.ncbi.nlm.nih.gov/35913838/) | 2022 | 動物研究 | J Antimicrob Chemother | 釋放 TAF 的可生物降解植入物用於獼猴陰道暴露前預防，評估安全性與療效 |
+| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | 動物研究 | J Infect Dis | TAF/elvitegravir 陰道插入劑在獼猴暴露後仍具延長保護效果 |
+| [39632836](https://pubmed.ncbi.nlm.nih.gov/39632836/) | 2024 | 動物研究 | Nat Commun | 口服 emtricitabine/TAF 加長效 cabotegravir/rilpivirine 用於 RT-SHIV 感染獼猴，早期治療達緩解 |
+| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | 動物研究 | Front Immunol | 建立可同時測試 SIV 與 HIV 抗病毒策略的人源化小鼠模型 |
+| [41342257](https://pubmed.ncbi.nlm.nih.gov/41342257/) | 2026 | 動物研究 | J Infect Dis | TAF/elvitegravir 直腸插入劑在獼猴暴露後提供部分保護（約 82.9%） |
+| [31730629](https://pubmed.ncbi.nlm.nih.gov/31730629/) | 2019 | 動物研究 | PLoS One | 建立訓練獼猴每日口服抗反轉錄病毒藥物的方案，供前臨床評估使用 |
 
 ## 台灣上市資訊
-
-### 已核准產品（共 13 項）
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tenofovir Alafenamide 的不重複許可證共 **8 張**：有效單方 2 張、有效複方 6 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tenofovir Alafenamide 的不重複許可證共 **7 張**：有效單方 1 張、有效複方 6 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（2 張）
+**有效・單方**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛部藥輸字第027086號 | 韋立得膜衣錠 | 膜衣錠 | 香港商吉立亞醫藥有限公司台灣分公司 | 2027/04/19 | 適用於治療6歲以上且體重至少25公斤之慢性B型肝炎病人。 |
-| 衛部藥輸字第029183號 | 天諾膦維爾丙胺酸酯延胡索酸鹽 | （粉） | 川聖貿易股份有限公司 | 2031/06/05 | 抗病毒藥 |
 
 **有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（6 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、elvitegravir、EMTRI… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
+| 衛部藥輸字第027001號 | 捷扶康 膜衣錠 | tenofovir alafenamide fumarate、cobicistat、EMTRICITABINE、elvi… | 膜衣錠 | 下列感染第一型人類免疫缺乏病毒(HIV-1)且不具已知與嵌入酶抑制劑類藥品、emtricitabine或tenofovir抗藥性相關的突變的病人： (1) 12歲(含)以上且體重至… |
 | 衛部藥輸字第027274號 | 達可揮膜衣錠 200 毫克/25 毫克 | EMTRICITABINE、tenofovir alafenamide fumarate | 膜衣錠 | 治療HIV-1 感染 適用於與其他抗反轉錄病毒藥物併用，藉以治療人類免疫不全病毒第一型（HIV-1）的成人與青少年（12歲（含）以上且體重至少35公斤）。 HIV-1 暴露前預防性… |
 | 衛部藥輸字第027275號 | 達可揮膜衣錠 200 毫克/10 毫克 | tenofovir alafenamide fumarate、EMTRICITABINE | 膜衣錠 | Descovy適用於與其他抗反轉錄病毒藥物併用，藉以治療人類免疫不全病毒第一型(HIV-1)的成人與青少年(12歲(含)以上且體重至少35公斤)。 |
 | 衛部藥輸字第027505號 | 安以斯膜衣錠 | RILPIVIRINE HYDROCHLORIDE、tenofovir alafenamide fumarate、EMT… | 膜衣錠 | 先前未曾使用過抗病毒藥物治療之愛滋病毒(HIV-1)感染之完整治療，且在治療開始時其病毒量HIV-1 RNA ≦100,000 copies/mL之12歲以上(體重至少35公斤)患… |
-| 衛部藥輸字第027570號 | 吉他韋 膜衣錠 | tenofovir alafenamide fumarate、EMTRICITABINE、Bictegravir Sod… | 膜衣錠 | 治療感染第一型人類免疫缺乏病毒(HIV-1) 且不具已知或疑似與bictegravir或tenofovir抗藥性相關突變的成人與體重至少25公斤的兒童病人。 |
-| 衛部藥輸字第027613號 | 信澤力膜衣錠 | EMTRICITABINE、DARUNAVIR ETHANOLATE、cobicistat、tenofovir alaf… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
+| 衛部藥輸字第027570號 | 吉他韋 膜衣錠 | tenofovir alafenamide fumarate、Bictegravir Sodium、EMTRICITAB… | 膜衣錠 | 治療感染第一型人類免疫缺乏病毒(HIV-1) 且不具已知或疑似與bictegravir或tenofovir抗藥性相關突變的成人與體重至少25公斤的兒童病人。 |
+| 衛部藥輸字第027613號 | 信澤力膜衣錠 | tenofovir alafenamide fumarate、DARUNAVIR ETHANOLATE、EMTRICIT… | 膜衣錠 | SYMTUZA 為一個完整治療配方，適用於治療下列感染人類免疫不全病毒第1 型（HIV-1）的成人患者以及體重至少40公斤的兒童病人： ● 先前無任何抗反轉錄病毒藥物治療紀錄，或… |
 
 <!-- tfda-licenses:end -->
 
-### 健保給付狀態
-
-主要複方產品均有健保給付，單方韋立得用於 B 肝治療亦有給付。
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 藥物交互作用
+- **藥物交互作用**：藥理資料庫僅顯示 TAF 與味覺受體 TAS2R39 有配體–標的關聯，沒有臨床意義明確的藥物交互作用分級。
 
-| 交互作用藥物 | 嚴重程度 | 說明 |
-|--------------|----------|------|
-| TAS2R39 相關藥物 | 輕度 | 苦味受體交互作用，臨床意義不明 |
-
-### 主要不良反應
-
-- 腎功能影響（較舊型 TDF 改善）
-- 骨密度下降（較舊型 TDF 改善）
-- 頭痛、噁心、腹瀉
-
-### 特殊族群注意事項
-
-- 腎功能不全：eGFR < 15 需謹慎
-- 懷孕：Category B，權衡利弊
+其他警語與禁忌症資料不足，請參考原廠仿單。
 
 ## 結論與下一步
 
-### 預測可信度評估
+**決策：Hold**
 
-| 預測適應症 | 證據等級 | 可信度 | 建議 |
-|------------|----------|--------|------|
-| SIV 感染 | L2 | 高 | 主要作為研究模型，非人類治療用途 |
-| 貓愛滋病 | L4 | 中 | 獸醫領域可進一步研究 |
-| 神經發育障礙 | L5 | 低 | 機轉關聯不明確 |
+**理由：**
+- 預測分數雖高（99.89%），但證據僅限獼猴與小鼠的前臨床研究，沒有人類試驗。SIV 並非人類疾病，無法轉化為新的人類適應症。
+- 另兩個預測（貓免疫缺乏症候群、神經發展障礙）沒有任何臨床試驗或文獻，其中後者也缺乏機轉依據。
 
-### 臨床應用建議
-
-1. **SIV 感染**：已有充分動物模型數據，適合作為 HIV 研究的轉譯平台
-2. **貓愛滋病**：可考慮獸醫臨床試驗
-3. **神經發育障礙**：目前證據不足，不建議臨床應用
-
-### 後續研究方向
-
-- 長效 TAF 製劑在 HIV PrEP 的臨床應用
-- 獸醫領域 FIV 治療的可行性評估
-
----
-
-*本筆記由 TxGNN 預測系統產生，僅供研究參考，不構成醫療建議。*
-*更新日期：2026-02-11*
+**若要推進需要：**
+- 補齊 TAF 的作用機轉資料（DrugBank MOA）。
+- 釐清研究目的：若定位為 HIV 前臨床模型的工具藥，可作為研究問題持續追蹤；若要找人類新適應症，應改評估其他預測。
+- 貓免疫缺乏症候群需獸醫領域的專業評估，並檢索 FIV 相關文獻。
+- 神經發展障礙的預測建議視為模型雜訊，除非有新證據，否則不予推進。
 
 <!-- review:begin log -->
 

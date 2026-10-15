@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Isosorbide Dinitrate
-parent: 高證據等級 (L1-L2)
-nav_order: 146
-evidence_level: L2
+parent: 中證據等級 (L3-L4)
+nav_order: 157
+evidence_level: L3
 indication_count: 10
 ---
 
 # Isosorbide Dinitrate
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,52 +29,75 @@ indication_count: 10
 
 </div>
 
-# Isosorbide Dinitrate：從 狹心症 到 肺高壓
+# Isosorbide dinitrate：從狹心症到肺高壓
 
 ## 一句話總結
 
-Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管擴張劑，用於預防和治療狹心症。TxGNN 模型預測它對**肺高壓 (pulmonary hypertension)** 有潛在治療效果，目前有超過 **20 篇文獻**支持此預測，證據等級高。
+Isosorbide dinitrate（二硝酸異山梨醇）是一種硝酸鹽類血管擴張劑，原本用於預防與治療狹心症發作。
+本報告以 TxGNN 預測分數最高的新適應症排序為準，其中**證據最完整的是肺高壓 (Pulmonary Hypertension)**，目前有 **0 個臨床試驗**和 **20 篇文獻**，多為早期小型血行動力學研究。
+另一個有臨床試驗的方向是廣義的**血管疾病 (Vascular Disease)**，但該詞範圍過於寬泛。
+
+> 說明：TxGNN 分數排名第一的是「禿髮 (alopecia)」，但沒有任何臨床或文獻支持，故判定為機轉上不成立的預測（疑為模型假象）。本報告以有實質證據的「肺高壓」作為主要評估對象，並於下方說明其他候選。
+
+---
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 預防及治療狹心症發作、冠狀動脈不全 |
-| 預測新適應症 | 肺高壓 (pulmonary hypertension)、脫髮症 (alopecia) |
-| TxGNN 預測分數 | 99.98% (肺高壓) |
-| 證據等級 | L2 |
-| 台灣上市 | 已上市 |
+| 原適應症 | 預防狹心症之發作 |
+| 預測新適應症 | 肺高壓 (Pulmonary Hypertension) |
+| TxGNN 預測分數 | 99.98% |
+| 證據等級 | L3 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 71 張（有效單方 5／有效複方 0／已註銷 66） |
-| 建議決策 | Explore |
+| 建議決策 | Hold（列為研究問題，暫不推進） |
+
+---
 
 ## 為什麼這個預測合理？
 
-Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞中的鳥苷酸環化酶，導致環磷酸鳥苷（cGMP）濃度升高，進而引起血管舒張。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Isosorbide dinitrate 屬於一氧化氮 (NO) 供體類血管擴張劑，可提高血管平滑肌 cGMP，使靜脈擴張，高劑量時亦擴張動脈與側枝血管，進而降低前負荷與血管阻力。
 
-**機轉支持：**
-- NO 是肺血管舒張的重要介質
-- 硝酸酯類藥物可降低肺動脈壓力
-- 主要作用於容量血管（靜脈），減少心臟前負荷
-- 較高劑量也可擴張動脈，包括肺動脈
+狹心症與肺高壓同屬心血管血流動力學問題，降低肺動脈壓與肺血管阻力在理論上可行。小型研究顯示，舌下或靜脈給予 ISDN 可降低肺動脈壓。
 
-此預測具有堅實的藥理學基礎，且有大量臨床文獻支持。
+但需特別注意：在 COPD 相關肺高壓中，硝酸鹽可能惡化通氣灌流比 (V/Q) 配對與氧合；在前微血管型 (pre-capillary) 肺高壓，也可能降低心輸出量與血壓。因此其合理性主要限於後微血管型（左心疾病相關）肺高壓。
+
+---
 
 ## 臨床試驗證據
 
-雖無專門針對肺高壓的大型 RCT 登記，但文獻顯示多項研究已探討此應用。
+目前無相關臨床試驗登記（肺高壓方向）。
+
+作為參考，「血管疾病」這個較廣泛的預測方向（排名第 6，分數 99.97%）有下列試驗，但多為間接證據：
+
+| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+|---------|------|------|------|---------|
+| [NCT02789033](https://clinicaltrials.gov/study/NCT02789033) | Phase 3 | 完成 | 68 | ISDN 噴霧加幾丁聚醣用於糖尿病足潰瘍（藥物相符，疾病間接相關；結果未提供） |
+| [NCT00000478](https://clinicaltrials.gov/study/NCT00000478) | Phase 3 | 完成 | 未提供 | 無症狀心肌缺血前導研究，比較藥物與血管重建策略（無法區分個別藥物效果） |
+| [NCT00803634](https://clinicaltrials.gov/study/NCT00803634) | Phase 3 | 完成 | 117 | 急性心衰竭合併高血壓之降壓研究，測試藥物為 clevidipine（間接） |
+| [NCT01513070](https://clinicaltrials.gov/study/NCT01513070) | Phase 4 | 完成 | 120 | 中藥複方與 ISDN 用於中度冠狀動脈狹窄（間接） |
+
+---
 
 ## 文獻證據
 
+肺高壓相關文獻（節選）：
+
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [39164577](https://pubmed.ncbi.nlm.nih.gov/39164577/) | 2025 | Journal Article | Heart and vessels | Bolus ISDN 注射可降低 mPAP，在後毛細血管性肺高壓效果較佳 |
-| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Comparative Study | Bull Eur Physiopathol Respir | ISDN 和 NTG 均可降低 COPD 患者肺動脈壓 |
-| [28810603](https://pubmed.ncbi.nlm.nih.gov/28810603/) | 2017 | Journal Article | Exp Ther Med | 氣管內 ISDN 可改善心肌梗塞後心衰大鼠的肺動脈壓和心室重塑 |
-| [373940](https://pubmed.ncbi.nlm.nih.gov/373940/) | 1979 | RCT | Clin Pharmacol Ther | 口服 ISDN 有效降低 COPD 患者肺高壓 |
-| [3409916](https://pubmed.ncbi.nlm.nih.gov/3409916/) | 1988 | Journal Article | Eur Heart J | 兩年 ID 治療可長期減少間質性肺纖維化患者的肺高壓 |
-| [7125407](https://pubmed.ncbi.nlm.nih.gov/7125407/) | 1982 | Comparative Study | Ann Intern Med | ISDN 是唯一能降低原發性肺高壓肺動脈壓的藥物 |
+| [19620510](https://pubmed.ncbi.nlm.nih.gov/19620510/) | 2009 | RCT | Hypertension | 固定劑量 ISDN/hydralazine 用於高血壓性舒張性心衰竭模型，評估心肌重塑（與肺高壓間接相關） |
+| [39164577](https://pubmed.ncbi.nlm.nih.gov/39164577/) | 2025 | Cohort | Heart and Vessels | 評估 ISDN 靜脈推注對肺高壓合併心肺共病患者 mPAP 與血壓的影響；前微血管型可能降低心輸出量與血壓 |
+| [8908227](https://pubmed.ncbi.nlm.nih.gov/8908227/) | 1996 | Cohort | Acta Anaesthesiol Scand | 比較靜脈 NTG 與 ISDN 對末期心肌病患者肺血管的影響 |
+| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Case series | Bull Eur Physiopathol Respir | COPD 肺高壓患者，ISDN 與 NTG 均降低肺動脈壓與心輸出量，僅 NTG 降低肺血管阻力 |
+| [373940](https://pubmed.ncbi.nlm.nih.gov/373940/) | 1979 | Case series | Clin Pharmacol Ther | 18 位 COPD 肺高壓患者，口服 ISDN 對血行動力學的影響（隨機雙盲設計） |
+| [3409916](https://pubmed.ncbi.nlm.nih.gov/3409916/) | 1988 | 病例研究 | Eur Heart J | 18 位間質性肺纖維化患者，ISDN 治療兩年後肺血管阻力與肺動脈壓持續改善 |
+| [2868878](https://pubmed.ncbi.nlm.nih.gov/2868878/) | 1986 | Review | Drugs | 原發性肺高壓藥物治療回顧，ISDN 為曾被報告有益的血管擴張劑之一 |
+| [28810603](https://pubmed.ncbi.nlm.nih.gov/28810603/) | 2017 | Animal | Exp Ther Med | 氣管內給予 ISDN 改善心肌梗塞後心衰竭大鼠的肺動脈壓與心室重塑 |
+| [2498122](https://pubmed.ncbi.nlm.nih.gov/2498122/) | 1989 | Animal | Exp Mol Pathol | 比較 ISDN 等藥物對 monocrotaline 誘發肺高壓大鼠的影響 |
+| [7125407](https://pubmed.ncbi.nlm.nih.gov/7125407/) | 1982 | 研究 | Ann Intern Med | 原發性肺高壓 10 位女性，ISDN 是唯一能降低肺動脈壓的藥物，但整體效果有限 |
 
-文獻證據顯示 ISDN 對多種類型的肺高壓（包括 COPD 相關、心衰相關和原發性肺高壓）均有降壓效果。
+---
 
 ## 台灣上市資訊
 
@@ -99,37 +122,34 @@ Isosorbide dinitrate 通過釋放一氧化氮（NO）激活血管平滑肌細胞
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
+---
+
 ## 安全性考量
 
-**常見副作用：**
-- 頭痛（最常見）
-- 頭暈
-- 低血壓
-- 臉部潮紅
-- 心跳加速
+- **知識圖譜標示的潛在禁忌疾病**（來自知識圖譜關聯，非仿單原文）：低血壓、肥厚性心肌病變、冠狀動脈疾病相關事件（心肌梗塞、冠狀動脈血栓）、腦血管疾病（中風、腦梗塞、腦出血）、顱內高壓、貧血與血紅素異常、甲狀腺機能亢進（Graves 病、甲狀腺毒症）等。
+- **藥物交互作用**：共查得 141 筆，主要包括中度交互作用，如 Bupropion、Morphine、Canagliflozin、Dapagliflozin、Empagliflozin、Ertugliflozin、Rosiglitazone、Dronabinol、Nabilone、Opium、Sapropterin；輕度為 Omeprazole。
+- **臨床特別留意**：硝酸鹽類可能導致耐受性（文獻已有記載），並可能造成血壓下降；用於肺高壓時尤須注意肺氧合與心輸出量變化。
 
-**禁忌症：**
-- 與 PDE5 抑制劑（如 sildenafil）併用：可能導致嚴重低血壓
-- 嚴重低血壓
-- 右心室梗塞
-- 肥厚性心肌病變伴流出道阻塞
+仿單完整警語與禁忌請參考原廠仿單。
 
-**重要警告：**
-肺高壓患者使用時可能導致全身性低血壓和心輸出量下降，需謹慎監測。
+---
 
 ## 結論與下一步
 
-**決策：Explore**
+**決策：Hold**
 
 **理由：**
-ISDN 對肺高壓的治療具有清晰的藥理機轉和豐富的文獻支持。多項研究顯示它能有效降低肺動脈壓力。然而，全身性血管擴張作用可能限制其在前毛細血管性肺高壓的應用。目前肺動脈高壓的標準治療已有更選擇性的藥物（如前列環素類似物、PDE5 抑制劑），ISDN 可能更適合作為輔助治療或特定亞群的替代選擇。
+- 肺高壓的支持證據多為 1970–1990 年代小型、急性血行動力學研究，缺乏登記的臨床試驗與近期的對照試驗；且在 COPD 相關肺高壓有氧合惡化風險。
+- 其他高分預測（禿髮、先天性少毛症、多毛症、鈣化防禦等）無任何證據，機轉上亦不成立，不建議投入資源。
 
 **若要推進需要：**
-- 明確 ISDN 在不同類型肺高壓中的定位
-- 與現有標準治療的比較研究
-- 確定最佳給藥途徑（吸入 vs 口服 vs 靜脈）
-- 長期安全性和耐受性數據
-
+- 補齊 ISDN 作用機轉資料（目前缺乏 MOA）。
+- 明確界定目標族群（如左心疾病相關之後微血管型肺高壓），並排除 COPD／前微血管型。
+- 設計小型前瞻性隨機對照試驗，以肺動脈壓、肺血管阻力、心輸出量與氧合為終點。
+- 確認 NCT02789033（糖尿病足潰瘍）的結果，再評估外用劑型作為「血管疾病」方向的可能性。
+- 擬定低血壓與硝酸鹽耐受性的監測計畫。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

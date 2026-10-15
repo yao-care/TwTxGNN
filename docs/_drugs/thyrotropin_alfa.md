@@ -2,7 +2,7 @@
 layout: default
 title: Thyrotropin Alfa
 parent: 僅模型預測 (L5)
-nav_order: 254
+nav_order: 276
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,21 +29,18 @@ indication_count: 10
 
 </div>
 
-# Thyrotropin alfa：從甲狀腺分化癌到偏頭痛
+# Thyrotropin alfa：從甲狀腺分化癌輔助診斷與殘留組織去除到偏頭痛（預測，證據不足）
 
 ## 一句話總結
 
-Thyrotropin alfa（適諾進）是重組人類促甲狀腺激素（rhTSH），原本作為甲狀腺分化癌術後放射碘去除治療的輔助診斷製劑。
-TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
-但目前**無任何臨床試驗或支持文獻**，屬純模型預測階段。
-
----
+Thyrotropin alfa 是重組人類甲狀腺刺激素（TSH），原本用於甲狀腺分化癌術後的輔助診斷，以及協助放射碘去除殘留甲狀腺組織。
+TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅屬模型預測（L5）。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 甲狀腺分化癌（術後放射碘輔助治療） |
+| 原適應症 | 甲狀腺分化癌治療之輔助診斷製劑。適用於因甲狀腺分化癌而接受幾乎全部或全部甲狀腺切除、且沒有轉移性甲狀腺癌跡象的病人，可作為甲狀腺殘留組織放射碘去除之輔助療劑 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L5 |
@@ -51,29 +48,21 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-Thyrotropin alfa 是以基因重組技術製造的人類促甲狀腺激素（rhTSH）。其作用機轉為與甲狀腺濾泡細胞表面的 TSH 受體（TSHR）結合，刺激甲狀腺激素（T3/T4）合成及碘攝取。臨床上，它讓甲狀腺癌術後病人無需停用甲狀腺素補充療法，即可在放射碘掃描或消融治療前短暫提升 TSH 濃度，增強殘餘甲狀腺組織的碘攝取效率。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Thyrotropin alfa 是重組人類 TSH，作用於 TSH 受體，刺激甲狀腺組織攝取碘並釋放甲狀腺激素。這個機轉支持它在甲狀腺癌輔助診斷與放射碘治療中的用途。
 
-偏頭痛的核心病理機轉涉及三叉神經血管活化（CGRP pathway）與皮質擴散性抑制（CSD），與 TSH 受體激動的甲狀腺內分泌作用屬於不同系統，缺乏直接的機轉交集。TxGNN 的預測可能源於知識圖譜中甲狀腺系統與神經系統之間的遠端路徑關聯——例如甲狀腺激素對神經元代謝的調節作用，或甲狀腺疾病患者偏頭痛盛行率略高的流行病學觀察——但這些關聯僅屬間接推論。
+然而，TSH 受體促效作用與偏頭痛的病理生理之間，目前沒有已知的作用路徑。這個預測較可能反映知識圖譜中的節點鄰近性，而非真實的藥理關聯。
 
-總體而言，本預測的機轉合理性非常薄弱。TxGNN 高分反映的是知識圖譜節點的圖拓樸相似性，而非藥物對偏頭痛的實際療效潛力。建議謹慎看待此預測，需前臨床研究驗證後才能進一步評估可行性。
-
----
+同一批高分預測還包括有腦幹先兆的偏頭痛、雷諾氏病、肺動脈高壓、姿勢性直立心搏過速症候群等，多數同樣缺乏機轉依據。其中**甲狀腺功能亢進**的預測在機轉上反而相反：TSH 受體促效可能增加甲狀腺激素分泌，使病況惡化，應視為可能的偽陽性。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
 目前無相關文獻。
-
----
 
 ## 台灣上市資訊
 
@@ -91,43 +80,35 @@ Thyrotropin alfa 是以基因重組技術製造的人類促甲狀腺激素（rhT
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-**藥物交互作用：** 共有 45 筆中度（Moderate）交互作用紀錄，主要集中於**降血糖藥物**類別：
+- **藥物交互作用**：資料庫共收錄 45 筆交互作用，以下為其中的中度（Moderate）交互作用，主要為降血糖藥物：
+  - 雙胍類與 α-葡萄糖苷酶抑制劑：Metformin、Acarbose
+  - 磺醯脲類：Chlorpropamide、Glimepiride、Glipizide、Glyburide、Acetohexamide
+  - DPP-4 抑制劑：Alogliptin、Saxagliptin
+  - SGLT2 抑制劑：Canagliflozin、Dapagliflozin、Empagliflozin、Ertugliflozin
+  - GLP-1 受體促效劑：Albiglutide、Dulaglutide、Semaglutide、Exenatide
+  - 胰島素：Insulin human、Insulin aspart
 
-| 交互作用藥物 | 等級 | 類別 |
-|-------------|------|------|
-| Metformin | Moderate | Biguanide |
-| Insulin human | Moderate | 胰島素 |
-| Glimepiride | Moderate | Sulfonylurea |
-| Glipizide | Moderate | Sulfonylurea |
-| Glyburide | Moderate | Sulfonylurea |
-| Semaglutide | Moderate | GLP-1 受體促效劑 |
-| Dulaglutide | Moderate | GLP-1 受體促效劑 |
-| Canagliflozin | Moderate | SGLT-2 抑制劑 |
-| Dapagliflozin | Moderate | SGLT-2 抑制劑 |
-| Empagliflozin | Moderate | SGLT-2 抑制劑 |
+  使用本藥的糖尿病病人需留意血糖控制的變化。
 
-其餘 35 筆亦屬中度交互作用，涵蓋 DPP-4 抑制劑（Alogliptin、Saxagliptin）、SGLT-2 抑制劑（Ertugliflozin）、胰島素類似物等。使用時需特別留意與糖尿病用藥的交互作用。
-
-其他安全性資訊（警語、禁忌症）請參考原廠仿單。
-
----
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-TxGNN 預測分數雖達 99.98%，但 Thyrotropin alfa 的 TSH 受體激動機轉與偏頭痛的三叉神經血管病理缺乏任何已知直接連結；目前完全無臨床試驗或文獻佐證，屬純模型推論，不具備推進再利用研究的依據。
+- 所有預測新適應症都沒有臨床試驗或文獻佐證，證據等級為 L5，僅有模型預測。
+- TSH 受體促效作用與偏頭痛等預測疾病之間缺乏機轉連結，部分預測（如甲狀腺功能亢進）在機轉上甚至相反。
 
 **若要推進需要：**
-- 補充正式的 DrugBank MOA 資料（完整藥理機轉描述）
-- 評估甲狀腺激素水平與偏頭痛發作頻率之流行病學相關性文獻
-- 進行 in vitro 或動物模型前臨床研究，探索 TSH 對三叉神經或 CGRP 路徑的直接或間接作用
-- 確認注射劑型對偏頭痛慢性預防治療的臨床可行性及病人接受度
+- 補齊詳細的作用機轉（MOA）資料，並評估 TSH 受體訊號與偏頭痛的任何可能關聯。
+- 進行系統性文獻回顧，確認是否有支持性的前臨床或觀察性證據。
+- 若有初步證據，再評估給藥途徑與劑量的可行性，並制定針對心悸、甲狀腺激素短暫上升等風險的安全性監測計畫。
+- 對預測清單進行機轉篩選，排除如甲狀腺功能亢進這類在機轉上可能相反的項目。
 
 <!-- review:begin log -->
 

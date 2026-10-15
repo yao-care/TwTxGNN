@@ -2,15 +2,15 @@
 layout: default
 title: Temozolomide
 parent: 高證據等級 (L1-L2)
-nav_order: 245
-evidence_level: L1
+nav_order: 267
+evidence_level: L2
 indication_count: 2
 ---
 
 # Temozolomide
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **2** 個
+證據等級: **L2** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,46 +29,54 @@ indication_count: 2
 
 </div>
 
-# Temozolomide：從神經膠母細胞瘤到成人星狀細胞瘤
+# Temozolomide：從惡性神經膠質瘤到成人星狀細胞腫瘤
 
 ## 一句話總結
 
-Temozolomide 是一種口服烷化劑，原本用於治療新診斷及復發的惡性神經膠質瘤（如神經膠母細胞瘤）。TxGNN 模型預測它可能對**成人星狀細胞瘤 (Adult Astrocytic Tumour)** 有效，目前有 **2 個臨床試驗**和 **超過 20 篇文獻**支持這個方向。
+Temozolomide 是口服烷化劑，原本用於新診斷的多形神經膠母細胞瘤（與放射治療同步，再作輔助治療），以及標準治療後復發或惡化的惡性神經膠質瘤。
+TxGNN 模型預測它可能對**成人星狀細胞腫瘤 (Adult Astrocytic Tumour)** 有效，目前有 **2 個臨床試驗**和 **20 篇文獻**支持這個方向，其中包含 1 個已完成的 Phase 3 隨機試驗。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 神經膠母細胞瘤（與放射治療同步及輔助治療） |
-| 預測新適應症 | 成人星狀細胞瘤 (Adult Astrocytic Tumour) |
+| 原適應症 | 新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤 |
+| 預測新適應症 | 成人星狀細胞腫瘤 (Adult Astrocytic Tumour) |
 | TxGNN 預測分數 | 99.36% |
-| 證據等級 | L1 |
-| 台灣上市 | 已上市 |
+| 證據等級 | L2（有 1 個已完成的 Phase 3 RCT，另有多篇 RCT 文獻） |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 21 張（有效單方 10／有效複方 1／已註銷 10） |
-| 建議決策 | Go |
+| 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
 
-Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用抑制腫瘤細胞的 DNA 複製。它在生理條件下自發轉化為活性代謝物 MTIC，能穿透血腦屏障，對中樞神經系統腫瘤具有良好的療效。
+目前缺乏詳細的作用機轉資料。根據一般藥理知識，Temozolomide 是口服烷化劑，可使 DNA 甲基化（O6-鳥嘌呤、N7-鳥嘌呤），透過錯配修復機制造成細胞毒性損傷。它能穿透血腦屏障，對 MGMT 啟動子甲基化的腫瘤效果最明顯。
 
-神經膠母細胞瘤（WHO 第 4 級）和退行性星狀細胞瘤（WHO 第 3 級）同屬星狀細胞來源的神經膠質瘤，在病理學和分子特徵上有高度重疊。事實上，Temozolomide 的台灣核准適應症已包含「給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤」，顯示這個預測與現有適應症高度一致。
+星狀細胞腫瘤是神經膠質瘤的一大類，多形神經膠母細胞瘤即屬其中最惡性的一型。原適應症已涵蓋多形神經膠母細胞瘤與退行性星狀細胞瘤，因此預測的新適應症與原適應症高度重疊，可視為在同一疾病譜系內的範圍確認，而非全新疾病領域的跨越。
+
+機轉上，DNA 烷化作用對快速增殖的神經膠質瘤細胞具有細胞毒性，這與該藥在神經膠質瘤中已建立的療效一致。
 
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | 完成 | 26 | 評估 XL184 合併 Temozolomide 和放射治療用於第 4 級星狀細胞腫瘤的安全性和藥物動力學 |
-| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | 完成 | 500 | 比較 Temozolomide 單藥與 PCV 化療方案用於復發性 WHO 第 3-4 級星狀細胞瘤，主要終點為總存活期 |
+| [NCT00052455](https://clinicaltrials.gov/study/NCT00052455) | Phase 3 | 完成 | 500 | 比較 temozolomide 與 PCV（procarbazine、lomustine、vincristine）用於復發 WHO 第 III、IV 級星狀細胞腫瘤，藥物與疾病均直接相符 |
+| [NCT00960492](https://clinicaltrials.gov/study/NCT00960492) | Phase 1 | 完成 | 26 | XL184（cabozantinib）併用 temozolomide 與放射治療於膠質母細胞瘤的劑量探索；重點在 XL184 的安全性與藥動學，對 temozolomide 僅屬間接支持 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | Phase 3 RCT | NEJM | 里程碑研究：放射治療合併 Temozolomide 顯著延長神經膠母細胞瘤患者存活 |
-| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | Phase 3 RCT | JAMA | 腫瘤電場治療合併 Temozolomide 維持治療優於單獨 Temozolomide |
-| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | Phase 3 RCT | Lancet | Lomustine-Temozolomide 合併治療在 MGMT 啟動子甲基化的新診斷神經膠母細胞瘤中優於標準 Temozolomide |
-| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | Phase 3 RCT | Lancet Oncol | 老年惡性星狀細胞瘤患者單獨使用 Temozolomide vs 放射治療的比較 |
-| [25920709](https://pubmed.ncbi.nlm.nih.gov/25920709/) | 2015 | Phase 2 RCT | J Neurooncol | 放射治療合併 Temozolomide 用於退行性星狀細胞膠質瘤 |
+| [15758009](https://pubmed.ncbi.nlm.nih.gov/15758009/) | 2005 | RCT | N Engl J Med | 比較單用放療與放療加同步及輔助 temozolomide 治療膠質母細胞瘤的療效與安全性 |
+| [19269895](https://pubmed.ncbi.nlm.nih.gov/19269895/) | 2009 | RCT | Lancet Oncol | EORTC-NCIC 試驗 5 年分析，追蹤超過 5 年，確認放療加 temozolomide 的存活獲益 |
+| [22578793](https://pubmed.ncbi.nlm.nih.gov/22578793/) | 2012 | RCT | Lancet Oncol | NOA-08：高齡惡性星狀細胞瘤患者，比較劑量密集 temozolomide 單獨治療與單獨放療 |
+| [30782343](https://pubmed.ncbi.nlm.nih.gov/30782343/) | 2019 | RCT | Lancet | CeTeG/NOA-09：MGMT 甲基化膠質母細胞瘤，比較 lomustine-temozolomide 合併治療與標準 temozolomide |
+| [29260225](https://pubmed.ncbi.nlm.nih.gov/29260225/) | 2017 | RCT | JAMA | 腫瘤治療電場加維持性 temozolomide 對比單用 temozolomide 的存活效果 |
+| [26670971](https://pubmed.ncbi.nlm.nih.gov/26670971/) | 2015 | RCT | JAMA | 維持治療階段，腫瘤治療電場加 temozolomide 對比單用 temozolomide |
+| [24552317](https://pubmed.ncbi.nlm.nih.gov/24552317/) | 2014 | RCT | N Engl J Med | 新診斷膠質母細胞瘤在標準 temozolomide 加放療基礎上加入 bevacizumab |
+| [39480453](https://pubmed.ncbi.nlm.nih.gov/39480453/) | 2024 | RCT | JAMA Oncol | MGMT 甲基化膠質母細胞瘤，temozolomide 加 veliparib 的療效 |
+| [34898238](https://pubmed.ncbi.nlm.nih.gov/34898238/) | 2022 | Review | J Clin Oncol | ASCO-SNO 成人瀰漫性星狀細胞與寡樹突膠質細胞腫瘤治療指引 |
+| [27668386](https://pubmed.ncbi.nlm.nih.gov/27668386/) | 2016 | Review | Clin J Oncol Nurs | 膠質母細胞瘤疾病與治療概述，包含手術、放療、化療與新興療法 |
 
 ## 台灣上市資訊
 
@@ -104,33 +112,44 @@ Temozolomide 是一種咪唑并四嗪類烷化劑，透過 DNA 甲基化作用�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
 | 細胞毒性分類 | 傳統細胞毒性藥物（烷化劑） |
-| 骨髓抑制風險 | 中度（常見血小板減少、嗜中性白血球減少） |
+| 骨髓抑制風險 | 中至高。知識圖譜列出的禁忌相關疾病包含血小板低下、嗜中性球低下、全血球低下、再生不良性貧血與骨髓增生異常症候群 |
 | 致吐性分級 | 中度 |
-| 監測項目 | CBC（含分類）、肝功能、需在開始治療前及整個治療期間監測血液學參數 |
+| 監測項目 | CBC（含分類與血小板）、肝功能 |
 | 處置防護 | 需依細胞毒性藥物處置規範操作 |
+
+其餘細節請參考原廠仿單的警語與注意事項。
 
 ## 安全性考量
 
-安全性資訊請參考原廠仿單。主要注意事項包括：
-- 骨髓抑制：需定期監測血球計數
-- 肝毒性：需監測肝功能
-- 致畸性：孕婦禁用
+- **知識圖譜標示的禁忌相關疾病**（非仿單文字）：肝衰竭、血小板低下、嗜中性球低下、顆粒球缺乏症、貧血、巨球性貧血、肺囊蟲病、全血球低下、淋巴球低下、骨髓增生異常症候群、特發性再生不良性貧血、再生不良性貧血。
+- **藥物交互作用**：共查得 320 筆。資料中被列為中度者為 Naltrexone，輕度者為 Levofloxacin；其餘（如 Pantoprazole、Omeprazole、Metformin、Morphine、Prednisone 等）等級未定。臨床使用前應逐一核對併用藥物。
+
+其他警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Go**
+**決策：Proceed with Guardrails**
 
 **理由：**
-Temozolomide 用於成人星狀細胞瘤的證據充分，已有多個 Phase 3 RCT 支持其療效。事實上，台灣現有適應症已涵蓋退行性星狀細胞瘤，TxGNN 預測與臨床實務高度吻合。
+- 有 1 個已完成的 Phase 3 RCT（NCT00052455，500 人）直接針對復發星狀細胞腫瘤，另有多篇膠質母細胞瘤的 RCT 文獻。
+- 預測疾病與台灣現有核准適應症（多形神經膠母細胞瘤、退行性星狀細胞瘤）高度重疊。
+- 但骨髓抑制風險明確，且缺乏機轉資料，需配合監測。
 
 **若要推進需要：**
-- 確認特定亞型星狀細胞瘤的 MGMT 甲基化狀態以預測療效
-- 針對不同分子亞型制定個人化治療方案
+- 補充 DrugBank 的作用機轉（MOA）資料
+- 釐清預測適應症與現有核准範圍的差異（例如不同級別的星狀細胞瘤、MGMT 狀態分層）
+- 建立血液學監測計畫（CBC、肝功能）
+- 核對 DDI 清單中的併用藥物
+
+**補充：第二預測適應症（馬尾神經腫瘤）**
+目前只有 1 則脊髓黏液乳突型室管膜瘤的個案報告支持，無臨床試驗，證據等級為 L4，僅適合列為研究問題，不建議推進。
 
 <!-- review:begin log -->
 

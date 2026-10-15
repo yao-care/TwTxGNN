@@ -2,15 +2,15 @@
 layout: default
 title: Trifluoperazine
 parent: 中證據等級 (L3-L4)
-nav_order: 270
-evidence_level: L3
+nav_order: 292
+evidence_level: L4
 indication_count: 1
 ---
 
 # Trifluoperazine
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,49 +29,54 @@ indication_count: 1
 
 </div>
 
-# Trifluoperazine：從精神病狀態到躁鬱症躁症期
+# Trifluoperazine：從精神病狀態到躁期雙相情感障礙
 
 ## 一句話總結
 
-Trifluoperazine (三氟陪拉辛) 原本用於治療精神病狀態及行為障礙。
-TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective disorder)** 有效，
-目前有 **20 篇文獻**支持這個方向。
+Trifluoperazine 是吩噻嗪（phenothiazine）類抗精神病藥，原本用於精神病狀態、噁心、嘔吐，以及攻擊性與破壞性行為障礙。
+TxGNN 模型預測它可能對**躁期雙相情感障礙 (Manic Bipolar Affective Disorder)** 有效，
+目前**沒有登記的臨床試驗**，僅有 **20 篇文獻**與此方向間接相關，證據偏弱。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙 |
-| 預測新適應症 | 躁鬱症躁症期 (manic bipolar affective disorder) |
+| 原適應症 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙 |
+| 預測新適應症 | 躁期雙相情感障礙 (Manic Bipolar Affective Disorder) |
 | TxGNN 預測分數 | 99.51% |
-| 證據等級 | L3 (有間接文獻證據) |
-| 台灣上市 | 已上市 |
+| 證據等級 | L4（僅有間接的機轉與類別層級文獻，無臨床試驗；L5 為純模型預測） |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 44 張（有效單方 6／有效複方 0／已註銷 38） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其作用機轉支持在躁症期的應用：
+目前缺乏詳細的作用機轉資料。根據已知資訊，Trifluoperazine 屬於吩噻嗪類抗精神病藥，主要作用被認為是阻斷多巴胺 D2 受體，這與臨床上用於急性躁症的抗精神病藥機轉有重疊。此外，它也可能抑制鈣調蛋白（calmodulin），但此途徑與躁症的關聯尚不確定。以上機轉連結是依藥物類別推論，並非來自已確認的藥物機轉資料。
 
-1. **多巴胺 D2 受體阻斷**：抑制中腦邊緣系統的多巴胺過度活化
-2. **鎮靜作用**：減少躁動、攻擊性行為
-3. **抗精神病作用**：改善精神病性症狀（如妄想、幻覺）
+原適應症（精神病狀態、攻擊性與破壞性行為）與躁期雙相情感障礙在臨床表現上有部分重疊，例如激動、攻擊行為與精神病症狀，因此模型的預測在臨床上有一定合理性。
 
-躁症期常伴隨精神病性症狀，典型抗精神病藥物在非典型藥物問世前是躁症急性期的標準治療選擇之一。
+不過，目前所列文獻多為抗精神病藥的一般性回顧、副作用個案報告或早期（1960 年代）的描述性研究，並非直接針對 Trifluoperazine 治療躁症的對照試驗。預測分數高，不等於已有直接療效證據。
 
 ## 臨床試驗證據
 
-目前無針對躁鬱症躁症期的專門臨床試驗，但有多篇文獻支持其在躁症期的使用。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
+以下列出較相關的文獻，多為類別層級或間接證據：
+
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [14309092](https://pubmed.ncbi.nlm.nih.gov/14309092/) | 1965 | Clinical Study | Int J Neuropsychiatry | 比較 Haloperidol 與 Trifluoperazine 在精神分裂症及躁症患者中的療效 |
-| [24943390](https://pubmed.ncbi.nlm.nih.gov/24943390/) | 2014 | Survey | J Clin Psychopharmacol | 烏干達精神病院處方模式：Trifluoperazine 與 Carbamazepine 併用治療躁鬱症佔 45% |
-| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Review | J Clin Psychiatry | 典型與非典型抗精神病藥物在躁鬱症焦慮症狀的療效回顧 |
-| [970489](https://pubmed.ncbi.nlm.nih.gov/970489/) | 1976 | Case Study | Am J Psychiatry | 探討多巴胺機轉在躁症中的角色 |
-| [3935307](https://pubmed.ncbi.nlm.nih.gov/3935307/) | 1985 | Case Report | Can J Psychiatry | 青少年躁鬱症案例，使用 Trifluoperazine 治療 |
+| [11279762](https://pubmed.ncbi.nlm.nih.gov/11279762/) | 2001 | Meta-analysis | Cochrane Database Syst Rev | 探討 Clotiapine 用於急性精神病發作（含激動與暴力行為）的鎮靜效果；針對其他藥物，非 Trifluoperazine |
+| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Meta-analysis | J Clin Psychiatry | 回顧典型與非典型抗精神病藥對焦慮症狀（含雙相情感障礙）的療效 |
+| [39202628](https://pubmed.ncbi.nlm.nih.gov/39202628/) | 2024 | Review | Medicina (Kaunas) | 系統性回顧口部垂直運動障礙（「兔症候群」），為抗精神病藥相關副作用 |
+| [40926568](https://pubmed.ncbi.nlm.nih.gov/40926568/) | 2026 | Review | J Appl Toxicol | 回顧吩噻嗪類衍生物對細胞凋亡的影響，提及其用於雙相情感障礙躁症 |
+| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Review | J Psychiatr Pract | 回顧抗精神病藥在孕期的使用與安全性 |
+| [30601177](https://pubmed.ncbi.nlm.nih.gov/30601177/) | 2021 | Review | Am J Ther | 提出精神科藥物哺乳期安全性評分系統 |
+| [24943390](https://pubmed.ncbi.nlm.nih.gov/24943390/) | 2014 | Cohort | J Clin Psychopharmacol | 烏干達精神科住院病人的精神科藥物處方型態調查 |
+| [14084030](https://pubmed.ncbi.nlm.nih.gov/14084030/) | 1963 | 雙盲研究 | Curr Ther Res | 停用 Trifluoperazine 對 tranylcypromine 合併 Trifluoperazine 維持治療患者的影響（無摘要） |
+| [13761179](https://pubmed.ncbi.nlm.nih.gov/13761179/) | 1961 | 臨床報告 | Am J Psychiatry | tranylcypromine 合併 Trifluoperazine 治療激動型憂鬱（無摘要） |
+| [20851282](https://pubmed.ncbi.nlm.nih.gov/20851282/) | 2010 | Case series | Gen Hosp Psychiatry | Risperidone 引起口吃的個案；提及 Trifluoperazine 亦有類似個案報告 |
 
 ## 台灣上市資訊
 
@@ -93,41 +98,38 @@ Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其�
 | 衛署藥製字第035165號 | 福樂靜膠囊２公絲（三氟陪拉辛） | 膠囊劑 | 新喜國際企業股份有限公司 | 2031/04/30 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性行為之障礙。 |
 
 <details><summary><strong>已註銷</strong>（38 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第001740號</td><td>福路新糖衣錠二公絲</td><td>TRIFLUOPERAZINE</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第002368號</td><td>福路新１公絲</td><td>TRIFLUOPERAZINE</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第003127號</td><td>福路新５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第004476號</td><td>靜得唯安Ｓ</td><td>MEPHOBARBITAL (METHYL PHENOBARBITAL)、FLUPHENAZINE、NIACINAMID…</td><td>1999/09/22</td></tr><tr><td>內衛藥輸字第004776號</td><td>靜得唯安Ｎ</td><td>TRIFLUOPERAZINE、PEMOLINE (PHENYLPSEUDOHYDANTOINPHENYLISOHYDA…</td><td>1999/09/22</td></tr><tr><td>衛署藥製字第002601號</td><td>賜靜錠</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1991/04/26</td></tr><tr><td>衛署藥製字第002672號</td><td>惠鎮寧糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第003173號</td><td>惠鎮寧糖衣錠１０公絲</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第003174號</td><td>惠鎮寧糖衣錠５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第021201號</td><td>服靜糖衣錠（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2020/11/25</td></tr><tr><td>衛署藥製字第023466號</td><td>"十全"得安錠（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>2025/05/14</td></tr><tr><td>衛署藥製字第023640號</td><td>福樂靜膠囊（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>1992/10/01</td></tr><tr><td>衛署藥製字第024005號</td><td>得平靜膜衣錠２公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第025144號</td><td>使得寧糖衣錠１公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>1997/02/27</td></tr><tr><td>衛署藥製字第026648號</td><td>協得寧錠５公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2013/10/01</td></tr><tr><td>衛署藥製字第031186號</td><td>"十全"得安錠１０公絲（三氟陪拉辛）</td><td>TRIFLUOPERAZINE</td><td>2025/05/14</td></tr><tr><td>衛署藥製字第040467號</td><td>使得寧糖衣錠１公絲（鹽酸三氟苯塞井）</td><td>TRIFLUOPERAZINE HCL</td><td>1998/10/08</td></tr><tr><td>衛署藥輸字第002262號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第002681號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第006529號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第012459號</td><td>使得安靜膜衣錠１公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1995/05/18</td></tr><tr><td>衛署藥輸字第012460號</td><td>使得安靜持續性膠囊１５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012461號</td><td>使得安靜膜衣錠５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1994/08/03</td></tr><tr><td>衛署藥輸字第012462號</td><td>使得安靜注射劑１公絲/１公撮</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012463號</td><td>使得安靜膜衣錠２公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012464號</td><td>使得安靜膜衣錠１０公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012701號</td><td>使得安靜持續性藥效膠囊２公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1999/11/25</td></tr><tr><td>衛署藥輸字第012887號</td><td>使胃寧得錠</td><td>CALCIUM SULFATE (HYDRATED CALCIUM SULFATE)、TRIFLUOPERAZINE (…</td><td>1995/05/18</td></tr><tr><td>衛署藥輸字第015896號</td><td>三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>1999/07/02</td></tr><tr><td>衛署藥輸字第016868號</td><td>福心糖衣錠１０公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016912號</td><td>福心糖衣錠５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016922號</td><td>福心糖衣錠２公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016927號</td><td>福心糖衣錠１公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第018702號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018703號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018704號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018705號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第020487號</td><td>使得安靜膜衣錠５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2010/05/31</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第001740號</td><td>福路新糖衣錠二公絲</td><td>TRIFLUOPERAZINE</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第002368號</td><td>福路新１公絲</td><td>TRIFLUOPERAZINE</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第003127號</td><td>福路新５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1986/04/23</td></tr><tr><td>內衛藥輸字第004476號</td><td>靜得唯安Ｓ</td><td>MEPHOBARBITAL (METHYL PHENOBARBITAL)、AMITRIPTYLINE、FLUPHENAZ…</td><td>1999/09/22</td></tr><tr><td>內衛藥輸字第004776號</td><td>靜得唯安Ｎ</td><td>FLUPHENAZINE、MEPHOBARBITAL (METHYL PHENOBARBITAL)、PEMOLINE (…</td><td>1999/09/22</td></tr><tr><td>衛署藥製字第002601號</td><td>賜靜錠</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1991/04/26</td></tr><tr><td>衛署藥製字第002672號</td><td>惠鎮寧糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第003173號</td><td>惠鎮寧糖衣錠１０公絲</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第003174號</td><td>惠鎮寧糖衣錠５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>2013/02/23</td></tr><tr><td>衛署藥製字第021201號</td><td>服靜糖衣錠（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2020/11/25</td></tr><tr><td>衛署藥製字第023466號</td><td>"十全"得安錠（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>2025/05/14</td></tr><tr><td>衛署藥製字第023640號</td><td>福樂靜膠囊（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>1992/10/01</td></tr><tr><td>衛署藥製字第024005號</td><td>得平靜膜衣錠２公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第025144號</td><td>使得寧糖衣錠１公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE HCL</td><td>1997/02/27</td></tr><tr><td>衛署藥製字第026648號</td><td>協得寧錠５公絲（鹽酸三氟陪拉辛）</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2013/10/01</td></tr><tr><td>衛署藥製字第031186號</td><td>"十全"得安錠１０公絲（三氟陪拉辛）</td><td>TRIFLUOPERAZINE</td><td>2025/05/14</td></tr><tr><td>衛署藥製字第040467號</td><td>使得寧糖衣錠１公絲（鹽酸三氟苯塞井）</td><td>TRIFLUOPERAZINE HCL</td><td>1998/10/08</td></tr><tr><td>衛署藥輸字第002262號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第002681號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第006529號</td><td>鹽酸三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第012459號</td><td>使得安靜膜衣錠１公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1995/05/18</td></tr><tr><td>衛署藥輸字第012460號</td><td>使得安靜持續性膠囊１５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012461號</td><td>使得安靜膜衣錠５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1994/08/03</td></tr><tr><td>衛署藥輸字第012462號</td><td>使得安靜注射劑１公絲/１公撮</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012463號</td><td>使得安靜膜衣錠２公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012464號</td><td>使得安靜膜衣錠１０公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第012701號</td><td>使得安靜持續性藥效膠囊２公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>1999/11/25</td></tr><tr><td>衛署藥輸字第012887號</td><td>使胃寧得錠</td><td>TRIFLUOPERAZINE (2HCL)、CALCIUM SULFATE (HYDRATED CALCIUM SUL…</td><td>1995/05/18</td></tr><tr><td>衛署藥輸字第015896號</td><td>三氟陪拉辛</td><td>TRIFLUOPERAZINE HCL</td><td>1999/07/02</td></tr><tr><td>衛署藥輸字第016868號</td><td>福心糖衣錠１０公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016912號</td><td>福心糖衣錠５公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016922號</td><td>福心糖衣錠２公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第016927號</td><td>福心糖衣錠１公絲</td><td>TRIFLUOPERAZINE HCL</td><td>1991/08/13</td></tr><tr><td>衛署藥輸字第018702號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018703號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018704號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>2003/11/26</td></tr><tr><td>衛署藥輸字第018705號</td><td>福心糖衣錠</td><td>TRIFLUOPERAZINE HCL</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第020487號</td><td>使得安靜膜衣錠５公絲</td><td>TRIFLUOPERAZINE (2HCL)</td><td>2010/05/31</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-- **錐體外症候群 (EPS)**：典型抗精神病藥物的主要副作用
-- **遲發性運動障礙 (Tardive dyskinesia)**：長期使用風險
-- **神經惡性症候群 (NMS)**：罕見但嚴重的不良反應
-- **主要交互作用 (Major)**：
-  - Bupropion（降低癲癇閾值）
-  - Morphine（增強中樞抑制）
-  - Metoclopramide（增加錐體外症狀風險）
-  - Potassium chloride、Potassium citrate（增加腸胃道潰瘍風險）
-  - Dolasetron（QT 延長風險）
-- **中度交互作用 (Moderate)**：
-  - 糖尿病藥物（可能影響血糖控制）
-  - 抗膽鹼藥物（增加抗膽鹼作用）
-  - Levofloxacin（QT 延長風險）
+- **禁忌症／需謹慎的相關疾病**（來自知識圖譜的藥物—疾病禁忌關聯，非仿單文字）：
+  - 神經系統：癲癇、神經阻斷劑惡性症候群、遲發性運動障礙、阿茲海默症、多系統萎縮
+  - 心血管：姿勢性低血壓、姿勢性直立心搏過速症候群、低血壓
+  - 血液：嗜中性白血球低下、顆粒球缺乏症、血小板低下、貧血
+  - 肝膽：肝病、肝硬化、脂肪肝、肝炎、膽囊疾病
+  - 眼部：青光眼、視覺障礙、視網膜疾病
+  - 其他：良性前列腺肥大、女性乳癌
+- **藥物交互作用**：資料庫共收錄 267 筆。其中屬於**重大（Major）**等級者包括 Bupropion、Morphine；中度（Moderate）等級者包括血糖相關藥物（Acarbose、Metformin、Pioglitazone、Alogliptin、Canagliflozin、Chlorpropamide、Albiglutide）、抗膽鹼藥物（Atropine、Hyoscyamine、Glycopyrronium）、Epinephrine、Hydrocortisone、Famotidine、Loperamide、Amphotericin B 等。
+
+其餘警語與詳細禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-Trifluoperazine 作為典型抗精神病藥物，在躁症期的使用有歷史性臨床經驗支持。多篇文獻顯示其在躁鬱症患者中的應用，特別是在資源有限的地區仍是重要的治療選擇。
+TxGNN 預測分數雖高，但沒有任何針對躁期雙相情感障礙的臨床試驗登記，現有文獻多為類別層級的回顧、副作用個案或早期描述性報告，缺乏直接證據。機轉連結也只能依藥物類別推論。此外，同類藥物已有證據更充分的替代選擇，且知識圖譜顯示多項需留意的安全性關聯（如遲發性運動障礙、神經阻斷劑惡性症候群、血液異常）。
 
 **若要推進需要：**
-- 與非典型抗精神病藥物的比較研究
-- 評估 EPS 及代謝副作用的風險效益比
-- 制定明確的劑量建議及監測計畫
-- 考量作為急性期治療而非長期維持治療
-
-**臨床提醒：**
-現代躁症急性期治療首選通常為非典型抗精神病藥物（如 Olanzapine、Quetiapine、Risperidone），Trifluoperazine 可作為替代選擇，但需注意 EPS 風險。
+- 補齊作用機轉資料（MOA），釐清 D2 阻斷與 calmodulin 抑制各自的角色
+- 系統性搜尋 Trifluoperazine 用於躁症的對照研究（包括早期文獻的全文審閱）
+- 與現行標準躁症治療藥物比較療效與安全性
+- 評估是否需要設計小規模探索性臨床試驗
+- 針對遲發性運動障礙、血液學異常與重大藥物交互作用，擬定安全性監測計畫
 
 <!-- review:begin log -->
 

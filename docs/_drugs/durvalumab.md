@@ -2,15 +2,15 @@
 layout: default
 title: Durvalumab
 parent: 中證據等級 (L3-L4)
-nav_order: 90
-evidence_level: L3
+nav_order: 96
+evidence_level: L4
 indication_count: 10
 ---
 
 # Durvalumab
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,48 +29,46 @@ indication_count: 10
 
 </div>
 
-# Durvalumab：從非小細胞肺癌到泌尿道上皮癌
+# Durvalumab：從非小細胞肺癌等多種癌症到前列腺尿道泌尿上皮癌
 
 ## 一句話總結
 
-Durvalumab 原本用於治療非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌及子宮內膜癌。
-TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相關腫瘤有效，
-目前有 **多個臨床試驗**支持這個方向。
+Durvalumab（抑癌寧）是一種 PD-L1 免疫檢查點抑制劑，原本用於非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌及肌肉層侵犯型膀胱癌。
+TxGNN 模型預測它可能對**前列腺尿道泌尿上皮癌 (Prostatic Urethra Urothelial Carcinoma)** 有效，但此預測目前**沒有直接的臨床試驗或文獻**支持，僅有膀胱癌核准適應症的間接佐證。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 非小細胞肺癌、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌、膀胱癌 |
-| 預測新適應症 | 前列腺尿道泌尿道上皮癌 (prostatic urethra urothelial carcinoma) |
+| 原適應症 | 非小細胞肺癌（與含鉑化療併用作為前導性及輔助治療；或用於放化療後未惡化之局部晚期無法切除者） |
+| 預測新適應症 | 前列腺尿道泌尿上皮癌 (Prostatic Urethra Urothelial Carcinoma) |
 | TxGNN 預測分數 | 99.98% |
-| 證據等級 | L3 |
-| 台灣上市 | 已上市 |
+| 證據等級 | L4 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Durvalumab 是一種 PD-L1 抑制劑，透過阻斷 PD-L1 與 PD-1/CD80 的結合，
-恢復 T 細胞對腫瘤細胞的免疫監視功能。泌尿道上皮癌通常表現較高的 PD-L1 表現，
-且已有其他 PD-1/PD-L1 抑制劑在泌尿道上皮癌獲得核准。
-Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
-其療效可能延伸至其他部位的泌尿道上皮癌。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Durvalumab 是 PD-L1 阻斷抗體，可解除腫瘤對 T 細胞的抑制，恢復抗腫瘤免疫反應。
+
+泌尿上皮癌對 PD-L1 抑制具有一定反應性，且 Durvalumab 已在台灣核准用於肌肉層侵犯型膀胱癌（與 gemcitabine、cisplatin 併用作為前導性及輔助治療）。前列腺尿道泌尿上皮癌同屬泌尿上皮來源，因此在機轉上有合理的延伸空間。
+
+不過，這是從膀胱癌外推而來的間接推論。針對此特定部位，目前沒有試驗或文獻提供直接證據。
+
+**其他高分預測的補充（供參考）：**
+- 腎盂肉瘤樣移形細胞癌、膀胱浸潤性泌尿上皮癌肉瘤樣變異型：各有 1–2 個相關臨床試驗（證據等級 L3）。
+- 子宮內膜癌、子宮頸癌相關亞型：多數僅有模型預測（L5），子宮頸癌 (endocervical carcinoma) 有 1 個 Phase 1 試驗（L3）。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT02812420](https://clinicaltrials.gov/study/NCT02812420) | Phase 1 | ACTIVE_NOT_RECRUITING | 54 | 評估 durvalumab+tremelimumab 在無法接受 cisplatin 的高風險泌尿道上皮癌術前治療 |
-| [NCT03912818](https://clinicaltrials.gov/study/NCT03912818) | Phase 2 | TERMINATED | 7 | 評估 durvalumab 聯合新輔助化療在變異組織型膀胱癌的療效 |
-| [NCT03452332](https://clinicaltrials.gov/study/NCT03452332) | Phase 1 | COMPLETED | 20 | 低分次放療聯合 durvalumab 和 tremelimumab 治療復發/轉移性婦科癌症 |
-| [NCT04065269](https://clinicaltrials.gov/study/NCT04065269) | Phase 2 | RECRUITING | 174 | ATARI 試驗：ATR 抑制劑聯合 olaparib/durvalumab 治療 ARID1A 缺失婦科癌症 |
+目前無相關臨床試驗登記。
+
+（附註：同屬泌尿上皮癌的相鄰預測中，有 [NCT03912818](https://clinicaltrials.gov/study/NCT03912818)（Phase 2，durvalumab 併用前導化療於變異組織型膀胱癌，因僅收 7 人而提前終止）及 [NCT02812420](https://clinicaltrials.gov/study/NCT02812420)（Early Phase 1，durvalumab 併用 tremelimumab 於無法使用 cisplatin 的肌肉層侵犯型泌尿上皮癌，54 人，進行中）。這些試驗並非針對前列腺尿道，僅供間接參考。）
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [37467967](https://pubmed.ncbi.nlm.nih.gov/37467967/) | 2023 | Review | Biomed J | 子宮頸小細胞神經內分泌癌的分子基礎和治療進展，包括 durvalumab 的應用 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -88,36 +86,42 @@ Durvalumab 已核准用於肌肉侵犯型膀胱癌的前導性治療，
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 免疫治療 (PD-L1 抑制劑) |
-| 骨髓抑制風險 | 低度 |
-| 致吐性分級 | 低度 |
-| 監測項目 | 甲狀腺功能、肝腎功能、免疫相關不良反應 |
-| 處置防護 | 標準生物製劑處置規範 |
+| 細胞毒性分類 | 免疫治療（PD-L1 抗體），非傳統細胞毒性藥物 |
+| 骨髓抑制風險 | 單用時較低；與含鉑化療併用時，骨髓抑制主要來自併用化療藥物 |
+| 致吐性分級 | 單用時低；併用化療時依化療方案而定 |
+| 監測項目 | 請參考原廠仿單的警語與注意事項 |
+| 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ## 安全性考量
 
-- **免疫相關不良反應**：肺炎、肝炎、結腸炎、內分泌病變、皮疹
-- **藥物交互作用**：
-  - 與皮質類固醇（Hydrocortisone、Dexamethasone、Prednisone 等）有中度交互作用
-  - 與 Adalimumab 有重大交互作用
-- **特殊族群**：自體免疫疾病患者需謹慎使用
+- **藥物交互作用**：資料庫共收錄 81 筆交互作用，以下為部分範例：
+  - **嚴重 (Major)**：Adalimumab
+  - **中度 (Moderate)**：皮質類固醇類（Hydrocortisone、Dexamethasone、Prednisone、Prednisolone、Methylprednisolone、Betamethasone、Budesonide、Triamcinolone、Deflazacort）、Roflumilast、Alemtuzumab、Anakinra、Alefacept、破傷風類毒素疫苗、炭疽疫苗
+  - **輕微 (Minor)**：各種鋅鹽（醋酸鋅、葡萄糖酸鋅、硫酸鋅、氯化鋅）
+
+  免疫抑制類藥物（如類固醇）可能減弱免疫檢查點抑制劑的作用，臨床使用時需留意。
+
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-Durvalumab 已核准用於膀胱癌，且 PD-L1 抑制劑在泌尿道上皮癌的療效已被證實。
-預測適應症與原適應症具有相同組織學特徵和免疫學機轉。
+針對前列腺尿道泌尿上皮癌，目前沒有任何臨床試驗或文獻，證據僅停留在模型預測與從膀胱癌外推的機轉推論（L4）。雖然 TxGNN 分數很高，但缺乏直接證據，不足以支持推進。
 
 **若要推進需要：**
-- 針對不同部位泌尿道上皮癌的療效評估
-- PD-L1 表現水平與療效的相關性研究
-- 與其他免疫檢查點抑制劑的頭對頭比較試驗
+- 補充詳細的作用機轉資料（MOA）
+- 針對前列腺尿道／下泌尿道泌尿上皮癌進行系統性文獻回顧，並搜尋是否有相關病例報告或亞群分析
+- 評估已核准的膀胱癌試驗資料能否外推至此部位
+- 若考慮優先推進，可先評估證據較多的相鄰預測（如膀胱肉瘤樣變異型泌尿上皮癌、腎盂泌尿上皮癌），這些部位已有相關試驗登記
+- 補齊安全性資料（警語、禁忌症），並規劃免疫相關不良反應的監測方案
 
 <!-- review:begin log -->
 

@@ -2,7 +2,7 @@
 layout: default
 title: Simoctocog Alfa
 parent: 僅模型預測 (L5)
-nav_order: 237
+nav_order: 258
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,60 +29,43 @@ indication_count: 10
 
 </div>
 
-# Simoctocog Alfa：從 A 型血友病到其他出血性疾病探索
+# Simoctocog alfa：從 A 型血友病到偽性類血友病（pseudo-von Willebrand disease）
 
 ## 一句話總結
 
-Simoctocog Alfa（寧衛 Nuwiq）是治療 A 型血友病的基因工程第八凝血因子。
-TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebrand Disease)** 及其他血小板/凝血功能異常疾病有效，
-但目前缺乏臨床試驗及文獻支持這些新適應症。
+Simoctocog alfa 是一種重組人類第八凝血因子（B 區域刪除型），原本用於治療與預防 A 型血友病病人的出血。
+TxGNN 模型預測它可能對 **偽性類血友病 (pseudo-von Willebrand disease)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持這個方向，僅為模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療與預防 A 型血友病（先天性第八凝血因子缺乏）病人的出血 |
-| 預測新適應症 | Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病） |
+| 原適應症 | 治療與預防A型血友病(先天性第八凝血因子缺乏)病人的出血 |
+| 預測新適應症 | 偽性類血友病 (pseudo-von Willebrand disease) |
 | TxGNN 預測分數 | 99.997% |
 | 證據等級 | L5 |
-| 台灣上市 | 已上市 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎腎細胞（HEK293）生產，
-用於補充 A 型血友病患者缺乏的凝血因子。其作用機轉為：
-- 作為輔因子與活化的第九因子（FIXa）結合
-- 加速第十因子（FX）的活化
-- 最終促進凝血級聯反應完成止血
+目前缺乏詳細的作用機轉資料（DrugBank 未提供 MOA）。根據已知資訊，Simoctocog alfa 是重組第八凝血因子，作用是補充缺乏的 FVIII 活性，在 A 型血友病中的療效已被證實。
 
-**TxGNN 預測的前十名新適應症：**
+然而，偽性類血友病是一種血小板型疾病，成因是 GP1BA 基因的功能增強變異，使血小板過度結合 von Willebrand 因子。其病理核心在血小板，而非 FVIII 缺乏，因此補充 FVIII 在機轉上沒有明確依據。
 
-| 排名 | 預測適應症 | 預測分數 | TxGNN 排名 | 機轉關聯性 |
-|------|-----------|---------|-----------|----------|
-| 1 | Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病） | 99.997% | 164 | 中等 |
-| 2 | Primary Release Disorder of Platelets（血小板原發性釋放障礙） | 99.997% | 179 | 低 |
-| 3 | Glanzmann Thrombasthenia（葛蘭茲曼血小板無力症） | 99.995% | 307 | 低 |
-| 4 | Scott Syndrome（斯科特症候群） | 99.969% | 1,244 | 中等 |
-| 5 | Acquired Coagulation Factor Deficiency（後天性凝血因子缺乏） | 99.952% | 1,615 | 高 |
-| 6 | Bleeding Diathesis due to Collagen Receptor Defect | 99.921% | 2,285 | 低 |
-| 7 | Hemorrhagic Disorder due to Constitutional Thrombocytopenia | 99.917% | 2,394 | 低 |
-| 8 | Fetal and Neonatal Alloimmune Thrombocytopenia | 99.845% | 3,964 | 低 |
-| 9 | Hemophilia A with Vascular Abnormality | 99.779% | 5,200 | 高 |
-| 10 | Thrombotic Thrombocytopenic Purpura（血栓性血小板減少性紫斑症） | 99.724% | 6,173 | 低 |
+換言之，這個高分預測主要反映知識圖譜中的網路關聯（兩者同屬出血或凝血相關疾病），而非實際的生物學或臨床證據，應謹慎解讀。
 
-**機轉分析：**
-- 類乙型威勒布蘭氏病、後天性凝血因子缺乏、合併血管異常的 A 型血友病：與 FVIII 補充療法有較強關聯
-- 血小板功能障礙類疾病（葛蘭茲曼病、斯科特症候群等）：FVIII 補充療法的效益不明確，因這些疾病主要為血小板本身缺陷
+> 補充：在其他預測中，「合併血管異常的 A 型血友病 (hemophilia A with vascular abnormality)」與原適應症的機轉最直接相關（證據等級 L4，屬於由已核准適應症外推的研究問題），可作為後續優先檢視的方向。其餘多數預測（如血小板功能異常、血小板減少症、TTP 等）皆缺乏機轉支持。
 
 ## 臨床試驗證據
 
-目前無針對預測適應症的相關臨床試驗登記。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-目前無針對預測適應症的相關 PubMed 文獻。
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -102,38 +85,27 @@ Simoctocog Alfa 是一種重組第八凝血因子（FVIII），由人類胚胎�
 
 <!-- tfda-licenses:end -->
 
-**許可證持有者**：艾科索股份有限公司
-**核准日期**：2018/03/19
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-- **已知不良反應**：
-  - 抑制性抗體（FVIII inhibitors）的產生
-  - 過敏反應
-  - 注射部位反應
-
-- **藥物交互作用**：
-  - 無已知重大藥物交互作用
-
-- **特殊族群**：
-  - 劑量需依據體重及出血嚴重程度調整
-  - 詳見仿單
-
 安全性資訊請參考原廠仿單。
+
+另外，就預測適應症的機轉分析而言，TTP（排名第 10 的預測）給予 FVIII 理論上可能增加血栓風險；後天性凝血因子缺乏（如後天性血友病 A）則可能因抑制性自體抗體而使產品被中和。這些屬於機轉層面的考量，並非仿單所載的警語。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-TxGNN 預測的新適應症中，後天性凝血因子缺乏及合併血管異常的 A 型血友病與 Simoctocog Alfa 的作用機轉有直接關聯。
-然而，血小板功能障礙類疾病的預測與 FVIII 補充療法的機轉關聯性較弱，目前缺乏臨床證據支持。
+- 偽性類血友病是血小板功能異常，FVIII 補充無明確機轉依據，且沒有任何臨床試驗或文獻佐證，僅為 TxGNN 網路預測（L5）。
 
 **若要推進需要：**
-- 針對後天性 FVIII 缺乏症的臨床數據收集
-- 探索 Simoctocog Alfa 在類乙型威勒布蘭氏病中的應用
-- 評估在抑制性抗體產生風險較低的情況下，擴展至其他出血性疾病的可行性
-- 與其他 FVIII 製劑的比較研究
+- 取得完整的作用機轉資料（MOA）
+- 系統性檢索偽性類血友病與 FVIII 製劑的文獻、病例報告與臨床試驗
+- 釐清 FVIII 與 GP1BA 功能增強變異、血小板—vWF 交互作用之間的機轉關聯
+- 評估是否改以機轉較直接的「合併血管異常的 A 型血友病」作為優先研究問題
+- 取得該族群的安全性資料與仿單警語、禁忌資訊
 
 <!-- review:begin log -->
 

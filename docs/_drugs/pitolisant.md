@@ -2,15 +2,15 @@
 layout: default
 title: Pitolisant
 parent: 中證據等級 (L3-L4)
-nav_order: 202
-evidence_level: L3
+nav_order: 219
+evidence_level: L4
 indication_count: 3
 ---
 
 # Pitolisant
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **3** 個
+證據等級: **L4** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,70 +29,56 @@ indication_count: 3
 
 </div>
 
-# Pitolisant 藥師筆記
+# Pitolisant：從猝睡症與阻塞性睡眠呼吸中止之日間嗜睡到失眠
 
 ## 一句話總結
 
-Pitolisant 為選擇性組織胺 H3 受體反向激動劑，TxGNN 預測對失眠及 ADHD 有潛在療效，已有文獻支持其促醒及認知增強作用。
+Pitolisant 是一種組織胺 H3 受體拮抗劑／反向促效劑，原本用於治療猝睡症及阻塞性睡眠呼吸中止（OSA）病人的日間過度嗜睡。
+TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有臨床試驗**，也沒有直接針對失眠的研究；現有文獻都圍繞在嗜睡症狀。
+此預測的藥理方向與失眠治療需求相反，證據薄弱，應視為待驗證的研究問題。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥品學名 | Pitolisant (唯醒) |
-| DrugBank ID | DB11642 |
-| 原核准適應症 | 猝睡症（伴隨或未伴隨猝倒）、阻塞性睡眠呼吸中止引起的日間過度嗜睡 |
-| TxGNN 預測新適應症 | 失眠、注意力不足過動症 (ADHD)、Aarskog 症候群 |
-| 台灣許可證數 | 4 張 |
-| 最高證據等級 | L3 (觀察性研究/文獻回顧) |
+| 原適應症 | 1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS），這些病人的 EDS 無法透過 CPAP 等 OSA 主要治療方式得到滿意成果或無法耐受。 |
+| 預測新適應症 | 失眠 (Insomnia) |
+| TxGNN 預測分數 | 99.71% |
+| 證據等級 | L4（僅有機轉與綜述文獻，無失眠相關臨床試驗） |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
+| 建議決策 | Hold |
 
-## 為什麼這個預測合理
+## 為什麼這個預測合理？
 
-Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉上具有合理性：
+目前缺乏詳細的作用機轉資料。根據文獻，pitolisant 是選擇性組織胺 H3 受體反向促效劑，能提高腦內組織胺的釋放，增強促醒的神經傳導。
 
-1. **失眠 (Insomnia)**：H3 受體阻斷可增加腦內組織胺釋放，促進覺醒。雖看似矛盾，但改善睡眠-覺醒週期調控可能對某些失眠類型有益
-2. **注意力不足過動症 (ADHD)**：組織胺系統參與注意力及認知功能調控，H3 受體拮抗劑可增強覺醒及注意力
-3. **Aarskog 症候群**：預測機轉不明確，可能為模型假陽性
+這正是預測的問題所在：失眠需要的是降低覺醒，而 pitolisant 的作用是促進覺醒，方向相反。現有證據都針對猝睡症與 OSA 的日間嗜睡，並非失眠本身。TxGNN 分數很高，較可能反映睡眠－覺醒路徑在知識圖譜中的相近性，而非治療方向一致。
+
+文獻中雖提到組織胺系統與失眠有關（例如 H1 拮抗劑 doxepin 用於改善失眠），但那是另一類受體機轉，不能直接推論到 pitolisant。
 
 ## 臨床試驗證據
 
-| 預測適應症 | 臨床試驗數 | 代表性試驗 |
-|------------|-----------|-----------|
-| 失眠 | 1 (間接) | NCT02800083: Pitolisant 治療酒精使用障礙（評估睡眠作為次要指標）|
-| ADHD | 0 | 直接試驗無，但有相關文獻討論 |
-
-### 主要臨床試驗
-
-| 試驗 ID | 標題 | Phase | 狀態 | 說明 |
-|---------|------|-------|------|------|
-| NCT02800083 | Pitolisant for Alcohol Use Disorder | Phase 2 | 撤回 | 次要指標包含睡眠改善評估 |
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-### 失眠 (Insomnia)
-**證據等級：L3 (觀察性研究/回顧性文獻)**
+以下文獻與 pitolisant 及睡眠疾病相關，但**沒有一篇直接評估失眠**：
 
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 34225942 | Histamine receptors in health and disease | 2021 | 綜述 H3 受體在睡眠-覺醒調控中的角色，Pitolisant 為治療猝睡症的新選項 |
-| 36169322 | Real-life WAKE study in narcolepsy with pitolisant | 2022 | 觀察性研究顯示 Pitolisant 對既往治療無效的猝睡症患者有效，提及失眠評估 |
-| 30214155 | Profile of pitolisant in narcolepsy management | 2018 | 系統性回顧 Pitolisant 的藥效學與藥動學特性 |
-
-### 注意力不足過動症 (ADHD)
-**證據等級：L3 (前臨床/回顧性文獻)**
-
-| PMID | 標題 | 年份 | 重點發現 |
-|------|------|------|----------|
-| 32882898 | Pitolisant and H3R antagonists: therapeutic potentials | 2020 | 回顧 H3R 拮抗劑在 ADHD 的潛在應用，Pitolisant 具有認知增強潛力 |
-| 34534876 | Drugs for epilepsy and excessive daytime sleepiness | 2021 | 討論 Pitolisant 在合併 ADHD 的癲癇患者可能的輔助角色 |
-| 27363923 | H3 receptor as target for cognitive symptoms | 2016 | 探討 H3R 拮抗劑在神經精神疾病認知症狀的治療潛力 |
-| 21615387 | H3 receptor: from discovery to clinical trials | 2011 | 歷史回顧及 Pitolisant 臨床發展 |
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [36931805](https://pubmed.ncbi.nlm.nih.gov/36931805/) | 2023 | RCT | The Lancet Neurology | 第 3 期研究，評估 pitolisant 用於 6 歲以上猝睡症兒童的安全性與療效 |
+| [33121980](https://pubmed.ncbi.nlm.nih.gov/33121980/) | 2021 | RCT | Chest | 評估 pitolisant 用於持續使用 CPAP 後仍有日間嗜睡的 OSA 病人 |
+| [31917607](https://pubmed.ncbi.nlm.nih.gov/31917607/) | 2020 | RCT | Am J Respir Crit Care Med | 評估 pitolisant 用於拒絕 CPAP 的中重度 OSA 病人之日間嗜睡 |
+| [36169322](https://pubmed.ncbi.nlm.nih.gov/36169322/) | 2022 | Cohort | Revista de neurologia | 真實世界 WAKE 研究，探討 pitolisant 用於先前治療無效的第一型猝睡症 |
+| [41588264](https://pubmed.ncbi.nlm.nih.gov/41588264/) | 2026 | Cohort | Neurological Sciences | 中國兒童猝睡症的真實世界回溯研究（40 名病人） |
+| [30214155](https://pubmed.ncbi.nlm.nih.gov/30214155/) | 2018 | Review | Drug Des Devel Ther | 回顧 pitolisant 用於猝睡症的設計、開發與治療定位 |
+| [34521328](https://pubmed.ncbi.nlm.nih.gov/34521328/) | 2022 | Review | Current Neuropharmacology | 討論神經精神疾病中的組織胺系統變化，提及 pitolisant 與 doxepin |
+| [34225942](https://pubmed.ncbi.nlm.nih.gov/34225942/) | 2021 | Review | Handbook of Clinical Neurology | 組織胺受體、促效劑與拮抗劑在健康與疾病中的角色 |
+| [42525367](https://pubmed.ncbi.nlm.nih.gov/42525367/) | 2026 | Review | Neurology and Therapy | 兒童睡眠疾病的現行與新興療法 |
+| [22356925](https://pubmed.ncbi.nlm.nih.gov/22356925/) | 2012 | Review | Clinical Neuropharmacology | pitolisant 作為青少年猝睡症合併難治性嗜睡的替代刺激劑 |
 
 ## 台灣上市資訊
-
-### 上市狀態
-
-### 代表性產品
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
@@ -104,55 +90,34 @@ Pitolisant 作為 H3 受體反向激動劑，其預測的新適應症在機轉�
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
-| 衛部藥輸字第028103號 | 唯醒膜衣錠4.5毫克 | 膜衣錠 | 信東生技股份有限公司 | 2031/07/13 | 1、治療6歲以上猝睡症(伴隨或未伴隨猝倒現象)的病人。 2、改善患有阻塞性睡眠呼吸中止 (OSA)成人病人的覺醒狀態並減少日間過度嗜睡(EDS)，這些病人的EDS無法透過如持續性呼… |
-| 衛部藥輸字第028104號 | 唯醒膜衣錠18毫克 | 膜衣錠 | 信東生技股份有限公司 | 2031/07/13 | １、治療6歲以上猝睡症(伴隨或未伴隨猝倒現象)的病人。 ２、改善患有阻塞性睡眠呼吸中止 (OSA)成人病人的覺醒狀態並減少日間過度嗜睡(EDS)，這些病人的EDS無法透過如持續性呼… |
+| 衛部藥輸字第028103號 | 唯醒膜衣錠4.5毫克 | 膜衣錠 | 信東生技股份有限公司 | 2026/07/13 | 1、治療6歲以上猝睡症(伴隨或未伴隨猝倒現象)的病人。 2、改善患有阻塞性睡眠呼吸中止 (OSA)成人病人的覺醒狀態並減少日間過度嗜睡(EDS)，這些病人的EDS無法透過如持續性呼… |
+| 衛部藥輸字第028104號 | 唯醒膜衣錠18毫克 | 膜衣錠 | 信東生技股份有限公司 | 2026/07/13 | １、治療6歲以上猝睡症(伴隨或未伴隨猝倒現象)的病人。 ２、改善患有阻塞性睡眠呼吸中止 (OSA)成人病人的覺醒狀態並減少日間過度嗜睡(EDS)，這些病人的EDS無法透過如持續性呼… |
 
 <!-- tfda-licenses:end -->
 
-### 核准適應症
-1. 治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）
-2. 改善阻塞性睡眠呼吸中止 (OSA) 成人病人的覺醒狀態並減少日間過度嗜睡 (EDS)
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 藥物交互作用
+- **藥物交互作用**：已查得 196 筆交互作用紀錄，以下列出部分：
+  - 嚴重（Major）：Bupropion、Dolasetron
+  - 中度（Moderate）：Famotidine、Hydrocortisone、Metformin、Loperamide、Triamcinolone、Morphine、Acetylsalicylic acid、Dexamethasone、Clarithromycin 等
 
-DDInter 資料庫顯示 Pitolisant 與多種藥物有交互作用：
-
-**嚴重交互作用 (Major)**：
-- Bupropion：降低 Pitolisant 代謝，增加血中濃度
-- Dolasetron：可能延長 QT 間距
-
-**中度交互作用 (Moderate)**：
-- H2 受體阻斷劑：Famotidine, Cimetidine
-- 皮質類固醇：Hydrocortisone, Triamcinolone, Dexamethasone, Betamethasone, Budesonide
-- 其他：Metformin, Morphine, Clarithromycin, Levofloxacin
-- 瀉劑：Bisacodyl, Polyethylene glycol
-
-### 注意事項
-1. **QT 延長風險**：避免與其他延長 QT 藥物併用
-2. **CYP3A4 誘導**：可能降低併用藥物血中濃度（如口服避孕藥）
-3. **肝腎功能不全**：中重度肝功能不全需減量
-4. **懷孕/哺乳**：不建議使用
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-### 預測價值評估
+**決策：Hold**
 
-| 預測適應症 | 證據等級 | 文獻支持 | 臨床試驗 | 總評 |
-|------------|----------|----------|----------|------|
-| 失眠 | L3 | 8 篇 | 1 (間接) | 中度支持 |
-| ADHD | L3-L4 | 7 篇 | 0 | 輕度支持 |
-| Aarskog 症候群 | L5 | 0 | 0 | 無支持 |
+**理由：**
+- 這個預測的藥理方向與失眠治療相反：pitolisant 是促醒藥物，現有證據只支持猝睡症與 OSA 的日間嗜睡，沒有任何失眠臨床試驗，高分預測不足以支持推進。
+- 排名第 2 的注意力不足過動症（ADHD）僅有機轉與綜述文獻支持，排名第 3 的 faciodigitogenital syndrome 則完全沒有證據，兩者皆不足以改變決策。
 
-### 建議
-1. **ADHD**：基於 H3 受體在認知功能的角色，值得進一步探索，但目前缺乏直接臨床試驗
-2. **失眠**：看似矛盾但改善睡眠-覺醒週期調控可能對某些睡眠障礙有益，需更多研究
-3. Pitolisant 相對新穎（台灣 2021 年核准），臨床經驗仍在累積中
-
----
-*本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
-*產生日期：2026-02-11*
+**若要推進需要：**
+- 補齊作用機轉資料，並釐清 TxGNN 高分是否源自路徑相近性而非治療方向
+- 先做文獻與機轉層面的重新評估，確認是否有失眠相關的合理假說（例如特定亞型或共病情境）
+- 若假說成立，再設計小型探索性臨床研究，並特別評估 pitolisant 可能加重失眠的風險
+- 取得完整的仿單警語與禁忌症，並審視上述嚴重交互作用（Bupropion、Dolasetron）的臨床意義
 
 <!-- review:begin log -->
 

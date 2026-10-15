@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Niraparib
-parent: 僅模型預測 (L5)
-nav_order: 178
-evidence_level: L5
+parent: 中證據等級 (L3-L4)
+nav_order: 193
+evidence_level: L3
 indication_count: 10
 ---
 
 # Niraparib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,57 +29,58 @@ indication_count: 10
 
 </div>
 
-# Niraparib：從卵巢癌到會厭腫瘤
+# Niraparib：從卵巢癌到囊性腫瘤（Cystic Neoplasm）
 
 ## 一句話總結
 
-Niraparib 是一種 PARP1/2 抑制劑，台灣核准用於晚期卵巢癌/復發性卵巢癌的維持治療，以及具 BRCA1/2 突變的轉移性去勢療法抗性前列腺癌（mCRPC）。
-TxGNN 模型預測它可能對**會厭腫瘤（Epiglottis Neoplasm）**有效，預測分數高達 **99.99%**，
-但目前**無任何臨床試驗或文獻**支持此方向，屬純模型預測階段。
-
----
+Niraparib 是一種口服 PARP 抑制劑，原本用於卵巢癌（含輸卵管癌、原發性腹膜癌）的維持治療。
+TxGNN 模型預測它可能對**囊性腫瘤 (Cystic Neoplasm)** 有效，
+目前有 **3 個臨床試驗**（均為相關的子宮內膜癌研究，其中 1 項已終止、1 項撤回）和 **10 篇文獻**，但多數為間接證據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 轉移性去勢療法抗性前列腺癌（mCRPC，需具 BRCA 1/2 突變，與 prednisone/prednisolone 併用） |
-| 預測新適應症 | 會厭腫瘤（Epiglottis Neoplasm） |
+| 原適應症 | 晚期卵巢癌之第一線維持治療；復發性卵巢癌之維持治療（對含鉑化療有完全或部分反應的表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人） |
+| 預測新適應症 | 囊性腫瘤 (Cystic Neoplasm) |
 | TxGNN 預測分數 | 99.99% |
-| 證據等級 | L5 |
+| 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 4 張（有效單方 1／有效複方 2／已註銷 1） |
-| 建議決策 | Hold |
+| 許可證數 | 4 張（有效單方 2／有效複方 2／已註銷 0） |
+| 建議決策 | Hold（列為研究問題，待更具體的疾病定義與證據） |
 
-<!-- review:begin niraparib-original-indication-combo-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：此為 niraparib＋abiraterone 複方「澤截膜衣錠」（衛部藥輸字第028617號）的適應症；niraparib 單方「截永樂錠100毫克」（衛部藥輸字第028651號）核准的是晚期卵巢癌（含輸卵管、原發性腹膜癌）第一線維持治療與復發性卵巢癌維持治療。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end niraparib-original-indication-combo-2026-10-03 -->
-
----
+> 說明：預測清單中排名第 1 的是「會厭腫瘤」，但其僅有模型預測、無任何試驗或文獻（L5）。本報告改以證據最完整的第 2 名「囊性腫瘤」為主軸，並於結論中說明。
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的官方作用機轉資料（MOA）。根據已知資訊，Niraparib 是 PARP1/2（poly ADP-ribose polymerase）抑制劑，透過阻斷 DNA 單鏈損傷修復途徑，使具有同源重組缺陷（Homologous Recombination Deficiency，HRD）或 BRCA1/2 突變的腫瘤細胞無法有效修復 DNA 損傷，最終誘發合成致死（synthetic lethality）效應。此機轉已在高級別漿液性卵巢癌及前列腺癌中獲臨床驗證。
+目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位未收錄）。就一般藥理認知，Niraparib 為 PARP1/2 抑制劑，可使 DNA 修復受損，並將 PARP 困在 DNA 上，在同源重組缺陷（HRD）的腫瘤中產生合成致死效應。
 
-然而，會厭腫瘤（位於喉部入口的軟骨結構）與卵巢癌或前列腺癌在腫瘤生物學上差異顯著。PARP 抑制劑的療效高度依賴腫瘤細胞的 BRCA/HRD 缺陷，而會厭腫瘤（無論良性或惡性）中此類分子特徵的發生率極低，目前缺乏相關流行病學或基礎研究支持。
+原適應症卵巢癌中，高惡性度漿液性卵巢癌常屬 HRD 腫瘤，在組織學上屬於漿液性／囊性腫瘤類別。因此模型把 Niraparib 與「囊性腫瘤」連結，有一定的合理性。
 
-儘管 TxGNN 模型預測分數高，此預測在機轉合理性上仍屬薄弱，完全缺乏臨床前或臨床研究數據的佐證，目前僅具模型層面的探索性價值。
-
----
+不過需要注意，現有相關證據集中在婦科漿液性癌（如子宮內膜漿液性癌、子宮漿液性癌），而非明確定義的「囊性腫瘤」本身。這個預測目前較像是對「HRD 相關漿液性腫瘤」的間接支持，而非對該疾病實體的直接驗證。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
-
----
+| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+|---------|------|------|------|---------|
+| [NCT04716686](https://clinicaltrials.gov/study/NCT04716686) | Phase 2 | 招募中 | 83 | Niraparib 單藥用於子宮內膜漿液性癌的維持與復發治療；尚無結果 |
+| [NCT04159155](https://clinicaltrials.gov/study/NCT04159155) | Phase 2/3 | 已終止 | 11 | 漿液性或 p53 突變子宮內膜癌的多組別前線與維持治療試驗（含 Niraparib）；僅收 11 人，難以解讀療效 |
+| [NCT05289648](https://clinicaltrials.gov/study/NCT05289648) | Early Phase 1 | 已撤回 | 0 | 術前使用 Niraparib 於高惡性度子宮內膜癌的探索性研究；未收案，無資料 |
 
 ## 文獻證據
 
-目前無相關文獻。
-
----
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [40702505](https://pubmed.ncbi.nlm.nih.gov/40702505/) | 2025 | Cohort | Journal of Ovarian Research | 建立高惡性度漿液性卵巢癌的幹細胞相關亞型與預後模型 |
+| [41323499](https://pubmed.ncbi.nlm.nih.gov/41323499/) | 2025 | Cohort | Pathology Oncology Research | 以 FoundationOne CDx 的 HRD 檢測引導卵巢癌 PARP 抑制劑用藥建議 |
+| [40473279](https://pubmed.ncbi.nlm.nih.gov/40473279/) | 2025 | 試驗計畫書 | BMJ Open | Niraparib 用於子宮漿液性癌維持治療的 Phase 2 試驗設計 |
+| [42157333](https://pubmed.ncbi.nlm.nih.gov/42157333/) | 2026 | Cohort | Clinical Epigenetics | 以 HRR 基因啟動子甲基化建立預測 PARP 抑制劑療效的列線圖 |
+| [42442041](https://pubmed.ncbi.nlm.nih.gov/42442041/) | 2026 | Cohort | Gynecologic Oncology | 探討 BRCA 野生型高惡性度漿液性癌的 HRD 檢測與 MYC 擴增作為替代標記 |
+| [31466953](https://pubmed.ncbi.nlm.nih.gov/31466953/) | 2019 | Case report | BMJ Case Reports | Niraparib 用於卵巢癌合併腦轉移病人的維持治療 |
+| [34321239](https://pubmed.ncbi.nlm.nih.gov/34321239/) | 2021 | 體外／PDX 研究 | Cancer Research | RAD51C 啟動子甲基化喪失導致 PARP 抑制劑抗藥性 |
+| [41520277](https://pubmed.ncbi.nlm.nih.gov/41520277/) | 2026 | 體外研究 | Cancer Biology & Therapy | 以球體與類器官評估 Carboplatin 合併 PARP 抑制劑的效果 |
+| [41465250](https://pubmed.ncbi.nlm.nih.gov/41465250/) | 2025 | 體外研究 | Int J Mol Sci | PARP 抑制劑在高惡性度漿液性卵巢癌細胞中的蛋白質體多重藥理效應 |
+| [41214101](https://pubmed.ncbi.nlm.nih.gov/41214101/) | 2025 | 體外研究 | Scientific Reports | Claudin-4 同時調控高惡性度漿液性癌的基因體穩定性與免疫逃避 |
 
 ## 台灣上市資訊
 
@@ -87,69 +88,59 @@ TxGNN 模型預測它可能對**會厭腫瘤（Epiglottis Neoplasm）**有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Niraparib 的不重複許可證共 **4 張**：有效單方 1 張、有效複方 2 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Niraparib 的不重複許可證共 **4 張**：有效單方 2 張、有效複方 2 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
+**有效・單方**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
+| 衛部藥輸字第027764號 | 截永樂膠囊 | 膠囊劑 | 台灣武田藥品工業股份有限公司 | 2025/01/13 | 1. 晚期卵巢癌之第一線維持治療 用於對第一線含鉑化療有完全或部分反應的晚期表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人之維持治療。 2. 復發性卵巢癌之維持治療 用於對含鉑化療有… |
 | 衛部藥輸字第028651號 | 截永樂錠100毫克 | 膜衣錠 | 台灣武田藥品工業股份有限公司 | 2029/02/28 | １、晚期卵巢癌之第一線維持治療：用於對第一線含鉑化療有完全或部分反應的晚期表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人之維持治療。 ２、復發性卵巢癌之維持治療：用於對含鉑化療有完全… |
 
 **有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛部藥輸字第028616號 | 澤截膜衣錠100/500毫克 | Abiraterone Acetate、Niraparib tosylate monohydrate | 膜衣錠 | 與prednisone 或prednisolone 併用，用於： １、與雄性素去除療法併用，治療具BRCA1/2 (遺傳性及/或體細胞)致病性或疑似致病性突變的轉移性去勢敏感性前列… |
-| 衛部藥輸字第028617號 | 澤截膜衣錠50/500毫克 | Niraparib tosylate monohydrate、Abiraterone Acetate | 膜衣錠 | 與prednisone 或prednisolone 併用，用於： １、與雄性素去除療法併用，治療具BRCA1/2 (遺傳性及/或體細胞)致病性或疑似致病性突變的轉移性去勢敏感性前列… |
-
-<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛部藥輸字第027764號</td><td>截永樂膠囊</td><td>Niraparib tosylate monohydrate</td><td></td></tr></tbody></table></details>
+| 衛部藥輸字第028616號 | 澤截膜衣錠100/500毫克 | Niraparib tosylate monohydrate、Abiraterone Acetate | 膜衣錠 | 與prednisone 或prednisolone 併用，用於治療具BRCA 1/2 (遺傳性及/或體細胞)致病性或疑似致病性突變的轉移性去勢療法抗性前列腺癌(mCRPC)，且尚未… |
+| 衛部藥輸字第028617號 | 澤截膜衣錠50/500毫克 | Niraparib tosylate monohydrate、Abiraterone Acetate | 膜衣錠 | 與prednisone 或prednisolone 併用，用於治療具BRCA 1/2 (遺傳性及/或體細胞)致病性或疑似致病性突變的轉移性去勢療法抗性前列腺癌(mCRPC)，且尚未… |
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 標靶藥物（PARP 抑制劑，非傳統細胞毒性化療） |
-| 骨髓抑制風險 | 高（血小板減少症為最常見且最嚴重之血液學副作用；另見嗜中性白血球減少、貧血） |
-| 致吐性分級 | 低至中度 |
-| 監測項目 | CBC（含血小板分類）、肝腎功能、血壓（Niraparib 常見高血壓副作用） |
-| 處置防護 | 請參考原廠仿單的警語與注意事項 |
-
----
+| 細胞毒性分類 | 標靶藥物（PARP 抑制劑） |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 請參考原廠仿單（一般需監測血液學參數，如 CBC） |
+| 處置防護 | 請參考原廠仿單與院內抗腫瘤藥物處置規範 |
 
 ## 安全性考量
 
-**藥物交互作用**（DDInter 資料庫共 351 筆，以下列出主要交互作用）：
+- **藥物交互作用**：資料庫共收錄 351 筆交互作用。列出的項目中，屬 **Major** 的有 Deferiprone、Samarium (153Sm) lexidronam；其餘多為 Moderate，包括：
+  - 抗凝血／抗血小板類：Acetylsalicylic acid、Apixaban、Dipyridamole、Cilostazol、Cangrelor、Abciximab、Alteplase 等
+  - 放射性藥物類：Iobenguane (I-131)、Ibritumomab tiuxetan、Tositumomab、Strontium chloride Sr-89
+  - 其他：Rolapitant、Palifermin
 
-| 藥物 | 交互作用等級 |
-|------|------------|
-| Deferiprone | **Major**（重大） |
-| Samarium (153Sm) lexidronam | **Major**（重大） |
-| Acetylsalicylic acid（阿斯匹靈） | Moderate（中度） |
-| Apixaban | Moderate（中度） |
-| Rolapitant | Moderate（中度） |
-| Bivalirudin | Moderate（中度） |
-| Abciximab | Moderate（中度） |
-
-> 主要警語及禁忌症資訊請參考原廠仿單。
-
----
+主要警語與禁忌症的資料目前缺漏，請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-TxGNN 模型預測分數雖高（99.99%），但 Niraparib 的 PARP 抑制合成致死機轉在會厭腫瘤中缺乏生物學依據（BRCA/HRD 突變發生率極低），且完全無臨床試驗或文獻數據佐證，不符合推進此適應症的最低門檻。
+- 「囊性腫瘤」並非明確定義的疾病實體，現有試驗與文獻多是針對子宮內膜／子宮漿液性癌及卵巢漿液性癌的間接證據。3 項試驗中，1 項仍在招募且無結果，1 項提早終止（僅 11 人），1 項撤回（0 人），尚無可解讀的療效數據。
+- 證據等級為 L3，較合適的定位是「研究問題」，而非可直接推進的適應症。
+- 預測排名第 1 的「會厭腫瘤」及其餘多數預測（良性腫瘤、神經母細胞瘤等）僅有模型分數，無任何研究支持，且對良性腫瘤使用 PARP 抑制劑的風險效益不佳，均建議維持 Hold。
 
 **若要推進需要：**
-- 會厭腫瘤樣本的 BRCA/HRD 突變率流行病學調查
-- 細胞株或類器官模型的臨床前療效驗證數據
-- 明確的 Niraparib 完整作用機轉資料（MOA，建議查詢 DrugBank API）
+- 釐清「囊性腫瘤」的具體病理定義，並聚焦於 HRD 陽性的漿液性腫瘤亞型
+- 等待 NCT04716686 的結果，並追蹤子宮漿液性癌 Phase 2 計畫（BMJ Open）的進展
+- 補齊 Niraparib 的作用機轉資料（DrugBank MOA）
+- 取得仿單的警語與禁忌症，並評估血液學毒性監測計畫與抗凝血類藥物的交互作用管理
 
 <!-- review:begin log -->
 

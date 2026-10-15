@@ -2,7 +2,7 @@
 layout: default
 title: Chloral Hydrate
 parent: 僅模型預測 (L5)
-nav_order: 60
+nav_order: 63
 evidence_level: L5
 indication_count: 0
 ---
@@ -98,11 +98,11 @@ Chloral hydrate 是一種歷史悠久的鎮靜催眠劑，其特性包括：
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第018653號 | "好貼" 撫比膏 | METHYL SALICYLATE、D-CAMPHOR、CHLORAL HYDRATE、DIPHENHYDRAMINE… | 軟膏劑 | 止癢 |
+| 衛署藥製字第018653號 | "好貼" 撫比膏 | D-CAMPHOR、METHYL SALICYLATE、DIPHENHYDRAMINE HCL、CHLORAL HYDR… | 軟膏劑 | 止癢 |
 | 衛署藥製字第024205號 | "政德 " 樂髮癢液 | CHLORAL HYDRATE、SALICYLIC ACID | 外用液劑 | 圓形脫毛症 |
 
 <details><summary><strong>已註銷</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第000493號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/06/24</td></tr><tr><td>內衛藥輸字第004905號</td><td>惠痔康軟膏</td><td>NAPHAZOLINE HCL、DYCLONINE HCL、CAMPHOR、DL-MENTHOL、EPINEPHRINE…</td><td>1990/07/20</td></tr><tr><td>內衛藥輸字第004918號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/07/27</td></tr><tr><td>衛署藥輸字第013503號</td><td>水合三氯乙醛粉劑</td><td>CHLORAL HYDRATE</td><td>1999/09/22</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第000493號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/06/24</td></tr><tr><td>內衛藥輸字第004905號</td><td>惠痔康軟膏</td><td>CHLORAL HYDRATE、EPINEPHRINE HCL、NAPHAZOLINE HCL、DYCLONINE HC…</td><td>1990/07/20</td></tr><tr><td>內衛藥輸字第004918號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/07/27</td></tr><tr><td>衛署藥輸字第013503號</td><td>水合三氯乙醛粉劑</td><td>CHLORAL HYDRATE</td><td>1999/09/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

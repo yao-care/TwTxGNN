@@ -2,7 +2,7 @@
 layout: default
 title: Gemfibrozil
 parent: 中證據等級 (L3-L4)
-nav_order: 114
+nav_order: 124
 evidence_level: L4
 indication_count: 10
 ---
@@ -33,9 +33,9 @@ indication_count: 10
 
 ## 一句話總結
 
-Gemfibrozil（健菲布酯）是臨床常用的纖維酸衍生物，原本用於高脂血症的治療。
+Gemfibrozil（健菲布酯）是一種 fibrate 類降血脂藥，在台灣原本用於高脂血症的治療。
 TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** 有效，
-目前有 **0 個臨床試驗**和 **4 篇文獻**（以動物研究為主）支持這個方向。
+但目前**沒有臨床試驗**，僅有 **4 篇文獻**（多為動物或體外研究），證據屬於前臨床階段。
 
 ---
 
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 降血脂劑（高脂血症） |
+| 原適應症 | 降血脂劑 |
 | 預測新適應症 | 類風濕性關節炎 (Rheumatoid Arthritis) |
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L4 |
@@ -55,11 +55,11 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏 Gemfibrozil 的詳細作用機轉資料。根據已知資訊，Gemfibrozil 屬於 fibrate 類（纖維酸衍生物），其作為 **PPARα 促效劑**的藥理特性已被充分研究：PPARα 活化可抑制 NF-κB 訊號傳導，並下調 TNF-α、IL-1β、IL-6 等促炎細胞激素的表現，在理論上具有抗發炎潛力。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Gemfibrozil 是 PPAR-alpha 促效劑（fibrate 類），透過活化 PPAR-alpha 調節脂質代謝，原適應症中的降脂療效已被證實。
 
-類風濕性關節炎（RA）是一種以持續性滑膜發炎和關節破壞為特徵的自體免疫疾病，核心病理機轉正是 TNF-α 和 IL-6 等細胞激素的過度活化。Gemfibrozil 透過 PPARα 路徑抑制這些促炎介質，提供了機轉上的間接關聯性。
+PPAR 活化具有抗發炎與免疫調節作用，包括降低促發炎細胞介素，以及影響 T 細胞（Foxp3）調控，這些在類風濕性關節炎的病理中有其合理性。大鼠佐劑性關節炎模型顯示，Gemfibrozil 合併減量類固醇，可達到與全量類固醇相近的控制效果。
 
-進一步支持來自同類藥物的動物實驗：pan-PPAR 促效劑 bezafibrate 已在 2026 年的動物 RA 模型中展示顯著的抗關節炎效果（PMID 41207105），且有動物研究直接評估 Gemfibrozil 與類固醇聯合用於佐劑誘發性關節炎大鼠的療效（PMID 30074417）。惟目前仍缺乏 Gemfibrozil 用於 RA 的任何人體臨床試驗，證據仍停留於前臨床階段。
+不過，目前支持證據僅限於前臨床與間接報告，尚無任何類風濕性關節炎的人體試驗，因此這個預測仍屬於「值得研究的問題」，而非可直接應用的結論。
 
 ---
 
@@ -72,11 +72,11 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|------|------|------|---------|
-| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | Animal | Modern Rheumatology | Gemfibrozil（30 mg/kg）與 prednisolone 聯合用於大鼠 AIA 模型，療效與全劑量類固醇相近，顯示 PPARα 路徑可輔助 RA 管理 |
-| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | Animal | Int Immunopharmacol | Pan-PPAR 促效劑 bezafibrate 透過 PPARγ 活化在動物 RA 模型中顯示保護效果，為 fibrate 類藥物干預 RA 提供機轉類推依據 |
-| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | In vitro | J Immunol | MBP 刺激後 NO 降低 Foxp3 表現，影響調節性 T 細胞功能，與自體免疫路徑相關，屬間接機轉參考 |
-| [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | Review | Am J Clin Dermatol | 掌紅斑症（palmar erythema）的綜述，RA 為已知繼發性病因之一，屬周邊臨床背景文獻 |
+|------|-----|------|------|---------|
+| [30074417](https://pubmed.ncbi.nlm.nih.gov/30074417/) | 2019 | 動物研究 | Modern Rheumatology | 大鼠佐劑性關節炎模型中，Gemfibrozil 合併減量類固醇，效果與全量類固醇相近 |
+| [41207105](https://pubmed.ncbi.nlm.nih.gov/41207105/) | 2026 | 動物研究 | International Immunopharmacology | 同屬 fibrate 的 Bezafibrate（泛 PPAR 促效劑）可透過 PPAR 路徑減輕實驗性關節炎 |
+| [20083653](https://pubmed.ncbi.nlm.nih.gov/20083653/) | 2010 | 體外研究 | Journal of Immunology | MBP 預處理會經由一氧化氮降低 T 細胞 Foxp3 表現，屬調節性 T 細胞機轉的間接證據 |
+| [18039017](https://pubmed.ncbi.nlm.nih.gov/18039017/) | 2007 | 回顧 | Am J Clin Dermatol | 掌紅斑的成因回顧，與 Gemfibrozil 治療類風濕性關節炎的直接關聯有限 |
 
 ---
 
@@ -106,7 +106,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 | 衛署藥製字第041931號 | "瑞士"拿脂膜衣錠３００毫克（健菲布旨） | 膜衣錠 | 瑞士藥廠股份有限公司 | 2028/02/20 | 高血脂症。 |
 | 衛署藥製字第042244號 | "強生"健菩臨膜衣錠６００公絲（健菲布旨） | 膜衣錠 | 強生化學製藥廠股份有限公司 | 2028/05/12 | 高脂血症。 |
 | 衛署藥製字第042585號 | 汎潔膜衣錠６００毫克 | 膜衣錠 | 健喬信元醫藥生技股份有限公司 | 2028/09/23 | 高酯血症。 |
-| 衛署藥製字第044780號 | "永信" 健菲布旨 | （粉） | 永信藥品工業股份有限公司 | 2031/12/31 | 降血脂劑。 |
+| 衛署藥製字第044780號 | "永信" 健菲布旨 | （粉） | 永信藥品工業股份有限公司 | 2026/12/31 | 降血脂劑。 |
 | 衛署藥輸字第020197號 | "派德" ２．２－二甲基５（２．５－二甲苯氧基）纈草酸 | （粉） | 輝瑞大藥廠股份有限公司 | 2028/02/06 | 高脂質血症 |
 | 衛署藥陸輸字第000308號 | 健菲布旨 | （粉） | 誠品貿易股份有限公司 | 2028/01/17 | 血脂調節劑。 |
 | 衛署藥陸輸字第000332號 | 健菲布脂 | （粉） | 新雙隆生技股份有限公司 | 2028/12/05 | 降血脂劑。 |
@@ -118,26 +118,20 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ---
 
 ## 安全性考量
 
-**藥物交互作用（共 129 筆，列出主要項目）：**
+- **知識圖譜標示的潛在禁忌疾病**（來自知識圖譜關聯，非仿單文字）：肝病、膽囊疾病、膽結石（含膽囊結石、總膽管結石）、原發性膽汁性膽管炎、血小板減少、貧血（含巨球性貧血）、白血球減少、腎功能不全。
+- **藥物交互作用**：資料庫共記錄 129 筆，以下為主要的重度（Major）交互作用：
+  - **Rosuvastatin、Simvastatin**：與 statin 併用，需留意肌肉病變風險
+  - **Pioglitazone、Repaglinide**：與降血糖藥併用，需留意血糖變化
+  - **Eluxadoline、Loperamide**：重度交互作用
+  - 另有多項中度交互作用，包括各類胰島素、Nateglinide、Rosiglitazone、Chlorpropamide、Tolazamide、Rifaximin、Chenodeoxycholic acid 等
 
-| 交互藥物 | 嚴重程度 | 臨床意義 |
-|---------|---------|---------|
-| Repaglinide | **Major** | 顯著升高 repaglinide 血中濃度，增加低血糖風險 |
-| Simvastatin | **Major** | 增加肌病變（myopathy）及橫紋肌溶解症風險 |
-| Rosuvastatin | **Major** | 增加肌病變及橫紋肌溶解症風險 |
-| Pioglitazone | **Major** | 可能增強降血糖效果，需監測血糖 |
-| Eluxadoline | **Major** | 增加 eluxadoline 暴露量 |
-| Loperamide | **Major** | 增加 loperamide 暴露量及心臟不良反應風險 |
-| Insulin 類製劑（各型） | Moderate | 增強降血糖效果，可能需調整胰島素劑量 |
-| Chlorpropamide / Tolazamide / Nateglinide | Moderate | 增強降血糖效果 |
-| Rosiglitazone | Moderate | 增強降血糖效果 |
-| Rifaximin | Moderate | 影響 rifaximin 代謝 |
-
-> ⚠️ **特別注意**：Gemfibrozil 與 statin 類（尤其 simvastatin、rosuvastatin）合用為 **Major** 等級交互作用，需盡量避免。與所有降血糖藥物合用時需嚴密監測血糖。其餘安全性警語及禁忌症請參考原廠仿單。
+其他警語與禁忌請參考原廠仿單。
 
 ---
 
@@ -146,14 +140,18 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 **決策：Hold**
 
 **理由：**
-目前支持 Gemfibrozil 用於類風濕性關節炎的證據僅限於動物實驗及機轉類推（L4），尚無任何人體臨床試驗，且 TxGNN 的高預測分數可能反映知識圖譜中 PPARα 路徑與炎症調控的間接關聯，而非直接療效訊號。現有藥物交互作用輪廓（129 項 DDI）在 RA 患者常見的合併用藥情境下（如 DMARDs、類固醇）亦需謹慎評估。
+- 類風濕性關節炎的支持證據僅有動物與體外研究，沒有任何人體臨床試驗，證據等級為 L4。
+- 預測分數雖高，但缺乏機轉資料與臨床數據；且該族群常合併使用其他藥物，交互作用風險需先釐清。
 
 **若要推進需要：**
-- 執行以 Gemfibrozil 為主體的 RA 細胞模型（體外 TNF-α/IL-6 抑制實驗）以確認機轉
-- 驗證 Gemfibrozil 在人類 RA 滑膜細胞或 PBMCs 中的 PPARα 活性
-- 系統性回顧 fibrate 類藥物於人類自體免疫疾病的既有觀察性數據
-- 評估與 RA 常用藥（methotrexate、biologics）的交互作用安全性
-- 補充 DrugBank 完整 MOA 及毒性資料，以強化機轉關聯性分析
+- 補齊 Gemfibrozil 的詳細作用機轉資料（MOA）
+- 在更多類風濕性關節炎動物模型中驗證療效，並確認劑量與安全範圍
+- 評估與類風濕性關節炎常用藥物（如類固醇、免疫抑制劑）的交互作用
+- 若前臨床結果一致，再設計小規模探索性臨床試驗
+
+---
+
+**補充說明：** 在同批預測中，**HIV 感染者的藥物相關血脂異常**與**低 α 脂蛋白血症 (Hypoalphalipoproteinemia)** 的證據較完整（均為 L2，並有隨機對照試驗，建議為 Proceed with Guardrails）。但 HIV 方面的證據支持的是管理脂質異常，而非治療 HIV 感染本身。若以臨床可行性為優先，建議後續評估報告改以這兩項為重點。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

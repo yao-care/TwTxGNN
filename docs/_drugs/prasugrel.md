@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Prasugrel
-parent: 中證據等級 (L3-L4)
-nav_order: 210
-evidence_level: L4
+parent: 僅模型預測 (L5)
+nav_order: 228
+evidence_level: L5
 indication_count: 10
 ---
 
 # Prasugrel
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,14 +29,12 @@ indication_count: 10
 
 </div>
 
-# Prasugrel：從急性冠狀動脈症候群到肺動脈高壓
-
----
+# Prasugrel：從急性冠狀動脈症候群到肺高壓
 
 ## 一句話總結
 
-Prasugrel（抑凝安）是一種噻吩並吡啶類抗血小板藥物，原本用於需要接受冠狀動脈介入性治療（PCI）的急性冠狀動脈症候群（ACS）患者，在台灣已取得 5 張藥品許可證（有效 5 張）並正式上市。
-TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有效，目前有 **2 個臨床試驗**和 **2 篇文獻**提供背景支持，但均非直接針對此適應症的高品質研究，機轉連結仍屬推論層級。
+Prasugrel 是一種抗血小板藥物，原本用於需要冠狀動脈介入性治療（PCI）的急性冠狀動脈症候群（ACS）。
+TxGNN 模型預測它可能對**肺高壓 (Pulmonary Hypertension)** 有效，但目前**沒有相關臨床試驗**，所收錄的 2 篇文獻也未直接探討 prasugrel 用於肺高壓，證據僅來自模型預測。
 
 ---
 
@@ -44,10 +42,10 @@ TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有�
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 急性冠狀動脈症候群（ACS）合併冠狀動脈介入性治療（PCI） |
-| 預測新適應症 | 肺動脈高壓 (Pulmonary Hypertension) |
+| 原適應症 | 需要冠狀動脈介入性治療(PCI)的急性冠狀動脈症候群(ACS；不穩定型心絞痛、非ST段上升之心肌梗塞或ST段上升之心肌梗塞) |
+| 預測新適應症 | 肺高壓 (Pulmonary Hypertension) |
 | TxGNN 預測分數 | 99.88% |
-| 證據等級 | L4 |
+| 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 5 張（有效單方 5／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
@@ -56,22 +54,17 @@ TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏 Prasugrel 的詳細作用機轉資料。根據已知資訊，Prasugrel 是噻吩並吡啶類（thienopyridine）抗血小板藥物，其活性代謝物透過**不可逆抑制血小板 P2Y12 ADP 受體**，阻斷 ADP 誘發的血小板活化與聚集，從而減少血栓形成。原適應症（ACS/PCI）正是建立在此抗血栓機轉之上。
+目前缺乏詳細的作用機轉資料。已知 prasugrel 是不可逆的 P2Y12 血小板受體拮抗劑，可抑制血小板活化與聚集，臨床上用於預防 ACS 患者接受 PCI 後的血栓事件。
 
-肺動脈高壓（PAH）的病理機轉涉及多個面向，其中**血小板活化**扮演一定角色：血小板釋放的血栓素 A₂（TXA₂）和血清素（5-HT）可促進肺血管收縮，而 ADP 誘導的 P2Y12 路徑活化則參與血小板介導的肺血管重塑進程。Prasugrel 透過阻斷此路徑，理論上可減少血小板釋放的血管活性介質，進而緩解肺血管病理。
+肺高壓與 ACS 看似不同，但血小板活化被認為可能參與肺血管重塑與血栓形成，因此抑制 P2Y12 在機轉上有理論上的可能性。
 
-然而，此機轉連結目前僅屬推論層級。現有臨床試驗均非直接研究 Prasugrel 用於 PAH，文獻亦缺乏針對此適應症的前臨床或臨床探索性數據，需要進一步研究加以驗證。
+然而，目前收錄的文獻並未研究 prasugrel 用於肺高壓：一篇是 clopidogrel 在 ACS/PCI 病人的使用與服藥遵從性世代研究，另一篇是 COVID-19 患者背景用藥與死亡風險的登錄研究。因此這個預測的支持完全來自 TxGNN 分數，屬於假說階段。
 
 ---
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT03993119](https://clinicaltrials.gov/study/NCT03993119) | N/A | 完成 | 500 | 觀察性橫斷面研究，描述西班牙老年非瓣膜性心房顫動患者的 NOAC 使用現況，非直接研究 Prasugrel 或肺動脈高壓，僅提供抗栓藥物背景資訊 |
-| [NCT04846556](https://clinicaltrials.gov/study/NCT04846556) | N/A | 完成 | 300 | 回顧性多中心研究，分析癌症相關血栓患者中不符合 CARAVAGGIO 試驗資格的比例，與 Prasugrel 或 PAH 無直接關聯 |
-
-> ⚠️ 以上兩個試驗與 Prasugrel 用於肺動脈高壓無直接關聯（相關性等級 C），僅作為抗栓治療背景參考。
+目前無相關臨床試驗登記。
 
 ---
 
@@ -79,8 +72,8 @@ TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有�
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [21241206](https://pubmed.ncbi.nlm.nih.gov/21241206/) | 2011 | Cohort | Current Medical Research and Opinion | 探討 ACS/PCI 患者中 clopidogrel 或 prasugrel 的使用、依從性與持續性相關因素，提供 P2Y12 抑制劑在心血管疾病使用的背景資訊 |
-| [34713782](https://pubmed.ncbi.nlm.nih.gov/34713782/) | 2021 | Cohort | Kardiologiia | ACTIVE 登記研究（5,808 例），分析 COVID-19 感染前心血管藥物背景治療對致死性結果的影響，涉及抗血小板藥物與預後的廣泛分析 |
+| [21241206](https://pubmed.ncbi.nlm.nih.gov/21241206/) | 2011 | Cohort | Current Medical Research and Opinion | 探討 ACS 患者接受 PCI 後 clopidogrel 的使用、服藥遵從性及相關因素；並非肺高壓研究 |
+| [34713782](https://pubmed.ncbi.nlm.nih.gov/34713782/) | 2021 | Cohort | Kardiologiia | 以 ACTIVE 登錄資料分析 COVID-19 感染前的背景用藥對嚴重度與死亡結局的影響；與肺高壓無直接關聯 |
 
 ---
 
@@ -104,33 +97,16 @@ TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有�
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ---
 
 ## 安全性考量
 
-### 藥物交互作用
+- **知識圖譜標示之潛在禁忌疾病**（來自 TxGNN 知識圖譜，非仿單內容）：肝衰竭、低血壓疾患、凝血疾病、中風、腦血管疾患、腦梗塞、顱內出血、短暫性腦缺血發作、血栓性血小板減少性紫斑症、椎基底動脈循環不全、外傷等。
+- **藥物交互作用**：共查得 191 筆，其中列為重大（Major）者包括 Deferasirox、Ibritumomab tiuxetan；中度（Moderate）包括 Acetylsalicylic acid（阿斯匹靈）、Morphine、Opium、Fenfluramine、Dexfenfluramine、Sibutramine。其餘多為輕微（Minor），如多種氫離子幫浦抑制劑與 H2 受體拮抗劑。
 
-Prasugrel 共有 **191 筆**已知藥物交互作用，以下依嚴重性分層列出重點：
-
-**重大交互作用（Major）：**
-
-| 交互藥物 | 等級 | 說明 |
-|---------|------|------|
-| Deferasirox（去鐵酮） | Major | 可能增加出血或胃腸道不良反應風險 |
-| Ibritumomab tiuxetan | Major | 與抗血小板藥物合用需謹慎評估出血風險 |
-
-**中度交互作用（Moderate，節選）：**
-
-| 交互藥物 | 等級 |
-|---------|------|
-| Morphine（嗎啡） | Moderate |
-| Acetylsalicylic acid（阿斯匹靈） | Moderate |
-| Sibutramine | Moderate |
-| Dexfenfluramine | Moderate |
-| Fenfluramine | Moderate |
-| Opium | Moderate |
-
-> 完整 191 筆交互作用清單請查閱 DDInter 資料庫或原廠仿單。其他警語與禁忌症資訊請參考原廠仿單。
+其他警語與禁忌請參考原廠仿單。
 
 ---
 
@@ -139,14 +115,16 @@ Prasugrel 共有 **191 筆**已知藥物交互作用，以下依嚴重性分層�
 **決策：Hold**
 
 **理由：**
-目前完全缺乏直接評估 Prasugrel 用於肺動脈高壓的前臨床或臨床研究，P2Y12 抑制→減少血小板介導肺血管重塑的機轉連結屬推論層級（L4），現有 2 個試驗與 2 篇文獻皆為間接背景性資料，證據強度不足以推進至任何開發決策。
+- 肺高壓這個預測目前僅有模型分數，沒有任何臨床試驗，所列文獻也未直接研究 prasugrel 用於肺高壓，證據等級為 L5。
+- Prasugrel 具有出血風險，且知識圖譜顯示多項出血與腦血管相關的潛在禁忌，在缺乏療效證據下不宜推進。
 
 **若要推進需要：**
-- 補充 Prasugrel 完整的作用機轉資料（建議查詢 DrugBank API，解決 DG001 資料缺口）
-- 系統性文獻回顧：同類 P2Y12 抑制劑（clopidogrel、ticagrelor）在 PAH 動物模型或人體探索性研究中的現有數據
-- PAH 動物模型前臨床驗證，確認 P2Y12 抑制對肺血管重塑的實際影響幅度
-- 評估 PAH 患者族群（常見右心衰竭、低血壓）使用抗血小板藥物的出血風險與血流動力學相容性
-- 若前臨床數據支持，設計小規模 Phase 1/2 探索性試驗方案
+- 補充作用機轉資料，並建立血小板 P2Y12 與肺血管重塑的機轉證據
+- 前臨床研究（如肺高壓動物模型）驗證療效
+- 針對肺高壓族群評估出血風險與效益
+- 若前臨床結果正向，再設計小規模探索性臨床試驗
+
+**補充說明：** 同一份資料中，**偏頭痛 (migraine disorder)**（TxGNN 分數 99.88%）的證據相對較多，包括 1 項招募中的 Phase 3 試驗（NCT07629635，為 PFO 導向治療）及 2 篇 thienopyridine/ticagrelor 於合併 PFO 偏頭痛的小型研究，證據等級 L3，建議列為後續研究問題，優先於肺高壓評估。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

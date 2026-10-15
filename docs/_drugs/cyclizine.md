@@ -2,7 +2,7 @@
 layout: default
 title: Cyclizine
 parent: 中證據等級 (L3-L4)
-nav_order: 73
+nav_order: 77
 evidence_level: L4
 indication_count: 9
 ---
@@ -29,97 +29,63 @@ indication_count: 9
 
 </div>
 
-# Cyclizine 藥師筆記
+# Cyclizine：從動暈症與過敏性疾患到過敏性蕁麻疹
 
 ## 一句話總結
 
-Cyclizine 是第一代抗組織胺藥物，用於暈動症及過敏性疾患，TxGNN 預測其對蕁麻疹及頭痛疾患有療效，這與其核准適應症高度重疊，屬於已知藥理作用的再確認。
-
----
+Cyclizine（環立淨）是一種 H1 抗組織胺藥物，原本用於預防或緩解動暈症（暈車、暈船、暈機）引起的頭暈、噁心與嘔吐。
+TxGNN 模型預測它可能對**過敏性蕁麻疹 (Allergic Urticaria)** 有效。
+目前針對此適應症**沒有臨床試驗與文獻**支持，僅有模型預測與機轉推論，且蕁麻疹本來就屬於仿單已載明的適應症。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Cyclizine (環立淨) 及其衍生物 |
-| DrugBank ID | DB01176 |
-| 台灣商品名 | 旅暈平錠、赫敏錠、止敏糖衣錠等 |
-| 原核准適應症 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀（衛署藥製字第002658號） |
-| 預測新適應症 | 過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病、頭痛疾患 |
-| 最高預測分數 | 0.9998 (allergic urticaria) |
-| 證據等級 | 頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5（2026-10-03 重審降級） |
+| 原適應症 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀 |
+| 預測新適應症 | 過敏性蕁麻疹 (Allergic Urticaria) |
+| TxGNN 預測分數 | 99.98% |
+| 證據等級 | L4 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 9 張（有效單方 1／有效複方 0／已註銷 8） |
+| 建議決策 | Hold |
 
-<!-- review:begin cyclizine-original-indication-2026-10-03 -->
+## 為什麼這個預測合理？
 
-> **查核更正（2026-10-03）**：原寫「原核准適應症／暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛」。台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），適應症為「預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀」；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。已改為許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Cyclizine 屬於 H1 受體拮抗劑（抗組織胺）類藥物。阻斷組織胺受體後，可減輕組織胺引起的風團與紅斑反應，這也是蕁麻疹的主要病理機轉。
 
-<!-- review:end cyclizine-original-indication-2026-10-03 -->
+原適應症（動暈症）與新適應症（蕁麻疹）看似不同，但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症。因此這項預測大致屬於**仿單內適應症**，不算是真正的藥物再利用。
 
-<!-- review:begin cyclizine-prediction-rereview-result-2026-10-03 -->
+需要留意的是，目前針對 Cyclizine 本身，並無蕁麻疹的試驗或文獻資料。臨床上蕁麻疹通常優先使用第二代抗組織胺。
 
-> **重審結果（2026-10-03）**：**降級**（證據等級 L2–L3→頭痛疾患 L4；過敏性蕁麻疹、冷蕁麻疹、鼻腔疾病 L5）。原判定的依據「已核准、已有臨床經驗」來自其他成分（homochlorcyclizine、chlorcyclizine）或已註銷複方的許可證。PubMed 與 ClinicalTrials.gov 都查無 cyclizine 單方用於蕁麻疹或鼻炎的臨床研究，只剩 H1 拮抗的類別推論。頭痛方面只有含 ergotamine 的複方試驗，無法分離 cyclizine 本身的效果，而且該複方療效不如 naproxen、嘔吐較多（[PMID 3926322](https://pubmed.ncbi.nlm.nih.gov/3926322/)）。本頁快速總覽「證據等級」、結論「整體證據等級」已依重審結果更新，原值列在下方查核紀錄。依據：[PubMed：Acute migraine attack therapy: comparison of naproxen sodium and an ergotamine tartrate compound（PMID 3926322）](https://pubmed.ncbi.nlm.nih.gov/3926322/)；[PubMed：Migraine treated with an antihistamine-analgesic combination（PMID 4148490）](https://pubmed.ncbi.nlm.nih.gov/4148490/)；[PubMed：Detection of action, inhibition and augmentation spectra in solar urticaria（PMID 8573923）](https://pubmed.ncbi.nlm.nih.gov/8573923/)；[PubMed：Standard treatment: the role of antihistamines（PMID 11764306）](https://pubmed.ncbi.nlm.nih.gov/11764306/)；[PubMed：Cyclizine anaphylaxis, when administered with propanidid（PMID 5762012）](https://pubmed.ncbi.nlm.nih.gov/5762012/)。
+### 其他預測適應症（TxGNN 排名 2–9）
 
-<!-- review:end cyclizine-prediction-rereview-result-2026-10-03 -->
-
----
-
-## 為什麼這個預測合理
-
-Cyclizine 及其相關衍生物（如 homochlorcyclizine）的藥理機轉直接支持預測適應症：
-
-1. **H1 受體拮抗**：阻斷組織胺 H1 受體，抑制過敏反應中的血管擴張、瘙癢及發炎
-2. **抗膽鹼作用**：降低前庭敏感性，這是其抗暈動症作用的基礎
-3. **中樞作用**：具有鎮靜及止吐作用
-
-### 預測與核准適應症對照
-
-| 預測適應症 | 與核准適應症關係 | 機轉支持 |
-|------------|------------------|----------|
-| Allergic urticaria | 已核准 (蕁麻疹) | H1 受體拮抗 |
-| Cold urticaria | 屬蕁麻疹亞型 | H1 受體拮抗 |
-| Nasal cavity disease | 已核准 (過敏性鼻炎) | H1 受體拮抗 |
-| Headache disorder | 已核准 (偏頭痛) | 抗膽鹼 + 止吐作用 |
-
-<!-- review:begin cyclizine-why-approved-premise-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：對照表中「已核准（蕁麻疹）」「已核准（過敏性鼻炎）」「已核准（偏頭痛）」的前提與許可證資料不符：台灣現行 cyclizine 單方許可證只核准動暈症；蕁麻疹、過敏性鼻炎屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已註銷的 ergotamine＋caffeine＋cyclizine 複方。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症等。推論原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1](https://www.medicines.org.uk/emc/product/4318/smpc)。
-
-<!-- review:end cyclizine-why-approved-premise-2026-10-03 -->
-
----
+| 排名 | 預測適應症 | 分數 | 證據等級 | 說明 |
+|------|-----------|------|---------|------|
+| 2 | 鼻腔疾病 (Nasal cavity disease) | 99.96% | L5 | 範圍過廣，僅有模型預測 |
+| 3 | 急性喉咽炎 (Acute laryngopharyngitis) | 99.95% | L5 | 多為感染性，機轉依據不明確 |
+| 4 | 寒冷性蕁麻疹 (Cold urticaria) | 99.84% | L5 | 機轉合理，但僅有預測 |
+| 5 | 酒糟性結膜炎 (Rosacea conjunctivitis) | 99.75% | L5 | 病因以發炎為主，與組織胺關聯弱 |
+| 6 | 頭痛疾患 (Headache disorder) | 99.49% | L4 | 僅有間接文獻 |
+| 7 | 三叉自主神經性頭痛 | 99.43% | L5 | 僅可能有症狀性關聯 |
+| 8 | 鼻炎 (Rhinitis) | 99.35% | L4 | 屬仿單內適應症 |
+| 9 | 頑固性異位性皮膚炎 | 99.28% | L5 | 抗組織胺對頑固型療效有限 |
 
 ## 臨床試驗證據
 
-Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
-
-| PMID | 研究類型 | 主要發現 |
-|------|----------|----------|
-| 8573923 | 病例報告 | Cyclizine 用於日光性蕁麻疹的治療 |
-| 4148490 | 對照試驗 | Cyclizine 與止痛藥複方治療偏頭痛有效 |
-| 3926322 | RCT | 含 cyclizine 的 ergotamine 複方對偏頭痛急性發作有效 |
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-### 蕁麻疹相關
+針對首要預測適應症（過敏性蕁麻疹），目前無相關文獻。
 
-- 多項研究確認第一代抗組織胺藥物對蕁麻疹有效
-- Cyclizine 作為 H1 受體拮抗劑，其抗蕁麻疹作用有明確的藥理基礎
+以下為排名第 6 的「頭痛疾患」所檢索到的文獻，僅提供間接參考：
 
-### 偏頭痛相關
-
-| PMID | 標題 | 年份 | 發現 |
-|------|------|------|------|
-| 4148490 | Migraine treated with antihistamine-analgesic combination | 1973 | Cyclizine 複方對偏頭痛有效 |
-| 3926322 | Naproxen vs ergotamine compound for acute migraine | 1985 | Ergotamine + cyclizine 複方可縮短偏頭痛發作時間 |
-| 10842162 | Chronic ergot toxicity | 2000 | 提醒長期使用含 cyclizine 的 ergotamine 複方的風險 |
-
----
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [3926322](https://pubmed.ncbi.nlm.nih.gov/3926322/) | 1985 | RCT | Cephalalgia | 114 名患者隨機分組，比較 naproxen sodium 與含 cyclizine 的麥角胺複方（ergotamine 2 mg + caffeine + cyclizine 50 mg）治療急性偏頭痛發作；因 cyclizine 僅為複方成分之一，無法單獨評估其療效 |
+| [20420788](https://pubmed.ncbi.nlm.nih.gov/20420788/) | 2010 | Cohort | Int J Clin Pharmacol Ther | 偏頭痛處方模式與費用的藥局資料庫分析，聚焦 triptan 類，與 cyclizine 僅間接相關 |
 
 ## 台灣上市資訊
-
-### 主要製劑
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
@@ -134,77 +100,39 @@ Cyclizine 作為經典老藥，臨床證據主要來自歷史研究：
 | 衛署藥製字第002658號 | 旅暈平錠 | 錠劑 | 華盛頓製藥廠股份有限公司 | 2029/05/25 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 |
 
 <details><summary><strong>已註銷</strong>（8 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第003276號</td><td>邁可抗黴酊</td><td>CYCLIZINE HCL、SALICYLIC ACID</td><td>1986/02/04</td></tr><tr><td>內衛藥輸字第004700號</td><td>鹽酸環立淨</td><td>CYCLIZINE HCL</td><td>1985/07/12</td></tr><tr><td>衛署藥製字第022713號</td><td>肝克寧膠囊</td><td>CYCLIZINE、RIBOFLAVIN(5-PHOSPHATE SODIUM)、THIAMINE HYDROCHLOR…</td><td>1996/04/16</td></tr><tr><td>衛署藥輸字第009561號</td><td>滅暈錠</td><td>CYCLIZINE HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第010504號</td><td>二苯甲基４－甲基呱/鹽酸鹽</td><td>CYCLIZINE HCL</td><td>1998/09/29</td></tr><tr><td>衛署藥輸字第011158號</td><td>邁克寧錠</td><td>CYCLIZINE HCL、CAFFEINE (HYDRATE)、ERGOTAMINE TARTRATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第013612號</td><td>鹽酸環立淨粉劑</td><td>CYCLIZINE HCL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第014591號</td><td>邁可抗黴酊</td><td>CYCLIZINE HCL、SALICYLIC ACID</td><td>1999/10/25</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第003276號</td><td>邁可抗黴酊</td><td>SALICYLIC ACID、CYCLIZINE HCL</td><td>1986/02/04</td></tr><tr><td>內衛藥輸字第004700號</td><td>鹽酸環立淨</td><td>CYCLIZINE HCL</td><td>1985/07/12</td></tr><tr><td>衛署藥製字第022713號</td><td>肝克寧膠囊</td><td>CYCLIZINE、THIAMINE HYDROCHLORIDE、OROTIC ACID (VIT B13)、RIBOF…</td><td>1996/04/16</td></tr><tr><td>衛署藥輸字第009561號</td><td>滅暈錠</td><td>CYCLIZINE HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第010504號</td><td>二苯甲基４－甲基呱/鹽酸鹽</td><td>CYCLIZINE HCL</td><td>1998/09/29</td></tr><tr><td>衛署藥輸字第011158號</td><td>邁克寧錠</td><td>CAFFEINE (HYDRATE)、ERGOTAMINE TARTRATE、CYCLIZINE HCL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第013612號</td><td>鹽酸環立淨粉劑</td><td>CYCLIZINE HCL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第014591號</td><td>邁可抗黴酊</td><td>CYCLIZINE HCL、SALICYLIC ACID</td><td>1999/10/25</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
-### 複方製劑
-
-**備註**：台灣市場上有多種 cyclizine 衍生物製劑，但許多已註銷。目前有效的製劑主要用於暈動症及過敏。
-
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 主要副作用
+- **知識圖譜標示之潛在禁忌疾病**（來自 TxGNN 知識圖譜的藥物－疾病禁忌關聯，並非仿單文字），主要包括：
+  - 心血管：高血壓、冠狀動脈疾病、心肌梗塞、動脈粥樣硬化
+  - 神經與眼科：癲癇、高眼壓
+  - 代謝與內分泌：糖尿病、糖尿病酮酸中毒、甲狀腺功能低下、腎上腺皮質功能不全（Addison 病）
+  - 消化與泌尿：消化性潰瘍、發炎性腸道疾病、胰臟炎、肝病、膽囊疾病、攝護腺肥大、困難梭狀芽孢桿菌結腸炎
+  - 腎臟：腎臟疾病、輸尿管積膿
+- **藥物交互作用**：資料庫共收錄 239 筆交互作用。
+  - 嚴重（Major）：Potassium chloride、Potassium citrate
+  - 中度（Moderate）：多為抗膽鹼藥物（Atropine、Scopolamine、Hyoscyamine、Dicyclomine、Glycopyrronium 等）、鴉片類（Morphine、Opium、Loperamide）、大麻素類（Dronabinol、Nabilone）及促腸胃蠕動藥物（Metoclopramide、Prucalopride）
 
-1. **中樞神經**：嗜睡、頭暈、視力模糊
-2. **抗膽鹼作用**：口乾、便秘、尿滯留、心搏過速
-3. **胃腸道**：噁心（矛盾反應）
-
-### 藥物交互作用
-
-| 交互作用藥物類型 | 代表藥物 | 嚴重程度 | 機轉 |
-|------------------|----------|----------|------|
-| 抗膽鹼藥物 | Atropine, Scopolamine | Moderate | 加重抗膽鹼副作用 |
-| 鉀鹽 | Potassium chloride, Potassium citrate | Major | 抗膽鹼作用可能增加腸道鉀鹽滯留風險 |
-| 中樞抑制劑 | Opioids, Benzodiazepines | Moderate | 加重鎮靜作用 |
-| 酒精 | Ethanol | Moderate | 增強 CNS 抑制 |
-
-### 特殊族群
-
-- **孕婦**：FDA 分級 B，但仍應謹慎使用
-- **老年人**：抗膽鹼副作用較敏感，可能增加跌倒及認知障礙風險
-- **攝護腺肥大**：可能加重尿滯留
-- **青光眼**：窄角型青光眼禁用
-
----
+詳細警語與禁忌請以原廠仿單為準。
 
 ## 結論與下一步
 
-### 預測評估
+**決策：Hold**
 
-| 評估項目 | 結果 |
-|----------|------|
-| 機轉合理性 | 高 - H1 受體拮抗對過敏反應有明確效果 |
-| 臨床證據 | 中等 - 有歷史臨床使用經驗 |
-| 文獻支持 | 中等 |
-| 整體證據等級 | **L4**（頭痛疾患；其餘三筆 L5，2026-10-03 重審降級） |
+**理由：**
+- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。
+- 其他預測多為 L5（僅有模型預測），且臨床上已有療效與安全性更佳的第二代抗組織胺可選用。
 
-### 臨床建議
-
-1. **蕁麻疹**：
-   - Cyclizine 類藥物可作為急性蕁麻疹的選項
-   - 第二代抗組織胺（如 cetirizine、loratadine）因較少嗜睡通常為首選
-   - 第一代藥物適用於需要鎮靜效果或夜間使用的情況
-
-2. **偏頭痛**：
-   - Cyclizine 的止吐作用可輔助偏頭痛治療
-   - 含 ergotamine 的複方製劑目前台灣已無有效許可證
-
-3. **暈動症**：
-   - 維持現有適應症使用
-   - 提醒病患服藥後避免駕駛
-
-### 方法學意義
-
-此預測結果顯示 TxGNN 能準確識別藥物的已知適應症範圍，驗證了知識圖譜方法的基本可靠性。但這也意味著對於此類「經典」藥物，預測結果更多是確認而非發現。
-
----
-
-*本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
-
-*最後更新：2026-02-11*
+**若要推進需要：**
+- 補齊 Cyclizine 的作用機轉資料（MOA）
+- 搜尋 Cyclizine 用於蕁麻疹的直接臨床證據，並與第二代抗組織胺比較
+- 確認目前有效的 3 張單方許可證所核准的適應症範圍，以及是否需要新增適應症
+- 取得原廠仿單的警語與禁忌，並評估抗膽鹼作用對高風險族群（如高眼壓、攝護腺肥大、心血管疾病）的安全性影響
 
 <!-- review:begin log -->
 

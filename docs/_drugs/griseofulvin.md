@@ -2,7 +2,7 @@
 layout: default
 title: Griseofulvin
 parent: 僅模型預測 (L5)
-nav_order: 118
+nav_order: 128
 evidence_level: L5
 indication_count: 5
 ---
@@ -29,63 +29,42 @@ indication_count: 5
 
 </div>
 
-# Griseofulvin (灰黴素) - 藥師評估報告
+# Griseofulvin：從皮膚黴菌感染到蠅蛆症（Myiasis）
 
 ## 一句話總結
 
-灰黴素是一種傳統口服抗黴菌藥物，TxGNN 預測其對蠅蛆症（myiasis）和包蟲病有潛在療效，這些預測基於知識圖譜中寄生蟲感染的連結，但臨床證據極為有限。
+Griseofulvin（灰黴素）是口服抗黴菌藥，原本用於治療甲癬、髮癬等不適宜局部外用或外用無效的皮膚黴菌感染。
+TxGNN 模型預測它可能對**蠅蛆症 (Myiasis)** 有效，但目前**沒有任何臨床試驗或文獻**支持，僅為模型預測訊號。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物學名 | Griseofulvin |
-| 台灣商品名 | 克黴敏片、派頓癬黴淨膠囊、克膚癬錠、格利癬錠等 |
-| DrugBank ID | DB00400 |
-| 原核准適應症 | 甲癬、髮癬、皮膚黴菌感染（香港腳、灰指甲、頑癬） |
-| 預測新適應症 | 蠅蛆症、疥蟲性蠅蛆症、傷口蠅蛆症、爬行性蠅蛆症、包蟲病 |
-| 最高證據等級 | L5 (僅預測) |
-| 台灣上市狀態 | 多項有效許可證 |
+| 原適應症 | 甲癬（Onychomycosis）、髮癬（Tinea capitis），不適宜局部外用治療或局部外用無效的皮膚黴菌感染 |
+| 預測新適應症 | 蠅蛆症 (Myiasis) |
+| TxGNN 預測分數 | 99.41% |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 76 張（有效單方 13／有效複方 0／已註銷 63） |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-灰黴素透過抑制真菌有絲分裂發揮抗黴菌作用。其預測適應症涉及非真菌性寄生蟲感染：
+目前缺乏詳細的作用機轉資料。就已知資訊，Griseofulvin 會干擾黴菌的微管功能與有絲分裂，這是它抗黴菌的基礎。
 
-1. **蠅蛆症 (Myiasis)** (TxGNN Score: 0.994, Rank: 11014)：
-   - 蠅蛆症是雙翅目幼蟲寄生於活體組織的感染
-   - 灰黴素對此類感染的作用機轉不明
-   - 知識圖譜可能因「皮膚寄生蟲感染」的廣義關聯而產生此預測
+蠅蛆症是蠅類幼蟲寄生於人體組織所致，與黴菌感染的病原體完全不同。目前沒有已知機轉能把 Griseofulvin 的抗黴菌作用連到幼蟲感染。這個預測很可能來自知識圖譜的網路特徵相似性，而非生物學上的因果關係，因此合理性偏低。
 
-2. **包蟲病 (Echinococcosis)** (TxGNN Score: 0.993, Rank: 12340)：
-   - 由棘球絛蟲引起的寄生蟲感染
-   - 與灰黴素的抗真菌機轉無明顯關聯
-   - 標準治療為 albendazole 或手術
-
-**預測機轉分析：** 這些預測可能源於知識圖譜中「皮膚/軟組織感染」的非特異性連結，而非藥理學上的合理推論。
+同一批預測中還有三個蠅蛆症相關疾病（皮膚型蠅蛆症 furuncular myiasis、傷口蠅蛆症 wound myiasis、匍行性蠅蛆症 creeping myiasis），以及**細粒棘球蚴感染 (Echinococcus granulosus infection)**，分數皆在 99.3% 以上，且同樣沒有試驗或文獻支持。其中細粒棘球蚴感染有一個較弱的假說：Griseofulvin 作用於黴菌微管蛋白，而苯並咪唑類驅蟲藥作用於寄生蟲微管蛋白。但 Griseofulvin 本身並無已證實的驅蟲活性。
 
 ## 臨床試驗證據
 
-針對預測的新適應症，**未檢索到任何相關臨床試驗**。
-
-**證據等級：L5** - 僅有知識圖譜預測，無任何臨床證據。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-### 蠅蛆症相關（1 篇文獻）
-
-**Baker KP (1970)** - The Veterinary Record
-- 標題：「犬貓寄生性皮膚病」
-- 內容為獸醫學綜述，涵蓋多種寄生蟲性皮膚病的治療
-- Griseofulvin 在文中被提及用於治療真菌感染，而非蠅蛆症
-- **關聯性極低**：此文獻的關聯是由於同時討論多種皮膚感染，而非支持 griseofulvin 治療蠅蛆症
-
-### 其他預測適應症
-
-未檢索到相關文獻支持。
+目前無相關文獻。
 
 ## 台灣上市資訊
-
-**有效許可證：**
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
@@ -112,97 +91,37 @@ indication_count: 5
 | 衛署藥製字第028055號 | 膚友錠５００毫克 | 錠劑 | 瑞士藥廠股份有限公司 | 2028/05/25 | 甲癬（ＯＮＹＣＨＯＭＹＯＳＩＳ）、髮癬（ＴＩＮＥＡ ＣＡＰＩＴＩＳ），不適宜局部外用治療或局部外用無效的皮膚黴菌感染。 |
 
 <details><summary><strong>已註銷</strong>（63 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第007313號</td><td>黴可淨錠</td><td>GRISEOFULVIN</td><td>1998/06/01</td></tr><tr><td>內衛藥輸字第000795號</td><td>護星５００</td><td>GRISEOFULVIN</td><td>1985/10/03</td></tr><tr><td>內衛藥輸字第004556號</td><td>膚爾皮質達新ＵＦ片</td><td>GRISEOFULVIN</td><td>1985/09/26</td></tr><tr><td>內衛藥輸字第005882號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>1985/09/23</td></tr><tr><td>內衛藥輸字第006262號</td><td>巴里歐軟膏</td><td>PECILOCIN、HYDROCORTISONE、GRISEOFULVIN、ALLANTOIN、NEOMYCIN (FR…</td><td>1985/12/31</td></tr><tr><td>衛署藥製字第004335號</td><td>克黴敏錠５００公絲</td><td>GRISEOFULVIN</td><td>1999/09/30</td></tr><tr><td>衛署藥製字第009019號</td><td>香港腳敏膠囊</td><td>GRISEOFULVIN</td><td>2002/09/05</td></tr><tr><td>衛署藥製字第011974號</td><td>扶星錠</td><td>GRISEOFULVIN</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第013591號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第013594號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>2000/06/12</td></tr><tr><td>衛署藥製字第014740號</td><td>灰黴素錠５００公絲</td><td>GRISEOFULVIN</td><td>2010/03/18</td></tr><tr><td>衛署藥製字第015372號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1990/10/04</td></tr><tr><td>衛署藥製字第016488號</td><td>灰徽素錠</td><td>GRISEOFULVIN</td><td>2000/08/08</td></tr><tr><td>衛署藥製字第016678號</td><td>方克黴錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第017085號</td><td>克癬服錠（灰黴素）</td><td>GRISEOFULVIN</td><td>1991/06/19</td></tr><tr><td>衛署藥製字第017970號</td><td>利癬敏錠（灰黴素）</td><td>GRISEOFULVIN</td><td>1988/12/31</td></tr><tr><td>衛署藥製字第018700號</td><td>方克黴膠囊５００公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第018870號</td><td>豐癬寧錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第019323號</td><td>可威淨錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2013/10/01</td></tr><tr><td>衛署藥製字第020384號</td><td>"華盛頓"吉膚黴素膠囊125毫克（灰黴素）</td><td>GRISEOFULVIN</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第020385號</td><td>"華盛頓"吉膚黴素膠囊250毫克（灰黴素）</td><td>GRISEOFULVIN</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第021319號</td><td>樂膚佳膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>1989/03/30</td></tr><tr><td>衛署藥製字第021550號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1994/01/21</td></tr><tr><td>衛署藥製字第022541號</td><td>克膚鏈素膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>2012/04/25</td></tr><tr><td>衛署藥製字第023465號</td><td>葛利文錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2016/09/08</td></tr><tr><td>衛署藥製字第024313號</td><td>"應元"護膚黴素膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>2024/04/19</td></tr><tr><td>衛署藥製字第024767號</td><td>克黴星膜衣錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>1991/01/29</td></tr><tr><td>衛署藥製字第025278號</td><td>灰黴素５００公絲膠囊</td><td>GRISEOFULVIN</td><td>2023/08/31</td></tr><tr><td>衛署藥製字第027698號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1997/08/28</td></tr><tr><td>衛署藥製字第034962號</td><td>格利蘇芬膜衣錠５００公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2009/03/13</td></tr><tr><td>衛署藥製字第035243號</td><td>格利蘇芬膜衣錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2005/11/08</td></tr><tr><td>衛署藥輸字第000098號</td><td>護星１２５錠</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第000339號</td><td>格利蘇芬錠１２５毫克</td><td>GRISEOFULVIN</td><td>1988/08/17</td></tr><tr><td>衛署藥輸字第000517號</td><td>格利蘇芬錠５００公絲</td><td>GRISEOFULVIN</td><td>1990/02/07</td></tr><tr><td>衛署藥輸字第000728號</td><td>灰鏈素（微粒）</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第002120號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第002561號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第004465號</td><td>克利斯丁錠１２５公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第004995號</td><td>利膚美錠５００公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第004997號</td><td>利膚美錠２５０公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第004998號</td><td>利膚美錠１２５公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第005295號</td><td>格利蘇芬</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第005500號</td><td>格利文錠</td><td>GRISEOFULVIN</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第006323號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006624號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第009680號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第009791號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>1991/05/14</td></tr><tr><td>衛署藥輸字第010267號</td><td>可利適達錠</td><td>GRISEOFULVIN</td><td>1999/07/16</td></tr><tr><td>衛署藥輸字第010985號</td><td>灰黴素錠１２５公絲</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第012186號</td><td>克灰敏錠５００公絲</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第012885號</td><td>格利蘇芬錠１２５公絲</td><td>GRISEOFULVIN</td><td>1990/02/07</td></tr><tr><td>衛署藥輸字第013673號</td><td>可利適達錠</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第014103號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>1998/10/20</td></tr><tr><td>衛署藥輸字第014132號</td><td>膚爾皮質達新錠</td><td>GRISEOFULVIN</td><td>2013/12/05</td></tr><tr><td>衛署藥輸字第014199號</td><td>護星膜衣錠５００公絲</td><td>GRISEOFULVIN</td><td>1998/05/14</td></tr><tr><td>衛署藥輸字第014489號</td><td>巴里歐軟膏</td><td>NEOMYCIN (FRADIOMYCIN)、GRISEOFULVIN、ALLANTOIN、PECILOCIN、HYDR…</td><td>1989/09/11</td></tr><tr><td>衛署藥輸字第015721號</td><td>克黴適錠１２５公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第016852號</td><td>克黴適膜衣錠５００公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第017486號</td><td>格利蘇芬錠１２５公絲</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第017532號</td><td>格利蘇芬錠５００公絲</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018557號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第019446號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第022110號</td><td>護星錠５００公絲</td><td>GRISEOFULVIN</td><td>2009/12/31</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第007313號</td><td>黴可淨錠</td><td>GRISEOFULVIN</td><td>1998/06/01</td></tr><tr><td>內衛藥輸字第000795號</td><td>護星５００</td><td>GRISEOFULVIN</td><td>1985/10/03</td></tr><tr><td>內衛藥輸字第004556號</td><td>膚爾皮質達新ＵＦ片</td><td>GRISEOFULVIN</td><td>1985/09/26</td></tr><tr><td>內衛藥輸字第005882號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>1985/09/23</td></tr><tr><td>內衛藥輸字第006262號</td><td>巴里歐軟膏</td><td>NEOMYCIN (FRADIOMYCIN)、HYDROCORTISONE、PECILOCIN、GRISEOFULVIN…</td><td>1985/12/31</td></tr><tr><td>衛署藥製字第004335號</td><td>克黴敏錠５００公絲</td><td>GRISEOFULVIN</td><td>1999/09/30</td></tr><tr><td>衛署藥製字第009019號</td><td>香港腳敏膠囊</td><td>GRISEOFULVIN</td><td>2002/09/05</td></tr><tr><td>衛署藥製字第011974號</td><td>扶星錠</td><td>GRISEOFULVIN</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第013591號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第013594號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>2000/06/12</td></tr><tr><td>衛署藥製字第014740號</td><td>灰黴素錠５００公絲</td><td>GRISEOFULVIN</td><td>2010/03/18</td></tr><tr><td>衛署藥製字第015372號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1990/10/04</td></tr><tr><td>衛署藥製字第016488號</td><td>灰徽素錠</td><td>GRISEOFULVIN</td><td>2000/08/08</td></tr><tr><td>衛署藥製字第016678號</td><td>方克黴錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第017085號</td><td>克癬服錠（灰黴素）</td><td>GRISEOFULVIN</td><td>1991/06/19</td></tr><tr><td>衛署藥製字第017970號</td><td>利癬敏錠（灰黴素）</td><td>GRISEOFULVIN</td><td>1988/12/31</td></tr><tr><td>衛署藥製字第018700號</td><td>方克黴膠囊５００公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第018870號</td><td>豐癬寧錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第019323號</td><td>可威淨錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2013/10/01</td></tr><tr><td>衛署藥製字第020384號</td><td>"華盛頓"吉膚黴素膠囊125毫克（灰黴素）</td><td>GRISEOFULVIN</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第020385號</td><td>"華盛頓"吉膚黴素膠囊250毫克（灰黴素）</td><td>GRISEOFULVIN</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第021319號</td><td>樂膚佳膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>1989/03/30</td></tr><tr><td>衛署藥製字第021550號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1994/01/21</td></tr><tr><td>衛署藥製字第022541號</td><td>克膚鏈素膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>2012/04/25</td></tr><tr><td>衛署藥製字第023465號</td><td>葛利文錠（灰黴素）</td><td>GRISEOFULVIN</td><td>2016/09/08</td></tr><tr><td>衛署藥製字第024313號</td><td>"應元"護膚黴素膠囊（灰黴素）</td><td>GRISEOFULVIN</td><td>2024/04/19</td></tr><tr><td>衛署藥製字第024767號</td><td>克黴星膜衣錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>1991/01/29</td></tr><tr><td>衛署藥製字第025278號</td><td>灰黴素５００公絲膠囊</td><td>GRISEOFULVIN</td><td>2023/08/31</td></tr><tr><td>衛署藥製字第027698號</td><td>灰黴素錠</td><td>GRISEOFULVIN</td><td>1997/08/28</td></tr><tr><td>衛署藥製字第034962號</td><td>格利蘇芬膜衣錠５００公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2009/03/13</td></tr><tr><td>衛署藥製字第035243號</td><td>格利蘇芬膜衣錠１２５公絲（灰黴素）</td><td>GRISEOFULVIN</td><td>2005/11/08</td></tr><tr><td>衛署藥輸字第000098號</td><td>護星１２５錠</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第000339號</td><td>格利蘇芬錠１２５毫克</td><td>GRISEOFULVIN</td><td>1988/08/17</td></tr><tr><td>衛署藥輸字第000517號</td><td>格利蘇芬錠５００公絲</td><td>GRISEOFULVIN</td><td>1990/02/07</td></tr><tr><td>衛署藥輸字第000728號</td><td>灰鏈素（微粒）</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第002120號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第002561號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第004465號</td><td>克利斯丁錠１２５公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第004995號</td><td>利膚美錠５００公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第004997號</td><td>利膚美錠２５０公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第004998號</td><td>利膚美錠１２５公絲</td><td>GRISEOFULVIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第005295號</td><td>格利蘇芬</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第005500號</td><td>格利文錠</td><td>GRISEOFULVIN</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第006323號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006624號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第009680號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第009791號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>1991/05/14</td></tr><tr><td>衛署藥輸字第010267號</td><td>可利適達錠</td><td>GRISEOFULVIN</td><td>1999/07/16</td></tr><tr><td>衛署藥輸字第010985號</td><td>灰黴素錠１２５公絲</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第012186號</td><td>克灰敏錠５００公絲</td><td>GRISEOFULVIN</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第012885號</td><td>格利蘇芬錠１２５公絲</td><td>GRISEOFULVIN</td><td>1990/02/07</td></tr><tr><td>衛署藥輸字第013673號</td><td>可利適達錠</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第014103號</td><td>灰鏈素</td><td>GRISEOFULVIN</td><td>1998/10/20</td></tr><tr><td>衛署藥輸字第014132號</td><td>膚爾皮質達新錠</td><td>GRISEOFULVIN</td><td>2013/12/05</td></tr><tr><td>衛署藥輸字第014199號</td><td>護星膜衣錠５００公絲</td><td>GRISEOFULVIN</td><td>1998/05/14</td></tr><tr><td>衛署藥輸字第014489號</td><td>巴里歐軟膏</td><td>ALLANTOIN、HYDROCORTISONE、GRISEOFULVIN、NEOMYCIN (FRADIOMYCIN)…</td><td>1989/09/11</td></tr><tr><td>衛署藥輸字第015721號</td><td>克黴適錠１２５公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第016852號</td><td>克黴適膜衣錠５００公絲</td><td>GRISEOFULVIN</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第017486號</td><td>格利蘇芬錠１２５公絲</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第017532號</td><td>格利蘇芬錠５００公絲</td><td>GRISEOFULVIN</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018557號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第019446號</td><td>灰黴素</td><td>GRISEOFULVIN</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第022110號</td><td>護星錠５００公絲</td><td>GRISEOFULVIN</td><td>2009/12/31</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
-**總計：** 76 筆相關許可證紀錄，其中 13 張仍有效，多數已註銷。
-
-<!-- review:begin griseofulvin-tw-license-count-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「**總計：** 76 筆相關許可證紀錄，多為有效許可證。」。依 TFDA 許可證資料，76 張中目前有效的是 13 張，多數已註銷。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end griseofulvin-tw-license-count-2026-10-03 -->
-
-**核准適應症：**
-- 甲癬 (Onychomycosis)
-- 髮癬 (Tinea capitis)
-- 不適宜局部外用治療或局部外用無效的皮膚黴菌感染
-- 香港腳、灰指甲、頑癬等皮癬菌引起之皮膚病
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 主要藥物交互作用
+- **知識圖譜標示的禁忌疾病**（來自知識圖譜關聯，非仿單文字）：肝衰竭、紫質症（含遺傳性紫質症與紫質代謝疾病）、系統性紅斑性狼瘡（含兒童型）、物質濫用/依賴、顆粒球缺乏症、嗜中性白血球低下症（含週期性、先天性等各型）。
+- **藥物交互作用**：已查得 234 筆交互作用，以下為部分範例。
+  - 抗凝血/抗血小板藥：Warfarin、Apixaban、Rivaroxaban、Dicoumarol、Ticagrelor（中度）
+  - 降血糖藥：Saxagliptin、Linagliptin、Repaglinide（中度）；Liraglutide（輕度）
+  - 止吐藥：Aprepitant、Rolapitant（中度）
+  - 抗瘧/驅蟲藥：Artemether、Mefloquine、Praziquantel（中度）
+  - 其他：Eliglustat、Naloxegol、Nitisinone、Macimorelin、Fostamatinib（中度）；Acetylsalicylic acid（輕度）
 
-| 交互作用藥物 | 嚴重程度 | 說明 |
-|--------------|----------|------|
-| Ethinylestradiol | **Major** | 可能降低口服避孕藥效果 |
-| Warfarin | Moderate | 可能降低抗凝血效果 |
-| Cyclosporine | Moderate | 可能降低 cyclosporine 濃度 |
-| Barbiturates | Moderate | 可能影響 griseofulvin 代謝 |
-| Alcohol | Moderate | 可能產生類 disulfiram 反應 |
-
-**共記錄多項與 CYP450 酶相關的藥物交互作用。**
-
-### 常見不良反應
-- 頭痛（最常見）
-- 腸胃不適（噁心、嘔吐、腹瀉）
-- 皮疹
-- 光敏感性
-- 口腔念珠菌感染
-
-### 禁忌症
-- 肝功能不全
-- 紫質症
-- 全身性紅斑性狼瘡
-- 懷孕（致畸性）
-
-### 特殊族群
-- **孕婦**：禁用，有動物致畸性證據
-- **哺乳**：不建議使用
-- **兒童**：可用於髮癬治療
-- **肝病患者**：禁忌使用
+其餘警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
-### 預測評估結論
+**決策：Hold**
 
-Griseofulvin 對蠅蛆症和包蟲病的預測**缺乏藥理學基礎和臨床證據**。這些預測很可能是知識圖譜中疾病連結的偽陽性結果：
+**理由：**
+- 預測僅來自 TxGNN 模型（L5），沒有臨床試驗或文獻佐證。
+- Griseofulvin 的抗黴菌機轉與蠅蛆症病因無已知關聯，且藥物交互作用多、有血液學與肝臟相關的潛在風險。
 
-1. **蠅蛆症**是由雙翅目幼蟲引起，治療通常為機械性移除幼蟲或使用殺蟲劑
-2. **包蟲病**需要驅蟲藥物如 albendazole 或手術治療
-3. Griseofulvin 的抗真菌機轉（抑制有絲分裂紡錘體形成）與抗寄生蟲作用無明顯關聯
-
-### 證據等級總結
-
-| 預測適應症 | TxGNN Score | 證據等級 | 評估 |
-|------------|-------------|----------|------|
-| 蠅蛆症 | 0.994 | L5 | 機轉不支持，無證據 |
-| 疥蟲性蠅蛆症 | 0.993 | L5 | 機轉不支持，無證據 |
-| 傷口蠅蛆症 | 0.993 | L5 | 機轉不支持，無證據 |
-| 爬行性蠅蛆症 | 0.993 | L5 | 機轉不支持，無證據 |
-| 包蟲病 | 0.993 | L5 | 機轉不支持，無證據 |
-
-### 建議
-
-1. **不建議進一步開發**：
-   - 預測缺乏藥理學合理性
-   - 無前臨床或臨床證據支持
-   - 現有更有效的標準治療方案
-
-2. **模型警示**：
-   - 此案例展示了知識圖譜預測可能產生的偽陽性結果
-   - 應結合藥理機轉和臨床證據評估預測
-
-3. **現有適應症**：
-   - Griseofulvin 在皮膚黴菌感染的治療仍有其價值
-   - 特別是對於需要口服治療的髮癬和甲癬
-   - 但在 terbinafine 和 itraconazole 等更新藥物出現後，使用頻率已減少
-
----
-
-*報告生成日期：2026-02-11*
-*資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
+**若要推進需要：**
+- 補齊 Griseofulvin 的作用機轉資料（MOA）。
+- 檢索是否有體外或動物模型顯示其對蠅蛆幼蟲或寄生蟲的活性。
+- 若要探索，優先評估細粒棘球蚴感染的微管蛋白假說，先做體外驗證。
+- 確認蠅蛆症現有標準治療（如手術清創、伊維菌素）的優勢，評估再利用的臨床必要性。
 
 <!-- review:begin log -->
 

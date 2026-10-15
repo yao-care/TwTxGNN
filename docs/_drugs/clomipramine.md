@@ -2,7 +2,7 @@
 layout: default
 title: Clomipramine
 parent: 高證據等級 (L1-L2)
-nav_order: 67
+nav_order: 70
 evidence_level: L1
 indication_count: 10
 ---
@@ -29,78 +29,65 @@ indication_count: 10
 
 </div>
 
-# Clomipramine 藥師筆記
+# Clomipramine：從憂鬱病到焦慮症
 
 ## 一句話總結
 
-Clomipramine 是經典的三環抗憂鬱劑，TxGNN 預測其對焦慮症有療效，這與其已知的藥理作用及豐富的臨床證據高度吻合，屬於證據充足的「老藥既有用途」。
-
----
+Clomipramine（可洛米普明）是三環抗憂鬱劑，在台灣原本核准用於憂鬱病（部分舊證另核准強迫症、恐懼症等）。
+TxGNN 模型預測它可能對**焦慮症 (Anxiety Disorder)** 有效，
+目前有 **8 個臨床試驗**和 **20 篇文獻**支持這個方向，其中以強迫症與恐慌症的證據最具體。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Clomipramine (可洛米普明) |
-| DrugBank ID | DB01242 |
-| 台灣商品名 | 倍欣膜衣錠 25 公絲 等多種製劑 |
-| 原核准適應症 | 憂鬱病（憂鬱症） |
-| 預測新適應症 | 焦慮症 (anxiety disorder) |
-| 最高預測分數 | 0.999 (anxiety disorder) |
-| 證據等級 | L1-L2 (多個 RCT/系統性回顧) |
+| 原適應症 | 憂鬱病 |
+| 預測新適應症 | 焦慮症 (Anxiety Disorder) |
+| TxGNN 預測分數 | 99.93% |
+| 證據等級 | L1 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 14 張（有效單方 5／有效複方 0／已註銷 9） |
+| 建議決策 | Proceed with Guardrails |
 
-<!-- review:begin clomipramine-original-indication-2026-10-03 -->
+## 為什麼這個預測合理？
 
-> **查核更正（2026-10-03）**：原寫「原核准適應症／憂鬱症、強迫症、恐懼症、驚懼發作」。台灣目前有效的 clomipramine 許可證核准適應症只有「憂鬱病／憂鬱症」；強迫症、恐懼症、驚懼發作只出現在已於 2004-11-09 註銷的原廠 Anafranil 許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位無資料）。根據已知藥理，Clomipramine 是三環類抗憂鬱劑，能強力抑制血清素再回收，並有次要的正腎上腺素作用。這種血清素系統的調節，是它在強迫症與恐慌／畏懼型焦慮中發揮療效的基礎。
 
-<!-- review:end clomipramine-original-indication-2026-10-03 -->
+憂鬱與焦慮常合併出現，且共享血清素與正腎上腺素神經傳導的失衡，因此抗憂鬱劑常被用於焦慮相關疾患。強迫症屬於焦慮譜系疾病，Clomipramine 在其中有長期的臨床使用歷史；文獻也顯示它對伴有懼曠症的恐慌症有效。
 
----
-
-## 為什麼這個預測合理
-
-Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
-
-1. **血清素再吸收抑制**：Clomipramine 是三環抗憂鬱劑中血清素選擇性最高者，其活性代謝物 desmethylclomipramine 則抑制正腎上腺素再吸收
-2. **抗焦慮機轉明確**：血清素系統失調是焦慮症的核心病理機轉，增加血清素傳導可改善焦慮症狀
-3. **臨床經驗豐富**：Clomipramine 已廣泛用於強迫症 (OCD)、恐慌症等焦慮相關疾患，療效確立
-
-實際上，「焦慮症」的預測反映的是 clomipramine 已知的治療譜系，而非真正的新適應症發現。
-
----
+需要注意，這項預測的證據主要來自強迫症與恐慌症，不一定能直接推論到所有焦慮症亞型。
 
 ## 臨床試驗證據
 
-### 代表性臨床試驗
+| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+|---------|------|------|------|---------|
+| [NCT00004310](https://clinicaltrials.gov/study/NCT00004310) | Phase 2 | 未知 | 76 | 比較靜脈與口服 Clomipramine 負荷給藥，後續 12 週維持治療用於強迫症（直接相關） |
+| [NCT00564564](https://clinicaltrials.gov/study/NCT00564564) | Phase 4 | 完成 | 21 | 對 SSRI 無反應的強迫症，比較 Quetiapine 與 Clomipramine 加成治療（開放試驗） |
+| [NCT00466609](https://clinicaltrials.gov/study/NCT00466609) | Phase 4 | 完成 | 54 | 對第一線治療無反應的強迫症，比較 Fluoxetine 單用、加 Quetiapine、加 Clomipramine（雙盲） |
+| [NCT00074815](https://clinicaltrials.gov/study/NCT00074815) | Phase 3 | 完成 | 124 | 兒童強迫症 SRI 部分反應者，評估認知行為治療的加成效果（Clomipramine 非試驗藥物） |
+| [NCT00254735](https://clinicaltrials.gov/study/NCT00254735) | Phase 3 | 完成 | 44 | 嚴重強迫症在 SSRI／Clomipramine 基礎治療上加用 Quetiapine（試驗藥物為 Quetiapine） |
+| [NCT01404871](https://clinicaltrials.gov/study/NCT01404871) | N/A | 完成 | 26 | 強迫症患者隨機接受 Clomipramine 或 Escitalopram，探討藥物反應預測因子 |
+| [NCT05737511](https://clinicaltrials.gov/study/NCT05737511) | Phase 4 | 尚未招募 | 80 | Hydroxyzine 對比常規治療用於恐慌症（Clomipramine 至多屬常規治療） |
+| [NCT02374567](https://clinicaltrials.gov/study/NCT02374567) | Phase 3 | 已終止 | 407 | 老年精神科住院病人的藥物不良反應監測（僅提供一般安全性參考） |
 
-| 試驗編號 | 標題 | 階段 | 狀態 | 主要發現 |
-|----------|------|------|------|----------|
-| NCT03299166 | Troriluzole 輔助治療 OCD | Phase 2/3 | 已完成 | 評估對 SSRI/clomipramine 反應不佳患者的輔助治療 |
-| NCT00004310 | IV vs Oral Clomipramine in OCD | Phase 2 | 狀態不明 | 比較靜脈注射與口服 clomipramine 療效 |
-| NCT00466609 | OCD 加強治療策略 | Phase 4 | 已完成 | 比較 fluoxetine + clomipramine vs fluoxetine + quetiapine |
-| NCT00074815 | 兒童 OCD 的 SRI 部分反應者治療 | Phase 3 | 已完成 | 認知行為治療可改善 SRI 治療效果 |
-
-**關鍵發現**：多項臨床試驗證實 clomipramine 對強迫症及相關焦慮疾患有效，是 OCD 治療的一線藥物選擇。
-
----
+多數試驗的對象是強迫症，且 Clomipramine 常為背景或對照用藥；以 Clomipramine 為直接研究對象的試驗只有 NCT00004310 與 NCT00564564，且規模小。
 
 ## 文獻證據
 
-### 系統性回顧與 Meta 分析
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [38014714](https://pubmed.ncbi.nlm.nih.gov/38014714/) | 2023 | 統合分析 | Cochrane Database Syst Rev | 成人恐慌症藥物治療的網絡統合分析 |
+| [40788541](https://pubmed.ncbi.nlm.nih.gov/40788541/) | 2026 | 統合分析 | Eur Arch Psychiatry Clin Neurosci | 抗焦慮藥物治療焦慮症的療效與可接受性比較 |
+| [40946318](https://pubmed.ncbi.nlm.nih.gov/40946318/) | 2026 | 系統性回顧 | Psychother Psychosom | 難治型焦慮症的藥物、心理與神經刺激治療選項 |
+| [35900217](https://pubmed.ncbi.nlm.nih.gov/35900217/) | 2023 | 指引 | World J Biol Psychiatry | WFSBP 焦慮、強迫症與創傷後壓力症治療指引 |
+| [41978943](https://pubmed.ncbi.nlm.nih.gov/41978943/) | 2026 | 系統性回顧 | Acta Neuropsychiatr | 注射型 Clomipramine 用於憂鬱症或強迫症的統合分析 |
+| [27663940](https://pubmed.ncbi.nlm.nih.gov/27663940/) | 2016 | 統合分析 | J Am Acad Child Adolesc Psychiatry | 兒童強迫症中 SSRI 與 Clomipramine 的早期療效比較 |
+| [2021107](https://pubmed.ncbi.nlm.nih.gov/2021107/) | 1991 | Review | Am Fam Physician | Clomipramine 治療強迫症；療效在三環類中獨特，癲癇發生率約 0.4% |
+| [18849910](https://pubmed.ncbi.nlm.nih.gov/18849910/) | 2008 | Review | CNS Spectrums | Clomipramine 對強迫症有效，但不良反應較多 |
+| [34582562](https://pubmed.ncbi.nlm.nih.gov/34582562/) | 2021 | 統合分析 | Cochrane Database Syst Rev | 拔毛症的藥物治療 |
+| [3887445](https://pubmed.ncbi.nlm.nih.gov/3887445/) | 1985 | 雙盲試驗 | Psychiatry Res | Clomipramine 與 Imipramine 用於強迫症，兩者均僅有中等程度改善 |
 
-| PMID | 標題 | 年份 | 主要結論 |
-|------|------|------|----------|
-| 38014714 | Pharmacological treatments in panic disorder - network meta-analysis | 2023 | Clomipramine 是恐慌症有效治療選項 |
-| 34582562 | Pharmacotherapy for trichotillomania | 2021 | Clomipramine 對拔毛症有效 |
-| 27663940 | SSRI and Clomipramine in Pediatric OCD - meta-analysis | 2016 | 確認 clomipramine 對兒童 OCD 有效 |
-| 25681005 | OCD: Practical strategies for pharmacological treatment | 2015 | Clomipramine 與 SSRI 為 OCD 一線治療 |
-
-### 臨床指引支持
-
-- **國際 OCD 治療指引**：將 clomipramine 列為與 SSRI 並列的一線藥物治療
-- **恐慌症治療指引**：認可 clomipramine 為有效的藥物選擇
-
----
+此外，針對恐慌症／懼曠症（預測排名第 7）另有 RCT 與開放試驗，例如 Clomipramine 對比 Diazepam（PMID 6373161）及對比 Imipramine（PMID 22290995），以及多項低劑量與劑量探索研究。整體而言，統合分析層級的證據多為藥物類別比較，直接針對 Clomipramine 的對照試驗多為小型研究。
 
 ## 台灣上市資訊
 
@@ -115,8 +102,8 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第039220號 | 倍欣膜衣錠２５公絲（可洛米普明） | 膜衣錠 | 世達藥品工業股份有限公司 | 2025/08/24 | 憂鬱病 |
-| 衛署藥製字第040205號 | "約克"克爾鬱膠囊25毫克（可洛米普明） | 膠囊劑 | 約克製藥股份有限公司 | 2031/08/15 | 憂鬱症 |
-| 衛署藥製字第040356號 | 解鬱膠囊２５公絲（可洛米普明） | 膠囊劑 | 井田國際醫藥廠股份有限公司 | 2031/09/21 | 憂鬱症 |
+| 衛署藥製字第040205號 | "約克"克爾鬱膠囊25毫克（可洛米普明） | 膠囊劑 | 約克製藥股份有限公司 | 2026/08/15 | 憂鬱症 |
+| 衛署藥製字第040356號 | 解鬱膠囊２５公絲（可洛米普明） | 膠囊劑 | 井田國際醫藥廠股份有限公司 | 2026/09/21 | 憂鬱症 |
 | 衛署藥製字第040544號 | "瑞士" 可必安膜衣錠２５毫克（可洛米普明） | 膜衣錠 | 瑞士藥廠股份有限公司 | 2026/11/07 | 憂鬱病。。 |
 | 衛部藥製字第058145號 | "強生"可使寧膜衣錠25毫克 | 膜衣錠 | 強生化學製藥廠股份有限公司 | 2028/12/10 | 憂鬱病。 |
 
@@ -125,69 +112,30 @@ Clomipramine 的藥理機轉完全支持其對焦慮症的療效：
 
 <!-- tfda-licenses:end -->
 
-**備註**：台灣核准適應症已包含「恐懼症」及「驚懼發作」，實質上涵蓋了焦慮症的主要類型。
-
-<!-- review:begin clomipramine-tw-note-indication-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：依 TFDA 許可證資料，目前有效的 clomipramine 許可證核准適應症只有「憂鬱病／憂鬱症」；「恐懼症」「驚懼發作」只出現在已於 2004-11-09 註銷的原廠 Anafranil 許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end clomipramine-tw-note-indication-2026-10-03 -->
-
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 重要警語
+- **知識圖譜標示的相關禁忌疾病**（來自模型知識圖譜，並非仿單文字）：癲癇、躁型雙相情感障礙、肝病、膽囊疾病、物質濫用／依賴、惡性高熱、嗜鉻細胞瘤、青光眼、甲狀腺功能亢進（含 Graves 病）、神經母細胞瘤等。
+- **藥物交互作用**：共收錄 318 筆，主要（Major）等級包括 Epinephrine、Bupropion、Lorcaserin、Potassium citrate、Cisapride；中度（Moderate）包括 Famotidine、Cimetidine、Clarithromycin、Morphine、Acetylsalicylic acid 及多種抗膽鹼藥物（Atropine、Hyoscyamine 等）。
+- **文獻中的安全訊號**：個案報告曾見 Clomipramine 相關全血球減少（PMID 3572384）與誘發抽動症（PMID 9316681）；文獻亦提到抗膽鹼作用、心臟風險與癲癇風險。
 
-1. **心臟毒性**：可能延長 QT 間期，心臟病患者需謹慎使用
-2. **抗膽鹼副作用**：口乾、便秘、尿滯留、視力模糊
-3. **鎮靜作用**：可能影響駕駛及操作機械能力
-4. **過量中毒風險**：三環抗憂鬱劑過量可能致命
-5. **年輕人自殺風險**：18-24 歲患者初期治療需密切監測
-
-### 藥物交互作用注意事項
-
-- **MAO 抑制劑**：禁止併用，可能導致血清素症候群
-- **CYP2D6 抑制劑**：可能增加 clomipramine 血中濃度
-- **中樞神經抑制劑**：加強鎮靜作用
-- **抗膽鹼藥物**：加重抗膽鹼副作用
-
-### CYP450 代謝考量
-
-Clomipramine 經由 CYP2C19 及 CYP2D6 代謝。文獻報告 (PMID: 28470111) 顯示，CYP2C19 及 CYP2D6 中間代謝者可能出現顯著升高的藥物血中濃度，建議考慮藥物基因檢測。
-
----
+其餘警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
-### 預測評估
+**決策：Proceed with Guardrails**
 
-| 評估項目 | 結果 |
-|----------|------|
-| 機轉合理性 | 高 - 血清素/正腎上腺素再吸收抑制對焦慮症有明確療效 |
-| 臨床證據 | 充足 - 多項 RCT 及 meta-analysis 支持 |
-| 文獻支持 | 強 - 國際指引推薦 |
-| 整體證據等級 | **L1-L2 (多個 RCT/系統性回顧)** |
+**理由：**
+- Clomipramine 在強迫症與恐慌症／懼曠症已有多年臨床證據，並有直接以它為研究對象的試驗與統合分析，支持焦慮症方向。
+- 但相關直接試驗規模小，且 Clomipramine 的不良反應與藥物交互作用負擔高於 SSRI，因此需要設置安全防護。
 
-### 臨床建議
-
-1. **已可臨床使用**：Clomipramine 對焦慮相關疾患（特別是 OCD、恐慌症）的療效已獲確認
-2. **適應症考量**：台灣核准適應症已涵蓋多種焦慮疾患，符合仿單適應症使用
-3. **處方注意事項**：
-   - 起始劑量宜低，緩慢調升
-   - 監測心電圖，特別是有心臟病史者
-   - 注意年輕患者的自殺風險
-   - 避免突然停藥
-
-### 結語
-
-此預測驗證了 TxGNN 知識圖譜方法能準確識別藥物的已知治療潛力。Clomipramine 對焦慮症的療效已有堅實的證據基礎，屬於「再發現」而非「新發現」。
-
----
-
-*本筆記僅供研究參考，不構成醫療建議。任何用藥決策應諮詢專業醫療人員。*
-
-*最後更新：2026-02-11*
+**若要推進需要：**
+- 補充詳細的作用機轉（MOA）資料
+- 明確界定目標焦慮症亞型（強迫症、恐慌症／懼曠症等），並與現行第一線 SSRI 做比較
+- 建立高風險族群（癲癇、心臟疾病、青光眼、肝病、老年人）的篩檢與監測計畫
+- 制定交互作用審查流程，尤其是 Bupropion、Epinephrine 及其他血清素類藥物
+- 取得仿單中的警語與禁忌資料，以補足目前的資料缺口
 
 <!-- review:begin log -->
 

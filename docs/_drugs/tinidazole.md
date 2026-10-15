@@ -2,7 +2,7 @@
 layout: default
 title: Tinidazole
 parent: 僅模型預測 (L5)
-nav_order: 257
+nav_order: 279
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,83 +29,52 @@ indication_count: 10
 
 </div>
 
-# Tinidazole (梯尼達諾) - 藥師評估報告
+# Tinidazole：從陰道滴蟲症到停經後萎縮性陰道炎
 
 ## 一句話總結
 
-Tinidazole 是一種 5-硝基咪唑類抗原蟲藥物，TxGNN 預測多項婦科與感染相關新適應症，其中 AIDS 相關感染治療已有臨床試驗與文獻支持，值得進一步關注。
-
----
+Tinidazole（梯尼達諾）是硝基咪唑類抗原蟲／抗厭氧菌藥物，原本用於陰道滴蟲症、阿米巴症與梨形鞭毛蟲症。
+TxGNN 模型預測它可能對**停經後萎縮性陰道炎 (postmenopausal atrophic vaginitis)** 有效，但目前**沒有臨床試驗與文獻**直接支持，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Tinidazole (梯尼達諾) |
-| DrugBank ID | DB00911 |
-| 原適應症 | 陰道滴蟲症、阿米巴症、梨形鞭毛蟲症 |
-| 預測新適應症 | 停經後萎縮性陰道炎、外陰潰瘍、外陰腫瘤、乳房纖維囊腫、AIDS 等 |
-| 最高 TxGNN 分數 | 0.999 (停經後萎縮性陰道炎，排名 2,039) |
-| 證據等級 | AIDS：1 項臨床試驗、17 篇相關文獻 |
-| 台灣上市狀態 | 有效許可證（生達、政德、信東等廠） |
+| 原適應症 | 男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎 |
+| 預測新適應症 | 停經後萎縮性陰道炎 (postmenopausal atrophic vaginitis) |
+| TxGNN 預測分數 | 99.93% |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 85 張（有效單方 22／有效複方 0／已註銷 63） |
+| 建議決策 | Hold |
 
----
+## 為什麼這個預測合理？
 
-## 為什麼預測合理？
+目前缺乏詳細的作用機轉資料。已知 Tinidazole 屬硝基咪唑類，其還原後的中間產物會破壞厭氧微生物的 DNA，對厭氧菌與原蟲有選擇性活性。
 
-### 機轉分析
+停經後萎縮性陰道炎的主要成因是雌激素缺乏，並非感染。因此兩者的關聯，最多只在於萎縮的陰道黏膜可能合併厭氧菌或原蟲的次發感染。這個推論並無直接證據，模型分數較高，可能反映的是它與原有生殖泌尿道適應症在知識圖譜上的相近性。
 
-Tinidazole 屬於 5-硝基咪唑類藥物，具有廣效抗原蟲與厭氧菌活性。其預測用途的合理性分析如下：
+在其他預測中，**AIDS** 是唯一有相關資料的項目，但 Tinidazole 並不作用於 HIV。其可能角色僅限於治療合併的原蟲或厭氧菌感染，屬間接關係。
 
-1. **停經後萎縮性陰道炎 (分數 0.999)**：可能與共病感染相關，但萎縮性陰道炎本質為荷爾蒙缺乏
-2. **外陰潰瘍 (分數 0.999)**：Trichomonas vaginalis 感染確實可導致外陰潰瘍（有文獻支持）
-3. **AIDS 相關感染 (分數 0.997)**：HIV 患者常合併寄生蟲感染，Tinidazole 可用於治療阿米巴症、梨形鞭毛蟲症
+## 臨床試驗證據
 
----
+目前無相關臨床試驗登記。
 
-## 臨床試驗
-
-### AIDS 相關臨床試驗
-
-| 試驗編號 | 標題 | 階段 | 狀態 | 收案數 |
-|---------|------|------|------|-------|
-| NCT03412071 | Testing the Ability of a Microbiome-Focused Intervention to Reduce HIV Susceptibility in Ugandan Men | N/A | Unknown | 125 |
-
-**試驗摘要**：評估包含 Tinidazole 在內的抗菌介入對包皮微生物組及 HIV 易感性的影響。
-
----
+（備註：另一項預測適應症 AIDS 有 1 項相關試驗 NCT03412071，為 NA 期、狀態未知、125 人的試驗，探討微生物相介入對烏干達男性 HIV 感受性的影響，評估的是 HIV 感染風險而非治療，與本報告的首要預測無關。）
 
 ## 文獻證據
 
-### AIDS 相關文獻 (共 17 篇)
+目前無相關文獻。
 
-**重要文獻精選**：
-
-1. **Gupta S et al. (2022)** - *Amebiasis and Amebic Liver Abscess in Children*
-   - AIDS/HIV 患者為高風險族群，Tinidazole 是阿米巴症的推薦治療藥物
-
-2. **Watanabe K et al. (2011)** - *Amebiasis in HIV-1-infected Japanese men*
-   - 170 例 HIV 合併阿米巴感染，Tinidazole 治療成功率高
-
-3. **Rossignol JF (2010)** - *Cryptosporidium and Giardia: treatment options*
-   - Tinidazole 對梨形鞭毛蟲症有效，可單劑量給藥
-
-4. **Mitchell L et al. (2010)** - *Trichomonas vaginalis: an unusual presentation*
-   - 報告 Tinidazole 成功治療表現為外陰潰瘍的滴蟲感染
-
----
-
-## 台灣上市情形
-
-Tinidazole 在台灣有多張有效許可證：
+## 台灣上市資訊
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tinidazole 的不重複許可證共 **85 張**：有效單方 21 張、有效複方 0 張、已註銷 64 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tinidazole 的不重複許可證共 **85 張**：有效單方 22 張、有效複方 0 張、已註銷 63 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（21 張）
+**有效・單方**（22 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -117,6 +86,7 @@ Tinidazole 在台灣有多張有效許可證：
 | 衛署藥製字第019786號 | "生達"淨樂膠衣錠（梯尼達諾） | 膜衣錠 | 生達化學製藥股份有限公司 | 2029/12/14 | 男、女兩性生殖泌尿系的陰道滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症 |
 | 衛署藥製字第025952號 | 滴必淨錠５００公絲（梯尼達諾） | 錠劑 | 嘉林藥品有限公司 | 2029/05/25 | 毛滴蟲感染引起之感染症 |
 | 衛署藥製字第026089號 | 適婦樂錠５００公絲（梯尼達諾） | 錠劑 | 明大化學製藥股份有限公司 | 2028/12/31 | 陰道毛滴蟲症、變形蟲症、賈第鞭毛蟲痢疾及陰道毛滴蟲感染症 |
+| 衛署藥製字第026259號 | "十全"滴寧錠５００公絲（梯尼達諾） | 錠劑 | 十全實業股份有限公司 | 2024/09/23 | 男女兩性生殖泌尿的陰道滴蟲症、阿米巴症、藍氏賈第鞭毛蟲症 |
 | 衛署藥製字第026583號 | 滴必克錠５００公絲（梯尼達諾） | 錠劑 | 杏林新生製藥股份有限公司 | 2028/11/27 | 毛滴蟲感染症引起之膣炎 |
 | 衛署藥製字第027368號 | 愛斯淨膠衣錠 | 膜衣錠 | 健喬信元醫藥生技股份有限公司 | 2028/12/31 | 陰道滴蟲症、阿米巴赤痢、腸道阿米巴症、阿米巴性肝膿瘍、腸外阿米巴症及梨形鞭毛蟲感染症 |
 | 衛署藥製字第028016號 | "衛達"敵妳蟲錠５００公絲（梯尼達諾） | 錠劑 | 衛達化學製藥股份有限公司 | 2029/01/03 | 男女兩性生殖泌尿系之滴蟲屬感染諸症（女性陰道滴蟲症、變形蟲症賈第鞭毛蟲痢疾症） |
@@ -127,58 +97,41 @@ Tinidazole 在台灣有多張有效許可證：
 | 衛署藥製字第035151號 | 替爾淨錠５００公絲（梯尼達諾） | 錠劑 | 新喜國際企業股份有限公司 | 2031/04/30 | 治療由陰道滴蟲、赤痢變形蟲及藍氏賈第鞭毛蟲等原蟲感染症。 |
 | 衛署藥製字第035514號 | 婦益淨膜衣錠５００公絲（梯尼達諾） | 膜衣錠 | 世達藥品工業股份有限公司 | 2027/08/05 | 男女兩性生殖泌尿系的陰道滴蟲症、變形蟲症、及賈第鞭毛蟲症所引起 之疾患（阿米巴痢疾、阿米巴直腸炎、阿米巴肝膿腫）。 |
 | 衛署藥製字第037565號 | "井田"替你淨膜衣錠５００公絲（梯尼達諾） | 膜衣錠 | 井田國際醫藥廠股份有限公司 | 2029/05/09 | 厭氧細菌所引起感染之預防與治療？及陰道滴蟲？梨形蟲及阿米巴變形蟲所引起感染之治療。 |
-| 衛署藥製字第040065號 | "永勝"泛星膠囊５００公絲（梯尼達諾） | 膠囊劑 | 永勝藥品工業股份有限公司 | 2031/06/12 | 男女兩性生殖泌尿系之陰道滴毛蟲感染症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶腔炎 |
+| 衛署藥製字第040065號 | "永勝"泛星膠囊５００公絲（梯尼達諾） | 膠囊劑 | 永勝藥品工業股份有限公司 | 2026/06/12 | 男女兩性生殖泌尿系之陰道滴毛蟲感染症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶腔炎 |
 | 衛署藥輸字第024231號 | 替尼達諾 | （粉） | 恒亞貿易股份有限公司 | 2030/05/16 | 抗滴蟲藥。 |
 | 衛署藥輸字第025255號 | 替尼達諾 | （粉） | 一龍化學貿易股份有限公司 | 2030/08/23 | 抗滴蟲藥 |
 
-<details><summary><strong>已註銷</strong>（64 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第003890號</td><td>服淨口服錠１５０公絲</td><td>TINIDAZOLE</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第010751號</td><td>服淨口服錠５００公絲</td><td>TINIDAZOLE</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第011543號</td><td>利速淨錠５００公絲</td><td>TINIDAZOLE</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第011924號</td><td>服潔錠</td><td>TINIDAZOLE</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第012128號</td><td>服喜糖衣錠</td><td>TINIDAZOLE</td><td>1986/04/28</td></tr><tr><td>衛署藥製字第012814號</td><td>滴女達錠</td><td>TINIDAZOLE</td><td>2013/07/29</td></tr><tr><td>衛署藥製字第012954號</td><td>汝潔錠</td><td>TINIDAZOLE</td><td>2013/10/15</td></tr><tr><td>衛署藥製字第014324號</td><td>樂淨膠囊５００公絲</td><td>TINIDAZOLE</td><td>1999/06/07</td></tr><tr><td>衛署藥製字第014786號</td><td>梯尼達諾錠</td><td>TINIDAZOLE</td><td>1988/12/31</td></tr><tr><td>衛署藥製字第015278號</td><td>梯尼達諾膠囊５００公絲</td><td>TINIDAZOLE</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第018089號</td><td>克滴妥膠囊１５０公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第018113號</td><td>舒淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>2013/10/03</td></tr><tr><td>衛署藥製字第018122號</td><td>帶淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第018362號</td><td>梯尼達諾錠</td><td>TINIDAZOLE</td><td>2005/11/23</td></tr><tr><td>衛署藥製字第018461號</td><td>達淨膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第018640號</td><td>去露膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2013/10/16</td></tr><tr><td>衛署藥製字第019858號</td><td>克滴妥膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第019888號</td><td>泛星膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第020293號</td><td>舒帶膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2000/08/04</td></tr><tr><td>衛署藥製字第021149號</td><td>服喜膠衣錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>1987/06/19</td></tr><tr><td>衛署藥製字第021918號</td><td>安得淨膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第022007號</td><td>滴蟲淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>1999/07/30</td></tr><tr><td>衛署藥製字第022857號</td><td>汎達錠500毫克（梯尼達諾）</td><td>TINIDAZOLE</td><td>2024/02/26</td></tr><tr><td>衛署藥製字第023273號</td><td>滴女淨膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第023856號</td><td>滴淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>2006/04/19</td></tr><tr><td>衛署藥製字第024487號</td><td>達淨錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第024979號</td><td>美樂明５００公絲膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2023/08/01</td></tr><tr><td>衛署藥製字第025260號</td><td>滴蟲泯錠１５０公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第025264號</td><td>婦得寧膜衣錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2003/04/25</td></tr><tr><td>衛署藥製字第025700號</td><td>替爾淨錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>1992/10/01</td></tr><tr><td>衛署藥製字第026259號</td><td>"十全"滴寧錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2026/09/07</td></tr><tr><td>衛署藥製字第026835號</td><td>"國信"滴尼諾錠５００公絲</td><td>TINIDAZOLE</td><td>2023/07/12</td></tr><tr><td>衛署藥製字第031449號</td><td>剃厭能注射液５毫克/毫升（梯尼達諾</td><td>TINIDAZOLE</td><td>2013/10/03</td></tr><tr><td>衛署藥製字第031480號</td><td>婦利康錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2017/02/02</td></tr><tr><td>衛署藥製字第031563號</td><td>滴蟲淨膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>1997/02/26</td></tr><tr><td>衛署藥製字第032808號</td><td>淨帶錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/02/08</td></tr><tr><td>衛署藥製字第034532號</td><td>"東光吉華"依能淨錠500公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2006/11/22</td></tr><tr><td>衛署藥製字第034822號</td><td>"強生" 滴蟲泯膜衣錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2024/04/29</td></tr><tr><td>衛署藥製字第040451號</td><td>滴蟲淨膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>1998/10/08</td></tr><tr><td>衛署藥輸字第001200號</td><td>太尼達唑</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第001264號</td><td>太尼達唑原料</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第001297號</td><td>太尼達唑</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第005195號</td><td>乙磺酸酯</td><td>TINIDAZOLE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005807號</td><td>妥利達唑胺</td><td>TINIDAZOLE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006324號</td><td>１－〔－（乙基化磺醯基）乙基/２－甲基－５－硝基異二氮二烯伍</td><td>TINIDAZOLE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第007776號</td><td>特力克斯錠１５０公絲</td><td>TINIDAZOLE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第010663號</td><td>德利可淨錠</td><td>TINIDAZOLE</td><td>1991/02/11</td></tr><tr><td>衛署藥輸字第010666號</td><td>必佳寶膜衣錠</td><td>TINIDAZOLE</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第011580號</td><td>替利達唑粉劑</td><td>TINIDAZOLE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第012841號</td><td>替尼達諾粉劑</td><td>TINIDAZOLE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015274號</td><td>特力克斯錠５００公絲</td><td>TINIDAZOLE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第016156號</td><td>特力克斯注射液５公絲/公撮</td><td>DEXTROSE ANHYDROUS、TINIDAZOLE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第016491號</td><td>梯尼達諾”輝瑞”　　　　　　　　　　　　　　　　　　　　　　 T</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第017615號</td><td>梯尼達諾</td><td>TINIDAZOLE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第018432號</td><td>德利可淨錠</td><td>TINIDAZOLE</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第018439號</td><td>磺甲硝咪</td><td>TINIDAZOLE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019638號</td><td>梯尼達諾</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第019753號</td><td>太尼達唑</td><td>TINIDAZOLE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第021146號</td><td>替尼達諾</td><td>TINIDAZOLE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第022628號</td><td>梯尼達諾</td><td>TINIDAZOLE</td><td>2014/02/06</td></tr><tr><td>衛署藥輸字第023110號</td><td>梯尼達唑</td><td>TINIDAZOLE</td><td>2014/01/24</td></tr><tr><td>衛署藥輸字第024314號</td><td>體您膜衣錠</td><td>TINIDAZOLE</td><td>2016/02/02</td></tr><tr><td>衛署藥輸字第026070號</td><td>替尼達諾</td><td>Tinidazole</td><td>2019/04/16</td></tr><tr><td>衛署藥陸輸字第000213號</td><td>梯尼達諾</td><td>Tinidazole</td><td>2022/07/01</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（63 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第003890號</td><td>服淨口服錠１５０公絲</td><td>TINIDAZOLE</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第010751號</td><td>服淨口服錠５００公絲</td><td>TINIDAZOLE</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第011543號</td><td>利速淨錠５００公絲</td><td>TINIDAZOLE</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第011924號</td><td>服潔錠</td><td>TINIDAZOLE</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第012128號</td><td>服喜糖衣錠</td><td>TINIDAZOLE</td><td>1986/04/28</td></tr><tr><td>衛署藥製字第012814號</td><td>滴女達錠</td><td>TINIDAZOLE</td><td>2013/07/29</td></tr><tr><td>衛署藥製字第012954號</td><td>汝潔錠</td><td>TINIDAZOLE</td><td>2013/10/15</td></tr><tr><td>衛署藥製字第014324號</td><td>樂淨膠囊５００公絲</td><td>TINIDAZOLE</td><td>1999/06/07</td></tr><tr><td>衛署藥製字第014786號</td><td>梯尼達諾錠</td><td>TINIDAZOLE</td><td>1988/12/31</td></tr><tr><td>衛署藥製字第015278號</td><td>梯尼達諾膠囊５００公絲</td><td>TINIDAZOLE</td><td>2023/07/03</td></tr><tr><td>衛署藥製字第018089號</td><td>克滴妥膠囊１５０公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第018113號</td><td>舒淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>2013/10/03</td></tr><tr><td>衛署藥製字第018122號</td><td>帶淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第018362號</td><td>梯尼達諾錠</td><td>TINIDAZOLE</td><td>2005/11/23</td></tr><tr><td>衛署藥製字第018461號</td><td>達淨膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2009/12/30</td></tr><tr><td>衛署藥製字第018640號</td><td>去露膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2013/10/16</td></tr><tr><td>衛署藥製字第019858號</td><td>克滴妥膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2015/06/17</td></tr><tr><td>衛署藥製字第019888號</td><td>泛星膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第020293號</td><td>舒帶膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2000/08/04</td></tr><tr><td>衛署藥製字第021149號</td><td>服喜膠衣錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>1987/06/19</td></tr><tr><td>衛署藥製字第021918號</td><td>安得淨膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第022007號</td><td>滴蟲淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>1999/07/30</td></tr><tr><td>衛署藥製字第022857號</td><td>汎達錠500毫克（梯尼達諾）</td><td>TINIDAZOLE</td><td>2024/02/26</td></tr><tr><td>衛署藥製字第023273號</td><td>滴女淨膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第023856號</td><td>滴淨錠（梯尼達諾）</td><td>TINIDAZOLE</td><td>2006/04/19</td></tr><tr><td>衛署藥製字第024487號</td><td>達淨錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第024979號</td><td>美樂明５００公絲膠囊（梯尼達諾）</td><td>TINIDAZOLE</td><td>2023/08/01</td></tr><tr><td>衛署藥製字第025260號</td><td>滴蟲泯錠１５０公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第025264號</td><td>婦得寧膜衣錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2003/04/25</td></tr><tr><td>衛署藥製字第025700號</td><td>替爾淨錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>1992/10/01</td></tr><tr><td>衛署藥製字第026835號</td><td>"國信"滴尼諾錠５００公絲</td><td>TINIDAZOLE</td><td>2023/07/12</td></tr><tr><td>衛署藥製字第031449號</td><td>剃厭能注射液５毫克/毫升（梯尼達諾</td><td>TINIDAZOLE</td><td>2013/10/03</td></tr><tr><td>衛署藥製字第031480號</td><td>婦利康錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2017/02/02</td></tr><tr><td>衛署藥製字第031563號</td><td>滴蟲淨膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>1997/02/26</td></tr><tr><td>衛署藥製字第032808號</td><td>淨帶錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2010/02/08</td></tr><tr><td>衛署藥製字第034532號</td><td>"東光吉華"依能淨錠500公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2006/11/22</td></tr><tr><td>衛署藥製字第034822號</td><td>"強生" 滴蟲泯膜衣錠５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>2024/04/29</td></tr><tr><td>衛署藥製字第040451號</td><td>滴蟲淨膠囊５００公絲（梯尼達諾）</td><td>TINIDAZOLE</td><td>1998/10/08</td></tr><tr><td>衛署藥輸字第001200號</td><td>太尼達唑</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第001264號</td><td>太尼達唑原料</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第001297號</td><td>太尼達唑</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第005195號</td><td>乙磺酸酯</td><td>TINIDAZOLE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005807號</td><td>妥利達唑胺</td><td>TINIDAZOLE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006324號</td><td>１－〔－（乙基化磺醯基）乙基/２－甲基－５－硝基異二氮二烯伍</td><td>TINIDAZOLE</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第007776號</td><td>特力克斯錠１５０公絲</td><td>TINIDAZOLE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第010663號</td><td>德利可淨錠</td><td>TINIDAZOLE</td><td>1991/02/11</td></tr><tr><td>衛署藥輸字第010666號</td><td>必佳寶膜衣錠</td><td>TINIDAZOLE</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第011580號</td><td>替利達唑粉劑</td><td>TINIDAZOLE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第012841號</td><td>替尼達諾粉劑</td><td>TINIDAZOLE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第015274號</td><td>特力克斯錠５００公絲</td><td>TINIDAZOLE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第016156號</td><td>特力克斯注射液５公絲/公撮</td><td>TINIDAZOLE、DEXTROSE ANHYDROUS</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第016491號</td><td>梯尼達諾”輝瑞”　　　　　　　　　　　　　　　　　　　　　　 T</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第017615號</td><td>梯尼達諾</td><td>TINIDAZOLE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第018432號</td><td>德利可淨錠</td><td>TINIDAZOLE</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第018439號</td><td>磺甲硝咪</td><td>TINIDAZOLE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019638號</td><td>梯尼達諾</td><td>TINIDAZOLE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第019753號</td><td>太尼達唑</td><td>TINIDAZOLE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第021146號</td><td>替尼達諾</td><td>TINIDAZOLE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第022628號</td><td>梯尼達諾</td><td>TINIDAZOLE</td><td>2014/02/06</td></tr><tr><td>衛署藥輸字第023110號</td><td>梯尼達唑</td><td>TINIDAZOLE</td><td>2014/01/24</td></tr><tr><td>衛署藥輸字第024314號</td><td>體您膜衣錠</td><td>TINIDAZOLE</td><td>2016/02/02</td></tr><tr><td>衛署藥輸字第026070號</td><td>替尼達諾</td><td>Tinidazole</td><td>2019/04/16</td></tr><tr><td>衛署藥陸輸字第000213號</td><td>梯尼達諾</td><td>Tinidazole</td><td>2022/07/01</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 重要藥物交互作用
+- **知識圖譜標示的禁忌疾病**（來自 TxGNN 知識圖譜的藥物—疾病禁忌關聯，並非仿單內容）：癲癇、嗜中性白血球低下症、顆粒球缺乏症、周邊神經系統疾病、周邊神經病變。
+- **藥物交互作用**：共收錄 161 筆，以下為部分中度（Moderate）交互作用：
+  - 化療與標靶藥物：Paclitaxel、Cabazitaxel、Capecitabine、Bortezomib、Brentuximab vedotin、Trastuzumab emtansine
+  - 心血管與血脂藥物：Amiodarone、Atorvastatin
+  - 荷爾蒙類：Ethinylestradiol、Estradiol
+  - 其他：Ethanol、Levodopa、Adalimumab、Amobarbital、Butalbital
 
-| 嚴重度 | 交互作用藥物 | 臨床意義 |
-|--------|-------------|---------|
-| Major | 霍亂活疫苗 (Vibrio cholerae vaccine) | 可能降低疫苗效果 |
-| Moderate | Ethanol | 雙硫侖樣反應 |
-| Moderate | Paclitaxel | 可能增加毒性 |
-| Moderate | Warfarin | 增強抗凝血作用 |
-| Moderate | Levodopa | 可能影響療效 |
+其餘警語與禁忌請參考原廠仿單。
 
-### 一般注意事項
+## 結論與下一步
 
-1. 服藥期間及停藥後 72 小時內禁止飲酒
-2. 可能引起金屬味、噁心、頭痛
-3. 孕婦不建議使用（尤其是第一孕期）
+**決策：Hold**
 
----
+**理由：**
+- 此預測僅來自模型（L5），沒有臨床試驗或文獻支持。
+- 萎縮性陰道炎主要由雌激素缺乏引起，Tinidazole 的抗厭氧菌與抗原蟲機轉缺乏明確作用標的。
 
-## 結論
-
-### 預測適應症評估
-
-| 適應症 | TxGNN 分數 | 臨床試驗 | 文獻 | 建議 |
-|-------|-----------|---------|------|------|
-| 停經後萎縮性陰道炎 | 0.999 | 無 | 無 | 不建議 |
-| 外陰潰瘍 | 0.999 | 無 | 有相關病例報告 | 可考慮（合併感染時） |
-| AIDS 相關感染 | 0.997 | 1 項 | 17 篇 | **建議（已有證據）** |
-
-### 臨床建議
-
-1. **AIDS 患者合併寄生蟲感染**：Tinidazole 是合理的治療選擇，有充足文獻支持
-2. **停經後萎縮性陰道炎**：不建議，應使用荷爾蒙療法
-3. **外陰潰瘍**：若懷疑滴蟲感染，可作為診斷性治療選擇
-
----
-
-*報告產生日期：2026-02-11*
-*資料來源：TxGNN 知識圖譜預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
+**若要推進需要：**
+- 補齊作用機轉資料，並釐清與萎縮性陰道炎的生物學關聯。
+- 檢視萎縮性陰道炎患者是否常合併厭氧菌或滴蟲感染，並以文獻或觀察性研究驗證。
+- 若有合理假設，再設計小規模探索性研究，並先評估知識圖譜所示的神經與血液學風險。
+- 補齊仿單的警語與禁忌症資料。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

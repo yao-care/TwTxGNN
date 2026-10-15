@@ -2,7 +2,7 @@
 layout: default
 title: Warfarin Atrial Fibrillation
 parent: 高證據等級 (L1-L2)
-nav_order: 285
+nav_order: 308
 evidence_level: L1
 indication_count: 0
 ---

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Silicon Dioxide
-parent: 中證據等級 (L3-L4)
-nav_order: 236
-evidence_level: L4
+parent: 僅模型預測 (L5)
+nav_order: 257
+evidence_level: L5
 indication_count: 4
 ---
 
 # Silicon Dioxide
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **4** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,62 +29,41 @@ indication_count: 4
 
 </div>
 
-# Silicon Dioxide：從賦形劑到消化性潰瘍探索
+# 二氧化矽 (Silicon dioxide)：從祛痰與制酸輔助用途到活動性消化性潰瘍
 
 ## 一句話總結
 
-Silicon Dioxide（二氧化矽）主要作為藥品賦形劑及制酸劑使用。
+二氧化矽在台灣多以賦形劑、氣體吸著劑及制酸劑複方成分的形式使用，原本涉及祛痰、胃酸過多與鼓腸等用途。
 TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Disease)** 有效，
-目前有 **12 篇文獻**支持這個方向，但缺乏直接臨床試驗的支持。
+但目前**沒有臨床試驗與文獻**支持，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 賦形劑、制酸劑、胃酸過多、氣體吸著劑 |
-| 預測新適應症 | Active Peptic Ulcer Disease（活動性消化性潰瘍） |
+| 原適應症 | 氣體吸著劑、賦形劑、維生素（單方許可證皆已註銷；現行有效者為制酸劑複方） |
+| 預測新適應症 | 活動性消化性潰瘍 (Active Peptic Ulcer Disease) |
 | TxGNN 預測分數 | 99.93% |
-| 證據等級 | L4 |
-| 台灣上市 | 已上市 |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市（僅 1 張有效複方許可證） |
 | 許可證數 | 20 張（有效單方 0／有效複方 1／已註銷 19） |
-| 建議決策 | 可進一步探索 |
-
-<!-- review:begin silicon_dioxide-antacid-combo-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：「制酸劑」「胃酸過多」來自二氧化矽與氧化鋁、矽酸鎂鋁、三矽酸鎂等制酸成分的複方許可證（目前唯一有效的是衛署藥輸字第024482號「二矽酸鋁鎂」）；二氧化矽單方許可證寫的是「賦形劑」與「氣體吸著劑」，且都已註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end silicon_dioxide-antacid-combo-2026-10-03 -->
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化合物已被用於胃腸道保護。
-文獻顯示，矽酸類化合物可形成保護性屏障，增強黏膜保護功能。
+目前缺乏詳細的作用機轉資料。根據已知資訊，二氧化矽在台灣多作為賦形劑、氣體吸著劑，以及制酸劑複方（例如與鋁、鎂矽酸鹽合用）的成分，其在胃酸過多、胃灼熱等症狀緩解上的角色已有許可證適應症可循。
 
-**TxGNN 預測的新適應症：**
+消化性潰瘍與胃酸過多在病理上相關，因此制酸類產品可能緩解酸相關症狀。不過，沒有證據顯示二氧化矽能促進潰瘤癒合或治療潰瘍的根本病因。這項預測主要來自知識圖譜中與潰瘍相關疾病的網路鄰近性，以及制酸相關的標示用途。
 
-| 排名 | 預測適應症 | 預測分數 | TxGNN 排名 | 文獻數 |
-|------|-----------|---------|-----------|--------|
-| 1 | Active Peptic Ulcer Disease（活動性消化性潰瘍） | 99.93% | 1,971 | 12 篇 |
-| 2 | Gastrojejunal Ulcer（胃空腸吻合處潰瘍） | 99.92% | 2,330 | 15 篇 |
-
-活動性消化性潰瘍的預測具有合理的機轉基礎：
-- 矽酸類制酸劑可中和胃酸、保護黏膜
-- 中空介孔矽奈米粒子已被研究用於胃潰瘍藥物遞送系統
+其他預測也有類似限制：吻合口潰瘍 (gastrojejunal ulcer) 與胃潰瘍 (gastric ulcer) 同樣僅有症狀緩解的間接關聯。消化性潰瘍穿孔 (peptic ulcer perforation) 是急性外科併發症，制酸劑或吸著性賦形劑在其中沒有合理的治療角色，該預測較可能是模型的假陽性。
 
 ## 臨床試驗證據
 
-目前無針對 Silicon Dioxide 直接治療消化性潰瘍的臨床試驗登記。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [2986275](https://pubmed.ncbi.nlm.nih.gov/2986275/) | 1985 | RCT | Scand J Gastroenterol | Sucralfate 與 alginate/antacid 在逆流性食道炎的比較研究 |
-| [6095236](https://pubmed.ncbi.nlm.nih.gov/6095236/) | 1983 | Review | Polimery w medycynie | 原矽酸及其衍生物的生物活性與抗潰瘍特性 |
-| [2877526](https://pubmed.ncbi.nlm.nih.gov/2877526/) | 1986 | Review | Z Gastroenterol | 胃食道逆流的治療策略，包括制酸劑療法 |
-| [7604597](https://pubmed.ncbi.nlm.nih.gov/7604597/) | 1994 | Clinical | Likars'ka sprava | Smecta（含矽酸鋁）治療消化道疾病的臨床效果 |
-| [38767185](https://pubmed.ncbi.nlm.nih.gov/38767185/) | 2024 | Research | Adv Healthc Mater | 胃滯留筏形成系統結合中空介孔矽奈米粒子治療胃潰瘍 |
-| [39541155](https://pubmed.ncbi.nlm.nih.gov/39541155/) | 2024 | Research | Nano Lett | 抗生素增強化學動力學療法治療幽門螺桿菌感染 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -98,40 +77,35 @@ Silicon Dioxide 在醫藥領域主要作為賦形劑使用，但其矽酸鹽化�
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥輸字第024482號 | 二矽酸鋁鎂 | ALUMINUM OXIDE (ALUMINA)、ALUMINUM MAGNESIUM SILICATE、SILICON… | （粉） | 制酸劑。 |
+| 衛署藥輸字第024482號 | 二矽酸鋁鎂 | ALUMINUM MAGNESIUM SILICATE、MAGNESIUM OXIDE、SILICON DIOXIDE… | （粉） | 制酸劑。 |
 
 <details><summary><strong>已註銷</strong>（19 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第023669號</td><td>美爾胃膠囊（斯比樂）”大同”　　　　　　　　　　　　　　　　 S</td><td>SULPIRIDE、SILICON DIOXIDE (SILICA GEL)</td><td>1989/11/28</td></tr><tr><td>衛署藥製字第029865號</td><td>佳樂心膠囊２００公絲（歐轉惠寧）</td><td>OXTRIPHYLLINE、SILICON DIOXIDE (SILICA GEL)</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第030558號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>SILICON DIOXIDE (SILICA GEL)、MECYSTEINE HCL (CYSTEINE L- MET…</td><td>1990/12/14</td></tr><tr><td>衛署藥製字第033025號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>SILICON DIOXIDE (SILICA GEL)、MECYSTEINE HCL (CYSTEINE L- MET…</td><td>1998/08/17</td></tr><tr><td>衛署藥製字第036028號</td><td>喜滿佳靈－愛（矽酸鎂鋁）</td><td>SILICON DIOXIDE (SILICA GEL)、ALUMINUM OXIDE (ALUMINA)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第036030號</td><td>喜滿佳靈（偏矽酸鎂鋁）</td><td>ALUMINUM OXIDE (ALUMINA)、SILICON DIOXIDE (SILICA GEL)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第002867號</td><td>製錠輔助劑Ｔ型</td><td>CARMELLOSE (CARBOXYMETHYLCELLULOSE)、CELLULOSE、SILICON DIOXID…</td><td>1986/01/16</td></tr><tr><td>衛署藥輸字第002868號</td><td>製錠輔助劑克型</td><td>CARMELLOSE (CARBOXYMETHYLCELLULOSE)、STARCH、CELLULOSE、MAGNESI…</td><td>1986/06/03</td></tr><tr><td>衛署藥輸字第006893號</td><td>矽酸</td><td>SILICON DIOXIDE (SILICA GEL)</td><td>1992/07/09</td></tr><tr><td>衛署藥輸字第011812號</td><td>適胃爽錠</td><td>MAGNESIUM TRISILICATE、MAGNESIUM HYDROXIDE、CALCIUM CARBONATE…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第012366號</td><td>矽凝膠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第013408號</td><td>利護腸錠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)、SIMETHICONE (ACT…</td><td>1988/03/12</td></tr><tr><td>衛署藥輸字第013587號</td><td>舒汝胃凝膠</td><td>CARMELLOSE SODIUM (CMC SOD.)(CELLULOSE GUM SOD.)、CALCIUM CAR…</td><td>1991/11/26</td></tr><tr><td>衛署藥輸字第014632號</td><td>製錠輔助劑Ｄ型</td><td>SILICON DIOXIDE (SILICA GEL)、CARMELLOSE (CARBOXYMETHYLCELLUL…</td><td>1990/06/23</td></tr><tr><td>衛署藥輸字第016328號</td><td>利護腸錠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)、SIMETHICONE (ACT…</td><td>1990/07/04</td></tr><tr><td>衛署藥輸字第017858號</td><td>利護腸錠</td><td>CALCIUM ARACHINATE、SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILIC…</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017958號</td><td>製錠輔助劑Ｄ型</td><td>CELLULOSE、SILICON DIOXIDE (SILICA GEL)、MAGNESIUM STEARATE (E…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018615號</td><td>"富田" 二矽酸鋁鎂</td><td>ALUMINUM MAGNESIUM SILICATE、SILICON DIOXIDE (SILICA GEL)、ALU…</td><td>2017/04/12</td></tr><tr><td>衛署藥輸字第022252號</td><td>高品安利納華陀錠</td><td>DEHYDROACETATE SODIUM、RIBOFLAVIN (VIT B2)、CALCIUM CARBONATE…</td><td>2010/09/21</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第023669號</td><td>美爾胃膠囊（斯比樂）”大同”　　　　　　　　　　　　　　　　 S</td><td>SULPIRIDE、SILICON DIOXIDE (SILICA GEL)</td><td>1989/11/28</td></tr><tr><td>衛署藥製字第029865號</td><td>佳樂心膠囊２００公絲（歐轉惠寧）</td><td>SILICON DIOXIDE (SILICA GEL)、OXTRIPHYLLINE</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第030558號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)、SILICON DIOXIDE…</td><td>1990/12/14</td></tr><tr><td>衛署藥製字第033025號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>SILICON DIOXIDE (SILICA GEL)、MECYSTEINE HCL (CYSTEINE L- MET…</td><td>1998/08/17</td></tr><tr><td>衛署藥製字第036028號</td><td>喜滿佳靈－愛（矽酸鎂鋁）</td><td>ALUMINUM OXIDE (ALUMINA)、SILICON DIOXIDE (SILICA GEL)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第036030號</td><td>喜滿佳靈（偏矽酸鎂鋁）</td><td>MAGNESIUM OXIDE、SILICON DIOXIDE (SILICA GEL)、ALUMINUM OXIDE…</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第002867號</td><td>製錠輔助劑Ｔ型</td><td>CELLULOSE、CARMELLOSE (CARBOXYMETHYLCELLULOSE)、MAGNESIUM STEA…</td><td>1986/01/16</td></tr><tr><td>衛署藥輸字第002868號</td><td>製錠輔助劑克型</td><td>CARMELLOSE (CARBOXYMETHYLCELLULOSE)、CELLULOSE、STARCH、MAGNESI…</td><td>1986/06/03</td></tr><tr><td>衛署藥輸字第006893號</td><td>矽酸</td><td>SILICON DIOXIDE (SILICA GEL)</td><td>1992/07/09</td></tr><tr><td>衛署藥輸字第011812號</td><td>適胃爽錠</td><td>CALCIUM CARBONATE HEAVY、SILICON DIOXIDE COLLOIDAL(COLLOIDAL…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第012366號</td><td>矽凝膠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第013408號</td><td>利護腸錠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)、SIMETHICONE (ACT…</td><td>1988/03/12</td></tr><tr><td>衛署藥輸字第013587號</td><td>舒汝胃凝膠</td><td>CARMELLOSE SODIUM (CMC SOD.)(CELLULOSE GUM SOD.)、ALUMINUM HY…</td><td>1991/11/26</td></tr><tr><td>衛署藥輸字第014632號</td><td>製錠輔助劑Ｄ型</td><td>SILICON DIOXIDE (SILICA GEL)、CARMELLOSE (CARBOXYMETHYLCELLUL…</td><td>1990/06/23</td></tr><tr><td>衛署藥輸字第016328號</td><td>利護腸錠</td><td>SIMETHICONE (ACTIVE DIMETHICONE)、SILICON DIOXIDE COLLOIDAL(C…</td><td>1990/07/04</td></tr><tr><td>衛署藥輸字第017858號</td><td>利護腸錠</td><td>SIMETHICONE (ACTIVE DIMETHICONE)、CALCIUM ARACHINATE、SILICON…</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017958號</td><td>製錠輔助劑Ｄ型</td><td>CELLULOSE、CARMELLOSE SODIUM (CMC SOD.)(CELLULOSE GUM SOD.)、M…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018615號</td><td>"富田" 二矽酸鋁鎂</td><td>ALUMINUM OXIDE (ALUMINA)、SILICON DIOXIDE (SILICA GEL)、MAGNES…</td><td>2017/04/12</td></tr><tr><td>衛署藥輸字第022252號</td><td>高品安利納華陀錠</td><td>SILICON DIOXIDE HYDRATED、RETINOL PALMITATE、GELATIN、TOCOPHERO…</td><td>2010/09/21</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
-（註：Silicon Dioxide 多作為複方成分或賦形劑使用）
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-- **一般安全性**：
-  - 作為賦形劑使用時安全性良好
-  - 口服矽酸類制酸劑長期使用需監測電解質平衡
+- **知識圖譜標示的潛在禁忌疾病**（來自 TxGNN 知識圖譜的藥物－疾病禁忌關聯，並非仿單文字）：腎臟病、輸尿管積膿、鬱血性心衰竭、腹瀉性疾病、慢性腹瀉、便祕、低磷血症、腸道阻塞（糞便嵌塞）、痔瘡。
+  這些多與含鋁、鎂的制酸複方有關，實際使用前仍須對照個別產品仿單。
 
-- **藥物交互作用**：
-  - 無已知重大藥物交互作用
-
-安全性資訊請參考原廠仿單。
+其餘警語、禁忌與藥物交互作用資料，請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：可進一步探索**
+**決策：Hold**
 
 **理由：**
-TxGNN 預測的消化性潰瘍適應症與 Silicon Dioxide 相關化合物的制酸及黏膜保護作用機轉相符。
-文獻顯示矽酸類化合物在胃腸道保護領域有應用潛力，且最新研究顯示中空介孔矽奈米粒子
-可作為胃潰瘍藥物遞送的載體。
+- 預測分數雖高，但沒有任何臨床試驗或文獻佐證，證據等級僅為 L5，且缺乏作用機轉資料。
+- 二氧化矽最多只可能緩解酸相關症狀，無證據顯示能治療潰瘍本身；穿孔等急性併發症更無合理的治療角色。
 
 **若要推進需要：**
-- 釐清 Silicon Dioxide 與含矽酸鹽制酸劑的作用差異
-- 針對胃潰瘍保護作用的臨床前研究
-- 探索矽奈米粒子作為藥物遞送載體的臨床可行性
-- 評估長期口服安全性
+- 補齊 DrugBank 的作用機轉資料，釐清二氧化矽本身（而非複方中其他制酸成分）的貢獻。
+- 進行系統性文獻搜尋，確認是否有制酸或吸著作用與潰瘍症狀緩解的臨床資料。
+- 若要發展，應將目標限縮為「症狀緩解」而非「潰瘍治療」，並以含二氧化矽的現有制酸複方為對象設計研究。
+- 針對知識圖譜標示的禁忌族群（如腎臟病、心衰竭、便祕或腸阻塞）建立安全性評估。
 
 <!-- review:begin log -->
 

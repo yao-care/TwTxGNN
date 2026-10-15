@@ -2,7 +2,7 @@
 layout: default
 title: Daptomycin
 parent: 中證據等級 (L3-L4)
-nav_order: 75
+nav_order: 79
 evidence_level: L4
 indication_count: 10
 ---
@@ -29,61 +29,53 @@ indication_count: 10
 
 </div>
 
-# Daptomycin：從革蘭氏陽性菌感染到骨關節炎
+# Daptomycin：從複雜性皮膚感染與菌血症到骨關節炎
 
 ## 一句話總結
 
-Daptomycin 是核准用於治療複雜性皮膚和皮膚組織感染、*S. aureus* 菌血症及右側感染性心內膜炎的環脂肽類抗生素。TxGNN 模型預測它可能對**骨關節炎 (Osteoarthritis)** 有效，目前有 **0 個臨床試驗**和 **9 篇相關文獻**，但需特別注意：現有文獻主要描述 Daptomycin 的抗菌用途（治療人工關節感染），而非直接針對骨關節炎的疾病修飾療效，兩者有本質差異。
-
----
+Daptomycin 是環狀脂肽類抗生素，原本用於治療革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染（cSSSI）及金黃色葡萄球菌菌血症。
+TxGNN 模型預測它可能對**骨關節炎 (osteoarthritis)** 有效，但目前**沒有臨床試驗**，文獻僅有 10 篇，且多數談的是骨關節「感染」而非退化性骨關節炎，因此證據相當薄弱。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 抗生素 |
-| 預測新適應症 | 骨關節炎 (Osteoarthritis) |
+| 原適應症 | 成人及兒童（1至17歲）革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染（cSSSI）；成人金黃色葡萄球菌菌血症（含右側感染性心內膜炎）；兒童金黃色葡萄球菌菌血症 |
+| 預測新適應症 | 骨關節炎 (osteoarthritis) |
 | TxGNN 預測分數 | 99.86% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 6 張（有效單方 5／有效複方 0／已註銷 1） |
+| 許可證數 | 5 張（有效單方 4／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
-
----
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Daptomycin 是環脂肽類（cyclic lipopeptide）抗生素，其抗菌活性主要源自對細菌細胞膜的鈣離子依賴性去極化作用，破壞細菌細胞完整性，對多數革蘭氏陽性菌（包含 MRSA）具強效殺菌活性。其在皮膚感染與菌血症中的療效已充分被臨床驗證。
+目前缺乏詳細的作用機轉資料。已知 Daptomycin 是環狀脂肽類抗生素，可使革蘭氏陽性菌的細胞膜去極化而殺菌。這是抗菌作用，與退化性骨關節炎的病理（軟骨退化、關節慢性發炎）沒有直接關聯。
 
-革蘭氏陽性菌（尤其 *S. aureus*）感染可引發敗血性關節炎及人工關節植入後感染（Periprosthetic Joint Infection, PJI），骨關節炎患者因關節結構改變及手術治療（如關節置換）而為易感族群——這可能是 TxGNN 知識圖譜將 Daptomycin 與骨關節炎連結的背景脈絡。然而，退化性骨關節炎以軟骨退化與慢性低度炎症為主要病理機轉，與感染性關節炎有本質差異，Daptomycin 對 OA 本身無已知直接的疾病修飾機轉。
+模型給出高分，較可能是「疾病標籤重疊」所致：文獻中的 Daptomycin 研究主要是骨關節感染（如人工關節感染、骨髓炎），檢索時被歸到「osteoarthritis」相關詞彙。這些研究支持的是**感染性**骨關節疾病的治療，不能推論到**退化性**骨關節炎。
 
-值得參考的是，TxGNN 排名第 2 的預測適應症——**類風濕性關節炎（Rheumatoid Arthritis）**——有 2025 年發表的兩篇動物模型研究（PMID: 39571268、40923559）顯示，Daptomycin 可透過抑制 NF-κB 信號通路、下調 IL-1β 與 TNF-α 等促炎細胞激素，緩解膠原蛋白誘導型關節炎症狀。此抗炎機轉與 RA 的核心病理重疊，生物學可信度較 OA 預測更高，若考慮再利用研究，RA 方向更值得優先評估。
-
----
+值得留意的是，同一份預測清單中排名第 2 的**類風濕性關節炎**有 2025 年的動物研究（膠原誘導關節炎模型），顯示 Daptomycin 可能透過抑制發炎細胞激素與 NF-κB 路徑產生抗發炎作用。但這僅是動物證據，且不屬於本報告主要預測的骨關節炎。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
-> **重要說明**：以下文獻均以 Daptomycin 的**抗菌**用途（治療人工關節感染、骨關節相關感染）為主，並非針對骨關節炎疾病本身的治療或疾病修飾研究，解讀時需審慎區分。
-
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|------|------|------|---------|
-| [23312602](https://pubmed.ncbi.nlm.nih.gov/23312602/) | 2013 | Review | Int J Antimicrob Agents | EIN 問卷調查：成人人工關節感染抗生素管理現況，調查 556 位感染科醫師的用藥偏好 |
-| [17999973](https://pubmed.ncbi.nlm.nih.gov/17999973/) | 2008 | Cohort | J Antimicrob Chemother | 評估 Daptomycin 與標準療法用於 S. aureus 菌血症合併骨關節感染的臨床結果 |
-| [23519823](https://pubmed.ncbi.nlm.nih.gov/23519823/) | 2013 | Cohort | Int Orthop | 高劑量 Daptomycin 合併 Rifampicin 治療各類革蘭氏陽性骨關節感染的安全性與療效評估 |
-| [21477701](https://pubmed.ncbi.nlm.nih.gov/21477701/) | 2010 | Cohort | Medicina Clinica | 西班牙 EU-CORE 資料庫 Daptomycin 使用經驗報告，涵蓋骨關節感染族群 |
-| [25650692](https://pubmed.ncbi.nlm.nih.gov/25650692/) | 2015 | Cohort | Surgical Infections | 骨關節感染葡萄球菌十年藥敏趨勢分析，為抗生素選擇提供參考 |
-| [26235888](https://pubmed.ncbi.nlm.nih.gov/26235888/) | 2015 | Cohort | Int J Antimicrob Agents | 高劑量 Daptomycin（>6 mg/kg）治療複雜骨關節及植入物相關感染的療效與安全性 |
-| [22511636](https://pubmed.ncbi.nlm.nih.gov/22511636/) | 2012 | Case series | J Antimicrob Chemother | Daptomycin 治療髖關節及膝關節人工關節感染的臨床療效與安全性經驗 |
-| [32206362](https://pubmed.ncbi.nlm.nih.gov/32206362/) | 2020 | Case series | Case Rep Orthop | 骨關節炎患者轉介全膝關節置換術，術前發現 Corynebacterium striatum 化膿性關節炎案例報告 |
-| [22854340](https://pubmed.ncbi.nlm.nih.gov/22854340/) | 2012 | In vitro | The Journal of Antibiotics | 人工關節感染分離菌株（S. aureus、S. epidermidis）的體外 Daptomycin 藥敏試驗 |
+|------|-----|------|------|---------|
+| [23519823](https://pubmed.ncbi.nlm.nih.gov/23519823/) | 2013 | 世代研究 | International Orthopaedics | 評估高劑量 Daptomycin 併用 rifampicin 治療革蘭氏陽性菌骨關節感染的安全性與療效 |
+| [17999973](https://pubmed.ncbi.nlm.nih.gov/17999973/) | 2008 | 世代研究 | J Antimicrob Chemother | 比較 Daptomycin 與標準治療用於金黃色葡萄球菌菌血症相關骨關節感染的結果 |
+| [26235888](https://pubmed.ncbi.nlm.nih.gov/26235888/) | 2015 | 世代研究 | Int J Antimicrob Agents | 高劑量（>6 mg/kg）Daptomycin 用於複雜骨關節及植入物相關感染 |
+| [21477701](https://pubmed.ncbi.nlm.nih.gov/21477701/) | 2010 | 世代研究 | Medicina Clinica | 西班牙 EU-CORE 資料庫，Daptomycin 於各類革蘭氏陽性菌感染的實際使用結果 |
+| [25650692](https://pubmed.ncbi.nlm.nih.gov/25650692/) | 2015 | 世代研究 | Surgical Infections | 十年間骨關節感染葡萄球菌的微生物特性變化 |
+| [22511636](https://pubmed.ncbi.nlm.nih.gov/22511636/) | 2012 | 病例系列 | J Antimicrob Chemother | Daptomycin 用於膝、髖人工關節感染的臨床經驗 |
+| [23312602](https://pubmed.ncbi.nlm.nih.gov/23312602/) | 2013 | 調查/綜述 | Int J Antimicrob Agents | 美國感染症醫師處理人工關節感染的用藥偏好調查 |
+| [22854340](https://pubmed.ncbi.nlm.nih.gov/22854340/) | 2012 | 體外研究 | J Antibiotics | 人工關節感染分離菌株的體外藥物感受性 |
+| [32206362](https://pubmed.ncbi.nlm.nih.gov/32206362/) | 2020 | 病例報告 | Case Reports in Orthopedics | 一名疑似骨關節炎病人，實為慢性紋狀棒狀桿菌化膿性關節炎 |
+| [41853106](https://pubmed.ncbi.nlm.nih.gov/41853106/) | 2026 | 病例報告 | ASM Case Reports | 原生關節滑液分離出 Corynebacterium propinquum 的化膿性關節炎 |
 
----
+以上文獻皆屬骨關節感染或微生物學研究，沒有任何一篇評估 Daptomycin 對退化性骨關節炎的療效。
 
 ## 台灣上市資訊
 
@@ -91,14 +83,13 @@ Daptomycin 是核准用於治療複雜性皮膚和皮膚組織感染、*S. aureu
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Daptomycin 的不重複許可證共 **6 張**：有效單方 5 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Daptomycin 的不重複許可證共 **5 張**：有效單方 4 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（5 張）
+**有效・單方**（4 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
-| 衛署藥輸字第024565號 | 救必辛注射劑 | 凍晶注射劑 | 台灣東洋藥品工業股份有限公司 | 2031/11/14 | 1. 治療成人及兒童（1至17歲）病人因下列感受性革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染 (cSSSI)：Staphylococcus aureus（包括methicillin… |
-| 衛部藥製字第062130號 | 救必優凍晶注射劑350毫克 | 凍晶注射劑 | 台灣東洋藥品工業股份有限公司 | 2031/03/06 | 1.治療成人及兒童（1至17歲）病人因下列感受性革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染(cSSSI):Staphylococcus aureus (包括 methicillin… |
+| 衛署藥輸字第024565號 | 救必辛注射劑 | 凍晶注射劑 | 台灣東洋藥品工業股份有限公司 | 2026/11/14 | 1. 治療成人及兒童（1至17歲）病人因下列感受性革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染 (cSSSI)：Staphylococcus aureus（包括methicillin… |
 | 衛部藥輸字第028622號 | 安托幸 凍晶注射劑 500毫克 | 凍晶注射劑 | 佑立康藥業生技有限公司 | 2028/11/30 | 1. 治療成人及兒童（1至17歲）病人因下列感受性革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染 (cSSSI)：Staphylococcus aureus（包括methicillin… |
 | 衛部藥輸字第028939號 | 欣達效注射劑 | 凍晶注射劑 | 意欣國際有限公司 | 2030/04/10 | 1. 治療成人及兒童（1至17歲）病人因下列感受性革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染 (cSSSI)： Staphylococcus aureus（包括methicilli… |
 | 衛部藥陸輸字第001072號 | 癸醯環肽絲菌素 | （粉） | 誠品貿易股份有限公司 | 2027/10/07 | 抗生素 |
@@ -108,43 +99,33 @@ Daptomycin 是核准用於治療複雜性皮膚和皮膚組織感染、*S. aureu
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-**藥物交互作用（共 12 項，中度 10 項、輕微 2 項）**
+- **藥物交互作用**：共查得 12 項交互作用，多為中度，主要包括：
+  - 他汀類（Rosuvastatin、Simvastatin）：中度
+  - 非類固醇消炎藥（Ibuprofen、Diclofenac、Celecoxib）：中度
+  - Cyclosporine、Mycophenolic acid、Ethinylestradiol、Picosulfuric acid、Iobenguane (I-131)：中度
+  - Warfarin、Dicoumarol：輕度
+- **知識圖譜標示的禁忌相關疾病**（非仿單文字）：肌病變、骨骼肌疾病、家族性週期性麻痺、腹瀉性疾病、困難梭菌結腸炎、新生兒壞死性腸炎、嗜酸性肺炎、肺嗜酸性球增多症、周邊神經病變。
+- 文獻中也有 Daptomycin 引起橫紋肌溶解的病例（併發急性痛風性關節炎），顯示肌肉相關安全性須留意，特別是與他汀類併用時。
 
-| 交互作用藥物 | 嚴重程度 | 臨床說明 |
-|------------|---------|---------|
-| Rosuvastatin | 中度 | Statin 類藥物可能增加 Daptomycin 引發肌肉病變（myopathy / rhabdomyolysis）風險，建議監測 CK 值 |
-| Simvastatin | 中度 | 同上；骨關節炎患者常合併使用 Statin，需特別注意 |
-| Ibuprofen | 中度 | NSAIDs 可能影響 Daptomycin 腎臟清除率；骨關節炎止痛常用藥 |
-| Diclofenac | 中度 | 同上；與 Daptomycin 合用需監測腎功能 |
-| Celecoxib | 中度 | COX-2 抑制劑，骨關節炎常用，交互作用機制類似其他 NSAIDs |
-| Cyclosporine | 中度 | 免疫抑制劑，合併使用需監測腎功能及藥物濃度 |
-| Mycophenolic acid | 中度 | 免疫調節藥物，合用需注意感染風險與藥物濃度變化 |
-| Ethinylestradiol | 中度 | 合用需注意，機制尚待確認 |
-| Picosulfuric acid | 中度 | 電解質失衡可能影響 Daptomycin 的鈣離子依賴性藥效 |
-| Iobenguane (I-131) | 中度 | 核醫診斷/治療用放射性藥物，合用需謹慎 |
-| Warfarin | 輕微 | 可能輕微影響 INR，建議監測凝血指標 |
-| Dicoumarol | 輕微 | 同類抗凝血劑，輕微交互作用 |
-
-> **特別提醒**：骨關節炎患者常合併使用 NSAIDs（止痛）及 Statin（心血管保護），這兩類藥物均與 Daptomycin 有中度交互作用，分別涉及腎功能影響及肌肉毒性風險，在此族群使用 Daptomycin 需格外審慎。
-
----
+其餘警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-TxGNN 雖以高分（99.86%）預測骨關節炎，但現有 9 篇文獻均聚焦於 Daptomycin 的抗菌用途（治療人工關節感染），而非針對骨關節炎本身的疾病修飾療效；目前無任何臨床試驗登記，直接病理機轉連結薄弱。此外，骨關節炎族群常用藥（NSAIDs、Statin）均與 Daptomycin 存在中度交互作用，安全性顧慮不容忽視。
+- 預測分數雖高，但沒有任何臨床試驗，文獻皆為骨關節「感染」研究，無法支持退化性骨關節炎的療效。作用機轉（膜去極化抗菌）與疾病病理缺乏合理連結，高分較可能來自疾病標籤重疊。
+- 安全性上，肌肉毒性風險與骨關節炎常用的 NSAID、他汀類存在交互作用顧慮，在無療效證據下不宜推進。
 
 **若要推進需要：**
-- 取得 Daptomycin 詳細作用機轉資料（MOA），評估是否存在抗炎或軟骨保護相關機轉
-- 優先評估 TxGNN 排名第 2 的**類風濕性關節炎**方向（已有 2025 年動物模型研究支持抗炎機轉），生物學可信度更高
-- 設計體外/動物模型研究，驗證 Daptomycin 對骨關節炎炎症（如 IL-1β 誘導軟骨細胞模型）的直接效果
-- 評估骨關節炎族群中 Daptomycin 與 NSAIDs/Statin 合用的安全性窗口
+- 補齊 Daptomycin 的作用機轉資料，並釐清與退化性骨關節炎病理的關聯。
+- 先以細胞或動物的骨關節炎模型驗證抗發炎或軟骨保護效果。
+- 若要探索免疫調節方向，類風濕性關節炎（已有膠原誘導關節炎動物證據）可能是較合理的研究問題，但仍屬早期階段。
+- 若仍有興趣於骨關節領域，應將「骨關節感染」與「骨關節炎」明確區分，前者本就屬於抗生素的既有用途範疇。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

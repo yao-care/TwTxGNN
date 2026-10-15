@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Carisoprodol
-parent: 僅模型預測 (L5)
-nav_order: 54
-evidence_level: L5
+parent: 中證據等級 (L3-L4)
+nav_order: 56
+evidence_level: L4
 indication_count: 1
 ---
 
 # Carisoprodol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L4** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,23 +29,23 @@ indication_count: 1
 
 </div>
 
-# Carisoprodol：從肌肉鬆弛到失眠的潛在應用
+# Carisoprodol：從肌肉異常緊張到失眠
 
 ## 一句話總結
 
-Carisoprodol 是中樞性肌肉鬆弛劑，主要用於緩解肌肉痙攣和疼痛。
-TxGNN 模型預測它可能對**失眠 (insomnia)** 有效，
-目前有 **1 篇文獻**間接支持其鎮靜作用與睡眠的關聯。
+Carisoprodol（卡利索普若多）是一種中樞性骨骼肌鬆弛劑，原本用於肌肉緊張、痙攣及相關疼痛症狀。
+TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
+但目前**沒有臨床試驗**，僅有 **1 篇間接相關文獻**（夜間腿抽筋的回顧），證據相當薄弱。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 焦慮緊張症、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛 |
-| 預測新適應症 | 失眠 (insomnia) |
+| 原適應症 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛 |
+| 預測新適應症 | 失眠 (Insomnia) |
 | TxGNN 預測分數 | 99.02% |
-| 證據等級 | L5 |
-| 台灣上市 | 已上市 |
+| 證據等級 | L4 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 37 張（有效單方 12／有效複方 9／已註銷 16） |
 | 建議決策 | Hold |
 
@@ -69,26 +69,21 @@ TxGNN 模型預測它可能對**失眠 (insomnia)** 有效，
 
 ## 為什麼這個預測合理？
 
-Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測適應症的關聯：
+目前缺乏詳細的作用機轉資料。根據已知資訊，Carisoprodol 是中樞性肌肉鬆弛劑，其活性代謝物 meprobamate 具有 GABA-A 調節作用與類巴比妥的鎮靜效果。
 
-1. **中樞神經系統抑制作用**：Carisoprodol 在體內部分代謝為 meprobamate（一種具有鎮靜作用的代謝物），可能影響睡眠
-2. **GABA 受體調節**：其代謝物 meprobamate 具有類似巴比妥類藥物的 GABA-A 受體調節作用
-3. **肌肉痙攣與失眠的關聯**：文獻提到夜間腿部痙攣可導致嚴重失眠，而 carisoprodol 用於緩解肌肉痙攣
+原適應症多為肌肉緊張與疼痛，台灣部分許可證也列有「焦慮緊張症」，並有一張許可證註明「骨骼肌鬆弛、鎮靜」。鎮靜作用在機轉上可能有助於入睡，這是預測合理的主要依據。
 
-然而，這一預測的臨床相關性有限，主要因為：
-- 缺乏直接針對失眠適應症的臨床試驗
-- 存在濫用和依賴性風險
-- 有更安全有效的失眠治療選擇
+不過，這個推論目前仍屬假設。已取得的唯一文獻談的是夜間腿抽筋可能造成嚴重失眠，屬於間接證據，並未直接評估 Carisoprodol 對失眠的療效。
 
 ## 臨床試驗證據
 
-目前無直接針對 carisoprodol 治療失眠的臨床試驗。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Review | American Family Physician | 探討夜間腿部痙攣導致嚴重失眠的問題，提及 carisoprodol 等肌肉鬆弛劑用於緩解症狀 |
+| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Review | American Family Physician | 成人夜間腿抽筋很常見，可造成嚴重失眠，機轉不明，可能與肌肉疲勞和神經功能異常有關。此文並未直接評估 Carisoprodol 治療失眠 |
 
 ## 台灣上市資訊
 
@@ -105,9 +100,9 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 | 衛署藥製字第006638號 | 筋健錠 | 錠劑 | 太田藥品股份有限公司 | 2027/06/10 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛 |
 | 衛署藥製字第029866號 | 比拉寧膠囊３５０公絲（卡利索普杜） | 膠囊劑 | 黃氏製藥股份有限公司 | 2028/05/25 | 腰背痛、四肢痛、筋硬痛、運動後肌肉痛、五十肩、腳跟痛或筋痙攣、筋硬後帶來之異常緊張之疾患 |
 | 衛署藥製字第050152號 | 健佳力錠 350 毫克 | 錠劑 | 健亞生物科技股份有限公司 | 2029/05/26 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。 |
-| 衛署藥製字第055961號 | 卡力舒錠250毫克 | 錠劑 | 健亞生物科技股份有限公司 | 2031/03/14 | 焦慮緊張症, 經常緊張, 肌炎, 椎間神經痛, 坐骨神經痛, 頸痛, 風濕性關節炎, 骨關節炎, 肌肉僵硬, 肌肉痛. |
-| 衛署藥輸字第024478號 | 卡利索普若多"佛萊明" | （粉） | 仁友興業股份有限公司 | 2026/07/06 | 骨骼肌弛緩劑。 |
-| 衛署藥輸字第025461號 | 卡利索普若多 | （粉） | 新雙隆生技股份有限公司 | 2031/07/18 | 骨骼肌弛緩劑。 |
+| 衛署藥製字第055961號 | 卡力舒錠250毫克 | 錠劑 | 健亞生物科技股份有限公司 | 2026/03/14 | 焦慮緊張症, 經常緊張, 肌炎, 椎間神經痛, 坐骨神經痛, 頸痛, 風濕性關節炎, 骨關節炎, 肌肉僵硬, 肌肉痛. |
+| 衛署藥輸字第024478號 | 卡利索普若多"佛萊明" | （粉） | 仁友興業有限公司 | 2026/07/06 | 骨骼肌弛緩劑。 |
+| 衛署藥輸字第025461號 | 卡利索普若多 | （粉） | 新雙隆生技股份有限公司 | 2026/07/18 | 骨骼肌弛緩劑。 |
 | 衛署藥輸字第025611號 | 卡利索普若多 | （粉） | 新雙隆生技股份有限公司 | 2027/01/17 | 骨骼肌弛緩劑 |
 | 衛部藥製字第058030號 | "元宙"肌舒達錠 | 錠劑 | 元宙化學製藥股份有限公司 | 2028/07/31 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。 |
 | 衛部藥製字第058244號 | "元宙"緩僵痛錠 | 錠劑 | 元宙化學製藥股份有限公司 | 2029/04/02 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。 |
@@ -122,50 +117,43 @@ Carisoprodol 是一種中樞作用的肌肉鬆弛劑，其作用機轉與預測�
 | 衛署藥製字第029037號 | 如來舒膠囊 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 膠囊劑 | 骨骼肌肉之異常緊張（包括外傷、扭傷、骨折、脫臼、肌炎、風溼性）所引起之各種症狀、如酸痛、痙攣、強直、僵硬 |
 | 衛署藥製字第029090號 | 痛福錠 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 神經痛、關節痛、腰痛、背痛、扭傷、肌肉痛、脊椎炎、肌肉痙攣、關節周圍炎、斜頸 |
 | 衛署藥製字第046682號 | "強生"肌舒錠 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如痠痛、痙攣、強直、僵硬。 |
-| 衛署藥製字第047877號 | 萊世膠囊 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 膠囊劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬等。 |
-| 衛署藥製字第047884號 | 妥痛膠囊 | GELATIN、GELATIN、CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMO… | 膠囊劑 | 骨骼肌肉異常緊張包括外傷、扭傷、骨折、脫臼、肌炎、風濕性所引起之各種症狀，如酸痛、痙攣、強直、僵硬等。 |
-| 衛署藥製字第048320號 | "元宙" 肌力康錠 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
+| 衛署藥製字第047877號 | 萊世膠囊 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 膠囊劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬等。 |
+| 衛署藥製字第047884號 | 妥痛膠囊 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL、GELATIN、GELAT… | 膠囊劑 | 骨骼肌肉異常緊張包括外傷、扭傷、骨折、脫臼、肌炎、風濕性所引起之各種症狀，如酸痛、痙攣、強直、僵硬等。 |
+| 衛署藥製字第048320號 | "元宙" 肌力康錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
 | 衛署藥製字第057404號 | "杏輝"弛筋定錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
 | 衛部藥製字第058048號 | 肌倍康錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
-| 衛部藥製字第060185號 | "應元"舒穩錠 | CARISOPRODOL、CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 頸肩腕症候群、肩關節周圍炎、變形性脊椎症之肌肉鬆弛劑。 |
+| 衛部藥製字第060185號 | "應元"舒穩錠 | CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 頸肩腕症候群、肩關節周圍炎、變形性脊椎症之肌肉鬆弛劑。 |
 
 <details><summary><strong>已註銷</strong>（16 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000097號</td><td>司吾朗錠</td><td>PHENACETIN (ACETOPHENETIDIN)、CARISOPRODOL、CAFFEINE ANHYDROUS</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第012220號</td><td>"三東"福濕膠囊</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>2018/10/17</td></tr><tr><td>衛署藥製字第018330號</td><td>炎制錠</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第047963號</td><td>"中化合成生技" 卡利索普若多</td><td>CARISOPRODOL</td><td>2015/10/27</td></tr><tr><td>衛署藥製字第057250號</td><td>克力舒錠350毫克</td><td>CARISOPRODOL</td><td>2023/08/08</td></tr><tr><td>衛署藥輸字第000450號</td><td>卡利索普若多</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005066號</td><td>丙基氨基甲酸鹽</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006031號</td><td>Ｎ－異丙基－２－甲基－２－丙基－１，３－丙二醇二氨基甲酸酯</td><td>CARISOPRODOL</td><td>1999/12/02</td></tr><tr><td>衛署藥輸字第006827號</td><td>卡利異普魯杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第008440號</td><td>卡利索普魯道</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第011016號</td><td>科發克痛錠</td><td>CHLORTHENOXAZIN、CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZO…</td><td>1987/08/20</td></tr><tr><td>衛署藥輸字第011891號</td><td>可立舒錠３５０公絲</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第011927號</td><td>卡利異普魯杜粉劑</td><td>CARISOPRODOL</td><td>2022/06/21</td></tr><tr><td>衛署藥輸字第012106號</td><td>佳立舒錠</td><td>CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第012447號</td><td>卡利索普洛杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013763號</td><td>卡力蘇波粉劑</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000097號</td><td>司吾朗錠</td><td>PHENACETIN (ACETOPHENETIDIN)、CARISOPRODOL、CAFFEINE ANHYDROUS</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第012220號</td><td>"三東"福濕膠囊</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>2018/10/17</td></tr><tr><td>衛署藥製字第018330號</td><td>炎制錠</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第047963號</td><td>"中化合成生技" 卡利索普若多</td><td>CARISOPRODOL</td><td>2015/10/27</td></tr><tr><td>衛署藥製字第057250號</td><td>克力舒錠350毫克</td><td>CARISOPRODOL</td><td>2023/08/08</td></tr><tr><td>衛署藥輸字第000450號</td><td>卡利索普若多</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005066號</td><td>丙基氨基甲酸鹽</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006031號</td><td>Ｎ－異丙基－２－甲基－２－丙基－１，３－丙二醇二氨基甲酸酯</td><td>CARISOPRODOL</td><td>1999/12/02</td></tr><tr><td>衛署藥輸字第006827號</td><td>卡利異普魯杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第008440號</td><td>卡利索普魯道</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第011016號</td><td>科發克痛錠</td><td>CHLORTHENOXAZIN、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)、CARISOPRO…</td><td>1987/08/20</td></tr><tr><td>衛署藥輸字第011891號</td><td>可立舒錠３５０公絲</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第011927號</td><td>卡利異普魯杜粉劑</td><td>CARISOPRODOL</td><td>2022/06/21</td></tr><tr><td>衛署藥輸字第012106號</td><td>佳立舒錠</td><td>CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第012447號</td><td>卡利索普洛杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013763號</td><td>卡力蘇波粉劑</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ## 安全性考量
 
-**重要警語**：
-- Carisoprodol 具有濫用和依賴性風險，在部分國家已被列為管制藥品
-- 代謝物 meprobamate 可能累積並導致過度鎮靜
-- 不建議長期使用，通常限於 2-3 週短期治療
+- **藥物交互作用**：共有 158 筆已知交互作用。主要包括：
+  - 重大（Major）：Morphine、Morphine (liposomal)，與其他中樞抑制劑併用須特別留意
+  - 中度（Moderate）：Dronabinol、Metoclopramide、Nabilone、Opium、Sibutramine、Difenoxin、Diphenoxylate
+- **知識圖譜標示的潛在禁忌疾病**（來自知識圖譜的藥物與疾病關聯，非仿單內容）：癲癇、腎臟疾病、肝臟疾病、膽囊疾病、血小板低下、甲狀腺功能低下、消化性潰瘍、發炎性腸道疾病、良性攝護腺肥大、低血壓、痛風、物質濫用/依賴、血友病、貧血、呼吸衰竭、心臟傳導疾病、腎上腺功能不全等。實際禁忌請以原廠仿單為準。
+- **其他考量**：此藥有濫用與依賴的潛在風險，用於需長期或睡前使用的失眠情境時須特別審慎。
 
-**藥物交互作用**：
-- 與 Morphine（Major）：可能增強中樞神經系統抑制作用，導致呼吸抑制
-- 與 Morphine (liposomal)（Major）：同上
-- 與 Dronabinol（Moderate）：增強鎮靜作用
-- 與 Nabilone（Moderate）：增強鎮靜作用
-- 與 Opium（Moderate）：可能增強中樞神經系統抑制
-- 與 Metoclopramide（Moderate）：可能增強鎮靜作用
-
-**特殊族群注意事項**：
-- 老年患者：因代謝物累積風險，需謹慎使用
-- 肝功能不全：可能影響藥物代謝
-- 具有藥物濫用史者：不建議使用
+詳細警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-雖然 carisoprodol 的鎮靜作用可能對睡眠有一定影響，但缺乏直接的臨床試驗證據支持其用於失眠治療。此外，該藥物存在濫用風險，且有更安全有效的失眠治療選擇。
+- TxGNN 分數雖高，但沒有任何臨床試驗，唯一文獻也只是間接證據，缺乏作用機轉資料。
+- 藥物有濫用、依賴風險，且有多項重大交互作用，用於失眠的風險效益尚不明確。
 
 **若要推進需要：**
-- 針對失眠適應症的前瞻性臨床試驗
-- 安全性評估，特別是濫用和依賴性風險
-- 與現有失眠治療藥物的比較研究
-- 考慮其他更安全的治療選項
+- 補齊 Carisoprodol 與 meprobamate 的作用機轉資料
+- 搜尋並評估直接探討其助眠效果的臨床研究
+- 與現有失眠治療比較依賴性、鎮靜過度與交互作用風險
+- 如有必要，設計小規模探索性試驗，並建立濫用與依賴的監測計畫
 
 <!-- review:begin log -->
 

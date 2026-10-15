@@ -2,7 +2,7 @@
 layout: default
 title: Hymecromone
 parent: 僅模型預測 (L5)
-nav_order: 129
+nav_order: 140
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,57 +29,43 @@ indication_count: 10
 
 </div>
 
-# Hymecromone：從膽石症到糖尿病腎病
+# Hymecromone：從膽石症與膽囊炎到糖尿病腎病變
 
 ## 一句話總結
 
-Hymecromone（和美克隆）是一種利膽鎮痙藥，原本核准用於膽石症、膽囊炎及膽囊切除後症候群的治療。
-TxGNN 模型預測它可能對**糖尿病腎病 (Diabetic Nephropathy)** 有效，
-但目前**無臨床試驗**且**無相關文獻**直接支持此適應症，預測依據為純模型推論。
-
----
+Hymecromone（和美克隆）原本用於膽石症、膽囊炎等疾病的利膽及鎮痙治療。
+TxGNN 模型預測它可能對**糖尿病腎病變 (Diabetic Nephropathy)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持，證據僅來自模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 利膽、鎮痙劑（膽石症、膽囊炎、膽道阻礙、膽囊切除後症候群） |
-| 預測新適應症 | 糖尿病腎病 (Diabetic Nephropathy) |
+| 原適應症 | 下列諸症之利膽及鎮痙作用：膽石、膽囊炎、膽道阻礙、膽囊切除後症候群 |
+| 預測新適應症 | 糖尿病腎病變 (Diabetic Nephropathy) |
 | TxGNN 預測分數 | 99.85% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 14 張（有效單方 2／有效複方 0／已註銷 12） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（MOA 為 Data Gap）。根據現有研究資訊，Hymecromone 又稱 4-methylumbelliferone（4-MU），為香豆素衍生物。其代謝產物 4-methylumbelliferyl glucuronide（4-MUG）可耗竭 UDP-葡萄糖醛酸（UDP-glucuronic acid），進而抑制透明質酸（hyaluronan, HA）的生合成。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Hymecromone（4-甲基傘形酮，4-methylumbelliferone）在臨床上作為利膽及鎮痙藥使用，用於膽道疾病。
 
-<!-- review:begin hymecromone-udpgla-depletion-2026-10-03 -->
+不過，該藥物已知可抑制玻尿酸（hyaluronan）的合成。玻尿酸在腎臟的異常堆積，與腎纖維化及糖尿病腎臟損傷有關，因此在機轉上存在一個假說性的連結。
 
-> **查核加註（2026-10-03）**：文獻描述的是 4-MU 本身被 UGT 接上葡萄糖醛酸、在這個過程中消耗 UDP-葡萄糖醛酸而抑制透明質酸合成；4-MUG 是反應產物，不是去耗竭 UDP-葡萄糖醛酸的物質。原文保留。依據：[Nagy N, et al. 4-methylumbelliferone treatment and hyaluronan inhibition as a therapeutic strategy in inflammation, autoimmunity, and cancer. Front Immunol. 2015;6:123（Europe PMC 全文，PMC4369655）](https://europepmc.org/article/PMC/PMC4369655)。
+需要注意的是，這個連結目前僅屬推測。本次彙整的資料中沒有臨床試驗或文獻佐證，原始作用機轉資料也缺漏，因此預測只能建立在 TxGNN 分數上。
 
-<!-- review:end hymecromone-udpgla-depletion-2026-10-03 -->
-
-在糖尿病腎病的病理機轉中，透明質酸於腎小管間質大量積聚，促進纖維化與慢性炎症反應，加劇腎臟功能惡化。理論上，Hymecromone 透過抑制透明質酸合成，或可緩解腎臟纖維化與炎症，提供腎臟保護效果。
-
-然而，**此關聯目前僅為機轉推論，無任何臨床或前臨床研究直接支持**。值得注意的是，本次預測排名第 8 的 **1 型糖尿病（Type 1 Diabetes Mellitus）**具有更明確的前臨床機轉基礎——已有 3 篇動物研究顯示抑制透明質酸合成可恢復胰島炎模型的免疫耐受性，證據等級達 L4，可作為後續研究的優先探索方向。
-
----
+此外，排名前 10 的其他預測（如 COL4A1 相關罕見疾病、染色體缺失症候群、痛風、血紅素病變等）多半找不到合理的藥理關聯，很可能是知識圖譜的假象。相對而言，糖尿病腎病變與第 1 型糖尿病（同樣有玻尿酸相關的前臨床假說）是機轉上較有討論空間的方向。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
 目前無相關文獻。
-
----
 
 ## 台灣上市資訊
 
@@ -97,30 +83,29 @@ TxGNN 模型預測它可能對**糖尿病腎病 (Diabetic Nephropathy)** 有效�
 | 衛署藥製字第055889號 | 〝元宙〞安利膽膠囊 | 膠囊劑 | 元宙化學製藥股份有限公司 | 2030/12/23 | 下列諸症之利膽及鎮痙作用：膽石、膽囊炎、膽道阻礙、膽囊切除後症候群。 |
 
 <details><summary><strong>已註銷</strong>（12 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第003962號</td><td>七氫氧四甲基香豆素</td><td>HYMECROMONE (IMECROMONE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006149號</td><td>膽能爽膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第006437號</td><td>趕膽炎膠囊</td><td>ALUMINUM MAGNESIUM SILICATE、HYMECROMONE (IMECROMONE)</td><td>1986/06/21</td></tr><tr><td>衛署藥輸字第006507號</td><td>膽力可定膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第007023號</td><td>益膽膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2014/05/15</td></tr><tr><td>衛署藥輸字第007493號</td><td>可爾膽蒙膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第010217號</td><td>賜康寧軟膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第010616號</td><td>和美克隆</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第011950號</td><td>優克膽膠囊２００公絲</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第015053號</td><td>趕膽炎膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015334號</td><td>利樂道膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2013/11/26</td></tr><tr><td>衛署藥陸輸字第000135號</td><td>和美克隆</td><td>HYMECROMONE (IMECROMONE)</td><td>2013/12/16</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第003962號</td><td>七氫氧四甲基香豆素</td><td>HYMECROMONE (IMECROMONE)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006149號</td><td>膽能爽膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第006437號</td><td>趕膽炎膠囊</td><td>HYMECROMONE (IMECROMONE)、ALUMINUM MAGNESIUM SILICATE</td><td>1986/06/21</td></tr><tr><td>衛署藥輸字第006507號</td><td>膽力可定膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第007023號</td><td>益膽膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2014/05/15</td></tr><tr><td>衛署藥輸字第007493號</td><td>可爾膽蒙膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/14</td></tr><tr><td>衛署藥輸字第010217號</td><td>賜康寧軟膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第010616號</td><td>和美克隆</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第011950號</td><td>優克膽膠囊２００公絲</td><td>HYMECROMONE (IMECROMONE)</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第015053號</td><td>趕膽炎膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015334號</td><td>利樂道膠囊</td><td>HYMECROMONE (IMECROMONE)</td><td>2013/11/26</td></tr><tr><td>衛署藥陸輸字第000135號</td><td>和美克隆</td><td>HYMECROMONE (IMECROMONE)</td><td>2013/12/16</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
 安全性資訊請參考原廠仿單。
-
----
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-TxGNN 預測分數雖高達 99.85%，但糖尿病腎病適應症目前完全缺乏臨床試驗與文獻支持，機轉關聯亦僅為理論推論，不具備推進的實證基礎。
+預測新適應症僅有 TxGNN 模型分數支持，沒有臨床試驗與文獻佐證，證據等級為 L5。玻尿酸合成抑制雖提供了機轉上的假說，但尚未被本次資料驗證。
 
 **若要推進需要：**
-- 補充 Hymecromone 完整作用機轉資料（透過 DrugBank API 查詢 DB07118）
-- 建立糖尿病腎病動物模型的前臨床研究（測試 4-MU 對腎小管纖維化的影響）
-- 優先評估機轉基礎更明確的 **1 型糖尿病（Rank 8，L4 等級）**——已有動物研究支持，可作為更可行的切入點
-- 補全安全性資料（警語、禁忌症），為後續人體試驗設計提供依據
+- 補齊 Hymecromone 的作用機轉資料（MOA），可查詢 DrugBank
+- 系統性檢索 4-甲基傘形酮在糖尿病腎病變、腎纖維化的前臨床與臨床研究
+- 評估膽道用藥劑量下，是否能達到抑制玻尿酸合成所需的腎臟暴露量
+- 取得完整的安全性資料（警語、禁忌、藥物交互作用），並確認長期用於糖尿病族群的安全性
+- 若前臨床證據充分，再規劃概念驗證試驗
 
 <!-- review:begin log -->
 

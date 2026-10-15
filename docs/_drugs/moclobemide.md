@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Moclobemide
-parent: 高證據等級 (L1-L2)
-nav_order: 170
-evidence_level: L2
+parent: 中證據等級 (L3-L4)
+nav_order: 185
+evidence_level: L3
 indication_count: 2
 ---
 
 # Moclobemide
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **2** 個
+證據等級: **L3** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,50 @@ indication_count: 2
 
 </div>
 
-# Moclobemide 藥師筆記
+# Moclobemide：從憂鬱症到懼曠症（Agoraphobia）
 
 ## 一句話總結
 
-Moclobemide 是一種可逆性單胺氧化酶 A 抑制劑（RIMA），TxGNN 預測其對廣場恐懼症有治療潛力，而此預測已獲得多項隨機對照試驗和豐富文獻證據的支持。
-
----
+Moclobemide（嗎氯貝胺）是一種可逆性單胺氧化酶 A 抑制劑（RIMA），原本用於治療憂鬱症與社交畏懼症。
+TxGNN 模型預測它可能對**懼曠症 (Agoraphobia)** 有效，
+目前**無臨床試驗登記**，但有 **10 篇文獻**支持這個方向，其中包含 2 篇 RCT（主要針對合併懼曠症的恐慌症）。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 藥物名稱 | Moclobemide（嗎氯貝胺） |
-| DrugBank ID | DB01171 |
-| 台灣商品名 | 歐蕾思膜衣錠、憂停膜衣錠、憂適解膜衣錠、保鬱舒膜衣錠 |
-| 原核准適應症 | 憂鬱症、社交畏懼症 |
-| 預測新適應症 | 廣場恐懼症、良性陣發性斜頸症 |
-| 最高預測分數 | 0.9943（廣場恐懼症） |
-| 證據等級 | L2（單一 RCT） |
-
----
+| 原適應症 | 抗憂鬱症 |
+| 預測新適應症 | 懼曠症 (Agoraphobia) |
+| TxGNN 預測分數 | 99.43% |
+| 證據等級 | L3 |
+| 台灣上市 | ✓ 已上市 |
+| 許可證數 | 9 張（有效單方 4／有效複方 0／已註銷 5） |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-### 藥理機轉分析
+Moclobemide 是選擇性、可逆性的 MAO-A 抑制劑，可提高突觸間隙的血清素、正腎上腺素與多巴胺濃度。這條單胺路徑也是治療恐慌症合併懼曠症及社交焦慮的抗憂鬱藥物所作用的路徑。（本次整理的資料中沒有詳細的作用機轉欄位，以上是依藥理分類與文獻說明。）
 
-Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過抑制單胺類神經傳導物質的代謝來增加腦內血清素、正腎上腺素和多巴胺濃度。其機轉與預測適應症的關聯：
-
-1. **廣場恐懼症**（TxGNN Score: 0.9943）
-   - 廣場恐懼症常與恐慌症共病
-   - MAO 抑制劑（包括不可逆型和可逆型）在恐慌症治療中有確立療效
-   - 血清素和正腎上腺素系統與焦慮調節密切相關
-   - Moclobemide 相較傳統 MAOI 較安全，無需嚴格飲食限制
-
-2. **良性陣發性斜頸症**（TxGNN Score: 0.9930）
-   - 此為嬰兒期疾病，與抗憂鬱藥物機轉關聯不明
-   - 預測合理性較低
-
----
+原適應症憂鬱症與社交畏懼症，和懼曠症同屬情緒與焦慮相關疾患，常共病且共用部分治療藥物。不過現有證據多來自「恐慌症合併懼曠症」的研究，結果並不一致，對懼曠症本身屬於間接證據。
 
 ## 臨床試驗證據
 
-| 疾病 | 臨床試驗數量 | 最高期別 | 證據等級 |
-|------|-------------|---------|---------|
-| 廣場恐懼症（合併恐慌症） | 多項 RCT | - | L2 |
-| 良性陣發性斜頸症 | 0 | - | L5 |
-
-### 關鍵隨機對照試驗
-
-**Loerch et al. (1999) - PMID: 10448444**
-- 設計：隨機、安慰劑對照試驗
-- 比較：Moclobemide vs 認知行為療法 vs 合併治療 vs 安慰劑
-- 適應症：恐慌症合併廣場恐懼症
-- 結果：確立 Moclobemide 在此適應症的療效
-
-**Kruger & Dahl (1999) - PMID: 10361962**
-- 設計：多中心、雙盲、隨機試驗
-- 比較：Moclobemide 450 mg/day vs Clomipramine 150 mg/day
-- 患者數：135 名恐慌症（含或不含廣場恐懼症）
-- 結果：兩組療效相當，8 週後 49%（Moclobemide）和 53%（Clomipramine）無恐慌發作
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-### 廣場恐懼症/恐慌症相關文獻
-
-| PMID | 標題 | 年份 | 類型 | 證據等級 |
-|------|------|------|------|---------|
-| 10448444 | Randomised placebo-controlled trial of moclobemide and CBT | 1999 | RCT | L2 |
-| 10361962 | Moclobemide vs clomipramine in panic disorder | 1999 | RCT | L2 |
-| 12006898 | Interactive model of therapeutic response in panic disorder | 2002 | RCT | L2 |
-| 28867934 | Treatment of anxiety disorders | 2017 | 綜述 | 參考 |
-| 32002937 | Current and Novel Psychopharmacological Drugs for Anxiety | 2020 | 綜述 | 參考 |
-| 7717094 | Reversible and selective inhibitors of MAO-A | 1995 | 綜述 | 參考 |
-
-**文獻摘要**：
-- 多篇 RCT 證實 Moclobemide 對恐慌症合併廣場恐懼症有效
-- 療效與傳統三環抗鬱劑（clomipramine）相當
-- 相較傳統 MAOI，Moclobemide 的安全性較佳，副作用較少
-- 國際指南將 Moclobemide 列為焦慮症的治療選項之一
-
----
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [10448444](https://pubmed.ncbi.nlm.nih.gov/10448444/) | 1999 | RCT | Br J Psychiatry | 比較 moclobemide、認知行為治療及兩者合併，用於恐慌症合併懼曠症（安慰劑對照） |
+| [10361962](https://pubmed.ncbi.nlm.nih.gov/10361962/) | 1999 | RCT | Eur Arch Psychiatry Clin Neurosci | Moclobemide 450 mg/日與 clomipramine 150 mg/日比較，用於恐慌症（含或不含懼曠症），共 135 位病患 |
+| [28867934](https://pubmed.ncbi.nlm.nih.gov/28867934/) | 2017 | Review | Dialogues Clin Neurosci | 焦慮症（含恐慌症/懼曠症）治療建議，依據指引與統合分析 |
+| [32002937](https://pubmed.ncbi.nlm.nih.gov/32002937/) | 2020 | Review | Adv Exp Med Biol | 焦慮症藥物治療建議，依據指引與系統性回顧 |
+| [7717094](https://pubmed.ncbi.nlm.nih.gov/7717094/) | 1995 | Review | Acta Psychiatr Scand Suppl | RIMA 類藥物回顧，moclobemide 在重度憂鬱症的安慰劑對照試驗中有明確療效 |
+| [8313401](https://pubmed.ncbi.nlm.nih.gov/8313401/) | 1993 | Review | Clin Neuropharmacol | 可逆性 MAO-A 抑制劑用於恐慌症；該試驗為 brofaromine 與 clomipramine 比較 |
+| [16850261](https://pubmed.ncbi.nlm.nih.gov/16850261/) | 2006 | Cohort | Metab Brain Dis | 以 SPECT 比較 citalopram 與 moclobemide 對社交焦慮症腦灌流的影響 |
+| [7954487](https://pubmed.ncbi.nlm.nih.gov/7954487/) | 1994 | Cohort | Clin Neuropharmacol | 35 位社交畏懼症病患開放性先導試驗，300–600 mg/日，恐懼與迴避症狀皆改善 |
+| [12006898](https://pubmed.ncbi.nlm.nih.gov/12006898/) | 2002 | Review | J Clin Psychopharmacol | 以 moclobemide 資料重新分析恐慌症的治療反應模型 |
+| [7892341](https://pubmed.ncbi.nlm.nih.gov/7892341/) | 1995 | Case series | Psychiatr Prax | 難治性恐慌症（含懼曠症）個案，imipramine、moclobemide 合併行為治療後緩解 |
 
 ## 台灣上市資訊
 
@@ -135,66 +96,30 @@ Moclobemide 是選擇性可逆性單胺氧化酶 A（MAO-A）抑制劑，透過�
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
-### 藥物交互作用
+- **藥物交互作用／藥理標的**：本藥作用於單胺氧化酶 A（MAOA）與單胺氧化酶 B（MAOB）。因屬 MAO 抑制劑，合併其他血清素或單胺類藥物時需特別留意，詳細交互作用請查閱仿單。
 
-| 交互作用目標 | 說明 | 來源 |
-|-------------|------|------|
-| Monoamine oxidase A | 藥理作用標靶（抑制） | Guide to Pharmacology |
-| Monoamine oxidase B | 次要作用標靶（弱抑制） | Guide to Pharmacology |
-
-### 主要警告
-
-1. **血清素症候群**
-   - 避免與 SSRI、SNRI、鴉片類藥物（如 tramadol）併用
-   - 轉換藥物時需有足夠的洗出期
-
-2. **食物交互作用**
-   - 相較傳統 MAOI，Moclobemide 對酪胺的敏感性較低
-   - 仍建議避免大量攝取高酪胺食物
-
-3. **特殊族群**
-   - 肝功能不全患者需調整劑量
-   - 老年人可能需較低劑量
-
----
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-### 評估結論
+**決策：Hold**
 
-| 預測適應症 | 證據等級 | 臨床轉譯可行性 | 建議優先順序 |
-|-----------|---------|---------------|-------------|
-| 廣場恐懼症 | L2 | 高 | 強烈建議申請適應症擴增 |
-| 良性陣發性斜頸症 | L5 | 低 | 不建議開發 |
+**理由：**
+- 目前沒有針對懼曠症的臨床試驗，現有 RCT 主要針對恐慌症合併懼曠症，且結果不一致，屬間接證據。
+- 藥物已在台灣上市且用於憂鬱症與社交畏懼症，具安全使用經驗，但新適應症的療效證據尚不足以直接推進。
 
-### 建議
-
-1. **廣場恐懼症（合併恐慌症）**
-   - 多項 RCT 已證實療效，證據充分
-   - 台灣現行適應症僅包含「憂鬱症、社交畏懼症」
-   - **強烈建議**：考慮申請適應症擴增至「恐慌症合併或不合併廣場恐懼症」
-   - 可參考國際指南作為申請依據
-
-2. **治療定位**
-   - 可作為 SSRI/SNRI 治療無效或不耐受時的替代選擇
-   - 相較傳統 MAOI 更安全，更適合門診使用
-
-### 後續行動
-
-- [x] 確認文獻證據（已有多項 RCT 支持）
-- [ ] 評估適應症擴增申請的可行性
-- [ ] 聯繫許可證持有者討論適應症擴增事宜
-- [ ] 準備相關文獻作為申請支持文件
+**若要推進需要：**
+- 針對懼曠症（或恐慌症合併懼曠症）設計的對照試驗，並與現行標準治療（SSRI、認知行為治療）比較
+- 取得詳細的作用機轉資料與完整的警語、禁忌症資訊
+- 評估與其他單胺類藥物併用的交互作用風險及監測計畫
 
 ---
 
-*報告產生日期：2026-02-11*
-*資料來源：TxGNN 預測、ClinicalTrials.gov、PubMed、台灣 FDA*
-
+*備註：排名第二的預測「嬰兒良性陣發性斜頸」僅有模型預測，無任何臨床試驗或文獻，機轉上也找不到與 MAO-A 抑制的明確關聯，且缺乏嬰兒使用資料，建議 Hold。*
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

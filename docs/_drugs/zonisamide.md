@@ -2,7 +2,7 @@
 layout: default
 title: Zonisamide
 parent: 僅模型預測 (L5)
-nav_order: 289
+nav_order: 312
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,13 +29,14 @@ indication_count: 10
 
 </div>
 
-# Zonisamide：從局部癲癇到妥瑞症
+# Zonisamide：從局部癲癇發作到妥瑞氏症
 
 ## 一句話總結
 
-Zonisamide（佐能安）是台灣核准的抗癲癇藥物，原本用於成人局部癲癇發作的單一或輔助治療。
-TxGNN 模型預測它可能對**妥瑞症 (Tourette syndrome)** 有效，
-但目前**無任何臨床試驗**及**無任何文獻**直接支持此方向，預測仍屬純模型推論階段。
+Zonisamide 是一種抗癲癇藥物，原本用於成人局部癲癇發作的單一藥物治療與輔助治療。
+TxGNN 模型預測它可能對**妥瑞氏症 (Tourette syndrome)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測。
+
+> 補充：在所有預測適應症中，證據最完整的是**失神發作癲癇 (absence epilepsy)**（排名第 8，證據等級 L3）。此外，**躁型雙相情感障礙**（排名第 7）有零星文獻，其中包含 zonisamide 誘發躁狂的安全性訊號。本報告主體依排名第 1 的預測撰寫，其他預測在文末另列。
 
 ---
 
@@ -43,8 +44,8 @@ TxGNN 模型預測它可能對**妥瑞症 (Tourette syndrome)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 成人局部癲癇發作（單純性、複雜性、續發型全身性強直-陣攣性發作）之單一或輔助治療 |
-| 預測新適應症 | 妥瑞症 (Tourette syndrome) |
+| 原適應症 | 新診斷成人局部癲癇發作之單一藥物治療及成人局部癲癇發作之輔助治療（單純性局部發作、複雜性局部發作、局部發作續發全身性強直-陣攣發作） |
+| 預測新適應症 | 妥瑞氏症 (Tourette syndrome) |
 | TxGNN 預測分數 | 99.85% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
@@ -55,11 +56,11 @@ TxGNN 模型預測它可能對**妥瑞症 (Tourette syndrome)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏 Zonisamide 的詳細作用機轉（MOA）資料。根據現有藥理學知識，Zonisamide 是一種磺醯胺類抗癲癇藥物，主要透過阻斷電壓依賴性鈉離子通道與 T 型鈣離子通道來穩定神經膜的興奮性，同時具有弱碳酸酐酶抑制活性及輕度 MAO-B 抑制活性，因而也影響多巴胺神經傳導。
+目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位為空）。根據已知藥理特性，zonisamide 可阻斷電壓門控鈉離子通道與 T 型鈣離子通道，並調節 GABA／麩胺酸訊號。
 
-妥瑞症的核心病理機轉涉及**基底核—丘腦—皮質迴路**的異常放電與多巴胺系統失調，導致不自主的抽動與聲音。Zonisamide 的多巴胺神經調節與鈉離子通道阻斷作用，理論上可能抑制此迴路的過度活化，提供了一個機轉上的假設性連結。
+妥瑞氏症與基底核迴路的興奮性失衡有關，因此上述機轉在理論上可能影響抽動症狀。不過，這只是推測性的機轉連結，原適應症（癲癇）與妥瑞氏症在臨床表現上差異很大，本次也沒有檢索到任何試驗或文獻佐證。
 
-然而，此預測完全缺乏臨床前動物試驗或人體研究的支持。模型高分（99.85%）可能反映的是知識圖譜中癲癇與妥瑞症共享的神經迴路節點，而非真正的療效訊號，需審慎解讀。
+另有一個需要留意的訊號：已有文獻回顧討論抗癲癇藥物可能誘發強迫症與抽動症（PMID 36005856），這與預測方向並不一致，後續評估時需特別釐清。
 
 ---
 
@@ -91,29 +92,41 @@ TxGNN 模型預測它可能對**妥瑞症 (Tourette syndrome)** 有效，
 
 <!-- tfda-licenses:end -->
 
+<!-- TFDA_LICENSE_TABLE -->
+
 ---
 
 ## 安全性考量
 
-**藥物交互作用**：資料庫共記錄 **154 個**交互作用，以下列出 Major 等級主要項目：
+**藥物交互作用**：共記錄 154 筆交互作用，其中 Major 等級包括：
+- 抗膽鹼藥物類：Methscopolamine、Hyoscyamine、Atropine、Scopolamine、Glycopyrronium、Clidinium、Dicyclomine、Trospium、Mepenzolate、Propantheline
+- Metformin
 
-| 交互作用藥物 | 嚴重程度 | 說明 |
-|-------------|---------|------|
-| Atropine | Major | 抗膽鹼類交互作用 |
-| Scopolamine | Major | 抗膽鹼類交互作用 |
-| Hyoscyamine | Major | 抗膽鹼類交互作用 |
-| Glycopyrronium | Major | 抗膽鹼類交互作用 |
-| Methscopolamine | Major | 抗膽鹼類交互作用 |
-| Dicyclomine | Major | 抗膽鹼類交互作用 |
-| Trospium | Major | 抗膽鹼類交互作用 |
-| Clidinium | Major | 抗膽鹼類交互作用 |
-| Mepenzolate | Major | 抗膽鹼類交互作用 |
-| Propantheline | Major | 抗膽鹼類交互作用 |
-| Metformin | Major | 代謝交互作用 |
+Moderate 等級包括 Aprepitant、Morphine、Dexamethasone、Cimetidine、Clarithromycin、Dronabinol、Nabilone、Metoclopramide、Miconazole 等。
 
-Moderate 等級交互作用包括：Aprepitant、Morphine、Dexamethasone、Cimetidine、Clarithromycin、Metoclopramide、Miconazole、Dronabinol、Nabilone 等（共 143 筆）。
+**知識圖譜標示的潛在禁忌疾病**（來自 TxGNN 知識圖譜，並非仿單文字，僅供參考）：
+- 腎臟疾病、腎結石、急性尿酸性腎病變
+- 肝臟疾病、膽囊疾病
+- 代謝性酸中毒
+- 嗜中性白血球低下、顆粒球缺乏症
+- 精神疾患（焦慮、精神病性疾患、思覺失調情感性疾患等）
+- 腹瀉性疾病
 
-其他安全性資訊（警語、禁忌症）請參考原廠仿單。
+其餘警語與禁忌症請參考原廠仿單。
+
+---
+
+## 其他預測適應症摘要
+
+| 排名 | 預測適應症 | 分數 | 證據等級 | 重點 | 建議 |
+|------|-----------|------|---------|------|------|
+| 2 | 拔毛症 (trichotillomania) | 99.78% | L5 | 僅有推測性機轉，無證據 | Hold |
+| 3–4, 6 | 高鐵血紅素血症相關（alpha 型、一般型、還原酶缺乏） | 99.5–99.6% | L5 | 未發現合理機轉，疑為純計算預測 | Hold |
+| 5 | 變異型心絞痛 (Prinzmetal angina) | 99.55% | L5 | T 型鈣通道阻斷的理論連結薄弱 | Hold |
+| 7 | 躁型雙相情感障礙 | 99.35% | L4 | 僅有間接回顧與雙相憂鬱開放性試驗報告；另有 zonisamide 誘發躁狂的安全性訊號 | Hold |
+| 8 | 失神發作癲癇 (absence epilepsy) | 99.24% | L3 | 有小型病例系列（如兒童失神發作回顧：45 例中 51.1% 達無發作）及難治性青少年失神癲癇報告；機轉（T 型鈣通道）與已核准用途一致 | Proceed with Guardrails |
+| 9 | 纖維肌痛 (fibromyalgia) | 99.20% | L5 | 唯一試驗（NCT00259636，第 4 期）已撤回、0 人收案 | Hold |
+| 10 | 結膜炎 (conjunctivitis) | 99.16% | L5 | 無治療機轉；磺胺類藥物反而有過敏或眼部反應的安全考量 | Hold |
 
 ---
 
@@ -122,14 +135,15 @@ Moderate 等級交互作用包括：Aprepitant、Morphine、Dexamethasone、Cime
 **決策：Hold**
 
 **理由：**
-TxGNN 雖對妥瑞症給出高達 99.85% 的預測分數，但截至資料截止日（2026-04-25），完全沒有任何臨床試驗或文獻直接探討 Zonisamide 用於妥瑞症，屬最低證據等級（L5）。此外，目前亦缺乏詳細的 MOA 資料，機轉連結僅屬理論推測，現階段不宜推進。
+- 針對排名第 1 的妥瑞氏症，目前僅有模型預測，沒有試驗或文獻佐證，機轉連結也只是推測，證據等級為 L5。
+- 在所有預測中，只有失神發作癲癇具備較實質的支持（L3，建議 Proceed with Guardrails），但它與原適應症同屬癲癇範疇，嚴格來說較接近適應症擴充，而非真正的跨領域再利用。
 
 **若要推進需要：**
-- 取得 Zonisamide 完整的作用機轉（MOA）資料，確認多巴胺調節活性的具體程度
-- 執行臨床前研究（如妥瑞症動物模型），評估 Zonisamide 對抽動行為的影響
-- 系統性搜尋是否有未發表的病例報告或觀察性資料
-- 評估與現行妥瑞症標準治療（如 haloperidol、fluphenazine、clonidine）的定位差異
-- 若臨床前結果支持，再考慮規劃 Phase 2 概念驗證試驗
+- 補齊 zonisamide 的作用機轉資料（MOA）。
+- 針對妥瑞氏症：進行系統性文獻檢索，釐清抗癲癇藥物誘發抽動症的風險，並評估是否有小型先導研究的可行性。
+- 針對失神發作癲癇：取得更高等級的對照研究證據，並建立 DDI 審查與精神行為不良反應的監測計畫。
+- 針對雙相情感障礙：需特別評估 zonisamide 誘發躁狂的風險。
+- 確認原廠仿單的警語與禁忌症，補足目前缺漏的安全性資料。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

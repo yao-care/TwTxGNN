@@ -2,7 +2,7 @@
 layout: default
 title: Amylmetacresol
 parent: 僅模型預測 (L5)
-nav_order: 27
+nav_order: 28
 evidence_level: L5
 indication_count: 10
 ---
@@ -29,35 +29,25 @@ indication_count: 10
 
 </div>
 
-# Amylmetacresol：從口腔殺菌/咽喉炎到馬尾症候群
+# Amylmetacresol：從口腔殺菌與咽喉炎到脊髓馬尾症候群（預測）
 
 ## 一句話總結
 
-Amylmetacresol（舒立效口含錠）是一種局部口腔殺菌劑，在台灣核准用於口腔殺菌及咽喉炎治療。
-TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效，
-目前**無任何臨床試驗或文獻**支持這個方向，整體屬於純模型預測結果。
-
----
+Amylmetacresol 是口含錠中的局部殺菌成分，原本用於口腔殺菌及咽喉炎。
+TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 口腔殺菌劑、咽喉炎 |
-| 預測新適應症 | 馬尾症候群 (Cauda Equina Syndrome) |
+| 預測新適應症 | 脊髓馬尾症候群 (Cauda Equina Syndrome) |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 4 張（有效單方 0／有效複方 4／已註銷 0） |
 | 建議決策 | Hold |
-
-<!-- review:begin amylmetacresol-original-indication-combo-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：台灣含 amylmetacresol 的 4 張許可證都是與 2,4-dichlorobenzyl alcohol 的複方口含錠，「口腔殺菌劑、咽喉炎」是複方的適應症，台灣沒有 amylmetacresol 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end amylmetacresol-original-indication-combo-2026-10-03 -->
-
----
 
 <!-- review:begin amylmetacresol-moa-2026-10-03 -->
 
@@ -79,33 +69,43 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 <!-- review:end amylmetacresol-moa-2026-10-03 -->
 
+<!-- review:begin amylmetacresol-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：台灣含 amylmetacresol 的 4 張許可證都是與 2,4-dichlorobenzyl alcohol 的複方口含錠，「口腔殺菌劑、咽喉炎」是複方的適應症，台灣沒有 amylmetacresol 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end amylmetacresol-original-indication-combo-2026-10-03 -->
+
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Amylmetacresol 是一種親脂性酚類化合物，作用於口咽黏膜表面，透過干擾細菌細胞膜結構發揮局部殺菌效果。其應用形式為口含錠，藥物主要停留在口腔與咽喉局部，全身吸收量極低。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Amylmetacresol 是口含錠複方的一部分，屬局部抗菌劑，據報導在咽喉部具有類似局部麻醉的鈉離子通道阻斷作用。
 
-<!-- review:begin amylmetacresol-moa-pk-claim-2026-10-03 -->
+然而，馬尾症候群是腰薦神經根受壓迫所造成的損傷，與咽喉局部殺菌之間並無已知的藥理關聯。這項預測目前僅來自 TxGNN 的圖譜推論，高分可能反映的是知識圖譜中的鄰近關係，而非真實的療效訊號。
 
-> **查核加註（2026-10-03）**：仿單只寫 amylmetacresol 是防腐殺菌劑、體外具抗菌（殺菌與抑菌）、抗黴菌與抗病毒作用，沒有寫干擾細胞膜的機轉；藥動學段為「無資料」，「全身吸收量極低」沒有仿單依據。原文保留。依據：[emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)。
-
-<!-- review:end amylmetacresol-moa-pk-claim-2026-10-03 -->
-
-馬尾症候群是一種由腰椎間盤突出、腫瘤或外傷引起脊髓馬尾神經根受壓的急症，病理機轉涉及神經根壓迫、缺血與局部發炎。Amylmetacresol 作為局部表面抗菌劑，目前**無任何已知的全身性抗發炎、神經保護或解壓機轉**，與馬尾症候群的病理過程缺乏生物學上的合理聯繫。
-
-此預測分數雖高達 99.99%，但 TxGNN 知識圖譜模型的預測結果需以現有文獻與機轉研究交叉驗證。在完全無臨床或基礎研究佐證的情況下，高分數本身不代表臨床可行性，僅代表圖譜結構上存在某種關聯信號，**需謹慎解讀**。
-
----
+此外，該藥為口腔咽喉局部使用，全身暴露量極低，難以在神經根病變部位達到有效濃度。因此，這個預測的合理性**偏低**，需要先有機轉或前臨床證據才值得進一步投入。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
-
----
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-目前無相關文獻。
+目前無相關文獻
 
----
+## 其他候選預測適應症
+
+TxGNN 另預測下列適應症，皆同為 L5、建議 Hold，且均無臨床試驗與文獻：
+
+| 排名 | 預測適應症 | TxGNN 分數 | 備註 |
+|------|-----------|-----------|------|
+| 2 | 神經源性膀胱（本體論中已標示為過時術語） | 99.96% | 無已知機轉連結 |
+| 3 | 腸躁症 (Irritable Bowel Syndrome) | 99.89% | 僅有推測性的局部離子通道調節假說，且藥物全身暴露極低 |
+| 4 | 睫狀體疾病 | 99.70% | 藥物無眼科用途 |
+| 5 | 全葡萄膜炎 | 99.68% | 殺菌作用無法處理免疫性發炎，亦無法到達眼內組織 |
+| 6 | 虹膜疾病 | 99.63% | 可能反映葡萄膜相關疾病在圖譜中的鄰近性 |
+| 7 | 感染性前葡萄膜炎 | 99.57% | 抗菌活性看似相關，但無眼內穿透與眼部安全性資料 |
+| 8 | 葡萄膜炎 | 99.53% | 無抗發炎或免疫調節證據 |
+| 9 | 睫狀體癌 | 99.46% | 無抗腫瘤機轉，高分疑為圖譜假象 |
+| 10 | 睫狀體良性腫瘤 | 99.45% | 無機轉與資料支持 |
 
 ## 台灣上市資訊
 
@@ -119,33 +119,32 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥輸字第022195號 | 舒立效口含錠 | DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、DYBENAL (DICHLOROBENZY… | 口含錠 | 口腔殺菌劑、咽喉炎。 |
-| 衛署藥輸字第022196號 | 舒立效口含錠舒緩蜂蜜檸檬 | AMYLMETACRESOL、DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL) | 口含錠 | 口腔殺菌劑、咽喉炎。 |
-| 衛署藥輸字第022197號 | 舒立效口含錠 酷涼薄荷 | MENTHOL、DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、AMYLMETACRESOL | 口含錠 | 口腔殺菌劑、咽喉炎。 |
-| 衛署藥輸字第024072號 | 舒立效口含錠柑橘維他命Ｃ | AMYLMETACRESOL、DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、VITAMIN… | 口含錠 | 口腔殺菌劑、咽喉炎。 |
+| 衛署藥輸字第022195號 | 舒立效口含錠 | AMYLMETACRESOL、AMYLMETACRESOL、DYBENAL (DICHLOROBENZYL 2,4- A… | 口含錠 | 口腔殺菌劑、咽喉炎。 |
+| 衛署藥輸字第022196號 | 舒立效口含錠舒緩蜂蜜檸檬 | DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、AMYLMETACRESOL | 口含錠 | 口腔殺菌劑、咽喉炎。 |
+| 衛署藥輸字第022197號 | 舒立效口含錠 酷涼薄荷 | AMYLMETACRESOL、DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、MENTHOL | 口含錠 | 口腔殺菌劑、咽喉炎。 |
+| 衛署藥輸字第024072號 | 舒立效口含錠柑橘維他命Ｃ | VITAMIN C (ROSE HIPS EXTRACT)、DYBENAL (DICHLOROBENZYL 2,4- A… | 口含錠 | 口腔殺菌劑、咽喉炎。 |
 
 <!-- tfda-licenses:end -->
 
----
+<!-- TFDA_LICENSE_TABLE -->
 
 ## 安全性考量
 
 安全性資訊請參考原廠仿單。
-
----
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-Amylmetacresol 為局部口腔用藥，與馬尾症候群（及其餘所有前 10 項預測適應症）均缺乏機轉關聯性，且全部 10 項預測均無任何臨床試驗或文獻支持（均為 L5），現階段不建議推進再利用評估。
+- 所有預測適應症都只有 TxGNN 模型分數支持，沒有臨床試驗、文獻或明確機轉，證據等級均為 L5。
+- 預測的疾病（神經、眼部等）與藥物的口咽局部使用差異很大，缺乏合理的藥理路徑。
 
 **若要推進需要：**
-- 補充完整的作用機轉資料（MOA），釐清 Amylmetacresol 是否具有全身性抗發炎或神經相關活性
-- 進行體外細胞毒性及神經細胞活性篩選實驗，確認是否有任何臨床前依據
-- 重新評估 TxGNN 知識圖譜中產生此預測的圖譜路徑，確認是否為雜訊或有意義的關聯
-- 若欲探索 Amylmetacresol 的再利用潛力，建議優先考慮更具生物合理性的方向（如呼吸道感染、口咽黏膜炎等）
+- 補齊 Amylmetacresol 的作用機轉資料（MOA），確認鈉離子通道阻斷是否具臨床意義。
+- 以前臨床研究驗證其對神經或相關病理模型的作用。
+- 評估全身暴露與給藥途徑的可行性（目前為口含錠，與預測疾病部位不相容）。
+- 若仍想探索，建議優先從合理性相對較高的候選（如腸躁症）進行文獻與機轉的系統性檢視。
 
 <!-- review:begin log -->
 

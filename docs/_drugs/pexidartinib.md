@@ -2,15 +2,15 @@
 layout: default
 title: Pexidartinib
 parent: 中證據等級 (L3-L4)
-nav_order: 198
-evidence_level: L3
+nav_order: 215
+evidence_level: L4
 indication_count: 10
 ---
 
 # Pexidartinib
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,8 @@ indication_count: 10
 
 ## 一句話總結
 
-Pexidartinib（圖拉留）是一種口服小分子 CSF-1R 酪胺酸激酶抑制劑，台灣核准用於無法手術改善的症狀性腱鞘巨細胞瘤（TGCT）。TxGNN 模型預測它可能對 **HER2 陽性乳癌 (HER2 positive breast carcinoma)** 有效，目前有 **1 個臨床試驗**平台作為背景支持，但尚無 pexidartinib 直接用於此適應症的確認結果，機轉假說仍待驗證。
+Pexidartinib（台灣商品名：圖拉留膠囊）是一種口服 CSF1R/KIT/FLT3 抑制劑，原本用於治療症狀性腱鞘巨細胞瘤（TGCT）。
+TxGNN 模型預測它可能對 **HER2 陽性乳癌 (HER2 positive breast carcinoma)** 有效，但目前**沒有相關臨床試驗**，僅有 **1 篇**間接的動物實驗文獻（針對 HR+/HER2- 乳癌），證據屬於模型預測加前臨床推論。
 
 ---
 
@@ -41,13 +42,13 @@ Pexidartinib（圖拉留）是一種口服小分子 CSF-1R 酪胺酸激酶抑制
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 症狀性腱鞘巨細胞瘤（TGCT）— 無法透過手術或其他治療改善、具嚴重後遺症或嚴重功能受限的成人病人 |
+| 原適應症 | 無法透過手術或其他治療（如局部放射線治療）改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤（TGCT）成人病人 |
 | 預測新適應症 | HER2 陽性乳癌 (HER2 positive breast carcinoma) |
 | TxGNN 預測分數 | 99.98% |
-| 證據等級 | L3 |
+| 證據等級 | L4（僅有前臨床／機轉層級的間接研究） |
 | 台灣上市 | 曾核准上市（唯一許可證已於 2026-02-03 註銷） |
-| 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
-| 建議決策 | Hold |
+| 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
+| 建議決策 | Hold（僅列為研究問題，不建議推進臨床開發） |
 
 <!-- review:begin pexidartinib-license-cancelled-2026-10-03 -->
 
@@ -59,19 +60,25 @@ Pexidartinib（圖拉留）是一種口服小分子 CSF-1R 酪胺酸激酶抑制
 
 ## 為什麼這個預測合理？
 
-目前缺乏原廠提供的詳細作用機轉（MOA）資料。根據公開文獻（PMID 31602563）可知，Pexidartinib 是一種選擇性口服小分子酪胺酸激酶抑制劑，主要靶向 CSF-1 受體（CSF-1R），同時具有抑制 KIT 及 FLT3-ITD 的活性。其核心作用在於阻斷 CSF-1/CSF-1R 訊號軸，進而調控腫瘤相關巨噬細胞（TAM）的存活、增殖與功能。這一機轉已在腱鞘巨細胞瘤（TGCT）的 Phase 3 ENLIVEN 試驗中獲得臨床驗證。
+目前缺乏詳細的作用機轉資料（資料庫未收錄 MOA）。根據文獻，Pexidartinib 是口服小分子酪胺酸激酶抑制劑，對 CSF1 受體（CSF1R）、KIT 與帶有 FLT3-ITD 突變的 FLT3 有抑制活性。TGCT 的病因是 CSF1 過度表現，會招募帶有 CSF1R 的巨噬細胞，Pexidartinib 正是阻斷這條訊號。
 
-在 HER2 陽性乳癌的腫瘤微環境中，大量免疫抑制性 TAM（M2 極化巨噬細胞）的聚積，被認為是抗 HER2 療法（如曲妥珠單抗）療效不佳的重要因素之一。Pexidartinib 抑制 CSF-1R 後，理論上可降低腫瘤微環境中 TAM 的浸潤密度，重塑免疫格局，進而增強 T 細胞的抗腫瘤活性，並可能與抗 HER2 靶向治療產生協同效應。
+CSF1R 訊號也與腫瘤相關巨噬細胞（TAM）有關，這類細胞可促進腫瘤微環境的免疫抑制。這是預測可延伸到乳癌的主要理論基礎。有一篇 2026 年的動物研究指出，CSF1R 抑制劑可減輕 CDK4/6 抑制劑引起的免疫抑制，並增強 HR+/HER2- 乳癌的抗腫瘤免疫。
 
-I-SPY 2（NCT01042379）是乳癌新輔助治療領域規模最大的自適應平台試驗，持續納入 HER2 陽性等多個分子亞型的病人。然而目前查無公開資料確認 pexidartinib 已於此試驗中作為獨立測試藥物臂，且尚無任何 pexidartinib 直接用於 HER2 陽性乳癌的前臨床或臨床發表結果。此預測的機轉邏輯具生物學合理性，但尚處於假說階段，需要專門研究加以驗證。
+但須注意：該研究針對的是 HR+/HER2- 亞型，**並非 HER2 陽性乳癌**，且屬動物實驗。目前沒有 HER2 特異性的臨床資料，機轉連結僅是前臨床層級的推論。
 
 ---
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT01042379](https://clinicaltrials.gov/study/NCT01042379) | Phase 2 | 招募中 | 5,000 | I-SPY 2 乳癌新輔助治療自適應平台試驗，探索不同實驗性藥物與各乳癌分子亞型（含 HER2+）的治療反應及早期預測標記；pexidartinib 是否已列為測試藥物之一尚待確認，疾病相關性高但藥物直接關聯性待驗證 |
+目前無相關臨床試驗登記。
+
+---
+
+## 文獻證據
+
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [41986650](https://pubmed.ncbi.nlm.nih.gov/41986650/) | 2026 | 動物實驗 | Oncogene | CSF1R 抑制劑可減輕 CDK4/6 抑制劑引起的免疫抑制，增強 HR+/HER2- 乳癌的抗腫瘤免疫（非 HER2 陽性亞型） |
 
 ---
 
@@ -81,55 +88,41 @@ I-SPY 2（NCT01042379）是乳癌新輔助治療領域規模最大的自適應�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Pexidartinib 的不重複許可證共 **1 張**：有效單方 0 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Pexidartinib 的不重複許可證共 **1 張**：有效單方 1 張、有效複方 0 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<details><summary><strong>已註銷</strong>（1 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛部藥輸字第028293號</td><td>圖拉留膠囊200毫克</td><td>Pexidartinib HCl</td><td>2026/02/03</td></tr></tbody></table></details>
+**有效・單方**（1 張）
+
+| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
+|------|------|------|------|------|------|
+| 衛部藥輸字第028293號 | 圖拉留膠囊200毫克 | 膠囊劑 | 台灣第一三共股份有限公司 | 2027/05/27 | 無法透過手術或其他治療(如局部放射線治療)改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤(TGCT)成人病人。 |
 
 <!-- tfda-licenses:end -->
+
+<!-- TFDA_LICENSE_TABLE -->
 
 ---
 
 ## 細胞毒性
 
-Pexidartinib 屬於抗腫瘤藥物類別（原適應症為腱鞘巨細胞瘤，一種滑膜腫瘤），為標靶治療藥物而非傳統細胞毒性化療。
-
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 標靶藥物（CSF-1R / KIT / FLT3-ITD 酪胺酸激酶抑制劑） |
-| 骨髓抑制風險 | 低度（相較傳統化療顯著較低，但仍需監測） |
-| 致吐性分級 | 低度 |
-| 監測項目 | 肝功能（ALT、AST、總膽紅素）、CBC（含分類計數）、腎功能 |
-| 處置防護 | 請參考原廠仿單的警語與注意事項；已知肝毒性風險（膽汁淤積性肝炎）需特別注意 |
+| 細胞毒性分類 | 標靶藥物（CSF1R/KIT/FLT3 酪胺酸激酶抑制劑） |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 肝功能（文獻顯示有肝臟安全性議題，需長期監測） |
+| 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ---
 
 ## 安全性考量
 
-**藥物交互作用**：共偵測到 **262 筆** DDI 記錄（來源：DDInter），以下列出臨床上最值得注意的交互作用：
+- **肝毒性**：已發表文獻有 Pexidartinib 長期肝臟安全性的專門分析，TGCT 適應症使用期間需密切監測肝功能。
+- **藥物交互作用**：資料庫共收錄 **262 項**交互作用，負擔很高。主要包括：
+  - 嚴重（Major）：Acarbose、Rabeprazole、Omeprazole、Dexlansoprazole（制酸劑／質子幫浦抑制劑類）、Doxycycline、Tetracycline、Minocycline、Clarithromycin、Pioglitazone、Bupropion、Aprepitant、Chenodeoxycholic acid
+  - 中度（Moderate）：Famotidine、Ranitidine、Cimetidine、Metformin、Dexamethasone、Budesonide、Magnesium oxide、Saxagliptin
+- 一項 Phase 1 研究評估過 Pexidartinib 對 CYP2C9、CYP2C19、CYP3A 及 P-gp 受質的交互作用風險。
 
-| 藥物 | 等級 | 臨床意義 |
-|------|------|---------|
-| Omeprazole | Major | PPI 類；胃酸 pH 改變可能影響 pexidartinib 吸收 |
-| Rabeprazole | Major | PPI 類；同上 |
-| Dexlansoprazole | Major | PPI 類；同上 |
-| Clarithromycin | Major | 大環內酯抗生素；CYP3A4 強效抑制劑 |
-| Doxycycline | Major | 四環素類抗生素 |
-| Tetracycline | Major | 四環素類抗生素 |
-| Minocycline | Major | 四環素類抗生素 |
-| Aprepitant | Major | NK1 受體拮抗劑（止吐藥） |
-| Bupropion | Major | 抗憂鬱藥 |
-| Pioglitazone | Major | 胰島素增敏劑 |
-| Acarbose | Major | α-葡萄糖苷酶抑制劑 |
-| Chenodeoxycholic acid | Major | 膽酸類 |
-| Famotidine | Moderate | H2 受體拮抗劑 |
-| Ranitidine | Moderate | H2 受體拮抗劑 |
-| Cimetidine | Moderate | H2 受體拮抗劑 |
-| Metformin | Moderate | 雙胍類降糖藥 |
-| Dexamethasone | Moderate | 糖皮質激素 |
-| Saxagliptin | Moderate | DPP-4 抑制劑 |
-
-> 完整 DDI 清單共 262 筆，建議臨床使用前查閱完整資料庫並評估個別病人的合併用藥風險。
+其餘警語與禁忌症請參考原廠仿單。
 
 ---
 
@@ -138,14 +131,18 @@ Pexidartinib 屬於抗腫瘤藥物類別（原適應症為腱鞘巨細胞瘤，�
 **決策：Hold**
 
 **理由：**
-TxGNN 預測分數達 99.98%，CSF-1R 抑制透過減少腫瘤相關巨噬細胞（TAM）進而增強 HER2 靶向療效的機轉假說具備生物學合理性；然而目前僅有一項大型乳癌平台試驗（I-SPY 2）提供間接背景支持，尚無 pexidartinib 直接用於 HER2 陽性乳癌的前臨床或臨床確認數據，現有證據等級（L3）不足以支持立即推進臨床應用。
+- 預測分數雖高（99.98%），但沒有任何 HER2 陽性乳癌的臨床試驗，唯一相關文獻是針對不同亞型（HR+/HER2-）的動物研究，證據僅止於前臨床推論。
+- Pexidartinib 有肝毒性疑慮與龐大的藥物交互作用負擔，在缺乏療效證據下不宜推進。
 
 **若要推進需要：**
-- 完成 HER2+ 乳癌前臨床研究（如患者來源異種移植模型或 TAM 豐富的共培養系統），驗證 pexidartinib 聯合抗 HER2 療法的協同療效
-- 確認 I-SPY 2 平台試驗中 pexidartinib 的具體試驗狀態與初步結果
-- 補充 pexidartinib 完整 MOA 資料（建議查詢 DrugBank API，解決 DG001 數據缺口）
-- 系統性評估 DDI 風險，尤其是與 PPI 類（影響吸收）及 CYP3A4 調節劑的交互作用
-- 制定 HER2+ 乳癌的生物標記策略（如 TAM 密度、CSF-1R 表現量、免疫微環境分型）以利病人篩選
+- 在 HER2 陽性乳癌模型中進行 CSF1R 抑制的前臨床驗證（單用或與抗 HER2 療法併用）
+- 釐清 TAM／CSF1R 在 HER2 陽性乳癌中的角色與生物標記
+- 補齊作用機轉（MOA）資料
+- 若進入臨床階段，需制定肝功能監測與 DDI 管理計畫，並評估風險效益是否適合腫瘤族群
+
+---
+
+**補充說明**：排名第 6 的「滑膜癌 (synovium cancer)」與第 10 的「惡性巨細胞瘤 (malignant giant cell tumor)」，其支持文獻主要對應已核准的 TGCT 適應症，並非真正的新適應症，本報告因此以排名第 1 的 HER2 陽性乳癌作為預測新適應症。
 
 <!-- review:begin log -->
 
