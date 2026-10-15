@@ -3,7 +3,7 @@ layout: default
 title: "關節炎 (rheumatoid arthritis) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "關節炎 (rheumatoid arthritis) 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
+description: "關節炎 (rheumatoid arthritis) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
 permalink: /news/rheumatoid-arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rheumatoid-arthritis/
 ---
 
 <p class="key-answer" data-question="關節炎 (rheumatoid arthritis) 有什麼相關新聞？">
-<strong>關節炎 (rheumatoid arthritis)</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
+<strong>關節炎 (rheumatoid arthritis)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ permalink: /news/rheumatoid-arthritis/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [低劑量電療助退化性關節炎患者減痛](https://news.google.com/rss/articles/CBMinwJBVV95cUxNVUVXSXREaVlfVGpWaUpIeXRuQVVsY282Mkc3VVhCdnI5M09lemtTekJyX2k0S3FMa2F6eU1icmJpeXhkUF8xQlN6MHFjRW1nRkJTMkktLXV1aGFwaTh5aVpUWWdCd1d1bzZIRGF6STVlMWhnUjZFN25kVnhjQWY0WkdSbjl3LTZHSk1CcHVIZkVZbnZTV3lHV0NRRkRPUGppdVcxYVpic05fa0J4LWZBZElTSUQ0bUU0WWxaQlZVMXZmYUU4MVp5dXVZRHJ1elpBUVB4d1FPckVjSEdIdEQ3U016ellweElpMEhpVENER2hxa3l0YXpkM0Y1SjR2R2hvY010YW5sS0U5a080ZXV0bXA5YlFtYmFqa2hiSkdOcw?oc=5)
+### [低劑量電療助退化性關節炎患者減痛](https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXpPS1BBS0tzbnM0cXhlN2JSWnZCRUU0SzN5NnpCLWFQVHJ3Q0trUlJ2NTZiaFRUVkF3ekVndG9kMnp6TFBkSUFmdC1XQ2p4eGpmYU14dktNeG41d210YnlwcjZPSExwRVoyTnd4QmhzRzdBUno0X1BmQmJ3UDZ3dGE5NE50V0o0MzlxRXJNRTVFZV93QWJfOHNhXzJfMEc4S3NZM0pwdlowUHZMOS1obEJRSTMzRjg3NFd3YzJpZ1hFOU9HMWFqR01nY043NVlTUm8wTzhYQ2tJZWR5TnpDSWREaXVZcFJoR0h3WGZ6ZXVpVngwQmtaWUc4WGdxdkF3bzV6ZTRIVHduQlJuZlhJbHpR?oc=5)
 
 2026-10-15
 
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMinwJBVV95cUxNVUVXSXREaVlfVGpWaUpIeXRuQVVsY282Mkc3VVhCdnI5M09lemtTekJyX2k0S3FMa2F6eU1icmJpeXhkUF8xQlN6MHFjRW1nRkJTMkktLXV1aGFwaTh5aVpUWWdCd1d1bzZIRGF6STVlMWhnUjZFN25kVnhjQWY0WkdSbjl3LTZHSk1CcHVIZkVZbnZTV3lHV0NRRkRPUGppdVcxYVpic05fa0J4LWZBZElTSUQ0bUU0WWxaQlZVMXZmYUU4MVp5dXVZRHJ1elpBUVB4d1FPckVjSEdIdEQ3U016ellweElpMEhpVENER2hxa3l0YXpkM0Y1SjR2R2hvY010YW5sS0U5a080ZXV0bXA5YlFtYmFqa2hiSkdOcw?oc=5)
-
----
-
-### [退化性關節炎不只軟骨磨損！常見症狀、治療一次看醫揭葡萄糖胺定位- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
-
-2026-10-08
-
-來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXpPS1BBS0tzbnM0cXhlN2JSWnZCRUU0SzN5NnpCLWFQVHJ3Q0trUlJ2NTZiaFRUVkF3ekVndG9kMnp6TFBkSUFmdC1XQ2p4eGpmYU14dktNeG41d210YnlwcjZPSExwRVoyTnd4QmhzRzdBUno0X1BmQmJ3UDZ3dGE5NE50V0o0MzlxRXJNRTVFZV93QWJfOHNhXzJfMEc4S3NZM0pwdlowUHZMOS1obEJRSTMzRjg3NFd3YzJpZ1hFOU9HMWFqR01nY043NVlTUm8wTzhYQ2tJZWR5TnpDSWREaXVZcFJoR0h3WGZ6ZXVpVngwQmtaWUc4WGdxdkF3bzV6ZTRIVHduQlJuZlhJbHpR?oc=5)
 
 ---
 
