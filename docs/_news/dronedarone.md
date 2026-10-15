@@ -14,7 +14,7 @@ permalink: /news/dronedarone/
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dronedarone/
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
+
+2026-10-15 <span class="news-indication-tag">中風</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
+
+---
 
 ### [25歲言語治療師實習期間突中風！錯過3大警號險送命 緊急入ICU｜健康專訪](https://news.google.com/rss/articles/CBMiswNBVV95cUxNZUg0UmNtX01QM2FsTV92NFFMRU9yTDFLZmpnMjFHbW1HSUx4cGwxTHBEdi1wRWNZdXE3dEVTOUJDRGpqNnFVRi1HMkdxY1YzZEROV0RKT0FMUjNQaHk1UlJmQ05zbFd2QzlESTdfUGphd0x3MGVQVVZITG8xZjlsRUo5emQtSGQ5bk4ydXdWaFBqM0pmZFRmbzJyZlltblBUYllzeFJxSjJyX3FpSkNYRlVTNXhWQ0h5R09ZN2tKQ1RzcF9vdDhzMjdyY1d4MzRWMTNJcExRZUVsQ0ZnVEJybS1Jc3FKTUd1UGtUMFZVaDBGaGlzUTBSMTVBaHNoQlNCR1kzRG9zZGcwdlF0T3dmSzJJRzhkWjY5bW9SMG00SU9fVkRfQXRoT2s1UThUdnRSV1FJZmRMaWtHQ21qWmZ4OFZoSS1pQ2d1Q19WUzEycDlZWTQyT3JTUDVjdEt1UklUMVVNOFhoenV1Q3FuRl9yMFh1dnBpRG1PQ0J3YUQtb3B6Ym1kMnluNWptU04zNUVFQ0pLVGhLaGhOU2pIQkUtNEdONXB4RXgxRnRxaW1DdE0ycVk?oc=5)
 

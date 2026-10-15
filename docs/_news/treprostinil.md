@@ -3,7 +3,7 @@ layout: default
 title: "Treprostinil 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Treprostinil 的相關健康新聞報導。原適應症：特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)。預測適應症 10 個。"
+description: "Treprostinil 的相關健康新聞報導。原適應症：特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)。預測適應症 15 個。"
 permalink: /news/treprostinil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/treprostinil/
 ---
 
 <p class="key-answer" data-question="Treprostinil 有什麼相關新聞？">
-<strong>Treprostinil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Treprostinil</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,12 @@ permalink: /news/treprostinil/
 <ul>
 <li><strong>原適應症</strong>: 特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)</li>
 <li><strong>證據等級</strong>: L2</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
+<li><strong>預測適應症（15 個）</strong>:<ul>
+<li>結締組織疾病相關肺動脈高壓 (99.5%)</li>
+<li>HIV 相關肺動脈高壓 (99.5%)</li>
+<li>慢性溶血性貧血相關肺動脈高壓 (99.5%)</li>
+<li>血吸蟲症相關肺動脈高壓 (99.5%)</li>
+<li>肺動脈靜脈畸形 (99.7%)</li>
 <li>pulmonary arteriovenous malformation (disease) (99.7%)</li>
 <li>pulmonary arterial hypertension associated with congenital heart disease (99.6%)</li>
 <li>pulmonary arterial hypertension associated with HIV infection (99.5%)</li>

@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-10-15T06:44:53.934775+00:00",
-  "total_count": 36,
-  "matched_count": 15,
+  "last_updated": "2026-10-15T12:18:41.941098+00:00",
+  "total_count": 37,
+  "matched_count": 16,
   "news": [
+    {
+      "id": "f5d0f0221d26",
+      "title": "維生素B12缺乏如何偽裝成衰老跡象",
+      "published": "2026-10-15T11:00:00+00:00",
+      "summary": "維生素B12缺乏如何偽裝成衰老跡象&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zQ25DNHducTBnYjYtbjN1bUo2VUlFbzZza1ZONHN0cFQtVkRRcW11UzdUT0xFNUNYY2NpeG1sdTN6d0s1NDdrWG9Fd1d1X3lOMVROenBDREo1T1dHZGhvRNIBZkFVX3lxTE1mSFNSQWZHdzhtOVpkako5UVlMWlhDdFctc2IwZ0R3VUM0SmRtdzZMZVIyTmdndGUwZHhfU3B5NzRDYldXdmkyZFpVQ0E0YTFBSXpieEtnWnRTZmNBeFkzaXdfZjE5UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "73a124cde2b6",
+      "title": "今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！ - Women's Health",
+      "published": "2026-10-15T10:21:51+00:00",
+      "summary": "今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！&nbsp;&nbsp;Women's Health流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa大多區流感季提早來襲 安省26日起開放全民疫苗接種&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlF0R1REcFNQeV9sTTBKVmxxSVFKcnVUZDNvclNPZHlTcXY3OWJ6MXlGczZWQVkzSGxWdG9peTB1ZGlxVVdnaVNnYmJfTjdHMjBoRDZwT3NTQW1nTTBpYmZ4S0Fub1JqcEdJMDk5a0tZZGd0QnZUMUVzZUNVamhZUUxCMzZiM0ZDSFBsdG5KUGlWOGI1YlNjOGpOWkdMMWpxN2hrU1U3R1otQUF3SWVOQ1ZPTzR6Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "09806ade8893",
+      "title": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY",
+      "published": "2026-10-15T09:56:41+00:00",
+      "summary": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗&nbsp;&nbsp;Rti 中央廣播電臺成人疫苗打滿 勿成家庭破口 | 中華日報&nbsp;&nbsp;LINE TODAY流感重症死亡創新高！憂肺鏈趁虛而入 兒科醫：少這道防線恐成感染破口&nbsp;&nbsp;三立新聞驚！流感46死創新高「家長」成感染破口 醫曝原因&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a42cc6da39f5",
+      "title": "《華爾街日報》關於乳糖不耐受的是與非",
+      "published": "2026-10-15T09:10:00+00:00",
+      "summary": "《華爾街日報》關於乳糖不耐受的是與非&nbsp;&nbsp;鉅亨號",
+      "sources": [
+        {
+          "name": "鉅亨號",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dWtpVXVveWI5WDdHZ0c4RXZsRG5CM2JrNGhrT1N4Vmg1VDE4S1FweW9hcXVQMzdnOVBlU3R0VXdUbUtZOWQ0eQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "173e0729b7b9",
+      "title": "新興新冠變異株 SV.2.4橫行中國南方",
+      "published": "2026-10-15T05:57:00+00:00",
+      "summary": "新興新冠變異株 SV.2.4橫行中國南方&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSVlLeFZwaHZwQWhUdXN1NWNuZU16RVZSTVZRZnZFM25sWURyQlZuOThjYmFLdE5HNFU3YTlvTVhEb1FuQWFQQmRER0RrYVRtdGRTVWZrNk11V1BlcDJPZNIBZkFVX3lxTFB6bTJIT2lhUjJWcG9qdVFvOFZXNnpiX1pVWFZtMmVNZUZCSXBqTWxGNkhFdEN2SVNrcjdibUp0SFYtRWt5eXh6OTBxVFVScGwyMmJmSVVOamRrZGduNm1Nam40T0VSQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "81e5a7166583",
       "title": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關",
@@ -213,19 +294,6 @@
       ]
     },
     {
-      "id": "173e0729b7b9",
-      "title": "新興新冠變異株 SV.2.4橫行中國南方",
-      "published": "2026-10-15T03:16:46+00:00",
-      "summary": "新興新冠變異株 SV.2.4橫行中國南方&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSVlLeFZwaHZwQWhUdXN1NWNuZU16RVZSTVZRZnZFM25sWURyQlZuOThjYmFLdE5HNFU3YTlvTVhEb1FuQWFQQmRER0RrYVRtdGRTVWZrNk11V1BlcDJPZNIBZkFVX3lxTFB6bTJIT2lhUjJWcG9qdVFvOFZXNnpiX1pVWFZtMmVNZUZCSXBqTWxGNkhFdEN2SVNrcjdibUp0SFYtRWt5eXh6OTBxVFVScGwyMmJmSVVOamRrZGduNm1Nam40T0VSQQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e6ba6e1369d2",
       "title": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體",
       "published": "2026-10-15T03:06:00+00:00",
@@ -252,14 +320,14 @@
       "matched_keywords": []
     },
     {
-      "id": "32ec41bfda62",
-      "title": "飯後嚼口香糖能減少蛀牙菌？清水漱口、漱口水的潔牙效果一次看懂- 健康新聞 - PChome Online 新聞",
-      "published": "2026-10-15T00:13:17+00:00",
-      "summary": "飯後嚼口香糖能減少蛀牙菌？清水漱口、漱口水的潔牙效果一次看懂- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "0def576890eb",
+      "title": "紐約州麻疹實際疫情恐比官方數據嚴重",
+      "published": "2026-10-15T01:49:00+00:00",
+      "summary": "紐約州麻疹實際疫情恐比官方數據嚴重&nbsp;&nbsp;大紀元賓州麻疹相關死亡增至6例 美國今年病例逾4000例&nbsp;&nbsp;Taiwan News賓州再傳麻疹死亡 39歲女子疑因併發症喪命&nbsp;&nbsp;大紀元賓州麻疹確診破千例 創30餘年新高&nbsp;&nbsp;大紀元",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeFdmVHUyWEJ2aUZwbFVyOHBGb3FvRGhoOW1Ha1J6OVAteXBHU2RQU2x0VnU5SEhVZGVvazRBQ2I4TzVJWWhVb3ZHbG9wbVJiUnVTZG5IRHppVzAwX3pCek1sbDJWX2xXbmJocnRxYTlpZnlad2RUSEJ0eE9iU08zbzMtUnJKSkFfOU1YX0tGVExTZw?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03OG9fbkdqSG9RLVpzejhIWmVFOEc0NDdoOXZuX0Q0SW9DXzRfSF9NX202RU43QWsybENaVzR4a3JmQzZlRkxBSi1ndHdCM3pqbWJBb0pSNWZNT09qY2tsMFF30gFnQVVfeXFMT2N3UjhpR3JMNVN1N3VKR3FZYk1PR3NUOTRySVBlaFJCZ3ZNRDhVR0lXdWVzQ19KOHpTVU9fbnN5TWxkLUp4OHh2T0pIX0o5dzl3Q0dCeEh5bVNSdXdxV1hfdDdTMG82WQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -575,17 +643,48 @@
       ]
     },
     {
-      "id": "92f4c21c91f3",
-      "title": "流感季提早數月殺到 西岸成重災區",
-      "published": "2026-10-14T00:35:25+00:00",
-      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa大多區流感季提早來襲 安省26日起開放全民疫苗接種&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大南加流感季早來 衛生官籲速打疫苗&nbsp;&nbsp;Singtaousa",
+      "id": "f09c549a6ba3",
+      "title": "遠離肺癌、肝癌等5種高發癌 從這些小習慣開始",
+      "published": "2026-10-14T02:01:15+00:00",
+      "summary": "遠離肺癌、肝癌等5種高發癌 從這些小習慣開始&nbsp;&nbsp;紫荊網",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQU9nWDNhcV9Dcm5WYUFoMXFiajhILWlfaF9nYW9CRjZSSk05a0dJWlR3Qi1DcTFvOG1JN2NtOWtsc2FTUjV3MHhyUkdqSGRzanpVVVlLN01TMkZnbDhkQlE3N0dCLVFiOEFKcXd3WXR3TDlkUVBZWmVvMkFRRkNvTzVKN3VzMmljNl8tVHZfUlRaM2hNS2hLYVlwVjY0UjFsSl93ZEJSQW4wcXNudTJLcWxIVnRLT19L?oc=5"
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUm83ZW0zNXlScWZYR213WGR6dkRYNzJtUVphOXl2V0x1dmJiamNDZ1YxbjBtU3dfcGZqUUo5Y0tsY1RWakdfVGlURUhKLU9idW1VS0sxY0lrbDVuOUtRa1ZtRWZmRUx5U21Wa1V6S2lVOFhWX01SbUtYM1hhQ3BHTUZNSTgxX1dSZWw1VzdWMUQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "liver sarcoma",
+          "keyword": "肝癌",
+          "related_drugs": [
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d24ac1aa2835",
@@ -638,14 +737,14 @@
       ]
     },
     {
-      "id": "ed71f4ae9f22",
-      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報 - LINE TODAY",
-      "published": "2026-10-13T07:50:01+00:00",
-      "summary": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "d11fffd7435c",
+      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
+      "published": "2026-10-12T23:36:12+00:00",
+      "summary": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWFdZdjlKS3ViN3poZlRJY2hhYVRCUlRzRS1DODlxTGdoTVBmUXBORXlybFlFZHFfcU8taU5GYXowUUNTOXJWbUpBMEJ3VHc0Mnp3TGVn?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
         }
       ],
       "matched_keywords": [
@@ -661,19 +760,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "2c8d11377d1e",
-      "title": "關於乳糖不耐受的是與非",
-      "published": "2026-10-13T06:46:31+00:00",
-      "summary": "關於乳糖不耐受的是與非&nbsp;&nbsp;华尔街日报中文网",
-      "sources": [
-        {
-          "name": "华尔街日报中文网",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSUpmZG5ULVBaWGpTdTd0Y2lBSkQ5RmZMc2pJR1FLeTFuenpvLXVqSnpYaUttZUJoRmV6Wl96SUk5eUJqbnZ6a1NnNENfTFptbW5QclNua2RDT1M0TXVPSVhIcFViaHhvUWlIV25jcF9mRGYtX1doblBaXzE0MjVrbDZGelpvMWo0SGNnRm9hSVdqaDc4cUhMSUN1aTNlSzZpUlJIOGswV1JVXzV1MWZoRGhPZGRsMVNudUNybTU2dXBFQnpjakw5UXZwcGRvY3JzWHc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "fffff1fe7ef5",
@@ -1587,44 +1673,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c4c90b29d52a",
-      "title": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠 - Sky Post",
-      "published": "2026-10-08T10:31:49+00:00",
-      "summary": "𠝹傷燙傷損手易留疤唔想疤痕增生、凹凸洞？ 醫學級除疤啫喱助淡化疤痕及痘印即睇限時9折優惠&nbsp;&nbsp;Sky Post",
-      "sources": [
-        {
-          "name": "Sky Post",
-          "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQUWZaUlFyLTY1MGlFMDcwNElyVGtvcGJDSzNadzgwVmdkTmZfU2ZkX3RKalRleW5zTmVGNXNxa3I5cmR2VnVfRXpYbFY1Y2N6eXh1a0ZxU2d0cFpEM1dsbnBqNEpJYWxDbXJJeXRCMVRTUFNNVmh4anBDNEEzbmdYcXZvclBfR2hOU3B3VmpiUEw5Mzh0RDVnWGp1bnh5TXpLa01oRUF4NlBUdnoyRzV1YXNXWWJzcmJmTERhcHRGT1JONlBBWXFXSmptSHltVVFBUVJVQ2tya2p0MTdUc0xORVhsQlRQY0NIUDdoNjVyZjZVbEc0dHB0ZjBrNnBjSm5CMHZkNG5YcjBDRlVMUjJJT3dOalBqYUZ6VXNwZm9mMnVUUmF1a0dYaUZNUFd0NlF5OTFHM2xHN05vMmh3Y0RXREtjUzdnYnBjeVljMlB4ZkJmTUwzaTlQQm8tN2pURjNiQUpCOS1td2ZlRjQ5c2tDak11VnFLWXFGbFBRUG85SU13RGl6UHJ5Z2dPQVZnSUFtcnF2dHVPRVFPa05ENnJ6cGV0NFIxS1RmZURJSTFLYjE2Q1Q4cDRTTGhoeWZHY25uZ01Jb3hRaTFBUWViSkFnZHRDX2lVdHJDYmhnTGduVWk5T1VmRmtfLUd0ajNpUk1kMS1wMkV1d0t2eHQ0Nm9XbG84aDVsbHpfNHYzSHVkQVItOXI2aUZiSFpaUEhmU1o2XzFmRUJ3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ab4f2a03da7",
-      "title": "大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低 - etnet 經濟通",
-      "published": "2026-10-08T09:04:37+00:00",
-      "summary": "大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低&nbsp;&nbsp;etnet 經濟通",
-      "sources": [
-        {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

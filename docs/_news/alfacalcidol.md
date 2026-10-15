@@ -3,7 +3,7 @@ layout: default
 title: "Alfacalcidol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Alfacalcidol 的相關健康新聞報導。原適應症：骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症。預測適應症 5 個。"
+description: "Alfacalcidol 的相關健康新聞報導。原適應症：骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症。預測適應症 9 個。"
 permalink: /news/alfacalcidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alfacalcidol/
 ---
 
 <p class="key-answer" data-question="Alfacalcidol 有什麼相關新聞？">
-<strong>Alfacalcidol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Alfacalcidol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,11 @@ permalink: /news/alfacalcidol/
 <ul>
 <li><strong>原適應症</strong>: 骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症</li>
 <li><strong>證據等級</strong>: L3</li>
-<li><strong>預測適應症（5 個）</strong>:<ul>
+<li><strong>預測適應症（9 個）</strong>:<ul>
+<li>Dahlberg-Borer-Newcomer 症候群 (99.6%)</li>
+<li>顱顏錐狀發育不良（craniofacial conodysplasia） (99.6%)</li>
+<li>Campailla-Martinelli 型肢中發育不良 (99.5%)</li>
+<li>腎小管酸中毒 (99.3%)</li>
 <li>familial isolated hypoparathyroidism due to impaired PTH secretion (99.6%)</li>
 <li>Dahlberg-Borer-Newcomer syndrome (99.6%)</li>
 <li>craniofacial conodysplasia (99.5%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Naproxen 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Naproxen 的相關健康新聞報導。原適應症：骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛。預測適應症 4 個。"
+description: "Naproxen 的相關健康新聞報導。原適應症：骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛。預測適應症 7 個。"
 permalink: /news/naproxen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/naproxen/
 ---
 
 <p class="key-answer" data-question="Naproxen 有什麼相關新聞？">
-<strong>Naproxen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Naproxen</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,10 @@ permalink: /news/naproxen/
 <ul>
 <li><strong>原適應症</strong>: 骨關節炎、類風濕性關節炎、急性痛風、原發性經痛、輕中度疼痛</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（4 個）</strong>:<ul>
+<li><strong>預測適應症（7 個）</strong>:<ul>
+<li>眼缺損小眼症－肢根型發育不良症候群 (99.2%)</li>
+<li>肢中發育不良（Hunter-Thompson 型） (99.2%)</li>
+<li>短軀幹－釉質發育不全症候群 (99.1%)</li>
 <li>brachydactyly-syndactyly syndrome (99.3%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>
 <li>acromesomelic dysplasia, Hunter-Thompson type (99.2%)</li>

@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,7 @@ permalink: /news/cytarabine/
 <ul>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
-<li>small cell lung carcinoma (99.8%)</li>
+<li class="indication-matched">small cell lung carcinoma (99.8%)<span class="indication-tag">📰 肺癌</span></li>
 <li>primary pulmonary lymphoma (99.8%)</li>
 <li>well-differentiated fetal adenocarcinoma of the lung (99.8%)</li>
 <li>pulmonary blastoma (99.8%)</li>
@@ -40,7 +40,7 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
@@ -55,6 +55,14 @@ permalink: /news/cytarabine/
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+
+---
+
+### [遠離肺癌、肝癌等5種高發癌 從這些小習慣開始](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUm83ZW0zNXlScWZYR213WGR6dkRYNzJtUVphOXl2V0x1dmJiamNDZ1YxbjBtU3dfcGZqUUo5Y0tsY1RWakdfVGlURUhKLU9idW1VS0sxY0lrbDVuOUtRa1ZtRWZmRUx5U21Wa1V6S2lVOFhWX01SbUtYM1hhQ3BHTUZNSTgxX1dSZWw1VzdWMUQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">肺癌</span> <span class="news-indication-tag">肝癌</span>
+
+來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUm83ZW0zNXlScWZYR213WGR6dkRYNzJtUVphOXl2V0x1dmJiamNDZ1YxbjBtU3dfcGZqUUo5Y0tsY1RWakdfVGlURUhKLU9idW1VS0sxY0lrbDVuOUtRa1ZtRWZmRUx5U21Wa1V6S2lVOFhWX01SbUtYM1hhQ3BHTUZNSTgxX1dSZWw1VzdWMUQ?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,7 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
@@ -93,14 +93,6 @@ permalink: /news/gefitinib/
 2026-10-10 <span class="news-indication-tag">癌症</span>
 
 來源: [風火輪傳媒有限公司](https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5)
-
----
-
-### [大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低 - etnet 經濟通](https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5)
-
-2026-10-08 <span class="news-indication-tag">阿茲海默症</span>
-
-來源: [etnet 經濟通](https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5)
 
 ---
 

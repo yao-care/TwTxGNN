@@ -3,7 +3,7 @@ layout: default
 title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智 (dementia)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [骨頭密度低恐失智 代謝問題釀雙重退化 - 台灣醒報 Awakening News Network](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5)
 
 2026-10-12
 
 來源: [台灣醒報 Awakening News Network](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5)
-
----
-
-### [大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低 - etnet 經濟通](https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5)
-
-2026-10-08
-
-來源: [etnet 經濟通](https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5)
 
 ---
 

@@ -1,7 +1,35 @@
 {
-  "generated": "2026-10-15T06:44:53.973107+00:00",
-  "count": 15,
+  "generated": "2026-10-15T12:18:41.982626+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "09806ade8893",
+      "title": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY",
+      "published": "2026-10-15T09:56:41+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "81e5a7166583",
       "title": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關",
@@ -479,6 +507,49 @@
       ]
     },
     {
+      "id": "f09c549a6ba3",
+      "title": "遠離肺癌、肝癌等5種高發癌 從這些小習慣開始",
+      "published": "2026-10-14T02:01:15+00:00",
+      "sources": [
+        {
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUm83ZW0zNXlScWZYR213WGR6dkRYNzJtUVphOXl2V0x1dmJiamNDZ1YxbjBtU3dfcGZqUUo5Y0tsY1RWakdfVGlURUhKLU9idW1VS0sxY0lrbDVuOUtRa1ZtRWZmRUx5U21Wa1V6S2lVOFhWX01SbUtYM1hhQ3BHTUZNSTgxX1dSZWw1VzdWMUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "liver sarcoma",
+          "keyword": "肝癌",
+          "related_drugs": [
+            {
+              "slug": "cladribine",
+              "name": "Cladribine"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "87e8e647ef7a",
       "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
       "published": "2026-10-13T11:00:00+00:00",
@@ -515,13 +586,13 @@
       ]
     },
     {
-      "id": "ed71f4ae9f22",
-      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報 - LINE TODAY",
-      "published": "2026-10-13T07:50:01+00:00",
+      "id": "d11fffd7435c",
+      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
+      "published": "2026-10-12T23:36:12+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWFdZdjlKS3ViN3poZlRJY2hhYVRCUlRzRS1DODlxTGdoTVBmUXBORXlybFlFZHFfcU8taU5GYXowUUNTOXJWbUpBMEJ3VHc0Mnp3TGVn?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
         }
       ],
       "keywords": [
@@ -1308,30 +1379,6 @@
             {
               "slug": "dipyridamole",
               "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8ab4f2a03da7",
-      "title": "大腦健康｜443種職業研究揭的士、救護車司機死於阿茲海默症比例較低 - etnet 經濟通",
-      "published": "2026-10-08T09:04:37+00:00",
-      "sources": [
-        {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPOVloVlpvc2YtUTlKeWtaYThrMF9vRlN0QjI4ZDdqamZ5VGFqRTdTMng5UE5ISEF1cTMyM3dzaGxPdlZfMmY0SGswZWNpWm82VjhlTGN3NlNlaFBxN0dYTnBvdHdaMEFreS00bldrT1NDREw4bnN5RU1OX3VQdDIxUnNvcm82RmhfY0kwdVNvZ1IweDhqN1dQdkcxVUEyMF93eWFSdGVHUDludHdjOENYdG9FOTJSYW5fUWtXejhkU01yVWIyd25LazQtd3htcWtmZTdHVTM5VVh5TTJtc0hFVklnY0hCLW82QzFGaTd2UUdsVWlIX0tFZ0JWZUluRnJmTVU5Z005QVViZkh4S1RSSXJ5dWFSc1VGejVEYmlGc3JXaS1jM1dqdjFoX0FyTTZpZC1oUm9qNVpUU21TeHdXSUlKOXp5c3NHdEZZMXJ5OVRMamFGb1ZuZXBqSl9fX2lzaW1pVU1XYXVMTGh5MWZWQ0NrcUhnMDU3cDI0eXk2SktMTl9la3pkQmo1bi04b1h4RXJKcmZ6Ykk4cm1rdm9sMVo2Ql9TVHBZaUVBMk1aRWVsWGNfc2MybGRDZGhUX0dTc20yQ0Nn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib"
             }
           ]
         }

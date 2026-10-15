@@ -44,11 +44,11 @@ permalink: /news/dl-alpha-tocopherol/
 
 ## 相關新聞（1 則）
 
-### [新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWFdZdjlKS3ViN3poZlRJY2hhYVRCUlRzRS1DODlxTGdoTVBmUXBORXlybFlFZHFfcU8taU5GYXowUUNTOXJWbUpBMEJ3VHc0Mnp3TGVn?oc=5)
+### [新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5)
 
-2026-10-13 <span class="news-indication-tag">未知</span>
+2026-10-12 <span class="news-indication-tag">未知</span>
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWFdZdjlKS3ViN3poZlRJY2hhYVRCUlRzRS1DODlxTGdoTVBmUXBORXlybFlFZHFfcU8taU5GYXowUUNTOXJWbUpBMEJ3VHc0Mnp3TGVn?oc=5)
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5)
 
 ---
 
