@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,13 +27,13 @@ permalink: /news/trabectedin/
 <li><strong>原適應症</strong>: 無法切除或轉移性脂肪肉瘤/平滑肌肉瘤</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (99.7%)<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
 
@@ -64,14 +64,6 @@ permalink: /news/trabectedin/
 2026-10-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">鼻塞</span>
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5)
-
----
-
-### [乳過天晴｜「樂杖行」助力乳癌治療後復健](https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5)
-
-2026-10-07 <span class="news-indication-tag">乳癌</span>
-
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5)
 
 ---
 

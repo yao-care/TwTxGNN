@@ -1,7 +1,43 @@
 {
-  "generated": "2026-10-14T22:52:13.050384+00:00",
+  "generated": "2026-10-15T01:07:14.534914+00:00",
   "count": 15,
   "news": [
+    {
+      "id": "93096c1b246a",
+      "title": "低劑量電療助退化性關節炎患者減痛",
+      "published": "2026-10-15T00:00:00+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVUVXSXREaVlfVGpWaUpIeXRuQVVsY282Mkc3VVhCdnI5M09lemtTekJyX2k0S3FMa2F6eU1icmJpeXhkUF8xQlN6MHFjRW1nRkJTMkktLXV1aGFwaTh5aVpUWWdCd1d1bzZIRGF6STVlMWhnUjZFN25kVnhjQWY0WkdSbjl3LTZHSk1CcHVIZkVZbnZTV3lHV0NRRkRPUGppdVcxYVpic05fa0J4LWZBZElTSUQ0bUU0WWxaQlZVMXZmYUU4MVp5dXVZRHJ1elpBUVB4d1FPckVjSEdIdEQ3U016ellweElpMEhpVENER2hxa3l0YXpkM0Y1SjR2R2hvY010YW5sS0U5a080ZXV0bXA5YlFtYmFqa2hiSkdOcw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "084ecf2a1d7b",
       "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆",
@@ -1124,54 +1160,6 @@
             {
               "slug": "lornoxicam",
               "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4ff48438455b",
-      "title": "乳過天晴｜「樂杖行」助力乳癌治療後復健",
-      "published": "2026-10-07T23:00:00+00:00",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }

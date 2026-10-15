@@ -14,7 +14,7 @@ permalink: /news/aluminum_oxide/
 ---
 
 <p class="key-answer" data-question="Aluminum oxide 有什麼相關新聞？">
-<strong>Aluminum oxide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aluminum oxide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/aluminum_oxide/
 <p><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [低劑量電療助退化性關節炎患者減痛](https://news.google.com/rss/articles/CBMinwJBVV95cUxNVUVXSXREaVlfVGpWaUpIeXRuQVVsY282Mkc3VVhCdnI5M09lemtTekJyX2k0S3FMa2F6eU1icmJpeXhkUF8xQlN6MHFjRW1nRkJTMkktLXV1aGFwaTh5aVpUWWdCd1d1bzZIRGF6STVlMWhnUjZFN25kVnhjQWY0WkdSbjl3LTZHSk1CcHVIZkVZbnZTV3lHV0NRRkRPUGppdVcxYVpic05fa0J4LWZBZElTSUQ0bUU0WWxaQlZVMXZmYUU4MVp5dXVZRHJ1elpBUVB4d1FPckVjSEdIdEQ3U016ellweElpMEhpVENER2hxa3l0YXpkM0Y1SjR2R2hvY010YW5sS0U5a080ZXV0bXA5YlFtYmFqa2hiSkdOcw?oc=5)
+
+2026-10-15 <span class="news-indication-tag">關節炎</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMinwJBVV95cUxNVUVXSXREaVlfVGpWaUpIeXRuQVVsY282Mkc3VVhCdnI5M09lemtTekJyX2k0S3FMa2F6eU1icmJpeXhkUF8xQlN6MHFjRW1nRkJTMkktLXV1aGFwaTh5aVpUWWdCd1d1bzZIRGF6STVlMWhnUjZFN25kVnhjQWY0WkdSbjl3LTZHSk1CcHVIZkVZbnZTV3lHV0NRRkRPUGppdVcxYVpic05fa0J4LWZBZElTSUQ0bUU0WWxaQlZVMXZmYUU4MVp5dXVZRHJ1elpBUVB4d1FPckVjSEdIdEQ3U016ellweElpMEhpVENER2hxa3l0YXpkM0Y1SjR2R2hvY010YW5sS0U5a080ZXV0bXA5YlFtYmFqa2hiSkdOcw?oc=5)
+
+---
 
 ### [退化性關節炎不只軟骨磨損！常見症狀、治療一次看醫揭葡萄糖胺定位- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxPWUpqaVpONF95c0RXRWtwd2t5Xy03bElpZ0N1UVliYTlLU3E5UE5kXzA2alU4bzlQTjhCTWNMOEtKVnMzd0toX2xCTzBLRllQcWlHQ3Q4M0hRY0JWZTB0RTktRi1vR3UzT1JpUW9kWF9xSVo3WC1hdkdUUUUxSGNOUnNNS2VEOTJyZ3Y4dVNuOVN0STQ?oc=5)
 

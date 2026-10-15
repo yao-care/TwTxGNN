@@ -1,8 +1,45 @@
 {
-  "last_updated": "2026-10-14T22:52:13.010865+00:00",
-  "total_count": 36,
+  "last_updated": "2026-10-15T01:07:14.482619+00:00",
+  "total_count": 37,
   "matched_count": 15,
   "news": [
+    {
+      "id": "93096c1b246a",
+      "title": "低劑量電療助退化性關節炎患者減痛",
+      "published": "2026-10-15T00:00:00+00:00",
+      "summary": "低劑量電療助退化性關節炎患者減痛&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNVUVXSXREaVlfVGpWaUpIeXRuQVVsY282Mkc3VVhCdnI5M09lemtTekJyX2k0S3FMa2F6eU1icmJpeXhkUF8xQlN6MHFjRW1nRkJTMkktLXV1aGFwaTh5aVpUWWdCd1d1bzZIRGF6STVlMWhnUjZFN25kVnhjQWY0WkdSbjl3LTZHSk1CcHVIZkVZbnZTV3lHV0NRRkRPUGppdVcxYVpic05fa0J4LWZBZElTSUQ0bUU0WWxaQlZVMXZmYUU4MVp5dXVZRHJ1elpBUVB4d1FPckVjSEdIdEQ3U016ellweElpMEhpVENER2hxa3l0YXpkM0Y1SjR2R2hvY010YW5sS0U5a080ZXV0bXA5YlFtYmFqa2hiSkdOcw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "關節炎",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin"
+            },
+            {
+              "slug": "aluminum_oxide",
+              "name": "Aluminum oxide"
+            },
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol"
+            },
+            {
+              "slug": "lornoxicam",
+              "name": "Lornoxicam"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "173e0729b7b9",
       "title": "新興新冠變異株 SV.2.4橫行中國南方",
@@ -38,6 +75,19 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iZUR6N1U3MHFwSFNIOXJ2NjUzS0JJdzRFbzNybElPbXFwclhTcEc5Tzh3dEY3SWNaVGlrcmV5SFY2UV9IMnlHUkV5UUFfakRpbGpzb09FcThmenloanlndlFYdTU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "121d9b21656d",
+      "title": "流感重症死亡創新高！憂肺鏈趁虛而入兒科醫：少這道防線恐成感染破口| 健康",
+      "published": "2026-10-14T07:15:00+00:00",
+      "summary": "流感重症死亡創新高！憂肺鏈趁虛而入兒科醫：少這道防線恐成感染破口| 健康&nbsp;&nbsp;三立新聞成人疫苗打滿 勿成家庭破口 | 中華日報&nbsp;&nbsp;LINE TODAY流感重症死亡創新高！憂肺鏈趁虛而入 兒科醫：少這道防線恐成感染破口&nbsp;&nbsp;三立新聞流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險- 健康新聞&nbsp;&nbsp;PChome Online 新聞流感重症死亡創近5年新高 百萬人急打疫苗 醫籲：小心肺鏈趁虛而入&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BVVZGYjltVmdGdHhmbzJEOHV6ZjhuSEduT3IyT1AtbHNWVTg3SmE1alZWekhuRU1JMXVtdmpxSDIwSUtvak54Wg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -293,7 +343,7 @@
       "id": "92f4c21c91f3",
       "title": "流感季提早數月殺到 西岸成重災區",
       "published": "2026-10-14T00:35:25+00:00",
-      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa流感和COVID呼吸道疾病殺到 當局呼籲接種免費疫苗&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa",
+      "summary": "流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa美國流感季提早逾月報到 專家示警：新變種病毒免疫逃脫力強&nbsp;&nbsp;商傳媒加州流感提早爆發 呼籲民眾接種疫苗&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Singtaousa",
@@ -1412,55 +1462,6 @@
             {
               "slug": "lornoxicam",
               "name": "Lornoxicam"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4ff48438455b",
-      "title": "乳過天晴｜「樂杖行」助力乳癌治療後復健",
-      "published": "2026-10-07T23:00:00+00:00",
-      "summary": "乳過天晴｜「樂杖行」助力乳癌治療後復健&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPTklJUmJFLTZLcjF6UHZpMXVnakhnMGJkbmJ0Qjh4bFhzbk9aUkc1NEpVRGNtTm41RXZZVTJCcUFYUWhCeUdmWHVuMnNKcTVtOVh4b1NXdk4xT1paWWxGcmVrYi15ZkliWkVGci1qVnNZSVYtV0FsNERnR1Z1WDRTX2UtbjZiczB0WHZaMlFhUjRCMDF4UFVkTmhZT0tzLWRqMDhBdHppTWFwTWdOdFFaSTJsUVNxcGZ5a0RxVHU1c2piaFI2c191Z3JzODh4c3c2ZlMwdktmcElidXlHU2VQTnh0OVlfOHk2eVYtQUdDZTFibWZzWDVtZ2lndDluQ21CUkpmYjJWSmNEa3F5cGEwRll4MExiU3QwOFJEQzBwb1FXTUFSTGJBSEcyRjJTamxlcmJ5d2VB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea"
             }
           ]
         }
