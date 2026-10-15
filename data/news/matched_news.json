@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-15T17:30:03.278147+00:00",
-  "total_count": 36,
+  "last_updated": "2026-10-15T20:44:19.963176+00:00",
+  "total_count": 35,
   "matched_count": 16,
   "news": [
     {
@@ -67,35 +67,6 @@
       "matched_keywords": []
     },
     {
-      "id": "09806ade8893",
-      "title": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY",
-      "published": "2026-10-15T09:56:41+00:00",
-      "summary": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗&nbsp;&nbsp;Rti 中央廣播電臺成人疫苗打滿 勿成家庭破口 | 中華日報&nbsp;&nbsp;LINE TODAY流感重症死亡創新高！憂肺鏈趁虛而入 兒科醫：少這道防線恐成感染破口&nbsp;&nbsp;三立新聞驚！流感46死創新高「家長」成感染破口 醫曝原因&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a42cc6da39f5",
       "title": "《華爾街日報》關於乳糖不耐受的是與非",
       "published": "2026-10-15T09:10:00+00:00",
@@ -120,6 +91,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "7aed8a6317af",
+      "title": "流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險",
+      "published": "2026-10-15T04:45:00+00:00",
+      "summary": "流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險&nbsp;&nbsp;民視健康長照網「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY流感重症死亡創新高！憂肺鏈趁虛而入 兒科醫：少這道防線恐成感染破口&nbsp;&nbsp;三立新聞驚！流感46死創新高「家長」成感染破口 醫曝原因&nbsp;&nbsp;Yahoo新聞成人疫苗打滿 勿成家庭破口&nbsp;&nbsp;中華新聞雲／中華日報",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "81e5a7166583",
@@ -352,19 +352,6 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oYU4xbFJtODF6ZmdfY2hhRmRZMVoxazFHLVo4aWtSamFQeUtpbXlQQTVnNWJ1b3VKY19sYm1YTndKaDRueE50LU40TFA0X3JQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "0def576890eb",
-      "title": "紐約州麻疹實際疫情恐比官方數據嚴重",
-      "published": "2026-10-15T01:49:00+00:00",
-      "summary": "紐約州麻疹實際疫情恐比官方數據嚴重&nbsp;&nbsp;大紀元賓州麻疹相關死亡增至6例 美國今年病例逾4000例&nbsp;&nbsp;Taiwan News賓州再傳麻疹死亡 39歲女子疑因併發症喪命&nbsp;&nbsp;大紀元賓州麻疹確診破千例 創30餘年新高&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03OG9fbkdqSG9RLVpzejhIWmVFOEc0NDdoOXZuX0Q0SW9DXzRfSF9NX202RU43QWsybENaVzR4a3JmQzZlRkxBSi1ndHdCM3pqbWJBb0pSNWZNT09qY2tsMFF30gFnQVVfeXFMT2N3UjhpR3JMNVN1N3VKR3FZYk1PR3NUOTRySVBlaFJCZ3ZNRDhVR0lXdWVzQ19KOHpTVU9fbnN5TWxkLUp4OHh2T0pIX0o5dzl3Q0dCeEh5bVNSdXdxV1hfdDdTMG82WQ?oc=5"
         }
       ],
       "matched_keywords": []

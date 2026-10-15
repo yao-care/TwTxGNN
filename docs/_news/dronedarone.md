@@ -44,11 +44,11 @@ permalink: /news/dronedarone/
 
 ## 相關新聞（3 則）
 
-### [「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
+### [流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
 2026-10-15 <span class="news-indication-tag">中風</span>
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
+來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
 ---
 
