@@ -310,7 +310,7 @@ image: /assets/images/og-default.png
 ### 驗證流程
 
 <ol class="actionable-steps">
-<li><strong>TxGNN 預測</strong>：使用知識圖譜與深度學習預測藥物-疾病關係</li>
+<li><strong>TxGNN 預測</strong>：以 TxGNN 深度學習模型預測藥物-疾病關係，並排除知識圖譜中已記錄的用途</li>
 <li><strong>資料收集 (Bundle)</strong>：自動收集 ClinicalTrials.gov、PubMed 等來源的證據</li>
 <li><strong>證據整理 (Evidence Pack)</strong>：判定 L1-L5 證據等級</li>
 <li><strong>報告產出 (Notes)</strong>：產生結構化的驗證報告</li>
@@ -476,4 +476,4 @@ TwTxGNN 是該公司「TxGNN 老藥新用」產品線的台灣站。同一套系
 
 TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medicine*；
 本平台是藥提醒科技有限公司以該模型為基礎建置的落地系統，負責各國藥證資料串接、
-知識圖譜與深度學習雙引擎預測、PubMed／ClinicalTrials 證據分級，以及 SMART on FHIR 電子病歷整合。
+深度學習預測（已排除知識圖譜中已記錄的用途）、PubMed／ClinicalTrials 證據分級，以及 SMART on FHIR 電子病歷整合。
