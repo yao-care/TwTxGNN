@@ -3,7 +3,7 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。3 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>3 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
@@ -45,14 +45,6 @@ permalink: /news/stroke/
 2026-10-12
 
 來源: [CCUE](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTDRlVU5NWG00aVhoZ0xDRlQxajBBYmN0NjhRT0pfMU9RX1JCTGlmX2ljakZlNlhnMEtiWFR3b1lMYjNqZlVJajl6SjJLRGMtanN1TG1MdEZ6dkNJU1hsNXBHckVNLWZDdnlhMkVuazdXUGVmNWFieklPbTFiZWZaVms3bHVmOUlGUmlMYTVQUEdsS3pDY1JhUEE4TWxEY1FQdmpTcUEyeVluUXo0RFhlNHNwTGNvTThCOTRtejdlX2ppMW84NUstbFdFZHdRTHZsNGkxNHA4UHNMaGJrdmZrZWswYVRnTnVaUHprN1ZKQU5jcWlJd2lWUm9RYjFheUhGUmFyWTg1SlBieUtWRXpMOGQzWDVFRHFuR2hmRkMyWkxKOGZEbVRfd183QmFzQTJ3eHFQWVpfcGJiM25ySVFtQmMzYzBudUxUaEtBYlhGS241S3lXNUE?oc=5)
-
----
-
-### [偏頭痛別亂吞阿斯匹靈！醫揭「恐胃出血」 1組合中風機率狂飆](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
-
-2026-10-09
-
-來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
 
 ---
 

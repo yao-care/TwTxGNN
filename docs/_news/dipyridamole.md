@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/dipyridamole/
 2026-10-12 <span class="news-indication-tag">中風</span>
 
 來源: [CCUE](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTDRlVU5NWG00aVhoZ0xDRlQxajBBYmN0NjhRT0pfMU9RX1JCTGlmX2ljakZlNlhnMEtiWFR3b1lMYjNqZlVJajl6SjJLRGMtanN1TG1MdEZ6dkNJU1hsNXBHckVNLWZDdnlhMkVuazdXUGVmNWFieklPbTFiZWZaVms3bHVmOUlGUmlMYTVQUEdsS3pDY1JhUEE4TWxEY1FQdmpTcUEyeVluUXo0RFhlNHNwTGNvTThCOTRtejdlX2ppMW84NUstbFdFZHdRTHZsNGkxNHA4UHNMaGJrdmZrZWswYVRnTnVaUHprN1ZKQU5jcWlJd2lWUm9RYjFheUhGUmFyWTg1SlBieUtWRXpMOGQzWDVFRHFuR2hmRkMyWkxKOGZEbVRfd183QmFzQTJ3eHFQWVpfcGJiM25ySVFtQmMzYzBudUxUaEtBYlhGS241S3lXNUE?oc=5)
-
----
-
-### [偏頭痛別亂吞阿斯匹靈！醫揭「恐胃出血」 1組合中風機率狂飆](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
-
-2026-10-09 <span class="news-indication-tag">中風</span>
-
-來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBRWDJKcThrbVNkZHp0M1JrTmlKYlJzNUtiS2VNVkZiUXlHVkppMEg1UWZpZU5Ba3Q5ZlVRZksxanJ5NHc5NG9sNHFEQkNsUy1P?oc=5)
 
 ---
 
