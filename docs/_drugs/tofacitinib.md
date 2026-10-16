@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Tofacitinib
 parent: 僅模型預測 (L5)
