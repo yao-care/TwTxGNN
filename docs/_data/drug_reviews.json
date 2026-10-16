@@ -1054,12 +1054,12 @@
    "drug": "aluminum_oxide",
    "file": "aluminum_oxide.md",
    "checked": "2026-10-03",
-   "action": "annotate",
+   "action": "correct",
    "section": "一句話總結",
-   "summary": "把 aluminum oxide 寫成氫氧化鋁",
+   "summary": "一句話總結把 aluminum oxide 寫成氫氧化鋁",
    "claim": "Aluminum oxide（氫氧化鋁）是常見的制酸劑，原本用於緩解胃酸過多，以及胃、十二指腸潰瘍與胃炎。",
    "finding": "主成分登載為 aluminum oxide (alumina) 的唯一有效單方許可證是內衛藥製字第009846號「人人」氫氧化鋁凝膠（ALUMINUM HYDROXIDE GEL），核准緩解胃部不適或灼熱感、或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。",
-   "note": "主成分登載為 aluminum oxide (alumina) 的唯一有效單方許可證是內衛藥製字第009846號「人人」氫氧化鋁凝膠（ALUMINUM HYDROXIDE GEL），核准緩解胃部不適或灼熱感、或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。原文保留。",
+   "note": "主成分登載為 aluminum oxide (alumina) 的唯一有效單方許可證是內衛藥製字第009846號「人人」氫氧化鋁凝膠（ALUMINUM HYDROXIDE GEL），核准緩解胃部不適或灼熱感、或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。已改寫成分名稱。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
@@ -1163,9 +1163,33 @@
      "retired": "2026-10-16",
      "reason": "2026-10-16 pm 驗收：claim 欄改為目前錨點句（原句已不在新報告）",
      "reanchored": false
+    },
+    {
+     "id": "aluminum-oxide-gel-is-aluminum-hydroxide-gel-2026-10-03",
+     "drug": "aluminum_oxide",
+     "file": "aluminum_oxide.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "一句話總結",
+     "summary": "把 aluminum oxide 寫成氫氧化鋁",
+     "claim": "Aluminum oxide（氫氧化鋁）是常見的制酸劑，原本用於緩解胃酸過多，以及胃、十二指腸潰瘍與胃炎。",
+     "finding": "主成分登載為 aluminum oxide (alumina) 的唯一有效單方許可證是內衛藥製字第009846號「人人」氫氧化鋁凝膠（ALUMINUM HYDROXIDE GEL），核准緩解胃部不適或灼熱感、或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。",
+     "note": "主成分登載為 aluminum oxide (alumina) 的唯一有效單方許可證是內衛藥製字第009846號「人人」氫氧化鋁凝膠（ALUMINUM HYDROXIDE GEL），核准緩解胃部不適或灼熱感、或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 內衛藥製字第009846號｜中文品名 \"人人\"氫氧化鋁凝膠｜主成分略述 ALUMINUM OXIDE (ALUMINA)｜狀態 有效（至 2029/12/31）｜適應症 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "anchor": "Aluminum oxide（氫氧化鋁）是常見的制酸劑，原本用於緩解胃酸過多，以及胃、十二指腸潰瘍與胃炎。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
-   "anchor": "Aluminum oxide（氫氧化鋁）是常見的制酸劑，原本用於緩解胃酸過多，以及胃、十二指腸潰瘍與胃炎。"
+   "replacement": "Aluminum oxide（氧化鋁）在台灣唯一有效的單方許可證實為氫氧化鋁凝膠制酸劑（內衛藥製字第009846號，主成分欄登載為 aluminum oxide），核准緩解胃酸過多，以及胃、十二指腸潰瘍與胃炎伴隨的胃酸過多。"
   },
   {
    "id": "anthralin-licenses-not-9-active-2026-10-03",
@@ -2107,7 +2131,7 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告「原適應症」列已寫明單方許可證為防腐劑用途、眼部症狀屬複方；標題與一句話總結仍把眼部適應症算給本藥，另以 -title／-summary 紀錄更正"
+   "resolved_note": "新報告「原適應症」列已寫明單方許可證為防腐劑用途、眼部症狀屬複方；標題與一句話總結仍把眼部適應症算給本藥，另有查核紀錄更正"
   },
   {
    "id": "chlorobutanol-license-rows-combo-2026-10-03",
@@ -2351,7 +2375,7 @@
    "summary": "「台灣目前無任何藥品許可證」",
    "claim": "，但台灣目前無任何藥品許可證。",
    "replacement": "；台灣目前有 14 張有效許可證（主成分色甘酸鈉，多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑）。",
-   "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+   "finding": "截至資料集日期（2026-09-29），主成分為色甘酸鈉（cromolyn sodium）的有效單方許可證共 13 張（另 1 張衛署藥製字第051028號已過期），多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。（2026-10-03 初判時未區分已過期，寫成 14 張）",
    "note": "台灣目前有 14 張主成分為色甘酸鈉（cromolyn sodium）的有效許可證，多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑。",
    "sources": [
     {
@@ -2362,7 +2386,35 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "history": [
+    {
+     "id": "cromoglicic-acid-tw-license-summary-2026-10-03",
+     "drug": "cromoglicic_acid",
+     "file": "cromoglicic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "「台灣目前無任何藥品許可證」",
+     "claim": "，但台灣目前無任何藥品許可證。",
+     "replacement": "；台灣目前有 14 張有效許可證（主成分色甘酸鈉，多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑）。",
+     "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+     "note": "台灣目前有 14 張主成分為色甘酸鈉（cromolyn sodium）的有效許可證，多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第039964號｜中文品名 信妥單劑量點眼液2%｜英文品名 SINTAL SINGLE DOSE UNIT EYE DROPS 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2031/05/06 ／ 許可證字號 衛署藥輸字第023892號｜中文品名 悅力舒點眼液｜英文品名 ALLERGO-COMOD EYE DROPS｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2028/12/09 ／ 許可證字號 衛署藥輸字第021824號｜中文品名 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ｜英文品名 ALLERGOCROM NASAL SPRAY SOLUTION 2.8MG/SPRAY｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性鼻炎｜註銷狀態 （空白，未註銷）｜有效日期 2027/07/24 ／ 許可證字號 衛署藥製字第047809號｜中文品名 \"黃氏\" 敏保鼻用噴液劑｜英文品名 Cromyn Nasal Spray \"H.S.\"｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 各種過敏性鼻炎、季節性及全年性的鼻炎、乾草熱。｜註銷狀態 （空白，未註銷）｜有效日期 2031/02/10",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "superseded",
+     "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "id": "cromoglicic-acid-original-indication-2026-10-03",
@@ -2374,7 +2426,7 @@
    "summary": "原適應症「（台灣未登記）」",
    "claim": "| 原適應症 | 過敏性結膜炎、氣喘（台灣未登記） |",
    "replacement": "| 原適應症 | 過敏性結膜炎、過敏性鼻炎（台灣有效許可證） |",
-   "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+   "finding": "截至資料集日期（2026-09-29），主成分為色甘酸鈉（cromolyn sodium）的有效單方許可證共 13 張（另 1 張衛署藥製字第051028號已過期），多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。（2026-10-03 初判時未區分已過期，寫成 14 張）",
    "note": "台灣有效許可證核准的適應症為過敏性結膜炎（點眼液）與過敏性鼻炎（噴鼻劑）。",
    "sources": [
     {
@@ -2386,7 +2438,36 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告寫明已上市、有效單方 13 張（另 1 張已過期），未再稱台灣未登記"
+   "resolved_note": "新報告「原適應症」列未再寫「台灣未登記」；同一份報告的「台灣上市」列仍寫未上市、結論仍寫無上市許可證，另有查核紀錄更正",
+   "history": [
+    {
+     "id": "cromoglicic-acid-original-indication-2026-10-03",
+     "drug": "cromoglicic_acid",
+     "file": "cromoglicic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「原適應症」",
+     "summary": "原適應症「（台灣未登記）」",
+     "claim": "| 原適應症 | 過敏性結膜炎、氣喘（台灣未登記） |",
+     "replacement": "| 原適應症 | 過敏性結膜炎、過敏性鼻炎（台灣有效許可證） |",
+     "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+     "note": "台灣有效許可證核准的適應症為過敏性結膜炎（點眼液）與過敏性鼻炎（噴鼻劑）。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第039964號｜中文品名 信妥單劑量點眼液2%｜英文品名 SINTAL SINGLE DOSE UNIT EYE DROPS 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2031/05/06 ／ 許可證字號 衛署藥輸字第023892號｜中文品名 悅力舒點眼液｜英文品名 ALLERGO-COMOD EYE DROPS｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2028/12/09 ／ 許可證字號 衛署藥輸字第021824號｜中文品名 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ｜英文品名 ALLERGOCROM NASAL SPRAY SOLUTION 2.8MG/SPRAY｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性鼻炎｜註銷狀態 （空白，未註銷）｜有效日期 2027/07/24 ／ 許可證字號 衛署藥製字第047809號｜中文品名 \"黃氏\" 敏保鼻用噴液劑｜英文品名 Cromyn Nasal Spray \"H.S.\"｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 各種過敏性鼻炎、季節性及全年性的鼻炎、乾草熱。｜註銷狀態 （空白，未註銷）｜有效日期 2031/02/10",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-10-15",
+     "resolved_note": "新報告「原適應症」列未再寫「台灣未登記」；同一份報告的「台灣上市」列仍寫未上市、結論仍寫無上市許可證，另有查核紀錄更正",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "id": "cromoglicic-acid-tw-marketed-2026-10-03",
@@ -2398,7 +2479,7 @@
    "summary": "台灣上市「未上市」",
    "claim": "| 台灣上市 | ✗ 未上市 |",
    "replacement": "| 台灣上市 | ✓ 已上市 |",
-   "finding": "台灣有主成分為色甘酸鈉的有效許可證，屬已上市。",
+   "finding": "截至資料集日期（2026-09-29），主成分為色甘酸鈉（cromolyn sodium）的有效單方許可證共 13 張（另 1 張衛署藥製字第051028號已過期），多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。（2026-10-03 初判時未區分已過期，寫成 14 張）",
    "note": "台灣有主成分為色甘酸鈉的有效許可證，屬已上市。",
    "sources": [
     {
@@ -2406,6 +2487,32 @@
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "許可證字號 衛署藥製字第039964號｜中文品名 信妥單劑量點眼液2%｜英文品名 SINTAL SINGLE DOSE UNIT EYE DROPS 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2031/05/06 ／ 許可證字號 衛署藥輸字第023892號｜中文品名 悅力舒點眼液｜英文品名 ALLERGO-COMOD EYE DROPS｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2028/12/09 ／ 許可證字號 衛署藥輸字第021824號｜中文品名 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ｜英文品名 ALLERGOCROM NASAL SPRAY SOLUTION 2.8MG/SPRAY｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性鼻炎｜註銷狀態 （空白，未註銷）｜有效日期 2027/07/24 ／ 許可證字號 衛署藥製字第047809號｜中文品名 \"黃氏\" 敏保鼻用噴液劑｜英文品名 Cromyn Nasal Spray \"H.S.\"｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 各種過敏性鼻炎、季節性及全年性的鼻炎、乾草熱。｜註銷狀態 （空白，未註銷）｜有效日期 2031/02/10",
      "accessed": "2026-10-03"
+    }
+   ],
+   "history": [
+    {
+     "id": "cromoglicic-acid-tw-marketed-2026-10-03",
+     "drug": "cromoglicic_acid",
+     "file": "cromoglicic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「台灣上市」",
+     "summary": "台灣上市「未上市」",
+     "claim": "| 台灣上市 | ✗ 未上市 |",
+     "replacement": "| 台灣上市 | ✓ 已上市 |",
+     "finding": "台灣有主成分為色甘酸鈉的有效許可證，屬已上市。",
+     "note": "台灣有主成分為色甘酸鈉的有效許可證，屬已上市。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第039964號｜中文品名 信妥單劑量點眼液2%｜英文品名 SINTAL SINGLE DOSE UNIT EYE DROPS 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2031/05/06 ／ 許可證字號 衛署藥輸字第023892號｜中文品名 悅力舒點眼液｜英文品名 ALLERGO-COMOD EYE DROPS｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2028/12/09 ／ 許可證字號 衛署藥輸字第021824號｜中文品名 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ｜英文品名 ALLERGOCROM NASAL SPRAY SOLUTION 2.8MG/SPRAY｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性鼻炎｜註銷狀態 （空白，未註銷）｜有效日期 2027/07/24 ／ 許可證字號 衛署藥製字第047809號｜中文品名 \"黃氏\" 敏保鼻用噴液劑｜英文品名 Cromyn Nasal Spray \"H.S.\"｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 各種過敏性鼻炎、季節性及全年性的鼻炎、乾草熱。｜註銷狀態 （空白，未註銷）｜有效日期 2031/02/10",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -2419,7 +2526,7 @@
    "summary": "許可證數「0 張」",
    "claim": "| 許可證數 | 0 張 |",
    "replacement": "| 許可證數 | 14 張（有效） |",
-   "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+   "finding": "截至資料集日期（2026-09-29），主成分為色甘酸鈉（cromolyn sodium）的有效單方許可證共 13 張（另 1 張衛署藥製字第051028號已過期），多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。（2026-10-03 初判時未區分已過期，寫成 14 張）",
    "note": "依 TFDA 許可證資料，主成分為色甘酸鈉的有效許可證為 14 張。",
    "sources": [
     {
@@ -2430,7 +2537,35 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "history": [
+    {
+     "id": "cromoglicic-acid-tw-license-count-2026-10-03",
+     "drug": "cromoglicic_acid",
+     "file": "cromoglicic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「許可證數」",
+     "summary": "許可證數「0 張」",
+     "claim": "| 許可證數 | 0 張 |",
+     "replacement": "| 許可證數 | 14 張（有效） |",
+     "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+     "note": "依 TFDA 許可證資料，主成分為色甘酸鈉的有效許可證為 14 張。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第039964號｜中文品名 信妥單劑量點眼液2%｜英文品名 SINTAL SINGLE DOSE UNIT EYE DROPS 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2031/05/06 ／ 許可證字號 衛署藥輸字第023892號｜中文品名 悅力舒點眼液｜英文品名 ALLERGO-COMOD EYE DROPS｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2028/12/09 ／ 許可證字號 衛署藥輸字第021824號｜中文品名 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ｜英文品名 ALLERGOCROM NASAL SPRAY SOLUTION 2.8MG/SPRAY｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性鼻炎｜註銷狀態 （空白，未註銷）｜有效日期 2027/07/24 ／ 許可證字號 衛署藥製字第047809號｜中文品名 \"黃氏\" 敏保鼻用噴液劑｜英文品名 Cromyn Nasal Spray \"H.S.\"｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 各種過敏性鼻炎、季節性及全年性的鼻炎、乾草熱。｜註銷狀態 （空白，未註銷）｜有效日期 2031/02/10",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "superseded",
+     "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "id": "cromoglicic-acid-tw-license-section-2026-10-03",
@@ -2442,7 +2577,7 @@
    "summary": "「在台灣目前無任何藥品許可證，屬未上市藥物」",
    "claim": "Cromoglicic acid 在台灣目前**無任何藥品許可證**，屬未上市藥物。若有研究需求，需透過 TFDA 專案核准（專案進口）管道取得。",
    "replacement": "Cromoglicic acid（色甘酸鈉，cromolyn sodium）在台灣目前有 14 張有效藥品許可證，多為過敏性結膜炎點眼液（例如信妥單劑量點眼液2%、悅力舒點眼液）與過敏性鼻炎噴鼻劑（例如艾麗鼻用噴液劑），另有原料藥許可證。",
-   "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+   "finding": "截至資料集日期（2026-09-29），主成分為色甘酸鈉（cromolyn sodium）的有效單方許可證共 13 張（另 1 張衛署藥製字第051028號已過期），多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。（2026-10-03 初判時未區分已過期，寫成 14 張）",
    "note": "台灣目前有 14 張主成分為色甘酸鈉的有效許可證（點眼液、噴鼻劑與原料藥）。",
    "sources": [
     {
@@ -2453,7 +2588,35 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "history": [
+    {
+     "id": "cromoglicic-acid-tw-license-section-2026-10-03",
+     "drug": "cromoglicic_acid",
+     "file": "cromoglicic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "台灣上市資訊",
+     "summary": "「在台灣目前無任何藥品許可證，屬未上市藥物」",
+     "claim": "Cromoglicic acid 在台灣目前**無任何藥品許可證**，屬未上市藥物。若有研究需求，需透過 TFDA 專案核准（專案進口）管道取得。",
+     "replacement": "Cromoglicic acid（色甘酸鈉，cromolyn sodium）在台灣目前有 14 張有效藥品許可證，多為過敏性結膜炎點眼液（例如信妥單劑量點眼液2%、悅力舒點眼液）與過敏性鼻炎噴鼻劑（例如艾麗鼻用噴液劑），另有原料藥許可證。",
+     "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+     "note": "台灣目前有 14 張主成分為色甘酸鈉的有效許可證（點眼液、噴鼻劑與原料藥）。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第039964號｜中文品名 信妥單劑量點眼液2%｜英文品名 SINTAL SINGLE DOSE UNIT EYE DROPS 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2031/05/06 ／ 許可證字號 衛署藥輸字第023892號｜中文品名 悅力舒點眼液｜英文品名 ALLERGO-COMOD EYE DROPS｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2028/12/09 ／ 許可證字號 衛署藥輸字第021824號｜中文品名 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ｜英文品名 ALLERGOCROM NASAL SPRAY SOLUTION 2.8MG/SPRAY｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性鼻炎｜註銷狀態 （空白，未註銷）｜有效日期 2027/07/24 ／ 許可證字號 衛署藥製字第047809號｜中文品名 \"黃氏\" 敏保鼻用噴液劑｜英文品名 Cromyn Nasal Spray \"H.S.\"｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 各種過敏性鼻炎、季節性及全年性的鼻炎、乾草熱。｜註銷狀態 （空白，未註銷）｜有效日期 2031/02/10",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "superseded",
+     "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "id": "cromoglicic-acid-next-step-license-2026-10-03",
@@ -2464,7 +2627,7 @@
    "section": "結論與下一步",
    "summary": "下一步「目前 0 張許可證」",
    "claim": "- 評估台灣 TFDA 引進路徑（目前 0 張許可證，需確認專案進口或新申請可行性）",
-   "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+   "finding": "截至資料集日期（2026-09-29），主成分為色甘酸鈉（cromolyn sodium）的有效單方許可證共 13 張（另 1 張衛署藥製字第051028號已過期），多為過敏性結膜炎點眼液與過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。（2026-10-03 初判時未區分已過期，寫成 14 張）",
    "note": "依 TFDA 許可證資料，台灣目前有 14 張主成分為色甘酸鈉的有效許可證（點眼液與噴鼻劑），並非 0 張；建議內容原文保留。",
    "sources": [
     {
@@ -2475,7 +2638,34 @@
     }
    ],
    "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "history": [
+    {
+     "id": "cromoglicic-acid-next-step-license-2026-10-03",
+     "drug": "cromoglicic_acid",
+     "file": "cromoglicic_acid.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "下一步「目前 0 張許可證」",
+     "claim": "- 評估台灣 TFDA 引進路徑（目前 0 張許可證，需確認專案進口或新申請可行性）",
+     "finding": "TFDA 許可證資料中，主成分為 cromolyn sodium（sodium cromoglicate，色甘酸鈉）的許可證目前有 14 張有效（未註銷），包括信妥單劑量點眼液2%、悅力舒點眼液等過敏性結膜炎點眼液，以及艾麗鼻用噴液劑等過敏性鼻炎噴鼻劑；頁面寫「無任何藥品許可證」「未上市」「0 張」與許可證資料不符。",
+     "note": "依 TFDA 許可證資料，台灣目前有 14 張主成分為色甘酸鈉的有效許可證（點眼液與噴鼻劑），並非 0 張；建議內容原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第039964號｜中文品名 信妥單劑量點眼液2%｜英文品名 SINTAL SINGLE DOSE UNIT EYE DROPS 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2031/05/06 ／ 許可證字號 衛署藥輸字第023892號｜中文品名 悅力舒點眼液｜英文品名 ALLERGO-COMOD EYE DROPS｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜適應症 過敏性結膜炎｜註銷狀態 （空白，未註銷）｜有效日期 2028/12/09",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "superseded",
+     "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "id": "cortisone-acetate-original-indication-2026-10-03",
@@ -2566,7 +2756,7 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "一句話總結已改寫為「原本用於末梢血管循環障礙」；推論段「原適應症為末梢與腦循環障礙」由 cyclandelate-why-indication-premise 紀錄處理"
+   "resolved_note": "一句話總結已改寫為「原本用於末梢血管循環障礙」；推論段「原適應症為末梢與腦循環障礙」由另一筆查核紀錄處理"
   },
   {
    "id": "cyclandelate-why-indication-premise-2026-10-03",
@@ -2672,7 +2862,7 @@
    "summary": "原核准適應症混入其他成分與已註銷複方的適應症",
    "claim": "| 原核准適應症 | 暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛 |",
    "replacement": "| 原核准適應症 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀（衛署藥製字第002658號） |",
-   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
+   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。",
    "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），適應症為「預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀」；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。已改為許可證原文。",
    "sources": [
     {
@@ -2732,11 +2922,38 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
+    },
+    {
+     "id": "cyclizine-original-indication-2026-10-03",
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「原核准適應症」",
+     "summary": "原核准適應症混入其他成分與已註銷複方的適應症",
+     "claim": "| 原核准適應症 | 暈動症、過敏性皮膚炎、濕疹、蕁麻疹、支氣管氣喘、偏頭痛 |",
+     "replacement": "| 原核准適應症 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀（衛署藥製字第002658號） |",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），適應症為「預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀」；過敏性皮膚炎、濕疹、氣喘、蕁麻疹屬於 homochlorcyclizine／chlorcyclizine 等不同成分，偏頭痛屬於已於 2010-05-31 註銷的 ergotamine 複方。已改為許可證原文。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜英文品名 LIUMPIN TABLETS｜主成分略述 CYCLIZINE HCL｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/25 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜英文品名 HOMOMIN TABLETS 10MG \"Y.Y.\"(HOMOCHLORCYCLIZINE)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜英文品名 ZIMIN S.C. TABLETS (CHLORCYCLIZINE) \"NCP\"｜主成分略述 CHLORCYCLIZINE HCL｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥輸字第011158號｜中文品名 邁克寧錠｜主成分略述 CYCLIZINE HCL;;CAFFEINE (HYDRATE);;ERGOTAMINE TARTRATE｜適應症 偏頭痛及因偏頭痛所引起之噁心、嘔吐、頭暈等症狀之緩解｜註銷狀態 已註銷｜註銷日期 2010/05/31",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-10-15",
+     "resolved_note": "新報告「原適應症」列已是旅暈平錠的動暈症適應症原文；標題、一句話總結、對照表鼻炎列與結論仍稱過敏適應症屬仿單內，另以 cyclizine-why-approved-premise 系列紀錄更正",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告「原適應症」列已是旅暈平錠的動暈症適應症原文；標題、一句話總結、對照表鼻炎列與結論仍稱過敏適應症屬仿單內，另以 cyclizine-why-approved-premise 系列紀錄更正"
+   "resolved_note": "新報告「原適應症」列已是旅暈平錠的動暈症適應症原文；標題、一句話總結、對照表鼻炎列與結論仍稱過敏適應症屬仿單內，另有查核紀錄更正"
   },
   {
    "id": "cyclizine-tw-license-other-ingredients-2026-10-03",
@@ -2747,7 +2964,7 @@
    "section": "台灣上市資訊",
    "summary": "主要製劑表列入 homochlorcyclizine、chlorcyclizine 製劑",
    "claim": "| 衛署藥製字第032336號 | 應元赫敏錠 (Homochlorcyclizine) | 過敏性皮疹、濕疹、氣喘 | 有效 |",
-   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
+   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。",
    "note": "表中「應元赫敏錠」主成分是 homochlorcyclizine、「止敏糖衣錠」主成分是 chlorcyclizine，都是與 cyclizine 不同的成分，其過敏適應症不是 cyclizine 的核准適應症；台灣現行 cyclizine 單方許可證只有「旅暈平錠」（動暈症）。原文保留。",
    "sources": [
     {
@@ -2770,6 +2987,31 @@
      "summary": "主要製劑表列入 homochlorcyclizine、chlorcyclizine 製劑",
      "claim": "| 衛署藥製字第032336號 | 應元赫敏錠 (Homochlorcyclizine) | 過敏性皮疹、濕疹、氣喘 | 有效 |",
      "finding": "TFDA 許可證資料中，主成分為 cyclizine 的現行有效許可證只有衛署藥製字第002658號「旅暈平錠」，適應症為預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。過敏性皮膚炎、濕疹、支氣管氣喘來自「赫敏錠」（homochlorcyclizine）、過敏性鼻炎與搔癢來自「止敏糖衣錠」（chlorcyclizine），兩者是不同成分；偏頭痛來自 ergotamine＋caffeine＋cyclizine 複方「邁克寧錠」，已於 2010-05-31 註銷。",
+     "note": "表中「應元赫敏錠」主成分是 homochlorcyclizine、「止敏糖衣錠」主成分是 chlorcyclizine，都是與 cyclizine 不同的成分，其過敏適應症不是 cyclizine 的核准適應症；台灣現行 cyclizine 單方許可證只有「旅暈平錠」（動暈症）。原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜英文品名 LIUMPIN TABLETS｜主成分略述 CYCLIZINE HCL｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/25 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜英文品名 HOMOMIN TABLETS 10MG \"Y.Y.\"(HOMOCHLORCYCLIZINE)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜英文品名 ZIMIN S.C. TABLETS (CHLORCYCLIZINE) \"NCP\"｜主成分略述 CHLORCYCLIZINE HCL｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。｜註銷狀態 （空白，未註銷）",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "superseded",
+     "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    },
+    {
+     "id": "cyclizine-tw-license-other-ingredients-2026-10-03",
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "台灣上市資訊",
+     "summary": "主要製劑表列入 homochlorcyclizine、chlorcyclizine 製劑",
+     "claim": "| 衛署藥製字第032336號 | 應元赫敏錠 (Homochlorcyclizine) | 過敏性皮疹、濕疹、氣喘 | 有效 |",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
      "note": "表中「應元赫敏錠」主成分是 homochlorcyclizine、「止敏糖衣錠」主成分是 chlorcyclizine，都是與 cyclizine 不同的成分，其過敏適應症不是 cyclizine 的核准適應症；台灣現行 cyclizine 單方許可證只有「旅暈平錠」（動暈症）。原文保留。",
      "sources": [
       {
@@ -2931,9 +3173,42 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
+    },
+    {
+     "id": "cyclizine-why-approved-premise-2026-10-03",
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "為什麼這個預測合理？",
+     "summary": "預測理由稱 cyclizine 單方已列蕁麻疹等過敏適應症",
+     "claim": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。推論原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      },
+      {
+       "title": "emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1",
+       "url": "https://www.medicines.org.uk/emc/product/4318/smpc",
+       "excerpt": "§4.1: Cyclizine Hydrochloride is indicated in adults and in children aged 6 years and over for the prevention and treatment of nausea and vomiting including:- • Motion sickness. • Nausea and vomiting caused by narcotic analgesics and by general anaesthetics in the post-operative period. • Vomiting associated with radiotherapy, especially for breast cancer since cyclizine does not elevate prolactin levels. ／ §5.1: Cyclizine is a histamine H 1 receptor antagonist of the piperazine class which is characterised by a low incidence of drowsiness. It possesses anticholinergic and antiemetic properties.",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "anchor": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
-   "anchor": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症"
+   "anchor": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症",
+   "status": "withdrawn",
+   "withdrawn_on": "2026-10-16",
+   "withdrawn_note": "原句已改以「預測理由稱 cyclizine 單方已列有蕁麻疹等過敏適應症」更正處理，本筆加註併入該筆"
   },
   {
    "id": "cyclizine-prediction-rereview-2026-10-03",
@@ -3198,7 +3473,7 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告未再寫「以 ursodeoxycholic acid 產品為主流」；把膽結石算成本藥用途的寫法（一句話總結、快速總覽、標題、預測理由）另以 deoxycholic-acid-summary／original 系列紀錄更正"
+   "resolved_note": "新報告未再寫「以 ursodeoxycholic acid 產品為主流」；把膽結石算成本藥用途的寫法（一句話總結、快速總覽、標題、預測理由）另有查核紀錄更正"
   },
   {
    "id": "desogestrel-tw-license-combo-2026-10-03",
@@ -4023,7 +4298,7 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告「原適應症」列為有效許可證的「鎮痛」；標題、一句話總結、預測理由與結論仍把已註銷許可證的關節炎適應症當原用途，另以 fenoprofen-why-as-premise 系列紀錄處理"
+   "resolved_note": "新報告「原適應症」列為有效許可證的「鎮痛」；標題、一句話總結、預測理由與結論仍把已註銷許可證的關節炎適應症當原用途，另有查核紀錄處理"
   },
   {
    "id": "fenoprofen-why-as-premise-2026-10-03",
@@ -4032,7 +4307,7 @@
    "checked": "2026-10-03",
    "action": "annotate",
    "section": "為什麼這個預測合理？",
-   "summary": "「部分原核准適應症已包含關節強硬性脊椎炎」",
+   "summary": "「原核准適應症中也包含關節強硬性脊椎炎」",
    "claim": "Fenoprofen 的原核准適應症中也包含關節強硬性脊椎炎（僵直性脊椎炎的舊稱）",
    "finding": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。",
    "note": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。推論原文保留。",
@@ -4114,6 +4389,30 @@
      "anchor": "Fenoprofen 的原核准適應症中也包含關節強硬性脊椎炎（僵直性脊椎炎的舊稱）",
      "retired": "2026-10-16",
      "reason": "2026-10-16 pm 驗收：claim 欄改為目前錨點句（原句已不在新報告）",
+     "reanchored": false
+    },
+    {
+     "id": "fenoprofen-why-as-premise-2026-10-03",
+     "drug": "fenoprofen",
+     "file": "fenoprofen.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "為什麼這個預測合理？",
+     "summary": "「部分原核准適應症已包含關節強硬性脊椎炎」",
+     "claim": "Fenoprofen 的原核准適應症中也包含關節強硬性脊椎炎（僵直性脊椎炎的舊稱）",
+     "finding": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。",
+     "note": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。推論原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第041435號｜中文品名 \"應元\"炎普朗膠囊２００毫克（芬諾普芬）｜主成分略述 FENOPROFEN CALCIUM｜適應症 鎮痛。｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第037862號｜中文品名 伏炎痛膠囊｜主成分略述 FENOPROFEN (CALCIUM)｜適應症 鎮痛。｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第011765號｜中文品名 風諾保膠囊３００公絲｜主成分略述 FENOPROFEN (CALCIUM)｜適應症 風濕性關節炎、骨關節炎、關節強硬性脊椎炎、急性痛風、非關節風濕病、外傷、手術後傷口、女陰切開術後或子宮痙攣所致之疼痛、內、外科病症所引起之發燒｜註銷狀態 已註銷｜註銷日期 2002/09/02",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "anchor": "Fenoprofen 的原核准適應症中也包含關節強硬性脊椎炎（僵直性脊椎炎的舊稱）",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
    ],
@@ -4896,7 +5195,7 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告「原適應症」列為單方許可證的慢性阻塞性肺疾維持治療；預測理由與其他預測段仍寫 COPD 與氣喘，另以 -why／-other 紀錄更正"
+   "resolved_note": "新報告「原適應症」列為單方許可證的慢性阻塞性肺疾維持治療；預測理由與其他預測段仍寫 COPD 與氣喘，另有查核紀錄更正"
   },
   {
    "id": "interferon-beta-1b-license-cancelled-2026-10-03",
@@ -5026,13 +5325,13 @@
    "section": "一句話總結",
    "summary": "一句話總結稱乳酸見於腸胃藥",
    "claim": "也出現在部分腸胃藥與除疣劑中",
-   "finding": "2026-10-15 報告重生後仍寫乳酸出現在腸胃藥中；現行有效的這類腸胃藥（表飛鳴－樂錠／散）主成分是抗生素耐性乳酸菌。TFDA 資料集中，截至資料集日期，乳酸的有效單方許可證除 1 張乳酸鈉原料藥溶液（衛部藥輸字第027230號，電解質平衡補充劑、體液及尿液鹼化劑）外，都是外用液劑（陰道及陰部洗潔除臭、白帶）；「整腸」只見於已註銷的複方（「表舒鳴」散劑含比菲德氏菌、糞鏈球菌與乳酸；「寶兒康顆粒」為維生素複方），沒有含乳酸的口服錠劑許可證。",
-   "note": "2026-10-15 報告重生後仍寫乳酸出現在腸胃藥中；現行有效的這類腸胃藥（表飛鳴－樂錠／散）主成分是抗生素耐性乳酸菌。TFDA 資料集中，截至資料集日期，乳酸的有效單方許可證除 1 張乳酸鈉原料藥溶液（衛部藥輸字第027230號，電解質平衡補充劑、體液及尿液鹼化劑）外，都是外用液劑（陰道及陰部洗潔除臭、白帶）；「整腸」只見於已註銷的複方（「表舒鳴」散劑含比菲德氏菌、糞鏈球菌與乳酸；「寶兒康顆粒」為維生素複方），沒有含乳酸的口服錠劑許可證。",
+   "finding": "2026-10-15 報告重生後仍寫乳酸出現在腸胃藥中；現行有效的這類腸胃藥（表飛鳴－樂錠／散）主成分是抗生素耐性乳酸菌。TFDA 資料集中，截至資料集日期，乳酸的有效單方許可證除 1 張乳酸鈉原料藥溶液（衛部藥輸字第027230號，電解質平衡補充劑、體液及尿液鹼化劑）外，都是外用液劑（陰道及陰部洗潔除臭、白帶）；「整腸」只見於已註銷的複方（「表舒鳴」散劑含比菲德氏菌、糞鏈球菌與乳酸；「寶兒康顆粒」為維生素複方）。含乳酸鹽的口服錠劑只有鈣補充劑（如有效複方內衛藥製字第006734號「紐約」純鈣片、已過期的內衛藥製字第007474號奧斯鈣片，含 calcium lactate），用途是補鈣，不是整腸。",
+   "note": "2026-10-15 報告重生後仍寫乳酸出現在腸胃藥中；現行有效的這類腸胃藥（表飛鳴－樂錠／散）主成分是抗生素耐性乳酸菌。TFDA 資料集中，截至資料集日期，乳酸的有效單方許可證除 1 張乳酸鈉原料藥溶液（衛部藥輸字第027230號，電解質平衡補充劑、體液及尿液鹼化劑）外，都是外用液劑（陰道及陰部洗潔除臭、白帶）；「整腸」只見於已註銷的複方（「表舒鳴」散劑含比菲德氏菌、糞鏈球菌與乳酸；「寶兒康顆粒」為維生素複方）。含乳酸鹽的口服錠劑只有鈣補充劑（如有效複方內衛藥製字第006734號「紐約」純鈣片、已過期的內衛藥製字第007474號奧斯鈣片，含 calcium lactate），用途是補鈣，不是整腸。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥製字第006636號｜中文品名 婦必寧濃縮液｜主成分略述 LACTIC ACID｜狀態 有效（至 2029/04/15）｜適應症 婦女陰道及陰部之除臭與洗潔、白帶之預防與治療 ／ 許可證字號 衛部藥輸字第027230號｜中文品名 乳酸鈉溶液｜主成分略述 （空白）｜狀態 有效（至 2027/08/03）｜適應症 電解質平衡補充劑，體液及尿液系統鹼化劑 ／ 許可證字號 內衛藥輸字第001404號｜中文品名 表舒鳴｜主成分略述 BIFIDOBACTERIUM；STREPTOCOCCUS FAECALIS；LACTIC ACID｜狀態 已註銷（1986/04/10）｜適應症 促進嬰幼兒腸內菌叢之生理正常化（消化不良、急慢性腸加答兒 ／ 許可證字號 衛署藥製字第002997號｜中文品名 寶兒康顆粒｜主成分略述 PYRIDOXINE HCL；PANTOTHENATE CALCIUM；NIACINAMIDE (NICOTINAMIDE)；RIBOFLAVIN (VIT B2)；ASCORBIC ACID (VIT C)；THIAMINE MONONITRATE；LACTIC ACID｜狀態 已註銷（2010/02/08）｜適應症 乳兒、幼兒之發育不良、營養補給、整腸、綠便、鼓腸",
+     "excerpt": "許可證字號 衛署藥製字第006636號｜中文品名 婦必寧濃縮液｜主成分略述 LACTIC ACID｜狀態 有效（至 2029/04/15）｜適應症 婦女陰道及陰部之除臭與洗潔、白帶之預防與治療 ／ 許可證字號 衛部藥輸字第027230號｜中文品名 乳酸鈉溶液｜主成分略述 （空白）｜狀態 有效（至 2027/08/03）｜適應症 電解質平衡補充劑，體液及尿液系統鹼化劑 ／ 許可證字號 內衛藥輸字第001404號｜中文品名 表舒鳴｜主成分略述 BIFIDOBACTERIUM；STREPTOCOCCUS FAECALIS；LACTIC ACID｜狀態 已註銷（1986/04/10）｜適應症 促進嬰幼兒腸內菌叢之生理正常化（消化不良、急慢性腸加答兒 ／ 許可證字號 衛署藥製字第002997號｜中文品名 寶兒康顆粒｜主成分略述 PYRIDOXINE HCL；PANTOTHENATE CALCIUM；NIACINAMIDE (NICOTINAMIDE)；RIBOFLAVIN (VIT B2)；ASCORBIC ACID (VIT C)；THIAMINE MONONITRATE；LACTIC ACID｜狀態 已註銷（2010/02/08）｜適應症 乳兒、幼兒之發育不良、營養補給、整腸、綠便、鼓腸 ／ 許可證字號 內衛藥製字第006734號｜中文品名 \"紐約\"純鈣片｜主成分略述 CALCIUM GLUCONATE；ERGOCALCIFEROL (VIT D2CALCIFEROL)；CALCIUM PHOSPHATE DIBASIC；CALCIUM LACTATE｜狀態 有效（至 2027/12/31）｜適應症 軟骨病、牙齒脆弱、由鈣不足所引起之手足搐搦 ／ 許可證字號 內衛藥製字第007474號｜中文品名 奧斯鈣片｜主成分略述 CALCIUM LACTATE；VITAMIN D；CALCIUM GLUCONATE｜狀態 已過期（有效日期 2024/12/31）｜適應症 增進發育、妊娠及授，乳婦之鈣補給",
      "accessed": "2026-10-16"
     }
    ],
@@ -5079,6 +5378,30 @@
        "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
        "excerpt": "衛署藥製字第006636號｜婦必寧濃縮液｜主成分 LACTIC ACID｜適應症 婦女陰道及陰部之除臭與洗潔、白帶之預防與治療｜狀態 有效｜有效日期 2029/04/15｜申請商 歐文藥品股份有限公司；內衛藥輸字第001404號｜表舒鳴｜主成分 BIFIDOBACTERIUM;;STREPTOCOCCUS FAECALIS;;LACTIC ACID｜適應症 促進嬰幼兒腸內菌叢之生理正常化（消化不良、急慢性腸加答兒｜狀態 已註銷 1986/04/10｜有效日期 1985/05/11｜申請商 臺灣武田藥品工業股份有限公司；衛署藥製字第002997號｜寶兒康顆粒｜主成分 PYRIDOXINE HCL;;PANTOTHENATE CALCIUM;;NIACINAMIDE (NICOTINAMIDE);;RIBOFLAVIN (VIT B2);;ASCORBIC ACID (VIT C);;THIAMINE MONONITRATE;;LACTIC ACID｜適應症 乳兒、幼兒之發育不良、營養補給、整腸、綠便、鼓腸｜狀態 已註銷 2010/02/08｜有效日期 2008/05/25｜申請商 永新藥品工業股份有限公司",
        "accessed": "2026-10-03"
+      }
+     ],
+     "replacement": "也出現在除疣劑（與 salicylic acid 的複方）中；含「乳酸」字樣的整腸藥主成分是乳酸菌，不是乳酸",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    },
+    {
+     "id": "lactic-acid-summary-oral-uses-2026-10-03",
+     "drug": "lactic_acid",
+     "file": "lactic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結稱乳酸見於腸胃藥",
+     "claim": "也出現在部分腸胃藥與除疣劑中",
+     "finding": "2026-10-15 報告重生後仍寫乳酸出現在腸胃藥中；現行有效的這類腸胃藥（表飛鳴－樂錠／散）主成分是抗生素耐性乳酸菌。TFDA 資料集中，截至資料集日期，乳酸的有效單方許可證除 1 張乳酸鈉原料藥溶液（衛部藥輸字第027230號，電解質平衡補充劑、體液及尿液鹼化劑）外，都是外用液劑（陰道及陰部洗潔除臭、白帶）；「整腸」只見於已註銷的複方（「表舒鳴」散劑含比菲德氏菌、糞鏈球菌與乳酸；「寶兒康顆粒」為維生素複方），沒有含乳酸的口服錠劑許可證。",
+     "note": "2026-10-15 報告重生後仍寫乳酸出現在腸胃藥中；現行有效的這類腸胃藥（表飛鳴－樂錠／散）主成分是抗生素耐性乳酸菌。TFDA 資料集中，截至資料集日期，乳酸的有效單方許可證除 1 張乳酸鈉原料藥溶液（衛部藥輸字第027230號，電解質平衡補充劑、體液及尿液鹼化劑）外，都是外用液劑（陰道及陰部洗潔除臭、白帶）；「整腸」只見於已註銷的複方（「表舒鳴」散劑含比菲德氏菌、糞鏈球菌與乳酸；「寶兒康顆粒」為維生素複方），沒有含乳酸的口服錠劑許可證。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第006636號｜中文品名 婦必寧濃縮液｜主成分略述 LACTIC ACID｜狀態 有效（至 2029/04/15）｜適應症 婦女陰道及陰部之除臭與洗潔、白帶之預防與治療 ／ 許可證字號 衛部藥輸字第027230號｜中文品名 乳酸鈉溶液｜主成分略述 （空白）｜狀態 有效（至 2027/08/03）｜適應症 電解質平衡補充劑，體液及尿液系統鹼化劑 ／ 許可證字號 內衛藥輸字第001404號｜中文品名 表舒鳴｜主成分略述 BIFIDOBACTERIUM；STREPTOCOCCUS FAECALIS；LACTIC ACID｜狀態 已註銷（1986/04/10）｜適應症 促進嬰幼兒腸內菌叢之生理正常化（消化不良、急慢性腸加答兒 ／ 許可證字號 衛署藥製字第002997號｜中文品名 寶兒康顆粒｜主成分略述 PYRIDOXINE HCL；PANTOTHENATE CALCIUM；NIACINAMIDE (NICOTINAMIDE)；RIBOFLAVIN (VIT B2)；ASCORBIC ACID (VIT C)；THIAMINE MONONITRATE；LACTIC ACID｜狀態 已註銷（2010/02/08）｜適應症 乳兒、幼兒之發育不良、營養補給、整腸、綠便、鼓腸",
+       "accessed": "2026-10-16"
       }
      ],
      "replacement": "也出現在除疣劑（與 salicylic acid 的複方）中；含「乳酸」字樣的整腸藥主成分是乳酸菌，不是乳酸",
@@ -5948,7 +6271,7 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告「原適應症」列為薄荷油單方許可證（洸洋藥用薄荷油）的適應症；一句話總結仍把「如意油」當成別名，另以 -summary 紀錄更正"
+   "resolved_note": "新報告「原適應症」列為薄荷油單方許可證（洸洋藥用薄荷油）的適應症；一句話總結仍把「如意油」當成別名，另有查核紀錄更正"
   },
   {
    "id": "pexidartinib-license-cancelled-2026-10-03",
@@ -7475,7 +7798,7 @@
    "section": "快速總覽「原適應症」",
    "summary": "「原適應症」的制酸劑、胃酸過多來自複方",
    "claim": "| 原適應症 | 賦形劑、制酸劑、胃酸過多、氣體吸著劑 |",
-   "finding": "含二氧化矽而寫「制酸劑」「胃酸過多」的許可證都是與氧化鋁、矽酸鎂鋁、三矽酸鎂等制酸成分併用的複方（目前唯一有效的是衛署藥輸字第024482號「二矽酸鋁鎂」）；二氧化矽單方許可證所載為賦形劑（衛署藥輸字第006893號）與氣體吸著劑（衛署藥輸字第012366號），兩者皆已註銷。",
+   "finding": "含二氧化矽而寫「制酸劑」「胃酸過多」的許可證都是與氧化鋁、矽酸鎂鋁、三矽酸鎂等制酸成分併用的複方（唯一未註銷的是衛署藥輸字第024482號「二矽酸鋁鎂」，已於 2026-07-07 過期）；二氧化矽單方許可證所載為賦形劑（衛署藥輸字第006893號）與氣體吸著劑（衛署藥輸字第012366號），兩者皆已註銷。",
    "note": "「制酸劑」「胃酸過多」來自二氧化矽與氧化鋁、矽酸鎂鋁、三矽酸鎂等制酸成分的複方許可證（目前唯一有效的是衛署藥輸字第024482號「二矽酸鋁鎂」）；二氧化矽單方許可證寫的是「賦形劑」與「氣體吸著劑」，且都已註銷。原文保留。",
    "sources": [
     {
@@ -7487,7 +7810,35 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "新報告「原適應症」列已寫明單方許可證皆已註銷；同列「現行有效者為制酸劑複方」（該複方已於 2026-07-07 過期）與「維生素」仍不正確，另以 -row／-title／-summary 紀錄更正"
+   "resolved_note": "新報告「原適應症」列已寫明單方許可證皆已註銷；同列「現行有效者為制酸劑複方」（該複方已於 2026-07-07 過期）與「維生素」仍不正確，另有查核紀錄更正",
+   "history": [
+    {
+     "id": "silicon_dioxide-antacid-combo-2026-10-03",
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "快速總覽「原適應症」",
+     "summary": "「原適應症」的制酸劑、胃酸過多來自複方",
+     "claim": "| 原適應症 | 賦形劑、制酸劑、胃酸過多、氣體吸著劑 |",
+     "finding": "含二氧化矽而寫「制酸劑」「胃酸過多」的許可證都是與氧化鋁、矽酸鎂鋁、三矽酸鎂等制酸成分併用的複方（目前唯一有效的是衛署藥輸字第024482號「二矽酸鋁鎂」）；二氧化矽單方許可證所載為賦形劑（衛署藥輸字第006893號）與氣體吸著劑（衛署藥輸字第012366號），兩者皆已註銷。",
+     "note": "「制酸劑」「胃酸過多」來自二氧化矽與氧化鋁、矽酸鎂鋁、三矽酸鎂等制酸成分的複方許可證（目前唯一有效的是衛署藥輸字第024482號「二矽酸鋁鎂」）；二氧化矽單方許可證寫的是「賦形劑」與「氣體吸著劑」，且都已註銷。原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "衛署藥輸字第024482號｜二矽酸鋁鎂｜主成分 ALUMINUM OXIDE (ALUMINA);;ALUMINUM MAGNESIUM SILICATE;;SILICON DIOXIDE (SILICA GEL);;MAGNESIUM OXIDE｜適應症 制酸劑。｜狀態 有效｜有效日期 2026/07/07｜申請商 台灣荃新股份有限公司；衛署藥輸字第011812號｜適胃爽錠｜主成分 MAGNESIUM TRISILICATE;;MAGNESIUM HYDROXIDE;;CALCIUM CARBONATE HEAVY;;SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA);;MILK POWDER GLUCOSE;;MAGNESIUM CARBONATE｜適應症 舒緩胃灼熱、胃膨滿、胃酸過多、酸性消化不良｜狀態 已註銷 2000/09/04｜有效日期 1992/11/19｜申請商 富富企業股份有限公司；衛署藥輸字第006893號｜矽酸｜主成分 SILICON DIOXIDE (SILICA GEL)｜適應症 賦形劑｜狀態 已註銷 1992/07/09｜有效日期 1993/02/14｜申請商 臺灣安萬特藥品股份有限公司；衛署藥輸字第012366號｜矽凝膠｜主成分 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜適應症 氣體吸著劑｜狀態 已註銷 2005/06/03｜有效日期 1999/03/10｜申請商 臺灣禮來股份有限公司新竹廠",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-10-15",
+     "resolved_note": "新報告「原適應症」列已寫明單方許可證皆已註銷；同列「現行有效者為制酸劑複方」（該複方已於 2026-07-07 過期）與「維生素」仍不正確，另以 -row／-title／-summary 紀錄更正",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "id": "sodium-carbonate-tw-license-excipient-2026-10-03",
@@ -10099,26 +10450,14 @@
    "summary": "原適應症「制酸劑」等取自其他成分",
    "claim": "| 原適應症 | 制酸劑（取自單方且仍有效的許可證，其適應症為「抗生素」，屬於含碳酸鈉的抗生素粉劑；另有已註銷的單方許可證適應症為「無菌製劑輔助劑（鹼化藥）」與「制酸劑」） |",
    "replacement": "| 原適應症 | 無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分 |",
-   "finding": "2026-10-15 報告重生後此列仍以「制酸劑」為原適應症。「制酸劑」出自碳酸氫鈉、三矽酸鎂等其他成分；sodium carbonate 唯一單方許可證（無菌製劑輔助劑(鹼化藥)）已於 2023-06-30 註銷，現行有效許可證中它是抗生素注射劑的賦形劑或複方點眼液、胃散的成分。",
-   "note": "2026-10-15 報告重生後此列仍以「制酸劑」為原適應症。「制酸劑」出自碳酸氫鈉、三矽酸鎂等其他成分；sodium carbonate 唯一單方許可證（無菌製劑輔助劑(鹼化藥)）已於 2023-06-30 註銷，現行有效許可證中它是抗生素注射劑的賦形劑或複方點眼液、胃散的成分。",
+   "finding": "2026-10-15 報告重生後此列仍以「制酸劑」為原適應症。TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。",
+   "note": "2026-10-15 報告重生後此列仍以「制酸劑」為原適應症。TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。",
    "sources": [
     {
-     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜英文品名 Sterile Sodium Carbonate \"SLC\"｜主成分略述 None｜適應症 無菌製劑輔助劑(鹼化藥)。｜有效日期 2019/06/26｜註銷狀態 已註銷｜註銷日期 2023/06/30｜註銷理由 未展延而逾期者",
-     "accessed": "2026-10-03"
-    },
-    {
-     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
-     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥製字第057810號｜中文品名 \"展旺\"無菌碳酸氫鈉｜英文品名 Sterile Sodium Bicarbonate \"SLC\"｜主成分略述 None｜適應症 制酸劑，代謝性酸中毒之鹼化劑。｜有效日期 2023/01/22｜註銷狀態 已註銷｜註銷日期 2025/05/15｜註銷理由 未展延而逾期者",
-     "accessed": "2026-10-03"
-    },
-    {
-     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
-     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜英文品名 GETA FOR INIECTION\"CHI SHENG\" (CEFTAZIDIME)｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ 是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。｜有效日期 2027/04/03",
-     "accessed": "2026-10-03"
+     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥輸字第013045號｜中文品名 碳酸鈉二氫氧化鋁粉劑｜主成分略述 DIHYDROXYALUMINUM SODIUM CARBONATE (AL.SOD.CARB.HYDRO)｜狀態 已註銷（2009/06/15）｜適應症 制酸劑 ／ 許可證字號 內衛成製字第001353號｜中文品名 \"明通\"保身散｜主成分略述 GLYCYRRHIZA POWDER；CITRUS；CLOVE POWDER；SODIUM CARBONATE；SODIUM CARBONATE；MENTHOL；GINGER POWDER；CINNAMON POWDER (CINNAMON CORTEX POWDER)｜狀態 有效（至 2028/05/25）｜適應症 胃痛、消化不良、飽脹、胃酸過多 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
+     "accessed": "2026-10-16"
     }
    ],
    "history": [
@@ -10157,6 +10496,42 @@
      "retired": "2026-10-15",
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
+    },
+    {
+     "id": "sodium-carbonate-original-indication-2026-10-03",
+     "drug": "sodium_carbonate",
+     "file": "sodium_carbonate.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「原適應症」",
+     "summary": "原適應症「制酸劑」等取自其他成分",
+     "claim": "| 原適應症 | 制酸劑（取自單方且仍有效的許可證，其適應症為「抗生素」，屬於含碳酸鈉的抗生素粉劑；另有已註銷的單方許可證適應症為「無菌製劑輔助劑（鹼化藥）」與「制酸劑」） |",
+     "replacement": "| 原適應症 | 無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分 |",
+     "finding": "2026-10-15 報告重生後此列仍以「制酸劑」為原適應症。「制酸劑」出自碳酸氫鈉、三矽酸鎂等其他成分；sodium carbonate 唯一單方許可證（無菌製劑輔助劑(鹼化藥)）已於 2023-06-30 註銷，現行有效許可證中它是抗生素注射劑的賦形劑或複方點眼液、胃散的成分。",
+     "note": "2026-10-15 報告重生後此列仍以「制酸劑」為原適應症。「制酸劑」出自碳酸氫鈉、三矽酸鎂等其他成分；sodium carbonate 唯一單方許可證（無菌製劑輔助劑(鹼化藥)）已於 2023-06-30 註銷，現行有效許可證中它是抗生素注射劑的賦形劑或複方點眼液、胃散的成分。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜英文品名 Sterile Sodium Carbonate \"SLC\"｜主成分略述 None｜適應症 無菌製劑輔助劑(鹼化藥)。｜有效日期 2019/06/26｜註銷狀態 已註銷｜註銷日期 2023/06/30｜註銷理由 未展延而逾期者",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第057810號｜中文品名 \"展旺\"無菌碳酸氫鈉｜英文品名 Sterile Sodium Bicarbonate \"SLC\"｜主成分略述 None｜適應症 制酸劑，代謝性酸中毒之鹼化劑。｜有效日期 2023/01/22｜註銷狀態 已註銷｜註銷日期 2025/05/15｜註銷理由 未展延而逾期者",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜英文品名 GETA FOR INIECTION\"CHI SHENG\" (CEFTAZIDIME)｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ 是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。｜有效日期 2027/04/03",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -10454,7 +10829,7 @@
    ],
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-15",
-   "resolved_note": "預測理由段已無此說；新報告改在「安全性考量」寫「美國 FDA 已終止其核准用途」，由 hexachlorophene-fda-discontinued-tw 紀錄處理"
+   "resolved_note": "預測理由段已無此說；新報告改在「安全性考量」寫「美國 FDA 已終止其核准用途」，由另一筆查核紀錄處理"
   },
   {
    "id": "hexachlorophene-fda-discontinued-tw-2026-10-03",
@@ -14093,8 +14468,8 @@
    "action": "correct",
    "section": "標題",
    "summary": "標題把過敏性疾患列為原用途",
-   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。已自標題拿掉「過敏性疾患」。",
-   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。已自標題拿掉「過敏性疾患」。",
+   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。已自標題拿掉「過敏性疾患」。",
+   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。已自標題拿掉「過敏性疾患」。",
    "claim": "# Cyclizine：從動暈症與過敏性疾患到過敏性蕁麻疹",
    "replacement": "# Cyclizine：從動暈症到過敏性蕁麻疹",
    "history": [
@@ -14127,6 +14502,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題把過敏性疾患列為原用途",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。已自標題拿掉「過敏性疾患」。",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。已自標題拿掉「過敏性疾患」。",
+     "claim": "# Cyclizine：從動暈症與過敏性疾患到過敏性蕁麻疹",
+     "replacement": "# Cyclizine：從動暈症到過敏性蕁麻疹",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -14146,8 +14545,8 @@
    "action": "correct",
    "section": "一句話總結",
    "summary": "一句話總結稱蕁麻疹為仿單已載明的適應症",
-   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
-   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
+   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。",
+   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。",
    "claim": "且蕁麻疹本來就屬於仿單已載明的適應症。",
    "replacement": "且台灣現行 cyclizine 單方許可證（旅暈平錠）只核准動暈症，蕁麻疹不在仿單內。",
    "history": [
@@ -14180,6 +14579,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-summary-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結稱蕁麻疹為仿單已載明的適應症",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。",
+     "claim": "且蕁麻疹本來就屬於仿單已載明的適應症。",
+     "replacement": "且台灣現行 cyclizine 單方許可證（旅暈平錠）只核准動暈症，蕁麻疹不在仿單內。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -14199,8 +14622,8 @@
    "action": "correct",
    "section": "為什麼這個預測合理？",
    "summary": "鼻炎列為仿單內適應症",
-   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審查無 cyclizine 單方用於鼻炎的臨床研究，只有 H1 拮抗的類別推論；鼻炎不在該次重審的等級清單內，等級維持頁面原值。",
-   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審查無 cyclizine 單方用於鼻炎的臨床研究，只有 H1 拮抗的類別推論；鼻炎不在該次重審的等級清單內，等級維持頁面原值。",
+   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審查無 cyclizine 單方用於鼻炎的臨床研究，只有 H1 拮抗的類別推論；鼻炎不在該次重審的等級清單內，等級維持頁面原值。",
+   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審查無 cyclizine 單方用於鼻炎的臨床研究，只有 H1 拮抗的類別推論；鼻炎不在該次重審的等級清單內，等級維持頁面原值。",
    "claim": "| 8 | 鼻炎 (Rhinitis) | 99.35% | L4 | 屬仿單內適應症 |",
    "replacement": "| 8 | 鼻炎 (Rhinitis) | 99.35% | L4 | 僅有 H1 類別推論，不是仿單內適應症 |",
    "history": [
@@ -14257,6 +14680,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-rhinitis-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "為什麼這個預測合理？",
+     "summary": "鼻炎列為仿單內適應症",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審查無 cyclizine 單方用於鼻炎的臨床研究，只有 H1 拮抗的類別推論；鼻炎不在該次重審的等級清單內，等級維持頁面原值。",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審查無 cyclizine 單方用於鼻炎的臨床研究，只有 H1 拮抗的類別推論；鼻炎不在該次重審的等級清單內，等級維持頁面原值。",
+     "claim": "| 8 | 鼻炎 (Rhinitis) | 99.35% | L4 | 屬仿單內適應症 |",
+     "replacement": "| 8 | 鼻炎 (Rhinitis) | 99.35% | L4 | 僅有 H1 類別推論，不是仿單內適應症 |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -14276,8 +14723,8 @@
    "action": "annotate",
    "section": "結論與下一步",
    "summary": "結論稱蕁麻疹已屬仿單內適應症、L4",
-   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。原文保留。",
-   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。原文保留。",
+   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。推論原文保留。",
+   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。",
    "claim": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
    "history": [
     {
@@ -14333,6 +14780,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "結論稱蕁麻疹已屬仿單內適應症、L4",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。原文保留。",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。過敏性皮膚炎、濕疹、支氣管氣喘見於衛署藥製字第032336號「應元」赫敏錠（homochlorcyclizine），過敏性鼻炎與搔癢見於第023981號止敏糖衣錠（chlorcyclizine），這兩張都沒有蕁麻疹；蕁麻疹見於其他 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠）。這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。原文保留。",
+     "claim": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
+     "anchor": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
    "anchor": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。"
@@ -14342,16 +14813,10 @@
    "file": "cyclizine.md",
    "sources": [
     {
-     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜英文品名 LIUMPIN TABLETS｜主成分略述 CYCLIZINE HCL｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/25 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜英文品名 HOMOMIN TABLETS 10MG \"Y.Y.\"(HOMOCHLORCYCLIZINE)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜英文品名 ZIMIN S.C. TABLETS (CHLORCYCLIZINE) \"NCP\"｜主成分略述 CHLORCYCLIZINE HCL｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥輸字第011158號｜中文品名 邁克寧錠｜主成分略述 CYCLIZINE HCL;;CAFFEINE (HYDRATE);;ERGOTAMINE TARTRATE｜適應症 偏頭痛及因偏頭痛所引起之噁心、嘔吐、頭暈等症狀之緩解｜註銷狀態 已註銷｜註銷日期 2010/05/31",
-     "accessed": "2026-10-03"
-    },
-    {
-     "title": "emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1",
-     "url": "https://www.medicines.org.uk/emc/product/4318/smpc",
-     "excerpt": "§4.1: Cyclizine Hydrochloride is indicated in adults and in children aged 6 years and over for the prevention and treatment of nausea and vomiting including:- • Motion sickness. • Nausea and vomiting caused by narcotic analgesics and by general anaesthetics in the post-operative period. • Vomiting associated with radiotherapy, especially for breast cancer since cyclizine does not elevate prolactin levels. ／ §5.1: Cyclizine is a histamine H 1 receptor antagonist of the piperazine class which is characterised by a low incidence of drowsiness. It possesses anticholinergic and antiemetic properties.",
-     "accessed": "2026-10-03"
+     "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。",
+     "accessed": "2026-10-16"
     }
    ],
    "id": "cyclizine-why-approved-premise-license-count-2026-10-16",
@@ -14362,7 +14827,39 @@
    "note": "TFDA 許可證資料中 cyclizine 現行有效單方許可證只有 1 張（衛署藥製字第002658號「旅暈平錠」）。",
    "finding": "TFDA 許可證資料中 cyclizine 現行有效單方許可證只有 1 張（衛署藥製字第002658號「旅暈平錠」）。",
    "claim": "- 確認目前有效的 3 張單方許可證所核准的適應症範圍，以及是否需要新增適應症",
-   "replacement": "- 確認目前唯一有效的單方許可證（旅暈平錠）所核准的適應症範圍，以及是否需要新增適應症"
+   "replacement": "- 確認目前唯一有效的單方許可證（旅暈平錠）所核准的適應症範圍，以及是否需要新增適應症",
+   "history": [
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜英文品名 LIUMPIN TABLETS｜主成分略述 CYCLIZINE HCL｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/25 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜英文品名 HOMOMIN TABLETS 10MG \"Y.Y.\"(HOMOCHLORCYCLIZINE)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜英文品名 ZIMIN S.C. TABLETS (CHLORCYCLIZINE) \"NCP\"｜主成分略述 CHLORCYCLIZINE HCL｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。｜註銷狀態 （空白，未註銷） ／ 許可證字號 衛署藥輸字第011158號｜中文品名 邁克寧錠｜主成分略述 CYCLIZINE HCL;;CAFFEINE (HYDRATE);;ERGOTAMINE TARTRATE｜適應症 偏頭痛及因偏頭痛所引起之噁心、嘔吐、頭暈等症狀之緩解｜註銷狀態 已註銷｜註銷日期 2010/05/31",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1",
+       "url": "https://www.medicines.org.uk/emc/product/4318/smpc",
+       "excerpt": "§4.1: Cyclizine Hydrochloride is indicated in adults and in children aged 6 years and over for the prevention and treatment of nausea and vomiting including:- • Motion sickness. • Nausea and vomiting caused by narcotic analgesics and by general anaesthetics in the post-operative period. • Vomiting associated with radiotherapy, especially for breast cancer since cyclizine does not elevate prolactin levels. ／ §5.1: Cyclizine is a histamine H 1 receptor antagonist of the piperazine class which is characterised by a low incidence of drowsiness. It possesses anticholinergic and antiemetic properties.",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-license-count-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "結論與下一步",
+     "summary": "寫有效單方許可證 3 張",
+     "note": "TFDA 許可證資料中 cyclizine 現行有效單方許可證只有 1 張（衛署藥製字第002658號「旅暈平錠」）。",
+     "finding": "TFDA 許可證資料中 cyclizine 現行有效單方許可證只有 1 張（衛署藥製字第002658號「旅暈平錠」）。",
+     "claim": "- 確認目前有效的 3 張單方許可證所核准的適應症範圍，以及是否需要新增適應症",
+     "replacement": "- 確認目前唯一有效的單方許可證（旅暈平錠）所核准的適應症範圍，以及是否需要新增適應症",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "chlorobutanol",
@@ -14732,6 +15229,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑 ／ 許可證字號 衛署藥製字第030558號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1990/12/14）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管氣喘症、喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥製字第033025號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1998/08/17）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管喘喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥輸字第022252號｜中文品名 高品安利納華陀錠｜主成分略述 DEHYDROACETATE SODIUM；RIBOFLAVIN (VIT B2)；CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE)；PYRIDOXINE HCL；SUGAR WHITE；TOCOPHEROL (ACETATE ALPHA DL- )；PANTOTHENATE CALCIUM；BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN)；SILICON RESIN；GELATIN；RETINOL PALMITATE；SODIUM BENZOATE；ASCORBIC ACID (VIT C)；ERGOCALCIFEROL (VIT D2CALCIFEROL)；SILICON DIOXIDE HYDRATED；CYANOCOBALAMIN (VIT B12)；VITAMIN A OIL；SYNTHETIC ALUMINUM SILICATE；NICOTINAMIDE；CALCIUM PHOSPHATE DIBASIC ANHYDROUS；SORBITAN FATTY ACID ESTERS｜狀態 已註銷（2010/09/21）｜適應症 發育不良、營養補給、虛弱體質、熱性消耗疾患之輔助治療、妊娠婦之營養補給。 ／ 許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "silicon_dioxide-antacid-combo-row-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "快速總覽「原適應症」",
+     "summary": "原適應症列入「維生素」",
+     "note": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。",
+     "finding": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。",
+     "claim": "| 原適應症 | 氣體吸著劑、賦形劑、維生素（單方許可證皆已註銷；現行有效者為制酸劑複方） |",
+     "replacement": "| 原適應症 | 賦形劑、氣體吸著劑（二氧化矽單方許可證，皆已註銷）；含二氧化矽的制酸劑複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期 |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -14803,6 +15324,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑 ／ 許可證字號 衛署藥製字第030558號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1990/12/14）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管氣喘症、喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥製字第033025號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1998/08/17）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管喘喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥輸字第022252號｜中文品名 高品安利納華陀錠｜主成分略述 DEHYDROACETATE SODIUM；RIBOFLAVIN (VIT B2)；CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE)；PYRIDOXINE HCL；SUGAR WHITE；TOCOPHEROL (ACETATE ALPHA DL- )；PANTOTHENATE CALCIUM；BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN)；SILICON RESIN；GELATIN；RETINOL PALMITATE；SODIUM BENZOATE；ASCORBIC ACID (VIT C)；ERGOCALCIFEROL (VIT D2CALCIFEROL)；SILICON DIOXIDE HYDRATED；CYANOCOBALAMIN (VIT B12)；VITAMIN A OIL；SYNTHETIC ALUMINUM SILICATE；NICOTINAMIDE；CALCIUM PHOSPHATE DIBASIC ANHYDROUS；SORBITAN FATTY ACID ESTERS｜狀態 已註銷（2010/09/21）｜適應症 發育不良、營養補給、虛弱體質、熱性消耗疾患之輔助治療、妊娠婦之營養補給。 ／ 許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "silicon_dioxide-antacid-combo-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題以祛痰與制酸為原用途",
+     "note": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。",
+     "finding": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。",
+     "claim": "# 二氧化矽 (Silicon dioxide)：從祛痰與制酸輔助用途到活動性消化性潰瘍",
+     "replacement": "# 二氧化矽 (Silicon dioxide)：從賦形劑與氣體吸著劑到活動性消化性潰瘍",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -14874,6 +15419,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑 ／ 許可證字號 衛署藥製字第030558號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1990/12/14）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管氣喘症、喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥製字第033025號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1998/08/17）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管喘喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥輸字第022252號｜中文品名 高品安利納華陀錠｜主成分略述 DEHYDROACETATE SODIUM；RIBOFLAVIN (VIT B2)；CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE)；PYRIDOXINE HCL；SUGAR WHITE；TOCOPHEROL (ACETATE ALPHA DL- )；PANTOTHENATE CALCIUM；BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN)；SILICON RESIN；GELATIN；RETINOL PALMITATE；SODIUM BENZOATE；ASCORBIC ACID (VIT C)；ERGOCALCIFEROL (VIT D2CALCIFEROL)；SILICON DIOXIDE HYDRATED；CYANOCOBALAMIN (VIT B12)；VITAMIN A OIL；SYNTHETIC ALUMINUM SILICATE；NICOTINAMIDE；CALCIUM PHOSPHATE DIBASIC ANHYDROUS；SORBITAN FATTY ACID ESTERS｜狀態 已註銷（2010/09/21）｜適應症 發育不良、營養補給、虛弱體質、熱性消耗疾患之輔助治療、妊娠婦之營養補給。 ／ 許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "silicon_dioxide-antacid-combo-summary-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結稱原本涉及祛痰、胃酸過多",
+     "note": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。",
+     "finding": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。",
+     "claim": "原本涉及祛痰、胃酸過多與鼓腸等用途。",
+     "replacement": "單方許可證（皆已註銷）核准的是賦形劑與氣體吸著劑；祛痰、胃酸過多屬於含二氧化矽的複方（皆已註銷或過期）的適應症。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -15021,8 +15590,8 @@
    "action": "correct",
    "section": "標題",
    "summary": "標題以 trastuzumab 許可證的適應症為原用途",
-   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
-   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
+   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
    "claim": "# Paclitaxel：從 HER2 過度表現乳癌／胃癌（許可證所載）到女性乳癌",
    "replacement": "# Paclitaxel：從卵巢癌、乳癌與非小細胞肺癌到女性乳癌",
    "history": [
@@ -15049,6 +15618,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "paclitaxel",
+     "file": "paclitaxel.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第021157號｜中文品名 汰癌勝注射液（派立達師）｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/02/15）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用ANTHRACYCLINE抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛署藥製字第044601號｜中文品名 \"永信\" 伏摩素注射液｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/08/20）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛(doxorubicin)在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用anthracycline抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛部藥輸字第026484號｜中文品名 亞伯杉注射劑｜主成分略述 PACLITAXEL｜狀態 有效（至 2030/03/19）｜適應症 轉移性乳癌\r\nABRAXANE用於以合併化療治療轉移疾病失敗之乳癌。除非臨床上禁用，否則先前治療應包含一種anthracycline。\r\n非小細胞肺癌\r\n對於無法手術或放射治療的患者，ABRAXANE併用carboplatin，做為局部晚期或轉移性非小細胞肺癌之第一線治療。\r\n胰腺癌\r\nABRAXANE合併gemcit ／ 許可證字號 衛署藥輸字第025586號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2031/12/13）｜適應症 抗癌藥。 ／ 許可證字號 衛署藥陸輸字第000528號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2027/09/11）｜適應症 抗癌藥。 ／ 許可證字號 衛部藥陸輸字第001249號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2030/12/19）｜適應症 抗腫瘤藥。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "paclitaxel-original-indication-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題以 trastuzumab 許可證的適應症為原用途",
+     "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "claim": "# Paclitaxel：從 HER2 過度表現乳癌／胃癌（許可證所載）到女性乳癌",
+     "replacement": "# Paclitaxel：從卵巢癌、乳癌與非小細胞肺癌到女性乳癌",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -15068,8 +15661,8 @@
    "action": "correct",
    "section": "一句話總結",
    "summary": "一句話總結以 trastuzumab 許可證的適應症為原用途",
-   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
-   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
+   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
    "claim": "在台灣許可證資料中主要出現在 HER2 陽性乳癌與轉移性胃癌的治療方案裡。",
    "replacement": "台灣 paclitaxel 單方許可證核准晚期卵巢癌、乳癌、非小細胞肺癌與愛滋病相關卡波西氏肉瘤（白蛋白結合型另核准胰腺癌）。",
    "history": [
@@ -15096,6 +15689,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "paclitaxel",
+     "file": "paclitaxel.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第021157號｜中文品名 汰癌勝注射液（派立達師）｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/02/15）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用ANTHRACYCLINE抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛署藥製字第044601號｜中文品名 \"永信\" 伏摩素注射液｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/08/20）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛(doxorubicin)在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用anthracycline抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛部藥輸字第026484號｜中文品名 亞伯杉注射劑｜主成分略述 PACLITAXEL｜狀態 有效（至 2030/03/19）｜適應症 轉移性乳癌\r\nABRAXANE用於以合併化療治療轉移疾病失敗之乳癌。除非臨床上禁用，否則先前治療應包含一種anthracycline。\r\n非小細胞肺癌\r\n對於無法手術或放射治療的患者，ABRAXANE併用carboplatin，做為局部晚期或轉移性非小細胞肺癌之第一線治療。\r\n胰腺癌\r\nABRAXANE合併gemcit ／ 許可證字號 衛署藥輸字第025586號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2031/12/13）｜適應症 抗癌藥。 ／ 許可證字號 衛署藥陸輸字第000528號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2027/09/11）｜適應症 抗癌藥。 ／ 許可證字號 衛部藥陸輸字第001249號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2030/12/19）｜適應症 抗腫瘤藥。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "paclitaxel-original-indication-summary-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結以 trastuzumab 許可證的適應症為原用途",
+     "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "claim": "在台灣許可證資料中主要出現在 HER2 陽性乳癌與轉移性胃癌的治療方案裡。",
+     "replacement": "台灣 paclitaxel 單方許可證核准晚期卵巢癌、乳癌、非小細胞肺癌與愛滋病相關卡波西氏肉瘤（白蛋白結合型另核准胰腺癌）。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -15115,8 +15732,8 @@
    "action": "correct",
    "section": "快速總覽",
    "summary": "資料說明稱有效許可證都是 trastuzumab 類、紫杉醇品名已註銷",
-   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
-   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
+   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
    "claim": "許可證中有效的 6 張，品名為曲斯若、賀癌平、康癌停、赫珠瑪，核准文字都是 trastuzumab 類製劑的適應症，paclitaxel 只是文中的併用藥。唯一以「紫杉醇」為品名的許可證已註銷，適應症僅寫「抗癌藥」。",
    "history": [
     {
@@ -15142,6 +15759,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "paclitaxel",
+     "file": "paclitaxel.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第021157號｜中文品名 汰癌勝注射液（派立達師）｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/02/15）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用ANTHRACYCLINE抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛署藥製字第044601號｜中文品名 \"永信\" 伏摩素注射液｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/08/20）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛(doxorubicin)在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用anthracycline抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛部藥輸字第026484號｜中文品名 亞伯杉注射劑｜主成分略述 PACLITAXEL｜狀態 有效（至 2030/03/19）｜適應症 轉移性乳癌\r\nABRAXANE用於以合併化療治療轉移疾病失敗之乳癌。除非臨床上禁用，否則先前治療應包含一種anthracycline。\r\n非小細胞肺癌\r\n對於無法手術或放射治療的患者，ABRAXANE併用carboplatin，做為局部晚期或轉移性非小細胞肺癌之第一線治療。\r\n胰腺癌\r\nABRAXANE合併gemcit ／ 許可證字號 衛署藥輸字第025586號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2031/12/13）｜適應症 抗癌藥。 ／ 許可證字號 衛署藥陸輸字第000528號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2027/09/11）｜適應症 抗癌藥。 ／ 許可證字號 衛部藥陸輸字第001249號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2030/12/19）｜適應症 抗腫瘤藥。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "paclitaxel-original-indication-data-note-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "快速總覽",
+     "summary": "資料說明稱有效許可證都是 trastuzumab 類、紫杉醇品名已註銷",
+     "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "claim": "許可證中有效的 6 張，品名為曲斯若、賀癌平、康癌停、赫珠瑪，核准文字都是 trastuzumab 類製劑的適應症，paclitaxel 只是文中的併用藥。唯一以「紫杉醇」為品名的許可證已註銷，適應症僅寫「抗癌藥」。",
+     "replacement": "原適應症曾取自曲斯若、賀癌平、康癌停、赫珠瑪等 trastuzumab 類許可證，paclitaxel 只是文中的併用藥；paclitaxel 本身另有多張有效單方許可證（如汰癌勝、伏摩素、亞伯杉，以及品名為「紫杉醇」的衛署藥輸字第025586號等）。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
    "replacement": "原適應症曾取自曲斯若、賀癌平、康癌停、赫珠瑪等 trastuzumab 類許可證，paclitaxel 只是文中的併用藥；paclitaxel 本身另有多張有效單方許可證（如汰癌勝、伏摩素、亞伯杉，以及品名為「紫杉醇」的衛署藥輸字第025586號等）。"
@@ -15162,8 +15803,8 @@
    "action": "correct",
    "section": "結論與下一步",
    "summary": "結論稱台灣有效許可證都是 trastuzumab 類",
-   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
-   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
+   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
    "claim": "同時，台灣有效許可證都是 trastuzumab 類製劑，以 paclitaxel 為品名的許可證已註銷，需要釐清實際供應與給付狀況。",
    "history": [
     {
@@ -15189,6 +15830,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "paclitaxel",
+     "file": "paclitaxel.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第021157號｜中文品名 汰癌勝注射液（派立達師）｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/02/15）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用ANTHRACYCLINE抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛署藥製字第044601號｜中文品名 \"永信\" 伏摩素注射液｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/08/20）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛(doxorubicin)在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用anthracycline抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛部藥輸字第026484號｜中文品名 亞伯杉注射劑｜主成分略述 PACLITAXEL｜狀態 有效（至 2030/03/19）｜適應症 轉移性乳癌\r\nABRAXANE用於以合併化療治療轉移疾病失敗之乳癌。除非臨床上禁用，否則先前治療應包含一種anthracycline。\r\n非小細胞肺癌\r\n對於無法手術或放射治療的患者，ABRAXANE併用carboplatin，做為局部晚期或轉移性非小細胞肺癌之第一線治療。\r\n胰腺癌\r\nABRAXANE合併gemcit ／ 許可證字號 衛署藥輸字第025586號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2031/12/13）｜適應症 抗癌藥。 ／ 許可證字號 衛署藥陸輸字第000528號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2027/09/11）｜適應症 抗癌藥。 ／ 許可證字號 衛部藥陸輸字第001249號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2030/12/19）｜適應症 抗腫瘤藥。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "paclitaxel-original-indication-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "結論與下一步",
+     "summary": "結論稱台灣有效許可證都是 trastuzumab 類",
+     "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。",
+     "claim": "同時，台灣有效許可證都是 trastuzumab 類製劑，以 paclitaxel 為品名的許可證已註銷，需要釐清實際供應與給付狀況。",
+     "replacement": "同時，台灣 paclitaxel 單方仍有多張有效許可證（如汰癌勝、伏摩素、亞伯杉），實際供應與給付狀況可另行確認。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
    "replacement": "同時，台灣 paclitaxel 單方仍有多張有效許可證（如汰癌勝、伏摩素、亞伯杉），實際供應與給付狀況可另行確認。"
@@ -16225,7 +16890,7 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
+     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥輸字第013045號｜中文品名 碳酸鈉二氫氧化鋁粉劑｜主成分略述 DIHYDROXYALUMINUM SODIUM CARBONATE (AL.SOD.CARB.HYDRO)｜狀態 已註銷（2009/06/15）｜適應症 制酸劑 ／ 許可證字號 內衛成製字第001353號｜中文品名 \"明通\"保身散｜主成分略述 GLYCYRRHIZA POWDER；CITRUS；CLOVE POWDER；SODIUM CARBONATE；SODIUM CARBONATE；MENTHOL；GINGER POWDER；CINNAMON POWDER (CINNAMON CORTEX POWDER)｜狀態 有效（至 2028/05/25）｜適應症 胃痛、消化不良、飽脹、胃酸過多 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
      "accessed": "2026-10-16"
     }
    ],
@@ -16234,8 +16899,8 @@
    "action": "correct",
    "section": "標題",
    "summary": "標題以制酸劑為原用途",
-   "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
-   "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+   "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。",
+   "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。",
    "claim": "# 碳酸鈉（Sodium carbonate）：從制酸劑／無菌製劑鹼化輔助劑到乾眼症",
    "replacement": "# 碳酸鈉（Sodium carbonate）：從無菌製劑鹼化輔助劑到乾眼症",
    "history": [
@@ -16298,6 +16963,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "sodium_carbonate",
+     "file": "sodium_carbonate.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "sodium-carbonate-original-indication-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題以制酸劑為原用途",
+     "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+     "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+     "claim": "# 碳酸鈉（Sodium carbonate）：從制酸劑／無菌製劑鹼化輔助劑到乾眼症",
+     "replacement": "# 碳酸鈉（Sodium carbonate）：從無菌製劑鹼化輔助劑到乾眼症",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -16308,7 +16997,7 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
+     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥輸字第013045號｜中文品名 碳酸鈉二氫氧化鋁粉劑｜主成分略述 DIHYDROXYALUMINUM SODIUM CARBONATE (AL.SOD.CARB.HYDRO)｜狀態 已註銷（2009/06/15）｜適應症 制酸劑 ／ 許可證字號 內衛成製字第001353號｜中文品名 \"明通\"保身散｜主成分略述 GLYCYRRHIZA POWDER；CITRUS；CLOVE POWDER；SODIUM CARBONATE；SODIUM CARBONATE；MENTHOL；GINGER POWDER；CINNAMON POWDER (CINNAMON CORTEX POWDER)｜狀態 有效（至 2028/05/25）｜適應症 胃痛、消化不良、飽脹、胃酸過多 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
      "accessed": "2026-10-16"
     }
    ],
@@ -16317,8 +17006,8 @@
    "action": "correct",
    "section": "一句話總結",
    "summary": "一句話總結稱在台灣常用於制酸",
-   "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
-   "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+   "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。",
+   "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。",
    "claim": "碳酸鈉是一種鹼化劑與制酸劑，在台灣常用於制酸、無菌製劑的 pH 調整，也作為多種注射用抗生素的緩衝成分。",
    "replacement": "碳酸鈉是一種鹼化劑；以碳酸鈉為主成分的單方許可證（「展旺」無菌碳酸鈉，已註銷）用途為無菌製劑的鹼化輔助劑，現行有效許可證中碳酸鈉則是注射用抗生素的賦形劑及複方點眼液、胃散的成分。",
    "history": [
@@ -16405,6 +17094,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "sodium_carbonate",
+     "file": "sodium_carbonate.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "sodium-carbonate-original-indication-summary-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結稱在台灣常用於制酸",
+     "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+     "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+     "claim": "碳酸鈉是一種鹼化劑與制酸劑，在台灣常用於制酸、無菌製劑的 pH 調整，也作為多種注射用抗生素的緩衝成分。",
+     "replacement": "碳酸鈉是一種鹼化劑；以碳酸鈉為主成分的單方許可證（「展旺」無菌碳酸鈉，已註銷）用途為無菌製劑的鹼化輔助劑，現行有效許可證中碳酸鈉則是注射用抗生素的賦形劑及複方點眼液、胃散的成分。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -16415,7 +17128,7 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
+     "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥輸字第013045號｜中文品名 碳酸鈉二氫氧化鋁粉劑｜主成分略述 DIHYDROXYALUMINUM SODIUM CARBONATE (AL.SOD.CARB.HYDRO)｜狀態 已註銷（2009/06/15）｜適應症 制酸劑 ／ 許可證字號 內衛成製字第001353號｜中文品名 \"明通\"保身散｜主成分略述 GLYCYRRHIZA POWDER；CITRUS；CLOVE POWDER；SODIUM CARBONATE；SODIUM CARBONATE；MENTHOL；GINGER POWDER；CINNAMON POWDER (CINNAMON CORTEX POWDER)｜狀態 有效（至 2028/05/25）｜適應症 胃痛、消化不良、飽脹、胃酸過多 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
      "accessed": "2026-10-16"
     }
    ],
@@ -16424,8 +17137,8 @@
    "action": "annotate",
    "section": "為什麼這個預測合理？",
    "summary": "預測理由稱碳酸鈉為制酸劑",
-   "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。原文保留。",
-   "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。原文保留。",
+   "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。原文保留。",
+   "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證只有衛部藥製字第058317號「展旺」無菌碳酸鈉（主成分欄空白、英文品名 Sterile Sodium Carbonate），適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。「制酸劑」出自衛署藥輸字第013045號「碳酸鈉二氫氧化鋁粉劑」，主成分是 dihydroxyaluminum sodium carbonate（另一個成分），已於 2009-06-15 註銷；含碳酸鈉的有效複方中，內衛成製字第001353號「明通」保身散（甘草、丁香、薄荷等的散劑）適應症寫胃痛、消化不良、胃酸過多，屬整個複方。衛署藥製字第041013號、第041754號是 ceftazidime 注射劑，碳酸鈉只是賦形劑，許可證表不計入。",
    "claim": "碳酸鈉是鹼化劑與制酸劑，作用為中和胃酸",
    "anchor": "碳酸鈉是鹼化劑與制酸劑，作用為中和胃酸",
    "history": [
@@ -16488,6 +17201,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "sodium_carbonate",
+     "file": "sodium_carbonate.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。 ／ 許可證字號 衛署藥製字第041754號｜中文品名 \"生達\" 孢妥注射劑（西他利汀）｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)；STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/12/11）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙內醯胺有抵抗力、並對廣範圍的革蘭氏陽性及陰性細菌有效。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "sodium-carbonate-original-indication-why-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "為什麼這個預測合理？",
+     "summary": "預測理由稱碳酸鈉為制酸劑",
+     "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。原文保留。",
+     "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已於 2023-06-30 註銷；截至資料集日期沒有有效的碳酸鈉單方許可證。衛署藥製字第041013號「濟生」賜達注射劑與第041754號「生達」孢妥注射劑的主成分是 ceftazidime，碳酸鈉只是賦形劑，本頁許可證表已不再把它們算成碳酸鈉單方。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。原文保留。",
+     "claim": "碳酸鈉是鹼化劑與制酸劑，作用為中和胃酸",
+     "anchor": "碳酸鈉是鹼化劑與制酸劑，作用為中和胃酸",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -17338,6 +18075,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑 ／ 許可證字號 衛署藥製字第030558號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1990/12/14）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管氣喘症、喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥製字第033025號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1998/08/17）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管喘喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥輸字第022252號｜中文品名 高品安利納華陀錠｜主成分略述 DEHYDROACETATE SODIUM；RIBOFLAVIN (VIT B2)；CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE)；PYRIDOXINE HCL；SUGAR WHITE；TOCOPHEROL (ACETATE ALPHA DL- )；PANTOTHENATE CALCIUM；BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN)；SILICON RESIN；GELATIN；RETINOL PALMITATE；SODIUM BENZOATE；ASCORBIC ACID (VIT C)；ERGOCALCIFEROL (VIT D2CALCIFEROL)；SILICON DIOXIDE HYDRATED；CYANOCOBALAMIN (VIT B12)；VITAMIN A OIL；SYNTHETIC ALUMINUM SILICATE；NICOTINAMIDE；CALCIUM PHOSPHATE DIBASIC ANHYDROUS；SORBITAN FATTY ACID ESTERS｜狀態 已註銷（2010/09/21）｜適應症 發育不良、營養補給、虛弱體質、熱性消耗疾患之輔助治療、妊娠婦之營養補給。 ／ 許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "silicon_dioxide-antacid-combo-why-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "為什麼這個預測合理？",
+     "summary": "預測理由稱胃酸過多已有許可證適應症",
+     "note": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。",
+     "finding": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。",
+     "claim": "其在胃酸過多、胃灼熱等症狀緩解上的角色已有許可證適應症可循",
+     "anchor": "其在胃酸過多、胃灼熱等症狀緩解上的角色已有許可證適應症可循",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -17385,6 +18146,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑 ／ 許可證字號 衛署藥製字第030558號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1990/12/14）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管氣喘症、喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥製字第033025號｜中文品名 息速坦腸溶糖衣錠１００公絲（西士恩）｜主成分略述 SILICON DIOXIDE (SILICA GEL)；MECYSTEINE HCL (CYSTEINE L- METHYLESTER HCL)｜狀態 已註銷（1998/08/17）｜適應症 下列各種疾患的袪痰：急慢性支氣管炎、支氣管擴張症、支氣管喘喉頭炎、感冒慢性副鼻腔炎之排膿 ／ 許可證字號 衛署藥輸字第022252號｜中文品名 高品安利納華陀錠｜主成分略述 DEHYDROACETATE SODIUM；RIBOFLAVIN (VIT B2)；CALCIUM CARBONATE PRECIPITATE (EQ TO PRECIPITATED CALCIUM CARBONATE)；PYRIDOXINE HCL；SUGAR WHITE；TOCOPHEROL (ACETATE ALPHA DL- )；PANTOTHENATE CALCIUM；BENFOTIAMIN (BENZOYLTHIAMINE MONOPHOSPHATE)(BIOTAMIN)；SILICON RESIN；GELATIN；RETINOL PALMITATE；SODIUM BENZOATE；ASCORBIC ACID (VIT C)；ERGOCALCIFEROL (VIT D2CALCIFEROL)；SILICON DIOXIDE HYDRATED；CYANOCOBALAMIN (VIT B12)；VITAMIN A OIL；SYNTHETIC ALUMINUM SILICATE；NICOTINAMIDE；CALCIUM PHOSPHATE DIBASIC ANHYDROUS；SORBITAN FATTY ACID ESTERS｜狀態 已註銷（2010/09/21）｜適應症 發育不良、營養補給、虛弱體質、熱性消耗疾患之輔助治療、妊娠婦之營養補給。 ／ 許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "silicon_dioxide-antacid-combo-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "結論稱二氧化矽可緩解酸相關症狀",
+     "note": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。",
+     "finding": "TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。",
+     "claim": "- 二氧化矽最多只可能緩解酸相關症狀",
+     "anchor": "- 二氧化矽最多只可能緩解酸相關症狀",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -17548,10 +18333,36 @@
    "action": "annotate",
    "section": "結論與下一步",
    "summary": "下一步建議另行釐清 paclitaxel 單方許可證",
-   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。原文保留。",
-   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。原文保留。",
+   "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。原文保留。",
+   "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。汰癌勝、伏摩素的適應症本身也寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，但胃癌不在 paclitaxel 的核准適應症內。",
    "claim": "- 釐清台灣目前 paclitaxel 單方（含 nab-paclitaxel 等劑型）的有效許可證與核准適應症",
-   "anchor": "- 釐清台灣目前 paclitaxel 單方（含 nab-paclitaxel 等劑型）的有效許可證與核准適應症"
+   "anchor": "- 釐清台灣目前 paclitaxel 單方（含 nab-paclitaxel 等劑型）的有效許可證與核准適應症",
+   "history": [
+    {
+     "drug": "paclitaxel",
+     "file": "paclitaxel.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第021157號｜中文品名 汰癌勝注射液（派立達師）｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/02/15）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用ANTHRACYCLINE抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛署藥製字第044601號｜中文品名 \"永信\" 伏摩素注射液｜主成分略述 PACLITAXEL｜狀態 有效（至 2031/08/20）｜適應症 晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛(doxorubicin)在內之輔助化學療法、已使用合併療法（除非有禁忌，至少應包括使用anthracycline抗癌藥）失敗的轉移乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤之第二線療法；與CISPLATIN併用，作為晚期卵巢癌之第一線療法。與GEMCITABINE併 ／ 許可證字號 衛部藥輸字第026484號｜中文品名 亞伯杉注射劑｜主成分略述 PACLITAXEL｜狀態 有效（至 2030/03/19）｜適應症 轉移性乳癌\r\nABRAXANE用於以合併化療治療轉移疾病失敗之乳癌。除非臨床上禁用，否則先前治療應包含一種anthracycline。\r\n非小細胞肺癌\r\n對於無法手術或放射治療的患者，ABRAXANE併用carboplatin，做為局部晚期或轉移性非小細胞肺癌之第一線治療。\r\n胰腺癌\r\nABRAXANE合併gemcit ／ 許可證字號 衛署藥輸字第025586號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2031/12/13）｜適應症 抗癌藥。 ／ 許可證字號 衛署藥陸輸字第000528號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2027/09/11）｜適應症 抗癌藥。 ／ 許可證字號 衛部藥陸輸字第001249號｜中文品名 紫杉醇｜主成分略述 （空白）｜狀態 有效（至 2030/12/19）｜適應症 抗腫瘤藥。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "paclitaxel-original-indication-next-step-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "下一步建議另行釐清 paclitaxel 單方許可證",
+     "note": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。原文保留。",
+     "finding": "TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。原文保留。",
+     "claim": "- 釐清台灣目前 paclitaxel 單方（含 nab-paclitaxel 等劑型）的有效許可證與核准適應症",
+     "anchor": "- 釐清台灣目前 paclitaxel 單方（含 nab-paclitaxel 等劑型）的有效許可證與核准適應症",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "uracil",
@@ -17594,9 +18405,38 @@
    "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已註銷。快速總覽「有效單方 1」那張是衛署藥製字第041013號「濟生」賜達注射劑，主成分是 ceftazidime，碳酸鈉只是賦形劑（程式比對誤計）。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
    "claim": "| 許可證數 | 26 張（有效單方 1／有效複方 5／已註銷 20） |",
    "anchor": "| 許可證數 | 26 張（有效單方 1／有效複方 5／已註銷 20） |",
-   "status": "resolved_by_regeneration",
+   "status": "resolved_by_program",
    "resolved_on": "2026-10-16",
-   "resolved_note": "許可證表程式改為排除 ceftazidime 注射劑（碳酸鈉在其中只是賦形劑），許可證數列已改為「有效單方 0」"
+   "resolved_note": "許可證表程式改為排除 ceftazidime 注射劑（碳酸鈉在其中只是賦形劑），並以英文品名比對到主成分欄空白的「展旺」無菌碳酸鈉；許可證數列改為有效單方 0",
+   "history": [
+    {
+     "drug": "sodium_carbonate",
+     "file": "sodium_carbonate.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥製字第058317號｜中文品名 \"展旺\"無菌碳酸鈉｜主成分略述 （空白）｜狀態 已註銷（2023/06/30）｜適應症 無菌製劑輔助劑(鹼化藥)。 ／ 許可證字號 衛署藥製字第041013號｜中文品名 \"濟生\"賜達注射劑｜主成分略述 STERILE CEFTAZIDIME (SODIUM CARBONATE)｜狀態 有效（至 2027/04/03）｜適應症 ＣＥＦＴＡＺＩＤＩＭＥ　是殺菌性頭孢子菌抗生素、對多種乙醢鑄、有抵抗力、並對廣泛之革蘭氏陽性及陰性細菌有效。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "sodium-carbonate-original-indication-count-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "快速總覽「原適應症」",
+     "summary": "許可證數把 ceftazidime 注射劑算成碳酸鈉有效單方",
+     "note": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已註銷。快速總覽「有效單方 1」那張是衛署藥製字第041013號「濟生」賜達注射劑，主成分是 ceftazidime，碳酸鈉只是賦形劑（程式比對誤計）。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+     "finding": "TFDA 許可證資料中，以碳酸鈉為主成分的單方許可證是衛部藥製字第058317號「展旺」無菌碳酸鈉，適應症為「無菌製劑輔助劑(鹼化藥)」，已註銷。快速總覽「有效單方 1」那張是衛署藥製字第041013號「濟生」賜達注射劑，主成分是 ceftazidime，碳酸鈉只是賦形劑（程式比對誤計）。「制酸劑」字樣來自 sodium bicarbonate、magnesium trisilicate 等其他成分的許可證。",
+     "claim": "| 許可證數 | 26 張（有效單方 1／有效複方 5／已註銷 20） |",
+     "anchor": "| 許可證數 | 26 張（有效單方 1／有效複方 5／已註銷 20） |",
+     "status": "resolved_by_regeneration",
+     "resolved_on": "2026-10-16",
+     "resolved_note": "許可證表程式改為排除 ceftazidime 注射劑（碳酸鈉在其中只是賦形劑），許可證數列已改為「有效單方 0」",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "fludarabine",
@@ -17757,7 +18597,7 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
      "accessed": "2026-10-16"
     }
    ],
@@ -17766,8 +18606,8 @@
    "action": "correct",
    "section": "標題",
    "summary": "標題以消毒殺菌為原用途",
-   "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
-   "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "# Povidone：從外用消毒殺菌到先天性魚鱗癬樣紅皮症",
    "replacement": "# Povidone：從製劑輔料與人工淚液到先天性魚鱗癬樣紅皮症",
    "history": [
@@ -17794,6 +18634,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題以消毒殺菌為原用途",
+     "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+     "claim": "# Povidone：從外用消毒殺菌到先天性魚鱗癬樣紅皮症",
+     "replacement": "# Povidone：從製劑輔料與人工淚液到先天性魚鱗癬樣紅皮症",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -17804,7 +18668,7 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
      "accessed": "2026-10-16"
     }
    ],
@@ -17813,8 +18677,8 @@
    "action": "correct",
    "section": "一句話總結",
    "summary": "一句話總結把 povidone 寫成聚維酮碘",
-   "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
-   "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "Povidone（聚維酮碘）是外用局部消毒殺菌劑，原本用於傷口、皮膚、口腔及手術前消毒。",
    "replacement": "Povidone（聚維酮，PVP）是常用的製劑輔料（分散劑、懸膠劑、崩散劑），也用於人工淚液；傷口、皮膚、口腔及手術前消毒是 povidone-iodine（聚維酮碘）的用途。",
    "history": [
@@ -17841,6 +18705,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-summary-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結把 povidone 寫成聚維酮碘",
+     "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+     "claim": "Povidone（聚維酮碘）是外用局部消毒殺菌劑，原本用於傷口、皮膚、口腔及手術前消毒。",
+     "replacement": "Povidone（聚維酮，PVP）是常用的製劑輔料（分散劑、懸膠劑、崩散劑），也用於人工淚液；傷口、皮膚、口腔及手術前消毒是 povidone-iodine（聚維酮碘）的用途。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -17851,19 +18739,18 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
      "accessed": "2026-10-16"
     }
    ],
    "id": "povidone-iodine-indications-why-2026-10-16",
    "checked": "2026-10-16",
-   "action": "annotate",
-   "section": "為什麼這個預測合理？",
+   "action": "correct",
+   "section": "快速總覽「原核准適應症」",
    "summary": "預測理由稱 povidone 是含碘消毒劑",
-   "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
-   "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
-   "claim": "Povidone 是含碘的外用消毒劑",
-   "anchor": "Povidone 是含碘的外用消毒劑",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "claim": "Povidone 是含碘的外用消毒劑，一般認為其透過釋出游離碘殺滅微生物。",
    "history": [
     {
      "drug": "povidone",
@@ -17888,8 +18775,33 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-why-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "為什麼這個預測合理？",
+     "summary": "預測理由稱 povidone 是含碘消毒劑",
+     "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
+     "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
+     "claim": "Povidone 是含碘的外用消毒劑",
+     "anchor": "Povidone 是含碘的外用消毒劑",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": true
     }
-   ]
+   ],
+   "replacement": "Povidone（聚維酮，PVP）本身不含碘，主要用作製劑輔料與人工淚液；含碘的外用消毒劑是 povidone-iodine（聚維酮碘），透過釋出游離碘殺滅微生物。"
   },
   {
    "drug": "povidone",
@@ -17898,7 +18810,7 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
      "accessed": "2026-10-16"
     }
    ],
@@ -17907,8 +18819,8 @@
    "action": "annotate",
    "section": "結論與下一步",
    "summary": "結論稱 povidone 原為外用消毒劑",
-   "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
-   "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。原文保留。",
+   "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "Povidone 原為外用消毒劑",
    "anchor": "Povidone 原為外用消毒劑",
    "history": [
@@ -17935,6 +18847,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "結論稱 povidone 原為外用消毒劑",
+     "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
+     "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。原文保留。",
+     "claim": "Povidone 原為外用消毒劑",
+     "anchor": "Povidone 原為外用消毒劑",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -18197,13 +19133,12 @@
    ],
    "id": "cromoglicic-acid-original-indication-conclusion-2026-10-16",
    "checked": "2026-10-16",
-   "action": "annotate",
-   "section": "結論與下一步",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
    "summary": "結論稱台灣目前無上市許可證",
-   "note": "TFDA 許可證資料中，cromolyn sodium（sodium cromoglicate，色甘酸鈉）截至資料集日期有效的單方許可證共 13 張（另 1 張衛署藥製字第051028號舒治敏鼻用噴液劑已過期）：製劑都是過敏性結膜炎點眼液（如衛署藥製字第049351號、衛部藥製字第059380號）與過敏性鼻炎噴鼻劑（如衛署藥輸字第021824號）；另有 2 張原料藥，衛署藥輸字第025831號「果莫喘鈉」登載適應症為「支氣管擴張劑」、衛部藥輸字第029058號「色甘酸鈉鹽」為「過敏症用藥」。台灣沒有有效的氣喘吸入劑或口服製劑許可證，肥大細胞增生症也不在有效許可證的適應症內。原文保留。",
-   "finding": "TFDA 許可證資料中，cromolyn sodium（sodium cromoglicate，色甘酸鈉）截至資料集日期有效的單方許可證共 13 張（另 1 張衛署藥製字第051028號舒治敏鼻用噴液劑已過期）：製劑都是過敏性結膜炎點眼液（如衛署藥製字第049351號、衛部藥製字第059380號）與過敏性鼻炎噴鼻劑（如衛署藥輸字第021824號）；另有 2 張原料藥，衛署藥輸字第025831號「果莫喘鈉」登載適應症為「支氣管擴張劑」、衛部藥輸字第029058號「色甘酸鈉鹽」為「過敏症用藥」。台灣沒有有效的氣喘吸入劑或口服製劑許可證，肥大細胞增生症也不在有效許可證的適應症內。原文保留。",
-   "claim": "- 台灣目前無上市許可證",
-   "anchor": "- 台灣目前無上市許可證",
+   "note": "TFDA 許可證資料中，cromolyn sodium（sodium cromoglicate，色甘酸鈉）截至資料集日期有效的單方許可證共 13 張（另 1 張衛署藥製字第051028號舒治敏鼻用噴液劑已過期）：製劑都是過敏性結膜炎點眼液（如衛署藥製字第049351號、衛部藥製字第059380號）與過敏性鼻炎噴鼻劑（如衛署藥輸字第021824號）；另有 2 張原料藥，衛署藥輸字第025831號「果莫喘鈉」登載適應症為「支氣管擴張劑」、衛部藥輸字第029058號「色甘酸鈉鹽」為「過敏症用藥」。台灣沒有有效的氣喘吸入劑或口服製劑許可證，肥大細胞增生症也不在有效許可證的適應症內。",
+   "finding": "TFDA 許可證資料中，cromolyn sodium（sodium cromoglicate，色甘酸鈉）截至資料集日期有效的單方許可證共 13 張（另 1 張衛署藥製字第051028號舒治敏鼻用噴液劑已過期）：製劑都是過敏性結膜炎點眼液（如衛署藥製字第049351號、衛部藥製字第059380號）與過敏性鼻炎噴鼻劑（如衛署藥輸字第021824號）；另有 2 張原料藥，衛署藥輸字第025831號「果莫喘鈉」登載適應症為「支氣管擴張劑」、衛部藥輸字第029058號「色甘酸鈉鹽」為「過敏症用藥」。台灣沒有有效的氣喘吸入劑或口服製劑許可證，肥大細胞增生症也不在有效許可證的適應症內。",
+   "claim": "- 台灣目前無上市許可證，且作用機轉與仿單安全性資料皆缺漏。",
    "history": [
     {
      "drug": "cromoglicic_acid",
@@ -18228,8 +19163,33 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "cromoglicic_acid",
+     "file": "cromoglicic_acid.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第049351號｜中文品名 “派頓”克樂敏眼藥水 2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜狀態 有效（至 2028/03/31）｜適應症 過敏性結膜炎。 ／ 許可證字號 衛部藥製字第059380號｜中文品名 舒敏眼藥水2%｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜狀態 有效（至 2026/11/15）｜適應症 過敏性結膜炎。 ／ 許可證字號 衛署藥輸字第021824號｜中文品名 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜狀態 有效（至 2027/07/24）｜適應症 過敏性鼻炎 ／ 許可證字號 衛署藥輸字第025831號｜中文品名 果莫喘鈉｜主成分略述 （空白）｜狀態 有效（至 2027/10/04）｜適應症 支氣管擴張劑 ／ 許可證字號 衛部藥輸字第029058號｜中文品名 色甘酸鈉鹽｜主成分略述 （空白）｜狀態 有效（至 2030/11/03）｜適應症 過敏症用藥 ／ 許可證字號 衛署藥製字第051028號｜中文品名 舒治敏鼻用噴液劑｜主成分略述 CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CROMOGLYCATE)｜狀態 已過期（有效日期 2024/09/18）｜適應症 急性鼻炎、過敏性鼻炎、鼻竇炎、鼻咽炎。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "cromoglicic-acid-original-indication-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "結論稱台灣目前無上市許可證",
+     "note": "TFDA 許可證資料中，cromolyn sodium（sodium cromoglicate，色甘酸鈉）截至資料集日期有效的單方許可證共 13 張（另 1 張衛署藥製字第051028號舒治敏鼻用噴液劑已過期）：製劑都是過敏性結膜炎點眼液（如衛署藥製字第049351號、衛部藥製字第059380號）與過敏性鼻炎噴鼻劑（如衛署藥輸字第021824號）；另有 2 張原料藥，衛署藥輸字第025831號「果莫喘鈉」登載適應症為「支氣管擴張劑」、衛部藥輸字第029058號「色甘酸鈉鹽」為「過敏症用藥」。台灣沒有有效的氣喘吸入劑或口服製劑許可證，肥大細胞增生症也不在有效許可證的適應症內。原文保留。",
+     "finding": "TFDA 許可證資料中，cromolyn sodium（sodium cromoglicate，色甘酸鈉）截至資料集日期有效的單方許可證共 13 張（另 1 張衛署藥製字第051028號舒治敏鼻用噴液劑已過期）：製劑都是過敏性結膜炎點眼液（如衛署藥製字第049351號、衛部藥製字第059380號）與過敏性鼻炎噴鼻劑（如衛署藥輸字第021824號）；另有 2 張原料藥，衛署藥輸字第025831號「果莫喘鈉」登載適應症為「支氣管擴張劑」、衛部藥輸字第029058號「色甘酸鈉鹽」為「過敏症用藥」。台灣沒有有效的氣喘吸入劑或口服製劑許可證，肥大細胞增生症也不在有效許可證的適應症內。原文保留。",
+     "claim": "- 台灣目前無上市許可證",
+     "anchor": "- 台灣目前無上市許可證",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": true
     }
-   ]
+   ],
+   "replacement": "- 台灣已有色甘酸鈉的有效許可證（點眼液、噴鼻劑），但作用機轉與仿單安全性資料皆缺漏。"
   },
   {
    "drug": "amylmetacresol",
@@ -19013,7 +19973,7 @@
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
      "accessed": "2026-10-16"
     }
    ],
@@ -19022,8 +19982,8 @@
    "action": "correct",
    "section": "快速總覽「原適應症」",
    "summary": "原適應症寫殺菌劑",
-   "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
-   "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "| 原適應症 | 殺菌劑 |",
    "replacement": "| 原適應症 | 製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液（povidone 單方許可證，皆已註銷）；殺菌劑是 povidone-iodine 的適應症 |",
    "history": [
@@ -19050,6 +20010,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-row-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "快速總覽「原適應症」",
+     "summary": "原適應症寫殺菌劑",
+     "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+     "claim": "| 原適應症 | 殺菌劑 |",
+     "replacement": "| 原適應症 | 製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液（povidone 單方許可證，皆已註銷）；殺菌劑是 povidone-iodine 的適應症 |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -19090,8 +20074,8 @@
    "action": "correct",
    "section": "快速總覽「原適應症」",
    "summary": "原適應症稱有效許可證都用於眼部症狀",
-   "note": "TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（鼻炎、鼻塞）、內衛成製字第000983號皮速平（香港腳等皮膚黴菌病）；chlorobutanol 在其中是防腐成分。",
-   "finding": "TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（鼻炎、鼻塞）、內衛成製字第000983號皮速平（香港腳等皮膚黴菌病）；chlorobutanol 在其中是防腐成分。",
+   "note": "TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（phenylephrine＋chlorobutanol；結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（diphenhydramine＋phenylephrine＋chlorobutanol；鼻炎、鼻塞）、內衛成製字第000983號皮速平（salicylic acid＋chlorobutanol＋benzoic acid 等；香港腳等皮膚黴菌病），適應症屬整個複方；chlorobutanol 單方許可證核准的是「防腐劑」。",
+   "finding": "TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（phenylephrine＋chlorobutanol；結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（diphenhydramine＋phenylephrine＋chlorobutanol；鼻炎、鼻塞）、內衛成製字第000983號皮速平（salicylic acid＋chlorobutanol＋benzoic acid 等；香港腳等皮膚黴菌病），適應症屬整個複方；chlorobutanol 單方許可證核准的是「防腐劑」。",
    "claim": "| 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證皆為複方，用於結膜充血、角膜炎等眼部症狀 |",
    "history": [
     {
@@ -19117,9 +20101,33 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "chlorobutanol",
+     "file": "chlorobutanol.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 內衛藥製字第010694號｜中文品名 \"人人\"眼用滴劑｜主成分略述 PHENYLEPHRINE HCL；CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 有效（至 2029/12/31）｜適應症 結膜充血、角膜炎、角膜充血 ／ 許可證字號 衛部藥製字第060942號｜中文品名 鼻能爽液｜主成分略述 DIPHENHYDRAMINE；PHENYLEPHRINE；CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 有效（至 2029/02/01）｜適應症 鼻炎、鼻塞。 ／ 許可證字號 內衛成製字第000983號｜中文品名 皮速平｜主成分略述 SALICYLIC ACID；CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)；BENZOIC ACID；Compound tincture benzoin｜狀態 有效（至 2029/05/25）｜適應症 香港腳（水蟲病）、金錢癬、灰指甲、牛皮癬、白癬、黴菌性皮膚病 ／ 許可證字號 衛署藥輸字第009099號｜中文品名 愛耳液｜主成分略述 DIPHENHYDRAMINE HCL；CHLORPHENESIN；CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)；UREA；GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)｜狀態 已註銷（2000/10/18）｜適應症 外耳炎、急慢性中耳炎、耳痛、耳咽管的發炎",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "chlorobutanol-original-indication-combo-combos-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "快速總覽「原適應症」",
+     "summary": "原適應症稱有效許可證都用於眼部症狀",
+     "note": "TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（鼻炎、鼻塞）、內衛成製字第000983號皮速平（香港腳等皮膚黴菌病）；chlorobutanol 在其中是防腐成分。",
+     "finding": "TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（鼻炎、鼻塞）、內衛成製字第000983號皮速平（香港腳等皮膚黴菌病）；chlorobutanol 在其中是防腐成分。",
+     "claim": "| 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證皆為複方，用於結膜充血、角膜炎等眼部症狀 |",
+     "replacement": "| 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），chlorobutanol 在其中是防腐成分 |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
-   "replacement": "| 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），chlorobutanol 在其中是防腐成分 |"
+   "replacement": "| 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），適應症屬整個複方 |"
   },
   {
    "drug": "fenoprofen",
@@ -19268,7 +20276,42 @@
    "note": "依本站研究方法，L1 需有 ≥2 個 Phase 3 試驗或系統性回顧；本頁自述已完成的 Phase 3 RCT 不足 2 個，文獻證據表也沒有系統性回顧，依本頁所列證據不符 L1 定義（有 Phase 2/3 RCT，較接近 L2）。另外，子癇前症／子癇本身就是硫酸鎂仿單核准的適應症（預防與控制子癇前症、子癇的抽搐），這筆預測屬既有用途的再確認，不是新適應症。頁面等級未改寫。",
    "finding": "依本站研究方法，L1 需有 ≥2 個 Phase 3 試驗或系統性回顧；本頁自述已完成的 Phase 3 RCT 不足 2 個，文獻證據表也沒有系統性回顧，依本頁所列證據不符 L1 定義（有 Phase 2/3 RCT，較接近 L2）。另外，子癇前症／子癇本身就是硫酸鎂仿單核准的適應症（預防與控制子癇前症、子癇的抽搐），這筆預測屬既有用途的再確認，不是新適應症。頁面等級未改寫。",
    "claim": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
-   "anchor": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |"
+   "anchor": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
+   "history": [
+    {
+     "drug": "magnesium_sulfate",
+     "file": "magnesium_sulfate.md",
+     "sources": [
+      {
+       "title": "TwTxGNN 研究方法：證據等級判定",
+       "url": "https://twtxgnn.yao.care/methodology/",
+       "excerpt": "L1｜多個 Phase 3 RCT / 系統性回顧｜有 ≥2 個 Phase 3 試驗或系統性回顧；L2｜單一 RCT 或多個 Phase 2 試驗｜有 1 個 RCT 或 ≥2 個 Phase 2 試驗",
+       "accessed": "2026-10-16"
+      },
+      {
+       "title": "DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d",
+       "excerpt": "Magnesium prevents or controls convulsions by blocking neuromuscular transmission and decreasing the amount of acetylcholine liberated at the end plate by the motor nerve impulse. Magnesium is said to have a depressant effect on the central nervous system ... Magnesium acts peripherally to produce vasodilation",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "magnesium-sulfate-cerebral-perfusion-level-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "快速總覽「證據等級」",
+     "summary": "證據等級 L1 與頁面自述不符",
+     "note": "依本站研究方法，L1 需有 ≥2 個 Phase 3 試驗或系統性回顧；本頁自述已完成的 Phase 3 RCT 不足 2 個，文獻證據表也沒有系統性回顧，依本頁所列證據不符 L1 定義（有 Phase 2/3 RCT，較接近 L2）。另外，子癇前症／子癇本身就是硫酸鎂仿單核准的適應症（預防與控制子癇前症、子癇的抽搐），這筆預測屬既有用途的再確認，不是新適應症。頁面等級未改寫。",
+     "finding": "依本站研究方法，L1 需有 ≥2 個 Phase 3 試驗或系統性回顧；本頁自述已完成的 Phase 3 RCT 不足 2 個，文獻證據表也沒有系統性回顧，依本頁所列證據不符 L1 定義（有 Phase 2/3 RCT，較接近 L2）。另外，子癇前症／子癇本身就是硫酸鎂仿單核准的適應症（預防與控制子癇前症、子癇的抽搐），這筆預測屬既有用途的再確認，不是新適應症。頁面等級未改寫。",
+     "claim": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
+     "anchor": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ],
+   "status": "withdrawn",
+   "withdrawn_on": "2026-10-16",
+   "withdrawn_note": "改以正式重審處理（見「子癇前症／子癇證據等級重審結果」）；本筆「較接近 L2」的判斷只看頁面所列證據，重審查到 Magpie Trial 與 Cochrane 系統性回顧後不成立"
   },
   {
    "drug": "ascorbyl_phosphate",
@@ -19355,10 +20398,36 @@
    "action": "correct",
    "section": "快速總覽「台灣上市」",
    "summary": "台灣上市列寫「僅 1 張有效複方」",
-   "note": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。本頁許可證數列也是有效單方 0、有效複方 0。",
-   "finding": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。本頁許可證數列也是有效單方 0、有效複方 0。",
+   "note": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。本頁許可證數列也是有效單方 0、有效複方 0。",
+   "finding": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。本頁許可證數列也是有效單方 0、有效複方 0。",
    "claim": "| 台灣上市 | ✓ 已上市（僅 1 張有效複方許可證） |",
-   "replacement": "| 台灣上市 | ✗ 截至資料集日期無有效許可證（唯一未註銷的複方「二矽酸鋁鎂」已於 2026-07-07 過期） |"
+   "replacement": "| 台灣上市 | ✗ 截至資料集日期無主成分登載為二氧化矽的有效許可證（唯一未註銷的複方「二矽酸鋁鎂」已於 2026-07-07 過期） |",
+   "history": [
+    {
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。 ／ 許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "silicon_dioxide-antacid-combo-marketed-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "快速總覽「台灣上市」",
+     "summary": "台灣上市列寫「僅 1 張有效複方」",
+     "note": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。本頁許可證數列也是有效單方 0、有效複方 0。",
+     "finding": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。本頁許可證數列也是有效單方 0、有效複方 0。",
+     "claim": "| 台灣上市 | ✓ 已上市（僅 1 張有效複方許可證） |",
+     "replacement": "| 台灣上市 | ✗ 截至資料集日期無有效許可證（唯一未註銷的複方「二矽酸鋁鎂」已於 2026-07-07 過期） |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "silicon_dioxide",
@@ -19376,10 +20445,36 @@
    "action": "annotate",
    "section": "結論與下一步",
    "summary": "下一步以現有制酸複方為研究對象",
-   "note": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。原文保留。",
-   "finding": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。原文保留。",
+   "note": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。原文保留。",
+   "finding": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。",
    "claim": "並以含二氧化矽的現有制酸複方為對象設計研究",
-   "anchor": "並以含二氧化矽的現有制酸複方為對象設計研究"
+   "anchor": "並以含二氧化矽的現有制酸複方為對象設計研究",
+   "history": [
+    {
+     "drug": "silicon_dioxide",
+     "file": "silicon_dioxide.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。 ／ 許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "silicon_dioxide-antacid-combo-study-target-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "下一步以現有制酸複方為研究對象",
+     "note": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。原文保留。",
+     "finding": "截至資料集日期（2026-09-29），台灣沒有有效的含二氧化矽許可證：唯一未註銷的制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷。原文保留。",
+     "claim": "並以含二氧化矽的現有制酸複方為對象設計研究",
+     "anchor": "並以含二氧化矽的現有制酸複方為對象設計研究",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "chlorobutanol",
@@ -19481,10 +20576,36 @@
    "action": "correct",
    "section": "一句話總結",
    "summary": "一句話總結的原用途漏列偏頭痛",
-   "note": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。",
-   "finding": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。",
+   "note": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。下一句把偏頭痛當成「較有機轉線索」的新方向，也應以此理解。",
+   "finding": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。下一句把偏頭痛當成「較有機轉線索」的新方向，也應以此理解。",
    "claim": "原本用於產後出血、子宮收縮不全等產科情境。",
-   "replacement": "原本用於產後出血、子宮收縮不全等產科情境；台灣現行有效許可證也核准偏頭痛。"
+   "replacement": "原本用於產後出血、子宮收縮不全等產科情境；台灣現行有效許可證也核准偏頭痛。",
+   "history": [
+    {
+     "drug": "ergometrine",
+     "file": "ergometrine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 內衛藥製字第009847號｜中文品名 縮水蘋果酸麥角新鹼錠｜主成分略述 ERGONOVINE MALEATE｜狀態 有效（至 2027/12/31）｜適應症 產科用於產後促使子宮復原及預防出血過多、偏頭痛 ／ 許可證字號 內衛藥製字第012732號｜中文品名 縮水蘋果酸麥角新鹼片｜主成分略述 ERGONOVINE MALEATE｜狀態 有效（至 2028/05/25）｜適應症 產後子宮肌張力弛緩而致之血崩症、偏頭痛 ／ 許可證字號 衛署藥製字第029626號｜中文品名 意如宮注射液（縮水蘋果酸麥角新/）｜主成分略述 ERGONOVINE MALEATE｜狀態 有效（至 2030/02/13）｜適應症 分娩後之子宮弛緩、子宮弛緩性出血、流產後出血、產褥期出血、子宮內膜刮除後出血之預防及治療、偏頭痛。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "ergometrine-alpha-premise-summary-use-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結的原用途漏列偏頭痛",
+     "note": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。",
+     "finding": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。",
+     "claim": "原本用於產後出血、子宮收縮不全等產科情境。",
+     "replacement": "原本用於產後出血、子宮收縮不全等產科情境；台灣現行有效許可證也核准偏頭痛。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "ergometrine",
@@ -19505,7 +20626,211 @@
    "note": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。原文保留。",
    "finding": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。原文保留。",
    "claim": "相對較有機轉線索的是**偏頭痛 (Migraine disorder)**",
-   "anchor": "相對較有機轉線索的是**偏頭痛 (Migraine disorder)**"
+   "anchor": "相對較有機轉線索的是**偏頭痛 (Migraine disorder)**",
+   "history": [
+    {
+     "drug": "ergometrine",
+     "file": "ergometrine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 內衛藥製字第009847號｜中文品名 縮水蘋果酸麥角新鹼錠｜主成分略述 ERGONOVINE MALEATE｜狀態 有效（至 2027/12/31）｜適應症 產科用於產後促使子宮復原及預防出血過多、偏頭痛 ／ 許可證字號 內衛藥製字第012732號｜中文品名 縮水蘋果酸麥角新鹼片｜主成分略述 ERGONOVINE MALEATE｜狀態 有效（至 2028/05/25）｜適應症 產後子宮肌張力弛緩而致之血崩症、偏頭痛 ／ 許可證字號 衛署藥製字第029626號｜中文品名 意如宮注射液（縮水蘋果酸麥角新/）｜主成分略述 ERGONOVINE MALEATE｜狀態 有效（至 2030/02/13）｜適應症 分娩後之子宮弛緩、子宮弛緩性出血、流產後出血、產褥期出血、子宮內膜刮除後出血之預防及治療、偏頭痛。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "ergometrine-alpha-premise-summary-new-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "一句話總結",
+     "summary": "一句話總結把偏頭痛當成新的再利用方向",
+     "note": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。原文保留。",
+     "finding": "偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。原文保留。",
+     "claim": "相對較有機轉線索的是**偏頭痛 (Migraine disorder)**",
+     "anchor": "相對較有機轉線索的是**偏頭痛 (Migraine disorder)**",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ],
+   "status": "withdrawn",
+   "withdrawn_on": "2026-10-16",
+   "withdrawn_note": "與相鄰的「一句話總結的原用途漏列偏頭痛」更正說明相同，已併入該筆"
+  },
+  {
+   "id": "magnesium-sulfate-preeclampsia-rereview-2026-10-16",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-16",
+   "action": "rereview",
+   "section": "快速總覽「證據等級」",
+   "summary": "子癇前症／子癇 L1 標記待重審",
+   "claim": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
+   "prediction": "子癇前症／子癇 (preeclampsia/eclampsia)",
+   "status": "rereviewed",
+   "resolved_by": "magnesium-sulfate-preeclampsia-rereview-result-2026-10-16",
+   "note": "頁面把子癇前症／子癇評為 L1，但同一格自述「已完成的 Phase 3 RCT 不足 2 個」，文獻表也沒有系統性回顧，與研究方法的 L1 定義不一致，標記待重審。",
+   "finding": "證據等級格自述不足 2 個 Phase 3 RCT、文獻表無系統性回顧，卻評 L1。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1｜多個 Phase 3 RCT / 系統性回顧｜有 ≥2 個 Phase 3 試驗或系統性回顧",
+     "accessed": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "id": "magnesium-sulfate-preeclampsia-rereview-result-2026-10-16",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-10-16",
+   "action": "rereview_result",
+   "resolves": "magnesium-sulfate-preeclampsia-rereview-2026-10-16",
+   "summary": "子癇前症／子癇證據等級重審結果",
+   "claim": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
+   "prediction": "子癇前症／子癇 (preeclampsia/eclampsia)",
+   "verdict": "maintain",
+   "original_level": "L1",
+   "new_level": "L1",
+   "level_note": "L1",
+   "flawed_premises": [
+    "頁面以「已完成的 Phase 2/3 及 Phase 4 RCT、臨床標準療法」支撐 L1，自述 Phase 3 RCT 不足 2 個，文獻表未列系統性回顧"
+   ],
+   "remaining_support": [
+    "Magpie Trial：10,141 名子癇前症婦女的多國隨機安慰劑對照試驗（PMID 12057549）",
+    "Cochrane 系統性回顧：硫酸鎂與其他抗痙攣藥用於子癇前症（PMID 21069663）、硫酸鎂對 diazepam（PMID 21154341）、對 phenytoin（PMID 20927719）用於子癇",
+    "子癇前症、子癇的抽搐預防與控制本身是硫酸鎂仿單核准的適應症"
+   ],
+   "rationale": "頁面列出的證據確實不足以支撐 L1，但 PubMed 有大型隨機對照試驗與多篇 Cochrane 系統性回顧，符合研究方法 L1「≥2 個 Phase 3 試驗或系統性回顧」的定義；等級維持，頁面的文獻表漏列這些主要證據。",
+   "searches": [
+    "PubMed：magpie trial magnesium sulphate pre-eclampsia（3 筆，含 PMID 12057549）",
+    "PubMed：magnesium sulphate anticonvulsants women pre-eclampsia[ti] cochrane（9 筆）",
+    "PubMed：magnesium sulphate versus diazepam eclampsia[ti] cochrane（7 筆）"
+   ],
+   "note": "頁面列出的理由（Phase 2/3 與 Phase 4 RCT、臨床標準療法）不足以構成 L1，但這個適應症另有大型隨機對照試驗與系統性回顧：Magpie Trial 共 10,141 名子癇前症婦女、隨機安慰劑對照（[PMID 12057549](https://pubmed.ncbi.nlm.nih.gov/12057549/)），以及 Cochrane 系統性回顧（[PMID 21069663](https://pubmed.ncbi.nlm.nih.gov/21069663/)、[21154341](https://pubmed.ncbi.nlm.nih.gov/21154341/)、[20927719](https://pubmed.ncbi.nlm.nih.gov/20927719/)），符合研究方法 L1「≥2 個 Phase 3 試驗或系統性回顧」的定義，等級維持 L1。頁面文獻表漏列這些主要證據；另外子癇前症、子癇本身就是硫酸鎂仿單核准的適應症，這筆預測屬既有用途的再確認。",
+   "sources": [
+    {
+     "title": "PubMed：Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial（PMID 12057549）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12057549/",
+     "excerpt": "Randomised placebo-controlled trial, 10,141 women with pre-eclampsia in 33 countries; magnesium sulphate halved the risk of eclampsia.",
+     "accessed": "2026-10-16"
+    },
+    {
+     "title": "PubMed：Magnesium sulphate and other anticonvulsants for women with pre-eclampsia（Cochrane 2010）（PMID 21069663）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21069663/",
+     "excerpt": "Cochrane systematic review / meta-analysis of randomised trials of magnesium sulphate for pre-eclampsia.",
+     "accessed": "2026-10-16"
+    },
+    {
+     "title": "PubMed：Magnesium sulphate versus diazepam for eclampsia（Cochrane 2010）（PMID 21154341）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/21154341/",
+     "excerpt": "Cochrane systematic review / meta-analysis: magnesium sulphate vs diazepam for women with eclampsia.",
+     "accessed": "2026-10-16"
+    },
+    {
+     "title": "PubMed：Magnesium sulphate versus phenytoin for eclampsia（Cochrane 2010）（PMID 20927719）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/20927719/",
+     "excerpt": "Cochrane systematic review / meta-analysis: magnesium sulphate vs phenytoin for women with eclampsia.",
+     "accessed": "2026-10-16"
+    },
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1｜多個 Phase 3 RCT / 系統性回顧｜有 ≥2 個 Phase 3 試驗或系統性回顧",
+     "accessed": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "drug": "cyclizine",
+   "file": "cyclizine.md",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+     "accessed": "2026-10-16"
+    },
+    {
+     "title": "emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1",
+     "url": "https://www.medicines.org.uk/emc/product/4318/smpc",
+     "excerpt": "§4.1: Cyclizine Hydrochloride is indicated in adults and in children aged 6 years and over for the prevention and treatment of nausea and vomiting including:- • Motion sickness. • Nausea and vomiting caused by narcotic analgesics and by general anaesthetics in the post-operative period. • Vomiting associated with radiotherapy, especially for breast cancer since cyclizine does not elevate prolactin levels. ／ §5.1: Cyclizine is a histamine H 1 receptor antagonist of the piperazine class which is characterised by a low incidence of drowsiness. It possesses anticholinergic and antiemetic properties.",
+     "accessed": "2026-10-03"
+    }
+   ],
+   "id": "cyclizine-why-approved-premise-premise-2026-10-16",
+   "checked": "2026-10-16",
+   "action": "correct",
+   "section": "為什麼這個預測合理？",
+   "summary": "預測理由稱 cyclizine 單方已列有蕁麻疹等過敏適應症",
+   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。",
+   "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。",
+   "claim": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症。",
+   "replacement": "但台灣 cyclizine 單方許可證（旅暈平錠）只核准動暈症；蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等是 homochlorcyclizine、chlorcyclizine 等不同成分許可證的適應症。"
+  },
+  {
+   "drug": "povidone",
+   "file": "povidone.md",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+     "accessed": "2026-10-16"
+    }
+   ],
+   "id": "povidone-iodine-indications-infection-2026-10-16",
+   "checked": "2026-10-16",
+   "action": "annotate",
+   "section": "快速總覽「原核准適應症」",
+   "summary": "推論以消毒殺菌為前提",
+   "note": "這句以 povidone 有消毒殺菌作用為前提；povidone（PVP）本身不含碘、沒有殺菌作用，殺菌的是 povidone-iodine（聚維酮碘）。原文保留。",
+   "finding": "這句以 povidone 有消毒殺菌作用為前提；povidone（PVP）本身不含碘、沒有殺菌作用，殺菌的是 povidone-iodine（聚維酮碘）。原文保留。",
+   "claim": "例如降低患者因皮膚屏障受損而發生的續發性皮膚感染",
+   "anchor": "例如降低患者因皮膚屏障受損而發生的續發性皮膚感染"
+  },
+  {
+   "drug": "silicon_dioxide",
+   "file": "silicon_dioxide.md",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥輸字第024482號｜中文品名 二矽酸鋁鎂｜主成分略述 ALUMINUM OXIDE (ALUMINA)；ALUMINUM MAGNESIUM SILICATE；SILICON DIOXIDE (SILICA GEL)；MAGNESIUM OXIDE｜狀態 已過期（有效日期 2026/07/07）｜適應症 制酸劑。 ／ 許可證字號 衛署藥輸字第006893號｜中文品名 矽酸｜主成分略述 SILICON DIOXIDE (SILICA GEL)｜狀態 已註銷（1992/07/09）｜適應症 賦形劑 ／ 許可證字號 衛署藥輸字第012366號｜中文品名 矽凝膠｜主成分略述 SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)｜狀態 已註銷（2005/06/03）｜適應症 氣體吸著劑",
+     "accessed": "2026-10-16"
+    }
+   ],
+   "id": "silicon_dioxide-antacid-combo-label-use-2026-10-16",
+   "checked": "2026-10-16",
+   "action": "annotate",
+   "section": "快速總覽「原適應症」",
+   "summary": "預測理由稱有制酸相關的標示用途",
+   "note": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。二氧化矽單方許可證（皆已註銷）核准的是賦形劑與氣體吸著劑，沒有制酸用途。原文保留。",
+   "finding": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。二氧化矽單方許可證（皆已註銷）核准的是賦形劑與氣體吸著劑，沒有制酸用途。原文保留。",
+   "claim": "以及制酸相關的標示用途",
+   "anchor": "以及制酸相關的標示用途"
+  },
+  {
+   "drug": "fenoprofen",
+   "file": "fenoprofen.md",
+   "sources": [
+    {
+     "title": "本頁「文獻證據」表",
+     "url": "https://twtxgnn.yao.care/drugs/fenoprofen/",
+     "excerpt": "7010512｜RCT｜雙盲交叉試驗；6996071｜RCT｜雙盲交叉試驗；7026817｜雙盲隨機交叉研究（資料庫標示為 Review）",
+     "accessed": "2026-10-16"
+    }
+   ],
+   "id": "fenoprofen-why-as-premise-rct-count-2026-10-16",
+   "checked": "2026-10-16",
+   "action": "annotate",
+   "section": "為什麼這個預測合理？",
+   "summary": "一句話總結稱含 2 篇雙盲交叉試驗",
+   "note": "本頁文獻證據表列有 3 篇雙盲交叉研究：PMID 7010512（對 phenylbutazone）、6996071（對 indomethacin 與安慰劑）、7026817（六種 NSAID 比較，資料庫標示為 Review）。原文保留。",
+   "finding": "本頁文獻證據表列有 3 篇雙盲交叉研究：PMID 7010512（對 phenylbutazone）、6996071（對 indomethacin 與安慰劑）、7026817（六種 NSAID 比較，資料庫標示為 Review）。原文保留。",
+   "claim": "（含 2 篇雙盲交叉試驗）",
+   "anchor": "（含 2 篇雙盲交叉試驗）"
   }
  ]
 }

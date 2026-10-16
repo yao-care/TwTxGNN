@@ -48,6 +48,12 @@ TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測�
 
 <!-- review:end fenoprofen-why-as-premise-summary-2026-10-16 -->
 
+<!-- review:begin fenoprofen-why-as-premise-rct-count-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：本頁文獻證據表列有 3 篇雙盲交叉研究：PMID 7010512（對 phenylbutazone）、6996071（對 indomethacin 與安慰劑）、7026817（六種 NSAID 比較，資料庫標示為 Review）。原文保留。依據：[本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/fenoprofen/)。
+
+<!-- review:end fenoprofen-why-as-premise-rct-count-2026-10-16 -->
+
 > 說明：預測清單第 1 名為 acromesomelic dysplasia, Hunter-Thompson type（預測分數 99.997%），但沒有任何臨床試驗或文獻，證據等級為 L5，建議為 Hold。第 1～9 名預測均屬此類，只有第 10 名的僵直性脊椎炎有文獻證據，因此以它作為評估重點。
 
 ## 快速總覽
@@ -165,13 +171,14 @@ TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 原核准適應症取自已註銷許可證 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為有效許可證的「鎮痛」；標題、一句話總結、預測理由與結論仍把已註銷許可證的關節炎適應症當原用途，另以 fenoprofen-why-as-premise 系列紀錄處理；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 「部分原核准適應症已包含關節強硬性脊椎炎」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原核准適應症取自已註銷許可證 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為有效許可證的「鎮痛」；標題、一句話總結、預測理由與結論仍把已註銷許可證的關節炎適應症當原用途，另有查核紀錄處理；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原核准適應症中也包含關節強硬性脊椎炎」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L3，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 標題以風濕性關節炎為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結把已註銷許可證的適應症寫成原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱與既有核准適應症（關節強硬性脊椎炎）重疊 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 模型排名寫第 1839 | 更正（2026-10-16 修訂，前版保留於紀錄） | [TwTxGNN TxGNN 深度學習預測檔 txgnn_dl_predictions.csv.gz（2026-10-12 產出；封存於 GitHub Release data-20261015 的 TwTxGNN-data 包，yao-care/txgnn 私有 repo）](https://github.com/yao-care/txgnn/releases/tag/data-20261015) |
+| 2026-10-16 | 一句話總結稱含 2 篇雙盲交叉試驗 | 加註 | [本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/fenoprofen/) |
 
 <!-- review:end log -->
 

@@ -61,6 +61,12 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 | 許可證數 | 4 張（有效單方 0／有效複方 4／已註銷 0） |
 | 建議決策 | Hold |
 
+<!-- review:begin amylmetacresol-original-indication-combo-2026-10-03 -->
+
+> **查核加註（2026-10-03）**：台灣含 amylmetacresol 的 4 張許可證都是與 2,4-dichlorobenzyl alcohol 的複方口含錠，「口腔殺菌劑、咽喉炎」是複方的適應症，台灣沒有 amylmetacresol 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end amylmetacresol-original-indication-combo-2026-10-03 -->
+
 <!-- review:begin amylmetacresol-moa-2026-10-03 -->
 
 ## Amylmetacresol 的作用
@@ -80,12 +86,6 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 ---
 
 <!-- review:end amylmetacresol-moa-2026-10-03 -->
-
-<!-- review:begin amylmetacresol-original-indication-combo-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：台灣含 amylmetacresol 的 4 張許可證都是與 2,4-dichlorobenzyl alcohol 的複方口含錠，「口腔殺菌劑、咽喉炎」是複方的適應症，台灣沒有 amylmetacresol 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end amylmetacresol-original-indication-combo-2026-10-03 -->
 
 ## 為什麼這個預測合理？
 

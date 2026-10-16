@@ -130,7 +130,9 @@ def ingredients_of(rec: dict) -> list[str]:
     if s:
         return [i.strip() for i in s.split(";;") if i.strip()]
     en = rec.get("英文品名")
-    return [en.strip()] if en else []
+    # 2026-10-16：主成分欄空白時用英文品名；去掉「Sterile」前綴（如衛部藥製字第058317號
+    # Sterile Sodium Carbonate "SLC"），否則唯一的碳酸鈉單方比對不到
+    return [re.sub(r"^\s*STERILE\s+", "", en.strip(), flags=re.I)] if en else []
 
 
 def load_records(path: Path | None = None) -> list[dict]:

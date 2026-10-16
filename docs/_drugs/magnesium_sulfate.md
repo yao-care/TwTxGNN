@@ -48,6 +48,12 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 許可證數 | 117 張（有效單方 5／有效複方 14／已註銷 98） |
 | 建議決策 | Proceed with Guardrails |
 
+<!-- review:begin magnesium-sulfate-preeclampsia-rereview-result-2026-10-16 -->
+
+> **重審結果（2026-10-16）**：**維持**（證據等級 L1 不變）。頁面列出的理由（Phase 2/3 與 Phase 4 RCT、臨床標準療法）不足以構成 L1，但這個適應症另有大型隨機對照試驗與系統性回顧：Magpie Trial 共 10,141 名子癇前症婦女、隨機安慰劑對照（[PMID 12057549](https://pubmed.ncbi.nlm.nih.gov/12057549/)），以及 Cochrane 系統性回顧（[PMID 21069663](https://pubmed.ncbi.nlm.nih.gov/21069663/)、[21154341](https://pubmed.ncbi.nlm.nih.gov/21154341/)、[20927719](https://pubmed.ncbi.nlm.nih.gov/20927719/)），符合研究方法 L1「≥2 個 Phase 3 試驗或系統性回顧」的定義，等級維持 L1。頁面文獻表漏列這些主要證據；另外子癇前症、子癇本身就是硫酸鎂仿單核准的適應症，這筆預測屬既有用途的再確認。依據：[PubMed：Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial（PMID 12057549）](https://pubmed.ncbi.nlm.nih.gov/12057549/)；[PubMed：Magnesium sulphate and other anticonvulsants for women with pre-eclampsia（Cochrane 2010）（PMID 21069663）](https://pubmed.ncbi.nlm.nih.gov/21069663/)；[PubMed：Magnesium sulphate versus diazepam for eclampsia（Cochrane 2010）（PMID 21154341）](https://pubmed.ncbi.nlm.nih.gov/21154341/)；[PubMed：Magnesium sulphate versus phenytoin for eclampsia（Cochrane 2010）（PMID 20927719）](https://pubmed.ncbi.nlm.nih.gov/20927719/)；[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)。
+
+<!-- review:end magnesium-sulfate-preeclampsia-rereview-result-2026-10-16 -->
+
 <!-- review:begin magnesium_sulfate-moa-2026-10-03 -->
 
 ## Magnesium Sulfate（硫酸鎂）的作用機轉
@@ -69,12 +75,6 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 ---
 
 <!-- review:end magnesium_sulfate-moa-2026-10-03 -->
-
-<!-- review:begin magnesium-sulfate-cerebral-perfusion-level-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：依本站研究方法，L1 需有 ≥2 個 Phase 3 試驗或系統性回顧；本頁自述已完成的 Phase 3 RCT 不足 2 個，文獻證據表也沒有系統性回顧，依本頁所列證據不符 L1 定義（有 Phase 2/3 RCT，較接近 L2）。另外，子癇前症／子癇本身就是硫酸鎂仿單核准的適應症（預防與控制子癇前症、子癇的抽搐），這筆預測屬既有用途的再確認，不是新適應症。頁面等級未改寫。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
-
-<!-- review:end magnesium-sulfate-cerebral-perfusion-level-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -221,7 +221,9 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 稱缺乏作用機轉資料 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-16 | 下一步建議補齊作用機轉 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
-| 2026-10-16 | 證據等級 L1 與頁面自述不符 | 加註 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-16 | 證據等級 L1 與頁面自述不符 | 查核撤回（2026-10-16：改以正式重審處理（見「子癇前症／子癇證據等級重審結果」）；本筆「較接近 L2」的判斷只看頁面所列證據，重審查到 Magpie Trial 與 Cochrane 系統性回顧後不成立；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-16 | 子癇前症／子癇 L1 標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-16 | 子癇前症／子癇證據等級重審結果 | 重審：維持，證據等級 L1 不變 | [PubMed：Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial（PMID 12057549）](https://pubmed.ncbi.nlm.nih.gov/12057549/)；[PubMed：Magnesium sulphate and other anticonvulsants for women with pre-eclampsia（Cochrane 2010）（PMID 21069663）](https://pubmed.ncbi.nlm.nih.gov/21069663/)；[PubMed：Magnesium sulphate versus diazepam for eclampsia（Cochrane 2010）（PMID 21154341）](https://pubmed.ncbi.nlm.nih.gov/21154341/)；[PubMed：Magnesium sulphate versus phenytoin for eclampsia（Cochrane 2010）（PMID 20927719）](https://pubmed.ncbi.nlm.nih.gov/20927719/)；[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

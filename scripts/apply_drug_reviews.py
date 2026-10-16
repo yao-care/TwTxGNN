@@ -56,6 +56,8 @@ RESOLVED = "resolved_by_regeneration"
 # 2026-10-16 起：查核本身判斷有誤或與另一筆重複，標 status=withdrawn（附 withdrawn_on、withdrawn_note＝撤回理由）。
 # 紀錄保留、頁面不顯示框，只在查核紀錄表註明撤回。
 WITHDRAWN = "withdrawn"
+# 許可證表程式改版（比對規則、exclude）後頁面已無此錯誤：status=resolved_by_program（附 resolved_on、resolved_note）
+RESOLVED_PROGRAM = "resolved_by_program"
 
 
 def load():
@@ -186,7 +188,8 @@ def apply_record(text, rec, problems):
     nxt = re.compile(r"\s*<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->", re.S)
     while True:
         m = nxt.match(text, e)
-        if not m or m.group(1) == "log":
+        # 附來源的段落（section，自帶 ## 標題）不跳過，否則框會落到別的章節標題下（2026-10-16 pm 第六輪）
+        if not m or m.group(1) == "log" or re.search(r"^#{1,6} ", m.group(0), re.M):
             break
         e = m.end()
     return text[:e] + "\n\n" + note_md(rec) + text[e:]
@@ -212,6 +215,8 @@ def log_md(recs):
             act = f"已由程式化許可證表取代（原為{act}）"
         elif r.get("status") == RESOLVED:
             act = f"報告重生後已無此錯誤（{r['resolved_on']}：{r['resolved_note']}；原為{act}）"
+        elif r.get("status") == RESOLVED_PROGRAM:
+            act = f"許可證表程式修正後已無此錯誤（{r['resolved_on']}：{r['resolved_note']}；原為{act}）"
         elif r.get("status") == WITHDRAWN:
             act = f"查核撤回（{r['withdrawn_on']}：{r['withdrawn_note']}；原為{act}）"
         rows.append(f"| {r['checked']} | {item} | {act} | {sources_md(r)} |")
@@ -334,7 +339,7 @@ def render_page(text, recs, problems):
     results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result" and r.get("status") != RESOLVED}
     retired = {r["resolves"] for r in recs if r["action"] == "rereview_result" and r.get("status") == RESOLVED}
     for r in recs:
-        if r.get("status") in ("superseded", RESOLVED, WITHDRAWN):
+        if r.get("status") in ("superseded", RESOLVED, WITHDRAWN, RESOLVED_PROGRAM):
             continue  # 撤回的紀錄同樣不顯示框； 錨點所在的許可證表／張數已由程式化區塊取代，或報告重生後已無此錯誤：紀錄保留、頁面不再顯示框
         if r["action"] in ("rereview_result", "header_level"):
             continue  # rereview_result 在它 resolves 的那筆 rereview 位置渲染；header_level 只進查核紀錄表

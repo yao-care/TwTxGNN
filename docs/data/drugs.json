@@ -644,7 +644,7 @@
       "name": "Chlorobutanol",
       "evidence_level": "L5",
       "indication_count": 10,
-      "original_indication": "防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），chlorobutanol 在其中是防腐成分",
+      "original_indication": "防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），適應症屬整個複方",
       "predicted_indication": "勃起功能障礙 (Erectile Dysfunction)",
       "txgnn_score": "99.79%",
       "taiwan_approved": true,

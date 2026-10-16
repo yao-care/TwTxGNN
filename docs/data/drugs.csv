@@ -52,7 +52,7 @@ Cephalexin,cephalexin,L5,0,葡萄球菌、鏈球菌、肺炎雙球菌、腦膜�
 Cerliponase Alfa,cerliponase_alfa,L5,10,治療患有神經元蠟樣脂褐質儲積症 2 型 (CLN2) 疾病（也稱為三肽基肽酶 1 [TPP1] 缺乏症）病人,Scheie 症候群 (Scheie syndrome),99.98%,True,Hold,/drugs/cerliponase_alfa/
 Cetuximab,cetuximab,L5,10,RAS 原生型轉移性直腸結腸癌（併用 FOLFIRI 或 FOLFOX 作第一線治療；併用 encorafenib 治療 BRAF V600E 突變且曾接受治療者）；局部晚期口咽癌、下咽癌及喉癌（併用放射線療法）；復發及／或轉移性頭頸部鱗狀細胞癌（併用含 platinum 類化療）,"兒童支氣管腺瘤／類癌 (Bronchial adenomas/carcinoids, childhood)",99.95%,True,Hold,/drugs/cetuximab/
 Chloral Hydrate,chloral_hydrate,L5,0,兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號）,無,無,True,Hold,/drugs/chloral_hydrate/
-Chlorobutanol,chlorobutanol,L5,10,防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），chlorobutanol 在其中是防腐成分,勃起功能障礙 (Erectile Dysfunction),99.79%,True,Hold,/drugs/chlorobutanol/
+Chlorobutanol,chlorobutanol,L5,10,防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），適應症屬整個複方,勃起功能障礙 (Erectile Dysfunction),99.79%,True,Hold,/drugs/chlorobutanol/
 Cholic Acid,cholic_acid,L4,10,治療由於單一酵素缺乏所造成之先天性膽酸合成障礙；輔助治療過氧化體代謝異常（包括 Zellweger spectrum disorders）病人的肝病表現、脂肪瀉或脂溶性維生素吸收降低所引起的併發症,HIV 感染 (HIV infectious disease),99.79%,True,Hold,/drugs/cholic_acid/
 Choline Salicylate,choline_salicylate,L3,10,發炎、疼痛、單純疱瘡,類風濕性關節炎 (Rheumatoid Arthritis),99.82%,True,Hold（以研究問題方式持續追蹤）,/drugs/choline_salicylate/
 Cisatracurium,cisatracurium,L5,10,高選擇性及競爭性的非去極化神經肌肉阻斷劑，作為全身麻醉之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調,馬尾症候群 (Cauda Equina Syndrome),99.99%,True,Hold,/drugs/cisatracurium/

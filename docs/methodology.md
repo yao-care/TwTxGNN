@@ -147,13 +147,13 @@ TxGNN 使用**知識圖譜**結合**圖神經網路**進行預測：
 
 <div class="flowchart">
   <div class="flow-step">
-    <div class="flow-question">有 Phase 3 RCT 或系統性回顧？</div>
+    <div class="flow-question">有 ≥2 個 Phase 3 試驗或系統性回顧？</div>
     <span class="flow-arrow">→</span>
     <div class="flow-result flow-l1">L1</div>
   </div>
   <div class="flow-no">
     <div class="flow-step">
-      <div class="flow-question">有 Phase 2 RCT？</div>
+      <div class="flow-question">有 1 個 RCT 或 ≥2 個 Phase 2 試驗？</div>
       <span class="flow-arrow">→</span>
       <div class="flow-result flow-l2">L2</div>
     </div>
