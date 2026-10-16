@@ -61,6 +61,8 @@ def load_all_drugs() -> list:
     for filepath in sorted(DRUGS_DIR.glob("*.md")):
         content = filepath.read_text(encoding='utf-8')
         fm = extract_front_matter(content)
+        if str((fm or {}).get('noindex', '')).lower() == 'true':
+            continue  # 2026-10-17：noindex 頁（無新預測）不列入匯出
         overview = extract_quick_overview(content)
 
         if fm:

@@ -263,7 +263,7 @@ def _prune_search_index():
         ok = page.exists()
         if ok:
             head = page.read_text(encoding="utf-8", errors="replace")[:2000]
-            if _re.search(r"^search_exclude:\s*true", head, _re.M | _re.I):
+            if _re.search(r"^(search_exclude|noindex):\s*true", head, _re.M | _re.I):  # 2026-10-17：noindex 頁也不進索引
                 ok = False
         _cache[slug] = ok
         return ok

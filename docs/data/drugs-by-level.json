@@ -797,7 +797,7 @@
       ]
     },
     "L5": {
-      "count": 173,
+      "count": 165,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -882,12 +882,6 @@
           "slug": "asfotase_alfa",
           "decision": "Hold",
           "indication_count": 10
-        },
-        {
-          "name": "Aspirin",
-          "slug": "aspirin",
-          "decision": "Hold",
-          "indication_count": 0
         },
         {
           "name": "Atracurium Besylate",
@@ -980,12 +974,6 @@
           "indication_count": 10
         },
         {
-          "name": "Cephalexin",
-          "slug": "cephalexin",
-          "decision": "Hold",
-          "indication_count": 0
-        },
-        {
           "name": "Cerliponase Alfa",
           "slug": "cerliponase_alfa",
           "decision": "Hold",
@@ -996,12 +984,6 @@
           "slug": "cetuximab",
           "decision": "Hold",
           "indication_count": 10
-        },
-        {
-          "name": "Chloral Hydrate",
-          "slug": "chloral_hydrate",
-          "decision": "Hold",
-          "indication_count": 0
         },
         {
           "name": "Chlorobutanol",
@@ -1508,12 +1490,6 @@
           "indication_count": 3
         },
         {
-          "name": "Pentoxifylline",
-          "slug": "pentoxifylline",
-          "decision": "",
-          "indication_count": 0
-        },
-        {
           "name": "Peppermint Oil",
           "slug": "peppermint_oil",
           "decision": "Hold",
@@ -1748,12 +1724,6 @@
           "indication_count": 10
         },
         {
-          "name": "Tofacitinib",
-          "slug": "tofacitinib",
-          "decision": "",
-          "indication_count": 0
-        },
-        {
           "name": "Tolmetin",
           "slug": "tolmetin",
           "decision": "Hold",
@@ -1784,12 +1754,6 @@
           "indication_count": 10
         },
         {
-          "name": "Urea",
-          "slug": "urea",
-          "decision": "",
-          "indication_count": 0
-        },
-        {
           "name": "Urofollitropin",
           "slug": "urofollitropin",
           "decision": "Hold",
@@ -1802,12 +1766,6 @@
           "indication_count": 1
         },
         {
-          "name": "Vigabatrin",
-          "slug": "vigabatrin",
-          "decision": "無老藥新用候選",
-          "indication_count": 0
-        },
-        {
           "name": "Vinorelbine",
           "slug": "vinorelbine",
           "decision": "Proceed with Guardrails",
@@ -1818,12 +1776,6 @@
           "slug": "vitamin_e",
           "decision": "Hold",
           "indication_count": 10
-        },
-        {
-          "name": "Voriconazole",
-          "slug": "voriconazole",
-          "decision": "無老藥新用候選",
-          "indication_count": 0
         },
         {
           "name": "Xylitol",

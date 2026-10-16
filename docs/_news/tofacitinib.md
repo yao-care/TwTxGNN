@@ -27,7 +27,7 @@ permalink: /news/tofacitinib/
 <li><strong>原適應症</strong>: 類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎、潰瘍性結腸炎、多關節型兒童特發性關節炎</li>
 <li><strong>證據等級</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/tofacitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

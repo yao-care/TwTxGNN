@@ -39,7 +39,7 @@ permalink: /news/tiaprofenic_acid/
 <li>pseudoachondroplasia (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/tiaprofenic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/tiaprofenic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

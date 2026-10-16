@@ -27,7 +27,7 @@ permalink: /news/aspirin/
 <li><strong>原適應症</strong>: 解熱鎮痛劑</li>
 <li><strong>證據等級</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/aspirin/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

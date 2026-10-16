@@ -27,7 +27,7 @@ permalink: /news/cephalexin/
 <li><strong>原適應症</strong>: 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、生殖泌尿道、皮膚及軟組織等）</li>
 <li><strong>證據等級</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/cephalexin/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

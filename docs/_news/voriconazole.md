@@ -27,7 +27,7 @@ permalink: /news/voriconazole/
 <li><strong>原適應症</strong>: 侵犯性麴菌症、侵犯性念珠菌感染、足分枝菌/鐮刀菌感染、預防侵入性黴菌感染</li>
 <li><strong>證據等級</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/voriconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

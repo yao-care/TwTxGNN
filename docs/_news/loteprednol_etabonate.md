@@ -39,7 +39,7 @@ permalink: /news/loteprednol_etabonate/
 <li>otitis externa (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/loteprednol_etabonate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/loteprednol-etabonate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

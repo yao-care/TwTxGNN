@@ -35,7 +35,7 @@ permalink: /news/sodium_carbonate/
 <li>ventricular tachycardia (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium_carbonate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/sodium-carbonate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

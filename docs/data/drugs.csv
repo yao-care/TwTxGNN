@@ -21,7 +21,6 @@ Anastrozole,anastrozole,L1,6,治療停經後婦女晚期乳癌；輔助治療停
 Anthralin,anthralin,L3,10,頑癬、牛皮癬、錢癬及其他癬菌所致之皮膚病,圓形禿 (Alopecia Areata),99.58%,True,Proceed with Guardrails,/drugs/anthralin/
 Ascorbyl Phosphate,ascorbyl_phosphate,L5,10,暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢（來源為複方許可證，台灣無有效單方許可證）,嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy),99.65%,False,Hold,/drugs/ascorbyl-phosphate/
 Asfotase Alfa,asfotase_alfa,L5,10,小兒發作型低磷酸酯酶症 (Pediatric-onset hypophosphatasia; HPP) 病人之長期酵素替代療法,核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies),99.95%,True,Hold,/drugs/asfotase-alfa/
-Aspirin,aspirin,L5,0,解熱鎮痛劑,無,無,True,Hold,/drugs/aspirin/
 Atezolizumab,atezolizumab,L4,10,非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）,攝護腺尿道泌尿上皮癌 (Prostatic urethra urothelial carcinoma),99.98%,True,Hold,/drugs/atezolizumab/
 Atracurium Besylate,atracurium_besylate,L5,10,本藥乃一高選擇性及競爭性的非去極化神經肌肉阻斷劑。可作為手術全身麻醉或加護病房鎮靜的輔助劑、以鬆弛骨骼肌、幫助氣管插管與人工吸器的協調。（衛署藥製字第042879號許可證原文）,子癇前症 (Preeclampsia),99.97%,True,Hold,/drugs/atracurium-besylate/
 Avelumab,avelumab,L5,10,轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎細胞癌 (RCC) 第一線治療；第一線含鉑化療後疾病未惡化之局部晚期或轉移性泌尿道上皮癌 (UC) 維持療法,人類疱疹病毒 8 型相關腫瘤 (human herpesvirus 8-related tumor),99.97%,True,Hold,/drugs/avelumab/
@@ -48,10 +47,8 @@ Carisoprodol,carisoprodol,L4,1,焦慮緊張症、經常緊張、肌炎、椎間�
 Caspofungin,caspofungin,L5,1,適用於其他治療方法無效或不能忍受的侵入性麴菌病之第二線用藥、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症），以及發燒的重度嗜中性白血球缺乏症患者可能罹患黴菌感染症之經驗療法,胃泌素分泌異常 (Gastrin Secretion Abnormality),99.44%,True,Hold,/drugs/caspofungin/
 Cefmetazole,cefmetazole,L4,9,葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症,高澱粉酶血症 (Hyperamylasemia),99.50%,True,Hold,/drugs/cefmetazole/
 Cefoperazone,cefoperazone,L5,10,抗生素（用於感受性細菌感染）,硬化性膽管炎 (Sclerosing Cholangitis),99.98%,True,Hold,/drugs/cefoperazone/
-Cephalexin,cephalexin,L5,0,葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、生殖泌尿道、皮膚及軟組織等）,無,無,True,Hold,/drugs/cephalexin/
 Cerliponase Alfa,cerliponase_alfa,L5,10,治療患有神經元蠟樣脂褐質儲積症 2 型 (CLN2) 疾病（也稱為三肽基肽酶 1 [TPP1] 缺乏症）病人,Scheie 症候群 (Scheie syndrome),99.98%,True,Hold,/drugs/cerliponase-alfa/
 Cetuximab,cetuximab,L5,10,RAS 原生型轉移性直腸結腸癌（併用 FOLFIRI 或 FOLFOX 作第一線治療；併用 encorafenib 治療 BRAF V600E 突變且曾接受治療者）；局部晚期口咽癌、下咽癌及喉癌（併用放射線療法）；復發及／或轉移性頭頸部鱗狀細胞癌（併用含 platinum 類化療）,"兒童支氣管腺瘤／類癌 (Bronchial adenomas/carcinoids, childhood)",99.95%,True,Hold,/drugs/cetuximab/
-Chloral Hydrate,chloral_hydrate,L5,0,兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號）,無,無,True,Hold,/drugs/chloral-hydrate/
 Chlorobutanol,chlorobutanol,L5,10,防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），適應症屬整個複方,勃起功能障礙 (Erectile Dysfunction),99.79%,True,Hold,/drugs/chlorobutanol/
 Cholic Acid,cholic_acid,L4,10,治療由於單一酵素缺乏所造成之先天性膽酸合成障礙；輔助治療過氧化體代謝異常（包括 Zellweger spectrum disorders）病人的肝病表現、脂肪瀉或脂溶性維生素吸收降低所引起的併發症,HIV 感染 (HIV infectious disease),99.79%,True,Hold,/drugs/cholic-acid/
 Choline Salicylate,choline_salicylate,L3,10,發炎、疼痛、單純疱瘡,類風濕性關節炎 (Rheumatoid Arthritis),99.82%,True,Hold（以研究問題方式持續追蹤）,/drugs/choline-salicylate/
@@ -200,7 +197,6 @@ Pemetrexed,pemetrexed,L3,10,非鱗狀非小細胞肺癌（顯著鱗狀細胞組�
 Pemigatinib,pemigatinib,L5,10,適用於成人接受過全身性藥物治療、腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌,多發性內分泌腫瘤 (Multiple Endocrine Neoplasia),99.71%,True,Hold,/drugs/pemigatinib/
 Penciclovir,penciclovir,L5,10,治療由單純皰疹病毒引起之後發性唇皰疹,肝吸蟲症 (Fascioliasis),99.06%,True,Hold,/drugs/penciclovir/
 Pentosan Polysulfate,pentosan_polysulfate,L5,3,因間質性膀胱炎引起的膀胱疼痛或不適的解除,血小板釋放障礙 (primary release disorder of platelets),99.71%,True,Hold,/drugs/pentosan-polysulfate/
-Pentoxifylline,pentoxifylline,L5,0,,,,False,,/drugs/pentoxifylline/
 Peppermint Oil,peppermint_oil,L5,10,"切傷、刀傷、創傷、火傷、蟲咬傷、頭暈（""洸洋""藥用薄荷油）",痲瘋病 (Leprosy),99.80%,True,Hold,/drugs/peppermint-oil/
 Perindopril,perindopril,L4,5,高血壓、充血性心臟衰竭；對於有心肌梗塞及/或血管重建病史的病人，併用傳統心絞痛治療藥物，可降低心臟事件的危險,惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease),99.77%,True,Hold,/drugs/perindopril/
 Pexidartinib,pexidartinib,L4,10,無法透過手術或其他治療（如局部放射線治療）改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤（TGCT）成人病人,HER2 陽性乳癌 (HER2 positive breast carcinoma),99.98%,False,Hold（僅列為研究問題，不建議推進臨床開發）,/drugs/pexidartinib/
@@ -271,7 +267,6 @@ Tinidazole,tinidazole,L5,10,男女兩性生殖泌尿系的陰道毛滴蟲症、�
 Tioconazole,tioconazole,L2,3,感受性黴菌引起之局部感染,外陰陰道炎 (Vulvovaginitis),99.23%,True,Proceed with Guardrails,/drugs/tioconazole/
 Titanium Dioxide,titanium_dioxide,L5,10,外用抗刺激劑（單方許可證，已註銷）,藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis),99.9998%,True,Hold,/drugs/titanium-dioxide/
 Tizanidine,tizanidine,L2,6,神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣,偏頭痛 (Migraine Disorder),99.79%,True,Proceed with Guardrails,/drugs/tizanidine/
-Tofacitinib,tofacitinib,L5,0,類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎、潰瘍性結腸炎、多關節型兒童特發性關節炎,**無**（TxGNN 未預測出符合條件的新適應症）,,False,,/drugs/tofacitinib/
 Tolmetin,tolmetin,L5,10,類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風,"肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)",99.98%,True,Hold,/drugs/tolmetin/
 Tolvaptan,tolvaptan,L1,10,自體顯性多囊性腎臟病（ADPKD），適用於 eGFR 大於 25 mL/min/1.73m² 且已出現病情迅速惡化跡象之慢性腎臟病成人患者,多囊性腎臟病第 3 型，合併或不合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease),99.99%,True,Proceed with Guardrails,/drugs/tolvaptan/
 Trabectedin,trabectedin,L2,1,無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)，且曾接受一種含 anthracycline 療程的病人,女性乳癌 (Female Breast Carcinoma),99.73%,True,Proceed with Guardrails,/drugs/trabectedin/
@@ -284,16 +279,13 @@ Trifluoperazine,trifluoperazine,L4,1,精神病狀態、噁心、嘔吐、攻擊�
 Trihexyphenidyl,trihexyphenidyl,L5,10,帕金森氏症候群,注意力不足過動症 (Attention Deficit-Hyperactivity Disorder),99.92%,True,Hold,/drugs/trihexyphenidyl/
 Tyrosine,tyrosine,L5,10,氨基酸補給劑、營養劑（胺基酸）（取自台灣單一成分許可證中現行有效者；有效證另有 TKI 類產品的血液腫瘤適應症，其藥理與酪胺酸營養劑不同）,馬尾症候群 (Cauda Equina Syndrome),99.77%,True,Hold,/drugs/tyrosine/
 Uracil,uracil,L3,10,抗惡性腫瘤劑（單方原料藥，如衛部藥製字第062093號、第062102號）；與 tegafur 組成複方膠囊（UFT），用於胃癌、大腸癌、乳癌等（如衛署藥輸字第023484號）,大腸腫瘤 (Colonic Neoplasm),99.50%,True,Hold,/drugs/uracil/
-Urea,urea,L5,0,,,,False,,/drugs/urea/
 Urofollitropin,urofollitropin,L5,10,因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀,偏頭痛 (Migraine Disorder),99.85%,True,Hold,/drugs/urofollitropin/
 Vasopressin,vasopressin,L4,2,尿崩症,先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency),99.63%,False,Hold,/drugs/vasopressin/
 Verteporfin,verteporfin,L5,1,因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生，病理性近視(PM)或疑似眼組織漿菌症引起之視網膜下中央凹脈絡膜血管新生,核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies),99.49%,True,Hold,/drugs/verteporfin/
-Vigabatrin,vigabatrin,L5,0,抗癲癇之輔助療法,無,N/A,True,無老藥新用候選,/drugs/vigabatrin/
 Vinorelbine,vinorelbine,L5,10,非小細胞肺癌、轉移性乳癌,尤文氏肉瘤 (Ewing sarcoma),99.999%,True,Proceed with Guardrails,/drugs/vinorelbine/
 Vismodegib,vismodegib,L2,10,治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期基底細胞癌成人病患,皮膚癌 (Skin Cancer),99.82%,True,Proceed with Guardrails,/drugs/vismodegib/
 Vitamin E,vitamin_e,L5,10,皮膚乾燥及因維他命E缺乏引起之皮膚症,先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism),99.99%,True,Hold,/drugs/vitamin-e/
 Vonoprazan,vonoprazan,L2,10,糜爛性食道炎(EE)的治療及維持治療；治療胃潰瘍；治療十二指腸潰瘍；輔助根除幽門螺旋桿菌,活動性消化性潰瘍 (Active Peptic Ulcer Disease),99.97%,True,Proceed with Guardrails,/drugs/vonoprazan/
-Voriconazole,voriconazole,L5,0,侵犯性麴菌症、侵犯性念珠菌感染、足分枝菌/鐮刀菌感染、預防侵入性黴菌感染,無,N/A,True,無老藥新用候選,/drugs/voriconazole/
 Warfarin,warfarin,L4,3,1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。,肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency),99.87%,True,Hold,/drugs/warfarin/
 Warfarin Af,warfarin_af,L1,0,,,,True,標準治療,/drugs/warfarin-af/
 Warfarin Atrial Fibrillation,warfarin_atrial_fibrillation,L1,0,,,,True,標準治療（非老藥新用候選）,/drugs/warfarin-atrial-fibrillation/

@@ -177,7 +177,8 @@ else:
         errors.append("head_custom.html 找不到任何 ld+json 區塊（結構化資料全失）")
     for i, b in enumerate(blocks, 1):
         try:
-            json.loads(b)
+            # 未加引號的 {{ … | jsonify }} 會輸出合法 JSON 值，驗證時以字串代入（2026-10-17）
+            json.loads(re.sub(r'(:\s*)\{\{[^}]*\}\}', r'\1"x"', b))
         except Exception as e:
             errors.append(f"head_custom.html 第 {i} 個 ld+json 不是合法 JSON：{e}")
 
@@ -253,8 +254,9 @@ for md in sorted((DOCS / "_drugs").glob("*.md")):
 # 7b) 吃等級的衍生檔要跟頁首一致（重產頁面後忘了重產衍生檔就擋）
 _fm_level = {}
 for md in (DOCS / "_drugs").glob("*.md"):
-    _m = re.search(r"^evidence_level:[ \t]*(L[1-5])", md.read_text(encoding="utf-8", errors="replace")[:2000], re.M)
-    if _m:
+    _head = md.read_text(encoding="utf-8", errors="replace")[:2000]
+    _m = re.search(r"^evidence_level:[ \t]*(L[1-5])", _head, re.M)
+    if _m and not re.search(r"^noindex:[ \t]*true", _head, re.M):  # noindex 頁不進衍生檔（2026-10-17）
         _fm_level[md.stem] = _m.group(1)
 _DERIVED = [("_data/drug_stats.json", "all_drugs", "level", "scripts/generate_drug_stats.py"),
             ("data/drugs.json", "drugs", "evidence_level", "scripts/generate_data_exports.py"),

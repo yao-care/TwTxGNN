@@ -85,6 +85,21 @@ def source_for(url_path: str, docs: Path) -> Path | None:
 
 
 def commit_date(path: Path, repo: Path) -> str | None:
+    # 2026-10-17：藥物頁 front matter 有 last_modified_at（內文實際最後變動日，排除只改 front matter 的批次提交）就用它，
+    # 否則 2026-10-16 這類全站維護提交會讓所有頁的 lastmod 變成同一天。
+    try:
+        head = path.read_text(encoding="utf-8", errors="replace")[:2000]
+        if head.startswith("---"):
+            import re as _re
+            m = _re.search(r"^last_modified_at:\s*(\d{4}-\d{2}-\d{2})", head, _re.M)
+            if m:
+                return m.group(1)
+    except OSError:
+        pass
+    return _git_commit_date(path, repo)
+
+
+def _git_commit_date(path: Path, repo: Path) -> str | None:
     try:
         out = subprocess.run(
             ["git", "log", "-1", "--format=%cs", "--", str(path.relative_to(repo))],

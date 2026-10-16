@@ -31,7 +31,7 @@ permalink: /news/homatropine_methylbromide/
 <li>cauda equina syndrome (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/homatropine_methylbromide/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/homatropine-methylbromide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

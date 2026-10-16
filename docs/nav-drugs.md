@@ -3,7 +3,7 @@ layout: default
 title: 藥物報告
 nav_order: 4
 has_children: true
-description: "瀏覽 302 份老藥新用驗證報告，依 L1-L5 證據等級分類。"
+description: "瀏覽 294 份老藥新用驗證報告，依 L1-L5 證據等級分類。"
 permalink: /nav-drugs/
 redirect_from:
   - /nav-drugs.html

@@ -1184,15 +1184,6 @@
       "url": "/drugs/asfotase-alfa/"
     },
     {
-      "name": "Aspirin",
-      "slug": "aspirin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/aspirin/"
-    },
-    {
       "name": "Atezolizumab",
       "slug": "atezolizumab",
       "brands": [],
@@ -2538,15 +2529,6 @@
       "url": "/drugs/cefoperazone/"
     },
     {
-      "name": "Cephalexin",
-      "slug": "cephalexin",
-      "brands": [],
-      "original": "抗生素。",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/cephalexin/"
-    },
-    {
       "name": "Cerliponase Alfa",
       "slug": "cerliponase_alfa",
       "brands": [],
@@ -2665,15 +2647,6 @@
         }
       ],
       "url": "/drugs/cetuximab/"
-    },
-    {
-      "name": "Chloral Hydrate",
-      "slug": "chloral_hydrate",
-      "brands": [],
-      "original": "止癢",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/chloral-hydrate/"
     },
     {
       "name": "Chlorobutanol",
@@ -10561,15 +10534,6 @@
       "url": "/drugs/pentosan-polysulfate/"
     },
     {
-      "name": "Pentoxifylline",
-      "slug": "pentoxifylline",
-      "brands": [],
-      "original": "末稍血管循環障礙。",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/pentoxifylline/"
-    },
-    {
       "name": "Peppermint Oil",
       "slug": "peppermint_oil",
       "brands": [],
@@ -13720,15 +13684,6 @@
       "url": "/drugs/tizanidine/"
     },
     {
-      "name": "Tofacitinib",
-      "slug": "tofacitinib",
-      "brands": [],
-      "original": "１、類風濕性關節炎：適用於治療患有中至重度活動性類風濕性關節炎(Rheumatoid Arthrit...",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/tofacitinib/"
-    },
-    {
       "name": "Tolmetin",
       "slug": "tolmetin",
       "brands": [],
@@ -14259,15 +14214,6 @@
       "url": "/drugs/uracil/"
     },
     {
-      "name": "Urea",
-      "slug": "urea",
-      "brands": [],
-      "original": "創傷、手術創外傷、火傷",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/urea/"
-    },
-    {
       "name": "Urofollitropin",
       "slug": "urofollitropin",
       "brands": [],
@@ -14361,15 +14307,6 @@
         }
       ],
       "url": "/drugs/verteporfin/"
-    },
-    {
-      "name": "Vigabatrin",
-      "slug": "vigabatrin",
-      "brands": [],
-      "original": "抗癲？之輔助療法。",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/vigabatrin/"
     },
     {
       "name": "Vinorelbine",
@@ -14610,15 +14547,6 @@
         }
       ],
       "url": "/drugs/vonoprazan/"
-    },
-    {
-      "name": "Voriconazole",
-      "slug": "voriconazole",
-      "brands": [],
-      "original": "抗黴菌用藥",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/voriconazole/"
     },
     {
       "name": "Warfarin",

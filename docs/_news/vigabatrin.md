@@ -27,7 +27,7 @@ permalink: /news/vigabatrin/
 <li><strong>原適應症</strong>: 抗癲癇之輔助療法</li>
 <li><strong>證據等級</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/vigabatrin/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

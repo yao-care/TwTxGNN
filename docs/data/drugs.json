@@ -1,6 +1,6 @@
 {
   "generated": "2026-02-19",
-  "total_count": 302,
+  "total_count": 294,
   "source": "TwTxGNN - https://twtxgnn.yao.care/",
   "drugs": [
     {
@@ -266,18 +266,6 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/asfotase-alfa/"
-    },
-    {
-      "slug": "aspirin",
-      "name": "Aspirin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "解熱鎮痛劑",
-      "predicted_indication": "無",
-      "txgnn_score": "無",
-      "taiwan_approved": true,
-      "decision": "Hold",
-      "url": "/drugs/aspirin/"
     },
     {
       "slug": "atezolizumab",
@@ -592,18 +580,6 @@
       "url": "/drugs/cefoperazone/"
     },
     {
-      "slug": "cephalexin",
-      "name": "Cephalexin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、生殖泌尿道、皮膚及軟組織等）",
-      "predicted_indication": "無",
-      "txgnn_score": "無",
-      "taiwan_approved": true,
-      "decision": "Hold",
-      "url": "/drugs/cephalexin/"
-    },
-    {
       "slug": "cerliponase_alfa",
       "name": "Cerliponase Alfa",
       "evidence_level": "L5",
@@ -626,18 +602,6 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/cetuximab/"
-    },
-    {
-      "slug": "chloral_hydrate",
-      "name": "Chloral Hydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號）",
-      "predicted_indication": "無",
-      "txgnn_score": "無",
-      "taiwan_approved": true,
-      "decision": "Hold",
-      "url": "/drugs/chloral-hydrate/"
     },
     {
       "slug": "chlorobutanol",
@@ -2416,18 +2380,6 @@
       "url": "/drugs/pentosan-polysulfate/"
     },
     {
-      "slug": "pentoxifylline",
-      "name": "Pentoxifylline",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
-      "url": "/drugs/pentoxifylline/"
-    },
-    {
       "slug": "peppermint_oil",
       "name": "Peppermint Oil",
       "evidence_level": "L5",
@@ -3268,18 +3220,6 @@
       "url": "/drugs/tizanidine/"
     },
     {
-      "slug": "tofacitinib",
-      "name": "Tofacitinib",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎、潰瘍性結腸炎、多關節型兒童特發性關節炎",
-      "predicted_indication": "**無**（TxGNN 未預測出符合條件的新適應症）",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
-      "url": "/drugs/tofacitinib/"
-    },
-    {
       "slug": "tolmetin",
       "name": "Tolmetin",
       "evidence_level": "L5",
@@ -3424,18 +3364,6 @@
       "url": "/drugs/uracil/"
     },
     {
-      "slug": "urea",
-      "name": "Urea",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
-      "url": "/drugs/urea/"
-    },
-    {
       "slug": "urofollitropin",
       "name": "Urofollitropin",
       "evidence_level": "L5",
@@ -3470,18 +3398,6 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/verteporfin/"
-    },
-    {
-      "slug": "vigabatrin",
-      "name": "Vigabatrin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "抗癲癇之輔助療法",
-      "predicted_indication": "無",
-      "txgnn_score": "N/A",
-      "taiwan_approved": true,
-      "decision": "無老藥新用候選",
-      "url": "/drugs/vigabatrin/"
     },
     {
       "slug": "vinorelbine",
@@ -3530,18 +3446,6 @@
       "taiwan_approved": true,
       "decision": "Proceed with Guardrails",
       "url": "/drugs/vonoprazan/"
-    },
-    {
-      "slug": "voriconazole",
-      "name": "Voriconazole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "侵犯性麴菌症、侵犯性念珠菌感染、足分枝菌/鐮刀菌感染、預防侵入性黴菌感染",
-      "predicted_indication": "無",
-      "txgnn_score": "N/A",
-      "taiwan_approved": true,
-      "decision": "無老藥新用候選",
-      "url": "/drugs/voriconazole/"
     },
     {
       "slug": "warfarin",

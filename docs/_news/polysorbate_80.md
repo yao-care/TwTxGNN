@@ -30,7 +30,7 @@ permalink: /news/polysorbate_80/
 <li>congenital ichthyosiform erythroderma (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/polysorbate_80/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/polysorbate-80/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

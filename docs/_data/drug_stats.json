@@ -1,12 +1,12 @@
 {
-  "total_drugs": 302,
+  "total_drugs": 294,
   "total_indications": 2293,
   "level_counts": {
     "L1": 16,
     "L2": 25,
     "L3": 32,
     "L4": 56,
-    "L5": 173
+    "L5": 165
   },
   "top_by_indications": [
     {
@@ -2504,70 +2504,6 @@
       "slug": "xylitol",
       "level": "L5",
       "indication_count": 1,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Aspirin",
-      "slug": "aspirin",
-      "level": "L5",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Cephalexin",
-      "slug": "cephalexin",
-      "level": "L5",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Chloral Hydrate",
-      "slug": "chloral_hydrate",
-      "level": "L5",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Pentoxifylline",
-      "slug": "pentoxifylline",
-      "level": "L5",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Tofacitinib",
-      "slug": "tofacitinib",
-      "level": "L5",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Urea",
-      "slug": "urea",
-      "level": "L5",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Vigabatrin",
-      "slug": "vigabatrin",
-      "level": "L5",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Voriconazole",
-      "slug": "voriconazole",
-      "level": "L5",
-      "indication_count": 0,
       "prediction_score": 0,
       "nct_count": 0
     },
