@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 232
 evidence_level: L2
 indication_count: 10
+monitor_inn: "Prednisone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
 last_modified_at: 2026-10-16
 description: "Prednisone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L2）。原適應症：台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）"
 ---

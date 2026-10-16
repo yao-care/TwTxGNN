@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 192
 evidence_level: L2
 indication_count: 10
+monitor_inn: "Nepafenac"
+predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
 last_modified_at: 2026-10-16
 description: "Nepafenac：預測新適應症為眼部疾病 (Eye Disease)（證據等級 L2）。原適應症：治療白內障手術引起之疼痛與發炎"
 ---

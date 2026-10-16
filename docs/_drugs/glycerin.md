@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 126
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Glycerin"
+predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
 last_modified_at: 2026-10-16
 description: "Glycerin：預測新適應症為馬尾症候群 (Cauda Equina Syndrome)（證據等級 L5）。原適應症：緩解便秘"
 ---

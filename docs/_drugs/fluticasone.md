@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 117
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Fluticasone"
+predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura", "cystic teratoma", "spinal cord dermoid cyst", "disease of orbital part of eye adnexa", "exostosis", "disease of orbital region", "dermoid cyst of ovary", "eye disease"]
 last_modified_at: 2026-10-16
 description: "Fluticasone：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：抗炎性皮質固醇（外用）"
 ---

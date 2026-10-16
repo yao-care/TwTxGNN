@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 230
 evidence_level: L2
 indication_count: 10
+monitor_inn: "Prednisolone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland", "idiopathic steroid-sensitive nephrotic syndrome"]
 last_modified_at: 2026-10-16
 description: "Prednisolone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L2）。原適應症：風濕性疾患、支氣管氣喘、腎炎症候群、過敏性皮膚疾患"
 ---

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 125
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Glatiramer"
+predicted_indications: ["hemoglobinopathy", "plasma cell myeloma", "female breast carcinoma", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "indolent plasma cell myeloma", "gastric linitis plastica", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
 last_modified_at: 2026-10-16
 description: "Glatiramer：預測新適應症為血紅素病變 (Hemoglobinopathy)（證據等級 L5）。原適應症：用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率"
 ---

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 168
 evidence_level: L5
 indication_count: 4
+monitor_inn: "lorcaserin"
+predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 last_modified_at: 2026-10-16
 description: "Lorcaserin：預測新適應症為維生素過多症 (Hypervitaminosis)（證據等級 L5）。原適應症：抗肥胖劑"
 ---

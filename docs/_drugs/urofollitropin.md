@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Urofollitropin"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
 last_modified_at: 2026-10-16
 description: "Urofollitropin：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀"
 ---

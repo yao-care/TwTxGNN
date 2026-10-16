@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 155
 evidence_level: L5
 indication_count: 4
+monitor_inn: "Irbesartan"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 last_modified_at: 2026-10-16
 description: "Irbesartan：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變"
 ---

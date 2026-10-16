@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 109
 evidence_level: L5
 indication_count: 5
+monitor_inn: "Ferrous gluconate"
+predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
 last_modified_at: 2026-10-16
 description: "Ferrous Gluconate：預測新適應症為Plummer-Vinson 症候群 (Plummer-Vinson syndrome)（證據等級 L5）。原適應症：各種鐵缺乏性貧血症"
 ---

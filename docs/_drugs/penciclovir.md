@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 210
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Penciclovir"
+predicted_indications: ["fascioliasis", "cysticercosis", "coenurosis", "intestinal helminthiasis", "malignant pleural mesothelioma", "endomyometritis", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "synovium cancer", "malignant visceral pleura tumor"]
 last_modified_at: 2026-10-16
 description: "Penciclovir：預測新適應症為肝吸蟲症 (Fascioliasis)（證據等級 L5）。原適應症：治療由單純皰疹病毒引起之後發性唇皰疹"
 ---

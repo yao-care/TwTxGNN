@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 261
 evidence_level: L5
 indication_count: 9
+monitor_inn: "Sodium citrate"
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "acute laryngopharyngitis", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
 last_modified_at: 2026-10-16
 description: "Sodium Citrate：預測新適應症為乳突性結膜炎 (Papillary Conjunctivitis)（證據等級 L5）。原適應症：輸血用抗凝結劑"
 ---

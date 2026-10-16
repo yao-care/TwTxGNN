@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 53
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Caplacizumab"
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "thrombotic thrombocytopenic purpura", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "fetal and neonatal alloimmune thrombocytopenia", "hemophilia", "platelet-type bleeding disorder"]
 last_modified_at: 2026-10-16
 description: "Caplacizumab：預測新適應症為血小板釋放障礙 (Primary release disorder of platelets)（證據等級 L5）。原適應症：合併血漿置換術及免疫抑制劑，治療成人及 12 歲以上且體重 40 公斤以上青少年的後天性血栓性血小板低下紫斑症（aTTP）"
 ---

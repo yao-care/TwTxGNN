@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Disopyramide"
+predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
 last_modified_at: 2026-10-16
 description: "Disopyramide：預測新適應症為妥瑞氏症 (Tourette syndrome)（證據等級 L5）。原適應症：心室性不整律"
 ---

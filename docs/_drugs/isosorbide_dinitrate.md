@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 157
 evidence_level: L3
 indication_count: 10
+monitor_inn: "Isosorbide dinitrate"
+predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "arterial thoracic outlet syndrome"]
 last_modified_at: 2026-10-16
 description: "Isosorbide Dinitrate：預測新適應症為肺高壓 (Pulmonary Hypertension)（證據等級 L3）。原適應症：預防狹心症之發作"
 ---

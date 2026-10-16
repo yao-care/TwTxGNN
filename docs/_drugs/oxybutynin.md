@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 202
 evidence_level: L5
 indication_count: 3
+monitor_inn: "Oxybutynin"
+predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 last_modified_at: 2026-10-16
 description: "Oxybutynin：預測新適應症為不寧腿症候群 (Restless Legs Syndrome)（證據等級 L5）。原適應症：適用於12歲以上之原發性手掌多汗症病人（擦劑）"
 ---

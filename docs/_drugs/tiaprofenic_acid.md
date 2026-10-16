@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Tiaprofenic acid"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
 last_modified_at: 2026-10-16
 description: "Tiaprofenic Acid：預測新適應症為短指（趾）併指症候群 (Brachydactyly-Syndactyly Syndrome)（證據等級 L5）。原適應症：消炎、鎮痛"
 ---

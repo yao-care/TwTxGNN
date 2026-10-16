@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 185
 evidence_level: L3
 indication_count: 2
+monitor_inn: "Moclobemide"
+predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 last_modified_at: 2026-10-16
 description: "Moclobemide：預測新適應症為懼曠症 (Agoraphobia)（證據等級 L3）。原適應症：抗憂鬱症"
 ---

@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 249
 evidence_level: L4
 indication_count: 10
+monitor_inn: "Rotigotine"
+predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
 last_modified_at: 2026-10-16
 description: "Rotigotine：預測新適應症為注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)（證據等級 L4）。原適應症：原發性帕金森氏症"
 ---

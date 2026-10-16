@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 270
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Teriparatide"
+predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "pregnancy associated osteoporosis", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
 last_modified_at: 2026-10-16
 description: "Teriparatide：預測新適應症為十二指腸潰瘍 (duodenal ulcer)（證據等級 L5）。原適應症：停經後婦女骨質疏鬆症具高度骨折風險者"
 ---

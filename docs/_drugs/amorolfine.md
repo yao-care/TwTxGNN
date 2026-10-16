@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Amorolfine"
+predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
 last_modified_at: 2026-10-16
 description: "Amorolfine：預測新適應症為藥物性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：由皮真菌、酵母菌及黴菌引起之遠端及外側之輕度甲癬"
 ---

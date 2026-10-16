@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 227
 evidence_level: L3
 indication_count: 10
+monitor_inn: "Pralatrexate"
+predicted_indications: ["pleural adenomatoid tumor", "relapsing-remitting multiple sclerosis", "pleural biphasic mesothelioma", "pleural epithelioid mesothelioma", "lymphohistiocytoid mesothelioma", "pericardium cancer", "pleural sarcomatoid mesothelioma", "malignant peritoneal mesothelioma", "well differentiated papillary mesothelioma", "pleural mesothelioma"]
 last_modified_at: 2026-10-16
 description: "Pralatrexate：預測新適應症為胸膜上皮樣間皮瘤 (Pleural Epithelioid Mesothelioma)（證據等級 L3）。原適應症：治療復發或頑固型周邊 T 細胞淋巴瘤 (PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益"
 ---

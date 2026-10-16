@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Clobetasone"
+predicted_indications: ["primary cutaneous T-cell lymphoma", "Sezary syndrome", "primary cutaneous B-cell lymphoma", "granulomatous slack skin disease", "Crohn's colitis", "adrenocortical insufficiency", "primary cutaneous T-cell non-Hodgkin lymphoma", "nephrotic syndrome", "cystic teratoma", "spinal cord dermoid cyst"]
 last_modified_at: 2026-10-16
 description: "Clobetasone：預測新適應症為原發性皮膚 T 細胞淋巴瘤 (primary cutaneous T-cell lymphoma)（證據等級 L5）。原適應症：輕度溼疹、脂漏性皮炎、其他對類固醇有反應的皮膚疾患"
 ---

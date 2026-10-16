@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 162
 evidence_level: L4
 indication_count: 10
+monitor_inn: "Larotrectinib"
+predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma", "cytomegalovirus infection", "malignant catarrh", "infectious bovine rhinotracheitis", "progesterone-receptor negative breast cancer", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "thrombocytopenia"]
 last_modified_at: 2026-10-16
 description: "Larotrectinib：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L4）。原適應症：具 NTRK 基因融合的實體腫瘤（成人和兒童），須符合：無已知後天阻抗性突變、為轉移性或手術切除極可能造成嚴重病症…"
 ---

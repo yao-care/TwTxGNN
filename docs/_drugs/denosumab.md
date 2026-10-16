@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 2
+monitor_inn: "Denosumab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 last_modified_at: 2026-10-16
 description: "Denosumab：預測新適應症為嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)（證據等級 L5）。原適應症：多發性骨髓瘤及實質腫瘤骨轉移：適用於實體腫瘤已有骨轉移及多發性骨髓瘤之成人病人，預防發生骨骼相關事件"
 ---

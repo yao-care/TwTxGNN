@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 183
 evidence_level: L5
 indication_count: 1
+monitor_inn: "mitiglinide"
+predicted_indications: ["opsismodysplasia"]
 last_modified_at: 2026-10-16
 description: "Mitiglinide：預測新適應症為Opsismodysplasia（證據等級 L5）。原適應症：對無法經由飲食控制與運動達到良好控制的第二型糖尿病患者，有助於改善餐後血糖"
 ---

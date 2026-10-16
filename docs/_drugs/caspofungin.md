@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 57
 evidence_level: L5
 indication_count: 1
+monitor_inn: "Caspofungin"
+predicted_indications: ["gastrin secretion abnormality"]
 last_modified_at: 2026-10-16
 description: "Caspofungin：預測新適應症為胃泌素分泌異常 (Gastrin Secretion Abnormality)（證據等級 L5）。原適應症：適用於其他治療方法無效或不能忍受的侵入性麴菌病之第二線用藥、食道念珠菌感染、侵入性念珠菌感染症（含念珠菌血症）…"
 ---

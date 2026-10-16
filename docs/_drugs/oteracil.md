@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 200
 evidence_level: L2
 indication_count: 10
+monitor_inn: "Oteracil"
+predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
 last_modified_at: 2026-10-16
 description: "Oteracil：預測新適應症為大腸腫瘤 (Colonic Neoplasm)（證據等級 L2）。原適應症：胃癌用藥"
 ---

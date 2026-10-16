@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Chlorobutanol"
+predicted_indications: ["erectile dysfunction (disease)", "migraine disorder", "migraine with brainstem aura", "Tourette syndrome", "trichotillomania", "attention deficit-hyperactivity disorder", "migraine with or without aura, susceptibility to", "localized pagetoid reticulosis", "faciodigitogenital syndrome", "atrophoderma vermiculata"]
 last_modified_at: 2026-10-16
 description: "Chlorobutanol：預測新適應症為勃起功能障礙 (Erectile Dysfunction)（證據等級 L5）。原適應症：防腐劑"
 ---

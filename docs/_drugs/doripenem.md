@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 91
 evidence_level: L5
 indication_count: 5
+monitor_inn: "doripenem"
+predicted_indications: ["hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis"]
 last_modified_at: 2026-10-16
 description: "Doripenem：預測新適應症為肝門靜脈硬化症 (Hepatoportal Sclerosis)（證據等級 L5）。原適應症：對 Doripenem Hydrate 具感受性之菌種的複雜性泌尿道感染（包括腎盂腎炎）及複雜性腹腔內感染"
 ---

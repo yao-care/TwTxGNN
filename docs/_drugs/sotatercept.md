@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 263
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Sotatercept"
+predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
 last_modified_at: 2026-10-16
 description: "Sotatercept：預測新適應症為急性淋巴性白血病 (Acute Lymphoblastic Leukemia)（證據等級 L5）。原適應症：適用於治療患有特發性或遺傳性肺動脈高壓的成人病人"
 ---

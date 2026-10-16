@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 97
 evidence_level: L3
 indication_count: 1
+monitor_inn: "eltrombopag"
+predicted_indications: ["HIV infectious disease"]
 last_modified_at: 2026-10-16
 description: "Eltrombopag：預測新適應症為HIV 感染相關疾病 (HIV infectious disease)（證據等級 L3）。原適應症：用於對其他治療（如類固醇、免疫球蛋白等）失敗之成年免疫性血小板減少症（ITP）病人"
 ---

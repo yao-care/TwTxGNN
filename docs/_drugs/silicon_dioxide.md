@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 257
 evidence_level: L5
 indication_count: 4
+monitor_inn: "Silicon dioxide"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "gastric ulcer (disease)"]
 last_modified_at: 2026-10-16
 description: "Silicon Dioxide：預測新適應症為活動性消化性潰瘍 (Active Peptic Ulcer Disease)（證據等級 L5）。原適應症：賦形劑、氣體吸著劑"
 ---

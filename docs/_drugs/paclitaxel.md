@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 204
 evidence_level: L1
 indication_count: 10
+monitor_inn: "Paclitaxel"
+predicted_indications: ["female breast carcinoma", "estrogen-receptor negative breast cancer", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "Ehrlich tumor carcinoma", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "nipple carcinoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 last_modified_at: 2026-10-16
 description: "Paclitaxel：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤"
 ---

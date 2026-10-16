@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 43
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Berberine"
+predicted_indications: ["severe pre-eclampsia", "mild pre-eclampsia", "monocytic leukemia", "multiple endocrine neoplasia", "preeclampsia/eclampsia", "spermatocytic seminoma", "placental hemangioma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm", "toxemia of pregnancy"]
 last_modified_at: 2026-10-16
 description: "Berberine：預測新適應症為重度子癇前症 (Severe Pre-eclampsia)（證據等級 L5）。原適應症：痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎"
 ---

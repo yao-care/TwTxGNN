@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 187
 evidence_level: L3
 indication_count: 8
+monitor_inn: "Naftifine"
+predicted_indications: ["cutaneous candidiasis", "Majocchi granuloma", "ectothrix infectious disease", "pityriasis versicolor", "endothrix infectious disease", "dermatophytosis of scalp or beard", "superficial mycosis", "tinea profunda"]
 last_modified_at: 2026-10-16
 description: "Naftifine：預測新適應症為皮膚念珠菌病 (Cutaneous Candidiasis)（證據等級 L3）。原適應症：髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起之感染、表皮念珠菌病、甲黴菌病、花斑癬"
 ---

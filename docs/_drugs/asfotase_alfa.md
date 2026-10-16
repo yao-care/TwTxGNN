@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Asfotase alfa"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices with bleeding", "esophageal varices without bleeding", "cystinosis"]
 last_modified_at: 2026-10-16
 description: "Asfotase Alfa：預測新適應症為核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disord…（證據等級 L5）。原適應症：小兒發作型低磷酸酯酶症 (Pediatric-onset hypophosphatasia"
 ---

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 21
 evidence_level: L5
 indication_count: 10
+monitor_inn: "alpha-Tocopherol succinate"
+predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "urinary bladder neoplasm", "tetanic cataract", "immature cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract"]
 last_modified_at: 2026-10-16
 description: "Alpha-Tocopherol Succinate：預測新適應症為藥物性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：維他命Ｅ缺乏症"
 ---

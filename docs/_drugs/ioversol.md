@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Ioversol"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
 last_modified_at: 2026-10-16
 description: "Ioversol：預測新適應症為骨關節炎易感性 (Osteoarthritis Susceptibility)（證據等級 L5）。原適應症：作為心臟血管系統之 X 射線攝影，包括腦部、冠狀、末梢、內臟及腎動脈攝影、主動脈攝影及左心室攝影"
 ---

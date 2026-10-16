@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 289
 evidence_level: L5
 indication_count: 3
+monitor_inn: "travoprost"
+predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome"]
 last_modified_at: 2026-10-16
 description: "Travoprost：預測新適應症為內臟鈣化防禦症 (Visceral Calciphylaxis)（證據等級 L5）。原適應症：降低隅角開放性青光眼、慢性隅角閉鎖性青光眼且曾施行週邊虹膜切開術之病人或高眼壓患者之眼壓"
 ---

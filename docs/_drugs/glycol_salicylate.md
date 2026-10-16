@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 127
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Glycol salicylate"
+predicted_indications: ["Glanzmann thrombasthenia", "autoimmune disease", "primary release disorder of platelets", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "thrombophilia", "pseudo-von Willebrand disease", "heparin-induced thrombocytopenia (disease)", "autoimmune inner ear disease", "autoimmune gastritis"]
 last_modified_at: 2026-10-16
 description: "Glycol Salicylate：預測新適應症為Glanzmann 血小板無力症 (Glanzmann thrombasthenia)（證據等級 L5）。原適應症：暫時緩解局部疼痛（腰痛、肩膀酸痛、關節痛、肌肉痛、跌打損傷等）"
 ---

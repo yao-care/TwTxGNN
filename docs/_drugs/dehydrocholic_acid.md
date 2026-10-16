@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 80
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Dehydrocholic acid"
+predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "bile duct disease", "bile duct neoplasm", "apical periodontitis", "suppurative periapical periodontitis", "periapical granuloma", "disorder of phenylalanine metabolism", "urolithiasis", "disorder of tyrosine metabolism"]
 last_modified_at: 2026-10-16
 description: "Dehydrocholic Acid：預測新適應症為急性尿酸腎病變 (Acute Urate Nephropathy)（證據等級 L5）。原適應症：膽石症、膽石形成之預防、膽石膽砂之排除、膽囊炎、膽管炎膽汁分泌不全所致之疾患、肝硬化、黃疸"
 ---

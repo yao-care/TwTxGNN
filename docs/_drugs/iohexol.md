@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 150
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Iohexol"
+predicted_indications: ["insomnia (disease)", "anxiety", "rheumatoid arthritis", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "sleep disorder, initiating and maintaining sleep", "heparin cofactor 2 deficiency", "fibromyalgia", "conjunctivitis", "tendinitis"]
 last_modified_at: 2026-10-16
 description: "Iohexol：預測新適應症為失眠 (Insomnia)（證據等級 L5）。原適應症：脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影"
 ---

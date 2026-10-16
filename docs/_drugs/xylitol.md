@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 309
 evidence_level: L5
 indication_count: 1
+monitor_inn: "Xylitol"
+predicted_indications: ["meningococcal infection"]
 last_modified_at: 2026-10-16
 description: "Xylitol：預測新適應症為腦膜炎球菌感染 (Meningococcal Infection)（證據等級 L5）。原適應症：糖尿病、高血糖時之醣類補充液、由於水份或電解質代謝作用不良引起之脫水現象、外傷刺激麻醉、手術後引起之不正常醣類代謝作用時之熱能補充"
 ---

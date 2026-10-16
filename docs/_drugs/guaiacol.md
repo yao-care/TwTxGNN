@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 129
 evidence_level: L5
 indication_count: 2
+monitor_inn: "guaiacol"
+predicted_indications: ["acute laryngopharyngitis", "nasal cavity disease"]
 last_modified_at: 2026-10-16
 description: "Guaiacol：預測新適應症為急性喉咽炎 (Acute Laryngopharyngitis)（證據等級 L5）。原適應症：袪痰（支氣管炎、感冒、急慢性喉頭炎、氣管炎等引起之喀痰）"
 ---

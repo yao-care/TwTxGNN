@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 166
 evidence_level: L5
 indication_count: 3
+monitor_inn: "levamisole"
+predicted_indications: ["drug-induced osteoporosis", "benign neoplasm of tongue", "cervical neuroblastoma"]
 last_modified_at: 2026-10-16
 description: "Levamisole：預測新適應症為藥物性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：抗腫瘤藥，用於氟嘧啶二酮之輔助治療劑"
 ---

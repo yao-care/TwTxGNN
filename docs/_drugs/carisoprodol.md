@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 56
 evidence_level: L4
 indication_count: 1
+monitor_inn: "Carisoprodol"
+predicted_indications: ["insomnia (disease)"]
 last_modified_at: 2026-10-16
 description: "Carisoprodol：預測新適應症為失眠 (Insomnia)（證據等級 L4）。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛"
 ---

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 163
 evidence_level: L5
 indication_count: 2
+monitor_inn: "Leflunomide"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 last_modified_at: 2026-10-16
 description: "Leflunomide：預測新適應症為短指併指症候群 (Brachydactyly-Syndactyly Syndrome)（證據等級 L5）。原適應症：風濕性關節炎"
 ---

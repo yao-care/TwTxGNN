@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 47
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Brodalumab"
+predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "recurrent idiopathic neuroretinitis", "optic perineuritis", "chronic relapsing inflammatory optic neuropathy", "isolated optic neuritis", "nodular episcleritis", "episcleritis periodica fugax"]
 last_modified_at: 2026-10-16
 description: "Brodalumab：預測新適應症為類圓線蟲症 (Strongyloidiasis)（證據等級 L5）。原適應症：斑塊性乾癬：治療適合接受全身性治療的中至重度斑塊性乾癬成人病人（另含膿疱性乾癬、乾癬性關節炎、僵直性脊椎炎、掌蹠膿皰症）"
 ---

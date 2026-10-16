@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 169
 evidence_level: L4
 indication_count: 10
+monitor_inn: "Lornoxicam"
+predicted_indications: ["rheumatoid arthritis", "migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
 last_modified_at: 2026-10-16
 description: "Lornoxicam：預測新適應症為類風濕性關節炎 (Rheumatoid Arthritis)（證據等級 L4）。原適應症：輕度至中度急性疼痛之短期止痛"
 ---

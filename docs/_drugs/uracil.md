@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 295
 evidence_level: L3
 indication_count: 10
+monitor_inn: "Uracil"
+predicted_indications: ["colonic neoplasm", "gastric carcinoma", "rectosigmoid junction neoplasm", "lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
 last_modified_at: 2026-10-16
 description: "Uracil：預測新適應症為大腸腫瘤 (Colonic Neoplasm)（證據等級 L3）。原適應症：抗惡性腫瘤劑（單方原料藥，如衛部藥製字第062093號、第062102號）"
 ---

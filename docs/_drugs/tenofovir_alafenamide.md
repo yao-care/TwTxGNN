@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 268
 evidence_level: L4
 indication_count: 3
+monitor_inn: "Tenofovir alafenamide"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-10-16
 description: "Tenofovir Alafenamide：預測新適應症為猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)（證據等級 L4）。原適應症：適用於治療 6 歲以上且體重至少 25 公斤之慢性 B 型肝炎病人"
 ---

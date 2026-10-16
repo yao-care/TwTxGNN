@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 293
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Trihexyphenidyl"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 last_modified_at: 2026-10-16
 description: "Trihexyphenidyl：預測新適應症為注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)（證據等級 L5）。原適應症：帕金森氏症候群"
 ---

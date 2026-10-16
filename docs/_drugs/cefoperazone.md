@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Cefoperazone"
+predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "pneumonia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "gout", "bronchitis", "meningococcal infection", "infectious otitis media", "IgG4-related sclerosing cholangitis"]
 last_modified_at: 2026-10-16
 description: "Cefoperazone：預測新適應症為硬化性膽管炎 (Sclerosing Cholangitis)（證據等級 L5）。原適應症：抗生素（用於感受性細菌感染）"
 ---

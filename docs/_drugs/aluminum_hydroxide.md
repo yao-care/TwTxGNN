@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 24
 evidence_level: L4
 indication_count: 4
+monitor_inn: "Aluminum hydroxide"
+predicted_indications: ["active peptic ulcer disease", "gastroduodenitis", "gastrojejunal ulcer", "peptic ulcer perforation"]
 last_modified_at: 2026-10-16
 description: "Aluminum Hydroxide：預測新適應症為活動性消化性潰瘍 (Active Peptic Ulcer Disease)（證據等級 L4）。原適應症：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第001706號等）"
 ---

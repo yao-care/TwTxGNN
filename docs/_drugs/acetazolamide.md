@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 12
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Acetazolamide"
+predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "unclassified intestinal pseudoobstruction"]
 last_modified_at: 2026-10-16
 description: "Acetazolamide：預測新適應症為運動誘發惡性高熱 (Exercise-induced Malignant Hyperthermia)（證據等級 L5）。原適應症：青光眼及下列疾患之輔助治療：水腫、癲癇"
 ---

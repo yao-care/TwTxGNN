@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 181
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Milrinone"
+predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "headache disorder", "congestive heart failure", "migraine disorder", "migraine with brainstem aura", "trigeminal autonomic cephalalgia", "acute pulmonary heart disease"]
 last_modified_at: 2026-10-16
 description: "Milrinone：預測新適應症為禿髮 (Alopecia)（證據等級 L5）。原適應症：充血性心衰竭的短期療法"
 ---

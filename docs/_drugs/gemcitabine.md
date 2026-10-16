@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 123
 evidence_level: L1
 indication_count: 10
+monitor_inn: "Gemcitabine"
+predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "rete ovarii adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
 last_modified_at: 2026-10-16
 description: "Gemcitabine：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：非小細胞肺癌、胰臟癌、膀胱癌、膽道癌"
 ---

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 6
+monitor_inn: "Buprenorphine"
+predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "benign shuddering attacks", "extrapyramidal and movement disease"]
 last_modified_at: 2026-10-16
 description: "Buprenorphine：預測新適應症為急性間歇性紫質症 (Acute Intermittent Porphyria)（證據等級 L5）。原適應症：麻醉性鎮痛藥"
 ---

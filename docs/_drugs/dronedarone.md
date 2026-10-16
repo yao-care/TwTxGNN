@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 94
 evidence_level: L4
 indication_count: 10
+monitor_inn: "Dronedarone"
+predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 last_modified_at: 2026-10-16
 description: "Dronedarone：預測新適應症為中風相關疾患 (Stroke Disorder)（證據等級 L4）。原適應症：血管擴張劑"
 ---

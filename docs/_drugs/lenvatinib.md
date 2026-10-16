@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 164
 evidence_level: L3
 indication_count: 10
+monitor_inn: "lenvatinib"
+predicted_indications: ["liposarcoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "ovarian myxoid liposarcoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
 last_modified_at: 2026-10-16
 description: "Lenvatinib：預測新適應症為脂肪肉瘤 (Liposarcoma)（證據等級 L3）。原適應症：分化型甲狀腺癌：適用於放射性碘治療無效之進行性，且為局部晚期或轉移性之分化型甲狀腺癌之成人病人（另含腎細胞癌、肝細胞癌、子宮內膜癌）"
 ---

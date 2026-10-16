@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 83
 evidence_level: L3
 indication_count: 10
+monitor_inn: "Desogestrel"
+predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
 last_modified_at: 2026-10-16
 description: "Desogestrel：預測新適應症為閉經 (Amenorrhea)（證據等級 L3）。原適應症：避孕"
 ---

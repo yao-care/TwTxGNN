@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 3
+monitor_inn: "gabexate"
+predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease"]
 last_modified_at: 2026-10-16
 description: "Gabexate：預測新適應症為葛蘭茲曼氏血小板無力症 (Glanzmann thrombasthenia)（證據等級 L5）。原適應症：急性胰臟炎、伴有蛋白分解酵素逸脫之胰臟疾患症狀之緩解、泛發性血管內血液凝固症"
 ---

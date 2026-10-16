@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 171
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Lutetium Lu 177 dotatate"
+predicted_indications: ["pituitary dwarfism", "squamous cell lung carcinoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "ectomesenchymoma", "middle ear neuroendocrine tumor", "familial generalized lentiginosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "rhabdoid tumor"]
 last_modified_at: 2026-10-16
 description: "Lutetium Lu 177 Dotatate：預測新適應症為垂體性侏儒症 (Pituitary Dwarfism)（證據等級 L5）。原適應症：神經內分泌腫瘤、神經內分泌癌"
 ---

@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 262
 evidence_level: L2
 indication_count: 10
+monitor_inn: "sorafenib"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 last_modified_at: 2026-10-16
 description: "Sorafenib：預測新適應症為脂肪肉瘤 (Liposarcoma)（證據等級 L2）。原適應症：轉移性或無法手術切除且不適合局部治療或局部治療失敗之晚期肝細胞癌 (HCC)"
 ---

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 146
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Inositol"
+predicted_indications: ["hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatic porphyria", "congestive heart failure", "hyperlipoproteinemia", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
 last_modified_at: 2026-10-16
 description: "Inositol：預測新適應症為肝門靜脈硬化症 (Hepatoportal Sclerosis)（證據等級 L5）。原適應症：末梢血管循環障礙"
 ---

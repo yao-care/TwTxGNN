@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Tetrabenazine"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
 last_modified_at: 2026-10-16
 description: "Tetrabenazine：預測新適應症為多囊腎疾病 3 型…（證據等級 L5）。原適應症：治療亨汀頓舞蹈症之舞蹈症狀"
 ---

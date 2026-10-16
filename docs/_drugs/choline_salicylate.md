@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 66
 evidence_level: L3
 indication_count: 10
+monitor_inn: "Choline salicylate"
+predicted_indications: ["Prinzmetal angina", "rheumatoid arthritis", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
 last_modified_at: 2026-10-16
 description: "Choline Salicylate：預測新適應症為類風濕性關節炎 (Rheumatoid Arthritis)（證據等級 L3）。原適應症：發炎、疼痛、單純疱瘡"
 ---

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Cephalexin
 parent: 僅模型預測 (L5)
 nav_order: 60
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 last_modified_at: 2026-10-16
 ---
 

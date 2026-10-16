@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 241
 evidence_level: L2
 indication_count: 8
+monitor_inn: "Regorafenib"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
 last_modified_at: 2026-10-16
 description: "Regorafenib：預測新適應症為脂肪肉瘤 (Liposarcoma)（證據等級 L2）。原適應症：大腸直腸癌（轉移性，曾接受含 fluoropyrimidine、oxaliplatin、irinotecan 之化療及抗 VEGF 等療法）"
 ---

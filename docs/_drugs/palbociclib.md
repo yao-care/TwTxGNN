@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 205
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Palbociclib"
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brachydactyly-syndactyly syndrome", "myeloid leukemia", "multiple endocrine neoplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hyperthyroxinemia", "Prinzmetal angina"]
 last_modified_at: 2026-10-16
 description: "Palbociclib：預測新適應症為甲狀腺機能亢進 (Hyperthyroidism)（證據等級 L5）。原適應症：荷爾蒙受體 (HR) 陽性、HER2 陰性之局部晚期或轉移性乳癌，可與芳香環轉化酶抑制劑或 fulvestrant 併用"
 ---

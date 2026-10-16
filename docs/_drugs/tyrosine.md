@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 294
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Tyrosine"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma"]
 last_modified_at: 2026-10-16
 description: "Tyrosine：預測新適應症為馬尾症候群 (Cauda Equina Syndrome)（證據等級 L5）。原適應症：氨基酸補給劑、營養劑（胺基酸）"
 ---

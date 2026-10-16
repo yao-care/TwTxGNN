@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 51
 evidence_level: L4
 indication_count: 10
+monitor_inn: "Cabazitaxel"
+predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
 last_modified_at: 2026-10-16
 description: "Cabazitaxel：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：與 prednisone 或 prednisolone 併用治療去勢抗性轉移性前列腺癌且已接受過 docetaxel 治療者"
 ---

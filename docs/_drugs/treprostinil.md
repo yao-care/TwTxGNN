@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 290
 evidence_level: L3
 indication_count: 10
+monitor_inn: "Treprostinil"
+predicted_indications: ["pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with schistosomiasis", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
 last_modified_at: 2026-10-16
 description: "Treprostinil：預測新適應症為先天性心臟病相關肺動脈高壓 (Pulmonary Arterial Hypertension Associated with Congen…（證據等級 L3）。原適應症：特發性或遺傳性肺動脈高壓（WHO functional class III 及 IV）"
 ---
