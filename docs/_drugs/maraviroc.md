@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Maraviroc：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L5）。原適應症：與其他抗反轉錄病毒藥物併用，適用於對第一線抗反轉錄病毒藥物無法耐受或治療失敗，且只具 CCR5 趨性之 HIV-1 感染成人患者"
 ---
 
 # Maraviroc

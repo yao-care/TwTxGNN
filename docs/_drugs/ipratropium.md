@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 154
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Ipratropium：預測新適應症為阻塞性肺疾病 (Obstructive Lung Disease)（證據等級 L1）。原適應症：慢性阻塞性支氣管炎、支氣管氣喘"
 ---
 
 # Ipratropium

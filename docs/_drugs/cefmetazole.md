@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 58
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-16
+description: "Cefmetazole：預測新適應症為高澱粉酶血症 (Hyperamylasemia)（證據等級 L4）。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症"
 ---
 
 # Cefmetazole

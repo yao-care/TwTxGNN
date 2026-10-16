@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 217
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Pipemidic Acid：預測新適應症為心臟疾病 (Heart disease)（證據等級 L4）。原適應症：抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）"
 ---
 
 # Pipemidic Acid

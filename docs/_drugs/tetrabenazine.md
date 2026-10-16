@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Tetrabenazine：預測新適應症為多囊腎疾病 3 型…（證據等級 L5）。原適應症：治療亨汀頓舞蹈症之舞蹈症狀"
 ---
 
 # Tetrabenazine

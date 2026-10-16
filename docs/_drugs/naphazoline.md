@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Naphazoline：預測新適應症為頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)（證據等級 L5）。原適應症：交感神經藥（血管收縮藥）"
 ---
 
 # Naphazoline

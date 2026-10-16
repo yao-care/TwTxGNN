@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 82
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-16
+description: "Deoxycholic Acid：預測新適應症為糖尿病腎病變 (Diabetic Nephropathy)（證據等級 L4）。原適應症：頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀）"
 ---
 
 # Deoxycholic Acid

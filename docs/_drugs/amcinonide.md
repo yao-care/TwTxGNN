@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 26
 evidence_level: L2
 indication_count: 8
+last_modified_at: 2026-10-16
+description: "Amcinonide：預測新適應症為皮膚炎 (Dermatitis)（證據等級 L2）。原適應症：皮膚炎群、皮膚搔癢症、癢疹群、蟲螫、濕疹、苔癬化型濕疹、尿布疹、牛皮癬、富貴手、苔癬、頑癬、紅皮症、圓形脫毛症、日光皮膚炎、股癬、體癬等"
 ---
 
 # Amcinonide

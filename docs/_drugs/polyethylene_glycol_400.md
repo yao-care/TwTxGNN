@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-16
+description: "Polyethylene Glycol 400：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L5）。原適應症：成人和八歲及以上兒童便秘的症狀治療"
 ---
 
 # Polyethylene Glycol 400

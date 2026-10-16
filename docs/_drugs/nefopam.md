@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 191
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Nefopam：預測新適應症為手足搐搦性白內障 (Tetanic Cataract)（證據等級 L5）。原適應症：鎮痛"
 ---
 
 # Nefopam

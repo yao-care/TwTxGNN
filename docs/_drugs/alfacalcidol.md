@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 15
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-16
+description: "Alfacalcidol：預測新適應症為家族性孤立性副甲狀腺低下症（Familial isolated hypoparathyroidism due to impaired PT…（證據等級 L5）。原適應症：維他命Ｄ缺乏症"
 ---
 
 # Alfacalcidol

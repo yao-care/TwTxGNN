@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 197
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Norethindrone Enanthate：預測新適應症為第 2 型抗凝血酶缺乏症 (Antithrombin deficiency type 2)（證據等級 L5）。原適應症：抑制排卵（衛署藥輸字第013079號「能無妊注射劑」，已於 1991-06-07 註銷）"
 ---
 
 # Norethindrone Enanthate

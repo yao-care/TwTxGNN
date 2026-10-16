@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 50
 evidence_level: L4
 indication_count: 5
+last_modified_at: 2026-10-16
+description: "Butenafine：預測新適應症為皮膚念珠菌病 (Cutaneous Candidiasis)（證據等級 L4）。原適應症：指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌屬黴菌引起之皮膚感染症"
 ---
 
 # Butenafine

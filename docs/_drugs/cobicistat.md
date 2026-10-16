@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-16
+description: "Cobicistat：預測新適應症為猿猴免疫缺乏病毒感染 (simian immunodeficiency virus infection)（證據等級 L5）。原適應症：感染第一型人類免疫缺乏病毒（HIV-1）的成人、青少年與兒童病人"
 ---
 
 # Cobicistat

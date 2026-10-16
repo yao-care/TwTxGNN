@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-16
+description: "Sulfamethazine：預測新適應症為痛風 (Gout)（證據等級 L5）。原適應症：細菌性感染症"
 ---
 
 # Sulfamethazine

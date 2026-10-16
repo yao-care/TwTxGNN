@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 179
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Metoprolol：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：高血壓、狹心症"
 ---
 
 # Metoprolol

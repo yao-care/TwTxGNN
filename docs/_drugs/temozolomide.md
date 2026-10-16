@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 267
 evidence_level: L2
 indication_count: 2
+last_modified_at: 2026-10-16
+description: "Temozolomide：預測新適應症為成人星狀細胞腫瘤 (Adult Astrocytic Tumour)（證據等級 L2）。原適應症：新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療"
 ---
 
 # Temozolomide

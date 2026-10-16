@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 113
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Flunitrazepam：預測新適應症為失眠 (Insomnia)（與原適應症相同（證據等級 L3）。原適應症：失眠"
 ---
 
 # Flunitrazepam

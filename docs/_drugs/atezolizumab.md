@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 34
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Atezolizumab：預測新適應症為攝護腺尿道泌尿上皮癌 (Prostatic urethra urothelial carcinoma)（證據等級 L4）。原適應症：非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）"
 ---
 
 # Atezolizumab

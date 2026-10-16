@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 252
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-16
+description: "Safinamide：預測新適應症為Rasmussen 亞急性腦炎 (Rasmussen subacute encephalitis)（證據等級 L5）。原適應症：用於改善以含有 levodopa 製劑治療的帕金森氏症之藥效漸退現象"
 ---
 
 # Safinamide

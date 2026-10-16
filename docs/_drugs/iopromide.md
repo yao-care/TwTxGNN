@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Iopromide：預測新適應症為退化性關節炎易感性 (Osteoarthritis Susceptibility)（證據等級 L5）。原適應症：電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影（特別是心血管造影）及身體空腔部份（如關節攝影、廔管造影）攝影，但脊椎造影…"
 ---
 
 # Iopromide

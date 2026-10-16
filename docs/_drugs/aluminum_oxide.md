@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Aluminum Oxide：預測新適應症為類風濕性關節炎 (Rheumatoid Arthritis)（證據等級 L5）。原適應症：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多"
 ---
 
 # Aluminum Oxide

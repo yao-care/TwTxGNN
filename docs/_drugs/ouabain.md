@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 201
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Ouabain：預測新適應症為Prinzmetal 心絞痛 (Prinzmetal angina)（證據等級 L5）。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速"
 ---
 
 # Ouabain

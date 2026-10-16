@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 246
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-16
+description: "Ritonavir：預測新適應症為猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)（證據等級 L4）。原適應症：與其他抗反轉錄病毒藥物併用，治療曾接受抗病毒治療、對蛋白酶抑制劑產生抗藥性之 HIV-1 感染成人及兒童"
 ---
 
 # Ritonavir

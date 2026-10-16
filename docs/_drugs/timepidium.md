@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 278
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-16
+description: "Timepidium：預測新適應症為失眠 (Insomnia)（證據等級 L5）。原適應症：胃炎、胃、十二指腸潰瘍，腸炎、膽道疾患、尿路結石症、胰炎所引起之痙攣性疼痛"
 ---
 
 # Timepidium

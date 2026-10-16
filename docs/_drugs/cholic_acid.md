@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 65
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Cholic Acid：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L4）。原適應症：治療由於單一酵素缺乏所造成之先天性膽酸合成障礙"
 ---
 
 # Cholic Acid

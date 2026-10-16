@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Alirocumab：預測新適應症為X 染色體性聯魚鱗癬，無類固醇硫酸酯酶缺乏 (ichthyosis, X-linked…（證據等級 L5）。原適應症：預防心血管事件：已確診心血管疾病的成年病人，降低心肌梗塞…"
 ---
 
 # Alirocumab

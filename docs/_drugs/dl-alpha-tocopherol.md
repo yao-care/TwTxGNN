@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Dl-Alpha-Tocopherol：預測新適應症為未成熟型白內障 (Immature Cataract)（證據等級 L5）。原適應症：維他命 E 缺乏症"
 ---
 
 # Dl-Alpha-Tocopherol

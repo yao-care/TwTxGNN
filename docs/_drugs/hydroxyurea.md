@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 139
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Hydroxyurea：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制"
 ---
 
 # Hydroxyurea

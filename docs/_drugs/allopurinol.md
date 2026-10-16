@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 18
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Allopurinol：預測新適應症為肝性卟啉症 (Hepatic Porphyria)（證據等級 L5）。原適應症：治痛風藥"
 ---
 
 # Allopurinol

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 141
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-16
+description: "Ibuprofen：預測新適應症為肢端中段發育不良 Hunter-Thompson 型 (Acromesomelic dysplasia…（證據等級 L5）。原適應症：(僅用於成人)解熱、下列疾患及症狀之消炎、鎮痛：慢性風濕關節炎、關節痛及關節炎、神經痛及神經炎、背腰痛、手術及外傷後之消炎、鎮痛"
 ---
 
 # Ibuprofen

@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 17
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Aliskiren：預測新適應症為肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓"
 ---
 
 # Aliskiren

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 61
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Cerliponase Alfa：預測新適應症為Scheie 症候群 (Scheie syndrome)（證據等級 L5）。原適應症：治療患有神經元蠟樣脂褐質儲積症 2 型 (CLN2) 疾病（也稱為三肽基肽酶 1 [TPP1] 缺乏症）病人"
 ---
 
 # Cerliponase Alfa

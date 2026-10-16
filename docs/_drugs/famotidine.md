@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 105
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Famotidine：預測新適應症為十二指腸胃逆流 (Duodenogastric Reflux)（證據等級 L3）。原適應症：胃潰瘍、十二指腸潰瘍、逆流性食道炎、ZOLLINGER-ELLISON症候群"
 ---
 
 # Famotidine

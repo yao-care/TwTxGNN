@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 250
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-16
+description: "Sacituzumab Govitecan：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：1. 先前已接受兩次以上全身性治療無效（其中一次需為治療晚期疾病）之無法切除的局部晚期或轉移性三陰性乳癌成年病人。2. 荷爾蒙受體（HR）…"
 ---
 
 # Sacituzumab Govitecan

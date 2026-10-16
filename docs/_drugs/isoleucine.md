@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-16
+description: "Isoleucine：預測新適應症為胃輕癱 (Gastroparesis)（證據等級 L5）。原適應症：營養劑"
 ---
 
 # Isoleucine

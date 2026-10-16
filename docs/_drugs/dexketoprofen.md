@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 85
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Dexketoprofen：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L1）。原適應症：治療輕度至中等強度疼痛症狀，如肌肉骨骼疼痛、經痛、牙痛"
 ---
 
 # Dexketoprofen

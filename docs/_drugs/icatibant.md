@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 142
 evidence_level: L1
 indication_count: 7
+last_modified_at: 2026-10-16
+description: "Icatibant：預測新適應症為C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)（證據等級 L1）。原適應症：體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療"
 ---
 
 # Icatibant

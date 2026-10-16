@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 119
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Fulvestrant：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L4）。原適應症：治療已接受輔助抗雌激素療法，但疾病仍復發，或使用抗雌激素療法但疾病仍惡化的停經婦女，且其雌激素受體為陽性的局部晚期或轉移性乳癌"
 ---
 
 # Fulvestrant

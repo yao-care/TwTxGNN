@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 144
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Inclisiran：預測新適應症為鉀缺乏症 (Potassium Deficiency Disease)（證據等級 L5）。原適應症：原發性高血脂症（家族性高膽固醇血症僅適用於異合子型 HeFH）：作為飲食及其他降血脂藥品（例如最大耐受劑量 statin 類藥品）的輔助治…"
 ---
 
 # Inclisiran

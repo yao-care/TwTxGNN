@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Enfortumab Vedotin：預測新適應症為痲瘋病 (Leprosy)（證據等級 L5）。原適應症：單獨使用治療局部晚期或轉移性泌尿道上皮癌（mUC）成人病人：（1）先前接受過 PD-1/PD-L1 抑制劑和含鉑化學治療"
 ---
 
 # Enfortumab Vedotin

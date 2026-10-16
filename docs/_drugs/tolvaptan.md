@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 285
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Tolvaptan：預測新適應症為多囊性腎臟病第 3 型…（證據等級 L1）。原適應症：自體顯性多囊性腎臟病（ADPKD），適用於 eGFR 大於 25 mL/min/1.73m² 且已出現病情迅速惡化跡象之慢性腎臟病成人患者"
 ---
 
 # Tolvaptan

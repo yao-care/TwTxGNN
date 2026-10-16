@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 215
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pexidartinib：預測新適應症為HER2 陽性乳癌 (HER2 positive breast carcinoma)（證據等級 L4）。原適應症：無法透過手術或其他治療（如局部放射線治療）改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤（TGCT）成人病人"
 ---
 
 # Pexidartinib

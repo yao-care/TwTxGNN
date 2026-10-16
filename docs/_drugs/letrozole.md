@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 165
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Letrozole：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療"
 ---
 
 # Letrozole

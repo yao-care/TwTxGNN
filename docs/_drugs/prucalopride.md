@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 237
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Prucalopride：預測新適應症為低 α 脂蛋白血症 (Hypoalphalipoproteinemia)（證據等級 L5）。原適應症：適用於使用瀉劑(laxatives)仍無法達到適當緩解效果之成人慢性便祕患者的症狀治療"
 ---
 
 # Prucalopride

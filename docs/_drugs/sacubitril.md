@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 251
 evidence_level: L3
 indication_count: 5
+last_modified_at: 2026-10-16
+description: "Sacubitril：預測新適應症為糖尿病腎病變 (Diabetic Nephropathy)（證據等級 L3）。原適應症：治療慢性心臟衰竭（紐約心臟學會 [NYHA] 第二級至第四級）且左心室射出分率降低的病人，減少心血管死亡和心臟衰竭住院風險"
 ---
 
 # Sacubitril

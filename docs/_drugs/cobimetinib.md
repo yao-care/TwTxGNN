@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Cobimetinib：預測新適應症為肌萎縮性側索硬化症 (Amyotrophic Lateral Sclerosis)（證據等級 L5）。原適應症：Cotellic 與 vemurafenib 併用於治療 BRAF V600 突變陽性且無法以手術切除或轉移性的黑色素瘤"
 ---
 
 # Cobimetinib

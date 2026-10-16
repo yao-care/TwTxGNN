@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-16
+description: "Iodixanol：預測新適應症為骨關節炎易感性 (Osteoarthritis Susceptibility)（證據等級 L5）。原適應症：X 光對比劑：用於心臟血管、腦血管、周邊動脈造影、腹腔動脈造影、泌尿道攝影、靜脈造影、電腦斷層影像加強"
 ---
 
 # Iodixanol

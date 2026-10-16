@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 103
 evidence_level: L3
 indication_count: 6
+last_modified_at: 2026-10-16
+description: "Ethynodiol Diacetate：預測新適應症為痤瘡 (Acne)（證據等級 L3）。原適應症：避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）"
 ---
 
 # Ethynodiol Diacetate

@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 308
 evidence_level: L1
 indication_count: 0
+last_modified_at: 2026-10-16
+description: "Warfarin Atrial Fibrillation：預測新適應症為DB00682（證據等級 L1）。原適應症：Warfarin"
 ---
 
 # Warfarin Atrial Fibrillation

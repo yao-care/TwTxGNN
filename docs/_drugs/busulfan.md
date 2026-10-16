@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 49
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Busulfan：預測新適應症為骨髓發育不良症候群 (Myelodysplastic Syndrome)（證據等級 L2）。原適應症：併用化療藥物及/或放射線治療，作為造血前驅細胞移植前之條件療法（適用於急性淋巴性白血病、急性非淋巴性白血病、急性骨髓性白血病…"
 ---
 
 # Busulfan

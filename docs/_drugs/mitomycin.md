@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 184
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Mitomycin：預測新適應症為胰臟實體假乳突癌 (Solid Pseudopapillary Carcinoma of Pancreas)（證據等級 L5）。原適應症：胃癌、膀胱癌（灌注使用）、肺癌、肉瘤、白血病等症狀之緩解"
 ---
 
 # Mitomycin

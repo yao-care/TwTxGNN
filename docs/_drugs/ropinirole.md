@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 248
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Ropinirole：預測新適應症為注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)（證據等級 L2）。原適應症：治療帕金森氏症"
 ---
 
 # Ropinirole

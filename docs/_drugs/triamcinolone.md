@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 291
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Triamcinolone：預測新適應症為黏蛋白性禿髮 (Alopecia Mucinosa)（證據等級 L4）。原適應症：短期緩解急慢性口腔黏膜破損（冠保口內膏）"
 ---
 
 # Triamcinolone

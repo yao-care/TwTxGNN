@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 78
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-16
+description: "Cytarabine：預測新適應症為小細胞肺癌 (Small Cell Lung Carcinoma)（證據等級 L4）。原適應症：急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）"
 ---
 
 # Cytarabine

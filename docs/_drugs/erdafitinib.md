@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 100
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Erdafitinib：預測新適應症為肺動脈高壓 (Pulmonary Hypertension)（證據等級 L5）。原適應症：局部晚期或轉移性泌尿道上皮癌（需帶有敏感性 FGFR3 基因變異，且先前全身性療法治療期間或之後惡化）"
 ---
 
 # Erdafitinib

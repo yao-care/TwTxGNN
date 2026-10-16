@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Sodium Acetate：預測新適應症為先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)（證據等級 L5）。原適應症：血液透析藥"
 ---
 
 # Sodium Acetate

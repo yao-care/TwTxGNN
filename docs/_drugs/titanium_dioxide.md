@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 281
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Titanium Dioxide：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：外用抗刺激劑"
 ---
 
 # Titanium Dioxide

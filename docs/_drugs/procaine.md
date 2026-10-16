@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 235
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Procaine：預測新適應症為高鐵血紅素血症 (Methemoglobinemia)（證據等級 L4）。原適應症：局部麻醉"
 ---
 
 # Procaine

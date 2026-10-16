@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 218
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Pitavastatin：預測新適應症為同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)（證據等級 L4）。原適應症：原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症"
 ---
 
 # Pitavastatin

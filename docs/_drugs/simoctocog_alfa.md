@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 258
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Simoctocog Alfa：預測新適應症為偽性類血友病 (pseudo-von Willebrand disease)（證據等級 L5）。原適應症：治療與預防A型血友病(先天性第八凝血因子缺乏)病人的出血"
 ---
 
 # Simoctocog Alfa

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 147
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-16
+description: "Insulin Lispro：預測新適應症為自體免疫性卵巢炎 (Autoimmune Oophoritis)（證據等級 L5）。原適應症：糖尿病"
 ---
 
 # Insulin Lispro

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 145
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Indacaterol：預測新適應症為腎因性抗利尿激素不適當分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（證據等級 L5）。原適應症：慢性阻塞性肺疾之維持治療"
 ---
 
 # Indacaterol

@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 198
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Nystatin：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L3）。原適應症：抗生素"
 ---
 
 # Nystatin

@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 107
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Fenoprofen：預測新適應症為僵直性脊椎炎 (Ankylosing Spondylitis)（證據等級 L3）。原適應症：鎮痛"
 ---
 
 # Fenoprofen

@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 282
 evidence_level: L2
 indication_count: 6
+last_modified_at: 2026-10-16
+description: "Tizanidine：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L2）。原適應症：神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣"
 ---
 
 # Tizanidine

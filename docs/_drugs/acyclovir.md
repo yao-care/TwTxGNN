@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 14
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Acyclovir：預測新適應症為尋常疣 (Common Wart)（證據等級 L2）。原適應症：帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染…"
 ---
 
 # Acyclovir

@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 93
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Doxorubicin：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L1）。原適應症：急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌"
 ---
 
 # Doxorubicin

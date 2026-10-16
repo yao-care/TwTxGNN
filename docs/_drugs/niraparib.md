@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 193
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Niraparib：預測新適應症為囊性腫瘤 (Cystic Neoplasm)（證據等級 L3）。原適應症：晚期卵巢癌之第一線維持治療"
 ---
 
 # Niraparib

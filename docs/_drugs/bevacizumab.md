@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 45
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Bevacizumab：預測新適應症為會厭腫瘤 (Epiglottis Neoplasm)（證據等級 L5）。原適應症：轉移性大腸直腸癌（mCRC）：與含 5-fluorouracil 的化學療法併用，作為第一線治療"
 ---
 
 # Bevacizumab

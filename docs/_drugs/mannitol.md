@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 173
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Mannitol：預測新適應症為腎因性抗利尿不適當症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（證據等級 L5）。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）"
 ---
 
 # Mannitol

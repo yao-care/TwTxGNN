@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 73
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Conjugated Estrogens：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L3）。原適應症：卵巢機能不全、月經不順、月經困難、機能性子宮出血"
 ---
 
 # Conjugated Estrogens

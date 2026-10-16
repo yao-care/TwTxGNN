@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Hymecromone：預測新適應症為糖尿病腎病變 (Diabetic Nephropathy)（證據等級 L5）。原適應症：下列諸症之利膽及鎮痙作用：膽石、膽囊炎、膽道阻礙、膽囊切除後症候群"
 ---
 
 # Hymecromone

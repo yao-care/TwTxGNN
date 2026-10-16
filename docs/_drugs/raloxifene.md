@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 238
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-16
+description: "Raloxifene：預測新適應症為十二指腸潰瘍 (Duodenal Ulcer)（證據等級 L5）。原適應症：預防及治療停經後婦女骨質疏鬆症"
 ---
 
 # Raloxifene

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 121
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Gadoxetic Acid：預測新適應症為甲狀腺機能亢進 (Hyperthyroidism)（證據等級 L5）。原適應症：適用於 T1 加權掃描核磁造影時，偵測肝臟局部病灶及提供病灶特性資訊"
 ---
 
 # Gadoxetic Acid

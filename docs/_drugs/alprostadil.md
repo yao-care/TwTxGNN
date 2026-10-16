@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 22
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Alprostadil：預測新適應症為主動脈畸形 (Aortic Malformation)（證據等級 L3）。原適應症：末梢血管擴張劑"
 ---
 
 # Alprostadil

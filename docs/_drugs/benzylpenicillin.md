@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-16
+description: "Benzylpenicillin：預測新適應症為牙冠周炎 (Pericoronitis)（證據等級 L5）。原適應症：急慢性感染症（由葡萄球菌、鏈球菌、肺炎球菌、髓膜炎菌、放線菌、紡錘狀菌等引起的化膿性疾患）、髓膜炎、亞急性細菌性心內膜炎、淋病、梅毒…"
 ---
 
 # Benzylpenicillin

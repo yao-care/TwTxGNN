@@ -36,7 +36,7 @@ window.TWTXGNN_ANALYTICS = {
 <link rel="alternate" type="application/rss+xml" title="TwTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
 
 <!-- YMYL 審核資訊 Meta -->
-<meta name="last-reviewed" content="2026-02-19">
+<meta name="last-reviewed" content="{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}">
 <meta name="reviewed-by" content="藥提醒科技有限公司 (yao.care)">
 
 <script type="application/ld+json">
@@ -102,8 +102,8 @@ window.TWTXGNN_ANALYTICS = {
       "description": "{{ page.description | default: page.title | append: ' 的老藥新用潛力分析' }}",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
-      "lastReviewed": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
+      "lastReviewed": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "reviewedBy": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -182,7 +182,7 @@ window.TWTXGNN_ANALYTICS = {
       }
     },
     {
-      "@type": "Article",
+      "@type": "WebPage",
       "@id": "https://twtxgnn.yao.care/#article",
       "headline": "老藥新用，從數據到證據",
       "description": "用 AI 預測台灣健保藥品的潛在新適應症，提供 {{ site.data.drug_stats.total_drugs }} 個藥物的臨床試驗與文獻證據驗證報告",

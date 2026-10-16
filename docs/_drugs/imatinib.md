@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 143
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Imatinib：預測新適應症為心臟纖維肉瘤 (Heart Fibrosarcoma)（證據等級 L5）。原適應症：治療急性轉化期、加速期或經 α-干擾素治療無效之慢性期慢性骨髓性白血病（CML）"
 ---
 
 # Imatinib

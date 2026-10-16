@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 186
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Mycophenolate Mofetil：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L2）。原適應症：與 Cyclosporin 和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥"
 ---
 
 # Mycophenolate Mofetil

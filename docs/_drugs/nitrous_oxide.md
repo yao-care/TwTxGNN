@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 195
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign Prostatic Hyperplasia)（證據等級 L4）。原適應症：吸入性全身麻醉、鎮痛"
 ---
 
 # Nitrous Oxide

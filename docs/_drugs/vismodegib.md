@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 302
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Vismodegib：預測新適應症為皮膚癌 (Skin Cancer)（證據等級 L2）。原適應症：治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期基底細胞癌成人病患"
 ---
 
 # Vismodegib

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 247
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Rocuronium：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：全身麻醉的輔佐藥，以幫助支氣管內插管、提供手術需快速麻醉誘導時骨骼肌肉鬆弛狀態、加護病房中需插管及使用人工呼吸器時"
 ---
 
 # Rocuronium

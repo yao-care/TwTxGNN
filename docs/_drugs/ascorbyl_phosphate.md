@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 31
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Ascorbyl Phosphate：預測新適應症為嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)（證據等級 L5）。原適應症：暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢"
 ---
 
 # Ascorbyl Phosphate

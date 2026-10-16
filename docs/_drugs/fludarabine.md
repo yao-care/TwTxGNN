@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 112
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Fludarabine：預測新適應症為漿細胞骨髓瘤 (Plasma Cell Myeloma)（證據等級 L3）。原適應症：B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL"
 ---
 
 # Fludarabine

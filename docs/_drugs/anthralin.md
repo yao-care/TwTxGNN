@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 30
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Anthralin：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L3）。原適應症：頑癬、牛皮癬、錢癬及其他癬菌所致之皮膚病"
 ---
 
 # Anthralin

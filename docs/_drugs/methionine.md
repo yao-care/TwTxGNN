@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 175
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Methionine：預測新適應症為痤瘡 (Acne)（證據等級 L5）。原適應症：發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給"
 ---
 
 # Methionine

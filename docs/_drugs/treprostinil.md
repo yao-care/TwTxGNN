@@ -5,6 +5,8 @@ parent: 中證據等級 (L3-L4)
 nav_order: 290
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Treprostinil：預測新適應症為先天性心臟病相關肺動脈高壓 (Pulmonary Arterial Hypertension Associated with Congen…（證據等級 L3）。原適應症：特發性或遺傳性肺動脈高壓（WHO functional class III 及 IV）"
 ---
 
 # Treprostinil

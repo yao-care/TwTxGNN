@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Vitamin E：預測新適應症為先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism)（證據等級 L5）。原適應症：皮膚乾燥及因維他命E缺乏引起之皮膚症"
 ---
 
 # Vitamin E

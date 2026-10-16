@@ -5,6 +5,8 @@ parent: 高證據等級 (L1-L2)
 nav_order: 243
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Ribavirin：預測新適應症為慢性 B 型肝炎 (Chronic Hepatitis B Virus Infection)（證據等級 L2）。原適應症：與其他藥物併用治療慢性 C 型肝炎病毒（HCV）感染（成人"
 ---
 
 # Ribavirin

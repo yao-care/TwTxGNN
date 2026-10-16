@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 209
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-16
+description: "Pemigatinib：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L5）。原適應症：適用於成人接受過全身性藥物治療、腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌"
 ---
 
 # Pemigatinib

@@ -5,6 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 256
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-16
+description: "Sennosides：預測新適應症為頭皮單純性毛髮稀疏症 (Hypotrichosis Simplex of the Scalp)（證據等級 L5）。原適應症：緩解便秘"
 ---
 
 # Sennosides
