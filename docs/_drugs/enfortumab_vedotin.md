@@ -33,8 +33,14 @@ indication_count: 10
 
 ## 一句話總結
 
-Enfortumab vedotin 是一種靶向 Nectin-4 的抗體藥物複合體（ADC），原本用於局部晚期或轉移性泌尿道上皮癌。
+Enfortumab vedotin 是一種靶向 Nectin-4 的抗體藥物複合體（ADC），原本用於局部晚期或轉移性泌尿道上皮癌，並可與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌的前導性及術後輔助治療。
 TxGNN 模型預測它可能對**痲瘋病 (Leprosy)** 有效，但目前**沒有任何臨床試驗與文獻**支持這個方向，僅有模型預測。
+
+<!-- review:begin enfortumab-vedotin-original-indication-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「原本用於局部晚期或轉移性泌尿道上皮癌。」。TFDA 許可證（衛部菌疫輸字第001212號、第001213號）第三項適應症為與 pembrolizumab 併用，治療不適合接受含 cisplatin 化療的肌肉侵犯性膀胱癌（MIBC），作為根治性膀胱切除術的前導性與術後輔助治療。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end enfortumab-vedotin-original-indication-summary-2026-10-16 -->
 
 ---
 
@@ -145,6 +151,7 @@ TxGNN 模型預測它可能對**痲瘋病 (Leprosy)** 有效，但目前**沒有
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 原適應症漏列肌肉侵犯性膀胱癌（MIBC） | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結漏列肌肉侵犯性膀胱癌 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

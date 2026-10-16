@@ -33,8 +33,14 @@ indication_count: 10
 
 ## 一句話總結
 
-Hexachlorophene（六氯酚）是雙酚類外用抗菌劑，原本用於外科擦拭、皮膚抑菌清潔，以及皮膚黴菌感染等外用情境。
+Hexachlorophene（六氯酚）是雙酚類外用抗菌劑，原本用於外科擦拭、皮膚抑菌清潔等外用情境（皮膚黴菌感染屬於與 tolnaftate、undecylenic acid 的複方）。
 TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有效，但目前**沒有任何臨床試驗與文獻**直接支持這個方向，僅有模型預測。
+
+<!-- review:begin hexachlorophene-original-indication-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「，以及皮膚黴菌感染等外用情境。」。TFDA 許可證資料中，hexachlorophene 現行有效單方許可證只有衛署藥製字第000974號「惠民」柔和潔乳白軟膏，核准外科擦拭用、供皮膚抑菌使用目的之清潔劑；寫皮膚黴菌感染（足癬、股癬等）的是 hexachlorophene 與 tolnaftate 或 undecylenic acid 的複方（如衛署藥製字第041482號「井田」除癬乳膏），抗黴菌作用來自 tolnaftate／undecylenic acid。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hexachlorophene-original-indication-summary-2026-10-16 -->
 
 ---
 
@@ -65,6 +71,12 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 脂漏性角化症是良性的表皮增生性病變，與抗菌作用沒有已知的關聯。因此，目前沒有明確的機轉理由支持這個預測，TxGNN 分數是唯一的支持依據。
 
 另外，這個藥物在台灣同時有單方與複方許可證，原適應症多為抗菌、清潔與皮膚黴菌感染；新預測的適應症與這些用途差距明顯。
+
+<!-- review:begin hexachlorophene-original-indication-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，hexachlorophene 現行有效單方許可證只有衛署藥製字第000974號「惠民」柔和潔乳白軟膏，核准外科擦拭用、供皮膚抑菌使用目的之清潔劑；寫皮膚黴菌感染（足癬、股癬等）的是 hexachlorophene 與 tolnaftate 或 undecylenic acid 的複方（如衛署藥製字第041482號「井田」除癬乳膏），抗黴菌作用來自 tolnaftate／undecylenic acid。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end hexachlorophene-original-indication-why-2026-10-16 -->
 
 ---
 
@@ -179,6 +191,8 @@ TxGNN 排名前 10 的預測中，下列兩項有部分資料可供參考，但�
 | 2026-10-03 | 許可證表含複方且多數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | FDA 核准外用品「已全面停用」 | 報告重生後已無此錯誤（2026-10-15：預測理由段已無此說；新報告改在「安全性考量」寫「美國 FDA 已終止其核准用途」，由 hexachlorophene-fda-discontinued-tw 紀錄處理；原為加註） | [Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100) |
 | 2026-10-03 | FDA 核准外用品「已全面停用」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100) |
+| 2026-10-16 | 一句話總結把皮膚黴菌感染列為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱原適應症含皮膚黴菌感染 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

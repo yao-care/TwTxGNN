@@ -108,6 +108,12 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 預測僅來自模型分數，沒有臨床試驗、文獻或機轉資料支持，證據等級為 L5。
 且 Diosmin 已知的月經相關用途（月經過多）與閉經病理不同，不宜直接推論。
 
+<!-- review:begin diosmin-amenorrhea-premise-conclusion-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：台灣現行有效的 diosmin 許可證都不含月經相關適應症，「機能性月經過多症」只見於已註銷的許可證；減少經血量屬於臨床試驗證據（[PMID 38029032](https://pubmed.ncbi.nlm.nih.gov/38029032/)），不是核准用途。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end diosmin-amenorrhea-premise-conclusion-2026-10-16 -->
+
 **若要推進需要：**
 - 補充 Diosmin 的作用機轉資料，並評估與閉經病理的關聯
 - 進行文獻回顧，確認是否有任何月經或內分泌相關的研究
@@ -128,6 +134,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 | 2026-10-03 | 閉經預測理由引用「機能性月經過多症」為原適應症 | 報告重生後已無此錯誤（2026-10-15：新報告改寫為「台灣部分舊許可證曾核准機能性月經過多症」，未再當作現行原適應症；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 閉經預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 閉經預測重審結果 | 重審：撤回，證據等級 L5 不變（2026-10-16 修訂，前版保留於紀錄） | [PubMed：To Study the Efficacy and Safety of Diosmin with Tranexamic Acid and Mefenamic Acid Versus only Tranexamic Acid and Mefenamic Acid in Medical Management of Abnormal Uterine Bleeding: A Randomized Controlled Trial（PMID 38029032）](https://pubmed.ncbi.nlm.nih.gov/38029032/)；[PubMed：Treatment of abnormal uterine bleeding with micronized flavonoids（PMID 15847886）](https://pubmed.ncbi.nlm.nih.gov/15847886/)；[ClinicalTrials.gov：Oral Tranexamic Acid Versus Diosmin for Treatment of Menorrhagia in Women Using Copper IUD（NCT02616731）](https://clinicaltrials.gov/study/NCT02616731)；[PubMed：Diosmin Mitigates Cyclophosphamide Induced Premature Ovarian Insufficiency in Rat Model（PMID 33802633）](https://pubmed.ncbi.nlm.nih.gov/33802633/)；[ClinicalTrials.gov：Evaluation of the Effects of Diosmin/Hespiridin Combination on the Clinical Outcomes in Patients With Polycystic Ovary Syndrome（NCT06083935）](https://clinicaltrials.gov/study/NCT06083935) |
+| 2026-10-16 | 結論稱月經過多為已知用途 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -29,19 +29,31 @@ indication_count: 10
 
 </div>
 
-# Norethindrone enanthate：從（原適應症資料缺漏）到抗凝血酶缺乏症第 2 型
+# Norethindrone enanthate：從抑制排卵（許可證已註銷）到抗凝血酶缺乏症第 2 型
+
+<!-- review:begin norethindrone-enanthate-historic-license-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Norethindrone enanthate：從（原適應症資料缺漏）到抗凝血酶缺乏症第 2 型」。台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end norethindrone-enanthate-historic-license-title-2026-10-16 -->
 
 ## 一句話總結
 
-Norethindrone enanthate 是一種長效注射型黃體素（progestin）酯類藥物，本次資料中未取得台灣許可證所載的原適應症。
+Norethindrone enanthate 是一種長效注射型黃體素（progestin）酯類藥物，台灣曾核發的許可證（衛署藥輸字第013079號「能無妊注射劑」，已於 1991-06-07 註銷）適應症為抑制排卵。
 TxGNN 模型預測分數最高的新適應症是**第 2 型抗凝血酶缺乏症 (Antithrombin deficiency type 2)**，但目前**沒有任何臨床試驗，也沒有直接相關文獻**支持。
 此預測僅來自模型推論，屬於證據等級 L5。
+
+<!-- review:begin norethindrone-enanthate-historic-license-summary-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「本次資料中未取得台灣許可證所載的原適應症。」。台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end norethindrone-enanthate-historic-license-summary-2026-10-16 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 無資料（台灣無許可證） |
+| 原適應症 | 抑制排卵（衛署藥輸字第013079號「能無妊注射劑」，已於 1991-06-07 註銷） |
 | 預測新適應症 | 第 2 型抗凝血酶缺乏症 (Antithrombin deficiency type 2) |
 | TxGNN 預測分數 | 98.93% |
 | 證據等級 | L5 |
@@ -54,6 +66,12 @@ TxGNN 模型預測分數最高的新適應症是**第 2 型抗凝血酶缺乏症
 > **查核加註（2026-10-03）**：台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（Noristerat），適應症為抑制排卵，已於 1991-06-07 註銷；目前沒有有效許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end norethindrone-enanthate-historic-license-2026-10-03 -->
+
+<!-- review:begin norethindrone-enanthate-historic-license-row-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「原適應症／無資料（台灣無許可證）」。台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end norethindrone-enanthate-historic-license-row-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -127,6 +145,9 @@ TxGNN 模型預測分數最高的新適應症是**第 2 型抗凝血酶缺乏症
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「台灣上市：未上市」 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題寫原適應症資料缺漏 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱未取得台灣許可證所載的原適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 原適應症寫無資料、台灣無許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

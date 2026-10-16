@@ -293,12 +293,16 @@ def render_page(text, recs, problems):
     # 會被 B 紀錄誤認成頁面原文。
     text = re.sub(r"\n*<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->\n*", "\n\n", text, flags=re.S)
     text = F.fix_table_spacing(text)  # 先補表格前空行，查核框的插入位置才與產線一致
-    results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result"}
+    # 重審結果標了 resolved_by_regeneration（重審對象是舊版報告、新報告已反映重審意見）就不再顯示框
+    results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result" and r.get("status") != RESOLVED}
+    retired = {r["resolves"] for r in recs if r["action"] == "rereview_result" and r.get("status") == RESOLVED}
     for r in recs:
         if r.get("status") in ("superseded", RESOLVED):
             continue  # 錨點所在的許可證表／張數已由程式化區塊取代，或報告重生後已無此錯誤：紀錄保留、頁面不再顯示框
         if r["action"] in ("rereview_result", "header_level"):
             continue  # rereview_result 在它 resolves 的那筆 rereview 位置渲染；header_level 只進查核紀錄表
+        if r["action"] == "rereview" and r["id"] in retired:
+            continue
         if r["action"] == "rereview" and r["id"] in results:
             text = apply_result(text, r, results[r["id"]], problems)
             continue

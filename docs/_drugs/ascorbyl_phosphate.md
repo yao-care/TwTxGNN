@@ -43,6 +43,12 @@ Ascorbyl phosphate 是穩定型維生素 C 前驅物，原本用於暫時緩解�
 TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)** 有效，
 但目前**沒有臨床試驗與文獻**支持，僅有模型預測。
 
+<!-- review:begin ascorbyl-phosphate-original-indication-combo-summary-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：眼部輕微刺激不適是 7 種成分複方點眼液（衛署藥輸字第023600號「德佑視立明眼藥水」，已註銷）的適應症，不是 ascorbyl phosphate 單一成分的適應症；台灣沒有 ascorbyl phosphate 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ascorbyl-phosphate-original-indication-combo-summary-2026-10-16 -->
+
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -60,6 +66,12 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 目前缺乏詳細的作用機轉資料。根據已知資訊，Ascorbyl phosphate 是維生素 C 的穩定前驅物，具抗氧化活性。理論上，它可能減輕視網膜血管的氧化壓力。
 
 糖尿病視網膜病變的病程與高血糖引起的氧化損傷有關，因此抗氧化作用在機轉上有可能相關。原適應症為眼部表面的輕微不適，與視網膜血管病變在病理上差異很大，兩者的相似性尚待評估。
+
+<!-- review:begin ascorbyl-phosphate-original-indication-combo-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：眼部輕微刺激不適是 7 種成分複方點眼液（衛署藥輸字第023600號「德佑視立明眼藥水」，已註銷）的適應症，不是 ascorbyl phosphate 單一成分的適應症；台灣沒有 ascorbyl phosphate 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ascorbyl-phosphate-original-indication-combo-why-2026-10-16 -->
 
 需強調：這個連結僅為推測，沒有任何臨床或文獻證據，完全建立在 TxGNN 預測上。此外，眼藥水的局部給藥是否能到達視網膜，也尚未評估。
 
@@ -116,6 +128,8 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 | 2026-10-03 | 「原適應症」為複方眼藥水的適應症 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列已自行註明「來源為複方許可證，台灣無有效單方許可證」；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「德佑視立明眼藥水」為 7 成分複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題把複方眼藥水的適應症當成原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結以複方眼藥水的適應症為原用途 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由以眼部輕微不適為原適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

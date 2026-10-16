@@ -3,8 +3,8 @@
   "level_counts": {
     "L1": 16,
     "L2": 25,
-    "L3": 32,
-    "L4": 56,
+    "L3": 31,
+    "L4": 57,
     "L5": 173
   },
   "top_by_indications": [
@@ -661,7 +661,7 @@
     {
       "name": "Ergometrine",
       "slug": "ergometrine",
-      "level": "L3",
+      "level": "L4",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 0

@@ -33,7 +33,7 @@ indication_count: 10
 
 <!-- review:begin chlorobutanol-original-indication-combo-title-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「# Chlorobutanol：從結膜炎與角膜炎到勃起功能障礙」。台灣 chlorobutanol 唯一的單方許可證（衛署藥輸字第001339號，已註銷）核准適應症是「防腐劑」；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「# Chlorobutanol：從結膜炎與角膜炎到勃起功能障礙」。台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end chlorobutanol-original-indication-combo-title-2026-10-16 -->
 
@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 
 <!-- review:begin chlorobutanol-original-indication-combo-summary-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「常見用途為防腐與輔助治療結膜炎、角膜炎。」。台灣 chlorobutanol 唯一的單方許可證（衛署藥輸字第001339號，已註銷）核准適應症是「防腐劑」；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「常見用途為防腐與輔助治療結膜炎、角膜炎。」。台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end chlorobutanol-original-indication-combo-summary-2026-10-16 -->
 
@@ -128,8 +128,8 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」為含 phenylephrine 複方眼藥水的適應症 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列已寫明單方許可證為防腐劑用途、眼部症狀屬複方；標題與一句話總結仍把眼部適應症算給本藥，另以 -title／-summary 紀錄更正；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表中 4 張成品皆為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以結膜炎與角膜炎為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結稱用於輔助治療結膜炎、角膜炎 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以結膜炎與角膜炎為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱用於輔助治療結膜炎、角膜炎 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

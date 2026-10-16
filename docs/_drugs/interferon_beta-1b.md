@@ -109,6 +109,12 @@ Interferon beta 與 interferon alpha 透過同一個第一型干擾素受體（I
 - 與現行毛細胞白血病標準治療做療效與安全性比較，評估是否有臨床價值。
 - 若要進一步考慮，需設計前臨床試驗或探索性臨床試驗，並確認劑型與給藥途徑（目前台灣僅有凍晶注射劑）是否適用。
 
+<!-- review:begin interferon-beta-1b-license-cancelled-next-step-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，interferon beta-1b 唯一的許可證（衛署菌疫輸字第000601號「貝他費隆注射劑」）已於 2026-06-08 註銷，台灣目前沒有有效的 interferon beta-1b 製劑；現行有效的是 interferon beta-1a（立比扶、保優利）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end interferon-beta-1b-license-cancelled-next-step-2026-10-16 -->
+
 <!-- review:begin log -->
 
 ## 查核紀錄
@@ -119,6 +125,7 @@ Interferon beta 與 interferon alpha 透過同一個第一型干擾素受體（I
 |---------|------|------|------|
 | 2026-10-03 | 「台灣上市：已上市」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「Beta 干擾素曾用於 HCL 治療」 | 報告重生後已無此錯誤（2026-10-15：新報告改以 interferon alpha 與同一受體的類別推論說明，未再寫 beta 干擾素曾用於毛細胞白血病；原為加註） | [Drugs@FDA：INTRON A（interferon alfa-2b）仿單，Indications and Usage](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103132s5199lbl.pdf)；[DailyMed：BETASERON（interferon beta-1b）仿單（Bayer），1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5) |
+| 2026-10-16 | 下一步稱目前台灣僅有凍晶注射劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

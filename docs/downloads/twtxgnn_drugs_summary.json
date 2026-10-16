@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-16T07:24:49.813734",
+  "generated_at": "2026-10-16T08:48:22.160876",
   "total_drugs": 302,
   "evidence_distribution": {
     "L5": 173,
-    "L4": 56,
+    "L4": 57,
     "L2": 25,
-    "L3": 32,
+    "L3": 31,
     "L1": 16
   },
   "drugs": [
@@ -641,7 +641,7 @@
     },
     {
       "drug_name": "Ergometrine",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 10,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/ergometrine/"

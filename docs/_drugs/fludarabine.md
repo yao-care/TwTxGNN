@@ -33,9 +33,15 @@ indication_count: 10
 
 ## 一句話總結
 
-Fludarabine（癌即瓦）是嘌呤類似物（purine analog）化療藥，台灣許可證資料中的核准適應症以 B 細胞惡性腫瘤（非何杰金氏淋巴瘤、慢性淋巴球性白血病）為主。
+Fludarabine 是嘌呤類似物（purine analog）化療藥，台灣許可證資料中的核准適應症以 B 細胞惡性腫瘤（非何杰金氏淋巴瘤、慢性淋巴球性白血病）為主。
 TxGNN 模型預測它可能對**漿細胞骨髓瘤 (Plasma Cell Myeloma)** 有效，
 目前有 **30 個臨床試驗**和 **20 篇文獻**列入此預測，但多數為含 fludarabine 的移植前處理或 CAR-T 淋巴清除情境，並非以 fludarabine 單獨治療骨髓瘤的證據。
+
+<!-- review:begin fludarabine-original-indication-name-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「Fludarabine（癌即瓦）是嘌呤類似物（purine analog）」。「癌即瓦注射劑」（衛部菌疫輸字第000973號）的主成分是 obinutuzumab，不是 fludarabine；fludarabine 現行有效許可證是衛署藥輸字第022732號「福達樂靜脈凍晶注射劑」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end fludarabine-original-indication-name-2026-10-16 -->
 
 ## 快速總覽
 
@@ -173,6 +179,7 @@ fludarabine 在骨髓瘤中的角色，主要是作為異體幹細胞移植的�
 | 2026-10-03 | 許可證表「癌即瓦注射劑」「瑞樂靶注射劑」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症寫濾泡性淋巴瘤 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步稱取得的單方適應症多屬 CD20 抗體 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結把「癌即瓦」當成本藥品名 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

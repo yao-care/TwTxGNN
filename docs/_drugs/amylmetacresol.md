@@ -37,6 +37,12 @@ Amylmetacresol 是口含錠中的局部殺菌成分，原本用於口腔殺菌�
 TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 有效，
 但目前**沒有任何臨床試驗或文獻**支持，僅有模型預測。
 
+<!-- review:begin amylmetacresol-original-indication-combo-summary-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：台灣含 amylmetacresol 的許可證都是與 2,4-dichlorobenzyl alcohol 的複方口含錠（舒立效，衛署藥輸字第022195～022197號、第024072號），「口腔殺菌劑、咽喉炎」是複方的適應症；沒有 amylmetacresol 單方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end amylmetacresol-original-indication-combo-summary-2026-10-16 -->
+
 ## 快速總覽
 
 | 項目 | 內容 |
@@ -81,7 +87,7 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 
 <!-- review:begin amylmetacresol-moa-pk-claim-sodium-channel-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：仿單（Strepsils SmPC §5.1）只寫 amylmetacresol 與 2,4-dichlorobenzyl alcohol 為防腐殺菌劑、體外具抗菌、抗黴菌與抗病毒作用，未記載鈉離子通道阻斷或局部麻醉作用；這屬於文獻中的實驗觀察，不是仿單所載的作用機轉。原文保留。依據：[emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)。
+> **查核加註（2026-10-16）**：仿單（Strepsils SmPC §5.1）只寫 amylmetacresol 與 2,4-dichlorobenzyl alcohol 為防腐殺菌劑、體外具抗菌、抗黴菌與抗病毒作用，未記載鈉離子通道阻斷或局部麻醉作用；鈉離子通道阻斷是體外研究的觀察（HEK 293 細胞表現 NaV1.2，amylmetacresol 半數阻斷濃度 53.6 µM，[PMID 19367399](https://pubmed.ncbi.nlm.nih.gov/19367399/)），不是仿單所載的作用機轉。原文保留。依據：[emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)；[PubMed：Buchholz V 等，Topical antiseptics for the treatment of sore throat block voltage-gated neuronal sodium channels in a local anaesthetic-like manner（PMID 19367399）](https://pubmed.ncbi.nlm.nih.gov/19367399/)。
 
 <!-- review:end amylmetacresol-moa-pk-claim-sodium-channel-2026-10-16 -->
 
@@ -118,6 +124,12 @@ TxGNN 另預測下列適應症，皆同為 L5、建議 Hold，且均無臨床試
 | 8 | 葡萄膜炎 | 99.53% | 無抗發炎或免疫調節證據 |
 | 9 | 睫狀體癌 | 99.46% | 無抗腫瘤機轉，高分疑為圖譜假象 |
 | 10 | 睫狀體良性腫瘤 | 99.45% | 無機轉與資料支持 |
+
+<!-- review:begin amylmetacresol-original-indication-combo-other-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：仿單（Strepsils SmPC §5.2）藥動學段為「無資料」，「全身暴露極低」沒有仿單依據。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end amylmetacresol-original-indication-combo-other-2026-10-16 -->
 
 ## 台灣上市資訊
 
@@ -169,7 +181,9 @@ TxGNN 另預測下列適應症，皆同為 L5、建議 Hold，且均無臨床試
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Strepsils Honey and Lemon SmPC §5.1](https://www.medicines.org.uk/emc/product/5606/smpc) |
 | 2026-10-03 | 原適應症屬於複方 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 說作用為干擾細菌細胞膜、全身吸收量極低 | 加註（2026-10-16 修訂，前版保留於紀錄） | [emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc) |
-| 2026-10-16 | 機轉寫鈉離子通道阻斷 | 加註 | [emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc) |
+| 2026-10-16 | 機轉寫鈉離子通道阻斷 | 加註（2026-10-16 修訂，前版保留於紀錄） | [emc：Strepsils Honey and Lemon（amylmetacresol 0.6 mg＋2,4-dichlorobenzyl alcohol 1.2 mg）SmPC §5.1、§5.2](https://www.medicines.org.uk/emc/product/5606/smpc)；[PubMed：Buchholz V 等，Topical antiseptics for the treatment of sore throat block voltage-gated neuronal sodium channels in a local anaesthetic-like manner（PMID 19367399）](https://pubmed.ncbi.nlm.nih.gov/19367399/) |
+| 2026-10-16 | 一句話總結以複方口含錠的適應症為原用途 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 其他預測表稱藥物全身暴露極低 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

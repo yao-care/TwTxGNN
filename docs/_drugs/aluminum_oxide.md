@@ -58,6 +58,12 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Aluminum oxide 是制酸劑，作用方式是中和胃酸，在胃酸過多與消化性潰瘍中的用途已被確立。
 
+<!-- review:begin aluminum-oxide-gel-is-aluminum-hydroxide-gel-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：本頁唯一列出的許可證 內衛藥製字第009846號，中英文品名都是「氫氧化鋁凝膠」（ALUMINUM HYDROXIDE GEL），只是 TFDA 主成分欄登載為 aluminum oxide (alumina)。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end aluminum-oxide-gel-is-aluminum-hydroxide-gel-why-2026-10-16 -->
+
 制酸劑與類風濕性關節炎在病理上並無已知關聯。類風濕性關節炎是自體免疫性的發炎疾病，而 Aluminum oxide 沒有已知的抗發炎或免疫調節機轉。
 
 這個高分預測很可能來自知識圖譜中的間接關聯，而非真實的藥理證據。檢索到的唯一文獻是 1978 年關於氧化鋁**陶瓷**髖關節假體的病例系列，使用的是惰性材料，並不是藥物療效研究，不能支持此預測。
@@ -111,6 +117,12 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 - 預測缺乏任何臨床試驗與有意義的文獻支持，僅有模型分數，證據等級為 L5。
 - Aluminum oxide 作為制酸劑，沒有已知的抗發炎或免疫調節機轉，檢索到的唯一文獻是陶瓷假體材料研究，與藥理無關。
 
+<!-- review:begin aluminum-oxide-gel-is-aluminum-hydroxide-gel-conclusion-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：本頁唯一列出的許可證 內衛藥製字第009846號，中英文品名都是「氫氧化鋁凝膠」（ALUMINUM HYDROXIDE GEL），只是 TFDA 主成分欄登載為 aluminum oxide (alumina)。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end aluminum-oxide-gel-is-aluminum-hydroxide-gel-conclusion-2026-10-16 -->
+
 **若要推進需要：**
 - 取得詳細的作用機轉資料（MOA），評估是否有任何合理的免疫或發炎相關途徑。
 - 進行系統性文獻回顧，確認是否有制酸劑或鋁化合物與類風濕性關節炎的真實研究。
@@ -126,6 +138,8 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「Aluminum oxide 是一種內服凝膠劑」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱 aluminum oxide 是制酸劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱 aluminum oxide 作為制酸劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

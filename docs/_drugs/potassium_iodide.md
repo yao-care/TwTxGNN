@@ -29,7 +29,13 @@ indication_count: 2
 
 </div>
 
-# 碘化鉀（Potassium Iodide）：從祛痰劑／皮膚消毒到鼻腔疾病
+# 碘化鉀（Potassium Iodide）：從祛痰與甲狀腺保護到鼻腔疾病
+
+<!-- review:begin potassium_iodide-original-indication-combo-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# 碘化鉀（Potassium Iodide）：從祛痰劑／皮膚消毒到鼻腔疾病」。TFDA 許可證資料中，碘化鉀現行有效單方許可證只有衛署藥製字第056668號「信東」碘化鉀錠，核准限於輻射緊急事故保護甲狀腺；祛痰的單方許可證都已註銷。皮膚消毒來自碘＋碘化鉀複方（如衛署藥製字第033308號濃碘酊），絲狀菌感染來自碘＋碘化鉀＋水楊酸複方（衛署藥製字第044330號、第043856號），作用主要來自碘與水楊酸。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end potassium_iodide-original-indication-combo-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -66,6 +72,12 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 <!-- review:end potassium-iodide-antifungal-2026-10-03 -->
 
 原適應症（祛痰、呼吸道分泌物稀釋）與呼吸道黏膜相關，而鼻腔疾病與上呼吸道黏膜相關，兩者在解剖與病理上有一定關聯。另外，碘化鉀的絲狀菌感染相關核准用途（含碘水楊酸製劑）也與真菌性鼻部感染的概念相近。
+
+<!-- review:begin potassium_iodide-original-indication-combo-why-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，碘化鉀現行有效單方許可證只有衛署藥製字第056668號「信東」碘化鉀錠，核准限於輻射緊急事故保護甲狀腺；祛痰的單方許可證都已註銷。皮膚消毒來自碘＋碘化鉀複方（如衛署藥製字第033308號濃碘酊），絲狀菌感染來自碘＋碘化鉀＋水楊酸複方（衛署藥製字第044330號、第043856號），作用主要來自碘與水楊酸。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end potassium_iodide-original-indication-combo-why-2026-10-16 -->
 
 不過，目前找到的文獻多為動物（綿羊、馬）個案報告，以及孤立的人類個案，並非嚴謹的人體研究，因此只能視為研究假說。
 
@@ -160,6 +172,8 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 | 2026-10-03 | 「原核准適應症」混入複方與已註銷許可證 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 說碘化鉀對孢子絲菌病和接合菌病有已知抗真菌活性 | 加註（2026-10-15 修訂，前版保留於紀錄） | [PubChem：Potassium iodide（CID 4875），Pharmacology and Biochemistry › Mechanism of Action（引自 AHFS Drug Information 2005）](https://pubchem.ncbi.nlm.nih.gov/compound/4875) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-16 | 標題以皮膚消毒為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱碘化鉀有絲狀菌感染核准用途 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

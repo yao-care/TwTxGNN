@@ -29,11 +29,11 @@ indication_count: 1
 
 </div>
 
-# Polyethylene glycol：從軟膏基劑與人工淚液到先天性魚鱗癬樣紅皮症
+# Polyethylene glycol：從便秘治療到先天性魚鱗癬樣紅皮症
 
 <!-- review:begin polyethylene_glycol-mircera-indication-title-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「# Polyethylene glycol：從軟膏基劑與慢性腎病貧血到先天性魚鱗癬樣紅皮症」。慢性腎病貧血是衛署菌疫輸字第000887號「美血樂」的適應症，主成分是 methoxy polyethylene glycol-epoetin beta（聚乙二醇化的紅血球生成素），治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「# Polyethylene glycol：從軟膏基劑與慢性腎病貧血到先天性魚鱗癬樣紅皮症」。TFDA 許可證資料中，polyethylene glycol 的有效單方許可證是衛署藥輸字第023462號「腹樂疏口服懸液用粉劑」（PEG 4000），核准成人和八歲及以上兒童便秘的症狀治療；慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end polyethylene_glycol-mircera-indication-title-2026-10-16 -->
 
@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療慢性腎病（CKD）所引起的症狀性貧血（Mircera 製劑） |
+| 原適應症 | 成人和八歲及以上兒童便秘的症狀治療（衛署藥輸字第023462號「腹樂疏口服懸液用粉劑」，PEG 4000） |
 | 預測新適應症 | 先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma) |
 | TxGNN 預測分數 | 99.03% |
 | 證據等級 | L5 |
@@ -55,11 +55,11 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 | 許可證數 | 34 張（有效單方 1／有效複方 6／已註銷 27） |
 | 建議決策 | Hold |
 
-<!-- review:begin polyethylene_glycol-mircera-indication-2026-10-03 -->
+<!-- review:begin polyethylene_glycol-mircera-indication-row-2026-10-16 -->
 
-> **查核加註（2026-10-03）**：「慢性腎病貧血」是美血樂（衛署菌疫輸字第000887號）的適應症，主成分為 methoxy polyethylene glycol-epoetin beta，治療貧血的是其中的紅血球生成素 epoetin beta，PEG 只是修飾結構；這不是 PEG 本身的適應症。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「原適應症／治療慢性腎病（CKD）所引起的症狀性貧血（Mircera 製劑）」。TFDA 許可證資料中，polyethylene glycol 的有效單方許可證是衛署藥輸字第023462號「腹樂疏口服懸液用粉劑」（PEG 4000），核准成人和八歲及以上兒童便秘的症狀治療；慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<!-- review:end polyethylene_glycol-mircera-indication-2026-10-03 -->
+<!-- review:end polyethylene_glycol-mircera-indication-row-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -71,7 +71,7 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 
 <!-- review:begin polyethylene_glycol-mircera-indication-why-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：慢性腎病貧血是衛署菌疫輸字第000887號「美血樂」（methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，polyethylene glycol 的有效單方許可證是衛署藥輸字第023462號「腹樂疏口服懸液用粉劑」（PEG 4000），核准成人和八歲及以上兒童便秘的症狀治療；慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end polyethylene_glycol-mircera-indication-why-2026-10-16 -->
 
@@ -144,9 +144,10 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原核准適應症」列入慢性腎病貧血 | 加註（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以慢性腎病貧血為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由把 CKD 貧血列為原適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原核准適應症」列入慢性腎病貧血 | 報告重生後已無此錯誤（2026-10-16：快速總覽「原適應症」列已改以 -row 紀錄更正為 PEG 單方許可證的便秘適應症；原為加註（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以慢性腎病貧血為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由把 CKD 貧血列為原適應症 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 原適應症寫成美血樂的慢性腎病貧血 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 
