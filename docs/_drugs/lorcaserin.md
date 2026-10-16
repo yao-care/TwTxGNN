@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**維生素過多症 (Hypervitaminosis)** 有效�
 | TxGNN 預測分數 | 99.97% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 2 張（有效單方 1／有效複方 0／已註銷 1） |
+| 許可證數 | 2 張（有效單方 0／有效複方 0／已過期 1／已註銷 1） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -71,13 +71,10 @@ TxGNN 模型預測它可能對**維生素過多症 (Hypervitaminosis)** 有效�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Lorcaserin 的不重複許可證共 **2 張**：有效單方 1 張、有效複方 0 張、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Lorcaserin 的不重複許可證共 **2 張**：有效單方 0 張、有效複方 0 張、已過期 1 張（未註銷但有效日期已過）、已註銷 1 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
-
-| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
-|------|------|------|------|------|------|
-| 衛部藥輸字第027955號 | 半水氯卡色林鹽酸鹽 | （粉） | 丞泰企業有限公司 | 2025/09/02 | 抗肥胖劑 |
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥輸字第027955號</td><td>半水氯卡色林鹽酸鹽</td><td>Lorcaserin hydrochloride hemihydrate</td><td>2025/09/02</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛部藥輸字第027218號</td><td>沛麗婷膜衣錠10毫克</td><td>Lorcaserin HCl hemihydrate</td><td>2020/07/16</td></tr></tbody></table></details>

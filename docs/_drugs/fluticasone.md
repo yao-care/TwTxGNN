@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 | TxGNN 預測分數 | 99.20% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 58 張（有效單方 23／有效複方 13／已註銷 22） |
+| 許可證數 | 58 張（有效單方 22／有效複方 13／已過期 1／已註銷 22） |
 | 建議決策 | Hold |
 
 ---
@@ -84,13 +84,12 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Fluticasone 的不重複許可證共 **58 張**：有效單方 23 張、有效複方 13 張、已註銷 22 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Fluticasone 的不重複許可證共 **58 張**：有效單方 22 張、有效複方 13 張、已過期 1 張（未註銷但有效日期已過）、已註銷 22 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（23 張）
+**有效・單方**（22 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
-| 衛署藥製字第040259號 | 克廷膚乳膏０．０５％（氟梯卡松） | 乳膏劑 | 臺灣葛蘭素威康股份有限公司 | 2006/09/06 | 緩解皮膚病之發炎以及搔癢症狀，如：溼疹，包括異位性、初期和盤狀溼疹；結節性癢疹；乾癬（不包括廣泛性板塊之乾癬）；神經性皮膚炎，包括單純苔癬；扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
 | 衛署藥製字第046318號 | 膚益舒軟膏 0.005% | 軟膏劑 | 瑞士藥廠股份有限公司 | 2029/06/15 | 緩解皮膚病之發炎以及搔癢症狀，如:溼疹，包括異位性、初期和盤狀溼疹;牛皮癬(不包括蔓延性之牛皮癬);神經性皮膚病，包括單純苔癬;扁平苔癬、皮脂漏皮膚炎、接觸性過敏反應、盤狀性紅斑性… |
 | 衛署藥製字第046321號 | 膚益舒乳膏 0.05% | 乳膏劑 | 瑞士藥廠股份有限公司 | 2029/06/16 | 緩解皮膚病之發炎以及搔癢症狀。如：溼疹，包括異位性、初期和盤狀溼疹；結節性癢疹；乾癬(不包括廣泛性板塊之乾癬)、神經性皮膚病，包括單純苔癬；扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
 | 衛署藥製字第047028號 | 悠得爽乳膏 | 乳膏劑 | 瑩碩生技醫藥股份有限公司 | 2030/01/20 | 緩解皮膚病之發炎以及搔癢症狀。如:溼疹、包括異位性、初期和盤狀溼疹;結節性癢疹;乾癬(不包括廣泛性板魂之乾癬)、神經性皮膚炎、包括單純苔癬、扁平苔癬、脂漏性皮膚炎、接觸性過敏反應、… |
@@ -131,6 +130,9 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 | 衛部藥輸字第027395號 | 肺樂喜易利達92/55/22 mcg乾粉吸入劑 | Fluticasone furoate (micronised)、Vilanterol trifenatate (mic… | 乾粉吸入劑 | 1. 慢性阻塞性肺病維持治療：適用於已接受吸入性皮質類固醇與長效β2作用劑合併治療，或已定期使用兩種吸入型長效支氣管擴張劑合併治療，而仍控制不佳的慢性阻塞性肺病(COPD)病人，以… |
 | 衛部藥輸字第027767號 | 吸洛復250定量噴霧吸入劑 | SALMETEROL、FLUTICASONE PROPIONATE | 口腔吸入劑 | 適用於可逆性呼吸道阻塞疾病(ROAD)之常規治療，包括適合使用支氣管擴張劑及皮質類固醇組合療法之患有氣喘的兒童與成人。這可能包括：正在使用長效乙型作用劑(ß-AGONIST)及吸入… |
 | 衛部藥輸字第028240號 | 肺樂喜易利達184/55/22 mcg 乾粉吸入劑 | Vilanterol trifenatate (micronised)、Umeclidinium bromide (mi… | 乾粉吸入劑 | 適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第040259號</td><td>克廷膚乳膏０．０５％（氟梯卡松）</td><td>FLUTICASONE PROPIONATE</td><td>2006/09/06</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（22 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第040364號</td><td>克延膚軟膏０．００５％（氟梯卡松）</td><td>FLUTICASONE PROPIONATE</td><td>2013/04/08</td></tr><tr><td>衛署藥輸字第021475號</td><td>輔舒酮　吸入劑２５０微公克／ＤＯＳＥ</td><td>FLUTICASONE PROPIONATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021476號</td><td>輔舒酮　吸入劑５０微公克／DOSE</td><td>FLUTICASONE PROPIONATE</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021922號</td><td>輔舒銅ＴＭ準納ＴＭ乾粉吸入劑５０微公克／DOSE</td><td>FLUTICASONE PROPIONATE</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第021923號</td><td>輔舒銅ＴＭ準納ＴＭ乾粉吸入劑５００微公克／ＤＯＳＥ</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第022792號</td><td>輔舒酮　呼吸溶液劑０．５公絲/２公撮</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第022793號</td><td>輔舒酮　呼吸溶液劑　２毫克/２毫升</td><td>FLUTICASONE PROPIONATE</td><td>2024/06/12</td></tr><tr><td>衛署藥輸字第023273號</td><td>輔舒良　鼻用滴劑４００ＭＣＧ</td><td>FLUTICASONE PROPIONATE</td><td>2017/02/13</td></tr><tr><td>衛署藥輸字第023753號</td><td>輔舒酮優氟吸入劑２５０微公克／劑量</td><td>FLUTICASONE PROPIONATE MICRONIZED</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第023773號</td><td>克廷膚乳膏 0.05% (氟梯卡松)</td><td>FLUTICASONE PROPIONATE</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026253號</td><td>優游50優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026254號</td><td>優游125優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026255號</td><td>優游250優氟吸入劑</td><td>SALMETEROL XINAFOATE MICRONIZED、FLUTICASONE PROPIONATE MICRO…</td><td>2018/12/03</td></tr><tr><td>衛部藥輸字第026343號</td><td>呼特康50/5微克加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、FORMOTEROL FUMARATE DIHYDRATE</td><td>2023/03/24</td></tr><tr><td>衛部藥輸字第026344號</td><td>呼特康250/10微克加壓驅動懸浮吸入劑</td><td>FORMOTEROL FUMARATE DIHYDRATE、FLUTICASONE PROPIONATE</td><td>2023/03/21</td></tr><tr><td>衛部藥輸字第026345號</td><td>呼特康125/5微克加壓驅動懸浮吸入劑</td><td>FORMOTEROL FUMARATE DIHYDRATE、FLUTICASONE PROPIONATE</td><td>2023/03/13</td></tr><tr><td>衛部藥輸字第026650號</td><td>肺服欣乾粉吸入劑50微克/500微克</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2020/09/07</td></tr><tr><td>衛部藥輸字第026824號</td><td>肺服欣乾粉吸入劑50微克/250微克</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2020/09/07</td></tr><tr><td>衛部藥輸字第027128號</td><td>丙酸氟替皮質醇</td><td>Fluticasone Propionate</td><td>2024/09/27</td></tr><tr><td>衛部藥輸字第027681號</td><td>鼻適暢137/50定量鼻用噴霧劑</td><td>AZELASTINE HYDROCHLORIDE、FLUTICASONE PROPIONATE</td><td>2025/08/15</td></tr><tr><td>衛部藥輸字第028035號</td><td>順肺坦250定量加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2025/08/18</td></tr><tr><td>衛部藥輸字第028036號</td><td>順肺坦125定量加壓驅動懸浮吸入劑</td><td>FLUTICASONE PROPIONATE、SALMETEROL XINAFOATE</td><td>2025/08/15</td></tr></tbody></table></details>

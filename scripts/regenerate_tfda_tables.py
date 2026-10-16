@@ -58,6 +58,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data-date", required=True)
     args = ap.parse_args()
+    T.set_as_of(args.data_date)  # 過期以資料集日期判斷（2026-10-16 起）
     recs = T.load_records()
     if not recs:
         sys.exit("找不到 data/raw/tw_fda_drugs.json")
@@ -101,7 +102,9 @@ def main():
             if not in_base and not owns_count:
                 print(f"  {r['id']}：錨點不在頁面上（報告可能被重產改寫），未自動處理，請人工判斷")
                 continue
-            if gone or owns_count:
+            # 2026-10-16：只有原句確實從頁面消失才標 superseded；句子含「N 張…許可證」但仍在正文
+            # （例如 LLM 寫的資料說明）不算被取代，否則加註會被藏起來
+            if gone or (owns_count and in_base and not any(x in body for x in ([r["replacement"], r["claim"]] if r["action"] == "correct" else [r.get("anchor") or r["claim"]]))):
                 r["status"] = "superseded"
                 r["superseded_by"] = SUPERSEDED_BY
                 ids = asserted_ids(r)

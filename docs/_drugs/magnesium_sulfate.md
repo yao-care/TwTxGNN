@@ -80,6 +80,12 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 <!-- review:end magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
 
+<!-- review:begin magnesium-sulfate-cerebral-perfusion-moa-missing-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：本頁「為什麼這個預測合理」上方已附有依仿單整理的作用機轉段（2026-10-03 查核新增）：阻斷神經肌肉傳導、減少乙醯膽鹼釋放、中樞抑制與周邊血管擴張。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
+
+<!-- review:end magnesium-sulfate-cerebral-perfusion-moa-missing-2026-10-16 -->
+
 台灣已核准的硫酸鎂注射液適應症，本來就包含「子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助」。所以這個預測與既有的核准用途相符，屬於以證據補強既有用途，而非全新的用途。
 
 文獻也支持此看法：多篇回顧指出，硫酸鎂是預防與控制子癇抽搐的首選藥物，其療效與安全性已被長期記錄。
@@ -187,6 +193,12 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 - 針對肥胖族群及產後療程長短，參考進行中的試驗結果。
 - 其他預測適應症（如偏頭痛／頭痛、術後喉嚨痛）屬研究性問題，應另案評估，不宜與本結論混為一談。
 
+<!-- review:begin magnesium-sulfate-cerebral-perfusion-moa-next-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：本頁已附有依仿單整理的作用機轉段（2026-10-03 查核新增）。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
+
+<!-- review:end magnesium-sulfate-cerebral-perfusion-moa-next-2026-10-16 -->
+
 <!-- review:begin log -->
 
 ## 查核紀錄
@@ -201,6 +213,8 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 報告重生後已無此錯誤（2026-10-16：重生時 LLM 列的核准適應症清單（含「靜脈營養輸注」「維他命與礦物質缺乏症」）已整段刪除，現由程式化許可證表呈現；不是被許可證表取代；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 機轉寫 NMDA 受體拮抗、阻斷鈣離子通道與促進腦血管擴張 | 加註（2026-10-16 修訂，前版保留於紀錄） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-16 | 稱缺乏作用機轉資料 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-16 | 下一步建議補齊作用機轉 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 
 <!-- review:end log -->
 

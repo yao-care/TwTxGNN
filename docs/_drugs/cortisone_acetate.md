@@ -110,8 +110,14 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高，但沒有任何臨床試驗，唯一的文獻是 1952 年的病例系列，且缺乏摘要與現代研究佐證。
+- 預測分數雖高，但沒有任何臨床試驗，文獻只有 2 篇 1952 年的病例系列，且缺乏摘要與現代研究佐證。
 - 全身性糖皮質素用於斑禿有復發與副作用的問題，且知識圖譜顯示多項潛在禁忌疾病。
+
+<!-- review:begin cortisone-acetate-original-indication-lit-count-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「唯一的文獻是 1952 年的病例系列」。本頁「文獻證據」表列有 2 篇 1952 年病例系列（PMID 14908175、14952032）。依據：[本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/cortisone-acetate/)。
+
+<!-- review:end cortisone-acetate-original-indication-lit-count-2026-10-16 -->
 
 **若要推進需要：**
 - 取得完整的作用機轉資料（MOA）。
@@ -121,7 +127,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 <!-- review:begin cortisone-acetate-original-indication-dosage-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「（目前台灣有效許可證為注射劑、錠劑、軟膏劑）」。TFDA 許可證資料中，cortisone acetate 現行有效單方許可證為錠劑（衛署藥製字第013381號、內衛藥製字第009857號）、懸浮注射液（內衛藥製字第012110號）與原料藥；軟膏、乳膏是 hydrocortisone acetate（氫化可體松）的劑型，屬不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「（目前台灣有效許可證為注射劑、錠劑、軟膏劑）」。TFDA 許可證資料中，cortisone acetate 現行有效單方許可證有 5 張：錠劑（衛署藥製字第013381號「柏理」、內衛藥製字第009857號「紐約」、衛署藥製字第046456號「韋淳」）、懸浮注射液（內衛藥製字第012110號）與原料藥（衛署藥陸輸字第000108號）；軟膏、乳膏是 hydrocortisone acetate（氫化可體松）的劑型，屬不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end cortisone-acetate-original-indication-dosage-2026-10-16 -->
 
@@ -137,7 +143,8 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 |---------|------|------|------|
 | 2026-10-03 | 原適應症取自 hydrocortisone acetate 許可證 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列未再引用 hydrocortisone acetate 懸浮劑的適應症；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表混入 hydrocortisone 製劑且全數註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 下一步把軟膏劑列為現行劑型 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步把軟膏劑列為現行劑型 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱唯一的文獻是 1952 年病例系列 | 更正 | [本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/cortisone-acetate/) |
 
 <!-- review:end log -->
 

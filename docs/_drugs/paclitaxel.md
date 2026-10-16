@@ -67,13 +67,19 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目�
 
 <!-- review:end paclitaxel-original-indication-2026-10-03 -->
 
-**資料說明：** 原適應症曾取自曲斯若、賀癌平、康癌停、赫珠瑪等 trastuzumab 類許可證，paclitaxel 只是文中的併用藥；paclitaxel 本身另有多張有效單方許可證（如汰癌勝、伏摩素、亞伯杉，以及品名為「紫杉醇」的衛署藥輸字第025586號等）。因此「原適應症」一欄反映的是併用情境，並非 paclitaxel 單方的核准範圍。
+**資料說明：** 原適應症曾取自曲斯若、賀癌平、康癌停、赫珠瑪等 trastuzumab 類許可證，paclitaxel 只是文中的併用藥；paclitaxel 本身另有多張有效單方許可證（如汰癌勝、伏摩素、亞伯杉，以及品名為「紫杉醇」的衛署藥輸字第025586號等）。快速總覽的「原適應症」已改為 paclitaxel 單方許可證的核准範圍。
 
 <!-- review:begin paclitaxel-original-indication-data-note-2026-10-16 -->
 
 > **查核更正（2026-10-16）**：原寫「許可證中有效的 6 張，品名為曲斯若、賀癌平、康癌停、赫珠瑪，核准文字都是 trastuzumab 類製劑的適應症，paclitaxel 只是文中的併用藥。唯一以「紫杉醇」為品名的許可證已註銷，適應症僅寫「抗癌藥」。」。TFDA 許可證資料中，paclitaxel 有多張有效單方許可證，例如衛署藥輸字第021157號汰癌勝注射液、衛署藥製字第044601號「永信」伏摩素注射液（晚期卵巢癌、腋下淋巴轉移之乳癌輔助化療等）、衛部藥輸字第026484號亞伯杉注射劑（轉移性乳癌、非小細胞肺癌等），以及品名為「紫杉醇」的衛署藥輸字第025586號、衛署藥陸輸字第000528號、衛部藥陸輸字第001249號（抗癌藥／抗腫瘤藥）；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，paclitaxel 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end paclitaxel-original-indication-data-note-2026-10-16 -->
+
+<!-- review:begin paclitaxel-original-indication-data-note-2-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「因此「原適應症」一欄反映的是併用情境，並非 paclitaxel 單方的核准範圍。」。快速總覽的「原適應症」已由查核更正改為 paclitaxel 單方許可證的核准範圍，這句不再成立。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end paclitaxel-original-indication-data-note-2-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -209,7 +215,7 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 原適應症列入胃癌、食道癌、頭頸癌、膀胱癌、子宮頸癌 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 trastuzumab 類許可證 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結以 trastuzumab 許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
@@ -217,6 +223,7 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，目�
 | 2026-10-16 | 結論稱台灣有效許可證都是 trastuzumab 類 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由引用 trastuzumab 許可證文字 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步建議另行釐清 paclitaxel 單方許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 資料說明稱原適應症欄反映併用情境 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

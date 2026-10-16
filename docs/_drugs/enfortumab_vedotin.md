@@ -142,6 +142,12 @@ TxGNN 模型預測它可能對**痲瘋病 (Leprosy)** 有效，但目前**沒有
 - 前臨床研究（如痲瘋病相關細胞或組織模型）提供生物學依據
 - 重新審視預測排序：同一份預測清單中，HER2 陽性乳癌因有 Nectin-4 表現的生物學基礎與相關 Phase 2 多癌別試驗（EV-202），證據等級為 L4，較值得優先評估
 
+<!-- review:begin enfortumab-vedotin-original-indication-ev202-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：EV-202（NCT04225117）的乳癌分組是 HR 陽性／HER2 陰性乳癌與三陰性乳癌，沒有 HER2 陽性乳癌分組。原文保留。依據：[ClinicalTrials.gov：NCT04225117（EV-202）](https://clinicaltrials.gov/study/NCT04225117)。
+
+<!-- review:end enfortumab-vedotin-original-indication-ev202-2026-10-16 -->
+
 <!-- review:begin log -->
 
 ## 查核紀錄
@@ -152,6 +158,7 @@ TxGNN 模型預測它可能對**痲瘋病 (Leprosy)** 有效，但目前**沒有
 |---------|------|------|------|
 | 2026-10-03 | 原適應症漏列肌肉侵犯性膀胱癌（MIBC） | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結漏列肌肉侵犯性膀胱癌 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 稱 EV-202 有 HER2 陽性乳癌依據 | 加註 | [ClinicalTrials.gov：NCT04225117（EV-202）](https://clinicaltrials.gov/study/NCT04225117) |
 
 <!-- review:end log -->
 

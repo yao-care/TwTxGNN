@@ -48,7 +48,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 | TxGNN 預測分數 | 99.90% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 43 張（有效單方 20／有效複方 0／已註銷 23） |
+| 許可證數 | 43 張（有效單方 19／有效複方 0／已過期 1／已註銷 23） |
 | 建議決策 | Hold |
 
 ---
@@ -86,9 +86,9 @@ PPAR 活化具有抗發炎與免疫調節作用，包括降低促發炎細胞介
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Gemfibrozil 的不重複許可證共 **43 張**：有效單方 20 張、有效複方 0 張、已註銷 23 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Gemfibrozil 的不重複許可證共 **43 張**：有效單方 19 張、有效複方 0 張、已過期 1 張（未註銷但有效日期已過）、已註銷 23 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（20 張）
+**有效・單方**（19 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -111,7 +111,9 @@ PPAR 活化具有抗發炎與免疫調節作用，包括降低促發炎細胞介
 | 衛署藥陸輸字第000308號 | 健菲布旨 | （粉） | 誠品貿易股份有限公司 | 2028/01/17 | 血脂調節劑。 |
 | 衛署藥陸輸字第000332號 | 健菲布脂 | （粉） | 新雙隆生技股份有限公司 | 2028/12/05 | 降血脂劑。 |
 | 衛署藥陸輸字第000530號 | 健菲布酯 | 原料藥粉末 | 日名國際藥品有限公司 | 2027/10/01 | 降血脂劑 |
-| 衛部藥陸輸字第000734號 | 健菲布酯 | （粉） | 宇直泰貿易股份有限公司 | 2026/06/29 | 降血脂劑。 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥陸輸字第000734號</td><td>健菲布酯</td><td>Gemfibrozil</td><td>2026/06/29</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（23 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第029830號</td><td>降脂膠囊３００公絲（健菲布脂）</td><td>GEMFIBROZIL</td><td>1988/04/15</td></tr><tr><td>衛署藥製字第030752號</td><td>利比特膠囊３００公絲（健菲布脂）</td><td>GEMFIBROZIL</td><td>1990/09/06</td></tr><tr><td>衛署藥製字第032467號</td><td>利比特膠囊３００公絲（健菲布脂）</td><td>GEMFIBROZIL</td><td>1992/12/09</td></tr><tr><td>衛署藥製字第032563號</td><td>"優良"優瑞脂膠囊300毫克（健菲布脂）</td><td>GEMFIBROZIL</td><td>2023/07/24</td></tr><tr><td>衛署藥製字第037546號</td><td>甘費波吉（健菲布酯）</td><td>GEMFIBROZIL</td><td>2023/08/14</td></tr><tr><td>衛署藥製字第042604號</td><td>洛脂膜衣錠６００公絲（健菲布脂）</td><td>GEMFIBROZIL</td><td>2004/12/15</td></tr><tr><td>衛署藥輸字第012298號</td><td>２，２－二甲基５（２，５－二甲苯氧基）草酸</td><td>GEMFIBROZIL</td><td>1994/01/08</td></tr><tr><td>衛署藥輸字第017896號</td><td>"大發" 健菲布脂</td><td>GEMFIBROZIL</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第018690號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第018714號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>2001/08/06</td></tr><tr><td>衛署藥輸字第019695號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第019696號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第019818號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第020866號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>2016/06/01</td></tr><tr><td>衛署藥輸字第021087號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第021274號</td><td>洛脂膜衣錠６００公絲</td><td>GEMFIBROZIL</td><td>2014/04/28</td></tr><tr><td>衛署藥輸字第021400號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第021871號</td><td>健菲布酯</td><td>GEMFIBROZIL</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第021875號</td><td>法蘭西斯健菲布酯</td><td>GEMFIBROZIL</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第022292號</td><td>健菲布旨</td><td>GEMFIBROZIL</td><td>2014/01/24</td></tr><tr><td>衛署藥輸字第022893號</td><td>清無脂膜衣錠６００公絲</td><td>GEMFIBROZIL</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第022935號</td><td>洛脂膠囊３００公絲</td><td>GEMFIBROZIL</td><td>2005/02/15</td></tr><tr><td>衛署藥輸字第023975號</td><td>"瑞克達帝" 健菲布酯</td><td>GEMFIBROZIL</td><td>2016/05/30</td></tr></tbody></table></details>

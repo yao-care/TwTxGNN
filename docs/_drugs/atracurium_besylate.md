@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**子癇前症 (Preeclampsia)** 有效，但目前
 
 <!-- review:begin atracurium-histamine-release-row-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「原適應症／高選擇性及競爭性的非去極化神經肌肉阻斷劑，可作為手術全身麻醉劑之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調」。「高選擇性及競爭性的非去極化神經肌肉阻斷劑，可作為手術全身麻醉劑之輔助劑或加護病房使用」是 cisatracurium 許可證（如衛署藥輸字第022770號肌弛適注射液）的原文；atracurium 本身的有效許可證是衛署藥製字第042879號「健亞」健舒注射液，已改為其適應症原文（兩者用途相同）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「原適應症／高選擇性及競爭性的非去極化神經肌肉阻斷劑，可作為手術全身麻醉劑之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調」。「高選擇性及競爭性的非去極化神經肌肉阻斷劑，可作為手術全身麻醉劑之輔助劑或加護病房使用」是 cisatracurium 許可證（如衛署藥輸字第022770號肌弛適注射液）的原文；atracurium 本身的有效許可證是衛署藥製字第042879號「健亞」健舒注射液與衛部藥輸字第029182號阿曲庫銨苯磺酸鹽原料藥（骨骼肌鬆弛劑），已改為健舒注射液的適應症原文（兩者用途相同）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end atracurium-histamine-release-row-2026-10-16 -->
 
@@ -128,7 +128,7 @@ TxGNN 模型預測它可能對**子癇前症 (Preeclampsia)** 有效，但目前
 | 2026-10-03 | 子癇前症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：Atracurium Besylate Injection USP 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=de1c2dcd-295b-47ce-b7a1-a8be59939a54) |
 | 2026-10-03 | 許可證表中三張是 cisatracurium 製劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 子癇前症預測重審結果 | 重審：降級，證據等級 L3→L5（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Use of atracurium in pre-eclamptic patients（PMID 3778800）](https://pubmed.ncbi.nlm.nih.gov/3778800/)；[PubMed：Clinical pharmacokinetics of neuromuscular relaxants in pregnancy（PMID 9646009）](https://pubmed.ncbi.nlm.nih.gov/9646009/)；[PubMed：[Remifentanil bolus for cesarean section in high-risk patients: study of 12 cases]（PMID 18383970）](https://pubmed.ncbi.nlm.nih.gov/18383970/) |
-| 2026-10-16 | 原適應症取自 cisatracurium 許可證原文 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 原適應症取自 cisatracurium 許可證原文 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

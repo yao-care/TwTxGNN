@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 | TxGNN 預測分數 | 99.9998% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市（僅複方仍有效） |
-| 許可證數 | 7 張（有效單方 0／有效複方 2／已註銷 5） |
+| 許可證數 | 7 張（有效單方 0／有效複方 1／已過期 1／已註銷 5） |
 | 建議決策 | Hold |
 
 ---
@@ -80,14 +80,16 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Titanium Dioxide 的不重複許可證共 **7 張**：有效單方 0 張、有效複方 2 張、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Titanium Dioxide 的不重複許可證共 **7 張**：有效單方 0 張、有效複方 1 張、已過期 1 張（未註銷但有效日期已過）、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 衛署藥製字第029248號 | 生達綜合感冒膠囊 | NEW COCCINE、DEXTROMETHORPHAN HBR、CHLORPHENIRAMINE MALEATE、TI… | 膠囊劑 | 感冒諸症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、咳嗽、畏寒、發燒、頭痛、關節痛、肌肉痛等）之緩解。 |
-| 衛署藥輸字第012019號 | 欣若維豐膠囊 | RIBOFLAVIN (VIT B2)、WAX WHITE、SOYBEAN OIL ( EQ TO SOYA BEAN… | 膠囊劑 | 營養不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012019號</td><td>欣若維豐膠囊</td><td>RIBOFLAVIN (VIT B2)、WAX WHITE、SOYBEAN OIL ( EQ TO SOYA BEAN…</td><td>2004/12/25</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（5 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第000504號</td><td>二氧化鈦</td><td>TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>2005/06/16</td></tr><tr><td>內衛藥輸字第000977號</td><td>二氧化鈦糊劑</td><td>TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>1986/03/15</td></tr><tr><td>衛署藥製字第036023號</td><td>多維鋅膜衣錠</td><td>PYRIDOXINE HCL、NIACINAMIDE (NICOTINAMIDE)、FOLIC ACID、RIBOFLA…</td><td>2014/05/15</td></tr><tr><td>衛署藥輸字第012421號</td><td>二氧化鈦</td><td>TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>1994/06/27</td></tr><tr><td>衛署藥輸字第019682號</td><td>達帕氏通膠囊</td><td>LEVODOPA、TITANIUM DIOXIDE (EQ TO TITANIUM OXIDE)</td><td>2000/10/20</td></tr></tbody></table></details>

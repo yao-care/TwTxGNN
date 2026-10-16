@@ -14,8 +14,9 @@
   PENICILLIN G PROCAINE 不算 procaine、BUTYLSCOPOLAMINE 不算 scopolamine、
   HYDROCORTISONE 不算 cortisone —— 不同藥。
 
-分類：單方＝主成分只有一項；複方＝多項（依許可證主成分欄，賦形劑若被列入也算）；
-  已註銷＝註銷狀態欄有值。張數＝不重複許可證字號數。
+分類：單方＝主成分只有一項，或每一項都是本藥（同一成分重複登載，2026-10-16 補）；複方＝含其他成分
+  （依許可證主成分欄，賦形劑若被列入也算）；已註銷＝註銷狀態欄有值；已過期＝未註銷但有效日期早於
+  資料集日期（set_as_of()，2026-10-16 補：之前只看註銷欄，過期證被算成有效）。張數＝不重複許可證字號數。
 """
 from __future__ import annotations
 
@@ -48,6 +49,13 @@ def _load_synonym_config() -> tuple[dict, dict]:
 
 
 STEREO = {"L", "D", "DL"}
+AS_OF = ""  # 判斷「已過期」的基準日（YYYY/MM/DD）；由 set_as_of() 設成資料集日期，空字串＝不判斷
+
+
+def set_as_of(date: str) -> None:
+    """以資料集檔案日期判斷過期（不用今天，結果才可重現；gate 依快照比對）。"""
+    global AS_OF
+    AS_OF = (date or "").replace("-", "/")
 SALT_PREFIX = {"SODIUM", "DISODIUM", "POTASSIUM", "MAGNESIUM", "CALCIUM", "ZINC"}
 
 
@@ -133,13 +141,15 @@ def dedupe(records: list[dict]) -> dict[str, dict]:
 def to_license(rec: dict) -> dict:
     ings = ingredients_of(rec)
     cancelled = bool((rec.get("註銷狀態") or "").strip())
+    expiry = (rec.get("有效日期") or "").strip()
+    status = "cancelled" if cancelled else ("expired" if AS_OF and expiry and expiry < AS_OF else "valid")
     return {
         "id": rec["許可證字號"],
         "name_zh": (rec.get("中文品名") or "").strip(),
         "name_en": (rec.get("英文品名") or "").strip(),
         "ingredients": ings,
         "kind": "single" if len(ings) <= 1 else "combo",
-        "status": "cancelled" if cancelled else "valid",
+        "status": status,
         "cancel_date": rec.get("註銷日期") or "",
         "expiry": rec.get("有效日期") or "",
         "form": (rec.get("劑型") or "").strip(),
@@ -187,17 +197,25 @@ def licenses_for_drug(name: str, records: list[dict] | dict[str, dict]) -> list[
             if joined == t or joined.startswith(t + " "):
                 hit.add(lid)
         hit |= tset.get(tuple(sorted(_sing(x) for x in tt if x not in STEREO)), set())
-    out = [to_license(by_id[lid]) for lid in hit]
-    order = {("valid", "single"): 0, ("valid", "combo"): 1}
+    terms = drug_terms(name)
+    out = []
+    for lid in hit:
+        lic = to_license(by_id[lid])
+        if lic["kind"] == "combo" and all(ingredient_matches(i, terms) for i in lic["ingredients"]):
+            lic["kind"] = "single"  # 同一成分重複登載（如 GEMCITABINE;;GEMCITABINE HCL）仍是單方
+        out.append(lic)
+    order = {("valid", "single"): 0, ("valid", "combo"): 1, ("expired", "single"): 2, ("expired", "combo"): 2}
     out.sort(key=lambda x: (order.get((x["status"], x["kind"]), 2), x["id"]))
     return out
 
 
 def summarize(lics: list[dict]) -> dict:
-    s = {"total": len(lics), "valid_single": 0, "valid_combo": 0, "cancelled": 0}
+    s = {"total": len(lics), "valid_single": 0, "valid_combo": 0, "expired": 0, "cancelled": 0}
     for x in lics:
         if x["status"] == "cancelled":
             s["cancelled"] += 1
+        elif x["status"] == "expired":
+            s["expired"] += 1
         elif x["kind"] == "single":
             s["valid_single"] += 1
         else:
@@ -209,8 +227,9 @@ def summarize(lics: list[dict]) -> dict:
 def count_text(s: dict) -> str:
     if s["total"] == 0:
         return "0 張（TFDA 資料集查無主成分相符的許可證）"
+    exp = f"已過期 {s['expired']}／" if s.get("expired") else ""
     return (f"{s['total']} 張（有效單方 {s['valid_single']}／有效複方 {s['valid_combo']}／"
-            f"已註銷 {s['cancelled']}）")
+            f"{exp}已註銷 {s['cancelled']}）")
 
 
 def _cell(s: str, limit: int = 90) -> str:
@@ -225,12 +244,14 @@ def render_block(display_name: str, lics: list[dict], data_date: str) -> str:
     lines.append(
         f"依{SOURCE_LABEL}（檔案日期 {data_date}），主成分含 {display_name} 的不重複許可證共 "
         f"**{s['total']} 張**：有效單方 {s['valid_single']} 張、有效複方 {s['valid_combo']} 張、"
-        f"已註銷 {s['cancelled']} 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。"
+        + (f"已過期 {s['expired']} 張（未註銷但有效日期已過）、" if s.get("expired") else "")
+        + f"已註銷 {s['cancelled']} 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。"
         f"資料來源：[TFDA 開放資料]({SOURCE_URL})。"
     )
     lines.append("")
     singles = [x for x in lics if x["status"] == "valid" and x["kind"] == "single"]
     combos = [x for x in lics if x["status"] == "valid" and x["kind"] == "combo"]
+    expired = [x for x in lics if x["status"] == "expired"]
     cancelled = [x for x in lics if x["status"] == "cancelled"]
     s_head = ["許可證字號", "品名", "劑型", "申請商", "有效日期", "核准適應症"]
     s_rows = [[x["id"], _cell(x["name_zh"], 40), _cell(x["form"], 16), _cell(x["applicant"], 24),
@@ -246,6 +267,10 @@ def render_block(display_name: str, lics: list[dict], data_date: str) -> str:
     if combos:
         lines += _table("有效・複方（適應症屬整個複方，不是本藥單獨的適應症）", c_head, c_rows,
                         fold=len(c_rows) > FOLD_AT)
+    if expired:
+        e_head = ["許可證字號", "品名", "主成分", "有效日期"]
+        e_rows = [[x["id"], _cell(x["name_zh"], 40), _cell("、".join(x["ingredients"]), 60), x["expiry"]] for x in expired]
+        lines += _table("已過期（未註銷但有效日期已過）", e_head, e_rows, fold=True)
     if cancelled:
         lines += _table("已註銷", x_head, x_rows, fold=True)
     if not lics:
@@ -313,3 +338,16 @@ def write_snapshot(drugs: dict, data_date: str, path: Path | None = None) -> Pat
         with gzip.GzipFile(fileobj=fh, mode="wb", mtime=0, filename="") as gz:
             gz.write(raw)
     return p
+
+
+def _default_as_of() -> None:
+    """產線（sync_notes_to_docs／build_docs）沒有傳資料集日期時，沿用快照的日期，與 gate 的快照一致。"""
+    try:
+        d = (load_snapshot().get("meta") or {}).get("data_date")
+    except Exception:
+        d = None
+    if d:
+        set_as_of(d)
+
+
+_default_as_of()

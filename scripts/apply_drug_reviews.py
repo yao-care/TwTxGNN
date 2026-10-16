@@ -288,11 +288,33 @@ def validate(recs):
     return errs
 
 
+def undo_retired(text, recs):
+    """前版做過、現行版本不再做的頁面改寫，先還原成原句（2026-10-16 補）：
+    - 前版是 correct、現行改成 annotate／其他 → 把前版 replacement 換回前版 claim
+    - 前版 rereview_result 有 table_updates、現行拿掉 → 把該儲存格換回原值
+    頁面若是在那次改寫之前的版本（從舊 commit 重套），這裡找不到 replacement，不動。"""
+    for r in recs:
+        for h in r.get("history") or []:
+            if h.get("action") == "correct" and r["action"] != "correct" and h.get("replacement"):
+                j = find_outside(text, h["replacement"])
+                if j >= 0 and find_outside(text, h["claim"]) < 0:
+                    text = text[:j] + h["claim"] + text[j + len(h["replacement"]):]
+            keep = {u["replacement"] for u in r.get("table_updates") or []}
+            for u in h.get("table_updates") or []:
+                if u["replacement"] in keep:
+                    continue
+                j = find_outside(text, u["replacement"])
+                if j >= 0:
+                    text = text[:j] + u["claim"] + text[j + len(u["replacement"]):]
+    return text
+
+
 def render_page(text, recs, problems):
     # 先清掉本頁所有先前產生的區塊，再依序重套；否則 A 紀錄的說明文字裡引用的原句
     # 會被 B 紀錄誤認成頁面原文。
     text = re.sub(r"\n*<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->\n*", "\n\n", text, flags=re.S)
     text = F.fix_table_spacing(text)  # 先補表格前空行，查核框的插入位置才與產線一致
+    text = undo_retired(text, recs)
     # 重審結果標了 resolved_by_regeneration（重審對象是舊版報告、新報告已反映重審意見）就不再顯示框
     results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result" and r.get("status") != RESOLVED}
     retired = {r["resolves"] for r in recs if r["action"] == "rereview_result" and r.get("status") == RESOLVED}

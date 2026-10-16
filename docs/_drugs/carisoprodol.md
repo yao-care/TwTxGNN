@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 | TxGNN 預測分數 | 99.02% |
 | 證據等級 | L4 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 37 張（有效單方 12／有效複方 9／已註銷 16） |
+| 許可證數 | 37 張（有效單方 11／有效複方 9／已過期 1／已註銷 16） |
 | 建議決策 | Hold |
 
 <!-- review:begin carisoprodol-moa-2026-10-03 -->
@@ -91,9 +91,9 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Carisoprodol 的不重複許可證共 **37 張**：有效單方 12 張、有效複方 9 張、已註銷 16 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Carisoprodol 的不重複許可證共 **37 張**：有效單方 11 張、有效複方 9 張、已過期 1 張（未註銷但有效日期已過）、已註銷 16 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（12 張）
+**有效・單方**（11 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -101,7 +101,6 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 | 衛署藥製字第029866號 | 比拉寧膠囊３５０公絲（卡利索普杜） | 膠囊劑 | 黃氏製藥股份有限公司 | 2028/05/25 | 腰背痛、四肢痛、筋硬痛、運動後肌肉痛、五十肩、腳跟痛或筋痙攣、筋硬後帶來之異常緊張之疾患 |
 | 衛署藥製字第050152號 | 健佳力錠 350 毫克 | 錠劑 | 健亞生物科技股份有限公司 | 2029/05/26 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。 |
 | 衛署藥製字第055961號 | 卡力舒錠250毫克 | 錠劑 | 健亞生物科技股份有限公司 | 2031/03/14 | 焦慮緊張症, 經常緊張, 肌炎, 椎間神經痛, 坐骨神經痛, 頸痛, 風濕性關節炎, 骨關節炎, 肌肉僵硬, 肌肉痛. |
-| 衛署藥輸字第024478號 | 卡利索普若多"佛萊明" | （粉） | 仁友興業股份有限公司 | 2026/07/06 | 骨骼肌弛緩劑。 |
 | 衛署藥輸字第025461號 | 卡利索普若多 | （粉） | 新雙隆生技股份有限公司 | 2031/07/18 | 骨骼肌弛緩劑。 |
 | 衛署藥輸字第025611號 | 卡利索普若多 | （粉） | 新雙隆生技股份有限公司 | 2027/01/17 | 骨骼肌弛緩劑 |
 | 衛部藥製字第058030號 | "元宙"肌舒達錠 | 錠劑 | 元宙化學製藥股份有限公司 | 2028/07/31 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。 |
@@ -123,6 +122,9 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 | 衛署藥製字第057404號 | "杏輝"弛筋定錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
 | 衛部藥製字第058048號 | 肌倍康錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
 | 衛部藥製字第060185號 | "應元"舒穩錠 | CARISOPRODOL、CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 頸肩腕症候群、肩關節周圍炎、變形性脊椎症之肌肉鬆弛劑。 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024478號</td><td>卡利索普若多"佛萊明"</td><td>CARISOPRODOL USP "FLEMING"</td><td>2026/07/06</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（16 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000097號</td><td>司吾朗錠</td><td>PHENACETIN (ACETOPHENETIDIN)、CARISOPRODOL、CAFFEINE ANHYDROUS</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第012220號</td><td>"三東"福濕膠囊</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>2018/10/17</td></tr><tr><td>衛署藥製字第018330號</td><td>炎制錠</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第047963號</td><td>"中化合成生技" 卡利索普若多</td><td>CARISOPRODOL</td><td>2015/10/27</td></tr><tr><td>衛署藥製字第057250號</td><td>克力舒錠350毫克</td><td>CARISOPRODOL</td><td>2023/08/08</td></tr><tr><td>衛署藥輸字第000450號</td><td>卡利索普若多</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005066號</td><td>丙基氨基甲酸鹽</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006031號</td><td>Ｎ－異丙基－２－甲基－２－丙基－１，３－丙二醇二氨基甲酸酯</td><td>CARISOPRODOL</td><td>1999/12/02</td></tr><tr><td>衛署藥輸字第006827號</td><td>卡利異普魯杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第008440號</td><td>卡利索普魯道</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第011016號</td><td>科發克痛錠</td><td>CHLORTHENOXAZIN、CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZO…</td><td>1987/08/20</td></tr><tr><td>衛署藥輸字第011891號</td><td>可立舒錠３５０公絲</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第011927號</td><td>卡利異普魯杜粉劑</td><td>CARISOPRODOL</td><td>2022/06/21</td></tr><tr><td>衛署藥輸字第012106號</td><td>佳立舒錠</td><td>CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第012447號</td><td>卡利索普洛杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013763號</td><td>卡力蘇波粉劑</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr></tbody></table></details>

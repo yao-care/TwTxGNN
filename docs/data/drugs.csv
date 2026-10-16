@@ -63,7 +63,7 @@ Cobicistat,cobicistat,L5,3,感染第一型人類免疫缺乏病毒（HIV-1）的
 Cobimetinib,cobimetinib,L5,10,Cotellic 與 vemurafenib 併用於治療 BRAF V600 突變陽性且無法以手術切除或轉移性的黑色素瘤,肌萎縮性側索硬化症 (Amyotrophic Lateral Sclerosis),99.73%,True,Hold,/drugs/cobimetinib/
 Conjugated Estrogens,conjugated_estrogens,L3,10,卵巢機能不全、月經不順、月經困難、機能性子宮出血,偏頭痛 (Migraine Disorder),99.77%,True,Hold,/drugs/conjugated_estrogens/
 Cortisone Acetate,cortisone_acetate,L4,10,腎上腺皮質分泌缺乏症,斑禿 (Alopecia Areata),99.95%,True,Hold,/drugs/cortisone_acetate/
-Cromoglicic Acid,cromoglicic_acid,L5,10,氣喘、過敏性鼻炎、過敏性結膜炎、肥大細胞增生症（來自知識圖譜的適應症關聯，非台灣許可證）,潰瘍性直腸乙狀結腸炎 (Ulcerative Proctosigmoiditis),99.99%,True,Hold,/drugs/cromoglicic_acid/
+Cromoglicic Acid,cromoglicic_acid,L5,10,過敏性結膜炎、過敏性鼻炎（台灣有效單方許可證）；氣喘、肥大細胞增生症為知識圖譜的適應症關聯,潰瘍性直腸乙狀結腸炎 (Ulcerative Proctosigmoiditis),99.99%,True,Hold,/drugs/cromoglicic_acid/
 Cyclandelate,cyclandelate,L2,10,末梢血管循環障礙,偏頭痛 (migraine disorder)；此為證據最完整的預測，TxGNN 排名第 3，排名第 1 為 Prinzmetal 心絞痛,99.69%（偏頭痛）；排名第 1 的 Prinzmetal 心絞痛為 99.80%,True,Proceed with Guardrails,/drugs/cyclandelate/
 Cyclizine,cyclizine,L4,9,預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀,過敏性蕁麻疹 (Allergic Urticaria),99.98%,True,Hold,/drugs/cyclizine/
 Cytarabine,cytarabine,L4,9,急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、衛部藥輸字第028975號）,小細胞肺癌 (Small Cell Lung Carcinoma),99.78%,True,Hold,/drugs/cytarabine/
@@ -89,13 +89,13 @@ Eltrombopag,eltrombopag,L3,1,用於對其他治療（如類固醇、免疫球蛋
 Emedastine,emedastine,L2,2,過敏性結膜炎症狀及徵候的暫時性緩解,過敏性蕁麻疹 (Allergic Urticaria),99.96%,True,Proceed with Guardrails,/drugs/emedastine/
 Enfortumab Vedotin,enfortumab_vedotin,L5,10,單獨使用治療局部晚期或轉移性泌尿道上皮癌（mUC）成人病人：（1）先前接受過 PD-1/PD-L1 抑制劑和含鉑化學治療；或（2）不適合接受含 cisplatin 化學治療，且先前接受過一線以上治療；另可併用 pembrolizumab 治療局部晚期或轉移性泌尿道上皮癌；另與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）,痲瘋病 (Leprosy),99.53%,True,Hold,/drugs/enfortumab_vedotin/
 Erdafitinib,erdafitinib,L5,10,局部晚期或轉移性泌尿道上皮癌（需帶有敏感性 FGFR3 基因變異，且先前全身性療法治療期間或之後惡化）,肺動脈高壓 (Pulmonary Hypertension),99.38%,True,Hold,/drugs/erdafitinib/
-Ergometrine,ergometrine,L4,10,產後出血、子宮血崩、月經過多,"多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向",99.96%（多毛症）；99.93%（偏頭痛）,True,Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護,/drugs/ergometrine/
+Ergometrine,ergometrine,L4,10,產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛（現行有效許可證，如內衛藥製字第009847號、衛署藥製字第029626號）,"多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向",99.96%（多毛症）；99.93%（偏頭痛）,True,Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護,/drugs/ergometrine/
 Etanercept,etanercept,L4,6,對 DMARDs（如 methotrexate）無適當療效之成人活動性類風濕性關節炎；先前未使用 methotrexate 之成人中度至重度活動性類風濕性關節炎；2 歲以上多關節幼年型慢性關節炎；乾癬性關節炎；活動性僵直性脊椎炎；中度至重度乾癬等,類風濕性血管炎 (Rheumatoid Vasculitis),99.71%,True,Hold（僅列為研究問題）,/drugs/etanercept/
 Ethynodiol Diacetate,ethynodiol_diacetate,L3,6,避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）,痤瘡 (Acne),99.57%,True,Hold,/drugs/ethynodiol_diacetate/
 Everolimus,everolimus,L2,10,器官移植抗排斥藥物、治療腎臟癌藥物,脂肪肉瘤 (Liposarcoma),99.88%,True,Hold,/drugs/everolimus/
 Famotidine,famotidine,L3,10,胃潰瘍、十二指腸潰瘍、逆流性食道炎、ZOLLINGER-ELLISON症候群,十二指腸胃逆流 (Duodenogastric Reflux),99.99%,True,Hold,/drugs/famotidine/
 Felodipine,felodipine,L4,7,高血壓、心絞痛,因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia),99.91%,True,Hold,/drugs/felodipine/
-Fenoprofen,fenoprofen,L3,10,鎮痛（有效單方許可證之核准適應症）,僵直性脊椎炎 (Ankylosing Spondylitis),99.94%（模型排名第 1839）,True,Proceed with Guardrails,/drugs/fenoprofen/
+Fenoprofen,fenoprofen,L3,10,鎮痛（有效單方許可證之核准適應症）,僵直性脊椎炎 (Ankylosing Spondylitis),99.94%（本藥預測清單第 10 名；全模型排名第 2006）,True,Proceed with Guardrails,/drugs/fenoprofen/
 Fenoterol,fenoterol,L5,8,下列支氣管痙攣疾患之治療與預防：支氣管氣喘、阻塞性支氣管炎、肺氣腫和伴有支氣管痙攣之肺支氣管障害,多發性系統萎縮症 (Multiple System Atrophy),99.70%,True,Hold,/drugs/fenoterol/
 Ferrous Gluconate,ferrous_gluconate,L5,5,各種鐵缺乏性貧血症,Plummer-Vinson 症候群 (Plummer-Vinson syndrome),99.94%,True,Hold,/drugs/ferrous_gluconate/
 Fidaxomicin,fidaxomicin,L5,10,"困難梭狀桿菌相關腹瀉 (C. difficile-associated diarrhoea, CDAD)",葡萄球菌燙傷樣皮膚症候群 (Staphylococcal Scalded Skin Syndrome),99.71%,True,Hold,/drugs/fidaxomicin/
@@ -208,13 +208,13 @@ Pimozide,pimozide,L4,10,精神病狀態,拔毛症 (Trichotillomania),99.996%,Tru
 Pipemidic Acid,pipemidic_acid,L4,10,抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）,心臟疾病 (Heart disease),99.93%,True,Hold,/drugs/pipemidic_acid/
 Pitavastatin,pitavastatin,L4,10,原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症,同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia),99.996%,True,Hold,/drugs/pitavastatin/
 Pitolisant,pitolisant,L4,3,1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS），這些病人的 EDS 無法透過 CPAP 等 OSA 主要治療方式得到滿意成果或無法耐受。,失眠 (Insomnia),99.71%,True,Hold,/drugs/pitolisant/
-Polyethylene Glycol,polyethylene_glycol,L5,1,成人和八歲及以上兒童便秘的症狀治療（衛署藥輸字第023462號「腹樂疏口服懸液用粉劑」，PEG 4000）,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.03%,True,Hold,/drugs/polyethylene_glycol/
+Polyethylene Glycol,polyethylene_glycol,L5,1,便秘、軟便（PEG／macrogol 單方口服瀉劑，如衛署藥輸字第023462號腹樂疏、衛部藥輸字第027374號沛見清）,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.03%,True,Hold,/drugs/polyethylene_glycol/
 Polyethylene Glycol 400,polyethylene_glycol_400,L5,2,成人和八歲及以上兒童便秘的症狀治療,支氣管炎 (Bronchitis),99.58%,True,Hold,/drugs/polyethylene_glycol_400/
 Polymyxin B,polymyxin_b,L4,3,抗生素（單方許可證僅載明此項）,支氣管炎 (Bronchitis),99.87%,True,Hold,/drugs/polymyxin_b/
 Polysorbate 80,polysorbate_80,L5,1,界面活性劑,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.43%,True,Hold,/drugs/polysorbate_80/
 Posaconazole,posaconazole,L4,1,對 amphotericin B、itraconazole 或 voriconazole 治療無效或不能忍受之成人侵入性麴菌病的第二線用藥；以及高危險病人（造血幹細胞移植後接受高劑量免疫抑制劑治療者、AML 或高危險 MDS 誘導化療後長期嗜中性白血球減少者）侵入性黴菌感染的預防,肺囊蟲病 (Pneumocystosis),99.77%,True,Hold,/drugs/posaconazole/
 Potassium Iodide,potassium_iodide,L4,2,祛痰藥,鼻腔疾病 (Nasal Cavity Disease),99.95%,True,Hold,/drugs/potassium_iodide/
-Povidone,povidone,L5,1,殺菌劑,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.11%,True,Hold,/drugs/povidone/
+Povidone,povidone,L5,1,製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液（povidone 單方許可證，皆已註銷）；殺菌劑是 povidone-iodine 的適應症,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.11%,True,Hold,/drugs/povidone/
 Pralatrexate,pralatrexate,L3,10,治療復發或頑固型周邊 T 細胞淋巴瘤 (PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益,胸膜上皮樣間皮瘤 (Pleural Epithelioid Mesothelioma),99.89%,True,Hold（列為研究問題，暫不推進）,/drugs/pralatrexate/
 Prasugrel,prasugrel,L5,10,需要冠狀動脈介入性治療(PCI)的急性冠狀動脈症候群(ACS；不穩定型心絞痛、非ST段上升之心肌梗塞或ST段上升之心肌梗塞),肺高壓 (Pulmonary Hypertension),99.88%,True,Hold,/drugs/prasugrel/
 Pravastatin,pravastatin,L4,9,血脂調節劑,同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia),99.95%,True,Hold,/drugs/pravastatin/

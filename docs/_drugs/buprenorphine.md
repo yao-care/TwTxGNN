@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 | TxGNN 預測分數 | 99.41% |
 | 證據等級 | L5（僅有模型預測，實質上無支持療效的研究） |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 19 張（有效單方 4／有效複方 5／已註銷 10） |
+| 許可證數 | 19 張（有效單方 3／有效複方 5／已過期 1／已註銷 10） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -70,15 +70,14 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Buprenorphine 的不重複許可證共 **19 張**：有效單方 4 張、有效複方 5 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Buprenorphine 的不重複許可證共 **19 張**：有效單方 3 張、有效複方 5 張、已過期 1 張（未註銷但有效日期已過）、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（4 張）
+**有效・單方**（3 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第049689號 | 比普利注射劑 0.3 毫克/毫升 | 注射劑 | 歐舒邁克有限公司 | 2028/09/30 | 中、重度疼痛。 |
 | 衛署藥製字第050250號 | 解佳 舌下錠8毫克 | 舌下錠 | 美時化學製藥股份有限公司 | 2029/07/22 | 鴉片類物質成癮之替代療法。 |
-| 衛部藥輸字第027727號 | 鹽酸丁基原啡因 | （粉） | 如山藥業有限公司 | 2024/08/21 | 麻醉性鎮痛藥 |
 | 衛部藥輸字第028483號 | 丁基原啡因鹽酸鹽 | （粉） | 恒亞貿易股份有限公司 | 2028/05/22 | 麻醉性鎮痛藥。 |
 
 **有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
@@ -90,6 +89,9 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 | 衛署藥輸字第024952號 | 舒倍生 8 毫克 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
 | 衛部藥製字第058289號 | 解佳益 4/1毫克 舌下錠 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法 |
 | 衛部藥製字第058395號 | 解佳益2/0.5毫克舌下錠 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥輸字第027727號</td><td>鹽酸丁基原啡因</td><td>Buprenorphine Hydrochloride</td><td>2024/08/21</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（10 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第021625號</td><td>丁基原啡因舌下錠０．２毫克</td><td>BUPRENORPHINE (AS HYDROCHLORIDE)</td><td>2024/01/03</td></tr><tr><td>衛署藥輸字第021626號</td><td>丁基原啡因注射液０．３毫克/毫升</td><td>BUPRENORPHINE HYDROCHLORIDE</td><td>2023/12/26</td></tr><tr><td>衛署藥輸字第024949號</td><td>速百騰 2 毫克</td><td>BUPRENORPHINE HYDROCHLORIDE</td><td>2021/11/12</td></tr><tr><td>衛署藥輸字第024950號</td><td>速百騰 8 毫克</td><td>BUPRENORPHINE HYDROCHLORIDE</td><td>2021/11/12</td></tr><tr><td>衛部藥輸字第026280號</td><td>舒免疼穿皮貼片劑5微公克/小時</td><td>BUPRENORPHINE</td><td>2022/01/27</td></tr><tr><td>衛部藥輸字第026281號</td><td>舒免疼穿皮貼片劑10微公克/小時</td><td>BUPRENORPHINE</td><td>2022/01/28</td></tr><tr><td>衛部藥輸字第026282號</td><td>舒免疼穿皮貼片劑20微公克/小時</td><td>BUPRENORPHINE</td><td>2022/01/27</td></tr><tr><td>衛部藥輸字第026740號</td><td>鹽酸丁基原啡因</td><td>Buprenorphine HCL</td><td>2023/06/16</td></tr><tr><td>衛部藥輸字第026935號</td><td>全克痛穿皮貼片劑35微克/小時</td><td>BUPRENORPHINE</td><td>2023/09/07</td></tr><tr><td>衛部藥輸字第026936號</td><td>全克痛穿皮貼片劑52.5微克/小時</td><td>BUPRENORPHINE</td><td>2023/08/21</td></tr></tbody></table></details>
@@ -128,7 +130,7 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 |---------|------|------|------|
 | 2026-10-03 | 「速必治舌下錠 (含 naloxone)」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「舒免疼貼片」許可證已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L4）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

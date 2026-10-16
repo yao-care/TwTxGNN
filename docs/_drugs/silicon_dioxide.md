@@ -33,7 +33,7 @@ indication_count: 4
 
 <!-- review:begin silicon_dioxide-antacid-combo-title-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「# 二氧化矽 (Silicon dioxide)：從祛痰與制酸輔助用途到活動性消化性潰瘍」。TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的是息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的是維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的是與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「# 二氧化矽 (Silicon dioxide)：從祛痰與制酸輔助用途到活動性消化性潰瘍」。TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end silicon_dioxide-antacid-combo-title-2026-10-16 -->
 
@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 <!-- review:begin silicon_dioxide-antacid-combo-summary-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「原本涉及祛痰、胃酸過多與鼓腸等用途。」。TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的是息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的是維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的是與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「原本涉及祛痰、胃酸過多與鼓腸等用途。」。TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end silicon_dioxide-antacid-combo-summary-2026-10-16 -->
 
@@ -58,12 +58,12 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 | TxGNN 預測分數 | 99.93% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市（僅 1 張有效複方許可證） |
-| 許可證數 | 20 張（有效單方 0／有效複方 1／已註銷 19） |
+| 許可證數 | 20 張（有效單方 0／有效複方 0／已過期 1／已註銷 19） |
 | 建議決策 | Hold |
 
 <!-- review:begin silicon_dioxide-antacid-combo-row-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「原適應症／氣體吸著劑、賦形劑、維生素（單方許可證皆已註銷；現行有效者為制酸劑複方）」。TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的是息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的是維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的是與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「原適應症／氣體吸著劑、賦形劑、維生素（單方許可證皆已註銷；現行有效者為制酸劑複方）」。TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end silicon_dioxide-antacid-combo-row-2026-10-16 -->
 
@@ -73,7 +73,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 <!-- review:begin silicon_dioxide-antacid-combo-why-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的是息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的是維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的是與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end silicon_dioxide-antacid-combo-why-2026-10-16 -->
 
@@ -95,13 +95,10 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Silicon Dioxide 的不重複許可證共 **20 張**：有效單方 0 張、有效複方 1 張、已註銷 19 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Silicon Dioxide 的不重複許可證共 **20 張**：有效單方 0 張、有效複方 0 張、已過期 1 張（未註銷但有效日期已過）、已註銷 19 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
-
-| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
-|------|------|------|------|------|
-| 衛署藥輸字第024482號 | 二矽酸鋁鎂 | ALUMINUM OXIDE (ALUMINA)、ALUMINUM MAGNESIUM SILICATE、SILICON… | （粉） | 制酸劑。 |
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024482號</td><td>二矽酸鋁鎂</td><td>ALUMINUM OXIDE (ALUMINA)、ALUMINUM MAGNESIUM SILICATE、SILICON…</td><td>2026/07/07</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（19 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第023669號</td><td>美爾胃膠囊（斯比樂）”大同”　　　　　　　　　　　　　　　　 S</td><td>SULPIRIDE、SILICON DIOXIDE (SILICA GEL)</td><td>1989/11/28</td></tr><tr><td>衛署藥製字第029865號</td><td>佳樂心膠囊２００公絲（歐轉惠寧）</td><td>OXTRIPHYLLINE、SILICON DIOXIDE (SILICA GEL)</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第030558號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>SILICON DIOXIDE (SILICA GEL)、MECYSTEINE HCL (CYSTEINE L- MET…</td><td>1990/12/14</td></tr><tr><td>衛署藥製字第033025號</td><td>息速坦腸溶糖衣錠１００公絲（西士恩）</td><td>SILICON DIOXIDE (SILICA GEL)、MECYSTEINE HCL (CYSTEINE L- MET…</td><td>1998/08/17</td></tr><tr><td>衛署藥製字第036028號</td><td>喜滿佳靈－愛（矽酸鎂鋁）</td><td>SILICON DIOXIDE (SILICA GEL)、ALUMINUM OXIDE (ALUMINA)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥製字第036030號</td><td>喜滿佳靈（偏矽酸鎂鋁）</td><td>ALUMINUM OXIDE (ALUMINA)、SILICON DIOXIDE (SILICA GEL)、MAGNES…</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第002867號</td><td>製錠輔助劑Ｔ型</td><td>CARMELLOSE (CARBOXYMETHYLCELLULOSE)、CELLULOSE、SILICON DIOXID…</td><td>1986/01/16</td></tr><tr><td>衛署藥輸字第002868號</td><td>製錠輔助劑克型</td><td>CARMELLOSE (CARBOXYMETHYLCELLULOSE)、STARCH、CELLULOSE、MAGNESI…</td><td>1986/06/03</td></tr><tr><td>衛署藥輸字第006893號</td><td>矽酸</td><td>SILICON DIOXIDE (SILICA GEL)</td><td>1992/07/09</td></tr><tr><td>衛署藥輸字第011812號</td><td>適胃爽錠</td><td>MAGNESIUM TRISILICATE、MAGNESIUM HYDROXIDE、CALCIUM CARBONATE…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第012366號</td><td>矽凝膠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第013408號</td><td>利護腸錠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)、SIMETHICONE (ACT…</td><td>1988/03/12</td></tr><tr><td>衛署藥輸字第013587號</td><td>舒汝胃凝膠</td><td>CARMELLOSE SODIUM (CMC SOD.)(CELLULOSE GUM SOD.)、CALCIUM CAR…</td><td>1991/11/26</td></tr><tr><td>衛署藥輸字第014632號</td><td>製錠輔助劑Ｄ型</td><td>SILICON DIOXIDE (SILICA GEL)、CARMELLOSE (CARBOXYMETHYLCELLUL…</td><td>1990/06/23</td></tr><tr><td>衛署藥輸字第016328號</td><td>利護腸錠</td><td>SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILICA)、SIMETHICONE (ACT…</td><td>1990/07/04</td></tr><tr><td>衛署藥輸字第017858號</td><td>利護腸錠</td><td>CALCIUM ARACHINATE、SILICON DIOXIDE COLLOIDAL(COLLOIDAL SILIC…</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017958號</td><td>製錠輔助劑Ｄ型</td><td>CELLULOSE、SILICON DIOXIDE (SILICA GEL)、MAGNESIUM STEARATE (E…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018615號</td><td>"富田" 二矽酸鋁鎂</td><td>ALUMINUM MAGNESIUM SILICATE、SILICON DIOXIDE (SILICA GEL)、ALU…</td><td>2017/04/12</td></tr><tr><td>衛署藥輸字第022252號</td><td>高品安利納華陀錠</td><td>DEHYDROACETATE SODIUM、RIBOFLAVIN (VIT B2)、CALCIUM CARBONATE…</td><td>2010/09/21</td></tr></tbody></table></details>
@@ -127,7 +124,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 <!-- review:begin silicon_dioxide-antacid-combo-conclusion-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的是息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的是維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的是與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，二氧化矽單方許可證只有衛署藥輸字第006893號「矽酸」（賦形劑）與第012366號「矽凝膠」（氣體吸著劑），皆已註銷。含二氧化矽的複方中，寫祛痰的如息速坦腸溶糖衣錠（衛署藥製字第030558號、第033025號，與 mecysteine 的複方，皆已註銷），寫營養補給的如維生素礦物質複方（衛署藥輸字第022252號，已註銷），寫制酸劑的如與氧化鋁、矽酸鎂鋁的複方「二矽酸鋁鎂」（衛署藥輸字第024482號，有效期至 2026-07-07，已過期）。二氧化矽本身不是制酸或祛痰成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end silicon_dioxide-antacid-combo-conclusion-2026-10-16 -->
 
@@ -150,8 +147,8 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 | 2026-10-16 | 原適應症列入「維生素」 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題以祛痰與制酸為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結稱原本涉及祛痰、胃酸過多 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由稱胃酸過多已有許可證適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 結論稱二氧化矽可緩解酸相關症狀 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱胃酸過多已有許可證適應症 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱二氧化矽可緩解酸相關症狀 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

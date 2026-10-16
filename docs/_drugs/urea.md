@@ -106,15 +106,17 @@ Urea (尿素) 是一種滲透性利尿劑和角質溶解劑，目前 TxGNN 預�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Urea 的不重複許可證共 **80 張**：有效單方 16 張、有效複方 29 張、已註銷 35 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Urea 的不重複許可證共 **80 張**：有效單方 18 張、有效複方 24 張、已過期 3 張（未註銷但有效日期已過）、已註銷 35 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（16 張）
+**有效・單方**（18 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
+| 衛署藥製字第020892號 | "杏輝" 杏化乳膏 | 乳膏劑 | 杏輝藥品工業股份有限公司 | 2029/05/25 | 去角質 |
 | 衛署藥製字第027289號 | 允消優膚乳膏 | 乳膏劑 | 永信藥品工業股份有限公司 | 2029/07/21 | 去角質 |
 | 衛署藥製字第032481號 | 優親水軟膏１５０公絲/公克（尿素） | 軟膏劑 | 美西製藥有限公司 | 2030/03/21 | 可溶解角質、使乾裂魚鱗化等表皮軟化、防止乾裂 |
 | 衛署藥製字第034533號 | "衛達"潤膚舒乳膏１０％ | 乳膏劑 | 衛達化學製藥股份有限公司 | 2031/11/06 | 去角質 |
+| 衛署藥製字第041315號 | "壽元"膚優乳膏１００毫克（脲） | 乳膏劑 | 壽元化學工業股份有限公司 | 2027/05/22 | 去角質。 |
 | 衛署藥製字第042451號 | 膚蓉蜜去角質凝膠１０％ | 外用凝膠劑 | 中美兄弟製藥股份有限公司 | 2028/07/21 | 去角質。 |
 | 衛署藥製字第047432號 | 歐婷嫩滋乳膏40% | 乳膏劑 | 永信藥品工業股份有限公司 | 2030/07/13 | 去角質。 |
 | 衛署藥製字第048177號 | "元宙" 雅細雅乳膏 | 乳膏劑 | 元宙化學製藥股份有限公司 | 2031/08/18 | 去角質。 |
@@ -129,7 +131,7 @@ Urea (尿素) 是一種滲透性利尿劑和角質溶解劑，目前 TxGNN 預�
 | 衛部藥輸字第027094號 | 脲 | （粉） | 台灣默克股份有限公司 | 2027/03/20 | 利尿藥 |
 | 衛部藥輸字第R00111號 | [碳-13]脲 | （粉） | 台灣默克股份有限公司 | 2031/05/13 | 幽門螺旋桿菌感染檢查 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（29 張）
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（24 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -137,8 +139,6 @@ Urea (尿素) 是一種滲透性利尿劑和角質溶解劑，目前 TxGNN 預�
 | 衛署藥製字第013105號 | 優皮爽水溶性軟膏 | HYDROCORTISONE ACETATE、UREA | 軟膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
 | 衛署藥製字第014096號 | 優汝膚水溶性乳膏 | UREA、HYDROCORTISONE ACETATE | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
 | 衛署藥製字第019614號 | "杏輝" 杏化潤柔滋霜 | UREA、HYDROCORTISONE ACETATE | 霜劑 | 暫時緩解濕疹、蚊蟲咬傷、皮膚炎、皮膚搔癢等疾患的症狀。 |
-| 衛署藥製字第020892號 | "杏輝" 杏化乳膏 | UREA、UREA | 乳膏劑 | 去角質 |
-| 衛署藥製字第023018號 | "恆安"陶美乳膏 | HYDROCORTISONE ACETATE、UREA | 乳膏劑 | 濕疹或皮膚炎及去角質。 |
 | 衛署藥製字第025573號 | "嘉林"潤膚乳膏 | HYDROCORTISONE ACETATE、UREA | 乳膏劑 | 濕疹或皮膚炎 |
 | 衛署藥製字第027386號 | 富貴爽乳膏 | UREA、HYDROCORTISONE ACETATE | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。(Urea作用:可暫時緩解皮膚刺激或角質軟化) |
 | 衛署藥製字第027699號 | 麗膚容乳膏 | UREA、HYDROCORTISONE | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
@@ -146,7 +146,6 @@ Urea (尿素) 是一種滲透性利尿劑和角質溶解劑，目前 TxGNN 預�
 | 衛署藥製字第033377號 | 優膚松乳膏 | HYDROCORTISONE、UREA | 乳膏劑 | 濕疹或皮膚炎、去角質。 |
 | 衛署藥製字第033967號 | "明德" 欣保潤乳膏 | UREA、UREA、HYDROCORTISONE、HYDROCORTISONE | 乳膏劑 | 暫時緩解尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
 | 衛署藥製字第036582號 | 富麗康乳膏 | UREA、HYDROCORTISONE ACETATE | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患症狀。 |
-| 衛署藥製字第041315號 | "壽元"膚優乳膏１００毫克（脲） | UREA、UREA、UREA | 乳膏劑 | 去角質。 |
 | 衛署藥製字第041801號 | "生達" 優樂乳膏 | UREA、HYDROCORTISONE ACETATE | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
 | 衛署藥製字第041984號 | 優利爽乳膏 | HYDROCORTISONE ACETATE、UREA | 乳膏劑 | 溼疹、皮膚炎、去角質。 |
 | 衛署藥製字第042245號 | "中美"呼呼止癢消炎液 | DIBUCAINE、DIBUCAINE、DIBUCAINE、FLUOCINOLONE ACETONIDE、FLUOCIN… | 外用液劑 | 濕疹或皮膚炎，昆蟲咬傷或皮膚刺激所引起之疼痛及搔癢，暫時緩解皮膚搔癢，去角質。 |
@@ -159,9 +158,10 @@ Urea (尿素) 是一種滲透性利尿劑和角質溶解劑，目前 TxGNN 預�
 | 衛署藥製字第043936號 | 勇膚乳膏 | DIBUCAINE、DIPHENHYDRAMINE HCL、FLUOCINOLONE ACETONIDE、UREA | 乳膏劑 | 暫時緩解昆蟲咬傷或皮膚刺激所引起之疼痛及搔癢、濕疹、去角質。 |
 | 衛署藥製字第044077號 | 玉麗乳膏〝溫士頓〞 | HYDROCORTISONE ACETATE、UREA | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
 | 衛署藥製字第044377號 | 〝救人〞去癢乳膏 | BETAMETHASONE VALERATE、DIPHENHYDRAMINE HCL、DIBUCAINE、UREA | 乳膏劑 | 暫時緩解皮膚搔癢、濕疹、皮膚炎、昆蟲咬傷或皮膚刺激所引起之疼痛及搔癢、去角質。 |
-| 衛署藥製字第046752號 | 雪美乳膏 | UREA、HYDROCORTISONE ACETATE | 乳膏劑 | 溼疹或皮膚炎、去角質。 |
 | 衛署藥製字第048449號 | 膚史固乳膏 | HYDROCORTISONE ACETATE、UREA | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀 |
-| 衛部藥製字第059264號 | 柔緹淨乳膏 | HYDROCORTISONE ACETATE、UREA | 乳膏劑 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀。 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（3 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第023018號</td><td>"恆安"陶美乳膏</td><td>HYDROCORTISONE ACETATE、UREA</td><td>2024/05/25</td></tr><tr><td>衛署藥製字第046752號</td><td>雪美乳膏</td><td>UREA、HYDROCORTISONE ACETATE</td><td>2024/12/28</td></tr><tr><td>衛部藥製字第059264號</td><td>柔緹淨乳膏</td><td>HYDROCORTISONE ACETATE、UREA</td><td>2026/08/25</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（35 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛成製字第000494號</td><td>阿克利諾兒錠０．１克</td><td>UREA、ETHACRIDINE LACTATE MONOHYDRATE (ACRINOL)</td><td>1988/12/31</td></tr><tr><td>內衛成製字第003807號</td><td>阿克利諾兒錠（外用）”人生”　　　　　　　　　　　　　　　　 A</td><td>UREA、ETHACRIDINE LACTATE MONOHYDRATE (ACRINOL)</td><td>1989/08/17</td></tr><tr><td>內衛藥製字第007107號</td><td>麥那鈣－Ｈ注射液</td><td>UREA、CHLORPHENIRAMINE MALEATE、THIAMINE (VITAMIN B1)、CALCIUM…</td><td>1997/12/22</td></tr><tr><td>內衛藥製字第007131號</td><td>維他命Ｂ複合注射液</td><td>THIAMINE (VITAMIN B1)、UREA、TAURINE (EQ TO 2-AMINOETHANE SULF…</td><td>1991/06/05</td></tr><tr><td>內衛藥輸字第003309號</td><td>德米安軟膏</td><td>SULFISOMIDINE、SODIUM OXYMETHANE SULFONATE、UREA</td><td>2005/06/16</td></tr><tr><td>衛署菌疫輸字第000234號</td><td>肝保定康ＡＮＴＩ－ＨＡＶ　ＩＧＭ</td><td>UREA PEROXIDASE、HEPATITIS A, ANTIGEN、SERUM, HUMAN NORMAL、PHO…</td><td>2006/09/08</td></tr><tr><td>衛署菌疫輸字第000236號</td><td>肝保定康ＨＢＳＡＧ單株抗體</td><td>UREA PEROXIDASE、HEPATITIS B, ANTIBODY, SURFACE, PEROXIDASE、H…</td><td>2006/09/08</td></tr><tr><td>衛署菌疫輸字第000237號</td><td>肝保定康ＨＢＥＡＧ/ＡＮＴＩ－ＨＢＥ</td><td>HEPATITIS B, ANTIBODY, E, PEROXIDASE、SERUM, HBEAG、SERUM, HUM…</td><td>2006/09/08</td></tr><tr><td>衛署菌疫輸字第000238號</td><td>肝保定康ＡＮＴＩ－ＨＢＣ　ＩＧＭ</td><td>SERUM, ANTIBODY, HUMAN IGG、TETRAMETHYLBENZIDINE(TMB)、SERUM,…</td><td>2006/09/08</td></tr><tr><td>衛署菌疫輸字第000239號</td><td>肝保康ＡＮＴＩ－ＨＢＣ</td><td>HEPATITIS B, ANTIBODY, CORE, PEROXIDASE、UREA PEROXIDASE、SERU…</td><td>2006/09/08</td></tr><tr><td>衛署菌疫輸字第000241號</td><td>肝保定康ＨＡＶ</td><td>O-PHENYLENEDIAMINE 2HCL (OPD)、SERUM, ANTI-HAV、SERUM, ANTI-HA…</td><td>2006/08/23</td></tr><tr><td>衛署藥製字第021398號</td><td>優利爽乳膏　〝久保〞</td><td>UREA、HYDROCORTISONE ACETATE</td><td>1998/07/24</td></tr><tr><td>衛署藥製字第027553號</td><td>安寧膚乳膏</td><td>UREA</td><td>2016/09/10</td></tr><tr><td>衛署藥製字第030773號</td><td>優親水軟膏１５０公絲/公克（尿素）</td><td>UREA</td><td>1990/07/31</td></tr><tr><td>衛署藥製字第033455號</td><td>希膚麗液２０％</td><td>UREA</td><td>2016/09/08</td></tr><tr><td>衛署藥製字第033472號</td><td>"優生"優您雅乳膏</td><td>UREA、HYDROCORTISONE ACETATE</td><td>2019/10/15</td></tr><tr><td>衛署藥製字第037655號</td><td>愛尼乳膏</td><td>HYDROCORTISONE、UREA</td><td>2015/08/18</td></tr><tr><td>衛署藥製字第048332號</td><td>蜜娜思去角質乳膏</td><td>UREA、HYDROCORTISONE ACETATE</td><td>2016/12/20</td></tr><tr><td>衛署藥製字第055053號</td><td>“大豐”優綺乳膏</td><td>UREA、HYDROCORTISONE ACETATE</td><td>2023/07/03</td></tr><tr><td>衛署藥輸字第004255號</td><td>擦而康水溶性軟膏</td><td>UREA、HYDROCORTISONE</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第005249號</td><td>抹舒藥膏</td><td>UREA PEROXIDE、OXYQUINOLINE SULFATE、AMINACRINE、ALLANTOIN、PYRU…</td><td>1987/04/23</td></tr><tr><td>衛署藥輸字第006403號</td><td>勞克寧－必注射液</td><td>MEPRYLCAINE HCL、UREA、ACETYLCHOLINE CHLORIDE、CYSTINE L-</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第008205號</td><td>肝保得佳診斷試劑</td><td>SERUM, HBSAG、BUFFER SOLUTION、UREA PEROXIDASE、SERUM, HUMAN NO…</td><td>1988/09/23</td></tr><tr><td>衛署藥輸字第009019號</td><td>帝拔癲液</td><td>UREA、VALPROATE SODIUM</td><td>1986/06/17</td></tr><tr><td>衛署藥輸字第009099號</td><td>愛耳液</td><td>DIPHENHYDRAMINE HCL、CHLORPHENESIN、CHLOROBUTANOL (TRICHLORISO…</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第009690號</td><td>益皮能軟膏</td><td>ZINC OXIDE、UREA、COD LIVER OIL、MAFENIDE (HOMOSULFAMINE)、BUTYL…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第009958號</td><td>施滅炎軟膏</td><td>TRYPSIN、UREA、NEOMYCIN (SULFATE)、HYDROCORTISONE ACETATE</td><td>1999/09/28</td></tr><tr><td>衛署藥輸字第011005號</td><td>尿素粉劑</td><td>UREA</td><td>1990/06/23</td></tr><tr><td>衛署藥輸字第017963號</td><td>尿素粉劑</td><td>UREA</td><td>2016/05/31</td></tr><tr><td>衛署藥輸字第022162號</td><td>膚樂斯乳劑10%</td><td>UREA</td><td>2019/03/15</td></tr><tr><td>衛署藥輸字第022163號</td><td>膚樂斯乳膏１０％</td><td>UREA</td><td>2019/03/15</td></tr><tr><td>衛署藥輸字第022213號</td><td>優麗膏乳膏</td><td>UREA</td><td>2004/05/17</td></tr><tr><td>衛署藥輸字第022758號</td><td>使你康乳膏１０％</td><td>UREA</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第023268號</td><td>金亮軟膏</td><td>HYDROCORTISONE ACETATE、ZINC OXIDE、UREA、LIDOCAINE</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第024814號</td><td>德佑黴克舒軟膏</td><td>GLYCYRRHETIC ACID (EQ TO GLYCYRRHETINIC ACID)、ECONAZOLE NITR…</td><td>2024/05/09</td></tr></tbody></table></details>

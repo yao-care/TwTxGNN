@@ -41,12 +41,12 @@ TxGNN 模型預測它可能對**潰瘍性直腸乙狀結腸炎 (Ulcerative Proct
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 氣喘、過敏性鼻炎、過敏性結膜炎、肥大細胞增生症（來自知識圖譜的適應症關聯，非台灣許可證） |
+| 原適應症 | 過敏性結膜炎、過敏性鼻炎（台灣有效單方許可證）；氣喘、肥大細胞增生症為知識圖譜的適應症關聯 |
 | 預測新適應症 | 潰瘍性直腸乙狀結腸炎 (Ulcerative Proctosigmoiditis) |
 | TxGNN 預測分數 | 99.99% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 46 張（有效單方 14／有效複方 0／已註銷 32） |
+| 許可證數 | 46 張（有效單方 13／有效複方 0／已過期 1／已註銷 32） |
 | 建議決策 | Hold |
 
 <!-- review:begin cromoglicic-acid-tw-marketed-2026-10-03 -->
@@ -54,6 +54,12 @@ TxGNN 模型預測它可能對**潰瘍性直腸乙狀結腸炎 (Ulcerative Proct
 > **查核更正（2026-10-03）**：原寫「台灣上市／✗ 未上市」。台灣有主成分為色甘酸鈉的有效許可證，屬已上市。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end cromoglicic-acid-tw-marketed-2026-10-03 -->
+
+<!-- review:begin cromoglicic-acid-original-indication-row-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「原適應症／氣喘、過敏性鼻炎、過敏性結膜炎、肥大細胞增生症（來自知識圖譜的適應症關聯，非台灣許可證）」。TFDA 許可證資料中，cromolyn sodium（sodium cromoglicate）有效單方許可證核准的是過敏性結膜炎（點眼液，如衛署藥製字第049351號、衛部藥製字第059380號）與過敏性鼻炎（鼻用噴液，如衛署藥輸字第021824號）；氣喘、肥大細胞增生症不在台灣有效許可證的適應症內。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cromoglicic-acid-original-indication-row-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -89,9 +95,9 @@ TxGNN 另預測了多個適應症，整體證據同樣停留在模型預測階�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cromoglicic Acid 的不重複許可證共 **46 張**：有效單方 14 張、有效複方 0 張、已註銷 32 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cromoglicic Acid 的不重複許可證共 **46 張**：有效單方 13 張、有效複方 0 張、已過期 1 張（未註銷但有效日期已過）、已註銷 32 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（14 張）
+**有效・單方**（13 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -101,7 +107,6 @@ TxGNN 另預測了多個適應症，整體證據同樣停留在模型預測階�
 | 衛署藥製字第047990號 | 樂舒敏點眼液 | 點眼液劑 | 溫士頓醫藥股份有限公司 | 2031/05/23 | 過敏性結膜炎。 |
 | 衛署藥製字第048900號 | “麥迪森”麥敏眼藥水 2% | 點眼液劑 | 麥迪森醫藥股份有限公司 | 2027/07/19 | 過敏性結膜炎。 |
 | 衛署藥製字第049351號 | “派頓”克樂敏眼藥水 2% | 點眼液劑 | 臺灣派頓化學製藥股份有限公司 | 2028/03/31 | 過敏性結膜炎。 |
-| 衛署藥製字第051028號 | 舒治敏鼻用噴液劑 | 點鼻液劑 | 廣欣藥品股份有限公司 | 2024/09/18 | 急性鼻炎、過敏性鼻炎、鼻竇炎、鼻咽炎。 |
 | 衛署藥製字第057329號 | "杏輝"眸朗明眼藥水 | 點眼液劑 | 杏輝藥品工業股份有限公司 | 2027/08/15 | 過敏性結膜炎。 |
 | 衛署藥輸字第020121號 | 唯敏準眼用液劑 | 點眼液劑 | 武昌貿易有限公司 | 2028/10/07 | 暫時緩解已經醫師診斷之過敏性結膜炎、枯草熱所引起的相關症狀(流淚、搔癢、充血)。 |
 | 衛署藥輸字第021824號 | 艾麗鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ | 鼻用噴液劑 | 吉富貿易有限公司 | 2027/07/24 | 過敏性鼻炎 |
@@ -109,6 +114,9 @@ TxGNN 另預測了多個適應症，整體證據同樣停留在模型預測階�
 | 衛署藥輸字第025831號 | 果莫喘鈉 | （粉） | 新雙隆生技股份有限公司 | 2027/10/04 | 支氣管擴張劑 |
 | 衛部藥製字第059380號 | 舒敏眼藥水2% | 點眼液劑 | 健喬信元醫藥生技股份有限公司 | 2026/11/15 | 過敏性結膜炎。 |
 | 衛部藥輸字第029058號 | 色甘酸鈉鹽 | （粉） | 商鶴藥品有限公司 | 2030/11/03 | 過敏症用藥 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第051028號</td><td>舒治敏鼻用噴液劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2024/09/18</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（32 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第013937號</td><td>可樂得利噴鼻液</td><td>CROMOLYN</td><td>1997/04/08</td></tr><tr><td>衛署藥製字第040642號</td><td>優鼻噴鼻液（可樂得利）</td><td>CROMOLYN</td><td>2015/06/29</td></tr><tr><td>衛署藥製字第043819號</td><td>"瑞安" 睛爽達點眼液４０公絲/公撮</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2017/02/06</td></tr><tr><td>衛署藥輸字第001244號</td><td>可樂得利二鈉鹽</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>1991/08/19</td></tr><tr><td>衛署藥輸字第001654號</td><td>咽達永樂膠囊</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>1984/12/31</td></tr><tr><td>衛署藥輸字第004554號</td><td>弗喘膠囊吸入劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>1987/03/27</td></tr><tr><td>衛署藥輸字第006109號</td><td>弗喘複合膠囊</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第006802號</td><td>果莫喘鈉</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第013242號</td><td>咽達永樂吸入用膠囊劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第016115號</td><td>敏鼻速樂噴鼻液</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第016116號</td><td>敏眼速樂點眼液</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第016829號</td><td>喘可免吸入用膠囊</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第017027號</td><td>果莫喘鈉</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017129號</td><td>可樂得利二鈉鹽</td><td>CROMOLYN</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第017522號</td><td>維眼康眼藥水</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第018628號</td><td>咽達永樂吸入劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第018783號</td><td>可舒噴鼻劑</td><td>CROMOLYN SODIUM MONOHYDRATE</td><td>2018/03/15</td></tr><tr><td>衛署藥輸字第018908號</td><td>果莫喘鈉</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第019076號</td><td>可舒眼藥水</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2008/07/16</td></tr><tr><td>衛署藥輸字第019270號</td><td>果莫喘鈉</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第019410號</td><td>艾麗點眼液</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2019/03/28</td></tr><tr><td>衛署藥輸字第020344號</td><td>諾視朗鼻用噴液劑２．６ＭＧ/ＤＯＳＥ</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2004/09/22</td></tr><tr><td>衛署藥輸字第020546號</td><td>克喘乾粉吸入用膠囊劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第020632號</td><td>微微準鼻用噴液劑</td><td>CROMOLYN</td><td>2016/06/01</td></tr><tr><td>衛署藥輸字第021066號</td><td>諾目朗點眼液</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2004/09/22</td></tr><tr><td>衛署藥輸字第021402號</td><td>平克癒吸入劑５ＭＧ﹨ＤＯＳＥ</td><td>CROMOLYN</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第022224號</td><td>克視敏點眼液２％</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2016/05/31</td></tr><tr><td>衛署藥輸字第022275號</td><td>克視敏點眼液４％</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2016/05/31</td></tr><tr><td>衛署藥輸字第022341號</td><td>鼻恩通鼻用噴液劑２．８ＭＧ/ＳＰＲＡＹ</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第022922號</td><td>克鼻敏２％鼻用噴液劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2013/01/08</td></tr><tr><td>衛署藥輸字第023115號</td><td>克鼻敏４％鼻用噴液劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2017/06/05</td></tr><tr><td>衛署藥輸字第024572號</td><td>悅鼻康鼻用噴液劑</td><td>CROMOLYN SODIUM (EQ TO SODIUM CROMOGLICATE)(EQ TO SODIUM CRO…</td><td>2018/02/12</td></tr></tbody></table></details>
@@ -160,6 +168,7 @@ TxGNN 另預測了多個適應症，整體證據同樣停留在模型預測階�
 | 2026-10-03 | 「在台灣目前無任何藥品許可證，屬未上市藥物」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 下一步「目前 0 張許可證」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱台灣目前無上市許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 原適應症列氣喘、肥大細胞增生症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

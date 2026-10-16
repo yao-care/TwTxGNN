@@ -56,11 +56,17 @@ TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測�
 |------|------|
 | 原適應症 | 鎮痛（有效單方許可證之核准適應症） |
 | 預測新適應症 | 僵直性脊椎炎 (Ankylosing Spondylitis) |
-| TxGNN 預測分數 | 99.94%（模型排名第 1839） |
+| TxGNN 預測分數 | 99.94%（本藥預測清單第 10 名；全模型排名第 2006） |
 | 證據等級 | L3 |
 | 台灣上市 | ✓ 已上市 |
 | 許可證數 | 10 張（有效單方 2／有效複方 0／已註銷 8） |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin fenoprofen-why-as-premise-rank-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「TxGNN 預測分數／99.94%（模型排名第 1839）」。依本站 TxGNN 深度學習預測檔（data/processed/txgnn_dl_predictions.csv.gz，2026-10-12），fenoprofen 對 ankylosing spondylitis 的分數 0.9994、全模型排名第 2006；在本藥報告採用的預測清單中排第 10。依據：[TwTxGNN TxGNN 深度學習預測檔（txgnn_dl_predictions.csv.gz，2026-10-12）](https://github.com/yao-care/TwTxGNN)。
+
+<!-- review:end fenoprofen-why-as-premise-rank-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -161,10 +167,11 @@ TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測�
 |---------|------|------|------|
 | 2026-10-03 | 原核准適應症取自已註銷許可證 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為有效許可證的「鎮痛」；標題、一句話總結、預測理由與結論仍把已註銷許可證的關節炎適應症當原用途，另以 fenoprofen-why-as-premise 系列紀錄處理；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「部分原核准適應症已包含關節強硬性脊椎炎」 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L3，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 標題以風濕性關節炎為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結把已註銷許可證的適應症寫成原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱與既有核准適應症（關節強硬性脊椎炎）重疊 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 模型排名寫第 1839 | 更正 | [TwTxGNN TxGNN 深度學習預測檔（txgnn_dl_predictions.csv.gz，2026-10-12）](https://github.com/yao-care/TwTxGNN) |
 
 <!-- review:end log -->
 

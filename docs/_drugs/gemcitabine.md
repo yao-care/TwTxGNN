@@ -46,7 +46,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L1 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 20 張（有效單方 6／有效複方 4／已註銷 10） |
+| 許可證數 | 20 張（有效單方 10／有效複方 0／已註銷 10） |
 | 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
@@ -97,27 +97,22 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Gemcitabine 的不重複許可證共 **20 張**：有效單方 6 張、有效複方 4 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Gemcitabine 的不重複許可證共 **20 張**：有效單方 10 張、有效複方 0 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（6 張）
+**有效・單方**（10 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第047872號 | 健仕注射液38毫克/毫升 | 注射劑 | 台灣東洋藥品工業股份有限公司 | 2031/03/06 | 1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌患者。5… |
 | 衛署藥製字第048311號 | "台灣神隆" 健喜得平 | （粉） | 台灣神隆股份有限公司 | 2031/10/14 | 抗癌藥。 |
+| 衛署藥輸字第025681號 | "卡比"健彌達靜脈凍晶注射劑 | 凍晶注射劑 | 台灣費森尤斯卡比股份有限公司 | 2027/04/24 | 非小細胞肺癌、胰臟癌、膀胱癌。Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
 | 衛署藥輸字第025899號 | 健仕平"山德士"40毫克/毫升注射劑 | 注射劑 | 台灣山德士藥業股份有限公司 | 2028/03/18 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
+| 衛部藥製字第058646號 | 安佑得凍晶注射劑 | 凍晶注射劑 | 南光化學製藥股份有限公司 | 2030/03/25 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
+| 衛部藥製字第059784號 | "永信"健法凍晶注射劑 | 凍晶注射劑 | 永信藥品工業股份有限公司 | 2027/10/03 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病人。用於曾經使用… |
 | 衛部藥製字第061175號 | "霖揚"吉西他濱凍晶注射劑200毫克 | 凍晶注射劑 | 霖揚生技製藥股份有限公司 | 2027/10/26 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
 | 衛部藥輸字第026977號 | 健喜得平鹽酸鹽 | （粉） | 中大藥品股份有限公司 | 2031/10/28 | 抗癌藥。 |
+| 衛部藥輸字第027468號 | 健特瑞凍晶注射劑 | 凍晶注射劑 | 凱沛爾藥品有限公司 | 2028/07/09 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
 | 衛部藥輸字第028196號 | 鹽酸吉西他濱 | （粉） | 新雙隆生技股份有限公司 | 2026/11/10 | 抗癌藥 |
-
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
-
-| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
-|------|------|------|------|------|
-| 衛署藥輸字第025681號 | "卡比"健彌達靜脈凍晶注射劑 | GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE | 凍晶注射劑 | 非小細胞肺癌、胰臟癌、膀胱癌。Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
-| 衛部藥製字第058646號 | 安佑得凍晶注射劑 | GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE | 凍晶注射劑 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
-| 衛部藥製字第059784號 | "永信"健法凍晶注射劑 | GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE | 凍晶注射劑 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病人。用於曾經使用… |
-| 衛部藥輸字第027468號 | 健特瑞凍晶注射劑 | GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE | 凍晶注射劑 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
 
 <details><summary><strong>已註銷</strong>（10 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第048080號</td><td>雙福全靜脈注射劑</td><td>GEMCITABINE HYDROCHLORIDE</td><td>2017/02/06</td></tr><tr><td>衛署藥製字第055548號</td><td>吉西他濱鹽酸鹽</td><td>Gemcitabine Hydrochloride</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第021841號</td><td>健擇注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2011/03/28</td></tr><tr><td>衛署藥輸字第023298號</td><td>健擇注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2024/10/17</td></tr><tr><td>衛署藥輸字第024846號</td><td>健彌達靜脈凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2024/06/18</td></tr><tr><td>衛署藥輸字第025183號</td><td>健達必凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE、GEMCITAB…</td><td>2022/06/30</td></tr><tr><td>衛署藥輸字第026065號</td><td>健米喜凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE、GEMCITAB…</td><td>2019/04/15</td></tr><tr><td>衛部藥輸字第026627號</td><td>健達必注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2022/09/12</td></tr><tr><td>衛部藥輸字第027106號</td><td>珍喜得平凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2026/02/10</td></tr><tr><td>衛部藥輸字第027808號</td><td>健賽特平"泰和碩"注射劑</td><td>GEMCITABINE HYDROCHLORIDE</td><td>2021/10/12</td></tr></tbody></table></details>

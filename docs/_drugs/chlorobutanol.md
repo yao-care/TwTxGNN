@@ -57,8 +57,14 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 | TxGNN 預測分數 | 99.79% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市（僅複方有效） |
-| 許可證數 | 25 張（有效單方 0／有效複方 4／已註銷 21） |
+| 許可證數 | 25 張（有效單方 0／有效複方 3／已過期 1／已註銷 21） |
 | 建議決策 | Hold |
+
+<!-- review:begin chlorobutanol-original-indication-combo-combos-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，含 chlorobutanol 的有效許可證有 3 張複方：內衛藥製字第010694號「人人」眼用滴劑（結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（鼻炎、鼻塞）、內衛成製字第000983號皮速平（香港腳等皮膚黴菌病）；chlorobutanol 在其中是防腐成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end chlorobutanol-original-indication-combo-combos-2026-10-16 -->
 
 ## 為什麼這個預測合理？
 
@@ -82,16 +88,18 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Chlorobutanol 的不重複許可證共 **25 張**：有效單方 0 張、有效複方 4 張、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Chlorobutanol 的不重複許可證共 **25 張**：有效單方 0 張、有效複方 3 張、已過期 1 張（未註銷但有效日期已過）、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
+**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 內衛成製字第000983號 | 皮速平 | SALICYLIC ACID、CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、BE… | 外用液劑 | 香港腳（水蟲病）、金錢癬、灰指甲、牛皮癬、白癬、黴菌性皮膚病 |
-| 內衛藥製字第001635號 | 舒滴兒眼藥水 | CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、CHLORPHENIRAMINE… | 點眼液劑 | 結膜炎、角膜炎、淚囊炎、紫外線引起之眼炎、眼充血 |
 | 內衛藥製字第010694號 | "人人"眼用滴劑 | PHENYLEPHRINE HCL、CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL) | 點眼液劑 | 結膜充血、角膜炎、角膜充血 |
 | 衛部藥製字第060942號 | 鼻能爽液 | DIPHENHYDRAMINE、PHENYLEPHRINE、CHLOROBUTANOL (TRICHLORISOBUTY… | 外用液劑 | 鼻炎、鼻塞。 |
+
+<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>內衛藥製字第001635號</td><td>舒滴兒眼藥水</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、CHLORPHENIRAMINE…</td><td>2004/03/01</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（21 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004837號</td><td>鼻能爽液</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、DIPHENHYDRAMINE、P…</td><td>2022/05/06</td></tr><tr><td>內衛藥製字第014160號</td><td>鼻適寧噴劑</td><td>PHENYLEPHRINE HCL、NAPHAZOLINE NITRATE、CHLOROBUTANOL (TRICHLO…</td><td>1993/07/22</td></tr><tr><td>衛署藥製字第028963號</td><td>噴立明眼藥水</td><td>CHLORPHENIRAMINE MALEATE、CHLOROBUTANOL (TRICHLORISOBUTYLIC A…</td><td>1988/09/10</td></tr><tr><td>衛署藥製字第030904號</td><td>"聯邦" 愛麗眼藥水</td><td>CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE…</td><td>2016/09/30</td></tr><tr><td>衛署藥製字第036308號</td><td>鼻適寧噴劑</td><td>NAPHAZOLINE NITRATE、CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHO…</td><td>2009/12/30</td></tr><tr><td>衛署藥輸字第001147號</td><td>氯丁醇</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)</td><td>1997/12/05</td></tr><tr><td>衛署藥輸字第001339號</td><td>氯丁醇</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第004353號</td><td>邁舒丁眼藥水</td><td>CHLORAMPHENICOL、CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)</td><td>1985/07/02</td></tr><tr><td>衛署藥輸字第006443號</td><td>羅巴諾注射液</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、GLYCOPYRROLATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第007905號</td><td>東亞目藥水</td><td>PANTOTHENATE CALCIUM、CHONDROITIN SULFATE SODIUM (EQ TO SODIU…</td><td>1995/04/14</td></tr><tr><td>衛署藥輸字第008216號</td><td>斯巴眼藥水</td><td>CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE…</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第009099號</td><td>愛耳液</td><td>DIPHENHYDRAMINE HCL、CHLORPHENESIN、CHLOROBUTANOL (TRICHLORISO…</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第009321號</td><td>視美目藥水</td><td>CHLORPHENIRAMINE MALEATE、PYRIDOXINE HCL、CHLOROBUTANOL (TRICH…</td><td>1991/08/12</td></tr><tr><td>衛署藥輸字第009417號</td><td>碧露眼藥水</td><td>CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE…</td><td>1989/11/02</td></tr><tr><td>衛署藥輸字第010685號</td><td>愛樂目藥水</td><td>NAPHAZOLINE HCL、CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、Z…</td><td>1993/03/17</td></tr><tr><td>衛署藥輸字第011828號</td><td>舒樂目藥</td><td>CHONDROITIN SULFATE SODIUM (EQ TO SODIUM CHONDROITIN SULFATE…</td><td>1989/01/05</td></tr><tr><td>衛署藥輸字第012072號</td><td>優汝眼藥水</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、TAURINE (EQ TO 2-…</td><td>1988/08/15</td></tr><tr><td>衛署藥輸字第013022號</td><td>淚膜溶液</td><td>POLYVINYL ALCOHOL、CHLOROBUTANOL ANHYDROUS、SODIUM CHLORIDE</td><td>1991/08/23</td></tr><tr><td>衛署藥輸字第016573號</td><td>氯丁醇</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)</td><td>1990/07/03</td></tr><tr><td>衛署藥輸字第017917號</td><td>氯丁醇</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)</td><td>2014/07/16</td></tr><tr><td>衛署藥輸字第018647號</td><td>視美目藥水</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、NAPHAZOLINE、BENZA…</td><td>1999/09/22</td></tr></tbody></table></details>
@@ -130,6 +138,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 | 2026-10-03 | 許可證表中 4 張成品皆為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題以結膜炎與角膜炎為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結稱用於輔助治療結膜炎、角膜炎 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 稱有效許可證都是眼部用 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 
