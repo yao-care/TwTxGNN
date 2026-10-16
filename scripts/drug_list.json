@@ -1,6 +1,6 @@
 {
   "total": 302,
-  "generated_at": "2026-10-15T16:06:53.231972",
+  "generated_at": "2026-10-16T02:42:05.953020",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -635,7 +635,7 @@
     {
       "name": "Ergometrine",
       "file": "ergometrine.md",
-      "evidence_level": "L4",
+      "evidence_level": "L3",
       "indication_count": 10,
       "predicted_indication": "多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向"
     },
