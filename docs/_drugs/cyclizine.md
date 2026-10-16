@@ -71,11 +71,11 @@ TxGNN 模型預測它可能對**過敏性蕁麻疹 (Allergic Urticaria)** 有效
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Cyclizine 屬於 H1 受體拮抗劑（抗組織胺）類藥物。阻斷組織胺受體後，可減輕組織胺引起的風團與紅斑反應，這也是蕁麻疹的主要病理機轉。
 
-原適應症（動暈症）與新適應症（蕁麻疹）看似不同，但台灣 cyclizine 單方許可證（旅暈平錠）只核准動暈症；蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等是 homochlorcyclizine、chlorcyclizine 等不同成分許可證的適應症。因此這項預測不屬於仿單內適應症；cyclizine 用於蕁麻疹目前只有 H1 拮抗的類別推論（2026-10-03 重審評為 L5）。
+原適應症（動暈症）與新適應症（蕁麻疹）不同：台灣 cyclizine 單方許可證（旅暈平錠）只核准動暈症；蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等是 homochlorcyclizine、chlorcyclizine 等不同成分許可證的適應症。因此這項預測不屬於仿單內適應症；cyclizine 用於蕁麻疹目前只有 H1 拮抗的類別推論（2026-10-03 重審評為 L5）。
 
 <!-- review:begin cyclizine-why-approved-premise-premise-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症。因此這項預測大致屬於**仿單內適應症**，不算是真正的藥物再利用。」。台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1](https://www.medicines.org.uk/emc/product/4318/smpc)。
+> **查核更正（2026-10-16）**：原寫「原適應症（動暈症）與新適應症（蕁麻疹）看似不同，但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症。因此這項預測大致屬於**仿單內適應症**，不算是真正的藥物再利用。」。台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1](https://www.medicines.org.uk/emc/product/4318/smpc)。
 
 <!-- review:end cyclizine-why-approved-premise-premise-2026-10-16 -->
 

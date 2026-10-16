@@ -137,6 +137,7 @@ def ingredients_of(rec: dict) -> list[str]:
     if not en:
         return []
     en = re.sub(r"^\s*STERILE\s+", "", en.strip(), flags=re.I)
+    en = re.sub(r'"[^"]*"|\(\s*STERILE\s*\)', " ", en, flags=re.I).strip()  # 廠牌引號與「(Sterile)」不是成分名
     parts = re.split(r"\s+(?:AND|WITH|&)\s+|(?<=[A-Za-z]{3})\s*/\s*(?=[A-Za-z]{3})", en, flags=re.I)
     return [x.strip() for x in parts if x.strip()]
 
@@ -223,6 +224,8 @@ def licenses_for_drug(name: str, records: list[dict] | dict[str, dict]) -> list[
         lic = to_license(by_id[lid])
         if excl and any(ingredient_matches(i, terms) and any(x in norm(i) for x in excl) for i in lic["ingredients"]):
             continue  # 比對到的成分其實是另一個藥（config exclude）
+        if excl and not by_id[lid].get("主成分略述") and any(x in norm(" ".join(lic["ingredients"])) for x in excl):
+            continue  # 主成分欄空白、由英文品名拆出成分時，exclude 比對整個品名（如 Ceftazidime and Sodium Carbonate）
         if lic["kind"] == "combo" and all(ingredient_matches(i, terms) for i in lic["ingredients"]):
             lic["kind"] = "single"  # 同一成分重複登載（如 GEMCITABINE;;GEMCITABINE HCL）仍是單方
         out.append(lic)

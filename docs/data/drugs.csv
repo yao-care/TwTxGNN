@@ -248,7 +248,7 @@ Sennosides,sennosides,L5,6,緩解便秘,頭皮單純性毛髮稀疏症 (Hypotric
 Silicon Dioxide,silicon_dioxide,L5,4,賦形劑、氣體吸著劑（二氧化矽單方許可證，皆已註銷）；含二氧化矽的制酸劑複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期,活動性消化性潰瘍 (Active Peptic Ulcer Disease),99.93%,False,Hold,/drugs/silicon_dioxide/
 Simoctocog Alfa,simoctocog_alfa,L5,10,治療與預防A型血友病(先天性第八凝血因子缺乏)病人的出血,偽性類血友病 (pseudo-von Willebrand disease),99.997%,True,Hold,/drugs/simoctocog_alfa/
 Sodium Acetate,sodium_acetate,L5,10,血液透析藥,先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency),99.98%,True,Hold,/drugs/sodium_acetate/
-Sodium Carbonate,sodium_carbonate,L5,6,無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分,馬尾症候群（Cauda Equina Syndrome）；排名第 1,99.80%,True,Hold,/drugs/sodium_carbonate/
+Sodium Carbonate,sodium_carbonate,L5,6,無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為複方點眼液、人工淚液與胃散的成分（ceftazidime、meropenem 注射劑中則是賦形劑）,馬尾症候群（Cauda Equina Syndrome）；排名第 1,99.80%,True,Hold,/drugs/sodium_carbonate/
 Sodium Citrate,sodium_citrate,L5,9,輸血用抗凝結劑,乳突性結膜炎 (Papillary Conjunctivitis),99.95%,True,Hold,/drugs/sodium_citrate/
 Sorafenib,sorafenib,L2,10,轉移性或無法手術切除且不適合局部治療或局部治療失敗之晚期肝細胞癌 (HCC)；晚期腎細胞癌 (RCC)；放射性碘治療無效之局部晚期或轉移性進行性分化型甲狀腺癌 (DTC),脂肪肉瘤 (Liposarcoma),99.82%,True,Proceed with Guardrails,/drugs/sorafenib/
 Sotatercept,sotatercept,L5,10,適用於治療患有特發性或遺傳性肺動脈高壓的成人病人（註：台灣現有許可證歸類為複方，無單方有效許可證，此處引用該許可證所載適應症）,急性淋巴性白血病 (Acute Lymphoblastic Leukemia),99.78%,True,Hold,/drugs/sotatercept/

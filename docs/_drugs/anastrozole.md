@@ -124,7 +124,7 @@ TxGNN 模型預測的首位適應症為**女性乳癌 (female breast carcinoma)*
 | 衛部藥輸字第026515號 | 安瑞特膜衣錠1毫克 | 膜衣錠 | 凱沛爾藥品有限公司 | 2030/03/23 | 治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對TAMOXIFEN有陽性反應。輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌。輔助治療… |
 
 <details><summary><strong>已註銷</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第057290號</td><td>"台耀"安耐柔</td><td>Anastrozole "F.L"</td><td>2022/03/28</td></tr><tr><td>衛署藥輸字第025288號</td><td>安適乳膜衣錠 1 毫克</td><td>ANASTROZOLE</td><td>2016/01/19</td></tr><tr><td>衛署藥輸字第025610號</td><td>安耐柔</td><td>Anastrozole USP</td><td>2023/06/20</td></tr><tr><td>衛部藥輸字第027015號</td><td>安納若適膜衣錠1毫克</td><td>ANASTROZOLE</td><td>2022/06/10</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第057290號</td><td>"台耀"安耐柔</td><td>Anastrozole</td><td>2022/03/28</td></tr><tr><td>衛署藥輸字第025288號</td><td>安適乳膜衣錠 1 毫克</td><td>ANASTROZOLE</td><td>2016/01/19</td></tr><tr><td>衛署藥輸字第025610號</td><td>安耐柔</td><td>Anastrozole USP</td><td>2023/06/20</td></tr><tr><td>衛部藥輸字第027015號</td><td>安納若適膜衣錠1毫克</td><td>ANASTROZOLE</td><td>2022/06/10</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

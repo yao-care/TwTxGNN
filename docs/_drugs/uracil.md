@@ -125,7 +125,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 | 衛署藥輸字第023484號 | 優富多膠囊 | URACIL、TEGAFUR (FTORAFUR) | 膠囊劑 | 胃癌、結腸癌、大腸癌、乳癌、與CISPLATIN併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。 |
 
 <details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥製字第060268號</td><td>"博謙"尿嘧啶</td><td>Uracil "PharmaCore"</td><td>2024/04/08</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥製字第060268號</td><td>"博謙"尿嘧啶</td><td>Uracil</td><td>2024/04/08</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛部藥陸輸字第000668號</td><td>尿嘧啶</td><td>Uracil</td><td>2026/06/11</td></tr></tbody></table></details>

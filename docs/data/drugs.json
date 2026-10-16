@@ -2996,7 +2996,7 @@
       "name": "Sodium Carbonate",
       "evidence_level": "L5",
       "indication_count": 6,
-      "original_indication": "無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分",
+      "original_indication": "無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為複方點眼液、人工淚液與胃散的成分（ceftazidime、meropenem 注射劑中則是賦形劑）",
       "predicted_indication": "馬尾症候群（Cauda Equina Syndrome）；排名第 1",
       "txgnn_score": "99.80%",
       "taiwan_approved": true,

@@ -149,9 +149,10 @@
     },
     "SODIUM CARBONATE": {
       "patterns": [
-        "CEFTAZIDIME"
+        "CEFTAZIDIME",
+        "MEROPENEM"
       ],
-      "note": "STERILE CEFTAZIDIME (SODIUM CARBONATE)：碳酸鈉是 ceftazidime 注射劑的賦形劑（衛署藥製字第041013號、第041754號）；2026-10-16 補"
+      "note": "STERILE CEFTAZIDIME (SODIUM CARBONATE)、Ceftazidime and Sodium Carbonate、Meropenem and Sodium Carbonate：碳酸鈉是 ceftazidime／meropenem 注射劑的賦形劑（衛署藥製字第041013號、第041754號、衛部藥陸輸字第000906號、衛署藥製字第057736號）；2026-10-16 補"
     },
     "LACTIC ACID": {
       "patterns": [
