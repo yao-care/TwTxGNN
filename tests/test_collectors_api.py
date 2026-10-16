@@ -32,6 +32,12 @@ CLINICALTRIALS_RESPONSE = {
                 "descriptionModule": {
                     "briefSummary": "This study evaluates warfarin efficacy.",
                 },
+                "armsInterventionsModule": {
+                    "interventions": [
+                        {"type": "DRUG", "name": "Warfarin"},
+                        {"type": "DRUG", "name": "Placebo"},
+                    ],
+                },
                 "eligibilityModule": {
                     "eligibilityCriteria": "Adults with AF",
                 },
@@ -216,7 +222,9 @@ class TestClinicalTrialsCollector:
         # Check the request was made with correct params
         assert len(responses.calls) == 1
         request_params = responses.calls[0].request.params
-        assert "warfarin AND af" in request_params.get("query.term", "")
+        # 2026-10：藥限定在介入欄、病限定在疾病欄（舊版 query.term 全文搜尋）
+        assert request_params.get("query.intr") == "warfarin"
+        assert request_params.get("query.cond") == "af"
         assert request_params.get("pageSize") == "100"
 
     @responses.activate
@@ -383,7 +391,7 @@ class TestPubMedCollector:
         collector = PubMedCollector()
         result = collector.search("warfarin", "af")
 
-        assert result.data["query"] == "warfarin AND af"
+        assert result.data["query"] == '"warfarin"[Title/Abstract] AND (af)'
 
     def test_max_results_default(self):
         """Should have default max_results."""

@@ -11,120 +11,74 @@ from twtxgnn.collectors.bundle import CandidateInfo, EvidenceBundle
 
 
 class TestLLMClient:
-    """Tests for LLMClient class."""
+    """Tests for LLMClient（2026-10 起改用 claude CLI，不再用 OpenAI API）."""
 
-    def test_requires_api_key(self, monkeypatch):
-        """Should raise error if no API key provided."""
+    RUN = "twtxgnn.reviewer.llm_client.subprocess.run"
+
+    @staticmethod
+    def _ok(stdout="Response"):
+        return Mock(returncode=0, stdout=stdout, stderr="")
+
+    def test_no_api_key_needed(self, monkeypatch):
+        """Should not require any API key."""
         monkeypatch.delenv("OPENAI_API_KEY", raising=False)
-
-        with pytest.raises(ValueError, match="API key not found"):
-            LLMClient()
-
-    def test_uses_env_api_key(self, monkeypatch):
-        """Should use OPENAI_API_KEY from environment."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key-from-env")
-
+        monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
         client = LLMClient()
-        assert client.api_key == "test-key-from-env"
+        assert client.model is None
 
-    def test_uses_provided_api_key(self, monkeypatch):
-        """Should prefer provided API key over environment."""
-        monkeypatch.setenv("OPENAI_API_KEY", "env-key")
+    def test_api_key_ignored(self):
+        """api_key is kept for backward compatibility and ignored."""
+        client = LLMClient(api_key="ignored")
+        assert not hasattr(client, "api_key")
 
-        client = LLMClient(api_key="provided-key")
-        assert client.api_key == "provided-key"
+    def test_custom_model(self):
+        """Should pass --model to the CLI."""
+        with patch(self.RUN, return_value=self._ok()) as run:
+            LLMClient(model="sonnet").chat("Hi")
+        cmd = run.call_args.args[0]
+        assert cmd[:2] == ["claude", "-p"]
+        assert cmd[cmd.index("--model") + 1] == "sonnet"
 
-    def test_default_model(self, monkeypatch):
-        """Should use gpt-4o as default model."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
+    def test_default_model_not_passed(self):
+        """Should not pass --model when none is given."""
+        with patch(self.RUN, return_value=self._ok()) as run:
+            LLMClient().chat("Hi")
+        assert "--model" not in run.call_args.args[0]
 
-        client = LLMClient()
-        assert client.model == "gpt-4o"
+    def test_chat_with_system_prompt(self):
+        """Should pass the system prompt as --system-prompt and the message via stdin."""
+        with patch(self.RUN, return_value=self._ok()) as run:
+            out = LLMClient().chat("User message", system_prompt="System prompt")
+        cmd = run.call_args.args[0]
+        assert cmd[cmd.index("--system-prompt") + 1] == "System prompt"
+        assert run.call_args.kwargs["input"] == "User message"
+        assert out == "Response"
 
-    def test_custom_model(self, monkeypatch):
-        """Should accept custom model."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
+    def test_cli_runs_without_tools_or_settings(self):
+        """Should disable tools, MCP servers, slash commands and setting sources."""
+        with patch(self.RUN, return_value=self._ok()) as run:
+            LLMClient().chat("Hi")
+        cmd = run.call_args.args[0]
+        assert cmd[cmd.index("--tools") + 1] == ""
+        assert "--strict-mcp-config" in cmd
+        assert "--disable-slash-commands" in cmd
+        assert cmd[cmd.index("--setting-sources") + 1] == ""
 
-        client = LLMClient(model="gpt-3.5-turbo")
-        assert client.model == "gpt-3.5-turbo"
+    def test_non_transient_error_raises(self):
+        """Should raise on a non-transient CLI failure without retrying."""
+        with patch(self.RUN, return_value=Mock(returncode=1, stdout="", stderr="bad flag")) as run:
+            with pytest.raises(RuntimeError, match="claude CLI failed"):
+                LLMClient().chat("Hi")
+        assert run.call_count == 1
 
-    def test_lazy_client_init(self, monkeypatch):
-        """Should not create OpenAI client until needed."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
-
-        client = LLMClient()
-        assert client._client is None
-
-    def test_client_property_is_lazy(self, monkeypatch):
-        """Should not create OpenAI client until accessed."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
-
-        client = LLMClient()
-        # _client should be None before accessing client property
-        assert client._client is None
-
-        # Note: We can't easily test actual OpenAI client creation
-        # without installing openai package in test environment
-
-    def test_chat_with_system_prompt(self, monkeypatch):
-        """Should include system prompt in messages."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
-
-        mock_openai_client = Mock()
-        mock_response = Mock()
-        mock_response.choices = [Mock(message=Mock(content="Response"))]
-        mock_openai_client.chat.completions.create.return_value = mock_response
-
-        client = LLMClient()
-        client._client = mock_openai_client
-
-        client.chat("User message", system_prompt="System prompt")
-
-        call_args = mock_openai_client.chat.completions.create.call_args
-        messages = call_args.kwargs["messages"]
-        assert messages[0]["role"] == "system"
-        assert messages[0]["content"] == "System prompt"
-        assert messages[1]["role"] == "user"
-
-    def test_chat_parameters(self, monkeypatch):
-        """Should pass temperature and max_tokens."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
-
-        mock_openai_client = Mock()
-        mock_response = Mock()
-        mock_response.choices = [Mock(message=Mock(content="Response"))]
-        mock_openai_client.chat.completions.create.return_value = mock_response
-
-        client = LLMClient()
-        client._client = mock_openai_client
-
-        client.chat("Hi", temperature=0.5, max_tokens=100)
-
-        call_args = mock_openai_client.chat.completions.create.call_args
-        assert call_args.kwargs["temperature"] == 0.5
-        assert call_args.kwargs["max_tokens"] == 100
-
-    def test_chat_with_prompt_file(self, monkeypatch, tmp_path):
+    def test_chat_with_prompt_file(self, tmp_path):
         """Should read system prompt from file."""
-        monkeypatch.setenv("OPENAI_API_KEY", "test-key")
-
-        mock_openai_client = Mock()
-        mock_response = Mock()
-        mock_response.choices = [Mock(message=Mock(content="Response"))]
-        mock_openai_client.chat.completions.create.return_value = mock_response
-
-        # Create prompt file
         prompt_file = tmp_path / "prompt.md"
         prompt_file.write_text("You are a helpful assistant.")
-
-        client = LLMClient()
-        client._client = mock_openai_client
-
-        client.chat_with_prompt_file("Hello", prompt_file)
-
-        call_args = mock_openai_client.chat.completions.create.call_args
-        messages = call_args.kwargs["messages"]
-        assert messages[0]["content"] == "You are a helpful assistant."
+        with patch(self.RUN, return_value=self._ok()) as run:
+            LLMClient().chat_with_prompt_file("Hello", prompt_file)
+        cmd = run.call_args.args[0]
+        assert cmd[cmd.index("--system-prompt") + 1] == "You are a helpful assistant."
 
     def test_chat_with_missing_prompt_file(self, monkeypatch, tmp_path):
         """Should raise error for missing prompt file."""
