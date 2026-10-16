@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16T12:52:10.882030+00:00",
-  "count": 16,
+  "generated": "2026-10-16T17:05:26.281475+00:00",
+  "count": 15,
   "news": [
     {
       "id": "979debc151db",
@@ -86,13 +86,13 @@
       ]
     },
     {
-      "id": "7aed8a6317af",
-      "title": "流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險",
-      "published": "2026-10-15T04:45:00+00:00",
+      "id": "0f3e7bc1b1c8",
+      "title": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞",
+      "published": "2026-10-15T06:25:00+00:00",
       "sources": [
         {
-          "name": "民視健康長照網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5"
         }
       ],
       "keywords": [
@@ -560,30 +560,6 @@
             {
               "slug": "zanubrutinib",
               "name": "Zanubrutinib"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "01120bd709d7",
-      "title": "只是感冒咳嗽！年輕男「一直胸痛」衝急診　肺泡竟破了",
-      "published": "2026-10-14T03:11:00+00:00",
-      "sources": [
-        {
-          "name": "ETtoday新聞雲",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYeVZFYTZ3T3hPRDVhSTFpMDNteWFTZVFqRUt2clYxazRtTC1TalVfWDhNY2VENU4ySVlfMHA3dm43c0dINGpGVUlRb3JndW9WZVJpUjJGTERrWEt3NWfSAUtBVV95cUxOd3VUNmhVOW1hTGdnM0dVWHhDTUNzUHljUEw0bHhzLXJYMG1FZE9STmNBSnlvaTNCQXE3WG9ZUEl3OXI1WmZXd3JHQmc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide"
             }
           ]
         }

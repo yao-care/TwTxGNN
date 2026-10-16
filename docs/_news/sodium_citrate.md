@@ -38,7 +38,7 @@ permalink: /news/sodium_citrate/
 <li>allergic urticaria (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sodium-citrate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/sodium_citrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

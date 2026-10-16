@@ -32,7 +32,7 @@ permalink: /news/human_immunoglobulin_g/
 <li>drug-induced osteoporosis (99.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/human-immunoglobulin-g/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/human_immunoglobulin_g/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

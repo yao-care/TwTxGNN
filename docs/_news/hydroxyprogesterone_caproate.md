@@ -39,7 +39,7 @@ permalink: /news/hydroxyprogesterone_caproate/
 <li>infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/hydroxyprogesterone-caproate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/hydroxyprogesterone_caproate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（5 則）

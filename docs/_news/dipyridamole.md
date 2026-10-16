@@ -44,11 +44,11 @@ permalink: /news/dipyridamole/
 
 ## 相關新聞（2 則）
 
-### [流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
+### [「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
 
 2026-10-15 <span class="news-indication-tag">中風</span>
 
-來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
 
 ---
 

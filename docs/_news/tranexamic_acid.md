@@ -30,7 +30,7 @@ permalink: /news/tranexamic_acid/
 <li>amenorrhea (disease) (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/tranexamic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/tranexamic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

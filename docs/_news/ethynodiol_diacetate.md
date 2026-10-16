@@ -35,7 +35,7 @@ permalink: /news/ethynodiol_diacetate/
 <li>eye disease (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ethynodiol-diacetate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/ethynodiol_diacetate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

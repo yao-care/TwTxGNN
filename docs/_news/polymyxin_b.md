@@ -32,7 +32,7 @@ permalink: /news/polymyxin_b/
 <li>conjunctivitis (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/polymyxin-b/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/polymyxin_b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

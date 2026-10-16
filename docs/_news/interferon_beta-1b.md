@@ -31,7 +31,7 @@ permalink: /news/interferon_beta-1b/
 <li>autoimmune disease of central nervous system (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/interferon-beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/interferon_beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（5 則）

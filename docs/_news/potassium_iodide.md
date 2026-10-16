@@ -31,7 +31,7 @@ permalink: /news/potassium_iodide/
 <li>acute laryngopharyngitis (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/potassium-iodide/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/potassium_iodide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

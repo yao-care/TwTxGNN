@@ -30,7 +30,7 @@ permalink: /news/trastuzumab_deruxtecan/
 <li>drug-induced osteoporosis (99.3%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/trastuzumab-deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/trastuzumab_deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

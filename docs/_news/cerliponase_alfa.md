@@ -39,7 +39,7 @@ permalink: /news/cerliponase_alfa/
 <li>autosomal ichthyosis syndrome with fatal disease course (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/cerliponase-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/cerliponase_alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

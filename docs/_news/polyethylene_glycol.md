@@ -30,7 +30,7 @@ permalink: /news/polyethylene_glycol/
 <li>congenital ichthyosiform erythroderma (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/polyethylene-glycol/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/polyethylene_glycol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

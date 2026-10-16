@@ -39,7 +39,7 @@ permalink: /news/bempedoic_acid/
 <li>pregnancy associated osteoporosis (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/bempedoic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/bempedoic_acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（5 則）

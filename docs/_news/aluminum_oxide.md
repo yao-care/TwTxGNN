@@ -39,7 +39,7 @@ permalink: /news/aluminum_oxide/
 <li>hemolytic anemia due to glucophosphate isomerase deficiency (99.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/aluminum-oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（1 則）

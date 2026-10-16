@@ -39,7 +39,7 @@ permalink: /news/isosorbide_dinitrate/
 <li>arterial thoracic outlet syndrome (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

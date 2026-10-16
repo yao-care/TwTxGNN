@@ -37,7 +37,7 @@ permalink: /news/ferrous_gluconate/
 <li>vitamin deficiency disorder (99.2%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ferrous-gluconate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/ferrous_gluconate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）
