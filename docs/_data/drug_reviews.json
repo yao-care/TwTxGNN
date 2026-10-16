@@ -1,5 +1,5 @@
 {
- "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。header_level（2026-10-04 起）記錄頁首等級依快速總覽重算後的變動：original_level／new_level／original_parent／new_parent，只列在查核紀錄表。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級或撤回時更新，原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。2026-10-15 起：報告整份重生後原句消失、新報告已無該錯誤的紀錄標 status=resolved_by_regeneration（resolved_on、resolved_note），頁面不顯示框、查核紀錄表註明；錯誤仍在的紀錄重新定錨到新句子，前版存進 history。",
+ "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜upgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級、升級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。header_level（2026-10-04 起）記錄頁首等級依快速總覽重算後的變動：original_level／new_level／original_parent／new_parent，只列在查核紀錄表。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新（升級 2026-10-16 起經用戶核准，只限重審找到符合 methodology 定義、可查證 PMID／NCT 的本藥證據），原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。2026-10-15 起：報告整份重生後原句消失、新報告已無該錯誤的紀錄標 status=resolved_by_regeneration（resolved_on、resolved_note），頁面不顯示框、查核紀錄表註明；錯誤仍在的紀錄重新定錨到新句子，前版存進 history。2026-10-16 起：查核本身判斷有誤或與另一筆重複的紀錄標 status=withdrawn（withdrawn_on、withdrawn_note），許可證表程式改版後已無該錯誤的紀錄標 status=resolved_by_program（resolved_on、resolved_note）；兩者頁面都不顯示框，只在查核紀錄表註明。",
  "schema_version": 2,
  "records": [
   {
@@ -2385,8 +2385,7 @@
      "accessed": "2026-10-03"
     }
    ],
-   "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "status": "resolved_by_regeneration",
    "history": [
     {
      "id": "cromoglicic-acid-tw-license-summary-2026-10-03",
@@ -2414,7 +2413,9 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "resolved_on": "2026-10-15",
+   "resolved_note": "新報告一句話總結未再寫「台灣目前無任何藥品許可證」"
   },
   {
    "id": "cromoglicic-acid-original-indication-2026-10-03",
@@ -2587,8 +2588,7 @@
      "accessed": "2026-10-03"
     }
    ],
-   "status": "superseded",
-   "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
+   "status": "resolved_by_regeneration",
    "history": [
     {
      "id": "cromoglicic-acid-tw-license-section-2026-10-03",
@@ -2616,7 +2616,9 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "resolved_on": "2026-10-15",
+   "resolved_note": "新報告「台灣上市資訊」未再寫「無任何藥品許可證，屬未上市藥物」"
   },
   {
    "id": "cromoglicic-acid-next-step-license-2026-10-03",
@@ -3317,7 +3319,7 @@
    "claim": "Deoxycholic acid（去氧膽酸／去氧熊膽酸）是一種次級膽酸，在台灣原本用於溶解膽固醇系膽結石，並改善原發性膽道肝硬化的肝功能。",
    "replacement": "Deoxycholic acid（去氧膽酸）是一種次級膽酸，在台灣核准用於注射改善成人頦下脂肪堆積；溶解膽固醇系膽結石、改善原發性膽道肝硬化是去氧熊膽酸（ursodeoxycholic acid）的適應症。",
    "finding": "2026-10-15 報告重生後仍把去氧膽酸與去氧熊膽酸（UDCA）混為一談。Deoxycholic acid 的核准用途只有注射改善成人頦下脂肪堆積，不用於膽結石溶解，也不核准用於頦下以外的皮下脂肪；膽結石溶解是 ursodeoxycholic acid（去氧熊膽酸）的用途。",
-   "note": "2026-10-15 報告重生後仍把去氧膽酸與去氧熊膽酸（UDCA）混為一談。Deoxycholic acid 的核准用途只有注射改善成人頦下脂肪堆積，不用於膽結石溶解，也不核准用於頦下以外的皮下脂肪；膽結石溶解是 ursodeoxycholic acid（去氧熊膽酸）的用途。",
+   "note": "2026-10-15 報告重生後仍把去氧膽酸與去氧熊膽酸（UDCA）混為一談。Deoxycholic acid 在台灣的核准用途是注射改善成人頦下脂肪堆積（原料藥衛部藥輸字第028648號另登載「乳化劑」），不用於膽結石溶解，也不核准用於頦下以外的皮下脂肪；膽結石溶解是 ursodeoxycholic acid（去氧熊膽酸）的用途。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
@@ -3330,6 +3332,12 @@
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
      "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
      "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥輸字第028648號｜中文品名 去氧膽酸｜主成分略述 （空白）｜狀態 有效（至 2029/01/17）｜適應症 乳化劑；頦下脂肪消除劑(注射)",
+     "accessed": "2026-10-16"
     }
    ],
    "history": [
@@ -3362,6 +3370,36 @@
      "retired": "2026-10-15",
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
+    },
+    {
+     "id": "deoxycholic-acid-summary-indication-2026-10-03",
+     "drug": "deoxycholic_acid",
+     "file": "deoxycholic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結把去氧膽酸與去氧熊膽酸混為一談",
+     "claim": "Deoxycholic acid（去氧膽酸／去氧熊膽酸）是一種次級膽酸，在台灣原本用於溶解膽固醇系膽結石，並改善原發性膽道肝硬化的肝功能。",
+     "replacement": "Deoxycholic acid（去氧膽酸）是一種次級膽酸，在台灣核准用於注射改善成人頦下脂肪堆積；溶解膽固醇系膽結石、改善原發性膽道肝硬化是去氧熊膽酸（ursodeoxycholic acid）的適應症。",
+     "finding": "2026-10-15 報告重生後仍把去氧膽酸與去氧熊膽酸（UDCA）混為一談。Deoxycholic acid 的核准用途只有注射改善成人頦下脂肪堆積，不用於膽結石溶解，也不核准用於頦下以外的皮下脂肪；膽結石溶解是 ursodeoxycholic acid（去氧熊膽酸）的用途。",
+     "note": "2026-10-15 報告重生後仍把去氧膽酸與去氧熊膽酸（UDCA）混為一談。Deoxycholic acid 的核准用途只有注射改善成人頦下脂肪堆積，不用於膽結石溶解，也不核准用於頦下以外的皮下脂肪；膽結石溶解是 ursodeoxycholic acid（去氧熊膽酸）的用途。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥輸字第027135號｜中文品名 倍克脂注射劑｜英文品名 BELKYRA TM (deoxycholic acid) injection｜主成分略述 DEOXYCHOLIC ACID (DESOXYCHOLIC ACID)｜適應症 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。｜註銷狀態 （空白，未註銷）｜有效日期 2027/05/24",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
+       "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -3376,7 +3414,7 @@
    "claim": "| 原適應症 | 膽固醇系膽結石之溶解、原發性膽道肝硬化 (PBC) 之肝功能改善 |",
    "replacement": "| 原適應症 | 頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀） |",
    "finding": "膽固醇性膽結石溶解與原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症；deoxycholic acid 在台灣許可證與美國仿單的核准用途只有改善成人頦下脂肪堆積。",
-   "note": "膽固醇性膽結石溶解與原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症；deoxycholic acid 在台灣許可證與美國仿單的核准用途只有改善成人頦下脂肪堆積。",
+   "note": "膽固醇性膽結石溶解與原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症；deoxycholic acid 在台灣許可證與美國仿單的核准用途是改善成人頦下脂肪堆積（台灣原料藥衛部藥輸字第028648號另登載「乳化劑」）。",
    "sources": [
     {
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
@@ -3389,6 +3427,12 @@
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
      "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
      "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥輸字第028648號｜中文品名 去氧膽酸｜主成分略述 （空白）｜狀態 有效（至 2029/01/17）｜適應症 乳化劑；頦下脂肪消除劑(注射)",
+     "accessed": "2026-10-16"
     }
    ],
    "history": [
@@ -3421,6 +3465,36 @@
      "retired": "2026-10-15",
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
+    },
+    {
+     "id": "deoxycholic-acid-original-indication-2026-10-03",
+     "drug": "deoxycholic_acid",
+     "file": "deoxycholic_acid.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "快速總覽「原適應症」",
+     "summary": "原適應症列入膽結石溶解、原發性膽道肝硬化",
+     "claim": "| 原適應症 | 膽固醇系膽結石之溶解、原發性膽道肝硬化 (PBC) 之肝功能改善 |",
+     "replacement": "| 原適應症 | 頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀） |",
+     "finding": "膽固醇性膽結石溶解與原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症；deoxycholic acid 在台灣許可證與美國仿單的核准用途只有改善成人頦下脂肪堆積。",
+     "note": "膽固醇性膽結石溶解與原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症；deoxycholic acid 在台灣許可證與美國仿單的核准用途只有改善成人頦下脂肪堆積。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥輸字第027135號｜中文品名 倍克脂注射劑｜英文品名 BELKYRA TM (deoxycholic acid) injection｜主成分略述 DEOXYCHOLIC ACID (DESOXYCHOLIC ACID)｜適應症 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。｜註銷狀態 （空白，未註銷）｜有效日期 2027/05/24 ／ 許可證字號 衛部藥製字第061007號｜中文品名 容脂注射劑10.56毫克/毫升｜英文品名 Ronkyla (Sodium deoxycholate) Injection 10.56 mg/mL｜主成分略述 SODIUM DEOXYCHOLATE｜適應症 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。｜註銷狀態 （空白，未註銷）｜有效日期 2031/10/28 ／ 許可證字號 衛部藥製字第061840號｜中文品名 麗容脂注射劑 10.56毫克/毫升｜英文品名 Ronlytic(Sodium deoxycholate) Injection 10.56 mg/mL｜主成分略述 SODIUM DEOXYCHOLATE｜適應症 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。｜註銷狀態 （空白，未註銷）｜有效日期 2029/05/09",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
+       "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -14805,10 +14879,10 @@
    ],
    "id": "cyclizine-why-approved-premise-conclusion-2026-10-16",
    "checked": "2026-10-16",
-   "action": "annotate",
+   "action": "correct",
    "section": "結論與下一步",
    "summary": "結論稱蕁麻疹已屬仿單內適應症、L4",
-   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。推論原文保留。",
+   "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。",
    "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。",
    "claim": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
    "history": [
@@ -14889,9 +14963,58 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
+    },
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "結論稱蕁麻疹已屬仿單內適應症、L4",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。推論原文保留。",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。",
+     "claim": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
+     "anchor": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    },
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "結論與下一步",
+     "summary": "結論稱蕁麻疹已屬仿單內適應症、L4",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審認定蕁麻疹屬 L5。",
+     "claim": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
+     "anchor": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。",
+     "replacement": "- 首要預測（過敏性蕁麻疹）不在 cyclizine 的核准適應症內；針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據只有 H1 拮抗的類別推論（2026-10-03 重審評為 L5）。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
-   "anchor": "- 首要預測（過敏性蕁麻疹）已屬仿單內適應症，並非新的再利用機會；而針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據僅止於機轉推論（L4）。"
+   "replacement": "- 首要預測（過敏性蕁麻疹）不在 cyclizine 的核准適應症內；針對 Cyclizine 本身沒有任何臨床試驗或文獻，證據只有 H1 拮抗的類別推論（2026-10-03 重審評為 L5）。"
   },
   {
    "drug": "cyclizine",
@@ -14962,7 +15085,7 @@
    "action": "correct",
    "section": "標題",
    "summary": "標題以結膜炎與角膜炎為原用途",
-   "note": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
+   "note": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水（如內衛藥製字第010694號「人人」眼用滴劑，phenylephrine＋chlorobutanol）的適應症，屬整個複方。",
    "finding": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
    "claim": "# Chlorobutanol：從結膜炎與角膜炎到勃起功能障礙",
    "replacement": "# Chlorobutanol：從防腐劑到勃起功能障礙",
@@ -14990,6 +15113,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "chlorobutanol",
+     "file": "chlorobutanol.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第001147號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（1997/12/05）｜適應症 防腐劑 ／ 許可證字號 衛署藥輸字第001339號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（2005/06/03）｜適應症 防腐劑 ／ 許可證字號 衛署藥輸字第016573號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（1990/07/03）｜適應症 防腐劑 ／ 許可證字號 衛署藥輸字第017917號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（2014/07/16）｜適應症 防腐劑",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "chlorobutanol-original-indication-combo-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題以結膜炎與角膜炎為原用途",
+     "note": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
+     "finding": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
+     "claim": "# Chlorobutanol：從結膜炎與角膜炎到勃起功能障礙",
+     "replacement": "# Chlorobutanol：從防腐劑到勃起功能障礙",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -15009,7 +15156,7 @@
    "action": "correct",
    "section": "一句話總結",
    "summary": "一句話總結稱用於輔助治療結膜炎、角膜炎",
-   "note": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
+   "note": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水（如內衛藥製字第010694號「人人」眼用滴劑，phenylephrine＋chlorobutanol）的適應症，屬整個複方。",
    "finding": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
    "claim": "常見用途為防腐與輔助治療結膜炎、角膜炎。",
    "replacement": "本身的核准用途是防腐劑；結膜充血、角膜炎等屬於複方中 phenylephrine 等主成分的適應症。",
@@ -15037,6 +15184,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "chlorobutanol",
+     "file": "chlorobutanol.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第001147號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（1997/12/05）｜適應症 防腐劑 ／ 許可證字號 衛署藥輸字第001339號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（2005/06/03）｜適應症 防腐劑 ／ 許可證字號 衛署藥輸字第016573號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（1990/07/03）｜適應症 防腐劑 ／ 許可證字號 衛署藥輸字第017917號｜中文品名 氯丁醇｜主成分略述 CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)｜狀態 已註銷（2014/07/16）｜適應症 防腐劑",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "chlorobutanol-original-indication-combo-summary-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結稱用於輔助治療結膜炎、角膜炎",
+     "note": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
+     "finding": "台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水適應症，chlorobutanol 在其中是防腐成分。",
+     "claim": "常見用途為防腐與輔助治療結膜炎、角膜炎。",
+     "replacement": "本身的核准用途是防腐劑；結膜充血、角膜炎等屬於複方中 phenylephrine 等主成分的適應症。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -15055,6 +15226,12 @@
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
      "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
      "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥輸字第028648號｜中文品名 去氧膽酸｜主成分略述 （空白）｜狀態 有效（至 2029/01/17）｜適應症 乳化劑；頦下脂肪消除劑(注射)",
+     "accessed": "2026-10-16"
     }
    ],
    "id": "deoxycholic-acid-summary-indication-title-2026-10-16",
@@ -15062,10 +15239,42 @@
    "action": "correct",
    "section": "標題",
    "summary": "標題以膽固醇性膽結石為原用途",
-   "note": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
+   "note": "Deoxycholic acid 在台灣與美國的核准用途是注射改善成人頦下脂肪堆積（台灣原料藥衛部藥輸字第028648號另登載「乳化劑」）；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
    "finding": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
    "claim": "# Deoxycholic acid：從膽固醇性膽結石到糖尿病腎病變",
-   "replacement": "# Deoxycholic acid：從頦下脂肪堆積到糖尿病腎病變"
+   "replacement": "# Deoxycholic acid：從頦下脂肪堆積到糖尿病腎病變",
+   "history": [
+    {
+     "drug": "deoxycholic_acid",
+     "file": "deoxycholic_acid.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥輸字第027135號｜中文品名 倍克脂注射劑｜英文品名 BELKYRA TM (deoxycholic acid) injection｜主成分略述 DEOXYCHOLIC ACID (DESOXYCHOLIC ACID)｜適應症 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。｜註銷狀態 （空白，未註銷）｜有效日期 2027/05/24",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
+       "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "deoxycholic-acid-summary-indication-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題以膽固醇性膽結石為原用途",
+     "note": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
+     "finding": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
+     "claim": "# Deoxycholic acid：從膽固醇性膽結石到糖尿病腎病變",
+     "replacement": "# Deoxycholic acid：從頦下脂肪堆積到糖尿病腎病變",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "deoxycholic_acid",
@@ -15082,6 +15291,12 @@
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
      "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
      "accessed": "2026-10-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛部藥輸字第028648號｜中文品名 去氧膽酸｜主成分略述 （空白）｜狀態 有效（至 2029/01/17）｜適應症 乳化劑；頦下脂肪消除劑(注射)",
+     "accessed": "2026-10-16"
     }
    ],
    "id": "deoxycholic-acid-summary-indication-why-2026-10-16",
@@ -15089,10 +15304,42 @@
    "action": "correct",
    "section": "為什麼這個預測合理？",
    "summary": "預測理由稱原本用於溶解膽固醇性膽結石",
-   "note": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
+   "note": "Deoxycholic acid 在台灣與美國的核准用途是注射改善成人頦下脂肪堆積（台灣原料藥衛部藥輸字第028648號另登載「乳化劑」）；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
    "finding": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
    "claim": "原本用於溶解膽固醇性膽結石與改善膽汁相關肝病。",
-   "replacement": "在台灣核准用於注射改善成人頦下脂肪堆積（溶解膽固醇性膽結石是去氧熊膽酸的用途）。"
+   "replacement": "在台灣核准用於注射改善成人頦下脂肪堆積（溶解膽固醇性膽結石是去氧熊膽酸的用途）。",
+   "history": [
+    {
+     "drug": "deoxycholic_acid",
+     "file": "deoxycholic_acid.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥輸字第027135號｜中文品名 倍克脂注射劑｜英文品名 BELKYRA TM (deoxycholic acid) injection｜主成分略述 DEOXYCHOLIC ACID (DESOXYCHOLIC ACID)｜適應症 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。｜註銷狀態 （空白，未註銷）｜有效日期 2027/05/24",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553",
+       "excerpt": "KYBELLA ® is indicated for improvement in the appearance of moderate to severe convexity or fullness associated with submental fat in adults. Limitations of U se KYBELLA is not approved for the treatment of subcutaneous fat outside the submental region, and such use is not recommended",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "deoxycholic-acid-summary-indication-why-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "為什麼這個預測合理？",
+     "summary": "預測理由稱原本用於溶解膽固醇性膽結石",
+     "note": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
+     "finding": "Deoxycholic acid 在台灣與美國的核准用途只有注射改善成人頦下脂肪堆積；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。",
+     "claim": "原本用於溶解膽固醇性膽結石與改善膽汁相關肝病。",
+     "replacement": "在台灣核准用於注射改善成人頦下脂肪堆積（溶解膽固醇性膽結石是去氧熊膽酸的用途）。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "fenoprofen",
@@ -18691,7 +18938,7 @@
    "action": "correct",
    "section": "標題",
    "summary": "標題以消毒殺菌為原用途",
-   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名都是 povidone-iodine，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "# Povidone：從外用消毒殺菌到先天性魚鱗癬樣紅皮症",
    "replacement": "# Povidone：從製劑輔料與人工淚液到先天性魚鱗癬樣紅皮症",
@@ -18743,6 +18990,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-title-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "標題",
+     "summary": "標題以消毒殺菌為原用途",
+     "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "claim": "# Povidone：從外用消毒殺菌到先天性魚鱗癬樣紅皮症",
+     "replacement": "# Povidone：從製劑輔料與人工淚液到先天性魚鱗癬樣紅皮症",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -18762,7 +19033,7 @@
    "action": "correct",
    "section": "一句話總結",
    "summary": "一句話總結把 povidone 寫成聚維酮碘",
-   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名都是 povidone-iodine，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "Povidone（聚維酮碘）是外用局部消毒殺菌劑，原本用於傷口、皮膚、口腔及手術前消毒。",
    "replacement": "Povidone（聚維酮，PVP）是常用的製劑輔料（分散劑、懸膠劑、崩散劑），也用於人工淚液；傷口、皮膚、口腔及手術前消毒是 povidone-iodine（聚維酮碘）的用途。",
@@ -18814,6 +19085,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-summary-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "一句話總結",
+     "summary": "一句話總結把 povidone 寫成聚維酮碘",
+     "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "claim": "Povidone（聚維酮碘）是外用局部消毒殺菌劑，原本用於傷口、皮膚、口腔及手術前消毒。",
+     "replacement": "Povidone（聚維酮，PVP）是常用的製劑輔料（分散劑、懸膠劑、崩散劑），也用於人工淚液；傷口、皮膚、口腔及手術前消毒是 povidone-iodine（聚維酮碘）的用途。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ]
   },
@@ -18833,7 +19128,7 @@
    "action": "correct",
    "section": "快速總覽「原核准適應症」",
    "summary": "預測理由稱 povidone 是含碘消毒劑",
-   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名都是 povidone-iodine，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "Povidone 是含碘的外用消毒劑，一般認為其透過釋出游離碘殺滅微生物。",
    "history": [
@@ -18884,6 +19179,30 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-why-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "快速總覽「原核准適應症」",
+     "summary": "預測理由稱 povidone 是含碘消毒劑",
+     "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "claim": "Povidone 是含碘的外用消毒劑，一般認為其透過釋出游離碘殺滅微生物。",
+     "replacement": "Povidone（聚維酮，PVP）本身不含碘，主要用作製劑輔料與人工淚液；含碘的外用消毒劑是 povidone-iodine（聚維酮碘），透過釋出游離碘殺滅微生物。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
    "replacement": "Povidone（聚維酮，PVP）本身不含碘，主要用作製劑輔料與人工淚液；含碘的外用消毒劑是 povidone-iodine（聚維酮碘），透過釋出游離碘殺滅微生物。"
@@ -18901,13 +19220,12 @@
    ],
    "id": "povidone-iodine-indications-conclusion-2026-10-16",
    "checked": "2026-10-16",
-   "action": "annotate",
+   "action": "correct",
    "section": "結論與下一步",
    "summary": "結論稱 povidone 原為外用消毒劑",
-   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。原文保留。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名都是 povidone-iodine，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
-   "claim": "Povidone 原為外用消毒劑",
-   "anchor": "Povidone 原為外用消毒劑",
+   "claim": "Povidone 原為外用消毒劑，用於此遺傳性皮膚病缺乏合理依據。",
    "history": [
     {
      "drug": "povidone",
@@ -18956,8 +19274,58 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "結論稱 povidone 原為外用消毒劑",
+     "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。原文保留。",
+     "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "claim": "Povidone 原為外用消毒劑",
+     "anchor": "Povidone 原為外用消毒劑",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "結論與下一步",
+     "summary": "結論稱 povidone 原為外用消毒劑",
+     "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名都是 povidone-iodine，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "claim": "Povidone 原為外用消毒劑，用於此遺傳性皮膚病缺乏合理依據。",
+     "anchor": "Povidone 原為外用消毒劑",
+     "replacement": "Povidone（聚維酮）本身是製劑輔料與人工淚液成分，外用消毒劑是 povidone-iodine（聚維酮碘），用於此遺傳性皮膚病缺乏合理依據。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
-   ]
+   ],
+   "replacement": "Povidone（聚維酮）本身是製劑輔料與人工淚液成分，外用消毒劑是 povidone-iodine（聚維酮碘），用於此遺傳性皮膚病缺乏合理依據。"
   },
   {
    "drug": "potassium_iodide",
@@ -20148,7 +20516,7 @@
    "action": "correct",
    "section": "快速總覽「原適應症」",
    "summary": "原適應症寫殺菌劑",
-   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+   "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名都是 povidone-iodine，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
    "claim": "| 原適應症 | 殺菌劑 |",
    "replacement": "| 原適應症 | 製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液（povidone 單方許可證，皆已註銷）；殺菌劑是 povidone-iodine 的適應症 |",
@@ -20195,6 +20563,30 @@
      "summary": "原適應症寫殺菌劑",
      "note": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
      "finding": "TFDA 許可證資料中，主成分欄登載為 povidone（聚維酮，PVP）的單方許可證共 8 張，全部已註銷：分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑（衛署藥輸字第000310號、第012427號、第001931號、第010488號）、人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），以及品名為優碘、登載適應症為消毒的衛署藥製字第039361號、第043746號。截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；聚維酮碘許可證已不再計入本頁許可證表。",
+     "claim": "| 原適應症 | 殺菌劑 |",
+     "replacement": "| 原適應症 | 製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液（povidone 單方許可證，皆已註銷）；殺菌劑是 povidone-iodine 的適應症 |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    },
+    {
+     "drug": "povidone",
+     "file": "povidone.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥輸字第000310號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1997/12/05）｜適應症 分散劑 ／ 許可證字號 衛署藥輸字第012427號｜中文品名 聚乙烯醇/咯啶酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2005/06/03）｜適應症 懸膠劑 ／ 許可證字號 衛署藥輸字第001931號｜中文品名 聚乙烯氮伍圜酮｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/16）｜適應症 懸浮賦形劑 ／ 許可證字號 衛署藥輸字第010488號｜中文品名 聚乙烯醇/咯啶酮粉劑｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2004/12/23）｜適應症 錠劑崩散劑 ／ 許可證字號 衛署藥輸字第022694號｜中文品名 優樂沛人工淚液｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥輸字第022926號｜中文品名 優樂沛人工淚液（單劑量）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2016/05/31）｜適應症 眼睛乾澀。 ／ 許可證字號 衛署藥製字第039361號｜中文品名 優碘擦洗液１００公絲/公撮（普威隆碘）｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（1996/10/05）｜適應症 手術前、手術後皮膚毒劑、預防意外傷害如灼傷裂口及擦傷口的感染。 ／ 許可證字號 衛署藥製字第043746號｜中文品名 優碘粉１７〝山聖〞｜主成分略述 POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2009/12/30）｜適應症 局部消毒劑。 ／ 許可證字號 衛署藥製字第038941號｜中文品名 高碘｜主成分略述 IODINE；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 已註銷（2023/05/05）｜適應症 消毒殺菌用 ／ 許可證字號 衛署藥製字第036634號｜中文品名 \"信東\" 舒眼人工淚液｜主成分略述 POLYVINYL ALCOHOL；POVIDONE (EQ TO POLYVINYL PYRROLIDONE)( EQ TO PVP ) ( EQ TO POLYVIDONE)(EQ TO POLYVINYLPYRROLIDONE)｜狀態 有效（至 2028/08/16）｜適應症 暫時緩解因眼睛乾澀所引起灼熱感與刺激感；暫時緩解因配戴隱型眼鏡造成之不適。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "id": "povidone-iodine-indications-row-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "快速總覽「原適應症」",
+     "summary": "原適應症寫殺菌劑",
+     "note": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
+     "finding": "TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是消毒殺菌，實際上是碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。",
      "claim": "| 原適應症 | 殺菌劑 |",
      "replacement": "| 原適應症 | 製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液（povidone 單方許可證，皆已註銷）；殺菌劑是 povidone-iodine 的適應症 |",
      "retired": "2026-10-16",
@@ -20929,11 +21321,43 @@
    "checked": "2026-10-16",
    "action": "correct",
    "section": "為什麼這個預測合理？",
-   "summary": "預測理由稱 cyclizine 單方已列有蕁麻疹等過敏適應症",
+   "summary": "預測理由稱 cyclizine 單方已列有蕁麻疹等過敏適應症、屬仿單內適應症",
    "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。",
    "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。",
-   "claim": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症。",
-   "replacement": "但台灣 cyclizine 單方許可證（旅暈平錠）只核准動暈症；蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等是 homochlorcyclizine、chlorcyclizine 等不同成分許可證的適應症。"
+   "claim": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症。因此這項預測大致屬於**仿單內適應症**，不算是真正的藥物再利用。",
+   "replacement": "但台灣 cyclizine 單方許可證（旅暈平錠）只核准動暈症；蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等是 homochlorcyclizine、chlorcyclizine 等不同成分許可證的適應症。因此這項預測不屬於仿單內適應症；cyclizine 用於蕁麻疹目前只有 H1 拮抗的類別推論（2026-10-03 重審評為 L5）。",
+   "history": [
+    {
+     "drug": "cyclizine",
+     "file": "cyclizine.md",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第002658號｜中文品名 旅暈平錠｜主成分略述 CYCLIZINE HCL｜狀態 有效（至 2029/05/25）｜適應症 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀。 ／ 許可證字號 衛署藥製字第032336號｜中文品名 \"應元\"赫敏錠10毫克（同氯克利定）｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/03/21）｜適應症 一般過敏性發疹、慢性濕疹、皮膚搔癢症、特異性皮膚炎、皮膚炎、藥疹支氣管氣喘 ／ 許可證字號 衛署藥製字第023981號｜中文品名 止敏糖衣錠（鹽酸氯晒克利淨）｜主成分略述 CHLORCYCLIZINE HCL｜狀態 有效（至 2028/05/25）｜適應症 緩解過敏性鼻炎、枯草熱所引起之相關症狀（流鼻水、打噴嚏、眼睛及喉部搔癢）及過敏所引起之搔癢、皮膚癢疹。 ／ 許可證字號 衛署藥製字第011706號｜中文品名 敏平錠｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2029/05/25）｜適應症 蕁麻疹、濕疹、過敏性皮膚炎、藥物過敏、支氣管氣喘 ／ 許可證字號 衛署藥製字第032390號｜中文品名 \"美的\"宜敏錠10毫克(同氯克利定)｜主成分略述 HOMOCHLORCYCLIZINE HCL(HOMOGININ)｜狀態 有效（至 2030/04/13）｜適應症 濕疹、過敏性皮膚炎、支氣管氣喘、蕁麻疹",
+       "accessed": "2026-10-16"
+      },
+      {
+       "title": "emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1",
+       "url": "https://www.medicines.org.uk/emc/product/4318/smpc",
+       "excerpt": "§4.1: Cyclizine Hydrochloride is indicated in adults and in children aged 6 years and over for the prevention and treatment of nausea and vomiting including:- • Motion sickness. • Nausea and vomiting caused by narcotic analgesics and by general anaesthetics in the post-operative period. • Vomiting associated with radiotherapy, especially for breast cancer since cyclizine does not elevate prolactin levels. ／ §5.1: Cyclizine is a histamine H 1 receptor antagonist of the piperazine class which is characterised by a low incidence of drowsiness. It possesses anticholinergic and antiemetic properties.",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "cyclizine-why-approved-premise-premise-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "correct",
+     "section": "為什麼這個預測合理？",
+     "summary": "預測理由稱 cyclizine 單方已列有蕁麻疹等過敏適應症",
+     "note": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。",
+     "finding": "台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。英國仿單所載 cyclizine 的核准用途為噁心、嘔吐與動暈症。",
+     "claim": "但台灣許可證上，Cyclizine 單方產品已列有蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等過敏性疾患的適應症。",
+     "replacement": "但台灣 cyclizine 單方許可證（旅暈平錠）只核准動暈症；蕁麻疹、濕疹、過敏性鼻炎、支氣管氣喘等是 homochlorcyclizine、chlorcyclizine 等不同成分許可證的適應症。",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "povidone",
@@ -20997,6 +21421,29 @@
    "finding": "本頁文獻證據表列有 3 篇雙盲交叉研究：PMID 7010512（對 phenylbutazone）、6996071（對 indomethacin 與安慰劑）、7026817（六種 NSAID 比較，資料庫標示為 Review）。原文保留。",
    "claim": "（含 2 篇雙盲交叉試驗）",
    "anchor": "（含 2 篇雙盲交叉試驗）"
+  },
+  {
+   "id": "ergometrine-header-level-2026-10-16",
+   "drug": "ergometrine",
+   "file": "ergometrine.md",
+   "checked": "2026-10-16",
+   "action": "header_level",
+   "summary": "頁首證據等級",
+   "original_level": "L4",
+   "new_level": "L3",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L4",
+   "basis": "快速總覽「證據等級」列：L5（多毛症）；L3（偏頭痛）（偏頭痛經重審由 L4 升為 L3）",
+   "note": "頁首等級（front matter evidence_level、頁首「證據等級」列）依快速總覽「證據等級」列重算；偏頭痛經重審由 L4 升為 L3，頁首隨之由 L4 改為 L3。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁快速總覽「證據等級」列：L5（多毛症）；L3（偏頭痛）",
+     "accessed": "2026-10-16"
+    }
+   ]
   }
  ]
 }

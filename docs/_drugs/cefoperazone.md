@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**硬化性膽管炎 (Sclerosing Cholangitis)** �
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L5 |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 44 張（有效單方 15／有效複方 3／已過期 1／已註銷 25） |
+| 許可證數 | 44 張（有效單方 12／有效複方 6／已過期 1／已註銷 25） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -70,9 +70,9 @@ TxGNN 模型預測它可能對**硬化性膽管炎 (Sclerosing Cholangitis)** �
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cefoperazone 的不重複許可證共 **44 張**：有效單方 15 張、有效複方 3 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 25 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Cefoperazone 的不重複許可證共 **44 張**：有效單方 12 張、有效複方 6 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 25 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（15 張）
+**有效・單方（截至資料集日期 2026-09-29）**（12 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -87,24 +87,24 @@ TxGNN 模型預測它可能對**硬化性膽管炎 (Sclerosing Cholangitis)** �
 | 衛署藥製字第039078號 | 歐寶賜福注射劑（西弗匹拉隆） | 乾粉注射劑 | 中國化學製藥股份有限公司台南三廠 | 2030/07/22 | 適用於治療由感受性細菌所引起的下列感染：上、下呼吸道感染、上、泌尿道感染、腹膜炎、膽囊炎、膽管炎及其它腹腔內感染、敗血病、腦膜炎、皮膚及軟組織感染、骨關節感染、骨盆發炎、淋病及其它… |
 | 衛署藥製字第039094號 | "榮民"舒復得注射劑(西弗匹拉隆) | 乾粉注射劑 | 榮民製藥股份有限公司 | 2030/10/27 | 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染性。 |
 | 衛部藥陸輸字第000909號 | 頭孢匹拉腙鈉 | （粉） | 龍大生技股份有限公司 | 2029/12/09 | 抗生素 |
-| 衛部藥陸輸字第000971號 | 頭孢匹拉腙鈉舒巴坦鈉 | （粉） | 龍大生技股份有限公司 | 2030/12/11 | 抗生素。 |
-| 衛部藥陸輸字第001007號 | 頭孢哌𠯤酮鈉鹽-碸丙內醯胺鈉鹽 | （粉） | 宇直泰貿易股份有限公司 | 2031/08/11 | 抗生素 |
 | 衛部藥陸輸字第001241號 | 頭孢匹拉腙納鹽 | （粉） | 台灣荃新股份有限公司 | 2030/11/05 | 抗生素 |
-| 衛部藥陸輸字第001273號 | 頭孢哌𠯤酮鈉鹽-碸丙內醯胺鈉鹽 | （粉） | 台灣荃新股份有限公司 | 2031/04/27 | 抗生素 |
 
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（6 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 衛部藥製字第058156號 | 博益欣注射劑 | SULBACTAM(AS SODIUM)STERILE、SULBACTAM(AS SODIUM)STERILE、SULB… | 乾粉注射劑 | 適用於治療由感受性細菌所引起的下列感染：上、下呼吸道感染、上、下泌尿道感染、腹膜炎、膽囊炎、膽管炎及其他腹腔內感染、骨盆發炎、子宮內膜炎及其他生殖道感染、以及創傷燙傷、手術後之二次… |
 | 衛部藥製字第060278號 | 賜復坦乾粉靜脈注射劑 | SULBACTAM(AS SODIUM)STERILE、SULBACTAM(AS SODIUM)STERILE、SULB… | 乾粉注射劑 | 適用於治療由感受性細菌所引起的下列感染：上、下呼吸道感染、上、下泌尿道感染、腹膜炎、膽囊炎、膽管炎及其它腹腔內感染、骨盆發炎、子宮內膜炎及其它生殖道感染、以及創傷燙傷、手術後之二次… |
 | 衛部藥製字第061039號 | 布洛坦乾粉注射劑 | SULBACTAM(AS SODIUM)STERILE、CEFOPERAZONE SODIUM、CEFOPERAZONE… | 乾粉注射劑 | 適用於治療由感受性細菌所引起的下列感染：上、下呼吸道感染、上、下泌尿道感染、腹膜炎、膽囊炎、膽管炎及其他腹腔內感染、骨盆發炎、子宮內膜炎及其他生殖道感染、以及創傷燙傷、手術後之二次… |
+| 衛部藥陸輸字第000971號 | 頭孢匹拉腙鈉舒巴坦鈉 | Cefoperazone Sodium、Sulbactam Sodium | （粉） | 抗生素。 |
+| 衛部藥陸輸字第001007號 | 頭孢哌𠯤酮鈉鹽-碸丙內醯胺鈉鹽 | Cefoperazone Sodium、Sulbactam Sodium (1:1) | （粉） | 抗生素 |
+| 衛部藥陸輸字第001273號 | 頭孢哌𠯤酮鈉鹽-碸丙內醯胺鈉鹽 | Cefoperazone Sodium、Sulbactam Sodium (1:1) | （粉） | 抗生素 |
 
 <details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥陸輸字第001008號</td><td>頭孢哌𠯤酮鈉鹽-碸丙內醯胺鈉鹽</td><td>Cefoperazone Sodium and Sulbactam Sodium (1:1)</td><td>2026/08/11</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥陸輸字第001008號</td><td>頭孢哌𠯤酮鈉鹽-碸丙內醯胺鈉鹽</td><td>Cefoperazone Sodium、Sulbactam Sodium (1:1)</td><td>2026/08/11</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（25 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第025325號</td><td>先復癒黴素肌肉及靜脈注射劑１公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第025397號</td><td>先復癒黴素肌肉及靜脈注射劑２公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第025398號</td><td>先復癒黴素肌肉及靜脈注射劑０．５公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第029093號</td><td>欣朗注射劑５００公絲（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>1996/04/27</td></tr><tr><td>衛署藥製字第030625號</td><td>西弗宗注射劑０．５公克、１公克（西弗拉隆）</td><td>CEFAZOLIN (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2015/04/21</td></tr><tr><td>衛署藥製字第030781號</td><td>"聯邦" 優榮注射劑０．５公克、１公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2023/08/15</td></tr><tr><td>衛署藥製字第032061號</td><td>賜復壯注射劑（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2015/01/09</td></tr><tr><td>衛署藥製字第039084號</td><td>喜龍乾粉注射劑（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第039714號</td><td>欣朗注射劑５００公絲（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2016/09/07</td></tr><tr><td>衛署藥輸字第010404號</td><td>西弗匹拉隆鈉</td><td>CEFOPERAZONE SODIUM</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015658號</td><td>西弗匹拉隆鈉注射用</td><td>CEFOPERAZONE SODIUM</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第016255號</td><td>西弗匹拉隆</td><td>CEFOPERAZONE (SODIUM)</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第016385號</td><td>西佛朗黴素注射劑２公克</td><td>CEFOPERAZONE (SODIUM)</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第016565號</td><td>西佛朗黴素注射劑１公克</td><td>CEFOPERAZONE SODIUM</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第017034號</td><td>達得肌肉注射劑１０００公絲</td><td>CEFOPERAZONE (SODIUM)</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018246號</td><td>西弗匹拉隆鈉</td><td>CEFOPERAZONE SODIUM</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第019790號</td><td>西弗匹拉隆鈉</td><td>CEFOPERAZONE SODIUM</td><td>2003/03/03</td></tr><tr><td>衛署藥輸字第020357號</td><td>先復癒黴素肌肉及靜脈注射劑１公克</td><td>CEFOPERAZONE SODIUM</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第020358號</td><td>先復癒黴素肌肉疾靜脈注射劑０．５公克</td><td>CEFOPERAZONE SODIUM</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第020359號</td><td>先復癒黴素肌肉疾靜脈注射劑二公克</td><td>CEFOPERAZONE SODIUM</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第020491號</td><td>"艾施多華" 無菌西福博拉樂鈉</td><td>CEFOPERAZONE(AS SODIUM)STERILE</td><td>2009/12/21</td></tr><tr><td>衛署藥輸字第021013號</td><td>斯服幸肌肉注射劑１０００公絲</td><td>LIDOCAINE HCL、CEFOPERAZONE SODIUM</td><td>2005/06/03</td></tr><tr><td>衛署藥陸輸字第000570號</td><td>西弗匹拉隆鈉</td><td>Cefoperazone Sodium</td><td>2024/05/06</td></tr><tr><td>衛部藥製字第060979號</td><td>雪服安注射劑</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SO…</td><td>2024/12/18</td></tr><tr><td>衛部藥陸輸字第000837號</td><td>頭孢匹拉腙鈉舒巴坦鈉</td><td>Cefoperazone Sodium &amp; Sulbactam Sodium 1：1 sterile mixture</td><td>2024/05/06</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第025325號</td><td>先復癒黴素肌肉及靜脈注射劑１公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第025397號</td><td>先復癒黴素肌肉及靜脈注射劑２公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第025398號</td><td>先復癒黴素肌肉及靜脈注射劑０．５公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2013/10/08</td></tr><tr><td>衛署藥製字第029093號</td><td>欣朗注射劑５００公絲（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>1996/04/27</td></tr><tr><td>衛署藥製字第030625號</td><td>西弗宗注射劑０．５公克、１公克（西弗拉隆）</td><td>CEFAZOLIN (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2015/04/21</td></tr><tr><td>衛署藥製字第030781號</td><td>"聯邦" 優榮注射劑０．５公克、１公克（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2023/08/15</td></tr><tr><td>衛署藥製字第032061號</td><td>賜復壯注射劑（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2015/01/09</td></tr><tr><td>衛署藥製字第039084號</td><td>喜龍乾粉注射劑（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)</td><td>2016/09/19</td></tr><tr><td>衛署藥製字第039714號</td><td>欣朗注射劑５００公絲（西弗匹拉隆）</td><td>CEFOPERAZONE (SODIUM)</td><td>2016/09/07</td></tr><tr><td>衛署藥輸字第010404號</td><td>西弗匹拉隆鈉</td><td>CEFOPERAZONE SODIUM</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015658號</td><td>西弗匹拉隆鈉注射用</td><td>CEFOPERAZONE SODIUM</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第016255號</td><td>西弗匹拉隆</td><td>CEFOPERAZONE (SODIUM)</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第016385號</td><td>西佛朗黴素注射劑２公克</td><td>CEFOPERAZONE (SODIUM)</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第016565號</td><td>西佛朗黴素注射劑１公克</td><td>CEFOPERAZONE SODIUM</td><td>1994/03/11</td></tr><tr><td>衛署藥輸字第017034號</td><td>達得肌肉注射劑１０００公絲</td><td>CEFOPERAZONE (SODIUM)</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第018246號</td><td>西弗匹拉隆鈉</td><td>CEFOPERAZONE SODIUM</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第019790號</td><td>西弗匹拉隆鈉</td><td>CEFOPERAZONE SODIUM</td><td>2003/03/03</td></tr><tr><td>衛署藥輸字第020357號</td><td>先復癒黴素肌肉及靜脈注射劑１公克</td><td>CEFOPERAZONE SODIUM</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第020358號</td><td>先復癒黴素肌肉疾靜脈注射劑０．５公克</td><td>CEFOPERAZONE SODIUM</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第020359號</td><td>先復癒黴素肌肉疾靜脈注射劑二公克</td><td>CEFOPERAZONE SODIUM</td><td>2010/08/24</td></tr><tr><td>衛署藥輸字第020491號</td><td>"艾施多華" 無菌西福博拉樂鈉</td><td>CEFOPERAZONE(AS SODIUM)STERILE</td><td>2009/12/21</td></tr><tr><td>衛署藥輸字第021013號</td><td>斯服幸肌肉注射劑１０００公絲</td><td>LIDOCAINE HCL、CEFOPERAZONE SODIUM</td><td>2005/06/03</td></tr><tr><td>衛署藥陸輸字第000570號</td><td>西弗匹拉隆鈉</td><td>Cefoperazone Sodium</td><td>2024/05/06</td></tr><tr><td>衛部藥製字第060979號</td><td>雪服安注射劑</td><td>CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SODIUM)、CEFOPERAZONE (SO…</td><td>2024/12/18</td></tr><tr><td>衛部藥陸輸字第000837號</td><td>頭孢匹拉腙鈉舒巴坦鈉</td><td>Cefoperazone Sodium、Sulbactam Sodium 1：1 sterile mixture</td><td>2024/05/06</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

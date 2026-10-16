@@ -107,6 +107,8 @@ def _license_tables(lines: list[str]) -> list[tuple[int, int]]:
 
 SECTION_RE = re.compile(r"^## .*台灣上市", re.M)
 COUNT_PROSE_RE = re.compile(r"(\d[\d,，]*)\s*張(相關|藥品|有效)?許可證(?:（有效 \d+ 張）)?")  # 已改寫過的連同括號一起更新
+# 「總許可證數達 313 張」「許可證總數為 20 張」句型（2026-10-16 pm 第六輪：cephalexin）
+COUNT_TOTAL_RE = re.compile(r"((?:總許可證數|許可證總數|許可證數)(?:達|為|共|約)?\s*)(\d[\d,，]*)(\s*張)")
 
 
 def rewrite_count_prose(text: str, s: dict) -> str:
@@ -134,8 +136,8 @@ def _count_sub(s: dict):
 
 def _prose(seg: str, s: dict) -> str:
     return "\n".join(
-        ln if ln.startswith("|") else COUNT_PROSE_RE.sub(
-            _count_sub(s), ln)
+        ln if ln.startswith("|") else COUNT_TOTAL_RE.sub(
+            lambda m: f"{m.group(1)}{s['total']}{m.group(3)}", COUNT_PROSE_RE.sub(_count_sub(s), ln))
         for ln in seg.split("\n"))
 
 

@@ -60,7 +60,7 @@ TxGNN 模型預測分數最高的新適應症為**海綿尾症候群（馬尾症
 | TxGNN 預測分數 | 99.80% |
 | 證據等級 | L5（僅有模型預測） |
 | 台灣上市 | ✓ 已上市 |
-| 許可證數 | 25 張（有效單方 0／有效複方 4／已註銷 21） |
+| 許可證數 | 27 張（有效單方 0／有效複方 6／已註銷 21） |
 | 建議決策 | Hold |
 
 <!-- review:begin sodium-carbonate-original-indication-2026-10-03 -->
@@ -116,9 +116,9 @@ TxGNN 模型預測分數最高的新適應症為**海綿尾症候群（馬尾症
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sodium Carbonate 的不重複許可證共 **25 張**：有效單方 0 張、有效複方 4 張、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sodium Carbonate 的不重複許可證共 **27 張**：有效單方 0 張、有效複方 6 張、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（6 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -126,6 +126,8 @@ TxGNN 模型預測分數最高的新適應症為**海綿尾症候群（馬尾症
 | 衛署藥製字第004068號 | 視麗兒點眼液 | SODIUM PHOSPHATE MONOBASIC (EQ TO MONOSODIUM PHOSPHATE)(EQ T… | 點眼液劑 | 暫時緩解因眼睛乾澀所引起灼熱感與刺激感。 |
 | 衛署藥製字第038508號 | "杏輝"旺滴點眼液 | SODIUM CHLORIDE、BORIC ACID、SODIUM PHOSPHATE DIBASIC HEPTAHYD… | 點眼液劑 | 淚液之補充、眼睛疲勞結膜囊的清淨化（如清淨塵埃、灰塵微粒子、細菌）。 |
 | 衛署藥製字第057227號 | "派頓"滴潤人工淚液 | SODIUM CARBONATE ANHYDROUS、POTASSIUM CHLORIDE、SODIUM CHLORID… | 點眼液劑 | 暫時緩解因眼睛乾澀所引起灼熱感與刺激感。 |
+| 衛署藥製字第057736號 | "松瑞"美洛培南-碳酸鈉(無菌) | Meropenem、Sodium Carbonate "SLC" (Sterile) | 原料藥結晶性粉末 | 對Meropenem具感受性之細菌引起之感染症。 |
+| 衛部藥陸輸字第000906號 | 頭孢他汀及碳酸鈉 | Ceftazidime、Sodium Carbonate | （粉） | 抗生素。 |
 
 <details><summary><strong>已註銷</strong>（21 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛成製字第003209號</td><td>三和胃散</td><td>FENNEL POWDER (FOENICULI POWDER)、CINNAMON POWDER (CINNAMON C…</td><td>1996/04/16</td></tr><tr><td>內衛成製字第003546號</td><td>養胃散</td><td>SODIUM CARBONATE、MAGNESIUM CARBONATE、CINNAMON POWDER (CINNAM…</td><td>2012/10/15</td></tr><tr><td>內衛藥製字第002553號</td><td>胃舒樂片</td><td>BENZOCAINE (ETHYL AMINOBENZOATE)、SODIUM CARBONATE、ALUMINUM S…</td><td>2015/07/14</td></tr><tr><td>衛署藥製字第013654號</td><td>明瞳眼藥水</td><td>POTASSIUM CHLORIDE、SODIUM CHLORIDE、SODIUM CARBONATE、SODIUM P…</td><td>1993/12/30</td></tr><tr><td>衛署藥製字第026918號</td><td>西平黴素注射劑１０００公絲（西華定）</td><td>SODIUM CARBONATE、CEPHRADINE</td><td>1991/10/05</td></tr><tr><td>衛署藥製字第036645號</td><td>旺滴舒點眼液</td><td>POTASSIUM CHLORIDE、BORIC ACID、SODIUM CHLORIDE、SODIUM PHOSPHA…</td><td>1995/06/26</td></tr><tr><td>衛署藥輸字第006789號</td><td>緩衝性西華孟多甲酸酯鈉</td><td>CEFAMANDOLE、SODIUM CARBONATE</td><td>2005/06/03</td></tr><tr><td>衛署藥輸字第007818號</td><td>喜洛巴注射劑</td><td>SODIUM CARBONATE、SODIUM HYDROXIDE、TEGAFUR (FTORAFUR)</td><td>1987/06/13</td></tr><tr><td>衛署藥輸字第008050號</td><td>德泰固命注射液</td><td>GLYCINE (EQ TO AMINOACETIC ACID)(EQ TO GLYCOCOLL)、ASPARTATE…</td><td>1990/02/26</td></tr><tr><td>衛署藥輸字第008051號</td><td>德泰復生注射液</td><td>ARGININE HCL L-、PANTHENOL、L-ARGININE、NIACINAMIDE (NICOTINAMI…</td><td>1990/02/26</td></tr><tr><td>衛署藥輸字第008052號</td><td>德泰利多注射液</td><td>ORNITHINE L- ASPARTATE L-、SODIUM CHLORIDE、CYANOCOBALAMIN (VI…</td><td>1988/01/28</td></tr><tr><td>衛署藥輸字第008053號</td><td>德泰安命注射液</td><td>CYSTINE L-、GLUTAMIC ACID L-、SODIUM CARBONATE MONOHYDRATE、SOR…</td><td>1990/02/26</td></tr><tr><td>衛署藥輸字第008054號</td><td>德泰氨美注射液</td><td>L-ARGININE、NIACINAMIDE (NICOTINAMIDE)、PANTHENOL、L-TRYPTOPHAN…</td><td>1990/02/26</td></tr><tr><td>衛署藥輸字第011982號</td><td>康脈得注射液</td><td>L-ISOLEUCINE、L-VALINE、POTASSIUM CHLORIDE、L-PHENYLALANINE、L-A…</td><td>1988/01/18</td></tr><tr><td>衛署藥輸字第016134號</td><td>康脈得注射液</td><td>L-VALINE、HISTIDINE L- HCL (EQ TO L-HISTIDINE HYDROCHLORIDE)、…</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第016457號</td><td>紐賽發注射劑１０００公絲</td><td>CEFAMANDOLE (NAFATE)、SODIUM CARBONATE ANHYDROUS</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第017704號</td><td>德泰氨美注射液</td><td>XYLITOL、THIAMINE HYDROCHLORIDE、RIBOFLAVIN PHOSPHATE SODIUM、L…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第017706號</td><td>德泰固命注射液</td><td>SODIUM CHLORIDE、GLUTAMIC ACID L-、SORBITOL、INOSITOL (MESO-INO…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第017726號</td><td>德泰安命注射液</td><td>L-ARGININE、L-TYROSINE、L-TRYPTOPHAN、MAGNESIUM CHLORIDE、PYRIDO…</td><td>2000/09/04</td></tr><tr><td>衛署藥輸字第017727號</td><td>德泰復生注射液</td><td>CYANOCOBALAMIN (VIT B12)、ORNITHINE L- ASPARTATE L-、GLUTAMIC…</td><td>2000/09/04</td></tr><tr><td>衛部藥製字第058317號</td><td>"展旺"無菌碳酸鈉</td><td>Sodium Carbonate "SLC"</td><td>2023/06/30</td></tr></tbody></table></details>

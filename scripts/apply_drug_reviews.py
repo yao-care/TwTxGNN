@@ -317,7 +317,8 @@ def undo_retired(text, recs):
         if r["action"] == "correct" and find_outside(text, r["claim"]) < 0 and find_outside(text, r["replacement"]) < 0:
             for h in reversed(r.get("history") or []):
                 if h.get("action") == "correct" and h.get("replacement") and find_outside(text, h["replacement"]) >= 0:
-                    if h["claim"] != r["claim"] and find_outside(text, h["claim"]) < 0:
+                    # claim 相同但 replacement 不同（前版更正、中間改過加註、又改回更正）也要還原
+                    if (h["claim"] != r["claim"] or h["replacement"] != r["replacement"]) and find_outside(text, h["claim"]) < 0:
                         j = find_outside(text, h["replacement"])
                         text = text[:j] + h["claim"] + text[j + len(h["replacement"]):]
                     break

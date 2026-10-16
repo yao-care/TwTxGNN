@@ -132,7 +132,13 @@ def ingredients_of(rec: dict) -> list[str]:
     en = rec.get("英文品名")
     # 2026-10-16：主成分欄空白時用英文品名；去掉「Sterile」前綴（如衛部藥製字第058317號
     # Sterile Sodium Carbonate "SLC"），否則唯一的碳酸鈉單方比對不到
-    return [re.sub(r"^\s*STERILE\s+", "", en.strip(), flags=re.I)] if en else []
+    # 英文品名寫明複方（「X and Y」「X with Y」「X/Y」）時拆成各成分，否則會被當成單方（2026-10-16 pm 第六輪：
+    # cefoperazone＋sulbactam、sacubitril／valsartan）；「MG/ML」這類單位不拆
+    if not en:
+        return []
+    en = re.sub(r"^\s*STERILE\s+", "", en.strip(), flags=re.I)
+    parts = re.split(r"\s+(?:AND|WITH|&)\s+|(?<=[A-Za-z]{3})\s*/\s*(?=[A-Za-z]{3})", en, flags=re.I)
+    return [x.strip() for x in parts if x.strip()]
 
 
 def load_records(path: Path | None = None) -> list[dict]:
