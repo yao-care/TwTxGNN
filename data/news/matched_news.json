@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T17:05:26.241231+00:00",
-  "total_count": 37,
+  "last_updated": "2026-10-16T20:17:10.733201+00:00",
+  "total_count": 35,
   "matched_count": 15,
   "news": [
     {
@@ -222,7 +222,7 @@
       "id": "0f3e7bc1b1c8",
       "title": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞",
       "published": "2026-10-15T06:25:00+00:00",
-      "summary": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞&nbsp;&nbsp;PChome Online 新聞「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY成人疫苗打滿 勿成家庭破口&nbsp;&nbsp;中華日報健康網》他染流感數小時竟呼吸衰竭 醫警3族群重症風險高&nbsp;&nbsp;自由健康網驚！流感46死創新高「家長」成感染破口 醫曝原因&nbsp;&nbsp;三立新聞",
+      "summary": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞&nbsp;&nbsp;PChome Online 新聞「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY成人疫苗打滿 勿成家庭破口&nbsp;&nbsp;中華新聞雲／中華日報健康網》他染流感數小時竟呼吸衰竭 醫警3族群重症風險高&nbsp;&nbsp;自由健康網驚！流感46死創新高「家長」成感染破口 醫曝原因&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "PChome Online 新聞",
@@ -1682,32 +1682,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b51f3e8edd16",
-      "title": "破50年紀錄！洛杉磯驚現狂犬病浣熊",
-      "published": "2026-10-09T19:22:04+00:00",
-      "summary": "破50年紀錄！洛杉磯驚現狂犬病浣熊&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVElBcm50QmJwSHlKQlpNSzF6ZUVXLVVEMGgtSlRuaFNvbl9mR2FWaEJVSkNhNVp2WjNJbEc3UTBIdmM5Vm1zR01HVEVmYWFfQXd2S3IyUS0xT1lHYlo3ejVHMWFHTVBVWWJEUDlGQ1pCZzVHTnMxNTlqU3JDUF9wdVBWbzJHUExBc3VGNGc4ME5MaklRTFRMcGptdjlhczdNdk1UbU5FcUttQU4yRUNnU2J4dkctZmZBTFdmckN0c3ZfWFU2NlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b83633084e50",
-      "title": "每天一粒維他命D可延緩老化？哈佛研究：4年內端粒縮短減少逾半",
-      "published": "2026-10-09T17:51:47+00:00",
-      "summary": "每天一粒維他命D可延緩老化？哈佛研究：4年內端粒縮短減少逾半&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHJsWDVSV0FvaFh1RmtwczQyTzRid2Rhc1FpaHF0bGxsOFVWb2dEX01ncXRwTWJXSV9HbVZKamJETV9tb2huRlhWeGpwQ2V6OVdhbkdjaW52cDVKZ3lseDM0ZUU0NTV1WnhDSFRlcXhwaU4wc2p4MHIwczlWdTFSRjNDYkxHOVFRN2FjRDVLbGtfNDA4YVVCNTBqTlFxQzRfWUxEckg5UGVidmJhZVo5ZFBUc0p4Y01UVDVRUGIyNUFtS1Zf?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
