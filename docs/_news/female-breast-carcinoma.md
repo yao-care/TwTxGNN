@@ -3,7 +3,7 @@ layout: default
 title: "乳癌 (female breast carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。2 則新聞、7 個相關藥物。"
+description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/female-breast-carcinoma/
 ---
 
 <p class="key-answer" data-question="乳癌 (female breast carcinoma) 有什麼相關新聞？">
-<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>2 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>1 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ permalink: /news/female-breast-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [美國研究：無私人健保男性乳癌診斷晚、治療延誤致存活率低](https://news.google.com/rss/articles/CBMiugJBVV95cUxQQjlXN21rbmQyNzFINEVWMXZLNE9ydHpUYm5GX1ZLZ04xQmxqaElLUU5QcmFjUWwwZ196cnBxWmYxSmItTWJNZ1ZWbmdDSG5LQm5PTmRXYmpnRFFoRVNpT3V4OXhzcEZsNDVoR1pqd3RxRE9lakFBcThZZi1CektoU0I2SXJYNU5xQVZiandhZHkxZjN2bWhkTUpaUmN3UC1KQVhkOG1vRnEwZkxkQWhGNEZ5eHRSSnRsOXprd3lXNjB1OWZ5QmR5M3pFdEVyUnNpUE9KX0pHbXFKRzJ3VzgycEZJS1I5bTFteU15OTFJbUVKX0l6VDZTdUhLaE5NeUM3dEtNUWl0VEhsQ1Vkcy1qakJFWjd6VW5OdWktQUM3bXhCV0pKSTR0V2Y2eUxjY3F6a0tEbXlsUjVYQQ?oc=5)
-
-2026-10-14
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMiugJBVV95cUxQQjlXN21rbmQyNzFINEVWMXZLNE9ydHpUYm5GX1ZLZ04xQmxqaElLUU5QcmFjUWwwZ196cnBxWmYxSmItTWJNZ1ZWbmdDSG5LQm5PTmRXYmpnRFFoRVNpT3V4OXhzcEZsNDVoR1pqd3RxRE9lakFBcThZZi1CektoU0I2SXJYNU5xQVZiandhZHkxZjN2bWhkTUpaUmN3UC1KQVhkOG1vRnEwZkxkQWhGNEZ5eHRSSnRsOXprd3lXNjB1OWZ5QmR5M3pFdEVyUnNpUE9KX0pHbXFKRzJ3VzgycEZJS1I5bTFteU15OTFJbUVKX0l6VDZTdUhLaE5NeUM3dEtNUWl0VEhsQ1Vkcy1qakJFWjd6VW5OdWktQUM3bXhCV0pKSTR0V2Y2eUxjY3F6a0tEbXlsUjVYQQ?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
 

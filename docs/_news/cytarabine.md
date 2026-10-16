@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/cytarabine/
 <li><strong>原適應症</strong>: 急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、衛部藥輸字第028975號）</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
-<li class="indication-matched">small cell lung carcinoma (99.8%)<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma (99.8%)</li>
 <li>primary pulmonary lymphoma (99.8%)</li>
 <li>well-differentiated fetal adenocarcinoma of the lung (99.8%)</li>
 <li>pulmonary blastoma (99.8%)</li>
@@ -41,7 +41,7 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（5 則）
 
 ### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
@@ -59,19 +59,11 @@ permalink: /news/cytarabine/
 
 ---
 
-### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
+### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
 
-2026-10-14 <span class="news-indication-tag">腫瘤</span>
+2026-10-13 <span class="news-indication-tag">癌症</span>
 
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
-
----
-
-### [遠離肺癌、肝癌等5種高發癌 從這些小習慣開始](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUm83ZW0zNXlScWZYR213WGR6dkRYNzJtUVphOXl2V0x1dmJiamNDZ1YxbjBtU3dfcGZqUUo5Y0tsY1RWakdfVGlURUhKLU9idW1VS0sxY0lrbDVuOUtRa1ZtRWZmRUx5U21Wa1V6S2lVOFhWX01SbUtYM1hhQ3BHTUZNSTgxX1dSZWw1VzdWMUQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">肺癌</span> <span class="news-indication-tag">肝癌</span>
-
-來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOUm83ZW0zNXlScWZYR213WGR6dkRYNzJtUVphOXl2V0x1dmJiamNDZ1YxbjBtU3dfcGZqUUo5Y0tsY1RWakdfVGlURUhKLU9idW1VS0sxY0lrbDVuOUtRa1ZtRWZmRUx5U21Wa1V6S2lVOFhWX01SbUtYM1hhQ3BHTUZNSTgxX1dSZWw1VzdWMUQ?oc=5)
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
 
 ---
 
@@ -88,22 +80,6 @@ permalink: /news/cytarabine/
 2026-10-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">鼻塞</span>
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5)
-
----
-
-### [很多癌癥不是「運氣差」！2026癌癥進展報告：40%的癌癥，本可以預防](https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5)
-
-2026-10-10 <span class="news-indication-tag">癌症</span>
-
-來源: [風火輪傳媒有限公司](https://news.google.com/rss/articles/CBMidEFVX3lxTE5URUFlMXNnY1JzNjJwQndMOThnbUo4N3FRS1FZNGtTbHlpVjQxX0htSVp3M3ZRXzR3VE14Sm1iTUpJWVBNbGNkM2JLZndMaDFfcXVJRGxTN3BHQWRVcG9yOVIxRWR1TXVWUXhfYmJSN2VrY1dT?oc=5)
-
----
-
-### [92歲婦切肝腫瘤 微創手術傷口小 精準麻醉降疼痛](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
-
-2026-10-10 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">肝腫瘤</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3djJEQ0ZEX0k1ZnVhcEl0bmZDaDV5Q0NjMVlWTm5QT2UtaUlHYjJWVUxpakZGUkJJOXNad0l3M05JSEZpT1ZqVUtpTV96Q2x2RjEzVWNuaTc0QmRtSF80anFB0gFnQVVfeXFMT1BtX3hFUmhZNGU5bXhjV0pxcGpVQlo5aGVyU1o2Y2IwZUxjUVYtYmZlT3dVRTQxOUNPMklCcERwOVRNZUZtNThwM2p2NU9ackt0UUROZ2hpQ19zM0JxZlY0b2JEZ3FWdw?oc=5)
 
 ---
 

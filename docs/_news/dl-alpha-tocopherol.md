@@ -3,7 +3,7 @@ layout: default
 title: "DL-alpha-Tocopherol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "DL-alpha-Tocopherol 的相關健康新聞報導。原適應症：維他命 E 缺乏症。預測適應症 10 個。"
+description: "DL-alpha-Tocopherol 的相關健康新聞報導。原適應症：維他命 E 缺乏症（現行有效單方許可證）；末梢血行障礙見於已註銷的單方許可證與有效複方（如內衛藥製字...。預測適應症 10 個。"
 permalink: /news/dl-alpha-tocopherol/
 ---
 
@@ -24,7 +24,7 @@ permalink: /news/dl-alpha-tocopherol/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 維他命 E 缺乏症</li>
+<li><strong>原適應症</strong>: 維他命 E 缺乏症（現行有效單方許可證）；末梢血行障礙見於已註銷的單方許可證與有效複方（如內衛藥製字第007748號益益口服液）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>immature cataract (100.0%)</li>

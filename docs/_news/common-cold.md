@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損](https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2M2ZldRTG1KdFIzNlZ6RDZuQ1VUZzV0S3V5UTdVTjlDUnlscUxvSERNeHJBbWhBUVFsVUJGZ0dzMldPTVFCbTVNOHhYdFZMOHJpZGdvdjBOSnlsdldGU0h0RHRuRUp3Uy05Umh0b0R6TlBRMnZQR19NOWhTVVpYOGYzazc0WFpkRXc?oc=5)
 
 2026-10-15
 
 來源: [Singtaousa](https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2M2ZldRTG1KdFIzNlZ6RDZuQ1VUZzV0S3V5UTdVTjlDUnlscUxvSERNeHJBbWhBUVFsVUJGZ0dzMldPTVFCbTVNOHhYdFZMOHJpZGdvdjBOSnlsdldGU0h0RHRuRUp3Uy05Umh0b0R6TlBRMnZQR19NOWhTVVpYOGYzazc0WFpkRXc?oc=5)
-
----
-
-### [感冒、流感痊癒後 牙刷要換新嗎？醫師有不同說法](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGUDZtWEZXOTdyczBQVWpKQ2ZKZm1RajEyenBoZkQ1bzRrV04wN1B6cVhPczNSZHZvRlR3TzFPaVF5TUg2R1Vpdk16aHB2Umo0c29MTGxKWThIcWEycXFrMHJn0gFnQVVfeXFMTmFBazZmem9KbjZxQzkzTjlaZEM0UTZESnVjeDBwVEQ1RkFpeFNnMnRZbDk3QVd1d25TTG10bXVReVZLcTFQU2dZNjdUVHZ4QlhqZU9kMHB4TXY1R2w5aW9NeWU3Rng5TQ?oc=5)
-
-2026-10-15
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGUDZtWEZXOTdyczBQVWpKQ2ZKZm1RajEyenBoZkQ1bzRrV04wN1B6cVhPczNSZHZvRlR3TzFPaVF5TUg2R1Vpdk16aHB2Umo0c29MTGxKWThIcWEycXFrMHJn0gFnQVVfeXFMTmFBazZmem9KbjZxQzkzTjlaZEM0UTZESnVjeDBwVEQ1RkFpeFNnMnRZbDk3QVd1d25TTG10bXVReVZLcTFQU2dZNjdUVHZ4QlhqZU9kMHB4TXY1R2w5aW9NeWU3Rng5TQ?oc=5)
 
 ---
 
@@ -55,11 +47,11 @@ permalink: /news/common-cold/
 
 ---
 
-### [吃感冒藥尿不出來 醫揭是抗組織胺作祟 急放尿管救治](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rVFFIbHJka2FpWXY1aHJsRFZEV2wtN2dhUkdfYm9NLVlJRC1oX2w4bi1ubEpmR09uUXdmRUpDQ3ZaS3VHLTF4RFBra1lWVUtTV2U2ZVBadGFvS3Zwb3JhdndR0gFnQVVfeXFMTnF6RlZTR0E3VTlRVEZWN2VUeE8yeDIzay10X2UwbFRfVXQxYTRxMVF3ZWExbjFEbFR5b1JiVTlzRld2UERxbVNrTnlWUjRMZHFhWnY5U1FUSHRKa0FHRVZOMTJQZy02MA?oc=5)
+### [47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 
 2026-10-12
 
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rVFFIbHJka2FpWXY1aHJsRFZEV2wtN2dhUkdfYm9NLVlJRC1oX2w4bi1ubEpmR09uUXdmRUpDQ3ZaS3VHLTF4RFBra1lWVUtTV2U2ZVBadGFvS3Zwb3JhdndR0gFnQVVfeXFMTnF6RlZTR0E3VTlRVEZWN2VUeE8yeDIzay10X2UwbFRfVXQxYTRxMVF3ZWExbjFEbFR5b1JiVTlzRld2UERxbVNrTnlWUjRMZHFhWnY5U1FUSHRKa0FHRVZOMTJQZy02MA?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 
 ---
 

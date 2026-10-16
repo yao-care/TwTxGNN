@@ -14,7 +14,7 @@ permalink: /news/nitrofurantoin/
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,22 +35,14 @@ permalink: /news/nitrofurantoin/
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.7%)</li>
 <li>sclerosing cholangitis (99.6%)</li>
 <li>methemoglobinemia, alpha type (99.4%)</li>
-<li class="indication-matched">gout (99.4%)<span class="indication-tag">📰 痛風</span></li>
+<li>gout (99.4%)</li>
 <li>methemoglobinemia (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
-
-### [痛風石纏手10年 45歲男微創手術切除](https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbjNpellzMkFOQ1hTc040bndybzBZMnNGZDRFb21Hd2ZEcm1ZN3l2cENxUEwwM0o3TlFMd0UtVWRHQlM1UGNVX1hmbG83M0JjLTlxWkxVWVpKZUZ3dVdwZHhnVGxtMEUzS0VNbEh2Uk4wWlJsNjBhWDE5MHBSd9IBZ0FVX3lxTE1hSWJTQmM3LV9lQWJwVDJiUTZISjM4NDFGS1d6TTdoM2hLUEdzRnY5UG5kNWxXclNtSkp5VUp3SDRFWUhKdVJQZjlNS2lvZzVGelNLYnZ2MG9FVzRzT2R3OEpvajNqSHM?oc=5)
-
-2026-10-15 <span class="news-indication-tag">痛風</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbjNpellzMkFOQ1hTc040bndybzBZMnNGZDRFb21Hd2ZEcm1ZN3l2cENxUEwwM0o3TlFMd0UtVWRHQlM1UGNVX1hmbG83M0JjLTlxWkxVWVpKZUZ3dVdwZHhnVGxtMEUzS0VNbEh2Uk4wWlJsNjBhWDE5MHBSd9IBZ0FVX3lxTE1hSWJTQmM3LV9lQWJwVDJiUTZISjM4NDFGS1d6TTdoM2hLUEdzRnY5UG5kNWxXclNtSkp5VUp3SDRFWUhKdVJQZjlNS2lvZzVGelNLYnZ2MG9FVzRzT2R3OEpvajNqSHM?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [低劑量電療助退化性關節炎患者減痛](https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXpPS1BBS0tzbnM0cXhlN2JSWnZCRUU0SzN5NnpCLWFQVHJ3Q0trUlJ2NTZiaFRUVkF3ekVndG9kMnp6TFBkSUFmdC1XQ2p4eGpmYU14dktNeG41d210YnlwcjZPSExwRVoyTnd4QmhzRzdBUno0X1BmQmJ3UDZ3dGE5NE50V0o0MzlxRXJNRTVFZV93QWJfOHNhXzJfMEc4S3NZM0pwdlowUHZMOS1obEJRSTMzRjg3NFd3YzJpZ1hFOU9HMWFqR01nY043NVlTUm8wTzhYQ2tJZWR5TnpDSWREaXVZcFJoR0h3WGZ6ZXVpVngwQmtaWUc4WGdxdkF3bzV6ZTRIVHduQlJuZlhJbHpR?oc=5)
 
