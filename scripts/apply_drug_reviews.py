@@ -48,7 +48,7 @@ DRUGS = DOCS / "_drugs"
 LABEL = {"correct": "查核更正", "annotate": "查核加註", "rereview": "待重審", "rereview_result": "重審結果"}
 ACTION_ZH = {"correct": "更正", "annotate": "加註", "rereview": "標記待重審", "section": "新增附來源段落",
              "rereview_result": "重審完成", "header_level": "頁首等級依總覽表重算"}
-VERDICT_ZH = {"maintain": "維持", "downgrade": "降級", "withdraw": "撤回"}
+VERDICT_ZH = {"maintain": "維持", "downgrade": "降級", "upgrade": "升級", "withdraw": "撤回"}
 # 2026-10-15 起：報告整份重生後原句消失、且新報告已沒有那個錯誤的紀錄，標 status=resolved_by_regeneration
 # （附 resolved_on、resolved_note＝新報告的對應寫法）。紀錄保留、頁面不顯示框，只在查核紀錄表註明。
 # 與 superseded 不同：superseded 只用於錨點落在被程式化許可證表取代的區塊。
@@ -227,7 +227,7 @@ def log_md(recs):
                  "模型預測、總覽表與結論未改寫。")
     elif any(r["action"] == "rereview_result" and r.get("table_updates") for r in recs):
         intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
-                 "更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級或撤回）更新，原值列在下表。")
+                 "更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。")
     return f"{begin('log')}\n\n## 查核紀錄\n\n{intro}\n\n" + "\n".join(rows) + f"\n\n{end('log')}\n\n"
 
 
@@ -295,6 +295,13 @@ def validate(recs):
             n = [int(x) for x in re.findall(r"L([1-5])", level_text(r["new_level"]))]
             if not (o and n and min(n) > min(o)):
                 errs.append(f"{r['id']}：verdict=downgrade 但新等級沒有低於原等級")
+        if r.get("verdict") == "upgrade":
+            o = [int(x) for x in re.findall(r"L([1-5])", r["original_level"])]
+            n = [int(x) for x in re.findall(r"L([1-5])", level_text(r["new_level"]))]
+            if not (o and n and min(n) < min(o)):
+                errs.append(f"{r['id']}：verdict=upgrade 但新等級沒有高於原等級")
+            if not r.get("table_updates") or not re.search(r"PMID|NCT", json.dumps(r.get("sources"), ensure_ascii=False)):
+                errs.append(f"{r['id']}：verdict=upgrade 需要 table_updates 與可查證的 PMID／NCT 來源")
     return errs
 
 

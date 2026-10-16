@@ -89,7 +89,7 @@ Eltrombopag,eltrombopag,L3,1,用於對其他治療（如類固醇、免疫球蛋
 Emedastine,emedastine,L2,2,過敏性結膜炎症狀及徵候的暫時性緩解,過敏性蕁麻疹 (Allergic Urticaria),99.96%,True,Proceed with Guardrails,/drugs/emedastine/
 Enfortumab Vedotin,enfortumab_vedotin,L5,10,單獨使用治療局部晚期或轉移性泌尿道上皮癌（mUC）成人病人：（1）先前接受過 PD-1/PD-L1 抑制劑和含鉑化學治療；或（2）不適合接受含 cisplatin 化學治療，且先前接受過一線以上治療；另可併用 pembrolizumab 治療局部晚期或轉移性泌尿道上皮癌；另與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）,痲瘋病 (Leprosy),99.53%,True,Hold,/drugs/enfortumab_vedotin/
 Erdafitinib,erdafitinib,L5,10,局部晚期或轉移性泌尿道上皮癌（需帶有敏感性 FGFR3 基因變異，且先前全身性療法治療期間或之後惡化）,肺動脈高壓 (Pulmonary Hypertension),99.38%,True,Hold,/drugs/erdafitinib/
-Ergometrine,ergometrine,L4,10,產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛（現行有效許可證，如內衛藥製字第009847號、衛署藥製字第029626號）,"多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向",99.96%（多毛症）；99.93%（偏頭痛）,True,Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護,/drugs/ergometrine/
+Ergometrine,ergometrine,L3,10,產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛（現行有效許可證，如內衛藥製字第009847號、衛署藥製字第029626號）,"多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向",99.96%（多毛症）；99.93%（偏頭痛）,True,Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護,/drugs/ergometrine/
 Etanercept,etanercept,L4,6,對 DMARDs（如 methotrexate）無適當療效之成人活動性類風濕性關節炎；先前未使用 methotrexate 之成人中度至重度活動性類風濕性關節炎；2 歲以上多關節幼年型慢性關節炎；乾癬性關節炎；活動性僵直性脊椎炎；中度至重度乾癬等,類風濕性血管炎 (Rheumatoid Vasculitis),99.71%,True,Hold（僅列為研究問題）,/drugs/etanercept/
 Ethynodiol Diacetate,ethynodiol_diacetate,L3,6,避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）,痤瘡 (Acne),99.57%,True,Hold,/drugs/ethynodiol_diacetate/
 Everolimus,everolimus,L2,10,器官移植抗排斥藥物、治療腎臟癌藥物,脂肪肉瘤 (Liposarcoma),99.88%,True,Hold,/drugs/everolimus/

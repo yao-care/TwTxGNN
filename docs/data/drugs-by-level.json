@@ -259,7 +259,7 @@
       ]
     },
     "L3": {
-      "count": 31,
+      "count": 32,
       "drugs": [
         {
           "name": "Alprostadil",
@@ -302,6 +302,12 @@
           "slug": "eltrombopag",
           "decision": "Hold",
           "indication_count": 1
+        },
+        {
+          "name": "Ergometrine",
+          "slug": "ergometrine",
+          "decision": "Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護",
+          "indication_count": 10
         },
         {
           "name": "Ethynodiol Diacetate",
@@ -450,7 +456,7 @@
       ]
     },
     "L4": {
-      "count": 57,
+      "count": 56,
       "drugs": [
         {
           "name": "Acitretin",
@@ -570,12 +576,6 @@
           "name": "Durvalumab",
           "slug": "durvalumab",
           "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Ergometrine",
-          "slug": "ergometrine",
-          "decision": "Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護",
           "indication_count": 10
         },
         {

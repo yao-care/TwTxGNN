@@ -11444,14 +11444,14 @@
    "id": "ergometrine-migraine-rereview-result-2026-10-03",
    "drug": "ergometrine",
    "file": "ergometrine.md",
-   "checked": "2026-10-03",
+   "checked": "2026-10-16",
    "action": "rereview_result",
    "resolves": "ergometrine-migraine-rereview-2026-10-03",
    "summary": "偏頭痛預測重審結果",
    "claim": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
    "prediction": "偏頭痛 (Migraine Disorder)",
-   "verdict": "maintain",
-   "original_level": "L3",
+   "verdict": "upgrade",
+   "original_level": "L4",
    "new_level": "L3",
    "level_note": "L3",
    "flawed_premises": [
@@ -11465,7 +11465,7 @@
     "台灣 3 張有效單方許可證適應症已含「偏頭痛」（內衛藥製字第009847號、第012732號、衛署藥製字第029626號），屬既有監理紀錄，非新發現"
    ],
    "rationale": "錯誤前提只是機轉說明的一部分；L3 依據的是臨床觀察資料，扣掉錯誤前提後仍有本藥的觀察性研究（PMID 2759844），符合 methodology「有觀察性研究或病例系列」的 L3 定義。限制：唯一的本藥研究規模小、無對照、年代久遠；其餘人體研究是同系物 methylergonovine；查無 RCT 或登錄試驗；另有血管痙攣類安全性報告。",
-   "note": "本筆重審的對象是 2026-10-03 版報告；當時的機轉說明（經 α 受體抑制三叉神經源性炎症）不成立，但 L3 不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)）；methylergonovine 的研究是同系物，只能當旁證。查無 RCT 或登錄試驗，另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。2026-10-15 重生的報告未納入 PMID 2759844，把偏頭痛評為 L4；重審結論為維持不更動頁面等級，差異以本頁的查核加註標示。",
+   "note": "本筆重審的對象原是 2026-10-03 版報告；當時的機轉說明（經 α 受體抑制三叉神經源性炎症）不成立，但等級不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合研究方法「有觀察性研究或病例系列」的 L3 定義；另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)），methylergonovine 的研究是同系物，只能當旁證。查無 RCT 或登錄試驗，另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。2026-10-15 重生的報告未納入 PMID 2759844，把偏頭痛評為 L4；依本次重審，快速總覽的偏頭痛等級改為 L3。偏頭痛也已列在台灣 3 張有效 ergometrine 許可證的核准適應症內，不是新適應症。",
    "sources": [
     {
      "title": "PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）",
@@ -11758,10 +11758,95 @@
      "retired": "2026-10-16",
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
+    },
+    {
+     "id": "ergometrine-migraine-rereview-result-2026-10-03",
+     "drug": "ergometrine",
+     "file": "ergometrine.md",
+     "checked": "2026-10-03",
+     "action": "rereview_result",
+     "resolves": "ergometrine-migraine-rereview-2026-10-03",
+     "summary": "偏頭痛預測重審結果",
+     "claim": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
+     "prediction": "偏頭痛 (Migraine Disorder)",
+     "verdict": "maintain",
+     "original_level": "L3",
+     "new_level": "L3",
+     "level_note": "L3",
+     "flawed_premises": [
+      "經 α 腎上腺素受體抑制三叉神經源性炎症（仿單：對 α 受體為作用劑／部分作用劑，幾乎沒有拮抗作用；未提三叉神經炎症）",
+      "以 5-HT1B/1D 作用劑為機轉主軸（仿單未載；文獻有前臨床支持，見 PMID 9448572，屬未載於仿單而非已證偽）"
+     ],
+     "remaining_support": [
+      "ergonovine 本藥的觀察性研究：40 名月經性偏頭痛患者間歇預防 6 個月，無對照組（PMID 2759844）",
+      "同系物 methylergonovine 的觀察性／開放性研究（PMID 23432443、19895705）——不是本藥，只能當旁證",
+      "前臨床：ergometrine 微離子導入可抑制貓三叉神經二級神經元放電（PMID 9448572）",
+      "台灣 3 張有效單方許可證適應症已含「偏頭痛」（內衛藥製字第009847號、第012732號、衛署藥製字第029626號），屬既有監理紀錄，非新發現"
+     ],
+     "rationale": "錯誤前提只是機轉說明的一部分；L3 依據的是臨床觀察資料，扣掉錯誤前提後仍有本藥的觀察性研究（PMID 2759844），符合 methodology「有觀察性研究或病例系列」的 L3 定義。限制：唯一的本藥研究規模小、無對照、年代久遠；其餘人體研究是同系物 methylergonovine；查無 RCT 或登錄試驗；另有血管痙攣類安全性報告。",
+     "note": "本筆重審的對象是 2026-10-03 版報告；當時的機轉說明（經 α 受體抑制三叉神經源性炎症）不成立，但 L3 不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)）；methylergonovine 的研究是同系物，只能當旁證。查無 RCT 或登錄試驗，另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。2026-10-15 重生的報告未納入 PMID 2759844，把偏頭痛評為 L4；重審結論為維持不更動頁面等級，差異以本頁的查核加註標示。",
+     "sources": [
+      {
+       "title": "PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/2759844/",
+       "excerpt": "ergonovine maleate 0.2 mg 間歇預防，40 名難治月經性偏頭痛患者；3 個月時 60% 自述發作較輕，6 個月效果下降；單組、無對照。",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/9448572/",
+       "excerpt": "Storer & Goadsby 1997：ergometrine 直接施用可抑制貓三叉神經頸複合體神經元放電（9/10 細胞）；前臨床。",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/23432443/",
+       "excerpt": "口服 methylergonovine 用於難治偏頭痛／叢發性頭痛預防的個案與回顧；同系物，非本藥。",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/19895705/",
+       "excerpt": "急診靜脈 methylergonovine 用於女性偏頭痛的開放性前導研究；同系物，非本藥。",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/23216317/",
+       "excerpt": "反面：回顧血清素類偏頭痛用藥的心臟不良事件，含冠狀動脈痙攣與心肌缺血。",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/6773347/",
+       "excerpt": "反面：個案報告，使用 Sansert（methysergide）與 Ergotrate（ergonovine）治療偏頭痛後出現肋膜增厚。",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "searches": [
+      {
+       "db": "ClinicalTrials.gov",
+       "query": "ergonovine／ergometrine／methylergonovine × migraine",
+       "result": "查無登錄試驗（2026-10-03）。",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "method": "讀頁面原推論→標出建立在錯誤前提上的理由→扣除後檢視剩餘理由→PubMed E-utilities 與 ClinicalTrials.gov API v2 正反查詢（2026-10-03）→依 docs/methodology.md 的 L1–L5 定義判定",
+     "anchor": "| 預測新適應症 | 多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛",
+     "table_updates": [],
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
     }
    ],
    "anchor": "| 預測新適應症 | 多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛",
-   "table_updates": []
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L5（多毛症）；L4（偏頭痛） |",
+     "replacement": "| 證據等級 | L5（多毛症）；L3（偏頭痛） |"
+    }
+   ]
   },
   {
    "id": "atracurium-preeclampsia-rereview-result-2026-10-03",
@@ -19639,7 +19724,36 @@
    "note": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
    "finding": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
    "claim": "| 證據等級 | L5（多毛症）；L4（偏頭痛） |",
-   "anchor": "| 證據等級 | L5（多毛症）；L4（偏頭痛） |"
+   "anchor": "| 證據等級 | L5（多毛症）；L4（偏頭痛） |",
+   "history": [
+    {
+     "drug": "ergometrine",
+     "file": "ergometrine.md",
+     "sources": [
+      {
+       "title": "PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/2759844/",
+       "excerpt": "ergonovine maleate 0.2 mg 間歇預防，40 名難治月經性偏頭痛患者；3 個月時 60% 自述發作較輕，6 個月效果下降；單組、無對照。",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "ergometrine-migraine-rereview-result-level-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "快速總覽「證據等級」",
+     "summary": "偏頭痛評為 L4，未納入本藥觀察性研究",
+     "note": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+     "finding": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+     "claim": "| 證據等級 | L5（多毛症）；L4（偏頭痛） |",
+     "anchor": "| 證據等級 | L5（多毛症）；L4（偏頭痛） |",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ],
+   "status": "withdrawn",
+   "withdrawn_on": "2026-10-16",
+   "withdrawn_note": "重審結果已改為升級並把快速總覽的偏頭痛等級改成 L3，本筆加註不再需要"
   },
   {
    "drug": "ergometrine",
@@ -19657,10 +19771,36 @@
    "action": "annotate",
    "section": "一句話總結",
    "summary": "一句話總結稱偏頭痛僅有 2 篇間接文獻",
-   "note": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+   "note": "本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合研究方法 L3 定義；2026-10-15 重生的報告未納入這篇研究。重審已把快速總覽的偏頭痛等級由 L4 改為 L3。原文保留。",
    "finding": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
    "claim": "但目前僅有 **2 篇間接文獻**（1 篇回顧、1 篇個案報告）",
-   "anchor": "但目前僅有 **2 篇間接文獻**（1 篇回顧、1 篇個案報告）"
+   "anchor": "但目前僅有 **2 篇間接文獻**（1 篇回顧、1 篇個案報告）",
+   "history": [
+    {
+     "drug": "ergometrine",
+     "file": "ergometrine.md",
+     "sources": [
+      {
+       "title": "PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/2759844/",
+       "excerpt": "ergonovine maleate 0.2 mg 間歇預防，40 名難治月經性偏頭痛患者；3 個月時 60% 自述發作較輕，6 個月效果下降；單組、無對照。",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "ergometrine-migraine-rereview-result-lit-count-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "一句話總結",
+     "summary": "一句話總結稱偏頭痛僅有 2 篇間接文獻",
+     "note": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+     "finding": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+     "claim": "但目前僅有 **2 篇間接文獻**（1 篇回顧、1 篇個案報告）",
+     "anchor": "但目前僅有 **2 篇間接文獻**（1 篇回顧、1 篇個案報告）",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "salicylic_acid",
@@ -19809,10 +19949,36 @@
    "action": "annotate",
    "section": "結論與下一步",
    "summary": "結論稱偏頭痛只有間接回顧與個案報告",
-   "note": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+   "note": "本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合研究方法 L3 定義；2026-10-15 重生的報告未納入這篇研究。重審已把快速總覽的偏頭痛等級由 L4 改為 L3。原文保留。",
    "finding": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
    "claim": "但證據只有間接回顧與個案報告",
-   "anchor": "但證據只有間接回顧與個案報告"
+   "anchor": "但證據只有間接回顧與個案報告",
+   "history": [
+    {
+     "drug": "ergometrine",
+     "file": "ergometrine.md",
+     "sources": [
+      {
+       "title": "PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/2759844/",
+       "excerpt": "ergonovine maleate 0.2 mg 間歇預防，40 名難治月經性偏頭痛患者；3 個月時 60% 自述發作較輕，6 個月效果下降；單組、無對照。",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "ergometrine-migraine-rereview-result-conclusion-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "結論與下一步",
+     "summary": "結論稱偏頭痛只有間接回顧與個案報告",
+     "note": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+     "finding": "依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。",
+     "claim": "但證據只有間接回顧與個案報告",
+     "anchor": "但證據只有間接回顧與個案報告",
+     "retired": "2026-10-16",
+     "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
+     "reanchored": false
+    }
+   ]
   },
   {
    "drug": "ergometrine",
