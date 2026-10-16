@@ -38,7 +38,7 @@ permalink: /news/insulin_lispro/
 <li>pressure-induced localized lipoatrophy (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/insulin_lispro/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/insulin-lispro/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

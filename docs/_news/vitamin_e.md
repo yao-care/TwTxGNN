@@ -39,7 +39,7 @@ permalink: /news/vitamin_e/
 <li>mitochondrial DNA depletion syndrome, hepatocerebral form (99.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vitamin_e/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/vitamin-e/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

@@ -149,6 +149,7 @@ def build_search_index(bundles: list) -> dict:
             indication_map[ind_name].append({
                 "name": name,
                 "slug": slug,
+                "url": f"/drugs/{re.sub(r"[\W_]+", "-", slug).strip("-").lower()}/",  # Jekyll :name 會把 _ 轉成 -（2026-10-16）
                 "score": round(score * 100, 2),
                 "level": level,
                 "original": original_indication
@@ -157,6 +158,7 @@ def build_search_index(bundles: list) -> dict:
         drugs.append({
             "name": name,
             "slug": slug,
+            "url": f"/drugs/{re.sub(r"[\W_]+", "-", slug).strip("-").lower()}/",  # Jekyll :name 會把 _ 轉成 -（2026-10-16）
             "brands": brand_names,
             "original": original_indication,
             "level": best_level,

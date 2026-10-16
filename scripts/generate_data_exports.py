@@ -74,7 +74,7 @@ def load_all_drugs() -> list:
                 'txgnn_score': overview.get('txgnn_score', ''),
                 'taiwan_approved': overview.get('taiwan_approved', False),
                 'decision': overview.get('decision', ''),
-                'url': f'/drugs/{filepath.stem}/'
+                'url': '/drugs/' + re.sub(r'[\W_]+', '-', filepath.stem).strip('-').lower() + '/'  # Jekyll :name 會把 _ 轉成 -（2026-10-16）
             }
             drugs.append(drug)
 

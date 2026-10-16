@@ -30,7 +30,7 @@ nav_order: 10
 | Metric | Count |
 |--------|-------|
 | Drug Reports | 191 |
-| Drug Repurposing Candidates | 142,328 |
+| Predicted New Indications (known uses excluded) | 2,293 |
 | Predicted Indications | 1,268 |
 | Drug-Drug Interactions (DDI) | 222,391 |
 | Drug-Disease Contraindications (DDSI) | 8,359 |
@@ -51,7 +51,7 @@ nav_order: 10
 
 ### Prediction Model
 
-- **TxGNN**: Published in *Nature Medicine* (2023) by Harvard Zitnik Lab
+- **TxGNN**: Published in *Nature Medicine* (2024) by Harvard Zitnik Lab
 - **Method**: Knowledge graph + deep learning for drug-disease relationship prediction
 - **Source**: [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x)
 

@@ -31,7 +31,7 @@ permalink: /downloads/
 
 ### 完整預測資料
 
-完整的老藥新用候選資料（142,328 筆）請從 GitHub 下載：
+知識圖譜已知用途配對資料（142,328 筆，為已記錄的適應症／仿單外用途，不是新預測）請從 GitHub 下載：
 
 <p style="margin: 1.5rem 0;">
   <a href="https://github.com/yao-care/TwTxGNN/tree/main/data/processed" target="_blank" rel="noopener" style="display: inline-block; padding: 0.75rem 1.5rem; background: #24292e; color: white; text-decoration: none; border-radius: 4px; font-weight: 600;">
@@ -70,7 +70,7 @@ GitHub 上提供的完整資料：
 
 | 檔案 | 大小 | 說明 |
 |------|------|------|
-| `repurposing_candidates.csv` | 17 MB | 142,328 筆老藥新用候選 |
+| `repurposing_candidates.csv` | 17 MB | 142,328 筆知識圖譜已知用途配對（非新預測） |
 | `drug_mapping.csv` | 9 MB | 藥物 DrugBank ID 對應表 |
 | `indication_mapping.csv` | 28 MB | 適應症對應表 |
 

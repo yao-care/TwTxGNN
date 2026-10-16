@@ -37,7 +37,7 @@ TxGNN 是由哈佛醫學院 Marinka Zitnik 教授團隊開發的藥物再利用�
 ### 論文資訊
 
 - **標題**：A foundation model for clinician-centered drug repurposing
-- **期刊**：Nature Medicine (2023)
+- **期刊**：Nature Medicine (2024)
 - **DOI**：[10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ### 資料規模
@@ -203,7 +203,7 @@ TxGNN 是由哈佛醫學院 Marinka Zitnik 教授團隊開發的藥物再利用�
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and others},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   doi={10.1038/s41591-024-03233-x}
 }
 ```

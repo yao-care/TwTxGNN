@@ -25,7 +25,7 @@ permalink: /news/rheumatoid-arthritis/
 <strong>相關藥物報告</strong>
 <p>以下藥物的預測適應症可能與此疾病相關：</p>
 <ul>
-<li><a href="{{ '/drugs/aluminum_oxide/' | relative_url }}">Aluminum oxide</a></li>
+<li><a href="{{ '/drugs/aluminum-oxide/' | relative_url }}">Aluminum oxide</a></li>
 <li><a href="{{ '/drugs/iodixanol/' | relative_url }}">Iodixanol</a></li>
 <li><a href="{{ '/drugs/lornoxicam/' | relative_url }}">Lornoxicam</a></li>
 <li><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">Nitrofurantoin</a></li>

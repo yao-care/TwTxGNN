@@ -26,7 +26,7 @@ I am writing to explore a potential collaboration between TwTxGNN and RTI Wellmi
 
 ### About TwTxGNN
 
-TwTxGNN is an open-source SMART on FHIR application that provides AI-powered drug repurposing predictions based on Harvard's TxGNN knowledge graph model published in *Nature Medicine* (2023).
+TwTxGNN is an open-source SMART on FHIR application that provides AI-powered drug repurposing predictions based on Harvard's TxGNN knowledge graph model published in *Nature Medicine* (2024).
 
 **Key Statistics:**
 - 189 drugs with validated repurposing predictions

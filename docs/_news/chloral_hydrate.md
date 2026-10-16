@@ -27,7 +27,7 @@ permalink: /news/chloral_hydrate/
 <li><strong>原適應症</strong>: 兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號）</li>
 <li><strong>證據等級</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/chloral_hydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/chloral-hydrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

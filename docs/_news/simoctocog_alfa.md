@@ -39,7 +39,7 @@ permalink: /news/simoctocog_alfa/
 <li>thrombotic thrombocytopenic purpura (99.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/simoctocog_alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/simoctocog-alfa/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

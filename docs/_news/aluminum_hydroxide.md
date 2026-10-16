@@ -33,7 +33,7 @@ permalink: /news/aluminum_hydroxide/
 <li>peptic ulcer perforation (99.5%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/aluminum_hydroxide/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/aluminum-hydroxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

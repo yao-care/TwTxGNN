@@ -121,7 +121,7 @@
       "txgnn_score": "99.99%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/alpha-tocopherol_acetate/"
+      "url": "/drugs/alpha-tocopherol-acetate/"
     },
     {
       "slug": "alpha-tocopherol_succinate",
@@ -133,7 +133,7 @@
       "txgnn_score": "99.997%",
       "taiwan_approved": false,
       "decision": "Hold",
-      "url": "/drugs/alpha-tocopherol_succinate/"
+      "url": "/drugs/alpha-tocopherol-succinate/"
     },
     {
       "slug": "alprostadil",
@@ -157,7 +157,7 @@
       "txgnn_score": "99.68%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/aluminum_chloride/"
+      "url": "/drugs/aluminum-chloride/"
     },
     {
       "slug": "aluminum_hydroxide",
@@ -169,7 +169,7 @@
       "txgnn_score": "99.64%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/aluminum_hydroxide/"
+      "url": "/drugs/aluminum-hydroxide/"
     },
     {
       "slug": "aluminum_oxide",
@@ -181,7 +181,7 @@
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/aluminum_oxide/"
+      "url": "/drugs/aluminum-oxide/"
     },
     {
       "slug": "amcinonide",
@@ -253,7 +253,7 @@
       "txgnn_score": "99.65%",
       "taiwan_approved": false,
       "decision": "Hold",
-      "url": "/drugs/ascorbyl_phosphate/"
+      "url": "/drugs/ascorbyl-phosphate/"
     },
     {
       "slug": "asfotase_alfa",
@@ -265,7 +265,7 @@
       "txgnn_score": "99.95%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/asfotase_alfa/"
+      "url": "/drugs/asfotase-alfa/"
     },
     {
       "slug": "aspirin",
@@ -301,7 +301,7 @@
       "txgnn_score": "99.97%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/atracurium_besylate/"
+      "url": "/drugs/atracurium-besylate/"
     },
     {
       "slug": "avelumab",
@@ -361,7 +361,7 @@
       "txgnn_score": "HoFH：99.48%（甲狀腺機能亢進：99.61%）",
       "taiwan_approved": true,
       "decision": "Hold（排名第一的預測）；HoFH 為值得進一步研究的方向",
-      "url": "/drugs/bempedoic_acid/"
+      "url": "/drugs/bempedoic-acid/"
     },
     {
       "slug": "benazepril",
@@ -613,7 +613,7 @@
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/cerliponase_alfa/"
+      "url": "/drugs/cerliponase-alfa/"
     },
     {
       "slug": "cetuximab",
@@ -637,7 +637,7 @@
       "txgnn_score": "無",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/chloral_hydrate/"
+      "url": "/drugs/chloral-hydrate/"
     },
     {
       "slug": "chlorobutanol",
@@ -661,7 +661,7 @@
       "txgnn_score": "99.79%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/cholic_acid/"
+      "url": "/drugs/cholic-acid/"
     },
     {
       "slug": "choline_salicylate",
@@ -673,7 +673,7 @@
       "txgnn_score": "99.82%",
       "taiwan_approved": true,
       "decision": "Hold（以研究問題方式持續追蹤）",
-      "url": "/drugs/choline_salicylate/"
+      "url": "/drugs/choline-salicylate/"
     },
     {
       "slug": "cisatracurium",
@@ -757,7 +757,7 @@
       "txgnn_score": "99.77%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/conjugated_estrogens/"
+      "url": "/drugs/conjugated-estrogens/"
     },
     {
       "slug": "cortisone_acetate",
@@ -769,7 +769,7 @@
       "txgnn_score": "99.95%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/cortisone_acetate/"
+      "url": "/drugs/cortisone-acetate/"
     },
     {
       "slug": "cromoglicic_acid",
@@ -781,7 +781,7 @@
       "txgnn_score": "99.99%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/cromoglicic_acid/"
+      "url": "/drugs/cromoglicic-acid/"
     },
     {
       "slug": "cyclandelate",
@@ -841,7 +841,7 @@
       "txgnn_score": "99.999%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/dehydrocholic_acid/"
+      "url": "/drugs/dehydrocholic-acid/"
     },
     {
       "slug": "denosumab",
@@ -865,7 +865,7 @@
       "txgnn_score": "99.33%（排名第 1 的預測為 99.49%）",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/deoxycholic_acid/"
+      "url": "/drugs/deoxycholic-acid/"
     },
     {
       "slug": "desogestrel",
@@ -1069,7 +1069,7 @@
       "txgnn_score": "99.53%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/enfortumab_vedotin/"
+      "url": "/drugs/enfortumab-vedotin/"
     },
     {
       "slug": "erdafitinib",
@@ -1117,7 +1117,7 @@
       "txgnn_score": "99.57%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/ethynodiol_diacetate/"
+      "url": "/drugs/ethynodiol-diacetate/"
     },
     {
       "slug": "everolimus",
@@ -1189,7 +1189,7 @@
       "txgnn_score": "99.94%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/ferrous_gluconate/"
+      "url": "/drugs/ferrous-gluconate/"
     },
     {
       "slug": "fidaxomicin",
@@ -1333,7 +1333,7 @@
       "txgnn_score": "99.89%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/gadoxetic_acid/"
+      "url": "/drugs/gadoxetic-acid/"
     },
     {
       "slug": "gefitinib",
@@ -1405,7 +1405,7 @@
       "txgnn_score": "98.17%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/glycol_salicylate/"
+      "url": "/drugs/glycol-salicylate/"
     },
     {
       "slug": "griseofulvin",
@@ -1477,7 +1477,7 @@
       "txgnn_score": "99.39%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/homatropine_methylbromide/"
+      "url": "/drugs/homatropine-methylbromide/"
     },
     {
       "slug": "human_immunoglobulin_g",
@@ -1489,7 +1489,7 @@
       "txgnn_score": "99.75%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/human_immunoglobulin_g/"
+      "url": "/drugs/human-immunoglobulin-g/"
     },
     {
       "slug": "hyaluronic_acid",
@@ -1501,7 +1501,7 @@
       "txgnn_score": "99.86%",
       "taiwan_approved": false,
       "decision": "Proceed with Guardrails",
-      "url": "/drugs/hyaluronic_acid/"
+      "url": "/drugs/hyaluronic-acid/"
     },
     {
       "slug": "hydrocortisone",
@@ -1537,7 +1537,7 @@
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/hydroxyprogesterone_caproate/"
+      "url": "/drugs/hydroxyprogesterone-caproate/"
     },
     {
       "slug": "hydroxyurea",
@@ -1645,7 +1645,7 @@
       "txgnn_score": "99.78%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/insulin_lispro/"
+      "url": "/drugs/insulin-lispro/"
     },
     {
       "slug": "interferon_beta-1b",
@@ -1657,7 +1657,7 @@
       "txgnn_score": "99.16%",
       "taiwan_approved": false,
       "decision": "Hold",
-      "url": "/drugs/interferon_beta-1b/"
+      "url": "/drugs/interferon-beta-1b/"
     },
     {
       "slug": "iodixanol",
@@ -1765,7 +1765,7 @@
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
       "decision": "Hold（列為研究問題，暫不推進）",
-      "url": "/drugs/isosorbide_dinitrate/"
+      "url": "/drugs/isosorbide-dinitrate/"
     },
     {
       "slug": "isosorbide_mononitrate",
@@ -1777,7 +1777,7 @@
       "txgnn_score": "99.995%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/isosorbide_mononitrate/"
+      "url": "/drugs/isosorbide-mononitrate/"
     },
     {
       "slug": "ivermectin",
@@ -1813,7 +1813,7 @@
       "txgnn_score": "99.59%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/lactic_acid/"
+      "url": "/drugs/lactic-acid/"
     },
     {
       "slug": "larotrectinib",
@@ -1921,7 +1921,7 @@
       "txgnn_score": "99.69%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/loteprednol_etabonate/"
+      "url": "/drugs/loteprednol-etabonate/"
     },
     {
       "slug": "lutetium_lu_177_dotatate",
@@ -1933,7 +1933,7 @@
       "txgnn_score": "99.99%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/lutetium_lu_177_dotatate/"
+      "url": "/drugs/lutetium-lu-177-dotatate/"
     },
     {
       "slug": "magnesium_sulfate",
@@ -1945,7 +1945,7 @@
       "txgnn_score": "99.999%",
       "taiwan_approved": true,
       "decision": "Proceed with Guardrails",
-      "url": "/drugs/magnesium_sulfate/"
+      "url": "/drugs/magnesium-sulfate/"
     },
     {
       "slug": "mannitol",
@@ -2113,7 +2113,7 @@
       "txgnn_score": "99.86%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/mycophenolate_mofetil/"
+      "url": "/drugs/mycophenolate-mofetil/"
     },
     {
       "slug": "naftifine",
@@ -2221,7 +2221,7 @@
       "txgnn_score": "99.52%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/nitrous_oxide/"
+      "url": "/drugs/nitrous-oxide/"
     },
     {
       "slug": "nitroxoline",
@@ -2245,7 +2245,7 @@
       "txgnn_score": "98.93%",
       "taiwan_approved": false,
       "decision": "Hold",
-      "url": "/drugs/norethindrone_enanthate/"
+      "url": "/drugs/norethindrone-enanthate/"
     },
     {
       "slug": "nystatin",
@@ -2413,7 +2413,7 @@
       "txgnn_score": "99.71%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/pentosan_polysulfate/"
+      "url": "/drugs/pentosan-polysulfate/"
     },
     {
       "slug": "pentoxifylline",
@@ -2437,7 +2437,7 @@
       "txgnn_score": "99.80%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/peppermint_oil/"
+      "url": "/drugs/peppermint-oil/"
     },
     {
       "slug": "perindopril",
@@ -2485,7 +2485,7 @@
       "txgnn_score": "99.93%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/pipemidic_acid/"
+      "url": "/drugs/pipemidic-acid/"
     },
     {
       "slug": "pitavastatin",
@@ -2521,7 +2521,7 @@
       "txgnn_score": "99.03%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/polyethylene_glycol/"
+      "url": "/drugs/polyethylene-glycol/"
     },
     {
       "slug": "polyethylene_glycol_400",
@@ -2533,7 +2533,7 @@
       "txgnn_score": "99.58%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/polyethylene_glycol_400/"
+      "url": "/drugs/polyethylene-glycol-400/"
     },
     {
       "slug": "polymyxin_b",
@@ -2545,7 +2545,7 @@
       "txgnn_score": "99.87%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/polymyxin_b/"
+      "url": "/drugs/polymyxin-b/"
     },
     {
       "slug": "polysorbate_80",
@@ -2557,7 +2557,7 @@
       "txgnn_score": "99.43%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/polysorbate_80/"
+      "url": "/drugs/polysorbate-80/"
     },
     {
       "slug": "posaconazole",
@@ -2581,7 +2581,7 @@
       "txgnn_score": "99.95%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/potassium_iodide/"
+      "url": "/drugs/potassium-iodide/"
     },
     {
       "slug": "povidone",
@@ -2653,7 +2653,7 @@
       "txgnn_score": "99.74%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/prednisolone_acetate/"
+      "url": "/drugs/prednisolone-acetate/"
     },
     {
       "slug": "prednisone",
@@ -2881,7 +2881,7 @@
       "txgnn_score": "99.78%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/sacituzumab_govitecan/"
+      "url": "/drugs/sacituzumab-govitecan/"
     },
     {
       "slug": "sacubitril",
@@ -2929,7 +2929,7 @@
       "txgnn_score": "99.88%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/salicylic_acid/"
+      "url": "/drugs/salicylic-acid/"
     },
     {
       "slug": "scopolamine",
@@ -2965,7 +2965,7 @@
       "txgnn_score": "99.93%",
       "taiwan_approved": false,
       "decision": "Hold",
-      "url": "/drugs/silicon_dioxide/"
+      "url": "/drugs/silicon-dioxide/"
     },
     {
       "slug": "simoctocog_alfa",
@@ -2977,7 +2977,7 @@
       "txgnn_score": "99.997%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/simoctocog_alfa/"
+      "url": "/drugs/simoctocog-alfa/"
     },
     {
       "slug": "sodium_acetate",
@@ -2989,7 +2989,7 @@
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/sodium_acetate/"
+      "url": "/drugs/sodium-acetate/"
     },
     {
       "slug": "sodium_carbonate",
@@ -3001,7 +3001,7 @@
       "txgnn_score": "99.80%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/sodium_carbonate/"
+      "url": "/drugs/sodium-carbonate/"
     },
     {
       "slug": "sodium_citrate",
@@ -3013,7 +3013,7 @@
       "txgnn_score": "99.95%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/sodium_citrate/"
+      "url": "/drugs/sodium-citrate/"
     },
     {
       "slug": "sorafenib",
@@ -3097,7 +3097,7 @@
       "txgnn_score": "99.89%",
       "taiwan_approved": true,
       "decision": "Hold（作為研究問題追蹤，不建議進入臨床開發）",
-      "url": "/drugs/tenofovir_alafenamide/"
+      "url": "/drugs/tenofovir-alafenamide/"
     },
     {
       "slug": "terbutaline",
@@ -3193,7 +3193,7 @@
       "txgnn_score": "99.98%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/thyrotropin_alfa/"
+      "url": "/drugs/thyrotropin-alfa/"
     },
     {
       "slug": "tiaprofenic_acid",
@@ -3205,7 +3205,7 @@
       "txgnn_score": "99.99%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/tiaprofenic_acid/"
+      "url": "/drugs/tiaprofenic-acid/"
     },
     {
       "slug": "timepidium",
@@ -3253,7 +3253,7 @@
       "txgnn_score": "99.9998%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/titanium_dioxide/"
+      "url": "/drugs/titanium-dioxide/"
     },
     {
       "slug": "tizanidine",
@@ -3325,7 +3325,7 @@
       "txgnn_score": "99.19%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/tranexamic_acid/"
+      "url": "/drugs/tranexamic-acid/"
     },
     {
       "slug": "trastuzumab_deruxtecan",
@@ -3337,7 +3337,7 @@
       "txgnn_score": "99.31%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/trastuzumab_deruxtecan/"
+      "url": "/drugs/trastuzumab-deruxtecan/"
     },
     {
       "slug": "travoprost",
@@ -3517,7 +3517,7 @@
       "txgnn_score": "99.99%",
       "taiwan_approved": true,
       "decision": "Hold",
-      "url": "/drugs/vitamin_e/"
+      "url": "/drugs/vitamin-e/"
     },
     {
       "slug": "vonoprazan",
@@ -3565,7 +3565,7 @@
       "txgnn_score": "",
       "taiwan_approved": true,
       "decision": "標準治療",
-      "url": "/drugs/warfarin_af/"
+      "url": "/drugs/warfarin-af/"
     },
     {
       "slug": "warfarin_atrial_fibrillation",
@@ -3577,7 +3577,7 @@
       "txgnn_score": "",
       "taiwan_approved": true,
       "decision": "標準治療（非老藥新用候選）",
-      "url": "/drugs/warfarin_atrial_fibrillation/"
+      "url": "/drugs/warfarin-atrial-fibrillation/"
     },
     {
       "slug": "xylitol",

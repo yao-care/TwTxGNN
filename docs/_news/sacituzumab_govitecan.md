@@ -33,7 +33,7 @@ permalink: /news/sacituzumab_govitecan/
 <li>diabetic cataract (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/sacituzumab_govitecan/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/sacituzumab-govitecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

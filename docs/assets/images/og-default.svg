@@ -31,7 +31,7 @@
 
   <!-- 統計數據 -->
   <text x="350" y="500" font-family="Arial, sans-serif" font-size="24" fill="#66BB6A" text-anchor="middle">191 藥物報告</text>
-  <text x="600" y="500" font-family="Arial, sans-serif" font-size="24" fill="#66BB6A" text-anchor="middle">142,328 候選</text>
+  <text x="600" y="500" font-family="Arial, sans-serif" font-size="24" fill="#66BB6A" text-anchor="middle">2,293 預測新適應症</text>
   <text x="850" y="500" font-family="Arial, sans-serif" font-size="24" fill="#66BB6A" text-anchor="middle">L1-L5 證據分級</text>
 
   <!-- 網址 -->

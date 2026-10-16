@@ -39,7 +39,7 @@ permalink: /news/titanium_dioxide/
 <li>cortical cataract (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/titanium_dioxide/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/titanium-dioxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

@@ -22,7 +22,7 @@
 |------|------|
 | **藥物報告** | 302 份 |
 | **涵蓋藥物** | 302 種 |
-| **老藥新用候選** | 142,328 筆 |
+| **預測新適應症**（已排除已知用途） | 2,293 筆 |
 | **DDI 資料** | 222,391 筆 |
 
 ### 證據等級分布
@@ -76,7 +76,7 @@ uv run python scripts/run_kg_prediction.py
 | DrugBank 成分映射率 | 73.87% |
 | 對應到疾病數 | 166 (<12%) |
 | 適應症映射率 | 44.85% |
-| 老藥新用候選數 | 142,328 |
+| 預測新適應症數（已排除已知用途） | 2,293 |
 | 涉及藥物數 | 677 |
 | 潛在新適應症數 | 1,035 |
 
@@ -508,7 +508,7 @@ flowchart TD
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and Chandak, Payal and Wang, Qianwen and Haber, Shreyas and Zitnik, Marinka},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   doi={10.1038/s41591-024-03233-x}
 }
 ```

@@ -26,7 +26,7 @@ I am writing to explore a potential academic collaboration between TwTxGNN and C
 
 ### About TwTxGNN
 
-TwTxGNN is an open-source drug repurposing platform that leverages Harvard's TxGNN knowledge graph model (published in *Nature Medicine*, 2023) to predict potential new indications for existing medications.
+TwTxGNN is an open-source drug repurposing platform that leverages Harvard's TxGNN knowledge graph model (published in *Nature Medicine*, 2024) to predict potential new indications for existing medications.
 
 **Our Autoimmune Disease Coverage:**
 - 17 drugs with autoimmune disease predictions

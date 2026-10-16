@@ -86,7 +86,7 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 
 <blockquote class="expert-quote">
 「TxGNN 整合了 17,080 個生物醫學實體的知識圖譜，使用圖神經網路學習節點間的複雜關聯，能預測藥物對罕見疾病的潛在療效。」
-<cite>— Huang et al., Nature Medicine (2023)</cite>
+<cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ### 技術特點
@@ -126,7 +126,7 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 | 項目 | 數量 |
 |------|------|
 | 藥物報告 | {{ site.data.drug_stats.total_drugs }} 份 |
-| 老藥新用候選 | 142,328 筆 |
+| 預測新適應症 | {{ site.data.drug_stats.total_indications }} 筆 |
 | DDI 資料 | 222,391 筆 |
 
 依證據等級瀏覽全部報告：[高](/evidence-high/)．[中](/evidence-medium/)．[僅模型預測](/evidence-low/)
@@ -168,7 +168,7 @@ yao.care. (2026). TwTxGNN: Drug Repurposing Validation Reports for Taiwan NHI Dr
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and others},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   doi={10.1038/s41591-024-03233-x}
 }
 ```

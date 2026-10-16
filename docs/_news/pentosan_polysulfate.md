@@ -32,7 +32,7 @@ permalink: /news/pentosan_polysulfate/
 <li>pseudo-von Willebrand disease (99.6%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/pentosan_polysulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
+<p><a href="{{ '/drugs/pentosan-polysulfate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
 ## 相關新聞（0 則）

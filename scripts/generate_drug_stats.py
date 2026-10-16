@@ -103,7 +103,8 @@ def main():
         })
     drugs.sort(key=lambda d: (-d["indication_count"], d["slug"]))
     counts = {f"L{n}": sum(d["level"] == f"L{n}" for d in drugs) for n in range(1, 6)}
-    out = {"total_drugs": len(drugs), "level_counts": counts,
+    # 2026-10-16：total_indications＝排除已知用途後的「預測新適應症」總數，首頁／about 用這個，不用 KG 候選數
+    out = {"total_drugs": len(drugs), "total_indications": sum(d["indication_count"] for d in drugs), "level_counts": counts,
            "top_by_indications": drugs[:20], "all_drugs": drugs}
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"drug_stats.json：{len(drugs)} 個藥，{counts}")

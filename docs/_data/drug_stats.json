@@ -1,5 +1,6 @@
 {
   "total_drugs": 302,
+  "total_indications": 2293,
   "level_counts": {
     "L1": 16,
     "L2": 25,

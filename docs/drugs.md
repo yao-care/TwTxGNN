@@ -6,6 +6,8 @@ permalink: /drugs/
 redirect_from:
   - /drugs.html
 ---
+{%- comment -%}2026-10-16：列表不含舊 ID 轉址頁與 noindex 頁{%- endcomment -%}
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
 
 # 藥物總覽
 {: .fs-9 }
@@ -29,7 +31,7 @@ redirect_from:
 
 ## 完整藥物列表
 
-{% assign all_drugs = site.drugs | sort: 'title' %}
+{% assign all_drugs = listed_drugs | sort: 'title' %}
 
 | 藥物名稱 | 證據等級 | 適應症數 |
 |---------|---------|---------|
