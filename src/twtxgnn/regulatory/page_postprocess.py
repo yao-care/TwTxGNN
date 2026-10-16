@@ -122,10 +122,20 @@ def rewrite_count_prose(text: str, s: dict) -> str:
     return "".join(out)
 
 
+def _count_sub(s: dict):
+    """原句寫「N 張有效許可證」就換成有效張數；其他寫法換成總數並括號註明有效張數。
+    2026-10-16 修：之前一律寫成「總數 張有效許可證（有效 n 張）」，產生「40 張有效許可證（有效 4 張）」這種自相矛盾的句子。"""
+    def sub(m):
+        if m.group(2) == "有效":
+            return f"{s['valid']} 張有效許可證"
+        return f"{s['total']} 張{m.group(2) or ''}許可證（有效 {s['valid']} 張）"
+    return sub
+
+
 def _prose(seg: str, s: dict) -> str:
     return "\n".join(
         ln if ln.startswith("|") else COUNT_PROSE_RE.sub(
-            lambda m: f"{s['total']} 張{m.group(2) or ''}許可證（有效 {s['valid']} 張）", ln)
+            _count_sub(s), ln)
         for ln in seg.split("\n"))
 
 
@@ -188,9 +198,10 @@ def postprocess_with_licenses(text: str, display_name: str, lics: list[dict], da
     → 頁首等級依快速總覽重算 → 驗證。
     回傳 (新內容, 不符字號)。slug 給了才套查核紀錄（docs/_data/drug_reviews.json）。"""
     new = F.fix_table_spacing(replace_tfda(clean_llm_output(text), display_name, lics, data_date))
+    # 2026-10-16：張數改寫要在套查核紀錄之前，只改 LLM 原文，不改查核更正後的句子
+    new = re.sub(r"\n{3,}", "\n\n", rewrite_count_prose(new, T.summarize(lics)))
     if slug:
         new, _ = _apply_reviews(new, f"{slug}.md")
-    new = re.sub(r"\n{3,}", "\n\n", rewrite_count_prose(new, T.summarize(lics)))
     new = F.sync_header_level(new)  # 頁首等級＝快速總覽證據等級列的最高等級（page_format）
     bad = T.validate_page(new, {x["id"] for x in lics})
     return new, bad

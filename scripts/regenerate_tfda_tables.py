@@ -118,7 +118,10 @@ def main():
     failed, changed = {}, 0
     for p, (base, title, lics) in pages.items():
         for r in by_file.get(p.name, []):
-            if r.get("status") == "superseded" and r["action"] == "correct" and r["replacement"] in base:
+            # 2026-10-16：所有已套用的更正都先還原成原句（不只 superseded），後處理只改 LLM 原文，
+            # 改寫完再由 apply_drug_reviews 重套；否則張數改寫會改到更正後的句子（ergometrine 事件）
+            if r["action"] == "correct" and r.get("status") != "resolved_by_regeneration" \
+                    and r["replacement"] in base and r["claim"] not in base:
                 base = base.replace(r["replacement"], r["claim"], 1)
         new, bad = postprocess_with_licenses(base, title, lics, args.data_date, slug=p.stem)
         if bad:

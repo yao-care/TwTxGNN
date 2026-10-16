@@ -49,7 +49,7 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 
 <!-- review:end fluorouracil-original-indication-summary-2026-10-16 -->
 
-> **資料提醒：** 本報告所列的 40 張有效許可證（有效 4 張），品名與適應症文字都屬於 trastuzumab 類生物製劑（如賀癌平、康癌停、赫珠瑪、曲斯若），並非 fluorouracil 單方製劑。文中的 5-FU 只是併用藥物。因此下表的「原適應症」不能直接視為 fluorouracil 本身的核准適應症，需另行核對 fluorouracil 製劑的許可證。
+> **資料提醒：** 本報告所列的 4 張有效許可證，品名與適應症文字都屬於 trastuzumab 類生物製劑（如賀癌平、康癌停、赫珠瑪、曲斯若），並非 fluorouracil 單方製劑。文中的 5-FU 只是併用藥物。因此下表的「原適應症」不能直接視為 fluorouracil 本身的核准適應症，需另行核對 fluorouracil 製劑的許可證。
 
 <!-- review:begin fluorouracil-original-indication-data-note-2026-10-16 -->
 
