@@ -3,7 +3,7 @@ layout: default
 title: "Cephalexin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Cephalexin 的相關健康新聞報導。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、生殖泌尿道、皮膚及...。預測適應症 0 個。"
+description: "Cephalexin 的相關健康新聞報導。原適應症：。預測適應症 0 個。"
 permalink: /news/cephalexin/
 ---
 
@@ -24,10 +24,8 @@ permalink: /news/cephalexin/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症（呼吸道、生殖泌尿道、皮膚及軟組織等）</li>
-<li><strong>證據等級</strong>: L5</li>
 </ul>
-<p><a href="{{ '/drugs/' | relative_url }}">查看完整藥物報告 →</a></p>
+
 </div>
 
 ## 相關新聞（0 則）

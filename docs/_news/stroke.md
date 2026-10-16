@@ -32,11 +32,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
+### [「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWXZ1WHBmQk1wb2dkdklSS0xlb3ZNUUl5RHd2ODVjQ2hJTlg2bTEtdHZqREhDODhCWjlnMjBqdExwR3pfeTVXT0I2aENpOW5Bekk4?oc=5)
 
 2026-10-15
 
-來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
+來源: [優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWXZ1WHBmQk1wb2dkdklSS0xlb3ZNUUl5RHd2ODVjQ2hJTlg2bTEtdHZqREhDODhCWjlnMjBqdExwR3pfeTVXT0I2aENpOW5Bekk4?oc=5)
 
 ---
 
