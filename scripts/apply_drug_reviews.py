@@ -53,6 +53,9 @@ VERDICT_ZH = {"maintain": "維持", "downgrade": "降級", "withdraw": "撤回"}
 # （附 resolved_on、resolved_note＝新報告的對應寫法）。紀錄保留、頁面不顯示框，只在查核紀錄表註明。
 # 與 superseded 不同：superseded 只用於錨點落在被程式化許可證表取代的區塊。
 RESOLVED = "resolved_by_regeneration"
+# 2026-10-16 起：查核本身判斷有誤或與另一筆重複，標 status=withdrawn（附 withdrawn_on、withdrawn_note＝撤回理由）。
+# 紀錄保留、頁面不顯示框，只在查核紀錄表註明撤回。
+WITHDRAWN = "withdrawn"
 
 
 def load():
@@ -209,6 +212,8 @@ def log_md(recs):
             act = f"已由程式化許可證表取代（原為{act}）"
         elif r.get("status") == RESOLVED:
             act = f"報告重生後已無此錯誤（{r['resolved_on']}：{r['resolved_note']}；原為{act}）"
+        elif r.get("status") == WITHDRAWN:
+            act = f"查核撤回（{r['withdrawn_on']}：{r['withdrawn_note']}；原為{act}）"
         rows.append(f"| {r['checked']} | {item} | {act} | {sources_md(r)} |")
     intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
              "更正只限基本藥理事實，模型預測、證據等級與結論未改寫。")
@@ -294,6 +299,16 @@ def undo_retired(text, recs):
     - 前版 rereview_result 有 table_updates、現行拿掉 → 把該儲存格換回原值
     頁面若是在那次改寫之前的版本（從舊 commit 重套），這裡找不到 replacement，不動。"""
     for r in recs:
+        # 現行仍是 correct 但 claim 換了（例如擴大成整句）：前版 replacement 只佔新 claim 的一部分，
+        # 也要先還原，否則會被當成「頁面停在前版」直接換成新版 replacement（ergometrine 標題事件）。
+        # 只看頁面上實際出現的最新一版前版，更早的前版（例如重產前的錨點）不能拿來還原。
+        if r["action"] == "correct" and find_outside(text, r["claim"]) < 0 and find_outside(text, r["replacement"]) < 0:
+            for h in reversed(r.get("history") or []):
+                if h.get("action") == "correct" and h.get("replacement") and find_outside(text, h["replacement"]) >= 0:
+                    if h["claim"] != r["claim"] and find_outside(text, h["claim"]) < 0:
+                        j = find_outside(text, h["replacement"])
+                        text = text[:j] + h["claim"] + text[j + len(h["replacement"]):]
+                    break
         for h in r.get("history") or []:
             if h.get("action") == "correct" and r["action"] != "correct" and h.get("replacement"):
                 j = find_outside(text, h["replacement"])
@@ -319,8 +334,8 @@ def render_page(text, recs, problems):
     results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result" and r.get("status") != RESOLVED}
     retired = {r["resolves"] for r in recs if r["action"] == "rereview_result" and r.get("status") == RESOLVED}
     for r in recs:
-        if r.get("status") in ("superseded", RESOLVED):
-            continue  # 錨點所在的許可證表／張數已由程式化區塊取代，或報告重生後已無此錯誤：紀錄保留、頁面不再顯示框
+        if r.get("status") in ("superseded", RESOLVED, WITHDRAWN):
+            continue  # 撤回的紀錄同樣不顯示框； 錨點所在的許可證表／張數已由程式化區塊取代，或報告重生後已無此錯誤：紀錄保留、頁面不再顯示框
         if r["action"] in ("rereview_result", "header_level"):
             continue  # rereview_result 在它 resolves 的那筆 rereview 位置渲染；header_level 只進查核紀錄表
         if r["action"] == "rereview" and r["id"] in retired:

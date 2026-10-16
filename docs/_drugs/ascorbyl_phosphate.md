@@ -117,6 +117,12 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 - 補齊安全性資料（警語、禁忌、藥物交互作用）
 - 若需轉向其他預測適應症，可優先研究痤瘡（目前有間接的體外證據，僅來自相關化合物抗壞血酸鋅，為 L4）
 
+<!-- review:begin ascorbyl-phosphate-original-indication-combo-acne-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：痤瘡（acne）確實是本藥的 TxGNN 預測之一（分數 0.9957，全模型排名第 9480），但本頁的預測清單、證據表與文獻表都沒有痤瘡，也沒有列出所稱的抗壞血酸鋅體外研究；「L4」只出現在本站 FHIR 資源（ClinicalUseDefinition ascorbyl_phosphate-acne-disease），頁面上沒有可查證的依據。原文保留。依據：[TwTxGNN FHIR：ClinicalUseDefinition ascorbyl_phosphate-acne-disease](https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/ascorbyl_phosphate-acne-disease.json)；[TwTxGNN TxGNN 深度學習預測檔 txgnn_dl_predictions.csv.gz（2026-10-12 產出；封存於 GitHub Release data-20261015 的 TwTxGNN-data 包，yao-care/txgnn 私有 repo）](https://github.com/yao-care/txgnn/releases/tag/data-20261015)。
+
+<!-- review:end ascorbyl-phosphate-original-indication-combo-acne-2026-10-16 -->
+
 <!-- review:begin log -->
 
 ## 查核紀錄
@@ -130,6 +136,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 | 2026-10-16 | 標題把複方眼藥水的適應症當成原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結以複方眼藥水的適應症為原用途 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由以眼部輕微不適為原適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步稱痤瘡有體外證據、為 L4 | 加註 | [TwTxGNN FHIR：ClinicalUseDefinition ascorbyl_phosphate-acne-disease](https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/ascorbyl_phosphate-acne-disease.json)；[TwTxGNN TxGNN 深度學習預測檔 txgnn_dl_predictions.csv.gz（2026-10-12 產出；封存於 GitHub Release data-20261015 的 TwTxGNN-data 包，yao-care/txgnn 私有 repo）](https://github.com/yao-care/txgnn/releases/tag/data-20261015) |
 
 <!-- review:end log -->
 

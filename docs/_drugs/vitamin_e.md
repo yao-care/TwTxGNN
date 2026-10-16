@@ -72,9 +72,9 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Vitamin E 的不重複許可證共 **163 張**：有效單方 0 張、有效複方 18 張、已過期 1 張（未註銷但有效日期已過）、已註銷 144 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Vitamin E 的不重複許可證共 **163 張**：有效單方 0 張、有效複方 18 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 144 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（18 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（18 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -97,7 +97,7 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 衛署藥製字第050031號 | 薇卡維生素乳霜 | TOCOPHEROL (EQ TO VIT E) (EQ TO VITAMIN E)、VITAMIN A、CHOLECA… | 乳膏劑 | 皮膚黏膜乾躁症、皮膚角化症、皮膚炎、濕疹、尋常性痤瘡、外傷及火傷之肉芽新生促進。 |
 | 衛署藥輸字第023696號 | 快維康糖衣錠 | CYANOCOBALAMIN (VIT B12)、TOCOPHEROL ACETATE ALPHA DL-、VITAMI… | 糖衣錠 | 維生素B1、B6、B12及E缺乏症。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第014917號</td><td>補血膜衣錠</td><td>PYRIDOXINE HCL、TOCOPHEROL ACETATE ALPHA (EQ TO VIT E ACETATE…</td><td>2025/12/08</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（144 張，展開）</summary>

@@ -95,9 +95,9 @@ TxGNN 另外預測了下列方向，證據同樣有限：
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Irbesartan 的不重複許可證共 **49 張**：有效單方 30 張、有效複方 0 張、已過期 4 張（未註銷但有效日期已過）、已註銷 15 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Irbesartan 的不重複許可證共 **49 張**：有效單方 30 張、有效複方 0 張、已過期 4 張（未註銷但有效日期早於資料集日期）、已註銷 15 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（30 張）
+**有效・單方（截至資料集日期 2026-09-29）**（30 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -132,7 +132,7 @@ TxGNN 另外預測了下列方向，證據同樣有限：
 | 衛部藥陸輸字第000914號 | 艾比沙坦 | （粉） | 川聖貿易股份有限公司 | 2030/01/13 | 降血壓藥 |
 | 衛部藥陸輸字第001187號 | 艾比沙坦 | （粉） | 盛佳國際股份有限公司 | 2029/11/06 | 降血壓藥 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（4 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（4 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第023266號</td><td>可普諾維膜衣錠　１５０毫克/１２．５毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2026/08/23</td></tr><tr><td>衛署藥輸字第023267號</td><td>可普諾維膜衣錠300毫克/12.5毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2026/08/23</td></tr><tr><td>衛署藥輸字第025342號</td><td>適壓諾錠 150 毫克</td><td>IRBESARTAN</td><td>2026/01/25</td></tr><tr><td>衛部藥輸字第026768號</td><td>艾比沙坦</td><td>Irbesartan</td><td>2026/03/21</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（15 張，展開）</summary>

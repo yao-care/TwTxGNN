@@ -73,15 +73,15 @@ TxGNN 模型預測它可能對**咽炎 (Pharyngitis)** 有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Salicylamide 的不重複許可證共 **117 張**：有效單方 1 張、有效複方 29 張、已過期 2 張（未註銷但有效日期已過）、已註銷 85 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Salicylamide 的不重複許可證共 **117 張**：有效單方 1 張、有效複方 29 張、已過期 2 張（未註銷但有效日期早於資料集日期）、已註銷 85 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
+**有效・單方（截至資料集日期 2026-09-29）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛部藥輸字第027398號 | 水楊醯胺 | （粉） | 丞泰企業有限公司 | 2028/02/27 | 鎮痛藥 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（29 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（29 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -115,7 +115,7 @@ TxGNN 模型預測它可能對**咽炎 (Pharyngitis)** 有效，
 | 衛署藥製字第049602號 | 鎮熱痛膠囊 | THIAMINE MONONITRATE、SALICYLAMIDE、CHLORPHENIRAMINE MALEATE、R… | 膠囊劑 | 緩解感冒之各種症狀(流鼻水、鼻塞、打噴嚏、咽喉痛、畏寒、發燒、頭痛、關節痛、肌肉酸痛)。 |
 | 衛署藥製字第051525號 | “新喜”感平膠囊 | PROMETHAZINE METHYLENDISALICYLATE、SALICYLAMIDE、ACETAMINOPHEN… | 膠囊劑 | 緩解感冒之各種症狀(鼻塞、流鼻水、打噴嚏、咽喉痛、發燒、頭痛、關節痛、肌肉痛)。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（2 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（2 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第010479號</td><td>澎湃膠囊</td><td>ASCORBIC ACID、ACETAMINOPHEN (EQ TO PARACETAMOL)、SALICYLAMIDE…</td><td>2024/05/25</td></tr><tr><td>衛署藥製字第024842號</td><td>"元宙"益風感膠囊</td><td>SALICYLAMIDE、CHLORPHENIRAMINE MALEATE、PSEUDOEPHEDRINE HCL、AC…</td><td>2024/05/25</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（85 張，展開）</summary>

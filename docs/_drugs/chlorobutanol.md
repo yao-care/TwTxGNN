@@ -52,7 +52,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證皆為複方，用於結膜充血、角膜炎等眼部症狀 |
+| 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），chlorobutanol 在其中是防腐成分 |
 | 預測新適應症 | 勃起功能障礙 (Erectile Dysfunction) |
 | TxGNN 預測分數 | 99.79% |
 | 證據等級 | L5 |
@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 
 <!-- review:begin chlorobutanol-original-indication-combo-combos-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，含 chlorobutanol 的有效許可證有 3 張複方：內衛藥製字第010694號「人人」眼用滴劑（結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（鼻炎、鼻塞）、內衛成製字第000983號皮速平（香港腳等皮膚黴菌病）；chlorobutanol 在其中是防腐成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「原適應症／防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證皆為複方，用於結膜充血、角膜炎等眼部症狀」。TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（鼻炎、鼻塞）、內衛成製字第000983號皮速平（香港腳等皮膚黴菌病）；chlorobutanol 在其中是防腐成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end chlorobutanol-original-indication-combo-combos-2026-10-16 -->
 
@@ -88,9 +88,9 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Chlorobutanol 的不重複許可證共 **25 張**：有效單方 0 張、有效複方 3 張、已過期 1 張（未註銷但有效日期已過）、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Chlorobutanol 的不重複許可證共 **25 張**：有效單方 0 張、有效複方 3 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -98,7 +98,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 | 內衛藥製字第010694號 | "人人"眼用滴劑 | PHENYLEPHRINE HCL、CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL) | 點眼液劑 | 結膜充血、角膜炎、角膜充血 |
 | 衛部藥製字第060942號 | 鼻能爽液 | DIPHENHYDRAMINE、PHENYLEPHRINE、CHLOROBUTANOL (TRICHLORISOBUTY… | 外用液劑 | 鼻炎、鼻塞。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>內衛藥製字第001635號</td><td>舒滴兒眼藥水</td><td>CHLOROBUTANOL (TRICHLORISOBUTYLIC ALCOHOL)、CHLORPHENIRAMINE…</td><td>2004/03/01</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（21 張，展開）</summary>
@@ -126,6 +126,12 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 - 評估劑型與給藥途徑的適配性（現有劑型為眼用、鼻用、外用與耳用，並非全身性給藥）
 - 補齊完整的安全性與藥物交互作用資料
 
+<!-- review:begin chlorobutanol-original-indication-combo-ear-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：含 chlorobutanol 的有效許可證只有眼用、鼻用與外用皮膚製劑 3 張；唯一的耳用製劑衛署藥輸字第009099號愛耳液已於 2000-10-18 註銷。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end chlorobutanol-original-indication-combo-ear-2026-10-16 -->
+
 <!-- review:begin log -->
 
 ## 查核紀錄
@@ -138,7 +144,8 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 | 2026-10-03 | 許可證表中 4 張成品皆為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題以結膜炎與角膜炎為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結稱用於輔助治療結膜炎、角膜炎 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 稱有效許可證都是眼部用 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 原適應症稱有效許可證都用於眼部症狀 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步稱現有劑型含耳用 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

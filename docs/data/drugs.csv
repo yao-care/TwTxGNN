@@ -23,7 +23,7 @@ Ascorbyl Phosphate,ascorbyl_phosphate,L5,10,暫時緩解因輕微眼部刺激所
 Asfotase Alfa,asfotase_alfa,L5,10,小兒發作型低磷酸酯酶症 (Pediatric-onset hypophosphatasia; HPP) 病人之長期酵素替代療法,核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies),99.95%,True,Hold,/drugs/asfotase_alfa/
 Aspirin,aspirin,L5,0,解熱鎮痛劑,無,無,True,Hold,/drugs/aspirin/
 Atezolizumab,atezolizumab,L4,10,非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）,攝護腺尿道泌尿上皮癌 (Prostatic urethra urothelial carcinoma),99.98%,True,Hold,/drugs/atezolizumab/
-Atracurium Besylate,atracurium_besylate,L5,10,高選擇性及競爭性的非去極化神經肌肉阻斷劑，可作為手術全身麻醉或加護病房鎮靜的輔助劑，以鬆弛骨骼肌、幫助氣管插管與人工呼吸器的協調（衛署藥製字第042879號）,子癇前症 (Preeclampsia),99.97%,True,Hold,/drugs/atracurium_besylate/
+Atracurium Besylate,atracurium_besylate,L5,10,本藥乃一高選擇性及競爭性的非去極化神經肌肉阻斷劑。可作為手術全身麻醉或加護病房鎮靜的輔助劑、以鬆弛骨骼肌、幫助氣管插管與人工吸器的協調。（衛署藥製字第042879號許可證原文）,子癇前症 (Preeclampsia),99.97%,True,Hold,/drugs/atracurium_besylate/
 Avelumab,avelumab,L5,10,轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎細胞癌 (RCC) 第一線治療；第一線含鉑化療後疾病未惡化之局部晚期或轉移性泌尿道上皮癌 (UC) 維持療法,人類疱疹病毒 8 型相關腫瘤 (human herpesvirus 8-related tumor),99.97%,True,Hold,/drugs/avelumab/
 Axitinib,axitinib,L5,10,治療已接受過 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌病患,未分類腎細胞癌 (unclassified renal cell carcinoma),99.90%,True,Hold,/drugs/axitinib/
 Balsalazide,balsalazide,L5,10,輕度至中度的急性潰瘍性結腸炎,痛風 (Gout),99.75%,True,Hold,/drugs/balsalazide/
@@ -52,7 +52,7 @@ Cephalexin,cephalexin,L5,0,葡萄球菌、鏈球菌、肺炎雙球菌、腦膜�
 Cerliponase Alfa,cerliponase_alfa,L5,10,治療患有神經元蠟樣脂褐質儲積症 2 型 (CLN2) 疾病（也稱為三肽基肽酶 1 [TPP1] 缺乏症）病人,Scheie 症候群 (Scheie syndrome),99.98%,True,Hold,/drugs/cerliponase_alfa/
 Cetuximab,cetuximab,L5,10,RAS 原生型轉移性直腸結腸癌（併用 FOLFIRI 或 FOLFOX 作第一線治療；併用 encorafenib 治療 BRAF V600E 突變且曾接受治療者）；局部晚期口咽癌、下咽癌及喉癌（併用放射線療法）；復發及／或轉移性頭頸部鱗狀細胞癌（併用含 platinum 類化療）,"兒童支氣管腺瘤／類癌 (Bronchial adenomas/carcinoids, childhood)",99.95%,True,Hold,/drugs/cetuximab/
 Chloral Hydrate,chloral_hydrate,L5,0,兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號）,無,無,True,Hold,/drugs/chloral_hydrate/
-Chlorobutanol,chlorobutanol,L5,10,防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證皆為複方，用於結膜充血、角膜炎等眼部症狀,勃起功能障礙 (Erectile Dysfunction),99.79%,True,Hold,/drugs/chlorobutanol/
+Chlorobutanol,chlorobutanol,L5,10,防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），chlorobutanol 在其中是防腐成分,勃起功能障礙 (Erectile Dysfunction),99.79%,True,Hold,/drugs/chlorobutanol/
 Cholic Acid,cholic_acid,L4,10,治療由於單一酵素缺乏所造成之先天性膽酸合成障礙；輔助治療過氧化體代謝異常（包括 Zellweger spectrum disorders）病人的肝病表現、脂肪瀉或脂溶性維生素吸收降低所引起的併發症,HIV 感染 (HIV infectious disease),99.79%,True,Hold,/drugs/cholic_acid/
 Choline Salicylate,choline_salicylate,L3,10,發炎、疼痛、單純疱瘡,類風濕性關節炎 (Rheumatoid Arthritis),99.82%,True,Hold（以研究問題方式持續追蹤）,/drugs/choline_salicylate/
 Cisatracurium,cisatracurium,L5,10,高選擇性及競爭性的非去極化神經肌肉阻斷劑，作為全身麻醉之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調,馬尾症候群 (Cauda Equina Syndrome),99.99%,True,Hold,/drugs/cisatracurium/
@@ -63,7 +63,7 @@ Cobicistat,cobicistat,L5,3,感染第一型人類免疫缺乏病毒（HIV-1）的
 Cobimetinib,cobimetinib,L5,10,Cotellic 與 vemurafenib 併用於治療 BRAF V600 突變陽性且無法以手術切除或轉移性的黑色素瘤,肌萎縮性側索硬化症 (Amyotrophic Lateral Sclerosis),99.73%,True,Hold,/drugs/cobimetinib/
 Conjugated Estrogens,conjugated_estrogens,L3,10,卵巢機能不全、月經不順、月經困難、機能性子宮出血,偏頭痛 (Migraine Disorder),99.77%,True,Hold,/drugs/conjugated_estrogens/
 Cortisone Acetate,cortisone_acetate,L4,10,腎上腺皮質分泌缺乏症,斑禿 (Alopecia Areata),99.95%,True,Hold,/drugs/cortisone_acetate/
-Cromoglicic Acid,cromoglicic_acid,L5,10,過敏性結膜炎、過敏性鼻炎（台灣有效單方許可證）；氣喘、肥大細胞增生症為知識圖譜的適應症關聯,潰瘍性直腸乙狀結腸炎 (Ulcerative Proctosigmoiditis),99.99%,True,Hold,/drugs/cromoglicic_acid/
+Cromoglicic Acid,cromoglicic_acid,L5,10,過敏性結膜炎、過敏性鼻炎（台灣有效單方製劑許可證）；原料藥許可證另登載支氣管擴張劑、過敏症用藥；肥大細胞增生症為知識圖譜的適應症關聯,潰瘍性直腸乙狀結腸炎 (Ulcerative Proctosigmoiditis),99.99%,True,Hold,/drugs/cromoglicic_acid/
 Cyclandelate,cyclandelate,L2,10,末梢血管循環障礙,偏頭痛 (migraine disorder)；此為證據最完整的預測，TxGNN 排名第 3，排名第 1 為 Prinzmetal 心絞痛,99.69%（偏頭痛）；排名第 1 的 Prinzmetal 心絞痛為 99.80%,True,Proceed with Guardrails,/drugs/cyclandelate/
 Cyclizine,cyclizine,L4,9,預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀,過敏性蕁麻疹 (Allergic Urticaria),99.98%,True,Hold,/drugs/cyclizine/
 Cytarabine,cytarabine,L4,9,急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、衛部藥輸字第028975號）,小細胞肺癌 (Small Cell Lung Carcinoma),99.78%,True,Hold,/drugs/cytarabine/
@@ -77,7 +77,7 @@ Dexketoprofen,dexketoprofen,L1,10,治療輕度至中等強度疼痛症狀，如�
 Diosmin,diosmin,L5,1,協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解,閉經 (Amenorrhea),99.42%,True,Hold,/drugs/diosmin/
 Dipyridamole,dipyridamole,L4,10,取代心肌造影時所需之運動試驗（另有慢性狹心症之治療、血小板集結降低藥等適應症）,Prinzmetal 狹心症 (Prinzmetal angina),99.99%,True,Hold,/drugs/dipyridamole/
 Disopyramide,disopyramide,L5,10,心室性不整律,妥瑞氏症 (Tourette syndrome),99.86%,True,Hold,/drugs/disopyramide/
-Dl-Alpha-Tocopherol,dl-alpha-tocopherol,L5,10,維他命 E 缺乏症,未成熟型白內障 (Immature Cataract),99.98%,True,Hold,/drugs/dl-alpha-tocopherol/
+Dl-Alpha-Tocopherol,dl-alpha-tocopherol,L5,10,維他命 E 缺乏症（現行有效單方許可證）；末梢血行障礙見於已註銷的單方許可證與有效複方（如內衛藥製字第007748號益益口服液）,未成熟型白內障 (Immature Cataract),99.98%,True,Hold,/drugs/dl-alpha-tocopherol/
 Docetaxel,docetaxel,L1,10,乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌,女性乳癌 (Female Breast Carcinoma),99.90%,True,Proceed with Guardrails,/drugs/docetaxel/
 Doripenem,doripenem,L5,5,對 Doripenem Hydrate 具感受性之菌種的複雜性泌尿道感染（包括腎盂腎炎）及複雜性腹腔內感染,肝門靜脈硬化症 (Hepatoportal Sclerosis),99.00%,True,Hold,/drugs/doripenem/
 Dorzolamide,dorzolamide,L5,10,碳酸酐脢抑制劑，用於高眼壓和開角型青光眼患者，以降低眼內壓,原發性遺傳性青光眼 (Primary Hereditary Glaucoma),99.99%,True,Hold,/drugs/dorzolamide/
@@ -208,7 +208,7 @@ Pimozide,pimozide,L4,10,精神病狀態,拔毛症 (Trichotillomania),99.996%,Tru
 Pipemidic Acid,pipemidic_acid,L4,10,抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）,心臟疾病 (Heart disease),99.93%,True,Hold,/drugs/pipemidic_acid/
 Pitavastatin,pitavastatin,L4,10,原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症,同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia),99.996%,True,Hold,/drugs/pitavastatin/
 Pitolisant,pitolisant,L4,3,1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS），這些病人的 EDS 無法透過 CPAP 等 OSA 主要治療方式得到滿意成果或無法耐受。,失眠 (Insomnia),99.71%,True,Hold,/drugs/pitolisant/
-Polyethylene Glycol,polyethylene_glycol,L5,1,便秘、軟便（PEG／macrogol 單方口服瀉劑，如衛署藥輸字第023462號腹樂疏、衛部藥輸字第027374號沛見清）,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.03%,True,Hold,/drugs/polyethylene_glycol/
+Polyethylene Glycol,polyethylene_glycol,L5,1,便秘、軟便、檢查或手術前腸道清洗（PEG／macrogol 單方口服製劑，如衛署藥輸字第023462號腹樂疏、衛部藥製字第061592號易暢淨）,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.03%,True,Hold,/drugs/polyethylene_glycol/
 Polyethylene Glycol 400,polyethylene_glycol_400,L5,2,成人和八歲及以上兒童便秘的症狀治療,支氣管炎 (Bronchitis),99.58%,True,Hold,/drugs/polyethylene_glycol_400/
 Polymyxin B,polymyxin_b,L4,3,抗生素（單方許可證僅載明此項）,支氣管炎 (Bronchitis),99.87%,True,Hold,/drugs/polymyxin_b/
 Polysorbate 80,polysorbate_80,L5,1,界面活性劑,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),99.43%,True,Hold,/drugs/polysorbate_80/
@@ -245,7 +245,7 @@ Salicylamide,salicylamide,L4,10,鎮痛藥,咽炎 (Pharyngitis),99.98%,True,Hold,
 Salicylic Acid,salicylic_acid,L5,10,鎮痛藥、退熱藥、抗風濕藥,乳突狀結膜炎 (Papillary conjunctivitis),99.88%,True,Hold,/drugs/salicylic_acid/
 Scopolamine,scopolamine,L5,6,胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛,脊髓馬尾症候群 (Cauda Equina Syndrome),99.99%,True,Hold,/drugs/scopolamine/
 Sennosides,sennosides,L5,6,緩解便秘,頭皮單純性毛髮稀疏症 (Hypotrichosis Simplex of the Scalp),99.29%,True,Hold,/drugs/sennosides/
-Silicon Dioxide,silicon_dioxide,L5,4,賦形劑、氣體吸著劑（二氧化矽單方許可證，皆已註銷）；含二氧化矽的制酸劑複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期,活動性消化性潰瘍 (Active Peptic Ulcer Disease),99.93%,True,Hold,/drugs/silicon_dioxide/
+Silicon Dioxide,silicon_dioxide,L5,4,賦形劑、氣體吸著劑（二氧化矽單方許可證，皆已註銷）；含二氧化矽的制酸劑複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期,活動性消化性潰瘍 (Active Peptic Ulcer Disease),99.93%,False,Hold,/drugs/silicon_dioxide/
 Simoctocog Alfa,simoctocog_alfa,L5,10,治療與預防A型血友病(先天性第八凝血因子缺乏)病人的出血,偽性類血友病 (pseudo-von Willebrand disease),99.997%,True,Hold,/drugs/simoctocog_alfa/
 Sodium Acetate,sodium_acetate,L5,10,血液透析藥,先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency),99.98%,True,Hold,/drugs/sodium_acetate/
 Sodium Carbonate,sodium_carbonate,L5,6,無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分,馬尾症候群（Cauda Equina Syndrome）；排名第 1,99.80%,True,Hold,/drugs/sodium_carbonate/
@@ -283,7 +283,7 @@ Triamcinolone,triamcinolone,L4,10,短期緩解急慢性口腔黏膜破損（冠�
 Trifluoperazine,trifluoperazine,L4,1,精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙,躁期雙相情感障礙 (Manic Bipolar Affective Disorder),99.51%,True,Hold,/drugs/trifluoperazine/
 Trihexyphenidyl,trihexyphenidyl,L5,10,帕金森氏症候群,注意力不足過動症 (Attention Deficit-Hyperactivity Disorder),99.92%,True,Hold,/drugs/trihexyphenidyl/
 Tyrosine,tyrosine,L5,10,氨基酸補給劑、營養劑（胺基酸）（取自台灣單一成分許可證中現行有效者；有效證另有 TKI 類產品的血液腫瘤適應症，其藥理與酪胺酸營養劑不同）,馬尾症候群 (Cauda Equina Syndrome),99.77%,True,Hold,/drugs/tyrosine/
-Uracil,uracil,L3,10,抗惡性腫瘤劑（單方原料藥，如衛部藥製字第060268號）；與 tegafur 組成複方膠囊（UFT），用於胃癌、大腸癌、乳癌等（如衛署藥輸字第023484號）,大腸腫瘤 (Colonic Neoplasm),99.50%,True,Hold,/drugs/uracil/
+Uracil,uracil,L3,10,抗惡性腫瘤劑（單方原料藥，如衛部藥製字第062093號、第062102號）；與 tegafur 組成複方膠囊（UFT），用於胃癌、大腸癌、乳癌等（如衛署藥輸字第023484號）,大腸腫瘤 (Colonic Neoplasm),99.50%,True,Hold,/drugs/uracil/
 Urea,urea,L5,0,,,,False,,/drugs/urea/
 Urofollitropin,urofollitropin,L5,10,因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀,偏頭痛 (Migraine Disorder),99.85%,True,Hold,/drugs/urofollitropin/
 Vasopressin,vasopressin,L4,2,尿崩症,先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency),99.63%,False,Hold,/drugs/vasopressin/

@@ -102,16 +102,16 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Potassium Iodide 的不重複許可證共 **86 張**：有效單方 2 張、有效複方 12 張、已過期 2 張（未註銷但有效日期已過）、已註銷 70 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Potassium Iodide 的不重複許可證共 **86 張**：有效單方 2 張、有效複方 12 張、已過期 2 張（未註銷但有效日期早於資料集日期）、已註銷 70 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（2 張）
+**有效・單方（截至資料集日期 2026-09-29）**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第056668號 | “信東”碘化鉀錠130毫克 | 錠劑 | 信東生技股份有限公司 | 2031/08/10 | 限於輻射緊急事故，保護甲狀腺時使用。 |
 | 衛部藥輸字第027470號 | 碘化鉀 | 原料藥結晶性粉末 | 台灣默克股份有限公司 | 2028/07/12 | 袪痰藥 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（12 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（12 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -128,7 +128,7 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 | 衛署藥製字第044330號 | 碘楊酸外用液劑〝寶齡〞 | IODINE、POTASSIUM IODIDE、SALICYLIC ACID | 外用液劑 | 絲狀菌感染等症狀。 |
 | 衛部藥輸字第026993號 | 微達穩注射液 | Ferric chloride hexahydrate、Copper chloride dihydrate、SODIUM… | 注射劑 | 使用於接受靜脈營養補充的病人，以滿足基本微量元素需求 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（2 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（2 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第015566號</td><td>"聯邦"司脫勞維丹糖衣錠</td><td>MONOSODIUM GLUTAMATE (SODIUM GLUTAMATE)、CALCIUM FLUORIDE、POT…</td><td>2024/05/25</td></tr><tr><td>衛署藥製字第038780號</td><td>"東洲"咳可靜糖漿</td><td>CHLORPHENIRAMINE MALEATE、PHENYLEPHRINE HCL、CODEINE PHOSPHATE…</td><td>2025/04/26</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（70 張，展開）</summary>

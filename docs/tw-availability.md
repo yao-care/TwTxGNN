@@ -271,7 +271,7 @@ permalink: /tw-availability/
 | [Salicylic Acid](/drugs/salicylic-acid/) | ✓ 已上市 |  | L5 |
 | [Scopolamine](/drugs/scopolamine/) | ✓ 已上市 |  | L5 |
 | [Sennosides](/drugs/sennosides/) | ✓ 已上市 |  | L5 |
-| [Silicon Dioxide](/drugs/silicon-dioxide/) | ✓ 已上市（僅 1 張有效複方許可證） |  | L5 |
+| [Silicon Dioxide](/drugs/silicon-dioxide/) | ✗ 截至資料集日期無有效許可證（唯一未註銷的複方「二矽酸鋁鎂」已於 2026-07-07 過期） |  | L5 |
 | [Simoctocog Alfa](/drugs/simoctocog-alfa/) | ✓ 已上市 |  | L5 |
 | [Sodium Acetate](/drugs/sodium-acetate/) | ✓ 已上市 |  | L5 |
 | [Sodium Carbonate](/drugs/sodium-carbonate/) | ✓ 已上市 |  | L5 |

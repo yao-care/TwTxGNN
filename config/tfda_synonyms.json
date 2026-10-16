@@ -138,5 +138,51 @@
       "query": "Warfarin",
       "note": "同上"
     }
+  },
+  "exclude": {
+    "POVIDONE": {
+      "patterns": [
+        "IODINE",
+        "LODINE"
+      ],
+      "note": "povidone-iodine（聚維酮碘）是另一個藥，殺菌作用來自碘；2026-10-16 補；LODINE 為資料集內 povidone iodine 的誤植（如衛部藥輸字第026339號登載 Povidone lodine）"
+    },
+    "SODIUM CARBONATE": {
+      "patterns": [
+        "CEFTAZIDIME"
+      ],
+      "note": "STERILE CEFTAZIDIME (SODIUM CARBONATE)：碳酸鈉是 ceftazidime 注射劑的賦形劑（衛署藥製字第041013號、第041754號）；2026-10-16 補"
+    },
+    "LACTIC ACID": {
+      "patterns": [
+        "CIPROFLOXACIN",
+        "PRENYLAMINE"
+      ],
+      "note": "CIPROFLOXACIN (LACTATE)、PRENYLAMINE (LACTATE)：乳酸根是鹽基，主成分是 ciprofloxacin／prenylamine；2026-10-16 補"
+    },
+    "SODIUM CITRATE": {
+      "patterns": [
+        "IRON"
+      ],
+      "note": "IRON (SODIUM CITRATE) 是檸檬酸鐵鈉，屬鐵劑；2026-10-16 補"
+    },
+    "THIAMINE": {
+      "patterns": [
+        "PROSULTIAMINE"
+      ],
+      "note": "PROSULTIAMINE (THIAMINE PROPYL DISULFIDE) 是 thiamine 的衍生物，不同藥；2026-10-16 補"
+    },
+    "GUAIACOL": {
+      "patterns": [
+        "TETRACYCLINE"
+      ],
+      "note": "TETRACYCLINE (GUAIACOL SULFONATE) 主成分是 tetracycline；2026-10-16 補"
+    },
+    "PROCAINE": {
+      "patterns": [
+        "PENICILLIN"
+      ],
+      "note": "PENICILLIN G (PROCAINE) 是 penicillin G procaine，屬抗生素（模組說明原已寫明不算 procaine）；2026-10-16 補"
+    }
   }
 }

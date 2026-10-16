@@ -29,7 +29,13 @@ indication_count: 10
 
 </div>
 
-# Aluminum oxide：從胃酸過多與消化性潰瘍到類風濕性關節炎
+# Aluminum oxide：從氫氧化鋁凝膠制酸劑（許可證主成分登載為 aluminum oxide）到類風濕性關節炎
+
+<!-- review:begin aluminum-oxide-gel-is-aluminum-hydroxide-gel-title-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「# Aluminum oxide：從胃酸過多與消化性潰瘍到類風濕性關節炎」。主成分登載為 aluminum oxide (alumina) 的唯一有效單方許可證是內衛藥製字第009846號「人人」氫氧化鋁凝膠（ALUMINUM HYDROXIDE GEL），核准緩解胃部不適或灼熱感、或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。氧化鋁（Al₂O₃）與氫氧化鋁（Al(OH)₃）是不同化合物，這裡的制酸劑實為氫氧化鋁凝膠。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end aluminum-oxide-gel-is-aluminum-hydroxide-gel-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -84,15 +90,15 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Aluminum Oxide 的不重複許可證共 **18 張**：有效單方 1 張、有效複方 0 張、已過期 1 張（未註銷但有效日期已過）、已註銷 16 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Aluminum Oxide 的不重複許可證共 **18 張**：有效單方 1 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 16 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
+**有效・單方（截至資料集日期 2026-09-29）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 內衛藥製字第009846號 | "人人"氫氧化鋁凝膠 | 內服凝膠劑 | 人人化學製藥股份有限公司 | 2029/12/31 | 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024482號</td><td>二矽酸鋁鎂</td><td>ALUMINUM OXIDE (ALUMINA)、ALUMINUM MAGNESIUM SILICATE、SILICON…</td><td>2026/07/07</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（16 張，展開）</summary>
@@ -137,6 +143,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 | 2026-10-03 | 把 aluminum oxide 寫成氫氧化鋁 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由稱 aluminum oxide 是制酸劑 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱 aluminum oxide 作為制酸劑 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以胃酸過多與消化性潰瘍為 aluminum oxide 的原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

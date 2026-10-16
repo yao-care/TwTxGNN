@@ -76,9 +76,9 @@ TxGNN 模型預測它可能對**痛風 (Gout)** 有效，但目前**沒有任何
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sulfamerazine 的不重複許可證共 **40 張**：有效單方 0 張、有效複方 0 張、已過期 1 張（未註銷但有效日期已過）、已註銷 39 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Sulfamerazine 的不重複許可證共 **40 張**：有效單方 0 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 39 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第027573號</td><td>"聯邦"鐵多拉三種磺胺錠</td><td>SULFAMETHAZINE (SULFADIMIDINE)、SULFAMERAZINE、SULFADIAZINE</td><td>2024/05/25</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（39 張，展開）</summary>

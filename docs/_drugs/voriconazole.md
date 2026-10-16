@@ -66,9 +66,9 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Voriconazole 的不重複許可證共 **22 張**：有效單方 16 張、有效複方 0 張、已過期 2 張（未註銷但有效日期已過）、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Voriconazole 的不重複許可證共 **22 張**：有效單方 16 張、有效複方 0 張、已過期 2 張（未註銷但有效日期早於資料集日期）、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（16 張）
+**有效・單方（截至資料集日期 2026-09-29）**（16 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -89,7 +89,7 @@ Voriconazole 是第二代三唑類抗黴菌藥物，透過抑制真菌細胞色�
 | 衛部藥輸字第027758號 | 止黴捷膜衣錠50毫克 | 膜衣錠 | 美時化學製藥股份有限公司 | 2029/11/11 | 一、治療侵犯性麴菌病（INVASIVE ASPERGILLOSIS）﹔二、治療嚴重之侵犯性念珠菌感染（SERIOUS INVASIVE CANDIDA INFECTIONS）﹔三、… |
 | 衛部藥陸輸字第000853號 | 伏立康唑 | 粉劑 | 仁友興業股份有限公司 | 2028/08/30 | 抗黴菌用藥 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（2 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（2 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥輸字第026218號</td><td>伏立康唑</td><td>Voriconazole</td><td>2023/12/11</td></tr><tr><td>衛部藥輸字第027519號</td><td>伏立康唑</td><td>Voriconazole</td><td>2023/10/12</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（4 張，展開）</summary>

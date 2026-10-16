@@ -33,13 +33,13 @@ indication_count: 10
 
 ## 一句話總結
 
-DL-alpha-Tocopherol（合成型維生素 E）原本用於治療維他命 E 缺乏症（末梢血管循環障礙是 tocopherol nicotinate 製劑的適應症）。
+DL-alpha-Tocopherol（合成型維生素 E）原本用於治療維他命 E 缺乏症（現行有效單方許可證）；末梢血行障礙見於已註銷的單方許可證與有效複方。
 TxGNN 模型預測它可能對**未成熟型白內障 (Immature Cataract)** 有效，
 但目前**沒有臨床試驗與直接相關文獻**支持，證據僅來自模型預測。
 
 <!-- review:begin dl-alpha-tocopherol-summary-indication-2026-10-03 -->
 
-> **查核更正（2026-10-03）**：原寫「原本用於治療維他命 E 缺乏症與末梢血管循環障礙。」。TFDA 許可證資料中，dl-alpha-tocopherol 現行有效單方許可證（如衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」）核准的是維他命Ｅ缺乏症；「末梢血管循環障礙」是 tocopherol nicotinate（妥非尼克進，例如衛署藥製字第019636號「暢淨血膠囊」）的適應症，屬不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「原本用於治療維他命 E 缺乏症與末梢血管循環障礙。」。TFDA 許可證資料中，dl-alpha-tocopherol 截至資料集日期有效的單方許可證只有衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」，核准維他命Ｅ缺乏症。末梢血行障礙曾是多張 dl-alpha-tocopherol 單方許可證的適應症（如內衛藥輸字第002506號爽強膠囊、第002715號益爾健膠囊、衛署藥輸字第001340號維生素Ｅ），但都已註銷；現行有效的複方內衛藥製字第007748號益益口服液也列有末梢血行障礙，屬整個複方的適應症。另 tocopherol nicotinate（如衛署藥製字第019636號暢淨血膠囊）是不同成分，核准末梢血管循環障礙。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end dl-alpha-tocopherol-summary-indication-2026-10-03 -->
 
@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**未成熟型白內障 (Immature Cataract)** 有�
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 維他命 E 缺乏症 |
+| 原適應症 | 維他命 E 缺乏症（現行有效單方許可證）；末梢血行障礙見於已註銷的單方許可證與有效複方（如內衛藥製字第007748號益益口服液） |
 | 預測新適應症 | 未成熟型白內障 (Immature Cataract) |
 | TxGNN 預測分數 | 99.98% |
 | 證據等級 | L5 |
@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**未成熟型白內障 (Immature Cataract)** 有�
 
 <!-- review:begin dl-alpha-tocopherol-original-indication-2026-10-03 -->
 
-> **查核更正（2026-10-03）**：原寫「原適應症／末梢血管循環障礙（現行有效的單方許可證適應症）；另有維他命 E 缺乏症」。TFDA 許可證資料中，dl-alpha-tocopherol 現行有效單方許可證（如衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」）核准的是維他命Ｅ缺乏症；「末梢血管循環障礙」是 tocopherol nicotinate（妥非尼克進，例如衛署藥製字第019636號「暢淨血膠囊」）的適應症，屬不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-03）**：原寫「原適應症／末梢血管循環障礙（現行有效的單方許可證適應症）；另有維他命 E 缺乏症」。TFDA 許可證資料中，dl-alpha-tocopherol 截至資料集日期有效的單方許可證只有衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」，核准維他命Ｅ缺乏症。末梢血行障礙曾是多張 dl-alpha-tocopherol 單方許可證的適應症（如內衛藥輸字第002506號爽強膠囊、第002715號益爾健膠囊、衛署藥輸字第001340號維生素Ｅ），但都已註銷；現行有效的複方內衛藥製字第007748號益益口服液也列有末梢血行障礙，屬整個複方的適應症。另 tocopherol nicotinate（如衛署藥製字第019636號暢淨血膠囊）是不同成分，核准末梢血管循環障礙。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end dl-alpha-tocopherol-original-indication-2026-10-03 -->
 
@@ -70,7 +70,7 @@ TxGNN 模型預測它可能對**未成熟型白內障 (Immature Cataract)** 有�
 
 <!-- review:begin dl-alpha-tocopherol-original-indication-why-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，dl-alpha-tocopherol 現行有效單方許可證（如衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」）核准的是維他命Ｅ缺乏症；「末梢血管循環障礙」是 tocopherol nicotinate（妥非尼克進，例如衛署藥製字第019636號「暢淨血膠囊」）的適應症，屬不同成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，dl-alpha-tocopherol 截至資料集日期有效的單方許可證只有衛署藥輸字第013594號「維生素Ｅ（ＤＬ－α─型）」，核准維他命Ｅ缺乏症。末梢血行障礙曾是多張 dl-alpha-tocopherol 單方許可證的適應症（如內衛藥輸字第002506號爽強膠囊、第002715號益爾健膠囊、衛署藥輸字第001340號維生素Ｅ），但都已註銷；現行有效的複方內衛藥製字第007748號益益口服液也列有末梢血行障礙，屬整個複方的適應症。另 tocopherol nicotinate（如衛署藥製字第019636號暢淨血膠囊）是不同成分，核准末梢血管循環障礙。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end dl-alpha-tocopherol-original-indication-why-2026-10-16 -->
 
@@ -96,15 +96,15 @@ TxGNN 同時預測了多種白內障亞型，包括成熟型、核性老年性�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Dl-Alpha-Tocopherol 的不重複許可證共 **269 張**：有效單方 1 張、有效複方 26 張、已過期 5 張（未註銷但有效日期已過）、已註銷 237 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Dl-Alpha-Tocopherol 的不重複許可證共 **269 張**：有效單方 1 張、有效複方 26 張、已過期 5 張（未註銷但有效日期早於資料集日期）、已註銷 237 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（1 張）
+**有效・單方（截至資料集日期 2026-09-29）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥輸字第013594號 | 維生素Ｅ（ＤＬ－α─型） | 原料藥溶液劑 | 帝斯曼營養品股份有限公司 | 2028/06/06 | 維他命Ｅ缺乏症 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（26 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（26 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -135,7 +135,7 @@ TxGNN 同時預測了多種白內障亞型，包括成熟型、核性老年性�
 | 衛部藥輸字第027502號 | 樂敦舒視齡眼藥水 | NEOSTIGMINE METHYLSULFATE、D-ALPHA-TOCOPHEROL ACETATE、PYRIDOX… | 點眼液劑 | 眼睛疲勞，眼睛癢。 |
 | 衛部藥輸字第029004號 | 樂敦藍視光高效眼藥水 | D-ALPHA-TOCOPHEROL ACETATE、PYRIDOXINE HYDROCHLORIDE、NEOSTIGM… | 點眼液劑 | 暫時緩解因輕微眼部刺激所引起之不適，眼睛癢，眼睛疲勞 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（5 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（5 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>內衛藥製字第012593號</td><td>"約克'' 力康膠囊</td><td>VITAMIN K ACTIVITY、CHOLINE BITARTRATE、THIAMINE HYDROCHLORIDE…</td><td>2024/05/25</td></tr><tr><td>衛署藥製字第015566號</td><td>"聯邦"司脫勞維丹糖衣錠</td><td>MONOSODIUM GLUTAMATE (SODIUM GLUTAMATE)、CALCIUM FLUORIDE、POT…</td><td>2024/05/25</td></tr><tr><td>衛署藥輸字第023039號</td><td>培達１０％　Ｅ</td><td>BETA-CAROTENE CRYSTALLINE、CORN STARCH (EQ TO STARCH MAYDIS)(…</td><td>2025/10/27</td></tr><tr><td>衛署藥輸字第024502號</td><td>日方元氣膠囊</td><td>PYRIDOXINE HCL、ORYZANOL GAMMA-、BISBENTIAMINE (THIAMINE O-BEN…</td><td>2026/08/10</td></tr><tr><td>衛署藥輸字第025187號</td><td>“佐藤”視樂優點眼液</td><td>NEOSTIGMINE METHYLSULFATE、D-ALPHA-TOCOPHEROL ACETATE、FLAVINE…</td><td>2025/05/13</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（237 張，展開）</summary>
@@ -174,9 +174,9 @@ TxGNN 同時預測了多種白內障亞型，包括成熟型、核性老年性�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 一句話總結把末梢血管循環障礙列為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症列入 tocopherol nicotinate 的末梢血管循環障礙 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由把末梢血管循環障礙列為原適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 一句話總結把末梢血管循環障礙列為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症列入 tocopherol nicotinate 的末梢血管循環障礙 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由把末梢血管循環障礙列為原適應症 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

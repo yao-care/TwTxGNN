@@ -64,7 +64,7 @@ TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測�
 
 <!-- review:begin fenoprofen-why-as-premise-rank-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「TxGNN 預測分數／99.94%（模型排名第 1839）」。依本站 TxGNN 深度學習預測檔（data/processed/txgnn_dl_predictions.csv.gz，2026-10-12），fenoprofen 對 ankylosing spondylitis 的分數 0.9994、全模型排名第 2006；在本藥報告採用的預測清單中排第 10。依據：[TwTxGNN TxGNN 深度學習預測檔（txgnn_dl_predictions.csv.gz，2026-10-12）](https://github.com/yao-care/TwTxGNN)。
+> **查核更正（2026-10-16）**：原寫「TxGNN 預測分數／99.94%（模型排名第 1839）」。依本站 TxGNN 深度學習預測檔 txgnn_dl_predictions.csv.gz（2026-10-12 產出），fenoprofen 對 ankylosing spondylitis 的分數 0.9994、全模型排名第 2006；在本藥報告採用的預測清單中排第 10。這個檔案沒有進 git，已與其他資料一併封存於 GitHub Release data-20261015 的 TwTxGNN-data 包（yao-care/txgnn 私有 repo，路徑 TwTxGNN/data/processed/txgnn_dl_predictions.csv.gz）。依據：[TwTxGNN TxGNN 深度學習預測檔 txgnn_dl_predictions.csv.gz（2026-10-12 產出；封存於 GitHub Release data-20261015 的 TwTxGNN-data 包，yao-care/txgnn 私有 repo）](https://github.com/yao-care/txgnn/releases/tag/data-20261015)。
 
 <!-- review:end fenoprofen-why-as-premise-rank-2026-10-16 -->
 
@@ -108,7 +108,7 @@ TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測�
 
 依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Fenoprofen 的不重複許可證共 **10 張**：有效單方 2 張、有效複方 0 張、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（2 張）
+**有效・單方（截至資料集日期 2026-09-29）**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -171,7 +171,7 @@ TxGNN 模型預測分數最高的是罕見骨骼發育疾病，但這些預測�
 | 2026-10-16 | 標題以風濕性關節炎為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結把已註銷許可證的適應症寫成原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱與既有核准適應症（關節強硬性脊椎炎）重疊 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 模型排名寫第 1839 | 更正 | [TwTxGNN TxGNN 深度學習預測檔（txgnn_dl_predictions.csv.gz，2026-10-12）](https://github.com/yao-care/TwTxGNN) |
+| 2026-10-16 | 模型排名寫第 1839 | 更正（2026-10-16 修訂，前版保留於紀錄） | [TwTxGNN TxGNN 深度學習預測檔 txgnn_dl_predictions.csv.gz（2026-10-12 產出；封存於 GitHub Release data-20261015 的 TwTxGNN-data 包，yao-care/txgnn 私有 repo）](https://github.com/yao-care/txgnn/releases/tag/data-20261015) |
 
 <!-- review:end log -->
 

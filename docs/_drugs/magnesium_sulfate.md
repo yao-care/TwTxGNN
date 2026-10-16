@@ -70,6 +70,12 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 <!-- review:end magnesium_sulfate-moa-2026-10-03 -->
 
+<!-- review:begin magnesium-sulfate-cerebral-perfusion-level-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：依本站研究方法，L1 需有 ≥2 個 Phase 3 試驗或系統性回顧；本頁自述已完成的 Phase 3 RCT 不足 2 個，文獻證據表也沒有系統性回顧，依本頁所列證據不符 L1 定義（有 Phase 2/3 RCT，較接近 L2）。另外，子癇前症／子癇本身就是硫酸鎂仿單核准的適應症（預防與控制子癇前症、子癇的抽搐），這筆預測屬既有用途的再確認，不是新適應症。頁面等級未改寫。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
+
+<!-- review:end magnesium-sulfate-cerebral-perfusion-level-2026-10-16 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）。根據資料彙整的機轉推論，硫酸鎂可拮抗 NMDA 受體、阻斷鈣離子通道，並促進腦血管擴張。這些作用能提高癲癇發作閾值，並對抗子癇時的血管痙攣。
@@ -132,7 +138,7 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Magnesium Sulfate 的不重複許可證共 **117 張**：有效單方 5 張、有效複方 14 張、已註銷 98 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（5 張）
+**有效・單方（截至資料集日期 2026-09-29）**（5 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -142,7 +148,7 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 衛部藥輸字第027619號 | 硫酸鎂 | （粉） | 宣泓貿易有限公司 | 2029/03/25 | 抗痙攣藥；瀉藥 |
 | 衛部藥輸字第028751號 | 七水硫酸鎂 | 原料藥結晶性粉末 | 品承貿易股份有限公司 | 2029/07/23 | 子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充。 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（14 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（14 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -215,6 +221,7 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 稱缺乏作用機轉資料 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-16 | 下一步建議補齊作用機轉 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-16 | 證據等級 L1 與頁面自述不符 | 加註 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 
 <!-- review:end log -->
 

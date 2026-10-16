@@ -76,9 +76,9 @@ TxGNN 模型預測它可能對**重度子癇前症 (Severe Pre-eclampsia)** 有�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Berberine 的不重複許可證共 **206 張**：有效單方 8 張、有效複方 28 張、已過期 6 張（未註銷但有效日期已過）、已註銷 164 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Berberine 的不重複許可證共 **206 張**：有效單方 8 張、有效複方 28 張、已過期 6 張（未註銷但有效日期早於資料集日期）、已註銷 164 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（8 張）
+**有效・單方（截至資料集日期 2026-09-29）**（8 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -91,7 +91,7 @@ TxGNN 模型預測它可能對**重度子癇前症 (Severe Pre-eclampsia)** 有�
 | 衛署藥製字第013184號 | "十全"痢寧膠囊 | 膠囊劑 | 十全實業股份有限公司 | 2027/05/25 | 緩解輕微或中度急性腹瀉 |
 | 衛署藥陸輸字第000522號 | 氯化小蘗 | （粉） | 恒海貿易股份有限公司 | 2027/07/18 | 苦味健胃劑 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（28 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（28 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -124,7 +124,7 @@ TxGNN 模型預測它可能對**重度子癇前症 (Severe Pre-eclampsia)** 有�
 | 衛部藥製字第058349號 | 力克明膜衣錠 | SCOPOLIA EXTRACT、BERBERINE TANNATE | 膜衣錠 | 緩解輕微或中度急性腹瀉。 |
 | 衛部藥製字第058520號 | 安腸平錠 | BERBERINE CHLORIDE (ANHYDROUS)、ETHACRIDINE LACTATE MONOHYDRA… | 錠劑 | 腸內異常醱酵，消化不良，急、慢性腸炎、赤痢、疫痢。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（6 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（6 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第012348號</td><td>痢福膠囊</td><td>BERBERINE HCL、CHLORPHENIRAMINE MALEATE、NITROFURAZONE、THIAMIN…</td><td>2003/03/01</td></tr><tr><td>衛署藥製字第012949號</td><td>"太田"整腸錠</td><td>BERBERINE CHLORIDE、CHLORPHENIRAMINE MALEATE、ETHACRIDINE LACT…</td><td>2024/08/30</td></tr><tr><td>衛署藥製字第022893號</td><td>痢博新膠囊</td><td>DIMETHICONE (EQ TO DIMETHYLPOLYSILOXANE OR POLYDIMETHYL SILO…</td><td>2024/12/31</td></tr><tr><td>衛署藥製字第026605號</td><td>健痢膠囊</td><td>ETHACRIDINE LACTATE MONOHYDRATE (ACRINOL)、BERBERINE CHLORIDE…</td><td>2024/05/25</td></tr><tr><td>衛署藥製字第032859號</td><td>得痢寧膠囊</td><td>GENTIAN EXT、DIPHENYLPYRALINE HCL、BERBERINE CHLORIDE、ANACOLIN…</td><td>2025/08/03</td></tr><tr><td>衛署藥製字第033732號</td><td>意能錠</td><td>CALCIUM CARBONATE、BERBERINE CHLORIDE、VITAMIN U (METHYLMETHIO…</td><td>2026/02/26</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（164 張，展開）</summary>

@@ -33,19 +33,19 @@ indication_count: 1
 
 <!-- review:begin polyethylene_glycol-mircera-indication-title-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「# Polyethylene glycol：從軟膏基劑與慢性腎病貧血到先天性魚鱗癬樣紅皮症」。TFDA 許可證資料中，polyethylene glycol（macrogol）的有效單方許可證是口服瀉劑：衛署藥輸字第023462號腹樂疏、衛部藥輸字第028188號與第028384號腹樂輕（軟便）、衛部藥輸字第027374號沛見清與衛部藥製字第060863號「國嘉」寶淨（慢性便秘）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「# Polyethylene glycol：從軟膏基劑與慢性腎病貧血到先天性魚鱗癬樣紅皮症」。TFDA 許可證資料中，polyethylene glycol（macrogol）截至資料集日期的有效單方許可證共 7 張，都是口服製劑：便秘、軟便用的衛署藥輸字第023462號腹樂疏、衛部藥製字第060863號與第060864號「國嘉」寶淨、衛部藥輸字第027374號沛見清、衛部藥輸字第028188號與第028384號腹樂輕，以及清腸用的衛部藥製字第061592號「國嘉」易暢淨（內視鏡、放射線檢查或大腸手術前的腸道清洗）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end polyethylene_glycol-mircera-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Polyethylene glycol（聚乙二醇，PEG）在台灣主要作為軟膏基劑與調劑用途，亦見於人工淚液及 Mircera（長效紅血球生成素）等製劑。
+Polyethylene glycol（聚乙二醇，PEG）在台灣的有效單方許可證都是口服瀉劑與清腸劑（便秘、軟便、檢查或手術前腸道清洗）；它也常作為軟膏基劑與賦形劑。Mircera（美血樂）的主成分是聚乙二醇化的 epoetin beta，不是 PEG 本身。
 TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma)** 有效，
 但目前**沒有任何臨床試驗或文獻**支持，僅屬模型預測。
 
 <!-- review:begin polyethylene_glycol-mircera-indication-summary-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，polyethylene glycol（macrogol）的有效單方許可證是口服瀉劑：衛署藥輸字第023462號腹樂疏、衛部藥輸字第028188號與第028384號腹樂輕（軟便）、衛部藥輸字第027374號沛見清與衛部藥製字第060863號「國嘉」寶淨（慢性便秘）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「Polyethylene glycol（聚乙二醇，PEG）在台灣主要作為軟膏基劑與調劑用途，亦見於人工淚液及 Mircera（長效紅血球生成素）等製劑。」。TFDA 許可證資料中，polyethylene glycol（macrogol）截至資料集日期的有效單方許可證共 7 張，都是口服製劑：便秘、軟便用的衛署藥輸字第023462號腹樂疏、衛部藥製字第060863號與第060864號「國嘉」寶淨、衛部藥輸字第027374號沛見清、衛部藥輸字第028188號與第028384號腹樂輕，以及清腸用的衛部藥製字第061592號「國嘉」易暢淨（內視鏡、放射線檢查或大腸手術前的腸道清洗）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end polyethylene_glycol-mircera-indication-summary-2026-10-16 -->
 
@@ -53,7 +53,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 便秘、軟便（PEG／macrogol 單方口服瀉劑，如衛署藥輸字第023462號腹樂疏、衛部藥輸字第027374號沛見清） |
+| 原適應症 | 便秘、軟便、檢查或手術前腸道清洗（PEG／macrogol 單方口服製劑，如衛署藥輸字第023462號腹樂疏、衛部藥製字第061592號易暢淨） |
 | 預測新適應症 | 先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma) |
 | TxGNN 預測分數 | 99.03% |
 | 證據等級 | L5 |
@@ -61,15 +61,9 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 | 許可證數 | 40 張（有效單方 7／有效複方 5／已過期 1／已註銷 27） |
 | 建議決策 | Hold |
 
-<!-- review:begin polyethylene_glycol-mircera-indication-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：TFDA 許可證資料中，polyethylene glycol（macrogol）的有效單方許可證是口服瀉劑：衛署藥輸字第023462號腹樂疏、衛部藥輸字第028188號與第028384號腹樂輕（軟便）、衛部藥輸字第027374號沛見清與衛部藥製字第060863號「國嘉」寶淨（慢性便秘）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。（快速總覽此列原寫「治療慢性腎病所引起的症狀性貧血（Mircera 製劑）」，已另以查核更正改寫。）依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end polyethylene_glycol-mircera-indication-2026-10-03 -->
-
 <!-- review:begin polyethylene_glycol-mircera-indication-row-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「原適應症／治療慢性腎病（CKD）所引起的症狀性貧血（Mircera 製劑）」。TFDA 許可證資料中，polyethylene glycol（macrogol）的有效單方許可證是口服瀉劑：衛署藥輸字第023462號腹樂疏、衛部藥輸字第028188號與第028384號腹樂輕（軟便）、衛部藥輸字第027374號沛見清與衛部藥製字第060863號「國嘉」寶淨（慢性便秘）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「原適應症／治療慢性腎病（CKD）所引起的症狀性貧血（Mircera 製劑）」。TFDA 許可證資料中，polyethylene glycol（macrogol）截至資料集日期的有效單方許可證共 7 張，都是口服製劑：便秘、軟便用的衛署藥輸字第023462號腹樂疏、衛部藥製字第060863號與第060864號「國嘉」寶淨、衛部藥輸字第027374號沛見清、衛部藥輸字第028188號與第028384號腹樂輕，以及清腸用的衛部藥製字第061592號「國嘉」易暢淨（內視鏡、放射線檢查或大腸手術前的腸道清洗）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end polyethylene_glycol-mircera-indication-row-2026-10-16 -->
 
@@ -77,13 +71,19 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 目前缺乏詳細的作用機轉資料。PEG 是親水性聚合物，在藥品中多作為軟膏基劑與保濕劑，並非傳統意義上具藥理活性的成分。
 
+<!-- review:begin polyethylene_glycol-mircera-indication-excipient-moa-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：PEG（macrogol）在台灣截至資料集日期的有效單方許可證是 7 張口服瀉劑與清腸劑（如衛署藥輸字第023462號腹樂疏、衛部藥製字第061592號易暢淨），本身就是有核准適應症的成分，不只是賦形劑或基劑。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol-mircera-indication-excipient-moa-2026-10-16 -->
+
 從這個角度看，PEG 理論上可作為魚鱗癬局部護理的賦形劑或載體，協助皮膚保濕。但這屬於「基劑功能」的推論，並不代表 PEG 本身對疾病有治療作用。
 
 TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有臨床或文獻證據支持。此外，原適應症（CKD 貧血、乾眼、軟膏基劑）與先天性魚鱗癬樣紅皮症之間，沒有明確的病理關聯。
 
 <!-- review:begin polyethylene_glycol-mircera-indication-why-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，polyethylene glycol（macrogol）的有效單方許可證是口服瀉劑：衛署藥輸字第023462號腹樂疏、衛部藥輸字第028188號與第028384號腹樂輕（軟便）、衛部藥輸字第027374號沛見清與衛部藥製字第060863號「國嘉」寶淨（慢性便秘）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核加註（2026-10-16）**：TFDA 許可證資料中，polyethylene glycol（macrogol）截至資料集日期的有效單方許可證共 7 張，都是口服製劑：便秘、軟便用的衛署藥輸字第023462號腹樂疏、衛部藥製字第060863號與第060864號「國嘉」寶淨、衛部藥輸字第027374號沛見清、衛部藥輸字第028188號與第028384號腹樂輕，以及清腸用的衛部藥製字第061592號「國嘉」易暢淨（內視鏡、放射線檢查或大腸手術前的腸道清洗）。慢性腎病貧血是「美血樂」（如衛署菌疫輸字第000887號，methoxy polyethylene glycol-epoetin beta）的適應症，治療作用來自 epoetin beta，不是 PEG 本身。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end polyethylene_glycol-mircera-indication-why-2026-10-16 -->
 
@@ -101,9 +101,9 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Polyethylene Glycol 的不重複許可證共 **40 張**：有效單方 7 張、有效複方 5 張、已過期 1 張（未註銷但有效日期已過）、已註銷 27 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Polyethylene Glycol 的不重複許可證共 **40 張**：有效單方 7 張、有效複方 5 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 27 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（7 張）
+**有效・單方（截至資料集日期 2026-09-29）**（7 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -115,7 +115,7 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 | 衛部藥輸字第028188號 | 腹樂輕10g口服溶液用粉劑 | 溶液用粉劑 | 台灣大昌華嘉股份有限公司 | 2031/10/21 | 成人和8歲以上兒童軟便(暫時性的症狀緩解)。 |
 | 衛部藥輸字第028384號 | 腹樂輕4g口服溶液用粉劑 | 口服溶液用粉劑 | 台灣大昌華嘉股份有限公司 | 2027/11/07 | 六個月到八歲兒童軟便(暫時性的症狀緩解)。 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -125,7 +125,7 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 | 衛署藥輸字第025042號 | “愛爾康法國廠”視舒坦單支裝人工淚液點眼液 | POLYETHYLENE GLYCOL 400、PROPYLENE GLYCOL | 點眼液劑 | 暫時緩解因眼睛乾澀所引起灼熱感與刺激感。 暫時緩解因配戴隱形眼鏡造成之不適。 |
 | 衛部藥輸字第027112號 | 視舒坦玻尿酸人工淚液點眼液 | POLYETHYLENE GLYCOL 400、PROPYLENE GLYCOL、HYALURONATE SODIUM… | 無菌眼用液劑 | 暫時緩解因眼睛乾澀所引起的灼熱感及刺激感。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>內衛藥製字第001908號</td><td>"膚博氏"百百傷軟膏</td><td>DIPHENHYDRAMINE HCL、ZINC OXIDE、SULFADIAZINE、JECORIS PISCIS F…</td><td>2024/05/25</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（27 張，展開）</summary>
@@ -150,6 +150,12 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 - 僅有模型預測（L5），沒有臨床試驗與文獻佐證，且缺乏作用機轉資料。
 - PEG 主要為賦形劑／基劑，其與魚鱗癬的關聯可能只是載體功能，而非藥理療效。
 
+<!-- review:begin polyethylene_glycol-mircera-indication-excipient-concl-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：PEG（macrogol）在台灣截至資料集日期的有效單方許可證是 7 張口服瀉劑與清腸劑（如衛署藥輸字第023462號腹樂疏、衛部藥製字第061592號易暢淨），本身就是有核准適應症的成分，不只是賦形劑或基劑。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol-mircera-indication-excipient-concl-2026-10-16 -->
+
 **若要推進需要：**
 - 補充 PEG 的作用機轉資料（DrugBank 等來源）。
 - 進行系統性文獻檢索，確認 PEG 或含 PEG 外用製劑用於魚鱗癬的既有報告。
@@ -164,11 +170,13 @@ TxGNN 分數雖高（99.03%），但這是計算模型的預測結果，沒有�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原核准適應症」列入慢性腎病貧血 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原核准適應症」列入慢性腎病貧血 | 查核撤回（2026-10-16：與 2026-10-16「原適應症寫成美血樂的慢性腎病貧血」更正重複（錨點同一列），說明已併入該筆；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題以慢性腎病貧血為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由把 CKD 貧血列為原適應症 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 原適應症寫成美血樂的慢性腎病貧血 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結把 Mircera 當成 PEG 的製劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱 PEG 主要作為軟膏基劑、見於 Mircera | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 作用機轉段稱 PEG 多作為基劑、非藥理活性成分 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱 PEG 主要為賦形劑／基劑 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

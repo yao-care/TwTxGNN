@@ -66,6 +66,17 @@ def norm(s: str | None) -> str:
 SYNONYMS, SLUG_QUERY = _load_synonym_config()
 
 
+def _load_exclude() -> dict:
+    """config/tfda_synonyms.json 的 exclude：藥名 → 成分字串含這些詞就不算本藥（另一個藥，例：povidone-iodine）。"""
+    if not SYNONYMS_FILE.exists():
+        return {}
+    cfg = json.loads(SYNONYMS_FILE.read_text(encoding="utf-8"))
+    return {norm(k): [norm(x) for x in v["patterns"]] for k, v in cfg.get("exclude", {}).items()}
+
+
+EXCLUDE = _load_exclude()
+
+
 def _sing(tok: str) -> str:
     return tok[:-1] if len(tok) > 4 and tok.endswith("S") else tok
 
@@ -198,9 +209,12 @@ def licenses_for_drug(name: str, records: list[dict] | dict[str, dict]) -> list[
                 hit.add(lid)
         hit |= tset.get(tuple(sorted(_sing(x) for x in tt if x not in STEREO)), set())
     terms = drug_terms(name)
+    excl = EXCLUDE.get(norm(name), [])
     out = []
     for lid in hit:
         lic = to_license(by_id[lid])
+        if excl and any(ingredient_matches(i, terms) and any(x in norm(i) for x in excl) for i in lic["ingredients"]):
+            continue  # 比對到的成分其實是另一個藥（config exclude）
         if lic["kind"] == "combo" and all(ingredient_matches(i, terms) for i in lic["ingredients"]):
             lic["kind"] = "single"  # 同一成分重複登載（如 GEMCITABINE;;GEMCITABINE HCL）仍是單方
         out.append(lic)
@@ -244,7 +258,7 @@ def render_block(display_name: str, lics: list[dict], data_date: str) -> str:
     lines.append(
         f"依{SOURCE_LABEL}（檔案日期 {data_date}），主成分含 {display_name} 的不重複許可證共 "
         f"**{s['total']} 張**：有效單方 {s['valid_single']} 張、有效複方 {s['valid_combo']} 張、"
-        + (f"已過期 {s['expired']} 張（未註銷但有效日期已過）、" if s.get("expired") else "")
+        + (f"已過期 {s['expired']} 張（未註銷但有效日期早於資料集日期）、" if s.get("expired") else "")
         + f"已註銷 {s['cancelled']} 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。"
         f"資料來源：[TFDA 開放資料]({SOURCE_URL})。"
     )
@@ -263,14 +277,14 @@ def render_block(display_name: str, lics: list[dict], data_date: str) -> str:
     x_rows = [[x["id"], _cell(x["name_zh"], 40), _cell("、".join(x["ingredients"]), 60), x["cancel_date"]]
               for x in cancelled]
     if singles:
-        lines += _table("有效・單方", s_head, s_rows, fold=len(s_rows) > FOLD_AT)
+        lines += _table(f"有效・單方（截至資料集日期 {data_date}）", s_head, s_rows, fold=len(s_rows) > FOLD_AT)
     if combos:
-        lines += _table("有效・複方（適應症屬整個複方，不是本藥單獨的適應症）", c_head, c_rows,
+        lines += _table(f"有效・複方（截至資料集日期 {data_date}；適應症屬整個複方，不是本藥單獨的適應症）", c_head, c_rows,
                         fold=len(c_rows) > FOLD_AT)
     if expired:
         e_head = ["許可證字號", "品名", "主成分", "有效日期"]
         e_rows = [[x["id"], _cell(x["name_zh"], 40), _cell("、".join(x["ingredients"]), 60), x["expiry"]] for x in expired]
-        lines += _table("已過期（未註銷但有效日期已過）", e_head, e_rows, fold=True)
+        lines += _table(f"已過期（未註銷但有效日期早於資料集日期 {data_date}）", e_head, e_rows, fold=True)
     if cancelled:
         lines += _table("已註銷", x_head, x_rows, fold=True)
     if not lics:

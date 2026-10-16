@@ -29,17 +29,17 @@ indication_count: 10
 
 </div>
 
-# Ergometrine：從產後子宮出血到偏頭痛（預測排名第 1 為多毛症，證據不足）
+# Ergometrine：從產後子宮出血與偏頭痛（台灣已核准）到多毛症（預測排名第 1，證據不足）
 
 <!-- review:begin ergometrine-title-typo-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「預測排名第 1 為猖毛症」。本頁預測排名第 1 的是多毛症（Hypertrichosis），標題誤植為「猖毛症」。依據：[本頁快速總覽「預測新適應症」列](https://twtxgnn.yao.care/drugs/ergometrine/)。
+> **查核更正（2026-10-16）**：原寫「# Ergometrine：從產後子宮出血到偏頭痛（預測排名第 1 為猖毛症，證據不足）」。本頁預測排名第 1 的是多毛症（Hypertrichosis），標題誤植為「猖毛症」。偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。依據：[本頁快速總覽「預測新適應症」列](https://twtxgnn.yao.care/drugs/ergometrine/)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end ergometrine-title-typo-2026-10-16 -->
 
 ## 一句話總結
 
-Ergometrine（麥角新鹼）是麥角生物鹼類子宮收縮劑，原本用於產後出血、子宮收縮不全等產科情境。
+Ergometrine（麥角新鹼）是麥角生物鹼類子宮收縮劑，原本用於產後出血、子宮收縮不全等產科情境；台灣現行有效許可證也核准偏頭痛。
 TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**，但目前**沒有任何臨床試驗與文獻**支持，機轉上也缺乏合理連結。
 相對較有機轉線索的是**偏頭痛 (Migraine disorder)**，但目前僅有 **2 篇間接文獻**（1 篇回顧、1 篇個案報告）。
 
@@ -48,6 +48,18 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 > **查核加註（2026-10-16）**：依 2026-10-03 重審，本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合 methodology「有觀察性研究或病例系列」的 L3 定義；2026-10-15 重生的報告未納入這篇研究。頁面等級未改寫。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)。
 
 <!-- review:end ergometrine-migraine-rereview-result-lit-count-2026-10-16 -->
+
+<!-- review:begin ergometrine-alpha-premise-summary-use-2026-10-16 -->
+
+> **查核更正（2026-10-16）**：原寫「原本用於產後出血、子宮收縮不全等產科情境。」。偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ergometrine-alpha-premise-summary-use-2026-10-16 -->
+
+<!-- review:begin ergometrine-alpha-premise-summary-new-2026-10-16 -->
+
+> **查核加註（2026-10-16）**：偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ergometrine-alpha-premise-summary-new-2026-10-16 -->
 
 ---
 
@@ -154,7 +166,7 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 
 依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ergometrine 的不重複許可證共 **101 張**：有效單方 17 張、有效複方 1 張、已註銷 83 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（17 張）
+**有效・單方（截至資料集日期 2026-09-29）**（17 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -176,7 +188,7 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 | 衛部藥輸字第027396號 | 縮蘋酸麥角新鹼 | （粉） | 新雙隆生技股份有限公司 | 2028/03/01 | 子宮收縮藥 |
 | 衛部藥輸字第027478號 | 縮蘋酸麥角新生僉 | 粉劑 | 仁友興業股份有限公司 | 2028/07/26 | 子宮收縮藥 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -238,12 +250,14 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 | 2026-10-03 | 偏頭痛預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 偏頭痛預測重審結果 | 重審：維持，證據等級 L3 不變（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
-| 2026-10-16 | 標題把多毛症寫成「猖毛症」 | 更正（2026-10-16 修訂，前版保留於紀錄） | [本頁快速總覽「預測新適應症」列](https://twtxgnn.yao.care/drugs/ergometrine/) |
+| 2026-10-16 | 標題把多毛症寫成「猖毛症」，並把已核准的偏頭痛寫成新用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [本頁快速總覽「預測新適應症」列](https://twtxgnn.yao.care/drugs/ergometrine/)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 偏頭痛評為 L4，未納入本藥觀察性研究 | 加註 | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
 | 2026-10-16 | 一句話總結稱偏頭痛僅有 2 篇間接文獻 | 加註 | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
 | 2026-10-16 | 結論稱偏頭痛只有間接回顧與個案報告 | 加註 | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
 | 2026-10-16 | 稱只有一張許可證列有偏頭痛 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 原適應症取自已註銷許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結的原用途漏列偏頭痛 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結把偏頭痛當成新的再利用方向 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

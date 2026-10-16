@@ -70,9 +70,9 @@ TxGNN 模型預測它可能對 **Glanzmann 血小板無力症 (Glanzmann thromba
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Glycol Salicylate 的不重複許可證共 **67 張**：有效單方 0 張、有效複方 28 張、已過期 3 張（未註銷但有效日期已過）、已註銷 36 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Glycol Salicylate 的不重複許可證共 **67 張**：有效單方 0 張、有效複方 28 張、已過期 3 張（未註銷但有效日期早於資料集日期）、已註銷 36 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（28 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（28 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -105,7 +105,7 @@ TxGNN 模型預測它可能對 **Glanzmann 血小板無力症 (Glanzmann thromba
 | 衛部藥製字第059851號 | 曼秀雷敦熱力酸痛藥布 | L-MENTHOL、TOCOPHEROL ACETATE ALPHA DL-、GLYCOL SALICYLATE | 藥膠布 | 腰痛、跌打損傷、扭傷、肩膀酸痛、關節痛、肌肉痛、肌肉疲勞。 |
 | 衛部藥輸字第027340號 | 脫酸寧痠痛擦劑 | 4-HYDROXY-3-METHOXYBENZYL NONYLIC ACID AMIDE、L-MENTHOL、GLYCO… | 外用液劑 | 肩膀、頸部痠痛、腰痛、筋肉痛、肌肉疲勞、關節痛、瘀傷、骨折痛、扭傷。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（3 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（3 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署成製字第008368號</td><td>人生溫感巴佈膏</td><td>DL-CAMPHOR、GLYCOL SALICYLATE、CAPSICUM EXTRACT、TOCOPHEROL ACE…</td><td>2025/05/24</td></tr><tr><td>衛署藥製字第033155號</td><td>巴巴痛</td><td>L-MENTHOL、DL-CAMPHOR、GLYCOL MONOSALICYLATE、TOCOPHEROL ACETAT…</td><td>2025/11/07</td></tr><tr><td>衛署藥製字第033156號</td><td>舒爾痛</td><td>DIPHENHYDRAMINE HCL、DL-CAMPHOR、METHYL SALICYLATE、MENTHOL OIL…</td><td>2025/11/07</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（36 張，展開）</summary>

@@ -72,9 +72,9 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (Gastroduodenitis)** 有效�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Homatropine Methylbromide 的不重複許可證共 **104 張**：有效單方 4 張、有效複方 27 張、已過期 5 張（未註銷但有效日期已過）、已註銷 68 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Homatropine Methylbromide 的不重複許可證共 **104 張**：有效單方 4 張、有效複方 27 張、已過期 5 張（未註銷但有效日期早於資料集日期）、已註銷 68 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（4 張）
+**有效・單方（截至資料集日期 2026-09-29）**（4 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -83,7 +83,7 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (Gastroduodenitis)** 有效�
 | 衛部藥輸字第027931號 | 溴化異顛茄鹼甲基銨 | 原料藥粉末 | 恒亞貿易股份有限公司 | 2030/08/06 | 副交感神經抑制劑 |
 | 衛部藥陸輸字第000878號 | 甲溴化后瑪托品 | 原料藥粉末 | 恒亞貿易股份有限公司 | 2029/01/16 | 副交感神經抑制劑。 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（27 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（27 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -115,7 +115,7 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (Gastroduodenitis)** 有效�
 | 衛署藥製字第041289號 | 胃託依錠 | ALUMINUM HYDROXIDE (DRIED GEL)、HOMATROPINE METHYLBROMIDE | 錠劑 | 胃、十二指腸潰瘍、幽門痙攣、胃酸過多、胃炎 |
 | 衛署藥製字第045043號 | 甜胃好錠 | HOMATROPINE METHYLBROMIDE、ALUMINUM HYDROXIDE HEXITOL COMPOUN… | 錠劑 | 緩解胃部不適或灼熱感、胃酸過多、消化不良。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（5 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（5 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第004300號</td><td>達胃健錠</td><td>ALUMINUM HYDROXIDE DRIED GEL、HOMATROPINE METHYLBROMIDE</td><td>2024/05/25</td></tr><tr><td>衛署藥製字第022705號</td><td>"皇佳" 佳胃寧顆粒</td><td>HOMATROPINE METHYLBROMIDE、ALUMINUM MAGNESIUM HYDROXIDE GEL、M…</td><td>2024/12/29</td></tr><tr><td>衛署藥製字第023908號</td><td>佳利胃錠</td><td>ALUMINUM HYDROXIDE DRIED GEL、HOMATROPINE METHYLBROMIDE</td><td>2024/05/25</td></tr><tr><td>衛署藥製字第024982號</td><td>欲胃能錠</td><td>HOMATROPINE METHYLBROMIDE、ALUMINUM HYDROXIDE GEL</td><td>2024/12/31</td></tr><tr><td>衛署藥輸字第025474號</td><td>甲溴化后瑪托品</td><td>Homatropine Methylbromide</td><td>2026/07/27</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（68 張，展開）</summary>

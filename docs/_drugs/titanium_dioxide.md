@@ -80,15 +80,15 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Titanium Dioxide 的不重複許可證共 **7 張**：有效單方 0 張、有效複方 1 張、已過期 1 張（未註銷但有效日期已過）、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Titanium Dioxide 的不重複許可證共 **7 張**：有效單方 0 張、有效複方 1 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 衛署藥製字第029248號 | 生達綜合感冒膠囊 | NEW COCCINE、DEXTROMETHORPHAN HBR、CHLORPHENIRAMINE MALEATE、TI… | 膠囊劑 | 感冒諸症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、咳嗽、畏寒、發燒、頭痛、關節痛、肌肉痛等）之緩解。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012019號</td><td>欣若維豐膠囊</td><td>RIBOFLAVIN (VIT B2)、WAX WHITE、SOYBEAN OIL ( EQ TO SOYA BEAN…</td><td>2004/12/25</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（5 張，展開）</summary>

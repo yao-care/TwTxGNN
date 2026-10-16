@@ -70,9 +70,9 @@ Dehydrocholic acid 是合成膽酸，主要作用是促進膽汁分泌，產生�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Dehydrocholic Acid 的不重複許可證共 **105 張**：有效單方 3 張、有效複方 12 張、已過期 3 張（未註銷但有效日期已過）、已註銷 87 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Dehydrocholic Acid 的不重複許可證共 **105 張**：有效單方 3 張、有效複方 12 張、已過期 3 張（未註銷但有效日期早於資料集日期）、已註銷 87 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（3 張）
+**有效・單方（截至資料集日期 2026-09-29）**（3 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -80,7 +80,7 @@ Dehydrocholic acid 是合成膽酸，主要作用是促進膽汁分泌，產生�
 | 衛署藥製字第048938號 | 欣肝膽錠250毫克(去氫膽酸) | 錠劑 | 興南實業股份有限公司 | 2027/08/09 | 膽石症、預防膽石症、助長維他命之吸收。 |
 | 衛署藥輸字第024606號 | 脫氫膽酸 | （粉） | 新雙隆生技股份有限公司 | 2032/01/30 | 利膽劑。 |
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（12 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（12 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -97,7 +97,7 @@ Dehydrocholic acid 是合成膽酸，主要作用是促進膽汁分泌，產生�
 | 衛署藥製字第041904號 | “新喜”治益肝糖衣錠 | CYANOCOBALAMIN (VIT B12)、THIAMINE MONONITRATE、THIOCTIC ACID… | 糖衣錠 | 病後恢復期、妊產授乳婦之營養補給、維他命Ｂ複合體缺乏症 |
 | 衛署藥製字第045675號 | 理研胃腸藥三層錠 | DEHYDROCHOLIC ACID、BIODIASTASE、SYNTHETIC HYDROTALCITE、SCOPOL… | 錠劑 | 胃痛、胃酸過多、消化不良、食慾不振、腹部脹氣。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（3 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（3 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第020819號</td><td>祝可定糖衣錠</td><td>THIAMINE MONONITRATE、ASCORBIC ACID (VIT C)、THIOCTIC ACID (VI…</td><td>2024/12/31</td></tr><tr><td>衛署藥製字第027471號</td><td>〝正和〞滋爾肝糖衣錠</td><td>CYANOCOBALAMIN (VIT B12)、INOSITOL (MESO-INOSITOL)、THIAMINE M…</td><td>2025/05/24</td></tr><tr><td>衛署藥製字第032859號</td><td>得痢寧膠囊</td><td>GENTIAN EXT、DIPHENYLPYRALINE HCL、BERBERINE CHLORIDE、ANACOLIN…</td><td>2025/08/03</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（87 張，展開）</summary>

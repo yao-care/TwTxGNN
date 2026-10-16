@@ -84,9 +84,9 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Desogestrel 的不重複許可證共 **9 張**：有效單方 0 張、有效複方 5 張、已過期 1 張（未註銷但有效日期已過）、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Desogestrel 的不重複許可證共 **9 張**：有效單方 0 張、有效複方 5 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
+**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -96,7 +96,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 | 衛部藥輸字第027194號 | 美偌琳膜衣錠 | DESOGESTREL、ETHINYLESTRADIOL MICRONIZED | 膜衣錠 | 避孕。 |
 | 衛部藥輸字第028613號 | 母扶樂膜衣錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 膜衣錠 | 口服避孕劑。 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025503號</td><td>愛逸定膜衣錠</td><td>DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T…</td><td>2026/08/15</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>

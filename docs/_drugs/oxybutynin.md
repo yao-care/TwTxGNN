@@ -70,9 +70,9 @@ TxGNN 模型預測它可能對**不寧腿症候群 (Restless Legs Syndrome)** �
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Oxybutynin 的不重複許可證共 **36 張**：有效單方 22 張、有效複方 0 張、已過期 2 張（未註銷但有效日期已過）、已註銷 12 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Oxybutynin 的不重複許可證共 **36 張**：有效單方 22 張、有效複方 0 張、已過期 2 張（未註銷但有效日期早於資料集日期）、已註銷 12 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方**（22 張）
+**有效・單方（截至資料集日期 2026-09-29）**（22 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -99,7 +99,7 @@ TxGNN 模型預測它可能對**不寧腿症候群 (Restless Legs Syndrome)** �
 | 衛部藥輸字第028910號 | 安薄汗擦劑 20% | 擦劑 | 日商久光製藥股份有限公司台北分公司 | 2030/03/21 | 適用於12歲以上之原發性手掌多汗症病人 |
 | 衛部藥輸字第029106號 | 羥布托尼鹽酸鹽 | （粉） | 宇直泰貿易股份有限公司 | 2031/02/24 | 平滑肌解痙藥 |
 
-<details><summary><strong>已過期（未註銷但有效日期已過）</strong>（2 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（2 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第034366號</td><td>"衛達"我喜滿錠５公絲（奧斯必得寧）</td><td>OXYBUTYNIN CHLORIDE (EQ TO OXIBUTININA HCL )</td><td>2026/09/24</td></tr><tr><td>衛部藥輸字第026767號</td><td>氯化羥布托尼</td><td>Oxybutynin Hydrochloride</td><td>2026/03/21</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（12 張，展開）</summary>
