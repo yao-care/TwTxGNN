@@ -50,7 +50,7 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 本專案的 AI 預測模型基於以下論文：
 
 > Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. *Nature Medicine*.
-> [DOI: 10.1038/s41591-023-02233-x](https://doi.org/10.1038/s41591-023-02233-x)
+> [DOI: 10.1038/s41591-024-03233-x](https://doi.org/10.1038/s41591-024-03233-x)
 
 ---
 
@@ -81,7 +81,7 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 ## 什麼是 TxGNN？
 
 <p class="key-answer" data-question="什麼是 TxGNN？">
-<a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> 是由哈佛醫學院 Zitnik Lab 團隊開發的深度學習模型，發表於 <em>Nature Medicine</em>，專門用於預測藥物與疾病的新關聯，是首個專為臨床醫師設計的老藥新用基礎模型。
+<a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> 是由哈佛醫學院 Zitnik Lab 團隊開發的深度學習模型，發表於 <em>Nature Medicine</em>，專門用於預測藥物與疾病的新關聯，是首個專為臨床醫師設計的老藥新用基礎模型。
 </p>
 
 <blockquote class="expert-quote">
@@ -169,7 +169,7 @@ yao.care. (2026). TwTxGNN: Drug Repurposing Validation Reports for Taiwan NHI Dr
   author={Huang, Kexin and others},
   journal={Nature Medicine},
   year={2023},
-  doi={10.1038/s41591-023-02233-x}
+  doi={10.1038/s41591-024-03233-x}
 }
 ```
 

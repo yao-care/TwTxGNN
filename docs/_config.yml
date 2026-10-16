@@ -89,6 +89,11 @@ collections:
     permalink: /news/:name/
 
 defaults:
+  # 2026-10-16：演示頁不進 sitemap
+  - scope:
+      path: "cds-hooks/demo.html"
+    values:
+      sitemap: false
   - scope:
       path: "_drugs"
       type: "drugs"

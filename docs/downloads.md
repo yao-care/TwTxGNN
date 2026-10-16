@@ -95,7 +95,7 @@ TwTxGNN. (2026). TwTxGNN 老藥新用驗證報告. https://twtxgnn.yao.care/
 **引用 TxGNN 模型：**
 ```
 Huang, K., et al. (2023). A foundation model for clinician-centered drug repurposing. Nature Medicine.
-DOI: 10.1038/s41591-023-02233-x
+DOI: 10.1038/s41591-024-03233-x
 ```
 
 ---

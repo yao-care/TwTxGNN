@@ -291,7 +291,7 @@ image: /assets/images/og-default.png
 ## 關於本專案
 
 <p class="key-answer" data-question="TwTxGNN 使用什麼技術進行預測？">
-本系統使用哈佛大學 Zitnik Lab 發表於 <em>Nature Medicine</em> 的 <a href="https://www.nature.com/articles/s41591-023-02233-x">TxGNN</a> 深度學習模型，預測台灣健保藥品的潛在新適應症，並透過自動化流程收集臨床試驗、文獻、安全性等證據，產生結構化的驗證報告。
+本系統使用哈佛大學 Zitnik Lab 發表於 <em>Nature Medicine</em> 的 <a href="https://www.nature.com/articles/s41591-024-03233-x">TxGNN</a> 深度學習模型，預測台灣健保藥品的潛在新適應症，並透過自動化流程收集臨床試驗、文獻、安全性等證據，產生結構化的驗證報告。
 </p>
 
 <blockquote class="expert-quote">

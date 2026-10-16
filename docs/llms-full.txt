@@ -31,4 +31,4 @@ L1–L5 是研究用證據分級：L1 代表相對充分的臨床證據，L2 代
 - https://twtxgnn.yao.care/
 - https://www.yao.care/medical/txgnn/
 - https://github.com/yao-care/TwTxGNN
-- https://doi.org/10.1038/s41591-023-02233-x
+- https://doi.org/10.1038/s41591-024-03233-x
