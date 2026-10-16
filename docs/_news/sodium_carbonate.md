@@ -24,7 +24,7 @@ permalink: /news/sodium_carbonate/
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為 ceftazidime 注射劑的賦形劑及複方點眼液、胃散的成分</li>
+<li><strong>原適應症</strong>: 無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為複方點眼液、人工淚液與胃散的成分（ceftazidime、meropenem 注射劑與原料藥粉末中則是賦形劑）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
 <li>cauda equina syndrome (99.8%)</li>

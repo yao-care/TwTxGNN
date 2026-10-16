@@ -1,17 +1,82 @@
 {
-  "last_updated": "2026-10-16T02:22:08.758238+00:00",
-  "total_count": 38,
+  "last_updated": "2026-10-16T07:42:15.845319+00:00",
+  "total_count": 42,
   "matched_count": 18,
   "news": [
     {
-      "id": "4e949bcfa75d",
-      "title": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用 - TechNews 科技新報",
-      "published": "2026-10-15T23:38:58+00:00",
-      "summary": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用&nbsp;&nbsp;TechNews 科技新報",
+      "id": "06aaa6f16289",
+      "title": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關",
+      "published": "2026-10-16T06:46:47+00:00",
+      "summary": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關&nbsp;&nbsp;明日科學",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMjkyUW5jbUNtR3FlWTJJTV9ob1Zod3lKWmRmZ3NTNVRpMTRjRENxSU5mOWFCSzZxM3EySlpyTlF3Ui1OSVh1Q3JFck13RHRFWjI5SEdTUDdJRG9QMFZF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b0493735f4f0",
+      "title": "俄羅斯就莫斯科州懷疑出現猴痘疫情展開流行病學調查",
+      "published": "2026-10-16T06:08:52+00:00",
+      "summary": "俄羅斯就莫斯科州懷疑出現猴痘疫情展開流行病學調查&nbsp;&nbsp;Yahoo俄羅斯當局稱已對莫斯科州疑似猴痘疫情展開流行病學調查&nbsp;&nbsp;香港電台新聞網猴痘｜俄羅斯調查莫斯科州疑似疫情 5人入院觀察&nbsp;&nbsp;am730俄羅斯： 已對莫斯科州疑似猴痘疫情展開流行病學調查&nbsp;&nbsp;巴士的報​俄羅斯莫斯科州出現懷疑猴痘個案 5人接受醫學觀察當局調查&nbsp;&nbsp;橙新聞",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNOS1CMVRmajFnMlZ0djV4ZWZTVFA1TEgtM3hVM1lTelU4QThVM0I3RW84Y3p3YVNTam1COTF5X1Z2YnRfMHpSUjBaSDl6cmk2R3FkLWJWN29NNTRfZGszMDlIMFJIUVN4N2gyUGFwMTVldG1BSktwVkYzVS1xRFY4d1RTOWxkOGR6bnE4eU1vd0VhTC1qT1BFZnZ5cnJEOTFrVUU5MXhmTlFjcElGR0lTRS1FRTI3MldETXRKQThXLWxqMzR4eGZhbjB2Y2FDRjNLcDh1TUNIRUVnUXZRVWp0SmxRd3Z2alIzZHdkZXdEdDRpUV93M2swMkxIdjMzRGN5UU4yNWZzOU44VDdBZEdsaEFHdnhJN2dPUXh1SG9USHNodVdFVG5Nc04zb2F6MGFVN3h5OEtUdGFSUjZVandEZzdTMWVpeEtQc1RGMnBITTg1YUdPdzVFbVp0SGZTUFoyZ2d0RkhfZjBaSVNINEs2Z0ZhUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7e558b976977",
+      "title": "名醫常靠1食物充飢 超音波一掃肝臟長惡瘤 還破裂出血",
+      "published": "2026-10-16T04:23:46+00:00",
+      "summary": "名醫常靠1食物充飢 超音波一掃肝臟長惡瘤 還破裂出血&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyYUt1bHF2aUl2RXM2QWMzWWpKc3h3M0tFa0E4LWxPSmhXMzhpUl92NVBpaVhxSzFrbHdDdWNVeGE1WHhYYVdielg1U3RnUFFiaWc0b0xsdDgtX2g4U3c0ZmxMTW5VZnRZM2w1RFVR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5f80a8b75b1d",
+      "title": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 - TechNews 科技新報",
+      "published": "2026-10-16T03:31:12+00:00",
+      "summary": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
           "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlUzWTdoRFIzc2JsX2dJd3E5UkE1Q1YtUTRmMzlHY2VKTGxiZ0pzN0YwLUdUdWRvVF9GcUx5S0Q4LWQ1MXNuM0dJYW9oZ0xMR0ZSSkRtZHg1V29OM0N1SEZwMGdLMmJxNUU0NjJWY1BrRVBuYkJSa0toU1lscVpaeHc1ek1Da1BSQzg2Yi1NX0V6ZW1fc3NscExEcDlLT3pfMk9R?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02WWloWVpON3BOWWlCUTlMaGUwaW9saW5VNFZRekxGTXQzYS10TFVBenljMlhvVDAzNHBHRlprTmZabm44S1BldlBGYjFfOEpqcGNPekJhTm5OaEEzYVgwR3hHYTNKU3BsMFdnS2FQOXRCVjdyZno4c01LaE0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2f51d263a076",
+      "title": "名醫會客室／重拾對稱的美麗乳房重建手術的溫柔選擇- 健康新聞 - PChome Online 新聞",
+      "published": "2026-10-16T02:54:43+00:00",
+      "summary": "名醫會客室／重拾對稱的美麗乳房重建手術的溫柔選擇- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMFZ1TDBqb3RfOTJmM3hDMkJTQUR5bWFxTk45dGc2VFo2ZkJYNktQMzMtX3A5eTM5aThNSHRUUDJoYktqNTN4MXViSVJYTXExY1hVMUQwMW9Md1pISGktZEhETzZRMmRLZ3dadHVZYjA1enpmMzJzRGhxZmViNTRBYXI5VHc3MDAxdS11VGlNTVU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5c7c931af401",
+      "title": "醫語怡情｜家中不可忽視的兒童中毒風險",
+      "published": "2026-10-15T23:00:00+00:00",
+      "summary": "醫語怡情｜家中不可忽視的兒童中毒風險&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc25KM2NKS2NsdE1KakV3ZzZFY2VBWlFGWmkzVlg2VjR0bzE5Z1dYSUFGSWVUYUgwOVlFXy1leWFoVHphWXZraUdXS1FlUnJ5U1N2SE5tSGZtU2EyVllYSzY3Xy1sam15aGxHZm9oQWwzRkpucHVSOEhlcGp6Qy0tOFRJelc0X295c0pjdjBqQi1UTWkzV0dUcW1rMkViRmtnRjNhckU3SGlIclRDeW96QlZyQVJ6SWg0dkhTUTJ0UjBUcklJSmZwN1FQMHhDd1c4Y2lvUEMtQk9EaHQ0X2tNQ2RsM1hPTXJ2c01iWllpcTBTc3cxcEJ2SllHWG5pQXpkOW9YclNxUjFnd0hzbHJMd1ZkY1ZnRVQ5MDNPd0tyOVM1OUpWYUVOSHJR?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1097,14 +1162,14 @@
       ]
     },
     {
-      "id": "8ea540f8497f",
-      "title": "25歲言語治療師實習期間突中風！錯過3大警號險送命 緊急入ICU｜健康專訪",
+      "id": "40961a4431a7",
+      "title": "25歲言語治療師實習期間突中風！錯過3大警號險送命緊急入ICU｜健康專訪| 事事如意生活網站",
       "published": "2026-10-12T09:00:11+00:00",
-      "summary": "25歲言語治療師實習期間突中風！錯過3大警號險送命 緊急入ICU｜健康專訪&nbsp;&nbsp;星島頭條",
+      "summary": "25歲言語治療師實習期間突中風！錯過3大警號險送命緊急入ICU｜健康專訪| 事事如意生活網站&nbsp;&nbsp;CCUE",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNZUg0UmNtX01QM2FsTV92NFFMRU9yTDFLZmpnMjFHbW1HSUx4cGwxTHBEdi1wRWNZdXE3dEVTOUJDRGpqNnFVRi1HMkdxY1YzZEROV0RKT0FMUjNQaHk1UlJmQ05zbFd2QzlESTdfUGphd0x3MGVQVVZITG8xZjlsRUo5emQtSGQ5bk4ydXdWaFBqM0pmZFRmbzJyZlltblBUYllzeFJxSjJyX3FpSkNYRlVTNXhWQ0h5R09ZN2tKQ1RzcF9vdDhzMjdyY1d4MzRWMTNJcExRZUVsQ0ZnVEJybS1Jc3FKTUd1UGtUMFZVaDBGaGlzUTBSMTVBaHNoQlNCR1kzRG9zZGcwdlF0T3dmSzJJRzhkWjY5bW9SMG00SU9fVkRfQXRoT2s1UThUdnRSV1FJZmRMaWtHQ21qWmZ4OFZoSS1pQ2d1Q19WUzEycDlZWTQyT3JTUDVjdEt1UklUMVVNOFhoenV1Q3FuRl9yMFh1dnBpRG1PQ0J3YUQtb3B6Ym1kMnluNWptU04zNUVFQ0pLVGhLaGhOU2pIQkUtNEdONXB4RXgxRnRxaW1DdE0ycVk?oc=5"
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTDRlVU5NWG00aVhoZ0xDRlQxajBBYmN0NjhRT0pfMU9RX1JCTGlmX2ljakZlNlhnMEtiWFR3b1lMYjNqZlVJajl6SjJLRGMtanN1TG1MdEZ6dkNJU1hsNXBHckVNLWZDdnlhMkVuazdXUGVmNWFieklPbTFiZWZaVms3bHVmOUlGUmlMYTVQUEdsS3pDY1JhUEE4TWxEY1FQdmpTcUEyeVluUXo0RFhlNHNwTGNvTThCOTRtejdlX2ppMW84NUstbFdFZHdRTHZsNGkxNHA4UHNMaGJrdmZrZWswYVRnTnVaUHprN1ZKQU5jcWlJd2lWUm9RYjFheUhGUmFyWTg1SlBieUtWRXpMOGQzWDVFRHFuR2hmRkMyWkxKOGZEbVRfd183QmFzQTJ3eHFQWVpfcGJiM25ySVFtQmMzYzBudUxUaEtBYlhGS241S3lXNUE?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1656,14 +1721,14 @@
       ]
     },
     {
-      "id": "70312db30c34",
+      "id": "372b28552741",
       "title": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰",
       "published": "2026-10-10T07:54:44+00:00",
-      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;https://www.yesmedia.com.tw/",
+      "summary": "智慧手錶翻轉心臟研究潛力大 消弭數位落差成挑戰&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "https://www.yesmedia.com.tw/",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNOXpKYVNMV1IteE9pNmtZaEV4M3FpZ2pCX0s2anNrWmlDYTNrZkhkREJzZUVPcVZvdm1vYVg1QVRmZHpwWUhMdlRQbWlRZ0tGS2dDUkdNaUNQX3dRZlJpVDFLTWhSNFJzeTBibm5hcjN5QWM4REcwRENkdHlrSnVPWTA5T3FWZUUzaUhKODJsM1BHQTNSRURodVRvVldRRmRBS2hUZzlhU2JQcmZhS2FhUWM5dUlkOGhua0ZLczlRSUxRMkx4V2ZtdUV2NzNfdk00LTl4YUFKdG53Z0ZmOFVDWWZNdUdYVFRmQTNSZXk1eUhnQ3ZWMTdPQXkwdUY5SHQ4eFNIMDJkX0M1bHZUTmF2bWM1aWxEVVU5b2F4b1pKdmhlRjB2SlY3NXl1WHdnU25BLUVJOEY4WlhLdFdLNTJWbVRYSmJVYm01bzRZUQ?oc=5"
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPWTQzZU44eHg1T2tGUEJNT2ZybnZDVVMxcmw3ZFM1RXFGTWNfa2JuWGlHbGtfeXFRbVBiVXc4M21aZGcwZ3M4bkF5YWx5cWx1RFlmdHprTkRJUTAtZFFIVUFaVENSZDdzMTItbnpXaHotejNCOHFFQm0zTjFJeFV2bGVxTVJLQVBYdV95T2tQT3plN05lQnpxNE5qalFPczBSTzhOckZIZy0tYURnTHptSDd1dTZCZUtYX2o5NUdNa0sxRHdhaWExRk8xUVRoNE83YTBMWjRtT3FsUHJFYllGVDR5T01HcmVwUFA3Sld1VHNGS3ROXzE4WWFQd3hNbFYxWjlxT3Y5X191UE1aYmxXWVJicEd1MDI3N2QxTzNnbkRZcGVSdnRGTHZoSUw3M0JfSGlLQXZrVjNGOGJIVE9oeEhRS29SSlNKRGZzZVhkZm9FR3U3YW5VQ0Ztd2J1aWYxQk85aEl1S1ZnUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1748,19 +1813,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "d7978a5f9f98",
-      "title": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童",
-      "published": "2026-10-09T06:01:00+00:00",
-      "summary": "健康網》醫：鼻噴疫苗與傳統注射比「相同」 適合怕打針幼童&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KUDQwZlVWYklUNV9OeXNGVGUwZXoyMHo2bDRrbHlfMm9QaVJBS243OUhLRlFRa1h4RDVLWGZRT3ZXV3g0QmdSbWVVck9Fa0RkeTJ6U09BWXQza2hXWjlpdkdDbDM?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
