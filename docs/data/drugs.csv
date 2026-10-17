@@ -287,8 +287,6 @@ Vismodegib,vismodegib,L2,10,治療轉移性基底細胞癌，或不適合接受�
 Vitamin E,vitamin_e,L5,10,皮膚乾燥及因維他命E缺乏引起之皮膚症,先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism),99.99%,True,Hold,/drugs/vitamin-e/
 Vonoprazan,vonoprazan,L2,10,糜爛性食道炎(EE)的治療及維持治療；治療胃潰瘍；治療十二指腸潰瘍；輔助根除幽門螺旋桿菌,活動性消化性潰瘍 (Active Peptic Ulcer Disease),99.97%,True,Proceed with Guardrails,/drugs/vonoprazan/
 Warfarin,warfarin,L4,3,1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。,肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency),99.87%,True,Hold,/drugs/warfarin/
-warfarin_af,warfarin_af,L5,0,,,,False,,/drugs/warfarin-af/
-warfarin_atrial_fibrillation,warfarin_atrial_fibrillation,L5,0,,,,False,,/drugs/warfarin-atrial-fibrillation/
 Xylitol,xylitol,L5,1,糖尿病、高血糖時之醣類補充液、由於水份或電解質代謝作用不良引起之脫水現象、外傷刺激麻醉、手術後引起之不正常醣類代謝作用時之熱能補充,腦膜炎球菌感染 (Meningococcal Infection),99.66%,True,Hold,/drugs/xylitol/
 Xylometazoline,xylometazoline,L3,2,暫時緩解因鼻炎、過敏性鼻炎、過敏或感冒引起之鼻塞、流鼻水症狀,鼻腔疾病 (Nasal Cavity Disease),99.91%,True,Proceed with Guardrails,/drugs/xylometazoline/
 Zanubrutinib,zanubrutinib,L4,6,先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症）,骨髓性白血病 (Myeloid Leukemia),99.65%,True,Hold,/drugs/zanubrutinib/

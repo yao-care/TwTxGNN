@@ -21,7 +21,6 @@ Anastrozole,L1,6,高證據等級 (L1-L2),/drugs/anastrozole/
 Anthralin,L3,10,中證據等級 (L3-L4),/drugs/anthralin/
 Ascorbyl Phosphate,L5,10,僅模型預測 (L5),/drugs/ascorbyl_phosphate/
 Asfotase Alfa,L5,10,僅模型預測 (L5),/drugs/asfotase_alfa/
-Aspirin,L5,0,僅模型預測 (L5),/drugs/aspirin/
 Atezolizumab,L4,10,中證據等級 (L3-L4),/drugs/atezolizumab/
 Atracurium Besylate,L5,10,僅模型預測 (L5),/drugs/atracurium_besylate/
 Avelumab,L5,10,僅模型預測 (L5),/drugs/avelumab/
@@ -48,10 +47,8 @@ Carisoprodol,L4,1,中證據等級 (L3-L4),/drugs/carisoprodol/
 Caspofungin,L5,1,僅模型預測 (L5),/drugs/caspofungin/
 Cefmetazole,L4,9,中證據等級 (L3-L4),/drugs/cefmetazole/
 Cefoperazone,L5,10,僅模型預測 (L5),/drugs/cefoperazone/
-Cephalexin,L5,0,僅模型預測 (L5),/drugs/cephalexin/
 Cerliponase Alfa,L5,10,僅模型預測 (L5),/drugs/cerliponase_alfa/
 Cetuximab,L5,10,僅模型預測 (L5),/drugs/cetuximab/
-Chloral Hydrate,L5,0,僅模型預測 (L5),/drugs/chloral_hydrate/
 Chlorobutanol,L5,10,僅模型預測 (L5),/drugs/chlorobutanol/
 Cholic Acid,L4,10,中證據等級 (L3-L4),/drugs/cholic_acid/
 Choline Salicylate,L3,10,中證據等級 (L3-L4),/drugs/choline_salicylate/
@@ -200,7 +197,6 @@ Pemetrexed,L3,10,中證據等級 (L3-L4),/drugs/pemetrexed/
 Pemigatinib,L5,10,僅模型預測 (L5),/drugs/pemigatinib/
 Penciclovir,L5,10,僅模型預測 (L5),/drugs/penciclovir/
 Pentosan Polysulfate,L5,3,僅模型預測 (L5),/drugs/pentosan_polysulfate/
-Pentoxifylline,L5,0,僅模型預測 (L5),/drugs/pentoxifylline/
 Peppermint Oil,L5,10,僅模型預測 (L5),/drugs/peppermint_oil/
 Perindopril,L4,5,中證據等級 (L3-L4),/drugs/perindopril/
 Pexidartinib,L4,10,中證據等級 (L3-L4),/drugs/pexidartinib/
@@ -271,7 +267,6 @@ Tinidazole,L5,10,僅模型預測 (L5),/drugs/tinidazole/
 Tioconazole,L2,3,高證據等級 (L1-L2),/drugs/tioconazole/
 Titanium Dioxide,L5,10,僅模型預測 (L5),/drugs/titanium_dioxide/
 Tizanidine,L2,6,高證據等級 (L1-L2),/drugs/tizanidine/
-Tofacitinib,L5,0,僅模型預測 (L5),/drugs/tofacitinib/
 Tolmetin,L5,10,僅模型預測 (L5),/drugs/tolmetin/
 Tolvaptan,L1,10,高證據等級 (L1-L2),/drugs/tolvaptan/
 Trabectedin,L2,1,高證據等級 (L1-L2),/drugs/trabectedin/
@@ -284,19 +279,14 @@ Trifluoperazine,L4,1,中證據等級 (L3-L4),/drugs/trifluoperazine/
 Trihexyphenidyl,L5,10,僅模型預測 (L5),/drugs/trihexyphenidyl/
 Tyrosine,L5,10,僅模型預測 (L5),/drugs/tyrosine/
 Uracil,L3,10,中證據等級 (L3-L4),/drugs/uracil/
-Urea,L5,0,僅模型預測 (L5),/drugs/urea/
 Urofollitropin,L5,10,僅模型預測 (L5),/drugs/urofollitropin/
 Vasopressin,L4,2,中證據等級 (L3-L4),/drugs/vasopressin/
 Verteporfin,L5,1,僅模型預測 (L5),/drugs/verteporfin/
-Vigabatrin,L5,0,僅模型預測 (L5),/drugs/vigabatrin/
 Vinorelbine,L5,10,僅模型預測 (L5),/drugs/vinorelbine/
 Vismodegib,L2,10,高證據等級 (L1-L2),/drugs/vismodegib/
 Vitamin E,L5,10,僅模型預測 (L5),/drugs/vitamin_e/
 Vonoprazan,L2,10,高證據等級 (L1-L2),/drugs/vonoprazan/
-Voriconazole,L5,0,僅模型預測 (L5),/drugs/voriconazole/
 Warfarin,L4,3,中證據等級 (L3-L4),/drugs/warfarin/
-,L5,0,,/drugs/warfarin_af/
-,L5,0,,/drugs/warfarin_atrial_fibrillation/
 Xylitol,L5,1,僅模型預測 (L5),/drugs/xylitol/
 Xylometazoline,L3,2,中證據等級 (L3-L4),/drugs/xylometazoline/
 Zanubrutinib,L4,6,中證據等級 (L3-L4),/drugs/zanubrutinib/

@@ -16,6 +16,8 @@ def load_drug_evidence():
 
     for md_file in sorted(drugs_dir.glob('*.md')):
         content = md_file.read_text(encoding='utf-8')
+        if 'http-equiv="refresh"' in content or '\nnoindex: true' in content[:2000]:
+            continue  # 2026-10-17：轉址頁與 noindex 頁不列入下載資料
 
         # 解析 front matter
         if content.startswith('---'):

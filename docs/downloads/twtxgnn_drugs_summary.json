@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-17T08:36:12.111491",
-  "total_drugs": 302,
+  "generated_at": "2026-10-17T11:50:50.782342",
+  "total_drugs": 292,
   "evidence_distribution": {
-    "L5": 175,
+    "L5": 165,
     "L4": 56,
     "L2": 25,
     "L3": 32,
@@ -162,13 +162,6 @@
       "indication_count": 10,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/asfotase_alfa/"
-    },
-    {
-      "drug_name": "Aspirin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/aspirin/"
     },
     {
       "drug_name": "Atezolizumab",
@@ -353,13 +346,6 @@
       "url": "/drugs/cefoperazone/"
     },
     {
-      "drug_name": "Cephalexin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/cephalexin/"
-    },
-    {
       "drug_name": "Cerliponase Alfa",
       "evidence_level": "L5",
       "indication_count": 10,
@@ -372,13 +358,6 @@
       "indication_count": 10,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/cetuximab/"
-    },
-    {
-      "drug_name": "Chloral Hydrate",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/chloral_hydrate/"
     },
     {
       "drug_name": "Chlorobutanol",
@@ -1417,13 +1396,6 @@
       "url": "/drugs/pentosan_polysulfate/"
     },
     {
-      "drug_name": "Pentoxifylline",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/pentoxifylline/"
-    },
-    {
       "drug_name": "Peppermint Oil",
       "evidence_level": "L5",
       "indication_count": 10,
@@ -1914,13 +1886,6 @@
       "url": "/drugs/tizanidine/"
     },
     {
-      "drug_name": "Tofacitinib",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/tofacitinib/"
-    },
-    {
       "drug_name": "Tolmetin",
       "evidence_level": "L5",
       "indication_count": 10,
@@ -2005,13 +1970,6 @@
       "url": "/drugs/uracil/"
     },
     {
-      "drug_name": "Urea",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/urea/"
-    },
-    {
       "drug_name": "Urofollitropin",
       "evidence_level": "L5",
       "indication_count": 10,
@@ -2031,13 +1989,6 @@
       "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/verteporfin/"
-    },
-    {
-      "drug_name": "Vigabatrin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/vigabatrin/"
     },
     {
       "drug_name": "Vinorelbine",
@@ -2068,32 +2019,11 @@
       "url": "/drugs/vonoprazan/"
     },
     {
-      "drug_name": "Voriconazole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/voriconazole/"
-    },
-    {
       "drug_name": "Warfarin",
       "evidence_level": "L4",
       "indication_count": 3,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/warfarin/"
-    },
-    {
-      "drug_name": "",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "",
-      "url": "/drugs/warfarin_af/"
-    },
-    {
-      "drug_name": "",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "parent_category": "",
-      "url": "/drugs/warfarin_atrial_fibrillation/"
     },
     {
       "drug_name": "Xylitol",

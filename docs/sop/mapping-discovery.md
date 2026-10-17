@@ -419,7 +419,7 @@ git push
 | herbal (中草藥) | 424 | 1.1% |
 | drugbank_synonym | 124 | 0.3% |
 
-**KG 預測結果**：
+**KG 已知用途配對（非新預測）**：
 - 候選數：142,351 筆
 - FHIR 資源：189 MedicationKnowledge, 1,267 ClinicalUseDefinition
 

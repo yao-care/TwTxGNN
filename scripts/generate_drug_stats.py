@@ -91,7 +91,7 @@ def main():
     for p in sorted(DRUGS.glob("*.md")):
         text = p.read_text(encoding="utf-8")
         fm = front(text)
-        if fm.get("search_exclude", "").lower() == "true" or fm.get("noindex", "").lower() == "true":  # noindex 頁不列（2026-10-17）
+        if fm.get("search_exclude", "").lower() == "true" or fm.get("noindex", "").lower() == "true" or 'http-equiv="refresh"' in text:  # noindex 頁不列（2026-10-17）
             continue
         drugs.append({
             "name": fm.get("title", p.stem),

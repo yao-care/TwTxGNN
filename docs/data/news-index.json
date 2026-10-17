@@ -256,7 +256,7 @@
               "url": "/drugs/metoprolol/"
             },
             {
-              "slug": "hydroxyprogesterone_caproate",
+              "slug": "hydroxyprogesterone-caproate",
               "name": "Hydroxyprogesterone caproate",
               "url": "/drugs/hydroxyprogesterone-caproate/"
             },
@@ -296,7 +296,7 @@
               "url": "/drugs/pralatrexate/"
             },
             {
-              "slug": "interferon_beta-1b",
+              "slug": "interferon-beta-1b",
               "name": "Interferon beta-1b",
               "url": "/drugs/interferon-beta-1b/"
             },
@@ -311,7 +311,7 @@
               "url": "/drugs/nebivolol/"
             },
             {
-              "slug": "dehydrocholic_acid",
+              "slug": "dehydrocholic-acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
             },
@@ -361,7 +361,7 @@
               "url": "/drugs/oxytetracycline/"
             },
             {
-              "slug": "bempedoic_acid",
+              "slug": "bempedoic-acid",
               "name": "Bempedoic acid",
               "url": "/drugs/bempedoic-acid/"
             },
@@ -431,7 +431,7 @@
               "url": "/drugs/nitrofurantoin/"
             },
             {
-              "slug": "aluminum_oxide",
+              "slug": "aluminum-oxide",
               "name": "Aluminum oxide",
               "url": "/drugs/aluminum-oxide/"
             },
@@ -551,7 +551,7 @@
               "url": "/drugs/metoprolol/"
             },
             {
-              "slug": "hydroxyprogesterone_caproate",
+              "slug": "hydroxyprogesterone-caproate",
               "name": "Hydroxyprogesterone caproate",
               "url": "/drugs/hydroxyprogesterone-caproate/"
             },
@@ -591,7 +591,7 @@
               "url": "/drugs/pralatrexate/"
             },
             {
-              "slug": "interferon_beta-1b",
+              "slug": "interferon-beta-1b",
               "name": "Interferon beta-1b",
               "url": "/drugs/interferon-beta-1b/"
             },
@@ -606,7 +606,7 @@
               "url": "/drugs/nebivolol/"
             },
             {
-              "slug": "dehydrocholic_acid",
+              "slug": "dehydrocholic-acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
             },
@@ -656,7 +656,7 @@
               "url": "/drugs/oxytetracycline/"
             },
             {
-              "slug": "bempedoic_acid",
+              "slug": "bempedoic-acid",
               "name": "Bempedoic acid",
               "url": "/drugs/bempedoic-acid/"
             },
@@ -888,7 +888,7 @@
               "url": "/drugs/metoprolol/"
             },
             {
-              "slug": "hydroxyprogesterone_caproate",
+              "slug": "hydroxyprogesterone-caproate",
               "name": "Hydroxyprogesterone caproate",
               "url": "/drugs/hydroxyprogesterone-caproate/"
             },
@@ -928,7 +928,7 @@
               "url": "/drugs/pralatrexate/"
             },
             {
-              "slug": "interferon_beta-1b",
+              "slug": "interferon-beta-1b",
               "name": "Interferon beta-1b",
               "url": "/drugs/interferon-beta-1b/"
             },
@@ -943,7 +943,7 @@
               "url": "/drugs/nebivolol/"
             },
             {
-              "slug": "dehydrocholic_acid",
+              "slug": "dehydrocholic-acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
             },
@@ -993,7 +993,7 @@
               "url": "/drugs/oxytetracycline/"
             },
             {
-              "slug": "bempedoic_acid",
+              "slug": "bempedoic-acid",
               "name": "Bempedoic acid",
               "url": "/drugs/bempedoic-acid/"
             },
@@ -1248,7 +1248,7 @@
               "url": "/drugs/metoprolol/"
             },
             {
-              "slug": "hydroxyprogesterone_caproate",
+              "slug": "hydroxyprogesterone-caproate",
               "name": "Hydroxyprogesterone caproate",
               "url": "/drugs/hydroxyprogesterone-caproate/"
             },
@@ -1288,7 +1288,7 @@
               "url": "/drugs/pralatrexate/"
             },
             {
-              "slug": "interferon_beta-1b",
+              "slug": "interferon-beta-1b",
               "name": "Interferon beta-1b",
               "url": "/drugs/interferon-beta-1b/"
             },
@@ -1303,7 +1303,7 @@
               "url": "/drugs/nebivolol/"
             },
             {
-              "slug": "dehydrocholic_acid",
+              "slug": "dehydrocholic-acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
             },
@@ -1353,7 +1353,7 @@
               "url": "/drugs/oxytetracycline/"
             },
             {
-              "slug": "bempedoic_acid",
+              "slug": "bempedoic-acid",
               "name": "Bempedoic acid",
               "url": "/drugs/bempedoic-acid/"
             },
@@ -1503,7 +1503,7 @@
               "url": "/drugs/metoprolol/"
             },
             {
-              "slug": "hydroxyprogesterone_caproate",
+              "slug": "hydroxyprogesterone-caproate",
               "name": "Hydroxyprogesterone caproate",
               "url": "/drugs/hydroxyprogesterone-caproate/"
             },
@@ -1543,7 +1543,7 @@
               "url": "/drugs/pralatrexate/"
             },
             {
-              "slug": "interferon_beta-1b",
+              "slug": "interferon-beta-1b",
               "name": "Interferon beta-1b",
               "url": "/drugs/interferon-beta-1b/"
             },
@@ -1558,7 +1558,7 @@
               "url": "/drugs/nebivolol/"
             },
             {
-              "slug": "dehydrocholic_acid",
+              "slug": "dehydrocholic-acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
             },
@@ -1608,7 +1608,7 @@
               "url": "/drugs/oxytetracycline/"
             },
             {
-              "slug": "bempedoic_acid",
+              "slug": "bempedoic-acid",
               "name": "Bempedoic acid",
               "url": "/drugs/bempedoic-acid/"
             },

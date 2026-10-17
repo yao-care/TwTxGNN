@@ -785,7 +785,7 @@
       ]
     },
     "L5": {
-      "count": 167,
+      "count": 165,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -1764,18 +1764,6 @@
           "slug": "vitamin_e",
           "decision": "Hold",
           "indication_count": 10
-        },
-        {
-          "name": "warfarin_af",
-          "slug": "warfarin_af",
-          "decision": "",
-          "indication_count": 0
-        },
-        {
-          "name": "warfarin_atrial_fibrillation",
-          "slug": "warfarin_atrial_fibrillation",
-          "decision": "",
-          "indication_count": 0
         },
         {
           "name": "Xylitol",

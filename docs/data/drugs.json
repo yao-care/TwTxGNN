@@ -1,6 +1,6 @@
 {
   "generated": "2026-02-19",
-  "total_count": 294,
+  "total_count": 292,
   "source": "TwTxGNN - https://twtxgnn.yao.care/",
   "drugs": [
     {
@@ -3458,30 +3458,6 @@
       "taiwan_approved": true,
       "decision": "Hold",
       "url": "/drugs/warfarin/"
-    },
-    {
-      "slug": "warfarin_af",
-      "name": "warfarin_af",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
-      "url": "/drugs/warfarin-af/"
-    },
-    {
-      "slug": "warfarin_atrial_fibrillation",
-      "name": "warfarin_atrial_fibrillation",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "taiwan_approved": false,
-      "decision": "",
-      "url": "/drugs/warfarin-atrial-fibrillation/"
     },
     {
       "slug": "xylitol",
