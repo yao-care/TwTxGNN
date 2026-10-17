@@ -1,6 +1,6 @@
 {
-  "total": 287,
-  "generated_at": "2026-10-17T02:33:26.186044",
+  "total": 289,
+  "generated_at": "2026-10-17T14:47:40.076292",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -320,7 +320,6 @@
       "predicted_indication": "女性乳癌 (Female Breast Carcinoma)",
       "inn": "Anastrozole",
       "predicted_indications": [
-        "female breast carcinoma",
         "neuroblastoma",
         "vertebral anomalies and variable endocrine and T-cell dysfunction",
         "ganglioneuroblastoma (disease)",
@@ -612,11 +611,6 @@
       "predicted_indication": "視覺性癲癇 (Visual Epilepsy)",
       "inn": "Brivaracetam",
       "predicted_indications": [
-        "eating seizures",
-        "orgasm-induced seizures",
-        "thinking seizures",
-        "micturation-induced seizures",
-        "audiogenic seizures",
         "beta-ketothiolase deficiency"
       ]
     },
@@ -684,7 +678,6 @@
       "predicted_indication": "皮膚念珠菌病 (Cutaneous Candidiasis)",
       "inn": "Butenafine",
       "predicted_indications": [
-        "cutaneous candidiasis",
         "endothrix infectious disease",
         "ectothrix infectious disease",
         "Majocchi granuloma"
@@ -774,7 +767,6 @@
       "predicted_indication": "女性乳癌 (Female Breast Carcinoma)",
       "inn": "Carboplatin",
       "predicted_indications": [
-        "female breast carcinoma",
         "rectum mucinous adenocarcinoma",
         "colon mucinous adenocarcinoma",
         "adult germ cell tumor",
@@ -1017,7 +1009,6 @@
         "paranoid personality disorder",
         "schizoid personality disorder",
         "agoraphobia",
-        "major depressive disorder",
         "attention deficit-hyperactivity disorder"
       ]
     },
@@ -1102,7 +1093,6 @@
       "predicted_indications": [
         "ulcerative proctosigmoiditis",
         "nocardiosis",
-        "rosacea conjunctivitis",
         "cap polyposis",
         "cutaneous photosensitivity-lethal colitis syndrome",
         "undetermined colitis",
@@ -1140,7 +1130,7 @@
       "predicted_indication": "過敏性蕁麻疹 (Allergic Urticaria)",
       "inn": "Cyclizine",
       "predicted_indications": [
-        "rosacea conjunctivitis",
+        "acute laryngopharyngitis",
         "headache disorder",
         "trigeminal autonomic cephalalgia"
       ]
@@ -1367,7 +1357,6 @@
       "inn": "Docetaxel",
       "predicted_indications": [
         "Ewing sarcoma",
-        "well-differentiated fetal adenocarcinoma of the lung",
         "primary pulmonary lymphoma",
         "botryoid-type embryonal rhabdomyosarcoma of the vagina",
         "pulmonary blastoma",
@@ -1422,7 +1411,8 @@
         "monocytic leukemia",
         "botryoid-type embryonal rhabdomyosarcoma of the vagina",
         "parameningeal embryonal rhabdomyosarcoma",
-        "rhabdomyosarcoma (disease)"
+        "rhabdomyosarcoma (disease)",
+        "ganglioneuroblastoma (disease)"
       ]
     },
     {
@@ -1455,8 +1445,8 @@
       "predicted_indications": [
         "bronchitis",
         "acne keloid",
-        "exanthem (disease)",
         "neonatal dermatomyositis",
+        "acrodermatitis chronica atrophicans",
         "amyopathic dermatomyositis",
         "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
         "hydroa vacciniforme, familial",
@@ -1509,8 +1499,7 @@
         "HIV infectious disease",
         "homozygous familial hypercholesterolemia",
         "malignant catarrh",
-        "infectious bovine rhinotracheitis",
-        "HER2 positive breast carcinoma"
+        "infectious bovine rhinotracheitis"
       ]
     },
     {
@@ -1606,9 +1595,6 @@
       "inn": "Famotidine",
       "predicted_indications": [
         "duodenal obstruction",
-        "active peptic ulcer disease",
-        "peptic ulcer perforation",
-        "gastrojejunal ulcer",
         "abnormality of glucagon secretion",
         "multiple endocrine neoplasia",
         "acne (disease)"
@@ -1643,6 +1629,7 @@
         "brachydactyly-syndactyly syndrome",
         "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
         "pseudoachondroplasia",
+        "spondyloarthropathy, susceptibility to",
         "WHIM syndrome"
       ]
     },
@@ -1846,6 +1833,7 @@
       "inn": "Fosfomycin",
       "predicted_indications": [
         "uterine inflammatory disease",
+        "xanthogranulomatous pyelonephritis",
         "epiglottitis",
         "urogenital tuberculosis",
         "laryngitis",
@@ -1934,7 +1922,6 @@
       "predicted_indication": "女性乳癌 (Female Breast Carcinoma)",
       "inn": "Gemcitabine",
       "predicted_indications": [
-        "female breast carcinoma",
         "rectum mucinous adenocarcinoma",
         "colon mucinous adenocarcinoma",
         "endometrial mixed adenocarcinoma",
@@ -2040,6 +2027,17 @@
       ]
     },
     {
+      "name": "Guaiacol",
+      "file": "guaiacol.md",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "predicted_indication": "急性喉咽炎 (Acute Laryngopharyngitis)",
+      "inn": "guaiacol",
+      "predicted_indications": [
+        "acute laryngopharyngitis"
+      ]
+    },
+    {
       "name": "Guselkumab",
       "file": "guselkumab.md",
       "evidence_level": "L5",
@@ -2049,7 +2047,6 @@
       "predicted_indications": [
         "drug-induced osteoporosis",
         "severe nonproliferative diabetic retinopathy",
-        "psoriasis",
         "diabetic retinopathy",
         "renal osteodystrophy",
         "congenital hypotrichosis with juvenile macular dystrophy",
@@ -2452,8 +2449,7 @@
       "predicted_indication": "脈絡膜缺失症 (Choroideremia)",
       "inn": "Ipilimumab",
       "predicted_indications": [
-        "choroideremia",
-        "non-cutaneous melanoma"
+        "choroideremia"
       ]
     },
     {
@@ -2513,7 +2509,6 @@
         "diffuse alopecia areata",
         "vascular disease",
         "hypertrichosis (disease)",
-        "kyphoscoliotic heart disease",
         "visceral calciphylaxis",
         "arterial thoracic outlet syndrome"
       ]
@@ -2653,14 +2648,8 @@
       "predicted_indication": "女性乳癌 (Female Breast Carcinoma)",
       "inn": "Letrozole",
       "predicted_indications": [
-        "female breast carcinoma",
         "nipple carcinoma",
-        "estrogen-receptor negative breast cancer",
-        "estrogen-receptor positive breast cancer",
-        "hormone-resistant breast carcinoma",
         "Ehrlich tumor carcinoma",
-        "bilateral breast carcinoma",
-        "breast carcinoma by gene expression profile",
         "breast fibrocystic disease",
         "benign mammary dysplasia"
       ]
@@ -2909,7 +2898,6 @@
         "malignant hypertensive renal disease",
         "pulmonary hypertension owing to lung disease and/or hypoxia",
         "pulmonary hypertension with unclear multifactorial mechanism",
-        "chronic pulmonary heart disease",
         "trichotillomania"
       ]
     },
@@ -3034,14 +3022,10 @@
       "predicted_indication": "皮膚念珠菌病 (Cutaneous Candidiasis)",
       "inn": "Naftifine",
       "predicted_indications": [
-        "cutaneous candidiasis",
         "Majocchi granuloma",
         "ectothrix infectious disease",
         "pityriasis versicolor",
-        "endothrix infectious disease",
-        "dermatophytosis of scalp or beard",
-        "superficial mycosis",
-        "tinea profunda"
+        "endothrix infectious disease"
       ]
     },
     {
@@ -3419,10 +3403,7 @@
       "inn": "Pemetrexed",
       "predicted_indications": [
         "pleural adenomatoid tumor",
-        "pleural biphasic mesothelioma",
         "pericardium cancer",
-        "well differentiated papillary mesothelioma",
-        "lymphohistiocytoid mesothelioma",
         "iminoglycinuria"
       ]
     },
@@ -3666,7 +3647,8 @@
       "predicted_indication": "鼻腔疾病 (Nasal Cavity Disease)",
       "inn": "Potassium Iodide",
       "predicted_indications": [
-        "nasal cavity disease"
+        "nasal cavity disease",
+        "acute laryngopharyngitis"
       ]
     },
     {
@@ -4165,7 +4147,8 @@
         "acromesomelic dysplasia, Hunter-Thompson type",
         "pseudoachondroplasia",
         "myosclerosis",
-        "brachyolmia"
+        "brachyolmia",
+        "spondyloarthropathy, susceptibility to"
       ]
     },
     {
@@ -4264,6 +4247,7 @@
       "inn": "Sodium citrate",
       "predicted_indications": [
         "papillary conjunctivitis",
+        "acute laryngopharyngitis",
         "postgastrectomy syndrome",
         "gastroduodenitis",
         "familial visceral myopathy",
@@ -4435,7 +4419,8 @@
       "predicted_indication": "鼻腔疾病 (Nasal Cavity Disease)",
       "inn": "Tetryzoline",
       "predicted_indications": [
-        "nasal cavity disease"
+        "nasal cavity disease",
+        "acute laryngopharyngitis"
       ]
     },
     {
@@ -4512,6 +4497,7 @@
         "brachyolmia-amelogenesis imperfecta syndrome",
         "acromesomelic dysplasia, Hunter-Thompson type",
         "myosclerosis",
+        "spondyloarthropathy, susceptibility to",
         "brachyolmia",
         "factor 5 excess with spontaneous thrombosis",
         "heparin cofactor 2 deficiency",
@@ -4772,7 +4758,6 @@
       "inn": "Uracil",
       "predicted_indications": [
         "colonic neoplasm",
-        "gastric carcinoma",
         "rectosigmoid junction neoplasm",
         "lipoma of colon",
         "colonic lymphangioma",
@@ -4889,9 +4874,6 @@
       "predicted_indication": "活動性消化性潰瘍 (Active Peptic Ulcer Disease)",
       "inn": "Vonoprazan",
       "predicted_indications": [
-        "active peptic ulcer disease",
-        "peptic ulcer perforation",
-        "gastrojejunal ulcer",
         "hiatus hernia (disease)",
         "achlorhydria",
         "pylorospasm",
@@ -4922,6 +4904,17 @@
       "inn": "Xylitol",
       "predicted_indications": [
         "meningococcal infection"
+      ]
+    },
+    {
+      "name": "Xylometazoline",
+      "file": "xylometazoline.md",
+      "evidence_level": "L3",
+      "indication_count": 2,
+      "predicted_indication": "鼻腔疾病 (Nasal Cavity Disease)",
+      "inn": "Xylometazoline",
+      "predicted_indications": [
+        "acute laryngopharyngitis"
       ]
     },
     {
