@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 312
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Zonisamide"
-predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "absence epilepsy", "fibromyalgia", "conjunctivitis"]
 last_modified_at: 2026-10-16
 description: "Zonisamide：預測新適應症為妥瑞氏症 (Tourette syndrome)（證據等級 L5）。原適應症：新診斷成人局部癲癇發作之單一藥物治療及成人局部癲癇發作之輔助治療（單純性局部發作、複雜性局部發作、局部發作續發全身性強直-陣攣發作）"
+monitor_inn: "Zonisamide"
+predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 ---
 
 # Zonisamide

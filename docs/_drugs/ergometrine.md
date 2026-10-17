@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 101
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Ergometrine"
-predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "migraine disorder", "migraine with brainstem aura", "leprosy", "pulmonary hypertension"]
 last_modified_at: 2026-10-16
 description: "Ergometrine：預測新適應症為多毛症 (Hypertrichosis)（證據等級 L3）。原適應症：產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛"
+monitor_inn: "Ergometrine"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "pulmonary hypertension"]
 ---
 
 # Ergometrine

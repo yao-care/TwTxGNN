@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 40
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Bempedoic acid"
-predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "homozygous familial hypercholesterolemia", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
 last_modified_at: 2026-10-16
 description: "Bempedoic Acid：預測新適應症為同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)（證據等級 L3）。原適應症：異合子家族性或非家族性之原發性高膽固醇血症、混合型血脂異常的成人病人，作為飲食輔助治療以降低 LDL-C"
+monitor_inn: "Bempedoic acid"
+predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
 ---
 
 # Bempedoic Acid

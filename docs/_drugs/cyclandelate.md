@@ -5,10 +5,10 @@ parent: 高證據等級 (L1-L2)
 nav_order: 76
 evidence_level: L2
 indication_count: 10
-monitor_inn: "Cyclandelate"
-predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]
 last_modified_at: 2026-10-16
 description: "Cyclandelate：預測新適應症為偏頭痛 (migraine disorder)（證據等級 L2）。原適應症：末梢血管循環障礙"
+monitor_inn: "Cyclandelate"
+predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]
 ---
 
 # Cyclandelate

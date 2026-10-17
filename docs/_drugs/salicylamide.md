@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 253
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Salicylamide"
-predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "common cold", "allergic urticaria", "lung disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
 last_modified_at: 2026-10-16
 description: "Salicylamide：預測新適應症為咽炎 (Pharyngitis)（證據等級 L4）。原適應症：鎮痛藥"
+monitor_inn: "Salicylamide"
+predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria", "lung disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
 ---
 
 # Salicylamide

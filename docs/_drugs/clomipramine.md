@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-16
 description: "Clomipramine：預測新適應症為焦慮症 (Anxiety Disorder)（證據等級 L1）。原適應症：憂鬱病"
 monitor_inn: "Clomipramine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "agoraphobia", "major depressive disorder", "endogenous depression", "attention deficit-hyperactivity disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "agoraphobia", "major depressive disorder", "attention deficit-hyperactivity disorder"]
 ---
 
 # Clomipramine

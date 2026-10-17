@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 87
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Dipyridamole"
-predicted_indications: ["Prinzmetal angina", "stroke disorder", "thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
 last_modified_at: 2026-10-16
 description: "Dipyridamole：預測新適應症為Prinzmetal 狹心症 (Prinzmetal angina)（證據等級 L4）。原適應症：取代心肌造影時所需之運動試驗（另有慢性狹心症之治療、血小板集結降低藥等適應症）"
+monitor_inn: "Dipyridamole"
+predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
 ---
 
 # Dipyridamole

@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 218
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Pitavastatin"
-predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
 last_modified_at: 2026-10-16
 description: "Pitavastatin：預測新適應症為同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)（證據等級 L4）。原適應症：原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症"
+monitor_inn: "Pitavastatin"
+predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
 ---
 
 # Pitavastatin

@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 138
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Hydroxyprogesterone caproate"
-predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis in cutaneous scar", "endometriosis of rectovaginal septum and vagina", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 last_modified_at: 2026-10-16
 description: "Hydroxyprogesterone Caproate：預測新適應症為子宮內膜異位症 (Endometriosis of uterus)（證據等級 L4）。原適應症：先兆流產、習慣流產、子宮機能性出血、痛經、月經困難"
+monitor_inn: "Hydroxyprogesterone caproate"
+predicted_indications: ["renal hypoplasia, bilateral", "renal hypoplasia (disease)", "uterine corpus cancer", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 ---
 
 # Hydroxyprogesterone Caproate

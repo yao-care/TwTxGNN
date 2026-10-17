@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-16
 description: "Nebivolol：預測新適應症為惡性腎血管性高血壓 (Malignant Renovascular Hypertension)（證據等級 L5）。原適應症：治療原發性高血壓"
 monitor_inn: "Nebivolol"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Nebivolol

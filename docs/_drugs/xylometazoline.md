@@ -7,8 +7,6 @@ evidence_level: L3
 indication_count: 2
 last_modified_at: 2026-10-16
 description: "Xylometazoline：預測新適應症為鼻腔疾病 (Nasal Cavity Disease)（證據等級 L3）。原適應症：暫時緩解因鼻炎、過敏性鼻炎、過敏或感冒引起之鼻塞、流鼻水症狀"
-monitor_inn: "Xylometazoline"
-predicted_indications: ["nasal cavity disease"]
 ---
 
 # Xylometazoline

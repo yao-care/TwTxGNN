@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-10-16
 description: "Irbesartan：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變"
 monitor_inn: "Irbesartan"
-predicted_indications: ["malignant hypertensive renal disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 ---
 
 # Irbesartan
