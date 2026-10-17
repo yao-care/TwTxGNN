@@ -6,6 +6,7 @@ nav_order: 308
 evidence_level: L1
 indication_count: 0
 last_modified_at: 2026-10-16
+description: "Warfarin 預防心房纖維顫動血栓：已核准適應症的標準治療與 DOAC 比較（證據等級 L1），不是老藥新用預測。"
 ---
 
 # Warfarin Atrial Fibrillation

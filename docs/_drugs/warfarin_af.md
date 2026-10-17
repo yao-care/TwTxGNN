@@ -6,6 +6,7 @@ nav_order: 307
 evidence_level: L1
 indication_count: 0
 last_modified_at: 2026-10-16
+description: "Warfarin 用於心房纖維顫動：已核准適應症的標準治療說明（證據等級 L1），不是老藥新用預測。"
 ---
 
 # Warfarin Af
