@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [心臟病不只胸痛醫：也可能背痛- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">心臟病</span>
-
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
-
----
-
-### [「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWXZ1WHBmQk1wb2dkdklSS0xlb3ZNUUl5RHd2ODVjQ2hJTlg2bTEtdHZqREhDODhCWjlnMjBqdExwR3pfeTVXT0I2aENpOW5Bekk4?oc=5)
+### [「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
 
 2026-10-15 <span class="news-indication-tag">中風</span>
 
-來源: [優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWXZ1WHBmQk1wb2dkdklSS0xlb3ZNUUl5RHd2ODVjQ2hJTlg2bTEtdHZqREhDODhCWjlnMjBqdExwR3pfeTVXT0I2aENpOW5Bekk4?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
 
 ---
 

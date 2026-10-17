@@ -32,11 +32,11 @@ permalink: /news/stroke/
 
 ## 相關新聞（2 則）
 
-### [「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWXZ1WHBmQk1wb2dkdklSS0xlb3ZNUUl5RHd2ODVjQ2hJTlg2bTEtdHZqREhDODhCWjlnMjBqdExwR3pfeTVXT0I2aENpOW5Bekk4?oc=5)
+### [「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
 
 2026-10-15
 
-來源: [優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNWXZ1WHBmQk1wb2dkdklSS0xlb3ZNUUl5RHd2ODVjQ2hJTlg2bTEtdHZqREhDODhCWjlnMjBqdExwR3pfeTVXT0I2aENpOW5Bekk4?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
 
 ---
 

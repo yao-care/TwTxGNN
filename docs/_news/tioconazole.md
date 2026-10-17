@@ -14,7 +14,7 @@ permalink: /news/tioconazole/
 ---
 
 <p class="key-answer" data-question="Tioconazole 有什麼相關新聞？">
-<strong>Tioconazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Tioconazole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ permalink: /news/tioconazole/
 <p><a href="{{ '/drugs/tioconazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」](https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5)
 
@@ -50,14 +50,6 @@ permalink: /news/tioconazole/
 2026-10-13 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
-
----
-
-### [醫學滿東華：更年期遇上青春期 - 20261012 - 副刊](https://news.google.com/rss/articles/CBMirAJBVV95cUxNcW42SUROczY0VEFIN1JrVV9jSTVZdmZjcTJVbkFoQ2ladEJ1N2MyTlY5Q2UzeE1oMVpOdXN6T1FtOS1uU21lOEpXWjlSMEYyRl8zMVpnTDdRM1lORnBLYTZoOUp0LXlRaVZKZXJRSzVQZHc2YzlSVFlWeEhYbUphbjFoQzJ2THQyWS1UQ1pOZkMySVRuSGdmcWtPUEl4ZUtHdUZPbEFKbGpTaGppSjBJTE5UZnlBS1hhR3pKZFQwTktCTnk1Z2h1cU0yQzdydUkwdlFWblQ2ZmxqbHBMc1o5OWpidktDRFVrZW4wRWo5YmZtUkdsc1cxRFdSVFVCWnJ0U2dvRy1TZHZWZjd4Mk9VamFDNGlCdERXSHZ6R2J3VDBLSUxOWS1td05sYU0?oc=5)
-
-2026-10-11 <span class="news-indication-tag">更年期</span>
-
-來源: [明報新聞網](https://news.google.com/rss/articles/CBMirAJBVV95cUxNcW42SUROczY0VEFIN1JrVV9jSTVZdmZjcTJVbkFoQ2ladEJ1N2MyTlY5Q2UzeE1oMVpOdXN6T1FtOS1uU21lOEpXWjlSMEYyRl8zMVpnTDdRM1lORnBLYTZoOUp0LXlRaVZKZXJRSzVQZHc2YzlSVFlWeEhYbUphbjFoQzJ2THQyWS1UQ1pOZkMySVRuSGdmcWtPUEl4ZUtHdUZPbEFKbGpTaGppSjBJTE5UZnlBS1hhR3pKZFQwTktCTnk1Z2h1cU0yQzdydUkwdlFWblQ2ZmxqbHBMc1o5OWpidktDRFVrZW4wRWo5YmZtUkdsc1cxRFdSVFVCWnJ0U2dvRy1TZHZWZjd4Mk9VamFDNGlCdERXSHZ6R2J3VDBLSUxOWS1td05sYU0?oc=5)
 
 ---
 
