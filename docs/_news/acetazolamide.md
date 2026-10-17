@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心臟病不只胸痛醫：也可能背痛- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">心臟病</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
+
+---
+
+### [心衰竭與癌症有關聯？醫揭共同危險因子當心慢性發炎、代謝異常徵兆- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
+
+---
+
+### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">腫瘤</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
 
 ---
 

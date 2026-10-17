@@ -14,7 +14,7 @@ permalink: /news/bevacizumab/
 ---
 
 <p class="key-answer" data-question="Bevacizumab 有什麼相關新聞？">
-<strong>Bevacizumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Bevacizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/bevacizumab/
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子當心慢性發炎、代謝異常徵兆- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
+
+---
+
+### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">腫瘤</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
 
 ---
 
