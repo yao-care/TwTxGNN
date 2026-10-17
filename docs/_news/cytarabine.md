@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/cytarabine/
 <li><strong>原適應症</strong>: 急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、衛部藥輸字第028975號）</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
-<li class="indication-matched">small cell lung carcinoma (99.8%)<span class="indication-tag">📰 肺癌</span></li>
+<li>small cell lung carcinoma (99.8%)</li>
 <li>primary pulmonary lymphoma (99.8%)</li>
 <li>well-differentiated fetal adenocarcinoma of the lung (99.8%)</li>
 <li>pulmonary blastoma (99.8%)</li>
@@ -41,29 +41,13 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [肺癌化療喘悶疲倦中醫介入改善症狀- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVUFPdEEtTVRSY3FZVG1zcHMyM29iSDZGWnlBY1NPSDk1OHhPdEZldUpiVWN1QUFTdkR2Q2c4NU9KMm9BWk5Wek1rWXdqVlJFODVmakJXMTRFcmdOMmNROGg3S0pxQQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">肺癌</span>
-
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVUFPdEEtTVRSY3FZVG1zcHMyM29iSDZGWnlBY1NPSDk1OHhPdEZldUpiVWN1QUFTdkR2Q2c4NU9KMm9BWk5Wek1rWXdqVlJFODVmakJXMTRFcmdOMmNROGg3S0pxQQ?oc=5)
-
----
+## 相關新聞（4 則）
 
 ### [心衰竭與癌症有關聯？醫揭共同危險因子當心慢性發炎、代謝異常徵兆- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
-
----
-
-### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">腫瘤</span>
-
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
 
 ---
 
@@ -80,14 +64,6 @@ permalink: /news/cytarabine/
 2026-10-12 <span class="news-indication-tag">癌症</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
-
----
-
-### [子曰論健康》無症狀也可能藏癌症！ AI PET助揪早期病灶、評估轉移](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5)
-
-2026-10-12 <span class="news-indication-tag">癌症</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5)
 
 ---
 

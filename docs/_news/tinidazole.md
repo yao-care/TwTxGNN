@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（6 則）
 
 ### [別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbDlqVU1rUmU4VTlaZTR4SXNTVVNIMktITWVhRU41R0U4RFhWbTRfZ2hkQUs3WURfdmJYaXdMWm1zMEFPbTZ1TDJOVUVzOHVjVTdIcWlSd2N6dWtNcl9MeQ?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/tinidazole/
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
-
----
-
-### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">腫瘤</span>
-
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
 
 ---
 
@@ -89,14 +81,6 @@ permalink: /news/tinidazole/
 2026-10-12 <span class="news-indication-tag">癌症</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
-
----
-
-### [子曰論健康》無症狀也可能藏癌症！ AI PET助揪早期病灶、評估轉移](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5)
-
-2026-10-12 <span class="news-indication-tag">癌症</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5)
 
 ---
 

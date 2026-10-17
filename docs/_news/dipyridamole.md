@@ -14,7 +14,7 @@ permalink: /news/dipyridamole/
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ permalink: /news/dipyridamole/
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [心臟病不只胸痛醫：也可能背痛- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
+### [流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
-2026-10-15 <span class="news-indication-tag">心臟病</span>
+2026-10-15 <span class="news-indication-tag">中風</span>
 
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
+來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
 ---
 
@@ -57,14 +57,6 @@ permalink: /news/dipyridamole/
 2026-10-12 <span class="news-indication-tag">中風</span>
 
 來源: [CCUE](https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTDRlVU5NWG00aVhoZ0xDRlQxajBBYmN0NjhRT0pfMU9RX1JCTGlmX2ljakZlNlhnMEtiWFR3b1lMYjNqZlVJajl6SjJLRGMtanN1TG1MdEZ6dkNJU1hsNXBHckVNLWZDdnlhMkVuazdXUGVmNWFieklPbTFiZWZaVms3bHVmOUlGUmlMYTVQUEdsS3pDY1JhUEE4TWxEY1FQdmpTcUEyeVluUXo0RFhlNHNwTGNvTThCOTRtejdlX2ppMW84NUstbFdFZHdRTHZsNGkxNHA4UHNMaGJrdmZrZWswYVRnTnVaUHprN1ZKQU5jcWlJd2lWUm9RYjFheUhGUmFyWTg1SlBieUtWRXpMOGQzWDVFRHFuR2hmRkMyWkxKOGZEbVRfd183QmFzQTJ3eHFQWVpfcGJiM25ySVFtQmMzYzBudUxUaEtBYlhGS241S3lXNUE?oc=5)
-
----
-
-### [孔繁毅： 長者染流感可令慢性病急速惡化接種疫苗可降重症死亡風險](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQRnNaRlVhSnAwTVRJaVV2emM0OHBvUWtJR2FSQXhJYXNPSTBQMnpweWV2RE5Oa3VvRmhzLUpweE1la09VZzJQd0RsMXhoNnFrUC1aRXNkWTVuUlM0VXl5SjUtSzVpR2N2a2hkOUJ2TUV0RzFrMUFvZEVQTWFybmZKSVdodnhOWXJ3U2xPSDdGM1ZNb3hpdGtYQjVxQU5DV1k0YVp3clRzcU96dVV3WjZremlvX0NxRGM3d0NiTGVuRC1JZGVTQk5QZ19zaVhhLTNnQVlZdHpFajR2ck1GQlJuNHFOZmtoaUx5MkhxUEdCeEJjQWgyVzQtM3VtcjFDNXF0R005ZW5ZRzNqZmN3M2lsV3pKaHRqRGtFY0hqejRZYndwRkJZTmxYZjBxQ3labDdTc0l6TDVnRmxlRjl4SUR6ZC1OaE5zOFZaTXVGWHl6UUZtMko3dWc2N0NJNVpSaTQzZ2RnWVNSSnRTMWhoYnc?oc=5)
-
-2026-10-11 <span class="news-indication-tag">中風</span>
-
-來源: [巴士的報](https://news.google.com/rss/articles/CBMi7gJBVV95cUxQRnNaRlVhSnAwTVRJaVV2emM0OHBvUWtJR2FSQXhJYXNPSTBQMnpweWV2RE5Oa3VvRmhzLUpweE1la09VZzJQd0RsMXhoNnFrUC1aRXNkWTVuUlM0VXl5SjUtSzVpR2N2a2hkOUJ2TUV0RzFrMUFvZEVQTWFybmZKSVdodnhOWXJ3U2xPSDdGM1ZNb3hpdGtYQjVxQU5DV1k0YVp3clRzcU96dVV3WjZremlvX0NxRGM3d0NiTGVuRC1JZGVTQk5QZ19zaVhhLTNnQVlZdHpFajR2ck1GQlJuNHFOZmtoaUx5MkhxUEdCeEJjQWgyVzQtM3VtcjFDNXF0R005ZW5ZRzNqZmN3M2lsV3pKaHRqRGtFY0hqejRZYndwRkJZTmxYZjBxQ3labDdTc0l6TDVnRmxlRjl4SUR6ZC1OaE5zOFZaTXVGWHl6UUZtMko3dWc2N0NJNVpSaTQzZ2RnWVNSSnRTMWhoYnc?oc=5)
 
 ---
 

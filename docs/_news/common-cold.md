@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
-### [感冒、流感痊癒後 牙刷要換新嗎？醫師有不同說法](https://news.google.com/rss/articles/CBMifkFVX3lxTE9OTTRrSGdibUt5NmdHUFNrWTRrWVZYSGVnQVJTT0QycFduSTg2NllRcWhlQ1FBNDBXc1JPcGpxUjBvMWFid1RTci1hZU5kWmhzek10SC1YeXNENjVGczh3YW91RnlXUnQ1NWhKdFlzdS1LYllYR3Vua2J6WjFkZ9IBZ0FVX3lxTE5hQWs2ZnpvSm42cUM5M045WmRDNFE2REp1Y3gwcFRENUZBaXhTZzJ0WWw5N0FXdXduU0xtdG11UXlWS3ExUFNnWTY3VFR2eEJYamVPZDBweE12NUdsOWlvTXllN0Z4OU0?oc=5)
-
-2026-10-15
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMifkFVX3lxTE9OTTRrSGdibUt5NmdHUFNrWTRrWVZYSGVnQVJTT0QycFduSTg2NllRcWhlQ1FBNDBXc1JPcGpxUjBvMWFid1RTci1hZU5kWmhzek10SC1YeXNENjVGczh3YW91RnlXUnQ1NWhKdFlzdS1LYllYR3Vua2J6WjFkZ9IBZ0FVX3lxTE5hQWs2ZnpvSm42cUM5M045WmRDNFE2REp1Y3gwcFRENUZBaXhTZzJ0WWw5N0FXdXduU0xtdG11UXlWS3ExUFNnWTY3VFR2eEJYamVPZDBweE12NUdsOWlvTXllN0Z4OU0?oc=5)
-
----
-
-### [男攝護腺輕微肥大吃感冒藥後竟尿不出來- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZjBKVF9HT3hnTUhCME15OHRfV1BWaVZHcjhnTHRxZG8wbVcwVTQwR1gtaTJSejFLc1JCQ291dEl1RTZHdlNWUk5YQ2pTWDdjY1dxNFF3SzRWUVE0QTV2akJJRXVzZw?oc=5)
+### [47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 
 2026-10-12
 
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZjBKVF9HT3hnTUhCME15OHRfV1BWaVZHcjhnTHRxZG8wbVcwVTQwR1gtaTJSejFLc1JCQ291dEl1RTZHdlNWUk5YQ2pTWDdjY1dxNFF3SzRWUVE0QTV2akJJRXVzZw?oc=5)
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 
 ---
 

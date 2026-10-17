@@ -14,7 +14,7 @@ permalink: /news/anastrozole/
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,37 +38,13 @@ permalink: /news/anastrozole/
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
-
-### [免費乳癌和子宮頸癌篩檢打破了障礙 - Public Health Insider](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXpFRzBmNURTZVdoQWFCZVo4NWlpNll5dEQ3U1NPWmRSQnMxX0QxajJocnBkOTJRQUlSd211WXpDdk1UUDhsbjFEaVAtQS0wRzFBbjB4aWN5RHVlOFkzRV9CMXBvZkE4WGxIYjBDM2U2RHljc2k5VFBTa19zT3lUZl82YTFWbVRVQ1JpLXEtUDc4TjllRVhYMHlWUHRpOE12Y25RNEI3aXNoNHVXMmVfTUVR0gG3AUFVX3lxTE5PY1NKNHZ2UEFWQ3BkM2VGYkZjUS1IVTRrZ2xsWnJvN2IycWw0SHVfdlcwR05jb3lKcnpEc2lHSDdpbF83WU1pTGNEVnlQcFRXdTdvbFp0NlRSSzBTeWV6OWFId2lYanhDZWRFSnlseFpDQURaUWtKZ3lzUFR3RS1uRWhHb0owLU83ck5pUVlOc2w2XzB5SW1XR0RZMjVQWm5uMUFiN3NZZ19EbUtvTmRhdUlWM05rRQ?oc=5)
-
-2026-10-15 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">乳癌</span>
-
-來源: [Public Health Insider](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXpFRzBmNURTZVdoQWFCZVo4NWlpNll5dEQ3U1NPWmRSQnMxX0QxajJocnBkOTJRQUlSd211WXpDdk1UUDhsbjFEaVAtQS0wRzFBbjB4aWN5RHVlOFkzRV9CMXBvZkE4WGxIYjBDM2U2RHljc2k5VFBTa19zT3lUZl82YTFWbVRVQ1JpLXEtUDc4TjllRVhYMHlWUHRpOE12Y25RNEI3aXNoNHVXMmVfTUVR0gG3AUFVX3lxTE5PY1NKNHZ2UEFWQ3BkM2VGYkZjUS1IVTRrZ2xsWnJvN2IycWw0SHVfdlcwR05jb3lKcnpEc2lHSDdpbF83WU1pTGNEVnlQcFRXdTdvbFp0NlRSSzBTeWV6OWFId2lYanhDZWRFSnlseFpDQURaUWtKZ3lzUFR3RS1uRWhHb0owLU83ck5pUVlOc2w2XzB5SW1XR0RZMjVQWm5uMUFiN3NZZ19EbUtvTmRhdUlWM05rRQ?oc=5)
-
----
+## 相關新聞（5 則）
 
 ### [心衰竭與癌症有關聯？醫揭共同危險因子當心慢性發炎、代謝異常徵兆- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
-
----
-
-### [頭暈嘔吐竟是腦腫瘤開顱手術拆彈- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">腫瘤</span>
-
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tZFhpYnkxNGI1TGZ6aXhwOTlUVkNhY3NYbHhKOWdMOEs5T29kVm5VRXFMSll2ZEpCNmFzR0ZZLTc1TjdDNEtIdmZTSzBJMUhnU0pjOG9wTERKMDlJU3E2N3JFeF93dw?oc=5)
-
----
-
-### [美國研究：無私人健保男性乳癌診斷晚、治療延誤致存活率低](https://news.google.com/rss/articles/CBMiugJBVV95cUxQQjlXN21rbmQyNzFINEVWMXZLNE9ydHpUYm5GX1ZLZ04xQmxqaElLUU5QcmFjUWwwZ196cnBxWmYxSmItTWJNZ1ZWbmdDSG5LQm5PTmRXYmpnRFFoRVNpT3V4OXhzcEZsNDVoR1pqd3RxRE9lakFBcThZZi1CektoU0I2SXJYNU5xQVZiandhZHkxZjN2bWhkTUpaUmN3UC1KQVhkOG1vRnEwZkxkQWhGNEZ5eHRSSnRsOXprd3lXNjB1OWZ5QmR5M3pFdEVyUnNpUE9KX0pHbXFKRzJ3VzgycEZJS1I5bTFteU15OTFJbUVKX0l6VDZTdUhLaE5NeUM3dEtNUWl0VEhsQ1Vkcy1qakJFWjd6VW5OdWktQUM3bXhCV0pKSTR0V2Y2eUxjY3F6a0tEbXlsUjVYQQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">乳癌</span>
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMiugJBVV95cUxQQjlXN21rbmQyNzFINEVWMXZLNE9ydHpUYm5GX1ZLZ04xQmxqaElLUU5QcmFjUWwwZ196cnBxWmYxSmItTWJNZ1ZWbmdDSG5LQm5PTmRXYmpnRFFoRVNpT3V4OXhzcEZsNDVoR1pqd3RxRE9lakFBcThZZi1CektoU0I2SXJYNU5xQVZiandhZHkxZjN2bWhkTUpaUmN3UC1KQVhkOG1vRnEwZkxkQWhGNEZ5eHRSSnRsOXprd3lXNjB1OWZ5QmR5M3pFdEVyUnNpUE9KX0pHbXFKRzJ3VzgycEZJS1I5bTFteU15OTFJbUVKX0l6VDZTdUhLaE5NeUM3dEtNUWl0VEhsQ1Vkcy1qakJFWjd6VW5OdWktQUM3bXhCV0pKSTR0V2Y2eUxjY3F6a0tEbXlsUjVYQQ?oc=5)
 
 ---
 
@@ -93,14 +69,6 @@ permalink: /news/anastrozole/
 2026-10-12 <span class="news-indication-tag">癌症</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
-
----
-
-### [子曰論健康》無症狀也可能藏癌症！ AI PET助揪早期病灶、評估轉移](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5)
-
-2026-10-12 <span class="news-indication-tag">癌症</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzSzdIS1dUemhnamt6WVIwakNfdnZhNWF6WFA2UzMzQThQc253SHZSM1g0YnRUS3BnNGo5aGlDMV9xcENiWmpKMnRrSVQxSGhpWG9tRUxOQS04YS11bXFiWHN0YW8?oc=5)
 
 ---
 
