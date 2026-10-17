@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-10-17T02:14:44.109346+00:00",
-  "total_count": 37,
-  "matched_count": 15,
+  "last_updated": "2026-10-17T07:20:17.903967+00:00",
+  "total_count": 39,
+  "matched_count": 14,
   "news": [
     {
-      "id": "560cbb40ae5d",
-      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險",
-      "published": "2026-10-17T01:16:00+00:00",
-      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;蕃新聞",
+      "id": "0bf8707d4fc9",
+      "title": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫",
+      "published": "2026-10-17T03:28:53+00:00",
+      "summary": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫&nbsp;&nbsp;《超越新聞網》",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1UTEYtWEhKQ25DS05ub1lreTU2bDFGUjlEWVBYb0wwejJOR0Z0MllDT0g3SWt0Q2JTa0hXTXJWYkpyM084cmFOdHY5UmlwaUNBWVE?oc=5"
+          "name": "《超越新聞網》",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03R2ZnQUZnQWNWWjRlTnFDWFRCeE9RcFo3b1J4UkRUVmkzM1hRZDhWNUtDRV9XMmlpYTBQcndMaDN5TjF0Vm9kNFp3ck1vTVFNOHB2Yg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c75e937e8195",
+      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險",
+      "published": "2026-10-17T02:10:20+00:00",
+      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
         }
       ],
       "matched_keywords": [
@@ -33,6 +46,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "5416562a46d2",
+      "title": "孟加拉爆發嚴重麻疹疫情破千死 專家示警疫苗覆蓋缺口 | 民視新聞網 - LINE TODAY",
+      "published": "2026-10-17T01:09:56+00:00",
+      "summary": "孟加拉爆發嚴重麻疹疫情破千死 專家示警疫苗覆蓋缺口 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fbnZvNllGRGFlT2VWUVVaVk4tMWVFNkNudHZFcjRuZ1M3UWxqQkdwQVVtTUVJd1gtM0d4S1lHVkxITU1COThEbXN3eVpmTUtDdUtKblJB?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "c84105f915bc",
@@ -59,6 +85,74 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "fe511696e76b",
+      "title": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡",
+      "published": "2026-10-16T20:00:00+00:00",
+      "summary": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbDlqVU1rUmU4VTlaZTR4SXNTVVNIMktITWVhRU41R0U4RFhWbTRfZ2hkQUs3WURfdmJYaXdMWm1zMEFPbTZ1TDJOVUVzOHVjVTdIcWlSd2N6dWtNcl9MeQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "83e641c44956",
@@ -205,47 +299,6 @@
       ]
     },
     {
-      "id": "90d852a04ee7",
-      "title": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」",
-      "published": "2026-10-15T14:40:09+00:00",
-      "summary": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "f5d0f0221d26",
       "title": "維生素B12缺乏如何偽裝成衰老跡象",
       "published": "2026-10-15T11:00:00+00:00",
@@ -257,37 +310,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "09806ade8893",
-      "title": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY",
-      "published": "2026-10-15T10:30:07+00:00",
-      "summary": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY成人疫苗打滿 勿成家庭破口&nbsp;&nbsp;中華新聞雲／中華日報健康網》他染流感數小時竟呼吸衰竭 醫警3族群重症風險高&nbsp;&nbsp;自由健康網驚！流感46死創新高「家長」成感染破口 醫曝原因&nbsp;&nbsp;三立新聞流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "73a124cde2b6",
@@ -327,262 +349,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "81e5a7166583",
-      "title": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關",
-      "published": "2026-10-15T04:00:00+00:00",
-      "summary": "健康網》癌症治療不只要休息 研究揭運動與長期預後有關&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin",
-              "url": "/drugs/acitretin/"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib",
-              "url": "/drugs/regorafenib/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine",
-              "url": "/drugs/cladribine/"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide",
-              "url": "/drugs/amcinonide/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol",
-              "url": "/drugs/acebutolol/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate",
-              "url": "/drugs/hydroxyprogesterone-caproate/"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab",
-              "url": "/drugs/durvalumab/"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab",
-              "url": "/drugs/atezolizumab/"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine",
-              "url": "/drugs/berberine/"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab",
-              "url": "/drugs/ipilimumab/"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone",
-              "url": "/drugs/clobetasone/"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone",
-              "url": "/drugs/carbenoxolone/"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate",
-              "url": "/drugs/pralatrexate/"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b",
-              "url": "/drugs/interferon-beta-1b/"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab",
-              "url": "/drugs/omalizumab/"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol",
-              "url": "/drugs/nebivolol/"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab",
-              "url": "/drugs/avelumab/"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide",
-              "url": "/drugs/disopyramide/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole",
-              "url": "/drugs/levamisole/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid",
-              "url": "/drugs/bempedoic-acid/"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril",
-              "url": "/drugs/benazepril/"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib",
-              "url": "/drugs/vismodegib/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed",
-              "url": "/drugs/pemetrexed/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib",
-              "url": "/drugs/zanubrutinib/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "e6ba6e1369d2",
@@ -691,14 +457,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f3bf7b84d959",
-      "title": "心衰竭與癌症有關聯？醫揭共同危險因子當心慢性發炎、代謝異常徵兆- 健康新聞 - PChome Online 新聞",
+      "id": "084ecf2a1d7b",
+      "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆",
       "published": "2026-10-14T05:00:00+00:00",
-      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子當心慢性發炎、代謝異常徵兆- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1299,6 +1065,19 @@
       ]
     },
     {
+      "id": "94e7e4e88cf8",
+      "title": "賓州再傳麻疹死亡 39歲女子疑因併發症喪命",
+      "published": "2026-10-13T06:30:00+00:00",
+      "summary": "賓州再傳麻疹死亡 39歲女子疑因併發症喪命&nbsp;&nbsp;大紀元TWiV 1366：Daniel Griffin 醫師的臨床更新｜This Week in Virology&nbsp;&nbsp;BigGo 財經賓州麻疹相關死亡增至6例 美國今年病例逾4000例&nbsp;&nbsp;Taiwan News賓州麻疹再奪1命 全州死亡增至6例&nbsp;&nbsp;世界新聞網賓州麻疹確診破千例 創30餘年新高&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zd1AxVXZ1c3VFNG9lUVJ4MnRDZE9xSjFPRGxYVmtMUmtWZW1rSWhRbU8tN0VwT1JvWVhTMV9JRmJkZ2dSTUNBOTZuX0RldGZSRVlwVHA3UDY0cGI5bS0xY1pR0gFnQVVfeXFMUElvTjU4V09BOFZoSkRQNEZ0SkRLSTFOdUs5MkdoVk50WXpTT19JYndtbmJsTTBVSXFBSm5ZQzQtZVJvNGt5YUxtWlU3ZjJiX3JJUlNiS1ZGRGgyZTBmSEdjWEZZR2NRWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d11fffd7435c",
       "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
       "published": "2026-10-12T23:36:12+00:00",
@@ -1319,6 +1098,262 @@
               "slug": "dl-alpha-tocopherol",
               "name": "DL-alpha-Tocopherol",
               "url": "/drugs/dl-alpha-tocopherol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0bdd8cf9dc1a",
+      "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發",
+      "published": "2026-10-12T13:06:43+00:00",
+      "summary": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
             }
           ]
         }
@@ -1376,32 +1411,6 @@
               "slug": "dipyridamole",
               "name": "Dipyridamole",
               "url": "/drugs/dipyridamole/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "012677d7bafa",
-      "title": "骨頭密度低恐失智 代謝問題釀雙重退化 - 台灣醒報 Awakening News Network",
-      "published": "2026-10-12T06:44:07+00:00",
-      "summary": "骨頭密度低恐失智 代謝問題釀雙重退化&nbsp;&nbsp;台灣醒報 Awakening News Network",
-      "sources": [
-        {
-          "name": "台灣醒報 Awakening News Network",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
             }
           ]
         }
@@ -1965,6 +1974,37 @@
               "slug": "xylometazoline",
               "name": "Xylometazoline",
               "url": "/drugs/xylometazoline/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2970e5552305",
+      "title": "孔繁毅： 長者染流感可令慢性病急速惡化接種疫苗可降重症死亡風險",
+      "published": "2026-10-11T05:31:47+00:00",
+      "summary": "孔繁毅： 長者染流感可令慢性病急速惡化接種疫苗可降重症死亡風險&nbsp;&nbsp;巴士的報流感全年化 加強型疫苗護慢病、長者&nbsp;&nbsp;中時新聞網「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY流感重症死亡創新高！憂肺鏈趁虛而入 兒科醫：少這道防線恐成感染破口&nbsp;&nbsp;三立新聞健康網》他染流感數小時竟呼吸衰竭 醫警3族群重症風險高&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQRnNaRlVhSnAwTVRJaVV2emM0OHBvUWtJR2FSQXhJYXNPSTBQMnpweWV2RE5Oa3VvRmhzLUpweE1la09VZzJQd0RsMXhoNnFrUC1aRXNkWTVuUlM0VXl5SjUtSzVpR2N2a2hkOUJ2TUV0RzFrMUFvZEVQTWFybmZKSVdodnhOWXJ3U2xPSDdGM1ZNb3hpdGtYQjVxQU5DV1k0YVp3clRzcU96dVV3WjZremlvX0NxRGM3d0NiTGVuRC1JZGVTQk5QZ19zaVhhLTNnQVlZdHpFajR2ck1GQlJuNHFOZmtoaUx5MkhxUEdCeEJjQWgyVzQtM3VtcjFDNXF0R005ZW5ZRzNqZmN3M2lsV3pKaHRqRGtFY0hqejRZYndwRkJZTmxYZjBxQ3labDdTc0l6TDVnRmxlRjl4SUR6ZC1OaE5zOFZaTXVGWHl6UUZtMko3dWc2N0NJNVpSaTQzZ2RnWVNSSnRTMWhoYnc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone",
+              "url": "/drugs/dronedarone/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
             }
           ]
         }

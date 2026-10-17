@@ -44,19 +44,11 @@ permalink: /news/acetazolamide/
 
 ## 相關新聞（5 則）
 
-### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
-
-2026-10-15 <span class="news-indication-tag">癌症</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
-
----
-
-### [心衰竭與癌症有關聯？醫揭共同危險因子當心慢性發炎、代謝異常徵兆- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
+### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
 
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
-來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMikwFBVV95cUxNemZ5c2JoekJBVUliekdfWlVYQ3RwMmxOSjhLUmQ5TDRLU2l4d2t1VVYxeVQ0ZXBsSmh0WlI4dDFPS3g1WWJBczFYODZzNXZOeVRXSDZrZ2c5eHU2ZUdZWkQ3akYwQ01obXVmTXVianVLMFRFRklnVTZ1YXZrOGhudUdrUE1IeC1JcnFkMTZWNnRXT1U?oc=5)
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5)
 
 ---
 
@@ -65,6 +57,14 @@ permalink: /news/acetazolamide/
 2026-10-13 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
+
+---
+
+### [每天運動30分鐘 研究：降低罹癌風險、防止癌症復發](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
+
+2026-10-12 <span class="news-indication-tag">癌症</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
 
 ---
 
