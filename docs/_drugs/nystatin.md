@@ -27,7 +27,7 @@ predicted_indications: ["disease of orbital region", "disease of orbital part of
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

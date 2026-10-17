@@ -27,7 +27,7 @@ description: "Disopyramide：預測新適應症為妥瑞氏症 (Tourette syndrom
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

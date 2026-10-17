@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-16
 description: "Butenafine：預測新適應症為皮膚念珠菌病 (Cutaneous Candidiasis)（證據等級 L4）。原適應症：指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌屬黴菌引起之皮膚感染症"
 monitor_inn: "Butenafine"
-predicted_indications: ["cutaneous candidiasis", "endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
+predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
 ---
 
 # Butenafine
@@ -27,7 +27,7 @@ predicted_indications: ["cutaneous candidiasis", "endothrix infectious disease",
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

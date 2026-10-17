@@ -27,7 +27,7 @@ description: "Nefopam：預測新適應症為手足搐搦性白內障 (Tetanic C
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

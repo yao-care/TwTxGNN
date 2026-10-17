@@ -27,7 +27,7 @@ description: "Ramucirumab：預測新適應症為子宮韌帶腺癌 (Uterine Lig
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

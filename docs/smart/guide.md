@@ -29,7 +29,7 @@ TwTxGNN SMART App 已正式上架至 <strong>SMART Health IT App Gallery</strong
       <div style="color: #555;">藥提醒科技有限公司</div>
     </div>
   </div>
-  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN knowledge graph predictions.</p>
+  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN deep learning predictions.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 1rem;">
     <span style="padding: 4px 12px; background: #2196f3; color: white; border-radius: 16px; font-size: 0.85rem;">SMART App</span>
     <span style="padding: 4px 12px; background: #ff9800; color: white; border-radius: 16px; font-size: 0.85rem;">FHIR R4</span>

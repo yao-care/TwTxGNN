@@ -27,7 +27,7 @@ description: "Pexidartinib：預測新適應症為HER2 陽性乳癌 (HER2 positi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

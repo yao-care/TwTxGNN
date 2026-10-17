@@ -5,10 +5,10 @@ parent: 高證據等級 (L1-L2)
 nav_order: 304
 evidence_level: L2
 indication_count: 10
-monitor_inn: "Vonoprazan"
-predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "hiatus hernia (disease)", "achlorhydria", "pylorospasm", "Dieulafoy lesion", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
 last_modified_at: 2026-10-16
 description: "Vonoprazan：預測新適應症為活動性消化性潰瘍 (Active Peptic Ulcer Disease)（證據等級 L2）。原適應症：糜爛性食道炎(EE)的治療及維持治療"
+monitor_inn: "Vonoprazan"
+predicted_indications: ["hiatus hernia (disease)", "achlorhydria", "pylorospasm", "Dieulafoy lesion", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
 ---
 
 # Vonoprazan
@@ -27,7 +27,7 @@ description: "Vonoprazan：預測新適應症為活動性消化性潰瘍 (Active
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

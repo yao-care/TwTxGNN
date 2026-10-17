@@ -77,7 +77,7 @@ SMART on FHIR 是一個開放標準，讓醫療應用程式可以安全地存取
       <div style="color: #555;">藥提醒科技有限公司</div>
     </div>
   </div>
-  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN knowledge graph predictions.</p>
+  <p style="margin-bottom: 1rem; color: #333;">Query drug repurposing candidates for patient medications using TxGNN deep learning predictions.</p>
   <a href="https://apps.smarthealthit.org/app/twtxgnn-smart-app" target="_blank" style="display: inline-block; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">前往 SMART App Gallery 查看 ↗</a>
 </div>
 

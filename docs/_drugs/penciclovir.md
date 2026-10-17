@@ -27,7 +27,7 @@ description: "Penciclovir：預測新適應症為肝吸蟲症 (Fascioliasis)（�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

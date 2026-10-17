@@ -27,7 +27,7 @@ description: "Tizanidine：預測新適應症為偏頭痛 (Migraine Disorder)（
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syn
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

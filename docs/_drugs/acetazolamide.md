@@ -27,7 +27,7 @@ description: "Acetazolamide：預測新適應症為運動誘發惡性高熱 (Exe
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Lorcaserin：預測新適應症為維生素過多症 (Hypervitamin
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

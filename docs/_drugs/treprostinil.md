@@ -27,7 +27,7 @@ predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypot
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

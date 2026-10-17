@@ -27,7 +27,7 @@ description: "Hyaluronic Acid：預測新適應症為乾眼症 (Dry Eye Syndrome
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

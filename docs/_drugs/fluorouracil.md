@@ -27,7 +27,7 @@ description: "Fluorouracil：預測新適應症為陰道葡萄狀胚胎型橫紋
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

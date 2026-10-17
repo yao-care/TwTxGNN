@@ -27,7 +27,7 @@ description: "Mannitol：預測新適應症為腎因性抗利尿不適當症候�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

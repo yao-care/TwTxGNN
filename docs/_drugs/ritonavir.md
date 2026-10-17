@@ -27,7 +27,7 @@ description: "Ritonavir：預測新適應症為猿猴免疫缺乏病毒感染 (S
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

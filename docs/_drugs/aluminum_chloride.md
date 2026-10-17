@@ -27,7 +27,7 @@ description: "Aluminum Chloride：預測新適應症為脂漏性角化症 (Sebor
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-16
 description: "Tetryzoline：預測新適應症為鼻腔疾病 (Nasal Cavity Disease)（證據等級 L5）。原適應症：目前台灣有效許可證皆為複方，無有效的單方許可證可引用。複方許可證的核准適應症包括：暫時緩解因輕微眼部刺激所引起之不適、眼睛紅、眼睛癢…"
 monitor_inn: "Tetryzoline"
-predicted_indications: ["nasal cavity disease"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Tetryzoline
@@ -27,7 +27,7 @@ predicted_indications: ["nasal cavity disease"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

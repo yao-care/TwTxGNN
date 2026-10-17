@@ -27,7 +27,7 @@ description: "Hymecromone：預測新適應症為糖尿病腎病變 (Diabetic Ne
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

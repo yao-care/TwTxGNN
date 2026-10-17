@@ -27,7 +27,7 @@ description: "Carisoprodol：預測新適應症為失眠 (Insomnia)（證據等�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

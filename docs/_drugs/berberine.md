@@ -27,7 +27,7 @@ description: "Berberine：預測新適應症為重度子癇前症 (Severe Pre-ec
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

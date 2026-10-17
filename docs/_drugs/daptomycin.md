@@ -27,7 +27,7 @@ description: "Daptomycin：預測新適應症為骨關節炎 (osteoarthritis)（
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

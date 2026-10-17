@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 153
 evidence_level: L5
 indication_count: 2
-monitor_inn: "Ipilimumab"
-predicted_indications: ["choroideremia", "non-cutaneous melanoma"]
 last_modified_at: 2026-10-16
 description: "Ipilimumab：預測新適應症為脈絡膜缺失症 (Choroideremia)（證據等級 L5）。原適應症：無法切除或轉移性黑色素瘤（併用 nivolumab）、晚期腎細胞癌、MSI-H/dMMR 轉移性大腸直腸癌、肝細胞癌、非小細胞肺癌…"
+monitor_inn: "Ipilimumab"
+predicted_indications: ["choroideremia"]
 ---
 
 # Ipilimumab
@@ -27,7 +27,7 @@ description: "Ipilimumab：預測新適應症為脈絡膜缺失症 (Choroideremi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

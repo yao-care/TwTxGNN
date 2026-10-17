@@ -27,7 +27,7 @@ description: "Clobetasone：預測新適應症為原發性皮膚 T 細胞淋巴�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

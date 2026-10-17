@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-16
 description: "Guselkumab：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：對傳統或生物製劑治療反應不佳、失去反應或無法耐受的中度至重度活動性潰瘍性結腸炎與克隆氏症成人病人"
 monitor_inn: "Guselkumab"
-predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "psoriasis", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 ---
 
 # Guselkumab
@@ -27,7 +27,7 @@ predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative di
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

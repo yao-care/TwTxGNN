@@ -27,7 +27,7 @@ description: "Imatinib：預測新適應症為心臟纖維肉瘤 (Heart Fibrosar
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

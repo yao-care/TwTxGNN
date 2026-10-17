@@ -27,7 +27,7 @@ description: "Bevacizumab：預測新適應症為會厭腫瘤 (Epiglottis Neopla
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

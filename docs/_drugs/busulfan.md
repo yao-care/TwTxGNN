@@ -27,7 +27,7 @@ description: "Busulfan：預測新適應症為骨髓發育不良症候群 (Myelo
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

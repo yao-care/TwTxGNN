@@ -27,7 +27,7 @@ description: "Icatibant：預測新適應症為C1 酯酶抑制劑缺乏症 (C1 i
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

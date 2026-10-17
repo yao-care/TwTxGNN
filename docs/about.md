@@ -85,14 +85,14 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 </p>
 
 <blockquote class="expert-quote">
-「TxGNN 整合了 17,080 個生物醫學實體的知識圖譜，使用圖神經網路學習節點間的複雜關聯，能預測藥物對罕見疾病的潛在療效。」
+「TxGNN 整合了涵蓋 17,080 種疾病的知識圖譜，使用圖神經網路學習節點間的複雜關聯，能預測藥物對罕見疾病的潛在療效。」
 <cite>— Huang et al., Nature Medicine (2024)</cite>
 </blockquote>
 
 ### 技術特點
 
 <ol class="actionable-steps">
-<li><strong>知識圖譜</strong>：整合藥物、疾病、基因、蛋白質等 17,080 個節點</li>
+<li><strong>知識圖譜</strong>：涵蓋 17,080 種疾病，另含藥物、基因、蛋白質</li>
 <li><strong>圖神經網路</strong>：學習節點間的複雜關聯</li>
 <li><strong>預測能力</strong>：可預測藥物對哪些疾病可能有效</li>
 </ol>
@@ -110,7 +110,7 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 <tr><th>資料類型</th><th>來源</th><th>說明</th></tr>
 </thead>
 <tbody>
-<tr><td>AI 預測</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>哈佛大學知識圖譜預測模型</td></tr>
+<tr><td>AI 預測</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>哈佛大學圖神經網路模型</td></tr>
 <tr><td>臨床試驗</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>全球臨床試驗登記資料庫</td></tr>
 <tr><td>學術文獻</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>生物醫學文獻資料庫</td></tr>
 <tr><td>藥物資訊</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>藥物與靶點資料庫</td></tr>

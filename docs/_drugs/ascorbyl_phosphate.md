@@ -27,7 +27,7 @@ description: "Ascorbyl Phosphate：預測新適應症為嚴重非增殖性糖尿
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

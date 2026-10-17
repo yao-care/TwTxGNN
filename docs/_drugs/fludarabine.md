@@ -27,7 +27,7 @@ description: "Fludarabine：預測新適應症為漿細胞骨髓瘤 (Plasma Cell
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

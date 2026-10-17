@@ -27,7 +27,7 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

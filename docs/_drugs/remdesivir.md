@@ -27,7 +27,7 @@ description: "Remdesivir：預測新適應症為多發性內分泌腫瘤 (Multip
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Palbociclib：預測新適應症為甲狀腺機能亢進 (Hyperthy
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

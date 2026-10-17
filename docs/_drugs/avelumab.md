@@ -27,7 +27,7 @@ description: "Avelumab：預測新適應症為人類疱疹病毒 8 型相關腫�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

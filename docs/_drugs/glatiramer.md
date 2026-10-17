@@ -27,7 +27,7 @@ description: "Glatiramer：預測新適應症為血紅素病變 (Hemoglobinopath
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

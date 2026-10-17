@@ -27,7 +27,7 @@ description: "Polyethylene Glycol：預測新適應症為先天性魚鱗癬樣�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

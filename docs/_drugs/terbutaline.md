@@ -27,7 +27,7 @@ description: "Terbutaline：預測新適應症為阻塞性肺病 (Obstructive Lu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

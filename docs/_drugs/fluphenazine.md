@@ -27,7 +27,7 @@ description: "Fluphenazine：預測新適應症為視網膜失養症 (Retinal dy
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

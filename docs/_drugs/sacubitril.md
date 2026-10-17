@@ -27,7 +27,7 @@ description: "Sacubitril：預測新適應症為糖尿病腎病變 (Diabetic Nep
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Mitomycin：預測新適應症為胰臟實體假乳突癌 (Solid P
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

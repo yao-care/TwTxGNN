@@ -27,7 +27,7 @@ description: "Vasopressin：預測新適應症為先天性凝血酶原缺乏症 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

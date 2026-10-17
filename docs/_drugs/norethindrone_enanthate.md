@@ -27,7 +27,7 @@ description: "Norethindrone Enanthate：預測新適應症為第 2 型抗凝血�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

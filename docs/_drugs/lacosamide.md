@@ -27,7 +27,7 @@ description: "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Man
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Naproxen：預測新適應症為短指併指症候群 (Brachydacty
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

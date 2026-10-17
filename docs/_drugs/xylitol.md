@@ -27,7 +27,7 @@ description: "Xylitol：預測新適應症為腦膜炎球菌感染 (Meningococca
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

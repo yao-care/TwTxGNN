@@ -27,7 +27,7 @@ description: "Chlorobutanol：預測新適應症為勃起功能障礙 (Erectile 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

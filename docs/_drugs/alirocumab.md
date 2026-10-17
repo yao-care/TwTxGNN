@@ -27,7 +27,7 @@ description: "Alirocumab：預測新適應症為X 染色體性聯魚鱗癬，無
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

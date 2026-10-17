@@ -27,7 +27,7 @@ description: "Verteporfin：預測新適應症為核 DNA 異常所致的粒線�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Erdafitinib：預測新適應症為肺動脈高壓 (Pulmonary Hype
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Lidocaine：預測新適應症為點狀上皮角結膜炎 (Punctat
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

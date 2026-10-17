@@ -27,7 +27,7 @@ predicted_indications: ["paranasal sinus neoplasm (disease)", "postinfectious va
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

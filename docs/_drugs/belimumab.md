@@ -27,7 +27,7 @@ description: "Belimumab：預測新適應症為原發性血小板釋放障礙 (p
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

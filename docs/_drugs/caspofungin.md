@@ -27,7 +27,7 @@ description: "Caspofungin：預測新適應症為胃泌素分泌異常 (Gastrin 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

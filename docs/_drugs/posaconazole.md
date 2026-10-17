@@ -27,7 +27,7 @@ description: "Posaconazole：預測新適應症為肺囊蟲病 (Pneumocystosis)�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

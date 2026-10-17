@@ -27,7 +27,7 @@ description: "Lutetium Lu 177 Dotatate：預測新適應症為垂體性侏儒症
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

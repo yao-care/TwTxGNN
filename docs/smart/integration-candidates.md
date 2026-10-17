@@ -19,7 +19,7 @@ nav_order: 6
 
 ### TwTxGNN 核心功能
 
-**老藥新用（Drug Repurposing）**：使用 TxGNN 知識圖譜預測已核准藥物的新適應症
+**老藥新用（Drug Repurposing）**：使用 TxGNN 深度學習模型預測已核准藥物的新適應症
 
 ### 補充參考資料需求
 

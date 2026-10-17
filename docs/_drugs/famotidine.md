@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-16
 description: "Famotidine：預測新適應症為十二指腸胃逆流 (Duodenogastric Reflux)（證據等級 L3）。原適應症：胃潰瘍、十二指腸潰瘍、逆流性食道炎、ZOLLINGER-ELLISON症候群"
 monitor_inn: "Famotidine"
-predicted_indications: ["duodenal obstruction", "active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Famotidine
@@ -27,7 +27,7 @@ predicted_indications: ["duodenal obstruction", "active peptic ulcer disease", "
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-16
 description: "Brivaracetam：預測新適應症為視覺性癲癇 (Visual Epilepsy)（證據等級 L4）。原適應症：適用於 1 個月大以上局部癲癇發作病人的治療"
 monitor_inn: "Brivaracetam"
-predicted_indications: ["eating seizures", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures", "audiogenic seizures", "beta-ketothiolase deficiency"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Brivaracetam
@@ -27,7 +27,7 @@ predicted_indications: ["eating seizures", "orgasm-induced seizures", "thinking 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

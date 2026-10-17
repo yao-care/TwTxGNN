@@ -27,7 +27,7 @@ description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

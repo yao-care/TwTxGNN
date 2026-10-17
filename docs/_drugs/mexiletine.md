@@ -27,7 +27,7 @@ description: "Mexiletine：預測新適應症為毛髮過多症 (Hypertrichosis)
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

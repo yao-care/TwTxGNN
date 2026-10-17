@@ -27,7 +27,7 @@ description: "Lactic Acid：預測新適應症為非典型主動脈縮窄 (Atypi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

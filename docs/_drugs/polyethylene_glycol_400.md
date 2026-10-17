@@ -27,7 +27,7 @@ description: "Polyethylene Glycol 400：預測新適應症為支氣管炎 (Bronc
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Tazarotene：預測新適應症為脂漏性皮膚炎 (Seborrheic D
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

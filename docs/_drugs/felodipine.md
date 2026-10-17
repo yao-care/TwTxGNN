@@ -27,7 +27,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

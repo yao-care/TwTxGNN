@@ -27,7 +27,7 @@ description: "Prilocaine：預測新適應症為首位預測：乳突狀結膜�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

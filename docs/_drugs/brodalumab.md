@@ -27,7 +27,7 @@ description: "Brodalumab：預測新適應症為類圓線蟲症 (Strongyloidiasi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

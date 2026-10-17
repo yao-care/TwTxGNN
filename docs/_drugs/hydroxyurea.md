@@ -27,7 +27,7 @@ predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E dis
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

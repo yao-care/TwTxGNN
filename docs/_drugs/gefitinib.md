@@ -27,7 +27,7 @@ description: "Gefitinib：預測新適應症為牙齦纖維瘤病 (Fibromatosis,
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

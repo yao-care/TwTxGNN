@@ -27,7 +27,7 @@ description: "Temozolomide：預測新適應症為成人星狀細胞腫瘤 (Adul
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -25,7 +25,7 @@ description: "Aluminum Hydroxide：預測新適應症為活動性消化性潰瘍
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

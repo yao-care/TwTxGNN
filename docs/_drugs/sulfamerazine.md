@@ -27,7 +27,7 @@ description: "Sulfamerazine：預測新適應症為痛風 (Gout)（證據等級 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

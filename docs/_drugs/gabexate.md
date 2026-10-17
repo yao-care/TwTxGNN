@@ -27,7 +27,7 @@ description: "Gabexate：預測新適應症為葛蘭茲曼氏血小板無力症 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

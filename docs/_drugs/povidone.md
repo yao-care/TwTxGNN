@@ -27,7 +27,7 @@ description: "Povidone：預測新適應症為先天性魚鱗癬樣紅皮症 (Co
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

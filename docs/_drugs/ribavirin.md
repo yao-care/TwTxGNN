@@ -27,7 +27,7 @@ predicted_indications: ["hepatopulmonary syndrome", "early-onset familial noncir
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

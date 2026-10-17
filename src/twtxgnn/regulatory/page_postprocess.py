@@ -31,7 +31,7 @@ JARGON = [
 def strip_preamble(report: str) -> str:
     """去掉報告本體（第一個 `# ` 標題）之前、帶有產線內部用語的開場段落。
     report 可以是 notes 原文，也可以是 docs 頁（此時只處理藥師評估報告 div 之後那段）。"""
-    anchor = report.find('<div id="pharmacist">')
+    anchor = report.find('<div id="pharmacist" markdown="1">')
     start = report.find("</div>", anchor) + len("</div>") if anchor >= 0 else 0
     m = re.compile(r"^# ", re.M).search(report, start)
     if not m:

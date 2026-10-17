@@ -27,7 +27,7 @@ description: "Alpha-Tocopherol Succinate：預測新適應症為藥物性骨質�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Aluminum Oxide：預測新適應症為類風濕性關節炎 (Rheum
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

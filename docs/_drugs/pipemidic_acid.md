@@ -27,7 +27,7 @@ description: "Pipemidic Acid：預測新適應症為心臟疾病 (Heart disease)
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

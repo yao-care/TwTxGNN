@@ -27,7 +27,7 @@ description: "Doripenem：預測新適應症為肝門靜脈硬化症 (Hepatoport
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

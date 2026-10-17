@@ -27,7 +27,7 @@ description: "Cetuximab：預測新適應症為兒童支氣管腺瘤／類癌 (B
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

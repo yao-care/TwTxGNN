@@ -5,10 +5,10 @@ parent: 高證據等級 (L1-L2)
 nav_order: 165
 evidence_level: L1
 indication_count: 10
-monitor_inn: "Letrozole"
-predicted_indications: ["female breast carcinoma", "nipple carcinoma", "estrogen-receptor negative breast cancer", "estrogen-receptor positive breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "breast fibrocystic disease", "benign mammary dysplasia"]
 last_modified_at: 2026-10-16
 description: "Letrozole：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療"
+monitor_inn: "Letrozole"
+predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Letrozole
@@ -27,7 +27,7 @@ description: "Letrozole：預測新適應症為女性乳癌 (Female Breast Carci
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

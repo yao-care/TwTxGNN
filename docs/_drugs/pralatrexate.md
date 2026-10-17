@@ -27,7 +27,7 @@ description: "Pralatrexate：預測新適應症為胸膜上皮樣間皮瘤 (Pleu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

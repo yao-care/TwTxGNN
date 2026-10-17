@@ -27,7 +27,7 @@ description: "Iopromide：預測新適應症為退化性關節炎易感性 (Oste
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

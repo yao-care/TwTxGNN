@@ -27,7 +27,7 @@ description: "Ravulizumab：預測新適應症為體染色體隱性嚴重先天�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

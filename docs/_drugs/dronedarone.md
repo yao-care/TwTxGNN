@@ -27,7 +27,7 @@ description: "Dronedarone：預測新適應症為中風相關疾患 (Stroke Diso
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

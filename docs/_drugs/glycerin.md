@@ -27,7 +27,7 @@ description: "Glycerin：預測新適應症為馬尾症候群 (Cauda Equina Synd
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

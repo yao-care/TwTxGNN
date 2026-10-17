@@ -27,7 +27,7 @@ description: "Fenoterol：預測新適應症為多發性系統萎縮症 (Multipl
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

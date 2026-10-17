@@ -27,7 +27,7 @@ description: "Dl-Alpha-Tocopherol：預測新適應症為未成熟型白內障 (
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

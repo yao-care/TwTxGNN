@@ -27,7 +27,7 @@ description: "Allopurinol：預測新適應症為肝性卟啉症 (Hepatic Porphy
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

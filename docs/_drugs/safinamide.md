@@ -27,7 +27,7 @@ description: "Safinamide：預測新適應症為Rasmussen 亞急性腦炎 (Rasmu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

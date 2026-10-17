@@ -27,7 +27,7 @@ description: "Cerliponase Alfa：預測新適應症為Scheie 症候群 (Scheie s
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

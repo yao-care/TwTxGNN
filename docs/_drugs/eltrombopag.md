@@ -27,7 +27,7 @@ description: "Eltrombopag：預測新適應症為HIV 感染相關疾病 (HIV inf
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

@@ -27,7 +27,7 @@ description: "Tetrabenazine：預測新適應症為多囊腎疾病 3 型…（�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

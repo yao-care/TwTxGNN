@@ -27,7 +27,7 @@ description: "Probenecid：預測新適應症為腎性低尿酸血症 (hypourice
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

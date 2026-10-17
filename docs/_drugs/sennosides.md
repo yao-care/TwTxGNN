@@ -27,7 +27,7 @@ description: "Sennosides：預測新適應症為頭皮單純性毛髮稀疏症 (
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

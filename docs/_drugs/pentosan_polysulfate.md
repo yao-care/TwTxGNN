@@ -27,7 +27,7 @@ description: "Pentosan Polysulfate：預測新適應症為血小板釋放障礙 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

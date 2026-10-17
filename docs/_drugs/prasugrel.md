@@ -27,7 +27,7 @@ description: "Prasugrel：預測新適應症為肺高壓 (Pulmonary Hypertension
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

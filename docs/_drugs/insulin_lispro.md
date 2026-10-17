@@ -27,7 +27,7 @@ description: "Insulin Lispro：預測新適應症為自體免疫性卵巢炎 (Au
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

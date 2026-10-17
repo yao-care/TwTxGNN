@@ -27,7 +27,7 @@ description: "Procaine：預測新適應症為高鐵血紅素血症 (Methemoglob
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 

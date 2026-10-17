@@ -27,7 +27,7 @@ description: "Benzylpenicillin：預測新適應症為牙冠周炎 (Pericoroniti
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 藥師評估報告
 
