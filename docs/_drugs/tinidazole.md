@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 279
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Tinidazole"
-predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
 last_modified_at: 2026-10-16
 description: "Tinidazole：預測新適應症為停經後萎縮性陰道炎 (postmenopausal atrophic vaginitis)（證據等級 L5）。原適應症：男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎"
+monitor_inn: "Tinidazole"
+predicted_indications: ["ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
 ---
 
 # Tinidazole

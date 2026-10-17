@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 95
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Dupilumab"
-predicted_indications: ["bronchitis", "dermatitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
 last_modified_at: 2026-10-16
 description: "Dupilumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L4）。原適應症：中度至重度異位性皮膚炎（成人及 6 個月以上兒童病人，可併用或不併用局部皮質類固醇）"
+monitor_inn: "Dupilumab"
+predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
 ---
 
 # Dupilumab

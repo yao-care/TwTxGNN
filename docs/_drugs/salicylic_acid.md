@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 254
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Salicylic acid"
-predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to"]
 last_modified_at: 2026-10-16
 description: "Salicylic Acid：預測新適應症為乳突狀結膜炎 (Papillary conjunctivitis)（證據等級 L5）。原適應症：鎮痛藥、退熱藥、抗風濕藥"
+monitor_inn: "Salicylic acid"
+predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
 ---
 
 # Salicylic Acid

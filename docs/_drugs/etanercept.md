@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 102
 evidence_level: L4
 indication_count: 6
-monitor_inn: "Etanercept"
-predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
 last_modified_at: 2026-10-16
 description: "Etanercept：預測新適應症為類風濕性血管炎 (Rheumatoid Vasculitis)（證據等級 L4）。原適應症：對 DMARDs（如 methotrexate）無適當療效之成人活動性類風濕性關節炎"
+monitor_inn: "Etanercept"
+predicted_indications: ["inflammatory spondylopathy", "vertebral disease"]
 ---
 
 # Etanercept

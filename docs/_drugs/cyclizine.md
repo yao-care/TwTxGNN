@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 77
 evidence_level: L4
 indication_count: 9
-monitor_inn: "Cyclizine"
-predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "rhinitis", "recalcitrant atopic dermatitis"]
 last_modified_at: 2026-10-16
 description: "Cyclizine：預測新適應症為過敏性蕁麻疹 (Allergic Urticaria)（證據等級 L4）。原適應症：預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀"
+monitor_inn: "Cyclizine"
+predicted_indications: ["allergic urticaria", "nasal cavity disease", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "recalcitrant atopic dermatitis"]
 ---
 
 # Cyclizine

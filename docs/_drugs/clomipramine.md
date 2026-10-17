@@ -5,10 +5,10 @@ parent: 高證據等級 (L1-L2)
 nav_order: 70
 evidence_level: L1
 indication_count: 10
-monitor_inn: "Clomipramine"
-predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "agoraphobia", "major depressive disorder", "endogenous depression", "attention deficit-hyperactivity disorder"]
 last_modified_at: 2026-10-16
 description: "Clomipramine：預測新適應症為焦慮症 (Anxiety Disorder)（證據等級 L1）。原適應症：憂鬱病"
+monitor_inn: "Clomipramine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "agoraphobia", "major depressive disorder", "endogenous depression", "attention deficit-hyperactivity disorder"]
 ---
 
 # Clomipramine

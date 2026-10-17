@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 136
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Hydrocortisone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "idiopathic steroid-sensitive nephrotic syndrome"]
 last_modified_at: 2026-10-16
 description: "Hydrocortisone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L3）。原適應症：暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀"
+monitor_inn: "Hydrocortisone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 ---
 
 # Hydrocortisone

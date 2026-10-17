@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 214
 evidence_level: L4
 indication_count: 5
-monitor_inn: "perindopril"
-predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 last_modified_at: 2026-10-16
 description: "Perindopril：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L4）。原適應症：高血壓、充血性心臟衰竭"
+monitor_inn: "perindopril"
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Perindopril

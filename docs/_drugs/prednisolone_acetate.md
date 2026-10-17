@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Prednisolone acetate"
-predicted_indications: ["parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
 last_modified_at: 2026-10-16
 description: "Prednisolone Acetate：預測新適應症為寄生蟲性結膜炎 (Parasitic Conjunctivitis)（證據等級 L5）。原適應症：抗炎性皮質固醇"
+monitor_inn: "Prednisolone acetate"
+predicted_indications: ["postinfectious vasculitis"]
 ---
 
 # Prednisolone Acetate

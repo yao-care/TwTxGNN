@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 22
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Alprostadil"
-predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "tricuspid valve agenesis", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 last_modified_at: 2026-10-16
 description: "Alprostadil：預測新適應症為主動脈畸形 (Aortic Malformation)（證據等級 L3）。原適應症：末梢血管擴張劑"
+monitor_inn: "Alprostadil"
+predicted_indications: ["congenital tricuspid stenosis", "congenital valvular dysplasia", "tricuspid valve agenesis", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 ---
 
 # Alprostadil

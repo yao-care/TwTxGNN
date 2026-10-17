@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 272
 evidence_level: L5
 indication_count: 2
-monitor_inn: "Tetryzoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 last_modified_at: 2026-10-16
 description: "Tetryzoline：預測新適應症為鼻腔疾病 (Nasal Cavity Disease)（證據等級 L5）。原適應症：目前台灣有效許可證皆為複方，無有效的單方許可證可引用。複方許可證的核准適應症包括：暫時緩解因輕微眼部刺激所引起之不適、眼睛紅、眼睛癢…"
+monitor_inn: "Tetryzoline"
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Tetryzoline

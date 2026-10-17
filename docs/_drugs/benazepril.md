@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 41
 evidence_level: L5
 indication_count: 5
-monitor_inn: "Benazepril"
-predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 last_modified_at: 2026-10-16
 description: "Benazepril：預測新適應症為惡性腎血管性高血壓 (Malignant Renovascular Hypertension)（證據等級 L5）。原適應症：高血壓"
+monitor_inn: "Benazepril"
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Benazepril

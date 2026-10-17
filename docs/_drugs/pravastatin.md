@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 229
 evidence_level: L4
 indication_count: 9
-monitor_inn: "Pravastatin"
-predicted_indications: ["homozygous familial hypercholesterolemia", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "familial hypercholesterolemia", "hypoalphalipoproteinemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-10-16
 description: "Pravastatin：預測新適應症為同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)（證據等級 L4）。原適應症：血脂調節劑"
+monitor_inn: "Pravastatin"
+predicted_indications: ["homozygous familial hypercholesterolemia", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
 ---
 
 # Pravastatin

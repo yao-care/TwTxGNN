@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 208
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Pemetrexed"
-predicted_indications: ["malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural mesothelioma", "pleural epithelioid mesothelioma", "pleural sarcomatoid mesothelioma", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
 last_modified_at: 2026-10-16
 description: "Pemetrexed：預測新適應症為惡性腹膜間皮瘤 (Malignant Peritoneal Mesothelioma)（證據等級 L3）。原適應症：非鱗狀非小細胞肺癌（顯著鱗狀細胞組織型除外）、惡性肋膜間皮瘤"
+monitor_inn: "Pemetrexed"
+predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
 ---
 
 # Pemetrexed

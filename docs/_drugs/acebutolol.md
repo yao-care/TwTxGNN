@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 2
-monitor_inn: "Acebutolol"
-predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension"]
 last_modified_at: 2026-10-16
 description: "Acebutolol：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）"
+monitor_inn: "Acebutolol"
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Acebutolol
