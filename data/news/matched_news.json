@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-17T21:53:09.858392+00:00",
+  "last_updated": "2026-10-17T23:38:59.734467+00:00",
   "total_count": 43,
   "matched_count": 13,
   "news": [
+    {
+      "id": "292b7565ce8f",
+      "title": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善",
+      "published": "2026-10-17T22:40:36+00:00",
+      "summary": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPeXhTdVN3bGpBMGFQSlhhNGRnVG4zV0pNeDhnWms3RUZpYi1qd3o3MDNXdVZROGpUVDZieHpHSXlFd1h6eTh3bkVrdVFoY0ZTYTlaamVTUk1BX3o1UzhTbjlJZHZZQkZUZk9URVU5RFVrV3ZHeGV1Uk5OUXJURFJxVlRsSFRFc3NOMUpFaGQya1BBRUgzcG8tMnJKUHh3VDE2QmFuSVpUMnZLOFJwY2x6aGx2RDZVVlFOdHFoVm5OMHdHU1k1M1hGSW5FSTV0TUpyVzhZNEQ0UjdUNkg1TVYyU0FaLUJKWFU2ZDZNS3NVRW5fa013dkc2WENSbF9VTy1GbDY0RXBBNzNSQk10TlM1THlxbWc0UTVORUxwVHVzazl2X0MyV1lScTBxVGNIWWtWa2JUbXFFZUhrY0FwUEd0WS1JS3pobWx4NDludDdQU1Z1enR3NEl4ckpTcklBNDNWYnowSEl2UWZOUTZvc1JpYQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b8fc7cfadc4c",
       "title": "花21年確診XLH 她從一天300步走到3000步",
@@ -95,19 +108,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNZVZIMWJ2QWVsd1VBLTdOVjFVVWJ2VENyaS1uc1U2eUlzVVdYaF9NeGZqYURNRmJhMWp2Z2pTWWZLSVRhVTFNekdtdlNqcklCMEI5ZnAySWt2VnZXWlN2VVJEajFyRW54dlBiaFpyN28wQVlVWVlBWElWc291TzQ1SVFnVDRjRlFkWThYdGdxNG5nRzEzZDRGTUJ1VV9hckFGWUp0WGJ4ZlNlSThVV0xUM05hNXRjb3JYV1AwWnRtVHJYU3RTVFNMR1djcFFXU3EtUFBPNk8wNmZWYUszTlFvN2Z1LXRfcXRxLV9KaXJsdHdSQjI3YTMzWDJzNnNDWEY1dzZaTmRvNDZUc05qdjVfREFzMG1mSWF5QTF3TU5KT3Z0UXZSaktBNjJlc3JITk5hTzJrQ25qYVJLZUhqT19sV2RvWlVIalJwX19ZUjdwcUgwcmtUUFVzUzZ3WWRfTjlCRlU2RXlzNzdVLWhRb09rOVp6czdlYm4yRTNsbnVQRkJXcFJEWUxMQTdvWEZLVE84WXRyNzBqUl8tdWZZVHpnREppZkxITGlVQXBMSFI2X3BOdVVabkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e077c1b441b7",
-      "title": "每日吃多少全穀物最健康？研究揭「黃金攝取量」 血壓膽固醇等多項指標改善",
-      "published": "2026-10-16T22:40:09+00:00",
-      "summary": "每日吃多少全穀物最健康？研究揭「黃金攝取量」 血壓膽固醇等多項指標改善&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPRl9DOE5LS0Z1ZzdXX1dnTFRlbm83ODN2VGFmVmNYUW1lWDlhYmdtNEVBdEo5OERyMW44X04yXzJPV21pbl9mcUd3OUl1X1RmdmE0QkNZaEFId0ZFc0c3OHVfUkpWd3FwdUhfYTMzRUZFMmV2UU5DSXkzYmlmM09tbXBkWlQ4OExuQUdfczRVWFNIRndyTWo3X0taWHQ2eThRc3VlSm9IVHlxUE1pQklPNVFYaC1Cejlmc3VJVThrSjZLZEk3MEFTT2FBVWt0OGlIdVZfenlTTGlYMEVMMEdnUndNWnJfSlZxQUtjMkJYalhjQnhoektkMm0tLThjaVlnbmxjeTJNZGRlX0JkV2Rpd2Jia3lsTFRWWVk1cjRwS2JrYXh0NzdIODc5NWZ1c3RNNjAxY3dVZTNPYmpxelBVbkxvZkFqN29MWlZWQVllUnE0T0NNODZ3N0lMMllneGNqcVotZk5JNDhqTVYwbWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -209,7 +209,7 @@
     {
       "id": "182fdaa23eab",
       "title": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報 - LINE TODAY",
-      "published": "2026-10-16T11:32:07+00:00",
+      "published": "2026-10-16T11:30:51+00:00",
       "summary": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -1513,14 +1513,14 @@
       "matched_keywords": []
     },
     {
-      "id": "b60177cbe31e",
-      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站",
+      "id": "a058d9b3389f",
+      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士",
       "published": "2026-10-12T03:00:39+00:00",
-      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士&nbsp;&nbsp;星島頭條",
       "sources": [
         {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWNGcmVpbVF3RG1vOVFNb3VpRzgxTURJMzNMX21pSm40Skd5dUN0cEVuWVZhcjkxWm16UXd0ajIzRXZDTGgxejdoY0lDLTBXdjBTTzA2MUJJV29KSDJ1S0ozRjZEQlNWbTdpMERhb3duLUNNckZUeVN5bW9nMmVJeWdUTF85dmZyRGVsUER3dTFSZ0h3bjJmeUVlc2syVkpvWFFDeUxMaGNYcGUwLXRnc0NTbFJZN0pwOVYyQUxGWk9UMXBJeFJJNXZVS0VtU2pBUGJfZ1otY3JwcFFhR2ZpTVhIYUdYS0tzQTJIYV8xT2JUUlFZM0s4Z1lHODBadkMzTm1yUkN4eXpUaHItQjViVXVaOFFpR0sxME1LSFppOFRpUzZDR2NIVWpSckZuNDJabWxHX1Nib1BNdE80UmxBc3dVM25GSTZEMVJLemJFOGZFMW40U01kYmRkZTJ4UQ?oc=5"
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPaEJ2dU5FT0R5OThIN2Y1czkxdlVWbXZId3Vrb2t0Q3V3X0lVZ3dtYi1qWk5zakotQTJDS1JCUVlucng5VzhnbjZ6bDc0cW5uMG1MMmdTNmJ5Yzc3RDg4dHRta01QMjMyYU5tVkZoczhnRjN0WUhFa0V5MWlubUFxOE9ZLVdhT0dUVXVDaUwzYnI3amx0NzFIakk0SHo0ak9BME9YZUY3VzJ2ZlVFOGhMYmNNeURRM0NtMGM5N0ZmbS1lT3JwR3ZpSDZsLWRrUDEzdS1PNGYyb2lKdURObjYtVTAxY3FhMkNjRlpRUHNUZHlHZXpnV3NzdVJzbHlBWXFWNFZJakRDbUthVGRFZ2V6OXBCYU9kZnpZb0s1TVJHZkRFRVpJUmFwZlNON1dhQjMwNjdPbFVkZi1zMVpKbmdIVDVpc2pKVUNDcWZXMkRtRUpYT0NJWi1qWEJXaURDMjk0Z2Vrb2RJNEtISkJVN0dFMFpRQXhDaThWY0tDb2ZOLVVGbGY0UmVycUsxR3VMWHp2UXV5UGEtN21DR1ozaExKOHd5ZGJ1dnpNMU55eQ?oc=5"
         }
       ],
       "matched_keywords": []

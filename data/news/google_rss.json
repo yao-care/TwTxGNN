@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-17T21:53:08.052081+00:00",
+  "fetched_at": "2026-10-17T23:38:57.459515+00:00",
   "count": 43,
   "news": [
     {
@@ -88,18 +88,6 @@
       ]
     },
     {
-      "id": "c3dca69e2602",
-      "title": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵 - Yahoo新聞",
-      "published": "2026-10-11T02:21:44+00:00",
-      "summary": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZkd1UWJuODc3M1NmMTdfd2l2M2t1T3l6MnNxUkI1dzJnY2xGS2FlMWFYeGFRbjdaYnVzY25NX0FOXzYyY1dRWUppMEcwT0FXOV9yVmpyWF9SMnJiUGVUM0JPaXpCQzNMcWVPQWVkblNvR3FXZUVvTG5nQVJwN1dzUzBIUjZ6MmVfak5lYXBWNzBWMWVMa2VFOV9vNWxYS3Y4Rlp1Y3pydG03SDJQZVJGZW91S1V0QVN3MkR6ZWttNzR5SG0tcFdoenphNTh0MUpyNm5kWi15cXh2aTR1dXZhZEdFQTAzVmQ3ZWJmcG5YN2V5UEtHdFpheG1mczFURjRvNnQweTRlN1gxTm5QaXl3TTBwWUpiUHFRSmRRT01NbzY1TFpJTGZZbHl1YzY0ejZLRVNnVzNpcDB2MWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a42cc6da39f5",
       "title": "《華爾街日報》關於乳糖不耐受的是與非 - 鉅亨號",
       "published": "2026-10-15T09:10:00+00:00",
@@ -112,9 +100,21 @@
       ]
     },
     {
+      "id": "c3dca69e2602",
+      "title": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵 - Yahoo新聞",
+      "published": "2026-10-11T02:21:44+00:00",
+      "summary": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZkd1UWJuODc3M1NmMTdfd2l2M2t1T3l6MnNxUkI1dzJnY2xGS2FlMWFYeGFRbjdaYnVzY25NX0FOXzYyY1dRWUppMEcwT0FXOV9yVmpyWF9SMnJiUGVUM0JPaXpCQzNMcWVPQWVkblNvR3FXZUVvTG5nQVJwN1dzUzBIUjZ6MmVfak5lYXBWNzBWMWVMa2VFOV9vNWxYS3Y4Rlp1Y3pydG03SDJQZVJGZW91S1V0QVN3MkR6ZWttNzR5SG0tcFdoenphNTh0MUpyNm5kWi15cXh2aTR1dXZhZEdFQTAzVmQ3ZWJmcG5YN2V5UEtHdFpheG1mczFURjRvNnQweTRlN1gxTm5QaXl3TTBwWUpiUHFRSmRRT01NbzY1TFpJTGZZbHl1YzY0ejZLRVNnVzNpcDB2MWc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "182fdaa23eab",
       "title": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報 - LINE TODAY",
-      "published": "2026-10-16T11:32:07+00:00",
+      "published": "2026-10-16T11:30:51+00:00",
       "summary": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -292,6 +292,18 @@
       ]
     },
     {
+      "id": "292b7565ce8f",
+      "title": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善 - 巴士的報",
+      "published": "2026-10-17T22:40:36+00:00",
+      "summary": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPeXhTdVN3bGpBMGFQSlhhNGRnVG4zV0pNeDhnWms3RUZpYi1qd3o3MDNXdVZROGpUVDZieHpHSXlFd1h6eTh3bkVrdVFoY0ZTYTlaamVTUk1BX3o1UzhTbjlJZHZZQkZUZk9URVU5RFVrV3ZHeGV1Uk5OUXJURFJxVlRsSFRFc3NOMUpFaGQya1BBRUgzcG8tMnJKUHh3VDE2QmFuSVpUMnZLOFJwY2x6aGx2RDZVVlFOdHFoVm5OMHdHU1k1M1hGSW5FSTV0TUpyVzhZNEQ0UjdUNkg1TVYyU0FaLUJKWFU2ZDZNS3NVRW5fa013dkc2WENSbF9VTy1GbDY0RXBBNzNSQk10TlM1THlxbWc0UTVORUxwVHVzazl2X0MyV1lScTBxVGNIWWtWa2JUbXFFZUhrY0FwUEd0WS1JS3pobWx4NDludDdQU1Z1enR3NEl4ckpTcklBNDNWYnowSEl2UWZOUTZvc1JpYQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "06aaa6f16289",
       "title": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關 - 明日科學",
       "published": "2026-10-16T06:46:47+00:00",
@@ -312,18 +324,6 @@
         {
           "name": "Yahoo",
           "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNOS1CMVRmajFnMlZ0djV4ZWZTVFA1TEgtM3hVM1lTelU4QThVM0I3RW84Y3p3YVNTam1COTF5X1Z2YnRfMHpSUjBaSDl6cmk2R3FkLWJWN29NNTRfZGszMDlIMFJIUVN4N2gyUGFwMTVldG1BSktwVkYzVS1xRFY4d1RTOWxkOGR6bnE4eU1vd0VhTC1qT1BFZnZ5cnJEOTFrVUU5MXhmTlFjcElGR0lTRS1FRTI3MldETXRKQThXLWxqMzR4eGZhbjB2Y2FDRjNLcDh1TUNIRUVnUXZRVWp0SmxRd3Z2alIzZHdkZXdEdDRpUV93M2swMkxIdjMzRGN5UU4yNWZzOU44VDdBZEdsaEFHdnhJN2dPUXh1SG9USHNodVdFVG5Nc04zb2F6MGFVN3h5OEtUdGFSUjZVandEZzdTMWVpeEtQc1RGMnBITTg1YUdPdzVFbVp0SGZTUFoyZ2d0RkhfZjBaSVNINEs2Z0ZhUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e077c1b441b7",
-      "title": "每日吃多少全穀物最健康？研究揭「黃金攝取量」 血壓膽固醇等多項指標改善 - 巴士的報",
-      "published": "2026-10-16T22:40:09+00:00",
-      "summary": "每日吃多少全穀物最健康？研究揭「黃金攝取量」 血壓膽固醇等多項指標改善&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPRl9DOE5LS0Z1ZzdXX1dnTFRlbm83ODN2VGFmVmNYUW1lWDlhYmdtNEVBdEo5OERyMW44X04yXzJPV21pbl9mcUd3OUl1X1RmdmE0QkNZaEFId0ZFc0c3OHVfUkpWd3FwdUhfYTMzRUZFMmV2UU5DSXkzYmlmM09tbXBkWlQ4OExuQUdfczRVWFNIRndyTWo3X0taWHQ2eThRc3VlSm9IVHlxUE1pQklPNVFYaC1Cejlmc3VJVThrSjZLZEk3MEFTT2FBVWt0OGlIdVZfenlTTGlYMEVMMEdnUndNWnJfSlZxQUtjMkJYalhjQnhoektkMm0tLThjaVlnbmxjeTJNZGRlX0JkV2Rpd2Jia3lsTFRWWVk1cjRwS2JrYXh0NzdIODc5NWZ1c3RNNjAxY3dVZTNPYmpxelBVbkxvZkFqN29MWlZWQVllUnE0T0NNODZ3N0lMMllneGNqcVotZk5JNDhqTVYwbWc?oc=5"
         }
       ]
     },
@@ -376,18 +376,6 @@
       ]
     },
     {
-      "id": "5c7c931af401",
-      "title": "醫語怡情｜家中不可忽視的兒童中毒風險 - 香港經濟日報HKET",
-      "published": "2026-10-15T23:00:00+00:00",
-      "summary": "醫語怡情｜家中不可忽視的兒童中毒風險&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc25KM2NKS2NsdE1KakV3ZzZFY2VBWlFGWmkzVlg2VjR0bzE5Z1dYSUFGSWVUYUgwOVlFXy1leWFoVHphWXZraUdXS1FlUnJ5U1N2SE5tSGZtU2EyVllYSzY3Xy1sam15aGxHZm9oQWwzRkpucHVSOEhlcGp6Qy0tOFRJelc0X295c0pjdjBqQi1UTWkzV0dUcW1rMkViRmtnRjNhckU3SGlIclRDeW96QlZyQVJ6SWg0dkhTUTJ0UjBUcklJSmZwN1FQMHhDd1c4Y2lvUEMtQk9EaHQ0X2tNQ2RsM1hPTXJ2c01iWllpcTBTc3cxcEJ2SllHWG5pQXpkOW9YclNxUjFnd0hzbHJMd1ZkY1ZnRVQ5MDNPd0tyOVM1OUpWYUVOSHJR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "440678c0b88c",
       "title": "最新研究顯示本港對於HIV「確診即日治療」接受度極高 - healthyD",
       "published": "2026-10-14T08:03:11+00:00",
@@ -436,18 +424,6 @@
       ]
     },
     {
-      "id": "b60177cbe31e",
-      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站 - CCUE",
-      "published": "2026-10-12T03:00:39+00:00",
-      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWNGcmVpbVF3RG1vOVFNb3VpRzgxTURJMzNMX21pSm40Skd5dUN0cEVuWVZhcjkxWm16UXd0ajIzRXZDTGgxejdoY0lDLTBXdjBTTzA2MUJJV29KSDJ1S0ozRjZEQlNWbTdpMERhb3duLUNNckZUeVN5bW9nMmVJeWdUTF85dmZyRGVsUER3dTFSZ0h3bjJmeUVlc2syVkpvWFFDeUxMaGNYcGUwLXRnc0NTbFJZN0pwOVYyQUxGWk9UMXBJeFJJNXZVS0VtU2pBUGJfZ1otY3JwcFFhR2ZpTVhIYUdYS0tzQTJIYV8xT2JUUlFZM0s4Z1lHODBadkMzTm1yUkN4eXpUaHItQjViVXVaOFFpR0sxME1LSFppOFRpUzZDR2NIVWpSckZuNDJabWxHX1Nib1BNdE80UmxBc3dVM25GSTZEMVJLemJFOGZFMW40U01kYmRkZTJ4UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e108b1df80a7",
       "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元",
       "published": "2026-10-13T11:00:00+00:00",
@@ -484,6 +460,18 @@
       ]
     },
     {
+      "id": "a058d9b3389f",
+      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士 - 星島頭條",
+      "published": "2026-10-12T03:00:39+00:00",
+      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPaEJ2dU5FT0R5OThIN2Y1czkxdlVWbXZId3Vrb2t0Q3V3X0lVZ3dtYi1qWk5zakotQTJDS1JCUVlucng5VzhnbjZ6bDc0cW5uMG1MMmdTNmJ5Yzc3RDg4dHRta01QMjMyYU5tVkZoczhnRjN0WUhFa0V5MWlubUFxOE9ZLVdhT0dUVXVDaUwzYnI3amx0NzFIakk0SHo0ak9BME9YZUY3VzJ2ZlVFOGhMYmNNeURRM0NtMGM5N0ZmbS1lT3JwR3ZpSDZsLWRrUDEzdS1PNGYyb2lKdURObjYtVTAxY3FhMkNjRlpRUHNUZHlHZXpnV3NzdVJzbHlBWXFWNFZJakRDbUthVGRFZ2V6OXBCYU9kZnpZb0s1TVJHZkRFRVpJUmFwZlNON1dhQjMwNjdPbFVkZi1zMVpKbmdIVDVpc2pKVUNDcWZXMkRtRUpYT0NJWi1qWEJXaURDMjk0Z2Vrb2RJNEtISkJVN0dFMFpRQXhDaThWY0tDb2ZOLVVGbGY0UmVycUsxR3VMWHp2UXV5UGEtN21DR1ozaExKOHd5ZGJ1dnpNMU55eQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "68f4707498f8",
       "title": "低劑量電療助退化性關節炎患者減痛 - 香港經濟日報HKET",
       "published": "2026-10-15T00:00:00+00:00",
@@ -516,6 +504,18 @@
         {
           "name": "CCUE",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTDRlVU5NWG00aVhoZ0xDRlQxajBBYmN0NjhRT0pfMU9RX1JCTGlmX2ljakZlNlhnMEtiWFR3b1lMYjNqZlVJajl6SjJLRGMtanN1TG1MdEZ6dkNJU1hsNXBHckVNLWZDdnlhMkVuazdXUGVmNWFieklPbTFiZWZaVms3bHVmOUlGUmlMYTVQUEdsS3pDY1JhUEE4TWxEY1FQdmpTcUEyeVluUXo0RFhlNHNwTGNvTThCOTRtejdlX2ppMW84NUstbFdFZHdRTHZsNGkxNHA4UHNMaGJrdmZrZWswYVRnTnVaUHprN1ZKQU5jcWlJd2lWUm9RYjFheUhGUmFyWTg1SlBieUtWRXpMOGQzWDVFRHFuR2hmRkMyWkxKOGZEbVRfd183QmFzQTJ3eHFQWVpfcGJiM25ySVFtQmMzYzBudUxUaEtBYlhGS241S3lXNUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5c7c931af401",
+      "title": "醫語怡情｜家中不可忽視的兒童中毒風險 - 香港經濟日報HKET",
+      "published": "2026-10-15T23:00:00+00:00",
+      "summary": "醫語怡情｜家中不可忽視的兒童中毒風險&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc25KM2NKS2NsdE1KakV3ZzZFY2VBWlFGWmkzVlg2VjR0bzE5Z1dYSUFGSWVUYUgwOVlFXy1leWFoVHphWXZraUdXS1FlUnJ5U1N2SE5tSGZtU2EyVllYSzY3Xy1sam15aGxHZm9oQWwzRkpucHVSOEhlcGp6Qy0tOFRJelc0X295c0pjdjBqQi1UTWkzV0dUcW1rMkViRmtnRjNhckU3SGlIclRDeW96QlZyQVJ6SWg0dkhTUTJ0UjBUcklJSmZwN1FQMHhDd1c4Y2lvUEMtQk9EaHQ0X2tNQ2RsM1hPTXJ2c01iWllpcTBTc3cxcEJ2SllHWG5pQXpkOW9YclNxUjFnd0hzbHJMd1ZkY1ZnRVQ5MDNPd0tyOVM1OUpWYUVOSHJR?oc=5"
         }
       ]
     }
