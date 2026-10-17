@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-17T19:52:18.218070+00:00",
+  "fetched_at": "2026-10-17T21:53:08.052081+00:00",
   "count": 43,
   "news": [
     {
-      "id": "b096bcf74a52",
-      "title": "一天走不到300步、牙齒僅剩4顆 罕病XLH折磨終身 病友盼新藥擴大給付 - 經濟日報",
-      "published": "2026-10-17T14:26:29+00:00",
-      "summary": "一天走不到300步、牙齒僅剩4顆 罕病XLH折磨終身 病友盼新藥擴大給付&nbsp;&nbsp;經濟日報",
+      "id": "b8fc7cfadc4c",
+      "title": "花21年確診XLH 她從一天300步走到3000步 - 自由健康網",
+      "published": "2026-10-17T21:30:00+00:00",
+      "summary": "花21年確診XLH 她從一天300步走到3000步&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KczNtbGx3RmZSQkx6TkdGVWltWjF5TXJKSjZGSTl6U0hPMmZKT2tSWm5tSE1DZ0pONlNVNU4zNjU3UFBNSmxEb2VlMzk1UURjOUQyVWRibEVSZ9IBX0FVX3lxTE9uY21kZWlDN0ZpSmc5TjU5WEl3dU03M19TNXJITVJjbHJGVnJXcVdMczdYSkU2UTY4ODIydzhRUkxRMUdIcWxMaHBJblZDd2hPMHBNeVhDNV9QTTVaelN3?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1obUNQZHBVdnA1bjN2WHBjYUFvcWV3emh2Y2FydHpCZnBRbmp6Mkt1azNfZWJlb05kOGl6UHJIWkFWNWhyYXFvNVczZVBFS2ttMmRJbGZNaTFvWFE?oc=5"
         }
       ]
     },
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "c75e937e8195",
-      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險 - 行銷人",
-      "published": "2026-10-17T02:10:20+00:00",
-      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fe511696e76b",
       "title": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡 - 民視新聞網",
       "published": "2026-10-16T20:00:00+00:00",
@@ -48,6 +36,18 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbDlqVU1rUmU4VTlaZTR4SXNTVVNIMktITWVhRU41R0U4RFhWbTRfZ2hkQUs3WURfdmJYaXdMWm1zMEFPbTZ1TDJOVUVzOHVjVTdIcWlSd2N6dWtNcl9MeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c75e937e8195",
+      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險 - 行銷人",
+      "published": "2026-10-17T02:10:20+00:00",
+      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
         }
       ]
     },
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "c3dca69e2602",
-      "title": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵 - Yahoo新聞",
-      "published": "2026-10-11T02:21:44+00:00",
-      "summary": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZkd1UWJuODc3M1NmMTdfd2l2M2t1T3l6MnNxUkI1dzJnY2xGS2FlMWFYeGFRbjdaYnVzY25NX0FOXzYyY1dRWUppMEcwT0FXOV9yVmpyWF9SMnJiUGVUM0JPaXpCQzNMcWVPQWVkblNvR3FXZUVvTG5nQVJwN1dzUzBIUjZ6MmVfak5lYXBWNzBWMWVMa2VFOV9vNWxYS3Y4Rlp1Y3pydG03SDJQZVJGZW91S1V0QVN3MkR6ZWttNzR5SG0tcFdoenphNTh0MUpyNm5kWi15cXh2aTR1dXZhZEdFQTAzVmQ3ZWJmcG5YN2V5UEtHdFpheG1mczFURjRvNnQweTRlN1gxTm5QaXl3TTBwWUpiUHFRSmRRT01NbzY1TFpJTGZZbHl1YzY0ejZLRVNnVzNpcDB2MWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1d8782ed5988",
       "title": "「1食物」甜爆卻抗發炎　還能預防糖尿病 - 鏡週刊Mirror Media",
       "published": "2026-10-12T04:11:00+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUXY1Wm1ZVk5OQkdHcWpCOU1LTDhXU3F3SHJxZlgyZ1NicW96cDRRWHUtWFhKT3NZUFVqSmsxSFN2LVhQaUVMU3A5NlZMb0VjUFlzeER5dEJaQ1I20gFiQVVfeXFMUHFtUk9nUU16eWxEUC15QmJ3dGFQNWZHSU5XLW40c1JQd2IteE11NzJiRi1LOHFwamRSZmQybHdqaVBLRGRSbDlNR3pGc3Z6TzF0MmRVMG14QldQSXN6Ujk3Mnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3dca69e2602",
+      "title": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵 - Yahoo新聞",
+      "published": "2026-10-11T02:21:44+00:00",
+      "summary": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZkd1UWJuODc3M1NmMTdfd2l2M2t1T3l6MnNxUkI1dzJnY2xGS2FlMWFYeGFRbjdaYnVzY25NX0FOXzYyY1dRWUppMEcwT0FXOV9yVmpyWF9SMnJiUGVUM0JPaXpCQzNMcWVPQWVkblNvR3FXZUVvTG5nQVJwN1dzUzBIUjZ6MmVfak5lYXBWNzBWMWVMa2VFOV9vNWxYS3Y4Rlp1Y3pydG03SDJQZVJGZW91S1V0QVN3MkR6ZWttNzR5SG0tcFdoenphNTh0MUpyNm5kWi15cXh2aTR1dXZhZEdFQTAzVmQ3ZWJmcG5YN2V5UEtHdFpheG1mczFURjRvNnQweTRlN1gxTm5QaXl3TTBwWUpiUHFRSmRRT01NbzY1TFpJTGZZbHl1YzY0ejZLRVNnVzNpcDB2MWc?oc=5"
         }
       ]
     },
@@ -148,18 +148,6 @@
       ]
     },
     {
-      "id": "0bf8707d4fc9",
-      "title": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫 - 《超越新聞網》",
-      "published": "2026-10-17T03:31:01+00:00",
-      "summary": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫&nbsp;&nbsp;《超越新聞網》",
-      "sources": [
-        {
-          "name": "《超越新聞網》",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03R2ZnQUZnQWNWWjRlTnFDWFRCeE9RcFo3b1J4UkRUVmkzM1hRZDhWNUtDRV9XMmlpYTBQcndMaDN5TjF0Vm9kNFp3ck1vTVFNOHB2Yg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "173e0729b7b9",
       "title": "新興新冠變異株 SV.2.4橫行中國南方 - 新唐人電視台",
       "published": "2026-10-15T05:57:00+00:00",
@@ -168,6 +156,18 @@
         {
           "name": "新唐人電視台",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSVlLeFZwaHZwQWhUdXN1NWNuZU16RVZSTVZRZnZFM25sWURyQlZuOThjYmFLdE5HNFU3YTlvTVhEb1FuQWFQQmRER0RrYVRtdGRTVWZrNk11V1BlcDJPZNIBZkFVX3lxTFB6bTJIT2lhUjJWcG9qdVFvOFZXNnpiX1pVWFZtMmVNZUZCSXBqTWxGNkhFdEN2SVNrcjdibUp0SFYtRWt5eXh6OTBxVFVScGwyMmJmSVVOamRrZGduNm1Nam40T0VSQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bf8707d4fc9",
+      "title": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫 - 《超越新聞網》",
+      "published": "2026-10-17T03:31:01+00:00",
+      "summary": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫&nbsp;&nbsp;《超越新聞網》",
+      "sources": [
+        {
+          "name": "《超越新聞網》",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03R2ZnQUZnQWNWWjRlTnFDWFRCeE9RcFo3b1J4UkRUVmkzM1hRZDhWNUtDRV9XMmlpYTBQcndMaDN5TjF0Vm9kNFp3ck1vTVFNOHB2Yg?oc=5"
         }
       ]
     },
@@ -184,14 +184,14 @@
       ]
     },
     {
-      "id": "084ecf2a1d7b",
-      "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆 - 健康醫療網",
-      "published": "2026-10-14T05:00:00+00:00",
-      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆&nbsp;&nbsp;健康醫療網",
+      "id": "2ab4d892bbcd",
+      "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆 - Yahoo新聞",
+      "published": "2026-10-14T05:08:17+00:00",
+      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWkFoQlJPYVdVd1VQVTRoYzJFcm4xQTVLMWUyRDlXTG42VUhyUGpRNjRkby1ONzBBWV9nTzdXXzA0eEh0dngtNk5oMHgzZ2VMRDBUemFn?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPZ0RkNVNhQWtBcnZkZ1cxeDFSU3VnVlBlM0FGM1kxTS1XUy11TXZ5RE1uUnV0cHc4Y3o0eF8xMkZaN0FaX3NFcEQtdFA0dGRkalEyZUxvMGJKMzFXU3JZWGgwMGE1SFc1Slk4YXA1YWJtT1hNYlFZNjIzdEs3OXBxM0lIaDZlWUtwQVJScmdXLUFBRGpZUmY0ZFZ3NmZ1dW96bkwteF9VdUZ1dm1YbEN5a052YUw2cE5pTHBlei0yUHFOTklnX3FUUk5iM2x2UF9ucTJ5TGpqTzdSTy04OHY2ZTQ4b0otQzgwRUlvLVBsSlhzMjVHNUF3eWR2YUFlUHpmdFlZYVRHNE92WXVUdUtGSVFEQ0c2MjlFeVNDZVluY1VhaW1rdDVKVElDUFAxSlVzNnE1NkpzY05xbVZrM1BsakhWY3ZOck5YQmlqaGV1MTlxNU9ZNWxZb19TQ08xbXFGb3RUVnVHWDN3aHc3M1FrTDhpQ2picWdFUFpyNEd5UmtYRzRZOGlFakx0YW9jeXI4eWF2Rjk5REQ2M19kUXhiTVh1Qy1YUGMxam1MbDBBdTB0X3M?oc=5"
         }
       ]
     },
@@ -232,18 +232,6 @@
       ]
     },
     {
-      "id": "0bdd8cf9dc1a",
-      "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發 - 世界新聞網",
-      "published": "2026-10-12T13:06:43+00:00",
-      "summary": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fffff1fe7ef5",
       "title": "47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0",
       "published": "2026-10-12T10:16:24+00:00",
@@ -252,6 +240,18 @@
         {
           "name": "TVBS 健康2.0",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bdd8cf9dc1a",
+      "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發 - 世界新聞網",
+      "published": "2026-10-12T13:06:43+00:00",
+      "summary": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5"
         }
       ]
     },
@@ -364,18 +364,6 @@
       ]
     },
     {
-      "id": "979debc151db",
-      "title": "新研究：超加工食品類型影響大腸癌風險 - Singtaousa",
-      "published": "2026-10-15T21:41:03+00:00",
-      "summary": "新研究：超加工食品類型影響大腸癌風險&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c1fee89c75fd",
       "title": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴 - UHK 港生活",
       "published": "2026-10-17T12:28:27+00:00",
@@ -412,6 +400,18 @@
       ]
     },
     {
+      "id": "979debc151db",
+      "title": "新研究：超加工食品類型影響大腸癌風險 - Singtaousa",
+      "published": "2026-10-15T21:41:03+00:00",
+      "summary": "新研究：超加工食品類型影響大腸癌風險&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5"
+        }
+      ]
+    },
+    {
       "id": "73a124cde2b6",
       "title": "今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！ - Women's Health",
       "published": "2026-10-15T10:21:51+00:00",
@@ -432,6 +432,18 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zQ25DNHducTBnYjYtbjN1bUo2VUlFbzZza1ZONHN0cFQtVkRRcW11UzdUT0xFNUNYY2NpeG1sdTN6d0s1NDdrWG9Fd1d1X3lOMVROenBDREo1T1dHZGhvRNIBZkFVX3lxTE1mSFNSQWZHdzhtOVpkako5UVlMWlhDdFctc2IwZ0R3VUM0SmRtdzZMZVIyTmdndGUwZHhfU3B5NzRDYldXdmkyZFpVQ0E0YTFBSXpieEtnWnRTZmNBeFkzaXdfZjE5UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b60177cbe31e",
+      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站 - CCUE",
+      "published": "2026-10-12T03:00:39+00:00",
+      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠附減塑實用貼士| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPQWNGcmVpbVF3RG1vOVFNb3VpRzgxTURJMzNMX21pSm40Skd5dUN0cEVuWVZhcjkxWm16UXd0ajIzRXZDTGgxejdoY0lDLTBXdjBTTzA2MUJJV29KSDJ1S0ozRjZEQlNWbTdpMERhb3duLUNNckZUeVN5bW9nMmVJeWdUTF85dmZyRGVsUER3dTFSZ0h3bjJmeUVlc2syVkpvWFFDeUxMaGNYcGUwLXRnc0NTbFJZN0pwOVYyQUxGWk9UMXBJeFJJNXZVS0VtU2pBUGJfZ1otY3JwcFFhR2ZpTVhIYUdYS0tzQTJIYV8xT2JUUlFZM0s4Z1lHODBadkMzTm1yUkN4eXpUaHItQjViVXVaOFFpR0sxME1LSFppOFRpUzZDR2NIVWpSckZuNDJabWxHX1Nib1BNdE80UmxBc3dVM25GSTZEMVJLemJFOGZFMW40U01kYmRkZTJ4UQ?oc=5"
         }
       ]
     },
@@ -468,18 +480,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNZTFwZUNUN1l3clctRi1GN2hFMUtkeGhSdld4QjFtcHV1b2RpSFJSdDhSVmdSdDA5eHJ3RTQ0OUlIYUpweVZjVFlEXzZpd2ZsNnhMOWtVdWVCcmpmZXFBQ3U1emtGU0F5YWhiSE1fQ3UxVkl5aVFxRDAwRk9ZTUlHSWQ0SExwWTFoUnAzUGVlZXlXSTdaSllRcjU5bldnR1JvOHhhc3NkRWN2bUdyUm1ZMGdEQkJreDM5N1NRV2hwZkpVTmo1UVN0WVJGbFF6ZVd0VkRmNFJFVUtsaDRTQnlDMGZ3LV9tcEJfbU4yNmZFbzJ2XzdlOHNBM2RrWG1OQ3B5MXVqNG1lUkNnWFNSSGZvRVNHR2xBR2g4M1lOTVlpM2NBZ2Y1YmFRaG9DNTNKWDlnbjBOZHNLN1FCSDVCT3RvcDZoMVFTV2N0V1FxWU1jclVVSmdsYk5NNjBEUmh0LWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a058d9b3389f",
-      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士 - 星島頭條",
-      "published": "2026-10-12T03:00:39+00:00",
-      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPaEJ2dU5FT0R5OThIN2Y1czkxdlVWbXZId3Vrb2t0Q3V3X0lVZ3dtYi1qWk5zakotQTJDS1JCUVlucng5VzhnbjZ6bDc0cW5uMG1MMmdTNmJ5Yzc3RDg4dHRta01QMjMyYU5tVkZoczhnRjN0WUhFa0V5MWlubUFxOE9ZLVdhT0dUVXVDaUwzYnI3amx0NzFIakk0SHo0ak9BME9YZUY3VzJ2ZlVFOGhMYmNNeURRM0NtMGM5N0ZmbS1lT3JwR3ZpSDZsLWRrUDEzdS1PNGYyb2lKdURObjYtVTAxY3FhMkNjRlpRUHNUZHlHZXpnV3NzdVJzbHlBWXFWNFZJakRDbUthVGRFZ2V6OXBCYU9kZnpZb0s1TVJHZkRFRVpJUmFwZlNON1dhQjMwNjdPbFVkZi1zMVpKbmdIVDVpc2pKVUNDcWZXMkRtRUpYT0NJWi1qWEJXaURDMjk0Z2Vrb2RJNEtISkJVN0dFMFpRQXhDaThWY0tDb2ZOLVVGbGY0UmVycUsxR3VMWHp2UXV5UGEtN21DR1ozaExKOHd5ZGJ1dnpNMU55eQ?oc=5"
         }
       ]
     },
