@@ -14574,24 +14574,6 @@
       "url": "/drugs/warfarin/"
     },
     {
-      "name": "Warfarin Af",
-      "slug": "warfarin_af",
-      "brands": [],
-      "original": "",
-      "level": "L1",
-      "indications": [],
-      "url": "/drugs/warfarin-af/"
-    },
-    {
-      "name": "Warfarin Atrial Fibrillation",
-      "slug": "warfarin_atrial_fibrillation",
-      "brands": [],
-      "original": "",
-      "level": "L1",
-      "indications": [],
-      "url": "/drugs/warfarin-atrial-fibrillation/"
-    },
-    {
       "name": "Xylitol",
       "slug": "xylitol",
       "brands": [],

@@ -295,8 +295,8 @@ Vitamin E,L5,10,僅模型預測 (L5),/drugs/vitamin_e/
 Vonoprazan,L2,10,高證據等級 (L1-L2),/drugs/vonoprazan/
 Voriconazole,L5,0,僅模型預測 (L5),/drugs/voriconazole/
 Warfarin,L4,3,中證據等級 (L3-L4),/drugs/warfarin/
-Warfarin Af,L1,0,高證據等級 (L1-L2),/drugs/warfarin_af/
-Warfarin Atrial Fibrillation,L1,0,高證據等級 (L1-L2),/drugs/warfarin_atrial_fibrillation/
+,L5,0,,/drugs/warfarin_af/
+,L5,0,,/drugs/warfarin_atrial_fibrillation/
 Xylitol,L5,1,僅模型預測 (L5),/drugs/xylitol/
 Xylometazoline,L3,2,中證據等級 (L3-L4),/drugs/xylometazoline/
 Zanubrutinib,L4,6,中證據等級 (L3-L4),/drugs/zanubrutinib/

@@ -3,7 +3,7 @@
   "source": "TwTxGNN - https://twtxgnn.yao.care/",
   "summary": {
     "L1": {
-      "count": 16,
+      "count": 14,
       "drugs": [
         {
           "name": "Anastrozole",
@@ -88,18 +88,6 @@
           "slug": "tolvaptan",
           "decision": "Proceed with Guardrails",
           "indication_count": 10
-        },
-        {
-          "name": "Warfarin Af",
-          "slug": "warfarin_af",
-          "decision": "標準治療",
-          "indication_count": 0
-        },
-        {
-          "name": "Warfarin Atrial Fibrillation",
-          "slug": "warfarin_atrial_fibrillation",
-          "decision": "標準治療（非老藥新用候選）",
-          "indication_count": 0
         }
       ]
     },
@@ -797,7 +785,7 @@
       ]
     },
     "L5": {
-      "count": 165,
+      "count": 167,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -1776,6 +1764,18 @@
           "slug": "vitamin_e",
           "decision": "Hold",
           "indication_count": 10
+        },
+        {
+          "name": "warfarin_af",
+          "slug": "warfarin_af",
+          "decision": "",
+          "indication_count": 0
+        },
+        {
+          "name": "warfarin_atrial_fibrillation",
+          "slug": "warfarin_atrial_fibrillation",
+          "decision": "",
+          "indication_count": 0
         },
         {
           "name": "Xylitol",

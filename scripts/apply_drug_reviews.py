@@ -376,6 +376,8 @@ def run(check=False):
         if not path.exists():
             problems.append(f"{fname}：藥物頁不存在")
             continue
+        if 'http-equiv="refresh"' in path.read_text(encoding="utf-8", errors="replace"):
+            continue  # 2026-10-17：已改成轉址頁（併到其他頁），查核紀錄保留為歷史，不再套用
         new, diff = apply_page(path, rs, problems)
         if diff:
             changed.append(fname)

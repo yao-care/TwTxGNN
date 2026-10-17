@@ -1,8 +1,8 @@
 {
-  "total_drugs": 294,
+  "total_drugs": 292,
   "total_indications": 2293,
   "level_counts": {
-    "L1": 16,
+    "L1": 14,
     "L2": 25,
     "L3": 32,
     "L4": 56,
@@ -2504,22 +2504,6 @@
       "slug": "xylitol",
       "level": "L5",
       "indication_count": 1,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Warfarin Af",
-      "slug": "warfarin_af",
-      "level": "L1",
-      "indication_count": 0,
-      "prediction_score": 0,
-      "nct_count": 0
-    },
-    {
-      "name": "Warfarin Atrial Fibrillation",
-      "slug": "warfarin_atrial_fibrillation",
-      "level": "L1",
-      "indication_count": 0,
       "prediction_score": 0,
       "nct_count": 0
     }

@@ -212,6 +212,8 @@ from twtxgnn.regulatory.page_postprocess import strip_preamble as _strip  # noqa
 _snap = (_T.load_snapshot().get("drugs") or {})
 for md in sorted((DOCS / "_drugs").glob("*.md")):
     text = md.read_text(encoding="utf-8", errors="replace")
+    if 'http-equiv="refresh"' in text:
+        continue  # 轉址頁（2026-10-17）
     entry = _snap.get(md.stem)
     if entry is None:
         errors.append(f"{md.name}：TFDA 許可證快照沒有這一頁（跑 scripts/regenerate_tfda_tables.py）")
@@ -247,6 +249,8 @@ if _rev.exists():
 from twtxgnn.regulatory import page_format as _F  # noqa: E402
 for md in sorted((DOCS / "_drugs").glob("*.md")):
     text = md.read_text(encoding="utf-8", errors="replace")
+    if 'http-equiv="refresh"' in text:
+        continue  # 轉址頁（2026-10-17）
     for e in _F.header_problems(text):
         errors.append(f"{md.name}：頁首等級與快速總覽不一致：{e}")
     for e in _F.table_spacing_problems(text):

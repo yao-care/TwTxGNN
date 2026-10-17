@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-17T06:39:42.562895",
+  "generated_at": "2026-10-17T08:36:12.111491",
   "total_drugs": 302,
   "evidence_distribution": {
-    "L5": 173,
+    "L5": 175,
     "L4": 56,
     "L2": 25,
     "L3": 32,
-    "L1": 16
+    "L1": 14
   },
   "drugs": [
     {
@@ -2082,17 +2082,17 @@
       "url": "/drugs/warfarin/"
     },
     {
-      "drug_name": "Warfarin Af",
-      "evidence_level": "L1",
+      "drug_name": "",
+      "evidence_level": "L5",
       "indication_count": 0,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "",
       "url": "/drugs/warfarin_af/"
     },
     {
-      "drug_name": "Warfarin Atrial Fibrillation",
-      "evidence_level": "L1",
+      "drug_name": "",
+      "evidence_level": "L5",
       "indication_count": 0,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "",
       "url": "/drugs/warfarin_atrial_fibrillation/"
     },
     {

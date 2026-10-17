@@ -321,8 +321,6 @@ permalink: /tw-availability/
 | [Vonoprazan](/drugs/vonoprazan/) | ✓ 已上市 |  | L2 |
 | [Voriconazole](/drugs/voriconazole/) | 已上市 |  | L5 |
 | [Warfarin](/drugs/warfarin/) | ✓ 已上市 |  | L4 |
-| [Warfarin Af](/drugs/warfarin-af/) | 已上市 |  | L1 |
-| [Warfarin Atrial Fibrillation](/drugs/warfarin-atrial-fibrillation/) | 已上市 |  | L1 |
 | [Xylitol](/drugs/xylitol/) | ✓ 已上市 |  | L5 |
 | [Xylometazoline](/drugs/xylometazoline/) | ✓ 已上市 |  | L3 |
 | [Zanubrutinib](/drugs/zanubrutinib/) | ✓ 已上市 |  | L4 |
