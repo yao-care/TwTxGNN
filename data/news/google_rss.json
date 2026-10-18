@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-18T16:14:22.394289+00:00",
+  "fetched_at": "2026-10-18T19:06:01.248606+00:00",
   "count": 40,
   "news": [
     {
@@ -64,14 +64,26 @@
       ]
     },
     {
-      "id": "c75e937e8195",
-      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險 - 行銷人",
-      "published": "2026-10-17T02:10:20+00:00",
-      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;行銷人",
+      "id": "2dc2a3fe4e68",
+      "title": "藍莓可能不只影響腸道 研究：或能改善憂鬱症狀 - 自由健康網",
+      "published": "2026-10-16T06:09:00+00:00",
+      "summary": "藍莓可能不只影響腸道 研究：或能改善憂鬱症狀&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1Y2t3ZTFGdVVyblpMeVVOTDhNeGlBVENXSWJJcW5RTDlDSXNPNjduUjNoR0JWMzkyZFBMZGZBZ0hFQ0tTUE9sYWRDWnFoMXYtd29seU45RFVOY0Y4bkQzWEQ2aEg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a42cc6da39f5",
+      "title": "《華爾街日報》關於乳糖不耐受的是與非 - 鉅亨號",
+      "published": "2026-10-15T09:10:00+00:00",
+      "summary": "《華爾街日報》關於乳糖不耐受的是與非&nbsp;&nbsp;鉅亨號",
+      "sources": [
+        {
+          "name": "鉅亨號",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dWtpVXVveWI5WDdHZ0c4RXZsRG5CM2JrNGhrT1N4Vmg1VDE4S1FweW9hcXVQMzdnOVBlU3R0VXdUbUtZOWQ0eQ?oc=5"
         }
       ]
     },
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "a42cc6da39f5",
-      "title": "《華爾街日報》關於乳糖不耐受的是與非 - 鉅亨號",
-      "published": "2026-10-15T09:10:00+00:00",
-      "summary": "《華爾街日報》關於乳糖不耐受的是與非&nbsp;&nbsp;鉅亨號",
+      "id": "c75e937e8195",
+      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險 - 行銷人",
+      "published": "2026-10-17T02:10:20+00:00",
+      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "鉅亨號",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dWtpVXVveWI5WDdHZ0c4RXZsRG5CM2JrNGhrT1N4Vmg1VDE4S1FweW9hcXVQMzdnOVBlU3R0VXdUbUtZOWQ0eQ?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
         }
       ]
     },
@@ -256,18 +268,6 @@
       ]
     },
     {
-      "id": "830dba7d78e0",
-      "title": "神祕狂犬病疫情，源頭動物讓人出乎意料 - 國家地理雜誌",
-      "published": "2026-10-11T16:47:36+00:00",
-      "summary": "神祕狂犬病疫情，源頭動物讓人出乎意料&nbsp;&nbsp;國家地理雜誌",
-      "sources": [
-        {
-          "name": "國家地理雜誌",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GVDFidVg1QVFqWVRPR3dMZVN6bDJwWFRaVHZ4SWxSZjdRYXhHN3czLVFOZFlvVGRrejF5cXdDU3dhZ0o4M3daSHcyMnBfcDZSblA3bzA5cFY5bVNVVXc3eEdKcjRPODBMRU85cERtMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0bdd8cf9dc1a",
       "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發 - 世界新聞網",
       "published": "2026-10-12T13:06:43+00:00",
@@ -292,14 +292,14 @@
       ]
     },
     {
-      "id": "910c99cbf4b4",
-      "title": "為什麼耳垢對你的健康大有裨益 - 大紀元",
-      "published": "2026-10-16T19:00:00+00:00",
-      "summary": "為什麼耳垢對你的健康大有裨益&nbsp;&nbsp;大紀元",
+      "id": "c1fee89c75fd",
+      "title": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴 - UHK 港生活",
+      "published": "2026-10-17T12:28:27+00:00",
+      "summary": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y1gtUHdGWVhQNGJtX1kzZ2JESkFVdEFuNUFDVENvaGVua2R1cVBwQmJmRUZiRXpCaTRvQTRfOXVnSTNQQ0pVRS1JVldMbGhXRmhROXF1eHk4Sm52WnJsOXBn0gFnQVVfeXFMUGlNcmlCWUo2UHpPRjcwTklHTjA5OWVzSEVtcDdTZlVUR0pPdFhueklKRlkyOTdQdl9VVTB6eW05eHFVakUwOXFDWkRnY0FGVkdfWUptU0NlLVdXd3JiRnhSOXdFUWp1SQ?oc=5"
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOektPOFZMbDBmbEw1WUI0UzE2UDhhN0VzMnBJMy1NMENhbm94SkVjMF84Tk40WlZsa3pxS2JxQi10d01iMHFaekhCcGV5bElCUGhxaDlTLS1KOVBsMllwaWl5QVhBdEJmbkk0RDFRZFlRYVdoRXdveF9GME5XeU5LVkVINThHWjFaX2tsMkhnT3FNR2lZcEduaFZYLXljRTRIM3lheXl0dzhvbUtyblpHRW83Q1gxcHhrVlV3VVV5Nl94X29kN2txNThWWWFsSGZlMndMdUoxbF9RM25fRDI4OHh5LUxJNi1ieTlhbEo0ZG1YU3gwenRweDBHTE02Sm10ZUVJcDNwSmZKaWEwa3BDYXFrT3ltZ2Y2enYyMVMzUzJZSlFmY1V2VjRCME9TS2htY1IySUVHREJodTE5ZFVEM21fMEJ3LTZaY0EwQV8xaWF6RjJwY0xjTmFodmdIeGhyMXh5SkdvSFpjYTdVTnRUQU5RaFNqTk1qdUNYRXRieGx2Y0l6dWFIaDdFMWUyRmwxaHYxT0Fwa1pwdms2dWwyVm9oSy1vUlJ4U0I4?oc=5"
         }
       ]
     },
@@ -312,18 +312,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNZVZIMWJ2QWVsd1VBLTdOVjFVVWJ2VENyaS1uc1U2eUlzVVdYaF9NeGZqYURNRmJhMWp2Z2pTWWZLSVRhVTFNekdtdlNqcklCMEI5ZnAySWt2VnZXWlN2VVJEajFyRW54dlBiaFpyN28wQVlVWVlBWElWc291TzQ1SVFnVDRjRlFkWThYdGdxNG5nRzEzZDRGTUJ1VV9hckFGWUp0WGJ4ZlNlSThVV0xUM05hNXRjb3JYV1AwWnRtVHJYU3RTVFNMR1djcFFXU3EtUFBPNk8wNmZWYUszTlFvN2Z1LXRfcXRxLV9KaXJsdHdSQjI3YTMzWDJzNnNDWEY1dzZaTmRvNDZUc05qdjVfREFzMG1mSWF5QTF3TU5KT3Z0UXZSaktBNjJlc3JITk5hTzJrQ25qYVJLZUhqT19sV2RvWlVIalJwX19ZUjdwcUgwcmtUUFVzUzZ3WWRfTjlCRlU2RXlzNzdVLWhRb09rOVp6czdlYm4yRTNsbnVQRkJXcFJEWUxMQTdvWEZLVE84WXRyNzBqUl8tdWZZVHpnREppZkxITGlVQXBMSFI2X3BOdVVabkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c1fee89c75fd",
-      "title": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴 - UHK 港生活",
-      "published": "2026-10-17T12:28:27+00:00",
-      "summary": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOektPOFZMbDBmbEw1WUI0UzE2UDhhN0VzMnBJMy1NMENhbm94SkVjMF84Tk40WlZsa3pxS2JxQi10d01iMHFaekhCcGV5bElCUGhxaDlTLS1KOVBsMllwaWl5QVhBdEJmbkk0RDFRZFlRYVdoRXdveF9GME5XeU5LVkVINThHWjFaX2tsMkhnT3FNR2lZcEduaFZYLXljRTRIM3lheXl0dzhvbUtyblpHRW83Q1gxcHhrVlV3VVV5Nl94X29kN2txNThWWWFsSGZlMndMdUoxbF9RM25fRDI4OHh5LUxJNi1ieTlhbEo0ZG1YU3gwenRweDBHTE02Sm10ZUVJcDNwSmZKaWEwa3BDYXFrT3ltZ2Y2enYyMVMzUzJZSlFmY1V2VjRCME9TS2htY1IySUVHREJodTE5ZFVEM21fMEJ3LTZaY0EwQV8xaWF6RjJwY0xjTmFodmdIeGhyMXh5SkdvSFpjYTdVTnRUQU5RaFNqTk1qdUNYRXRieGx2Y0l6dWFIaDdFMWUyRmwxaHYxT0Fwa1pwdms2dWwyVm9oSy1vUlJ4U0I4?oc=5"
         }
       ]
     },
@@ -408,6 +396,18 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "910c99cbf4b4",
+      "title": "為什麼耳垢對你的健康大有裨益 - 大紀元",
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "為什麼耳垢對你的健康大有裨益&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y1gtUHdGWVhQNGJtX1kzZ2JESkFVdEFuNUFDVENvaGVua2R1cVBwQmJmRUZiRXpCaTRvQTRfOXVnSTNQQ0pVRS1JVldMbGhXRmhROXF1eHk4Sm52WnJsOXBn0gFnQVVfeXFMUGlNcmlCWUo2UHpPRjcwTklHTjA5OWVzSEVtcDdTZlVUR0pPdFhueklKRlkyOTdQdl9VVTB6eW05eHFVakUwOXFDWkRnY0FGVkdfWUptU0NlLVdXd3JiRnhSOXdFUWp1SQ?oc=5"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T16:14:24.680977+00:00",
+  "last_updated": "2026-10-18T19:06:03.766026+00:00",
   "total_count": 40,
   "matched_count": 12,
   "news": [
@@ -279,6 +279,19 @@
         {
           "name": "明日科學",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMjkyUW5jbUNtR3FlWTJJTV9ob1Zod3lKWmRmZ3NTNVRpMTRjRENxSU5mOWFCSzZxM3EySlpyTlF3Ui1OSVh1Q3JFck13RHRFWjI5SEdTUDdJRG9QMFZF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2dc2a3fe4e68",
+      "title": "藍莓可能不只影響腸道 研究：或能改善憂鬱症狀",
+      "published": "2026-10-16T06:09:00+00:00",
+      "summary": "藍莓可能不只影響腸道 研究：或能改善憂鬱症狀&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1Y2t3ZTFGdVVyblpMeVVOTDhNeGlBVENXSWJJcW5RTDlDSXNPNjduUjNoR0JWMzkyZFBMZGZBZ0hFQ0tTUE9sYWRDWnFoMXYtd29seU45RFVOY0Y4bkQzWEQ2aEg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1515,19 +1528,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPaEJ2dU5FT0R5OThIN2Y1czkxdlVWbXZId3Vrb2t0Q3V3X0lVZ3dtYi1qWk5zakotQTJDS1JCUVlucng5VzhnbjZ6bDc0cW5uMG1MMmdTNmJ5Yzc3RDg4dHRta01QMjMyYU5tVkZoczhnRjN0WUhFa0V5MWlubUFxOE9ZLVdhT0dUVXVDaUwzYnI3amx0NzFIakk0SHo0ak9BME9YZUY3VzJ2ZlVFOGhMYmNNeURRM0NtMGM5N0ZmbS1lT3JwR3ZpSDZsLWRrUDEzdS1PNGYyb2lKdURObjYtVTAxY3FhMkNjRlpRUHNUZHlHZXpnV3NzdVJzbHlBWXFWNFZJakRDbUthVGRFZ2V6OXBCYU9kZnpZb0s1TVJHZkRFRVpJUmFwZlNON1dhQjMwNjdPbFVkZi1zMVpKbmdIVDVpc2pKVUNDcWZXMkRtRUpYT0NJWi1qWEJXaURDMjk0Z2Vrb2RJNEtISkJVN0dFMFpRQXhDaThWY0tDb2ZOLVVGbGY0UmVycUsxR3VMWHp2UXV5UGEtN21DR1ozaExKOHd5ZGJ1dnpNMU55eQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "830dba7d78e0",
-      "title": "神祕狂犬病疫情，源頭動物讓人出乎意料",
-      "published": "2026-10-11T16:47:36+00:00",
-      "summary": "神祕狂犬病疫情，源頭動物讓人出乎意料&nbsp;&nbsp;國家地理雜誌",
-      "sources": [
-        {
-          "name": "國家地理雜誌",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GVDFidVg1QVFqWVRPR3dMZVN6bDJwWFRaVHZ4SWxSZjdRYXhHN3czLVFOZFlvVGRrejF5cXdDU3dhZ0o4M3daSHcyMnBfcDZSblA3bzA5cFY5bVNVVXc3eEdKcjRPODBMRU85cERtMA?oc=5"
         }
       ],
       "matched_keywords": []
