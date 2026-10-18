@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-10-18T19:06:03.766026+00:00",
-  "total_count": 40,
+  "last_updated": "2026-10-18T22:04:45.804154+00:00",
+  "total_count": 42,
   "matched_count": 12,
   "news": [
+    {
+      "id": "a847f36cb349",
+      "title": "醫學滿東華：虛擬大腸鏡 安全無痛免麻醉 - 20261019 - 副刊",
+      "published": "2026-10-18T20:30:00+00:00",
+      "summary": "醫學滿東華：虛擬大腸鏡 安全無痛免麻醉 - 20261019 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNN3E3TVk1UmQzc1BmTkoyQkdheGcwQ21NblBxbEYwNENLSWE2RmUzZU5OUGFoc0wwOV9JeXNJUXFGMk9VLThRVndnVHQ2eHNia0wtMDJXM2o1NzZFNTlfUGZqSGxyZmlIM3pZRVhkNW1lMXY4SUZ0V2RKYUVaVUFVLTdySjJJZkJYTC1welp6NnFXdkQxQkpZN2d5ZVh5Mi1wR29pVWFtZk1ZOVhiU1UxR2NZaWVNc2JVR3o0SEM3SEMyNzNrU21nSG1jblEtczJSVkhJdjBoVi1XaUQycjdjb2NwX1k1ZGQ5WDBtbW05Um1uc0FCcW5LWWxtWG9FX2ZrSXBhWjZmcjdkZzlWajJDQVJUQTVsVG8yekFKQjE5M25rT0w4WnhwSGkwS2VyMkwybk5VTEVFZUdtMjg4MmNNXy0tQ3FBUzJGaEoyaF9NQWZJRkxLZTl1dlg2YzJ5QQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "587ae0c562e4",
+      "title": "為何有人膽固醇高卻活更久 醫師這麼說",
+      "published": "2026-10-18T19:00:00+00:00",
+      "summary": "為何有人膽固醇高卻活更久 醫師這麼說&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZ2VGUk9ERkItcFZJQ29NU0V2QUZBRU5EWmpsZmJIVXBCNm5qSTdkWWRCSlNfV3hCWV9ZQS15el94RVZQeVoxQlRxeFoybk5VNGNPSDNPdkc0bU9MZGtLUdIBZkFVX3lxTE1RTENGeDhvTnpLSjdBMXdKVE0zQ3JnYnVmRXlnSXZ4Q0syZVlUVmxXU2I3SjlCam9ieGE4YTloYXI1d0Rwamxlc3Q0RmVfeVVwNjdtbENxdUFOTmY5XzhPa2tJd1B5dw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "652109385d6e",
       "title": "網傳「抓龍筋」能壯陽增精？醫生警告恐致睪丸受傷 散熱才是關鍵",
@@ -162,74 +188,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "fe511696e76b",
-      "title": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡",
-      "published": "2026-10-16T20:00:00+00:00",
-      "summary": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbDlqVU1rUmU4VTlaZTR4SXNTVVNIMktITWVhRU41R0U4RFhWbTRfZ2hkQUs3WURfdmJYaXdMWm1zMEFPbTZ1TDJOVUVzOHVjVTdIcWlSd2N6dWtNcl9MeQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "910c99cbf4b4",
@@ -886,6 +844,47 @@
           "type": "indication",
           "name": "menopause",
           "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87e8e647ef7a",
+      "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
+      "published": "2026-10-13T11:00:00+00:00",
+      "summary": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
           "related_drugs": [
             {
               "slug": "tinidazole",
