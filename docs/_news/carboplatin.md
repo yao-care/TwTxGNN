@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [新研究：超加工食品類型影響大腸癌風險](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5)
 
@@ -81,14 +81,6 @@ permalink: /news/carboplatin/
 2026-10-12 <span class="news-indication-tag">癌症</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
-
----
-
-### [鼻咽癌｜女子長期鼻塞未理會檢查驚患鼻咽癌醫生警告：伴隨5大症狀速求醫【附鼻炎VS 鼻咽癌症狀區別】](https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5)
-
-2026-10-11 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">鼻塞</span>
-
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgVBVV95cUxOb2hURk5qTFY3STgwNEI1QTkyVGNiLXpHTWp4V2haYVJVa2h1akdkZ2xjZHNuTEMteWx2Qm12Y2NmSk5iZzR4ZGhzLVJzRUl5VGIyVEpPOGw3VkN6d1NTWDFMTUFvM3dOZHlHcms3MENUcld2UlhsRzBseE1TQlVBYlphRzdibjY1S1phRFhPZFRIVzJqdFA4RVNVSUNHSVZWMFFtdUpha2FUOTVfVi1KUW9LSE5OMGVldW9IYVFYVmlydElqR2IwdFNnRkJPNE9SMFdUTlpnaF92ZGlYV1Zjb0ttNHJlV2VmOFZUSWU3NEgwaFNIa2MtWUltSTItTXoxNlptcFFBaldZdExxdE5MeHlPemtOaExITWFyR2cyT094T3o3aGowUF9TZ3V2UjVZN2paNy1OVjJkV3RKY1RLdXVFekY2YWVQTWpFZjBDcDUxMUdoSDJhdUtPdUxRVEh1ZGVuLThVS1NHTGdPMHA1T1lVcFlxbTNGNlpmLWQ0cmt1a05Kd19EbEVrWUFyaWR6ZHliaEo5cDg0LXFNN2dZQUZlQWU1QWZXWnBiVndUWW5kMXluZEdONGh2Q3EzNmJ1R3dGVERlLUpCYWdPSWh6Ty1acm1TZzhidDdoWFRvaEpOSmRXdFJEZWVBNUQyMzJXN1ctdTFhc1Bac1V6Ym1fMURBTEVyRlVJZ0RYM2daX2xaWEZvM3RoelljZDlicjlScE5qSFdiSzdxYmpGV3RqMzU0eFMyZHNjTmNSRWZTdXdPa3gwM3dzOVhYdE9xZDhWXzZubjNOcS1nVl9BcTE1YkVRbTdMQ3pBa3RVbVc0T1NnY2h0UHhyRHBBMG1LcXltSEFtMnRFTVd5b1MwNmRNWGtB?oc=5)
 
 ---
 
