@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-18T02:14:43.515867+00:00",
-  "count": 43,
+  "fetched_at": "2026-10-18T07:34:25.919313+00:00",
+  "count": 41,
   "news": [
-    {
-      "id": "b8fc7cfadc4c",
-      "title": "花21年確診XLH 她從一天300步走到3000步 - 自由健康網",
-      "published": "2026-10-17T21:30:00+00:00",
-      "summary": "花21年確診XLH 她從一天300步走到3000步&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1obUNQZHBVdnA1bjN2WHBjYUFvcWV3emh2Y2FydHpCZnBRbmp6Mkt1azNfZWJlb05kOGl6UHJIWkFWNWhyYXFvNVczZVBFS2ttMmRJbGZNaTFvWFE?oc=5"
-        }
-      ]
-    },
     {
       "id": "7aed8a6317af",
       "title": "流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險 - 民視健康長照網",
@@ -36,6 +24,18 @@
         {
           "name": "民視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbDlqVU1rUmU4VTlaZTR4SXNTVVNIMktITWVhRU41R0U4RFhWbTRfZ2hkQUs3WURfdmJYaXdMWm1zMEFPbTZ1TDJOVUVzOHVjVTdIcWlSd2N6dWtNcl9MeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d8782ed5988",
+      "title": "「1食物」甜爆卻抗發炎　還能預防糖尿病 - 鏡週刊Mirror Media",
+      "published": "2026-10-12T04:11:00+00:00",
+      "summary": "「1食物」甜爆卻抗發炎 還能預防糖尿病&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUXY1Wm1ZVk5OQkdHcWpCOU1LTDhXU3F3SHJxZlgyZ1NicW96cDRRWHUtWFhKT3NZUFVqSmsxSFN2LVhQaUVMU3A5NlZMb0VjUFlzeER5dEJaQ1I20gFiQVVfeXFMUHFtUk9nUU16eWxEUC15QmJ3dGFQNWZHSU5XLW40c1JQd2IteE11NzJiRi1LOHFwamRSZmQybHdqaVBLRGRSbDlNR3pGc3Z6TzF0MmRVMG14QldQSXN6Ujk3Mnc?oc=5"
         }
       ]
     },
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "1d8782ed5988",
-      "title": "「1食物」甜爆卻抗發炎　還能預防糖尿病 - 鏡週刊Mirror Media",
-      "published": "2026-10-12T04:11:00+00:00",
-      "summary": "「1食物」甜爆卻抗發炎 還能預防糖尿病&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUXY1Wm1ZVk5OQkdHcWpCOU1LTDhXU3F3SHJxZlgyZ1NicW96cDRRWHUtWFhKT3NZUFVqSmsxSFN2LVhQaUVMU3A5NlZMb0VjUFlzeER5dEJaQ1I20gFiQVVfeXFMUHFtUk9nUU16eWxEUC15QmJ3dGFQNWZHSU5XLW40c1JQd2IteE11NzJiRi1LOHFwamRSZmQybHdqaVBLRGRSbDlNR3pGc3Z6TzF0MmRVMG14QldQSXN6Ujk3Mnc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "238ea62ff0c9",
       "title": "從餐桌到情緒的全面抗炎防癌實踐路徑2026全球醫學觀點解析 with 報新聞 讀健康 - 報新聞",
       "published": "2026-10-16T09:17:27+00:00",
@@ -100,21 +88,9 @@
       ]
     },
     {
-      "id": "902fab76f809",
-      "title": "AI辨識病理樣本改善分子檢測 精準醫療再躍進 - https://www.yesmedia.com.tw/",
-      "published": "2026-10-17T12:46:03+00:00",
-      "summary": "AI辨識病理樣本改善分子檢測 精準醫療再躍進&nbsp;&nbsp;https://www.yesmedia.com.tw/",
-      "sources": [
-        {
-          "name": "https://www.yesmedia.com.tw/",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUU5fUDdwU2xOeWROR0pYeHFsNWlLUE1IX3FlaGdKLXVwMGQ2dk1qdVQ4UzRhMGNRVE9yR0ZEOXItdmY2UVBaMjRqY2Mya3dKMWRucjRzSk55RHlvX2I3RXlYRmF5MG1TOFZtbWZ6ZmRpTk5ocFJWd0VYdjNJblBQTzB6VGszQXFGd3d5clF1LVBkTW54ekg4Wnk5bldleklsNmI5LUt3TWZCdVVUdFU1LW55MWJtcDBBN0swM0dYVUVqUWI5SURTU1B2REJLV3pIU1N2WjZOQUJMV2lLVXNwN2xxWW84b1pOYk9xVnhFWWt0Sm5EelF4OHVrWFdvYlJkblpsaW1GMHYwY0xNby1ZQVNSQjRwc3Mwb0tiWWhJdFNnLVhjMjUybmt6Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "182fdaa23eab",
       "title": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報 - LINE TODAY",
-      "published": "2026-10-16T11:30:51+00:00",
+      "published": "2026-10-16T12:54:27+00:00",
       "summary": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -136,6 +112,18 @@
       ]
     },
     {
+      "id": "902fab76f809",
+      "title": "AI辨識病理樣本改善分子檢測 精準醫療再躍進 - https://www.yesmedia.com.tw/",
+      "published": "2026-10-17T12:46:03+00:00",
+      "summary": "AI辨識病理樣本改善分子檢測 精準醫療再躍進&nbsp;&nbsp;https://www.yesmedia.com.tw/",
+      "sources": [
+        {
+          "name": "https://www.yesmedia.com.tw/",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQUU5fUDdwU2xOeWROR0pYeHFsNWlLUE1IX3FlaGdKLXVwMGQ2dk1qdVQ4UzRhMGNRVE9yR0ZEOXItdmY2UVBaMjRqY2Mya3dKMWRucjRzSk55RHlvX2I3RXlYRmF5MG1TOFZtbWZ6ZmRpTk5ocFJWd0VYdjNJblBQTzB6VGszQXFGd3d5clF1LVBkTW54ekg4Wnk5bldleklsNmI5LUt3TWZCdVVUdFU1LW55MWJtcDBBN0swM0dYVUVqUWI5SURTU1B2REJLV3pIU1N2WjZOQUJMV2lLVXNwN2xxWW84b1pOYk9xVnhFWWt0Sm5EelF4OHVrWFdvYlJkblpsaW1GMHYwY0xNby1ZQVNSQjRwc3Mwb0tiWWhJdFNnLVhjMjUybmt6Zw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e6ba6e1369d2",
       "title": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體 - 自由健康網",
       "published": "2026-10-15T03:06:00+00:00",
@@ -144,30 +132,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVHZ0NTZlSFJJRFl2RkZlQlNMSmpQb3pTQS1QZXVEdXFOcXFNdWhnamlLVE1uMHRNZU9WUkRvNXFlUXU1bzFWeEJBa2FOLWxuNmpPUE1kR3p4S0xwd0ZUdks2amQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "173e0729b7b9",
-      "title": "新興新冠變異株 SV.2.4橫行中國南方 - 新唐人電視台",
-      "published": "2026-10-15T05:57:00+00:00",
-      "summary": "新興新冠變異株 SV.2.4橫行中國南方&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSVlLeFZwaHZwQWhUdXN1NWNuZU16RVZSTVZRZnZFM25sWURyQlZuOThjYmFLdE5HNFU3YTlvTVhEb1FuQWFQQmRER0RrYVRtdGRTVWZrNk11V1BlcDJPZNIBZkFVX3lxTFB6bTJIT2lhUjJWcG9qdVFvOFZXNnpiX1pVWFZtMmVNZUZCSXBqTWxGNkhFdEN2SVNrcjdibUp0SFYtRWt5eXh6OTBxVFVScGwyMmJmSVVOamRrZGduNm1Nam40T0VSQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bf8707d4fc9",
-      "title": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫 - 《超越新聞網》",
-      "published": "2026-10-17T03:31:01+00:00",
-      "summary": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫&nbsp;&nbsp;《超越新聞網》",
-      "sources": [
-        {
-          "name": "《超越新聞網》",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03R2ZnQUZnQWNWWjRlTnFDWFRCeE9RcFo3b1J4UkRUVmkzM1hRZDhWNUtDRV9XMmlpYTBQcndMaDN5TjF0Vm9kNFp3ck1vTVFNOHB2Yg?oc=5"
         }
       ]
     },
@@ -184,14 +148,26 @@
       ]
     },
     {
-      "id": "2ab4d892bbcd",
-      "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆 - Yahoo新聞",
-      "published": "2026-10-14T05:08:17+00:00",
-      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆&nbsp;&nbsp;Yahoo新聞",
+      "id": "0bf8707d4fc9",
+      "title": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫 - 《超越新聞網》",
+      "published": "2026-10-17T03:31:01+00:00",
+      "summary": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫&nbsp;&nbsp;《超越新聞網》",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPZ0RkNVNhQWtBcnZkZ1cxeDFSU3VnVlBlM0FGM1kxTS1XUy11TXZ5RE1uUnV0cHc4Y3o0eF8xMkZaN0FaX3NFcEQtdFA0dGRkalEyZUxvMGJKMzFXU3JZWGgwMGE1SFc1Slk4YXA1YWJtT1hNYlFZNjIzdEs3OXBxM0lIaDZlWUtwQVJScmdXLUFBRGpZUmY0ZFZ3NmZ1dW96bkwteF9VdUZ1dm1YbEN5a052YUw2cE5pTHBlei0yUHFOTklnX3FUUk5iM2x2UF9ucTJ5TGpqTzdSTy04OHY2ZTQ4b0otQzgwRUlvLVBsSlhzMjVHNUF3eWR2YUFlUHpmdFlZYVRHNE92WXVUdUtGSVFEQ0c2MjlFeVNDZVluY1VhaW1rdDVKVElDUFAxSlVzNnE1NkpzY05xbVZrM1BsakhWY3ZOck5YQmlqaGV1MTlxNU9ZNWxZb19TQ08xbXFGb3RUVnVHWDN3aHc3M1FrTDhpQ2picWdFUFpyNEd5UmtYRzRZOGlFakx0YW9jeXI4eWF2Rjk5REQ2M19kUXhiTVh1Qy1YUGMxam1MbDBBdTB0X3M?oc=5"
+          "name": "《超越新聞網》",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03R2ZnQUZnQWNWWjRlTnFDWFRCeE9RcFo3b1J4UkRUVmkzM1hRZDhWNUtDRV9XMmlpYTBQcndMaDN5TjF0Vm9kNFp3ck1vTVFNOHB2Yg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "84d383534c3e",
+      "title": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆 - 民視健康長照網",
+      "published": "2026-10-14T22:30:00+00:00",
+      "summary": "心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆&nbsp;&nbsp;民視健康長照網",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QV3dXaFI5bXpnY194RF9XVGpsMFFjWFBMM1ExUDVYTHU1TTJ3d190eFZfT2tpZm5nV1d5TzJOWFVpaUsxbGxvaUdZRTBxT0lSVmdGbldySXN1ME9uel9JYmxuNUY?oc=5"
         }
       ]
     },
@@ -244,18 +220,6 @@
       ]
     },
     {
-      "id": "0bdd8cf9dc1a",
-      "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發 - 世界新聞網",
-      "published": "2026-10-12T13:06:43+00:00",
-      "summary": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "00eb4aaff497",
       "title": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％ - udn",
       "published": "2026-10-15T01:51:23+00:00",
@@ -264,6 +228,18 @@
         {
           "name": "udn",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oYU4xbFJtODF6ZmdfY2hhRmRZMVoxazFHLVo4aWtSamFQeUtpbXlQQTVnNWJ1b3VKY19sYm1YTndKaDRueE50LU40TFA0X3JQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bdd8cf9dc1a",
+      "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發 - 世界新聞網",
+      "published": "2026-10-12T13:06:43+00:00",
+      "summary": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5"
         }
       ]
     },
@@ -304,18 +280,6 @@
       ]
     },
     {
-      "id": "06aaa6f16289",
-      "title": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關 - 明日科學",
-      "published": "2026-10-16T06:46:47+00:00",
-      "summary": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關&nbsp;&nbsp;明日科學",
-      "sources": [
-        {
-          "name": "明日科學",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMjkyUW5jbUNtR3FlWTJJTV9ob1Zod3lKWmRmZ3NTNVRpMTRjRENxSU5mOWFCSzZxM3EySlpyTlF3Ui1OSVh1Q3JFck13RHRFWjI5SEdTUDdJRG9QMFZF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "910c99cbf4b4",
       "title": "為什麼耳垢對你的健康大有裨益 - 大紀元",
       "published": "2026-10-16T19:00:00+00:00",
@@ -324,30 +288,6 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y1gtUHdGWVhQNGJtX1kzZ2JESkFVdEFuNUFDVENvaGVua2R1cVBwQmJmRUZiRXpCaTRvQTRfOXVnSTNQQ0pVRS1JVldMbGhXRmhROXF1eHk4Sm52WnJsOXBn0gFnQVVfeXFMUGlNcmlCWUo2UHpPRjcwTklHTjA5OWVzSEVtcDdTZlVUR0pPdFhueklKRlkyOTdQdl9VVTB6eW05eHFVakUwOXFDWkRnY0FGVkdfWUptU0NlLVdXd3JiRnhSOXdFUWp1SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0493735f4f0",
-      "title": "俄羅斯就莫斯科州懷疑出現猴痘疫情展開流行病學調查 - Yahoo",
-      "published": "2026-10-16T06:08:52+00:00",
-      "summary": "俄羅斯就莫斯科州懷疑出現猴痘疫情展開流行病學調查&nbsp;&nbsp;Yahoo​俄羅斯莫斯科州出現懷疑猴痘個案 5人接受醫學觀察當局調查&nbsp;&nbsp;橙新聞俄羅斯當局稱已對莫斯科州疑似猴痘疫情展開流行病學調查&nbsp;&nbsp;香港電台新聞網猴痘｜俄羅斯調查莫斯科州疑似疫情 5人入院觀察&nbsp;&nbsp;AM730俄羅斯： 已對莫斯科州疑似猴痘疫情展開流行病學調查&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNOS1CMVRmajFnMlZ0djV4ZWZTVFA1TEgtM3hVM1lTelU4QThVM0I3RW84Y3p3YVNTam1COTF5X1Z2YnRfMHpSUjBaSDl6cmk2R3FkLWJWN29NNTRfZGszMDlIMFJIUVN4N2gyUGFwMTVldG1BSktwVkYzVS1xRFY4d1RTOWxkOGR6bnE4eU1vd0VhTC1qT1BFZnZ5cnJEOTFrVUU5MXhmTlFjcElGR0lTRS1FRTI3MldETXRKQThXLWxqMzR4eGZhbjB2Y2FDRjNLcDh1TUNIRUVnUXZRVWp0SmxRd3Z2alIzZHdkZXdEdDRpUV93M2swMkxIdjMzRGN5UU4yNWZzOU44VDdBZEdsaEFHdnhJN2dPUXh1SG9USHNodVdFVG5Nc04zb2F6MGFVN3h5OEtUdGFSUjZVandEZzdTMWVpeEtQc1RGMnBITTg1YUdPdzVFbVp0SGZTUFoyZ2d0RkhfZjBaSVNINEs2Z0ZhUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83e641c44956",
-      "title": "年長者食慾減退 8原因恐得了這個病 - 世界新聞網",
-      "published": "2026-10-16T14:15:03+00:00",
-      "summary": "年長者食慾減退 8原因恐得了這個病&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZalZNVGU1bExnd1cyaFJneEtjT010aEJ4cEJjeVRsYk41WFg0UXM1QVpsREtFWV9YZGRDVVg2Qm5yOVBIeVA3Zl9tTjl0cG9xT2hvbmpYc09KN1B4RGNnbkFB0gFnQVVfeXFMT0x2VUlXRWdJaXVhWkdYMWNsTlp5NGNCNlhKRnlXeUxpd2VQaWcxbzRCZFVVQlNtTS0tbkxLUmg5Z1B2NVp6TG1vVzM0RGlUamR2LTl5X3VwNXVjcS1TZHkteEFTM0JSaw?oc=5"
         }
       ]
     },
@@ -364,6 +304,18 @@
       ]
     },
     {
+      "id": "83e641c44956",
+      "title": "年長者食慾減退 8原因恐得了這個病 - 世界新聞網",
+      "published": "2026-10-16T14:15:03+00:00",
+      "summary": "年長者食慾減退 8原因恐得了這個病&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZalZNVGU1bExnd1cyaFJneEtjT010aEJ4cEJjeVRsYk41WFg0UXM1QVpsREtFWV9YZGRDVVg2Qm5yOVBIeVA3Zl9tTjl0cG9xT2hvbmpYc09KN1B4RGNnbkFB0gFnQVVfeXFMT0x2VUlXRWdJaXVhWkdYMWNsTlp5NGNCNlhKRnlXeUxpd2VQaWcxbzRCZFVVQlNtTS0tbkxLUmg5Z1B2NVp6TG1vVzM0RGlUamR2LTl5X3VwNXVjcS1TZHkteEFTM0JSaw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c1fee89c75fd",
       "title": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴 - UHK 港生活",
       "published": "2026-10-17T12:28:27+00:00",
@@ -376,6 +328,18 @@
       ]
     },
     {
+      "id": "06aaa6f16289",
+      "title": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關 - 明日科學",
+      "published": "2026-10-16T06:46:47+00:00",
+      "summary": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關&nbsp;&nbsp;明日科學",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMjkyUW5jbUNtR3FlWTJJTV9ob1Zod3lKWmRmZ3NTNVRpMTRjRENxSU5mOWFCSzZxM3EySlpyTlF3Ui1OSVh1Q3JFck13RHRFWjI5SEdTUDdJRG9QMFZF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "440678c0b88c",
       "title": "最新研究顯示本港對於HIV「確診即日治療」接受度極高 - healthyD",
       "published": "2026-10-14T08:03:11+00:00",
@@ -384,6 +348,18 @@
         {
           "name": "healthyD",
           "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNREpocTlfc1JoVnlJM04yQ3pBUXJrTVJFT1FkVm1LLXBrVkV3OFFsSldlRUgzdi1LbGxvMTJrTE1mYms4MnU1R2RHLUU2dThtNGs3OE1KWG45a0NiZURJZjBQQkg0X2lNYTFRdHJwd25xMTNfVmZlVEp3SE9JTkIyd19lRG1oQXNHa2dDWk5pZmtEeHhtN1doMTR2aUVXLUlST2RXV2hfVHZMaXBPX1lMOVljUWFUY1JPWkk5bFNEamhQZXRZTGtrZzVtdms1QjF2WDlJTUhySWU4Mm1iNENsR3FYTEUyTm9Hc29GOTFDaWJUWVU3dEM2c3FldkVUU2VhX2tENHI3TjVsUHNoVm1xU0h2TjRldUwyT09TS0hKZHc3V3N1elo3MjdrRWZucHJKY3puZ2ppM3dXVmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b0493735f4f0",
+      "title": "俄羅斯就莫斯科州懷疑出現猴痘疫情展開流行病學調查 - Yahoo",
+      "published": "2026-10-16T06:08:52+00:00",
+      "summary": "俄羅斯就莫斯科州懷疑出現猴痘疫情展開流行病學調查&nbsp;&nbsp;Yahoo​俄羅斯莫斯科州出現懷疑猴痘個案 5人接受醫學觀察當局調查&nbsp;&nbsp;橙新聞俄羅斯當局稱已對莫斯科州疑似猴痘疫情展開流行病學調查&nbsp;&nbsp;香港電台新聞網猴痘｜俄羅斯調查莫斯科州疑似疫情 5人入院觀察&nbsp;&nbsp;AM730俄羅斯： 已對莫斯科州疑似猴痘疫情展開流行病學調查&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNOS1CMVRmajFnMlZ0djV4ZWZTVFA1TEgtM3hVM1lTelU4QThVM0I3RW84Y3p3YVNTam1COTF5X1Z2YnRfMHpSUjBaSDl6cmk2R3FkLWJWN29NNTRfZGszMDlIMFJIUVN4N2gyUGFwMTVldG1BSktwVkYzVS1xRFY4d1RTOWxkOGR6bnE4eU1vd0VhTC1qT1BFZnZ5cnJEOTFrVUU5MXhmTlFjcElGR0lTRS1FRTI3MldETXRKQThXLWxqMzR4eGZhbjB2Y2FDRjNLcDh1TUNIRUVnUXZRVWp0SmxRd3Z2alIzZHdkZXdEdDRpUV93M2swMkxIdjMzRGN5UU4yNWZzOU44VDdBZEdsaEFHdnhJN2dPUXh1SG9USHNodVdFVG5Nc04zb2F6MGFVN3h5OEtUdGFSUjZVandEZzdTMWVpeEtQc1RGMnBITTg1YUdPdzVFbVp0SGZTUFoyZ2d0RkhfZjBaSVNINEs2Z0ZhUQ?oc=5"
         }
       ]
     },
