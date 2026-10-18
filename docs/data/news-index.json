@@ -1,7 +1,44 @@
 {
-  "generated": "2026-10-17T23:38:59.778746+00:00",
-  "count": 13,
+  "generated": "2026-10-18T02:14:45.330550+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "52b393005956",
+      "title": "遠離心血管疾病，除了控制三高，更要了解血管功能",
+      "published": "2026-10-17T03:54:57+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC0tXzlOeXFRZHZZeU9JSUhxdkowVlpfMkMzaXN2eG5CRDEyOW90THhJZ3RncUwtaW9YOHQ0bjc3TlBiY3FOU0J2ZnE3VkpXZWtfc1BlTkhFMTlPczh0bzZjNXVHNE5fMXhfZ0xOMmRIVHp5X3ZvNFcxNHQ3VldvdUxpYm1Yc0VxYlAtQzQ1Qmx1QzhOcHBoMEcyUEJUZ1FIWjlCVl9walI1NFo1NmlreHVHWjBEdDA1am4xc3hTNk5kWHpSdklvRnhEMi1pNndMM2h6VFdXeWdLckR6MmlTZzhZMVllQU5ZQ3kwRS1ZbFh6c3dhaEpaclBYWURQaWlJRUdYWVNsWHpaeHhxMkFFY3pka1RaRlNocDBYYlZlZ2RGMWprQmdrYVVFc20zQ0MtbW5RakNRTi1KbEdOeGlNX3hEUEhlWmpnM2xQelVPYkh0dw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c75e937e8195",
       "title": "研究發現：減重針或助精神分裂症患降低精神急症風險",

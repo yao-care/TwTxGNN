@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-17T23:38:59.734467+00:00",
+  "last_updated": "2026-10-18T02:14:45.308504+00:00",
   "total_count": 43,
-  "matched_count": 13,
+  "matched_count": 14,
   "news": [
     {
       "id": "292b7565ce8f",
@@ -54,6 +54,44 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "52b393005956",
+      "title": "遠離心血管疾病，除了控制三高，更要了解血管功能",
+      "published": "2026-10-17T03:54:57+00:00",
+      "summary": "遠離心血管疾病，除了控制三高，更要了解血管功能&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC0tXzlOeXFRZHZZeU9JSUhxdkowVlpfMkMzaXN2eG5CRDEyOW90THhJZ3RncUwtaW9YOHQ0bjc3TlBiY3FOU0J2ZnE3VkpXZWtfc1BlTkhFMTlPczh0bzZjNXVHNE5fMXhfZ0xOMmRIVHp5X3ZvNFcxNHQ3VldvdUxpYm1Yc0VxYlAtQzQ1Qmx1QzhOcHBoMEcyUEJUZ1FIWjlCVl9walI1NFo1NmlreHVHWjBEdDA1am4xc3hTNk5kWHpSdklvRnhEMi1pNndMM2h6VFdXeWdLckR6MmlTZzhZMVllQU5ZQ3kwRS1ZbFh6c3dhaEpaclBYWURQaWlJRUdYWVNsWHpaeHhxMkFFY3pka1RaRlNocDBYYlZlZ2RGMWprQmdrYVVFc20zQ0MtbW5RakNRTi1KbEdOeGlNX3hEUEhlWmpnM2xQelVPYkh0dw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "0bf8707d4fc9",
@@ -1805,19 +1843,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c3dca69e2602",
-      "title": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵",
-      "published": "2026-10-11T02:21:44+00:00",
-      "summary": "「睪丸按摩」增強精力？泌尿醫闢謠：溫度才是關鍵&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQZkd1UWJuODc3M1NmMTdfd2l2M2t1T3l6MnNxUkI1dzJnY2xGS2FlMWFYeGFRbjdaYnVzY25NX0FOXzYyY1dRWUppMEcwT0FXOV9yVmpyWF9SMnJiUGVUM0JPaXpCQzNMcWVPQWVkblNvR3FXZUVvTG5nQVJwN1dzUzBIUjZ6MmVfak5lYXBWNzBWMWVMa2VFOV9vNWxYS3Y4Rlp1Y3pydG03SDJQZVJGZW91S1V0QVN3MkR6ZWttNzR5SG0tcFdoenphNTh0MUpyNm5kWi15cXh2aTR1dXZhZEdFQTAzVmQ3ZWJmcG5YN2V5UEtHdFpheG1mczFURjRvNnQweTRlN1gxTm5QaXl3TTBwWUpiUHFRSmRRT01NbzY1TFpJTGZZbHl1YzY0ejZLRVNnVzNpcDB2MWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
