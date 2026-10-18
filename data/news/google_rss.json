@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-18T12:17:53.108839+00:00",
-  "count": 41,
+  "fetched_at": "2026-10-18T16:14:22.394289+00:00",
+  "count": 40,
   "news": [
     {
       "id": "58219788e050",
@@ -12,18 +12,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0SFRvdWE3MzJtQzlYZ2lHRlY2ZUZJbDZObzFZYVRjQU14MTNPXzBKZDQ5dUlSUlQtTFhFZHRLS183YWIxcmJLaENiSjltZHhDN0NpbkFKOExUNHJsUGgwNjcybTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "652109385d6e",
-      "title": "網傳「抓龍筋」能壯陽增精？醫生警告恐致睪丸受傷 散熱才是關鍵 - 香港01",
-      "published": "2026-10-18T11:00:29+00:00",
-      "summary": "網傳「抓龍筋」能壯陽增精？醫生警告恐致睪丸受傷 散熱才是關鍵&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQVVR6NFlIOW1VSmp3Y0cxMlFNdzVWMHpOMjZMSmZKQko0bFo1LVRuSkJCUzQ3aE5EbGxLUTNsQnRjamI2bUhiY2JvQ0xRX3B2VTU0bVZOSXpXRWhsNWJPZU5hcEpGb1FrR1hVc2xLckVXTE9KUk1WdlpWQlJMdkJUeVNjcWNHamFPejBxcDdqWVBSMV9TSG5xYkhocHRQa1pFQ2hSV1JudzRyTmZYLUh4TVIxRjNhUzlNR1VZRE9KMXJsZ1FuRkNBRDkzb2xsY2hlY3I2VDhZYU9RR3E1ajI3anplWGQxU3QzOUZNUG9Tc00tQWZjeFZxXzlfQmh5WTRkcEpxV0JQSmt0RlVETlZodm5vaFJJcTlfSWJVVFJOOHdTWG8zYUlZZnhqajE3MGoyYTB4bXV0YmpzY0lBdVpWb29UQUxSMUlPUE9zc1JZeXpMTDdjd045ZTcyOUV0Y2I5QXRKdXh3YmMwSzZmRG5sTGlXek1xU2ZYeFdkc3JUR1RYc250cm9uQVBMRXJCYjZaa3ExbG04NlNpOGc?oc=5"
         }
       ]
     },
@@ -40,14 +28,14 @@
       ]
     },
     {
-      "id": "fe511696e76b",
-      "title": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡 - 民視新聞網",
-      "published": "2026-10-16T20:00:00+00:00",
-      "summary": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡&nbsp;&nbsp;民視新聞網",
+      "id": "652109385d6e",
+      "title": "網傳「抓龍筋」能壯陽增精？醫生警告恐致睪丸受傷 散熱才是關鍵 - 香港01",
+      "published": "2026-10-18T11:00:29+00:00",
+      "summary": "網傳「抓龍筋」能壯陽增精？醫生警告恐致睪丸受傷 散熱才是關鍵&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbDlqVU1rUmU4VTlaZTR4SXNTVVNIMktITWVhRU41R0U4RFhWbTRfZ2hkQUs3WURfdmJYaXdMWm1zMEFPbTZ1TDJOVUVzOHVjVTdIcWlSd2N6dWtNcl9MeQ?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQVVR6NFlIOW1VSmp3Y0cxMlFNdzVWMHpOMjZMSmZKQko0bFo1LVRuSkJCUzQ3aE5EbGxLUTNsQnRjamI2bUhiY2JvQ0xRX3B2VTU0bVZOSXpXRWhsNWJPZU5hcEpGb1FrR1hVc2xLckVXTE9KUk1WdlpWQlJMdkJUeVNjcWNHamFPejBxcDdqWVBSMV9TSG5xYkhocHRQa1pFQ2hSV1JudzRyTmZYLUh4TVIxRjNhUzlNR1VZRE9KMXJsZ1FuRkNBRDkzb2xsY2hlY3I2VDhZYU9RR3E1ajI3anplWGQxU3QzOUZNUG9Tc00tQWZjeFZxXzlfQmh5WTRkcEpxV0JQSmt0RlVETlZodm5vaFJJcTlfSWJVVFJOOHdTWG8zYUlZZnhqajE3MGoyYTB4bXV0YmpzY0lBdVpWb29UQUxSMUlPUE9zc1JZeXpMTDdjd045ZTcyOUV0Y2I5QXRKdXh3YmMwSzZmRG5sTGlXek1xU2ZYeFdkc3JUR1RYc250cm9uQVBMRXJCYjZaa3ExbG04NlNpOGc?oc=5"
         }
       ]
     },
@@ -60,6 +48,18 @@
         {
           "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUXY1Wm1ZVk5OQkdHcWpCOU1LTDhXU3F3SHJxZlgyZ1NicW96cDRRWHUtWFhKT3NZUFVqSmsxSFN2LVhQaUVMU3A5NlZMb0VjUFlzeER5dEJaQ1I20gFiQVVfeXFMUHFtUk9nUU16eWxEUC15QmJ3dGFQNWZHSU5XLW40c1JQd2IteE11NzJiRi1LOHFwamRSZmQybHdqaVBLRGRSbDlNR3pGc3Z6TzF0MmRVMG14QldQSXN6Ujk3Mnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe511696e76b",
+      "title": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡 - 民視新聞網",
+      "published": "2026-10-16T20:00:00+00:00",
+      "summary": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡&nbsp;&nbsp;民視新聞網",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wbDlqVU1rUmU4VTlaZTR4SXNTVVNIMktITWVhRU41R0U4RFhWbTRfZ2hkQUs3WURfdmJYaXdMWm1zMEFPbTZ1TDJOVUVzOHVjVTdIcWlSd2N6dWtNcl9MeQ?oc=5"
         }
       ]
     },
@@ -256,18 +256,6 @@
       ]
     },
     {
-      "id": "0bdd8cf9dc1a",
-      "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發 - 世界新聞網",
-      "published": "2026-10-12T13:06:43+00:00",
-      "summary": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "830dba7d78e0",
       "title": "神祕狂犬病疫情，源頭動物讓人出乎意料 - 國家地理雜誌",
       "published": "2026-10-11T16:47:36+00:00",
@@ -276,6 +264,18 @@
         {
           "name": "國家地理雜誌",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GVDFidVg1QVFqWVRPR3dMZVN6bDJwWFRaVHZ4SWxSZjdRYXhHN3czLVFOZFlvVGRrejF5cXdDU3dhZ0o4M3daSHcyMnBfcDZSblA3bzA5cFY5bVNVVXc3eEdKcjRPODBMRU85cERtMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0bdd8cf9dc1a",
+      "title": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發 - 世界新聞網",
+      "published": "2026-10-12T13:06:43+00:00",
+      "summary": "每天運動30分鐘 研究：降低罹癌風險、防止癌症復發&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5"
         }
       ]
     },
@@ -324,18 +324,6 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOektPOFZMbDBmbEw1WUI0UzE2UDhhN0VzMnBJMy1NMENhbm94SkVjMF84Tk40WlZsa3pxS2JxQi10d01iMHFaekhCcGV5bElCUGhxaDlTLS1KOVBsMllwaWl5QVhBdEJmbkk0RDFRZFlRYVdoRXdveF9GME5XeU5LVkVINThHWjFaX2tsMkhnT3FNR2lZcEduaFZYLXljRTRIM3lheXl0dzhvbUtyblpHRW83Q1gxcHhrVlV3VVV5Nl94X29kN2txNThWWWFsSGZlMndMdUoxbF9RM25fRDI4OHh5LUxJNi1ieTlhbEo0ZG1YU3gwenRweDBHTE02Sm10ZUVJcDNwSmZKaWEwa3BDYXFrT3ltZ2Y2enYyMVMzUzJZSlFmY1V2VjRCME9TS2htY1IySUVHREJodTE5ZFVEM21fMEJ3LTZaY0EwQV8xaWF6RjJwY0xjTmFodmdIeGhyMXh5SkdvSFpjYTdVTnRUQU5RaFNqTk1qdUNYRXRieGx2Y0l6dWFIaDdFMWUyRmwxaHYxT0Fwa1pwdms2dWwyVm9oSy1vUlJ4U0I4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "83e641c44956",
-      "title": "年長者食慾減退 8原因恐得了這個病 - 世界新聞網",
-      "published": "2026-10-16T14:15:03+00:00",
-      "summary": "年長者食慾減退 8原因恐得了這個病&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZalZNVGU1bExnd1cyaFJneEtjT010aEJ4cEJjeVRsYk41WFg0UXM1QVpsREtFWV9YZGRDVVg2Qm5yOVBIeVA3Zl9tTjl0cG9xT2hvbmpYc09KN1B4RGNnbkFB0gFnQVVfeXFMT0x2VUlXRWdJaXVhWkdYMWNsTlp5NGNCNlhKRnlXeUxpd2VQaWcxbzRCZFVVQlNtTS0tbkxLUmg5Z1B2NVp6TG1vVzM0RGlUamR2LTl5X3VwNXVjcS1TZHkteEFTM0JSaw?oc=5"
         }
       ]
     },
@@ -424,14 +412,14 @@
       ]
     },
     {
-      "id": "d24ac1aa2835",
-      "title": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券 - healthyD",
-      "published": "2026-10-13T12:40:02+00:00",
-      "summary": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券&nbsp;&nbsp;healthyD兒童健康｜港童計劃外疫苗接種率偏低 疫苗猶豫成健康威脅&nbsp;&nbsp;香港01調查揭計劃外兒童疫苗接種率偏低 團體提五項建議完善支援&nbsp;&nbsp;星島頭條疫苗猶豫成全球健康挑戰 本港近四成家長未為子女接種計劃外疫苗&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "83e641c44956",
+      "title": "年長者食慾減退 8原因恐得了這個病 - 世界新聞網",
+      "published": "2026-10-16T14:15:03+00:00",
+      "summary": "年長者食慾減退 8原因恐得了這個病&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaDA0a002YnJXQ05DMzZtZGhlLTFuNi1wNWFxVktBaGlySGVqUXEtZm9ERFgzMDMwaERDT0p3OWtuVFBTODE5Ti1MSE4xX1VHUDhPNVRzaHpHTl9VaTRkWkpZNGxtRGxkNTBOOXdHMzhBWjctM0I5OTFwQU91T2ZNSnB3Y0o2clgyUjI1N0RxRVZ4SXEyNkcwQnpnRHBRbjhYMnFsZ1R4bWdtT01VYlV2a3ZKQjVKc3hiRHMzY0hHdlNoUUw1eEd3QW9oNU1OZ2J2WkFFZHowdXM5bzNHNnJVVjFsWU1kd0E4eGtOMkZQU0VIZ2ZtdHliWDcwOVRwVmJXZE9INXlOQlRyc1ljUGVhZVo3cFVicHRCMTdxUWM4eEdpbEJGWXl4Z1dqUjk5Vll1T1MwREJ3NDdaSldpY0dBdGtfblJlRkZ3TkRCcGFHQ3VVQQ?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZalZNVGU1bExnd1cyaFJneEtjT010aEJ4cEJjeVRsYk41WFg0UXM1QVpsREtFWV9YZGRDVVg2Qm5yOVBIeVA3Zl9tTjl0cG9xT2hvbmpYc09KN1B4RGNnbkFB0gFnQVVfeXFMT0x2VUlXRWdJaXVhWkdYMWNsTlp5NGNCNlhKRnlXeUxpd2VQaWcxbzRCZFVVQlNtTS0tbkxLUmg5Z1B2NVp6TG1vVzM0RGlUamR2LTl5X3VwNXVjcS1TZHkteEFTM0JSaw?oc=5"
         }
       ]
     },
