@@ -14,7 +14,7 @@ permalink: /news/tinidazole/
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ permalink: /news/tinidazole/
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
 ### [別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5)
 
 2026-10-16 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
 來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5)
+
+---
+
+### [紅肉真的該少吃嗎？ 醫師引603萬人大型研究：心血管、癌症風險沒那麼單純 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
+
+---
+
+### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
+
+2026-10-15 <span class="news-indication-tag">癌症</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
+
+---
+
+### [可檢測50種癌症的新測試 你需要了解什麼？](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMHdXVTJrTWhMNDRENHJ2eno5WTFrRGZfMzdMVmY5eU5CVFVuZFRBdnBmSndUXzV5R3QxS0htRzQ2eFd2aTlNSkpPVFJRZVdNQ0VWSVBNRHFOak4zVW5GQkZB0gFnQVVfeXFMUGU3U0hFVU5pWS1JejZaOFNRcGliM3dzdExWUDZqVTNJc0lVREZKRVJ3SWZQclVEMEk3UWwwa1B1M0xvRW1OY2tGMk9IZTZtUDg1YXJwVDhSRllQclVJTFNjSlJQZUxLbw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">癌症</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMHdXVTJrTWhMNDRENHJ2eno5WTFrRGZfMzdMVmY5eU5CVFVuZFRBdnBmSndUXzV5R3QxS0htRzQ2eFd2aTlNSkpPVFJRZVdNQ0VWSVBNRHFOak4zVW5GQkZB0gFnQVVfeXFMUGU3U0hFVU5pWS1JejZaOFNRcGliM3dzdExWUDZqVTNJc0lVREZKRVJ3SWZQclVEMEk3UWwwa1B1M0xvRW1OY2tGMk9IZTZtUDg1YXJwVDhSRllQclVJTFNjSlJQZUxLbw?oc=5)
 
 ---
 
@@ -65,14 +89,6 @@ permalink: /news/tinidazole/
 2026-10-13 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
-
----
-
-### [每天運動30分鐘 研究：降低罹癌風險、防止癌症復發](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">癌症</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,29 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
+
+2026-10-19
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
+
+---
 
 ### [遠離心血管疾病，除了控制三高，更要了解血管功能](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC0tXzlOeXFRZHZZeU9JSUhxdkowVlpfMkMzaXN2eG5CRDEyOW90THhJZ3RncUwtaW9YOHQ0bjc3TlBiY3FOU0J2ZnE3VkpXZWtfc1BlTkhFMTlPczh0bzZjNXVHNE5fMXhfZ0xOMmRIVHp5X3ZvNFcxNHQ3VldvdUxpYm1Yc0VxYlAtQzQ1Qmx1QzhOcHBoMEcyUEJUZ1FIWjlCVl9walI1NFo1NmlreHVHWjBEdDA1am4xc3hTNk5kWHpSdklvRnhEMi1pNndMM2h6VFdXeWdLckR6MmlTZzhZMVllQU5ZQ3kwRS1ZbFh6c3dhaEpaclBYWURQaWlJRUdYWVNsWHpaeHhxMkFFY3pka1RaRlNocDBYYlZlZ2RGMWprQmdrYVVFc20zQ0MtbW5RakNRTi1KbEdOeGlNX3hEUEhlWmpnM2xQelVPYkh0dw?oc=5)
 
 2026-10-17
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC0tXzlOeXFRZHZZeU9JSUhxdkowVlpfMkMzaXN2eG5CRDEyOW90THhJZ3RncUwtaW9YOHQ0bjc3TlBiY3FOU0J2ZnE3VkpXZWtfc1BlTkhFMTlPczh0bzZjNXVHNE5fMXhfZ0xOMmRIVHp5X3ZvNFcxNHQ3VldvdUxpYm1Yc0VxYlAtQzQ1Qmx1QzhOcHBoMEcyUEJUZ1FIWjlCVl9walI1NFo1NmlreHVHWjBEdDA1am4xc3hTNk5kWHpSdklvRnhEMi1pNndMM2h6VFdXeWdLckR6MmlTZzhZMVllQU5ZQ3kwRS1ZbFh6c3dhaEpaclBYWURQaWlJRUdYWVNsWHpaeHhxMkFFY3pka1RaRlNocDBYYlZlZ2RGMWprQmdrYVVFc20zQ0MtbW5RakNRTi1KbEdOeGlNX3hEUEhlWmpnM2xQelVPYkh0dw?oc=5)
+
+---
+
+### [紅肉真的該少吃嗎？ 醫師引603萬人大型研究：心血管、癌症風險沒那麼單純 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
+
+2026-10-16
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
 
 ---
 

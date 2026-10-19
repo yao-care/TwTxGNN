@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（6 則）
 
 ### [無血便無腹痛！女子要大便愈來愈用力兼糞便不成形 驚揭患大腸癌](https://news.google.com/rss/articles/CBMiyANBVV95cUxNRGhNUEJ0R1RSZmpQSjNHcjdzYUhEak1TNzZkNW1BdWJyNldZVDRqSUFfdEV5UGJTTUpQV1BqdkNfMDMxVC1vdTdZN25tc1UzSDMxOUJMUWhndDB6a2NYTzl0UjdVMUp4N3lOQV9SVHpkbEEtekllQWwycVo5b1RuLS1LOEZoWnRNRXhabjN1TlNlRklXaFZNWWlSdzFjUnNCZzFyX3M1TG5aeXpIR0t2YzRnOTZ3YWZkMXZ5SUxROVVOZFZMa2VWRHBVOTRSYk9KT2xfZlBZM2pBTzlMSEpFMUV0N1FSMUV1RUpfRV9BeE9sanNMTWlBblZVRDF5bTFPZkNhdFBuMmFYcjc1c3llbGxxeE1Rd19SdlJYT2JSWmx0RGVVeXZCLVZBZUtPeW5XQUQxSkFBcVJlcndNNjBtUjVqcmpHS0NOMWJ5aEdGZnoyZk8xN1dnTVdUY19mekVnNERKRWNDVFVrcC1YZVl1Ykl4Ylk1Y0dmSUFQaFYwRHdBVVFQbUlJYXRzMzhYRVY1cGJySU83MDdGTGQ4aGVGTl9wUEhMa0pqbFh5UEJxQjhzWFdDWm9yeHl3NXpiYVd6M0FRWVZVc0o?oc=5)
 
 2026-10-16 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [香港01](https://news.google.com/rss/articles/CBMiyANBVV95cUxNRGhNUEJ0R1RSZmpQSjNHcjdzYUhEak1TNzZkNW1BdWJyNldZVDRqSUFfdEV5UGJTTUpQV1BqdkNfMDMxVC1vdTdZN25tc1UzSDMxOUJMUWhndDB6a2NYTzl0UjdVMUp4N3lOQV9SVHpkbEEtekllQWwycVo5b1RuLS1LOEZoWnRNRXhabjN1TlNlRklXaFZNWWlSdzFjUnNCZzFyX3M1TG5aeXpIR0t2YzRnOTZ3YWZkMXZ5SUxROVVOZFZMa2VWRHBVOTRSYk9KT2xfZlBZM2pBTzlMSEpFMUV0N1FSMUV1RUpfRV9BeE9sanNMTWlBblZVRDF5bTFPZkNhdFBuMmFYcjc1c3llbGxxeE1Rd19SdlJYT2JSWmx0RGVVeXZCLVZBZUtPeW5XQUQxSkFBcVJlcndNNjBtUjVqcmpHS0NOMWJ5aEdGZnoyZk8xN1dnTVdUY19mekVnNERKRWNDVFVrcC1YZVl1Ykl4Ylk1Y0dmSUFQaFYwRHdBVVFQbUlJYXRzMzhYRVY1cGJySU83MDdGTGQ4aGVGTl9wUEhMa0pqbFh5UEJxQjhzWFdDWm9yeHl3NXpiYVd6M0FRWVZVc0o?oc=5)
+
+---
+
+### [紅肉真的該少吃嗎？ 醫師引603萬人大型研究：心血管、癌症風險沒那麼單純 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
 
 ---
 
@@ -60,19 +68,27 @@ permalink: /news/oteracil/
 
 ---
 
+### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
+
+2026-10-15 <span class="news-indication-tag">癌症</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
+
+---
+
+### [可檢測50種癌症的新測試 你需要了解什麼？](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMHdXVTJrTWhMNDRENHJ2eno5WTFrRGZfMzdMVmY5eU5CVFVuZFRBdnBmSndUXzV5R3QxS0htRzQ2eFd2aTlNSkpPVFJRZVdNQ0VWSVBNRHFOak4zVW5GQkZB0gFnQVVfeXFMUGU3U0hFVU5pWS1JejZaOFNRcGliM3dzdExWUDZqVTNJc0lVREZKRVJ3SWZQclVEMEk3UWwwa1B1M0xvRW1OY2tGMk9IZTZtUDg1YXJwVDhSRllQclVJTFNjSlJQZUxLbw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">癌症</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMHdXVTJrTWhMNDRENHJ2eno5WTFrRGZfMzdMVmY5eU5CVFVuZFRBdnBmSndUXzV5R3QxS0htRzQ2eFd2aTlNSkpPVFJRZVdNQ0VWSVBNRHFOak4zVW5GQkZB0gFnQVVfeXFMUGU3U0hFVU5pWS1JejZaOFNRcGliM3dzdExWUDZqVTNJc0lVREZKRVJ3SWZQclVEMEk3UWwwa1B1M0xvRW1OY2tGMk9IZTZtUDg1YXJwVDhSRllQclVJTFNjSlJQZUxLbw?oc=5)
+
+---
+
 ### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
 
 2026-10-13 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
-
----
-
-### [每天運動30分鐘 研究：降低罹癌風險、防止癌症復發](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
-
-2026-10-12 <span class="news-indication-tag">癌症</span>
-
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnTWVjRDdfNXZFajYwalhIaVJJS1h0ODJUanVQdG41VXk5aGhhVmdDcG91VlV2RkVxaHloc1VFeVl6MHg1OHMtdDRnZEUtMDRpam93YUpNVXhsaWFrWFBMbGNn0gFnQVVfeXFMT3FQR0U2a0llWkVjWHg4cGlTLVd2QlBldHN2UUpUZThKLVk0N3RPOXdiMjFwblN1TzVMSHRlUFhQblY2blVVdW1uWjVUOU1iQ0JXLXV0Yjd5V2M5OUNJM0dmTzBpWktWOA?oc=5)
 
 ---
 
