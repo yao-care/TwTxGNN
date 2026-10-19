@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [31歲男感冒2周仍強撐突猛爆性心肌炎逝醫嘆少做一事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNGNpWE1MXzNXeHlHakV5YWY0N3ZsaGc2Y0V2X1NsXzZQcHkzaG1fS2J0aEthRTltMzNjTk93dDZHbjRUbXozWF8tRzZzVktETHowNTVtUDFaZVgzNUJLUnBzVXh3VHkwUU10MWRR?oc=5)
+
+2026-10-19
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNGNpWE1MXzNXeHlHakV5YWY0N3ZsaGc2Y0V2X1NsXzZQcHkzaG1fS2J0aEthRTltMzNjTk93dDZHbjRUbXozWF8tRzZzVktETHowNTVtUDFaZVgzNUJLUnBzVXh3VHkwUU10MWRR?oc=5)
+
+---
+
+### [感冒還是流感？出現發燒、肌肉痠痛別亂猜，醫師教你一招分辨](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5)
+
+2026-10-19
+
+來源: [東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5)
+
+---
 
 ### [47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 

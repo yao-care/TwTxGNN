@@ -1,7 +1,69 @@
 {
-  "generated": "2026-10-19T00:37:28.042420+00:00",
-  "count": 12,
+  "generated": "2026-10-19T05:30:31.788516+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "fe7d874067cb",
+      "title": "31歲男感冒2周仍強撐突猛爆性心肌炎逝醫嘆少做一事- 健康",
+      "published": "2026-10-19T03:36:42+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNGNpWE1MXzNXeHlHakV5YWY0N3ZsaGc2Y0V2X1NsXzZQcHkzaG1fS2J0aEthRTltMzNjTk93dDZHbjRUbXozWF8tRzZzVktETHowNTVtUDFaZVgzNUJLUnBzVXh3VHkwUU10MWRR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol",
+              "url": "/drugs/carisoprodol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9f70d6de176",
+      "title": "感冒還是流感？出現發燒、肌肉痠痛別亂猜，醫師教你一招分辨",
+      "published": "2026-10-19T02:32:00+00:00",
+      "sources": [
+        {
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "52b393005956",
       "title": "遠離心血管疾病，除了控制三高，更要了解血管功能",
@@ -70,6 +132,125 @@
       ]
     },
     {
+      "id": "eed237d93560",
+      "title": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡",
+      "published": "2026-10-16T20:00:00+00:00",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "停經",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0125e6e0bcf4",
+      "title": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形 驚揭患大腸癌",
+      "published": "2026-10-16T17:02:09+00:00",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNRGhNUEJ0R1RSZmpQSjNHcjdzYUhEak1TNzZkNW1BdWJyNldZVDRqSUFfdEV5UGJTTUpQV1BqdkNfMDMxVC1vdTdZN25tc1UzSDMxOUJMUWhndDB6a2NYTzl0UjdVMUp4N3lOQV9SVHpkbEEtekllQWwycVo5b1RuLS1LOEZoWnRNRXhabjN1TlNlRklXaFZNWWlSdzFjUnNCZzFyX3M1TG5aeXpIR0t2YzRnOTZ3YWZkMXZ5SUxROVVOZFZMa2VWRHBVOTRSYk9KT2xfZlBZM2pBTzlMSEpFMUV0N1FSMUV1RUpfRV9BeE9sanNMTWlBblZVRDF5bTFPZkNhdFBuMmFYcjc1c3llbGxxeE1Rd19SdlJYT2JSWmx0RGVVeXZCLVZBZUtPeW5XQUQxSkFBcVJlcndNNjBtUjVqcmpHS0NOMWJ5aEdGZnoyZk8xN1dnTVdUY19mekVnNERKRWNDVFVrcC1YZVl1Ykl4Ylk1Y0dmSUFQaFYwRHdBVVFQbUlJYXRzMzhYRVY1cGJySU83MDdGTGQ4aGVGTl9wUEhMa0pqbFh5UEJxQjhzWFdDWm9yeHl3NXpiYVd6M0FRWVZVc0o?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "979debc151db",
       "title": "新研究：超加工食品類型影響大腸癌風險",
       "published": "2026-10-15T21:41:03+00:00",
@@ -116,46 +297,6 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "90d852a04ee7",
-      "title": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」",
-      "published": "2026-10-15T14:40:09+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
             }
           ]
         }
@@ -1123,6 +1264,31 @@
               "slug": "dipyridamole",
               "name": "Dipyridamole",
               "url": "/drugs/dipyridamole/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "012677d7bafa",
+      "title": "骨頭密度低恐失智 代謝問題釀雙重退化 - 台灣醒報 Awakening News Network",
+      "published": "2026-10-12T06:44:07+00:00",
+      "sources": [
+        {
+          "name": "台灣醒報 Awakening News Network",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
             }
           ]
         }

@@ -1,29 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-19T00:37:26.067727+00:00",
-  "count": 47,
+  "fetched_at": "2026-10-19T05:30:28.886814+00:00",
+  "count": 49,
   "news": [
     {
-      "id": "b2b71dc9d960",
-      "title": "奧塔哥大學領國際疫苗試驗 助撒哈拉以南非洲兒童防致命疾病 - 蕃新聞",
-      "published": "2026-10-19T00:17:00+00:00",
-      "summary": "奧塔哥大學領國際疫苗試驗 助撒哈拉以南非洲兒童防致命疾病&nbsp;&nbsp;蕃新聞",
+      "id": "c9f70d6de176",
+      "title": "感冒還是流感？出現發燒、肌肉痠痛別亂猜，醫師教你一招分辨 - 東森新聞",
+      "published": "2026-10-19T02:32:00+00:00",
+      "summary": "感冒還是流感？出現發燒、肌肉痠痛別亂猜，醫師教你一招分辨&nbsp;&nbsp;東森新聞",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xOTlxM2lyc01IWXdJei1WemJyeWo3N3c0OGZXMThocHVpRkZfLVBTZ0pEWVRLQnFla3FWRjdEd3hnV1piMFlnbkV6MVpoNlZiRWc?oc=5"
+          "name": "東森新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5"
         }
       ]
     },
     {
-      "id": "d6161315aa37",
-      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫 - 商傳媒 - SUN MEDIA",
-      "published": "2026-10-19T00:17:45+00:00",
-      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;商傳媒 - SUN MEDIA",
+      "id": "2dff9f1282c2",
+      "title": "胜肽種類怎麼分？藍銅胜肽、六胜肽有什麼功用？帶你認識4大類胜肽！ - 美醫誌",
+      "published": "2026-10-19T01:00:00+00:00",
+      "summary": "胜肽種類怎麼分？藍銅胜肽、六胜肽有什麼功用？帶你認識4大類胜肽！&nbsp;&nbsp;美醫誌",
       "sources": [
         {
-          "name": "商傳媒 - SUN MEDIA",
-          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNTFpubVpMQVZyVEUtbTJ6a05lTzhnVW1kS0FhTUg3MHA5WDFGNFpIUmU1ZEI4RmltOFJSRVdqc3hfQlZqT2h1ZTB1aFgxUUltN0VYMmdWU09JeXVRMEMxMjhWcUc3WEJRUFhxQkpob0pkUzBFVktKMjVfTVd2eUNGXzZBSVFKT3hYdC1UeEFTcmk2bjdJSzBDZXZfVXBuNFRrR2RyenFIVnM3aERxajY4SVNoaGVPUnZKZnBoeU5GMGlGd0tSZ2xnVnNwX1AxUEhzYjlFZklSSnlMVnN1dm9WcjNxTlhTYVJtU2pXdHUwc3Q0YjJOOG85cGc0LW5CM2tlMTA1bi1FalNUR0xpOGhnUm1Vc1NKM0dVN3BRazZsSmR3UE44azFKb0lpaEdVNDVUWnpTekhiM2hseVZOUzNUamRFcEhITTdJM19tRXJ3TExlOGVtUzVxUGx5TzNYVm5vVml0c0thXzJSbzJndktiMEtnM3NDSm1XeTIxN0hIY0c3d0dYNkNELUhjLWNja3kybkVKSllXa0o1cW05TkYxNzZXREZzQVhPWW1DQmMxZFNmUQ?oc=5"
+          "name": "美醫誌",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92X3hqT3pNQ1hDTXNnZHh2dk9FYUNGang3bjJKLUhfUWd6TjBjQUZjcE9GbHJXX2JnbDZIeV9jeVMwc3VaLTV1a2EzaFFVT0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85d7d9314019",
+      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫 - https://www.yesmedia.com.tw/",
+      "published": "2026-10-19T00:17:45+00:00",
+      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;https://www.yesmedia.com.tw/",
+      "sources": [
+        {
+          "name": "https://www.yesmedia.com.tw/",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ1pjaWJZTEMwU0F3aFFEMVdGSkItdXI0TmQ3Y2xDNndZSVRnSTBjQWhHMWhzbG1tdllGeWpPSTUtbFlTNWVtVFJQQm5EN3VYV0FYMWRTN01XX24taFRGQzFUWDk3UkdxcjlsNVk4TmoxVkZwZkpMVXJ2NEpLcVprYWIxQmhwOVhpUnRpeG1rV2JQZlNmbzBfWmVYMFhfUHNKQ1FxaW5TQUQzOGVYZTRRbDZnSnZSUzJpWTNIN0duUlJNVTRuWWdxSTZLT0k1VUk4LUNJQm9uU1F5ZGpIYms2eFFBT3dtLUF5ZmNybnQyS2ZVUGZiNWZZS3hzamtPNVB1SW9yVTNkcEE4eG9CT1UwY3FaTDB3SUh1ODNyMDVaQ1l6RGRHdHhqN2ZCNUdnTnF0Y1RUWkQ4R0p3ZFVVUjNiNmhsWFFGMU1hZXk1NQ?oc=5"
         }
       ]
     },
@@ -40,14 +52,26 @@
       ]
     },
     {
-      "id": "b651079fb2e8",
-      "title": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關 - 經商新聞",
-      "published": "2026-10-18T23:06:35+00:00",
-      "summary": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關&nbsp;&nbsp;經商新聞",
+      "id": "2fb6cc4e9b20",
+      "title": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關 - 經濟日報",
+      "published": "2026-10-19T01:00:53+00:00",
+      "summary": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關&nbsp;&nbsp;經濟日報",
       "sources": [
         {
-          "name": "經商新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Oc2czY28tUkl1MjQwM1d3TjhFLVpYcUJ0NjQ0SmhlbGc2YjFlZ21HT0tuQ1ZiVFVlS2o3NFB4MmFMYkd6cFNqdS1SUUx5UQ?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvbWd2RktPdUxYV0lGOFVXX1h6MGZQVE1qbHBGYmVSQ29TWG5NX0ZlVXdWVHphQTJnaVZDTGsyYkxYR3I1aWhBRzJiTnJ3N1RwMEEwckR0MHRlOTVi0gFiQVVfeXFMTUlyNHlXa1VGOEJleEd4MnVUS0d2UVA2LXRaNVVBUkIxV0wwZmt6QnZfNG9QVlA1QlYxcEdNTVVZWXlnOXBRbTVkaDAtbUpodnZibjI2YVFSTUZDUXNqb3EwWGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe7d874067cb",
+      "title": "31歲男感冒2周仍強撐突猛爆性心肌炎逝醫嘆少做一事- 健康 - 中時新聞網",
+      "published": "2026-10-19T03:36:42+00:00",
+      "summary": "31歲男感冒2周仍強撐突猛爆性心肌炎逝醫嘆少做一事- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNGNpWE1MXzNXeHlHakV5YWY0N3ZsaGc2Y0V2X1NsXzZQcHkzaG1fS2J0aEthRTltMzNjTk93dDZHbjRUbXozWF8tRzZzVktETHowNTVtUDFaZVgzNUJLUnBzVXh3VHkwUU10MWRR?oc=5"
         }
       ]
     },
@@ -88,54 +112,6 @@
       ]
     },
     {
-      "id": "bdf4aecd3faa",
-      "title": "美國今年麻疹病例4410例 35年來最多 - 中國評論新聞",
-      "published": "2026-10-18T08:11:30+00:00",
-      "summary": "美國今年麻疹病例4410例 35年來最多&nbsp;&nbsp;中國評論新聞TWiV 1366：Daniel Griffin 醫師的臨床更新｜This Week in Virology&nbsp;&nbsp;BigGo 財經美今年麻疹病例接近去年兩倍- 國際&nbsp;&nbsp;香港文匯報賓州麻疹相關死亡增至6例 美國今年病例逾4000例&nbsp;&nbsp;Taiwan News美國今年已累計4410宗麻疹確診病例 已接近去年一倍&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "中國評論新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWR0tsMTFjR2g5dUtnbGlkb2pqZVE1d1IzOG1ybXo4VVlyVUhVakZaTzYzMjNYeWdSX2kzRjlrbjRUa0ZhRjVJYnJla1hmU2FIYWxoSXZUeHc4X3hteGxnWHh6YVFOUlE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d8782ed5988",
-      "title": "「1食物」甜爆卻抗發炎　還能預防糖尿病 - 鏡週刊Mirror Media",
-      "published": "2026-10-12T04:11:00+00:00",
-      "summary": "「1食物」甜爆卻抗發炎 還能預防糖尿病&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xUXY1Wm1ZVk5OQkdHcWpCOU1LTDhXU3F3SHJxZlgyZ1NicW96cDRRWHUtWFhKT3NZUFVqSmsxSFN2LVhQaUVMU3A5NlZMb0VjUFlzeER5dEJaQ1I20gFiQVVfeXFMUHFtUk9nUU16eWxEUC15QmJ3dGFQNWZHSU5XLW40c1JQd2IteE11NzJiRi1LOHFwamRSZmQybHdqaVBLRGRSbDlNR3pGc3Z6TzF0MmRVMG14QldQSXN6Ujk3Mnc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90d852a04ee7",
-      "title": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」 - Yahoo新聞",
-      "published": "2026-10-15T14:40:09+00:00",
-      "summary": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2dc2a3fe4e68",
-      "title": "藍莓可能不只影響腸道 研究：或能改善憂鬱症狀 - 自由健康網",
-      "published": "2026-10-16T06:09:00+00:00",
-      "summary": "藍莓可能不只影響腸道 研究：或能改善憂鬱症狀&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1Y2t3ZTFGdVVyblpMeVVOTDhNeGlBVENXSWJJcW5RTDlDSXNPNjduUjNoR0JWMzkyZFBMZGZBZ0hFQ0tTUE9sYWRDWnFoMXYtd29seU45RFVOY0Y4bkQzWEQ2aEg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a42cc6da39f5",
       "title": "《華爾街日報》關於乳糖不耐受的是與非 - 鉅亨號",
       "published": "2026-10-15T09:10:00+00:00",
@@ -144,6 +120,30 @@
         {
           "name": "鉅亨號",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dWtpVXVveWI5WDdHZ0c4RXZsRG5CM2JrNGhrT1N4Vmg1VDE4S1FweW9hcXVQMzdnOVBlU3R0VXdUbUtZOWQ0eQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eed237d93560",
+      "title": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡 - 民視健康長照網",
+      "published": "2026-10-16T20:00:00+00:00",
+      "summary": "別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡&nbsp;&nbsp;民視健康長照網",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bdf4aecd3faa",
+      "title": "美國今年麻疹病例4410例 35年來最多 - 中國評論新聞",
+      "published": "2026-10-18T08:11:30+00:00",
+      "summary": "美國今年麻疹病例4410例 35年來最多&nbsp;&nbsp;中國評論新聞TWiV 1366：Daniel Griffin 醫師的臨床更新｜This Week in Virology&nbsp;&nbsp;BigGo 財經美今年麻疹病例接近去年兩倍- 國際&nbsp;&nbsp;香港文匯報賓州麻疹相關死亡增至6例 美國今年病例逾4000例&nbsp;&nbsp;Taiwan News美國今年已累計4410宗麻疹確診病例 已接近去年一倍&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "中國評論新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWR0tsMTFjR2g5dUtnbGlkb2pqZVE1d1IzOG1ybXo4VVlyVUhVakZaTzYzMjNYeWdSX2kzRjlrbjRUa0ZhRjVJYnJla1hmU2FIYWxoSXZUeHc4X3hteGxnWHh6YVFOUlE?oc=5"
         }
       ]
     },
@@ -160,18 +160,6 @@
       ]
     },
     {
-      "id": "c75e937e8195",
-      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險 - 行銷人",
-      "published": "2026-10-17T02:10:20+00:00",
-      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;行銷人",
-      "sources": [
-        {
-          "name": "行銷人",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "238ea62ff0c9",
       "title": "從餐桌到情緒的全面抗炎防癌實踐路徑2026全球醫學觀點解析 with 報新聞 讀健康 - 報新聞",
       "published": "2026-10-16T09:17:27+00:00",
@@ -180,6 +168,18 @@
         {
           "name": "報新聞",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPZDVxMEJ2MWMtVFM2Z3pRaHdZWmdzOGd6RFUya0dzOFRNYWFOY2ZFZXNHYmhrT0d1Mnk1NTlqWVlvTmdWM2Q3bmNWb1ZoTDd5ak9jR0s4eUNjQksxSTUyd29NQ1BEbkNEXzFlYWdPU0hKek9uZkRzaUlwZHpFZkh2M0k3aDVmc3VSZG5oRm9Jb0JFV2pRRjYzMEtTUmxlcFNHUkdQYkVrS01pNU9hRjY4YjZVMmlmbl9zNnNQS1h1ZmgwbUZCemdBX3FNYlpPZWZoRWw4M2dqWmJOazlUdVpVa19ic3VGeFYwaFZoV3Z4T0stVjB0SWdIRFgxMkxyTmpYLUQ1LXYxR0lTNnRQY00xTzV2am0tTm9VTXZkMWVybXcxRHpWTVVDZ1JpTjRkd0JRR1E1eFlKLVhhVW1qT1N1ZUY4UkFzT09JaWgxd2hDQzA1LWdmSEdrVkFYb0d5dFRG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c75e937e8195",
+      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險 - 行銷人",
+      "published": "2026-10-17T02:10:20+00:00",
+      "summary": "研究發現：減重針或助精神分裂症患降低精神急症風險&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
         }
       ]
     },
@@ -268,14 +268,14 @@
       ]
     },
     {
-      "id": "0bf8707d4fc9",
-      "title": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫 - 《超越新聞網》",
-      "published": "2026-10-17T03:31:01+00:00",
-      "summary": "美科學家發現骨密度與大腦衰老之間存在令人驚訝的聯繫&nbsp;&nbsp;《超越新聞網》",
+      "id": "012677d7bafa",
+      "title": "骨頭密度低恐失智 代謝問題釀雙重退化 - 台灣醒報 Awakening News Network",
+      "published": "2026-10-12T06:44:07+00:00",
+      "summary": "骨頭密度低恐失智 代謝問題釀雙重退化&nbsp;&nbsp;台灣醒報 Awakening News Network",
       "sources": [
         {
-          "name": "《超越新聞網》",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03R2ZnQUZnQWNWWjRlTnFDWFRCeE9RcFo3b1J4UkRUVmkzM1hRZDhWNUtDRV9XMmlpYTBQcndMaDN5TjF0Vm9kNFp3ck1vTVFNOHB2Yg?oc=5"
+          "name": "台灣醒報 Awakening News Network",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9id0hRdHllS0IxZnk5ZWl4Q0V2WEhMUGlWN3hMWUVTMlNVTUtZOF9ocFh2SnozUWpUY2o4OGpkQlZCYjlPNno3Y0FGbTdlWWUxTHpoNUZNRQ?oc=5"
         }
       ]
     },
@@ -376,18 +376,6 @@
       ]
     },
     {
-      "id": "c84105f915bc",
-      "title": "駝背改善｜長者駝背4危害釀肺炎 死亡風險增2倍！4大營養素防老化 - 香港01",
-      "published": "2026-10-17T01:00:00+00:00",
-      "summary": "駝背改善｜長者駝背4危害釀肺炎 死亡風險增2倍！4大營養素防老化&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNZVZIMWJ2QWVsd1VBLTdOVjFVVWJ2VENyaS1uc1U2eUlzVVdYaF9NeGZqYURNRmJhMWp2Z2pTWWZLSVRhVTFNekdtdlNqcklCMEI5ZnAySWt2VnZXWlN2VVJEajFyRW54dlBiaFpyN28wQVlVWVlBWElWc291TzQ1SVFnVDRjRlFkWThYdGdxNG5nRzEzZDRGTUJ1VV9hckFGWUp0WGJ4ZlNlSThVV0xUM05hNXRjb3JYV1AwWnRtVHJYU3RTVFNMR1djcFFXU3EtUFBPNk8wNmZWYUszTlFvN2Z1LXRfcXRxLV9KaXJsdHdSQjI3YTMzWDJzNnNDWEY1dzZaTmRvNDZUc05qdjVfREFzMG1mSWF5QTF3TU5KT3Z0UXZSaktBNjJlc3JITk5hTzJrQ25qYVJLZUhqT19sV2RvWlVIalJwX19ZUjdwcUgwcmtUUFVzUzZ3WWRfTjlCRlU2RXlzNzdVLWhRb09rOVp6czdlYm4yRTNsbnVQRkJXcFJEWUxMQTdvWEZLVE84WXRyNzBqUl8tdWZZVHpnREppZkxITGlVQXBMSFI2X3BOdVVabkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "06aaa6f16289",
       "title": "公園還是速食店？紐西蘭近百萬青少年追蹤研究：住家周邊環境與心理健康有關 - 明日科學",
       "published": "2026-10-16T06:46:47+00:00",
@@ -460,6 +448,18 @@
       ]
     },
     {
+      "id": "bd36c9021e7e",
+      "title": "「1食物」甜爆卻抗發炎、預防糖尿病！是天然甜味劑 | 三立新聞網 - LINE TODAY",
+      "published": "2026-10-12T06:13:58+00:00",
+      "summary": "「1食物」甜爆卻抗發炎、預防糖尿病！是天然甜味劑 | 三立新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DR282MGlzZUZZSC0zSThKZ1lXbEdhOF9vbmlDdFpvT3NrZUVlUTZzNkNmMHFuVjBnT0lSX3pUS1J1SDNoUlFwcllBYXRjN3BDM2R2QzhR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e108b1df80a7",
       "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元",
       "published": "2026-10-13T11:00:00+00:00",
@@ -508,6 +508,18 @@
       ]
     },
     {
+      "id": "d24ac1aa2835",
+      "title": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券 - healthyD",
+      "published": "2026-10-13T12:40:02+00:00",
+      "summary": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券&nbsp;&nbsp;healthyD兒童健康｜港童計劃外疫苗接種率偏低 疫苗猶豫成健康威脅&nbsp;&nbsp;香港01調查揭計劃外兒童疫苗接種率偏低 團體提五項建議完善支援&nbsp;&nbsp;星島頭條疫苗猶豫成全球健康挑戰 本港近四成家長未為子女接種計劃外疫苗&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "healthyD",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOaDA0a002YnJXQ05DMzZtZGhlLTFuNi1wNWFxVktBaGlySGVqUXEtZm9ERFgzMDMwaERDT0p3OWtuVFBTODE5Ti1MSE4xX1VHUDhPNVRzaHpHTl9VaTRkWkpZNGxtRGxkNTBOOXdHMzhBWjctM0I5OTFwQU91T2ZNSnB3Y0o2clgyUjI1N0RxRVZ4SXEyNkcwQnpnRHBRbjhYMnFsZ1R4bWdtT01VYlV2a3ZKQjVKc3hiRHMzY0hHdlNoUUw1eEd3QW9oNU1OZ2J2WkFFZHowdXM5bzNHNnJVVjFsWU1kd0E4eGtOMkZQU0VIZ2ZtdHliWDcwOVRwVmJXZE9INXlOQlRyc1ljUGVhZVo3cFVicHRCMTdxUWM4eEdpbEJGWXl4Z1dqUjk5Vll1T1MwREJ3NDdaSldpY0dBdGtfblJlRkZ3TkRCcGFHQ3VVQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "71078a5cb524",
       "title": "拒求診牙醫︱湖北10歲童徒手拔爛牙 誘發腦出血險死 - 星島頭條",
       "published": "2026-10-14T05:40:25+00:00",
@@ -520,14 +532,14 @@
       ]
     },
     {
-      "id": "a058d9b3389f",
-      "title": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士 - 星島頭條",
-      "published": "2026-10-12T03:00:39+00:00",
-      "summary": "食泡菜清除微塑膠？研究揭乳酸菌或助排納米塑膠 附減塑實用貼士&nbsp;&nbsp;星島頭條",
+      "id": "c84105f915bc",
+      "title": "駝背改善｜長者駝背4危害釀肺炎 死亡風險增2倍！4大營養素防老化 - 香港01",
+      "published": "2026-10-17T01:00:00+00:00",
+      "summary": "駝背改善｜長者駝背4危害釀肺炎 死亡風險增2倍！4大營養素防老化&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPaEJ2dU5FT0R5OThIN2Y1czkxdlVWbXZId3Vrb2t0Q3V3X0lVZ3dtYi1qWk5zakotQTJDS1JCUVlucng5VzhnbjZ6bDc0cW5uMG1MMmdTNmJ5Yzc3RDg4dHRta01QMjMyYU5tVkZoczhnRjN0WUhFa0V5MWlubUFxOE9ZLVdhT0dUVXVDaUwzYnI3amx0NzFIakk0SHo0ak9BME9YZUY3VzJ2ZlVFOGhMYmNNeURRM0NtMGM5N0ZmbS1lT3JwR3ZpSDZsLWRrUDEzdS1PNGYyb2lKdURObjYtVTAxY3FhMkNjRlpRUHNUZHlHZXpnV3NzdVJzbHlBWXFWNFZJakRDbUthVGRFZ2V6OXBCYU9kZnpZb0s1TVJHZkRFRVpJUmFwZlNON1dhQjMwNjdPbFVkZi1zMVpKbmdIVDVpc2pKVUNDcWZXMkRtRUpYT0NJWi1qWEJXaURDMjk0Z2Vrb2RJNEtISkJVN0dFMFpRQXhDaThWY0tDb2ZOLVVGbGY0UmVycUsxR3VMWHp2UXV5UGEtN21DR1ozaExKOHd5ZGJ1dnpNMU55eQ?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNZVZIMWJ2QWVsd1VBLTdOVjFVVWJ2VENyaS1uc1U2eUlzVVdYaF9NeGZqYURNRmJhMWp2Z2pTWWZLSVRhVTFNekdtdlNqcklCMEI5ZnAySWt2VnZXWlN2VVJEajFyRW54dlBiaFpyN28wQVlVWVlBWElWc291TzQ1SVFnVDRjRlFkWThYdGdxNG5nRzEzZDRGTUJ1VV9hckFGWUp0WGJ4ZlNlSThVV0xUM05hNXRjb3JYV1AwWnRtVHJYU3RTVFNMR1djcFFXU3EtUFBPNk8wNmZWYUszTlFvN2Z1LXRfcXRxLV9KaXJsdHdSQjI3YTMzWDJzNnNDWEY1dzZaTmRvNDZUc05qdjVfREFzMG1mSWF5QTF3TU5KT3Z0UXZSaktBNjJlc3JITk5hTzJrQ25qYVJLZUhqT19sV2RvWlVIalJwX19ZUjdwcUgwcmtUUFVzUzZ3WWRfTjlCRlU2RXlzNzdVLWhRb09rOVp6czdlYm4yRTNsbnVQRkJXcFJEWUxMQTdvWEZLVE84WXRyNzBqUl8tdWZZVHpnREppZkxITGlVQXBMSFI2X3BOdVVabkE?oc=5"
         }
       ]
     },
@@ -552,6 +564,18 @@
         {
           "name": "CCUE",
           "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOTDRlVU5NWG00aVhoZ0xDRlQxajBBYmN0NjhRT0pfMU9RX1JCTGlmX2ljakZlNlhnMEtiWFR3b1lMYjNqZlVJajl6SjJLRGMtanN1TG1MdEZ6dkNJU1hsNXBHckVNLWZDdnlhMkVuazdXUGVmNWFieklPbTFiZWZaVms3bHVmOUlGUmlMYTVQUEdsS3pDY1JhUEE4TWxEY1FQdmpTcUEyeVluUXo0RFhlNHNwTGNvTThCOTRtejdlX2ppMW84NUstbFdFZHdRTHZsNGkxNHA4UHNMaGJrdmZrZWswYVRnTnVaUHprN1ZKQU5jcWlJd2lWUm9RYjFheUhGUmFyWTg1SlBieUtWRXpMOGQzWDVFRHFuR2hmRkMyWkxKOGZEbVRfd183QmFzQTJ3eHFQWVpfcGJiM25ySVFtQmMzYzBudUxUaEtBYlhGS241S3lXNUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0125e6e0bcf4",
+      "title": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形 驚揭患大腸癌 - 香港01",
+      "published": "2026-10-16T17:02:09+00:00",
+      "summary": "無血便無腹痛！女子要大便愈來愈用力兼糞便不成形 驚揭患大腸癌&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiyANBVV95cUxNRGhNUEJ0R1RSZmpQSjNHcjdzYUhEak1TNzZkNW1BdWJyNldZVDRqSUFfdEV5UGJTTUpQV1BqdkNfMDMxVC1vdTdZN25tc1UzSDMxOUJMUWhndDB6a2NYTzl0UjdVMUp4N3lOQV9SVHpkbEEtekllQWwycVo5b1RuLS1LOEZoWnRNRXhabjN1TlNlRklXaFZNWWlSdzFjUnNCZzFyX3M1TG5aeXpIR0t2YzRnOTZ3YWZkMXZ5SUxROVVOZFZMa2VWRHBVOTRSYk9KT2xfZlBZM2pBTzlMSEpFMUV0N1FSMUV1RUpfRV9BeE9sanNMTWlBblZVRDF5bTFPZkNhdFBuMmFYcjc1c3llbGxxeE1Rd19SdlJYT2JSWmx0RGVVeXZCLVZBZUtPeW5XQUQxSkFBcVJlcndNNjBtUjVqcmpHS0NOMWJ5aEdGZnoyZk8xN1dnTVdUY19mekVnNERKRWNDVFVrcC1YZVl1Ykl4Ylk1Y0dmSUFQaFYwRHdBVVFQbUlJYXRzMzhYRVY1cGJySU83MDdGTGQ4aGVGTl9wUEhMa0pqbFh5UEJxQjhzWFdDWm9yeHl3NXpiYVd6M0FRWVZVc0o?oc=5"
         }
       ]
     },
