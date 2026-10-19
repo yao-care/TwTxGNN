@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T17:59:20.416249+00:00",
-  "count": 16,
+  "generated": "2026-10-19T22:05:59.581691+00:00",
+  "count": 14,
   "news": [
     {
       "id": "30af67ad48ba",
@@ -22,31 +22,6 @@
               "slug": "isosorbide-dinitrate",
               "name": "Isosorbide dinitrate",
               "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "48e55198506a",
-      "title": "感冒2週照常上班！31歲男突心臟停跳 新婚妻哭跪求救",
-      "published": "2026-10-19T06:43:20+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaGhYcFNHNDNYZUpMNmdpSFd1NklIZnMwVkdKOUVRT01kTzAxMTJhZm5PeVdoX2FJaGxPZXFiTEFxNEhUcHhkejlQT3FUZFlHdWZ1VTJnQkxKYlRPQTBVb19aR1ViUjFIOU5xd1ctdzdacjBadmlqOXFVSjloeEVUa3Z5VTlJQ3lqY2g4cklFb1ZmZFB6c2lMZXBFdzdtQUVycDRIdDVvU2xGRXZxckxlUGFNN2Vpd1U4Y2QySFZlY2JRdmh4a0FxQzFxWnNERFEwdjYzdmRvd19ZZnNMZmJBeUppcklSY2xXaHh0R2tWdHk5QUhUOFFYMzdnVWRKMS1hMVpKYUgxaU5oemhIRkQzNjdoNTB5V0c5eFdMNUtaazNfN2pZNVZnNkZtYzFnYm9nenpUR0xhcG1Ka2JWdXp3NkRvWlZjbTZ3R0R5WjN4T0FmOEtxdUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
             }
           ]
         }
@@ -577,60 +552,6 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7aed8a6317af",
-      "title": "流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險",
-      "published": "2026-10-15T04:45:00+00:00",
-      "sources": [
-        {
-          "name": "民視健康長照網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
             }
           ]
         }

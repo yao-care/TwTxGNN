@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [感冒2週照常上班！31歲男突心臟停跳 新婚妻哭跪求救](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaGhYcFNHNDNYZUpMNmdpSFd1NklIZnMwVkdKOUVRT01kTzAxMTJhZm5PeVdoX2FJaGxPZXFiTEFxNEhUcHhkejlQT3FUZFlHdWZ1VTJnQkxKYlRPQTBVb19aR1ViUjFIOU5xd1ctdzdacjBadmlqOXFVSjloeEVUa3Z5VTlJQ3lqY2g4cklFb1ZmZFB6c2lMZXBFdzdtQUVycDRIdDVvU2xGRXZxckxlUGFNN2Vpd1U4Y2QySFZlY2JRdmh4a0FxQzFxWnNERFEwdjYzdmRvd19ZZnNMZmJBeUppcklSY2xXaHh0R2tWdHk5QUhUOFFYMzdnVWRKMS1hMVpKYUgxaU5oemhIRkQzNjdoNTB5V0c5eFdMNUtaazNfN2pZNVZnNkZtYzFnYm9nenpUR0xhcG1Ka2JWdXp3NkRvWlZjbTZ3R0R5WjN4T0FmOEtxdUE?oc=5)
-
-2026-10-19
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaGhYcFNHNDNYZUpMNmdpSFd1NklIZnMwVkdKOUVRT01kTzAxMTJhZm5PeVdoX2FJaGxPZXFiTEFxNEhUcHhkejlQT3FUZFlHdWZ1VTJnQkxKYlRPQTBVb19aR1ViUjFIOU5xd1ctdzdacjBadmlqOXFVSjloeEVUa3Z5VTlJQ3lqY2g4cklFb1ZmZFB6c2lMZXBFdzdtQUVycDRIdDVvU2xGRXZxckxlUGFNN2Vpd1U4Y2QySFZlY2JRdmh4a0FxQzFxWnNERFEwdjYzdmRvd19ZZnNMZmJBeUppcklSY2xXaHh0R2tWdHk5QUhUOFFYMzdnVWRKMS1hMVpKYUgxaU5oemhIRkQzNjdoNTB5V0c5eFdMNUtaazNfN2pZNVZnNkZtYzFnYm9nenpUR0xhcG1Ka2JWdXp3NkRvWlZjbTZ3R0R5WjN4T0FmOEtxdUE?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [感冒還是流感？出現發燒、肌肉痠痛別亂猜，醫師教你一招分辨](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5)
 
