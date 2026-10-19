@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-10-18T22:04:45.804154+00:00",
-  "total_count": 42,
+  "last_updated": "2026-10-19T00:37:27.984613+00:00",
+  "total_count": 47,
   "matched_count": 12,
   "news": [
+    {
+      "id": "d6161315aa37",
+      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫 - 商傳媒 - SUN MEDIA",
+      "published": "2026-10-19T00:17:45+00:00",
+      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;商傳媒 - SUN MEDIA",
+      "sources": [
+        {
+          "name": "商傳媒 - SUN MEDIA",
+          "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNTFpubVpMQVZyVEUtbTJ6a05lTzhnVW1kS0FhTUg3MHA5WDFGNFpIUmU1ZEI4RmltOFJSRVdqc3hfQlZqT2h1ZTB1aFgxUUltN0VYMmdWU09JeXVRMEMxMjhWcUc3WEJRUFhxQkpob0pkUzBFVktKMjVfTVd2eUNGXzZBSVFKT3hYdC1UeEFTcmk2bjdJSzBDZXZfVXBuNFRrR2RyenFIVnM3aERxajY4SVNoaGVPUnZKZnBoeU5GMGlGd0tSZ2xnVnNwX1AxUEhzYjlFZklSSnlMVnN1dm9WcjNxTlhTYVJtU2pXdHUwc3Q0YjJOOG85cGc0LW5CM2tlMTA1bi1FalNUR0xpOGhnUm1Vc1NKM0dVN3BRazZsSmR3UE44azFKb0lpaEdVNDVUWnpTekhiM2hseVZOUzNUamRFcEhITTdJM19tRXJ3TExlOGVtUzVxUGx5TzNYVm5vVml0c0thXzJSbzJndktiMEtnM3NDSm1XeTIxN0hIY0c3d0dYNkNELUhjLWNja3kybkVKSllXa0o1cW05TkYxNzZXREZzQVhPWW1DQmMxZFNmUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b2b71dc9d960",
+      "title": "奧塔哥大學領國際疫苗試驗 助撒哈拉以南非洲兒童防致命疾病",
+      "published": "2026-10-19T00:17:00+00:00",
+      "summary": "奧塔哥大學領國際疫苗試驗 助撒哈拉以南非洲兒童防致命疾病&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xOTlxM2lyc01IWXdJei1WemJyeWo3N3c0OGZXMThocHVpRkZfLVBTZ0pEWVRLQnFla3FWRjdEd3hnV1piMFlnbkV6MVpoNlZiRWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "54b54697fde4",
+      "title": "天天吃草莓蘋果能抗老延壽？專家解析神奇的漆黃素秘密- 書房",
+      "published": "2026-10-18T23:30:00+00:00",
+      "summary": "天天吃草莓蘋果能抗老延壽？專家解析神奇的漆黃素秘密- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQjdBSGZsWlpvVXpnc0ZNeUJLMXlTczJDajhnblFtXzBNMlMxVV9FUFNSRGZqU2xCbmZ6MGFpT3hlaGpna3BJVWhfeHA4d0owWUJ0ZlNJZmkyM2JKaGMw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b651079fb2e8",
+      "title": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關",
+      "published": "2026-10-18T23:06:35+00:00",
+      "summary": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關&nbsp;&nbsp;經商新聞",
+      "sources": [
+        {
+          "name": "經商新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Oc2czY28tUkl1MjQwM1d3TjhFLVpYcUJ0NjQ0SmhlbGc2YjFlZ21HT0tuQ1ZiVFVlS2o3NFB4MmFMYkd6cFNqdS1SUUx5UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "a847f36cb349",
       "title": "醫學滿東華：虛擬大腸鏡 安全無痛免麻醉 - 20261019 - 副刊",
@@ -38,6 +90,19 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQVVR6NFlIOW1VSmp3Y0cxMlFNdzVWMHpOMjZMSmZKQko0bFo1LVRuSkJCUzQ3aE5EbGxLUTNsQnRjamI2bUhiY2JvQ0xRX3B2VTU0bVZOSXpXRWhsNWJPZU5hcEpGb1FrR1hVc2xLckVXTE9KUk1WdlpWQlJMdkJUeVNjcWNHamFPejBxcDdqWVBSMV9TSG5xYkhocHRQa1pFQ2hSV1JudzRyTmZYLUh4TVIxRjNhUzlNR1VZRE9KMXJsZ1FuRkNBRDkzb2xsY2hlY3I2VDhZYU9RR3E1ajI3anplWGQxU3QzOUZNUG9Tc00tQWZjeFZxXzlfQmh5WTRkcEpxV0JQSmt0RlVETlZodm5vaFJJcTlfSWJVVFJOOHdTWG8zYUlZZnhqajE3MGoyYTB4bXV0YmpzY0lBdVpWb29UQUxSMUlPUE9zc1JZeXpMTDdjd045ZTcyOUV0Y2I5QXRKdXh3YmMwSzZmRG5sTGlXek1xU2ZYeFdkc3JUR1RYc250cm9uQVBMRXJCYjZaa3ExbG04NlNpOGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bdf4aecd3faa",
+      "title": "美國今年麻疹病例4410例 35年來最多",
+      "published": "2026-10-18T08:11:30+00:00",
+      "summary": "美國今年麻疹病例4410例 35年來最多&nbsp;&nbsp;中國評論新聞TWiV 1366：Daniel Griffin 醫師的臨床更新｜This Week in Virology&nbsp;&nbsp;BigGo 財經美今年麻疹病例接近去年兩倍- 國際&nbsp;&nbsp;香港文匯報賓州麻疹相關死亡增至6例 美國今年病例逾4000例&nbsp;&nbsp;Taiwan News美國今年已累計4410宗麻疹確診病例 已接近去年一倍&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "中國評論新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWR0tsMTFjR2g5dUtnbGlkb2pqZVE1d1IzOG1ybXo4VVlyVUhVakZaTzYzMjNYeWdSX2kzRjlrbjRUa0ZhRjVJYnJla1hmU2FIYWxoSXZUeHc4X3hteGxnWHh6YVFOUlE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -354,6 +419,47 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90d852a04ee7",
+      "title": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」",
+      "published": "2026-10-15T14:40:09+00:00",
+      "summary": "《Nature》重磅發現：更年期不是慢慢老！3億筆數據證實女性面臨「斷崖式衰老」&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQV2xIMldId0k3OWhrLTZvc293QTRxZlN4YnJmT3RBWGRPV1ktV0dncS1WaUJIbm56RDBhUmdqdU1yYTRlYmthSFhJQ2lUY0tLUl9YR25BSUVwRFJIOEg3eWlmQ3JoXzh5dDZiYV8wRUE1enpjWEhVSEFJZ19tMHZ1bk13dUFEdjJ4TkxCaVd3YmVXcDVDRHdwV24zOUJYRGpTX0p3NmxOSzl6RnNqUUVzU1lFeWVZN1U2NWc3NjV1RGdyU1VKd2hkZG9zMllUX1FHQmdpbXVQVjVjRFVpa25qVk9ucFFiWVQ1MV8yTVBEZ0xqd0p1V3oxNHR4eDZJb1l2N25PR3RmZDlwcjlPZTNHNDlCZFgtR09sTEY0SXVkcGxxZ3dRVktZaS1MdFUtNmpRXzNYTUpmVVNCQk13RWk1YXN3UTN0RzNickFKcVRtdjZyQ2JRN0Y5RTluM1ZHcTNGMUZ0blo4WkV6MGJNUDV6QVVadFk5RWRheXdzRGVpblhxWXNCNU9IeVJvVXdUZ21kR2JOOWZpSzJjc2FTelRfVVluaU1WZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
             }
           ]
         }
@@ -844,47 +950,6 @@
           "type": "indication",
           "name": "menopause",
           "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "87e8e647ef7a",
-      "title": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤 - Marie Claire 美麗佳人",
-      "published": "2026-10-13T11:00:00+00:00",
-      "summary": "10/18 國際更年期日｜告別荷爾蒙波動帶來的「斷崖式老化」！婦產專科洪芝晨院長解密：以 4D 童妍針× 瑞絲朗女神玻尿酸，重拾熟齡女性的骨相支撐與自帶光澤&nbsp;&nbsp;Marie Claire 美麗佳人",
-      "sources": [
-        {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrcTBGQzJ2dnh6cVFKQTZZMWhTR0tSTXUtMnByaWJZWU41dnk0TVk1VC1LanJFWk44OS1LeHpBYnI0Wkg2Qmt1dTBuaXpSMnZRM2twUW1hTFJMeDlqczRzWHJQMA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
           "related_drugs": [
             {
               "slug": "tinidazole",
