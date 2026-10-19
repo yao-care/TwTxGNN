@@ -14,7 +14,7 @@ permalink: /news/cladribine/
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,7 @@ permalink: /news/cladribine/
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QV3dXaFI5bXpnY194RF9XVGpsMFFjWFBMM1ExUDVYTHU1TTJ3d190eFZfT2tpZm5nV1d5TzJOWFVpaUsxbGxvaUdZRTBxT0lSVmdGbldySXN1ME9uel9JYmxuNUY?oc=5)
-
-2026-10-14 <span class="news-indication-tag">癌症</span>
-
-來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QV3dXaFI5bXpnY194RF9XVGpsMFFjWFBMM1ExUDVYTHU1TTJ3d190eFZfT2tpZm5nV1d5TzJOWFVpaUsxbGxvaUdZRTBxT0lSVmdGbldySXN1ME9uel9JYmxuNUY?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhUko3aXVRTWdHLXdQRE9mVWgtckhaZ2FnRjY0MU1NMmpTU0V4Tm94ZVhwdGI0QUI3b2p4VGFzbFRGWkZTczF0Nkp1OWs5RnlGeUJsUUk3c1Bwa29tamsyRdIBZkFVX3lxTE5iS3lxUURlRk5STXB3N0R5eGlqLVdvUFVQdk9xSkpfSl9hdTNIVkV2RFAwZl8wZVNRVWlnRHR4cm5YZUtQN3dJU0xTS09Xa0dGUVlpYVRFNDVBdEU3R0pNVHd2MGxJUQ?oc=5)
 

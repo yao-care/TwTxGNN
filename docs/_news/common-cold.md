@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/common-cold/
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,13 @@ permalink: /news/common-cold/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [31歲男感冒2周仍強撐突猛爆性心肌炎逝醫嘆少做一事- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNGNpWE1MXzNXeHlHakV5YWY0N3ZsaGc2Y0V2X1NsXzZQcHkzaG1fS2J0aEthRTltMzNjTk93dDZHbjRUbXozWF8tRzZzVktETHowNTVtUDFaZVgzNUJLUnBzVXh3VHkwUU10MWRR?oc=5)
+### [感冒2週照常上班！31歲男突心臟停跳 新婚妻哭跪求救](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaGhYcFNHNDNYZUpMNmdpSFd1NklIZnMwVkdKOUVRT01kTzAxMTJhZm5PeVdoX2FJaGxPZXFiTEFxNEhUcHhkejlQT3FUZFlHdWZ1VTJnQkxKYlRPQTBVb19aR1ViUjFIOU5xd1ctdzdacjBadmlqOXFVSjloeEVUa3Z5VTlJQ3lqY2g4cklFb1ZmZFB6c2lMZXBFdzdtQUVycDRIdDVvU2xGRXZxckxlUGFNN2Vpd1U4Y2QySFZlY2JRdmh4a0FxQzFxWnNERFEwdjYzdmRvd19ZZnNMZmJBeUppcklSY2xXaHh0R2tWdHk5QUhUOFFYMzdnVWRKMS1hMVpKYUgxaU5oemhIRkQzNjdoNTB5V0c5eFdMNUtaazNfN2pZNVZnNkZtYzFnYm9nenpUR0xhcG1Ka2JWdXp3NkRvWlZjbTZ3R0R5WjN4T0FmOEtxdUE?oc=5)
 
 2026-10-19
 
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNGNpWE1MXzNXeHlHakV5YWY0N3ZsaGc2Y0V2X1NsXzZQcHkzaG1fS2J0aEthRTltMzNjTk93dDZHbjRUbXozWF8tRzZzVktETHowNTVtUDFaZVgzNUJLUnBzVXh3VHkwUU10MWRR?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi1gJBVV95cUxNaGhYcFNHNDNYZUpMNmdpSFd1NklIZnMwVkdKOUVRT01kTzAxMTJhZm5PeVdoX2FJaGxPZXFiTEFxNEhUcHhkejlQT3FUZFlHdWZ1VTJnQkxKYlRPQTBVb19aR1ViUjFIOU5xd1ctdzdacjBadmlqOXFVSjloeEVUa3Z5VTlJQ3lqY2g4cklFb1ZmZFB6c2lMZXBFdzdtQUVycDRIdDVvU2xGRXZxckxlUGFNN2Vpd1U4Y2QySFZlY2JRdmh4a0FxQzFxWnNERFEwdjYzdmRvd19ZZnNMZmJBeUppcklSY2xXaHh0R2tWdHk5QUhUOFFYMzdnVWRKMS1hMVpKYUgxaU5oemhIRkQzNjdoNTB5V0c5eFdMNUtaazNfN2pZNVZnNkZtYzFnYm9nenpUR0xhcG1Ka2JWdXp3NkRvWlZjbTZ3R0R5WjN4T0FmOEtxdUE?oc=5)
 
 ---
 
@@ -44,14 +44,6 @@ permalink: /news/common-cold/
 2026-10-19
 
 來源: [東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5)
-
----
-
-### [47歲男吃感冒藥8小時尿不出來！膀胱脹尿350c.c. 專家籲3族群當心 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
-
-2026-10-12
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTFplbzJSakpaMHJwM3ppLWJxQVpBUFdMdEFOdVdaX3V3eXBxT3Vmc2VmS2wxZWlBQkstamVWRmh6M3VrQ28tZXJsdHc1S0lRWUU0?oc=5)
 
 ---
 

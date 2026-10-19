@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5)
 
 2026-10-16 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
 來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5)
-
----
-
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QV3dXaFI5bXpnY194RF9XVGpsMFFjWFBMM1ExUDVYTHU1TTJ3d190eFZfT2tpZm5nV1d5TzJOWFVpaUsxbGxvaUdZRTBxT0lSVmdGbldySXN1ME9uel9JYmxuNUY?oc=5)
-
-2026-10-14 <span class="news-indication-tag">癌症</span>
-
-來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QV3dXaFI5bXpnY194RF9XVGpsMFFjWFBMM1ExUDVYTHU1TTJ3d190eFZfT2tpZm5nV1d5TzJOWFVpaUsxbGxvaUdZRTBxT0lSVmdGbldySXN1ME9uel9JYmxuNUY?oc=5)
 
 ---
 

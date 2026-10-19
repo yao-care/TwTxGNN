@@ -43,11 +43,11 @@ permalink: /news/cefmetazole/
 
 ## 相關新聞（3 則）
 
-### [心衰竭與癌症有關聯？醫揭共同危險因子 當心慢性發炎、代謝異常徵兆](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QV3dXaFI5bXpnY194RF9XVGpsMFFjWFBMM1ExUDVYTHU1TTJ3d190eFZfT2tpZm5nV1d5TzJOWFVpaUsxbGxvaUdZRTBxT0lSVmdGbldySXN1ME9uel9JYmxuNUY?oc=5)
+### [流感季別只顧孩子！兒科醫提醒：家長也要留意自身感染風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
-2026-10-14 <span class="news-indication-tag">癌症</span>
+2026-10-15 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">鏈球菌</span>
 
-來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QV3dXaFI5bXpnY194RF9XVGpsMFFjWFBMM1ExUDVYTHU1TTJ3d190eFZfT2tpZm5nV1d5TzJOWFVpaUsxbGxvaUdZRTBxT0lSVmdGbldySXN1ME9uel9JYmxuNUY?oc=5)
+來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN3U2aW9LRGpYWUlJUTZDYUtFU05vU2VfczVGaEM1NmI2UC1iQTc1TmFwNmdkSWJNX2t0TEZiUHp3OUVadUdUeE92WVlEUWFLaFdwQWdIMGtURldGYlZrS3Y0UEE?oc=5)
 
 ---
 
