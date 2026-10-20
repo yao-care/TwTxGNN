@@ -14,7 +14,7 @@ permalink: /news/trabectedin/
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,13 +27,13 @@ permalink: /news/trabectedin/
 <li><strong>原適應症</strong>: 無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)，且曾接受一種含 anthracycline 療程的病人</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (99.7%)<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [紅肉真的該少吃嗎？ 醫師引603萬人大型研究：心血管、癌症風險沒那麼單純 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
 
@@ -56,14 +56,6 @@ permalink: /news/trabectedin/
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMHdXVTJrTWhMNDRENHJ2eno5WTFrRGZfMzdMVmY5eU5CVFVuZFRBdnBmSndUXzV5R3QxS0htRzQ2eFd2aTlNSkpPVFJRZVdNQ0VWSVBNRHFOak4zVW5GQkZB0gFnQVVfeXFMUGU3U0hFVU5pWS1JejZaOFNRcGliM3dzdExWUDZqVTNJc0lVREZKRVJ3SWZQclVEMEk3UWwwa1B1M0xvRW1OY2tGMk9IZTZtUDg1YXJwVDhSRllQclVJTFNjSlJQZUxLbw?oc=5)
-
----
-
-### [58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
-
-2026-10-13 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
-
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
 
 ---
 

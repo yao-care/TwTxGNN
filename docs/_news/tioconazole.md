@@ -37,19 +37,19 @@ permalink: /news/tioconazole/
 
 ## 相關新聞（2 則）
 
+### [牙痛竟是心肌梗塞徵兆？醫師：更年期後血管風險飆3倍 做1運動防猝死](https://news.google.com/rss/articles/CBMiqgNBVV95cUxNOWNYRWxXU2FUYzQ3YmxHbUlQaTBDbFl6bDdObnpxR1JHWGRKajZ0QXhRMGwyNUNrbURmMWtPaHl3M1gza3NrZXR4Q2JrSFZXNTlxQXZWbnUwY1ZMekNYeldTMzVtcnVzdDQ1dkhqT1JheUNXVnpjUlIwVzRMRlUtQU5Eak14OExMR0xxbndtRXYxU2ZkUzlVX1hPYnAyVENRWkFfNlF5dEFqeXA3aldObWRDZE5NN3I3WldpelZ4VWxVT0RKeE9MOFdNN0d6a05iSWxJbDl1TXRZZTA1SHNPNFExQUhRalhFcEFRMExzY1BTSkdkUUNUTVdrbHM5ekZCYmlnSjh0SV9ac0FfVTBSRXpWYzEtZ190TFdUWm43aElUT0ZvZVpZbVA4M3ZZSGZMbnk4Q1RHNWdXX0MydlVYWTdrOV80aXVzSGdidDZDUWR2cG5Xb0Qxcmc4dS01LUZOcDlmSjJXMjRLN1dycU9lSkVWQ0hORGtLeFdlbTd5aUxoYTExbXkzSVFHbk5GZDR0UnJJYllrcE9XSEZPRllUSGhUeVJxdWJXNUE?oc=5)
+
+2026-10-20 <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">更年期</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiqgNBVV95cUxNOWNYRWxXU2FUYzQ3YmxHbUlQaTBDbFl6bDdObnpxR1JHWGRKajZ0QXhRMGwyNUNrbURmMWtPaHl3M1gza3NrZXR4Q2JrSFZXNTlxQXZWbnUwY1ZMekNYeldTMzVtcnVzdDQ1dkhqT1JheUNXVnpjUlIwVzRMRlUtQU5Eak14OExMR0xxbndtRXYxU2ZkUzlVX1hPYnAyVENRWkFfNlF5dEFqeXA3aldObWRDZE5NN3I3WldpelZ4VWxVT0RKeE9MOFdNN0d6a05iSWxJbDl1TXRZZTA1SHNPNFExQUhRalhFcEFRMExzY1BTSkdkUUNUTVdrbHM5ekZCYmlnSjh0SV9ac0FfVTBSRXpWYzEtZ190TFdUWm43aElUT0ZvZVpZbVA4M3ZZSGZMbnk4Q1RHNWdXX0MydlVYWTdrOV80aXVzSGdidDZDUWR2cG5Xb0Qxcmc4dS01LUZOcDlmSjJXMjRLN1dycU9lSkVWQ0hORGtLeFdlbTd5aUxoYTExbXkzSVFHbk5GZDR0UnJJYllrcE9XSEZPRllUSGhUeVJxdWJXNUE?oc=5)
+
+---
+
 ### [別讓肌膚跟著停經！更年期「5大肌膚危機」 醫揭：盲目保養恐加速屏障失衡](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5)
 
 2026-10-16 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
 來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE93Rm1kai1veE9BSklSSmNQUmhXb0FFcUJmNi1wY3V4bTJtNTUwRENVX3U2VHdqb085eWZiNEFEbFNoZkZWcTZWTzRjT2JpLXpNUG5mNVpFZEwtN1B3MEF0WHZROTY?oc=5)
-
----
-
-### [58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
-
-2026-10-13 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
-
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
 
 ---
 

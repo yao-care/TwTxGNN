@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>: 卵巢癌（台灣許可證核准適應症）</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (99.9%)<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma (99.9%)</li>
 <li>rectum mucinous adenocarcinoma (99.3%)</li>
 <li>colon mucinous adenocarcinoma (99.3%)</li>
 <li>adult germ cell tumor (99.2%)</li>
@@ -42,7 +42,7 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [無血便無腹痛！女子要大便愈來愈用力兼糞便不成形 驚揭患大腸癌](https://news.google.com/rss/articles/CBMiyANBVV95cUxNRGhNUEJ0R1RSZmpQSjNHcjdzYUhEak1TNzZkNW1BdWJyNldZVDRqSUFfdEV5UGJTTUpQV1BqdkNfMDMxVC1vdTdZN25tc1UzSDMxOUJMUWhndDB6a2NYTzl0UjdVMUp4N3lOQV9SVHpkbEEtekllQWwycVo5b1RuLS1LOEZoWnRNRXhabjN1TlNlRklXaFZNWWlSdzFjUnNCZzFyX3M1TG5aeXpIR0t2YzRnOTZ3YWZkMXZ5SUxROVVOZFZMa2VWRHBVOTRSYk9KT2xfZlBZM2pBTzlMSEpFMUV0N1FSMUV1RUpfRV9BeE9sanNMTWlBblZVRDF5bTFPZkNhdFBuMmFYcjc1c3llbGxxeE1Rd19SdlJYT2JSWmx0RGVVeXZCLVZBZUtPeW5XQUQxSkFBcVJlcndNNjBtUjVqcmpHS0NOMWJ5aEdGZnoyZk8xN1dnTVdUY19mekVnNERKRWNDVFVrcC1YZVl1Ykl4Ylk1Y0dmSUFQaFYwRHdBVVFQbUlJYXRzMzhYRVY1cGJySU83MDdGTGQ4aGVGTl9wUEhMa0pqbFh5UEJxQjhzWFdDWm9yeHl3NXpiYVd6M0FRWVZVc0o?oc=5)
 
@@ -81,14 +81,6 @@ permalink: /news/carboplatin/
 2026-10-14 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OMHdXVTJrTWhMNDRENHJ2eno5WTFrRGZfMzdMVmY5eU5CVFVuZFRBdnBmSndUXzV5R3QxS0htRzQ2eFd2aTlNSkpPVFJRZVdNQ0VWSVBNRHFOak4zVW5GQkZB0gFnQVVfeXFMUGU3U0hFVU5pWS1JejZaOFNRcGliM3dzdExWUDZqVTNJc0lVREZKRVJ3SWZQclVEMEk3UWwwa1B1M0xvRW1OY2tGMk9IZTZtUDg1YXJwVDhSRllQclVJTFNjSlJQZUxLbw?oc=5)
-
----
-
-### [58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
-
-2026-10-13 <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">停經</span>
-
-來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5)
 
 ---
 

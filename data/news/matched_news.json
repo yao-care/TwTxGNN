@@ -1,8 +1,74 @@
 {
-  "last_updated": "2026-10-19T22:05:59.541049+00:00",
-  "total_count": 47,
+  "last_updated": "2026-10-20T01:22:21.025945+00:00",
+  "total_count": 49,
   "matched_count": 14,
   "news": [
+    {
+      "id": "070d21d36ecf",
+      "title": "牙痛竟是心肌梗塞徵兆？醫師：更年期後血管風險飆3倍 做1運動防猝死",
+      "published": "2026-10-20T00:04:47+00:00",
+      "summary": "牙痛竟是心肌梗塞徵兆？醫師：更年期後血管風險飆3倍 做1運動防猝死&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNOWNYRWxXU2FUYzQ3YmxHbUlQaTBDbFl6bDdObnpxR1JHWGRKajZ0QXhRMGwyNUNrbURmMWtPaHl3M1gza3NrZXR4Q2JrSFZXNTlxQXZWbnUwY1ZMekNYeldTMzVtcnVzdDQ1dkhqT1JheUNXVnpjUlIwVzRMRlUtQU5Eak14OExMR0xxbndtRXYxU2ZkUzlVX1hPYnAyVENRWkFfNlF5dEFqeXA3aldObWRDZE5NN3I3WldpelZ4VWxVT0RKeE9MOFdNN0d6a05iSWxJbDl1TXRZZTA1SHNPNFExQUhRalhFcEFRMExzY1BTSkdkUUNUTVdrbHM5ekZCYmlnSjh0SV9ac0FfVTBSRXpWYzEtZ190TFdUWm43aElUT0ZvZVpZbVA4M3ZZSGZMbnk4Q1RHNWdXX0MydlVYWTdrOV80aXVzSGdidDZDUWR2cG5Xb0Qxcmc4dS01LUZOcDlmSjJXMjRLN1dycU9lSkVWQ0hORGtLeFdlbTd5aUxoYTExbXkzSVFHbk5GZDR0UnJJYllrcE9XSEZPRllUSGhUeVJxdWJXNUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e232355f3e6",
+      "title": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷",
+      "published": "2026-10-19T22:05:41+00:00",
+      "summary": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷&nbsp;&nbsp;巴士的報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeElrcUhrbTBuMGJnZXJxT2lyUEl6QmtfYmRWNE5hRy12dmQwLV9NeXhVRU4wYko1bjQyakR5U3RyMTA3Tm9tN3E5UnlQVnRDem12b196QjFNbEpWRU0zLXAySVl3NHRFZ2lEcV9IUWY5UzBMZGRhUXRNNDFoeWxkaEE4V2xZQzVidnU5OHBSZW5jajIzYUwyRzNmMVBRSk5xc1JpSjJXX3BnaGVPdmpkV0dUeHhlVWo4eW5Eek9NaXV1OTh4cHVQMjVfSzFPMDJVejhiYTJua0o3TmRKNTNvUWlHdEl0SHZkWXA4UzlPMEtiQUxHeURpanhpYWtDVmNHNGN1eTJPTHhsNy10N1hLOXVNUjNUY2k3VTY3MjF0RUNoUWo1czFxci1VUnpkTm5LTWk1a2NETTZtcURVaS1hakd3Z000X2RndEFveHNIZ010ZFROWlpNLXU5c2lRVW9XV2ZERkRvOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "bc04ec604e3f",
       "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上",
@@ -813,6 +879,19 @@
       "matched_keywords": []
     },
     {
+      "id": "4e949bcfa75d",
+      "title": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用 - TechNews 科技新報",
+      "published": "2026-10-15T23:38:58+00:00",
+      "summary": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlUzWTdoRFIzc2JsX2dJd3E5UkE1Q1YtUTRmMzlHY2VKTGxiZ0pzN0YwLUdUdWRvVF9GcUx5S0Q4LWQ1MXNuM0dJYW9oZ0xMR0ZSSkRtZHg1V29OM0N1SEZwMGdLMmJxNUU0NjJWY1BrRVBuYkJSa0toU1lscVpaeHc1ek1Da1BSQzg2Yi1NX0V6ZW1fc3NscExEcDlLT3pfMk9R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5c7c931af401",
       "title": "醫語怡情｜家中不可忽視的兒童中毒風險",
       "published": "2026-10-15T23:00:00+00:00",
@@ -1539,7 +1618,7 @@
       "id": "d24ac1aa2835",
       "title": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券",
       "published": "2026-10-13T12:40:02+00:00",
-      "summary": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券&nbsp;&nbsp;healthyD兒童健康｜港童計劃外疫苗接種率偏低 疫苗猶豫成健康威脅&nbsp;&nbsp;香港01調查揭計劃外兒童疫苗接種率偏低 團體提五項建議完善支援&nbsp;&nbsp;星島頭條疫苗猶豫成全球健康挑戰 本港近四成家長未為子女接種計劃外疫苗&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "本地調查揭近4成家長未為子女接種常規、流感及新冠以外疫苗｜團體倡設疫苗假及兒童疫苗醫療券&nbsp;&nbsp;healthyD兒童健康｜港童計劃外疫苗接種率偏低 疫苗猶豫成健康威脅&nbsp;&nbsp;香港01疫苗猶豫成全球健康挑戰 本港近四成家長未為子女接種計劃外疫苗&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "healthyD",
@@ -1547,89 +1626,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "eaafb2188543",
-      "title": "58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌",
-      "published": "2026-10-13T11:09:57+00:00",
-      "summary": "58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "e108b1df80a7",
@@ -1888,14 +1884,14 @@
       ]
     },
     {
-      "id": "d11fffd7435c",
-      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
-      "published": "2026-10-12T23:36:12+00:00",
-      "summary": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備&nbsp;&nbsp;TechNews 科技新報",
+      "id": "ed71f4ae9f22",
+      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報 - LINE TODAY",
+      "published": "2026-10-13T07:49:41+00:00",
+      "summary": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWFdZdjlKS3ViN3poZlRJY2hhYVRCUlRzRS1DODlxTGdoTVBmUXBORXlybFlFZHFfcU8taU5GYXowUUNTOXJWbUpBMEJ3VHc0Mnp3TGVn?oc=5"
         }
       ],
       "matched_keywords": [

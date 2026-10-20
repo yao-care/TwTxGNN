@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>
-<li>myocardial infarction (99.4%)</li>
+<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心肌梗塞</span></li>
 <li>thrombotic disease (99.3%)</li>
 <li>hyperthyroidism (99.3%)</li>
 <li>homozygous familial hypercholesterolemia (99.2%)</li>
@@ -42,9 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [牙痛竟是心肌梗塞徵兆？醫師：更年期後血管風險飆3倍 做1運動防猝死](https://news.google.com/rss/articles/CBMiqgNBVV95cUxNOWNYRWxXU2FUYzQ3YmxHbUlQaTBDbFl6bDdObnpxR1JHWGRKajZ0QXhRMGwyNUNrbURmMWtPaHl3M1gza3NrZXR4Q2JrSFZXNTlxQXZWbnUwY1ZMekNYeldTMzVtcnVzdDQ1dkhqT1JheUNXVnpjUlIwVzRMRlUtQU5Eak14OExMR0xxbndtRXYxU2ZkUzlVX1hPYnAyVENRWkFfNlF5dEFqeXA3aldObWRDZE5NN3I3WldpelZ4VWxVT0RKeE9MOFdNN0d6a05iSWxJbDl1TXRZZTA1SHNPNFExQUhRalhFcEFRMExzY1BTSkdkUUNUTVdrbHM5ekZCYmlnSjh0SV9ac0FfVTBSRXpWYzEtZ190TFdUWm43aElUT0ZvZVpZbVA4M3ZZSGZMbnk4Q1RHNWdXX0MydlVYWTdrOV80aXVzSGdidDZDUWR2cG5Xb0Qxcmc4dS01LUZOcDlmSjJXMjRLN1dycU9lSkVWQ0hORGtLeFdlbTd5aUxoYTExbXkzSVFHbk5GZDR0UnJJYllrcE9XSEZPRllUSGhUeVJxdWJXNUE?oc=5)
+
+2026-10-20 <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">更年期</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiqgNBVV95cUxNOWNYRWxXU2FUYzQ3YmxHbUlQaTBDbFl6bDdObnpxR1JHWGRKajZ0QXhRMGwyNUNrbURmMWtPaHl3M1gza3NrZXR4Q2JrSFZXNTlxQXZWbnUwY1ZMekNYeldTMzVtcnVzdDQ1dkhqT1JheUNXVnpjUlIwVzRMRlUtQU5Eak14OExMR0xxbndtRXYxU2ZkUzlVX1hPYnAyVENRWkFfNlF5dEFqeXA3aldObWRDZE5NN3I3WldpelZ4VWxVT0RKeE9MOFdNN0d6a05iSWxJbDl1TXRZZTA1SHNPNFExQUhRalhFcEFRMExzY1BTSkdkUUNUTVdrbHM5ekZCYmlnSjh0SV9ac0FfVTBSRXpWYzEtZ190TFdUWm43aElUT0ZvZVpZbVA4M3ZZSGZMbnk4Q1RHNWdXX0MydlVYWTdrOV80aXVzSGdidDZDUWR2cG5Xb0Qxcmc4dS01LUZOcDlmSjJXMjRLN1dycU9lSkVWQ0hORGtLeFdlbTd5aUxoYTExbXkzSVFHbk5GZDR0UnJJYllrcE9XSEZPRllUSGhUeVJxdWJXNUE?oc=5)
+
+---
 
 
 <div class="disclaimer">

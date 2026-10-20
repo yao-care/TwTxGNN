@@ -1,7 +1,59 @@
 {
-  "generated": "2026-10-19T22:05:59.581691+00:00",
+  "generated": "2026-10-20T01:22:21.068960+00:00",
   "count": 14,
   "news": [
+    {
+      "id": "070d21d36ecf",
+      "title": "牙痛竟是心肌梗塞徵兆？醫師：更年期後血管風險飆3倍 做1運動防猝死",
+      "published": "2026-10-20T00:04:47+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxNOWNYRWxXU2FUYzQ3YmxHbUlQaTBDbFl6bDdObnpxR1JHWGRKajZ0QXhRMGwyNUNrbURmMWtPaHl3M1gza3NrZXR4Q2JrSFZXNTlxQXZWbnUwY1ZMekNYeldTMzVtcnVzdDQ1dkhqT1JheUNXVnpjUlIwVzRMRlUtQU5Eak14OExMR0xxbndtRXYxU2ZkUzlVX1hPYnAyVENRWkFfNlF5dEFqeXA3aldObWRDZE5NN3I3WldpelZ4VWxVT0RKeE9MOFdNN0d6a05iSWxJbDl1TXRZZTA1SHNPNFExQUhRalhFcEFRMExzY1BTSkdkUUNUTVdrbHM5ekZCYmlnSjh0SV9ac0FfVTBSRXpWYzEtZ190TFdUWm43aElUT0ZvZVpZbVA4M3ZZSGZMbnk4Q1RHNWdXX0MydlVYWTdrOV80aXVzSGdidDZDUWR2cG5Xb0Qxcmc4dS01LUZOcDlmSjJXMjRLN1dycU9lSkVWQ0hORGtLeFdlbTd5aUxoYTExbXkzSVFHbk5GZDR0UnJJYllrcE9XSEZPRllUSGhUeVJxdWJXNUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "30af67ad48ba",
       "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
@@ -1108,88 +1160,6 @@
       ]
     },
     {
-      "id": "eaafb2188543",
-      "title": "58歲婦車禍腳只瘀青 返家後卻胸悶喘！「心碎症候群」好發停經女性 真正該防的不只乳癌",
-      "published": "2026-10-13T11:09:57+00:00",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4NHhRTm5NY3ZqYk1SMXNCNHhmT1FzUjBOVHYwSmZHV3FSNTRyTWdmRFUtWmdwNHhNQUhXZ1RDTVUzMmtVZ3B1dkM0eTZIMHgzTS02S3VhNzBxQdIBX0FVX3lxTE1EcGc5dzJhWDBCNGpudkMyTHphRDMyODlrZDZKaG9BQU5vLWVPckZ1ZzdyWTZoczBtWFBPdUx0dEJNdzR0M2phYkQwM1REYkQ4VVBRdUJZcklmTENSbDRV?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e108b1df80a7",
       "title": "癌症五條「入侵路徑」都與日常習慣有關",
       "published": "2026-10-13T11:00:00+00:00",
@@ -1445,13 +1415,13 @@
       ]
     },
     {
-      "id": "d11fffd7435c",
-      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 - TechNews 科技新報",
-      "published": "2026-10-12T23:36:12+00:00",
+      "id": "ed71f4ae9f22",
+      "title": "新加坡布局 mRNA 疫苗，為下一場未知疫情預做準備 | 科技新報 - LINE TODAY",
+      "published": "2026-10-13T07:49:41+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcS1Pa0E5RFVuRl9FMzBQakN6a09majg1TEwtclh4N1JKbDk4VXA5Sy1MNGVwSTl0djJCRkVWM3RzVl9vSGREX2l4X2JxMXg0MlhUQzZJU01MQk1SdXJaMUdMTVVrSmQ1elhDZ1BfNWVQWENsbzZGVWd4N2ZudUU?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EWFdZdjlKS3ViN3poZlRJY2hhYVRCUlRzRS1DODlxTGdoTVBmUXBORXlybFlFZHFfcU8taU5GYXowUUNTOXJWbUpBMEJ3VHc0Mnp3TGVn?oc=5"
         }
       ],
       "keywords": [
