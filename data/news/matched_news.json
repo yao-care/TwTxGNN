@@ -1,21 +1,8 @@
 {
-  "last_updated": "2026-10-20T12:24:48.189148+00:00",
-  "total_count": 48,
+  "last_updated": "2026-10-20T17:38:01.867867+00:00",
+  "total_count": 45,
   "matched_count": 11,
   "news": [
-    {
-      "id": "2739f9ef0e96",
-      "title": "朋友很多卻還是覺得孤單？醫師揭「孤獨感」對健康的影響，不只是焦慮、憂鬱",
-      "published": "2026-10-20T09:01:18+00:00",
-      "summary": "朋友很多卻還是覺得孤單？醫師揭「孤獨感」對健康的影響，不只是焦慮、憂鬱&nbsp;&nbsp;Cosmopolitan",
-      "sources": [
-        {
-          "name": "Cosmopolitan",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHRwSEhoYnBqc29nRjBkcFFXOGUxYkRuam1CWV83cGpwRzRmY0RlTV9BYjJialg0amxnZkltVF9rY2Z0UFF1U3o1TXRNeEVJM25TSzRscUIyM3dudko0c2VVQjZvQzhxZmEzNDVHNkIwbXBocHRYSzlXa3V4NzFta0hlYm9fRzlIdHdlOW5odHk4QnpU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
     {
       "id": "36cd374e75a5",
       "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12",
@@ -83,14 +70,14 @@
       "matched_keywords": []
     },
     {
-      "id": "72d9e004699a",
-      "title": "婦科手術不只治療疾病 李宜明醫師：完整術後照護與預防沾黏，才能守護女性長期健康",
-      "published": "2026-10-20T03:14:22+00:00",
-      "summary": "婦科手術不只治療疾病 李宜明醫師：完整術後照護與預防沾黏，才能守護女性長期健康&nbsp;&nbsp;民生電子報",
+      "id": "36bd9414a616",
+      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上 | ELLE",
+      "published": "2026-10-20T03:47:50+00:00",
+      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上 | ELLE&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "民生電子報",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBGd1NDbWhVN1p1OFhzWjd1OEtZY1E0VkhtVVN6Q1NqZ01HMHI3VnZJN21ZM01YbTlvaTRxQXlUY0RVTUpr?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPU1lSUjJva19JZ1VXMTJCZU9aUUM1OU92M1Z5UHVaNkYxRW5pTTQ5a2w0bGhFNm44amNkanJKUlBfU1dXOFkzRldBaGdUMnRXakh0WTl6NDNTYnJQX2g2QkNsMVR3TFZXRndpdU44eVJIUW5hU2xBR2dDaUgwcktsVHVjWkszU2tLQWxmVHdQRUw4cHlsVjA0QW0xa0xVY2RWOEdrb0hQcHNZelJITjVEanFEMENpVFg2ZUhkUXhwdWlHSUp0c1l0cjVZblVBYVRxOUZsZXgxX0NGaVVGTUNacFBTQ0pXYnBwbkFnRThURWdrUDQ1TVlPOE9ZWkpPREZ3QTUydndEVWlqMWhpdURxV3JwSWtWbWpkamJZb0lLLW44X2ZSUHRvWnBKSkJSb3FXOWJPbHNKejFweXdNYTJFNE5hb0h1a0M3S1ozaU16b3FaZW1wTXM4U3BVMlo2VU9jY0pfMGV5X2VBc2RPTnlMSDlRam01NGNuSUJQajVsUXI2WHZ6RE9lVEpHcmFUX2lOWF9SSnF4UU14QkxYOHFDQ0V3dDBWdE1PS1R6aTVBZ05raExsbkJScTVXM2hWV1pWZjZraHF3T3N3Ql9KSXVWZFpmVQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -251,19 +238,6 @@
       "matched_keywords": []
     },
     {
-      "id": "bc04ec604e3f",
-      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上",
-      "published": "2026-10-19T15:35:13+00:00",
-      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVJIMWRBV3ZPZjMwSkQ0WGxQZjdRMVRhb2tUbnVFWVBCYTUyXzRKSnVkeV9OU3NKWjBQeFU2bzVGdEJIUFZBMFQ2WDBBWjlzekNZcVc4aHJXTEphdi1jcFVRZ3JfeWdGVV9jOUR2NWNTMExObTc4RDhIYUJRRGx1Wk1TT0YyaFk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "30af67ad48ba",
       "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
       "published": "2026-10-19T13:00:00+00:00",
@@ -306,7 +280,7 @@
       "id": "c9fc4c84f784",
       "title": "華州西部流感季提前 住院人數上升",
       "published": "2026-10-19T11:46:00+00:00",
-      "summary": "華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingView今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！&nbsp;&nbsp;Women's Health流感季提早數月殺到 西岸成重災區&nbsp;&nbsp;Singtaousa美國流感季開跑 公衛官員籲民眾接種疫苗加強防護&nbsp;&nbsp;Life 生活網",
+      "summary": "華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "大紀元",
@@ -498,19 +472,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c1fee89c75fd",
-      "title": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴 - UHK 港生活",
-      "published": "2026-10-17T12:28:27+00:00",
-      "summary": "尿道炎反覆發作因為不乾淨？32歲女一年三次尿道炎！醫揭4大致病死穴&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOektPOFZMbDBmbEw1WUI0UzE2UDhhN0VzMnBJMy1NMENhbm94SkVjMF84Tk40WlZsa3pxS2JxQi10d01iMHFaekhCcGV5bElCUGhxaDlTLS1KOVBsMllwaWl5QVhBdEJmbkk0RDFRZFlRYVdoRXdveF9GME5XeU5LVkVINThHWjFaX2tsMkhnT3FNR2lZcEduaFZYLXljRTRIM3lheXl0dzhvbUtyblpHRW83Q1gxcHhrVlV3VVV5Nl94X29kN2txNThWWWFsSGZlMndMdUoxbF9RM25fRDI4OHh5LUxJNi1ieTlhbEo0ZG1YU3gwenRweDBHTE02Sm10ZUVJcDNwSmZKaWEwa3BDYXFrT3ltZ2Y2enYyMVMzUzJZSlFmY1V2VjRCME9TS2htY1IySUVHREJodTE5ZFVEM21fMEJ3LTZaY0EwQV8xaWF6RjJwY0xjTmFodmdIeGhyMXh5SkdvSFpjYTdVTnRUQU5RaFNqTk1qdUNYRXRieGx2Y0l6dWFIaDdFMWUyRmwxaHYxT0Fwa1pwdms2dWwyVm9oSy1vUlJ4U0I4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c75e937e8195",
       "title": "研究發現：減重針或助精神分裂症患降低精神急症風險",
       "published": "2026-10-17T02:10:20+00:00",
@@ -662,7 +623,7 @@
       "id": "0f3e7bc1b1c8",
       "title": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞",
       "published": "2026-10-15T06:25:00+00:00",
-      "summary": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞&nbsp;&nbsp;PChome Online 新聞流感單周死亡創今年新高 醫示警肺炎鏈球菌恐接力奪命 嚴重可釀敗血症&nbsp;&nbsp;UDN流感全年化 加強型疫苗護慢病、長者&nbsp;&nbsp;中時新聞網不只小孩、老人 醫點名「4族群」染肺炎鏈球菌重症風險高&nbsp;&nbsp;ETtoday健康雲長者注意！流感引發「心梗風險暴增5倍」醫揭免疫老化危機&nbsp;&nbsp;三立新聞",
+      "summary": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞&nbsp;&nbsp;PChome Online 新聞流感單周死亡創今年新高！醫示警肺炎鏈球菌恐接力奪命 嚴重可釀敗血症&nbsp;&nbsp;UDN流感全年化 加強型疫苗護慢病、長者&nbsp;&nbsp;中時新聞網不只小孩、老人 醫點名「4族群」染肺炎鏈球菌重症風險高&nbsp;&nbsp;ETtoday健康雲長者注意！流感引發「心梗風險暴增5倍」醫揭免疫老化危機&nbsp;&nbsp;三立新聞",
       "sources": [
         {
           "name": "PChome Online 新聞",
