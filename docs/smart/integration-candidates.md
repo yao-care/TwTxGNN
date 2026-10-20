@@ -51,7 +51,7 @@ nav_order: 6
 │                                                                      │
 │  ┌──────────────┐    ┌──────────────┐    ┌───────────────────────┐  │
 │  │SMART on FHIR │───►│ 讀取病患用藥  │───►│ 老藥新用預測引擎       │  │
-│  │    啟動      │    │              │    │ (TxGNN 知識圖譜)      │  │
+│  │    啟動      │    │              │    │ (TxGNN 模型預測)      │  │
 │  └──────────────┘    └──────────────┘    └───────────┬───────────┘  │
 │                                                      │              │
 │                                          ┌───────────▼───────────┐  │
@@ -105,7 +105,7 @@ nav_order: 6
 |------|------|----------|
 | **1. EHR 啟動** | 臨床人員從 EHR 選擇病患，啟動 TwTxGNN SMART App | EHR 系統 |
 | **2. 讀取用藥** | 透過 FHIR API 讀取病患目前用藥 | MedicationRequest |
-| **3. 老藥新用預測** | 將用藥映射到知識圖譜，查詢候選適應症 | TxGNN + DrugBank |
+| **3. 老藥新用預測** | 以 TxGNN 圖神經網路取分數 ≥ 0.99 的候選適應症，排除知識圖譜已記錄的已知用途 | TxGNN + DrugBank |
 | **4. 補充資料查詢** | 對每個候選查詢 DDI、臨床試驗、疾病資訊、風險評估 | 內部資料 + 外部 SMART App |
 | **5. 整合呈現** | 將所有資訊整合呈現，輔助臨床決策 | 整合層 |
 
@@ -526,7 +526,7 @@ drug-drug interaction (DDI) alerts into TwTxGNN, a SMART on FHIR drug repurposin
 application.
 
 Our Project:
-- TwTxGNN: Drug repurposing predictions using TxGNN knowledge graph
+- TwTxGNN: Drug repurposing predictions using the TxGNN graph neural network
 - FHIR R4 compatible SMART App
 - Currently integrates DDInter and Guide to PHARMACOLOGY DDI data
 
