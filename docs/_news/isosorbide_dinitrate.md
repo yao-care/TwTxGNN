@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 
@@ -57,14 +57,6 @@ permalink: /news/isosorbide_dinitrate/
 2026-10-19 <span class="news-indication-tag">心血管</span>
 
 來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
-
----
-
-### [三高控制達標仍有心血管風險？專家談血管功能評估](https://news.google.com/rss/articles/CBMiYEFVX3lxTE40UjdkZ2ROZnFlakNxMGloTUg5cE5CVHVHV0tRNEpwaGdxY2ZiMzMzOVJlR1FINktGTDNoSkxMdmxrMG9Ed1pleG9nam5ickN0cEtEMlJCc2JkdGloT1Z5ag?oc=5)
-
-2026-10-14 <span class="news-indication-tag">心血管</span>
-
-來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE40UjdkZ2ROZnFlakNxMGloTUg5cE5CVHVHV0tRNEpwaGdxY2ZiMzMzOVJlR1FINktGTDNoSkxMdmxrMG9Ed1pleG9nam5ickN0cEtEMlJCc2JkdGloT1Z5ag?oc=5)
 
 ---
 

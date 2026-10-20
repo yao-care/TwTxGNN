@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-20T17:38:01.908788+00:00",
-  "count": 11,
+  "generated": "2026-10-20T21:01:18.047006+00:00",
+  "count": 10,
   "news": [
     {
       "id": "36cd374e75a5",
@@ -563,31 +563,6 @@
               "slug": "lornoxicam",
               "name": "Lornoxicam",
               "url": "/drugs/lornoxicam/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2055555726b8",
-      "title": "三高控制達標仍有心血管風險？專家談血管功能評估",
-      "published": "2026-10-14T05:59:00+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40UjdkZ2ROZnFlakNxMGloTUg5cE5CVHVHV0tRNEpwaGdxY2ZiMzMzOVJlR1FINktGTDNoSkxMdmxrMG9Ed1pleG9nam5ickN0cEtEMlJCc2JkdGloT1Z5ag?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }

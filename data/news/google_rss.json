@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-20T17:38:00.764090+00:00",
+  "fetched_at": "2026-10-20T21:01:16.019150+00:00",
   "count": 45,
   "news": [
     {
@@ -16,18 +16,6 @@
       ]
     },
     {
-      "id": "58219788e050",
-      "title": "薑黃素能抑制癌細胞？ 實驗比較5種天然成分揭差異 - 自由健康網",
-      "published": "2026-10-18T07:08:00+00:00",
-      "summary": "薑黃素能抑制癌細胞？ 實驗比較5種天然成分揭差異&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0SFRvdWE3MzJtQzlYZ2lHRlY2ZUZJbDZObzFZYVRjQU14MTNPXzBKZDQ5dUlSUlQtTFhFZHRLS183YWIxcmJLaENiSjltZHhDN0NpbkFKOExUNHJsUGgwNjcybTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0f3e7bc1b1c8",
       "title": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞",
       "published": "2026-10-15T06:25:00+00:00",
@@ -36,6 +24,18 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58219788e050",
+      "title": "薑黃素能抑制癌細胞？ 實驗比較5種天然成分揭差異 - 自由健康網",
+      "published": "2026-10-18T07:08:00+00:00",
+      "summary": "薑黃素能抑制癌細胞？ 實驗比較5種天然成分揭差異&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0SFRvdWE3MzJtQzlYZ2lHRlY2ZUZJbDZObzFZYVRjQU14MTNPXzBKZDQ5dUlSUlQtTFhFZHRLS183YWIxcmJLaENiSjltZHhDN0NpbkFKOExUNHJsUGgwNjcybTQ?oc=5"
         }
       ]
     },
@@ -184,18 +184,6 @@
       ]
     },
     {
-      "id": "ef222f8d3adf",
-      "title": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情 - 世界新聞網",
-      "published": "2026-10-19T11:21:00+00:00",
-      "summary": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sME1kNWwxcVhfNFF0RmtkVW5vQmRyaVNLMFNyWDNWUGlHQXNicDROa243TlY2dkhDM1hTMkRMMXJyNVVwTVZNWDFhQmp6czVKSy0xTXdUbHV6MndsSFdLM2N30gFnQVVfeXFMUHhackFVSGhBZWNuaENOeENHMS1mcUhNaHVfakJ1T1pDUGVSNXg4czhLTGxEcHdXNDdtbFVNSnlUVWMyTHV0Y1pXZ3lwOTVDRTlkREhwV2lGZ0dTWWZhVmxoVXBPRVl6WQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "238ea62ff0c9",
       "title": "從餐桌到情緒的全面抗炎防癌實踐路徑2026全球醫學觀點解析 with 報新聞 讀健康 - 報新聞",
       "published": "2026-10-16T09:17:27+00:00",
@@ -208,6 +196,18 @@
       ]
     },
     {
+      "id": "ef222f8d3adf",
+      "title": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情 - 世界新聞網",
+      "published": "2026-10-19T11:21:00+00:00",
+      "summary": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sME1kNWwxcVhfNFF0RmtkVW5vQmRyaVNLMFNyWDNWUGlHQXNicDROa243TlY2dkhDM1hTMkRMMXJyNVVwTVZNWDFhQmp6czVKSy0xTXdUbHV6MndsSFdLM2N30gFnQVVfeXFMUHhackFVSGhBZWNuaENOeENHMS1mcUhNaHVfakJ1T1pDUGVSNXg4czhLTGxEcHdXNDdtbFVNSnlUVWMyTHV0Y1pXZ3lwOTVDRTlkREhwV2lGZ0dTWWZhVmxoVXBPRVl6WQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c75e937e8195",
       "title": "研究發現：減重針或助精神分裂症患降低精神急症風險 - 行銷人",
       "published": "2026-10-17T02:10:20+00:00",
@@ -216,18 +216,6 @@
         {
           "name": "行銷人",
           "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2055555726b8",
-      "title": "三高控制達標仍有心血管風險？專家談血管功能評估 - 民視新聞網",
-      "published": "2026-10-14T05:59:00+00:00",
-      "summary": "三高控制達標仍有心血管風險？專家談血管功能評估&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40UjdkZ2ROZnFlakNxMGloTUg5cE5CVHVHV0tRNEpwaGdxY2ZiMzMzOVJlR1FINktGTDNoSkxMdmxrMG9Ed1pleG9nam5ickN0cEtEMlJCc2JkdGloT1Z5ag?oc=5"
         }
       ]
     },
@@ -268,14 +256,14 @@
       ]
     },
     {
-      "id": "c9fc4c84f784",
-      "title": "華州西部流感季提前 住院人數上升 - 大紀元",
-      "published": "2026-10-19T11:46:00+00:00",
-      "summary": "華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "98f6b659ceb6",
+      "title": "女星艾雅葛被誤診五年 多發性硬化症陰影未散 - Singtaousa",
+      "published": "2026-10-20T18:08:20+00:00",
+      "summary": "女星艾雅葛被誤診五年 多發性硬化症陰影未散&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBualFRRHd6eWtLUkc0cjBOM2YxaEJmZVhuNmc2ZFVVQ1VEY1NPaWFZVEpOUllIVUhwT1dKZkViNDgzaVdQRjR2ZC1WQUhKUkZpUk05VzV4aUJVYV84djlGSTB30gFnQVVfeXFMUHFJc1ZWQVJJN3hpWGEyS21yQS12TGs4RENYQjNMRTFCZU1zWGlVdllad1FHLWpCQkxqcmgxaWtqekNyekgxNlVRVEdxSkR3Z21JWFFFYjVtRWJjOTNTbmg0VWVaeVBiZw?oc=5"
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpsbF9SY0dlWnk3Q2s2SXVuNC1PQ3VDNlpsWHFsTzdhZlhHT3ZNM3RtWTZxZG8tZnIxSEpvUXFnU0dxU1Zfb0ZXb2NMY1Q5TG5BZzZKQXNzOVlvcXdTZVlPend0Rm0wUTdPYmZKa0RlejJUOUZqRDhaZmNiWGhGdFpnMnp1bS1nMzRvd0RieVdtVndleUpUZlFSOA?oc=5"
         }
       ]
     },
@@ -288,6 +276,18 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeElrcUhrbTBuMGJnZXJxT2lyUEl6QmtfYmRWNE5hRy12dmQwLV9NeXhVRU4wYko1bjQyakR5U3RyMTA3Tm9tN3E5UnlQVnRDem12b196QjFNbEpWRU0zLXAySVl3NHRFZ2lEcV9IUWY5UzBMZGRhUXRNNDFoeWxkaEE4V2xZQzVidnU5OHBSZW5jajIzYUwyRzNmMVBRSk5xc1JpSjJXX3BnaGVPdmpkV0dUeHhlVWo4eW5Eek9NaXV1OTh4cHVQMjVfSzFPMDJVejhiYTJua0o3TmRKNTNvUWlHdEl0SHZkWXA4UzlPMEtiQUxHeURpanhpYWtDVmNHNGN1eTJPTHhsNy10N1hLOXVNUjNUY2k3VTY3MjF0RUNoUWo1czFxci1VUnpkTm5LTWk1a2NETTZtcURVaS1hakd3Z000X2RndEFveHNIZ010ZFROWlpNLXU5c2lRVW9XV2ZERkRvOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9fc4c84f784",
+      "title": "華州西部流感季提前 住院人數上升 - 大紀元",
+      "published": "2026-10-19T11:46:00+00:00",
+      "summary": "華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBualFRRHd6eWtLUkc0cjBOM2YxaEJmZVhuNmc2ZFVVQ1VEY1NPaWFZVEpOUllIVUhwT1dKZkViNDgzaVdQRjR2ZC1WQUhKUkZpUk05VzV4aUJVYV84djlGSTB30gFnQVVfeXFMUHFJc1ZWQVJJN3hpWGEyS21yQS12TGs4RENYQjNMRTFCZU1zWGlVdllad1FHLWpCQkxqcmgxaWtqekNyekgxNlVRVEdxSkR3Z21JWFFFYjVtRWJjOTNTbmg0VWVaeVBiZw?oc=5"
         }
       ]
     },
@@ -360,30 +360,6 @@
         {
           "name": "CCUE",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQUHBnNUZOTkIxaTY3UDQzRlQ3RUxVRFhYd3o5UDAtSU9KSzFwaEFoc2tLOE5oQmFwRUZBNFJVQUZPT3phWlA3T3YzNDNKa21tbkRQWHFSSU1JbGJQUl9DbjF4UlYzVEFza0NnaGkzYnNFdFQ5WnBtLS00R20wVXBxMXg5V1RHeld1TUp2czBsR1haMWNQRGl3X2ZHMHVrTmt0MWQwN09jcm9UZUNKZ2xYbV9UbDNRRlgzMDlJVF81Mm12enZOeXAtWlZtLVB6X29UQ2oyTmQxMWVobjNmTVVXSXZKQVVUa3h5NERwcTJ1TE5Xelg2M3lOM0EyMk5WUGhEZ0JDTFZqUGtiZk1VZEd5WGd6Y2hvNnNFSUhnQi1PZE50VVBvM0kwRlJZcXlMY1RRLTlXdDNVMFl3Vk9hMGNvRVN3aWgxY1hScnpFeE9oNXU2aWR2aHE3TnJ5TGJpTEU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "587ae0c562e4",
-      "title": "為何有人膽固醇高卻活更久 醫師這麼說 - 大紀元",
-      "published": "2026-10-18T19:00:00+00:00",
-      "summary": "為何有人膽固醇高卻活更久 醫師這麼說&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZ2VGUk9ERkItcFZJQ29NU0V2QUZBRU5EWmpsZmJIVXBCNm5qSTdkWWRCSlNfV3hCWV9ZQS15el94RVZQeVoxQlRxeFoybk5VNGNPSDNPdkc0bU9MZGtLUdIBZkFVX3lxTE1RTENGeDhvTnpLSjdBMXdKVE0zQ3JnYnVmRXlnSXZ4Q0syZVlUVmxXU2I3SjlCam9ieGE4YTloYXI1d0Rwamxlc3Q0RmVfeVVwNjdtbENxdUFOTmY5XzhPa2tJd1B5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a847f36cb349",
-      "title": "醫學滿東華：虛擬大腸鏡 安全無痛免麻醉 - 20261019 - 副刊 - 明報新聞網",
-      "published": "2026-10-18T20:30:00+00:00",
-      "summary": "醫學滿東華：虛擬大腸鏡 安全無痛免麻醉 - 20261019 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNN3E3TVk1UmQzc1BmTkoyQkdheGcwQ21NblBxbEYwNENLSWE2RmUzZU5OUGFoc0wwOV9JeXNJUXFGMk9VLThRVndnVHQ2eHNia0wtMDJXM2o1NzZFNTlfUGZqSGxyZmlIM3pZRVhkNW1lMXY4SUZ0V2RKYUVaVUFVLTdySjJJZkJYTC1welp6NnFXdkQxQkpZN2d5ZVh5Mi1wR29pVWFtZk1ZOVhiU1UxR2NZaWVNc2JVR3o0SEM3SEMyNzNrU21nSG1jblEtczJSVkhJdjBoVi1XaUQycjdjb2NwX1k1ZGQ5WDBtbW05Um1uc0FCcW5LWWxtWG9FX2ZrSXBhWjZmcjdkZzlWajJDQVJUQTVsVG8yekFKQjE5M25rT0w4WnhwSGkwS2VyMkwybk5VTEVFZUdtMjg4MmNNXy0tQ3FBUzJGaEoyaF9NQWZJRkxLZTl1dlg2YzJ5QQ?oc=5"
         }
       ]
     },
@@ -484,6 +460,18 @@
       ]
     },
     {
+      "id": "587ae0c562e4",
+      "title": "為何有人膽固醇高卻活更久 醫師這麼說 - 大紀元",
+      "published": "2026-10-18T19:00:00+00:00",
+      "summary": "為何有人膽固醇高卻活更久 醫師這麼說&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kZ2VGUk9ERkItcFZJQ29NU0V2QUZBRU5EWmpsZmJIVXBCNm5qSTdkWWRCSlNfV3hCWV9ZQS15el94RVZQeVoxQlRxeFoybk5VNGNPSDNPdkc0bU9MZGtLUdIBZkFVX3lxTE1RTENGeDhvTnpLSjdBMXdKVE0zQ3JnYnVmRXlnSXZ4Q0syZVlUVmxXU2I3SjlCam9ieGE4YTloYXI1d0Rwamxlc3Q0RmVfeVVwNjdtbENxdUFOTmY5XzhPa2tJd1B5dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "83e641c44956",
       "title": "年長者食慾減退 8原因恐得了這個病 - 世界新聞網",
       "published": "2026-10-16T14:15:03+00:00",
@@ -516,6 +504,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNZTFwZUNUN1l3clctRi1GN2hFMUtkeGhSdld4QjFtcHV1b2RpSFJSdDhSVmdSdDA5eHJ3RTQ0OUlIYUpweVZjVFlEXzZpd2ZsNnhMOWtVdWVCcmpmZXFBQ3U1emtGU0F5YWhiSE1fQ3UxVkl5aVFxRDAwRk9ZTUlHSWQ0SExwWTFoUnAzUGVlZXlXSTdaSllRcjU5bldnR1JvOHhhc3NkRWN2bUdyUm1ZMGdEQkJreDM5N1NRV2hwZkpVTmo1UVN0WVJGbFF6ZVd0VkRmNFJFVUtsaDRTQnlDMGZ3LV9tcEJfbU4yNmZFbzJ2XzdlOHNBM2RrWG1OQ3B5MXVqNG1lUkNnWFNSSGZvRVNHR2xBR2g4M1lOTVlpM2NBZ2Y1YmFRaG9DNTNKWDlnbjBOZHNLN1FCSDVCT3RvcDZoMVFTV2N0V1FxWU1jclVVSmdsYk5NNjBEUmh0LWs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a847f36cb349",
+      "title": "醫學滿東華：虛擬大腸鏡 安全無痛免麻醉 - 20261019 - 副刊 - 明報新聞網",
+      "published": "2026-10-18T20:30:00+00:00",
+      "summary": "醫學滿東華：虛擬大腸鏡 安全無痛免麻醉 - 20261019 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNN3E3TVk1UmQzc1BmTkoyQkdheGcwQ21NblBxbEYwNENLSWE2RmUzZU5OUGFoc0wwOV9JeXNJUXFGMk9VLThRVndnVHQ2eHNia0wtMDJXM2o1NzZFNTlfUGZqSGxyZmlIM3pZRVhkNW1lMXY4SUZ0V2RKYUVaVUFVLTdySjJJZkJYTC1welp6NnFXdkQxQkpZN2d5ZVh5Mi1wR29pVWFtZk1ZOVhiU1UxR2NZaWVNc2JVR3o0SEM3SEMyNzNrU21nSG1jblEtczJSVkhJdjBoVi1XaUQycjdjb2NwX1k1ZGQ5WDBtbW05Um1uc0FCcW5LWWxtWG9FX2ZrSXBhWjZmcjdkZzlWajJDQVJUQTVsVG8yekFKQjE5M25rT0w4WnhwSGkwS2VyMkwybk5VTEVFZUdtMjg4MmNNXy0tQ3FBUzJGaEoyaF9NQWZJRkxLZTl1dlg2YzJ5QQ?oc=5"
         }
       ]
     },

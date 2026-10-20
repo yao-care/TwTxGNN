@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-20T17:38:01.867867+00:00",
+  "last_updated": "2026-10-20T21:01:18.004446+00:00",
   "total_count": 45,
-  "matched_count": 11,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "98f6b659ceb6",
+      "title": "女星艾雅葛被誤診五年 多發性硬化症陰影未散",
+      "published": "2026-10-20T18:08:20+00:00",
+      "summary": "女星艾雅葛被誤診五年 多發性硬化症陰影未散&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTXpsbF9SY0dlWnk3Q2s2SXVuNC1PQ3VDNlpsWHFsTzdhZlhHT3ZNM3RtWTZxZG8tZnIxSEpvUXFnU0dxU1Zfb0ZXb2NMY1Q5TG5BZzZKQXNzOVlvcXdTZVlPend0Rm0wUTdPYmZKa0RlejJUOUZqRDhaZmNiWGhGdFpnMnp1bS1nMzRvd0RieVdtVndleUpUZlFSOA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "36cd374e75a5",
       "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12",
@@ -1005,32 +1018,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2055555726b8",
-      "title": "三高控制達標仍有心血管風險？專家談血管功能評估",
-      "published": "2026-10-14T05:59:00+00:00",
-      "summary": "三高控制達標仍有心血管風險？專家談血管功能評估&nbsp;&nbsp;民視新聞網",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40UjdkZ2ROZnFlakNxMGloTUg5cE5CVHVHV0tRNEpwaGdxY2ZiMzMzOVJlR1FINktGTDNoSkxMdmxrMG9Ed1pleG9nam5ickN0cEtEMlJCc2JkdGloT1Z5ag?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "71078a5cb524",
