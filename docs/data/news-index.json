@@ -1,7 +1,134 @@
 {
-  "generated": "2026-10-20T01:22:21.068960+00:00",
-  "count": 14,
+  "generated": "2026-10-20T06:53:05.279188+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "a99cc5a999e1",
+      "title": "流感單周死亡創今年新高 醫示警肺炎鏈球菌恐接力奪命 嚴重可釀敗血症",
+      "published": "2026-10-20T04:51:15+00:00",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40LTcwdmNvN2ZUWUczTDFERS1jZGtFU3NnNHZla3p6aktVbFhVYkRjelNmLVlMaEc2VjBwMkpaTDNKTVNZRG5LY2V3YTBwcHpUT0xyTFBxUDBxLVdS0gFiQVVfeXFMT0hQNlZMVnBCeDl5dzNuUGI3Uk5mbWZBd294eS02dThZeUxwczdjNVZUaTA2a2lFNzU4U3BZSVJFejBlX1RHNVhfd0hMN0R6Y0ZtWHFvbm9idXZHSmg1eWZmSXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2d35d413037",
+      "title": "以為是天然物質就健康 這種代糖增加心臟病及中風風險",
+      "published": "2026-10-20T02:27:55+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone",
+              "url": "/drugs/milrinone/"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol",
+              "url": "/drugs/inositol/"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "pipemidic-acid",
+              "name": "Pipemidic acid",
+              "url": "/drugs/pipemidic-acid/"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide",
+              "url": "/drugs/dorzolamide/"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil",
+              "url": "/drugs/treprostinil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone",
+              "url": "/drugs/dronedarone/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "070d21d36ecf",
       "title": "牙痛竟是心肌梗塞徵兆？醫師：更年期後血管風險飆3倍 做1運動防猝死",
@@ -55,13 +182,13 @@
       ]
     },
     {
-      "id": "30af67ad48ba",
+      "id": "31cb0a8cf196",
       "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
       "published": "2026-10-19T13:00:00+00:00",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxNVnpCV2xmdEgzb1piUXNXVzlWazktS1k3bEQtVG1YZEhJR21WQkVid1hXcFctcnkzckxXNmljM3ZNS1dqQnFJWnh3c2xBM0NBOXZZRjEydEdmNVBHVmJoT3gzOU45ZmpuUnZENm1ZbXNYTHc0U2RtVmxuT3hEWHNib2x0d2x1SU9hc0g3Zlp6SU5CclF1V3lQT2hmOXA3eWFCYTlIRVdTSENCOHkxQTZzRWJNU0Z6STljRmtybDkzelozOE9rcE9kSzF3anJEbVdTTXNEenNOR0FDNHFNNVZibzRwTmFvX2pkeXBzbldSamlDb0YyOGdpVWw2bVlDenkzOGpSOG1ha3dPbDl1QzR6RFNucVR1UXdoV1VNb1B5WXVrR2JndWRRT1pzRnBHdmVzWTFaNU55cHdGLV9JUTV6R3BHYW5Gdl8tNWUybE5hLWVjUElXbFlOVVBOV29uRWVJdi1FWms3RlAtMV81WUlIS2ZCa1VwRFotYmVsYUotMkR5RnZ0bXhaZmJPTWF1dHVLYXRqNUlqN0F2V3NvMGpwUER3VGNpYzJHREVRN09vR2hoTGdqMkI4aEpyZzBPUDJ4ZGxyU3NlXzJldw?oc=5"
         }
       ],
       "keywords": [
@@ -99,43 +226,6 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "52b393005956",
-      "title": "遠離心血管疾病，除了控制三高，更要了解血管功能",
-      "published": "2026-10-17T03:54:57+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC0tXzlOeXFRZHZZeU9JSUhxdkowVlpfMkMzaXN2eG5CRDEyOW90THhJZ3RncUwtaW9YOHQ0bjc3TlBiY3FOU0J2ZnE3VkpXZWtfc1BlTkhFMTlPczh0bzZjNXVHNE5fMXhfZ0xOMmRIVHp5X3ZvNFcxNHQ3VldvdUxpYm1Yc0VxYlAtQzQ1Qmx1QzhOcHBoMEcyUEJUZ1FIWjlCVl9walI1NFo1NmlreHVHWjBEdDA1am4xc3hTNk5kWHpSdklvRnhEMi1pNndMM2h6VFdXeWdLckR6MmlTZzhZMVllQU5ZQ3kwRS1ZbFh6c3dhaEpaclBYWURQaWlJRUdYWVNsWHpaeHhxMkFFY3pka1RaRlNocDBYYlZlZ2RGMWprQmdrYVVFc20zQ0MtbW5RakNRTi1KbEdOeGlNX3hEUEhlWmpnM2xQelVPYkh0dw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }

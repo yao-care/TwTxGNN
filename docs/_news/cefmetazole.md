@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [流感單周死亡創今年新高 醫示警肺炎鏈球菌恐接力奪命 嚴重可釀敗血症](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40LTcwdmNvN2ZUWUczTDFERS1jZGtFU3NnNHZla3p6aktVbFhVYkRjelNmLVlMaEc2VjBwMkpaTDNKTVNZRG5LY2V3YTBwcHpUT0xyTFBxUDBxLVdS0gFiQVVfeXFMT0hQNlZMVnBCeDl5dzNuUGI3Uk5mbWZBd294eS02dThZeUxwczdjNVZUaTA2a2lFNzU4U3BZSVJFejBlX1RHNVhfd0hMN0R6Y0ZtWHFvbm9idXZHSmg1eWZmSXc?oc=5)
+
+2026-10-20 <span class="news-indication-tag">鏈球菌</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE40LTcwdmNvN2ZUWUczTDFERS1jZGtFU3NnNHZla3p6aktVbFhVYkRjelNmLVlMaEc2VjBwMkpaTDNKTVNZRG5LY2V3YTBwcHpUT0xyTFBxUDBxLVdS0gFiQVVfeXFMT0hQNlZMVnBCeDl5dzNuUGI3Uk5mbWZBd294eS02dThZeUxwczdjNVZUaTA2a2lFNzU4U3BZSVJFejBlX1RHNVhfd0hMN0R6Y0ZtWHFvbm9idXZHSmg1eWZmSXc?oc=5)
+
+---
 
 ### [紅肉真的該少吃嗎？ 醫師引603萬人大型研究：心血管、癌症風險沒那麼單純 | 熱門話題 | 要聞](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjRPTUtkQVJFeEV6SzdlRnhaYlFjYXlqRnMzbnJaZDJMOXZnckU5N2ttcGZPZUNHRHdaOFRNOV9Nc2hlbG9kTGZFVEZPOGNweXlzY1JXWDJFQQ?oc=5)
 

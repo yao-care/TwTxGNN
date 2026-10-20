@@ -3,7 +3,7 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cardiovascular/
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ permalink: /news/cardiovascular/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
+### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意](https://news.google.com/rss/articles/CBMiygNBVV95cUxNVnpCV2xmdEgzb1piUXNXVzlWazktS1k3bEQtVG1YZEhJR21WQkVid1hXcFctcnkzckxXNmljM3ZNS1dqQnFJWnh3c2xBM0NBOXZZRjEydEdmNVBHVmJoT3gzOU45ZmpuUnZENm1ZbXNYTHc0U2RtVmxuT3hEWHNib2x0d2x1SU9hc0g3Zlp6SU5CclF1V3lQT2hmOXA3eWFCYTlIRVdTSENCOHkxQTZzRWJNU0Z6STljRmtybDkzelozOE9rcE9kSzF3anJEbVdTTXNEenNOR0FDNHFNNVZibzRwTmFvX2pkeXBzbldSamlDb0YyOGdpVWw2bVlDenkzOGpSOG1ha3dPbDl1QzR6RFNucVR1UXdoV1VNb1B5WXVrR2JndWRRT1pzRnBHdmVzWTFaNU55cHdGLV9JUTV6R3BHYW5Gdl8tNWUybE5hLWVjUElXbFlOVVBOV29uRWVJdi1FWms3RlAtMV81WUlIS2ZCa1VwRFotYmVsYUotMkR5RnZ0bXhaZmJPTWF1dHVLYXRqNUlqN0F2V3NvMGpwUER3VGNpYzJHREVRN09vR2hoTGdqMkI4aEpyZzBPUDJ4ZGxyU3NlXzJldw?oc=5)
 
 2026-10-19
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
-
----
-
-### [遠離心血管疾病，除了控制三高，更要了解血管功能](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC0tXzlOeXFRZHZZeU9JSUhxdkowVlpfMkMzaXN2eG5CRDEyOW90THhJZ3RncUwtaW9YOHQ0bjc3TlBiY3FOU0J2ZnE3VkpXZWtfc1BlTkhFMTlPczh0bzZjNXVHNE5fMXhfZ0xOMmRIVHp5X3ZvNFcxNHQ3VldvdUxpYm1Yc0VxYlAtQzQ1Qmx1QzhOcHBoMEcyUEJUZ1FIWjlCVl9walI1NFo1NmlreHVHWjBEdDA1am4xc3hTNk5kWHpSdklvRnhEMi1pNndMM2h6VFdXeWdLckR6MmlTZzhZMVllQU5ZQ3kwRS1ZbFh6c3dhaEpaclBYWURQaWlJRUdYWVNsWHpaeHhxMkFFY3pka1RaRlNocDBYYlZlZ2RGMWprQmdrYVVFc20zQ0MtbW5RakNRTi1KbEdOeGlNX3hEUEhlWmpnM2xQelVPYkh0dw?oc=5)
-
-2026-10-17
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC0tXzlOeXFRZHZZeU9JSUhxdkowVlpfMkMzaXN2eG5CRDEyOW90THhJZ3RncUwtaW9YOHQ0bjc3TlBiY3FOU0J2ZnE3VkpXZWtfc1BlTkhFMTlPczh0bzZjNXVHNE5fMXhfZ0xOMmRIVHp5X3ZvNFcxNHQ3VldvdUxpYm1Yc0VxYlAtQzQ1Qmx1QzhOcHBoMEcyUEJUZ1FIWjlCVl9walI1NFo1NmlreHVHWjBEdDA1am4xc3hTNk5kWHpSdklvRnhEMi1pNndMM2h6VFdXeWdLckR6MmlTZzhZMVllQU5ZQ3kwRS1ZbFh6c3dhaEpaclBYWURQaWlJRUdYWVNsWHpaeHhxMkFFY3pka1RaRlNocDBYYlZlZ2RGMWprQmdrYVVFc20zQ0MtbW5RakNRTi1KbEdOeGlNX3hEUEhlWmpnM2xQelVPYkh0dw?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygNBVV95cUxNVnpCV2xmdEgzb1piUXNXVzlWazktS1k3bEQtVG1YZEhJR21WQkVid1hXcFctcnkzckxXNmljM3ZNS1dqQnFJWnh3c2xBM0NBOXZZRjEydEdmNVBHVmJoT3gzOU45ZmpuUnZENm1ZbXNYTHc0U2RtVmxuT3hEWHNib2x0d2x1SU9hc0g3Zlp6SU5CclF1V3lQT2hmOXA3eWFCYTlIRVdTSENCOHkxQTZzRWJNU0Z6STljRmtybDkzelozOE9rcE9kSzF3anJEbVdTTXNEenNOR0FDNHFNNVZibzRwTmFvX2pkeXBzbldSamlDb0YyOGdpVWw2bVlDenkzOGpSOG1ha3dPbDl1QzR6RFNucVR1UXdoV1VNb1B5WXVrR2JndWRRT1pzRnBHdmVzWTFaNU55cHdGLV9JUTV6R3BHYW5Gdl8tNWUybE5hLWVjUElXbFlOVVBOV29uRWVJdi1FWms3RlAtMV81WUlIS2ZCa1VwRFotYmVsYUotMkR5RnZ0bXhaZmJPTWF1dHVLYXRqNUlqN0F2V3NvMGpwUER3VGNpYzJHREVRN09vR2hoTGdqMkI4aEpyZzBPUDJ4ZGxyU3NlXzJldw?oc=5)
 
 ---
 
