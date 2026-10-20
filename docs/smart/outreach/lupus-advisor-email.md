@@ -31,7 +31,7 @@ I am exploring a potential integration between TwTxGNN and Lupus Advisor to enha
 
 ### About TwTxGNN
 
-TwTxGNN is a SMART on FHIR application that provides AI-powered drug repurposing predictions using Harvard's TxGNN knowledge graph model.
+TwTxGNN is a SMART on FHIR application that provides AI-powered drug repurposing predictions using Harvard's TxGNN graph neural network model.
 
 **Autoimmune Disease Focus:**
 - 17 drugs with autoimmune disease predictions

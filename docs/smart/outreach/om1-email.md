@@ -30,7 +30,7 @@ I am writing regarding a potential collaboration between TwTxGNN and your Major 
 
 ### About TwTxGNN
 
-TwTxGNN is an open-source drug repurposing platform that uses Harvard's TxGNN knowledge graph model to predict new therapeutic uses for existing medications.
+TwTxGNN is an open-source drug repurposing platform that uses Harvard's TxGNN graph neural network model to predict new therapeutic uses for existing medications.
 
 **Psychiatric Coverage:**
 - 14 drugs with psychiatric disease predictions

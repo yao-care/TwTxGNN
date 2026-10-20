@@ -27,7 +27,7 @@ I am reaching out regarding a potential technical collaboration for integrating 
 
 ### About TwTxGNN
 
-TwTxGNN is an open-source platform that provides AI-powered drug repurposing predictions using Harvard's TxGNN knowledge graph model. Our goal is to help clinicians identify potential new therapeutic uses for existing medications while ensuring patient safety.
+TwTxGNN is an open-source platform that provides AI-powered drug repurposing predictions using Harvard's TxGNN graph neural network model. Our goal is to help clinicians identify potential new therapeutic uses for existing medications while ensuring patient safety.
 
 **Current DDI Capabilities:**
 - DDInter 2.0: 222,391 drug-drug interactions
