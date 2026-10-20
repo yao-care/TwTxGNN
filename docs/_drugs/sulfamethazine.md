@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 265
 evidence_level: L5
 indication_count: 6
-monitor_inn: "Sulfamethazine"
-predicted_indications: ["gout", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "conjunctivitis", "bronchitis"]
 last_modified_at: 2026-10-16
 description: "Sulfamethazine：預測新適應症為痛風 (Gout)（證據等級 L5）。原適應症：細菌性感染症"
+monitor_inn: "Sulfamethazine"
+predicted_indications: ["gout", "brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "conjunctivitis"]
 ---
 
 # Sulfamethazine

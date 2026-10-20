@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-16
 description: "Tioconazole：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L2）。原適應症：感受性黴菌引起之局部感染"
 monitor_inn: "Tioconazole"
-predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Tioconazole

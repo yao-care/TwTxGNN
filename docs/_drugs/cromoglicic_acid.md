@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-16
 description: "Cromoglicic Acid：預測新適應症為潰瘍性直腸乙狀結腸炎 (Ulcerative Proctosigmoiditis)（證據等級 L5）。原適應症：過敏性結膜炎、過敏性鼻炎"
 monitor_inn: "Cromoglicic acid"
-predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "pneumocystosis", "osteoarthritis", "allergic urticaria", "neonatal inflammatory skin and bowel disease"]
+predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "rosacea conjunctivitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "pneumocystosis", "osteoarthritis", "allergic urticaria", "neonatal inflammatory skin and bowel disease"]
 ---
 
 # Cromoglicic Acid

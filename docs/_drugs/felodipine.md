@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-16
 description: "Felodipine：預測新適應症為因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓、心絞痛"
 monitor_inn: "Felodipine"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "chronic pulmonary heart disease"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 ---
 
 # Felodipine

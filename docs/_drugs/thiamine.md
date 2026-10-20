@@ -5,10 +5,10 @@ parent: 中證據等級 (L3-L4)
 nav_order: 274
 evidence_level: L3
 indication_count: 4
-monitor_inn: "Thiamine"
-predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
 last_modified_at: 2026-10-16
 description: "Thiamine：預測新適應症為甲狀腺機能亢進 (Hyperthyroidism)（證據等級 L3）。原適應症：腳氣病、維他命Ｂ１缺乏症"
+monitor_inn: "Thiamine"
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 ---
 
 # Thiamine

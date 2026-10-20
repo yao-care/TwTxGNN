@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-16
 description: "Alfacalcidol：預測新適應症為家族性孤立性副甲狀腺低下症（Familial isolated hypoparathyroidism due to impaired PT…（證據等級 L5）。原適應症：維他命Ｄ缺乏症"
 monitor_inn: "Alfacalcidol"
-predicted_indications: ["Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
 ---
 
 # Alfacalcidol

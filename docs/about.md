@@ -110,7 +110,7 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 <tr><th>資料類型</th><th>來源</th><th>說明</th></tr>
 </thead>
 <tbody>
-<tr><td>AI 預測</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>哈佛大學圖神經網路模型</td></tr>
+<tr><td>AI 預測</td><td><a href="https://zitniklab.hms.harvard.edu/projects/TxGNN/">TxGNN</a></td><td>哈佛大學以知識圖譜訓練的圖神經網路</td></tr>
 <tr><td>臨床試驗</td><td><a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a></td><td>全球臨床試驗登記資料庫</td></tr>
 <tr><td>學術文獻</td><td><a href="https://pubmed.ncbi.nlm.nih.gov/">PubMed</a></td><td>生物醫學文獻資料庫</td></tr>
 <tr><td>藥物資訊</td><td><a href="https://go.drugbank.com/">DrugBank</a></td><td>藥物與靶點資料庫</td></tr>

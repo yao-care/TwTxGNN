@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-16
 description: "Minoxidil：預測新適應症為單純性頭皮毛髮稀少症 (Hypotrichosis simplex of the scalp)（證據等級 L4）。原適應症：治療女性雄激素性落髮"
 monitor_inn: "minoxidil"
-predicted_indications: ["congenital hypotrichosis milia"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata"]
 ---
 
 # Minoxidil

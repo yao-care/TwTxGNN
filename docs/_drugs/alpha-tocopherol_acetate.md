@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 20
 evidence_level: L5
 indication_count: 10
-monitor_inn: "alpha-Tocopherol acetate"
-predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "mature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
 last_modified_at: 2026-10-16
 description: "Alpha-Tocopherol Acetate：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：維他命 E 缺乏症"
+monitor_inn: "alpha-Tocopherol acetate"
+predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "mature cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract", "diabetic retinopathy"]
 ---
 
 # Alpha-Tocopherol Acetate
