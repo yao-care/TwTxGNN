@@ -31,11 +31,11 @@ permalink: /news/common-cold/
 
 ## 相關新聞（1 則）
 
-### [感冒還是流感？出現發燒、肌肉痠痛別亂猜，醫師教你一招分辨](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5)
+### [秋天鼻過敏還是感冒？5個判斷重點](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDOHhfSFRNZldtWU9EUExXVmxwWDJUTFVYbWNCT1FfNW9nOXJCWTJuOTdQZVRkendPN1JlQXN2Uk04dXB1OWtrV0VVZEhGNUowWWc?oc=5)
 
-2026-10-19
+2026-10-17
 
-來源: [東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1QUy02NWtENkctT1dCQktvSXBKZDV6VDBvbnRWcmxXbm53RDVJUkZZcmoteFczOFRaclN4Qm9ZZnhocnhpQklqaFk2MjZlOTVIMTNMNg?oc=5)
+來源: [華人健康網](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDOHhfSFRNZldtWU9EUExXVmxwWDJUTFVYbWNCT1FfNW9nOXJCWTJuOTdQZVRkendPN1JlQXN2Uk04dXB1OWtrV0VVZEhGNUowWWc?oc=5)
 
 ---
 
