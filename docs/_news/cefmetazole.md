@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,13 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
-2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
 
 2026-10-15 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">鏈球菌</span>
 
 來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
-
----
-
-### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
-
-2026-10-15 <span class="news-indication-tag">癌症</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
 ---
 

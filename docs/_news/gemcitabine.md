@@ -14,7 +14,7 @@ permalink: /news/gemcitabine/
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/gemcitabine/
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
-2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
 
 2026-10-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
-
----
-
-### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
-
-2026-10-15 <span class="news-indication-tag">癌症</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
 ---
 

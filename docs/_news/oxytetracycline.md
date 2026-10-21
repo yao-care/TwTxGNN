@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
-
-### [陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
-2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 
 2026-10-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
-
----
-
-### [健康網》癌症治療不只要休息 研究揭運動與長期預後有關](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
-
-2026-10-15 <span class="news-indication-tag">癌症</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMTZfTjhfV2hod0JzdHFoY2xQRVFybVBqVTFjUzhyZVJzSkljcUk4UEI5cElCR2pQemg4UjE2VkM0QkV2cFU4dHJ0QkZhQ2p3akdab2FBamgwYlcwVzRldUo5NF8?oc=5)
 
 ---
 
