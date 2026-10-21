@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [以為天然物質就健康 研究：代糖增心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
+
+2026-10-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
+
+---
 
 ### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VNkJHbnFMajJwZE1jVC04Y0dhS2Nnb0NkY0NyOVRyU1dWd05VdUlmQVU2WFlvWDZObEZnM1gtVldzNmlGblJuODBjRENLWlBDYXNjS2ZvbnBNTXo5clFfTA?oc=5)
 
@@ -52,11 +60,11 @@ permalink: /news/isosorbide_dinitrate/
 
 ---
 
-### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
+### [心臟病不只胸痛醫：也可能背痛- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
 
-2026-10-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
+2026-10-15 <span class="news-indication-tag">心臟病</span>
 
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
 
 ---
 

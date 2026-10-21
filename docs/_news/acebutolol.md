@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,23 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（2 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [AI癌症風險評估導入JoiiUp Yd Biolabs與EG BioMed助企業健康管理 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+2026-10-21 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+---
+
+### [奈及利亞腎病飆升每月9千例 醫籲防濫用藥物與高血壓 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMirwJBVV95cUxOU3A1a2JnR01CajlPQmk0c202NWJ3RnVLN1NiZGROWjNSZlhkV0MxRHQ4T0E4cDRNVE12ZnFKaEhueTVyekFUZmpjQUFQVEFJYXhRTTJQSjQ0eFZFbDFjSEkwLTdaMWVKMHE1bzBNMDVoVkxrZVVlMDZQX1N6VENfdklGb0lLMHFXYWdZZ0pweFA3Vy1hSnpvNFEzMnZiRGtVRGFOX1RJZTlaeHhCVGdCUGs0TXFEMDI5OHBha1hWZ0VPX2t3YmwxcVFMcl9Va1cxYVpNSHU5bEd6MFRyMTFKU19neHhyVkM3QU9lV185NjZBMEl5LWdqYWJEalpFNk85cFFQem1JMXZOT2lVRUNNOWc2ZE5oVE0wTURMTlhYZVVzYUNZa1RQc29KN0RwZDg?oc=5)
+
+2026-10-20 <span class="news-indication-tag">高血壓</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMirwJBVV95cUxOU3A1a2JnR01CajlPQmk0c202NWJ3RnVLN1NiZGROWjNSZlhkV0MxRHQ4T0E4cDRNVE12ZnFKaEhueTVyekFUZmpjQUFQVEFJYXhRTTJQSjQ0eFZFbDFjSEkwLTdaMWVKMHE1bzBNMDVoVkxrZVVlMDZQX1N6VENfdklGb0lLMHFXYWdZZ0pweFA3Vy1hSnpvNFEzMnZiRGtVRGFOX1RJZTlaeHhCVGdCUGs0TXFEMDI5OHBha1hWZ0VPX2t3YmwxcVFMcl9Va1cxYVpNSHU5bEd6MFRyMTFKU19neHhyVkM3QU9lV185NjZBMEl5LWdqYWJEalpFNk85cFFQem1JMXZOT2lVRUNNOWc2ZE5oVE0wTURMTlhYZVVzYUNZa1RQc29KN0RwZDg?oc=5)
+
+---
 
 
 <div class="disclaimer">

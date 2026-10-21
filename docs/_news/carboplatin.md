@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>: 卵巢癌（台灣許可證核准適應症）</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>female breast carcinoma (99.9%)</li>
+<li class="indication-matched">female breast carcinoma (99.9%)<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma (99.3%)</li>
 <li>colon mucinous adenocarcinoma (99.3%)</li>
 <li>adult germ cell tumor (99.2%)</li>
@@ -42,13 +42,37 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（4 則）
+
+### [AI癌症風險評估導入JoiiUp Yd Biolabs與EG BioMed助企業健康管理 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+2026-10-21 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+---
+
+### [美國佛州醫院辦乳癌預防活動 強調早期篩檢與衛教 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbG16LVJFV2pPRkExcXZ2TU54ZHFOd1hCSU5yM3dKU2dZVlhFdHZqT0JaOUFBRHFwR1p0Y3ctbVJNZWppbHBhR1pZY0NoTEdacWF2b3U0ckFYNHJabHZwMUlFdTk3WWpPUlh2aV9Od1NsbzVVSW5nUVhxcVdDbXVBYWExX3lQQldzSWU1VWktMEZhODZzaHNFZExESHNoODR0dkVZcC02RjBYcGptN2k3YUdyb09HOTFDdDdxaFg3SjA2X1kyTjhXX0tDVjYtdG14MlJYcEtfeGYzNS02WGRoOHlKUk92ZnphRURtclQzX2JaZTlyTnJMMGhJVXlyVVAxVU9TNGF6cnFJQ01qbUJoYkVMaWlHY1FkSnoyUGVXajBYRGJMOEhhMQ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">乳癌</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbG16LVJFV2pPRkExcXZ2TU54ZHFOd1hCSU5yM3dKU2dZVlhFdHZqT0JaOUFBRHFwR1p0Y3ctbVJNZWppbHBhR1pZY0NoTEdacWF2b3U0ckFYNHJabHZwMUlFdTk3WWpPUlh2aV9Od1NsbzVVSW5nUVhxcVdDbXVBYWExX3lQQldzSWU1VWktMEZhODZzaHNFZExESHNoODR0dkVZcC02RjBYcGptN2k3YUdyb09HOTFDdDdxaFg3SjA2X1kyTjhXX0tDVjYtdG14MlJYcEtfeGYzNS02WGRoOHlKUk92ZnphRURtclQzX2JaZTlyTnJMMGhJVXlyVVAxVU9TNGF6cnFJQ01qbUJoYkVMaWlHY1FkSnoyUGVXajBYRGJMOEhhMQ?oc=5)
+
+---
 
 ### [全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
 
 2026-10-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
+
+---
+
+### [免費乳癌和子宮頸癌篩檢打破了障礙 - Public Health Insider](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXpFRzBmNURTZVdoQWFCZVo4NWlpNll5dEQ3U1NPWmRSQnMxX0QxajJocnBkOTJRQUlSd211WXpDdk1UUDhsbjFEaVAtQS0wRzFBbjB4aWN5RHVlOFkzRV9CMXBvZkE4WGxIYjBDM2U2RHljc2k5VFBTa19zT3lUZl82YTFWbVRVQ1JpLXEtUDc4TjllRVhYMHlWUHRpOE12Y25RNEI3aXNoNHVXMmVfTUVR0gG3AUFVX3lxTE5PY1NKNHZ2UEFWQ3BkM2VGYkZjUS1IVTRrZ2xsWnJvN2IycWw0SHVfdlcwR05jb3lKcnpEc2lHSDdpbF83WU1pTGNEVnlQcFRXdTdvbFp0NlRSSzBTeWV6OWFId2lYanhDZWRFSnlseFpDQURaUWtKZ3lzUFR3RS1uRWhHb0owLU83ck5pUVlOc2w2XzB5SW1XR0RZMjVQWm5uMUFiN3NZZ19EbUtvTmRhdUlWM05rRQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">子宮頸癌</span> <span class="news-indication-tag">乳癌</span>
+
+來源: [Public Health Insider](https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXpFRzBmNURTZVdoQWFCZVo4NWlpNll5dEQ3U1NPWmRSQnMxX0QxajJocnBkOTJRQUlSd211WXpDdk1UUDhsbjFEaVAtQS0wRzFBbjB4aWN5RHVlOFkzRV9CMXBvZkE4WGxIYjBDM2U2RHljc2k5VFBTa19zT3lUZl82YTFWbVRVQ1JpLXEtUDc4TjllRVhYMHlWUHRpOE12Y25RNEI3aXNoNHVXMmVfTUVR0gG3AUFVX3lxTE5PY1NKNHZ2UEFWQ3BkM2VGYkZjUS1IVTRrZ2xsWnJvN2IycWw0SHVfdlcwR05jb3lKcnpEc2lHSDdpbF83WU1pTGNEVnlQcFRXdTdvbFp0NlRSSzBTeWV6OWFId2lYanhDZWRFSnlseFpDQURaUWtKZ3lzUFR3RS1uRWhHb0owLU83ck5pUVlOc2w2XzB5SW1XR0RZMjVQWm5uMUFiN3NZZ19EbUtvTmRhdUlWM05rRQ?oc=5)
 
 ---
 

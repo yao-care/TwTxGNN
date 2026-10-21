@@ -14,7 +14,7 @@ permalink: /news/aluminum_oxide/
 ---
 
 <p class="key-answer" data-question="Aluminum oxide 有什麼相關新聞？">
-<strong>Aluminum oxide</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Aluminum oxide</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/aluminum_oxide/
 <li><strong>原適應症</strong>: 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">rheumatoid arthritis (100.0%)<span class="indication-tag">📰 關節炎</span></li>
+<li>rheumatoid arthritis (100.0%)</li>
 <li>brachydactyly-syndactyly syndrome (100.0%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
 <li>heparin cofactor 2 deficiency (99.9%)</li>
@@ -42,15 +42,9 @@ permalink: /news/aluminum_oxide/
 <p><a href="{{ '/drugs/aluminum-oxide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（0 則）
 
-### [低劑量電療助退化性關節炎患者減痛](https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXpPS1BBS0tzbnM0cXhlN2JSWnZCRUU0SzN5NnpCLWFQVHJ3Q0trUlJ2NTZiaFRUVkF3ekVndG9kMnp6TFBkSUFmdC1XQ2p4eGpmYU14dktNeG41d210YnlwcjZPSExwRVoyTnd4QmhzRzdBUno0X1BmQmJ3UDZ3dGE5NE50V0o0MzlxRXJNRTVFZV93QWJfOHNhXzJfMEc4S3NZM0pwdlowUHZMOS1obEJRSTMzRjg3NFd3YzJpZ1hFOU9HMWFqR01nY043NVlTUm8wTzhYQ2tJZWR5TnpDSWREaXVZcFJoR0h3WGZ6ZXVpVngwQmtaWUc4WGdxdkF3bzV6ZTRIVHduQlJuZlhJbHpR?oc=5)
-
-2026-10-15 <span class="news-indication-tag">關節炎</span>
-
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMikgJBVV95cUxQYXpPS1BBS0tzbnM0cXhlN2JSWnZCRUU0SzN5NnpCLWFQVHJ3Q0trUlJ2NTZiaFRUVkF3ekVndG9kMnp6TFBkSUFmdC1XQ2p4eGpmYU14dktNeG41d210YnlwcjZPSExwRVoyTnd4QmhzRzdBUno0X1BmQmJ3UDZ3dGE5NE50V0o0MzlxRXJNRTVFZV93QWJfOHNhXzJfMEc4S3NZM0pwdlowUHZMOS1obEJRSTMzRjg3NFd3YzJpZ1hFOU9HMWFqR01nY043NVlTUm8wTzhYQ2tJZWR5TnpDSWREaXVZcFJoR0h3WGZ6ZXVpVngwQmtaWUc4WGdxdkF3bzV6ZTRIVHduQlJuZlhJbHpR?oc=5)
-
----
+*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
 
 
 <div class="disclaimer">

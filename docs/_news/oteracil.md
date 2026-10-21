@@ -14,7 +14,7 @@ permalink: /news/oteracil/
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oteracil</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/oteracil/
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [AI癌症風險評估導入JoiiUp Yd Biolabs與EG BioMed助企業健康管理 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+2026-10-21 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+---
 
 ### [全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
 

@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [AI癌症風險評估導入JoiiUp Yd Biolabs與EG BioMed助企業健康管理 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+2026-10-21 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+---
 
 
 <div class="disclaimer">

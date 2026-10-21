@@ -14,7 +14,7 @@ permalink: /news/vinorelbine/
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ permalink: /news/vinorelbine/
 <li>lung germ cell tumor (100.0%)</li>
 <li>pulmonary sulcus neoplasm (100.0%)</li>
 <li>hamartoma of lung (100.0%)</li>
-<li>small cell lung carcinoma (100.0%)</li>
+<li class="indication-matched">small cell lung carcinoma (100.0%)<span class="indication-tag">📰 肺癌</span></li>
 <li>lung benign neoplasm (100.0%)</li>
 <li>lung hilum carcinoma (100.0%)</li>
 <li>pulmonary blastoma (100.0%)</li>
@@ -42,9 +42,31 @@ permalink: /news/vinorelbine/
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（3 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [肺癌放射治療新突破：有望減少肺組織損傷 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMikwJBVV95cUxOaG96VkwtbEFHMHprZVQtZGlFaVNORzlwbUxMZ0VPSTJWYU5BNVg0LUt4V0J3ejh3eTVKS3VUdHMzaGRfSURrRXRGdWZnazhnX0hyVjFMWHhDaWZ2a3ZYU2Z1TGVCSU1ScUQzYjdBSjc0QjI0UC1CWlNXRk9kcWFydjBFVEMzRFJiM3d2YnhPbzAyaXpaUEh4eldzUUkxeklkMDVac0w2X3IycDV4TzczMEdKVDFJWWZrWkotcXBRUmtQaWVhNE0xYmFUenlBNGtkbk5nR05sb3lpdU1VM0lnNUdyeERfZUxIZUtoNlZBMXpBWEdKeXh5SUJwYVlHX1ppaUQ4dkNGQWNpTm5TVmRHeDJiWQ?oc=5)
+
+2026-10-21 <span class="news-indication-tag">肺癌</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMikwJBVV95cUxOaG96VkwtbEFHMHprZVQtZGlFaVNORzlwbUxMZ0VPSTJWYU5BNVg0LUt4V0J3ejh3eTVKS3VUdHMzaGRfSURrRXRGdWZnazhnX0hyVjFMWHhDaWZ2a3ZYU2Z1TGVCSU1ScUQzYjdBSjc0QjI0UC1CWlNXRk9kcWFydjBFVEMzRFJiM3d2YnhPbzAyaXpaUEh4eldzUUkxeklkMDVac0w2X3IycDV4TzczMEdKVDFJWWZrWkotcXBRUmtQaWVhNE0xYmFUenlBNGtkbk5nR05sb3lpdU1VM0lnNUdyeERfZUxIZUtoNlZBMXpBWEdKeXh5SUJwYVlHX1ppaUQ4dkNGQWNpTm5TVmRHeDJiWQ?oc=5)
+
+---
+
+### [AI癌症風險評估導入JoiiUp Yd Biolabs與EG BioMed助企業健康管理 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+2026-10-21 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGhteGsxX3RhdnZXV2VUdlpGLXNlb3FGZFNGNlpZVWg5UUQ3dGlNeXF6Vkk2Qm1ZTTZwNFFMcGZiUUo3WXQ5c0JKSjB4emxIXzdBSW9sVmpMZlNHNTRBcUhoR1llLUtVdmlWOXVXM0VvZ2dLZGtaSGFGOFFNQ3FFaDEyQy1RRGVuUTY5YVBhb1MteFdsbTdkbzVmcFJsNGtKNEl2b1hOM0ZrSlNDdU1qOVRNZVpIOUtoUDZUMk1SbW44Ml91WFl5djZ0MkpVcDFkYVQxM0FyWG41aGtLbHlQTTNZV3pZN2RpS2hvd2VnQ0MyMnplcXVpbHNhdFdEeVlXQUQ5d3VYMlM4Ylk3MEE3TElsbEhzTTFaMzdFQkFrX3EwdDZ5RlA4OVExTU5oZmQzZU00WVFXVnM?oc=5)
+
+---
+
+### [肺癌化療喘悶疲倦中醫介入改善症狀- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVUFPdEEtTVRSY3FZVG1zcHMyM29iSDZGWnlBY1NPSDk1OHhPdEZldUpiVWN1QUFTdkR2Q2c4NU9KMm9BWk5Wek1rWXdqVlJFODVmakJXMTRFcmdOMmNROGg3S0pxQQ?oc=5)
+
+2026-10-17 <span class="news-indication-tag">肺癌</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVUFPdEEtTVRSY3FZVG1zcHMyM29iSDZGWnlBY1NPSDk1OHhPdEZldUpiVWN1QUFTdkR2Q2c4NU9KMm9BWk5Wek1rWXdqVlJFODVmakJXMTRFcmdOMmNROGg3S0pxQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">
