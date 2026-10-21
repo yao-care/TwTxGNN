@@ -44,11 +44,11 @@ permalink: /news/clobetasone/
 
 ## 相關新聞（2 則）
 
-### [陸癌症中心公布發病前五癌症 死亡率之首是它](https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWE9ORXhac294WHF3R3FGVk1mU2JKbkhRU1hncXE3TFhleUE0bnlvTlhxN3hMTUNUNC1nOWk2Y2tLZE92cVQycVIxSjI4Qk92Tm5qSDExMTZheGw2VFZtU2RfSkpGeEh5ZXlnbUVn?oc=5)
+### [陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
 
 2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
 
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWE9ORXhac294WHF3R3FGVk1mU2JKbkhRU1hncXE3TFhleUE0bnlvTlhxN3hMTUNUNC1nOWk2Y2tLZE92cVQycVIxSjI4Qk92Tm5qSDExMTZheGw2VFZtU2RfSkpGeEh5ZXlnbUVn?oc=5)
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
 
 ---
 

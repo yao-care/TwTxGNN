@@ -52,7 +52,7 @@ permalink: /news/ouabain/
 
 ---
 
-### [「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
+### [「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
 
 2026-10-15 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">鏈球菌</span>
 

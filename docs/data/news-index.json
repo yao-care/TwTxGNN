@@ -1,15 +1,15 @@
 {
-  "generated": "2026-10-21T05:33:30.657628+00:00",
-  "count": 9,
+  "generated": "2026-10-21T10:51:50.005145+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "8bf889db494b",
-      "title": "陸癌症中心公布發病前五癌症 死亡率之首是它",
-      "published": "2026-10-21T04:40:18+00:00",
+      "id": "bd2f63c66834",
+      "title": "陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸",
+      "published": "2026-10-21T04:40:00+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWE9ORXhac294WHF3R3FGVk1mU2JKbkhRU1hncXE3TFhleUE0bnlvTlhxN3hMTUNUNC1nOWk2Y2tLZE92cVQycVIxSjI4Qk92Tm5qSDExMTZheGw2VFZtU2RfSkpGeEh5ZXlnbUVn?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5"
         }
       ],
       "keywords": [
@@ -459,31 +459,6 @@
       ]
     },
     {
-      "id": "ff87f09282ac",
-      "title": "秋天鼻過敏還是感冒？5個判斷重點",
-      "published": "2026-10-17T18:35:13+00:00",
-      "sources": [
-        {
-          "name": "華人健康網",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDOHhfSFRNZldtWU9EUExXVmxwWDJUTFVYbWNCT1FfNW9nOXJCWTJuOTdQZVRkendPN1JlQXN2Uk04dXB1OWtrV0VVZEhGNUowWWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c75e937e8195",
       "title": "研究發現：減重針或助精神分裂症患降低精神急症風險",
       "published": "2026-10-17T02:10:20+00:00",
@@ -514,8 +489,8 @@
       ]
     },
     {
-      "id": "0f3e7bc1b1c8",
-      "title": "「免疫老化」成健康隱形危機全台460萬長者面臨流感重症威脅- 健康新聞 - PChome Online 新聞",
+      "id": "1f164141bb42",
+      "title": "「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅 - PChome Online 新聞",
       "published": "2026-10-15T06:25:00+00:00",
       "sources": [
         {
