@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-20T21:01:18.004446+00:00",
-  "total_count": 45,
+  "last_updated": "2026-10-21T00:14:38.897388+00:00",
+  "total_count": 44,
   "matched_count": 10,
   "news": [
+    {
+      "id": "25483c4031f2",
+      "title": "美國衛生部確認今年第三起麻疹死亡病例",
+      "published": "2026-10-20T23:13:00+00:00",
+      "summary": "美國衛生部確認今年第三起麻疹死亡病例&nbsp;&nbsp;大紀元「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;UDN美今年麻疹病例接近去年兩倍- 國際&nbsp;&nbsp;香港文匯報美國今年已累計4410宗麻疹確診病例 已接近去年一倍&nbsp;&nbsp;香港01賓州麻疹再奪1命 全州死亡增至6例&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6dWh2MnBHa1ZCaHYzekdZYS00VktDRGJ1UUxpWFBBWmQ1ODl6MVVvV0ZhVDZaNzZMSjU1b1gwemtBMEc4eTAtOWwzeEVkX0ZuSGIyT19iaXZHYXpHa2Fnci1n0gFnQVVfeXFMT2FmaUt2cDZ5bG5GTHdwYkZkYkpTS0hFUUZuckYzM21KSklzRTNJQmRGakNlWVhESUFjWFJZRV9pU185UEUzcExMWDYtMU53ZEN2XzhBOEFNNmoySlpKZmV2V3VOcXRUNA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "98f6b659ceb6",
       "title": "女星艾雅葛被誤診五年 多發性硬化症陰影未散",
@@ -96,14 +109,14 @@
       "matched_keywords": []
     },
     {
-      "id": "d733a67dbc2e",
-      "title": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！",
+      "id": "51b80b3eedde",
+      "title": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！ - Sing Tao Daily 星島日報加拿大",
       "published": "2026-10-20T03:14:09+00:00",
-      "summary": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！&nbsp;&nbsp;加拿大星島日報",
+      "summary": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
-          "name": "加拿大星島日報",
-          "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxObkswVjRqSTRCdS01TnJJQnFYcGJqR2VjZFkxZ0MyNHFDeEo0N3JvUTJibEFpYWxUUGhneWtOd3B1YkkzaVU3NzFmMXY0WnBWWkYzWng2aXVYTHNPYnhYTzRrX3N2U1k5YnVMU1Nyb2NIaHNaMmNUTVlqNnhMcmdJSkNMZ0JtanVQUnZPeDJib1ZIQm1DYmZUT0o2ajZuUldGWVhTX0NsTjRnMzlwVUpONzM5dHRYenNKZ2dlRmFKUVVPdzZXRDVJZ1BvcWNPZEw5N2FYUVNCQnRuanUwb0Jzd1J3WkpUbUwySVp0OUNldnlYZEg2UlRhaEdETTJXcVluZmRPdTB4YVRnRW1lb0Q3V0JrM1hwVWVvQ1piSC1sY2dGenA1RWIyT0U1dUQtVDlzaklOSXhfQ0wxVUNsZHFhX1JUNUw5U2JaRU03NVpQaUdBdUw0WmtpcUlrZlExZHBlakI3OGEyMFc0ZGJkUVBuYWY0cHVkb0hiSjlWdzUxQkk4YXBPcFVWNUREQ09UemFUYlNfQ1dPaWFfSXRMOElyeHZURmJ5bTdHYi1Lb0hmMFdmT1RzV0UyYXVRT0VPNEtEbDRRMzVFY1F2NUh2cWRlU2psbGYxbjVkODAtS01BQ04xcDVjRk1wSmkyaDFqNVFJSDk4bTFpUQ?oc=5"
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxObkswVjRqSTRCdS01TnJJQnFYcGJqR2VjZFkxZ0MyNHFDeEo0N3JvUTJibEFpYWxUUGhneWtOd3B1YkkzaVU3NzFmMXY0WnBWWkYzWng2aXVYTHNPYnhYTzRrX3N2U1k5YnVMU1Nyb2NIaHNaMmNUTVlqNnhMcmdJSkNMZ0JtanVQUnZPeDJib1ZIQm1DYmZUT0o2ajZuUldGWVhTX0NsTjRnMzlwVUpONzM5dHRYenNKZ2dlRmFKUVVPdzZXRDVJZ1BvcWNPZEw5N2FYUVNCQnRuanUwb0Jzd1J3WkpUbUwySVp0OUNldnlYZEg2UlRhaEdETTJXcVluZmRPdTB4YVRnRW1lb0Q3V0JrM1hwVWVvQ1piSC1sY2dGenA1RWIyT0U1dUQtVDlzaklOSXhfQ0wxVUNsZHFhX1JUNUw5U2JaRU03NVpQaUdBdUw0WmtpcUlrZlExZHBlakI3OGEyMFc0ZGJkUVBuYWY0cHVkb0hiSjlWdzUxQkk4YXBPcFVWNUREQ09UemFUYlNfQ1dPaWFfSXRMOElyeHZURmJ5bTdHYi1Lb0hmMFdmT1RzV0UyYXVRT0VPNEtEbDRRMzVFY1F2NUh2cWRlU2psbGYxbjVkODAtS01BQ04xcDVjRk1wSmkyaDFqNVFJSDk4bTFpUdIBkgFBVV95cUxPRjJiNDBfdjV0bUw4dzBvTTF3RnJocjl2Mlk3QUpfZ0x6X2Q1UlR6ZDVnNW1pVmMxWkg0OGJqSkFWRjlvR1VVZ2JjT0l3LXVNVDcxeG1PZ2I4dFBQcmtvSU1kSXZ3eXVqY2cyUjh1SnFJM2MxN0xiN0V5WnBjcWxTNmYtbnZ3c1l0WWk5S2JqUmhtQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -251,6 +264,19 @@
       "matched_keywords": []
     },
     {
+      "id": "667ec7b89da9",
+      "title": "10/23 國際 XLH 疾病意識日 / 孩子走路搖晃、腿型改變是成長造成？醫籲：留意 XLH 早期警訊",
+      "published": "2026-10-19T14:00:00+00:00",
+      "summary": "10/23 國際 XLH 疾病意識日 / 孩子走路搖晃、腿型改變是成長造成？醫籲：留意 XLH 早期警訊&nbsp;&nbsp;蕃新聞一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報跨世代罕病XLH病友與醫界籲跨專科照護 銜接兒童至成人需要&nbsp;&nbsp;Yahoo新聞一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOHF6d1B2OExvLVZ1NGR2SkxRUC1NYVlzMGFNWE5pc3M5QjdQeVZ1akZYdXE3NEZ0RnhWTHl4aUpHWGRVRDllRFc1VlJjcFZPRWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "30af67ad48ba",
       "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
       "published": "2026-10-19T13:00:00+00:00",
@@ -277,19 +303,6 @@
       ]
     },
     {
-      "id": "ae16b70864d5",
-      "title": "日行不到300步 她22歲確診XLH | 中華日報 - LINE TODAY",
-      "published": "2026-10-19T12:16:20+00:00",
-      "summary": "日行不到300步 她22歲確診XLH | 中華日報&nbsp;&nbsp;LINE TODAY一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報跨世代罕病XLH病友與醫界籲跨專科照護 銜接兒童至成人需要&nbsp;&nbsp;Yahoo新聞一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FeGxHUG5TZk1KdW44U3FnZkx6ZGM1dDczUGZPalpndnRXM3A2MWxyWHZXTkkzUUhuMUN5dFhxVDFYdVZCaHA0bklKY2JWUGVydGYzN1RB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "c9fc4c84f784",
       "title": "華州西部流感季提前 住院人數上升",
       "published": "2026-10-19T11:46:00+00:00",
@@ -298,19 +311,6 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBualFRRHd6eWtLUkc0cjBOM2YxaEJmZVhuNmc2ZFVVQ1VEY1NPaWFZVEpOUllIVUhwT1dKZkViNDgzaVdQRjR2ZC1WQUhKUkZpUk05VzV4aUJVYV84djlGSTB30gFnQVVfeXFMUHFJc1ZWQVJJN3hpWGEyS21yQS12TGs4RENYQjNMRTFCZU1zWGlVdllad1FHLWpCQkxqcmgxaWtqekNyekgxNlVRVEdxSkR3Z21JWFFFYjVtRWJjOTNTbmg0VWVaeVBiZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ef222f8d3adf",
-      "title": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情",
-      "published": "2026-10-19T11:21:00+00:00",
-      "summary": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sME1kNWwxcVhfNFF0RmtkVW5vQmRyaVNLMFNyWDNWUGlHQXNicDROa243TlY2dkhDM1hTMkRMMXJyNVVwTVZNWDFhQmp6czVKSy0xTXdUbHV6MndsSFdLM2N30gFnQVVfeXFMUHhackFVSGhBZWNuaENOeENHMS1mcUhNaHVfakJ1T1pDUGVSNXg4czhLTGxEcHdXNDdtbFVNSnlUVWMyTHV0Y1pXZ3lwOTVDRTlkREhwV2lGZ0dTWWZhVmxoVXBPRVl6WQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -381,6 +381,19 @@
       ]
     },
     {
+      "id": "fae7e37f85d5",
+      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫",
+      "published": "2026-10-19T02:13:40+00:00",
+      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;ENN台灣電報",
+      "sources": [
+        {
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ROGk4clNSV0ZtYVBZbXA2Y0lVM1RSMFh1ZS1YLXdZOWJ1aGdmTUNFZk80RTYtSmQxd2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "2fb6cc4e9b20",
       "title": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關",
       "published": "2026-10-19T01:00:53+00:00",
@@ -389,32 +402,6 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvbWd2RktPdUxYV0lGOFVXX1h6MGZQVE1qbHBGYmVSQ29TWG5NX0ZlVXdWVHphQTJnaVZDTGsyYkxYR3I1aWhBRzJiTnJ3N1RwMEEwckR0MHRlOTVi0gFiQVVfeXFMTUlyNHlXa1VGOEJleEd4MnVUS0d2UVA2LXRaNVVBUkIxV0wwZmt6QnZfNG9QVlA1QlYxcEdNTVVZWXlnOXBRbTVkaDAtbUpodnZibjI2YVFSTUZDUXNqb3EwWGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2dff9f1282c2",
-      "title": "胜肽種類怎麼分？藍銅胜肽、六胜肽有什麼功用？帶你認識4大類胜肽！",
-      "published": "2026-10-19T01:00:00+00:00",
-      "summary": "胜肽種類怎麼分？藍銅胜肽、六胜肽有什麼功用？帶你認識4大類胜肽！&nbsp;&nbsp;美醫誌",
-      "sources": [
-        {
-          "name": "美醫誌",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92X3hqT3pNQ1hDTXNnZHh2dk9FYUNGang3bjJKLUhfUWd6TjBjQUZjcE9GbHJXX2JnbDZIeV9jeVMwc3VaLTV1a2EzaFFVT0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "85d7d9314019",
-      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫",
-      "published": "2026-10-19T00:17:45+00:00",
-      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;https://www.yesmedia.com.tw/",
-      "sources": [
-        {
-          "name": "https://www.yesmedia.com.tw/",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ1pjaWJZTEMwU0F3aFFEMVdGSkItdXI0TmQ3Y2xDNndZSVRnSTBjQWhHMWhzbG1tdllGeWpPSTUtbFlTNWVtVFJQQm5EN3VYV0FYMWRTN01XX24taFRGQzFUWDk3UkdxcjlsNVk4TmoxVkZwZkpMVXJ2NEpLcVprYWIxQmhwOVhpUnRpeG1rV2JQZlNmbzBfWmVYMFhfUHNKQ1FxaW5TQUQzOGVYZTRRbDZnSnZSUzJpWTNIN0duUlJNVTRuWWdxSTZLT0k1VUk4LUNJQm9uU1F5ZGpIYms2eFFBT3dtLUF5ZmNybnQyS2ZVUGZiNWZZS3hzamtPNVB1SW9yVTNkcEE4eG9CT1UwY3FaTDB3SUh1ODNyMDVaQ1l6RGRHdHhqN2ZCNUdnTnF0Y1RUWkQ4R0p3ZFVVUjNiNmhsWFFGMU1hZXk1NQ?oc=5"
         }
       ],
       "matched_keywords": []

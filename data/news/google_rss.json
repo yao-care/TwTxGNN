@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-20T21:01:16.019150+00:00",
-  "count": 45,
+  "fetched_at": "2026-10-21T00:14:36.520891+00:00",
+  "count": 44,
   "news": [
     {
       "id": "36cd374e75a5",
@@ -64,14 +64,14 @@
       ]
     },
     {
-      "id": "ae16b70864d5",
-      "title": "日行不到300步 她22歲確診XLH | 中華日報 - LINE TODAY",
-      "published": "2026-10-19T12:16:20+00:00",
-      "summary": "日行不到300步 她22歲確診XLH | 中華日報&nbsp;&nbsp;LINE TODAY一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報跨世代罕病XLH病友與醫界籲跨專科照護 銜接兒童至成人需要&nbsp;&nbsp;Yahoo新聞一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網",
+      "id": "667ec7b89da9",
+      "title": "10/23 國際 XLH 疾病意識日 / 孩子走路搖晃、腿型改變是成長造成？醫籲：留意 XLH 早期警訊 - 蕃新聞",
+      "published": "2026-10-19T14:00:00+00:00",
+      "summary": "10/23 國際 XLH 疾病意識日 / 孩子走路搖晃、腿型改變是成長造成？醫籲：留意 XLH 早期警訊&nbsp;&nbsp;蕃新聞一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報跨世代罕病XLH病友與醫界籲跨專科照護 銜接兒童至成人需要&nbsp;&nbsp;Yahoo新聞一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FeGxHUG5TZk1KdW44U3FnZkx6ZGM1dDczUGZPalpndnRXM3A2MWxyWHZXTkkzUUhuMUN5dFhxVDFYdVZCaHA0bklKY2JWUGVydGYzN1RB?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOHF6d1B2OExvLVZ1NGR2SkxRUC1NYVlzMGFNWE5pc3M5QjdQeVZ1akZYdXE3NEZ0RnhWTHl4aUpHWGRVRDllRFc1VlJjcFZPRWc?oc=5"
         }
       ]
     },
@@ -124,26 +124,14 @@
       ]
     },
     {
-      "id": "2dff9f1282c2",
-      "title": "胜肽種類怎麼分？藍銅胜肽、六胜肽有什麼功用？帶你認識4大類胜肽！ - 美醫誌",
-      "published": "2026-10-19T01:00:00+00:00",
-      "summary": "胜肽種類怎麼分？藍銅胜肽、六胜肽有什麼功用？帶你認識4大類胜肽！&nbsp;&nbsp;美醫誌",
+      "id": "fae7e37f85d5",
+      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫 - ENN台灣電報",
+      "published": "2026-10-19T02:13:40+00:00",
+      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;ENN台灣電報",
       "sources": [
         {
-          "name": "美醫誌",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92X3hqT3pNQ1hDTXNnZHh2dk9FYUNGang3bjJKLUhfUWd6TjBjQUZjcE9GbHJXX2JnbDZIeV9jeVMwc3VaLTV1a2EzaFFVT0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85d7d9314019",
-      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫 - https://www.yesmedia.com.tw/",
-      "published": "2026-10-19T00:17:45+00:00",
-      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;https://www.yesmedia.com.tw/",
-      "sources": [
-        {
-          "name": "https://www.yesmedia.com.tw/",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ1pjaWJZTEMwU0F3aFFEMVdGSkItdXI0TmQ3Y2xDNndZSVRnSTBjQWhHMWhzbG1tdllGeWpPSTUtbFlTNWVtVFJQQm5EN3VYV0FYMWRTN01XX24taFRGQzFUWDk3UkdxcjlsNVk4TmoxVkZwZkpMVXJ2NEpLcVprYWIxQmhwOVhpUnRpeG1rV2JQZlNmbzBfWmVYMFhfUHNKQ1FxaW5TQUQzOGVYZTRRbDZnSnZSUzJpWTNIN0duUlJNVTRuWWdxSTZLT0k1VUk4LUNJQm9uU1F5ZGpIYms2eFFBT3dtLUF5ZmNybnQyS2ZVUGZiNWZZS3hzamtPNVB1SW9yVTNkcEE4eG9CT1UwY3FaTDB3SUh1ODNyMDVaQ1l6RGRHdHhqN2ZCNUdnTnF0Y1RUWkQ4R0p3ZFVVUjNiNmhsWFFGMU1hZXk1NQ?oc=5"
+          "name": "ENN台灣電報",
+          "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE9ROGk4clNSV0ZtYVBZbXA2Y0lVM1RSMFh1ZS1YLXdZOWJ1aGdmTUNFZk80RTYtSmQxd2c?oc=5"
         }
       ]
     },
@@ -172,6 +160,18 @@
       ]
     },
     {
+      "id": "25483c4031f2",
+      "title": "美國衛生部確認今年第三起麻疹死亡病例 - 大紀元",
+      "published": "2026-10-20T23:13:00+00:00",
+      "summary": "美國衛生部確認今年第三起麻疹死亡病例&nbsp;&nbsp;大紀元「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;UDN美今年麻疹病例接近去年兩倍- 國際&nbsp;&nbsp;香港文匯報美國今年已累計4410宗麻疹確診病例 已接近去年一倍&nbsp;&nbsp;香港01賓州麻疹再奪1命 全州死亡增至6例&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6dWh2MnBHa1ZCaHYzekdZYS00VktDRGJ1UUxpWFBBWmQ1ODl6MVVvV0ZhVDZaNzZMSjU1b1gwemtBMEc4eTAtOWwzeEVkX0ZuSGIyT19iaXZHYXpHa2Fnci1n0gFnQVVfeXFMT2FmaUt2cDZ5bG5GTHdwYkZkYkpTS0hFUUZuckYzM21KSklzRTNJQmRGakNlWVhESUFjWFJZRV9pU185UEUzcExMWDYtMU53ZEN2XzhBOEFNNmoySlpKZmV2V3VOcXRUNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a42cc6da39f5",
       "title": "《華爾街日報》關於乳糖不耐受的是與非 - 鉅亨號",
       "published": "2026-10-15T09:10:00+00:00",
@@ -192,18 +192,6 @@
         {
           "name": "報新聞",
           "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPZDVxMEJ2MWMtVFM2Z3pRaHdZWmdzOGd6RFUya0dzOFRNYWFOY2ZFZXNHYmhrT0d1Mnk1NTlqWVlvTmdWM2Q3bmNWb1ZoTDd5ak9jR0s4eUNjQksxSTUyd29NQ1BEbkNEXzFlYWdPU0hKek9uZkRzaUlwZHpFZkh2M0k3aDVmc3VSZG5oRm9Jb0JFV2pRRjYzMEtTUmxlcFNHUkdQYkVrS01pNU9hRjY4YjZVMmlmbl9zNnNQS1h1ZmgwbUZCemdBX3FNYlpPZWZoRWw4M2dqWmJOazlUdVpVa19ic3VGeFYwaFZoV3Z4T0stVjB0SWdIRFgxMkxyTmpYLUQ1LXYxR0lTNnRQY00xTzV2am0tTm9VTXZkMWVybXcxRHpWTVVDZ1JpTjRkd0JRR1E1eFlKLVhhVW1qT1N1ZUY4UkFzT09JaWgxd2hDQzA1LWdmSEdrVkFYb0d5dFRG?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ef222f8d3adf",
-      "title": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情 - 世界新聞網",
-      "published": "2026-10-19T11:21:00+00:00",
-      "summary": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sME1kNWwxcVhfNFF0RmtkVW5vQmRyaVNLMFNyWDNWUGlHQXNicDROa243TlY2dkhDM1hTMkRMMXJyNVVwTVZNWDFhQmp6czVKSy0xTXdUbHV6MndsSFdLM2N30gFnQVVfeXFMUHhackFVSGhBZWNuaENOeENHMS1mcUhNaHVfakJ1T1pDUGVSNXg4czhLTGxEcHdXNDdtbFVNSnlUVWMyTHV0Y1pXZ3lwOTVDRTlkREhwV2lGZ0dTWWZhVmxoVXBPRVl6WQ?oc=5"
         }
       ]
     },
@@ -304,14 +292,14 @@
       ]
     },
     {
-      "id": "d733a67dbc2e",
-      "title": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！ - 加拿大星島日報",
+      "id": "51b80b3eedde",
+      "title": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！ - Sing Tao Daily 星島日報加拿大",
       "published": "2026-10-20T03:14:09+00:00",
-      "summary": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！&nbsp;&nbsp;加拿大星島日報",
+      "summary": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
-          "name": "加拿大星島日報",
-          "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxObkswVjRqSTRCdS01TnJJQnFYcGJqR2VjZFkxZ0MyNHFDeEo0N3JvUTJibEFpYWxUUGhneWtOd3B1YkkzaVU3NzFmMXY0WnBWWkYzWng2aXVYTHNPYnhYTzRrX3N2U1k5YnVMU1Nyb2NIaHNaMmNUTVlqNnhMcmdJSkNMZ0JtanVQUnZPeDJib1ZIQm1DYmZUT0o2ajZuUldGWVhTX0NsTjRnMzlwVUpONzM5dHRYenNKZ2dlRmFKUVVPdzZXRDVJZ1BvcWNPZEw5N2FYUVNCQnRuanUwb0Jzd1J3WkpUbUwySVp0OUNldnlYZEg2UlRhaEdETTJXcVluZmRPdTB4YVRnRW1lb0Q3V0JrM1hwVWVvQ1piSC1sY2dGenA1RWIyT0U1dUQtVDlzaklOSXhfQ0wxVUNsZHFhX1JUNUw5U2JaRU03NVpQaUdBdUw0WmtpcUlrZlExZHBlakI3OGEyMFc0ZGJkUVBuYWY0cHVkb0hiSjlWdzUxQkk4YXBPcFVWNUREQ09UemFUYlNfQ1dPaWFfSXRMOElyeHZURmJ5bTdHYi1Lb0hmMFdmT1RzV0UyYXVRT0VPNEtEbDRRMzVFY1F2NUh2cWRlU2psbGYxbjVkODAtS01BQ04xcDVjRk1wSmkyaDFqNVFJSDk4bTFpUQ?oc=5"
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxObkswVjRqSTRCdS01TnJJQnFYcGJqR2VjZFkxZ0MyNHFDeEo0N3JvUTJibEFpYWxUUGhneWtOd3B1YkkzaVU3NzFmMXY0WnBWWkYzWng2aXVYTHNPYnhYTzRrX3N2U1k5YnVMU1Nyb2NIaHNaMmNUTVlqNnhMcmdJSkNMZ0JtanVQUnZPeDJib1ZIQm1DYmZUT0o2ajZuUldGWVhTX0NsTjRnMzlwVUpONzM5dHRYenNKZ2dlRmFKUVVPdzZXRDVJZ1BvcWNPZEw5N2FYUVNCQnRuanUwb0Jzd1J3WkpUbUwySVp0OUNldnlYZEg2UlRhaEdETTJXcVluZmRPdTB4YVRnRW1lb0Q3V0JrM1hwVWVvQ1piSC1sY2dGenA1RWIyT0U1dUQtVDlzaklOSXhfQ0wxVUNsZHFhX1JUNUw5U2JaRU03NVpQaUdBdUw0WmtpcUlrZlExZHBlakI3OGEyMFc0ZGJkUVBuYWY0cHVkb0hiSjlWdzUxQkk4YXBPcFVWNUREQ09UemFUYlNfQ1dPaWFfSXRMOElyeHZURmJ5bTdHYi1Lb0hmMFdmT1RzV0UyYXVRT0VPNEtEbDRRMzVFY1F2NUh2cWRlU2psbGYxbjVkODAtS01BQ04xcDVjRk1wSmkyaDFqNVFJSDk4bTFpUdIBkgFBVV95cUxPRjJiNDBfdjV0bUw4dzBvTTF3RnJocjl2Mlk3QUpfZ0x6X2Q1UlR6ZDVnNW1pVmMxWkg0OGJqSkFWRjlvR1VVZ2JjT0l3LXVNVDcxeG1PZ2I4dFBQcmtvSU1kSXZ3eXVqY2cyUjh1SnFJM2MxN0xiN0V5WnBjcWxTNmYtbnZ3c1l0WWk5S2JqUmhtQQ?oc=5"
         }
       ]
     },
@@ -328,18 +316,6 @@
       ]
     },
     {
-      "id": "7f1a35c0a7b7",
-      "title": "力生製藥沙庫巴曲纈沙坦鈉片獲註冊證書 視同通過一致性評價 - 觀點網",
-      "published": "2026-10-19T09:18:28+00:00",
-      "summary": "力生製藥沙庫巴曲纈沙坦鈉片獲註冊證書 視同通過一致性評價&nbsp;&nbsp;觀點網",
-      "sources": [
-        {
-          "name": "觀點網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUFVoUFF1U1pCbWNTc09aMWwyeVl1TDh1U3RnVWpVcjRJMTdJd2ZyM3VZOG1VYzgyNkl5VWZZSXdlWThnVzUyZUlFYWZtRnk5ZHhmd2UweFhVcEc1VkU3SElMcVU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e7a494e610f2",
       "title": "流感｜6歲女童感染甲型流感併發休克 情況危殆 - 香港經濟日報HKET",
       "published": "2026-10-19T11:10:32+00:00",
@@ -348,6 +324,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxORGxLRGY4aXNTakhzOGJqdDRLaDQ0aTE4SmEyTmtUV3B0aXdmcmVlcnZQXzZlUW85TmJuRjd5YnNRX0MtMUEzNGhvS0o1eHhEaDQ5VnlfOWZ1eExubExzT1ZDSm01bXRMQmVBUkhvaWZXZVd3Z0dzZmEzTE1pVExVLWxaem1KZWRkY2N1T3I3cHNScnhIUmdhUDhVazA5c0xCTDRkakk3bHdaTGlrMUJENm9nWE84c1lyUUhING9kYmJlUDEyZlZ1Vlp3aTFibE9nQnAtYW9GN3pIc0ZjRDZoSlV0UUdaZWxSby1yZ0YwWlFBQlVKYW5ydFFqT3hvMnIzcFc0UVRqSlhBYkhseVljX0dseG4yZTZ5VEp1SnZWdUpYbWxQVVRyRzl6anZjX09IS3BHZ1F0Q3BDVk5Ha0luZ0MtNGJrcjYzVG1Zdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7f1a35c0a7b7",
+      "title": "力生製藥沙庫巴曲纈沙坦鈉片獲註冊證書 視同通過一致性評價 - 觀點網",
+      "published": "2026-10-19T09:18:28+00:00",
+      "summary": "力生製藥沙庫巴曲纈沙坦鈉片獲註冊證書 視同通過一致性評價&nbsp;&nbsp;觀點網",
+      "sources": [
+        {
+          "name": "觀點網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xUFVoUFF1U1pCbWNTc09aMWwyeVl1TDh1U3RnVWpVcjRJMTdJd2ZyM3VZOG1VYzgyNkl5VWZZSXdlWThnVzUyZUlFYWZtRnk5ZHhmd2UweFhVcEc1VkU3SElMcVU?oc=5"
         }
       ]
     },
