@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [衞生防護中心引研究指有規劃運動 癌症患者死亡風險可降23%](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOR2FUelQwQWdjT3lYVEtDRU5NUWxWcVRuRlZWRTE1dE0xVXNISXN0dE54N0w1bmYyYTBOclRvb2swd3ROSmpFMUlJdHh1YmFIUHdTbEhwNUVudXpwZU1Ea1RYYlprMFdYWjZSVmZDREY2dFc4bXdTb2R1dGFrRURWS0h6Y3ZEcnlqc0xfaTAzdi1iLUhpZlQ2MHhRbVNieDlDWjBRTWs2ZmUwYzYwS0ZXY3FpZWszYnhWTVo1bDREczFwRVlZcVBZWFpVY3k0TzBodnFZcVhRQll3MkMwOTJQOUNkb0IyOXpZVm5RNEttRDlPNGdTSDNta0M2ZHh5UTBxb25yZ2NPYjVWT0hfYTlObkpUOHNDTnFNMHphcVpleHFCWmR5ZFVueEtZZjRCUWJmVkJ4b2pEUmZlSkk0bk5UR3prRWVnWkVka1JxNmdXbWNrdS1PcjVHZ1N4UVU1MDlYOHdab2duN19MOWpVNGNJ?oc=5)
 
@@ -73,6 +73,14 @@ permalink: /news/metoprolol/
 2026-10-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
+
+---
+
+### [網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源: [全民查假會社](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
 
 ---
 

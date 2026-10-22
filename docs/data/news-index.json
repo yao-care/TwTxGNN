@@ -1,7 +1,99 @@
 {
-  "generated": "2026-10-22T01:05:57.061491+00:00",
-  "count": 15,
+  "generated": "2026-10-22T06:50:57.073527+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "f03833d64f62",
+      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
+      "published": "2026-10-22T06:04:24+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d84968279114",
+      "title": "維生素D預防乳腺癌新證據 研究揭其潛力遠超現有認知",
+      "published": "2026-10-22T05:55:45+00:00",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPaTl2UDI2NWN1aXRSZzJZZ09JR1BmQ1QxT2FYRTFPSnVXU2VUek5UUWhvZmpLZ2dRM2hSVFUzck9ZcWVENHRFRmZsM2QybENta1RUOVVMbkhuQ3FNRDlybWUzTUxIMkFWTTFaQk5qUnRJRzd1NTJSZkFjRlExS2JWcTRzYU94ZzFrN2VMOEE0MDhmT2RvM1BXdVpLeXZPVWNtNklYRVFKcXdIYmFmeTRIdm9jY3h5WHc0dDV6Zk5MZk1OZk5oakRTM05VbVdMMWhKZDhBdzVFNld4Vi1LLXZnYzNKRG1SZTN3Mzdkb3lwOE5rdmNIOXRZMjhfOW9VTTBmcF8tTzYtZ05GRV9QSnJPSjhUREFLN1ladXhYQXV1emN6MEd4NWZ1YndIWTRYNUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳腺癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "45626092f21b",
       "title": "衞生防護中心引研究指有規劃運動 癌症患者死亡風險可降23%",
@@ -603,6 +695,61 @@
       ]
     },
     {
+      "id": "6bc8c49de63e",
+      "title": "男性乳癌｜朋友一個惡作劇動作6旬退休男驚患乳癌擴散淋巴死亡率高達19%：兄弟真的能救命- 東張+ - myTV SUPER",
+      "published": "2026-10-21T00:15:00+00:00",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxObVdScW83S3Y3ckdmbTluaGV4NzRLN3BVakpRZTREMkwya3pZdTVXcmh2ZTBta21CTHF6dWxfWnpVRkhrSksxZXJFdkZhNFAwVEZISU5OS0hmSVdicW5XWE91NXlEVW91S283ZWpsSmhQNVpTVU5LZzA3LVkxakhGQUhNVTh6U291Z09oOFBMR3NBRGwxWlVyLUVJV2F5czlxanBBakJSVmxnLXFRdjVEbU9LLVdUV0NDZ1F6aTVHaEFLZzh3TEpfSWtNUzVsQnZqR1M4NXRpdkxncm5GTGk0LTBUZkFrOGdLZmFaMXlyWVRUUi1NWDRMeVkxZkNGQ0REQzUtRzJQS2pfMjU5T1VwZF9WaDU2ejF2MkhodDBYOHIxWWZ6OWJBWmsxOUdwUlBTRVJxeVg1WUotbFdPWXVGckZ2dUNFSnZjUnJtUmhSaUhvUE9GR3dUQ0NKeUx0QlRBdVJUTjVRSUliQThfVFM3SGlyejVEc3BFaFNuMF84YXowVC1jT1pHSFBERFM5REt0M28tdjA2VjRMWWYtSktGcGZfVG0yWUZMUWVBVjAxZEU1TkMxR2o3UnhiOWxidmVCa0JRaGwtaVZ2V1JHZ0l4YzhpNFMySjRvR3ZnVktqU0J4NE5sVTVIVmM4SllpWDBNT3N1S2p0aVNkcm5QTGxscEtvbFJuUXhBRTlKZ1RBa0pQVDVmRHhTN3RLaFBQd2NKSll5cVlUXzYxRF9tQmJvNUxhV2ZJbTJtNmJJdHhGWkdMRmQ4clpNZGJBYTVRYTRoREdqSUdnZ0dJU1RzQmJmTFdQSGVfRWlwZHlUQ2xLb2k5TTlw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "36cd374e75a5",
       "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12",
       "published": "2026-10-20T07:26:32+00:00",
@@ -787,13 +934,13 @@
       ]
     },
     {
-      "id": "18a560d9e3f6",
-      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
-      "published": "2026-10-20T04:30:00+00:00",
+      "id": "10effe914da7",
+      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞",
+      "published": "2026-10-20T02:31:10+00:00",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VNkJHbnFMajJwZE1jVC04Y0dhS2Nnb0NkY0NyOVRyU1dWd05VdUlmQVU2WFlvWDZObEZnM1gtVldzNmlGblJuODBjRENLWlBDYXNjS2ZvbnBNTXo5clFfTA?oc=5"
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5"
         }
       ],
       "keywords": [
@@ -801,6 +948,285 @@
           "type": "indication",
           "name": "cardiovascular",
           "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7fe69cdb9d2d",
+      "title": "網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確",
+      "published": "2026-10-19T07:45:29+00:00",
+      "sources": [
+        {
+          "name": "全民查假會社",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone-caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon-beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic-acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic-acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
           "related_drugs": [
             {
               "slug": "isosorbide-dinitrate",
@@ -922,73 +1348,6 @@
       ]
     },
     {
-      "id": "bb572d2e64a1",
-      "title": "免費乳癌和子宮頸癌篩檢打破了障礙 - Public Health Insider",
-      "published": "2026-10-15T18:53:22+00:00",
-      "sources": [
-        {
-          "name": "Public Health Insider",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXpFRzBmNURTZVdoQWFCZVo4NWlpNll5dEQ3U1NPWmRSQnMxX0QxajJocnBkOTJRQUlSd211WXpDdk1UUDhsbjFEaVAtQS0wRzFBbjB4aWN5RHVlOFkzRV9CMXBvZkE4WGxIYjBDM2U2RHljc2k5VFBTa19zT3lUZl82YTFWbVRVQ1JpLXEtUDc4TjllRVhYMHlWUHRpOE12Y25RNEI3aXNoNHVXMmVfTUVR0gG3AUFVX3lxTE5PY1NKNHZ2UEFWQ3BkM2VGYkZjUS1IVTRrZ2xsWnJvN2IycWw0SHVfdlcwR05jb3lKcnpEc2lHSDdpbF83WU1pTGNEVnlQcFRXdTdvbFp0NlRSSzBTeWV6OWFId2lYanhDZWRFSnlseFpDQURaUWtKZ3lzUFR3RS1uRWhHb0owLU83ck5pUVlOc2w2XzB5SW1XR0RZMjVQWm5uMUFiN3NZZ19EbUtvTmRhdUlWM05rRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "d9d7548a42f0",
       "title": "心臟病不只胸痛醫：也可能背痛- 醫藥新知- 新聞",
       "published": "2026-10-15T12:37:14+00:00",
@@ -1074,13 +1433,13 @@
       ]
     },
     {
-      "id": "1f164141bb42",
-      "title": "「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅 - PChome Online 新聞",
-      "published": "2026-10-15T06:25:00+00:00",
+      "id": "09806ade8893",
+      "title": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY",
+      "published": "2026-10-15T10:29:50+00:00",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5"
         }
       ],
       "keywords": [
@@ -1093,6 +1452,23 @@
               "slug": "ouabain",
               "name": "Ouabain",
               "url": "/drugs/ouabain/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone",
+              "url": "/drugs/dronedarone/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
             }
           ]
         },

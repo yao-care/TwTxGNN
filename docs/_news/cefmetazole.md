@@ -14,7 +14,7 @@ permalink: /news/cefmetazole/
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ permalink: /news/cefmetazole/
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [衞生防護中心引研究指有規劃運動 癌症患者死亡風險可降23%](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOR2FUelQwQWdjT3lYVEtDRU5NUWxWcVRuRlZWRTE1dE0xVXNISXN0dE54N0w1bmYyYTBOclRvb2swd3ROSmpFMUlJdHh1YmFIUHdTbEhwNUVudXpwZU1Ea1RYYlprMFdYWjZSVmZDREY2dFc4bXdTb2R1dGFrRURWS0h6Y3ZEcnlqc0xfaTAzdi1iLUhpZlQ2MHhRbVNieDlDWjBRTWs2ZmUwYzYwS0ZXY3FpZWszYnhWTVo1bDREczFwRVlZcVBZWFpVY3k0TzBodnFZcVhRQll3MkMwOTJQOUNkb0IyOXpZVm5RNEttRDlPNGdTSDNta0M2ZHh5UTBxb25yZ2NPYjVWT0hfYTlObkpUOHNDTnFNMHphcVpleHFCWmR5ZFVueEtZZjRCUWJmVkJ4b2pEUmZlSkk0bk5UR3prRWVnWkVka1JxNmdXbWNrdS1PcjVHZ1N4UVU1MDlYOHdab2duN19MOWpVNGNJ?oc=5)
 
@@ -59,11 +59,19 @@ permalink: /news/cefmetazole/
 
 ---
 
-### [「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅 - PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
+### [網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
 
-2026-10-15 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">鏈球菌</span>
+2026-10-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
-來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5)
+來源: [全民查假會社](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
+
+---
+
+### [「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
+
+2026-10-15 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">鏈球菌</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
 
 ---
 

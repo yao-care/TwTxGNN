@@ -1,8 +1,167 @@
 {
-  "last_updated": "2026-10-22T01:05:57.022985+00:00",
+  "last_updated": "2026-10-22T06:50:57.043044+00:00",
   "total_count": 70,
-  "matched_count": 15,
+  "matched_count": 18,
   "news": [
+    {
+      "id": "f03833d64f62",
+      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
+      "published": "2026-10-22T06:04:24+00:00",
+      "summary": "心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d84968279114",
+      "title": "維生素D預防乳腺癌新證據 研究揭其潛力遠超現有認知",
+      "published": "2026-10-22T05:55:45+00:00",
+      "summary": "維生素D預防乳腺癌新證據 研究揭其潛力遠超現有認知&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPaTl2UDI2NWN1aXRSZzJZZ09JR1BmQ1QxT2FYRTFPSnVXU2VUek5UUWhvZmpLZ2dRM2hSVFUzck9ZcWVENHRFRmZsM2QybENta1RUOVVMbkhuQ3FNRDlybWUzTUxIMkFWTTFaQk5qUnRJRzd1NTJSZkFjRlExS2JWcTRzYU94ZzFrN2VMOEE0MDhmT2RvM1BXdVpLeXZPVWNtNklYRVFKcXdIYmFmeTRIdm9jY3h5WHc0dDV6Zk5MZk1OZk5oakRTM05VbVdMMWhKZDhBdzVFNld4Vi1LLXZnYzNKRG1SZTN3Mzdkb3lwOE5rdmNIOXRZMjhfOW9VTTBmcF8tTzYtZ05GRV9QSnJPSjhUREFLN1ladXhYQXV1emN6MEd4NWZ1YndIWTRYNUE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳腺癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3598ae2bf18",
+      "title": "吃魚先選「鮭、鯖、沙丁」3專家公開長壽菜單 每周必吃5物",
+      "published": "2026-10-22T05:13:36+00:00",
+      "summary": "吃魚先選「鮭、鯖、沙丁」3專家公開長壽菜單 每周必吃5物&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NVXZGc1RFTUViMmJYRWZuSGxvMlJrTFpENXBKaWJqOWpadnFoTU1PaGtoQy1DNmwyTi1nQVU2dktKWkRTV3hsazV4SnRhcjZBalhTN1FLTjVZcFZQMy11bjdXS25rcnUzRHBqekVn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "28783a23f82f",
+      "title": "電子煙「沒有焦油」，但牙醫仍然很擔心——原因在這裡",
+      "published": "2026-10-22T04:30:00+00:00",
+      "summary": "電子煙「沒有焦油」，但牙醫仍然很擔心——原因在這裡&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOOHFqQ09YTXJRUEYwci1TRmo5NU8zQnNOMkNldGhna2MwTFJRM09mamZhQ2NJTWZOMjJ3aUhyRzFVNF9QSndIaHJkMll0VG9xUTNWVkY4eWpRMFNmOE10elNQNzF5UF9KQzFwamg4NGtCd3ExeEpzWENRWGZ2cWxOaDIzUHhUNjRIZlZGaWJ2TFQ0ak9Td2VEb3FvN0xqQ1R2RnQtVU5aMWRlbGlCVm5aaWJZM3ZwcWxWUHB6ODZIUExHNlhUV2FBaTFvQjBWc25iNFc0YUdqQW5xS3FOZDFpWlVFbldheG9ENGp5ajFFdFMxVWtOU19XV3VaNTlsd2l2VnZSb1ZPVVdWVGJVM2FuRzRlMkRwQlNqa21sLTRjNFhmSldYby1rTzZ4X1R4Z3JGR2JLN2Z2d2FhMmkwaTY4Y2M4RkZYYXhlVUNwc25qTkJ5WENPeXdGSUZfbkdKQ1E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "492a8c55be9e",
+      "title": "猴子疾病經驗改變食安行為 研究揭示行為免疫系統奧秘",
+      "published": "2026-10-22T01:58:38+00:00",
+      "summary": "猴子疾病經驗改變食安行為 研究揭示行為免疫系統奧秘&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOYTNvRi1IcXR5bU9Ea1FtZV81YW03Mmw0dGV5Y1NlME1zLUtpSjNFMnNkcURBbll6anpsaURfM2hVSXNBa0tBUXA3VjhYVWR3Mkp2d042SHhuaURhdi0tQ1ZfajhPbUtOT2oyT2haaGYzX0dWM3Z3OXhIaXlNaW9TRmQxSFloa1FJWElhY0xtVjZfY2hFOGhoaHMwMzhWcE5MdWROUURXWmhHQVBUdjhJSGhrMks0MHdVZ1hKeURYUjk4ODBHRE1YSlUyYTItWmVjQ0dZdlRkVmNPYmNtLUJEbEhoWkFQT1JsQ2JmWExTenhXbTd1Smc0SFl3bWNBQnBDSVJ6bHR5ZENrTE9QYlNNT3ZFZFAwUlM5bDVJT3FWWnU0VEFMZDRPaVpLMUo4Q0lQSVRF?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b04a24e414fb",
+      "title": "活得更久之後（上）：看見高齡愛滋感染者的污名與照護缺口",
+      "published": "2026-10-22T01:58:02+00:00",
+      "summary": "活得更久之後（上）：看見高齡愛滋感染者的污名與照護缺口&nbsp;&nbsp;HIVStoryMEDIA",
+      "sources": [
+        {
+          "name": "HIVStoryMEDIA",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1QnNZcC1TbGc2c0JaQTQ3LXd3RWRrVkVJZHJCOXZYYU5BUXJFTWw5VnY4UURkejN0SEszdFpQMEg3bVNIMUh2ek5VMjZOYzdMQ2lJMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "61c0b21a4eb2",
+      "title": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站",
+      "published": "2026-10-22T01:43:55+00:00",
+      "summary": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站&nbsp;&nbsp;CCUE",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c2b525bfd01c",
       "title": "50歲後想護腦可多吃石榴？ 神經科醫生揭多酚抗氧化作用",
@@ -17,23 +176,10 @@
       "matched_keywords": []
     },
     {
-      "id": "ef30019b60ba",
-      "title": "小心病毒來襲！卑詩是全國流感疫情最多地區 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-21T22:35:57+00:00",
-      "summary": "小心病毒來襲！卑詩是全國流感疫情最多地區&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNR3FaUFhLVUpPNWphU0lZOEl2a0dBdjl4YUl2akd1LUVYOHZTMnh6UlBId3c1UWFwT2JwMk5ZS2dIbGFRazdERjZzdEtfamQxTlVCWEtoOFV1ZU1YTlZCWnZ3ZzhQSXE4ODZJZ2l3aVNTLVJIdU1pWlN6OHQwVkJnQmpSdlROVHVyODVxX0ZvZERpVTVzWDRqd2M5UkZ1bi1SeWtaWlBXZGhwOVpfSGNlenp4Qi1QTzFzOGFxZk5pMVh0N1JRaVl5UndnbXAwQ1VQVXFkSmtvZ21pR2F6WkhZM0lfaWtMSXJLWTlHNmpDc3FlS2RMTGVDbUxtdEdYNG9RRkcyNWR3Z1FRMVh0aG1iQmFDcjRidDBqNVZ3ckhyalFFQmRtRjN6VjlfOWN0SlViVFhMNTRLaXM2ZWNwaGtfQTE3dHJrOFA0RVhMLdIBjAFBVV95cUxObEVRRVdvZ3lxbHB5elFhSTl4R01TWHVBOW1iLWxqS0ZpdFlBTlNNTG5BY0NUS09JMmJiWEdmWHNONERDaTY4TzItMHpwa3Qyd0hFbDB4N1BsRGxsVy1XaXhnbXZVcmQ4elk3aEdXOGktVmJDU2pVb2hBb2tRTXVMUzVBQkl4cHZnS2txcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f9e52ae7ba42",
       "title": "12歲女童染甲流併發症四日不治- 港聞",
       "published": "2026-10-21T20:28:22+00:00",
-      "summary": "12歲女童染甲流併發症四日不治- 港聞&nbsp;&nbsp;大公文匯網12歲女童感染流感死亡 衞生防護中心呼籲接種疫苗&nbsp;&nbsp;metrohk.com.hk香港6歲女童染甲型流感併發休克情況危殆 潛伏期內未外遊&nbsp;&nbsp;www.hkcna.hk12歲女童感染甲型流感併發敗血性休克不治 潛伏期內沒有外遊&nbsp;&nbsp;RTHK News流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01",
+      "summary": "12歲女童染甲流併發症四日不治- 港聞&nbsp;&nbsp;大公文匯網12歲女童染甲流後併發敗血性休克不治 衞生防護中心籲市民盡快接種疫苗&nbsp;&nbsp;Yahoo染甲流多重器官衰竭 12歲女不治&nbsp;&nbsp;東方日報流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "大公文匯網",
@@ -82,19 +228,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e96bddc2cb7a",
-      "title": "如何讓菇類營養價值變得更高- 地球村 - 新聞",
-      "published": "2026-10-21T12:51:02+00:00",
-      "summary": "如何讓菇類營養價值變得更高- 地球村 - 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jbUdEOVlYbTRWX3luQThhY2k3SkVCZ0VhTUNRZnpHaUVRZXNubE5GVHdISC1yM21DZF8tQ1BrUUNZcmNJWUNqamZyRnJFOEZlY0l6bkR6MDVFSTFWa0hGUndKeXV2dw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1491c0a2a227",
       "title": "身體從35歲開始走下坡路？科學家47年追蹤研究揭示體能衰退的起點",
       "published": "2026-10-21T09:23:00+00:00",
@@ -103,19 +236,6 @@
         {
           "name": "鉅亨號",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LamQzMllKYVRzdVlucWNuZ0ZmSWNtMGVoRWEyWldlNlEwQ21vaVFpX0ljX3ZfWFlnYjdqVXdpd2J1TEtNNGFEZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2094bd38173d",
-      "title": "吃碳水還能防癌降血糖？最新研究揭密抗性澱粉：罹癌風險狂降 60%，減重穩血糖一次看懂！ - Women's Health",
-      "published": "2026-10-21T08:59:42+00:00",
-      "summary": "吃碳水還能防癌降血糖？最新研究揭密抗性澱粉：罹癌風險狂降 60%，減重穩血糖一次看懂！&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0JOUGxHN213YXM0RXptTTNibmFvTlVUT0VqOHQ4TEdrbnpma0IzM2x0THBrdDBha1ZfekxScEwwVkxCdjNGZ29KZFFuMGhpVGNBMVFWYVU2OGZHeTZxTWtFSWhpOFl1TnNnemdpRExFdURHcTZRX1AyYXRRWkl2Q0I4VFZCVDEtY0JwN0dxb0l6N2V0QURySUJDR1lIM2ZMSHhzbnc4OFFLVnFOMXZRb0o5dUE5M1AzdjEwcG1QeTdMNHFPTW9HUDhubHo?oc=5"
         }
       ],
       "matched_keywords": []
@@ -777,19 +897,6 @@
       "matched_keywords": []
     },
     {
-      "id": "6e5ea2cc988d",
-      "title": "做齊4件事多活10年不患慢性病！11萬人研究揭6大長壽秘訣 食發酵食物也有效？",
-      "published": "2026-10-21T04:30:04+00:00",
-      "summary": "做齊4件事多活10年不患慢性病！11萬人研究揭6大長壽秘訣 食發酵食物也有效？&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPeGtnREtvcjZRMEZScWxnemIxakFhXzV1Rjc2MV9HUGlPSGh6b2VVNl9hQTVzNVk1NWwyYU5xSVlBcDZ1bVA5b0lNTmtMaU4xMkRIVUFwOVFCdUpIM2hObjdGWHFWWDlQNjBTN1RZVlFvV3IyOFlIYldIVkx2WFg2NVlDMy1CRUZqbzE4a0pKT0pRWF8tZktZdWpTQWM0LU95ZExLQUFieW8wSUVVWnpPNjFLQ0ZaTm5scmxTel90aHhCbFhDQldBUHRVTktkZXI4ZlNGc3JRMEJSR2Vzem1tdjdVZjgzUzZtbV9OUm5BM3k5Y3JMSnUxRG5sN0hHOGNBLWI4UGNYblJScW9Nbl9mRC1mQXg2UElDMWlFUE1SSHozbjQyYlM2c0xtUzlXQ0packpmZ2d3bkJtRE9QZUI0WjZSMFNWY0hibGtPcGt1ZDVYS0daVm53Tll3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "2a7e4a1a5edf",
       "title": "阿茲海默失眠元兇現形 研究清走腦部免疫細胞",
       "published": "2026-10-21T03:30:00+00:00",
@@ -801,6 +908,75 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "444d0cb257be",
+      "title": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向",
+      "published": "2026-10-21T02:08:50+00:00",
+      "summary": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQYklXMjBrOHBVQ0xtWk5FY2pYWGgxUzNMYUJpYm4xSkZwTlVfZEppd1lXbk9wN1lCdmg0amtJRXpua09EaXNvX1AtUzFHUU9LVkx1SnRaZWRnQm91ZzV4b2M3aFBhZFBhQzF3ZlpGQmVhS2JudmtydG0zei0zZ2g0MThUYVV1YzVMTmh3c0txeTVla002NVp2ZE9nbHNsTndEWkt4UFNueDRLekxESVA0emJKdlIyeW1ISndPWjFvM3JhTWlnUk93bkJmclpSTXFIUi1LNXgxeGxfUEo0ejlkakRUWGJ2cFlhdXZaOGZtTEd3V3FGcjVPM3Y1U1dhLW1JdjNkbmNHUGpWLWdmTWl3UzZSTXRjMmpveTl1ZWM0ZVNrYXk1dDlaWE9oSldkTlBEWlR5d0g3cUYyMzZIVjFrNDRLbFZVUE9xMF9iZldJWEdySUdBclNYTVN3R1JBSGFlZGM1bHdlQ3JyZi1JVEI0SXU0cFZkZjFVamkzR1ZZQktyWHlRUkdjaGtxVWphNHV1TnlwaTdR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6bc8c49de63e",
+      "title": "男性乳癌｜朋友一個惡作劇動作6旬退休男驚患乳癌擴散淋巴死亡率高達19%：兄弟真的能救命- 東張+ - myTV SUPER",
+      "published": "2026-10-21T00:15:00+00:00",
+      "summary": "男性乳癌｜朋友一個惡作劇動作6旬退休男驚患乳癌擴散淋巴死亡率高達19%：兄弟真的能救命- 東張+&nbsp;&nbsp;myTV SUPER",
+      "sources": [
+        {
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxObVdScW83S3Y3ckdmbTluaGV4NzRLN3BVakpRZTREMkwya3pZdTVXcmh2ZTBta21CTHF6dWxfWnpVRkhrSksxZXJFdkZhNFAwVEZISU5OS0hmSVdicW5XWE91NXlEVW91S283ZWpsSmhQNVpTVU5LZzA3LVkxakhGQUhNVTh6U291Z09oOFBMR3NBRGwxWlVyLUVJV2F5czlxanBBakJSVmxnLXFRdjVEbU9LLVdUV0NDZ1F6aTVHaEFLZzh3TEpfSWtNUzVsQnZqR1M4NXRpdkxncm5GTGk0LTBUZkFrOGdLZmFaMXlyWVRUUi1NWDRMeVkxZkNGQ0REQzUtRzJQS2pfMjU5T1VwZF9WaDU2ejF2MkhodDBYOHIxWWZ6OWJBWmsxOUdwUlBTRVJxeVg1WUotbFdPWXVGckZ2dUNFSnZjUnJtUmhSaUhvUE9GR3dUQ0NKeUx0QlRBdVJUTjVRSUliQThfVFM3SGlyejVEc3BFaFNuMF84YXowVC1jT1pHSFBERFM5REt0M28tdjA2VjRMWWYtSktGcGZfVG0yWUZMUWVBVjAxZEU1TkMxR2o3UnhiOWxidmVCa0JRaGwtaVZ2V1JHZ0l4YzhpNFMySjRvR3ZnVktqU0J4NE5sVTVIVmM4SllpWDBNT3N1S2p0aVNkcm5QTGxscEtvbFJuUXhBRTlKZ1RBa0pQVDVmRHhTN3RLaFBQd2NKSll5cVlUXzYxRF9tQmJvNUxhV2ZJbTJtNmJJdHhGWkdMRmQ4clpNZGJBYTVRYTRoREdqSUdnZ0dJU1RzQmJmTFdQSGVfRWlwZHlUQ2xLb2k5TTlw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "6f29f1c7427b",
@@ -837,19 +1013,6 @@
         {
           "name": "墨新聞-MORE News",
           "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5tNEVyUFdtQXVUNnA3cmN4a1VYcVZZZzVYUzZ5SEc4cWVoeXByZ0dhU0hYTEZVRkROZFNhZUw2SFp5Zw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b7e0e5320626",
-      "title": "多吃菜護攝護腺哈佛研究：精緻澱粉、炸薯條無效- 醫藥新知- 新聞",
-      "published": "2026-10-20T10:34:51+00:00",
-      "summary": "多吃菜護攝護腺哈佛研究：精緻澱粉、炸薯條無效- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MSjN0dEVBNURyTVNva0JtM3ZUb0xidjF1aXdNMy14YTZMQndab29aSzUwUGxYc2I2RzZNSm5ad1VSOEJheXVUeU9sbF9WWVBuYmFkMlp0Y01wbnpLdXRyRVlNeGJmUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1094,32 +1257,6 @@
       "matched_keywords": []
     },
     {
-      "id": "18a560d9e3f6",
-      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
-      "published": "2026-10-20T04:30:00+00:00",
-      "summary": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VNkJHbnFMajJwZE1jVC04Y0dhS2Nnb0NkY0NyOVRyU1dWd05VdUlmQVU2WFlvWDZObEZnM1gtVldzNmlGblJuODBjRENLWlBDYXNjS2ZvbnBNTXo5clFfTA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "51deb874e0e5",
       "title": "第一胎有狀況，還想生二寶？先搞懂遺傳風險，為下一胎做好孕前準備",
       "published": "2026-10-20T04:00:00+00:00",
@@ -1128,19 +1265,6 @@
         {
           "name": "良醫健康網",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WOGh2TXJBRHBFRkFxdzk3RFZadGlVUndhd3NpbWRFUEhDcm1Qd0ljRmlraHkybFVRRkZsbDREa2U5dDlNN05uMEtqU0I5bTJUR203cVl1OE1kMmJMV3phLUlEZFFCR2ZVTWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "36bd9414a616",
-      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上 | ELLE",
-      "published": "2026-10-20T03:47:50+00:00",
-      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上 | ELLE&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPU1lSUjJva19JZ1VXMTJCZU9aUUM1OU92M1Z5UHVaNkYxRW5pTTQ5a2w0bGhFNm44amNkanJKUlBfU1dXOFkzRldBaGdUMnRXakh0WTl6NDNTYnJQX2g2QkNsMVR3TFZXRndpdU44eVJIUW5hU2xBR2dDaUgwcktsVHVjWkszU2tLQWxmVHdQRUw4cHlsVjA0QW0xa0xVY2RWOEdrb0hQcHNZelJITjVEanFEMENpVFg2ZUhkUXhwdWlHSUp0c1l0cjVZblVBYVRxOUZsZXgxX0NGaVVGTUNacFBTQ0pXYnBwbkFnRThURWdrUDQ1TVlPOE9ZWkpPREZ3QTUydndEVWlqMWhpdURxV3JwSWtWbWpkamJZb0lLLW44X2ZSUHRvWnBKSkJSb3FXOWJPbHNKejFweXdNYTJFNE5hb0h1a0M3S1ozaU16b3FaZW1wTXM4U3BVMlo2VU9jY0pfMGV5X2VBc2RPTnlMSDlRam01NGNuSUJQajVsUXI2WHZ6RE9lVEpHcmFUX2lOWF9SSnF4UU14QkxYOHFDQ0V3dDBWdE1PS1R6aTVBZ05raExsbkJScTVXM2hWV1pWZjZraHF3T3N3Ql9KSXVWZFpmVQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1159,6 +1283,45 @@
       "matched_keywords": []
     },
     {
+      "id": "10effe914da7",
+      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞",
+      "published": "2026-10-20T02:31:10+00:00",
+      "summary": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞&nbsp;&nbsp;CMoney前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc04ec604e3f",
+      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上",
+      "published": "2026-10-19T15:35:13+00:00",
+      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVJIMWRBV3ZPZjMwSkQ0WGxQZjdRMVRhb2tUbnVFWVBCYTUyXzRKSnVkeV9OU3NKWjBQeFU2bzVGdEJIUFZBMFQ2WDBBWjlzekNZcVc4aHJXTEphdi1jcFVRZ3JfeWdGVV9jOUR2NWNTMExObTc4RDhIYUJRRGx1Wk1TT0YyaFk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "1d636f247a78",
       "title": "黑眼圈不只是熬夜造成？研究：「1營養」有助淡化熊貓眼、減少掉髮 - Harper's BAZAAR",
       "published": "2026-10-19T07:47:43+00:00",
@@ -1172,14 +1335,294 @@
       "matched_keywords": []
     },
     {
-      "id": "b3abd70cbd65",
+      "id": "7fe69cdb9d2d",
+      "title": "網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確",
+      "published": "2026-10-19T07:45:29+00:00",
+      "summary": "網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確&nbsp;&nbsp;全民查假會社",
+      "sources": [
+        {
+          "name": "全民查假會社",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2125f577ff9",
       "title": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情",
       "published": "2026-10-19T06:31:00+00:00",
       "summary": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOS3QxZU1CUk9EOUVPb2RtN1N6amk3YVkwQ2NlV212aUFxZW01SkZWX1pUUVZnclliUnZ3LXFmLWp2TFUwNE1RYmRELTZFU1NBNURrTXpvZndndGJNdWw2MDZ5YWJvU0ZyT3gybnpjdk1qQ1dnM2Rqa1hSVQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fbERPZEtrRkhsdmtpNVpsb1RBdjdhTHdYUUYxNWtRVnhpZTZDUUE3cVRGVlJLMEl1bV80anlDUFpIak5ibElKanRBdVlOU1Y3VTc1X3YyMnhZVy1yY1ZmOUZCanVQTk5vd2JaQVFSdVVXdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1289,6 +1732,19 @@
       "matched_keywords": []
     },
     {
+      "id": "16c1cbe94244",
+      "title": "瘦瘦針GLP-1藥物可以延長壽命 - PChome Online 新聞",
+      "published": "2026-10-18T06:28:45+00:00",
+      "summary": "瘦瘦針GLP-1藥物可以延長壽命&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOengxbkJpaVpCNlpjYUh0R2tQWWdPeEN4TmxoT2pLZzdCSldVTWdLSlVYNVZnVUp1dHRZRFBBcHIyVG52b2pxTEVWLVdwZm8wQk53bjFCYkN3YkJJdGltYmdUQk9jRUlqOXotSE1qQ1gzM3NCN0JBY3A0dUpsSFZ0c09YN1NDU1Fjc0tOeHQxTQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "4cd6d3723e92",
       "title": "Kathy Spindler：單劑表觀遺傳沉默療法讓B型肝炎抗原驟降98%，且不碰宿主DNA - BigGo 財經",
       "published": "2026-10-18T05:08:00+00:00",
@@ -1323,19 +1779,6 @@
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KczNtbGx3RmZSQkx6TkdGVWltWjF5TXJKSjZGSTl6U0hPMmZKT2tSWm5tSE1DZ0pONlNVNU4zNjU3UFBNSmxEb2VlMzk1UURjOUQyVWRibEVSZ9IBX0FVX3lxTE9uY21kZWlDN0ZpSmc5TjU5WEl3dU03M19TNXJITVJjbHJGVnJXcVdMczdYSkU2UTY4ODIydzhRUkxRMUdIcWxMaHBJblZDd2hPMHBNeVhDNV9QTTVaelN3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7751514080de",
-      "title": "大腦竟是兩個器官- 醫藥新知- 新聞",
-      "published": "2026-10-17T12:44:31+00:00",
-      "summary": "大腦竟是兩個器官- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92NnYtN0YwS0tnajN6S1R5akpfMGNjRERMQVpTSEpGeFBQa1pBdE96MHg3OXpLOVcybC1oMnBxVVlOT0lVZ1NFRFFVS2VaTGRnQ1dpaWZIRzZKLU5SbE1Gcm5GMDBJZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1455,19 +1898,6 @@
       "matched_keywords": []
     },
     {
-      "id": "c2432a91fdc8",
-      "title": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報 - LINE TODAY",
-      "published": "2026-10-16T12:01:03+00:00",
-      "summary": "四大類抗黴菌藥全失效，肯亞現全球第二例「全抗藥性」耳念珠菌感染 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IcHdDb2VNa3dhRVRiZlFOZXBLb3RqYWwwYVd4QXRHM25pVGlhLUo2clpaNm53WW1NN3hfdXlObEpXTXhLSWMxUTdRODZWeDVqdEZxTUJ3NDE1VzAtaTMxOUdKQzNVcmZFTm80c09oOVk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "238ea62ff0c9",
       "title": "從餐桌到情緒的全面抗炎防癌實踐路徑2026全球醫學觀點解析 with 報新聞 讀健康",
       "published": "2026-10-16T09:17:27+00:00",
@@ -1533,19 +1963,6 @@
       "matched_keywords": []
     },
     {
-      "id": "5c7c931af401",
-      "title": "醫語怡情｜家中不可忽視的兒童中毒風險",
-      "published": "2026-10-15T23:00:00+00:00",
-      "summary": "醫語怡情｜家中不可忽視的兒童中毒風險&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc25KM2NKS2NsdE1KakV3ZzZFY2VBWlFGWmkzVlg2VjR0bzE5Z1dYSUFGSWVUYUgwOVlFXy1leWFoVHphWXZraUdXS1FlUnJ5U1N2SE5tSGZtU2EyVllYSzY3Xy1sam15aGxHZm9oQWwzRkpucHVSOEhlcGp6Qy0tOFRJelc0X295c0pjdjBqQi1UTWkzV0dUcW1rMkViRmtnRjNhckU3SGlIclRDeW96QlZyQVJ6SWg0dkhTUTJ0UjBUcklJSmZwN1FQMHhDd1c4Y2lvUEMtQk9EaHQ0X2tNQ2RsM1hPTXJ2c01iWllpcTBTc3cxcEJ2SllHWG5pQXpkOW9YclNxUjFnd0hzbHJMd1ZkY1ZnRVQ5MDNPd0tyOVM1OUpWYUVOSHJR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5e3d68fdf221",
       "title": "湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損",
       "published": "2026-10-15T20:52:34+00:00",
@@ -1566,74 +1983,6 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bb572d2e64a1",
-      "title": "免費乳癌和子宮頸癌篩檢打破了障礙 - Public Health Insider",
-      "published": "2026-10-15T18:53:22+00:00",
-      "summary": "免費乳癌和子宮頸癌篩檢打破了障礙&nbsp;&nbsp;Public Health Insider",
-      "sources": [
-        {
-          "name": "Public Health Insider",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXpFRzBmNURTZVdoQWFCZVo4NWlpNll5dEQ3U1NPWmRSQnMxX0QxajJocnBkOTJRQUlSd211WXpDdk1UUDhsbjFEaVAtQS0wRzFBbjB4aWN5RHVlOFkzRV9CMXBvZkE4WGxIYjBDM2U2RHljc2k5VFBTa19zT3lUZl82YTFWbVRVQ1JpLXEtUDc4TjllRVhYMHlWUHRpOE12Y25RNEI3aXNoNHVXMmVfTUVR0gG3AUFVX3lxTE5PY1NKNHZ2UEFWQ3BkM2VGYkZjUS1IVTRrZ2xsWnJvN2IycWw0SHVfdlcwR05jb3lKcnpEc2lHSDdpbF83WU1pTGNEVnlQcFRXdTdvbFp0NlRSSzBTeWV6OWFId2lYanhDZWRFSnlseFpDQURaUWtKZ3lzUFR3RS1uRWhHb0owLU83ck5pUVlOc2w2XzB5SW1XR0RZMjVQWm5uMUFiN3NZZ19EbUtvTmRhdUlWM05rRQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
@@ -1752,6 +2101,61 @@
       "matched_keywords": []
     },
     {
+      "id": "09806ade8893",
+      "title": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY",
+      "published": "2026-10-15T10:29:50+00:00",
+      "summary": "「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY流感單周死亡創今年新高！醫示警肺炎鏈球菌恐接力奪命 嚴重可釀敗血症&nbsp;&nbsp;UDN不只小孩、老人 醫點名「4族群」染肺炎鏈球菌重症風險高&nbsp;&nbsp;ETtoday健康雲長者注意！流感引發「心梗風險暴增5倍」醫揭免疫老化危機&nbsp;&nbsp;三立新聞預防流感重症風險 長者升級自我保護力新選擇&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone",
+              "url": "/drugs/dronedarone/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "鏈球菌",
+          "keyword": "鏈球菌",
+          "related_drugs": [
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "73a124cde2b6",
       "title": "今年流感變異株免疫逃脫風險增加？！感染科醫師急提醒：別等萬聖節，現在就該去打流感疫苗！ - Women's Health",
       "published": "2026-10-15T10:21:51+00:00",
@@ -1773,70 +2177,6 @@
         {
           "name": "鉅亨號",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52dWtpVXVveWI5WDdHZ0c4RXZsRG5CM2JrNGhrT1N4Vmg1VDE4S1FweW9hcXVQMzdnOVBlU3R0VXdUbUtZOWQ0eQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1f164141bb42",
-      "title": "「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅 - PChome Online 新聞",
-      "published": "2026-10-15T06:25:00+00:00",
-      "summary": "「免疫老化」成健康隱形危機 全台460萬長者面臨流感重症威脅&nbsp;&nbsp;PChome Online 新聞流感單周死亡創今年新高！醫示警肺炎鏈球菌恐接力奪命 嚴重可釀敗血症&nbsp;&nbsp;UDN不只小孩、老人 醫點名「4族群」染肺炎鏈球菌重症風險高&nbsp;&nbsp;ETtoday健康雲長者注意！流感引發「心梗風險暴增5倍」醫揭免疫老化危機&nbsp;&nbsp;三立新聞預防流感重症風險 長者升級自我保護力新選擇&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFpBV0I5dVZFZmRTTTNVVWxzTHg5MlB6bUtYYkl2aUp1NkFQdHJiWjZlUHU4eGFoWmtBWGVPYnh6MndjbE5Qa3R2dlk4YUtFcmpielpmamZsVy0xSFJTcFE5dEhYRlJISG5rTjRZOE1mcXFhbnVJWmRLYXN5ZHRYbzA3REc4YW1wX3c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e6ba6e1369d2",
-      "title": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體",
-      "published": "2026-10-15T03:06:00+00:00",
-      "summary": "健康網》醫：安全氣囊撞擊眼部 視力模糊需換水晶體&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RVHZ0NTZlSFJJRFl2RkZlQlNMSmpQb3pTQS1QZXVEdXFOcXFNdWhnamlLVE1uMHRNZU9WUkRvNXFlUXU1bzFWeEJBa2FOLWxuNmpPUE1kR3p4S0xwd0ZUdks2amQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e31b1bf83946",
-      "title": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％",
-      "published": "2026-10-15T01:51:23+00:00",
-      "summary": "50歲後不只要看體重！腹部肥胖又缺維生素D 研究：死亡風險高123％&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oYU4xbFJtODF6ZmdfY2hhRmRZMVoxazFHLVo4aWtSamFQeUtpbXlQQTVnNWJ1b3VKY19sYm1YTndKaDRueE50LU40TFA0X3JQ?oc=5"
         }
       ],
       "matched_keywords": []

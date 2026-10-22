@@ -14,7 +14,7 @@ permalink: /news/acebutolol/
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/acebutolol/
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [衞生防護中心引研究指有規劃運動 癌症患者死亡風險可降23%](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOR2FUelQwQWdjT3lYVEtDRU5NUWxWcVRuRlZWRTE1dE0xVXNISXN0dE54N0w1bmYyYTBOclRvb2swd3ROSmpFMUlJdHh1YmFIUHdTbEhwNUVudXpwZU1Ea1RYYlprMFdYWjZSVmZDREY2dFc4bXdTb2R1dGFrRURWS0h6Y3ZEcnlqc0xfaTAzdi1iLUhpZlQ2MHhRbVNieDlDWjBRTWs2ZmUwYzYwS0ZXY3FpZWszYnhWTVo1bDREczFwRVlZcVBZWFpVY3k0TzBodnFZcVhRQll3MkMwOTJQOUNkb0IyOXpZVm5RNEttRDlPNGdTSDNta0M2ZHh5UTBxb25yZ2NPYjVWT0hfYTlObkpUOHNDTnFNMHphcVpleHFCWmR5ZFVueEtZZjRCUWJmVkJ4b2pEUmZlSkk0bk5UR3prRWVnWkVka1JxNmdXbWNrdS1PcjVHZ1N4UVU1MDlYOHdab2duN19MOWpVNGNJ?oc=5)
 
@@ -57,6 +57,14 @@ permalink: /news/acebutolol/
 2026-10-20 <span class="news-indication-tag">高血壓</span>
 
 來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMirwJBVV95cUxOU3A1a2JnR01CajlPQmk0c202NWJ3RnVLN1NiZGROWjNSZlhkV0MxRHQ4T0E4cDRNVE12ZnFKaEhueTVyekFUZmpjQUFQVEFJYXhRTTJQSjQ0eFZFbDFjSEkwLTdaMWVKMHE1bzBNMDVoVkxrZVVlMDZQX1N6VENfdklGb0lLMHFXYWdZZ0pweFA3Vy1hSnpvNFEzMnZiRGtVRGFOX1RJZTlaeHhCVGdCUGs0TXFEMDI5OHBha1hWZ0VPX2t3YmwxcVFMcl9Va1cxYVpNSHU5bEd6MFRyMTFKU19neHhyVkM3QU9lV185NjZBMEl5LWdqYWJEalpFNk85cFFQem1JMXZOT2lVRUNNOWc2ZE5oVE0wTURMTlhYZVVzYUNZa1RQc29KN0RwZDg?oc=5)
+
+---
+
+### [網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源: [全民查假會社](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
 
 ---
 
