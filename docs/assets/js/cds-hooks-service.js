@@ -37,7 +37,7 @@
       {
         hook: 'order-sign',
         title: 'TwTxGNN 老藥新用候選',
-        description: '基於 TxGNN 知識圖譜，提供病患用藥的老藥新用預測',
+        description: '基於 TxGNN 模型（深度學習），提供病患用藥的老藥新用預測',
         id: 'twtxgnn-repurposing',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
