@@ -1,17 +1,322 @@
 {
-  "last_updated": "2026-10-22T12:38:30.785981+00:00",
+  "last_updated": "2026-10-22T17:44:55.175541+00:00",
   "total_count": 70,
-  "matched_count": 17,
+  "matched_count": 19,
   "news": [
     {
-      "id": "2e06ee54a429",
-      "title": "法國通報人類感染「沙門達病毒」全球首例患者已死亡- 健康",
-      "published": "2026-10-22T09:40:48+00:00",
-      "summary": "法國通報人類感染「沙門達病毒」全球首例患者已死亡- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "269f90b2de56",
+      "title": "法國通報沙門達病毒傳人首例 患者已逝尚無公衛風險",
+      "published": "2026-10-22T15:35:06+00:00",
+      "summary": "法國通報沙門達病毒傳人首例 患者已逝尚無公衛風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXBjWFdDeHNRanM3YnFsNDFJRHB6RUVkSFczUWx3VHcxclhWRHNXOHVoTkJlb1R3TjhzdTlqN2xrN2txaWFaV0ZZZG8yakJQTVQyRzEyT29vdm5YMUVaNVVaejFOaUowcjlXXzN5dWFvTFVhYnJheUtEM3FsYW5FUGpDSDVIYm1xT1pnLWVvZw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQeDBJNG1UTnhmcVl6RmpkQ01OQ0VtR0o4WHdvdkdRQzJmd3ZjU2U3aFYwUXljUGV0UHBZRXMxQWdRTU5lRGtEMDJHOGJjRXhUeGV3SHR3Q3cwbDVIc1dKbW12SU9GYmFXVTRUWmgyQW1oQ2Y1NUQ4ckRhNGkxUVlmTVQyWGhiMlZpYWE4c2dYQUw4U3VhLVRNOHUxMzExRENOY2xXUWVtd280azhxeGlXRlY5dVh2X1U2bjdLWHI4Qjh2X25oV2FuZXlqOWdGZ2VmRmlIOXFkeW9XYk9uaFJSS3hkWk9hc2hXR0k1YS1fNnJDUEYtbFdYUnE2S01hTGVJVm54MHZ6R09mV1JlVjZBcWFuYWNyLS1vWmx4UGtzVmtiOHZ3ZldOVS1ZcWdBS0thMTZUQUQ5RjRNMWVLcGd0UDBXM2tEaE8xOXJYRjdudnp4cFp3MEYwMmg2VUYwd1h1dWRjVG9VYXE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0dfea9e7af16",
+      "title": "有片｜警惕！這五大癌症發病率最高！",
+      "published": "2026-10-22T13:34:00+00:00",
+      "summary": "有片｜警惕！這五大癌症發病率最高！&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c651f2f3a646",
+      "title": "肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意 - etnet 經濟通",
+      "published": "2026-10-22T10:31:57+00:00",
+      "summary": "肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意&nbsp;&nbsp;etnet 經濟通",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺癌",
+          "related_drugs": [
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23550298395c",
+      "title": "意外功效 壯陽藥助肌肉修復？",
+      "published": "2026-10-22T10:20:24+00:00",
+      "summary": "意外功效 壯陽藥助肌肉修復？&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42elBJNE1vMUVFZFlZN3BxZHZXNXY0aXJwR0Q1bHNIb1FIdk1ucW1DcU9CbTNiX0NIUVJqUDBqLWhEanY3Y0M0ZXZ1YzNwSjE1X25XM2FjQllWaU5aYWM5XzZEVm5HZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -45,7 +350,7 @@
     {
       "id": "f0171e6d4e87",
       "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」",
-      "published": "2026-10-22T07:49:27+00:00",
+      "published": "2026-10-22T08:32:45+00:00",
       "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
       "sources": [
         {
@@ -93,44 +398,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "f03833d64f62",
-      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
-      "published": "2026-10-22T06:04:24+00:00",
-      "summary": "心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "5c6a69b18988",
@@ -242,6 +509,44 @@
       ]
     },
     {
+      "id": "f03833d64f62",
+      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
+      "published": "2026-10-22T05:48:02+00:00",
+      "summary": "心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c7f7b6724f44",
       "title": "電子煙「沒有焦油」，但牙醫仍然很擔心——原因在這裡",
       "published": "2026-10-22T04:30:00+00:00",
@@ -258,7 +563,7 @@
       "id": "4c1fc405addb",
       "title": "81歲哈佛教授公開「抗老一日菜單」！不吃低脂、靠這招護心- 營養好食 - TVBS 健康2.0",
       "published": "2026-10-22T03:22:00+00:00",
-      "summary": "81歲哈佛教授公開「抗老一日菜單」！不吃低脂、靠這招護心- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "81歲哈佛教授公開「抗老一日菜單」！不吃低脂、靠這招護心- 營養好食&nbsp;&nbsp;TVBS 健康2.0哈佛30年研究：長壽飲食「5大重點」，健康老化率增加86%&nbsp;&nbsp;天下雜誌",
       "sources": [
         {
           "name": "TVBS 健康2.0",
@@ -271,7 +576,7 @@
       "id": "f08d1eeb9567",
       "title": "​衞生防護中心料流感季節延續最少5個月 惟疫苗接種劑數少1成",
       "published": "2026-10-22T02:12:46+00:00",
-      "summary": "​衞生防護中心料流感季節延續最少5個月 惟疫苗接種劑數少1成&nbsp;&nbsp;橙新聞香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元香港6歲女童染甲型流感併發休克情況危殆 潛伏期內未外遊&nbsp;&nbsp;www.hkcna.hk今個流感季節累計兩童染甲流後不治 衞生防護中心籲盡早打針&nbsp;&nbsp;Yahoo流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01",
+      "summary": "​衞生防護中心料流感季節延續最少5個月 惟疫苗接種劑數少1成&nbsp;&nbsp;橙新聞香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元香港6歲女童染甲型流感併發休克情況危殆 潛伏期內未外遊&nbsp;&nbsp;www.hkcna.hk流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "橙新聞",
@@ -441,6 +746,32 @@
               "slug": "vinorelbine",
               "name": "Vinorelbine",
               "url": "/drugs/vinorelbine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6dfee2161177",
+      "title": "全球HPV篩檢覆蓋率僅8% 世衛目標子宮頸癌根除之路艱鉅 - 商傳媒 - SUN MEDIA",
+      "published": "2026-10-21T04:58:12+00:00",
+      "summary": "全球HPV篩檢覆蓋率僅8% 世衛目標子宮頸癌根除之路艱鉅&nbsp;&nbsp;商傳媒 - SUN MEDIA前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "商傳媒 - SUN MEDIA",
+          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNY2h1UDJIZ016Yk8zTUhaUXAtRnc2bDFFdzZKak84Y0VIV0RxcTJfT0R5MVY4ci1pcHRNQVREaFh1cWF1aW9hc29aNm5GQ2J5dHc0RkF1dk9TYkFqTU9aSmZQV2lqbHVraHFMMWlJU09Ob0k5N0Q1R1FPam1FbHZvZVRpc0M0TnZnU3FiaXg2NVhSS2xnckFPRURqb244dEhia09qdHRsVE9LSG50NWJXbk9URDlXWFE2S3VjdWdua19MeFUwc2lPckJScXZvajc1UUd6bS1ZNjVVQi16ZHJlYU1RWnFjdVd3MnVTWGZSQVcxdExXcEN2VXNxWnBnbXFPQ2lSUFEyYV9SOHk0ODBGRXkxX095aFYzSEFxRzNGQmdfd0poZ3dtdmxOYTc3alk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
             }
           ]
         }
@@ -637,6 +968,19 @@
       "matched_keywords": []
     },
     {
+      "id": "b7e0e5320626",
+      "title": "多吃菜護攝護腺哈佛研究：精緻澱粉、炸薯條無效- 醫藥新知- 新聞",
+      "published": "2026-10-20T10:34:51+00:00",
+      "summary": "多吃菜護攝護腺哈佛研究：精緻澱粉、炸薯條無效- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MSjN0dEVBNURyTVNva0JtM3ZUb0xidjF1aXdNMy14YTZMQndab29aSzUwUGxYc2I2RzZNSm5ad1VSOEJheXVUeU9sbF9WWVBuYmFkMlp0Y01wbnpLdXRyRVlNeGJmUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "28c0a2a1cd53",
       "title": "麻州限縮肥胖症藥物給付 低收入病患權益受損 - 商傳媒 - SUN MEDIA",
       "published": "2026-10-20T06:43:06+00:00",
@@ -810,19 +1154,6 @@
       "matched_keywords": []
     },
     {
-      "id": "51deb874e0e5",
-      "title": "第一胎有狀況，還想生二寶？先搞懂遺傳風險，為下一胎做好孕前準備",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "第一胎有狀況，還想生二寶？先搞懂遺傳風險，為下一胎做好孕前準備&nbsp;&nbsp;良醫健康網",
-      "sources": [
-        {
-          "name": "良醫健康網",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WOGh2TXJBRHBFRkFxdzk3RFZadGlVUndhd3NpbWRFUEhDcm1Qd0ljRmlraHkybFVRRkZsbDREa2U5dDlNN05uMEtqU0I5bTJUR203cVl1OE1kMmJMV3phLUlEZFFCR2ZVTWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "150525916da5",
       "title": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關",
       "published": "2026-10-20T03:17:08+00:00",
@@ -831,19 +1162,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRjN2a1lqQms5ZVlXNHZ0NGVrUE1ZbmpaekdPbXFfWWRzSVhIR0lNQ1dFeFU3bllJVG9MMzlHQk5nN3lVMzItOTZabE9KUDh4WjA3Vk1fUmZadnNkT0lxd2xB0gFiQVVfeXFMT2pGM3ZrWWpCazllWVc0dnQ0ZWtQTVlualp6R09tcV9ZZHNJWEhHSU1DV0V4VTduWUlUb0wzOUdCTmc3eVUzMi05NlpsT0pQOHhaMDdWTV9SZlp2c2RPSXF3bEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "51b80b3eedde",
-      "title": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！ - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-20T03:14:09+00:00",
-      "summary": "換季成日覺得攰又無精打采？專家教4招緩解慢性疲勞 吃白飯都有效「補氣」！&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxObkswVjRqSTRCdS01TnJJQnFYcGJqR2VjZFkxZ0MyNHFDeEo0N3JvUTJibEFpYWxUUGhneWtOd3B1YkkzaVU3NzFmMXY0WnBWWkYzWng2aXVYTHNPYnhYTzRrX3N2U1k5YnVMU1Nyb2NIaHNaMmNUTVlqNnhMcmdJSkNMZ0JtanVQUnZPeDJib1ZIQm1DYmZUT0o2ajZuUldGWVhTX0NsTjRnMzlwVUpONzM5dHRYenNKZ2dlRmFKUVVPdzZXRDVJZ1BvcWNPZEw5N2FYUVNCQnRuanUwb0Jzd1J3WkpUbUwySVp0OUNldnlYZEg2UlRhaEdETTJXcVluZmRPdTB4YVRnRW1lb0Q3V0JrM1hwVWVvQ1piSC1sY2dGenA1RWIyT0U1dUQtVDlzaklOSXhfQ0wxVUNsZHFhX1JUNUw5U2JaRU03NVpQaUdBdUw0WmtpcUlrZlExZHBlakI3OGEyMFc0ZGJkUVBuYWY0cHVkb0hiSjlWdzUxQkk4YXBPcFVWNUREQ09UemFUYlNfQ1dPaWFfSXRMOElyeHZURmJ5bTdHYi1Lb0hmMFdmT1RzV0UyYXVRT0VPNEtEbDRRMzVFY1F2NUh2cWRlU2psbGYxbjVkODAtS01BQ04xcDVjRk1wSmkyaDFqNVFJSDk4bTFpUdIBkgFBVV95cUxPRjJiNDBfdjV0bUw4dzBvTTF3RnJocjl2Mlk3QUpfZ0x6X2Q1UlR6ZDVnNW1pVmMxWkg0OGJqSkFWRjlvR1VVZ2JjT0l3LXVNVDcxeG1PZ2I4dFBQcmtvSU1kSXZ3eXVqY2cyUjh1SnFJM2MxN0xiN0V5WnBjcWxTNmYtbnZ3c1l0WWk5S2JqUmhtQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1207,32 +1525,6 @@
       "matched_keywords": []
     },
     {
-      "id": "2dec6b0adfb6",
-      "title": "MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑 - BigGo 財經",
-      "published": "2026-10-19T02:35:00+00:00",
-      "summary": "MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑&nbsp;&nbsp;BigGo 財經",
-      "sources": [
-        {
-          "name": "BigGo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2fb6cc4e9b20",
       "title": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關",
       "published": "2026-10-19T01:00:53+00:00",
@@ -1464,14 +1756,14 @@
       ]
     },
     {
-      "id": "238ea62ff0c9",
-      "title": "從餐桌到情緒的全面抗炎防癌實踐路徑2026全球醫學觀點解析 with 報新聞 讀健康",
-      "published": "2026-10-16T09:17:27+00:00",
-      "summary": "從餐桌到情緒的全面抗炎防癌實踐路徑2026全球醫學觀點解析 with 報新聞 讀健康&nbsp;&nbsp;報新聞",
+      "id": "52bc637e7565",
+      "title": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用 | 科技新報 - LINE TODAY",
+      "published": "2026-10-16T08:01:21+00:00",
+      "summary": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "報新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPZDVxMEJ2MWMtVFM2Z3pRaHdZWmdzOGd6RFUya0dzOFRNYWFOY2ZFZXNHYmhrT0d1Mnk1NTlqWVlvTmdWM2Q3bmNWb1ZoTDd5ak9jR0s4eUNjQksxSTUyd29NQ1BEbkNEXzFlYWdPU0hKek9uZkRzaUlwZHpFZkh2M0k3aDVmc3VSZG5oRm9Jb0JFV2pRRjYzMEtTUmxlcFNHUkdQYkVrS01pNU9hRjY4YjZVMmlmbl9zNnNQS1h1ZmgwbUZCemdBX3FNYlpPZWZoRWw4M2dqWmJOazlUdVpVa19ic3VGeFYwaFZoV3Z4T0stVjB0SWdIRFgxMkxyTmpYLUQ1LXYxR0lTNnRQY00xTzV2am0tTm9VTXZkMWVybXcxRHpWTVVDZ1JpTjRkd0JRR1E1eFlKLVhhVW1qT1N1ZUY4UkFzT09JaWgxd2hDQzA1LWdmSEdrVkFYb0d5dFRG?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DbXYzODBNS21xV3gwSWR3Zi0wa0lETzkzY0pIV1hudm1YaTA4RHV4OUNlVkdjLWtITm01czM1SW9nNVc1TFV0Tm9DenhZTk5JZVVkcEhB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1511,19 +1803,6 @@
         {
           "name": "MoneyDJ",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWZYYkZGM19RNWpVTmZGLUNqNmVwNVBzbVFmMVVvYkt4V2JCRXp3am9WZWlEd3V5ZWExaU04bV9mWDRZS1VkQnR0V05PRU12d3lkZHh1cXVOcE4yMkRQVGhrZmo2YVRqczJ2aU14Y1V6NXRXcHd0UVQ0SWo2TFVvT3lBRk41VVljalVmNmd1WGFjUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4e949bcfa75d",
-      "title": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用 - TechNews 科技新報",
-      "published": "2026-10-15T23:38:58+00:00",
-      "summary": "不運動也能增加肌肉？研究發現「肌酸」可能的新作用&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlUzWTdoRFIzc2JsX2dJd3E5UkE1Q1YtUTRmMzlHY2VKTGxiZ0pzN0YwLUdUdWRvVF9GcUx5S0Q4LWQ1MXNuM0dJYW9oZ0xMR0ZSSkRtZHg1V29OM0N1SEZwMGdLMmJxNUU0NjJWY1BrRVBuYkJSa0toU1lscVpaeHc1ek1Da1BSQzg2Yi1NX0V6ZW1fc3NscExEcDlLT3pfMk9R?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1585,7 +1864,7 @@
       "id": "5e3d68fdf221",
       "title": "湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損",
       "published": "2026-10-15T20:52:34+00:00",
-      "summary": "湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損&nbsp;&nbsp;Singtaousa內地10歲男童發燒眼紅！嫲嫲亂餵多種感冒藥致「免疫系統誤傷」 全身8成皮膚潰爛剝落入ICU&nbsp;&nbsp;U Travel眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷&nbsp;&nbsp;巴士的報罕見過敏︱湖北10歲童感冒 服藥後80%皮膚「溶解」&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "summary": "湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損&nbsp;&nbsp;Singtaousa內地10歲男童發燒眼紅！嫲嫲亂餵多種感冒藥致「免疫系統誤傷」 全身8成皮膚潰爛剝落入ICU&nbsp;&nbsp;U Travel眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷&nbsp;&nbsp;巴士的報",
       "sources": [
         {
           "name": "Singtaousa",
@@ -1656,19 +1935,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "a90833289254",
-      "title": "PharmaJet 歐洲疫苗大會探討無針注射技術發展",
-      "published": "2026-10-15T14:10:14+00:00",
-      "summary": "PharmaJet 歐洲疫苗大會探討無針注射技術發展&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcHZtY0MtWml1RXUtd0pQZjRVdjQwQjI0UU82dXRoWWFwdnFMdmNNZHNvQ0VWLTMtakNUcGlsSm9DZUV5U2duak9BcG14RkhidE1PT2h2ZTFqc2lJWEZ6bkIzeHRnZkM4WDVqblVTUDlCeW96cGhTVzFDZVp3R0J1NDlWRVZUSjM0QTlJcndYa1BIbVB6VHI3bHdhQkxQZHplc1UxUE1WT3g3VFo1YS1LbWNFVFpJLUxwOGFTTEFrZXdSU3RTR0Y1MXNlOFFOYy0xNGVXQzFQY3ljUVUweGZPckFaOVVUZU5ReFBQcEFUbUREVk9CQVZTc21QQjFab21wR0NHVlFtWmxhOHlabVJ0ZDV5V29qcS14NHJzY21OQ3RfWk9sWm5ydzk5RWo0TFlQNlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

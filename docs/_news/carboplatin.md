@@ -14,7 +14,7 @@ permalink: /news/carboplatin/
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/carboplatin/
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+---
 
 ### [莊哲男腸胃中心 劉穎恆醫師加盟 高品質腸鏡 降低大腸癌風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YUDYwSU9FdElnTVBFd3RiaW45Q3J3elU5NDRaMC05Vkt1VFF5TVI5dWVuamF0YW02X2R6bVBiYXNXYjRoVHBVeEg3akswZXB1bVBLVWRvMnljOGY3M1BHMkl30gFnQVVfeXFMTXVrNXY4SWdXZElCZFVCQWQyYjB0SzFGcjBZX1JPM3ROLXJhMUVGSk9sc2ZSQ29McWFzVnJaVGszMTF5SjJ5SXZyZkVMRERLT0I2akJJaUNJbzdfMzFMRlhnN25IT3VsVQ?oc=5)
 

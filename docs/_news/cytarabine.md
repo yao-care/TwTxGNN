@@ -14,7 +14,7 @@ permalink: /news/cytarabine/
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ permalink: /news/cytarabine/
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+---
+
+### [肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意 - etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5)
+
+2026-10-22 <span class="news-indication-tag">肺癌</span>
+
+來源: [etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5)
+
+---
 
 ### [肺癌放射治療新突破：有望減少肺組織損傷 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMikwJBVV95cUxOaG96VkwtbEFHMHprZVQtZGlFaVNORzlwbUxMZ0VPSTJWYU5BNVg0LUt4V0J3ejh3eTVKS3VUdHMzaGRfSURrRXRGdWZnazhnX0hyVjFMWHhDaWZ2a3ZYU2Z1TGVCSU1ScUQzYjdBSjc0QjI0UC1CWlNXRk9kcWFydjBFVEMzRFJiM3d2YnhPbzAyaXpaUEh4eldzUUkxeklkMDVac0w2X3IycDV4TzczMEdKVDFJWWZrWkotcXBRUmtQaWVhNE0xYmFUenlBNGtkbk5nR05sb3lpdU1VM0lnNUdyeERfZUxIZUtoNlZBMXpBWEdKeXh5SUJwYVlHX1ppaUQ4dkNGQWNpTm5TVmRHeDJiWQ?oc=5)
 

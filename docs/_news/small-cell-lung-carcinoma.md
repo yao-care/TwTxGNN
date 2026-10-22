@@ -3,7 +3,7 @@ layout: default
 title: "肺癌 (small cell lung carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
+description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。3 則新聞、3 個相關藥物。"
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="肺癌 (small cell lung carcinoma) 有什麼相關新聞？">
-<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
+<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>3 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ permalink: /news/small-cell-lung-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意 - etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5)
+
+2026-10-22
+
+來源: [etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5)
+
+---
 
 ### [肺癌放射治療新突破：有望減少肺組織損傷 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMikwJBVV95cUxOaG96VkwtbEFHMHprZVQtZGlFaVNORzlwbUxMZ0VPSTJWYU5BNVg0LUt4V0J3ejh3eTVKS3VUdHMzaGRfSURrRXRGdWZnazhnX0hyVjFMWHhDaWZ2a3ZYU2Z1TGVCSU1ScUQzYjdBSjc0QjI0UC1CWlNXRk9kcWFydjBFVEMzRFJiM3d2YnhPbzAyaXpaUEh4eldzUUkxeklkMDVac0w2X3IycDV4TzczMEdKVDFJWWZrWkotcXBRUmtQaWVhNE0xYmFUenlBNGtkbk5nR05sb3lpdU1VM0lnNUdyeERfZUxIZUtoNlZBMXpBWEdKeXh5SUJwYVlHX1ppaUQ4dkNGQWNpTm5TVmRHeDJiWQ?oc=5)
 

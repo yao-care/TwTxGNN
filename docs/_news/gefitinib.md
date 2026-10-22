@@ -49,19 +49,19 @@ permalink: /news/gefitinib/
 
 ## 相關新聞（3 則）
 
+### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+---
+
 ### [網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
 
 2026-10-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源: [全民查假會社](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
-
----
-
-### [MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5)
-
-2026-10-19 <span class="news-indication-tag">阿茲海默症</span>
-
-來源: [BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5)
 
 ---
 

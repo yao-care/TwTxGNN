@@ -14,7 +14,7 @@ permalink: /news/acetazolamide/
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/acetazolamide/
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+---
 
 ### [以為天然物質就健康 研究：代糖增心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
 

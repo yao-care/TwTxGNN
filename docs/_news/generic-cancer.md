@@ -3,7 +3,7 @@ layout: default
 title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "癌症 (generic_cancer) 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/generic-cancer/
 ---
 
 <p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
-<strong>癌症 (generic_cancer)</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -75,7 +75,15 @@ permalink: /news/generic-cancer/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+2026-10-22
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+
+---
 
 ### [網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
 
