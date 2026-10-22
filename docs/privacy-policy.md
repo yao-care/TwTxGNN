@@ -149,9 +149,7 @@ TwTxGNN 是開源專案，您可以檢視完整的程式碼：
 - **GitHub**: [https://github.com/yao-care/TwTxGNN](https://github.com/yao-care/TwTxGNN)
 - **SMART App 程式碼**: `docs/smart/` 目錄
 
-<blockquote class="expert-quote">
-「透明度是建立信任的基礎。開源程式碼允許任何人驗證我們的隱私聲明。」
-</blockquote>
+<p>透明度是建立信任的基礎。開源程式碼允許任何人驗證我們的隱私聲明。</p>
 
 ---
 

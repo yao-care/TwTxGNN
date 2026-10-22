@@ -14,7 +14,7 @@ image: /assets/images/og-default.png
 </p>
 
 <div class="key-takeaway">
-不只告訴你「可能有效」，還告訴你「證據在哪裡」。L1-L5 五級證據分類，讓研究人員快速評估預測的可信度。
+不只告訴你「可能有效」，還告訴你「證據在哪裡」。L1-L5 五級證據分類，讓研究人員快速看出每個預測有多少臨床證據。
 </div>
 
 <p style="margin-top: 1.5rem;">

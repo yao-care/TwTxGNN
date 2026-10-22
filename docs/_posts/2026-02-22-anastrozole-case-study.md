@@ -7,6 +7,8 @@ categories: [案例解讀]
 tags: [anastrozole, 乳癌, 已知用途]
 drugs: Anastrozole
 summary: "已知用途拿到高分，只代表模型辨識得出已知關係，不能證明其他預測可靠"
+redirect_from:
+  - /案例解讀/l1/2026/02/22/anastrozole-case-study.html
 ---
 
 # 案例解讀：Anastrozole
