@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [心血管疾病預防新思維：疫苗接種也是重要防線](https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5)
 
@@ -60,11 +60,11 @@ permalink: /news/isosorbide_dinitrate/
 
 ---
 
-### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
+### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞](https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5)
 
-2026-10-19 <span class="news-indication-tag">心血管</span>
+2026-10-20 <span class="news-indication-tag">心血管</span>
 
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5)
 
 ---
 
@@ -73,14 +73,6 @@ permalink: /news/isosorbide_dinitrate/
 2026-10-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源: [全民查假會社](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
-
----
-
-### [流感不只傷呼吸道！長者恐增心血管風險 醫提醒接種評估](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5)
-
-2026-10-15 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">鏈球菌</span>
-
-來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5)
 
 ---
 

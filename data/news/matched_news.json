@@ -1,17 +1,56 @@
 {
-  "last_updated": "2026-10-22T17:44:55.175541+00:00",
+  "last_updated": "2026-10-22T20:59:37.719183+00:00",
   "total_count": 70,
-  "matched_count": 19,
+  "matched_count": 20,
   "news": [
     {
-      "id": "269f90b2de56",
-      "title": "法國通報沙門達病毒傳人首例 患者已逝尚無公衛風險",
-      "published": "2026-10-22T15:35:06+00:00",
-      "summary": "法國通報沙門達病毒傳人首例 患者已逝尚無公衛風險&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "72f9fe78ac22",
+      "title": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省 - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-10-22T19:00:50+00:00",
+      "summary": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大小心病毒來襲！卑詩是全國流感疫情最多地區&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQeDBJNG1UTnhmcVl6RmpkQ01OQ0VtR0o4WHdvdkdRQzJmd3ZjU2U3aFYwUXljUGV0UHBZRXMxQWdRTU5lRGtEMDJHOGJjRXhUeGV3SHR3Q3cwbDVIc1dKbW12SU9GYmFXVTRUWmgyQW1oQ2Y1NUQ4ckRhNGkxUVlmTVQyWGhiMlZpYWE4c2dYQUw4U3VhLVRNOHUxMzExRENOY2xXUWVtd280azhxeGlXRlY5dVh2X1U2bjdLWHI4Qjh2X25oV2FuZXlqOWdGZ2VmRmlIOXFkeW9XYk9uaFJSS3hkWk9hc2hXR0k1YS1fNnJDUEYtbFdYUnE2S01hTGVJVm54MHZ6R09mV1JlVjZBcWFuYWNyLS1vWmx4UGtzVmtiOHZ3ZldOVS1ZcWdBS0thMTZUQUQ5RjRNMWVLcGd0UDBXM2tEaE8xOXJYRjdudnp4cFp3MEYwMmg2VUYwd1h1dWRjVG9VYXE?oc=5"
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPLXVKWnRwZDctWkEwenRfZXZwQTU0QmZ3SVA3RkVyZ2dnUG1ReVY4WG9tQlo1YVA1aVBKdUw1azNTeUNYWUszUjBZQVBrZGhZek9MM0xGTmx3TFkwUWJzdDdwbGdPa3Y2ZVVTSnVMekdSM2phVXVEcm1Nek9ldERtYjJuODYyVU11c2lZeVdmUFQtYUoyLWZCdC1IQzB6M1hBb1cxblVhQmVRaXNEa3gwcUh6TWdPSTV2cHFIMG1JcUwySWFzLXJ3RTJBTUdUTHdfX1daMVNGTmhoZmN4Tzd5RU5XSFZZTEZnT1loYm9Id3d6djZhQ241ZWNrMGJ0eXJ2VDlkQ2JRVGhhWUNHeTlBOE92MEZoTTVUdGxadVlZS3k5eWpTTGt6RkhrTTlkb3Z0dmRNQU0zZHR5dFRTemtXWEFtVdIBjAFBVV95cUxNZWtmOGItUkgxT3phMFZxMzJRTTI1ZUJ0eTQyMVhXczV6QUp1Yk9pM2VjdDU4cTh1RHVCOGFkMnlXSVpBTjRuOV9PYXk2djE2MlZPZE9XV1VxYnNjdFVPNHk0T01HcXBsejU1cmlNRkdEMVk5U3RXczhBU2g5bUcxZkhLTWVtLVM3SDRJdg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e2dd81c577e6",
+      "title": "魚油防阿茲海默症？研究：無明顯保護作用",
+      "published": "2026-10-22T18:07:25+00:00",
+      "summary": "魚油防阿茲海默症？研究：無明顯保護作用&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQVXNfTmR4NjRwMDJVX2VMeFJCM0tuSTh6T25MNlk0MTRyWGxwRVBJREYyNF9GQTBTUkJlUGg1aXNLdWpOUm91R0wxcHlmNXlxMU1NcUxLakItLUVnMVJfVGpQS2FNVkt5Umd1SkotVGJlX2ZndXI5V280cTNldmNrRVRxRHk3elpXaG41cnRtUVJpUkVrOEk5M1B4N3BFa0w1NXJ0bTkyOHRlUkRPTVNDU0VnZGZreW4ydHprWjhHUjhMd3ppTFloZnAxc3B3YV9yLW94S2RzUU8tcDVkZ1JIOTIzMmlEd0ExaVFZMEh0MUdNTS1YQlZlNExVZ2g2QXdEdmlfaHZvSktEdUs2VnM1WldKSGt1M21BdmQwTmozeVN0QmUzRzJkaU1VV25PZGV5YlVMalhzdmNfSzd1WXFHZFg4Rnk4R1dBZ0ow?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5716a55c8488",
+      "title": "法國通報沙門達病毒傳人首例患者已逝尚無公衛風險| 國際 - 中央社 CNA",
+      "published": "2026-10-22T15:35:00+00:00",
+      "summary": "法國通報沙門達病毒傳人首例患者已逝尚無公衛風險| 國際&nbsp;&nbsp;中央社 CNA全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染「沙門達病毒」！法國患者證實身亡 專家這麼看&nbsp;&nbsp;NOWnews今日新聞法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TUXp5VEFadFhTdWxNTkxuUC1oOWVXSl9QUEs0dlhldE5ZWEpEZnh1YlFWY2pXMF9NR1YwNkYxdS0yWDVCMWFmRFBUS0I1Y29LNVZMTmlrcmR1LVNYMTlF?oc=5"
         }
       ],
       "matched_keywords": []
@@ -400,6 +439,44 @@
       "matched_keywords": []
     },
     {
+      "id": "f03833d64f62",
+      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
+      "published": "2026-10-22T06:04:24+00:00",
+      "summary": "心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5c6a69b18988",
       "title": "莊哲男腸胃中心 劉穎恆醫師加盟 高品質腸鏡 降低大腸癌風險",
       "published": "2026-10-22T05:59:00+00:00",
@@ -509,44 +586,6 @@
       ]
     },
     {
-      "id": "f03833d64f62",
-      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
-      "published": "2026-10-22T05:48:02+00:00",
-      "summary": "心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c7f7b6724f44",
       "title": "電子煙「沒有焦油」，但牙醫仍然很擔心——原因在這裡",
       "published": "2026-10-22T04:30:00+00:00",
@@ -573,14 +612,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f08d1eeb9567",
-      "title": "​衞生防護中心料流感季節延續最少5個月 惟疫苗接種劑數少1成",
-      "published": "2026-10-22T02:12:46+00:00",
-      "summary": "​衞生防護中心料流感季節延續最少5個月 惟疫苗接種劑數少1成&nbsp;&nbsp;橙新聞香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元香港6歲女童染甲型流感併發休克情況危殆 潛伏期內未外遊&nbsp;&nbsp;www.hkcna.hk流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
+      "id": "af32a04a7131",
+      "title": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視",
+      "published": "2026-10-22T02:15:59+00:00",
+      "summary": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視&nbsp;&nbsp;i-CABLE香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
       "sources": [
         {
-          "name": "橙新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxQM2VFbWgta0xaODhkWmlFQ2NLcERLZWRrTGN2eU9WZTRqSmdMVHIzemsyMXh4TC0wTEVHWG9CN1JVdTdxWDZwS3ZWSVliOGhNMV8wTGtQWU5oLVg4LXloY3RoZ1NvcjlPZjZMWGtPeEY3Wk5hLXFSc29lcGhCYnhYejFjZjlNd0J3N1hUV2xnbl9XU09wN0pNcWxrb25uMGU3a0M5U25iUWJQQzB4M2VhbW9ZamlPeTk3TE5JTDVIQm9jcDdXb2xUb3MzNURXbm9ISFFsYWlRMkRwUWZVNUxfbGZLUDRYbmkwTVBINmFmb1NYS2RlT1J2X3R0S2NsUV9fMGMxT1BGT1pJTmNQYWNuMWNXYkh6d0EtMHRneXJXX3NDdV9fYjdpaHpkVHQzMnlOT3FWOEVFRk1LTDdzenRzSm9VVzlTSWc0bFViZkY0aS1VSUZ2V1NiT1lzMzVUMHN3cEM5Z0NsM2RYMlVvblRiMHI0SktNYkk2ejlGUDZCUVNaYThNc1pxS3RTZGlYQmN6VkxMUjBFY1hzdw?oc=5"
+          "name": "i-CABLE",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNa21LOW5uVzZValRYLUlqamo2SG8tTEdLSjF0ODRXREtsX3JJWHREV0Z0N0FURjdfWENNSThKMzhySXFkN21jenNTVXZkbEc2YXFkSjJKSV9xc3VIbVIySFVybWVKeHdGalQ1eWJaQW9IRWdWT3ZCckVReVJVYjVGcC1JQjFYaUZXUzJWX29JZTFESkdOUG42N0tUM1ZhZW9KRUdhckJUaXotc2Z5ajZHSDZaY2g4TEtUQzFJVXpfUlc1aXl4SE01OXhVbXFrRVF3aElHdk1KWVZKNVYwd2p5WGlGQjZCbFkycE5Wc2wzYkFjM0dacjRWMm9VQUg4R3gwNW9KRkszaXJNZ0RRc0M4bmw2V3l4TlVXYVlGaDJrY05VUUlZY1FGZjNYYXdsV3VhRUZzLWtTQnFlSU14Ql94bHRUMjlNWXBkV3ExRWt5elVpOThPVzZEUk51S21fb2ttZ2ZLSHpuYnl2UFlQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -607,19 +646,6 @@
         {
           "name": "HIVStoryMEDIA",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1QnNZcC1TbGc2c0JaQTQ3LXd3RWRrVkVJZHJCOXZYYU5BUXJFTWw5VnY4UURkejN0SEszdFpQMEg3bVNIMUh2ek5VMjZOYzdMQ2lJMA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "61c0b21a4eb2",
-      "title": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站",
-      "published": "2026-10-22T01:43:55+00:00",
-      "summary": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -855,32 +881,6 @@
         {
           "name": "Techapple.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLbFpfeThZelFYZk94NUxkMGxpMmNrMzhLNU5qQXNxUkFUQWJOa3ExaUx6TDJhbHdfb0NZUGgzY1dXLWdES21iMnl6S1U?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "444d0cb257be",
-      "title": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向",
-      "published": "2026-10-21T02:08:50+00:00",
-      "summary": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQYklXMjBrOHBVQ0xtWk5FY2pYWGgxUzNMYUJpYm4xSkZwTlVfZEppd1lXbk9wN1lCdmg0amtJRXpua09EaXNvX1AtUzFHUU9LVkx1SnRaZWRnQm91ZzV4b2M3aFBhZFBhQzF3ZlpGQmVhS2JudmtydG0zei0zZ2g0MThUYVV1YzVMTmh3c0txeTVla002NVp2ZE9nbHNsTndEWkt4UFNueDRLekxESVA0emJKdlIyeW1ISndPWjFvM3JhTWlnUk93bkJmclpSTXFIUi1LNXgxeGxfUEo0ejlkakRUWGJ2cFlhdXZaOGZtTEd3V3FGcjVPM3Y1U1dhLW1JdjNkbmNHUGpWLWdmTWl3UzZSTXRjMmpveTl1ZWM0ZVNrYXk1dDlaWE9oSldkTlBEWlR5d0g3cUYyMzZIVjFrNDRLbFZVUE9xMF9iZldJWEdySUdBclNYTVN3R1JBSGFlZGM1bHdlQ3JyZi1JVEI0SXU0cFZkZjFVamkzR1ZZQktyWHlRUkdjaGtxVWphNHV1TnlwaTdR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "32d64f4a8b6b",
-      "title": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一",
-      "published": "2026-10-21T02:00:00+00:00",
-      "summary": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzB4SlBLQUdQY1ZWZXVQS1ZCbGk4c0Iyajl0MHJhZERwTEVQRzJtWjBhRnVxNS1JRndYOE80akFVYXRzQWJZdURfbEZuQ2RDTXdScHJEalZwSVc5anQ5My1WcWdJS1JQMWdhdjdTTVVFcjk2dGVfU2RGak1XUnVXdFFzc2NSM0EzYkpDMmlXSVpGQld4ZGhDbjFDM0lxWWZaNjEwRzVwQTVYMHM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1154,6 +1154,19 @@
       "matched_keywords": []
     },
     {
+      "id": "51deb874e0e5",
+      "title": "第一胎有狀況，還想生二寶？先搞懂遺傳風險，為下一胎做好孕前準備",
+      "published": "2026-10-20T04:00:00+00:00",
+      "summary": "第一胎有狀況，還想生二寶？先搞懂遺傳風險，為下一胎做好孕前準備&nbsp;&nbsp;良醫健康網",
+      "sources": [
+        {
+          "name": "良醫健康網",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WOGh2TXJBRHBFRkFxdzk3RFZadGlVUndhd3NpbWRFUEhDcm1Qd0ljRmlraHkybFVRRkZsbDREa2U5dDlNN05uMEtqU0I5bTJUR203cVl1OE1kMmJMV3phLUlEZFFCR2ZVTWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "150525916da5",
       "title": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關",
       "published": "2026-10-20T03:17:08+00:00",
@@ -1167,27 +1180,14 @@
       "matched_keywords": []
     },
     {
-      "id": "bc04ec604e3f",
-      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上",
-      "published": "2026-10-19T15:35:13+00:00",
-      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上&nbsp;&nbsp;ELLE",
+      "id": "10effe914da7",
+      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞",
+      "published": "2026-10-20T02:31:10+00:00",
+      "summary": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞&nbsp;&nbsp;CMoney前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVJIMWRBV3ZPZjMwSkQ0WGxQZjdRMVRhb2tUbnVFWVBCYTUyXzRKSnVkeV9OU3NKWjBQeFU2bzVGdEJIUFZBMFQ2WDBBWjlzekNZcVc4aHJXTEphdi1jcFVRZ3JfeWdGVV9jOUR2NWNTMExObTc4RDhIYUJRRGx1Wk1TT0YyaFk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "30af67ad48ba",
-      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
-      "published": "2026-10-19T13:00:00+00:00",
-      "summary": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5"
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1204,6 +1204,45 @@
           ]
         }
       ]
+    },
+    {
+      "id": "7e232355f3e6",
+      "title": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷",
+      "published": "2026-10-19T22:05:41+00:00",
+      "summary": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷&nbsp;&nbsp;巴士的報內地10歲男童發燒眼紅！嫲嫲亂餵多種感冒藥致「免疫系統誤傷」 全身8成皮膚潰爛剝落入ICU&nbsp;&nbsp;U Travel",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeElrcUhrbTBuMGJnZXJxT2lyUEl6QmtfYmRWNE5hRy12dmQwLV9NeXhVRU4wYko1bjQyakR5U3RyMTA3Tm9tN3E5UnlQVnRDem12b196QjFNbEpWRU0zLXAySVl3NHRFZ2lEcV9IUWY5UzBMZGRhUXRNNDFoeWxkaEE4V2xZQzVidnU5OHBSZW5jajIzYUwyRzNmMVBRSk5xc1JpSjJXX3BnaGVPdmpkV0dUeHhlVWo4eW5Eek9NaXV1OTh4cHVQMjVfSzFPMDJVejhiYTJua0o3TmRKNTNvUWlHdEl0SHZkWXA4UzlPMEtiQUxHeURpanhpYWtDVmNHNGN1eTJPTHhsNy10N1hLOXVNUjNUY2k3VTY3MjF0RUNoUWo1czFxci1VUnpkTm5LTWk1a2NETTZtcURVaS1hakd3Z000X2RndEFveHNIZ010ZFROWlpNLXU5c2lRVW9XV2ZERkRvOA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc04ec604e3f",
+      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上",
+      "published": "2026-10-19T15:35:13+00:00",
+      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVJIMWRBV3ZPZjMwSkQ0WGxQZjdRMVRhb2tUbnVFWVBCYTUyXzRKSnVkeV9OU3NKWjBQeFU2bzVGdEJIUFZBMFQ2WDBBWjlzekNZcVc4aHJXTEphdi1jcFVRZ3JfeWdGVV9jOUR2NWNTMExObTc4RDhIYUJRRGx1Wk1TT0YyaFk?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "1d636f247a78",
@@ -1525,6 +1564,32 @@
       "matched_keywords": []
     },
     {
+      "id": "2dec6b0adfb6",
+      "title": "MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑 - BigGo 財經",
+      "published": "2026-10-19T02:35:00+00:00",
+      "summary": "MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑&nbsp;&nbsp;BigGo 財經",
+      "sources": [
+        {
+          "name": "BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "2fb6cc4e9b20",
       "title": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關",
       "published": "2026-10-19T01:00:53+00:00",
@@ -1559,19 +1624,6 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQjdBSGZsWlpvVXpnc0ZNeUJLMXlTczJDajhnblFtXzBNMlMxVV9FUFNSRGZqU2xCbmZ6MGFpT3hlaGpna3BJVWhfeHA4d0owWUJ0ZlNJZmkyM2JKaGMw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4a8ee1688a4d",
-      "title": "跨世代罕病XLH病友與醫界籲跨專科照護銜接兒童至成人需要- 上報- 股市爆料同學會",
-      "published": "2026-10-18T21:00:38+00:00",
-      "summary": "跨世代罕病XLH病友與醫界籲跨專科照護銜接兒童至成人需要- 上報- 股市爆料同學會&nbsp;&nbsp;CMoney一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報跨世代罕病XLH病友與醫界籲跨專科照護 銜接兒童至成人需要&nbsp;&nbsp;Yahoo新聞一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOc3Q4TldaVG5kVGJ2MnFicGxuZ2RXQ3poOHc2RHhRS1UxYU5FRmRzUnR2bkM0S29Cdk5uZ3ZQUkZoUGdlTlNCSGJIZkR0VFZDNDFWbk5QUGM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1655,6 +1707,19 @@
       "matched_keywords": []
     },
     {
+      "id": "b096bcf74a52",
+      "title": "一天走不到300步、牙齒僅剩4顆 罕病XLH折磨終身 病友盼新藥擴大給付",
+      "published": "2026-10-17T14:26:29+00:00",
+      "summary": "一天走不到300步、牙齒僅剩4顆 罕病XLH折磨終身 病友盼新藥擴大給付&nbsp;&nbsp;經濟日報一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報跨世代罕病XLH病友與醫界籲跨專科照護 銜接兒童至成人需要&nbsp;&nbsp;Yahoo新聞10/23 國際 XLH 疾病意識日 / 孩子走路搖晃、腿型改變是成長造成？醫籲：留意 XLH 早期警訊&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KczNtbGx3RmZSQkx6TkdGVWltWjF5TXJKSjZGSTl6U0hPMmZKT2tSWm5tSE1DZ0pONlNVNU4zNjU3UFBNSmxEb2VlMzk1UURjOUQyVWRibEVSZ9IBX0FVX3lxTE9uY21kZWlDN0ZpSmc5TjU5WEl3dU03M19TNXJITVJjbHJGVnJXcVdMczdYSkU2UTY4ODIydzhRUkxRMUdIcWxMaHBJblZDd2hPMHBNeVhDNV9QTTVaelN3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "55927cca2c21",
       "title": "(轉貼)年齡從來都不是藉口！《墊底辣妹》原型34歲再考取美國名校，經歷過離婚低潮仍不讓夢想止步～ 努力不是為了證明什麼，而是想成為更好的自己。",
       "published": "2026-10-17T06:19:17+00:00",
@@ -1730,13 +1795,13 @@
       "matched_keywords": []
     },
     {
-      "id": "afb234cad273",
-      "title": "研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷 - 商傳媒 - SUN MEDIA",
+      "id": "1df927eb88e4",
+      "title": "研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷",
       "published": "2026-10-16T23:36:34+00:00",
-      "summary": "研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷&nbsp;&nbsp;商傳媒 - SUN MEDIA",
+      "summary": "研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "商傳媒 - SUN MEDIA",
+          "name": "商傳媒",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZzZLTDhYVmxYclJUdVU3M29JMU85WmJxb2JKQ2VreWhUbGlYVjZTTFZxWENrRnZxcDcwM0NTUlpyekE0YmwwU1pIWkxPOFpjZHROZzdPMXdVQlJRVHRnT3UxemFOeFB5ZEx4OGhiT1lCeEhNX3llQjFVLW5NdEtOeGJZSkViZWxvQVRmbFFnbFlmQkJOYnNiZ050dndUZUdVdlI3MDdISkR1Nm5GdWtvUTVtR2kzLVc3a0pBQVRHUGJLWFJoeUxGM29VQ2pyMEc4b0NLRXRrUVVOeXVGcDhqaTRBTFZnaDBmdTNfbUJPckk4VUNyVHFLYTQ4ZGp5WUdaWHhhX19ZVzE3MXg5QlVnQ09wcXpXcHFXNjlwRDF6bzk3NVZYSkVqYw?oc=5"
         }
       ],
@@ -1855,82 +1920,6 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5e3d68fdf221",
-      "title": "湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損",
-      "published": "2026-10-15T20:52:34+00:00",
-      "summary": "湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損&nbsp;&nbsp;Singtaousa內地10歲男童發燒眼紅！嫲嫲亂餵多種感冒藥致「免疫系統誤傷」 全身8成皮膚潰爛剝落入ICU&nbsp;&nbsp;U Travel眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2M2ZldRTG1KdFIzNlZ6RDZuQ1VUZzV0S3V5UTdVTjlDUnlscUxvSERNeHJBbWhBUVFsVUJGZ0dzMldPTVFCbTVNOHhYdFZMOHJpZGdvdjBOSnlsdldGU0h0RHRuRUp3Uy05Umh0b0R6TlBRMnZQR19NOWhTVVpYOGYzazc0WFpkRXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dde3a7ef35fd",
-      "title": "流感不只傷呼吸道！長者恐增心血管風險 醫提醒接種評估",
-      "published": "2026-10-15T20:00:00+00:00",
-      "summary": "流感不只傷呼吸道！長者恐增心血管風險 醫提醒接種評估&nbsp;&nbsp;民視新聞網流感單周死亡創今年新高！醫示警肺炎鏈球菌恐接力奪命 嚴重可釀敗血症&nbsp;&nbsp;UDN不只小孩、老人 醫點名「4族群」染肺炎鏈球菌重症風險高&nbsp;&nbsp;ETtoday健康雲長者注意！流感引發「心梗風險暴增5倍」醫揭免疫老化危機&nbsp;&nbsp;三立新聞預防流感重症風險 長者升級自我保護力新選擇&nbsp;&nbsp;東森新聞",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
             }
           ]
         }

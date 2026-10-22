@@ -1,7 +1,32 @@
 {
-  "generated": "2026-10-22T17:44:55.205666+00:00",
-  "count": 19,
+  "generated": "2026-10-22T20:59:37.751657+00:00",
+  "count": 20,
   "news": [
+    {
+      "id": "e2dd81c577e6",
+      "title": "魚油防阿茲海默症？研究：無明顯保護作用",
+      "published": "2026-10-22T18:07:25+00:00",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQVXNfTmR4NjRwMDJVX2VMeFJCM0tuSTh6T25MNlk0MTRyWGxwRVBJREYyNF9GQTBTUkJlUGg1aXNLdWpOUm91R0wxcHlmNXlxMU1NcUxLakItLUVnMVJfVGpQS2FNVkt5Umd1SkotVGJlX2ZndXI5V280cTNldmNrRVRxRHk3elpXaG41cnRtUVJpUkVrOEk5M1B4N3BFa0w1NXJ0bTkyOHRlUkRPTVNDU0VnZGZreW4ydHprWjhHUjhMd3ppTFloZnAxc3B3YV9yLW94S2RzUU8tcDVkZ1JIOTIzMmlEd0ExaVFZMEh0MUdNTS1YQlZlNExVZ2g2QXdEdmlfaHZvSktEdUs2VnM1WldKSGt1M21BdmQwTmozeVN0QmUzRzJkaU1VV25PZGV5YlVMalhzdmNfSzd1WXFHZFg4Rnk4R1dBZ0ow?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0dfea9e7af16",
       "title": "有片｜警惕！這五大癌症發病率最高！",
@@ -318,6 +343,43 @@
       ]
     },
     {
+      "id": "f03833d64f62",
+      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
+      "published": "2026-10-22T06:04:24+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "5c6a69b18988",
       "title": "莊哲男腸胃中心 劉穎恆醫師加盟 高品質腸鏡 降低大腸癌風險",
       "published": "2026-10-22T05:59:00+00:00",
@@ -419,43 +481,6 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f03833d64f62",
-      "title": "心血管疾病預防新思維：疫苗接種也是重要防線",
-      "published": "2026-10-22T05:48:02+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
@@ -764,13 +789,13 @@
       ]
     },
     {
-      "id": "30af67ad48ba",
-      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
-      "published": "2026-10-19T13:00:00+00:00",
+      "id": "10effe914da7",
+      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞",
+      "published": "2026-10-20T02:31:10+00:00",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5"
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5"
         }
       ],
       "keywords": [
@@ -783,6 +808,31 @@
               "slug": "isosorbide-dinitrate",
               "name": "Isosorbide dinitrate",
               "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e232355f3e6",
+      "title": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷",
+      "published": "2026-10-19T22:05:41+00:00",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeElrcUhrbTBuMGJnZXJxT2lyUEl6QmtfYmRWNE5hRy12dmQwLV9NeXhVRU4wYko1bjQyakR5U3RyMTA3Tm9tN3E5UnlQVnRDem12b196QjFNbEpWRU0zLXAySVl3NHRFZ2lEcV9IUWY5UzBMZGRhUXRNNDFoeWxkaEE4V2xZQzVidnU5OHBSZW5jajIzYUwyRzNmMVBRSk5xc1JpSjJXX3BnaGVPdmpkV0dUeHhlVWo4eW5Eek9NaXV1OTh4cHVQMjVfSzFPMDJVejhiYTJua0o3TmRKNTNvUWlHdEl0SHZkWXA4UzlPMEtiQUxHeURpanhpYWtDVmNHNGN1eTJPTHhsNy10N1hLOXVNUjNUY2k3VTY3MjF0RUNoUWo1czFxci1VUnpkTm5LTWk1a2NETTZtcURVaS1hakd3Z000X2RndEFveHNIZ010ZFROWlpNLXU5c2lRVW9XV2ZERkRvOA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
             }
           ]
         }
@@ -1068,6 +1118,31 @@
       ]
     },
     {
+      "id": "2dec6b0adfb6",
+      "title": "MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑 - BigGo 財經",
+      "published": "2026-10-19T02:35:00+00:00",
+      "sources": [
+        {
+          "name": "BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "0d3d7e61f8bc",
       "title": "肺癌化療喘悶疲倦中醫介入改善症狀- 醫療保健- 新聞",
       "published": "2026-10-17T04:45:51+00:00",
@@ -1103,12 +1178,12 @@
       ]
     },
     {
-      "id": "afb234cad273",
-      "title": "研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷 - 商傳媒 - SUN MEDIA",
+      "id": "1df927eb88e4",
+      "title": "研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷",
       "published": "2026-10-16T23:36:34+00:00",
       "sources": [
         {
-          "name": "商傳媒 - SUN MEDIA",
+          "name": "商傳媒",
           "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZzZLTDhYVmxYclJUdVU3M29JMU85WmJxb2JKQ2VreWhUbGlYVjZTTFZxWENrRnZxcDcwM0NTUlpyekE0YmwwU1pIWkxPOFpjZHROZzdPMXdVQlJRVHRnT3UxemFOeFB5ZEx4OGhiT1lCeEhNX3llQjFVLW5NdEtOeGJZSkViZWxvQVRmbFFnbFlmQkJOYnNiZ050dndUZUdVdlI3MDdISkR1Nm5GdWtvUTVtR2kzLVc3a0pBQVRHUGJLWFJoeUxGM29VQ2pyMEc4b0NLRXRrUVVOeXVGcDhqaTRBTFZnaDBmdTNfbUJPckk4VUNyVHFLYTQ4ZGp5WUdaWHhhX19ZVzE3MXg5QlVnQ09wcXpXcHFXNjlwRDF6bzk3NVZYSkVqYw?oc=5"
         }
       ],
@@ -1174,80 +1249,6 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5e3d68fdf221",
-      "title": "湖北男童服感冒藥後出現嚴重藥物過敏 八成皮膚受損",
-      "published": "2026-10-15T20:52:34+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2M2ZldRTG1KdFIzNlZ6RDZuQ1VUZzV0S3V5UTdVTjlDUnlscUxvSERNeHJBbWhBUVFsVUJGZ0dzMldPTVFCbTVNOHhYdFZMOHJpZGdvdjBOSnlsdldGU0h0RHRuRUp3Uy05Umh0b0R6TlBRMnZQR19NOWhTVVpYOGYzazc0WFpkRXc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dde3a7ef35fd",
-      "title": "流感不只傷呼吸道！長者恐增心血管風險 醫提醒接種評估",
-      "published": "2026-10-15T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
             }
           ]
         }

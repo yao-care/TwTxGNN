@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>
-<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心梗</span></li>
+<li>myocardial infarction (99.4%)</li>
 <li>thrombotic disease (99.3%)</li>
 <li>hyperthyroidism (99.3%)</li>
 <li>homozygous familial hypercholesterolemia (99.2%)</li>
@@ -42,21 +42,13 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [以為天然物質就健康 研究：代糖增心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
 
 2026-10-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
-
----
-
-### [流感不只傷呼吸道！長者恐增心血管風險 醫提醒接種評估](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5)
-
-2026-10-15 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">鏈球菌</span>
-
-來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5)
 
 ---
 
