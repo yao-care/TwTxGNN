@@ -203,7 +203,7 @@ define "DDIAlertMessage":
 
 ```cql
 // 參數：TwTxGNN 預測分數門檻
-parameter PredictionScoreThreshold Decimal default 0.9
+parameter PredictionScoreThreshold Decimal default 0.99
 
 // 定義：高信心度候選
 define "HighConfidenceCandidates":
