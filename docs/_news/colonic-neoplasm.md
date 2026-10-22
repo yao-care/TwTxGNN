@@ -3,7 +3,7 @@ layout: default
 title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/colonic-neoplasm/
 ---
 
 <p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,13 +29,21 @@ permalink: /news/colonic-neoplasm/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
+### [莊哲男腸胃中心 劉穎恆醫師加盟 高品質腸鏡 降低大腸癌風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YUDYwSU9FdElnTVBFd3RiaW45Q3J3elU5NDRaMC05Vkt1VFF5TVI5dWVuamF0YW02X2R6bVBiYXNXYjRoVHBVeEg3akswZXB1bVBLVWRvMnljOGY3M1BHMkl30gFnQVVfeXFMTXVrNXY4SWdXZElCZFVCQWQyYjB0SzFGcjBZX1JPM3ROLXJhMUVGSk9sc2ZSQ29McWFzVnJaVGszMTF5SjJ5SXZyZkVMRERLT0I2akJJaUNJbzdfMzFMRlhnN25IT3VsVQ?oc=5)
 
-2026-10-20
+2026-10-22
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YUDYwSU9FdElnTVBFd3RiaW45Q3J3elU5NDRaMC05Vkt1VFF5TVI5dWVuamF0YW02X2R6bVBiYXNXYjRoVHBVeEg3akswZXB1bVBLVWRvMnljOGY3M1BHMkl30gFnQVVfeXFMTXVrNXY4SWdXZElCZFVCQWQyYjB0SzFGcjBZX1JPM3ROLXJhMUVGSk9sc2ZSQ29McWFzVnJaVGszMTF5SjJ5SXZyZkVMRERLT0I2akJJaUNJbzdfMzFMRlhnN25IT3VsVQ?oc=5)
+
+---
+
+### [新研究：超加工食品類型影響大腸癌風險](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5)
+
+2026-10-15
+
+來源: [Singtaousa](https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "心臟病 (heart_disease) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心臟病 (heart_disease) 的相關健康新聞報導。2 則新聞、13 個相關藥物。"
+description: "心臟病 (heart_disease) 的相關健康新聞報導。1 則新聞、13 個相關藥物。"
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="心臟病 (heart_disease) 有什麼相關新聞？">
-<strong>心臟病 (heart_disease)</strong> 目前有 <strong>2 則</strong>相關新聞報導，13 個相關藥物。
+<strong>心臟病 (heart_disease)</strong> 目前有 <strong>1 則</strong>相關新聞報導，13 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ permalink: /news/heart-disease/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [以為天然物質就健康 研究：代糖增心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
 
 2026-10-20
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
-
----
-
-### [心臟病不只胸痛醫：也可能背痛- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
-
-2026-10-15
-
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
 
 ---
 

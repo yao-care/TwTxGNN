@@ -3,7 +3,7 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [以為天然物質就健康 研究：代糖增心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
 
 2026-10-20
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
-
----
-
-### [「免疫老化」染流感增中風失能風險 醫籲長者打加強型疫苗 | 中央廣播電臺 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
-
-2026-10-15
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QZzEtY1dXYVJhLXRzRlAwdFhCM2Q5Y0thUjVyYkZDU01iV0xIbmphWHB0QzNNaF8tRnVReExtbWxsaVoteXlhaFIzbkhWUTRFVVFxMTZ3?oc=5)
 
 ---
 

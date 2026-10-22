@@ -14,7 +14,7 @@ permalink: /news/carisoprodol/
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,9 +33,15 @@ permalink: /news/carisoprodol/
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5)
+
+2026-10-22 <span class="news-indication-tag">肌炎</span>
+
+來源: [healthyD](https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5)
+
+---
 
 
 <div class="disclaimer">

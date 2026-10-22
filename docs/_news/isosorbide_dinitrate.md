@@ -60,11 +60,11 @@ permalink: /news/isosorbide_dinitrate/
 
 ---
 
-### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞](https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5)
+### [創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
 
-2026-10-20 <span class="news-indication-tag">心血管</span>
+2026-10-19 <span class="news-indication-tag">心血管</span>
 
-來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5)
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5)
 
 ---
 
@@ -76,11 +76,11 @@ permalink: /news/isosorbide_dinitrate/
 
 ---
 
-### [心臟病不只胸痛醫：也可能背痛- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
+### [流感不只傷呼吸道！長者恐增心血管風險 醫提醒接種評估](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5)
 
-2026-10-15 <span class="news-indication-tag">心臟病</span>
+2026-10-15 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">鏈球菌</span>
 
-來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE01cHN6VzhhYl9TcDYwZlFvcnQ5X3lrR21hTjg0M3dYam1QY2RTT05nZUFiM0dhc3lqaUxFY20yRmVFNmxRTXlmUWx4cncybGpQRGZybmRvRVNqeFM1ZGdTSXJQOEI5QQ?oc=5)
+來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tSy01em95NGs3VkZYOUFvNktOVXBObUxSNHV3ZDNpMHJlM3BnXzZZX05fc2JfRHJpUnR1dGFKUkNYSlFqR2s4czhKZlhKNFdXc191Uk5NS0xjNHBrUWczOA?oc=5)
 
 ---
 
