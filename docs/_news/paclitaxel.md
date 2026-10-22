@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>: 卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (100.0%)<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma (100.0%)</li>
 <li>estrogen-receptor negative breast cancer (99.9%)</li>
 <li>hormone-resistant breast carcinoma (99.9%)</li>
 <li>estrogen-receptor positive breast cancer (99.9%)</li>
@@ -42,45 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（2 則）
 
 ### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
 
 2026-10-22 <span class="news-indication-tag">癌症</span>
 
 來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
-
----
-
-### [維生素D預防乳腺癌新證據 研究揭其潛力遠超現有認知](https://news.google.com/rss/articles/CBMirwJBVV95cUxPaTl2UDI2NWN1aXRSZzJZZ09JR1BmQ1QxT2FYRTFPSnVXU2VUek5UUWhvZmpLZ2dRM2hSVFUzck9ZcWVENHRFRmZsM2QybENta1RUOVVMbkhuQ3FNRDlybWUzTUxIMkFWTTFaQk5qUnRJRzd1NTJSZkFjRlExS2JWcTRzYU94ZzFrN2VMOEE0MDhmT2RvM1BXdVpLeXZPVWNtNklYRVFKcXdIYmFmeTRIdm9jY3h5WHc0dDV6Zk5MZk1OZk5oakRTM05VbVdMMWhKZDhBdzVFNld4Vi1LLXZnYzNKRG1SZTN3Mzdkb3lwOE5rdmNIOXRZMjhfOW9VTTBmcF8tTzYtZ05GRV9QSnJPSjhUREFLN1ladXhYQXV1emN6MEd4NWZ1YndIWTRYNUE?oc=5)
-
-2026-10-22 <span class="news-indication-tag">乳腺癌</span>
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMirwJBVV95cUxPaTl2UDI2NWN1aXRSZzJZZ09JR1BmQ1QxT2FYRTFPSnVXU2VUek5UUWhvZmpLZ2dRM2hSVFUzck9ZcWVENHRFRmZsM2QybENta1RUOVVMbkhuQ3FNRDlybWUzTUxIMkFWTTFaQk5qUnRJRzd1NTJSZkFjRlExS2JWcTRzYU94ZzFrN2VMOEE0MDhmT2RvM1BXdVpLeXZPVWNtNklYRVFKcXdIYmFmeTRIdm9jY3h5WHc0dDV6Zk5MZk1OZk5oakRTM05VbVdMMWhKZDhBdzVFNld4Vi1LLXZnYzNKRG1SZTN3Mzdkb3lwOE5rdmNIOXRZMjhfOW9VTTBmcF8tTzYtZ05GRV9QSnJPSjhUREFLN1ladXhYQXV1emN6MEd4NWZ1YndIWTRYNUE?oc=5)
-
----
-
-### [全球HPV篩檢覆蓋率僅8% 世衛目標子宮頸癌根除之路艱鉅 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMirwJBVV95cUxNY2h1UDJIZ016Yk8zTUhaUXAtRnc2bDFFdzZKak84Y0VIV0RxcTJfT0R5MVY4ci1pcHRNQVREaFh1cWF1aW9hc29aNm5GQ2J5dHc0RkF1dk9TYkFqTU9aSmZQV2lqbHVraHFMMWlJU09Ob0k5N0Q1R1FPam1FbHZvZVRpc0M0TnZnU3FiaXg2NVhSS2xnckFPRURqb244dEhia09qdHRsVE9LSG50NWJXbk9URDlXWFE2S3VjdWdua19MeFUwc2lPckJScXZvajc1UUd6bS1ZNjVVQi16ZHJlYU1RWnFjdVd3MnVTWGZSQVcxdExXcEN2VXNxWnBnbXFPQ2lSUFEyYV9SOHk0ODBGRXkxX095aFYzSEFxRzNGQmdfd0poZ3dtdmxOYTc3alk?oc=5)
-
-2026-10-21 <span class="news-indication-tag">子宮頸癌</span>
-
-來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMirwJBVV95cUxNY2h1UDJIZ016Yk8zTUhaUXAtRnc2bDFFdzZKak84Y0VIV0RxcTJfT0R5MVY4ci1pcHRNQVREaFh1cWF1aW9hc29aNm5GQ2J5dHc0RkF1dk9TYkFqTU9aSmZQV2lqbHVraHFMMWlJU09Ob0k5N0Q1R1FPam1FbHZvZVRpc0M0TnZnU3FiaXg2NVhSS2xnckFPRURqb244dEhia09qdHRsVE9LSG50NWJXbk9URDlXWFE2S3VjdWdua19MeFUwc2lPckJScXZvajc1UUd6bS1ZNjVVQi16ZHJlYU1RWnFjdVd3MnVTWGZSQVcxdExXcEN2VXNxWnBnbXFPQ2lSUFEyYV9SOHk0ODBGRXkxX095aFYzSEFxRzNGQmdfd0poZ3dtdmxOYTc3alk?oc=5)
-
----
-
-### [美國佛州醫院辦乳癌預防活動 強調早期篩檢與衛教 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbG16LVJFV2pPRkExcXZ2TU54ZHFOd1hCSU5yM3dKU2dZVlhFdHZqT0JaOUFBRHFwR1p0Y3ctbVJNZWppbHBhR1pZY0NoTEdacWF2b3U0ckFYNHJabHZwMUlFdTk3WWpPUlh2aV9Od1NsbzVVSW5nUVhxcVdDbXVBYWExX3lQQldzSWU1VWktMEZhODZzaHNFZExESHNoODR0dkVZcC02RjBYcGptN2k3YUdyb09HOTFDdDdxaFg3SjA2X1kyTjhXX0tDVjYtdG14MlJYcEtfeGYzNS02WGRoOHlKUk92ZnphRURtclQzX2JaZTlyTnJMMGhJVXlyVVAxVU9TNGF6cnFJQ01qbUJoYkVMaWlHY1FkSnoyUGVXajBYRGJMOEhhMQ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">乳癌</span>
-
-來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbG16LVJFV2pPRkExcXZ2TU54ZHFOd1hCSU5yM3dKU2dZVlhFdHZqT0JaOUFBRHFwR1p0Y3ctbVJNZWppbHBhR1pZY0NoTEdacWF2b3U0ckFYNHJabHZwMUlFdTk3WWpPUlh2aV9Od1NsbzVVSW5nUVhxcVdDbXVBYWExX3lQQldzSWU1VWktMEZhODZzaHNFZExESHNoODR0dkVZcC02RjBYcGptN2k3YUdyb09HOTFDdDdxaFg3SjA2X1kyTjhXX0tDVjYtdG14MlJYcEtfeGYzNS02WGRoOHlKUk92ZnphRURtclQzX2JaZTlyTnJMMGhJVXlyVVAxVU9TNGF6cnFJQ01qbUJoYkVMaWlHY1FkSnoyUGVXajBYRGJMOEhhMQ?oc=5)
-
----
-
-### [男性乳癌｜朋友一個惡作劇動作6旬退休男驚患乳癌擴散淋巴死亡率高達19%：兄弟真的能救命- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMi9ARBVV95cUxObVdScW83S3Y3ckdmbTluaGV4NzRLN3BVakpRZTREMkwya3pZdTVXcmh2ZTBta21CTHF6dWxfWnpVRkhrSksxZXJFdkZhNFAwVEZISU5OS0hmSVdicW5XWE91NXlEVW91S283ZWpsSmhQNVpTVU5LZzA3LVkxakhGQUhNVTh6U291Z09oOFBMR3NBRGwxWlVyLUVJV2F5czlxanBBakJSVmxnLXFRdjVEbU9LLVdUV0NDZ1F6aTVHaEFLZzh3TEpfSWtNUzVsQnZqR1M4NXRpdkxncm5GTGk0LTBUZkFrOGdLZmFaMXlyWVRUUi1NWDRMeVkxZkNGQ0REQzUtRzJQS2pfMjU5T1VwZF9WaDU2ejF2MkhodDBYOHIxWWZ6OWJBWmsxOUdwUlBTRVJxeVg1WUotbFdPWXVGckZ2dUNFSnZjUnJtUmhSaUhvUE9GR3dUQ0NKeUx0QlRBdVJUTjVRSUliQThfVFM3SGlyejVEc3BFaFNuMF84YXowVC1jT1pHSFBERFM5REt0M28tdjA2VjRMWWYtSktGcGZfVG0yWUZMUWVBVjAxZEU1TkMxR2o3UnhiOWxidmVCa0JRaGwtaVZ2V1JHZ0l4YzhpNFMySjRvR3ZnVktqU0J4NE5sVTVIVmM4SllpWDBNT3N1S2p0aVNkcm5QTGxscEtvbFJuUXhBRTlKZ1RBa0pQVDVmRHhTN3RLaFBQd2NKSll5cVlUXzYxRF9tQmJvNUxhV2ZJbTJtNmJJdHhGWkdMRmQ4clpNZGJBYTVRYTRoREdqSUdnZ0dJU1RzQmJmTFdQSGVfRWlwZHlUQ2xLb2k5TTlw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">乳癌</span>
-
-來源: [myTV SUPER](https://news.google.com/rss/articles/CBMi9ARBVV95cUxObVdScW83S3Y3ckdmbTluaGV4NzRLN3BVakpRZTREMkwya3pZdTVXcmh2ZTBta21CTHF6dWxfWnpVRkhrSksxZXJFdkZhNFAwVEZISU5OS0hmSVdicW5XWE91NXlEVW91S283ZWpsSmhQNVpTVU5LZzA3LVkxakhGQUhNVTh6U291Z09oOFBMR3NBRGwxWlVyLUVJV2F5czlxanBBakJSVmxnLXFRdjVEbU9LLVdUV0NDZ1F6aTVHaEFLZzh3TEpfSWtNUzVsQnZqR1M4NXRpdkxncm5GTGk0LTBUZkFrOGdLZmFaMXlyWVRUUi1NWDRMeVkxZkNGQ0REQzUtRzJQS2pfMjU5T1VwZF9WaDU2ejF2MkhodDBYOHIxWWZ6OWJBWmsxOUdwUlBTRVJxeVg1WUotbFdPWXVGckZ2dUNFSnZjUnJtUmhSaUhvUE9GR3dUQ0NKeUx0QlRBdVJUTjVRSUliQThfVFM3SGlyejVEc3BFaFNuMF84YXowVC1jT1pHSFBERFM5REt0M28tdjA2VjRMWWYtSktGcGZfVG0yWUZMUWVBVjAxZEU1TkMxR2o3UnhiOWxidmVCa0JRaGwtaVZ2V1JHZ0l4YzhpNFMySjRvR3ZnVktqU0J4NE5sVTVIVmM4SllpWDBNT3N1S2p0aVNkcm5QTGxscEtvbFJuUXhBRTlKZ1RBa0pQVDVmRHhTN3RLaFBQd2NKSll5cVlUXzYxRF9tQmJvNUxhV2ZJbTJtNmJJdHhGWkdMRmQ4clpNZGJBYTVRYTRoREdqSUdnZ0dJU1RzQmJmTFdQSGVfRWlwZHlUQ2xLb2k5TTlw?oc=5)
 
 ---
 

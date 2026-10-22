@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T20:59:37.751657+00:00",
-  "count": 20,
+  "generated": "2026-10-22T23:54:56.936874+00:00",
+  "count": 12,
   "news": [
     {
       "id": "e2dd81c577e6",
@@ -380,13 +380,43 @@
       ]
     },
     {
-      "id": "5c6a69b18988",
-      "title": "莊哲男腸胃中心 劉穎恆醫師加盟 高品質腸鏡 降低大腸癌風險",
-      "published": "2026-10-22T05:59:00+00:00",
+      "id": "0c417896c507",
+      "title": "大病前的預警！臉冒9變化小心了恐糖尿病、中風前兆- 健康",
+      "published": "2026-10-21T04:39:02+00:00",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YUDYwSU9FdElnTVBFd3RiaW45Q3J3elU5NDRaMC05Vkt1VFF5TVI5dWVuamF0YW02X2R6bVBiYXNXYjRoVHBVeEg3akswZXB1bVBLVWRvMnljOGY3M1BHMkl30gFnQVVfeXFMTXVrNXY4SWdXZElCZFVCQWQyYjB0SzFGcjBZX1JPM3ROLXJhMUVGSk9sc2ZSQ29McWFzVnJaVGszMTF5SjJ5SXZyZkVMRERLT0I2akJJaUNJbzdfMzFMRlhnN25IT3VsVQ?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54dUhBR1RNSWRoSnVlMUwtUS1HeUpJNms5Slo1NVllRGV3MTFGaU03d2pEb2VRM29aQ2hNcHpweDBpbVlOdGwyQUg3YUEyZXRIR0JNc3JYWFpVV1RpV0VEUHhNOFF6eUN1U2pKeGRB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone",
+              "url": "/drugs/dronedarone/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36cd374e75a5",
+      "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12",
+      "published": "2026-10-20T07:26:32+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5"
         }
       ],
       "keywords": [
@@ -432,268 +462,13 @@
       ]
     },
     {
-      "id": "d84968279114",
-      "title": "維生素D預防乳腺癌新證據 研究揭其潛力遠超現有認知",
-      "published": "2026-10-22T05:55:45+00:00",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPaTl2UDI2NWN1aXRSZzJZZ09JR1BmQ1QxT2FYRTFPSnVXU2VUek5UUWhvZmpLZ2dRM2hSVFUzck9ZcWVENHRFRmZsM2QybENta1RUOVVMbkhuQ3FNRDlybWUzTUxIMkFWTTFaQk5qUnRJRzd1NTJSZkFjRlExS2JWcTRzYU94ZzFrN2VMOEE0MDhmT2RvM1BXdVpLeXZPVWNtNklYRVFKcXdIYmFmeTRIdm9jY3h5WHc0dDV6Zk5MZk1OZk5oakRTM05VbVdMMWhKZDhBdzVFNld4Vi1LLXZnYzNKRG1SZTN3Mzdkb3lwOE5rdmNIOXRZMjhfOW9VTTBmcF8tTzYtZ05GRV9QSnJPSjhUREFLN1ladXhYQXV1emN6MEd4NWZ1YndIWTRYNUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳腺癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b301eaf3085e",
-      "title": "肺癌放射治療新突破：有望減少肺組織損傷 - 商傳媒 - SUN MEDIA",
-      "published": "2026-10-21T04:59:48+00:00",
-      "sources": [
-        {
-          "name": "商傳媒 - SUN MEDIA",
-          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOaG96VkwtbEFHMHprZVQtZGlFaVNORzlwbUxMZ0VPSTJWYU5BNVg0LUt4V0J3ejh3eTVKS3VUdHMzaGRfSURrRXRGdWZnazhnX0hyVjFMWHhDaWZ2a3ZYU2Z1TGVCSU1ScUQzYjdBSjc0QjI0UC1CWlNXRk9kcWFydjBFVEMzRFJiM3d2YnhPbzAyaXpaUEh4eldzUUkxeklkMDVac0w2X3IycDV4TzczMEdKVDFJWWZrWkotcXBRUmtQaWVhNE0xYmFUenlBNGtkbk5nR05sb3lpdU1VM0lnNUdyeERfZUxIZUtoNlZBMXpBWEdKeXh5SUJwYVlHX1ppaUQ4dkNGQWNpTm5TVmRHeDJiWQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6dfee2161177",
-      "title": "全球HPV篩檢覆蓋率僅8% 世衛目標子宮頸癌根除之路艱鉅 - 商傳媒 - SUN MEDIA",
-      "published": "2026-10-21T04:58:12+00:00",
-      "sources": [
-        {
-          "name": "商傳媒 - SUN MEDIA",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNY2h1UDJIZ016Yk8zTUhaUXAtRnc2bDFFdzZKak84Y0VIV0RxcTJfT0R5MVY4ci1pcHRNQVREaFh1cWF1aW9hc29aNm5GQ2J5dHc0RkF1dk9TYkFqTU9aSmZQV2lqbHVraHFMMWlJU09Ob0k5N0Q1R1FPam1FbHZvZVRpc0M0TnZnU3FiaXg2NVhSS2xnckFPRURqb244dEhia09qdHRsVE9LSG50NWJXbk9URDlXWFE2S3VjdWdua19MeFUwc2lPckJScXZvajc1UUd6bS1ZNjVVQi16ZHJlYU1RWnFjdVd3MnVTWGZSQVcxdExXcEN2VXNxWnBnbXFPQ2lSUFEyYV9SOHk0ODBGRXkxX095aFYzSEFxRzNGQmdfd0poZ3dtdmxOYTc3alk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e2738223b5bd",
-      "title": "美國佛州醫院辦乳癌預防活動 強調早期篩檢與衛教 - 商傳媒 - SUN MEDIA",
-      "published": "2026-10-21T04:58:09+00:00",
-      "sources": [
-        {
-          "name": "商傳媒 - SUN MEDIA",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPbG16LVJFV2pPRkExcXZ2TU54ZHFOd1hCSU5yM3dKU2dZVlhFdHZqT0JaOUFBRHFwR1p0Y3ctbVJNZWppbHBhR1pZY0NoTEdacWF2b3U0ckFYNHJabHZwMUlFdTk3WWpPUlh2aV9Od1NsbzVVSW5nUVhxcVdDbXVBYWExX3lQQldzSWU1VWktMEZhODZzaHNFZExESHNoODR0dkVZcC02RjBYcGptN2k3YUdyb09HOTFDdDdxaFg3SjA2X1kyTjhXX0tDVjYtdG14MlJYcEtfeGYzNS02WGRoOHlKUk92ZnphRURtclQzX2JaZTlyTnJMMGhJVXlyVVAxVU9TNGF6cnFJQ01qbUJoYkVMaWlHY1FkSnoyUGVXajBYRGJMOEhhMQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6bc8c49de63e",
-      "title": "男性乳癌｜朋友一個惡作劇動作6旬退休男驚患乳癌擴散淋巴死亡率高達19%：兄弟真的能救命- 東張+ - myTV SUPER",
-      "published": "2026-10-21T00:36:55+00:00",
-      "sources": [
-        {
-          "name": "myTV SUPER",
-          "link": "https://news.google.com/rss/articles/CBMi9ARBVV95cUxObVdScW83S3Y3ckdmbTluaGV4NzRLN3BVakpRZTREMkwya3pZdTVXcmh2ZTBta21CTHF6dWxfWnpVRkhrSksxZXJFdkZhNFAwVEZISU5OS0hmSVdicW5XWE91NXlEVW91S283ZWpsSmhQNVpTVU5LZzA3LVkxakhGQUhNVTh6U291Z09oOFBMR3NBRGwxWlVyLUVJV2F5czlxanBBakJSVmxnLXFRdjVEbU9LLVdUV0NDZ1F6aTVHaEFLZzh3TEpfSWtNUzVsQnZqR1M4NXRpdkxncm5GTGk0LTBUZkFrOGdLZmFaMXlyWVRUUi1NWDRMeVkxZkNGQ0REQzUtRzJQS2pfMjU5T1VwZF9WaDU2ejF2MkhodDBYOHIxWWZ6OWJBWmsxOUdwUlBTRVJxeVg1WUotbFdPWXVGckZ2dUNFSnZjUnJtUmhSaUhvUE9GR3dUQ0NKeUx0QlRBdVJUTjVRSUliQThfVFM3SGlyejVEc3BFaFNuMF84YXowVC1jT1pHSFBERFM5REt0M28tdjA2VjRMWWYtSktGcGZfVG0yWUZMUWVBVjAxZEU1TkMxR2o3UnhiOWxidmVCa0JRaGwtaVZ2V1JHZ0l4YzhpNFMySjRvR3ZnVktqU0J4NE5sVTVIVmM4SllpWDBNT3N1S2p0aVNkcm5QTGxscEtvbFJuUXhBRTlKZ1RBa0pQVDVmRHhTN3RLaFBQd2NKSll5cVlUXzYxRF9tQmJvNUxhV2ZJbTJtNmJJdHhGWkdMRmQ4clpNZGJBYTVRYTRoREdqSUdnZ0dJU1RzQmJmTFdQSGVfRWlwZHlUQ2xLb2k5TTlw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4159e5cac7d2",
-      "title": "奈及利亞腎病飆升每月9千例 醫籲防濫用藥物與高血壓 - 商傳媒 - SUN MEDIA",
-      "published": "2026-10-20T06:37:10+00:00",
-      "sources": [
-        {
-          "name": "商傳媒 - SUN MEDIA",
-          "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOU3A1a2JnR01CajlPQmk0c202NWJ3RnVLN1NiZGROWjNSZlhkV0MxRHQ4T0E4cDRNVE12ZnFKaEhueTVyekFUZmpjQUFQVEFJYXhRTTJQSjQ0eFZFbDFjSEkwLTdaMWVKMHE1bzBNMDVoVkxrZVVlMDZQX1N6VENfdklGb0lLMHFXYWdZZ0pweFA3Vy1hSnpvNFEzMnZiRGtVRGFOX1RJZTlaeHhCVGdCUGs0TXFEMDI5OHBha1hWZ0VPX2t3YmwxcVFMcl9Va1cxYVpNSHU5bEd6MFRyMTFKU19neHhyVkM3QU9lV185NjZBMEl5LWdqYWJEalpFNk85cFFQem1JMXZOT2lVRUNNOWc2ZE5oVE0wTURMTlhYZVVzYUNZa1RQc29KN0RwZDg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol",
-              "url": "/drugs/acebutolol/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9f5939a36fef",
-      "title": "以為天然物質就健康 研究：代糖增心臟病及中風風險",
-      "published": "2026-10-20T06:00:00+00:00",
+      "id": "c2d35d413037",
+      "title": "以為是天然物質就健康 這種代糖增加心臟病及中風風險",
+      "published": "2026-10-20T02:27:55+00:00",
       "sources": [
         {
           "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5"
         }
       ],
       "keywords": [
@@ -789,31 +564,6 @@
       ]
     },
     {
-      "id": "10effe914da7",
-      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - Yahoo新聞",
-      "published": "2026-10-20T02:31:10+00:00",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53YXppUWdUUWR3a1lEREtLRDUxN1hlamU0Um41U3Rxa09iZk95dVg4WEhvd1NfbFVZT0JtaHdyMVFoWVhHdzJxTlk3VGxqY2dSVkwtQk9WTlA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7e232355f3e6",
       "title": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷",
       "published": "2026-10-19T22:05:41+00:00",
@@ -833,6 +583,31 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30af67ad48ba",
+      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意",
+      "published": "2026-10-19T13:00:00+00:00",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
@@ -1118,137 +893,30 @@
       ]
     },
     {
-      "id": "2dec6b0adfb6",
-      "title": "MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑 - BigGo 財經",
-      "published": "2026-10-19T02:35:00+00:00",
+      "id": "c75e937e8195",
+      "title": "研究發現：減重針或助精神分裂症患降低精神急症風險",
+      "published": "2026-10-17T02:10:20+00:00",
       "sources": [
         {
-          "name": "BigGo 財經",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOYnY0Mjh3ZEtBY0p4clY3bzRzdVpSUmlPU25XX21GMnVmQk1CRVhreEpxODNBalN0LXlQaERqaUpfVmJOZ1JtMHEtSi1mSHlTbEZfS0NLOC1hZDNkVXJwRHVTQW4wQ21JX05DWXpFdFBaRnVJQkdfUzAzUmFNQlZiejR6SWFpTXljdXg1ZlJWaDBMcUlJb2d0bDhBWU82TnU2aXBTQTNUUVhfaG4xTTRGTDBVQnZBUUhYQThRT21hUjE2aHhmcVRnRzk3MVM0MWloV2VDUjhxQ1FLSEN4X1h4WTJ1OE5kblF2c0xvVU5rT0p2bEFsd1A3X20zMWdweUVaaFNHRThnLVBGaC1nMzdvVTEzU2UxcGVCcEFaOWNLQ3dHWXdnVnBuSC1FcmJUVDdPeWVyOWVUNlZxbHY3Q3BiTFBQanRWTGtfRGY2SjhsblRiVW9STE15TXZ3TXRZa2RRYnhwSHJLYmJ0b3FUWjVVT0xFektuT0xHV2hPdTFMb0dyZjFWX0E?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
+          "name": "schizophrenia",
+          "keyword": "精神分裂症",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0d3d7e61f8bc",
-      "title": "肺癌化療喘悶疲倦中醫介入改善症狀- 醫療保健- 新聞",
-      "published": "2026-10-17T04:45:51+00:00",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wVUFPdEEtTVRSY3FZVG1zcHMyM29iSDZGWnlBY1NPSDk1OHhPdEZldUpiVWN1QUFTdkR2Q2c4NU9KMm9BWk5Wek1rWXdqVlJFODVmakJXMTRFcmdOMmNROGg3S0pxQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
+              "slug": "ropinirole",
+              "name": "Ropinirole",
+              "url": "/drugs/ropinirole/"
             },
             {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1df927eb88e4",
-      "title": "研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷",
-      "published": "2026-10-16T23:36:34+00:00",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZzZLTDhYVmxYclJUdVU3M29JMU85WmJxb2JKQ2VreWhUbGlYVjZTTFZxWENrRnZxcDcwM0NTUlpyekE0YmwwU1pIWkxPOFpjZHROZzdPMXdVQlJRVHRnT3UxemFOeFB5ZEx4OGhiT1lCeEhNX3llQjFVLW5NdEtOeGJZSkViZWxvQVRmbFFnbFlmQkJOYnNiZ050dndUZUdVdlI3MDdISkR1Nm5GdWtvUTVtR2kzLVc3a0pBQVRHUGJLWFJoeUxGM29VQ2pyMEc4b0NLRXRrUVVOeXVGcDhqaTRBTFZnaDBmdTNfbUJPckk4VUNyVHFLYTQ4ZGp5WUdaWHhhX19ZVzE3MXg5QlVnQ09wcXpXcHFXNjlwRDF6bzk3NVZYSkVqYw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "979debc151db",
-      "title": "新研究：超加工食品類型影響大腸癌風險",
-      "published": "2026-10-15T21:41:03+00:00",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHlZdEhzeDZLMmhlamJUbjhydDhvTjZDUVRReFdGa2E3MjdQcHd3N0hVUFNtTzFpWHY1ams1N0VFRng2QUxhbEZDZkZSUEhLY1VMQ3c4eDJkc1RLNTlMQUktUHc3bEdfUERqRzFITDJyREZNd1RBZWFaUkl1dy1uZlFoSXJxdkFCZHd0MnM5Z2tvMDdMaFh2X0Fra1ZRYzV3LUNBRmZGVU1JLWhPcEVlSWl5MnNRZlNEdXpwTWd4a3VvZEp1?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
+              "slug": "rotigotine",
+              "name": "Rotigotine",
+              "url": "/drugs/rotigotine/"
             }
           ]
         }

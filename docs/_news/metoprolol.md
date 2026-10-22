@@ -14,7 +14,7 @@ permalink: /news/metoprolol/
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/metoprolol/
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
 
@@ -52,19 +52,11 @@ permalink: /news/metoprolol/
 
 ---
 
-### [奈及利亞腎病飆升每月9千例 醫籲防濫用藥物與高血壓 - 商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMirwJBVV95cUxOU3A1a2JnR01CajlPQmk0c202NWJ3RnVLN1NiZGROWjNSZlhkV0MxRHQ4T0E4cDRNVE12ZnFKaEhueTVyekFUZmpjQUFQVEFJYXhRTTJQSjQ0eFZFbDFjSEkwLTdaMWVKMHE1bzBNMDVoVkxrZVVlMDZQX1N6VENfdklGb0lLMHFXYWdZZ0pweFA3Vy1hSnpvNFEzMnZiRGtVRGFOX1RJZTlaeHhCVGdCUGs0TXFEMDI5OHBha1hWZ0VPX2t3YmwxcVFMcl9Va1cxYVpNSHU5bEd6MFRyMTFKU19neHhyVkM3QU9lV185NjZBMEl5LWdqYWJEalpFNk85cFFQem1JMXZOT2lVRUNNOWc2ZE5oVE0wTURMTlhYZVVzYUNZa1RQc29KN0RwZDg?oc=5)
-
-2026-10-20 <span class="news-indication-tag">高血壓</span>
-
-來源: [商傳媒 - SUN MEDIA](https://news.google.com/rss/articles/CBMirwJBVV95cUxOU3A1a2JnR01CajlPQmk0c202NWJ3RnVLN1NiZGROWjNSZlhkV0MxRHQ4T0E4cDRNVE12ZnFKaEhueTVyekFUZmpjQUFQVEFJYXhRTTJQSjQ0eFZFbDFjSEkwLTdaMWVKMHE1bzBNMDVoVkxrZVVlMDZQX1N6VENfdklGb0lLMHFXYWdZZ0pweFA3Vy1hSnpvNFEzMnZiRGtVRGFOX1RJZTlaeHhCVGdCUGs0TXFEMDI5OHBha1hWZ0VPX2t3YmwxcVFMcl9Va1cxYVpNSHU5bEd6MFRyMTFKU19neHhyVkM3QU9lV185NjZBMEl5LWdqYWJEalpFNk85cFFQem1JMXZOT2lVRUNNOWc2ZE5oVE0wTURMTlhYZVVzYUNZa1RQc29KN0RwZDg?oc=5)
-
----
-
-### [以為天然物質就健康 研究：代糖增心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
+### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 
 2026-10-20 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
-來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zcUVtSmNMNlZNRjd0TVlhUUczNVRaOHdfWDhyME9ocVYxRlRYS1duZEVLS3RxakhadXhHckhEcldTUGNzT2M1WUY2U3NxT2RzVGMtWVFXX2NMODByd25GeHJR0gFnQVVfeXFMTTBreTExcV9WMDBHd1ktSUo4U1NtdVJLZDJTeGVWbWc2djlfQlUxcnowREVFemlERjJLcU5SbmE4TnBBRnE5NW1fVFNpUV9UcG5nbHVWbFZXNXpOMTNMc2Y1OXJ3T0ZwWQ?oc=5)
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dementia/
 ---
 
 <p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -29,29 +29,13 @@ permalink: /news/dementia/
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [魚油防阿茲海默症？研究：無明顯保護作用](https://news.google.com/rss/articles/CBMiywJBVV95cUxQVXNfTmR4NjRwMDJVX2VMeFJCM0tuSTh6T25MNlk0MTRyWGxwRVBJREYyNF9GQTBTUkJlUGg1aXNLdWpOUm91R0wxcHlmNXlxMU1NcUxLakItLUVnMVJfVGpQS2FNVkt5Umd1SkotVGJlX2ZndXI5V280cTNldmNrRVRxRHk3elpXaG41cnRtUVJpUkVrOEk5M1B4N3BFa0w1NXJ0bTkyOHRlUkRPTVNDU0VnZGZreW4ydHprWjhHUjhMd3ppTFloZnAxc3B3YV9yLW94S2RzUU8tcDVkZ1JIOTIzMmlEd0ExaVFZMEh0MUdNTS1YQlZlNExVZ2g2QXdEdmlfaHZvSktEdUs2VnM1WldKSGt1M21BdmQwTmozeVN0QmUzRzJkaU1VV25PZGV5YlVMalhzdmNfSzd1WXFHZFg4Rnk4R1dBZ0ow?oc=5)
 
 2026-10-22
 
 來源: [Singtaousa](https://news.google.com/rss/articles/CBMiywJBVV95cUxQVXNfTmR4NjRwMDJVX2VMeFJCM0tuSTh6T25MNlk0MTRyWGxwRVBJREYyNF9GQTBTUkJlUGg1aXNLdWpOUm91R0wxcHlmNXlxMU1NcUxLakItLUVnMVJfVGpQS2FNVkt5Umd1SkotVGJlX2ZndXI5V280cTNldmNrRVRxRHk3elpXaG41cnRtUVJpUkVrOEk5M1B4N3BFa0w1NXJ0bTkyOHRlUkRPTVNDU0VnZGZreW4ydHprWjhHUjhMd3ppTFloZnAxc3B3YV9yLW94S2RzUU8tcDVkZ1JIOTIzMmlEd0ExaVFZMEh0MUdNTS1YQlZlNExVZ2g2QXdEdmlfaHZvSktEdUs2VnM1WldKSGt1M21BdmQwTmozeVN0QmUzRzJkaU1VV25PZGV5YlVMalhzdmNfSzd1WXFHZFg4Rnk4R1dBZ0ow?oc=5)
-
----
-
-### [MIT研究團隊破解阿茲海默症風險基因APOE4損害髓鞘的路徑 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5)
-
-2026-10-19
-
-來源: [BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE91eHlzWkIyMzhEX3FPY2VGMVFMU0pnLThVRkQ5aEFBNjBET3VVTkdCbzhPNHZGWEEwblgwZld2TF9udTdwOUZ1ZFJnT2JSSUwxTFVfMFQ2SFVQX2RBS045cl95dkozWG9HV0JkalQ0VzdidnRUcC0zWmdB?oc=5)
-
----
-
-### [研究：兩種現有抗癌藥能逆轉阿茲海默症小鼠腦損傷](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZzZLTDhYVmxYclJUdVU3M29JMU85WmJxb2JKQ2VreWhUbGlYVjZTTFZxWENrRnZxcDcwM0NTUlpyekE0YmwwU1pIWkxPOFpjZHROZzdPMXdVQlJRVHRnT3UxemFOeFB5ZEx4OGhiT1lCeEhNX3llQjFVLW5NdEtOeGJZSkViZWxvQVRmbFFnbFlmQkJOYnNiZ050dndUZUdVdlI3MDdISkR1Nm5GdWtvUTVtR2kzLVc3a0pBQVRHUGJLWFJoeUxGM29VQ2pyMEc4b0NLRXRrUVVOeXVGcDhqaTRBTFZnaDBmdTNfbUJPckk4VUNyVHFLYTQ4ZGp5WUdaWHhhX19ZVzE3MXg5QlVnQ09wcXpXcHFXNjlwRDF6bzk3NVZYSkVqYw?oc=5)
-
-2026-10-16
-
-來源: [商傳媒](https://news.google.com/rss/articles/CBMiqAJBVV95cUxOZzZLTDhYVmxYclJUdVU3M29JMU85WmJxb2JKQ2VreWhUbGlYVjZTTFZxWENrRnZxcDcwM0NTUlpyekE0YmwwU1pIWkxPOFpjZHROZzdPMXdVQlJRVHRnT3UxemFOeFB5ZEx4OGhiT1lCeEhNX3llQjFVLW5NdEtOeGJZSkViZWxvQVRmbFFnbFlmQkJOYnNiZ050dndUZUdVdlI3MDdISkR1Nm5GdWtvUTVtR2kzLVc3a0pBQVRHUGJLWFJoeUxGM29VQ2pyMEc4b0NLRXRrUVVOeXVGcDhqaTRBTFZnaDBmdTNfbUJPckk4VUNyVHFLYTQ4ZGp5WUdaWHhhX19ZVzE3MXg5QlVnQ09wcXpXcHFXNjlwRDF6bzk3NVZYSkVqYw?oc=5)
 
 ---
 
