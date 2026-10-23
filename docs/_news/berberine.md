@@ -14,7 +14,7 @@ permalink: /news/berberine/
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ permalink: /news/berberine/
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
+
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+
+來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
+
+---
+
+### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5)
 
 2026-10-22 <span class="news-indication-tag">癌症</span>
 
-來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5)
 
 ---
 

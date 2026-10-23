@@ -3,7 +3,7 @@ layout: default
 title: "肺癌 (small cell lung carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。1 則新聞、3 個相關藥物。"
+description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="肺癌 (small cell lung carcinoma) 有什麼相關新聞？">
-<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>1 則</strong>相關新聞報導，3 個相關藥物。
+<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ permalink: /news/small-cell-lung-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
+
+2026-10-23
+
+來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
+
+---
 
 ### [肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意 - etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5)
 

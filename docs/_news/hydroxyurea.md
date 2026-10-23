@@ -14,7 +14,7 @@ permalink: /news/hydroxyurea/
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>: 慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>female breast carcinoma (100.0%)</li>
+<li class="indication-matched">female breast carcinoma (100.0%)<span class="indication-tag">📰 乳癌</span></li>
 <li>sickle cell-hemoglobin E disease syndrome (99.7%)</li>
 <li>sickle cell-hemoglobin c disease syndrome (99.7%)</li>
 <li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome (99.7%)</li>
@@ -42,21 +42,29 @@ permalink: /news/hydroxyurea/
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
-2026-10-22 <span class="news-indication-tag">癌症</span>
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
 
-來源: [香港商报](https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5)
+來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
 ---
 
-### [全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
+### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5)
+
+2026-10-22 <span class="news-indication-tag">癌症</span>
+
+來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5)
+
+---
+
+### [吃素反增大腸癌風險？牛津新研究揭關鍵魚素最優- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE92VkE0UVVabW9sdFRvejFLZ3pwd1ZLLUYyVmZTNlZxb29HcXBIUmtOd0lvTE95b21PT1dOVm9Vb21ZNTB2TUl4dEVnOGtLMHF5c2FzeDRsZGVZYld2WlN5MXFMR3gyT1Z4Wm83emd3?oc=5)
 
 2026-10-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5)
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE92VkE0UVVabW9sdFRvejFLZ3pwd1ZLLUYyVmZTNlZxb29HcXBIUmtOd0lvTE95b21PT1dOVm9Vb21ZNTB2TUl4dEVnOGtLMHF5c2FzeDRsZGVZYld2WlN5MXFMR3gyT1Z4Wm83emd3?oc=5)
 
 ---
 
