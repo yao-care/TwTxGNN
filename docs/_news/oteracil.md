@@ -60,11 +60,11 @@ permalink: /news/oteracil/
 
 ---
 
-### [吃素反增大腸癌風險？牛津新研究揭關鍵魚素最優- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE92VkE0UVVabW9sdFRvejFLZ3pwd1ZLLUYyVmZTNlZxb29HcXBIUmtOd0lvTE95b21PT1dOVm9Vb21ZNTB2TUl4dEVnOGtLMHF5c2FzeDRsZGVZYld2WlN5MXFMR3gyT1Z4Wm83emd3?oc=5)
+### [全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sOHVVRHo5N0JyV1NGNmd1VUJoMjhDQ2tFTnRJa1p3blZkcHpFZUVlOHEwVGwyRlFmNXo4aHVlWnlFSFZJZ0pXdnduMng1ZU5UcFhF?oc=5)
 
 2026-10-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE92VkE0UVVabW9sdFRvejFLZ3pwd1ZLLUYyVmZTNlZxb29HcXBIUmtOd0lvTE95b21PT1dOVm9Vb21ZNTB2TUl4dEVnOGtLMHF5c2FzeDRsZGVZYld2WlN5MXFMR3gyT1Z4Wm83emd3?oc=5)
+來源: [中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sOHVVRHo5N0JyV1NGNmd1VUJoMjhDQ2tFTnRJa1p3blZkcHpFZUVlOHEwVGwyRlFmNXo4aHVlWnlFSFZJZ0pXdnduMng1ZU5UcFhF?oc=5)
 
 ---
 

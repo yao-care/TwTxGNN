@@ -1,7 +1,32 @@
 {
-  "generated": "2026-10-23T18:04:13.946877+00:00",
-  "count": 10,
+  "generated": "2026-10-23T21:46:15.483744+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "6495ae72d6aa",
+      "title": "美22年失智研究揭「免費護腦良方」 小小習慣利人也利己- 國際",
+      "published": "2026-10-23T17:57:44+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWTZhcnJINERocXduTEx3cEVBVWZTb1lhYkRGR0FmWlJvVmJqNkU2N2g5QWtJakl3elplSlgyUmFGUm43ZEVkUUFwQ0JKQWhXbURNSmVudkwzdlVpbklOampxM1Jaei0tdUhfSGR3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "632151f37586",
       "title": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food",
@@ -674,13 +699,13 @@
       ]
     },
     {
-      "id": "6901e81e381f",
-      "title": "吃素反增大腸癌風險？牛津新研究揭關鍵魚素最優- 健康",
-      "published": "2026-10-20T07:05:46+00:00",
+      "id": "204e7c0f9277",
+      "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12",
+      "published": "2026-10-20T07:26:32+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92VkE0UVVabW9sdFRvejFLZ3pwd1ZLLUYyVmZTNlZxb29HcXBIUmtOd0lvTE95b21PT1dOVm9Vb21ZNTB2TUl4dEVnOGtLMHF5c2FzeDRsZGVZYld2WlN5MXFMR3gyT1Z4Wm83emd3?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sOHVVRHo5N0JyV1NGNmd1VUJoMjhDQ2tFTnRJa1p3blZkcHpFZUVlOHEwVGwyRlFmNXo4aHVlWnlFSFZJZ0pXdnduMng1ZU5UcFhF?oc=5"
         }
       ],
       "keywords": [

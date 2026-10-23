@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -47,7 +47,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [美22年失智研究揭「免費護腦良方」 小小習慣利人也利己- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWTZhcnJINERocXduTEx3cEVBVWZTb1lhYkRGR0FmWlJvVmJqNkU2N2g5QWtJakl3elplSlgyUmFGUm43ZEVkUUFwQ0JKQWhXbURNSmVudkwzdlVpbklOampxM1Jaei0tdUhfSGR3?oc=5)
+
+2026-10-23 <span class="news-indication-tag">失智</span>
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWTZhcnJINERocXduTEx3cEVBVWZTb1lhYkRGR0FmWlJvVmJqNkU2N2g5QWtJakl3elplSlgyUmFGUm43ZEVkUUFwQ0JKQWhXbURNSmVudkwzdlVpbklOampxM1Jaei0tdUhfSGR3?oc=5)
+
+---
 
 ### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
