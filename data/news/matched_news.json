@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-23T13:57:04.659867+00:00",
-  "total_count": 49,
+  "last_updated": "2026-10-23T18:04:13.900411+00:00",
+  "total_count": 50,
   "matched_count": 10,
   "news": [
+    {
+      "id": "395ea44388a5",
+      "title": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例",
+      "published": "2026-10-23T14:15:49+00:00",
+      "summary": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例&nbsp;&nbsp;KTSF.com美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingViewH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10OGJPMDNHbzc1WENYdXA2cThXaGNRdlZiMHRaQUJtb2s5NkZZd1dfTUZ0Z0dIZ3NucjBFZE5raGhVNzZ3QVota2JhTEhKYjdzMWZfWGdNM0lCN3FYSXlzSW9TOXBMOUN6UEFBVWxveFRKZHFQZUg2Zg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "632151f37586",
       "title": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food",
@@ -324,9 +337,35 @@
       ]
     },
     {
+      "id": "0267f22edecb",
+      "title": "23吋螞蟻腰搶鏡！36歲張曦雯公開4招身材管理 靠1方法練成雪白靚背",
+      "published": "2026-10-23T09:00:10+00:00",
+      "summary": "23吋螞蟻腰搶鏡！36歲張曦雯公開4招身材管理 靠1方法練成雪白靚背&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxORnhDSXN2YXo2MW4zNEY3MWxsdFQ1a0VtNVNSTmhfM2R0dE5rZ0l0Nl9kRGE2T2ZpLUlGSkxsd1dhdTlERVdZalZiLS1RazU1OGJHRVBFOTd1LWlqSlhTYURWRTF6QnRKQ0UwbFRFSzQ1TllrYW56ZTNUTnhuOHhUR2paZV9hNGtCNnBobUllbmExX3lGRmtqOVRkYWhHWUhkb19BbzZvamY0YTJXbnFCUS1Dd1F0OVZWY3RqX2ZDNmpjZVNQc0hNYWZfWGsxdEZ5Z0dTaDA3bDFXQzhCNXVBdkNYYTBiMmtwZzVGOVBROVBWeVdxVUJZODZnQS1mcVRGczdYOGlicWctUFV5UU8xZHo3M3Y2OUEtZy1lWDN0YWlzYXUzQ3ZrbGtocG9SZWJnRUFGQmdoNHBkRk85MHJTMGozQ3JrUF93bGdQWElKaHF2MW9SSU5YZVJwamFLbGtOeUFZTi1OUGwtalpYZ2tMc193R0wyRjRPa2ZnRTUwMU9rR2FnNFVMaWVUeG5mdkFualRvMVFhSzA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2d0e68d0df38",
+      "title": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」 - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-10-23T06:33:34+00:00",
+      "summary": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "sources": [
+        {
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQSEtfdU80THRpc1JHTXlkb2hZTlVwYTBEdkhEMl9xdTlLZlVQVUJxaG56eTd3UUJLWGxReE1fd3dPaWtVdU85aDFOYzFMeTZPdE03d3gwUlJIZnU5ZmxNcGFtV0ZRcTA1aHJhQkd0bl9mM2t5TWExRFRXMExBZWJxY3N1TlNSNENrMk1XNjdHRkk0YTNBclVPQlhHVUtfdkVBZGZoNmFGT0dHc1RTUjJESkYycHU4SjQwd3p0aEw4cklELUprdS0wVy1zRWJ6YTV5R1N2N1B1MW43M201QkV1SllfT2x5TVhqTFVvVHRUWjIxTkxfdWRWWGtieXBENkRiSXNDZ1hPQkNRN0czSloyMUpERTRjbllFT0hXUUhGamZiMklSSUJpNGVycGJzc3pHQ21yemJjdGphU0VOc1RPN1ZhMGQ2clRmRnlObGgtSVFnUjJ4ZFV2R0V3T2dQTHltWkc2ekg5ZmhQM2VQZTZKc1lCbk5EZjZ3aFFHS0JJYmNRS2ZLbFlMMEpqZFppYldyVnRUME8yMUJHbThEUXA5UWg2Slp4UkF0M0ExaHN0QkdZMjhoMzFIVjZKYWxhR0s4SnFxOFNWeGlUQdIBigFBVV95cUxNX1Bsb252a1BHNl9sUUdYMkhxRTB0OV9RTUFLMlEyT2x1angyb0lQanBlWVJ2Y2NYdnpXNG1mOXI5SjZsYmxSWUNyMUVrZC1oTUhNcm9nMTFrbzNLM19rZHJFU19ybGJzc05GWmQ0MEdnbGFTS1ppRmVhQkQwZDhueU8wa0xQSVU1UGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e82799e5d0d4",
       "title": "1023國際XLH日！病友呼籲全生命照護",
-      "published": "2026-10-23T05:00:00+00:00",
+      "published": "2026-10-23T05:10:34+00:00",
       "summary": "1023國際XLH日！病友呼籲全生命照護&nbsp;&nbsp;Yahoo新聞一天走不到300步、下排牙齒只剩4顆！XLH病友盼終身照護不中斷&nbsp;&nbsp;壹蘋新聞網一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網一天走不到300步、牙齒僅剩4顆…罕病XLH折磨終身 病友盼新藥擴大給付&nbsp;&nbsp;UDN一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
@@ -358,19 +397,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQX201ZmRsZnpkeWlpNlVhbjZPZFdrRTZQS2o4QzdjR2ZDdW5Yd3ozTU5OMmVuTFBLV0x2MW90RnFVRnZicmZOUFZzNG1qNGk2YzZ0M2V3Mjh5SDdjYnJ2VGtNNk82X3AyYXVMYmpDZVQxZHJJVkRUakJ2T214c2J2aTU0UGgzM3B0emx4Y0Jkd2NDYUVhRV9RdlVCZ1pEdkpmWXVwRmxrOXYtVnJrQkZWckZja01Wd3I3M1RjQjJFUm45dUVOT2dpSjZzdEZ3dDZ1dFpTRUhtYTVwcUtHclZFWXVIZzlZS3JiNHFrdmRtb0ktcFVsYWF6RzBhZDBrTHRhVV9fY01vX3hMZmZBb18yQ1ljZ3lvM3BnS0laTHFMTWtSM3V4UEJVd21TWFhhQzA4eXhkdnhLUDBSalJfTHhVQWlYQXc5YVRnR0p6Ymd0RXFEQ0cyYzR2UnU1akg5TzhMTHNaLVNveHlQa25IMTVITE5OWThVZw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "be108a91300c",
-      "title": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-22T20:01:04+00:00",
-      "summary": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPSnVXLXVMT1lfWTVzcUp2bTA1b1JZZHB4Tkd3U2FVSW9zT3hkN3c0ZHVURlhweVFCSVZlNG1ZR3hwYmJ6TUhraE1iajZBbEF0dmdHaGtKbE9xcjBvQ3p0dTdSV0x4LUZCR1g0TUd0LVE0eXJCajVseGs4NlJJbUtJNGdicGZwM2VxVENuTGpwekl4NllyVHhJR3RBUGZBZER2MkthdUJoeS1qRTdaWVhVSXBSbmNtanhUdmtmOEYwT3pKZzhPcHRqdkt2THNDa3BWOGhISXFneXEzZllkZXZoVmhiRmxibUROSXRwQXVTdnNIX0lNYmhRLUNyamdNRklKSU1WTjFOUkFBZDNkTVdyRUhfR1VpdU96eGFkcmlWVG9QNUdSNmFFR1ZxczZjeXZ6VjJ3YWpoQ09sR1k4QW1BX3hLVl9MUdIBigFBVV95cUxPT0N1Vkt6X2U5RWRNeVdvU3JnQjRUbWxCc3pFSUpYZ3NvWXNzQ2lXOUl5bUZxMHlJYkVBbTBfNzRGTDc3cW5GTTI1VUhyYUR4Tmt5Rlc2YzZwTlhpTjZNc1FfZEdkWnhzWjFwZ3B3MWg0UHA0cTZUY1FpelpQeGtqdEQwZlp2XzNWZUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -810,14 +836,14 @@
       "matched_keywords": []
     },
     {
-      "id": "253e7ecbd0f1",
-      "title": "流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-22T03:06:27+00:00",
-      "summary": "流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大12歲女童染甲流後併發敗血性休克不治 衞生防護中心籲市民盡快接種疫苗&nbsp;&nbsp;Yahoo三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa3歲男童染甲流情況危殆 曾一度失去意識&nbsp;&nbsp;信報網站流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
+      "id": "4ced1272eebe",
+      "title": "流感疫苗接種比率下降 衞生署：流感季或長達5個月",
+      "published": "2026-10-22T02:35:10+00:00",
+      "summary": "流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报12歲女童染甲流後併發敗血性休克不治 衞生防護中心籲市民盡快接種疫苗&nbsp;&nbsp;Yahoo三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa3歲男童染甲流情況危殆 曾一度失去意識&nbsp;&nbsp;信報網站流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNUXNlYWtWRVNKRmdOUDh4WjNWbTEzWDdmX3JrNEY2aFJNa210c0dWcTc4MEk0Qkoyd0lmaWk1a3NPR2o1X2doMnUtWHREUjhrd1hkSDhhbDdCYldJOXJ1VTJvYUtXTHZPNEhxNW9oNk0tdGRXYUhvYzhaYWU4X3RGOG9oRlFkM2hmUEZabHZtdDE5R2FNWU1nWXpib2xZbGVmeERUdF8yaklCd0p4cVItM1RPa1REVWlzZ1IxOWdCcnE5bWJRYlhta3AxMmQtRkk0RktGMlhPTWJieGdOaXVkSk9MX3gwM05LMkFtNXpRekY4YjQ1X2V6eWVlSGFiTmo5bk5DWFNBNmpvMUFKVFd4SHczaFl0NF9ZbW01RF90QWFhZVdfLXNxaDhlWnJUSjNyeFFWZ1BtU21HcXZTZlNTSVM3akl2cEVpNWlvU19ZeVFaNjhSeERXRXF3WmlneVFRRzM4Zl9kOGNaNGRhbl9Bek9hXzVhbkZrRVRtV1F2bU9FQmJteWRCZWJlclAtY2ZaODktNVI4RFhlQVNXZ01XQ2JOb3dKckk5QmltYll1QXhMVlRKOW4zZlotSjQ2b1p4QlJvcWVyZ2gzN0t3aldBYVFsU2hLUzA1cDdOV3ZQbUNkQUxmTkxaTVhMUdIBjAFBVV95cUxQMmwyMFVrUDZ1c0wwQTZSd1FhYjBYWmt4TGl1cTVCNDFyZXpjT0I0TjhBMTZTenZaUVdmSkJFcWd0ZThXWWJISmhPSmJ0WTZoaXRXZ3hYcE1rY0QtMm94MG8tbTgycTNUY094YV9vTENKcVFKeFk5TXJ1a1dJdkhFYk44NzlTZlk3cFpIdA?oc=5"
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrRDNnSE1CamZ2UWU3ZFVkdVhnWUxhNlRuSy1wRl80T21oOG9LUVJGUndnR044eFZETEFPeWVBZ2E4Uks2Z1R6WnZqOURVRlJnU3BZWGRZcy12Um92aFQ3QjVjcVRUYUJkRzd4S20xckZxdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -901,14 +927,14 @@
       "matched_keywords": []
     },
     {
-      "id": "32d64f4a8b6b",
+      "id": "979eb8cbf5ae",
       "title": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一",
       "published": "2026-10-21T02:00:00+00:00",
-      "summary": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一&nbsp;&nbsp;香港經濟日報HKET怎麼吃才長壽？專家曝「5食物」每週都要吃 吃魚首選這5種&nbsp;&nbsp;Yahoo新聞長壽食物｜不用花錢買保健品！長壽專家每周必吃5種平價超級食物 吃這種死亡風險降22%&nbsp;&nbsp;星島頭條做齊4件事多活10年不患慢性病！11萬人研究揭6大長壽秘訣 食發酵食物也有效？&nbsp;&nbsp;CCUE吃魚先選「鮭、鯖、沙丁」3專家公開長壽菜單 每周必吃5物&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzB4SlBLQUdQY1ZWZXVQS1ZCbGk4c0Iyajl0MHJhZERwTEVQRzJtWjBhRnVxNS1JRndYOE80akFVYXRzQWJZdURfbEZuQ2RDTXdScHJEalZwSVc5anQ5My1WcWdJS1JQMWdhdjdTTVVFcjk2dGVfU2RGak1XUnVXdFFzc2NSM0EzYkpDMmlXSVpGQld4ZGhDbjFDM0lxWWZaNjEwRzVwQTVYMHM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tb3pMaHhVY1UtVktaRk5WRjZ5SGVDSGQyOVh6R3VseGhwN3NLcGNNMXhmMnhxYThBVUVsX0NfWktNZjc0eFlhTWR4UXdWcUN6ZGJnQ0F0RUpUdldQTXhYYQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1662,19 +1688,6 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5Y1gtUHdGWVhQNGJtX1kzZ2JESkFVdEFuNUFDVENvaGVua2R1cVBwQmJmRUZiRXpCaTRvQTRfOXVnSTNQQ0pVRS1JVldMbGhXRmhROXF1eHk4Sm52WnJsOXBn0gFnQVVfeXFMUGlNcmlCWUo2UHpPRjcwTklHTjA5OWVzSEVtcDdTZlVUR0pPdFhueklKRlkyOTdQdl9VVTB6eW05eHFVakUwOXFDWkRnY0FGVkdfWUptU0NlLVdXd3JiRnhSOXdFUWp1SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "83e641c44956",
-      "title": "年長者食慾減退 8原因恐得了這個病",
-      "published": "2026-10-16T14:15:03+00:00",
-      "summary": "年長者食慾減退 8原因恐得了這個病&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZalZNVGU1bExnd1cyaFJneEtjT010aEJ4cEJjeVRsYk41WFg0UXM1QVpsREtFWV9YZGRDVVg2Qm5yOVBIeVA3Zl9tTjl0cG9xT2hvbmpYc09KN1B4RGNnbkFB0gFnQVVfeXFMT0x2VUlXRWdJaXVhWkdYMWNsTlp5NGNCNlhKRnlXeUxpd2VQaWcxbzRCZFVVQlNtTS0tbkxLUmg5Z1B2NVp6TG1vVzM0RGlUamR2LTl5X3VwNXVjcS1TZHkteEFTM0JSaw?oc=5"
         }
       ],
       "matched_keywords": []
