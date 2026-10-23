@@ -1,17 +1,41 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-22T23:54:55.257170+00:00",
-  "count": 51,
+  "fetched_at": "2026-10-23T02:38:52.921236+00:00",
+  "count": 52,
   "news": [
     {
-      "id": "83ec248f016f",
-      "title": "國際｜法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治 - Yahoo 財經",
-      "published": "2026-10-22T23:00:29+00:00",
-      "summary": "國際｜法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治&nbsp;&nbsp;Yahoo 財經全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染「沙門達病毒」！法國患者證實身亡 專家這麼看&nbsp;&nbsp;NOWnews今日新聞法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台",
+      "id": "90a2eee637c0",
+      "title": "法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治 - Yahoo 財經",
+      "published": "2026-10-23T00:49:48+00:00",
+      "summary": "法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治&nbsp;&nbsp;Yahoo 財經法首現人類感染沙蒙達病毒 當局稱對大眾無風險&nbsp;&nbsp;Rti 中央廣播電臺全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染沙門達病毒！法國患者身亡 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOcWpucTg3eHppbHZtemR4UVhiUFJMR2ljZTJIVWVxYkZLdmZtUUJaRExkR0UzelcweVZ0WEpyT2NRaEtVTkFpc3JYckE2ckloYUhDeDVhbVRpa01CTmFaYUhoTjhDX21XOEhPZlVMQWhEVGtrRFZkUlFiTVV0V3hxUUVlWW9zLWF0OUpIaTRuNGhWSVVyVGNvdFNkREhqZlczakp2N2xSZGZZNGFneHNoVXBXcDdYbzMxMVBnMnlGVS1aSzU2RXEzUGtGZVRVRlVSN0RLVl9vNDVtRXp5TlVaQThWOVlST3F1WndIQ1pIeGhZdko5cVpWdDBKQnh5LWJKWHBRVGhOa2JKd1ducFRxUmJ5amVqZHdFRmQxVEcxaXhUalZJNGxnOWpwLWtGeHJvN2dOa0lYemZtZ3Z0dHkzRkpXYTI4d2ZuSHpMWUdxNXoweFhHelpORS1nTklsb21pNUFNTld2dWVSeDlDLWM3eVNfZ0t4VnN4b2FmUU92cHdXcGRTcnNUdnhtVUlXWUNGS3dxdUptenVscDBXNDY1Ym9JUkI?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPVU4xc3JTODlmUUF2b082UkZRSFhBd0dSRzdFeUR6YmM5VXFBZHAzeUNmZVpna01ibjVkQV9rZXJoaktKeWFrVlJnVF9BaXNFWll0OS1DNG50RzNkWndXeVZjeFppa1N4MV82V0pJZVYwbExqTjNrelVKRzNiWlI5dldXWWkzN2Y3eWNncGJLbzRjdkVqN0NrOHcySW1ndUJVNWI3Vk1nbHdJcy1Jcy1TQldEbmZFZHlUNnV0RFFVdEtBWVN1Q3pLdEc3NDRWdGhWMXM1d0JXSnFqa2tLV3VueXZlbFk3aFY4Q2JSUUI1RVhSLTE2bzI1YUQ4bWpWNUtoOHZkbUt1WUhmVi1DOXhXNzVRZWdJd01wenZDYXAwelVBdmpxRi02UFlNa2pzVzNvTkhGM0o1NEpNNnFhVktrRXhtMnBwUElpQjY1bjNYSkhjU0VldEdsT2t4TW5fLWVoeVZabGlCUVpuMHZVcFNqVmxVUkcxSUFVQ2RVZmhtRmlaQUNqUEhLd3ZBaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "21b7adfc7ef1",
+      "title": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 - TechNews 科技新報",
+      "published": "2026-10-23T02:23:13+00:00",
+      "summary": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGtKT1lZTWN4TWMtS09TR0pUcXhyQjYyQTNTNGtYTGpSUk1vcmJ4eElFVVNrWlRCS3B3X2hnWUJyaUg1ekQ3eUEtemFCWUR4ald0R0FLckFNVnRCYkZDUjBlMjA5THVzcUFlZE83TU53ejh6SGJwVDFvWGhJM0wxbDFFZ0hIREE1NWVj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d65ad9af26e5",
+      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化 - PChome Online 新聞",
+      "published": "2026-10-23T01:00:00+00:00",
+      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXRDaDA0bU9Ia0dLU0FaX0JzN2cxelMtVld1WWk1WDNpb0I2WVcxQ3d1OVhXM0dRTFdGZ2lqZVpncjhMTW4yQVhlR19ndnhldERmVE0zQmpTZ0xINTIwM1RWOXNNWFhaenVEUmItaU9uQU9uNE1ZZkhpMlZka0xmOUNSdllHclYzSTBqZVl0VjYxYVE?oc=5"
         }
       ]
     },
@@ -88,18 +112,6 @@
       ]
     },
     {
-      "id": "4c1fc405addb",
-      "title": "81歲哈佛教授公開「抗老一日菜單」！不吃低脂、靠這招護心- 營養好食 - TVBS 健康2.0",
-      "published": "2026-10-22T03:22:00+00:00",
-      "summary": "81歲哈佛教授公開「抗老一日菜單」！不吃低脂、靠這招護心- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Q3NfQ2xrRzRvQWVkeEZsVnp3dy1JY0N6TFRvRDVabWtuSHBUUFJqNG1YSGFrdUdGeHF4ZnZmaTJ4UkE0UXBwSzN3ZW5qcFVfZkp4elVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "30af67ad48ba",
       "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - 健康醫療網",
       "published": "2026-10-19T13:00:00+00:00",
@@ -108,6 +120,18 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4c1fc405addb",
+      "title": "81歲哈佛教授公開「抗老一日菜單」！不吃低脂、靠這招護心- 營養好食 - TVBS 健康2.0",
+      "published": "2026-10-22T03:22:00+00:00",
+      "summary": "81歲哈佛教授公開「抗老一日菜單」！不吃低脂、靠這招護心- 營養好食&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94Q3NfQ2xrRzRvQWVkeEZsVnp3dy1JY0N6TFRvRDVabWtuSHBUUFJqNG1YSGFrdUdGeHF4ZnZmaTJ4UkE0UXBwSzN3ZW5qcFVfZkp4elVB?oc=5"
         }
       ]
     },
@@ -220,18 +244,6 @@
       ]
     },
     {
-      "id": "0dfea9e7af16",
-      "title": "有片｜警惕！這五大癌症發病率最高！ - 香港商报",
-      "published": "2026-10-22T13:34:00+00:00",
-      "summary": "有片｜警惕！這五大癌症發病率最高！&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "031250b11fb5",
       "title": "交友軟體瘋灌「奶油泡芙」！3性病恐一網打盡　醫揭恐怖後果 - 鏡週刊Mirror Media",
       "published": "2026-10-17T09:28:00+00:00",
@@ -240,6 +252,18 @@
         {
           "name": "鏡週刊Mirror Media",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0NHBZeHFrcWtvTU1WbkFReE1GTjYzZnR1Z29PUGFFSkJSOUNHRmZJOHZrcjh1VUNWSlA2alBscFhRbTN2bWthR2tXNTgxVEcxZjk4LS04dDdfR0g2c2xYdHg1NNIBaEFVX3lxTE1uLVRrQ0tfOF9aSUEwNl9CTUdVWjluUXpTYXM1dmZ2d2hjamkxUzFZSldIYjM2cXJuTUcweFllQ0FJYTBDdW9ub1Z1d2FCZVB4RXNaRWFtamxObXpBRVlLeXZ5VzQwUTN4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0dfea9e7af16",
+      "title": "有片｜警惕！這五大癌症發病率最高！ - 香港商报",
+      "published": "2026-10-22T13:34:00+00:00",
+      "summary": "有片｜警惕！這五大癌症發病率最高！&nbsp;&nbsp;香港商报",
+      "sources": [
+        {
+          "name": "香港商报",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpSEttaEhzMllYMS11REoySzR3ZWwzQ0lsUFIzUkpWYWlqRzYxdWlpZ3F5X2dqYkNsTFMyWnZlZ0hobmwyVWpGdEZZaW10UUFPaEU0bkdMYlZnT3hTZGsxWmdXdDJ4T2JhRnozd2hySWdEYlVDelo0VnRldw?oc=5"
         }
       ]
     },
@@ -307,7 +331,7 @@
       "id": "af32a04a7131",
       "title": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視 - i-CABLE",
       "published": "2026-10-22T02:15:59+00:00",
-      "summary": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視&nbsp;&nbsp;i-CABLE香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
+      "summary": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視&nbsp;&nbsp;i-CABLE香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
           "name": "i-CABLE",
@@ -328,14 +352,14 @@
       ]
     },
     {
-      "id": "72f9fe78ac22",
+      "id": "c9f9ce2142e7",
       "title": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-22T19:00:50+00:00",
+      "published": "2026-10-22T20:01:04+00:00",
       "summary": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大小心病毒來襲！卑詩是全國流感疫情最多地區&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
           "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPLXVKWnRwZDctWkEwenRfZXZwQTU0QmZ3SVA3RkVyZ2dnUG1ReVY4WG9tQlo1YVA1aVBKdUw1azNTeUNYWUszUjBZQVBrZGhZek9MM0xGTmx3TFkwUWJzdDdwbGdPa3Y2ZVVTSnVMekdSM2phVXVEcm1Nek9ldERtYjJuODYyVU11c2lZeVdmUFQtYUoyLWZCdC1IQzB6M1hBb1cxblVhQmVRaXNEa3gwcUh6TWdPSTV2cHFIMG1JcUwySWFzLXJ3RTJBTUdUTHdfX1daMVNGTmhoZmN4Tzd5RU5XSFZZTEZnT1loYm9Id3d6djZhQ241ZWNrMGJ0eXJ2VDlkQ2JRVGhhWUNHeTlBOE92MEZoTTVUdGxadVlZS3k5eWpTTGt6RkhrTTlkb3Z0dmRNQU0zZHR5dFRTemtXWEFtVdIBjAFBVV95cUxNZWtmOGItUkgxT3phMFZxMzJRTTI1ZUJ0eTQyMVhXczV6QUp1Yk9pM2VjdDU4cTh1RHVCOGFkMnlXSVpBTjRuOV9PYXk2djE2MlZPZE9XV1VxYnNjdFVPNHk0T01HcXBsejU1cmlNRkdEMVk5U3RXczhBU2g5bUcxZkhLTWVtLVM3SDRJdg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPLXVKWnRwZDctWkEwenRfZXZwQTU0QmZ3SVA3RkVyZ2dnUG1ReVY4WG9tQlo1YVA1aVBKdUw1azNTeUNYWUszUjBZQVBrZGhZek9MM0xGTmx3TFkwUWJzdDdwbGdPa3Y2ZVVTSnVMekdSM2phVXVEcm1Nek9ldERtYjJuODYyVU11c2lZeVdmUFQtYUoyLWZCdC1IQzB6M1hBb1cxblVhQmVRaXNEa3gwcUh6TWdPSTV2cHFIMG1JcUwySWFzLXJ3RTJBTUdUTHdfX1daMVNGTmhoZmN4Tzd5RU5XSFZZTEZnT1loYm9Id3d6djZhQ241ZWNrMGJ0eXJ2VDlkQ2JRVGhhWUNHeTlBOE92MEZoTTVUdGxadVlZS3k5eWpTTGt6RkhrTTlkb3Z0dmRNQU0zZHR5dFRTemtXWEFtVdIBigFBVV95cUxPT0N1Vkt6X2U5RWRNeVdvU3JnQjRUbWxCc3pFSUpYZ3NvWXNzQ2lXOUl5bUZxMHlJYkVBbTBfNzRGTDc3cW5GTTI1VUhyYUR4Tmt5Rlc2YzZwTlhpTjZNc1FfZEdkWnhzWjFwZ3B3MWg0UHA0cTZUY1FpelpQeGtqdEQwZlp2XzNWZUE?oc=5"
         }
       ]
     },
@@ -352,18 +376,6 @@
       ]
     },
     {
-      "id": "641fce648bce",
-      "title": "幾內亞比紹警方突擊搜查疫苗研究辦公室 曾獲甘迺迪讚揚 - Singtaousa",
-      "published": "2026-10-21T06:00:00+00:00",
-      "summary": "幾內亞比紹警方突擊搜查疫苗研究辦公室 曾獲甘迺迪讚揚&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2lrOEJPNmhpeWNEbm4zNUs1NnlRU1dqR1BSekNLb2NrclN0dGY0dzRWYU5jZXpianZVdDMzTjkwSjVyY0NRRS1zNlZXZGRSaFdYWnloZC04bE5LRm83TE83Yl84Z3JtNTRyT2ItcDN6TnNsVktPMlJzb0NvWGVTRHBoUnRWYVJzS2MweV96eEUxQjgwSmx4YXpMcEtXMWVLYlhVRUttVERHS0F2RG1XaUhYQ0c4dHdiQmZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1491c0a2a227",
       "title": "身體從35歲開始走下坡路？科學家47年追蹤研究揭示體能衰退的起點 - 鉅亨號",
       "published": "2026-10-21T09:23:00+00:00",
@@ -372,6 +384,18 @@
         {
           "name": "鉅亨號",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LamQzMllKYVRzdVlucWNuZ0ZmSWNtMGVoRWEyWldlNlEwQ21vaVFpX0ljX3ZfWFlnYjdqVXdpd2J1TEtNNGFEZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "641fce648bce",
+      "title": "幾內亞比紹警方突擊搜查疫苗研究辦公室 曾獲甘迺迪讚揚 - Singtaousa",
+      "published": "2026-10-21T06:00:00+00:00",
+      "summary": "幾內亞比紹警方突擊搜查疫苗研究辦公室 曾獲甘迺迪讚揚&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ2lrOEJPNmhpeWNEbm4zNUs1NnlRU1dqR1BSekNLb2NrclN0dGY0dzRWYU5jZXpianZVdDMzTjkwSjVyY0NRRS1zNlZXZGRSaFdYWnloZC04bE5LRm83TE83Yl84Z3JtNTRyT2ItcDN6TnNsVktPMlJzb0NvWGVTRHBoUnRWYVJzS2MweV96eEUxQjgwSmx4YXpMcEtXMWVLYlhVRUttVERHS0F2RG1XaUhYQ0c4dHdiQmZB?oc=5"
         }
       ]
     },
@@ -408,30 +432,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOOHFqQ09YTXJRUEYwci1TRmo5NU8zQnNOMkNldGhna2MwTFJRM09mamZhQ2NJTWZOMjJ3aUhyRzFVNF9QSndIaHJkMll0VG9xUTNWVkY4eWpRMFNmOE10elNQNzF5UF9KQzFwamg4NGtCd3ExeEpzWENRWGZ2cWxOaDIzUHhUNjRIZlZGaWJ2TFQ0ak9Td2VEb3FvN0xqQ1R2RnQtVU5aMWRlbGlCVm5aaWJZM3ZwcWxWUHB6ODZIUExHNlhUV2FBaTFvQjBWc25iNFc0YUdqQW5xS3FOZDFpWlVFbldheG9ENGp5ajFFdFMxVWtOU19XV3VaNTlsd2l2VnZSb1ZPVVdWVGJVM2FuRzRlMkRwQlNqa21sLTRjNFhmSldYby1rTzZ4X1R4Z3JGR2JLN2Z2d2FhMmkwaTY4Y2M4RkZYYXhlVUNwc25qTkJ5WENPeXdGSUZfbkdKQ1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32d64f4a8b6b",
-      "title": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一 - 香港經濟日報HKET",
-      "published": "2026-10-21T02:00:00+00:00",
-      "summary": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzB4SlBLQUdQY1ZWZXVQS1ZCbGk4c0Iyajl0MHJhZERwTEVQRzJtWjBhRnVxNS1JRndYOE80akFVYXRzQWJZdURfbEZuQ2RDTXdScHJEalZwSVc5anQ5My1WcWdJS1JQMWdhdjdTTVVFcjk2dGVfU2RGak1XUnVXdFFzc2NSM0EzYkpDMmlXSVpGQld4ZGhDbjFDM0lxWWZaNjEwRzVwQTVYMHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a46d036fdb54",
-      "title": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向 - 香港經濟日報HKET",
-      "published": "2026-10-21T02:08:50+00:00",
-      "summary": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNa1lqeWw3ai1ZbEM3RDY1MG0xV0FULWc5XzJpUkd4cnlQMVFnalp3ZWpRdXQ0bHd0Nk1jYUdyWUJFU05oZlNNR2xieDB6S1d6Rm1uTFhuWUVWTGJqTk9NVFBSektacHM0MFZtWkx6VlNuWTE2TzA4Q25SYW9mOEpmRjlSTnFxSGVMVHFSUWc5ZUNSU216czhYVGw1MlktaEsyOFJSc05DZmVfSHhfYThiOW5hRTFSOGZnajY2d21HZ0FIY1FkcTVqSnJRQjFfNzdRdUhEaDRKMkxLRlZLTE1oVV9FNDhUaFlEU0xVV0U3c0FPZ01BcXl1aHlDTVc4MEdvdzVkMXJsbzk3Y2lBU1BVUjlJVHh1cnIyUklQcFp6QWQzZVVrNVhUQ3VuMFJ2OEZtYjk0ZFpHSE9LaURiWm5SenJyZHBYbDd4Q2tneW1IQzdic00yMHJieE41M09nTE5MUjN6X25DRVVCaGxhNUFtb0M4WmNjdEo1ckZhZ2tadzIySlJaSWh3R2hpWi1jdnk0NVJxRWpGM1dzUmFGQ0ZfN2Nvaw?oc=5"
         }
       ]
     },
@@ -508,18 +508,6 @@
       ]
     },
     {
-      "id": "5c7c931af401",
-      "title": "醫語怡情｜家中不可忽視的兒童中毒風險 - 香港經濟日報HKET",
-      "published": "2026-10-15T23:00:00+00:00",
-      "summary": "醫語怡情｜家中不可忽視的兒童中毒風險&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc25KM2NKS2NsdE1KakV3ZzZFY2VBWlFGWmkzVlg2VjR0bzE5Z1dYSUFGSWVUYUgwOVlFXy1leWFoVHphWXZraUdXS1FlUnJ5U1N2SE5tSGZtU2EyVllYSzY3Xy1sam15aGxHZm9oQWwzRkpucHVSOEhlcGp6Qy0tOFRJelc0X295c0pjdjBqQi1UTWkzV0dUcW1rMkViRmtnRjNhckU3SGlIclRDeW96QlZyQVJ6SWg0dkhTUTJ0UjBUcklJSmZwN1FQMHhDd1c4Y2lvUEMtQk9EaHQ0X2tNQ2RsM1hPTXJ2c01iWllpcTBTc3cxcEJ2SllHWG5pQXpkOW9YclNxUjFnd0hzbHJMd1ZkY1ZnRVQ5MDNPd0tyOVM1OUpWYUVOSHJR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c2d35d413037",
       "title": "以為是天然物質就健康 這種代糖增加心臟病及中風風險 - 世界新聞網",
       "published": "2026-10-20T02:27:55+00:00",
@@ -580,6 +568,18 @@
       ]
     },
     {
+      "id": "32d64f4a8b6b",
+      "title": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一 - 香港經濟日報HKET",
+      "published": "2026-10-21T02:00:00+00:00",
+      "summary": "長壽未必是負擔？最新研究顛覆認知︰人類壽命增2.4年 虛弱期反縮短三分之一&nbsp;&nbsp;香港經濟日報HKET前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzB4SlBLQUdQY1ZWZXVQS1ZCbGk4c0Iyajl0MHJhZERwTEVQRzJtWjBhRnVxNS1JRndYOE80akFVYXRzQWJZdURfbEZuQ2RDTXdScHJEalZwSVc5anQ5My1WcWdJS1JQMWdhdjdTTVVFcjk2dGVfU2RGak1XUnVXdFFzc2NSM0EzYkpDMmlXSVpGQld4ZGhDbjFDM0lxWWZaNjEwRzVwQTVYMHM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c84105f915bc",
       "title": "駝背改善｜長者駝背4危害釀肺炎 死亡風險增2倍！4大營養素防老化 - 香港01",
       "published": "2026-10-17T01:00:00+00:00",
@@ -600,6 +600,18 @@
         {
           "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNN3E3TVk1UmQzc1BmTkoyQkdheGcwQ21NblBxbEYwNENLSWE2RmUzZU5OUGFoc0wwOV9JeXNJUXFGMk9VLThRVndnVHQ2eHNia0wtMDJXM2o1NzZFNTlfUGZqSGxyZmlIM3pZRVhkNW1lMXY4SUZ0V2RKYUVaVUFVLTdySjJJZkJYTC1welp6NnFXdkQxQkpZN2d5ZVh5Mi1wR29pVWFtZk1ZOVhiU1UxR2NZaWVNc2JVR3o0SEM3SEMyNzNrU21nSG1jblEtczJSVkhJdjBoVi1XaUQycjdjb2NwX1k1ZGQ5WDBtbW05Um1uc0FCcW5LWWxtWG9FX2ZrSXBhWjZmcjdkZzlWajJDQVJUQTVsVG8yekFKQjE5M25rT0w4WnhwSGkwS2VyMkwybk5VTEVFZUdtMjg4MmNNXy0tQ3FBUzJGaEoyaF9NQWZJRkxLZTl1dlg2YzJ5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a46d036fdb54",
+      "title": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向 - 香港經濟日報HKET",
+      "published": "2026-10-21T02:08:50+00:00",
+      "summary": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNa1lqeWw3ai1ZbEM3RDY1MG0xV0FULWc5XzJpUkd4cnlQMVFnalp3ZWpRdXQ0bHd0Nk1jYUdyWUJFU05oZlNNR2xieDB6S1d6Rm1uTFhuWUVWTGJqTk9NVFBSektacHM0MFZtWkx6VlNuWTE2TzA4Q25SYW9mOEpmRjlSTnFxSGVMVHFSUWc5ZUNSU216czhYVGw1MlktaEsyOFJSc05DZmVfSHhfYThiOW5hRTFSOGZnajY2d21HZ0FIY1FkcTVqSnJRQjFfNzdRdUhEaDRKMkxLRlZLTE1oVV9FNDhUaFlEU0xVV0U3c0FPZ01BcXl1aHlDTVc4MEdvdzVkMXJsbzk3Y2lBU1BVUjlJVHh1cnIyUklQcFp6QWQzZVVrNVhUQ3VuMFJ2OEZtYjk0ZFpHSE9LaURiWm5SenJyZHBYbDd4Q2tneW1IQzdic00yMHJieE41M09nTE5MUjN6X25DRVVCaGxhNUFtb0M4WmNjdEo1ckZhZ2tadzIySlJaSWh3R2hpWi1jdnk0NVJxRWpGM1dzUmFGQ0ZfN2Nvaw?oc=5"
         }
       ]
     },

@@ -1,30 +1,56 @@
 {
-  "last_updated": "2026-10-22T23:54:56.894734+00:00",
-  "total_count": 51,
+  "last_updated": "2026-10-23T02:38:55.095079+00:00",
+  "total_count": 52,
   "matched_count": 12,
   "news": [
     {
-      "id": "83ec248f016f",
-      "title": "國際｜法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治 - Yahoo 財經",
-      "published": "2026-10-22T23:00:29+00:00",
-      "summary": "國際｜法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治&nbsp;&nbsp;Yahoo 財經全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染「沙門達病毒」！法國患者證實身亡 專家這麼看&nbsp;&nbsp;NOWnews今日新聞法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台",
+      "id": "21b7adfc7ef1",
+      "title": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 - TechNews 科技新報",
+      "published": "2026-10-23T02:23:13+00:00",
+      "summary": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxOcWpucTg3eHppbHZtemR4UVhiUFJMR2ljZTJIVWVxYkZLdmZtUUJaRExkR0UzelcweVZ0WEpyT2NRaEtVTkFpc3JYckE2ckloYUhDeDVhbVRpa01CTmFaYUhoTjhDX21XOEhPZlVMQWhEVGtrRFZkUlFiTVV0V3hxUUVlWW9zLWF0OUpIaTRuNGhWSVVyVGNvdFNkREhqZlczakp2N2xSZGZZNGFneHNoVXBXcDdYbzMxMVBnMnlGVS1aSzU2RXEzUGtGZVRVRlVSN0RLVl9vNDVtRXp5TlVaQThWOVlST3F1WndIQ1pIeGhZdko5cVpWdDBKQnh5LWJKWHBRVGhOa2JKd1ducFRxUmJ5amVqZHdFRmQxVEcxaXhUalZJNGxnOWpwLWtGeHJvN2dOa0lYemZtZ3Z0dHkzRkpXYTI4d2ZuSHpMWUdxNXoweFhHelpORS1nTklsb21pNUFNTld2dWVSeDlDLWM3eVNfZ0t4VnN4b2FmUU92cHdXcGRTcnNUdnhtVUlXWUNGS3dxdUptenVscDBXNDY1Ym9JUkI?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGtKT1lZTWN4TWMtS09TR0pUcXhyQjYyQTNTNGtYTGpSUk1vcmJ4eElFVVNrWlRCS3B3X2hnWUJyaUg1ekQ3eUEtemFCWUR4ald0R0FLckFNVnRCYkZDUjBlMjA5THVzcUFlZE83TU53ejh6SGJwVDFvWGhJM0wxbDFFZ0hIREE1NWVj?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "72f9fe78ac22",
+      "id": "d65ad9af26e5",
+      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化 - PChome Online 新聞",
+      "published": "2026-10-23T01:00:00+00:00",
+      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXRDaDA0bU9Ia0dLU0FaX0JzN2cxelMtVld1WWk1WDNpb0I2WVcxQ3d1OVhXM0dRTFdGZ2lqZVpncjhMTW4yQVhlR19ndnhldERmVE0zQmpTZ0xINTIwM1RWOXNNWFhaenVEUmItaU9uQU9uNE1ZZkhpMlZka0xmOUNSdllHclYzSTBqZVl0VjYxYVE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "90a2eee637c0",
+      "title": "法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治 - Yahoo 財經",
+      "published": "2026-10-23T00:49:48+00:00",
+      "summary": "法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治&nbsp;&nbsp;Yahoo 財經法首現人類感染沙蒙達病毒 當局稱對大眾無風險&nbsp;&nbsp;Rti 中央廣播電臺全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染沙門達病毒！法國患者身亡 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPVU4xc3JTODlmUUF2b082UkZRSFhBd0dSRzdFeUR6YmM5VXFBZHAzeUNmZVpna01ibjVkQV9rZXJoaktKeWFrVlJnVF9BaXNFWll0OS1DNG50RzNkWndXeVZjeFppa1N4MV82V0pJZVYwbExqTjNrelVKRzNiWlI5dldXWWkzN2Y3eWNncGJLbzRjdkVqN0NrOHcySW1ndUJVNWI3Vk1nbHdJcy1Jcy1TQldEbmZFZHlUNnV0RFFVdEtBWVN1Q3pLdEc3NDRWdGhWMXM1d0JXSnFqa2tLV3VueXZlbFk3aFY4Q2JSUUI1RVhSLTE2bzI1YUQ4bWpWNUtoOHZkbUt1WUhmVi1DOXhXNzVRZWdJd01wenZDYXAwelVBdmpxRi02UFlNa2pzVzNvTkhGM0o1NEpNNnFhVktrRXhtMnBwUElpQjY1bjNYSkhjU0VldEdsT2t4TW5fLWVoeVZabGlCUVpuMHZVcFNqVmxVUkcxSUFVQ2RVZmhtRmlaQUNqUEhLd3ZBaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c9f9ce2142e7",
       "title": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-22T19:00:50+00:00",
+      "published": "2026-10-22T20:01:04+00:00",
       "summary": "H1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大小心病毒來襲！卑詩是全國流感疫情最多地區&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
           "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPLXVKWnRwZDctWkEwenRfZXZwQTU0QmZ3SVA3RkVyZ2dnUG1ReVY4WG9tQlo1YVA1aVBKdUw1azNTeUNYWUszUjBZQVBrZGhZek9MM0xGTmx3TFkwUWJzdDdwbGdPa3Y2ZVVTSnVMekdSM2phVXVEcm1Nek9ldERtYjJuODYyVU11c2lZeVdmUFQtYUoyLWZCdC1IQzB6M1hBb1cxblVhQmVRaXNEa3gwcUh6TWdPSTV2cHFIMG1JcUwySWFzLXJ3RTJBTUdUTHdfX1daMVNGTmhoZmN4Tzd5RU5XSFZZTEZnT1loYm9Id3d6djZhQ241ZWNrMGJ0eXJ2VDlkQ2JRVGhhWUNHeTlBOE92MEZoTTVUdGxadVlZS3k5eWpTTGt6RkhrTTlkb3Z0dmRNQU0zZHR5dFRTemtXWEFtVdIBjAFBVV95cUxNZWtmOGItUkgxT3phMFZxMzJRTTI1ZUJ0eTQyMVhXczV6QUp1Yk9pM2VjdDU4cTh1RHVCOGFkMnlXSVpBTjRuOV9PYXk2djE2MlZPZE9XV1VxYnNjdFVPNHk0T01HcXBsejU1cmlNRkdEMVk5U3RXczhBU2g5bUcxZkhLTWVtLVM3SDRJdg?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPLXVKWnRwZDctWkEwenRfZXZwQTU0QmZ3SVA3RkVyZ2dnUG1ReVY4WG9tQlo1YVA1aVBKdUw1azNTeUNYWUszUjBZQVBrZGhZek9MM0xGTmx3TFkwUWJzdDdwbGdPa3Y2ZVVTSnVMekdSM2phVXVEcm1Nek9ldERtYjJuODYyVU11c2lZeVdmUFQtYUoyLWZCdC1IQzB6M1hBb1cxblVhQmVRaXNEa3gwcUh6TWdPSTV2cHFIMG1JcUwySWFzLXJ3RTJBTUdUTHdfX1daMVNGTmhoZmN4Tzd5RU5XSFZZTEZnT1loYm9Id3d6djZhQ241ZWNrMGJ0eXJ2VDlkQ2JRVGhhWUNHeTlBOE92MEZoTTVUdGxadVlZS3k5eWpTTGt6RkhrTTlkb3Z0dmRNQU0zZHR5dFRTemtXWEFtVdIBigFBVV95cUxPT0N1Vkt6X2U5RWRNeVdvU3JnQjRUbWxCc3pFSUpYZ3NvWXNzQ2lXOUl5bUZxMHlJYkVBbTBfNzRGTDc3cW5GTTI1VUhyYUR4Tmt5Rlc2YzZwTlhpTjZNc1FfZEdkWnhzWjFwZ3B3MWg0UHA0cTZUY1FpelpQeGtqdEQwZlp2XzNWZUE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -467,7 +493,7 @@
       "id": "af32a04a7131",
       "title": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視",
       "published": "2026-10-22T02:15:59+00:00",
-      "summary": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視&nbsp;&nbsp;i-CABLE香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
+      "summary": "流感｜12歲女童併發敗血性休克亡 徐樂堅料今年夏季流感季節將更長籲勿輕視&nbsp;&nbsp;i-CABLE香港流感季 12歲女童感染甲流3天後去世&nbsp;&nbsp;大紀元流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
           "name": "i-CABLE",
@@ -1425,19 +1451,6 @@
         {
           "name": "明日科學",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxMjkyUW5jbUNtR3FlWTJJTV9ob1Zod3lKWmRmZ3NTNVRpMTRjRENxSU5mOWFCSzZxM3EySlpyTlF3Ui1OSVh1Q3JFck13RHRFWjI5SEdTUDdJRG9QMFZF?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5c7c931af401",
-      "title": "醫語怡情｜家中不可忽視的兒童中毒風險",
-      "published": "2026-10-15T23:00:00+00:00",
-      "summary": "醫語怡情｜家中不可忽視的兒童中毒風險&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQc25KM2NKS2NsdE1KakV3ZzZFY2VBWlFGWmkzVlg2VjR0bzE5Z1dYSUFGSWVUYUgwOVlFXy1leWFoVHphWXZraUdXS1FlUnJ5U1N2SE5tSGZtU2EyVllYSzY3Xy1sam15aGxHZm9oQWwzRkpucHVSOEhlcGp6Qy0tOFRJelc0X295c0pjdjBqQi1UTWkzV0dUcW1rMkViRmtnRjNhckU3SGlIclRDeW96QlZyQVJ6SWg0dkhTUTJ0UjBUcklJSmZwN1FQMHhDd1c4Y2lvUEMtQk9EaHQ0X2tNQ2RsM1hPTXJ2c01iWllpcTBTc3cxcEJ2SllHWG5pQXpkOW9YclNxUjFnd0hzbHJMd1ZkY1ZnRVQ5MDNPd0tyOVM1OUpWYUVOSHJR?oc=5"
         }
       ],
       "matched_keywords": []
