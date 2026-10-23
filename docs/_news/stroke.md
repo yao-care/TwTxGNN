@@ -3,7 +3,7 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/stroke/
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ permalink: /news/stroke/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [大病前的預警！臉冒9變化小心了恐糖尿病、中風前兆- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE54dUhBR1RNSWRoSnVlMUwtUS1HeUpJNms5Slo1NVllRGV3MTFGaU03d2pEb2VRM29aQ2hNcHpweDBpbVlOdGwyQUg3YUEyZXRIR0JNc3JYWFpVV1RpV0VEUHhNOFF6eUN1U2pKeGRB?oc=5)
-
-2026-10-21
-
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE54dUhBR1RNSWRoSnVlMUwtUS1HeUpJNms5Slo1NVllRGV3MTFGaU03d2pEb2VRM29aQ2hNcHpweDBpbVlOdGwyQUg3YUEyZXRIR0JNc3JYWFpVV1RpV0VEUHhNOFF6eUN1U2pKeGRB?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 
