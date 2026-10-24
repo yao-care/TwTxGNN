@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T17:43:29.082667+00:00",
+  "last_updated": "2026-10-24T19:59:51.882665+00:00",
   "total_count": 48,
   "matched_count": 13,
   "news": [
@@ -67,6 +67,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "58c6ab8e7f1d",
+      "title": "全美流感住院率創16年同期新高",
+      "published": "2026-10-24T14:00:00+00:00",
+      "summary": "全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa豬流感捲土重來！美國爆疫與2009年病毒株相同 曾釀六千萬人染病 一類人高危 接種疫苗預約方法+地點&nbsp;&nbsp;myTV SUPERH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingView華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "9e06133a01d0",
@@ -455,19 +468,6 @@
       ]
     },
     {
-      "id": "395ea44388a5",
-      "title": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例",
-      "published": "2026-10-23T14:54:31+00:00",
-      "summary": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例&nbsp;&nbsp;KTSF.com豬流感捲土重來！美國爆疫與2009年病毒株相同 曾釀六千萬人染病 一類人高危 接種疫苗預約方法+地點&nbsp;&nbsp;myTV SUPER全美流感住院率創16年同期新高&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingView",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10OGJPMDNHbzc1WENYdXA2cThXaGNRdlZiMHRaQUJtb2s5NkZZd1dfTUZ0Z0dIZ3NucjBFZE5raGhVNzZ3QVota2JhTEhKYjdzMWZfWGdNM0lCN3FYSXlzSW9TOXBMOUN6UEFBVWxveFRKZHFQZUg2Zg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0267f22edecb",
       "title": "23吋螞蟻腰搶鏡！36歲張曦雯公開4招身材管理 靠1方法練成雪白靚背",
       "published": "2026-10-23T09:00:10+00:00",
@@ -509,7 +509,7 @@
     {
       "id": "e82799e5d0d4",
       "title": "1023國際XLH日！病友呼籲全生命照護",
-      "published": "2026-10-23T05:10:34+00:00",
+      "published": "2026-10-23T05:00:00+00:00",
       "summary": "1023國際XLH日！病友呼籲全生命照護&nbsp;&nbsp;Yahoo新聞一天走不到300步、下排牙齒只剩4顆！XLH病友盼終身照護不中斷&nbsp;&nbsp;壹蘋新聞網一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報",
       "sources": [
         {
@@ -1763,14 +1763,14 @@
       ]
     },
     {
-      "id": "4fc457f5c9d1",
+      "id": "b3abd70cbd65",
       "title": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情",
       "published": "2026-10-19T06:31:00+00:00",
       "summary": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSjU2aG1iZVJWODZNckNVNG95STFVeFBGbUJ6RTdGWkNhY3p1a0JVbTNsbkNIUVZJYmpHeVBVNEV6SXJDeXFEbzFiQ0p0QVlqRjk4dzlUNUh6d0VEbWtha2x6eFpsb3NQaFl6RkFYTWJ6WkZGRUw4VkdqT2dCVmc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOS3QxZU1CUk9EOUVPb2RtN1N6amk3YVkwQ2NlV212aUFxZW01SkZWX1pUUVZnclliUnZ3LXFmLWp2TFUwNE1RYmRELTZFU1NBNURrTXpvZndndGJNdWw2MDZ5YWJvU0ZyT3gybnpjdk1qQ1dnM2Rqa1hSVQ?oc=5"
         }
       ],
       "matched_keywords": []
