@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -47,7 +47,15 @@ permalink: /news/gefitinib/
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [魚油DHA防失智？美國南加大最新臨床試驗打臉- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6YXhTN0llaHFkdDcybUFJNXhIN2ZObmZvNFo0V1h6WExYV202MVlLdm9kNVA1QTNDNHcydExmWm5ZQ19WSUpidEc4N3k2VlM5cjU2OTMwUEd3YmdydFVV?oc=5)
+
+2026-10-24 <span class="news-indication-tag">失智</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6YXhTN0llaHFkdDcybUFJNXhIN2ZObmZvNFo0V1h6WExYV202MVlLdm9kNVA1QTNDNHcydExmWm5ZQ19WSUpidEc4N3k2VlM5cjU2OTMwUEd3YmdydFVV?oc=5)
+
+---
 
 ### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% - TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5)
 

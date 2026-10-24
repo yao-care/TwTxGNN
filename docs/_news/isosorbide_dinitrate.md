@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5)
+
+2026-10-24 <span class="news-indication-tag">心血管</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5)
+
+---
 
 ### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 

@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-10-24T14:09:56.262322+00:00",
-  "total_count": 47,
-  "matched_count": 12,
+  "last_updated": "2026-10-24T17:43:29.082667+00:00",
+  "total_count": 48,
+  "matched_count": 13,
   "news": [
+    {
+      "id": "423282f28620",
+      "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
+      "published": "2026-10-24T16:01:31+00:00",
+      "summary": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9c10967392b0",
+      "title": "肌肉內也有脂肪，累積過多可能影響健康 | 科技新報 - LINE TODAY",
+      "published": "2026-10-24T15:31:05+00:00",
+      "summary": "肌肉內也有脂肪，累積過多可能影響健康 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfdDVOWnBZZDBHVC0zaTE5M1RncVdoRUZxSHFyM0VnSjY0UFNUWFNncHpfOERSZGNTckJndW5JbW1HSXhfdXRzVEpkcDloMVk5dDN5OFV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "54aa0ab77146",
+      "title": "魚油DHA防失智？美國南加大最新臨床試驗打臉- 國際",
+      "published": "2026-10-24T14:36:00+00:00",
+      "summary": "魚油DHA防失智？美國南加大最新臨床試驗打臉- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6YXhTN0llaHFkdDcybUFJNXhIN2ZObmZvNFo0V1h6WExYV202MVlLdm9kNVA1QTNDNHcydExmWm5ZQ19WSUpidEc4N3k2VlM5cjU2OTMwUEd3YmdydFVV?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9e06133a01d0",
       "title": "健康網》讓精子更健康 網紅醫：泡溫泉有影響",
@@ -17,22 +82,9 @@
       "matched_keywords": []
     },
     {
-      "id": "c8df3b202a33",
-      "title": "AI 設計噬菌體首度用於人體 對付耐藥菌感染",
-      "published": "2026-10-24T09:30:00+00:00",
-      "summary": "AI 設計噬菌體首度用於人體 對付耐藥菌感染&nbsp;&nbsp;Techapple.com",
-      "sources": [
-        {
-          "name": "Techapple.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00T0lodUYxQmgyczRyZE1xNERqWjV4MXlUVnI2c3BVSlVkRGpLaHIxblVBTVFhMmhVNHBKYXpneWVMNkFack9qdl8yelY?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "803819c21ca7",
       "title": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化 - Women's Health",
-      "published": "2026-10-24T09:20:34+00:00",
+      "published": "2026-10-24T12:49:45+00:00",
       "summary": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化&nbsp;&nbsp;Women's Health",
       "sources": [
         {
@@ -43,14 +95,14 @@
       "matched_keywords": []
     },
     {
-      "id": "5bb2019e3c03",
-      "title": "肌肉內也有脂肪，累積過多可能影響健康 - TechNews 科技新報",
-      "published": "2026-10-24T07:31:31+00:00",
-      "summary": "肌肉內也有脂肪，累積過多可能影響健康&nbsp;&nbsp;TechNews 科技新報",
+      "id": "c8df3b202a33",
+      "title": "AI 設計噬菌體首度用於人體 對付耐藥菌感染",
+      "published": "2026-10-24T09:30:00+00:00",
+      "summary": "AI 設計噬菌體首度用於人體 對付耐藥菌感染&nbsp;&nbsp;Techapple.com",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CQVVqczlGNUgwN2k2M3V5VmVFQW9kcE5Vd0N2bzZxNklBU0tPRExzN0tFSWVNN0lZaVpiSTUwbUdjY2JaaGNDWUxFWXpXeEU5bjdYU1QteWdKdGFzclZUR2F3VXZsREIxNnhzMTRpbWllYUlwN3p6ekJJRHM?oc=5"
+          "name": "Techapple.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00T0lodUYxQmgyczRyZE1xNERqWjV4MXlUVnI2c3BVSlVkRGpLaHIxblVBTVFhMmhVNHBKYXpneWVMNkFack9qdl8yelY?oc=5"
         }
       ],
       "matched_keywords": []
@@ -406,7 +458,7 @@
       "id": "395ea44388a5",
       "title": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例",
       "published": "2026-10-23T14:54:31+00:00",
-      "summary": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例&nbsp;&nbsp;KTSF.com美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingViewH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元",
+      "summary": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例&nbsp;&nbsp;KTSF.com豬流感捲土重來！美國爆疫與2009年病毒株相同 曾釀六千萬人染病 一類人高危 接種疫苗預約方法+地點&nbsp;&nbsp;myTV SUPER全美流感住院率創16年同期新高&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingView",
       "sources": [
         {
           "name": "KTSF.com",
@@ -458,7 +510,7 @@
       "id": "e82799e5d0d4",
       "title": "1023國際XLH日！病友呼籲全生命照護",
       "published": "2026-10-23T05:10:34+00:00",
-      "summary": "1023國際XLH日！病友呼籲全生命照護&nbsp;&nbsp;Yahoo新聞一天走不到300步、下排牙齒只剩4顆！XLH病友盼終身照護不中斷&nbsp;&nbsp;壹蘋新聞網一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網跨世代罕病XLH病友與醫界籲跨專科照護銜接兒童至成人需要- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "1023國際XLH日！病友呼籲全生命照護&nbsp;&nbsp;Yahoo新聞一天走不到300步、下排牙齒只剩4顆！XLH病友盼終身照護不中斷&nbsp;&nbsp;壹蘋新聞網一日走不到300步、牙齒剩4顆！她罹罕病半生許下唯一心願&nbsp;&nbsp;中時新聞網一天走不到300步、牙齒僅剩4顆 XLH病友盼跨越成年照護斷層&nbsp;&nbsp;健康醫療網日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -479,32 +531,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "26f0f78ee404",
-      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - UHK 港生活",
-      "published": "2026-10-22T16:00:00+00:00",
-      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxPZ2JwemRkN0NCY0RtUUN6MTVwclZRd2doNHFfNGw3bGJOc1ZiaTRueTlNTkk5UDU1dTFIVVhwSkd1am44eF9QVTlGX0RLYm5yYTh5b0pza0M2NkxJY1FCSk9XbUJxRm94X1pWbXE1R3JPWHM0MENjMGhWT1dCS1BvVDliTmFhaWFkNWJ2U1NVemQ5SmdSdkRGRnppQ0x4Y2JiRnZLRFZfN2FhbHB3X2VhYmluYks5VHJDOG5MeWJPdURHTXMyRlJSd3lfbXhIQW5mU29GM2RTblZTTzZ3eWtoQm5yQzYtZWpqZXZIQzJYdU1iN00tQWtGcGROZ01zc0ROTmhSYnEtQnM1SzBqSHFBUUdGeHZiYTRWY1JydDl0Ny1vU1ZpT09VTU8wWkhOMHVxMDc1Y21yMjNEM1l2eGtBcjFzcEVSUkNUQmVJaGVSVmlGWWlacVlWTEQ3ZlVrU09hVFh6V19XZW5wdktTRlljZ3JGYkZBaEFVRjRSOEVTY3FzNkpzS1dIX0FLMWt0QzI5VFZPZWx0X0hwcVl3RlRPVW54Q2lCZWlhOFhOd1RGRjJETHJS?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol",
-              "url": "/drugs/carisoprodol/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "6b14b8bcfe9d",
@@ -763,36 +789,26 @@
       ]
     },
     {
-      "id": "c651f2f3a646",
-      "title": "肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意 - etnet 經濟通",
-      "published": "2026-10-22T10:31:57+00:00",
-      "summary": "肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意&nbsp;&nbsp;etnet 經濟通",
+      "id": "f0171e6d4e87",
+      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」",
+      "published": "2026-10-22T08:32:45+00:00",
+      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
       "sources": [
         {
-          "name": "etnet 經濟通",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5"
+          "name": "healthyD",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
+          "name": "肌炎",
+          "keyword": "肌炎",
           "related_drugs": [
             {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
+              "slug": "carisoprodol",
+              "name": "Carisoprodol",
+              "url": "/drugs/carisoprodol/"
             }
           ]
         }
@@ -1747,14 +1763,14 @@
       ]
     },
     {
-      "id": "b3abd70cbd65",
+      "id": "4fc457f5c9d1",
       "title": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情",
       "published": "2026-10-19T06:31:00+00:00",
       "summary": "「不少病例未通報」紐約州麻疹累計126例 地方官員憂低估疫情&nbsp;&nbsp;UDN前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOS3QxZU1CUk9EOUVPb2RtN1N6amk3YVkwQ2NlV212aUFxZW01SkZWX1pUUVZnclliUnZ3LXFmLWp2TFUwNE1RYmRELTZFU1NBNURrTXpvZndndGJNdWw2MDZ5YWJvU0ZyT3gybnpjdk1qQ1dnM2Rqa1hSVQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSjU2aG1iZVJWODZNckNVNG95STFVeFBGbUJ6RTdGWkNhY3p1a0JVbTNsbkNIUVZJYmpHeVBVNEV6SXJDeXFEbzFiQ0p0QVlqRjk4dzlUNUh6d0VEbWtha2x6eFpsb3NQaFl6RkFYTWJ6WkZGRUw4VkdqT2dCVmc?oc=5"
         }
       ],
       "matched_keywords": []

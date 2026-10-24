@@ -3,7 +3,7 @@ layout: default
 title: "肺癌 (small cell lung carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
+description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。1 則新聞、3 個相關藥物。"
 permalink: /news/small-cell-lung-carcinoma/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/small-cell-lung-carcinoma/
 ---
 
 <p class="key-answer" data-question="肺癌 (small cell lung carcinoma) 有什麼相關新聞？">
-<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
+<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>1 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,15 +31,7 @@ permalink: /news/small-cell-lung-carcinoma/
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [肺癌｜唔食煙都會中招？近半肺癌患者從未吸煙，家族史與煮食油煙要留意 - etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5)
-
-2026-10-22
-
-來源: [etnet 經濟通](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRGJ0ZUVLVUJSekJvZ2J2THZkVkZETFFlWHdZVDAyVnRDaDJVOGNVclp0enVSeFF3U1I3X1VzZ0N4Y2VMd1Y3dm9saUhkN3FFd0J2LTd1SFI?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [中國癌症排名大洗牌｜甲狀腺癌躍升發病第3位 肺癌仍奪命之冠 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMiowNBVV95cUxNVTItR29leS1jUVMxVWtNRTR3Tnlfem5aOEZrY3lWOE0yMVM1OTBGejNwYzhRNkMxUG5KcnRTMUtfS1dMeU9RZkpPamxlaVhQdGhidGQxaUpXd1EyTDVfc1cwaEw1VXhnRWlNRFZSQU9uQnloT0hPTno5aktPLUdPS2FUdW1GQjFjNGpFT1Zxcjdnbmg4d3pTMDhHSVpHY0VDdEJoN3czSENnTURzOVlqTlJPcnNwUTVETXlRalIxSGp4TGZXeXdCejZBS0J5U1FJaFJGMTBGNzVVZTJlWm1fOHBzRUc3VF80d1NUWE1JdU9sUzBUbFlpVkdJSVgwbWJ0ZFp2bUNiYU1ScDhxMXpkcE9QazF5MEFQQWFsWUV2TUUzeXlRNjh2b3RJX004bEcwYkNMeFptS0F6cW1hUU5xSEhHY1U0MXJ2eS1JTlNFamdzMnZ0MTZGTmQ0OElfWG81SkU0a3BXNDhXMjk2S3piN1otMmJVUXo3b1VTZVdNUVlieFhXeVZGX21qVUxlZ01IcU5Xc2JOM0ljdlFBN0ZmQTdIMNIBigFBVV95cUxQTkt5TFdtY2cwdWJxRjhydTZmdGlGUDBBSGV6UEZLanh4YzRpZUg3cHdsUFlyOHpHOHM5SW9uLTNYcUlpRWg5WGx5TnlMS0ZtajlPY2ZuekxueXdUay1kdFhyQjFLTUhVdDhNa0NqZUpRaGdOaXlyc25wTDJzeFlzVzdPTEljV0pqWUE?oc=5)
 
