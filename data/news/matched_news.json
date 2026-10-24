@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T19:59:51.882665+00:00",
-  "total_count": 48,
+  "last_updated": "2026-10-24T22:17:55.075438+00:00",
+  "total_count": 49,
   "matched_count": 13,
   "news": [
     {
@@ -32,7 +32,7 @@
     {
       "id": "9c10967392b0",
       "title": "肌肉內也有脂肪，累積過多可能影響健康 | 科技新報 - LINE TODAY",
-      "published": "2026-10-24T15:31:05+00:00",
+      "published": "2026-10-24T15:50:05+00:00",
       "summary": "肌肉內也有脂肪，累積過多可能影響健康 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
@@ -520,14 +520,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7c8d8a9104ad",
-      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化",
-      "published": "2026-10-23T01:16:43+00:00",
-      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化&nbsp;&nbsp;Yahoo新聞",
+      "id": "0fe512681196",
+      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化 - FTNN 新聞網",
+      "published": "2026-10-23T04:39:00+00:00",
+      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化&nbsp;&nbsp;FTNN 新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQX201ZmRsZnpkeWlpNlVhbjZPZFdrRTZQS2o4QzdjR2ZDdW5Yd3ozTU5OMmVuTFBLV0x2MW90RnFVRnZicmZOUFZzNG1qNGk2YzZ0M2V3Mjh5SDdjYnJ2VGtNNk82X3AyYXVMYmpDZVQxZHJJVkRUakJ2T214c2J2aTU0UGgzM3B0emx4Y0Jkd2NDYUVhRV9RdlVCZ1pEdkpmWXVwRmxrOXYtVnJrQkZWckZja01Wd3I3M1RjQjJFUm45dUVOT2dpSjZzdEZ3dDZ1dFpTRUhtYTVwcUtHclZFWXVIZzlZS3JiNHFrdmRtb0ktcFVsYWF6RzBhZDBrTHRhVV9fY01vX3hMZmZBb18yQ1ljZ3lvM3BnS0laTHFMTWtSM3V4UEJVd21TWFhhQzA4eXhkdnhLUDBSalJfTHhVQWlYQXc5YVRnR0p6Ymd0RXFEQ0cyYzR2UnU1akg5TzhMTHNaLVNveHlQa25IMTVITE5OWThVZw?oc=5"
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5falBvdUVxN05jSUdzMFFVOHo0dVc0ak5RNnpMb1E4ZnFTRDZKOHVGS2tDdVRjdUc0el9wei1tTFZBRWd6amhRdERiQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1300,6 +1300,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "150525916da5",
+      "title": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關",
+      "published": "2026-10-20T03:17:08+00:00",
+      "summary": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRjN2a1lqQms5ZVlXNHZ0NGVrUE1ZbmpaekdPbXFfWWRzSVhIR0lNQ1dFeFU3bllJVG9MMzlHQk5nN3lVMzItOTZabE9KUDh4WjA3Vk1fUmZadnNkT0lxd2xB0gFiQVVfeXFMT2pGM3ZrWWpCazllWVc0dnQ0ZWtQTVlualp6R09tcV9ZZHNJWEhHSU1DV0V4VTduWUlUb0wzOUdCTmc3eVUzMi05NlpsT0pQOHhaMDdWTV9SZlp2c2RPSXF3bEE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "c2d35d413037",
