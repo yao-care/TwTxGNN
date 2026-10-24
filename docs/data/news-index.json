@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-24T10:00:54.073549+00:00",
-  "count": 13,
+  "generated": "2026-10-24T14:09:56.304144+00:00",
+  "count": 12,
   "news": [
     {
       "id": "8db9c3f3dff1",
@@ -327,31 +327,6 @@
               "slug": "ouabain",
               "name": "Ouabain",
               "url": "/drugs/ouabain/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6495ae72d6aa",
-      "title": "美22年失智研究揭「免費護腦良方」 小小習慣利人也利己- 國際",
-      "published": "2026-10-23T17:57:44+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWTZhcnJINERocXduTEx3cEVBVWZTb1lhYkRGR0FmWlJvVmJqNkU2N2g5QWtJakl3elplSlgyUmFGUm43ZEVkUUFwQ0JKQWhXbURNSmVudkwzdlVpbklOampxM1Jaei0tdUhfSGR3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
             }
           ]
         }

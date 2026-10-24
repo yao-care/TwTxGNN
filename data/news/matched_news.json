@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-10-24T10:00:54.030971+00:00",
+  "last_updated": "2026-10-24T14:09:56.262322+00:00",
   "total_count": 47,
-  "matched_count": 13,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "9e06133a01d0",
+      "title": "健康網》讓精子更健康 網紅醫：泡溫泉有影響",
+      "published": "2026-10-24T13:19:00+00:00",
+      "summary": "健康網》讓精子更健康 網紅醫：泡溫泉有影響&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1OHctbEpJbk1PeWxrNGY0MVFxaGN3QXh1Q01RWjZYQ1pMQU45QXFtM2ZJc1BzOE1WQ3paeG9mV1ZzazgyQkp6dC1obVN4Y0ZHVUhJLWlRV3A5WDFFZ3ZEMmwzXzk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c8df3b202a33",
+      "title": "AI 設計噬菌體首度用於人體 對付耐藥菌感染",
+      "published": "2026-10-24T09:30:00+00:00",
+      "summary": "AI 設計噬菌體首度用於人體 對付耐藥菌感染&nbsp;&nbsp;Techapple.com",
+      "sources": [
+        {
+          "name": "Techapple.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00T0lodUYxQmgyczRyZE1xNERqWjV4MXlUVnI2c3BVSlVkRGpLaHIxblVBTVFhMmhVNHBKYXpneWVMNkFack9qdl8yelY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "803819c21ca7",
+      "title": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化 - Women's Health",
+      "published": "2026-10-24T09:20:34+00:00",
+      "summary": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDVNbUhqX3h6VmJJajZucWhZc2FWZ2xNNzVSNHNVS1hWWkZ6WVU4NTF5LS02REJrTG8zZmxGUVo2VG9vTlFXVVhaNmRaMUFmRmZvZzFzREhsN2luZlRDZm1rNGVWakYxbVBqdWstaHV4WGh2WWJRb0VwNGkyZ05fdkRoQXotMk1pRkhFZDQzNjFoTzNya3dVLV9n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5bb2019e3c03",
       "title": "肌肉內也有脂肪，累積過多可能影響健康 - TechNews 科技新報",
@@ -364,45 +403,6 @@
       ]
     },
     {
-      "id": "fc220fe8d113",
-      "title": "吃對了，更年輕: 葉酸與維生素B12",
-      "published": "2026-10-23T20:50:49+00:00",
-      "summary": "吃對了，更年輕: 葉酸與維生素B12&nbsp;&nbsp;美南新聞",
-      "sources": [
-        {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HVVZScFlkRTllSXRRQkRiVm1aNFo5TlVIdDM1cFk2S19VMXFYQkZiOUkwdVVDMW5hSFdmRE9CWGJ6X3ZLY3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6495ae72d6aa",
-      "title": "美22年失智研究揭「免費護腦良方」 小小習慣利人也利己- 國際",
-      "published": "2026-10-23T17:57:44+00:00",
-      "summary": "美22年失智研究揭「免費護腦良方」 小小習慣利人也利己- 國際&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MWTZhcnJINERocXduTEx3cEVBVWZTb1lhYkRGR0FmWlJvVmJqNkU2N2g5QWtJakl3elplSlgyUmFGUm43ZEVkUUFwQ0JKQWhXbURNSmVudkwzdlVpbklOampxM1Jaei0tdUhfSGR3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "395ea44388a5",
       "title": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例",
       "published": "2026-10-23T14:54:31+00:00",
@@ -416,19 +416,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a07eebd49bd0",
-      "title": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 | 科技新報 - LINE TODAY",
-      "published": "2026-10-23T11:02:03+00:00",
-      "summary": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcVFwa2JHUGhUVzYydTM5LVVmSnVpV2MxRkNlNnBRZjdlSHJMUS13NmxZZG9OM294b3ZHaGV3cVFxaUtoR2R3dEhlMGc5NUxoSWpkTHFR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0267f22edecb",
       "title": "23吋螞蟻腰搶鏡！36歲張曦雯公開4招身材管理 靠1方法練成雪白靚背",
       "published": "2026-10-23T09:00:10+00:00",
@@ -437,6 +424,19 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxORnhDSXN2YXo2MW4zNEY3MWxsdFQ1a0VtNVNSTmhfM2R0dE5rZ0l0Nl9kRGE2T2ZpLUlGSkxsd1dhdTlERVdZalZiLS1RazU1OGJHRVBFOTd1LWlqSlhTYURWRTF6QnRKQ0UwbFRFSzQ1TllrYW56ZTNUTnhuOHhUR2paZV9hNGtCNnBobUllbmExX3lGRmtqOVRkYWhHWUhkb19BbzZvamY0YTJXbnFCUS1Dd1F0OVZWY3RqX2ZDNmpjZVNQc0hNYWZfWGsxdEZ5Z0dTaDA3bDFXQzhCNXVBdkNYYTBiMmtwZzVGOVBROVBWeVdxVUJZODZnQS1mcVRGczdYOGlicWctUFV5UU8xZHo3M3Y2OUEtZy1lWDN0YWlzYXUzQ3ZrbGtocG9SZWJnRUFGQmdoNHBkRk85MHJTMGozQ3JrUF93bGdQWElKaHF2MW9SSU5YZVJwamFLbGtOeUFZTi1OUGwtalpYZ2tMc193R0wyRjRPa2ZnRTUwMU9rR2FnNFVMaWVUeG5mdkFualRvMVFhSzA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "34c69dd02716",
+      "title": "法首出現人類染沙門達病毒強調無公衛風險- 國際",
+      "published": "2026-10-23T06:50:00+00:00",
+      "summary": "法首出現人類染沙門達病毒強調無公衛風險- 國際&nbsp;&nbsp;華視新聞網全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;東森新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;台視新聞網全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報",
+      "sources": [
+        {
+          "name": "華視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xSTgxNzBBOUthbGVHalFNV1FwZEpFQzVYQzdBZkRTdFUzX19Fdi15cWdwWHpEQUVfaGpZUTU0YVdaZGVtUVZHZWZDVVgtX0RpenhxYmRudUFpc0trcmJ1aWJKX3NWanBrN1JQazhkNDFOT09XMG45cQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -468,27 +468,14 @@
       "matched_keywords": []
     },
     {
-      "id": "608c2275b5ce",
-      "title": "法國通報首例人類感染沙門達病毒 世衛稱無擴散跡象",
-      "published": "2026-10-23T02:06:43+00:00",
-      "summary": "法國通報首例人類感染沙門達病毒 世衛稱無擴散跡象&nbsp;&nbsp;Yahoo新聞全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;東森新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;台視新聞網全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報",
+      "id": "7c8d8a9104ad",
+      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化",
+      "published": "2026-10-23T01:16:43+00:00",
+      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNdVpSckJ1SVZhdHJFb3FzZENUcVlxenlRZTc5Z2pOM2NVbjBJOGRObWRUZkRSSENQRDY2d3QzMXd1YVJLQmJoblRkR21WTDRXVmZqUzM3NTZEMWJVT2VGc2ZXb2xmNTI0STE2XzhDa1RLTUIxenlqcC11c1NsRXhfa2tjUlEyTnVJV21nSkRIdTZjVU4waThCa1N1Uy01cGZKMldSbnYyWDdzVXE5elAyS2lpd1BsaVFqSThpNkduWDRlQ3hmY3ZFVmx5bC0zU2tncGltbFJyYVpvemtkeVNTcUItMWFmYld1dTd4NjdTMHdteG11Y0VGNU5Ya1lfRmJPdGpBOGJmeFpHSHdvS2R3cjVuNkdPYXVJT0RmRmVlTmVUYXVSNmZMajNpVDVwR05aTEhSaTJnX1Y1cjg1dkZJMGNHal9TZEh2LUFJemFzU29EeFpuVFpzMkQ0Y2JUTUdxZklUTUhGNmI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7f505171c983",
-      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化- 健康新聞 - PChome Online 新聞",
-      "published": "2026-10-23T01:00:00+00:00",
-      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
-      "sources": [
-        {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONXRDaDA0bU9Ia0dLU0FaX0JzN2cxelMtVld1WWk1WDNpb0I2WVcxQ3d1OVhXM0dRTFdGZ2lqZVpncjhMTW4yQVhlR19ndnhldERmVE0zQmpTZ0xINTIwM1RWOXNNWFhaenVEUmItaU9uQU9uNE1ZZkhpMlZka0xmOUNSdllHclYzSTBqZVl0VjYxYVE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQX201ZmRsZnpkeWlpNlVhbjZPZFdrRTZQS2o4QzdjR2ZDdW5Yd3ozTU5OMmVuTFBLV0x2MW90RnFVRnZicmZOUFZzNG1qNGk2YzZ0M2V3Mjh5SDdjYnJ2VGtNNk82X3AyYXVMYmpDZVQxZHJJVkRUakJ2T214c2J2aTU0UGgzM3B0emx4Y0Jkd2NDYUVhRV9RdlVCZ1pEdkpmWXVwRmxrOXYtVnJrQkZWckZja01Wd3I3M1RjQjJFUm45dUVOT2dpSjZzdEZ3dDZ1dFpTRUhtYTVwcUtHclZFWXVIZzlZS3JiNHFrdmRtb0ktcFVsYWF6RzBhZDBrTHRhVV9fY01vX3hMZmZBb18yQ1ljZ3lvM3BnS0laTHFMTWtSM3V4UEJVd21TWFhhQzA4eXhkdnhLUDBSalJfTHhVQWlYQXc5YVRnR0p6Ymd0RXFEQ0cyYzR2UnU1akg5TzhMTHNaLVNveHlQa25IMTVITE5OWThVZw?oc=5"
         }
       ],
       "matched_keywords": []
