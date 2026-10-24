@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ permalink: /news/isosorbide_dinitrate/
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
-
-### [心血管疾病預防新思維：疫苗接種也是重要防線](https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5)
-
-2026-10-22 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMixAJBVV95cUxNS2RIbV82LTc1eHpVdG55UVBKUVY3REpKNWF5NjdFT3VIZnhzZWp5dzdkX2ZLVUh1eWFRZEdDTnhac0tDWVhMbnlIWk9tWE1LWDRzVzUxdUdRRDdXQTJsd2ZfbkFjWGlKeE5sT0ZVdFJPQVhwQ21kU0VjaFJ0ampoVDZwZUhfYXJwNWZIR0RlT2NkQmZRS0NBamZSeTMxQWhZVGd0WGFlWU9fOXdLdnNnaWpzYlZnWnNNdUJTaktQbzZVcFFteVZFWVpSOFBfLWJQNmk5NDZqTzljdWhqUk54YUY3N2UwLVJvb1NIM2NORDBrV3ppMmZyd0hpZVVyV0x6SVFybzJiZk5sWnB6MzJCRWZzVF9nTHFKNXhkRmIxbXpxbER1Zi1VdmVMeXlLN2VGamJmeDBSaTB3ZmhxQW9rYUltN0c?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 

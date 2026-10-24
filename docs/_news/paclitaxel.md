@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,7 +27,7 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>: 卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (100.0%)<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma (100.0%)</li>
 <li>estrogen-receptor negative breast cancer (99.9%)</li>
 <li>hormone-resistant breast carcinoma (99.9%)</li>
 <li>estrogen-receptor positive breast cancer (99.9%)</li>
@@ -42,13 +42,13 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
+### [播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQenVSQ2llMWtZb0Rnc0dKV1g0bEpCUGI2Y1dycjNhXzZDV1pvR3Z0ek84OHJLWjNpS0E0QTRKU1l2UjU0cFlHdHRhT3JubVBEM184WDRsZ21rMlRtcDZpc1l5WGs4eEZYbHpwR0duTjBjZFlOMGkza29LUlhabEFZeG90SkJmQzVYem1iUVVTZEY4bUhaNGhFSTJ5SldwdG9VX2t4QlpxZU8xdUFKbWhBbWl1aWY3bTI4eE5ZSUdtVGtEWmJJU2J5QUdjRWZKSjQyS1kzNlFKRERnSmxZZ3hsZWU2ekpNT214X0NzSnZteW55elhjclhwTjE5YWR1ZWZoNGMxVEwxYV8zOU9hOEZ1by0tQWZIaERReDBxM3FLdHBGQUladUVKM0lFdVJ1ZmZjNFBva1FhdlY2Q3lndFpaa2gyc1RYN2R3cFAxRjFZTzFjd2tvVm1EVw?oc=5)
 
-2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+2026-10-24 <span class="news-indication-tag">子宮頸癌</span>
 
-來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
+來源: [CCUE](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQenVSQ2llMWtZb0Rnc0dKV1g0bEpCUGI2Y1dycjNhXzZDV1pvR3Z0ek84OHJLWjNpS0E0QTRKU1l2UjU0cFlHdHRhT3JubVBEM184WDRsZ21rMlRtcDZpc1l5WGs4eEZYbHpwR0duTjBjZFlOMGkza29LUlhabEFZeG90SkJmQzVYem1iUVVTZEY4bUhaNGhFSTJ5SldwdG9VX2t4QlpxZU8xdUFKbWhBbWl1aWY3bTI4eE5ZSUdtVGtEWmJJU2J5QUdjRWZKSjQyS1kzNlFKRERnSmxZZ3hsZWU2ekpNT214X0NzSnZteW55elhjclhwTjE5YWR1ZWZoNGMxVEwxYV8zOU9hOEZ1by0tQWZIaERReDBxM3FLdHBGQUladUVKM0lFdVJ1ZmZjNFBva1FhdlY2Q3lndFpaa2gyc1RYN2R3cFAxRjFZTzFjd2tvVm1EVw?oc=5)
 
 ---
 
@@ -57,6 +57,14 @@ permalink: /news/paclitaxel/
 2026-10-22 <span class="news-indication-tag">癌症</span>
 
 來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5)
+
+---
+
+### [中國癌症排名大洗牌｜甲狀腺癌躍升發病第3位 肺癌仍奪命之冠 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMiowNBVV95cUxNVTItR29leS1jUVMxVWtNRTR3Tnlfem5aOEZrY3lWOE0yMVM1OTBGejNwYzhRNkMxUG5KcnRTMUtfS1dMeU9RZkpPamxlaVhQdGhidGQxaUpXd1EyTDVfc1cwaEw1VXhnRWlNRFZSQU9uQnloT0hPTno5aktPLUdPS2FUdW1GQjFjNGpFT1Zxcjdnbmg4d3pTMDhHSVpHY0VDdEJoN3czSENnTURzOVlqTlJPcnNwUTVETXlRalIxSGp4TGZXeXdCejZBS0J5U1FJaFJGMTBGNzVVZTJlWm1fOHBzRUc3VF80d1NUWE1JdU9sUzBUbFlpVkdJSVgwbWJ0ZFp2bUNiYU1ScDhxMXpkcE9QazF5MEFQQWFsWUV2TUUzeXlRNjh2b3RJX004bEcwYkNMeFptS0F6cW1hUU5xSEhHY1U0MXJ2eS1JTlNFamdzMnZ0MTZGTmQ0OElfWG81SkU0a3BXNDhXMjk2S3piN1otMmJVUXo3b1VTZVdNUVlieFhXeVZGX21qVUxlZ01IcU5Xc2JOM0ljdlFBN0ZmQTdIMNIBigFBVV95cUxQTkt5TFdtY2cwdWJxRjhydTZmdGlGUDBBSGV6UEZLanh4YzRpZUg3cHdsUFlyOHpHOHM5SW9uLTNYcUlpRWg5WGx5TnlMS0ZtajlPY2ZuekxueXdUay1kdFhyQjFLTUhVdDhNa0NqZUpRaGdOaXlyc25wTDJzeFlzVzdPTEljV0pqWUE?oc=5)
+
+2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
+
+來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMiowNBVV95cUxNVTItR29leS1jUVMxVWtNRTR3Tnlfem5aOEZrY3lWOE0yMVM1OTBGejNwYzhRNkMxUG5KcnRTMUtfS1dMeU9RZkpPamxlaVhQdGhidGQxaUpXd1EyTDVfc1cwaEw1VXhnRWlNRFZSQU9uQnloT0hPTno5aktPLUdPS2FUdW1GQjFjNGpFT1Zxcjdnbmg4d3pTMDhHSVpHY0VDdEJoN3czSENnTURzOVlqTlJPcnNwUTVETXlRalIxSGp4TGZXeXdCejZBS0J5U1FJaFJGMTBGNzVVZTJlWm1fOHBzRUc3VF80d1NUWE1JdU9sUzBUbFlpVkdJSVgwbWJ0ZFp2bUNiYU1ScDhxMXpkcE9QazF5MEFQQWFsWUV2TUUzeXlRNjh2b3RJX004bEcwYkNMeFptS0F6cW1hUU5xSEhHY1U0MXJ2eS1JTlNFamdzMnZ0MTZGTmQ0OElfWG81SkU0a3BXNDhXMjk2S3piN1otMmJVUXo3b1VTZVdNUVlieFhXeVZGX21qVUxlZ01IcU5Xc2JOM0ljdlFBN0ZmQTdIMNIBigFBVV95cUxQTkt5TFdtY2cwdWJxRjhydTZmdGlGUDBBSGV6UEZLanh4YzRpZUg3cHdsUFlyOHpHOHM5SW9uLTNYcUlpRWg5WGx5TnlMS0ZtajlPY2ZuekxueXdUay1kdFhyQjFLTUhVdDhNa0NqZUpRaGdOaXlyc25wTDJzeFlzVzdPTEljV0pqWUE?oc=5)
 
 ---
 

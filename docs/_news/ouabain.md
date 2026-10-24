@@ -14,7 +14,7 @@ permalink: /news/ouabain/
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ permalink: /news/ouabain/
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina (99.7%)</li>
 <li>hemoglobinopathy (99.5%)</li>
-<li>myocardial infarction (99.4%)</li>
+<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心肌梗塞</span></li>
 <li>thrombotic disease (99.3%)</li>
 <li>hyperthyroidism (99.3%)</li>
 <li>homozygous familial hypercholesterolemia (99.2%)</li>
@@ -42,7 +42,15 @@ permalink: /news/ouabain/
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [疲倦｜50歲男異常疲倦2周 揭血管阻塞險心肌梗塞 醫生揭5種疲倦不可忽視](https://news.google.com/rss/articles/CBMixwNBVV95cUxNZmtOV2V4a0UtY0RxQlVFZjh1ZXlqZ2l4ckk4WlAtMW12YzgyeHZXenhUdjBVOHJXclNNajdYXzRtSFp6VHlkbnpnR3FkY0lFRDNFYXhGRVFJUFo3bkEzeGpFbTRneVB0aV9RSm9XeUpJdmhuUDlSV0ZaQzFISnpTTkZNNnFNaFBVNkFJcjI4WThGdENYdXpKS29DanNBc29IZHpscUFDWGRBSnVLMWpjMTdOeWpBaW5iOUVWMy1PZ1dyOEI2VTIxdjNBZG9NTXdmRmlsMzh4Y1dtbTYxNFFIeFo1c1RDTkxzZ3Q5NEdGVFFQT0dZRGd3bXZwUS04VzEzNVpwNDV2M2hUVTNjekdCTVV1VkZjbk02SmdpM1NvSFFIQ3FRLWpBME5hNnJUTkxleE13a1AzX25oc1BJSTFnVzhJWkxlQWtjYmVMQllmNk9qaGhpUHVHemtJWWlhVS1RUG5QNlZtOWlBWlAwcU85SHRDYmR5M0ZJVlJ2aWtQd0x2aFFDX2ctZ1hhQjQzRlY0NzVUT0tEWjBfMFdfRW5tbmNZQXpWVXUyekRXaVpGNXQ5bnVUWTdtSzJmWHZvV2JQcnozMWlCdw?oc=5)
+
+2026-10-24 <span class="news-indication-tag">心肌梗塞</span>
+
+來源: [AM730](https://news.google.com/rss/articles/CBMixwNBVV95cUxNZmtOV2V4a0UtY0RxQlVFZjh1ZXlqZ2l4ckk4WlAtMW12YzgyeHZXenhUdjBVOHJXclNNajdYXzRtSFp6VHlkbnpnR3FkY0lFRDNFYXhGRVFJUFo3bkEzeGpFbTRneVB0aV9RSm9XeUpJdmhuUDlSV0ZaQzFISnpTTkZNNnFNaFBVNkFJcjI4WThGdENYdXpKS29DanNBc29IZHpscUFDWGRBSnVLMWpjMTdOeWpBaW5iOUVWMy1PZ1dyOEI2VTIxdjNBZG9NTXdmRmlsMzh4Y1dtbTYxNFFIeFo1c1RDTkxzZ3Q5NEdGVFFQT0dZRGd3bXZwUS04VzEzNVpwNDV2M2hUVTNjekdCTVV1VkZjbk02SmdpM1NvSFFIQ3FRLWpBME5hNnJUTkxleE13a1AzX25oc1BJSTFnVzhJWkxlQWtjYmVMQllmNk9qaGhpUHVHemtJWWlhVS1RUG5QNlZtOWlBWlAwcU85SHRDYmR5M0ZJVlJ2aWtQd0x2aFFDX2ctZ1hhQjQzRlY0NzVUT0tEWjBfMFdfRW5tbmNZQXpWVXUyekRXaVpGNXQ5bnVUWTdtSzJmWHZvV2JQcnozMWlCdw?oc=5)
+
+---
 
 ### [以為是天然物質就健康 這種代糖增加心臟病及中風風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQUHV2V2k0MXo2RXFSX0ZrSk9MbTU0cFBmSm5qbllPcXozWi1MRTJKenZKZXhfbEdEZVYweU92SlVBRGlOVENNdWdUdFNfYXFaRWdYQkQyTzFRVlh6emdmdXdB0gFnQVVfeXFMTmhyT2NmRUNJTGh2OFJVNVVaT0M1Z1FJTExvOFlWejQ4czA0NFY0LXM2eHdYWmlqRlJXYWZOeGhGOVFNYW5NYWhidTBwWTZVbUQ4bXNqbFBPbW1lUkdqMHNhWVkxalY4VQ?oc=5)
 
