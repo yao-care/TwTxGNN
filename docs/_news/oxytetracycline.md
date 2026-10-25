@@ -14,7 +14,7 @@ permalink: /news/oxytetracycline/
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ permalink: /news/oxytetracycline/
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
-### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
+### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5)
+
+2026-10-25 <span class="news-indication-tag">癌症</span>
+
+來源: [大紀元時報香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5)
+
+---
+
+### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% - TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5)
 
 2026-10-24 <span class="news-indication-tag">癌症</span>
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5)
+
+---
+
+### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
+
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+
+來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
 ---
 
@@ -57,14 +73,6 @@ permalink: /news/oxytetracycline/
 2026-10-22 <span class="news-indication-tag">癌症</span>
 
 來源: [香港商报](https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5)
-
----
-
-### [中國癌症排名大洗牌｜甲狀腺癌躍升發病第3位 肺癌仍奪命之冠 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMiowNBVV95cUxNVTItR29leS1jUVMxVWtNRTR3Tnlfem5aOEZrY3lWOE0yMVM1OTBGejNwYzhRNkMxUG5KcnRTMUtfS1dMeU9RZkpPamxlaVhQdGhidGQxaUpXd1EyTDVfc1cwaEw1VXhnRWlNRFZSQU9uQnloT0hPTno5aktPLUdPS2FUdW1GQjFjNGpFT1Zxcjdnbmg4d3pTMDhHSVpHY0VDdEJoN3czSENnTURzOVlqTlJPcnNwUTVETXlRalIxSGp4TGZXeXdCejZBS0J5U1FJaFJGMTBGNzVVZTJlWm1fOHBzRUc3VF80d1NUWE1JdU9sUzBUbFlpVkdJSVgwbWJ0ZFp2bUNiYU1ScDhxMXpkcE9QazF5MEFQQWFsWUV2TUUzeXlRNjh2b3RJX004bEcwYkNMeFptS0F6cW1hUU5xSEhHY1U0MXJ2eS1JTlNFamdzMnZ0MTZGTmQ0OElfWG81SkU0a3BXNDhXMjk2S3piN1otMmJVUXo3b1VTZVdNUVlieFhXeVZGX21qVUxlZ01IcU5Xc2JOM0ljdlFBN0ZmQTdIMNIBigFBVV95cUxQTkt5TFdtY2cwdWJxRjhydTZmdGlGUDBBSGV6UEZLanh4YzRpZUg3cHdsUFlyOHpHOHM5SW9uLTNYcUlpRWg5WGx5TnlMS0ZtajlPY2ZuekxueXdUay1kdFhyQjFLTUhVdDhNa0NqZUpRaGdOaXlyc25wTDJzeFlzVzdPTEljV0pqWUE?oc=5)
-
-2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">肺癌</span>
-
-來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMiowNBVV95cUxNVTItR29leS1jUVMxVWtNRTR3Tnlfem5aOEZrY3lWOE0yMVM1OTBGejNwYzhRNkMxUG5KcnRTMUtfS1dMeU9RZkpPamxlaVhQdGhidGQxaUpXd1EyTDVfc1cwaEw1VXhnRWlNRFZSQU9uQnloT0hPTno5aktPLUdPS2FUdW1GQjFjNGpFT1Zxcjdnbmg4d3pTMDhHSVpHY0VDdEJoN3czSENnTURzOVlqTlJPcnNwUTVETXlRalIxSGp4TGZXeXdCejZBS0J5U1FJaFJGMTBGNzVVZTJlWm1fOHBzRUc3VF80d1NUWE1JdU9sUzBUbFlpVkdJSVgwbWJ0ZFp2bUNiYU1ScDhxMXpkcE9QazF5MEFQQWFsWUV2TUUzeXlRNjh2b3RJX004bEcwYkNMeFptS0F6cW1hUU5xSEhHY1U0MXJ2eS1JTlNFamdzMnZ0MTZGTmQ0OElfWG81SkU0a3BXNDhXMjk2S3piN1otMmJVUXo3b1VTZVdNUVlieFhXeVZGX21qVUxlZ01IcU5Xc2JOM0ljdlFBN0ZmQTdIMNIBigFBVV95cUxQTkt5TFdtY2cwdWJxRjhydTZmdGlGUDBBSGV6UEZLanh4YzRpZUg3cHdsUFlyOHpHOHM5SW9uLTNYcUlpRWg5WGx5TnlMS0ZtajlPY2ZuekxueXdUay1kdFhyQjFLTUhVdDhNa0NqZUpRaGdOaXlyc25wTDJzeFlzVzdPTEljV0pqWUE?oc=5)
 
 ---
 
