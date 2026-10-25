@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-25T17:59:17.193471+00:00",
+  "fetched_at": "2026-10-25T20:31:43.137094+00:00",
   "count": 48,
   "news": [
     {
@@ -19,7 +19,7 @@
       "id": "d5960213c155",
       "title": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播 - 自由時報",
       "published": "2026-10-22T18:49:53+00:00",
-      "summary": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;東森新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;台視新聞網法首現人類感染沙蒙達病毒 當局稱對大眾無風險 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY",
+      "summary": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;Yahoo新聞法國報告全球首例人類感染沙蒙達病毒病例&nbsp;&nbsp;中國評論新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY法首出現人類染沙門達病毒強調無公衛風險- 國際&nbsp;&nbsp;華視新聞網",
       "sources": [
         {
           "name": "自由時報",
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "9e06133a01d0",
-      "title": "健康網》讓精子更健康 網紅醫：泡溫泉有影響 - 自由健康網",
-      "published": "2026-10-24T13:19:00+00:00",
-      "summary": "健康網》讓精子更健康 網紅醫：泡溫泉有影響&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1OHctbEpJbk1PeWxrNGY0MVFxaGN3QXh1Q01RWjZYQ1pMQU45QXFtM2ZJc1BzOE1WQ3paeG9mV1ZzazgyQkp6dC1obVN4Y0ZHVUhJLWlRV3A5WDFFZ3ZEMmwzXzk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b04a24e414fb",
       "title": "活得更久之後（上）：看見高齡愛滋感染者的污名與照護缺口 - HIVStoryMEDIA",
       "published": "2026-10-22T01:58:02+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "HIVStoryMEDIA",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1QnNZcC1TbGc2c0JaQTQ3LXd3RWRrVkVJZHJCOXZYYU5BUXJFTWw5VnY4UURkejN0SEszdFpQMEg3bVNIMUh2ek5VMjZOYzdMQ2lJMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9e06133a01d0",
+      "title": "健康網》讓精子更健康 網紅醫：泡溫泉有影響 - 自由健康網",
+      "published": "2026-10-24T13:19:00+00:00",
+      "summary": "健康網》讓精子更健康 網紅醫：泡溫泉有影響&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1OHctbEpJbk1PeWxrNGY0MVFxaGN3QXh1Q01RWjZYQ1pMQU45QXFtM2ZJc1BzOE1WQ3paeG9mV1ZzazgyQkp6dC1obVN4Y0ZHVUhJLWlRV3A5WDFFZ3ZEMmwzXzk?oc=5"
         }
       ]
     },
@@ -112,18 +112,6 @@
       ]
     },
     {
-      "id": "19e11ef27df5",
-      "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管 - 自由健康網",
-      "published": "2026-10-24T23:30:00+00:00",
-      "summary": "健康網》研究：吃對澱粉助降膽固醇 護心血管&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURllEOE1wQ1VnV2tSZGVyLWdiZ0VxWTBFRmhlTlk2enRPMFlmSFFLZmxuU00yN051c05uaU5HQ05yYVluTTRHVXhINmE5bUM3cDVvN1BUVkZEeEo5ekJCVlFJTWg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7c8d8a9104ad",
       "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化 - Yahoo新聞",
       "published": "2026-10-23T01:16:43+00:00",
@@ -136,6 +124,30 @@
       ]
     },
     {
+      "id": "19e11ef27df5",
+      "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管 - 自由健康網",
+      "published": "2026-10-24T23:30:00+00:00",
+      "summary": "健康網》研究：吃對澱粉助降膽固醇 護心血管&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURllEOE1wQ1VnV2tSZGVyLWdiZ0VxWTBFRmhlTlk2enRPMFlmSFFLZmxuU00yN051c05uaU5HQ05yYVluTTRHVXhINmE5bUM3cDVvN1BUVkZEeEo5ekJCVlFJTWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14feb2b4e1ba",
+      "title": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站 - CCUE",
+      "published": "2026-10-24T01:00:00+00:00",
+      "summary": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站&nbsp;&nbsp;CCUE播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法 子宮頸癌前病變可逆轉&nbsp;&nbsp;星島頭條公費防護HPV 專家籲25歲為銜接起點- 其他&nbsp;&nbsp;旺得富理財網打了HPV疫苗還要做抹片嗎？&nbsp;&nbsp;東森新聞全球HPV篩檢覆蓋率僅8% 世衛目標子宮頸癌根除之路艱鉅&nbsp;&nbsp;Life 生活網",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQenVSQ2llMWtZb0Rnc0dKV1g0bEpCUGI2Y1dycjNhXzZDV1pvR3Z0ek84OHJLWjNpS0E0QTRKU1l2UjU0cFlHdHRhT3JubVBEM184WDRsZ21rMlRtcDZpc1l5WGs4eEZYbHpwR0duTjBjZFlOMGkza29LUlhabEFZeG90SkJmQzVYem1iUVVTZEY4bUhaNGhFSTJ5SldwdG9VX2t4QlpxZU8xdUFKbWhBbWl1aWY3bTI4eE5ZSUdtVGtEWmJJU2J5QUdjRWZKSjQyS1kzNlFKRERnSmxZZ3hsZWU2ekpNT214X0NzSnZteW55elhjclhwTjE5YWR1ZWZoNGMxVEwxYV8zOU9hOEZ1by0tQWZIaERReDBxM3FLdHBGQUladUVKM0lFdVJ1ZmZjNFBva1FhdlY2Q3lndFpaa2gyc1RYN2R3cFAxRjFZTzFjd2tvVm1EVw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6de269ba5550",
       "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元時報香港",
       "published": "2026-10-25T05:20:00+00:00",
@@ -144,18 +156,6 @@
         {
           "name": "大紀元時報香港",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "14feb2b4e1ba",
-      "title": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站 - CCUE",
-      "published": "2026-10-24T01:00:00+00:00",
-      "summary": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站&nbsp;&nbsp;CCUE播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法 子宮頸癌前病變可逆轉&nbsp;&nbsp;星島頭條公費防護HPV 專家籲25歲為銜接起點- 其他&nbsp;&nbsp;旺得富理財網打了HPV疫苗還要做抹片嗎？&nbsp;&nbsp;東森新聞公費防護HPV 專家籲25歲為銜接起點&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQenVSQ2llMWtZb0Rnc0dKV1g0bEpCUGI2Y1dycjNhXzZDV1pvR3Z0ek84OHJLWjNpS0E0QTRKU1l2UjU0cFlHdHRhT3JubVBEM184WDRsZ21rMlRtcDZpc1l5WGs4eEZYbHpwR0duTjBjZFlOMGkza29LUlhabEFZeG90SkJmQzVYem1iUVVTZEY4bUhaNGhFSTJ5SldwdG9VX2t4QlpxZU8xdUFKbWhBbWl1aWY3bTI4eE5ZSUdtVGtEWmJJU2J5QUdjRWZKSjQyS1kzNlFKRERnSmxZZ3hsZWU2ekpNT214X0NzSnZteW55elhjclhwTjE5YWR1ZWZoNGMxVEwxYV8zOU9hOEZ1by0tQWZIaERReDBxM3FLdHBGQUladUVKM0lFdVJ1ZmZjNFBva1FhdlY2Q3lndFpaa2gyc1RYN2R3cFAxRjFZTzFjd2tvVm1EVw?oc=5"
         }
       ]
     },
@@ -316,18 +316,6 @@
       ]
     },
     {
-      "id": "803819c21ca7",
-      "title": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化 - Women's Health",
-      "published": "2026-10-24T12:49:45+00:00",
-      "summary": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDVNbUhqX3h6VmJJajZucWhZc2FWZ2xNNzVSNHNVS1hWWkZ6WVU4NTF5LS02REJrTG8zZmxGUVo2VG9vTlFXVVhaNmRaMUFmRmZvZzFzREhsN2luZlRDZm1rNGVWakYxbVBqdWstaHV4WGh2WWJRb0VwNGkyZ05fdkRoQXotMk1pRkhFZDQzNjFoTzNya3dVLV9n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6bcc54baaf5e",
       "title": "50歲醫腦出血自爆倒下前常12小時不吃飯- 健康 - 中時新聞網",
       "published": "2026-10-25T07:35:16+00:00",
@@ -348,6 +336,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "803819c21ca7",
+      "title": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化 - Women's Health",
+      "published": "2026-10-24T12:49:45+00:00",
+      "summary": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化&nbsp;&nbsp;Women's Health",
+      "sources": [
+        {
+          "name": "Women's Health",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDVNbUhqX3h6VmJJajZucWhZc2FWZ2xNNzVSNHNVS1hWWkZ6WVU4NTF5LS02REJrTG8zZmxGUVo2VG9vTlFXVVhaNmRaMUFmRmZvZzFzREhsN2luZlRDZm1rNGVWakYxbVBqdWstaHV4WGh2WWJRb0VwNGkyZ05fdkRoQXotMk1pRkhFZDQzNjFoTzNya3dVLV9n?oc=5"
         }
       ]
     },
