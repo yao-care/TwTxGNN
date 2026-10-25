@@ -1,7 +1,32 @@
 {
-  "generated": "2026-10-25T00:41:53.775904+00:00",
-  "count": 14,
+  "generated": "2026-10-25T05:31:32.606739+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "99a2bd11682b",
+      "title": "生魚片沾芥末能殺菌、殺蟲？醫科學解答：「這2招」真正有效",
+      "published": "2026-10-25T02:52:46+00:00",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYdzRuOFFEMWZvY3U1WmRhX2RQUWZIZXBJS1U1bWE5ZDNkLXZ0VTZwMUNwb2tMYmZ1UEVGSzNsR0ZSakwwS1hJbjlVNzk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "殺菌",
+          "keyword": "殺菌",
+          "related_drugs": [
+            {
+              "slug": "salicylic-acid",
+              "name": "Salicylic acid",
+              "url": "/drugs/salicylic-acid/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "19e11ef27df5",
       "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管",
@@ -78,13 +103,13 @@
       ]
     },
     {
-      "id": "8db9c3f3dff1",
-      "title": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% - TechNews 科技新報",
-      "published": "2026-10-24T05:31:24+00:00",
+      "id": "ec2e293f9748",
+      "title": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報 - LINE TODAY",
+      "published": "2026-10-24T14:10:02+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5"
         }
       ],
       "keywords": [

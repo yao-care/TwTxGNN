@@ -14,7 +14,7 @@ permalink: /news/salicylic_acid/
 ---
 
 <p class="key-answer" data-question="Salicylic acid 有什麼相關新聞？">
-<strong>Salicylic acid</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylic acid</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,9 +42,15 @@ permalink: /news/salicylic_acid/
 <p><a href="{{ '/drugs/salicylic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（0 則）
+## 相關新聞（1 則）
 
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
+### [生魚片沾芥末能殺菌、殺蟲？醫科學解答：「這2招」真正有效](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYdzRuOFFEMWZvY3U1WmRhX2RQUWZIZXBJS1U1bWE5ZDNkLXZ0VTZwMUNwb2tMYmZ1UEVGSzNsR0ZSakwwS1hJbjlVNzk?oc=5)
+
+2026-10-25 <span class="news-indication-tag">殺菌</span>
+
+來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYdzRuOFFEMWZvY3U1WmRhX2RQUWZIZXBJS1U1bWE5ZDNkLXZ0VTZwMUNwb2tMYmZ1UEVGSzNsR0ZSakwwS1hJbjlVNzk?oc=5)
+
+---
 
 
 <div class="disclaimer">
