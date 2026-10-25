@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-25T14:41:29.286140+00:00",
-  "count": 50,
+  "fetched_at": "2026-10-25T17:59:17.193471+00:00",
+  "count": 48,
   "news": [
     {
-      "id": "7bd8b5709cae",
-      "title": "誤當胃病！他「皮膚全變黃」肝指數飆破千 醫嚇喊：快住院 - 三立新聞網SETN.com",
-      "published": "2026-10-25T12:25:01+00:00",
-      "summary": "誤當胃病！他「皮膚全變黃」肝指數飆破千 醫嚇喊：快住院&nbsp;&nbsp;三立新聞網SETN.com",
+      "id": "19d9274b14cb",
+      "title": "偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？ - TechNews 科技新報",
+      "published": "2026-10-25T07:55:41+00:00",
+      "summary": "偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBHM0tVT1ZOTHdsOTRadUtwRmNTV3BpUlZyMU95aFpaNG4xTm5NeGsxcGJLclU4dnN4UU41b0FMd2huMFNTeUt6NlNMazI?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXRPU3BpaWVJSERwS0Q4NDUtdWdEOHR4ZDdDSGNLZUlTbEwyQXNmRC15SWExQlQ3R1Rkc051YjJrMVlBOTJTT1FkRmxQdDc5NUt5eldZbzVRMHk3dDNFWm5xZ09VeWZMTVd4MlJnamFDb2pidW1ybkgwT1hjVExpd19lOHFyRDhDb3ZYbWJoU2RVdkpzN1c3b3ZTSEZqRjkwT29RejNrRy12NlFXOTg4R2l4WTY?oc=5"
         }
       ]
     },
@@ -124,18 +124,6 @@
       ]
     },
     {
-      "id": "6de269ba5550",
-      "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元時報香港",
-      "published": "2026-10-25T05:20:00+00:00",
-      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元時報香港",
-      "sources": [
-        {
-          "name": "大紀元時報香港",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7c8d8a9104ad",
       "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化 - Yahoo新聞",
       "published": "2026-10-23T01:16:43+00:00",
@@ -144,6 +132,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQX201ZmRsZnpkeWlpNlVhbjZPZFdrRTZQS2o4QzdjR2ZDdW5Yd3ozTU5OMmVuTFBLV0x2MW90RnFVRnZicmZOUFZzNG1qNGk2YzZ0M2V3Mjh5SDdjYnJ2VGtNNk82X3AyYXVMYmpDZVQxZHJJVkRUakJ2T214c2J2aTU0UGgzM3B0emx4Y0Jkd2NDYUVhRV9RdlVCZ1pEdkpmWXVwRmxrOXYtVnJrQkZWckZja01Wd3I3M1RjQjJFUm45dUVOT2dpSjZzdEZ3dDZ1dFpTRUhtYTVwcUtHclZFWXVIZzlZS3JiNHFrdmRtb0ktcFVsYWF6RzBhZDBrTHRhVV9fY01vX3hMZmZBb18yQ1ljZ3lvM3BnS0laTHFMTWtSM3V4UEJVd21TWFhhQzA4eXhkdnhLUDBSalJfTHhVQWlYQXc5YVRnR0p6Ymd0RXFEQ0cyYzR2UnU1akg5TzhMTHNaLVNveHlQa25IMTVITE5OWThVZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6de269ba5550",
+      "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元時報香港",
+      "published": "2026-10-25T05:20:00+00:00",
+      "summary": "癌症五條「入侵路徑」都與日常習慣有關&nbsp;&nbsp;大紀元時報香港",
+      "sources": [
+        {
+          "name": "大紀元時報香港",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5"
         }
       ]
     },
@@ -244,18 +244,6 @@
       ]
     },
     {
-      "id": "36cd374e75a5",
-      "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12 - Yahoo新聞",
-      "published": "2026-10-20T07:26:32+00:00",
-      "summary": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6f29f1c7427b",
       "title": "聲音或藏老化線索 研究：語音特徵與大腦老化相關 - 希望之聲電台",
       "published": "2026-10-20T22:25:05+00:00",
@@ -264,6 +252,18 @@
         {
           "name": "希望之聲電台",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMFdNbjg1Y3RsQ2pOX1BXcndZTVJMQVoyRkhfVHdPZm5EbmRnVWJsR1o1V2oxcG5ZYkJ1NzhxLUh5Sk1tYndNdGhmM2FzUm4wZnhkU3VXVzB0SVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36cd374e75a5",
+      "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12 - Yahoo新聞",
+      "published": "2026-10-20T07:26:32+00:00",
+      "summary": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5"
         }
       ]
     },
@@ -316,18 +316,6 @@
       ]
     },
     {
-      "id": "19d9274b14cb",
-      "title": "偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？ - TechNews 科技新報",
-      "published": "2026-10-25T07:55:41+00:00",
-      "summary": "偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXRPU3BpaWVJSERwS0Q4NDUtdWdEOHR4ZDdDSGNLZUlTbEwyQXNmRC15SWExQlQ3R1Rkc051YjJrMVlBOTJTT1FkRmxQdDc5NUt5eldZbzVRMHk3dDNFWm5xZ09VeWZMTVd4MlJnamFDb2pidW1ybkgwT1hjVExpd19lOHFyRDhDb3ZYbWJoU2RVdkpzN1c3b3ZTSEZqRjkwT29RejNrRy12NlFXOTg4R2l4WTY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "803819c21ca7",
       "title": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化 - Women's Health",
       "published": "2026-10-24T12:49:45+00:00",
@@ -340,18 +328,6 @@
       ]
     },
     {
-      "id": "58c6ab8e7f1d",
-      "title": "全美流感住院率創16年同期新高 - Singtaousa",
-      "published": "2026-10-24T14:00:00+00:00",
-      "summary": "全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingViewH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6bcc54baaf5e",
       "title": "50歲醫腦出血自爆倒下前常12小時不吃飯- 健康 - 中時新聞網",
       "published": "2026-10-25T07:35:16+00:00",
@@ -360,6 +336,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80RHFxcU52SVpRdkk0Zm9LOW4wdUNNN2V0ekZBZW1aUDNPWjJrT3k2VkJFSjlCa3p2YnBuemdXMzE4QmxnNFltclAxTXhXQlY0RUFGU19LTm8wcXAtWm9xNF9kZHNLdFh6SnJ4VmJR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58c6ab8e7f1d",
+      "title": "全美流感住院率創16年同期新高 - Singtaousa",
+      "published": "2026-10-24T14:00:00+00:00",
+      "summary": "全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingViewH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
         }
       ]
     },
@@ -540,18 +528,6 @@
         {
           "name": "CCUE",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "444d0cb257be",
-      "title": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向 - 香港經濟日報HKET",
-      "published": "2026-10-21T02:08:50+00:00",
-      "summary": "晚期前列腺癌抗藥性增治療難度 新型標靶放射治療拓新方向&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQYklXMjBrOHBVQ0xtWk5FY2pYWGgxUzNMYUJpYm4xSkZwTlVfZEppd1lXbk9wN1lCdmg0amtJRXpua09EaXNvX1AtUzFHUU9LVkx1SnRaZWRnQm91ZzV4b2M3aFBhZFBhQzF3ZlpGQmVhS2JudmtydG0zei0zZ2g0MThUYVV1YzVMTmh3c0txeTVla002NVp2ZE9nbHNsTndEWkt4UFNueDRLekxESVA0emJKdlIyeW1ISndPWjFvM3JhTWlnUk93bkJmclpSTXFIUi1LNXgxeGxfUEo0ejlkakRUWGJ2cFlhdXZaOGZtTEd3V3FGcjVPM3Y1U1dhLW1JdjNkbmNHUGpWLWdmTWl3UzZSTXRjMmpveTl1ZWM0ZVNrYXk1dDlaWE9oSldkTlBEWlR5d0g3cUYyMzZIVjFrNDRLbFZVUE9xMF9iZldJWEdySUdBclNYTVN3R1JBSGFlZGM1bHdlQ3JyZi1JVEI0SXU0cFZkZjFVamkzR1ZZQktyWHlRUkdjaGtxVWphNHV1TnlwaTdR?oc=5"
         }
       ]
     },
