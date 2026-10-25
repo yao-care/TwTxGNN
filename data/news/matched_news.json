@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-10-24T22:17:55.075438+00:00",
+  "last_updated": "2026-10-25T00:41:53.734687+00:00",
   "total_count": 49,
-  "matched_count": 13,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "19e11ef27df5",
+      "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管",
+      "published": "2026-10-24T23:30:00+00:00",
+      "summary": "健康網》研究：吃對澱粉助降膽固醇 護心血管&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURllEOE1wQ1VnV2tSZGVyLWdiZ0VxWTBFRmhlTlk2enRPMFlmSFFLZmxuU00yN051c05uaU5HQ05yYVluTTRHVXhINmE5bUM3cDVvN1BUVkZEeEo5ekJCVlFJTWg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "423282f28620",
       "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
@@ -38,6 +64,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfdDVOWnBZZDBHVC0zaTE5M1RncVdoRUZxSHFyM0VnSjY0UFNUWFNncHpfOERSZGNTckJndW5JbW1HSXhfdXRzVEpkcDloMVk5dDN5OFV3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a9fd8a6b5b05",
+      "title": "微型機器人或穿過血管直達心臟 加速藥物遞送",
+      "published": "2026-10-24T15:24:00+00:00",
+      "summary": "微型機器人或穿過血管直達心臟 加速藥物遞送&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82X2Itc2tLd2twcVg0Rnhrc0wwVHpXV1JQTW1ST2lDMlhERmxlelJhX0J2QXNERW0ySnZBR19yQm95ckg1Q3lDSWJYOXdlLUxQQUIzNEo5SjNuaGlPdFg5RjhR0gFnQVVfeXFMUE45RXNDeUU4djBjMXJQS3lyOTgtamJ2d2RaTlZRVXJGcUd6b29LMElXZWdZQU9pVXZfU0VaQVZMSUpTVDlMVUdtRFVaTFBGR3ItX0stN0UwVkJST05zZTRuTE9jTzlRWQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -494,19 +533,6 @@
       "matched_keywords": []
     },
     {
-      "id": "2d0e68d0df38",
-      "title": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-23T06:33:34+00:00",
-      "summary": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生官員關注動物感染狂犬症病毒&nbsp;&nbsp;https://am1320.com/溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQSEtfdU80THRpc1JHTXlkb2hZTlVwYTBEdkhEMl9xdTlLZlVQVUJxaG56eTd3UUJLWGxReE1fd3dPaWtVdU85aDFOYzFMeTZPdE03d3gwUlJIZnU5ZmxNcGFtV0ZRcTA1aHJhQkd0bl9mM2t5TWExRFRXMExBZWJxY3N1TlNSNENrMk1XNjdHRkk0YTNBclVPQlhHVUtfdkVBZGZoNmFGT0dHc1RTUjJESkYycHU4SjQwd3p0aEw4cklELUprdS0wVy1zRWJ6YTV5R1N2N1B1MW43M201QkV1SllfT2x5TVhqTFVvVHRUWjIxTkxfdWRWWGtieXBENkRiSXNDZ1hPQkNRN0czSloyMUpERTRjbllFT0hXUUhGamZiMklSSUJpNGVycGJzc3pHQ21yemJjdGphU0VOc1RPN1ZhMGQ2clRmRnlObGgtSVFnUjJ4ZFV2R0V3T2dQTHltWkc2ekg5ZmhQM2VQZTZKc1lCbk5EZjZ3aFFHS0JJYmNRS2ZLbFlMMEpqZFppYldyVnRUME8yMUJHbThEUXA5UWg2Slp4UkF0M0ExaHN0QkdZMjhoMzFIVjZKYWxhR0s4SnFxOFNWeGlUQdIBigFBVV95cUxNX1Bsb252a1BHNl9sUUdYMkhxRTB0OV9RTUFLMlEyT2x1angyb0lQanBlWVJ2Y2NYdnpXNG1mOXI5SjZsYmxSWUNyMUVrZC1oTUhNcm9nMTFrbzNLM19rZHJFU19ybGJzc05GWmQ0MEdnbGFTS1ppRmVhQkQwZDhueU8wa0xQSVU1UGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e82799e5d0d4",
       "title": "1023國際XLH日！病友呼籲全生命照護",
       "published": "2026-10-23T05:00:00+00:00",
@@ -862,6 +888,19 @@
         {
           "name": "HIVStoryMEDIA",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1QnNZcC1TbGc2c0JaQTQ3LXd3RWRrVkVJZHJCOXZYYU5BUXJFTWw5VnY4UURkejN0SEszdFpQMEg3bVNIMUh2ek5VMjZOYzdMQ2lJMA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "61c0b21a4eb2",
+      "title": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站",
+      "published": "2026-10-22T01:43:55+00:00",
+      "summary": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站&nbsp;&nbsp;CCUE衛生官員關注動物感染狂犬症病毒&nbsp;&nbsp;https://am1320.com/",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1300,19 +1339,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "150525916da5",
-      "title": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關",
-      "published": "2026-10-20T03:17:08+00:00",
-      "summary": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRjN2a1lqQms5ZVlXNHZ0NGVrUE1ZbmpaekdPbXFfWWRzSVhIR0lNQ1dFeFU3bllJVG9MMzlHQk5nN3lVMzItOTZabE9KUDh4WjA3Vk1fUmZadnNkT0lxd2xB0gFiQVVfeXFMT2pGM3ZrWWpCazllWVc0dnQ0ZWtQTVlualp6R09tcV9ZZHNJWEhHSU1DV0V4VTduWUlUb0wzOUdCTmc3eVUzMi05NlpsT0pQOHhaMDdWTV9SZlp2c2RPSXF3bEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "c2d35d413037",
@@ -1862,19 +1888,6 @@
         {
           "name": "草根影響力新視野",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc3lrWlhrZl9INHVlUzZaNDFZTWM0Rk9zdklvT0hhdHZDQmk4ZjY5TlUxU0FvNlc2VDd6c2g1T3hSYjFaZDh4ejZab2VUOW9JRGNpc2VwOFZjUWlOQXJIbmxHSGx0WEpXNG1LV1VtMTROaDlmSW1OVzFGYkVoTm1lVDllemo3ZmwtTldnRG9GZkh2OXZ5T2JyODVxUlE5NHJwNEZPNzNNc1Z6Q3JjUmVJSU1VRUczakNNZ0tvdlJrdHc4SGpQSFVqY2ZR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "292b7565ce8f",
-      "title": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善",
-      "published": "2026-10-17T22:40:36+00:00",
-      "summary": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPeXhTdVN3bGpBMGFQSlhhNGRnVG4zV0pNeDhnWms3RUZpYi1qd3o3MDNXdVZROGpUVDZieHpHSXlFd1h6eTh3bkVrdVFoY0ZTYTlaamVTUk1BX3o1UzhTbjlJZHZZQkZUZk9URVU5RFVrV3ZHeGV1Uk5OUXJURFJxVlRsSFRFc3NOMUpFaGQya1BBRUgzcG8tMnJKUHh3VDE2QmFuSVpUMnZLOFJwY2x6aGx2RDZVVlFOdHFoVm5OMHdHU1k1M1hGSW5FSTV0TUpyVzhZNEQ0UjdUNkg1TVYyU0FaLUJKWFU2ZDZNS3NVRW5fa013dkc2WENSbF9VTy1GbDY0RXBBNzNSQk10TlM1THlxbWc0UTVORUxwVHVzazl2X0MyV1lScTBxVGNIWWtWa2JUbXFFZUhrY0FwUEd0WS1JS3pobWx4NDludDdQU1Z1enR3NEl4ckpTcklBNDNWYnowSEl2UWZOUTZvc1JpYQ?oc=5"
         }
       ],
       "matched_keywords": []

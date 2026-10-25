@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-24T22:17:53.142658+00:00",
+  "fetched_at": "2026-10-25T00:41:51.794216+00:00",
   "count": 49,
   "news": [
     {
@@ -12,6 +12,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "34c69dd02716",
+      "title": "法首出現人類染沙門達病毒強調無公衛風險- 國際 - 華視新聞網",
+      "published": "2026-10-23T06:50:00+00:00",
+      "summary": "法首出現人類染沙門達病毒強調無公衛風險- 國際&nbsp;&nbsp;華視新聞網全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;東森新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;台視新聞網全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報",
+      "sources": [
+        {
+          "name": "華視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xSTgxNzBBOUthbGVHalFNV1FwZEpFQzVYQzdBZkRTdFUzX19Fdi15cWdwWHpEQUVfaGpZUTU0YVdaZGVtUVZHZWZDVVgtX0RpenhxYmRudUFpc0trcmJ1aWJKX3NWanBrN1JQazhkNDFOT09XMG45cQ?oc=5"
         }
       ]
     },
@@ -28,14 +40,26 @@
       ]
     },
     {
-      "id": "34c69dd02716",
-      "title": "法首出現人類染沙門達病毒強調無公衛風險- 國際 - 華視新聞網",
-      "published": "2026-10-23T06:50:00+00:00",
-      "summary": "法首出現人類染沙門達病毒強調無公衛風險- 國際&nbsp;&nbsp;華視新聞網全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;東森新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例&nbsp;&nbsp;Yahoo新聞全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;台視新聞網全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報",
+      "id": "a9fd8a6b5b05",
+      "title": "微型機器人或穿過血管直達心臟 加速藥物遞送 - 大紀元",
+      "published": "2026-10-24T15:24:00+00:00",
+      "summary": "微型機器人或穿過血管直達心臟 加速藥物遞送&nbsp;&nbsp;大紀元",
       "sources": [
         {
-          "name": "華視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xSTgxNzBBOUthbGVHalFNV1FwZEpFQzVYQzdBZkRTdFUzX19Fdi15cWdwWHpEQUVfaGpZUTU0YVdaZGVtUVZHZWZDVVgtX0RpenhxYmRudUFpc0trcmJ1aWJKX3NWanBrN1JQazhkNDFOT09XMG45cQ?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82X2Itc2tLd2twcVg0Rnhrc0wwVHpXV1JQTW1ST2lDMlhERmxlelJhX0J2QXNERW0ySnZBR19yQm95ckg1Q3lDSWJYOXdlLUxQQUIzNEo5SjNuaGlPdFg5RjhR0gFnQVVfeXFMUE45RXNDeUU4djBjMXJQS3lyOTgtamJ2d2RaTlZRVXJGcUd6b29LMElXZWdZQU9pVXZfU0VaQVZMSUpTVDlMVUdtRFVaTFBGR3ItX0stN0UwVkJST05zZTRuTE9jTzlRWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "19e11ef27df5",
+      "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管 - 自由健康網",
+      "published": "2026-10-24T23:30:00+00:00",
+      "summary": "健康網》研究：吃對澱粉助降膽固醇 護心血管&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURllEOE1wQ1VnV2tSZGVyLWdiZ0VxWTBFRmhlTlk2enRPMFlmSFFLZmxuU00yN051c05uaU5HQ05yYVluTTRHVXhINmE5bUM3cDVvN1BUVkZEeEo5ekJCVlFJTWg?oc=5"
         }
       ]
     },
@@ -280,18 +304,6 @@
       ]
     },
     {
-      "id": "150525916da5",
-      "title": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關 - 元氣網",
-      "published": "2026-10-20T03:17:08+00:00",
-      "summary": "手術前別只顧補身體！研究發現多走路、少久坐與術後腦部健康有關&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRjN2a1lqQms5ZVlXNHZ0NGVrUE1ZbmpaekdPbXFfWWRzSVhIR0lNQ1dFeFU3bllJVG9MMzlHQk5nN3lVMzItOTZabE9KUDh4WjA3Vk1fUmZadnNkT0lxd2xB0gFiQVVfeXFMT2pGM3ZrWWpCazllWVc0dnQ0ZWtQTVlualp6R09tcV9ZZHNJWEhHSU1DV0V4VTduWUlUb0wzOUdCTmc3eVUzMi05NlpsT0pQOHhaMDdWTV9SZlp2c2RPSXF3bEE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6b14b8bcfe9d",
       "title": "有片｜警惕！這五大癌症發病率最高！ - 香港商报",
       "published": "2026-10-22T13:34:00+00:00",
@@ -388,18 +400,6 @@
       ]
     },
     {
-      "id": "2d0e68d0df38",
-      "title": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-23T06:33:34+00:00",
-      "summary": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生官員關注動物感染狂犬症病毒&nbsp;&nbsp;https://am1320.com/溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站&nbsp;&nbsp;CCUE",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQSEtfdU80THRpc1JHTXlkb2hZTlVwYTBEdkhEMl9xdTlLZlVQVUJxaG56eTd3UUJLWGxReE1fd3dPaWtVdU85aDFOYzFMeTZPdE03d3gwUlJIZnU5ZmxNcGFtV0ZRcTA1aHJhQkd0bl9mM2t5TWExRFRXMExBZWJxY3N1TlNSNENrMk1XNjdHRkk0YTNBclVPQlhHVUtfdkVBZGZoNmFGT0dHc1RTUjJESkYycHU4SjQwd3p0aEw4cklELUprdS0wVy1zRWJ6YTV5R1N2N1B1MW43M201QkV1SllfT2x5TVhqTFVvVHRUWjIxTkxfdWRWWGtieXBENkRiSXNDZ1hPQkNRN0czSloyMUpERTRjbllFT0hXUUhGamZiMklSSUJpNGVycGJzc3pHQ21yemJjdGphU0VOc1RPN1ZhMGQ2clRmRnlObGgtSVFnUjJ4ZFV2R0V3T2dQTHltWkc2ekg5ZmhQM2VQZTZKc1lCbk5EZjZ3aFFHS0JJYmNRS2ZLbFlMMEpqZFppYldyVnRUME8yMUJHbThEUXA5UWg2Slp4UkF0M0ExaHN0QkdZMjhoMzFIVjZKYWxhR0s4SnFxOFNWeGlUQdIBigFBVV95cUxNX1Bsb252a1BHNl9sUUdYMkhxRTB0OV9RTUFLMlEyT2x1angyb0lQanBlWVJ2Y2NYdnpXNG1mOXI5SjZsYmxSWUNyMUVrZC1oTUhNcm9nMTFrbzNLM19rZHJFU19ybGJzc05GWmQ0MEdnbGFTS1ppRmVhQkQwZDhueU8wa0xQSVU1UGc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f0171e6d4e87",
       "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
       "published": "2026-10-22T08:32:45+00:00",
@@ -432,18 +432,6 @@
         {
           "name": "鉅亨號",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LamQzMllKYVRzdVlucWNuZ0ZmSWNtMGVoRWEyWldlNlEwQ21vaVFpX0ljX3ZfWFlnYjdqVXdpd2J1TEtNNGFEZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "292b7565ce8f",
-      "title": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善 - 巴士的報",
-      "published": "2026-10-17T22:40:36+00:00",
-      "summary": "每日吃90克全穀物有助護心？研究揭膽固醇、 血壓及腰圍均有改善&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPeXhTdVN3bGpBMGFQSlhhNGRnVG4zV0pNeDhnWms3RUZpYi1qd3o3MDNXdVZROGpUVDZieHpHSXlFd1h6eTh3bkVrdVFoY0ZTYTlaamVTUk1BX3o1UzhTbjlJZHZZQkZUZk9URVU5RFVrV3ZHeGV1Uk5OUXJURFJxVlRsSFRFc3NOMUpFaGQya1BBRUgzcG8tMnJKUHh3VDE2QmFuSVpUMnZLOFJwY2x6aGx2RDZVVlFOdHFoVm5OMHdHU1k1M1hGSW5FSTV0TUpyVzhZNEQ0UjdUNkg1TVYyU0FaLUJKWFU2ZDZNS3NVRW5fa013dkc2WENSbF9VTy1GbDY0RXBBNzNSQk10TlM1THlxbWc0UTVORUxwVHVzazl2X0MyV1lScTBxVGNIWWtWa2JUbXFFZUhrY0FwUEd0WS1JS3pobWx4NDludDdQU1Z1enR3NEl4ckpTcklBNDNWYnowSEl2UWZOUTZvc1JpYQ?oc=5"
         }
       ]
     },
@@ -528,6 +516,18 @@
         {
           "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNN3E3TVk1UmQzc1BmTkoyQkdheGcwQ21NblBxbEYwNENLSWE2RmUzZU5OUGFoc0wwOV9JeXNJUXFGMk9VLThRVndnVHQ2eHNia0wtMDJXM2o1NzZFNTlfUGZqSGxyZmlIM3pZRVhkNW1lMXY4SUZ0V2RKYUVaVUFVLTdySjJJZkJYTC1welp6NnFXdkQxQkpZN2d5ZVh5Mi1wR29pVWFtZk1ZOVhiU1UxR2NZaWVNc2JVR3o0SEM3SEMyNzNrU21nSG1jblEtczJSVkhJdjBoVi1XaUQycjdjb2NwX1k1ZGQ5WDBtbW05Um1uc0FCcW5LWWxtWG9FX2ZrSXBhWjZmcjdkZzlWajJDQVJUQTVsVG8yekFKQjE5M25rT0w4WnhwSGkwS2VyMkwybk5VTEVFZUdtMjg4MmNNXy0tQ3FBUzJGaEoyaF9NQWZJRkxLZTl1dlg2YzJ5QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "61c0b21a4eb2",
+      "title": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站 - CCUE",
+      "published": "2026-10-22T01:43:55+00:00",
+      "summary": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站&nbsp;&nbsp;CCUE衛生官員關注動物感染狂犬症病毒&nbsp;&nbsp;https://am1320.com/",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
         }
       ]
     },
