@@ -14,7 +14,7 @@ permalink: /news/temozolomide/
 ---
 
 <p class="key-answer" data-question="Temozolomide 有什麼相關新聞？">
-<strong>Temozolomide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Temozolomide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ permalink: /news/temozolomide/
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5)
 
@@ -65,14 +65,6 @@ permalink: /news/temozolomide/
 2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
----
-
-### [網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源: [全民查假會社](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
 
 ---
 

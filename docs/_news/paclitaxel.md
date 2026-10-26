@@ -14,7 +14,7 @@ permalink: /news/paclitaxel/
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ permalink: /news/paclitaxel/
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [封面故事／共餐不用公筷 華人胃癌大增](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5)
 
@@ -52,11 +52,11 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXRPU3BpaWVJSERwS0Q4NDUtdWdEOHR4ZDdDSGNLZUlTbEwyQXNmRC15SWExQlQ3R1Rkc051YjJrMVlBOTJTT1FkRmxQdDc5NUt5eldZbzVRMHk3dDNFWm5xZ09VeWZMTVd4MlJnamFDb2pidW1ybkgwT1hjVExpd19lOHFyRDhDb3ZYbWJoU2RVdkpzN1c3b3ZTSEZqRjkwT29RejNrRy12NlFXOTg4R2l4WTY?oc=5)
+### [偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？ | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3QTRYSTNWYmwxS0xvendnZmQxTDNETTM0NFVyaTlobHhFeGhVMTg2LW5BMi1tcnZnRFdXTW9VclZFNFRzMGJVUWYxa3VxN3FtdXNGTUx3?oc=5)
 
 2026-10-25 <span class="news-indication-tag">膀胱癌</span>
 
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXRPU3BpaWVJSERwS0Q4NDUtdWdEOHR4ZDdDSGNLZUlTbEwyQXNmRC15SWExQlQ3R1Rkc051YjJrMVlBOTJTT1FkRmxQdDc5NUt5eldZbzVRMHk3dDNFWm5xZ09VeWZMTVd4MlJnamFDb2pidW1ybkgwT1hjVExpd19lOHFyRDhDb3ZYbWJoU2RVdkpzN1c3b3ZTSEZqRjkwT29RejNrRy12NlFXOTg4R2l4WTY?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3QTRYSTNWYmwxS0xvendnZmQxTDNETTM0NFVyaTlobHhFeGhVMTg2LW5BMi1tcnZnRFdXTW9VclZFNFRzMGJVUWYxa3VxN3FtdXNGTUx3?oc=5)
 
 ---
 
@@ -97,14 +97,6 @@ permalink: /news/paclitaxel/
 2026-10-19 <span class="news-indication-tag">子宮頸癌</span>
 
 來源: [中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUdtMlZsczFNemlYZV96MjYxdlpfU0RxRHFja2Q2RmVMU2tVWGVaNlljbGx1V1FLQXB6V1ZKRU0xZE5OeVFTOG5HUndia2FHNHpfUFlWOVM3Q3lxSFJKU2t1ZHB4Qm9lajVv?oc=5)
-
----
-
-### [網傳「喝牛奶會增加死亡、骨折及心血管疾病、癌症死亡風險」為部分正確](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
-
-2026-10-19 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
-
-來源: [全民查假會社](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1QXR3TFVuemVCOGJnaWxwQWtXazRfX0QxVWp5WGtHaFZWVTNKa0ZneXBNWGVUYnlvZDVzb0xKc0M1bUxSYnhEdTMzYw?oc=5)
 
 ---
 
