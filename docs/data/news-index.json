@@ -1,7 +1,42 @@
 {
-  "generated": "2026-10-25T22:56:21.299499+00:00",
-  "count": 15,
+  "generated": "2026-10-26T00:56:02.313548+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "ca027ca5a83a",
+      "title": "封面故事／共餐不用公筷 華人胃癌大增",
+      "published": "2026-10-25T21:19:00+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "trastuzumab-deruxtecan",
+              "name": "Trastuzumab deruxtecan",
+              "url": "/drugs/trastuzumab-deruxtecan/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "19d9274b14cb",
       "title": "偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？ - TechNews 科技新報",
@@ -948,13 +983,13 @@
       ]
     },
     {
-      "id": "8bf889db494b",
-      "title": "陸癌症中心公布發病前五癌症 死亡率之首是它",
-      "published": "2026-10-21T04:40:18+00:00",
+      "id": "bd2f63c66834",
+      "title": "陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸",
+      "published": "2026-10-21T04:40:00+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWE9ORXhac294WHF3R3FGVk1mU2JKbkhRU1hncXE3TFhleUE0bnlvTlhxN3hMTUNUNC1nOWk2Y2tLZE92cVQycVIxSjI4Qk92Tm5qSDExMTZheGw2VFZtU2RfSkpGeEh5ZXlnbUVn?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5"
         }
       ],
       "keywords": [

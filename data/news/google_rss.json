@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-25T22:56:18.837278+00:00",
-  "count": 48,
+  "fetched_at": "2026-10-26T00:55:59.930755+00:00",
+  "count": 47,
   "news": [
+    {
+      "id": "19e11ef27df5",
+      "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管 - 自由健康網",
+      "published": "2026-10-24T23:30:00+00:00",
+      "summary": "健康網》研究：吃對澱粉助降膽固醇 護心血管&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURllEOE1wQ1VnV2tSZGVyLWdiZ0VxWTBFRmhlTlk2enRPMFlmSFFLZmxuU00yN051c05uaU5HQ05yYVluTTRHVXhINmE5bUM3cDVvN1BUVkZEeEo5ekJCVlFJTWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6cad1f11e75",
+      "title": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式 - 自由健康網",
+      "published": "2026-10-26T00:37:00+00:00",
+      "summary": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTFdsdTJJNFBRelA3bGtMdlRxeERxSlJTYVluaTVRQlBVNzZhTndkQ1kxcklKTVFHU1VKWjg4SGV3QUo2bVlub3RXUzRHNVFydXJRSjB6UDM0MFRvNjVGM1c1NUw?oc=5"
+        }
+      ]
+    },
     {
       "id": "19d9274b14cb",
       "title": "偵測癌細胞留下的 RNA，尿液也能驗出膀胱癌？ - TechNews 科技新報",
@@ -16,26 +40,14 @@
       ]
     },
     {
-      "id": "d5960213c155",
-      "title": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播 - 自由時報",
-      "published": "2026-10-22T18:49:53+00:00",
-      "summary": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;Yahoo新聞全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;台視新聞網法國報告全球首例人類感染沙蒙達病毒病例&nbsp;&nbsp;中國評論新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY",
+      "id": "608c2275b5ce",
+      "title": "法國通報首例人類感染沙門達病毒 世衛稱無擴散跡象 - Yahoo新聞",
+      "published": "2026-10-23T02:06:43+00:00",
+      "summary": "法國通報首例人類感染沙門達病毒 世衛稱無擴散跡象&nbsp;&nbsp;Yahoo新聞全球首例！法國男染「沙門達病毒」亡 官方：無傳染風險&nbsp;&nbsp;Yahoo新聞全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;台視新聞網法國報告全球首例人類感染沙蒙達病毒病例&nbsp;&nbsp;中國評論新聞原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zN3d2ekJaTEdLT3VnSTJXMlYxMnZKTjlld3pFTTZmbTh0SFp3ZGk0LWRZWm83YVRLel9iVk9ybUJLX3JIMlZUcGZ4NUNpdkM1dDZ4TkE4UGJlLWZwdS1CbUFORGMyQdIBa0FVX3lxTE1LOEhZYWxIbVZObFYwaUV1dUNCLU1xelhrX0NId1dwQVZHMzdJSURyY3cxeVNnQk5GQXJueVE1NTN4UHhocm5OVXBFYkVmZTJoR295cFB5bkFVNVV4Ykh0VW4xUjQtOE5FeEN3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "423282f28620",
-      "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
-      "published": "2026-10-24T16:01:31+00:00",
-      "summary": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNdVpSckJ1SVZhdHJFb3FzZENUcVlxenlRZTc5Z2pOM2NVbjBJOGRObWRUZkRSSENQRDY2d3QzMXd1YVJLQmJoblRkR21WTDRXVmZqUzM3NTZEMWJVT2VGc2ZXb2xmNTI0STE2XzhDa1RLTUIxenlqcC11c1NsRXhfa2tjUlEyTnVJV21nSkRIdTZjVU4waThCa1N1Uy01cGZKMldSbnYyWDdzVXE5elAyS2lpd1BsaVFqSThpNkduWDRlQ3hmY3ZFVmx5bC0zU2tncGltbFJyYVpvemtkeVNTcUItMWFmYld1dTd4NjdTMHdteG11Y0VGNU5Ya1lfRmJPdGpBOGJmeFpHSHdvS2R3cjVuNkdPYXVJT0RmRmVlTmVUYXVSNmZMajNpVDVwR05aTEhSaTJnX1Y1cjg1dkZJMGNHal9TZEh2LUFJemFzU29EeFpuVFpzMkQ0Y2JUTUdxZklUTUhGNmI?oc=5"
         }
       ]
     },
@@ -48,6 +60,18 @@
         {
           "name": "HIVStoryMEDIA",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1QnNZcC1TbGc2c0JaQTQ3LXd3RWRrVkVJZHJCOXZYYU5BUXJFTWw5VnY4UURkejN0SEszdFpQMEg3bVNIMUh2ek5VMjZOYzdMQ2lJMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "423282f28620",
+      "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
+      "published": "2026-10-24T16:01:31+00:00",
+      "summary": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5"
         }
       ]
     },
@@ -120,18 +144,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQX201ZmRsZnpkeWlpNlVhbjZPZFdrRTZQS2o4QzdjR2ZDdW5Yd3ozTU5OMmVuTFBLV0x2MW90RnFVRnZicmZOUFZzNG1qNGk2YzZ0M2V3Mjh5SDdjYnJ2VGtNNk82X3AyYXVMYmpDZVQxZHJJVkRUakJ2T214c2J2aTU0UGgzM3B0emx4Y0Jkd2NDYUVhRV9RdlVCZ1pEdkpmWXVwRmxrOXYtVnJrQkZWckZja01Wd3I3M1RjQjJFUm45dUVOT2dpSjZzdEZ3dDZ1dFpTRUhtYTVwcUtHclZFWXVIZzlZS3JiNHFrdmRtb0ktcFVsYWF6RzBhZDBrTHRhVV9fY01vX3hMZmZBb18yQ1ljZ3lvM3BnS0laTHFMTWtSM3V4UEJVd21TWFhhQzA4eXhkdnhLUDBSalJfTHhVQWlYQXc5YVRnR0p6Ymd0RXFEQ0cyYzR2UnU1akg5TzhMTHNaLVNveHlQa25IMTVITE5OWThVZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19e11ef27df5",
-      "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管 - 自由健康網",
-      "published": "2026-10-24T23:30:00+00:00",
-      "summary": "健康網》研究：吃對澱粉助降膽固醇 護心血管&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURllEOE1wQ1VnV2tSZGVyLWdiZ0VxWTBFRmhlTlk2enRPMFlmSFFLZmxuU00yN051c05uaU5HQ05yYVluTTRHVXhINmE5bUM3cDVvN1BUVkZEeEo5ekJCVlFJTWg?oc=5"
         }
       ]
     },
@@ -220,30 +232,6 @@
       ]
     },
     {
-      "id": "85d7d9314019",
-      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫 - https://www.yesmedia.com.tw/",
-      "published": "2026-10-19T00:17:45+00:00",
-      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;https://www.yesmedia.com.tw/",
-      "sources": [
-        {
-          "name": "https://www.yesmedia.com.tw/",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ1pjaWJZTEMwU0F3aFFEMVdGSkItdXI0TmQ3Y2xDNndZSVRnSTBjQWhHMWhzbG1tdllGeWpPSTUtbFlTNWVtVFJQQm5EN3VYV0FYMWRTN01XX24taFRGQzFUWDk3UkdxcjlsNVk4TmoxVkZwZkpMVXJ2NEpLcVprYWIxQmhwOVhpUnRpeG1rV2JQZlNmbzBfWmVYMFhfUHNKQ1FxaW5TQUQzOGVYZTRRbDZnSnZSUzJpWTNIN0duUlJNVTRuWWdxSTZLT0k1VUk4LUNJQm9uU1F5ZGpIYms2eFFBT3dtLUF5ZmNybnQyS2ZVUGZiNWZZS3hzamtPNVB1SW9yVTNkcEE4eG9CT1UwY3FaTDB3SUh1ODNyMDVaQ1l6RGRHdHhqN2ZCNUdnTnF0Y1RUWkQ4R0p3ZFVVUjNiNmhsWFFGMU1hZXk1NQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54b54697fde4",
-      "title": "天天吃草莓蘋果能抗老延壽？專家解析神奇的漆黃素秘密- 書房 - 工商時報",
-      "published": "2026-10-18T23:30:00+00:00",
-      "summary": "天天吃草莓蘋果能抗老延壽？專家解析神奇的漆黃素秘密- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKQjdBSGZsWlpvVXpnc0ZNeUJLMXlTczJDajhnblFtXzBNMlMxVV9FUFNSRGZqU2xCbmZ6MGFpT3hlaGpna3BJVWhfeHA4d0owWUJ0ZlNJZmkyM2JKaGMw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6f29f1c7427b",
       "title": "聲音或藏老化線索 研究：語音特徵與大腦老化相關 - 希望之聲電台",
       "published": "2026-10-20T22:25:05+00:00",
@@ -268,14 +256,14 @@
       ]
     },
     {
-      "id": "8bf889db494b",
-      "title": "陸癌症中心公布發病前五癌症 死亡率之首是它 - 中時新聞網",
-      "published": "2026-10-21T04:40:18+00:00",
-      "summary": "陸癌症中心公布發病前五癌症 死亡率之首是它&nbsp;&nbsp;中時新聞網最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸&nbsp;&nbsp;工商時報“甲状腺癌为何越来越多”冲热搜 网民质疑疫苗灾难(图)&nbsp;&nbsp;CMoney內地癌症發病譜劇烈重構 肺癌仍最致命&nbsp;&nbsp;on.cc東網",
+      "id": "bd2f63c66834",
+      "title": "陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸 - 工商時報",
+      "published": "2026-10-21T04:40:00+00:00",
+      "summary": "陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸&nbsp;&nbsp;工商時報最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food“甲状腺癌为何越来越多”冲热搜 网民质疑疫苗灾难(图)&nbsp;&nbsp;CMoney內地癌症發病譜劇烈重構 肺癌仍最致命&nbsp;&nbsp;on.cc東網中國癌症發病榜名單大洗牌：甲狀腺癌第3 汪明荃、徐若瑄是患者&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWE9ORXhac294WHF3R3FGVk1mU2JKbkhRU1hncXE3TFhleUE0bnlvTlhxN3hMTUNUNC1nOWk2Y2tLZE92cVQycVIxSjI4Qk92Tm5qSDExMTZheGw2VFZtU2RfSkpGeEh5ZXlnbUVn?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5"
         }
       ]
     },
@@ -300,6 +288,18 @@
         {
           "name": "UDN",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOS3QxZU1CUk9EOUVPb2RtN1N6amk3YVkwQ2NlV212aUFxZW01SkZWX1pUUVZnclliUnZ3LXFmLWp2TFUwNE1RYmRELTZFU1NBNURrTXpvZndndGJNdWw2MDZ5YWJvU0ZyT3gybnpjdk1qQ1dnM2Rqa1hSVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca027ca5a83a",
+      "title": "封面故事／共餐不用公筷 華人胃癌大增 - 世界新聞網",
+      "published": "2026-10-25T21:19:00+00:00",
+      "summary": "封面故事／共餐不用公筷 華人胃癌大增&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
         }
       ]
     },
@@ -388,14 +388,14 @@
       ]
     },
     {
-      "id": "b651079fb2e8",
-      "title": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關 - 經商新聞",
-      "published": "2026-10-18T23:06:35+00:00",
-      "summary": "UEG Week 2026：童年起使用抗生素與成年初期腸易激綜合症患病機會增加有關&nbsp;&nbsp;經商新聞",
+      "id": "85d7d9314019",
+      "title": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫 - https://www.yesmedia.com.tw/",
+      "published": "2026-10-19T00:17:45+00:00",
+      "summary": "越南胡志明市校園爆腦膜炎疫情 一學生死亡醫濟部急籲加強防疫&nbsp;&nbsp;https://www.yesmedia.com.tw/",
       "sources": [
         {
-          "name": "經商新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Oc2czY28tUkl1MjQwM1d3TjhFLVpYcUJ0NjQ0SmhlbGc2YjFlZ21HT0tuQ1ZiVFVlS2o3NFB4MmFMYkd6cFNqdS1SUUx5UQ?oc=5"
+          "name": "https://www.yesmedia.com.tw/",
+          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZ1pjaWJZTEMwU0F3aFFEMVdGSkItdXI0TmQ3Y2xDNndZSVRnSTBjQWhHMWhzbG1tdllGeWpPSTUtbFlTNWVtVFJQQm5EN3VYV0FYMWRTN01XX24taFRGQzFUWDk3UkdxcjlsNVk4TmoxVkZwZkpMVXJ2NEpLcVprYWIxQmhwOVhpUnRpeG1rV2JQZlNmbzBfWmVYMFhfUHNKQ1FxaW5TQUQzOGVYZTRRbDZnSnZSUzJpWTNIN0duUlJNVTRuWWdxSTZLT0k1VUk4LUNJQm9uU1F5ZGpIYms2eFFBT3dtLUF5ZmNybnQyS2ZVUGZiNWZZS3hzamtPNVB1SW9yVTNkcEE4eG9CT1UwY3FaTDB3SUh1ODNyMDVaQ1l6RGRHdHhqN2ZCNUdnTnF0Y1RUWkQ4R0p3ZFVVUjNiNmhsWFFGMU1hZXk1NQ?oc=5"
         }
       ]
     },
@@ -472,18 +472,6 @@
       ]
     },
     {
-      "id": "027c1649bd2e",
-      "title": "AI輔助篩查有助於糖尿病患者及時接受眼科診療 - 紫荊網",
-      "published": "2026-10-20T01:54:14+00:00",
-      "summary": "AI輔助篩查有助於糖尿病患者及時接受眼科診療&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "紫荊網",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNk05MlVVbVNCLXpPekhSckZaQURJTmZhZFVVUEY4aGIwaWVLVGp3RGwwSHJKV2ZKbUtEX0lJVkZSU0d1Yk1DaUNET0pNX1Mxa1BIUDQ4X01SaHRaU3laWWx4YXhtWElwTm00dE8wSUJ6Y3BMSnhDbDIwS3FDYUVlV202NG9SZUtEcFVncjBuM1Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f1a35c0a7b7",
       "title": "力生製藥沙庫巴曲纈沙坦鈉片獲註冊證書 視同通過一致性評價 - 觀點網",
       "published": "2026-10-19T09:18:28+00:00",
@@ -499,7 +487,7 @@
       "id": "4ced1272eebe",
       "title": "流感疫苗接種比率下降 衞生署：流感季或長達5個月 - 香港商报",
       "published": "2026-10-22T02:35:10+00:00",
-      "summary": "流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报12歲女童染甲流後併發敗血性休克不治 衞生防護中心籲市民盡快接種疫苗&nbsp;&nbsp;Yahoo三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa3歲男童染甲流情況危殆 曾一度失去意識&nbsp;&nbsp;信報網站流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "summary": "流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "香港商报",
