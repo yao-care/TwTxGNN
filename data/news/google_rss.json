@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-26T11:55:07.699195+00:00",
+  "fetched_at": "2026-10-26T17:57:57.267622+00:00",
   "count": 46,
   "news": [
     {
@@ -24,6 +24,18 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTFdsdTJJNFBRelA3bGtMdlRxeERxSlJTYVluaTVRQlBVNzZhTndkQ1kxcklKTVFHU1VKWjg4SGV3QUo2bVlub3RXUzRHNVFydXJRSjB6UDM0MFRvNjVGM1c1NUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a983e53cef27",
+      "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例 - 希望之聲電台",
+      "published": "2026-10-26T11:16:17+00:00",
+      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY全球首宗 人類感染沙蒙達病毒&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "希望之聲電台",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnlBWi01YV9QMXRlQ05lSHp0ai1aQS1YLXZ5dGQ1Qm44X3FMSE03T2MtcWdJdk10SjFaVFZ6NjdPeDd3Q1dScV9xdndJcFJaaTJCM09DWFJWalU?oc=5"
         }
       ]
     },
@@ -60,18 +72,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3QTRYSTNWYmwxS0xvendnZmQxTDNETTM0NFVyaTlobHhFeGhVMTg2LW5BMi1tcnZnRFdXTW9VclZFNFRzMGJVUWYxa3VxN3FtdXNGTUx3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a7d4c55b382",
-      "title": "法國通報人類感染「沙門達病毒」全球首例患者已死亡- 國際 - 中時新聞網",
-      "published": "2026-10-22T09:40:48+00:00",
-      "summary": "法國通報人類感染「沙門達病毒」全球首例患者已死亡- 國際&nbsp;&nbsp;中時新聞網全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;www.soundofhope.org法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BR1NId1NaSF9PdUpSS1JOUDNxQ0Y2aXJlRnJLczJzQUMtOTVZNDRsRmpOZ3UtdEtGQ0Q3NTI2YUlFXy0wRENfNlh2a3ppQkFkRUoxTFBSRXhrNldjM2c4WEVHMXd5Z3VpbHZKUkt3?oc=5"
         }
       ]
     },
@@ -124,26 +124,26 @@
       ]
     },
     {
-      "id": "ec2e293f9748",
-      "title": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報 - LINE TODAY",
-      "published": "2026-10-22T07:00:00+00:00",
-      "summary": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "8db9c3f3dff1",
+      "title": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% - TechNews 科技新報",
+      "published": "2026-10-24T05:31:24+00:00",
+      "summary": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37%&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5"
         }
       ]
     },
     {
-      "id": "c8df3b202a33",
-      "title": "AI 設計噬菌體首度用於人體 對付耐藥菌感染 - Techapple.com",
-      "published": "2026-10-24T09:30:00+00:00",
-      "summary": "AI 設計噬菌體首度用於人體 對付耐藥菌感染&nbsp;&nbsp;Techapple.com",
+      "id": "a07eebd49bd0",
+      "title": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 | 科技新報 - LINE TODAY",
+      "published": "2026-10-23T11:33:34+00:00",
+      "summary": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Techapple.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00T0lodUYxQmgyczRyZE1xNERqWjV4MXlUVnI2c3BVSlVkRGpLaHIxblVBTVFhMmhVNHBKYXpneWVMNkFack9qdl8yelY?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcVFwa2JHUGhUVzYydTM5LVVmSnVpV2MxRkNlNnBRZjdlSHJMUS13NmxZZG9OM294b3ZHaGV3cVFxaUtoR2R3dEhlMGc5NUxoSWpkTHFR?oc=5"
         }
       ]
     },
@@ -184,14 +184,14 @@
       ]
     },
     {
-      "id": "667ec7b89da9",
-      "title": "10/23 國際 XLH 疾病意識日 / 孩子走路搖晃、腿型改變是成長造成？醫籲：留意 XLH 早期警訊 - 蕃新聞",
-      "published": "2026-10-19T14:00:00+00:00",
-      "summary": "10/23 國際 XLH 疾病意識日 / 孩子走路搖晃、腿型改變是成長造成？醫籲：留意 XLH 早期警訊&nbsp;&nbsp;蕃新聞日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報",
+      "id": "41186fdc14ad",
+      "title": "日行不到300步 她22歲確診XLH - Yahoo新聞",
+      "published": "2026-10-19T22:00:05+00:00",
+      "summary": "日行不到300步 她22歲確診XLH&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOHF6d1B2OExvLVZ1NGR2SkxRUC1NYVlzMGFNWE5pc3M5QjdQeVZ1akZYdXE3NEZ0RnhWTHl4aUpHWGRVRDllRFc1VlJjcFZPRWc?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZHdmNGg4N2M4UmVYR1pwMlZKajNzTG1IVzJIWldpMlZZdGNzMXo4V2wtVjVGM3l6SzltR2Vvc2xtOWZJdmttN25CSFVQS1FWRUxGRS1xZHdIYmkxaFpTUDFNSmIzbUJ1UmpsY1Vtb0FqT29DdDczalB1bmVQcnlid0JyNFdTbjRoTWUzTGlSM1h6ZVB2R2lrRDVPV2JwdEY4aXExU2ZsNVQ1czQwTnI0OUE1S3MyZGloUHczWWFBSFZpOTB5ZE83ZTNzaw?oc=5"
         }
       ]
     },
@@ -208,6 +208,18 @@
       ]
     },
     {
+      "id": "18a560d9e3f6",
+      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - 民視新聞網",
+      "published": "2026-10-20T04:30:00+00:00",
+      "summary": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VNkJHbnFMajJwZE1jVC04Y0dhS2Nnb0NkY0NyOVRyU1dWd05VdUlmQVU2WFlvWDZObEZnM1gtVldzNmlGblJuODBjRENLWlBDYXNjS2ZvbnBNTXo5clFfTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6de269ba5550",
       "title": "癌症五條「入侵路徑」都與日常習慣有關 - 大紀元時報香港",
       "published": "2026-10-25T05:20:00+00:00",
@@ -216,30 +228,6 @@
         {
           "name": "大紀元時報香港",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "30af67ad48ba",
-      "title": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意 - 健康醫療網",
-      "published": "2026-10-19T13:00:00+00:00",
-      "summary": "創傷後心理疾病恐增心血管風險 丹麥大型研究揭：酒精濫用情形值得留意&nbsp;&nbsp;健康醫療網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11R1NydzBBeTlnanJ3a0V3U3JlWnBCUFVvZ0RlcU1rS2dYMWNQMUI2QjY1UGRINThwMjRIZlg5NWROQkpXWVdXekt0em5Cb0tVQXVscmNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc04ec604e3f",
-      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上 - ELLE",
-      "published": "2026-10-19T15:35:13+00:00",
-      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVJIMWRBV3ZPZjMwSkQ0WGxQZjdRMVRhb2tUbnVFWVBCYTUyXzRKSnVkeV9OU3NKWjBQeFU2bzVGdEJIUFZBMFQ2WDBBWjlzekNZcVc4aHJXTEphdi1jcFVRZ3JfeWdGVV9jOUR2NWNTMExObTc4RDhIYUJRRGx1Wk1TT0YyaFk?oc=5"
         }
       ]
     },
@@ -256,14 +244,14 @@
       ]
     },
     {
-      "id": "36cd374e75a5",
-      "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12 - Yahoo新聞",
+      "id": "204e7c0f9277",
+      "title": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12 - 中天新聞網",
       "published": "2026-10-20T07:26:32+00:00",
-      "summary": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12&nbsp;&nbsp;Yahoo新聞",
+      "summary": "全素者大腸癌風險最高 醫：缺乏鈣、維生素D與B12&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXFrbE1PcGt6R1VqWERLek9ETEZzODNSck9wRVNaZkNiTk8xaEpMX0dkWXFjMDNSM252bDl3M2FjVXl2clNMZ1FYMXhZcWdEanBCWlZyb0pnS2EySkZvbzk4ME1ETHUtcTZxb3RSeUhHNExwTGl4cEtJQmZOLXExTVZiVk9WWnF3RTR2MjVvUUdNNjZjaTlMUWNfa0x6cFFmU3ljeEQ0Y2xReVJnTjhfZmR1dVEzeEJRdW9qbDBQN0VLeUo4Z3lFZjYtRVlNZFgwQkwxZEhqeG5BVkFteUhvajM3Q3lfRmtyTDVMZU95YnhfQ3V2UElleFNjYnlkY3NzdzBmeHdGZ1RTT3dsajZoMnVSWmVtbWV3c2NjMWl3cno0bEU4T1FzTjBhNmlCcHp6MEtmag?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sOHVVRHo5N0JyV1NGNmd1VUJoMjhDQ2tFTnRJa1p3blZkcHpFZUVlOHEwVGwyRlFmNXo4aHVlWnlFSFZJZ0pXdnduMng1ZU5UcFhF?oc=5"
         }
       ]
     },
@@ -276,18 +264,6 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6b14b8bcfe9d",
-      "title": "有片｜警惕！這五大癌症發病率最高！ - 香港商报",
-      "published": "2026-10-22T13:34:00+00:00",
-      "summary": "有片｜警惕！這五大癌症發病率最高！&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "香港商报",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5"
         }
       ]
     },
@@ -340,18 +316,6 @@
       ]
     },
     {
-      "id": "58c6ab8e7f1d",
-      "title": "全美流感住院率創16年同期新高 - Singtaousa",
-      "published": "2026-10-24T14:00:00+00:00",
-      "summary": "全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingViewH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大華州西部流感季提前 住院人數上升&nbsp;&nbsp;大紀元衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "00c0e5288c6b",
       "title": "薛國斌初中血糖飆至20度「隨時休克」 30歲大腿生瘡活生生開刀手術轉戰拳擊成功控糖+ 醫生拆解三大控糖迷思| 健康 - 東方新地",
       "published": "2026-10-26T04:00:29+00:00",
@@ -372,6 +336,30 @@
         {
           "name": "healthyD",
           "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "57415b072bb4",
+      "title": "UC Berkeley 解開深睡之謎 生長激素與清醒腦區互動迴路現形 - Techapple.com",
+      "published": "2026-10-20T04:31:57+00:00",
+      "summary": "UC Berkeley 解開深睡之謎 生長激素與清醒腦區互動迴路現形&nbsp;&nbsp;Techapple.com",
+      "sources": [
+        {
+          "name": "Techapple.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rSmtHalR3X0dvbDc2OEs5VEdmOHNfU2lQLV96UE5EVWJlaGhaODdjemhNTWt0S3JaZ3VTMXVEbFdTT3dxRE5obDZwa1M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "395ea44388a5",
+      "title": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例 - KTSF.com",
+      "published": "2026-10-23T14:54:31+00:00",
+      "summary": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例&nbsp;&nbsp;KTSF.com美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingView全美流感住院率創16年同期新高&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "KTSF.com",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10OGJPMDNHbzc1WENYdXA2cThXaGNRdlZiMHRaQUJtb2s5NkZZd1dfTUZ0Z0dIZ3NucjBFZE5raGhVNzZ3QVota2JhTEhKYjdzMWZfWGdNM0lCN3FYSXlzSW9TOXBMOUN6UEFBVWxveFRKZHFQZUg2Zg?oc=5"
         }
       ]
     },
@@ -448,6 +436,18 @@
       ]
     },
     {
+      "id": "36bd9414a616",
+      "title": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上 | ELLE - Yahoo新聞",
+      "published": "2026-10-20T03:47:50+00:00",
+      "summary": "50歲後免疫力如何改變？尤其要注意呼吸道疾病，小心導致慢性健康問題找上 | ELLE&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPU1lSUjJva19JZ1VXMTJCZU9aUUM1OU92M1Z5UHVaNkYxRW5pTTQ5a2w0bGhFNm44amNkanJKUlBfU1dXOFkzRldBaGdUMnRXakh0WTl6NDNTYnJQX2g2QkNsMVR3TFZXRndpdU44eVJIUW5hU2xBR2dDaUgwcktsVHVjWkszU2tLQWxmVHdQRUw4cHlsVjA0QW0xa0xVY2RWOEdrb0hQcHNZelJITjVEanFEMENpVFg2ZUhkUXhwdWlHSUp0c1l0cjVZblVBYVRxOUZsZXgxX0NGaVVGTUNacFBTQ0pXYnBwbkFnRThURWdrUDQ1TVlPOE9ZWkpPREZ3QTUydndEVWlqMWhpdURxV3JwSWtWbWpkamJZb0lLLW44X2ZSUHRvWnBKSkJSb3FXOWJPbHNKejFweXdNYTJFNE5hb0h1a0M3S1ozaU16b3FaZW1wTXM4U3BVMlo2VU9jY0pfMGV5X2VBc2RPTnlMSDlRam01NGNuSUJQajVsUXI2WHZ6RE9lVEpHcmFUX2lOWF9SSnF4UU14QkxYOHFDQ0V3dDBWdE1PS1R6aTVBZ05raExsbkJScTVXM2hWV1pWZjZraHF3T3N3Ql9KSXVWZFpmVQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c2d35d413037",
       "title": "以為是天然物質就健康 這種代糖增加心臟病及中風風險 - 世界新聞網",
       "published": "2026-10-20T02:27:55+00:00",
@@ -499,7 +499,7 @@
       "id": "8b0bd4e69f5e",
       "title": "​衞生防護中心料流感季延最少5個月 惟疫苗接種劑數少1成 - 橙新聞",
       "published": "2026-10-22T02:12:46+00:00",
-      "summary": "​衞生防護中心料流感季延最少5個月 惟疫苗接種劑數少1成&nbsp;&nbsp;橙新聞12歲女童染甲流併發敗血性休克不治 衞生署籲市民速接種流感疫苗&nbsp;&nbsp;香港文匯報三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报衞生防護中心：3歲男童感染甲型流感併發敗血性休克 情況危殆&nbsp;&nbsp;香港商报",
+      "summary": "​衞生防護中心料流感季延最少5個月 惟疫苗接種劑數少1成&nbsp;&nbsp;橙新聞流感高峰期逾4個月未止 專家料持續爆發至11月 倡勤洗手戴口罩&nbsp;&nbsp;香港0112歲女童染甲流併發敗血性休克不治 衞生署籲市民速接種流感疫苗&nbsp;&nbsp;香港文匯報流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报香港12歲女童感染流感死亡 自6月起錄兩宗兒童死亡個案&nbsp;&nbsp;www.hkcna.hk",
       "sources": [
         {
           "name": "橙新聞",
