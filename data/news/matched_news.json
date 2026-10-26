@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-26T17:57:59.279065+00:00",
+  "last_updated": "2026-10-26T22:18:50.850215+00:00",
   "total_count": 46,
-  "matched_count": 14,
+  "matched_count": 13,
   "news": [
     {
       "id": "a983e53cef27",
@@ -431,32 +431,6 @@
       ]
     },
     {
-      "id": "19e11ef27df5",
-      "title": "健康網》研究：吃對澱粉助降膽固醇 護心血管",
-      "published": "2026-10-24T23:30:00+00:00",
-      "summary": "健康網》研究：吃對澱粉助降膽固醇 護心血管&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURllEOE1wQ1VnV2tSZGVyLWdiZ0VxWTBFRmhlTlk2enRPMFlmSFFLZmxuU00yN051c05uaU5HQ05yYVluTTRHVXhINmE5bUM3cDVvN1BUVkZEeEo5ekJCVlFJTWg?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "423282f28620",
       "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
       "published": "2026-10-24T16:01:31+00:00",
@@ -496,6 +470,19 @@
       "matched_keywords": []
     },
     {
+      "id": "58c6ab8e7f1d",
+      "title": "全美流感住院率創16年同期新高",
+      "published": "2026-10-24T14:00:00+00:00",
+      "summary": "全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingViewH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa秋冬呼吸道病毒流行 社區防疫當務之急&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "9e06133a01d0",
       "title": "健康網》讓精子更健康 網紅醫：泡溫泉有影響",
       "published": "2026-10-24T13:19:00+00:00",
@@ -517,6 +504,19 @@
         {
           "name": "Women's Health",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDVNbUhqX3h6VmJJajZucWhZc2FWZ2xNNzVSNHNVS1hWWkZ6WVU4NTF5LS02REJrTG8zZmxGUVo2VG9vTlFXVVhaNmRaMUFmRmZvZzFzREhsN2luZlRDZm1rNGVWakYxbVBqdWstaHV4WGh2WWJRb0VwNGkyZ05fdkRoQXotMk1pRkhFZDQzNjFoTzNya3dVLV9n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "825de3ffd44d",
+      "title": "四價流感疫苗消失了？真相來了→",
+      "published": "2026-10-24T12:46:35+00:00",
+      "summary": "四價流感疫苗消失了？真相來了→&nbsp;&nbsp;風火輪傳媒有限公司",
+      "sources": [
+        {
+          "name": "風火輪傳媒有限公司",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYnNNa0N6LVBwWnY3a0pHQmt0bUVtM0VJbUZjcG9zdjRkamZ2alpFZkZGRXlWeFpHZFJfYmpsc25SQTBaS3F4U3M5UkVtSmFFcW9PczE0Wno2c2EwZXFLN183cDI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -791,6 +791,32 @@
       ]
     },
     {
+      "id": "3f371dff402f",
+      "title": "10歲童患罕見病眼痛發燒家人當感冒 服藥後全身8成皮膚剝落如燒傷",
+      "published": "2026-10-24T03:30:50+00:00",
+      "summary": "10歲童患罕見病眼痛發燒家人當感冒 服藥後全身8成皮膚剝落如燒傷&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOYV92MU5LY0htUXNMZTB3Y2RSUklDTllFRncycUF2VTN6V3IyVmh1RWdEZ1ByWk1hWGR2QzFZTnVCdzlNbXpmSGJ1bTZEQXlkOFpzdDg0by00MjhqdHFCUlRtbGxGTnRQZ0Y3cWs0bWtmMnhveUV4NVBZTXRPTmY4bUhTRG4wVDNDczZqNC03X29nZnpRbWVkQS0xekU1cGtaT2x3QzhsQlZnNG9ja1psNnlNc1lfdzdId2FTWGRnMVNZalVfYUhSNlZsWWwzNTV4NUZYS3ViSnlOTjFwRWJ4ZWU0N1JLTEEzaVNQc0lJc0lVejkwQVFWUEgwTWdHejZ0cXNnNFlSLVA2ZTNLZzkwR1lfdTQyVjRiSWY2UmtZOHVLZkt2bTlVNWY3LVhSZlNxbjk5QXZybEt4cV9GZVFjLTJ2S0dlNmdaa0N6WjJIOXNtakY5YkJFaUVlUElObXp5bVpGbkZNQjFVamN4Q1hHZC1LWlpLUVhOTGs5MlI2SHl1QWV6Y2Z6S2dLMU1udGVnWUJmR0RCNzQwLVkzNThKUUU0eDFmNUxPY2E2ZzhZekFxVEk?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c447056486a9",
       "title": "花生醬是降膽固醇恩物？營養師揭秘健康脂肪護心功效",
       "published": "2026-10-24T03:03:24+00:00",
@@ -815,6 +841,32 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "14feb2b4e1ba",
+      "title": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站",
+      "published": "2026-10-24T01:00:00+00:00",
+      "summary": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站&nbsp;&nbsp;CCUE播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法 子宮頸癌前病變可逆轉&nbsp;&nbsp;星島頭條公費防護HPV 專家籲25歲為銜接起點- 其他&nbsp;&nbsp;旺得富理財網",
+      "sources": [
+        {
+          "name": "CCUE",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQenVSQ2llMWtZb0Rnc0dKV1g0bEpCUGI2Y1dycjNhXzZDV1pvR3Z0ek84OHJLWjNpS0E0QTRKU1l2UjU0cFlHdHRhT3JubVBEM184WDRsZ21rMlRtcDZpc1l5WGs4eEZYbHpwR0duTjBjZFlOMGkza29LUlhabEFZeG90SkJmQzVYem1iUVVTZEY4bUhaNGhFSTJ5SldwdG9VX2t4QlpxZU8xdUFKbWhBbWl1aWY3bTI4eE5ZSUdtVGtEWmJJU2J5QUdjRWZKSjQyS1kzNlFKRERnSmxZZ3hsZWU2ekpNT214X0NzSnZteW55elhjclhwTjE5YWR1ZWZoNGMxVEwxYV8zOU9hOEZ1by0tQWZIaERReDBxM3FLdHBGQUladUVKM0lFdVJ1ZmZjNFBva1FhdlY2Q3lndFpaa2gyc1RYN2R3cFAxRjFZTzFjd2tvVm1EVw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "79bd30638fb6",
@@ -856,19 +908,6 @@
       "matched_keywords": []
     },
     {
-      "id": "395ea44388a5",
-      "title": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例",
-      "published": "2026-10-23T14:54:31+00:00",
-      "summary": "【全國新聞】今年流感季節提早兩個半月開始 西岸地區更率先出現大量病例&nbsp;&nbsp;KTSF.com美國流感季提早到來，當前流行的毒株可能預示著年輕人面臨風險；醫生呼籲接種疫苗&nbsp;&nbsp;TradingView全美流感住院率創16年同期新高&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "KTSF.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10OGJPMDNHbzc1WENYdXA2cThXaGNRdlZiMHRaQUJtb2s5NkZZd1dfTUZ0Z0dIZ3NucjBFZE5raGhVNzZ3QVota2JhTEhKYjdzMWZfWGdNM0lCN3FYSXlzSW9TOXBMOUN6UEFBVWxveFRKZHFQZUg2Zg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a07eebd49bd0",
       "title": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 | 科技新報 - LINE TODAY",
       "published": "2026-10-23T11:33:34+00:00",
@@ -877,6 +916,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcVFwa2JHUGhUVzYydTM5LVVmSnVpV2MxRkNlNnBRZjdlSHJMUS13NmxZZG9OM294b3ZHaGV3cVFxaUtoR2R3dEhlMGc5NUxoSWpkTHFR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e82799e5d0d4",
+      "title": "1023國際XLH日！病友呼籲全生命照護",
+      "published": "2026-10-23T05:10:34+00:00",
+      "summary": "1023國際XLH日！病友呼籲全生命照護&nbsp;&nbsp;Yahoo新聞日行不到300步 她22歲確診XLH&nbsp;&nbsp;中華新聞雲／中華日報",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc2ZjbzlHdThrektNUXlyVFFCdU5xVTlPTDhnMFRMYmxRTnFMR2E1V2dNc2VFLWNSTDlDMDBrRFNzTTVEWXFvRU1PNFdkVFZhVDQ1b1F5NURoTnNSa1JxYjQ2aWZ4R3p2RDBiLXBQd0ZsdnE3bnZDdmZTU0VCZWxtZ0E4bHFhX05sdElYNG5OQm1OTHB2SmJzdkRtT3AwRkE2ZDlJaUI3UjdwcTBMMTNERUZnR3pKc1FSSFpVakR6ZDRNdS1tZUR5X1h0c2QwSnBDMUhRUTkteTMwVU5YMFNUc252TldqclU1ZHRyR2ln?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1586,71 +1638,6 @@
               "slug": "dipyridamole",
               "name": "Dipyridamole",
               "url": "/drugs/dipyridamole/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7e232355f3e6",
-      "title": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷",
-      "published": "2026-10-19T22:05:41+00:00",
-      "summary": "眼痛服藥打針後患罕見重症 武漢10歲男童全身逾8 成皮膚剝落如嚴重燒傷&nbsp;&nbsp;巴士的報10歲童患罕見病眼痛發燒家人當感冒 服藥後全身8成皮膚剝落如燒傷&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNeElrcUhrbTBuMGJnZXJxT2lyUEl6QmtfYmRWNE5hRy12dmQwLV9NeXhVRU4wYko1bjQyakR5U3RyMTA3Tm9tN3E5UnlQVnRDem12b196QjFNbEpWRU0zLXAySVl3NHRFZ2lEcV9IUWY5UzBMZGRhUXRNNDFoeWxkaEE4V2xZQzVidnU5OHBSZW5jajIzYUwyRzNmMVBRSk5xc1JpSjJXX3BnaGVPdmpkV0dUeHhlVWo4eW5Eek9NaXV1OTh4cHVQMjVfSzFPMDJVejhiYTJua0o3TmRKNTNvUWlHdEl0SHZkWXA4UzlPMEtiQUxHeURpanhpYWtDVmNHNGN1eTJPTHhsNy10N1hLOXVNUjNUY2k3VTY3MjF0RUNoUWo1czFxci1VUnpkTm5LTWk1a2NETTZtcURVaS1hakd3Z000X2RndEFveHNIZ010ZFROWlpNLXU5c2lRVW9XV2ZERkRvOA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "41186fdc14ad",
-      "title": "日行不到300步 她22歲確診XLH",
-      "published": "2026-10-19T22:00:05+00:00",
-      "summary": "日行不到300步 她22歲確診XLH&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZHdmNGg4N2M4UmVYR1pwMlZKajNzTG1IVzJIWldpMlZZdGNzMXo4V2wtVjVGM3l6SzltR2Vvc2xtOWZJdmttN25CSFVQS1FWRUxGRS1xZHdIYmkxaFpTUDFNSmIzbUJ1UmpsY1Vtb0FqT29DdDczalB1bmVQcnlid0JyNFdTbjRoTWUzTGlSM1h6ZVB2R2lrRDVPV2JwdEY4aXExU2ZsNVQ1czQwTnI0OUE1S3MyZGloUHczWWFBSFZpOTB5ZE83ZTNzaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4593e4836a62",
-      "title": "公費防護HPV 專家籲25歲為銜接起點",
-      "published": "2026-10-19T20:10:00+00:00",
-      "summary": "公費防護HPV 專家籲25歲為銜接起點&nbsp;&nbsp;中時新聞網播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法 子宮頸癌前病變可逆轉&nbsp;&nbsp;星島頭條公費防護HPV 專家籲25歲為銜接起點- 其他&nbsp;&nbsp;旺得富理財網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUdtMlZsczFNemlYZV96MjYxdlpfU0RxRHFja2Q2RmVMU2tVWGVaNlljbGx1V1FLQXB6V1ZKRU0xZE5OeVFTOG5HUndia2FHNHpfUFlWOVM3Q3lxSFJKU2t1ZHB4Qm9lajVv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
             }
           ]
         }

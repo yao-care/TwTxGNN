@@ -76,19 +76,19 @@ permalink: /news/paclitaxel/
 
 ---
 
+### [播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQenVSQ2llMWtZb0Rnc0dKV1g0bEpCUGI2Y1dycjNhXzZDV1pvR3Z0ek84OHJLWjNpS0E0QTRKU1l2UjU0cFlHdHRhT3JubVBEM184WDRsZ21rMlRtcDZpc1l5WGs4eEZYbHpwR0duTjBjZFlOMGkza29LUlhabEFZeG90SkJmQzVYem1iUVVTZEY4bUhaNGhFSTJ5SldwdG9VX2t4QlpxZU8xdUFKbWhBbWl1aWY3bTI4eE5ZSUdtVGtEWmJJU2J5QUdjRWZKSjQyS1kzNlFKRERnSmxZZ3hsZWU2ekpNT214X0NzSnZteW55elhjclhwTjE5YWR1ZWZoNGMxVEwxYV8zOU9hOEZ1by0tQWZIaERReDBxM3FLdHBGQUladUVKM0lFdVJ1ZmZjNFBva1FhdlY2Q3lndFpaa2gyc1RYN2R3cFAxRjFZTzFjd2tvVm1EVw?oc=5)
+
+2026-10-24 <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [CCUE](https://news.google.com/rss/articles/CBMi2AJBVV95cUxQenVSQ2llMWtZb0Rnc0dKV1g0bEpCUGI2Y1dycjNhXzZDV1pvR3Z0ek84OHJLWjNpS0E0QTRKU1l2UjU0cFlHdHRhT3JubVBEM184WDRsZ21rMlRtcDZpc1l5WGs4eEZYbHpwR0duTjBjZFlOMGkza29LUlhabEFZeG90SkJmQzVYem1iUVVTZEY4bUhaNGhFSTJ5SldwdG9VX2t4QlpxZU8xdUFKbWhBbWl1aWY3bTI4eE5ZSUdtVGtEWmJJU2J5QUdjRWZKSjQyS1kzNlFKRERnSmxZZ3hsZWU2ekpNT214X0NzSnZteW55elhjclhwTjE5YWR1ZWZoNGMxVEwxYV8zOU9hOEZ1by0tQWZIaERReDBxM3FLdHBGQUladUVKM0lFdVJ1ZmZjNFBva1FhdlY2Q3lndFpaa2gyc1RYN2R3cFAxRjFZTzFjd2tvVm1EVw?oc=5)
+
+---
+
 ### [陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
 
 2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
-
----
-
-### [公費防護HPV 專家籲25歲為銜接起點](https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUdtMlZsczFNemlYZV96MjYxdlpfU0RxRHFja2Q2RmVMU2tVWGVaNlljbGx1V1FLQXB6V1ZKRU0xZE5OeVFTOG5HUndia2FHNHpfUFlWOVM3Q3lxSFJKU2t1ZHB4Qm9lajVv?oc=5)
-
-2026-10-19 <span class="news-indication-tag">子宮頸癌</span>
-
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUdtMlZsczFNemlYZV96MjYxdlpfU0RxRHFja2Q2RmVMU2tVWGVaNlljbGx1V1FLQXB6V1ZKRU0xZE5OeVFTOG5HUndia2FHNHpfUFlWOVM3Q3lxSFJKU2t1ZHB4Qm9lajVv?oc=5)
 
 ---
 
