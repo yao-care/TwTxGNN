@@ -68,22 +68,6 @@ permalink: /news/paclitaxel/
 
 ---
 
-### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
-
-2026-10-24 <span class="news-indication-tag">癌症</span>
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
-
----
-
-### [播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法 子宮頸癌前病變可逆轉 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMi2wNBVV95cUxNaDA3TlhuMmtiQjlmTkM2VFZOZGxETzl3cGR0SWtPWUMzZVJ2Ty14bmtCODZ0VldkMXdTWWVzd1ViZVMwSWt3cFg1OHlrcG5KS0xrVWhSWVJiX05YSnpQVVhYQ2JteklVcm9HNVdBRi1fZEgxNVQybjZXSEQ1V1kxVlBuZVlTLWJDeWs2NU96c1ZBWVBzdTlNYkhCOTlueDFjWlBDTzljQUIyd0FzaEp0ZENXcE5oNHBjRlZhbkp5QmdIMzRkN2hHZTNoVDBHdFBiaHBFYmpmZDl3eHhWcXlBTkRJUDRUUEhpcHY5dDVnRzVDZkJRSm9SQWVGbTRGbzdZUGNNLU9mdU9TQ2FFa1VMUE9UdldtdVUwX1BsVjRQYUtIYUJYUGlZX2dCcXJQZms2NmdpTXBWZHpDLVhpZ0k4QXVXU1VqeE4xSzRXaDlmWU5wR25JeDNVQVJHYUdDT19KOW1mZGtUeW5DeGFOeFNpVXhEQllYdHFfS0UwYUQ3Wmp4VWlGd2dDb0R6TWJiZ29wb2hYa20yRDBWeXVKak5IVlJYWjJqOGRwa3dCZnM0MHp5amJQSGh3aS1XTG5tYmgwZ0FVRjJ5V2l0cXpWRmVOVUtlZG50dnRpaEtz0gGSAUFVX3lxTE55cUVmWk5aZkNqNV9wbVdYeVZsb2V6M1ROaVNXX29DUDhDV1FRMTZySm1mTlhray12V1YwQ2lBWk9BVXpEMVVEQUIxeXRsSXBMMElmaDhzckk0RXE0VVR2RENRNW95Ql9iZ2dvbF9jeTlicVdQVmJsNTR2NTVocnVyNmpza09lSTgyZXB1RlkyZnBB?oc=5)
-
-2026-10-24 <span class="news-indication-tag">子宮頸癌</span>
-
-來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMi2wNBVV95cUxNaDA3TlhuMmtiQjlmTkM2VFZOZGxETzl3cGR0SWtPWUMzZVJ2Ty14bmtCODZ0VldkMXdTWWVzd1ViZVMwSWt3cFg1OHlrcG5KS0xrVWhSWVJiX05YSnpQVVhYQ2JteklVcm9HNVdBRi1fZEgxNVQybjZXSEQ1V1kxVlBuZVlTLWJDeWs2NU96c1ZBWVBzdTlNYkhCOTlueDFjWlBDTzljQUIyd0FzaEp0ZENXcE5oNHBjRlZhbkp5QmdIMzRkN2hHZTNoVDBHdFBiaHBFYmpmZDl3eHhWcXlBTkRJUDRUUEhpcHY5dDVnRzVDZkJRSm9SQWVGbTRGbzdZUGNNLU9mdU9TQ2FFa1VMUE9UdldtdVUwX1BsVjRQYUtIYUJYUGlZX2dCcXJQZms2NmdpTXBWZHpDLVhpZ0k4QXVXU1VqeE4xSzRXaDlmWU5wR25JeDNVQVJHYUdDT19KOW1mZGtUeW5DeGFOeFNpVXhEQllYdHFfS0UwYUQ3Wmp4VWlGd2dDb0R6TWJiZ29wb2hYa20yRDBWeXVKak5IVlJYWjJqOGRwa3dCZnM0MHp5amJQSGh3aS1XTG5tYmgwZ0FVRjJ5V2l0cXpWRmVOVUtlZG50dnRpaEtz0gGSAUFVX3lxTE55cUVmWk5aZkNqNV9wbVdYeVZsb2V6M1ROaVNXX29DUDhDV1FRMTZySm1mTlhray12V1YwQ2lBWk9BVXpEMVVEQUIxeXRsSXBMMElmaDhzckk0RXE0VVR2RENRNW95Ql9iZ2dvbF9jeTlicVdQVmJsNTR2NTVocnVyNmpza09lSTgyZXB1RlkyZnBB?oc=5)
-
----
-
 ### [有片｜警惕！這五大癌症發病率最高！](https://news.google.com/rss/articles/CBMidkFVX3lxTE93WHhLZV9SODNZcFI1RllzUFdfdVhxenY0QlJwUGZqT1F1TzZhV3czMXpxYzJWNllZMkI4aFlTWDNDaU9DNE1VYW5qdTE1eHJoS1pzc3BiX1ZVTTVSY0NYMGQ0X1I5bElqcUhWenpPTzZ2dFRpTXc?oc=5)
 
 2026-10-22 <span class="news-indication-tag">癌症</span>
@@ -92,11 +76,27 @@ permalink: /news/paclitaxel/
 
 ---
 
+### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
+
+2026-10-22 <span class="news-indication-tag">癌症</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
+
+---
+
 ### [陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
 
 2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
+
+---
+
+### [公費防護HPV 專家籲25歲為銜接起點](https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUdtMlZsczFNemlYZV96MjYxdlpfU0RxRHFja2Q2RmVMU2tVWGVaNlljbGx1V1FLQXB6V1ZKRU0xZE5OeVFTOG5HUndia2FHNHpfUFlWOVM3Q3lxSFJKU2t1ZHB4Qm9lajVv?oc=5)
+
+2026-10-19 <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMia0FVX3lxTFA5QUdtMlZsczFNemlYZV96MjYxdlpfU0RxRHFja2Q2RmVMU2tVWGVaNlljbGx1V1FLQXB6V1ZKRU0xZE5OeVFTOG5HUndia2FHNHpfUFlWOVM3Q3lxSFJKU2t1ZHB4Qm9lajVv?oc=5)
 
 ---
 
