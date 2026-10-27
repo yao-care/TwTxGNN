@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-27T19:06:01.987885+00:00",
-  "count": 53,
+  "fetched_at": "2026-10-27T23:22:05.200433+00:00",
+  "count": 54,
   "news": [
+    {
+      "id": "490154b62717",
+      "title": "RSV活躍度高於去年 醫生籲高危群組及早預防 - 晴報 Sky Post",
+      "published": "2026-10-27T19:41:15+00:00",
+      "summary": "RSV活躍度高於去年 醫生籲高危群組及早預防&nbsp;&nbsp;晴報 Sky PostRSV活躍度升 同時感染流感入ICU風險多兩倍 中華醫學會籲長幼接種疫苗&nbsp;&nbsp;星島頭條呼吸道合胞病毒活躍 高危者易現嚴重併發&nbsp;&nbsp;東方日報",
+      "sources": [
+        {
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMEx5NjhmdjFqQmtuLW9FV0NNd3A0aTJyMzBHY2k4UjZQbTJyN1IwcHE3Sk9leldLMjhWcWdPcXo4SjBxMGYxQUtERnBzM0pwTnc4VWRkRm5Ib0JOR3BQUzI2SFZERFhSOE5YRW1VXzRyeHlJek8zaXcyVERvNVVnQTFIaDFFNnBhVXVmaDQ0d3Q5RFM1Q3F4SlgtdnNvNjE3V3JJbXdnSEx0QWgwRTdRY1BOUkJuMUZHajh6T1dnUFhGRDFXVnBoclQtLU9qaWNFaEF0NlB1UWc3TEhOZmFjVjV3WDNPZTBFd0Rva1d2V25acnpSTEYyUW9NTDF4anQtQ05zVTdvanA2SzBFSGdCT1d1X2FXVldfX1hVUVNrbWw0UlJYVXdwZg?oc=5"
+        }
+      ]
+    },
     {
       "id": "a070acf4e8fb",
       "title": "生蠔低熱量又高蛋白質！哈佛認證「最營養海鮮」搭配1物營養升級 - 優活健康網",
@@ -40,18 +52,6 @@
       ]
     },
     {
-      "id": "619188afad0f",
-      "title": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵 - 自由健康網",
-      "published": "2026-10-27T08:44:00+00:00",
-      "summary": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40S3RzMkI0TGtBZGtLSDBjVUJNaVB6LW9JSnAzaW5CS0lCS1NZU3pYY1lwak5SdG9pRVlydjJ2eklpcDRhcGxIbXIzN1FpM1Z6d0MxcENySE8xb2l0a2FLS0VjSFI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0057a723af4f",
       "title": "破解「殭屍細胞」隱身術，小鼠發炎與代謝功能大幅改善 - TechNews 科技新報",
       "published": "2026-10-27T00:26:39+00:00",
@@ -64,14 +64,26 @@
       ]
     },
     {
-      "id": "d88adfb84cd3",
-      "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉 - 自由健康網",
-      "published": "2026-10-27T07:12:00+00:00",
-      "summary": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉&nbsp;&nbsp;自由健康網",
+      "id": "2ef1886c89da",
+      "title": "研究：強化特殊基因活性 或有助於維護大腦記憶力 - 自由健康網",
+      "published": "2026-10-27T06:03:00+00:00",
+      "summary": "研究：強化特殊基因活性 或有助於維護大腦記憶力&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mTXVWMDB4WDllT1pSOV9VZlVhVGVmb0FUaGFPUDJkM2NyM2JxejlNVjMyZGx6MkRtaGhtUDNlSGg3OUZNWjFod05fUmh0d1I3emdsYThGb0psajdXdHUwejJvaTA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zajdpQnViSE5fV29EeHJYbTNwX1REYy1pVnp2RUJYVUlNTUdPVjNRRFYwSWlsS3gxYWsyMTQ3djRITzNRb3pjUjZESld6akNYM014elNSa3llSWlubWp2WHRRc2U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "619188afad0f",
+      "title": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵 - 自由健康網",
+      "published": "2026-10-27T08:44:00+00:00",
+      "summary": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40S3RzMkI0TGtBZGtLSDBjVUJNaVB6LW9JSnAzaW5CS0lCS1NZU3pYY1lwak5SdG9pRVlydjJ2eklpcDRhcGxIbXIzN1FpM1Z6d0MxcENySE8xb2l0a2FLS0VjSFI?oc=5"
         }
       ]
     },
@@ -100,6 +112,18 @@
       ]
     },
     {
+      "id": "d88adfb84cd3",
+      "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉 - 自由健康網",
+      "published": "2026-10-27T07:12:00+00:00",
+      "summary": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mTXVWMDB4WDllT1pSOV9VZlVhVGVmb0FUaGFPUDJkM2NyM2JxejlNVjMyZGx6MkRtaGhtUDNlSGg3OUZNWjFod05fUmh0d1I3emdsYThGb0psajdXdHUwejJvaTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4a2e648d65b8",
       "title": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富 - Marie Claire 美麗佳人",
       "published": "2026-10-27T03:24:06+00:00",
@@ -124,18 +148,6 @@
       ]
     },
     {
-      "id": "d8a0bd196c29",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 草根影響力新視野",
-      "published": "2026-10-27T04:03:34+00:00",
-      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4db1f5aad91c",
       "title": "感冒、流感康復後要換牙刷防二度感染嗎？醫：做好3件事更重要 - 元氣網",
       "published": "2026-10-27T00:10:40+00:00",
@@ -144,6 +156,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8a0bd196c29",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 草根影響力新視野",
+      "published": "2026-10-27T04:03:34+00:00",
+      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
         }
       ]
     },
@@ -184,18 +208,6 @@
       ]
     },
     {
-      "id": "e6cad1f11e75",
-      "title": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式 - 自由健康網",
-      "published": "2026-10-26T00:37:00+00:00",
-      "summary": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTFdsdTJJNFBRelA3bGtMdlRxeERxSlJTYVluaTVRQlBVNzZhTndkQ1kxcklKTVFHU1VKWjg4SGV3QUo2bVlub3RXUzRHNVFydXJRSjB6UDM0MFRvNjVGM1c1NUw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a983e53cef27",
       "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例 - 希望之聲電台",
       "published": "2026-10-26T11:16:17+00:00",
@@ -204,6 +216,18 @@
         {
           "name": "希望之聲電台",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnlBWi01YV9QMXRlQ05lSHp0ai1aQS1YLXZ5dGQ1Qm44X3FMSE03T2MtcWdJdk10SjFaVFZ6NjdPeDd3Q1dScV9xdndJcFJaaTJCM09DWFJWalU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6cad1f11e75",
+      "title": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式 - 自由健康網",
+      "published": "2026-10-26T00:37:00+00:00",
+      "summary": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTFdsdTJJNFBRelA3bGtMdlRxeERxSlJTYVluaTVRQlBVNzZhTndkQ1kxcklKTVFHU1VKWjg4SGV3QUo2bVlub3RXUzRHNVFydXJRSjB6UDM0MFRvNjVGM1c1NUw?oc=5"
         }
       ]
     },
@@ -316,18 +340,6 @@
       ]
     },
     {
-      "id": "e82799e5d0d4",
-      "title": "1023國際XLH日！病友呼籲全生命照護 - Yahoo新聞",
-      "published": "2026-10-23T05:10:34+00:00",
-      "summary": "1023國際XLH日！病友呼籲全生命照護&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc2ZjbzlHdThrektNUXlyVFFCdU5xVTlPTDhnMFRMYmxRTnFMR2E1V2dNc2VFLWNSTDlDMDBrRFNzTTVEWXFvRU1PNFdkVFZhVDQ1b1F5NURoTnNSa1JxYjQ2aWZ4R3p2RDBiLXBQd0ZsdnE3bnZDdmZTU0VCZWxtZ0E4bHFhX05sdElYNG5OQm1OTHB2SmJzdkRtT3AwRkE2ZDlJaUI3UjdwcTBMMTNERUZnR3pKc1FSSFpVakR6ZDRNdS1tZUR5X1h0c2QwSnBDMUhRUTkteTMwVU5YMFNUc252TldqclU1ZHRyR2ln?oc=5"
-        }
-      ]
-    },
-    {
       "id": "14feb2b4e1ba",
       "title": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站 - CCUE",
       "published": "2026-10-24T01:00:00+00:00",
@@ -415,7 +427,7 @@
       "id": "e9f61a60edc8",
       "title": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點 - 明報新聞網",
       "published": "2026-10-27T10:20:47+00:00",
-      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa",
+      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "明報新聞網",
@@ -460,6 +472,18 @@
       ]
     },
     {
+      "id": "f0171e6d4e87",
+      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
+      "published": "2026-10-22T08:32:45+00:00",
+      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
+      "sources": [
+        {
+          "name": "healthyD",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
+        }
+      ]
+    },
+    {
       "id": "58c6ab8e7f1d",
       "title": "全美流感住院率創16年同期新高 - Singtaousa",
       "published": "2026-10-24T14:00:00+00:00",
@@ -492,18 +516,6 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f29f1c7427b",
-      "title": "聲音或藏老化線索 研究：語音特徵與大腦老化相關 - 希望之聲電台",
-      "published": "2026-10-20T22:25:05+00:00",
-      "summary": "聲音或藏老化線索 研究：語音特徵與大腦老化相關&nbsp;&nbsp;希望之聲電台",
-      "sources": [
-        {
-          "name": "希望之聲電台",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMFdNbjg1Y3RsQ2pOX1BXcndZTVJMQVoyRkhfVHdPZm5EbmRnVWJsR1o1V2oxcG5ZYkJ1NzhxLUh5Sk1tYndNdGhmM2FzUm4wZnhkU3VXVzB0SVE?oc=5"
         }
       ]
     },
@@ -556,6 +568,18 @@
       ]
     },
     {
+      "id": "e82799e5d0d4",
+      "title": "1023國際XLH日！病友呼籲全生命照護 - Yahoo新聞",
+      "published": "2026-10-23T05:10:34+00:00",
+      "summary": "1023國際XLH日！病友呼籲全生命照護&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc2ZjbzlHdThrektNUXlyVFFCdU5xVTlPTDhnMFRMYmxRTnFMR2E1V2dNc2VFLWNSTDlDMDBrRFNzTTVEWXFvRU1PNFdkVFZhVDQ1b1F5NURoTnNSa1JxYjQ2aWZ4R3p2RDBiLXBQd0ZsdnE3bnZDdmZTU0VCZWxtZ0E4bHFhX05sdElYNG5OQm1OTHB2SmJzdkRtT3AwRkE2ZDlJaUI3UjdwcTBMMTNERUZnR3pKc1FSSFpVakR6ZDRNdS1tZUR5X1h0c2QwSnBDMUhRUTkteTMwVU5YMFNUc252TldqclU1ZHRyR2ln?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fc220fe8d113",
       "title": "吃對了，更年輕: 葉酸與維生素B12 - 美南新聞",
       "published": "2026-10-23T20:50:49+00:00",
@@ -564,18 +588,6 @@
         {
           "name": "美南新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HVVZScFlkRTllSXRRQkRiVm1aNFo5TlVIdDM1cFk2S19VMXFYQkZiOUkwdVVDMW5hSFdmRE9CWGJ6X3ZLY3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0171e6d4e87",
-      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
-      "published": "2026-10-22T08:32:45+00:00",
-      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
-      "sources": [
-        {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
         }
       ]
     },

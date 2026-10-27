@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-27T19:06:04.048358+00:00",
-  "total_count": 53,
+  "last_updated": "2026-10-27T23:22:07.556149+00:00",
+  "total_count": 54,
   "matched_count": 17,
   "news": [
+    {
+      "id": "490154b62717",
+      "title": "RSV活躍度高於去年 醫生籲高危群組及早預防 - 晴報 Sky Post",
+      "published": "2026-10-27T19:41:15+00:00",
+      "summary": "RSV活躍度高於去年 醫生籲高危群組及早預防&nbsp;&nbsp;晴報 Sky PostRSV活躍度升 同時感染流感入ICU風險多兩倍 中華醫學會籲長幼接種疫苗&nbsp;&nbsp;星島頭條呼吸道合胞病毒活躍 高危者易現嚴重併發&nbsp;&nbsp;東方日報",
+      "sources": [
+        {
+          "name": "晴報 Sky Post",
+          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMEx5NjhmdjFqQmtuLW9FV0NNd3A0aTJyMzBHY2k4UjZQbTJyN1IwcHE3Sk9leldLMjhWcWdPcXo4SjBxMGYxQUtERnBzM0pwTnc4VWRkRm5Ib0JOR3BQUzI2SFZERFhSOE5YRW1VXzRyeHlJek8zaXcyVERvNVVnQTFIaDFFNnBhVXVmaDQ0d3Q5RFM1Q3F4SlgtdnNvNjE3V3JJbXdnSEx0QWgwRTdRY1BOUkJuMUZHajh6T1dnUFhGRDFXVnBoclQtLU9qaWNFaEF0NlB1UWc3TEhOZmFjVjV3WDNPZTBFd0Rva1d2V25acnpSTEYyUW9NTDF4anQtQ05zVTdvanA2SzBFSGdCT1d1X2FXVldfX1hVUVNrbWw0UlJYVXdwZg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "8224e25af8e3",
       "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節",
@@ -346,7 +359,7 @@
       "id": "e9f61a60edc8",
       "title": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點",
       "published": "2026-10-27T10:20:47+00:00",
-      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa",
+      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
       "sources": [
         {
           "name": "明報新聞網",
@@ -485,6 +498,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPRExjc05LLUwyM0FaUW9SendfUUMxMXhfZnhhNkxSQUt4ZlVXdERsNG15YjBmM3RJdnk3T1FGMFlPb2xCTHhyR01nSV94enZXZHoxdkJTVGNQV1BVREVIc29rb3F3NkFKQnJXSlBhTW5aRXZJdmNQR2hRMDVwdGcxUDFfaWdwaG1KTDQwVHE4MUhxOTI0aHVsWHZ6QlZyQWJ0eC1aeUw2YTdYdlM3MXhLMDJpdmRnSEQ5X0ZzYlFiLVRLUmlKa2dLcmliVFN4cnlic0xFZ2ZkelBBUHlzUm40cXQ0UGlwU1NnOUFNT2U0TGdkcTQ3dUxJeko2TkMzbDluUXUwMGp2UDBoZXZCY2I5aTgzcDFxd2p6NDk3NFJjYXhWV0s1M2paLW5NaUpqRmx2czc1M2pfZEZ4Vk1YbVNQa3Q3X1FoYVlUSnp1NW5EaXRVZE95ZjFWNEJxbWZVUXl1bHBmY2pB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2ef1886c89da",
+      "title": "研究：強化特殊基因活性 或有助於維護大腦記憶力",
+      "published": "2026-10-27T06:03:00+00:00",
+      "summary": "研究：強化特殊基因活性 或有助於維護大腦記憶力&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zajdpQnViSE5fV29EeHJYbTNwX1REYy1pVnp2RUJYVUlNTUdPVjNRRFYwSWlsS3gxYWsyMTQ3djRITzNRb3pjUjZESld6akNYM014elNSa3llSWlubWp2WHRRc2U?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1985,19 +2011,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6f29f1c7427b",
-      "title": "聲音或藏老化線索 研究：語音特徵與大腦老化相關",
-      "published": "2026-10-20T22:25:05+00:00",
-      "summary": "聲音或藏老化線索 研究：語音特徵與大腦老化相關&nbsp;&nbsp;希望之聲電台",
-      "sources": [
-        {
-          "name": "希望之聲電台",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VMFdNbjg1Y3RsQ2pOX1BXcndZTVJMQVoyRkhfVHdPZm5EbmRnVWJsR1o1V2oxcG5ZYkJ1NzhxLUh5Sk1tYndNdGhmM2FzUm4wZnhkU3VXVzB0SVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
