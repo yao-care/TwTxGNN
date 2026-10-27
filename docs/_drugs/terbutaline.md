@@ -33,7 +33,8 @@ description: "Terbutaline：預測新適應症為阻塞性肺病 (Obstructive Lu
 
 </div>
 
-# Terbutaline：從支氣管氣喘到阻塞性肺病
+## Terbutaline：從支氣管氣喘到阻塞性肺病
+{: .text-alpha }
 
 ## 一句話總結
 

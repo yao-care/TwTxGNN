@@ -33,7 +33,8 @@ description: "Ferrous Gluconate：預測新適應症為Plummer-Vinson 症候群 
 
 </div>
 
-# 葡萄糖酸亞鐵（Ferrous gluconate）：從缺鐵性貧血到 Plummer-Vinson 症候群
+## 葡萄糖酸亞鐵（Ferrous gluconate）：從缺鐵性貧血到 Plummer-Vinson 症候群
+{: .text-alpha }
 
 ## 一句話總結
 

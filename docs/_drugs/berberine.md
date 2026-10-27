@@ -33,7 +33,8 @@ description: "Berberine：預測新適應症為重度子癇前症 (Severe Pre-ec
 
 </div>
 
-# Berberine（黃連素）：從細菌性腸炎與腹瀉到子癇前症
+## Berberine（黃連素）：從細菌性腸炎與腹瀉到子癇前症
+{: .text-alpha }
 
 ## 一句話總結
 

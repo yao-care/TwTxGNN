@@ -33,7 +33,8 @@ description: "Tranexamic Acid：預測新適應症為無月經 (Amenorrhea)（�
 
 </div>
 
-# Tranexamic acid：從全身及局部出血或出血性疾病到無月經（Amenorrhea）
+## Tranexamic acid：從全身及局部出血或出血性疾病到無月經（Amenorrhea）
+{: .text-alpha }
 
 ## 一句話總結
 

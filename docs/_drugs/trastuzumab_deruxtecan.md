@@ -33,7 +33,8 @@ description: "Trastuzumab Deruxtecan：預測新適應症為藥物誘發性骨�
 
 </div>
 
-# Trastuzumab deruxtecan：從 HER2 陽性乳癌到藥物誘發性骨質疏鬆
+## Trastuzumab deruxtecan：從 HER2 陽性乳癌到藥物誘發性骨質疏鬆
+{: .text-alpha }
 
 ## 一句話總結
 

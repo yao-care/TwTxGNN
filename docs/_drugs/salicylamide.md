@@ -33,7 +33,8 @@ predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopha
 
 </div>
 
-# Salicylamide：從解熱鎮痛到咽炎
+## Salicylamide：從解熱鎮痛到咽炎
+{: .text-alpha }
 
 ## 一句話總結
 

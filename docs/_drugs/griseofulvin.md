@@ -33,7 +33,8 @@ description: "Griseofulvin：預測新適應症為蠅蛆症 (Myiasis)（證據�
 
 </div>
 
-# Griseofulvin：從皮膚黴菌感染到蠅蛆症（Myiasis）
+## Griseofulvin：從皮膚黴菌感染到蠅蛆症（Myiasis）
+{: .text-alpha }
 
 ## 一句話總結
 

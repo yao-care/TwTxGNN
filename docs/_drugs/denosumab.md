@@ -33,7 +33,8 @@ description: "Denosumab：預測新適應症為嚴重非增殖性糖尿病視網
 
 </div>
 
-# Denosumab：從骨髓瘤及實質腫瘤骨轉移到嚴重非增殖性糖尿病視網膜病變
+## Denosumab：從骨髓瘤及實質腫瘤骨轉移到嚴重非增殖性糖尿病視網膜病變
+{: .text-alpha }
 
 ## 一句話總結
 

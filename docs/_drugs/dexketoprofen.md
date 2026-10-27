@@ -33,7 +33,8 @@ description: "Dexketoprofen：預測新適應症為偏頭痛 (Migraine Disorder)
 
 </div>
 
-# Dexketoprofen：從輕中度疼痛到偏頭痛
+## Dexketoprofen：從輕中度疼痛到偏頭痛
+{: .text-alpha }
 
 ## 一句話總結
 

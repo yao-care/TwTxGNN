@@ -33,7 +33,8 @@ predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast f
 
 </div>
 
-# Letrozole：從乳癌到女性乳癌（荷爾蒙受體陽性）
+## Letrozole：從乳癌到女性乳癌（荷爾蒙受體陽性）
+{: .text-alpha }
 
 ## 一句話總結
 

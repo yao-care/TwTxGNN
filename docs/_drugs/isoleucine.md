@@ -33,7 +33,8 @@ description: "Isoleucine：預測新適應症為胃輕癱 (Gastroparesis)（證�
 
 </div>
 
-# Isoleucine：從營養補給到胃輕癱
+## Isoleucine：從營養補給到胃輕癱
+{: .text-alpha }
 
 ## 一句話總結
 

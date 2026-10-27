@@ -33,7 +33,8 @@ predicted_indications: ["acute laryngopharyngitis", "nasal cavity disease"]
 
 </div>
 
-# Guaiacol：從袪痰到急性喉咽炎
+## Guaiacol：從袪痰到急性喉咽炎
+{: .text-alpha }
 
 ## 一句話總結
 

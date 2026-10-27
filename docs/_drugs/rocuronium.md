@@ -33,7 +33,8 @@ description: "Rocuronium：預測新適應症為偏頭痛 (Migraine Disorder)（
 
 </div>
 
-# Rocuronium：從全身麻醉輔助肌肉鬆弛到偏頭痛
+## Rocuronium：從全身麻醉輔助肌肉鬆弛到偏頭痛
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular kera
 
 </div>
 
-# Hexachlorophene：從皮膚抑菌清潔到脂漏性角化症
+## Hexachlorophene：從皮膚抑菌清潔到脂漏性角化症
+{: .text-alpha }
 
 ## 一句話總結
 

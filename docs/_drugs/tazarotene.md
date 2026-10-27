@@ -33,7 +33,8 @@ description: "Tazarotene：預測新適應症為脂漏性皮膚炎 (Seborrheic D
 
 </div>
 
-# Tazarotene：從乾癬到脂漏性皮膚炎
+## Tazarotene：從乾癬到脂漏性皮膚炎
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-# Docetaxel：從乳癌、非小細胞肺癌、前列腺癌等到女性乳癌
+## Docetaxel：從乳癌、非小細胞肺癌、前列腺癌等到女性乳癌
+{: .text-alpha }
 
 <!-- review:begin docetaxel-original-indication-title-2026-10-16 -->
 

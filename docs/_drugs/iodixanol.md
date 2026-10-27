@@ -33,7 +33,8 @@ description: "Iodixanol：預測新適應症為骨關節炎易感性 (Osteoarthr
 
 </div>
 
-# Iodixanol：從 X 光對比劑用途到退化性關節炎（骨關節炎）
+## Iodixanol：從 X 光對比劑用途到退化性關節炎（骨關節炎）
+{: .text-alpha }
 
 ## 一句話總結
 

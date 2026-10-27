@@ -33,7 +33,8 @@ predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "throm
 
 </div>
 
-# Magnesium sulfate：從子癇症與緩瀉 到 子癇前症／子癇
+## Magnesium sulfate：從子癇症與緩瀉 到 子癇前症／子癇
+{: .text-alpha }
 
 ## 一句話總結
 

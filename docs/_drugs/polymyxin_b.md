@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "laryngotracheitis"]
 
 </div>
 
-# Polymyxin B：從細菌感染（眼部／皮膚／耳部）到支氣管炎
+## Polymyxin B：從細菌感染（眼部／皮膚／耳部）到支氣管炎
+{: .text-alpha }
 
 ## 一句話總結
 

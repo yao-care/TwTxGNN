@@ -32,7 +32,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-# Aspirin：從鎮痛解熱到新適應症探索
+## Aspirin：從鎮痛解熱到新適應症探索
+{: .text-alpha }
 
 ## 一句話總結
 

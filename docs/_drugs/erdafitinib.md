@@ -33,7 +33,8 @@ description: "Erdafitinib：預測新適應症為肺動脈高壓 (Pulmonary Hype
 
 </div>
 
-# Erdafitinib：從泌尿道上皮癌到肺動脈高壓
+## Erdafitinib：從泌尿道上皮癌到肺動脈高壓
+{: .text-alpha }
 
 ## 一句話總結
 

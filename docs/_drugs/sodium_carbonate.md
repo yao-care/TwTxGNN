@@ -33,7 +33,8 @@ description: "Sodium Carbonate：預測新適應症為馬尾症候群（Cauda Eq
 
 </div>
 
-# 碳酸鈉（Sodium carbonate）：從無菌製劑鹼化輔助劑到乾眼症
+## 碳酸鈉（Sodium carbonate）：從無菌製劑鹼化輔助劑到乾眼症
+{: .text-alpha }
 
 <!-- review:begin sodium-carbonate-original-indication-title-2026-10-16 -->
 

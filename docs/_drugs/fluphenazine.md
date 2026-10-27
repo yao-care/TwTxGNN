@@ -33,7 +33,8 @@ description: "Fluphenazine：預測新適應症為視網膜失養症 (Retinal dy
 
 </div>
 
-# Fluphenazine：從精神病狀態到視網膜失養症
+## Fluphenazine：從精神病狀態到視網膜失養症
+{: .text-alpha }
 
 ## 一句話總結
 

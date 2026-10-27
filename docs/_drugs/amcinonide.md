@@ -33,7 +33,8 @@ predicted_indications: ["vulvar inverted follicular keratosis", "annular atrophi
 
 </div>
 
-# Amcinonide：從急慢性皮膚病到皮膚炎
+## Amcinonide：從急慢性皮膚病到皮膚炎
+{: .text-alpha }
 
 ## 一句話總結
 

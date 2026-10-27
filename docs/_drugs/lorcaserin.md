@@ -33,7 +33,8 @@ description: "Lorcaserin：預測新適應症為維生素過多症 (Hypervitamin
 
 </div>
 
-# Lorcaserin：從體重管理到維生素過多症
+## Lorcaserin：從體重管理到維生素過多症
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["hairy cell leukemia", "autoimmune disease of central ne
 
 </div>
 
-# Interferon beta-1b：從多發性硬化症到毛細胞白血病
+## Interferon beta-1b：從多發性硬化症到毛細胞白血病
+{: .text-alpha }
 
 ## 一句話總結
 

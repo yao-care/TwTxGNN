@@ -33,7 +33,8 @@ predicted_indications: ["endothrix infectious disease", "ectothrix infectious di
 
 </div>
 
-# Butenafine：從皮膚黴菌感染到皮膚念珠菌病
+## Butenafine：從皮膚黴菌感染到皮膚念珠菌病
+{: .text-alpha }
 
 ## 一句話總結
 

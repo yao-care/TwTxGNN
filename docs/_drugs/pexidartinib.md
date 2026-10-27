@@ -33,7 +33,8 @@ description: "Pexidartinib：預測新適應症為HER2 陽性乳癌 (HER2 positi
 
 </div>
 
-# Pexidartinib：從腱鞘巨細胞瘤到 HER2 陽性乳癌
+## Pexidartinib：從腱鞘巨細胞瘤到 HER2 陽性乳癌
+{: .text-alpha }
 
 ## 一句話總結
 

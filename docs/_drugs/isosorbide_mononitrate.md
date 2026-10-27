@@ -33,7 +33,8 @@ description: "Isosorbide Mononitrate：預測新適應症為毛髮過多症 (Hyp
 
 </div>
 
-# Isosorbide mononitrate：從狹心症預防到毛髮過多症（TxGNN 首位預測）
+## Isosorbide mononitrate：從狹心症預防到毛髮過多症（TxGNN 首位預測）
+{: .text-alpha }
 
 ## 一句話總結
 

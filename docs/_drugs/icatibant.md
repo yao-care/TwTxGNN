@@ -33,7 +33,8 @@ description: "Icatibant：預測新適應症為C1 酯酶抑制劑缺乏症 (C1 i
 
 </div>
 
-# Icatibant：從遺傳性血管性水腫到 C1 酯酶抑制劑缺乏症
+## Icatibant：從遺傳性血管性水腫到 C1 酯酶抑制劑缺乏症
+{: .text-alpha }
 
 ## 一句話總結
 

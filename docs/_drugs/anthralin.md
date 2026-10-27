@@ -33,7 +33,8 @@ description: "Anthralin：預測新適應症為圓形禿 (Alopecia Areata)（證
 
 </div>
 
-# Anthralin：從牛皮癬到圓形禿（Alopecia Areata）
+## Anthralin：從牛皮癬到圓形禿（Alopecia Areata）
+{: .text-alpha }
 
 ## 一句話總結
 

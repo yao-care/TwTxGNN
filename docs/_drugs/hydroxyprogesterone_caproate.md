@@ -33,7 +33,8 @@ predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral"
 
 </div>
 
-# Hydroxyprogesterone caproate：從習慣性流產到子宮內膜異位症
+## Hydroxyprogesterone caproate：從習慣性流產到子宮內膜異位症
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Pefloxacin：預測新適應症為心臟傳導疾病 (Heart Conduc
 
 </div>
 
-# Pefloxacin：從革蘭氏陰性菌及葡萄球菌嚴重感染到心臟傳導疾病
+## Pefloxacin：從革蘭氏陰性菌及葡萄球菌嚴重感染到心臟傳導疾病
+{: .text-alpha }
 
 ## 一句話總結
 

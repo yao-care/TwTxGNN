@@ -31,7 +31,8 @@ description: "Silicon Dioxide：預測新適應症為活動性消化性潰瘍 (A
 
 </div>
 
-# 二氧化矽 (Silicon dioxide)：從賦形劑與氣體吸著劑到活動性消化性潰瘍
+## 二氧化矽 (Silicon dioxide)：從賦形劑與氣體吸著劑到活動性消化性潰瘍
+{: .text-alpha }
 
 <!-- review:begin silicon_dioxide-antacid-combo-title-2026-10-16 -->
 

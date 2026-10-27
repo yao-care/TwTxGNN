@@ -33,7 +33,8 @@ description: "Asfotase Alfa：預測新適應症為核 DNA 異常所致的粒線
 
 </div>
 
-# Asfotase alfa：從小兒發作型低磷酸酯酶症到粒線體氧化磷酸化障礙（核 DNA 異常所致）
+## Asfotase alfa：從小兒發作型低磷酸酯酶症到粒線體氧化磷酸化障礙（核 DNA 異常所致）
+{: .text-alpha }
 
 ## 一句話總結
 

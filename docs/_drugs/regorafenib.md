@@ -33,7 +33,8 @@ description: "Regorafenib：預測新適應症為脂肪肉瘤 (Liposarcoma)（�
 
 </div>
 
-# Regorafenib：從大腸直腸癌到脂肪肉瘤
+## Regorafenib：從大腸直腸癌到脂肪肉瘤
+{: .text-alpha }
 
 ## 一句話總結
 

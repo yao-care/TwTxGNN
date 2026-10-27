@@ -33,7 +33,8 @@ description: "Vasopressin：預測新適應症為先天性凝血酶原缺乏症 
 
 </div>
 
-# Vasopressin：從尿崩症到先天性凝血酶原缺乏症
+## Vasopressin：從尿崩症到先天性凝血酶原缺乏症
+{: .text-alpha }
 
 ## 一句話總結
 

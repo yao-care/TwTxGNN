@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disord
 
 </div>
 
-# Cyclandelate：從末梢血管循環障礙到偏頭痛
+## Cyclandelate：從末梢血管循環障礙到偏頭痛
+{: .text-alpha }
 
 ## 一句話總結
 

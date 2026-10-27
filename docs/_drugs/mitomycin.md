@@ -33,7 +33,8 @@ description: "Mitomycin：預測新適應症為胰臟實體假乳突癌 (Solid P
 
 </div>
 
-# Mitomycin：從胃癌、膀胱癌到胰臟實體假乳突癌
+## Mitomycin：從胃癌、膀胱癌到胰臟實體假乳突癌
+{: .text-alpha }
 
 ## 一句話總結
 

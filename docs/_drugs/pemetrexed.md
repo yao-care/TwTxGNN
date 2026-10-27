@@ -33,7 +33,8 @@ predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesotheli
 
 </div>
 
-# Pemetrexed（培美曲塞二鈉）：從非小細胞肺癌與惡性肋膜間皮瘤到惡性腹膜間皮瘤
+## Pemetrexed（培美曲塞二鈉）：從非小細胞肺癌與惡性肋膜間皮瘤到惡性腹膜間皮瘤
+{: .text-alpha }
 
 ## 一句話總結
 

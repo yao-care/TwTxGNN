@@ -33,7 +33,8 @@ description: "Acetazolamide：預測新適應症為運動誘發惡性高熱 (Exe
 
 </div>
 
-# Acetazolamide：從青光眼到運動誘發惡性高熱
+## Acetazolamide：從青光眼到運動誘發惡性高熱
+{: .text-alpha }
 
 ## 一句話總結
 

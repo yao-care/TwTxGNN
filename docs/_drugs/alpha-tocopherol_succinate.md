@@ -33,7 +33,8 @@ description: "Alpha-Tocopherol Succinate：預測新適應症為藥物性骨質�
 
 </div>
 
-# alpha-Tocopherol succinate：從維他命Ｅ缺乏症到藥物性骨質疏鬆
+## alpha-Tocopherol succinate：從維他命Ｅ缺乏症到藥物性骨質疏鬆
+{: .text-alpha }
 
 ## 一句話總結
 

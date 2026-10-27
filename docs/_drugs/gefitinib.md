@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion 
 
 </div>
 
-# Gefitinib：從非小細胞肺癌到牙齦纖維瘤病
+## Gefitinib：從非小細胞肺癌到牙齦纖維瘤病
+{: .text-alpha }
 
 ## 一句話總結
 

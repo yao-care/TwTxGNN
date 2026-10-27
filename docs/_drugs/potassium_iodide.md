@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 
 </div>
 
-# 碘化鉀（Potassium Iodide）：從祛痰與甲狀腺保護到鼻腔疾病
+## 碘化鉀（Potassium Iodide）：從祛痰與甲狀腺保護到鼻腔疾病
+{: .text-alpha }
 
 <!-- review:begin potassium_iodide-original-indication-combo-title-2026-10-16 -->
 

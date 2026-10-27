@@ -33,7 +33,8 @@ description: "Ouabain：預測新適應症為Prinzmetal 心絞痛 (Prinzmetal an
 
 </div>
 
-# Ouabain：從心臟衰竭與心律不整到 Prinzmetal 心絞痛
+## Ouabain：從心臟衰竭與心律不整到 Prinzmetal 心絞痛
+{: .text-alpha }
 
 ## 一句話總結
 

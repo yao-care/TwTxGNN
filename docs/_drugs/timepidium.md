@@ -33,7 +33,8 @@ description: "Timepidium：預測新適應症為失眠 (Insomnia)（證據等級
 
 </div>
 
-# Timepidium：從胃炎與平滑肌痙攣性疼痛到失眠
+## Timepidium：從胃炎與平滑肌痙攣性疼痛到失眠
+{: .text-alpha }
 
 ## 一句話總結
 

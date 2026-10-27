@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-# Felodipine：從高血壓、心絞痛到肺高壓（缺氧性）
+## Felodipine：從高血壓、心絞痛到肺高壓（缺氧性）
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["familial isolated hypoparathyroidism due to impaired PT
 
 </div>
 
-# Alfacalcidol：從骨質疏鬆症與維他命 D 缺乏症到家族性孤立性副甲狀腺低下症（PTH 分泌受損）
+## Alfacalcidol：從骨質疏鬆症與維他命 D 缺乏症到家族性孤立性副甲狀腺低下症（PTH 分泌受損）
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Deoxycholic Acid：預測新適應症為糖尿病腎病變 (Diabet
 
 </div>
 
-# Deoxycholic acid：從頦下脂肪堆積到糖尿病腎病變
+## Deoxycholic acid：從頦下脂肪堆積到糖尿病腎病變
+{: .text-alpha }
 
 <!-- review:begin deoxycholic-acid-summary-indication-title-2026-10-16 -->
 

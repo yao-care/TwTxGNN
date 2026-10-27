@@ -33,7 +33,8 @@ description: "Doripenem：預測新適應症為肝門靜脈硬化症 (Hepatoport
 
 </div>
 
-# Doripenem：從複雜性泌尿道與腹腔內感染到肝門靜脈硬化症
+## Doripenem：從複雜性泌尿道與腹腔內感染到肝門靜脈硬化症
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Nefopam：預測新適應症為手足搐搦性白內障 (Tetanic C
 
 </div>
 
-# Nefopam：從鎮痛到手足搐搦性白內障 (Tetanic Cataract)
+## Nefopam：從鎮痛到手足搐搦性白內障 (Tetanic Cataract)
+{: .text-alpha }
 
 ## 一句話總結
 

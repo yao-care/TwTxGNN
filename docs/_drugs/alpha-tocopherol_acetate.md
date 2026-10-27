@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "matur
 
 </div>
 
-# Alpha-tocopherol acetate：從維他命 E 缺乏症到藥物誘發性骨質疏鬆
+## Alpha-tocopherol acetate：從維他命 E 缺乏症到藥物誘發性骨質疏鬆
+{: .text-alpha }
 
 ## 一句話總結
 

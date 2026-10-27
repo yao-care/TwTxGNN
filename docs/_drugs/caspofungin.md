@@ -33,7 +33,8 @@ description: "Caspofungin：預測新適應症為胃泌素分泌異常 (Gastrin 
 
 </div>
 
-# Caspofungin：從侵入性黴菌感染到胃泌素分泌異常
+## Caspofungin：從侵入性黴菌感染到胃泌素分泌異常
+{: .text-alpha }
 
 ## 一句話總結
 

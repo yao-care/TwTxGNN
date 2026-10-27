@@ -33,7 +33,8 @@ description: "Maraviroc：預測新適應症為多發性內分泌腫瘤 (Multipl
 
 </div>
 
-# Maraviroc：從 HIV-1 感染到多發性內分泌腫瘤
+## Maraviroc：從 HIV-1 感染到多發性內分泌腫瘤
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Camphor：預測新適應症為偏頭痛 (Migraine Disorder)（證
 
 </div>
 
-# Camphor（樟腦）：從外傷到偏頭痛
+## Camphor（樟腦）：從外傷到偏頭痛
+{: .text-alpha }
 
 <!-- review:begin camphor-summary-indication-title-2026-10-16 -->
 

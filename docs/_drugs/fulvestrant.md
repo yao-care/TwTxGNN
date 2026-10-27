@@ -33,7 +33,8 @@ description: "Fulvestrant：預測新適應症為HIV 感染 (HIV infectious dise
 
 </div>
 
-# Fulvestrant：從晚期乳癌到 HIV 感染
+## Fulvestrant：從晚期乳癌到 HIV 感染
+{: .text-alpha }
 
 ## 一句話總結
 

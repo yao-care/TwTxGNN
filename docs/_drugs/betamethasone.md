@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Betamethasone：從風濕病、氣喘與皮膚疾患到斑禿
+## Betamethasone：從風濕病、氣喘與皮膚疾患到斑禿
+{: .text-alpha }
 
 ## 一句話總結
 

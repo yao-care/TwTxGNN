@@ -33,7 +33,8 @@ predicted_indications: ["parasitic conjunctivitis", "chronic follicular conjunct
 
 </div>
 
-# Prednisolone acetate：從眼部與關節發炎性疾患到寄生蟲性結膜炎
+## Prednisolone acetate：從眼部與關節發炎性疾患到寄生蟲性結膜炎
+{: .text-alpha }
 
 ## 一句話總結
 

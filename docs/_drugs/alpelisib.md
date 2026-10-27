@@ -33,7 +33,8 @@ description: "Alpelisib：預測新適應症為肺動脈高壓 (Pulmonary Hypert
 
 </div>
 
-# Alpelisib：從乳癌到肺動脈高壓
+## Alpelisib：從乳癌到肺動脈高壓
+{: .text-alpha }
 
 ## 一句話總結
 

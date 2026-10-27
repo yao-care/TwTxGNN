@@ -33,7 +33,8 @@ predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma 
 
 </div>
 
-# Vismodegib：從基底細胞癌到皮膚癌
+## Vismodegib：從基底細胞癌到皮膚癌
+{: .text-alpha }
 
 ## 一句話總結
 

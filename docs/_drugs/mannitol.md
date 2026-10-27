@@ -33,7 +33,8 @@ description: "Mannitol：預測新適應症為腎因性抗利尿不適當症候�
 
 </div>
 
-# Mannitol：從腦壓亢進與水腫到腎因性抗利尿不適當症候群
+## Mannitol：從腦壓亢進與水腫到腎因性抗利尿不適當症候群
+{: .text-alpha }
 
 ## 一句話總結
 

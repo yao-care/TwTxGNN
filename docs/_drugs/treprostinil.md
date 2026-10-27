@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypot
 
 </div>
 
-# Treprostinil：從肺動脈高壓到肺動脈高壓（先天性心臟病相關）
+## Treprostinil：從肺動脈高壓到肺動脈高壓（先天性心臟病相關）
+{: .text-alpha }
 
 ## 一句話總結
 

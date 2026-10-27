@@ -33,7 +33,8 @@ description: "Remdesivir：預測新適應症為多發性內分泌腫瘤 (Multip
 
 </div>
 
-# Remdesivir：從重度 COVID-19 到多發性內分泌腫瘤
+## Remdesivir：從重度 COVID-19 到多發性內分泌腫瘤
+{: .text-alpha }
 
 ## 一句話總結
 

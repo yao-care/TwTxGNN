@@ -33,7 +33,8 @@ description: "Aluminum Oxide：預測新適應症為類風濕性關節炎 (Rheum
 
 </div>
 
-# Aluminum oxide：從氫氧化鋁凝膠制酸劑（許可證主成分登載為 aluminum oxide）到類風濕性關節炎
+## Aluminum oxide：從氫氧化鋁凝膠制酸劑（許可證主成分登載為 aluminum oxide）到類風濕性關節炎
+{: .text-alpha }
 
 <!-- review:begin aluminum-oxide-gel-is-aluminum-hydroxide-gel-title-2026-10-16 -->
 

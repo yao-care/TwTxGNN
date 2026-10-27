@@ -33,7 +33,8 @@ description: "Lutetium Lu 177 Dotatate：預測新適應症為垂體性侏儒症
 
 </div>
 
-# Lutetium Lu 177 dotatate：從神經內分泌腫瘤到垂體性侏儒症
+## Lutetium Lu 177 dotatate：從神經內分泌腫瘤到垂體性侏儒症
+{: .text-alpha }
 
 ## 一句話總結
 

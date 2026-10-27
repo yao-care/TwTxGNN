@@ -33,7 +33,8 @@ predicted_indications: ["chronic rhinosinusitis", "chronic ethmoidal sinusitis",
 
 </div>
 
-# Oxytetracycline：從細菌感染症到慢性鼻竇炎
+## Oxytetracycline：從細菌感染症到慢性鼻竇炎
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Hymecromone：預測新適應症為糖尿病腎病變 (Diabetic Ne
 
 </div>
 
-# Hymecromone：從膽石症與膽囊炎到糖尿病腎病變
+## Hymecromone：從膽石症與膽囊炎到糖尿病腎病變
+{: .text-alpha }
 
 ## 一句話總結
 

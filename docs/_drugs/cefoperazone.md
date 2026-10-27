@@ -33,7 +33,8 @@ predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colob
 
 </div>
 
-# Cefoperazone：從抗生素（細菌感染）到硬化性膽管炎
+## Cefoperazone：從抗生素（細菌感染）到硬化性膽管炎
+{: .text-alpha }
 
 ## 一句話總結
 

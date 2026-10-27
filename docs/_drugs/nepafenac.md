@@ -33,7 +33,8 @@ description: "Nepafenac：預測新適應症為眼部疾病 (Eye Disease)（證�
 
 </div>
 
-# Nepafenac：從白內障術後疼痛與發炎到眼部疾病
+## Nepafenac：從白內障術後疼痛與發炎到眼部疾病
+{: .text-alpha }
 
 ## 一句話總結
 

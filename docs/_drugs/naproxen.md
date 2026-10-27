@@ -33,7 +33,8 @@ description: "Naproxen：預測新適應症為短指併指症候群 (Brachydacty
 
 </div>
 
-# Naproxen：從消炎鎮痛到先天性肢體發育異常症候群
+## Naproxen：從消炎鎮痛到先天性肢體發育異常症候群
+{: .text-alpha }
 
 ## 一句話總結
 

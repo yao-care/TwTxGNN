@@ -33,7 +33,8 @@ description: "Scopolamine：預測新適應症為脊髓馬尾症候群 (Cauda Eq
 
 </div>
 
-# Scopolamine：從胃腸痙攣到脊髓馬尾症候群
+## Scopolamine：從胃腸痙攣到脊髓馬尾症候群
+{: .text-alpha }
 
 ## 一句話總結
 

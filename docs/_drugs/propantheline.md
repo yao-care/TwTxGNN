@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis", "irritable bowel syndrome"]
 
 </div>
 
-# Propantheline：從胃、十二指腸潰瘍到胃十二指腸炎
+## Propantheline：從胃、十二指腸潰瘍到胃十二指腸炎
+{: .text-alpha }
 
 ## 一句話總結
 

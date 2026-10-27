@@ -33,7 +33,8 @@ description: "Rotigotine：預測新適應症為注意力不足過動症 (Attent
 
 </div>
 
-# Rotigotine：從原發性帕金森氏症到注意力不足過動症
+## Rotigotine：從原發性帕金森氏症到注意力不足過動症
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Raloxifene：預測新適應症為十二指腸潰瘍 (Duodenal Ulc
 
 </div>
 
-# Raloxifene：從停經後婦女骨質疏鬆症到十二指腸潰瘍
+## Raloxifene：從停經後婦女骨質疏鬆症到十二指腸潰瘍
+{: .text-alpha }
 
 ## 一句話總結
 

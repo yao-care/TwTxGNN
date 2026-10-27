@@ -33,7 +33,8 @@ description: "Nitrofurantoin：預測新適應症為類風濕性關節炎 (Rheum
 
 </div>
 
-# Nitrofurantoin：從尿路感染到類風濕性關節炎
+## Nitrofurantoin：從尿路感染到類風濕性關節炎
+{: .text-alpha }
 
 ## 一句話總結
 

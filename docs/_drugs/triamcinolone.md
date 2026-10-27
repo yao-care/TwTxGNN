@@ -33,7 +33,8 @@ predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's f
 
 </div>
 
-# Triamcinolone：從皮膚發炎與過敏性疾病到黏蛋白性禿髮
+## Triamcinolone：從皮膚發炎與過敏性疾病到黏蛋白性禿髮
+{: .text-alpha }
 
 ## 一句話總結
 

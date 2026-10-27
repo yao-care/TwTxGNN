@@ -33,7 +33,8 @@ description: "Acitretin：預測新適應症為痤瘡 (Acne)（證據等級 L4�
 
 </div>
 
-# Acitretin：從嚴重性牛皮癬到痤瘡
+## Acitretin：從嚴重性牛皮癬到痤瘡
+{: .text-alpha }
 
 ## 一句話總結
 

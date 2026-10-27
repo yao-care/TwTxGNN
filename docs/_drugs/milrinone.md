@@ -33,7 +33,8 @@ predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "conge
 
 </div>
 
-# Milrinone：從充血性心衰竭到禿髮 (Alopecia)
+## Milrinone：從充血性心衰竭到禿髮 (Alopecia)
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Human Immunoglobulin G：預測新適應症為嚴重非增殖性�
 
 </div>
 
-# Human immunoglobulin G：從原發性免疫不全症到嚴重非增殖性糖尿病視網膜病變
+## Human immunoglobulin G：從原發性免疫不全症到嚴重非增殖性糖尿病視網膜病變
+{: .text-alpha }
 
 ## 一句話總結
 

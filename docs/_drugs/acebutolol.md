@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease"]
 
 </div>
 
-# Acebutolol：從高血壓、狹心症、心律不整到惡性高血壓性腎病變
+## Acebutolol：從高血壓、狹心症、心律不整到惡性高血壓性腎病變
+{: .text-alpha }
 
 ## 一句話總結
 

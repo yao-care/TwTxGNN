@@ -33,7 +33,8 @@ description: "Amylmetacresol：預測新適應症為脊髓馬尾症候群 (Cauda
 
 </div>
 
-# Amylmetacresol：從口含錠複方的殺菌成分到脊髓馬尾症候群（預測）
+## Amylmetacresol：從口含錠複方的殺菌成分到脊髓馬尾症候群（預測）
+{: .text-alpha }
 
 <!-- review:begin amylmetacresol-original-indication-combo-title-2026-10-16 -->
 

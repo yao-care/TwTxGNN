@@ -33,7 +33,8 @@ description: "Gadoxetic Acid：預測新適應症為甲狀腺機能亢進 (Hyper
 
 </div>
 
-# Gadoxetic acid：從肝臟局部病灶造影到甲狀腺機能亢進（預測）
+## Gadoxetic acid：從肝臟局部病灶造影到甲狀腺機能亢進（預測）
+{: .text-alpha }
 
 ## 一句話總結
 

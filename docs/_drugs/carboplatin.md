@@ -33,7 +33,8 @@ predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenoc
 
 </div>
 
-# Carboplatin：從卵巢癌到女性乳癌
+## Carboplatin：從卵巢癌到女性乳癌
+{: .text-alpha }
 
 <!-- review:begin carboplatin-original-indication-title-2026-10-16 -->
 

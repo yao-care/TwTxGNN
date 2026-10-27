@@ -33,7 +33,8 @@ description: "Belimumab：預測新適應症為原發性血小板釋放障礙 (p
 
 </div>
 
-# Belimumab：從全身性紅斑性狼瘡到原發性血小板釋放障礙
+## Belimumab：從全身性紅斑性狼瘡到原發性血小板釋放障礙
+{: .text-alpha }
 
 ## 一句話總結
 

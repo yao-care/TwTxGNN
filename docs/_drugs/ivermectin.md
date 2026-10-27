@@ -33,7 +33,8 @@ description: "Ivermectin：預測新適應症為外陰陰道念珠菌病 (Vulvov
 
 </div>
 
-# Ivermectin：從疥瘡與寄生蟲感染到外陰陰道念珠菌病
+## Ivermectin：從疥瘡與寄生蟲感染到外陰陰道念珠菌病
+{: .text-alpha }
 
 ## 一句話總結
 

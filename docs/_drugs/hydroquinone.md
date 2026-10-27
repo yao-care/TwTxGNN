@@ -33,7 +33,8 @@ description: "Hydroquinone：預測新適應症為脂漏性角化症 (Seborrheic
 
 </div>
 
-# Hydroquinone（氫醌）：從黑斑、雀斑到脂漏性角化症
+## Hydroquinone（氫醌）：從黑斑、雀斑到脂漏性角化症
+{: .text-alpha }
 
 ## 一句話總結
 

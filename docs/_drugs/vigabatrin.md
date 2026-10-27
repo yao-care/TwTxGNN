@@ -32,7 +32,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-# Vigabatrin：抗癲癇輔助療法
+## Vigabatrin：抗癲癇輔助療法
+{: .text-alpha }
 
 ## 一句話總結
 

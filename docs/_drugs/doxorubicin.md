@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-# Doxorubicin：從白血病、淋巴瘤與實體腫瘤到尤文氏肉瘤
+## Doxorubicin：從白血病、淋巴瘤與實體腫瘤到尤文氏肉瘤
+{: .text-alpha }
 
 <!-- review:begin doxorubicin-original-indication-title-2026-10-16 -->
 

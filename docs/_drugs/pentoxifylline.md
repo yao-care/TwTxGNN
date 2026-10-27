@@ -32,7 +32,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-# Pentoxifylline 藥師筆記
+## Pentoxifylline 藥師筆記
+{: .text-alpha }
 
 ## 一句話總結
 

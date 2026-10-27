@@ -33,7 +33,8 @@ description: "Dl-Alpha-Tocopherol：預測新適應症為未成熟型白內障 (
 
 </div>
 
-# DL-alpha-Tocopherol：從維他命 E 缺乏症到未成熟型白內障
+## DL-alpha-Tocopherol：從維他命 E 缺乏症到未成熟型白內障
+{: .text-alpha }
 
 ## 一句話總結
 

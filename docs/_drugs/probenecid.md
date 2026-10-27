@@ -33,7 +33,8 @@ description: "Probenecid：預測新適應症為腎性低尿酸血症 (hypourice
 
 </div>
 
-# Probenecid：從痛風到腎性低尿酸血症（預測不合理，建議暫緩）
+## Probenecid：從痛風到腎性低尿酸血症（預測不合理，建議暫緩）
+{: .text-alpha }
 
 ## 一句話總結
 

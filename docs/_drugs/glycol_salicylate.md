@@ -33,7 +33,8 @@ description: "Glycol Salicylate：預測新適應症為Glanzmann 血小板無力
 
 </div>
 
-# Glycol salicylate：從局部疼痛到 Glanzmann 血小板無力症
+## Glycol salicylate：從局部疼痛到 Glanzmann 血小板無力症
+{: .text-alpha }
 
 ## 一句話總結
 

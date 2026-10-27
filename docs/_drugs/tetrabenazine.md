@@ -33,7 +33,8 @@ description: "Tetrabenazine：預測新適應症為多囊腎疾病 3 型…（�
 
 </div>
 
-# Tetrabenazine：從亨汀頓舞蹈症到多囊腎疾病（polycystic kidney disease 3）
+## Tetrabenazine：從亨汀頓舞蹈症到多囊腎疾病（polycystic kidney disease 3）
+{: .text-alpha }
 
 ## 一句話總結
 

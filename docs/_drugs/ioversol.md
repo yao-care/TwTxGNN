@@ -33,7 +33,8 @@ description: "Ioversol：預測新適應症為骨關節炎易感性 (Osteoarthri
 
 </div>
 
-# Ioversol：從心血管與全身 X 光造影到退化性關節炎（骨關節炎易感性）
+## Ioversol：從心血管與全身 X 光造影到退化性關節炎（骨關節炎易感性）
+{: .text-alpha }
 
 ## 一句話總結
 

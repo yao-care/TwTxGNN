@@ -33,7 +33,8 @@ description: "Avelumab：預測新適應症為人類疱疹病毒 8 型相關腫�
 
 </div>
 
-# Avelumab：從默克細胞癌到 HHV-8 相關腫瘤
+## Avelumab：從默克細胞癌到 HHV-8 相關腫瘤
+{: .text-alpha }
 
 ## 一句話總結
 

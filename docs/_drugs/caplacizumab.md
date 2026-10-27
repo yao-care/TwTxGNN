@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 
 </div>
 
-# Caplacizumab：從後天性血栓性血小板低下紫斑症到血小板釋放障礙
+## Caplacizumab：從後天性血栓性血小板低下紫斑症到血小板釋放障礙
+{: .text-alpha }
 
 ## 一句話總結
 

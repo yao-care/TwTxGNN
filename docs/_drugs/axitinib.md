@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 
 </div>
 
-# Axitinib：從晚期腎細胞癌到未分類腎細胞癌
+## Axitinib：從晚期腎細胞癌到未分類腎細胞癌
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Niraparib：預測新適應症為囊性腫瘤 (Cystic Neoplasm)（
 
 </div>
 
-# Niraparib：從卵巢癌到囊性腫瘤（Cystic Neoplasm）
+## Niraparib：從卵巢癌到囊性腫瘤（Cystic Neoplasm）
+{: .text-alpha }
 
 ## 一句話總結
 

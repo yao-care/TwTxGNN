@@ -33,7 +33,8 @@ description: "Ropinirole：預測新適應症為注意力不足過動症 (Attent
 
 </div>
 
-# Ropinirole：從帕金森氏症到注意力不足過動症（ADHD）
+## Ropinirole：從帕金森氏症到注意力不足過動症（ADHD）
+{: .text-alpha }
 
 ## 一句話總結
 

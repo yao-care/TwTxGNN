@@ -33,7 +33,8 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating 
 
 </div>
 
-# Atezolizumab：從非小細胞肺癌到攝護腺尿道泌尿上皮癌
+## Atezolizumab：從非小細胞肺癌到攝護腺尿道泌尿上皮癌
+{: .text-alpha }
 
 ## 一句話總結
 

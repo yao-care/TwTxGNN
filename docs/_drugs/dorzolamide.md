@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# Dorzolamide：從高眼壓症與廣角性青光眼到原發性遺傳性青光眼
+## Dorzolamide：從高眼壓症與廣角性青光眼到原發性遺傳性青光眼
+{: .text-alpha }
 
 ## 一句話總結
 

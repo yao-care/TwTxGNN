@@ -33,7 +33,8 @@ predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic v
 
 </div>
 
-# Tioconazole：從黴菌局部感染到外陰陰道炎
+## Tioconazole：從黴菌局部感染到外陰陰道炎
+{: .text-alpha }
 
 ## 一句話總結
 

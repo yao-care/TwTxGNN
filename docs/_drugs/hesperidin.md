@@ -33,7 +33,8 @@ description: "Hesperidin：預測新適應症為骨髓增生性腫瘤 (Myeloprol
 
 </div>
 
-# Hesperidin：從血管強化劑到骨髓增生性腫瘤
+## Hesperidin：從血管強化劑到骨髓增生性腫瘤
+{: .text-alpha }
 
 <!-- review:begin hesperidin-original-indication-title-2026-10-16 -->
 

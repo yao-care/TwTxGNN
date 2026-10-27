@@ -33,7 +33,8 @@ description: "Trifluoperazine：預測新適應症為躁期雙相情感障礙 (M
 
 </div>
 
-# Trifluoperazine：從精神病狀態到躁期雙相情感障礙
+## Trifluoperazine：從精神病狀態到躁期雙相情感障礙
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Threonine：預測新適應症為胃輕癱 (Gastroparesis)（證�
 
 </div>
 
-# Threonine：從營養補充到輕癱（胃輕癱）
+## Threonine：從營養補充到輕癱（胃輕癱）
+{: .text-alpha }
 
 ## 一句話總結
 

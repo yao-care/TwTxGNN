@@ -33,7 +33,8 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 
 </div>
 
-# Simoctocog alfa：從 A 型血友病到偽性類血友病（pseudo-von Willebrand disease）
+## Simoctocog alfa：從 A 型血友病到偽性類血友病（pseudo-von Willebrand disease）
+{: .text-alpha }
 
 ## 一句話總結
 

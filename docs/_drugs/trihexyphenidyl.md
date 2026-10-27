@@ -33,7 +33,8 @@ description: "Trihexyphenidyl：預測新適應症為注意力不足過動症 (A
 
 </div>
 
-# Trihexyphenidyl：從帕金森氏症候群到注意力不足過動症
+## Trihexyphenidyl：從帕金森氏症候群到注意力不足過動症
+{: .text-alpha }
 
 ## 一句話總結
 

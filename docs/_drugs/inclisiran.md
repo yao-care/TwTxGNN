@@ -33,7 +33,8 @@ description: "Inclisiran：預測新適應症為鉀缺乏症 (Potassium Deficien
 
 </div>
 
-# Inclisiran：從原發性高血脂症到鉀缺乏症（預測證據薄弱）
+## Inclisiran：從原發性高血脂症到鉀缺乏症（預測證據薄弱）
+{: .text-alpha }
 
 ## 一句話總結
 

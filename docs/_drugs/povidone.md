@@ -33,7 +33,8 @@ description: "Povidone：預測新適應症為先天性魚鱗癬樣紅皮症 (Co
 
 </div>
 
-# Povidone：從製劑輔料與人工淚液到先天性魚鱗癬樣紅皮症
+## Povidone：從製劑輔料與人工淚液到先天性魚鱗癬樣紅皮症
+{: .text-alpha }
 
 <!-- review:begin povidone-iodine-indications-title-2026-10-16 -->
 

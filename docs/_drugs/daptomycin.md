@@ -33,7 +33,8 @@ description: "Daptomycin：預測新適應症為骨關節炎 (osteoarthritis)（
 
 </div>
 
-# Daptomycin：從複雜性皮膚感染與菌血症到骨關節炎
+## Daptomycin：從複雜性皮膚感染與菌血症到骨關節炎
+{: .text-alpha }
 
 ## 一句話總結
 

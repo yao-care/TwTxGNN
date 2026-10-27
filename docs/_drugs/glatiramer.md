@@ -33,7 +33,8 @@ description: "Glatiramer：預測新適應症為血紅素病變 (Hemoglobinopath
 
 </div>
 
-# Glatiramer：從復發型多發性硬化症到血紅素病變（Hemoglobinopathy）
+## Glatiramer：從復發型多發性硬化症到血紅素病變（Hemoglobinopathy）
+{: .text-alpha }
 
 ## 一句話總結
 

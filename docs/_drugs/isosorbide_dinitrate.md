@@ -33,7 +33,8 @@ predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrich
 
 </div>
 
-# Isosorbide dinitrate：從狹心症到肺高壓
+## Isosorbide dinitrate：從狹心症到肺高壓
+{: .text-alpha }
 
 ## 一句話總結
 

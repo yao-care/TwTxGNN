@@ -33,7 +33,8 @@ predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobine
 
 </div>
 
-# Zonisamide：從局部癲癇發作到妥瑞氏症
+## Zonisamide：從局部癲癇發作到妥瑞氏症
+{: .text-alpha }
 
 ## 一句話總結
 

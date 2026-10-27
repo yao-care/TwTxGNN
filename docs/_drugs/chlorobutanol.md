@@ -33,7 +33,8 @@ description: "Chlorobutanol：預測新適應症為勃起功能障礙 (Erectile 
 
 </div>
 
-# Chlorobutanol：從防腐劑到勃起功能障礙
+## Chlorobutanol：從防腐劑到勃起功能障礙
+{: .text-alpha }
 
 <!-- review:begin chlorobutanol-original-indication-combo-title-2026-10-16 -->
 

@@ -33,7 +33,8 @@ description: "Ascorbyl Phosphate：預測新適應症為嚴重非增殖性糖尿
 
 </div>
 
-# Ascorbyl phosphate：從複方眼藥水成分到嚴重非增殖性糖尿病視網膜病變
+## Ascorbyl phosphate：從複方眼藥水成分到嚴重非增殖性糖尿病視網膜病變
+{: .text-alpha }
 
 <!-- review:begin ascorbyl-phosphate-original-indication-combo-title-2026-10-16 -->
 

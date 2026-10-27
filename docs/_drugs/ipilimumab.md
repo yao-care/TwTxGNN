@@ -33,7 +33,8 @@ predicted_indications: ["choroideremia"]
 
 </div>
 
-# Ipilimumab：從無法切除或轉移性黑色素瘤到脈絡膜缺失症 (Choroideremia)
+## Ipilimumab：從無法切除或轉移性黑色素瘤到脈絡膜缺失症 (Choroideremia)
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Peppermint Oil：預測新適應症為痲瘋病 (Leprosy)（證據
 
 </div>
 
-# Peppermint oil：從外用止痛與蟲咬傷到心血管疾病
+## Peppermint oil：從外用止痛與蟲咬傷到心血管疾病
+{: .text-alpha }
 
 ## 一句話總結
 

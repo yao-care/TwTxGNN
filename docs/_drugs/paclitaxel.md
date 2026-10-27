@@ -33,7 +33,8 @@ predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-ty
 
 </div>
 
-# Paclitaxel：從卵巢癌、乳癌與非小細胞肺癌到女性乳癌
+## Paclitaxel：從卵巢癌、乳癌與非小細胞肺癌到女性乳癌
+{: .text-alpha }
 
 <!-- review:begin paclitaxel-original-indication-title-2026-10-16 -->
 

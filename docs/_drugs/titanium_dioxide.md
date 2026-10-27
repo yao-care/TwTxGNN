@@ -33,7 +33,8 @@ description: "Titanium Dioxide：預測新適應症為藥物誘發性骨質疏�
 
 </div>
 
-# Titanium dioxide：從外用抗刺激劑／局部保護劑到藥物誘發性骨質疏鬆
+## Titanium dioxide：從外用抗刺激劑／局部保護劑到藥物誘發性骨質疏鬆
+{: .text-alpha }
 
 ## 一句話總結
 

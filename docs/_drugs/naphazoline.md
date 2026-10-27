@@ -33,7 +33,8 @@ description: "Naphazoline：預測新適應症為頭皮單純性毛髮稀少症 
 
 </div>
 
-# Naphazoline：從鼻炎與鼻塞到頭皮毛髮稀少症（hypotrichosis simplex of the scalp）
+## Naphazoline：從鼻炎與鼻塞到頭皮毛髮稀少症（hypotrichosis simplex of the scalp）
+{: .text-alpha }
 
 ## 一句話總結
 

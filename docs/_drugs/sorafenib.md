@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 
 </div>
 
-# Sorafenib：從晚期肝細胞癌 (HCC) 到脂肪肉瘤
+## Sorafenib：從晚期肝細胞癌 (HCC) 到脂肪肉瘤
+{: .text-alpha }
 
 ## 一句話總結
 

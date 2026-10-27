@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Hydrocortisone：從皮膚過敏性疾病與腎上腺皮質功能不足到圓形禿
+## Hydrocortisone：從皮膚過敏性疾病與腎上腺皮質功能不足到圓形禿
+{: .text-alpha }
 
 ## 一句話總結
 

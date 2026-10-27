@@ -33,7 +33,8 @@ description: "Ravulizumab：預測新適應症為體染色體隱性嚴重先天�
 
 </div>
 
-# Ravulizumab：從陣發性夜間血紅素尿症到先天性嚴重嗜中性白血球低下症（G6PC3 缺乏）
+## Ravulizumab：從陣發性夜間血紅素尿症到先天性嚴重嗜中性白血球低下症（G6PC3 缺乏）
+{: .text-alpha }
 
 ## 一句話總結
 

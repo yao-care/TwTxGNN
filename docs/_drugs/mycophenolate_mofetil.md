@@ -33,7 +33,8 @@ description: "Mycophenolate Mofetil：預測新適應症為HIV 感染 (HIV infec
 
 </div>
 
-# Mycophenolate mofetil：從器官移植排斥到 HIV 感染
+## Mycophenolate mofetil：從器官移植排斥到 HIV 感染
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Man
 
 </div>
 
-# Lacosamide：從局部癲癇發作到躁症型雙相情感障礙
+## Lacosamide：從局部癲癇發作到躁症型雙相情感障礙
+{: .text-alpha }
 
 ## 一句話總結
 

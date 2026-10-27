@@ -33,7 +33,8 @@ predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin me
 
 </div>
 
-# Vitamin E：從維他命Ｅ缺乏症到先天性膽紅素代謝異常
+## Vitamin E：從維他命Ｅ缺乏症到先天性膽紅素代謝異常
+{: .text-alpha }
 
 ## 一句話總結
 

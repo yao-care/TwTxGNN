@@ -33,7 +33,8 @@ description: "Prasugrel：預測新適應症為肺高壓 (Pulmonary Hypertension
 
 </div>
 
-# Prasugrel：從急性冠狀動脈症候群到肺高壓
+## Prasugrel：從急性冠狀動脈症候群到肺高壓
+{: .text-alpha }
 
 ## 一句話總結
 

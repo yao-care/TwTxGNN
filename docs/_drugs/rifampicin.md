@@ -33,7 +33,8 @@ description: "Rifampicin：預測新適應症為結膜炎 (Conjunctivitis)（證
 
 </div>
 
-# Rifampicin：從結核病到結膜炎
+## Rifampicin：從結核病到結膜炎
+{: .text-alpha }
 
 ## 一句話總結
 

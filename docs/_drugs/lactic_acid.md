@@ -33,7 +33,8 @@ description: "Lactic Acid：預測新適應症為非典型主動脈縮窄 (Atypi
 
 </div>
 
-# Lactic acid：從婦女陰道及陰部洗潔除臭到主動脈非典型縮窄
+## Lactic acid：從婦女陰道及陰部洗潔除臭到主動脈非典型縮窄
+{: .text-alpha }
 
 ## 一句話總結
 

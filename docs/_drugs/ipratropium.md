@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopha
 
 </div>
 
-# Ipratropium：從慢性阻塞性支氣管炎／支氣管氣喘到阻塞性肺疾病
+## Ipratropium：從慢性阻塞性支氣管炎／支氣管氣喘到阻塞性肺疾病
+{: .text-alpha }
 
 ## 一句話總結
 

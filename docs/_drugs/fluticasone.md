@@ -33,7 +33,8 @@ description: "Fluticasone：預測新適應症為偏頭痛 (Migraine Disorder)�
 
 </div>
 
-# Fluticasone：從抗炎性皮質類固醇到偏頭痛
+## Fluticasone：從抗炎性皮質類固醇到偏頭痛
+{: .text-alpha }
 
 ## 一句話總結
 

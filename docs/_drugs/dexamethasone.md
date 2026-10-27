@@ -33,7 +33,8 @@ description: "Dexamethasone：預測新適應症為圓形禿 (Alopecia Areata)�
 
 </div>
 
-# Dexamethasone：從風濕性關節炎與過敏性疾病到圓形禿
+## Dexamethasone：從風濕性關節炎與過敏性疾病到圓形禿
+{: .text-alpha }
 
 ## 一句話總結
 

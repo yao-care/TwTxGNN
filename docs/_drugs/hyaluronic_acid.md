@@ -33,7 +33,8 @@ description: "Hyaluronic Acid：預測新適應症為乾眼症 (Dry Eye Syndrome
 
 </div>
 
-# Hyaluronic acid：從（原適應症資料缺漏）到乾眼症
+## Hyaluronic acid：從（原適應症資料缺漏）到乾眼症
+{: .text-alpha }
 
 ## 一句話總結
 

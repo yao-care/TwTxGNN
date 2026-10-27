@@ -33,7 +33,8 @@ description: "Cerliponase Alfa：預測新適應症為Scheie 症候群 (Scheie s
 
 </div>
 
-# Cerliponase alfa：從 CLN2 疾病到 Scheie 症候群
+## Cerliponase alfa：從 CLN2 疾病到 Scheie 症候群
+{: .text-alpha }
 
 ## 一句話總結
 

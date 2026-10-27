@@ -33,7 +33,8 @@ description: "Mitiglinide：預測新適應症為Opsismodysplasia（證據等級
 
 </div>
 
-# Mitiglinide：從第二型糖尿病到 Opsismodysplasia
+## Mitiglinide：從第二型糖尿病到 Opsismodysplasia
+{: .text-alpha }
 
 ## 一句話總結
 

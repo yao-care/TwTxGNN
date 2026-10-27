@@ -33,7 +33,8 @@ description: "Dronedarone：預測新適應症為中風相關疾患 (Stroke Diso
 
 </div>
 
-# Dronedarone：從心房顫動到中風相關疾患
+## Dronedarone：從心房顫動到中風相關疾患
+{: .text-alpha }
 
 ## 一句話總結
 

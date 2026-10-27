@@ -33,7 +33,8 @@ description: "Moclobemide：預測新適應症為懼曠症 (Agoraphobia)（證�
 
 </div>
 
-# Moclobemide：從憂鬱症到懼曠症（Agoraphobia）
+## Moclobemide：從憂鬱症到懼曠症（Agoraphobia）
+{: .text-alpha }
 
 ## 一句話總結
 

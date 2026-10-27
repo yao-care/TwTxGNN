@@ -33,7 +33,8 @@ description: "Sacituzumab Govitecan：預測新適應症為藥物誘發性骨質
 
 </div>
 
-# Sacituzumab govitecan：從三陰性乳癌到藥物誘發性骨質疏鬆
+## Sacituzumab govitecan：從三陰性乳癌到藥物誘發性骨質疏鬆
+{: .text-alpha }
 
 ## 一句話總結
 

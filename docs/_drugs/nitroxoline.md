@@ -33,7 +33,8 @@ description: "Nitroxoline：預測新適應症為閉經 (Amenorrhea)（證據等
 
 </div>
 
-# Nitroxoline：從泌尿道感染到閉經
+## Nitroxoline：從泌尿道感染到閉經
+{: .text-alpha }
 
 ## 一句話總結
 

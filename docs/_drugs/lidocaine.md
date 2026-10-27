@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary c
 
 </div>
 
-# Lidocaine：從局部麻醉到點狀上皮角結膜炎
+## Lidocaine：從局部麻醉到點狀上皮角結膜炎
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-# Aliskiren：從高血壓到肺高壓（缺氧／肺疾病所致）
+## Aliskiren：從高血壓到肺高壓（缺氧／肺疾病所致）
+{: .text-alpha }
 
 ## 一句話總結
 

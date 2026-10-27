@@ -33,7 +33,8 @@ description: "Pancrelipase：預測新適應症為核 DNA 異常所致粒線體�
 
 </div>
 
-# Pancrelipase：從外分泌胰臟功能不全到粒線體氧化磷酸化疾患（模型預測，證據極弱）
+## Pancrelipase：從外分泌胰臟功能不全到粒線體氧化磷酸化疾患（模型預測，證據極弱）
+{: .text-alpha }
 
 ## 一句話總結
 

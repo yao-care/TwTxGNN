@@ -33,7 +33,8 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-# Thiamine：從腳氣病與維他命 B1 缺乏症到甲狀腺機能亢進
+## Thiamine：從腳氣病與維他命 B1 缺乏症到甲狀腺機能亢進
+{: .text-alpha }
 
 ## 一句話總結
 

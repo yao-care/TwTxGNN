@@ -33,7 +33,8 @@ description: "Diosmin：預測新適應症為閉經 (Amenorrhea)（證據等級 
 
 </div>
 
-# Diosmin：從靜脈曲張與痔瘡到閉經
+## Diosmin：從靜脈曲張與痔瘡到閉經
+{: .text-alpha }
 
 ## 一句話總結
 

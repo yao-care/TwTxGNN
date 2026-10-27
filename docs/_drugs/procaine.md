@@ -33,7 +33,8 @@ description: "Procaine：預測新適應症為高鐵血紅素血症 (Methemoglob
 
 </div>
 
-# Procaine：從局部麻醉到高鐵血紅素血症（預測）
+## Procaine：從局部麻醉到高鐵血紅素血症（預測）
+{: .text-alpha }
 
 ## 一句話總結
 

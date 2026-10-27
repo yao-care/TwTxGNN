@@ -33,7 +33,8 @@ description: "Travoprost：預測新適應症為內臟鈣化防禦症 (Visceral 
 
 </div>
 
-# Travoprost：從青光眼到內臟鈣化防禦症
+## Travoprost：從青光眼到內臟鈣化防禦症
+{: .text-alpha }
 
 ## 一句話總結
 

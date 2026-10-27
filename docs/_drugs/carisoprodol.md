@@ -33,7 +33,8 @@ description: "Carisoprodol：預測新適應症為失眠 (Insomnia)（證據等�
 
 </div>
 
-# Carisoprodol：從肌肉異常緊張到失眠
+## Carisoprodol：從肌肉異常緊張到失眠
+{: .text-alpha }
 
 ## 一句話總結
 

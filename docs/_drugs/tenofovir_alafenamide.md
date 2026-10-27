@@ -33,7 +33,8 @@ description: "Tenofovir Alafenamide：預測新適應症為猿猴免疫缺乏病
 
 </div>
 
-# Tenofovir alafenamide：從慢性 B 型肝炎到猿猴免疫缺乏病毒感染
+## Tenofovir alafenamide：從慢性 B 型肝炎到猿猴免疫缺乏病毒感染
+{: .text-alpha }
 
 ## 一句話總結
 

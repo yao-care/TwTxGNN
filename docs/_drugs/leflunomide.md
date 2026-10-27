@@ -33,7 +33,8 @@ description: "Leflunomide：預測新適應症為短指併指症候群 (Brachyda
 
 </div>
 
-# Leflunomide：從類風濕性關節炎到短指併指症候群
+## Leflunomide：從類風濕性關節炎到短指併指症候群
+{: .text-alpha }
 
 ## 一句話總結
 

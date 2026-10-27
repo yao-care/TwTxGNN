@@ -33,7 +33,8 @@ predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syn
 
 </div>
 
-# Dipyridamole：從慢性狹心症到 Prinzmetal 狹心症
+## Dipyridamole：從慢性狹心症到 Prinzmetal 狹心症
+{: .text-alpha }
 
 ## 一句話總結
 

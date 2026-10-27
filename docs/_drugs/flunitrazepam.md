@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "an
 
 </div>
 
-# Flunitrazepam：從失眠到失眠（預測新適應症為同一適應症，屬於已核准用途的再確認）
+## Flunitrazepam：從失眠到失眠（預測新適應症為同一適應症，屬於已核准用途的再確認）
+{: .text-alpha }
 
 ## 一句話總結
 

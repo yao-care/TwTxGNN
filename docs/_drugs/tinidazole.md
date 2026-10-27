@@ -33,7 +33,8 @@ predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulv
 
 </div>
 
-# Tinidazole：從陰道滴蟲症到停經後萎縮性陰道炎
+## Tinidazole：從陰道滴蟲症到停經後萎縮性陰道炎
+{: .text-alpha }
 
 ## 一句話總結
 

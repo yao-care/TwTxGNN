@@ -33,7 +33,8 @@ predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "rosacea 
 
 </div>
 
-# Cromoglicic acid：從過敏性結膜炎與過敏性鼻炎到潰瘍性直腸乙狀結腸炎
+## Cromoglicic acid：從過敏性結膜炎與過敏性鼻炎到潰瘍性直腸乙狀結腸炎
+{: .text-alpha }
 
 <!-- review:begin cromoglicic-acid-original-indication-title-2026-10-16 -->
 

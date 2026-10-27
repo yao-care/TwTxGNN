@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Prednisolone：從風濕性與過敏性疾病到圓形禿 (Alopecia Areata)
+## Prednisolone：從風濕性與過敏性疾病到圓形禿 (Alopecia Areata)
+{: .text-alpha }
 
 ## 一句話總結
 

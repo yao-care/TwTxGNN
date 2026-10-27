@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 
 </div>
 
-# Tetryzoline：從過敏性結膜炎與眼睛充血到鼻腔疾病
+## Tetryzoline：從過敏性結膜炎與眼睛充血到鼻腔疾病
+{: .text-alpha }
 
 ## 一句話總結
 

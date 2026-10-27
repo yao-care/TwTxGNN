@@ -33,7 +33,8 @@ description: "Safinamide：預測新適應症為Rasmussen 亞急性腦炎 (Rasmu
 
 </div>
 
-# Safinamide：從帕金森氏症藥效漸退現象到 Rasmussen 亞急性腦炎
+## Safinamide：從帕金森氏症藥效漸退現象到 Rasmussen 亞急性腦炎
+{: .text-alpha }
 
 ## 一句話總結
 

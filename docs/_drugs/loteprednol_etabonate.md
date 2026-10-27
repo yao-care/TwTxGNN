@@ -33,7 +33,8 @@ predicted_indications: ["conjunctival folliculosis", "chronic follicular conjunc
 
 </div>
 
-# Loteprednol etabonate：從眼部類固醇反應性發炎到結膜濾泡增生症
+## Loteprednol etabonate：從眼部類固醇反應性發炎到結膜濾泡增生症
+{: .text-alpha }
 
 ## 一句話總結
 

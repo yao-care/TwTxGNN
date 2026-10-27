@@ -33,7 +33,8 @@ description: "Mexiletine：預測新適應症為毛髮過多症 (Hypertrichosis)
 
 </div>
 
-# Mexiletine：從心室性心律不整到頭痛疾患
+## Mexiletine：從心室性心律不整到頭痛疾患
+{: .text-alpha }
 
 ## 一句話總結
 

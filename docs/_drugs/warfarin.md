@@ -33,7 +33,8 @@ predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with s
 
 </div>
 
-# Warfarin：從靜脈栓塞症到肝素輔因子 II 缺乏症
+## Warfarin：從靜脈栓塞症到肝素輔因子 II 缺乏症
+{: .text-alpha }
 
 ## 一句話總結
 

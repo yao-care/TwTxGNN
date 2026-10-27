@@ -33,7 +33,8 @@ predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia
 
 </div>
 
-# Salicylic acid：從皮膚角質問題到乳突狀結膜炎
+## Salicylic acid：從皮膚角質問題到乳突狀結膜炎
+{: .text-alpha }
 
 <!-- review:begin salicylic_acid-original-indication-aspirin-title-2026-10-16 -->
 

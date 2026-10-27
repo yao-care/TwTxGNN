@@ -33,7 +33,8 @@ description: "Tizanidine：預測新適應症為偏頭痛 (Migraine Disorder)（
 
 </div>
 
-# Tizanidine：從神經疾患所致痙攣到偏頭痛
+## Tizanidine：從神經疾患所致痙攣到偏頭痛
+{: .text-alpha }
 
 ## 一句話總結
 

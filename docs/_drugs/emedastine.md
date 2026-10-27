@@ -31,7 +31,8 @@ description: "Emedastine：預測新適應症為過敏性蕁麻疹 (Allergic Urt
 
 </div>
 
-# Emedastine：從過敏性結膜炎到過敏性蕁麻疹
+## Emedastine：從過敏性結膜炎到過敏性蕁麻疹
+{: .text-alpha }
 
 ## 一句話總結
 

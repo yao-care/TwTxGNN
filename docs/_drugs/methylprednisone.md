@@ -33,7 +33,8 @@ description: "Methylprednisone：預測新適應症為痲瘋病 (Leprosy)（證�
 
 </div>
 
-# Methylprednisone：從風濕性關節炎與腎上腺皮質機能不全到痲瘋病（Leprosy）
+## Methylprednisone：從風濕性關節炎與腎上腺皮質機能不全到痲瘋病（Leprosy）
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Pitolisant：預測新適應症為失眠 (Insomnia)（證據等級
 
 </div>
 
-# Pitolisant：從猝睡症與阻塞性睡眠呼吸中止之日間嗜睡到失眠
+## Pitolisant：從猝睡症與阻塞性睡眠呼吸中止之日間嗜睡到失眠
+{: .text-alpha }
 
 ## 一句話總結
 

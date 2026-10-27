@@ -33,7 +33,8 @@ description: "Clobetasone：預測新適應症為原發性皮膚 T 細胞淋巴�
 
 </div>
 
-# Clobetasone：從輕度濕疹與脂漏性皮炎到原發性皮膚 T 細胞淋巴瘤
+## Clobetasone：從輕度濕疹與脂漏性皮炎到原發性皮膚 T 細胞淋巴瘤
+{: .text-alpha }
 
 ## 一句話總結
 

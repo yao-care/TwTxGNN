@@ -33,7 +33,8 @@ description: "Fluorescein：預測新適應症為變異型心絞痛 (Prinzmetal 
 
 </div>
 
-# Fluorescein：從血管造影診斷到變異型心絞痛（Prinzmetal angina）
+## Fluorescein：從血管造影診斷到變異型心絞痛（Prinzmetal angina）
+{: .text-alpha }
 
 ## 一句話總結
 

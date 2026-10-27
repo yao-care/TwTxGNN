@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of l
 
 </div>
 
-# Vinorelbine：從非小細胞肺癌、轉移性乳癌到尤文氏肉瘤
+## Vinorelbine：從非小細胞肺癌、轉移性乳癌到尤文氏肉瘤
+{: .text-alpha }
 
 ## 一句話總結
 

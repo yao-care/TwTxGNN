@@ -33,7 +33,8 @@ description: "Flucloxacillin：預測新適應症為結膜炎 (Conjunctivitis)�
 
 </div>
 
-# Flucloxacillin：從細菌感染症到結膜炎
+## Flucloxacillin：從細菌感染症到結膜炎
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -32,7 +32,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-# Chloral Hydrate（水合三氯乙醛）：經典鎮靜催眠劑的評估
+## Chloral Hydrate（水合三氯乙醛）：經典鎮靜催眠劑的評估
+{: .text-alpha }
 
 ## 一句話總結
 

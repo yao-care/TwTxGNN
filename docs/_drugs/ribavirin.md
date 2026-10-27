@@ -33,7 +33,8 @@ predicted_indications: ["chronic hepatitis B virus infection", "hepatopulmonary 
 
 </div>
 
-# Ribavirin：從慢性 C 型肝炎到慢性 B 型肝炎
+## Ribavirin：從慢性 C 型肝炎到慢性 B 型肝炎
+{: .text-alpha }
 
 ## 一句話總結
 

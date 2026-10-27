@@ -33,7 +33,8 @@ description: "Sotatercept：預測新適應症為急性淋巴性白血病 (Acute
 
 </div>
 
-# Sotatercept：從肺動脈高壓到急性淋巴性白血病
+## Sotatercept：從肺動脈高壓到急性淋巴性白血病
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Cobimetinib：預測新適應症為肌萎縮性側索硬化症 (Am
 
 </div>
 
-# Cobimetinib：從 BRAF V600 突變黑色素瘤到肌萎縮性側索硬化症
+## Cobimetinib：從 BRAF V600 突變黑色素瘤到肌萎縮性側索硬化症
+{: .text-alpha }
 
 ## 一句話總結
 

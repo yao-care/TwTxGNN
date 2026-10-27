@@ -33,7 +33,8 @@ description: "Eltrombopag：預測新適應症為HIV 感染相關疾病 (HIV inf
 
 </div>
 
-# Eltrombopag：從免疫性血小板減少症到 HIV 感染相關疾病
+## Eltrombopag：從免疫性血小板減少症到 HIV 感染相關疾病
+{: .text-alpha }
 
 ## 一句話總結
 

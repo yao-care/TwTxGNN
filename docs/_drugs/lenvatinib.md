@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 
 </div>
 
-# Lenvatinib：從分化型甲狀腺癌到脂肪肉瘤
+## Lenvatinib：從分化型甲狀腺癌到脂肪肉瘤
+{: .text-alpha }
 
 ## 一句話總結
 

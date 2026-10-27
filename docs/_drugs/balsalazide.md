@@ -33,7 +33,8 @@ description: "Balsalazide：預測新適應症為痛風 (Gout)（證據等級 L5
 
 </div>
 
-# Balsalazide：從潰瘍性結腸炎到痛風
+## Balsalazide：從潰瘍性結腸炎到痛風
+{: .text-alpha }
 
 ## 一句話總結
 

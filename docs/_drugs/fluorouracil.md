@@ -33,7 +33,8 @@ description: "Fluorouracil：預測新適應症為陰道葡萄狀胚胎型橫紋
 
 </div>
 
-# Fluorouracil：從消化器癌與乳癌等實體腫瘤到陰道葡萄狀胚胎型橫紋肌肉瘤
+## Fluorouracil：從消化器癌與乳癌等實體腫瘤到陰道葡萄狀胚胎型橫紋肌肉瘤
+{: .text-alpha }
 
 <!-- review:begin fluorouracil-original-indication-title-2026-10-16 -->
 

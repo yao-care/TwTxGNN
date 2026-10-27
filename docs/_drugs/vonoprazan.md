@@ -33,7 +33,8 @@ predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "
 
 </div>
 
-# Vonoprazan：從糜爛性食道炎與消化性潰瘍到活動性消化性潰瘍
+## Vonoprazan：從糜爛性食道炎與消化性潰瘍到活動性消化性潰瘍
+{: .text-alpha }
 
 ## 一句話總結
 

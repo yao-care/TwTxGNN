@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Irbesartan：從本態性高血壓到惡性高血壓性腎病變
+## Irbesartan：從本態性高血壓到惡性高血壓性腎病變
+{: .text-alpha }
 
 ## 一句話總結
 

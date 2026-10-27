@@ -33,7 +33,8 @@ description: "Busulfan：預測新適應症為骨髓發育不良症候群 (Myelo
 
 </div>
 
-# Busulfan：從慢性骨髓性白血病到骨髓發育不良症候群
+## Busulfan：從慢性骨髓性白血病到骨髓發育不良症候群
+{: .text-alpha }
 
 ## 一句話總結
 

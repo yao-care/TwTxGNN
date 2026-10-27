@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Tiaprofenic acid：從消炎鎮痛到短指（趾）併指症候群
+## Tiaprofenic acid：從消炎鎮痛到短指（趾）併指症候群
+{: .text-alpha }
 
 ## 一句話總結
 

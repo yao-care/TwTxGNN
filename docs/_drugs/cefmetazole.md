@@ -33,7 +33,8 @@ description: "Cefmetazole：預測新適應症為高澱粉酶血症 (Hyperamylas
 
 </div>
 
-# Cefmetazole：從細菌感染到高澱粉酶血症
+## Cefmetazole：從細菌感染到高澱粉酶血症
+{: .text-alpha }
 
 ## 一句話總結
 

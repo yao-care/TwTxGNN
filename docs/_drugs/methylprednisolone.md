@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Methylprednisolone：從風濕性關節炎與過敏性疾病到圓形禿
+## Methylprednisolone：從風濕性關節炎與過敏性疾病到圓形禿
+{: .text-alpha }
 
 ## 一句話總結
 

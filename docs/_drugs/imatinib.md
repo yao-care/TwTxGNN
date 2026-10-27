@@ -33,7 +33,8 @@ description: "Imatinib：預測新適應症為心臟纖維肉瘤 (Heart Fibrosar
 
 </div>
 
-# Imatinib：從慢性骨髓性白血病到心臟纖維肉瘤
+## Imatinib：從慢性骨髓性白血病到心臟纖維肉瘤
+{: .text-alpha }
 
 ## 一句話總結
 

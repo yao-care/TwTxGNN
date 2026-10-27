@@ -33,7 +33,8 @@ predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable en
 
 </div>
 
-# Zanubrutinib：從被套細胞淋巴瘤等 B 細胞惡性腫瘤到骨髓性白血病
+## Zanubrutinib：從被套細胞淋巴瘤等 B 細胞惡性腫瘤到骨髓性白血病
+{: .text-alpha }
 
 ## 一句話總結
 

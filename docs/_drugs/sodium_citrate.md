@@ -33,7 +33,8 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "acu
 
 </div>
 
-# Sodium citrate：從輸血抗凝血到乳突性結膜炎
+## Sodium citrate：從輸血抗凝血到乳突性結膜炎
+{: .text-alpha }
 
 ## 一句話總結
 

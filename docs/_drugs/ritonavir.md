@@ -33,7 +33,8 @@ description: "Ritonavir：預測新適應症為猿猴免疫缺乏病毒感染 (S
 
 </div>
 
-# Ritonavir：從 HIV-1 感染到猿猴免疫缺乏病毒感染
+## Ritonavir：從 HIV-1 感染到猿猴免疫缺乏病毒感染
+{: .text-alpha }
 
 ## 一句話總結
 

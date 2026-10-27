@@ -33,7 +33,8 @@ description: "Fenoterol：預測新適應症為多發性系統萎縮症 (Multipl
 
 </div>
 
-# Fenoterol：從支氣管痙攣疾患到多發性系統萎縮症
+## Fenoterol：從支氣管痙攣疾患到多發性系統萎縮症
+{: .text-alpha }
 
 ## 一句話總結
 

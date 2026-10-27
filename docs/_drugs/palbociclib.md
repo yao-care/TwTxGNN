@@ -33,7 +33,8 @@ description: "Palbociclib：預測新適應症為甲狀腺機能亢進 (Hyperthy
 
 </div>
 
-# Palbociclib：從乳癌到甲狀腺機能亢進（hyperthyroidism）
+## Palbociclib：從乳癌到甲狀腺機能亢進（hyperthyroidism）
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Polysorbate 80：預測新適應症為先天性魚鱗癬樣紅皮�
 
 </div>
 
-# Polysorbate 80：從界面活性劑（賦形劑）到先天性魚鱗癬樣紅皮症
+## Polysorbate 80：從界面活性劑（賦形劑）到先天性魚鱗癬樣紅皮症
+{: .text-alpha }
 
 ## 一句話總結
 

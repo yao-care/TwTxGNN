@@ -33,7 +33,8 @@ description: "Buprenorphine：預測新適應症為急性間歇性紫質症 (Acu
 
 </div>
 
-# Buprenorphine：從鴉片類物質成癮與疼痛到急性間歇性紫質症
+## Buprenorphine：從鴉片類物質成癮與疼痛到急性間歇性紫質症
+{: .text-alpha }
 
 ## 一句話總結
 

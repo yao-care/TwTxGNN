@@ -33,7 +33,8 @@ description: "Allopurinol：預測新適應症為肝性卟啉症 (Hepatic Porphy
 
 </div>
 
-# Allopurinol：從痛風與高尿酸血症到肝性卟啉症
+## Allopurinol：從痛風與高尿酸血症到肝性卟啉症
+{: .text-alpha }
 
 ## 一句話總結
 

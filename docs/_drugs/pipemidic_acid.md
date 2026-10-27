@@ -33,7 +33,8 @@ description: "Pipemidic Acid：預測新適應症為心臟疾病 (Heart disease)
 
 </div>
 
-# Pipemidic acid：從泌尿道與腸道細菌感染到心臟疾病
+## Pipemidic acid：從泌尿道與腸道細菌感染到心臟疾病
+{: .text-alpha }
 
 ## 一句話總結
 

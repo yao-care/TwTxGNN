@@ -33,7 +33,8 @@ description: "Insulin Lispro：預測新適應症為自體免疫性卵巢炎 (Au
 
 </div>
 
-# Insulin lispro：從糖尿病到自體免疫性卵巢炎
+## Insulin lispro：從糖尿病到自體免疫性卵巢炎
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Bevacizumab：預測新適應症為會厭腫瘤 (Epiglottis Neopla
 
 </div>
 
-# Bevacizumab：從轉移性大腸直腸癌到會厭腫瘤
+## Bevacizumab：從轉移性大腸直腸癌到會厭腫瘤
+{: .text-alpha }
 
 ## 一句話總結
 

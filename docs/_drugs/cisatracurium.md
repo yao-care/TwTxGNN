@@ -33,7 +33,8 @@ description: "Cisatracurium：預測新適應症為馬尾症候群 (Cauda Equina
 
 </div>
 
-# Cisatracurium：從全身麻醉輔助肌肉鬆弛到巨尾馬尾症候群（Cauda Equina Syndrome）
+## Cisatracurium：從全身麻醉輔助肌肉鬆弛到巨尾馬尾症候群（Cauda Equina Syndrome）
+{: .text-alpha }
 
 ## 一句話總結
 

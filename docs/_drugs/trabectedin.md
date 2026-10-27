@@ -33,7 +33,8 @@ description: "Trabectedin：預測新適應症為女性乳癌 (Female Breast Car
 
 </div>
 
-# Trabectedin：從脂肪肉瘤／平滑肌肉瘤到女性乳癌
+## Trabectedin：從脂肪肉瘤／平滑肌肉瘤到女性乳癌
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Temozolomide：預測新適應症為成人星狀細胞腫瘤 (Adul
 
 </div>
 
-# Temozolomide：從惡性神經膠質瘤到成人星狀細胞腫瘤
+## Temozolomide：從惡性神經膠質瘤到成人星狀細胞腫瘤
+{: .text-alpha }
 
 ## 一句話總結
 

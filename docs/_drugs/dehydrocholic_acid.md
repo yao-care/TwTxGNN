@@ -33,7 +33,8 @@ predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "bile duct
 
 </div>
 
-# Dehydrocholic acid（得利膽錠）：從膽石症與膽道疾患到急性尿酸腎病變
+## Dehydrocholic acid（得利膽錠）：從膽石症與膽道疾患到急性尿酸腎病變
+{: .text-alpha }
 
 ## 一句話總結
 

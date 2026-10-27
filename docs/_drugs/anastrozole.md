@@ -33,7 +33,8 @@ predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endoc
 
 </div>
 
-# Anastrozole：從停經後乳癌到女性乳癌（ER+ 適應症確認）
+## Anastrozole：從停經後乳癌到女性乳癌（ER+ 適應症確認）
+{: .text-alpha }
 
 ## 一句話總結
 

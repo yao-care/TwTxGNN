@@ -33,7 +33,8 @@ description: "Inositol：預測新適應症為肝門靜脈硬化症 (Hepatoporta
 
 </div>
 
-# Inositol：從末梢血管循環障礙到肝門靜脈硬化症（Hepatoportal Sclerosis）
+## Inositol：從末梢血管循環障礙到肝門靜脈硬化症（Hepatoportal Sclerosis）
+{: .text-alpha }
 
 ## 一句話總結
 

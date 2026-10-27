@@ -33,7 +33,8 @@ description: "Iopromide：預測新適應症為退化性關節炎易感性 (Oste
 
 </div>
 
-# Iopromide：從影像診斷（電腦斷層攝影、血管造影等）到退化性關節炎（Osteoarthritis）
+## Iopromide：從影像診斷（電腦斷層攝影、血管造影等）到退化性關節炎（Osteoarthritis）
+{: .text-alpha }
 
 ## 一句話總結
 

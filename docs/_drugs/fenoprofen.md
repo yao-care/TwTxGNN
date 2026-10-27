@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Fenoprofen：從鎮痛到僵直性脊椎炎
+## Fenoprofen：從鎮痛到僵直性脊椎炎
+{: .text-alpha }
 
 <!-- review:begin fenoprofen-why-as-premise-title-2026-10-16 -->
 

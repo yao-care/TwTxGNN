@@ -33,7 +33,8 @@ description: "Brodalumab：預測新適應症為類圓線蟲症 (Strongyloidiasi
 
 </div>
 
-# Brodalumab：從斑塊性乾癬到絛蟲樣線蟲感染（類圓線蟲症）
+## Brodalumab：從斑塊性乾癬到絛蟲樣線蟲感染（類圓線蟲症）
+{: .text-alpha }
 
 ## 一句話總結
 

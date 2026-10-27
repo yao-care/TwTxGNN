@@ -33,7 +33,8 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 </div>
 
-# Lornoxicam：從輕度至中度急性疼痛到類風濕性關節炎
+## Lornoxicam：從輕度至中度急性疼痛到類風濕性關節炎
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Benzylpenicillin：預測新適應症為牙冠周炎 (Pericoroniti
 
 </div>
 
-# Benzylpenicillin：從細菌感染症到牙冠周炎
+## Benzylpenicillin：從細菌感染症到牙冠周炎
+{: .text-alpha }
 
 ## 一句話總結
 

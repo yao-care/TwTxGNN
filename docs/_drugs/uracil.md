@@ -33,7 +33,8 @@ predicted_indications: ["colonic neoplasm", "rectosigmoid junction neoplasm", "l
 
 </div>
 
-# Uracil：從抗惡性腫瘤劑原料藥到大腸腫瘤
+## Uracil：從抗惡性腫瘤劑原料藥到大腸腫瘤
+{: .text-alpha }
 
 <!-- review:begin uracil-summary-indication-title-2026-10-16 -->
 

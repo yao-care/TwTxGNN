@@ -33,7 +33,8 @@ description: "Choline Salicylate：預測新適應症為類風濕性關節炎 (R
 
 </div>
 
-# Choline salicylate：從發炎、疼痛、單純疱疹到類風濕性關節炎
+## Choline salicylate：從發炎、疼痛、單純疱疹到類風濕性關節炎
+{: .text-alpha }
 
 ## 一句話總結
 

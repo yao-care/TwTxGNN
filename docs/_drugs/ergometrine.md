@@ -33,7 +33,8 @@ predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis 
 
 </div>
 
-# Ergometrine：從產後子宮出血與偏頭痛（台灣已核准）到多毛症（預測排名第 1，證據不足）
+## Ergometrine：從產後子宮出血與偏頭痛（台灣已核准）到多毛症（預測排名第 1，證據不足）
+{: .text-alpha }
 
 <!-- review:begin ergometrine-title-typo-2026-10-16 -->
 

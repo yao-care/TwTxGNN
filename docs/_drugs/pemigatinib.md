@@ -33,7 +33,8 @@ description: "Pemigatinib：預測新適應症為多發性內分泌腫瘤 (Multi
 
 </div>
 
-# Pemigatinib：從膽管癌到多發性內分泌腫瘤
+## Pemigatinib：從膽管癌到多發性內分泌腫瘤
+{: .text-alpha }
 
 ## 一句話總結
 

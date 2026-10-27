@@ -33,7 +33,8 @@ description: "Acyclovir：預測新適應症為尋常疣 (Common Wart)（證據�
 
 </div>
 
-# Acyclovir：從單純疱疹感染到尋常疣（Common Wart）
+## Acyclovir：從單純疱疹感染到尋常疣（Common Wart）
+{: .text-alpha }
 
 ## 一句話總結
 

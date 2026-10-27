@@ -33,7 +33,8 @@ description: "Urofollitropin：預測新適應症為偏頭痛 (Migraine Disorder
 
 </div>
 
-# Urofollitropin：從不排卵不孕症到偏頭痛（模型預測）
+## Urofollitropin：從不排卵不孕症到偏頭痛（模型預測）
+{: .text-alpha }
 
 ## 一句話總結
 

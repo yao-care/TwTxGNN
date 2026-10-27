@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis"]
 
 </div>
 
-# Aluminum hydroxide：從胃酸過多（制酸劑）到活動性消化性潰瘍
+## Aluminum hydroxide：從胃酸過多（制酸劑）到活動性消化性潰瘍
+{: .text-alpha }
 
 <!-- review:begin aluminum-hydroxide-original-indication-title-2026-10-16 -->
 

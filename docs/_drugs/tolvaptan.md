@@ -33,7 +33,8 @@ predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic inte
 
 </div>
 
-# Tolvaptan：從自體顯性多囊性腎臟病到 PKD3 型多囊性腎臟病（合併或不合併多囊肝）
+## Tolvaptan：從自體顯性多囊性腎臟病到 PKD3 型多囊性腎臟病（合併或不合併多囊肝）
+{: .text-alpha }
 
 ## 一句話總結
 

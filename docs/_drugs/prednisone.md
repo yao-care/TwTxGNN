@@ -33,7 +33,8 @@ description: "Prednisone：預測新適應症為圓形禿 (Alopecia Areata)（�
 
 </div>
 
-# Prednisone：從糖皮質素抗發炎用途到圓形禿 (Alopecia Areata)
+## Prednisone：從糖皮質素抗發炎用途到圓形禿 (Alopecia Areata)
+{: .text-alpha }
 
 <!-- review:begin prednisone-original-indication-other-drugs-title-2026-10-16 -->
 

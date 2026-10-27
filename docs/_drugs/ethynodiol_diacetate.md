@@ -33,7 +33,8 @@ description: "Ethynodiol Diacetate：預測新適應症為痤瘡 (Acne)（證據
 
 </div>
 
-# Ethynodiol diacetate：從避孕與抑制排卵到痤瘡
+## Ethynodiol diacetate：從避孕與抑制排卵到痤瘡
+{: .text-alpha }
 
 ## 一句話總結
 

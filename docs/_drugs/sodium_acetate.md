@@ -33,7 +33,8 @@ description: "Sodium Acetate：預測新適應症為先天性凝血酶原缺乏�
 
 </div>
 
-# Sodium acetate：從血液透析輔助到先天性凝血酶原缺乏症
+## Sodium acetate：從血液透析輔助到先天性凝血酶原缺乏症
+{: .text-alpha }
 
 ## 一句話總結
 

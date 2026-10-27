@@ -33,7 +33,8 @@ predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative di
 
 </div>
 
-# Guselkumab：從潰瘍性結腸炎／克隆氏症到藥物誘發性骨質疏鬆
+## Guselkumab：從潰瘍性結腸炎／克隆氏症到藥物誘發性骨質疏鬆
+{: .text-alpha }
 
 ## 一句話總結
 

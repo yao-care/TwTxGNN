@@ -33,7 +33,8 @@ description: "Fidaxomicin：預測新適應症為葡萄球菌燙傷樣皮膚症�
 
 </div>
 
-# Fidaxomicin：從困難梭狀桿菌相關腹瀉到葡萄球菌燙傷樣皮膚症候群
+## Fidaxomicin：從困難梭狀桿菌相關腹瀉到葡萄球菌燙傷樣皮膚症候群
+{: .text-alpha }
 
 ## 一句話總結
 

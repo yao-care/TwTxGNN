@@ -33,7 +33,8 @@ description: "Penciclovir：預測新適應症為肝吸蟲症 (Fascioliasis)（�
 
 </div>
 
-# Penciclovir：從唇皰疹到肝吸蟲症（Fascioliasis）
+## Penciclovir：從唇皰疹到肝吸蟲症（Fascioliasis）
+{: .text-alpha }
 
 ## 一句話總結
 

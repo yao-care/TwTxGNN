@@ -33,7 +33,8 @@ description: "Posaconazole：預測新適應症為肺囊蟲病 (Pneumocystosis)�
 
 </div>
 
-# Posaconazole：從侵入性黴菌感染到肺囊蟲病（Pneumocystosis）
+## Posaconazole：從侵入性黴菌感染到肺囊蟲病（Pneumocystosis）
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -32,7 +32,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-# Cephalexin：經典第一代頭孢黴素的評估
+## Cephalexin：經典第一代頭孢黴素的評估
+{: .text-alpha }
 
 ## 一句話總結
 

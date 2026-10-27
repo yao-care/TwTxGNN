@@ -33,7 +33,8 @@ predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotr
 
 </div>
 
-# Theophylline：從氣喘及支氣管痙攣到血栓性疾病
+## Theophylline：從氣喘及支氣管痙攣到血栓性疾病
+{: .text-alpha }
 
 ## 一句話總結
 

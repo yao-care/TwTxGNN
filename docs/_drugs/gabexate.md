@@ -33,7 +33,8 @@ description: "Gabexate：預測新適應症為葛蘭茲曼氏血小板無力症 
 
 </div>
 
-# Gabexate：從急性胰臟炎到葛蘭茲曼氏血小板無力症
+## Gabexate：從急性胰臟炎到葛蘭茲曼氏血小板無力症
+{: .text-alpha }
 
 ## 一句話總結
 

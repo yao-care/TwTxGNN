@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "severe nonproliferative diabetic reti
 
 </div>
 
-# Methionine：從胃、十二指腸潰瘍與營養補給到痤瘡
+## Methionine：從胃、十二指腸潰瘍與營養補給到痤瘡
+{: .text-alpha }
 
 ## 一句話總結
 

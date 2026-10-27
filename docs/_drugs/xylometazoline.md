@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 
 </div>
 
-# Xylometazoline：從感冒與過敏性鼻炎鼻塞到鼻腔疾病
+## Xylometazoline：從感冒與過敏性鼻炎鼻塞到鼻腔疾病
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder w
 
 </div>
 
-# Pravastatin：從高血脂症到同合子家族性高膽固醇血症
+## Pravastatin：從高血脂症到同合子家族性高膽固醇血症
+{: .text-alpha }
 
 ## 一句話總結
 

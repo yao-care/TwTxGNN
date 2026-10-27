@@ -33,7 +33,8 @@ description: "Atracurium Besylate：預測新適應症為子癇前症 (Preeclamp
 
 </div>
 
-# Atracurium besylate：從手術麻醉輔助（神經肌肉阻斷）到子癇前症
+## Atracurium besylate：從手術麻醉輔助（神經肌肉阻斷）到子癇前症
+{: .text-alpha }
 
 ## 一句話總結
 

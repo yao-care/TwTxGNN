@@ -33,7 +33,8 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 
 </div>
 
-# Teriparatide：從停經後婦女骨質疏鬆症到十二指腸潰瘍（模型首位預測）
+## Teriparatide：從停經後婦女骨質疏鬆症到十二指腸潰瘍（模型首位預測）
+{: .text-alpha }
 
 > 註：模型排名第 1 的預測為十二指腸潰瘍，但該預測缺乏任何研究支持。依本次整理的資料，證據最完整、機轉最合理的是**懷孕相關骨質疏鬆症**（排名第 8）。本報告以排名第 1 的預測作主軸，並在後文補充說明此一較有意義的候選。
 

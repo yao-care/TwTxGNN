@@ -33,7 +33,8 @@ description: "Prucalopride：預測新適應症為低 α 脂蛋白血症 (Hypoal
 
 </div>
 
-# Prucalopride：從慢性便祕到低 α 脂蛋白血症
+## Prucalopride：從慢性便祕到低 α 脂蛋白血症
+{: .text-alpha }
 
 ## 一句話總結
 

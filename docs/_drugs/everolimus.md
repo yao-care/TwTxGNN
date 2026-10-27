@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 
 </div>
 
-# Everolimus：從器官移植抗排斥與腎臟癌到脂肪肉瘤
+## Everolimus：從器官移植抗排斥與腎臟癌到脂肪肉瘤
+{: .text-alpha }
 
 ## 一句話總結
 

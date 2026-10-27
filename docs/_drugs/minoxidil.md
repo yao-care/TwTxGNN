@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# Minoxidil：從雄激素性禿髮到單純性頭皮毛髮稀少症
+## Minoxidil：從雄激素性禿髮到單純性頭皮毛髮稀少症
+{: .text-alpha }
 
 ## 一句話總結
 

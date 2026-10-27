@@ -33,7 +33,8 @@ description: "Glycerin：預測新適應症為馬尾症候群 (Cauda Equina Synd
 
 </div>
 
-# Glycerin（甘油）：從便秘到顱底馬尾症候群（Cauda Equina Syndrome）
+## Glycerin（甘油）：從便秘到顱底馬尾症候群（Cauda Equina Syndrome）
+{: .text-alpha }
 
 ## 一句話總結
 

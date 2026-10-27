@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", 
 
 </div>
 
-# Gemfibrozil：從高脂血症到類風濕性關節炎
+## Gemfibrozil：從高脂血症到類風濕性關節炎
+{: .text-alpha }
 
 ## 一句話總結
 

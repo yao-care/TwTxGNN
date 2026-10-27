@@ -33,7 +33,8 @@ description: "Ibuprofen：預測新適應症為肢端中段發育不良 Hunter-T
 
 </div>
 
-# Ibuprofen：從解熱鎮痛消炎到肢端中段發育不良（Hunter-Thompson 型）
+## Ibuprofen：從解熱鎮痛消炎到肢端中段發育不良（Hunter-Thompson 型）
+{: .text-alpha }
 
 ## 一句話總結
 

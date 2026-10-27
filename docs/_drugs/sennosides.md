@@ -33,7 +33,8 @@ description: "Sennosides：預測新適應症為頭皮單純性毛髮稀疏症 (
 
 </div>
 
-# Sennosides：從便秘到頭皮毛髮稀疏症
+## Sennosides：從便秘到頭皮毛髮稀疏症
+{: .text-alpha }
 
 ## 一句話總結
 

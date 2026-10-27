@@ -32,7 +32,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-# Tofacitinib (托法替尼) - 藥師評估報告
+## Tofacitinib (托法替尼) - 藥師評估報告
+{: .text-alpha }
 
 ## 一句話總結
 

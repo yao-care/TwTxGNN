@@ -33,7 +33,8 @@ description: "Iohexol：預測新適應症為失眠 (Insomnia)（證據等級 L5
 
 </div>
 
-# Iohexol：從脊椎／血管／泌尿道造影到失眠（預測）
+## Iohexol：從脊椎／血管／泌尿道造影到失眠（預測）
+{: .text-alpha }
 
 ## 一句話總結
 

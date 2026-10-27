@@ -33,7 +33,8 @@ description: "Pralatrexate：預測新適應症為胸膜上皮樣間皮瘤 (Pleu
 
 </div>
 
-# Pralatrexate：從復發或頑固型周邊 T 細胞淋巴瘤到胸膜上皮樣間皮瘤
+## Pralatrexate：從復發或頑固型周邊 T 細胞淋巴瘤到胸膜上皮樣間皮瘤
+{: .text-alpha }
 
 ## 一句話總結
 

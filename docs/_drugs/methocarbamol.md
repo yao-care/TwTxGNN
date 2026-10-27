@@ -33,7 +33,8 @@ description: "Methocarbamol：預測新適應症為馬尾症候群 (Cauda Equina
 
 </div>
 
-# Methocarbamol：從肌肉痙攣與肌痛到馬尾症候群 (Cauda Equina Syndrome)
+## Methocarbamol：從肌肉痙攣與肌痛到馬尾症候群 (Cauda Equina Syndrome)
+{: .text-alpha }
 
 ## 一句話總結
 

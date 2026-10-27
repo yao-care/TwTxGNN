@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Cortisone acetate：從腎上腺皮質分泌缺乏症到斑禿
+## Cortisone acetate：從腎上腺皮質分泌缺乏症到斑禿
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovi
 
 </div>
 
-# Enfortumab vedotin：從泌尿道上皮癌到痲瘋病（Leprosy）
+## Enfortumab vedotin：從泌尿道上皮癌到痲瘋病（Leprosy）
+{: .text-alpha }
 
 ## 一句話總結
 

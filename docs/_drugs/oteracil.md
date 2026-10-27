@@ -33,7 +33,8 @@ description: "Oteracil：預測新適應症為大腸腫瘤 (Colonic Neoplasm)（
 
 </div>
 
-# Oteracil：從胃癌到大腸腫瘤
+## Oteracil：從胃癌到大腸腫瘤
+{: .text-alpha }
 
 ## 一句話總結
 

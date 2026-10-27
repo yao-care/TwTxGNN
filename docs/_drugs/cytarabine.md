@@ -33,7 +33,8 @@ description: "Cytarabine：預測新適應症為小細胞肺癌 (Small Cell Lung
 
 </div>
 
-# Cytarabine：從急性骨髓性白血病到小細胞肺癌
+## Cytarabine：從急性骨髓性白血病到小細胞肺癌
+{: .text-alpha }
 
 ## 一句話總結
 

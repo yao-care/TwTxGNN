@@ -33,7 +33,8 @@ description: "Polyethylene Glycol：預測新適應症為先天性魚鱗癬樣�
 
 </div>
 
-# Polyethylene glycol：從便秘治療到先天性魚鱗癬樣紅皮症
+## Polyethylene glycol：從便秘治療到先天性魚鱗癬樣紅皮症
+{: .text-alpha }
 
 <!-- review:begin polyethylene_glycol-mircera-indication-title-2026-10-16 -->
 

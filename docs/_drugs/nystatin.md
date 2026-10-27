@@ -33,7 +33,8 @@ predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease 
 
 </div>
 
-# Nystatin：從念珠菌感染到外陰陰道炎 (Vulvovaginitis)
+## Nystatin：從念珠菌感染到外陰陰道炎 (Vulvovaginitis)
+{: .text-alpha }
 
 ## 一句話總結
 

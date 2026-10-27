@@ -33,7 +33,8 @@ description: "Cladribine：預測新適應症為副腦膜胚胎型橫紋肌肉�
 
 </div>
 
-# Cladribine：從復發型多發性硬化症與毛髮狀細胞白血病到副腦膜胚胎型橫紋肌肉瘤
+## Cladribine：從復發型多發性硬化症與毛髮狀細胞白血病到副腦膜胚胎型橫紋肌肉瘤
+{: .text-alpha }
 
 ## 一句話總結
 

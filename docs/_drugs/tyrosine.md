@@ -33,7 +33,8 @@ description: "Tyrosine：預測新適應症為馬尾症候群 (Cauda Equina Synd
 
 </div>
 
-# Tyrosine：從酪胺酸補給與血液腫瘤適應症到 Cauda Equina Syndrome（馬尾症候群）
+## Tyrosine：從酪胺酸補給與血液腫瘤適應症到 Cauda Equina Syndrome（馬尾症候群）
+{: .text-alpha }
 
 ## 一句話總結
 

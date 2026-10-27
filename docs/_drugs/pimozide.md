@@ -33,7 +33,8 @@ description: "Pimozide：預測新適應症為拔毛症 (Trichotillomania)（證
 
 </div>
 
-# Pimozide：從精神病狀態到拔毛症（Trichotillomania）
+## Pimozide：從精神病狀態到拔毛症（Trichotillomania）
+{: .text-alpha }
 
 ## 一句話總結
 

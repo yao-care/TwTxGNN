@@ -33,7 +33,8 @@ description: "Polyethylene Glycol 400：預測新適應症為支氣管炎 (Bronc
 
 </div>
 
-# Polyethylene glycol 400：從便秘到支氣管炎
+## Polyethylene glycol 400：從便秘到支氣管炎
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenoc
 
 </div>
 
-# Gemcitabine：從非小細胞肺癌、胰臟癌等多種癌症到乳癌
+## Gemcitabine：從非小細胞肺癌、胰臟癌等多種癌症到乳癌
+{: .text-alpha }
 
 ## 一句話總結
 

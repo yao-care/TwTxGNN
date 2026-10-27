@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Metoprolol：從高血壓、狹心症到惡性高血壓性腎病變
+## Metoprolol：從高血壓、狹心症到惡性高血壓性腎病變
+{: .text-alpha }
 
 ## 一句話總結
 

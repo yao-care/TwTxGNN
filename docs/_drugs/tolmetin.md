@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Tolmetin：從類風濕性關節炎到肢端中段發育不良（Hunter-Thompson 型）
+## Tolmetin：從類風濕性關節炎到肢端中段發育不良（Hunter-Thompson 型）
+{: .text-alpha }
 
 ## 一句話總結
 

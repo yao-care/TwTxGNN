@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease
 
 </div>
 
-# Omalizumab：從過敏性氣喘到支氣管炎
+## Omalizumab：從過敏性氣喘到支氣管炎
+{: .text-alpha }
 
 ## 一句話總結
 

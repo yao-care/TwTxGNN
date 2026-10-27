@@ -33,7 +33,8 @@ predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to
 
 </div>
 
-# Bempedoic acid：從高膽固醇血症到同合子家族性高膽固醇血症
+## Bempedoic acid：從高膽固醇血症到同合子家族性高膽固醇血症
+{: .text-alpha }
 
 ## 一句話總結
 

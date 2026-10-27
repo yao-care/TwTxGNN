@@ -32,7 +32,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-# Voriconazole：抗黴菌藥物
+## Voriconazole：抗黴菌藥物
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Desogestrel：預測新適應症為閉經 (Amenorrhea)（證據等
 
 </div>
 
-# Desogestrel：從避孕到閉經
+## Desogestrel：從避孕到閉經
+{: .text-alpha }
 
 ## 一句話總結
 

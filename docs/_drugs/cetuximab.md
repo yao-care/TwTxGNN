@@ -33,7 +33,8 @@ description: "Cetuximab：預測新適應症為兒童支氣管腺瘤／類癌 (B
 
 </div>
 
-# Cetuximab：從轉移性直腸結腸癌到兒童支氣管腺瘤／類癌
+## Cetuximab：從轉移性直腸結腸癌到兒童支氣管腺瘤／類癌
+{: .text-alpha }
 
 ## 一句話總結
 

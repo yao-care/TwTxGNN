@@ -33,7 +33,8 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-# Brivaracetam：從局部癲癇發作到視覺性癲癇
+## Brivaracetam：從局部癲癇發作到視覺性癲癇
+{: .text-alpha }
 
 ## 一句話總結
 

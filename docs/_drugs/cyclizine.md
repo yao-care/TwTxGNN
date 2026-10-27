@@ -33,7 +33,8 @@ predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute lar
 
 </div>
 
-# Cyclizine：從動暈症到過敏性蕁麻疹
+## Cyclizine：從動暈症到過敏性蕁麻疹
+{: .text-alpha }
 
 <!-- review:begin cyclizine-why-approved-premise-title-2026-10-16 -->
 

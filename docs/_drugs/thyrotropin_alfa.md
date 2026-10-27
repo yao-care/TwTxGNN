@@ -33,7 +33,8 @@ description: "Thyrotropin Alfa：預測新適應症為偏頭痛 (Migraine Disord
 
 </div>
 
-# Thyrotropin alfa：從甲狀腺分化癌輔助診斷與殘留組織去除到偏頭痛（預測，證據不足）
+## Thyrotropin alfa：從甲狀腺分化癌輔助診斷與殘留組織去除到偏頭痛（預測，證據不足）
+{: .text-alpha }
 
 ## 一句話總結
 

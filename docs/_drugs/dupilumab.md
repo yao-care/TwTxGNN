@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neon
 
 </div>
 
-# Dupilumab：從異位性皮膚炎到支氣管炎
+## Dupilumab：從異位性皮膚炎到支氣管炎
+{: .text-alpha }
 
 ## 一句話總結
 

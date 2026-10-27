@@ -33,7 +33,8 @@ description: "Sacubitril：預測新適應症為糖尿病腎病變 (Diabetic Nep
 
 </div>
 
-# Sacubitril：從慢性心臟衰竭到糖尿病腎病變
+## Sacubitril：從慢性心臟衰竭到糖尿病腎病變
+{: .text-alpha }
 
 ## 一句話總結
 

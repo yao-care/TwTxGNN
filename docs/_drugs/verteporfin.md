@@ -33,7 +33,8 @@ description: "Verteporfin：預測新適應症為核 DNA 異常所致的粒線�
 
 </div>
 
-# Verteporfin：從年齡相關性黃斑部退化病變之脈絡膜血管新生到粒線體氧化磷酸化疾病
+## Verteporfin：從年齡相關性黃斑部退化病變之脈絡膜血管新生到粒線體氧化磷酸化疾病
+{: .text-alpha }
 
 ## 一句話總結
 

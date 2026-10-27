@@ -33,7 +33,8 @@ predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E dis
 
 </div>
 
-# Hydroxyurea：從慢性骨髓性白血病／卵巢癌／頭頸癌到女性乳癌
+## Hydroxyurea：從慢性骨髓性白血病／卵巢癌／頭頸癌到女性乳癌
+{: .text-alpha }
 
 ## 一句話總結
 

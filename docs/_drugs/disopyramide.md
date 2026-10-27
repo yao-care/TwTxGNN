@@ -33,7 +33,8 @@ description: "Disopyramide：預測新適應症為妥瑞氏症 (Tourette syndrom
 
 </div>
 
-# Disopyramide：從心室性不整律到妥瑞氏症
+## Disopyramide：從心室性不整律到妥瑞氏症
+{: .text-alpha }
 
 ## 一句話總結
 

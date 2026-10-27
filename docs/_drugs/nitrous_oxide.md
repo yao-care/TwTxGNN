@@ -33,7 +33,8 @@ description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign
 
 </div>
 
-# 氧化亞氮（Nitrous oxide）：從吸入性全身麻醉鎮痛到良性攝護腺肥大
+## 氧化亞氮（Nitrous oxide）：從吸入性全身麻醉鎮痛到良性攝護腺肥大
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Pentosan Polysulfate：預測新適應症為血小板釋放障礙 
 
 </div>
 
-# Pentosan polysulfate：從間質性膀胱炎到血小板釋放障礙
+## Pentosan polysulfate：從間質性膀胱炎到血小板釋放障礙
+{: .text-alpha }
 
 ## 一句話總結
 

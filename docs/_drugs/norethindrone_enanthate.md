@@ -33,7 +33,8 @@ description: "Norethindrone Enanthate：預測新適應症為第 2 型抗凝血�
 
 </div>
 
-# Norethindrone enanthate：從抑制排卵（許可證已註銷）到抗凝血酶缺乏症第 2 型
+## Norethindrone enanthate：從抑制排卵（許可證已註銷）到抗凝血酶缺乏症第 2 型
+{: .text-alpha }
 
 <!-- review:begin norethindrone-enanthate-historic-license-title-2026-10-16 -->
 

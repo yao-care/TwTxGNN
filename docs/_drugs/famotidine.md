@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-# Famotidine：從胃潰瘍、十二指腸潰瘍到十二指腸胃逆流
+## Famotidine：從胃潰瘍、十二指腸潰瘍到十二指腸胃逆流
+{: .text-alpha }
 
 ## 一句話總結
 

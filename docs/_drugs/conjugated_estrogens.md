@@ -33,7 +33,8 @@ description: "Conjugated Estrogens：預測新適應症為偏頭痛 (Migraine Di
 
 </div>
 
-# Conjugated estrogens：從更年期相關症狀與卵巢機能不全到偏頭痛
+## Conjugated estrogens：從更年期相關症狀與卵巢機能不全到偏頭痛
+{: .text-alpha }
 
 ## 一句話總結
 

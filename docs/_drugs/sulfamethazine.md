@@ -33,7 +33,8 @@ predicted_indications: ["gout", "brain small vessel disease 1 with or without oc
 
 </div>
 
-# Sulfamethazine：從細菌性感染症到痛風
+## Sulfamethazine：從細菌性感染症到痛風
+{: .text-alpha }
 
 ## 一句話總結
 

@@ -33,7 +33,8 @@ description: "Aluminum Chloride：預測新適應症為脂漏性角化症 (Sebor
 
 </div>
 
-# Aluminum chloride：從多汗症到脂漏性角化症
+## Aluminum chloride：從多汗症到脂漏性角化症
+{: .text-alpha }
 
 ## 一句話總結
 

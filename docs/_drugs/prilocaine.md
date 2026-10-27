@@ -33,7 +33,8 @@ description: "Prilocaine：預測新適應症為首位預測：乳突狀結膜�
 
 </div>
 
-# Prilocaine：從局部麻醉到神經痛
+## Prilocaine：從局部麻醉到神經痛
+{: .text-alpha }
 
 ## 一句話總結
 

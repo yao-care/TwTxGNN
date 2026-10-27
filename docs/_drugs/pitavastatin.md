@@ -33,7 +33,8 @@ predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer prot
 
 </div>
 
-# Pitavastatin：從原發性高膽固醇血症到同型合子家族性高膽固醇血症
+## Pitavastatin：從原發性高膽固醇血症到同型合子家族性高膽固醇血症
+{: .text-alpha }
 
 ## 一句話總結
 

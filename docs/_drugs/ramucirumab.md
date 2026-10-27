@@ -33,7 +33,8 @@ description: "Ramucirumab：預測新適應症為子宮韌帶腺癌 (Uterine Lig
 
 </div>
 
-# Ramucirumab：從胃癌到子宮韌帶腺癌
+## Ramucirumab：從胃癌到子宮韌帶腺癌
+{: .text-alpha }
 
 ## 一句話總結
 

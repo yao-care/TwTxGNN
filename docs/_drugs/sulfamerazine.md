@@ -33,7 +33,8 @@ description: "Sulfamerazine：預測新適應症為痛風 (Gout)（證據等級 
 
 </div>
 
-# Sulfamerazine：從細菌感染症到痛風
+## Sulfamerazine：從細菌感染症到痛風
+{: .text-alpha }
 
 ## 一句話總結
 
