@@ -14,7 +14,7 @@ permalink: /news/cladribine/
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,29 @@ permalink: /news/cladribine/
 <li>prostate embryonal rhabdomyosarcoma (99.8%)</li>
 <li>extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
 <li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li>liver sarcoma (99.7%)</li>
+<li class="indication-matched">liver sarcoma (99.7%)<span class="indication-tag">📰 肝癌</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [一堆肝癌病友都說別吃！專家曝1物易藏毒素100度高溫殺不死- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE5QN2NLWGxzLVdkNFZxbW1BcXBjUTFkdEJZdUdSSWt2c0dBdEo0U0dDVmpCMEdfSWlnLVB3WjA3dlpHMDlGdDh3UThqYjNVa2FjOUlNbm1mTDktNDVyaDdZWTJwZ25SU1oxWHZKekR3?oc=5)
+
+2026-10-27 <span class="news-indication-tag">肝癌</span>
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE5QN2NLWGxzLVdkNFZxbW1BcXBjUTFkdEJZdUdSSWt2c0dBdEo0U0dDVmpCMEdfSWlnLVB3WjA3dlpHMDlGdDh3UThqYjNVa2FjOUlNbm1mTDktNDVyaDdZWTJwZ25SU1oxWHZKekR3?oc=5)
+
+---
+
+### [心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
+
+2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
+
+---
 
 ### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5)
 
