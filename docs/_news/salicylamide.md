@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [感冒、流感康復後要換牙刷防二度感染嗎？醫：做好3件事更重要](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5)
+
+2026-10-27 <span class="news-indication-tag">感冒</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5)
+
+---
 
 ### [感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯](https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5)
 
