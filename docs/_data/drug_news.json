@@ -7,7 +7,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -19,7 +19,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -31,7 +31,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -43,7 +43,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -55,13 +55,13 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
       "url": "/news/female-breast-carcinoma/",
-      "title": "乳腺癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 3
     }
   ],
   "/drugs/atezolizumab/": [
@@ -72,7 +72,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -84,7 +84,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -96,7 +96,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -108,7 +108,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -120,7 +120,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -132,7 +132,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -144,7 +144,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -156,13 +156,13 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
       "url": "/news/female-breast-carcinoma/",
-      "title": "乳腺癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 3
     }
   ],
   "/drugs/carisoprodol/": [
@@ -185,7 +185,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -193,17 +193,12 @@
     {
       "url": "/news/cladribine/",
       "title": "Cladribine 相關新聞",
-      "count": 5
-    },
-    {
-      "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
-      "url": "/news/liver-sarcoma/",
-      "title": "肝癌 (liver sarcoma) 相關新聞",
-      "count": 1
+      "url": "/news/generic-cancer/",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
+      "count": 4
     }
   ],
   "/drugs/clobetasone/": [
@@ -214,7 +209,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -226,7 +221,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
@@ -243,7 +238,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
@@ -260,7 +255,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -272,13 +267,13 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
       "url": "/news/female-breast-carcinoma/",
-      "title": "乳腺癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 3
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
@@ -294,7 +289,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
@@ -311,7 +306,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -323,7 +318,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
@@ -340,13 +335,13 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
       "url": "/news/female-breast-carcinoma/",
-      "title": "乳腺癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 3
     }
   ],
   "/drugs/hydroxyprogesterone-caproate/": [
@@ -357,7 +352,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -369,13 +364,13 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
       "url": "/news/female-breast-carcinoma/",
-      "title": "乳腺癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 3
     }
   ],
   "/drugs/interferon-beta-1b/": [
@@ -386,7 +381,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -398,7 +393,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -410,7 +405,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -434,7 +429,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -446,7 +441,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -458,7 +453,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -470,7 +465,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -494,7 +489,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -506,7 +501,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -514,11 +509,6 @@
     {
       "url": "/news/ouabain/",
       "title": "Ouabain 相關新聞",
-      "count": 2
-    },
-    {
-      "url": "/news/心臟衰竭/",
-      "title": "心臟衰竭 相關新聞",
       "count": 1
     },
     {
@@ -535,7 +525,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -547,13 +537,13 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
       "url": "/news/female-breast-carcinoma/",
-      "title": "乳腺癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 3
     },
     {
       "url": "/news/menopause/",
@@ -584,7 +574,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -596,7 +586,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -608,7 +598,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
@@ -625,7 +615,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -649,7 +639,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -661,7 +651,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
@@ -690,13 +680,13 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
       "url": "/news/female-breast-carcinoma/",
-      "title": "乳腺癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 3
     }
   ],
   "/drugs/trastuzumab-deruxtecan/": [
@@ -719,7 +709,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     },
     {
@@ -736,7 +726,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ],
@@ -748,7 +738,7 @@
     },
     {
       "url": "/news/generic-cancer/",
-      "title": "癌症 (generic_cancer) 相關新聞",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
     }
   ]

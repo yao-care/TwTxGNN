@@ -1,167 +1,22 @@
 {
-  "generated": "2026-10-27T13:46:59.238812+00:00",
-  "count": 18,
+  "generated": "2026-10-27T19:06:04.083450+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "e15c615e6bcc",
-      "title": "骨質疏鬆不自知 易致脊椎壓迫性骨折",
-      "published": "2026-10-27T13:08:35+00:00",
+      "id": "8224e25af8e3",
+      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節",
+      "published": "2026-10-27T15:02:09+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBsbXh0QVNHUlFWcjVRZE1aTzVnXy1URWpXWG01TlpORkFLWl9zdXhDbEFNTTZDNlBWMnB6R2Jta0ZfcnhqZkFoX3VjZVlDcHkxcGJoMWVJUWZzekV6cE9ZZG1ZakdzMm5ULUhsVUhsUWpkZW9Tc3dSQ3VKNzV5b05vSklVNzFKZFljMk1zRk8xX2tHV0NhM3ZvSS1XYVJTLVA3S0ZZNktjcGxsSHExamhCcnl4Rk5hZDBtTzNRcnUzR1pReUtwRDFwd1doQ2tZa1ZWY0JBMUJsZVBsYTFNVmVzNjNQN3lOTDFqNU9DUjdvcjRlcWVrUWNJTkdJdl8yVGdDdDVQS29vNjF2d05ETldieXU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "316447384681",
-      "title": "「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思",
-      "published": "2026-10-27T09:02:54+00:00",
-      "sources": [
-        {
-          "name": "shemom.com",
-          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳腺癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d8a0bd196c29",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
-      "published": "2026-10-27T04:03:34+00:00",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "肝硬化",
-          "keyword": "肝硬化",
-          "related_drugs": [
-            {
-              "slug": "dehydrocholic-acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1758ce779d8e",
-      "title": "一堆肝癌病友都說別吃！專家曝1物易藏毒素100度高溫殺不死- 健康",
-      "published": "2026-10-27T03:31:51+00:00",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QN2NLWGxzLVdkNFZxbW1BcXBjUTFkdEJZdUdSSWt2c0dBdEo0U0dDVmpCMEdfSWlnLVB3WjA3dlpHMDlGdDh3UThqYjNVa2FjOUlNbm1mTDktNDVyaDdZWTJwZ25SU1oxWHZKekR3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "liver sarcoma",
-          "keyword": "肝癌",
-          "related_drugs": [
-            {
-              "slug": "cladribine",
-              "name": "Cladribine",
-              "url": "/drugs/cladribine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fb58e9366330",
-      "title": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活",
-      "published": "2026-10-27T01:39:00+00:00",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "癌症",
+          "keyword": "腫瘤",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -402,13 +257,163 @@
         },
         {
           "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e15c615e6bcc",
+      "title": "骨質疏鬆不自知 易致脊椎壓迫性骨折",
+      "published": "2026-10-27T13:08:35+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBsbXh0QVNHUlFWcjVRZE1aTzVnXy1URWpXWG01TlpORkFLWl9zdXhDbEFNTTZDNlBWMnB6R2Jta0ZfcnhqZkFoX3VjZVlDcHkxcGJoMWVJUWZzekV6cE9ZZG1ZakdzMm5ULUhsVUhsUWpkZW9Tc3dSQ3VKNzV5b05vSklVNzFKZFljMk1zRk8xX2tHV0NhM3ZvSS1XYVJTLVA3S0ZZNktjcGxsSHExamhCcnl4Rk5hZDBtTzNRcnUzR1pReUtwRDFwd1doQ2tZa1ZWY0JBMUJsZVBsYTFNVmVzNjNQN3lOTDFqNU9DUjdvcjRlcWVrUWNJTkdJdl8yVGdDdDVQS29vNjF2d05ETldieXU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "316447384681",
+      "title": "「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思",
+      "published": "2026-10-27T09:02:54+00:00",
+      "sources": [
+        {
+          "name": "shemom.com",
+          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳腺癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8a0bd196c29",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
+      "published": "2026-10-27T04:03:34+00:00",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic-acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
             }
           ]
         }

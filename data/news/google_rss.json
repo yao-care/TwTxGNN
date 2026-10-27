@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-27T13:46:56.868721+00:00",
+  "fetched_at": "2026-10-27T19:06:01.987885+00:00",
   "count": 53,
   "news": [
     {
@@ -76,26 +76,14 @@
       ]
     },
     {
-      "id": "4a2e648d65b8",
-      "title": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富 - Marie Claire 美麗佳人",
-      "published": "2026-10-27T03:24:06+00:00",
-      "summary": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "id": "6338d78bc45e",
+      "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種 - 新住民全球新聞網",
+      "published": "2026-10-26T01:05:00+00:00",
+      "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
       "sources": [
         {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdUVJUlpIOWdZSnkwU2M3bmpaZElaOGlaaGdPbGxURVI4Y0pOSW9YYU9qSkRyMXRtNGdRZVQ5R2hDc2tSVU1VX3NxM1NXSEZsclNvTVZFWS1xSmRWZWpUMENndTJ1ZGliMFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1758ce779d8e",
-      "title": "一堆肝癌病友都說別吃！專家曝1物易藏毒素100度高溫殺不死- 健康 - 中時新聞網",
-      "published": "2026-10-27T03:31:51+00:00",
-      "summary": "一堆肝癌病友都說別吃！專家曝1物易藏毒素100度高溫殺不死- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QN2NLWGxzLVdkNFZxbW1BcXBjUTFkdEJZdUdSSWt2c0dBdEo0U0dDVmpCMEdfSWlnLVB3WjA3dlpHMDlGdDh3UThqYjNVa2FjOUlNbm1mTDktNDVyaDdZWTJwZ25SU1oxWHZKekR3?oc=5"
+          "name": "新住民全球新聞網",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
         }
       ]
     },
@@ -108,6 +96,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a2e648d65b8",
+      "title": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富 - Marie Claire 美麗佳人",
+      "published": "2026-10-27T03:24:06+00:00",
+      "summary": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdUVJUlpIOWdZSnkwU2M3bmpaZElaOGlaaGdPbGxURVI4Y0pOSW9YYU9qSkRyMXRtNGdRZVQ5R2hDc2tSVU1VX3NxM1NXSEZsclNvTVZFWS1xSmRWZWpUMENndTJ1ZGliMFE?oc=5"
         }
       ]
     },
@@ -148,30 +148,6 @@
       ]
     },
     {
-      "id": "6338d78bc45e",
-      "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種 - 新住民全球新聞網",
-      "published": "2026-10-26T01:05:00+00:00",
-      "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
-      "sources": [
-        {
-          "name": "新住民全球新聞網",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fb58e9366330",
-      "title": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活 - 工商時報",
-      "published": "2026-10-27T01:39:00+00:00",
-      "summary": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "825de3ffd44d",
       "title": "四價流感疫苗消失了？真相來了→ - 風火輪傳媒有限公司",
       "published": "2026-10-24T12:46:35+00:00",
@@ -184,14 +160,26 @@
       ]
     },
     {
-      "id": "f482095d6750",
-      "title": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠 - Yahoo新聞",
-      "published": "2026-10-26T07:52:24+00:00",
-      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;Yahoo新聞",
+      "id": "ed2cf4d7f05d",
+      "title": "保健》心衰竭者罹癌風險高 醫教預防 - Yahoo新聞",
+      "published": "2026-10-26T20:10:00+00:00",
+      "summary": "保健》心衰竭者罹癌風險高 醫教預防&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNnlrUllwUzBncmYxN1lQOUVFa3lQRXkzN0hMcmcxeWpURlFUR2h0OWJoMlVPYzJMYUpPZ1pTeVZuQldFMzNPUThlejZCOUlNZy1ZSllZQldERlJOTlBfVmFQSXY1VnF3UFBsemRmd2lCMFlhd2NaMVRJWmNPb3FSbVAwM1hnVENqQ2tGVnhaUTVvMmRESjhVdDNRLWNLdDU3WEJpUFdYT2dLU1h6SzJDTTJUVFJzNXVXdFhiS2lYR0l6YTRuY09aVEJ1X3BDVkNTakV1cklyeHkwYVJvY2hxWENQSkZjWERFRko4Ymp4bUxpWXV6ZU8zVXNZRW0xUko2eGgxZzF3RjJobjUwdUhvS3hqTlI1MGNFWUpoYXhiUW93cEM1WERTV1UzMXZQRWVsUlRiOE5aVEFOMkhPTTYyRWR0RmM3THBOYzNMdXVrbmNuR1VfRDhTRktaRkdZRG9DSkYxQkRIWHp6YVZyVHA3VTVLTUxXOVFOTVJzVDVycm0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQkdHZTlDSlpIWjEtb2M0MGVBd09peTdrb1NfVUVMdzVCanFNem9CYXNzZDMxSTBCbGhGQnJWcDVCc05JZU1DWXYzbDNxakMxRER5MkNwX1hUWG51MEZpbjAxRFZFcG94eFRpUEQzNjRSR0VZZmRiS1VCVTlxc0ZDR1NfUWhMOTNEaGN0dzUxQVliZl9DVlJfcXFScjJ3TDNDSjBWTnBHZlhPMkRXX1d5Z0lfdHV3UTVEa29vVUNod3ZUZkZQNjQtX1FwY2NkZ0Y1OFVnd0dZbDI0V2l1VUxBX3daN2EteGI1WWFtUk9DbXZmYklNU1hyRU1jMEJzY253eHN0bC1ZekVPQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9d7fc6487ba",
+      "title": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠 - 中天新聞網",
+      "published": "2026-10-26T07:52:24+00:00",
+      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZFhqSm53cjMzQzdPZVJsb3M4cVBha3A2cjI4bTlxcFc5S2xQOTYtYVRPSldFb21fSzV1MW9xc3A4SE1uaWtaRjVpLU1scFlBWUlN?oc=5"
         }
       ]
     },
@@ -400,6 +388,18 @@
       ]
     },
     {
+      "id": "8224e25af8e3",
+      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節 - 香港01",
+      "published": "2026-10-27T15:02:09+00:00",
+      "summary": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f6c92bc607b",
       "title": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫 - 香港01",
       "published": "2026-10-27T09:00:49+00:00",
@@ -415,7 +415,7 @@
       "id": "e9f61a60edc8",
       "title": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點 - 明報新聞網",
       "published": "2026-10-27T10:20:47+00:00",
-      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網12歲女童染甲流併發敗血性休克不治 衞生署籲市民速接種流感疫苗&nbsp;&nbsp;香港文匯報流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種率跌一成 專家擔憂&nbsp;&nbsp;信報網站流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01",
+      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "明報新聞網",
@@ -456,18 +456,6 @@
         {
           "name": "東方新地",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTk5fREJITkc3N040eHpWM1FwZWFxLXBiNmtmUkloVGdTMTBJRG9VWjBvVE5Od2kzOHhjb3FQbUtySHZXWThMMDhINUhuSjEtNWZJU0h2Unh2M2w3eXJnbHlXUlZjbE5iUm54clBxazFmNW1fRWNqWUJRbi05VmpKWWFQYVhTRklUcl9nS3dkYUxkU0xWUXNkeWZIQkM2bzFlU000WjROVkxXbFBfY2JMeVVFakpVb01nd2VNdWFuUXhQRVRlUUdnOXhxQTI1ZVpERXk1R21wZHpWSThrblJfcWpDekQ3b212dUUybC1DRjlKOXFadFBIZC1SWVNXNGNDRmhwQUkybXd3YVVXenNySG9Wcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0171e6d4e87",
-      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
-      "published": "2026-10-22T08:32:45+00:00",
-      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
-      "sources": [
-        {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
         }
       ]
     },
@@ -576,6 +564,18 @@
         {
           "name": "美南新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HVVZScFlkRTllSXRRQkRiVm1aNFo5TlVIdDM1cFk2S19VMXFYQkZiOUkwdVVDMW5hSFdmRE9CWGJ6X3ZLY3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0171e6d4e87",
+      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
+      "published": "2026-10-22T08:32:45+00:00",
+      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
+      "sources": [
+        {
+          "name": "healthyD",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
         }
       ]
     },

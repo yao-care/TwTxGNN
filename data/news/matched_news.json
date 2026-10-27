@@ -1,277 +1,24 @@
 {
-  "last_updated": "2026-10-27T13:46:59.190131+00:00",
+  "last_updated": "2026-10-27T19:06:04.048358+00:00",
   "total_count": 53,
-  "matched_count": 18,
+  "matched_count": 17,
   "news": [
     {
-      "id": "e15c615e6bcc",
-      "title": "骨質疏鬆不自知 易致脊椎壓迫性骨折",
-      "published": "2026-10-27T13:08:35+00:00",
-      "summary": "骨質疏鬆不自知 易致脊椎壓迫性骨折&nbsp;&nbsp;Yahoo新聞30歲後小心健康隱形殺手！ 「三高」之外還有「一低」&nbsp;&nbsp;三立新聞過瘦久坐缺營養 骨鬆3風險 光補鈣還不夠&nbsp;&nbsp;自由健康網不是高齡、停經後！ 台灣健檢大數據：40歲骨質流失關鍵期&nbsp;&nbsp;PChome Online 新聞骨肌同管可有效降低跌倒與骨折發生&nbsp;&nbsp;紫荊網",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBsbXh0QVNHUlFWcjVRZE1aTzVnXy1URWpXWG01TlpORkFLWl9zdXhDbEFNTTZDNlBWMnB6R2Jta0ZfcnhqZkFoX3VjZVlDcHkxcGJoMWVJUWZzekV6cE9ZZG1ZakdzMm5ULUhsVUhsUWpkZW9Tc3dSQ3VKNzV5b05vSklVNzFKZFljMk1zRk8xX2tHV0NhM3ZvSS1XYVJTLVA3S0ZZNktjcGxsSHExamhCcnl4Rk5hZDBtTzNRcnUzR1pReUtwRDFwd1doQ2tZa1ZWY0JBMUJsZVBsYTFNVmVzNjNQN3lOTDFqNU9DUjdvcjRlcWVrUWNJTkdJdl8yVGdDdDVQS29vNjF2d05ETldieXU?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e9f61a60edc8",
-      "title": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點",
-      "published": "2026-10-27T10:20:47+00:00",
-      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網12歲女童染甲流併發敗血性休克不治 衞生署籲市民速接種流感疫苗&nbsp;&nbsp;香港文匯報流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種率跌一成 專家擔憂&nbsp;&nbsp;信報網站流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPYjZOZ0ZQNXZWZDI2SUZKSFd1eWVKV3JkRURMWGlUM0V1YWJJdE9jR3M3WXBkZHY0Z2gzR0JGLVI3WE9vN0wzTGFmSGFTSk9VVFUxZkRLU1lVNkVZaTNVbVJfT29faTU3ZjliQllnVW5ZQlNKNUd1VnRGdmF2dDlUQ2x4bldjUm9iYUF1cFRsQU1oT3N0WUZMaGdZbHM1emwwVlJsYU9tZjBGV3pCSHNGR1JzckRyTW5vc3VmVEp3cmU4UjJBZk9iUlZKNW9lT2dMdmlUZF9Ob0x5VmNRZmFpVkt2TjZTa3BkVTdJdFZfaTBJQTlCMno2QzFDYzFWdU1VZlJ0cGhwSUo3aGhCZWxsZzdBb1hKUXQxSjBTTVMwbFZ3V3E1Uk1rUHdhLUpUdTZPSk9SQkZ3WS03Y3lvMmJ6ZnpuREY2dEtobUZnd3dONE5sdkJsVGt4NFRjbU5PekUyVnFxbC1NS1pCUUZGbWdLSl9UNDcxV0xYdHI4VXRDVWFNODhuV2FwMzY1TmNHTFpzMl9fWmVmcU5aVjYxX3VqSVNJRGNHc1VuY1pIOVgxcHZCMFZ6Y0ZUdmNENWVfNTJhMmdpU24xVGMtLS1vdzZYZ3RWcHN6UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "316447384681",
-      "title": "「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思",
-      "published": "2026-10-27T09:02:54+00:00",
-      "summary": "「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思&nbsp;&nbsp;shemom.com",
-      "sources": [
-        {
-          "name": "shemom.com",
-          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳腺癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4f6c92bc607b",
-      "title": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫",
-      "published": "2026-10-27T09:00:49+00:00",
-      "summary": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫&nbsp;&nbsp;香港01",
+      "id": "8224e25af8e3",
+      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節",
+      "published": "2026-10-27T15:02:09+00:00",
+      "summary": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPSlZUcXdKRDRVaHR6QVpSMnFhWE12ZG10Nm1iWW1nc3BLaEl6SmFlaHdPeVNrdHp1SEZ2bGtSS2dCUDYtUkFaVlJkUVhmQXp2OVFBZjZFb0Z0RnFabnNTRFA1aUxoZFo5RklLZWFSU1NDSFVwUjVBLThmR18zUi1MdW9UWGtzeENEMVZUUGU0SS1OelUyRzY4RE92NFlvRjBjMnBSOWs4ZGUwTjB5Z0RDRDgzN203TUdNNlZaYXh5RHpmcEJld1BZazdTalA5aHAyTEVmek5FemE2TXhsMWZyOWtLbGxJWS1oM3hrN3k3NHlScS1JdFJrZmNJQnNVaVJPMW1kWF9WaDg2aXNETWlTVkU5UTFjcVkyYTJDb0ZfbktRczc2bjk1R3NrbHRoX1JRWXc2RHVaOXBPYjFRTWF3Y1F3Z2hnZlR6UlJ1NER4VFRVQUxtOWlvMUhORUVwWHZwUHE5YmFSaDNjaHRBaFFXYWEzTDZ6VjZhRFRyZG5XVmEzYUpLb0JYdUdraGZwR0tkOXhjNTdkaW5RWlFTTkRHeTVKbjBSMlFLdkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a070acf4e8fb",
-      "title": "生蠔低熱量又高蛋白質！哈佛認證「最營養海鮮」搭配1物營養升級",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "生蠔低熱量又高蛋白質！哈佛認證「最營養海鮮」搭配1物營養升級&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wVUZNbTRJOVhrRHVqQmp6VXZmSS1qUnBTZldUSUU3aDFrNktZQ2tvcGQtdjhhR3hiVFgybk9JNTVWcUJ0bnJFTmVzSHJUQ3FLMFVJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "619188afad0f",
-      "title": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵",
-      "published": "2026-10-27T08:44:00+00:00",
-      "summary": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40S3RzMkI0TGtBZGtLSDBjVUJNaVB6LW9JSnAzaW5CS0lCS1NZU3pYY1lwak5SdG9pRVlydjJ2eklpcDRhcGxIbXIzN1FpM1Z6d0MxcENySE8xb2l0a2FLS0VjSFI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6240e6cf589c",
-      "title": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具",
-      "published": "2026-10-27T07:40:43+00:00",
-      "summary": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具&nbsp;&nbsp;明日科學",
-      "sources": [
-        {
-          "name": "明日科學",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50aV9nUmZ0MFUwLXhxQk9qb3lBZTFab19pLXNoUDdobFpwTlV4YnppbXFkTEw0LVJrR1BmQVlYUXV2M1RIVUYtYlBUNnBKU214S0lwMUloc0RjNnVVYVow?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d88adfb84cd3",
-      "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉",
-      "published": "2026-10-27T07:12:00+00:00",
-      "summary": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mTXVWMDB4WDllT1pSOV9VZlVhVGVmb0FUaGFPUDJkM2NyM2JxejlNVjMyZGx6MkRtaGhtUDNlSGg3OUZNWjFod05fUmh0d1I3emdsYThGb0psajdXdHUwejJvaTA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "620e29af9b74",
-      "title": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了",
-      "published": "2026-10-27T07:00:00+00:00",
-      "summary": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPRExjc05LLUwyM0FaUW9SendfUUMxMXhfZnhhNkxSQUt4ZlVXdERsNG15YjBmM3RJdnk3T1FGMFlPb2xCTHhyR01nSV94enZXZHoxdkJTVGNQV1BVREVIc29rb3F3NkFKQnJXSlBhTW5aRXZJdmNQR2hRMDVwdGcxUDFfaWdwaG1KTDQwVHE4MUhxOTI0aHVsWHZ6QlZyQWJ0eC1aeUw2YTdYdlM3MXhLMDJpdmRnSEQ5X0ZzYlFiLVRLUmlKa2dLcmliVFN4cnlic0xFZ2ZkelBBUHlzUm40cXQ0UGlwU1NnOUFNT2U0TGdkcTQ3dUxJeko2TkMzbDluUXUwMGp2UDBoZXZCY2I5aTgzcDFxd2p6NDk3NFJjYXhWV0s1M2paLW5NaUpqRmx2czc1M2pfZEZ4Vk1YbVNQa3Q3X1FoYVlUSnp1NW5EaXRVZE95ZjFWNEJxbWZVUXl1bHBmY2pB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d8a0bd196c29",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
-      "published": "2026-10-27T04:03:34+00:00",
-      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "肝硬化",
-          "keyword": "肝硬化",
-          "related_drugs": [
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1758ce779d8e",
-      "title": "一堆肝癌病友都說別吃！專家曝1物易藏毒素100度高溫殺不死- 健康",
-      "published": "2026-10-27T03:31:51+00:00",
-      "summary": "一堆肝癌病友都說別吃！專家曝1物易藏毒素100度高溫殺不死- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QN2NLWGxzLVdkNFZxbW1BcXBjUTFkdEJZdUdSSWt2c0dBdEo0U0dDVmpCMEdfSWlnLVB3WjA3dlpHMDlGdDh3UThqYjNVa2FjOUlNbm1mTDktNDVyaDdZWTJwZ25SU1oxWHZKekR3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "liver sarcoma",
-          "keyword": "肝癌",
-          "related_drugs": [
-            {
-              "slug": "cladribine",
-              "name": "Cladribine",
-              "url": "/drugs/cladribine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4a2e648d65b8",
-      "title": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富 - Marie Claire 美麗佳人",
-      "published": "2026-10-27T03:24:06+00:00",
-      "summary": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富&nbsp;&nbsp;Marie Claire 美麗佳人",
-      "sources": [
-        {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdUVJUlpIOWdZSnkwU2M3bmpaZElaOGlaaGdPbGxURVI4Y0pOSW9YYU9qSkRyMXRtNGdRZVQ5R2hDc2tSVU1VX3NxM1NXSEZsclNvTVZFWS1xSmRWZWpUMENndTJ1ZGliMFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fb58e9366330",
-      "title": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活",
-      "published": "2026-10-27T01:39:00+00:00",
-      "summary": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "癌症",
+          "keyword": "腫瘤",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -512,17 +259,274 @@
         },
         {
           "type": "indication",
-          "name": "心臟衰竭",
-          "keyword": "心臟衰竭",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
           "related_drugs": [
             {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "e15c615e6bcc",
+      "title": "骨質疏鬆不自知 易致脊椎壓迫性骨折",
+      "published": "2026-10-27T13:08:35+00:00",
+      "summary": "骨質疏鬆不自知 易致脊椎壓迫性骨折&nbsp;&nbsp;Yahoo新聞30歲後小心健康隱形殺手！ 「三高」之外還有「一低」&nbsp;&nbsp;三立新聞過瘦久坐缺營養 骨鬆3風險 光補鈣還不夠&nbsp;&nbsp;自由健康網不是高齡、停經後！ 台灣健檢大數據：40歲骨質流失關鍵期&nbsp;&nbsp;PChome Online 新聞骨肌同管可有效降低跌倒與骨折發生&nbsp;&nbsp;紫荊網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBsbXh0QVNHUlFWcjVRZE1aTzVnXy1URWpXWG01TlpORkFLWl9zdXhDbEFNTTZDNlBWMnB6R2Jta0ZfcnhqZkFoX3VjZVlDcHkxcGJoMWVJUWZzekV6cE9ZZG1ZakdzMm5ULUhsVUhsUWpkZW9Tc3dSQ3VKNzV5b05vSklVNzFKZFljMk1zRk8xX2tHV0NhM3ZvSS1XYVJTLVA3S0ZZNktjcGxsSHExamhCcnl4Rk5hZDBtTzNRcnUzR1pReUtwRDFwd1doQ2tZa1ZWY0JBMUJsZVBsYTFNVmVzNjNQN3lOTDFqNU9DUjdvcjRlcWVrUWNJTkdJdl8yVGdDdDVQS29vNjF2d05ETldieXU?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9f61a60edc8",
+      "title": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點",
+      "published": "2026-10-27T10:20:47+00:00",
+      "summary": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPYjZOZ0ZQNXZWZDI2SUZKSFd1eWVKV3JkRURMWGlUM0V1YWJJdE9jR3M3WXBkZHY0Z2gzR0JGLVI3WE9vN0wzTGFmSGFTSk9VVFUxZkRLU1lVNkVZaTNVbVJfT29faTU3ZjliQllnVW5ZQlNKNUd1VnRGdmF2dDlUQ2x4bldjUm9iYUF1cFRsQU1oT3N0WUZMaGdZbHM1emwwVlJsYU9tZjBGV3pCSHNGR1JzckRyTW5vc3VmVEp3cmU4UjJBZk9iUlZKNW9lT2dMdmlUZF9Ob0x5VmNRZmFpVkt2TjZTa3BkVTdJdFZfaTBJQTlCMno2QzFDYzFWdU1VZlJ0cGhwSUo3aGhCZWxsZzdBb1hKUXQxSjBTTVMwbFZ3V3E1Uk1rUHdhLUpUdTZPSk9SQkZ3WS03Y3lvMmJ6ZnpuREY2dEtobUZnd3dONE5sdkJsVGt4NFRjbU5PekUyVnFxbC1NS1pCUUZGbWdLSl9UNDcxV0xYdHI4VXRDVWFNODhuV2FwMzY1TmNHTFpzMl9fWmVmcU5aVjYxX3VqSVNJRGNHc1VuY1pIOVgxcHZCMFZ6Y0ZUdmNENWVfNTJhMmdpU24xVGMtLS1vdzZYZ3RWcHN6UQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "316447384681",
+      "title": "「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思",
+      "published": "2026-10-27T09:02:54+00:00",
+      "summary": "「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思&nbsp;&nbsp;shemom.com",
+      "sources": [
+        {
+          "name": "shemom.com",
+          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳腺癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f6c92bc607b",
+      "title": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫",
+      "published": "2026-10-27T09:00:49+00:00",
+      "summary": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPSlZUcXdKRDRVaHR6QVpSMnFhWE12ZG10Nm1iWW1nc3BLaEl6SmFlaHdPeVNrdHp1SEZ2bGtSS2dCUDYtUkFaVlJkUVhmQXp2OVFBZjZFb0Z0RnFabnNTRFA1aUxoZFo5RklLZWFSU1NDSFVwUjVBLThmR18zUi1MdW9UWGtzeENEMVZUUGU0SS1OelUyRzY4RE92NFlvRjBjMnBSOWs4ZGUwTjB5Z0RDRDgzN203TUdNNlZaYXh5RHpmcEJld1BZazdTalA5aHAyTEVmek5FemE2TXhsMWZyOWtLbGxJWS1oM3hrN3k3NHlScS1JdFJrZmNJQnNVaVJPMW1kWF9WaDg2aXNETWlTVkU5UTFjcVkyYTJDb0ZfbktRczc2bjk1R3NrbHRoX1JRWXc2RHVaOXBPYjFRTWF3Y1F3Z2hnZlR6UlJ1NER4VFRVQUxtOWlvMUhORUVwWHZwUHE5YmFSaDNjaHRBaFFXYWEzTDZ6VjZhRFRyZG5XVmEzYUpLb0JYdUdraGZwR0tkOXhjNTdkaW5RWlFTTkRHeTVKbjBSMlFLdkE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a070acf4e8fb",
+      "title": "生蠔低熱量又高蛋白質！哈佛認證「最營養海鮮」搭配1物營養升級",
+      "published": "2026-10-27T09:00:00+00:00",
+      "summary": "生蠔低熱量又高蛋白質！哈佛認證「最營養海鮮」搭配1物營養升級&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wVUZNbTRJOVhrRHVqQmp6VXZmSS1qUnBTZldUSUU3aDFrNktZQ2tvcGQtdjhhR3hiVFgybk9JNTVWcUJ0bnJFTmVzSHJUQ3FLMFVJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "619188afad0f",
+      "title": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵",
+      "published": "2026-10-27T08:44:00+00:00",
+      "summary": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40S3RzMkI0TGtBZGtLSDBjVUJNaVB6LW9JSnAzaW5CS0lCS1NZU3pYY1lwak5SdG9pRVlydjJ2eklpcDRhcGxIbXIzN1FpM1Z6d0MxcENySE8xb2l0a2FLS0VjSFI?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6240e6cf589c",
+      "title": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具",
+      "published": "2026-10-27T07:40:43+00:00",
+      "summary": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具&nbsp;&nbsp;明日科學",
+      "sources": [
+        {
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50aV9nUmZ0MFUwLXhxQk9qb3lBZTFab19pLXNoUDdobFpwTlV4YnppbXFkTEw0LVJrR1BmQVlYUXV2M1RIVUYtYlBUNnBKU214S0lwMUloc0RjNnVVYVow?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d88adfb84cd3",
+      "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉",
+      "published": "2026-10-27T07:12:00+00:00",
+      "summary": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mTXVWMDB4WDllT1pSOV9VZlVhVGVmb0FUaGFPUDJkM2NyM2JxejlNVjMyZGx6MkRtaGhtUDNlSGg3OUZNWjFod05fUmh0d1I3emdsYThGb0psajdXdHUwejJvaTA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "620e29af9b74",
+      "title": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了",
+      "published": "2026-10-27T07:00:00+00:00",
+      "summary": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPRExjc05LLUwyM0FaUW9SendfUUMxMXhfZnhhNkxSQUt4ZlVXdERsNG15YjBmM3RJdnk3T1FGMFlPb2xCTHhyR01nSV94enZXZHoxdkJTVGNQV1BVREVIc29rb3F3NkFKQnJXSlBhTW5aRXZJdmNQR2hRMDVwdGcxUDFfaWdwaG1KTDQwVHE4MUhxOTI0aHVsWHZ6QlZyQWJ0eC1aeUw2YTdYdlM3MXhLMDJpdmRnSEQ5X0ZzYlFiLVRLUmlKa2dLcmliVFN4cnlic0xFZ2ZkelBBUHlzUm40cXQ0UGlwU1NnOUFNT2U0TGdkcTQ3dUxJeko2TkMzbDluUXUwMGp2UDBoZXZCY2I5aTgzcDFxd2p6NDk3NFJjYXhWV0s1M2paLW5NaUpqRmx2czc1M2pfZEZ4Vk1YbVNQa3Q3X1FoYVlUSnp1NW5EaXRVZE95ZjFWNEJxbWZVUXl1bHBmY2pB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d8a0bd196c29",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
+      "published": "2026-10-27T04:03:34+00:00",
+      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a2e648d65b8",
+      "title": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富 - Marie Claire 美麗佳人",
+      "published": "2026-10-27T03:24:06+00:00",
+      "summary": "曬太陽就夠了嗎？缺乏維生素D可能影響大腦健康，這些食物含量豐富&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pdUVJUlpIOWdZSnkwU2M3bmpaZElaOGlaaGdPbGxURVI4Y0pOSW9YYU9qSkRyMXRtNGdRZVQ5R2hDc2tSVU1VX3NxM1NXSEZsclNvTVZFWS1xSmRWZWpUMENndTJ1ZGliMFE?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "00ac787b7bd2",
@@ -616,6 +620,19 @@
       ]
     },
     {
+      "id": "ed2cf4d7f05d",
+      "title": "保健》心衰竭者罹癌風險高 醫教預防",
+      "published": "2026-10-26T20:10:00+00:00",
+      "summary": "保健》心衰竭者罹癌風險高 醫教預防&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQkdHZTlDSlpIWjEtb2M0MGVBd09peTdrb1NfVUVMdzVCanFNem9CYXNzZDMxSTBCbGhGQnJWcDVCc05JZU1DWXYzbDNxakMxRER5MkNwX1hUWG51MEZpbjAxRFZFcG94eFRpUEQzNjRSR0VZZmRiS1VCVTlxc0ZDR1NfUWhMOTNEaGN0dzUxQVliZl9DVlJfcXFScjJ3TDNDSjBWTnBHZlhPMkRXX1d5Z0lfdHV3UTVEa29vVUNod3ZUZkZQNjQtX1FwY2NkZ0Y1OFVnd0dZbDI0V2l1VUxBX3daN2EteGI1WWFtUk9DbXZmYklNU1hyRU1jMEJzY253eHN0bC1ZekVPQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a983e53cef27",
       "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例",
       "published": "2026-10-26T11:16:17+00:00",
@@ -655,14 +672,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f482095d6750",
+      "id": "c9d7fc6487ba",
       "title": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠",
       "published": "2026-10-26T07:52:24+00:00",
-      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;Yahoo新聞",
+      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNnlrUllwUzBncmYxN1lQOUVFa3lQRXkzN0hMcmcxeWpURlFUR2h0OWJoMlVPYzJMYUpPZ1pTeVZuQldFMzNPUThlejZCOUlNZy1ZSllZQldERlJOTlBfVmFQSXY1VnF3UFBsemRmd2lCMFlhd2NaMVRJWmNPb3FSbVAwM1hnVENqQ2tGVnhaUTVvMmRESjhVdDNRLWNLdDU3WEJpUFdYT2dLU1h6SzJDTTJUVFJzNXVXdFhiS2lYR0l6YTRuY09aVEJ1X3BDVkNTakV1cklyeHkwYVJvY2hxWENQSkZjWERFRko4Ymp4bUxpWXV6ZU8zVXNZRW0xUko2eGgxZzF3RjJobjUwdUhvS3hqTlI1MGNFWUpoYXhiUW93cEM1WERTV1UzMXZQRWVsUlRiOE5aVEFOMkhPTTYyRWR0RmM3THBOYzNMdXVrbmNuR1VfRDhTRktaRkdZRG9DSkYxQkRIWHp6YVZyVHA3VTVLTUxXOVFOTVJzVDVycm0?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZFhqSm53cjMzQzdPZVJsb3M4cVBha3A2cjI4bTlxcFc5S2xQOTYtYVRPSldFb21fSzV1MW9xc3A4SE1uaWtaRjVpLU1scFlBWUlN?oc=5"
         }
       ],
       "matched_keywords": []
