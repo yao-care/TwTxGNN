@@ -1,88 +1,16 @@
 ---
-layout: default
-title: "Loteprednol etabonate 相關新聞"
-parent: 📰 健康新聞
-nav_exclude: true
-description: "Loteprednol etabonate 的相關健康新聞報導。原適應症：眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎、酒渣鼻角膜炎、表淺性點...。預測適應症 10 個。"
+layout: id_redirect
 permalink: /news/loteprednol_etabonate/
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# Loteprednol etabonate 相關新聞
-
-[← 返回新聞總覽]({{ '/news/' | relative_url }})
-
----
-
-<p class="key-answer" data-question="Loteprednol etabonate 有什麼相關新聞？">
-<strong>Loteprednol etabonate</strong> 目前有 <strong>0 則</strong>相關新聞報導，預測適應症 10 個。
-</p>
-
-<div class="key-takeaway">
-本頁整合 Loteprednol etabonate 的 AI 預測適應症與最新健康新聞，橘色標示的適應症表示近期有相關新聞報導。
-</div>
-
-<div class="drug-info-card">
-<strong>藥物資訊</strong>
-<ul>
-<li><strong>原適應症</strong>: 眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎、酒渣鼻角膜炎、表淺性點狀角膜炎、帶狀疱疹角膜炎、虹膜炎、睫狀體炎，以及其他感染性結膜炎等；及眼睛手術之發炎</li>
-<li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>conjunctival folliculosis (99.7%)</li>
-<li>chronic follicular conjunctivitis (99.7%)</li>
-<li>serous conjunctivitis except viral (99.7%)</li>
-<li>parasitic conjunctivitis (99.7%)</li>
-<li>pseudomembranous conjunctivitis (99.7%)</li>
-<li>Angelucci syndrome (99.7%)</li>
-<li>acute hemorrhagic conjunctivitis (99.6%)</li>
-<li>rosacea conjunctivitis (99.3%)</li>
-<li>acute contagious conjunctivitis (99.3%)</li>
-<li>otitis externa (99.1%)</li>
-</ul></li>
-</ul>
-<p><a href="{{ '/drugs/loteprednol-etabonate/' | relative_url }}">查看完整藥物報告 →</a></p>
-</div>
-
-## 相關新聞（0 則）
-
-*目前沒有相關新聞報導。當有新聞提到此藥物時，系統會自動收集並顯示在這裡。*
-
-
-<div class="disclaimer">
-<strong>免責聲明</strong>: 本頁新聞由系統自動收集，僅供研究參考，不構成醫療建議。
-</div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/drugs/loteprednol-etabonate/">
+<meta http-equiv="refresh" content="0; url=/drugs/loteprednol-etabonate/">
+<script>location="/drugs/loteprednol-etabonate/"</script>
+<a href="/drugs/loteprednol-etabonate/">/drugs/loteprednol-etabonate/</a>
+</html>
