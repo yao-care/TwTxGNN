@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Atezolizumab 的相關健康新聞報導。原適應症：非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）。預測適應症 10 個。"
 permalink: /news/atezolizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Atezolizumab 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/atezolizumab/
 <li><strong>原適應症</strong>: 非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>prostatic urethra urothelial carcinoma (100.0%)</li>
-<li>kidney pelvis sarcomatoid transitional cell carcinoma (100.0%)</li>
-<li>infiltrating bladder urothelial carcinoma sarcomatoid variant (100.0%)</li>
-<li>renal pelvis papillary urothelial carcinoma (100.0%)</li>
-<li>uterine ligament adenocarcinoma (99.9%)</li>
-<li>endocervical carcinoma (99.9%)</li>
-<li>adenoid cystic carcinoma of the cervix uteri (99.9%)</li>
-<li>uterine ligament serous adenocarcinoma (99.9%)</li>
-<li>signet ring cell variant cervical mucinous adenocarcinoma (99.9%)</li>
-<li>intestinal variant cervical mucinous adenocarcinoma (99.9%)</li>
+<li>prostatic urethra urothelial carcinoma</li>
+<li>kidney pelvis sarcomatoid transitional cell carcinoma</li>
+<li>infiltrating bladder urothelial carcinoma sarcomatoid variant</li>
+<li>renal pelvis papillary urothelial carcinoma</li>
+<li>uterine ligament adenocarcinoma</li>
+<li>endocervical carcinoma</li>
+<li>adenoid cystic carcinoma of the cervix uteri</li>
+<li>uterine ligament serous adenocarcinoma</li>
+<li>signet ring cell variant cervical mucinous adenocarcinoma</li>
+<li>intestinal variant cervical mucinous adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atezolizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速。預測適應症 10 個。"
 permalink: /news/ouabain/
+last_modified_at: 2026-10-27
 ---
 
 # Ouabain 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/ouabain/
 <li><strong>原適應症</strong>: 心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>Prinzmetal angina (99.7%)</li>
-<li>hemoglobinopathy (99.5%)</li>
-<li class="indication-matched">myocardial infarction (99.4%)<span class="indication-tag">📰 心肌梗塞</span></li>
-<li>thrombotic disease (99.3%)</li>
-<li>hyperthyroidism (99.3%)</li>
-<li>homozygous familial hypercholesterolemia (99.2%)</li>
-<li>partial deletion of the short arm of chromosome 16 (99.2%)</li>
-<li>beta-thalassemia with other manifestations (99.2%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (99.2%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.2%)</li>
+<li>Prinzmetal angina</li>
+<li>hemoglobinopathy</li>
+<li class="indication-matched">myocardial infarction<span class="indication-tag">📰 心肌梗塞</span></li>
+<li>thrombotic disease</li>
+<li>hyperthyroidism</li>
+<li>homozygous familial hypercholesterolemia</li>
+<li>partial deletion of the short arm of chromosome 16</li>
+<li>beta-thalassemia with other manifestations</li>
+<li>brain small vessel disease 1 with or without ocular anomalies</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>

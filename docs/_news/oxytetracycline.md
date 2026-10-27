@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Oxytetracycline 的相關健康新聞報導。原適應症：支氣管炎、Q 熱、細菌性痢疾、扁桃腺炎、軟性下疳、耳炎、胃腸炎。預測適應症 10 個。"
 permalink: /news/oxytetracycline/
+last_modified_at: 2026-10-27
 ---
 
 # Oxytetracycline 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/oxytetracycline/
 <li><strong>原適應症</strong>: 支氣管炎、Q 熱、細菌性痢疾、扁桃腺炎、軟性下疳、耳炎、胃腸炎</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>chronic rhinosinusitis (99.6%)</li>
-<li>chronic ethmoidal sinusitis (99.6%)</li>
-<li>paranasal sinus neoplasm (disease) (99.6%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.5%)</li>
-<li>postinfectious vasculitis (99.4%)</li>
-<li>post-bacterial disorder (99.3%)</li>
-<li>post-infectious syndrome (99.3%)</li>
-<li>infective urethral stricture (99.3%)</li>
-<li>Chagas cardiomyopathy (99.3%)</li>
-<li>otitis externa (99.3%)</li>
+<li>chronic rhinosinusitis</li>
+<li>chronic ethmoidal sinusitis</li>
+<li>paranasal sinus neoplasm (disease)</li>
+<li>punctate epithelial keratoconjunctivitis</li>
+<li>postinfectious vasculitis</li>
+<li>post-bacterial disorder</li>
+<li>post-infectious syndrome</li>
+<li>infective urethral stricture</li>
+<li>Chagas cardiomyopathy</li>
+<li>otitis externa</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>

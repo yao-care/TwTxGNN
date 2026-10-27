@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Bevacizumab 的相關健康新聞報導。原適應症：轉移性大腸直腸癌（mCRC）：與含 5-fluorouracil 的化學療法併用，作為第一線治療。預測適應症 10 個。"
 permalink: /news/bevacizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Bevacizumab 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/bevacizumab/
 <li><strong>原適應症</strong>: 轉移性大腸直腸癌（mCRC）：與含 5-fluorouracil 的化學療法併用，作為第一線治療</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>epiglottis neoplasm (99.9%)</li>
-<li>benign neoplasm of tongue (99.9%)</li>
-<li>tumor of testis and paratestis (99.9%)</li>
-<li>benign neoplasm of hypopharynx (99.9%)</li>
-<li>benign neoplasm of floor of mouth (99.9%)</li>
-<li>cervical neuroblastoma (99.9%)</li>
-<li>cystic neoplasm (99.9%)</li>
-<li>nasal cavity inverting papilloma (99.9%)</li>
-<li>mesenchymoma (99.9%)</li>
-<li>schwannoma of jugular foramen (99.9%)</li>
+<li>epiglottis neoplasm</li>
+<li>benign neoplasm of tongue</li>
+<li>tumor of testis and paratestis</li>
+<li>benign neoplasm of hypopharynx</li>
+<li>benign neoplasm of floor of mouth</li>
+<li>cervical neuroblastoma</li>
+<li>cystic neoplasm</li>
+<li>nasal cavity inverting papilloma</li>
+<li>mesenchymoma</li>
+<li>schwannoma of jugular foramen</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bevacizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

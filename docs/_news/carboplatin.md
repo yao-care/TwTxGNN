@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carboplatin 的相關健康新聞報導。原適應症：卵巢癌（台灣許可證核准適應症）。預測適應症 10 個。"
 permalink: /news/carboplatin/
+last_modified_at: 2026-10-27
 ---
 
 # Carboplatin 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/carboplatin/
 <li><strong>原適應症</strong>: 卵巢癌（台灣許可證核准適應症）</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (99.9%)<span class="indication-tag">📰 乳癌</span></li>
-<li>rectum mucinous adenocarcinoma (99.3%)</li>
-<li>colon mucinous adenocarcinoma (99.3%)</li>
-<li>adult germ cell tumor (99.2%)</li>
-<li>cervical mucinous adenocarcinoma (99.2%)</li>
-<li>gallbladder mucinous adenocarcinoma (99.2%)</li>
-<li>endometrial mucinous adenocarcinoma (99.2%)</li>
-<li>endometrial mixed adenocarcinoma (99.2%)</li>
-<li>villoglandular endometrial endometrioid adenocarcinoma (99.2%)</li>
-<li>extrahepatic bile duct mucinous adenocarcinoma (99.2%)</li>
+<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
+<li>rectum mucinous adenocarcinoma</li>
+<li>colon mucinous adenocarcinoma</li>
+<li>adult germ cell tumor</li>
+<li>cervical mucinous adenocarcinoma</li>
+<li>gallbladder mucinous adenocarcinoma</li>
+<li>endometrial mucinous adenocarcinoma</li>
+<li>endometrial mixed adenocarcinoma</li>
+<li>villoglandular endometrial endometrioid adenocarcinoma</li>
+<li>extrahepatic bile duct mucinous adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>

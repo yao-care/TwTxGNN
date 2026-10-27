@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Hydroxyprogesterone caproate 的相關健康新聞報導。原適應症：先兆流產、習慣流產、子宮機能性出血、痛經、月經困難。預測適應症 10 個。"
 permalink: /news/hydroxyprogesterone_caproate/
+last_modified_at: 2026-10-27
 ---
 
 # Hydroxyprogesterone caproate 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/hydroxyprogesterone_caproate/
 <li><strong>原適應症</strong>: 先兆流產、習慣流產、子宮機能性出血、痛經、月經困難</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>endometriosis of uterus (100.0%)</li>
-<li>renal hypoplasia, bilateral (100.0%)</li>
-<li>endometriosis in cutaneous scar (100.0%)</li>
-<li>endometriosis of rectovaginal septum and vagina (100.0%)</li>
-<li>renal hypoplasia (disease) (100.0%)</li>
-<li>uterine corpus cancer (100.0%)</li>
-<li>cervix endometriosis (100.0%)</li>
-<li>endometrial cancer (100.0%)</li>
-<li>breast fibrocystic disease (100.0%)</li>
-<li>infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly (99.9%)</li>
+<li>endometriosis of uterus</li>
+<li>renal hypoplasia, bilateral</li>
+<li>endometriosis in cutaneous scar</li>
+<li>endometriosis of rectovaginal septum and vagina</li>
+<li>renal hypoplasia (disease)</li>
+<li>uterine corpus cancer</li>
+<li>cervix endometriosis</li>
+<li>endometrial cancer</li>
+<li>breast fibrocystic disease</li>
+<li>infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxyprogesterone-caproate/' | relative_url }}">查看完整藥物報告 →</a></p>

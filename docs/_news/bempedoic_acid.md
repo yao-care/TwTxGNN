@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Bempedoic acid 的相關健康新聞報導。原適應症：異合子家族性或非家族性之原發性高膽固醇血症、混合型血脂異常的成人病人，作為飲食輔助治療以降低 LDL...。預測適應症 10 個。"
 permalink: /news/bempedoic_acid/
+last_modified_at: 2026-10-27
 ---
 
 # Bempedoic acid 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/bempedoic_acid/
 <li><strong>原適應症</strong>: 異合子家族性或非家族性之原發性高膽固醇血症、混合型血脂異常的成人病人，作為飲食輔助治療以降低 LDL-C</li>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>hyperthyroidism (99.6%)</li>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.6%)</li>
-<li>malignant catarrh (99.6%)</li>
-<li>infectious bovine rhinotracheitis (99.6%)</li>
-<li>cytomegalovirus infection (99.5%)</li>
-<li>homozygous familial hypercholesterolemia (99.5%)</li>
-<li>hyperthyroxinemia (99.3%)</li>
-<li>drug-induced osteoporosis (99.2%)</li>
-<li>multiple endocrine neoplasia (99.2%)</li>
-<li>pregnancy associated osteoporosis (99.2%)</li>
+<li>hyperthyroidism</li>
+<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta</li>
+<li>malignant catarrh</li>
+<li>infectious bovine rhinotracheitis</li>
+<li>cytomegalovirus infection</li>
+<li>homozygous familial hypercholesterolemia</li>
+<li>hyperthyroxinemia</li>
+<li>drug-induced osteoporosis</li>
+<li>multiple endocrine neoplasia</li>
+<li>pregnancy associated osteoporosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bempedoic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。1 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
+last_modified_at: 2026-10-27
 ---
 
 # 乳癌 (female breast carcinoma) 相關新聞

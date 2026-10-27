@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "失智 (dementia) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
+last_modified_at: 2026-10-27
 ---
 
 # 失智 (dementia) 相關新聞

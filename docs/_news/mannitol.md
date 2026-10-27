@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Mannitol 的相關健康新聞報導。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）。預測適應症 10 個。"
 permalink: /news/mannitol/
+last_modified_at: 2026-10-27
 ---
 
 # Mannitol 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/mannitol/
 <li><strong>原適應症</strong>: 利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (100.0%)</li>
-<li>acute pulmonary heart disease (99.9%)</li>
-<li>exercise-induced malignant hyperthermia (99.9%)</li>
-<li>malignant hyperthermia, susceptibility to (99.8%)</li>
-<li>familial periodic paralysis (99.8%)</li>
-<li>hypokalemic periodic paralysis (99.7%)</li>
-<li>congenital multicore myopathy with external ophthalmoplegia (99.7%)</li>
-<li>moderate multiminicore disease with hand involvement (99.7%)</li>
-<li>nephrogenic diabetes insipidus (99.7%)</li>
-<li>King-Denborough syndrome (99.7%)</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis</li>
+<li>acute pulmonary heart disease</li>
+<li>exercise-induced malignant hyperthermia</li>
+<li>malignant hyperthermia, susceptibility to</li>
+<li>familial periodic paralysis</li>
+<li>hypokalemic periodic paralysis</li>
+<li>congenital multicore myopathy with external ophthalmoplegia</li>
+<li>moderate multiminicore disease with hand involvement</li>
+<li>nephrogenic diabetes insipidus</li>
+<li>King-Denborough syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>

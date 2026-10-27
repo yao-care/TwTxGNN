@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cladribine 的相關健康新聞報導。原適應症：復發型多發性硬化症（臨床上有發作，且前二年有二次復發者）。預測適應症 7 個。"
 permalink: /news/cladribine/
+last_modified_at: 2026-10-27
 ---
 
 # Cladribine 相關新聞
@@ -27,13 +28,13 @@ permalink: /news/cladribine/
 <li><strong>原適應症</strong>: 復發型多發性硬化症（臨床上有發作，且前二年有二次復發者）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.8%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.7%)</li>
-<li class="indication-matched">liver sarcoma (99.7%)<span class="indication-tag">📰 肝癌</span></li>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>botryoid-type embryonal rhabdomyosarcoma of the vagina</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>
+<li>prostate embryonal rhabdomyosarcoma</li>
+<li>extrahepatic bile duct rhabdomyosarcoma</li>
+<li>rhabdomyosarcoma (disease)</li>
+<li class="indication-matched">liver sarcoma<span class="indication-tag">📰 肝癌</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>

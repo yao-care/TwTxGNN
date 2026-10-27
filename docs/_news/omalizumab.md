@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Omalizumab 的相關健康新聞報導。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性...。預測適應症 10 個。"
 permalink: /news/omalizumab/
+last_modified_at: 2026-10-27
 ---
 
 # Omalizumab 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/omalizumab/
 <li><strong>原適應症</strong>: 過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>bronchitis (100.0%)</li>
-<li>atopic eczema (100.0%)</li>
-<li>obstructive lung disease (100.0%)</li>
-<li>dermatitis (100.0%)</li>
-<li>bronchial neoplasm (disease) (100.0%)</li>
-<li>acne keloid (99.9%)</li>
-<li>acrodermatitis chronica atrophicans (99.9%)</li>
-<li>hydroa vacciniforme, familial (99.9%)</li>
-<li>neonatal dermatomyositis (99.9%)</li>
-<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease (99.9%)</li>
+<li>bronchitis</li>
+<li>atopic eczema</li>
+<li>obstructive lung disease</li>
+<li>dermatitis</li>
+<li>bronchial neoplasm (disease)</li>
+<li>acne keloid</li>
+<li>acrodermatitis chronica atrophicans</li>
+<li>hydroa vacciniforme, familial</li>
+<li>neonatal dermatomyositis</li>
+<li>secondary interstitial lung disease specific to childhood associated with a connective tissue disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/omalizumab/' | relative_url }}">查看完整藥物報告 →</a></p>

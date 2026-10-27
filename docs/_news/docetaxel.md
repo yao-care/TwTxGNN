@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Docetaxel 的相關健康新聞報導。原適應症：乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌。預測適應症 10 個。"
 permalink: /news/docetaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Docetaxel 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/docetaxel/
 <li><strong>原適應症</strong>: 乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (99.9%)<span class="indication-tag">📰 乳癌</span></li>
-<li>Ewing sarcoma (99.9%)</li>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.8%)</li>
-<li class="indication-matched">small cell lung carcinoma (99.8%)<span class="indication-tag">📰 肺癌</span></li>
-<li>primary pulmonary lymphoma (99.8%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.8%)</li>
-<li>pulmonary blastoma (99.8%)</li>
-<li>rhabdomyosarcoma (disease) (99.8%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.8%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.8%)</li>
+<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
+<li>Ewing sarcoma</li>
+<li>well-differentiated fetal adenocarcinoma of the lung</li>
+<li class="indication-matched">small cell lung carcinoma<span class="indication-tag">📰 肺癌</span></li>
+<li>primary pulmonary lymphoma</li>
+<li>botryoid-type embryonal rhabdomyosarcoma of the vagina</li>
+<li>pulmonary blastoma</li>
+<li>rhabdomyosarcoma (disease)</li>
+<li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>

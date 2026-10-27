@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dehydrocholic acid 的相關健康新聞報導。原適應症：膽石症、膽石形成之預防、膽石膽砂之排除、膽囊炎、膽管炎膽汁分泌不全所致之疾患、肝硬化、黃疸。預測適應症 10 個。"
 permalink: /news/dehydrocholic_acid/
+last_modified_at: 2026-10-27
 ---
 
 # Dehydrocholic acid 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/dehydrocholic_acid/
 <li><strong>原適應症</strong>: 膽石症、膽石形成之預防、膽石膽砂之排除、膽囊炎、膽管炎膽汁分泌不全所致之疾患、肝硬化、黃疸</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>acute urate nephropathy (100.0%)</li>
-<li>nephrolithiasis (100.0%)</li>
-<li>bile duct disease (100.0%)</li>
-<li>bile duct neoplasm (100.0%)</li>
-<li>apical periodontitis (100.0%)</li>
-<li>suppurative periapical periodontitis (100.0%)</li>
-<li>periapical granuloma (100.0%)</li>
-<li>disorder of phenylalanine metabolism (100.0%)</li>
-<li>urolithiasis (100.0%)</li>
-<li>disorder of tyrosine metabolism (99.9%)</li>
+<li>acute urate nephropathy</li>
+<li>nephrolithiasis</li>
+<li>bile duct disease</li>
+<li>bile duct neoplasm</li>
+<li>apical periodontitis</li>
+<li>suppurative periapical periodontitis</li>
+<li>periapical granuloma</li>
+<li>disorder of phenylalanine metabolism</li>
+<li>urolithiasis</li>
+<li>disorder of tyrosine metabolism</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dehydrocholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>

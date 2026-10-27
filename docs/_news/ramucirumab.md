@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Ramucirumab 的相關健康新聞報導。原適應症：胃癌：與 paclitaxel 併用，或單一藥物用於接受過 fluoropyrimidine 和 p...。預測適應症 10 個。"
 permalink: /news/ramucirumab/
+last_modified_at: 2026-10-27
 ---
 
 # Ramucirumab 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/ramucirumab/
 <li><strong>原適應症</strong>: 胃癌：與 paclitaxel 併用，或單一藥物用於接受過 fluoropyrimidine 和 platinum 化學治療後仍惡化之晚期或轉移性胃腺癌（或胃食道接合處腺癌）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>uterine ligament adenocarcinoma (100.0%)</li>
-<li>endocervical carcinoma (100.0%)</li>
-<li>adenoid cystic carcinoma of the cervix uteri (100.0%)</li>
-<li>uterine ligament serous adenocarcinoma (99.9%)</li>
-<li>signet ring cell variant cervical mucinous adenocarcinoma (99.9%)</li>
-<li>cervical adenosquamous carcinoma, glassy cell variant (99.9%)</li>
-<li>uterine ligament endometrioid adenocarcinoma (99.9%)</li>
-<li>uterine ligament clear cell adenocarcinoma (99.9%)</li>
-<li>uterine ligament mucinous adenocarcinoma (99.9%)</li>
-<li>intestinal variant cervical mucinous adenocarcinoma (99.9%)</li>
+<li>uterine ligament adenocarcinoma</li>
+<li>endocervical carcinoma</li>
+<li>adenoid cystic carcinoma of the cervix uteri</li>
+<li>uterine ligament serous adenocarcinoma</li>
+<li>signet ring cell variant cervical mucinous adenocarcinoma</li>
+<li>cervical adenosquamous carcinoma, glassy cell variant</li>
+<li>uterine ligament endometrioid adenocarcinoma</li>
+<li>uterine ligament clear cell adenocarcinoma</li>
+<li>uterine ligament mucinous adenocarcinoma</li>
+<li>intestinal variant cervical mucinous adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>

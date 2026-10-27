@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Disopyramide 的相關健康新聞報導。原適應症：心室性不整律。預測適應症 10 個。"
 permalink: /news/disopyramide/
+last_modified_at: 2026-10-27
 ---
 
 # Disopyramide 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/disopyramide/
 <li><strong>原適應症</strong>: 心室性不整律</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>Tourette syndrome (99.9%)</li>
-<li>attention deficit-hyperactivity disorder (99.8%)</li>
-<li>trichotillomania (99.8%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.7%)</li>
-<li>faciodigitogenital syndrome (99.7%)</li>
-<li>specific developmental disorder (99.5%)</li>
-<li>idiopathic neonatal atrial flutter (99.4%)</li>
-<li>chondromyxoid fibroma (99.4%)</li>
-<li>multifocal atrial tachycardia (disease) (99.2%)</li>
-<li>trigeminal nerve neoplasm (99.2%)</li>
+<li>Tourette syndrome</li>
+<li>attention deficit-hyperactivity disorder</li>
+<li>trichotillomania</li>
+<li>attention deficit hyperactivity disorder, inattentive type</li>
+<li>faciodigitogenital syndrome</li>
+<li>specific developmental disorder</li>
+<li>idiopathic neonatal atrial flutter</li>
+<li>chondromyxoid fibroma</li>
+<li>multifocal atrial tachycardia (disease)</li>
+<li>trigeminal nerve neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/disopyramide/' | relative_url }}">查看完整藥物報告 →</a></p>

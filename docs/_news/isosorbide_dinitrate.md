@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Isosorbide dinitrate 的相關健康新聞報導。原適應症：預防狹心症之發作。預測適應症 10 個。"
 permalink: /news/isosorbide_dinitrate/
+last_modified_at: 2026-10-27
 ---
 
 # Isosorbide dinitrate 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/isosorbide_dinitrate/
 <li><strong>原適應症</strong>: 預防狹心症之發作</li>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>alopecia (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>pulmonary hypertension (100.0%)</li>
-<li>diffuse alopecia areata (100.0%)</li>
-<li>vascular disease (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>kyphoscoliotic heart disease (100.0%)</li>
-<li>visceral calciphylaxis (100.0%)</li>
-<li>arterial thoracic outlet syndrome (100.0%)</li>
+<li>alopecia</li>
+<li>congenital hypotrichosis milia</li>
+<li>hypotrichosis simplex of the scalp</li>
+<li>pulmonary hypertension</li>
+<li>diffuse alopecia areata</li>
+<li>vascular disease</li>
+<li>hypertrichosis (disease)</li>
+<li>kyphoscoliotic heart disease</li>
+<li>visceral calciphylaxis</li>
+<li>arterial thoracic outlet syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>

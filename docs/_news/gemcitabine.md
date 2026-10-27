@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gemcitabine 的相關健康新聞報導。原適應症：非小細胞肺癌、胰臟癌、膀胱癌、膽道癌；與 paclitaxel 併用於曾使用 anthracycli...。預測適應症 10 個。"
 permalink: /news/gemcitabine/
+last_modified_at: 2026-10-27
 ---
 
 # Gemcitabine 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/gemcitabine/
 <li><strong>原適應症</strong>: 非小細胞肺癌、胰臟癌、膀胱癌、膽道癌；與 paclitaxel 併用於曾使用 anthracycline 之局部復發且無法手術切除或轉移性乳癌；曾使用含鉑類藥物治療後復發且間隔至少 6 個月之卵巢癌（第二線）</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (100.0%)<span class="indication-tag">📰 乳癌</span></li>
-<li>rectum mucinous adenocarcinoma (99.8%)</li>
-<li>colon mucinous adenocarcinoma (99.8%)</li>
-<li>endometrial mixed adenocarcinoma (99.8%)</li>
-<li>villoglandular endometrial endometrioid adenocarcinoma (99.8%)</li>
-<li>endometrial mucinous adenocarcinoma (99.8%)</li>
-<li>cervical mucinous adenocarcinoma (99.8%)</li>
-<li>gallbladder mucinous adenocarcinoma (99.8%)</li>
-<li>rete ovarii adenocarcinoma (99.7%)</li>
-<li>secretory uterine corpus endometrioid adenocarcinoma (99.7%)</li>
+<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
+<li>rectum mucinous adenocarcinoma</li>
+<li>colon mucinous adenocarcinoma</li>
+<li>endometrial mixed adenocarcinoma</li>
+<li>villoglandular endometrial endometrioid adenocarcinoma</li>
+<li>endometrial mucinous adenocarcinoma</li>
+<li>cervical mucinous adenocarcinoma</li>
+<li>gallbladder mucinous adenocarcinoma</li>
+<li>rete ovarii adenocarcinoma</li>
+<li>secretory uterine corpus endometrioid adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>

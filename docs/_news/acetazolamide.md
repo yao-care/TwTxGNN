@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acetazolamide 的相關健康新聞報導。原適應症：青光眼及下列疾患之輔助治療：水腫、癲癇。預測適應症 10 個。"
 permalink: /news/acetazolamide/
+last_modified_at: 2026-10-27
 ---
 
 # Acetazolamide 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/acetazolamide/
 <li><strong>原適應症</strong>: 青光眼及下列疾患之輔助治療：水腫、癲癇</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>exercise-induced malignant hyperthermia (100.0%)</li>
-<li>hypertrophic cardiomyopathy (99.9%)</li>
-<li>congenital myopathy with excess of thin filaments (99.9%)</li>
-<li>hypertrophic cardiomyopathy due to intensive athletic training (99.9%)</li>
-<li>distal myopathy, Tateyama type (99.9%)</li>
-<li>cirrhotic cardiomyopathy (99.9%)</li>
-<li>cardiomyopathy (99.8%)</li>
-<li>intestinal obstruction (99.8%)</li>
-<li>glycogen storage disease due to acid maltase deficiency, late-onset (99.8%)</li>
-<li>unclassified intestinal pseudoobstruction (99.8%)</li>
+<li>exercise-induced malignant hyperthermia</li>
+<li>hypertrophic cardiomyopathy</li>
+<li>congenital myopathy with excess of thin filaments</li>
+<li>hypertrophic cardiomyopathy due to intensive athletic training</li>
+<li>distal myopathy, Tateyama type</li>
+<li>cirrhotic cardiomyopathy</li>
+<li>cardiomyopathy</li>
+<li>intestinal obstruction</li>
+<li>glycogen storage disease due to acid maltase deficiency, late-onset</li>
+<li>unclassified intestinal pseudoobstruction</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>

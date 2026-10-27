@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Zanubrutinib 的相關健康新聞報導。原適應症：先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、F...。預測適應症 6 個。"
 permalink: /news/zanubrutinib/
+last_modified_at: 2026-10-27
 ---
 
 # Zanubrutinib 相關新聞
@@ -27,12 +28,12 @@ permalink: /news/zanubrutinib/
 <li><strong>原適應症</strong>: 先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症）</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
-<li>myeloid leukemia (99.7%)</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.4%)</li>
-<li>ganglioneuroblastoma (disease) (99.4%)</li>
-<li>retroperitoneal neoplasm (99.3%)</li>
-<li>Ewing sarcoma (99.3%)</li>
-<li>neuroblastoma (99.2%)</li>
+<li>myeloid leukemia</li>
+<li>vertebral anomalies and variable endocrine and T-cell dysfunction</li>
+<li>ganglioneuroblastoma (disease)</li>
+<li>retroperitoneal neoplasm</li>
+<li>Ewing sarcoma</li>
+<li>neuroblastoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zanubrutinib/' | relative_url }}">查看完整藥物報告 →</a></p>

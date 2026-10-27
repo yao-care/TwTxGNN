@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Temozolomide 的相關健康新聞報導。原適應症：新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性...。預測適應症 2 個。"
 permalink: /news/temozolomide/
+last_modified_at: 2026-10-27
 ---
 
 # Temozolomide 相關新聞
@@ -27,8 +28,8 @@ permalink: /news/temozolomide/
 <li><strong>原適應症</strong>: 新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
-<li>adult astrocytic tumour (99.4%)</li>
-<li>cauda equina neoplasm (99.3%)</li>
+<li>adult astrocytic tumour</li>
+<li>cauda equina neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>

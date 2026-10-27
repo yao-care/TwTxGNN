@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Irbesartan 的相關健康新聞報導。原適應症：本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。預測適應症 4 個。"
 permalink: /news/irbesartan/
+last_modified_at: 2026-10-27
 ---
 
 # Irbesartan 相關新聞
@@ -27,10 +28,10 @@ permalink: /news/irbesartan/
 <li><strong>原適應症</strong>: 本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
-<li>malignant hypertensive renal disease (99.3%)</li>
-<li>malignant renovascular hypertension (99.3%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.2%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.2%)</li>
+<li>malignant hypertensive renal disease</li>
+<li>malignant renovascular hypertension</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Clobetasone 的相關健康新聞報導。原適應症：輕度溼疹、脂漏性皮炎、其他對類固醇有反應的皮膚疾患。預測適應症 10 個。"
 permalink: /news/clobetasone/
+last_modified_at: 2026-10-27
 ---
 
 # Clobetasone 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/clobetasone/
 <li><strong>原適應症</strong>: 輕度溼疹、脂漏性皮炎、其他對類固醇有反應的皮膚疾患</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>primary cutaneous T-cell lymphoma (100.0%)</li>
-<li>Sezary syndrome (99.8%)</li>
-<li>primary cutaneous B-cell lymphoma (99.8%)</li>
-<li>granulomatous slack skin disease (99.7%)</li>
-<li>Crohn's colitis (99.7%)</li>
-<li>adrenocortical insufficiency (99.7%)</li>
-<li>primary cutaneous T-cell non-Hodgkin lymphoma (99.7%)</li>
-<li>nephrotic syndrome (99.7%)</li>
-<li>cystic teratoma (99.7%)</li>
-<li>spinal cord dermoid cyst (99.7%)</li>
+<li>primary cutaneous T-cell lymphoma</li>
+<li>Sezary syndrome</li>
+<li>primary cutaneous B-cell lymphoma</li>
+<li>granulomatous slack skin disease</li>
+<li>Crohn's colitis</li>
+<li>adrenocortical insufficiency</li>
+<li>primary cutaneous T-cell non-Hodgkin lymphoma</li>
+<li>nephrotic syndrome</li>
+<li>cystic teratoma</li>
+<li>spinal cord dermoid cyst</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clobetasone/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Regorafenib 的相關健康新聞報導。原適應症：大腸直腸癌（轉移性，曾接受含 fluoropyrimidine、oxaliplatin、irinot...。預測適應症 8 個。"
 permalink: /news/regorafenib/
+last_modified_at: 2026-10-27
 ---
 
 # Regorafenib 相關新聞
@@ -27,14 +28,14 @@ permalink: /news/regorafenib/
 <li><strong>原適應症</strong>: 大腸直腸癌（轉移性，曾接受含 fluoropyrimidine、oxaliplatin、irinotecan 之化療及抗 VEGF 等療法）；腸胃道間質腫瘤；肝細胞癌（曾接受 sorafenib 治療者）</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
-<li>liposarcoma (99.8%)</li>
-<li>ovarian myxoid liposarcoma (99.7%)</li>
-<li>clear cell renal carcinoma (99.5%)</li>
-<li>unclassified renal cell carcinoma (99.2%)</li>
-<li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions (99.2%)</li>
-<li>renal cell carcinoma associated with neuroblastoma (99.2%)</li>
-<li>childhood kidney cell carcinoma (99.1%)</li>
-<li>vulva sarcoma (99.1%)</li>
+<li>liposarcoma</li>
+<li>ovarian myxoid liposarcoma</li>
+<li>clear cell renal carcinoma</li>
+<li>unclassified renal cell carcinoma</li>
+<li>renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions</li>
+<li>renal cell carcinoma associated with neuroblastoma</li>
+<li>childhood kidney cell carcinoma</li>
+<li>vulva sarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/regorafenib/' | relative_url }}">查看完整藥物報告 →</a></p>

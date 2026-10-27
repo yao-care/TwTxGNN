@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
+last_modified_at: 2026-10-27
 ---
 
 # 感冒 (common cold) 相關新聞

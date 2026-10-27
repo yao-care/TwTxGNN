@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌。預測適應症 10 個。"
 permalink: /news/paclitaxel/
+last_modified_at: 2026-10-27
 ---
 
 # Paclitaxel 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/paclitaxel/
 <li><strong>原適應症</strong>: 卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (100.0%)<span class="indication-tag">📰 乳癌</span></li>
-<li>estrogen-receptor negative breast cancer (99.9%)</li>
-<li>hormone-resistant breast carcinoma (99.9%)</li>
-<li>estrogen-receptor positive breast cancer (99.9%)</li>
-<li>Ehrlich tumor carcinoma (99.9%)</li>
-<li>bilateral breast carcinoma (99.9%)</li>
-<li>breast carcinoma by gene expression profile (99.9%)</li>
-<li>nipple carcinoma (99.9%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.7%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.7%)</li>
+<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
+<li>estrogen-receptor negative breast cancer</li>
+<li>hormone-resistant breast carcinoma</li>
+<li>estrogen-receptor positive breast cancer</li>
+<li>Ehrlich tumor carcinoma</li>
+<li>bilateral breast carcinoma</li>
+<li>breast carcinoma by gene expression profile</li>
+<li>nipple carcinoma</li>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>botryoid-type embryonal rhabdomyosarcoma of the vagina</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>

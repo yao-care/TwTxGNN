@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Berberine 的相關健康新聞報導。原適應症：痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎。預測適應症 10 個。"
 permalink: /news/berberine/
+last_modified_at: 2026-10-27
 ---
 
 # Berberine 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/berberine/
 <li><strong>原適應症</strong>: 痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>severe pre-eclampsia (99.8%)</li>
-<li>mild pre-eclampsia (99.8%)</li>
-<li>monocytic leukemia (99.7%)</li>
-<li>multiple endocrine neoplasia (99.7%)</li>
-<li>preeclampsia/eclampsia (99.7%)</li>
-<li>spermatocytic seminoma (99.7%)</li>
-<li>placental hemangioma (99.6%)</li>
-<li>tubular variant testicular seminoma (99.6%)</li>
-<li>gestational trophoblastic neoplasm (99.6%)</li>
-<li>toxemia of pregnancy (99.5%)</li>
+<li>severe pre-eclampsia</li>
+<li>mild pre-eclampsia</li>
+<li>monocytic leukemia</li>
+<li>multiple endocrine neoplasia</li>
+<li>preeclampsia/eclampsia</li>
+<li>spermatocytic seminoma</li>
+<li>placental hemangioma</li>
+<li>tubular variant testicular seminoma</li>
+<li>gestational trophoblastic neoplasm</li>
+<li>toxemia of pregnancy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>

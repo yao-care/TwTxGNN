@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Trabectedin 的相關健康新聞報導。原適應症：無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)...。預測適應症 1 個。"
 permalink: /news/trabectedin/
+last_modified_at: 2026-10-27
 ---
 
 # Trabectedin 相關新聞
@@ -27,7 +28,7 @@ permalink: /news/trabectedin/
 <li><strong>原適應症</strong>: 無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)，且曾接受一種含 anthracycline 療程的病人</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (99.7%)<span class="indication-tag">📰 乳癌</span></li>
+<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>

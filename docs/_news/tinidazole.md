@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Tinidazole 的相關健康新聞報導。原適應症：男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎。預測適應症 10 個。"
 permalink: /news/tinidazole/
+last_modified_at: 2026-10-27
 ---
 
 # Tinidazole 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/tinidazole/
 <li><strong>原適應症</strong>: 男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>postmenopausal atrophic vaginitis (99.9%)</li>
-<li>ulceration of vulva (99.9%)</li>
-<li>vulvar neoplasm (99.9%)</li>
-<li>breast fibrocystic disease (99.8%)</li>
-<li>AIDS (99.7%)</li>
-<li>blunt duct adenosis of breast (99.7%)</li>
-<li>apocrine adenosis of breast (99.7%)</li>
-<li>AIDS related complex (99.4%)</li>
-<li>congenital human immunodeficiency virus (99.4%)</li>
-<li>benign mammary dysplasia (99.2%)</li>
+<li>postmenopausal atrophic vaginitis</li>
+<li>ulceration of vulva</li>
+<li>vulvar neoplasm</li>
+<li>breast fibrocystic disease</li>
+<li>AIDS</li>
+<li>blunt duct adenosis of breast</li>
+<li>apocrine adenosis of breast</li>
+<li>AIDS related complex</li>
+<li>congenital human immunodeficiency virus</li>
+<li>benign mammary dysplasia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>

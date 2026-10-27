@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Pralatrexate 的相關健康新聞報導。原適應症：治療復發或頑固型周邊 T 細胞淋巴瘤 (PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存...。預測適應症 10 個。"
 permalink: /news/pralatrexate/
+last_modified_at: 2026-10-27
 ---
 
 # Pralatrexate 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/pralatrexate/
 <li><strong>原適應症</strong>: 治療復發或頑固型周邊 T 細胞淋巴瘤 (PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益</li>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>pleural adenomatoid tumor (99.9%)</li>
-<li>relapsing-remitting multiple sclerosis (99.9%)</li>
-<li>pleural biphasic mesothelioma (99.9%)</li>
-<li>pleural epithelioid mesothelioma (99.9%)</li>
-<li>lymphohistiocytoid mesothelioma (99.9%)</li>
-<li>pericardium cancer (99.9%)</li>
-<li>pleural sarcomatoid mesothelioma (99.9%)</li>
-<li>malignant peritoneal mesothelioma (99.9%)</li>
-<li>well differentiated papillary mesothelioma (99.8%)</li>
-<li>pleural mesothelioma (99.8%)</li>
+<li>pleural adenomatoid tumor</li>
+<li>relapsing-remitting multiple sclerosis</li>
+<li>pleural biphasic mesothelioma</li>
+<li>pleural epithelioid mesothelioma</li>
+<li>lymphohistiocytoid mesothelioma</li>
+<li>pericardium cancer</li>
+<li>pleural sarcomatoid mesothelioma</li>
+<li>malignant peritoneal mesothelioma</li>
+<li>well differentiated papillary mesothelioma</li>
+<li>pleural mesothelioma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pralatrexate/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Nebivolol 的相關健康新聞報導。原適應症：治療原發性高血壓。預測適應症 5 個。"
 permalink: /news/nebivolol/
+last_modified_at: 2026-10-27
 ---
 
 # Nebivolol 相關新聞
@@ -27,11 +28,11 @@ permalink: /news/nebivolol/
 <li><strong>原適應症</strong>: 治療原發性高血壓</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（5 個）</strong>:<ul>
-<li>malignant renovascular hypertension (99.4%)</li>
-<li>malignant hypertensive renal disease (99.4%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.4%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.4%)</li>
-<li>Braddock syndrome (99.1%)</li>
+<li>malignant renovascular hypertension</li>
+<li>malignant hypertensive renal disease</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism</li>
+<li>Braddock syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nebivolol/' | relative_url }}">查看完整藥物報告 →</a></p>

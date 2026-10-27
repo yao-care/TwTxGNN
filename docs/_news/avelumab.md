@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Avelumab 的相關健康新聞報導。原適應症：轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎...。預測適應症 10 個。"
 permalink: /news/avelumab/
+last_modified_at: 2026-10-27
 ---
 
 # Avelumab 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/avelumab/
 <li><strong>原適應症</strong>: 轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎細胞癌 (RCC) 第一線治療；第一線含鉑化療後疾病未惡化之局部晚期或轉移性泌尿道上皮癌 (UC) 維持療法</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>human herpesvirus 8-related tumor (100.0%)</li>
-<li>middle ear neuroendocrine tumor (100.0%)</li>
-<li>malignant cutaneous granular cell skin tumor (100.0%)</li>
-<li>ectomesenchymoma (100.0%)</li>
-<li>adenosine deaminase deficiency (100.0%)</li>
-<li>reticular dysgenesis (99.9%)</li>
-<li>Immunoerythromyeloid hypoplasia (99.9%)</li>
-<li>non-severe combined immunodeficiency (99.9%)</li>
-<li>prostatic urethra urothelial carcinoma (99.9%)</li>
-<li>kidney pelvis sarcomatoid transitional cell carcinoma (99.9%)</li>
+<li>human herpesvirus 8-related tumor</li>
+<li>middle ear neuroendocrine tumor</li>
+<li>malignant cutaneous granular cell skin tumor</li>
+<li>ectomesenchymoma</li>
+<li>adenosine deaminase deficiency</li>
+<li>reticular dysgenesis</li>
+<li>Immunoerythromyeloid hypoplasia</li>
+<li>non-severe combined immunodeficiency</li>
+<li>prostatic urethra urothelial carcinoma</li>
+<li>kidney pelvis sarcomatoid transitional cell carcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Hydroxyurea 的相關健康新聞報導。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭...。預測適應症 10 個。"
 permalink: /news/hydroxyurea/
+last_modified_at: 2026-10-27
 ---
 
 # Hydroxyurea 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/hydroxyurea/
 <li><strong>原適應症</strong>: 慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (100.0%)<span class="indication-tag">📰 乳癌</span></li>
-<li>sickle cell-hemoglobin E disease syndrome (99.7%)</li>
-<li>sickle cell-hemoglobin c disease syndrome (99.7%)</li>
-<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome (99.7%)</li>
-<li>sickle cell-hemoglobin d disease syndrome (99.7%)</li>
-<li>sickle cell-beta-thalassemia disease syndrome (99.7%)</li>
-<li>cervical adenosarcoma (99.4%)</li>
-<li>colon mucinous adenocarcinoma (99.3%)</li>
-<li>rectum mucinous adenocarcinoma (99.3%)</li>
-<li>gallbladder mucinous adenocarcinoma (99.3%)</li>
+<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
+<li>sickle cell-hemoglobin E disease syndrome</li>
+<li>sickle cell-hemoglobin c disease syndrome</li>
+<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome</li>
+<li>sickle cell-hemoglobin d disease syndrome</li>
+<li>sickle cell-beta-thalassemia disease syndrome</li>
+<li>cervical adenosarcoma</li>
+<li>colon mucinous adenocarcinoma</li>
+<li>rectum mucinous adenocarcinoma</li>
+<li>gallbladder mucinous adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>

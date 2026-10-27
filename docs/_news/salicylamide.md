@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 10 個。"
 permalink: /news/salicylamide/
+last_modified_at: 2026-10-27
 ---
 
 # Salicylamide 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/salicylamide/
 <li><strong>原適應症</strong>: 鎮痛藥</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>pharyngitis (100.0%)</li>
-<li>nasal cavity disease (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>trigeminal autonomic cephalalgia (99.9%)</li>
-<li class="indication-matched">common cold (99.9%)<span class="indication-tag">📰 感冒</span></li>
-<li>allergic urticaria (99.7%)</li>
-<li>lung disease (99.6%)</li>
-<li>massive neonatal aspiration syndrome (99.6%)</li>
-<li>respiratory syncytial virus bronchiolitis (99.6%)</li>
-<li>hantavirus infectious disease (99.5%)</li>
+<li>pharyngitis</li>
+<li>nasal cavity disease</li>
+<li>acute laryngopharyngitis</li>
+<li>trigeminal autonomic cephalalgia</li>
+<li class="indication-matched">common cold<span class="indication-tag">📰 感冒</span></li>
+<li>allergic urticaria</li>
+<li>lung disease</li>
+<li>massive neonatal aspiration syndrome</li>
+<li>respiratory syncytial virus bronchiolitis</li>
+<li>hantavirus infectious disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>

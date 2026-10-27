@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "心血管 (cardiovascular) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
+last_modified_at: 2026-10-27
 ---
 
 # 心血管 (cardiovascular) 相關新聞

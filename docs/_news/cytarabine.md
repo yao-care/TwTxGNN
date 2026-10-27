@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cytarabine 的相關健康新聞報導。原適應症：急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、...。預測適應症 9 個。"
 permalink: /news/cytarabine/
+last_modified_at: 2026-10-27
 ---
 
 # Cytarabine 相關新聞
@@ -27,15 +28,15 @@ permalink: /news/cytarabine/
 <li><strong>原適應症</strong>: 急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、衛部藥輸字第028975號）</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
-<li class="indication-matched">small cell lung carcinoma (99.8%)<span class="indication-tag">📰 肺癌</span></li>
-<li>primary pulmonary lymphoma (99.8%)</li>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.8%)</li>
-<li>pulmonary blastoma (99.8%)</li>
-<li>upper aerodigestive tract neoplasm (99.5%)</li>
-<li>ganglioneuroblastoma (disease) (99.4%)</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.3%)</li>
-<li>retroperitoneal neoplasm (99.2%)</li>
-<li>neuroblastoma (99.2%)</li>
+<li class="indication-matched">small cell lung carcinoma<span class="indication-tag">📰 肺癌</span></li>
+<li>primary pulmonary lymphoma</li>
+<li>well-differentiated fetal adenocarcinoma of the lung</li>
+<li>pulmonary blastoma</li>
+<li>upper aerodigestive tract neoplasm</li>
+<li>ganglioneuroblastoma (disease)</li>
+<li>vertebral anomalies and variable endocrine and T-cell dysfunction</li>
+<li>retroperitoneal neoplasm</li>
+<li>neuroblastoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Pemetrexed 的相關健康新聞報導。原適應症：非鱗狀非小細胞肺癌（顯著鱗狀細胞組織型除外）、惡性肋膜間皮瘤（取自 pemetrexed 本身的單方...。預測適應症 10 個。"
 permalink: /news/pemetrexed/
+last_modified_at: 2026-10-27
 ---
 
 # Pemetrexed 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/pemetrexed/
 <li><strong>原適應症</strong>: 非鱗狀非小細胞肺癌（顯著鱗狀細胞組織型除外）、惡性肋膜間皮瘤（取自 pemetrexed 本身的單方許可證）</li>
 <li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>malignant peritoneal mesothelioma (100.0%)</li>
-<li>pleural adenomatoid tumor (100.0%)</li>
-<li>pleural mesothelioma (100.0%)</li>
-<li>pleural epithelioid mesothelioma (100.0%)</li>
-<li>pleural sarcomatoid mesothelioma (100.0%)</li>
-<li>pleural biphasic mesothelioma (100.0%)</li>
-<li>pericardium cancer (100.0%)</li>
-<li>well differentiated papillary mesothelioma (100.0%)</li>
-<li>lymphohistiocytoid mesothelioma (100.0%)</li>
-<li>iminoglycinuria (100.0%)</li>
+<li>malignant peritoneal mesothelioma</li>
+<li>pleural adenomatoid tumor</li>
+<li>pleural mesothelioma</li>
+<li>pleural epithelioid mesothelioma</li>
+<li>pleural sarcomatoid mesothelioma</li>
+<li>pleural biphasic mesothelioma</li>
+<li>pericardium cancer</li>
+<li>well differentiated papillary mesothelioma</li>
+<li>lymphohistiocytoid mesothelioma</li>
+<li>iminoglycinuria</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pemetrexed/' | relative_url }}">查看完整藥物報告 →</a></p>

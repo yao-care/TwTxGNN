@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Trastuzumab deruxtecan 的相關健康新聞報導。原適應症：轉移性乳癌（HER2 陽性、HER2 弱陽性／微陽性）、HER2 突變之無法切除或轉移性非小細胞肺癌...。預測適應症 1 個。"
 permalink: /news/trastuzumab_deruxtecan/
+last_modified_at: 2026-10-27
 ---
 
 # Trastuzumab deruxtecan 相關新聞
@@ -27,7 +28,7 @@ permalink: /news/trastuzumab_deruxtecan/
 <li><strong>原適應症</strong>: 轉移性乳癌（HER2 陽性、HER2 弱陽性／微陽性）、HER2 突變之無法切除或轉移性非小細胞肺癌、HER2 陽性局部晚期或轉移性胃癌／胃食道接合處腺癌、HER2 陽性（IHC 3+）無法切除或轉移性實體腫瘤</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
-<li>drug-induced osteoporosis (99.3%)</li>
+<li>drug-induced osteoporosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/trastuzumab-deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>

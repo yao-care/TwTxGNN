@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "心肌梗塞 (myocardial infarction) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
+last_modified_at: 2026-10-27
 ---
 
 # 心肌梗塞 (myocardial infarction) 相關新聞

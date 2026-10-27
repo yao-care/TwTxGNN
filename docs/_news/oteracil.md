@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Oteracil 的相關健康新聞報導。原適應症：胃癌用藥。預測適應症 10 個。"
 permalink: /news/oteracil/
+last_modified_at: 2026-10-27
 ---
 
 # Oteracil 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/oteracil/
 <li><strong>原適應症</strong>: 胃癌用藥</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">colonic neoplasm (100.0%)<span class="indication-tag">📰 大腸癌</span></li>
-<li>cecum villous adenoma (100.0%)</li>
-<li>cecum neuroendocrine tumor G1 (100.0%)</li>
-<li>lipoma of colon (100.0%)</li>
-<li>cecal disease (100.0%)</li>
-<li>rectosigmoid junction neoplasm (100.0%)</li>
-<li>benign neoplasm of cecum (100.0%)</li>
-<li>colonic lymphangioma (100.0%)</li>
-<li>colon leiomyoma (100.0%)</li>
-<li>cavernous hemangioma of colon (100.0%)</li>
+<li class="indication-matched">colonic neoplasm<span class="indication-tag">📰 大腸癌</span></li>
+<li>cecum villous adenoma</li>
+<li>cecum neuroendocrine tumor G1</li>
+<li>lipoma of colon</li>
+<li>cecal disease</li>
+<li>rectosigmoid junction neoplasm</li>
+<li>benign neoplasm of cecum</li>
+<li>colonic lymphangioma</li>
+<li>colon leiomyoma</li>
+<li>cavernous hemangioma of colon</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>

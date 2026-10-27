@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carbenoxolone 的相關健康新聞報導。原適應症：胃潰瘍（單方許可證中，目前仍有效者為口內潰瘍：緩解及治療口內潰瘍）。預測適應症 7 個。"
 permalink: /news/carbenoxolone/
+last_modified_at: 2026-10-27
 ---
 
 # Carbenoxolone 相關新聞
@@ -27,13 +28,13 @@ permalink: /news/carbenoxolone/
 <li><strong>原適應症</strong>: 胃潰瘍（單方許可證中，目前仍有效者為口內潰瘍：緩解及治療口內潰瘍）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
-<li>non-syndromic esophageal malformation (100.0%)</li>
-<li>vitamin deficiency disorder (100.0%)</li>
-<li>biotin metabolic disease (100.0%)</li>
-<li>filariasis (99.9%)</li>
-<li>bile duct disease (99.5%)</li>
-<li>bile duct neoplasm (99.5%)</li>
-<li>tinea nigra (99.2%)</li>
+<li>non-syndromic esophageal malformation</li>
+<li>vitamin deficiency disorder</li>
+<li>biotin metabolic disease</li>
+<li>filariasis</li>
+<li>bile duct disease</li>
+<li>bile duct neoplasm</li>
+<li>tinea nigra</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbenoxolone/' | relative_url }}">查看完整藥物報告 →</a></p>

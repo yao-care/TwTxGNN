@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Amcinonide 的相關健康新聞報導。原適應症：皮膚炎群、皮膚搔癢症、癢疹群、蟲螫、濕疹、苔癬化型濕疹、尿布疹、牛皮癬、富貴手、苔癬、頑癬、紅皮症、...。預測適應症 8 個。"
 permalink: /news/amcinonide/
+last_modified_at: 2026-10-27
 ---
 
 # Amcinonide 相關新聞
@@ -27,14 +28,14 @@ permalink: /news/amcinonide/
 <li><strong>原適應症</strong>: 皮膚炎群、皮膚搔癢症、癢疹群、蟲螫、濕疹、苔癬化型濕疹、尿布疹、牛皮癬、富貴手、苔癬、頑癬、紅皮症、圓形脫毛症、日光皮膚炎、股癬、體癬等</li>
 <li><strong>證據等級</strong>: L2</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
-<li>vulvar inverted follicular keratosis (99.8%)</li>
-<li>annular atrophic lichen planus (99.7%)</li>
-<li>lichen planus pigmentosus (99.7%)</li>
-<li>hypertrophic lichen planus (99.7%)</li>
-<li>lichen planus pemphigoides (99.6%)</li>
-<li>primary cutaneous B-cell lymphoma (99.4%)</li>
-<li>dermatitis (99.3%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (99.0%)</li>
+<li>vulvar inverted follicular keratosis</li>
+<li>annular atrophic lichen planus</li>
+<li>lichen planus pigmentosus</li>
+<li>hypertrophic lichen planus</li>
+<li>lichen planus pemphigoides</li>
+<li>primary cutaneous B-cell lymphoma</li>
+<li>dermatitis</li>
+<li>2-hydroxyethyl methacrylate sensitization</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amcinonide/' | relative_url }}">查看完整藥物報告 →</a></p>

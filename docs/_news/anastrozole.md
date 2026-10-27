@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Anastrozole 的相關健康新聞報導。原適應症：治療停經後婦女晚期乳癌；輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌；輔助治療已使用 ta...。預測適應症 6 個。"
 permalink: /news/anastrozole/
+last_modified_at: 2026-10-27
 ---
 
 # Anastrozole 相關新聞
@@ -27,12 +28,12 @@ permalink: /news/anastrozole/
 <li><strong>原適應症</strong>: 治療停經後婦女晚期乳癌；輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌；輔助治療已使用 tamoxifen 2-3 年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌</li>
 <li><strong>證據等級</strong>: L1</li>
 <li><strong>預測適應症（6 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma (99.7%)<span class="indication-tag">📰 乳癌</span></li>
-<li>neuroblastoma (99.5%)</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction (99.4%)</li>
-<li>ganglioneuroblastoma (disease) (99.4%)</li>
-<li>retroperitoneal neoplasm (99.3%)</li>
-<li>monocytic leukemia (99.2%)</li>
+<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
+<li>neuroblastoma</li>
+<li>vertebral anomalies and variable endocrine and T-cell dysfunction</li>
+<li>ganglioneuroblastoma (disease)</li>
+<li>retroperitoneal neoplasm</li>
+<li>monocytic leukemia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>

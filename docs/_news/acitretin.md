@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acitretin 的相關健康新聞報導。原適應症：嚴重性牛皮癬、皮膚角化症。預測適應症 4 個。"
 permalink: /news/acitretin/
+last_modified_at: 2026-10-27
 ---
 
 # Acitretin 相關新聞
@@ -27,10 +28,10 @@ permalink: /news/acitretin/
 <li><strong>原適應症</strong>: 嚴重性牛皮癬、皮膚角化症</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
-<li>acne (disease) (99.9%)</li>
-<li>pediatric systemic lupus erythematosus (99.3%)</li>
-<li>fetal erythroblastosis (99.3%)</li>
-<li>familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome (99.1%)</li>
+<li>acne (disease)</li>
+<li>pediatric systemic lupus erythematosus</li>
+<li>fetal erythroblastosis</li>
+<li>familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acitretin/' | relative_url }}">查看完整藥物報告 →</a></p>

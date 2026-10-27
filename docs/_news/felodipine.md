@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Felodipine 的相關健康新聞報導。原適應症：高血壓、心絞痛。預測適應症 7 個。"
 permalink: /news/felodipine/
+last_modified_at: 2026-10-27
 ---
 
 # Felodipine 相關新聞
@@ -27,13 +28,13 @@ permalink: /news/felodipine/
 <li><strong>原適應症</strong>: 高血壓、心絞痛</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（7 個）</strong>:<ul>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>chronic pulmonary heart disease (99.2%)</li>
-<li>Prinzmetal angina (99.1%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism</li>
+<li>malignant renovascular hypertension</li>
+<li>malignant hypertensive renal disease</li>
+<li>Braddock syndrome</li>
+<li>chronic pulmonary heart disease</li>
+<li>Prinzmetal angina</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/felodipine/' | relative_url }}">查看完整藥物報告 →</a></p>

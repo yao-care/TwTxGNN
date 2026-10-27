@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Vinorelbine 的相關健康新聞報導。原適應症：非小細胞肺癌、轉移性乳癌。預測適應症 10 個。"
 permalink: /news/vinorelbine/
+last_modified_at: 2026-10-27
 ---
 
 # Vinorelbine 相關新聞
@@ -27,16 +28,16 @@ permalink: /news/vinorelbine/
 <li><strong>原適應症</strong>: 非小細胞肺癌、轉移性乳癌</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>Ewing sarcoma (100.0%)</li>
-<li>fibromatosis, gingival (100.0%)</li>
-<li>fibroma of lung (100.0%)</li>
-<li>lung germ cell tumor (100.0%)</li>
-<li>pulmonary sulcus neoplasm (100.0%)</li>
-<li>hamartoma of lung (100.0%)</li>
-<li class="indication-matched">small cell lung carcinoma (100.0%)<span class="indication-tag">📰 肺癌</span></li>
-<li>lung benign neoplasm (100.0%)</li>
-<li>lung hilum carcinoma (100.0%)</li>
-<li>pulmonary blastoma (100.0%)</li>
+<li>Ewing sarcoma</li>
+<li>fibromatosis, gingival</li>
+<li>fibroma of lung</li>
+<li>lung germ cell tumor</li>
+<li>pulmonary sulcus neoplasm</li>
+<li>hamartoma of lung</li>
+<li class="indication-matched">small cell lung carcinoma<span class="indication-tag">📰 肺癌</span></li>
+<li>lung benign neoplasm</li>
+<li>lung hilum carcinoma</li>
+<li>pulmonary blastoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vinorelbine/' | relative_url }}">查看完整藥物報告 →</a></p>

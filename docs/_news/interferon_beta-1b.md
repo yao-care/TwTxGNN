@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Interferon beta-1b 的相關健康新聞報導。原適應症：降低反覆發作型多發性硬化症的發作頻率及嚴重度；降低續發型多發性硬化症復發的頻率及嚴重度；延緩單一臨床...。預測適應症 2 個。"
 permalink: /news/interferon_beta-1b/
+last_modified_at: 2026-10-27
 ---
 
 # Interferon beta-1b 相關新聞
@@ -27,8 +28,8 @@ permalink: /news/interferon_beta-1b/
 <li><strong>原適應症</strong>: 降低反覆發作型多發性硬化症的發作頻率及嚴重度；降低續發型多發性硬化症復發的頻率及嚴重度；延緩單一臨床症狀（疑似多發性硬化症）病患惡化成多發性硬化症</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
-<li>hairy cell leukemia (99.2%)</li>
-<li>autoimmune disease of central nervous system (99.0%)</li>
+<li>hairy cell leukemia</li>
+<li>autoimmune disease of central nervous system</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/interferon-beta-1b/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acebutolol 的相關健康新聞報導。原適應症：高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）。預測適應症 2 個。"
 permalink: /news/acebutolol/
+last_modified_at: 2026-10-27
 ---
 
 # Acebutolol 相關新聞
@@ -27,8 +28,8 @@ permalink: /news/acebutolol/
 <li><strong>原適應症</strong>: 高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（2 個）</strong>:<ul>
-<li>malignant hypertensive renal disease (99.1%)</li>
-<li>malignant renovascular hypertension (99.1%)</li>
+<li>malignant hypertensive renal disease</li>
+<li>malignant renovascular hypertension</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -5,6 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cefmetazole 的相關健康新聞報導。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症。預測適應症 9 個。"
 permalink: /news/cefmetazole/
+last_modified_at: 2026-10-27
 ---
 
 # Cefmetazole 相關新聞
@@ -27,15 +28,15 @@ permalink: /news/cefmetazole/
 <li><strong>原適應症</strong>: 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症</li>
 <li><strong>證據等級</strong>: L4</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
-<li>hyperamylasemia (99.5%)</li>
-<li>polyclonal hyperviscosity syndrome (99.5%)</li>
-<li>congenital analbuminemia (99.5%)</li>
-<li>blood group incompatibility (99.2%)</li>
-<li>gonococcal urethritis (99.2%)</li>
-<li>Ureaplasma urethritis (99.2%)</li>
-<li>premalignant hematological system disease (99.1%)</li>
-<li>monoclonal gammopathy (99.1%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.0%)</li>
+<li>hyperamylasemia</li>
+<li>polyclonal hyperviscosity syndrome</li>
+<li>congenital analbuminemia</li>
+<li>blood group incompatibility</li>
+<li>gonococcal urethritis</li>
+<li>Ureaplasma urethritis</li>
+<li>premalignant hematological system disease</li>
+<li>monoclonal gammopathy</li>
+<li>hematological disease associated with an acquired peripheral neuropathy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
