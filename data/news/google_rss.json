@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-27T05:58:15.595473+00:00",
-  "count": 46,
+  "fetched_at": "2026-10-27T07:04:16.357538+00:00",
+  "count": 47,
   "news": [
     {
       "id": "4a2e648d65b8",
@@ -52,14 +52,14 @@
       ]
     },
     {
-      "id": "7bafa9cdca32",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 健康醫療網",
-      "published": "2026-10-27T01:00:00+00:00",
-      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;健康醫療網",
+      "id": "d8a0bd196c29",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 草根影響力新視野",
+      "published": "2026-10-27T04:03:34+00:00",
+      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5"
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
         }
       ]
     },
@@ -72,6 +72,18 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6338d78bc45e",
+      "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種 - 新住民全球新聞網",
+      "published": "2026-10-26T01:05:00+00:00",
+      "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "sources": [
+        {
+          "name": "新住民全球新聞網",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
         }
       ]
     },
@@ -340,18 +352,6 @@
       ]
     },
     {
-      "id": "ca027ca5a83a",
-      "title": "封面故事／共餐不用公筷 華人胃癌大增 - 世界新聞網",
-      "published": "2026-10-25T21:19:00+00:00",
-      "summary": "封面故事／共餐不用公筷 華人胃癌大增&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c9fe37dc3e5b",
       "title": "醫生列1款罐頭降糖尿風險30%！營養師同推隨時好過新鮮食材／每周1次就有效 - U Food",
       "published": "2026-10-26T10:06:44+00:00",
@@ -360,6 +360,18 @@
         {
           "name": "U Food",
           "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNWUFDLUVoQm91TTByWXBNcEo1MFRZLWpmTEtBdDdlZ2g4M056TlZST1Y0Vmc1Rjh1bkFsbXY5OGFvMG1Mb0Y1Ynl3X216T0hDZFdnQ0hiaklfWDRLZzg5NmVRaE5WVi1WLTNGV0EtckR3Vk9zcWNzOUtiTkRVLU9memlaUG5TeUg1aDhyYWVhOFVpMnBZN3BRTkFsNW03SWtzdV85elZIZWNWN1Rwdm1mSUFvRXlaRkdUNk02RVItVkpuQ0RDWlhsNVNxRWxsZ0lwdEl2eGtPQzZRZHBVVnI3Vm1HVVpnUFBqOWZjdnpJdFh1enJsSkdzazVkY0xZaGlaS1o1OE9mYVVZbW1tVElvQU1Wdk9FT1FmUVpJYkZyUkdEZVJwbTBnd2QtOGVySWZFVWRjaC02ZWJRVTkwcHpxa0RPd1dULWdvejZZcDVZZkVadGFreGNnbmZxVnZYNHZESl9FX21QMnlYU3M4X0t1OWVoU2k4SnBaS2tiVXVrWU02UTFEeHhmSnA2OGNwaGNIQjdUcnVVd3pNVmNWZURWa0R0X0hYN0F3NE1sLWx5T25TNnpOYWNTVnZtU3lMYzhVeWNUdFExMW8yNkZTS3hELQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca027ca5a83a",
+      "title": "封面故事／共餐不用公筷 華人胃癌大增 - 世界新聞網",
+      "published": "2026-10-25T21:19:00+00:00",
+      "summary": "封面故事／共餐不用公筷 華人胃癌大增&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
         }
       ]
     },

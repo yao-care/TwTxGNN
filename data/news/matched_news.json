@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-10-27T05:58:17.509747+00:00",
-  "total_count": 46,
+  "last_updated": "2026-10-27T07:04:18.707790+00:00",
+  "total_count": 47,
   "matched_count": 16,
   "news": [
+    {
+      "id": "d8a0bd196c29",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
+      "published": "2026-10-27T04:03:34+00:00",
+      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1758ce779d8e",
       "title": "一堆肝癌病友都說別吃！專家曝1物易藏毒素100度高溫殺不死- 健康",
@@ -337,32 +363,6 @@
       ]
     },
     {
-      "id": "7bafa9cdca32",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
-      "published": "2026-10-27T01:00:00+00:00",
-      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "肝硬化",
-          "keyword": "肝硬化",
-          "related_drugs": [
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "0057a723af4f",
       "title": "破解「殭屍細胞」隱身術，小鼠發炎與代謝功能大幅改善 - TechNews 科技新報",
       "published": "2026-10-27T00:26:39+00:00",
@@ -475,6 +475,19 @@
         {
           "name": "東方新地",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTk5fREJITkc3N040eHpWM1FwZWFxLXBiNmtmUkloVGdTMTBJRG9VWjBvVE5Od2kzOHhjb3FQbUtySHZXWThMMDhINUhuSjEtNWZJU0h2Unh2M2w3eXJnbHlXUlZjbE5iUm54clBxazFmNW1fRWNqWUJRbi05VmpKWWFQYVhTRklUcl9nS3dkYUxkU0xWUXNkeWZIQkM2bzFlU000WjROVkxXbFBfY2JMeVVFakpVb01nd2VNdWFuUXhQRVRlUUdnOXhxQTI1ZVpERXk1R21wZHpWSThrblJfcWpDekQ3b212dUUybC1DRjlKOXFadFBIZC1SWVNXNGNDRmhwQUkybXd3YVVXenNySG9Wcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6338d78bc45e",
+      "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種",
+      "published": "2026-10-26T01:05:00+00:00",
+      "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "sources": [
+        {
+          "name": "新住民全球新聞網",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
         }
       ],
       "matched_keywords": []
