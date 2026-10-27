@@ -14,7 +14,7 @@ permalink: /news/dehydrocholic_acid/
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ permalink: /news/dehydrocholic_acid/
 <p><a href="{{ '/drugs/dehydrocholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護](https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5)
+
+2026-10-27 <span class="news-indication-tag">肝硬化</span>
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5)
+
+---
 
 ### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5)
 
