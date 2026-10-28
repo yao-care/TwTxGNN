@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 <!-- review:begin povidone-iodine-indications-summary-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「Povidone（聚維酮碘）是外用局部消毒殺菌劑，原本用於傷口、皮膚、口腔及手術前消毒。」。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「Povidone（聚維酮碘）是外用局部消毒殺菌劑，原本用於傷口、皮膚、口腔及手術前消毒。」。TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end povidone-iodine-indications-summary-2026-10-16 -->
 
@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 <!-- review:begin povidone-iodine-indications-row-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「原適應症／殺菌劑」。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「原適應症／殺菌劑」。TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end povidone-iodine-indications-row-2026-10-16 -->
 
@@ -72,7 +72,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 <!-- review:begin povidone-iodine-indications-why-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「Povidone 是含碘的外用消毒劑，一般認為其透過釋出游離碘殺滅微生物。」。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「Povidone 是含碘的外用消毒劑，一般認為其透過釋出游離碘殺滅微生物。」。TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end povidone-iodine-indications-why-2026-10-16 -->
 
@@ -130,7 +130,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 <!-- review:begin povidone-iodine-indications-conclusion-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「Povidone 原為外用消毒劑，用於此遺傳性皮膚病缺乏合理依據。」。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-10-16）**：原寫「Povidone 原為外用消毒劑，用於此遺傳性皮膚病缺乏合理依據。」。TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end povidone-iodine-indications-conclusion-2026-10-16 -->
 

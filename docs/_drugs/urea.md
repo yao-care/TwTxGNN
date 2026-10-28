@@ -47,12 +47,6 @@ evidence_level: N/A
 | 台灣上市狀態 | 上市中（有效許可證 42 張／共 80 張） |
 | 許可證數 | 80 張（有效單方 18／有效複方 24／已過期 3／已註銷 35） |
 
-<!-- review:begin urea-tw-status-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「台灣上市狀態／多為已註銷；少數含 urea 衍生物藥品有效」。TFDA 資料集中主成分含 urea 的許可證 70 張，其中 43 張未註銷，多為去角質用尿素乳膏；頁面所說的「urea 衍生物」DPP-4 抑制劑並不含 urea。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end urea-tw-status-2026-10-03 -->
-
 ---
 
 ## 台灣上市資訊
@@ -202,6 +196,17 @@ evidence_level: N/A
 *報告產生日期：2026-02-11*
 
 <!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-10-03 | 備註「現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑」 | 更正 | [NLM MeSH：Vildagliptin（D000077597）](https://meshb.nlm.nih.gov/record/ui?ui=D000077597)；[NLM MeSH：Sitagliptin Phosphate（D000068900）](https://meshb.nlm.nih.gov/record/ui?ui=D000068900)；[NLM MeSH：Linagliptin（D000069476）](https://meshb.nlm.nih.gov/record/ui?ui=D000069476)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 快速總覽「多為已註銷；少數含 urea 衍生物藥品有效」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 
