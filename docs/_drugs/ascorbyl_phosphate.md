@@ -6,7 +6,7 @@ nav_order: 31
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Ascorbyl phosphate"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "acne (disease)", "diabetic retinopathy", "bronchitis", "influenza", "lumbar spinal stenosis", "pudendal neuralgia", "urethral disease", "celiac trunk compression syndrome", "abdominal cystic lymphangioma"]
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "acne (disease)", "diabetic retinopathy", "bronchitis", "influenza", "lumbar spinal stenosis", "pudendal neuralgia", "urethral disease", "abdominal cystic lymphangioma", "celiac trunk compression syndrome"]
 last_modified_at: 2026-10-16
 description: "Ascorbyl Phosphate：預測新適應症為嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)（證據等級 L5）。原適應症：暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢"
 ---
@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 |------|------|
 | 原適應症 | 暫時緩解因輕微眼部刺激所引起之不適或眼睛紅、眼睛疲勞、眼睛癢（來源為複方許可證，台灣無有效單方許可證） |
 | 預測新適應症 | 嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy) |
-| TxGNN 預測分數 | 99.65% |
+| TxGNN 預測分數 | 0.9965 |
 | 證據等級 | L5 |
 | 台灣上市 | 僅有已註銷許可證（目前無有效上市） |
 | 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |

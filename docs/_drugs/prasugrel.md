@@ -4,9 +4,9 @@ title: Prasugrel
 parent: 僅模型預測 (L5)
 nav_order: 228
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Prasugrel"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 last_modified_at: 2026-10-16
 description: "Prasugrel：預測新適應症為肺高壓 (Pulmonary Hypertension)（證據等級 L5）。原適應症：需要冠狀動脈介入性治療(PCI)的急性冠狀動脈症候群(ACS"
 ---
@@ -14,7 +14,7 @@ description: "Prasugrel：預測新適應症為肺高壓 (Pulmonary Hypertension
 # Prasugrel
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ TxGNN 模型預測它可能對**肺高壓 (Pulmonary Hypertension)** 有效，�
 |------|------|
 | 原適應症 | 需要冠狀動脈介入性治療(PCI)的急性冠狀動脈症候群(ACS；不穩定型心絞痛、非ST段上升之心肌梗塞或ST段上升之心肌梗塞) |
 | 預測新適應症 | 肺高壓 (Pulmonary Hypertension) |
-| TxGNN 預測分數 | 99.88% |
+| TxGNN 預測分數 | 0.9988 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 5 張） |
 | 許可證數 | 5 張（有效單方 5／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -129,7 +129,7 @@ TxGNN 模型預測它可能對**肺高壓 (Pulmonary Hypertension)** 有效，�
 - 針對肺高壓族群評估出血風險與效益
 - 若前臨床結果正向，再設計小規模探索性臨床試驗
 
-**補充說明：** 同一份資料中，**偏頭痛 (migraine disorder)**（TxGNN 分數 99.88%）的證據相對較多，包括 1 項招募中的 Phase 3 試驗（NCT07629635，為 PFO 導向治療）及 2 篇 thienopyridine/ticagrelor 於合併 PFO 偏頭痛的小型研究，證據等級 L3，建議列為後續研究問題，優先於肺高壓評估。
+**補充說明：** 同一份資料中，**偏頭痛 (migraine disorder)**（TxGNN 分數 0.9988）的證據相對較多，包括 1 項招募中的 Phase 3 試驗（NCT07629635，為 PFO 導向治療）及 2 篇 thienopyridine/ticagrelor 於合併 PFO 偏頭痛的小型研究，證據等級 L3，建議列為後續研究問題，優先於肺高壓評估。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

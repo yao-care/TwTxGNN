@@ -4,17 +4,17 @@ title: Benazepril
 parent: 僅模型預測 (L5)
 nav_order: 41
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-16
-description: "Benazepril：預測新適應症為惡性腎血管性高血壓 (Malignant Renovascular Hypertension)（證據等級 L5）。原適應症：高血壓"
+indication_count: 4
 monitor_inn: "Benazepril"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Benazepril：預測新適應症為惡性高血壓腎病 (malignant hypertensive renal disease)（證據等級 L5）。原適應症：治療高血壓，此複方藥品不適合用於起始治療"
 ---
 
 # Benazepril
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,43 +33,34 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## Benazepril：從高血壓到惡性腎血管性高血壓
+## Benazepril：血管收縮素轉化酶抑制劑 → 惡性高血壓腎病 (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Benazepril（貝那普利）是一種血管收縮素轉化酶（ACE）抑制劑，原本用於治療高血壓。
-TxGNN 模型預測它可能對**惡性腎血管性高血壓 (Malignant Renovascular Hypertension)** 有效，
-但目前**沒有臨床試驗**，也沒有直接相關的文獻支持，證據僅來自模型預測。
+Benazepril 是一種血管收縮素轉化酶（ACE）抑制劑。
+TxGNN 模型預測它可能對**惡性高血壓腎病 (malignant hypertensive renal disease)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 高血壓 |
-| 預測新適應症 | 惡性腎血管性高血壓 (Malignant Renovascular Hypertension) |
-| TxGNN 預測分數 | 99.65% |
+| 原適應症 | 治療高血壓，此複方藥品不適合用於起始治療; 治療高血壓，此複方藥品不適合用於起始治療。; 高血壓。; 血管收縮素轉化每抑制劑; 治療高血壓。此複方藥品不適合用於起始治療。 |
+| 預測新適應症 | 惡性高血壓腎病 (malignant hypertensive renal disease) |
+| TxGNN 預測分數 | 0.9965 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 8 張） |
 | 許可證數 | 8 張（有效單方 1／有效複方 4／已註銷 3） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Benazepril 屬於 ACE 抑制劑類藥物，在高血壓的療效已被證實。ACE 抑制劑可降低血管收縮素 II 與醛固酮，理論上與腎素依賴性的腎血管性高血壓相符。
+目前缺乏詳細的作用機轉資料。根據已知藥理常識，Benazepril 屬於 ACE 抑制劑，可降低血管收縮素 II 的生成。
 
-原適應症（高血壓）與預測的新適應症（惡性腎血管性高血壓）同屬高血壓範疇，差別在於後者由腎動脈狹窄等腎血管病變引起，且病程進展快速、較嚴重。腎臟灌流下降會啟動腎素—血管收縮素系統，因此阻斷此路徑在機轉上有合理性。
+血管收縮素 II 會收縮腎臟的出球小動脈、提高腎絲球內壓力。抑制 ACE 後，理論上可降低腎絲球內壓並減輕高血壓造成的腎臟損傷，因此在機轉上對高血壓相關腎病具有合理性。
 
-不過，這項推論僅建立在藥理學上的合理推測與模型預測上，目前沒有試驗或文獻直接驗證。另外，ACE 抑制劑用於腎血管性高血壓時（特別是雙側腎動脈狹窄）可能影響腎功能，需特別謹慎。
-
-**其他預測適應症（皆為 L5、建議 Hold）：**
-
-| 排名 | 預測適應症 | 預測分數 | 備註 |
-|------|-----------|---------|------|
-| 2 | 惡性高血壓性腎病 (Malignant Hypertensive Renal Disease) | 99.65% | 機轉上合理（降低腎絲球內壓），但無試驗與文獻 |
-| 3 | 機轉不明的多因素肺高壓 | 99.60% | 僅間接關聯，未經證實 |
-| 4 | 肺疾病和/或缺氧所致肺高壓 | 99.60% | 檢索到的 3 篇文獻為中藥複方的動物實驗，並未測試 Benazepril 或肺高壓，無直接證據 |
-| 5 | Braddock 症候群 | 99.44% | 無法建立機轉關聯，信心低 |
+不過，本報告所整理的資料中並無針對此疾病的臨床試驗或文獻，這個推論目前僅屬機轉上的推測，並未獲得實際研究驗證。
 
 ## 臨床試驗證據
 
@@ -77,9 +68,7 @@ TxGNN 模型預測它可能對**惡性腎血管性高血壓 (Malignant Renovascu
 
 ## 文獻證據
 
-目前無直接相關文獻。
-
-（備註：針對排名第 4 的預測適應症，雖檢索到 3 篇文獻，但皆為中藥複方在腎纖維化或心肌纖維化的動物實驗，並未研究 Benazepril 或肺高壓，因此不列為本預測的證據。）
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -113,30 +102,27 @@ TxGNN 模型預測它可能對**惡性腎血管性高血壓 (Malignant Renovascu
 
 ## 安全性考量
 
-- **知識圖譜標示的禁忌疾病**（來自 TxGNN 知識圖譜的藥物—疾病關聯，非仿單文字）：包括血管性水腫（含遺傳性及 ACE 抑制劑誘發型）、腎臟疾病、肝衰竭與肝病、無尿症、低血壓、胰臟炎、糖尿病酮酸中毒、嗜中性白血球低下與顆粒球缺乏症、全身性紅斑性狼瘡、結締組織疾病、低血鉀、副甲狀腺機能亢進、新生兒黃疸等。實際禁忌請以原廠仿單為準。
-- **藥物交互作用**：共查得 169 筆交互作用，已列出者多為中度等級，主要涉及降血糖藥物，例如：
-  - 胰島素類（human、aspart、degludec、detemir、glargine、glulisine、lispro 等）
-  - 磺醯脲類（glimepiride、glipizide、glyburide、chlorpropamide、acetohexamide）
-  - 其他降血糖藥（alogliptin、dapagliflozin、exenatide）
-  - 其他：hydrocortisone、glycerin
+- **藥物交互作用**：本報告資料共彙整 169 筆交互作用，以下為部分中度等級項目，主要涉及降血糖藥物，合併使用時需留意血糖變化：
+  - 胰島素類（人胰島素、insulin aspart、degludec、detemir、glargine、glulisine、lispro 等）
+  - 磺醯脲類（Acetohexamide、Chlorpropamide、Glimepiride、Glipizide、Glyburide）
+  - 其他降血糖藥（Alogliptin、Dapagliflozin、Exenatide）
+  - 其他：Hydrocortisone、Glycerin
 
-  合併使用時建議監測血糖與血壓。
-
-其他警語與禁忌症的仿單資訊，請參考原廠仿單。
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.65%），但沒有任何臨床試驗或直接文獻支持，證據等級為 L5，僅有模型預測與藥理推論。
-- 原始作用機轉資料缺漏，且 ACE 抑制劑用於腎血管性高血壓有腎功能風險，需先釐清再推進。
+- 此預測僅來自模型分數，沒有任何臨床試驗或文獻直接研究 Benazepril 用於惡性高血壓腎病，證據等級為 L5。
+- 機轉上雖然合理，但尚無實際研究佐證，不宜直接推進。
 
 **若要推進需要：**
-- 補齊 Benazepril 的作用機轉資料（如透過 DrugBank 查詢）
-- 針對 ACE 抑制劑用於（惡性）腎血管性高血壓的臨床試驗、治療指引與系統性回顧進行文獻檢索
-- 評估雙側腎動脈狹窄或單一腎病患者的腎功能與高血鉀風險，並制定監測方案
-- 確認此適應症與台灣現行核准「高血壓」適應症的差異，以及是否需要新增適應症申請
+- 搜尋並評估 ACE 抑制劑用於惡性高血壓腎病的臨床及觀察性研究
+- 取得 Benazepril 詳細的作用機轉資料
+- 確認腎功能不全族群的安全性與劑量調整，並設計監測計畫（腎功能、血鉀、血壓）
+- 若有前期證據，再規劃小型探索性臨床研究
 
 <!-- review:begin log -->
 

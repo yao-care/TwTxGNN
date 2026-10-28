@@ -4,17 +4,17 @@ title: Minoxidil
 parent: 中證據等級 (L3-L4)
 nav_order: 182
 evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-16
-description: "Minoxidil：預測新適應症為單純性頭皮毛髮稀少症 (Hypotrichosis simplex of the scalp)（證據等級 L4）。原適應症：治療女性雄激素性落髮"
+indication_count: 10
 monitor_inn: "minoxidil"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with schistosomiasis"]
+last_modified_at: 2026-10-27
+description: "Minoxidil：預測新適應症為頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)（證據等級 L4）。原適應症：雄激素禿髮（ＡＬＯＰＥＣＩＡ ＡＮＤＲＯＧＥＮＥＴＩＣＡ）"
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **3** 個
+證據等級: **L4** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,34 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-## Minoxidil：從雄激素性禿髮到單純性頭皮毛髮稀少症
+## Minoxidil：降血壓與外用生髮藥物 → 頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## 一句話總結
 
-Minoxidil 原本在台灣核准用於雄激素性禿髮（外用）與高血壓（口服／原料粉）。
-TxGNN 模型預測它可能對**單純性頭皮毛髮稀少症 (Hypotrichosis simplex of the scalp)** 有效，
-目前**無臨床試驗登記**，但有 **3 篇相關文獻**（皆為病例報告／病例系列）支持這個方向。
+Minoxidil 是 ATP 敏感性鉀離子通道開啟劑，具血管擴張作用，在台灣有口服與外用多種劑型。
+TxGNN 模型預測它可能對**頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)** 有效，
+目前**無臨床試驗登記**，但有 **3 篇文獻**（皆為個案報告或病例系列）支持這個方向。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療女性雄激素性落髮 |
-| 預測新適應症 | 單純性頭皮毛髮稀少症 (Hypotrichosis simplex of the scalp) |
-| TxGNN 預測分數 | 99.99% |
+| 原適應症 | 雄激素禿髮（ＡＬＯＰＥＣＩＡ　ＡＮＤＲＯＧＥＮＥＴＩＣＡ）; 雄激素性禿髮; 雄激素性禿髮。; 雄激素禿髮。; 雄激素性禿髮（ＡＬＯＰＥＣＩＡ　ＡＮＤＲＯＧＥＮＥＴＩＣＡ）; 雄激素性禿髮　（ＡＬＯＰＥＣＩＡ　ＡＮＤＲＯＧＥＮＥＴＩＣＡ）。; 雄激素性禿頭。; 雄激素性禿髮 (ALOPECIA ANDROGENETICA); 雄激素性禿髮(Alopecia Androgenetica); 嚴重高血壓; 降血壓劑; 雄激素性秃髮。; 降血壓劑。; 治療女性雄激素性落髮。; 降血壓藥; 抗高血壓劑; 雄激素性禿髮(Alopecia Androgenetica)。; 治療嚴重性高血壓、適用於全身性高 |
+| 預測新適應症 | 頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp) |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 59 張／共 100 張） |
 | 許可證數 | 100 張（有效單方 59／有效複方 0／已註銷 41） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知藥理，minoxidil 可開啟 ATP 敏感性鉀離子通道，使毛囊周圍血管擴張並延長毛髮生長期（anagen），這是其用於雄激素性禿髮的基礎。
+目前缺乏詳細的作用機轉資料。根據已知資訊，minoxidil 的活性代謝物 minoxidil sulfate 可開啟 ATP 敏感性鉀離子通道，被認為能促進毛囊周邊血管擴張、延長生長期，並可能與 VEGF 相關的刺激作用有關。
 
-單純性頭皮毛髮稀少症是罕見的遺傳性毛髮疾病，與 *CDSN* 基因變異（編碼角質橋粒蛋白）有關，特徵是毛囊萎縮、毛髮密度與長度不足。雄激素性禿髮同樣是毛囊微小化的問題，因此促進毛囊生長的藥物在機轉上可能有幫助。不過這個推論建立在既有藥理知識上，並非直接的機轉證據，也尚無對照試驗證實對此遺傳性疾病有效。
+遺傳性頭皮單純性毛髮稀少症是罕見的單基因顯性遺傳疾病（文獻中的病例與 CDSN 基因變異有關），主要表現為毛髮的生長與密度不足，目前缺乏明確有效的治療。Minoxidil 促進毛髮生長的作用，在機轉上可能部分改善毛囊微小化的情形。
+
+不過，現有支持都來自小型個案報告，且多使用合併療法（口服 minoxidil 加生長因子、PRP、植物萃取物），無法區分 minoxidil 單獨的貢獻。
 
 ## 臨床試驗證據
 
@@ -68,11 +70,9 @@ TxGNN 模型預測它可能對**單純性頭皮毛髮稀少症 (Hypotrichosis si
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | 病例系列 | Dermatologic Therapy | 以口服 minoxidil 合併生長因子治療遺傳性單純性頭皮毛髮稀少症（無摘要可供詳述） |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | 病例報告 | Frontiers in Genetics | 一名 8 歲 *CDSN* 突變男童，以植物萃取物合併 minoxidil 治療；該疾病目前缺乏明確有效的治療 |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | 病例報告 | J Dermatol Treat | 14 歲患者以富血小板血漿注射合併外用 2% minoxidil，報告為成功治療 |
-
-以上文獻皆為小規模病例報告，且多為合併療法，無法單獨歸因於 minoxidil 的療效。
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | 病例系列 | Dermatologic Therapy | 以口服 minoxidil 合併生長因子治療遺傳性頭皮單純性毛髮稀少症 |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | 病例報告 | Frontiers in Genetics | 一名 8 歲 CDSN 突變男童，以植物萃取物合併 minoxidil 治療 |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | 病例報告 | J Dermatol Treat | 一名 14 歲患者以 PRP 注射合併外用 2% minoxidil 治療，報告治療成功 |
 
 ## 台灣上市資訊
 
@@ -94,28 +94,21 @@ TxGNN 模型預測它可能對**單純性頭皮毛髮稀少症 (Hypotrichosis si
 
 ## 安全性考量
 
-- **藥物交互作用**：共查得 275 筆潛在交互作用，主要為中度，例如：
-  - 皮質類固醇（hydrocortisone、prednisone、dexamethasone、betamethasone、triamcinolone、budesonide、prednisolone）
-  - bupropion、morphine、opium
-  - SGLT2 抑制劑（canagliflozin、dapagliflozin、empagliflozin、ertugliflozin）
-  - dronabinol、nabilone、sapropterin
-- **知識圖譜標示的潛在禁忌疾病**（來自知識圖譜關聯，非仿單內容）：腎臟疾病、姿勢性低血壓／姿勢性心搏過速症候群、心肌梗塞、腦中風與腦血管疾病、心臟與心血管疾病、嗜鉻細胞瘤、心包膜積液與心包填塞、頭皮皮膚病變等。
-
-其餘警語與禁忌請參考原廠仿單。口服劑型（降血壓用途）的心血管風險遠高於外用，使用劑型與劑量需謹慎區分。
+- **藥物交互作用**：資料庫共記錄 275 項交互作用，其中中度者包括 hydrocortisone、bupropion、triamcinolone、morphine、dexamethasone、betamethasone、budesonide、prednisolone、prednisone，以及 SGLT2 抑制劑（canagliflozin、dapagliflozin、empagliflozin、ertugliflozin）等。
+- 其他警語與禁忌請參考原廠仿單。口服劑型具降血壓作用，心血管疾病、嗜鉻細胞瘤、心包膜積液等族群須特別留意。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 模型分數雖高，但目前無臨床試驗，僅有 3 篇病例報告／病例系列，且多為合併療法，證據層級為 L4。
-- 此疾病罕見且為遺傳性，口服劑型又有心血管安全疑慮，在缺乏對照證據前不宜推進。
+- 僅有 3 篇小型個案報告或病例系列，且皆為合併療法，無法確認 minoxidil 單獨的療效，也沒有任何登記中的臨床試驗。
+- 依證據等級規則，直接研究該疾病的僅有個案層級報告，目前定位為研究假說。
 
 **若要推進需要：**
-- 補充詳細的作用機轉資料（MOA），釐清 minoxidil 與 *CDSN* 相關毛囊病理的關聯
-- 收集更多單獨使用 minoxidil 的病例資料，或設計小型對照研究
-- 比較外用與口服劑型的療效與安全性，特別是兒童與心血管風險族群
-- 確認劑型選擇與台灣核准適應症外使用的法規評估
+- 設計以 minoxidil 單藥對照的小型前瞻性研究或 N-of-1 試驗
+- 針對兒童與青少年族群，建立口服與外用劑型的劑量及安全性監測計畫
+- 補充詳細的作用機轉資料，並評估與常用藥物的交互作用
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

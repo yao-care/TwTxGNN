@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Desogestrel
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 83
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Desogestrel"
-predicted_indications: ["amenorrhea (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
+predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
 last_modified_at: 2026-10-16
 description: "Desogestrel：預測新適應症為閉經 (Amenorrhea)（證據等級 L3）。原適應症：避孕"
 ---
@@ -14,7 +14,7 @@ description: "Desogestrel：預測新適應症為閉經 (Amenorrhea)（證據等
 # Desogestrel
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 |------|------|
 | 原適應症 | 避孕（台灣目前無單方有效許可證，以複方許可證的核准適應症為準） |
 | 預測新適應症 | 閉經 (Amenorrhea) |
-| TxGNN 預測分數 | 99.96% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9996 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 9 張） |
 | 許可證數 | 9 張（有效單方 0／有效複方 5／已過期 1／已註銷 3） |
 | 建議決策 | Hold |
 

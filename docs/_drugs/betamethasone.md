@@ -4,7 +4,7 @@ title: Betamethasone
 parent: 高證據等級 (L1-L2)
 nav_order: 44
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-16
 description: "Betamethasone：預測新適應症為斑禿 (Alopecia Areata)（證據等級 L2）。原適應症：原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹"
 monitor_inn: "Betamethasone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Betamethasone
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 |------|------|
 | 原適應症 | 原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹 |
 | 預測新適應症 | 斑禿 (Alopecia Areata) |
-| TxGNN 預測分數 | 99.97% |
+| TxGNN 預測分數 | 0.9997 |
 | 證據等級 | L2 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 276 張／共 605 張） |
 | 許可證數 | 605 張（有效單方 103／有效複方 173／已過期 14／已註銷 315） |
 | 建議決策 | Proceed with Guardrails |
 

@@ -6,7 +6,7 @@ nav_order: 259
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Sodium acetate"
-predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
+predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "gonococcal urethritis", "Ureaplasma urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
 last_modified_at: 2026-10-16
 description: "Sodium Acetate：預測新適應症為先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)（證據等級 L5）。原適應症：血液透析藥"
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**先天性凝血酶原缺乏症 (Congenital Proth
 |------|------|
 | 原適應症 | 血液透析藥 |
 | 預測新適應症 | 先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency) |
-| TxGNN 預測分數 | 99.98% |
+| TxGNN 預測分數 | 0.9998 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 71 張／共 196 張） |
 | 許可證數 | 196 張（有效單方 5／有效複方 66／已註銷 125） |
 | 建議決策 | Hold |
 

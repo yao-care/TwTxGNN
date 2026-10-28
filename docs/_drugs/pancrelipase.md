@@ -6,9 +6,9 @@ nav_order: 206
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Pancrelipase"
-predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices with bleeding", "esophageal varices without bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
-last_modified_at: 2026-10-16
-description: "Pancrelipase：預測新適應症為核 DNA 異常所致粒線體氧化磷酸化疾患 (mitochondrial oxidative phosphorylation disorde…（證據等級 L5）。原適應症：目前台灣有效許可證皆為複方，無有效的單方許可證"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices without bleeding", "esophageal varices with bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
+last_modified_at: 2026-10-27
+description: "Pancrelipase：預測新適應症為核 DNA 異常所致粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)（證據等級 L5）。原適應症：解脂"
 ---
 
 # Pancrelipase
@@ -33,35 +33,34 @@ description: "Pancrelipase：預測新適應症為核 DNA 異常所致粒線體�
 
 </div>
 
-## Pancrelipase：從外分泌胰臟功能不全到粒線體氧化磷酸化疾患（模型預測，證據極弱）
+## Pancrelipase：胰臟消化酵素補充劑 → 核 DNA 異常所致粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)
 {: .text-alpha }
 
 ## 一句話總結
 
-Pancrelipase（胰脂酵素）是外源性胰臟消化酵素混合物（脂解酶、蛋白酶、澱粉酶），原本用於胰液分泌不全與消化不良。
-TxGNN 模型預測它可能對**核 DNA 異常所致粒線體氧化磷酸化疾患 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)** 有效，但目前**沒有任何臨床試驗與文獻**支持，機轉上也無合理連結，僅屬模型預測。
+Pancrelipase（胰脂酵素）是含脂肪酶、蛋白酶與澱粉酶的外源性胰臟酵素混合物，作用於腸道內以補充消化功能。
+TxGNN 模型預測它可能對**核 DNA 異常所致粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持這個方向，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 目前台灣有效許可證皆為複方，無有效的單方許可證；已註銷的單方許可證適應症為「外分泌胰臟缺乏症及相關症狀緩解（膽囊纖維變性、慢性胰臟炎、胰臟切除後、胃腸旁通手術後、腫瘤引起之胰臟或膽管阻塞）」、「解脂」 |
-| 預測新適應症 | 核 DNA 異常所致粒線體氧化磷酸化疾患 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
-| TxGNN 預測分數 | 99.99% |
+| 原適應症 | 解脂; 外分泌胰？缺乏症及下列症狀之緩解：膽囊纖維變性、慢性胰臟炎、胰臟切除後、胃腸旁通手術後、如ＢＩＬＬＲＯＴＨＩＩ氏胃腸造口吻合術、因贅生物引起之胰臟或膽管阻塞; 蛋白分解酵素。; 囊腫性纖維化疾病、慢性胰臟炎、胰臟切除、胃腸繞道手術及因腫瘤引發胰管式膽管阻塞等疾病所導致的胰液分泌不全。; 幫助消化。; 鼓腸、消化不良、脂肪痢; 消化不良、蛋白、脂肪、澱粉等消化不良）; 消化脂肪、蛋白及澱粉; 消化不良（蛋白、脂肪、澱粉等消化不良） |
+| 預測新適應症 | 核 DNA 異常所致粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
+| TxGNN 預測分數 | 0.9999 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 10 張） |
 | 許可證數 | 10 張（有效單方 0／有效複方 2／已註銷 8） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Pancrelipase 是外源性胰臟酵素補充劑，作用於腸腔內，協助分解脂肪、蛋白質與澱粉，用於改善胰液分泌不全所致的消化吸收不良。
+目前缺乏詳細的作用機轉資料。已知 Pancrelipase 是外源性胰臟酵素混合物（脂肪酶、蛋白酶、澱粉酶），作用部位在腸腔，用於補充消化酵素。
 
-核 DNA 異常所致的粒線體氧化磷酸化疾患，病因在於細胞內呼吸鏈功能缺陷。Pancrelipase 不進入細胞，也不作用於粒線體，兩者之間找不到可信的機轉連結。
+核 DNA 異常所致的粒線體氧化磷酸化疾病，病因在於細胞內粒線體呼吸鏈相關蛋白的缺陷。Pancrelipase 不進入細胞，也不作用於粒線體功能，因此在機轉上找不到合理的連結。
 
-因此，這個預測目前只能視為模型的圖譜關聯訊號，**不足以作為合理性的依據**。若有任何益處，最多是針對可能伴隨的消化吸收問題提供營養支持，但這在本次資料中並無佐證。
-
-其他排名靠前的預測（侏儒症、細胞色素 c 氧化酶缺乏症、骨發育不良、肺鱗狀細胞癌、食道靜脈曲張、瀰漫性皮膚利什曼病、神經內分泌癌等）同樣沒有臨床或文獻證據，也缺乏機轉支持。其中胰臟大細胞神經內分泌癌僅可能作為胰臟腫瘤或切除後外分泌不全的支持性照護，並非治療腫瘤本身。
+換言之，這項預測的分數雖高，但僅反映模型運算結果，缺乏機轉與臨床資料的支持，不宜視為有效的再利用方向。
 
 ## 臨床試驗證據
 
@@ -95,27 +94,28 @@ TxGNN 模型預測它可能對**核 DNA 異常所致粒線體氧化磷酸化疾�
 
 ## 安全性考量
 
-- **藥物交互作用**：已查詢到 18 筆交互作用，嚴重度皆為中度，主要包括：
-  - 降血糖藥（α-葡萄糖苷酶抑制劑）：Acarbose、Miglitol
-  - 葉酸類：Folic acid、Levomefolic acid、Leucovorin
-  - 制酸劑：Aluminum hydroxide、Calcium carbonate、Magaldrate、Magnesium hydroxide、Sodium bicarbonate
-  - 鐵劑：Iron、Ferrous fumarate、Ferrous gluconate、Ferrous sulfate anhydrous、Iron protein succinylate
+- **藥物交互作用**：共查得 18 項交互作用，皆為中度等級，主要包括：
+  - 抗酸劑與鈣／鋁／鎂類製劑：氫氧化鋁、碳酸鈣、氫氧化鎂、Magaldrate、碳酸氫鈉
+  - 鐵劑：鐵、富馬酸亞鐵、葡萄糖酸亞鐵、硫酸亞鐵、琥珀酸鐵蛋白
+  - 葉酸類：葉酸、左旋甲基葉酸、Leucovorin
+  - 降血糖藥：Acarbose、Miglitol
   - 其他：Glycerol phenylbutyrate、Quinapril
 
-其餘警語與禁忌症資料，請參考原廠仿單。
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高，但沒有任何臨床試驗或文獻，證據等級為 L5。
-- Pancrelipase 在腸腔內作用，與粒線體氧化磷酸化缺陷在機轉上沒有可信連結。
+- 此預測僅來自模型分數，沒有任何臨床試驗或文獻直接研究此疾病，證據等級為 L5。
+- Pancrelipase 作用於腸腔，與粒線體氧化磷酸化缺陷之間沒有已知的機轉連結。
 
 **若要推進需要：**
-- 取得詳細的作用機轉資料，並提出可檢驗的機轉假說。
-- 進行系統性文獻檢索，確認是否有任何粒線體疾病與胰酵素補充的相關研究。
-- 若考慮用於合併外分泌胰臟功能不全的病人，需先界定族群，並以現有適應症的支持性照護角度評估，而非作為疾病治療。
+- 提出可信的機轉假說，說明腸腔內酵素補充如何影響粒線體疾病的病程。
+- 補充該疾病的前臨床或臨床研究證據。
+- 取得詳細的作用機轉資料（MOA）。
+- 若該疾病患者合併胰臟外分泌不足或吸收不良，可另行評估營養支持的角色，但這不等同於治療該疾病本身。
 
 <!-- review:begin log -->
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Warfarin
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 306
-evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-16
-description: "Warfarin：預測新適應症為肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency)（證據等級 L4）。原適應症：1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症"
+evidence_level: L5
+indication_count: 7
 monitor_inn: "warfarin"
-predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2"]
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
+last_modified_at: 2026-10-23
+description: "Warfarin：預測新適應症為肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency)（證據等級 L5）。原適應症：1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症"
 ---
 
 # Warfarin
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,9 +38,9 @@ predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with s
 
 ## 一句話總結
 
-Warfarin（華法林）是口服抗凝血劑，原本用於預防及治療靜脈栓塞症、肺栓塞，以及心房纖維顫動或心臟瓣膜置換引起的血栓性栓塞。
-TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency)** 有效，
-目前**沒有臨床試驗**，僅有 **3 篇個案報告類文獻**支持這個方向。
+Warfarin 是口服抗凝血劑，在台灣核准用於預防與治療靜脈栓塞症、肺栓塞，以及心房纖維顫動或心臟瓣膜置換相關的血栓性栓塞症。
+TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency)** 有效。
+目前**沒有臨床試驗**，僅有 **3 篇個案報告型文獻**，且未直接證明療效。
 
 ## 快速總覽
 
@@ -48,22 +48,21 @@ TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2
 |------|------|
 | 原適應症 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 預測新適應症 | 肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency) |
-| TxGNN 預測分數 | 99.87% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9987 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 16 張／共 37 張） |
 | 許可證數 | 37 張（有效單方 16／有效複方 0／已註銷 21） |
 | 建議決策 | Hold |
 
+> 證據等級說明：現有 3 篇文獻為肝素輔因子 II 缺乏或其他遺傳性血栓症的個案報告，其中只有部分提及 warfarin 作為病患的治療背景，並未研究 warfarin 對此疾病的療效。依規則，未有直接研究該疾病療效的證據時，等級定為 L5。
+
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，warfarin 為維生素 K 拮抗劑類的抗凝血劑，其在靜脈栓塞症的療效已被證實。
-一般認為它透過抑制維生素 K 環氧化還原酶，降低凝血因子 II、VII、IX、X 的功能性合成。
+目前缺乏詳細的作用機轉資料。Warfarin 為維生素 K 拮抗型口服抗凝血劑，已知會抑制 VKORC1，降低維生素 K 依賴性凝血因子（II、VII、IX、X）的合成。
 
-肝素輔因子 II 缺乏症是遺傳性血栓傾向疾病，因凝血酶抑制能力下降而容易形成血栓。
-這與 warfarin 原本用於治療的靜脈栓塞、肺栓塞屬於同一類血栓性疾病，
-因此機轉上，降低凝血因子合成可能有助於抵銷過度的凝血傾向。
+肝素輔因子 II 缺乏會減弱對凝血酶 (thrombin) 的抑制，使血栓風險升高。從機轉推論，降低凝血因子合成可能抵銷這種抑制不足，這與 warfarin 在靜脈栓塞症的用途方向一致。
 
-不過目前支持的證據僅限於個案報告與機轉推論。個案中 warfarin 的使用多屬一般抗凝治療，無法證明對這個特定疾病有額外或專一的療效。
+不過此關聯目前僅是機轉推論，加上 TxGNN 預測，並無對照研究驗證。
 
 ## 臨床試驗證據
 
@@ -73,11 +72,9 @@ TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | 個案報告 | Kyobu Geka | 14 歲女性家族性肝素輔因子 II 缺乏，右心室出現血栓，經手術移除 |
-| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | 個案報告 | Nihon Kyobu Shikkan Gakkai Zasshi | 先天性抗凝血酶缺乏併肺梗塞，曾使用 warfarin 7 年，住院後改用低劑量肝素 |
-| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | 個案報告 | Journal of UOEH | 家族性多發血栓，其中一名病患使用 warfarin 後仍再發深層靜脈栓塞 |
-
-*註：上述文獻皆為個案報告，其中後兩篇的疾病診斷與目標適應症並不完全一致，證據間接且力道有限。*
+| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | 個案報告 | Kyobu Geka | 14 歲女性家族性肝素輔因子 II 缺乏，右心室血栓，經手術移除 |
+| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | 個案報告 | Nihon Kyobu Shikkan Gakkai Zasshi | 先天性抗凝血酶缺乏、反覆血栓之病患曾以 warfarin 治療 7 年，後改用低劑量肝素 |
+| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | 個案報告 | Journal of UOEH | 多發性血栓家族，已知遺傳性血栓症均被排除；一名病童使用 warfarin 後仍再發深部靜脈血栓 |
 
 ## 台灣上市資訊
 
@@ -117,27 +114,25 @@ TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2
 
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共收錄 865 筆交互作用，以下為部分重點：
-  - **嚴重 (Major)**：Acetylsalicylic acid（阿斯匹靈）、Metronidazole
-  - **中度 (Moderate)**：Ranitidine、Rabeprazole、Doxycycline、Hydrocortisone、Metformin、Amoxicillin、Bupropion、Aprepitant、Mesalazine、Dexamethasone 等
-  - **輕微 (Minor)**：Acarbose、Albiglutide、Ascorbic acid
-- **知識圖譜標示的疾病禁忌（非仿單內容）**：高血壓、肝衰竭與肝病、膽囊疾病、鬱血性心衰竭、甲狀腺功能低下、腎病症候群、腎功能不全、精神疾病、血液凝固疾病、貧血、膽汁鬱積、慢性腹瀉疾病等。這些僅為模型知識圖譜的關聯，臨床使用請以原廠仿單為準。
+- **知識圖譜中記錄的禁忌關聯**（非仿單文字）：高血壓、肝衰竭與肝病、膽囊疾病、充血性心衰竭、甲狀腺功能低下、腎病症候群、精神疾患、結締組織疾病、骨與軟骨疾病、物質濫用或依賴、凝血疾病、高血脂、貧血、腎功能不全、膽汁鬱積、慢性腹瀉等。實際禁忌請以仿單為準。
+- **藥物交互作用**：資料庫共收錄 865 筆。重大等級包括 Acetylsalicylic acid（阿斯匹靈）與 Metronidazole；中等等級包括 Ranitidine、Rabeprazole、Doxycycline、Hydrocortisone、Metformin、Amoxicillin、Bupropion、Aprepitant 等。
+- **與預測適應症相關的安全訊號**：文獻提及蛋白 C、蛋白 S 缺乏者使用 warfarin 可能發生皮膚壞死，用於遺傳性血栓症時須留意。
 
-其餘警語與禁忌請參考原廠仿單。
+主要警語與正式禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 目前沒有任何臨床試驗，文獻僅有個案報告，證據等級為 L4，其餘預測的疾病證據更少。
-- Warfarin 出血風險與交互作用複雜，在證據不足下不宜推進到新適應症。
+- 模型分數很高，但現有文獻僅為個案報告，且未直接評估 warfarin 對肝素輔因子 II 缺乏症的療效，也沒有臨床試驗，證據等級為 L5。
+- Warfarin 已有多張有效許可證，上市面不是障礙，但本適應症的獲益與風險尚無依據。
 
 **若要推進需要：**
-- 取得 warfarin 完整的作用機轉資料，釐清與肝素輔因子 II 缺乏症的機轉關聯
-- 系統性文獻回顧，評估遺傳性血栓傾向病患使用維生素 K 拮抗劑的療效與出血風險
-- 與現行標準抗凝治療（如 DOAC、肝素類）比較的觀察性研究或前瞻性試驗
-- 針對此族群的 INR 監測與藥物交互作用管理計畫
+- 取得 warfarin 的詳細作用機轉資料。
+- 系統性搜尋 warfarin 用於肝素輔因子 II 缺乏症的病例系列或觀察性研究。
+- 評估 INR 監測、出血風險與皮膚壞死風險的安全管理計畫。
+- 若證據增加，再考慮臨床專家審查與小規模探索性研究。
 
 <!-- review:begin log -->
 

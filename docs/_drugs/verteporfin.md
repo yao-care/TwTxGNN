@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Verteporfin"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
 last_modified_at: 2026-10-16
-description: "Verteporfin：預測新適應症為核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disord…（證據等級 L5）。原適應症：因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生…"
+description: "Verteporfin：預測新適應症為核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)（證據等級 L5）。原適應症：因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生…"
 ---
 
 # Verteporfin
@@ -33,7 +33,7 @@ description: "Verteporfin：預測新適應症為核 DNA 異常所致的粒線�
 
 </div>
 
-## Verteporfin：從年齡相關性黃斑部退化病變之脈絡膜血管新生到粒線體氧化磷酸化疾病
+## Verteporfin: 核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化�
 |------|------|
 | 原適應症 | 因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生，病理性近視(PM)或疑似眼組織漿菌症引起之視網膜下中央凹脈絡膜血管新生 |
 | 預測新適應症 | 核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
-| TxGNN 預測分數 | 99.49% |
+| TxGNN 預測分數 | 0.9949 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化�
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Verteporfin 是一種光敏劑，經特定波長光線照射活化後會產生活性氧（ROS），選擇性破壞異常的脈絡膜新生血管。此外，已有報告指出它可能不依賴光照而抑制 YAP-TEAD 訊號傳遞。
 
-然而，就本次整理的資料來看，看不出 Verteporfin 與核 DNA 編碼的氧化磷酸化缺陷之間有直接關聯。光動力作用所產生的 ROS 反而可能加重粒線體功能障礙。因此，0.995 的預測分數目前只能視為計算模型的輸出，機轉上的合理性尚未建立，需要額外的機轉研究才能判斷。
+然而，就本次整理的資料來看，看不出 Verteporfin 與核 DNA 編碼的氧化磷酸化缺陷之間有直接關聯。光動力作用所產生的 ROS 反而可能加重粒線體功能障礙。因此，0.9949 的預測分數目前只能視為計算模型的輸出，機轉上的合理性尚未建立，需要額外的機轉研究才能判斷。
 
 ## 臨床試驗證據
 

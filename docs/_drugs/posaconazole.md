@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Posaconazole
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 224
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
@@ -14,7 +14,7 @@ description: "Posaconazole：預測新適應症為肺囊蟲病 (Pneumocystosis)�
 # Posaconazole
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ TxGNN 模型預測它可能對**肺囊蟲病 (Pneumocystosis)** 有效，但目�
 |------|------|
 | 原適應症 | 對 amphotericin B、itraconazole 或 voriconazole 治療無效或不能忍受之成人侵入性麴菌病的第二線用藥；以及高危險病人（造血幹細胞移植後接受高劑量免疫抑制劑治療者、AML 或高危險 MDS 誘導化療後長期嗜中性白血球減少者）侵入性黴菌感染的預防 |
 | 預測新適應症 | 肺囊蟲病 (Pneumocystosis) |
-| TxGNN 預測分數 | 99.77% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9977 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 6 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 6／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 

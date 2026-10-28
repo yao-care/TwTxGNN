@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Emedastine
-parent: 高證據等級 (L1-L2)
+parent: 僅已知用途（無新預測）
 nav_order: 98
-evidence_level: L2
-indication_count: 2
-last_modified_at: 2026-10-16
-description: "Emedastine：預測新適應症為過敏性蕁麻疹 (Allergic Urticaria)（證據等級 L2）。原適應症：過敏性結膜炎症狀及徵候的暫時性緩解"
+last_modified_at: 2026-10-23
+description: "Emedastine: known uses and market status in Taiwan; currently no new candidate indication"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Emedastine
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **2** 個
+證據等級: **N/A** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,49 +32,43 @@ description: "Emedastine：預測新適應症為過敏性蕁麻疹 (Allergic Urt
 
 </div>
 
-## Emedastine：從過敏性結膜炎到過敏性蕁麻疹
+<!-- known-uses-page -->
+<!-- description: Emedastine: 台灣已知用途與上市狀態；目前無新的候選適應症 -->
+## Emedastine
 {: .text-alpha }
 
-## 一句話總結
-
-Emedastine（依美斯汀）是一種抗組織胺劑，在台灣原本以眼藥水形式用於**過敏性結膜炎**症狀的暫時性緩解。
-TxGNN 模型預測它可能對**過敏性蕁麻疹 (Allergic Urticaria)** 有效，
-目前有 **1 篇隨機對照試驗 (RCT)** 及數篇相關文獻支持這個方向，但無已登記的臨床試驗。
+## 摘要
+TxGNN 模型（深度學習）針對 Emedastine 所產生的候選適應症，經追溯來源後全部屬於已知用途，因此目前沒有新的預測適應症。下列兩項候選的分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，並非生物學證據，且並未找到許可證或仿單的核准依據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
+| 新預測適應症 | 無（可追溯來源的模型候選皆為已知用途） |
 |------|------|
-| 原適應症 | 過敏性結膜炎症狀及徵候的暫時性緩解 |
-| 預測新適應症 | 過敏性蕁麻疹 (Allergic Urticaria) |
-| TxGNN 預測分數 | 99.96% |
-| 證據等級 | L2（1 篇已發表的 RCT；但為口服劑型研究，且缺乏登記的 Phase 2/3 試驗資料，等級以保守方式判定） |
-| 台灣上市 | ✓ 已上市 |
+| 模型候選中的已知用途 | 2 |
+| 台灣上市狀態 | 上市中（有效許可證 2 張／共 4 張） |
 | 許可證數 | 4 張（有效單方 2／有效複方 0／已註銷 2） |
-| 建議決策 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+## 模型候選中的已知用途
 
-Emedastine 是選擇性的組織胺 H1 受體拮抗劑。目前缺乏 DrugBank 的詳細作用機轉資料，但就藥物類別而言，H1 受體阻斷是其主要藥理作用。文獻指出它對心血管影響小，抗膽鹼作用也很低。
+### 已核准（有許可證或仿單支持）
 
-蕁麻疹的核心病理是肥大細胞釋放組織胺，造成風團與紅斑。過敏性結膜炎與過敏性蕁麻疹同屬組織胺介導的過敏性疾病，因此 H1 阻斷在機轉上直接針對蕁麻疹的主要病因。
+| 適應症 | 來源 |
+|------|------|
+| 無 | 無 |
 
-需要注意：支持蕁麻疹的臨床證據來自**口服劑型**（2 mg，每日兩次），而台灣目前核准的是**眼用液劑**。若要用於蕁麻疹，需要考慮劑型與給藥途徑的差異。
+### 與已核准適應症相關（同一疾病類別）
 
-另一個預測的適應症「寒冷性蕁麻疹 (Cold Urticaria)」（預測分數 99.82%）同樣屬於組織胺介導的疾病，機轉上合理，但目前沒有臨床試驗或文獻支持，僅有模型預測與類別層級的推論（證據等級 L5，建議 Hold）。
+| 適應症 | 已核准類別 |
+|------|------|
+| 無 | 無 |
 
-## 臨床試驗證據
+### 知識圖譜中已記錄的關聯（未找到核准依據）
 
-目前無相關臨床試驗登記。
-
-## 文獻證據
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [17229605](https://pubmed.ncbi.nlm.nih.gov/17229605/) | 2006 | RCT | Eur J Dermatol | 192 位慢性特發性蕁麻疹患者，emedastine 2 mg 每日兩次對比 loratadine 10 mg 每日一次，治療 4 週。第 1 週時，emedastine 組 57.1% 的患者體表受累降至 0–10%（loratadine 組 38.2%，p=0.0019）；83.3% 的症狀總分為 0–1（loratadine 組 64.5%，p=0.0134） |
-| [19558341](https://pubmed.ncbi.nlm.nih.gov/19558341/) | 2009 | Review | Expert Opin Pharmacother | 回顧 emedastine 為選擇性 H1 拮抗劑，對過敏性鼻炎、結膜炎、蕁麻疹、皮膚炎等有效；無不良心血管作用，抗膽鹼活性低，並探討其對過敏性疾病組織重塑的潛在改善作用 |
-| [24720119](https://pubmed.ncbi.nlm.nih.gov/24720119/) | 2013 | Review | Przegl Lek | 分析蕁麻疹治療指引、藥品仿單與藥效證據之間的落差（波蘭情境） |
-| [14499249](https://pubmed.ncbi.nlm.nih.gov/14499249/) | 2003 | 動物研究 | Clin Immunol | 小鼠接觸性過敏模型，探討 suplatast tosilate、emedastine 等抗過敏藥對嗜酸性球的影響（與蕁麻疹關聯較間接） |
+| 適應症 |
+|------|
+| 過敏性蕁麻疹 (allergic urticaria) |
+| 寒冷性蕁麻疹 (cold urticaria) |
 
 ## 台灣上市資訊
 
@@ -95,25 +90,9 @@ Emedastine 是選擇性的組織胺 H1 受體拮抗劑。目前缺乏 DrugBank �
 
 <!-- tfda-licenses:end -->
 
-<!-- TFDA_LICENSE_TABLE -->
-
 ## 安全性考量
 
 安全性資訊請參考原廠仿單。
-
-## 結論與下一步
-
-**決策：Proceed with Guardrails**
-
-**理由：**
-- 過敏性蕁麻疹有一項設計良好的雙盲 RCT（對比 loratadine），顯示口服 emedastine 具臨床活性，且機轉（H1 阻斷）合理。
-- 但證據來自口服劑型，而台灣核准的是眼用劑型，且缺乏登記的臨床試驗與詳細安全性資料，因此需設置前提條件。
-
-**若要推進需要：**
-- 釐清劑型與給藥途徑：台灣是否有口服製劑可用，或需另行申請
-- 補充 DrugBank 的作用機轉資料與完整仿單安全性資訊
-- 確認 RCT 結果的外部適用性（歐洲族群與台灣族群的差異）
-- 寒冷性蕁麻疹在取得具體臨床證據前維持 Hold
 
 <!-- review:begin log -->
 
@@ -123,7 +102,7 @@ Emedastine 是選擇性的組織胺 H1 受體拮抗劑。目前缺乏 DrugBank �
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-23：2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

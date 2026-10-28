@@ -4,17 +4,17 @@ title: Ioversol
 parent: 僅模型預測 (L5)
 nav_order: 152
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Ioversol"
-predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
-last_modified_at: 2026-10-16
-description: "Ioversol：預測新適應症為骨關節炎易感性 (Osteoarthritis Susceptibility)（證據等級 L5）。原適應症：作為心臟血管系統之 X 射線攝影，包括腦部、冠狀、末梢、內臟及腎動脈攝影、主動脈攝影及左心室攝影"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
+last_modified_at: 2026-10-23
+description: "Ioversol：預測新適應症為退化性關節炎 (Osteoarthritis)（證據等級 L5）。原適應症：作為心臟血管系統之 X 射線攝影，包括腦部、冠狀、末梢、內臟及腎動脈攝影、主動脈攝影、左心室攝影"
 ---
 
 # Ioversol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ description: "Ioversol：預測新適應症為骨關節炎易感性 (Osteoarthri
 
 </div>
 
-## Ioversol：從心血管與全身 X 光造影到退化性關節炎（骨關節炎易感性）
+## Ioversol：從心臟血管 X 射線攝影到退化性關節炎
 {: .text-alpha }
 
 ## 一句話總結
 
-Ioversol 是一種含碘的 X 光造影劑，原本用於心血管、腦血管、周邊血管攝影與電腦斷層對比加強。
-TxGNN 模型預測它可能對**骨關節炎易感性 (Osteoarthritis Susceptibility)** 有效，但目前**沒有臨床試驗和相關文獻**支持，僅有模型預測訊號。
+Ioversol 是碘化造影劑，原本用於心臟血管、腦部血管及電腦斷層等 X 射線攝影。
+TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis)** 有效，但目前**沒有臨床試驗**，僅有 **1 篇**間接相關文獻，且該文獻研究的是以碘化油劑進行的栓塞術，不是 ioversol 本身的治療作用。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 作為心臟血管系統之 X 射線攝影，包括腦部、冠狀、末梢、內臟及腎動脈攝影、主動脈攝影及左心室攝影；亦用於電腦斷層掃描時頭部及身體之對照增強及靜脈排泄性尿路攝影 |
-| 預測新適應症 | 骨關節炎易感性 (Osteoarthritis Susceptibility) |
-| TxGNN 預測分數 | 99.67% |
+| 原適應症 | 作為心臟血管系統之 X 射線攝影，包括腦部、冠狀、末梢、內臟及腎動脈攝影、主動脈攝影、左心室攝影；亦用於電腦斷層掃描時頭部及身體的對照增強，以及靜脈排泄性尿路 X 射線攝影 |
+| 預測新適應症 | 退化性關節炎 (Osteoarthritis) |
+| TxGNN 預測分數 | 0.9963 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 6 張） |
 | 許可證數 | 6 張（有效單方 2／有效複方 0／已註銷 4） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Ioversol 是一種含碘的非離子型造影劑，其用途是在影像檢查時增強血管與組織的對比，本身並非治療藥物。
+目前缺乏詳細的作用機轉資料。Ioversol 是不具藥理活性的碘化造影劑，作用在於影像對比增強，沒有已知的抗發炎或軟骨保護作用。
 
-就現有資訊判斷，Ioversol 對骨關節炎的遺傳易感性沒有已知的藥理作用，這個關聯僅來自 TxGNN 的知識圖譜預測。因此，這個預測在機轉上**缺乏支持**，應視為模型產生的假說，而非有依據的再利用方向。
+唯一被連結的文獻 (LipioJoint-1) 研究的是使用碘化油性乳劑進行膝部動脈栓塞，用於治療膝關節退化性關節炎。這是一種介入性手術，與 ioversol 的關聯屬間接，不構成 ioversol 的治療機轉。因此，這項預測目前主要依賴 TxGNN 的網路分數，缺乏藥理上的支持。
 
-值得一提的是，排名第 2 的預測「骨關節炎」雖有一篇相關文獻（膝關節動脈栓塞 LipioJoint-1 試驗），但該研究使用的是碘化油（ethiodized oil）乳劑做栓塞治療，造影劑只是程序中的顯影用途，並不代表 Ioversol 具有治療效果。其他排名靠前的預測（如類風濕性關節炎、各種骨骼發育不良、血紅素病變、禿髮等）同樣缺乏機轉依據與研究證據。
+由於沒有任何已引用的研究直接探討 ioversol 用於退化性關節炎，證據等級依規則定為 L5。
 
 ## 臨床試驗證據
 
@@ -67,7 +67,9 @@ TxGNN 模型預測它可能對**骨關節炎易感性 (Osteoarthritis Susceptibi
 
 ## 文獻證據
 
-針對「骨關節炎易感性」目前無相關文獻。
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [38102013](https://pubmed.ncbi.nlm.nih.gov/38102013/) | 2024 | Cohort | Diagnostic and interventional imaging | LipioJoint-1 試驗評估以碘化油性乳劑進行暫時性膝動脈栓塞治療膝關節退化性關節炎的安全性與療效；使用的並非 ioversol，屬間接相關 |
 
 ## 台灣上市資訊
 
@@ -93,28 +95,30 @@ TxGNN 模型預測它可能對**骨關節炎易感性 (Osteoarthritis Susceptibi
 
 ## 安全性考量
 
-- **藥物交互作用**：已查得 167 筆交互作用紀錄，以下為部分主要項目：
-  - 重大（Major）：Metformin、Amphotericin B（含脂質複合體、膽固醇硫酸酯、微脂體劑型）、Mesalazine、Balsalazide、Olsalazine、Sulfasalazine、Vancomycin、Kanamycin、Neomycin、Streptomycin、Polymyxin B
-  - 中度（Moderate）：Mannitol
-  - 等級未明（Unknown）：Atropine、Famotidine、乙醯水楊酸（Aspirin）、Morphine、Omeprazole
+- **藥物交互作用**：資料庫共記錄 167 筆交互作用，以下為部分列為「Major」等級者：
+  - Metformin
+  - Amphotericin B（含脂質複合體、膽固醇硫酸酯、脂質體劑型）
+  - Mesalazine、Balsalazide、Olsalazine、Sulfasalazine
+  - Vancomycin
+  - Kanamycin、Neomycin、Streptomycin
+  - Polymyxin B
 
-  其中多數重大交互作用涉及腎毒性藥物或 Metformin，使用時須留意腎功能。
+  Mannitol 為「Moderate」等級。
 
-其餘警語與禁忌症請參考原廠仿單。
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.67%），但沒有任何臨床試驗或文獻支持，證據等級僅為 L5。
-- Ioversol 是診斷用造影劑，對骨關節炎易感性沒有已知的藥理作用，機轉上缺乏合理性，且造影劑本身有腎毒性等安全性考量，不適合作為治療用途推進。
+- 預測僅來自 TxGNN 分數，沒有任何臨床試驗，唯一文獻研究的是不同的栓塞手術，且 ioversol 本身沒有已知的抗關節炎藥理作用。
+- Ioversol 為診斷用造影劑，目前沒有支持其治療退化性關節炎的證據。
 
 **若要推進需要：**
-- 補齊作用機轉資料，並釐清造影劑與骨關節炎病理之間是否存在任何生物學關聯
-- 進行前臨床或機轉研究，驗證此預測是否有實質意義
-- 若有意探索，應先將其視為研究問題，而非臨床開發項目
-- 在確認有療效證據前，不建議投入臨床試驗設計
+- 補充 ioversol 的作用機轉資料，釐清是否存在可信的藥理路徑
+- 找到直接以 ioversol 研究退化性關節炎的前臨床或臨床研究
+- 若仍想探討，需先釐清造影劑作為診斷輔助與作為治療的差異，以及可行的給藥途徑
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

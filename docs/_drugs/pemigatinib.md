@@ -4,9 +4,9 @@ title: Pemigatinib
 parent: 僅模型預測 (L5)
 nav_order: 209
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Pemigatinib"
-predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia"]
+predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
 last_modified_at: 2026-10-16
 description: "Pemigatinib：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L5）。原適應症：適用於成人接受過全身性藥物治療、腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌"
 ---
@@ -14,7 +14,7 @@ description: "Pemigatinib：預測新適應症為多發性內分泌腫瘤 (Multi
 # Pemigatinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 |------|------|
 | 原適應症 | 適用於成人接受過全身性藥物治療、腫瘤具有 FGFR2 融合或重排、不可手術切除的局部晚期或轉移性膽管癌 |
 | 預測新適應症 | 多發性內分泌腫瘤 (Multiple Endocrine Neoplasia) |
-| TxGNN 預測分數 | 99.71% |
+| TxGNN 預測分數 | 0.9971 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -58,9 +58,9 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Pemigatinib 是選擇性 FGFR1–3 激酶抑制劑，在 FGFR2 融合或重排的膽管癌中療效已被證實。
 
-然而，多發性內分泌腫瘤通常由 MEN1 或 RET 等基因變異驅動，與 FGFR 訊號並無已知的因果關聯。因此，這項預測目前只建立在 TxGNN 知識圖譜的推論上，缺乏機轉面的支持。
+然而，多發性內分泌腫瘤通常由 MEN1 或 RET 等基因變異驅動，與 FGFR 訊號並無已知的因果關聯。因此，這項預測的分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，缺乏機轉面的支持。
 
-另外值得留意的是，同一份預測清單中的其他項目（例如巨細胞病毒感染、牛傳染性鼻氣管炎、惡性卡他熱、肌萎縮性側索硬化症等），同樣沒有機轉或臨床證據支持，部分疑為知識圖譜的衍生假象。其中 HER2 陽性乳癌雖有 FGFR 訊號與抗 HER2 治療抗藥性相關的推測性理由，但目前僅有一篇泛論激酶抑制劑的文獻，並無針對 Pemigatinib 的直接證據。
+另外值得留意的是，同一份預測清單中的其他項目（例如巨細胞病毒感染、牛傳染性鼻氣管炎、惡性卡他熱、肌萎縮性側索硬化症等），同樣沒有機轉或臨床證據支持，部分可能只是 TxGNN 模型（深度學習）從相關疾病之間學到的相似性，而非生物學證據。其中 HER2 陽性乳癌雖有 FGFR 訊號與抗 HER2 治療抗藥性相關的推測性理由，但目前僅有一篇泛論激酶抑制劑的文獻，並無針對 Pemigatinib 的直接證據。
 
 ## 臨床試驗證據
 

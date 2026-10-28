@@ -4,17 +4,17 @@ title: Travoprost
 parent: 僅模型預測 (L5)
 nav_order: 289
 evidence_level: L5
-indication_count: 3
+indication_count: 10
 monitor_inn: "travoprost"
-predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome"]
-last_modified_at: 2026-10-16
+predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
+last_modified_at: 2026-10-23
 description: "Travoprost：預測新適應症為內臟鈣化防禦症 (Visceral Calciphylaxis)（證據等級 L5）。原適應症：降低隅角開放性青光眼、慢性隅角閉鎖性青光眼且曾施行週邊虹膜切開術之病人或高眼壓患者之眼壓"
 ---
 
 # Travoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ description: "Travoprost：預測新適應症為內臟鈣化防禦症 (Visceral 
 
 </div>
 
-## Travoprost：從青光眼到內臟鈣化防禦症
+## Travoprost：從青光眼到內臟鈣化防禦症（visceral calciphylaxis）
 {: .text-alpha }
 
 ## 一句話總結
 
-Travoprost（曲伏前列素）是前列腺素 F2-alpha 類似物，原本用於降低隅角開放性青光眼與高眼壓患者的眼壓。
-TxGNN 模型預測它可能對**內臟鈣化防禦症 (Visceral Calciphylaxis)** 有效，
-但目前**沒有任何臨床試驗或文獻**支持，僅有模型預測分數。
+Travoprost 是前列腺素 F2α 類似物，原本用於降低青光眼與高眼壓患者的眼壓。
+TxGNN 模型預測它可能對**內臟鈣化防禦症 (Visceral Calciphylaxis)** 有效，但目前**沒有任何直接相關的臨床試驗或文獻**，僅有模型預測。
+本報告的首要預測（rank 1）屬於純模型推論，證據等級為 L5。
 
 ## 快速總覽
 
@@ -48,27 +48,27 @@ TxGNN 模型預測它可能對**內臟鈣化防禦症 (Visceral Calciphylaxis)**
 |------|------|
 | 原適應症 | 降低隅角開放性青光眼、慢性隅角閉鎖性青光眼且曾施行週邊虹膜切開術之病人或高眼壓患者之眼壓 |
 | 預測新適應症 | 內臟鈣化防禦症 (Visceral Calciphylaxis) |
-| TxGNN 預測分數 | 99.99% |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 10 張） |
 | 許可證數 | 10 張（有效單方 6／有效複方 1／已註銷 3） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Travoprost 是前列腺素 F2-alpha 類似物，作用於 FP 受體，在眼科用於降低眼壓。
+目前缺乏詳細的作用機轉資料。已知 travoprost 是前列腺素 F2α 類似物，作用為 FP 受體促效劑，臨床上以點眼液形式降低眼壓。
 
-鈣化防禦症是一種小血管鈣化與血栓形成的疾病。Travoprost 的血管擴張或抗鈣化作用是否能用於此疾病，目前僅屬推測，並無臨床或文獻證據支持。
+至於它與鈣化防禦症（鈣化性尿毒症小動脈病變）的關聯，目前僅來自 TxGNN 模型預測，沒有臨床試驗或文獻佐證，機轉上的連結屬於推測。
 
-此外，同列於預測清單的還有靜脈型與動脈型胸廓出口症候群（TxGNN 分數同為 99.99%）。這兩者主要是機械性壓迫與血栓問題，與 FP 受體促效劑的機轉關聯同樣薄弱，也同樣沒有任何證據。
+同一份預測清單中的其他疾病（胸廓出口症候群、血管疾病、胃血管發育不良、藍趾症候群、淋巴管擴張、自發性冠狀動脈剝離、血管內皮瘤等），同樣缺乏支持證據。其中「血管疾病」雖有 10 個 travoprost 臨床試驗與多篇文獻，但這些研究都是青光眼或眼部安全性研究，並未直接研究血管疾病的治療。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記
+首要預測（內臟鈣化防禦症）目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-目前無相關文獻
+首要預測（內臟鈣化防禦症）目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -104,24 +104,24 @@ TxGNN 模型預測它可能對**內臟鈣化防禦症 (Visceral Calciphylaxis)**
 
 ## 安全性考量
 
-- **知識圖譜標示的潛在禁忌疾病**（來自 TxGNN 知識圖譜的藥物－疾病關聯，並非仿單文字）：葡萄膜炎、虹膜疾病、睫狀體疾病、全葡萄膜炎、虹膜炎、囊樣黃斑部水腫、黃斑部視網膜水腫。
-- **藥物交互作用**：資料庫共記錄 49 筆交互作用，但目前列出的項目（如 Calcitriol、Pantoprazole、Sucralfate、Morphine、Metformin、Omeprazole 等）嚴重度等級皆為「未知」，需進一步確認臨床意義。
+- **知識圖譜中記錄的禁忌關聯**（來自知識圖譜，非仿單內容）：葡萄膜炎、虹膜疾病、睫狀體疾病、全葡萄膜炎、虹膜炎、囊樣黃斑部水腫、黃斑部視網膜水腫。
+- **藥物交互作用**：資料庫共記錄 49 筆，列出的項目（如 calcitriol、pantoprazole、sucralfate、morphine、metformin、omeprazole、prednisone、prednisolone、triamcinolone、acetylsalicylic acid 等）嚴重度均為「未知」，需由臨床藥師另行評估。
 
-其他警語與禁忌症請參考原廠仿單。
+其他安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高，但沒有任何臨床試驗或文獻支持，證據等級僅為 L5。
-- 機轉關聯屬推測，且作用機轉資料本身也有缺口。
+- 內臟鈣化防禦症的預測僅來自模型，沒有臨床試驗或文獻直接支持，且 travoprost 為眼用局部製劑，與全身性血管鈣化疾病的給藥途徑與機轉均無明確關聯。
+- 缺乏作用機轉資料，也無法確認給藥途徑是否適用。
 
 **若要推進需要：**
-- 補齊 Travoprost 的作用機轉資料（MOA）
-- 進行鈣化防禦症相關的文獻與試驗檢索，並做前臨床機轉驗證（如血管鈣化模型）
-- 評估給藥途徑的可行性（現有劑型為眼用製劑，全身性適應症需另行評估）
-- 釐清全身性暴露下的安全性，包含知識圖譜標示的禁忌疾病與交互作用的臨床意義
+- 補充 travoprost 的作用機轉資料（MOA）。
+- 進行文獻與前臨床研究，探討 FP 受體促效作用與鈣化防禦症病理的關聯。
+- 評估給藥途徑的可行性（目前僅有眼用劑型）。
+- 若考慮全身性使用，需另行評估前列腺素類似物的系統性血管與血壓影響。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

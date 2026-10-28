@@ -4,9 +4,9 @@ title: Glatiramer
 parent: 僅模型預測 (L5)
 nav_order: 125
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 monitor_inn: "Glatiramer"
-predicted_indications: ["hemoglobinopathy", "plasma cell myeloma", "female breast carcinoma", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "indolent plasma cell myeloma", "gastric linitis plastica", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyropoikilocytosis, hereditary", "pyruvate kinase deficiency of red cells"]
+predicted_indications: ["hemoglobinopathy"]
 last_modified_at: 2026-10-16
 description: "Glatiramer：預測新適應症為血紅素病變 (Hemoglobinopathy)（證據等級 L5）。原適應症：用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率"
 ---
@@ -14,7 +14,7 @@ description: "Glatiramer：預測新適應症為血紅素病變 (Hemoglobinopath
 # Glatiramer
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**血紅素病變 (Hemoglobinopathy)** 有效，�
 |------|------|
 | 原適應症 | 用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率 |
 | 預測新適應症 | 血紅素病變 (Hemoglobinopathy) |
-| TxGNN 預測分數 | 99.03% |
+| TxGNN 預測分數 | 0.9903 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 4 張） |
 | 許可證數 | 4 張（有效單方 2／有效複方 0／已註銷 2） |
 | 建議決策 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**血紅素病變 (Hemoglobinopathy)** 有效，�
 
 目前缺乏詳細的作用機轉資料。就已知資訊而言，Glatiramer 是一種免疫調節劑，可使 T 細胞反應偏向 Th2／調節型表現，用於多發性硬化症以降低復發。
 
-血紅素病變是血紅素結構或合成缺陷所致的疾病。目前沒有已知機轉顯示 Glatiramer 的免疫調節作用能影響血紅素的結構或合成，因此這個預測在機轉上**缺乏支持**，僅來自模型的圖譜關聯。
+血紅素病變是血紅素結構或合成缺陷所致的疾病。目前沒有已知機轉顯示 Glatiramer 的免疫調節作用能影響血紅素的結構或合成，因此這個預測在機轉上**缺乏支持**，分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
 唯一的文獻是一例同時有 β 地中海型貧血病史的 MS 病人，在停用 natalizumab 後出現多重免疫異常。這只是病人共病的巧合，並不代表 Glatiramer 對血紅素病變有效。
 

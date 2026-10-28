@@ -4,7 +4,7 @@ title: Cefoperazone
 parent: 僅模型預測 (L5)
 nav_order: 59
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Cefoperazone：預測新適應症為硬化性膽管炎 (Sclerosing Cholangitis)（證據等級 L5）。原適應症：抗生素（用於感受性細菌感染）"
 monitor_inn: "Cefoperazone"
@@ -14,7 +14,7 @@ predicted_indications: ["sclerosing cholangitis", "rheumatoid arthritis", "colob
 # Cefoperazone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**硬化性膽管炎 (Sclerosing Cholangitis)** �
 |------|------|
 | 原適應症 | 抗生素（用於感受性細菌感染） |
 | 預測新適應症 | 硬化性膽管炎 (Sclerosing Cholangitis) |
-| TxGNN 預測分數 | 99.98% |
+| TxGNN 預測分數 | 0.9998 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 18 張／共 44 張） |
 | 許可證數 | 44 張（有效單方 12／有效複方 6／已過期 1／已註銷 25） |
 | 建議決策 | Hold |
 

@@ -4,7 +4,7 @@ title: Ipilimumab
 parent: 僅模型預測 (L5)
 nav_order: 153
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-16
 description: "Ipilimumab：預測新適應症為脈絡膜缺失症 (Choroideremia)（證據等級 L5）。原適應症：無法切除或轉移性黑色素瘤（併用 nivolumab）、晚期腎細胞癌、MSI-H/dMMR 轉移性大腸直腸癌、肝細胞癌、非小細胞肺癌…"
 monitor_inn: "Ipilimumab"
@@ -14,7 +14,7 @@ predicted_indications: ["choroideremia"]
 # Ipilimumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**脈絡膜缺失症 (Choroideremia)** 有效，�
 |------|------|
 | 原適應症 | 無法切除或轉移性黑色素瘤（併用 nivolumab）、晚期腎細胞癌、MSI-H/dMMR 轉移性大腸直腸癌、肝細胞癌、非小細胞肺癌、惡性肋膜間皮瘤、食道鱗狀細胞癌 |
 | 預測新適應症 | 脈絡膜缺失症 (Choroideremia) |
-| TxGNN 預測分數 | 99.06% |
+| TxGNN 預測分數 | 0.9906 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -117,7 +117,6 @@ TxGNN 模型預測它可能對**脈絡膜缺失症 (Choroideremia)** 有效，�
 - 釐清 CTLA-4 抑制與 CHM/REP1 缺失造成的視網膜退化之間有無可驗證的機轉假說。
 - 進行前臨床研究（如視網膜細胞或動物模型），以取得初步療效與安全性訊號。
 - 補齊 DrugBank 作用機轉資料。
-- 另可留意：同一次預測中排名第 2 的**非皮膚型黑色素瘤 (non-cutaneous melanoma，預測分數 99.02%)** 已有較多臨床試驗與文獻，證據等級為 L2。它與現有核准適應症更接近，建議另行評估。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

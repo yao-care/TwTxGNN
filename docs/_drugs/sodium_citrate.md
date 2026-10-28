@@ -4,17 +4,17 @@ title: Sodium Citrate
 parent: 僅模型預測 (L5)
 nav_order: 261
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-16
 description: "Sodium Citrate：預測新適應症為乳突性結膜炎 (Papillary Conjunctivitis)（證據等級 L5）。原適應症：輸血用抗凝結劑"
 monitor_inn: "Sodium citrate"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "acute laryngopharyngitis", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "stomach disease", "postgastrectomy syndrome", "gastroduodenitis", "familial visceral myopathy", "rosacea conjunctivitis", "allergic urticaria"]
 ---
 
 # Sodium Citrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **9** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**乳突性結膜炎 (Papillary Conjunctivitis)** 
 |------|------|
 | 原適應症 | 輸血用抗凝結劑 |
 | 預測新適應症 | 乳突性結膜炎 (Papillary Conjunctivitis) |
-| TxGNN 預測分數 | 99.95% |
+| TxGNN 預測分數 | 0.9995 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 20 張／共 79 張） |
 | 許可證數 | 79 張（有效單方 2／有效複方 18／已過期 1／已註銷 58） |
 | 建議決策 | Hold |
 

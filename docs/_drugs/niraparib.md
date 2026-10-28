@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Niraparib
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 193
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Niraparib"
-predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "inner ear neoplasm", "pre-malignant neoplasm", "schwannoma of jugular foramen"]
-last_modified_at: 2026-10-16
-description: "Niraparib：預測新適應症為囊性腫瘤 (Cystic Neoplasm)（證據等級 L3）。原適應症：晚期卵巢癌之第一線維持治療"
+predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "pre-malignant neoplasm", "inner ear neoplasm", "schwannoma of jugular foramen"]
+last_modified_at: 2026-10-27
+description: "Niraparib：預測新適應症為會厭腫瘤 (epiglottis neoplasm)（證據等級 L5）."
 ---
 
 # Niraparib
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,42 @@ description: "Niraparib：預測新適應症為囊性腫瘤 (Cystic Neoplasm)（
 
 </div>
 
-## Niraparib：從卵巢癌到囊性腫瘤（Cystic Neoplasm）
+## Niraparib：PARP 抑制劑 → 會厭腫瘤 (epiglottis neoplasm)
 {: .text-alpha }
 
 ## 一句話總結
 
-Niraparib 是一種口服 PARP 抑制劑，原本用於卵巢癌（含輸卵管癌、原發性腹膜癌）的維持治療。
-TxGNN 模型預測它可能對**囊性腫瘤 (Cystic Neoplasm)** 有效，
-目前有 **3 個臨床試驗**（均為相關的子宮內膜癌研究，其中 1 項已終止、1 項撤回）和 **10 篇文獻**，但多數為間接證據。
+Niraparib 是一種口服 PARP 抑制劑，目前台灣已有核准的癌症治療用途。
+TxGNN 模型預測它可能對**會厭腫瘤 (epiglottis neoplasm)** 有效，但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 晚期卵巢癌之第一線維持治療；復發性卵巢癌之維持治療（對含鉑化療有完全或部分反應的表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人） |
-| 預測新適應症 | 囊性腫瘤 (Cystic Neoplasm) |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
-| 許可證數 | 4 張（有效單方 1／有效複方 2／已註銷 1） |
-| 建議決策 | Hold（列為研究問題，待更具體的疾病定義與證據） |
+| 原適應症 | 與prednisone 或prednisolone 併用，用於治療具BRCA 1/2 (遺傳性及/或體細胞)致病性或疑似致病性突變的轉移性去勢療法抗性前列腺癌(mCRPC)，且尚未需要使用化學治療的成年病人。; １、晚期卵巢癌之第一線維持治療：用於對第一線含鉑化療有完全或部分反應的晚期表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人之維持治療。
+ ２、復發性卵巢癌之維持治療：用於對含鉑化療有完全或部分反應的復發性表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人之維持治療，病人須對復發前含鉑化療有敏感性。; 1. 晚期卵巢癌之第一線維持治療
+ 用於對第一線含鉑化療有完全或部分反應的晚期表皮卵巢癌、輸卵管 |
 
-> 說明：預測清單中排名第 1 的是「會厭腫瘤」，但其僅有模型預測、無任何試驗或文獻（L5）。本報告改以證據最完整的第 2 名「囊性腫瘤」為主軸，並於結論中說明。
+| 預測新適應症 | 會厭腫瘤 (epiglottis neoplasm) |
+| TxGNN 預測分數 | 0.9999 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 4 張） |
+| 許可證數 | 4 張（有效單方 1／有效複方 2／已註銷 1） |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位未收錄）。就一般藥理認知，Niraparib 為 PARP1/2 抑制劑，可使 DNA 修復受損，並將 PARP 困在 DNA 上，在同源重組缺陷（HRD）的腫瘤中產生合成致死效應。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Niraparib 屬於 PARP1/2 抑制劑，可透過抑制 PARP 並使其滯留於 DNA 上，在同源重組修復缺陷 (HRD) 的腫瘤細胞中造成合成致死。
 
-原適應症卵巢癌中，高惡性度漿液性卵巢癌常屬 HRD 腫瘤，在組織學上屬於漿液性／囊性腫瘤類別。因此模型把 Niraparib 與「囊性腫瘤」連結，有一定的合理性。
-
-不過需要注意，現有相關證據集中在婦科漿液性癌（如子宮內膜漿液性癌、子宮漿液性癌），而非明確定義的「囊性腫瘤」本身。這個預測目前較像是對「HRD 相關漿液性腫瘤」的間接支持，而非對該疾病實體的直接驗證。
+不過，針對會厭腫瘤，目前沒有記載任何 HRD 或 DNA 修復缺陷的相關依據，也沒有臨床或文獻資料說明此藥在該腫瘤部位的作用。因此，這個預測目前僅來自 TxGNN 模型本身，機轉上的合理性仍待驗證。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT04716686](https://clinicaltrials.gov/study/NCT04716686) | Phase 2 | 招募中 | 83 | Niraparib 單藥用於子宮內膜漿液性癌的維持與復發治療；尚無結果 |
-| [NCT04159155](https://clinicaltrials.gov/study/NCT04159155) | Phase 2/3 | 已終止 | 11 | 漿液性或 p53 突變子宮內膜癌的多組別前線與維持治療試驗（含 Niraparib）；僅收 11 人，難以解讀療效 |
-| [NCT05289648](https://clinicaltrials.gov/study/NCT05289648) | Early Phase 1 | 已撤回 | 0 | 術前使用 Niraparib 於高惡性度子宮內膜癌的探索性研究；未收案，無資料 |
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [40702505](https://pubmed.ncbi.nlm.nih.gov/40702505/) | 2025 | Cohort | Journal of Ovarian Research | 建立高惡性度漿液性卵巢癌的幹細胞相關亞型與預後模型 |
-| [41323499](https://pubmed.ncbi.nlm.nih.gov/41323499/) | 2025 | Cohort | Pathology Oncology Research | 以 FoundationOne CDx 的 HRD 檢測引導卵巢癌 PARP 抑制劑用藥建議 |
-| [40473279](https://pubmed.ncbi.nlm.nih.gov/40473279/) | 2025 | 試驗計畫書 | BMJ Open | Niraparib 用於子宮漿液性癌維持治療的 Phase 2 試驗設計 |
-| [42157333](https://pubmed.ncbi.nlm.nih.gov/42157333/) | 2026 | Cohort | Clinical Epigenetics | 以 HRR 基因啟動子甲基化建立預測 PARP 抑制劑療效的列線圖 |
-| [42442041](https://pubmed.ncbi.nlm.nih.gov/42442041/) | 2026 | Cohort | Gynecologic Oncology | 探討 BRCA 野生型高惡性度漿液性癌的 HRD 檢測與 MYC 擴增作為替代標記 |
-| [31466953](https://pubmed.ncbi.nlm.nih.gov/31466953/) | 2019 | Case report | BMJ Case Reports | Niraparib 用於卵巢癌合併腦轉移病人的維持治療 |
-| [34321239](https://pubmed.ncbi.nlm.nih.gov/34321239/) | 2021 | 體外／PDX 研究 | Cancer Research | RAD51C 啟動子甲基化喪失導致 PARP 抑制劑抗藥性 |
-| [41520277](https://pubmed.ncbi.nlm.nih.gov/41520277/) | 2026 | 體外研究 | Cancer Biology & Therapy | 以球體與類器官評估 Carboplatin 合併 PARP 抑制劑的效果 |
-| [41465250](https://pubmed.ncbi.nlm.nih.gov/41465250/) | 2025 | 體外研究 | Int J Mol Sci | PARP 抑制劑在高惡性度漿液性卵巢癌細胞中的蛋白質體多重藥理效應 |
-| [41214101](https://pubmed.ncbi.nlm.nih.gov/41214101/) | 2025 | 體外研究 | Scientific Reports | Claudin-4 同時調控高惡性度漿液性癌的基因體穩定性與免疫逃避 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -117,37 +100,37 @@ TxGNN 模型預測它可能對**囊性腫瘤 (Cystic Neoplasm)** 有效，
 
 ## 細胞毒性
 
+Niraparib 為抗腫瘤藥物（PARP 抑制劑，屬標靶藥物）。
+
 | 項目 | 內容 |
 |------|------|
 | 細胞毒性分類 | 標靶藥物（PARP 抑制劑） |
 | 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
 | 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
-| 監測項目 | 請參考原廠仿單（一般需監測血液學參數，如 CBC） |
-| 處置防護 | 請參考原廠仿單與院內抗腫瘤藥物處置規範 |
+| 監測項目 | 建議監測血液學參數（如 CBC）及肝腎功能，詳細頻率請參考原廠仿單 |
+| 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共收錄 351 筆交互作用。列出的項目中，屬 **Major** 的有 Deferiprone、Samarium (153Sm) lexidronam；其餘多為 Moderate，包括：
-  - 抗凝血／抗血小板類：Acetylsalicylic acid、Apixaban、Dipyridamole、Cilostazol、Cangrelor、Abciximab、Alteplase 等
-  - 放射性藥物類：Iobenguane (I-131)、Ibritumomab tiuxetan、Tositumomab、Strontium chloride Sr-89
-  - 其他：Rolapitant、Palifermin
+- **藥物交互作用**：本報告彙整的資料顯示共有 351 筆潛在交互作用紀錄，以下為部分範例：
+  - 嚴重（Major）：Deferiprone、Samarium (153Sm) lexidronam
+  - 中等（Moderate）：Acetylsalicylic acid、Rolapitant、Apixaban、Dipyridamole、Cilostazol、Alteplase、Abciximab 等（多屬抗凝血或抗血小板藥物，以及放射性藥物）
 
-主要警語與禁忌症的資料目前缺漏，請參考原廠仿單。
+其他安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 「囊性腫瘤」並非明確定義的疾病實體，現有試驗與文獻多是針對子宮內膜／子宮漿液性癌及卵巢漿液性癌的間接證據。3 項試驗中，1 項仍在招募且無結果，1 項提早終止（僅 11 人），1 項撤回（0 人），尚無可解讀的療效數據。
-- 證據等級為 L3，較合適的定位是「研究問題」，而非可直接推進的適應症。
-- 預測排名第 1 的「會厭腫瘤」及其餘多數預測（良性腫瘤、神經母細胞瘤等）僅有模型分數，無任何研究支持，且對良性腫瘤使用 PARP 抑制劑的風險效益不佳，均建議維持 Hold。
+- 目前沒有任何臨床試驗或文獻直接研究 Niraparib 用於會厭腫瘤，證據等級為 L5，僅有 TxGNN 模型預測支持。
+- 該腫瘤部位也缺乏 HRD 或 DNA 修復缺陷的機轉依據。
 
 **若要推進需要：**
-- 釐清「囊性腫瘤」的具體病理定義，並聚焦於 HRD 陽性的漿液性腫瘤亞型
-- 等待 NCT04716686 的結果，並追蹤子宮漿液性癌 Phase 2 計畫（BMJ Open）的進展
-- 補齊 Niraparib 的作用機轉資料（DrugBank MOA）
-- 取得仿單的警語與禁忌症，並評估血液學毒性監測計畫與抗凝血類藥物的交互作用管理
+- 取得 Niraparib 詳細的作用機轉資料
+- 確認會厭腫瘤是否存在 HRD 或 DNA 修復相關的生物標記
+- 進行前臨床或細胞模型研究，初步評估 PARP 抑制在該腫瘤的活性
+- 評估此部位腫瘤的臨床試驗可行性及安全性監測計畫
 
 <!-- review:begin log -->
 

@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Salicylamide
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 253
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Salicylamide：預測新適應症為咽炎 (Pharyngitis)（證據等級 L4）。原適應症：鎮痛藥"
 monitor_inn: "Salicylamide"
@@ -14,7 +14,7 @@ predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopha
 # Salicylamide
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**咽炎 (Pharyngitis)** 有效，
 |------|------|
 | 原適應症 | 鎮痛藥 |
 | 預測新適應症 | 咽炎 (Pharyngitis) |
-| TxGNN 預測分數 | 99.98% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9998 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 30 張／共 117 張） |
 | 許可證數 | 117 張（有效單方 1／有效複方 29／已過期 2／已註銷 85） |
 | 建議決策 | Hold |
 

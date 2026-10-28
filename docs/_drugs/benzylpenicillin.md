@@ -6,7 +6,7 @@ nav_order: 42
 evidence_level: L5
 indication_count: 7
 monitor_inn: "Benzylpenicillin"
-predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "denture stomatitis", "chemotherapy-induced oral mucositis", "leukoplakia of gingiva"]
+predicted_indications: ["pericoronitis", "gingival recession", "canker sore", "ulcerative stomatitis", "chemotherapy-induced oral mucositis", "denture stomatitis", "leukoplakia of gingiva"]
 last_modified_at: 2026-10-16
 description: "Benzylpenicillin：預測新適應症為牙冠周炎 (Pericoronitis)（證據等級 L5）。原適應症：急慢性感染症（由葡萄球菌、鏈球菌、肺炎球菌、髓膜炎菌、放線菌、紡錘狀菌等引起的化膿性疾患）、髓膜炎、亞急性細菌性心內膜炎、淋病、梅毒…"
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**牙冠周炎 (Pericoronitis)** 有效，
 |------|------|
 | 原適應症 | 急慢性感染症（由葡萄球菌、鏈球菌、肺炎球菌、髓膜炎菌、放線菌、紡錘狀菌等引起的化膿性疾患）、髓膜炎、亞急性細菌性心內膜炎、淋病、梅毒、手術後感染預防 |
 | 預測新適應症 | 牙冠周炎 (Pericoronitis) |
-| TxGNN 預測分數 | 99.36% |
+| TxGNN 預測分數 | 0.9936 |
 | 證據等級 | L5 |
-| 台灣上市 | ✗ 僅有已註銷許可證 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 180 張） |
 | 許可證數 | 180 張（有效單方 2／有效複方 1／已註銷 177） |
 | 建議決策 | Hold |
 
@@ -66,12 +66,12 @@ TxGNN 模型預測它可能對**牙冠周炎 (Pericoronitis)** 有效，
 
 | 排名 | 預測疾病 | TxGNN 分數 | 機轉合理性簡評 |
 |------|---------|-----------|---------------|
-| 2 | 牙齦萎縮 (Gingival recession) | 99.31% | 主要為機械或解剖性問題，抗菌機轉關聯很弱 |
-| 3 | 口腔潰瘍 (Canker sore) | 99.27% | 多屬免疫相關，僅可能用於預防續發感染 |
-| 4 | 潰瘍性口炎 (Ulcerative stomatitis) | 99.26% | 可能處理續發細菌感染，但病因多樣，關聯間接 |
-| 5 | 義齒性口炎 (Denture stomatitis) | 99.26% | 以念珠菌生物膜為主，青黴素無抗黴菌活性，合理性弱 |
-| 6 | 化療引起的口腔黏膜炎 (Chemotherapy-induced oral mucositis) | 99.26% | 主要為黏膜損傷與發炎，抗菌作用僅間接相關 |
-| 7 | 牙齦白斑症 (Leukoplakia of gingiva) | 99.06% | 屬潛在癌前病變，非感染性，無明確機轉依據 |
+| 2 | 牙齦萎縮 (Gingival recession) | 0.9931 | 主要為機械或解剖性問題，抗菌機轉關聯很弱 |
+| 3 | 口腔潰瘍 (Canker sore) | 0.9927 | 多屬免疫相關，僅可能用於預防續發感染 |
+| 4 | 潰瘍性口炎 (Ulcerative stomatitis) | 0.9926 | 可能處理續發細菌感染，但病因多樣，關聯間接 |
+| 5 | 義齒性口炎 (Denture stomatitis) | 0.9926 | 以念珠菌生物膜為主，青黴素無抗黴菌活性，合理性弱 |
+| 6 | 化療引起的口腔黏膜炎 (Chemotherapy-induced oral mucositis) | 0.9926 | 主要為黏膜損傷與發炎，抗菌作用僅間接相關 |
+| 7 | 牙齦白斑症 (Leukoplakia of gingiva) | 0.9906 | 屬潛在癌前病變，非感染性，無明確機轉依據 |
 
 ## 臨床試驗證據
 
@@ -126,13 +126,13 @@ TxGNN 模型預測它可能對**牙冠周炎 (Pericoronitis)** 有效，
 
 **理由：**
 - 所有預測適應症皆只有模型分數，沒有臨床試驗與文獻支持（證據等級 L5）。
-- 台灣目前沒有有效的許可證（20 張皆已註銷），且作用機轉資料缺漏。
+- 台灣目前有 3 張有效許可證（共 180 張），且作用機轉資料缺漏。
 
 **若要推進需要：**
 - 補充 Benzylpenicillin 的作用機轉資料（DrugBank）。
 - 針對牙冠周炎進行文獻與臨床試驗的系統性檢索，並評估與現行口腔感染治療（如其他口服青黴素類）的比較價值。
 - 確認給藥途徑的可行性：現有劑型皆為注射劑，是否適合牙冠周炎這類局部、門診型感染需評估。
-- 釐清台灣的法規路徑，因為目前並無有效許可證。
+- 釐清台灣的法規路徑，目前有 3 張有效許可證（共 180 張）。
 - 針對腎臟疾病等族群及 Methotrexate 等交互作用藥物，制定安全性監測計畫。
 
 <!-- review:begin log -->

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Atezolizumab
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 34
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Atezolizumab：預測新適應症為攝護腺尿道泌尿上皮癌 (Prostatic urethra urothelial carcinoma)（證據等級 L4）。原適應症：非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）"
+evidence_level: L5
+indication_count: 6
 monitor_inn: "Atezolizumab"
-predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+last_modified_at: 2026-10-27
+description: "Atezolizumab：預測新適應症為子宮韌帶腺癌 (uterine ligament adenocarcinoma)（證據等級 L5）。原適應症：1. 非小細胞肺癌： (1) 單獨使用…"
 ---
 
 # Atezolizumab
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,44 +33,40 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating 
 
 </div>
 
-## Atezolizumab：從非小細胞肺癌到攝護腺尿道泌尿上皮癌
+## Atezolizumab：PD-L1 免疫檢查點抑制劑 → 子宮韌帶腺癌 (uterine ligament adenocarcinoma)
 {: .text-alpha }
 
 ## 一句話總結
 
-Atezolizumab（癌自禦）是一種 PD-L1 免疫檢查點抑制劑，原本用於非小細胞肺癌、三陰性乳癌、小細胞肺癌、肝細胞癌等癌症治療。
-TxGNN 模型預測它可能對**攝護腺尿道泌尿上皮癌 (prostatic urethra urothelial carcinoma)** 有效，
-目前有 **1 個臨床試驗**支持這個方向，尚無直接文獻證據。
+Atezolizumab 是一種抗 PD-L1 的單株抗體，屬免疫檢查點抑制劑。
+TxGNN 模型預測它可能對**子宮韌帶腺癌 (uterine ligament adenocarcinoma)** 有效，
+但目前針對此疾病**沒有任何臨床試驗或文獻**支持，預測僅來自模型本身。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境） |
-| 預測新適應症 | 攝護腺尿道泌尿上皮癌 (Prostatic urethra urothelial carcinoma) |
-| TxGNN 預測分數 | 99.98% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 1. 非小細胞肺癌： (1) 單獨使用，適用於第II至IIIA期(UICC/AJCC分期系統第7版)且腫瘤具PD-L1表現(tumor cell (TC) ≥ 1%)之非小細胞肺癌病人接受手術切除及含鉑藥物化學治療後的輔助性治療。 (2) 單獨使用，適用於治療接受含鉑化學治療後，疾病惡化之局部晚期或轉移性非小細胞肺癌病人。病人若具有EGFR或ALK腫瘤基因異常，則須先經EGFR或ALK抑制劑治療，若治療後疾病惡化方可使用本品。 (3) 與bevacizumab、paclitaxel和carboplatin併用，做為轉移性之非鱗狀非小細胞肺癌的第一線治療藥物。病人若具有 EGFR 突變或 ALK |
+| 預測新適應症 | 子宮韌帶腺癌 (uterine ligament adenocarcinoma) |
+| TxGNN 預測分數 | 0.9993 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，atezolizumab 屬於 PD-L1 抑制劑類別，透過阻斷 PD-L1 恢復 T 細胞對腫瘤的免疫活性，這個機轉已在多種癌症中獲得驗證。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Atezolizumab 是阻斷 PD-L1 的單株抗體，可解除腫瘤對 T 細胞的抑制，恢復抗腫瘤免疫反應。
 
-泌尿上皮癌是 PD-L1 抑制劑已確立的治療領域之一。攝護腺尿道的泌尿上皮癌在組織學上與膀胱泌尿上皮癌相近，因此從機轉和組織型態推論，這個預測具有合理性。
-
-不過，唯一連結的試驗是以 cabozantinib 為主軸的多癌種 Phase 1b 研究，並非專門針對攝護腺尿道腫瘤，因此目前沒有直接證據。
+對於表現 PD-L1 的腺癌，這種機轉在理論上可能適用。但目前沒有任何研究直接探討子宮韌帶腺癌，這項連結僅建立在 TxGNN 的預測上，需謹慎看待。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1 | 進行中（不再招募） | 914 | Cabozantinib 單用或與 atezolizumab 併用，用於局部晚期或轉移性實體腫瘤（含泌尿上皮癌、腎細胞癌、攝護腺癌等）；評估安全性、耐受性、初步療效與藥動學 |
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-目前無相關文獻。
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -95,35 +91,32 @@ TxGNN 模型預測它可能對**攝護腺尿道泌尿上皮癌 (prostatic urethr
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 免疫治療（PD-L1 單株抗體），非傳統細胞毒性藥物 |
-| 骨髓抑制風險 | 低（免疫治療本身較少直接骨髓抑制，但與化療併用時需依併用藥物評估） |
-| 致吐性分級 | 低 |
-| 監測項目 | CBC、肝腎功能、甲狀腺功能、血糖，以及免疫相關不良反應的臨床監測 |
-| 處置防護 | 請參考原廠仿單與院內抗腫瘤藥物處置規範 |
+| 細胞毒性分類 | 免疫治療（免疫檢查點抑制劑，非傳統細胞毒性藥物） |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 請參考原廠仿單的警語與注意事項 |
+| 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共收錄 75 筆交互作用。其中較需注意的包括：
-  - 嚴重等級（Major）：adalimumab、baricitinib、卡介苗（BCG）活菌製劑
-  - 中度等級（Moderate）：多種皮質類固醇（如 hydrocortisone、dexamethasone、prednisone、methylprednisolone）、免疫抑制劑（如 azathioprine、alemtuzumab）、部分疫苗
+- **藥物交互作用**：已查得 75 筆交互作用紀錄，以下為部分主要項目：
+  - 重度（Major）：Adalimumab、Baricitinib、卡介苗（Bacillus Calmette-Guérin）活菌製劑
+  - 中度（Moderate）：多種皮質類固醇（如 Hydrocortisone、Dexamethasone、Prednisone、Methylprednisolone）、Azathioprine、Alemtuzumab、Anakinra、Roflumilast，以及部分疫苗
 
-  這類交互作用多與免疫抑制可能削弱免疫治療效果，或活性疫苗風險有關。
-
-其他警語與禁忌症請參考原廠仿單。
+其餘警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數高，機轉上合理，但目前僅有一個非專門針對此疾病的 Phase 1b 多癌種試驗，沒有直接的臨床或文獻證據，證據等級為 L4。
-- 此疾病為罕見部位，且 atezolizumab 在一般泌尿上皮癌的角色需另行確認。
+針對子宮韌帶腺癌，目前沒有臨床試驗或文獻證據，預測僅來自 TxGNN 模型，屬於 L5 等級，不足以支持進一步投入。
 
 **若要推進需要：**
+- 搜尋並確認此疾病（或相近的子宮頸、子宮腺癌）是否有直接研究
+- 評估腫瘤 PD-L1 表現情形，建立機轉上的依據
 - 補充詳細的作用機轉資料（MOA）
-- 檢視 NCT03170960 中泌尿上皮癌（含尿道）子群的療效數據
-- 搜尋攝護腺尿道及上泌尿道泌尿上皮癌使用 PD-L1 抑制劑的文獻或病例系列
-- 評估此罕見適應症的可行性（病人數、試驗設計）及與台灣現有適應症的差異
+- 取得完整的警語與禁忌症資料，供安全性評估
 
 <!-- review:begin log -->
 

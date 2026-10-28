@@ -50,9 +50,9 @@ TxGNN 模型預測它對 **C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)
 |------|------|
 | 原適應症 | 體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療 |
 | 預測新適應症 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency) |
-| TxGNN 預測分數 | 99.99% |
+| TxGNN 預測分數 | 0.9999 |
 | 證據等級 | L1 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Proceed with Guardrails |
 
@@ -153,12 +153,12 @@ C1 酯酶抑制劑缺乏會使激肽釋放酶-激肽系統失控活化，造成�
 
 | 預測適應症 | TxGNN 分數 | 決策 |
 |-----------|-----------|------|
-| 毒性絲胺酸蛋白酶抑制劑聚合病 (serpinopathy with toxic serpin polymerization) | 99.99% | Hold |
-| 偽性血管性血友病 (pseudo-von Willebrand disease) | 99.21% | Hold |
-| 血小板原發性釋放障礙 (primary release disorder of platelets) | 99.14% | Hold |
-| 免疫介導壞死性肌病 (immune-mediated necrotizing myopathy) | 99.06% | Hold |
-| 抗合成酶症候群 (antisynthetase syndrome) | 99.02% | Hold |
-| 血小板無力症 (Glanzmann thrombasthenia) | 99.00% | Hold |
+| 毒性絲胺酸蛋白酶抑制劑聚合病 (serpinopathy with toxic serpin polymerization) | 0.9999 | Hold |
+| 偽性血管性血友病 (pseudo-von Willebrand disease) | 0.9921 | Hold |
+| 血小板原發性釋放障礙 (primary release disorder of platelets) | 0.9914 | Hold |
+| 免疫介導壞死性肌病 (immune-mediated necrotizing myopathy) | 0.9906 | Hold |
+| 抗合成酶症候群 (antisynthetase syndrome) | 0.9902 | Hold |
+| 血小板無力症 (Glanzmann thrombasthenia) | 0.9900 | Hold |
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

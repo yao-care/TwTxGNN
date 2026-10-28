@@ -6,9 +6,9 @@ nav_order: 191
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
-predicted_indications: ["tetanic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-10-16
-description: "Nefopam：預測新適應症為手足搐搦性白內障 (Tetanic Cataract)（證據等級 L5）。原適應症：鎮痛"
+predicted_indications: ["mature cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
+last_modified_at: 2026-10-23
+description: "Nefopam：預測新適應症為成熟性白內障 (Mature Cataract)（證據等級 L5）。原適應症：鎮痛"
 ---
 
 # Nefopam
@@ -33,33 +33,33 @@ description: "Nefopam：預測新適應症為手足搐搦性白內障 (Tetanic C
 
 </div>
 
-## Nefopam：從鎮痛到手足搐搦性白內障 (Tetanic Cataract)
+## Nefopam：從鎮痛到成熟性白內障
 {: .text-alpha }
 
 ## 一句話總結
 
-Nefopam 是一種非鴉片類中樞作用止痛藥，在台灣核准用於**鎮痛**。
-TxGNN 模型預測它可能對**手足搐搦性白內障 (Tetanic Cataract)** 有效，但目前**沒有任何臨床試驗或文獻**支持，僅有模型預測，機轉上也找不到合理關聯。
+Nefopam（尼夫平）是一種非鴉片類中樞作用鎮痛藥，在台灣核准用於**鎮痛**。
+TxGNN 模型預測它可能對**成熟性白內障 (Mature Cataract)** 有效，但目前**沒有任何臨床試驗或文獻**支持，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 鎮痛 |
-| 預測新適應症 | 手足搐搦性白內障 (Tetanic Cataract) |
-| TxGNN 預測分數 | 99.98% |
+| 預測新適應症 | 成熟性白內障 (Mature Cataract) |
+| TxGNN 預測分數 | 0.9998 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 15 張／共 42 張） |
 | 許可證數 | 42 張（有效單方 15／有效複方 0／已註銷 27） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。依現有資訊，Nefopam 的中樞止痛作用主要來自抑制血清素、正腎上腺素與多巴胺再攝取，並調節鈉離子與鈣離子通道。
+目前缺乏詳細的作用機轉資料。根據文獻的一般描述，Nefopam 是非鴉片類鎮痛藥，可能抑制單胺類再回收，並調節電壓門控鈉、鈣離子通道。
 
-白內障是水晶體混濁，成因包括氧化傷害、蛋白質聚集與離子恆定失調。上述止痛機轉與這些病理過程沒有已知關聯，原適應症（疼痛）和預測適應症（水晶體病變）之間也沒有明確的相似性。
+這些作用都屬於中樞疼痛調節，與水晶體混濁的成因（氧化損傷、蛋白質聚集等）沒有已知關聯。因此，原適應症（鎮痛）和預測新適應症（白內障）在機轉上缺乏合理的連結，這項預測只能視為模型輸出的假說，不應過度解讀。
 
-因此，這個預測目前只能視為模型產生的假說，**機轉上的合理性不足**。同一批預測中還有多種白內障亞型（未成熟型、成熟型、老年性、皮質性、糖尿病相關等），分數幾乎相同。這顯示模型可能是在疾病類別層級上給出相近分數，而不是針對特定機轉。
+同一批預測中，還有多種白內障亞型（未成熟性、老年性、糖尿病性等）得分相近，這些分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而不是生物學證據，也不是依藥物特有的機轉給分。
 
 ## 臨床試驗證據
 
@@ -108,19 +108,31 @@ TxGNN 模型預測它可能對**手足搐搦性白內障 (Tetanic Cataract)** �
 
 安全性資訊請參考原廠仿單。
 
+## 其他值得留意的預測：腰椎管狹窄 (Lumbar Spinal Stenosis)
+
+同一次預測中，排名第 10 的**腰椎管狹窄**（預測分數 0.9997）有實際文獻。這些研究探討的是手術期疼痛與感覺異常的處理，並非疾病本身的治療，屬間接支持。
+
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [38068520](https://pubmed.ncbi.nlm.nih.gov/38068520/) | 2023 | RCT | Journal of Clinical Medicine | 73 位接受脊椎手術的患者，評估 Nefopam 對感覺異常、術後疼痛與滿意度的影響 |
+| [41937571](https://pubmed.ncbi.nlm.nih.gov/41937571/) | 2026 | RCT | Asian Spine Journal | 多節段退化性腰椎融合術後持續靜脈注射 Nefopam 的節省鴉片類藥物效果（雙盲、安慰劑對照） |
+| [31166320](https://pubmed.ncbi.nlm.nih.gov/31166320/) | 2019 | 世代研究 | Zhurnal Voprosy Neirokhirurgii | 比較不同多模式鎮痛方案對脊椎狹窄手術後「脊椎手術失敗症候群」發生率的影響 |
+| [25535527](https://pubmed.ncbi.nlm.nih.gov/25535527/) | 2014 | 病例報告 | Journal of Korean Neurosurgical Society | 一位腰椎管狹窄手術患者使用 Nefopam 後發生癲癇重積狀態，提示痙攣風險 |
+
+這項預測的合理性明顯高於白內障：Nefopam 的鎮痛作用可能緩解神經性疼痛與感覺異常。使用時須留意其癲癇風險。
+
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 這個預測只有模型分數，沒有臨床試驗或文獻佐證（證據等級 L5），Nefopam 的藥理作用也與水晶體混濁無已知關聯。
-- 白內障進展到成熟期後主要靠手術處理，沒有理由預期止痛藥能逆轉水晶體混濁。
+- 成熟性白內障預測僅來自模型，沒有臨床試驗或文獻，機轉上也找不到合理連結，證據等級為 L5。
+- 腰椎管狹窄的文獻較有參考價值，但屬術後鎮痛的延伸應用，不是新適應症的直接證據。
 
 **若要推進需要：**
-- 找出 Nefopam 與水晶體病理（氧化壓力、離子恆定、蛋白質聚集等）之間的機轉證據，例如細胞或動物水晶體模型的前臨床研究。
-- 補齊 DrugBank 的作用機轉資料，以便做機轉關聯分析。
-- 評估給藥途徑的可行性：眼部疾病通常需要局部或眼內給藥，而台灣現有劑型僅有注射劑與口服錠劑。
-- 同一批預測中，**腰椎狹窄 (Lumbar Spinal Stenosis)** 已有 4 篇相關文獻，包括針對術後疼痛與感覺異常的隨機雙盲研究，證據等級為 L3。不過這屬於症狀性止痛，與原適應症高度重疊，不算真正的新適應症。若要優先投入資源，這個方向比白內障更值得深入評估。
+- 取得完整的作用機轉資料，確認是否有任何與水晶體相關的作用路徑。
+- 若後續轉向腰椎管狹窄，需整理 RCT 的主要結果並評估效益。
+- 評估癲癇與其他神經精神不良反應的風險，並擬定監測計畫。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

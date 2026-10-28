@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flucloxacillin
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 111
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Flucloxacillin"
 predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "leprosy", "Prinzmetal angina", "conjunctivitis (disease)", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "thrombotic disease", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-10-16
-description: "Flucloxacillin：預測新適應症為結膜炎 (Conjunctivitis)（證據等級 L4）。原適應症：皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎"
+last_modified_at: 2026-10-27
+description: "Flucloxacillin：預測新適應症為結膜炎 (conjunctivitis)（證據等級 L5）。原適應症：皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎"
 ---
 
 # Flucloxacillin
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,32 @@ description: "Flucloxacillin：預測新適應症為結膜炎 (Conjunctivitis)�
 
 </div>
 
-## Flucloxacillin：從細菌感染症到結膜炎
+## Flucloxacillin：抗葡萄球菌青黴素類抗生素 → 結膜炎 (conjunctivitis)
 {: .text-alpha }
 
 ## 一句話總結
 
-Flucloxacillin 是一種抗葡萄球菌的青黴素類抗生素，原本用於皮膚及軟組織感染、呼吸道感染、敗血症等細菌感染症。
-TxGNN 模型預測它可能對**結膜炎 (Conjunctivitis)** 有效，
-但目前**沒有臨床試驗**，只有 **1 篇個案報告**，且該報告談的病原體（淋病雙球菌）不在 flucloxacillin 常見的抗菌範圍內，證據相當薄弱。
+Flucloxacillin 是一種抗 β-內醯胺酶的青黴素類抗生素，主要作用於葡萄球菌與鏈球菌。
+TxGNN 模型預測它可能對**結膜炎 (conjunctivitis)** 有效，
+目前**沒有臨床試驗**，僅有 **1 篇文獻**（一則淋球菌淚腺炎病例報告），證據相當薄弱。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎 |
-| 預測新適應症 | 結膜炎 (Conjunctivitis) |
-| TxGNN 預測分數 | 99.84% |
-| 證據等級 | L4 |
-| 台灣上市 | ✗ 僅有已註銷許可證 |
+| 原適應症 | 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎。; 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎; 對青黴素有感受性之細菌感染症; 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症; 革蘭氏陽性菌陰性菌引起之感染症; 對革蘭氏陽性菌及陰性菌所引起之感染; 革蘭氏陽性菌及陰性菌所引起之感染症。; 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、結腸炎。; 皮膚及軟組織感染、中耳炎、呼吸 |
+| 預測新適應症 | 結膜炎 (conjunctivitis) |
+| TxGNN 預測分數 | 0.9984 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 24 張） |
 | 許可證數 | 24 張（有效單方 1／有效複方 0／已註銷 23） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，flucloxacillin 屬於對 β-內醯胺酶具抗性的青黴素類抗生素，主要對金黃色葡萄球菌及鏈球菌有活性，這些菌種也是細菌性眼部及附屬器感染的常見致病菌，因此在抗感染的邏輯上，用於細菌性結膜炎是可以想像的。
+目前缺乏詳細的作用機轉資料。Flucloxacillin 屬於抗 β-內醯胺酶的青黴素，對金黃色葡萄球菌與鏈球菌具有活性，而這些菌種是細菌性眼部及附屬器感染的常見病原，因此在抗感染的邏輯上有一定合理性。
 
-不過，目前唯一的文獻是一篇淋病雙球菌所致淚腺炎的個案報告。淋病雙球菌並非 flucloxacillin 的常規抗菌範圍，因此這篇報告無法直接支持此預測。此外，結膜炎常為局部用藥即可處理，全身性使用的 flucloxacillin 是否有臨床價值仍不明確。
-
-TxGNN 的其他高分預測（如類風濕性關節炎、痲瘋病、變異型心絞痛、血栓性疾病、遺傳性凝血異常、先天畸形症候群）在機轉上皆缺乏合理連結，應視為模型的雜訊，不建議推進。
+然而，現有唯一的文獻是淋球菌（Neisseria gonorrhoeae）引起的淚腺炎病例報告。該病原不在 flucloxacillin 的常規抗菌範圍內，且該報告探討的是淚腺炎，並非直接研究 flucloxacillin 治療結膜炎。因此沒有任何已引用的研究直接支持此藥用於結膜炎，證據等級只能判為 L5（僅有模型預測）。
 
 ## 臨床試驗證據
 
@@ -70,7 +68,7 @@ TxGNN 的其他高分預測（如類風濕性關節炎、痲瘋病、變異型�
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [41884366](https://pubmed.ncbi.nlm.nih.gov/41884366/) | 2026 | 個案報告 | Case reports in ophthalmology | 淋病雙球菌引起的淚腺炎個案，此菌可造成超急性細菌性結膜炎；淚腺受侵犯極為罕見，與 flucloxacillin 的療效無直接關聯 |
+| [41884366](https://pubmed.ncbi.nlm.nih.gov/41884366/) | 2026 | 病例報告 | Case reports in ophthalmology | 淋球菌引起超急性細菌性結膜炎，累及淚腺的情形極為罕見；此為淚腺炎個案，未評估 flucloxacillin 的療效 |
 
 ## 台灣上市資訊
 
@@ -97,21 +95,19 @@ TxGNN 的其他高分預測（如類風濕性關節炎、痲瘋病、變異型�
 
 安全性資訊請參考原廠仿單。
 
-另外，在本次彙整的文獻中，有個案報告提及 flucloxacillin 相關的不良反應，例如曾有類風濕性關節炎患者在長期使用後出現顆粒球缺乏症，以及一例疑似與 doxycycline 或 flucloxacillin 相關的史蒂文生-強森症候群／毒性表皮壞死溶解症致死案例。這些皆為個案層級的資訊，僅供提醒，不能據此推論發生率。
-
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 目前沒有任何臨床試驗，僅有 1 篇與 flucloxacillin 抗菌範圍不符的個案報告，證據等級為 L4。
-- 台灣目前僅有已註銷的許可證，沒有有效上市的產品，且缺乏作用機轉資料。
+- 沒有任何臨床試驗，僅有一篇與 flucloxacillin 無直接關聯的病例報告，無法支持結膜炎的新適應症。
+- 淋球菌不屬於 flucloxacillin 的常規抗菌範圍，現有文獻無法轉化為療效證據。
 
 **若要推進需要：**
-- 補充作用機轉與抗菌譜資料，確認 flucloxacillin 對結膜炎常見致病菌的實際療效。
-- 搜尋針對細菌性結膜炎或眼部葡萄球菌感染的臨床研究，並與現行局部抗生素比較。
-- 釐清劑型與給藥途徑是否適合眼部感染（目前路徑相容性尚未評估）。
-- 評估台灣已無有效許可證下的取得與申請途徑。
+- 取得 flucloxacillin 的詳細作用機轉資料。
+- 蒐集結膜炎常見致病菌（如葡萄球菌）對 flucloxacillin 的敏感性資料。
+- 評估給藥途徑是否適合眼部感染（現有劑型為注射與口服）。
+- 進行直接以結膜炎為對象的臨床研究或回顧性分析。
 
 <!-- review:begin log -->
 

@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 167
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-16
-description: "Lidocaine：預測新適應症為點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（證據等級 L5）。原適應症：局部麻醉"
 monitor_inn: "Lidocaine"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+last_modified_at: 2026-10-23
+description: "Lidocaine：預測新適應症為點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（證據等級 L5）。原適應症：局部麻醉"
 ---
 
 # Lidocaine
@@ -38,9 +38,11 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary c
 
 ## 一句話總結
 
-Lidocaine（利度卡因）是一種局部麻醉劑，在台灣主要用於局部麻醉、牙科與眼科表面麻醉。
-TxGNN 模型預測它可能對**點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis)** 有效，
-但這個預測目前**沒有任何臨床試驗或文獻**支持，僅為模型運算結果。
+Lidocaine（利多卡因）是鈉離子通道阻斷劑，在台灣原本用於局部麻醉，另有心室性不整律的急性治療與皰疹後神經痛等核准用途。
+TxGNN 模型預測分數最高的新適應症是**點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis)**，但該疾病目前**沒有任何臨床試驗或文獻**支持。
+在本報告所列的候選疾病中，只有**結膜疾患 (Conjunctival Disorder)** 有較多資料（2 個臨床試驗、多篇文獻），但這些研究多屬手術麻醉用途，並非疾病治療。
+
+---
 
 ## 快速總覽
 
@@ -48,39 +50,55 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (Punctate Epithelial Ke
 |------|------|
 | 原適應症 | 局部麻醉 |
 | 預測新適應症 | 點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis) |
-| TxGNN 預測分數 | 99.99% |
+| TxGNN 預測分數 | 0.9999 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 147 張／共 493 張） |
 | 許可證數 | 493 張（有效單方 56／有效複方 91／已過期 9／已註銷 337） |
 | 建議決策 | Hold |
 
+---
+
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Lidocaine 屬於電壓門控鈉離子通道阻斷劑，可阻斷感覺神經傳導，在眼表面麻醉上已有長期使用經驗。
+目前缺乏詳細的作用機轉資料。就已知的藥理特性而言，Lidocaine 屬於局部麻醉劑，作用是阻斷電壓門控鈉離子通道，抑制感覺神經傳導，因此能緩解眼表疼痛與不適。
 
-不過，點狀上皮角結膜炎的成因多為感染或發炎。Lidocaine 的麻醉作用只能暫時緩解不適，並沒有證據顯示它能處理這些病因。因此這個預測目前僅是模型運算的結果，機轉上的支持相當薄弱。
+排名第一的點狀上皮角結膜炎、以及第 2、3 名的乳突性結膜炎與酒糟性結膜炎，都屬於眼表疾病。Lidocaine 最多只能提供症狀性的止痛，對這些疾病的發炎、感染或過敏成因沒有已知療效。此外，反覆局部使用可能傷害角膜上皮，這是使用上的疑慮。
 
-另有一點需要注意：局部麻醉劑可能影響角膜修復與保護性反射，用於角膜表面病變時需格外謹慎。
+因此，這幾項預測的依據僅是 TxGNN 模型分數，並沒有機轉或臨床資料佐證。
+
+---
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
+首位預測疾病（點狀上皮角結膜炎）目前無相關臨床試驗登記。
+
+下表為排名第 6 的「結膜疾患」所對應的試驗，供參考；這些試驗並未直接研究首位預測疾病：
+
+| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+|---------|------|------|------|---------|
+| [NCT05978687](https://clinicaltrials.gov/study/NCT05978687) | Phase 4 | 完成 | 41 | 翼狀贅片切除術中，比較 Lidocaine 凝膠與結膜下注射麻醉；終點為手術麻醉，並非疾病治療 |
+| [NCT01350024](https://clinicaltrials.gov/study/NCT01350024) | 不適用 | 完成 | 34 | 比較兩種局部麻醉方式於眼瞼下垂手術後的疼痛；屬相鄰的眼整形情境 |
+
+---
 
 ## 文獻證據
 
-目前無相關文獻。
+首位預測疾病（點狀上皮角結膜炎）目前無相關文獻。
 
-## 其他排名較前的預測方向（參考）
+下表為其他預測疾病中較相關的文獻，供參考：
 
-| 排名 | 預測適應症 | 分數 | 證據等級 | 備註 |
-|------|-----------|------|---------|------|
-| 2 | 乳突狀結膜炎 | 99.98% | L5 | 無證據，僅模型預測 |
-| 3 | 酒糟性結膜炎 | 99.92% | L5 | 無證據，僅模型預測 |
-| 4 | 暴露性角膜炎 | 99.87% | L5 | 麻醉劑可能延緩角膜癒合，恐使病情惡化 |
-| 5 | 異位性結膜炎 | 99.86% | L4 | 僅有小鼠機轉研究與小型人體生理研究，屬研究假說 |
-| 6 | 結膜疾患 | 99.84% | L4 | 有 2 個已完成試驗，但測試的是翼狀贅片手術麻醉，並非疾病治療 |
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [18989343](https://pubmed.ncbi.nlm.nih.gov/18989343/) | 2009 | RCT | Eye | 比較 Lidocaine 2% 凝膠與 Tetracaine 1% 滴劑作為翼狀贅片手術的單一表面麻醉（結膜疾患） |
+| [15799734](https://pubmed.ncbi.nlm.nih.gov/15799734/) | 2005 | 臨床研究 | Acta Ophthalmol Scand | 評估 Lidocaine 2% 凝膠於翼狀贅片手術的麻醉效果 |
+| [16954710](https://pubmed.ncbi.nlm.nih.gov/16954710/) | 2006 | 臨床研究 | Ophthalmologica | 評估黏稠 Lidocaine 控制翼狀贅片術後疼痛 |
+| [29135709](https://pubmed.ncbi.nlm.nih.gov/29135709/) | 2018 | 先導研究 | Cornea | 比較結膜下注射、2% 與 5% Lidocaine 凝膠於翼狀贅片手術的麻醉 |
+| [37819721](https://pubmed.ncbi.nlm.nih.gov/37819721/) | 2023 | 動物研究 | JCI Insight | 神經與杯狀細胞的關聯經由抗原快速通過促進過敏性結膜炎（機轉背景，非 Lidocaine 療效） |
+| [8039024](https://pubmed.ncbi.nlm.nih.gov/8039024/) | 1994 | 世代研究 | Clin Exp Allergy | 鼻腔麻醉對過敏原激發後淚液功能的影響（過敏性結膜炎） |
+| [33361408](https://pubmed.ncbi.nlm.nih.gov/33361408/) | 2021 | 世代研究 | J Neurol Neurosurg Psychiatry | SUNCT/SUNA 的藥物治療，屬頭痛疾患而非結膜疾病 |
+| [19250287](https://pubmed.ncbi.nlm.nih.gov/19250287/) | 2009 | Review | Cephalalgia | Lidocaine 的神經精神副作用回顧，有安全性參考價值 |
 
-其中「結膜疾患」的相關試驗（如 NCT05978687，Lidocaine 凝膠與結膜下注射用於翼狀贅片切除術）屬於既有的麻醉適應症，只能說明眼部使用的可行性與安全性。
+---
 
 ## 台灣上市資訊
 
@@ -106,32 +124,34 @@ TxGNN 模型預測它可能對**點狀上皮角結膜炎 (Punctate Epithelial Ke
 
 <!-- TFDA_LICENSE_TABLE -->
 
+---
+
 ## 安全性考量
 
-- **知識圖譜標示的相關疾病禁忌（非仿單內容）**：高血壓、肝衰竭、肝病、肝硬化、癲癇、腎臟病、青光眼（開角型）、腎上腺皮質功能不全、甲狀腺功能低下、骨質疏鬆、精神疾病、病毒性角膜炎（單純疱疹）等。實際禁忌請以仿單為準。
-- **藥物交互作用**：共查得 534 筆，主要包括：
-  - 重大（Major）：Bupropion
-  - 中度（Moderate）：Aprepitant、Cimetidine、Morphine (liposomal)、Obeticholic acid、Polyethylene glycol (3350 with electrolytes)、Picosulfuric acid、Sodium sulfate
+- **主要警語與禁忌症**：資料中無仿單層級的警語與禁忌症資料，請參考原廠仿單。
+- **知識圖譜記錄的禁忌關聯**（來自知識圖譜，並非仿單內容）：高血壓、肝衰竭、癲癇、腎臟病、肝病、膽囊疾病、腎上腺皮質功能不全、甲狀腺功能低下、開角型青光眼、肝硬化、異位性皮膚炎、骨質疏鬆、精神疾患、黴菌感染、胃炎等。
+- **藥物交互作用**：資料庫共記錄 534 筆。重大等級包括 **Bupropion**；中等等級包括 Aprepitant、Cimetidine、Morphine (liposomal)、Obeticholic acid、Polyethylene glycol (3350 含電解質)、Picosulfuric acid、Sodium sulfate；輕微等級包括 Dexamethasone、Kanamycin、Neomycin、Omeprazole、Streptomycin、Troglitazone。
 - **文獻中的安全訊號**：
-  - 靜脈使用 Lidocaine 曾見神經精神與心臟方面的副作用。
-  - 曾有病例報告在腎病症候群兒童併用局部 Lidocaine、Benzocaine 與 co-trimoxazole 後發生高鐵血紅素血症。
-  - 腎臟疾病患者的血漿蛋白結合率改變，游離藥物比例上升。
+  - 靜脈或高劑量使用時有神經精神與心血管副作用的報告。
+  - 有 1 例兒童同時使用局部 Lidocaine、Benzocaine 與 Co-trimoxazole 而發生高鐵血紅素血症。
+  - 有獼猴於 1% Lidocaine 稀釋液中注射 Ceftriaxone 後發生癲癇發作的報告。
 
-其餘警語與禁忌請參考原廠仿單。
+---
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 排名第一的預測（點狀上皮角結膜炎）沒有任何臨床試驗或文獻，僅有模型分數，證據等級為 L5。
-- Lidocaine 的麻醉作用無法處理該疾病的發炎或感染病因，且可能影響角膜修復。
+- 首位預測疾病沒有任何臨床試驗或文獻，證據等級為 L5，僅有模型預測。
+- 資料中雖有結膜相關的麻醉研究，但屬於手術麻醉用途，不是疾病治療，也不能直接支持首位預測。
+- 反覆局部使用有損傷角膜上皮的疑慮，且機轉上沒有針對疾病成因的作用。
 
 **若要推進需要：**
-- 補齊詳細的作用機轉資料（MOA）。
-- 以前臨床或小型探索性研究，驗證 Lidocaine 對結膜炎／角膜上皮病變的實質療效，而非僅止於症狀緩解。
-- 若要探索眼表神經調節方向（如異位性結膜炎的神經—杯狀細胞軸），可先作為研究假說，評估其可行性。
-- 評估眼用劑型的適用性，以及對角膜癒合的影響。
+- 補充作用機轉資料（MOA），並釐清 Lidocaine 對眼表發炎性疾病是否有任何疾病修飾作用。
+- 建立針對點狀上皮角結膜炎的臨床前或小規模臨床研究，並評估角膜毒性。
+- 確認眼用劑型的可及性：台灣目前列出的有效單方許可證中，未見眼用 Lidocaine 劑型。
+- 若要探索其他候選疾病，優先考慮過敏性結膜炎，因其有神經機轉的初步支持，但仍屬研究性假說。
 
 <!-- review:begin log -->
 

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Nitrous Oxide
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 195
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Nitrous oxide"
-predicted_indications: ["benign prostatic hyperplasia (disease)", "headache disorder", "nephrogenic syndrome of inappropriate antidiuresis", "alopecia", "insomnia (disease)", "trigeminal autonomic cephalalgia", "congenital hypotrichosis milia", "diffuse alopecia areata", "hypotrichosis simplex of the scalp", "common cold"]
+predicted_indications: ["benign prostatic hyperplasia (disease)"]
 last_modified_at: 2026-10-16
 description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign Prostatic Hyperplasia)（證據等級 L4）。原適應症：吸入性全身麻醉、鎮痛"
 ---
@@ -14,7 +14,7 @@ description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign
 # Nitrous Oxide
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**良性攝護腺肥大 (Benign Prostatic Hyperpla
 |------|------|
 | 原適應症 | 吸入性全身麻醉、鎮痛 |
 | 預測新適應症 | 良性攝護腺肥大 (Benign Prostatic Hyperplasia) |
-| TxGNN 預測分數 | 99.52% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9952 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 8 張） |
 | 許可證數 | 8 張（有效單方 2／有效複方 0／已註銷 6） |
 | 建議決策 | Hold |
 

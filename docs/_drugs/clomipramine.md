@@ -4,17 +4,17 @@ title: Clomipramine
 parent: 高證據等級 (L1-L2)
 nav_order: 70
 evidence_level: L1
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-16
 description: "Clomipramine：預測新適應症為焦慮症 (Anxiety Disorder)（證據等級 L1）。原適應症：憂鬱病"
 monitor_inn: "Clomipramine"
-predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "histrionic personality disorder (disease)", "paranoid personality disorder", "schizoid personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
+predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
 ---
 
 # Clomipramine
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**焦慮症 (Anxiety Disorder)** 有效，
 |------|------|
 | 原適應症 | 憂鬱病 |
 | 預測新適應症 | 焦慮症 (Anxiety Disorder) |
-| TxGNN 預測分數 | 99.93% |
+| TxGNN 預測分數 | 0.9993 |
 | 證據等級 | L1 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 14 張） |
 | 許可證數 | 14 張（有效單方 4／有效複方 0／已過期 1／已註銷 9） |
 | 建議決策 | Proceed with Guardrails |
 

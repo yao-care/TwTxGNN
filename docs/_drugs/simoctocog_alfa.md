@@ -4,7 +4,7 @@ title: Simoctocog Alfa
 parent: 僅模型預測 (L5)
 nav_order: 258
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Simoctocog Alfa：預測新適應症為偽性類血友病 (pseudo-von Willebrand disease)（證據等級 L5）。原適應症：治療與預防A型血友病(先天性第八凝血因子缺乏)病人的出血"
 monitor_inn: "Simoctocog alfa"
@@ -14,7 +14,7 @@ predicted_indications: ["pseudo-von Willebrand disease", "primary release disord
 # Simoctocog Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對 **偽性類血友病 (pseudo-von Willebrand disea
 |------|------|
 | 原適應症 | 治療與預防A型血友病(先天性第八凝血因子缺乏)病人的出血 |
 | 預測新適應症 | 偽性類血友病 (pseudo-von Willebrand disease) |
-| TxGNN 預測分數 | 99.997% |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -60,9 +60,9 @@ TxGNN 模型預測它可能對 **偽性類血友病 (pseudo-von Willebrand disea
 
 然而，偽性類血友病是一種血小板型疾病，成因是 GP1BA 基因的功能增強變異，使血小板過度結合 von Willebrand 因子。其病理核心在血小板，而非 FVIII 缺乏，因此補充 FVIII 在機轉上沒有明確依據。
 
-換言之，這個高分預測主要反映知識圖譜中的網路關聯（兩者同屬出血或凝血相關疾病），而非實際的生物學或臨床證據，應謹慎解讀。
+換言之，這個高分預測的分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性（兩者同屬出血或凝血相關疾病），而非生物學或臨床證據，應謹慎解讀。
 
-> 補充：在其他預測中，「合併血管異常的 A 型血友病 (hemophilia A with vascular abnormality)」與原適應症的機轉最直接相關（證據等級 L4，屬於由已核准適應症外推的研究問題），可作為後續優先檢視的方向。其餘多數預測（如血小板功能異常、血小板減少症、TTP 等）皆缺乏機轉支持。
+> 補充：多數預測（如血小板功能異常、血小板減少症、TTP 等）皆缺乏機轉支持。
 
 ## 臨床試驗證據
 

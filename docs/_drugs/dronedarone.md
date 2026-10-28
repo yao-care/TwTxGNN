@@ -4,9 +4,9 @@ title: Dronedarone
 parent: 中證據等級 (L3-L4)
 nav_order: 94
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "Dronedarone"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
+predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 last_modified_at: 2026-10-16
 description: "Dronedarone：預測新適應症為中風相關疾患 (Stroke Disorder)（證據等級 L4）。原適應症：血管擴張劑"
 ---
@@ -14,7 +14,7 @@ description: "Dronedarone：預測新適應症為中風相關疾患 (Stroke Diso
 # Dronedarone
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**中風相關疾患 (Stroke Disorder)** 有效。
 |------|------|
 | 原適應症 | 血管擴張劑。（另一張許可證：最近 6 個月內有陣發性或持續性 AF/AFL，且目前處於竇性節律者，降低心房顫動住院風險） |
 | 預測新適應症 | 中風相關疾患 (Stroke Disorder) |
-| TxGNN 預測分數 | 99.97% |
+| TxGNN 預測分數 | 0.9997 |
 | 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold（列為研究問題，暫不推進） |
 
@@ -115,7 +115,7 @@ TxGNN 模型預測它可能對**中風相關疾患 (Stroke Disorder)** 有效。
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.97%），但目前僅有 L4 等級證據：沒有任何以中風為主要終點的臨床試驗，現有文獻多為 AF 領域的事後分析、回顧與機轉研究，且其中一篇隨機試驗（PALLAS）反映了特定族群的安全疑慮。
+- 預測分數雖高（0.9997），但目前僅有 L4 等級證據：沒有任何以中風為主要終點的臨床試驗，現有文獻多為 AF 領域的事後分析、回顧與機轉研究，且其中一篇隨機試驗（PALLAS）反映了特定族群的安全疑慮。
 - 中風預防在臨床上已有成熟的抗凝血療法，Dronedarone 的角色較可能是 AF 節律控制的間接獲益，而非獨立的中風適應症，建議先作為研究問題。
 
 **若要推進需要：**

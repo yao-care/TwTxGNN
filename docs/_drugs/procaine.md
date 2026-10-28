@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Procaine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 235
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Procaine"
-predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-16
-description: "Procaine：預測新適應症為高鐵血紅素血症 (Methemoglobinemia)（證據等級 L4）。原適應症：局部麻醉"
+predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa"]
+last_modified_at: 2026-10-27
+description: "Procaine：預測新適應症為高鐵血紅素血症 (methemoglobinemia)（證據等級 L5）。原適應症：局部麻醉"
 ---
 
 # Procaine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,34 @@ description: "Procaine：預測新適應症為高鐵血紅素血症 (Methemoglob
 
 </div>
 
-## Procaine：從局部麻醉到高鐵血紅素血症（預測）
+## Procaine：局部麻醉酯類鈉通道阻斷劑 → 高鐵血紅素血症 (methemoglobinemia)
 {: .text-alpha }
 
 ## 一句話總結
 
-Procaine（普魯卡因）是酯類局部麻醉藥，在台灣的單方許可證原本用於**局部麻醉**，同時也是普魯卡因青黴素等抗生素製劑的成分。
-TxGNN 模型預測它可能對**高鐵血紅素血症 (Methemoglobinemia)** 有關聯，但目前**沒有臨床試驗**，僅有 **5 篇文獻**，且文獻顯示這比較像是**不良反應關聯，而非治療效果**。
+Procaine 是一種酯類局部麻醉藥，作用於神經細胞的鈉通道。
+TxGNN 模型預測它可能與**高鐵血紅素血症 (methemoglobinemia)** 有關，
+但目前**沒有臨床試驗**，僅有 **5 篇文獻**，且文獻內容主要描述 procaine 會「誘發」高鐵血紅素血症，屬於不良反應關聯，並非治療證據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 局部麻醉 |
-| 預測新適應症 | 高鐵血紅素血症 (Methemoglobinemia) |
-| TxGNN 預測分數 | 99.50% |
-| 證據等級 | L4 |
-| 台灣上市 | ✗ 僅有已註銷許可證（無有效許可證） |
+| 原適應症 | 局部麻醉; 局部麻醉用; 支氣管炎、扁桃腺炎、肺炎、急性心內膜炎、膽道炎、急性胃腸炎、膀胱炎、腎盂炎、淋菌性尿道炎、子宮炎、乳房炎、產褥熱、腹膜炎、中耳炎、眼部感染症、癤病、敗血症、蜂窩織炎; 急慢性結膜炎、眼瞼緣炎、麥粒腫、急性淚腺炎、角膜潰瘍; 鼻炎、副鼻腔炎、過敏性鼻炎及流鼻水、鼻塞、鼻出血; 鼻炎、副鼻腔炎、過敏性鼻炎（鼻塞、流鼻水）鼻出血; 急慢性鼻炎、過敏性鼻炎、副鼻腔炎、鼻塞、鼻充血; 鼻炎、副鼻腔炎、過敏性鼻炎所引起之鼻塞、流鼻水、鼻出血; 急性結膜炎、眼瞼緣炎、麥粒腫、急性淚腺炎、角膜潰瘍。; 鼻炎、副鼻腔炎、過敏性鼻炎所引起之流鼻水、鼻塞及鼻出血。; 細菌引起之感染症; 惡 |
+| 預測新適應症 | 高鐵血紅素血症 (methemoglobinemia) |
+| TxGNN 預測分數 | 0.9950 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 12 張／共 88 張） |
 | 許可證數 | 88 張（有效單方 4／有效複方 8／已過期 1／已註銷 75） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Procaine 是芳香胺類酯型局部麻醉藥，一般認為是透過阻斷電位門控鈉通道而產生麻醉作用。藥理資料庫也列出它與 RyR1、RyR2 的關聯，但缺乏公開的活性資料可佐證，因此尚無法確立主要作用標靶。
+目前缺乏詳細的作用機轉資料。Procaine 屬於芳香胺類酯型局部麻醉藥，一般認為透過阻斷電壓門控鈉通道來產生麻醉效果。
 
-與高鐵血紅素血症的關聯方面，文獻指出 Procaine 這類芳香胺藥物可氧化血紅素，**誘發**高鐵血紅素血症。換言之，TxGNN 的預測反映的是藥物與該疾病之間的「不良反應」連結，而不是治療用途。對於先天性高鐵血紅素血症（如 alpha 型）或高鐵血紅素還原酶缺乏症（排名第 2、5 的預測），Procaine 反而可能使病況惡化，屬於安全性顧慮。
+然而，就預測的疾病而言，現有文獻顯示 procaine（以及 lidocaine 等同類藥物）會氧化血紅素而**造成**高鐵血紅素血症，例如靜脈注射 procaine 後出現高鐵血紅素血症的病例報告。因此，這項預測反映的是藥物與疾病之間的「不良反應關聯」，而不是可用於治療的機轉依據。從機轉上看，該藥不僅不太可能改善此疾病，反而可能使病況惡化。
 
-因此，這個預測在機轉上**不支持**再利用為治療藥物。
+此外，已收錄的文獻並未有直接研究「以 procaine 治療高鐵血紅素血症」的試驗。依證據等級規則，必須有直接研究該疾病的治療證據才能評為 L1–L4，故本預測評為 L5。
 
 ## 臨床試驗證據
 
@@ -69,13 +70,11 @@ TxGNN 模型預測它可能對**高鐵血紅素血症 (Methemoglobinemia)** 有�
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [6705717](https://pubmed.ncbi.nlm.nih.gov/6705717/) | 1984 | Review | Drugs | 局部麻醉藥合理使用的綜述，需掌握藥理特性與病人狀況 |
-| [5529388](https://pubmed.ncbi.nlm.nih.gov/5529388/) | 1970 | Case series | Acta Physiol Latino Am | 靜脈注射 Procaine 導致高鐵血紅素血症 |
-| [14246695](https://pubmed.ncbi.nlm.nih.gov/14246695/) | 1965 | Case series | Lancet | 使用 Lignocaine 後發生高鐵血紅素血症（同類藥物） |
-| [5644303](https://pubmed.ncbi.nlm.nih.gov/5644303/) | 1968 | Cohort | Am J Obstet Gynecol | 研究 Procaine 與對胺基苯甲酸通過人類胎盤 |
-| [3691245](https://pubmed.ncbi.nlm.nih.gov/3691245/) | 1987 | Cohort | Zhonghua Wai Ke Za Zhi | 探討靜脈注射 Procaine 麻醉對高鐵血紅素濃度的影響 |
-
-這些文獻皆為老舊的個案或小型研究，且多數說明的是 Procaine 引起高鐵血紅素血症的風險，並非治療證據。
+| [5529388](https://pubmed.ncbi.nlm.nih.gov/5529388/) | 1970 | 病例系列 | Acta physiologica latino americana | 靜脈注射 procaine 引起高鐵血紅素血症 |
+| [14246695](https://pubmed.ncbi.nlm.nih.gov/14246695/) | 1965 | 病例系列 | Lancet | 使用 lignocaine（lidocaine）後發生高鐵血紅素血症 |
+| [3691245](https://pubmed.ncbi.nlm.nih.gov/3691245/) | 1987 | 世代研究 | Zhonghua wai ke za zhi | 探討靜脈注射 procaine 麻醉對高鐵血紅素濃度的影響 |
+| [5644303](https://pubmed.ncbi.nlm.nih.gov/5644303/) | 1968 | 世代研究 | Am J Obstet Gynecol | procaine 與對胺基苯甲酸通過人類胎盤之情形 |
+| [6705717](https://pubmed.ncbi.nlm.nih.gov/6705717/) | 1984 | 回顧 | Drugs | 局部麻醉藥的合理使用 |
 
 ## 台灣上市資訊
 
@@ -117,26 +116,14 @@ TxGNN 模型預測它可能對**高鐵血紅素血症 (Methemoglobinemia)** 有�
 
 <!-- TFDA_LICENSE_TABLE -->
 
-## 其他預測適應症簡述
-
-| 預測適應症 | 分數 | 證據等級 | 摘要 |
-|-----------|------|---------|------|
-| 肌腱炎 (Tendinitis) | 99.20% | L3 | 有 1 項 RCT（1% Procaine 神經治療用於棘上肌肌腱病變），但其他研究多為一般局部麻醉藥或老舊個案；屬局部浸潤止痛 |
-| 纖維肌痛 (Fibromyalgia) | 99.23% | L4 | 僅有舊的無對照報告，鈉通道阻斷可能緩解症狀 |
-| 甲狀腺機能亢進 | 99.25% | L4 | 僅有 20 世紀中期的麻醉與神經阻斷報告，無疾病修飾證據 |
-| 過敏性休克 (Anaphylaxis) | 99.29% | L4 | 文獻多為 Procaine／普魯卡因青黴素引起的過敏或類過敏反應（如 Hoigné 症候群），屬不良反應 |
-| 妥瑞氏症、肌纖維化肌炎、特發性肉芽腫性肌炎 | — | L5 | 僅有模型預測，無支持證據 |
-
-在這些預測中，**肌腱炎與纖維肌痛**因局部止痛機轉合理，是相對較有研究價值的方向。
-
 ## 安全性考量
 
-- **知識圖譜標示的禁忌疾病**（來自 TxGNN 知識圖譜，並非仿單內容）：長 QT 症候群、尖端扭轉型心室頻脈、房室傳導阻滯、心血管疾病、腎臟疾病、肝臟疾病、血小板低下、嗜中性白血球低下／顆粒球缺乏症、全身性紅斑性狼瘡、重症肌無力、低血壓、低血鉀、丁醯膽鹼酯酶缺乏症等。
-- **藥物交互作用**（共 17 筆）：
-  - 重大（Major）：Nitrous acid
-  - 中度（Moderate）：Sulfasalazine，以及其他局部麻醉藥（Lidocaine、Benzocaine、Cocaine、Tetracaine、Oxybuprocaine、Cinchocaine 等）
+- **藥物交互作用**：共 17 筆紀錄，其中
+  - 嚴重（Major）：Nitrous acid
+  - 中度（Moderate）：Sulfasalazine，以及多種局部或眼用麻醉藥（如 lidocaine、benzocaine、cocaine、tetracaine、oxybuprocaine、cinchocaine）
   - 輕微（Minor）：Laronidase、Hyaluronidase、Doxorubicin（含微脂體劑型）
-- **特別留意**：Procaine 可誘發高鐵血紅素血症，也有過敏及類過敏反應（如 Hoigné 症候群）的報告。
+- **藥理標靶紀錄**：資料中列有 RyR1 與 RyR2，但尚缺乏公開的生物活性數據證實其為主要標靶。
+- **與本預測相關的風險**：文獻指出 procaine 可誘發高鐵血紅素血症，對於本身即有高鐵血紅素血症或高鐵血紅素還原酶缺乏的族群，屬於安全疑慮。
 
 其餘警語與禁忌症請參考原廠仿單。
 
@@ -145,14 +132,13 @@ TxGNN 模型預測它可能對**高鐵血紅素血症 (Methemoglobinemia)** 有�
 **決策：Hold**
 
 **理由：**
-- 排名第 1 的預測（高鐵血紅素血症）實為藥物不良反應關聯，並非治療機會，且無任何臨床試驗支持。
-- 台灣目前僅有已註銷的許可證，無有效上市產品。
+- 現有文獻顯示 procaine 是高鐵血紅素血症的誘發因子而非治療藥，沒有任何臨床試驗支持其治療用途，證據等級僅為 L5。
+- 預測分數雖高（0.9950），但反映的是藥物與疾病的關聯，並不代表療效。
 
 **若要推進需要：**
-- 若要探索再利用，建議改以**肌腱炎／肌筋膜疼痛**等局部止痛方向作為研究問題，並設計以 Procaine 本身（而非一般局部麻醉藥）為對照的隨機對照試驗。
-- 補充詳細的作用機轉資料（MOA）。
-- 評估劑型與給藥途徑的可行性，以及在台灣重新取得許可證的可能性。
-- 針對高鐵血紅素血症與過敏風險，建立安全性監測計畫。
+- 釐清該關聯方向（不良反應或治療），並確認是否有任何治療相關的機轉或前臨床證據
+- 取得詳細的作用機轉資料
+- 若仍要探討，需設計針對高鐵血紅素血症族群的安全性評估，並納入氧化壓力與血氧監測
 
 <!-- review:begin log -->
 

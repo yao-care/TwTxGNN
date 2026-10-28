@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 175
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-16
-description: "Methionine：預測新適應症為痤瘡 (Acne)（證據等級 L5）。原適應症：發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給"
 monitor_inn: "Methionine"
-predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "immature cataract", "craniostenosis cataract", "mature cataract", "tetanic cataract", "cortical cataract", "nuclear senile cataract", "diabetic cataract"]
+predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "immature cataract", "craniostenosis cataract", "nuclear senile cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "tetanic cataract", "diabetic cataract"]
+last_modified_at: 2026-10-23
+description: "Methionine：預測新適應症為痤瘡 (Acne)（證據等級 L5）。原適應症：營養補給、發育不良、乙醯胺基酸逾量之解毒劑"
 ---
 
 # Methionine
@@ -33,35 +33,33 @@ predicted_indications: ["acne (disease)", "severe nonproliferative diabetic reti
 
 </div>
 
-## Methionine：從胃、十二指腸潰瘍與營養補給到痤瘡
+## Methionine：從營養補給與乙醯胺基酸過量解毒到痤瘡
 {: .text-alpha }
 
 ## 一句話總結
 
-Methionine（甲硫胺酸）是人體必需胺基酸，在台灣原本用於胃、十二指腸潰瘍、營養補給及乙醯胺基酸（acetaminophen）逾量之解毒。
-TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，但目前**沒有臨床試驗**，僅有 **2 篇間接相關文獻**，證據相當薄弱。
+Methionine（甲硫胺酸）是含硫必需胺基酸，在台灣原本用於營養補給，以及乙醯胺基酸逾量的解毒。
+TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，但目前**沒有臨床試驗**，只有 **2 篇間接相關文獻**，證據僅屬模型預測層級。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給 |
+| 原適應症 | 營養補給、發育不良、乙醯胺基酸逾量之解毒劑 |
 | 預測新適應症 | 痤瘡 (Acne) |
-| TxGNN 預測分數 | 99.9996% |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 144 張／共 693 張） |
 | 許可證數 | 693 張（有效單方 6／有效複方 138／已過期 8／已註銷 541） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Methionine 是參與一碳代謝與同半胱胺酸（homocysteine）代謝的必需胺基酸，在營養補給、肝臟功能維持及解毒等用途上已有長期使用經驗。
+目前缺乏詳細的作用機轉資料。已知甲硫胺酸是同半胱胺酸與 S-腺苷甲硫胺酸 (SAM) 的前驅物，參與體內甲基化與含硫代謝。
 
-與痤瘡的關聯目前僅停留在間接層面：Methionine 位於同半胱胺酸與一碳代謝路徑上，而這條路徑在 isotretinoin 治療痤瘡期間會受到干擾（有研究觀察到血漿同半胱胺酸上升）。不過，**沒有任何證據顯示補充 Methionine 能改善痤瘡**，此連結屬推測性質，臨床上並未獲得支持。
+檢索到的兩篇文獻都不是在測試甲硫胺酸能否治療痤瘡。一篇是新生兒 MTHFR 突變的個案報告，患者出現新生兒痤瘡等皮膚表現。另一篇觀察到異維 A 酸治療囊腫性痤瘡的患者血漿同半胱胺酸升高。這些只能說明痤瘡治療與同半胱胺酸代謝之間有間接關聯，不能證明甲硫胺酸本身有效。
 
-此外，原適應症（消化性潰瘍、營養補給、解毒）與痤瘡在疾病性質上差異大，相似度尚待評估。
-
-其他排名較前的預測（如糖尿病視網膜病變、各型白內障）同樣只有模型預測或機轉層級的研究，其中白內障相關文獻多為水晶體蛋白氧化的體外或動物研究，也沒有 Methionine 的介入性資料。
+因此這項預測目前只是假說，機轉上的合理性尚待驗證。
 
 ## 臨床試驗證據
 
@@ -71,8 +69,10 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，但目前**沒有臨床
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohort | Int J Dermatol | 囊腫性痤瘡患者使用 isotretinoin 期間血漿同半胱胺酸升高，提示一碳代謝路徑受影響；並未評估 Methionine 治療痤瘡 |
-| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Case series | BMJ Case Rep | MTHFR 新突變個案，新生兒出現腦病變、掉髮及類馬凡氏特徵，同時有新生兒痤瘡；僅為個案描述，與 Methionine 療效無直接關聯 |
+| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | 世代研究 | Int J Dermatol | 接受異維 A 酸治療囊腫性痤瘡的患者，血漿同半胱胺酸升高 |
+| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | 個案報告 | BMJ Case Reports | 新型 MTHFR 突變的新生兒出現腦病變、掉髮與新生兒痤瘡等表現 |
+
+這兩篇文獻都沒有直接研究甲硫胺酸用於痤瘡的療效。
 
 ## 台灣上市資訊
 
@@ -108,28 +108,25 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，但目前**沒有臨床
 
 ## 安全性考量
 
+- **知識圖譜中記錄的禁忌關聯**（非仿單內容）：高血壓、腎臟疾病（含慢性腎衰竭、末期腎病）、心臟與心血管疾病、糖尿病與酮酸中毒、高鈣血症、高脂血症、腎結石、苯酮尿症等。
 - **藥物交互作用**（共 5 筆）：
-  - 中度：Activated charcoal（活性碳）
-  - 輕度：Ephedrine、Pseudoephedrine、Mexiletine、Flecainide
+  - 中度：活性碳。
+  - 輕度：麻黃素、偽麻黃素、美西律、氟卡尼。
 
-- **知識圖譜標示之潛在禁忌疾病**（來自模型知識圖譜的藥物－疾病關聯，非仿單內容，僅供參考）：高血壓、腎臟疾病（含慢性腎衰竭、末期腎病）、糖尿病及糖尿病酮酸中毒、心臟及心血管疾病、高脂血症、高血鈣相關疾病、腎結石、苯丙酮尿症等。
-
-其他警語與禁忌症請參考原廠仿單。
+其餘安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測痤瘡的依據僅有模型分數，無臨床試驗，文獻也只是間接觀察（isotretinoin 相關的同半胱胺酸變化與個案報告），沒有證據顯示 Methionine 對痤瘡有益。
-- 知識圖譜顯示 Methionine 與多種心血管、代謝及腎臟疾病有潛在禁忌關聯，在缺乏療效證據下不宜貿然推進。
+痤瘡的預測只有模型分數，沒有任何直接研究該疾病的臨床試驗或文獻，現有文獻僅涉及同半胱胺酸的間接關聯，因此證據等級為 L5。
 
 **若要推進需要：**
-- 補齊作用機轉資料，釐清 Methionine／同半胱胺酸路徑與痤瘡病理的因果關係
-- 先進行前臨床或小規模探索性研究，驗證補充 Methionine 是否影響痤瘡病灶
-- 評估給藥途徑與劑型是否適合皮膚科用途（目前台灣劑型為注射、錠劑及粉末）
-- 針對高血壓、腎臟疾病、糖尿病等族群建立安全性評估與排除條件
-- 若考慮其他預測方向（如糖尿病白內障），也需先取得介入性研究證據；目前白內障相關項目僅屬研究問題層級
+- 補充甲硫胺酸作用機轉的資料。
+- 設計針對痤瘡的前臨床或探索性研究，確認甲硫胺酸或其代謝路徑是否影響皮脂腺、發炎或角質化。
+- 評估用於皮膚疾病時的劑型與給藥途徑。
+- 針對高血壓、腎臟疾病、糖尿病、心血管疾病等知識圖譜標示的風險族群，建立安全性評估計畫。
 
 <!-- review:begin log -->
 

@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對 **Rasmussen 亞急性腦炎 (Rasmussen subacute e
 |------|------|
 | 原適應症 | 用於改善以含有 levodopa 製劑治療的帕金森氏症之藥效漸退現象 |
 | 預測新適應症 | Rasmussen 亞急性腦炎 (Rasmussen subacute encephalitis) |
-| TxGNN 預測分數 | 99.63% |
+| TxGNN 預測分數 | 0.9963 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對 **Rasmussen 亞急性腦炎 (Rasmussen subacute e
 
 Rasmussen 腦炎主要由 T 細胞介導的自體免疫發炎所驅動，會造成單側大腦半球進行性萎縮與難治型癲癇。Safinamide 的機轉並未針對這個免疫病理過程，因此兩者的關聯**純屬推測**，沒有臨床或前臨床證據支持。
 
-其他同時被預測的疾病包括脊髓炎（myelitis，分數 99.46%）與 PLA2G6 相關神經退化症（PLA2G6-associated neurodegeneration，分數 99.22%）。後者與帕金森症狀有部分重疊，機轉上相對較合理，但同樣沒有直接證據，且藥物預期無法改變疾病本身的進程。
+其他同時被預測的疾病包括脊髓炎（myelitis，分數 0.9946）與 PLA2G6 相關神經退化症（PLA2G6-associated neurodegeneration，分數 0.9922）。後者與帕金森症狀有部分重疊，機轉上相對較合理，但同樣沒有直接證據，且藥物預期無法改變疾病本身的進程。
 
 ## 臨床試驗證據
 

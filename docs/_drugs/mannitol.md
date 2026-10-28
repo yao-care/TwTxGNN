@@ -4,17 +4,17 @@ title: Mannitol
 parent: 僅模型預測 (L5)
 nav_order: 173
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Mannitol"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "King-Denborough syndrome"]
-last_modified_at: 2026-10-16
-description: "Mannitol：預測新適應症為腎因性抗利尿不適當症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（證據等級 L5）。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
+last_modified_at: 2026-10-23
+description: "Mannitol：預測新適應症為腎因性抗利尿不適當綜合症 (nephrogenic syndrome of inappropriate antidiuresis)（證據等級 L5）。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）"
 ---
 
 # Mannitol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,33 @@ description: "Mannitol：預測新適應症為腎因性抗利尿不適當症候�
 
 </div>
 
-## Mannitol：從腦壓亢進與水腫到腎因性抗利尿不適當症候群
+## Mannitol：腎因性抗利尿不適當綜合症
 {: .text-alpha }
 
 ## 一句話總結
 
-Mannitol（甘露醇）是一種滲透性利尿劑，在台灣原本用於利尿、降顱內壓、腦水腫、促進毒物經尿液排除，以及腎絲球過濾率測定（診斷用）。
-TxGNN 模型預測它可能對**腎因性抗利尿不適當症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis, NSIAD)** 有效，但目前**沒有任何臨床試驗**，僅有 **1 篇**一般性低血鈉綜述，證據相當薄弱。
+Mannitol（甘露醇）是一種滲透性利尿劑，在台灣核准用於利尿、降顱內壓、腦水腫、促進毒物經尿排除，以及腎絲球過濾率測定（診斷用）。
+TxGNN 模型預測它可能對**腎因性抗利尿不適當綜合症 (nephrogenic syndrome of inappropriate antidiuresis)** 有效，但目前**沒有臨床試驗**，僅有 **1 篇**一般性的低血鈉綜述，且未提及甘露醇的實際療效，屬於僅有模型預測的階段。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用） |
-| 預測新適應症 | 腎因性抗利尿不適當症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
-| TxGNN 預測分數 | 99.97% |
+| 預測新適應症 | 腎因性抗利尿不適當綜合症 (nephrogenic syndrome of inappropriate antidiuresis) |
+| TxGNN 預測分數 | 0.9997 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 8 張／共 83 張） |
 | 許可證數 | 83 張（有效單方 8／有效複方 0／已過期 2／已註銷 73） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Mannitol 是滲透性利尿劑，透過提高血漿與腎小管液的滲透壓，增加尿量並降低腦壓。
+目前缺乏詳細的作用機轉資料。已知甘露醇是滲透性利尿劑，經腎小球過濾後不易被再吸收，使腎小管內滲透壓升高而增加尿量與溶質排出，這也是它用於降顱內壓與腦水腫的基礎。
 
-NSIAD 的成因是第二型血管升壓素受體 (V2 receptor) 的功能獲得性突變，臨床上以限水及尿素處理。以 Mannitol 做滲透負荷，目前沒有已建立的理論依據，還可能擾亂低血鈉的矯正速度與動態。這個預測較可能反映模型在知識圖譜中的間接關聯，而非明確的藥理機轉。
+從理論上看，腎因性抗利尿不適當綜合症是一種水分滯留、容易低血鈉的疾病，而滲透性利尿能增加排尿，因此模型可能因此建立關聯。不過，這個連結相當間接：滲透性負荷本身也可能擾動鈉的平衡，反而使電解質問題更複雜。
 
-此外，排名前 10 的預測中，多數（惡性高熱、多核心肌病、King-Denborough 症候群等）似乎與 RYR1 相關疾病或惡性高熱的關聯有關。Mannitol 在其中多半只是製劑成分或支持性角色，並非疾病修飾治療。
+目前唯一連結的文獻是低血鈉評估的通論性綜述，並未提到甘露醇，因此這項預測目前只能視為假說。
 
 ## 臨床試驗證據
 
@@ -69,7 +69,7 @@ NSIAD 的成因是第二型血管升壓素受體 (V2 receptor) 的功能獲得�
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | European Journal of Internal Medicine | 說明低血鈉評估的十大常見陷阱，強調正確診斷病因與避免治療不足或過度矯正；並未直接討論 Mannitol 對 NSIAD 的療效 |
+| [26706473](https://pubmed.ncbi.nlm.nih.gov/26706473/) | 2016 | Review | European Journal of Internal Medicine | 說明評估低血鈉病人時常見的十個陷阱，強調正確診斷病因的重要性，以及治療不足或矯正過度的風險；未涉及甘露醇的療效 |
 
 ## 台灣上市資訊
 
@@ -104,25 +104,22 @@ NSIAD 的成因是第二型血管升壓素受體 (V2 receptor) 的功能獲得�
 
 ## 安全性考量
 
-- **禁忌症（知識圖譜推論，非仿單內容）**：知識圖譜列出的關聯包括無尿症 (anuria)、肺水腫、顱內出血、腎功能受損、肝衰竭、肝性腦病變、血小板減少、嗜中性白血球減少、顆粒球缺乏症、貧血、卟啉症等。實際禁忌請以仿單為準。
-- **藥物交互作用**：共查得 249 筆，下列為部分範例：
-  - 重大 (Major)：Amikacin
-  - 中度 (Moderate)：Lamivudine、Formoterol、Salbutamol、Amifostine、Benazepril、Captopril、Canagliflozin、Dapagliflozin、Carbamazepine、Citalopram 等
-- **與本預測相關的風險**：Mannitol 的滲透性利尿會增加尿量，可能影響體液與電解質平衡，在低血鈉的矯正上需特別留意，過快或過度矯正有風險。
+- **知識圖譜中的禁忌關聯**（來自知識圖譜的疾病關聯，並非仿單文字）：肝衰竭、肝性腦病變、無尿症、腎功能不全、肺水腫、顱內出血、貧血、血小板減少、嗜中性球減少、顆粒球缺乏症、紫質症、睡眠呼吸中止症、物質濫用或依賴等。
+- **與預測適應症相關的安全疑慮**：滲透性利尿可能加重水與電解質失衡，用於水分滯留或低血鈉族群時，需特別留意血鈉變化。
+- **藥物交互作用**：資料庫共記錄 249 筆交互作用。其中較需注意的包括與 Amikacin 的**嚴重 (Major)** 交互作用；另有多項中度交互作用，例如 Lamivudine、Formoterol、Salbutamol、Benazepril、Captopril、Carbamazepine、Citalopram、Dapagliflozin、Canagliflozin 等。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 模型分數雖高，但沒有任何臨床試驗，文獻僅有一篇與 Mannitol 無直接關係的低血鈉綜述，證據等級為 L5。
-- 機轉上缺乏依據，滲透負荷可能干擾低血鈉的矯正，目前不建議推進。
+此預測僅來自模型分數，沒有任何臨床試驗，唯一的文獻也與甘露醇無直接關聯，證據等級為 L5。再加上滲透性利尿在理論上可能擾亂鈉平衡，不建議推進。
 
 **若要推進需要：**
-- 取得 Mannitol 的作用機轉資料，並評估與 V2 受體功能獲得性突變之間是否有任何合理的藥理連結。
-- 搜尋並確認是否有 Mannitol 用於 NSIAD 或相關低血鈉病況的病例報告或機轉研究。
-- 若仍想探索，應先做前臨床或小規模機轉研究，並制定嚴密的血鈉與滲透壓監測計畫。
-- 與同組預測（如惡性高熱、週期性麻痺）一併評估，優先處理已有間接文獻支持的方向。
+- 補齊甘露醇的作用機轉資料，並釐清其在抗利尿相關疾病中的生理效應
+- 檢索並評估甘露醇用於此疾病的病例報告或機轉研究
+- 評估對血鈉、血鉀與容積狀態的風險，並設計安全性監測計畫
+- 確認此罕見疾病族群是否有可行的臨床研究設計
 
 <!-- review:begin log -->
 

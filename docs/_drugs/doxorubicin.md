@@ -4,17 +4,17 @@ title: Doxorubicin
 parent: 高證據等級 (L1-L2)
 nav_order: 93
 evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Doxorubicin：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L1）。原適應症：急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌"
+indication_count: 8
 monitor_inn: "Doxorubicin"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "ganglioneuroblastoma (disease)"]
+predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
+last_modified_at: 2026-10-27
+description: "Doxorubicin：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L1）。原適應症：急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌"
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,84 +33,68 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-## Doxorubicin：從白血病、淋巴瘤與實體腫瘤到尤文氏肉瘤
+## Doxorubicin：蒽環類 DNA 嵌入劑與拓撲異構酶 II 抑制劑 → 尤文氏肉瘤 (Ewing sarcoma)
 {: .text-alpha }
-
-<!-- review:begin doxorubicin-original-indication-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Doxorubicin：從 HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤相關治療到尤文氏肉瘤」。HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤分別是 trastuzumab 類與 polatuzumab vedotin 許可證的適應症。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end doxorubicin-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Doxorubicin 是廣泛使用的蒽環類（anthracycline）細胞毒性化療藥物，台灣 doxorubicin 單方許可證核准的適應症為急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。
-TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
-目前資料顯示有 **27 個臨床試驗**登記和 **20 篇文獻**支持這個方向，其中包含多個 Phase 3 隨機試驗。
-
-<!-- review:begin doxorubicin-summary-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「台灣許可證所列的相關適應症為乳癌、胃癌及瀰漫性大型 B 細胞淋巴瘤的併用治療。」。原句的乳癌、胃癌來自 trastuzumab 類許可證，瀰漫性大型 B 細胞淋巴瘤來自 polatuzumab vedotin（保癌寧，衛部菌疫輸字第001123號）許可證，doxorubicin 只是其中的併用藥。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end doxorubicin-summary-indication-2026-10-03 -->
+Doxorubicin 是蒽環類（anthracycline）細胞毒性化療藥物。
+TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
+目前有 **30 個臨床試驗**和 **20 篇文獻**支持這個方向，其中包含多個已完成的 Phase 3 隨機試驗。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型另核准 AIDS 相關卡波西氏肉瘤、卵巢癌、轉移性乳癌、多發性骨髓瘤 |
+| 原適應症 | 急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌。; 用於治療CD4數量低下(<200 CD4 LYMPHOCYTES/MM3）和黏膜、皮膚或內臟有病變的AIDS RELATED KAPOSI'S SARCOMA的病人。用於治療曾接受第一線含鉑類藥物(PLATINUM-BASED)化學治療而失敗者或再復發之進行性或轉移性卵巢癌病人。可用於單一治療有心臟疾病風險考量之轉移性乳癌患者。可與bortezomib併用治療於曾接受過至少一種治療方式且已經接受或不適宜接受骨髓移植的進展性多發性骨髓瘤病人。; 抗癌藥; 用於治療CD4數量低下(<200 D4 LYMPHOCYTE |
 | 預測新適應症 | 尤文氏肉瘤 (Ewing sarcoma) |
-| TxGNN 預測分數 | 99.90% |
+| TxGNN 預測分數 | 0.9990 |
 | 證據等級 | L1 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 28 張） |
 | 許可證數 | 28 張（有效單方 7／有效複方 0／已註銷 21） |
 | 建議決策 | Proceed with Guardrails |
 
-<!-- review:begin doxorubicin-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現之早期乳癌、轉移性乳癌、轉移性胃癌（取自單一成分許可證的核准適應症文字）」。此列是 trastuzumab 類許可證（HER2 陽性乳癌、轉移性胃癌）的適應症，不是 doxorubicin 本身的核准適應症。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end doxorubicin-original-indication-2026-10-03 -->
-
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。根據已知藥理，doxorubicin 會嵌入 DNA 並抑制拓樸異構酶 II（topoisomerase II），造成快速增生腫瘤細胞的 DNA 損傷。
+目前缺乏來自 DrugBank 的詳細作用機轉資料。
+依本報告所整理的資料，doxorubicin 可嵌入 DNA 並抑制拓撲異構酶 II，造成 DNA 損傷，對快速增生的小圓細胞腫瘤具有細胞毒性。
 
-尤文氏肉瘤是好發於兒童、青少年與年輕成人的小圓細胞肉瘤。Doxorubicin 是其標準多藥方案（VDC/IE：vincristine、doxorubicin、cyclophosphamide 與 ifosfamide、etoposide 交替）的核心成分。多項隨機 Phase 3 試驗（如 COG 與 EURO EWING 系列）都以含 doxorubicin 的方案為骨幹，這使 TxGNN 的預測在臨床上相當合理。
+尤文氏肉瘤是好發於兒童、青少年與年輕成人的骨與軟組織惡性腫瘤。
+目前主流的多藥化療組合，如 VDC/IE（vincristine、doxorubicin、cyclophosphamide 與 ifosfamide、etoposide 交替），都以 doxorubicin 為核心成分。
+多個隨機 Phase 3 試驗與多篇文獻也以含 doxorubicin 的方案作為標準治療骨幹。
 
-需要說明的是，這些證據多半評估的是整體多藥方案，難以單獨拆解 doxorubicin 的貢獻。此外，台灣許可證所列的適應症並不包含尤文氏肉瘤，這屬於適應症外使用的評估。
+因此從機轉與臨床使用來看，模型預測有相當的合理性。
+需要注意，現有證據多半是「含 doxorubicin 的多藥合併方案」的整體結果，很難單獨拆出 doxorubicin 的貢獻。
 
 ## 臨床試驗證據
 
-以下列出與 doxorubicin 最相關的試驗（依相關性分級及階段挑選，最多 10 個）：
-
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT00002466](https://clinicaltrials.gov/study/NCT00002466) | Phase 2 | 完成 | 未提供 | 含 cyclophosphamide、doxorubicin、vincristine、etoposide、ifosfamide 的化療，後續手術與放療，用於周邊原始神經外胚層腫瘤或尤文氏肉瘤 |
-| [NCT00038142](https://clinicaltrials.gov/study/NCT00038142) | Phase 2 | 提前終止 | 46 | VAC 加 dexrazoxane，合併或不合併 ImmTher，用於新診斷高風險尤文氏肉瘤 |
-| [NCT00003667](https://clinicaltrials.gov/study/NCT00003667) | Phase 2 | 完成 | 未提供 | 同上類型之隨機試驗（VAC＋dexrazoxane，加或不加 ImmTher） |
-| [NCT01313884](https://clinicaltrials.gov/study/NCT01313884) | Phase 2 | 提前終止 | 3 | Cyclophosphamide/doxorubicin/vincristine 與 irinotecan/temozolomide 交替，用於轉移性尤文氏肉瘤（僅 3 人，資料有限） |
-| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Phase 3 | 完成 | 642 | 於標準五藥化療（含 doxorubicin）加入 vincristine-topotecan-cyclophosphamide，用於非轉移性尤文氏肉瘤 |
-| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Phase 3 | 完成 | 587 | 以化療壓縮間隔強化療程，用於尤文氏肉瘤及相關腫瘤 |
-| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Phase 3 | 完成 | 278 | 非轉移性尤文氏肉瘤的劑量強化 vs 標準治療 |
-| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Phase 3 | 進行中（不再招募） | 312 | 於多藥化療（含 doxorubicin）加入 ganitumab，用於新診斷轉移性尤文氏肉瘤 |
-| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Phase 3 | 狀態未知 | 1200 | EURO-E.W.I.N.G.99，比較尤文氏肉瘤的化療與放療策略 |
-| [NCT00002516](https://clinicaltrials.gov/study/NCT00002516) | Phase 3 | 狀態未知 | 未提供 | EICESS 92，比較尤文氏肉瘤的多種化療方案 |
+| [NCT00006734](https://clinicaltrials.gov/study/NCT00006734) | Phase 3 | 完成 | 587 | 比較不同化療強度（間隔縮短）搭配放射治療或手術，用於尤文氏肉瘤及相關腫瘤 |
+| [NCT01231906](https://clinicaltrials.gov/study/NCT01231906) | Phase 3 | 完成 | 642 | 在含 vincristine、doxorubicin、cyclophosphamide、ifosfamide、etoposide 的標準五藥方案上，加入 vincristine-topotecan-cyclophosphamide，用於非轉移性尤文氏肉瘤 |
+| [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | Phase 3 | 完成 | 278 | 隨機比較標準與強化治療，用於非轉移性尤文氏肉瘤 |
+| [NCT00020566](https://clinicaltrials.gov/study/NCT00020566) | Phase 3 | 未知 | 1200 | EURO-E.W.I.N.G.99：歐洲多國研究，評估含放射治療、手術與幹細胞移植的合併化療 |
+| [NCT02306161](https://clinicaltrials.gov/study/NCT02306161) | Phase 3 | 進行中（不再招募） | 312 | 在含 doxorubicin 的多藥化療上加入 ganitumab，用於新診斷轉移性尤文氏肉瘤 |
+| [NCT00002516](https://clinicaltrials.gov/study/NCT00002516) | Phase 3 | 未知 | 未提供 | EICESS 92：隨機比較多種合併化療，搭配手術與放射治療 |
+| [NCT00003667](https://clinicaltrials.gov/study/NCT00003667) | Phase 2 | 完成 | 未提供 | VAC 加 dexrazoxane，搭配或不搭配 ImmTher，用於高風險尤文氏肉瘤 |
+| [NCT00038142](https://clinicaltrials.gov/study/NCT00038142) | Phase 2 | 提前終止 | 46 | 評估高劑量強度 VAC 加 dexrazoxane 的 2 年無病存活與毒性 |
+| [NCT00002466](https://clinicaltrials.gov/study/NCT00002466) | Phase 2 | 完成 | 未提供 | 含 doxorubicin 的多藥化療，之後接手術與放射治療，用於週邊原始神經外胚層腫瘤或尤文氏肉瘤 |
+| [NCT01313884](https://clinicaltrials.gov/study/NCT01313884) | Phase 2 | 提前終止 | 3 | cyclophosphamide/doxorubicin/vincristine 與 irinotecan/temozolomide 交替，用於轉移性尤文氏肉瘤；僅收 3 人，無法解讀 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT | N Engl J Med | 於標準化療加入 ifosfamide 與 etoposide，用於新診斷尤文氏肉瘤與骨原始神經外胚層腫瘤 |
-| [23091096](https://pubmed.ncbi.nlm.nih.gov/23091096/) | 2012 | RCT | J Clin Oncol | 局部尤文氏肉瘤採用間隔壓縮化療（VDC/IE 交替）的隨機試驗 |
-| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT | Lancet | EE2012：比較歐美兩種標準化療方案的開放性 Phase 3 試驗 |
-| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | RCT | J Clin Oncol | 於間隔壓縮化療加入 ganitumab，用於轉移性尤文氏肉瘤的 Phase 3 試驗 |
-| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | RCT（試驗設計） | Trials | EURO EWING 2012 試驗的方案說明 |
-| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Review | Cancer | 全國尤文氏肉瘤腫瘤委員會的治療共識建議 |
-| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Review | J Clin Oncol | 尤文氏肉瘤現行治療與跨團隊合作的未來方向 |
-| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Review | Lancet Oncol | 尤文氏肉瘤綜述，局部病灶存活率由化療前約 10% 提升到約 75% |
-| [25993235](https://pubmed.ncbi.nlm.nih.gov/25993235/) | 2015 | Review | ASCO Educ Book | 骨肉瘤與尤文氏肉瘤的全身性治療 |
-| [1833556](https://pubmed.ncbi.nlm.nih.gov/1833556/) | 1991 | 劑量強度分析 | J Natl Cancer Inst | 分析 doxorubicin 劑量強度與骨肉瘤及尤文氏肉瘤反應和預後的關聯 |
+| [12594313](https://pubmed.ncbi.nlm.nih.gov/12594313/) | 2003 | RCT | N Engl J Med | 在標準化療上加入 ifosfamide 與 etoposide，檢驗能否改善新診斷尤文氏肉瘤與骨原始神經外胚層腫瘤的存活 |
+| [36522207](https://pubmed.ncbi.nlm.nih.gov/36522207/) | 2022 | RCT | Lancet | EE2012：開放性 Phase 3，比較歐洲與美國兩種標準化療策略 |
+| [36669140](https://pubmed.ncbi.nlm.nih.gov/36669140/) | 2023 | RCT | J Clin Oncol | 在間隔縮短的化療上加入 ganitumab，用於新診斷轉移性尤文氏肉瘤的 Phase 3 試驗 |
+| [23091096](https://pubmed.ncbi.nlm.nih.gov/23091096/) | 2012 | RCT | J Clin Oncol | 間隔縮短化療（VDC 與 IE 交替）用於局部尤文氏肉瘤的隨機試驗 |
+| [31952545](https://pubmed.ncbi.nlm.nih.gov/31952545/) | 2020 | RCT（試驗計畫） | Trials | EURO EWING 2012 國際隨機試驗的設計 |
+| [37403815](https://pubmed.ncbi.nlm.nih.gov/37403815/) | 2023 | Review | Cancer | 國家尤文氏肉瘤腫瘤委員會的治療共識建議 |
+| [26304893](https://pubmed.ncbi.nlm.nih.gov/26304893/) | 2015 | Review | J Clin Oncol | 以風險分層的密集新輔助與輔助化療，搭配手術與放射治療的多專科治療現況 |
+| [20152770](https://pubmed.ncbi.nlm.nih.gov/20152770/) | 2010 | Review | Lancet Oncol | 化療使局部疾病存活率由約 10% 提升至約 75%，轉移性疾病預後仍差 |
+| [25993235](https://pubmed.ncbi.nlm.nih.gov/25993235/) | 2015 | Review | ASCO Educ Book | 骨肉瘤與尤文氏肉瘤的全身性治療，需結合有效化療與局部控制 |
+| [1833556](https://pubmed.ncbi.nlm.nih.gov/1833556/) | 1991 | 文獻分析 | J Natl Cancer Inst | 分析 doxorubicin 劑量強度與骨肉瘤、尤文氏肉瘤反應及預後的關係 |
 
 ## 台灣上市資訊
 
@@ -143,35 +127,34 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（蒽環類，拓樸異構酶 II 抑制劑） |
-| 骨髓抑制風險 | 高（本次整理的資料中，知識圖譜標示嗜中性白血球低下、血小板低下、白血球低下、貧血等相關風險） |
-| 致吐性分級 | 中至高度（依藥物類別判斷） |
-| 監測項目 | CBC（含分類）、肝功能、心臟功能（如心臟超音波／LVEF）、膽紅素 |
-| 處置防護 | 需依細胞毒性藥物處置規範操作 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（蒽環類，DNA 嵌入劑與拓撲異構酶 II 抑制劑） |
+| 骨髓抑制風險 | 高（常見嗜中性白血球減少、白血球減少、血小板減少與貧血） |
+| 致吐性分級 | 中至高（與 cyclophosphamide 併用時偏高） |
+| 監測項目 | CBC（含分類）、肝腎功能、心臟功能（如左心室射出分率）、電解質 |
+| 處置防護 | 需依細胞毒性藥物處置規範操作（配製、給藥與廢棄物處理） |
 
+蒽環類具累積性心臟毒性，兒童與年輕病人長期存活後仍需追蹤。
 詳細警語請參考原廠仿單。
 
 ## 安全性考量
 
-- **知識圖譜標示的禁忌或高風險疾病**（來自藥物－疾病關聯，並非仿單文字，需對照仿單確認）：肝衰竭／肝病、血小板低下、嗜中性白血球低下、顆粒球缺乏症、白血球低下、貧血、高膽紅素血症、心臟疾病、心肌病變、充血性心衰竭、心臟傳導疾病、感染性疾病（含黴菌感染）等。
-- **藥物交互作用**：資料庫共有 665 筆交互作用紀錄。列出的 Major 等級包括 dolasetron、cisapride、papaverine；Moderate 等級包括 ondansetron、granisetron、palonosetron、aprepitant、dexamethasone、clarithromycin、levofloxacin 等，與止吐用藥併用時尤需留意 QT 間期。
+- **藥物交互作用**：資料庫共收錄 665 筆交互作用。列為 Major 的包括 dolasetron、cisapride、papaverine。常見 Moderate 的有 ondansetron、granisetron、palonosetron、aprepitant、rolapitant、dexamethasone、clarithromycin、levofloxacin 等，其中不少是化療常用的止吐藥，併用時需留意。
 
-其他警語與禁忌的正式內容，請參考原廠仿單。
+其餘警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**
 
 **理由：**
-- 尤文氏肉瘤的標準多藥方案含 doxorubicin，且有多項已完成的 Phase 3 隨機試驗與 RCT 文獻，證據等級為 L1。
-- 但這些證據多評估整體方案，無法單獨歸因於 doxorubicin；台灣許可證也未涵蓋此適應症，且藥物有明確的心臟毒性與骨髓抑制風險。
+- 尤文氏肉瘤已有多個已完成的 Phase 3 隨機試驗與高品質文獻，所用的標準多藥方案都以 doxorubicin 為核心成分之一，證據等級為 L1。
+- doxorubicin 的骨髓抑制與累積性心臟毒性明確，且證據多來自合併方案，因此需設定安全防護。
 
 **若要推進需要：**
-- 確認尤文氏肉瘤是否已有標準治療指引或適應症外使用的審查機制。
-- 建立累積劑量上限、心臟功能基線與追蹤（如 LVEF）及血液學監測計畫。
-- 補充 DrugBank 的作用機轉資料，並對照原廠仿單確認警語與禁忌。
-- 確認與止吐藥等併用藥物的 QT 風險與交互作用管理。
-- 本次其他預測適應症多僅有 L3-L5 證據，其中橫紋肌肉瘤（L2）可作為次要研究方向；其餘宜維持研究假說或暫緩。
+- 釐清 doxorubicin 在多藥方案中的獨立貢獻，例如以各試驗的方案細節與分層分析確認。
+- 核對本地許可證的適應症，確認尤文氏肉瘤是否屬於已核准用途，以及是否需要新增適應症申請。
+- 建立心臟功能（累積劑量與 LVEF）與血液學監測計畫。
+- 補充詳細作用機轉資料與完整的警語、禁忌症資訊。
 
 <!-- review:begin log -->
 
@@ -181,11 +164,11 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 一句話總結以併用藥物許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症取自 trastuzumab 類許可證 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 一句話總結以併用藥物許可證的適應症為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 trastuzumab 類許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表列 polatuzumab vedotin 製劑「保癌寧」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 資料說明「20 張許可證均登記為相同許可證號」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以 HER2 陽性乳癌與 DLBCL 為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以 HER2 陽性乳癌與 DLBCL 為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

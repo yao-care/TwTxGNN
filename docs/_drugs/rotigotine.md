@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rotigotine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 249
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
@@ -14,7 +14,7 @@ description: "Rotigotine：預測新適應症為注意力不足過動症 (Attent
 # Rotigotine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**注意力不足過動症 (Attention Deficit-Hype
 |------|------|
 | 原適應症 | 原發性帕金森氏症 |
 | 預測新適應症 | 注意力不足過動症 (Attention Deficit-Hyperactivity Disorder) |
-| TxGNN 預測分數 | 99.997% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 1.0000 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 4 張） |
 | 許可證數 | 4 張（有效單方 4／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

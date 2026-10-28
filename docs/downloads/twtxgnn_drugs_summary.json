@@ -1,18 +1,19 @@
 {
-  "generated_at": "2026-10-17T11:50:50.782342",
-  "total_drugs": 292,
+  "generated_at": "2026-10-29T06:40:27.048574",
+  "total_drugs": 291,
   "evidence_distribution": {
-    "L5": 165,
-    "L4": 56,
-    "L2": 25,
-    "L3": 32,
-    "L1": 14
+    "L5": 237,
+    "L4": 17,
+    "N/A": 5,
+    "L2": 15,
+    "L1": 5,
+    "L3": 12
   },
   "drugs": [
     {
       "drug_name": "Acebutolol",
       "evidence_level": "L5",
-      "indication_count": 2,
+      "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/acebutolol/"
     },
@@ -32,15 +33,15 @@
     },
     {
       "drug_name": "Acyclovir",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/acyclovir/"
     },
     {
       "drug_name": "Alfacalcidol",
       "evidence_level": "L5",
-      "indication_count": 5,
+      "indication_count": 3,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/alfacalcidol/"
     },
@@ -53,9 +54,9 @@
     },
     {
       "drug_name": "Aliskiren",
-      "evidence_level": "L4",
-      "indication_count": 7,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/aliskiren/"
     },
     {
@@ -68,7 +69,7 @@
     {
       "drug_name": "Alpelisib",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/alpelisib/"
     },
@@ -88,9 +89,9 @@
     },
     {
       "drug_name": "Alprostadil",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/alprostadil/"
     },
     {
@@ -102,9 +103,9 @@
     },
     {
       "drug_name": "Aluminum Hydroxide",
-      "evidence_level": "L4",
-      "indication_count": 4,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "N/A",
+      "indication_count": 0,
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/aluminum_hydroxide/"
     },
     {
@@ -116,9 +117,9 @@
     },
     {
       "drug_name": "Amcinonide",
-      "evidence_level": "L2",
-      "indication_count": 8,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/amcinonide/"
     },
     {
@@ -137,16 +138,16 @@
     },
     {
       "drug_name": "Anastrozole",
-      "evidence_level": "L1",
-      "indication_count": 6,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/anastrozole/"
     },
     {
       "drug_name": "Anthralin",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/anthralin/"
     },
     {
@@ -165,9 +166,9 @@
     },
     {
       "drug_name": "Atezolizumab",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/atezolizumab/"
     },
     {
@@ -180,15 +181,15 @@
     {
       "drug_name": "Avelumab",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/avelumab/"
     },
     {
       "drug_name": "Axitinib",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "parent_category": "僅模型預測 (L5)",
+      "evidence_level": "L4",
+      "indication_count": 4,
+      "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/axitinib/"
     },
     {
@@ -207,15 +208,15 @@
     },
     {
       "drug_name": "Bempedoic Acid",
-      "evidence_level": "L3",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/bempedoic_acid/"
     },
     {
       "drug_name": "Benazepril",
       "evidence_level": "L5",
-      "indication_count": 5,
+      "indication_count": 4,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/benazepril/"
     },
@@ -236,7 +237,7 @@
     {
       "drug_name": "Betamethasone",
       "evidence_level": "L2",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/betamethasone/"
     },
@@ -249,9 +250,9 @@
     },
     {
       "drug_name": "Brivaracetam",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/brivaracetam/"
     },
     {
@@ -277,29 +278,29 @@
     },
     {
       "drug_name": "Butenafine",
-      "evidence_level": "L4",
-      "indication_count": 5,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/butenafine/"
     },
     {
       "drug_name": "Cabazitaxel",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/cabazitaxel/"
     },
     {
       "drug_name": "Camphor",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/camphor/"
     },
     {
       "drug_name": "Caplacizumab",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/caplacizumab/"
     },
@@ -312,16 +313,16 @@
     },
     {
       "drug_name": "Carboplatin",
-      "evidence_level": "L1",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/carboplatin/"
     },
     {
       "drug_name": "Carisoprodol",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/carisoprodol/"
     },
     {
@@ -333,22 +334,22 @@
     },
     {
       "drug_name": "Cefmetazole",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 9,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/cefmetazole/"
     },
     {
       "drug_name": "Cefoperazone",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/cefoperazone/"
     },
     {
       "drug_name": "Cerliponase Alfa",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/cerliponase_alfa/"
     },
@@ -362,7 +363,7 @@
     {
       "drug_name": "Chlorobutanol",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/chlorobutanol/"
     },
@@ -375,9 +376,9 @@
     },
     {
       "drug_name": "Choline Salicylate",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/choline_salicylate/"
     },
     {
@@ -404,7 +405,7 @@
     {
       "drug_name": "Clomipramine",
       "evidence_level": "L1",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/clomipramine/"
     },
@@ -418,21 +419,21 @@
     {
       "drug_name": "Cobimetinib",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/cobimetinib/"
     },
     {
       "drug_name": "Conjugated Estrogens",
       "evidence_level": "L3",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/conjugated_estrogens/"
     },
     {
       "drug_name": "Cortisone Acetate",
       "evidence_level": "L4",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/cortisone_acetate/"
     },
@@ -445,15 +446,15 @@
     },
     {
       "drug_name": "Cyclandelate",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/cyclandelate/"
     },
     {
       "drug_name": "Cyclizine",
       "evidence_level": "L4",
-      "indication_count": 9,
+      "indication_count": 7,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/cyclizine/"
     },
@@ -466,9 +467,9 @@
     },
     {
       "drug_name": "Daptomycin",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/daptomycin/"
     },
     {
@@ -487,16 +488,16 @@
     },
     {
       "drug_name": "Deoxycholic Acid",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 3,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/deoxycholic_acid/"
     },
     {
       "drug_name": "Desogestrel",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/desogestrel/"
     },
     {
@@ -508,9 +509,9 @@
     },
     {
       "drug_name": "Dexketoprofen",
-      "evidence_level": "L1",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/dexketoprofen/"
     },
     {
@@ -522,9 +523,9 @@
     },
     {
       "drug_name": "Dipyridamole",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/dipyridamole/"
     },
     {
@@ -536,16 +537,16 @@
     },
     {
       "drug_name": "Dl-Alpha-Tocopherol",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "parent_category": "僅模型預測 (L5)",
+      "evidence_level": "N/A",
+      "indication_count": 0,
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/dl-alpha-tocopherol/"
     },
     {
       "drug_name": "Docetaxel",
-      "evidence_level": "L1",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L3",
+      "indication_count": 7,
+      "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/docetaxel/"
     },
     {
@@ -558,36 +559,36 @@
     {
       "drug_name": "Dorzolamide",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 7,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/dorzolamide/"
     },
     {
       "drug_name": "Doxorubicin",
       "evidence_level": "L1",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/doxorubicin/"
     },
     {
       "drug_name": "Dronedarone",
       "evidence_level": "L4",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/dronedarone/"
     },
     {
       "drug_name": "Dupilumab",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/dupilumab/"
     },
     {
       "drug_name": "Durvalumab",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/durvalumab/"
     },
     {
@@ -599,37 +600,37 @@
     },
     {
       "drug_name": "Emedastine",
-      "evidence_level": "L2",
-      "indication_count": 2,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "N/A",
+      "indication_count": 0,
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/emedastine/"
     },
     {
       "drug_name": "Enfortumab Vedotin",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/enfortumab_vedotin/"
     },
     {
       "drug_name": "Erdafitinib",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 6,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/erdafitinib/"
     },
     {
       "drug_name": "Ergometrine",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/ergometrine/"
     },
     {
       "drug_name": "Etanercept",
-      "evidence_level": "L4",
-      "indication_count": 6,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/etanercept/"
     },
     {
@@ -642,29 +643,29 @@
     {
       "drug_name": "Everolimus",
       "evidence_level": "L2",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/everolimus/"
     },
     {
       "drug_name": "Famotidine",
-      "evidence_level": "L3",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/famotidine/"
     },
     {
       "drug_name": "Felodipine",
-      "evidence_level": "L4",
-      "indication_count": 7,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/felodipine/"
     },
     {
       "drug_name": "Fenoprofen",
-      "evidence_level": "L3",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/fenoprofen/"
     },
     {
@@ -684,15 +685,15 @@
     {
       "drug_name": "Fidaxomicin",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/fidaxomicin/"
     },
     {
       "drug_name": "Flucloxacillin",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/flucloxacillin/"
     },
     {
@@ -704,9 +705,9 @@
     },
     {
       "drug_name": "Flunitrazepam",
-      "evidence_level": "L3",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/flunitrazepam/"
     },
     {
@@ -733,22 +734,22 @@
     {
       "drug_name": "Fluticasone",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 3,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/fluticasone/"
     },
     {
       "drug_name": "Fosfomycin",
-      "evidence_level": "L2",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/fosfomycin/"
     },
     {
       "drug_name": "Fulvestrant",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/fulvestrant/"
     },
     {
@@ -768,28 +769,28 @@
     {
       "drug_name": "Gefitinib",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/gefitinib/"
     },
     {
       "drug_name": "Gemcitabine",
-      "evidence_level": "L1",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/gemcitabine/"
     },
     {
       "drug_name": "Gemfibrozil",
       "evidence_level": "L4",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/gemfibrozil/"
     },
     {
       "drug_name": "Glatiramer",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/glatiramer/"
     },
@@ -801,13 +802,6 @@
       "url": "/drugs/glycerin/"
     },
     {
-      "drug_name": "Glycol Salicylate",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "parent_category": "僅模型預測 (L5)",
-      "url": "/drugs/glycol_salicylate/"
-    },
-    {
       "drug_name": "Griseofulvin",
       "evidence_level": "L5",
       "indication_count": 5,
@@ -817,21 +811,21 @@
     {
       "drug_name": "Guaiacol",
       "evidence_level": "L5",
-      "indication_count": 2,
+      "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/guaiacol/"
     },
     {
       "drug_name": "Guselkumab",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/guselkumab/"
     },
     {
       "drug_name": "Hesperidin",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 5,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/hesperidin/"
     },
@@ -844,9 +838,9 @@
     },
     {
       "drug_name": "Homatropine Methylbromide",
-      "evidence_level": "L4",
-      "indication_count": 2,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/homatropine_methylbromide/"
     },
     {
@@ -866,29 +860,29 @@
     {
       "drug_name": "Hydrocortisone",
       "evidence_level": "L3",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/hydrocortisone/"
     },
     {
       "drug_name": "Hydroquinone",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 4,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/hydroquinone/"
     },
     {
       "drug_name": "Hydroxyprogesterone Caproate",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/hydroxyprogesterone_caproate/"
     },
     {
       "drug_name": "Hydroxyurea",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/hydroxyurea/"
     },
     {
@@ -922,7 +916,7 @@
     {
       "drug_name": "Inclisiran",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/inclisiran/"
     },
@@ -936,7 +930,7 @@
     {
       "drug_name": "Inositol",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/inositol/"
     },
@@ -957,49 +951,49 @@
     {
       "drug_name": "Iodixanol",
       "evidence_level": "L5",
-      "indication_count": 3,
+      "indication_count": 2,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/iodixanol/"
     },
     {
       "drug_name": "Iohexol",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 2,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/iohexol/"
     },
     {
       "drug_name": "Iopromide",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/iopromide/"
     },
     {
       "drug_name": "Ioversol",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/ioversol/"
     },
     {
       "drug_name": "Ipilimumab",
       "evidence_level": "L5",
-      "indication_count": 2,
+      "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/ipilimumab/"
     },
     {
       "drug_name": "Ipratropium",
-      "evidence_level": "L1",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/ipratropium/"
     },
     {
       "drug_name": "Irbesartan",
       "evidence_level": "L5",
-      "indication_count": 4,
+      "indication_count": 3,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/irbesartan/"
     },
@@ -1012,9 +1006,9 @@
     },
     {
       "drug_name": "Isosorbide Dinitrate",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/isosorbide_dinitrate/"
     },
     {
@@ -1027,29 +1021,29 @@
     {
       "drug_name": "Ivermectin",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/ivermectin/"
     },
     {
       "drug_name": "Lacosamide",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/lacosamide/"
     },
     {
       "drug_name": "Lactic Acid",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 5,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/lactic_acid/"
     },
     {
       "drug_name": "Larotrectinib",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/larotrectinib/"
     },
     {
@@ -1062,21 +1056,21 @@
     {
       "drug_name": "Lenvatinib",
       "evidence_level": "L3",
-      "indication_count": 10,
+      "indication_count": 5,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/lenvatinib/"
     },
     {
       "drug_name": "Letrozole",
-      "evidence_level": "L1",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/letrozole/"
     },
     {
       "drug_name": "Levamisole",
       "evidence_level": "L5",
-      "indication_count": 3,
+      "indication_count": 10,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/levamisole/"
     },
@@ -1096,15 +1090,15 @@
     },
     {
       "drug_name": "Lornoxicam",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/lornoxicam/"
     },
     {
       "drug_name": "Loteprednol Etabonate",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/loteprednol_etabonate/"
     },
@@ -1118,14 +1112,14 @@
     {
       "drug_name": "Magnesium Sulfate",
       "evidence_level": "L1",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/magnesium_sulfate/"
     },
     {
       "drug_name": "Mannitol",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/mannitol/"
     },
@@ -1153,21 +1147,21 @@
     {
       "drug_name": "Methylprednisolone",
       "evidence_level": "L3",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/methylprednisolone/"
     },
     {
       "drug_name": "Methylprednisone",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 7,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/methylprednisone/"
     },
     {
       "drug_name": "Metoprolol",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 6,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/metoprolol/"
     },
@@ -1181,14 +1175,14 @@
     {
       "drug_name": "Milrinone",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/milrinone/"
     },
     {
       "drug_name": "Minoxidil",
       "evidence_level": "L4",
-      "indication_count": 3,
+      "indication_count": 10,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/minoxidil/"
     },
@@ -1222,9 +1216,9 @@
     },
     {
       "drug_name": "Naftifine",
-      "evidence_level": "L3",
-      "indication_count": 8,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/naftifine/"
     },
     {
@@ -1244,7 +1238,7 @@
     {
       "drug_name": "Nebivolol",
       "evidence_level": "L5",
-      "indication_count": 5,
+      "indication_count": 4,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/nebivolol/"
     },
@@ -1264,9 +1258,9 @@
     },
     {
       "drug_name": "Niraparib",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/niraparib/"
     },
     {
@@ -1278,9 +1272,9 @@
     },
     {
       "drug_name": "Nitrous Oxide",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/nitrous_oxide/"
     },
     {
@@ -1292,9 +1286,9 @@
     },
     {
       "drug_name": "Norethindrone Enanthate",
-      "evidence_level": "L5",
-      "indication_count": 10,
-      "parent_category": "僅模型預測 (L5)",
+      "evidence_level": "N/A",
+      "indication_count": 0,
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/norethindrone_enanthate/"
     },
     {
@@ -1341,15 +1335,15 @@
     },
     {
       "drug_name": "Paclitaxel",
-      "evidence_level": "L1",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/paclitaxel/"
     },
     {
       "drug_name": "Palbociclib",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 4,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/palbociclib/"
     },
@@ -1369,22 +1363,22 @@
     },
     {
       "drug_name": "Pemetrexed",
-      "evidence_level": "L3",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/pemetrexed/"
     },
     {
       "drug_name": "Pemigatinib",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/pemigatinib/"
     },
     {
       "drug_name": "Penciclovir",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/penciclovir/"
     },
@@ -1404,16 +1398,16 @@
     },
     {
       "drug_name": "Perindopril",
-      "evidence_level": "L4",
-      "indication_count": 5,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/perindopril/"
     },
     {
       "drug_name": "Pexidartinib",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/pexidartinib/"
     },
     {
@@ -1432,16 +1426,16 @@
     },
     {
       "drug_name": "Pitavastatin",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/pitavastatin/"
     },
     {
       "drug_name": "Pitolisant",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 3,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/pitolisant/"
     },
     {
@@ -1461,7 +1455,7 @@
     {
       "drug_name": "Polymyxin B",
       "evidence_level": "L4",
-      "indication_count": 3,
+      "indication_count": 2,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/polymyxin_b/"
     },
@@ -1474,15 +1468,15 @@
     },
     {
       "drug_name": "Posaconazole",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/posaconazole/"
     },
     {
       "drug_name": "Potassium Iodide",
       "evidence_level": "L4",
-      "indication_count": 2,
+      "indication_count": 1,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/potassium_iodide/"
     },
@@ -1495,29 +1489,29 @@
     },
     {
       "drug_name": "Pralatrexate",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/pralatrexate/"
     },
     {
       "drug_name": "Prasugrel",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/prasugrel/"
     },
     {
       "drug_name": "Pravastatin",
-      "evidence_level": "L4",
-      "indication_count": 9,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L2",
+      "indication_count": 6,
+      "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/pravastatin/"
     },
     {
       "drug_name": "Prednisolone",
       "evidence_level": "L2",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/prednisolone/"
     },
@@ -1537,9 +1531,9 @@
     },
     {
       "drug_name": "Prilocaine",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/prilocaine/"
     },
     {
@@ -1551,16 +1545,16 @@
     },
     {
       "drug_name": "Procaine",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/procaine/"
     },
     {
       "drug_name": "Propantheline",
-      "evidence_level": "L3",
-      "indication_count": 2,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/propantheline/"
     },
     {
@@ -1608,7 +1602,7 @@
     {
       "drug_name": "Ribavirin",
       "evidence_level": "L2",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/ribavirin/"
     },
@@ -1622,7 +1616,7 @@
     {
       "drug_name": "Riluzole",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/riluzole/"
     },
@@ -1636,7 +1630,7 @@
     {
       "drug_name": "Rocuronium",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/rocuronium/"
     },
@@ -1649,9 +1643,9 @@
     },
     {
       "drug_name": "Rotigotine",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/rotigotine/"
     },
     {
@@ -1663,9 +1657,9 @@
     },
     {
       "drug_name": "Sacubitril",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 5,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/sacubitril/"
     },
     {
@@ -1677,15 +1671,15 @@
     },
     {
       "drug_name": "Salicylamide",
-      "evidence_level": "L4",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/salicylamide/"
     },
     {
       "drug_name": "Salicylic Acid",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/salicylic_acid/"
     },
@@ -1705,15 +1699,15 @@
     },
     {
       "drug_name": "Silicon Dioxide",
-      "evidence_level": "L5",
-      "indication_count": 4,
-      "parent_category": "僅模型預測 (L5)",
+      "evidence_level": "N/A",
+      "indication_count": 0,
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/silicon_dioxide/"
     },
     {
       "drug_name": "Simoctocog Alfa",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/simoctocog_alfa/"
     },
@@ -1734,15 +1728,15 @@
     {
       "drug_name": "Sodium Citrate",
       "evidence_level": "L5",
-      "indication_count": 9,
+      "indication_count": 8,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/sodium_citrate/"
     },
     {
       "drug_name": "Sorafenib",
-      "evidence_level": "L2",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/sorafenib/"
     },
     {
@@ -1762,7 +1756,7 @@
     {
       "drug_name": "Sulfamethazine",
       "evidence_level": "L5",
-      "indication_count": 6,
+      "indication_count": 5,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/sulfamethazine/"
     },
@@ -1775,16 +1769,16 @@
     },
     {
       "drug_name": "Temozolomide",
-      "evidence_level": "L2",
-      "indication_count": 2,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/temozolomide/"
     },
     {
       "drug_name": "Tenofovir Alafenamide",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 3,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/tenofovir_alafenamide/"
     },
     {
@@ -1797,7 +1791,7 @@
     {
       "drug_name": "Teriparatide",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/teriparatide/"
     },
@@ -1811,22 +1805,22 @@
     {
       "drug_name": "Tetryzoline",
       "evidence_level": "L5",
-      "indication_count": 2,
+      "indication_count": 1,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/tetryzoline/"
     },
     {
       "drug_name": "Theophylline",
       "evidence_level": "L5",
-      "indication_count": 7,
+      "indication_count": 6,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/theophylline/"
     },
     {
       "drug_name": "Thiamine",
-      "evidence_level": "L3",
-      "indication_count": 4,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/thiamine/"
     },
     {
@@ -1839,14 +1833,14 @@
     {
       "drug_name": "Thyrotropin Alfa",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/thyrotropin_alfa/"
     },
     {
       "drug_name": "Tiaprofenic Acid",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/tiaprofenic_acid/"
     },
@@ -1866,9 +1860,9 @@
     },
     {
       "drug_name": "Tioconazole",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 3,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/tioconazole/"
     },
     {
@@ -1881,36 +1875,36 @@
     {
       "drug_name": "Tizanidine",
       "evidence_level": "L2",
-      "indication_count": 6,
+      "indication_count": 5,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/tizanidine/"
     },
     {
       "drug_name": "Tolmetin",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/tolmetin/"
     },
     {
       "drug_name": "Tolvaptan",
-      "evidence_level": "L1",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/tolvaptan/"
     },
     {
       "drug_name": "Trabectedin",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 1,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/trabectedin/"
     },
     {
       "drug_name": "Tranexamic Acid",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/tranexamic_acid/"
     },
     {
@@ -1923,29 +1917,29 @@
     {
       "drug_name": "Travoprost",
       "evidence_level": "L5",
-      "indication_count": 3,
+      "indication_count": 10,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/travoprost/"
     },
     {
       "drug_name": "Treprostinil",
-      "evidence_level": "L3",
-      "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/treprostinil/"
     },
     {
       "drug_name": "Triamcinolone",
       "evidence_level": "L4",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/triamcinolone/"
     },
     {
       "drug_name": "Trifluoperazine",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 1,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/trifluoperazine/"
     },
     {
@@ -1964,23 +1958,23 @@
     },
     {
       "drug_name": "Uracil",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/uracil/"
     },
     {
       "drug_name": "Urofollitropin",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/urofollitropin/"
     },
     {
       "drug_name": "Vasopressin",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 2,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/vasopressin/"
     },
     {
@@ -1993,15 +1987,15 @@
     {
       "drug_name": "Vinorelbine",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 8,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/vinorelbine/"
     },
     {
       "drug_name": "Vismodegib",
-      "evidence_level": "L2",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/vismodegib/"
     },
     {
@@ -2013,16 +2007,16 @@
     },
     {
       "drug_name": "Vonoprazan",
-      "evidence_level": "L2",
-      "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/vonoprazan/"
     },
     {
       "drug_name": "Warfarin",
-      "evidence_level": "L4",
-      "indication_count": 3,
-      "parent_category": "中證據等級 (L3-L4)",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/warfarin/"
     },
     {
@@ -2035,21 +2029,21 @@
     {
       "drug_name": "Xylometazoline",
       "evidence_level": "L3",
-      "indication_count": 2,
+      "indication_count": 1,
       "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/xylometazoline/"
     },
     {
       "drug_name": "Zanubrutinib",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 6,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/zanubrutinib/"
     },
     {
       "drug_name": "Zonisamide",
       "evidence_level": "L5",
-      "indication_count": 10,
+      "indication_count": 9,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/zonisamide/"
     }

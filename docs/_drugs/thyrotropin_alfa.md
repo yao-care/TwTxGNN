@@ -4,9 +4,9 @@ title: Thyrotropin Alfa
 parent: 僅模型預測 (L5)
 nav_order: 276
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Thyrotropin alfa"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
 last_modified_at: 2026-10-16
 description: "Thyrotropin Alfa：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：甲狀腺分化癌治療之輔助診斷製劑。適用於因甲狀腺分化癌而接受幾乎全部或全部甲狀腺切除、且沒有轉移性甲狀腺癌跡象的病人…"
 ---
@@ -14,7 +14,7 @@ description: "Thyrotropin Alfa：預測新適應症為偏頭痛 (Migraine Disord
 # Thyrotropin Alfa
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 |------|------|
 | 原適應症 | 甲狀腺分化癌治療之輔助診斷製劑。適用於因甲狀腺分化癌而接受幾乎全部或全部甲狀腺切除、且沒有轉移性甲狀腺癌跡象的病人，可作為甲狀腺殘留組織放射碘去除之輔助療劑 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
-| TxGNN 預測分數 | 99.98% |
+| TxGNN 預測分數 | 0.9998 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Thyrotropin alfa 是重組人類 TSH，作用於 TSH 受體，刺激甲狀腺組織攝取碘並釋放甲狀腺激素。這個機轉支持它在甲狀腺癌輔助診斷與放射碘治療中的用途。
 
-然而，TSH 受體促效作用與偏頭痛的病理生理之間，目前沒有已知的作用路徑。這個預測較可能反映知識圖譜中的節點鄰近性，而非真實的藥理關聯。
+然而，TSH 受體促效作用與偏頭痛的病理生理之間，目前沒有已知的作用路徑。這個預測來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
 同一批高分預測還包括有腦幹先兆的偏頭痛、雷諾氏病、肺動脈高壓、姿勢性直立心搏過速症候群等，多數同樣缺乏機轉依據。其中**甲狀腺功能亢進**的預測在機轉上反而相反：TSH 受體促效可能增加甲狀腺激素分泌，使病況惡化，應視為可能的偽陽性。
 

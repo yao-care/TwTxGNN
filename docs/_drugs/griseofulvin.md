@@ -6,7 +6,7 @@ nav_order: 128
 evidence_level: L5
 indication_count: 5
 monitor_inn: "Griseofulvin"
-predicted_indications: ["myiasis", "furuncular myiasis", "wound myiasis", "creeping myiasis", "echinococcus granulosus infectious disease"]
+predicted_indications: ["myiasis", "furuncular myiasis", "creeping myiasis", "wound myiasis", "echinococcus granulosus infectious disease"]
 last_modified_at: 2026-10-16
 description: "Griseofulvin：預測新適應症為蠅蛆症 (Myiasis)（證據等級 L5）。原適應症：甲癬（Onychomycosis）、髮癬（Tinea capitis），不適宜局部外用治療或局部外用無效的皮膚黴菌感染"
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**蠅蛆症 (Myiasis)** 有效，但目前**沒有
 |------|------|
 | 原適應症 | 甲癬（Onychomycosis）、髮癬（Tinea capitis），不適宜局部外用治療或局部外用無效的皮膚黴菌感染 |
 | 預測新適應症 | 蠅蛆症 (Myiasis) |
-| TxGNN 預測分數 | 99.41% |
+| TxGNN 預測分數 | 0.9941 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 11 張／共 76 張） |
 | 許可證數 | 76 張（有效單方 11／有效複方 0／已過期 2／已註銷 63） |
 | 建議決策 | Hold |
 
@@ -57,9 +57,9 @@ TxGNN 模型預測它可能對**蠅蛆症 (Myiasis)** 有效，但目前**沒有
 
 目前缺乏詳細的作用機轉資料。就已知資訊，Griseofulvin 會干擾黴菌的微管功能與有絲分裂，這是它抗黴菌的基礎。
 
-蠅蛆症是蠅類幼蟲寄生於人體組織所致，與黴菌感染的病原體完全不同。目前沒有已知機轉能把 Griseofulvin 的抗黴菌作用連到幼蟲感染。這個預測很可能來自知識圖譜的網路特徵相似性，而非生物學上的因果關係，因此合理性偏低。
+蠅蛆症是蠅類幼蟲寄生於人體組織所致，與黴菌感染的病原體完全不同。目前沒有已知機轉能把 Griseofulvin 的抗黴菌作用連到幼蟲感染。這個分數（0.9941）來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，因此合理性偏低。
 
-同一批預測中還有三個蠅蛆症相關疾病（皮膚型蠅蛆症 furuncular myiasis、傷口蠅蛆症 wound myiasis、匍行性蠅蛆症 creeping myiasis），以及**細粒棘球蚴感染 (Echinococcus granulosus infection)**，分數皆在 99.3% 以上，且同樣沒有試驗或文獻支持。其中細粒棘球蚴感染有一個較弱的假說：Griseofulvin 作用於黴菌微管蛋白，而苯並咪唑類驅蟲藥作用於寄生蟲微管蛋白。但 Griseofulvin 本身並無已證實的驅蟲活性。
+同一批預測中還有三個蠅蛆症相關疾病（皮膚型蠅蛆症 furuncular myiasis 0.9934、傷口蠅蛆症 wound myiasis 0.9934、匍行性蠅蛆症 creeping myiasis 0.9934），以及**細粒棘球蚴感染 (Echinococcus granulosus infection)** 0.9932，且同樣沒有試驗或文獻支持。其中細粒棘球蚴感染有一個較弱的假說：Griseofulvin 作用於黴菌微管蛋白，而苯並咪唑類驅蟲藥作用於寄生蟲微管蛋白。但 Griseofulvin 本身並無已證實的驅蟲活性。
 
 ## 臨床試驗證據
 

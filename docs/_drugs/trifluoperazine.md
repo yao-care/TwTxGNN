@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trifluoperazine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 292
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "Trifluoperazine"
 predicted_indications: ["manic bipolar affective disorder"]
@@ -14,7 +14,7 @@ description: "Trifluoperazine：預測新適應症為躁期雙相情感障礙 (M
 # Trifluoperazine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**躁期雙相情感障礙 (Manic Bipolar Affectiv
 |------|------|
 | 原適應症 | 精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙 |
 | 預測新適應症 | 躁期雙相情感障礙 (Manic Bipolar Affective Disorder) |
-| TxGNN 預測分數 | 99.51% |
-| 證據等級 | L4（僅有間接的機轉與類別層級文獻，無臨床試驗；L5 為純模型預測） |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9951 |
+| 證據等級 | L5（僅有間接的機轉與類別層級文獻，無臨床試驗；L5 為純模型預測） |
+| 台灣上市 | 上市中（有效許可證 6 張／共 44 張） |
 | 許可證數 | 44 張（有效單方 6／有效複方 0／已註銷 38） |
 | 建議決策 | Hold |
 

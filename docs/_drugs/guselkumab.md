@@ -4,7 +4,7 @@ title: Guselkumab
 parent: 僅模型預測 (L5)
 nav_order: 130
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-16
 description: "Guselkumab：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：對傳統或生物製劑治療反應不佳、失去反應或無法耐受的中度至重度活動性潰瘍性結腸炎與克隆氏症成人病人"
 monitor_inn: "Guselkumab"
@@ -14,7 +14,7 @@ predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative di
 # Guselkumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 |------|------|
 | 原適應症 | 對傳統或生物製劑治療反應不佳、失去反應或無法耐受的中度至重度活動性潰瘍性結腸炎與克隆氏症成人病人 |
 | 預測新適應症 | 藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis) |
-| TxGNN 預測分數 | 99.84% |
+| TxGNN 預測分數 | 0.9984 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -103,7 +103,7 @@ IL-23/IL-17 訊號可能影響破骨細胞生成，所以理論上可能與骨�
 **決策：Hold**
 
 **理由：**
-- 這個預測只來自 TxGNN 模型（分數 99.84%），沒有任何臨床試驗或文獻佐證，證據等級為 L5。
+- 這個預測只來自 TxGNN 模型（分數 0.9984），沒有任何臨床試驗或文獻佐證，證據等級為 L5。
 - 機轉連結僅是推測，建議暫緩投入。
 
 **若要推進需要：**

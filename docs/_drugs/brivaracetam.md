@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Brivaracetam
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 46
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Brivaracetam：預測新適應症為視覺性癲癇 (Visual Epilepsy)（證據等級 L4）。原適應症：適用於 1 個月大以上局部癲癇發作病人的治療"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Brivaracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-27
+description: "Brivaracetam：預測新適應症為β-酮硫解酶缺乏症 (beta-ketothiolase deficiency)（證據等級 L5）。原適應症：抗癲癇藥"
 ---
 
 # Brivaracetam
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,41 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-## Brivaracetam：從局部癲癇發作到視覺性癲癇
+## Brivaracetam：SV2A 調節型抗癲癇藥 → β-酮硫解酶缺乏症 (beta-ketothiolase deficiency)
 {: .text-alpha }
 
 ## 一句話總結
 
-Brivaracetam（丁醯胺吡咯酮）是一種抗癲癇藥，原本用於 1 個月大以上局部癲癇發作病人的治療。
-TxGNN 模型預測它可能對**視覺性癲癇 (Visual Epilepsy)** 有效，但目前**沒有針對此疾病的臨床試驗**，僅有 **18 篇**相關文獻（多為癲癇與 brivaracetam 的一般性綜述），證據屬於推測性質。
-相較之下，**癲癇重積狀態 (Status Epilepticus)** 有 1 個已完成的臨床試驗與多篇專屬文獻，是本藥更具潛力的延伸方向。
+Brivaracetam 是一種抗癲癇藥。
+TxGNN 模型預測它可能對 **β-酮硫解酶缺乏症 (beta-ketothiolase deficiency)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 適用於 1 個月大以上局部癲癇發作病人的治療 |
-| 預測新適應症 | 視覺性癲癇 (Visual Epilepsy) |
-| TxGNN 預測分數 | 99.51% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 抗癲癇藥; 適用於1個月大以上局部癲癇發作病人的治療。 |
+| 預測新適應症 | β-酮硫解酶缺乏症 (beta-ketothiolase deficiency) |
+| TxGNN 預測分數 | 0.9914 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 8 張／共 8 張） |
 | 許可證數 | 8 張（有效單方 8／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
-> 備註：排名第 2 的「癲癇重積狀態」證據等級為 L3，建議決策為 Proceed with Guardrails，詳見結論。
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位為空）。不過，根據已整理的文獻，Brivaracetam 是突觸囊泡蛋白 2A (SV2A) 的高親和力配體，與 levetiracetam 同屬 racetam 類，對 SV2A 的親和力約高 15–30 倍，且腦部穿透速度快，能降低突觸神經傳遞物質釋放，抑制神經過度興奮。
+目前缺乏詳細的作用機轉資料。Brivaracetam 屬於抗癲癇藥類別，一般認為與突觸囊泡蛋白 SV2A 的調節有關，但此點並非本次資料所載明。
 
-視覺性（枕葉）癲癇屬於局部癲癇的一種，而本藥已核准用於局部癲癇發作，因此在機轉上以「類推」方式推論可能有效。但這只是外推，並無針對視覺性癲癇的專屬研究。
+β-酮硫解酶缺乏症是一種先天性代謝異常，影響酮體與異白胺酸的代謝。從機轉上看，與 SV2A 調節之間沒有明確的關聯。模型預測可能反映了代謝危象時癲癇發作作為次要表現的關聯，但這只是推測，並無實證支持。
+
+因此這項預測目前僅屬於假說階段，需要進一步的機轉與臨床研究來驗證。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
-（參考：針對排名第 2 的預測適應症「癲癇重積狀態」，有 [NCT07163572](https://clinicaltrials.gov/study/NCT07163572)，Phase NA，已完成，152 人，比較靜脈注射 brivaracetam 與 levetiracetam 用於兒童癲癇重積狀態，但未提供結果數據。）
-
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [38576178](https://pubmed.ncbi.nlm.nih.gov/38576178/) | 2024 | RCT | Epilepsia Open | Phase III 雙盲安慰劑對照試驗，評估輔助性 brivaracetam 用於亞洲成人未控制局部癲癇發作的療效與安全性 |
-| [35061214](https://pubmed.ncbi.nlm.nih.gov/35061214/) | 2022 | 統合分析 | Drugs | 第三代抗癲癇藥（含 brivaracetam）輔助治療局部癲癇發作的網絡統合分析 |
-| [38811492](https://pubmed.ncbi.nlm.nih.gov/38811492/) | 2024 | Review | Advances in Therapy | Brivaracetam 的前臨床特性與臨床效益；對 SV2A 親和力較 levetiracetam 高 15–30 倍 |
-| [40568060](https://pubmed.ncbi.nlm.nih.gov/40568060/) | 2025 | Review | J Epilepsy Res | 整合臨床試驗與真實世界資料，評估 brivaracetam 的療效與安全性 |
-| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Review | Neuropharmacology | 現行抗癲癇藥物的作用機轉 |
-| [31195850](https://pubmed.ncbi.nlm.nih.gov/31195850/) | 2019 | Review | Expert Rev Neurother | Brivaracetam 在局部癲癇的療效與安全性 |
-| [37483441](https://pubmed.ncbi.nlm.nih.gov/37483441/) | 2023 | 系統性回顧/統合分析 | Front Neurol | Brivaracetam 用於兒童癲癇的安全性與療效 |
-| [38117319](https://pubmed.ncbi.nlm.nih.gov/38117319/) | 2024 | Review | Intensive Care Med | 加護病房中的癲癇重積狀態處置 |
-| [37350392](https://pubmed.ncbi.nlm.nih.gov/37350392/) | 2023 | 世代研究 | Epilepsia | 以靜脈抗癲癇藥診斷非痙攣性癲癇重積狀態的 EEG 與臨床反應定義 |
-| [26664121](https://pubmed.ncbi.nlm.nih.gov/26664121/) | 2015 | Review | Neuropsychiatr Dis Treat | Brivaracetam 的特性及其治療癲癇的潛力 |
-
-以上文獻均屬癲癇或 brivaracetam 的一般性研究，**並無針對視覺性癲癇的專屬證據**。
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -112,28 +96,22 @@ TxGNN 模型預測它可能對**視覺性癲癇 (Visual Epilepsy)** 有效，但
 
 ## 安全性考量
 
-- **藥物交互作用**：已查得 69 筆交互作用紀錄，以下為部分重點：
-  - 中度：Morphine、Opium、Dronabinol、Nabilone、Metoclopramide、Promethazine、Ethanol、Diphenoxylate、Difenoxin、Sibutramine、Clopidogrel
-  - 輕度：Omeprazole、Esomeprazole、Lansoprazole、Pantoprazole、Dexlansoprazole、Tolbutamide、Chlorpropamide、Cilostazol
+- **藥物交互作用**：已查詢到 69 筆交互作用紀錄，其中多數為中度或輕微等級。中度交互作用的例子包括：嗎啡 (Morphine)、屈大麻酚 (Dronabinol)、甲氧氯普胺 (Metoclopramide)、大麻隆 (Nabilone)、鴉片 (Opium)、乙醇 (Ethanol)、異丙嗪 (Promethazine)、氯吡格雷 (Clopidogrel)。輕微等級的例子包括質子幫浦抑制劑類（奧美拉唑、埃索美拉唑、蘭索拉唑、泮托拉唑等）。與中樞神經抑制劑併用時，需留意鎮靜作用加成。
 
-  其中與鴉片類、酒精等中樞神經抑制劑併用時，需留意嗜睡等中樞神經抑制效應加成。
-
-其餘警語與禁忌症請參考原廠仿單。
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Hold**（針對視覺性癲癇）
+**決策：Hold**
 
 **理由：**
-- 視覺性癲癇僅有模型預測與機轉類推支持，無專屬臨床試驗，證據等級為 L4（多為前臨床與一般性綜述）。
-- 若要優先投入資源，建議改以**癲癇重積狀態**為重點方向（L3，Proceed with Guardrails）：已有靜脈製劑、1 個已完成的兒童試驗，以及系統性回顧與真實世界研究。
+- 此預測僅來自模型分數，沒有臨床試驗或文獻佐證，且與藥物已知作用方向之間缺乏明確的機轉關聯，證據等級為 L5。
 
 **若要推進需要：**
-- 補充詳細的作用機轉（MOA）資料
-- 取得視覺性（枕葉）癲癇的病例系列或前瞻性研究
-- 若轉向癲癇重積狀態：取得 NCT07163572 的結果數據，並設計以 levetiracetam 為對照的確證性隨機試驗
-- 確認適應症外使用的劑型與給藥途徑（靜脈注射製劑已在台灣取得許可）
-- 建立與中樞神經抑制劑併用時的安全性監測計畫
+- 補充 brivaracetam 的詳細作用機轉資料
+- 釐清 β-酮硫解酶缺乏症中癲癇表現與 SV2A 調節的病理關聯
+- 進行文獻回顧與前臨床研究，確認是否存在可驗證的假說
+- 在取得初步證據前，不建議投入臨床開發資源
 
 <!-- review:begin log -->
 

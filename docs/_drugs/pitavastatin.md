@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pitavastatin
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 218
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Pitavastatin：預測新適應症為同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)（證據等級 L4）。原適應症：原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "Pitavastatin"
-predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
+last_modified_at: 2026-10-27
+description: "Pitavastatin：預測新適應症為膽固醇酯轉運蛋白缺乏症 (cholesterol-ester transfer protein deficiency)（證據等級 L5）。原適應症：原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症"
 ---
 
 # Pitavastatin
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,41 @@ predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer prot
 
 </div>
 
-## Pitavastatin：從原發性高膽固醇血症到同型合子家族性高膽固醇血症
+## Pitavastatin：HMG-CoA 還原酶抑制劑（他汀類） → 膽固醇酯轉運蛋白缺乏症 (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
 ## 一句話總結
 
-Pitavastatin（匹伐他汀）是一種他汀類血脂調節劑，原本用於原發性高膽固醇血症及混合型血脂異常。
-TxGNN 模型預測它可能對**同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)** 有效，
-但目前**沒有臨床試驗**，僅有 **2 篇文獻**（1 篇為不同族群的 RCT、1 篇為個案系列），證據相對薄弱。
-
----
+Pitavastatin 是一種他汀類降血脂藥物。
+TxGNN 模型預測它可能對**膽固醇酯轉運蛋白缺乏症 (cholesterol-ester transfer protein deficiency)** 有效，但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症 |
-| 預測新適應症 | 同型合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia) |
-| TxGNN 預測分數 | 99.996% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症。; 原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症; 原發性高膽固醇血症及混合型血脂異常。; 原發性高膽固醇血症及混合型血脂異常; 原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症 。; 血脂調節劑; 血脂調節劑。; 對於患有原發性高膽固醇血症與混合型血脂異常的成人病人，可作為飲食控制外的輔助治療，以降低LDL-C。 |
+| 預測新適應症 | 膽固醇酯轉運蛋白缺乏症 (cholesterol-ester transfer protein deficiency) |
+| TxGNN 預測分數 | 0.9998 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 35 張／共 36 張） |
 | 許可證數 | 36 張（有效單方 31／有效複方 4／已過期 1／已註銷 0） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Pitavastatin 屬於 HMG-CoA 還原酶抑制劑（他汀類），其在原發性高膽固醇血症與混合型血脂異常的療效已被證實，機轉上可能適用於同型合子家族性高膽固醇血症。
+目前缺乏詳細的作用機轉資料。根據一般藥理知識，Pitavastatin 屬於 HMG-CoA 還原酶抑制劑，可降低 LDL 膽固醇。
 
-一般認為，這類藥物抑制肝臟 HMG-CoA 還原酶後，細胞內膽固醇下降，並提升肝臟 LDL 受體表現，進而降低血中 LDL-C。原適應症與預測的新適應症都屬於高膽固醇血症，病理上相近。
+膽固醇酯轉運蛋白（CETP）缺乏症的特徵是 HDL 膽固醇偏高、脂蛋白代謝異常。由於 Pitavastatin 作用於脂質代謝，兩者在脂蛋白調節上有關聯，這可能是模型給出高分的原因。
 
-不過關鍵限制在於：同型合子型的療效取決於患者殘存的 LDL 受體功能。若受體功能幾乎喪失，他汀類的效果可能有限。目前支持證據僅有個案報告（自體隱性高膽固醇血症 2 例，臨床表現與同型合子型難以區分）以及一項針對 HIV 合併血脂異常族群的試驗，並非直接針對此疾病。
-
----
+不過這只是機轉上的合理推測。Pitavastatin 是否對此疾病帶來臨床益處、其益處是否超過風險，目前沒有任何研究可以回答。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | RCT | The Lancet HIV | INTREPID 試驗：在 HIV 合併血脂異常的成人中比較 pitavastatin 與 pravastatin 的安全性與療效（族群與預測疾病不同） |
-| [39532566](https://pubmed.ncbi.nlm.nih.gov/39532566/) | 2025 | 個案系列 | Journal of Clinical Lipidology | 2 例自體隱性高膽固醇血症（LDLRAP1 變異，臨床上與同型合子 FH 難以區分）出現快速降脂反應 |
-
----
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -110,35 +96,28 @@ TxGNN 模型預測它可能對**同型合子家族性高膽固醇血症 (Homozyg
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-- **知識圖譜標示的相關疾病風險**（來自知識圖譜的藥物－疾病禁忌關聯，非仿單文字）：肝臟疾病、膽囊疾病、甲狀腺低下症（含黏液水腫、先天性甲狀腺低下）、肌肉病變（含骨骼肌疾病、橫紋肌溶解症）、家族性週期性麻痺、低血壓、腎功能不全等。
-- **藥物交互作用**：共查得 86 筆，以下為部分重點：
-  - **重度**：Erythromycin
-  - **中度**：Rosuvastatin、Simvastatin（同為他汀類）、Cobicistat、Eltrombopag、Metronidazole、Chloroquine、Hydroxychloroquine、Ethanol 等
-  - **輕度**：Warfarin、Dicoumarol
+- **藥物交互作用**：共記錄 86 筆交互作用，列出部分如下：
+  - 重度：Erythromycin
+  - 中度：Rosuvastatin、Simvastatin、Metronidazole、Naltrexone、Eluxadoline、Cobicistat、Eltrombopag、Chloroquine、Hydroxychloroquine 等
+  - 輕度：Warfarin、Dicoumarol
 
-其餘警語與禁忌請參考原廠仿單。
-
----
+其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 此預測雖然 TxGNN 分數很高，但目前沒有直接針對同型合子家族性高膽固醇血症的臨床試驗，文獻僅有個案報告與不同族群的試驗，證據等級為 L4。
-- 此疾病的療效取決於殘存 LDL 受體功能，需要更直接的資料才能判斷。
+- 此預測僅來自 TxGNN 模型，沒有直接研究此疾病的臨床試驗或文獻，證據等級為 L5。
+- 疾病本身罕見，且 CETP 缺乏症的特徵是 HDL 偏高，降 LDL 是否有臨床意義並不明確。
 
 **若要推進需要：**
-- 針對同型合子 FH 的前瞻性研究或登錄資料（需依基因型分層，區分 LDLR 殘存活性）
-- 補充詳細的作用機轉（MOA）資料
-- 與現有同型合子 FH 標準治療（高劑量他汀、ezetimibe、PCSK9 抑制劑等）的合併或比較策略
-- 針對肝功能、肌肉毒性與藥物交互作用的安全監測計畫
-
-另需說明：資料中同為 Pitavastatin 的其他預測適應症（如 HIV 患者心血管疾病預防、家族性高膽固醇血症）證據較充分，可作為優先評估的方向。
+- 補齊詳細的作用機轉資料
+- 文獻回顧：確認 CETP 缺乏症患者使用他汀類的既有證據
+- 評估此族群的臨床需求，以及是否有可測量的療效指標
+- 在建立任何療效證據之前，不建議投入進一步開發
 
 <!-- review:begin log -->
 

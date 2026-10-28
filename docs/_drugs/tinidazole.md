@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-16
 description: "Tinidazole：預測新適應症為停經後萎縮性陰道炎 (postmenopausal atrophic vaginitis)（證據等級 L5）。原適應症：男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎"
 monitor_inn: "Tinidazole"
-predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "blunt duct adenosis of breast", "apocrine adenosis of breast", "AIDS related complex", "congenital human immunodeficiency virus", "benign mammary dysplasia"]
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 ---
 
 # Tinidazole
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**停經後萎縮性陰道炎 (postmenopausal atro
 |------|------|
 | 原適應症 | 男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎 |
 | 預測新適應症 | 停經後萎縮性陰道炎 (postmenopausal atrophic vaginitis) |
-| TxGNN 預測分數 | 99.93% |
+| TxGNN 預測分數 | 0.9993 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 21 張／共 85 張） |
 | 許可證數 | 85 張（有效單方 21／有效複方 0／已註銷 64） |
 | 建議決策 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**停經後萎縮性陰道炎 (postmenopausal atro
 
 目前缺乏詳細的作用機轉資料。已知 Tinidazole 屬硝基咪唑類，其還原後的中間產物會破壞厭氧微生物的 DNA，對厭氧菌與原蟲有選擇性活性。
 
-停經後萎縮性陰道炎的主要成因是雌激素缺乏，並非感染。因此兩者的關聯，最多只在於萎縮的陰道黏膜可能合併厭氧菌或原蟲的次發感染。這個推論並無直接證據，模型分數較高，可能反映的是它與原有生殖泌尿道適應症在知識圖譜上的相近性。
+停經後萎縮性陰道炎的主要成因是雌激素缺乏，並非感染。因此兩者的關聯，最多只在於萎縮的陰道黏膜可能合併厭氧菌或原蟲的次發感染。這個推論並無直接證據，分數來自 TxGNN 模型（深度學習），較高的分數可能反映模型學到的相關疾病之間的相似性，並非生物學證據。
 
 在其他預測中，**AIDS** 是唯一有相關資料的項目，但 Tinidazole 並不作用於 HIV。其可能角色僅限於治療合併的原蟲或厭氧菌感染，屬間接關係。
 
@@ -134,7 +134,7 @@ TxGNN 模型預測它可能對**停經後萎縮性陰道炎 (postmenopausal atro
 **若要推進需要：**
 - 補齊作用機轉資料，並釐清與萎縮性陰道炎的生物學關聯。
 - 檢視萎縮性陰道炎患者是否常合併厭氧菌或滴蟲感染，並以文獻或觀察性研究驗證。
-- 若有合理假設，再設計小規模探索性研究，並先評估知識圖譜所示的神經與血液學風險。
+- 若有合理假設，再設計小規模探索性研究，並先評估神經與血液學風險。
 - 補齊仿單的警語與禁忌症資料。
 ## 免責聲明
 

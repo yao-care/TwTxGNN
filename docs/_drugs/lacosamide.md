@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Lacosamide
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 160
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
@@ -14,7 +14,7 @@ description: "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Man
 # Lacosamide
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -52,9 +52,9 @@ TxGNN 模型預測它可能對**躁症型雙相情感障礙 (Manic Bipolar Affec
 |------|------|
 | 原適應症 | 四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療；四歲以上複雜性局部癲癇發作與單純或複雜性局部發作合併次發性全身發作之輔助治療 |
 | 預測新適應症 | 躁症型雙相情感障礙 (Manic Bipolar Affective Disorder) |
-| TxGNN 預測分數 | 99.96% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9996 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 18 張／共 18 張） |
 | 許可證數 | 18 張（有效單方 18／有效複方 0／已註銷 0） |
 | 建議決策 | Hold（僅適合作為研究問題） |
 

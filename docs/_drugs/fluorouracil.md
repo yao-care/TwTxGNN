@@ -6,9 +6,9 @@ nav_order: 115
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Fluorouracil"
-predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome"]
-last_modified_at: 2026-10-16
-description: "Fluorouracil：預測新適應症為陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)（證據等級 L5）。原適應症：消化器癌（如胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解"
+predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome"]
+last_modified_at: 2026-10-27
+description: "Fluorouracil：預測新適應症為陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)（證據等級 L5）。原適應症：結腸癌、直腸癌、乳癌、胃癌、胰臟癌、不可以手術之胃腸道乳部惡性腫瘤的姑息療法"
 ---
 
 # Fluorouracil
@@ -33,68 +33,40 @@ description: "Fluorouracil：預測新適應症為陰道葡萄狀胚胎型橫紋
 
 </div>
 
-## Fluorouracil：從消化器癌與乳癌等實體腫瘤到陰道葡萄狀胚胎型橫紋肌肉瘤
+## Fluorouracil：抗代謝藥物（胸苷酸合成酶抑制劑） → 陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)
 {: .text-alpha }
-
-<!-- review:begin fluorouracil-original-indication-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Fluorouracil：從 HER2 陽性乳癌與轉移性胃癌（許可證所載適應症）到陰道葡萄狀胚胎型橫紋肌肉瘤」。TFDA 許可證資料中，fluorouracil（5-FU）現行有效單方許可證是 3 張注射液：衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，或結腸癌、直腸癌、乳癌、胃癌、胰臟癌及不可手術之胃腸道、乳部惡性腫瘤的姑息療法；原料藥衛部藥陸輸字第001022號「氟嘧啶二酮」有效期至 2026-10-15，資料集日期（2026-09-29）時仍有效、現已過期。衛署藥製字第012452號福特喜膠囊的主成分是 tegafur（N1-(2-tetrahydrofuryl)-5-fluorouracil），不是 5-FU。賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-台灣 fluorouracil 單方注射液許可證核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，以及結腸癌、直腸癌、乳癌、胃癌、胰臟癌等的姑息療法。Fluorouracil 本身是廣泛使用的抗代謝型化療藥。
-TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)** 有效，預測分數為 99.75%。
-目前**沒有任何臨床試驗或文獻**直接支持這個預測，證據僅來自模型預測（L5）。
-
-<!-- review:begin fluorouracil-original-indication-summary-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「本報告彙整的台灣許可證資料所載適應症為 HER2 過度表現之乳癌與轉移性胃癌，其中胃癌適應症提到與 5-fluorouracil 併用。」。TFDA 許可證資料中，fluorouracil（5-FU）現行有效單方許可證是 3 張注射液：衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，或結腸癌、直腸癌、乳癌、胃癌、胰臟癌及不可手術之胃腸道、乳部惡性腫瘤的姑息療法；原料藥衛部藥陸輸字第001022號「氟嘧啶二酮」有效期至 2026-10-15，資料集日期（2026-09-29）時仍有效、現已過期。衛署藥製字第012452號福特喜膠囊的主成分是 tegafur（N1-(2-tetrahydrofuryl)-5-fluorouracil），不是 5-FU。賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-original-indication-summary-2026-10-16 -->
-
-> **資料提醒：** 本報告原先引用的許可證（賀癌平、康癌停、赫珠瑪、曲斯若）是 trastuzumab 類生物製劑，文中的 5-FU 只是併用藥物；fluorouracil 本身的有效單方許可證是注射液與原料藥（見下方許可證表），核准適應症已寫入快速總覽的「原適應症」。
-
-<!-- review:begin fluorouracil-original-indication-data-note-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「**資料提醒：** 本報告所列的 4 張有效許可證，品名與適應症文字都屬於 trastuzumab 類生物製劑（如賀癌平、康癌停、赫珠瑪、曲斯若），並非 fluorouracil 單方製劑。文中的 5-FU 只是併用藥物。因此下表的「原適應症」不能直接視為 fluorouracil 本身的核准適應症，需另行核對 fluorouracil 製劑的許可證。」。TFDA 許可證資料中，fluorouracil（5-FU）現行有效單方許可證是 3 張注射液：衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，或結腸癌、直腸癌、乳癌、胃癌、胰臟癌及不可手術之胃腸道、乳部惡性腫瘤的姑息療法；原料藥衛部藥陸輸字第001022號「氟嘧啶二酮」有效期至 2026-10-15，資料集日期（2026-09-29）時仍有效、現已過期。衛署藥製字第012452號福特喜膠囊的主成分是 tegafur（N1-(2-tetrahydrofuryl)-5-fluorouracil），不是 5-FU。賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-original-indication-data-note-2026-10-16 -->
+Fluorouracil 是一種抗代謝類的細胞毒性抗腫瘤藥物，台灣已有多張注射劑許可證。
+TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)** 有效，
+但目前**沒有臨床試驗與文獻**直接支持這個預測，僅有模型預測分數。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 消化器癌（如胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解；結腸癌、直腸癌、乳癌、胃癌、胰臟癌，以及不可以手術之胃腸道、乳部惡性腫瘤的姑息療法 |
+| 原適應症 | 結腸癌、直腸癌、乳癌、胃癌、胰臟癌、不可以手術之胃腸道乳部惡性腫瘤的姑息療法; 消化器癌(如胃癌、直腸癌、結腸癌)、肺癌、乳癌病狀之緩解。; 抗腫瘤藥; 不能開刀之胃腸道、乳部惡性腫瘤的姑息療法; 消化系統癌症（胃癌、結腸癌、直腸癌）乳癌、肺癌症狀之緩解; 消化系統之癌症（胃癌、膽道癌、脾臟癌、結腸癌、直腸癌）乳癌、肺癌、頭頸部癌（食道癌、頸部癌）等症狀之緩解; 消化器癌（胃癌、膽道癌、肝臟癌、結腸癌、直腸癌）肺癌、頭頸部癌（食道癌、頸部癌）; 消化器癌（胃癌、結腸癌、直腸癌）乳癌、肺癌; 皮膚癌; 大腸癌、乳癌、結腸癌; 抗惡性腫瘍; 惡性腫瘤、直腸癌、結腸癌及乳癌; 消化器癌（胃癌、直腸癌 |
 | 預測新適應症 | 陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina) |
-| TxGNN 預測分數 | 99.75% |
+| TxGNN 預測分數 | 0.9975 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 40 張） |
 | 許可證數 | 40 張（有效單方 4／有效複方 0／已註銷 36） |
 | 建議決策 | Hold |
 
-<!-- review:begin fluorouracil-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現之早期乳癌、轉移性乳癌；轉移性胃癌（合併 capecitabine 或 5-FU 及 cisplatin）。此為許可證資料所載文字，見上方資料提醒」。2026-10-15 報告重生後此列仍是 trastuzumab 許可證的適應症。已依 TFDA 現行有效的 fluorouracil 注射液許可證改寫適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-original-indication-2026-10-03 -->
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉（MOA）資料。以下說明依一般藥理知識整理：Fluorouracil 是胸苷酸合成酶（thymidylate synthase）抑制劑，屬抗代謝藥物。它會干擾腫瘤細胞的 DNA 與 RNA 合成，對快速增生的細胞有細胞毒性。
+目前缺乏詳細的作用機轉資料。就藥理上而言，Fluorouracil 會抑制胸苷酸合成酶，並以代謝物形式嵌入 RNA 與 DNA，因此可能影響快速增殖的腫瘤細胞。
 
-橫紋肌肉瘤是增生快速的惡性軟組織肉瘤，從機轉上看，抗代謝藥物有可能對它產生作用。但這只是理論上的合理性，目前沒有針對此疾病的 fluorouracil 臨床試驗或文獻佐證。
-
-原適應症為乳癌與胃癌等上皮來源的癌症，與橫紋肌肉瘤這類間質來源的肉瘤，在組織學與治療慣例上差異不小。因此兩者的關聯性主要建立在「細胞毒性化療」這個共通點上，並不是疾病本質相近。
+橫紋肌肉瘤是增殖活躍的軟組織惡性腫瘤，理論上可能受到抗代謝藥物影響。不過，針對這個特定亞型，本報告所整理的資料中沒有任何臨床試驗或文獻，因此這個連結目前僅建立在模型預測上，屬於假說層級。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-目前無相關文獻。
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -124,51 +96,32 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（氟嘧啶類 fluoropyrimidine 抗代謝藥） |
-| 骨髓抑制風險 | 中度。知識圖譜顯示與血小板減少、嗜中性白血球減少、白血球減少、顆粒球缺乏相關 |
-| 致吐性分級 | 低至中度（依藥物類別判斷） |
-| 監測項目 | CBC（含分類）、肝腎功能；用藥前宜留意 DPD（二氫嘧啶去氫酶）缺乏風險 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（氟嘧啶類抗代謝藥物） |
+| 骨髓抑制風險 | 中至高。資料中記錄的相關風險包括血小板減少、嗜中性球減少、白血球減少與顆粒球缺乏 |
+| 致吐性分級 | 低至中度 |
+| 監測項目 | 全血球計數（CBC，含分類）、肝腎功能、電解質 |
 | 處置防護 | 需依細胞毒性藥物處置規範操作 |
-
-具體警語與劑量調整請參考原廠仿單。
 
 ## 安全性考量
 
-- **知識圖譜標示的禁忌或需謹慎的疾病**（來源為知識圖譜，並非仿單文字）：腎臟疾病、肝臟疾病、膽囊疾病、血小板減少、嗜中性白血球減少、顆粒球缺乏、白血球減少、腹瀉類疾病、活動性消化性潰瘍、咽炎、口腔炎、膿輸尿管、二氫嘧啶去氫酶（DPD）缺乏症。
-- **藥物交互作用**：資料庫共有 361 筆紀錄。已列出的項目中：
-  - 中度：Metronidazole、Tinidazole
-  - 輕度：Cimetidine、Levofloxacin
-  - 其餘多數等級未知
+- **禁忌／需特別留意的疾病**：腎臟疾病、肝臟疾病、膽囊疾病、血小板減少、嗜中性球減少、顆粒球缺乏、白血球減少、腹瀉性疾病、活動性消化性潰瘍、咽炎、口腔炎、二氫嘧啶去氫酶（DPD）缺乏。以上為模型資料庫的藥物－疾病關聯，並非仿單文字，實際請以原廠仿單為準。
+- **藥物交互作用**：資料中共記錄 361 筆交互作用，其中中度者包括 Metronidazole、Tinidazole；輕度者包括 Cimetidine、Levofloxacin。其餘多數等級未明。
 
-  用藥時宜留意併用藥物，細節請對照完整交互作用資料與仿單。
+主要警語與正式禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 這個預測只有模型分數（99.75%）支持，沒有任何臨床試驗或文獻，證據等級為 L5。
-- 骨髓抑制等毒性不低，且許可證資料與 fluorouracil 本身並不對應，現階段不宜推進。
-- 同一份預測清單中，「橫紋肌肉瘤 (rhabdomyosarcoma)」有 4 篇間接文獻（等級 L4），但多為老舊的兒童肉瘤綜述與化療總覽。唯一的成人舌部橫紋肌肉瘤個案報告中，cisplatin 加 5-FU 的方案後疾病仍進展，因此這些文獻也不足以支持 fluorouracil 的療效。
-
-<!-- review:begin fluorouracil-original-indication-conclusion-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，fluorouracil（5-FU）現行有效單方許可證是 3 張注射液：衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，或結腸癌、直腸癌、乳癌、胃癌、胰臟癌及不可手術之胃腸道、乳部惡性腫瘤的姑息療法；原料藥衛部藥陸輸字第001022號「氟嘧啶二酮」有效期至 2026-10-15，資料集日期（2026-09-29）時仍有效、現已過期。衛署藥製字第012452號福特喜膠囊的主成分是 tegafur（N1-(2-tetrahydrofuryl)-5-fluorouracil），不是 5-FU。賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-original-indication-conclusion-2026-10-16 -->
+- 此預測只有模型分數，沒有任何臨床試驗或文獻直接研究此疾病，證據等級為 L5。
+- Fluorouracil 具有明顯的骨髓抑制等毒性，在缺乏療效證據下不宜直接推進。
 
 **若要推進需要：**
-- 核對並補足 fluorouracil 單方製劑的台灣許可證與核准適應症
-- 補充 DrugBank 的作用機轉（MOA）資料
-- 進行系統性文獻回顧，確認 fluorouracil 在橫紋肌肉瘤（尤其是兒童與婦科部位）的既有療效與治療地位
-- 與現行標準化療方案（如 vincristine、actinomycin D、cyclophosphamide 等）比較，評估 fluorouracil 是否有納入的必要
-- 若要進入研究，需有完整的安全性監測計畫，包括血液學與 DPD 檢測
-
-<!-- review:begin fluorouracil-original-indication-next-step-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，fluorouracil（5-FU）現行有效單方許可證是 3 張注射液：衛部藥製字第058842號癒復達、衛署藥製字第022587號清淨癌、衛部藥製字第058033號好復注射液，核准消化器癌（胃癌、直腸癌、結腸癌）、肺癌、乳癌病狀之緩解，或結腸癌、直腸癌、乳癌、胃癌、胰臟癌及不可手術之胃腸道、乳部惡性腫瘤的姑息療法；原料藥衛部藥陸輸字第001022號「氟嘧啶二酮」有效期至 2026-10-15，資料集日期（2026-09-29）時仍有效、現已過期。衛署藥製字第012452號福特喜膠囊的主成分是 tegafur（N1-(2-tetrahydrofuryl)-5-fluorouracil），不是 5-FU。賀癌平、康癌停、赫珠瑪、曲斯若是 trastuzumab 類許可證，5-FU 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end fluorouracil-original-indication-next-step-2026-10-16 -->
+- 取得 Fluorouracil 的詳細作用機轉資料。
+- 搜尋並評估橫紋肌肉瘤（含陰道葡萄狀亞型）使用 Fluorouracil 的臨床與前臨床證據。
+- 與現行橫紋肌肉瘤標準化療方案比較，確認是否有合理的定位。
+- 釐清 DPD 缺乏等高風險族群的篩檢與監測計畫。
 
 <!-- review:begin log -->
 
@@ -178,14 +131,14 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 原適應症取自 trastuzumab 類許可證 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 trastuzumab 類許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證數「20 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 正確資訊提示「許可證總數約 20 張」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結以 trastuzumab 許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 資料提醒稱許可證都屬 trastuzumab 類 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 結論稱許可證資料與 fluorouracil 不對應 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 下一步建議另行核對 fluorouracil 許可證 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結以 trastuzumab 許可證的適應症為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 資料提醒稱許可證都屬 trastuzumab 類 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱許可證資料與 fluorouracil 不對應 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步建議另行核對 fluorouracil 許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

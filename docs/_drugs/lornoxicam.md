@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lornoxicam
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 169
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Lornoxicam：預測新適應症為類風濕性關節炎 (Rheumatoid Arthritis)（證據等級 L4）。原適應症：輕度至中度急性疼痛之短期止痛"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Lornoxicam"
-predicted_indications: ["migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+last_modified_at: 2026-10-23
+description: "Lornoxicam：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：輕度至中度急性疼痛之短期止痛"
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +33,55 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 </div>
 
-## Lornoxicam：從輕度至中度急性疼痛到類風濕性關節炎
+## Lornoxicam：從急性疼痛到偏頭痛
 {: .text-alpha }
 
 ## 一句話總結
 
-Lornoxicam 是一種 oxicam 類非類固醇消炎止痛藥（NSAID），原本用於輕度至中度急性疼痛的短期止痛。
-TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** 有效，
-目前**沒有登記的臨床試驗**，但有 **20 篇文獻**，多為藥物回顧、劑型開發與動物或體外研究，證據屬間接支持。
-
----
+Lornoxicam 是一種 NSAID（非類固醇抗發炎藥），在台灣核准用於輕度至中度急性疼痛的短期止痛。
+TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
+目前有 **1 個已完成的 Phase 2 臨床試驗**和 **2 篇文獻**與此方向相關，但試驗結果數據尚未取得。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 輕度至中度急性疼痛之短期止痛 |
-| 預測新適應症 | 類風濕性關節炎 (Rheumatoid Arthritis) |
-| TxGNN 預測分數 | 99.90% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 預測新適應症 | 偏頭痛 (Migraine Disorder) |
+| TxGNN 預測分數 | 0.9987 |
+| 證據等級 | L5（依規則上限：見下方說明） |
+| 台灣上市 | 上市中（有效許可證 2 張／共 5 張） |
 | 許可證數 | 5 張（有效單方 2／有效複方 0／已註銷 3） |
 | 建議決策 | Hold |
 
----
+> 證據等級說明：資料中有一項直接研究偏頭痛的 Phase 2 試驗（NCT00293657），但其結果未提供，無法確認療效。本報告保守判定為 L5；若取得試驗結果，可重新評估為 L2。
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Lornoxicam 屬於 oxicam 類 NSAID，文獻指出它非選擇性抑制 COX-1 與 COX-2，進而減少前列腺素介導的發炎與疼痛。
+目前缺乏詳細的作用機轉資料（DrugBank 未收錄 MOA）。根據已知資訊，Lornoxicam 屬於 oxicam 類 NSAID，一般認為透過抑制 COX-1 與 COX-2、降低前列腺素生成而發揮止痛與抗發炎作用。
 
-類風濕性關節炎以慢性關節發炎和疼痛為主要表現，NSAID 可用於症狀控制。Lornoxicam 在部分國家已用於退化性關節炎與類風濕性關節炎的症狀緩解；台灣已註銷的舊許可證也曾核准「退化性關節炎之症狀及徵象緩解」，但現行有效許可證僅限急性疼痛。
+偏頭痛發作時涉及前列腺素介導的神經源性發炎與疼痛訊號傳遞，因此 NSAID 類藥物長期被用於偏頭痛急性發作的治療。Lornoxicam 在急性疼痛中的止痛效果，與偏頭痛的疼痛症狀在機轉上有相通之處。
 
-要注意的是，NSAID 只能緩解症狀，並不改變疾病進程，因此這個預測較適合視為「症狀控制」而非疾病修飾治療。
-
----
+需注意：上述機轉推論屬合理推測，並非由本次資料直接證實。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
-
----
+| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+|---------|------|------|------|---------|
+| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | Phase 2 | 完成 | 150 | 隨機、雙盲、安慰劑對照的單劑試驗，評估靜脈注射 Lornoxicam（8 mg 或 16 mg）對偏頭痛急性頭痛的療效與安全性；結果數據未提供 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [19821419](https://pubmed.ncbi.nlm.nih.gov/19821419/) | 2009 | Meta-analysis | Cochrane Database Syst Rev | 單劑口服 lornoxicam 用於術後急性疼痛的系統性回顧（針對疼痛，非類風濕性關節炎） |
-| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | 回顧 lornoxicam 的藥理與在疼痛及發炎性疾病的治療潛力；半衰期較短（回顧寫 3–5 小時；仿單記載原形藥平均排除半衰期 3–4 小時） |
-| [22469263](https://pubmed.ncbi.nlm.nih.gov/22469263/) | 2011 | Review | Profiles Drug Subst Excip Relat Methodol | 藥物完整概述，指出用於骨關節炎和類風濕性關節炎等肌肉骨骼疾病 |
-| [27086708](https://pubmed.ncbi.nlm.nih.gov/27086708/) | 2016 | 安全性評估 | Pain Manag | 評估 lornoxicam 在急性與風濕性疼痛的耐受性，著重胃腸道事件 |
-| [12404032](https://pubmed.ncbi.nlm.nih.gov/12404032/) | 2002 | 交叉雙盲研究 | Reumatismo | 在類風濕性關節炎患者比較 8 與 16 mg/日 lornoxicam 與 diclofenac 150 mg/日（摘要未提供結果） |
-| [12207202](https://pubmed.ncbi.nlm.nih.gov/12207202/) | 2002 | 長期研究 | Minerva Med | 評估 lornoxicam 在類風濕性關節炎的長期安全性與療效（摘要未提供結果） |
-| [29026298](https://pubmed.ncbi.nlm.nih.gov/29026298/) | 2017 | 動物研究 | Int J Nanomedicine | 奈米微胞 lornoxicam 在類風濕性關節炎動物模型中與游離藥物比較療效 |
-| [23567043](https://pubmed.ncbi.nlm.nih.gov/23567043/) | 2013 | 動物研究 | J Control Release | 含 teriflunomide 與 lornoxicam 的經皮貼片，探討關節內藥物遞送 |
-| [32792844](https://pubmed.ncbi.nlm.nih.gov/32792844/) | 2020 | 體外研究 | Saudi Pharm J | 載 lornoxicam 的微海綿凝膠配方，提供持續抗發炎效果 |
-| [12240779](https://pubmed.ncbi.nlm.nih.gov/12240779/) | 2002 | Review | Clin Ther | NSAID 劑量與療效、不良事件關係的文獻回顧（類風濕性關節炎與骨關節炎） |
+| [8706598](https://pubmed.ncbi.nlm.nih.gov/8706598/) | 1996 | Review | Drugs | Lornoxicam 藥理與治療潛力回顧；半衰期較短（回顧寫 3–5 小時；仿單記載原形藥平均排除半衰期 3–4 小時），初步臨床試驗顯示對疼痛與發炎性疾病有效（並非專門針對偏頭痛） |
+| [1495823](https://pubmed.ncbi.nlm.nih.gov/1495823/) | 1992 | Review | Pathologie-biologie | 回顧 NSAID 用於偏頭痛急性發作與預防的對照研究，所涵蓋藥物包含 Lornoxicam |
 
 <!-- review:begin lornoxicam-half-life-2026-10-03 -->
 
 > **查核更正（2026-10-03）**：原寫「半衰期較短（3–5 小時）」。仿單（Xefo SmPC §5.2）載明原形藥平均排除半衰期為 3 至 4 小時；此處是 1996 年回顧文章的摘要，已並列仿單數值。依據：[HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf)。
 
 <!-- review:end lornoxicam-half-life-2026-10-03 -->
-
-另有數篇劑型開發研究（脈衝釋放、迷你錠、乳膠凝膠、經皮傳遞系統等），屬藥劑學研究，未提供臨床療效資料，故未列入。
-
----
 
 ## 台灣上市資訊
 
@@ -121,38 +105,24 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
 安全性資訊請參考原廠仿單。
-
----
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 類風濕性關節炎沒有登記的臨床試驗；文獻以回顧、劑型開發及動物或體外研究為主，證據等級為 L4。
-- 僅有兩項較早期的類風濕性關節炎臨床研究（2002 年），摘要未提供結果。
-- 台灣現行有效許可證不含關節炎適應症，且 NSAID 只能緩解症狀。
+- 雖有一項已完成的 Phase 2 安慰劑對照試驗直接研究偏頭痛，但結果未取得，療效尚無法確認；其餘文獻為一般性回顧。
+- 機轉資料不足，且安全性（警語、禁忌、藥物交互作用）資料缺漏，目前不宜直接推進。
 
 **若要推進需要：**
-- 取得 2002 年兩項類風濕性關節炎臨床研究（PMID 12404032、12207202）的全文與結果。
-- 補充詳細的作用機轉資料（MOA）。
-- 查核歷史已註銷許可證的退化性關節炎適應症，了解註銷原因與是否涉及安全性或療效考量。
-- 若要正式申請，需評估是否有必要進行與其他 NSAID 比較的臨床試驗。
-- 補齊警語、禁忌症與藥物交互作用資料，特別是胃腸道、心血管與腎臟風險。
-
----
-
-### 其他預測適應症備註
-
-- **偏頭痛 (Migraine disorder)**：TxGNN 分數 99.87%，有一項已完成的 Phase 2 隨機雙盲安慰劑對照試驗（[NCT00293657](https://clinicaltrials.gov/study/NCT00293657)，靜脈注射 lornoxicam，n=150），但結果未提供。證據等級 L2，是較值得進一步追蹤的方向。
-- **頭痛疾患 (Headache disorder)**：同一項偏頭痛試驗可間接支持，但適用範圍有限。
-- **肌腱炎 (Tendinitis)**：僅有一項相關 RCT（肩峰下夾擠症候群），結果顯示 lornoxicam 注射劑不如 betamethasone。
-- 其餘預測（如先天性肢體畸形症候群等）缺乏機轉與臨床證據，可能是知識圖譜的假象，建議暫緩。
+- 取得 NCT00293657 的完整結果（主要療效指標、安全性），並確認有無已發表論文
+- 補充 Lornoxicam 的作用機轉資料
+- 取得仿單的警語、禁忌與藥物交互作用資訊
+- 評估劑型可行性：該試驗使用靜脈注射，而台灣目前有效許可證皆為口服膜衣錠
+- 與現行偏頭痛急性期標準治療比較，評估臨床定位
 
 <!-- review:begin log -->
 

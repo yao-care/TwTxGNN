@@ -4,7 +4,7 @@ title: Zonisamide
 parent: 僅模型預測 (L5)
 nav_order: 312
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Zonisamide：預測新適應症為妥瑞氏症 (Tourette syndrome)（證據等級 L5）。原適應症：新診斷成人局部癲癇發作之單一藥物治療及成人局部癲癇發作之輔助治療（單純性局部發作、複雜性局部發作、局部發作續發全身性強直-陣攣發作）"
 monitor_inn: "Zonisamide"
@@ -14,7 +14,7 @@ predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobine
 # Zonisamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -51,9 +51,9 @@ TxGNN 模型預測它可能對**妥瑞氏症 (Tourette syndrome)** 有效，但�
 |------|------|
 | 原適應症 | 新診斷成人局部癲癇發作之單一藥物治療及成人局部癲癇發作之輔助治療（單純性局部發作、複雜性局部發作、局部發作續發全身性強直-陣攣發作） |
 | 預測新適應症 | 妥瑞氏症 (Tourette syndrome) |
-| TxGNN 預測分數 | 99.85% |
+| TxGNN 預測分數 | 0.9985 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -125,13 +125,11 @@ Moderate 等級包括 Aprepitant、Morphine、Dexamethasone、Cimetidine、Clari
 
 | 排名 | 預測適應症 | 分數 | 證據等級 | 重點 | 建議 |
 |------|-----------|------|---------|------|------|
-| 2 | 拔毛症 (trichotillomania) | 99.78% | L5 | 僅有推測性機轉，無證據 | Hold |
-| 3–4, 6 | 高鐵血紅素血症相關（alpha 型、一般型、還原酶缺乏） | 99.5–99.6% | L5 | 未發現合理機轉，疑為純計算預測 | Hold |
-| 5 | 變異型心絞痛 (Prinzmetal angina) | 99.55% | L5 | T 型鈣通道阻斷的理論連結薄弱 | Hold |
-| 7 | 躁型雙相情感障礙 | 99.35% | L4 | 僅有間接回顧與雙相憂鬱開放性試驗報告；另有 zonisamide 誘發躁狂的安全性訊號 | Hold |
-| 8 | 失神發作癲癇 (absence epilepsy) | 99.24% | L3 | 有小型病例系列（如兒童失神發作回顧：45 例中 51.1% 達無發作）及難治性青少年失神癲癇報告；機轉（T 型鈣通道）與已核准用途一致 | Proceed with Guardrails |
-| 9 | 纖維肌痛 (fibromyalgia) | 99.20% | L5 | 唯一試驗（NCT00259636，第 4 期）已撤回、0 人收案 | Hold |
-| 10 | 結膜炎 (conjunctivitis) | 99.16% | L5 | 無治療機轉；磺胺類藥物反而有過敏或眼部反應的安全考量 | Hold |
+| 2 | 拔毛症 (trichotillomania) | 0.9978 | L5 | 僅有推測性機轉，無證據 | Hold |
+| 5 | 變異型心絞痛 (Prinzmetal angina) | 0.9955 | L5 | T 型鈣通道阻斷的理論連結薄弱 | Hold |
+| 7 | 躁型雙相情感障礙 | 0.9935 | L5 | 僅有間接回顧與雙相憂鬱開放性試驗報告；另有 zonisamide 誘發躁狂的安全性訊號 | Hold |
+| 9 | 纖維肌痛 (fibromyalgia) | 0.9920 | L5 | 唯一試驗（NCT00259636，第 4 期）已撤回、0 人收案 | Hold |
+| 10 | 結膜炎 (conjunctivitis) | 0.9916 | L5 | 無治療機轉；磺胺類藥物反而有過敏或眼部反應的安全考量 | Hold |
 
 ---
 

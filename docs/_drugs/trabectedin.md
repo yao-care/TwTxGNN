@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trabectedin
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 286
-evidence_level: L2
+evidence_level: L5
 indication_count: 1
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
@@ -14,7 +14,7 @@ description: "Trabectedin：預測新適應症為女性乳癌 (Female Breast Car
 # Trabectedin
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 |------|------|
 | 原適應症 | 無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)，且曾接受一種含 anthracycline 療程的病人 |
 | 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
-| TxGNN 預測分數 | 99.73% |
-| 證據等級 | L2 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9973 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Proceed with Guardrails |
 
@@ -124,7 +124,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 **決策：Proceed with Guardrails**
 
 **理由：**
-- 已有數項針對乳癌的 Phase 2 研究（含 BRCA1/2 突變族群與 anthracycline／taxane 治療後的晚期乳癌），機轉上也有合理依據，TxGNN 分數很高（99.73%）。但缺乏已完成的 Phase 3 RCT，且唯一登記的臨床試驗屬 QT 安全性研究，並非乳癌療效試驗，因此證據等級為 L2，宜在限定族群與嚴格監測下推進。
+- 已有數項針對乳癌的 Phase 2 研究（含 BRCA1/2 突變族群與 anthracycline／taxane 治療後的晚期乳癌），機轉上也有合理依據，TxGNN 分數很高（0.9973）。但缺乏已完成的 Phase 3 RCT，且唯一登記的臨床試驗屬 QT 安全性研究，並非乳癌療效試驗，因此證據等級為 L2，宜在限定族群與嚴格監測下推進。
 
 **若要推進需要：**
 - 取得並確認各 Phase 2 乳癌研究的主要療效數據（反應率、無惡化存活期），並與現行標準治療比較

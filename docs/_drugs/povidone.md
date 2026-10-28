@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Povidone"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
 last_modified_at: 2026-10-16
-description: "Povidone：預測新適應症為先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma)（證據等級 L5）。原適應症：製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液"
+description: "Povidone：預測新適應症為先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma)（證據等級 L5）。原適應症：製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液"
 ---
 
 # Povidone
@@ -33,14 +33,8 @@ description: "Povidone：預測新適應症為先天性魚鱗癬樣紅皮症 (Co
 
 </div>
 
-## Povidone：從製劑輔料與人工淚液到先天性魚鱗癬樣紅皮症
+## Povidone: 先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma)
 {: .text-alpha }
-
-<!-- review:begin povidone-iodine-indications-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Povidone：從外用消毒殺菌到先天性魚鱗癬樣紅皮症」。TFDA 許可證資料中，povidone（聚維酮，PVP）本身的用途是製劑輔料（分散劑、懸膠劑、懸浮賦形劑、錠劑崩散劑：衛署藥輸字第000310號、第012427號、第001931號、第010488號）與人工淚液（衛署藥輸字第022694號、第022926號優樂沛人工淚液），這些證全部已註銷；截至資料集日期只有 1 張有效複方（衛署藥製字第036634號「信東」舒眼人工淚液）。本頁許可證表已註銷段另有衛署藥製字第039361號、第043746號（品名「優碘」）與第038941號「高碘」，主成分欄只登載 povidone（高碘另列 iodine），適應症是皮膚消毒、局部消毒或消毒殺菌，英文品名依原文分別是「MICROSHIELD* PVP-S ANTISEPTIC SOLUTION 100 MG/ML (POVIDONE-IDINE)」「POVIDONE IODINE 17 "SAM SON"」「POCIDONE IODINE (20%) STANDARD」（拼字照錄），都是聚維酮碘製劑。傷口、皮膚、口腔與手術前消毒是 povidone-iodine（聚維酮碘）的適應症，殺菌作用來自釋出的碘；主成分欄登載為 povidone-iodine 的許可證不計入本頁許可證表。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end povidone-iodine-indications-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -59,10 +53,10 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 製劑輔料（分散劑、懸膠劑、錠劑崩散劑）、人工淚液（povidone 單方許可證，皆已註銷）；殺菌劑是 povidone-iodine 的適應症 |
-| 預測新適應症 | 先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma) |
-| TxGNN 預測分數 | 99.11% |
+| 預測新適應症 | 先天性魚鱗癬樣紅皮症 (congenital ichthyosiform erythroderma) |
+| TxGNN 預測分數 | 0.9911 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 24 張） |
 | 許可證數 | 24 張（有效單方 0／有效複方 1／已註銷 23） |
 | 建議決策 | Hold |
 
@@ -84,7 +78,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 
 先天性魚鱗癬樣紅皮症是一種角質化異常的遺傳性皮膚疾病，主要問題在皮膚屏障與角質形成，並非感染。目前沒有建立起 Povidone 與此疾病角質化缺陷之間的明確機轉連結。
 
-若真有潛在益處，也僅可能來自間接效果，例如降低患者因皮膚屏障受損而發生的續發性皮膚感染。這屬於推測，並無研究佐證，因此 TxGNN 的高分（0.991）應謹慎解讀。
+若真有潛在益處，也僅可能來自間接效果，例如降低患者因皮膚屏障受損而發生的續發性皮膚感染。這屬於推測，並無研究佐證，因此 TxGNN 的高分（0.9911）應謹慎解讀。
 
 <!-- review:begin povidone-iodine-indications-infection-2026-10-16 -->
 
@@ -161,7 +155,7 @@ TxGNN 模型預測它可能對**先天性魚鱗癬樣紅皮症 (Congenital Ichth
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原核准適應症」實為聚維酮碘的適應症 | 查核撤回（2026-10-16：與 2026-10-16「原適應症寫殺菌劑」更正重複（錨點同一列），說明已併入該筆；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以消毒殺菌為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以消毒殺菌為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結把 povidone 寫成聚維酮碘 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由稱 povidone 是含碘消毒劑 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱 povidone 原為外用消毒劑 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |

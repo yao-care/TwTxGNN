@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Docetaxel
-parent: 高證據等級 (L1-L2)
+parent: 中證據等級 (L3-L4)
 nav_order: 90
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Docetaxel：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌"
+evidence_level: L3
+indication_count: 7
 monitor_inn: "Docetaxel"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-27
+description: "Docetaxel：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L3）。原適應症：抗癌藥"
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,96 +33,62 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-## Docetaxel：從乳癌、非小細胞肺癌、前列腺癌等到女性乳癌
+## Docetaxel：微管穩定劑（紫杉類細胞毒性化療藥）→ 尤文氏肉瘤 (Ewing sarcoma)
 {: .text-alpha }
-
-<!-- review:begin docetaxel-original-indication-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Docetaxel：從 HER2 過度表現之乳癌／轉移性胃癌 到 女性乳癌」。TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第057971號「永信」活克癌），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end docetaxel-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Docetaxel 是紫杉醇類（taxane）細胞毒性化療藥物，台灣 docetaxel 單方許可證核准的原適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌與頭頸癌。
-TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預測分數 99.90%。
-目前有 **多個 Phase 3 隨機對照試驗**（共 40 餘個臨床試驗）和 **多篇文獻**支持這個方向，包括 ABC 系列輔助治療試驗。
-
-<!-- review:begin docetaxel-summary-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「本報告所用的台灣許可證資料記載的原適應症為 HER2 過度表現之早期／轉移性乳癌與轉移性胃癌。」。2026-10-15 報告重生後仍沿用 trastuzumab 許可證的適應症。這段原適應症取自 trastuzumab 製劑（曲斯若，Trazimera）的許可證；台灣 docetaxel 許可證核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end docetaxel-summary-indication-2026-10-03 -->
+Docetaxel 是紫杉類（taxane）細胞毒性化療藥物，已在台灣取得許可證。
+TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
+目前有 **8 個臨床試驗**和 **20 篇文獻**與此方向相關，但多為復發或難治病人的單臂 Phase 2 研究，療效有限。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌 |
-| 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
-| TxGNN 預測分數 | 99.90% |
-| 證據等級 | L1 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。; １、乳癌 - 與doxorubicin和cyclophosphamide併用適用於可手術切除具有淋巴結轉移及無淋巴結轉移的乳癌病人的術後輔助療法。對於可接受手術切除且無淋巴結轉移的乳癌病人，輔助療法僅限用於可接受化學治療的病人，該化療方式則是遵照國際標準對早期乳癌之主要治療方式。 - 與doxorubicin併用適用局部晚期或轉移性乳癌且先前未曾接受過化學治療之病人。 - 單獨使用，適用於治療局部晚期或轉移性且先前化學治療失敗之乳癌病人。 - 與trastuzumab併用，可用於治療腫瘤HER |
+| 預測新適應症 | 尤文氏肉瘤 (Ewing sarcoma) |
+| TxGNN 預測分數 | 0.9990 |
+| 證據等級 | L3 |
+| 台灣上市 | 上市中（有效許可證 18 張／共 26 張） |
 | 許可證數 | 26 張（有效單方 18／有效複方 0／已過期 1／已註銷 7） |
-| 建議決策 | Proceed with Guardrails |
-
-<!-- review:begin docetaxel-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現或基因擴增之早期乳癌、轉移性乳癌；轉移性胃癌（與 capecitabine 或 5-FU 及 cisplatin 併用）（見下方註記）」。原寫內容是 trastuzumab 製劑（曲斯若，衛部菌疫輸字第001135號）的適應症；已改為台灣 docetaxel 許可證的核准適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end docetaxel-original-indication-2026-10-03 -->
-
-> **資料註記：** 本次彙整的 6 張台灣許可證，品名為曲斯若、賀癌平、康癌停、赫珠瑪等，核准適應症文字都是 HER2 陽性乳癌與胃癌，內容看起來屬於 trastuzumab 類生物藥品，並非 docetaxel 單方製劑。因此「原適應症」欄位的內容未必代表 docetaxel 自身的核准範圍，建議向 TFDA 另行確認 docetaxel 本身的許可證與適應症。
-
-<!-- review:begin docetaxel-original-indication-data-note-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第057971號「永信」活克癌），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end docetaxel-original-indication-data-note-2026-10-16 -->
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。根據模型整理的機轉說明，docetaxel 會穩定微管並阻止其解聚，使快速分裂的癌細胞停滯在有絲分裂期，最終走向細胞凋亡。這是紫杉醇類藥物的典型機轉，對增生快速的乳癌細胞特別適用。
+目前缺乏完整的作用機轉資料。Docetaxel 屬於紫杉類藥物，一般認為它會穩定微管並造成有絲分裂停滯，使快速增生的腫瘤細胞無法分裂。
 
-在原適應症與新適應症的關聯上，兩者本質上都是乳癌。TFDA 許可證文字多處提到 docetaxel 是 HER2 陽性乳癌輔助與轉移治療的併用化療選項，例如與 docetaxel 及 carboplatin 併用、以 AC 治療後再合併 paclitaxel 或 docetaxel 等。
+尤文氏肉瘤是增生快速的骨與軟組織惡性腫瘤，理論上可能對抗有絲分裂藥物敏感。前臨床資料顯示，docetaxel 先接在 gemcitabine 之後使用時有協同細胞毒性。臨床上，復發或難治的尤文氏肉瘤已有 docetaxel 單用或合併 gemcitabine、irinotecan 的 Phase 2 研究。
 
-<!-- review:begin docetaxel-original-indication-why-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第057971號「永信」活克癌），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end docetaxel-original-indication-why-2026-10-16 -->
-
-因此這項預測更接近對既有臨床用途的確認，而非全新的適應症開發。ABC 系列隨機輔助治療試驗等資料顯示，docetaxel 與 cyclophosphamide（TC）方案在早期乳癌已有明確的臨床地位。
+不過這些研究多半只看到有限的反應，並不足以證明療效。目前的支持證據屬於「合理但尚未確立」。
 
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Phase 3 | 完成 | 3222 | 比較 AC-T、AC-TH 與 TCH 用於 HER2 陽性淋巴結陽性或高風險乳癌的術後輔助治療，主要指標為無病存活 |
-| [NCT00003782](https://clinicaltrials.gov/study/NCT00003782) | Phase 3 | 完成 | 5351 | 比較 AC-T、AT 與 ATC 三種輔助化療方案（腋下淋巴結陽性乳癌） |
-| [NCT00003519](https://clinicaltrials.gov/study/NCT00003519) | Phase 3 | 完成 | 2778 | 比較 Adriamycin/Taxotere 與 Adriamycin/Cytoxan 用於淋巴結陽性或高風險乳癌的輔助治療 |
-| [NCT00002707](https://clinicaltrials.gov/study/NCT00002707) | Phase 3 | 完成 | 2411 | 比較術前 AC 合併或不合併術前／術後 docetaxel 用於 II–III 期乳癌 |
-| [NCT00887536](https://clinicaltrials.gov/study/NCT00887536) | Phase 3 | 完成 | 1613 | TC 加 bevacizumab 對比 TC 單用及 TAC，用於 HER2 陰性高風險乳癌 |
-| [NCT00333775](https://clinicaltrials.gov/study/NCT00333775) | Phase 3 | 完成 | 736 | Bevacizumab 加 docetaxel 對比 docetaxel 加安慰劑，作為 HER2 陰性轉移性乳癌第一線治療 |
-| [NCT00667251](https://clinicaltrials.gov/study/NCT00667251) | Phase 3 | 完成 | 652 | Taxane 化療加 lapatinib 對比加 trastuzumab，用於 HER2 陽性轉移性乳癌第一線治療 |
-| [NCT03588091](https://clinicaltrials.gov/study/NCT03588091) | Phase 3 | 完成 | 355 | 術前 pyrotinib 加 trastuzumab 和 docetaxel 對比安慰劑組，用於 HER2 陽性早期或局部晚期乳癌 |
-| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Phase 2 | 完成 | 148 | 隨機比較 carboplatin 與 docetaxel，用於遺傳性（BRCA）轉移性乳癌 |
-| [NCT00025493](https://clinicaltrials.gov/study/NCT00025493) | Phase 2 | 終止 | 27 | 單藥 docetaxel 用於 70 歲以上轉移性乳癌患者 |
+| [NCT00073983](https://clinicaltrials.gov/study/NCT00073983) | Phase 2 | 完成 | 54 | 依序給予 gemcitabine 與 docetaxel，用於復發尤文氏肉瘤、骨肉瘤與軟骨肉瘤（SARC 研究） |
+| [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | Phase 2 | 完成 | 22 | 轉移性尤文氏肉瘤：Vigil 免疫療法對比 gemcitabine 加 docetaxel（第一部分隨機分組） |
+| [NCT03449901](https://clinicaltrials.gov/study/NCT03449901) | Phase 2 | 完成 | 98 | ADI-PEG 20 合併 gemcitabine 與 docetaxel，用於多種肉瘤（含尤文氏肉瘤） |
+| [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | Phase 2 | 完成 | 20 | docetaxel 單用於兒童復發實體瘤（混合族群） |
+| [NCT00014456](https://clinicaltrials.gov/study/NCT00014456) | Phase 1 | 完成 | 35 | docetaxel、gemcitabine 與 filgrastim 劑量遞增，用於晚期實體瘤 |
+| [NCT00049296](https://clinicaltrials.gov/study/NCT00049296) | Phase 1 | 完成 | 26 | thalidomide 合併 docetaxel 的藥動學研究，用於晚期癌症（非尤文氏肉瘤專屬） |
+| [NCT05116800](https://clinicaltrials.gov/study/NCT05116800) | Phase 2 | 撤回 | 0 | 9-ING-41 合併 gemcitabine 與 docetaxel，用於晚期肉瘤，無資料 |
+| [NCT04183062](https://clinicaltrials.gov/study/NCT04183062) | Phase 2 | 撤回 | 0 | BIO-11006 合併 gemcitabine 與 docetaxel，用於骨肉瘤與尤文氏肉瘤肺轉移，無資料 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [28398846](https://pubmed.ncbi.nlm.nih.gov/28398846/) | 2017 | RCT | J Clin Oncol | ABC 系列輔助試驗，將 docetaxel/cyclophosphamide（TC6）與含 taxane 的標準 anthracycline 方案隨機比較 |
-| [10791395](https://pubmed.ncbi.nlm.nih.gov/10791395/) | 2000 | Review | Lancet | Paclitaxel 與 docetaxel 是晚期乳癌、肺癌、卵巢癌的實證治療成分 |
-| [21872996](https://pubmed.ncbi.nlm.nih.gov/21872996/) | 2012 | Review | Cancer Treat Rev | 回顧 docetaxel 併用標靶藥物於轉移性乳癌的治療 |
-| [12868800](https://pubmed.ncbi.nlm.nih.gov/12868800/) | 2003 | Review | Breast Cancer Res Treat | Docetaxel 與 anthracycline 併用的理論基礎：活性高、交叉抗藥性不完全、毒性不重疊 |
-| [12868802](https://pubmed.ncbi.nlm.nih.gov/12868802/) | 2003 | Review | Breast Cancer Res Treat | 回顧 docetaxel 用於局部晚期乳癌術前新輔助治療 |
-| [9775340](https://pubmed.ncbi.nlm.nih.gov/9775340/) | 1998 | Review | Am J Health Syst Pharm | 回顧 docetaxel 的藥理、藥動、臨床試驗、不良反應與用法 |
-| [9282422](https://pubmed.ncbi.nlm.nih.gov/9282422/) | 1997 | Review | Drug Ther Bull | 回顧 paclitaxel 與 docetaxel 用於乳癌與卵巢癌 |
-| [18624687](https://pubmed.ncbi.nlm.nih.gov/18624687/) | 2008 | Review | Expert Opin Drug Metab Toxicol | 回顧 docetaxel 的前臨床藥理與藥物開發經驗 |
-| [27997437](https://pubmed.ncbi.nlm.nih.gov/27997437/) | 2017 | Cohort | Anti-Cancer Drugs | 回溯分析輔助 docetaxel 化療與乳癌相關淋巴水腫的關聯 |
-| [16020974](https://pubmed.ncbi.nlm.nih.gov/16020974/) | 2005 | Phase II 研究 | Oncology | 每週 docetaxel 加 gemcitabine 作為轉移性乳癌第一線治療的多中心 Phase II 研究 |
+| [22363068](https://pubmed.ncbi.nlm.nih.gov/22363068/) | 2012 | Phase 2 世代研究 | The Oncologist | 依序給予 gemcitabine 與 docetaxel，用於復發尤文氏肉瘤、骨肉瘤、軟骨肉瘤（SARC 003） |
+| [28787430](https://pubmed.ncbi.nlm.nih.gov/28787430/) | 2017 | Phase 2 世代研究 | Br J Cancer | GEIS-21：將 gemcitabine 與 docetaxel 納入新診斷高風險尤文氏肉瘤的強化化療 |
+| [25164234](https://pubmed.ncbi.nlm.nih.gov/25164234/) | 2014 | 前瞻性世代研究 | BMC Cancer | docetaxel 合併 irinotecan，用於復發或難治的尤文氏肉瘤家族腫瘤 |
+| [18521364](https://pubmed.ncbi.nlm.nih.gov/18521364/) | 2003 | Phase 2 | Sarcoma | docetaxel 用於復發或難治的尤文氏腫瘤（初步結果，14 位病人） |
+| [18484657](https://pubmed.ncbi.nlm.nih.gov/18484657/) | 2008 | 病例系列 | Cancer | gemcitabine 合併 docetaxel，用於兒童與年輕成人難治骨肉瘤 |
+| [19727011](https://pubmed.ncbi.nlm.nih.gov/19727011/) | 2009 | 回顧性報告 | J Pediatr Hematol Oncol | gemcitabine 合併 docetaxel，用於復發或難治兒童肉瘤 |
+| [22302783](https://pubmed.ncbi.nlm.nih.gov/22302783/) | 2012 | 病例系列 | Pediatr Blood Cancer | GEMDOX 用於復發或難治兒童肉瘤 |
+| [28221727](https://pubmed.ncbi.nlm.nih.gov/28221727/) | 2017 | 單中心經驗 | Pediatr Blood Cancer | docetaxel、bevacizumab 與 gemcitabine，用於極高風險青少年與年輕成人肉瘤 |
+| [15117993](https://pubmed.ncbi.nlm.nih.gov/15117993/) | 2004 | 體外與臨床 | J Clin Oncol | gemcitabine 後接 docetaxel 對肉瘤有協同細胞毒性 |
+| [26154614](https://pubmed.ncbi.nlm.nih.gov/26154614/) | 2015 | 前臨床 | Pediatr Blood Cancer | 兒童前臨床測試計畫比較 cabazitaxel 與 docetaxel |
 
 ## 台灣上市資訊
 
@@ -169,44 +135,37 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預�
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（紫杉醇類 taxane，抗微管藥物） |
-| 骨髓抑制風險 | 高（知識圖譜標示嗜中性白血球低下、血小板低下、貧血、顆粒球缺乏等相關風險） |
-| 致吐性分級 | 低至中度（依藥物類別判斷） |
-| 監測項目 | CBC（含分類）、肝功能與膽紅素、周邊神經症狀、體液滯留、口腔黏膜與腹瀉狀況 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（紫杉類微管穩定劑） |
+| 骨髓抑制風險 | 高（嗜中性白血球減少為常見的劑量限制毒性） |
+| 致吐性分級 | 低至中度 |
+| 監測項目 | CBC（含分類）、肝功能（包括膽紅素）、腎功能、神經病變與水腫相關症狀 |
 | 處置防護 | 需依細胞毒性藥物處置規範操作 |
 
-詳細警語與劑量調整請參考原廠仿單。
+詳細警語請參考原廠仿單。
 
 ## 安全性考量
 
-- **禁忌與風險疾病（來自知識圖譜，非仿單文字）：** 肝病、膽囊疾病、血小板低下、嗜中性白血球低下、顆粒球缺乏、貧血、高膽紅素血症（含 Gilbert 症候群）、周邊神經病變與神經炎、腹瀉性疾病、肺水腫、口腔炎、心包填塞。
-- **藥物交互作用：** 共查得 569 筆。
-  - 嚴重（Major）：clarithromycin。
-  - 中等（Moderate）：aprepitant、rolapitant、metronidazole、tinidazole、cimetidine、miconazole、eliglustat、rosuvastatin、simvastatin、troglitazone。
-  - 輕微（Minor）：dexamethasone、prednisolone、prednisone、levofloxacin。
-  - 這些交互作用多與 CYP3A4 代謝路徑相關，併用時需謹慎評估。
+- **藥物交互作用**：資料庫共收錄 569 筆交互作用，主要例子如下。
+  - 重度：clarithromycin。
+  - 中度：aprepitant、cimetidine、metronidazole、miconazole、rolapitant、rosuvastatin、simvastatin 等。
+  - 輕度：dexamethasone、prednisolone、prednisone、levofloxacin。
+  - 多數與 CYP3A4 等代謝途徑有關，使用前應逐一審視併用藥物。
 
-仿單的主要警語與禁忌症請參考原廠仿單。
+其餘安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 已有多個大型已完成的 Phase 3 隨機對照試驗（輔助與轉移治療），證據等級為 L1，機轉上也合理。
-- 此預測主要是確認既有臨床用途，新穎性有限；且因細胞毒性與骨髓抑制風險高，必須在嚴格監測下使用。
+- 已有完成的 Phase 2 研究與數個前瞻性世代研究直接探討尤文氏肉瘤，但多為單臂研究，對象是復發或難治病人，反應有限。
+- 目前沒有直接針對此疾病、足以確立療效的隨機對照試驗（RCT），因此證據等級評為 L3。兩項撤回的試驗也沒有提供任何資料。
 
 **若要推進需要：**
-- 向 TFDA 確認 docetaxel 本身的許可證與核准適應症，因為本次彙整的許可證資料似乎屬於 trastuzumab 類產品。
-- 補齊 DrugBank 的作用機轉資料與仿單警語、禁忌症。
-- 建立血液學監測、CYP3A4 交互作用審查與細胞毒性藥物處置的作業流程。
-- 其他預測適應症（如 Ewing 肉瘤，證據等級 L2，僅有單臂 Phase 2 的有限活性；橫紋肌肉瘤，L3）仍屬研究性質，不建議與本報告的決策一併推進。
-
-<!-- review:begin docetaxel-original-indication-next-step-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，docetaxel 有多張有效單方注射液許可證（例如衛部藥輸字第026334號易剔癌、衛署藥製字第055113號癌克定、衛署藥製字第057971號「永信」活克癌），核准適應症為乳癌、非小細胞肺癌、前列腺癌、胃腺癌、頭頸癌；曲斯若、賀癌平、康癌停、赫珠瑪是 trastuzumab 類許可證，docetaxel 只是文中的併用藥。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end docetaxel-original-indication-next-step-2026-10-16 -->
+- 設計針對尤文氏肉瘤、以 docetaxel 為主體的對照試驗，或取得相關隨機研究的完整結果。
+- 釐清 docetaxel 在 gemcitabine 或 irinotecan 組合中的實際貢獻，以及適合的劑量與給藥順序。
+- 評估嗜中性白血球減少與其他毒性在兒童及年輕成人族群中的風險，並訂定監測與支持療法計畫。
+- 補充詳細的作用機轉資料，以及台灣仿單中的完整警語與禁忌資訊。
 
 <!-- review:begin log -->
 
@@ -216,13 +175,13 @@ TxGNN 模型預測它對**女性乳癌 (Female Breast Carcinoma)** 有效，預�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 一句話總結以 trastuzumab 許可證的適應症為原適應症 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症取自 trastuzumab 許可證 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 一句話總結以 trastuzumab 許可證的適應症為原適應症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自 trastuzumab 許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表列 trastuzumab 製劑「曲斯若」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 資料註記稱彙整的許可證都是 trastuzumab 類 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由引用 trastuzumab 許可證文字 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 下一步建議另行確認 docetaxel 許可證 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以 trastuzumab 許可證的適應症為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 資料註記稱彙整的許可證都是 trastuzumab 類 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由引用 trastuzumab 許可證文字 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步建議另行確認 docetaxel 許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

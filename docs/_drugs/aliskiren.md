@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Aliskiren
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 17
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-15
 description: "Aliskiren：預測新適應症為肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓"
 monitor_inn: "aliskiren"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 # Aliskiren
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **7** 個
+證據等級: **L5** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-## Aliskiren：從高血壓到肺高壓（缺氧／肺疾病所致）
+## Aliskiren：肺疾病及（或）缺氧所致的肺高壓
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**肺疾病及（或）缺氧所致的肺高壓 (p
 |------|------|
 | 原適應症 | 高血壓（台灣目前有效的許可證皆為複方，適應症為無法以 aliskiren 或 hydrochlorothiazide 單一療法控制血壓的高血壓） |
 | 預測新適應症 | 肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia) |
-| TxGNN 預測分數 | 99.98% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9998 |
+| 證據等級 | L5 |
+| 台灣上市 | 未上市（已註銷許可證 15 張／共 15 張） |
 | 許可證數 | 15 張（有效單方 0／有效複方 0／已註銷 15） |
 | 建議決策 | Hold |
 
@@ -120,7 +120,7 @@ TxGNN 模型預測它可能對**肺疾病及（或）缺氧所致的肺高壓 (p
 
 | 預測適應症 | 證據等級 | 說明 |
 |-----------|---------|------|
-| 腦血管疾病 (cerebrovascular disorder) | L4 | 有 1 個提前終止的 Phase 2/3 動脈粥狀硬化影像試驗（NCT01417104，71 人）及多篇動物中風模型研究，無人體腦血管結局試驗；ALTITUDE 試驗曾出現低血壓與缺血性中風的疑慮 |
+| 腦血管疾病 (cerebrovascular disorder) | L5 | 有 1 個提前終止的 Phase 2/3 動脈粥狀硬化影像試驗（NCT01417104，71 人）及多篇動物中風模型研究，無人體腦血管結局試驗；ALTITUDE 試驗曾出現低血壓與缺血性中風的疑慮 |
 | 惡性腎血管性高血壓 | L4 | 機轉合理，但僅有敘述性文獻回顧，且反應性腎素分泌可能限制療效 |
 | 惡性高血壓腎病變 | L5 | 僅有間接文獻，無 aliskiren 直接證據 |
 | 慢性肺心病 | L5 | 僅為模型預測與間接文獻 |

@@ -4,17 +4,17 @@ title: Xylometazoline
 parent: 中證據等級 (L3-L4)
 nav_order: 310
 evidence_level: L3
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-16
 description: "Xylometazoline：預測新適應症為鼻腔疾病 (Nasal Cavity Disease)（證據等級 L3）。原適應症：暫時緩解因鼻炎、過敏性鼻炎、過敏或感冒引起之鼻塞、流鼻水症狀"
 monitor_inn: "Xylometazoline"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Xylometazoline
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **2** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 |------|------|
 | 原適應症 | 暫時緩解因鼻炎、過敏性鼻炎、過敏或感冒引起之鼻塞、流鼻水症狀 |
 | 預測新適應症 | 鼻腔疾病 (Nasal Cavity Disease) |
-| TxGNN 預測分數 | 99.91% |
+| TxGNN 預測分數 | 0.9991 |
 | 證據等級 | L3（僅有觀察性研究、小型 RCT 與回顧文獻，無已完成的 Phase 2/3 RCT） |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 19 張／共 24 張） |
 | 許可證數 | 24 張（有效單方 18／有效複方 1／已註銷 5） |
 | 建議決策 | Proceed with Guardrails |
 

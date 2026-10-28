@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lutetium Lu 177 dotatate"
 predicted_indications: ["pituitary dwarfism", "squamous cell lung carcinoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "ectomesenchymoma", "middle ear neuroendocrine tumor", "familial generalized lentiginosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "acromelanosis", "rhabdoid tumor"]
-last_modified_at: 2026-10-16
-description: "Lutetium Lu 177 Dotatate：預測新適應症為垂體性侏儒症 (Pituitary Dwarfism)（證據等級 L5）。原適應症：神經內分泌腫瘤、神經內分泌癌"
+last_modified_at: 2026-10-27
+description: "Lutetium Lu 177 Dotatate：預測新適應症為垂體性侏儒症 (pituitary dwarfism)（證據等級 L5）。原適應症：本地許可證資料未記載適應症"
 ---
 
 # Lutetium Lu 177 Dotatate
@@ -33,39 +33,36 @@ description: "Lutetium Lu 177 Dotatate：預測新適應症為垂體性侏儒症
 
 </div>
 
-## Lutetium Lu 177 dotatate：從神經內分泌腫瘤到垂體性侏儒症
+## Lutetium Lu 177 dotatate：放射性體抑素類似物 → 垂體性侏儒症 (pituitary dwarfism)
 {: .text-alpha }
 
 ## 一句話總結
 
-Lutetium Lu 177 dotatate 是一種放射標記的體抑素（somatostatin）類似物，原本用於神經內分泌腫瘤與神經內分泌癌。
-TxGNN 模型預測它可能對**垂體性侏儒症 (Pituitary Dwarfism)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測。
+Lutetium Lu 177 dotatate 是一種放射性標記的體抑素類似物，作用於表現體抑素受體的細胞。
+TxGNN 模型預測它可能對**垂體性侏儒症 (pituitary dwarfism)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 神經內分泌腫瘤、神經內分泌癌 |
-| 預測新適應症 | 垂體性侏儒症 (Pituitary Dwarfism) |
-| TxGNN 預測分數 | 99.99% |
+| 原適應症 | 本地許可證資料未記載適應症 |
+| 預測新適應症 | 垂體性侏儒症 (pituitary dwarfism) |
+| TxGNN 預測分數 | 0.9999 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市（衛部藥輸字第R00104號） |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
-<!-- review:begin lutetium-lu177-dotatate-tw-listed-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「台灣上市／未上市」。TFDA 登載衛部藥輸字第R00104號「鎦癌平注射液370百萬貝克/毫升」（Lutathera），有效至 2031/04/07，核准用於體抑素受體陽性、分化良好的胃腸道胰腺神經內分泌腫瘤（GEP-NETs）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end lutetium-lu177-dotatate-tw-listed-2026-10-03 -->
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Lutetium Lu 177 dotatate 是以體抑素受體第 2 型（SSTR2）為標的的放射性配體，可將 β 輻射傳遞至表現 SSTR2 的腫瘤細胞，這也是它用於神經內分泌腫瘤的基礎。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Lutetium Lu 177 dotatate 是結合 Lu-177 的體抑素類似物，
+可將 β 輻射送至表現體抑素受體第 2 型（SSTR2）的細胞。
 
-然而，垂體性侏儒症是生長激素缺乏的疾病，並非 SSTR2 驅動的腫瘤性疾病。目前沒有臨床或文獻證據支持 SSTR 標靶放射性配體治療在此疾病中的角色。這個預測的依據僅來自 TxGNN 模型，機轉上的關聯性薄弱，應視為需要進一步驗證的假說，而非有實證的方向。
+垂體性侏儒症是生長激素缺乏所造成的疾病，病理上並非由 SSTR2 表現的腫瘤細胞驅動。
+目前沒有臨床或文獻證據顯示 SSTR 標靶放射性配體治療在此疾病中具有治療角色。
 
-值得注意的是，在 TxGNN 的其他高分預測中，**中耳神經內分泌腫瘤 (middle ear neuroendocrine tumor，分數 99.67%)** 與原適應症最為一致：這類腫瘤可能表現 SSTR2，機轉上較為合理，但同樣尚無試驗或文獻佐證。若要深入探索，這個適應症可能比排名第一的預測更值得優先研究。
+因此，這項預測的依據僅來自 TxGNN 模型本身，機轉上的合理性尚未獲得驗證，需持審慎態度。
 
 ## 臨床試驗證據
 
@@ -93,34 +90,37 @@ TxGNN 模型預測它可能對**垂體性侏儒症 (Pituitary Dwarfism)** 有效
 
 <!-- TFDA_LICENSE_TABLE -->
 
+## 細胞毒性
+
+| 項目 | 內容 |
+|------|------|
+| 細胞毒性分類 | 放射性核種標靶治療（非傳統細胞毒性藥物） |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 請參考原廠仿單（一般建議包含 CBC、肝腎功能） |
+| 處置防護 | 屬放射性藥品，需依放射性藥品處置與輻射防護規範操作 |
+
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共記錄 73 筆交互作用，以下為部分代表性項目：
-  - **重度（Major）**：含碘顯影劑（如 Iothalamic acid、Diatrizoate、Iopromide、Iopamidol、Iodixanol、Iohexol、Ioversol、Ioxilan、Iodipamide）、鐵螯合劑（Deferasirox、Deferiprone）、Samarium (153Sm) lexidronam
-  - **中度（Moderate）**：Mesalazine、Balsalazide、Olsalazine、Sulfasalazine、Naltrexone、Exenatide、Strontium chloride Sr-89、Roflumilast
+- **藥物交互作用**：本次彙整的資料共記錄 73 筆交互作用，以下列出部分主要項目：
+  - 嚴重（Major）：Iothalamic acid、Diatrizoate、Deferasirox、Deferiprone、Iopromide、Iopamidol、Iodipamide、Iodixanol、Iohexol、Ioversol、Ioxilan、Samarium (153Sm) lexidronam
+  - 中度（Moderate）：Mesalazine、Balsalazide、Naltrexone、Exenatide、Olsalazine、Sulfasalazine、Strontium chloride Sr-89、Roflumilast
 
-其他警語與禁忌症資訊請參考原廠仿單。
+警語與禁忌症資料請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測僅來自 TxGNN 模型（證據等級 L5），沒有任何臨床試驗或文獻支持。
-- 垂體性侏儒症為生長激素缺乏疾病，與 SSTR2 標靶放射治療的機轉缺乏明確關聯。此外，該藥在台灣尚未上市，且安全性資料不完整。
-
-<!-- review:begin lutetium-lu177-dotatate-conclusion-no-license-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：「該藥在台灣尚未上市」與 TFDA 登載不符：衛部藥輸字第R00104號「鎦癌平注射液」（Lutathera）有效至 2031-04-07，已在台灣上市。決策與其餘理由原文保留未改。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end lutetium-lu177-dotatate-conclusion-no-license-2026-10-03 -->
+- 垂體性侏儒症為生長激素缺乏疾病，與 SSTR2 標靶放射治療的機轉缺乏明確關聯，且沒有任何臨床試驗或文獻佐證，證據等級為 L5。
+- 放射性藥品具有輻射暴露風險，在缺乏證據下不宜推進。
 
 **若要推進需要：**
-- 補充作用機轉（MOA）資料，並釐清 SSTR 標靶放射性配體與生長激素缺乏之間是否存在合理的生物學連結
-- 取得完整的仿單警語與禁忌症資料
-- 進行文獻與臨床試驗的系統性檢索，確認是否有任何支持證據
-- 考慮將研究重心轉向機轉上較合理的預測適應症（如中耳神經內分泌腫瘤），並評估其 SSTR2 表現與臨床可行性
-- 若為兒童或生長發育階段族群，需另行評估放射性藥物的長期風險
+- 確認疾病組織是否表現 SSTR2 的機轉或前臨床研究
+- 詳細的藥物作用機轉（MOA）資料
+- 取得台灣仿單的警語與禁忌症資料
+- 評估風險效益比，並確認是否有更合適的既有治療選擇
 
 <!-- review:begin log -->
 
@@ -130,10 +130,10 @@ TxGNN 模型預測它可能對**垂體性侏儒症 (Pituitary Dwarfism)** 有效
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「台灣上市：未上市」 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「台灣上市：未上市」 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「許可證數：0 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「未在台灣取得任何藥品許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 結論理由稱台灣尚未上市 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 結論理由稱台灣尚未上市 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

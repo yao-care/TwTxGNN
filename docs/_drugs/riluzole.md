@@ -4,7 +4,7 @@ title: Riluzole
 parent: 僅模型預測 (L5)
 nav_order: 245
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Riluzole：預測新適應症為雙側副矢狀頂枕多小腦回症 (bilateral parasagittal parieto-occipital polymicrogyria)（證據等級 L5）。原適應症：肌萎縮脊髓側索硬化症（ALS）"
 monitor_inn: "Riluzole"
@@ -14,7 +14,7 @@ predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria
 # Riluzole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測排名第一的新適應症是**雙側副矢狀頂枕多小腦
 |------|------|
 | 原適應症 | 肌萎縮脊髓側索硬化症（ALS） |
 | 預測新適應症 | 雙側副矢狀頂枕多小腦回症 (bilateral parasagittal parieto-occipital polymicrogyria) |
-| TxGNN 預測分數 | 99.99% |
+| TxGNN 預測分數 | 0.9999 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 5 張） |
 | 許可證數 | 5 張（有效單方 4／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-16
 description: "Hexachlorophene：預測新適應症為脂漏性角化症 (Seborrheic Keratosis)（證據等級 L5）。原適應症：外科擦拭用、供皮膚抑菌使用目的之清潔劑"
 monitor_inn: "Hexachlorophene"
-predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "skin disease", "seborrheic dermatitis", "reticulate pigment disorder", "lichen myxedematosus", "scleredema adultorum", "diffuse cutaneous mucinosis", "cutaneous focal mucinosis", "erythema palmare hereditarium"]
+predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "skin disease", "seborrheic dermatitis", "reticulate pigment disorder", "lichen myxedematosus", "diffuse cutaneous mucinosis", "cutaneous focal mucinosis", "scleredema adultorum", "erythema palmare hereditarium"]
 ---
 
 # Hexachlorophene
@@ -55,9 +55,9 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 |------|------|
 | 原適應症 | 外科擦拭用、供皮膚抑菌使用目的之清潔劑 |
 | 預測新適應症 | 脂漏性角化症 (Seborrheic Keratosis) |
-| TxGNN 預測分數 | 99.97% |
+| TxGNN 預測分數 | 0.9997 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 17 張／共 86 張） |
 | 許可證數 | 86 張（有效單方 1／有效複方 16／已註銷 69） |
 | 建議決策 | Hold |
 
@@ -103,8 +103,8 @@ TxGNN 排名前 10 的預測中，下列兩項有部分資料可供參考，但�
 
 | 預測適應症 | 證據等級 | 現有證據 |
 |-----------|---------|---------|
-| 皮膚疾病 (Skin disease) | L4 | 1 個小型試驗 [NCT01049438](https://clinicaltrials.gov/study/NCT01049438)（Phase NA、已完成、31 人）：以鼻用 mupirocin、六氯酚沐浴及全身性抗生素合併預防復發性 MRSA 感染，無法分離出六氯酚本身的效果；另有多篇年代久遠的回顧與新生兒護理研究，其中包含六氯酚毒性的討論 |
-| 脂漏性皮膚炎 (Seborrheic dermatitis) | L4 | 僅有 1 篇 1960 年的兒童病例系列 [PMID 13853303](https://pubmed.ncbi.nlm.nih.gov/13853303/)，且嬰兒使用有神經毒性與吸收疑慮 |
+| 皮膚疾病 (Skin disease) | L5 | 1 個小型試驗 [NCT01049438](https://clinicaltrials.gov/study/NCT01049438)（Phase NA、已完成、31 人）：以鼻用 mupirocin、六氯酚沐浴及全身性抗生素合併預防復發性 MRSA 感染，無法分離出六氯酚本身的效果；另有多篇年代久遠的回顧與新生兒護理研究，其中包含六氯酚毒性的討論 |
+| 脂漏性皮膚炎 (Seborrheic dermatitis) | L5 | 僅有 1 篇 1960 年的兒童病例系列 [PMID 13853303](https://pubmed.ncbi.nlm.nih.gov/13853303/)，且嬰兒使用有神經毒性與吸收疑慮 |
 
 其餘預測（外陰倒置性毛囊角化症、網狀色素異常、黏液性苔癬、成人硬腫病等）均為 L5，無實際研究，亦無機轉依據。
 

@@ -4,9 +4,9 @@ title: Penciclovir
 parent: 僅模型預測 (L5)
 nav_order: 210
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 monitor_inn: "Penciclovir"
-predicted_indications: ["fascioliasis", "cysticercosis", "coenurosis", "intestinal helminthiasis", "malignant pleural mesothelioma", "endomyometritis", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "synovium cancer", "malignant visceral pleura tumor"]
+predicted_indications: ["fascioliasis"]
 last_modified_at: 2026-10-16
 description: "Penciclovir：預測新適應症為肝吸蟲症 (Fascioliasis)（證據等級 L5）。原適應症：治療由單純皰疹病毒引起之後發性唇皰疹"
 ---
@@ -14,7 +14,7 @@ description: "Penciclovir：預測新適應症為肝吸蟲症 (Fascioliasis)（�
 # Penciclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**肝吸蟲症 (Fascioliasis)** 有效，但目前
 |------|------|
 | 原適應症 | 治療由單純皰疹病毒引起之後發性唇皰疹 |
 | 預測新適應症 | 肝吸蟲症 (Fascioliasis) |
-| TxGNN 預測分數 | 99.06% |
+| TxGNN 預測分數 | 0.9906 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 4 張） |
 | 許可證數 | 4 張（有效單方 3／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 

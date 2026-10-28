@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cefmetazole
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 58
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 monitor_inn: "Cefmetazole"
-predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "gonococcal urethritis", "Ureaplasma urethritis", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-16
-description: "Cefmetazole：預測新適應症為高澱粉酶血症 (Hyperamylasemia)（證據等級 L4）。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "gonococcal urethritis", "Ureaplasma urethritis", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-10-27
+description: "Cefmetazole：預測新適應症為多株性高黏滯症候群 (polyclonal hyperviscosity syndrome)（證據等級 L5）。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症"
 ---
 
 # Cefmetazole
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **9** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,34 @@ description: "Cefmetazole：預測新適應症為高澱粉酶血症 (Hyperamylas
 
 </div>
 
-## Cefmetazole：從細菌感染到高澱粉酶血症
+## Cefmetazole：頭黴素類抗生素（抑制細菌細胞壁合成）→ 多株性高黏滯症候群 (polyclonal hyperviscosity syndrome)
 {: .text-alpha }
 
 ## 一句話總結
 
-Cefmetazole（西福每他唑鈉鹽）是一種頭黴素類（cephamycin）抗生素，原本用於葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具感受性細菌引起的感染。
-TxGNN 模型預測它可能對**高澱粉酶血症 (Hyperamylasemia)** 有效，但目前**沒有臨床試驗**，僅有 **1 篇間接相關文獻**（膽囊切除術預防性抗生素比較），證據相當薄弱。
+Cefmetazole 是一種頭黴素（cephamycin）類注射抗生素，在台灣已有多張許可證。
+TxGNN 模型預測它可能對**多株性高黏滯症候群 (polyclonal hyperviscosity syndrome)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅為模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症 |
-| 預測新適應症 | 高澱粉酶血症 (Hyperamylasemia) |
-| TxGNN 預測分數 | 99.50% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症; 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染。; 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症。; 抗生素。; 抗生素 |
+| 預測新適應症 | 多株性高黏滯症候群 (polyclonal hyperviscosity syndrome) |
+| TxGNN 預測分數 | 0.9950 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 19 張） |
 | 許可證數 | 19 張（有效單方 7／有效複方 0／已過期 1／已註銷 11） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Cefmetazole 屬於頭黴素類 β-內醯胺抗生素，一般認為是透過抑制細菌細胞壁合成來殺菌，但這一點並非來自本次整理的 DrugBank 欄位，僅為藥物類別的通用認識。
+目前缺乏詳細的作用機轉資料。就已知資訊，Cefmetazole 屬於頭黴素類抗生素，作用方式是抑制細菌細胞壁合成（結合細菌的青黴素結合蛋白）。
 
-就機轉而言，抗生素與血清澱粉酶升高之間沒有已知的直接連結。唯一相關的文獻是膽囊切除術的預防性抗生素比較研究，澱粉酶可能只是附帶觀察的指標，因此兩者的關聯至多是間接的。這個預測也可能反映知識圖譜中的網路關聯，而非真正的治療依據。
+多株性高黏滯症候群是由血中蛋白質（如免疫球蛋白）增多所造成的血液黏滯度升高。抗菌藥物的作用標的是細菌，與這類以蛋白質為主的血液疾病之間，並沒有已知的合理機轉連結。
 
-另外，在其他預測項目中，淋病性尿道炎（gonococcal urethritis）在機轉上較為合理：Cefmetazole 對許多革蘭氏陰性菌有活性，但目前無試驗或文獻佐證，且需確認抗藥性與現行指引建議。Ureaplasma 尿道炎則因該菌無細胞壁，β-內醯胺類理論上無效，預測與機轉相矛盾。
+因此，這個高分預測應視為模型的關聯性推論，而非有生物學依據的假說。在沒有任何實證前，不宜視為可行的新用途。
 
 ## 臨床試驗證據
 
@@ -67,9 +68,7 @@ TxGNN 模型預測它可能對**高澱粉酶血症 (Hyperamylasemia)** 有效，
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [2405523](https://pubmed.ncbi.nlm.nih.gov/2405523/) | 1990 | RCT | Surgery, Gynecology & Obstetrics | 比較 cefmetazole 與 cefoxitin 用於選擇性膽囊切除術的預防性抗生素；研究著重於術後感染預防，並未直接證明可治療高澱粉酶血症 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -103,26 +102,26 @@ TxGNN 模型預測它可能對**高澱粉酶血症 (Hyperamylasemia)** 有效，
 
 ## 安全性考量
 
-- **藥物交互作用**：已查得 14 筆中度（Moderate）交互作用，主要包括：
+- **藥物交互作用**：已查得 14 項中度等級的交互作用，主要包括：
   - 胺基糖苷類抗生素：Kanamycin、Neomycin、Streptomycin、Amikacin（含脂質體劑型）、Gentamicin
   - 抗凝血藥：Warfarin、Heparin
-  - 其他：Chloramphenicol、Ethinylestradiol、Mycophenolic acid、Pemetrexed、Picosulfuric acid、Ethanol
+  - 其他：Chloramphenicol、Ethanol、Ethinylestradiol、Mycophenolic acid、Pemetrexed、Picosulfuric acid
 
-其餘警語與禁忌症資料，請參考原廠仿單。
+其餘安全性資訊（警語、禁忌症）請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.50%），但沒有任何臨床試驗，僅有一篇間接相關的手術預防性抗生素研究，機轉上也缺乏合理連結。
-- 作用機轉資料缺失，無法進一步評估機轉上的關聯。
+- 沒有任何針對多株性高黏滯症候群的臨床試驗或文獻，證據等級僅為 L5。
+- 藥物的抗菌機轉與此疾病缺乏合理關聯，高分很可能只是模型的關聯性推論。
 
 **若要推進需要：**
-- 補充 Cefmetazole 的作用機轉資料（DrugBank）
-- 檢視文獻 2405523 的原文，確認澱粉酶是否為正式的觀察指標及其方向（升高或降低）
-- 若有意探索新適應症，建議優先評估機轉較合理的**淋病性尿道炎**，並查核當地抗藥性數據與現行治療指引
-- 在任何新適應症推進前，先建立明確的臨床假設，再進行回溯性或前瞻性研究
+- 提出可驗證的機轉假說，說明抗生素如何影響血液黏滯度
+- 取得任何直接針對此疾病的臨床或前臨床研究
+- 補齊作用機轉（MOA）資料
+- 與血液科專家評估此預測的臨床意義
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

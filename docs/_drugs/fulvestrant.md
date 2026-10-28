@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Fulvestrant
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 119
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Fulvestrant"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-16
-description: "Fulvestrant：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L4）。原適應症：治療已接受輔助抗雌激素療法，但疾病仍復發，或使用抗雌激素療法但疾病仍惡化的停經婦女，且其雌激素受體為陽性的局部晚期或轉移性乳癌"
+last_modified_at: 2026-10-27
+description: "Fulvestrant：預測新適應症為人類免疫缺乏病毒感染 (HIV infectious disease)（證據等級 L5）。原適應症：1.治療患有雌激素受體陽性的局部晚期或轉移性乳癌之停經婦女其：先前未接受過內分泌治療，?已接受輔助抗雌激素療法但疾病仍復發…"
 ---
 
 # Fulvestrant
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,34 @@ description: "Fulvestrant：預測新適應症為HIV 感染 (HIV infectious dise
 
 </div>
 
-## Fulvestrant：從晚期乳癌到 HIV 感染
+## Fulvestrant：雌激素受體拮抗劑與降解劑 → 人類免疫缺乏病毒感染 (HIV infectious disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Fulvestrant 是一種雌激素受體拮抗劑與降解劑，原本用於荷爾蒙受體陽性的晚期或轉移性乳癌。
-TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
-但目前**沒有臨床試驗**，僅有 **2 篇文獻**（1 篇世代研究、1 篇體外研究），證據仍屬早期的機轉探索階段。
+Fulvestrant 是一種雌激素受體拮抗劑與降解劑，在台灣已有核准的藥品許可證。
+TxGNN 模型預測它可能對**人類免疫缺乏病毒感染 (HIV infectious disease)** 有效，
+目前有 **0 個直接相關的臨床試驗**和 **2 篇文獻**（其中 1 篇為體外研究，另 1 篇為 HTLV-1 相關的多組學分析），證據仍屬早期探索階段。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療已接受輔助抗雌激素療法，但疾病仍復發，或使用抗雌激素療法但疾病仍惡化的停經婦女，且其雌激素受體為陽性的局部晚期或轉移性乳癌 |
-| 預測新適應症 | HIV 感染 (HIV infectious disease) |
-| TxGNN 預測分數 | 99.91% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 1.治療患有雌激素受體陽性的局部晚期或轉移性乳癌之停經婦女其：先前未接受過內分泌治療，?已接受輔助抗雌激素療法但疾病仍復發，或使用抗雌激素療法但疾病仍惡化。2.對於荷爾蒙受體為陽性、第二型人類表皮生長因子接受體(HER2) 呈陰性之局部晚期或轉移性乳癌之病人，本品可合併 palbociclib 用於先前曾接受過內分泌治療者。3.本品併用 abemaciclib 可治療荷爾蒙受體(HR)陽性、第二型人類表皮生長因子受體(HER2)陰性，且接受內分泌療法後疾病惡化之晚期或轉移性乳癌婦女。4.本品與 ribociclib 併用，可做為治療荷爾蒙受體 (HR) 陽性、第二型人類表皮生長因子受體 (HE |
+| 預測新適應症 | 人類免疫缺乏病毒感染 (HIV infectious disease) |
+| TxGNN 預測分數 | 0.9991 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 11 張／共 11 張） |
 | 許可證數 | 11 張（有效單方 11／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Fulvestrant 是雌激素受體 (ER) 拮抗劑與降解劑，在乳癌中透過阻斷並降解雌激素受體來抑制腫瘤生長。
+目前缺乏詳細的作用機轉資料。根據已知資訊，fulvestrant 屬於雌激素受體（ER）拮抗劑與降解劑，可阻斷並促進雌激素受體的降解。
 
-雌激素受體 α 訊號可能影響 CD4+ T 細胞中 HIV 的潛伏與再活化。2026 年一篇體外研究（JCI Insight）評估了雌激素對 CD4+ T 細胞中 ERα 核轉位的影響，並探討 Fulvestrant 與 HIV 潛伏逆轉劑對 ER 路徑的作用。這提供了機轉上的合理線索，但仍屬未經驗證的假說。
+近期一項體外研究（2026 年）探討雌激素受體 α 在 CD4+ T 細胞中的作用，並檢視 fulvestrant 與 HIV 潛伏反轉劑對該路徑的影響。這提供了「雌激素受體訊號可能調節 HIV 潛伏與再活化」的機轉假說。
 
-需要注意，原適應症（乳癌）與 HIV 感染在疾病性質上差異很大，兩者之間的連結主要來自知識圖譜的預測與免疫細胞中的 ER 訊號研究，並非來自臨床證據。
+不過，該研究為細胞層級的機轉探索，並非直接評估 fulvestrant 治療 HIV 感染的療效；另一篇文獻針對的是 HTLV-1 相關脊髓病變，並非 HIV。因此依規則，證據等級定為 L5，此關聯目前僅屬假說。
 
 ## 臨床試驗證據
 
@@ -70,8 +70,8 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [42430506](https://pubmed.ncbi.nlm.nih.gov/42430506/) | 2026 | 體外研究 | JCI Insight | 評估雌激素對 CD4+ T 細胞 ERα 核轉位的影響，並探討 Fulvestrant 與 HIV 潛伏逆轉劑對 ER 路徑的作用，顯示 ER 可能參與 HIV 轉錄與潛伏調控 |
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | 世代研究 | Research square | 以多世代跨組學分析 HTLV-1 相關脊髓病變 (HAM) 的疾病機轉與治療標的；該疾病為逆轉錄病毒相關，並非 HIV，與本預測的關聯間接 |
+| [42430506](https://pubmed.ncbi.nlm.nih.gov/42430506/) | 2026 | 體外研究 | JCI Insight | 評估雌激素與 fulvestrant 對 CD4+ T 細胞中雌激素受體 α 核轉位的影響，並探討 HIV 潛伏反轉劑對 ER 路徑的作用 |
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | 世代研究 | Research Square | 針對 HTLV-1 相關脊髓病變的多世代跨組學分析，探討疾病機轉與治療標的（疾病為 HTLV-1，並非 HIV） |
 
 ## 台灣上市資訊
 
@@ -105,32 +105,31 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 內分泌治療藥物（雌激素受體拮抗劑／降解劑），非傳統細胞毒性化療藥物 |
-| 骨髓抑制風險 | 低 |
-| 致吐性分級 | 低 |
-| 監測項目 | 肝功能、血小板與凝血功能（知識圖譜顯示與肝病、血小板低下、凝血疾病相關） |
+| 細胞毒性分類 | 荷爾蒙類（雌激素受體拮抗劑與降解劑），非傳統細胞毒性藥物 |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 請參考原廠仿單的警語與注意事項 |
 | 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ## 安全性考量
 
-- **知識圖譜標示的禁忌相關疾病**（來自藥物－疾病關聯，並非仿單文字）：肝臟疾病、膽囊疾病、血小板低下、凝血疾病。
-- **藥物交互作用**：資料庫共記錄 92 筆交互作用，目前分級皆為「未知」。例如 Warfarin、Metformin、Simvastatin、Prednisone、Dexamethasone、Acetylsalicylic acid 等。其中與 Warfarin 併用時，因藥物本身可能涉及凝血相關風險，建議多留意。
+- **藥物交互作用**：已查詢到 92 筆交互作用紀錄，但目前資料中的嚴重度分級皆為「未知」。列出的藥物包括 pantoprazole、morphine、metformin、omeprazole、warfarin、dexamethasone 等，臨床意義需對照原廠仿單確認。
 
-其餘警語與禁忌請參考原廠仿單。
+其他安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 目前沒有任何 HIV 相關臨床試驗，文獻僅有體外研究與一篇非 HIV 的逆轉錄病毒世代研究，屬機轉假說階段（L4）。
-- 此外，Fulvestrant 是肌肉注射的抗癌荷爾蒙藥物，用於 HIV 需要重新評估風險與效益。
+- 目前沒有任何直接針對 HIV 感染的臨床試驗，僅有一項體外機轉研究，證據等級為 L5。
+- 預測分數雖高（0.9991），但分數本身不等同於臨床療效，且需評估在抗病毒治療情境下抑制雌激素訊號的風險與效益。
 
 **若要推進需要：**
-- 補充詳細的作用機轉資料（MOA）。
-- 進一步的體外與動物實驗，驗證 Fulvestrant 對 HIV 潛伏庫與再活化的影響。
-- 釐清與抗反轉錄病毒藥物的交互作用及長期安全性。
-- 評估給藥途徑與族群（含性別、荷爾蒙狀態）的適用性，再決定是否設計早期臨床試驗。
+- 補充 fulvestrant 在 HIV 潛伏模型中的更多體外與動物實驗
+- 取得詳細的作用機轉資料，釐清 ER 訊號與 HIV 轉錄的關係
+- 評估與抗病毒藥物的交互作用及長期安全性
+- 若前臨床結果正向，再規劃早期探索性臨床試驗
 
 <!-- review:begin log -->
 

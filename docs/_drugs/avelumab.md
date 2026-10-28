@@ -4,9 +4,9 @@ title: Avelumab
 parent: 僅模型預測 (L5)
 nav_order: 36
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Avelumab"
-predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+predicted_indications: ["human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "adenosine deaminase deficiency", "reticular dysgenesis", "Immunoerythromyeloid hypoplasia", "non-severe combined immunodeficiency", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 last_modified_at: 2026-10-16
 description: "Avelumab：預測新適應症為人類疱疹病毒 8 型相關腫瘤 (human herpesvirus 8-related tumor)（證據等級 L5）。原適應症：轉移性默克細胞癌 (Merkel Cell Carcinoma)"
 ---
@@ -14,7 +14,7 @@ description: "Avelumab：預測新適應症為人類疱疹病毒 8 型相關腫�
 # Avelumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Avelumab：預測新適應症為人類疱疹病毒 8 型相關腫�
 
 </div>
 
-## Avelumab：從默克細胞癌到 HHV-8 相關腫瘤
+## Avelumab：人類疱疹病毒 8 型相關腫瘤
 {: .text-alpha }
 
 ## 一句話總結
@@ -50,9 +50,9 @@ TxGNN 模型預測它可能對**人類疱疹病毒 8 型相關腫瘤 (human herp
 |------|------|
 | 原適應症 | 轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎細胞癌 (RCC) 第一線治療；第一線含鉑化療後疾病未惡化之局部晚期或轉移性泌尿道上皮癌 (UC) 維持療法 |
 | 預測新適應症 | 人類疱疹病毒 8 型相關腫瘤 (human herpesvirus 8-related tumor) |
-| TxGNN 預測分數 | 99.97% |
+| TxGNN 預測分數 | 0.9997 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -71,12 +71,12 @@ HHV-8 相關腫瘤（例如卡波西氏肉瘤）由病毒驅動，且可能表�
 
 | 排名 | 預測疾病 | 分數 | 證據等級 | 備註 |
 |------|---------|------|---------|------|
-| 2 | 中耳神經內分泌腫瘤 | 99.97% | L5 | 與默克細胞癌（皮膚神經內分泌癌）僅有間接類比 |
-| 3 | 惡性皮膚顆粒細胞瘤 | 99.97% | L5 | 機轉推論屬推測性 |
-| 4 | 外胚間葉瘤 | 99.97% | L5 | 無已知機轉關聯 |
-| 9 | 前列腺尿道泌尿道上皮癌 | 99.92% | L4 | 組織學屬泌尿道上皮癌，可由現有適應症外推，支持度相對較高 |
-| 10 | 腎盂肉瘤樣移行細胞癌 | 99.91% | L4 | 屬泌尿道上皮癌，肉瘤樣分化常伴 PD-L1 表現，間接支持 |
-| 5–8 | 腺苷脫胺酶缺乏症、網狀發育不全、免疫紅血球骨髓發育低下、非重症複合免疫缺乏 | 99.92–99.95% | L5 | 先天性免疫缺陷，無合理機轉橋接，且免疫活化可能有安全疑慮，應視為模型假象 |
+| 2 | 中耳神經內分泌腫瘤 | 0.9997 | L5 | 與默克細胞癌（皮膚神經內分泌癌）僅有間接類比 |
+| 3 | 惡性皮膚顆粒細胞瘤 | 0.9997 | L5 | 機轉推論屬推測性 |
+| 4 | 外胚間葉瘤 | 0.9997 | L5 | 無已知機轉關聯 |
+| 9 | 前列腺尿道泌尿道上皮癌 | 0.9992 | L5 | 組織學屬泌尿道上皮癌，可由現有適應症外推，支持度相對較高 |
+| 10 | 腎盂肉瘤樣移行細胞癌 | 0.9991 | L5 | 屬泌尿道上皮癌，肉瘤樣分化常伴 PD-L1 表現，間接支持 |
+| 5–8 | 腺苷脫胺酶缺乏症、網狀發育不全、免疫紅血球骨髓發育低下、非重症複合免疫缺乏 | 99.92–0.9995 | L5 | 先天性免疫缺陷，無合理機轉橋接，且免疫活化可能有安全疑慮，應視為模型假象 |
 
 ---
 
@@ -128,7 +128,7 @@ HHV-8 相關腫瘤（例如卡波西氏肉瘤）由病毒驅動，且可能表�
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.97%），但沒有任何臨床試驗或文獻佐證，證據等級僅為 L5，不足以支持推進。
+- 預測分數雖高（0.9997），但沒有任何臨床試驗或文獻佐證，證據等級僅為 L5，不足以支持推進。
 - 排名前 8 的預測多缺乏合理機轉；相對而言，排名 9、10 的泌尿道上皮癌亞型因可由現有適應症外推，較值得優先作為研究問題。
 
 **若要推進需要：**

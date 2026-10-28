@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tioconazole
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 280
-evidence_level: L2
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-16
 description: "Tioconazole：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L2）。原適應症：感受性黴菌引起之局部感染"
@@ -14,7 +14,7 @@ predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic v
 # Tioconazole
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 |------|------|
 | 原適應症 | 感受性黴菌引起之局部感染 |
 | 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |
-| TxGNN 預測分數 | 99.23% |
-| 證據等級 | L2 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9923 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 6 張） |
 | 許可證數 | 6 張（有效單方 2／有效複方 0／已註銷 4） |
 | 建議決策 | Proceed with Guardrails |
 

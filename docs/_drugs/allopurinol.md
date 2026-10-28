@@ -6,9 +6,9 @@ nav_order: 18
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
-predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-10-16
-description: "Allopurinol：預測新適應症為肝性卟啉症 (Hepatic Porphyria)（證據等級 L5）。原適應症：治痛風藥"
+predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
+last_modified_at: 2026-10-23
+description: "Allopurinol：預測新適應症為肝性紫質症 (Hepatic Porphyria)（證據等級 L5）。原適應症：痛風症、痛風性關節炎、尿酸結石、癌症或經化學治療產生之高尿酸血症"
 ---
 
 # Allopurinol
@@ -33,45 +33,56 @@ description: "Allopurinol：預測新適應症為肝性卟啉症 (Hepatic Porphy
 
 </div>
 
-## Allopurinol：從痛風與高尿酸血症到肝性卟啉症
+## Allopurinol：從痛風與高尿酸血症到肝性紫質症
 {: .text-alpha }
 
 ## 一句話總結
 
-Allopurinol（異嘌呤醇）是黃嘌呤氧化酶抑制劑，原本用於痛風及高尿酸血症的治療。
-TxGNN 模型預測它可能對**肝性卟啉症 (Hepatic Porphyria)** 有效，
-但目前**沒有臨床試驗**，僅有 **2 篇間接相關文獻**（1 篇假說性論文、1 篇針對其他藥物的動物研究），證據相當薄弱。
+Allopurinol（異嘌呤醇）是黃嘌呤氧化酶抑制劑，在台灣核准用於痛風、尿酸結石，以及癌症或化學治療所致的高尿酸血症。
+TxGNN 模型預測它可能對**肝性紫質症 (Hepatic Porphyria)** 有效，但目前**沒有臨床試驗**，僅有 **2 篇間接相關文獻**（一篇假說性文章與一篇大鼠研究），證據相當薄弱。
+
+---
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治痛風藥（台灣單方許可證另載有：痛風症、痛風性關節炎、尿酸結石、癌症或經化學治療產生之高尿酸血症） |
-| 預測新適應症 | 肝性卟啉症 (Hepatic Porphyria) |
-| TxGNN 預測分數 | 99.95% |
+| 原適應症 | 痛風症、痛風性關節炎、尿酸結石、癌症或經化學治療產生之高尿酸血症 |
+| 預測新適應症 | 肝性紫質症 (Hepatic Porphyria) |
+| TxGNN 預測分數 | 0.9995 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 42 張／共 124 張） |
 | 許可證數 | 124 張（有效單方 42／有效複方 0／已過期 1／已註銷 81） |
 | 建議決策 | Hold |
 
+---
+
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Allopurinol 是黃嘌呤氧化酶抑制劑，透過降低尿酸生成來治療痛風與高尿酸血症。
+目前缺乏詳細的作用機轉資料。已知 Allopurinol 為黃嘌呤氧化酶抑制劑，可降低尿酸生成，並減少黃嘌呤氧化酶產生的活性氧。有資料提到它可能影響肝臟血基質（heme）代謝，但這一點在本報告所整理的資料中並無直接研究支持。
 
-針對肝性卟啉症，現有資料並未提供支持其治療用途的證據。Allopurinol 過去曾有報告指出可能影響肝臟血紅素代謝（例如在囓齒動物中具致卟啉作用），這反而提示它可能是風險因子而非治療選項。檢索到的文獻僅有一篇提出以色胺酸調控 5-胺基levulinate 合成酶的假說論文，以及一篇探討 carbamazepine 加重卟啉症的大鼠研究，兩者都沒有直接測試 Allopurinol。
+肝性紫質症的核心問題是血基質合成路徑中 5-胺基乙醯丙酸合成酶（ALAS）被過度誘導。所取得的文獻中，一篇是針對 ALAS 與色胺酸 2,3-雙加氧酶的假說性文章，另一篇是 carbamazepine 對大鼠肝臟血基質代謝的研究。兩篇都沒有測試 Allopurinol 對紫質症的效果。
 
-因此，這個預測目前主要來自 TxGNN 知識圖譜的關聯推論，尚無直接的機轉或臨床證據支持。
+因此，原適應症（尿酸代謝異常）與預測的新適應症（血基質合成異常）之間的關聯，目前僅是模型預測加上推測性的代謝連結，尚無實證。
+
+---
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
+---
+
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Review（假說） | Medical Hypotheses | 提出以色胺酸或抑制色胺酸 2,3-雙加氧酶利用血紅素，調控 5-ALAS，作為急性肝性卟啉症的可能療法；未直接涉及 Allopurinol |
-| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | 動物研究 | Biochemical Pharmacology | 研究 carbamazepine 對大鼠肝臟血紅素代謝的影響，說明其如何加重肝性卟啉症；非 Allopurinol 研究 |
+| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Review（假說） | Medical Hypotheses | 提出以色胺酸或抑制色胺酸 2,3-雙加氧酶利用血基質，來調控肝臟 ALAS，作為急性肝性紫質症的潛在療法；未測試 Allopurinol |
+| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | 動物研究 | Biochemical Pharmacology | 極低劑量 carbamazepine 會加劇大鼠肝臟血基質耗竭，說明藥物誘發紫質症惡化的機轉；與 Allopurinol 無直接關係 |
+
+以上文獻均未直接研究 Allopurinol 用於肝性紫質症。
+
+---
 
 ## 台灣上市資訊
 
@@ -94,29 +105,30 @@ TxGNN 模型預測它可能對**肝性卟啉症 (Hepatic Porphyria)** 有效，
 
 <!-- TFDA_LICENSE_TABLE -->
 
+---
+
 ## 安全性考量
 
-- **知識圖譜標示的禁忌疾病**（來自知識圖譜關聯，非仿單內容）：肝病、膽囊疾病、腎功能不全、過敏性血管炎（含皮膚白血球破碎性血管炎、過敏性皮膚血管炎）、抗腎絲球基底膜疾病。
-- **藥物交互作用**：共查得 217 筆，以下為部分範例：
-  - 中度：氫氧化鋁、Attapulgite、高嶺土、Magaldrate、Sucralfate（多為制酸劑或吸附劑類）
-  - 輕度：Amoxicillin、Chlorpropamide
-  - 其餘如 Metformin、Omeprazole、Pantoprazole、Glimepiride、Morphine 等，交互作用等級未明
+- **知識圖譜中記錄的禁忌關聯**（非仿單文字）：肝病、膽囊疾病、腎功能不全、過敏性血管炎（皮膚白血球破裂性血管炎）、抗腎絲球基底膜疾病。
+- **藥物交互作用**：共查得 217 筆。中度交互作用包括氫氧化鋁、Attapulgite、高嶺土、Magaldrate、Sucralfate；輕度包括 Amoxicillin、Chlorpropamide。其他多筆分級未明。
+- 此外，已知 Allopurinol 可能引起過敏反應。資料中也提到，若用於嗜酸性球性發炎疾病需特別謹慎。
+- 其餘安全性資訊請參考原廠仿單。
 
-其他警語與禁忌請參考原廠仿單。對肝性卟啉症患者而言，因 Allopurinol 曾被報告可能影響肝臟血紅素代謝，且知識圖譜列有肝病禁忌，使用前須格外謹慎。
+---
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高，但沒有任何臨床試驗，文獻也僅為間接相關的假說與其他藥物的動物研究，證據等級僅 L5。
-- 缺乏機轉資料，且有 Allopurinol 可能干擾肝臟血紅素代謝的疑慮，安全性方向可能與預期相反。
+- 本預測僅有模型分數支持，沒有任何直接研究 Allopurinol 於肝性紫質症的臨床試驗或文獻，證據等級為 L5。
+- 知識圖譜顯示 Allopurinol 與肝病之間有禁忌關聯，而肝性紫質症屬肝臟代謝疾病，需審慎評估。
 
 **若要推進需要：**
-- 補充 Allopurinol 的作用機轉資料，並釐清其對血紅素合成與 5-ALAS 的實際影響
-- 進行針對 Allopurinol 與卟啉症的文獻回顧，確認是否有致卟啉作用的證據
-- 若機轉與安全性可接受，再考慮前臨床（細胞或動物）驗證
-- 評估肝病患者使用的安全性
+- 補充 Allopurinol 的作用機轉資料，特別是對肝臟血基質代謝的影響。
+- 進行前臨床研究（細胞或動物模型），檢驗 Allopurinol 對 ALAS 活性及紫質前驅物的影響。
+- 評估肝臟安全性，並確認 Allopurinol 對急性紫質症發作的風險是否可接受。
+- 若前臨床結果正面，再設計小型探索性臨床試驗。
 
 <!-- review:begin log -->
 

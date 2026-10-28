@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Felodipine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 106
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-16
 description: "Felodipine：預測新適應症為因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓、心絞痛"
 monitor_inn: "Felodipine"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 # Felodipine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **7** 個
+證據等級: **L5** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-## Felodipine：從高血壓、心絞痛到肺高壓（缺氧性）
+## Felodipine：從高血壓、心絞痛到肺疾病及（或）缺氧所致的肺高壓
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 |------|------|
 | 原適應症 | 高血壓、心絞痛 |
 | 預測新適應症 | 因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia) |
-| TxGNN 預測分數 | 99.91% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9991 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 15 張／共 26 張） |
 | 許可證數 | 26 張（有效單方 14／有效複方 1／已過期 1／已註銷 10） |
 | 建議決策 | Hold |
 
@@ -156,7 +156,7 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 
 **理由：**
 - 這個預測只有模型分數與前臨床研究支持，沒有臨床試驗，也沒有針對肺高壓病人的研究，證據等級僅為 L4。
-- 此外，作用機轉資料缺失，且知識圖譜顯示低血壓等狀況可能構成風險，目前不宜推進。
+- 此外，作用機轉資料缺失，且低血壓等狀況可能構成風險，目前不宜推進。
 
 **若要推進需要：**
 - 補齊 Felodipine 的作用機轉資料（DrugBank MOA）。
@@ -165,9 +165,9 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 
 ### 其他預測適應症備註
 
-- **Prinzmetal 心絞痛**（TxGNN 分數 99.07%，證據等級 L2，建議為研究問題）：已有 3 項 RCT（含與 nifedipine 的比較）顯示 Felodipine 對變異型心絞痛有抗缺血效果，且與其已核准的心絞痛適應症屬同一類機轉，是證據較強的方向，可優先考慮後續評估。
+- **Prinzmetal 心絞痛**（證據等級 L2，建議為研究問題）：已有 3 項 RCT（含與 nifedipine 的比較）顯示 Felodipine 對變異型心絞痛有抗缺血效果，且與其已核准的心絞痛適應症屬同一類機轉，是證據較強的方向，可優先考慮後續評估。
 - **慢性肺心症**：僅有小型血流動力學研究（Felodipine 輸注可降低肺與全身血管阻力），建議為 Hold。
-- 其餘預測（不明機轉的肺高壓、惡性腎血管性高血壓、惡性高血壓腎病變、Braddock 症候群）僅有模型預測，無試驗或文獻，建議為 Hold。
+- 其餘預測（不明機轉的肺高壓、惡性高血壓腎病變、Braddock 症候群）僅有模型預測，無試驗或文獻，建議為 Hold。
 
 <!-- review:begin log -->
 

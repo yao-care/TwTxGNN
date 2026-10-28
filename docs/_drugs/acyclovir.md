@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Acyclovir
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 14
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
 last_modified_at: 2026-10-16
-description: "Acyclovir：預測新適應症為尋常疣 (Common Wart)（證據等級 L2）。原適應症：帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染…"
+description: "Acyclovir：預測新適應症為點狀上皮角結膜炎（證據等級 L2）。原適應症：帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染…"
 ---
 
 # Acyclovir
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Acyclovir：預測新適應症為尋常疣 (Common Wart)（證據�
 
 </div>
 
-## Acyclovir：從單純疱疹感染到尋常疣（Common Wart）
+## Acyclovir：從單純疱疹感染到點狀上皮角結膜炎
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型排名第一的預測是「點狀上皮角結膜炎」，但該預�
 |------|------|
 | 原適應症 | 帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染、復發性單純疱疹感染之抑制（衛署藥製字第034583號等口服錠）；外用乳膏與眼藥膏另核准唇疱疹、單純皰疹性角膜炎 |
 | 預測新適應症 | 尋常疣 (Common Wart)（TxGNN 排名第 2；排名第 1 的點狀上皮角結膜炎僅有模型預測，證據等級 L5） |
-| TxGNN 預測分數 | 99.46%（尋常疣）；排名第 1 的點狀上皮角結膜炎為 99.67% |
-| 證據等級 | L2（Phase 2/3 RCT 目前狀態為「未知」，尚未確認完成，等級偏樂觀） |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9946（尋常疣）；排名第 1 的點狀上皮角結膜炎為 0.9967 |
+| 證據等級 | L5（Phase 2/3 RCT 目前狀態為「未知」，尚未確認完成，等級偏樂觀） |
+| 台灣上市 | 上市中（有效許可證 70 張／共 99 張） |
 | 許可證數 | 99 張（有效單方 69／有效複方 1／已過期 4／已註銷 25） |
 | 建議決策 | Proceed with Guardrails |
 

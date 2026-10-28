@@ -6,7 +6,7 @@ nav_order: 242
 evidence_level: L5
 indication_count: 6
 monitor_inn: "Remdesivir"
-predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
+predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 last_modified_at: 2026-10-16
 description: "Remdesivir：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L5）。原適應症：適用於治療新型冠狀病毒疾病 (COVID-19)：發生肺炎並須給予氧氣治療的成人與 28 天大以上且體重至少 3 公斤之兒童"
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 |------|------|
 | 原適應症 | 適用於治療新型冠狀病毒疾病 (COVID-19)：發生肺炎並須給予氧氣治療的成人與 28 天大以上且體重至少 3 公斤之兒童；不須氧氣治療但惡化成重度 COVID-19 風險較高的成人與兒童 |
 | 預測新適應症 | 多發性內分泌腫瘤 (Multiple Endocrine Neoplasia) |
-| TxGNN 預測分數 | 99.50% |
+| TxGNN 預測分數 | 0.9950 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 1／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 目前缺乏詳細的作用機轉資料。就已知資訊，Remdesivir 是腺苷核苷酸類似物的前驅藥，作用於病毒的 RNA 依賴性 RNA 聚合酶，用於抑制 SARS-CoV-2 複製。
 
-多發性內分泌腫瘤是由 MEN1、RET 等抑癌基因或致癌基因異常所驅動的遺傳性疾病。這條致病路徑與病毒聚合酶抑制之間，沒有已知的合理機轉連結。因此，這項預測較可能來自知識圖譜的網路相似性，而非生物學上的因果關係，應視為低可信度的假說。
+多發性內分泌腫瘤是由 MEN1、RET 等抑癌基因或致癌基因異常所驅動的遺傳性疾病。這條致病路徑與病毒聚合酶抑制之間，沒有已知的合理機轉連結。因此，這項預測的分數來自 TxGNN 模型（深度學習），可能反映模型在相關疾病之間學到的相似性，而非生物學證據，應視為低可信度的假說。
 
 ## 臨床試驗證據
 

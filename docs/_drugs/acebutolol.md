@@ -4,7 +4,7 @@ title: Acebutolol
 parent: 僅模型預測 (L5)
 nav_order: 11
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-16
 description: "Acebutolol：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）"
 monitor_inn: "Acebutolol"
@@ -14,7 +14,7 @@ predicted_indications: ["malignant hypertensive renal disease"]
 # Acebutolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **2** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 |------|------|
 | 原適應症 | 高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整） |
 | 預測新適應症 | 惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease) |
-| TxGNN 預測分數 | 99.10% |
+| TxGNN 預測分數 | 0.9910 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 27 張） |
 | 許可證數 | 27 張（有效單方 3／有效複方 0／已過期 1／已註銷 23） |
 | 建議決策 | Hold |
 
@@ -65,7 +65,7 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 
 不過，這僅屬機轉上的推論。目前沒有任何臨床或文獻證據顯示 Acebutolol 對這個疾病有效，且原始作用機轉資料也有缺口，因此只能視為待驗證的假說。
 
-另有一個相關的次要預測是**惡性腎血管性高血壓 (Malignant Renovascular Hypertension)**（分數同為 99.10%）。其機轉較為合理，因為腎血管性高血壓由腎素驅動，而 Beta 阻斷劑可減少腎素釋放。此預測有一篇 1975 年的病例系列（證據等級 L4），屬間接證據。
+另有一個相關的次要預測是**惡性腎血管性高血壓 (Malignant Renovascular Hypertension)**（分數同為 0.9910）。其機轉較為合理，因為腎血管性高血壓由腎素驅動，而 Beta 阻斷劑可減少腎素釋放。此預測有一篇 1975 年的病例系列（證據等級 L4），屬間接證據。
 
 ---
 

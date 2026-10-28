@@ -4,17 +4,17 @@ title: Iopromide
 parent: 僅模型預測 (L5)
 nav_order: 151
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Iopromide"
-predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
-last_modified_at: 2026-10-16
-description: "Iopromide：預測新適應症為退化性關節炎易感性 (Osteoarthritis Susceptibility)（證據等級 L5）。原適應症：電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影（特別是心血管造影）及身體空腔部份（如關節攝影、廔管造影）攝影，但脊椎造影…"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
+last_modified_at: 2026-10-23
+description: "Iopromide：預測新適應症為骨關節炎 (Osteoarthritis)（證據等級 L5）。原適應症：電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影、特別是心血管造影及身體空腔部份（如關節攝影、廔管造影）"
 ---
 
 # Iopromide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +33,43 @@ description: "Iopromide：預測新適應症為退化性關節炎易感性 (Oste
 
 </div>
 
-## Iopromide：從影像診斷（電腦斷層攝影、血管造影等）到退化性關節炎（Osteoarthritis）
+## Iopromide：從影像對比造影到退化性關節炎（骨關節炎）
 {: .text-alpha }
 
 ## 一句話總結
 
-Iopromide 是含碘的非離子型 X 光對比劑，原本用於電腦斷層攝影、血管造影、尿路造影、關節攝影及成人對比增強乳房攝影等影像診斷。
-TxGNN 模型預測它可能對**退化性關節炎易感性 (Osteoarthritis Susceptibility)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測，應視為知識圖譜的推論結果。
+Iopromide 是一種含碘的非離子型對比劑，在台灣用於電腦斷層、血管造影、尿路造影等 X 光影像檢查。
+TxGNN 模型預測它可能對**骨關節炎 (Osteoarthritis)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅為模型的計算預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影（特別是心血管造影）及身體空腔部份（如關節攝影、廔管造影）攝影，但脊椎造影、腦室攝影及腦池攝影除外；亦適用於成人對比增強乳房攝影 |
-| 預測新適應症 | 退化性關節炎易感性 (Osteoarthritis Susceptibility) |
-| TxGNN 預測分數 | 99.57% |
+| 原適應症 | 電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影、特別是心血管造影及身體空腔部份（如關節攝影、廔管造影）；另適用於成人對比增強乳房攝影（CEM） |
+| 預測新適應症 | 骨關節炎 (Osteoarthritis) |
+| TxGNN 預測分數 | 0.9953 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Iopromide 是含碘的非離子型放射線對比劑，靠碘對 X 光的衰減來顯影，並非透過藥理作用治療疾病。目前沒有已知的抗發炎、免疫調節或軟骨保護機轉，可與遺傳性退化性關節炎易感性連結。
+目前缺乏詳細的作用機轉資料。Iopromide 是含碘的非離子型 X 光對比劑，作用是讓組織在影像上顯影，本身沒有已知的藥理活性可作用於關節軟骨退化。
 
-這個預測較可能源自知識圖譜的關聯假象：Iopromide 在臨床上用於關節攝影，因此在圖譜中與關節疾病相連，但這反映的是「用於關節影像檢查」，而不是「對關節疾病有治療效果」。
+TxGNN 模型（深度學習）給出高分，可能反映模型在相關疾病之間學到的相似性，並非生物學證據。然而關節腔內使用屬於**診斷用途**，而非治療。
 
-排名其後的預測也有同樣特徵，包括退化性關節炎、類風濕性關節炎、短軀幹症 (brachyolmia)、肢中發育不良（Hunter-Thompson 型）、禿髮、肌硬化症、血紅素病變及假性軟骨發育不全。這些預測目前都沒有臨床試驗或文獻佐證，機轉上也找不到合理連結，因此本報告以排名第一者為主要評估對象。
+因此，這個預測在機轉上缺乏可信的依據，在取得實際研究證據前，應視為計算上的假說。
+
+其他同批預測（類風濕性關節炎、短軀幹發育不良 brachyolmia、Hunter-Thompson 型肢中發育不良、假性軟骨發育不全、禿髮、肌硬化症、血紅素病變等）同樣沒有臨床試驗與文獻，機轉上也無合理連結。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-目前無相關文獻。
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -91,30 +93,29 @@ TxGNN 模型預測它可能對**退化性關節炎易感性 (Osteoarthritis Susc
 
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共收錄 202 筆交互作用。列為 Major 的包括：
-  - Metformin
-  - Amphotericin B 及其脂質劑型
+- **藥物交互作用**：共查得 202 筆交互作用紀錄，其中以下列為嚴重等級（Major）的代表：
+  - Metformin（二甲雙胍）
+  - Amphotericin B（及其脂質複合物、膽固醇硫酸酯、微脂體劑型）
   - Mesalazine、Balsalazide、Olsalazine、Sulfasalazine
   - Vancomycin
-  - 胺基糖苷類（Kanamycin、Neomycin、Streptomycin）
+  - 胺基糖苷類抗生素：Kanamycin、Neomycin、Streptomycin
   - Polymyxin B
-- Mannitol 為 Moderate。
-- Clotrimazole、Acetylsalicylic acid、Bupropion、Dexamethasone、Pantoprazole 的等級為 Unknown。
+- 另有中度等級的 Mannitol，以及等級未明的 Clotrimazole、Acetylsalicylic acid、Bupropion、Dexamethasone、Pantoprazole。
 
-其他警語與禁忌症請參考原廠仿單。此外，碘化對比劑用於部分血紅素病變（如鐮刀型貧血）時有安全性考量，不支持將其作為這類疾病的治療。
+其餘警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測僅來自 TxGNN 模型分數，沒有任何臨床試驗或文獻支持（證據等級 L5）。
-- Iopromide 是診斷用對比劑，沒有已知的疾病修飾機轉，預測很可能是因「關節攝影」用途而產生的圖譜假象。
+- 預測僅來自 TxGNN 模型，沒有任何臨床試驗或文獻直接研究骨關節炎，證據等級為 L5。
+- Iopromide 為診斷用對比劑，機轉上沒有治療關節退化的合理依據。
 
 **若要推進需要：**
-- 取得作用機轉相關資料，確認是否有任何與關節軟骨或發炎相關的生物學作用。
-- 進行系統性文獻與臨床試驗檢索，確認是否有任何實際研究支持。
-- 在沒有上述證據前，不建議投入進一步的臨床開發資源。
+- 補充 iopromide 的作用機轉資料，確認是否有任何與關節軟骨或發炎相關的生物活性
+- 進行文獻與試驗檢索，確認是否存在直接針對骨關節炎的研究
+- 若有前臨床訊號，再評估關節腔內給藥的可行性與局部安全性（含碘對比劑對軟骨的影響）
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

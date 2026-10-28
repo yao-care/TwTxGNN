@@ -4,9 +4,9 @@ title: Tizanidine
 parent: 高證據等級 (L1-L2)
 nav_order: 282
 evidence_level: L2
-indication_count: 6
+indication_count: 5
 monitor_inn: "Tizanidine"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-16
 description: "Tizanidine：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L2）。原適應症：神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣"
 ---
@@ -14,7 +14,7 @@ description: "Tizanidine：預測新適應症為偏頭痛 (Migraine Disorder)（
 # Tizanidine
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **6** 個
+證據等級: **L2** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 |------|------|
 | 原適應症 | 神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
-| TxGNN 預測分數 | 99.79% |
+| TxGNN 預測分數 | 0.9979 |
 | 證據等級 | L2（依資料彙整的評分；惟 Phase 3 試驗狀態未知、無結果，實質證據偏向間接） |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 8 張／共 10 張） |
 | 許可證數 | 10 張（有效單方 8／有效複方 0／已註銷 2） |
 | 建議決策 | Proceed with Guardrails |
 

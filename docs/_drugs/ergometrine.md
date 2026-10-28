@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ergometrine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 101
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-16
-description: "Ergometrine：預測新適應症為多毛症 (Hypertrichosis)（證據等級 L3）。原適應症：產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛"
 monitor_inn: "Ergometrine"
-predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "leprosy", "pulmonary hypertension"]
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "migraine disorder", "migraine with brainstem aura", "leprosy", "pulmonary hypertension"]
+last_modified_at: 2026-10-23
+description: "Ergometrine：預測新適應症為毛髮過多症 (Hypertrichosis)（證據等級 L5）。原適應症：產褥期之出血、流產後之出血、分娩時之子宮弛緩出血、不正常出血、分娩第三期陣痛微弱"
 ---
 
 # Ergometrine
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +33,25 @@ predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis 
 
 </div>
 
-## Ergometrine：從產後子宮出血與偏頭痛（台灣已核准）到多毛症（預測排名第 1，證據不足）
+## Ergometrine：從產後子宮出血到毛髮過多症（Hypertrichosis）
 {: .text-alpha }
-
-<!-- review:begin ergometrine-title-typo-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Ergometrine：從產後子宮出血到偏頭痛（預測排名第 1 為猖毛症，證據不足）」。本頁預測排名第 1 的是多毛症（Hypertrichosis），標題誤植為「猖毛症」。偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。依據：[本頁快速總覽「預測新適應症」列](https://twtxgnn.yao.care/drugs/ergometrine/)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end ergometrine-title-typo-2026-10-16 -->
 
 ## 一句話總結
 
-Ergometrine（麥角新鹼）是麥角生物鹼類子宮收縮劑，原本用於產後出血、子宮收縮不全等產科情境；台灣現行有效許可證也核准偏頭痛。
-TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**，但目前**沒有任何臨床試驗與文獻**支持，機轉上也缺乏合理連結。
-相對較有機轉線索的是**偏頭痛 (Migraine disorder)**，但目前僅有 **2 篇間接文獻**（1 篇回顧、1 篇個案報告）。
-
-<!-- review:begin ergometrine-migraine-rereview-result-lit-count-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合研究方法 L3 定義；2026-10-15 重生的報告未納入這篇研究。重審已把快速總覽的偏頭痛等級由 L4 改為 L3。原文保留。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)。
-
-<!-- review:end ergometrine-migraine-rereview-result-lit-count-2026-10-16 -->
-
-<!-- review:begin ergometrine-alpha-premise-summary-use-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「原本用於產後出血、子宮收縮不全等產科情境。」。偏頭痛已列在台灣 3 張有效 ergometrine 許可證的核准適應症內（內衛藥製字第009847號、第012732號、衛署藥製字第029626號意如宮注射液），不是新適應症；TxGNN 把它列為預測，是模型重新找回既有適應症。下一句把偏頭痛當成「較有機轉線索」的新方向，也應以此理解。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end ergometrine-alpha-premise-summary-use-2026-10-16 -->
-
----
+Ergometrine（麥角新鹼）是麥角生物鹼類子宮收縮劑，原本用於產後出血、流產後出血及子宮收縮不全；台灣現行有效許可證也核准偏頭痛。
+TxGNN 模型預測它可能對**毛髮過多症 (Hypertrichosis)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛（現行有效許可證，如內衛藥製字第009847號、衛署藥製字第029626號） |
-| 預測新適應症 | 多毛症 (Hypertrichosis)（排名第 1）；另評估偏頭痛 (Migraine disorder, 排名第 7) 為較具機轉合理性的方向 |
-| TxGNN 預測分數 | 99.96%（多毛症）；99.93%（偏頭痛） |
-| 證據等級 | L5（多毛症）；L3（偏頭痛） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 產褥期之出血、流產後之出血、分娩時之子宮弛緩出血、不正常出血、分娩第三期陣痛微弱 |
+| 預測新適應症 | 毛髮過多症 (Hypertrichosis) |
+| TxGNN 預測分數 | 0.9996 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 18 張／共 101 張） |
 | 許可證數 | 101 張（有效單方 17／有效複方 1／已註銷 83） |
-| 建議決策 | Hold（多毛症）；偏頭痛為 Research Question，若推進須採 Proceed with Guardrails 的安全防護 |
-
-<!-- review:begin ergometrine-migraine-rereview-result-2026-10-03 -->
-
-> **重審結果（2026-10-16）**：**升級**（證據等級 L4→L3）。本筆重審的對象原是 2026-10-03 版報告；當時的機轉說明（經 α 受體抑制三叉神經源性炎症）不成立，但等級不是靠這段機轉：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合研究方法「有觀察性研究或病例系列」的 L3 定義；另有前臨床研究顯示 ergometrine 可抑制三叉神經元放電（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)），methylergonovine 的研究是同系物，只能當旁證。查無 RCT 或登錄試驗，另有冠狀動脈痙攣等安全性報告（[PMID 23216317](https://pubmed.ncbi.nlm.nih.gov/23216317/)）。2026-10-15 重生的報告未納入 PMID 2759844，把偏頭痛評為 L4；依本次重審，快速總覽的偏頭痛等級改為 L3。偏頭痛也已列在台灣 3 張有效 ergometrine 許可證的核准適應症內，不是新適應症。本頁證據等級已依重審結果更新，原值列在下方查核紀錄。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/)。
-
-<!-- review:end ergometrine-migraine-rereview-result-2026-10-03 -->
-
-<!-- review:begin ergometrine-alpha-premise-row-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「原適應症／產後出血、子宮血崩、月經過多」。「產後出血、子宮血崩、月經過多」是已註銷的內衛藥製字第004304號縮水蘋果酸麥角新鹼糖衣片的適應症；現行有效許可證（如內衛藥製字第009847號、第012732號、衛署藥製字第029626號）寫的是產後子宮弛緩、出血之預防及治療與偏頭痛。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end ergometrine-alpha-premise-row-2026-10-16 -->
-
----
+| 建議決策 | Hold |
 
 <!-- review:begin ergometrine-moa-2026-10-03 -->
 
@@ -110,46 +75,19 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（MOA）。根據已知藥理，Ergometrine 是麥角生物鹼類子宮收縮劑，作用於 α 腎上腺素、血清素及多巴胺受體。
+目前缺乏詳細的作用機轉資料。Ergometrine 是麥角生物鹼類的子宮收縮劑，一般認為作用於血清素、α-腎上腺素與多巴胺受體，藉此收縮子宮平滑肌與血管，達到止血效果。
 
-**多毛症（排名第 1）**：毛髮生長與毛囊發育的機轉，與 Ergometrine 的受體藥理沒有已知關聯。其他排名靠前的預測，如 Ambras 症候群（涉及 TRPS1 調控）、腎因性抗利尿不適當症候群（AVPR2 功能獲得性變異）、Dandy-Walker 畸形、遺傳性毛幹異常、痲瘋病等，同樣缺乏機轉或證據支持，應視為模型的統計關聯，而非有根據的再利用假說。
+原適應症（產後與流產後出血）和毛髮過多症在病理上沒有明顯關聯。已知資訊中，沒有任何機轉可說明 Ergometrine 能促進或調節毛髮生長，此預測目前只是模型的關聯性輸出。
 
-**偏頭痛（排名第 7）**：Ergometrine 與 ergotamine、methysergide 同屬麥角骨架，作用於 5-HT1B/1D 等血清素受體，理論上有血管收縮與抗偏頭痛的合理性。台灣有 3 張有效許可證（內衛藥製字第009847號、第012732號與衛署藥製字第029626號意如宮注射液）的核准適應症列有偏頭痛。但目前只有間接證據，且麥角類藥物的血管痙攣與腦血管病變風險，需要嚴格的防護措施。
-
-<!-- review:begin ergometrine-alpha-premise-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：仿單（emc Ergometrine Injection SmPC §5.1）所載 ergometrine 的受體作用是子宮肌層 5-HT2 與 α 腎上腺素受體的作用劑／部分作用劑效果，沒有提到 5-HT1B/1D；5-HT1B/1D 機轉只有前臨床文獻支持（[PMID 9448572](https://pubmed.ncbi.nlm.nih.gov/9448572/)：ergometrine 微離子導入可抑制貓三叉神經二級神經元放電），屬仿單未載、尚未證實，不是已確立的作用機轉。原文保留。依據：[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc)。
-
-<!-- review:end ergometrine-alpha-premise-2026-10-03 -->
-
-<!-- review:begin ergometrine-alpha-premise-migraine-licenses-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「台灣有一張許可證（意如宮注射液）的核准適應症已列有偏頭痛。」。TFDA 許可證資料中，ergonovine（ergometrine）maleate 現行有效許可證有 3 張的適應症列有偏頭痛：內衛藥製字第009847號縮水蘋果酸麥角新鹼錠、內衛藥製字第012732號縮水蘋果酸麥角新鹼片、衛署藥製字第029626號意如宮注射液。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end ergometrine-alpha-premise-migraine-licenses-2026-10-16 -->
-
-**肺動脈高壓（排名第 10）**：Ergometrine 的血管收縮作用可能增加肺血管阻力，與治療方向相反，此項應視為安全警訊而非治療機會。
-
----
+此外，TxGNN 其他排名較高的預測（如 Ambras 型先天性全身性多毛症、腎因性抗利尿不適當症候群、Dandy-Walker 畸形相關症候群等）同樣缺乏機轉依據。這顯示高分預測不等於有生物學合理性。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
-以下為偏頭痛（排名第 7）相關文獻：
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [9793694](https://pubmed.ncbi.nlm.nih.gov/9793694/) | 1998 | Review | Cephalalgia | Methysergide 為 Ergometrine 的半合成衍生物，用於偏頭痛預防，兼具 5-HT2 拮抗與 5-HT1 促效作用；證據屬間接，針對的是衍生物而非 Ergometrine 本身 |
-| [10971665](https://pubmed.ncbi.nlm.nih.gov/10971665/) | 2000 | Case series | Headache | 一名有先兆偏頭痛的產婦於產後發生腦血管病變，提示產後血管事件風險，屬安全性參考 |
-
-多毛症（排名第 1）目前無相關文獻。
-
----
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -194,40 +132,27 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-- **知識圖譜中的禁忌疾病關聯**：高血壓、癲癇、腎臟疾病、肝臟疾病、膽囊疾病、腦中風與腦血管疾病、腦梗塞、閉塞性動脈硬化症、HELLP 症候群。此為知識圖譜的藥物－疾病禁忌關聯，並非仿單原文。
-- **藥物交互作用**：共 83 筆，以下為部分重要項目。
-  - **重大 (Major)**：Isometheptene、Epinephrine（含外用）、Lorcaserin、Clarithromycin、Ephedrine、Cobicistat
-  - **中度 (Moderate)**：Doxycycline、Tetracycline、Minocycline、Aprepitant、Dexamethasone、Cimetidine、Miconazole、Clotrimazole、Deferasirox 等
-- **機轉相關的安全顧慮**：麥角類的血管收縮作用，可能引起血管痙攣、腦血管病變，並可能使肺高壓惡化。此顧慮在偏頭痛（特別是有先兆或腦幹先兆型）與肺動脈高壓情境下尤其重要。
+- **知識圖譜中記錄的禁忌關聯**（來自 TxGNN 知識圖譜，並非仿單文字）：高血壓、癲癇、腎臟疾病、肝臟疾病、膽囊疾病、腦中風與腦血管疾患、腦梗塞、閉塞性動脈硬化症、HELLP 症候群等。
+- **藥物交互作用**：資料庫共記錄 83 項，其中列為嚴重（Major）的包括 Isometheptene、Epinephrine、Ephedrine、Lorcaserin、Clarithromycin、Cobicistat；中度的包括 Doxycycline、Tetracycline、Aprepitant、Dexamethasone、Cimetidine、Minocycline、Miconazole、Clotrimazole 等。
+- 麥角類藥物具血管收縮作用，與 CYP3A4 抑制劑（如 Clarithromycin、Cobicistat）併用時，有血管缺血風險。
 
-其餘警語與禁忌請參考原廠仿單。
-
----
+其他安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Hold**（偏頭痛可列為 Research Question，若推進須有安全防護）
+**決策：Hold**
 
 **理由：**
-- 排名第 1 的多毛症及多數高分預測，缺乏任何臨床試驗、文獻與機轉依據，目前僅有模型分數，屬 L5。
-- 偏頭痛有麥角骨架與血清素受體的合理性（L4），但證據只有間接回顧與個案報告，且麥角類的血管風險明確，不足以支持直接推進。
-
-<!-- review:begin ergometrine-migraine-rereview-result-conclusion-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：本藥有一篇 40 人、無對照的月經性偏頭痛觀察性研究（[PMID 2759844](https://pubmed.ncbi.nlm.nih.gov/2759844/)），符合研究方法 L3 定義；2026-10-15 重生的報告未納入這篇研究。重審已把快速總覽的偏頭痛等級由 L4 改為 L3。原文保留。依據：[PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)。
-
-<!-- review:end ergometrine-migraine-rereview-result-conclusion-2026-10-16 -->
+- 針對毛髮過多症沒有任何臨床試驗或文獻，機轉上也缺乏合理性，僅有 TxGNN 模型分數支持，證據等級為 L5。
+- Ergometrine 具血管收縮作用，且知識圖譜記錄多項心腦血管相關禁忌，用於非危及生命的美容或皮膚問題，風險效益比不佳。
 
 **若要推進需要：**
-- 補充詳細的作用機轉（MOA）資料，包含受體親和力與選擇性。
-- 針對偏頭痛進行系統性文獻回顧，評估 Ergometrine 本身（而非 methysergide 或 ergotamine）的療效與安全性。
-- 對照已含偏頭痛適應症的台灣許可證，確認其核准依據與使用限制。
-- 設計排除高風險族群的安全監測計畫（高血壓、腦血管疾病、肝腎功能不全、併用 CYP3A4 強效抑制劑者等）。
-- 在任何新適應症評估前，先釐清高分預測與模型訓練資料之間的關聯，避免對無機轉支持的預測投入資源。
+- 補齊詳細的作用機轉資料，並釐清是否有任何與毛囊或毛髮週期相關的路徑。
+- 進行系統性文獻檢索與前臨床研究（如毛囊細胞或動物模型），先驗證是否存在生物效應。
+- 若有任何訊號，再評估局部給藥等低全身暴露方案的可行性與安全性。
+- 附帶說明：排名第 7 的偏頭痛 (migraine disorder) 在機轉上較為合理（麥角類具血清素受體活性，部分台灣許可證適應症也列有偏頭痛），但目前文獻僅有綜述與個案報告，且有腦血管風險，可作為另行評估的研究問題。
 
 <!-- review:begin log -->
 
@@ -239,17 +164,17 @@ TxGNN 模型預測分數最高的新適應症是**多毛症 (Hypertrichosis)**�
 |---------|------|------|------|
 | 2026-10-03 | 「methylergonovine 是 ergometrine 的活性代謝物」 | 報告重生後已無此錯誤（2026-10-15：新報告未再稱 methylergonovine 為 ergometrine 的活性代謝物；原為更正） | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072)；[emc：Ergometrine Injection BP 0.05% w/v SmPC §5.2](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 結論段「及其活性代謝物 methylergonovine」 | 報告重生後已無此錯誤（2026-10-15：新報告結論未再提及 methylergonovine 為代謝物；原為更正） | [NLM MeSH：Methylergonovine（D008755）](https://meshb.nlm.nih.gov/record/ui?ui=D008755)；[DailyMed：Methylergonovine Maleate Tablets, USP 仿單（Teva）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d8e4b8ed-3289-4611-8a61-2392a4bf6072) |
-| 2026-10-03 | 預測理由稱 ergometrine 作用於 5-HT1B/1D（仿單未載） | 加註（2026-10-16 修訂，前版保留於紀錄） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
+| 2026-10-03 | 預測理由稱 ergometrine 作用於 5-HT1B/1D（仿單未載） | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 偏頭痛預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [emc：Ergometrine Injection BP 0.05% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/6265/smpc) |
-| 2026-10-16 | 偏頭痛預測重審結果 | 重審：升級，證據等級 L4→L3；證據等級：原「證據等級／L5（多毛症）；L4（偏頭痛）」→「證據等級／L5（多毛症）；L3（偏頭痛）」（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
-| 2026-10-16 | 標題把多毛症寫成「猖毛症」，並把已核准的偏頭痛寫成新用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [本頁快速總覽「預測新適應症」列](https://twtxgnn.yao.care/drugs/ergometrine/)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 偏頭痛預測重審結果 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為重審：升級，證據等級 L4→L3；證據等級：原「證據等級／L5（多毛症）；L4（偏頭痛）」→「證據等級／L5（多毛症）；L3（偏頭痛）」（2026-10-16 修訂，前版保留於紀錄）） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/)；[PubMed：Microiontophoretic application of serotonin (5HT)1B/1D agonists inhibits trigeminal cell firing in the cat（PMID 9448572）](https://pubmed.ncbi.nlm.nih.gov/9448572/)；[PubMed：Oral methylergonovine maleate for refractory migraine and cluster headache prevention（PMID 23432443）](https://pubmed.ncbi.nlm.nih.gov/23432443/)；[PubMed：Efficacy and tolerability of intravenous methylergonovine in migraine female patients attending the emergency department: a pilot open-label study（PMID 19895705）](https://pubmed.ncbi.nlm.nih.gov/19895705/)；[PubMed：QT prolongation, Torsade de Pointes, myocardial ischemia from coronary vasospasm, and headache medications. Part 1: review of serotonergic cardiac adverse events with a triptan case（PMID 23216317）](https://pubmed.ncbi.nlm.nih.gov/23216317/)；[PubMed：Pleural thickening caused by Sansert and Ergotrate in the treatment of migraine（PMID 6773347）](https://pubmed.ncbi.nlm.nih.gov/6773347/) |
+| 2026-10-16 | 標題把多毛症寫成「猖毛症」，並把已核准的偏頭痛寫成新用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [本頁快速總覽「預測新適應症」列](https://twtxgnn.yao.care/drugs/ergometrine/)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 偏頭痛評為 L4，未納入本藥觀察性研究 | 查核撤回（2026-10-16：重審結果已改為升級並把快速總覽的偏頭痛等級改成 L3，本筆加註不再需要；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
-| 2026-10-16 | 一句話總結稱偏頭痛僅有 2 篇間接文獻 | 加註（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
-| 2026-10-16 | 結論稱偏頭痛只有間接回顧與個案報告 | 加註（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
-| 2026-10-16 | 稱只有一張許可證列有偏頭痛 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 原適應症取自已註銷許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結的原用途漏列偏頭痛 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱偏頭痛僅有 2 篇間接文獻 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
+| 2026-10-16 | 結論稱偏頭痛只有間接回顧與個案報告 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [PubMed：Menstrual migraine and intermittent ergonovine therapy（PMID 2759844）](https://pubmed.ncbi.nlm.nih.gov/2759844/) |
+| 2026-10-16 | 稱只有一張許可證列有偏頭痛 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 原適應症取自已註銷許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結的原用途漏列偏頭痛 | 許可證表程式修正後已無此錯誤（2026-10-28：一句話總結依本紀錄更正，補上現行有效許可證核准的偏頭痛（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結把偏頭痛當成新的再利用方向 | 查核撤回（2026-10-16：與相鄰的「一句話總結的原用途漏列偏頭痛」更正說明相同，已併入該筆；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 頁首證據等級 | 頁首等級依總覽表重算（原 L4→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 

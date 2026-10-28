@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Larotrectinib
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 162
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Larotrectinib"
-predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma", "cytomegalovirus infection", "malignant catarrh", "infectious bovine rhinotracheitis", "progesterone-receptor negative breast cancer", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "thrombocytopenia"]
+predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
 last_modified_at: 2026-10-16
 description: "Larotrectinib：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L4）。原適應症：具 NTRK 基因融合的實體腫瘤（成人和兒童），須符合：無已知後天阻抗性突變、為轉移性或手術切除極可能造成嚴重病症…"
 ---
@@ -14,7 +14,7 @@ description: "Larotrectinib：預測新適應症為多發性內分泌腫瘤 (Mul
 # Larotrectinib
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 |------|------|
 | 原適應症 | 具 NTRK 基因融合的實體腫瘤（成人和兒童），須符合：無已知後天阻抗性突變、為轉移性或手術切除極可能造成嚴重病症、無合適替代治療或治療後惡化 |
 | 預測新適應症 | 多發性內分泌腫瘤 (Multiple Endocrine Neoplasia) |
-| TxGNN 預測分數 | 99.24% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9924 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -117,7 +117,7 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 **決策：Hold**
 
 **理由：**
-- TxGNN 分數雖高（99.24%），但 Larotrectinib 作用於 TRK，而多發性內分泌腫瘤主要由 RET 或 MEN1 異常驅動，缺乏直接機轉連結。現有試驗為泛腫瘤籃式試驗，文獻也沒有針對 MEN 的 Larotrectinib 臨床資料，證據僅達 L4。
+- TxGNN 分數雖高（0.9924），但 Larotrectinib 作用於 TRK，而多發性內分泌腫瘤主要由 RET 或 MEN1 異常驅動，缺乏直接機轉連結。現有試驗為泛腫瘤籃式試驗，文獻也沒有針對 MEN 的 Larotrectinib 臨床資料，證據僅達 L4。
 - Larotrectinib 已在台灣上市，但核准範圍僅限 NTRK 融合陽性實體腫瘤，本預測並不在範圍內。
 
 **若要推進需要：**

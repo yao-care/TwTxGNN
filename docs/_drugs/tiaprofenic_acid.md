@@ -4,17 +4,17 @@ title: Tiaprofenic Acid
 parent: 僅模型預測 (L5)
 nav_order: 277
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Tiaprofenic Acid：預測新適應症為短指（趾）併指症候群 (Brachydactyly-Syndactyly Syndrome)（證據等級 L5）。原適應症：消炎、鎮痛"
 monitor_inn: "Tiaprofenic acid"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "pseudoachondroplasia"]
 ---
 
 # Tiaprofenic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**短指（趾）併指症候群 (Brachydactyly-Sy
 |------|------|
 | 原適應症 | 消炎、鎮痛 |
 | 預測新適應症 | 短指（趾）併指症候群 (Brachydactyly-Syndactyly Syndrome) |
-| TxGNN 預測分數 | 99.99% |
+| TxGNN 預測分數 | 0.9999 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 13 張／共 33 張） |
 | 許可證數 | 33 張（有效單方 13／有效複方 0／已過期 1／已註銷 19） |
 | 建議決策 | Hold |
 

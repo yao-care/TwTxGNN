@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Butenafine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 50
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-16
-description: "Butenafine：預測新適應症為皮膚念珠菌病 (Cutaneous Candidiasis)（證據等級 L4）。原適應症：指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌屬黴菌引起之皮膚感染症"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "Butenafine"
-predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
+predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
+last_modified_at: 2026-10-27
+description: "Butenafine：預測新適應症為髮內型感染症 (endothrix infectious disease)（證據等級 L5）。原適應症：抗黴菌劑"
 ---
 
 # Butenafine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **5** 個
+證據等級: **L5** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,35 +33,34 @@ predicted_indications: ["endothrix infectious disease", "ectothrix infectious di
 
 </div>
 
-## Butenafine：從皮膚黴菌感染到皮膚念珠菌病
+## Butenafine：Squalene epoxidase 抑制型抗黴菌劑 → 髮內型感染症 (endothrix infectious disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Butenafine（鹽酸布替萘芬）是一種苯甲胺類外用抗黴菌劑，原本用於治療香港腳、體癬、股癬等皮膚真菌感染。
-TxGNN 模型預測它可能對**皮膚念珠菌病 (Cutaneous Candidiasis)** 有效，但目前**沒有臨床試驗**，只有 **3 篇文獻**（以綜述與間接的體外資料為主），證據仍屬初步。
+Butenafine（鹽酸布替萘芬）是外用抗黴菌劑，屬 benzylamine 類。
+TxGNN 模型預測它可能對**髮內型感染症 (endothrix infectious disease)** 有效，
+但目前**沒有臨床試驗與文獻**支持，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌屬黴菌引起之皮膚感染症 |
-| 預測新適應症 | 皮膚念珠菌病 (Cutaneous Candidiasis) |
-| TxGNN 預測分數 | 99.33% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 抗黴菌劑; 指(趾)間黴菌病(香港腳)，圓癬(體癬)、股癬等皮膚真菌屬黴菌引起之皮膚感染症。; 指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌屬黴菌引起之皮膚感染症。; 指（趾）間黴菌病（香港腳）、圓癬（體癬）、股癬等皮膚真菌屬黴菌引起之皮膚感染症。; 指(趾)間黴菌病(香港腳)，圓癬(體癬)，股癬等皮膚真菌屬黴菌引起之皮膚感染症。; 抗黴菌劑。; 指(趾)間黴菌病(香港腳)、圓癬(體癬)股癬等皮膚真菌屬黴菌引起之皮膚感染症。; 指（趾）間黴菌病（香港腳）、圓癬（體癬）、股癬、汗斑等皮膚真菌屬黴菌引起之皮膚感染症。 |
+| 預測新適應症 | 髮內型感染症 (endothrix infectious disease) |
+| TxGNN 預測分數 | 0.9902 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 15 張／共 17 張） |
 | 許可證數 | 17 張（有效單方 15／有效複方 0／已過期 1／已註銷 1） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫未收錄）。依已知藥理，Butenafine 是苯甲胺類抗黴菌劑，抑制真菌的角鯊烯環氧化酶 (squalene epoxidase)，造成麥角固醇不足，並使有毒的角鯊烯堆積，因此對皮膚癬菌具殺菌作用。
+目前缺乏詳細的作用機轉資料（DrugBank 未收錄 MOA）。就一般藥理知識，Butenafine 屬 benzylamine 類抗黴菌劑，推測透過抑制 squalene epoxidase 干擾黴菌麥角固醇合成，對皮膚真菌具廣泛活性。
 
-皮膚念珠菌病與香港腳、體癬、股癬同屬淺層皮膚黴菌感染，同樣以外用抗黴菌劑治療，因此模型預測兩者有關聯。不過，Butenafine 對念珠菌的活性被認為弱於對皮膚癬菌的活性。
+髮內型感染是皮癬菌侵入毛髮內部的感染。機轉上，抗皮癬菌活性可能適用，但外用藥物不易穿透至毛幹與毛囊深處，實際療效存疑。
 
-現有文獻僅有綜述（涵蓋 Butenafine 在內的新型抗黴菌藥），以及其他藥物（KP-103）在豚鼠念珠菌模型的體外與動物資料，屬間接證據，沒有 Butenafine 直接用於皮膚念珠菌病的人體研究。
-
-另外，資料中排名第 2 的「淺部黴菌病 (superficial mycosis)」預測，與現行已核准的適應症高度重疊，有對照 RCT 與多篇綜述支持，但它大致是在確認原適應症，並非真正的新用途。
+目前僅有 TxGNN 模型預測，沒有任何臨床試驗或文獻直接研究此疾病，因此此預測仍屬假說階段。
 
 ## 臨床試驗證據
 
@@ -69,11 +68,7 @@ TxGNN 模型預測它可能對**皮膚念珠菌病 (Cutaneous Candidiasis)** 有
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [11893219](https://pubmed.ncbi.nlm.nih.gov/11893219/) | 2002 | Review | Am J Clin Dermatol | 回顧六種新型抗黴菌藥（含 Butenafine），說明其在皮膚與黏膜黴菌病的潛在應用 |
-| [24196340](https://pubmed.ncbi.nlm.nih.gov/24196340/) | 2013 | Review | J Drugs Dermatol | 外用抗黴菌治療淺層皮膚黴菌感染的回顧，重點為 naftifine；多數感染可用適當外用藥治療 |
-| [11302816](https://pubmed.ncbi.nlm.nih.gov/11302816/) | 2001 | 體外／動物 | Antimicrob Agents Chemother | 新型三唑類 KP-103 在豚鼠足癬與皮膚念珠菌病模型有效；並非 Butenafine 的直接資料 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -122,14 +117,14 @@ TxGNN 模型預測它可能對**皮膚念珠菌病 (Cutaneous Candidiasis)** 有
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.33%），但沒有臨床試驗，文獻也只有綜述與間接資料，沒有 Butenafine 用於皮膚念珠菌病的直接證據。
-- Butenafine 的機轉對念珠菌的活性可能弱於對皮膚癬菌，且現有許多成熟的抗念珠菌外用藥可供選擇。
+- 證據等級為 L5，僅有模型預測，且無任何臨床或文獻佐證。
+- 外用劑型對毛幹內感染的穿透性有限，需先釋疑再評估是否推進。
 
 **若要推進需要：**
-- 補齊 Butenafine 的作用機轉資料。
-- 進行 Butenafine 對念珠菌屬的體外感受性試驗（MIC）。
-- 若體外結果理想，再設計與標準外用抗念珠菌藥（如唑類）比較的小規模臨床試驗。
-- 確認劑型與給藥途徑（目前台灣為外用乳膏）是否適用於念珠菌感染部位。
+- 補充 Butenafine 作用機轉資料（MOA）
+- 評估外用製劑對毛囊與毛幹的穿透性（藥物動力學／組織分布資料）
+- 檢索並建立針對髮內型感染的前臨床或臨床研究證據
+- 評估是否需要全身性給藥途徑，以及相應的安全性資料
 
 <!-- review:begin log -->
 

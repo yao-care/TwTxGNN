@@ -6,9 +6,9 @@ nav_order: 281
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Titanium dioxide"
-predicted_indications: ["drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "tetanic cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "cortical cataract"]
-last_modified_at: 2026-10-16
-description: "Titanium Dioxide：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：外用抗刺激劑"
+predicted_indications: ["drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "nuclear senile cataract"]
+last_modified_at: 2026-10-23
+description: "Titanium Dioxide：預測新適應症為藥物性骨質疏鬆症 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：外用抗刺激劑"
 ---
 
 # Titanium Dioxide
@@ -33,51 +33,51 @@ description: "Titanium Dioxide：預測新適應症為藥物誘發性骨質疏�
 
 </div>
 
-## Titanium dioxide：從外用抗刺激劑／局部保護劑到藥物誘發性骨質疏鬆
+## Titanium dioxide（二氧化鈦）：從外用抗刺激／保護劑到藥物性骨質疏鬆症
 {: .text-alpha }
 
 ## 一句話總結
 
-二氧化鈦（Titanium dioxide）是一種惰性的外用物理性保護劑，在台灣原本以糊劑或粉劑用於皮膚的局部保護與抗刺激，也出現在數種複方製劑中。
-TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)** 有效，但目前**沒有任何臨床試驗與相關文獻**支持這個方向，預測僅來自模型分數。
-
----
+二氧化鈦在台灣曾以單方作為外用抗刺激劑與局部保護劑，另有數個複方許可證使用其成分。
+TxGNN 模型預測它可能對**藥物性骨質疏鬆症 (Drug-induced Osteoporosis)** 有效，但目前**無任何臨床試驗與文獻**直接支持此預測，僅為模型推論。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 外用抗刺激劑（單方許可證，已註銷） |
-| 預測新適應症 | 藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis) |
-| TxGNN 預測分數 | 99.9998% |
+| 預測新適應症 | 藥物性骨質疏鬆症 (Drug-induced Osteoporosis) |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市（僅複方仍有效） |
+| 台灣上市 | 上市中（有效許可證 1 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 0／有效複方 1／已過期 1／已註銷 5） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。二氧化鈦是一種惰性色素與外用物理性保護劑，其已知用途是在皮膚表面形成屏障、保護並減少刺激，並非透過特定的藥理標的發揮作用。
+目前缺乏詳細的作用機轉資料。二氧化鈦是一種惰性的無機顏料，臨床上主要作為外用保護劑，使用於皮膚表面以減少刺激。已知資訊中，並無證據顯示它會影響骨重塑（骨吸收或骨生成）。
 
-原適應症（皮膚局部保護）與骨代謝之間，在現有資料中找不到已建立的藥理關聯。這項預測目前只建立在 TxGNN 知識圖譜的模型分數上，無法從機轉角度解釋為何二氧化鈦可能影響骨質流失。
+因此，原適應症（外用保護、抗刺激）與預測的藥物性骨質疏鬆症之間，缺乏已知的機轉關聯。這項預測目前僅來自 TxGNN 模型（深度學習），可能反映模型從相關疾病間學到的相似性，並非生物學證據，無法以藥理學解釋。
 
-其他排名靠前的預測（糖尿病視網膜病變與各類白內障）同樣沒有機轉或臨床依據。針對糖尿病視網膜病變檢索到的 5 篇文獻，內容都是把二氧化鈦當作分析或影像材料（如細胞外囊泡純化、螢光素奈米粒子視網膜造影、眼球模型），而不是治療用途。因此，本報告將這些預測視為模型假說，而非有根據的再利用機會。
-
----
+其他分數接近的預測（如糖尿病視網膜病變、各型白內障）同樣沒有治療機轉支持。糖尿病視網膜病變相關文獻僅把二氧化鈦當作分析或影像材料使用，並非治療用途。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
-目前針對「藥物誘發性骨質疏鬆」無相關文獻。
+針對預測適應症「藥物性骨質疏鬆症」，目前無相關文獻。
 
----
+作為參考，排名第二的預測「糖尿病視網膜病變」有 5 篇檢索文獻，但皆未研究二氧化鈦對該疾病的治療效果：
+
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [36197877](https://pubmed.ncbi.nlm.nih.gov/36197877/) | 2022 | 體外研究 | Analytical Chemistry | 以二氧化鈦微粒純化血漿胞外囊泡，用於糖尿病視網膜病變的代謝特徵分析（分析工具用途） |
+| [41637842](https://pubmed.ncbi.nlm.nih.gov/41637842/) | 2026 | Review | J Trace Elem Med Biol | 金屬奈米粒子於糖尿病的機轉與治療展望（一般性背景） |
+| [38078945](https://pubmed.ncbi.nlm.nih.gov/38078945/) | 2023 | 體外研究 | Analytical Chemistry | pH 調控的選擇性系統，用於分析胞外囊泡與脂蛋白攜帶的 RNA |
+| [39566751](https://pubmed.ncbi.nlm.nih.gov/39566751/) | 2025 | 體外研究 | Methods | 超小二氧化鈦奈米粒子與螢光素結合物，用於改善眼底螢光血管攝影 |
+| [20059246](https://pubmed.ncbi.nlm.nih.gov/20059246/) | 2009 | 體外研究 | J Biomed Optics | 用於視網膜血氧測量的動態眼模型 |
 
 ## 台灣上市資訊
 
@@ -103,27 +103,23 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-安全性資訊請參考原廠仿單。本次整理的資料中，藥物交互作用查詢未找到紀錄，知識圖譜亦無禁忌症連結。
-
----
+安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測僅來自模型分數（證據等級 L5），沒有臨床試驗、文獻或任何機轉支持。二氧化鈦是惰性外用保護劑，與骨代謝缺乏合理關聯，且原始作用機轉資料也缺漏。
-- 現有單方許可證皆已註銷，仍有效的許可證都是口服複方，與外用的原用途不同，也無法歸因於二氧化鈦本身。
+- 預測完全來自模型，沒有任何針對藥物性骨質疏鬆症的臨床試驗或文獻，也無已知機轉，證據等級為 L5。
+- 二氧化鈦為惰性外用保護劑，其許可證 7 張中目前仍有 1 張有效（市場上仍有販售），不建議以此預測推進開發。
 
 **若要推進需要：**
-- 補齊作用機轉（MOA）資料，並釐清二氧化鈦是否有任何全身性生物活性。
-- 以文獻與前臨床研究檢視二氧化鈦與骨代謝（成骨／蝕骨細胞）的關聯。
-- 評估給藥途徑的可行性：外用惰性物質難以達到治療骨質疏鬆所需的全身暴露。
-- 在投入資源前，先由專家審視 TxGNN 預測是否為知識圖譜的人為關聯。
+- 補齊作用機轉資料，並釐清二氧化鈦是否與骨代謝有任何生物學關聯。
+- 進行系統性文獻檢索與前臨床（體外或動物）研究，以驗證對骨質疏鬆的效果。
+- 評估給藥途徑的可行性（目前為外用或複方口服成分，與骨質疏鬆治療所需的全身性給藥是否相容尚待確認）。
+- 取得完整安全性資料（警語、禁忌、藥物交互作用）。
 
 <!-- review:begin log -->
 

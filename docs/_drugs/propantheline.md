@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Propantheline
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 236
-evidence_level: L3
-indication_count: 2
-last_modified_at: 2026-10-16
-description: "Propantheline：預測新適應症為胃十二指腸炎 (Gastroduodenitis)（證據等級 L3）。原適應症：胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "Propantheline"
-predicted_indications: ["gastroduodenitis", "irritable bowel syndrome"]
+predicted_indications: ["irritable bowel syndrome"]
+last_modified_at: 2026-10-23
+description: "Propantheline：預測新適應症為腸躁症 (Irritable Bowel Syndrome)（證據等級 L5）。原適應症：胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣"
 ---
 
 # Propantheline
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **2** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,34 @@ predicted_indications: ["gastroduodenitis", "irritable bowel syndrome"]
 
 </div>
 
-## Propantheline：從胃、十二指腸潰瘍到胃十二指腸炎
+## Propantheline：從消化性潰瘍到腸躁症
 {: .text-alpha }
 
 ## 一句話總結
 
-Propantheline（溴化丙烷體林）是一種四級銨類抗毒蕈鹼藥物（副交感神經遮斷劑），在台灣原本用於胃、十二指腸潰瘍與腸胃痙攣。
-TxGNN 模型預測它可能對**胃十二指腸炎 (Gastroduodenitis)** 有效，目前**無臨床試驗登記**，但有 **3 篇文獻**支持這個方向。
+Propantheline（普泮夕林，台灣商品名如益胃寧）是一種副交感神經遮斷劑（抗膽鹼藥），原本用於胃、十二指腸潰瘍與腸胃痙攣。
+TxGNN 模型預測它可能對**腸躁症 (Irritable Bowel Syndrome)** 有效，
+目前**無臨床試驗登記**，有 **3 篇文獻**與此方向相關，其中直接研究腸躁症的人體研究為 2 篇（1 篇 RCT、1 篇世代研究），且兩篇均為合併用藥設計。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣 |
-| 預測新適應症 | 胃十二指腸炎 (Gastroduodenitis) |
-| TxGNN 預測分數 | 99.90% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 預測新適應症 | 腸躁症 (Irritable Bowel Syndrome) |
+| TxGNN 預測分數 | 0.9916 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 9 張／共 53 張） |
 | 許可證數 | 53 張（有效單方 4／有效複方 5／已註銷 44） |
 | 建議決策 | Hold |
 
+**證據等級說明：**文獻中雖有直接研究腸躁症的 RCT（1989 年），但該研究為 ispaghula husk（洋車前子殼）加 propantheline 的合併治療，無法單獨歸因於 propantheline；另一篇為 bromazepam 合併 propantheline 的研究，同樣屬合併用藥，且無摘要可供查核。依證據上限規則與保守原則，本報告判定為 L5。
+
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位為空）。不過依藥理分類，Propantheline 是四級銨類抗毒蕈鹼藥物，可阻斷胃壁細胞與平滑肌上的 M3 受體，降低胃酸分泌與胃十二指腸的過度蠕動。
+目前缺乏詳細的作用機轉資料（DrugBank MOA 欄位為空缺）。根據已知藥理，Propantheline 屬周邊作用的抗毒蕈鹼（抗膽鹼）藥物，可減少胃腸道平滑肌痙攣與蠕動亢進。
 
-胃十二指腸炎與消化性潰瘍同屬上消化道的酸相關疾病，病理上有重疊。Propantheline 在台灣已核准用於胃炎與胃、十二指腸潰瘍，因此預測的新適應症與既有適應症高度相近，更像是原適應症的延伸，而非全新的治療領域。
-
-需要注意：這是一個相當「貼近原適應症」的預測，新意有限。
+腸躁症的核心症狀為腹痛、絞痛與腸蠕動異常。Propantheline 在台灣已核准的適應症包含結腸痙攣、腸道運動亢進與幽門痙攣，這些症狀與腸躁症高度重疊，因此機轉上可能緩解腸躁症的腹痛與絞痛。另有一篇動物研究（YM905，另一種 M3 受體拮抗劑）顯示，抗 M3 受體可改善腸躁症模型的腸道功能異常，間接支持此機轉方向，但該研究並未使用 propantheline。
 
 ## 臨床試驗證據
 
@@ -69,11 +70,9 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (Gastroduodenitis)** 有效�
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [6342335](https://pubmed.ncbi.nlm.nih.gov/6342335/) | 1983 | 雙盲試驗（58 位門診病人） | Acta Med Scand | Cimetidine 加低劑量 propantheline 與 cimetidine 加安慰劑相比，治療 3 週和 6 週後，潰瘍癒合與症狀緩解皆無顯著差異（約 79% vs 83%） |
-| [761954](https://pubmed.ncbi.nlm.nih.gov/761954/) | 1979 | 世代研究 | Int J Clin Pharmacol Biopharm | 比較 trithiozine 與 propantheline 對胃液分泌的影響；兩者皆可減少基礎狀態下的胃液量，組織胺刺激後 propantheline 降低胃液量與胃酸分泌的效果優於 trithiozine |
-| [13392433](https://pubmed.ncbi.nlm.nih.gov/13392433/) | 1956 | 回顧 | Vie Med | 以 propantheline 進行胃十二指腸潰瘍抗膽鹼治療的應用（無摘要） |
-
-整體而言文獻年代較早，且唯一的對照試驗顯示 propantheline 併用 cimetidine 並未帶來額外療效。
+| [2697886](https://pubmed.ncbi.nlm.nih.gov/2697886/) | 1989 | RCT | The Quarterly Journal of Medicine | 28 名腸躁症患者先以 ispaghula husk 加 propantheline 治療 4–6 週後完全緩解，再隨機分組，比較安慰劑與持續治療的長期復發情形；為合併用藥，無法單獨評估 propantheline |
+| [2888056](https://pubmed.ncbi.nlm.nih.gov/2888056/) | 1987 | 世代研究 | Minerva Dietologica e Gastroenterologica | 多中心研究，評估 bromazepam 加 propantheline 複方用於腸躁症的療效與耐受性（無摘要，細節不明） |
+| [11488427](https://pubmed.ncbi.nlm.nih.gov/11488427/) | 2001 | 動物研究 | Japanese Journal of Pharmacology | 新型 M3 受體拮抗劑 YM905 可抑制大鼠壓力誘發的排便與腹瀉，支持抗膽鹼機轉於腸躁症模型的合理性 |
 
 ## 台灣上市資訊
 
@@ -111,23 +110,25 @@ TxGNN 模型預測它可能對**胃十二指腸炎 (Gastroduodenitis)** 有效�
 
 ## 安全性考量
 
-- **禁忌／需謹慎的疾病（來自 TxGNN 知識圖譜，非仿單內容）：** 閉角型青光眼、重症肌無力、麻痺性腸阻塞與腸阻塞、幽門狹窄、巨結腸症（中毒性）、潰瘍性結腸炎與發炎性腸道疾病、賁門失弛緩症、良性攝護腺肥大與膀胱頸阻塞、甲狀腺功能亢進、冠狀動脈疾病、高血壓、肝臟與腎臟疾病、食道裂孔疝等。
-- **藥物交互作用：** 共記錄 203 筆。已列出的多為中度，例如其他抗膽鹼藥物（hyoscyamine、homatropine、aclidinium）、鴉片類藥物（fentanyl、codeine、tramadol）、抗組織胺（chlorpheniramine）、三環抗憂鬱劑（amitriptyline）、amantadine、loperamide、酒精與 botulinum toxin type A；與 acetaminophen、hydrochlorothiazide 為輕度。疊加抗膽鹼作用可能增加口乾、便秘、尿滯留等副作用。
-- 其他警語與正式禁忌症請參考原廠仿單。
+- **知識圖譜記錄的禁忌關聯**（來自知識圖譜，非仿單內容）：閉鎖角青光眼、重症肌無力、麻痺性腸阻塞與腸道阻塞、幽門狹窄、巨結腸症、潰瘍性大腸炎、良性攝護腺肥大與膀胱頸阻塞、甲狀腺機能亢進、冠狀動脈疾病、高血壓、肝臟與腎臟疾病、食道弛緩不能、裂孔疝等。
+  - 其中潰瘍性大腸炎、腸道阻塞與毒性巨結腸，與腸躁症的鑑別診斷相關，用藥前須先排除。
+- **藥物交互作用**：共查得 203 筆交互作用，以下為部分例子：
+  - 中度：其他抗膽鹼藥（hyoscyamine、homatropine、aclidinium）、amitriptyline、amantadine、抗組織胺（chlorpheniramine、acrivastine）、鴉片類（fentanyl、codeine、tramadol、alfentanil、dihydrocodeine）、loperamide、肉毒桿菌毒素 A、乙醇、acebutolol。
+  - 輕度：acetaminophen、hydrochlorothiazide。
+  - 多重抗膽鹼作用疊加，可能增加口乾、便秘、尿滯留等風險。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測的胃十二指腸炎與既有適應症（胃炎、胃與十二指腸潰瘍）高度重疊，新增價值有限。
-- 目前沒有臨床試驗，僅有少量老舊文獻，其中唯一的對照試驗未顯示額外療效。
+- TxGNN 預測分數高，且機轉與台灣核准的結腸痙攣、腸道運動亢進適應症合理相符；但直接的腸躁症人體證據僅有合併用藥的小型研究（含 1989 年 RCT，無單獨 propantheline 的對照），也沒有任何臨床試驗登記，目前僅屬研究假說階段。
 
 **若要推進需要：**
-- 補齊作用機轉資料（MOA）。
-- 確認台灣現有適應症文字是否已涵蓋胃十二指腸炎，以判斷是否真有必要另行申請。
-- 在現代標準治療（如質子幫浦抑制劑）背景下，評估 propantheline 的臨床定位與相對效益。
-- 針對老年人及有上述禁忌疾病的族群，擬定抗膽鹼副作用與藥物交互作用的監測計畫。
+- 取得 propantheline 單藥用於腸躁症的對照試驗證據，或設計單藥 vs 安慰劑的隨機試驗。
+- 補充 DrugBank 的作用機轉資料，並釐清與現有抗膽鹼類腸躁症用藥（如 hyoscyamine）的相對定位。
+- 取得原廠仿單中的警語與禁忌資訊，並針對老年人、便秘型腸躁症患者與多重抗膽鹼用藥者制定安全監測計畫。
+- 評估是否需要申請腸躁症適應症的擴增，以及台灣有效單方許可證（4 張）的適用範圍。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

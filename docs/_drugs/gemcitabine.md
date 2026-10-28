@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gemcitabine
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 123
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Gemcitabine：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：非小細胞肺癌、胰臟癌、膀胱癌、膽道癌"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Gemcitabine"
-predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
+predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
+last_modified_at: 2026-10-27
+description: "Gemcitabine：預測新適應症為直腸黏液腺癌 (rectum mucinous adenocarcinoma)（證據等級 L5）。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用…"
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,68 +33,40 @@ predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenoc
 
 </div>
 
-## Gemcitabine：從非小細胞肺癌、胰臟癌等多種癌症到乳癌
+## Gemcitabine：核苷類似物抗代謝藥物 → 直腸黏液腺癌 (rectum mucinous adenocarcinoma)
 {: .text-alpha }
 
 ## 一句話總結
 
-Gemcitabine 是一種核苷類似物化療藥物，原本用於非小細胞肺癌、胰臟癌、膀胱癌與膽道癌等治療。
-TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效，
-目前有 **多項乳癌相關臨床試驗**（含已完成的 Phase 3 試驗）和 **多篇文獻**支持這個方向。
+Gemcitabine 是核苷類似物類的抗代謝型化療藥物，已在台灣上市。
+TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcinoma)** 有效。
+目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 非小細胞肺癌、胰臟癌、膀胱癌、膽道癌；與 paclitaxel 併用於曾使用 anthracycline 之局部復發且無法手術切除或轉移性乳癌；曾使用含鉑類藥物治療後復發且間隔至少 6 個月之卵巢癌（第二線） |
-| 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
-| TxGNN 預測分數 | 99.98% |
-| 證據等級 | L1 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌患者。5.用於曾經使用含鉑類藥物(PLATINUM-BASED)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 抗癌藥。; 非小細胞肺癌、胰臟癌、膀胱癌。Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用含鉑類藥物(platinum-based)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 非 |
+| 預測新適應症 | 直腸黏液腺癌 (rectum mucinous adenocarcinoma) |
+| TxGNN 預測分數 | 0.9977 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 10 張／共 20 張） |
 | 許可證數 | 20 張（有效單方 10／有效複方 0／已註銷 10） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Gemcitabine 是核苷類似物類的抗代謝化療藥物，其活性代謝物可抑制核糖核苷酸還原酶並嵌入 DNA，造成 DNA 鏈終止與細胞凋亡，對快速增殖的腫瘤細胞有作用。
+本次彙整的資料中缺乏詳細的作用機轉（MOA）資料。依藥物類別判斷，Gemcitabine 屬於核苷類似物抗代謝藥物。它進入細胞後可摻入 DNA 並抑制核糖核苷酸還原酶，因此能阻斷增生中細胞的 DNA 合成。
 
-在台灣，Gemcitabine 已被核准與 paclitaxel 併用，治療曾使用 anthracycline 之局部復發且無法手術切除或轉移性乳癌。這代表「乳癌」在特定族群（已使用過 anthracycline 者）已有法規認可的用途。因此 TxGNN 的預測較像是把用途延伸到更廣的乳癌族群，例如三陰性乳癌、HER2 陽性乳癌，以及早期乳癌的輔助或前導治療，而不是全新的方向。
-
-乳癌與原適應症中的卵巢癌、肺癌同屬需要細胞毒性化療的實體腫瘤，Gemcitabine 與 taxane、platinum、anthracycline 等藥物的併用組合，已有多項臨床研究探討。
+直腸黏液腺癌是增生活躍的腺癌，理論上可能受到這種 DNA 合成抑制作用影響。不過，目前沒有試驗或文獻證實這點。Gemcitabine 也不是大腸直腸癌的標準用藥。因此這個預測目前只能視為機轉上的假說，需要進一步驗證。
 
 ## 臨床試驗證據
 
-以下列出與乳癌最相關的試驗（已依資料中的相關性評級挑選）：
-
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | 完成 | 未提供 | Gemcitabine + paclitaxel vs. paclitaxel，用於無法切除、局部復發或轉移性乳癌；為現行標示適應症的關鍵試驗 |
-| [NCT00093795](https://clinicaltrials.gov/study/NCT00093795) | Phase 3 | 完成 | 4894 | 淋巴結陽性乳癌術後輔助治療，比較 TAC、劑量密集 AC→P 與加入 gemcitabine 的 DD AC→PG |
-| [NCT00039546](https://clinicaltrials.gov/study/NCT00039546) | Phase 3 | 狀態未知 | 未提供 | tAnGo 試驗：ER/PgR 低表現之早期乳癌，在含 paclitaxel、epirubicin 的輔助化療中加入 gemcitabine |
-| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Phase 3 | 狀態未知 | 1206 | 可手術乳癌的前導化療，評估在 docetaxel 中加入 capecitabine 或 gemcitabine 對病理完全緩解率的影響 |
-| [NCT00070278](https://clinicaltrials.gov/study/NCT00070278) | Phase 3 | 狀態未知 | 800 | 高風險早期乳癌的前導化療，比較 EC 序貫 paclitaxel 加或不加 gemcitabine |
-| [NCT00006007](https://clinicaltrials.gov/study/NCT00006007) | Phase 2 | 完成 | 59 | Pemetrexed 併用 gemcitabine 治療轉移性乳癌 |
-| [NCT00244933](https://clinicaltrials.gov/study/NCT00244933) | Phase 2 | 完成 | 19 | Gemcitabine 併用 genistein 治療第 IV 期乳癌，並進行生物標記分析 |
-| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Phase 2 | 完成 | 30 | 單用 gemcitabine 治療曾接受 doxorubicin 與 paclitaxel 的轉移性乳癌 |
-| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | Phase 2 | 進行中（不再招募） | 36 | Trilaciclib、pembrolizumab、gemcitabine 與 carboplatin 用於轉移性三陰性乳癌 |
-| [NCT07528768](https://clinicaltrials.gov/study/NCT07528768) | Phase 2 | 尚未開始招募 | 750 | 非洲裔女性轉移性三陰性乳癌，比較 gemcitabine 與 paclitaxel |
-
-此外還有多項 Phase 1/2 組合試驗（例如與 doxorubicin 脂質體、tipifarnib、nab-paclitaxel 併用），可作為輔助背景。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park) | Gemcitabine 併用 paclitaxel 治療轉移性乳癌：Phase II 試驗中 221 位病人有 114 位（52%）出現反應 |
-| [15685821](https://pubmed.ncbi.nlm.nih.gov/15685821/) | 2004 | Review | Oncology (Williston Park) | Gemcitabine 與鉑類併用於轉移性乳癌，可帶來明顯的臨床效益與反應率 |
-| [15685820](https://pubmed.ncbi.nlm.nih.gov/15685820/) | 2004 | Review | Oncology (Williston Park) | Gemcitabine 併用 docetaxel 治療轉移性乳癌，毒性重疊少，且對未治療與曾用 anthracycline 者皆有活性 |
-| [14768404](https://pubmed.ncbi.nlm.nih.gov/14768404/) | 2003 | Review | Oncology (Williston Park) | 探討 gemcitabine、anthracycline 與 taxane 組合用於晚期乳癌 |
-| [12138397](https://pubmed.ncbi.nlm.nih.gov/12138397/) | 2002 | Review | Seminars in Oncology | 單用 gemcitabine 於轉移性乳癌的反應率為 16%–37%，併用其他藥物可進一步提升 |
-| [14754469](https://pubmed.ncbi.nlm.nih.gov/14754469/) | 2004 | Review | Clinical Breast Cancer | Gemcitabine 與 trastuzumab 併用於 HER2 過度表現的轉移性乳癌 |
-| [14754467](https://pubmed.ncbi.nlm.nih.gov/14754467/) | 2004 | Review | Clinical Breast Cancer | Gemcitabine 與 taxane 組合在乳癌治療中的定位 |
-| [12057045](https://pubmed.ncbi.nlm.nih.gov/12057045/) | 2002 | Review | Clinical Breast Cancer | Gemcitabine 用於乳癌前導治療的可能性 |
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | Cohort（Phase I） | Breast Cancer Res Treat | Carboplatin、gemcitabine 與 mifepristone 用於晚期乳癌及復發卵巢癌 |
-| [12057039](https://pubmed.ncbi.nlm.nih.gov/12057039/) | 2002 | 體外研究 | Clinical Breast Cancer | Gemcitabine 與 trastuzumab 在乳癌與肺癌細胞株中的前臨床研究 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -130,34 +102,33 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（核苷類似物、抗代謝藥） |
-| 骨髓抑制風險 | 中至高（資料中的藥物關聯疾病包含白血球低下、血小板低下、貧血） |
+| 細胞毒性分類 | 傳統細胞毒性藥物（核苷類似物抗代謝藥） |
+| 骨髓抑制風險 | 中至高（本次資料未含毒性描述，依藥物類別判斷，常見嗜中性白血球、血小板減少與貧血） |
 | 致吐性分級 | 低至中度 |
-| 監測項目 | 全血球計數（含分類）、肝腎功能 |
+| 監測項目 | CBC（含分類）、肝腎功能 |
 | 處置防護 | 需依細胞毒性藥物處置規範操作 |
 
-詳細警語與注意事項請參考原廠仿單。
+詳細警語請參考原廠仿單。
 
 ## 安全性考量
 
-- **知識圖譜標示的相關疾病風險**（來自模型知識圖譜，並非仿單文字）：腎臟疾病、肝臟疾病、膽囊疾病、血小板低下、貧血、白血球低下、間質性肺病、溶血性尿毒症候群、感染性疾病。使用前宜評估這些狀況。
-- **藥物交互作用**：資料中共有 339 筆交互作用紀錄，其中分級較明確者包括 Naltrexone（中度）、Levofloxacin（輕度）；其餘如 Calcitriol、Doxycycline、Pantoprazole、Omeprazole、Metformin、Morphine、Prednisone、Simvastatin、Aprepitant 等，等級為未知，臨床使用時需個別查核。
+- **藥物交互作用**：資料庫共記錄 339 筆交互作用。其中較明確分級者包括 Naltrexone（中度）與 Levofloxacin（輕度）。Calcitriol、Doxycycline、Pantoprazole、Metformin、Morphine 等多筆交互作用的分級為未知。
 
-其他警語與禁忌症請參考原廠仿單。
+其餘警語與禁忌資訊請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-乳癌已有已完成的 Phase 3 試驗（NCT00006459）支持 Gemcitabine 併用 paclitaxel，且此用途已列入台灣核准適應症，另有多項 Phase 2/3 試驗與回顧文獻。不過，預測所指的是更廣的乳癌族群，現有證據多為較早期的試驗，輔助與前導治療的 Phase 3 結果並不一致，需謹慎界定適用對象。
+- 這個預測只有模型分數（0.9977），沒有任何直接針對直腸黏液腺癌的臨床試驗或文獻，證據等級為 L5。
+- Gemcitabine 並非大腸直腸癌的標準用藥，目前不足以支持推進。
 
 **若要推進需要：**
-- 釐清目標族群（如三陰性乳癌、HER2 陽性、早期乳癌輔助／前導治療），並確認其與現行標示適應症的差異
-- 彙整輔助與前導治療 Phase 3 試驗（NCT00093795、NCT00039546、NCT00408408、NCT00070278）的實際結果
-- 追蹤進行中的三陰性乳癌試驗（NCT06027268、NCT07528768）
-- 補齊作用機轉的詳細資料
-- 建立血液學監測與劑量調整計畫，並針對腎、肝功能不全及有間質性肺病病史的病人設定使用條件
+- 系統性檢索直腸或大腸黏液腺癌使用 Gemcitabine 的文獻與臨床試驗
+- 取得詳細的作用機轉資料，評估與黏液型腺癌生物特性的關聯
+- 建立前臨床（細胞株或動物模型）證據，再考慮早期臨床試驗
+- 規劃骨髓抑制與肝腎功能的監測方案
 
 <!-- review:begin log -->
 

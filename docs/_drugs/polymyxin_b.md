@@ -4,7 +4,7 @@ title: Polymyxin B
 parent: 中證據等級 (L3-L4)
 nav_order: 222
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-16
 description: "Polymyxin B：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L4）。原適應症：抗生素"
 monitor_inn: "Polymyxin B"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "laryngotracheitis"]
 # Polymyxin B
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **3** 個
+證據等級: **L4** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前**
 |------|------|
 | 原適應症 | 抗生素（單方許可證僅載明此項） |
 | 預測新適應症 | 支氣管炎 (Bronchitis) |
-| TxGNN 預測分數 | 99.87% |
+| TxGNN 預測分數 | 0.9987 |
 | 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 14 張／共 77 張） |
 | 許可證數 | 77 張（有效單方 2／有效複方 12／已註銷 63） |
 | 建議決策 | Hold |
 
@@ -166,8 +166,6 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前**
 - 針對重大藥物交互作用（尤其是腎毒性、神經肌肉阻斷相關藥物）制定用藥管理方案
 
 ---
-
-**補充說明：**資料顯示該藥的結膜炎預測（TxGNN 分數 99.06%）有多項隨機對照試驗（多為 Polymyxin B／trimethoprim 複方對照 moxifloxacin 或 chloramphenicol）支持，證據等級為 L1，但與台灣已核准的眼科適應症重疊，屬既有適應症而非真正的新適應症。
 
 <!-- review:begin log -->
 

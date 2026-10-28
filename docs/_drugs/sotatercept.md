@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Sotatercept"
 predicted_indications: ["acute lymphoblastic leukemia (disease)", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis", "diabetic cataract", "HER2 positive breast carcinoma", "transitional cell carcinoma", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant"]
 last_modified_at: 2026-10-16
-description: "Sotatercept：預測新適應症為急性淋巴性白血病 (Acute Lymphoblastic Leukemia)（證據等級 L5）。原適應症：適用於治療患有特發性或遺傳性肺動脈高壓的成人病人"
+description: "Sotatercept：預測新適應症為急性淋巴性白血病（證據等級 L5）。原適應症：適用於治療患有特發性或遺傳性肺動脈高壓的成人病人"
 ---
 
 # Sotatercept
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**急性淋巴性白血病 (Acute Lymphoblastic Le
 |------|------|
 | 原適應症 | 適用於治療患有特發性或遺傳性肺動脈高壓的成人病人（註：台灣現有許可證歸類為複方，無單方有效許可證，此處引用該許可證所載適應症） |
 | 預測新適應症 | 急性淋巴性白血病 (Acute Lymphoblastic Leukemia) |
-| TxGNN 預測分數 | 99.78% |
+| TxGNN 預測分數 | 0.9978 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

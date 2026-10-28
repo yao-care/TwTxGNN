@@ -1,40 +1,21 @@
 drug_name,evidence_level,indication_count,url
-Acyclovir,L2,10,https://twtxgnn.yao.care/drugs/acyclovir/
-Amcinonide,L2,8,https://twtxgnn.yao.care/drugs/amcinonide/
-Anastrozole,L1,6,https://twtxgnn.yao.care/drugs/anastrozole/
-Betamethasone,L2,10,https://twtxgnn.yao.care/drugs/betamethasone/
+Betamethasone,L2,8,https://twtxgnn.yao.care/drugs/betamethasone/
 Busulfan,L2,10,https://twtxgnn.yao.care/drugs/busulfan/
-Carboplatin,L1,10,https://twtxgnn.yao.care/drugs/carboplatin/
-Clomipramine,L1,10,https://twtxgnn.yao.care/drugs/clomipramine/
-Cyclandelate,L2,10,https://twtxgnn.yao.care/drugs/cyclandelate/
+Clomipramine,L1,8,https://twtxgnn.yao.care/drugs/clomipramine/
 Dexamethasone,L2,10,https://twtxgnn.yao.care/drugs/dexamethasone/
-Dexketoprofen,L1,10,https://twtxgnn.yao.care/drugs/dexketoprofen/
-Docetaxel,L1,10,https://twtxgnn.yao.care/drugs/docetaxel/
-Doxorubicin,L1,10,https://twtxgnn.yao.care/drugs/doxorubicin/
-Emedastine,L2,2,https://twtxgnn.yao.care/drugs/emedastine/
-Everolimus,L2,10,https://twtxgnn.yao.care/drugs/everolimus/
-Fosfomycin,L2,10,https://twtxgnn.yao.care/drugs/fosfomycin/
-Gemcitabine,L1,10,https://twtxgnn.yao.care/drugs/gemcitabine/
+Doxorubicin,L1,8,https://twtxgnn.yao.care/drugs/doxorubicin/
+Everolimus,L2,8,https://twtxgnn.yao.care/drugs/everolimus/
 Hyaluronic Acid,L2,10,https://twtxgnn.yao.care/drugs/hyaluronic_acid/
 Icatibant,L1,7,https://twtxgnn.yao.care/drugs/icatibant/
-Ipratropium,L1,10,https://twtxgnn.yao.care/drugs/ipratropium/
-Letrozole,L1,10,https://twtxgnn.yao.care/drugs/letrozole/
-Magnesium Sulfate,L1,10,https://twtxgnn.yao.care/drugs/magnesium_sulfate/
+Magnesium Sulfate,L1,9,https://twtxgnn.yao.care/drugs/magnesium_sulfate/
 Mycophenolate Mofetil,L2,10,https://twtxgnn.yao.care/drugs/mycophenolate_mofetil/
 Nepafenac,L2,10,https://twtxgnn.yao.care/drugs/nepafenac/
 Oteracil,L2,10,https://twtxgnn.yao.care/drugs/oteracil/
-Paclitaxel,L1,10,https://twtxgnn.yao.care/drugs/paclitaxel/
-Prednisolone,L2,10,https://twtxgnn.yao.care/drugs/prednisolone/
+Pravastatin,L2,6,https://twtxgnn.yao.care/drugs/pravastatin/
+Prednisolone,L2,9,https://twtxgnn.yao.care/drugs/prednisolone/
 Prednisone,L2,10,https://twtxgnn.yao.care/drugs/prednisone/
 Regorafenib,L2,8,https://twtxgnn.yao.care/drugs/regorafenib/
-Ribavirin,L2,10,https://twtxgnn.yao.care/drugs/ribavirin/
+Ribavirin,L2,9,https://twtxgnn.yao.care/drugs/ribavirin/
 Ropinirole,L2,10,https://twtxgnn.yao.care/drugs/ropinirole/
-Sorafenib,L2,10,https://twtxgnn.yao.care/drugs/sorafenib/
-Temozolomide,L2,2,https://twtxgnn.yao.care/drugs/temozolomide/
 Terbutaline,L1,3,https://twtxgnn.yao.care/drugs/terbutaline/
-Tioconazole,L2,3,https://twtxgnn.yao.care/drugs/tioconazole/
-Tizanidine,L2,6,https://twtxgnn.yao.care/drugs/tizanidine/
-Tolvaptan,L1,10,https://twtxgnn.yao.care/drugs/tolvaptan/
-Trabectedin,L2,1,https://twtxgnn.yao.care/drugs/trabectedin/
-Vismodegib,L2,10,https://twtxgnn.yao.care/drugs/vismodegib/
-Vonoprazan,L2,10,https://twtxgnn.yao.care/drugs/vonoprazan/
+Tizanidine,L2,5,https://twtxgnn.yao.care/drugs/tizanidine/

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sacubitril
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 251
-evidence_level: L3
+evidence_level: L5
 indication_count: 5
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
-last_modified_at: 2026-10-16
-description: "Sacubitril：預測新適應症為糖尿病腎病變 (Diabetic Nephropathy)（證據等級 L3）。原適應症：治療慢性心臟衰竭（紐約心臟學會 [NYHA] 第二級至第四級）且左心室射出分率降低的病人，減少心血管死亡和心臟衰竭住院風險"
+last_modified_at: 2026-10-27
+description: "Sacubitril：預測新適應症為腦小血管病 1 型（伴或不伴眼部異常）(brain small vessel disease 1 with or without ocular anomalies)（證據等級 L5）。原適應症：治療慢性心臟衰竭（紐約心臟學會[NYHA]第二級至第四級）且左心室射出分率降低的病人，減少心血管死亡和心臟衰竭住院風險"
 ---
 
 # Sacubitril
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **5** 個
+證據等級: **L5** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,73 +33,44 @@ description: "Sacubitril：預測新適應症為糖尿病腎病變 (Diabetic Nep
 
 </div>
 
-## Sacubitril：從慢性心臟衰竭到糖尿病腎病變
+## Sacubitril：神經腎素抑制劑 → 腦小血管病 1 型（伴或不伴眼部異常）(brain small vessel disease 1 with or without ocular anomalies)
 {: .text-alpha }
 
 ## 一句話總結
 
-Sacubitril 是一種腦啡肽酶（neprilysin）抑制劑，原本用於治療慢性心臟衰竭。
-TxGNN 模型預測它可能對**糖尿病腎病變 (Diabetic Nephropathy)** 有效，
-目前有 **1 個臨床試驗**和 **15 篇文獻**支持這個方向，但多數為動物或機轉研究。
-
-<!-- review:begin sacubitril-lit-count-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：本頁「文獻證據」表只列出 10 篇（PMID）；其餘 5 篇頁面上沒有列出，無法從本頁查證。原文保留。依據：[本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/sacubitril/)。
-
-<!-- review:end sacubitril-lit-count-2026-10-16 -->
-
----
+Sacubitril 是神經腎素（neprilysin）抑制劑，屬於心衰竭治療藥物的成分之一。
+TxGNN 模型預測它可能對**腦小血管病 1 型（伴或不伴眼部異常）(brain small vessel disease 1 with or without ocular anomalies)** 有效，
+但目前**沒有臨床試驗**，僅有 **1 篇**間接相關文獻（針對全身性右心室衰竭，並非此疾病），證據非常有限。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療慢性心臟衰竭（紐約心臟學會 [NYHA] 第二級至第四級）且左心室射出分率降低的病人，減少心血管死亡和心臟衰竭住院風險 |
-| 預測新適應症 | 糖尿病腎病變 (Diabetic Nephropathy) |
-| TxGNN 預測分數 | 99.50% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 治療慢性心臟衰竭（紐約心臟學會[NYHA]第二級至第四級）且左心室射出分率降低的病人，減少心血管死亡和心臟衰竭住院風險。; 治療慢性心臟衰竭; 治療慢性心衰竭 |
+| 預測新適應症 | 腦小血管病 1 型（伴或不伴眼部異常）(brain small vessel disease 1 with or without ocular anomalies) |
+| TxGNN 預測分數 | 0.9958 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 4／有效複方 3／已註銷 0） |
-| 建議決策 | Proceed with Guardrails |
-
-註：TxGNN 分數排名第一的預測為「腦小血管疾病」，但該項僅有模型預測，缺乏實質證據（L5）。本報告以證據最完整的「糖尿病腎病變」作為主要評估對象。
-
----
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Sacubitril 抑制腦啡肽酶，使利鈉肽（natriuretic peptides）濃度上升。臨床上它與纈沙坦（valsartan，一種 AT1 受體阻斷劑）組成複方使用，同時阻斷腎素-血管收縮素系統。目前缺乏 DrugBank 的詳細作用機轉資料，以上機轉根據預測資料中的說明整理。
+目前缺乏詳細的作用機轉資料。就已知資訊，sacubitril 是神經腎素抑制劑，可減少利尿鈉肽的分解、提高其濃度，通常與纈沙坦（valsartan）組成複方使用。
 
-心臟衰竭與糖尿病腎病變常合併出現，兩者共享高血壓、血流動力學異常與發炎等病理機轉。動物實驗顯示，sacubitril/valsartan 可能降低腎絲球內壓力、減輕氧化壓力、NF-κB 介導的發炎與纖維化，進而保護腎臟。
+腦小血管病 1 型與 COL4A1 基因相關，屬於血管與基底膜的罕見遺傳疾病。目前沒有資料顯示神經腎素抑制與此疾病的病理機轉之間有可信的關聯。
 
-此外，這個藥已在合併糖尿病的心衰竭（HFrEF）病人中使用。PARADIGM-HF 試驗的次要分析也探討了其對第 2 型糖尿病病人腎功能的影響，支持這個方向具有合理性。
-
----
+因此，這項預測目前僅來自 TxGNN 模型的計算結果，沒有機轉或臨床證據支持，應視為待驗證的假說。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT06501651](https://clinicaltrials.gov/study/NCT06501651) | Phase 4 | 未知 | 297 | Hyper-Save 研究：比較 sacubitril/valsartan 與 valsartan 用於原發性高血壓合併第 2 型糖尿病腎病變，治療 12 週；預計 2025 年 4 月完成，目前尚無結果 |
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [37549515](https://pubmed.ncbi.nlm.nih.gov/37549515/) | 2023 | 隨機分組研究（Cohort） | Int Immunopharmacol | 112 位糖尿病腎病變合併高血壓病人，nifedipine 控釋錠合併 sacubitril/valsartan 與合併 valsartan 比較腎功能等指標 |
-| [29661699](https://pubmed.ncbi.nlm.nih.gov/29661699/) | 2018 | 次要分析 | Lancet Diabetes Endocrinol | PARADIGM-HF 次要分析，探討腦啡肽酶抑制對第 2 型糖尿病合併心衰竭病人腎功能的影響 |
-| [40416927](https://pubmed.ncbi.nlm.nih.gov/40416927/) | 2025 | 臨床研究 | Diabetes Metab Syndr Obes | 以 BOLD-MRI 評估 sacubitril/valsartan 對糖尿病腎病變病人的腎臟保護作用 |
-| [37625003](https://pubmed.ncbi.nlm.nih.gov/37625003/) | 2023 | Review | Diabetes Care | 糖尿病腎病變治療進展，說明腎素-血管收縮素系統阻斷仍是基石 |
-| [35165832](https://pubmed.ncbi.nlm.nih.gov/35165832/) | 2022 | Review | Curr Hypertens Rep | 新型降壓藥物與高血壓靶器官損傷的緩解 |
-| [34734359](https://pubmed.ncbi.nlm.nih.gov/34734359/) | 2023 | Review | Heart Fail Rev | 糖尿病合併 HFrEF 病人使用疾病修飾藥物 |
-| [35992034](https://pubmed.ncbi.nlm.nih.gov/35992034/) | 2022 | 動物 | Diabetes Metab Syndr Obes | 在早期糖尿病腎病變大鼠中，經由抑制 NLRP3 發炎體路徑改善疾病進展 |
-| [36589853](https://pubmed.ncbi.nlm.nih.gov/36589853/) | 2022 | 動物 | Front Endocrinol | 在小鼠中改善糖尿病腎病變並調節腸道菌群 |
-| [32596035](https://pubmed.ncbi.nlm.nih.gov/32596035/) | 2020 | 動物 | PeerJ | LCZ696 在大鼠中減輕氧化壓力、發炎與腎絲球硬化 |
-| [33870733](https://pubmed.ncbi.nlm.nih.gov/33870733/) | 2021 | 動物 | Am J Physiol Renal Physiol | 在 db/db 與 KKAy 小鼠中，效果與 valsartan 相比有差異 |
-
----
+| [37169551](https://pubmed.ncbi.nlm.nih.gov/37169551/) | 2023 | Cohort | Heart | 探討 sacubitril/valsartan 對全身性右心室衰竭成人病人的耐受性與效果；並未直接研究腦小血管病 |
 
 ## 台灣上市資訊
 
@@ -130,30 +101,23 @@ Sacubitril 抑制腦啡肽酶，使利鈉肽（natriuretic peptides）濃度上�
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-- **藥物交互作用**：已查詢到 6 項中度交互作用，包括 Nitisinone、Rosuvastatin、Simvastatin、Cobicistat、Revefenacin 與 Alpelisib。
+- **藥物交互作用**：資料庫共記錄 6 項中度交互作用，包括 Nitisinone、Rosuvastatin、Simvastatin、Cobicistat、Revefenacin、Alpelisib。
 
 其他警語與禁忌症請參考原廠仿單。
 
----
-
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 已有 1 項針對糖尿病腎病變的 Phase 4 隨機試驗登記，另有多項動物研究、小型臨床研究與 PARADIGM-HF 次要分析，機轉上合理。但該試驗狀態未知、尚無結果，且尚無已完成的 Phase 3 RCT，因此證據等級為 L3，需謹慎推進。
-- 本報告建議以研究型方式推進，不宜直接視為標準治療。
+- 此預測僅有模型分數，沒有任何直接研究該疾病的臨床試驗或文獻，也缺乏合理的機轉連結，證據等級為 L5。
 
 **若要推進需要：**
-- 確認 NCT06501651 的完成狀態與結果。
-- 取得針對糖尿病腎病變、以腎臟結局為主要終點的更大型 RCT 證據。
-- 補充 DrugBank 作用機轉資料。
-- 擬定安全監測計畫，特別關注腎功能、血鉀與低血壓，並檢視與上述交互作用藥物的併用風險。
-- 其他預測（如腦小血管疾病、類風濕性關節炎、血紅素病變等）目前僅有模型預測、缺乏機轉與臨床證據，建議暫緩（Hold）。
+- 取得 sacubitril 詳細的作用機轉資料，並釐清與 COL4A1 相關血管病變的可能關聯
+- 進行前臨床研究（如細胞或動物模型）驗證是否有益
+- 評估罕見疾病族群使用的安全性，以及與現有用藥的交互作用
 
 <!-- review:begin log -->
 
@@ -163,7 +127,7 @@ Sacubitril 抑制腦啡肽酶，使利鈉肽（natriuretic peptides）濃度上�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-16 | 一句話總結稱有 15 篇文獻 | 加註 | [本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/sacubitril/) |
+| 2026-10-16 | 一句話總結稱有 15 篇文獻 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/sacubitril/) |
 
 <!-- review:end log -->
 

@@ -4,9 +4,9 @@ title: Methylprednisone
 parent: 僅模型預測 (L5)
 nav_order: 178
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 monitor_inn: "Methylprednisone"
-predicted_indications: ["leprosy", "coronary artery disease", "candidiasis", "myocardial ischemia", "pneumocystosis", "anomalous left coronary artery from the pulmonary artery", "Bacteroidaceae infectious disease", "thrombocytopenia", "anaerobic bacteria infectious disease", "marcothrombocytopenia with mitral valve insufficiency"]
+predicted_indications: ["leprosy", "coronary artery disease", "candidiasis", "myocardial ischemia", "pneumocystosis", "anomalous left coronary artery from the pulmonary artery", "Bacteroidaceae infectious disease"]
 last_modified_at: 2026-10-16
 description: "Methylprednisone：預測新適應症為痲瘋病 (Leprosy)（證據等級 L5）。原適應症：腎上腺皮質機能不全、劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染"
 ---
@@ -14,7 +14,7 @@ description: "Methylprednisone：預測新適應症為痲瘋病 (Leprosy)（證�
 # Methylprednisone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**痲瘋病 (Leprosy)** 有效，但目前**沒有
 |------|------|
 | 原適應症 | 腎上腺皮質機能不全、劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染 |
 | 預測新適應症 | 痲瘋病 (Leprosy) |
-| TxGNN 預測分數 | 99.49% |
+| TxGNN 預測分數 | 0.9949 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 11 張） |
 | 許可證數 | 11 張（有效單方 3／有效複方 0／已註銷 8） |
 | 建議決策 | Hold |
 

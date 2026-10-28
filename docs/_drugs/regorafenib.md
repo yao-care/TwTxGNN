@@ -6,7 +6,7 @@ nav_order: 241
 evidence_level: L2
 indication_count: 8
 monitor_inn: "Regorafenib"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma"]
 last_modified_at: 2026-10-16
 description: "Regorafenib：預測新適應症為脂肪肉瘤 (Liposarcoma)（證據等級 L2）。原適應症：大腸直腸癌（轉移性，曾接受含 fluoropyrimidine、oxaliplatin、irinotecan 之化療及抗 VEGF 等療法）"
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，目前有 
 |------|------|
 | 原適應症 | 大腸直腸癌（轉移性，曾接受含 fluoropyrimidine、oxaliplatin、irinotecan 之化療及抗 VEGF 等療法）；腸胃道間質腫瘤；肝細胞癌（曾接受 sorafenib 治療者） |
 | 預測新適應症 | 脂肪肉瘤 (Liposarcoma) |
-| TxGNN 預測分數 | 99.76% |
+| TxGNN 預測分數 | 0.9976 |
 | 證據等級 | L2 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

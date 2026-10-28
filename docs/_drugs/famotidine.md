@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Famotidine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 105
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Famotidine：預測新適應症為十二指腸胃逆流 (Duodenogastric Reflux)（證據等級 L3）。原適應症：胃潰瘍、十二指腸潰瘍、逆流性食道炎、ZOLLINGER-ELLISON症候群"
+evidence_level: L5
+indication_count: 4
 monitor_inn: "Famotidine"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+last_modified_at: 2026-10-27
+description: "Famotidine：預測新適應症為十二指腸阻塞 (duodenal obstruction)（證據等級 L5）。原適應症：胃潰瘍、十二指腸潰瘍、逆流性食道炎、ＺＯＬＬＩＮＧＥＲ－ＥＬＬＩＳＯＮ症候群"
 ---
 
 # Famotidine
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,55 +33,45 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-## Famotidine：從胃潰瘍、十二指腸潰瘍到十二指腸胃逆流
+## Famotidine：H2 受體拮抗劑 → 十二指腸阻塞 (duodenal obstruction)
 {: .text-alpha }
 
 ## 一句話總結
 
-Famotidine（法莫替丁）是組織胺 H2 受體拮抗劑，原本用於胃潰瘍、十二指腸潰瘍、逆流性食道炎與 Zollinger-Ellison 症候群。
-TxGNN 模型預測它可能對**十二指腸胃逆流 (Duodenogastric Reflux)** 有效，
-目前**無臨床試驗**登記，僅有 **2 篇文獻**支持這個方向，證據偏弱。
-
----
+Famotidine 是一種組織胺 H2 受體拮抗劑，屬於抑制胃酸分泌的藥物。
+TxGNN 模型預測它可能對**十二指腸阻塞 (duodenal obstruction)** 有效，
+但目前**沒有相關臨床試驗**，僅有 **2 篇**間接相關的病例報告類文獻，且都沒有直接的 famotidine 資料。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 胃潰瘍、十二指腸潰瘍、逆流性食道炎、ZOLLINGER-ELLISON症候群 |
-| 預測新適應症 | 十二指腸胃逆流 (Duodenogastric Reflux) |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 胃潰瘍、十二指腸潰瘍、逆流性食道炎、ＺＯＬＬＩＮＧＥＲ－ＥＬＬＩＳＯＮ症候群; 住院病人伴隨有病理性胃酸分泌過高之症狀，頑固性（難治的）十二指腸潰瘍，或不能口服之病人消化性潰瘍之短期替代療法。; 住院病人伴隨有病理性胃酸分泌過高之症狀，頑固性（難治的）十二指腸潰瘍或不能口服之病人消化性潰瘍之短期替代療法。; 胃潰瘍、十二指腸潰瘍、吻合部潰瘍上部消化管出血（消化性潰瘍、急性ＳＴＲＥＳＳ潰瘍、出血性胃炎而引起的）、逆流性食道炎ＺＯＬＬＩＮＧＥＲ－ＥＬＬＩＳＯＮ症候群。; 院病人伴隨有病理性胃酸分泌過高之症狀，頑固性(難治的)十二指腸潰瘍，或不能口服之病人消化性潰瘍之短期替代療法。; 住院病人伴隨有 |
+| 預測新適應症 | 十二指腸阻塞 (duodenal obstruction) |
+| TxGNN 預測分數 | 0.9999 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 58 張／共 102 張） |
 | 許可證數 | 102 張（有效單方 58／有效複方 0／已註銷 44） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Famotidine 屬於 H2 受體拮抗劑，會阻斷胃壁細胞上的組織胺 H2 受體，降低胃酸分泌。
+目前缺乏詳細的作用機轉資料。根據已知資訊，famotidine 屬於 H2 受體拮抗劑，透過阻斷胃壁細胞上的組織胺 H2 受體來減少胃酸分泌。
 
-十二指腸胃逆流是十二指腸內容物（含膽汁、胰液）逆流至胃部，造成黏膜損傷。降低胃酸可能減輕逆流物與胃酸共同造成的黏膜刺激，因此在機轉上有一定合理性。
+十二指腸阻塞是機械性問題，常見原因包括潰瘍後狹窄、克隆氏症侵犯或吻合部併發症。抑制胃酸或許能協助處理伴隨的潰瘍性疾病，但無法解除機械性阻塞本身。
 
-不過，famotidine 並不處理膽汁或鹼性逆流本身，因此即使有效，也較可能只是緩解症狀，而非針對病因治療。
-
----
+下列兩篇文獻僅為手術病例，沒有直接研究 famotidine 對十二指腸阻塞的效果，因此證據等級定為 L5，預測目前只是模型層級的推論。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
-
----
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [12532466](https://pubmed.ncbi.nlm.nih.gov/12532466/) | 2003 | Cohort | World J Gastroenterol | 探討 famotidine 對重症病人胃食道逆流及十二指腸胃食道逆流的影響及可能機轉，並分析相關因子 |
-| [16259441](https://pubmed.ncbi.nlm.nih.gov/16259441/) | 2004 | Review | Eksp Klin Gastroenterol | 評估 famotidine 20 mg 每日兩次用於早期胃十二指腸逆流疾病（Savary-Miller 0–1 級）的療效 |
-
----
+| [8165479](https://pubmed.ncbi.nlm.nih.gov/8165479/) | 1994 | Case series | Surgical Endoscopy | 巨大吻合部潰瘍的描述，這是胃腸吻合術後的併發症，可造成疼痛、出血、阻塞、穿孔與瘻管；未涉及 famotidine |
+| [9306611](https://pubmed.ncbi.nlm.nih.gov/9306611/) | 1997 | Case series | Surgery Today | 十二指腸克隆氏症造成幽門區狹窄與胃出口阻塞的手術治療個案；未涉及 famotidine |
 
 ## 台灣上市資訊
 
@@ -101,30 +91,24 @@ TxGNN 模型預測它可能對**十二指腸胃逆流 (Duodenogastric Reflux)** 
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共查得 639 筆交互作用，主要為中度等級，例如 Abiraterone、Acalabrutinib、Tramadol、Amiodarone、Amitriptyline、Aripiprazole、Aminophylline 等；與 Alendronic acid、氫氧化鋁（Aluminum hydroxide）為輕度。
-- **知識圖譜標示的疾病禁忌關聯**（來自模型知識圖譜，並非仿單文字，僅供參考）：腎臟疾病、肝臟疾病、腎功能不全、膽囊疾病、腎結石、腹瀉、便秘，以及胃癌相關疾病等。
+- **藥物交互作用**：資料中共有 639 筆交互作用紀錄，列出的項目多為中度，例如 abiraterone、acalabrutinib、tramadol、amiodarone、amitriptyline、aripiprazole 等；與 alendronic acid、aluminum hydroxide 之交互作用為輕度。
 
 其他警語與禁忌症請參考原廠仿單。
-
----
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 目前僅有 2 篇文獻（1 篇世代研究、1 篇回顧），沒有任何臨床試驗，且 famotidine 無法處理逆流的膽汁成分，預期效益多為症狀緩解。
-- 現有證據不足以支持立即推進。
+- 沒有任何臨床試驗或直接研究 famotidine 用於十二指腸阻塞，現有文獻只是手術病例。
+- H2 阻斷劑無法處理機械性阻塞，預測分數雖高，但缺乏機轉與臨床支持。
 
 **若要推進需要：**
-- 取得 famotidine 作用機轉的完整資料。
-- 以十二指腸胃逆流為主要族群，設計具對照組的臨床試驗，並以症狀緩解與內視鏡黏膜改善為終點。
-- 與 PPI 或促胃腸動力藥物比較，確認 famotidine 的相對價值。
-- 核對仿單，確認腎功能不全等族群的劑量調整與安全性監測。
+- 釐清阻塞的病因（潰瘍性狹窄、克隆氏症等），評估 famotidine 是否只能作為輔助的胃酸抑制治療。
+- 取得詳細的作用機轉資料。
+- 進行針對性的文獻回顧或回溯性研究，找出直接涉及 famotidine 與十二指腸阻塞的資料。
 
 <!-- review:begin log -->
 

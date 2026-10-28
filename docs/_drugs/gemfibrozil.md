@@ -4,17 +4,17 @@ title: Gemfibrozil
 parent: 中證據等級 (L3-L4)
 nav_order: 124
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Gemfibrozil：預測新適應症為類風濕性關節炎 (Rheumatoid Arthritis)（證據等級 L4）。原適應症：降血脂劑"
 monitor_inn: "Gemfibrozil"
-predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "obsolete familial combined hyperlipidemia", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
+predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 ---
 
 # Gemfibrozil
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L4** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 |------|------|
 | 原適應症 | 降血脂劑 |
 | 預測新適應症 | 類風濕性關節炎 (Rheumatoid Arthritis) |
-| TxGNN 預測分數 | 99.90% |
+| TxGNN 預測分數 | 0.9990 |
 | 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 19 張／共 43 張） |
 | 許可證數 | 43 張（有效單方 19／有效複方 0／已過期 1／已註銷 23） |
 | 建議決策 | Hold |
 

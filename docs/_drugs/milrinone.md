@@ -4,7 +4,7 @@ title: Milrinone
 parent: 僅模型預測 (L5)
 nav_order: 181
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Milrinone：預測新適應症為禿髮 (Alopecia)（證據等級 L5）。原適應症：充血性心衰竭的短期療法"
 monitor_inn: "Milrinone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "conge
 # Milrinone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**禿髮 (Alopecia)** 有效，但目前**沒有�
 |------|------|
 | 原適應症 | 充血性心衰竭的短期療法 |
 | 預測新適應症 | 禿髮 (Alopecia) |
-| TxGNN 預測分數 | 99.91% |
+| TxGNN 預測分數 | 0.9991 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 2／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
@@ -112,7 +112,7 @@ Milrinone 透過抑制 PDE3（磷酸二酯酶 3）提高細胞內 cAMP，在心�
 **決策：Hold**
 
 **理由：**
-- 這項預測只有模型分數支持（99.91%），沒有臨床試驗、文獻或明確的機轉證據，證據等級為 L5。
+- 這項預測只有模型分數支持（0.9991），沒有臨床試驗、文獻或明確的機轉證據，證據等級為 L5。
 - 現有劑型是需要監測的靜脈注射劑，風險高，與禿髮的治療需求不匹配。
 
 **若要推進需要：**

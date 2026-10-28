@@ -4,17 +4,17 @@ title: Chlorobutanol
 parent: 僅模型預測 (L5)
 nav_order: 64
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Chlorobutanol"
-predicted_indications: ["erectile dysfunction (disease)", "migraine disorder", "migraine with brainstem aura", "Tourette syndrome", "trichotillomania", "attention deficit-hyperactivity disorder", "migraine with or without aura, susceptibility to", "localized pagetoid reticulosis", "faciodigitogenital syndrome", "atrophoderma vermiculata"]
+predicted_indications: ["erectile dysfunction (disease)", "migraine disorder", "migraine with brainstem aura", "Tourette syndrome", "trichotillomania", "attention deficit-hyperactivity disorder", "localized pagetoid reticulosis", "faciodigitogenital syndrome", "atrophoderma vermiculata"]
 last_modified_at: 2026-10-16
-description: "Chlorobutanol：預測新適應症為勃起功能障礙 (Erectile Dysfunction)（證據等級 L5）。原適應症：防腐劑"
+description: "Chlorobutanol：預測新適應症為Erectile dysfunction (disease)（證據等級 L5）。原適應症：防腐劑"
 ---
 
 # Chlorobutanol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,8 @@ description: "Chlorobutanol：預測新適應症為勃起功能障礙 (Erectile 
 
 </div>
 
-## Chlorobutanol：從防腐劑到勃起功能障礙
+## Chlorobutanol: Erectile dysfunction (disease)
 {: .text-alpha }
-
-<!-- review:begin chlorobutanol-original-indication-combo-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Chlorobutanol：從結膜炎與角膜炎到勃起功能障礙」。台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水（如內衛藥製字第010694號「人人」眼用滴劑，phenylephrine＋chlorobutanol）的適應症，屬整個複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end chlorobutanol-original-indication-combo-title-2026-10-16 -->
 
 ## 一句話總結
 
@@ -58,10 +52,10 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證 3 張皆為複方（眼用滴劑、鼻用液、外用皮膚製劑），適應症屬整個複方 |
-| 預測新適應症 | 勃起功能障礙 (Erectile Dysfunction) |
-| TxGNN 預測分數 | 99.79% |
+| 預測新適應症 | Erectile dysfunction (disease) |
+| TxGNN 預測分數 | 0.9979 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市（僅複方有效） |
+| 台灣上市 | 上市中（有效許可證 3 張／共 25 張） |
 | 許可證數 | 25 張（有效單方 0／有效複方 3／已過期 1／已註銷 21） |
 | 建議決策 | Hold |
 
@@ -122,7 +116,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.79%），但沒有任何臨床試驗或文獻，證據等級僅為 L5。
+- 預測分數雖高（0.9979），但沒有任何臨床試驗或文獻，證據等級僅為 L5。
 - 作用機轉資料缺乏，與勃起功能障礙之間也沒有可辨識的藥理關聯；現有安全性資料也不足以支持轉換用途。
 
 **若要推進需要：**
@@ -147,7 +141,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」為含 phenylephrine 複方眼藥水的適應症 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列已寫明單方許可證為防腐劑用途、眼部症狀屬複方；標題與一句話總結仍把眼部適應症算給本藥，另有查核紀錄更正；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表中 4 張成品皆為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以結膜炎與角膜炎為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以結膜炎與角膜炎為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結稱用於輔助治療結膜炎、角膜炎 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 原適應症稱有效許可證都用於眼部症狀 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步稱現有劑型含耳用 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |

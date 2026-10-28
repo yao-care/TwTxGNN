@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydroxyprogesterone Caproate
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 138
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-16
 description: "Hydroxyprogesterone Caproate：預測新適應症為子宮內膜異位症 (Endometriosis of uterus)（證據等級 L4）。原適應症：先兆流產、習慣流產、子宮機能性出血、痛經、月經困難"
 monitor_inn: "Hydroxyprogesterone caproate"
-predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis in cutaneous scar", "endometriosis of rectovaginal septum and vagina", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
+predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 ---
 
 # Hydroxyprogesterone Caproate
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**子宮內膜異位症 (Endometriosis of uterus)*
 |------|------|
 | 原適應症 | 先兆流產、習慣流產、子宮機能性出血、痛經、月經困難 |
 | 預測新適應症 | 子宮內膜異位症 (Endometriosis of uterus) |
-| TxGNN 預測分數 | 99.98% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9998 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 23 張） |
 | 許可證數 | 23 張（有效單方 3／有效複方 0／已註銷 20） |
 | 建議決策 | Hold |
 

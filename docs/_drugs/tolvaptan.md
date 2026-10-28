@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 285
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Tolvaptan：預測新適應症為多囊性腎臟病第 3 型…（證據等級 L1）。原適應症：自體顯性多囊性腎臟病（ADPKD），適用於 eGFR 大於 25 mL/min/1.73m² 且已出現病情迅速惡化跡象之慢性腎臟病成人患者"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+last_modified_at: 2026-10-27
+description: "Tolvaptan：預測新適應症為腎肝胰發育不良 (renal-hepatic-pancreatic dysplasia)（證據等級 L5）。原適應症：適用於自體顯性多囊性腎臟病(ADPKD)且eGFR大於25mL/min/1.73m2之慢性腎臟病成人患者，已出現病情迅速惡化跡象…"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,34 @@ predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic inte
 
 </div>
 
-## Tolvaptan：從自體顯性多囊性腎臟病到 PKD3 型多囊性腎臟病（合併或不合併多囊肝）
+## Tolvaptan：血管加壓素 V2 受體拮抗劑 → 腎肝胰發育不良 (renal-hepatic-pancreatic dysplasia)
 {: .text-alpha }
 
 ## 一句話總結
 
-Tolvaptan 是一種口服血管加壓素 V2 受體拮抗劑，原本用於延緩自體顯性多囊性腎臟病（ADPKD）的惡化，以及治療心臟衰竭與 SIADH 引起的低血鈉症。
-TxGNN 模型預測它可能對**多囊性腎臟病第 3 型，合併或不合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease)** 有效。
-目前本報告彙整的資料中沒有登記的臨床試驗，但有 **19 篇文獻**支持這個方向，其中包含 2 篇 RCT（TEMPO 3:4 與 REPRISE）與 1 篇統合分析。
+Tolvaptan 是口服的血管加壓素 V2 受體拮抗劑，在台灣已有上市許可證。
+TxGNN 模型預測它可能對**腎肝胰發育不良 (renal-hepatic-pancreatic dysplasia)** 有效。
+目前**沒有相關臨床試驗，也沒有直接研究此疾病的文獻**，證據僅來自模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 自體顯性多囊性腎臟病（ADPKD），適用於 eGFR 大於 25 mL/min/1.73m² 且已出現病情迅速惡化跡象之慢性腎臟病成人患者 |
-| 預測新適應症 | 多囊性腎臟病第 3 型，合併或不合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease) |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L1（資料彙整的評等；但上述 RCT 針對 ADPKD 整體，並非專門針對 PKD3，見下方說明） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 適用於自體顯性多囊性腎臟病(ADPKD)且eGFR大於25mL/min/1.73m2之慢性腎臟病成人患者，已出現病情迅速惡化跡象，用以延緩自體顯性多囊性腎臟病之囊泡的生長及腎功能的惡化。; SAMSCA適用於治療心臟衰竭及抗利尿激素分泌不當症候群（SIADH）引起之低血鈉症。 |
+| 預測新適應症 | 腎肝胰發育不良 (renal-hepatic-pancreatic dysplasia) |
+| TxGNN 預測分數 | 0.9998 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 7／有效複方 0／已註銷 0） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Tolvaptan 是選擇性的血管加壓素 V2 受體拮抗劑。V2 受體被阻斷後，腎臟細胞內的 cAMP 會下降，而 cAMP 正是驅動囊泡液體分泌與囊泡細胞增生的關鍵因子。原廠機轉資料欄位目前缺漏，但上述機轉在文獻中有充分描述（如 PMID 28614813、18434616）。
+本報告彙整的資料缺乏詳細的作用機轉紀錄。依已知藥理，tolvaptan 阻斷腎臟集合管的 V2 受體，進而降低細胞內 cAMP 訊號。
 
-PKD3（GANAB 基因相關）屬於 ADPKD 的遺傳亞型，與 PKD1/PKD2 同樣呈現 cAMP 驅動的囊泡形成，並可合併多囊肝。因此，Tolvaptan 對 PKD1/PKD2 為主的 ADPKD 所展現的療效，可合理外推至 PKD3，這也是模型給出高分的原因。
+腎肝胰發育不良屬於纖毛病變 (ciliopathy)，特徵是腎臟囊性發育不良。在囊性腎病變中，cAMP 訊號被認為會促進囊泡生長。因此從概念上看，V2 拮抗與降低 cAMP 有可能適用，這也是模型給出高分的合理背景。
 
-需要注意的是，目前的 RCT（TEMPO 3:4、REPRISE）主要納入 PKD1/PKD2 族群，**沒有專門針對 PKD3 的直接證據**，此為外推而來。此外，ADPKD 本身已是 Tolvaptan 在台灣的核准適應症，所以這項預測更像是對既有適應症的基因亞型擴充，而非全新疾病領域。
+但這僅是機轉層面的推測。沒有任何臨床試驗或文獻在此疾病中驗證 tolvaptan，這個假說尚未被檢驗。
 
 ## 臨床試驗證據
 
@@ -68,18 +68,7 @@ PKD3（GANAB 基因相關）屬於 ADPKD 的遺傳亞型，與 PKD1/PKD2 同樣�
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [23121377](https://pubmed.ncbi.nlm.nih.gov/23121377/) | 2012 | RCT | N Engl J Med | TEMPO 3:4 試驗：V2 受體拮抗劑可抑制囊泡生長、延緩腎功能下降（早期 ADPKD） |
-| [29105594](https://pubmed.ncbi.nlm.nih.gov/29105594/) | 2017 | RCT | N Engl J Med | 針對較晚期 ADPKD 的試驗，評估療效與安全性；先前試驗顯示肝臟轉胺酶與膽紅素上升較多 |
-| [39356039](https://pubmed.ncbi.nlm.nih.gov/39356039/) | 2024 | 統合分析 | Cochrane Database Syst Rev | 評估各種延緩 ADPKD 進展的介入措施 |
-| [40126492](https://pubmed.ncbi.nlm.nih.gov/40126492/) | 2025 | Review | JAMA | ADPKD 綜述，涵蓋疾病特徵與治療 |
-| [41771281](https://pubmed.ncbi.nlm.nih.gov/41771281/) | 2026 | Review | Lancet | Tolvaptan 為疾病修飾治療，建議高風險族群早期使用 |
-| [40844441](https://pubmed.ncbi.nlm.nih.gov/40844441/) | 2025 | Review | Am J Kidney Dis | 腎體積、腎功能與基因突變可預測進展風險，以篩選適合疾病修飾治療者 |
-| [40268755](https://pubmed.ncbi.nlm.nih.gov/40268755/) | 2025 | Review | Renal Failure | ADPKD 遺傳與臨床進展總覽，含腎外表現 |
-| [40726372](https://pubmed.ncbi.nlm.nih.gov/40726372/) | 2025 | Review | Curr Opin Nephrol Hypertens | Tolvaptan 為目前唯一獲 FDA 核准的疾病進展治療，另有新療法在發展中 |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | 多囊肝是 ADPKD 最常見的腎外表現；Tolvaptan 可延緩腎功能惡化與囊泡生長 |
-| [32392574](https://pubmed.ncbi.nlm.nih.gov/32392574/) | 2021 | Review | Pediatr Res | 討論青少年與年輕成人快速進展者使用 Tolvaptan |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -107,29 +96,25 @@ PKD3（GANAB 基因相關）屬於 ADPKD 的遺傳亞型，與 PKD1/PKD2 同樣�
 
 ## 安全性考量
 
-- **禁忌症（知識圖譜資料，非仿單文字）**：知識圖譜列出的藥物－疾病禁忌關聯包括肝衰竭、肝硬化、物質濫用/依賴、活動性消化性潰瘍、脫髓鞘疾病。
-- **肝臟安全性**：文獻指出 Tolvaptan 可使肝臟轉胺酶與膽紅素上升較多，需進行肝功能監測。
-- **藥物交互作用**：資料庫共收錄 128 項交互作用。主要例子包括：
-  - 重大（Major）：Clarithromycin
-  - 中度（Moderate）：Aprepitant、Dexamethasone、Miconazole、Rifaximin、Rolapitant、Empagliflozin，以及多種鉀補充劑（氯化鉀、檸檬酸鉀、碳酸氫鉀、葡萄糖酸鉀）
-  - 另需審視 CYP3A4 抑制劑與誘導劑的併用
+- **藥物交互作用**：本報告彙整的資料顯示共 128 筆交互作用紀錄。
+  - 嚴重程度為「重大 (Major)」者包括 **Clarithromycin**。
+  - 「中度 (Moderate)」者包括 Aprepitant、Dexamethasone、Empagliflozin、Rifaximin、Rolapitant，以及多種鉀製劑（Potassium citrate、Potassium chloride、Potassium bicarbonate、Potassium gluconate）。
+  - 「輕微 (Minor)」者包括 Fidaxomicin、Naloxegol、Prucalopride。
 
-其餘警語與詳細禁忌症請參考原廠仿單。
+其他警語與禁忌請參考原廠仿單。此外，此預測族群若包含兒童，目前沒有兒童安全性資料可供參考。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-Tolvaptan 在 ADPKD 已有 Phase 3 RCT 與統合分析支持，並已於台灣取得 ADPKD 適應症；PKD3 與 PKD1/PKD2 共享 cAMP 驅動的囊泡形成機轉，外推合理。但目前缺乏 PKD3 專屬的臨床證據，且有肝損傷風險，因此需設置安全防護。
+- 預測分數雖高（0.9998），但沒有任何臨床試驗或直接研究此疾病的文獻，證據等級為 L5。
+- 機轉上的合理性僅是概念推測，尚無資料支持實際療效與安全性。
 
 **若要推進需要：**
-- 蒐集 PKD3（GANAB）患者使用 Tolvaptan 的臨床或真實世界資料
-- 建立肝功能監測計畫（用藥前與用藥期間定期檢測）
-- 確認病人符合仿單的 eGFR 門檻與快速惡化標準
-- 逐項審視併用藥物，特別是 CYP3A4 抑制劑與誘導劑
-- 補充詳細的作用機轉資料與完整仿單警語、禁忌症
-- 對於預測排名較後的其他疾病（如腎肝胰發育不良、卡里奧巨核間質性腎炎等），目前僅有模型預測、缺乏實質證據，建議暫不推進（Hold）
+- 補充詳細的作用機轉資料，並建立此疾病中 cAMP 與 V2 訊號相關性的前臨床證據。
+- 進行文獻與病例的系統性搜尋，確認是否有任何 tolvaptan 用於此疾病或相近腎臟纖毛病變的實證。
+- 若進入臨床探索，需設計針對此族群（可能含兒童）的安全性監測計畫，並評估與 Clarithromycin 等強效交互作用藥物的併用風險。
 
 <!-- review:begin log -->
 

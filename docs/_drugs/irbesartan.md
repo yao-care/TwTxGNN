@@ -4,17 +4,17 @@ title: Irbesartan
 parent: 僅模型預測 (L5)
 nav_order: 155
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-16
-description: "Irbesartan：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變"
+indication_count: 3
 monitor_inn: "Irbesartan"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+last_modified_at: 2026-10-27
+description: "Irbesartan：預測新適應症為惡性高血壓腎病變 (malignant hypertensive renal disease)（證據等級 L5）。原適應症：本態性高血壓之治療。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變"
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **4** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,66 +33,42 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## Irbesartan：從本態性高血壓到惡性高血壓性腎病變
+## Irbesartan：血管張力素 II 第一型受體阻斷劑 → 惡性高血壓腎病變 (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Irbesartan（艾比沙坦）是一種血管張力素 II 第一型受體（AT1）阻斷劑，原本用於治療本態性高血壓，以及併有第二型糖尿病的高血壓與糖尿病性腎病變。
-TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)** 有效。
-目前**沒有臨床試驗和文獻**直接支持此適應症，證據僅來自模型預測。
+Irbesartan 是一種血管張力素 II 第一型（AT1）受體阻斷劑，臨床上作為降血壓藥使用。
+TxGNN 模型預測它可能對**惡性高血壓腎病變 (malignant hypertensive renal disease)** 有效。
+目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變 |
-| 預測新適應症 | 惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease) |
-| TxGNN 預測分數 | 99.31% |
+| 原適應症 | 本態性高血壓之治療。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 降血壓劑; 降血壓劑。; 本態性高血壓之治療。治療併有高血壓及第二型糖尿病病人的高血壓及糖尿病性腎病變。; 降血壓藥; 本態性高血壓。 |
+| 預測新適應症 | 惡性高血壓腎病變 (malignant hypertensive renal disease) |
+| TxGNN 預測分數 | 0.9931 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 30 張／共 49 張） |
 | 許可證數 | 49 張（有效單方 30／有效複方 0／已過期 4／已註銷 15） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料庫記錄。根據藥理學已知資訊，Irbesartan 是 AT1 受體阻斷劑，能阻斷血管張力素 II 引起的血管收縮，降低血壓與腎絲球內壓力。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Irbesartan 屬於 AT1 受體阻斷劑，可阻斷血管張力素 II 經由 AT1 受體產生的血管收縮作用，進而降低血壓。
 
-原適應症包含高血壓及糖尿病性腎病變，與「惡性高血壓性腎病變」同屬高血壓相關的腎臟損傷，病理上都涉及腎素–血管張力素系統（RAS）活化與腎絲球內高壓。因此在機轉上，用 AT1 阻斷來保護腎臟是合理的推論。
+惡性高血壓腎病變的核心問題是嚴重高血壓造成腎臟小血管損傷。AT1 阻斷在機轉上可降低全身血壓與腎絲球內壓力，因此在生物學上具合理性。
 
-不過，目前沒有針對此適應症的臨床試驗或文獻，這項支持僅屬模型預測與機轉推論，需要進一步驗證。
-
-### 其他預測適應症（供參考）
-
-TxGNN 另外預測了下列方向，證據同樣有限：
-
-| 排名 | 預測適應症 | 預測分數 | 證據等級 | 備註 |
-|------|-----------|---------|---------|------|
-| 2 | 惡性腎血管性高血壓 | 99.31% | L5 | RAS 活化為主要機轉；但雙側腎動脈狹窄是 ARB 的已知風險，無臨床證據 |
-| 3 | 機轉不明的多因素肺高壓 | 99.25% | L5 | 理論上可減少肺循環的血管收縮與重塑，無臨床證據 |
-| 4 | 肺疾病和/或缺氧所致肺高壓 | 99.25% | L4 | 僅有前臨床研究（細胞與大鼠模型），無人體證據 |
+不過，本報告所整理的資料中，並沒有針對此疾病的試驗或文獻，這個推論目前僅屬於模型預測與機轉推測，尚未獲得實證支持。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-目前無針對「惡性高血壓性腎病變」的相關文獻。
-
-作為參考，排名第 4 的預測（肺疾病/缺氧所致肺高壓）有部分前臨床文獻，如下：
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [35288835](https://pubmed.ncbi.nlm.nih.gov/35288835/) | 2022 | Review | Inflammopharmacology | 回顧 AT1 受體拮抗劑在心臟缺血所致缺氧中的多效性作用 |
-| [34147903](https://pubmed.ncbi.nlm.nih.gov/34147903/) | 2021 | 動物研究 | Biomed Pharmacother | Irbesartan 經由膽固醇代謝改善大鼠慢性高山症的肺動脈病變 |
-| [34286497](https://pubmed.ncbi.nlm.nih.gov/34286497/) | 2021 | 動物研究 | Eur Rev Med Pharmacol Sci | 探討 Irbesartan 經調節腸道菌群改善高海拔肺高壓大鼠氧化壓力 |
-| [34626328](https://pubmed.ncbi.nlm.nih.gov/34626328/) | 2022 | 動物研究 | Sleep Breath | Irbesartan 減輕睡眠呼吸中止誘發的心臟細胞凋亡 |
-| [30356256](https://pubmed.ncbi.nlm.nih.gov/30356256/) | 2018 | 體外研究 | PLoS One | Irbesartan 在缺氧壓力下保護心肌細胞 |
-| [17142340](https://pubmed.ncbi.nlm.nih.gov/17142340/) | 2007 | 動物研究 | Am J Physiol Heart Circ Physiol | Irbesartan 抑制新生大鼠慢性間歇性缺氧所刺激的冠狀血管新生 |
-| [15526904](https://pubmed.ncbi.nlm.nih.gov/15526904/) | 2004 | 動物研究 | Renal Failure | Irbesartan 改善 cyclosporine 引起的腎毒性 |
-
-其餘檢索到的文獻（中藥萃取物研究、roxadustat 過量病例報告等）與 Irbesartan 的新適應症關聯性低，故不列入。
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -149,12 +125,12 @@ TxGNN 另外預測了下列方向，證據同樣有限：
 
 ## 安全性考量
 
-- **藥物交互作用**：已查詢到 216 筆交互作用紀錄，以下為部分重點：
-  - **重大 (Major)**：鉀補充劑類，如 Potassium citrate、Potassium bicarbonate（有高血鉀風險）
-  - **中度 (Moderate)**：皮質類固醇（Hydrocortisone、Dexamethasone、Betamethasone、Triamcinolone、Budesonide）、SGLT2 抑制劑（Canagliflozin、Dapagliflozin、Empagliflozin）、胰島素類（Insulin aspart、Insulin degludec）、Acetylsalicylic acid、Morphine、Bupropion、Aprepitant 等
-- **知識圖譜顯示的潛在禁忌疾病**（來自模型知識圖譜，非仿單內容，需對照仿單確認）：血管性水腫（含遺傳性及 RAS 阻斷劑誘發）、胰臟炎、系統性紅斑性狼瘡、肌病變與橫紋肌溶解、缺鉀症、糖尿病酮酸中毒、低血壓、無尿、腎動脈阻塞、肝性腦病變、痛風、高鈣血症、副甲狀腺亢進等
+- **藥物交互作用**：本報告整理的資料共有 216 筆交互作用紀錄，其中較需注意的重大（Major）等級包括：
+  - 檸檬酸鉀（Potassium citrate）
+  - 碳酸氫鉀（Potassium bicarbonate）
 
-其中「腎動脈阻塞」與預測適應症「惡性腎血管性高血壓」特別相關，需審慎評估。
+  兩者與 AT1 阻斷劑併用，可能增加高血鉀風險。
+- 其他中度（Moderate）交互作用包括數種皮質類固醇（如 hydrocortisone、dexamethasone）、SGLT2 抑制劑（canagliflozin、dapagliflozin、empagliflozin）、胰島素類藥物及阿斯匹靈等。
 
 其他警語與禁忌症請參考原廠仿單。
 
@@ -163,15 +139,14 @@ TxGNN 另外預測了下列方向，證據同樣有限：
 **決策：Hold**
 
 **理由：**
-- 惡性高血壓性腎病變的預測分數雖高（99.31%），但目前沒有任何臨床試驗或文獻直接支持，證據等級僅為 L5。
-- Irbesartan 在台灣已有 20 張有效單方許可證，用於高血壓與糖尿病性腎病變，安全性基礎良好；但新適應症仍需先建立證據。
+- 此預測僅來自 TxGNN 模型（分數 0.9931），沒有臨床試驗或文獻直接研究 Irbesartan 用於惡性高血壓腎病變，證據等級為 L5。
+- 雖然機轉上合理，且藥物已在台灣廣泛上市，但在缺乏實證前不宜推進。
 
 **若要推進需要：**
-- 補充詳細的作用機轉（MOA）資料
-- 系統性搜尋 ARB 用於惡性高血壓/高血壓性腎病變的臨床與觀察性研究
-- 評估惡性高血壓急症的處置方式，了解口服 ARB 是否適合此情境（急症通常需快速降壓）
-- 針對腎動脈狹窄、高血鉀、急性腎損傷風險制定監測計畫
-- 若要探索肺高壓方向，需先將前臨床證據轉化為人體研究
+- 系統性搜尋 AT1 阻斷劑用於惡性高血壓腎病變的臨床與觀察性研究
+- 取得詳細的作用機轉資料
+- 評估此族群（嚴重高血壓、腎功能受損）使用時的血鉀與腎功能監測計畫
+- 設計小規模探索性研究，或回顧性分析現有病患資料
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

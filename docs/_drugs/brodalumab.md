@@ -6,7 +6,7 @@ nav_order: 47
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Brodalumab"
-predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "recurrent idiopathic neuroretinitis", "optic perineuritis", "chronic relapsing inflammatory optic neuropathy", "isolated optic neuritis", "nodular episcleritis", "episcleritis periodica fugax"]
+predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "isolated optic neuritis", "optic perineuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "nodular episcleritis", "episcleritis periodica fugax"]
 last_modified_at: 2026-10-16
 description: "Brodalumab：預測新適應症為類圓線蟲症 (Strongyloidiasis)（證據等級 L5）。原適應症：斑塊性乾癬：治療適合接受全身性治療的中至重度斑塊性乾癬成人病人（另含膿疱性乾癬、乾癬性關節炎、僵直性脊椎炎、掌蹠膿皰症）"
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**類圓線蟲症 (Strongyloidiasis)** 有效，�
 |------|------|
 | 原適應症 | 斑塊性乾癬：治療適合接受全身性治療的中至重度斑塊性乾癬成人病人（另含膿疱性乾癬、乾癬性關節炎、僵直性脊椎炎、掌蹠膿皰症） |
 | 預測新適應症 | 類圓線蟲症 (Strongyloidiasis) |
-| TxGNN 預測分數 | 99.84% |
+| TxGNN 預測分數 | 0.9984 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

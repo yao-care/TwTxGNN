@@ -4,17 +4,17 @@ title: Alfacalcidol
 parent: 僅模型預測 (L5)
 nav_order: 15
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-16
-description: "Alfacalcidol：預測新適應症為家族性孤立性副甲狀腺低下症（Familial isolated hypoparathyroidism due to impaired PT…（證據等級 L5）。原適應症：維他命Ｄ缺乏症"
+indication_count: 3
 monitor_inn: "Alfacalcidol"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+last_modified_at: 2026-10-23
+description: "Alfacalcidol：預測新適應症為顱顏錐形發育不良 (craniofacial conodysplasia)（證據等級 L5）。原適應症：骨質疏鬆症、慢性腎不全引起之低血鈣症、副甲狀腺機能低下症、維生素 D 抵抗性佝僂病、骨軟化症"
 ---
 
 # Alfacalcidol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,34 @@ predicted_indications: ["familial isolated hypoparathyroidism due to impaired PT
 
 </div>
 
-## Alfacalcidol：從骨質疏鬆症與維他命 D 缺乏症到家族性孤立性副甲狀腺低下症（PTH 分泌受損）
+## Alfacalcidol：從骨質疏鬆症與慢性腎不全相關低血鈣症到顱顏錐形發育不良
 {: .text-alpha }
 
 ## 一句話總結
 
-Alfacalcidol 是經 1α-羥化的活性維生素 D 前驅物，在台灣核准用於骨質疏鬆症、慢性腎不全引起之低血鈣症、副甲狀腺機能低下症、佝僂病與骨軟化症等。
-TxGNN 模型預測它可能對**家族性孤立性副甲狀腺低下症（PTH 分泌受損）**有效。
-針對此疾病，目前**沒有臨床試驗和文獻**支持，證據僅來自模型預測。
+Alfacalcidol 是活性維生素 D 的前驅藥物，在台灣核准用於骨質疏鬆症、慢性腎不全引起之低血鈣症、副甲狀腺機能低下症、維生素 D 抵抗性佝僂病與骨軟化症。
+TxGNN 模型預測分數最高的新適應症是**顱顏錐形發育不良 (craniofacial conodysplasia)**，但目前**沒有任何臨床試驗或文獻**直接支持。
+在後續候選中，**腎小管酸中毒 (renal tubular acidosis)** 有 **5 篇個案報告**，內容多為腎小管酸中毒合併骨軟化症的治療，屬間接證據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 維他命Ｄ缺乏症 |
-| 預測新適應症 | 家族性孤立性副甲狀腺低下症（Familial isolated hypoparathyroidism due to impaired PTH secretion） |
-| TxGNN 預測分數 | 99.61% |
+| 原適應症 | 骨質疏鬆症、慢性腎不全引起之低血鈣症、副甲狀腺機能低下症、維生素 D 抵抗性佝僂病、骨軟化症 |
+| 預測新適應症 | 顱顏錐形發育不良 (craniofacial conodysplasia) |
+| TxGNN 預測分數 | 0.9955 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 51 張） |
 | 許可證數 | 51 張（有效單方 4／有效複方 0／已註銷 47） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Alfacalcidol 是活性維生素 D 的前驅物，在肝臟轉化為活性型，可繞過腎臟的 1α-羥化步驟，因此能在不依賴副甲狀腺素（PTH）的情況下提高體內活性維生素 D 的水準。
+目前缺乏詳細的作用機轉資料。已知 Alfacalcidol 在肝臟經羥化後轉變為活性的 calcitriol，參與鈣磷恆定與骨礦化，並可繞過腎臟的 1-α 羥化步驟。
 
-原適應症中本來就包含「副甲狀腺機能低下症」，與預測的新適應症屬於同一疾病範疇。家族性孤立性副甲狀腺低下症的核心問題是 PTH 分泌不足，造成低血鈣；活性維生素 D 可促進腸道鈣、磷吸收，理論上能改善低血鈣。因此預測在生物學上合理。
+顱顏錐形發育不良是罕見的骨骼發育異常。它與 Alfacalcidol 原有的骨代謝適應症之間，目前僅有 TxGNN 的計算預測，沒有臨床或文獻佐證，機轉上的連結只能視為假說。
 
-不過，針對此特定遺傳型疾病，沒有任何臨床試驗或文獻佐證，目前的評級完全依賴模型預測。
+作為參考，排名第 2 的預測疾病為 Campailla-Martinelli 型肢中部發育不良 (acromesomelic dysplasia)。該病由訊號傳遞缺陷所致，並非維生素 D 活性所能處理，同樣沒有證據支持。排名第 3 的腎小管酸中毒則較有臨床脈絡：此病可因磷、鈣代謝異常及維生素 D 缺乏或抵抗而造成骨軟化症，Alfacalcidol 可協助改善骨礦化，但這是處理骨病變，並非治療腎小管本身的缺陷。
 
 ## 臨床試驗證據
 
@@ -68,16 +68,15 @@ TxGNN 模型預測它可能對**家族性孤立性副甲狀腺低下症（PTH �
 
 ## 文獻證據
 
-針對此預測適應症，目前無相關文獻。
+以下為排名第 3 的預測疾病（腎小管酸中毒）的文獻，排名第 1 的顱顏錐形發育不良並無文獻。
 
-以下為排名第 2 至第 5 的其他預測適應症之簡要情況，供後續研究參考：
-
-| 預測適應症 | TxGNN 分數 | 證據等級 | 證據概況 |
-|-----------|-----------|---------|---------|
-| Dahlberg-Borer-Newcomer 症候群 | 99.60% | L4 | 僅有間接相關文獻（FGF23 相關疾病、腎小管病變、維生素 D 藥理），無直接研究 |
-| 顱顏錐狀發育不良（craniofacial conodysplasia） | 99.56% | L5 | 無試驗與文獻，機轉連結不明 |
-| Campailla-Martinelli 型肢中發育不良 | 99.53% | L5 | 無試驗與文獻，僅可能透過骨礦物質代謝間接相關 |
-| 腎小管酸中毒 | 99.27% | L4 | 有 5 篇病例報告，多為併發骨軟化症的個案，使用活性維生素 D 後改善，例如 [PMID 22740247](https://pubmed.ncbi.nlm.nih.gov/22740247/)（2013）、[PMID 11518137](https://pubmed.ncbi.nlm.nih.gov/11518137/)（2001） |
+| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+|------|-----|------|------|---------|
+| [36412607](https://pubmed.ncbi.nlm.nih.gov/36412607/) | 2023 | Case report | Kidney & Blood Pressure Research | 與 zoledronic acid 相關的腎范可尼症候群與遠端腎小管酸中毒，以嚴重低磷血症表現（未涉及 Alfacalcidol 療效） |
+| [33398781](https://pubmed.ncbi.nlm.nih.gov/33398781/) | 2021 | Case report | CEN Case Reports | 非典型腎小管酸中毒合併維生素 D 缺乏而造成骨軟化症，病人曾接受活性維生素 D 治療 |
+| [22740247](https://pubmed.ncbi.nlm.nih.gov/22740247/) | 2013 | Case report | Modern Rheumatology | 休格倫症候群相關腎小管酸中毒所致骨軟化症，以碳酸氫鈉、risedronate、alfacalcidol 與 prednisolone 治療，24 個月後腎小管酸中毒改善、骨密度恢復正常 |
+| [28509074](https://pubmed.ncbi.nlm.nih.gov/28509074/) | 2012 | Case report | CEN Case Reports | 休格倫症候群相關腎小管酸中毒引起骨軟化症的個案與文獻回顧 |
+| [11518137](https://pubmed.ncbi.nlm.nih.gov/11518137/) | 2001 | Case report | Internal Medicine | 休格倫症候群、類風濕性關節炎合併第 1 型腎小管酸中毒與骨軟化症，經治療後快速改善 |
 
 ## 台灣上市資訊
 
@@ -112,14 +111,14 @@ TxGNN 模型預測它可能對**家族性孤立性副甲狀腺低下症（PTH �
 **決策：Hold**
 
 **理由：**
-- 排名第 1 的預測適應症沒有任何臨床試驗或文獻，證據等級為 L5，僅憑模型預測不足以支持推進。
-- 雖然機轉上合理，且原適應症已含「副甲狀腺機能低下症」，但針對此特定家族性疾病缺乏直接證據。
+- 預測分數最高的顱顏錐形發育不良沒有任何臨床試驗或文獻，僅有模型預測，證據等級為 L5。
+- 腎小管酸中毒雖有個案報告，但內容屬骨軟化症的輔助處置，且沒有直接以該疾病為對象的對照研究；依本報告的證據等級上限規則，仍應視為 L5，宜列為研究問題而非推進開發。
 
 **若要推進需要：**
-- 補齊詳細的藥物作用機轉資料（MOA）。
-- 搜尋並建立此疾病相關的臨床與文獻證據，例如活性維生素 D 用於遺傳性副甲狀腺低下症的病例或登錄研究。
-- 取得完整的安全性資料，包括警語、禁忌症與藥物交互作用，特別是高血鈣風險與血鈣監測計畫。
-- 若想轉向證據較多的方向，可優先評估「腎小管酸中毒合併骨軟化症」這個研究問題，目前已有數篇病例報告支持，但仍需更高等級的研究驗證。
+- 補充詳細的作用機轉（MOA）資料。
+- 針對顱顏錐形發育不良，釐清疾病病理與維生素 D 路徑是否有關聯。
+- 針對腎小管酸中毒合併骨軟化症，蒐集較大規模的觀察性研究或對照試驗，確認 Alfacalcidol 的實際效益。
+- 建立高血鈣與腎功能的安全性監測計畫，並查閱原廠仿單。
 
 <!-- review:begin log -->
 

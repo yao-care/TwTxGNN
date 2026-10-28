@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Pitolisant
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 219
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
@@ -14,7 +14,7 @@ description: "Pitolisant：預測新適應症為失眠 (Insomnia)（證據等級
 # Pitolisant
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Pitolisant：預測新適應症為失眠 (Insomnia)（證據等級
 
 </div>
 
-## Pitolisant：從猝睡症與阻塞性睡眠呼吸中止之日間嗜睡到失眠
+## Pitolisant：失眠 (Insomnia)
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 |------|------|
 | 原適應症 | 1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS），這些病人的 EDS 無法透過 CPAP 等 OSA 主要治療方式得到滿意成果或無法耐受。 |
 | 預測新適應症 | 失眠 (Insomnia) |
-| TxGNN 預測分數 | 99.71% |
-| 證據等級 | L4（僅有機轉與綜述文獻，無失眠相關臨床試驗） |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9971 |
+| 證據等級 | L5（僅有機轉與綜述文獻，無失眠相關臨床試驗） |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 
 目前缺乏詳細的作用機轉資料。根據文獻，pitolisant 是選擇性組織胺 H3 受體反向促效劑，能提高腦內組織胺的釋放，增強促醒的神經傳導。
 
-這正是預測的問題所在：失眠需要的是降低覺醒，而 pitolisant 的作用是促進覺醒，方向相反。現有證據都針對猝睡症與 OSA 的日間嗜睡，並非失眠本身。TxGNN 分數很高，較可能反映睡眠－覺醒路徑在知識圖譜中的相近性，而非治療方向一致。
+這正是預測的問題所在：失眠需要的是降低覺醒，而 pitolisant 的作用是促進覺醒，方向相反。現有證據都針對猝睡症與 OSA 的日間嗜睡，並非失眠本身。TxGNN 模型（深度學習）給出的分數很高，但這個分數來自模型，可能反映模型學到的相關疾病之間的相似性，而非生物學證據，也不代表治療方向一致。
 
 文獻中雖提到組織胺系統與失眠有關（例如 H1 拮抗劑 doxepin 用於改善失眠），但那是另一類受體機轉，不能直接推論到 pitolisant。
 

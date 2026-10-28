@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Perindopril
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 214
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-16
 description: "Perindopril：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L4）。原適應症：高血壓、充血性心臟衰竭"
 monitor_inn: "perindopril"
@@ -14,7 +14,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 # Perindopril
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **5** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 |------|------|
 | 原適應症 | 高血壓、充血性心臟衰竭；對於有心肌梗塞及/或血管重建病史的病人，併用傳統心絞痛治療藥物，可降低心臟事件的危險 |
 | 預測新適應症 | 惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease) |
-| TxGNN 預測分數 | 99.77% |
-| 證據等級 | L4（僅有間接的文獻，無臨床試驗） |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9977 |
+| 證據等級 | L5（僅有間接的文獻，無臨床試驗） |
+| 台灣上市 | 上市中（有效許可證 12 張／共 24 張） |
 | 許可證數 | 24 張（有效單方 8／有效複方 4／已註銷 12） |
 | 建議決策 | Hold |
 

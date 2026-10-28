@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dipyridamole
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 87
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Dipyridamole：預測新適應症為Prinzmetal 狹心症 (Prinzmetal angina)（證據等級 L4）。原適應症：取代心肌造影時所需之運動試驗（另有慢性狹心症之治療、血小板集結降低藥等適應症）"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Dipyridamole"
-predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
+predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
+last_modified_at: 2026-10-23
+description: "Dipyridamole：預測新適應症為血栓性疾病 (thrombotic disease)（證據等級 L5）。原適應症：對於慢性狹心症之治療可能有效"
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,28 @@ predicted_indications: ["stroke disorder", "thrombotic disease", "sick sinus syn
 
 </div>
 
-## Dipyridamole：從慢性狹心症到 Prinzmetal 狹心症
+## Dipyridamole：從慢性狹心症到血栓性疾病
 {: .text-alpha }
 
 ## 一句話總結
 
-Dipyridamole（雙嘧達莫，台灣商品名如「百心康」）原本用於慢性狹心症與冠狀動脈不全的治療，也用於取代心肌造影時的運動試驗。
-TxGNN 模型預測排名第一的新適應症是 **Prinzmetal 狹心症 (Prinzmetal angina)**，但目前**沒有相關臨床試驗**，僅有 **10 篇文獻**，且多為診斷用途或個案報告，證據偏弱。
-同一份預測清單中，**中風 (stroke disorder)** 與**短暫性腦缺血 (TIA)** 的證據明顯較強（有大型 RCT 與統合分析），詳見下方補充說明。
-
----
+Dipyridamole（二吡待摩，台灣商品名如百心康）原本在台灣用於慢性狹心症的治療，以及作為心肌造影檢查時取代運動試驗的藥物。
+TxGNN 模型預測它可能對**血栓性疾病 (thrombotic disease)** 有效，但目前**沒有相關臨床試驗登記**，僅有 **20 篇文獻**（以綜述為主）。
+另一個證據較完整的候選方向是**暫時性腦缺血發作 (TIA)**，有 2 個臨床試驗與多篇統合分析。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 取代心肌造影時所需之運動試驗（另有慢性狹心症之治療、血小板集結降低藥等適應症） |
-| 預測新適應症 | Prinzmetal 狹心症 (Prinzmetal angina) |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 對於慢性狹心症之治療可能有效 |
+| 預測新適應症 | 血栓性疾病 (thrombotic disease) |
+| TxGNN 預測分數 | 0.9994 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 52 張／共 166 張） |
 | 許可證數 | 166 張（有效單方 52／有效複方 0／已過期 4／已註銷 110） |
 | 建議決策 | Hold |
 
----
+註：「血栓性疾病」是範圍很廣的疾病名稱，現有文獻多為綜述或與其他疾病（如血栓性血小板減少性紫斑症、抗磷脂症候群）有關，沒有直接以此疾病為對象的臨床研究，因此依規則將證據等級定為 L5。
 
 <!-- review:begin dipyridamole-moa-2026-10-03 -->
 
@@ -79,65 +77,43 @@ TxGNN 模型預測排名第一的新適應症是 **Prinzmetal 狹心症 (Prinzme
 
 ## 為什麼這個預測合理？
 
-目前缺乏來自 DrugBank 的詳細作用機轉資料。就文獻所述，Dipyridamole 會抑制腺苷（adenosine）再攝取並抑制磷酸二酯酶（PDE），使血小板與血管平滑肌內的 cAMP/cGMP 上升，產生冠狀動脈擴張與抗血小板作用。
+目前缺乏詳細的作用機轉資料（資料庫欄位為空）。不過根據文獻資料，Dipyridamole 能抑制腺苷再攝取與磷酸二酯酶活性，提高血小板內 cAMP／cGMP 濃度，進而抑制血小板凝集。這與抗血栓用途在生物學上相符。
 
-Prinzmetal 狹心症（變異型狹心症）由冠狀動脈痙攣引起，與原適應症同屬冠心症範疇。不過，Dipyridamole 在血管痙攣型狹心症中主要用於**診斷性的負荷影像檢查**，治療效益尚未證實。1988 年的一份報告（PMID 3421166）甚至指出，Dipyridamole 負荷試驗後以 aminophylline 終止，可能誘發變異型狹心症患者的冠狀動脈痙攣。此外，血管擴張也可能引起冠狀動脈「竊血」現象。因此，這個預測在機轉上有合理之處，但同時存在明確的安全疑慮。
+原適應症為慢性狹心症，屬於冠狀動脈血流不足的疾病，與血栓形成、血小板活化有共同的病理基礎。台灣部分舊許可證也曾載明「血小板集結降低藥」，顯示其抗血小板特性早已被認識。
 
----
+但需注意，支持文獻多為敘述性綜述，並未提供針對「血栓性疾病」這個廣義疾病名稱的對照試驗，因此目前只能視為研究問題，而非已證實的新用途。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記（針對 Prinzmetal 狹心症）。
-
-> **補充：** 預測清單中的其他適應症有較多試驗，列於此供參考。
-
-**中風 (stroke disorder)，TxGNN 分數 99.95%：**
-
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | Phase 4 | 完成 | 4500 | ESPRIT：比較 aspirin 加 dipyridamole 與單用 aspirin 於腦缺血後的療效與安全性 |
-| [NCT00562588](https://clinicaltrials.gov/study/NCT00562588) | Phase 4 | 完成 | 551 | EARLY：急性缺血性中風 24 小時內開始 Aggrenox 與先用 aspirin 7 天後再用 Aggrenox 的比較 |
-| [NCT00238667](https://clinicaltrials.gov/study/NCT00238667) | Phase 3 | 完成 | 250 | 頸動脈剝離中風：抗血小板與抗凝血治療的可行性研究（Dipyridamole 僅為可選藥物之一） |
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | 完成 | 664 | 卵圓孔未閉：關閉術、抗凝血與抗血小板預防中風復發（Dipyridamole 非主要測試藥物） |
-| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | N/A | 完成 | 664 | Gore REDUCE：卵圓孔未閉關閉術加抗血小板治療 vs. 單用抗血小板治療 |
-| [NCT06053021](https://clinicaltrials.gov/study/NCT06053021) | N/A | 未知 | 1200 | 急性缺血性中風合併血小板低下的抗血小板治療 |
-| [NCT02630862](https://clinicaltrials.gov/study/NCT02630862) | N/A | 完成 | 240 | 頸動脈血管重建後的氧化壓力與抗血栓治療效果（僅支持機轉） |
-| [NCT06983795](https://clinicaltrials.gov/study/NCT06983795) | N/A | 尚未招募 | 1000 | 亞太地區卵圓孔未閉合併缺血性中風的登錄研究 |
-
-**短暫性腦缺血 (TIA)：** 另有 NCT00161070（ESPRIT）與 NCT00738894 支持。
-
----
+目前無相關臨床試驗登記（針對「血栓性疾病」此預測項目）。
 
 ## 文獻證據
 
-**Prinzmetal 狹心症（排名第 1）：**
+下表列出與預測相關的代表性文獻（優先 RCT，其次為綜述）。
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [633593](https://pubmed.ncbi.nlm.nih.gov/633593/) | 1978 | Review | Jpn Circ J | 26 位靜息型狹心症患者（含 13 位變異型）測試多種藥物，其中包含 dipyridamole 50 mg |
-| [3421166](https://pubmed.ncbi.nlm.nih.gov/3421166/) | 1988 | Case series | Am J Cardiol | Dipyridamole 負荷試驗後以 aminophylline 終止，可能誘發變異型狹心症的冠狀動脈痙攣 |
-| [3190956](https://pubmed.ncbi.nlm.nih.gov/3190956/) | 1988 | Cohort | Br Heart J | ST 段上升患者對 dipyridamole 試驗的不同反應與運動試驗再現性 |
-| [8417062](https://pubmed.ncbi.nlm.nih.gov/8417062/) | 1993 | Cohort | J Am Coll Cardiol | 不同機轉誘發的缺血中，心肌回音密度增加的超音波徵象 |
-| [6779029](https://pubmed.ncbi.nlm.nih.gov/6779029/) | 1981 | Cohort | Jpn Circ J | Dipyridamole 負荷鉈-201 心肌造影對冠心症的診斷準確度為 66%；合併運動負荷可提高敏感度至 87% |
-| [2022043](https://pubmed.ncbi.nlm.nih.gov/2022043/) | 1991 | Review | Circulation | 冠狀動脈狹窄非侵入性功能評估的病理生理基礎 |
-| [16630456](https://pubmed.ncbi.nlm.nih.gov/16630456/) | 2006 | Case series | Zhonghua Xin Xue Guan Bing Za Zhi | 非典型冠狀動脈痙攣患者的臨床特徵 |
-| [8634169](https://pubmed.ncbi.nlm.nih.gov/8634169/) | 1996 | Cohort | Rev Port Cardiol | 鉈-dipyridamole 心肌掃描正常者的 3 年預後 |
-| [7628141](https://pubmed.ncbi.nlm.nih.gov/7628141/) | 1995 | Review | Clin Nucl Med | 「心臟型偏頭痛」是否為獨立臨床實體的個案討論 |
+| [26719230](https://pubmed.ncbi.nlm.nih.gov/26719230/) | 2016 | RCT | Lancet | 針對胸膜間皮瘤的貝伐單抗試驗，與 Dipyridamole 及血栓無直接關聯 |
+| [18174451](https://pubmed.ncbi.nlm.nih.gov/18174451/) | 2008 | Review | Arterioscler Thromb Vasc Biol | Dipyridamole 抑制磷酸二酯酶，提高 cAMP／cGMP，可抑制血小板凝集及血小板介導的血栓性疾病 |
+| [2182246](https://pubmed.ncbi.nlm.nih.gov/2182246/) | 1990 | Review | Clin Cardiol | 回顧阿斯匹靈合併 Dipyridamole 對冠狀動脈血栓的作用與限制 |
+| [382146](https://pubmed.ncbi.nlm.nih.gov/382146/) | 1979 | Review | Postgrad Med | 阿斯匹靈、Dipyridamole、sulfinpyrazone 在人體有抗血栓作用 |
+| [559478](https://pubmed.ncbi.nlm.nih.gov/559478/) | 1977 | Review（病例報告性質） | Arch Intern Med | 兩例血栓性血小板減少性紫斑症，其中一例在加用 Dipyridamole 後獲得長期緩解 |
+| [2440111](https://pubmed.ncbi.nlm.nih.gov/2440111/) | 1987 | 未分類 | Semin Hematol | 抗血小板治療在血栓性血小板減少性紫斑症的角色 |
+| [12765506](https://pubmed.ncbi.nlm.nih.gov/12765506/) | 2003 | Review | Med J Aust | 抗血小板藥物可降低心肌梗塞、中風等嚴重血管事件風險 |
+| [25697566](https://pubmed.ncbi.nlm.nih.gov/25697566/) | 2015 | 未分類 | Curr Top Med Chem | Dipyridamole 另具抗氧化活性，並有抗血栓與血管擴張作用 |
+| [28707198](https://pubmed.ncbi.nlm.nih.gov/28707198/) | 2017 | Review | Cancer Metastasis Rev | 以血小板為標的的藥物作為抗癌治療的可能性 |
+| [36696191](https://pubmed.ncbi.nlm.nih.gov/36696191/) | 2023 | Review | J Thromb Haemost | 抗磷脂症候群中的血栓炎症機制 |
 
-以上文獻多為診斷性使用或個案報告，並**無**證明 Dipyridamole 能治療 Prinzmetal 狹心症的對照試驗。
+### 補充：暫時性腦缺血發作 (TIA) 方向
 
-**中風／TIA 的高階證據（補充）：**
+TIA 是排名第 3 的預測（分數 0.9987），有直接研究該疾病的證據：
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [15569877](https://pubmed.ncbi.nlm.nih.gov/15569877/) | 2005 | Meta-analysis | Stroke | 以個別病人資料整合 RCT，評估 dipyridamole 預防缺血性中風復發 |
-| [17636684](https://pubmed.ncbi.nlm.nih.gov/17636684/) | 2007 | Meta-analysis | Cochrane Database Syst Rev | 單一試驗中加入 dipyridamole 使風險再降 22%；但整體抗血小板試驗彙整顯示 aspirin 合併 dipyridamole 與其他抗血小板藥差異不大 |
-| [23871093](https://pubmed.ncbi.nlm.nih.gov/23871093/) | 2013 | Meta-analysis | J Neurol Sci | aspirin 加 dipyridamole 與單用 aspirin 於 TIA／中風二級預防的 RCT 統合分析 |
-| [11786451](https://pubmed.ncbi.nlm.nih.gov/11786451/) | 2002 | Meta-analysis | BMJ | 高風險患者抗血小板治療預防死亡、心肌梗塞與中風的合作統合分析 |
-| [31177983](https://pubmed.ncbi.nlm.nih.gov/31177983/) | 2019 | Meta-analysis | Stroke | 非心因性栓塞中風後抗血小板藥物的網絡統合分析（6 個 RCT） |
-| [34211246](https://pubmed.ncbi.nlm.nih.gov/34211246/) | 2021 | Review | Aust Prescr | aspirin、clopidogrel 或 aspirin 加 dipyridamole 為無心房顫動者二級預防的第一線選項 |
+| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+|---------|------|------|------|---------|
+| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | Phase 4 | 完成 | 4500 | ESPRIT：比較阿斯匹靈加 Dipyridamole、輕度抗凝血與單用阿斯匹靈在腦缺血後的療效與安全性 |
+| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | 不適用 | 完成 | 664 | 卵圓孔未閉合併隱源性中風／TIA，比較 PFO 封堵加抗血小板治療與單用抗血小板治療（Dipyridamole 非研究藥物，關聯較間接） |
 
----
+相關文獻包括 Cochrane 系統性回顧（[12535415](https://pubmed.ncbi.nlm.nih.gov/12535415/)、[17636684](https://pubmed.ncbi.nlm.nih.gov/17636684/)）、網絡統合分析（[26304937](https://pubmed.ncbi.nlm.nih.gov/26304937/)、[31177983](https://pubmed.ncbi.nlm.nih.gov/31177983/)）及抗血小板治療統合分析（[11786451](https://pubmed.ncbi.nlm.nih.gov/11786451/)）。此方向的整體證據明顯強於「血栓性疾病」，可作為後續優先評估對象。
 
 ## 台灣上市資訊
 
@@ -160,31 +136,27 @@ Prinzmetal 狹心症（變異型狹心症）由冠狀動脈痙攣引起，與原
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-- **知識圖譜中的禁忌關聯**（來自 TxGNN 知識圖譜，非仿單內容）：腎臟疾病、肝臟疾病、膽囊疾病、血小板低下、消化性潰瘍、低血壓、痛風、急性冠心症、心肌梗塞、血友病、貧血、胃炎等。這些屬於模型關聯，實際禁忌請以仿單為準。
-- **藥物交互作用**：資料庫共收錄 321 筆。其中 Moderate 等級包括 Dexfenfluramine、Sibutramine、Fenfluramine；其餘如 Acetylsalicylic acid（aspirin）、Cimetidine、Omeprazole、Metformin、Simvastatin、Morphine 等的分級為 Unknown。併用抗血小板或抗凝血藥物時須特別留意出血風險。
-- **針對預測適應症的特殊疑慮**：在血管痙攣型狹心症中，血管擴張可能造成冠狀動脈竊血或誘發痙攣；Dipyridamole 提高腺苷濃度，也可能抑制竇房結功能。
+- **知識圖譜中記錄的禁忌關聯**（來源為知識圖譜的藥物—疾病關係，並非仿單文字）：腎臟疾病、肝臟疾病、血小板減少症、消化性潰瘍、低血壓、痛風、急性冠心症、心肌梗塞、血友病、貧血、胃炎等。
+- **藥物交互作用**：共 321 筆，其中中度者包括 Dexfenfluramine、Sibutramine、Fenfluramine；另有與阿斯匹靈、Cimetidine、Omeprazole、Pantoprazole、Metformin、Morphine 等藥物的交互作用紀錄（嚴重程度未分級）。
+- 與其他抗血小板藥或抗凝血劑併用時，需特別留意出血風險。
 
-其他警語與禁忌請參考原廠仿單。
-
----
+其餘警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Hold（針對首位預測：Prinzmetal 狹心症）**
+**決策：Hold**
 
 **理由：**
-- Prinzmetal 狹心症沒有任何臨床試驗，文獻多為診斷用途或個案報告，且有報告顯示可能誘發冠狀動脈痙攣，證據等級僅 L4，療效未證實且有安全疑慮。
-- 相較之下，**中風**與 **TIA** 有 ESPRIT（n=4500）等 RCT 與多項統合分析支持，證據等級為 L1，建議決策為 **Proceed with Guardrails**。不過 aspirin 加 dipyridamole 用於二級預防在國際上已屬既有用法，其「再利用」的新穎性有限；若在台灣推進，主要是適應症與劑型（如緩釋複方）的取得問題。
+- 「血栓性疾病」為範圍過廣的疾病名稱，沒有相關臨床試驗，文獻多為綜述或其他疾病，缺乏直接證據，證據等級僅為 L5。
+- 機轉上合理（抗血小板），但目前僅能視為研究問題；在 TIA 等具體疾病方向上證據更完整，值得另行評估。
 
 **若要推進需要：**
-- Prinzmetal 狹心症：需有設計良好的對照試驗，並先釐清血管痙攣與竊血風險；在此之前不建議推進。
-- 中風／TIA：確認台灣現有許可證的適應症範圍（現行多為狹心症與診斷用途），評估是否需要補充適應症或引進 aspirin 加緩釋 dipyridamole 的複方劑型。
-- 補齊 DrugBank 作用機轉資料，並完整審視 321 筆交互作用，建立併用抗血栓藥物的出血監測方案。
-- 其餘低排名預測（如 sarcoglycanopathy、Wildervanck 症候群等）無任何證據或合理機轉，建議維持 Hold。
+- 將預測疾病縮小為具體適應症（如 TIA／缺血性中風二級預防、血栓性血小板減少性紫斑症），再蒐集直接研究證據
+- 補充詳細的作用機轉資料（MOA）
+- 針對 TIA 方向，評估與阿斯匹靈的複方（緩釋劑型）在台灣的可及性與劑型
+- 制定出血風險與藥物交互作用的監測計畫
 
 <!-- review:begin log -->
 

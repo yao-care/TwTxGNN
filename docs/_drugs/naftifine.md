@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Naftifine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 187
-evidence_level: L3
-indication_count: 8
-last_modified_at: 2026-10-16
-description: "Naftifine：預測新適應症為皮膚念珠菌病 (Cutaneous Candidiasis)（證據等級 L3）。原適應症：髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起之感染、表皮念珠菌病、甲黴菌病、花斑癬"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Naftifine"
-predicted_indications: ["Majocchi granuloma", "ectothrix infectious disease", "pityriasis versicolor", "endothrix infectious disease"]
+predicted_indications: ["ectothrix infectious disease", "pityriasis versicolor", "endothrix infectious disease"]
+last_modified_at: 2026-10-27
+description: "Naftifine：預測新適應症為外毛癬菌感染 (ectothrix infectious disease)（證據等級 L5）。原適應症：局部抗黴藥"
 ---
 
 # Naftifine
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **8** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,42 @@ predicted_indications: ["Majocchi granuloma", "ectothrix infectious disease", "p
 
 </div>
 
-## Naftifine：從皮膚黴菌感染到表皮念珠菌病
+## Naftifine：外用丙烯胺類抗黴菌藥 → 外毛癬菌感染 (ectothrix infectious disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Naftifine（鹽酸萘替芬）是外用烯丙胺（allylamine）類抗黴菌藥，原本用於皮膚癬菌感染、表皮念珠菌病、甲黴菌病與花斑癬。
-TxGNN 模型預測它對**皮膚念珠菌病 (Cutaneous Candidiasis)** 有效，目前有 **9 篇文獻**支持這個方向，其中包含 1 項雙盲隨機對照試驗，但沒有登記中的臨床試驗。
-
----
+Naftifine 是外用丙烯胺類抗黴菌藥。
+TxGNN 模型預測它可能對**外毛癬菌感染 (ectothrix infectious disease)** 有效，
+但目前沒有針對此疾病的臨床試驗或文獻，證據僅止於模型預測與機轉推論。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起之感染、表皮念珠菌病、甲黴菌病、花斑癬 |
-| 預測新適應症 | 皮膚念珠菌病 (Cutaneous Candidiasis) |
-| TxGNN 預測分數 | 99.84% |
-| 證據等級 | L3（有觀察性研究與系統性回顧；無已完成的 Phase 2/3 試驗登記） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 局部抗黴藥; 局部抗黴藥。; （１）髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚皮其附屬組織所引起之感染。　（２）表皮念珠菌病。（３）甲黴菌病。（４）花斑癬。; １．髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起之感染。２．表皮念珠菌病。３．甲黴菌病。４．花斑癬。; 1.髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起之感染。2.表皮念珠菌病。3.甲黴菌病。4.花斑癬。; (1)髮癬菌種，小芽胞癬菌種，毛絮狀表皮黴癬菌在皮膚及其附屬組織所引起 之感染。(2)表皮念珠菌病。(3)甲黴菌病。(4)花斑癬。; （１）髮癬菌種、小芽胞癬菌種、毛絮狀表皮黴癬菌在皮膚及 |
+| 預測新適應症 | 外毛癬菌感染 (ectothrix infectious disease) |
+| TxGNN 預測分數 | 0.9969 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 13 張／共 17 張） |
 | 許可證數 | 17 張（有效單方 13／有效複方 0／已過期 2／已註銷 2） |
-| 建議決策 | Proceed with Guardrails |
-
----
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏經 DrugBank 收錄的詳細作用機轉資料。不過根據文獻，Naftifine 是外用烯丙胺類藥物，作用於真菌的角鯊烯環氧化酶（squalene epoxidase），阻斷麥角固醇（ergosterol）合成，並造成角鯊烯在真菌細胞內累積而產生毒性。
+目前缺乏詳細的作用機轉資料庫記載。依已知藥理，Naftifine 屬丙烯胺類，抑制真菌角鯊烯環氧酶 (squalene epoxidase)，阻斷麥角固醇合成，並造成角鯊烯堆積而損傷真菌細胞。
 
-Naftifine 對皮膚癬菌的殺菌作用較強，對念珠菌的作用相對較弱，主要為抑菌。不過文獻指出它對念珠菌屬仍有良好活性，臨床研究也顯示有效。此外，台灣核准的適應症本身已包含「表皮念珠菌病」，因此這項預測與現有適應症高度吻合，比較接近「驗證既有用途」，而非全新的適應症。
+外毛癬菌感染是皮癬菌（如小芽胞癬菌屬、毛癬菌屬）侵犯毛髮所致，與 Naftifine 已知作用的皮癬菌屬於同一類病原，因此機轉上合理。
 
----
+不過，目前沒有任何針對此疾病的試驗或文獻佐證，且外用藥對毛幹與毛囊的穿透有限，實際療效仍須驗證。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
-
----
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [6388169](https://pubmed.ncbi.nlm.nih.gov/6388169/) | 1984 | RCT | Z Hautkr | 雙盲、同一病人左右對照，126 位皮癬菌病或念珠菌病患者；治療 7 天後 Naftifine 黴菌學治癒率 63.5%，Clotrimazole 為 56% |
-| [3048914](https://pubmed.ncbi.nlm.nih.gov/3048914/) | 1988 | 雙盲平行試驗 | Cutis | 60 位皮膚念珠菌病患者，Naftifine 1% 乳膏對比基質，每日兩次、3 週；停藥後 2 週，77% 達黴菌學治癒 |
-| [2620916](https://pubmed.ncbi.nlm.nih.gov/2620916/) | 1989 | 開放式研究 | G Ital Dermatol Venereol | 29 位皮黴菌病患者（含 2 位皮膚念珠菌病），評估療效與耐受性 |
-| [18346400](https://pubmed.ncbi.nlm.nih.gov/18346400/) | 2008 | Review | J Cutan Med Surg | Naftifine 對淺層皮膚黴菌病有效且安全，對念珠菌與麴菌有良好活性 |
-| [1723367](https://pubmed.ncbi.nlm.nih.gov/1723367/) | 1991 | Review | Drugs | 回顧其抗菌活性與淺層皮膚黴菌病的治療用途；機轉為抑制角鯊烯環氧化酶，可能兼具抗發炎作用 |
-| [24196340](https://pubmed.ncbi.nlm.nih.gov/24196340/) | 2013 | Review | J Drugs Dermatol | 探討淺層皮膚黴菌感染的外用抗黴菌治療最佳化，聚焦 Naftifine 用於皮癬菌病 |
-| [20677526](https://pubmed.ncbi.nlm.nih.gov/20677526/) | 2010 | Review | J Drugs Dermatol | 外用烯丙胺類藥物 Naftifine 的回顧 |
-
-註：另有 Fenticonazole（PMID 18840006）與 Terbinafine（PMID 10439936）兩篇文獻，主題為其他藥物，僅作背景參考，未列入上表。
-
----
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -123,27 +106,22 @@ Naftifine 對皮膚癬菌的殺菌作用較強，對念珠菌的作用相對較�
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-安全性資訊請參考原廠仿單。本次彙整的資料中未查到藥物交互作用紀錄。
-
----
+安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 有 1 項雙盲隨機對照研究（對比 Clotrimazole）與 1 項雙盲、基質對照的皮膚念珠菌病試驗支持療效，且台灣已核准表皮念珠菌病適應症。
-- 但沒有登記的臨床試驗，這些研究年代較早、規模偏小，且 Naftifine 對念珠菌的作用以抑菌為主，因此需設定使用範圍。
+此預測僅有模型分數與機轉推論支持，沒有直接研究此疾病的臨床試驗或文獻，證據等級為 L5。外用劑型對毛髮感染的穿透也是疑慮。
 
 **若要推進需要：**
-- 補齊詳細的作用機轉資料（MOA）
-- 取得原廠仿單中的警語、禁忌與交互作用資訊
-- 以近年標準設計的對照試驗，確認對念珠菌的療效，並與其他外用抗黴菌藥（如唑類）比較
-- 明確界定使用範圍為淺層皮膚念珠菌感染；毛髮、深層皮膚感染（如 Majocchi 肉芽腫、頭癬）因外用藥穿透性有限，通常需要全身性治療，不在此建議範圍內
+- 針對外毛癬菌感染（如頭癬）的臨床或前臨床療效資料
+- 評估外用劑型在毛幹與毛囊的藥物穿透性
+- 補齊詳細的作用機轉資料
+- 確認是否需要口服等其他給藥途徑
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

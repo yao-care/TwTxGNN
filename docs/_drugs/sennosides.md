@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "sennosides"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
 last_modified_at: 2026-10-16
-description: "Sennosides：預測新適應症為頭皮單純性毛髮稀疏症 (Hypotrichosis Simplex of the Scalp)（證據等級 L5）。原適應症：緩解便秘"
+description: "Sennosides：預測新適應症為頭皮單純性毛髮稀疏症 (hypotrichosis simplex of the scalp)（證據等級 L5）。原適應症：緩解便秘"
 ---
 
 # Sennosides
@@ -33,7 +33,7 @@ description: "Sennosides：預測新適應症為頭皮單純性毛髮稀疏症 (
 
 </div>
 
-## Sennosides：從便秘到頭皮毛髮稀疏症
+## Sennosides: 頭皮單純性毛髮稀疏症 (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## 一句話總結
@@ -47,10 +47,10 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀疏症 (Hypotrichosis Si
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 緩解便秘 |
-| 預測新適應症 | 頭皮單純性毛髮稀疏症 (Hypotrichosis Simplex of the Scalp) |
-| TxGNN 預測分數 | 99.29% |
+| 預測新適應症 | 頭皮單純性毛髮稀疏症 (hypotrichosis simplex of the scalp) |
+| TxGNN 預測分數 | 0.9929 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 37 張／共 54 張） |
 | 許可證數 | 54 張（有效單方 21／有效複方 16／已過期 2／已註銷 15） |
 | 建議決策 | Hold |
 
@@ -58,9 +58,9 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀疏症 (Hypotrichosis Si
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Sennosides 是刺激性緩瀉劑，其活性代謝物 rheinanthrone 作用於結腸黏膜，增加腸道蠕動與分泌，因而緩解便秘。
 
-在機轉上，這個作用與毛囊生長之間**沒有已知的合理連結**。Sennosides 主要在結腸局部作用，全身吸收極少，也沒有文獻記載它具有促進毛髮生長或調節毛囊的活性。因此，高分預測目前僅是圖譜運算的結果，屬於推測性質，不能視為機轉上的支持。
+在機轉上，這個作用與毛囊生長之間**沒有已知的合理連結**。Sennosides 主要在結腸局部作用，全身吸收極少，也沒有文獻記載它具有促進毛髮生長或調節毛囊的活性。因此，高分預測來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，屬於推測性質，不能視為機轉上的支持。
 
-同一次預測中，其他排名靠前的候選適應症還包括先天性毛髮稀疏併粟粒疹、瀰漫性圓禿、開角型青光眼、原發性遺傳性青光眼與一般禿髮。這些適應症同樣沒有臨床或文獻證據，也沒有可辨識的作用機轉連結，顯示模型預測可能反映的是圖譜結構上的關聯，而非真實的藥理作用。
+同一次預測中，其他排名靠前的候選適應症還包括 congenital hypotrichosis milia（0.9923）、瀰漫性圓禿（0.9912）、開角型青光眼（0.9911）、原發性遺傳性青光眼（0.9910）與禿髮（0.9910）。這些適應症同樣沒有臨床或文獻證據，也沒有可辨識的作用機轉連結，顯示 TxGNN 模型（深度學習）的預測可能反映的是模型從相關疾病之間學到的相似性，而非真實的藥理作用。
 
 ## 臨床試驗證據
 

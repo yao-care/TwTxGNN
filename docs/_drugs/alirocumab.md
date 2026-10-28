@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對 **X 染色體性聯魚鱗癬（ichthyosis, X-link
 |------|------|
 | 原適應症 | 預防心血管事件：已確診心血管疾病的成年病人，降低心肌梗塞、中風及需住院治療的不穩定心絞痛之風險（另含原發性高血脂症與 8 歲以上 HeFH 的 LDL-C 降低） |
 | 預測新適應症 | X 染色體性聯魚鱗癬，無類固醇硫酸酯酶缺乏 (ichthyosis, X-linked, without steroid sulfatase deficiency) |
-| TxGNN 預測分數 | 99.43% |
+| TxGNN 預測分數 | 0.9943 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -76,8 +76,8 @@ X 染色體性聯魚鱗癬與膽固醇硫酸鹽代謝異常有關，因此與膽
 
 | 排名 | 預測適應症 | 分數 | 證據等級 | 說明 |
 |------|-----------|------|---------|------|
-| 3 | 黃色瘤 (Xanthomatosis) | 99.37% | L4 | 僅有 2 篇病例報告類文獻，其中一篇 ([32713907](https://pubmed.ncbi.nlm.nih.gov/32713907/), 2020, Internal Medicine) 描述谷固醇血症病人合併使用 ezetimibe 與 alirocumab 治療；證據間接，未直接檢驗 alirocumab |
-| 5 | 膽固醇分解代謝疾病 (Cholesterol catabolic process disease) | 99.36% | L3 | 有多篇回顧與一篇統合分析，例如 [38658193](https://pubmed.ncbi.nlm.nih.gov/38658193/)（2024，ODYSSEY OUTCOMES 逾 47,000 病人年的安全性分析）；但這些證據主要針對高膽固醇血症，與此廣泛疾病類別為間接關聯 |
+| 3 | 黃色瘤 (Xanthomatosis) | 0.9937 | L5 | 僅有 2 篇病例報告類文獻，其中一篇 ([32713907](https://pubmed.ncbi.nlm.nih.gov/32713907/), 2020, Internal Medicine) 描述谷固醇血症病人合併使用 ezetimibe 與 alirocumab 治療；證據間接，未直接檢驗 alirocumab |
+| 5 | 膽固醇分解代謝疾病 (Cholesterol catabolic process disease) | 0.9936 | L5 | 有多篇回顧與一篇統合分析，例如 [38658193](https://pubmed.ncbi.nlm.nih.gov/38658193/)（2024，ODYSSEY OUTCOMES 逾 47,000 病人年的安全性分析）；但這些證據主要針對高膽固醇血症，與此廣泛疾病類別為間接關聯 |
 
 其餘排名（2、4、6–10）皆為 L5，僅有模型分數，且機轉上無明確關聯，建議維持 Hold。
 

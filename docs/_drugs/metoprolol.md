@@ -4,17 +4,17 @@ title: Metoprolol
 parent: 僅模型預測 (L5)
 nav_order: 179
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Metoprolol：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：高血壓、狹心症"
+indication_count: 6
 monitor_inn: "Metoprolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "trichotillomania"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
+last_modified_at: 2026-10-27
+description: "Metoprolol：預測新適應症為惡性高血壓性腎病 (malignant hypertensive renal disease)（證據等級 L5）。原適應症：高血壓、狹心症"
 ---
 
 # Metoprolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,44 +33,40 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## Metoprolol：從高血壓、狹心症到惡性高血壓性腎病變
+## Metoprolol：β1 選擇性阻斷劑 → 惡性高血壓性腎病 (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Metoprolol（美托普洛）是 β1 選擇性阻斷劑，在台灣原本核准用於高血壓與狹心症。
-TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)** 有效，
-但目前**沒有臨床試驗與文獻**直接支持這個預測，僅有模型分數。
+Metoprolol（美托普洛）是 β1 選擇性腎上腺素受體阻斷劑。
+TxGNN 模型預測它可能對**惡性高血壓性腎病 (malignant hypertensive renal disease)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 高血壓、狹心症 |
-| 預測新適應症 | 惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease) |
-| TxGNN 預測分數 | 99.91% |
+| 原適應症 | 高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整; 交感神經β１－感受體遮斷劑; 隆壓劑; 主治高血壓、心絞痛; 隆壓劑。; 高血壓。; 降壓劑。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後預防心肌之死亡及再梗塞、心律不整。; 高血壓？狹心症。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後、預防心肌之死亡及再梗塞、心律不整、有心悸症狀之功能性心臟病。 |
+| 預測新適應症 | 惡性高血壓性腎病 (malignant hypertensive renal disease) |
+| TxGNN 預測分數 | 0.9991 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 8 張／共 46 張） |
 | 許可證數 | 46 張（有效單方 8／有效複方 0／已註銷 38） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Metoprolol 是 β1 選擇性腎上腺素阻斷劑，已在高血壓與狹心症中確立療效。其降血壓作用部分來自減少腎素（renin）釋放，因此機轉上可能與腎素相關的高血壓病變有關。
+目前缺乏詳細的作用機轉資料。依一般藥理知識，metoprolol 是 β1 選擇性阻斷劑，可降低心跳速率、心輸出量與腎素釋放，因此在機轉上具有降血壓的合理性。
 
-惡性高血壓性腎病變和原適應症同屬高血壓相關疾病，這是模型給出高分的合理背景。不過，惡性高血壓通常需要快速起效的注射藥物處理，口服 β 阻斷劑並非典型首選，因此臨床上能否取代或輔助現行治療仍屬未知。
-
-此外，同一份預測清單中的其他候選適應症，證據略多的是心肌梗塞次型（間隔、後側壁）與慢性肺心病（均為 L3），但它們不是本報告的主要預測項目，僅供後續評估參考。
+惡性高血壓性腎病屬於嚴重高血壓造成的腎臟損傷，控制血壓是處置核心，這是模型預測的可能依據。但目前沒有提供任何針對此疾病的試驗或文獻，這個推論仍停留在模型預測與理論層次。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-目前無相關文獻。
-
-（備註：同一疾病族群中的「惡性腎血管性高血壓」僅有一篇嗜鉻細胞瘤診斷標記的文獻，與 Metoprolol 的療效無關，因此不列入。）
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -102,8 +98,7 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共收錄 337 筆交互作用。部分為中度等級，例如 Epinephrine、Bupropion、Cimetidine、Morphine、Canagliflozin、Dapagliflozin、Chlorpropamide 及多種皮質類固醇（Hydrocortisone、Dexamethasone 等）；Acetylsalicylic acid 與 Magnesium oxide 為輕度。
-- **知識圖譜標示的禁忌相關疾病**（來自模型知識圖譜，非仿單文字）：包含糖尿病與酮酸中毒、肝病與肝性腦病變、胰臟炎、痛風、重症肌無力、嗜鉻細胞瘤、低血壓、無尿、全身性紅斑狼瘡、乾癬等。實際禁忌請以原廠仿單為準。
+- **藥物交互作用**：資料庫共收錄 337 筆交互作用。列出的主要項目多為中度，包括 epinephrine、hydrocortisone、hyoscyamine、bupropion、triamcinolone、morphine、atropine、dexamethasone、lorcaserin、cimetidine、canagliflozin、dapagliflozin、chlorpropamide 等；acetylsalicylic acid、magnesium oxide 為輕度。
 
 其他警語與禁忌症請參考原廠仿單。
 
@@ -112,14 +107,14 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.91%），但沒有任何臨床試驗或文獻支持，屬於僅有模型預測的 L5 證據。
-- 惡性高血壓通常需要快速降壓的注射藥物，口服 Metoprolol 在此情境的角色不明。
+- 預測分數雖高（0.9991），但針對此疾病沒有任何臨床試驗或文獻，證據等級為 L5，僅有模型預測。
+- 惡性高血壓性腎病屬於急重症，在缺乏直接證據下不宜貿然推進。
 
 **若要推進需要：**
-- 補充 Metoprolol 的作用機轉資料（MOA），並釐清腎素抑制在此疾病的實際角色
-- 進行系統性文獻回顧，確認 β 阻斷劑在惡性高血壓腎病變的既有臨床資料
-- 若有初步證據，設計小規模探索性研究，並明確界定其與現行標準治療的關係
-- 評估腎功能受損族群的劑量與安全性監測計畫
+- 檢索並評估 β 阻斷劑用於惡性高血壓及腎臟保護的直接研究
+- 補充詳細的作用機轉資料（MOA）
+- 釐清此族群中的安全性風險（腎功能不全、低血壓等）與其他降壓藥的相對定位
+- 設計小規模探索性研究或回溯性真實世界分析，以驗證療效訊號
 
 <!-- review:begin log -->
 

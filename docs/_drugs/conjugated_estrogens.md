@@ -4,9 +4,9 @@ title: Conjugated Estrogens
 parent: 中證據等級 (L3-L4)
 nav_order: 73
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 monitor_inn: "Conjugated estrogens"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "migraine with or without aura, susceptibility to", "thrombophilia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
 last_modified_at: 2026-10-16
 description: "Conjugated Estrogens：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L3）。原適應症：卵巢機能不全、月經不順、月經困難、機能性子宮出血"
 ---
@@ -14,7 +14,7 @@ description: "Conjugated Estrogens：預測新適應症為偏頭痛 (Migraine Di
 # Conjugated Estrogens
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 |------|------|
 | 原適應症 | 卵巢機能不全、月經不順、月經困難、機能性子宮出血 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
-| TxGNN 預測分數 | 99.77% |
+| TxGNN 預測分數 | 0.9977 |
 | 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 10 張／共 57 張） |
 | 許可證數 | 57 張（有效單方 10／有效複方 0／已註銷 47） |
 | 建議決策 | Hold |
 

@@ -4,7 +4,7 @@ title: Teriparatide
 parent: 僅模型預測 (L5)
 nav_order: 270
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Teriparatide：預測新適應症為十二指腸潰瘍 (duodenal ulcer)（證據等級 L5）。原適應症：停經後婦女骨質疏鬆症具高度骨折風險者"
 monitor_inn: "Teriparatide"
@@ -14,7 +14,7 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 # Teriparatide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -54,9 +54,9 @@ TxGNN 模型預測它可能對**十二指腸潰瘍 (duodenal ulcer)** 有效，�
 |------|------|
 | 原適應症 | 停經後婦女骨質疏鬆症具高度骨折風險者；男性原發性或次發於性腺功能低下症之骨質疏鬆且具高度骨折風險者；女性及男性因糖化皮質類固醇治療引起之骨質疏鬆症且具高度骨折風險者 |
 | 預測新適應症 | 十二指腸潰瘍 (duodenal ulcer) |
-| TxGNN 預測分數 | 99.86% |
+| TxGNN 預測分數 | 0.9986 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 5 張） |
 | 許可證數 | 5 張（有效單方 5／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -64,9 +64,7 @@ TxGNN 模型預測它可能對**十二指腸潰瘍 (duodenal ulcer)** 有效，�
 
 | 預測適應症 | TxGNN 分數 | 證據等級 | 建議 |
 |-----------|-----------|---------|------|
-| 懷孕相關骨質疏鬆症 | 99.55% | L3 | Proceed with Guardrails |
-| 閉經 (amenorrhea)，主要指功能性下視丘閉經的低骨密度 | 99.04% | L4 | Research Question（研究性問題） |
-| 其餘 8 項（食道、十二指腸相關、Worth 症候群等） | 99.4%–99.9% | L5 | Hold |
+| 閉經 (amenorrhea)，主要指功能性下視丘閉經的低骨密度 | 0.9904 | L4 | Research Question（研究性問題） |
 
 ---
 

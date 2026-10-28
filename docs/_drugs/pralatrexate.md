@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pralatrexate
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 227
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Pralatrexate"
 predicted_indications: ["pleural adenomatoid tumor", "relapsing-remitting multiple sclerosis", "pleural biphasic mesothelioma", "pleural epithelioid mesothelioma", "lymphohistiocytoid mesothelioma", "pericardium cancer", "pleural sarcomatoid mesothelioma", "malignant peritoneal mesothelioma", "well differentiated papillary mesothelioma", "pleural mesothelioma"]
-last_modified_at: 2026-10-16
-description: "Pralatrexate：預測新適應症為胸膜上皮樣間皮瘤 (Pleural Epithelioid Mesothelioma)（證據等級 L3）。原適應症：治療復發或頑固型周邊 T 細胞淋巴瘤 (PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益"
+last_modified_at: 2026-10-27
+description: "Pralatrexate：預測新適應症為胸膜腺瘤樣瘤 (pleural adenomatoid tumor)（證據等級 L5）。原適應症：治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益"
 ---
 
 # Pralatrexate
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,36 +33,34 @@ description: "Pralatrexate：預測新適應症為胸膜上皮樣間皮瘤 (Pleu
 
 </div>
 
-## Pralatrexate：從復發或頑固型周邊 T 細胞淋巴瘤到胸膜上皮樣間皮瘤
+## Pralatrexate：抗葉酸代謝藥物 → 胸膜腺瘤樣瘤 (pleural adenomatoid tumor)
 {: .text-alpha }
 
 ## 一句話總結
 
-Pralatrexate（服瘤停注射劑）是一種抗葉酸類抗癌藥，原本用於治療復發或頑固型周邊 T 細胞淋巴瘤 (PTCL)。
-TxGNN 模型預測它可能對**胸膜上皮樣間皮瘤 (Pleural Epithelioid Mesothelioma)** 有效。
-目前**沒有臨床試驗登記**，僅有 **1 篇 Phase 2 文獻**（針對一般惡性胸膜間皮瘤）支持這個方向，證據仍屬早期。
-
-> 說明：預測排名第 1 的是「胸膜腺瘤樣瘤」，但該項完全沒有證據。本報告改以有文獻支持、證據最完整的「胸膜上皮樣間皮瘤」作為主要評估對象，並在後文簡述其他預測結果。
+Pralatrexate 是一種抗葉酸類（二氫葉酸還原酶抑制劑）抗腫瘤藥物。
+TxGNN 模型預測它可能對**胸膜腺瘤樣瘤 (pleural adenomatoid tumor)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療復發或頑固型周邊 T 細胞淋巴瘤 (PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益 |
-| 預測新適應症 | 胸膜上皮樣間皮瘤 (Pleural Epithelioid Mesothelioma) |
-| TxGNN 預測分數 | 99.89% |
-| 證據等級 | L3（僅 1 篇 Phase 2 研究，且對象為一般惡性胸膜間皮瘤，證據偏弱） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益 |
+| 預測新適應症 | 胸膜腺瘤樣瘤 (pleural adenomatoid tumor) |
+| TxGNN 預測分數 | 0.9991 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
-| 建議決策 | Hold（列為研究問題，暫不推進） |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知的藥物類別，Pralatrexate 屬於抗葉酸藥物，可抑制二氫葉酸還原酶 (DHFR)，並可經由還原型葉酸載體 1 (RFC-1) 有效進入細胞，進而干擾 DNA 合成與細胞增生。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Pralatrexate 屬於抗葉酸類藥物，會抑制二氫葉酸還原酶（DHFR），並透過還原型葉酸載體 1（RFC-1）進入細胞，因此理論上可能影響增生活躍的間皮來源細胞。
 
-抗葉酸藥物（例如 pemetrexed）已是間皮瘤的既有治療機轉類別，上皮樣型又是對這類藥物較有反應的亞型。因此，從機轉上推論 Pralatrexate 可能適用，是合理的。
+不過，腺瘤樣瘤屬於良性腫瘤，增生活性低，使用具細胞毒性的藥物，其風險與效益是否合理令人存疑。目前沒有任何臨床或文獻證據支持此用途，預測僅來自模型分數。
 
-不過這是由類別延伸而來的推論，並非 Pralatrexate 本身在上皮樣間皮瘤的直接證據。原適應症（淋巴瘤）與間皮瘤在疾病類型上差異很大，兩者的共通點主要是細胞快速增生這個藥理基礎。
+另外值得一提的是，資料中同為胸膜間皮來源的其他預測（例如胸膜上皮樣間皮瘤、胸膜間皮瘤）有一項針對無法切除惡性胸膜間皮瘤的 Phase 2 研究，但那些並非本報告的主要預測疾病，不能視為對胸膜腺瘤樣瘤的直接證據。
 
 ## 臨床試驗證據
 
@@ -70,11 +68,7 @@ TxGNN 模型預測它可能對**胸膜上皮樣間皮瘤 (Pleural Epithelioid Me
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [17409804](https://pubmed.ncbi.nlm.nih.gov/17409804/) | 2007 | Phase 2 | J Thorac Oncol | 針對無法切除的惡性胸膜間皮瘤的 Phase II 試驗。背景指出間皮瘤對抗葉酸藥物有反應，Pralatrexate 毒性主要為口腔炎，在間皮瘤細胞株與異種移植模型中有明顯抗腫瘤活性 |
-
-另有 1 篇抗葉酸化療機轉的回顧文獻（[21301589](https://pubmed.ncbi.nlm.nih.gov/21301589/)，2010 年，Cancer Manag Res），僅與「胸膜間皮瘤」這個較廣的預測項目連結，提供機轉背景。
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -98,40 +92,32 @@ TxGNN 模型預測它可能對**胸膜上皮樣間皮瘤 (Pleural Epithelioid Me
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（抗葉酸類代謝拮抗劑） |
-| 骨髓抑制風險 | 中至高（知識圖譜列出血小板減少、嗜中性球減少、顆粒球缺乏、貧血等相關禁忌疾病） |
-| 致吐性分級 | 請參考原廠仿單 |
-| 監測項目 | CBC（含分類）、腎功能、肝功能、口腔黏膜狀況 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（抗葉酸代謝拮抗劑） |
+| 骨髓抑制風險 | 中至高（血小板低下、嗜中性白血球低下、貧血為常見的相關風險） |
+| 致吐性分級 | 低至中 |
+| 監測項目 | CBC（含分類）、肝腎功能、口腔黏膜狀況 |
 | 處置防護 | 需依細胞毒性藥物處置規範操作 |
+
+細部警語請參考原廠仿單的警語與注意事項。
 
 ## 安全性考量
 
-- **知識圖譜標示的相關疾病（非仿單文字）**：血小板減少、嗜中性球減少、顆粒球缺乏、貧血（含巨球性貧血）、腎功能不全、口腔炎。這些族群使用時需特別留意。
-- **藥物交互作用**：共查得 136 筆，以下為部分重點：
-  - 重度 (Major)：Deferiprone、Samarium (153Sm) lexidronam
-  - 中度 (Moderate)：乙醯水楊酸（阿斯匹靈）、Ibuprofen、Diclofenac、Flurbiprofen、Ketorolac 等 NSAIDs，以及 Chloramphenicol、Zidovudine、Pyrimethamine、Glucarpidase、Palifermin 等
-  - 臨床上需特別留意 NSAIDs（可能影響腎清除）與其他骨髓抑制藥物
-
-其餘警語與禁忌症請參考原廠仿單。
+- **藥物交互作用**：共查得 136 筆交互作用紀錄，其中包含嚴重等級者，例如 Deferiprone、Samarium (153Sm) lexidronam；中度等級者包含 Acetylsalicylic acid、Ibuprofen、Diclofenac、Ketorolac、Flurbiprofen、Pyrimethamine、Zidovudine、Chloramphenicol 等（NSAID 類藥物可能影響腎臟排除，需特別留意）。
+- **需留意的相關風險**：血小板低下、嗜中性白血球低下、顆粒球缺乏、貧血、腎功能不全與口腔炎，為此藥相關的需注意情況，這些並非來自仿單文字，使用時應仔細評估。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 目前沒有任何針對上皮樣間皮瘤的臨床試驗登記，唯一的 Phase 2 研究是 2007 年對一般惡性胸膜間皮瘤的早期研究，證據不足以推進。
-- 抗葉酸類藥物在間皮瘤的機轉基礎合理，但已有既有標準抗葉酸療法，Pralatrexate 需要證明相對優勢，且其細胞毒性（口腔炎、骨髓抑制）需權衡。
-
-**其他預測結果摘要：**
-- 胸膜間皮瘤（分數 99.85%）：L3，有同一篇 Phase 2 加一篇機轉回顧，同樣建議作為研究問題。
-- 胸膜腺瘤樣瘤、復發緩解型多發性硬化症、其他間皮瘤亞型與心包膜癌：僅有模型預測 (L5)，無實際證據，建議 Hold。其中腺瘤樣瘤屬良性腫瘤，多發性硬化症為慢性非惡性疾病，細胞毒性藥物的風險效益比不利。
+- 預測疾病為良性腫瘤，且沒有任何直接針對它的臨床試驗或文獻，證據等級僅為 L5。
+- 細胞毒性藥物用於良性疾病，風險效益比不明確。
 
 **若要推進需要：**
-- 補齊作用機轉資料（MOA）
-- 重新檢索 Pralatrexate 於間皮瘤的臨床試驗與較新文獻，確認 2007 年 Phase 2 的完整結果與分亞型數據
-- 與現行標準治療（如 pemetrexed 為基礎的療法）做比較評估
-- 取得仿單的警語、禁忌症與劑量調整資訊，建立血液學與黏膜毒性的監測計畫
-- 評估台灣現有適應症為 PTCL，用於間皮瘤屬適應症外使用，需另行審查或臨床試驗途徑
+- 取得 Pralatrexate 詳細的作用機轉資料
+- 針對胸膜腺瘤樣瘤的前臨床或病例層級研究
+- 評估良性疾病使用細胞毒性藥物的風險效益與替代治療（如手術切除）
+- 建立血液學與黏膜毒性的監測計畫
 
 <!-- review:begin log -->
 

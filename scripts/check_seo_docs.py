@@ -289,8 +289,12 @@ from generate_drug_stats import count_spot_problems as _count_spots  # noqa: E40
 _stats_path = DOCS / "_data" / "drug_stats.json"
 if _stats_path.exists():
     _stats = json.loads(_stats_path.read_text(encoding="utf-8"))
-    if _stats.get("total_drugs") != len(_fm_level):
-        errors.append(f"drug_stats.json total_drugs={_stats.get('total_drugs')}，藥物頁 {len(_fm_level)} 頁（跑 scripts/generate_drug_stats.py）")
+    # 2026-10-28：已知用途頁（evidence_level N/A）也是公開藥物報告，總數要算進去
+    _n_public = len(_fm_level) + sum(1 for md in (DOCS / "_drugs").glob("*.md")
+                                     if re.search(r"^evidence_level:[ \t]*N/A", (_h := md.read_text(encoding="utf-8", errors="replace")[:2000]), re.M)
+                                     and not re.search(r"^noindex:[ \t]*true", _h, re.M))
+    if _stats.get("total_drugs") != _n_public:
+        errors.append(f"drug_stats.json total_drugs={_stats.get('total_drugs')}，藥物頁 {_n_public} 頁（跑 scripts/generate_drug_stats.py）")
     errors.extend(f"寫死的藥物數：{e}（跑 scripts/generate_drug_stats.py）" for e in _count_spots(_stats))
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

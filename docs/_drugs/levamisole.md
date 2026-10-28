@@ -4,17 +4,17 @@ title: Levamisole
 parent: 僅模型預測 (L5)
 nav_order: 166
 evidence_level: L5
-indication_count: 3
+indication_count: 10
 monitor_inn: "levamisole"
-predicted_indications: ["drug-induced osteoporosis", "benign neoplasm of tongue", "cervical neuroblastoma"]
-last_modified_at: 2026-10-16
-description: "Levamisole：預測新適應症為藥物性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：抗腫瘤藥，用於氟嘧啶二酮之輔助治療劑"
+predicted_indications: ["drug-induced osteoporosis", "benign neoplasm of tongue", "cervical neuroblastoma", "benign neoplasm of buccal mucosa", "epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of floor of mouth", "schwannoma of jugular foramen", "benign neoplasm of hypopharynx", "inner ear neoplasm"]
+last_modified_at: 2026-10-23
+description: "Levamisole：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：驅除蛔蟲、鉤蟲、糞圓蟲"
 ---
 
 # Levamisole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,52 +33,41 @@ description: "Levamisole：預測新適應症為藥物性骨質疏鬆 (Drug-indu
 
 </div>
 
-## Levamisole：從氟嘧啶輔助治療與驅蟲到藥物性骨質疏鬆
+## Levamisole：從驅蟲治療到藥物誘發性骨質疏鬆
 {: .text-alpha }
 
 ## 一句話總結
 
-Levamisole（左旋咪唑）在台灣原本核准作為腫瘤輔助用藥（搭配氟嘧啶類藥物），以及驅除蛔蟲、鉤蟲等腸道寄生蟲的驅蟲劑。
-TxGNN 模型預測它可能對**藥物性骨質疏鬆 (Drug-induced Osteoporosis)** 有效。
-目前**沒有臨床試驗和相關文獻**支持這個方向，證據僅來自模型預測。
-
----
+Levamisole（左旋咪唑）在台灣核准的主要用途是驅除蛔蟲、鉤蟲與糞圓蟲，過去也曾作為氟嘧啶類藥物的輔助抗腫瘤藥。
+TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)** 有效，但目前**沒有臨床試驗，也沒有直接研究此疾病的文獻**，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 抗腫瘤藥，用於氟嘧啶二酮之輔助治療劑 |
-| 預測新適應症 | 藥物性骨質疏鬆 (Drug-induced Osteoporosis) |
-| TxGNN 預測分數 | 99.999% |
+| 原適應症 | 驅除蛔蟲、鉤蟲、糞圓蟲 |
+| 預測新適應症 | 藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis) |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 21 張） |
 | 許可證數 | 21 張（有效單方 4／有效複方 0／已過期 1／已註銷 16） |
 | 建議決策 | Hold |
 
----
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 levamisole 是免疫調節劑，也具有鹼性磷酸酶抑制作用；它過去曾搭配氟尿嘧啶（fluorouracil）作為腫瘤輔助治療，並長期作為驅蟲劑使用。
+目前缺乏詳細的作用機轉資料。Levamisole 是一種免疫調節劑兼驅蟲藥，與骨代謝或糖皮質素引起的骨質流失之間沒有已知的機轉關聯。
 
-不過，現有資料無法建立 levamisole 與藥物性骨質疏鬆之間明確的機轉連結。原適應症（腫瘤輔助、驅蟲）與骨質疏鬆在疾病性質上差異很大，兩者的關聯目前僅來自 TxGNN 知識圖譜的預測。鹼性磷酸酶與骨代謝有關，是可能的探索方向，但這只是推測，缺乏實證支持。
-
-此外，TxGNN 也對另外兩個適應症給出高分預測：**舌部良性腫瘤**（分數 99.996%）與**頸部神經母細胞瘤**（分數 99.996%）。這兩者同樣沒有臨床試驗支持。神經母細胞瘤僅檢索到一篇體外核苷酸代謝研究，並未以 levamisole 作為治療進行測試，因此不構成有效證據。
-
----
+這項預測的分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，也無法由現有資料找出合理的生物學路徑。分數雖高，但不應被視為療效證據。在現有資料下，這個預測的可信度有限，應視為待驗證的假說。
 
 ## 臨床試驗證據
 
 目前無相關臨床試驗登記。
 
----
-
 ## 文獻證據
 
-目前無針對「藥物性骨質疏鬆」的相關文獻。
+目前無相關文獻。
 
----
+（本次預測的排名較後面幾項候選適應症雖有少量文獻，但皆屬其他疾病，並未直接研究藥物誘發性骨質疏鬆。）
 
 ## 台灣上市資訊
 
@@ -107,33 +96,27 @@ TxGNN 模型預測它可能對**藥物性骨質疏鬆 (Drug-induced Osteoporosis
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-- **藥物交互作用**：已查得 73 筆交互作用紀錄，以下列出部分主要項目：
-  - **嚴重 (Major)**：Deferiprone、Samarium (153Sm) lexidronam、Adalimumab、Baricitinib、Certolizumab pegol、Cladribine
-  - **中度 (Moderate)**：Warfarin、Zidovudine、Ethanol、Azathioprine、Chloramphenicol、Alemtuzumab、Anakinra，以及多種疫苗（如破傷風類毒素、炭疽疫苗、霍亂活疫苗）
+- **藥物交互作用**：共查得 73 筆交互作用紀錄，列舉的部分包括：
+  - 嚴重（Major）：Deferiprone、Samarium (153Sm) lexidronam、Adalimumab、Baricitinib、Certolizumab pegol、Cladribine
+  - 中度（Moderate）：Ethanol、Warfarin、Zidovudine、Azathioprine、Chloramphenicol、Alemtuzumab、Anakinra，以及多種疫苗與免疫抑制劑
 
-  整體而言，與免疫抑制劑、生物製劑及可能造成骨髓抑制的藥物併用時需特別留意。
-
-其他警語與禁忌症請參考原廠仿單。
-
----
+其餘警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測僅來自 TxGNN 模型，沒有臨床試驗與文獻佐證，證據等級為 L5，且機轉上缺乏明確連結。
-- 與免疫抑制、骨髓抑制類藥物有多項嚴重交互作用，在證據不足的情況下不宜推進。
+- 預測疾病沒有任何臨床試驗或直接相關文獻，證據等級僅為 L5。
+- 缺乏作用機轉資料，也找不到 levamisole 與骨代謝的合理關聯。
 
 **若要推進需要：**
-- 補充詳細的作用機轉資料（MOA），特別是鹼性磷酸酶抑制與骨代謝之間的關係
-- 進行文獻回顧與前臨床研究（如細胞或動物骨質疏鬆模型），驗證 levamisole 對骨代謝的影響
-- 評估其安全性風險（含交互作用）是否可被這個新適應症的潛在效益所接受
-- 取得原廠仿單中的警語與禁忌症資料
+- 補充 levamisole 的作用機轉資料，評估其與骨代謝的可能路徑
+- 進行前臨床研究（如糖皮質素誘發骨質流失的動物模型）
+- 評估與免疫抑制劑、糖皮質素併用時的安全性（交互作用多為中度至嚴重）
+- 確認文獻回顧中是否有任何直接研究此疾病的報告
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

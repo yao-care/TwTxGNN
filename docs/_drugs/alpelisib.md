@@ -4,9 +4,9 @@ title: Alpelisib
 parent: 僅模型預測 (L5)
 nav_order: 19
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 monitor_inn: "Alpelisib"
-predicted_indications: ["pulmonary hypertension", "migraine with or without aura, susceptibility to", "migraine disorder", "kyphoscoliotic heart disease", "rheumatoid arthritis", "leprosy", "migraine with brainstem aura", "thrombotic disease", "amyotrophic lateral sclerosis", "multiple endocrine neoplasia"]
+predicted_indications: ["pulmonary hypertension"]
 last_modified_at: 2026-10-16
 description: "Alpelisib：預測新適應症為肺動脈高壓 (Pulmonary Hypertension)（證據等級 L5）。原適應症：與 fulvestrant 併用，治療 HR 陽性、HER2 陰性及 PIK3CA 突變的局部晚期或轉移性乳癌…"
 ---
@@ -14,7 +14,7 @@ description: "Alpelisib：預測新適應症為肺動脈高壓 (Pulmonary Hypert
 # Alpelisib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有�
 |------|------|
 | 原適應症 | 與 fulvestrant 併用，治療 HR 陽性、HER2 陰性及 PIK3CA 突變的局部晚期或轉移性乳癌，且曾接受內分泌治療但疾病惡化的停經後女性及男性病人 |
 | 預測新適應症 | 肺動脈高壓 (Pulmonary Hypertension) |
-| TxGNN 預測分數 | 99.03% |
+| TxGNN 預測分數 | 0.9903 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -132,7 +132,6 @@ TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有�
 
 **理由：**
 - 此預測僅有模型分數支持（證據等級 L5），沒有相關臨床試驗，唯一的文獻是肺部不良反應的病例報告，與預期方向相反。
-- 其他預測適應症（如偏頭痛、類風濕性關節炎、血栓性疾病等）同樣缺乏直接證據，目前沒有明顯優先於此項的替代方向。
 
 **若要推進需要：**
 - 補齊 alpelisib 的作用機轉資料。

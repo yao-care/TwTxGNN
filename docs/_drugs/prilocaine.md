@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Prilocaine
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 233
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Prilocaine"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
-last_modified_at: 2026-10-16
-description: "Prilocaine：預測新適應症為首位預測：乳突狀結膜炎 (Papillary Conjunctivitis)（證據等級 L3）。原適應症：局部麻醉劑"
+last_modified_at: 2026-10-27
+description: "Prilocaine：預測新適應症為乳頭狀結膜炎 (papillary conjunctivitis)（證據等級 L5）。原適應症：皮膚表面止痛用藥"
 ---
 
 # Prilocaine
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,66 +33,41 @@ description: "Prilocaine：預測新適應症為首位預測：乳突狀結膜�
 
 </div>
 
-## Prilocaine：從局部麻醉到神經痛
+## Prilocaine：局部鈉離子通道阻斷型麻醉劑 → 乳頭狀結膜炎 (papillary conjunctivitis)
 {: .text-alpha }
 
 ## 一句話總結
 
-Prilocaine（必洛卡因）是醯胺類局部麻醉劑，原本用於局部麻醉與皮膚表面止痛。
-TxGNN 模型的首位預測是**乳突狀結膜炎 (Papillary Conjunctivitis)**，但該項完全沒有臨床試驗或文獻支持。
-本報告改以證據最充分的預測**神經痛 (Neuralgia)** 為重點：目前有 **2 個臨床試驗**和 **14 篇文獻**，其中多數來自 lidocaine/prilocaine 複方乳膏（EMLA）用於疱疹後神經痛。
+Prilocaine（必洛卡因）是醯胺類局部麻醉劑，主要以外用方式使用於皮膚表面止痛。
+TxGNN 模型預測它可能對**乳頭狀結膜炎 (papillary conjunctivitis)** 有效，但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 局部麻醉劑 |
-| 預測新適應症 | 首位預測：乳突狀結膜炎 (Papillary Conjunctivitis)；證據最充分：神經痛 (Neuralgia) |
-| TxGNN 預測分數 | 乳突狀結膜炎 99.78%；神經痛 99.34% |
-| 證據等級 | 神經痛 L3（乳突狀結膜炎為 L5） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 皮膚表面止痛用藥。; 局部麻醉劑; 局部麻醉劑。; 與下列狀況有關的皮膚表面止痛：１插針、如靜脈注射導管或抽血前。２表皮外科處置。３生殖器黏膜、如表皮外科處置前或浸潤麻醉前。; 與下列狀況有關的皮膚表面止痛：（１）插針、如靜脈注射導管或抽血前。（２）表皮外科處置。（３）生殖器粘膜、如表皮外科處置前或浸潤痲醉前。; 與下列狀況有關的皮膚表面止痛：１．插針，如靜脈注射導管或抽血前。２．表皮外科處置。３．生殖器黏膜，如表皮外科處置前或浸潤麻醉前。; 與下列狀況有關的皮膚表面止痛：（１）插針，如靜脈注射導管或抽血前。（２）表皮外科處置。（３）生殖器黏膜，如表皮外科處置前或浸潤麻醉前。; 與下列狀況有關 |
+| 預測新適應症 | 乳頭狀結膜炎 (papillary conjunctivitis) |
+| TxGNN 預測分數 | 0.9978 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 28 張／共 30 張） |
 | 許可證數 | 30 張（有效單方 8／有效複方 20／已過期 1／已註銷 1） |
-| 建議決策 | 乳突狀結膜炎：Hold；神經痛：Proceed with Guardrails（作為研究問題，需謹慎推進） |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Prilocaine 屬於醯胺類局部麻醉劑，其藥理特性是阻斷電壓門控鈉離子通道，在台灣已核准用於皮膚表面止痛，常與 lidocaine 組成共熔混合物（EMLA）。
+目前缺乏詳細的作用機轉資料。就已知藥理而言，prilocaine 屬於局部麻醉劑，作用方式是阻斷電壓門控鈉離子通道，抑制感覺神經的動作電位傳導。
 
-神經痛（特別是疱疹後神經痛）的疼痛來自受損的皮膚傷害感受神經纖維異常放電。局部麻醉劑阻斷鈉通道後，可降低這類異位放電與異常痛，因此在機轉上與原本的皮膚止痛用途相連。多篇文獻報告 EMLA 用於疱疹後神經痛，部分顯示疼痛評分改善。
+理論上，這類作用可能降低眼表的感覺訊號（如搔癢、不適）。但乳頭狀結膜炎主要是過敏性或機械刺激引起的發炎性疾病，麻醉劑並不處理其免疫或發炎成因。
 
-首位預測乳突狀結膜炎則缺乏證據。鈉通道阻斷理論上可降低眼表感覺訊號，但這是過度推論，且該病症屬過敏或發炎性疾病，不宜據此推進。
+因此，這個預測目前只能視為假說：沒有任何臨床試驗、文獻或藥理證據顯示 prilocaine 對此疾病有治療角色。
 
 ## 臨床試驗證據
 
-以下為神經痛相關試驗（乳突狀結膜炎無相關試驗）：
-
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00916942](https://clinicaltrials.gov/study/NCT00916942) | Phase 2 | 完成 | 20 | 開放標籤研究，以 lidocaine 2.5%/prilocaine 2.5% 乳膏預先處理 NGX-4010（辣椒素貼片）用於疱疹後神經痛，評估耐受性；規模小且無對照 |
-| [NCT06899438](https://clinicaltrials.gov/study/NCT06899438) | N/A | 完成 | 38 | 比較肉毒桿菌毒素與 prilocaine 用於肌筋膜疼痛症候群；僅提供一般疼痛模型背景 |
-
-另有偏頭痛相關的 [NCT02403687](https://clinicaltrials.gov/study/NCT02403687)（N/A、完成、300 人），為外用 NSAID 止痛的觀察性研究，並未確認與 prilocaine 或偏頭痛直接相關，僅屬間接參考。
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-以下為神經痛相關文獻（依證據性質排列）：
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [2616182](https://pubmed.ncbi.nlm.nih.gov/2616182/) | 1989 | Cohort | Pain | 12 位難治性疱疹後神經痛患者使用 5% EMLA 乳膏，6 小時後疼痛評分顯著改善 |
-| [22182397](https://pubmed.ncbi.nlm.nih.gov/22182397/) | 2011 | 臨床研究 | BMC Anesthesiology | 以 lidocaine/prilocaine 乳膏預先處理，評估辣椒素 8% 貼片在疱疹後神經痛的耐受性 |
-| [2493878](https://pubmed.ncbi.nlm.nih.gov/2493878/) | 1989 | Case series | BMJ | lignocaine-prilocaine 乳膏用於疱疹後神經痛 |
-| [8695081](https://pubmed.ncbi.nlm.nih.gov/8695081/) | 1996 | Case report | J Clin Anesth | EMLA 成功治療對其他療法無效的疱疹後神經痛 |
-| [1430539](https://pubmed.ncbi.nlm.nih.gov/1430539/) | 1992 | Review | J Dermatol Surg Oncol | EMLA 為有效且安全的表面麻醉劑，也曾用於疱疹後神經痛等用途 |
-| [23314014](https://pubmed.ncbi.nlm.nih.gov/23314014/) | 2013 | Review | Curr Opin Support Palliat Care | 慢性傷口相關疼痛的處置策略 |
-| [10342425](https://pubmed.ncbi.nlm.nih.gov/10342425/) | 1999 | Cohort | Pain | 9 位健康受試者中，EMLA 預處理未能減輕 1% 外用辣椒素引起的疼痛 |
-| [41777672](https://pubmed.ncbi.nlm.nih.gov/41777672/) | 2026 | 回溯性世代 | Front Aging Neurosci | 比較單用 EMLA 與椎旁阻斷加 EMLA，對胸段疱疹後神經痛辣椒素貼片施用耐受性的影響 |
-
-其他相關但證據力較低的文獻包括 PMID 12378018（疱疹後神經痛預後因子）、28335745（健康受試者感覺變化）、10916328（下齒槽神經阻斷後神經損傷）、18379178（局麻乳膏配方研究）、26857302（辣椒素貼片個案）與 7897165（EMLA 接觸性過敏）。
-
-**重要提醒：**
-- 現有證據多為老舊、小規模、無對照的研究，使用的是 lidocaine/prilocaine **複方**，無法歸因於 prilocaine 單一成分。
-- 目前沒有已完成的 Phase 3 RCT。
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -152,32 +127,29 @@ TxGNN 模型的首位預測是**乳突狀結膜炎 (Papillary Conjunctivitis)**�
 
 ## 安全性考量
 
-- **藥物交互作用**：共查得 22 筆交互作用，多數屬 Major 等級，主要包括：
-  - 會誘發高鐵血紅素血症的藥物：dapsone（含外用）、primaquine、chloroquine、quinine、tafenoquine、rasburicase、sulfasalazine
-  - 硝酸類：amyl nitrite、nitric oxide、nitrous acid、silver nitrate
-  - 其他局部麻醉劑：lidocaine（含外用）、benzocaine（外用）、cinchocaine（外用）
-  - 其他：metoclopramide、silver sulfadiazine（外用）
-  - 中度與輕度：morphine（脂質體）、hyaluronidase
-- **知識圖譜標示的疾病禁忌（非仿單內容）**：高血壓、癲癇、腎臟與肝臟疾病、糖尿病、冠狀動脈疾病與心肌梗塞、血紅素病變、心臟傳導疾病、呼吸衰竭、閉角型青光眼、重症肌無力、丁醯膽鹼酯酶缺乏、甲狀腺機能亢進、房室傳導阻滯等。
-- **文獻提示的風險**：在異位性皮膚炎等皮膚屏障受損者，外用 EMLA 吸收增加，曾有抽搐與高鐵血紅素血症的個案；亦有接觸性過敏與紫斑的報告。
+- **藥物交互作用**：已彙整 22 筆交互作用紀錄，其中多筆為嚴重等級（Major），主要包括：
+  - 可能增加高鐵血紅素血症風險的藥物：primaquine、chloroquine、quinine、tafenoquine、dapsone（含外用）、rasburicase、sulfasalazine、亞硝酸類（amyl nitrite、nitrous acid、nitric oxide）。
+  - 其他局部麻醉劑：lidocaine（含外用）、benzocaine（外用）、cinchocaine（外用）。
+  - 外用銀製劑：silver nitrate、silver sulfadiazine。
+  - metoclopramide 同為嚴重等級。
+  - 次要至中度：hyaluronidase（輕微）、liposomal morphine（中度）。
+- 本報告所整理的資料另顯示，下列疾病與本藥存在禁忌關聯，使用前宜審慎評估：高血壓、癲癇、腎臟與肝臟疾病、糖尿病、冠狀動脈疾病與心肌梗塞、血紅素病變、心臟傳導疾病（含房室傳導阻滯）、呼吸衰竭、閉角型青光眼、重症肌無力、丁醯膽鹼酯酶缺乏、甲狀腺機能亢進。這些資料並非來自仿單文字，實際使用請以原廠仿單為準。
 
-正式的警語與禁忌症請參考原廠仿單。
+其餘警語與禁忌症資料不足，請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：**
-- 首位預測（乳突狀結膜炎）：**Hold**
-- 神經痛：**Proceed with Guardrails**（僅限作為研究問題推進）
+**決策：Hold**
 
 **理由：**
-- 乳突狀結膜炎只有模型預測，沒有任何臨床試驗或文獻，證據等級為 L5。
-- 神經痛有機轉合理性與多篇疱疹後神經痛的臨床報告，證據等級為 L3，但多為小型、無對照的複方研究，尚不足以直接支持臨床推廣。
+- 此預測僅來自模型分數，沒有任何臨床試驗或文獻支持，證據等級為 L5。
+- 作用機轉上缺乏能解釋對過敏性或發炎性結膜病變有治療效果的依據。
 
 **若要推進需要：**
-- 取得 prilocaine 的詳細作用機轉資料（MOA）。
-- 設計針對疱疹後神經痛的隨機對照試驗，並釐清 prilocaine 相對於 lidocaine 單方的貢獻。
-- 建立高鐵血紅素血症風險管控，特別是兒童、皮膚屏障受損者與併用誘發高鐵血紅素血症藥物者。
-- 確認用藥途徑與劑型（外用乳膏）符合神經痛的使用情境。
+- 取得詳細的作用機轉資料，釐清與乳頭狀結膜炎病理的關聯。
+- 先進行文獻與前臨床探索，確認眼表使用的有效性。
+- 評估眼科給藥途徑與劑型的可行性，以及眼表使用的局部毒性與過敏風險。
+- 建立安全性監測計畫，特別留意高鐵血紅素血症與接觸過敏。
 
 <!-- review:begin log -->
 

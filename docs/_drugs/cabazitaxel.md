@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Cabazitaxel
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 51
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Cabazitaxel"
-predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-hemoglobin d disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
+predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
 last_modified_at: 2026-10-16
 description: "Cabazitaxel：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：與 prednisone 或 prednisolone 併用治療去勢抗性轉移性前列腺癌且已接受過 docetaxel 治療者"
 ---
@@ -14,7 +14,7 @@ description: "Cabazitaxel：預測新適應症為女性乳癌 (Female Breast Car
 # Cabazitaxel
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 |------|------|
 | 原適應症 | 與 prednisone 或 prednisolone 併用治療去勢抗性轉移性前列腺癌且已接受過 docetaxel 治療者 |
 | 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
-| TxGNN 預測分數 | 99.92% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9992 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Proceed with Guardrails |
 

@@ -143,7 +143,7 @@ window.TWTXGNN_ANALYTICS = {
           "@type": "ListItem",
           "position": 2,
           "name": "{{ page.parent }}",
-          "item": "{% if page.evidence_level == 'L1' or page.evidence_level == 'L2' %}{{ '/evidence-high' | absolute_url }}{% elsif page.evidence_level == 'L3' or page.evidence_level == 'L4' %}{{ '/evidence-medium' | absolute_url }}{% else %}{{ '/evidence-low' | absolute_url }}{% endif %}"
+          "item": "{% if page.evidence_level == 'L1' or page.evidence_level == 'L2' %}{{ '/evidence-high' | absolute_url }}{% elsif page.evidence_level == 'L3' or page.evidence_level == 'L4' %}{{ '/evidence-medium' | absolute_url }}{% elsif page.evidence_level == 'N/A' %}{{ '/known-uses' | absolute_url }}{% else %}{{ '/evidence-low' | absolute_url }}{% endif %}"
         },
         {
           "@type": "ListItem",
@@ -356,7 +356,7 @@ window.TWTXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "TwTxGNN 藥物驗證報告",
       "description": "{{ site.data.drug_stats.total_drugs }} 種台灣健保藥品的老藥新用驗證報告",
-      "numberOfItems": 292,
+      "numberOfItems": 291,
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {

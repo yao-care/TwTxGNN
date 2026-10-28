@@ -4,7 +4,7 @@ title: Lenvatinib
 parent: 中證據等級 (L3-L4)
 nav_order: 164
 evidence_level: L3
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-16
 description: "Lenvatinib：預測新適應症為脂肪肉瘤 (Liposarcoma)（證據等級 L3）。原適應症：分化型甲狀腺癌：適用於放射性碘治療無效之進行性，且為局部晚期或轉移性之分化型甲狀腺癌之成人病人（另含腎細胞癌、肝細胞癌、子宮內膜癌）"
 monitor_inn: "lenvatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 # Lenvatinib
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，
 |------|------|
 | 原適應症 | 分化型甲狀腺癌：適用於放射性碘治療無效之進行性，且為局部晚期或轉移性之分化型甲狀腺癌之成人病人（另含腎細胞癌、肝細胞癌、子宮內膜癌） |
 | 預測新適應症 | 脂肪肉瘤 (Liposarcoma) |
-| TxGNN 預測分數 | 99.51% |
+| TxGNN 預測分數 | 0.9951 |
 | 證據等級 | L3（僅有單臂 Phase 1b/2 試驗與觀察性資料，無已完成的 Phase 2/3 RCT） |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold（列為研究問題，待更多證據） |
 
@@ -131,7 +131,7 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，
 **決策：Hold**
 
 **理由：**
-脂肪肉瘤的證據目前僅有一個單臂 Phase 1b/2 試驗（lenvatinib 併用 eribulin），缺乏隨機對照試驗，也無法分辨 lenvatinib 單獨的貢獻。TxGNN 分數雖高（99.51%），但仍應作為研究問題，而非臨床推薦。
+脂肪肉瘤的證據目前僅有一個單臂 Phase 1b/2 試驗（lenvatinib 併用 eribulin），缺乏隨機對照試驗，也無法分辨 lenvatinib 單獨的貢獻。TxGNN 分數雖高（0.9951），但仍應作為研究問題，而非臨床推薦。
 
 **若要推進需要：**
 - 取得 LEADER 研究的完整療效與安全性結果，特別是脂肪肉瘤次族群的反應率與存活期

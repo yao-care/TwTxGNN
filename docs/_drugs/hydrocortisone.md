@@ -4,7 +4,7 @@ title: Hydrocortisone
 parent: 中證據等級 (L3-L4)
 nav_order: 136
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Hydrocortisone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L3）。原適應症：暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀"
 monitor_inn: "Hydrocortisone"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Hydrocortisone
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 |------|------|
 | 原適應症 | 暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀 |
 | 預測新適應症 | 圓形禿 (Alopecia Areata) |
-| TxGNN 預測分數 | 99.97% |
+| TxGNN 預測分數 | 0.9997 |
 | 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 140 張／共 442 張） |
 | 許可證數 | 442 張（有效單方 37／有效複方 103／已過期 8／已註銷 294） |
 | 建議決策 | Hold |
 

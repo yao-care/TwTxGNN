@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Hydroquinone
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 137
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 monitor_inn: "Hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -14,7 +14,7 @@ description: "Hydroquinone：預測新適應症為脂漏性角化症 (Seborrheic
 # Hydroquinone
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **4** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 |------|------|
 | 原適應症 | 黑斑、雀斑 |
 | 預測新適應症 | 脂漏性角化症 (Seborrheic Keratosis) |
-| TxGNN 預測分數 | 99.73% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9973 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 71 張／共 103 張） |
 | 許可證數 | 103 張（有效單方 54／有效複方 17／已過期 2／已註銷 30） |
 | 建議決策 | Hold |
 

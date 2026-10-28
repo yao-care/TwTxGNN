@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vonoprazan
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 304
-evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Vonoprazan：預測新適應症為活動性消化性潰瘍 (Active Peptic Ulcer Disease)（證據等級 L2）。原適應症：糜爛性食道炎(EE)的治療及維持治療"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Vonoprazan"
-predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "pylorospasm", "Dieulafoy lesion", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
+predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "cascade stomach", "pylorospasm", "gastric dilatation", "hemorrhagic duodenitis"]
+last_modified_at: 2026-10-27
+description: "Vonoprazan：預測新適應症為消化性潰瘍穿孔 (peptic ulcer perforation)（證據等級 L5）."
 ---
 
 # Vonoprazan
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,35 +33,38 @@ predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "
 
 </div>
 
-## Vonoprazan：從糜爛性食道炎與消化性潰瘍到活動性消化性潰瘍
+## Vonoprazan：鉀離子競爭型酸阻斷劑 → 消化性潰瘍穿孔 (peptic ulcer perforation)
 {: .text-alpha }
 
 ## 一句話總結
 
-Vonoprazan（福星定）是一種鉀離子競爭性胃酸阻斷劑（P-CAB），原本用於糜爛性食道炎、胃潰瘍、十二指腸潰瘍及輔助根除幽門螺旋桿菌。
-TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Disease)** 有效，
-目前**無登記的臨床試驗**，但有 **17 篇文獻**支持這個方向。
-需要特別說明：胃潰瘍與十二指腸潰瘍本來就是台灣核准的適應症，這個預測屬於仿單內適應症，並非真正的新用途。
+Vonoprazan 是一種抑制胃酸分泌的口服藥物，在台灣已有上市許可證。
+TxGNN 模型預測它可能對**消化性潰瘍穿孔 (peptic ulcer perforation)** 有關聯。
+目前**沒有直接以此疾病為對象的臨床試驗或研究**，僅有 3 篇相關的潰瘍治療文獻（2 篇指引、1 篇統合分析）提供間接參考。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 糜爛性食道炎(EE)的治療及維持治療；治療胃潰瘍；治療十二指腸潰瘍；輔助根除幽門螺旋桿菌 |
-| 預測新適應症 | 活動性消化性潰瘍 (Active Peptic Ulcer Disease) |
-| TxGNN 預測分數 | 99.97% |
-| 證據等級 | L2（依資料彙整的評分；本次資料未登記臨床試驗，主要依賴文獻中的 RCT 與統合分析） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 1.	糜爛性食道炎(EE)的治療及維持治療。
+ 2.	治療胃潰瘍。
+ 3.	治療十二指腸潰瘍。
+ 4.	輔助根除幽門螺旋桿菌(Helicobacter pylori)。 |
+
+| 預測新適應症 | 消化性潰瘍穿孔 (peptic ulcer perforation) |
+| TxGNN 預測分數 | 0.9997 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 4 張） |
 | 許可證數 | 4 張（有效單方 3／有效複方 0／已註銷 1） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫未收錄）。根據文獻，Vonoprazan 是首創的鉀離子競爭性胃酸阻斷劑，可逆地抑制胃壁細胞的 H+/K+-ATPase（質子泵），提供強效且持久的胃酸抑制，且不需酸活化，起效快，較不受進食時間及 CYP2C19 基因多型性影響。
+目前缺乏詳細的作用機轉資料。根據藥理資料，Vonoprazan 的作用標的為胃壁細胞的質子幫浦（H+/K+-ATPase，基因 ATP4A），屬於鉀離子競爭型酸阻斷劑，可強效抑制胃酸分泌。
 
-消化性潰瘍屬於酸依賴性疾病，持續而強效的胃酸抑制有助於潰瘍癒合並降低復發。Vonoprazan 在日本自 2015 年起已用於胃十二指腸潰瘍，台灣許可證也已核准胃潰瘍與十二指腸潰瘍的治療，因此這項預測與現有適應症一致，屬於「模型驗證了已知用途」，並非新用途開發。
+消化性潰瘍穿孔的根本成因是胃酸與黏膜損傷造成的潰瘍。因此，抑制胃酸理論上可能有助於穿孔修補後底層潰瘍的癒合，並降低復發風險。
 
-TxGNN 同時預測了其他相關疾病，其中證據較有限者包括消化性潰瘍穿孔、胃空腸吻合口潰瘍、食道裂孔疝、出血性十二指腸炎，皆屬以胃酸抑制作為輔助的間接用途，證據多由未併發潰瘤或 GERD 的資料外推。其餘如無胃酸症、幽門痙攣、Dieulafoy 病灶、胃擴張、瀑布狀胃，機轉上缺乏合理連結，且幾乎沒有臨床證據，建議暫緩。特別是無胃酸症，本身已缺乏胃酸，再抑制胃酸並無治療意義，應視為模型的假陽性。
+不過，穿孔是需要外科處置的急症，Vonoprazan 最多只能作為輔助用藥。目前支持這個方向的證據都來自未發生併發症的潰瘍研究，屬於間接推論，沒有針對穿孔本身的藥物研究。
 
 ## 臨床試驗證據
 
@@ -69,20 +72,13 @@ TxGNN 同時預測了其他相關疾病，其中證據較有限者包括消化�
 
 ## 文獻證據
 
-下列為與活動性消化性潰瘍較直接相關的文獻（資料彙整中另有多篇為 H. pylori 綜述、植物萃取物動物研究，與 Vonoprazan 的直接關聯較低，未列入）。
-
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [28988197](https://pubmed.ncbi.nlm.nih.gov/28988197/) | 2018 | 隨機對照試驗 | Gut | 以 lansoprazole 為對照，評估 Vonoprazan 預防長期 NSAID 治療期間潰瘍復發的非劣效性及延長使用的安全性 |
-| [28267236](https://pubmed.ncbi.nlm.nih.gov/28267236/) | 2017 | 前瞻性隨機對照試驗 | Digestive Endoscopy | 評估 Vonoprazan 對內視鏡黏膜下剝離術後人工胃潰瘍的癒合效果 |
-| [26369775](https://pubmed.ncbi.nlm.nih.gov/26369775/) | 2016 | Review | Clinical Pharmacokinetics | 說明首創 P-CAB 的藥動與藥效，涵蓋胃十二指腸潰瘍、逆流性食道炎等適應症的用法 |
-| [39156336](https://pubmed.ncbi.nlm.nih.gov/39156336/) | 2024 | Review | Cureus | 回顧 Vonoprazan 在胃酸相關疾病（GERD、消化性潰瘍、H. pylori）的療效與安全性 |
-| [32998241](https://pubmed.ncbi.nlm.nih.gov/32998241/) | 2020 | Review | Pharmaceuticals | 討論 Vonoprazan 用於 H. pylori 感染治療的潛在益處 |
-| [42084149](https://pubmed.ncbi.nlm.nih.gov/42084149/) | 2026 | Review | Polish Archives of Internal Medicine | P-CAB 用於糜爛性逆流疾病與壓力性潰瘍預防的敘述性回顧 |
-| [37066678](https://pubmed.ncbi.nlm.nih.gov/37066678/) | 2023 | 藥動/藥效研究 | Aliment Pharmacol Ther | 轉譯性 PK/PD 分析支持糜爛性食道炎與 H. pylori 感染的最佳劑量 |
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | 統合分析 | Am J Gastroenterol | 比較 P-CAB 與 PPI 治療 C/D 級食道炎的療效與安全性（針對食道炎，非潰瘍） |
+| [39294424](https://pubmed.ncbi.nlm.nih.gov/39294424/) | 2024 | 統合分析 | Digestive Diseases and Sciences | 比較 Vonoprazan 與質子幫浦抑制劑用於胃或十二指腸潰瘍的治療與預防，探討其療效與安全性；對潰瘍的療效先前仍有爭議 |
+| [33620586](https://pubmed.ncbi.nlm.nih.gov/33620586/) | 2021 | 指引（回顧） | Journal of Gastroenterology | 日本消化器病學會 2020 年消化性潰瘍實證指引，涵蓋出血性潰瘍、幽門螺旋桿菌根除、藥物性潰瘍與手術治療等 |
+| [42635735](https://pubmed.ncbi.nlm.nih.gov/42635735/) | 2026 | 指引（回顧） | Journal of Gastroenterology | 2026 年第四版消化性潰瘍指引，內容包含穿孔與狹窄的保守治療，但摘要未顯示針對 Vonoprazan 的穿孔研究 |
 
-另有文獻針對相關子題：Vonoprazan 與 PPI 治療及預防胃或十二指腸潰瘍的系統性回顧與統合分析（PMID 39294424，2024，Digestive Diseases and Sciences），摘要指出其對潰瘍的療效「仍有爭議」，這一點需要審慎看待。
+以上文獻均未直接評估 Vonoprazan 對消化性潰瘍穿孔的效果。
 
 ## 台灣上市資訊
 
@@ -109,26 +105,23 @@ TxGNN 同時預測了其他相關疾病，其中證據較有限者包括消化�
 
 ## 安全性考量
 
-- **藥物交互作用**：資料中僅有藥理標的資訊（作用於胃 H+/K+-ATPase，ATP4A），並無具體的藥物交互作用條目。
-- **文獻中的安全訊號**：
-  - 長期使用（如 6 年）的病例報告顯示有明顯的胃黏膜變化、血清胃泌素升高及停藥後反彈性胃酸過度分泌。
-  - 有 Vonoprazan 相關的胃黏膜紅斑與白色球狀病灶（white globe appearance）病例報告。
+安全性資訊請參考原廠仿單。
 
-其他警語與禁忌症請參考原廠仿單。
+另外，已有病例報告指出長期使用 Vonoprazan 後，可能出現明顯的胃黏膜變化與停藥後的反彈性胃酸過度分泌。若用於潰瘍相關情境，需留意長期使用的風險。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 活動性消化性潰瘍已涵蓋於台灣核准的胃潰瘍與十二指腸潰瘍適應症，並有 RCT 及統合分析等文獻支持，模型預測與臨床現況一致。
-- 但本次資料沒有登記的臨床試驗，也缺乏作用機轉的結構化資料與完整安全性資料，Vonoprazan 對潰瘍的療效相較 PPI 在文獻中仍有爭議，且長期使用有反彈性胃酸過度分泌等訊號，因此需設置使用上的護欄。
+- 沒有任何臨床試驗或文獻直接研究 Vonoprazan 用於消化性潰瘍穿孔，因此證據等級僅為 L5。
+- 穿孔是外科急症，藥物最多只能扮演輔助角色，現有資料不足以支持推進。
 
 **若要推進需要：**
-- 補充 DrugBank 作用機轉資料及原廠仿單的警語與禁忌症。
-- 取得 Vonoprazan 與 PPI 治療潰瘍的 Phase 3 RCT 完整數據，釐清相對療效。
-- 訂定長期使用的監測計畫（胃泌素、胃黏膜變化、停藥後反彈）。
-- 其他預測疾病（潰瘍穿孔、胃空腸吻合口潰瘍、食道裂孔疝、出血性十二指腸炎）可列為研究問題，需先有直接證據；無胃酸症、幽門痙攣、Dieulafoy 病灶、胃擴張、瀑布狀胃則建議暫緩。
+- 針對穿孔修補術後使用 Vonoprazan 的回溯性研究或前瞻性試驗，並以潰瘍癒合與復發為指標
+- 與質子幫浦抑制劑的比較資料
+- 完整的作用機轉與長期使用安全性資料
+- 與外科及消化內科專家討論實際的臨床使用情境
 
 <!-- review:begin log -->
 

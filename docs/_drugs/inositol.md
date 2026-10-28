@@ -4,17 +4,17 @@ title: Inositol
 parent: 僅模型預測 (L5)
 nav_order: 146
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Inositol"
-predicted_indications: ["hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "hepatic porphyria", "congestive heart failure", "hyperlipoproteinemia", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
-last_modified_at: 2026-10-16
-description: "Inositol：預測新適應症為肝門靜脈硬化症 (Hepatoportal Sclerosis)（證據等級 L5）。原適應症：末梢血管循環障礙"
+predicted_indications: ["early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "congestive heart failure", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
+last_modified_at: 2026-10-23
+description: "Inositol：預測新適應症為早發性家族性非肝硬化門脈高壓 (early-onset familial noncirrhotic portal hypertension)（證據等級 L5）。原適應症：末梢血管循環障礙"
 ---
 
 # Inositol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,33 @@ description: "Inositol：預測新適應症為肝門靜脈硬化症 (Hepatoporta
 
 </div>
 
-## Inositol：從末梢血管循環障礙到肝門靜脈硬化症（Hepatoportal Sclerosis）
+## Inositol：從末梢血管循環障礙到早發性家族性非肝硬化門脈高壓
 {: .text-alpha }
 
 ## 一句話總結
 
-Inositol（肌醇）在台灣原本用於改善末梢血管循環障礙。
-TxGNN 模型預測它可能對**肝門靜脈硬化症 (Hepatoportal Sclerosis)** 有效，
-但目前**沒有任何臨床試驗或文獻**支持這個方向，僅有模型預測。
+Inositol（肌醇）在台灣的核准用途為末梢血管循環障礙與趨脂劑（營養劑），屬於維生素樣營養成分。
+TxGNN 模型預測它可能對**早發性家族性非肝硬化門脈高壓 (early-onset familial noncirrhotic portal hypertension)** 有效，但目前**沒有任何臨床試驗與文獻**直接支持此方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 末梢血管循環障礙 |
-| 預測新適應症 | 肝門靜脈硬化症 (Hepatoportal Sclerosis) |
-| TxGNN 預測分數 | 99.98% |
+| 預測新適應症 | 早發性家族性非肝硬化門脈高壓 (early-onset familial noncirrhotic portal hypertension) |
+| TxGNN 預測分數 | 0.9998 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 45 張／共 400 張） |
 | 許可證數 | 400 張（有效單方 4／有效複方 41／已過期 7／已註銷 348） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Inositol 在台灣的核准用途包括末梢血管擴張、趨脂（抗脂）與營養劑，其在末梢血管循環障礙中的用途已有許可依據。
+目前缺乏詳細的作用機轉資料。肌醇是磷酸肌醇與 IP3 訊號傳遞的前驅物，在台灣的核准用途為末梢血管循環障礙與營養／趨脂用途。
 
-肝門靜脈硬化症的病理特徵是肝內門靜脈分支的閉塞性病變。Inositol 的末梢血管擴張與趨脂作用，與這種肝內門靜脈病變在機轉上沒有明確關聯。目前這項預測僅來自 TxGNN 模型，並無任何機轉或臨床證據支持。
+就機轉而言，肌醇與門脈血管病變之間並沒有已建立的直接關聯。以末梢血管擴張作為理由來推論門脈高壓，屬於推測，沒有臨床資料支持。因此這個預測目前只能視為由 TxGNN 模型（深度學習）產生的假說，其分數可能反映模型學到的相關疾病之間的相似性，並非生物學證據。
 
-同一批預測中，分數相同的還有特發性銅相關肝硬化、早發性家族性非肝硬化門脈高壓、肝肺症候群、原發性門靜脈血栓等肝血管或肝臟疾病，同樣缺乏證據。分數較低但已有一些文獻線索的方向是**高脂蛋白血症**（與原有趨脂適應症較一致）以及**充血性心臟衰竭**（僅有關聯性證據）。
+同一批預測中的其他疾病（肝門脈硬化、特發性銅相關肝硬化、原發性門靜脈血栓、肝肺症候群、肝性紫質症、肝糖合成酶缺乏之糖原貯積症）同樣沒有任何臨床試驗或文獻，也都停留在 L5。唯一有文獻的預測是充血性心衰竭（L4，僅為前臨床與血漿標記物研究，且血漿肌醇升高與預後不良有關，並不代表治療效益）。
 
 ## 臨床試驗證據
 
@@ -69,8 +68,6 @@ TxGNN 模型預測它可能對**肝門靜脈硬化症 (Hepatoportal Sclerosis)**
 ## 文獻證據
 
 目前無相關文獻。
-
-（補充：排名第 7 至第 9 的預測疾病有部分文獻，但並非針對本報告的主要預測。其中高脂蛋白血症相關的 1970–1980 年代研究，多為 clofibrate 與菸酸肌醇的複方，無法單獨歸因於 Inositol。充血性心臟衰竭的文獻多為基礎研究，且有研究顯示心衰竭患者血漿肌醇升高，可能反映疾病狀態而非療效。）
 
 ## 台灣上市資訊
 
@@ -104,25 +101,23 @@ TxGNN 模型預測它可能對**肝門靜脈硬化症 (Hepatoportal Sclerosis)**
 
 ## 安全性考量
 
-- **知識圖譜標示的潛在禁忌疾病**（來自 TxGNN 知識圖譜的藥物-疾病禁忌關聯，並非仿單內容）：肝臟疾病、膽囊疾病、血小板低下、高血糖、糖尿病、糖尿病酮酸中毒、低血壓、痛風、消化性潰瘍、血液凝固疾病、急性冠心症、冠狀動脈疾病、中風與腦血管疾病、心肌梗塞、血紅素病變、低磷血症等。
+- **知識圖譜記錄的禁忌關係（非仿單內容）**：知識圖譜中記錄了肝病、膽囊疾病、血小板低下、高血糖、消化性潰瘍、糖尿病、糖尿病酮酸中毒、低血壓、痛風、物質濫用／依賴、凝血疾病、急性冠心症、冠狀動脈疾病、中風與腦血管疾病、心肌梗塞、血紅蛋白病變、低磷血症等關係。這些來自模型資料，不等同仿單禁忌，需由原廠仿單確認。
+- **藥物交互作用**：本次資料查無相關交互作用紀錄。
 
-  這些多半與菸酸類衍生物（如菸酸肌醇）有關，建議以仿單為準。若考慮用於肝臟疾病，肝臟疾病本身即在此清單中，需特別留意。
-
-其餘警語、禁忌與藥物交互作用資料，請參考原廠仿單。
+其餘安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高，但沒有臨床試驗、文獻或機轉支持，證據等級僅為 L5。
-- 機轉上與肝門靜脈硬化症缺乏合理連結，且知識圖譜顯示肝臟疾病可能是禁忌。
+預測疾病缺乏任何臨床試驗與文獻，機轉關聯屬推測，證據等級為 L5。而且預測的是肝臟門脈相關疾病，與肌醇現有的核准用途差異大。
 
 **若要推進需要：**
-- 取得 Inositol 的作用機轉資料（MOA）
-- 進行系統性文獻回顧，確認是否有任何肝門靜脈病變相關的前臨床證據
-- 評估是否改以證據較接近的方向（如高脂蛋白血症）作為研究問題，並釐清 Inositol 單方與菸酸肌醇的差異
-- 補齊仿單的警語、禁忌與藥物交互作用資料
+- 補充肌醇的作用機轉資料（MOA）
+- 針對門脈高壓的機轉性研究或前臨床模型，確認是否有生物學合理性
+- 核對知識圖譜記錄的肝病相關禁忌關係，評估對肝臟疾病族群的安全性
+- 若要優先探索，可評估有前臨床文獻的充血性心衰竭方向，但需先釐清血漿肌醇升高是致病因素還是結果
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

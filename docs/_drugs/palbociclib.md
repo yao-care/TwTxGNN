@@ -4,9 +4,9 @@ title: Palbociclib
 parent: 僅模型預測 (L5)
 nav_order: 205
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 monitor_inn: "Palbociclib"
-predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brachydactyly-syndactyly syndrome", "myeloid leukemia", "multiple endocrine neoplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hyperthyroxinemia", "Prinzmetal angina"]
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 last_modified_at: 2026-10-16
 description: "Palbociclib：預測新適應症為甲狀腺機能亢進 (Hyperthyroidism)（證據等級 L5）。原適應症：荷爾蒙受體 (HR) 陽性、HER2 陰性之局部晚期或轉移性乳癌，可與芳香環轉化酶抑制劑或 fulvestrant 併用"
 ---
@@ -14,7 +14,7 @@ description: "Palbociclib：預測新適應症為甲狀腺機能亢進 (Hyperthy
 # Palbociclib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型對 **甲狀腺機能亢進 (Hyperthyroidism)** 給出最高的預�
 |------|------|
 | 原適應症 | 荷爾蒙受體 (HR) 陽性、HER2 陰性之局部晚期或轉移性乳癌，可與芳香環轉化酶抑制劑或 fulvestrant 併用 |
 | 預測新適應症 | 甲狀腺機能亢進 (Hyperthyroidism) |
-| TxGNN 預測分數 | 99.44% |
+| TxGNN 預測分數 | 0.9944 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 6 張／共 6 張） |
 | 許可證數 | 6 張（有效單方 6／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 模型對 **甲狀腺機能亢進 (Hyperthyroidism)** 給出最高的預�
 
 Palbociclib 是 CDK4/6 抑制劑，作用是阻斷 Rb 蛋白磷酸化，使細胞停滯在 G1-S 期，抑制細胞增殖。目前缺乏詳細的作用機轉資料庫記載，以上為已知的藥理類別描述。
 
-就甲狀腺機能亢進而言，目前**沒有已知機轉**將 CDK4/6 抑制與甲狀腺素過量連結起來。此預測僅來自 TxGNN 知識圖譜的模型推論，分數雖高，但缺乏任何實證支持，應視為假說而非有力線索。
+就甲狀腺機能亢進而言，目前**沒有已知機轉**將 CDK4/6 抑制與甲狀腺素過量連結起來。此分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病間學到的相似性，而非生物學證據。分數雖高，但缺乏任何實證支持，應視為假說而非有力線索。
 
 ## 臨床試驗證據
 
@@ -74,11 +74,10 @@ Palbociclib 是 CDK4/6 抑制劑，作用是阻斷 Rb 蛋白磷酸化，使細�
 
 | 預測適應症 | TxGNN 分數 | 證據等級 | 摘要 |
 |-----------|-----------|---------|------|
-| 類風濕性關節炎 | 99.36% | L4 | 1 例乳癌合併類風濕性關節炎病人使用 palbociclib 後關節炎改善的個案報告 ([33587021](https://pubmed.ncbi.nlm.nih.gov/33587021/))；動物研究顯示抑制 CDK6 可減少滑膜增生 ([39940918](https://pubmed.ncbi.nlm.nih.gov/39940918/))。尚無臨床試驗。 |
-| 骨髓性白血病 | 98.94% | L3 | 有 4 個 Phase 1 或 1/2 試驗，如 [NCT02310243](https://clinicaltrials.gov/study/NCT02310243)（MLL 重排急性白血病）、[NCT03132454](https://clinicaltrials.gov/study/NCT03132454)；前臨床研究顯示與 venetoclax/azacitidine 有協同作用。 |
-| 血栓性疾病 | 99.32% | L5 | 文獻顯示 CDK4/6 抑制劑可能**增加**血栓風險，這是安全性警訊，不是治療機會。 |
+| 類風濕性關節炎 | 0.9936 | L4 | 1 例乳癌合併類風濕性關節炎病人使用 palbociclib 後關節炎改善的個案報告 ([33587021](https://pubmed.ncbi.nlm.nih.gov/33587021/))；動物研究顯示抑制 CDK6 可減少滑膜增生 ([39940918](https://pubmed.ncbi.nlm.nih.gov/39940918/))。尚無臨床試驗。 |
+| 血栓性疾病 | 0.9932 | L5 | 文獻顯示 CDK4/6 抑制劑可能**增加**血栓風險，這是安全性警訊，不是治療機會。 |
 
-其餘預測（甲狀腺素抵抗、短指併指症候群、多發性內分泌腫瘤、眼缺損小眼症、高甲狀腺素血症、變異型心絞痛）均無支持證據或機轉。
+其餘預測（甲狀腺素抵抗）均無支持證據或機轉。
 
 ## 台灣上市資訊
 

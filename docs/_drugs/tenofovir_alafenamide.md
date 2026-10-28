@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tenofovir Alafenamide
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 268
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 monitor_inn: "Tenofovir alafenamide"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-16
-description: "Tenofovir Alafenamide：預測新適應症為猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)（證據等級 L4）。原適應症：適用於治療 6 歲以上且體重至少 25 公斤之慢性 B 型肝炎病人"
+last_modified_at: 2026-10-27
+description: "Tenofovir Alafenamide：預測新適應症為貓後天免疫缺乏症候群 (feline acquired immunodeficiency syndrome)（證據等級 L5）。原適應症：適用於治療6歲以上且體重至少25公斤之慢性B型肝炎病人"
 ---
 
 # Tenofovir Alafenamide
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,32 @@ description: "Tenofovir Alafenamide：預測新適應症為猿猴免疫缺乏病
 
 </div>
 
-## Tenofovir alafenamide：從慢性 B 型肝炎到猿猴免疫缺乏病毒感染
+## Tenofovir alafenamide：核苷酸類逆轉錄酶抑制劑 → 貓後天免疫缺乏症候群 (feline acquired immunodeficiency syndrome)
 {: .text-alpha }
 
 ## 一句話總結
 
-Tenofovir alafenamide（TAF）是 tenofovir 的前驅藥，在台灣單方用於慢性 B 型肝炎，複方則用於 HIV-1 治療與暴露前預防。
-TxGNN 模型的首位預測是**貓免疫缺乏症候群**，但完全沒有臨床試驗或文獻支持。本報告改以證據較完整的第 2 順位**猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)** 為主要評估對象，目前有 **0 個臨床試驗**和 **8 篇動物研究文獻**，皆為獼猴或人源化小鼠模型。
+Tenofovir alafenamide 是 tenofovir 的前驅藥，屬於核苷酸類逆轉錄酶抑制劑。
+TxGNN 模型預測它可能對**貓後天免疫缺乏症候群 (feline acquired immunodeficiency syndrome)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持此預測，僅為模型預測階段。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 適用於治療 6 歲以上且體重至少 25 公斤之慢性 B 型肝炎病人 |
-| 預測新適應症 | 猿猴免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)（模型第 1 順位為貓免疫缺乏症候群，無任何證據，故改評估第 2 順位） |
-| TxGNN 預測分數 | 99.89% |
-| 證據等級 | L4（僅有動物與前臨床研究） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 適用於治療6歲以上且體重至少25公斤之慢性B型肝炎病人。; 先前未曾使用過抗病毒藥物治療之愛滋病毒(HIV-1)感染之完整治療，且在治療開始時其病毒量HIV-1 RNA ≦100,000 copies/mL之12歲以上(體重至少35公斤)患者；適用於特定正穩定接受抗反轉錄病毒療法，且治療開始時已達病毒學抑制狀態(HIV-1 RNA <50 copies/mL)的患者，取代其現有的抗反轉錄病毒療法。對emtricitabine/ rilpivirine/ tenofovir 的任一成分，患者過去或現在應無抗藥性病史才適用。; 治療感染第一型人類免疫缺乏病毒(HIV-1) 且不具已知或疑似與bic |
+| 預測新適應症 | 貓後天免疫缺乏症候群 (feline acquired immunodeficiency syndrome) |
+| TxGNN 預測分數 | 0.9989 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 8 張／共 8 張） |
 | 許可證數 | 8 張（有效單方 2／有效複方 6／已註銷 0） |
-| 建議決策 | Hold（作為研究問題追蹤，不建議進入臨床開發） |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，TAF 是 tenofovir 的前驅藥，在細胞內轉換為 tenofovir diphosphate，抑制反轉錄酶並終止病毒 DNA 鏈延長。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Tenofovir alafenamide 是 tenofovir 的前驅藥，進入細胞後轉換為具活性的 tenofovir diphosphate，抑制逆轉錄酶並終止病毒 DNA 鏈延長。
 
-SIV 與 HIV 同屬慢病毒，並具有反轉錄酶。獼猴的 SIV/SHIV 感染是 HIV 的標準前臨床模型，因此機轉上可直接套用。TAF 在台灣已有 HIV-1 治療與 PrEP 的複方適應症，這是預測合理的基礎。
-
-需要留意：SIV 感染的是非人類靈長類，人類並無此適應症。這個預測的實際意義在於**動物模型的研究價值**，而非新的人類治療用途。第 1 順位的貓免疫缺乏症候群屬獸醫領域，同樣沒有證據。第 3 順位（神經發展障礙）與 TAF 的抗病毒機轉沒有明顯關聯。
+貓免疫缺乏病毒 (FIV) 與 HIV 同屬慢病毒，同樣依賴逆轉錄酶進行複製，因此在機轉上有可能適用。不過，這只是推論：本報告所整理的資料中，沒有任何針對此疾病的臨床試驗或文獻。此外，這個預測屬於獸醫領域，與人類用藥的許可證與臨床情境不同。
 
 ## 臨床試驗證據
 
@@ -67,16 +66,7 @@ SIV 與 HIV 同屬慢病毒，並具有反轉錄酶。獼猴的 SIV/SHIV 感染�
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [27465645](https://pubmed.ncbi.nlm.nih.gov/27465645/) | 2016 | 動物研究 | J Infect Dis | 口服 emtricitabine/TAF 可保護獼猴免於直腸 SHIV 感染 |
-| [31362305](https://pubmed.ncbi.nlm.nih.gov/31362305/) | 2019 | 動物研究 | J Infect Dis | 評估口服 TAF/FTC 複方或單用 TAF 對獼猴陰道 SHIV 感染的預防效果 |
-| [35913838](https://pubmed.ncbi.nlm.nih.gov/35913838/) | 2022 | 動物研究 | J Antimicrob Chemother | 釋放 TAF 的可生物降解植入物用於獼猴陰道暴露前預防，評估安全性與療效 |
-| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | 動物研究 | J Infect Dis | TAF/elvitegravir 陰道插入劑在獼猴暴露後仍具延長保護效果 |
-| [39632836](https://pubmed.ncbi.nlm.nih.gov/39632836/) | 2024 | 動物研究 | Nat Commun | 口服 emtricitabine/TAF 加長效 cabotegravir/rilpivirine 用於 RT-SHIV 感染獼猴，早期治療達緩解 |
-| [39559349](https://pubmed.ncbi.nlm.nih.gov/39559349/) | 2024 | 動物研究 | Front Immunol | 建立可同時測試 SIV 與 HIV 抗病毒策略的人源化小鼠模型 |
-| [41342257](https://pubmed.ncbi.nlm.nih.gov/41342257/) | 2026 | 動物研究 | J Infect Dis | TAF/elvitegravir 直腸插入劑在獼猴暴露後提供部分保護（約 82.9%） |
-| [31730629](https://pubmed.ncbi.nlm.nih.gov/31730629/) | 2019 | 動物研究 | PLoS One | 建立訓練獼猴每日口服抗反轉錄病毒藥物的方案，供前臨床評估使用 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -110,23 +100,21 @@ SIV 與 HIV 同屬慢病毒，並具有反轉錄酶。獼猴的 SIV/SHIV 感染�
 
 ## 安全性考量
 
-- **藥物交互作用**：藥理資料庫僅顯示 TAF 與味覺受體 TAS2R39 有配體–標的關聯，沒有臨床意義明確的藥物交互作用分級。
-
-其他警語與禁忌症資料不足，請參考原廠仿單。
+安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.89%），但證據僅限獼猴與小鼠的前臨床研究，沒有人類試驗。SIV 並非人類疾病，無法轉化為新的人類適應症。
-- 另兩個預測（貓免疫缺乏症候群、神經發展障礙）沒有任何臨床試驗或文獻，其中後者也缺乏機轉依據。
+- 此預測僅來自模型分數（0.9989），沒有直接研究此疾病的臨床試驗或文獻，證據等級為 L5。
+- 預測的疾病發生於貓，與目前人類用藥的核准與臨床使用情境不同，現階段不宜推進。
 
 **若要推進需要：**
-- 補齊 TAF 的作用機轉資料（DrugBank MOA）。
-- 釐清研究目的：若定位為 HIV 前臨床模型的工具藥，可作為研究問題持續追蹤；若要找人類新適應症，應改評估其他預測。
-- 貓免疫缺乏症候群需獸醫領域的專業評估，並檢索 FIV 相關文獻。
-- 神經發展障礙的預測建議視為模型雜訊，除非有新證據，否則不予推進。
+- 取得 FIV 感染貓的體外或動物試驗資料，確認 tenofovir alafenamide 的抗病毒活性。
+- 獸醫領域的藥動學、劑量與安全性評估。
+- 釐清此用途的法規路徑（獸醫用藥而非人用藥）與研發價值。
+- 補充詳細的作用機轉資料。
 
 <!-- review:begin log -->
 

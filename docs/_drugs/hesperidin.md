@@ -4,17 +4,17 @@ title: Hesperidin
 parent: 僅模型預測 (L5)
 nav_order: 131
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 monitor_inn: "Hesperidin"
-predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm", "primary peritoneal carcinoma (disease)", "acute lymphoblastic leukemia (disease)", "myeloid leukemia", "Seckel syndrome", "myeloproliferative neoplasm, unclassifiable"]
-last_modified_at: 2026-10-16
-description: "Hesperidin：預測新適應症為骨髓增生性腫瘤 (Myeloproliferative Neoplasm)（證據等級 L5）。原適應症：強化血管、末梢血管強化劑"
+predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
+last_modified_at: 2026-10-27
+description: "Hesperidin：預測新適應症為骨髓增生性腫瘤 (myeloproliferative neoplasm)（證據等級 L5）。原適應症：四季感冒、發熱、咳嗽、鼻涕、流行性感冒症狀之治療、過敏性鼻炎、氣喘、頭痛、齒痛等"
 ---
 
 # Hesperidin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,63 +33,32 @@ description: "Hesperidin：預測新適應症為骨髓增生性腫瘤 (Myeloprol
 
 </div>
 
-## Hesperidin：從血管強化劑到骨髓增生性腫瘤
+## Hesperidin：類黃酮血管強化劑 → 骨髓增生性腫瘤 (myeloproliferative neoplasm)
 {: .text-alpha }
-
-<!-- review:begin hesperidin-original-indication-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Hesperidin：從血管脆弱到骨髓增生性腫瘤」。TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end hesperidin-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Hesperidin（橙皮苷）是一種類黃酮，在台灣的單方許可證（皆已註銷）核准為血管強化劑、末梢血管強化劑。
-TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neoplasm)** 有效，但目前**沒有臨床試驗**，僅有 **1 篇**體外／電腦模擬文獻直接支持，屬於模型預測階段的假說。
-
-<!-- review:begin hesperidin-original-indication-name-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「（橙皮苷，中文品名甲基柑橘素）」。「甲基柑橘素」是 methyl hesperidin（內衛藥輸字第001040號，已註銷）的品名，與 hesperidin 是不同成分。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end hesperidin-original-indication-name-2026-10-16 -->
-
-<!-- review:begin hesperidin-original-indication-summary-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「在台灣原本用於強化毛細血管與防止出血。」。TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end hesperidin-original-indication-summary-2026-10-16 -->
+Hesperidin 是一種類黃酮成分，在台灣的許可證資料中多與血管強化相關。
+TxGNN 模型預測它可能對**骨髓增生性腫瘤 (myeloproliferative neoplasm)** 有效，
+但目前**沒有臨床試驗**，僅有 **1 篇**電腦模擬（in silico）文獻，證據相當有限。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 強化血管、末梢血管強化劑（hesperidin 單方許可證，皆已註銷，如衛署藥輸字第013726號）；現行有效許可證均為含 hesperidin 的複方（綜合感冒藥等） |
-| 預測新適應症 | 骨髓增生性腫瘤 (Myeloproliferative Neoplasm) |
-| TxGNN 預測分數 | 99.47% |
+| 原適應症 | 四季感冒、發熱、咳嗽、鼻涕、流行性感冒症狀之治療、過敏性鼻炎、氣喘、頭痛、齒痛等; 緩解感冒之各種症狀（咽喉痛、發燒、頭痛、關節痛、肌肉痛、流鼻水、鼻塞、打噴嚏）。; 緩解感冒之各種症狀（咽喉痛、發燒、頭痛、關節痛、肌肉痛、流鼻水、鼻塞、打噴嚏、咳嗽）。; 緩解感冒之各種症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、畏寒、發燒、頭痛、關節痛、肌肉酸痛）。; 鐵缺乏性貧血、惡性貧血及因貧血所引起之貧血症狀之改善; 緩解感冒之各種症狀（咽喉痛、畏寒、發燒、頭痛、關節痛、肌肉酸痛、流鼻水、鼻塞、打噴嚏）。; 感冒諸症狀（畏寒、發燒、頭痛、咳嗽、鼻塞、流鼻水、打噴嚏、咽喉痛、關節痛、肌肉痛等）。; 緩解感冒之各 |
+| 預測新適應症 | 骨髓增生性腫瘤 (myeloproliferative neoplasm) |
+| TxGNN 預測分數 | 0.9947 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市（僅有效的複方許可證） |
+| 台灣上市 | 上市中（有效許可證 9 張／共 74 張） |
 | 許可證數 | 74 張（有效單方 0／有效複方 9／已過期 1／已註銷 64） |
 | 建議決策 | Hold |
 
-<!-- review:begin hesperidin-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／增強毛細血管（強化血管、血管脆弱、末梢血管強化劑）」。「增強毛細血管」出自 methyl hesperidin、troxerutin 的已註銷許可證；hesperidin 單方許可證曾載「強化血管」「末梢血管強化劑」，但已全部註銷，現行有效許可證都是複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end hesperidin-original-indication-2026-10-03 -->
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Hesperidin 是柑橘類黃酮，在台灣主要用於強化血管，其血管相關療效已有長期使用經驗，但這與骨髓增生性腫瘤並無直接的機轉關聯。
+目前缺乏詳細的作用機轉資料。Hesperidin 屬於類黃酮類化合物，在台灣主要以血管強化相關用途登記，現有資料並未顯示它與血液腫瘤直接相關。
 
-<!-- review:begin hesperidin-original-indication-why-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end hesperidin-original-indication-why-2026-10-16 -->
-
-支持此預測的唯一線索來自 2019 年的電腦模擬（in silico）研究：Hesperidin 被預測可能與 BCR-ABL 相關的激酶區域或其接合蛋白結合，而 BCR-ABL 與慢性骨髓性白血病（屬骨髓增生性腫瘤）有關。該研究沒有實驗或臨床驗證。
-
-另外，在相近的血液惡性腫瘤（骨髓性白血病）方面，細胞株研究顯示 Hesperidin 可能誘導內在凋亡路徑、調節 Mcl-1 與 PI3K/Akt 訊號，並與 cytarabine 有協同作用。不過有研究指出，類黃酮 C7 位的 rutinoside 結構（Hesperidin 具有此結構）反而可能削弱促凋亡活性。整體證據都停留在體外或電腦模擬層級。
+唯一的線索來自一項 2019 年的電腦模擬研究：該研究預測 Hesperidin 可能結合 BCR-ABL 激酶區域，而 BCR-ABL 與慢性骨髓性白血病（屬骨髓增生性腫瘤的一種）有關。但這僅是分子對接層級的推測，尚無實驗室或臨床驗證，因此只能視為提出假說的起點。
 
 ## 臨床試驗證據
 
@@ -97,29 +66,9 @@ TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neopla
 
 ## 文獻證據
 
-針對預測的新適應症（骨髓增生性腫瘤），僅有以下 1 篇文獻：
-
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [31759365](https://pubmed.ncbi.nlm.nih.gov/31759365/) | 2019 | 體外／電腦模擬 | Asian Pac J Cancer Prev | 以電腦模擬方式篩選藥物，探討針對慢性骨髓性白血病中 BCR-ABL 相關靶點（Grb-2）以克服 TKI 抗藥性，Hesperidin 為預測候選之一；無實驗驗證 |
-
-**相關疾病的旁證（骨髓性白血病，均為體外或電腦模擬研究）：**
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [36534417](https://pubmed.ncbi.nlm.nih.gov/36534417/) | 2023 | 體外 | Int J Toxicol | Hesperidin 在 KG1a 白血病細胞中啟動內在凋亡路徑 |
-| [38916633](https://pubmed.ncbi.nlm.nih.gov/38916633/) | 2025 | 體外 | J Fluoresc | Hesperidin 與 salinomycin 併用，抑制 KG1a 細胞的 PI3K/Akt 路徑與抗凋亡因子 |
-| [26148599](https://pubmed.ncbi.nlm.nih.gov/26148599/) | 2015 | 體外 | J Cancer Res Ther | Hesperidin 與 silibinin 可增強 cytarabine 對 AML 細胞的細胞毒性 |
-| [30224905](https://pubmed.ncbi.nlm.nih.gov/30224905/) | 2018 | 體外 | Dose-Response | Hesperidin 以激效（hormesis）方式調節 K562 細胞的 Mcl-1 基因表現 |
-| [40581950](https://pubmed.ncbi.nlm.nih.gov/40581950/) | 2025 | 體外／電腦模擬 | Chem Biodivers | 分子對接顯示 Hesperidin 可能作用於 AML 的 CD33 標靶 |
-| [36522514](https://pubmed.ncbi.nlm.nih.gov/36522514/) | 2022 | 體外／電腦模擬 | J Mol Model | 甲基橙皮苷經篩選為 AML 中 METTL3 的潛在先導分子 |
-| [14505793](https://pubmed.ncbi.nlm.nih.gov/14505793/) | 2003 | 體外 | Biochem Pharmacol | C7 位 rutinoside 會削弱類黃酮在 HL-60 細胞的促凋亡活性（對 Hesperidin 屬不利線索） |
-
-<!-- review:begin hesperidin-original-indication-lit-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：這篇研究的分子是甲基橙皮苷（methyl hesperidin），與 hesperidin 是不同成分。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end hesperidin-original-indication-lit-2026-10-16 -->
+| [31759365](https://pubmed.ncbi.nlm.nih.gov/31759365/) | 2019 | 體外／電腦模擬 | Asian Pacific J Cancer Prev | 以電腦模擬方式篩選既有藥物，預測 Hesperidin 可能結合 BCR 激酶區域，用於慢性骨髓性白血病的抗藥性問題；尚無實驗驗證 |
 
 ## 台灣上市資訊
 
@@ -162,15 +111,14 @@ TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neopla
 **決策：Hold**
 
 **理由：**
-- 預測新適應症僅有模型分數與 1 篇電腦模擬文獻支持，沒有任何臨床試驗，證據等級為 L5。
-- 相關白血病研究全為體外或電腦模擬，且有研究指出 Hesperidin 的結構可能削弱促凋亡活性，不足以支持進入臨床開發。
+- 預測僅來自模型與一篇電腦模擬研究，沒有針對骨髓增生性腫瘤的臨床試驗或實驗驗證，證據等級為 L5。
+- 作用機轉資料缺乏，且既有用途（血管強化）與血液腫瘤相距甚遠。
 
 **若要推進需要：**
-- 補充 Hesperidin 的作用機轉資料（目前為資料缺口）
-- 在 JAK2、CALR、MPL 突變或 BCR-ABL 陽性細胞株與動物模型中，驗證抗增生活性與劑量反應
-- 評估口服生體可用率（Hesperidin 吸收有限）能否達到有效的血中濃度
-- 補齊安全性與藥物交互作用資料
-- 確認是否有任何臨床試驗登記，再重新評估證據等級
+- 補充詳細的作用機轉資料，並以細胞株實驗驗證 Hesperidin 對 BCR-ABL 或相關訊號路徑的作用。
+- 進行動物模型等前臨床研究，評估抗腫瘤活性與有效劑量。
+- 評估口服生體可用率是否足以達到有效血中濃度。
+- 蒐集完整的安全性資料（警語、禁忌、藥物交互作用）。
 
 <!-- review:begin log -->
 
@@ -181,12 +129,12 @@ TxGNN 模型預測它可能對**骨髓增生性腫瘤 (Myeloproliferative Neopla
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表 5 張全數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症「增強毛細血管」取自其他成分 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結把「甲基柑橘素」當成本藥品名 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以血管脆弱為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結稱原本用於強化毛細血管與防止出血 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由稱在台灣主要用於強化血管 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 文獻表以 methyl hesperidin 的研究當證據 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症「增強毛細血管」取自其他成分 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結把「甲基柑橘素」當成本藥品名 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以血管脆弱為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱原本用於強化毛細血管與防止出血 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱在台灣主要用於強化血管 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 文獻表以 methyl hesperidin 的研究當證據 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

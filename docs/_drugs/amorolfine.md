@@ -6,7 +6,7 @@ nav_order: 27
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Amorolfine"
-predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "lymph node palisaded myofibroblastoma", "sacrum chordoma", "urethral disease"]
+predicted_indications: ["drug-induced osteoporosis", "disease of retroperitoneum", "disease of uterine broad ligament", "lumbar spinal stenosis", "abdominal cystic lymphangioma", "abdominal ectopic pregnancy", "celiac trunk compression syndrome", "sacrum chordoma", "lymph node palisaded myofibroblastoma", "urethral disease"]
 last_modified_at: 2026-10-16
 description: "Amorolfine：預測新適應症為藥物性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：由皮真菌、酵母菌及黴菌引起之遠端及外側之輕度甲癬"
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**藥物性骨質疏鬆 (Drug-induced Osteoporosis
 |------|------|
 | 原適應症 | 由皮真菌、酵母菌及黴菌引起之遠端及外側之輕度甲癬 |
 | 預測新適應症 | 藥物性骨質疏鬆 (Drug-induced Osteoporosis) |
-| TxGNN 預測分數 | 99.998% |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 18 張／共 19 張） |
 | 許可證數 | 19 張（有效單方 18／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 模型預測它可能對**藥物性骨質疏鬆 (Drug-induced Osteoporosis
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Amorolfine 是外用嗎啉類抗黴菌劑，一般認為其作用是抑制真菌麥角固醇（ergosterol）的生合成（抑制 delta-14 reductase 與 delta-7,8 isomerase），在甲癬與皮膚黴菌感染中的用途已獲核准。
 
-然而，真菌麥角固醇合成抑制與骨代謝之間，目前**沒有已知的合理關聯**。此外，Amorolfine 為外用劑型，全身暴露量極低，也不利於治療全身性的骨骼疾病。這個預測僅來自 TxGNN 模型的圖譜關聯，應視為待驗證的假說，而非有依據的再利用方向。
+然而，真菌麥角固醇合成抑制與骨代謝之間，目前**沒有已知的合理關聯**。此外，Amorolfine 為外用劑型，全身暴露量極低，也不利於治療全身性的骨骼疾病。這個預測僅來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，應視為待驗證的假說，而非有依據的再利用方向。
 
 資料中另有一筆藥理學紀錄，顯示 Amorolfine 與 Nav1.7（SCN9A）有關，但其生物活性資料為空白，無法據此推論與骨質疏鬆的關係。
 

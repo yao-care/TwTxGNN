@@ -4,17 +4,17 @@ title: Salicylic Acid
 parent: 僅模型預測 (L5)
 nav_order: 254
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Salicylic Acid：預測新適應症為乳突狀結膜炎 (Papillary conjunctivitis)（證據等級 L5）。原適應症：鎮痛藥、退熱藥、抗風濕藥"
 monitor_inn: "Salicylic acid"
-predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to"]
+predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia"]
 ---
 
 # Salicylic Acid
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -60,9 +60,9 @@ TxGNN 模型預測它可能對**乳突狀結膜炎 (Papillary conjunctivitis)** 
 |------|------|
 | 原適應症 | 鎮痛藥、退熱藥、抗風濕藥 |
 | 預測新適應症 | 乳突狀結膜炎 (Papillary conjunctivitis) |
-| TxGNN 預測分數 | 99.88% |
+| TxGNN 預測分數 | 0.9988 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 93 張／共 332 張） |
 | 許可證數 | 332 張（有效單方 19／有效複方 74／已過期 6／已註銷 233） |
 | 建議決策 | Hold |
 
@@ -84,7 +84,7 @@ TxGNN 模型預測它可能對**乳突狀結膜炎 (Papillary conjunctivitis)** 
 
 <!-- review:end salicylic_acid-original-indication-aspirin-why-2026-10-16 -->
 
-排名前 10 的其他預測（如多種遺傳性骨骼發育異常、肢端畸形症候群等）多缺乏合理的機轉連結，可能是知識圖譜的假象。其中較有間接機轉依據的是玫瑰斑結膜炎與脊椎關節病變易感性，但同樣沒有任何實證。
+排名前 10 的其他預測（如多種遺傳性骨骼發育異常、肢端畸形症候群等）多缺乏合理的機轉連結，這些分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。其中較有間接機轉依據的是玫瑰斑結膜炎，但同樣沒有任何實證。
 
 ## 臨床試驗證據
 

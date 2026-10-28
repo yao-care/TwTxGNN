@@ -4,17 +4,17 @@ title: Gefitinib
 parent: 僅模型預測 (L5)
 nav_order: 122
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Gefitinib：預測新適應症為牙齦纖維瘤病 (Fibromatosis, Gingival)（證據等級 L5）。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療"
 monitor_inn: "Gefitinib"
-predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
 ---
 
 # Gefitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ TxGNN 模型預測它可能對**牙齦纖維瘤病 (Fibromatosis, Gingival)** �
 |------|------|
 | 原適應症 | 具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後仍惡化或轉移之肺腺癌第二線治療 |
 | 預測新適應症 | 牙齦纖維瘤病 (Fibromatosis, Gingival) |
-| TxGNN 預測分數 | 99.89% |
+| TxGNN 預測分數 | 0.9989 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 6 張） |
 | 許可證數 | 6 張（有效單方 5／有效複方 0／已註銷 1） |
 | 建議決策 | Hold |
 

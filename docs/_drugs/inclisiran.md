@@ -4,9 +4,9 @@ title: Inclisiran
 parent: 僅模型預測 (L5)
 nav_order: 144
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Inclisiran"
-predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 last_modified_at: 2026-10-16
 description: "Inclisiran：預測新適應症為鉀缺乏症 (Potassium Deficiency Disease)（證據等級 L5）。原適應症：原發性高血脂症（家族性高膽固醇血症僅適用於異合子型 HeFH）：作為飲食及其他降血脂藥品（例如最大耐受劑量 statin 類藥品）的輔助治…"
 ---
@@ -14,7 +14,7 @@ description: "Inclisiran：預測新適應症為鉀缺乏症 (Potassium Deficien
 # Inclisiran
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ TxGNN 模型預測它可能對**鉀缺乏症 (Potassium Deficiency Disease)** �
 |------|------|
 | 原適應症 | 原發性高血脂症（家族性高膽固醇血症僅適用於異合子型 HeFH）：作為飲食及其他降血脂藥品（例如最大耐受劑量 statin 類藥品）的輔助治療，以降低成人病人之 LDL-C |
 | 預測新適應症 | 鉀缺乏症 (Potassium Deficiency Disease) |
-| TxGNN 預測分數 | 99.93% |
+| TxGNN 預測分數 | 0.9993 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -63,7 +63,7 @@ TxGNN 模型預測它可能對**鉀缺乏症 (Potassium Deficiency Disease)** �
 
 這個作用路徑與鉀的體內平衡沒有已知的關聯。原適應症（高血脂）屬於脂質代謝問題，鉀缺乏症則屬於電解質失衡，兩者在病理機轉上沒有明確的交集。
 
-因此，TxGNN 給出的高分（99.93%）較可能反映知識圖譜中的間接關聯，而非實際的生物學或臨床證據。目前不能認為這個預測有機轉上的支持。
+因此，TxGNN 模型（深度學習）給出的高分（0.9993）可能反映模型從相關疾病之間學到的相似性，而非生物學證據，也不是實際的臨床證據。目前不能認為這個預測有機轉上的支持。
 
 另外，在 TxGNN 的其他預測中（如食道疾病、偏頭痛、雷諾氏病等），同樣沒有找到有力的機轉或臨床證據。
 

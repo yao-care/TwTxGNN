@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Etanercept
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 102
-evidence_level: L4
-indication_count: 6
-last_modified_at: 2026-10-16
-description: "Etanercept：預測新適應症為類風濕性血管炎 (Rheumatoid Vasculitis)（證據等級 L4）。原適應症：對 DMARDs（如 methotrexate）無適當療效之成人活動性類風濕性關節炎"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Etanercept"
-predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
+predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
+last_modified_at: 2026-10-27
+description: "Etanercept：預測新適應症為尾骨過度活動 (hypermobility of coccyx)（證據等級 L5）."
 ---
 
 # Etanercept
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **6** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,64 +33,46 @@ predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy",
 
 </div>
 
-## Etanercept：從類風濕性關節炎到類風濕性血管炎
+## Etanercept：TNF 抑制劑融合蛋白 → 尾骨過度活動 (hypermobility of coccyx)
 {: .text-alpha }
 
 ## 一句話總結
 
-Etanercept（爾瑞易、恩博等）是一種可溶性 TNF 受體融合蛋白，原本用於治療類風濕性關節炎、乾癬性關節炎、僵直性脊椎炎與乾癬等自體免疫疾病。
-TxGNN 模型預測它可能對**類風濕性血管炎 (Rheumatoid Vasculitis)** 有效，但目前僅有 **1 個相關性低的臨床試驗**和 **20 篇文獻**，且文獻中多為藥物誘發血管炎的案例報告，證據偏弱。
-
----
+Etanercept 是一種可溶性 TNF 受體融合蛋白，屬於 TNF 抑制劑類生物製劑。
+TxGNN 模型預測它可能對**尾骨過度活動 (hypermobility of coccyx)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅為模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 對 DMARDs（如 methotrexate）無適當療效之成人活動性類風濕性關節炎；先前未使用 methotrexate 之成人中度至重度活動性類風濕性關節炎；2 歲以上多關節幼年型慢性關節炎；乾癬性關節炎；活動性僵直性脊椎炎；中度至重度乾癬等 |
-| 預測新適應症 | 類風濕性血管炎 (Rheumatoid Vasculitis) |
-| TxGNN 預測分數 | 99.71% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
-| 許可證數 | 8 張（有效單方 5／有效複方 0／已註銷 3） |
-| 建議決策 | Hold（僅列為研究問題） |
+| 原適應症 | 1、適用於對疾病緩解型抗風濕性藥物(即DMARDs，例如methotrexate)無適當療效之成人活動性類風濕性關節炎。
+ 2、適用於先前未使用methotrexate治療之成人中度至重度活動性類風濕性關節炎。這些病人的X光檢查顯示，本品可以減緩疾病造成的關節結構性受損。
+ 3、適用於methotrexate治療無效或無法耐受的2歲以上兒童及青少年的活動性多關節幼年型慢性關節炎。尚未對不足2歲的兒童進行試驗。
+ 4、適用於對疾病緩解型抗風濕性藥物無療效之成人活動性與進行性乾癬性關節炎。
+ 5、治療活動性僵直性脊椎炎。
+ 6、適用於治療嚴重活動性無放射影像確認之中軸性脊椎關節炎(Non-radi |
 
----
+| 預測新適應症 | 尾骨過度活動 (hypermobility of coccyx) |
+| TxGNN 預測分數 | 0.9963 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 8 張） |
+| 許可證數 | 8 張（有效單方 5／有效複方 0／已註銷 3） |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，etanercept 是以 TNF 受體與 IgG1 Fc 區段組成的融合蛋白，可中和 TNF-α。TNF-α 是類風濕性關節炎發炎的核心細胞激素，這一點在原適應症中已被充分證實。
+目前缺乏詳細的作用機轉資料。就已知資訊，Etanercept 是結合 TNF 的融合蛋白，可阻斷 TNF 介導的發炎反應，臨床上用於多種免疫發炎性疾病。
 
-類風濕性血管炎是類風濕性關節炎最嚴重的關節外表現之一，病程常需要積極的類固醇與免疫抑制治療。從機轉上看，TNF-α 也參與血管發炎，因此阻斷 TNF 有合理的生物學依據。
-
-不過這個方向有明顯矛盾：文獻中也有多篇報告指出，包括 etanercept 在內的 TNF 抑制劑可能引發**矛盾性的皮膚血管炎與腎病變**。因此效益與風險的平衡目前並不清楚。
-
----
+然而，尾骨過度活動主要屬於機械性或退化性的問題，並非典型的 TNF 驅動疾病。目前沒有明確的機轉連結可說明 Etanercept 為何適用，這個預測也沒有任何臨床試驗或文獻佐證。因此，這項預測的合理性仍待驗證，應視為僅由模型產生的假說。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | 招募中 | 80 | 風濕病患者接受肩關節置換術前後的免疫抑制劑停藥策略；並未研究類風濕性血管炎或 etanercept 療效，僅屬背景參考 |
-
----
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [33058033](https://pubmed.ncbi.nlm.nih.gov/33058033/) | 2021 | 統合分析 | Clin Rheumatol | 針對生物製劑用於類風濕性血管炎的系統性回顧，為最直接相關的文獻 |
-| [31491879](https://pubmed.ncbi.nlm.nih.gov/31491879/) | 2019 | 網絡統合分析 | Int J Mol Sci | 36 個 RCT 的分析，顯示各種 TNF 抑制劑可同等減少類風濕性關節炎的關節破壞（針對關節炎，非血管炎） |
-| [28391344](https://pubmed.ncbi.nlm.nih.gov/28391344/) | 2017 | 回顧 | Nephrol Dial Transplant | 討論 TNF-α 阻斷在 ANCA 相關血管炎與腎絲球腎炎的角色 |
-| [16624928](https://pubmed.ncbi.nlm.nih.gov/16624928/) | 2006 | 文獻 | J Am Soc Nephrol | 從其他慢性發炎疾病的經驗，探討 TNF-α 在 ANCA 相關血管炎的角色 |
-| [15742457](https://pubmed.ncbi.nlm.nih.gov/15742457/) | 2005 | 回顧 | J Rheumatol Suppl | 比較三種 TNF 拮抗劑的療效，認為在類風濕性關節炎的活性相當 |
-| [28123776](https://pubmed.ncbi.nlm.nih.gov/28123776/) | 2017 | 世代研究 | RMD Open | BSRBR-RA 登錄資料，比較 TNFi 與傳統 DMARDs 的狼瘡樣與血管炎樣事件風險 |
-| [31632872](https://pubmed.ncbi.nlm.nih.gov/31632872/) | 2019 | 病例系列 | Cureus | Etanercept 相關腎病變 |
-| [15853915](https://pubmed.ncbi.nlm.nih.gov/15853915/) | 2005 | 病例系列 | Scand J Immunol | etanercept 與 infliximab 相關皮膚血管炎的免疫機轉 |
-| [10955351](https://pubmed.ncbi.nlm.nih.gov/10955351/) | 2000 | 病例報告 | J Rheumatol | Etanercept 引起白血球破碎性血管炎的首例報告 |
-| [12209493](https://pubmed.ncbi.nlm.nih.gov/12209493/) | 2002 | 病例報告 | Arthritis Rheum | 類風濕性關節炎患者使用 etanercept 後出現加速性結節與血管炎 |
-
----
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -117,36 +99,28 @@ TxGNN 模型預測它可能對**類風濕性血管炎 (Rheumatoid Vasculitis)** 
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共收錄 352 筆交互作用。屬於**嚴重 (Major)** 等級的包括多種皮質類固醇（hydrocortisone、triamcinolone、dexamethasone、betamethasone、budesonide、prednisone、prednisolone）、deferiprone，以及放射性藥物（iobenguane I-131、ibritumomab tiuxetan、tositumomab）。屬於中度者包括 metronidazole、tinidazole、rosuvastatin、simvastatin。
-- **與此預測相關的風險**：文獻指出 TNF 抑制劑可能引發矛盾性血管炎、腎病變，並增加感染風險（如帶狀皰疹可能偽裝成血管炎），在這個適應症中需特別留意。
+- **藥物交互作用**：已查得 352 筆交互作用紀錄，其中主要的重大 (Major) 等級包括：
+  - 皮質類固醇類：Hydrocortisone、Prednisone、Prednisolone、Dexamethasone、Betamethasone、Triamcinolone、Budesonide
+  - 放射性藥物與相關製劑：Ibritumomab tiuxetan、Tositumomab、Iobenguane (I-131)
+  - 其他：Deferiprone
+- 中度 (Moderate) 等級包括 Metronidazole、Tinidazole、Rosuvastatin、Simvastatin。
 
-其餘警語與禁忌症請參考原廠仿單。
-
----
+其他警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Hold（僅列為研究問題）**
+**決策：Hold**
 
 **理由：**
-- 這個預測只有模型分數與間接文獻支持，沒有直接以 etanercept 治療類風濕性血管炎的臨床試驗，證據等級為 L4。
-- 文獻同時顯示 etanercept 可能誘發血管炎，效益與風險並不明確。
+此預測僅來自模型分數，沒有任何臨床試驗或文獻直接支持，且尾骨過度活動缺乏明確的 TNF 相關機轉。證據等級為 L5，目前不建議推進。
 
 **若要推進需要：**
-- 詳細的作用機轉資料（MOA）
-- 仔細閱讀 PMID 33058033 的系統性回顧，確認各種生物製劑（含 etanercept）在類風濕性血管炎的實際療效數據
-- 區分「原有疾病的血管炎」與「藥物誘發的血管炎」的臨床判斷標準
-- 若評估進一步研究，需設計前瞻性觀察研究或小型試驗，並制定腎功能、皮膚與感染的安全性監測計畫
-
----
-
-**補充：其他預測適應症的參考**
-
-TxGNN 的其他高分預測中，**發炎性脊椎病變 (inflammatory spondylopathy)** 與**多關節型幼年類風濕性關節炎**的證據等級皆為 L1（有多個 Phase 3 RCT），且兩者皆為台灣已核准適應症（僵直性脊椎炎、2 歲以上多關節幼年型慢性關節炎），因此屬於既有適應症的驗證，而非真正的新用途。**類固醇樣的尾骨過度活動**與 **Kummell 病**則完全沒有證據，建議維持 Hold。
+- 釐清尾骨過度活動與 TNF 介導發炎之間是否存在病理生理關聯（機轉研究）
+- 取得詳細的藥物作用機轉資料
+- 以文獻回顧或前臨床研究確認是否有任何直接證據
+- 若有初步證據，再評估給藥途徑與目標族群的可行性及安全性監測計畫
 
 <!-- review:begin log -->
 

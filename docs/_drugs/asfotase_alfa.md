@@ -6,9 +6,9 @@ nav_order: 32
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Asfotase alfa"
-predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices with bleeding", "esophageal varices without bleeding", "cystinosis"]
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices without bleeding", "esophageal varices with bleeding", "cystinosis"]
 last_modified_at: 2026-10-16
-description: "Asfotase Alfa：預測新適應症為核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disord…（證據等級 L5）。原適應症：小兒發作型低磷酸酯酶症 (Pediatric-onset hypophosphatasia"
+description: "Asfotase Alfa：預測新適應症為核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)（證據等級 L5）。原適應症：小兒發作型低磷酸酯酶症 (Pediatric-onset hypophosphatasia"
 ---
 
 # Asfotase Alfa
@@ -33,7 +33,7 @@ description: "Asfotase Alfa：預測新適應症為核 DNA 異常所致的粒線
 
 </div>
 
-## Asfotase alfa：從小兒發作型低磷酸酯酶症到粒線體氧化磷酸化障礙（核 DNA 異常所致）
+## Asfotase Alfa: 核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化�
 |------|------|
 | 原適應症 | 小兒發作型低磷酸酯酶症 (Pediatric-onset hypophosphatasia; HPP) 病人之長期酵素替代療法 |
 | 預測新適應症 | 核 DNA 異常所致的粒線體氧化磷酸化障礙 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies) |
-| TxGNN 預測分數 | 99.95% |
+| TxGNN 預測分數 | 0.9995 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -61,7 +61,7 @@ TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化�
 在低磷酸酯酶症中用來促進骨礦化。
 
 然而，這個機轉與核基因編碼的氧化磷酸化 (OXPHOS) 缺陷之間，並沒有已建立的關聯。
-高分數僅來自知識圖譜的關聯推論，不代表有生物學上的支持。
+高分數僅來自 TxGNN 模型（深度學習）的關聯推論，不代表有生物學上的支持。
 因此這項預測應視為一個**待驗證的假說**，而非有依據的治療方向。
 
 另外，在排名前 10 的其他預測中（如 Steel syndrome、Scheie syndrome、Hurler syndrome、胰臟外分泌不足等），
@@ -104,7 +104,7 @@ TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化�
 
 **理由：**
 - 證據等級僅為 L5：沒有臨床試驗、沒有文獻，只有模型分數。
-- 機轉上找不到 Asfotase alfa 與核 DNA 相關 OXPHOS 缺陷之間的合理連結，高分很可能是圖譜推論的假象。
+- 機轉上找不到 Asfotase alfa 與核 DNA 相關 OXPHOS 缺陷之間的合理連結，高分來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
 **若要推進需要：**
 - 補齊詳細的作用機轉資料 (MOA)，並評估其與粒線體疾病病理的可能關聯

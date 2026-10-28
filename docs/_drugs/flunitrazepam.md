@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flunitrazepam
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 113
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Flunitrazepam：預測新適應症為失眠 (Insomnia)（與原適應症相同（證據等級 L3）。原適應症：失眠"
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Flunitrazepam"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "migraine with or without aura, susceptibility to", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
+last_modified_at: 2026-10-27
+description: "Flunitrazepam：預測新適應症為偏頭痛 (migraine disorder)（證據等級 L5）。原適應症：失眠"
 ---
 
 # Flunitrazepam
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,31 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "an
 
 </div>
 
-## Flunitrazepam：從失眠到失眠（預測新適應症為同一適應症，屬於已核准用途的再確認）
+## Flunitrazepam：GABA-A 受體正向調節劑（苯二氮平類）→ 偏頭痛 (migraine disorder)
 {: .text-alpha }
 
 ## 一句話總結
 
-Flunitrazepam（氟耐妥眠）是一種苯二氮平類（benzodiazepine）安眠鎮靜藥，原本用於治療失眠。
-TxGNN 模型預測分數最高的適應症為**失眠 (insomnia)**，這與原核准用途相同，屬於仿單內用途，並非真正的藥物再利用。
-目前無相關臨床試驗登記，有 **10 篇文獻**支持（多為 1970–1990 年代的回顧與觀察性研究）。
+Flunitrazepam 是苯二氮平類藥物，作用於 GABA-A 受體。
+TxGNN 模型預測它可能對**偏頭痛 (migraine disorder)** 有效，但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅為模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 失眠 |
-| 預測新適應症 | 失眠 (Insomnia)（與原適應症相同；其餘預測包含偏頭痛、焦慮、酒精戒斷譫妄等） |
-| TxGNN 預測分數 | 99.89% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 失眠; 失眠。; 寧神藥; 寧神藥。; 鎮靜、安眠; 安眠、鎮靜; 失眠症 |
+| 預測新適應症 | 偏頭痛 (migraine disorder) |
+| TxGNN 預測分數 | 0.9971 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 13 張／共 36 張） |
 | 許可證數 | 36 張（有效單方 13／有效複方 0／已註銷 23） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位未提供）。不過藥理資料顯示，Flunitrazepam 作用於 GABA-A 受體的 α1、α2、α3、α5 亞單位，屬於苯二氮平類，可增強 GABA 的抑制性神經傳導，產生鎮靜與促進睡眠的效果。
+目前缺乏詳細的作用機轉資料。根據藥理資料，flunitrazepam 與 GABA-A 受體的 α1、α2、α3、α5 亞單位有交互作用，屬於苯二氮平類藥物。
 
-因此，預測的「失眠」其實就是此藥已核准的用途，模型的高分反映的是與既有適應症的一致性。本藥的催眠作用比抗焦慮、肌肉鬆弛與抗痙攣作用更突出，適合作為夜間安眠藥使用。
-
-其他預測適應症（焦慮、焦慮症、酒精戒斷譫妄）可由 GABA-A 調節的類別效應來解釋，但缺乏針對 Flunitrazepam 的對照試驗；偏頭痛、腦幹先兆偏頭痛、嬰兒良性陣發性斜頸與蠕蟲狀皮膚萎縮症則只有模型預測，沒有臨床或文獻證據。
+理論上，增強 GABA-A 介導的抑制作用，可能減弱皮質過度興奮，而皮質過度興奮被認為與偏頭痛有關。不過這只是推測性的機轉連結。目前沒有任何臨床或文獻證據顯示 flunitrazepam 對偏頭痛有效，此訊號僅來自 TxGNN 模型預測。
 
 ## 臨床試驗證據
 
@@ -68,16 +65,7 @@ TxGNN 模型預測分數最高的適應症為**失眠 (insomnia)**，這與原�
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [6114852](https://pubmed.ncbi.nlm.nih.gov/6114852/) | 1981 | Review | Drugs | Triazolam 藥理與療效回顧；指出其半衰期短，相較 flunitrazepam 等較長效藥物更適合作為安眠藥 |
-| [2883822](https://pubmed.ncbi.nlm.nih.gov/2883822/) | 1986 | Review | Acta Psychiatr Scand Suppl | 長者對苯二氮平類（含 flunitrazepam）的反應增強 |
-| [2883820](https://pubmed.ncbi.nlm.nih.gov/2883820/) | 1986 | Review | Acta Psychiatr Scand Suppl | 安眠藥的臨床使用與多樣化選擇的必要性 |
-| [430730](https://pubmed.ncbi.nlm.nih.gov/430730/) | 1979 | Cohort | JAMA | 停用 flunitrazepam、nitrazepam、triazolam 後出現反彈性失眠 |
-| [8519370](https://pubmed.ncbi.nlm.nih.gov/8519370/) | 1993 | Cohort | Eur Respir J | 比較 zolpidem、triazolam、flunitrazepam 對重度 COPD 患者血氣與呼吸控制的影響 |
-| [20171127](https://pubmed.ncbi.nlm.nih.gov/20171127/) | 2010 | Cohort | Sleep Med Rev | 安眠藥影響身體平衡與站立穩定性，增加跌倒與髖部骨折風險 |
-| [40195](https://pubmed.ncbi.nlm.nih.gov/40195/) | 1979 | Case series | Nouv Presse Med | Flunitrazepam 對器質性與功能性睡眠障礙的作用（無摘要） |
-| [14722706](https://pubmed.ncbi.nlm.nih.gov/14722706/) | 2004 | Animal | Psychopharmacology | 睡眠障礙大鼠模型中比較三種安眠藥對睡眠-清醒週期的影響 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -114,29 +102,22 @@ TxGNN 模型預測分數最高的適應症為**失眠 (insomnia)**，這與原�
 
 ## 安全性考量
 
-- **藥物交互作用／藥理標的**：藥理資料列出 GABA-A 受體 α1、α2、α3、α5 亞單位為作用標的，未提供具體藥物間交互作用。
-- **文獻提示的風險**：
-  - 停藥後的反彈性失眠
-  - 依賴性與濫用風險（文獻報告有濫用、迷姦藥物用途及中毒案例）
-  - 記憶損害與順行性失憶
-  - 隔日精神動作功能受損（平衡、駕駛）及長者跌倒風險
-  - 嚴重 COPD 患者的呼吸抑制疑慮
+- **藥物交互作用**：藥理資料顯示 flunitrazepam 作用於 GABA-A 受體 α1、α2、α3、α5 亞單位。與其他中樞神經抑制劑併用時，應特別留意鎮靜作用相加。
 
-其餘警語與禁忌症請參考原廠仿單。
+其他安全性資訊（警語、禁忌症）請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 預測最高的「失眠」與台灣現行核准適應症一致，已有多年臨床使用與文獻支持，但需要注意依賴、反彈性失眠、記憶損害與跌倒風險。
-- 其他預測適應症（焦慮、焦慮症、酒精戒斷譫妄、偏頭痛等）缺乏對照試驗，且濫用與風險效益平衡不佳，建議暫緩（Hold）或僅列為研究問題。
+- 偏頭痛的預測僅來自模型分數，沒有臨床試驗或文獻佐證，證據等級為 L5。
+- 苯二氮平類藥物有依賴性與濫用風險，且會造成鎮靜與記憶損害，用於偏頭痛這類需長期管理的疾病時，風險效益比不明。
 
 **若要推進需要：**
-- 補充詳細的作用機轉（MOA）資料。
-- 取得現行仿單的警語、禁忌症與交互作用資訊。
-- 若考慮酒精戒斷譫妄，需要與標準照護（其他苯二氮平類）比較的對照研究。
-- 針對長者、COPD 患者等特定族群制定使用限制與監測計畫，並納入管制藥品與濫用風險管理。
+- 取得 flunitrazepam 在偏頭痛的前臨床或臨床研究證據
+- 補充完整的作用機轉資料
+- 與現有偏頭痛標準治療比較風險效益，並制定依賴性與濫用風險管控計畫
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

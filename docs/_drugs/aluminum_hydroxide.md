@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Aluminum Hydroxide
-parent: 中證據等級 (L3-L4)
+parent: 僅已知用途（無新預測）
 nav_order: 24
-evidence_level: L4
-indication_count: 4
-last_modified_at: 2026-10-16
-description: "Aluminum Hydroxide：預測新適應症為活動性消化性潰瘍 (Active Peptic Ulcer Disease)（證據等級 L4）。原適應症：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第001706號等）"
-monitor_inn: "Aluminum hydroxide"
-predicted_indications: ["gastroduodenitis"]
+last_modified_at: 2026-10-23
+description: "Aluminum Hydroxide: known uses and market status in Taiwan; currently no new candidate indication"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Aluminum Hydroxide
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **4** 個
+證據等級: **N/A** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,75 +32,44 @@ predicted_indications: ["gastroduodenitis"]
 
 </div>
 
-## Aluminum hydroxide：從胃酸過多（制酸劑）到活動性消化性潰瘍
+<!-- known-uses-page -->
+<!-- description: Aluminum Hydroxide: known uses and market status in Taiwan; currently no new candidate indication -->
+## Aluminum Hydroxide
 {: .text-alpha }
 
-<!-- review:begin aluminum-hydroxide-original-indication-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Aluminum hydroxide：從胃酸過多與消化性潰瘍到活動性消化性潰瘍」。TFDA 許可證資料中，現行有效的 aluminum hydroxide 單方許可證（如內衛藥製字第001706號「強生」氫氧化鋁膠錠、衛署藥製字第047233號安乳胃錠）核准的是「緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多」，原料藥（衛署藥輸字第023638號）寫「制酸劑」；潰瘍是伴隨胃酸過多的情境，不是單獨核准的適應症。直接寫「胃潰瘍、十二指腸潰瘍」的單方許可證都已註銷或過期（如衛署成製字第000712號安乳胃錠，2004-05-25 過期）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end aluminum-hydroxide-original-indication-title-2026-10-16 -->
-
-## 一句話總結
-
-Aluminum hydroxide（氫氧化鋁）是常見的制酸劑，在台灣單方許可證核准用於緩解胃部不適或灼熱感，或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多。
-TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Disease)** 有效，
-但目前**沒有臨床試驗登記**，文獻也以間接證據與歷史研究為主，整體證據偏弱。
-
-<!-- review:begin aluminum-hydroxide-original-indication-summary-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「在台灣原本用於緩解胃酸過多、胃痛及胃、十二指腸潰瘍。」。TFDA 許可證資料中，現行有效的 aluminum hydroxide 單方許可證（如內衛藥製字第001706號「強生」氫氧化鋁膠錠、衛署藥製字第047233號安乳胃錠）核准的是「緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多」，原料藥（衛署藥輸字第023638號）寫「制酸劑」；潰瘍是伴隨胃酸過多的情境，不是單獨核准的適應症。直接寫「胃潰瘍、十二指腸潰瘍」的單方許可證都已註銷或過期（如衛署成製字第000712號安乳胃錠，2004-05-25 過期）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end aluminum-hydroxide-original-indication-summary-2026-10-16 -->
+## 摘要
+TxGNN 深度學習模型（分數 ≥ 0.99）針對 Aluminum Hydroxide 產生的候選適應症，經追溯來源後全部屬於已知用途，因此目前沒有新的預測適應症。以下列出這些已知用途的來源類型，以及本藥在台灣的上市狀態。
 
 ## 快速總覽
 
 | 項目 | 內容 |
+| 新預測適應症 | 無（模型候選中可追溯者皆為已知用途） |
 |------|------|
-| 原適應症 | 緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（內衛藥製字第001706號等）；制酸劑（原料藥） |
-| 預測新適應症 | 活動性消化性潰瘍 (Active Peptic Ulcer Disease) |
-| TxGNN 預測分數 | 99.64% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 模型候選中的已知用途數 | 4 |
+| 台灣上市狀態 | 上市中（有效許可證 218 張／共 849 張） |
 | 許可證數 | 849 張（有效單方 25／有效複方 193／已過期 22／已註銷 609） |
-| 建議決策 | Hold |
 
-<!-- review:begin aluminum-hydroxide-original-indication-2026-10-03 -->
+## 模型候選中的已知用途
 
-> **查核更正（2026-10-03）**：原寫「原適應症／胃、十二指腸潰瘍、胃酸過多症、胃炎、胃痛、潰瘍性及痙攣性大腸炎（目前台灣有效許可證僅有複方一張，無有效單方許可證，此為該複方的核准適應症）」。台灣現行 aluminum hydroxide 單方許可證核准的是緩解胃部不適或灼熱感，或胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多（原料藥寫制酸劑）；潰瘍、胃炎本身不是單獨的核准適應症。已改為許可證原文。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+### 已核准（有許可證或仿單支持）
 
-<!-- review:end aluminum-hydroxide-original-indication-2026-10-03 -->
+| 適應症 | 來源 |
+|------|------|
+| 無 | 無 |
 
-## 為什麼這個預測合理？
+### 與已核准適應症相關（同一疾病分類）
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，氫氧化鋁屬於制酸劑，可中和胃酸並降低胃蛋白酶活性，有助於潰瘍癒合。文獻中的體外研究也顯示，含氫氧化鋁的制酸劑可透過提高胃內 pH 值及吸附胃蛋白酶來抑制其活性。
+| 適應症 | 已核准分類 |
+|------|------|
+| 胃十二指腸炎 (gastroduodenitis) | gastritis |
 
-原適應症本身已包含胃、十二指腸潰瘍，因此預測的「活動性消化性潰瘍」與既有適應症高度重疊，與其說是全新的用途，不如說是對既有用途的再確認。
+### 知識圖譜中記錄的關聯（未發現核准）
 
-<!-- review:begin aluminum-hydroxide-original-indication-why-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，現行有效的 aluminum hydroxide 單方許可證（如內衛藥製字第001706號「強生」氫氧化鋁膠錠、衛署藥製字第047233號安乳胃錠）核准的是「緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多」，原料藥（衛署藥輸字第023638號）寫「制酸劑」；潰瘍是伴隨胃酸過多的情境，不是單獨核准的適應症。直接寫「胃潰瘍、十二指腸潰瘍」的單方許可證都已註銷或過期（如衛署成製字第000712號安乳胃錠，2004-05-25 過期）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end aluminum-hydroxide-original-indication-why-2026-10-16 -->
-
-需要注意的是，目前提供的文獻多為間接證據：包含 sucralfate（含氫氧化鋁成分）、nizatidine 的研究、體外制酸能力測試及綜述，沒有直接以氫氧化鋁為對象的現代隨機對照試驗。
-
-## 臨床試驗證據
-
-目前無相關臨床試驗登記。
-
-## 文獻證據
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT | Clin Pharmacol Ther | Nizatidine 對照安慰劑用於良性胃潰瘍的 8 週試驗（並非氫氧化鋁，屬間接證據） |
-| [6798099](https://pubmed.ncbi.nlm.nih.gov/6798099/) | 1981 | Review | J Clin Gastroenterol | 說明 sucralfate（鋁鹽）對抗胃酸與胃蛋白酶的開發背景 |
-| [7190055](https://pubmed.ncbi.nlm.nih.gov/7190055/) | 1980 | Review | Brain Res Bull | 約束壓力性潰瘍模型中，病灶對 cimetidine、氫氧化鋁等藥物有反應 |
-| [3104655](https://pubmed.ncbi.nlm.nih.gov/3104655/) | 1986 | Review | Klin Wochenschr | 含氫氧化鋁制酸劑可預防阿斯匹靈或酒精造成的胃黏膜壞死與出血，保護作用主要在深層黏膜 |
-| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Cohort | J Clin Gastroenterol | 比較碳酸氫鈉與鋁鎂制酸劑對十二指腸潰瘍患者餐後胃酸的緩衝效果 |
-| [3929601](https://pubmed.ncbi.nlm.nih.gov/3929601/) | 1985 | In vitro | Am J Med | Sucralfate 透過提高 pH 及吸附胃蛋白酶抑制其活性，機轉與含氫氧化鋁制酸劑類似 |
-| [9334882](https://pubmed.ncbi.nlm.nih.gov/9334882/) | 1997 | Animal | Jpn J Pharmacol | 氫氧化鋁可預防酸與胃蛋白酶造成的大鼠胃上皮細胞損傷 |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro | Med Pharm Rep | 評估摩洛哥市售制酸劑的酸中和能力 |
+| 適應症 |
+|------|
+| 活動性消化性潰瘍 (active peptic ulcer disease) |
+| 消化性潰瘍穿孔 (peptic ulcer perforation) |
+| 胃空腸潰瘍 (gastrojejunal ulcer) |
 
 ## 台灣上市資訊
 
@@ -152,34 +120,12 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 <!-- tfda-licenses:end -->
 
-<!-- TFDA_LICENSE_TABLE -->
-
 ## 安全性考量
 
 - **藥物交互作用**：資料庫共收錄 205 筆交互作用，其中標示為 Major 的包括 Dolutegravir 與 Sodium citrate；Moderate 的包括 Doxycycline、Alendronic acid、Risedronic acid、Acetylsalicylic acid、Atazanavir、Allopurinol 等。多數為制酸劑常見的結合或影響吸收的作用，併用時建議間隔服藥時間。
 - **長期使用風險（來自文獻）**：高劑量或長期使用氫氧化鋁可能造成磷缺乏症候群，嚴重時可導致骨質流失或骨軟化症，酗酒者等高風險族群需特別留意。
 
 其他警語與禁忌症請參考原廠仿單。
-
-## 結論與下一步
-
-**決策：Hold**
-
-**理由：**
-- 預測分數雖高，但沒有任何臨床試驗，文獻多為間接證據（sucralfate、H2 受體阻斷劑、體外實驗）或 1940–1950 年代的歷史案例報告，缺乏直接以氫氧化鋁為對象的現代對照試驗。
-- 預測的適應症與台灣既有的潰瘍適應症高度重疊，新增的價值有限。
-
-<!-- review:begin aluminum-hydroxide-original-indication-conclusion-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，現行有效的 aluminum hydroxide 單方許可證（如內衛藥製字第001706號「強生」氫氧化鋁膠錠、衛署藥製字第047233號安乳胃錠）核准的是「緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多」，原料藥（衛署藥輸字第023638號）寫「制酸劑」；潰瘍是伴隨胃酸過多的情境，不是單獨核准的適應症。直接寫「胃潰瘍、十二指腸潰瘍」的單方許可證都已註銷或過期（如衛署成製字第000712號安乳胃錠，2004-05-25 過期）。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end aluminum-hydroxide-original-indication-conclusion-2026-10-16 -->
-
-**若要推進需要：**
-- 補充詳細的作用機轉（MOA）資料
-- 搜尋或設計直接以氫氧化鋁（或含氫氧化鋁複方）治療活動性消化性潰瘍的對照研究
-- 釐清預測適應症與現有核准適應症的差異，確認是否有實質的新增價值
-- 針對腎功能不全及長期使用者，建立鋁累積與磷缺乏的安全性監測計畫
 
 <!-- review:begin log -->
 
@@ -190,11 +136,11 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「固胃必朗錠」「氫氧化鋁膠」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症取自複方並稱無有效單方 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結把潰瘍寫成單獨的原適應症 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由稱原適應症已包含胃、十二指腸潰瘍 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以消化性潰瘍為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 結論稱與台灣既有的潰瘍適應症重疊 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症取自複方並稱無有效單方 | 報告重生後已無此錯誤（2026-10-23：2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結把潰瘍寫成單獨的原適應症 | 報告重生後已無此錯誤（2026-10-23：2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱原適應症已包含胃、十二指腸潰瘍 | 報告重生後已無此錯誤（2026-10-23：2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以消化性潰瘍為原用途 | 報告重生後已無此錯誤（2026-10-23：2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱與台灣既有的潰瘍適應症重疊 | 報告重生後已無此錯誤（2026-10-23：2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

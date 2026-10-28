@@ -5,10 +5,10 @@ parent: 僅模型預測 (L5)
 nav_order: 231
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-16
-description: "Prednisolone Acetate：預測新適應症為寄生蟲性結膜炎 (Parasitic Conjunctivitis)（證據等級 L5）。原適應症：抗炎性皮質固醇"
 monitor_inn: "Prednisolone acetate"
-predicted_indications: ["parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
+predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
+last_modified_at: 2026-10-23
+description: "Prednisolone Acetate：預測新適應症為結膜濾泡增生 (conjunctival folliculosis)（證據等級 L5）。原適應症：僂麻質斯性關節炎、骨關節炎、痛風性關節炎、僂麻質斯性脊椎炎、肌肉僂麻質斯、滑液囊炎"
 ---
 
 # Prednisolone Acetate
@@ -33,14 +33,14 @@ predicted_indications: ["parasitic conjunctivitis", "chronic follicular conjunct
 
 </div>
 
-## Prednisolone acetate：從眼部與關節發炎性疾患到寄生蟲性結膜炎
+## Prednisolone acetate：從眼部過敏性炎症疾患到結膜濾泡增生
 {: .text-alpha }
 
 ## 一句話總結
 
-Prednisolone acetate（乙酸培尼皮質醇）是一種糖皮質素，原本用於眼瞼炎、結膜炎、角膜炎等眼部過敏性疾患，以及風濕性關節炎等發炎性疾病。
-TxGNN 模型預測它可能對**寄生蟲性結膜炎 (Parasitic Conjunctivitis)** 有效，但此預測目前**沒有任何臨床試驗或文獻**支持，僅屬模型推論。
-在所有預測中，證據相對較多的是**乳突性結膜炎**與**春季結膜炎**，但這些證據主要來自同類藥物或其他免疫抑制劑，並非本藥本身。
+Prednisolone acetate（乙酸培尼皮質醇）是一種抗炎性皮質類固醇，在台灣原本用於眼瞼炎、結膜炎、角膜炎等眼部過敏性炎症疾患，以及風濕性關節炎等。
+TxGNN 模型預測排名第一的新適應症為**結膜濾泡增生 (conjunctival folliculosis)**，但該項僅有模型預測，無任何臨床試驗或文獻。
+本報告同時說明證據相對最多的**乳頭狀結膜炎 (papillary conjunctivitis)** 與**春季結膜炎 (vernal conjunctivitis)**，但這兩者的證據都屬間接證據。
 
 ---
 
@@ -48,11 +48,11 @@ TxGNN 模型預測它可能對**寄生蟲性結膜炎 (Parasitic Conjunctivitis)
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 抗炎性皮質固醇 |
-| 預測新適應症 | 寄生蟲性結膜炎 (Parasitic Conjunctivitis) |
-| TxGNN 預測分數 | 99.74% |
-| 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 僂麻質斯性關節炎、骨關節炎、痛風性關節炎、僂麻質斯性脊椎炎、肌肉僂麻質斯、滑液囊炎 |
+| 預測新適應症 | 結膜濾泡增生 (conjunctival folliculosis) |
+| TxGNN 預測分數 | 0.9974 |
+| 證據等級 | L5（僅有模型預測，無實際研究） |
+| 台灣上市 | 上市中（有效許可證 20 張／共 63 張） |
 | 許可證數 | 63 張（有效單方 9／有效複方 11／已註銷 43） |
 | 建議決策 | Hold |
 
@@ -60,42 +60,39 @@ TxGNN 模型預測它可能對**寄生蟲性結膜炎 (Parasitic Conjunctivitis)
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Prednisolone acetate 屬於糖皮質素類藥物，一般認為透過糖皮質素受體抑制 NF-κB 及磷脂酶 A2，進而減輕發炎反應。其在台灣的核准適應症涵蓋眼瞼炎、結膜炎、角膜炎、鞏膜炎、虹彩毛樣體炎等眼部發炎與過敏性疾患，因此在機轉上可能適用於結膜發炎相關疾病。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Prednisolone acetate 屬於糖皮質素受體促效劑，可抑制磷脂酶 A2、下調 NF-κB 等發炎介質，進而降低結膜濾泡的發炎反應。
 
-不過，寄生蟲性結膜炎的根本原因是寄生蟲感染，類固醇只能緩解發炎，無法處理病因，甚至可能干擾對感染的控制。因此這個預測目前只有模型分數支持，臨床上的合理性有限。
+台灣核准適應症本身已涵蓋眼瞼炎、結膜炎、角膜炎、鞏膜炎及虹彩毛樣體炎等眼部過敏性與發炎性疾患。預測的新適應症多為結膜發炎類疾病，與既有的眼科用途在病理上高度相關，因此機轉上有其合理性。
 
-同一批預測中，多數為結膜炎的各種亞型（慢性濾泡性、漿液性、乳突性、春季、偽膜性等），反映模型主要捕捉到「結膜發炎」這一共通主題。另有少數預測（如急性出血性結膜炎、感染後血管炎）在機轉上較弱，前者為自限性病毒感染，使用類固醇可能影響病毒清除，後者則因眼用製劑全身暴露極低而不合理。
+需要注意：排名前幾名的預測（結膜濾泡增生、非病毒性漿液性結膜炎、慢性濾泡性結膜炎）都沒有任何臨床證據。寄生蟲性結膜炎及急性出血性結膜炎（多為病毒性）則有感染惡化風險，使用類固醇須先處理致病原。
 
 ---
 
 ## 臨床試驗證據
 
-針對排名第一的預測（寄生蟲性結膜炎），目前無相關臨床試驗登記。
-
-作為參考，同批預測中有臨床試驗登記的適應症如下：
+排名第一的預測（結膜濾泡增生）目前無相關臨床試驗登記。以下為證據相對較多的其他預測適應症的試驗，均屬間接證據：
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT01437982](https://clinicaltrials.gov/study/NCT01928852) | Phase 4 | 完成 | 140 | 乳突性結膜炎：以另一種局部類固醇（loteprednol etabonate 0.5%）進行上市後監測，主要評估不良事件，並非本藥 |
-| [NCT04705584](https://clinicaltrials.gov/study/NCT04705584) | 不適用 | 未知 | 180 | 春季結膜炎：比較 cyclosporine 2% 與 tacrolimus 0.3% 作為類固醇替代療法，並非本藥 |
+| [NCT01437982](https://clinicaltrials.gov/study/NCT01437982) | Phase 4 | 完成 | 140 | 針對乳頭狀結膜炎：Loteprednol（同類眼用類固醇，非本藥）上市後監測，評估不良反應與安全性 |
+| [NCT04705584](https://clinicaltrials.gov/study/NCT04705584) | 不適用 | 未知 | 180 | 針對春季結膜炎：比較 Cyclosporine A 2% 與 Tacrolimus 0.3%，試驗組不明確包含本藥 |
 
 ---
 
 ## 文獻證據
 
-針對排名第一的預測（寄生蟲性結膜炎），目前無相關文獻。
-
-作為參考，同批預測中較相關的文獻如下：
+排名第一的預測（結膜濾泡增生）目前無相關文獻。以下為其他預測適應症的主要文獻：
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [24055903](https://pubmed.ncbi.nlm.nih.gov/24055903/) | 2013 | RCT（實驗動物模型） | Cornea | 春季結膜炎／過敏性結膜炎：比較 cyclosporine A、epinastine 與 prednisolone acetate 1% 對過敏性發炎的作用 |
-| [26984315](https://pubmed.ncbi.nlm.nih.gov/26984315/) | 2016 | Review | Advances in Therapy | 局部眼用類固醇（loteprednol）對眼壓的影響，提醒長期使用的眼壓風險 |
-| [18020605](https://pubmed.ncbi.nlm.nih.gov/18020605/) | 1998 | Review | BioDrugs | Loteprednol etabonate 用於眼部發炎的臨床潛力 |
-| [9713785](https://pubmed.ncbi.nlm.nih.gov/9713785/) | 1998 | Cohort | Journal of Glaucoma | Loteprednol 長期使用的眼壓變化 |
-| [12931748](https://pubmed.ncbi.nlm.nih.gov/12931748/) | 2003 | Case series | Asian Pac J Allergy Immunol | 泰國春季角結膜炎患者的治療結果，嚴重個案使用局部類固醇 |
-| [32621983](https://pubmed.ncbi.nlm.nih.gov/32621983/) | 2020 | Case series | J AAPOS | 黴漿菌相關皮疹與黏膜炎合併偽膜性結膜炎，使用局部 prednisolone acetate 治療 |
-| [21434554](https://pubmed.ncbi.nlm.nih.gov/21434554/) | 2011 | 個案報告 | Indian J Tuberculosis | 結膜結核被誤診為過敏性結膜炎，使用 prednisolone acetate 1% 後無改善，警示感染性病因誤用類固醇的風險 |
+| [24055903](https://pubmed.ncbi.nlm.nih.gov/24055903/) | 2013 | RCT（實驗動物模型） | Cornea | 在實驗性過敏性結膜炎模型中，比較 Cyclosporine A、Epinastine 與 1% Prednisolone acetate 對過敏性發炎的作用 |
+| [26984315](https://pubmed.ncbi.nlm.nih.gov/26984315/) | 2016 | Review | Advances in Therapy | 回顧 Loteprednol 對眼壓的影響，眼用類固醇有眼壓升高風險 |
+| [18020605](https://pubmed.ncbi.nlm.nih.gov/18020605/) | 1998 | Review | BioDrugs | Loteprednol 用於眼部發炎的臨床潛力 |
+| [12931748](https://pubmed.ncbi.nlm.nih.gov/12931748/) | 2003 | Cohort | Asian Pac J Allergy Immunol | 泰國春季角結膜炎患者的臨床特徵與治療結果；嚴重者使用局部類固醇 |
+| [9713785](https://pubmed.ncbi.nlm.nih.gov/9713785/) | 1998 | Cohort | J Glaucoma | Loteprednol 長期使用的眼壓變化 |
+| [32621983](https://pubmed.ncbi.nlm.nih.gov/32621983/) | 2020 | Case series | J AAPOS | 黴漿菌相關皮疹與黏膜炎的眼部表現，病例使用局部 Prednisolone acetate 合併其他治療 |
+| [21434554](https://pubmed.ncbi.nlm.nih.gov/21434554/) | 2011 | 病例報告 | Indian J Tuberculosis | 原發性結膜結核被誤診為過敏性結膜炎，使用 1% Prednisolone acetate 無改善 |
+| [15523196](https://pubmed.ncbi.nlm.nih.gov/15523196/) | 2004 | Review | Curr Opin Ophthalmol | 移植物抗宿主病的眼部表現與處置 |
 
 ---
 
@@ -148,15 +145,10 @@ TxGNN 模型預測它可能對**寄生蟲性結膜炎 (Parasitic Conjunctivitis)
 
 ## 安全性考量
 
-- **藥物交互作用**：本次查詢未找到交互作用資料。
-- **知識圖譜標示的禁忌疾病**（來源為 TxGNN 知識圖譜，非仿單內容）：
-  - 眼部感染：疱疹性角膜炎、病毒性眼部感染、黴菌性眼部感染、眼部結核、眼部感染性疾病
-  - 眼壓相關：開角型青光眼、高眼壓
-  - 代謝疾病：糖尿病、糖尿病酮酸中毒
-  - 其他：紫質症（遺傳性紫質症、紫質代謝疾病）、G6PD 缺乏症、肝醣儲積症、胱胺酸尿症、半乳糖血症、角膜色素沉著
-- 文獻同時提醒，長期局部使用類固醇可能造成眼壓升高與白內障，需要監測。
+- **知識圖譜記錄的禁忌關聯**（來自知識圖譜，非仿單內容）：遺傳性紫質症、紫質代謝疾病、單純皰疹病毒角膜炎、開角型青光眼、糖尿病、糖尿病酮酸中毒、高眼壓、G6PD 缺乏症、肝醣儲積症、胱胺酸尿症、半乳糖血症、眼部感染性疾病、結膜炎、眼部真菌感染、病毒性眼部感染、眼部結核、角膜色素沉著。
+- **臨床提醒**：文獻顯示眼用類固醇有眼壓升高風險。感染性結膜炎（寄生蟲、病毒、結核等）使用類固醇可能使病情惡化。
 
-其餘警語與禁忌請參考原廠仿單。
+其餘警語與藥物交互作用資訊請參考原廠仿單。
 
 ---
 
@@ -165,15 +157,15 @@ TxGNN 模型預測它可能對**寄生蟲性結膜炎 (Parasitic Conjunctivitis)
 **決策：Hold**
 
 **理由：**
-- 排名第一的預測（寄生蟲性結膜炎）僅有 TxGNN 模型分數，沒有任何臨床試驗或文獻；且類固醇無法處理寄生蟲病因，單用還可能掩蓋或惡化感染。
-- 整批預測中，乳突性結膜炎與春季結膜炎有較多間接證據（L4），但證據多來自 loteprednol、cyclosporine 等其他藥物，仍屬研究問題階段，尚不足以支持推進。
+- 排名第一的預測（結膜濾泡增生）僅有模型預測，無任何臨床試驗或文獻，證據等級為 L5。
+- 乳頭狀結膜炎與春季結膜炎有間接證據，但研究對象為同類藥物（Loteprednol）或其他免疫抑制劑，沒有直接研究本藥於該疾病者，因此仍視為 L5，只能列為研究問題。
 
 **若要推進需要：**
-- 取得完整的作用機轉資料（MOA）。
-- 優先轉向證據較多的春季結膜炎與乳突性結膜炎，尋找直接使用 prednisolone acetate 的對照研究。
-- 釐清各預測疾病的病因（過敏性、感染性、免疫性），建立排除感染後才使用類固醇的流程。
-- 規劃眼壓與白內障監測，並對疱疹性角膜炎、青光眼等禁忌族群設定排除條件。
-- 確認各預測疾病與既有劑型（眼藥水、眼軟膏）的給藥途徑相容性。
+- 取得詳細的作用機轉資料。
+- 針對結膜濾泡增生等預測疾病，搜尋或設計直接評估 Prednisolone acetate 的臨床研究。
+- 對感染性結膜炎（寄生蟲性、病毒性）先釐清致病原，並評估使用類固醇的風險。
+- 擬定眼壓、白內障及感染的監測計畫。
+- 確認既有眼用劑型（點眼液劑、點眼懸液劑）與預測疾病的給藥途徑相容。
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

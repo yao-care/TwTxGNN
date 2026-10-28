@@ -4,17 +4,17 @@ title: Vinorelbine
 parent: 僅模型預測 (L5)
 nav_order: 301
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Vinorelbine：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L5）。原適應症：非小細胞肺癌、轉移性乳癌"
+indication_count: 8
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "lung germ cell tumor", "pulmonary sulcus neoplasm", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
+last_modified_at: 2026-10-27
+description: "Vinorelbine：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L5）。原適應症：非小細胞肺癌，移轉性乳癌"
 ---
 
 # Vinorelbine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,53 +33,55 @@ predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of l
 
 </div>
 
-## Vinorelbine：從非小細胞肺癌、轉移性乳癌到尤文氏肉瘤
+## Vinorelbine：長春花生物鹼類抗微管藥物 → 尤文氏肉瘤 (Ewing sarcoma)
 {: .text-alpha }
 
 ## 一句話總結
 
-Vinorelbine 是長春花生物鹼類的化療藥物，原本用於非小細胞肺癌與轉移性乳癌。
+Vinorelbine 是一種半合成長春花生物鹼，透過抑制微管組裝發揮抗腫瘤作用。
 TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
-目前有 **3 個臨床試驗**和 **6 篇文獻**支持這個方向，但多為混合腫瘤族群或機轉研究，直接證據有限。
+目前有 **3 個臨床試驗**和 **6 篇文獻**與此方向相關，但多為混合腫瘤族群或機轉層級的證據。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 非小細胞肺癌、轉移性乳癌 |
+| 原適應症 | 非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小細胞肺癌，移轉性乳癌; 1.非小細胞肺癌  2.轉移性乳癌。; 非小細胞肺癌、移轉性乳癌。; 非小細胞肺癌，轉移性乳癌。 |
 | 預測新適應症 | 尤文氏肉瘤 (Ewing sarcoma) |
-| TxGNN 預測分數 | 99.999% |
-| 證據等級 | L5（依本報告判定規則：無已完成的 Phase 3 RCT；現有 Phase 2 為混合腫瘤族群，非尤文氏肉瘤專屬） |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 1.0000 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 10 張） |
 | 許可證數 | 10 張（有效單方 7／有效複方 0／已註銷 3） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
+
+> 註：TxGNN 原始分數為 0.99999022，四捨五入至小數點後四位為 1.0000。
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料庫記載（原始 MOA 欄位無資料）。就本報告整理的資訊，Vinorelbine 是長春花生物鹼，會結合微管蛋白、阻止微管組裝，使快速分裂的細胞停在有絲分裂期並走向凋亡。
+目前缺乏詳細的作用機轉登錄資料。根據已知藥理，Vinorelbine 屬於長春花生物鹼，會結合微管蛋白、阻止微管組裝，造成細胞有絲分裂停滯並誘發凋亡，對快速增殖的腫瘤細胞特別有影響。
 
-尤文氏肉瘤是一種高復發率的惡性骨腫瘤，細胞增殖快速，與 Vinorelbine 的抗有絲分裂作用相符。文獻指出，Vinorelbine 搭配低劑量環磷醯胺（節拍式或維持療法）已用於復發或難治型尤文氏肉瘤，並有國際 INTER-EWING-1 試驗的維持療法理論基礎回顧。
+在尤文氏肉瘤方面，Vinorelbine 與低劑量環磷醯胺（節拍式或維持性療法）合併使用，已出現在復發或難治性肉瘤的研究中。2026 年的一篇系統性回顧即在討論此組合作為尤文氏肉瘤維持療法的理論基礎，並作為國際 INTER-EWING-1 試驗的依據。另有體外研究顯示，微管干擾藥物（含 vinorelbine）與 PLK1 抑制劑在尤文氏肉瘤細胞中有協同誘導凋亡的作用。
 
-此外，體外研究顯示 PLK1 抑制劑與包含 Vinorelbine 在內的微管干擾藥物對尤文氏肉瘤細胞有協同誘導凋亡的作用。不過這些證據多屬間接，尚缺乏針對尤文氏肉瘤的隨機對照試驗。
+不過，現有證據多來自混合實體瘤或兒童難治性腫瘤的研究，並非專門針對尤文氏肉瘤的對照試驗，因此仍屬於合理但尚待驗證的推論。
 
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | Phase 2 | 完成 | 50 | Vinorelbine 用於兒童復發或難治性惡性腫瘤（混合實體瘤，非尤文氏肉瘤專屬） |
-| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | Phase 2 | 未知 | 210 | Vinorelbine + 環磷醯胺用於難治或復發腫瘤，族群包含尤文氏腫瘤、橫紋肌肉瘤、骨肉瘤等 |
-| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | NA | 進行中（已停止招募） | 100 | 中國兒童尤文氏肉瘤風險分層治療的前瞻性世代研究；Vinorelbine 的角色尚不明確 |
+| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | Phase 2 | 完成 | 50 | 以 vinorelbine 治療兒童復發或難治性惡性腫瘤；族群為混合實體瘤，非僅尤文氏肉瘤 |
+| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | Phase 2 | 未知 | 210 | Vinorelbine 合併環磷醯胺用於難治或復發腫瘤，涵蓋橫紋肌肉瘤、尤文氏腫瘤、骨肉瘤、神經母細胞瘤等 |
+| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | 不適用 | 進行中（不招募） | 100 | 中國兒童尤文氏肉瘤風險分層治療的前瞻性世代研究；vinorelbine 所扮演角色不明確 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [42561548](https://pubmed.ncbi.nlm.nih.gov/42561548/) | 2026 | 系統性回顧 | Cancer Treatment Reviews | Vinorelbine 與低劑量環磷醯胺作為尤文氏肉瘤維持療法，為 INTER-EWING-1 試驗的立論依據 |
-| [22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/) | 2012 | Phase 2 世代研究 | Eur J Cancer | Vinorelbine + 持續低劑量環磷醯胺用於兒童與年輕成人復發或難治實體瘤，耐受性良好，對橫紋肌肉瘤有療效 |
-| [12115359](https://pubmed.ncbi.nlm.nih.gov/12115359/) | 2002 | 世代研究 | Cancer | Vinorelbine 用於曾接受治療的晚期兒童肉瘤，在橫紋肌肉瘤顯示活性 |
-| [37637411](https://pubmed.ncbi.nlm.nih.gov/37637411/) | 2023 | Review | Front Pharmacol | 軟組織肉瘤化療藥物回顧 |
-| [26260582](https://pubmed.ncbi.nlm.nih.gov/26260582/) | 2016 | 體外研究 | Int J Cancer | PLK1 抑制劑與 Vinorelbine 等微管干擾藥物在尤文氏肉瘤細胞中協同誘導凋亡 |
-| [36451163](https://pubmed.ncbi.nlm.nih.gov/36451163/) | 2022 | 病例報告 | BMC Urol | 腎臟骨外尤文氏肉瘤病例與文獻回顧（與 Vinorelbine 關聯有限） |
+| [42561548](https://pubmed.ncbi.nlm.nih.gov/42561548/) | 2026 | 世代／回顧 | Cancer Treat Rev | 系統性回顧維持療法在尤文氏肉瘤的可行性，作為 vinorelbine 加低劑量環磷醯胺進入 INTER-EWING-1 試驗的理論基礎 |
+| [22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/) | 2012 | 世代（Phase 2） | Eur J Cancer | Vinorelbine 加持續低劑量環磷醯胺用於兒童與年輕成人復發或難治實體瘤，耐受性良好，橫紋肌肉瘤中療效較明確 |
+| [12115359](https://pubmed.ncbi.nlm.nih.gov/12115359/) | 2002 | 世代 | Cancer | Vinorelbine 用於曾接受治療的晚期兒童肉瘤，於橫紋肌肉瘤中顯示活性 |
+| [37637411](https://pubmed.ncbi.nlm.nih.gov/37637411/) | 2023 | 回顧 | Front Pharmacol | 軟組織肉瘤化療藥物回顧 |
+| [26260582](https://pubmed.ncbi.nlm.nih.gov/26260582/) | 2016 | 體外研究 | Int J Cancer | PLK1 抑制劑與含 vinorelbine 的微管干擾藥物在尤文氏肉瘤細胞中協同誘導凋亡 |
+| [36451163](https://pubmed.ncbi.nlm.nih.gov/36451163/) | 2022 | 病例報告 | BMC Urol | 腎臟骨外尤文氏肉瘤病例與文獻回顧，與 vinorelbine 療效關聯有限 |
 
 ## 台灣上市資訊
 
@@ -112,33 +114,32 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（長春花生物鹼類、抗微管藥物） |
-| 骨髓抑制風險 | 高（嗜中性白血球低下為主要劑量限制毒性；知識圖譜亦列出白血球低下相關警示） |
-| 致吐性分級 | 請參考原廠仿單 |
-| 監測項目 | CBC（含分類）、肝功能、感染徵象 |
-| 處置防護 | 需依細胞毒性藥物處置規範操作 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（長春花生物鹼類，抗微管） |
+| 骨髓抑制風險 | 高（嗜中性白血球低下為常見劑量限制毒性） |
+| 致吐性分級 | 低至中度 |
+| 監測項目 | CBC（含分類）、肝功能、注射部位反應 |
+| 處置防護 | 需依細胞毒性藥物處置規範操作；注射劑外滲可造成組織刺激，須謹慎給藥 |
 
 ## 安全性考量
 
-- **知識圖譜標示的禁忌或需謹慎情境**（來自 TxGNN 知識圖譜關聯，非仿單文字）：肝衰竭、感染性疾病、腸阻塞／腸梗阻、間質性肺病、肺部疾病、白血球低下。
-- **藥物交互作用**：資料庫共收錄 465 筆交互作用。主要者包括 Clarithromycin（Major），以及 Aprepitant、Dexamethasone、Metronidazole、Miconazole、Rolapitant、Rosuvastatin、Simvastatin 等（Moderate）。
+- **相關疾病警示**：現有資料顯示，下列情況與此藥存在禁忌或需審慎評估的關聯：肝衰竭、感染性疾病、腸阻塞（ileus、腸道阻塞）、間質性肺病／肺部疾病、白血球低下。
+- **藥物交互作用**：共記錄 465 筆。較重要者包括與 Clarithromycin（Major）併用；中度交互作用包括 Aprepitant、Dexamethasone、Metronidazole、Eliglustat、Miconazole、Rolapitant、Rosuvastatin、Simvastatin、Tinidazole 等。
 
-其餘警語與禁忌請參考原廠仿單。
+其餘警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 尤文氏肉瘤已有 Vinorelbine 加環磷醯胺的臨床使用脈絡、Phase 2 混合族群試驗與維持療法的理論回顧，機轉也合理。
-- 但直接針對尤文氏肉瘤的對照試驗尚缺，現有證據多為間接，且藥物具高骨髓抑制風險，因此需在嚴格控管下推進。
+- 目前所列試驗與文獻均未直接以尤文氏肉瘤為對象驗證 vinorelbine 的療效（多為混合實體瘤族群、機轉或體外研究），依規則證據等級僅能判定為 L5。
+- 雖然 vinorelbine 加低劑量環磷醯胺的方案在肉瘤領域有合理性，仍需更直接的證據才能推進。
 
 **若要推進需要：**
-- 追蹤 INTER-EWING-1 及 NCT06451302 的結果，確認 Vinorelbine 的實際角色與療效
-- 從混合族群試驗中萃取尤文氏肉瘤亞群的反應數據
-- 補齊正式的作用機轉資料（MOA）
-- 建立血液學監測與感染預防計畫，並評估與 CYP3A4 抑制劑（如 Clarithromycin）併用的風險
-- 評估台灣兒童與年輕族群使用的劑型與核准範圍（現行許可適應症為非小細胞肺癌與轉移性乳癌，尤文氏肉瘤屬仿單外使用）
+- 取得 INTER-EWING-1 等尤文氏肉瘤專屬試驗的結果，確認維持療法的療效與安全性
+- 補充詳細的作用機轉資料
+- 針對兒童與年輕族群的劑量、骨髓抑制與感染風險監測計畫
+- 評估口服劑型（軟膠囊）與注射劑型在節拍式給藥情境下的適用性
 
 <!-- review:begin log -->
 

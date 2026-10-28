@@ -4,17 +4,17 @@ title: Cyclizine
 parent: 中證據等級 (L3-L4)
 nav_order: 77
 evidence_level: L4
-indication_count: 9
+indication_count: 7
 last_modified_at: 2026-10-16
 description: "Cyclizine：預測新適應症為過敏性蕁麻疹 (Allergic Urticaria)（證據等級 L4）。原適應症：預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀"
 monitor_inn: "Cyclizine"
-predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "recalcitrant atopic dermatitis"]
+predicted_indications: ["allergic urticaria", "nasal cavity disease", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "trigeminal autonomic cephalalgia", "recalcitrant atopic dermatitis"]
 ---
 
 # Cyclizine
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **9** 個
+證據等級: **L4** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -60,9 +60,9 @@ TxGNN 模型預測它可能對**過敏性蕁麻疹 (Allergic Urticaria)** 有效
 |------|------|
 | 原適應症 | 預防或緩解動暈症（暈車、暈船、暈機）引起之頭暈、噁心、嘔吐、頭痛等症狀 |
 | 預測新適應症 | 過敏性蕁麻疹 (Allergic Urticaria) |
-| TxGNN 預測分數 | 99.98% |
+| TxGNN 預測分數 | 0.9998 |
 | 證據等級 | 過敏性蕁麻疹 L5（2026-10-03 重審降級；頭痛疾患 L4） |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 9 張） |
 | 許可證數 | 9 張（有效單方 1／有效複方 0／已註銷 8） |
 | 建議決策 | Hold |
 
@@ -90,20 +90,12 @@ TxGNN 模型預測它可能對**過敏性蕁麻疹 (Allergic Urticaria)** 有效
 
 | 排名 | 預測適應症 | 分數 | 證據等級 | 說明 |
 |------|-----------|------|---------|------|
-| 2 | 鼻腔疾病 (Nasal cavity disease) | 99.96% | L5 | 範圍過廣，僅有模型預測 |
-| 3 | 急性喉咽炎 (Acute laryngopharyngitis) | 99.95% | L5 | 多為感染性，機轉依據不明確 |
-| 4 | 寒冷性蕁麻疹 (Cold urticaria) | 99.84% | L5 | 機轉合理，但僅有預測 |
-| 5 | 酒糟性結膜炎 (Rosacea conjunctivitis) | 99.75% | L5 | 病因以發炎為主，與組織胺關聯弱 |
-| 6 | 頭痛疾患 (Headache disorder) | 99.49% | L4 | 僅有間接文獻 |
-| 7 | 三叉自主神經性頭痛 | 99.43% | L5 | 僅可能有症狀性關聯 |
-| 8 | 鼻炎 (Rhinitis) | 99.35% | L4 | 僅有 H1 類別推論，不是仿單內適應症 |
-| 9 | 頑固性異位性皮膚炎 | 99.28% | L5 | 抗組織胺對頑固型療效有限 |
-
-<!-- review:begin cyclizine-why-approved-premise-rhinitis-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「8／鼻炎 (Rhinitis)／99.35%／L4／屬仿單內適應症」。台灣現行 cyclizine 單方許可證只有旅暈平錠（衛署藥製字第002658號），核准動暈症。蕁麻疹、濕疹、過敏性皮膚炎、支氣管氣喘見於 homochlorcyclizine 許可證（如衛署藥製字第011706號敏平錠、第032390號「美的」宜敏錠；第032336號「應元」赫敏錠則寫慢性濕疹、皮膚炎、支氣管氣喘，沒有蕁麻疹），過敏性鼻炎與搔癢見於 chlorcyclizine 的第023981號止敏糖衣錠；這些都是與 cyclizine 不同的成分。2026-10-03 重審查無 cyclizine 單方用於鼻炎的臨床研究，只有 H1 拮抗的類別推論；鼻炎不在該次重審的等級清單內，等級維持頁面原值。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end cyclizine-why-approved-premise-rhinitis-2026-10-16 -->
+| 2 | 鼻腔疾病 (Nasal cavity disease) | 0.9996 | L5 | 範圍過廣，僅有模型預測 |
+| 4 | 寒冷性蕁麻疹 (Cold urticaria) | 0.9984 | L5 | 機轉合理，但僅有預測 |
+| 5 | 酒糟性結膜炎 (Rosacea conjunctivitis) | 0.9975 | L5 | 病因以發炎為主，與組織胺關聯弱 |
+| 6 | 頭痛疾患 (Headache disorder) | 0.9949 | L5 | 僅有間接文獻 |
+| 7 | 三叉自主神經性頭痛 | 0.9943 | L5 | 僅可能有症狀性關聯 |
+| 9 | 頑固性異位性皮膚炎 | 0.9928 | L5 | 抗組織胺對頑固型療效有限 |
 
 ## 臨床試驗證據
 
@@ -197,7 +189,7 @@ TxGNN 模型預測它可能對**過敏性蕁麻疹 (Allergic Urticaria)** 有效
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 標題把過敏性疾患列為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結稱蕁麻疹為仿單已載明的適應症 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 鼻炎列為仿單內適應症 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 鼻炎列為仿單內適應症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱蕁麻疹已屬仿單內適應症、L4 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 寫有效單方許可證 3 張 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由稱 cyclizine 單方已列有蕁麻疹等過敏適應症、屬仿單內適應症 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)；[emc：Valoid 50 mg Tablets（cyclizine hydrochloride）SmPC §4.1、§5.1](https://www.medicines.org.uk/emc/product/4318/smpc) |

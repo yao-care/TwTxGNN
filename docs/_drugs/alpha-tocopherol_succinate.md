@@ -6,7 +6,7 @@ nav_order: 21
 evidence_level: L5
 indication_count: 10
 monitor_inn: "alpha-Tocopherol succinate"
-predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "urinary bladder neoplasm", "tetanic cataract", "immature cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "craniostenosis cataract", "cortical cataract", "nuclear senile cataract"]
+predicted_indications: ["drug-induced osteoporosis", "diabetic cataract", "urinary bladder neoplasm", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "mature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract"]
 last_modified_at: 2026-10-16
 description: "Alpha-Tocopherol Succinate：預測新適應症為藥物性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：維他命Ｅ缺乏症"
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**藥物性骨質疏鬆 (Drug-induced Osteoporosis
 |------|------|
 | 原適應症 | 維他命Ｅ缺乏症 |
 | 預測新適應症 | 藥物性骨質疏鬆 (Drug-induced Osteoporosis) |
-| TxGNN 預測分數 | 99.997% |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | 僅有已註銷許可證（目前無有效上市） |
+| 台灣上市 | 上市中（有效許可證 1 張／共 49 張） |
 | 許可證數 | 49 張（有效單方 0／有效複方 1／已註銷 48） |
 | 建議決策 | Hold |
 
@@ -66,9 +66,9 @@ TxGNN 模型預測它可能對**藥物性骨質疏鬆 (Drug-induced Osteoporosis
 
 | 排名 | 預測適應症 | 預測分數 |
 |------|-----------|---------|
-| 2 | 糖尿病性白內障 (Diabetic Cataract) | 99.992% |
-| 3 | 膀胱腫瘤 (Urinary Bladder Neoplasm) | 99.991% |
-| 4–10 | 多種白內障亞型（強直性、未成熟、成熟、第二型糖尿病相關、顱縫早閉相關、皮質性、核性老年性） | 約 99.990% |
+| 2 | 糖尿病性白內障 (Diabetic Cataract) | 0.9999 |
+| 3 | 膀胱腫瘤 (Urinary Bladder Neoplasm) | 0.9999 |
+| 4–10 | 多種白內障亞型（強直性、未成熟、成熟、第二型糖尿病相關、顱縫早閉相關、皮質性、核性老年性） | 約 0.9999 |
 
 其中白內障類預測的共通邏輯是抗氧化作用可能減緩晶體氧化損傷；膀胱腫瘤方面，前臨床研究曾提到此化合物可能誘導部分癌細胞凋亡、抑制增殖，但本次整理的資料中並無針對膀胱腫瘤的試驗或文獻。
 
@@ -111,7 +111,7 @@ TxGNN 模型預測它可能對**藥物性骨質疏鬆 (Drug-induced Osteoporosis
 
 **理由：**
 - 預測雖然分數很高，但沒有任何臨床試驗或文獻佐證，證據等級僅為 L5。
-- 台灣目前沒有有效許可證，且缺乏作用機轉與安全性資料，現階段不適合推進。
+- 台灣目前已上市，49 張許可證中有 1 張有效，且缺乏作用機轉與安全性資料，現階段不適合推進。
 
 **若要推進需要：**
 - 補充詳細的作用機轉（MOA）資料，釐清抗氧化作用與骨代謝的關聯

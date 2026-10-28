@@ -4,17 +4,17 @@ title: Prednisolone
 parent: 高證據等級 (L1-L2)
 nav_order: 230
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Prednisolone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L2）。原適應症：風濕性疾患、支氣管氣喘、腎炎症候群、過敏性皮膚疾患"
 monitor_inn: "Prednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 |------|------|
 | 原適應症 | 風濕性疾患、支氣管氣喘、腎炎症候群、過敏性皮膚疾患 |
 | 預測新適應症 | 圓形禿 (Alopecia Areata) |
-| TxGNN 預測分數 | 99.99% |
+| TxGNN 預測分數 | 0.9999 |
 | 證據等級 | L2 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 152 張／共 442 張） |
 | 許可證數 | 442 張（有效單方 88／有效複方 64／已過期 8／已註銷 282） |
 | 建議決策 | Proceed with Guardrails |
 

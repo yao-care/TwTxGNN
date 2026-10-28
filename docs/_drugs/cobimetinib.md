@@ -4,9 +4,9 @@ title: Cobimetinib
 parent: 僅模型預測 (L5)
 nav_order: 72
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "cobimetinib"
-predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "amyotrophic lateral sclerosis, susceptibility to", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
+predicted_indications: ["amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "Mills syndrome", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "amyotrohpic lateral sclerosis type 22", "monomelic amyotrophy"]
 last_modified_at: 2026-10-16
 description: "Cobimetinib：預測新適應症為肌萎縮性側索硬化症 (Amyotrophic Lateral Sclerosis)（證據等級 L5）。原適應症：Cotellic 與 vemurafenib 併用於治療 BRAF V600 突變陽性且無法以手術切除或轉移性的黑色素瘤"
 ---
@@ -14,7 +14,7 @@ description: "Cobimetinib：預測新適應症為肌萎縮性側索硬化症 (Am
 # Cobimetinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**肌萎縮性側索硬化症 (Amyotrophic Lateral
 |------|------|
 | 原適應症 | Cotellic 與 vemurafenib 併用於治療 BRAF V600 突變陽性且無法以手術切除或轉移性的黑色素瘤 |
 | 預測新適應症 | 肌萎縮性側索硬化症 (Amyotrophic Lateral Sclerosis) |
-| TxGNN 預測分數 | 99.73% |
+| TxGNN 預測分數 | 0.9973 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

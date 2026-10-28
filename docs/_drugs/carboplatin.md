@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Carboplatin
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 55
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Carboplatin：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：卵巢癌"
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "endometrial mixed adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
+last_modified_at: 2026-10-27
+description: "Carboplatin：預測新適應症為直腸黏液腺癌 (rectum mucinous adenocarcinoma)（證據等級 L5）。原適應症：卵巢癌"
 ---
 
 # Carboplatin
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,103 +33,40 @@ predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenoc
 
 </div>
 
-## Carboplatin：從卵巢癌到女性乳癌
+## Carboplatin：鉑類 DNA 交聯細胞毒性藥物 → 直腸黏液腺癌 (rectum mucinous adenocarcinoma)
 {: .text-alpha }
-
-<!-- review:begin carboplatin-original-indication-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Carboplatin：從 HER2 陽性乳癌與轉移性胃癌（許可證所載適應症）到女性乳癌」。TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Carboplatin 是鉑類細胞毒性化療藥物，台灣 carboplatin 單方許可證（佳鉑帝、爾定康、杏輝剋鉑停）核准的適應症是卵巢癌。
-TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效，目前有**多個臨床試驗**（含 3 項已完成的 Phase 3）和**多篇文獻**（含數項 RCT）支持這個方向。
-
-<!-- review:begin carboplatin-original-indication-summary-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「在台灣許可證資料中，與它相關的適應症主要是 HER2 陽性乳癌及轉移性胃癌（Carboplatin 為併用療法的一環）。」。TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-summary-2026-10-16 -->
-
-> **資料提醒：** 本報告所用的台灣許可證資料，列出的是 trastuzumab 與 pembrolizumab 等生物藥品的許可證，其適應症文字只是提到「與 carboplatin 併用」。資料中沒有 carboplatin 本身的單方許可證，下列「原適應症」應理解為 carboplatin 所參與的併用療法適應症，而非 carboplatin 單方的核准適應症。
-
-<!-- review:begin carboplatin-original-indication-data-note-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-data-note-2026-10-16 -->
+Carboplatin 是一種鉑類細胞毒性化療藥物。
+TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcinoma)** 有效。
+本報告彙整的資料中，**沒有直接研究此疾病的臨床試驗或文獻**，目前僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 卵巢癌（台灣許可證核准適應症） |
-| 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
-| TxGNN 預測分數 | 99.86% |
-| 證據等級 | L1 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 卵巢癌。; 卵巢癌; 上皮性卵巢癌、肺部小細胞癌及頭頸部麟狀細胞癌、子宮頸癌。; 卯巢癌; 抗腫瘤藥 |
+| 預測新適應症 | 直腸黏液腺癌 (rectum mucinous adenocarcinoma) |
+| TxGNN 預測分數 | 0.9928 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 16 張） |
 | 許可證數 | 16 張（有效單方 3／有效複方 0／已註銷 13） |
-| 建議決策 | Proceed with Guardrails |
-
-<!-- review:begin carboplatin-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／HER2 過度表現之早期乳癌、轉移性乳癌，以及未曾接受化療之 HER2 過度表現轉移性胃腺癌（來自許可證文字，carboplatin 為併用藥物）」。2026-10-15 報告重生後，此列改寫成 trastuzumab 許可證中與 carboplatin 併用的適應症，仍不是 carboplatin 本身的核准適應症。原文列的是 trastuzumab、pembrolizumab 等其他藥品許可證中與 carboplatin 併用的適應症；台灣有效的 carboplatin 許可證（衛署藥輸字第024074號佳鉑帝、第024804號爾定康、衛署藥製字第057314號杏輝剋鉑停）核准適應症都是「卵巢癌」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-2026-10-03 -->
-
-由於原適應症本身已含乳癌，這個預測更像是**擴大或釐清使用族群**（例如三陰性乳癌、BRCA 相關乳癌），而不是全新的疾病領域。
-
-<!-- review:begin carboplatin-original-indication-why-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-why-2026-10-16 -->
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。依本報告彙整的推論，carboplatin 會與 DNA 形成鉑-DNA 加成物與交叉鏈結，阻斷 DNA 複製並誘發細胞凋亡。
+本報告彙整的資料缺乏詳細的作用機轉紀錄。依鉑類藥物的一般藥理，carboplatin 進入細胞後會與 DNA 形成交聯加成物，阻礙 DNA 複製與轉錄，進而誘發癌細胞凋亡。這種作用不依賴特定癌別，理論上可作用於腸道腺癌細胞，這是模型預測的主要合理性來源。
 
-這個機轉特別適用於 DNA 修復功能受損的腫瘤，例如三陰性乳癌與 BRCA 缺陷乳癌。另外，carboplatin 已是 TCH 療法（docetaxel + carboplatin + trastuzumab）的一部分，用於 HER2 陽性乳癌，因此原適應症與預測新適應症在臨床上高度相關。
-
-<!-- review:begin carboplatin-original-indication-why-tch-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。TCH 療法屬 trastuzumab 許可證的併用方案，不是 carboplatin 本身的核准適應症。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-why-tch-2026-10-16 -->
-
-多項新輔助化療試驗也在測試，於標準治療中加入 carboplatin 能否提高病理完全緩解率 (pCR)。
+不過目前沒有任何研究直接評估 carboplatin 對直腸黏液腺癌的療效。黏液型組織學在一般認知上對化療的敏感度偏低，這對預測的可靠度是不利因素。因此，這個預測目前只能視為假說，不能視為已有臨床支持。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Phase 3 | 完成 | 3222 | 比較 AC-T、AC-TH 與 TCH（docetaxel + carboplatin + trastuzumab）用於 HER2 陽性可手術乳癌的輔助治療 |
-| [NCT00047255](https://clinicaltrials.gov/study/NCT00047255) | Phase 3 | 完成 | 263 | 比較 docetaxel + trastuzumab 加或不加 carboplatin，用於 HER2 基因擴增的晚期乳癌第一線治療 |
-| [NCT02125344](https://clinicaltrials.gov/study/NCT02125344) | Phase 3 | 完成 | 961 | GeparOcto：比較兩種劑量密集方案（含 carboplatin 的 PM(Cb)）用於高風險早期乳癌新輔助治療 |
-| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Phase 2 | 完成 | 148 | 隨機試驗，比較 carboplatin 與 docetaxel 用於轉移性遺傳性（BRCA）乳癌 |
-| [NCT00316407](https://clinicaltrials.gov/study/NCT00316407) | Phase 1/2 | 完成 | 30 | Lapatinib 併用 carboplatin/paclitaxel，用於復發卵巢癌或 IV 期乳癌 |
-| [NCT00003612](https://clinicaltrials.gov/study/NCT00003612) | Phase 2 | 完成 | 92 | Paclitaxel + carboplatin + Herceptin 用於 HER2 過度表現轉移性乳癌第一線治療 |
-| [NCT01208480](https://clinicaltrials.gov/study/NCT01208480) | Phase 2 | 完成 | 45 | 新輔助 bevacizumab + docetaxel + carboplatin 用於三陰性乳癌 |
-| [NCT00616967](https://clinicaltrials.gov/study/NCT00616967) | Phase 2 | 進行中（不再招募） | 68 | Carboplatin + nab-paclitaxel 加或不加 vorinostat，用於 HER2 陰性可手術乳癌的術前化療，評估療效與生物標記 |
-| [NCT00025688](https://clinicaltrials.gov/study/NCT00025688) | Phase 3 | 未知 | 未提供 | 每週 paclitaxel 加或不加 carboplatin，用於 65 歲以上轉移性乳癌第一線治療 |
-| [NCT00118053](https://clinicaltrials.gov/study/NCT00118053) | Phase 2 | 提前終止 | 5 | Docetaxel + carboplatin + Herceptin 用於局部晚期或發炎性乳癌 |
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [24794243](https://pubmed.ncbi.nlm.nih.gov/24794243/) | 2014 | RCT（Phase 2） | The Lancet Oncology | GeparSixto：評估在新輔助治療中加入 carboplatin 用於三陰性與 HER2 陽性早期乳癌 |
-| [29501363](https://pubmed.ncbi.nlm.nih.gov/29501363/) | 2018 | RCT（Phase 3） | The Lancet Oncology | BrighTNess：在三陰性乳癌新輔助化療中加入 veliparib + carboplatin 或單用 carboplatin |
-| [35044810](https://pubmed.ncbi.nlm.nih.gov/35044810/) | 2022 | RCT（Phase 2） | J Clin Oncol | CALGB 40603 長期追蹤：加入 carboplatin 或 bevacizumab 提高 II-III 期三陰性乳癌的 pCR，本文報告長期結果 |
-| [33208340](https://pubmed.ncbi.nlm.nih.gov/33208340/) | 2021 | RCT（Phase 2） | Clin Cancer Res | NeoSTOP：比較不含與含 anthracycline 的新輔助 carboplatin 方案用於三陰性乳癌 |
-| [41436191](https://pubmed.ncbi.nlm.nih.gov/41436191/) | 2025 | RCT（Phase 3） | BMJ | CITRINE：高風險早期三陰性乳癌輔助治療，評估加入 carboplatin 對存活的影響 |
-| [41115255](https://pubmed.ncbi.nlm.nih.gov/41115255/) | 2026 | Phase 3 RCT | J Clin Oncol | 在三陰性乳癌的 taxane-anthracycline 新輔助化療中加入鉑類，評估對存活的影響 |
-| [29175149](https://pubmed.ncbi.nlm.nih.gov/29175149/) | 2018 | RCT（Phase 3） | The Lancet Oncology | KRISTINE：HER2 陽性乳癌新輔助治療，比較含化療方案與 T-DM1 + pertuzumab |
-| [40593759](https://pubmed.ncbi.nlm.nih.gov/40593759/) | 2025 | RCT（Phase 2b） | Nature Communications | 以標準新輔助 TCbHP 方案（含 carboplatin）作為對照，比較 ARX788 + pyrotinib |
-| [38492276](https://pubmed.ncbi.nlm.nih.gov/38492276/) | 2024 | 系統性回顧 | The Breast | 早期三陰性乳癌的鉑類化療：可提高 pCR，對長期存活的影響尚待釐清 |
-| [39631485](https://pubmed.ncbi.nlm.nih.gov/39631485/) | 2024 | Review | Pharmacological Research | 乳癌標靶與細胞毒性抑制劑的治療概述 |
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -158,52 +95,38 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（鉑類，DNA 烷化樣交叉鏈結） |
-| 骨髓抑制風險 | 高（劑量限制性毒性，常見血小板減少、嗜中性白血球減少與貧血；知識圖譜亦列有相關禁忌疾病） |
-| 致吐性分級 | 中至高度（視劑量而定） |
-| 監測項目 | CBC（含分類與血小板）、腎功能、肝功能、電解質、聽力與周邊神經症狀 |
-| 處置防護 | 需依細胞毒性藥物處置規範配製與給藥 |
+| 細胞毒性分類 | 傳統細胞毒性藥物（鉑類，DNA 交聯） |
+| 骨髓抑制風險 | 高（血小板減少、嗜中性白血球減少與貧血為主要劑量限制毒性） |
+| 致吐性分級 | 中度（高劑量時可能升高） |
+| 監測項目 | CBC（含分類與血小板）、腎功能、肝功能、電解質（鎂、鉀、鈣）、神經與聽力症狀 |
+| 處置防護 | 需依細胞毒性藥物處置規範配製、投藥與廢棄物處理 |
 
-細部警語與劑量調整，請參考原廠仿單。
+細節請參考原廠仿單的警語與注意事項。
 
 ## 安全性考量
 
-- **知識圖譜標示的潛在禁忌疾病**（來自藥物-疾病關聯資料，並非仿單文字）：腎臟疾病、肝臟疾病、膽囊疾病、血小板減少、嗜中性白血球減少、顆粒球缺乏症、白血球減少、貧血、血液凝固疾病、周邊神經病變、聽力障礙。
-- **藥物交互作用**：資料庫共收錄 488 筆。主要為中度等級，例如：
-  - 氫離子幫浦抑制劑（rabeprazole、omeprazole、esomeprazole、lansoprazole、pantoprazole、dexlansoprazole）
-  - 胺基糖苷類抗生素（kanamycin、neomycin、streptomycin）與 vancomycin（可能加重腎毒性或耳毒性）
-  - Metronidazole、tinidazole
-  - Statin 類（rosuvastatin、simvastatin）
-  - Levofloxacin 為輕度交互作用
-
-仿單中的正式警語與禁忌症，請參考原廠仿單。
+- **藥物交互作用**：本報告彙整的資料共記錄 488 筆交互作用，其中主要為中度等級，例如：
+  - 質子幫浦抑制劑（rabeprazole、omeprazole、esomeprazole、lansoprazole、pantoprazole、dexlansoprazole）
+  - 硝基咪唑類抗生素（metronidazole、tinidazole）
+  - 胺基糖苷類抗生素（kanamycin、neomycin、streptomycin）
+  - vancomycin
+  - 史他汀類（rosuvastatin、simvastatin）
+- levofloxacin 為輕微等級。
+- 其餘安全性資訊請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 已有 3 項已完成的 Phase 3 試驗（NCT00021255、NCT00047255、NCT02125344），並有多項 RCT 探討 carboplatin 用於乳癌，證據等級為 L1。
-- Carboplatin 的骨髓抑制風險高。同時，乳癌原本就在許可證的併用適應症內，因此重點是確認適用的亞型與劑量，而非開發全新適應症。
-
-<!-- review:begin carboplatin-original-indication-conclusion-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-conclusion-2026-10-16 -->
+- 模型分數高（0.9928），但沒有任何直接針對直腸黏液腺癌的臨床試驗或文獻支持，證據等級為 L5。
+- 黏液型組織學對化療的敏感度一般偏低，目前不宜推進。
 
 **若要推進需要：**
-- 釐清台灣許可證資料：目前沒有 carboplatin 單方許可證，需確認其在台灣的實際核准適應症。
-- 補充 DrugBank 的詳細作用機轉資料。
-- 針對三陰性、BRCA 相關與 HER2 陽性亞型，整理 carboplatin 對長期存活（而非僅 pCR）的獲益與風險。
-- 建立血液學毒性、腎功能與聽力、神經毒性的監測計畫，並檢視併用藥物（如 PPI、胺基糖苷類）的交互作用。
-- 補充其他預測方向（如成人生殖細胞腫瘤，目前證據等級 L2）的評估，以供後續排序。
-
-<!-- review:begin carboplatin-original-indication-next-step-2026-10-16 -->
-
-> **查核加註（2026-10-16）**：TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end carboplatin-original-indication-next-step-2026-10-16 -->
+- 檢索並評估 carboplatin 或鉑類在直腸或大腸黏液腺癌的回溯性研究與亞群分析
+- 釐清黏液型與非黏液型直腸癌對鉑類的反應差異
+- 若有初步訊號，再設計小型探索性試驗（含生物標記或組織學分層）
+- 補齊詳細的作用機轉資料與安全性仿單資訊
 
 <!-- review:begin log -->
 
@@ -213,18 +136,18 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「原適應症」列成 trastuzumab／pembrolizumab 等併用方案的適應症 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「原適應症」列成 trastuzumab／pembrolizumab 等併用方案的適應症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「許可證數」寫成其他藥品適應症中的併用藥物 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛部藥輸字第027591號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛署藥輸字第027591號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛部藥輸字第028264號」列 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以併用藥物許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結以併用藥物許可證的適應症為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 資料提醒稱沒有 carboplatin 單方許可證 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由稱原適應症已含乳癌 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 結論稱乳癌原本就在許可證適應症內 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 預測理由稱原適應症與乳癌高度相關 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 下一步稱目前沒有 carboplatin 單方許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以併用藥物許可證的適應症為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結以併用藥物許可證的適應症為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 資料提醒稱沒有 carboplatin 單方許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱原適應症已含乳癌 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 結論稱乳癌原本就在許可證適應症內 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 預測理由稱原適應症與乳癌高度相關 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 下一步稱目前沒有 carboplatin 單方許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

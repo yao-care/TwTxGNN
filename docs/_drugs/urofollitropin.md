@@ -4,9 +4,9 @@ title: Urofollitropin
 parent: 僅模型預測 (L5)
 nav_order: 297
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Urofollitropin"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "migraine with or without aura, susceptibility to", "Raynaud disease"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "His bundle tachycardia", "restless legs syndrome", "obsolete neurogenic bladder (disease)", "multifocal atrial tachycardia (disease)", "postural orthostatic tachycardia syndrome", "Raynaud disease"]
 last_modified_at: 2026-10-16
 description: "Urofollitropin：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀"
 ---
@@ -14,7 +14,7 @@ description: "Urofollitropin：預測新適應症為偏頭痛 (Migraine Disorder
 # Urofollitropin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 |------|------|
 | 原適應症 | 因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
-| TxGNN 預測分數 | 99.85% |
+| TxGNN 預測分數 | 0.9985 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 10 張） |
 | 許可證數 | 10 張（有效單方 1／有效複方 0／已註銷 9） |
 | 建議決策 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 
 目前沒有已建立的機轉能把這類藥物與偏頭痛連結起來。唯一較具推測性的關聯，是女性偏頭痛與雌激素濃度波動有關，促性腺激素可能間接影響性荷爾蒙，進而調節偏頭痛。但這只是推測，並無臨床或文獻資料支持。
 
-因此，這個預測目前只能視為模型的初步訊號，合理性有限。模型也同時給出其他高分預測（如腦幹先兆偏頭痛、馬尾症候群、His 束心搏過速、不寧腿症候群等），多數與藥物機轉的關聯同樣薄弱，顯示高分可能反映知識圖譜的網絡特性，而非真實的藥理關聯。
+因此，這個預測目前只能視為模型的初步訊號，合理性有限。模型也同時給出其他高分預測（如腦幹先兆偏頭痛、馬尾症候群、His 束心搏過速、不寧腿症候群等），多數與藥物機轉的關聯同樣薄弱，顯示這些分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
 ## 臨床試驗證據
 

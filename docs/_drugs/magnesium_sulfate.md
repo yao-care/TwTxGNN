@@ -4,17 +4,17 @@ title: Magnesium Sulfate
 parent: 高證據等級 (L1-L2)
 nav_order: 172
 evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Magnesium Sulfate：預測新適應症為子癇前症／子癇 (preeclampsia/eclampsia)（證據等級 L1）。原適應症：抗痙攣藥"
+indication_count: 9
 monitor_inn: "Magnesium sulfate"
-predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "thrombotic disease", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+last_modified_at: 2026-10-23
+description: "Magnesium Sulfate：預測新適應症為妊娠毒血症 (toxemia of pregnancy)（證據等級 L1）。原適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助"
 ---
 
 # Magnesium Sulfate
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **10** 個
+證據等級: **L1** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,24 @@ predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "throm
 
 </div>
 
-## Magnesium sulfate：從子癇症與緩瀉 到 子癇前症／子癇
+## 硫酸鎂 (Magnesium sulfate)：從子癇症與鎂離子補充到妊娠毒血症
 {: .text-alpha }
 
 ## 一句話總結
 
-硫酸鎂（Magnesium sulfate）在台灣原本用於子癇症、子癇前症的預防與治療、體內鎂缺乏的補充，以及抗痙攣與緩瀉。
-TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有效，目前有 **30 個臨床試驗**和 **19 篇文獻**支持這個方向，其中包含多項已完成的 Phase 2/3 及 Phase 4 隨機試驗。
+硫酸鎂在台灣原本核准用於子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助，以及體內鎂離子缺乏時的補充，另有緩下劑、抗痙攣等用途。
+TxGNN 模型預測它可能對**妊娠毒血症 (toxemia of pregnancy)** 有效，目前有 **30 個臨床試驗**和 **19 篇文獻**支持這個方向。
+需要說明的是，硫酸鎂用於子癇前症與子癇已是台灣許可證載明的適應症，因此這個預測較接近對既有用途的佐證，而非全新的用途。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 抗痙攣藥；瀉藥 |
-| 預測新適應症 | 子癇前症／子癇 (preeclampsia/eclampsia) |
-| TxGNN 預測分數 | 99.999% |
+| 原適應症 | 子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充 |
+| 預測新適應症 | 妊娠毒血症 (toxemia of pregnancy) |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 19 張／共 117 張） |
 | 許可證數 | 117 張（有效單方 5／有效複方 14／已註銷 98） |
 | 建議決策 | Proceed with Guardrails |
 
@@ -83,13 +84,7 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）。根據資料彙整的機轉推論，硫酸鎂可拮抗 NMDA 受體、阻斷鈣離子通道，並促進腦血管擴張。這些作用能提高癲癇發作閾值，並對抗子癇時的血管痙攣。
-
-<!-- review:begin magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
-
-> **查核加註（2026-10-03）**：仿單寫硫酸鎂藉阻斷神經肌肉傳導、減少運動神經末梢乙醯膽鹼釋放來預防或控制抽搐，另有中樞抑制與周邊血管擴張作用；本句的 NMDA 受體拮抗、阻斷鈣離子通道與「促進腦血管擴張」都不在仿單內（仿單寫的是周邊血管擴張）。預測的子癇前症／子癇症本身是仿單核准適應症，結論不受影響。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
-
-<!-- review:end magnesium-sulfate-cerebral-perfusion-2026-10-03 -->
+目前缺乏詳細的作用機轉資料（DrugBank 未提供）。根據已知資訊，硫酸鎂可拮抗 NMDA 受體與鈣離子通道，並使腦血管擴張，因而提高癲癇閾值，預防子癇發作。
 
 <!-- review:begin magnesium-sulfate-cerebral-perfusion-moa-missing-2026-10-16 -->
 
@@ -97,43 +92,39 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 <!-- review:end magnesium-sulfate-cerebral-perfusion-moa-missing-2026-10-16 -->
 
-台灣已核准的硫酸鎂注射液適應症，本來就包含「子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助」。所以這個預測與既有的核准用途相符，屬於以證據補強既有用途，而非全新的用途。
-
-文獻也支持此看法：多篇回顧指出，硫酸鎂是預防與控制子癇抽搐的首選藥物，其療效與安全性已被長期記錄。
+妊娠毒血症（子癇前症與子癇）正是硫酸鎂在台灣許可證上明載的適應症。因此這項預測與現行核准用途一致，並非全新適應症。臨床試驗多聚焦於劑量、給藥時間長短與特殊族群（如肥胖孕婦）的調整，而非療效有無。
 
 ## 臨床試驗證據
 
-資料中共有 30 筆相關試驗，以下列出關聯度最高的 10 筆：
+以下列出與妊娠毒血症最相關的 10 個試驗（資料共含 30 個試驗）：
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | Phase 2/3 | 完成 | 280 | 嚴重子癇前症產後硫酸鎂 6 小時 vs 24 小時（產前已用藥不足 8 小時者） |
-| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | Phase 2/3 | 完成 | 1114 | 產前已用藥超過 8 小時者，產後 24 小時 vs 不續用 |
-| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | Phase 4 | 完成 | 222 | 嚴重子癇前症維持劑量 1 g vs 2 g 的療效與安全性 |
-| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | N/A | 完成 | 114 | 低劑量 vs 標準 Pritchard 療程用於嚴重子癇前症／子癇 |
-| [NCT00004399](https://clinicaltrials.gov/study/NCT00004399) | N/A | 完成 | 2000 | Nimodipine vs 硫酸鎂預防嚴重子癇前症的子癇發作 |
-| [NCT03318211](https://clinicaltrials.gov/study/NCT03318211) | Phase 4 | 未知 | 100 | 產後繼續 vs 停用硫酸鎂 |
-| [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | Phase 4 | 提前終止 | 62 | 維持劑量 1 g/h vs 2 g/h 預防子癇 |
-| [NCT06486025](https://clinicaltrials.gov/study/NCT06486025) | Phase 1/2 | 未知 | 100 | 過重及肥胖子癇前症婦女的替代劑量方案 |
-| [NCT03412552](https://clinicaltrials.gov/study/NCT03412552) | N/A | 完成 | 1238 | 嚴重子癇前症／子癇加護照護的觀察性分析（硫酸鎂為整體處置的一部分） |
-| [NCT07220902](https://clinicaltrials.gov/study/NCT07220902) | Phase 3 | 尚未招募 | 1240 | Levetiracetam 與硫酸鎂預防子癇發作的等效性比較 |
-
-這些試驗多聚焦於劑量與療程的最佳化，而非「有沒有效」，顯示硫酸鎂已是標準療法。
+| [NCT02317146](https://clinicaltrials.gov/study/NCT02317146) | Phase 2/3 | 完成 | 280 | 嚴重子癇前症產前使用不足 8 小時者，產後給藥 6 小時與 24 小時的比較 |
+| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | Phase 2/3 | 完成 | 1114 | 產前已用藥超過 8 小時者，產後是否仍需持續 24 小時的多中心試驗 |
+| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | Phase 4 | 完成 | 222 | 嚴重子癇前症維持劑量 1 g 與 2 g 的比較 |
+| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | 不適用 | 完成 | 114 | 低劑量方案與標準 Pritchard 方案的比較 |
+| [NCT00004399](https://clinicaltrials.gov/study/NCT00004399) | 不適用 | 完成 | 2000 | Nimodipine 與硫酸鎂預防子癇發作的比較 |
+| [NCT03318211](https://clinicaltrials.gov/study/NCT03318211) | Phase 4 | 未知 | 100 | 產後持續與停止硫酸鎂的隨機對照 |
+| [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | Phase 4 | 提前終止 | 62 | 維持劑量 1 g/h 與 2 g/h 預防子癇（樣本小） |
+| [NCT06486025](https://clinicaltrials.gov/study/NCT06486025) | Phase 1/2 | 未知 | 100 | 過重與肥胖子癇前症孕婦的替代劑量方案 |
+| [NCT07220902](https://clinicaltrials.gov/study/NCT07220902) | Phase 3 | 尚未招募 | 1240 | Levetiracetam 與硫酸鎂預防子癇發作的等效性試驗 |
+| [NCT03412552](https://clinicaltrials.gov/study/NCT03412552) | 不適用 | 完成 | 1238 | 重度子癇前症與子癇的加護照護風險分析（觀察性，非硫酸鎂專屬） |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [9794688](https://pubmed.ncbi.nlm.nih.gov/9794688/) | 1998 | Review | Obstetrics and Gynecology | 回顧硫酸鎂預防子癇發作的療效、效益與風險 |
-| [2288560](https://pubmed.ncbi.nlm.nih.gov/2288560/) | 1990 | Review | Am J Obstet Gynecol | 硫酸鎂為子癇前症／子癇的理想抗痙攣藥，療效與安全性已獲長期記錄 |
-| [16978425](https://pubmed.ncbi.nlm.nih.gov/16978425/) | 2006 | Review | Obstet Gynecol Surv | 子癇前症的腦血流動力學，及硫酸鎂替代藥物的理由 |
-| [23282276](https://pubmed.ncbi.nlm.nih.gov/23282276/) | 2012 | Review | Rev Med Inst Mex Seguro Soc | 子癇前症／子癇臨床指引 |
-| [2672428](https://pubmed.ncbi.nlm.nih.gov/2672428/) | 1989 | Review | Stroke | 硫酸鎂可能透過對抗鈣依賴性動脈收縮而緩解血管痙攣 |
-| [41054655](https://pubmed.ncbi.nlm.nih.gov/41054655/) | 2025 | Review | Cureus | 硫酸鎂在兒童急診的藥理與證據 |
-| [17441885](https://pubmed.ncbi.nlm.nih.gov/17441885/) | 2007 | Cohort | J Obstet Gynaecol Res | 嚴重子癇前症／子癇治療下游離鎂與總鎂濃度的關係 |
-| [1566765](https://pubmed.ncbi.nlm.nih.gov/1566765/) | 1992 | In vitro | Am J Obstet Gynecol | 硫酸鎂對海馬迴癲癇發作具中樞抗痙攣作用 |
-| [39110688](https://pubmed.ncbi.nlm.nih.gov/39110688/) | 2024 | Case series | PLoS One | 坦尚尼亞護理助產人員提供硫酸鎂的質性研究 |
-| [28301493](https://pubmed.ncbi.nlm.nih.gov/28301493/) | 2017 | 質性研究 | PLoS One | 巴西產科醫師對處方硫酸鎂的風險認知 |
+| [32980358](https://pubmed.ncbi.nlm.nih.gov/32980358/) | 2022 | Review | Am J Obstet Gynecol | 21 世紀子癇的發生率與已開發、開發中國家的結果差異 |
+| [38669914](https://pubmed.ncbi.nlm.nih.gov/38669914/) | 2024 | Review | Pregnancy Hypertens | 硫酸鎂在子癇前症的適用範圍不僅限於神經症狀 |
+| [36822712](https://pubmed.ncbi.nlm.nih.gov/36822712/) | 2023 | Review | Obstet Gynecol Clin North Am | 高收入與中低收入國家的硫酸鎂預防與胎兒神經保護方案 |
+| [10803454](https://pubmed.ncbi.nlm.nih.gov/10803454/) | 2000 | Review | Clin Pharmacokinet | 硫酸鎂用於子癇與子癇前症的藥物動力學原則 |
+| [8879973](https://pubmed.ncbi.nlm.nih.gov/8879973/) | 1996 | Review | Drug Saf | 硫酸鎂預防癲癇的效果優於 diazepam 與 phenytoin |
+| [37467840](https://pubmed.ncbi.nlm.nih.gov/37467840/) | 2023 | Review | Am J Obstet Gynecol | 產後晚期重度高血壓是否都需使用硫酸鎂尚無研究 |
+| [38872116](https://pubmed.ncbi.nlm.nih.gov/38872116/) | 2024 | 族群藥動學 | BMC Pregnancy Childbirth | 中國子癇前症族群的硫酸鎂劑量最佳化 |
+| [32642964](https://pubmed.ncbi.nlm.nih.gov/32642964/) | 2020 | 族群藥動學 | Drugs R D | 子癇前症硫酸鎂藥動學模型與影響因子 |
+| [38574215](https://pubmed.ncbi.nlm.nih.gov/38574215/) | 2024 | Review | Am Fam Physician | 妊娠高血壓疾患的診療概述 |
+| [24915961](https://pubmed.ncbi.nlm.nih.gov/24915961/) | 2014 | Review | Curr Hypertens Rep | 子癇前症的病理、診斷與處置更新 |
 
 ## 台灣上市資訊
 
@@ -181,34 +172,45 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 
 ## 安全性考量
 
-- **禁忌症（來自知識圖譜推論，非仿單原文）**：腎臟疾病、高血鈣、腎鈣質沉著症、磷代謝疾病、慢性腹瀉、闌尾炎、房室傳導阻滯、高血鉀型週期性麻痺、低醛固酮症、先天性肌強直、胃輕癱等。
-- **藥物交互作用**：共查得 92 筆，主要如下。
-  - 重度：Dolutegravir、Amikacin、Bictegravir
-  - 中度：Doxycycline、Tetracycline、Ciprofloxacin、Nifedipine、Amlodipine、Cisatracurium、Alendronic acid、Risedronic acid、Ibandronate、Cholecalciferol、Calcitriol 及多種皮質類固醇
-- 臨床試驗中也有硫酸鎂延長神經肌肉阻斷劑作用的研究，麻醉時需留意。
+- **禁忌症（知識圖譜關聯，非仿單內容）**：知識圖譜記錄的相關疾病包括腎臟疾病、高鈣血症、腎鈣質沉著症、磷代謝疾病、慢性腹瀉、闌尾炎、房室傳導阻滯、高血鉀性週期性麻痺、先天性肌強直、胃輕癱等，實際禁忌請以仿單為準。
+- **藥物交互作用**：資料庫共記錄 92 筆。
+  - 嚴重 (Major)：Dolutegravir、Amikacin、Bictegravir。
+  - 中度 (Moderate)：Nifedipine、Amlodipine、Doxycycline、Tetracycline、Ciprofloxacin、Cisatracurium、多種皮質類固醇、雙磷酸鹽類及維生素 D 類。
+- **用藥監測（依預測資料的建議）**：需監測反射、呼吸速率、尿量與血清鎂濃度，腎功能不全或肥胖者需調整劑量，並備妥葡萄糖酸鈣。
 
-其餘警語請參考原廠仿單。
+主要警語請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**
 
 **理由：**
-- 硫酸鎂用於子癇前症／子癇已有大量隨機試驗與長期臨床經驗，台灣許可證也已涵蓋此適應症。
-- 劑量、療程、肥胖族群與腎功能不全者的安全邊界仍在研究中，需要明確的用藥防護措施。
+- 有多個已完成的 Phase 2/3 以上試驗直接研究硫酸鎂用於子癇前症與子癇，且此用途已是台灣許可證載明的適應症。
+- 現有試驗多在比較劑量與療程，而非療效有無；用藥需嚴密監測，因此建議在防護措施下推進。
 
 **若要推進需要：**
-- 補齊作用機轉（MOA）資料。
-- 建立血鎂濃度監測，以及腎功能、反射、呼吸頻率與尿量的監測流程。
-- 確認與麻醉與神經肌肉阻斷劑、鈣離子阻斷劑等併用時的處置指引。
-- 針對肥胖族群及產後療程長短，參考進行中的試驗結果。
-- 其他預測適應症（如偏頭痛／頭痛、術後喉嚨痛）屬研究性問題，應另案評估，不宜與本結論混為一談。
+- 補充作用機轉資料（DrugBank 目前缺漏）。
+- 建立監測計畫：反射、呼吸、尿量、血清鎂濃度。
+- 確認腎功能不全、肥胖孕婦的劑量調整方案。
+- 針對與 Nifedipine 等降血壓藥、神經肌肉阻斷劑併用，建立交互作用處置準則。
+- 確認仿單的完整警語與禁忌，並備妥葡萄糖酸鈣。
 
-<!-- review:begin magnesium-sulfate-cerebral-perfusion-moa-next-2026-10-16 -->
+---
 
-> **查核加註（2026-10-16）**：本頁已附有依仿單整理的作用機轉段（2026-10-03 查核新增）。原文保留。依據：[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d)。
+## 附註：其他預測適應症
 
-<!-- review:end magnesium-sulfate-cerebral-perfusion-moa-next-2026-10-16 -->
+下表為資料中的其他預測，證據強度皆低於妊娠毒血症。
+
+| 預測適應症 | TxGNN 分數 | 證據等級 | 說明 | 決策 |
+|-----------|-----------|---------|------|------|
+| 頭痛疾患 (Headache disorder) | 0.9936 | L2 | 有 Phase 3 偏頭痛試驗與急診頭痛試驗，機轉為 NMDA 與鈣通道阻斷 | Proceed with Guardrails |
+| 咽炎 (Pharyngitis) | 0.9961 | L5 | 證據為術後或插管相關喉嚨痛，非感染性咽炎，推論間接 | Research Question |
+| 血栓性疾病 (Thrombotic disease) | 0.9990 | L4 | 以動物研究為主，臨床僅有 TTP 的 Phase 3 試驗（狀態未知） | Research Question |
+| 三叉自主神經頭痛 (Trigeminal autonomic cephalalgia) | 0.9918 | L3 | 為小型開放試驗與病例系列，且併用 ketamine | Research Question |
+| 精神病性疾患 (Psychotic disorder) | 0.9950 | L5 | 僅有歷史性非對照報告，無法確立療效 | Hold |
+| 鼻腔疾病 (Nasal cavity disease) | 0.9959 | L5 | 僅有模型預測，無實際研究 | Hold |
+| 急性喉咽炎 (Acute laryngopharyngitis) | 0.9947 | L5 | 僅有模型預測，無實際研究 | Hold |
+| 難治型思覺失調症 (Treatment-refractory schizophrenia) | 0.9911 | L5 | 僅有模型預測，無實際研究 | Hold |
 
 <!-- review:begin log -->
 
@@ -222,10 +224,10 @@ TxGNN 模型預測它對 **子癇前症／子癇 (preeclampsia/eclampsia)** 有�
 | 2026-10-03 | 許可證表「衛署藥製字第013386號 濟生硫酸鎂注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛署藥製字第047652號 欣滿福注射液」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 核准適應症「靜脈營養輸注」「維他命與礦物質缺乏症」 | 報告重生後已無此錯誤（2026-10-16：重生時 LLM 列的核准適應症清單（含「靜脈營養輸注」「維他命與礦物質缺乏症」）已整段刪除，現由程式化許可證表呈現；不是被許可證表取代；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 機轉寫 NMDA 受體拮抗、阻斷鈣離子通道與促進腦血管擴張 | 加註（2026-10-16 修訂，前版保留於紀錄） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-03 | 機轉寫 NMDA 受體拮抗、阻斷鈣離子通道與促進腦血管擴張 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
-| 2026-10-16 | 稱缺乏作用機轉資料 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
-| 2026-10-16 | 下一步建議補齊作用機轉 | 加註 | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-16 | 稱缺乏作用機轉資料 | 加註（2026-10-28 修訂，前版保留於紀錄） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
+| 2026-10-16 | 下一步建議補齊作用機轉 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-16 | 證據等級 L1 與頁面自述不符 | 查核撤回（2026-10-16：改以正式重審處理（見「子癇前症／子癇證據等級重審結果」）；本筆「較接近 L2」的判斷只看頁面所列證據，重審查到 Magpie Trial 與 Cochrane 系統性回顧後不成立；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d) |
 | 2026-10-16 | 子癇前症／子癇 L1 標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 子癇前症／子癇證據等級重審結果 | 重審：維持，證據等級 L1 不變 | [PubMed：Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial（PMID 12057549）](https://pubmed.ncbi.nlm.nih.gov/12057549/)；[PubMed：Magnesium sulphate and other anticonvulsants for women with pre-eclampsia（Cochrane 2010）（PMID 21069663）](https://pubmed.ncbi.nlm.nih.gov/21069663/)；[PubMed：Magnesium sulphate versus diazepam for eclampsia（Cochrane 2010）（PMID 21154341）](https://pubmed.ncbi.nlm.nih.gov/21154341/)；[PubMed：Magnesium sulphate versus phenytoin for eclampsia（Cochrane 2010）（PMID 20927719）](https://pubmed.ncbi.nlm.nih.gov/20927719/)；[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |

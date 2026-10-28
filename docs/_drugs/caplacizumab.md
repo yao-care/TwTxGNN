@@ -4,7 +4,7 @@ title: Caplacizumab
 parent: 僅模型預測 (L5)
 nav_order: 53
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-16
 description: "Caplacizumab：預測新適應症為血小板釋放障礙 (Primary release disorder of platelets)（證據等級 L5）。原適應症：合併血漿置換術及免疫抑制劑，治療成人及 12 歲以上且體重 40 公斤以上青少年的後天性血栓性血小板低下紫斑症（aTTP）"
 monitor_inn: "Caplacizumab"
@@ -14,7 +14,7 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 # Caplacizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**血小板釋放障礙（primary release disorder
 |------|------|
 | 原適應症 | 合併血漿置換術及免疫抑制劑，治療成人及 12 歲以上且體重 40 公斤以上青少年的後天性血栓性血小板低下紫斑症（aTTP） |
 | 預測新適應症 | 血小板釋放障礙 (Primary release disorder of platelets) |
-| TxGNN 預測分數 | 99.9998% |
+| TxGNN 預測分數 | 1.0000 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

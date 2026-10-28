@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 |------|------|
 | 原適應症 | 胃癌：與 paclitaxel 併用，或單一藥物用於接受過 fluoropyrimidine 和 platinum 化學治療後仍惡化之晚期或轉移性胃腺癌（或胃食道接合處腺癌） |
 | 預測新適應症 | 子宮韌帶腺癌 (Uterine Ligament Adenocarcinoma) |
-| TxGNN 預測分數 | 99.95% |
+| TxGNN 預測分數 | 0.9995 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

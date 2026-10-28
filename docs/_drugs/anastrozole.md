@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Anastrozole
-parent: 高證據等級 (L1-L2)
+parent: 僅模型預測 (L5)
 nav_order: 29
-evidence_level: L1
-indication_count: 6
-last_modified_at: 2026-10-16
-description: "Anastrozole：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L1）。原適應症：治療停經後婦女晚期乳癌"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
+last_modified_at: 2026-10-27
+description: "Anastrozole：預測新適應症為神經母細胞瘤 (neuroblastoma)（證據等級 L5）。原適應症：治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實…"
 ---
 
 # Anastrozole
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **6** 個
+證據等級: **L5** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,78 +33,42 @@ predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endoc
 
 </div>
 
-## Anastrozole：從停經後乳癌到女性乳癌（ER+ 適應症確認）
+## Anastrozole：芳香環轉化酶抑制劑 → 神經母細胞瘤 (neuroblastoma)
 {: .text-alpha }
 
 ## 一句話總結
 
-Anastrozole 是一種非類固醇芳香環轉化酶抑制劑，原本用於治療停經後婦女的晚期與早期荷爾蒙接受器陽性乳癌。
-TxGNN 模型預測的首位適應症為**女性乳癌 (female breast carcinoma)**，與既有核准適應症高度重疊，屬於「已上市適應症的再確認」，而非全新的適應症。
-目前有 **30 個臨床試驗**和 **20 篇文獻**支持這個方向，其中包含多個已完成的 Phase 3 RCT。
-
----
+Anastrozole 是一種芳香環轉化酶抑制劑，透過降低雌激素合成發揮作用。
+TxGNN 模型預測它可能對**神經母細胞瘤 (neuroblastoma)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療停經後婦女晚期乳癌；輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌；輔助治療已使用 tamoxifen 2-3 年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌 |
-| 預測新適應症 | 女性乳癌 (Female Breast Carcinoma) |
-| TxGNN 預測分數 | 99.68% |
-| 證據等級 | L1 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對TAMOXIFEN有陽性反應。輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌。輔助治療已使用tamoxifen 2-3年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌。; 治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對Tamoxifen有陽性反應。輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌。輔助治療已使用Tamoxifen 2-3年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌。; 抗腫瘤原料藥。; 治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病人尚 |
+| 預測新適應症 | 神經母細胞瘤 (neuroblastoma) |
+| TxGNN 預測分數 | 0.9953 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 9 張／共 13 張） |
 | 許可證數 | 13 張（有效單方 9／有效複方 0／已註銷 4） |
-| 建議決策 | Proceed with Guardrails |
-
----
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。根據已知資訊，Anastrozole 是一種非類固醇芳香環轉化酶抑制劑，可降低停經後婦女周邊組織的雌激素合成，使荷爾蒙接受器陽性的乳癌細胞失去雌激素驅動的生長訊號。
+目前缺乏詳細的作用機轉資料。Anastrozole 屬於芳香環轉化酶抑制劑類別，已知可抑制雌激素合成，用於荷爾蒙依賴性疾病。
 
-這個預測的疾病（女性乳癌）與原適應症（停經後荷爾蒙接受器陽性乳癌）本質上屬於同一疾病範疇，因此預測合理性很高，也有多個 Phase 3 RCT 與大型文獻佐證。需要注意：這屬於已核准適應症的驗證，不是真正跨疾病領域的再利用。
+就現有資訊而言，芳香環轉化酶抑制與神經母細胞瘤的生物學之間，並沒有已確立的關聯。神經母細胞瘤是源自神經嵴的兒童腫瘤，其發病驅動因素與雌激素訊號並無明確連結。因此，這個高分預測目前只能視為計算結果，機轉上的合理性尚待驗證。
 
-排名 2–6 的預測（神經母細胞瘤、神經節母細胞瘤、腹膜後腫瘤、單核球性白血病，以及一種罕見的椎體異常合併內分泌與 T 細胞功能異常症候群）缺乏機轉依據，且幾乎沒有臨床證據，僅為模型計算結果，建議列為 Hold。
-
----
+此外，與神經母細胞瘤相近的神經嵴腫瘤（如節細胞神經母細胞瘤）也出現在預測清單中，推測模型可能是依據疾病間的相似性給出類似的預測，但這並不構成機轉證據。
 
 ## 臨床試驗證據
 
-以下列出與 Anastrozole 最相關的 10 個試驗（依相關性分級與研究設計挑選）：
-
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00784680](https://clinicaltrials.gov/study/NCT00784680) | Phase 3 | 完成 | 308 | 雙盲 RCT，比較 Arimidex、Nolvadex 及兩者合併輔助治療的生活品質 |
-| [NCT00327769](https://clinicaltrials.gov/study/NCT00327769) | Phase 3 | 完成 | 234 | Fulvestrant 與 Arimidex 作為二線治療，ER 陽性晚期乳癌的療效與安全性比較 |
-| [NCT00143390](https://clinicaltrials.gov/study/NCT00143390) | Phase 3 | 完成 | 298 | Exemestane 對比 anastrozole 作為晚期/復發乳癌初始荷爾蒙治療的非劣性試驗 |
-| [NCT00300508](https://clinicaltrials.gov/study/NCT00300508) | Phase 3 | 完成 | 856 | 完成 5 年輔助荷爾蒙治療後，再用 3 年 anastrozole 對比不治療 |
-| [NCT00301457](https://clinicaltrials.gov/study/NCT00301457) | Phase 3 | 完成 | 1914 | 使用 tamoxifen 2–3 年後，比較 6 年與 3 年 anastrozole 的無病存活 |
-| [NCT00784940](https://clinicaltrials.gov/study/NCT00784940) | Phase 3 | 完成 | 308 | 評估 Arimidex 與 Nolvadex 對骨密度與骨代謝的影響 |
-| [NCT00784862](https://clinicaltrials.gov/study/NCT00784862) | Phase 3 | 完成 | 9358 | 評估 Arimidex 與 tamoxifen 合併使用時的藥物動力學交互作用 |
-| [NCT02246621](https://clinicaltrials.gov/study/NCT02246621) | Phase 3 | 進行中 | 493 | 非類固醇芳香環轉化酶抑制劑（anastrozole 或 letrozole）加 abemaciclib 對比安慰劑，用於 HR+/HER2− 晚期乳癌 |
-| [NCT00256217](https://clinicaltrials.gov/study/NCT00256217) | Phase 2 | 完成 | 42 | Anastrozole 用於停經後 DCIS 與早期侵犯性乳癌的化學預防 |
-| [NCT00437853](https://clinicaltrials.gov/study/NCT00437853) | N/A | 完成 | 30 | Anastrozole 用於停經後 ER 陽性可手術乳癌的新輔助荷爾蒙治療 |
-
-另有多個 anastrozole 與 CDK4/6 抑制劑、AKT 抑制劑等的合併試驗，多數為小規模或已終止。
-
----
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [15639680](https://pubmed.ncbi.nlm.nih.gov/15639680/) | 2005 | RCT | Lancet | ATAC 試驗（9366 人）：anastrozole 相較 tamoxifen 顯著延長無病存活 |
-| [31839281](https://pubmed.ncbi.nlm.nih.gov/31839281/) | 2020 | RCT | Lancet | IBIS-II 長期追蹤：anastrozole 可預防高風險女性發生乳癌 |
-| [27908454](https://pubmed.ncbi.nlm.nih.gov/27908454/) | 2016 | RCT | Lancet | FALCON：fulvestrant 500 mg 與 anastrozole 1 mg 用於未接受過內分泌治療的 HR+ 晚期乳癌之比較 |
-| [41632158](https://pubmed.ncbi.nlm.nih.gov/41632158/) | 2025 | Cohort | JAMA Netw Open | 比較 anastrozole、letrozole、exemestane 在停經後乳癌的真實世界療效 |
-| [31615937](https://pubmed.ncbi.nlm.nih.gov/31615937/) | 2020 | Cohort | Clin Cancer Res | neoMONARCH：abemaciclib 加 anastrozole 之新輔助治療抑制細胞週期並提升免疫反應 |
-| [20923259](https://pubmed.ncbi.nlm.nih.gov/20923259/) | 2010 | Review | Expert Opin Drug Saf | 第三代芳香環轉化酶抑制劑，輔助治療療效優於 tamoxifen |
-| [16034487](https://pubmed.ncbi.nlm.nih.gov/16034487/) | 2005 | Review | Drugs Today | 回顧 anastrozole 作用機轉與主要臨床試驗 |
-| [28614542](https://pubmed.ncbi.nlm.nih.gov/28614542/) | 2017 | Review | Rev Assoc Med Bras | Anastrozole 用於乳癌化學預防與治療的文獻回顧 |
-| [16439860](https://pubmed.ncbi.nlm.nih.gov/16439860/) | 2006 | Review | Oncology | Anastrozole 涵蓋晚期、早期乳癌至預防的角色回顧 |
-| [17033446](https://pubmed.ncbi.nlm.nih.gov/17033446/) | 2006 | Case report | Eur J Gastroenterol Hepatol | 首例通報的 anastrozole 引起肝毒性（高齡女性） |
-
----
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -135,42 +99,35 @@ TxGNN 模型預測的首位適應症為**女性乳癌 (female breast carcinoma)*
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 細胞毒性
-
-Anastrozole 為荷爾蒙類抗腫瘤藥物，不屬於傳統細胞毒性化療藥。請參考原廠仿單的警語與注意事項。
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 荷爾蒙治療（非類固醇芳香環轉化酶抑制劑），非傳統細胞毒性藥物 |
-| 監測項目 | 骨密度（長期使用有骨質流失風險）、肝功能、血脂 |
-
----
+| 細胞毒性分類 | 荷爾蒙治療藥物（芳香環轉化酶抑制劑），非傳統細胞毒性藥物 |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 請參考原廠仿單的警語與注意事項 |
+| 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ## 安全性考量
 
-- **知識圖譜標示的禁忌疾病**：心肌缺血、冠狀動脈疾病（來自 TxGNN 知識圖譜的藥物－疾病關聯，並非仿單文字，臨床使用前須以仿單為準）。
-- **藥物交互作用**：資料庫共收錄 147 筆可能的交互作用，目前皆未標示嚴重程度分級，部分例子包括 bupropion、pantoprazole、omeprazole、metformin、simvastatin、prednisone、acetylsalicylic acid 等。
-- **其他安全訊號**：相關研究提到骨密度與肌肉密度變化（NCT00421447）、血管內皮功能影響（NCT00719966），以及個案通報的肝毒性（PMID 17033446）。
+- **藥物交互作用**：共查得 147 筆交互作用紀錄，目前等級皆未分類。列出的藥物包括 bupropion、pantoprazole、glimepiride、morphine、metformin、omeprazole、rosiglitazone、simvastatin、prednisone、acetylsalicylic acid 等。
 
-其餘警語與禁忌症請參考原廠仿單。
-
----
+其餘警語與禁忌症資訊請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- 首位預測（女性乳癌）已是台灣核准適應症，並有多個已完成的 Phase 3 RCT（含 ATAC、FALCON、IBIS-II）支持，證據等級為 L1。
-- 這個預測屬於既有適應症的確認，並非新的再利用機會；排名 2–6 的預測缺乏機轉與臨床證據，應維持 Hold。
+- 神經母細胞瘤的預測僅來自模型計算，沒有任何臨床試驗或文獻直接研究此疾病，證據等級為 L5。
+- 芳香環轉化酶抑制與此疾病之間沒有已知的機轉關聯。
 
 **若要推進需要：**
-- 補充 DrugBank 的作用機轉資料，完善機轉連結分析。
-- 若有意探索真正的新適應症，需針對排名 2–6 的候選（如神經母細胞瘤）先建立機轉假說與前臨床證據。
-- 制訂長期使用的安全性監測計畫，特別是骨密度、心血管風險（有冠狀動脈疾病者）與肝功能。
-- 補齊仿單的警語與禁忌症，並確認 147 筆藥物交互作用的臨床嚴重程度分級。
+- 補充 Anastrozole 的作用機轉資料，並探討其與神經母細胞瘤生物學的可能連結
+- 進行前臨床研究（如神經母細胞瘤細胞株或動物模型），驗證是否有抗腫瘤活性
+- 檢視相關神經嵴腫瘤的既有研究，確認預測是否只反映疾病相似性
+- 若前臨床結果正向，再評估兒童族群的安全性與劑量
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

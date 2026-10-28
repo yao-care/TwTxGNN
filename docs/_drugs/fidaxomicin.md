@@ -4,9 +4,9 @@ title: Fidaxomicin
 parent: 僅模型預測 (L5)
 nav_order: 110
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Fidaxomicin"
-predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis", "parasitic skin disease"]
+predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-10-16
 description: "Fidaxomicin：預測新適應症為葡萄球菌燙傷樣皮膚症候群 (Staphylococcal Scalded Skin Syndrome)（證據等級 L5）。原適應症：困難梭狀桿菌相關腹瀉 (C. difficile-associated diarrhoea, CDAD)"
 ---
@@ -14,7 +14,7 @@ description: "Fidaxomicin：預測新適應症為葡萄球菌燙傷樣皮膚症�
 # Fidaxomicin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**葡萄球菌燙傷樣皮膚症候群 (Staphyloco
 |------|------|
 | 原適應症 | 困難梭狀桿菌相關腹瀉 (C. difficile-associated diarrhoea, CDAD) |
 | 預測新適應症 | 葡萄球菌燙傷樣皮膚症候群 (Staphylococcal Scalded Skin Syndrome) |
-| TxGNN 預測分數 | 99.71% |
+| TxGNN 預測分數 | 0.9971 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 

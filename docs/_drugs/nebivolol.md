@@ -4,17 +4,17 @@ title: Nebivolol
 parent: 僅模型預測 (L5)
 nav_order: 190
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-16
-description: "Nebivolol：預測新適應症為惡性腎血管性高血壓 (Malignant Renovascular Hypertension)（證據等級 L5）。原適應症：治療原發性高血壓"
+indication_count: 4
 monitor_inn: "Nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Nebivolol：預測新適應症為惡性高血壓腎病 (malignant hypertensive renal disease)（證據等級 L5）。原適應症：治療原發性高血壓"
 ---
 
 # Nebivolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+證據等級: **L5** | 預測適應症: **4** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## Nebivolol：從原發性高血壓到惡性腎血管性高血壓
+## Nebivolol：β1 選擇性受體阻斷劑 → 惡性高血壓腎病 (malignant hypertensive renal disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Nebivolol 是一種 β1 選擇性阻斷劑，原本用於治療原發性高血壓。
-TxGNN 模型預測它可能對**惡性腎血管性高血壓 (Malignant Renovascular Hypertension)** 有效，
-但目前**沒有臨床試驗**，也**沒有直接相關的文獻**支持，證據僅來自模型預測。
+Nebivolol 是一種具一氧化氮（NO）釋放特性的 β1 選擇性受體阻斷劑。
+TxGNN 模型預測它可能對**惡性高血壓腎病 (malignant hypertensive renal disease)** 有效，
+但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 治療原發性高血壓 |
-| 預測新適應症 | 惡性腎血管性高血壓 (Malignant Renovascular Hypertension) |
-| TxGNN 預測分數 | 99.42% |
+| 原適應症 | 治療原發性高血壓。 |
+| 預測新適應症 | 惡性高血壓腎病 (malignant hypertensive renal disease) |
+| TxGNN 預測分數 | 0.9942 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 5 張） |
 | 許可證數 | 5 張（有效單方 5／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -74,11 +74,11 @@ TxGNN 模型預測它可能對**惡性腎血管性高血壓 (Malignant Renovascu
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Nebivolol 是 β1 選擇性阻斷劑，並可透過一氧化氮 (NO) 機制產生血管擴張，在原發性高血壓的降壓療效已獲核准。機轉上，這種降壓作用可能適用於嚴重的高血壓狀態。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Nebivolol 是 β1 選擇性受體阻斷劑，另具促進內皮型一氧化氮合成酶（eNOS）活化、釋放 NO 的血管擴張作用。
 
-不過，惡性腎血管性高血壓是由腎素驅動的高血壓急症，與原發性高血壓的病理機制不同。目前沒有任何臨床或文獻證據直接驗證 Nebivolol 在此情境的效果，支持僅來自 TxGNN 預測。
+惡性高血壓腎病是嚴重高血壓造成腎臟血管損傷的結果。理論上，Nebivolol 的降血壓作用與內皮 NO 相關效應，可能有助於減輕腎血管傷害。
 
-TxGNN 另外預測的其他適應症包括惡性高血壓性腎病變、肺高壓（肺部疾病或缺氧所致，以及機轉不明的多因素型）與 Braddock 症候群。其中多數同樣沒有直接研究；Braddock 症候群在機轉上更缺乏明確關聯。
+但這只是機轉上的推論。針對此疾病並沒有臨床試驗或文獻佐證，因此此預測目前僅屬模型層次的假說。
 
 ## 臨床試驗證據
 
@@ -86,22 +86,7 @@ TxGNN 另外預測的其他適應症包括惡性高血壓性腎病變、肺高�
 
 ## 文獻證據
 
-針對首要預測（惡性腎血管性高血壓），目前無相關文獻。
-
-作為參考，第 3 名預測「肺高壓」有一批間接文獻，但**均非直接研究肺高壓**：
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [23506636](https://pubmed.ncbi.nlm.nih.gov/23506636/) | 2013 | RCT | Int J Cardiol | CARNEBI 試驗：比較 carvedilol、nebivolol、bisoprolol 在中度心衰竭的多參數表現 |
-| [21045724](https://pubmed.ncbi.nlm.nih.gov/21045724/) | 2011 | RCT | J Hypertens | 比較選擇性與非選擇性 β 阻斷劑在高海拔缺氧下的 24 小時血壓影響 |
-| [21883997](https://pubmed.ncbi.nlm.nih.gov/21883997/) | 2012 | 隨機對照試驗 | Cardiovasc Ther | 比較 nebivolol 與 carvedilol 對健康受試者高海拔運動表現的影響 |
-| [19789971](https://pubmed.ncbi.nlm.nih.gov/19789971/) | 2009 | Review | Cardiovasc Drugs Ther | 回顧 β 阻斷劑對心衰竭患者肺功能的影響 |
-| [36947849](https://pubmed.ncbi.nlm.nih.gov/36947849/) | 2023 | 動物研究 | Can J Physiol Pharmacol | Nebivolol 透過 AKT1/Hif-1α/eNOS 路徑減輕大鼠 methotrexate 腎毒性 |
-| [32128711](https://pubmed.ncbi.nlm.nih.gov/32128711/) | 2020 | 動物研究 | Pharmacol Rep | Nebivolol 對大鼠急性腎損傷具保護作用，可能與 SGLT2 相關 |
-| [34693844](https://pubmed.ncbi.nlm.nih.gov/34693844/) | 2022 | 動物研究 | Drug Chem Toxicol | Nebivolol 經 AKT1/Hif1α/eNOS 減輕 methotrexate 肝毒性 |
-| [35202159](https://pubmed.ncbi.nlm.nih.gov/35202159/) | 2022 | 體外研究 | Toxins | Nebivolol 對馬兜鈴酸誘發的內皮細胞氧化壓力具保護作用 |
-| [23400988](https://pubmed.ncbi.nlm.nih.gov/23400988/) | 2013 | 動物研究 | Anesth Analg | 高選擇性 β1 阻斷在大鼠血液稀釋後造成腦灌流劑量依賴性受損（安全性警訊） |
-| [42264321](https://pubmed.ncbi.nlm.nih.gov/42264321/) | 2026 | 體外研究 | Life Sci | Nebivolol 對子癇前症體外模型的內皮反應之藥理作用 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -127,26 +112,23 @@ TxGNN 另外預測的其他適應症包括惡性高血壓性腎病變、肺高�
 
 ## 安全性考量
 
-- **禁忌症（知識圖譜資料，非仿單內容）**：知識圖譜列出的相關疾病包括肝衰竭、肝病、膽囊疾病、糖尿病、糖尿病酮酸中毒、周邊血管疾病、間歇性跛行、周邊動脈疾病、低血糖、房室傳導阻滯、支氣管疾病、病態竇症候群與家族性病態竇症候群。
-- **藥物交互作用**：共查得 174 筆交互作用。列出的項目多為中度，例如 epinephrine、hydrocortisone、hyoscyamine、bupropion、triamcinolone、morphine、atropine、dexamethasone、canagliflozin、chlorpropamide、dapagliflozin 等；aspirin 與氧化鎂為輕度。
-- **特別提醒**：支氣管疾病與缺氧情境下使用 β 阻斷劑須留意呼吸安全，這與肺高壓的預測方向直接相關。
+- **藥物交互作用**：已查得 174 筆交互作用紀錄，其中多數為中度。例如：Epinephrine、Hydrocortisone、Bupropion、Morphine、Dexamethasone、Canagliflozin、Dapagliflozin、Chlorpropamide 等為中度；Acetylsalicylic acid、Magnesium oxide 為輕度。與降血糖藥併用時需留意低血糖症狀可能被掩蓋。
 
-其餘警語與禁忌請參考原廠仿單。
+其餘警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 所有預測適應症都沒有臨床試驗，且沒有直接研究該疾病的文獻，證據等級為 L5（僅模型預測）。
-- 惡性腎血管性高血壓是腎素驅動的高血壓急症，與 Nebivolol 原適應症的病理機制不同；口服 β 阻斷劑是否適合急症處置仍缺乏依據。
+- 針對惡性高血壓腎病，目前沒有任何臨床試驗或文獻，證據等級為 L5，僅有模型預測分數。
+- 此疾病屬嚴重急症，現階段無依據支持以 Nebivolol 作為治療選項。
 
 **若要推進需要：**
-- 補充 Nebivolol 的作用機轉資料（MOA）。
-- 針對惡性腎血管性高血壓進行系統性文獻回顧，並檢索臨床試驗登記。
-- 評估口服劑型與高血壓急症情境的相容性（給藥途徑）。
-- 若考慮肺高壓方向，需先釐清 β 阻斷劑在肺部疾病、缺氧情境的呼吸安全性。
-- 進行更完整的安全性評估，涵蓋知識圖譜列出的相關疾病與主要藥物交互作用。
+- 補充詳細的作用機轉資料（MOA）
+- 進行針對惡性高血壓腎病的文獻回顧，並搜尋相關臨床試驗
+- 先以腎損傷動物模型或回溯性觀察研究驗證腎保護效果
+- 建立明確的安全性評估，包含腎功能不全與重度高血壓患者的用藥風險
 
 <!-- review:begin log -->
 

@@ -7,8 +7,8 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-16
-description: "Prednisone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L2）。原適應症：台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）"
+last_modified_at: 2026-10-27
+description: "Prednisone：預測新適應症為圓禿 (alopecia areata)（證據等級 L2）。原適應症：濕疹或皮膚炎"
 ---
 
 # Prednisone
@@ -33,52 +33,34 @@ description: "Prednisone：預測新適應症為圓形禿 (Alopecia Areata)（�
 
 </div>
 
-## Prednisone：從糖皮質素抗發炎用途到圓形禿 (Alopecia Areata)
+## Prednisone：糖皮質素受體促效劑（免疫抑制） → 圓禿 (alopecia areata)
 {: .text-alpha }
-
-<!-- review:begin prednisone-original-indication-other-drugs-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Prednisone：從風溼性關節炎到圓形禿 (Alopecia Areata)」。TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end prednisone-original-indication-other-drugs-title-2026-10-16 -->
 
 ## 一句話總結
 
-Prednisone 是口服糖皮質素（glucocorticoid）類藥物，台灣目前沒有有效的 prednisone 單方許可證，唯一有效許可證是與 crotamiton 的複方軟膏（濕疹或皮膚炎）。
-TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
-目前**無登記的臨床試驗**，但有 **20 篇文獻**支持這個方向，其中包含 1 篇隨機對照試驗（RCT）。
-
-<!-- review:begin prednisone-original-indication-other-drugs-summary-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症等發炎與免疫相關疾病。」。TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end prednisone-original-indication-other-drugs-summary-2026-10-16 -->
+Prednisone 是一種糖皮質素類藥物，在體內轉化為 prednisolone，具抗發炎與免疫抑制作用。
+TxGNN 模型預測它可能對**圓禿 (alopecia areata)** 有效，
+目前有 **0 個臨床試驗登記**，但有 **20 篇文獻**支持這個方向，其中包含 1 項針對圓禿的雙盲隨機試驗。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 台灣現無有效單方許可證（已註銷單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證為 prednisone＋crotamiton 複方軟膏：濕疹或皮膚炎（衛署藥製字第042080號） |
-| 預測新適應症 | 圓形禿 (Alopecia Areata) |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L2（註：文獻中有 1 篇 RCT，但為 methotrexate 單用對比 methotrexate 加低劑量 prednisone，並非 prednisone 單用的已完成 Phase 2/3 RCT，且無臨床試驗登記，實際證據偏弱，保守可視為 L3） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 濕疹或皮膚炎; 急慢性濕疹、皮膚炎、嬰兒苔癬、蕁麻疹、中毒疹、凍傷、乾癬; 濕疹、感染性皮膚炎、過敏性皮膚炎; 濕疹、過敏症; 用於治療成年人中度至重度類風濕關節炎伴隨晨間僵硬症狀者。 |
+| 預測新適應症 | 圓禿 (alopecia areata) |
+| TxGNN 預測分數 | 0.9999 |
+| 證據等級 | L2 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 0／有效複方 1／已註銷 6） |
 | 建議決策 | Proceed with Guardrails |
 
-<!-- review:begin prednisone-original-indication-other-drugs-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／風溼性關節炎」。TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。已改為台灣許可證現況。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end prednisone-original-indication-other-drugs-2026-10-03 -->
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（原始 MOA 欄位為空）。根據一般藥理知識，Prednisone 在體內轉換為 prednisolone，作為糖皮質素受體促效劑，具有抗發炎與免疫抑制作用。
+目前缺乏詳細的作用機轉資料。根據一般糖皮質素藥理，prednisone 轉化為 prednisolone 後，作為糖皮質素受體促效劑，可抑制 T 細胞介導的自體免疫攻擊。
 
-圓形禿是 T 細胞介導的自體免疫疾病，免疫細胞攻擊毛囊。Prednisone 在風溼性關節炎等自體免疫、發炎疾病中的療效已被證實，抑制 T 細胞攻擊的機轉上，可能同樣適用於圓形禿。
+圓禿被認為是免疫細胞攻擊毛囊所致的自體免疫疾病。糖皮質素的免疫抑制作用正好針對這個病理環節，因此在機轉上具合理性。早期研究（1970 年代）顯示 prednisone 初期有療效，但停藥後長期效果有限，且副作用明顯。
 
-不過，歷史文獻顯示療效多為短期：1976 年的追蹤報告指出，停藥後長期效益不顯著，且全身性類固醇有痤瘡、肥胖、水晶體混濁、輕度高血壓等副作用。近年的研究方向是低劑量 prednisone 與其他藥物（如 methotrexate、baricitinib）併用。
+近年的證據則轉向合併療法：一項 2023 年的雙盲隨機試驗比較單用 methotrexate 與 methotrexate 加低劑量 prednisone，用於全禿或普禿患者；另有 baricitinib 搭配低劑量 prednisone 治療極嚴重圓禿的病例系列。
 
 ## 臨床試驗證據
 
@@ -86,20 +68,18 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 文獻證據
 
-下表列出最相關的文獻（RCT 優先）：
-
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT | JAMA Dermatology | 針對全禿／普禿型圓形禿，比較 methotrexate 單用與 methotrexate 加低劑量 prednisone 的兩階段雙盲試驗 |
-| [1444500](https://pubmed.ncbi.nlm.nih.gov/1444500/) | 1992 | 隨機對照試驗（原資料未標示類型） | Arch Dermatol | 32 名患者接受 6 週 prednisone 漸減，之後合併 2% minoxidil 或安慰劑，另與 48 人開放試驗比較 |
-| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Review | Arch Dermatol | 回顧圓形禿的治療、療效、安全性與機轉；因研究設計差異大，難以比較各藥物 |
-| [38650498](https://pubmed.ncbi.nlm.nih.gov/38650498/) | 2024 | Cohort | Ital J Dermatol Venereol | 義大利圓形禿住院患者的共病、治療模式與經濟負擔 |
-| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Case series | Clin Exp Dermatol | 8 例極嚴重圓形禿，baricitinib 併用低劑量類固醇有明顯改善 |
-| [41958306](https://pubmed.ncbi.nlm.nih.gov/41958306/) | 2026 | Case series | JEADV | Baricitinib 加低劑量 prednisone 治療極嚴重圓形禿的回溯性病例系列 |
-| [20804894](https://pubmed.ncbi.nlm.nih.gov/20804894/) | 2010 | Case series | Ann Dermatol Venereol | 每月一次口服 prednisone 脈衝療法的療效與安全性評估 |
-| [791152](https://pubmed.ncbi.nlm.nih.gov/791152/) | 1976 | Case series | Arch Dermatol | 18 名隔日服用 prednisone 者，停藥後平均 15 個月追蹤，長期效益不顯著且副作用多 |
-| [8996277](https://pubmed.ncbi.nlm.nih.gov/8996277/) | 1997 | 未分類 | J Am Acad Dermatol | 全身性 cyclosporine 加低劑量 prednisone 治療慢性嚴重圓形禿 |
-| [24326561](https://pubmed.ncbi.nlm.nih.gov/24326561/) | 2013 | 病例報告 | J Investig Dermatol Symp Proc | 嚴重圓形禿合併多重自體免疫疾病患者，使用 cyclosporine 加 prednisone 後有臨床反應 |
+| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT | JAMA Dermatology | 雙盲兩階段試驗，比較單用 methotrexate 與 methotrexate 加低劑量 prednisone，用於全禿或普禿患者 |
+| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Review | Archives of Dermatology | 圓禿治療回顧：部分藥物有一定療效，但各研究設計差異大，難以比較 |
+| [38650498](https://pubmed.ncbi.nlm.nih.gov/38650498/) | 2024 | Cohort | Italian Journal of Dermatology and Venereology | 義大利圓禿住院病人的共病、治療模式與經濟負擔之真實世界分析 |
+| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Case series | Clinical and Experimental Dermatology | 8 例極嚴重圓禿病人使用 baricitinib 合併低劑量皮質類固醇，明顯改善 |
+| [41958306](https://pubmed.ncbi.nlm.nih.gov/41958306/) | 2026 | Case series | JEADV | 回溯性病例系列：baricitinib 合併低劑量 prednisone 用於極嚴重圓禿 |
+| [20804894](https://pubmed.ncbi.nlm.nih.gov/20804894/) | 2010 | Case series | Annales de Dermatologie et de Vénéréologie | 每月一次口服 prednisone 脈衝療法治療圓禿的療效與安全性評估 |
+| [791152](https://pubmed.ncbi.nlm.nih.gov/791152/) | 1976 | Case series | Archives of Dermatology | 18 例隔日 prednisone 治療，初期有反應，但停藥後長期效益不大，且副作用多 |
+| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Case series | Archives of Dermatology | 圓禿的免疫學研究與 prednisone 治療 |
+| [1444500](https://pubmed.ncbi.nlm.nih.gov/1444500/) | 1992 | 臨床試驗 | Archives of Dermatology | 32 例隨機對照試驗：6 週 prednisone 減量後，接續 2% minoxidil 或安慰劑外用 |
+| [8996277](https://pubmed.ncbi.nlm.nih.gov/8996277/) | 1997 | 臨床研究 | J Am Acad Dermatol | 全身性 cyclosporine 合併低劑量 prednisone 治療慢性嚴重圓禿 |
 
 ## 台灣上市資訊
 
@@ -124,33 +104,24 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共記錄 806 筆交互作用，部分重要項目如下：
-  - 重大（Major）：Adalimumab
-  - 中度（Moderate）：Zidovudine、Isotretinoin、Acarbose、Ketorolac、Ibuprofen、Nifedipine、Ethinylestradiol、Aldesleukin、Alemtuzumab 等
-  - 輕微（Minor）：Formoterol、Salbutamol
-- **知識圖譜顯示的疾病禁忌**（來自模型知識圖譜，非仿單內容）：高血壓、癲癇、高血糖、充血性心衰竭、麻疹、單純疱疹病毒角膜炎、尿素循環代謝異常（如瓜胺酸血症、高精胺酸血症）、腦下垂體功能不全與生長激素缺乏相關疾病等。
-- 文獻也提到全身性類固醇的實際副作用，包括痤瘡、肥胖、水晶體混濁與輕度高血壓。
+- **藥物交互作用**：共查得 806 筆交互作用紀錄，其中重大等級例如 adalimumab；中度等級例如 zidovudine、isotretinoin、acarbose、acetazolamide、ibuprofen、ketorolac、nifedipine、ethinylestradiol、aldesleukin、alemtuzumab 等。
+- **使用於圓禿時的文獻提示**：早期研究提到全身性類固醇的副作用包括痤瘡、肥胖、水晶體混濁與輕度高血壓。
+- **需留意的共病**：高血壓、癲癇、高血糖、充血性心臟衰竭、單純皰疹病毒角膜炎等情況，在已知資料中被列為需謹慎的對象。
 
-詳細警語與禁忌症請參考原廠仿單。
+其他警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Proceed with Guardrails**
 
 **理由：**
-- 糖皮質素的免疫抑制機轉與圓形禿的自體免疫病理吻合，且有 1 篇 2023 年 RCT 與多篇病例系列支持低劑量 prednisone 作為合併治療的一環。
-- 但缺乏臨床試驗登記，早期研究顯示單用療效短暫、停藥後易復發，且長期全身性使用副作用明顯，因此需設限條件推進。
+有 1 項針對全禿或普禿的雙盲隨機試驗（以 prednisone 作為合併療法的一部分），並有多篇病例系列支持，且圓禿的自體免疫機轉與糖皮質素作用相符。但此試驗並非 prednisone 單獨使用的對照，且早期研究顯示停藥後易復發、全身性類固醇副作用不容忽視，因此需設定使用邊界。目前無已登記的臨床試驗。
 
 **若要推進需要：**
-- 補充 prednisone 作用機轉資料（MOA）。
-- 設計以 prednisone 為主體的前瞻性對照試驗，並明確定義劑量、療程與合併藥物（如 methotrexate、JAK 抑制劑）。
-- 建立長期安全性監測計畫（血壓、血糖、眼睛、骨密度、感染風險），並考量排除有高血壓、高血糖、心衰竭等禁忌共病的族群。
-- 與已核准的圓形禿治療（如 JAK 抑制劑）進行定位比較。
-
-**其他預測適應症的簡要說明：**
-- 腱鞘炎（tenosynovitis，L3）：有觀察性文獻，屬研究性問題，建議列為後續探索。
-- 黏蛋白性禿髮（alopecia mucinosis，L4）：僅有病例報告，列為研究性問題。
-- 其餘預測（休止期落髮、禿髮性毛囊炎、遺傳性毛髮疾病等）僅有模型預測，機轉合理性不足，建議暫緩（Hold）。
+- 取得 prednisone 單獨用於圓禿的對照性試驗資料，或明確界定合併療法中 prednisone 的角色
+- 確認低劑量、短療程方案與停藥後的復發管理策略
+- 建立血糖、血壓、感染與骨密度等長期使用的安全性監測計畫
+- 補充詳細的作用機轉資料，並核對原廠仿單的警語與禁忌
 
 <!-- review:begin log -->
 
@@ -161,9 +132,9 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「保癌寧等」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-03 | 原適應症寫風溼性關節炎（台灣無有效單方） | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以風溼性關節炎為台灣原適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 一句話總結稱台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 原適應症寫風溼性關節炎（台灣無有效單方） | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 標題以風溼性關節炎為台灣原適應症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-16 | 一句話總結稱台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

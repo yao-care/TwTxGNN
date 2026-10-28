@@ -4,9 +4,9 @@ title: Iohexol
 parent: 僅模型預測 (L5)
 nav_order: 150
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 monitor_inn: "Iohexol"
-predicted_indications: ["insomnia (disease)", "anxiety", "rheumatoid arthritis", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "sleep disorder, initiating and maintaining sleep", "heparin cofactor 2 deficiency", "fibromyalgia", "conjunctivitis", "tendinitis"]
+predicted_indications: ["insomnia (disease)", "anxiety"]
 last_modified_at: 2026-10-16
 description: "Iohexol：預測新適應症為失眠 (Insomnia)（證據等級 L5）。原適應症：脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影"
 ---
@@ -14,7 +14,7 @@ description: "Iohexol：預測新適應症為失眠 (Insomnia)（證據等級 L5
 # Iohexol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **2** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 |------|------|
 | 原適應症 | 脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影 |
 | 預測新適應症 | 失眠 (Insomnia) |
-| TxGNN 預測分數 | 99.87% |
+| TxGNN 預測分數 | 0.9987 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 18 張） |
 | 許可證數 | 18 張（有效單方 2／有效複方 2／已註銷 14） |
 | 建議決策 | Hold |
 
@@ -57,9 +57,9 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 
 目前缺乏詳細的作用機轉資料。Iohexol 是惰性的非離子型碘造影劑，作用在於影像對比，並無已知的鎮靜或調節睡眠的藥理活性。
 
-失眠屬於中樞神經與睡眠調節問題，與造影劑的診斷用途沒有明顯關聯。TxGNN 的高分更可能來自知識圖譜中的間接關聯，而非真實的藥理連結。
+失眠屬於中樞神經與睡眠調節問題，與造影劑的診斷用途沒有明顯關聯。分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
-其他排名較前的預測（焦慮、類風濕性關節炎、抗凝血酶缺乏、纖維肌痛、結膜炎、肌腱炎等）同樣缺乏機轉或臨床支持。文獻中 Iohexol 僅作為造影工具、腎絲球過濾率測量工具或過敏反應誘因出現，並非治療用途。因此，**本預測不建議視為合理的再利用方向**。
+其他排名較前的預測（焦慮）同樣缺乏機轉或臨床支持。文獻中 Iohexol 僅作為造影工具、腎絲球過濾率測量工具或過敏反應誘因出現，並非治療用途。因此，**本預測不建議視為合理的再利用方向**。
 
 ## 臨床試驗證據
 

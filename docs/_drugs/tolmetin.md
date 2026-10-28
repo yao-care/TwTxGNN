@@ -4,17 +4,17 @@ title: Tolmetin
 parent: 僅模型預測 (L5)
 nav_order: 284
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-16
 description: "Tolmetin：預測新適應症為肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia…（證據等級 L5）。原適應症：類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風"
 monitor_inn: "Tolmetin"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "spondyloarthropathy, susceptibility to", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
 ---
 
 # Tolmetin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## Tolmetin：從類風濕性關節炎到肢端中段發育不良（Hunter-Thompson 型）
+## Tolmetin：從類風濕性關節炎到肢端中段發育不良 Hunter-Thompson 型
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**肢端中段發育不良（Hunter-Thompson 型�
 |------|------|
 | 原適應症 | 類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風 |
 | 預測新適應症 | 肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 預測分數 | 99.98% |
+| TxGNN 預測分數 | 0.9998 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 3 張／共 14 張） |
 | 許可證數 | 14 張（有效單方 3／有效複方 0／已註銷 11） |
 | 建議決策 | Hold |
 
@@ -58,7 +58,7 @@ TxGNN 模型預測它可能對**肢端中段發育不良（Hunter-Thompson 型�
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Tolmetin 是非選擇性 COX 抑制劑，具有消炎與止痛作用，在類風濕性關節炎等發炎性關節疾病中的症狀緩解效果已有核准適應症。
 
-然而，Hunter-Thompson 型肢端中段發育不良是一種與 CDMP1/GDF5 相關的罕見遺傳性骨骼發育異常。Tolmetin 的 COX 抑制作用與此疾病的致病機轉之間，**沒有已知的機轉連結**。此預測完全來自 TxGNN 圖譜分數，高分並不等於有生物學或臨床上的合理性。
+然而，Hunter-Thompson 型肢端中段發育不良是一種與 CDMP1/GDF5 相關的罕見遺傳性骨骼發育異常。Tolmetin 的 COX 抑制作用與此疾病的致病機轉之間，**沒有已知的機轉連結**。此預測分數來自 TxGNN 模型（深度學習），可能反映模型在相關疾病之間學到的相似性，而非生物學證據，高分並不等於有生物學或臨床上的合理性。
 
 此外，同一份預測清單的前幾名多為罕見遺傳性骨骼或發育疾病（如 brachyolmia、pseudoachondroplasia 等），多數缺乏機轉依據。相對而言，排名較後但與原適應症較相關的項目，例如類風濕性結節病、類風濕因子陽性多關節型幼年特發性關節炎、脊椎關節病變，在機轉上較為合理，但同樣沒有任何試驗或文獻證據。
 

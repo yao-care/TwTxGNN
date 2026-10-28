@@ -4,17 +4,17 @@ title: Theophylline
 parent: 僅模型預測 (L5)
 nav_order: 273
 evidence_level: L5
-indication_count: 7
-last_modified_at: 2026-10-16
-description: "Theophylline：預測新適應症為血栓性疾病 (Thrombotic disease)（證據等級 L5）。原適應症：平滑肌鬆弛藥"
+indication_count: 6
 monitor_inn: "Theophylline"
-predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "acute laryngopharyngitis"]
+predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
+last_modified_at: 2026-10-23
+description: "Theophylline：預測新適應症為血栓性疾病 (Thrombotic Disease)（證據等級 L5）。原適應症：氣喘及支氣管痙攣"
 ---
 
 # Theophylline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **7** 個
+證據等級: **L5** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,68 +33,62 @@ predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotr
 
 </div>
 
-## Theophylline：從氣喘及支氣管痙攣到血栓性疾病
+## Theophylline：從氣喘與支氣管痙攣到血栓性疾病
 {: .text-alpha }
 
 ## 一句話總結
 
-Theophylline（茶鹼）是一種黃嘌呤類支氣管擴張劑，原本用於氣喘及支氣管痙攣。
-TxGNN 模型預測分數最高的新適應症是**血栓性疾病 (Thrombotic disease)**，但目前**沒有臨床試驗**，文獻也多屬間接或無關的研究，證據僅停留在模型預測層級。
-相較之下，**阻塞性肺疾病 (Obstructive lung disease，如 COPD)** 的證據明顯較充分，有多項已完成的 Phase 3 試驗，值得優先關注。
+Theophylline（茶鹼）是一種黃嘌呤類支氣管擴張劑，在台灣原本用於氣喘及支氣管痙攣。
+TxGNN 模型預測它可能對**血栓性疾病 (Thrombotic Disease)** 有效，但目前**沒有任何臨床試驗**，所檢索到的文獻也沒有直接研究此用途，證據僅止於模型預測。
+
+---
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 平滑肌鬆弛藥（單方有效許可證中最先出現的核准適應症文字） |
-| 預測新適應症 | 血栓性疾病 (Thrombotic disease) |
-| TxGNN 預測分數 | 99.62% |
-| 證據等級 | L5（僅有模型預測） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 氣喘及支氣管痙攣 |
+| 預測新適應症 | 血栓性疾病 (Thrombotic Disease) |
+| TxGNN 預測分數 | 0.9962 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 28 張／共 159 張） |
 | 許可證數 | 159 張（有效單方 18／有效複方 10／已過期 4／已註銷 127） |
 | 建議決策 | Hold |
 
+---
+
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Theophylline 是非選擇性磷酸二酯酶（PDE）抑制劑，同時也是腺苷受體拮抗劑，在氣喘與支氣管痙攣中的療效已被長期證實。
+目前缺乏詳細的作用機轉資料。根據已知的藥理背景，Theophylline 是非選擇性磷酸二酯酶（PDE）抑制劑，可提高細胞內 cAMP。血小板內 cAMP 上升理論上能抑制血小板聚集，這是此預測在機轉上的可能連結。
 
-理論上，PDE 抑制可提高血小板內 cAMP，進而減弱血小板聚集，這是預測血栓性疾病的可能機轉依據。但腺苷本身透過提高 cAMP 產生抗血小板效果，Theophylline 的腺苷受體拮抗作用可能抵銷這個效果。目前沒有臨床證據支持其抗血栓角色。
+不過，Theophylline 同時是腺苷受體拮抗劑。腺苷本身會透過提高血小板 cAMP 來抑制聚集，因此拮抗腺苷可能抵銷上述效果。兩種作用的淨效應不明，目前沒有臨床資料支持。
 
-值得注意的是，該模型的其他預測中，**阻塞性肺疾病**與原適應症（氣道疾病）的關聯最直接。低劑量 Theophylline 可活化 HDAC2，恢復皮質類固醇敏感性，此機轉在 COPD 與氣喘中有研究支持。**鼻腔疾病（過敏性鼻炎）**與**氣管疾病**也有一定的機轉合理性。
+原適應症（呼吸道平滑肌鬆弛）與血栓性疾病在疾病領域上差異大，預測分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
+
+---
 
 ## 臨床試驗證據
 
-血栓性疾病目前無相關臨床試驗登記。
+目前無相關臨床試驗登記。
 
-作為對照，以下為排名第 5 的**阻塞性肺疾病**預測中，與 Theophylline 較直接相關的臨床試驗（僅列部分）：
-
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT01599871](https://clinicaltrials.gov/study/NCT01599871) | Phase 3 | 完成 | 70 | 52 週雙盲安慰劑對照，評估低劑量 Theophylline 加於 LABA+ICS 治療重度 COPD 的急性惡化率 |
-| [NCT03984188](https://clinicaltrials.gov/study/NCT03984188) | Phase 3 | 完成 | 100 | 低劑量 Theophylline 用於生質燃料相關 COPD |
-| [NCT02340520](https://clinicaltrials.gov/study/NCT02340520) | Phase 3 | 完成 | 13 | 評估 Theophylline 與 roflumilast 對 HDAC 及皮質類固醇療效的增強作用 |
-| [NCT02261727](https://clinicaltrials.gov/study/NCT02261727) | Phase 4 | 完成 | 1670 | 低劑量 Theophylline 單用或合併低劑量 prednisone 對 COPD 急性惡化風險的影響 |
-| [NCT00299858](https://clinicaltrials.gov/study/NCT00299858) | Phase 2/3 | 完成 | 24 | Theophylline 對已使用長效支氣管擴張劑之 COPD 患者運動耐力與肺功能的影響 |
-| [NCT00671151](https://clinicaltrials.gov/study/NCT00671151) | N/A | 完成 | 35 | 低劑量 Theophylline 對 COPD 惡化分子機轉（NF-κB、HDAC）的調節 |
-| [NCT01132781](https://clinicaltrials.gov/study/NCT01132781) | Phase 2 | 完成 | 28 | Theophylline 用於過敏性鼻炎 |
+---
 
 ## 文獻證據
 
-血栓性疾病的檢索文獻多為血小板生物標記、檢體處理或其他藥物（如 ticlopidine）的研究，並未提供 Theophylline 抗血栓療效的直接證據，因此僅列出較相關者：
+下列文獻由檢索取得，內容多為血小板生物學、檢體處理方法或其他疾病的研究，**沒有任何一篇直接研究 Theophylline 治療血栓性疾病**。
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [8981060](https://pubmed.ncbi.nlm.nih.gov/8981060/) | 1996 | 體外研究 | General Pharmacology | 探討 milrinone 與腺苷對血小板反應的抑制，屬 cAMP 路徑的間接參考 |
-| [749930](https://pubmed.ncbi.nlm.nih.gov/749930/) | 1978 | 體外研究 | Br J Haematol | Theophylline 僅作為血漿 PF4 檢測的抗凝劑成分，並非治療研究 |
+| [8055680](https://pubmed.ncbi.nlm.nih.gov/8055680/) | 1994 | Review | Clinical Pharmacokinetics | 回顧 ticlopidine 的藥物動力學，與 Theophylline 無直接關係 |
+| [6771102](https://pubmed.ncbi.nlm.nih.gov/6771102/) | 1980 | Review | CRC Critical Reviews in Biochemistry | 前列腺素、血小板與動脈粥狀硬化；說明 cAMP 與血小板抑制的背景機轉 |
+| [21719422](https://pubmed.ncbi.nlm.nih.gov/21719422/) | 2011 | 病例對照 | Rheumatology | 貝賽特氏症患者的血小板與嗜中性球活化 |
+| [15475744](https://pubmed.ncbi.nlm.nih.gov/15475744/) | 2004 | 病例對照 | Inflammatory Bowel Diseases | 發炎性腸病患者的血小板—白血球聚集 |
+| [8981060](https://pubmed.ncbi.nlm.nih.gov/8981060/) | 1996 | 體外研究 | General Pharmacology | Milrinone 與腺苷經 cAMP 抑制人類血小板反應 |
+| [749930](https://pubmed.ncbi.nlm.nih.gov/749930/) | 1978 | 體外研究 | British Journal of Haematology | 血小板因子 4 放射免疫分析；Theophylline 僅作為採血抗凝配方成分 |
+| [32824700](https://pubmed.ncbi.nlm.nih.gov/32824700/) | 2020 | 體外研究 | Cells | 抗凝與檢體處理對血液 microRNA 定量的影響 |
+| [29220362](https://pubmed.ncbi.nlm.nih.gov/29220362/) | 2017 | 方法學研究 | PLoS One | 血漿製備對血小板儲存分子監測的重要性 |
 
-作為對照，阻塞性肺疾病方面的代表性文獻：
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [3534060](https://pubmed.ncbi.nlm.nih.gov/3534060/) | 1986 | RCT | J Allergy Clin Immunol | Theophylline 可改善 COPD 患者整體心臟功能並減輕呼吸困難 |
-| [23672674](https://pubmed.ncbi.nlm.nih.gov/23672674/) | 2013 | Review | Am J Respir Crit Care Med | 低濃度 Theophylline 在氣喘與 COPD 具抗發炎作用 |
-| [16267358](https://pubmed.ncbi.nlm.nih.gov/16267358/) | 2005 | 綜述 | Proc Am Thorac Soc | 低濃度 Theophylline 活化 HDAC，可能逆轉類固醇抗性 |
-| [37524492](https://pubmed.ncbi.nlm.nih.gov/37524492/) | 2023 | Review | Adv Pharmacol | PDE 抑制劑在肺部疾病的角色回顧 |
+---
 
 ## 台灣上市資訊
 
@@ -152,29 +146,29 @@ TxGNN 模型預測分數最高的新適應症是**血栓性疾病 (Thrombotic di
 
 <!-- TFDA_LICENSE_TABLE -->
 
+---
+
 ## 安全性考量
 
-- **禁忌症（知識圖譜推論，非仿單內容）**：知識圖譜列出的相關疾病包括高血壓、肝衰竭、癲癇、焦慮症、紫質症、腎臟疾病、肝病、膽囊疾病、血小板低下、甲狀腺功能低下、消化性潰瘍、開角型青光眼、精神病性疾患、糖尿病（含酮酸中毒）、良性攝護腺肥大、嗜中性白血球低下及顆粒球缺乏症等，使用前須審慎評估。
-- **藥物交互作用**：共記錄 371 筆交互作用。主要包括：
-  - 重度：Bupropion
-  - 中度：Famotidine、Ranitidine、Cimetidine、Omeprazole、Rabeprazole、Clarithromycin、Doxycycline、Tetracycline、Minocycline、多種皮質類固醇（Hydrocortisone、Dexamethasone、Betamethasone、Triamcinolone、Budesonide）、活性碳等
-  - 輕度：Ephedrine
+- **藥物交互作用**：共 371 筆交互作用紀錄。其中 **Bupropion** 為嚴重（Major）等級；多數為中度，例如 famotidine、ranitidine、cimetidine、omeprazole、rabeprazole、clarithromycin、doxycycline、tetracycline、minocycline，以及多種皮質類固醇（hydrocortisone、dexamethasone、betamethasone、triamcinolone、budesonide）。Ephedrine 為輕微等級。
+- **知識圖譜記錄的禁忌關聯**（非仿單內容）：高血壓、肝衰竭、肝病、癲癇、焦慮症、卟啉症、腎臟病、甲狀腺功能低下、消化性潰瘍、開角型青光眼、精神病性疾患、糖尿病及酮酸中毒、良性攝護腺肥大、血小板低下、嗜中性球低下及顆粒球缺乏症等。
+- 此藥治療濃度範圍狹窄，濃度過高會有毒性，用藥需密切監測。詳細警語與禁忌請參考原廠仿單。
 
-此外，Theophylline 治療濃度範圍狹窄，且主要經 CYP1A2 代謝，使用時需監測血中濃度。其餘警語請參考原廠仿單。
+---
 
 ## 結論與下一步
 
-**決策：Hold**（針對首要預測「血栓性疾病」）
+**決策：Hold**
 
 **理由：**
-- 血栓性疾病僅有模型預測，無臨床試驗，文獻亦無直接證據；且腺苷受體拮抗作用可能抵銷理論上的抗血小板效果。
-- 相對地，阻塞性肺疾病（COPD）有多項已完成的 Phase 3 試驗與機轉支持，若要推進，建議改以此方向評估，並採 Proceed with Guardrails。
+- 目前只有模型預測，沒有臨床試驗，所檢索文獻也未直接研究此用途，證據等級為 L5。
+- 機轉上 PDE 抑制（可能抗血小板）與腺苷拮抗（可能對抗此效果）方向相反，淨效應未知，且 Theophylline 治療窗窄，貿然用於血栓性疾病需謹慎。
 
 **若要推進需要：**
-- 血栓性疾病：先進行前臨床研究（如血小板聚集試驗），釐清 PDE 抑制與腺苷拮抗的淨效應。
-- 取得完整作用機轉資料（MOA）。
-- COPD 方向：整理已完成 Phase 3 試驗的結果，確認低劑量療效，並建立血中濃度監測與藥物交互作用管理計畫。
-- 確認台灣有效許可證的核准適應症是否涵蓋擬申請的新適應症。
+- 補充詳細的作用機轉資料，並以體外血小板聚集實驗釐清 PDE 抑制與腺苷拮抗的淨效應。
+- 搜尋或建立直接評估 Theophylline 對血栓事件、血小板功能的臨床或前臨床研究。
+- 與現有抗血栓藥物（如 ticlopidine 等抗血小板藥）比較其潛在價值與安全性。
+- 評估與抗凝／抗血小板藥物併用時的交互作用及血中濃度監測計畫。
 
 <!-- review:begin log -->
 

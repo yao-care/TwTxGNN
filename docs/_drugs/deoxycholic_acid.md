@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Deoxycholic Acid
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 82
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 monitor_inn: "Deoxycholic acid"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
-last_modified_at: 2026-10-16
-description: "Deoxycholic Acid：預測新適應症為糖尿病腎病變 (Diabetic Nephropathy)（證據等級 L4）。原適應症：頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀）"
+last_modified_at: 2026-10-27
+description: "Deoxycholic Acid：預測新適應症為體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome)（證據等級 L5）。原適應症：適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀"
 ---
 
 # Deoxycholic Acid
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **3** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,60 +33,34 @@ description: "Deoxycholic Acid：預測新適應症為糖尿病腎病變 (Diabet
 
 </div>
 
-## Deoxycholic acid：從頦下脂肪堆積到糖尿病腎病變
+## Deoxycholic acid：膽酸類利膽藥 → 體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome)
 {: .text-alpha }
-
-<!-- review:begin deoxycholic-acid-summary-indication-title-2026-10-16 -->
-
-> **查核更正（2026-10-16）**：原寫「# Deoxycholic acid：從膽固醇性膽結石到糖尿病腎病變」。Deoxycholic acid 在台灣與美國的核准用途是注射改善成人頦下脂肪堆積（台灣原料藥衛部藥輸字第028648號另登載「乳化劑」）；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
-
-<!-- review:end deoxycholic-acid-summary-indication-title-2026-10-16 -->
 
 ## 一句話總結
 
-Deoxycholic acid（去氧膽酸）是一種次級膽酸，在台灣核准用於注射改善成人頦下脂肪堆積；溶解膽固醇系膽結石、改善原發性膽道肝硬化是去氧熊膽酸（ursodeoxycholic acid）的適應症。
-TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩者完全沒有臨床試驗或文獻支持。
-因此本報告以有間接文獻線索的 **糖尿病腎病變 (Diabetic Nephropathy)**（排名第 3）為主要討論對象，目前有 **0 個臨床試驗**和 **4 篇間接文獻**（皆為動物研究或膽酸代謝研究）。
-
-<!-- review:begin deoxycholic-acid-summary-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「Deoxycholic acid（去氧膽酸／去氧熊膽酸）是一種次級膽酸，在台灣原本用於溶解膽固醇系膽結石，並改善原發性膽道肝硬化的肝功能。」。2026-10-15 報告重生後仍把去氧膽酸與去氧熊膽酸（UDCA）混為一談。Deoxycholic acid 在台灣的核准用途是注射改善成人頦下脂肪堆積（原料藥衛部藥輸字第028648號另登載「乳化劑」），不用於膽結石溶解，也不核准用於頦下以外的皮下脂肪；膽結石溶解是 ursodeoxycholic acid（去氧熊膽酸）的用途。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
-
-<!-- review:end deoxycholic-acid-summary-indication-2026-10-03 -->
+Deoxycholic acid（去氧膽酸）是一種次級膽酸，具有乳化與溶解細胞的特性。
+TxGNN 模型預測它可能對**體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome)** 有效，
+但目前**沒有任何臨床試驗或文獻**支持這個方向，僅為模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 頦下脂肪消除（改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀） |
-| 預測新適應症 | 糖尿病腎病變 (Diabetic Nephropathy)（排名第 3；排名第 1、2 的預測無任何證據，見下文說明） |
-| TxGNN 預測分數 | 99.33%（排名第 1 的預測為 99.49%） |
-| 證據等級 | L4（排名第 1、2 的預測為 L5） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。; 乳化劑；頦下脂肪消除劑(注射); 緩瀉劑; 肝炎、肝硬變 |
+| 預測新適應症 | 體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome) |
+| TxGNN 預測分數 | 0.9949 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 6 張） |
 | 許可證數 | 6 張（有效單方 4／有效複方 0／已註銷 2） |
 | 建議決策 | Hold |
 
-<!-- review:begin deoxycholic-acid-original-indication-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「原適應症／膽固醇系膽結石之溶解、原發性膽道肝硬化 (PBC) 之肝功能改善」。膽固醇性膽結石溶解與原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症；deoxycholic acid 在台灣許可證與美國仿單的核准用途是改善成人頦下脂肪堆積（台灣原料藥衛部藥輸字第028648號另登載「乳化劑」）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
-
-<!-- review:end deoxycholic-acid-original-indication-2026-10-03 -->
-
-> **說明：** 模型分數最高的兩個預測為「體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群」(99.49%) 與「腦小血管病 1 型（伴或不伴眼部異常）」(99.49%)。兩者皆屬 COL4A1 相關的血管基底膜疾病，與去氧膽酸沒有已知的機轉關聯，且無臨床試驗與文獻，證據等級為 L5，建議 Hold。
-
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知去氧膽酸是一種具有清潔劑特性與細胞溶解活性的次級膽酸，在台灣核准用於注射改善成人頦下脂肪堆積（溶解膽固醇性膽結石是去氧熊膽酸的用途）。
+目前缺乏詳細的作用機轉資料。已知 deoxycholic acid 是一種次級膽酸，具有清潔劑般的乳化作用與細胞溶解活性。
 
-<!-- review:begin deoxycholic-acid-summary-indication-why-2026-10-16 -->
+預測的疾病是與 COL4A1 相關的罕見血管基底膜疾病，影響腎臟、視網膜血管與肌肉。就目前資料而言，deoxycholic acid 與此疾病之間沒有已建立的機轉關聯。
 
-> **查核更正（2026-10-16）**：原寫「原本用於溶解膽固醇性膽結石與改善膽汁相關肝病。」。Deoxycholic acid 在台灣與美國的核准用途是注射改善成人頦下脂肪堆積（台灣原料藥衛部藥輸字第028648號另登載「乳化劑」）；溶解膽固醇性膽結石、改善原發性膽道肝硬化是 ursodeoxycholic acid（去氧熊膽酸）的適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)。
-
-<!-- review:end deoxycholic-acid-summary-indication-why-2026-10-16 -->
-
-就糖尿病腎病變而言，膽酸訊號（FXR 與 TGR5 路徑）被認為與腎臟發炎、脂質代謝及氧化壓力有關。已有研究顯示，糖尿病腎病變的患者與動物模型中膽酸組成會改變。這提供了一個值得探討的方向。
-
-不過，這些文獻討論的是膽酸代謝整體，並非以去氧膽酸作為治療藥物，因此證據屬於間接性質。至於排名第 1、2 的 COL4A1 相關疾病，目前找不到合理的機轉連結，高分可能只反映知識圖譜中的網絡特徵。
+TxGNN 的高分應視為計算模型的推測結果，可能反映網路特徵的相似性，而非實際的藥理關聯。在取得任何實證之前，不宜推論其具有療效。
 
 ## 臨床試驗證據
 
@@ -94,14 +68,7 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 
 ## 文獻證據
 
-以下為糖尿病腎病變預測的相關文獻（排名第 1、2 的預測無文獻）：
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [39384774](https://pubmed.ncbi.nlm.nih.gov/39384774/) | 2024 | 病例對照 | Nutrition & Diabetes | 以代謝體學分析糖尿病腎病變患者，發現膽酸代謝隨疾病進展逐步改變 |
-| [33378964](https://pubmed.ncbi.nlm.nih.gov/33378964/) | 2021 | 動物研究 | Biomedicine & Pharmacotherapy | 中藥方劑 QiDiTangShen 調節腸道菌相並改善糖尿病腎病變小鼠的膽酸組成 |
-| [36996678](https://pubmed.ncbi.nlm.nih.gov/36996678/) | 2023 | 動物研究 | Biomedicine & Pharmacotherapy | Relaxin 在糖尿病小鼠中具腎臟保護作用，同時膽酸濃度上升 |
-| [38377553](https://pubmed.ncbi.nlm.nih.gov/38377553/) | 2024 | 動物研究 | ACS Biomaterials Science & Engineering | 經腸道吸收的奈米粒子可降低氧化壓力與血管收縮，用於糖尿病腎病變治療 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -129,12 +96,14 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 
 ## 安全性考量
 
-- **藥物交互作用**：已查得 67 筆交互作用紀錄，列出的多為中度等級，主要涉及抗凝血、抗血小板與血栓溶解藥物，例如：
-  - Acetylsalicylic acid（阿斯匹靈）
-  - Apixaban、Fondaparinux、Dalteparin、Argatroban、Bivalirudin（抗凝血劑）
-  - Clopidogrel、Cilostazol、Cangrelor、Abciximab（抗血小板藥物）
-  - Alteplase、Anistreplase（血栓溶解劑）
-  - Ibritumomab tiuxetan、Tositumomab（放射免疫治療藥物）
+- **藥物交互作用**：共查得 67 筆交互作用紀錄，以下為部分中度等級項目，多屬抗血栓、抗凝血或抗血小板類藥物：
+  - Acetylsalicylic acid
+  - Clopidogrel
+  - Apixaban
+  - Fondaparinux
+  - Alteplase
+  - Cilostazol
+  - Dalteparin
 
 其他警語與禁忌症請參考原廠仿單。
 
@@ -143,15 +112,13 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 **決策：Hold**
 
 **理由：**
-- 排名最高的兩個預測（COL4A1 相關疾病）沒有任何機轉、臨床試驗或文獻支持，僅為計算預測。
-- 糖尿病腎病變雖有膽酸訊號的間接線索，但證據僅為動物與代謝體學研究，且未針對去氧膽酸本身，屬於研究問題階段，尚不足以進入臨床推進。
+- 此預測沒有任何臨床試驗或文獻支持，機轉上也找不到合理的關聯，證據等級為 L5，僅為模型預測。
+- 預測疾病為罕見的遺傳性血管基底膜疾病，與藥物已知的作用方式差距大。
 
 **若要推進需要：**
-- 補齊去氧膽酸的作用機轉資料（MOA）
-- 針對去氧膽酸（而非膽酸整體）在糖尿病腎病變模型中的前臨床驗證
-- 評估 FXR／TGR5 路徑活化對腎臟的實際影響
-- 若進入臨床探索，需制訂與抗凝血／抗血小板藥物併用時的安全性監測計畫
-- 釐清排名第 1、2 預測的高分來源，並確認是否值得投入驗證
+- 補充 deoxycholic acid 的詳細作用機轉資料，並釐清與 COL4A1 相關病理的可能連結
+- 進行文獻回顧與前臨床（細胞或動物模型）研究，驗證任何生物學上的關聯
+- 在有初步實證前，不建議投入臨床開發資源
 
 <!-- review:begin log -->
 
@@ -161,12 +128,12 @@ TxGNN 模型的最高分預測是兩個罕見的 COL4A1 相關疾病，但這兩
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 一句話總結把去氧膽酸與去氧熊膽酸混為一談 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
-| 2026-10-03 | 原適應症列入膽結石溶解、原發性膽道肝硬化 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-10-03 | 一句話總結把去氧膽酸與去氧熊膽酸混為一談 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-10-03 | 原適應症列入膽結石溶解、原發性膽道肝硬化 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 | 2026-10-03 | 許可證表列「去氧熊膽酸」（UDCA）製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 備註「多數許可證已註銷，目前主要以 UDCA 產品為主流」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫「以 ursodeoxycholic acid 產品為主流」；把膽結石算成本藥用途的寫法（一句話總結、快速總覽、標題、預測理由）另有查核紀錄更正；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-10-16 | 標題以膽固醇性膽結石為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
-| 2026-10-16 | 預測理由稱原本用於溶解膽固醇性膽結石 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-10-16 | 標題以膽固醇性膽結石為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-10-16 | 預測理由稱原本用於溶解膽固醇性膽結石 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 
 <!-- review:end log -->
 

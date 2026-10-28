@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "lorcaserin"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-10-16
-description: "Lorcaserin：預測新適應症為維生素過多症 (Hypervitaminosis)（證據等級 L5）。原適應症：抗肥胖劑"
+last_modified_at: 2026-10-27
+description: "Lorcaserin：預測新適應症為高維生素症 (hypervitaminosis)（證據等級 L5）."
 ---
 
 # Lorcaserin
@@ -33,34 +33,35 @@ description: "Lorcaserin：預測新適應症為維生素過多症 (Hypervitamin
 
 </div>
 
-## Lorcaserin：從體重管理到維生素過多症
+## Lorcaserin：5-HT2C 受體致效劑 → 高維生素症 (hypervitaminosis)
 {: .text-alpha }
 
 ## 一句話總結
 
-Lorcaserin 是血清素 5-HT2C 受體致效劑，原本用於成人長期體重輔助管理（抗肥胖劑）。
-TxGNN 模型預測它可能對**維生素過多症 (Hypervitaminosis)** 有效，
-但目前**沒有任何臨床試驗或文獻**支持這個預測，僅為模型推論。
+Lorcaserin 是一種選擇性血清素 5-HT2C 受體致效劑，屬於抗肥胖類藥物。
+TxGNN 模型預測它可能對**高維生素症 (hypervitaminosis)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個方向，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 抗肥胖劑 |
-| 預測新適應症 | 維生素過多症 (Hypervitaminosis) |
-| TxGNN 預測分數 | 99.97% |
+| 原適應症 | 抗肥胖劑; BELVIQ是血清素5-HT2c受體致效劑，對成人身體質量指數 (BMI) 過高者於飲食和運動控制後之長期體重輔助管理。
+ 適用之身體質量指數為: (1) BMI ≧ 30 kg/m2 或 (2) BMI ≧ 27 kg/m2 且有一項與體重相關之疾病 (例如: 高血壓、血脂異常或第二型糖尿病)。 
+ 說明:●BELVIQ 併用其他減重藥物(處方藥、非處方藥及中草藥)之安全性和有效性尚未確立。 
+ ●BELVIQ 對於心血管系統之影響(致病率及致死率)尚未確立。 |
+
+| 預測新適應症 | 高維生素症 (hypervitaminosis) |
+| TxGNN 預測分數 | 0.9997 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 未上市（已註銷許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 0／有效複方 0／已過期 1／已註銷 1） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，lorcaserin 是選擇性 5-HT2C 受體致效劑，透過作用於中樞食慾調控路徑來輔助體重管理。
+Lorcaserin 為選擇性 5-HT2C 受體致效劑，透過作用於中樞食慾調控路徑來抑制食慾。目前缺乏詳細的作用機轉資料（資料庫中未收錄完整 MOA）。
 
-就機轉而言，5-HT2C 受體的作用與維生素過量狀態之間，目前沒有找到合理的生物學關聯。這個預測只來自 TxGNN 知識圖譜的推論，分數雖高（99.97%），但缺乏任何機轉或臨床佐證，應視為低可信度的假說。
-
-資料中另有三個預測，其中「近端 16p11.2 微缺失症候群」在機轉上較合理：該症候群與食慾過盛、肥胖相關，5-HT2C 介導的食慾抑制具生物學上的可能性，但同樣沒有臨床證據。另外兩個（過時的眼距過寬、frontorhiny）屬顱顏結構異常，與 5-HT2C 訊號無已知關聯，且前者的疾病名稱已過時，預測品質偏低。
+就現有資訊而言，5-HT2C 致效作用與維生素過量狀態之間，並未找到合理的機轉關聯。此預測僅來自 TxGNN 模型的計算結果，缺乏機轉或臨床層面的支持，應視為低可信度的假說，不宜直接作為研發依據。
 
 ## 臨床試驗證據
 
@@ -90,26 +91,33 @@ TxGNN 模型預測它可能對**維生素過多症 (Hypervitaminosis)** 有效�
 
 ## 安全性考量
 
-- **藥物交互作用**：資料庫共收錄 190 筆交互作用，以下為部分重要項目：
-  - **嚴重（Major）**：Fentanyl、Dextromethorphan、Tramadol、Alfentanil、Almotriptan、Sumatriptan、Amitriptyline、Bupropion
-  - **中度（Moderate）**：Acarbose、Chlorpheniramine、Codeine、Albiglutide、Alogliptin、Metformin、Pioglitazone、Alprostadil、Amphetamine、Aripiprazole、Asenapine、Atomoxetine
-  - 嚴重交互作用多涉及血清素或中樞神經系統藥物（如鴉片類、triptan 類、抗憂鬱劑），合併使用時需特別留意血清素症候群風險。降血糖藥物則需留意低血糖。
+- **藥物交互作用**：本次彙整資料共記錄 190 筆交互作用，其中較重要的 Major 等級包括：
+  - Fentanyl
+  - Dextromethorphan
+  - Tramadol
+  - Alfentanil
+  - Almotriptan
+  - Sumatriptan
+  - Amitriptyline
+  - Bupropion
 
-其他警語與禁忌症請參考原廠仿單。
+  這些多為具血清素或中樞神經作用的藥物，併用時需留意血清素症候群等風險。Moderate 等級包括 Acarbose、Metformin、Pioglitazone、Codeine、Amphetamine、Aripiprazole 等。
+
+其他警語與禁忌請參考原廠仿單。
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測僅來自模型，沒有臨床試驗與文獻，證據等級為 L5，且機轉上找不到合理關聯。
-- 該藥的血清素類交互作用多，安全性管理負擔不低，在缺乏效益證據下不宜推進。
+- 預測缺乏任何臨床試驗、文獻或合理的機轉支持，證據等級為 L5。
+- 此外，台灣目前沒有有效上市的許可證，推進的實務基礎也不足。
 
 **若要推進需要：**
-- 補充詳細的作用機轉資料（MOA），評估與維生素代謝或毒性的關聯
-- 進行系統性文獻檢索與前臨床研究，確認有無生物學依據
-- 建議優先評估排名第 2 的「近端 16p11.2 微缺失症候群」，其機轉較合理，可先做文獻回顧與前臨床驗證
-- 確認藥品在台灣的許可證與供應現況（其中一張許可證已註銷）
+- 建立 5-HT2C 致效作用與維生素過量狀態之間的機轉假說，並進行前臨床驗證
+- 補充完整的作用機轉資料
+- 確認該預測疾病的定義與臨床意義，並評估是否有實際的未滿足需求
+- 評估血清素相關藥物交互作用的安全性監測計畫
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

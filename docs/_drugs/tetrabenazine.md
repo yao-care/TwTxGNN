@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Tetrabenazine"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
 last_modified_at: 2026-10-16
-description: "Tetrabenazine：預測新適應症為多囊腎疾病 3 型…（證據等級 L5）。原適應症：治療亨汀頓舞蹈症之舞蹈症狀"
+description: "Tetrabenazine：預測新適應症為多囊腎疾病 3 型，可合併多囊肝（證據等級 L5）。原適應症：治療亨汀頓舞蹈症之舞蹈症狀"
 ---
 
 # Tetrabenazine
@@ -33,7 +33,7 @@ description: "Tetrabenazine：預測新適應症為多囊腎疾病 3 型…（�
 
 </div>
 
-## Tetrabenazine：從亨汀頓舞蹈症到多囊腎疾病（polycystic kidney disease 3）
+## Tetrabenazine：從亨汀頓舞蹈症到多囊腎疾病 3 型，可合併多囊肝
 {: .text-alpha }
 
 ## 一句話總結
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**多囊腎疾病 3 型（可合併多囊肝，pol
 |------|------|
 | 原適應症 | 治療亨汀頓舞蹈症之舞蹈症狀 |
 | 預測新適應症 | 多囊腎疾病 3 型，可合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease) |
-| TxGNN 預測分數 | 99.90% |
+| TxGNN 預測分數 | 0.9990 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -111,7 +111,7 @@ TxGNN 模型預測它可能對**多囊腎疾病 3 型（可合併多囊肝，pol
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.90%），但沒有任何臨床試驗或文獻佐證，證據等級僅為 L5。
+- 預測分數雖高（0.9990），但沒有任何臨床試驗或文獻佐證，證據等級僅為 L5。
 - 作用機轉（VMAT2 抑制）與多囊腎疾病的病理（纖毛／囊腫形成）缺乏合理連結，且藥物本身有 QT 延長、憂鬱與帕金森症狀等安全性顧慮。
 
 **若要推進需要：**

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pravastatin
-parent: 中證據等級 (L3-L4)
+parent: 高證據等級 (L1-L2)
 nav_order: 229
-evidence_level: L4
-indication_count: 9
-last_modified_at: 2026-10-16
-description: "Pravastatin：預測新適應症為同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)（證據等級 L4）。原適應症：血脂調節劑"
+evidence_level: L2
+indication_count: 6
 monitor_inn: "Pravastatin"
-predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+last_modified_at: 2026-10-27
+description: "Pravastatin：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L2）。原適應症：高脂血症、家族性高膽固醇血症"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **9** 個
+證據等級: **L2** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,57 +33,64 @@ predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder w
 
 </div>
 
-## Pravastatin：從高血脂症到同合子家族性高膽固醇血症
+## Pravastatin：HMG-CoA 還原酶抑制劑（史他汀類降血脂藥） → HIV 感染 (HIV infectious disease)
 {: .text-alpha }
 
 ## 一句話總結
 
-Pravastatin（帕瓦斯德定）是 HMG-CoA 還原酶抑制劑（statin），原本用於高血脂症與心血管疾病的預防。
-TxGNN 模型預測它可能對**同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)** 有效，
-但目前有 **1 個相關臨床試驗**（測試的是另一種藥物 alirocumab，而非 pravastatin）和 **13 篇文獻**，多為間接證據。
+Pravastatin 是史他汀類降血脂藥，在台灣已有多張許可證。
+TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 相關族群有幫助，
+目前有 **12 個臨床試驗**和 **20 篇文獻**與此方向相關，但證據主要支持「HIV 相關血脂異常與心血管風險管理」，而非抗病毒作用。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 血脂調節劑 |
-| 預測新適應症 | 同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia) |
-| TxGNN 預測分數 | 99.95% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 高脂血症、家族性高膽固醇血症。; 1.高血脂症：對於原發性高膽固醇血症及合併高膽固醇血症與高三酸甘油脂血症之病人，在使用低脂低膽固醇及低卡路里食物療法與其他非藥物療法(如運動)後，仍不能充分降低膽固醇之情況下，可併用PRAVASTATIN SODIUM 以降低血中升高之總膽固醇與低密度脂蛋白質。2.初發性預防：對於患有高膽固醇血症但無明顯冠狀動脈心臟病之病人，可降低心肌梗塞之初次發作及因冠狀動脈心臟疾病致死之風險。3.再發性預防：對於曾患有明顯冠狀動脈心臟疾病之病人，可降低心肌梗塞之重複發生、因冠狀動脈心臟疾病致死、需要心臟血管重建心術、及發生中風或暫時性缺血發作之風險。4.可降低因接受心臟移 |
+| 預測新適應症 | HIV 感染 (HIV infectious disease) |
+| TxGNN 預測分數 | 0.9974 |
+| 證據等級 | L2 |
+| 台灣上市 | 上市中（有效許可證 25 張／共 36 張） |
 | 許可證數 | 36 張（有效單方 24／有效複方 1／已過期 1／已註銷 10） |
-| 建議決策 | Hold |
-
-> 補充：在本次資料中，排名第 2 的「HIV 感染相關」方向（實際支持的是 HIV 相關血脂異常，而非 HIV 感染本身）有較完整的臨床證據（含 Phase 3 與多個 Phase 2/4 試驗）。排名第 6 的「家族性高膽固醇血症」則屬已核准適應症，並非真正的再利用。
+| 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫未收錄 MOA）。根據已知資訊，pravastatin 是 statin 類藥物，會抑制肝臟 HMG-CoA 還原酶，進而增加肝臟 LDL 受體表現並降低 LDL 膽固醇。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Pravastatin 屬於 HMG-CoA 還原酶抑制劑（史他汀類），可降低低密度脂蛋白膽固醇，並具有抗發炎與改善血管內皮功能的作用。
 
-同合子家族性高膽固醇血症與原適應症同屬膽固醇代謝異常。但此藥的效果取決於患者是否仍保有殘餘的 LDL 受體活性；受體完全缺損的病人預期反應很差。一篇文獻也提到 statin 在同合子型的效果有限。
+HIV 感染者在接受蛋白酶抑制劑等抗病毒治療後，常出現血脂異常並增加心血管疾病風險。因此 Pravastatin 在機轉上可用於處理 HIV 相關的血脂異常與心血管風險。需要特別說明的是，目前沒有證據顯示它對 HIV 病毒本身具有抗病毒活性，實際可支持的用途是 HIV 相關血脂異常，而非 HIV 感染的直接治療。
 
-目前提供的證據多半針對異合子型 FH 或其他 statin，屬間接證據，因此這個預測仍是待驗證的研究問題。
+在藥物動力學上，Pravastatin 不依賴 CYP3A4 代謝，與部分其他史他汀相比，和抗病毒藥物的交互作用較少；但 darunavir/ritonavir 仍可能提高其血中濃度，需要監測。
 
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | 完成 | 18 | 開放標籤試驗，評估 alirocumab（PCSK9 抗體）用於 8–17 歲同合子 FH 兒童與青少年的 LDL-C 降幅；**並非 pravastatin** |
+| [NCT00006412](https://clinicaltrials.gov/study/NCT00006412) | Phase 3 | 完成 | 630 | 比較 fenofibrate 與 pravastatin 用於 HIV 感染者血脂異常的安全性與療效 |
+| [NCT00227500](https://clinicaltrials.gov/study/NCT00227500) | Phase 4 | 完成 | 40 | 隨機、安慰劑對照，評估 pravastatin 用於接受蛋白酶抑制劑治療之 HIV 高血脂患者 |
+| [NCT00221754](https://clinicaltrials.gov/study/NCT00221754) | Phase 2 | 完成 | 21 | 隨機雙盲，評估 pravastatin 用於接受 HAART 且高膽固醇的 HIV 患者 |
+| [NCT00117494](https://clinicaltrials.gov/study/NCT00117494) | Phase 4 | 完成 | 86 | 比較 rosuvastatin 與 pravastatin 用於接受抗反轉錄病毒治療的血脂異常患者 |
+| [NCT00843661](https://clinicaltrials.gov/study/NCT00843661) | Phase 4 | 未知 | 60 | ezetimibe 加 fenofibrate 對比 pravastatin 單方，用於接受蛋白酶抑制劑的 HIV 患者 |
+| [NCT02841774](https://clinicaltrials.gov/study/NCT02841774) | Phase 2 | 完成 | 10 | 中劑量 pravastatin 對比高劑量 rosuvastatin，用於合併冠心病的 HIV 感染者 |
+| [NCT00630734](https://clinicaltrials.gov/study/NCT00630734) | Phase 4 | 完成 | 32 | darunavir/ritonavir 與 pravastatin 交互作用的藥物基因學研究（SLCO1B1） |
+| [NCT00665717](https://clinicaltrials.gov/study/NCT00665717) | Phase 1 | 完成 | 24 | raltegravir 對 pravastatin 藥物動力學的影響（健康受試者） |
+| [NCT00017758](https://clinicaltrials.gov/study/NCT00017758) | Phase 1 | 完成 | 56 | efavirenz 與 nelfinavir 對史他汀類藥物動力學的影響 |
+| [NCT00000941](https://clinicaltrials.gov/study/NCT00000941) | Phase 1 | 完成 | 56 | 蛋白酶抑制劑與降血脂藥物的藥物動力學交互作用 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [28685504](https://pubmed.ncbi.nlm.nih.gov/28685504/) | 2017 | 統合分析 | Cochrane Database Syst Rev | 兒童家族性高膽固醇血症使用 statin 的系統性回顧 |
-| [31696945](https://pubmed.ncbi.nlm.nih.gov/31696945/) | 2019 | 統合分析 | Cochrane Database Syst Rev | 同上之更新版本 |
-| [12269853](https://pubmed.ncbi.nlm.nih.gov/12269853/) | 2002 | Review | Drugs | Rosuvastatin 回顧；在高膽固醇血症中優於 pravastatin 等 |
-| [15531000](https://pubmed.ncbi.nlm.nih.gov/15531000/) | 2004 | Review | Clin Ther | Rosuvastatin 適用於包含同合子 FH 的高脂血症 |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | Review（指引） | Endocr Pract | AACE/ACE 血脂異常管理與心血管預防指引 |
-| [15532136](https://pubmed.ncbi.nlm.nih.gov/15532136/) | 2004 | 評論 | Prescrire Int | Simvastatin 與 pravastatin 為異合子 FH 的參考 statin；statin 對同合子 FH 效果不佳 |
-| [28416195](https://pubmed.ncbi.nlm.nih.gov/28416195/) | 2017 | 隨機試驗（Phase 4） | Lancet HIV | Pitavastatin 與 pravastatin 比較用於 HIV 合併血脂異常（與本疾病無直接關聯） |
-| [14727947](https://pubmed.ncbi.nlm.nih.gov/14727947/) | 2003 | Review | Am J Cardiovasc Drugs | Ezetimibe 藥物回顧 |
-| [14647533](https://pubmed.ncbi.nlm.nih.gov/14647533/) | 2003 | Review | Cardiovasc Drug Rev | Ezetimibe 作為新型膽固醇吸收抑制劑 |
-| [9129869](https://pubmed.ncbi.nlm.nih.gov/9129869/) | 1997 | Review | Drugs | Atorvastatin 藥理與治療潛力 |
+| [26148680](https://pubmed.ncbi.nlm.nih.gov/26148680/) | 2015 | RCT | BMC Res Notes | 比較 pravastatin 40 mg、植物固醇及合併治療對 HIV 感染者血脂的影響 |
+| [16603852](https://pubmed.ncbi.nlm.nih.gov/16603852/) | 2006 | RCT | AIDS | 隨機安慰劑對照，評估 pravastatin 對接受蛋白酶抑制劑之 HIV 男性的身體組成與心血管標記 |
+| [25907504](https://pubmed.ncbi.nlm.nih.gov/25907504/) | 2015 | 統合分析 | Am J Cardiol | 系統性回顧史他汀用於 HIV 感染者的效用 |
+| [26851703](https://pubmed.ncbi.nlm.nih.gov/26851703/) | 2016 | 統合分析 | Eur Heart J | 比較各史他汀用於 HIV 陽性者初級預防的安全性與療效 |
+| [22770622](https://pubmed.ncbi.nlm.nih.gov/22770622/) | 2012 | Review | Expert Opin Pharmacother | 史他汀治療 HIV 相關血脂異常的安全性與效果 |
+| [28364370](https://pubmed.ncbi.nlm.nih.gov/28364370/) | 2017 | 建議文件 | Am J Cardiovasc Drugs | 史他汀與 HIV 藥物交互作用的處置建議 |
+| [23703578](https://pubmed.ncbi.nlm.nih.gov/23703578/) | 2013 | Review | Clin Pharmacokinet | 史他汀與抗病毒蛋白酶抑制劑的交互作用 |
+| [32240298](https://pubmed.ncbi.nlm.nih.gov/32240298/) | 2020 | 實務研究 | J Antimicrob Chemother | 抗反轉錄病毒藥物與史他汀交互作用的真實世界處置 |
+| [28252528](https://pubmed.ncbi.nlm.nih.gov/28252528/) | 2017 | 臨床研究 | AIDS | 比較 pitavastatin 與 pravastatin 對 HIV 免疫活化與動脈發炎標記的影響 |
+| [14727985](https://pubmed.ncbi.nlm.nih.gov/14727985/) | 2002 | Review | Am J Cardiovasc Drugs | 蛋白酶抑制劑相關高血脂症的處置 |
 
 ## 台灣上市資訊
 
@@ -140,25 +147,21 @@ TxGNN 模型預測它可能對**同合子家族性高膽固醇血症 (Homozygous
 
 ## 安全性考量
 
-- **知識圖譜標示的相關疾病風險**（來自 TxGNN 知識圖譜的藥物－疾病禁忌關聯，非仿單原文）：腎臟疾病、肝臟疾病、肌病／橫紋肌溶解症、膽囊疾病、血小板低下、消化性潰瘍、痛風等。
-- **藥物交互作用**：共查得 239 筆，例如 Moderate 等級的 Clarithromycin、Metronidazole、Rosuvastatin、Simvastatin、Tinidazole、Eluxadoline、Naltrexone、Pectin。
-- 另有臨床試驗顯示，darunavir/ritonavir 等 HIV 蛋白酶抑制劑可能提高 pravastatin 暴露量。
-
-其餘警語與禁忌請參考原廠仿單。
+- **藥物交互作用**：共有 239 筆交互作用紀錄，中度者包括 Metronidazole、Clarithromycin、Eluxadoline、Naltrexone、Pectin、Rosuvastatin、Simvastatin、Tinidazole。與 HIV 蛋白酶抑制劑（如 darunavir/ritonavir）併用時，Pravastatin 的暴露量可能上升，臨床試驗亦針對此交互作用進行研究。
+- 其他警語與禁忌症請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Hold**
+**決策：Proceed with Guardrails**
 
 **理由：**
-- 同合子 FH 這個方向缺乏直接以 pravastatin 為對象的臨床試驗，唯一的試驗測試的是 alirocumab。
-- 機轉上，藥效依賴殘餘 LDL 受體功能，受體缺損者預期反應不佳，文獻亦指出 statin 在此族群效果有限。
+有 Phase 3 與多個 Phase 2/4 的隨機試驗，以及 RCT 與統合分析，直接研究 Pravastatin 用於 HIV 感染者的血脂異常。不過這些證據支持的是「HIV 相關血脂異常與心血管風險管理」，並非抗病毒作用，因此需設定明確的使用範圍。
 
 **若要推進需要：**
-- 以 pravastatin 為對象、針對同合子 FH 的臨床資料，並依 LDL 受體殘餘活性分層。
-- 補齊 pravastatin 的作用機轉資料。
-- 與 PCSK9 抑制劑等現有治療做比較，確認 pravastatin 的角色。
-- 若考慮優先評估其他方向：HIV 相關血脂異常（證據較完整，建議以 Proceed with Guardrails 評估，需配合 DDI 監測）。
+- 明確界定目標族群為 HIV 相關血脂異常或心血管風險，而非 HIV 感染本身
+- 與抗病毒藥物（特別是蛋白酶抑制劑）併用的交互作用監測計畫
+- 補充詳細的作用機轉資料與完整的安全性（警語、禁忌症）資訊
+- 針對 HIV 感染者的長期心血管結果與肌肉、肝臟安全性追蹤資料
 
 <!-- review:begin log -->
 

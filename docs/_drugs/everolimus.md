@@ -4,17 +4,17 @@ title: Everolimus
 parent: 高證據等級 (L1-L2)
 nav_order: 104
 evidence_level: L2
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Everolimus：預測新適應症為脂肪肉瘤 (Liposarcoma)（證據等級 L2）。原適應症：器官移植抗排斥藥物、治療腎臟癌藥物"
+indication_count: 8
 monitor_inn: "Everolimus"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-27
+description: "Everolimus：預測新適應症為脂肪肉瘤 (liposarcoma)（證據等級 L2）."
 ---
 
 # Everolimus
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,49 +33,53 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 
 </div>
 
-## Everolimus：從器官移植抗排斥與腎臟癌到脂肪肉瘤
+## Everolimus：mTOR 抑制劑 → 脂肪肉瘤 (liposarcoma)
 {: .text-alpha }
 
 ## 一句話總結
 
-Everolimus（依維莫司）是 mTOR 抑制劑，原本用於預防器官移植排斥，以及治療腎細胞癌、乳癌、神經內分泌腫瘤等。
-TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，
-目前有 **1 個臨床試驗**和 **4 篇文獻**與此方向相關，但其中只有 1 個 Phase 2 試驗直接針對去分化脂肪肉瘤，且 everolimus 是與 ribociclib 併用。
+Everolimus 是一種 mTOR 抑制劑，在台灣已有多張許可證，涵蓋器官移植抗排斥與多種癌症治療。
+TxGNN 模型預測它可能對**脂肪肉瘤 (liposarcoma)** 有效，
+目前有 **1 個臨床試驗**和 **4 篇文獻**與此方向相關，但 everolimus 在其中僅作為合併用藥的一環。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 器官移植抗排斥藥物、治療腎臟癌藥物 |
-| 預測新適應症 | 脂肪肉瘤 (Liposarcoma) |
-| TxGNN 預測分數 | 99.88% |
+| 原適應症 | 「結節性硬化症併有腎血管肌脂肪瘤之成年病患」且須符合以下條件：其腎血管肌脂肪瘤最長直徑需≧4cm，且曾有發生臨床上有意義之出血或確認病灶有血管瘤（aneurysm）直徑≧5mm者，無法以外科手術或動脈栓塞治療，或經動脈栓塞治療或外科手術後無效或復發者。
+ 
+ 治療患有結節性硬化症(TS: tuberous sclerosis)相關腦室管膜下巨細胞星狀細胞瘤(SEGA: subependymal giant cell astrocytoma)且須介入治療但不適合接受治療性外科切除手術的患者。; 腎臟及心臟移植
+ 併用減量ciclosporin微乳製劑及類固醇，預防腎臟或心臟移植的成人病患之免疫器 |
+
+| 預測新適應症 | 脂肪肉瘤 (liposarcoma) |
+| TxGNN 預測分數 | 0.9988 |
 | 證據等級 | L2 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 12 張） |
 | 許可證數 | 12 張（有效單方 7／有效複方 0／已註銷 5） |
-| 建議決策 | Hold |
+| 建議決策 | Proceed with Guardrails |
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。根據已知資訊，everolimus 是 mTORC1 抑制劑，可抑制 PI3K/AKT/mTOR 路徑所驅動的細胞增殖，這也是它在腎細胞癌、乳癌等腫瘤中發揮作用的基礎。
+Everolimus 抑制 mTORC1，進而壓抑 PI3K/AKT/mTOR 路徑驅動的細胞增殖。目前缺乏 DrugBank 的詳細作用機轉資料，以下推論依據為本次彙整的機轉假說。
 
-去分化脂肪肉瘤 (DDLPS) 常見 CDK4/MDM2 擴增。研究者的設想是同時阻斷細胞週期（CDK4/6，ribociclib）與細胞生長（mTOR，everolimus）兩條平行路徑，在多種腫瘤模型中已觀察到協同抑制生長的效果。
+去分化脂肪肉瘤 (dedifferentiated liposarcoma) 常見 CDK4/MDM2 擴增。研究者將 CDK4/6 抑制劑 ribociclib 與 everolimus 合併，期望同時阻斷細胞週期與生長訊號兩條平行路徑；臨床前模型顯示兩者有協同抑制腫瘤生長的作用。
 
-需要注意：目前證據中，everolimus 只是組合療法的一員，尚無單藥用於脂肪肉瘤的資料。另外，在其他預測疾病中，以非透明細胞型腎細胞癌（unclassified RCC）的證據最完整，包含 2 個隨機 Phase 2 試驗（ASPEN、ESPN），但該排序第 1 名的預測仍是脂肪肉瘤，故本報告以脂肪肉瘤為主軸。
+需要注意：目前證據來自單臂 Phase 2 試驗，everolimus 是合併療法的一部分，無法單獨歸因其療效。
 
 ## 臨床試驗證據
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
-| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | 進行中（不再招募） | 48 | Ribociclib 併用 everolimus 用於曾接受過至少一線全身治療的晚期去分化脂肪肉瘤 (DDL) 與平滑肌肉瘤 (LMS)，評估抗腫瘤活性；預計 2026 年 12 月完成 |
+| [NCT03114527](https://clinicaltrials.gov/study/NCT03114527) | Phase 2 | 進行中（不再招募） | 48 | Ribociclib 合併 everolimus 用於晚期去分化脂肪肉瘤與平滑肌肉瘤，評估抗腫瘤活性 |
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Phase 2 試驗報告 | Clin Cancer Res | Ribociclib 加 everolimus 用於晚期 DDL 與 LMS；兩藥分別靶向 CDK4/6 與 mTOR，在腫瘤模型中有協同作用 |
-| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Front Oncol | 以 PDOX 小鼠模型尋找肉瘤的 CDK 抑制劑（palbociclib）組合療法，屬間接佐證 |
-| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | 體外研究 | Anticancer Res | Eribulin 與不同機轉抗癌藥物併用的前臨床活性，與 everolimus 的關聯有限 |
-| [41991999](https://pubmed.ncbi.nlm.nih.gov/41991999/) | 2026 | 體外研究 | Oncogene | XPO1 抑制劑 KPT-330 干擾 DDLPS 核心轉錄調控，並未直接測試 everolimus |
+| [37967116](https://pubmed.ncbi.nlm.nih.gov/37967116/) | 2024 | Phase 2 試驗報告 | Clin Cancer Res | Ribociclib 合併 everolimus 用於晚期去分化脂肪肉瘤與平滑肌肉瘤；兩藥在腫瘤模型中有協同抑制作用 |
+| [36003796](https://pubmed.ncbi.nlm.nih.gov/36003796/) | 2022 | Review | Front Oncol | 肉瘤 PDOX 模型用於尋找 CDK 抑制劑 palbociclib 的有效組合療法 |
+| [41991999](https://pubmed.ncbi.nlm.nih.gov/41991999/) | 2026 | 體外研究 | Oncogene | XPO1 抑制劑 KPT-330 破壞去分化脂肪肉瘤的核心轉錄調控迴路（未涉及 everolimus） |
+| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | 體外研究 | Anticancer Res | Eribulin 與不同機轉抗癌藥物合併的廣譜前臨床抗腫瘤活性（未涉及 everolimus） |
 
 ## 台灣上市資訊
 
@@ -109,30 +113,28 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 細胞毒性分類 | 標靶藥物（mTOR 抑制劑） |
-| 骨髓抑制風險 | 中度；知識圖譜資料列出血小板減少、嗜中性白血球減少、白血球減少、貧血等相關風險 |
-| 監測項目 | CBC（含分類）、肝腎功能、血糖、血脂 |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 血液學參數（CBC）、肝腎功能、血糖與血脂（依一般 mTOR 抑制劑監測原則） |
 | 處置防護 | 請參考原廠仿單的警語與注意事項 |
 
 ## 安全性考量
 
-- **知識圖譜標示的相關風險（非仿單文字）**：肝功能衰竭/肝病、腎病、血小板減少、嗜中性白血球減少、白血球減少、貧血、高血糖/糖尿病、高三酸甘油脂血症/高脂血症、間質性肺病、口腔炎、充血性心衰竭、心包積液等。這些為資料庫關聯，實際禁忌請以仿單為準。
-- **藥物交互作用**：共 383 筆。主要（Major）包括 Amphotericin B、Aprepitant、Dexamethasone、Clarithromycin；中度（Moderate）包括多種降血糖藥（如 Metformin、Acarbose、Canagliflozin、Dapagliflozin、Empagliflozin、Glimepiride）及 Cimetidine 等。
-
-警語與禁忌症的仿單資料請參考原廠仿單。
+- **藥物交互作用**：本次彙整共記錄 383 筆交互作用。較重要的 Major 等級包括 amphotericin B、aprepitant、dexamethasone、clarithromycin；另有多種降血糖藥（如 metformin、acarbose、dapagliflozin、glimepiride 等）為 Moderate 等級。
+- **需留意的疾病背景**：資料中顯示 everolimus 與下列情況有禁忌關聯紀錄（非仿單內容）：肝腎功能不全、血小板或嗜中性球減少、貧血、高血糖與糖尿病、高脂血症、間質性肺病、口腔炎、心包積液、充血性心衰竭等。使用前須對照原廠仿單確認。
 
 ## 結論與下一步
 
-**決策：Hold**
+**決策：Proceed with Guardrails**
 
 **理由：**
-- 脂肪肉瘤僅有 1 個進行中的 Phase 2 組合療法試驗，尚無完整結果，且 everolimus 並非單獨作用，無法確認其貢獻。
-- 該預測屬於研究假說階段，尚不足以支持臨床或適應症擴增決策。
+有一項直接針對去分化脂肪肉瘤的 Phase 2 試驗（ribociclib 合併 everolimus）及其試驗報告，支持此方向；但 everolimus 僅為合併用藥，試驗為單臂設計且尚未完全結案，無法證明單藥療效。
 
 **若要推進需要：**
-- 等待 NCT03114527 的完整療效與安全性結果，並判斷 everolimus 的獨立貢獻。
-- 補充 DrugBank 的作用機轉資料，並建立 mTOR 在 DDLPS 的生物標記佐證。
-- 評估安全性（血液學毒性、代謝異常、間質性肺病）與 CYP3A4/P-gp 相關藥物交互作用的監測計畫。
-- 若需優先推進，可另行評估非透明細胞型腎細胞癌，其 Phase 2 與隨機試驗證據較充分（該預測的建議為 Proceed with Guardrails）。
+- 取得 NCT03114527 的完整療效與安全性結果，並釐清 everolimus 的貢獻
+- 補充詳細的作用機轉資料（MOA）
+- 規劃合併療法的安全性監測（血液學、代謝、肺部毒性、口腔炎）
+- 檢視與常用藥物（CYP3A4 抑制劑/誘導劑、降血糖藥）的交互作用管理
 
 <!-- review:begin log -->
 

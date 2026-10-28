@@ -4,9 +4,9 @@ title: Ivermectin
 parent: 僅模型預測 (L5)
 nav_order: 159
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Ivermectin"
-predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "congenital candidiasis", "candida glabrata", "neonatal candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive", "vulvitis"]
+predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "congenital candidiasis", "neonatal candidiasis", "candida glabrata", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
 last_modified_at: 2026-10-16
 description: "Ivermectin：預測新適應症為外陰陰道念珠菌病 (Vulvovaginal Candidiasis)（證據等級 L5）。原適應症：驅蟲劑"
 ---
@@ -14,7 +14,7 @@ description: "Ivermectin：預測新適應症為外陰陰道念珠菌病 (Vulvov
 # Ivermectin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**外陰陰道念珠菌病 (Vulvovaginal Candidias
 |------|------|
 | 原適應症 | 驅蟲劑 |
 | 預測新適應症 | 外陰陰道念珠菌病 (Vulvovaginal Candidiasis) |
-| TxGNN 預測分數 | 99.95% |
+| TxGNN 預測分數 | 0.9995 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 4 張／共 4 張） |
 | 許可證數 | 4 張（有效單方 4／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**外陰陰道念珠菌病 (Vulvovaginal Candidias
 
 目前缺乏詳細的作用機轉資料。就已知的藥理而言，ivermectin 作用於無脊椎動物的麩胺酸門控氯離子通道，使寄生蟲麻痺死亡，這也是它在疥瘡與線蟲感染中療效的基礎。
 
-念珠菌屬於真菌，細胞上並不具備這類通道，因此從機轉上看，**這項預測並不合理**。TxGNN 分數雖高（99.95%），但沒有任何臨床或前臨床資料佐證。原適應症（寄生蟲感染、酒糟）與外陰陰道念珠菌病之間，也沒有明確的病理或藥理關聯。
+念珠菌屬於真菌，細胞上並不具備這類通道，因此從機轉上看，**這項預測並不合理**。TxGNN 分數雖高（0.9995），但沒有任何臨床或前臨床資料佐證。原適應症（寄生蟲感染、酒糟）與外陰陰道念珠菌病之間，也沒有明確的病理或藥理關聯。
 
 本次預測清單的前 10 名（多為念珠菌感染、外陰陰道炎、肛門生殖器 HPV 感染等）同樣缺乏機轉支持。較值得一提的只有外用劑型在酒糟中的抗發炎與抗蠕形蟎作用，但那僅是對外陰炎類疾病的遠距類比，並非證據。
 

@@ -4,9 +4,9 @@ title: Rocuronium
 parent: 僅模型預測 (L5)
 nav_order: 247
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Rocuronium"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "atrophoderma vermiculata", "ulerythema ophryogenesis", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome", "sciatic neuropathy", "headache disorder"]
 last_modified_at: 2026-10-16
 description: "Rocuronium：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：全身麻醉的輔佐藥，以幫助支氣管內插管、提供手術需快速麻醉誘導時骨骼肌肉鬆弛狀態、加護病房中需插管及使用人工呼吸器時"
 ---
@@ -14,7 +14,7 @@ description: "Rocuronium：預測新適應症為偏頭痛 (Migraine Disorder)（
 # Rocuronium
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 |------|------|
 | 原適應症 | 全身麻醉的輔佐藥，以幫助支氣管內插管、提供手術需快速麻醉誘導時骨骼肌肉鬆弛狀態、加護病房中需插管及使用人工呼吸器時 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
-| TxGNN 預測分數 | 99.90% |
+| TxGNN 預測分數 | 0.9990 |
 | 證據等級 | L5 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 8 張） |
 | 許可證數 | 8 張（有效單方 7／有效複方 0／已過期 1／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 偏頭痛的病理機轉主要涉及 CGRP、三叉神經血管系統活化與皮質擴散性抑制。Rocuronium 作用於周邊神經肌肉接合處，與上述路徑並無已知關聯。
 
-因此，這個預測目前**缺乏機轉上的支持**，高分僅代表知識圖譜模型的關聯推測，不應視為療效證據。排名前列的其他預測（如腦幹型偏頭痛、馬尾症候群、腸躁症、坐骨神經病變等）同樣沒有合理的機轉或臨床資料。
+因此，這個預測目前**缺乏機轉上的支持**，高分僅代表 TxGNN 模型（深度學習）的關聯推測，可能反映模型從相關疾病間學到的相似性，並非生物學證據，不應視為療效證據。排名前列的其他預測（如腦幹型偏頭痛、馬尾症候群、腸躁症、坐骨神經病變等）同樣沒有合理的機轉或臨床資料。
 
 ## 臨床試驗證據
 
@@ -117,7 +117,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.90%），但沒有任何直接的臨床或文獻證據，且神經肌肉阻斷劑與偏頭痛病理機轉之間缺乏合理關聯，證據等級僅為 L5。
+- 預測分數雖高（0.9990），但沒有任何直接的臨床或文獻證據，且神經肌肉阻斷劑與偏頭痛病理機轉之間缺乏合理關聯，證據等級僅為 L5。
 - 此藥為需在監測下由專業人員使用的注射型肌肉鬆弛劑，用於偏頭痛等非急重症情境，風險效益比不佳。
 
 **若要推進需要：**

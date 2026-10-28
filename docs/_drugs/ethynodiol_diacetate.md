@@ -6,7 +6,7 @@ nav_order: 103
 evidence_level: L3
 indication_count: 6
 monitor_inn: "Ethynodiol diacetate"
-predicted_indications: ["acne (disease)", "female infertility", "46,XY disorder of sex development due to testicular steroidogenesis defect", "longitudinal vaginal septum", "transverse vaginal septum", "eye disease"]
+predicted_indications: ["acne (disease)", "female infertility", "46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "eye disease"]
 last_modified_at: 2026-10-16
 description: "Ethynodiol Diacetate：預測新適應症為痤瘡 (Acne)（證據等級 L3）。原適應症：避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）"
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 |------|------|
 | 原適應症 | 避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症） |
 | 預測新適應症 | 痤瘡 (Acne) |
-| TxGNN 預測分數 | 99.57% |
+| TxGNN 預測分數 | 0.9957 |
 | 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 8 張） |
 | 許可證數 | 8 張（有效單方 0／有效複方 2／已註銷 6） |
 | 建議決策 | Hold |
 

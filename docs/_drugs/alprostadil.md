@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Alprostadil
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 22
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-16
 description: "Alprostadil：預測新適應症為主動脈畸形 (Aortic Malformation)（證據等級 L3）。原適應症：末梢血管擴張劑"
@@ -14,7 +14,7 @@ predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", 
 # Alprostadil
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**主動脈畸形 (Aortic Malformation)** 有效�
 |------|------|
 | 原適應症 | 末梢血管擴張劑 |
 | 預測新適應症 | 主動脈畸形 (Aortic Malformation) |
-| TxGNN 預測分數 | 99.98% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9998 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 7 張／共 12 張） |
 | 許可證數 | 12 張（有效單方 7／有效複方 0／已註銷 5） |
 | 建議決策 | Proceed with Guardrails |
 
@@ -127,7 +127,7 @@ TxGNN 模型預測它可能對**主動脈畸形 (Aortic Malformation)** 有效�
 - 建立新生兒輸注的監測計畫（呼吸暫停、血壓、胃出口阻塞、電解質）
 - 以較高品質的比較性研究補強證據
 
-**其他預測的備註：** 其餘預測（如先天性三尖瓣狹窄、三尖瓣發育不全等）僅有模型預測而無臨床證據，建議為 Hold；「心臟中隔缺損」為 Research Question（L4）；「三尖瓣脫垂」與「地方性甲狀腺腫」缺乏合理機轉，可能為知識圖譜的預測假象。
+**其他預測的備註：** 其餘預測（如先天性三尖瓣狹窄、三尖瓣發育不全等）僅有模型預測而無臨床證據，建議為 Hold；「心臟中隔缺損」為 Research Question（L4）；「三尖瓣脫垂」與「地方性甲狀腺腫」缺乏合理機轉，其分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病間相似性，而非生物學證據。
 
 <!-- review:begin log -->
 

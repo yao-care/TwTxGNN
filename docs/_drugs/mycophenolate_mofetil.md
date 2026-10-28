@@ -6,7 +6,7 @@ nav_order: 186
 evidence_level: L2
 indication_count: 10
 monitor_inn: "Mycophenolate mofetil"
-predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
 last_modified_at: 2026-10-16
 description: "Mycophenolate Mofetil：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L2）。原適應症：與 Cyclosporin 和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥"
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 |------|------|
 | 原適應症 | 與 Cyclosporin 和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥 |
 | 預測新適應症 | HIV 感染 (HIV infectious disease) |
-| TxGNN 預測分數 | 99.86% |
+| TxGNN 預測分數 | 0.9986 |
 | 證據等級 | L2 |
-| 台灣上市 | ✓ 已上市 |
+| 台灣上市 | 上市中（有效許可證 5 張／共 10 張） |
 | 許可證數 | 10 張（有效單方 5／有效複方 0／已註銷 5） |
 | 建議決策 | Hold |
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Zanubrutinib
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 311
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-16
 description: "Zanubrutinib：預測新適應症為骨髓性白血病 (Myeloid Leukemia)（證據等級 L4）。原適應症：先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症）"
@@ -14,7 +14,7 @@ predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable en
 # Zanubrutinib
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **6** 個
+證據等級: **L5** | 預測適應症: **6** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN 模型預測它可能對**骨髓性白血病 (Myeloid Leukemia)** 有效�
 |------|------|
 | 原適應症 | 先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症） |
 | 預測新適應症 | 骨髓性白血病 (Myeloid Leukemia) |
-| TxGNN 預測分數 | 99.65% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9965 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 1／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
 
@@ -124,7 +124,7 @@ BTK 在骨髓系細胞中也有表現，因此在機轉上對骨髓性白血病�
 **決策：Hold**
 
 **理由：**
-- TxGNN 分數雖高（99.65%），但目前沒有任何直接針對骨髓性白血病的臨床試驗或文獻；唯一的試驗為間接相關的 Phase 1 研究，文獻也全在 B 細胞惡性腫瘤。證據等級僅為 L4，機轉上的合理性尚未被證實。
+- TxGNN 分數雖高（0.9965），但目前沒有任何直接針對骨髓性白血病的臨床試驗或文獻；唯一的試驗為間接相關的 Phase 1 研究，文獻也全在 B 細胞惡性腫瘤。證據等級僅為 L4，機轉上的合理性尚未被證實。
 
 **若要推進需要：**
 - 取得詳細的作用機轉資料（MOA），並釐清 BTK 在骨髓性白血病（如 AML）中的實際作用

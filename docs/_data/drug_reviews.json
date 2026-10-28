@@ -211,7 +211,10 @@
      "reanchored": false
     }
    ],
-   "anchor": "作用於 5-HT1B/1D 等血清素受體，理論上有血管收縮與抗偏頭痛的合理性"
+   "anchor": "作用於 5-HT1B/1D 等血清素受體，理論上有血管收縮與抗偏頭痛的合理性",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "ergometrine-migraine-rereview-2026-10-03",
@@ -1985,7 +1988,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "carboplatin-tw-market-row-2026-10-03",
@@ -2593,7 +2599,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "cromoglicic-acid-tw-license-count-2026-10-03",
@@ -3557,7 +3566,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "deoxycholic-acid-original-indication-2026-10-03",
@@ -3652,7 +3664,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "deoxycholic-acid-tw-license-table-2026-10-03",
@@ -3844,7 +3859,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "id": "dl-alpha-tocopherol-original-indication-2026-10-03",
@@ -3918,7 +3936,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "id": "docetaxel-summary-indication-2026-10-03",
@@ -3965,7 +3986,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "docetaxel-original-indication-2026-10-03",
@@ -4012,7 +4036,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "docetaxel-tw-license-table-2026-10-03",
@@ -4134,7 +4161,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "doxorubicin-original-indication-2026-10-03",
@@ -4229,7 +4259,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "doxorubicin-tw-license-table-2026-10-03",
@@ -4646,7 +4679,10 @@
      "reanchored": false
     }
    ],
-   "anchor": "Fenoprofen 的原核准適應症中也包含關節強硬性脊椎炎（僵直性脊椎炎的舊稱）"
+   "anchor": "Fenoprofen 的原核准適應症中也包含關節強硬性脊椎炎（僵直性脊椎炎的舊稱）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "ferrous-gluconate-tw-license-combo-2026-10-03",
@@ -4807,7 +4843,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "fluorouracil-tw-license-count-2026-10-03",
@@ -5298,7 +5337,10 @@
      "reanchored": false
     }
    ],
-   "anchor": "| 台灣上市 | 未上市 |"
+   "anchor": "| 台灣上市 | 未上市 |",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "hydrocortisone-license-rows-neomycin-combo-2026-10-03",
@@ -5472,7 +5514,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "isoleucine-license-028121-expiry-2026-10-03",
@@ -5901,7 +5946,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "lutetium-lu177-dotatate-license-count-2026-10-03",
@@ -6044,7 +6092,10 @@
      "reanchored": false
     }
    ],
-   "anchor": "此外，該藥在台灣尚未上市，且安全性資料不完整。"
+   "anchor": "此外，該藥在台灣尚未上市，且安全性資料不完整。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "methionine-vitamin-u-row-2026-10-03",
@@ -6239,7 +6290,10 @@
      "reanchored": false
     }
    ],
-   "anchor": "| 台灣上市 | 未上市 |"
+   "anchor": "| 台灣上市 | 未上市 |",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "id": "omalizumab-license-count-2026-10-03",
@@ -6332,7 +6386,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "palbociclib-license-count-2026-10-03",
@@ -6522,7 +6579,10 @@
      "excerpt": "衛部藥輸字第028293號｜圖拉留膠囊200毫克｜主成分 Pexidartinib HCl｜狀態 已註銷 2026/02/03｜有效日期 2027/05/27｜申請商 台灣第一三共股份有限公司",
      "accessed": "2026-10-03"
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "pexidartinib-license-count-2026-10-03",
@@ -7201,7 +7261,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "prilocaine-license-count-2026-10-03",
@@ -9464,7 +9527,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "uracil-tw-license-001135-2026-10-03",
@@ -10138,7 +10204,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "uracil-summary-indication-2026-10-03",
@@ -10245,7 +10314,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "diosmin-original-indication-2026-10-03",
@@ -10510,7 +10582,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_program",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "原適應症列依本紀錄更正補上 MIBC 前導性及術後輔助治療（衛部菌疫輸字第001212號）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "chloral-hydrate-original-indication-2026-10-03",
@@ -10668,7 +10743,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "sodium-carbonate-original-indication-2026-10-03",
@@ -10811,7 +10889,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_program",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "原適應症列依本紀錄更正為無菌製劑鹼化輔助劑（唯一單方許可證已註銷）與複方成分說明（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "aluminum-hydroxide-original-indication-2026-10-03",
@@ -10882,7 +10963,10 @@
      "reason": "報告整份重生（2026-10-15）後原句改寫，依紀錄所附來源比對新報告，重新定錨",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "id": "amylmetacresol-original-indication-combo-2026-10-03",
@@ -11628,7 +11712,10 @@
      "reanchored": false
     }
    ],
-   "anchor": "根據資料彙整的機轉推論，硫酸鎂可拮抗 NMDA 受體、阻斷鈣離子通道，並促進腦血管擴張。"
+   "anchor": "根據資料彙整的機轉推論，硫酸鎂可拮抗 NMDA 受體、阻斷鈣離子通道，並促進腦血管擴張。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "potassium-iodide-antifungal-2026-10-03",
@@ -12124,7 +12211,10 @@
      "claim": "| 證據等級 | L5（多毛症）；L4（偏頭痛） |",
      "replacement": "| 證據等級 | L5（多毛症）；L3（偏頭痛） |"
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "atracurium-preeclampsia-rereview-result-2026-10-03",
@@ -12481,7 +12571,10 @@
      "reanchored": true
     }
    ],
-   "anchor": "| 預測新適應症 | 同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)"
+   "anchor": "| 預測新適應症 | 同合子家族性高膽固醇血症 (Homozygous Familial Hypercholesterolemia)",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "bevacizumab-epiglottis-rereview-result-2026-10-03",
@@ -14109,7 +14202,10 @@
      "excerpt": "本頁快速總覽「證據等級」列：L2 (有 RCT 證據)",
      "accessed": "2026-10-04"
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "id": "ethynodiol-diacetate-header-level-2026-10-04",
@@ -15068,7 +15164,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "cyclizine",
@@ -15342,7 +15441,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "chlorobutanol",
@@ -15478,7 +15580,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "deoxycholic_acid",
@@ -15543,7 +15648,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fenoprofen",
@@ -15564,7 +15672,10 @@
    "note": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。",
    "finding": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。",
    "claim": "# Fenoprofen：從疼痛與風濕性關節炎到僵直性脊椎炎",
-   "replacement": "# Fenoprofen：從鎮痛到僵直性脊椎炎"
+   "replacement": "# Fenoprofen：從鎮痛到僵直性脊椎炎",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fenoprofen",
@@ -15585,7 +15696,10 @@
    "note": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。",
    "finding": "TFDA 許可證資料中，fenoprofen 現行有效的 2 張許可證（「應元」炎普朗膠囊、伏炎痛膠囊）核准適應症都只有「鎮痛」；風濕性關節炎、骨關節炎、關節強硬性脊椎炎等適應症屬於衛署藥製字第011765號「風諾保膠囊」，該證已於 2002-09-02 註銷。",
    "claim": "在台灣原本用於鎮痛、消炎與解熱，並用於風濕性關節炎、骨關節炎等疾病。",
-   "replacement": "在台灣現行許可證核准的適應症只有「鎮痛」（風濕性關節炎、骨關節炎等見於已註銷的舊許可證）。"
+   "replacement": "在台灣現行許可證核准的適應症只有「鎮痛」（風濕性關節炎、骨關節炎等見於已註銷的舊許可證）。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fenoprofen",
@@ -15632,7 +15746,10 @@
      "reanchored": true
     }
    ],
-   "anchor": "- 此適應症與既有核准適應症（關節強硬性脊椎炎）重疊，屬於既有用途的再確認，而非真正的新適應症。"
+   "anchor": "- 此適應症與既有核准適應症（關節強硬性脊椎炎）重疊，屬於既有用途的再確認，而非真正的新適應症。",
+   "status": "resolved_by_program",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "原適應症列改為現行有效許可證（衛署藥製字第037862號、第041435號）所載「鎮痛」；已註銷的 011765 號適應症（含關節強硬性脊椎炎）不再列為原適應症（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "indacaterol",
@@ -15790,7 +15907,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "silicon_dioxide",
@@ -15885,7 +16005,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "silicon_dioxide",
@@ -15980,7 +16103,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "ascorbyl_phosphate",
@@ -16075,7 +16201,10 @@
    "note": "HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤分別是 trastuzumab 類與 polatuzumab vedotin 許可證的適應症。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。",
    "finding": "HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤分別是 trastuzumab 類與 polatuzumab vedotin 許可證的適應症。台灣 doxorubicin 單方許可證（如衛署藥輸字第022712號艾黴素注射液）核准急慢性白血球過多症、硬瘤、淋巴瘤、軟纖維性肉瘤、交感神經母細胞瘤、乳癌、肺癌；微脂體劑型（衛部藥輸字第027886號、衛署藥製字第041037號）另核准 AIDS 相關卡波西氏肉瘤、含鉑化療失敗之卵巢癌、有心臟風險之轉移性乳癌，以及與 bortezomib 併用之多發性骨髓瘤。",
    "claim": "# Doxorubicin：從 HER2 陽性乳癌與瀰漫性大型 B 細胞淋巴瘤相關治療到尤文氏肉瘤",
-   "replacement": "# Doxorubicin：從白血病、淋巴瘤與實體腫瘤到尤文氏肉瘤"
+   "replacement": "# Doxorubicin：從白血病、淋巴瘤與實體腫瘤到尤文氏肉瘤",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "cytarabine",
@@ -16179,7 +16308,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "paclitaxel",
@@ -16250,7 +16382,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "paclitaxel",
@@ -16321,7 +16456,10 @@
      "reanchored": false
     }
    ],
-   "replacement": "原適應症曾取自曲斯若、賀癌平、康癌停、赫珠瑪等 trastuzumab 類許可證，paclitaxel 只是文中的併用藥；paclitaxel 本身另有多張有效單方許可證（如汰癌勝、伏摩素、亞伯杉，以及品名為「紫杉醇」的衛署藥輸字第025586號等）。"
+   "replacement": "原適應症曾取自曲斯若、賀癌平、康癌停、赫珠瑪等 trastuzumab 類許可證，paclitaxel 只是文中的併用藥；paclitaxel 本身另有多張有效單方許可證（如汰癌勝、伏摩素、亞伯杉，以及品名為「紫杉醇」的衛署藥輸字第025586號等）。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "paclitaxel",
@@ -16392,7 +16530,10 @@
      "reanchored": false
     }
    ],
-   "replacement": "同時，台灣 paclitaxel 單方仍有多張有效許可證（如汰癌勝、伏摩素、亞伯杉），實際供應與給付狀況可另行確認。"
+   "replacement": "同時，台灣 paclitaxel 單方仍有多張有效許可證（如汰癌勝、伏摩素、亞伯杉），實際供應與給付狀況可另行確認。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "carboplatin",
@@ -16439,7 +16580,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "carboplatin",
@@ -16486,7 +16630,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "carboplatin",
@@ -16533,7 +16680,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "carboplatin",
@@ -16580,7 +16730,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "carboplatin",
@@ -16627,7 +16780,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "docetaxel",
@@ -16674,7 +16830,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "docetaxel",
@@ -16721,7 +16880,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "docetaxel",
@@ -16768,7 +16930,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "docetaxel",
@@ -16815,7 +16980,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fluorouracil",
@@ -16886,7 +17054,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fluorouracil",
@@ -16957,7 +17128,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fluorouracil",
@@ -17076,7 +17250,10 @@
      "reanchored": true
     }
    ],
-   "replacement": "**資料提醒：** 本報告原先引用的許可證（賀癌平、康癌停、赫珠瑪、曲斯若）是 trastuzumab 類生物製劑，文中的 5-FU 只是併用藥物；fluorouracil 本身的有效單方許可證是注射液與原料藥（見下方許可證表），核准適應症已寫入快速總覽的「原適應症」。"
+   "replacement": "**資料提醒：** 本報告原先引用的許可證（賀癌平、康癌停、赫珠瑪、曲斯若）是 trastuzumab 類生物製劑，文中的 5-FU 只是併用藥物；fluorouracil 本身的有效單方許可證是注射液與原料藥（見下方許可證表），核准適應症已寫入快速總覽的「原適應症」。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "prednisone",
@@ -17115,7 +17292,10 @@
    "note": "TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。",
    "finding": "TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。",
    "claim": "# Prednisone：從風溼性關節炎到圓形禿 (Alopecia Areata)",
-   "replacement": "# Prednisone：從糖皮質素抗發炎用途到圓形禿 (Alopecia Areata)"
+   "replacement": "# Prednisone：從糖皮質素抗發炎用途到圓形禿 (Alopecia Areata)",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "prednisone",
@@ -17154,7 +17334,10 @@
    "note": "TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。",
    "finding": "TFDA 許可證資料中，prednisone 目前沒有有效單方許可證（已註銷的單方證曾載濕疹、過敏症、類風濕關節炎）；唯一有效許可證是 prednisone＋crotamiton 複方軟膏（衛署藥製字第042080號，濕疹或皮膚炎）。「風溼性關節炎」字樣見於主成分為 prednisolone 的已註銷許可證（內衛藥輸字第005124號），「急性病症（氣喘、休克）」來自 methylprednisone 針劑（內衛藥輸字第003633號，已註銷）。",
    "claim": "台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症等發炎與免疫相關疾病。",
-   "replacement": "台灣目前沒有有效的 prednisone 單方許可證，唯一有效許可證是與 crotamiton 的複方軟膏（濕疹或皮膚炎）。"
+   "replacement": "台灣目前沒有有效的 prednisone 單方許可證，唯一有效許可證是與 crotamiton 的複方軟膏（濕疹或皮膚炎）。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "uracil",
@@ -17207,7 +17390,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "uracil",
@@ -17285,7 +17471,10 @@
      "reanchored": true
     }
    ],
-   "anchor": "此外，台灣 uracil 單方許可證的原適應症為甲狀腺機能亢進，與腫瘤治療在藥理上並無直接連結。"
+   "anchor": "此外，台灣 uracil 單方許可證的原適應症為甲狀腺機能亢進，與腫瘤治療在藥理上並無直接連結。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "uracil",
@@ -17363,7 +17552,10 @@
      "reanchored": true
     }
    ],
-   "anchor": "- 台灣 uracil 單方許可證的適應症為甲狀腺機能亢進，缺乏作用機轉資料，也無法直接推論單方可用於腫瘤。"
+   "anchor": "- 台灣 uracil 單方許可證的適應症為甲狀腺機能亢進，缺乏作用機轉資料，也無法直接推論單方可用於腫瘤。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fludarabine",
@@ -17417,7 +17609,10 @@
    "note": "「甲基柑橘素」是 methyl hesperidin（內衛藥輸字第001040號，已註銷）的品名，與 hesperidin 是不同成分。",
    "finding": "「甲基柑橘素」是 methyl hesperidin（內衛藥輸字第001040號，已註銷）的品名，與 hesperidin 是不同成分。",
    "claim": "（橙皮苷，中文品名甲基柑橘素）",
-   "replacement": "（橙皮苷）"
+   "replacement": "（橙皮苷）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "sodium_carbonate",
@@ -17572,7 +17767,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_program",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "標題已拿掉「制酸劑」（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "sodium_carbonate",
@@ -17751,7 +17949,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_program",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "一句話總結依本紀錄更正，不再寫制酸用途（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "sodium_carbonate",
@@ -17906,7 +18107,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "aluminum_hydroxide",
@@ -17989,7 +18193,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "aluminum_hydroxide",
@@ -18072,7 +18279,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "hyaluronic_acid",
@@ -18484,7 +18694,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "dl-alpha-tocopherol",
@@ -18531,7 +18744,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "ascorbyl_phosphate",
@@ -18594,7 +18810,10 @@
    "note": "TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。TCH 療法屬 trastuzumab 許可證的併用方案，不是 carboplatin 本身的核准適應症。原文保留。",
    "finding": "TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。TCH 療法屬 trastuzumab 許可證的併用方案，不是 carboplatin 本身的核准適應症。原文保留。",
    "claim": "因此原適應症與預測新適應症在臨床上高度相關",
-   "anchor": "因此原適應症與預測新適應症在臨床上高度相關"
+   "anchor": "因此原適應症與預測新適應症在臨床上高度相關",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "carboplatin",
@@ -18615,7 +18834,10 @@
    "note": "TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。原文保留。",
    "finding": "TFDA 許可證資料中，carboplatin 有 3 張有效單方注射液許可證（衛署藥輸字第024074號佳鉑帝、衛署藥輸字第024804號爾定康、衛署藥製字第057314號「杏輝」剋鉑停），核准適應症都是「卵巢癌」。HER2 陽性乳癌是 trastuzumab 類許可證中輔助療法與 docetaxel 及 carboplatin 併用的適應症；這些許可證的轉移性胃癌適應症併用的是 capecitabine 或 5-FU 及 cisplatin，不是 carboplatin。原文保留。",
    "claim": "- 釐清台灣許可證資料：目前沒有 carboplatin 單方許可證，需確認其在台灣的實際核准適應症。",
-   "anchor": "- 釐清台灣許可證資料：目前沒有 carboplatin 單方許可證，需確認其在台灣的實際核准適應症。"
+   "anchor": "- 釐清台灣許可證資料：目前沒有 carboplatin 單方許可證，需確認其在台灣的實際核准適應症。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fluorouracil",
@@ -18662,7 +18884,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "fluorouracil",
@@ -18709,7 +18934,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "silicon_dioxide",
@@ -18780,7 +19008,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "silicon_dioxide",
@@ -18851,7 +19082,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "aluminum_hydroxide",
@@ -18898,7 +19132,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "aluminum_hydroxide",
@@ -18945,7 +19182,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "paclitaxel",
@@ -19042,7 +19282,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "uracil",
@@ -19063,7 +19306,10 @@
    "note": "TFDA 許可證資料中，tegafur＋uracil（UFT）複方有 3 張有效許可證：衛署藥輸字第023484號優富多膠囊、衛署藥製字第043698號友復膠囊、衛署藥製字第049563號「美時」復癒膠囊，核准胃癌、大腸癌、乳癌、頭頸部癌、與 cisplatin 併用治療轉移及末期肺癌等。原文保留。",
    "finding": "TFDA 許可證資料中，tegafur＋uracil（UFT）複方有 3 張有效許可證：衛署藥輸字第023484號優富多膠囊、衛署藥製字第043698號友復膠囊、衛署藥製字第049563號「美時」復癒膠囊，核准胃癌、大腸癌、乳癌、頭頸部癌、與 cisplatin 併用治療轉移及末期肺癌等。原文保留。",
    "claim": "（台灣是否有對應許可證需另行確認）",
-   "anchor": "（台灣是否有對應許可證需另行確認）"
+   "anchor": "（台灣是否有對應許可證需另行確認）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "sodium_carbonate",
@@ -19280,7 +19526,10 @@
    "note": "TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。",
    "finding": "TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。",
    "claim": "# Hesperidin：從血管脆弱到骨髓增生性腫瘤",
-   "replacement": "# Hesperidin：從血管強化劑到骨髓增生性腫瘤"
+   "replacement": "# Hesperidin：從血管強化劑到骨髓增生性腫瘤",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "hesperidin",
@@ -19301,7 +19550,10 @@
    "note": "TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。",
    "finding": "TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。",
    "claim": "在台灣原本用於強化毛細血管與防止出血。",
-   "replacement": "在台灣的單方許可證（皆已註銷）核准為血管強化劑、末梢血管強化劑。"
+   "replacement": "在台灣的單方許可證（皆已註銷）核准為血管強化劑、末梢血管強化劑。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "hesperidin",
@@ -19322,7 +19574,10 @@
    "note": "TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。原文保留。",
    "finding": "TFDA 許可證資料中，hesperidin 單方許可證（如衛署藥輸字第013726號血平鎮粉劑「末梢血管強化劑」、內衛藥輸字第007393號「血管強化劑」）全部已註銷；「血管脆弱」「增強毛細血管」出自 methyl hesperidin（甲基橙皮苷）的許可證（內衛藥輸字第007325號、第001040號），是不同成分。現行有效的含 hesperidin 許可證都是複方。原文保留。",
    "claim": "在台灣主要用於強化血管，其血管相關療效已有長期使用經驗",
-   "anchor": "在台灣主要用於強化血管，其血管相關療效已有長期使用經驗"
+   "anchor": "在台灣主要用於強化血管，其血管相關療效已有長期使用經驗",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "povidone",
@@ -19441,7 +19696,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "povidone",
@@ -19964,7 +20222,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": true
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "norethindrone_enanthate",
@@ -19985,7 +20246,10 @@
    "note": "台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。",
    "finding": "台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。",
    "claim": "# Norethindrone enanthate：從（原適應症資料缺漏）到抗凝血酶缺乏症第 2 型",
-   "replacement": "# Norethindrone enanthate：從抑制排卵（許可證已註銷）到抗凝血酶缺乏症第 2 型"
+   "replacement": "# Norethindrone enanthate：從抑制排卵（許可證已註銷）到抗凝血酶缺乏症第 2 型",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "norethindrone_enanthate",
@@ -20006,7 +20270,10 @@
    "note": "台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。",
    "finding": "台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。",
    "claim": "本次資料中未取得台灣許可證所載的原適應症。",
-   "replacement": "台灣曾核發的許可證（衛署藥輸字第013079號「能無妊注射劑」，已於 1991-06-07 註銷）適應症為抑制排卵。"
+   "replacement": "台灣曾核發的許可證（衛署藥輸字第013079號「能無妊注射劑」，已於 1991-06-07 註銷）適應症為抑制排卵。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "norethindrone_enanthate",
@@ -20027,7 +20294,10 @@
    "note": "台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。",
    "finding": "台灣曾核發衛署藥輸字第013079號「能無妊注射劑」（NORISTERAT，主成分 norethindrone enantate），適應症為「抑制排卵」，已於 1991-06-07 註銷；目前沒有有效許可證。",
    "claim": "| 原適應症 | 無資料（台灣無許可證） |",
-   "replacement": "| 原適應症 | 抑制排卵（衛署藥輸字第013079號「能無妊注射劑」，已於 1991-06-07 註銷） |"
+   "replacement": "| 原適應症 | 抑制排卵（衛署藥輸字第013079號「能無妊注射劑」，已於 1991-06-07 註銷） |",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "camphor",
@@ -20164,7 +20434,10 @@
      "reanchored": false
     }
    ],
-   "replacement": "- 台灣已有色甘酸鈉的有效許可證（點眼液、噴鼻劑），但作用機轉與仿單安全性資料皆缺漏。"
+   "replacement": "- 台灣已有色甘酸鈉的有效許可證（點眼液、噴鼻劑），但作用機轉與仿單安全性資料皆缺漏。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "amylmetacresol",
@@ -20330,7 +20603,10 @@
    "note": "TFDA 許可證（衛部菌疫輸字第001212號、第001213號）第三項適應症為與 pembrolizumab 併用，治療不適合接受含 cisplatin 化療的肌肉侵犯性膀胱癌（MIBC），作為根治性膀胱切除術的前導性與術後輔助治療。",
    "finding": "TFDA 許可證（衛部菌疫輸字第001212號、第001213號）第三項適應症為與 pembrolizumab 併用，治療不適合接受含 cisplatin 化療的肌肉侵犯性膀胱癌（MIBC），作為根治性膀胱切除術的前導性與術後輔助治療。",
    "claim": "原本用於局部晚期或轉移性泌尿道上皮癌。",
-   "replacement": "原本用於局部晚期或轉移性泌尿道上皮癌，並可與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌的前導性及術後輔助治療。"
+   "replacement": "原本用於局部晚期或轉移性泌尿道上皮癌，並可與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌的前導性及術後輔助治療。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "aluminum_oxide",
@@ -20690,7 +20966,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "salicylic_acid",
@@ -20732,7 +21011,10 @@
    "note": "台灣現行有效的 camphor 單方許可證只有 2 張外用製劑（衛署成製字第003013號「膚得樂軟膏」、第013693號「允消健膚樂乳膏」），適應症為燙傷、刀傷、昆蟲咬傷等外傷；含樟腦的注射劑（如衛署藥製字第002519號德康復注射液，心臟衰弱、呼吸困難）都已註銷，「康心針」（內衛藥製字第007950號）的主成分則是 trans-oxocamphor。疼痛類適應症（神經痛、肌肉痛、關節痛等）來自含樟腦的複方許可證。",
    "finding": "台灣現行有效的 camphor 單方許可證只有 2 張外用製劑（衛署成製字第003013號「膚得樂軟膏」、第013693號「允消健膚樂乳膏」），適應症為燙傷、刀傷、昆蟲咬傷等外傷；含樟腦的注射劑（如衛署藥製字第002519號德康復注射液，心臟衰弱、呼吸困難）都已註銷，「康心針」（內衛藥製字第007950號）的主成分則是 trans-oxocamphor。疼痛類適應症（神經痛、肌肉痛、關節痛等）來自含樟腦的複方許可證。",
    "claim": "# Camphor（樟腦）：從外傷與疼痛緩解到偏頭痛",
-   "replacement": "# Camphor（樟腦）：從外傷到偏頭痛"
+   "replacement": "# Camphor（樟腦）：從外傷到偏頭痛",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "camphor",
@@ -20824,7 +21106,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "paclitaxel",
@@ -20845,7 +21130,10 @@
    "note": "快速總覽的「原適應症」已由查核更正改為 paclitaxel 單方許可證的核准範圍，這句不再成立。",
    "finding": "快速總覽的「原適應症」已由查核更正改為 paclitaxel 單方許可證的核准範圍，這句不再成立。",
    "claim": "因此「原適應症」一欄反映的是併用情境，並非 paclitaxel 單方的核准範圍。",
-   "replacement": "快速總覽的「原適應症」已改為 paclitaxel 單方許可證的核准範圍。"
+   "replacement": "快速總覽的「原適應症」已改為 paclitaxel 單方許可證的核准範圍。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "ergometrine",
@@ -20892,7 +21180,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "ergometrine",
@@ -20913,7 +21204,10 @@
    "note": "TFDA 許可證資料中，ergonovine（ergometrine）maleate 現行有效許可證有 3 張的適應症列有偏頭痛：內衛藥製字第009847號縮水蘋果酸麥角新鹼錠、內衛藥製字第012732號縮水蘋果酸麥角新鹼片、衛署藥製字第029626號意如宮注射液。",
    "finding": "TFDA 許可證資料中，ergonovine（ergometrine）maleate 現行有效許可證有 3 張的適應症列有偏頭痛：內衛藥製字第009847號縮水蘋果酸麥角新鹼錠、內衛藥製字第012732號縮水蘋果酸麥角新鹼片、衛署藥製字第029626號意如宮注射液。",
    "claim": "台灣有一張許可證（意如宮注射液）的核准適應症已列有偏頭痛。",
-   "replacement": "台灣有 3 張有效許可證（內衛藥製字第009847號、第012732號與衛署藥製字第029626號意如宮注射液）的核准適應症列有偏頭痛。"
+   "replacement": "台灣有 3 張有效許可證（內衛藥製字第009847號、第012732號與衛署藥製字第029626號意如宮注射液）的核准適應症列有偏頭痛。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "ergometrine",
@@ -20934,7 +21228,10 @@
    "note": "「產後出血、子宮血崩、月經過多」是已註銷的內衛藥製字第004304號縮水蘋果酸麥角新鹼糖衣片的適應症；現行有效許可證（如內衛藥製字第009847號、第012732號、衛署藥製字第029626號）寫的是產後子宮弛緩、出血之預防及治療與偏頭痛。",
    "finding": "「產後出血、子宮血崩、月經過多」是已註銷的內衛藥製字第004304號縮水蘋果酸麥角新鹼糖衣片的適應症；現行有效許可證（如內衛藥製字第009847號、第012732號、衛署藥製字第029626號）寫的是產後子宮弛緩、出血之預防及治療與偏頭痛。",
    "claim": "| 原適應症 | 產後出血、子宮血崩、月經過多 |",
-   "replacement": "| 原適應症 | 產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛（現行有效許可證，如內衛藥製字第009847號、衛署藥製字第029626號） |"
+   "replacement": "| 原適應症 | 產後子宮弛緩、子宮弛緩性出血之預防及治療、偏頭痛（現行有效許可證，如內衛藥製字第009847號、衛署藥製字第029626號） |",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "polyethylene_glycol",
@@ -21022,8 +21319,32 @@
    "summary": "稱缺乏作用機轉資料",
    "note": "本頁「為什麼這個預測合理」上方已附有依仿單整理的作用機轉段（2026-10-03 查核新增）：阻斷神經肌肉傳導、減少乙醯膽鹼釋放、中樞抑制與周邊血管擴張。原文保留。",
    "finding": "本頁「為什麼這個預測合理」上方已附有依仿單整理的作用機轉段（2026-10-03 查核新增）：阻斷神經肌肉傳導、減少乙醯膽鹼釋放、中樞抑制與周邊血管擴張。原文保留。",
-   "claim": "目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）",
-   "anchor": "目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）"
+   "claim": "目前缺乏詳細的作用機轉資料（DrugBank 未提供）。根據已知資訊，硫酸鎂可拮抗 NMDA 受體與鈣離子通道，並使腦血管擴張，因而提高癲癇閾值，預防子癇發作。",
+   "anchor": "目前缺乏詳細的作用機轉資料（DrugBank 未提供）。根據已知資訊，硫酸鎂可拮抗 NMDA 受體與鈣離子通道，並使腦血管擴張，因而提高癲癇閾值，預防子癇發作。",
+   "history": [
+    {
+     "drug": "magnesium_sulfate",
+     "file": "magnesium_sulfate.md",
+     "sources": [
+      {
+       "title": "DailyMed：Magnesium Sulfate in Water for Injection 仿單（Hospira），Clinical Pharmacology",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=22ca78b4-f5a3-4144-cf89-5f633acf1e6d",
+       "excerpt": "Magnesium prevents or controls convulsions by blocking neuromuscular transmission and decreasing the amount of acetylcholine liberated at the end plate by the motor nerve impulse. Magnesium is said to have a depressant effect on the central nervous system ... Magnesium acts peripherally to produce vasodilation",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "id": "magnesium-sulfate-cerebral-perfusion-moa-missing-2026-10-16",
+     "checked": "2026-10-16",
+     "action": "annotate",
+     "section": "為什麼這個預測合理？",
+     "summary": "稱缺乏作用機轉資料",
+     "note": "本頁「為什麼這個預測合理」上方已附有依仿單整理的作用機轉段（2026-10-03 查核新增）：阻斷神經肌肉傳導、減少乙醯膽鹼釋放、中樞抑制與周邊血管擴張。原文保留。",
+     "finding": "本頁「為什麼這個預測合理」上方已附有依仿單整理的作用機轉段（2026-10-03 查核新增）：阻斷神經肌肉傳導、減少乙醯膽鹼釋放、中樞抑制與周邊血管擴張。原文保留。",
+     "claim": "目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）",
+     "anchor": "目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）",
+     "retired": "2026-10-28"
+    }
+   ]
   },
   {
    "drug": "magnesium_sulfate",
@@ -21044,7 +21365,10 @@
    "note": "本頁已附有依仿單整理的作用機轉段（2026-10-03 查核新增）。原文保留。",
    "finding": "本頁已附有依仿單整理的作用機轉段（2026-10-03 查核新增）。原文保留。",
    "claim": "- 補齊作用機轉（MOA）資料。",
-   "anchor": "- 補齊作用機轉（MOA）資料。"
+   "anchor": "- 補齊作用機轉（MOA）資料。",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "povidone",
@@ -21302,7 +21626,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "hesperidin",
@@ -21335,7 +21662,10 @@
    "note": "這篇研究的分子是甲基橙皮苷（methyl hesperidin），與 hesperidin 是不同成分。原文保留。",
    "finding": "這篇研究的分子是甲基橙皮苷（methyl hesperidin），與 hesperidin 是不同成分。原文保留。",
    "claim": "甲基橙皮苷經篩選為 AML 中 METTL3 的潛在先導分子",
-   "anchor": "甲基橙皮苷經篩選為 AML 中 METTL3 的潛在先導分子"
+   "anchor": "甲基橙皮苷經篩選為 AML 中 METTL3 的潛在先導分子",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "enfortumab_vedotin",
@@ -21356,7 +21686,10 @@
    "note": "EV-202（NCT04225117）的乳癌分組是 HR 陽性／HER2 陰性乳癌與三陰性乳癌，沒有 HER2 陽性乳癌分組。原文保留。",
    "finding": "EV-202（NCT04225117）的乳癌分組是 HR 陽性／HER2 陰性乳癌與三陰性乳癌，沒有 HER2 陽性乳癌分組。原文保留。",
    "claim": "HER2 陽性乳癌因有 Nectin-4 表現的生物學基礎與相關 Phase 2 多癌別試驗（EV-202）",
-   "anchor": "HER2 陽性乳癌因有 Nectin-4 表現的生物學基礎與相關 Phase 2 多癌別試驗（EV-202）"
+   "anchor": "HER2 陽性乳癌因有 Nectin-4 表現的生物學基礎與相關 Phase 2 多癌別試驗（EV-202）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "cortisone_acetate",
@@ -21555,7 +21888,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "silicon_dioxide",
@@ -21602,7 +21938,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "chlorobutanol",
@@ -21670,7 +22009,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "cromoglicic_acid",
@@ -21717,7 +22059,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "aluminum_oxide",
@@ -21785,7 +22130,10 @@
      "reason": "pm 全量驗收（2026-10-16）：依新報告全頁重判，更新錨點／說明",
      "reanchored": false
     }
-   ]
+   ],
+   "status": "resolved_by_program",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "一句話總結依本紀錄更正，補上現行有效許可證核准的偏頭痛（2026-10-28 用戶核准的處理方案）"
   },
   {
    "drug": "ergometrine",
@@ -22051,7 +22399,10 @@
    "note": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。二氧化矽單方許可證（皆已註銷）核准的是賦形劑與氣體吸著劑，沒有制酸用途。原文保留。",
    "finding": "截至資料集日期（2026-09-29），台灣沒有主成分欄登載為二氧化矽的有效許可證：唯一未註銷的含二氧化矽制酸複方「二矽酸鋁鎂」（衛署藥輸字第024482號）已於 2026-07-07 過期，其餘都已註銷（含 simethicone 等矽酮成分的製劑不在此列）。二氧化矽單方許可證（皆已註銷）核准的是賦形劑與氣體吸著劑，沒有制酸用途。原文保留。",
    "claim": "以及制酸相關的標示用途",
-   "anchor": "以及制酸相關的標示用途"
+   "anchor": "以及制酸相關的標示用途",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-23",
+   "resolved_note": "2026-10-22 本頁改寫為已知用途頁（模型候選全部屬已知用途，無新預測），原句與原等級已不存在。"
   },
   {
    "drug": "fenoprofen",
@@ -22072,7 +22423,10 @@
    "note": "本頁文獻證據表列有 3 篇雙盲交叉研究：PMID 7010512（對 phenylbutazone）、6996071（對 indomethacin 與安慰劑）、7026817（六種 NSAID 比較，資料庫標示為 Review）。原文保留。",
    "finding": "本頁文獻證據表列有 3 篇雙盲交叉研究：PMID 7010512（對 phenylbutazone）、6996071（對 indomethacin 與安慰劑）、7026817（六種 NSAID 比較，資料庫標示為 Review）。原文保留。",
    "claim": "（含 2 篇雙盲交叉試驗）",
-   "anchor": "（含 2 篇雙盲交叉試驗）"
+   "anchor": "（含 2 篇雙盲交叉試驗）",
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   },
   {
    "id": "ergometrine-header-level-2026-10-16",
@@ -22137,7 +22491,10 @@
      "excerpt": "文獻證據表列 10 筆 PMID：37549515、29661699、40416927、37625003、35165832、34734359、35992034、36589853、32596035、33870733",
      "accessed": "2026-10-16"
     }
-   ]
+   ],
+   "status": "resolved_by_regeneration",
+   "resolved_on": "2026-10-28",
+   "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
   }
  ]
 }

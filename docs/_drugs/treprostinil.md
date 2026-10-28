@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Treprostinil
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 290
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Treprostinil：預測新適應症為先天性心臟病相關肺動脈高壓 (Pulmonary Arterial Hypertension Associated with Congen…（證據等級 L3）。原適應症：特發性或遺傳性肺動脈高壓（WHO functional class III 及 IV）"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "Treprostinil"
 predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "malformation syndrome with odontal and/or periodontal component", "Ambras type hypertrichosis universalis congenita"]
+last_modified_at: 2026-10-27
+description: "Treprostinil：預測新適應症為肺動靜脈畸形 (pulmonary arteriovenous malformation (disease))（證據等級 L5）。原適應症：特發性或遺傳性肺動脈高壓(WHO functional class III 及IV)"
 ---
 
 # Treprostinil
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,42 @@ predicted_indications: ["pulmonary arteriovenous malformation (disease)", "hypot
 
 </div>
 
-## Treprostinil：從肺動脈高壓到肺動脈高壓（先天性心臟病相關）
+## Treprostinil：前列環素類似物（prostacyclin analogue）→ 肺動靜脈畸形 (pulmonary arteriovenous malformation (disease))
 {: .text-alpha }
 
 ## 一句話總結
 
-Treprostinil 是前列環素（prostacyclin）類似物，原本用於治療特發性或遺傳性肺動脈高壓，以及間質性肺病造成的肺高壓。
-TxGNN 模型預測它可能對**先天性心臟病相關肺動脈高壓 (Pulmonary Arterial Hypertension Associated with Congenital Heart Disease)** 有效。
-目前無臨床試驗登記，但有 **19 篇文獻**支持這個方向，證據等級為 L3。
-
-> 說明：TxGNN 分數最高的預測是「肺動脈靜脈畸形」（99.70%），但該項目沒有任何臨床試驗或文獻支持，只屬模型預測。本報告改以證據最完整、與原適應症關聯最直接的「先天性心臟病相關肺動脈高壓」為主軸，並在文末補充其他預測的概況。
+Treprostinil 是一種前列環素類似物，在台灣已有多張許可證，用於肺高壓相關治療。
+TxGNN 模型預測它可能對**肺動靜脈畸形 (pulmonary arteriovenous malformation (disease))** 有效，
+但目前**沒有相關臨床試驗與文獻**支持，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 特發性或遺傳性肺動脈高壓（WHO functional class III 及 IV） |
-| 預測新適應症 | 先天性心臟病相關肺動脈高壓 (Pulmonary Arterial Hypertension Associated with Congenital Heart Disease) |
-| TxGNN 預測分數 | 99.60% |
-| 證據等級 | L3 |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 特發性或遺傳性肺動脈高壓(WHO functional class III 及IV); 治療特發性或遺傳性肺動脈高壓且已達NYHA functional class III的成人病人，以改善運動能力。; 原發性肺動脈高壓。; 抗凝血劑。; 治療間質性肺病造成的肺高壓(pulmonary hypertension)成人病人，以改善運動能力。 |
+| 預測新適應症 | 肺動靜脈畸形 (pulmonary arteriovenous malformation (disease)) |
+| TxGNN 預測分數 | 0.9970 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 9 張／共 9 張） |
 | 許可證數 | 9 張（有效單方 9／有效複方 0／已註銷 0） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Treprostinil 是前列環素類似物，可活化 IP/EP/DP1 受體，使肺血管平滑肌的 cAMP 上升，產生血管擴張與抗增生作用，並抑制血小板聚集。
+目前缺乏詳細的作用機轉資料。已知 Treprostinil 屬於前列環素類似物，具有血管擴張與抑制血小板凝集的作用。
 
-先天性心臟病相關肺動脈高壓屬於第 1 群（Group 1）肺動脈高壓，與特發性或遺傳性肺動脈高壓有相似的肺血管病變。因此，針對肺血管擴張與重塑的前列環素途徑，在機轉上可能同樣適用。
+肺動靜脈畸形是肺部血管的結構異常，與 Treprostinil 目前的使用情境（肺部血管阻力升高）在血管層面上有關聯，但並沒有任何研究直接連結兩者。
 
-需要注意的風險是，部分病人有心內右向左分流，血管擴張劑理論上可能使分流惡化。現有文獻也提到這個疑慮，因此使用時需要審慎評估。
+需要特別留意：肺血管擴張理論上可能加重右向左分流，因此這項預測的合理性有限，目前只能視為模型的假說，需要進一步的機轉與臨床資料驗證。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
-下表列出與先天性心臟病相關肺動脈高壓最相關的文獻（僅 1 篇為 Cohort 以外的 Case series，其餘多為回顧或個案）：
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [29436381](https://pubmed.ncbi.nlm.nih.gov/29436381/) | 2018 | Case series | Heart | 評估皮下注射 treprostinil 在成人先天性心臟病相關肺動脈高壓治療 12 個月的療效與安全性 |
-| [23890862](https://pubmed.ncbi.nlm.nih.gov/23890862/) | 2013 | Cohort | Int J Cardiol | 8 位成人病人接受長期持續前列環素治療，探討血行動力學與臨床效果，並討論右向左分流惡化的理論風險 |
-| [36983605](https://pubmed.ncbi.nlm.nih.gov/36983605/) | 2023 | Cohort | J Pers Med | 皮下注射 treprostinil 與臨床及血行動力學改善、右心逆向重塑、長期存活獲益相關；研究重點為專用輸注幫浦的病人滿意度 |
-| [35412560](https://pubmed.ncbi.nlm.nih.gov/35412560/) | 2022 | Review | JAMA | 肺動脈高壓的診斷與治療回顧 |
-| [18473715](https://pubmed.ncbi.nlm.nih.gov/18473715/) | 2008 | Review | Expert Opin Pharmacother | Treprostinil 用於肺高壓治療的回顧 |
-| [22621693](https://pubmed.ncbi.nlm.nih.gov/22621693/) | 2012 | Review | Drugs | 結締組織疾病相關肺動脈高壓的治療，涵蓋先天性心臟病相關亞群 |
-| [21852894](https://pubmed.ncbi.nlm.nih.gov/21852894/) | 2009 | Review | Prog Pediatr Cardiol | 兒童非先天性心臟病相關肺動脈高壓的回顧 |
-| [35000655](https://pubmed.ncbi.nlm.nih.gov/35000655/) | 2022 | 個案報告 | Cardiol Young | 唐氏症合併先天性心臟病相關肺動脈高壓的 9 歲男童，由口服 selexipag 轉為皮下 treprostinil 後，血行動力學與運動能力明顯改善 |
-| [41201625](https://pubmed.ncbi.nlm.nih.gov/41201625/) | 2026 | 登錄資料回溯分析 | J Heart Lung Transplant | COMPERA 登錄資料中，495 位已接受治療的病人加上腸外前列環素類似物；納入先天性心臟病相關肺動脈高壓亞群 |
-| [18260882](https://pubmed.ncbi.nlm.nih.gov/18260882/) | 2007 | Review | Kardiologiia | 前列腺素類藥物用於原發性肺動脈高壓及其他相關類型的對照試驗回顧 |
-
-上述文獻中，沒有針對此適應症的隨機對照試驗。
+目前無相關文獻
 
 ## 台灣上市資訊
 
@@ -115,36 +98,33 @@ TxGNN 模型預測它可能對**先天性心臟病相關肺動脈高壓 (Pulmona
 
 ## 安全性考量
 
-- **知識圖譜標示的禁忌疾病**（來自知識圖譜的藥物-疾病禁忌關聯，非仿單文字）：腎臟疾病、輸尿管積膿、肝臟疾病、膽囊疾病、低血壓疾患、凝血疾病、肺部疾病、罕見肺部疾病。
-- **藥物交互作用**：共查得 327 筆。列出的中度交互作用包括 epinephrine、acetylsalicylic acid（阿斯匹靈）、canagliflozin、dapagliflozin、empagliflozin、ertugliflozin、mannitol、ephedrine、fenfluramine、dexfenfluramine、glycerin、papaverine、sibutramine。另有 pantoprazole、omeprazole、lansoprazole、prednisone、simvastatin、potassium chloride 的嚴重度為未知。
-
-其他警語與禁忌請參考原廠仿單。
+- **禁忌症／風險相關疾病**：模型資料中，與下列疾病存在禁忌關聯：腎臟疾病、輸尿管積膿、肝臟疾病、膽囊疾病、低血壓疾患、凝血疾病、肺部疾病、罕見肺部疾病。此為模型資料，並非仿單內容，臨床使用請以仿單為準。
+- **藥物交互作用**：共記錄 327 筆，其中中度等級包括：
+  - Epinephrine
+  - Acetylsalicylic acid（阿斯匹靈）
+  - Canagliflozin
+  - Dapagliflozin
+  - Empagliflozin
+  - Mannitol
+  - Papaverine
+  - Fenfluramine
+  
+  由於本藥具抑制血小板凝集與降血壓作用，併用抗凝血或抗血小板藥物、降血壓藥物時須特別留意。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- Treprostinil 在台灣已核准用於肺動脈高壓，且先天性心臟病相關肺動脈高壓同屬 Group 1，機轉上合理，並有數項 Cohort 與個案文獻。
-- 但目前缺乏臨床試驗與對照研究，且存在右向左分流惡化的理論風險，不宜直接視為已證實。
+- 此預測僅來自模型，沒有任何臨床試驗或文獻直接研究 Treprostinil 於肺動靜脈畸形，證據等級為 L5。
+- 肺血管擴張理論上可能加重右向左分流，存在潛在的安全疑慮。
 
 **若要推進需要：**
-- 補充詳細的作用機轉（MOA）資料
-- 設計針對先天性心臟病相關肺動脈高壓的前瞻性研究或收集真實世界資料
-- 建立分流狀態評估及血行動力學監測計畫
-- 確認給藥途徑（皮下、靜脈或吸入）與目標族群的相容性
-- 評估與中度交互作用藥物併用時的監測方式
-
-## 其他預測適應症概況
-
-| 預測適應症 | TxGNN 分數 | 證據等級 | 建議 |
-|-----------|-----------|---------|------|
-| 結締組織疾病相關肺動脈高壓 | 99.55% | L2 | Proceed with Guardrails（有皮下注射 treprostinil 的雙盲安慰劑對照試驗與結締組織疾病亞群研究，但資料庫未登錄臨床試驗） |
-| HIV 相關肺動脈高壓 | 99.55% | L4 | Research Question（僅有類別層級回顧，無 HIV 專屬 treprostinil 資料） |
-| 慢性溶血性貧血相關肺動脈高壓 | 99.55% | L5 | Hold |
-| 血吸蟲症相關肺動脈高壓 | 99.55% | L5 | Hold |
-| 肺動脈靜脈畸形 | 99.70% | L5 | Hold（肺血管擴張理論上可能加重右向左分流） |
-| 頭皮單純性少毛症、先天性少毛症伴粟丘疹、牙及牙周畸形症候群、Ambras 型全身多毛症 | 99.17%–99.48% | L5 | Hold（無明確機轉，僅為模型預測） |
+- 取得 Treprostinil 詳細的作用機轉資料
+- 進行文獻系統性回顧，確認是否有肺動靜脈畸形的病例報告或前臨床研究
+- 評估血管擴張對分流與血氧的影響（前臨床或小型探索性研究）
+- 確認使用途徑與劑型是否適合此疾病
+- 完成安全性評估，包括凝血、低血壓與肝腎功能風險
 
 <!-- review:begin log -->
 

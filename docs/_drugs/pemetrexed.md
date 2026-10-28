@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pemetrexed
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 208
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-16
-description: "Pemetrexed：預測新適應症為惡性腹膜間皮瘤 (Malignant Peritoneal Mesothelioma)（證據等級 L3）。原適應症：非鱗狀非小細胞肺癌（顯著鱗狀細胞組織型除外）、惡性肋膜間皮瘤"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "Pemetrexed"
-predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
+predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
+last_modified_at: 2026-10-27
+description: "Pemetrexed：預測新適應症為胸膜腺瘤樣瘤 (pleural adenomatoid tumor)（證據等級 L5）。原適應症：1.ALIMTA 併用cisplatin 是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)之第一線化療用藥。2 ALIMTA…"
 ---
 
 # Pemetrexed
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,65 +33,42 @@ predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesotheli
 
 </div>
 
-## Pemetrexed（培美曲塞二鈉）：從非小細胞肺癌與惡性肋膜間皮瘤到惡性腹膜間皮瘤
+## Pemetrexed：抗葉酸代謝拮抗型抗腫瘤藥 → 胸膜腺瘤樣瘤 (pleural adenomatoid tumor)
 {: .text-alpha }
 
 ## 一句話總結
 
-Pemetrexed 是抗葉酸代謝拮抗型化療藥，台灣核准用於非鱗狀非小細胞肺癌，以及與 cisplatin 併用治療惡性肋膜間皮瘤。
-TxGNN 模型預測它可能對**惡性腹膜間皮瘤 (Malignant Peritoneal Mesothelioma)** 有效。
-目前有 **7 個臨床試驗**和 **20 篇文獻**支持這個方向，但多為單臂、回溯性研究或綜述，缺乏腹膜間皮瘤專屬的隨機對照試驗。
+Pemetrexed 是一種抗腫瘤用的代謝拮抗劑。
+TxGNN 模型預測它可能對**胸膜腺瘤樣瘤 (pleural adenomatoid tumor)** 有效，預測分數為 0.9999。
+本報告彙整的資料中，**沒有任何臨床試驗或文獻**直接研究這個疾病，因此目前只有模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 非鱗狀非小細胞肺癌（顯著鱗狀細胞組織型除外）、惡性肋膜間皮瘤（取自 pemetrexed 本身的單方許可證） |
-| 預測新適應症 | 惡性腹膜間皮瘤 (Malignant Peritoneal Mesothelioma) |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L3（有 1 個已完成的 Phase 2 單臂試驗與多篇回溯性研究、綜述；無腹膜專屬的已完成隨機對照試驗） |
-| 台灣上市 | ✓ 已上市 |
+| 原適應症 | 1.ALIMTA 併用cisplatin 是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)之第一線化療用藥。2 ALIMTA 單一藥物是局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)病人接受4 個週期含鉑藥物的第一線化療後疾病並未惡化之維持療法。3. ALIMTA 單一藥物是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)之第二線治療用藥。4. ALIMTA與pembrolizumab及含鉑化學療法併用，做為轉移性，不具有EGFR或ALK腫瘤基因異常之非鱗狀非小細胞肺癌的第一線治療藥物。5. ALIMTA 與cisplatin 併用於治療惡性肋膜間質細胞瘤。; 1 |
+| 預測新適應症 | 胸膜腺瘤樣瘤 (pleural adenomatoid tumor) |
+| TxGNN 預測分數 | 0.9999 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 22 張／共 28 張） |
 | 許可證數 | 28 張（有效單方 22／有效複方 0／已註銷 6） |
-| 建議決策 | Proceed with Guardrails |
-
-註：資料中前幾張有效許可證實際是 pembrolizumab、osimertinib 的仿單，只是文字提到併用 pemetrexed。因此「原適應症」改取 pemetrexed 自身的許可證內容。
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-Pemetrexed 是多靶點抗葉酸藥物，會抑制胸苷酸合成酶 (TS)、二氫葉酸還原酶 (DHFR) 和甘胺醯胺核糖核苷酸甲醯轉移酶 (GARFT)。這會耗竭快速分裂腫瘤細胞所需的核苷酸。間皮瘤細胞對葉酸代謝路徑相當敏感。目前缺乏 DrugBank 的詳細作用機轉資料，以上說明來自本報告整理的機轉推論。
+本報告所用的資料缺乏詳細的作用機轉記錄。Pemetrexed 在台灣許可證上被歸類為抗腫瘤用藥／代謝拮抗劑，理論上它的抗葉酸活性可能影響間皮細胞來源的腫瘤。
 
-腹膜與肋膜間皮瘤在組織學上相近。Pemetrexed 加 cisplatin 已是惡性肋膜間皮瘤的標準第一線療法，並有 Phase 3 隨機試驗支持，所以其療效合理延伸到腹膜是順理成章的推論。文獻指出，腹膜間皮瘤的全身性治療建議，大多是從肋膜間皮瘤的試驗外推而來。
+不過，腺瘤樣瘤通常是良性腫瘤。對良性腫瘤使用細胞毒性化療，在臨床上沒有明確的治療理由。模型給出的高分，目前沒有任何臨床或文獻證據支持。
 
-腹膜間皮瘤極為罕見，專屬的前瞻性試驗很少。因此目前的支持證據主要來自小型單臂試驗、回溯性分析和治療指引層級的共識。
+因此這項預測只能視為模型的初步線索，不足以作為臨床或研發決策的依據。
 
 ## 臨床試驗證據
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT00061477](https://clinicaltrials.gov/study/NCT00061477) | Phase 2 | 完成 | 48 | Pemetrexed 加 gemcitabine 作為肋膜或腹膜間皮瘤第一線治療，評估安全性、存活期與腫瘤反應（與本藥直接相關度最高） |
-| [NCT05001880](https://clinicaltrials.gov/study/NCT05001880) | Phase 2 | 招募中 | 66 | 腹膜間皮瘤，比較 carboplatin + pemetrexed + bevacizumab 加或不加 atezolizumab（隨機分派） |
-| [NCT03875144](https://clinicaltrials.gov/study/NCT03875144) | Phase 2 | 暫停 | 66 | MESOTIP：PIPAC（腹腔加壓氣霧化化療）搭配 cisplatin + pemetrexed 全身化療，對比單純全身化療，作為第一線治療 |
-| [NCT06543069](https://clinicaltrials.gov/study/NCT06543069) | Phase 2 | 招募中 | 28 | 單臂試驗：sintilimab + bevacizumab 併用 pemetrexed + cisplatin，用於無法切除的腹膜間皮瘤 |
-| [NCT02535312](https://clinicaltrials.gov/study/NCT02535312) | Phase 1/2 | 進行中（不再招募） | 30 | TRC102 併用 cisplatin 與 pemetrexed，對象為晚期實體瘤或間皮瘤（族群混合，非腹膜專屬） |
-| [NCT00402766](https://clinicaltrials.gov/study/NCT00402766) | Phase 1 | 完成 | 19 | Cisplatin + pemetrexed + imatinib，用於無法切除或轉移性惡性間皮瘤（未限定腹膜） |
-| [NCT06057935](https://clinicaltrials.gov/study/NCT06057935) | Phase 2 | 招募中 | 64 | ICARuS II：減積手術與 HIPEC 後，比較腹腔內與靜脈化療（是否使用 pemetrexed 不明，僅供背景參考） |
+目前無相關臨床試驗登記。
 
 ## 文獻證據
 
-此預測疾病沒有隨機對照試驗的文獻，以下依回溯性研究、綜述、病例報告排列。
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [31287877](https://pubmed.ncbi.nlm.nih.gov/31287877/) | 2019 | 回溯性研究 | Jpn J Clin Oncol | 評估 cisplatin + pemetrexed 作為晚期腹膜間皮瘤第一線化療的療效與安全性；此組合原為肋膜間皮瘤標準療法，用於腹膜時療效尚不明確 |
-| [28594258](https://pubmed.ncbi.nlm.nih.gov/28594258/) | 2017 | 回溯性研究 | Expert Rev Anticancer Ther | 回溯評估第一線 pemetrexed + cisplatin 治療腹膜間皮瘤的療效 |
-| [21528659](https://pubmed.ncbi.nlm.nih.gov/21528659/) | 2011 | 單一機構經驗 | Tumori | 在未接受化療的患者中評估 pemetrexed + cisplatin 的療效與安全性 |
-| [41133016](https://pubmed.ncbi.nlm.nih.gov/41133016/) | 2025 | 回溯性比較研究 | Clin Med Insights Oncol | 比較第一線 pemetrexed-platinum 與 gemcitabine-platinum 方案；pemetrexed 加鉑類位居第一線全身治療的前列 |
-| [38806763](https://pubmed.ncbi.nlm.nih.gov/38806763/) | 2024 | 多中心研究 | Ann Surg Oncol | 分析腹膜間皮瘤的治療策略與預後 |
-| [39413826](https://pubmed.ncbi.nlm.nih.gov/39413826/) | 2024 | 綜述（NCCN 期刊） | J Natl Compr Canc Netw | 腹膜間皮瘤的全身治療建議多由肋膜間皮瘤試驗外推；第一線選項包括 nivolumab + ipilimumab 或 pemetrexed 為基礎的化療 |
-| [30450291](https://pubmed.ncbi.nlm.nih.gov/30450291/) | 2018 | Review | Transl Lung Cancer Res | 惡性腹膜間皮瘤綜述，為罕見且預後不良的腫瘤 |
-| [26941986](https://pubmed.ncbi.nlm.nih.gov/26941986/) | 2016 | Review | J Gastrointest Oncol | 腹膜間皮瘤的診斷與處置 |
-| [33257382](https://pubmed.ncbi.nlm.nih.gov/33257382/) | 2020 | 病例報告 | BMJ Case Rep | 腹膜間皮瘤使用 nivolumab 的個案（起始為全身化療） |
-| [22104079](https://pubmed.ncbi.nlm.nih.gov/22104079/) | 2012 | 綜述 | Cancer Treat Rev | 瀰漫性惡性腹膜間皮瘤的治療更新 |
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -139,38 +116,36 @@ Pemetrexed 是多靶點抗葉酸藥物，會抑制胸苷酸合成酶 (TS)、二�
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（抗葉酸代謝拮抗劑） |
-| 骨髓抑制風險 | 中至高。知識圖譜顯示與嗜中性白血球低下、血小板低下、無顆粒性白血球症、貧血相關 |
-| 致吐性分級 | 低至中度（與 cisplatin 併用時整體風險升高） |
-| 監測項目 | CBC（含分類）、腎功能（肌酸酐清除率）、肝功能 |
-| 處置防護 | 需依細胞毒性藥物處置規範操作 |
-
-其他細節請參考原廠仿單的警語與注意事項。
+| 細胞毒性分類 | 傳統細胞毒性藥物（代謝拮抗劑） |
+| 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
+| 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
+| 監測項目 | 請參考原廠仿單的警語與注意事項 |
+| 處置防護 | 請依細胞毒性藥物處置規範操作，詳見原廠仿單 |
 
 ## 安全性考量
 
-- **知識圖譜標示的相關疾病風險**（來自模型的藥物—疾病關聯，非仿單內容）：腎臟疾病與腎功能不全、血小板低下、嗜中性白血球低下、無顆粒性白血球症、貧血（含大球性貧血）、膿尿輸尿管。
-- **藥物交互作用**：資料庫共收錄 367 筆，已列出的樣本均為中度。主要包括：
-  - 制酸與腸胃藥：famotidine、ranitidine、cimetidine
+- **藥物交互作用**：本報告彙整的資料顯示共 367 筆交互作用紀錄。以下為其中列為中度的部分項目：
+  - 制酸／胃藥類：famotidine、ranitidine、cimetidine
   - 降血糖藥：metformin
-  - 腎毒性或腎排泄相關藥物：amphotericin B（各劑型）、vancomycin、kanamycin、neomycin、polymyxin B
-  - 其他：amoxicillin、levofloxacin、acetylsalicylic acid、mesalazine、balsalazide、olsalazine、sapropterin
+  - 水楊酸及相關藥物：acetylsalicylic acid、mesalazine、balsalazide、olsalazine
+  - 抗生素類：vancomycin、amoxicillin、levofloxacin、kanamycin、neomycin、polymyxin B
+  - 抗黴菌藥：amphotericin B 及其各種劑型
+  - 其他：sapropterin
 
-其餘警語與禁忌症請參考原廠仿單。
+其餘警語與禁忌資料，請參考原廠仿單。
 
 ## 結論與下一步
 
-**決策：Proceed with Guardrails**
+**決策：Hold**
 
 **理由：**
-- Pemetrexed 加鉑類在肋膜間皮瘤有 Phase 3 證據，並已是腹膜間皮瘤的常用第一線選項。
-- 腹膜專屬證據僅有小型單臂試驗與回溯性研究，缺乏隨機對照驗證，且與免疫療法的相對地位仍待釐清，所以不建議無條件推進。
+- 目前沒有任何臨床試驗或文獻直接研究這個疾病，證據等級僅為 L5。
+- 這是一種通常為良性的腫瘤，使用細胞毒性化療缺乏明確理由。
 
 **若要推進需要：**
-- 取得腹膜間皮瘤專屬的前瞻性或隨機試驗結果（例如 NCT05001880、NCT03875144、NCT06543069 的成果）。
-- 確認台灣是否需另行申請腹膜間皮瘤適應症，因為目前許可僅涵蓋肋膜間皮瘤。
-- 建立血液學與腎功能監測計畫，並釐清與腎毒性藥物及 NSAID 的併用風險。
-- 補足 DrugBank 的作用機轉與仿單警語資料。
+- 找出直接針對此疾病的病例報告或研究，確認是否有惡性或需要全身治療的族群。
+- 補充 pemetrexed 的詳細作用機轉資料，評估其與此疾病的機轉關聯。
+- 在考慮任何臨床應用前，先評估細胞毒性化療對良性腫瘤的風險與效益。
 
 <!-- review:begin log -->
 

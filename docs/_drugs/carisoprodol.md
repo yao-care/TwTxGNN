@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Carisoprodol
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 56
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "Carisoprodol"
 predicted_indications: ["insomnia (disease)"]
@@ -14,7 +14,7 @@ description: "Carisoprodol：預測新適應症為失眠 (Insomnia)（證據等�
 # Carisoprodol
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **1** 個
+證據等級: **L5** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 |------|------|
 | 原適應症 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛 |
 | 預測新適應症 | 失眠 (Insomnia) |
-| TxGNN 預測分數 | 99.02% |
-| 證據等級 | L4 |
-| 台灣上市 | ✓ 已上市 |
+| TxGNN 預測分數 | 0.9902 |
+| 證據等級 | L5 |
+| 台灣上市 | 上市中（有效許可證 20 張／共 37 張） |
 | 許可證數 | 37 張（有效單方 11／有效複方 9／已過期 1／已註銷 16） |
 | 建議決策 | Hold |
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pexidartinib
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 215
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Pexidartinib"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "synovium disease", "dermatofibrosarcoma protuberans", "multifocal choroiditis", "malignant giant cell tumor"]
-last_modified_at: 2026-10-15
-description: "Pexidartinib：預測新適應症為HER2 陽性乳癌 (HER2 positive breast carcinoma)（證據等級 L4）。原適應症：無法透過手術或其他治療（如局部放射線治療）改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤（TGCT）成人病人"
+last_modified_at: 2026-10-27
+description: "Pexidartinib：預測新適應症為HER2 陽性乳癌 (HER2 positive breast carcinoma)（證據等級 L5）。原適應症：無法透過手術或其他治療(如局部放射線治療)改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤(TGCT)成人病人"
 ---
 
 # Pexidartinib
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,44 @@ description: "Pexidartinib：預測新適應症為HER2 陽性乳癌 (HER2 positi
 
 </div>
 
-## Pexidartinib：從腱鞘巨細胞瘤到 HER2 陽性乳癌
+## Pexidartinib：CSF1R/KIT/FLT3 酪胺酸激酶抑制劑 → HER2 陽性乳癌 (HER2 positive breast carcinoma)
 {: .text-alpha }
 
 ## 一句話總結
 
-Pexidartinib（台灣商品名：圖拉留膠囊）是一種口服 CSF1R/KIT/FLT3 抑制劑，原本用於治療症狀性腱鞘巨細胞瘤（TGCT）。
-TxGNN 模型預測它可能對 **HER2 陽性乳癌 (HER2 positive breast carcinoma)** 有效，但目前**沒有相關臨床試驗**，僅有 **1 篇**間接的動物實驗文獻（針對 HR+/HER2- 乳癌），證據屬於模型預測加前臨床推論。
-
----
+Pexidartinib 是一種口服的 CSF1R、KIT 與 FLT3 酪胺酸激酶抑制劑。
+TxGNN 模型預測它可能對 **HER2 陽性乳癌 (HER2 positive breast carcinoma)** 有效，
+但目前沒有臨床試驗，僅有 **1 篇**動物研究文獻與機轉推論，且該文獻探討的是 HR+/HER2- 乳癌，並非 HER2 陽性乳癌本身。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 無法透過手術或其他治療（如局部放射線治療）改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤（TGCT）成人病人 |
+| 原適應症 | 無法透過手術或其他治療(如局部放射線治療)改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤(TGCT)成人病人。 |
 | 預測新適應症 | HER2 陽性乳癌 (HER2 positive breast carcinoma) |
-| TxGNN 預測分數 | 99.98% |
-| 證據等級 | L4（僅有前臨床／機轉層級的間接研究） |
-| 台灣上市 | 曾核准上市（唯一許可證已於 2026-02-03 註銷） |
+| TxGNN 預測分數 | 0.9998 |
+| 證據等級 | L5 |
+| 台灣上市 | 未上市（已註銷許可證 1 張／共 1 張） |
 | 許可證數 | 1 張（有效單方 0／有效複方 0／已註銷 1） |
-| 建議決策 | Hold（僅列為研究問題，不建議推進臨床開發） |
-
-<!-- review:begin pexidartinib-license-cancelled-2026-10-03 -->
-
-> **查核更正（2026-10-03）**：原寫「台灣上市／✓ 已上市」。TFDA 登載 pexidartinib 只有一張許可證（衛部藥輸字第028293號「圖拉留膠囊200毫克」），已於 2026-02-03 註銷，目前沒有有效許可證。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
-
-<!-- review:end pexidartinib-license-cancelled-2026-10-03 -->
-
----
+| 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫未收錄 MOA）。根據文獻，Pexidartinib 是口服小分子酪胺酸激酶抑制劑，對 CSF1 受體（CSF1R）、KIT 與帶有 FLT3-ITD 突變的 FLT3 有抑制活性。TGCT 的病因是 CSF1 過度表現，會招募帶有 CSF1R 的巨噬細胞，Pexidartinib 正是阻斷這條訊號。
+目前缺乏詳細的作用機轉資料。根據已知資訊，Pexidartinib 抑制 CSF1R，可能減少腫瘤相關巨噬細胞所造成的免疫抑制。這種機轉在乳癌的腫瘤微環境中理論上可能有意義。
 
-CSF1R 訊號也與腫瘤相關巨噬細胞（TAM）有關，這類細胞可促進腫瘤微環境的免疫抑制。這是預測可延伸到乳癌的主要理論基礎。有一篇 2026 年的動物研究指出，CSF1R 抑制劑可減輕 CDK4/6 抑制劑引起的免疫抑制，並增強 HR+/HER2- 乳癌的抗腫瘤免疫。
+唯一相關的文獻是一項動物研究，探討 CSF1R 抑制劑如何減輕 CDK4/6 抑制劑引起的免疫抑制，對象為 HR+/HER2- 乳癌。這項研究並未直接以 HER2 陽性乳癌為研究對象，也沒有任何 HER2 相關的臨床資料。因此本預測目前僅屬前臨床層級的機轉推論，不能視為已有直接證據。
 
-但須注意：該研究針對的是 HR+/HER2- 亞型，**並非 HER2 陽性乳癌**，且屬動物實驗。目前沒有 HER2 特異性的臨床資料，機轉連結僅是前臨床層級的推論。
-
----
+依據嚴格的證據等級規則，沒有任何研究直接針對預測疾病本身，證據等級只能列為 L5。
 
 ## 臨床試驗證據
 
-目前無相關臨床試驗登記。
-
----
+目前無相關臨床試驗登記
 
 ## 文獻證據
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [41986650](https://pubmed.ncbi.nlm.nih.gov/41986650/) | 2026 | 動物實驗 | Oncogene | CSF1R 抑制劑可減輕 CDK4/6 抑制劑引起的免疫抑制，增強 HR+/HER2- 乳癌的抗腫瘤免疫（非 HER2 陽性亞型） |
-
----
+| [41986650](https://pubmed.ncbi.nlm.nih.gov/41986650/) | 2026 | 動物研究 | Oncogene | CSF1R 抑制劑可減輕 CDK4/6 抑制劑引起的免疫抑制，提升 HR+/HER2- 乳癌的抗腫瘤免疫（研究對象並非 HER2 陽性乳癌） |
 
 ## 台灣上市資訊
 
@@ -102,49 +87,39 @@ CSF1R 訊號也與腫瘤相關巨噬細胞（TAM）有關，這類細胞可促�
 
 <!-- TFDA_LICENSE_TABLE -->
 
----
-
 ## 細胞毒性
 
 | 項目 | 內容 |
 |------|------|
-| 細胞毒性分類 | 標靶藥物（CSF1R/KIT/FLT3 酪胺酸激酶抑制劑） |
+| 細胞毒性分類 | 標靶藥物（酪胺酸激酶抑制劑） |
 | 骨髓抑制風險 | 請參考原廠仿單的警語與注意事項 |
 | 致吐性分級 | 請參考原廠仿單的警語與注意事項 |
-| 監測項目 | 肝功能（文獻顯示有肝臟安全性議題，需長期監測） |
+| 監測項目 | 肝功能（文獻指出長期使用需留意肝臟安全性）、血液學參數 |
 | 處置防護 | 請參考原廠仿單的警語與注意事項 |
-
----
 
 ## 安全性考量
 
-- **肝毒性**：已發表文獻有 Pexidartinib 長期肝臟安全性的專門分析，TGCT 適應症使用期間需密切監測肝功能。
-- **藥物交互作用**：資料庫共收錄 **262 項**交互作用，負擔很高。主要包括：
-  - 嚴重（Major）：Acarbose、Rabeprazole、Omeprazole、Dexlansoprazole（制酸劑／質子幫浦抑制劑類）、Doxycycline、Tetracycline、Minocycline、Clarithromycin、Pioglitazone、Bupropion、Aprepitant、Chenodeoxycholic acid
-  - 中度（Moderate）：Famotidine、Ranitidine、Cimetidine、Metformin、Dexamethasone、Budesonide、Magnesium oxide、Saxagliptin
-- 一項 Phase 1 研究評估過 Pexidartinib 對 CYP2C9、CYP2C19、CYP3A 及 P-gp 受質的交互作用風險。
+- **藥物交互作用**：共查得 262 項交互作用，負擔偏高。主要者包括：
+  - 重大 (Major)：Acarbose、Rabeprazole、Omeprazole、Dexlansoprazole、Doxycycline、Tetracycline、Minocycline、Pioglitazone、Bupropion、Aprepitant、Clarithromycin、Chenodeoxycholic acid
+  - 中等 (Moderate)：Famotidine、Ranitidine、Cimetidine、Metformin、Dexamethasone、Budesonide、Magnesium oxide、Saxagliptin
+- **肝臟安全性**：已有文獻專門評估本藥在腱鞘巨細胞瘤病人的長期肝臟安全性，使用時須嚴密監測肝功能。
 
 其餘警語與禁忌症請參考原廠仿單。
-
----
 
 ## 結論與下一步
 
 **決策：Hold**
 
 **理由：**
-- 預測分數雖高（99.98%），但沒有任何 HER2 陽性乳癌的臨床試驗，唯一相關文獻是針對不同亞型（HR+/HER2-）的動物研究，證據僅止於前臨床推論。
-- Pexidartinib 有肝毒性疑慮與龐大的藥物交互作用負擔，在缺乏療效證據下不宜推進。
+- 目前沒有任何臨床試驗，唯一相關文獻為 HR+/HER2- 乳癌的動物研究，並非 HER2 陽性乳癌，證據等級僅為 L5。
+- 藥物有肝毒性疑慮與高度藥物交互作用負擔，在缺乏療效證據下，不宜直接推進。
 
 **若要推進需要：**
-- 在 HER2 陽性乳癌模型中進行 CSF1R 抑制的前臨床驗證（單用或與抗 HER2 療法併用）
-- 釐清 TAM／CSF1R 在 HER2 陽性乳癌中的角色與生物標記
-- 補齊作用機轉（MOA）資料
-- 若進入臨床階段，需制定肝功能監測與 DDI 管理計畫，並評估風險效益是否適合腫瘤族群
-
----
-
-**補充說明**：排名第 6 的「滑膜癌 (synovium cancer)」與第 10 的「惡性巨細胞瘤 (malignant giant cell tumor)」，其支持文獻主要對應已核准的 TGCT 適應症，並非真正的新適應症，本報告因此以排名第 1 的 HER2 陽性乳癌作為預測新適應症。
+- 針對 HER2 陽性乳癌的前臨床研究（細胞株或動物模型），驗證 CSF1R 抑制的效果
+- 與 HER2 標靶藥物併用的機轉與安全性評估
+- 詳細的藥物作用機轉資料（MOA）
+- 評估肝毒性風險與乳癌病人用藥的風險效益
+- 確認台灣許可證現況與可及性
 
 <!-- review:begin log -->
 
@@ -154,7 +129,7 @@ CSF1R 訊號也與腫瘤相關巨噬細胞（TAM）有關，這類細胞可促�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 「台灣上市 ✓ 已上市」（唯一許可證已註銷） | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-10-03 | 「台灣上市 ✓ 已上市」（唯一許可證已註銷） | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證數寫 2 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
