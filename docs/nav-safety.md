@@ -130,6 +130,7 @@ redirect_from:
     <a href="{{ '/ddi/' | relative_url }}" class="dist-ddi" style="width: 97%;" title="藥物-藥物交互作用：302,516 筆">DDI 30萬</a>
     <a href="{{ '/ddsi/' | relative_url }}" class="dist-ddsi" style="width: 2.7%;" title="藥物-疾病注意事項：8,359 筆"></a>
     <a href="{{ '/dfi/' | relative_url }}" class="dist-dfi" style="width: 0.3%;" title="藥物-食物交互作用：857 筆"></a>
+    <a href="{{ '/dhi/' | relative_url }}" class="dist-dhi" style="width: 0.01%;" title="藥物-草藥交互作用：35 筆"></a>
   </div>
 
   <div class="safety-cards">
