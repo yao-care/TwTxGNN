@@ -1,17 +1,17 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-27T23:22:05.200433+00:00",
-  "count": 54,
+  "fetched_at": "2026-10-28T03:10:21.085269+00:00",
+  "count": 56,
   "news": [
     {
-      "id": "490154b62717",
-      "title": "RSV活躍度高於去年 醫生籲高危群組及早預防 - 晴報 Sky Post",
-      "published": "2026-10-27T19:41:15+00:00",
-      "summary": "RSV活躍度高於去年 醫生籲高危群組及早預防&nbsp;&nbsp;晴報 Sky PostRSV活躍度升 同時感染流感入ICU風險多兩倍 中華醫學會籲長幼接種疫苗&nbsp;&nbsp;星島頭條呼吸道合胞病毒活躍 高危者易現嚴重併發&nbsp;&nbsp;東方日報",
+      "id": "88b9b79b0371",
+      "title": "癌症與中風 哪一個更可怕？ - 報新聞",
+      "published": "2026-10-27T23:22:47+00:00",
+      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;報新聞",
       "sources": [
         {
-          "name": "晴報 Sky Post",
-          "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNMEx5NjhmdjFqQmtuLW9FV0NNd3A0aTJyMzBHY2k4UjZQbTJyN1IwcHE3Sk9leldLMjhWcWdPcXo4SjBxMGYxQUtERnBzM0pwTnc4VWRkRm5Ib0JOR3BQUzI2SFZERFhSOE5YRW1VXzRyeHlJek8zaXcyVERvNVVnQTFIaDFFNnBhVXVmaDQ0d3Q5RFM1Q3F4SlgtdnNvNjE3V3JJbXdnSEx0QWgwRTdRY1BOUkJuMUZHajh6T1dnUFhGRDFXVnBoclQtLU9qaWNFaEF0NlB1UWc3TEhOZmFjVjV3WDNPZTBFd0Rva1d2V25acnpSTEYyUW9NTDF4anQtQ05zVTdvanA2SzBFSGdCT1d1X2FXVldfX1hVUVNrbWw0UlJYVXdwZg?oc=5"
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5"
         }
       ]
     },
@@ -40,14 +40,26 @@
       ]
     },
     {
-      "id": "e15c615e6bcc",
-      "title": "骨質疏鬆不自知 易致脊椎壓迫性骨折 - Yahoo新聞",
-      "published": "2026-10-27T13:08:35+00:00",
-      "summary": "骨質疏鬆不自知 易致脊椎壓迫性骨折&nbsp;&nbsp;Yahoo新聞30歲後小心健康隱形殺手！ 「三高」之外還有「一低」&nbsp;&nbsp;三立新聞過瘦久坐缺營養 骨鬆3風險 光補鈣還不夠&nbsp;&nbsp;自由健康網不是高齡、停經後！ 台灣健檢大數據：40歲骨質流失關鍵期&nbsp;&nbsp;PChome Online 新聞骨肌同管可有效降低跌倒與骨折發生&nbsp;&nbsp;紫荊網",
+      "id": "337a08acdd5a",
+      "title": "10月照顧者月︱香港每3名女性長者1個骨折！5大族群高危患骨質疏鬆 照顧者必讀防跌指南 - 香港經濟日報HKET",
+      "published": "2026-10-27T06:08:22+00:00",
+      "summary": "10月照顧者月︱香港每3名女性長者1個骨折！5大族群高危患骨質疏鬆 照顧者必讀防跌指南&nbsp;&nbsp;香港經濟日報HKET中高齡族不可忽視的「隱形健康殺手」 醫籲別以為多補鈣就好&nbsp;&nbsp;自由健康網不是高齡、停經後！ 台灣健檢大數據：40歲骨質流失關鍵期&nbsp;&nbsp;PChome Online 新聞一跌倒就骨折？醫曝吃藥地雷&nbsp;&nbsp;東森新聞30歲後小心健康隱形殺手！ 「三高」之外還有「一低」&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBsbXh0QVNHUlFWcjVRZE1aTzVnXy1URWpXWG01TlpORkFLWl9zdXhDbEFNTTZDNlBWMnB6R2Jta0ZfcnhqZkFoX3VjZVlDcHkxcGJoMWVJUWZzekV6cE9ZZG1ZakdzMm5ULUhsVUhsUWpkZW9Tc3dSQ3VKNzV5b05vSklVNzFKZFljMk1zRk8xX2tHV0NhM3ZvSS1XYVJTLVA3S0ZZNktjcGxsSHExamhCcnl4Rk5hZDBtTzNRcnUzR1pReUtwRDFwd1doQ2tZa1ZWY0JBMUJsZVBsYTFNVmVzNjNQN3lOTDFqNU9DUjdvcjRlcWVrUWNJTkdJdl8yVGdDdDVQS29vNjF2d05ETldieXU?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxNTlQtZ3Z6SWFvWTJNRzY4Um1GVXh6dWtXa0wxVko5c2xHNFJWQnI3YVIxSDNYVVZJbFN2azNDbTI2LVl1MXZ4Y3BDWGQ0al9CYmZIR1RDVDd6QmYwOG55ckZRRFNuOG1JUG02SENndFNmWVM5NU1TNWVtRzh4M01aT001MjQzZjkwR19WZ194aVBoY25CdzlVQ2NmeUlWR3piLXA2bkZBeWs1MkUtcHlRcXp1YnFmWTRobXZ0QVlSUU9sZUVwbHdqNG5iVGVIWkZNVDNpVEZySzhzRzFCTkQ1M2FqTFRKa1RxUmtsdlBLWGc5b3YtTlMwb2V6RzhUY3o1bnFBVHczOGtwTXhJUUZyQjJDb0h0MVBnb0V0aEpzUE1JUUFpUjJsZWFvWjRRTDBHM2VQQ0xFSWRDMlN0YlV0ZXVMbEIyWVZNbk1IWDZJRlF3QXB6MUdnc2JiamYwZC00ZHc2R3BIcmg3aDdpUUxDVS1IX0JYU1BuV2xjakF2eWFiVERsa1o0clNHRGlHTU9hLW5PSDJLVDdITVBaa2QzTUF1VjBRY24zTmlwektKNjAzNkc3d19ISENHNXVkdDBsZDZjMjc1Q0tKbTJvUnVlazZURUN0NFFqOEdURkMzTmgtYU5STVBaZWNwSWdFMzJuaXVKSVVCV2FYcURpMDZuUi03Zzh1N2tQQkp2VV9leXZLdEZRelRIbnJYZGcyT1p2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6338d78bc45e",
+      "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種 - 新住民全球新聞網",
+      "published": "2026-10-26T01:05:00+00:00",
+      "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "sources": [
+        {
+          "name": "新住民全球新聞網",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
         }
       ]
     },
@@ -60,6 +72,18 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORHdwTFllM0VFa1I5V2hLdW9IdU1OQ200UWwzNlZ2QnR3V0dyem5XUW1aY09jMTFrUmUxUGdYRTF2dmgtM2w3aEtycTFTYVlFWVl0OUZkNW5RRV8zVFc4U3ZFeFVCbDBIYldwZG9qRDVoeEJDSXVBeUc0VGx2UFNGRmt5OFVBZkpxUzJTalVXMjhVanI3QVZZREVvbmh0XzFxWDVBOEs4TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10c74db3c3a0",
+      "title": "感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯 - Yahoo新聞",
+      "published": "2026-10-27T00:03:39+00:00",
+      "summary": "感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5"
         }
       ]
     },
@@ -84,30 +108,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40S3RzMkI0TGtBZGtLSDBjVUJNaVB6LW9JSnAzaW5CS0lCS1NZU3pYY1lwak5SdG9pRVlydjJ2eklpcDRhcGxIbXIzN1FpM1Z6d0MxcENySE8xb2l0a2FLS0VjSFI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6338d78bc45e",
-      "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種 - 新住民全球新聞網",
-      "published": "2026-10-26T01:05:00+00:00",
-      "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
-      "sources": [
-        {
-          "name": "新住民全球新聞網",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10c74db3c3a0",
-      "title": "感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯 - Yahoo新聞",
-      "published": "2026-10-27T00:03:39+00:00",
-      "summary": "感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5"
         }
       ]
     },
@@ -184,14 +184,38 @@
       ]
     },
     {
-      "id": "ed2cf4d7f05d",
-      "title": "保健》心衰竭者罹癌風險高 醫教預防 - Yahoo新聞",
-      "published": "2026-10-26T20:10:00+00:00",
-      "summary": "保健》心衰竭者罹癌風險高 醫教預防&nbsp;&nbsp;Yahoo新聞",
+      "id": "baaa3c6fc483",
+      "title": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人",
+      "published": "2026-10-28T01:31:27+00:00",
+      "summary": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a17e2e4061f1",
+      "title": "免疫老化…長者染流感 中風、心梗風險暴增 - Yahoo新聞",
+      "published": "2026-10-26T22:34:35+00:00",
+      "summary": "免疫老化…長者染流感 中風、心梗風險暴增&nbsp;&nbsp;Yahoo新聞50歲婦染A流2天惡化 葉克膜搶救成功&nbsp;&nbsp;自由健康網流感痊癒就沒事？醫揭長者感染後隱藏風險 心肌梗塞、中風都要留意&nbsp;&nbsp;元氣網流感疫苗該不該打？藥師分析4款流感疫苗差異 一文看懂接種選擇 | 聯合新聞網&nbsp;&nbsp;LINE TODAY健康醫療網》流感不只傷呼吸道！長者恐增心血管風險醫提醒接種評估- 股市爆料同學會&nbsp;&nbsp;CMoney",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQkdHZTlDSlpIWjEtb2M0MGVBd09peTdrb1NfVUVMdzVCanFNem9CYXNzZDMxSTBCbGhGQnJWcDVCc05JZU1DWXYzbDNxakMxRER5MkNwX1hUWG51MEZpbjAxRFZFcG94eFRpUEQzNjRSR0VZZmRiS1VCVTlxc0ZDR1NfUWhMOTNEaGN0dzUxQVliZl9DVlJfcXFScjJ3TDNDSjBWTnBHZlhPMkRXX1d5Z0lfdHV3UTVEa29vVUNod3ZUZkZQNjQtX1FwY2NkZ0Y1OFVnd0dZbDI0V2l1VUxBX3daN2EteGI1WWFtUk9DbXZmYklNU1hyRU1jMEJzY253eHN0bC1ZekVPQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYkJmemtDTVViV3VDSGYzbEpZMjFHLUo5OGJ6MVJ2Q0V1Um1rYWM1T0RWVGd6aEF3U1g4aUJGRG4wYS0wX3FhRnRGVWFleFh5MUxsYjVXTVlQY0xvZEZEWWhBTW5HVkRRcktlaU9SS3pObk9IZnpORlFzaDJBeEd5cmgtOHVCQW16bF9hVUFsQ1ZqRkxnSEFJbWdLQlptd19DWmRrWVJXQUllR0hlbldmSkxHVjRySVZrZHVuc29nT1otNWlIR19jbUZuRlZiM0J6Ui1MdjNhZTB4VEpGbmdxYWRoSThkVl83b3E2QmtQV1FsVkl5N2tHT19LZ0FGZ3BMTTg2TmVYLW5McWE4MVpkLWF4Y2w4SmN5cjdMVzlXc0RvaUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb58e9366330",
+      "title": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活 - 工商時報",
+      "published": "2026-10-27T01:39:00+00:00",
+      "summary": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5"
         }
       ]
     },
@@ -220,18 +244,6 @@
       ]
     },
     {
-      "id": "e6cad1f11e75",
-      "title": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式 - 自由健康網",
-      "published": "2026-10-26T00:37:00+00:00",
-      "summary": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTFdsdTJJNFBRelA3bGtMdlRxeERxSlJTYVluaTVRQlBVNzZhTndkQ1kxcklKTVFHU1VKWjg4SGV3QUo2bVlub3RXUzRHNVFydXJRSjB6UDM0MFRvNjVGM1c1NUw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b04a24e414fb",
       "title": "活得更久之後（上）：看見高齡愛滋感染者的污名與照護缺口 - HIVStoryMEDIA",
       "published": "2026-10-22T01:58:02+00:00",
@@ -240,6 +252,18 @@
         {
           "name": "HIVStoryMEDIA",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1QnNZcC1TbGc2c0JaQTQ3LXd3RWRrVkVJZHJCOXZYYU5BUXJFTWw5VnY4UURkejN0SEszdFpQMEg3bVNIMUh2ek5VMjZOYzdMQ2lJMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6cad1f11e75",
+      "title": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式 - 自由健康網",
+      "published": "2026-10-26T00:37:00+00:00",
+      "summary": "健康網》剛吃完飯 孩子又餓了！營養師提點心公式&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTFdsdTJJNFBRelA3bGtMdlRxeERxSlJTYVluaTVRQlBVNzZhTndkQ1kxcklKTVFHU1VKWjg4SGV3QUo2bVlub3RXUzRHNVFydXJRSjB6UDM0MFRvNjVGM1c1NUw?oc=5"
         }
       ]
     },
@@ -412,18 +436,6 @@
       ]
     },
     {
-      "id": "4f6c92bc607b",
-      "title": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫 - 香港01",
-      "published": "2026-10-27T09:00:49+00:00",
-      "summary": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPSlZUcXdKRDRVaHR6QVpSMnFhWE12ZG10Nm1iWW1nc3BLaEl6SmFlaHdPeVNrdHp1SEZ2bGtSS2dCUDYtUkFaVlJkUVhmQXp2OVFBZjZFb0Z0RnFabnNTRFA1aUxoZFo5RklLZWFSU1NDSFVwUjVBLThmR18zUi1MdW9UWGtzeENEMVZUUGU0SS1OelUyRzY4RE92NFlvRjBjMnBSOWs4ZGUwTjB5Z0RDRDgzN203TUdNNlZaYXh5RHpmcEJld1BZazdTalA5aHAyTEVmek5FemE2TXhsMWZyOWtLbGxJWS1oM3hrN3k3NHlScS1JdFJrZmNJQnNVaVJPMW1kWF9WaDg2aXNETWlTVkU5UTFjcVkyYTJDb0ZfbktRczc2bjk1R3NrbHRoX1JRWXc2RHVaOXBPYjFRTWF3Y1F3Z2hnZlR6UlJ1NER4VFRVQUxtOWlvMUhORUVwWHZwUHE5YmFSaDNjaHRBaFFXYWEzTDZ6VjZhRFRyZG5XVmEzYUpLb0JYdUdraGZwR0tkOXhjNTdkaW5RWlFTTkRHeTVKbjBSMlFLdkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e9f61a60edc8",
       "title": "夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點 - 明報新聞網",
       "published": "2026-10-27T10:20:47+00:00",
@@ -432,6 +444,18 @@
         {
           "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPYjZOZ0ZQNXZWZDI2SUZKSFd1eWVKV3JkRURMWGlUM0V1YWJJdE9jR3M3WXBkZHY0Z2gzR0JGLVI3WE9vN0wzTGFmSGFTSk9VVFUxZkRLU1lVNkVZaTNVbVJfT29faTU3ZjliQllnVW5ZQlNKNUd1VnRGdmF2dDlUQ2x4bldjUm9iYUF1cFRsQU1oT3N0WUZMaGdZbHM1emwwVlJsYU9tZjBGV3pCSHNGR1JzckRyTW5vc3VmVEp3cmU4UjJBZk9iUlZKNW9lT2dMdmlUZF9Ob0x5VmNRZmFpVkt2TjZTa3BkVTdJdFZfaTBJQTlCMno2QzFDYzFWdU1VZlJ0cGhwSUo3aGhCZWxsZzdBb1hKUXQxSjBTTVMwbFZ3V3E1Uk1rUHdhLUpUdTZPSk9SQkZ3WS03Y3lvMmJ6ZnpuREY2dEtobUZnd3dONE5sdkJsVGt4NFRjbU5PekUyVnFxbC1NS1pCUUZGbWdLSl9UNDcxV0xYdHI4VXRDVWFNODhuV2FwMzY1TmNHTFpzMl9fWmVmcU5aVjYxX3VqSVNJRGNHc1VuY1pIOVgxcHZCMFZ6Y0ZUdmNENWVfNTJhMmdpU24xVGMtLS1vdzZYZ3RWcHN6UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f6c92bc607b",
+      "title": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫 - 香港01",
+      "published": "2026-10-27T09:00:49+00:00",
+      "summary": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPSlZUcXdKRDRVaHR6QVpSMnFhWE12ZG10Nm1iWW1nc3BLaEl6SmFlaHdPeVNrdHp1SEZ2bGtSS2dCUDYtUkFaVlJkUVhmQXp2OVFBZjZFb0Z0RnFabnNTRFA1aUxoZFo5RklLZWFSU1NDSFVwUjVBLThmR18zUi1MdW9UWGtzeENEMVZUUGU0SS1OelUyRzY4RE92NFlvRjBjMnBSOWs4ZGUwTjB5Z0RDRDgzN203TUdNNlZaYXh5RHpmcEJld1BZazdTalA5aHAyTEVmek5FemE2TXhsMWZyOWtLbGxJWS1oM3hrN3k3NHlScS1JdFJrZmNJQnNVaVJPMW1kWF9WaDg2aXNETWlTVkU5UTFjcVkyYTJDb0ZfbktRczc2bjk1R3NrbHRoX1JRWXc2RHVaOXBPYjFRTWF3Y1F3Z2hnZlR6UlJ1NER4VFRVQUxtOWlvMUhORUVwWHZwUHE5YmFSaDNjaHRBaFFXYWEzTDZ6VjZhRFRyZG5XVmEzYUpLb0JYdUdraGZwR0tkOXhjNTdkaW5RWlFTTkRHeTVKbjBSMlFLdkE?oc=5"
         }
       ]
     },
@@ -468,18 +492,6 @@
         {
           "name": "東方新地",
           "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTk5fREJITkc3N040eHpWM1FwZWFxLXBiNmtmUkloVGdTMTBJRG9VWjBvVE5Od2kzOHhjb3FQbUtySHZXWThMMDhINUhuSjEtNWZJU0h2Unh2M2w3eXJnbHlXUlZjbE5iUm54clBxazFmNW1fRWNqWUJRbi05VmpKWWFQYVhTRklUcl9nS3dkYUxkU0xWUXNkeWZIQkM2bzFlU000WjROVkxXbFBfY2JMeVVFakpVb01nd2VNdWFuUXhQRVRlUUdnOXhxQTI1ZVpERXk1R21wZHpWSThrblJfcWpDekQ3b212dUUybC1DRjlKOXFadFBIZC1SWVNXNGNDRmhwQUkybXd3YVVXenNySG9Wcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0171e6d4e87",
-      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
-      "published": "2026-10-22T08:32:45+00:00",
-      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
-      "sources": [
-        {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
         }
       ]
     },
@@ -588,6 +600,18 @@
         {
           "name": "美南新聞",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HVVZScFlkRTllSXRRQkRiVm1aNFo5TlVIdDM1cFk2S19VMXFYQkZiOUkwdVVDMW5hSFdmRE9CWGJ6X3ZLY3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0171e6d4e87",
+      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
+      "published": "2026-10-22T08:32:45+00:00",
+      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
+      "sources": [
+        {
+          "name": "healthyD",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
         }
       ]
     },

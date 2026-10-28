@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速。預測適應症 10 個。"
 permalink: /news/ouabain/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Ouabain 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,23 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
+
+2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
+
+---
+
+### [免疫老化…長者染流感 中風、心梗風險暴增](https://news.google.com/rss/articles/CBMiowJBVV95cUxQYkJmemtDTVViV3VDSGYzbEpZMjFHLUo5OGJ6MVJ2Q0V1Um1rYWM1T0RWVGd6aEF3U1g4aUJGRG4wYS0wX3FhRnRGVWFleFh5MUxsYjVXTVlQY0xvZEZEWWhBTW5HVkRRcktlaU9SS3pObk9IZnpORlFzaDJBeEd5cmgtOHVCQW16bF9hVUFsQ1ZqRkxnSEFJbWdLQlptd19DWmRrWVJXQUllR0hlbldmSkxHVjRySVZrZHVuc29nT1otNWlIR19jbUZuRlZiM0J6Ui1MdjNhZTB4VEpGbmdxYWRoSThkVl83b3E2QmtQV1FsVkl5N2tHT19LZ0FGZ3BMTTg2TmVYLW5McWE4MVpkLWF4Y2w4SmN5cjdMVzlXc0RvaUE?oc=5)
+
+2026-10-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiowJBVV95cUxQYkJmemtDTVViV3VDSGYzbEpZMjFHLUo5OGJ6MVJ2Q0V1Um1rYWM1T0RWVGd6aEF3U1g4aUJGRG4wYS0wX3FhRnRGVWFleFh5MUxsYjVXTVlQY0xvZEZEWWhBTW5HVkRRcktlaU9SS3pObk9IZnpORlFzaDJBeEd5cmgtOHVCQW16bF9hVUFsQ1ZqRkxnSEFJbWdLQlptd19DWmRrWVJXQUllR0hlbldmSkxHVjRySVZrZHVuc29nT1otNWlIR19jbUZuRlZiM0J6Ui1MdjNhZTB4VEpGbmdxYWRoSThkVl83b3E2QmtQV1FsVkl5N2tHT19LZ0FGZ3BMTTg2TmVYLW5McWE4MVpkLWF4Y2w4SmN5cjdMVzlXc0RvaUE?oc=5)
+
+---
 
 ### [疲倦｜50歲男異常疲倦2周 揭血管阻塞險心肌梗塞 醫生揭5種疲倦不可忽視](https://news.google.com/rss/articles/CBMixwNBVV95cUxNZmtOV2V4a0UtY0RxQlVFZjh1ZXlqZ2l4ckk4WlAtMW12YzgyeHZXenhUdjBVOHJXclNNajdYXzRtSFp6VHlkbnpnR3FkY0lFRDNFYXhGRVFJUFo3bkEzeGpFbTRneVB0aV9RSm9XeUpJdmhuUDlSV0ZaQzFISnpTTkZNNnFNaFBVNkFJcjI4WThGdENYdXpKS29DanNBc29IZHpscUFDWGRBSnVLMWpjMTdOeWpBaW5iOUVWMy1PZ1dyOEI2VTIxdjNBZG9NTXdmRmlsMzh4Y1dtbTYxNFFIeFo1c1RDTkxzZ3Q5NEdGVFFQT0dZRGd3bXZwUS04VzEzNVpwNDV2M2hUVTNjekdCTVV1VkZjbk02SmdpM1NvSFFIQ3FRLWpBME5hNnJUTkxleE13a1AzX25oc1BJSTFnVzhJWkxlQWtjYmVMQllmNk9qaGhpUHVHemtJWWlhVS1RUG5QNlZtOWlBWlAwcU85SHRDYmR5M0ZJVlJ2aWtQd0x2aFFDX2ctZ1hhQjQzRlY0NzVUT0tEWjBfMFdfRW5tbmNZQXpWVXUyekRXaVpGNXQ5bnVUWTdtSzJmWHZvV2JQcnozMWlCdw?oc=5)
 

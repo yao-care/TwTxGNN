@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：卵巢癌、乳癌、非小細胞肺癌、愛滋病相關卡波西氏肉瘤；白蛋白結合型另核准胰腺癌。預測適應症 10 個。"
 permalink: /news/paclitaxel/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Paclitaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,23 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
+
+### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
+
+2026-10-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+
+來源: [Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
+
+---
+
+### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+
+2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
+
+來源: [報新聞](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+
+---
 
 ### [6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5)
 
@@ -53,19 +69,27 @@ last_modified_at: 2026-10-27
 
 ---
 
-### [骨質疏鬆不自知 易致脊椎壓迫性骨折](https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBsbXh0QVNHUlFWcjVRZE1aTzVnXy1URWpXWG01TlpORkFLWl9zdXhDbEFNTTZDNlBWMnB6R2Jta0ZfcnhqZkFoX3VjZVlDcHkxcGJoMWVJUWZzekV6cE9ZZG1ZakdzMm5ULUhsVUhsUWpkZW9Tc3dSQ3VKNzV5b05vSklVNzFKZFljMk1zRk8xX2tHV0NhM3ZvSS1XYVJTLVA3S0ZZNktjcGxsSHExamhCcnl4Rk5hZDBtTzNRcnUzR1pReUtwRDFwd1doQ2tZa1ZWY0JBMUJsZVBsYTFNVmVzNjNQN3lOTDFqNU9DUjdvcjRlcWVrUWNJTkdJdl8yVGdDdDVQS29vNjF2d05ETldieXU?oc=5)
-
-2026-10-27 <span class="news-indication-tag">停經</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMilAJBVV95cUxQVDBsbXh0QVNHUlFWcjVRZE1aTzVnXy1URWpXWG01TlpORkFLWl9zdXhDbEFNTTZDNlBWMnB6R2Jta0ZfcnhqZkFoX3VjZVlDcHkxcGJoMWVJUWZzekV6cE9ZZG1ZakdzMm5ULUhsVUhsUWpkZW9Tc3dSQ3VKNzV5b05vSklVNzFKZFljMk1zRk8xX2tHV0NhM3ZvSS1XYVJTLVA3S0ZZNktjcGxsSHExamhCcnl4Rk5hZDBtTzNRcnUzR1pReUtwRDFwd1doQ2tZa1ZWY0JBMUJsZVBsYTFNVmVzNjNQN3lOTDFqNU9DUjdvcjRlcWVrUWNJTkdJdl8yVGdDdDVQS29vNjF2d05ETldieXU?oc=5)
-
----
-
 ### [「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思](https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5)
 
 2026-10-27 <span class="news-indication-tag">乳腺癌</span>
 
 來源: [shemom.com](https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5)
+
+---
+
+### [10月照顧者月︱香港每3名女性長者1個骨折！5大族群高危患骨質疏鬆 照顧者必讀防跌指南](https://news.google.com/rss/articles/CBMioARBVV95cUxNTlQtZ3Z6SWFvWTJNRzY4Um1GVXh6dWtXa0wxVko5c2xHNFJWQnI3YVIxSDNYVVZJbFN2azNDbTI2LVl1MXZ4Y3BDWGQ0al9CYmZIR1RDVDd6QmYwOG55ckZRRFNuOG1JUG02SENndFNmWVM5NU1TNWVtRzh4M01aT001MjQzZjkwR19WZ194aVBoY25CdzlVQ2NmeUlWR3piLXA2bkZBeWs1MkUtcHlRcXp1YnFmWTRobXZ0QVlSUU9sZUVwbHdqNG5iVGVIWkZNVDNpVEZySzhzRzFCTkQ1M2FqTFRKa1RxUmtsdlBLWGc5b3YtTlMwb2V6RzhUY3o1bnFBVHczOGtwTXhJUUZyQjJDb0h0MVBnb0V0aEpzUE1JUUFpUjJsZWFvWjRRTDBHM2VQQ0xFSWRDMlN0YlV0ZXVMbEIyWVZNbk1IWDZJRlF3QXB6MUdnc2JiamYwZC00ZHc2R3BIcmg3aDdpUUxDVS1IX0JYU1BuV2xjakF2eWFiVERsa1o0clNHRGlHTU9hLW5PSDJLVDdITVBaa2QzTUF1VjBRY24zTmlwektKNjAzNkc3d19ISENHNXVkdDBsZDZjMjc1Q0tKbTJvUnVlazZURUN0NFFqOEdURkMzTmgtYU5STVBaZWNwSWdFMzJuaXVKSVVCV2FYcURpMDZuUi03Zzh1N2tQQkp2VV9leXZLdEZRelRIbnJYZGcyT1p2?oc=5)
+
+2026-10-27 <span class="news-indication-tag">停經</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMioARBVV95cUxNTlQtZ3Z6SWFvWTJNRzY4Um1GVXh6dWtXa0wxVko5c2xHNFJWQnI3YVIxSDNYVVZJbFN2azNDbTI2LVl1MXZ4Y3BDWGQ0al9CYmZIR1RDVDd6QmYwOG55ckZRRFNuOG1JUG02SENndFNmWVM5NU1TNWVtRzh4M01aT001MjQzZjkwR19WZ194aVBoY25CdzlVQ2NmeUlWR3piLXA2bkZBeWs1MkUtcHlRcXp1YnFmWTRobXZ0QVlSUU9sZUVwbHdqNG5iVGVIWkZNVDNpVEZySzhzRzFCTkQ1M2FqTFRKa1RxUmtsdlBLWGc5b3YtTlMwb2V6RzhUY3o1bnFBVHczOGtwTXhJUUZyQjJDb0h0MVBnb0V0aEpzUE1JUUFpUjJsZWFvWjRRTDBHM2VQQ0xFSWRDMlN0YlV0ZXVMbEIyWVZNbk1IWDZJRlF3QXB6MUdnc2JiamYwZC00ZHc2R3BIcmg3aDdpUUxDVS1IX0JYU1BuV2xjakF2eWFiVERsa1o0clNHRGlHTU9hLW5PSDJLVDdITVBaa2QzTUF1VjBRY24zTmlwektKNjAzNkc3d19ISENHNXVkdDBsZDZjMjc1Q0tKbTJvUnVlazZURUN0NFFqOEdURkMzTmgtYU5STVBaZWNwSWdFMzJuaXVKSVVCV2FYcURpMDZuUi03Zzh1N2tQQkp2VV9leXZLdEZRelRIbnJYZGcyT1p2?oc=5)
+
+---
+
+### [心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
+
+2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
 
 ---
 
