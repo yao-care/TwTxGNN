@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-28T16:53:54.557251+00:00",
+  "last_updated": "2026-10-28T21:26:38.968776+00:00",
   "total_count": 54,
   "matched_count": 20,
   "news": [
+    {
+      "id": "f62aa07e9547",
+      "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病",
+      "published": "2026-10-28T19:00:00+00:00",
+      "summary": "老鼠出沒污染食物環境 糞便唾液傳播疾病&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlBwR28zcWw0SE14UTJ4bUxfcXE4MGJjaHI3cFBFdHFkcU1PbGpyUlNRUWh4TXhGVG5zemw5T21ERlhPNDhOUXJVRUxacW1wcTdrSUZMcjFJSXV1SE9BaThIcmVwTkJHcW80b21kOXFjMmFpdXJ2VkFjU0ZVZkZ3MnNESklMV0dGNktselNPVDlLcmZpVzUtTHczMWJlTEEwM1J2ZmdOcXFqN0w4M1dmN0ZUQmJ0Y1lBVFpFUnZCemZBUDNwWVVXR2YxQU5LLWk3MXF6b3R0YkJEcG0tSklNeWhuRXg3NXM4RlpfdTRyeXRVRkJNeDRzak8zc2l6OEZwTVBmVTVaZ1hQQ2NqLWFhVFFubGloS2NqZm1kU0hNb1pMVVNLMXVtdTctdE0wY2hxRF91d2haaGk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "08a8e3e5ffa9",
       "title": "骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當",
@@ -1392,6 +1405,32 @@
       "matched_keywords": []
     },
     {
+      "id": "6ac0ef044e5e",
+      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - FTNN 新聞網",
+      "published": "2026-10-27T07:16:00+00:00",
+      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;FTNN 新聞網",
+      "sources": [
+        {
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRmZta3NJUkpfajRPM01pRkprQTB3LVc4ZGZXYWhEX2pmMWdWMG5VeThweUJlM1Z3RDFHbXpyZ0VrYnltdlN2SkFKaw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d88adfb84cd3",
       "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉",
       "published": "2026-10-27T07:12:00+00:00",
@@ -1451,32 +1490,6 @@
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "329b52c7840f",
-      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看",
-      "published": "2026-10-27T01:45:19+00:00",
-      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
             }
           ]
         }
@@ -1806,7 +1819,7 @@
       "id": "a983e53cef27",
       "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例",
       "published": "2026-10-26T11:16:17+00:00",
-      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台全球首宗 人類感染沙蒙達病毒&nbsp;&nbsp;Singtaousa法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治&nbsp;&nbsp;香港電台新聞網",
+      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY全球首宗 人類感染沙蒙達病毒&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "希望之聲電台",
@@ -1868,14 +1881,14 @@
       "matched_keywords": []
     },
     {
-      "id": "9a5e63c470c2",
+      "id": "6338d78bc45e",
       "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種",
       "published": "2026-10-26T01:05:00+00:00",
       "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
       "sources": [
         {
           "name": "新住民全球新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWZ1V1dxTkY4QmpKcm9VUi02Q01Za3dZZGhLM1IxWWtEUEhSRkRvNlNCRDVvWmhvRGQ0QlEyalB6MEpBeEpTVkFTZS1UNEN5M0FpRGxtbm92NHRDMWxncFNFS1NaMUt1a1Z2a29WcjFIMTVOTmtHdXBGN1FxX3ZXY1V0LVY1d2JqS1V0MnMwOWZBcXpzNUdsOHdwUnBLT0ludDBtMGFMRnEwQQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2544,19 +2557,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc2ZjbzlHdThrektNUXlyVFFCdU5xVTlPTDhnMFRMYmxRTnFMR2E1V2dNc2VFLWNSTDlDMDBrRFNzTTVEWXFvRU1PNFdkVFZhVDQ1b1F5NURoTnNSa1JxYjQ2aWZ4R3p2RDBiLXBQd0ZsdnE3bnZDdmZTU0VCZWxtZ0E4bHFhX05sdElYNG5OQm1OTHB2SmJzdkRtT3AwRkE2ZDlJaUI3UjdwcTBMMTNERUZnR3pKc1FSSFpVakR6ZDRNdS1tZUR5X1h0c2QwSnBDMUhRUTkteTMwVU5YMFNUc252TldqclU1ZHRyR2ln?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "30ac3b5de44d",
-      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化",
-      "published": "2026-10-23T01:00:00+00:00",
-      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81NWZCTkNBQXFweEZHX2QtRmY0RWktcXVGTFJUc1RaQlhIVTBkYnItdnk1TndNS3BkX295RG41NS1lVG14VTRlajVxWnBUYWs3MGc?oc=5"
         }
       ],
       "matched_keywords": []

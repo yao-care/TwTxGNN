@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T16:53:54.595910+00:00",
+  "generated": "2026-10-28T21:26:39.008795+00:00",
   "count": 20,
   "news": [
     {
@@ -1280,6 +1280,31 @@
       ]
     },
     {
+      "id": "6ac0ef044e5e",
+      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - FTNN 新聞網",
+      "published": "2026-10-27T07:16:00+00:00",
+      "sources": [
+        {
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRmZta3NJUkpfajRPM01pRkprQTB3LVc4ZGZXYWhEX2pmMWdWMG5VeThweUJlM1Z3RDFHbXpyZ0VrYnltdlN2SkFKaw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d8a0bd196c29",
       "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
       "published": "2026-10-27T04:03:34+00:00",
@@ -1299,31 +1324,6 @@
               "slug": "dehydrocholic-acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "329b52c7840f",
-      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看",
-      "published": "2026-10-27T01:45:19+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
             }
           ]
         }
