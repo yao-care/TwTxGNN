@@ -82,19 +82,19 @@ last_modified_at: 2026-10-28
 
 ---
 
+### [吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看](https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5)
+
+2026-10-27 <span class="news-indication-tag">失智</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5)
+
+---
+
 ### [心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
 
 2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
-
----
-
-### [吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5)
-
-2026-10-27 <span class="news-indication-tag">失智</span>
-
-來源: [鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5)
 
 ---
 

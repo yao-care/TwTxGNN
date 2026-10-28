@@ -1,8 +1,49 @@
 {
-  "last_updated": "2026-10-28T10:10:31.658024+00:00",
-  "total_count": 53,
-  "matched_count": 19,
+  "last_updated": "2026-10-28T16:53:54.557251+00:00",
+  "total_count": 54,
+  "matched_count": 20,
   "news": [
+    {
+      "id": "08a8e3e5ffa9",
+      "title": "骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當",
+      "published": "2026-10-28T16:01:06+00:00",
+      "summary": "骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當&nbsp;&nbsp;Yahoo新聞中高齡族不可忽視的「隱形健康殺手」 醫籲別以為多補鈣就好&nbsp;&nbsp;自由健康網不是高齡、停經後！ 台灣健檢大數據：40歲骨質流失關鍵期- 健康新聞&nbsp;&nbsp;PChome Online 新聞骨肌同管可有效降低跌倒與骨折發生&nbsp;&nbsp;紫荊網30歲後小心健康隱形殺手！ 「三高」之外還有「一低」&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQbHV5dkdpUjZCZ0diRml6VEx0THk2QXNwV29jUVE4VHRGelpYb19oNTBuYmZnd3U3VVJCUHVDNmV2dDNEVlh1czZlakNxdlVZS3BlaG94WjdwRVlQLTdrSGFUZWZSeEdFaVlLMVRBTTNiZk5oOVQtTFFsR01TQ2RMcUEySlUxLTllbm92Zkh2aWMtUjBLS0JPQjQ3NXo5d3RqVnZiay1jbUJIYjRNNkhGalBXc3VhU2FkNmxqTkxfbktQcU5YRkdaTVNQemxVWWotWXVISFRHTmpUd1V6TFROSEpuVUcyZlBSOENPelJIMDNGZ29ta1VkR2l6NHJDejNYcGdmbTU5VkoyazY3QmNoTmpwMjFTV1gxb1BvZ2hQaTNRWnZsQl82OVI5UFlZTjRQbTdqWGlCNEphMFgxRlpTWlN3S3lMTHZBczgzOUlaTUhPQUFNeG4ySHNSU1k3Y3V5ZXdqdEN1ZFdtaWFCZjhjblRXWnE1eldxLWc3Uk5MeTlXdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "be13f59edc7a",
       "title": "每8例癌症就有1例與感染有關！研究揭5大致癌感染源，如何降低風險？",
@@ -1217,6 +1258,32 @@
       ]
     },
     {
+      "id": "0ba7c34046b2",
+      "title": "抗老醫學新里程碑？梅約診所發現對抗「殭屍細胞」的新策略",
+      "published": "2026-10-27T11:40:43+00:00",
+      "summary": "抗老醫學新里程碑？梅約診所發現對抗「殭屍細胞」的新策略&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4M2RJUnVpZWlzM0FWZDR3Xzc3NWdxSl80LV9GMVM3dFQzdVQ4ek1CR3ZvMDRqdmQ3R1NfMUpIV3FTRUpmdTdpaHF5dV9GUDlOX3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "12ef7d829e4f",
+      "title": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK",
+      "published": "2026-10-27T10:20:47+00:00",
+      "summary": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK&nbsp;&nbsp;明報新聞網夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYUVXVF9OMHluZmZabUlhRVQ2Y0VDVVNWOElpMjJmOWtyVGo3SkJlZ194X2M0RUtzbTB3YUc5b0FaeVJwUS1wUEg3b1JENnlHdWQ1OHlWVll2VWxUMjVmSWxTT21GX2JjZklQdHhxb295SV93N0pSYnVIbFFwRU10XzB4dFJsQjM1QTNPZDBnYzdxeHFKb2xHNg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "316447384681",
       "title": "「揀錯沐浴露、洗頭水會中招？」—— 每日沖涼用緊嘅「香氣」，竟然係乳腺癌嘅催化劑？即了解9大迷思",
       "published": "2026-10-27T09:02:54+00:00",
@@ -1312,19 +1379,6 @@
       "matched_keywords": []
     },
     {
-      "id": "fce630ba38cb",
-      "title": "破解「殭屍細胞」隱身術，小鼠發炎與代謝功能大幅改善 | 科技新報 - LINE TODAY",
-      "published": "2026-10-27T08:42:48+00:00",
-      "summary": "破解「殭屍細胞」隱身術，小鼠發炎與代謝功能大幅改善 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQVRUU0x1N0dFdDViZnNybTBHai1YTkdSaUxnSTVXRS00dnk4ZE9yUFlWX2dtX2o0V0JNNWNoSkZQOEp6eUpldWtkbTdHUlZNM29UTFRR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6240e6cf589c",
       "title": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具",
       "published": "2026-10-27T07:40:43+00:00",
@@ -1351,14 +1405,14 @@
       "matched_keywords": []
     },
     {
-      "id": "620e29af9b74",
+      "id": "ac3233a8868e",
       "title": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了",
-      "published": "2026-10-27T07:00:00+00:00",
-      "summary": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了&nbsp;&nbsp;Yahoo新聞",
+      "published": "2026-10-27T07:01:41+00:00",
+      "summary": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPRExjc05LLUwyM0FaUW9SendfUUMxMXhfZnhhNkxSQUt4ZlVXdERsNG15YjBmM3RJdnk3T1FGMFlPb2xCTHhyR01nSV94enZXZHoxdkJTVGNQV1BVREVIc29rb3F3NkFKQnJXSlBhTW5aRXZJdmNQR2hRMDVwdGcxUDFfaWdwaG1KTDQwVHE4MUhxOTI0aHVsWHZ6QlZyQWJ0eC1aeUw2YTdYdlM3MXhLMDJpdmRnSEQ5X0ZzYlFiLVRLUmlKa2dLcmliVFN4cnlic0xFZ2ZkelBBUHlzUm40cXQ0UGlwU1NnOUFNT2U0TGdkcTQ3dUxJeko2TkMzbDluUXUwMGp2UDBoZXZCY2I5aTgzcDFxd2p6NDk3NFJjYXhWV0s1M2paLW5NaUpqRmx2czc1M2pfZEZ4Vk1YbVNQa3Q3X1FoYVlUSnp1NW5EaXRVZE95ZjFWNEJxbWZVUXl1bHBmY2pB?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDTHJFRFMwUFJZODR3SVlXd3Nwai1GRXlzek1lRm41aHY2OXJyRzNkV2NhcWo0dHc3akVKelAxMHZxanlSM1NLR1ZSc0M?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1397,6 +1451,32 @@
               "slug": "dehydrocholic_acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "329b52c7840f",
+      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看",
+      "published": "2026-10-27T01:45:19+00:00",
+      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
             }
           ]
         }
@@ -1671,32 +1751,6 @@
       ]
     },
     {
-      "id": "00ac787b7bd2",
-      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media",
-      "published": "2026-10-27T01:30:00+00:00",
-      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4db1f5aad91c",
       "title": "感冒、流感康復後要換牙刷防二度感染嗎？醫：做好3件事更重要",
       "published": "2026-10-27T00:10:40+00:00",
@@ -1814,14 +1868,14 @@
       "matched_keywords": []
     },
     {
-      "id": "6338d78bc45e",
+      "id": "9a5e63c470c2",
       "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種",
       "published": "2026-10-26T01:05:00+00:00",
       "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
       "sources": [
         {
           "name": "新住民全球新聞網",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWZ1V1dxTkY4QmpKcm9VUi02Q01Za3dZZGhLM1IxWWtEUEhSRkRvNlNCRDVvWmhvRGQ0QlEyalB6MEpBeEpTVkFTZS1UNEN5M0FpRGxtbm92NHRDMWxncFNFS1NaMUt1a1Z2a29WcjFIMTVOTmtHdXBGN1FxX3ZXY1V0LVY1d2JqS1V0MnMwOWZBcXpzNUdsOHdwUnBLT0ludDBtMGFMRnEwQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2495,6 +2549,19 @@
       "matched_keywords": []
     },
     {
+      "id": "30ac3b5de44d",
+      "title": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化",
+      "published": "2026-10-23T01:00:00+00:00",
+      "summary": "脖子痛、心悸是甲狀腺炎嗎？醫解析症狀與甲狀腺功能變化&nbsp;&nbsp;蕃新聞",
+      "sources": [
+        {
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81NWZCTkNBQXFweEZHX2QtRmY0RWktcXVGTFJUc1RaQlhIVTBkYnItdnk1TndNS3BkX295RG41NS1lVG14VTRlajVxWnBUYWs3MGc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f0171e6d4e87",
       "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」",
       "published": "2026-10-22T08:32:45+00:00",
@@ -2790,19 +2857,6 @@
       ]
     },
     {
-      "id": "b83061933ad0",
-      "title": "想活得久？3長壽專家公開私房食譜 5種食物周周必吃",
-      "published": "2026-10-22T06:41:51+00:00",
-      "summary": "想活得久？3長壽專家公開私房食譜 5種食物周周必吃&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNdlVzbGhzQVBEM0VTc3EzX0tFTU9hbmdTS0xpRG0yUlpWS2lqck1VSmgtTk9zRkkzM1ZLM2VGN2pKZE1Wa2ZLNmU4SkwtckJDMVp2Q1ctbVAzRTIzZ1dQelQ1bHluUldPdjltWWF0VWt4emtBNzd5a2V0VkNuR2l4cVA4c29yZ3AzX2xpZUo3ZTRsYUZrWTVIZHNUalZFYWotbmZfQ3ZWczJRN29XajZTWW9MTEo0VmxPMXctdmd0YzJZX241dXdEYmVTalBhR1pidnVCX0ZhTEFjd2I4WW5xNXNLa2RPNnVETEQtYWhmeVpuemtqUnVGLXJQdkRVa0ppWHVmRFBscHRBOWdocWhaRHZ4Zm5WcEc1dVVhZTBSM2diR2lPZDFDQ200YTYwRV8tWFVUR09YNXhvMGNFc0l4cmQ1Z29YSnlFcjZpSFVYX1ZId2xE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "61c0b21a4eb2",
       "title": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站",
       "published": "2026-10-22T01:43:55+00:00",
@@ -2811,19 +2865,6 @@
         {
           "name": "CCUE",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7c116d9946f9",
-      "title": "12歲女童染甲流後併發敗血性休克不治 衞生防護中心籲市民盡快接種疫苗",
-      "published": "2026-10-22T01:29:01+00:00",
-      "summary": "12歲女童染甲流後併發敗血性休克不治 衞生防護中心籲市民盡快接種疫苗&nbsp;&nbsp;Yahoo夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感｜12歲女童併發多重器官衰竭不治 今年第二宗兒童感染後死亡&nbsp;&nbsp;香港01流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxNU0RQMkxLRmEzYko2UjZiLXdfbGVPRkNMS3dQbUVJcVFLYjV3bUhqdlk1Zk12RGtEV0tRRndMdUkxTVNYcnFXZXh1bGVsNDFqOEE0OGVCOGV5Z1E4UTUxVEtfT3lVRF9UVTd2clBDMlo0dE0wbVBJaUkxb3VQTzdpb1FIbk92ZC1sNGdmNUNqUzRONmh4UVFjS3VBNFZMeVk5VnV0blNHWGllU3V4QTNtZmFfRmJqbjZiU29DeHpuVXVuTmMtTV9wWEgtZEVTbGYzMXVqVThnU1pXVmpSTDdOQ1RRM3B1RmlFdkljZkdKc3BrQU5hSTdhbmNkbHZaamFqZGZ6b2hTWWtRTW05S2hRS0owc2c5d2VWNWlPSzNLdmg1aXdFYjF1WXJ2LUw1cXd4cENQMmYxZVN5UGhzR3R1ZnlJakx4MzhNQVM0YVRBMHZqNXNFWWsxeTFWVzhkdGJSaTF2Rnd2RDJiX0NETDFNUHFEMmZfNTJXbE0weEtFNFdKYm5scFNxSlBrNTlSUFZSbmxEUV96SXJrV0llS1VQV2NKQ25kZXBOM0FkREZDWnE1VGJBbTd2Q1hxRWxwTm93S1p4cGtuQWVzTEE?oc=5"
         }
       ],
       "matched_keywords": []

@@ -1,7 +1,47 @@
 {
-  "generated": "2026-10-28T10:10:31.710970+00:00",
-  "count": 19,
+  "generated": "2026-10-28T16:53:54.595910+00:00",
+  "count": 20,
   "news": [
+    {
+      "id": "08a8e3e5ffa9",
+      "title": "骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當",
+      "published": "2026-10-28T16:01:06+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQbHV5dkdpUjZCZ0diRml6VEx0THk2QXNwV29jUVE4VHRGelpYb19oNTBuYmZnd3U3VVJCUHVDNmV2dDNEVlh1czZlakNxdlVZS3BlaG94WjdwRVlQLTdrSGFUZWZSeEdFaVlLMVRBTTNiZk5oOVQtTFFsR01TQ2RMcUEySlUxLTllbm92Zkh2aWMtUjBLS0JPQjQ3NXo5d3RqVnZiay1jbUJIYjRNNkhGalBXc3VhU2FkNmxqTkxfbktQcU5YRkdaTVNQemxVWWotWXVISFRHTmpUd1V6TFROSEpuVUcyZlBSOENPelJIMDNGZ29ta1VkR2l6NHJDejNYcGdmbTU5VkoyazY3QmNoTmpwMjFTV1gxb1BvZ2hQaTNRWnZsQl82OVI5UFlZTjRQbTdqWGlCNEphMFgxRlpTWlN3S3lMTHZBczgzOUlaTUhPQUFNeG4ySHNSU1k3Y3V5ZXdqdEN1ZFdtaWFCZjhjblRXWnE1eldxLWc3Uk5MeTlXdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "停經",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "be13f59edc7a",
       "title": "每8例癌症就有1例與感染有關！研究揭5大致癌感染源，如何降低風險？",
@@ -1265,6 +1305,31 @@
       ]
     },
     {
+      "id": "329b52c7840f",
+      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看",
+      "published": "2026-10-27T01:45:19+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "fb58e9366330",
       "title": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活",
       "published": "2026-10-27T01:39:00+00:00",
@@ -1526,31 +1591,6 @@
               "slug": "ouabain",
               "name": "Ouabain",
               "url": "/drugs/ouabain/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "00ac787b7bd2",
-      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media",
-      "published": "2026-10-27T01:30:00+00:00",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
             }
           ]
         }

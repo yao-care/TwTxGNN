@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當](https://news.google.com/rss/articles/CBMiggNBVV95cUxQbHV5dkdpUjZCZ0diRml6VEx0THk2QXNwV29jUVE4VHRGelpYb19oNTBuYmZnd3U3VVJCUHVDNmV2dDNEVlh1czZlakNxdlVZS3BlaG94WjdwRVlQLTdrSGFUZWZSeEdFaVlLMVRBTTNiZk5oOVQtTFFsR01TQ2RMcUEySlUxLTllbm92Zkh2aWMtUjBLS0JPQjQ3NXo5d3RqVnZiay1jbUJIYjRNNkhGalBXc3VhU2FkNmxqTkxfbktQcU5YRkdaTVNQemxVWWotWXVISFRHTmpUd1V6TFROSEpuVUcyZlBSOENPelJIMDNGZ29ta1VkR2l6NHJDejNYcGdmbTU5VkoyazY3QmNoTmpwMjFTV1gxb1BvZ2hQaTNRWnZsQl82OVI5UFlZTjRQbTdqWGlCNEphMFgxRlpTWlN3S3lMTHZBczgzOUlaTUhPQUFNeG4ySHNSU1k3Y3V5ZXdqdEN1ZFdtaWFCZjhjblRXWnE1eldxLWc3Uk5MeTlXdw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">停經</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiggNBVV95cUxQbHV5dkdpUjZCZ0diRml6VEx0THk2QXNwV29jUVE4VHRGelpYb19oNTBuYmZnd3U3VVJCUHVDNmV2dDNEVlh1czZlakNxdlVZS3BlaG94WjdwRVlQLTdrSGFUZWZSeEdFaVlLMVRBTTNiZk5oOVQtTFFsR01TQ2RMcUEySlUxLTllbm92Zkh2aWMtUjBLS0JPQjQ3NXo5d3RqVnZiay1jbUJIYjRNNkhGalBXc3VhU2FkNmxqTkxfbktQcU5YRkdaTVNQemxVWWotWXVISFRHTmpUd1V6TFROSEpuVUcyZlBSOENPelJIMDNGZ29ta1VkR2l6NHJDejNYcGdmbTU5VkoyazY3QmNoTmpwMjFTV1gxb1BvZ2hQaTNRWnZsQl82OVI5UFlZTjRQbTdqWGlCNEphMFgxRlpTWlN3S3lMTHZBczgzOUlaTUhPQUFNeG4ySHNSU1k3Y3V5ZXdqdEN1ZFdtaWFCZjhjblRXWnE1eldxLWc3Uk5MeTlXdw?oc=5)
+
+---
 
 ### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
 

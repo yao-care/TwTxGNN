@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當](https://news.google.com/rss/articles/CBMiggNBVV95cUxQbHV5dkdpUjZCZ0diRml6VEx0THk2QXNwV29jUVE4VHRGelpYb19oNTBuYmZnd3U3VVJCUHVDNmV2dDNEVlh1czZlakNxdlVZS3BlaG94WjdwRVlQLTdrSGFUZWZSeEdFaVlLMVRBTTNiZk5oOVQtTFFsR01TQ2RMcUEySlUxLTllbm92Zkh2aWMtUjBLS0JPQjQ3NXo5d3RqVnZiay1jbUJIYjRNNkhGalBXc3VhU2FkNmxqTkxfbktQcU5YRkdaTVNQemxVWWotWXVISFRHTmpUd1V6TFROSEpuVUcyZlBSOENPelJIMDNGZ29ta1VkR2l6NHJDejNYcGdmbTU5VkoyazY3QmNoTmpwMjFTV1gxb1BvZ2hQaTNRWnZsQl82OVI5UFlZTjRQbTdqWGlCNEphMFgxRlpTWlN3S3lMTHZBczgzOUlaTUhPQUFNeG4ySHNSU1k3Y3V5ZXdqdEN1ZFdtaWFCZjhjblRXWnE1eldxLWc3Uk5MeTlXdw?oc=5)
+
+2026-10-28 <span class="news-indication-tag">停經</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiggNBVV95cUxQbHV5dkdpUjZCZ0diRml6VEx0THk2QXNwV29jUVE4VHRGelpYb19oNTBuYmZnd3U3VVJCUHVDNmV2dDNEVlh1czZlakNxdlVZS3BlaG94WjdwRVlQLTdrSGFUZWZSeEdFaVlLMVRBTTNiZk5oOVQtTFFsR01TQ2RMcUEySlUxLTllbm92Zkh2aWMtUjBLS0JPQjQ3NXo5d3RqVnZiay1jbUJIYjRNNkhGalBXc3VhU2FkNmxqTkxfbktQcU5YRkdaTVNQemxVWWotWXVISFRHTmpUd1V6TFROSEpuVUcyZlBSOENPelJIMDNGZ29ta1VkR2l6NHJDejNYcGdmbTU5VkoyazY3QmNoTmpwMjFTV1gxb1BvZ2hQaTNRWnZsQl82OVI5UFlZTjRQbTdqWGlCNEphMFgxRlpTWlN3S3lMTHZBczgzOUlaTUhPQUFNeG4ySHNSU1k3Y3V5ZXdqdEN1ZFdtaWFCZjhjblRXWnE1eldxLWc3Uk5MeTlXdw?oc=5)
+
+---
 
 ### [每8例癌症就有1例與感染有關！研究揭5大致癌感染源，如何降低風險？](https://news.google.com/rss/articles/CBMingNBVV95cUxOaGtxQ25BWm5BVUhFeEhXcGtvUlVpLXoydUFHYlVnMGJTaXpOcmdULVlhTHZRX3o1Y3pwN3phZVhoNUZ1T2luWkpvMVdodl9ZeUJ6TENDbWZnVUdhbXRNRktIZklwbXVfWHRrYUE5NjBGTE83d3hGWVZTX2dNQ3FQd3JiTWExR3lfVHFUNW9qbHYxeXpIMEozaHE2UVVNSGMxM1Q2SGxIejMwOERUOU5lMkVLdnY0WEx2WWxEZ0ZvWUdaNFFzQm8ya1UtbHRqWjFtVk02MXFQVDk2SWZ5dDR2aUV5MlRKNTBlVGVjOUYyUHdCdTN4Znc5VW1ueUg0QXdMSkI0NXBsTlktbnJSSVdOMzRxNkVPMkdNOVNTS1BZN3g5MThyb2x5UkdIYXZRR0Jlcll3RW84dHJlbFk1MzJ4RDhRcHZXOFhtVS1kM3VXWFN1QktoNHBFZWZESzNuQlBhdlFTMm1iX3lPRTc2X0dlYTZUbE8zOEhmS1hsdVRJcVJOaUJzZzNCN1lzVTBoVGtGeFdmUzlXVE5DTDJnZFE?oc=5)
 
