@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Mannitol"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Mannitol：預測新適應症為腎因性抗利尿不適當綜合症 (nephrogenic syndrome of inappropriate antidiuresis)（證據等級 L5）。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）"
 ---
 

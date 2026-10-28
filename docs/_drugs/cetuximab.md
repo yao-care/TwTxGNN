@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "cetuximab"
 predicted_indications: ["bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Cetuximab：預測新適應症為兒童支氣管腺瘤/類癌 (bronchial adenomas/carcinoids childhood)（證據等級 L5）。原適應症：適用於治療RAS原生型(wild-type)之轉移性直腸結腸癌病人 • 與FOLFIRI (Folinic acid/ 5-FU/ Iri…"
 ---
 

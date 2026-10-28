@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Niraparib"
 predicted_indications: ["epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of hypopharynx", "benign neoplasm of tongue", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "tumor of testis and paratestis", "pre-malignant neoplasm", "inner ear neoplasm", "schwannoma of jugular foramen"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Niraparib：預測新適應症為會厭腫瘤 (epiglottis neoplasm)（證據等級 L5）."
 ---
 

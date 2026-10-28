@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Alpelisib"
 predicted_indications: ["pulmonary hypertension"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Alpelisib：預測新適應症為肺動脈高壓 (Pulmonary Hypertension)（證據等級 L5）。原適應症：與 fulvestrant 併用，治療 HR 陽性、HER2 陰性及 PIK3CA 突變的局部晚期或轉移性乳癌…"
 ---
 

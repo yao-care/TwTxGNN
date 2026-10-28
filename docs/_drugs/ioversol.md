@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ioversol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Ioversol：預測新適應症為退化性關節炎 (Osteoarthritis)（證據等級 L5）。原適應症：作為心臟血管系統之 X 射線攝影，包括腦部、冠狀、末梢、內臟及腎動脈攝影、主動脈攝影、左心室攝影"
 ---
 

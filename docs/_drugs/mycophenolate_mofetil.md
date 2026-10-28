@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Mycophenolate mofetil"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Mycophenolate Mofetil：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L2）。原適應症：與 Cyclosporin 和類固醇合併使用，以預防或緩解腎臟移植之急性器官排斥、預防心臟和肝臟移植之急性器官排斥"
 ---
 

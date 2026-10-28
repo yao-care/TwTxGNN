@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Raloxifene：預測新適應症為十二指腸潰瘍 (Duodenal Ulcer)（證據等級 L5）。原適應症：預防及治療停經後婦女骨質疏鬆症"
 ---
 

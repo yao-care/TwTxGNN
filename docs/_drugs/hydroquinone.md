@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Hydroquinone：預測新適應症為脂漏性角化症 (Seborrheic Keratosis)（證據等級 L4）。原適應症：黑斑、雀斑"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cisatracurium"
 predicted_indications: ["cauda equina syndrome", "preeclampsia", "obsolete neurogenic bladder (disease)", "migraine disorder", "thrombotic disease", "irritable bowel syndrome", "migraine with brainstem aura", "mild pre-eclampsia", "severe pre-eclampsia", "neurocirculatory asthenia"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Cisatracurium：預測新適應症為馬尾症候群 (Cauda Equina Syndrome)（證據等級 L5）。原適應症：高選擇性及競爭性的非去極化神經肌肉阻斷劑，作為全身麻醉之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調"
 ---
 

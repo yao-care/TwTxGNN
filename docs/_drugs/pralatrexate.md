@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Pralatrexate"
 predicted_indications: ["pleural adenomatoid tumor", "relapsing-remitting multiple sclerosis", "pleural biphasic mesothelioma", "pleural epithelioid mesothelioma", "lymphohistiocytoid mesothelioma", "pericardium cancer", "pleural sarcomatoid mesothelioma", "malignant peritoneal mesothelioma", "well differentiated papillary mesothelioma", "pleural mesothelioma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Pralatrexate：預測新適應症為胸膜腺瘤樣瘤 (pleural adenomatoid tumor)（證據等級 L5）。原適應症：治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益"
 ---
 

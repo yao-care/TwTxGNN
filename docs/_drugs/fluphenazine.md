@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "fluphenazine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Fluphenazine：預測新適應症為視網膜失養症 (Retinal dystrophy with or without extraocular anomalies)（證據等級 L5）。原適應症：精神病狀態、噁心、嘔吐"
 ---
 

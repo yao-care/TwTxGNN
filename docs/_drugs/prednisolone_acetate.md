@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Prednisolone acetate"
 predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "papillary conjunctivitis", "Angelucci syndrome", "pseudomembranous conjunctivitis", "acute hemorrhagic conjunctivitis", "vernal conjunctivitis", "postinfectious vasculitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Prednisolone Acetate：預測新適應症為結膜濾泡增生 (conjunctival folliculosis)（證據等級 L5）。原適應症：僂麻質斯性關節炎、骨關節炎、痛風性關節炎、僂麻質斯性脊椎炎、肌肉僂麻質斯、滑液囊炎"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Butenafine"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Butenafine：預測新適應症為髮內型感染症 (endothrix infectious disease)（證據等級 L5）。原適應症：抗黴菌劑"
 ---
 

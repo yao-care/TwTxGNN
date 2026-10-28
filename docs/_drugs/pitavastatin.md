@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Pitavastatin：預測新適應症為膽固醇酯轉運蛋白缺乏症 (cholesterol-ester transfer protein deficiency)（證據等級 L5）。原適應症：原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症"
 ---
 

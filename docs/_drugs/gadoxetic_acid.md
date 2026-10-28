@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "gadoxetic acid"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia", "Prinzmetal angina", "infectious bovine rhinotracheitis", "malignant catarrh", "conjunctivitis", "cytomegalovirus infection", "conjunctivitis (disease)", "thrombotic disease"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Gadoxetic Acid：預測新適應症為甲狀腺機能亢進 (Hyperthyroidism)（證據等級 L5）。原適應症：適用於 T1 加權掃描核磁造影時，偵測肝臟局部病灶及提供病灶特性資訊"
 ---
 

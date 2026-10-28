@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Pancrelipase"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "pituitary dwarfism", "cytochrome-c oxidase deficiency disease", "primary bone dysplasia", "squamous cell lung carcinoma", "esophageal varices without bleeding", "esophageal varices with bleeding", "leishmaniasis, diffuse cutaneous", "thymic large cell neuroendocrine carcinoma", "pancreatic large cell neuroendocrine carcinoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Pancrelipase：預測新適應症為核 DNA 異常所致粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)（證據等級 L5）。原適應症：解脂"
 ---
 

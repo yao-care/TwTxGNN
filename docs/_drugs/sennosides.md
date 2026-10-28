@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "sennosides"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Sennosides：預測新適應症為頭皮單純性毛髮稀疏症 (hypotrichosis simplex of the scalp)（證據等級 L5）。原適應症：緩解便秘"
 ---
 

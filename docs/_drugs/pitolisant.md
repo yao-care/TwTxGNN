@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Pitolisant：預測新適應症為失眠 (Insomnia)（證據等級 L4）。原適應症：1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS）…"
 ---
 

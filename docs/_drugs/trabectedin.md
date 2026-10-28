@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Trabectedin"
 predicted_indications: ["female breast carcinoma"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Trabectedin：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L2）。原適應症：無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)…"
 ---
 

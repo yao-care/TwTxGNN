@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Polyethylene glycol"
 predicted_indications: ["congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Polyethylene Glycol：預測新適應症為先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma)（證據等級 L5）。原適應症：便秘、軟便、檢查或手術前腸道清洗（PEG／macrogol 單方口服製劑，如衛署藥輸字第023462號腹樂疏…"
 ---
 

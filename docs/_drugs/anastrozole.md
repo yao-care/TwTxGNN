@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Anastrozole：預測新適應症為神經母細胞瘤 (neuroblastoma)（證據等級 L5）。原適應症：治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實…"
 ---
 

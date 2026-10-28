@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Glatiramer"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Glatiramer：預測新適應症為血紅素病變 (Hemoglobinopathy)（證據等級 L5）。原適應症：用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率"
 ---
 

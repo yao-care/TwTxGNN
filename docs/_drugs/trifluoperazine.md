@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Trifluoperazine"
 predicted_indications: ["manic bipolar affective disorder"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Trifluoperazine：預測新適應症為躁期雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L4）。原適應症：精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙"
 ---
 

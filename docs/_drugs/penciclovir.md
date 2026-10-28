@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Penciclovir"
 predicted_indications: ["fascioliasis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Penciclovir：預測新適應症為肝吸蟲症 (Fascioliasis)（證據等級 L5）。原適應症：治療由單純皰疹病毒引起之後發性唇皰疹"
 ---
 

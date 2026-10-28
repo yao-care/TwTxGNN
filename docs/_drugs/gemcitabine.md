@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Gemcitabine：預測新適應症為直腸黏液腺癌 (rectum mucinous adenocarcinoma)（證據等級 L5）。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用…"
 ---
 

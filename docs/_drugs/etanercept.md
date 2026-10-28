@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Etanercept：預測新適應症為尾骨過度活動 (hypermobility of coccyx)（證據等級 L5）."
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Inositol"
 predicted_indications: ["early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "congestive heart failure", "acute pulmonary heart disease", "glycogen storage disease due to hepatic glycogen synthase deficiency"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Inositol：預測新適應症為早發性家族性非肝硬化門脈高壓 (early-onset familial noncirrhotic portal hypertension)（證據等級 L5）。原適應症：末梢血管循環障礙"
 ---
 

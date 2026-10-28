@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Iopromide"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Iopromide：預測新適應症為骨關節炎 (Osteoarthritis)（證據等級 L5）。原適應症：電腦斷層攝影、數位化減影血管造影術、靜脈內尿路造影、動脈造影、特別是心血管造影及身體空腔部份（如關節攝影、廔管造影）"
 ---
 

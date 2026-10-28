@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ipratropium"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "papillary conjunctivitis", "Rienhoff syndrome", "tracheal disease", "anaphylaxis", "food-dependent exercise-induced anaphylaxis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Ipratropium：預測新適應症為鼻腔疾病 (nasal cavity disease)（證據等級 L5）。原適應症：慢性阻塞性支氣管炎、支氣管氣喘"
 ---
 

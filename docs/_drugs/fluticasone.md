@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Fluticasone"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Fluticasone：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：抗炎性皮質固醇（外用）"
 ---
 

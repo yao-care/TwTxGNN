@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Letrozole"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Letrozole：預測新適應症為乳頭癌 (nipple carcinoma)（證據等級 L5）。原適應症：轉移性乳癌"
 ---
 

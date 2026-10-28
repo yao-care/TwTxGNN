@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Pexidartinib"
 predicted_indications: ["HER2 positive breast carcinoma", "normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "synovium disease", "dermatofibrosarcoma protuberans", "multifocal choroiditis", "malignant giant cell tumor"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Pexidartinib：預測新適應症為HER2 陽性乳癌 (HER2 positive breast carcinoma)（證據等級 L5）。原適應症：無法透過手術或其他治療(如局部放射線治療)改善，且具嚴重後遺症或嚴重功能受限的症狀性腱鞘巨細胞瘤(TGCT)成人病人"
 ---
 

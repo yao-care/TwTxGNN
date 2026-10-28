@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Chloral Hydrate
-parent: 僅模型預測 (L5)
+parent: 僅已知用途（無新預測）
 nav_order: 63
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Chloral Hydrate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+證據等級: **N/A** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -32,57 +33,22 @@ last_modified_at: 2026-10-16
 
 </div>
 
-## Chloral Hydrate（水合三氯乙醛）：經典鎮靜催眠劑的評估
+## Chloral Hydrate
 {: .text-alpha }
-
-## 一句話總結
-
-Chloral hydrate 是傳統的鎮靜催眠劑，主要用於兒童檢查前鎮靜。
-目前**無新適應症預測**，在台灣作為**罕見疾病用藥**核准。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 兒童檢查（non-painful procedure）前之鎮靜（衛部罕藥製字第000020號） |
-| 預測新適應症 | 無 |
-| TxGNN 預測分數 | 無 |
-| 證據等級 | L5 |
-| 台灣上市 | 已上市（罕見疾病用藥） |
+| 台灣上市 | 上市中（有效許可證 3 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 1／有效複方 2／已註銷 4） |
-| 建議決策 | Hold |
 
 <!-- review:begin chloral-hydrate-original-indication-2026-10-03 -->
 
 > **查核更正（2026-10-03）**：原寫「原適應症／催眠劑、鎮靜劑、兒童檢查（non-painful procedure）前之鎮靜」。「催眠劑」「鎮靜劑」只見於已註銷的原料藥許可證；現行唯一有效單方許可證只核准兒童檢查（non-painful procedure）前之鎮靜。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end chloral-hydrate-original-indication-2026-10-03 -->
-
-## 為什麼這個預測合理？
-
-Chloral hydrate 是一種歷史悠久的鎮靜催眠劑，其特性包括：
-
-1. **作用機轉**：
-   - 在體內代謝為活性代謝物 trichloroethanol
-   - 增強 GABA-A 受體功能，產生中樞神經系統抑制作用
-   - 具有鎮靜、催眠和抗驚厥特性
-
-2. **臨床定位**：
-   - 主要用於兒童檢查前的程序性鎮靜（如 MRI、心臟超音波等）
-   - 在台灣被列為罕見疾病用藥，由晟德大藥廠生產內服液劑
-
-3. **預測結果分析**：
-   - TxGNN 模型未預測到新適應症
-   - 可能因為 chloral hydrate 的藥理作用已被充分研究，且其臨床應用範圍較為特定
-   - 由於安全性考量（狹窄的治療指數），不建議擴展其適應症
-
-## 臨床試驗證據
-
-無新適應症相關臨床試驗。
-
-## 文獻證據
-
-無新適應症相關文獻。
 
 ## 台灣上市資訊
 
@@ -152,16 +118,6 @@ Chloral hydrate 是一種歷史悠久的鎮靜催眠劑，其特性包括：
 - 持續教育醫療人員關於藥物安全性和交互作用的知識
 
 <!-- review:begin log -->
-
-## 查核紀錄
-
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
-
-| 查核日期 | 項目 | 處理 | 依據 |
-|---------|------|------|------|
-| 2026-10-03 | 原適應症列入已註銷證的催眠劑、鎮靜劑 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-
-<!-- review:end log -->
 
 ## 免責聲明
 

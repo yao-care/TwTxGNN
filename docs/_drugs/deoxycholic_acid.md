@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Deoxycholic acid"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Deoxycholic Acid：預測新適應症為體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome)（證據等級 L5）。原適應症：適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Amcinonide"
 predicted_indications: ["vulvar inverted follicular keratosis", "hypertrophic lichen planus", "lichen planus pigmentosus", "annular atrophic lichen planus", "lichen planus pemphigoides", "primary cutaneous B-cell lymphoma", "2-hydroxyethyl methacrylate sensitization"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Amcinonide：預測新適應症為外陰倒置性毛囊角化症 (vulvar inverted follicular keratosis)（證據等級 L5）。原適應症：副腎上腺皮質荷爾蒙"
 ---
 

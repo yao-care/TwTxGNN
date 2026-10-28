@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Atezolizumab：預測新適應症為子宮韌帶腺癌 (uterine ligament adenocarcinoma)（證據等級 L5）。原適應症：1. 非小細胞肺癌： (1) 單獨使用…"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Sulfamerazine"
 predicted_indications: ["gout", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "conjunctivitis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Sulfamerazine：預測新適應症為痛風 (Gout)（證據等級 L5）。原適應症：肺炎球菌、鏈球菌、葡萄球菌、腦膜炎菌感染症"
 ---
 

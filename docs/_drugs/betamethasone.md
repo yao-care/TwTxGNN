@@ -5,7 +5,7 @@ parent: 高證據等級 (L1-L2)
 nav_order: 44
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Betamethasone：預測新適應症為斑禿 (Alopecia Areata)（證據等級 L2）。原適應症：原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹"
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Human immunoglobulin G"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-16
-description: "Human Immunoglobulin G：預測新適應症為嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)（證據等級 L5）。原適應症：IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症"
+last_modified_at: 2026-10-29
+description: "Human Immunoglobulin G：預測新適應症為嚴重非增殖性糖尿病視網膜病變 (severe nonproliferative diabetic retinopathy)（證據等級 L5）。原適應症：IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症"
 ---
 
 # Human Immunoglobulin G
@@ -33,7 +33,7 @@ description: "Human Immunoglobulin G：預測新適應症為嚴重非增殖性�
 
 </div>
 
-## Human immunoglobulin G：從原發性免疫不全症到嚴重非增殖性糖尿病視網膜病變
+## Human Immunoglobulin G: 嚴重非增殖性糖尿病視網膜病變 (severe nonproliferative diabetic retinopathy)
 {: .text-alpha }
 
 ## 一句話總結
@@ -47,7 +47,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症；以及改善免疫調節機能：原發性血小板缺乏性紫斑症（ITP）、異體骨髓移植、川崎氏症、Guillain-Barré 症候群 |
-| 預測新適應症 | 嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy) |
+| 預測新適應症 | 嚴重非增殖性糖尿病視網膜病變 (severe nonproliferative diabetic retinopathy) |
 | TxGNN 預測分數 | 0.9975 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 7 張／共 33 張） |
@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 
 理論上，IgG 的免疫調節作用（例如 Fc 受體阻斷、細胞激素與補體調節）可能影響糖尿病視網膜病變中的發炎路徑。不過這個關聯僅是推測，沒有任何臨床或文獻證據支持，目前完全仰賴 TxGNN 的預測分數。
 
-值得注意的是，同一次分析中排名較前的預測還包括糖尿病視網膜病變（99.63%）與藥物引起的骨質疏鬆症（99.37%），三者同樣缺乏實證支持，機轉上的合理性也偏弱。
+值得注意的是，同一次分析中排名較前的預測還包括糖尿病視網膜病變（0.9963）與藥物引起的骨質疏鬆症（0.9937），三者同樣缺乏實證支持，機轉上的合理性也偏弱。
 
 ## 臨床試驗證據
 

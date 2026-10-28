@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Theophylline：預測新適應症為血栓性疾病 (Thrombotic Disease)（證據等級 L5）。原適應症：氣喘及支氣管痙攣"
 ---
 

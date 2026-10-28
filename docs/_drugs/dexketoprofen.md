@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "dexketoprofen"
 predicted_indications: ["tendinitis", "fibromyalgia", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "migraine disorder", "headache disorder", "migraine with brainstem aura", "exostosis", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Dexketoprofen：預測新適應症為肌腱炎 (tendinitis)（證據等級 L5）。原適應症：治療輕度至中等強度疼痛症狀，如肌肉骨骼疼痛、經痛、牙痛"
 ---
 

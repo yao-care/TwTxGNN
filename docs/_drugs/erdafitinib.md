@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Erdafitinib"
 predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Erdafitinib：預測新適應症為肺動脈高壓 (Pulmonary Hypertension)（證據等級 L5）。原適應症：局部晚期或轉移性泌尿道上皮癌（需帶有敏感性 FGFR3 基因變異，且先前全身性療法治療期間或之後惡化）"
 ---
 

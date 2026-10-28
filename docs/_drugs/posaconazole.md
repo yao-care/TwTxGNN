@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "posaconazole"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Posaconazole：預測新適應症為肺囊蟲病 (Pneumocystosis)（證據等級 L4）。原適應症：對 amphotericin B、itraconazole 或 voriconazole 治療無效或不能忍受之成人侵入性麴菌病的第二線用藥"
 ---
 

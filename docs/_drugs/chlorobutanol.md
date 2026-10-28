@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Chlorobutanol"
 predicted_indications: ["erectile dysfunction (disease)", "migraine disorder", "migraine with brainstem aura", "Tourette syndrome", "trichotillomania", "attention deficit-hyperactivity disorder", "localized pagetoid reticulosis", "faciodigitogenital syndrome", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Chlorobutanol：預測新適應症為Erectile dysfunction (disease)（證據等級 L5）。原適應症：防腐劑"
 ---
 
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 
 <!-- review:begin chlorobutanol-original-indication-combo-summary-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「常見用途為防腐與輔助治療結膜炎、角膜炎。」。台灣 chlorobutanol 單方許可證共 4 張（衛署藥輸字第001147號、第001339號、第016573號、第017917號「氯丁醇」原料藥），核准適應症都是「防腐劑」，且都已註銷；結膜充血、角膜炎等是含 phenylephrine（血管收縮劑）等主成分的複方眼藥水（如內衛藥製字第010694號「人人」眼用滴劑，phenylephrine＋chlorobutanol）的適應症，屬整個複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end chlorobutanol-original-indication-combo-summary-2026-10-16 -->
 
@@ -61,7 +61,7 @@ TxGNN 模型預測它可能對**勃起功能障礙 (Erectile Dysfunction)** 有�
 
 <!-- review:begin chlorobutanol-original-indication-combo-combos-2026-10-16 -->
 
-> **查核更正（2026-10-16）**：原寫「原適應症／防腐劑（台灣單方許可證皆為防腐劑用途，且均已註銷）；現行有效許可證皆為複方，用於結膜充血、角膜炎等眼部症狀」。TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（phenylephrine＋chlorobutanol；結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（diphenhydramine＋phenylephrine＋chlorobutanol；鼻炎、鼻塞）、內衛成製字第000983號皮速平（salicylic acid＋chlorobutanol＋benzoic acid 等；香港腳等皮膚黴菌病），適應症屬整個複方；chlorobutanol 單方許可證核准的是「防腐劑」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+TFDA 許可證資料中，截至資料集日期含 chlorobutanol 的有效許可證有 3 張，都是複方：內衛藥製字第010694號「人人」眼用滴劑（phenylephrine＋chlorobutanol；結膜充血、角膜炎）、衛部藥製字第060942號鼻能爽液（diphenhydramine＋phenylephrine＋chlorobutanol；鼻炎、鼻塞）、內衛成製字第000983號皮速平（salicylic acid＋chlorobutanol＋benzoic acid 等；香港腳等皮膚黴菌病），適應症屬整個複方；chlorobutanol 單方許可證核准的是「防腐劑」。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end chlorobutanol-original-indication-combo-combos-2026-10-16 -->
 

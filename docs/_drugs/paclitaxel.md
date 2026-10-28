@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Paclitaxel：預測新適應症為腦膜旁胚胎型橫紋肌肉瘤 (parameningeal embryonal rhabdomyosarcoma)（證據等級 L5）。原適應症：晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已使用合併療法（除非有禁忌…"
 ---
 

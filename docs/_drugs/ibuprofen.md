@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Ibuprofen：預測新適應症為肢端中段發育不良 Hunter-Thompson 型 (Acromesomelic dysplasia…（證據等級 L5）。原適應症：(僅用於成人)解熱、下列疾患及症狀之消炎、鎮痛：慢性風濕關節炎、關節痛及關節炎、神經痛及神經炎、背腰痛、手術及外傷後之消炎、鎮痛"
 ---
 

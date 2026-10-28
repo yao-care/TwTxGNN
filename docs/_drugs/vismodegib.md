@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Vismodegib"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "benign neoplasm of sweat gland"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Vismodegib：預測新適應症為伴有廣泛結節的髓母細胞瘤 (medulloblastoma with extensive nodularity)（證據等級 L5）。原適應症：治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期(Locally Advanced)基底細胞癌成人病患"
 ---
 

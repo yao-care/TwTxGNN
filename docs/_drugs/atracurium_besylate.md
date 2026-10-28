@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Atracurium besylate"
 predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Atracurium Besylate：預測新適應症為子癇前症 (Preeclampsia)（證據等級 L5）。原適應症：本藥乃一高選擇性及競爭性的非去極化神經肌肉阻斷劑。可作為手術全身麻醉或加護病房鎮靜的輔助劑、以鬆弛骨骼肌、幫助氣管插管與人工吸器的協調"
 ---
 

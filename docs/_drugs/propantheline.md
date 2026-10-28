@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Propantheline"
 predicted_indications: ["irritable bowel syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Propantheline：預測新適應症為腸躁症 (Irritable Bowel Syndrome)（證據等級 L5）。原適應症：胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣"
 ---
 

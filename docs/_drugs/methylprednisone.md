@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Methylprednisone"
 predicted_indications: ["leprosy", "coronary artery disease", "candidiasis", "myocardial ischemia", "pneumocystosis", "anomalous left coronary artery from the pulmonary artery", "Bacteroidaceae infectious disease"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Methylprednisone：預測新適應症為痲瘋病 (Leprosy)（證據等級 L5）。原適應症：腎上腺皮質機能不全、劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染"
 ---
 

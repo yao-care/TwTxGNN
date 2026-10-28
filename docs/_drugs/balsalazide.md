@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "balsalazide"
 predicted_indications: ["gout", "congenital hypotrichosis with juvenile macular dystrophy", "ankylosing spondylitis", "rheumatoid arthritis", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "anus disease"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Balsalazide：預測新適應症為痛風 (Gout)（證據等級 L5）。原適應症：輕度至中度的急性潰瘍性結腸炎"
 ---
 

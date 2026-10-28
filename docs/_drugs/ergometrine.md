@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Ergometrine"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "nephrogenic syndrome of inappropriate antidiuresis", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "migraine disorder", "migraine with brainstem aura", "leprosy", "pulmonary hypertension"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Ergometrine：預測新適應症為毛髮過多症 (Hypertrichosis)（證據等級 L5）。原適應症：產褥期之出血、流產後之出血、分娩時之子宮弛緩出血、不正常出血、分娩第三期陣痛微弱"
 ---
 

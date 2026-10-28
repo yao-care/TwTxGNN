@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Anthralin"
 predicted_indications: ["actinic cheilitis", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia areata", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "telogen effluvium", "alopecia mucinosa", "angular cheilitis", "atrichia with papular lesions"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Anthralin：預測新適應症為光化性唇炎 (actinic cheilitis)（證據等級 L5）。原適應症：牛皮癬"
 ---
 

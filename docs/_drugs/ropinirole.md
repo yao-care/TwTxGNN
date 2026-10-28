@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Ropinirole：預測新適應症為注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)（證據等級 L2）。原適應症：治療帕金森氏症"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Alirocumab"
 predicted_indications: ["ichthyosis, X-linked, without steroid sulfatase deficiency", "disorder of other vitamins and cofactors metabolism and transport", "xanthomatosis (disease)", "46,XY disorder of sexual development due to dihydrotestosterone backdoor pathway biosynthesis defect", "cholesterol catabolic process disease", "46,XY disorder of sex development due to a cholesterol synthesis defect", "dappled diaphyseal dysplasia", "neutral lipid storage disease", "3-hydroxyacyl-CoA dehydrogenase deficiency", "spastic paraplegia-optic atrophy-neuropathy and spastic paraplegia-optic atrophy-neuropathy-related disorder"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Alirocumab：預測新適應症為X 染色體性聯魚鱗癬，無類固醇硫酸酯酶缺乏 (ichthyosis, X-linked…（證據等級 L5）。原適應症：預防心血管事件：已確診心血管疾病的成年病人，降低心肌梗塞…"
 ---
 

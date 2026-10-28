@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fidaxomicin"
 predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Fidaxomicin：預測新適應症為葡萄球菌燙傷樣皮膚症候群 (Staphylococcal Scalded Skin Syndrome)（證據等級 L5）。原適應症：困難梭狀桿菌相關腹瀉 (C. difficile-associated diarrhoea, CDAD)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Homatropine methylbromide"
 predicted_indications: ["cauda equina syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Homatropine Methylbromide：預測新適應症為馬尾症候群 (Cauda Equina Syndrome)（證據等級 L5）。原適應症：胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、胃痛、腸疝痛、膽管及尿路痙攣"
 ---
 

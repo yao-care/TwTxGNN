@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Prucalopride"
 predicted_indications: ["hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "duodenal ulcer (disease)", "oral candidiasis", "obsolete familial combined hyperlipidemia", "amyloidosis (disease)", "strongyloidiasis", "HIV infectious disease", "primary amyloidosis", "acquired amyloid peripheral neuropathy"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Prucalopride：預測新適應症為低 α 脂蛋白血症 (Hypoalphalipoproteinemia)（證據等級 L5）。原適應症：適用於使用瀉劑(laxatives)仍無法達到適當緩解效果之成人慢性便祕患者的症狀治療"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Thiamine"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Thiamine：預測新適應症為甲狀腺素受體 β 突變所致的甲狀腺素抗阻症（resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta，證據等級 L5）。原適應症：腳氣、神經炎、疲勞、營養不良及因缺乏維他命乙１所引起各疾之預防及治療"
 ---
 

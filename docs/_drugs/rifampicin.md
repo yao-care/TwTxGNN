@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Rifampicin：預測新適應症為結膜炎 (Conjunctivitis)（證據等級 L4）。原適應症：肺結核、奈瑟氏腦膜炎球菌帶原者"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "Fludarabine"
 predicted_indications: ["plasma cell myeloma", "hyperthyroidism", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "indolent plasma cell myeloma", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "brain small vessel disease 1 with or without ocular anomalies", "myelodysplastic syndrome", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "diabetic nephropathy"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Fludarabine：預測新適應症為漿細胞骨髓瘤 (Plasma Cell Myeloma)（證據等級 L3）。原適應症：B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL"
 ---
 

@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 284
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Tolmetin：預測新適應症為肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia…（證據等級 L5）。原適應症：類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風"
 monitor_inn: "Tolmetin"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]

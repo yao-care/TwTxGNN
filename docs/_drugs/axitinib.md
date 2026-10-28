@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Axitinib：預測新適應症為脂肪肉瘤 (Liposarcoma)（證據等級 L4）。原適應症：治療已接受過 sunitinib 或 cytokine 治療失敗的晚期腎細胞癌病患"
 ---
 

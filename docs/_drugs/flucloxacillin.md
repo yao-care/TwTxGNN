@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Flucloxacillin"
 predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "leprosy", "Prinzmetal angina", "conjunctivitis (disease)", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "thrombotic disease", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Flucloxacillin：預測新適應症為結膜炎 (conjunctivitis)（證據等級 L5）。原適應症：皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎"
 ---
 

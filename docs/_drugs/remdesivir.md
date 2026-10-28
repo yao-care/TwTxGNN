@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Remdesivir"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Remdesivir：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L5）。原適應症：適用於治療新型冠狀病毒疾病 (COVID-19)：發生肺炎並須給予氧氣治療的成人與 28 天大以上且體重至少 3 公斤之兒童"
 ---
 

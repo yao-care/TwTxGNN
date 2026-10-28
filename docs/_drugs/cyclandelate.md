@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Cyclandelate：預測新適應症為變異型心絞痛（證據等級 L2）。原適應症：末梢血管循環障礙"
 monitor_inn: "Cyclandelate"
 predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]

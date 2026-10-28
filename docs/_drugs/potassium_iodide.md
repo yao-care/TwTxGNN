@@ -5,7 +5,7 @@ parent: 中證據等級 (L3-L4)
 nav_order: 225
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Potassium Iodide：預測新適應症為鼻腔疾病 (Nasal Cavity Disease)（證據等級 L4）。原適應症：祛痰藥"
 monitor_inn: "Potassium Iodide"
 predicted_indications: ["nasal cavity disease"]

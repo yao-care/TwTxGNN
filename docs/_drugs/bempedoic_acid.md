@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Bempedoic acid"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "infectious bovine rhinotracheitis", "malignant catarrh", "cytomegalovirus infection", "hyperthyroxinemia", "drug-induced osteoporosis", "multiple endocrine neoplasia", "pregnancy associated osteoporosis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Bempedoic Acid：預測新適應症為甲狀腺機能亢進 (hyperthyroidism)（證據等級 L5）。原適應症：１、適用於患有異合子家族性或非家族性之原發性高膽固醇血症、或混合型血脂異常的成人病人…"
 ---
 

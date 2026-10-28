@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Prednisone：預測新適應症為圓禿 (alopecia areata)（證據等級 L2）。原適應症：濕疹或皮膚炎"
 ---
 

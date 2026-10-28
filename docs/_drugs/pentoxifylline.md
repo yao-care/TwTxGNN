@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Pentoxifylline
-parent: 僅模型預測 (L5)
+parent: 僅已知用途（無新預測）
 nav_order: 212
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Pentoxifylline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+證據等級: **N/A** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -32,12 +33,8 @@ last_modified_at: 2026-10-16
 
 </div>
 
-## Pentoxifylline 藥師筆記
+## Pentoxifylline
 {: .text-alpha }
-
-## 一句話總結
-
-Pentoxifylline 為治療末梢血管循環障礙的血管擴張劑，TxGNN 模型未預測出新適應症。
 
 ## 快速總覽
 
@@ -46,24 +43,7 @@ Pentoxifylline 為治療末梢血管循環障礙的血管擴張劑，TxGNN 模�
 | 藥品學名 | Pentoxifylline (配妥西菲林/本多非林) |
 | DrugBank ID | DB00806 |
 | 原核准適應症 | 末梢血管循環障礙、周圍血管舒張劑 |
-| TxGNN 預測新適應症 | 無 |
 | 台灣許可證數 | 93 張 |
-| 證據等級 | 不適用 |
-
-## 為什麼這個預測合理
-
-TxGNN 模型未針對 Pentoxifylline 預測出任何新適應症。這可能是因為：
-
-1. **作用機轉特異性**：Pentoxifylline 作為磷酸二酯酶抑制劑，主要透過抑制紅血球及血小板聚集、增加紅血球變形能力來改善微循環，其作用機轉相對侷限於血管循環系統
-2. **知識圖譜連結有限**：在 TxGNN 知識圖譜中，該藥物與其他疾病的關聯性可能未達預測閾值
-
-## 臨床試驗證據
-
-無預測適應症，故無相關臨床試驗資料。
-
-## 文獻證據
-
-無預測適應症，故無相關文獻資料。
 
 ## 台灣上市資訊
 
@@ -148,18 +128,6 @@ DDInter 資料庫顯示 Pentoxifylline 與多種藥物有交互作用：
 1. 與降血糖藥物併用時需監測血糖
 2. 與抗凝血藥物併用可能增加出血風險
 3. Cimetidine 可能增加 Pentoxifylline 血中濃度
-
-## 結論與下一步
-
-### 預測價值評估
-TxGNN 模型未針對 Pentoxifylline 預測出新適應症，此藥物目前無老藥新用的潛力候選。
-
-### 建議
-維持現有適應症使用，持續關注相關臨床研究進展。
-
----
-*本筆記由 TwTxGNN 系統自動產生，僅供研究參考，不構成醫療建議。*
-*產生日期：2026-02-11*
 
 ## 免責聲明
 

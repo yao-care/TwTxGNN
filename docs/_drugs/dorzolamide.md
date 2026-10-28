@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Dorzolamide"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Dorzolamide：預測新適應症為頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)（證據等級 L5）。原適應症：碳酸酐脢抑制劑，用於高眼壓和開角型青光眼患者，以降低眼內壓"
 ---
 

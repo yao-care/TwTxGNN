@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Iohexol"
 predicted_indications: ["insomnia (disease)", "anxiety"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Iohexol：預測新適應症為失眠 (Insomnia)（證據等級 L5）。原適應症：脊椎造影、血管造影、電腦斷層掃描增強造影劑、泌尿道造影"
 ---
 

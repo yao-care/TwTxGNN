@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Naproxen：預測新適應症為短指併指症候群 (Brachydactyly-syndactyly syndrome)（證據等級 L5）。原適應症：消炎鎮痛劑（風濕性關節炎、骨關節炎、強直性脊椎炎、急性痛風、經痛等）"
 ---
 

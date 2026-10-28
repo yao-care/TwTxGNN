@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Sorafenib：預測新適應症為脂肪肉瘤 (liposarcoma)（證據等級 L5）."
 ---
 

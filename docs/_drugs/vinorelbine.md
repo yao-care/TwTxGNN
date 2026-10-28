@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "lung germ cell tumor", "pulmonary sulcus neoplasm", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Vinorelbine：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L5）。原適應症：非小細胞肺癌，移轉性乳癌"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "minoxidil"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with schistosomiasis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Minoxidil：預測新適應症為頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)（證據等級 L4）。原適應症：雄激素禿髮（ＡＬＯＰＥＣＩＡ ＡＮＤＲＯＧＥＮＥＴＩＣＡ）"
 ---
 

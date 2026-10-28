@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nitroxoline"
 predicted_indications: ["amenorrhea (disease)", "drug-induced osteoporosis", "acne (disease)", "Jeune syndrome situs inversus", "interventricular septum aneurysm", "orofacial clefting syndrome", "disorder of fucoglycosan synthesis", "benign recurrent intrahepatic cholestasis", "partial deletion of the long arm of chromosome 22", "endometriosis of uterus"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Nitroxoline：預測新適應症為閉經 (Amenorrhea)（證據等級 L5）。原適應症：尿道炎、膀胱炎、腎盂腎炎及其他泌尿道感染症"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Trastuzumab deruxtecan"
 predicted_indications: ["drug-induced osteoporosis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Trastuzumab Deruxtecan：預測新適應症為藥物誘發性骨質疏鬆 (drug-induced osteoporosis)（證據等級 L5）。原適應症：轉移性乳癌（HER2 陽性、HER2 弱陽性／微陽性）、HER2 突變之無法切除或轉移性非小細胞肺癌…"
 ---
 

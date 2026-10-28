@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Lornoxicam：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：輕度至中度急性疼痛之短期止痛"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Pemetrexed"
 predicted_indications: ["pleural adenomatoid tumor", "pericardium cancer", "iminoglycinuria"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Pemetrexed：預測新適應症為胸膜腺瘤樣瘤 (pleural adenomatoid tumor)（證據等級 L5）。原適應症：1.ALIMTA 併用cisplatin 是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)之第一線化療用藥。2 ALIMTA…"
 ---
 

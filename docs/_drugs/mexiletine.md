@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "Mexiletine"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Mexiletine：預測新適應症為毛髮過多症 (Hypertrichosis)（證據等級 L3）。原適應症：抗心律不整藥（心室性不整律）"
 ---
 

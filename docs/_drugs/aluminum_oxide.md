@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Aluminum oxide"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "heparin cofactor 2 deficiency", "hemoglobinopathy", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombotic disease", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Aluminum Oxide：預測新適應症為類風濕性關節炎 (Rheumatoid Arthritis)（證據等級 L5）。原適應症：緩解胃部不適或灼熱感、或經診斷為胃及十二指腸潰瘍、胃炎、食道炎所伴隨之胃酸過多"
 ---
 

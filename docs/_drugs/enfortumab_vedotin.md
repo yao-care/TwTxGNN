@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Enfortumab vedotin"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Enfortumab Vedotin：預測新適應症為痲瘋病 (leprosy)（證據等級 L5）。原適應症：１…"
 ---
 

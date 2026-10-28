@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Brivaracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Brivaracetam：預測新適應症為β-酮硫解酶缺乏症 (beta-ketothiolase deficiency)（證據等級 L5）。原適應症：抗癲癇藥"
 ---
 

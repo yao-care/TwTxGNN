@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Hyaluronic acid"
 predicted_indications: ["dry eye syndrome", "Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Hyaluronic Acid：預測新適應症為乾眼症 (Dry Eye Syndrome)（證據等級 L2）。原適應症：本報告彙整的資料中未提供"
 ---
 

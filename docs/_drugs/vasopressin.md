@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "vasopressin"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-29
 description: "Vasopressin：預測新適應症為先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)（證據等級 L4）。原適應症：尿崩症"
 ---
 

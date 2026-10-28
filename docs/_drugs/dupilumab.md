@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dupilumab"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Dupilumab：預測新適應症為支氣管炎 (bronchitis)（證據等級 L5）。原適應症：1. 異位性皮膚炎：可用於治療患有中度至重度異位性皮膚炎且對局部處方治療控制不佳或不適合使用該療法的成人病人及6個月以上的兒童病人。可併用…"
 ---
 

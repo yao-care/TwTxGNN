@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "Acitretin"
 predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Acitretin：預測新適應症為痤瘡 (Acne)（證據等級 L4）。原適應症：嚴重性牛皮癬、皮膚角化症"
 ---
 

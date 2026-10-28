@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 6
 monitor_inn: "Ethynodiol diacetate"
 predicted_indications: ["acne (disease)", "female infertility", "46,XY disorder of sex development due to testicular steroidogenesis defect", "transverse vaginal septum", "longitudinal vaginal septum", "eye disease"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Ethynodiol Diacetate：預測新適應症為痤瘡 (Acne)（證據等級 L3）。原適應症：避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）"
 ---
 

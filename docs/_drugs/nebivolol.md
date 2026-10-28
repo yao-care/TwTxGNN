@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Nebivolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Nebivolol：預測新適應症為惡性高血壓腎病 (malignant hypertensive renal disease)（證據等級 L5）。原適應症：治療原發性高血壓"
 ---
 

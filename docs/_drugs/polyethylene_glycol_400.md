@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Polyethylene glycol 400"
 predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Polyethylene Glycol 400：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L5）。原適應症：成人和八歲及以上兒童便秘的症狀治療"
 ---
 

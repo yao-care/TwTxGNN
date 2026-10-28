@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Verteporfin"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Verteporfin：預測新適應症為核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies)（證據等級 L5）。原適應症：因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生…"
 ---
 

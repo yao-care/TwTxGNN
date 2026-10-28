@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "guaiacol"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Guaiacol：預測新適應症為鼻腔疾病 (Nasal Cavity Disease)（證據等級 L5）。原適應症：袪痰（支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰）"
 ---
 

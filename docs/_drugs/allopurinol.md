@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Allopurinol：預測新適應症為肝性紫質症 (Hepatic Porphyria)（證據等級 L5）。原適應症：痛風症、痛風性關節炎、尿酸結石、癌症或經化學治療產生之高尿酸血症"
 ---
 

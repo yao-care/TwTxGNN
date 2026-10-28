@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Titanium dioxide"
 predicted_indications: ["drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "tetanic cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "nuclear senile cataract"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Titanium Dioxide：預測新適應症為藥物性骨質疏鬆症 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：外用抗刺激劑"
 ---
 

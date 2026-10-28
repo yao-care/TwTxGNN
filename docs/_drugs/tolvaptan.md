@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Tolvaptan：預測新適應症為腎肝胰發育不良 (renal-hepatic-pancreatic dysplasia)（證據等級 L5）。原適應症：適用於自體顯性多囊性腎臟病(ADPKD)且eGFR大於25mL/min/1.73m2之慢性腎臟病成人患者，已出現病情迅速惡化跡象…"
 ---
 

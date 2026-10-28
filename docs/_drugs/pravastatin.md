@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Pravastatin：預測新適應症為HIV 感染 (HIV infectious disease)（證據等級 L2）。原適應症：高脂血症、家族性高膽固醇血症"
 ---
 

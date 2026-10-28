@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Naphazoline"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "primary hereditary glaucoma", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "open-angle glaucoma", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Naphazoline：預測新適應症為頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp)（證據等級 L5）。原適應症：交感神經藥（血管收縮藥）"
 ---
 

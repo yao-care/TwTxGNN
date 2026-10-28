@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "arterial thoracic outlet syndrome"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Isosorbide Dinitrate：預測新適應症為alopecia（禿髮）（證據等級 L5）。原適應症：預防狹心症之發作"
 ---
 

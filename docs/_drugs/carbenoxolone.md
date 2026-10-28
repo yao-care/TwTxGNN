@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Carbenoxolone"
 predicted_indications: ["non-syndromic esophageal malformation", "vitamin deficiency disorder", "biotin metabolic disease", "filariasis", "bile duct disease", "bile duct neoplasm", "tinea nigra"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Carbenoxolone：預測新適應症為非症候群型食道畸形 (Non-syndromic Esophageal Malformation)（證據等級 L5）。原適應症：胃潰瘍"
 ---
 

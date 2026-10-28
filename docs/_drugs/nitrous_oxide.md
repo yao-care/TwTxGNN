@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Nitrous oxide"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign Prostatic Hyperplasia)（證據等級 L4）。原適應症：吸入性全身麻醉、鎮痛"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Nefopam"
 predicted_indications: ["mature cataract", "tetanic cataract", "immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "lumbar spinal stenosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Nefopam：預測新適應症為成熟性白內障 (Mature Cataract)（證據等級 L5）。原適應症：鎮痛"
 ---
 

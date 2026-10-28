@@ -1,19 +1,20 @@
 ---
 layout: default
 title: Vigabatrin
-parent: 僅模型預測 (L5)
+parent: 僅已知用途（無新預測）
 nav_order: 300
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Vigabatrin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+證據等級: **N/A** | 預測適應症: **0** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -32,37 +33,16 @@ last_modified_at: 2026-10-16
 
 </div>
 
-## Vigabatrin：抗癲癇輔助療法
+## Vigabatrin
 {: .text-alpha }
-
-## 一句話總結
-
-Vigabatrin 是一種用於抗癲癇輔助療法的藥物。
-TxGNN 模型**未預測**出任何新的適應症。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 抗癲癇之輔助療法 |
-| 預測新適應症 | 無 |
-| TxGNN 預測分數 | N/A |
-| 證據等級 | N/A |
-| 台灣上市 | 已上市 |
+| 台灣上市 | 上市中（有效許可證 2 張／共 4 張） |
 | 許可證數 | 4 張（有效單方 2／有效複方 0／已註銷 2） |
-| 建議決策 | 無老藥新用候選 |
-
-## 為什麼沒有預測新適應症？
-
-Vigabatrin 是一種選擇性 GABA 轉胺酶（GABA-T）不可逆抑制劑，透過抑制 4-aminobutyrate aminotransferase 增加腦內 GABA 濃度。其作用機轉高度專一，主要針對癲癇相關的神經傳導異常，因此在 TxGNN 知識圖譜分析中未發現與其他疾病的顯著關聯。
-
-## 臨床試驗證據
-
-無相關新適應症的臨床試驗。
-
-## 文獻證據
-
-無相關新適應症的文獻證據。
 
 ## 台灣上市資訊
 
@@ -126,16 +106,6 @@ Vigabatrin 的作用機轉高度專一於 GABA 能神經傳導，TxGNN 模型未
 - 與皮質類固醇併用需特別注意交互作用
 
 <!-- review:begin log -->
-
-## 查核紀錄
-
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
-
-| 查核日期 | 項目 | 處理 | 依據 |
-|---------|------|------|------|
-| 2026-10-03 | 快速總覽「許可證數：6 張（2 張有效）」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-
-<!-- review:end log -->
 
 ## 免責聲明
 

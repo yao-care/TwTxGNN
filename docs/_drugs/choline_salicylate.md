@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Choline salicylate"
 predicted_indications: ["Prinzmetal angina", "rheumatoid arthritis", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Choline Salicylate：預測新適應症為變異型心絞痛 (Prinzmetal angina)（證據等級 L5）。原適應症：解熱鎮痛劑"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Hesperidin"
 predicted_indications: ["myeloproliferative neoplasm", "monocytic leukemia", "spermatocytic seminoma", "tubular variant testicular seminoma", "gestational trophoblastic neoplasm"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Hesperidin：預測新適應症為骨髓增生性腫瘤 (myeloproliferative neoplasm)（證據等級 L5）。原適應症：四季感冒、發熱、咳嗽、鼻涕、流行性感冒症狀之治療、過敏性鼻炎、氣喘、頭痛、齒痛等"
 ---
 

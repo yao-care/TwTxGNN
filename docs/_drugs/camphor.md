@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Camphor"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Camphor：預測新適應症為偏頭痛 (migraine disorder)（證據等級 L5）。原適應症：燙傷、刀傷、昆蟲咬傷、一般外傷（衛署成製字第003013號）"
 ---
 
@@ -74,7 +74,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 <!-- review:begin camphor-summary-indication-why-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：台灣現行有效的 camphor 單方許可證只有 2 張外用製劑（衛署成製字第003013號「膚得樂軟膏」、第013693號「允消健膚樂乳膏」），適應症為燙傷、刀傷、昆蟲咬傷等外傷；含樟腦的注射劑（如衛署藥製字第002519號德康復注射液，心臟衰弱、呼吸困難）都已註銷，「康心針」（內衛藥製字第007950號）的主成分則是 trans-oxocamphor。疼痛類適應症（神經痛、肌肉痛、關節痛等）來自含樟腦的複方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+疼痛類適應症（神經痛、肌肉痛、關節痛等）來自含樟腦的複方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end camphor-summary-indication-why-2026-10-16 -->
 
@@ -146,7 +146,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 <!-- review:begin camphor-summary-indication-next-step-2026-10-16 -->
 
-> **查核加註（2026-10-16）**：台灣現行有效的 camphor 單方許可證只有 2 張外用製劑（衛署成製字第003013號「膚得樂軟膏」、第013693號「允消健膚樂乳膏」），適應症為燙傷、刀傷、昆蟲咬傷等外傷；含樟腦的注射劑（如衛署藥製字第002519號德康復注射液，心臟衰弱、呼吸困難）都已註銷，「康心針」（內衛藥製字第007950號）的主成分則是 trans-oxocamphor。疼痛類適應症（神經痛、肌肉痛、關節痛等）來自含樟腦的複方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+疼痛類適應症（神經痛、肌肉痛、關節痛等）來自含樟腦的複方許可證。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end camphor-summary-indication-next-step-2026-10-16 -->
 

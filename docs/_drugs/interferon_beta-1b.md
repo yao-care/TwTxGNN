@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Interferon beta-1b"
 predicted_indications: ["hairy cell leukemia", "autoimmune disease of central nervous system"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Interferon Beta-1B：預測新適應症為毛細胞白血病 (hairy cell leukemia)（證據等級 L5）。原適應症：降低反覆發作型多發性硬化症的發作頻率及嚴重度。降低續發型多發性硬化症(secondary progressive multiple scl…"
 ---
 

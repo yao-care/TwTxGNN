@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Acyclovir：預測新適應症為點狀上皮角結膜炎（證據等級 L2）。原適應症：帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染…"
 ---
 

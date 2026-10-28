@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flunitrazepam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "anxiety", "anxiety disorder", "alcohol withdrawal delirium", "agoraphobia", "benign paroxysmal torticollis of infancy", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Flunitrazepam：預測新適應症為偏頭痛 (migraine disorder)（證據等級 L5）。原適應症：失眠"
 ---
 

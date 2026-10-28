@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 9
 monitor_inn: "Magnesium sulfate"
 predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Magnesium Sulfate：預測新適應症為妊娠毒血症 (toxemia of pregnancy)（證據等級 L1）。原適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助"
 ---
 

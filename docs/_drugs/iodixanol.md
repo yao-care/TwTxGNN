@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Iodixanol"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Iodixanol：預測新適應症為退化性關節炎 (Osteoarthritis)（證據等級 L5）。原適應症：X 光對比劑：用於心臟血管、腦血管、周邊動脈造影、腹腔動脈造影、泌尿道攝影、靜脈造影、電腦斷層影像加強"
 ---
 

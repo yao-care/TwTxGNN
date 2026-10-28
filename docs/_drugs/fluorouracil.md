@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Fluorouracil：預測新適應症為陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)（證據等級 L5）。原適應症：結腸癌、直腸癌、乳癌、胃癌、胰臟癌、不可以手術之胃腸道乳部惡性腫瘤的姑息療法"
 ---
 

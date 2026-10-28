@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Cerliponase alfa"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "cholesteryl ester storage disease", "Gaucher disease", "familial encephalopathy with neuroserpin inclusion bodies", "Wolman disease with hypolipoproteinemia and acanthocytosis", "proximal myopathy with extrapyramidal signs", "autosomal ichthyosis syndrome with fatal disease course"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Cerliponase Alfa：預測新適應症為Scheie 症候群 (Scheie syndrome)（證據等級 L5）。原適應症：治療患有神經元蠟樣脂褐質儲積症 2 型 (CLN2) 疾病（也稱為三肽基肽酶 1 [TPP1] 缺乏症）病人"
 ---
 

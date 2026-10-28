@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Cefmetazole"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "gonococcal urethritis", "Ureaplasma urethritis", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Cefmetazole：預測新適應症為多株性高黏滯症候群 (polyclonal hyperviscosity syndrome)（證據等級 L5）。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症"
 ---
 

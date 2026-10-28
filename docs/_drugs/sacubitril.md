@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "sacubitril"
 predicted_indications: ["brain small vessel disease 1 with or without ocular anomalies", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "diabetic nephropathy", "rheumatoid arthritis", "hemoglobinopathy"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Sacubitril：預測新適應症為腦小血管病 1 型（伴或不伴眼部異常）(brain small vessel disease 1 with or without ocular anomalies)（證據等級 L5）。原適應症：治療慢性心臟衰竭（紐約心臟學會[NYHA]第二級至第四級）且左心室射出分率降低的病人，減少心血管死亡和心臟衰竭住院風險"
 ---
 

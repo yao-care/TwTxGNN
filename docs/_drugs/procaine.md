@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Procaine"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 description: "Procaine：預測新適應症為高鐵血紅素血症 (methemoglobinemia)（證據等級 L5）。原適應症：局部麻醉"
 ---
 

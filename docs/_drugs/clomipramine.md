@@ -5,7 +5,7 @@ parent: 高證據等級 (L1-L2)
 nav_order: 70
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Clomipramine：預測新適應症為焦慮症 (Anxiety Disorder)（證據等級 L1）。原適應症：憂鬱病"
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]

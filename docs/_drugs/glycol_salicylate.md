@@ -6,7 +6,7 @@ title: Glycol Salicylate
 parent: 僅已知用途（無新預測）
 nav_order: 127
 monitor_inn: "Glycol salicylate"
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Glycol Salicylate: known uses and market status in Taiwan; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0

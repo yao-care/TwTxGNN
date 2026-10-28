@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Scopolamine"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Scopolamine：預測新適應症為脊髓馬尾症候群 (Cauda Equina Syndrome)（證據等級 L5）。原適應症：胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿…"
 ---
 

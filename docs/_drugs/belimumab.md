@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Belimumab"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "severe nonproliferative diabetic retinopathy", "autosomal dominant macrothrombocytopenia"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Belimumab：預測新適應症為原發性血小板釋放障礙 (primary release disorder of platelets)（證據等級 L5）。原適應症：與標準治療併用，適用於在標準治療下仍存有高疾病活性（如同時符合 anti-dsDNA 陽性、低補體…"
 ---
 

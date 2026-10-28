@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Conjugated estrogens"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "rheumatoid arthritis", "heparin cofactor 2 deficiency", "Prinzmetal angina", "hemoglobinopathy", "thrombophilia"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Conjugated Estrogens：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L3）。原適應症：卵巢機能不全、月經不順、月經困難、機能性子宮出血"
 ---
 

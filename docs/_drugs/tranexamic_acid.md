@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-16
+last_modified_at: 2026-10-29
 description: "Tranexamic Acid：預測新適應症為無月經 (Amenorrhea)（證據等級 L4）。原適應症：全身及局部出血或出血性疾病"
 ---
 

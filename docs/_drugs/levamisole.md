@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "levamisole"
 predicted_indications: ["drug-induced osteoporosis", "benign neoplasm of tongue", "cervical neuroblastoma", "benign neoplasm of buccal mucosa", "epiglottis neoplasm", "cystic neoplasm", "benign neoplasm of floor of mouth", "schwannoma of jugular foramen", "benign neoplasm of hypopharynx", "inner ear neoplasm"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-29
 description: "Levamisole：預測新適應症為藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis)（證據等級 L5）。原適應症：驅除蛔蟲、鉤蟲、糞圓蟲"
 ---
 
