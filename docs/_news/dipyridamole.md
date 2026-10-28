@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dipyridamole</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（1 則）
 
 ### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
 來源: [報新聞](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
-
----
-
-### [免疫老化…長者染流感 中風、心梗風險暴增](https://news.google.com/rss/articles/CBMiowJBVV95cUxQYkJmemtDTVViV3VDSGYzbEpZMjFHLUo5OGJ6MVJ2Q0V1Um1rYWM1T0RWVGd6aEF3U1g4aUJGRG4wYS0wX3FhRnRGVWFleFh5MUxsYjVXTVlQY0xvZEZEWWhBTW5HVkRRcktlaU9SS3pObk9IZnpORlFzaDJBeEd5cmgtOHVCQW16bF9hVUFsQ1ZqRkxnSEFJbWdLQlptd19DWmRrWVJXQUllR0hlbldmSkxHVjRySVZrZHVuc29nT1otNWlIR19jbUZuRlZiM0J6Ui1MdjNhZTB4VEpGbmdxYWRoSThkVl83b3E2QmtQV1FsVkl5N2tHT19LZ0FGZ3BMTTg2TmVYLW5McWE4MVpkLWF4Y2w4SmN5cjdMVzlXc0RvaUE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiowJBVV95cUxQYkJmemtDTVViV3VDSGYzbEpZMjFHLUo5OGJ6MVJ2Q0V1Um1rYWM1T0RWVGd6aEF3U1g4aUJGRG4wYS0wX3FhRnRGVWFleFh5MUxsYjVXTVlQY0xvZEZEWWhBTW5HVkRRcktlaU9SS3pObk9IZnpORlFzaDJBeEd5cmgtOHVCQW16bF9hVUFsQ1ZqRkxnSEFJbWdLQlptd19DWmRrWVJXQUllR0hlbldmSkxHVjRySVZrZHVuc29nT1otNWlIR19jbUZuRlZiM0J6Ui1MdjNhZTB4VEpGbmdxYWRoSThkVl83b3E2QmtQV1FsVkl5N2tHT19LZ0FGZ3BMTTg2TmVYLW5McWE4MVpkLWF4Y2w4SmN5cjdMVzlXc0RvaUE?oc=5)
 
 ---
 

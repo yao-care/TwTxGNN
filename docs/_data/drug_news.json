@@ -181,12 +181,17 @@
     {
       "url": "/news/cefmetazole/",
       "title": "Cefmetazole 相關新聞",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 7
+    },
+    {
+      "url": "/news/鏈球菌/",
+      "title": "鏈球菌 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/cladribine/": [
@@ -251,12 +256,12 @@
     {
       "url": "/news/dipyridamole/",
       "title": "Dipyridamole 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/stroke/",
       "title": "中風 (stroke) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/disopyramide/": [
@@ -297,12 +302,12 @@
     {
       "url": "/news/dronedarone/",
       "title": "Dronedarone 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/stroke/",
       "title": "中風 (stroke) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/durvalumab/": [
@@ -443,6 +448,11 @@
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
       "count": 2
+    },
+    {
+      "url": "/news/心血管疾病/",
+      "title": "心血管疾病 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/levamisole/": [
@@ -497,12 +507,12 @@
     {
       "url": "/news/nystatin/",
       "title": "Nystatin 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/menopause/",
       "title": "更年期 (menopause) 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/停經/",
@@ -538,21 +548,11 @@
     {
       "url": "/news/ouabain/",
       "title": "Ouabain 相關新聞",
-      "count": 3
-    },
-    {
-      "url": "/news/myocardial-infarction/",
-      "title": "心肌梗塞 (myocardial infarction) 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/心臟衰竭/",
       "title": "心臟衰竭 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/心梗/",
-      "title": "心梗 相關新聞",
       "count": 1
     }
   ],
@@ -572,7 +572,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 12
+      "count": 11
     },
     {
       "url": "/news/generic-cancer/",
@@ -585,18 +585,18 @@
       "count": 3
     },
     {
+      "url": "/news/胃癌/",
+      "title": "胃癌 相關新聞",
+      "count": 2
+    },
+    {
       "url": "/news/menopause/",
       "title": "更年期 (menopause) 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/停經/",
       "title": "停經 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/胃癌/",
-      "title": "胃癌 相關新聞",
       "count": 1
     },
     {
@@ -607,6 +607,11 @@
     {
       "url": "/news/子宮頸癌/",
       "title": "子宮頸癌 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/食道癌/",
+      "title": "食道癌 相關新聞",
       "count": 1
     }
   ],
@@ -648,7 +653,7 @@
     {
       "url": "/news/胃癌/",
       "title": "胃癌 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/regorafenib/": [
@@ -691,7 +696,7 @@
     {
       "url": "/news/tinidazole/",
       "title": "Tinidazole 相關新聞",
-      "count": 8
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -701,7 +706,7 @@
     {
       "url": "/news/menopause/",
       "title": "更年期 (menopause) 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/停經/",
@@ -713,12 +718,12 @@
     {
       "url": "/news/tioconazole/",
       "title": "Tioconazole 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/menopause/",
       "title": "更年期 (menopause) 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/停經/",
@@ -747,12 +752,12 @@
     {
       "url": "/news/trastuzumab_deruxtecan/",
       "title": "Trastuzumab deruxtecan 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/胃癌/",
       "title": "胃癌 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/vinorelbine/": [

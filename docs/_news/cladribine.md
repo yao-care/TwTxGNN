@@ -42,6 +42,14 @@ last_modified_at: 2026-10-28
 
 ## 相關新聞（7 則）
 
+### [每8例癌症就有1例與感染有關！研究揭5大致癌感染源，如何降低風險？](https://news.google.com/rss/articles/CBMingNBVV95cUxOaGtxQ25BWm5BVUhFeEhXcGtvUlVpLXoydUFHYlVnMGJTaXpOcmdULVlhTHZRX3o1Y3pwN3phZVhoNUZ1T2luWkpvMVdodl9ZeUJ6TENDbWZnVUdhbXRNRktIZklwbXVfWHRrYUE5NjBGTE83d3hGWVZTX2dNQ3FQd3JiTWExR3lfVHFUNW9qbHYxeXpIMEozaHE2UVVNSGMxM1Q2SGxIejMwOERUOU5lMkVLdnY0WEx2WWxEZ0ZvWUdaNFFzQm8ya1UtbHRqWjFtVk02MXFQVDk2SWZ5dDR2aUV5MlRKNTBlVGVjOUYyUHdCdTN4Znc5VW1ueUg0QXdMSkI0NXBsTlktbnJSSVdOMzRxNkVPMkdNOVNTS1BZN3g5MThyb2x5UkdIYXZRR0Jlcll3RW84dHJlbFk1MzJ4RDhRcHZXOFhtVS1kM3VXWFN1QktoNHBFZWZESzNuQlBhdlFTMm1iX3lPRTc2X0dlYTZUbE8zOEhmS1hsdVRJcVJOaUJzZzNCN1lzVTBoVGtGeFdmUzlXVE5DTDJnZFE?oc=5)
+
+2026-10-28 <span class="news-indication-tag">癌症</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMingNBVV95cUxOaGtxQ25BWm5BVUhFeEhXcGtvUlVpLXoydUFHYlVnMGJTaXpOcmdULVlhTHZRX3o1Y3pwN3phZVhoNUZ1T2luWkpvMVdodl9ZeUJ6TENDbWZnVUdhbXRNRktIZklwbXVfWHRrYUE5NjBGTE83d3hGWVZTX2dNQ3FQd3JiTWExR3lfVHFUNW9qbHYxeXpIMEozaHE2UVVNSGMxM1Q2SGxIejMwOERUOU5lMkVLdnY0WEx2WWxEZ0ZvWUdaNFFzQm8ya1UtbHRqWjFtVk02MXFQVDk2SWZ5dDR2aUV5MlRKNTBlVGVjOUYyUHdCdTN4Znc5VW1ueUg0QXdMSkI0NXBsTlktbnJSSVdOMzRxNkVPMkdNOVNTS1BZN3g5MThyb2x5UkdIYXZRR0Jlcll3RW84dHJlbFk1MzJ4RDhRcHZXOFhtVS1kM3VXWFN1QktoNHBFZWZESzNuQlBhdlFTMm1iX3lPRTc2X0dlYTZUbE8zOEhmS1hsdVRJcVJOaUJzZzNCN1lzVTBoVGtGeFdmUzlXVE5DTDJnZFE?oc=5)
+
+---
+
 ### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
 
 2026-10-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
@@ -74,27 +82,19 @@ last_modified_at: 2026-10-28
 
 ---
 
-### [癌症五條「入侵路徑」都與日常習慣有關](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5)
+### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
-2026-10-25 <span class="news-indication-tag">癌症</span>
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
 
-來源: [大紀元時報香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Yd054WENnTVdKaXJ1bWZQNFdZOTFtSk1XZHF5OEFhQmdYeUFSSFVtXzQxOUVoQnpMeG1VSHZubmxJQ1hPUGp4eS0zc214SWZlOVlCbzJmY21fNnRVaC0w?oc=5)
-
----
-
-### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% - TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5)
-
-2026-10-24 <span class="news-indication-tag">癌症</span>
-
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5)
+來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
 ---
 
-### [陸癌症中心公布發病前五癌症死亡率之首是它- 兩岸](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
+### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
 
-2026-10-21 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+2026-10-22 <span class="news-indication-tag">癌症</span>
 
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrU0IxeUVPaGNmbTJlNjNIZ2NrNTY5VE1TR2JQMHhvc3NZWmNSellpbFZLbFpyNkwzZzZnUXlrcl9DUWtXMUhuWVJ2V2VfeDkxd3FpVGNxTC1XenV0VVo0?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5)
 
 ---
 
