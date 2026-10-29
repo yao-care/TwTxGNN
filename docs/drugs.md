@@ -17,6 +17,11 @@ redirect_from:
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+本列表依據[食藥署 TFDA](https://www.fda.gov.tw/)的許可證資料（台灣）。
+
+<!-- local-home:end -->
+
 ## 統計摘要
 
 | 證據等級 | 藥物數 | 說明 |

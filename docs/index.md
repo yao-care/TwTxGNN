@@ -24,6 +24,46 @@ image: /assets/images/og-default.png
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## 台灣：本站涵蓋範圍
+
+本站公開 **{{ site.data.drug_stats.total_drugs }}** 個藥品的報告，藥品來自[食藥署 TFDA](https://www.fda.gov.tw/)的許可證資料（台灣）。
+
+各證據等級報告數： L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### 本站證據等級最高的藥品
+
+| 藥品 | 證據等級 |
+|---|---|
+| [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 |
+| [Clomipramine](/drugs/clomipramine/) | L1 |
+| [Doxorubicin](/drugs/doxorubicin/) | L1 |
+| [Icatibant](/drugs/icatibant/) | L1 |
+| [Terbutaline](/drugs/terbutaline/) | L1 |
+| [Busulfan](/drugs/busulfan/) | L2 |
+| [Dexamethasone](/drugs/dexamethasone/) | L2 |
+| [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 |
+| [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L2 |
+| [Nepafenac](/drugs/nepafenac/) | L2 |
+
+### 30 個 TxGNN 站台中只有本站涵蓋的藥品
+
+| 藥品 | 證據等級 |
+|---|---|
+| [Ethynodiol Diacetate](/drugs/ethynodiol-diacetate/) | L3 |
+| [Alpha-Tocopherol Succinate](/drugs/alpha-tocopherol-succinate/) | L5 |
+| [Anthralin](/drugs/anthralin/) | L5 |
+| [Ascorbyl Phosphate](/drugs/ascorbyl-phosphate/) | L5 |
+| [Lutetium Lu 177 Dotatate](/drugs/lutetium-lu-177-dotatate/) | L5 |
+| [Nitroxoline](/drugs/nitroxoline/) | L5 |
+| [Ouabain](/drugs/ouabain/) | L5 |
+| [Cefmetazole](/drugs/cefmetazole/) | L5 |
+| [Methylprednisone](/drugs/methylprednisone/) | L5 |
+| [Gabexate](/drugs/gabexate/) | L5 |
+| [Timepidium](/drugs/timepidium/) | L5 |
+
+<!-- local-home:end -->
+
 ## 藥物查詢
 
 <p class="key-answer" data-question="如何查詢藥物或疾病的老藥新用可能性？">
