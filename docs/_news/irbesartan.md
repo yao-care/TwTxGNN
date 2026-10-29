@@ -3,9 +3,9 @@ layout: default
 title: "Irbesartan 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Irbesartan 的相關健康新聞報導。原適應症：本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。預測適應症 4 個。"
+description: "Irbesartan 的相關健康新聞報導。原適應症：本態性高血壓之治療。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 本態性高血壓。治療...。預測適應症 4 個。"
 permalink: /news/irbesartan/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Irbesartan 相關新聞
@@ -25,7 +25,7 @@ last_modified_at: 2026-10-28
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變</li>
+<li><strong>原適應症</strong>: 本態性高血壓之治療。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 降血壓劑; 降血壓劑。; 本態性高血壓之治療。治療併有高血壓及第二型糖尿病病人的高血壓及糖尿病性腎病變。; 降血壓藥; 本態性高血壓。</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（4 個）</strong>:<ul>
 <li>malignant hypertensive renal disease</li>
@@ -81,7 +81,7 @@ last_modified_at: 2026-10-28
 
 ### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
-2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 

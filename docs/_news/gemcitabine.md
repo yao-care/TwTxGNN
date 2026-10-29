@@ -3,9 +3,9 @@ layout: default
 title: "Gemcitabine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Gemcitabine 的相關健康新聞報導。原適應症：非小細胞肺癌、胰臟癌、膀胱癌、膽道癌；與 paclitaxel 併用於曾使用 anthracycli...。預測適應症 10 個。"
+description: "Gemcitabine 的相關健康新聞報導。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾...。預測適應症 10 個。"
 permalink: /news/gemcitabine/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Gemcitabine 相關新聞
@@ -25,8 +25,8 @@ last_modified_at: 2026-10-28
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 非小細胞肺癌、胰臟癌、膀胱癌、膽道癌；與 paclitaxel 併用於曾使用 anthracycline 之局部復發且無法手術切除或轉移性乳癌；曾使用含鉑類藥物治療後復發且間隔至少 6 個月之卵巢癌（第二線）</li>
-<li><strong>證據等級</strong>: L1</li>
+<li><strong>原適應症</strong>: 1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌患者。5.用於曾經使用含鉑類藥物(PLATINUM-BASED)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 抗癌藥。; 非小細胞肺癌、胰臟癌、膀胱癌。Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用含鉑類藥物(platinum-based)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 非</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
 <li>rectum mucinous adenocarcinoma</li>
@@ -95,7 +95,7 @@ last_modified_at: 2026-10-28
 
 ### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
-2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 

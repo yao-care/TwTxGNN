@@ -181,17 +181,12 @@
     {
       "url": "/news/cefmetazole/",
       "title": "Cefmetazole 相關新聞",
-      "count": 8
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 7
-    },
-    {
-      "url": "/news/鏈球菌/",
-      "title": "鏈球菌 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/cladribine/": [
@@ -228,11 +223,6 @@
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 7
-    },
-    {
-      "url": "/news/small-cell-lung-carcinoma/",
-      "title": "肺癌 (small cell lung carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/dehydrocholic-acid/": [
@@ -291,11 +281,6 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 3
-    },
-    {
-      "url": "/news/small-cell-lung-carcinoma/",
-      "title": "肺癌 (small cell lung carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/dronedarone/": [
@@ -770,11 +755,6 @@
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 7
-    },
-    {
-      "url": "/news/small-cell-lung-carcinoma/",
-      "title": "肺癌 (small cell lung carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/vismodegib/": [

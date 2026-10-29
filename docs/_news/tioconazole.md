@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Tioconazole 的相關健康新聞報導。原適應症：感受性黴菌引起之局部感染。預測適應症 3 個。"
 permalink: /news/tioconazole/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Tioconazole 相關新聞
@@ -26,7 +26,7 @@ last_modified_at: 2026-10-28
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 感受性黴菌引起之局部感染</li>
-<li><strong>證據等級</strong>: L2</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（3 個）</strong>:<ul>
 <li>vulvovaginitis</li>
 <li>vulvitis</li>

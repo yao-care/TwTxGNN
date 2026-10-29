@@ -3,9 +3,9 @@ layout: default
 title: "Cefmetazole 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Cefmetazole 的相關健康新聞報導。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症。預測適應症 9 個。"
+description: "Cefmetazole 的相關健康新聞報導。原適應症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症; 葡萄球菌、鏈球菌、肺炎雙...。預測適應症 9 個。"
 permalink: /news/cefmetazole/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Cefmetazole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="Cefmetazole 有什麼相關新聞？">
-<strong>Cefmetazole</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cefmetazole</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -25,8 +25,8 @@ last_modified_at: 2026-10-28
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症; 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染。; 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症。; 抗生素。; 抗生素</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
 <li>hyperamylasemia</li>
 <li>polyclonal hyperviscosity syndrome</li>
@@ -42,21 +42,13 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/cefmetazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [每8例癌症就有1例與感染有關！研究揭5大致癌感染源，如何降低風險？](https://news.google.com/rss/articles/CBMingNBVV95cUxOaGtxQ25BWm5BVUhFeEhXcGtvUlVpLXoydUFHYlVnMGJTaXpOcmdULVlhTHZRX3o1Y3pwN3phZVhoNUZ1T2luWkpvMVdodl9ZeUJ6TENDbWZnVUdhbXRNRktIZklwbXVfWHRrYUE5NjBGTE83d3hGWVZTX2dNQ3FQd3JiTWExR3lfVHFUNW9qbHYxeXpIMEozaHE2UVVNSGMxM1Q2SGxIejMwOERUOU5lMkVLdnY0WEx2WWxEZ0ZvWUdaNFFzQm8ya1UtbHRqWjFtVk02MXFQVDk2SWZ5dDR2aUV5MlRKNTBlVGVjOUYyUHdCdTN4Znc5VW1ueUg0QXdMSkI0NXBsTlktbnJSSVdOMzRxNkVPMkdNOVNTS1BZN3g5MThyb2x5UkdIYXZRR0Jlcll3RW84dHJlbFk1MzJ4RDhRcHZXOFhtVS1kM3VXWFN1QktoNHBFZWZESzNuQlBhdlFTMm1iX3lPRTc2X0dlYTZUbE8zOEhmS1hsdVRJcVJOaUJzZzNCN1lzVTBoVGtGeFdmUzlXVE5DTDJnZFE?oc=5)
 
 2026-10-28 <span class="news-indication-tag">癌症</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMingNBVV95cUxOaGtxQ25BWm5BVUhFeEhXcGtvUlVpLXoydUFHYlVnMGJTaXpOcmdULVlhTHZRX3o1Y3pwN3phZVhoNUZ1T2luWkpvMVdodl9ZeUJ6TENDbWZnVUdhbXRNRktIZklwbXVfWHRrYUE5NjBGTE83d3hGWVZTX2dNQ3FQd3JiTWExR3lfVHFUNW9qbHYxeXpIMEozaHE2UVVNSGMxM1Q2SGxIejMwOERUOU5lMkVLdnY0WEx2WWxEZ0ZvWUdaNFFzQm8ya1UtbHRqWjFtVk02MXFQVDk2SWZ5dDR2aUV5MlRKNTBlVGVjOUYyUHdCdTN4Znc5VW1ueUg0QXdMSkI0NXBsTlktbnJSSVdOMzRxNkVPMkdNOVNTS1BZN3g5MThyb2x5UkdIYXZRR0Jlcll3RW84dHJlbFk1MzJ4RDhRcHZXOFhtVS1kM3VXWFN1QktoNHBFZWZESzNuQlBhdlFTMm1iX3lPRTc2X0dlYTZUbE8zOEhmS1hsdVRJcVJOaUJzZzNCN1lzVTBoVGtGeFdmUzlXVE5DTDJnZFE?oc=5)
-
----
-
-### [防流感也要防肺鏈！ 肺阻塞患者感染恐釀呼吸衰竭](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GUUo0c0Qtc0dncHFXY0Y3SUZYMWdCYlhNLUs2bWdyQnNBR3k4djJzbXN0d0t2Z2pyMjlxc1ZuQWYxUFBBM0swbFpZLV9EVDV0S000SndwZVdNa1Nrd1l5Q1NUMy0?oc=5)
-
-2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">鏈球菌</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GUUo0c0Qtc0dncHFXY0Y3SUZYMWdCYlhNLUs2bWdyQnNBR3k4djJzbXN0d0t2Z2pyMjlxc1ZuQWYxUFBBM0swbFpZLV9EVDV0S000SndwZVdNa1Nrd1l5Q1NUMy0?oc=5)
 
 ---
 
@@ -94,7 +86,7 @@ last_modified_at: 2026-10-28
 
 ### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
-2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 

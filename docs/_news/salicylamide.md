@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 10 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 ---
 
 # Salicylamide 相關新聞
@@ -26,7 +26,7 @@ last_modified_at: 2026-10-27
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 鎮痛藥</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>pharyngitis</li>
 <li>nasal cavity disease</li>

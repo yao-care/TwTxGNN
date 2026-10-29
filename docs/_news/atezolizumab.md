@@ -3,9 +3,9 @@ layout: default
 title: "Atezolizumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Atezolizumab 的相關健康新聞報導。原適應症：非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）。預測適應症 10 個。"
+description: "Atezolizumab 的相關健康新聞報導。原適應症：1. 非小細胞肺癌： (1) 單獨使用，適用於第II至IIIA期(UICC/AJCC分期系統第7版)...。預測適應症 10 個。"
 permalink: /news/atezolizumab/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Atezolizumab 相關新聞
@@ -25,8 +25,8 @@ last_modified_at: 2026-10-28
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 非小細胞肺癌（含術後輔助治療、第一線及後線治療等多種情境）</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>原適應症</strong>: 1. 非小細胞肺癌： (1) 單獨使用，適用於第II至IIIA期(UICC/AJCC分期系統第7版)且腫瘤具PD-L1表現(tumor cell (TC) ≥ 1%)之非小細胞肺癌病人接受手術切除及含鉑藥物化學治療後的輔助性治療。 (2) 單獨使用，適用於治療接受含鉑化學治療後，疾病惡化之局部晚期或轉移性非小細胞肺癌病人。病人若具有EGFR或ALK腫瘤基因異常，則須先經EGFR或ALK抑制劑治療，若治療後疾病惡化方可使用本品。 (3) 與bevacizumab、paclitaxel和carboplatin併用，做為轉移性之非鱗狀非小細胞肺癌的第一線治療藥物。病人若具有 EGFR 突變或 ALK</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>prostatic urethra urothelial carcinoma</li>
 <li>kidney pelvis sarcomatoid transitional cell carcinoma</li>
@@ -87,7 +87,7 @@ last_modified_at: 2026-10-28
 
 ### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
-2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 

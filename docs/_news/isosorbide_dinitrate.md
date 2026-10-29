@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Isosorbide dinitrate 的相關健康新聞報導。原適應症：預防狹心症之發作。預測適應症 10 個。"
 permalink: /news/isosorbide_dinitrate/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Isosorbide dinitrate 相關新聞
@@ -26,7 +26,7 @@ last_modified_at: 2026-10-28
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 預防狹心症之發作</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>alopecia</li>
 <li>congenital hypotrichosis milia</li>
@@ -45,19 +45,19 @@ last_modified_at: 2026-10-28
 
 ## 相關新聞（2 則）
 
-### [防流感也要防肺鏈！ 肺阻塞患者感染恐釀呼吸衰竭](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GUUo0c0Qtc0dncHFXY0Y3SUZYMWdCYlhNLUs2bWdyQnNBR3k4djJzbXN0d0t2Z2pyMjlxc1ZuQWYxUFBBM0swbFpZLV9EVDV0S000SndwZVdNa1Nrd1l5Q1NUMy0?oc=5)
-
-2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">鏈球菌</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GUUo0c0Qtc0dncHFXY0Y3SUZYMWdCYlhNLUs2bWdyQnNBR3k4djJzbXN0d0t2Z2pyMjlxc1ZuQWYxUFBBM0swbFpZLV9EVDV0S000SndwZVdNa1Nrd1l5Q1NUMy0?oc=5)
-
----
-
 ### [糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5)
 
 2026-10-24 <span class="news-indication-tag">心血管</span>
 
 來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5)
+
+---
+
+### [流感季打疫苗別顧了孩子忘了自己 避免家長成「家庭防護破口」 | 鏡週刊 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4ZXRidkVMNlNSN0NhZ2hZRU53MFZGRnk2MzVLbUxYVUJRQlpWX2ZKbm9ENmZEekNQUlBIUW9jR0E4b3pLWHd3aS1TV3VoWTM1Q3VfaHhR?oc=5)
+
+2026-10-22 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4ZXRidkVMNlNSN0NhZ2hZRU53MFZGRnk2MzVLbUxYVUJRQlpWX2ZKbm9ENmZEekNQUlBIUW9jR0E4b3pLWHd3aS1TV3VoWTM1Q3VfaHhR?oc=5)
 
 ---
 

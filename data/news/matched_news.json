@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-10-28T21:26:38.968776+00:00",
+  "last_updated": "2026-10-29T01:25:02.495437+00:00",
   "total_count": 54,
   "matched_count": 20,
   "news": [
+    {
+      "id": "4d4069a9183d",
+      "title": "紐約州流感季已經來臨",
+      "published": "2026-10-29T01:10:00+00:00",
+      "summary": "紐約州流感季已經來臨&nbsp;&nbsp;大紀元衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大豬流感捲土重來！美國爆疫與2009年病毒株相同 曾釀六千萬人染病 一類人高危 接種疫苗預約方法+地點&nbsp;&nbsp;myTV SUPER全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13Zmc2cHVVZ2M2NmRlWHB2ODByR1p4NFNPVzAzQl9QY1llRFMyM1RXTUNTYVdDLXhmTVAzcldnRksxQ19pMFRTLWc3VmJ2MnA2Ym5UczlDaU9oTVk5LWd3b2Vn0gFnQVVfeXFMTXFPYk5RM0tWY0VoVTZyaHh2WUUyWERGby1vYlJ6bHhFejI5RzFsUllTMGhudmtQbklOcjhxQnE0ZVFJcXRweHB1Zmt0ZTZnZVlyT3lFemxxdlRNcWZuUWNzel9pVWI4RQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f62aa07e9547",
       "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病",
@@ -325,56 +338,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "8561214cea99",
-      "title": "防流感也要防肺鏈！ 肺阻塞患者感染恐釀呼吸衰竭",
-      "published": "2026-10-28T06:22:00+00:00",
-      "summary": "防流感也要防肺鏈！ 肺阻塞患者感染恐釀呼吸衰竭&nbsp;&nbsp;自由健康網肺阻塞患者「感染IPD風險增逾4倍」 醫示警恐引發呼吸衰竭&nbsp;&nbsp;ETtoday健康雲肺炎鏈球菌疫苗誰能公費打？接種重點- 健康新聞&nbsp;&nbsp;PChome Online 新聞心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;Yahoo新聞流感季打疫苗別顧了孩子忘了自己 避免家長成「家庭防護破口」 | 鏡週刊&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GUUo0c0Qtc0dncHFXY0Y3SUZYMWdCYlhNLUs2bWdyQnNBR3k4djJzbXN0d0t2Z2pyMjlxc1ZuQWYxUFBBM0swbFpZLV9EVDV0S000SndwZVdNa1Nrd1l5Q1NUMy0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "鏈球菌",
-          "keyword": "鏈球菌",
-          "related_drugs": [
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "f40b73f8d859",
@@ -1816,19 +1779,6 @@
       ]
     },
     {
-      "id": "a983e53cef27",
-      "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例",
-      "published": "2026-10-26T11:16:17+00:00",
-      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY全球首宗 人類感染沙蒙達病毒&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "希望之聲電台",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnlBWi01YV9QMXRlQ05lSHp0ai1aQS1YLXZ5dGQ1Qm44X3FMSE03T2MtcWdJdk10SjFaVFZ6NjdPeDd3Q1dScV9xdndJcFJaaTJCM09DWFJWalU?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "80fec4a62a8a",
       "title": "環境因素或正推高自閉症的發病率",
       "published": "2026-10-26T11:00:00+00:00",
@@ -1881,14 +1831,14 @@
       "matched_keywords": []
     },
     {
-      "id": "6338d78bc45e",
+      "id": "9a5e63c470c2",
       "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種",
       "published": "2026-10-26T01:05:00+00:00",
       "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
       "sources": [
         {
           "name": "新住民全球新聞網",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXZ4aEdXR0dtSGduVk9KSFlWS2l3RWwwSUw5ZHZWQXgzOUF4RnBadkYyclFqRGRvdXlFcmJzNmRiSWF5eXlCaHVKenc4cHB4akpMQ291dENVUGZySWF6dEp3aXRXUnQzbWVpbFhtNzdsdXpkUjg2Y0h6a0hnX1UyMHF1QUNmWjRSc193YmJNc2JlRklpUnVna1R3Zw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWZ1V1dxTkY4QmpKcm9VUi02Q01Za3dZZGhLM1IxWWtEUEhSRkRvNlNCRDVvWmhvRGQ0QlEyalB6MEpBeEpTVkFTZS1UNEN5M0FpRGxtbm92NHRDMWxncFNFS1NaMUt1a1Z2a29WcjFIMTVOTmtHdXBGN1FxX3ZXY1V0LVY1d2JqS1V0MnMwOWZBcXpzNUdsOHdwUnBLT0ludDBtMGFMRnEwQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1987,6 +1937,19 @@
       "matched_keywords": []
     },
     {
+      "id": "27678273790e",
+      "title": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎",
+      "published": "2026-10-25T01:53:42+00:00",
+      "summary": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNNkgxMmZOTGdWMVA1d0pzRDR3anpSU1AtYUdMMTc2bVZ1Tnc3UV9VRi1hNXBxdVY2bEJjaGRXMkJSUDJQZHBudXhKYjJoeFJkSVVkQUtaXzQ3ZDFkdmFkcTBKWkNRLS1PUmx3bFhzLVlSWG9sSVVMMHdXa2NXTGx6blN1dHlWMXV3b05YUkZrQ242YmJWYnlFZzl2czN2cVFhVWwtQzdvV040RDktNWcyYUJSVThDZjNpNDZSSXM4MTAtZHRqUlNnelY3b3VrVlVaNFFqcXBtbkVVUXZTLU84dVJrcWVOQkxQV3VCWTY4RVhkTjBwUnR5cUhvaDdqQ1poZ3pFYnVMSExVZ1RMZ2VraVRHUjVZS09ZQzBwQ2RTUFExR0JIRlMyRVU0eDBCOXhpWEhVTWV5aE53M1NFZ3NVZFNUOTF0ZGZuUjdpdFJiQnd1Q3kxR1RNNEt5dDN2bTR3dW9rMFpRU1pJSGtYdi1ZalI2RS1LQ0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "423282f28620",
       "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
       "published": "2026-10-24T16:01:31+00:00",
@@ -2021,19 +1984,6 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82X2Itc2tLd2twcVg0Rnhrc0wwVHpXV1JQTW1ST2lDMlhERmxlelJhX0J2QXNERW0ySnZBR19yQm95ckg1Q3lDSWJYOXdlLUxQQUIzNEo5SjNuaGlPdFg5RjhR0gFnQVVfeXFMUE45RXNDeUU4djBjMXJQS3lyOTgtamJ2d2RaTlZRVXJGcUd6b29LMElXZWdZQU9pVXZfU0VaQVZMSUpTVDlMVUdtRFVaTFBGR3ItX0stN0UwVkJST05zZTRuTE9jTzlRWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58c6ab8e7f1d",
-      "title": "全美流感住院率創16年同期新高",
-      "published": "2026-10-24T14:00:00+00:00",
-      "summary": "全美流感住院率創16年同期新高&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2198,7 +2148,7 @@
       "id": "632151f37586",
       "title": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food",
       "published": "2026-10-23T12:48:27+00:00",
-      "summary": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food中國癌症發病榜名單大洗牌：甲狀腺癌第3 汪明荃、徐若瑄是患者&nbsp;&nbsp;香港01甲狀腺癌升至中國好發癌症第三位 肺癌仍是癌症死亡之首&nbsp;&nbsp;澳門力報甲狀腺癌首度升上中國癌症發病第三位 胃癌與食道癌跌出前五&nbsp;&nbsp;新假期中國癌症排名｜中國癌症排名大洗牌甲狀腺癌躋身三甲1種癌是年輕人「頭號癌症」【附最新男女發病+死亡癌症排名】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food中國癌症發病榜名單大洗牌：甲狀腺癌第3 汪明荃、徐若瑄是患者&nbsp;&nbsp;香港01甲狀腺癌首度升上中國癌症發病第三位 胃癌與食道癌跌出前五&nbsp;&nbsp;新假期中國癌症排名｜中國癌症排名大洗牌甲狀腺癌躋身三甲1種癌是年輕人「頭號癌症」【附最新男女發病+死亡癌症排名】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "U Food",
@@ -2523,28 +2473,6 @@
               "url": "/drugs/hydroxyurea/"
             }
           ]
-        },
-        {
-          "type": "indication",
-          "name": "small cell lung carcinoma",
-          "keyword": "肺癌",
-          "related_drugs": [
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
-            }
-          ]
         }
       ]
     },
@@ -2557,6 +2485,19 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNc2ZjbzlHdThrektNUXlyVFFCdU5xVTlPTDhnMFRMYmxRTnFMR2E1V2dNc2VFLWNSTDlDMDBrRFNzTTVEWXFvRU1PNFdkVFZhVDQ1b1F5NURoTnNSa1JxYjQ2aWZ4R3p2RDBiLXBQd0ZsdnE3bnZDdmZTU0VCZWxtZ0E4bHFhX05sdElYNG5OQm1OTHB2SmJzdkRtT3AwRkE2ZDlJaUI3UjdwcTBMMTNERUZnR3pKc1FSSFpVakR6ZDRNdS1tZUR5X1h0c2QwSnBDMUhRUTkteTMwVU5YMFNUc252TldqclU1ZHRyR2ln?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d5960213c155",
+      "title": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播",
+      "published": "2026-10-22T18:49:53+00:00",
+      "summary": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "自由時報",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zN3d2ekJaTEdLT3VnSTJXMlYxMnZKTjlld3pFTTZmbTh0SFp3ZGk0LWRZWm83YVRLel9iVk9ybUJLX3JIMlZUcGZ4NUNpdkM1dDZ4TkE4UGJlLWZwdS1CbUFORGMyQdIBa0FVX3lxTE1LOEhZYWxIbVZObFYwaUV1dUNCLU1xelhrX0NId1dwQVZHMzdJSURyY3cxeVNnQk5GQXJueVE1NTN4UHhocm5OVXBFYkVmZTJoR295cFB5bkFVNVV4Ykh0VW4xUjQtOE5FeEN3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2857,6 +2798,44 @@
       ]
     },
     {
+      "id": "1f6524b9d67c",
+      "title": "流感季打疫苗別顧了孩子忘了自己 避免家長成「家庭防護破口」 | 鏡週刊 - LINE TODAY",
+      "published": "2026-10-22T01:56:10+00:00",
+      "summary": "流感季打疫苗別顧了孩子忘了自己 避免家長成「家庭防護破口」 | 鏡週刊&nbsp;&nbsp;LINE TODAY打流感疫苗還不夠 肺阻塞患者當心肺鏈感染&nbsp;&nbsp;自由健康網肺阻塞患者「感染IPD風險增逾4倍」 醫示警恐引發呼吸衰竭&nbsp;&nbsp;ETtoday健康雲不只老人、小孩！醫:4族群肺鏈重症風險高&nbsp;&nbsp;鏡週刊Mirror Media心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4ZXRidkVMNlNSN0NhZ2hZRU53MFZGRnk2MzVLbUxYVUJRQlpWX2ZKbm9ENmZEekNQUlBIUW9jR0E4b3pLWHd3aS1TV3VoWTM1Q3VfaHhR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "61c0b21a4eb2",
       "title": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站",
       "published": "2026-10-22T01:43:55+00:00",
@@ -2865,19 +2844,6 @@
         {
           "name": "CCUE",
           "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c2b525bfd01c",
-      "title": "50歲後想護腦可多吃石榴？ 神經科醫生揭多酚抗氧化作用",
-      "published": "2026-10-21T22:40:06+00:00",
-      "summary": "50歲後想護腦可多吃石榴？ 神經科醫生揭多酚抗氧化作用&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPei1VeEVnelI3YUtlQmVTQ2t1c0YzM2xicXpJUUMyU3FQcG5KeUo4ZnlKX1c4WmxZM0tjd0YxeThWS3lmekFqcVBwY01PWGQ3VFFCbHhoUEswX0piaEo4ZFN3OUg4a1BKOFVaWU11RHRZYy1UN2x0VVBxN2JlUFZybElaRzR5ZTFUY0dGbGpOSW1HTTVRbmRwN291Y29FdG1UTFlwYVpmeldaMWlMQVZsTTMxaDh6bjAtR1ZNMEhlSjNxTUFCemVJTnJUdldlZGtpVFpkaXdNSmFoREtxbW11a2c0WUVzZmgxZHdiUEhpZjBLOUpCSjVGY1BYaU0xTGM0Q0Q1OU1zeHBVQ0h3alRxR19WNlN3YVBDVGRqSXByblRFWi1wLVFSeDEtSHd1eDdPdEc1cGYxeU9jSlRvblhOYl8zc3hSX2hIZUpyUy1lYVpmNDRFTVpxb2RObzNkVWs2bnJ2d0k2cGdVQUtOUmN4QQ?oc=5"
         }
       ],
       "matched_keywords": []

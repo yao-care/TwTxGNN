@@ -3,9 +3,9 @@ layout: default
 title: "Bempedoic acid 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Bempedoic acid 的相關健康新聞報導。原適應症：異合子家族性或非家族性之原發性高膽固醇血症、混合型血脂異常的成人病人，作為飲食輔助治療以降低 LDL...。預測適應症 10 個。"
+description: "Bempedoic acid 的相關健康新聞報導。原適應症：１、適用於患有異合子家族性或非家族性之原發性高膽固醇血症、或混合型血脂異常的成人病人，作為飲食的輔助...。預測適應症 10 個。"
 permalink: /news/bempedoic_acid/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Bempedoic acid 相關新聞
@@ -25,8 +25,8 @@ last_modified_at: 2026-10-28
 <div class="drug-info-card">
 <strong>藥物資訊</strong>
 <ul>
-<li><strong>原適應症</strong>: 異合子家族性或非家族性之原發性高膽固醇血症、混合型血脂異常的成人病人，作為飲食輔助治療以降低 LDL-C</li>
-<li><strong>證據等級</strong>: L3</li>
+<li><strong>原適應症</strong>: １、適用於患有異合子家族性或非家族性之原發性高膽固醇血症、或混合型血脂異常的成人病人，作為飲食的輔助治療以降低低密度脂蛋白膽固醇(LDL-C)： ．與statin類藥品併用、或併用於statin合併其他降血脂療法，治療已接受最大耐受劑量statin仍無法達到低密度脂蛋白膽固醇目標值的病人，或， ．單獨或與其他降血脂療法併用，治療無法耐受statin或禁用statin的病人。 ２、適用於無法接受建議劑量statin治療(包含無法接受statin治療)且患有動脈粥狀硬化心血管疾病或動脈粥狀硬化心血管疾病高風險的成人病人，藉由降低LDL-C的濃度以降低非致命性心肌梗塞及冠狀動脈血管重建風險，作為校正</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>hyperthyroidism</li>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta</li>
@@ -87,7 +87,7 @@ last_modified_at: 2026-10-28
 
 ### [最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 
-2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span> <span class="news-indication-tag">肺癌</span>
+2026-10-23 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">胃癌</span> <span class="news-indication-tag">食道癌</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5)
 

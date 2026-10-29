@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carisoprodol 的相關健康新聞報導。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。預測適應症 1 個。"
 permalink: /news/carisoprodol/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 ---
 
 # Carisoprodol 相關新聞
@@ -26,7 +26,7 @@ last_modified_at: 2026-10-27
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛</li>
-<li><strong>證據等級</strong>: L4</li>
+<li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（1 個）</strong>:<ul>
 <li>insomnia (disease)</li>
 </ul></li>
