@@ -1,13 +1,25 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-29T01:25:00.893370+00:00",
-  "count": 54,
+  "fetched_at": "2026-10-29T07:50:13.208150+00:00",
+  "count": 52,
   "news": [
+    {
+      "id": "a77fe4efd884",
+      "title": "守護偏鄉、弱勢 國光生技流感疫苗公益捐助南迴、南投 - 工商時報",
+      "published": "2026-10-29T06:34:00+00:00",
+      "summary": "守護偏鄉、弱勢 國光生技流感疫苗公益捐助南迴、南投&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50YUJhaE5oUXpXdGtRVmtseExPU21lTjlqNzlGTW91bmwxanRzSjNDV0FQN1R6Q24tZGRaSndvaDJzeFh1MWxpU3N5bEZKYWtseS10OVNtZ2diMzc1Rmxr?oc=5"
+        }
+      ]
+    },
     {
       "id": "08a8e3e5ffa9",
       "title": "骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當 - Yahoo新聞",
       "published": "2026-10-28T16:01:06+00:00",
-      "summary": "骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當&nbsp;&nbsp;Yahoo新聞中高齡族不可忽視的「隱形健康殺手」 醫籲別以為多補鈣就好&nbsp;&nbsp;自由健康網不是高齡、停經後！ 台灣健檢大數據：40歲骨質流失關鍵期- 健康新聞&nbsp;&nbsp;PChome Online 新聞骨肌同管可有效降低跌倒與骨折發生&nbsp;&nbsp;紫荊網30歲後小心健康隱形殺手！ 「三高」之外還有「一低」&nbsp;&nbsp;三立新聞",
+      "summary": "骨質疏鬆別輕忽！二林基督教醫院提醒顧好骨本、行動更穩當&nbsp;&nbsp;Yahoo新聞中高齡族不可忽視的「隱形健康殺手」 醫籲別以為多補鈣就好&nbsp;&nbsp;自由健康網骨肌同管可有效降低跌倒與骨折發生&nbsp;&nbsp;紫荊網嬤身高突縮水5公分！醫：出現3徵兆恐骨鬆&nbsp;&nbsp;鏡週刊Mirror Media骨質疏鬆不是老人專利！久坐熬夜/飲食失衡易骨質流失？醫生拆解症狀/高危人群/護骨方法&nbsp;&nbsp;加拿大星島日報",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "ac3233a8868e",
-      "title": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了 - 三立新聞網SETN.com",
-      "published": "2026-10-27T07:01:41+00:00",
-      "summary": "還沒糖尿病！研究曝「1類人」血管發炎又硬化：500萬台人慘了&nbsp;&nbsp;三立新聞網SETN.com",
+      "id": "b921ae5541ae",
+      "title": "還沒糖尿病！1類人血管硬化：500萬人慘了 - 鏡週刊Mirror Media",
+      "published": "2026-10-27T06:55:00+00:00",
+      "summary": "還沒糖尿病！1類人血管硬化：500萬人慘了&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDTHJFRFMwUFJZODR3SVlXd3Nwai1GRXlzek1lRm41aHY2OXJyRzNkV2NhcWo0dHc3akVKelAxMHZxanlSM1NLR1ZSc0M?oc=5"
+          "name": "鏡週刊Mirror Media",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzdDFVbWtzdEtWMng4UW5ZUjA4RU1XZFNRNlFLX3VydU1uMnRVSXdsOEs4Q2oxOGlId3U4WjBFODc0QkF1Z3NxUko2Zm1icTYyakJtYURnNFN4YjU00gFiQVVfeXFMTjlSaG54bVZ2WHpDM2dlWkdlQjI1VmhxaFNCaHVDeWFoMmQ0Um1EOUpHblpYX3o5T05SSzdxQi0zODFfSmdGTXJpbFVaZVhidDg1d3Q4bUJiSE1KMkZhV1pld3c?oc=5"
         }
       ]
     },
@@ -40,14 +52,14 @@
       ]
     },
     {
-      "id": "9a5e63c470c2",
-      "title": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種 - 新住民全球新聞網",
-      "published": "2026-10-26T01:05:00+00:00",
-      "summary": "南投縣企業捐贈400劑流感疫苗 11月2日起供特定族群免費接種&nbsp;&nbsp;新住民全球新聞網",
+      "id": "34bfc129b5fc",
+      "title": "帶狀疱疹疫苗第二劑副作用比較多？研究揭54%出現不適 這些症狀要注意 - 元氣網",
+      "published": "2026-10-27T07:02:24+00:00",
+      "summary": "帶狀疱疹疫苗第二劑副作用比較多？研究揭54%出現不適 這些症狀要注意&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "新住民全球新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcWZ1V1dxTkY4QmpKcm9VUi02Q01Za3dZZGhLM1IxWWtEUEhSRkRvNlNCRDVvWmhvRGQ0QlEyalB6MEpBeEpTVkFTZS1UNEN5M0FpRGxtbm92NHRDMWxncFNFS1NaMUt1a1Z2a29WcjFIMTVOTmtHdXBGN1FxX3ZXY1V0LVY1d2JqS1V0MnMwOWZBcXpzNUdsOHdwUnBLT0ludDBtMGFMRnEwQQ?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlbHhSY3ZydUo4Q0lncHRIcGZ4dTgzVmpNdVowNG5NZVZPcXdSVFFEejJTU3pUMDRHaG44SngyWHFwWVR4VTZUOFlYNnY1dHZqM2pHdEVRMzZCRUti0gFiQVVfeXFMUGs3TmtVdFVaaTM1WnQ4R1NFSWxmVzUxMTRHYUtkZkhTd0JEWHpRd1kzVXNtbEtVRlc1V0M2WXJ5Y3Y3ZEVqb3FjZUtKSVFCZkN2c0tQZHhFVmNtVDFGbDRpLUE?oc=5"
         }
       ]
     },
@@ -64,6 +76,18 @@
       ]
     },
     {
+      "id": "817d3a3443da",
+      "title": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎 - 三立新聞",
+      "published": "2026-10-25T02:06:47+00:00",
+      "summary": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5keUVGSXBYQTQ3cGxDbWl3emZna1VCWm5wWnVPdGtmSFAwQm15cnRDZjI0T1dEOUxDNzRhSHNyY2NqZzRoc25jcml2ZDk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0ba7c34046b2",
       "title": "抗老醫學新里程碑？梅約診所發現對抗「殭屍細胞」的新策略 - 蕃新聞",
       "published": "2026-10-27T11:40:43+00:00",
@@ -72,18 +96,6 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4M2RJUnVpZWlzM0FWZDR3Xzc3NWdxSl80LV9GMVM3dFQzdVQ4ek1CR3ZvMDRqdmQ3R1NfMUpIV3FTRUpmdTdpaHF5dV9GUDlOX3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88b9b79b0371",
-      "title": "癌症與中風 哪一個更可怕？ - 報新聞",
-      "published": "2026-10-27T23:22:47+00:00",
-      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;報新聞",
-      "sources": [
-        {
-          "name": "報新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5"
         }
       ]
     },
@@ -112,6 +124,18 @@
       ]
     },
     {
+      "id": "88b9b79b0371",
+      "title": "癌症與中風 哪一個更可怕？ - 報新聞",
+      "published": "2026-10-27T23:22:47+00:00",
+      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d88adfb84cd3",
       "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉 - 自由健康網",
       "published": "2026-10-27T07:12:00+00:00",
@@ -124,38 +148,14 @@
       ]
     },
     {
-      "id": "27678273790e",
-      "title": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎 - Yahoo新聞",
-      "published": "2026-10-25T01:53:42+00:00",
-      "summary": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎&nbsp;&nbsp;Yahoo新聞",
+      "id": "329b52c7840f",
+      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - Yahoo新聞",
+      "published": "2026-10-27T01:45:19+00:00",
+      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNNkgxMmZOTGdWMVA1d0pzRDR3anpSU1AtYUdMMTc2bVZ1Tnc3UV9VRi1hNXBxdVY2bEJjaGRXMkJSUDJQZHBudXhKYjJoeFJkSVVkQUtaXzQ3ZDFkdmFkcTBKWkNRLS1PUmx3bFhzLVlSWG9sSVVMMHdXa2NXTGx6blN1dHlWMXV3b05YUkZrQ242YmJWYnlFZzl2czN2cVFhVWwtQzdvV040RDktNWcyYUJSVThDZjNpNDZSSXM4MTAtZHRqUlNnelY3b3VrVlVaNFFqcXBtbkVVUXZTLU84dVJrcWVOQkxQV3VCWTY4RVhkTjBwUnR5cUhvaDdqQ1poZ3pFYnVMSExVZ1RMZ2VraVRHUjVZS09ZQzBwQ2RTUFExR0JIRlMyRVU0eDBCOXhpWEhVTWV5aE53M1NFZ3NVZFNUOTF0ZGZuUjdpdFJiQnd1Q3kxR1RNNEt5dDN2bTR3dW9rMFpRU1pJSGtYdi1ZalI2RS1LQ0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ac0ef044e5e",
-      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - FTNN 新聞網",
-      "published": "2026-10-27T07:16:00+00:00",
-      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;FTNN 新聞網",
-      "sources": [
-        {
-          "name": "FTNN 新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRmZta3NJUkpfajRPM01pRkprQTB3LVc4ZGZXYWhEX2pmMWdWMG5VeThweUJlM1Z3RDFHbXpyZ0VrYnltdlN2SkFKaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "825de3ffd44d",
-      "title": "四價流感疫苗消失了？真相來了→ - 風火輪傳媒有限公司",
-      "published": "2026-10-24T12:46:35+00:00",
-      "summary": "四價流感疫苗消失了？真相來了→&nbsp;&nbsp;風火輪傳媒有限公司中共推农村免费流感疫苗 江苏下指标基层反感 网民集体不买帐(组图)&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "風火輪傳媒有限公司",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVYnNNa0N6LVBwWnY3a0pHQmt0bUVtM0VJbUZjcG9zdjRkamZ2alpFZkZGRXlWeFpHZFJfYmpsc25SQTBaS3F4U3M5UkVtSmFFcW9PczE0Wno2c2EwZXFLN183cDI?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5"
         }
       ]
     },
@@ -172,50 +172,50 @@
       ]
     },
     {
-      "id": "d8a0bd196c29",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 草根影響力新視野",
-      "published": "2026-10-27T04:03:34+00:00",
-      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
+      "id": "7bafa9cdca32",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 健康醫療網",
+      "published": "2026-10-27T01:00:00+00:00",
+      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;健康醫療網",
       "sources": [
         {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5"
         }
       ]
     },
     {
-      "id": "fb58e9366330",
-      "title": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活 - 工商時報",
-      "published": "2026-10-27T01:39:00+00:00",
-      "summary": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活&nbsp;&nbsp;工商時報",
+      "id": "e962f028e9c9",
+      "title": "保健》心衰竭者罹癌風險高 醫教預防 - 中時新聞網",
+      "published": "2026-10-26T20:10:00+00:00",
+      "summary": "保健》心衰竭者罹癌風險高 醫教預防&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EY0FhU2E2S2FDcEVVa0ZlNThKdVdLYUdjeEhRd0YxVDl2YmxQdGJxZmhaaTJxRTlYTUJ2RzFVVGtEa1BLSzR1WXE5MjFLaFNVUTB5eVpIVl9OUk5TNm90YXdXcXJ2M0pZWlFr?oc=5"
         }
       ]
     },
     {
-      "id": "d5960213c155",
-      "title": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播 - 自由時報",
-      "published": "2026-10-22T18:49:53+00:00",
-      "summary": "全球首例！法國通報人類感染「沙門達病毒」死亡病例 原僅限牲畜傳播&nbsp;&nbsp;自由時報全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY",
+      "id": "a983e53cef27",
+      "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例 - 希望之聲電台",
+      "published": "2026-10-26T11:16:17+00:00",
+      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ法國首現牲畜病毒傳人病例 六旬男子身亡&nbsp;&nbsp;新唐人電視台原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY全球首宗 人類感染沙蒙達病毒&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
-          "name": "自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zN3d2ekJaTEdLT3VnSTJXMlYxMnZKTjlld3pFTTZmbTh0SFp3ZGk0LWRZWm83YVRLel9iVk9ybUJLX3JIMlZUcGZ4NUNpdkM1dDZ4TkE4UGJlLWZwdS1CbUFORGMyQdIBa0FVX3lxTE1LOEhZYWxIbVZObFYwaUV1dUNCLU1xelhrX0NId1dwQVZHMzdJSURyY3cxeVNnQk5GQXJueVE1NTN4UHhocm5OVXBFYkVmZTJoR295cFB5bkFVNVV4Ykh0VW4xUjQtOE5FeEN3?oc=5"
+          "name": "希望之聲電台",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnlBWi01YV9QMXRlQ05lSHp0ai1aQS1YLXZ5dGQ1Qm44X3FMSE03T2MtcWdJdk10SjFaVFZ6NjdPeDd3Q1dScV9xdndJcFJaaTJCM09DWFJWalU?oc=5"
         }
       ]
     },
     {
-      "id": "f482095d6750",
-      "title": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠 - Yahoo新聞",
+      "id": "c9d7fc6487ba",
+      "title": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠 - 中天新聞網",
       "published": "2026-10-26T07:52:24+00:00",
-      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;Yahoo新聞",
+      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNnlrUllwUzBncmYxN1lQOUVFa3lQRXkzN0hMcmcxeWpURlFUR2h0OWJoMlVPYzJMYUpPZ1pTeVZuQldFMzNPUThlejZCOUlNZy1ZSllZQldERlJOTlBfVmFQSXY1VnF3UFBsemRmd2lCMFlhd2NaMVRJWmNPb3FSbVAwM1hnVENqQ2tGVnhaUTVvMmRESjhVdDNRLWNLdDU3WEJpUFdYT2dLU1h6SzJDTTJUVFJzNXVXdFhiS2lYR0l6YTRuY09aVEJ1X3BDVkNTakV1cklyeHkwYVJvY2hxWENQSkZjWERFRko4Ymp4bUxpWXV6ZU8zVXNZRW0xUko2eGgxZzF3RjJobjUwdUhvS3hqTlI1MGNFWUpoYXhiUW93cEM1WERTV1UzMXZQRWVsUlRiOE5aVEFOMkhPTTYyRWR0RmM3THBOYzNMdXVrbmNuR1VfRDhTRktaRkdZRG9DSkYxQkRIWHp6YVZyVHA3VTVLTUxXOVFOTVJzVDVycm0?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZFhqSm53cjMzQzdPZVJsb3M4cVBha3A2cjI4bTlxcFc5S2xQOTYtYVRPSldFb21fSzV1MW9xc3A4SE1uaWtaRjVpLU1scFlBWUlN?oc=5"
         }
       ]
     },
@@ -232,14 +232,14 @@
       ]
     },
     {
-      "id": "1f6524b9d67c",
-      "title": "流感季打疫苗別顧了孩子忘了自己 避免家長成「家庭防護破口」 | 鏡週刊 - LINE TODAY",
-      "published": "2026-10-22T01:56:10+00:00",
-      "summary": "流感季打疫苗別顧了孩子忘了自己 避免家長成「家庭防護破口」 | 鏡週刊&nbsp;&nbsp;LINE TODAY打流感疫苗還不夠 肺阻塞患者當心肺鏈感染&nbsp;&nbsp;自由健康網肺阻塞患者「感染IPD風險增逾4倍」 醫示警恐引發呼吸衰竭&nbsp;&nbsp;ETtoday健康雲不只老人、小孩！醫:4族群肺鏈重症風險高&nbsp;&nbsp;鏡週刊Mirror Media心血管疾病預防新思維：疫苗接種也是重要防線&nbsp;&nbsp;PChome Online 新聞",
+      "id": "ad0815c9c8fb",
+      "title": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓 - 香港01",
+      "published": "2026-10-29T04:30:16+00:00",
+      "summary": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓&nbsp;&nbsp;香港01長壽秘訣在於飲食&nbsp;&nbsp;nippon.com六項長壽原則助健康老化&nbsp;&nbsp;metrohk.com.hk怎麼吃才長壽？專家曝「5食物」每週都要吃 吃魚首選這5種&nbsp;&nbsp;三立新聞網SETN.com",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4ZXRidkVMNlNSN0NhZ2hZRU53MFZGRnk2MzVLbUxYVUJRQlpWX2ZKbm9ENmZEekNQUlBIUW9jR0E4b3pLWHd3aS1TV3VoWTM1Q3VfaHhR?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSlo3UVpKWkVWQjZJWG1kT1pIaTgxZktUdzB5cUJiUmVGODF0MWdmRUFkYW84ZlMwTHFQRzM2Yi1BQTY1ZEFWei1zV3NYUEJUeFBmZXJpQ2RqcjExNzFselBLZjRsNlY3c1dkcll6dENaWHNUQlFSTWpGUExEWkFwNzBUTWlqaGhDMjltbHFJUlhfRzRZSU4wN2E0T3o5MGxQR0ZhMlYzTGtPRXBnUXJGRlEyRF9VOWVhUnR0Wk1BcWpFX1ltRk9oRjc3ekZBTE1sS2hRenNjZWkwb0lxY0U5Z3Q3c0IyMk9pUlJTRlFpTGZRS29zQkxId1ZvSURkYll4Q3I2amE0enRaSDR6LWVROUdWX05qMGNKMkxURmJueDd3aDkyZ0pELU5FdUdfU1l2ZmQ1N2dpR3pLQlRMZTlCS3pQR2ROa3NzQ1lSalV5MmI1X0NUZnRGODB0Znl6dDgwemljcXhpTlpSTlJkQTdoaGIxN1I2QWp2dnV5eEwzUmt5bDZ6TWRkZktXb2J2VXQwVmpJd2N0MTFBdFU4VHVYRjRUTkJ6TjlpUURoeUlzaF9uYTBM?oc=5"
         }
       ]
     },
@@ -252,18 +252,6 @@
         {
           "name": "TechNews 科技新報",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXRPU3BpaWVJSERwS0Q4NDUtdWdEOHR4ZDdDSGNLZUlTbEwyQXNmRC15SWExQlQ3R1Rkc051YjJrMVlBOTJTT1FkRmxQdDc5NUt5eldZbzVRMHk3dDNFWm5xZ09VeWZMTVd4MlJnamFDb2pidW1ybkgwT1hjVExpd19lOHFyRDhDb3ZYbWJoU2RVdkpzN1c3b3ZTSEZqRjkwT29RejNrRy12NlFXOTg4R2l4WTY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f62aa07e9547",
-      "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病 - 星島頭條",
-      "published": "2026-10-28T19:00:00+00:00",
-      "summary": "老鼠出沒污染食物環境 糞便唾液傳播疾病&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlBwR28zcWw0SE14UTJ4bUxfcXE4MGJjaHI3cFBFdHFkcU1PbGpyUlNRUWh4TXhGVG5zemw5T21ERlhPNDhOUXJVRUxacW1wcTdrSUZMcjFJSXV1SE9BaThIcmVwTkJHcW80b21kOXFjMmFpdXJ2VkFjU0ZVZkZ3MnNESklMV0dGNktselNPVDlLcmZpVzUtTHczMWJlTEEwM1J2ZmdOcXFqN0w4M1dmN0ZUQmJ0Y1lBVFpFUnZCemZBUDNwWVVXR2YxQU5LLWk3MXF6b3R0YkJEcG0tSklNeWhuRXg3NXM4RlpfdTRyeXRVRkJNeDRzak8zc2l6OEZwTVBmVTVaZ1hQQ2NqLWFhVFFubGloS2NqZm1kU0hNb1pMVVNLMXVtdTctdE0wY2hxRF91d2haaGk?oc=5"
         }
       ]
     },
@@ -304,26 +292,14 @@
       ]
     },
     {
-      "id": "ec2e293f9748",
-      "title": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報 - LINE TODAY",
-      "published": "2026-10-22T07:00:00+00:00",
-      "summary": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "a07eebd49bd0",
+      "title": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 | 科技新報 - LINE TODAY",
+      "published": "2026-10-23T11:33:34+00:00",
+      "summary": "AI 設計噬菌體首度用於人體，Radical Numerics 跨出臨床應用新里程 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VcjR4RDB4LWhaeDV6V3pGNnEyV3RjRThmX0c3TmRTbnY4R2NPb1JnRWdwSlN4akRZMXJLcFdrcmVLNFFSTC1leVBmYkJkVVg2TVhaOWd3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c8df3b202a33",
-      "title": "AI 設計噬菌體首度用於人體 對付耐藥菌感染 - Techapple.com",
-      "published": "2026-10-24T09:30:00+00:00",
-      "summary": "AI 設計噬菌體首度用於人體 對付耐藥菌感染&nbsp;&nbsp;Techapple.com",
-      "sources": [
-        {
-          "name": "Techapple.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00T0lodUYxQmgyczRyZE1xNERqWjV4MXlUVnI2c3BVSlVkRGpLaHIxblVBTVFhMmhVNHBKYXpneWVMNkFack9qdl8yelY?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YcVFwa2JHUGhUVzYydTM5LVVmSnVpV2MxRkNlNnBRZjdlSHJMUS13NmxZZG9OM294b3ZHaGV3cVFxaUtoR2R3dEhlMGc5NUxoSWpkTHFR?oc=5"
         }
       ]
     },
@@ -340,6 +316,18 @@
       ]
     },
     {
+      "id": "8db9c3f3dff1",
+      "title": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% - TechNews 科技新報",
+      "published": "2026-10-24T05:31:24+00:00",
+      "summary": "台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37%&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a9fd8a6b5b05",
       "title": "微型機器人或穿過血管直達心臟 加速藥物遞送 - 大紀元",
       "published": "2026-10-24T15:24:00+00:00",
@@ -348,6 +336,18 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82X2Itc2tLd2twcVg0Rnhrc0wwVHpXV1JQTW1ST2lDMlhERmxlelJhX0J2QXNERW0ySnZBR19yQm95ckg1Q3lDSWJYOXdlLUxQQUIzNEo5SjNuaGlPdFg5RjhR0gFnQVVfeXFMUE45RXNDeUU4djBjMXJQS3lyOTgtamJ2d2RaTlZRVXJGcUd6b29LMElXZWdZQU9pVXZfU0VaQVZMSUpTVDlMVUdtRFVaTFBGR3ItX0stN0UwVkJST05zZTRuTE9jTzlRWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f62aa07e9547",
+      "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病 - 星島頭條",
+      "published": "2026-10-28T19:00:00+00:00",
+      "summary": "老鼠出沒污染食物環境 糞便唾液傳播疾病&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlBwR28zcWw0SE14UTJ4bUxfcXE4MGJjaHI3cFBFdHFkcU1PbGpyUlNRUWh4TXhGVG5zemw5T21ERlhPNDhOUXJVRUxacW1wcTdrSUZMcjFJSXV1SE9BaThIcmVwTkJHcW80b21kOXFjMmFpdXJ2VkFjU0ZVZkZ3MnNESklMV0dGNktselNPVDlLcmZpVzUtTHczMWJlTEEwM1J2ZmdOcXFqN0w4M1dmN0ZUQmJ0Y1lBVFpFUnZCemZBUDNwWVVXR2YxQU5LLWk3MXF6b3R0YkJEcG0tSklNeWhuRXg3NXM4RlpfdTRyeXRVRkJNeDRzak8zc2l6OEZwTVBmVTVaZ1hQQ2NqLWFhVFFubGloS2NqZm1kU0hNb1pMVVNLMXVtdTctdE0wY2hxRF91d2haaGk?oc=5"
         }
       ]
     },
@@ -364,18 +364,6 @@
       ]
     },
     {
-      "id": "baaa3c6fc483",
-      "title": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人",
-      "published": "2026-10-28T01:31:27+00:00",
-      "summary": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊&nbsp;&nbsp;Marie Claire 美麗佳人",
-      "sources": [
-        {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "14feb2b4e1ba",
       "title": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站 - CCUE",
       "published": "2026-10-24T01:00:00+00:00",
@@ -388,10 +376,22 @@
       ]
     },
     {
+      "id": "baaa3c6fc483",
+      "title": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人",
+      "published": "2026-10-28T01:31:27+00:00",
+      "summary": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊&nbsp;&nbsp;Marie Claire 美麗佳人",
+      "sources": [
+        {
+          "name": "Marie Claire 美麗佳人",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "632151f37586",
       "title": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food",
       "published": "2026-10-23T12:48:27+00:00",
-      "summary": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food中國癌症發病榜名單大洗牌：甲狀腺癌第3 汪明荃、徐若瑄是患者&nbsp;&nbsp;香港01甲狀腺癌首度升上中國癌症發病第三位 胃癌與食道癌跌出前五&nbsp;&nbsp;新假期中國癌症排名｜中國癌症排名大洗牌甲狀腺癌躋身三甲1種癌是年輕人「頭號癌症」【附最新男女發病+死亡癌症排名】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food中國癌症發病榜名單大洗牌：甲狀腺癌第3 汪明荃、徐若瑄是患者&nbsp;&nbsp;香港01甲狀腺癌首度升上中國癌症發病第三位 胃癌與食道癌跌出前五&nbsp;&nbsp;新假期",
       "sources": [
         {
           "name": "U Food",
@@ -412,14 +412,14 @@
       ]
     },
     {
-      "id": "4d4069a9183d",
-      "title": "紐約州流感季已經來臨 - 大紀元",
-      "published": "2026-10-29T01:10:00+00:00",
-      "summary": "紐約州流感季已經來臨&nbsp;&nbsp;大紀元衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大豬流感捲土重來！美國爆疫與2009年病毒株相同 曾釀六千萬人染病 一類人高危 接種疫苗預約方法+地點&nbsp;&nbsp;myTV SUPER全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa",
+      "id": "0dcf6546a77d",
+      "title": "秋冬呼吸道病毒進入高峰期 衛生局籲民眾儘早接種疫苗 - 大紀元",
+      "published": "2026-10-29T01:28:00+00:00",
+      "summary": "秋冬呼吸道病毒進入高峰期 衛生局籲民眾儘早接種疫苗&nbsp;&nbsp;大紀元紐約州流感季已經來臨&nbsp;&nbsp;大紀元衛生局啟動宣傳 呼籲秋季注射疫苗&nbsp;&nbsp;SingtaousaH1N1變異毒株來勢洶洶 流感從亞洲殺到卑詩省&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大豬流感捲土重來！美國爆疫與2009年病毒株相同 曾釀六千萬人染病 一類人高危 接種疫苗預約方法+地點&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
           "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13Zmc2cHVVZ2M2NmRlWHB2ODByR1p4NFNPVzAzQl9QY1llRFMyM1RXTUNTYVdDLXhmTVAzcldnRksxQ19pMFRTLWc3VmJ2MnA2Ym5UczlDaU9oTVk5LWd3b2Vn0gFnQVVfeXFMTXFPYk5RM0tWY0VoVTZyaHh2WUUyWERGby1vYlJ6bHhFejI5RzFsUllTMGhudmtQbklOcjhxQnE0ZVFJcXRweHB1Zmt0ZTZnZVlyT3lFemxxdlRNcWZuUWNzel9pVWI4RQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EM1Zna2toWktxVGJVSS1hc0llb3gzam9mNVpNeWNpempDLVNDRU1RZl9TU18wdTBxVEJPV0tydkhEeXNTNlp0QjcxUHV0b1RNcVU1WjY0bG1rdDFSaVFvZEd30gFnQVVfeXFMTThWS1VQZGpJbWtOall2M1JKTy1JZzRvUzFtczllUkRkNHNCc3prZEp2YjVIc1VLMG9ZemZ0RzgtdGlvNTBQdnktb0R3QVIzTmI1Q3BpY2c3MlFyNE84eW5pYkNEZG9fdw?oc=5"
         }
       ]
     },
@@ -432,18 +432,6 @@
         {
           "name": "Sing Tao Daily 星島日報加拿大",
           "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxPcTNWLVkzYUNhQXhHaC1VR1FFMzE0a3ltR1lvUlI5Y3RUYkV1a3RRaTh1MTJPLXhCM0hsYmplV21RSlM3VngyT0VtY0MzTHZOaXpDbWtoZjZrNzY3TGs0Ui1SS2xGYWtaOVVvUGU5UWpyWlFId3pOUFRnc3NJVUx3dS1UQkJsRnZQNWY2dUFhbDBYYk9LVTlYZUZNRmlaZWhTSnQ5cFBVTjRXdDlwLVRnNWdJbUhLRUxQUGlTQmYyTXg1ZUZFMTVfR1ZYbHQyZl8zLV8tdlBwSU14YzJFekRHamNPaVZPTFhFdjNQbmdtVkxmLWdfS3RmYWQ3RGlPcU9jRU51dVNjbnQxaTNkMW1BU1ZiWkM3Zms0Vy12TXRjZkIwYlhPZTFFUlJFQjVDa29DWm9RclRNZU53a1FoMFpNRnFuQ2JzQjc2c1R1aDQ1SUxVN2NaVkZLN19vZm1yTGpvaE04Vml6QlRvSTRUdU1uWDJkMkc4d2ptRFVFOXRCYkJLWVJpV0x1UmtKaDdqTGhaNXJUWFd2amJUUU4tY184WGhUd2F1c1pJOWVZSXVBZkJyZHhhVy03ZUNaX29FVHF1UjFDenh2ekJuUXRXVmVqeTFHbkNmekExd0dLcFdKU05wX0g5YW5YbFRWYU1WekEyUEtraklsVFdod9IBkgFBVV95cUxQcVFHYW5TOXVGRlg2WDhqRk5VUWhfYVBSYkFaRTRyRnZfUWNKOXdpcVAwNzN1a2lVTjJiZzhqd0tPNWwtZWdUakpBM240NWQ3LURyMXRHS2h4WDJHUnRMa21YX09qa3ZPa18zdldOeDJNY1N4QW9yZDA3eGdMcG1fRTBNNmk1Zi1HWFlDZWZneFg5dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6240e6cf589c",
-      "title": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具 - 明日科學",
-      "published": "2026-10-27T07:40:43+00:00",
-      "summary": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具&nbsp;&nbsp;明日科學",
-      "sources": [
-        {
-          "name": "明日科學",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50aV9nUmZ0MFUwLXhxQk9qb3lBZTFab19pLXNoUDdobFpwTlV4YnppbXFkTEw0LVJrR1BmQVlYUXV2M1RIVUYtYlBUNnBKU214S0lwMUloc0RjNnVVYVow?oc=5"
         }
       ]
     },
@@ -475,7 +463,7 @@
       "id": "12ef7d829e4f",
       "title": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK - 明報新聞網",
       "published": "2026-10-27T10:20:47+00:00",
-      "summary": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK&nbsp;&nbsp;明報新聞網夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網流感︱防護中心：夏季病毒株轉變料延長流感季節 至少維持5個月或更長時間&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大流感疫苗接種比率下降 衞生署：流感季或長達5個月&nbsp;&nbsp;香港商报推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站",
+      "summary": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK&nbsp;&nbsp;明報新聞網夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站流感｜病毒肆虐打針進度較滯 新季度港人僅打90萬劑流感針 較去年同期少一成&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "明報新聞網",
@@ -508,14 +496,14 @@
       ]
     },
     {
-      "id": "f0171e6d4e87",
-      "title": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」 - healthyD",
-      "published": "2026-10-22T08:32:45+00:00",
-      "summary": "陳榮峻吳香倫譜黃昏戀笑談「家暴」 陪愛妻抗奪命皮肌炎感「健康無價」&nbsp;&nbsp;healthyD",
+      "id": "6240e6cf589c",
+      "title": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具 - 明日科學",
+      "published": "2026-10-27T07:40:43+00:00",
+      "summary": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具&nbsp;&nbsp;明日科學",
       "sources": [
         {
-          "name": "healthyD",
-          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNczIzVmo3X0ZTZ08xR2VfSUcyVHlXeFpxZzgyOFk5bFc0YWpQOXRPSVUwdnFYWVJMZ3l2ZkhOeXNVQmtSSDVRM1FzcDR6dDI0Tkh4TkwtVUJ2N0lKZlpmSm5IaUFaSXEzbExyRUhBekw0eGN0Tjg3ekw4a2UxcWVJbU56SkxHbHZCeWduNWFob3M5dENJYm15N3dpVGdtQVR0b0JVV3l6OXB0R21JdnhJWVlidEYycDd6WnQycU4wUGxITmwwNFFFLWF5bHRWekZzSkI2VTk3ZG9HTG9WRHEyUU9LelptZ3R3Rk96bFVsbkFSM1U1VWtBWEFGam84b0RqMVNxTFU5eFFpcFFiODBOcjVXUDJZekVTTk5KWTc2YVdVM0NubDFxTUVHSEhBM0ZBT0Z5VUxpYTRmekc5eVBSag?oc=5"
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50aV9nUmZ0MFUwLXhxQk9qb3lBZTFab19pLXNoUDdobFpwTlV4YnppbXFkTEw0LVJrR1BmQVlYUXV2M1RIVUYtYlBUNnBKU214S0lwMUloc0RjNnVVYVow?oc=5"
         }
       ]
     },
@@ -604,26 +592,14 @@
       ]
     },
     {
-      "id": "61c0b21a4eb2",
-      "title": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站 - CCUE",
-      "published": "2026-10-22T01:43:55+00:00",
-      "summary": "溫哥華市臭鼬染狂犬病曾在西端或史丹利公園接觸者應就醫| 事事如意生活網站&nbsp;&nbsp;CCUE衛生官員關注動物感染狂犬症病毒&nbsp;&nbsp;https://am1320.com/",
+      "id": "2d0e68d0df38",
+      "title": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」 - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-10-23T06:33:34+00:00",
+      "summary": "【更新】溫哥華染狂犬病臭鼬影片曝光 衛生局警告「有數人被咬傷」&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大衛生官員關注動物感染狂犬症病毒&nbsp;&nbsp;https://am1320.com/",
       "sources": [
         {
-          "name": "CCUE",
-          "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQVmdfQVVISWNTU3U5SGN4cmpDUUhOLU9NeGIxVEVGc1BUVjlXRU5Ib3k1ei1heUFmNEZ3N2JoeER4RlhTNmtvejl0aUgtWTJ5S09VZUpGRU9LYm1pOWlPcUdLbzRpZWxSZm9LSUQ2ZnVabDZ5SjFuZFMtX1FOd0Vsd0FXY0lUd3FGT2VGM1BsaHNNcDlSUnJHVGtUMnJvd1paUlZuSU9hdGJMUVItSUhnQ0xqU3BqazMwZ29DU2I4SFpZOExYT3J5LUZYcms5UFFQRldMN0h6MnZwNjBSOW1ZY25fRF95eFFDSzAyblVPREdSTE5seHF1MXZKV1VuRFkxZ1FtMG40MHUzc3ZnV2RDUGJwWHNGbFAyaHRqYm5HTGVZWkhHODZfbFRRNWo4RzdDalp4OV9FMVRlUGJpZjhubUFRT3FXUm42TV9HMEVXZlI2WEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3868177eee06",
-      "title": "食素陷阱｜42歲女食素3年險癱瘓！醫：缺乏維他命B12導致神經受損 - 香港01",
-      "published": "2026-10-22T07:00:15+00:00",
-      "summary": "食素陷阱｜42歲女食素3年險癱瘓！醫：缺乏維他命B12導致神經受損&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOMVpvWjRkVndtN2xZLW94VzZVakE0a2tJdlgtTTFPYjgyVnBlYnkteUlveVFPSGMxblk0RjVzZlRGYmRiX3dNbWV1eHRTVWNtZzVXUkZwUVgtSnM4ZjF4ZEwtOWtwdnFJdElpX0ZoM1g2b2d6cUlKOW5SMmIzaTRBQWtBMTJGdE9pQVdYaWo3RmJFdENocWV2ME94LXpFMXpQSWgtN2hVSWFUSHNLa0g4V2VZTlRsWGRVTjJjQzBoczVlRlFfTmN2cURtWnJnRDFHaFRpM0lYLVdBQ0RtRm81YlJUdWY0YUhvU0Z3dEVnbGNHRXJZZFRUdi1OTG1kVllBY1hMMmswMWpfczEyRnRDa1hiRjZLOHRoemIwMzQwQ0FFSEY4X3g3NVRNbDBVYlIzUzJRMzQ4a0ktYXpwWmhMWmRCX2xXYkVaQ21DMXgwNGNmM25XanN2UUt2dERtdk9DOE5WdWpoRzktM3N1Rjh0X3JrMm1LX1NBWW5pSVVNSExJY2pzajQxWnZ3?oc=5"
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxQSEtfdU80THRpc1JHTXlkb2hZTlVwYTBEdkhEMl9xdTlLZlVQVUJxaG56eTd3UUJLWGxReE1fd3dPaWtVdU85aDFOYzFMeTZPdE03d3gwUlJIZnU5ZmxNcGFtV0ZRcTA1aHJhQkd0bl9mM2t5TWExRFRXMExBZWJxY3N1TlNSNENrMk1XNjdHRkk0YTNBclVPQlhHVUtfdkVBZGZoNmFGT0dHc1RTUjJESkYycHU4SjQwd3p0aEw4cklELUprdS0wVy1zRWJ6YTV5R1N2N1B1MW43M201QkV1SllfT2x5TVhqTFVvVHRUWjIxTkxfdWRWWGtieXBENkRiSXNDZ1hPQkNRN0czSloyMUpERTRjbllFT0hXUUhGamZiMklSSUJpNGVycGJzc3pHQ21yemJjdGphU0VOc1RPN1ZhMGQ2clRmRnlObGgtSVFnUjJ4ZFV2R0V3T2dQTHltWkc2ekg5ZmhQM2VQZTZKc1lCbk5EZjZ3aFFHS0JJYmNRS2ZLbFlMMEpqZFppYldyVnRUME8yMUJHbThEUXA5UWg2Slp4UkF0M0ExaHN0QkdZMjhoMzFIVjZKYWxhR0s4SnFxOFNWeGlUQdIBigFBVV95cUxNX1Bsb252a1BHNl9sUUdYMkhxRTB0OV9RTUFLMlEyT2x1angyb0lQanBlWVJ2Y2NYdnpXNG1mOXI5SjZsYmxSWUNyMUVrZC1oTUhNcm9nMTFrbzNLM19rZHJFU19ybGJzc05GWmQ0MEdnbGFTS1ppRmVhQkQwZDhueU8wa0xQSVU1UGc?oc=5"
         }
       ]
     },
