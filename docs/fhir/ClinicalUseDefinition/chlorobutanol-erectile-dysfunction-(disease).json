@@ -1,6 +1,6 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "norethindrone_enanthate-antithrombin-deficiency-type-2",
+  "id": "chlorobutanol-erectile-dysfunction-(disease)",
   "meta": {
     "profile": [
       "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
@@ -18,13 +18,13 @@
   },
   "subject": [
     {
-      "reference": "MedicationKnowledge/norethindrone_enanthate"
+      "reference": "MedicationKnowledge/chlorobutanol"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "antithrombin deficiency type 2"
+        "text": "erectile dysfunction (disease)"
       }
     }
   },
@@ -39,7 +39,7 @@
     },
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.9893000000000001
+      "valueDecimal": 0.9979
     }
   ]
 }

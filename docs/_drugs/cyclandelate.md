@@ -6,9 +6,9 @@ nav_order: 76
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-29
-description: "Cyclandelate：預測新適應症為變異型心絞痛（證據等級 L2）。原適應症：末梢血管循環障礙"
 monitor_inn: "Cyclandelate"
 predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]
+description: "Cyclandelate：預測新適應症為Prinzmetal angina（證據等級 L5）。原適應症：末梢血管循環障礙"
 ---
 
 # Cyclandelate
@@ -33,7 +33,7 @@ predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disord
 
 </div>
 
-## Cyclandelate：從末梢血管循環障礙到變異型心絞痛
+## Cyclandelate: Prinzmetal angina
 {: .text-alpha }
 
 ## 一句話總結
@@ -47,8 +47,8 @@ TxGNN 模型預測它可能對**偏頭痛 (migraine disorder)** 有效，
 | 項目 | 內容 |
 |------|------|
 | 原適應症 | 末梢血管循環障礙 |
-| 預測新適應症 | 偏頭痛 (migraine disorder)；此為證據最完整的預測，TxGNN 排名第 3，排名第 1 為 Prinzmetal 心絞痛 |
-| TxGNN 預測分數 | 0.9969（偏頭痛）；排名第 1 的 Prinzmetal 心絞痛為 0.9980 |
+| 預測新適應症 | Prinzmetal angina |
+| TxGNN 預測分數 | 0.9980 |
 | 證據等級 | L5（偏頭痛） |
 | 台灣上市 | 上市中（有效許可證 1 張／共 42 張） |
 | 許可證數 | 42 張（有效單方 1／有效複方 0／已註銷 41） |

@@ -1,6 +1,6 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "norethindrone_enanthate-heparin-cofactor-2-deficiency",
+  "id": "cyclandelate-benign-prostatic-hyperplasia-(disease)",
   "meta": {
     "profile": [
       "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
@@ -18,13 +18,13 @@
   },
   "subject": [
     {
-      "reference": "MedicationKnowledge/norethindrone_enanthate"
+      "reference": "MedicationKnowledge/cyclandelate"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "heparin cofactor 2 deficiency"
+        "text": "benign prostatic hyperplasia (disease)"
       }
     }
   },
@@ -39,7 +39,7 @@
     },
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.9890000000000001
+      "valueDecimal": 0.9908
     }
   ]
 }

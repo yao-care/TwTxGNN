@@ -1,6 +1,6 @@
 {
   "resourceType": "ClinicalUseDefinition",
-  "id": "norethindrone_enanthate-cardiovascular-disease",
+  "id": "camphor-erectile-dysfunction-(disease)",
   "meta": {
     "profile": [
       "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
@@ -18,13 +18,13 @@
   },
   "subject": [
     {
-      "reference": "MedicationKnowledge/norethindrone_enanthate"
+      "reference": "MedicationKnowledge/camphor"
     }
   ],
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "cardiovascular disease"
+        "text": "erectile dysfunction (disease)"
       }
     }
   },
@@ -35,11 +35,11 @@
     },
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L4"
+      "valueCode": "L5"
     },
     {
       "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.9806999999999999
+      "valueDecimal": 0.9979
     }
   ]
 }

@@ -61,7 +61,6 @@ TxGNN 深度學習模型（分數 ≥ 0.99）針對 Aluminum Hydroxide 產生的
 
 | 適應症 | 已核准分類 |
 |------|------|
-| 胃十二指腸炎 (gastroduodenitis) | gastritis |
 
 ### 知識圖譜中記錄的關聯（未發現核准）
 
