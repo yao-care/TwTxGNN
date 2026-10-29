@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-10-29T14:47:50.664895+00:00",
+  "fetched_at": "2026-10-29T19:58:05.070773+00:00",
   "count": 51,
   "news": [
     {
@@ -76,18 +76,6 @@
       ]
     },
     {
-      "id": "817d3a3443da",
-      "title": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎 - 三立新聞",
-      "published": "2026-10-25T02:06:47+00:00",
-      "summary": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎&nbsp;&nbsp;三立新聞",
-      "sources": [
-        {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5keUVGSXBYQTQ3cGxDbWl3emZna1VCWm5wWnVPdGtmSFAwQm15cnRDZjI0T1dEOUxDNzRhSHNyY2NqZzRoc25jcml2ZDk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0ba7c34046b2",
       "title": "抗老醫學新里程碑？梅約診所發現對抗「殭屍細胞」的新策略 - 蕃新聞",
       "published": "2026-10-27T11:40:43+00:00",
@@ -96,6 +84,18 @@
         {
           "name": "蕃新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4M2RJUnVpZWlzM0FWZDR3Xzc3NWdxSl80LV9GMVM3dFQzdVQ4ek1CR3ZvMDRqdmQ3R1NfMUpIV3FTRUpmdTdpaHF5dV9GUDlOX3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "817d3a3443da",
+      "title": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎 - 三立新聞",
+      "published": "2026-10-25T02:06:47+00:00",
+      "summary": "「症狀過脖子了嗎？」沒發燒也要小心 醫示警：退燒爆汗恐傷腎&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5keUVGSXBYQTQ3cGxDbWl3emZna1VCWm5wWnVPdGtmSFAwQm15cnRDZjI0T1dEOUxDNzRhSHNyY2NqZzRoc25jcml2ZDk?oc=5"
         }
       ]
     },
@@ -124,14 +124,14 @@
       ]
     },
     {
-      "id": "88b9b79b0371",
-      "title": "癌症與中風 哪一個更可怕？ - 報新聞",
-      "published": "2026-10-27T23:22:47+00:00",
-      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;報新聞",
+      "id": "a983e53cef27",
+      "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例 - 希望之聲電台",
+      "published": "2026-10-26T11:16:17+00:00",
+      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY全球首宗 人類感染沙蒙達病毒&nbsp;&nbsp;Singtaousa法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治&nbsp;&nbsp;香港電台新聞網",
       "sources": [
         {
-          "name": "報新聞",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5"
+          "name": "希望之聲電台",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnlBWi01YV9QMXRlQ05lSHp0ai1aQS1YLXZ5dGQ1Qm44X3FMSE03T2MtcWdJdk10SjFaVFZ6NjdPeDd3Q1dScV9xdndJcFJaaTJCM09DWFJWalU?oc=5"
         }
       ]
     },
@@ -144,6 +144,18 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YcUxCalJYc1c1SndIcFg2YUxrMVBrRlN5QmFidDFaWTF6RTYwLUJITkdadmhkclRUbHJqeWhmZnp5dG9DSnZIQS1sS3NFbXFrOXNfXy1fdTZCSjJ5N1VxZmhR0gFnQVVfeXFMTVY3ZmI0aDEydjJ6WmVFNGExTTJrMDczSkZ4TVVBYV9TSExrckdfYmNUakFZdEE2NTJSRXNIMnJEY2czVGlSWkdoak1tTXR4OElmN2JKRjg0T0p2VFg1aEJ3UlRKSTZOTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88b9b79b0371",
+      "title": "癌症與中風 哪一個更可怕？ - 報新聞",
+      "published": "2026-10-27T23:22:47+00:00",
+      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;報新聞",
+      "sources": [
+        {
+          "name": "報新聞",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5"
         }
       ]
     },
@@ -168,18 +180,6 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a983e53cef27",
-      "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例 - 希望之聲電台",
-      "published": "2026-10-26T11:16:17+00:00",
-      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ原本幾乎只感染牛 法國出現沙門達病毒人類感染致死首例 | 太報&nbsp;&nbsp;LINE TODAY全球首宗 人類感染沙蒙達病毒&nbsp;&nbsp;Singtaousa法國通報全球首宗人類感染沙蒙達病毒個案 患者月初不治&nbsp;&nbsp;香港電台新聞網",
-      "sources": [
-        {
-          "name": "希望之聲電台",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcnlBWi01YV9QMXRlQ05lSHp0ai1aQS1YLXZ5dGQ1Qm44X3FMSE03T2MtcWdJdk10SjFaVFZ6NjdPeDd3Q1dScV9xdndJcFJaaTJCM09DWFJWalU?oc=5"
         }
       ]
     },
@@ -256,18 +256,6 @@
       ]
     },
     {
-      "id": "ad0815c9c8fb",
-      "title": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓 - 香港01",
-      "published": "2026-10-29T04:30:16+00:00",
-      "summary": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓&nbsp;&nbsp;香港01長壽秘訣在於飲食&nbsp;&nbsp;nippon.com六項長壽原則助健康老化&nbsp;&nbsp;metrohk.com.hk怎麼吃才長壽？專家曝「5食物」每週都要吃 吃魚首選這5種&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSlo3UVpKWkVWQjZJWG1kT1pIaTgxZktUdzB5cUJiUmVGODF0MWdmRUFkYW84ZlMwTHFQRzM2Yi1BQTY1ZEFWei1zV3NYUEJUeFBmZXJpQ2RqcjExNzFselBLZjRsNlY3c1dkcll6dENaWHNUQlFSTWpGUExEWkFwNzBUTWlqaGhDMjltbHFJUlhfRzRZSU4wN2E0T3o5MGxQR0ZhMlYzTGtPRXBnUXJGRlEyRF9VOWVhUnR0Wk1BcWpFX1ltRk9oRjc3ekZBTE1sS2hRenNjZWkwb0lxY0U5Z3Q3c0IyMk9pUlJTRlFpTGZRS29zQkxId1ZvSURkYll4Q3I2amE0enRaSDR6LWVROUdWX05qMGNKMkxURmJueDd3aDkyZ0pELU5FdUdfU1l2ZmQ1N2dpR3pLQlRMZTlCS3pQR2ROa3NzQ1lSalV5MmI1X0NUZnRGODB0Znl6dDgwemljcXhpTlpSTlJkQTdoaGIxN1I2QWp2dnV5eEwzUmt5bDZ6TWRkZktXb2J2VXQwVmpJd2N0MTFBdFU4VHVYRjRUTkJ6TjlpUURoeUlzaF9uYTBM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "423282f28620",
       "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
       "published": "2026-10-24T16:01:31+00:00",
@@ -304,6 +292,18 @@
       ]
     },
     {
+      "id": "ad0815c9c8fb",
+      "title": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓 - 香港01",
+      "published": "2026-10-29T04:30:16+00:00",
+      "summary": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓&nbsp;&nbsp;香港01長壽秘訣在於飲食&nbsp;&nbsp;nippon.com六項長壽原則助健康老化&nbsp;&nbsp;metrohk.com.hk怎麼吃才長壽？專家曝「5食物」每週都要吃 吃魚首選這5種&nbsp;&nbsp;三立新聞網SETN.com",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSlo3UVpKWkVWQjZJWG1kT1pIaTgxZktUdzB5cUJiUmVGODF0MWdmRUFkYW84ZlMwTHFQRzM2Yi1BQTY1ZEFWei1zV3NYUEJUeFBmZXJpQ2RqcjExNzFselBLZjRsNlY3c1dkcll6dENaWHNUQlFSTWpGUExEWkFwNzBUTWlqaGhDMjltbHFJUlhfRzRZSU4wN2E0T3o5MGxQR0ZhMlYzTGtPRXBnUXJGRlEyRF9VOWVhUnR0Wk1BcWpFX1ltRk9oRjc3ekZBTE1sS2hRenNjZWkwb0lxY0U5Z3Q3c0IyMk9pUlJTRlFpTGZRS29zQkxId1ZvSURkYll4Q3I2amE0enRaSDR6LWVROUdWX05qMGNKMkxURmJueDd3aDkyZ0pELU5FdUdfU1l2ZmQ1N2dpR3pLQlRMZTlCS3pQR2ROa3NzQ1lSalV5MmI1X0NUZnRGODB0Znl6dDgwemljcXhpTlpSTlJkQTdoaGIxN1I2QWp2dnV5eEwzUmt5bDZ6TWRkZktXb2J2VXQwVmpJd2N0MTFBdFU4VHVYRjRUTkJ6TjlpUURoeUlzaF9uYTBM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "746e1dd22e16",
       "title": "植髮完「髮量沒變多還一直掉」？醫揭5階段變化真正成果要等這麼久- 健康新聞 - PChome Online 新聞",
       "published": "2026-10-24T01:00:00+00:00",
@@ -328,22 +328,10 @@
       ]
     },
     {
-      "id": "ef15ee9ce895",
-      "title": "微型機器人或穿過血管直達心臟 加速藥物遞送 - 大紀元",
-      "published": "2026-10-24T15:24:00+00:00",
-      "summary": "微型機器人或穿過血管直達心臟 加速藥物遞送&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82X2Itc2tLd2twcVg0Rnhrc0wwVHpXV1JQTW1ST2lDMlhERmxlelJhX0J2QXNERW0ySnZBR19yQm95ckg1Q3lDSWJYOXdlLUxQQUIzNEo5SjNuaGlPdFg5RjhR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "14feb2b4e1ba",
       "title": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站 - CCUE",
       "published": "2026-10-24T01:00:00+00:00",
-      "summary": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站&nbsp;&nbsp;CCUE播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法 子宮頸癌前病變可逆轉&nbsp;&nbsp;星島頭條",
+      "summary": "播毒渣男/高鐵座位掀HPV關注！醫生剖析2大預防方法子宮頸癌前病變可逆轉| 事事如意生活網站&nbsp;&nbsp;CCUE前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "CCUE",
@@ -376,26 +364,26 @@
       ]
     },
     {
-      "id": "632151f37586",
-      "title": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food",
-      "published": "2026-10-23T12:48:27+00:00",
-      "summary": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "ca027ca5a83a",
+      "title": "封面故事／共餐不用公筷 華人胃癌大增 - 世界新聞網",
+      "published": "2026-10-25T21:19:00+00:00",
+      "summary": "封面故事／共餐不用公筷 華人胃癌大增&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "U Food",
-          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
         }
       ]
     },
     {
-      "id": "3b7d64f5e111",
-      "title": "封面故事／「公筷公匙」上陣 讓幽門桿菌下桌 聚餐更安心 - 世界新聞網",
-      "published": "2026-10-25T19:50:00+00:00",
-      "summary": "封面故事／「公筷公匙」上陣 讓幽門桿菌下桌 聚餐更安心&nbsp;&nbsp;世界新聞網",
+      "id": "0b1a68b878c7",
+      "title": "純肉飲食背後令人驚訝的結果 - 大紀元",
+      "published": "2026-10-29T19:00:00+00:00",
+      "summary": "純肉飲食背後令人驚訝的結果&nbsp;&nbsp;大紀元",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rQnFZYjA2Z01IOV9BUkdJOEJWTTJWNGdfQ0VPZ0Z3c3FiVFduZGtDVDF4RE9vbWhKbE54LWFmaHpZQWJHY0VpYU1sQ0xjemlHR1g0TXhTY05Qd2VNTE9MSTVn0gFnQVVfeXFMT1RnU2treXJYcjVTZHV1OEd6ZmFlQkhZUEhBTlhsRHFQY3RZbEhqSmhka2pfcjZjY2c3TTVKVXZXVjR4T28zdjJNZ3NxdFU2dUpVMXhXSTFQZHR4OW43ZGNrODBKSEh6UQ?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41aUJkQkgzMkl4dG44Rkp4cnBjQmFsOTZtSUJIMFpJeDBCREQ1eE9oSHdxUHRqc0kxZ2ZsVkxJZ1pKRERGcFRVTzZjSDU0YkgtZFZvWjlvRmlCajA5X1Zpal9B0gFnQVVfeXFMUDNvaGtPSjBpUXBiYzBfejZadFVReVJqMnFVX1BSdTNyTkdwMmo5VUVWTnJSbFlpbmk2N3RtMDlQNFNkZWduNkh0VFZOZTJJdTgzWjZQeW9oZE5hT2FUSTZxZ0FUOUpDOA?oc=5"
         }
       ]
     },
@@ -420,18 +408,6 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOZWxyQVljMGlkQ1FtcWNCb3RCbkJiQ3NXUlRVdmIwQWlTVFZ4b2N3WUgwWThRVFRNVVA1cm50dFJVUDJlY2N4RURrSzVOeG5pTVUxTUtsOTJoQkNLX2h6T1Q3TTBQSkZzWjdJWWpGdXQ1NUdoLTBMT0Uxc0liY0JKWlhKTzF2cWxBdmlQM0JfRWc5dTJaWWstZVI0WWpkMDh6LWhENTF5MTh3bjRsa2NPbUVUaVNCZ2JmcVZFREtUMnY5dzRNSmRxUjEtMXh3U2phOFpKdnFFN1dVYXgyaHpzenk4NGppdWw1eDFrMEk3TEp6Ukd4UDV2WlUzb0FTQUZVWnVzSkVHYVZYVU5wVVlKZk8ydmlxRjVkTGVVcVJHR0JJVnpvcEF3aU5nNFdVbFc2ZUhJWDdZcmlYY1MwZ3ZKOXZMVWlWcWhTVjRYWFNtT2YzNWwwX01QdFRtS3lCOEZMeWZBQUc4VUFac1hOdGhZdldxSndsUU1tc3BxbUVFTkFBY2g0MUdwXy1EWmtuVzJKQURKcXAwVXB5SXJTX3Npa3NTUlJYSW9QMTlmRVgxbjU5a0x4U1d3M0twTmRyTFpsMl9zZGt4Q0ZEQWVEaXVObV9HMERrX2R2VXZhSXVOYXduWjdjU2NqZTRjRllOUlBnR0dreU0tYzVXdlFoY0hjVGdINjV0VF9GVmRHMzFSRGdxQkFTbVl5MUNQYUh3X29GeHRGc1Q5aHhYRW9aY2tzTHVfVEFkUEJZNGNZMWpPczVmSERLeEFHNlRuQ0h4Zll0YXlBam92aFN4X1RvM2t3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8224e25af8e3",
-      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節 - 香港01",
-      "published": "2026-10-27T15:02:09+00:00",
-      "summary": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5"
         }
       ]
     },
@@ -484,14 +460,14 @@
       ]
     },
     {
-      "id": "326cd6f89ac1",
-      "title": "三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療 - Singtaousa",
-      "published": "2026-10-23T12:22:33+00:00",
-      "summary": "三歲男童感染甲型流感 併發急性壞死性腦病變需深切治療&nbsp;&nbsp;Singtaousa推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站3歲男童感染甲型流感併發敗血性休克情況危殆 潛伏期曾到過美國&nbsp;&nbsp;香港電台新聞網流感｜病毒肆虐打針進度較滯 新季度港人僅打90萬劑流感針 較去年同期少一成&nbsp;&nbsp;香港經濟日報HKET夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK&nbsp;&nbsp;明報新聞網",
+      "id": "2ae6a2b3645e",
+      "title": "流感｜3歲男童染甲流併發急性壞死性腦病變 一度失去意識 須留醫PICU - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-10-23T11:14:37+00:00",
+      "summary": "流感｜3歲男童染甲流併發急性壞死性腦病變 一度失去意識 須留醫PICU&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站3歲男童感染甲型流感併發敗血性休克情況危殆 潛伏期曾到過美國&nbsp;&nbsp;香港電台新聞網流感｜病毒肆虐打針進度較滯 新季度港人僅打90萬劑流感針 較去年同期少一成&nbsp;&nbsp;香港經濟日報HKET夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3FzaEFfVzlTNzJvVGRtd2JZaGJzbm42R1FQSXhjQk8teHNGaWRSalFSdjhqbUExdTgxc0pDTS1VNlJ6V01OYk9VSk1pckg5aVh2eUhnQnJ6NU5PamMwZmR3aHJLdnc3X1lkSWNWeGZ4TmZmZTBQakk4Tk1YdlM0czUwb0thZVZoRFExcHNNN05fVTdZbXBV?oc=5"
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNZDVOeEcyU3puT2VCUk5YUWJBZGVHLWU0LUdyc013Ynd5QmdIM0loVVhZOGdFdjE2XzU4eU55NVNDUzlCdkJfOWdab0pRcDRSRUdVRElERlgxMU9QOGZ5TTlMOURKUkMzUFlRU0pQaTBQdVVWblVhN2h1SmsxeXNHRU1pcm82UGRQbTVhZFpOanpwYUNLVkcwR09pWUdsYng3RUhNUDAybFZqcm4weTVTYzJNRFZzTUFhaGcyeGdGbk81QllvSUNMODZEa2JUS2ZZSDN5M0V0OTBqQ0dFbkczeHRXYnVTZHhVS1JTXzVYTU1BMElZUHJZaVBhWXI4d3UxVlpQTy1lcDBMT1dTams4Ym55RzBaZ0ZIZl9MWUI4OTBiVlpOQlg0ZWpMem1nRnQ1Q3oyWHJYaDFJSFZJN2VvUGNTVEtCemRvUFlxWWxwWUR4SDR0X3BnVjVpVWIxcllYRl9Xb1g2cDdheEd6SXFjYnlJdlF4RTQ4X3NRQVJWV01zYm9NQ3RUMU0wTUR6c09iS1NSaGVKTmlKOHhMRlBqRElMV0RrSUh6WDVBSWJYeGV6YmhnZmZESdIBjAFBVV95cUxNbVdRTllLc1hxVllMbXI4NHlabjdmSHcwWU5CRkNCLTdjVVVDWVFpWl83MUhFdV9udklmMFVWTWZWRDR1LS1FdU9WQ3JtamNGU2lZclR4Y0V0LVQ4RjNYRi01ZVZvajcxdEdfUlNhWFJyZFA1cmZQc2NDMkViZHJwXzJGcjliQ3UxSnlEUg?oc=5"
         }
       ]
     },
@@ -544,6 +520,18 @@
       ]
     },
     {
+      "id": "632151f37586",
+      "title": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2 - U Food",
+      "published": "2026-10-23T12:48:27+00:00",
+      "summary": "最新癌症排行榜出爐！甲狀腺癌躍升發病第三位／女性乳癌排行飆升至第2&nbsp;&nbsp;U Food前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "U Food",
+          "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOX2xWY3VNVGtKQl8xdlF6SlliM1A1WE56ZUNyREdtYlBrUFZ3WU9CX1BQMktGYlBKWU5KbjVnOHZhSU9zR0RNcVU0X0c1ckNla21QTS0tTE5wZGY3dmpPUDNROC1iclZCZW5BdF9GVDFEWDlVd0YzVzkxTlZmd1p0Q1plUVI2QmFHY0NDMWVPQk9VajNPT1ZlU0xVaU9vUDUxNlFnZHAxZGt0eUdGZmJsd001RUx0c0NMMExXSXd0anpBcWVSb2puNDhOTkZvWnVrZjBIdkk1YWJLVnRnS0VVeHQ3bjFNMVF0T3lkR2hmWXl0WFVBVktPV2dCdHN1ZjAzWFdzd0UyZmRHRWQ3NlZCUnRPWWNRTDFyckVRZjZqVVhOblFvNERJSTJaaUNySU1kemJGSVZhb0tuVGJXRlJuY3lhYTBpajV3TXJvX0NzMVR0aEh0ZkVpbUh0ekNJMGpaZ1dyQ1VUV05oWFhrSlBEQTlPZjlha2M2T0pHVC1LOVVIaU9YYmZxa3BkQTd3a1BtTVBYdngwdFVtNkZ5UGRHYTcyYklOelQ5MFN5NDJGMkFBRjV4Y28wX0JhNnoycFcyVC1zaWJDbGpQSlBJU0E?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4f6c92bc607b",
       "title": "中年男打「減肥神針」2個月暴瘦20公斤 突發腦梗肢體癱瘓急就醫 - 香港01",
       "published": "2026-10-27T09:00:49+00:00",
@@ -552,6 +540,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPSlZUcXdKRDRVaHR6QVpSMnFhWE12ZG10Nm1iWW1nc3BLaEl6SmFlaHdPeVNrdHp1SEZ2bGtSS2dCUDYtUkFaVlJkUVhmQXp2OVFBZjZFb0Z0RnFabnNTRFA1aUxoZFo5RklLZWFSU1NDSFVwUjVBLThmR18zUi1MdW9UWGtzeENEMVZUUGU0SS1OelUyRzY4RE92NFlvRjBjMnBSOWs4ZGUwTjB5Z0RDRDgzN203TUdNNlZaYXh5RHpmcEJld1BZazdTalA5aHAyTEVmek5FemE2TXhsMWZyOWtLbGxJWS1oM3hrN3k3NHlScS1JdFJrZmNJQnNVaVJPMW1kWF9WaDg2aXNETWlTVkU5UTFjcVkyYTJDb0ZfbktRczc2bjk1R3NrbHRoX1JRWXc2RHVaOXBPYjFRTWF3Y1F3Z2hnZlR6UlJ1NER4VFRVQUxtOWlvMUhORUVwWHZwUHE5YmFSaDNjaHRBaFFXYWEzTDZ6VjZhRFRyZG5XVmEzYUpLb0JYdUdraGZwR0tkOXhjNTdkaW5RWlFTTkRHeTVKbjBSMlFLdkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8224e25af8e3",
+      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節 - 香港01",
+      "published": "2026-10-27T15:02:09+00:00",
+      "summary": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5"
         }
       ]
     },

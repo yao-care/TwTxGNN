@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
 
@@ -74,6 +74,14 @@ last_modified_at: 2026-10-29
 2026-10-27 <span class="news-indication-tag">乳腺癌</span>
 
 來源: [shemom.com](https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5)
+
+---
+
+### [封面故事／共餐不用公筷 華人胃癌大增](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5)
+
+2026-10-25 <span class="news-indication-tag">胃癌</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5)
 
 ---
 

@@ -528,7 +528,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 8
+      "count": 9
     },
     {
       "url": "/news/generic-cancer/",
@@ -548,6 +548,11 @@
     {
       "url": "/news/停經/",
       "title": "停經 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/胃癌/",
+      "title": "胃癌 相關新聞",
       "count": 1
     },
     {
@@ -589,12 +594,17 @@
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 5
+    },
+    {
+      "url": "/news/胃癌/",
+      "title": "胃癌 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/regorafenib/": [
@@ -687,6 +697,18 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 3
+    }
+  ],
+  "/drugs/trastuzumab-deruxtecan/": [
+    {
+      "url": "/news/trastuzumab_deruxtecan/",
+      "title": "Trastuzumab deruxtecan 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/胃癌/",
+      "title": "胃癌 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/vinorelbine/": [

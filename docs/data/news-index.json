@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-29T14:47:52.180132+00:00",
-  "count": 14,
+  "generated": "2026-10-29T19:58:07.752989+00:00",
+  "count": 15,
   "news": [
     {
       "id": "baaa3c6fc483",
@@ -1030,6 +1030,41 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca027ca5a83a",
+      "title": "封面故事／共餐不用公筷 華人胃癌大增",
+      "published": "2026-10-25T21:19:00+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "trastuzumab-deruxtecan",
+              "name": "Trastuzumab deruxtecan",
+              "url": "/drugs/trastuzumab-deruxtecan/"
             }
           ]
         }

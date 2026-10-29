@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
 
@@ -66,6 +66,14 @@ last_modified_at: 2026-10-29
 2026-10-27 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [香港01](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5)
+
+---
+
+### [封面故事／共餐不用公筷 華人胃癌大增](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5)
+
+2026-10-25 <span class="news-indication-tag">胃癌</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5)
 
 ---
 
