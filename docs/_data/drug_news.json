@@ -152,7 +152,7 @@
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -163,6 +163,11 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 3
+    },
+    {
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/cefmetazole/": [
@@ -333,7 +338,7 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -344,6 +349,11 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 3
+    },
+    {
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/hydroxyprogesterone-caproate/": [
@@ -362,7 +372,7 @@
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -373,6 +383,11 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 3
+    },
+    {
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/interferon-beta-1b/": [
@@ -415,12 +430,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide dinitrate 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/levamisole/": [
@@ -504,12 +519,22 @@
     {
       "url": "/news/oteracil/",
       "title": "Oteracil 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 5
+    },
+    {
+      "url": "/news/colonic-neoplasm/",
+      "title": "大腸癌 (colonic neoplasm) 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/oxytetracycline/": [
@@ -623,12 +648,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 3
+      "count": 5
     },
     {
       "url": "/news/common-cold/",
       "title": "感冒 (common cold) 相關新聞",
-      "count": 3
+      "count": 5
     }
   ],
   "/drugs/temozolomide/": [
