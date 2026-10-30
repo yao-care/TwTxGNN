@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Berberine 的相關健康新聞報導。原適應症：痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎。預測適應症 10 個。"
 permalink: /news/berberine/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Berberine 相關新聞
@@ -53,11 +53,11 @@ last_modified_at: 2026-10-29
 
 ---
 
-### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMijwJBVV95cUxQMFFYUHZtUnA0NThVREo4elhxMS01WGk4NWhWamtESmhMc2s2dWhZaHByYmNubGZTQVhsVzYyNWRzZ0FydjIxdVpMSEcxUnBieWswUUVBbFdfZWhoUkt0RF8zMzlKQ3VkdDVDUEJTeS1ETEU4ZGZyOU1QQ1lVNzNiWldoV2xBcHF0RHdDU0Njc1NINXBSX3JYbmh1ZVVIcW1yZEIyV3BHVmpMTzd6TS0wazFFcHZ3Z1IyeWhuaWFmb3pnQnBKYmhVeDBmSXpjc1EwQUxua0k1dlc3cmNvMWc3MFNxaG1LRFdfSWl1Z3JsNGR2WDJSNzRMeXlYcFhlTGRsbkNjX01INGxRRFVRZERr?oc=5)
+### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
-來源: [行銷人](https://news.google.com/rss/articles/CBMijwJBVV95cUxQMFFYUHZtUnA0NThVREo4elhxMS01WGk4NWhWamtESmhMc2s2dWhZaHByYmNubGZTQVhsVzYyNWRzZ0FydjIxdVpMSEcxUnBieWswUUVBbFdfZWhoUkt0RF8zMzlKQ3VkdDVDUEJTeS1ETEU4ZGZyOU1QQ1lVNzNiWldoV2xBcHF0RHdDU0Njc1NINXBSX3JYbmh1ZVVIcW1yZEIyV3BHVmpMTzd6TS0wazFFcHZ3Z1IyeWhuaWFmb3pnQnBKYmhVeDBmSXpjc1EwQUxua0k1dlc3cmNvMWc3MFNxaG1LRFdfSWl1Z3JsNGR2WDJSNzRMeXlYcFhlTGRsbkNjX01INGxRRFVRZERr?oc=5)
+來源: [報新聞](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 ---
 
