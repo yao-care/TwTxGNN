@@ -32,19 +32,19 @@ last_modified_at: 2026-10-30
 
 ## 相關新聞（5 則）
 
+### [RSV不只威脅嬰幼兒！醫示警：長者染病恐失能、死亡](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOGNfQmdLYU0wVHBwcFdXcm9aRHdQcjh0M3ZHakYzU1NxU1k1MXFlYlVQdTJqc0hlTXpYYndZRFFzSUZQYjJJTnJTeFJMdS1wUVFfTDFua2tGd1ZYRlg0aA?oc=5)
+
+2026-10-30
+
+來源: [民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOGNfQmdLYU0wVHBwcFdXcm9aRHdQcjh0M3ZHakYzU1NxU1k1MXFlYlVQdTJqc0hlTXpYYndZRFFzSUZQYjJJTnJTeFJMdS1wUVFfTDFua2tGd1ZYRlg0aA?oc=5)
+
+---
+
 ### [健康驛站·急症早識別｜這種“感冒”，千萬不能大意](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
 
 2026-10-30
 
 來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
-
----
-
-### [秋冬RSV進入傳染高峰 醫建議家中老幼接種「5大疫苗」](https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NVV5RV9pVjBpNnJtX2taaVJuRWN2bW1OYkJDeFozM3pBclN1VmtCa3BzOGh6TXZRWDc5ZFg2aGRIT1VPOUZpdkFnVHRPbG1p?oc=5)
-
-2026-10-30
-
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NVV5RV9pVjBpNnJtX2taaVJuRWN2bW1OYkJDeFozM3pBclN1VmtCa3BzOGh6TXZRWDc5ZFg2aGRIT1VPOUZpdkFnVHRPbG1p?oc=5)
 
 ---
 

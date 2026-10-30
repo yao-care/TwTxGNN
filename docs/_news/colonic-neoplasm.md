@@ -32,11 +32,11 @@ last_modified_at: 2026-10-30
 
 ## 相關新聞（1 則）
 
-### [少喝酒還不夠！國際研究曝光「最強抗癌蔬菜」：每天吃半碗，大腸癌風險直接降20% - Women's Health](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHluSVI2VkNrWGpuNnpheUhsNmNOOHY2NndaTS02NE9iNUxHSlZkQnlXSEE3ZWk4U0czMzA2SXNYd19WYi1ieUY1Q1U2VlZLUVlIV0VuclhPWnZHdnV2VzQ2QkFlbXVJWktmbVRUMDlGaHdOU05rbm40XzVMUVlaN281dEdxLTBpY1hqbnN4bEhaUFlWTFZFS0U1aS1Sb0VzR21pSFV2UXJ4a0lKVW5Md0NSREd3NnRnT3dtNm8tZw?oc=5)
+### [年輕人罹大腸癌為何更凶險？ 研究揭腫瘤內藏「保護傘」阻擋化療| 世界萬象| 全球](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
 
 2026-10-30
 
-來源: [Women's Health](https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHluSVI2VkNrWGpuNnpheUhsNmNOOHY2NndaTS02NE9iNUxHSlZkQnlXSEE3ZWk4U0czMzA2SXNYd19WYi1ieUY1Q1U2VlZLUVlIV0VuclhPWnZHdnV2VzQ2QkFlbXVJWktmbVRUMDlGaHdOU05rbm40XzVMUVlaN281dEdxLTBpY1hqbnN4bEhaUFlWTFZFS0U1aS1Sb0VzR21pSFV2UXJ4a0lKVW5Md0NSREd3NnRnT3dtNm8tZw?oc=5)
+來源: [UDN](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
 
 ---
 
