@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T16:52:53.046028+00:00",
+  "generated": "2026-10-30T21:15:28.661928+00:00",
   "count": 19,
   "news": [
     {
@@ -552,31 +552,6 @@
       ]
     },
     {
-      "id": "8689417f51e7",
-      "title": "RSV不只威脅嬰幼兒！醫示警：長者染病恐失能、死亡",
-      "published": "2026-10-30T10:50:18+00:00",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOGNfQmdLYU0wVHBwcFdXcm9aRHdQcjh0M3ZHakYzU1NxU1k1MXFlYlVQdTJqc0hlTXpYYndZRFFzSUZQYjJJTnJTeFJMdS1wUVFfTDFua2tGd1ZYRlg0aA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "54654f8d0216",
       "title": "「流感疫苗」降心血管風險 醫：五大類族群應及早接種！",
       "published": "2026-10-30T07:00:00+00:00",
@@ -609,6 +584,31 @@
         {
           "name": "紫荊網",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef0d20cb96ee",
+      "title": "秋冬RSV進入傳染高峰 醫建議家中老幼接種「5大疫苗」",
+      "published": "2026-10-30T02:49:26+00:00",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NVV5RV9pVjBpNnJtX2taaVJuRWN2bW1OYkJDeFozM3pBclN1VmtCa3BzOGh6TXZRWDc5ZFg2aGRIT1VPOUZpdkFnVHRPbG1p?oc=5"
         }
       ],
       "keywords": [
@@ -1560,6 +1560,31 @@
       ]
     },
     {
+      "id": "d8a0bd196c29",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
+      "published": "2026-10-27T04:03:34+00:00",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic-acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "00ac787b7bd2",
       "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media",
       "published": "2026-10-27T01:30:00+00:00",
@@ -1579,31 +1604,6 @@
               "slug": "gefitinib",
               "name": "Gefitinib",
               "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7bafa9cdca32",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
-      "published": "2026-10-27T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "肝硬化",
-          "keyword": "肝硬化",
-          "related_drugs": [
-            {
-              "slug": "dehydrocholic-acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
             }
           ]
         }

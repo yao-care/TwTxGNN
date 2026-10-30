@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T16:52:53.002804+00:00",
-  "total_count": 59,
+  "last_updated": "2026-10-30T21:15:28.638801+00:00",
+  "total_count": 58,
   "matched_count": 19,
   "news": [
     {
@@ -581,32 +581,6 @@
       ]
     },
     {
-      "id": "8689417f51e7",
-      "title": "RSV不只威脅嬰幼兒！醫示警：長者染病恐失能、死亡",
-      "published": "2026-10-30T10:50:18+00:00",
-      "summary": "RSV不只威脅嬰幼兒！醫示警：長者染病恐失能、死亡&nbsp;&nbsp;民報家有老幼當心RSV 感染恐釀肺炎重症&nbsp;&nbsp;自由健康網專家呼籲建立完整防護觀念 五大呼吸道疾病疫苗缺一不可&nbsp;&nbsp;Yahoo新聞秋冬呼吸道隱形殺手！呼吸道細胞融合病毒威脅大，專家籲補齊「五重防護」 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒以為感冒卻咳好幾周！RSV恐釀肺炎重症 這些人要當心&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "民報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oOGNfQmdLYU0wVHBwcFdXcm9aRHdQcjh0M3ZHakYzU1NxU1k1MXFlYlVQdTJqc0hlTXpYYndZRFFzSUZQYjJJTnJTeFJMdS1wUVFfTDFua2tGd1ZYRlg0aA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "54654f8d0216",
       "title": "「流感疫苗」降心血管風險 醫：五大類族群應及早接種！",
       "published": "2026-10-30T07:00:00+00:00",
@@ -672,19 +646,6 @@
       "matched_keywords": []
     },
     {
-      "id": "eaf2330c661e",
-      "title": "1歲有症狀、22歲才確診！罕病XLH病友盼健保支持全齡照護",
-      "published": "2026-10-30T03:40:55+00:00",
-      "summary": "1歲有症狀、22歲才確診！罕病XLH病友盼健保支持全齡照護&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNV0E4bW5NdFF6U050dF85UUNBRzRYSUZfVi1KLWNlSG5INkNNZXdxSzZ3U3JKNjhOT1lpbi1nWU1ld3lfX2l3X1pRTndSb2pSS2YzVjczQlVjc0oxRkRzZGp6cmRXM01oNnJsMVRUVThuaDJ5cmRFRUtpaU5hdWJUV3dySWRibnhsTUdzR1JxU0MwYWlfLXgwZ1REOHRZakF6X2FUWnY4bVFHejhUM3VLalplV01FSW1XRjduelNwVC1BbV9GNkhydXBNblpkWkYxaHg0bDlyZ2lodGtmNWtpWnFXdV9NSlBPd24tSzlwWE0xbXpiek1CVmgwRXZvNEpqZzBoV05xVUhqQUNxM3pMVmJKaFAxOGRfTjlrUWp1R0RuX015aEtjR05DREJoazRZTFZsUjdHSHVGREFYODBDeUpaZW9Kbi16eFZnSzUxSF9OX3VZOVp3azB3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6e9eaacc9649",
       "title": "內地15歲學生長期熬夜患甲狀腺癌 醫生揭3大高危因素附常見徵狀",
       "published": "2026-10-30T03:39:41+00:00",
@@ -698,17 +659,30 @@
       "matched_keywords": []
     },
     {
-      "id": "589df5395503",
-      "title": "彎腰、坐下就骨折 骨鬆早已找上門",
-      "published": "2026-10-30T00:57:43+00:00",
-      "summary": "彎腰、坐下就骨折 骨鬆早已找上門&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "ef0d20cb96ee",
+      "title": "秋冬RSV進入傳染高峰 醫建議家中老幼接種「5大疫苗」",
+      "published": "2026-10-30T02:49:26+00:00",
+      "summary": "秋冬RSV進入傳染高峰 醫建議家中老幼接種「5大疫苗」&nbsp;&nbsp;UDN家有老幼當心RSV 感染恐釀肺炎重症&nbsp;&nbsp;自由健康網專家呼籲建立完整防護觀念 五大呼吸道疾病疫苗缺一不可&nbsp;&nbsp;Yahoo新聞秋冬呼吸道隱形殺手！呼吸道細胞融合病毒威脅大，專家籲補齊「五重防護」 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒以為感冒卻咳好幾周！RSV恐釀肺炎重症 這些人要當心&nbsp;&nbsp;TVBS 健康2.0",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0QThJa0tVR2RuOUg4N256Tl90cEdnWHpEd1hCV1U1ZUVPOFFmZGZ2T0ZWZlRhMW5vWnhsd0MyOThWVDUyd3NQNmVzRDlvRGpySkM0RHZYZ0l0QUw5NTJKdU930gFiQVVfeXFMUHRBOElrS1VHZG45SDg3bnpOX3RwR2dYekR3WEJXVTVlRU84UWZkZnZPRlZmVGExbm9aeGx3QzI5OFZUNTJ3c1A2ZXNEOW9EanJKQzREdlhnSXRBTDk1Mkp1T3c?oc=5"
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NVV5RV9pVjBpNnJtX2taaVJuRWN2bW1OYkJDeFozM3pBclN1VmtCa3BzOGh6TXZRWDc5ZFg2aGRIT1VPOUZpdkFnVHRPbG1p?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5ff5fd551c74",
@@ -732,6 +706,19 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yY2RhMWo3Q1ZqQUVhU0lweVlpdjFuUkxHcmR6RnNvLVBvYkg4X1F6RFFRR1lTeXhjYmpaTWQ2bzZjTGl1XzZBZEpoV1lNRFZyblcwejBMZGZiTXlCaF9reEFB0gFnQVVfeXFMT3k3SkR4VFdLVGFXYmpTMmhBX0lNUWlBTG94NEl1a3VJODN1UmtNaHhkTE1DM3R6TmdYNDRpVkJhaUZaQ3JtbU5kSE1wSUFPNUhpR3NxT2d0UlJVNjg5ZGNFOWhtUlBMUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b459f7d24b62",
+      "title": "彎腰、坐下就骨折 骨鬆早已找上門",
+      "published": "2026-10-29T22:38:57+00:00",
+      "summary": "彎腰、坐下就骨折 骨鬆早已找上門&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVU9fcWxuRWhQa3pXRDFLTnd3cVdWaTdPQ1pVV1ZHYjB6anBZX2tDbmVkU2RUZnJsMU9SaTNzb3pKNUlnTVMyNTNpNVVweUtzXy1QYmFhTC01eUxPM3VSdG5ETG1na0NkRzhaSGFMdVdxZTJsb0pqVkNOandmaFk0d3ZiMkF6bWV4VENpbnlxS2dKT0ljZ3JUVHlucmxaRmRQRzRpWFNzdGNjQWZ4dWgxYXRxdDJRb0NyVkY5YWVaVTI0bkxTR0lhWXZJMkZnS2RwMzJ3VkpGSXZNX0NRQnFtajdIZGE4UlRTSl9fUVl1MnhQZVZRS1BPeGIyV292QQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1869,6 +1856,32 @@
       "matched_keywords": []
     },
     {
+      "id": "d8a0bd196c29",
+      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
+      "published": "2026-10-27T04:03:34+00:00",
+      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "肝硬化",
+          "keyword": "肝硬化",
+          "related_drugs": [
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "00ac787b7bd2",
       "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media",
       "published": "2026-10-27T01:30:00+00:00",
@@ -1889,32 +1902,6 @@
               "slug": "gefitinib",
               "name": "Gefitinib",
               "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7bafa9cdca32",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護",
-      "published": "2026-10-27T01:00:00+00:00",
-      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "肝硬化",
-          "keyword": "肝硬化",
-          "related_drugs": [
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
             }
           ]
         }
