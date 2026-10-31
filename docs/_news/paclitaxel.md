@@ -61,14 +61,6 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [年輕人罹大腸癌為何更凶險？ 研究揭腫瘤內藏「保護傘」阻擋化療| 世界萬象| 全球](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [UDN](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
-
----
-
 ### [腫瘤科醫師推「1款平價早餐」助防癌！養好腸道菌、穩血糖， 不愛甜改吃這道鹹早餐](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BcVRtYmZvQW05cG4tblo3WE5WUlJmcF9Bai1HRlE2LXdFSERUQzYwTHpGY1h0bDRIMWpORGdvQk94Nm0xUTFqTGxvZHNDY1k5?oc=5)
 
 2026-10-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
@@ -114,6 +106,14 @@ last_modified_at: 2026-10-31
 2026-10-26 <span class="news-indication-tag">癌症</span>
 
 來源: [Vogue Taiwan](https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5)
+
+---
+
+### [封面故事／共餐不用公筷 華人胃癌大增](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5)
+
+2026-10-25 <span class="news-indication-tag">胃癌</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5)
 
 ---
 

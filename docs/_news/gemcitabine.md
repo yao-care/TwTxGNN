@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（8 則）
 
 ### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
 
@@ -58,14 +58,6 @@ last_modified_at: 2026-10-31
 2026-10-30 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
-
----
-
-### [年輕人罹大腸癌為何更凶險？ 研究揭腫瘤內藏「保護傘」阻擋化療| 世界萬象| 全球](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [UDN](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
 
 ---
 

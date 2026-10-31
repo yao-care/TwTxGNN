@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。8 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。7 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>8 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>7 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -76,7 +76,7 @@ last_modified_at: 2026-10-31
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
 
@@ -91,14 +91,6 @@ last_modified_at: 2026-10-31
 2026-10-30
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
-
----
-
-### [年輕人罹大腸癌為何更凶險？ 研究揭腫瘤內藏「保護傘」阻擋化療| 世界萬象| 全球](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
-
-2026-10-30
-
-來源: [UDN](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
 
 ---
 

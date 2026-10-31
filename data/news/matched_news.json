@@ -1,12 +1,38 @@
 {
-  "last_updated": "2026-10-31T07:46:18.025459+00:00",
-  "total_count": 60,
+  "last_updated": "2026-10-31T14:03:44.126639+00:00",
+  "total_count": 58,
   "matched_count": 17,
   "news": [
     {
+      "id": "ea6f7376228c",
+      "title": "今年流感季提前 多毒株活躍",
+      "published": "2026-10-31T12:26:13+00:00",
+      "summary": "今年流感季提前 多毒株活躍&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "on.cc東網",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHRPQjBFQ0lJWm5nMUU4RFJOcXQ2dkRDMnFCcGVldEZMTk5ockN4c3QyZTF3UE9lMzhSSmpydW5ZZmVlX292eUIwRV90NHZWeTNwNm5COTV3TVVoY200NVBKeGFWV2JvSF9lQkw1eWNhMFVmc2l5T1JMX3Azd2hFTVBwWkJVeGo5ZDN3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6099d319aed5",
+      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 - TechNews 科技新報",
+      "published": "2026-10-31T08:19:53+00:00",
+      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92emE2MW1rQzFzQVZwMG90X2FNS2NkN0NRQUUxSVB0bkFjOWxnMWZRMzdKemtRajhmckcxbXJPcTlhYkR4dEFUNnp0R01WYjlsX3VDTEZiWE1UR3R4aHI0LWxzUVlFWnplVnU5TXhkTUtfVkYtNzMySUpB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "d16855e37d07",
       "title": "擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 - TechNews 科技新報",
-      "published": "2026-10-31T07:07:30+00:00",
+      "published": "2026-10-31T07:09:52+00:00",
       "summary": "擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
@@ -555,19 +581,6 @@
       ]
     },
     {
-      "id": "62f6f67333a6",
-      "title": "「一孕傻三年」是真的？研究揭「懷孕腦」可能與雌激素變化有關",
-      "published": "2026-10-30T13:00:00+00:00",
-      "summary": "「一孕傻三年」是真的？研究揭「懷孕腦」可能與雌激素變化有關&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wczl2b0U4S1dmTmZVRVkzRlhjQmZXX0xwZ1BIOFFVbkdpQnZVa3dTRUszWUFNUU5tQmFKS0s4Tms2akJPdTdsaURyandSS25sLU9qZ0xn?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "383d908a9f22",
       "title": "糖尿病治療新突破…科學家打造植入裝置 小鼠6周平均瘦10%",
       "published": "2026-10-30T12:31:30+00:00",
@@ -579,301 +592,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "dc96b900a18d",
-      "title": "年輕人罹大腸癌為何更凶險？ 研究揭腫瘤內藏「保護傘」阻擋化療| 世界萬象| 全球",
-      "published": "2026-10-30T12:03:53+00:00",
-      "summary": "年輕人罹大腸癌為何更凶險？ 研究揭腫瘤內藏「保護傘」阻擋化療| 世界萬象| 全球&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘤",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin",
-              "url": "/drugs/acitretin/"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib",
-              "url": "/drugs/regorafenib/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine",
-              "url": "/drugs/cladribine/"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide",
-              "url": "/drugs/amcinonide/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol",
-              "url": "/drugs/acebutolol/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate",
-              "url": "/drugs/hydroxyprogesterone-caproate/"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab",
-              "url": "/drugs/durvalumab/"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab",
-              "url": "/drugs/atezolizumab/"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine",
-              "url": "/drugs/berberine/"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab",
-              "url": "/drugs/ipilimumab/"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone",
-              "url": "/drugs/clobetasone/"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone",
-              "url": "/drugs/carbenoxolone/"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate",
-              "url": "/drugs/pralatrexate/"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b",
-              "url": "/drugs/interferon-beta-1b/"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab",
-              "url": "/drugs/omalizumab/"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol",
-              "url": "/drugs/nebivolol/"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab",
-              "url": "/drugs/avelumab/"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide",
-              "url": "/drugs/disopyramide/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole",
-              "url": "/drugs/levamisole/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid",
-              "url": "/drugs/bempedoic-acid/"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril",
-              "url": "/drugs/benazepril/"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib",
-              "url": "/drugs/vismodegib/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed",
-              "url": "/drugs/pemetrexed/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib",
-              "url": "/drugs/zanubrutinib/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "5577b757c47c",
@@ -944,7 +662,7 @@
       "id": "5ff5fd551c74",
       "title": "史丹佛用AI生成活體病毒：面對生物安全新風險，台灣如何建立「縱深防禦」？ - TNL The News Lens 關鍵評論網",
       "published": "2026-10-29T23:58:00+00:00",
-      "summary": "史丹佛用AI生成活體病毒：面對生物安全新風險，台灣如何建立「縱深防禦」？&nbsp;&nbsp;TNL The News Lens 關鍵評論網AI 設計噬菌體首度用於人體 對付耐藥菌感染&nbsp;&nbsp;Techapple.com",
+      "summary": "史丹佛用AI生成活體病毒：面對生物安全新風險，台灣如何建立「縱深防禦」？&nbsp;&nbsp;TNL The News Lens 關鍵評論網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "TNL The News Lens 關鍵評論網",
@@ -2923,17 +2641,40 @@
       "matched_keywords": []
     },
     {
-      "id": "3b7d64f5e111",
-      "title": "封面故事／「公筷公匙」上陣 讓幽門桿菌下桌 聚餐更安心",
-      "published": "2026-10-25T19:50:00+00:00",
-      "summary": "封面故事／「公筷公匙」上陣 讓幽門桿菌下桌 聚餐更安心&nbsp;&nbsp;世界新聞網",
+      "id": "ca027ca5a83a",
+      "title": "封面故事／共餐不用公筷 華人胃癌大增",
+      "published": "2026-10-25T21:19:00+00:00",
+      "summary": "封面故事／共餐不用公筷 華人胃癌大增&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rQnFZYjA2Z01IOV9BUkdJOEJWTTJWNGdfQ0VPZ0Z3c3FiVFduZGtDVDF4RE9vbWhKbE54LWFmaHpZQWJHY0VpYU1sQ0xjemlHR1g0TXhTY05Qd2VNTE9MSTVn0gFnQVVfeXFMT1RnU2treXJYcjVTZHV1OEd6ZmFlQkhZUEhBTlhsRHFQY3RZbEhqSmhka2pfcjZjY2c3TTVKVXZXVjR4T28zdjJNZ3NxdFU2dUpVMXhXSTFQZHR4OW43ZGNrODBKSEh6UQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GSkdpTUloUW1sY19zMHRPQjZNcDBnYzZCbmFrN0hycTZvZlZKbk1nenExS3BtODlLbzBjN3phbUFZemF3dVEtNmhOUDNwQ1pnRGhBZk5sVC1yMmpPa0RvTnJR0gFnQVVfeXFMT3doV0tDM3FIN0RiM3RVWlVTcmlQcFpnQWZOUUZOU09mUllLb20yN0ZGNkdJNUVma1A1dVd6bTF4S2VVdUE5ZkhsU1pXd1ctNjg5dkpQdF9aVUNBOWR0T3phZlRhWW5HNA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "trastuzumab_deruxtecan",
+              "name": "Trastuzumab deruxtecan",
+              "url": "/drugs/trastuzumab-deruxtecan/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5735963c3c77",
@@ -3040,32 +2781,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9e06133a01d0",
-      "title": "健康網》讓精子更健康 網紅醫：泡溫泉有影響",
-      "published": "2026-10-24T13:19:00+00:00",
-      "summary": "健康網》讓精子更健康 網紅醫：泡溫泉有影響&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1OHctbEpJbk1PeWxrNGY0MVFxaGN3QXh1Q01RWjZYQ1pMQU45QXFtM2ZJc1BzOE1WQ3paeG9mV1ZzazgyQkp6dC1obVN4Y0ZHVUhJLWlRV3A5WDFFZ3ZEMmwzXzk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "803819c21ca7",
-      "title": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化 - Women's Health",
-      "published": "2026-10-24T07:00:00+00:00",
-      "summary": "吃素真的能變年輕？史丹佛研究發現：純素飲食能降低生理年齡，8週就有變化&nbsp;&nbsp;Women's Health",
-      "sources": [
-        {
-          "name": "Women's Health",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDVNbUhqX3h6VmJJajZucWhZc2FWZ2xNNzVSNHNVS1hWWkZ6WVU4NTF5LS02REJrTG8zZmxGUVo2VG9vTlFXVVhaNmRaMUFmRmZvZzFzREhsN2luZlRDZm1rNGVWakYxbVBqdWstaHV4WGh2WWJRb0VwNGkyZ05fdkRoQXotMk1pRkhFZDQzNjFoTzNya3dVLV9n?oc=5"
         }
       ],
       "matched_keywords": []
