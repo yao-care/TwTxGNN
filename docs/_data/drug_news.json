@@ -426,18 +426,6 @@
       "count": 7
     }
   ],
-  "/drugs/isosorbide-dinitrate/": [
-    {
-      "url": "/news/isosorbide_dinitrate/",
-      "title": "Isosorbide dinitrate 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/cardiovascular/",
-      "title": "心血管 (cardiovascular) 相關新聞",
-      "count": 1
-    }
-  ],
   "/drugs/levamisole/": [
     {
       "url": "/news/levamisole/",
@@ -553,7 +541,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 10
+      "count": 11
     },
     {
       "url": "/news/generic-cancer/",
@@ -564,6 +552,11 @@
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 2
+    },
+    {
+      "url": "/news/子宮頸癌/",
+      "title": "子宮頸癌 相關新聞",
+      "count": 1
     },
     {
       "url": "/news/menopause/",

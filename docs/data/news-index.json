@@ -1,7 +1,32 @@
 {
-  "generated": "2026-10-31T14:03:44.173997+00:00",
+  "generated": "2026-10-31T18:55:59.137644+00:00",
   "count": 17,
   "news": [
+    {
+      "id": "ac36853beec1",
+      "title": "加拿大35至54歲女性子宮頸癌個案上升　專家呼籲及早檢查 - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-10-31T16:41:15+00:00",
+      "sources": [
+        {
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYnlJQTRlMERJVk9KRHZBeEZLMkpYRlNQV0tZVC1ZbS0xVnV0RG5FcVIwNDJFUUxtdi1wYjdLSkxINHJDVGdRWXZSVGpsc1FiZ3JQQWhhTEdnMm9heHE2bDYtTTByZG9OeXQ0elpRRFlHMW1LYU9nc1FBNUxDUkR0LXljamdoODd5dFpSVmxGbmc3TmRjTWdxQWwwYk85LV9vRlNramZnZk9WV3Nrb0pNZHVVc3RDLXROUC1xZDYzb2tMWE52WVpjcWpFUUpjT19qbHE5dTlGYmNYSnpER1RHSWdCazJDTEVORnhUclVSUFZKd1dCb081akJUeHR5OTZjdkFDekk3MHItTkRaTDNMZl96OFcxUUtFVXdMZkhEVUpIUzZoMFFrdVRHU2xEVU9sSkoxaWdRaUFFdi1NN2YtWktBWVlMNzZVazBnUk1rWGdxaVRlcENCRmNvbC1rRVpXYXBnRHozNlpZQVhKbFVJaGs1SE1RczJwSHlGeU8wRm0wZ9IBjwFBVV95cUxPWWRsdHNTZ2ZuTFZNVGhwbUtzSTNaSGdIUW5La2tGOFNBekdvRHlTT2tDMWFLLWE5YXViajVWMkJ5azlCSHoxOHhSOWlSd3k4VTF0UEQ2bkhUMjVnQjAxeXVJcDJGUjRzOVN6aVl3clRFbE9fUTRpVExETmR5dkZXczJ0MjdFVGFpUmFKbTRQNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d16855e37d07",
       "title": "擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 - TechNews 科技新報",
@@ -2204,31 +2229,6 @@
               "slug": "paclitaxel",
               "name": "Paclitaxel",
               "url": "/drugs/paclitaxel/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "423282f28620",
-      "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
-      "published": "2026-10-24T16:01:31+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }

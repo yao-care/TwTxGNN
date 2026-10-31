@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-10-31T14:03:44.126639+00:00",
-  "total_count": 58,
+  "last_updated": "2026-10-31T18:55:59.093943+00:00",
+  "total_count": 57,
   "matched_count": 17,
   "news": [
+    {
+      "id": "ac36853beec1",
+      "title": "加拿大35至54歲女性子宮頸癌個案上升　專家呼籲及早檢查 - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-10-31T16:41:15+00:00",
+      "summary": "加拿大35至54歲女性子宮頸癌個案上升 專家呼籲及早檢查&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "sources": [
+        {
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYnlJQTRlMERJVk9KRHZBeEZLMkpYRlNQV0tZVC1ZbS0xVnV0RG5FcVIwNDJFUUxtdi1wYjdLSkxINHJDVGdRWXZSVGpsc1FiZ3JQQWhhTEdnMm9heHE2bDYtTTByZG9OeXQ0elpRRFlHMW1LYU9nc1FBNUxDUkR0LXljamdoODd5dFpSVmxGbmc3TmRjTWdxQWwwYk85LV9vRlNramZnZk9WV3Nrb0pNZHVVc3RDLXROUC1xZDYzb2tMWE52WVpjcWpFUUpjT19qbHE5dTlGYmNYSnpER1RHSWdCazJDTEVORnhUclVSUFZKd1dCb081akJUeHR5OTZjdkFDekk3MHItTkRaTDNMZl96OFcxUUtFVXdMZkhEVUpIUzZoMFFrdVRHU2xEVU9sSkoxaWdRaUFFdi1NN2YtWktBWVlMNzZVazBnUk1rWGdxaVRlcENCRmNvbC1rRVpXYXBnRHozNlpZQVhKbFVJaGs1SE1RczJwSHlGeU8wRm0wZ9IBjwFBVV95cUxPWWRsdHNTZ2ZuTFZNVGhwbUtzSTNaSGdIUW5La2tGOFNBekdvRHlTT2tDMWFLLWE5YXViajVWMkJ5azlCSHoxOHhSOWlSd3k4VTF0UEQ2bkhUMjVnQjAxeXVJcDJGUjRzOVN6aVl3clRFbE9fUTRpVExETmR5dkZXczJ0MjdFVGFpUmFKbTRQNA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "686875d42b8b",
+      "title": "哈佛發現發炎訊號「停不下來」的關鍵，有望成為自體免疫疾病新療法 - TechNews 科技新報",
+      "published": "2026-10-31T16:04:56+00:00",
+      "summary": "哈佛發現發炎訊號「停不下來」的關鍵，有望成為自體免疫疾病新療法&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcUFybWwyOURQbWlyRi1OVlFKU3FrZGlZbi16Q2RVaUt4WXRnbGxOZDA1TF91UUVicm42R2s2Tkl2SEpwMmJzb1BMQnRfbVB5YzJNZFBWNGw4WFJ4RG1VeHdLUWsxazZIVmRqY1BXb1VSSlhpdlVvNUZaYVdQVXVpb3BhaUJxc0ZTTWlSNjN2YUZZdGpKelU4TXlYc2hVOEU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6e0d0b28935f",
+      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報 - LINE TODAY",
+      "published": "2026-10-31T16:02:22+00:00",
+      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZGRfVy1Qd2g5bDFzVS14OWw0OW15cGxTTjlOdDhCQUN1MHA0NDROelVRc3VUX1ptOVJHOFoxZllJN3JZTmktWTJQVFZwTmN3dlF3S0NB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "ea6f7376228c",
       "title": "今年流感季提前 多毒株活躍",
@@ -12,19 +64,6 @@
         {
           "name": "on.cc東網",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHRPQjBFQ0lJWm5nMUU4RFJOcXQ2dkRDMnFCcGVldEZMTk5ockN4c3QyZTF3UE9lMzhSSmpydW5ZZmVlX292eUIwRV90NHZWeTNwNm5COTV3TVVoY200NVBKeGFWV2JvSF9lQkw1eWNhMFVmc2l5T1JMX3Azd2hFTVBwWkJVeGo5ZDN3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6099d319aed5",
-      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 - TechNews 科技新報",
-      "published": "2026-10-31T08:19:53+00:00",
-      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92emE2MW1rQzFzQVZwMG90X2FNS2NkN0NRQUUxSVB0bkFjOWxnMWZRMzdKemtRajhmckcxbXJPcTlhYkR4dEFUNnp0R01WYjlsX3VDTEZiWE1UR3R4aHI0LWxzUVlFWnplVnU5TXhkTUtfVkYtNzMySUpB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2729,58 +2768,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNNkgxMmZOTGdWMVA1d0pzRDR3anpSU1AtYUdMMTc2bVZ1Tnc3UV9VRi1hNXBxdVY2bEJjaGRXMkJSUDJQZHBudXhKYjJoeFJkSVVkQUtaXzQ3ZDFkdmFkcTBKWkNRLS1PUmx3bFhzLVlSWG9sSVVMMHdXa2NXTGx6blN1dHlWMXV3b05YUkZrQ242YmJWYnlFZzl2czN2cVFhVWwtQzdvV040RDktNWcyYUJSVThDZjNpNDZSSXM4MTAtZHRqUlNnelY3b3VrVlVaNFFqcXBtbkVVUXZTLU84dVJrcWVOQkxQV3VCWTY4RVhkTjBwUnR5cUhvaDdqQ1poZ3pFYnVMSExVZ1RMZ2VraVRHUjVZS09ZQzBwQ2RTUFExR0JIRlMyRVU0eDBCOXhpWEhVTWV5aE53M1NFZ3NVZFNUOTF0ZGZuUjdpdFJiQnd1Q3kxR1RNNEt5dDN2bTR3dW9rMFpRU1pJSGtYdi1ZalI2RS1LQ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "423282f28620",
-      "title": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報",
-      "published": "2026-10-24T16:01:31+00:00",
-      "summary": "糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a9fd8a6b5b05",
-      "title": "微型機器人或穿過血管直達心臟 加速藥物遞送",
-      "published": "2026-10-24T15:24:00+00:00",
-      "summary": "微型機器人或穿過血管直達心臟 加速藥物遞送&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82X2Itc2tLd2twcVg0Rnhrc0wwVHpXV1JQTW1ST2lDMlhERmxlelJhX0J2QXNERW0ySnZBR19yQm95ckg1Q3lDSWJYOXdlLUxQQUIzNEo5SjNuaGlPdFg5RjhR0gFnQVVfeXFMUE45RXNDeUU4djBjMXJQS3lyOTgtamJ2d2RaTlZRVXJGcUd6b29LMElXZWdZQU9pVXZfU0VaQVZMSUpTVDlMVUdtRFVaTFBGR3ItX0stN0UwVkJST05zZTRuTE9jTzlRWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58c6ab8e7f1d",
-      "title": "全美流感住院率創16年同期新高",
-      "published": "2026-10-24T14:00:00+00:00",
-      "summary": "全美流感住院率創16年同期新高&nbsp;&nbsp;Singtaousa秋冬呼吸道病毒進入高峰期 衛生局籲民眾儘早接種疫苗&nbsp;&nbsp;大紀元紐約州流感季已經來臨&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlM1MDNjelRaVVdocjBjU0lkSklTMDE3bzAwYWZzYVd5MkVYVjNnV2FwdVBqaWk4UDluYmM5bkM4bDB2cVNnQWZDMzRvRWJERDQ3alY4T3huUi1VRTUyVUdZa0NQbjkyYVlIV2o2eWtVZjVMTE1vaUJ6cHd5MXRKRUlQWQ?oc=5"
         }
       ],
       "matched_keywords": []
