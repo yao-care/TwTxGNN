@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dehydrocholic acid 的相關健康新聞報導。原適應症：膽石症、膽石形成之預防、膽石膽砂之排除、膽囊炎、膽管炎膽汁分泌不全所致之疾患、肝硬化、黃疸。預測適應症 10 個。"
 permalink: /news/dehydrocholic_acid/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Dehydrocholic acid 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="Dehydrocholic acid 有什麼相關新聞？">
-<strong>Dehydrocholic acid</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dehydrocholic acid</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/dehydrocholic-acid/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（9 則）
+
+### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
+
+2026-10-31 <span class="news-indication-tag">腫瘤</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
+
+---
 
 ### [新檢測方法讓女性常見癌症篩檢更容易](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
 
@@ -61,6 +69,14 @@ last_modified_at: 2026-10-30
 
 ---
 
+### [腫瘤科醫師推「1款平價早餐」助防癌！養好腸道菌、穩血糖， 不愛甜改吃這道鹹早餐](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BcVRtYmZvQW05cG4tblo3WE5WUlJmcF9Bai1HRlE2LXdFSERUQzYwTHpGY1h0bDRIMWpORGdvQk94Nm0xUTFqTGxvZHNDY1k5?oc=5)
+
+2026-10-29 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [風傳媒](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BcVRtYmZvQW05cG4tblo3WE5WUlJmcF9Bai1HRlE2LXdFSERUQzYwTHpGY1h0bDRIMWpORGdvQk94Nm0xUTFqTGxvZHNDY1k5?oc=5)
+
+---
+
 ### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
 
 2026-10-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
@@ -69,11 +85,11 @@ last_modified_at: 2026-10-30
 
 ---
 
-### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+### [癌症與中風 哪一個更可怕？ - 報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
-來源: [報新聞](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 ---
 
@@ -85,19 +101,19 @@ last_modified_at: 2026-10-30
 
 ---
 
-### [93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護](https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5)
+### [93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護](https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5)
 
 2026-10-27 <span class="news-indication-tag">肝硬化</span>
 
-來源: [草根影響力新視野](https://news.google.com/rss/articles/CBMiygJBVV95cUxPOUNMa3ZZVEVyVHphLW92U2JaN0F2SmRueUFnUFBENVZBS0d1Vl9ySHJQeGk2OFNmN0lhbXBEbndJeFBQU2RWNnFHd1pWNzI4S0NWTXYwanZ6NVVkVzhSRjI0bFNmWVQ4SEMyeFdzQnc2R2d5d1ZOdTk4OXRVMzJSN09uMHlYQnRLYW9rVkwxdVJ2SlMwZUxtU0tjMlZCOFNNNVE5eExTZTB4a0s4SHhtOV9CN3RLc2o1Q3JtWEJKZ256dnJ4bTFMeW03ckk5T1RMSTZUR2xUb0Z4T1lmWl84WEdoSGZFaTNQdG0wUnFJWklpTWpmVFljSl9CcFE2RDYtS25hdkZUaFh0ZEdfajN5NDdKbFBDMjB1UHZheEkxQzNPZmIzbklxdVNpWmxVaGw4X2xfcXZaVW9VV25JdmNNckphU2ZRQ2kzckE?oc=5)
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5)
 
 ---
 
-### [台灣研究登國際期刊：證實抗憂鬱藥助攻癌症免疫療法，死亡率降 37% - TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5)
+### [癌症治療皮膚副作用，要放棄嗎？皮膚科醫師：健康人也要遵循的養膚三原則 - Vogue Taiwan](https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5)
 
-2026-10-24 <span class="news-indication-tag">癌症</span>
+2026-10-26 <span class="news-indication-tag">癌症</span>
 
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PRVhnMGNpWVdJc3RIV2F3azhsd1lxQzhBT3YyWGw0Q0stX3hXTXoway1nZ0RqX1ZZUWVkZWVkM21hT0JXXy02aFFXVjM2Z0JPSG5zdzhCaURUWHdOYXpMYzJkSVcxbWFXdTBYdjV3ZGJ2WFpoYkU1WHljM0UwSWs?oc=5)
+來源: [Vogue Taiwan](https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5)
 
 ---
 

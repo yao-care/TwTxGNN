@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # 心血管 (cardiovascular) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ last_modified_at: 2026-10-30
 </ul>
 </div>
 
-## 相關新聞（2 則）
-
-### [「流感疫苗」降心血管風險 醫：五大類族群應及早接種！](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbDdqV3FXM25iRWhwdERlUTZyeFp6S0RGeDZhdEpvSnAxWnh3WVhld01nOG9qXzFUZzZTUTFRT1JjM0RrdFAyNGhFYkFlZHRuSlo5dldR?oc=5)
-
-2026-10-30
-
-來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nbDdqV3FXM25iRWhwdERlUTZyeFp6S0RGeDZhdEpvSnAxWnh3WVhld01nOG9qXzFUZzZTUTFRT1JjM0RrdFAyNGhFYkFlZHRuSlo5dldR?oc=5)
-
----
+## 相關新聞（1 則）
 
 ### [糖尿病藥物可能也能「護心」？研究發現 empagliflozin 能降低與心血管相關的發炎反應 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGFib3p2RFU3UmM0UjVEc3J4QzVqOHpQLTVrVUgzdUpVTV9pZnJIWXA2SnAtZ2U1ZnpuMlBHbFF6N2o2NEt5R0xFYXlVMnhTcENqUzh5MU5YbVlJU3VtU3ZxblFKS2VUYWVDcnBkWVZLbzhBUGZYTEl2aUZjWDBieHlIRlZLU29CY0E?oc=5)
 

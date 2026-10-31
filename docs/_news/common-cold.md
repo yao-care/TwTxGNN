@@ -3,9 +3,9 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # 感冒 (common cold) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,21 @@ last_modified_at: 2026-10-30
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
+
+### [呼吸道細胞融合病毒(RSV) 威脅橫跨老幼](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LXdtLVhnSEdxTEl6YTJVbGZZODR2ck54TkVaSHhwczFzUFlQY2JXNlRjSTduUHR1cUtYNFNmUk95cEpFR1UzYw?oc=5)
+
+2026-10-31
+
+來源: [台灣民眾電子報](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LXdtLVhnSEdxTEl6YTJVbGZZODR2ck54TkVaSHhwczFzUFlQY2JXNlRjSTduUHR1cUtYNFNmUk95cEpFR1UzYw?oc=5)
+
+---
 
 ### [健康驛站·急症早識別｜這種“感冒”，千萬不能大意](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
 
 2026-10-30
 
 來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
-
----
-
-### [秋冬RSV進入傳染高峰 醫建議家中老幼接種「5大疫苗」](https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NVV5RV9pVjBpNnJtX2taaVJuRWN2bW1OYkJDeFozM3pBclN1VmtCa3BzOGh6TXZRWDc5ZFg2aGRIT1VPOUZpdkFnVHRPbG1p?oc=5)
-
-2026-10-30
-
-來源: [UDN](https://news.google.com/rss/articles/CBMiUEFVX3lxTE54NVV5RV9pVjBpNnJtX2taaVJuRWN2bW1OYkJDeFozM3pBclN1VmtCa3BzOGh6TXZRWDc5ZFg2aGRIT1VPOUZpdkFnVHRPbG1p?oc=5)
 
 ---
 
@@ -61,14 +61,6 @@ last_modified_at: 2026-10-30
 2026-10-27
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5)
-
----
-
-### [10歲童患罕見病眼痛發燒家人當感冒 服藥後全身8成皮膚剝落如燒傷](https://news.google.com/rss/articles/CBMiswNBVV95cUxOYV92MU5LY0htUXNMZTB3Y2RSUklDTllFRncycUF2VTN6V3IyVmh1RWdEZ1ByWk1hWGR2QzFZTnVCdzlNbXpmSGJ1bTZEQXlkOFpzdDg0by00MjhqdHFCUlRtbGxGTnRQZ0Y3cWs0bWtmMnhveUV4NVBZTXRPTmY4bUhTRG4wVDNDczZqNC03X29nZnpRbWVkQS0xekU1cGtaT2x3QzhsQlZnNG9ja1psNnlNc1lfdzdId2FTWGRnMVNZalVfYUhSNlZsWWwzNTV4NUZYS3ViSnlOTjFwRWJ4ZWU0N1JLTEEzaVNQc0lJc0lVejkwQVFWUEgwTWdHejZ0cXNnNFlSLVA2ZTNLZzkwR1lfdTQyVjRiSWY2UmtZOHVLZkt2bTlVNWY3LVhSZlNxbjk5QXZybEt4cV9GZVFjLTJ2S0dlNmdaa0N6WjJIOXNtakY5YkJFaUVlUElObXp5bVpGbkZNQjFVamN4Q1hHZC1LWlpLUVhOTGs5MlI2SHl1QWV6Y2Z6S2dLMU1udGVnWUJmR0RCNzQwLVkzNThKUUU0eDFmNUxPY2E2ZzhZekFxVEk?oc=5)
-
-2026-10-24
-
-來源: [香港01](https://news.google.com/rss/articles/CBMiswNBVV95cUxOYV92MU5LY0htUXNMZTB3Y2RSUklDTllFRncycUF2VTN6V3IyVmh1RWdEZ1ByWk1hWGR2QzFZTnVCdzlNbXpmSGJ1bTZEQXlkOFpzdDg0by00MjhqdHFCUlRtbGxGTnRQZ0Y3cWs0bWtmMnhveUV4NVBZTXRPTmY4bUhTRG4wVDNDczZqNC03X29nZnpRbWVkQS0xekU1cGtaT2x3QzhsQlZnNG9ja1psNnlNc1lfdzdId2FTWGRnMVNZalVfYUhSNlZsWWwzNTV4NUZYS3ViSnlOTjFwRWJ4ZWU0N1JLTEEzaVNQc0lJc0lVejkwQVFWUEgwTWdHejZ0cXNnNFlSLVA2ZTNLZzkwR1lfdTQyVjRiSWY2UmtZOHVLZkt2bTlVNWY3LVhSZlNxbjk5QXZybEt4cV9GZVFjLTJ2S0dlNmdaa0N6WjJIOXNtakY5YkJFaUVlUElObXp5bVpGbkZNQjFVamN4Q1hHZC1LWlpLUVhOTGs5MlI2SHl1QWV6Y2Z6S2dLMU1udGVnWUJmR0RCNzQwLVkzNThKUUU0eDFmNUxPY2E2ZzhZekFxVEk?oc=5)
 
 ---
 

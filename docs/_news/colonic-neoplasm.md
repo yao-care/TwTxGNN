@@ -3,9 +3,9 @@ layout: default
 title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # 大腸癌 (colonic neoplasm) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-10-30
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [年輕人罹大腸癌為何更凶險？ 研究揭腫瘤內藏「保護傘」阻擋化療| 世界萬象| 全球](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
 
 2026-10-30
 
 來源: [UDN](https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDZDNzhBcUZnMGFzZGprWjNURGdySWlzWVZSQmtoNlFPMk5HQlBxQk5vLVBscUtSLUp1ZGNOVXpFRjRYUnNITDZqVGFzRE9xdjJKanFUaGJXWllqNDlSelJlaGpyU3B5UzF3cElpTHJpYVItSmZUNS0zMXBvSzNVTw?oc=5)
+
+---
+
+### [腫瘤科醫師推「1款平價早餐」助防癌！養好腸道菌、穩血糖， 不愛甜改吃這道鹹早餐](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BcVRtYmZvQW05cG4tblo3WE5WUlJmcF9Bai1HRlE2LXdFSERUQzYwTHpGY1h0bDRIMWpORGdvQk94Nm0xUTFqTGxvZHNDY1k5?oc=5)
+
+2026-10-29
+
+來源: [風傳媒](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BcVRtYmZvQW05cG4tblo3WE5WUlJmcF9Bai1HRlE2LXdFSERUQzYwTHpGY1h0bDRIMWpORGdvQk94Nm0xUTFqTGxvZHNDY1k5?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dipyridamole 的相關健康新聞報導。原適應症：對於慢性狹心症之治療可能有效。預測適應症 10 個。"
 permalink: /news/dipyridamole/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # Dipyridamole 相關新聞
@@ -45,11 +45,11 @@ last_modified_at: 2026-10-30
 
 ## 相關新聞（1 則）
 
-### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+### [癌症與中風 哪一個更可怕？ - 報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
-來源: [報新聞](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 ---
 
