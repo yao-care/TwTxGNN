@@ -302,6 +302,8 @@ NO_CENTRAL = {
     "DETxGNN": "Keine zentrale EU-Zulassung (EMA) erfasst – nationale Zulassungen (BfArM) sind in den hier ausgewerteten Daten nicht enthalten",
     "FITxGNN": "Keskitettyä EU-myyntilupaa (EMA) ei ole kirjattu – kansallisia myyntilupia (Fimea) ei ole tässä käytetyissä tiedoissa",
     "NOTxGNN": "Ingen sentral EU-godkjenning (EMA) registrert – nasjonale markedsføringstillatelser (DMP) finnes ikke i dataene som er brukt her",
+    # 2026-10-31：TH 的來源是 Thai FDA 查詢系統（只收ทะเบียนตำรับยาแผนปัจจุบัน），查不到不等於沒有藥（例：morphine 在國家基本藥物目錄裡）
+    "ThTxGNN": "ไม่พบทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย.",
 }
 
 
@@ -320,9 +322,8 @@ SOURCE_STATUS = {
                 "Listed in a compiled Indian medicine price dataset (at least {v}) – CDSCO approval status is not included in this data"),
     "PhTxGNN": ("Listed in the Philippine National Formulary ({v} of {n}) – FDA Philippines registration status is not included in this data",
                 "Listed in the Philippine National Formulary (at least {v}) – FDA Philippines registration status is not included in this data"),
-    "ThTxGNN": ("อยู่ในบัญชียาหลักแห่งชาติ ({v} จาก {n} รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย.",
-                "อยู่ในบัญชียาหลักแห่งชาติ (อย่างน้อย {v} รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย."),
 }
+# TH 2026-10-31 移出：原本的許可證號是程式編造的，改用 Thai FDA 查詢系統（pertento）的真實許可證，狀態列回到一般寫法
 
 
 def marketed_text(site, lang, v, n, partial):
@@ -331,6 +332,57 @@ def marketed_text(site, lang, v, n, partial):
         return SOURCE_STATUS[site][1 if partial else 0].format(v=v, n=n)
     tl = mv2.T.get(lang) or mv2.T["en"]
     return (tl[1] if partial else tl[0]).format(v=v, n=n)
+
+
+# 2026-10-30（pm）：概覽表本站狀態列／張數列的標準欄位名（各站主流寫法；主流寫法不準確的修正：US 不只 NDA、
+# 來源不是許可證資料的站照實寫來源）。Tw 由 Tw 自己的 tfda 程式產生，不在此表。
+MARKET_LABELS = {
+    "ARTxGNN": ("Estado de Mercado en Argentina", "Número de productos en el listado PAMI"),
+    "AuTxGNN": ("Australia Market Status", "Number of PBS Items"),
+    "BrTxGNN": ("Situação no Mercado Brasileiro", "Número de Registros"),
+    "CHTxGNN": ("Marktstatus Schweiz", "Anzahl Zulassungen"),
+    "COTxGNN": ("Estado de Mercado en Colombia", "Número de Registros Sanitarios"),
+    "CaTxGNN": ("Canada Market Status", "Number of DINs"),
+    "DETxGNN": ("Marktstatus in Deutschland", "Anzahl der Zulassungen"),
+    "DkTxGNN": ("Markedsstatus i Danmark", "Antal markedsføringstilladelser"),
+    "ESTxGNN": ("Estado de Mercado en España", "Número de Autorizaciones"),
+    "EuTxGNN": ("EU Market Status", "Number of Authorizations"),
+    "FITxGNN": ("Markkinatilanne Suomessa", "Myyntilupien määrä"),
+    "FRTxGNN": ("Statut de Marché en France", "Nombre d'AMM"),
+    "HkTxGNN": ("香港上市", "許可證數"),
+    "ITTxGNN": ("Stato di mercato in Italia", "Numero di autorizzazioni"),
+    "InTxGNN": ("India Market Status", "Number of Listed Products"),
+    "JpTxGNN": ("日本市販状況", "承認番号数"),
+    "KrTxGNN": ("한국 시판 현황", "허가증 수"),
+    "MyTxGNN": ("Status Pasaran di Malaysia", "Bilangan Pendaftaran"),
+    "NOTxGNN": ("Markedsstatus i Norge", "Antall godkjenninger"),
+    "NZTxGNN": ("New Zealand Market Status", "Number of Pharmac Schedule Items"),
+    "NlTxGNN": ("Marktstatus in Nederland", "Aantal vergunningen"),
+    "PhTxGNN": ("Philippines Market Status", "Number of PNF Entries"),
+    "SATxGNN": ("حالة السوق في السعودية", "عدد التراخيص"),
+    "SETxGNN": ("Marknadsstatus i Sverige", "Antal godkännanden"),
+    "SgTxGNN": ("Singapore Market Status", "Number of Registrations"),
+    "ThTxGNN": ("สถานะการวางจำหน่ายในไทย", "จำนวนทะเบียนตำรับยา"),
+    "UkTxGNN": ("UK Market Status", "Number of BNF Presentation Codes"),
+    "UsTxGNN": ("US Market Status", "Number of FDA Applications"),
+    "ZaTxGNN": ("South Africa Market Status", "Number of SAHPRA Registrations"),
+}
+
+
+# 2026-10-31：TH 的許可證來源是 Thai FDA 公開查詢系統（ระบบค้นหาข้อมูลผลิตภัณฑ์ยา，只收「ทะเบียนตำรับยาแผนปัจจุบัน」）。
+# 查到的許可證全部已註銷時，只陳述查詢結果，不寫「未上市」：diazepam、lorazepam 等在國家基本藥物目錄裡，但這個系統裡的許可證都已註銷。
+# DE、FI、NO 同理（NO_CENTRAL 的延伸）：只有 EMA 集中許可，集中許可撤銷不等於國內沒有藥，只陳述集中許可已撤銷與資料範圍。
+SCOPE_CANCELLED = {
+    "ThTxGNN": "ไม่พบทะเบียนที่ยังมีผลในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ทะเบียนที่ถูกยกเลิก {n} จาก {n} รายการ)",
+    "DETxGNN": "Zentrale EU-Zulassung (EMA) erloschen ({n} von {n}) – nationale Zulassungen (BfArM) sind in den hier ausgewerteten Daten nicht enthalten",
+    "FITxGNN": "Keskitetty EU-myyntilupa (EMA) peruttu ({n}/{n}) – kansallisia myyntilupia (Fimea) ei ole tässä käytetyissä tiedoissa",
+    "NOTxGNN": "Sentral EU-godkjenning (EMA) avregistrert ({n} av {n}) – nasjonale markedsføringstillatelser (DMP) finnes ikke i dataene som er brukt her",
+}
+
+
+def cancelled_text(site, lang, n):
+    """事實是 Cancelled only 時的狀態列"""
+    return (SCOPE_CANCELLED.get(site) or CANCELLED.get(lang, CANCELLED["en"])).format(n=n)
 
 
 def not_reg_text(site, lang):
@@ -446,11 +498,14 @@ STATUS_LABEL = re.compile(mv2.LABEL.pattern + r"|comercializ|commercialis|commer
 
 
 def status_row(site, rows):
-    return _pick_own(site, [r for r in rows if len(r) >= 2 and STATUS_LABEL.search(r[0]) and not is_count_label(r[0])])
+    std = (MARKET_LABELS.get(site) or ("", ""))[1]
+    return _pick_own(site, [r for r in rows if len(r) >= 2 and STATUS_LABEL.search(r[0]) and not is_count_label(r[0]) and r[0] != std])
 
 
 def count_row(site, rows):
-    return _pick_own(site, [r for r in rows if len(r) >= 2 and is_count_label(r[0])])
+    std = (MARKET_LABELS.get(site) or ("", ""))[1]  # 字串檔的標準欄位名（例：Number of PBS Items 不含許可證字樣）也認，且優先
+    exact = [r for r in rows if len(r) >= 2 and std and r[0] == std]
+    return exact[0] if exact else _pick_own(site, [r for r in rows if len(r) >= 2 and is_count_label(r[0])])
 
 
 # ---------- 資料 ----------
