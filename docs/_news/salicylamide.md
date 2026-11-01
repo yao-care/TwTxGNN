@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-01
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [家有老幼小心RSV！醫：造成肺炎機率為流感2.7倍 籲盤點「5大疫苗」](https://news.google.com/rss/articles/CBMizwJBVV95cUxPM3BRcnF4bmpvSWtWdXZoOEhZWWtaTUNlYUVUa0lmdzBabHR3Q3FLQjAxNjRGWVlVcDNURXdzZGwxbkY2V1VLczA0YXczR0ZSeVFGTW9nUUJTX1ZueGV1ZUp4dWdIeUpfXzlCLXZNMU5YRDFqUDF5ZlY3aVBSNHJPcDBrVGc3LW4tdHpYUms2eEVSTjhLVFM4clBFb2ZQMWI4cHVYVUZqbjdCSGhFd2xGOVV2dzRsQjBmU0puVTJKSmJfcHRReU9BamFUM1R1enRqQy1RQXg5S0VmYUZ1cjRSRWZ2dWdpT0F5YVlsZ2FENmpwdzRrTmVUOVlBV1FRLUc4NGhSbjJHVEhuQmt3eEo2S0ZSZE10ek5wYU03RXY4ZXE2ZFN2MTUyTW1qNURPMVlKRVowcDkwLU1PS011R0Y1WUFaRU81bGQ1NzZMZjNSdw?oc=5)
+
+2026-11-01 <span class="news-indication-tag">感冒</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMizwJBVV95cUxPM3BRcnF4bmpvSWtWdXZoOEhZWWtaTUNlYUVUa0lmdzBabHR3Q3FLQjAxNjRGWVlVcDNURXdzZGwxbkY2V1VLczA0YXczR0ZSeVFGTW9nUUJTX1ZueGV1ZUp4dWdIeUpfXzlCLXZNMU5YRDFqUDF5ZlY3aVBSNHJPcDBrVGc3LW4tdHpYUms2eEVSTjhLVFM4clBFb2ZQMWI4cHVYVUZqbjdCSGhFd2xGOVV2dzRsQjBmU0puVTJKSmJfcHRReU9BamFUM1R1enRqQy1RQXg5S0VmYUZ1cjRSRWZ2dWdpT0F5YVlsZ2FENmpwdzRrTmVUOVlBV1FRLUc4NGhSbjJHVEhuQmt3eEo2S0ZSZE10ek5wYU03RXY4ZXE2ZFN2MTUyTW1qNURPMVlKRVowcDkwLU1PS011R0Y1WUFaRU81bGQ1NzZMZjNSdw?oc=5)
+
+---
 
 ### [健康驛站·急症早識別｜這種“感冒”，千萬不能大意](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
 
