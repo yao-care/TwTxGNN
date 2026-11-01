@@ -3,9 +3,9 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # 感冒 (common cold) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,29 +30,13 @@ last_modified_at: 2026-10-31
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [呼吸道細胞融合病毒(RSV) 威脅橫跨老幼](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LXdtLVhnSEdxTEl6YTJVbGZZODR2ck54TkVaSHhwczFzUFlQY2JXNlRjSTduUHR1cUtYNFNmUk95cEpFR1UzYw?oc=5)
-
-2026-10-31
-
-來源: [台灣民眾電子報](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LXdtLVhnSEdxTEl6YTJVbGZZODR2ck54TkVaSHhwczFzUFlQY2JXNlRjSTduUHR1cUtYNFNmUk95cEpFR1UzYw?oc=5)
-
----
+## 相關新聞（2 則）
 
 ### [健康驛站·急症早識別｜這種“感冒”，千萬不能大意](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
 
 2026-10-30
 
 來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
-
----
-
-### [感冒、流感康復後要換牙刷防二度感染嗎？醫：做好3件事更重要](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5)
-
-2026-10-27
-
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5)
 
 ---
 

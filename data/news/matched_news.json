@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-31T22:05:39.000120+00:00",
-  "total_count": 61,
-  "matched_count": 19,
+  "last_updated": "2026-11-01T01:41:28.634640+00:00",
+  "total_count": 60,
+  "matched_count": 17,
   "news": [
     {
       "id": "9c5bc1a0fbff",
@@ -73,6 +73,19 @@
       "matched_keywords": []
     },
     {
+      "id": "6e0d0b28935f",
+      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報 - LINE TODAY",
+      "published": "2026-10-31T16:42:12+00:00",
+      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZGRfVy1Qd2g5bDFzVS14OWw0OW15cGxTTjlOdDhCQUN1MHA0NDROelVRc3VUX1ptOVJHOFoxZllJN3JZTmktWTJQVFZwTmN3dlF3S0NB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "ac36853beec1",
       "title": "加拿大35至54歲女性子宮頸癌個案上升　專家呼籲及早檢查 - Sing Tao Daily 星島日報加拿大",
       "published": "2026-10-31T16:41:15+00:00",
@@ -112,19 +125,6 @@
       "matched_keywords": []
     },
     {
-      "id": "6e0d0b28935f",
-      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報 - LINE TODAY",
-      "published": "2026-10-31T16:02:22+00:00",
-      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZGRfVy1Qd2g5bDFzVS14OWw0OW15cGxTTjlOdDhCQUN1MHA0NDROelVRc3VUX1ptOVJHOFoxZllJN3JZTmktWTJQVFZwTmN3dlF3S0NB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "8dc95b4a0b61",
       "title": "靈異｜少女昏迷4個月「活在另一個現實」：如鬼壓床但嚴重100萬倍",
       "published": "2026-10-31T15:30:44+00:00",
@@ -133,19 +133,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOWW9mb29LQlh6QW4zeEhQWU1iNVZfM3h3ZUp0VU1ram5OMjI4czdDQ09GOEZuWTdyVExqVlYzcmhyeXVzcXNNeXZxdUNZVDBjbGwxVmRub0dRMEIwY1ZPSEJLZnBmeDBEZDBmMFhPX01GaThzTm5mOXZ0S0NDWlBxbVlWWWhySUZlUkl6MW5DLXZFY0o5S1NITURuc1dILTRtMkMxWHNUaUhNWGEwcWtpcDRsSXBpeEU5UFI0WkYxQzVzVl9HUFBYTUVRbWhWY0pjanRsM3hmTTkwLVRTSlBVU1ctbHhDek5RVnVDbUE3MUl3cUl4clZiTk5NTlpkSXJwSlU5RzZZbDJzTWdKVXI2TVkwNlVfVjNzdFZPalp2MkJINndJLTZRSzRJWmxGaV80ckt5WXF4b2hNeHFOQlRHMTlJQlZiM3RnQmJoVEEyVmFxV1pLZjJDYzNlRjRxQXRzN3IzaS1qUHdOMkNlZ3BSUDB6WTFxY3FVWlYwb2JaeFlsVUs1RGdESEhhaUFPRUk0djFxY2ptQV9ITVRVTl84?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ea6f7376228c",
-      "title": "今年流感季提前 多毒株活躍",
-      "published": "2026-10-31T12:26:13+00:00",
-      "summary": "今年流感季提前 多毒株活躍&nbsp;&nbsp;on.cc東網",
-      "sources": [
-        {
-          "name": "on.cc東網",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHRPQjBFQ0lJWm5nMUU4RFJOcXQ2dkRDMnFCcGVldEZMTk5ockN4c3QyZTF3UE9lMzhSSmpydW5ZZmVlX292eUIwRV90NHZWeTNwNm5COTV3TVVoY200NVBKeGFWV2JvSF9lQkw1eWNhMFVmc2l5T1JMX3Azd2hFTVBwWkJVeGo5ZDN3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -423,27 +410,14 @@
       "id": "cd28606c324c",
       "title": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼",
       "published": "2026-10-31T02:21:36+00:00",
-      "summary": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼&nbsp;&nbsp;台灣民眾電子報家有老幼當心RSV 感染恐釀肺炎重症&nbsp;&nbsp;自由健康網專家呼籲建立完整防護觀念 五大呼吸道疾病疫苗缺一不可&nbsp;&nbsp;Yahoo新聞秋冬呼吸道隱形殺手！呼吸道細胞融合病毒威脅大，專家籲補齊「五重防護」 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒以為感冒卻咳好幾周！RSV恐釀肺炎重症 這些人要當心&nbsp;&nbsp;TVBS 健康2.0",
+      "summary": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼&nbsp;&nbsp;台灣民眾電子報RSV不只威脅嬰幼兒！醫示警：長者染病恐失能、死亡&nbsp;&nbsp;Yahoo新聞秋冬呼吸道隱形殺手！呼吸道細胞融合病毒威脅大，專家籲補齊「五重防護」 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒長者染RSV引發肺炎機率為流感2.7倍！醫籲完整接種五大呼吸道疾病疫苗&nbsp;&nbsp;良醫健康網秋冬RSV進入傳染高峰 醫建議家中老幼接種「5大疫苗」&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "台灣民眾電子報",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LXdtLVhnSEdxTEl6YTJVbGZZODR2ck54TkVaSHhwczFzUFlQY2JXNlRjSTduUHR1cUtYNFNmUk95cEpFR1UzYw?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "47955105ee01",
@@ -715,6 +689,19 @@
       "matched_keywords": []
     },
     {
+      "id": "71360c242660",
+      "title": "骨質疏鬆｜28歲OL逼返工被撞跌手腕撐地秒骨折醫生警告：3大行為屬極高危【附1分鐘自測骨質疏鬆】",
+      "published": "2026-10-30T08:04:18+00:00",
+      "summary": "骨質疏鬆｜28歲OL逼返工被撞跌手腕撐地秒骨折醫生警告：3大行為屬極高危【附1分鐘自測骨質疏鬆】&nbsp;&nbsp;香港經濟日報HKET鈣片「一次吃多少最好」？營養師揭關鍵數字 很多人都浪費了&nbsp;&nbsp;Yahoo新聞彎腰、坐下就骨折 骨鬆早已找上門&nbsp;&nbsp;UDN從看得見的體態，到看不見的骨骼：觀點營養師高敏敏解析骨密度背後的健康盲點- 生活新聞&nbsp;&nbsp;PChome Online 新聞中高齡族不可忽視的「隱形健康殺手」 醫籲別以為多補鈣就好&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4RVdVeUwzTjhiNEVNcDZ5TmV1WUZ1LVZjVHRzODRTZWtYRFhCV1laM25BN2J6c2RUekV2M2U4b2hIdDZWTmFWMktTMy1YXzNxVXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5577b757c47c",
       "title": "健康驛站·急症早識別｜這種“感冒”，千萬不能大意",
       "published": "2026-10-30T06:32:40+00:00",
@@ -762,19 +749,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPY3NPVGNzRFFrX0xrMWc5NlJ0YzFNYWRvUzN1bnY3bEdzYTJtS0hzalFDWEQtUURfMkN5WWY2a1g0azh5N0Fic2RNWE9mbi1vT1p2ZktBa09pWE41cFl5RlluRmlKVlRwMGRlTjZpcnBnQTgyOGdOcktWWE02UVF6N081V2t1WnJCUXpvUUc0NEpTMHJTU2VsS3gydzVwX2t1WEYtV2MyOVNNV1ZpXzZINzZFeTEtS2pRdW9ZZlZoRXoydTFPaTJKSVBVa2ZON1JmV1N5YnBXb2gyRThhVTVzVmticWYxcko2QmttdjJKYzJjdmw5ZFJoR1VORnJKQThDWHlDNVhpMEJVS2g2SmVZUXV6SWpTd3c2WWpydXlIR2tHRTVYWjRjZm1aQ1BWVkJFeG4wZ2NJcnptT01iR2o0SnRfbVR4NXJYSVM4OHdUc041b3RkamVQbjk3RWFzRlRPdVc2X0pKTEhFUkExS19qNi1uVnJ4UDdyT3dnVllDaWhGdGZzcHpuTzN1Wkl1Tk5wZEktZ0IzSGRybTlDb0JuektES1FaeHM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "589df5395503",
-      "title": "彎腰、坐下就骨折 骨鬆早已找上門",
-      "published": "2026-10-30T00:57:43+00:00",
-      "summary": "彎腰、坐下就骨折 骨鬆早已找上門&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0QThJa0tVR2RuOUg4N256Tl90cEdnWHpEd1hCV1U1ZUVPOFFmZGZ2T0ZWZlRhMW5vWnhsd0MyOThWVDUyd3NQNmVzRDlvRGpySkM0RHZYZ0l0QUw5NTJKdU930gFiQVVfeXFMUHRBOElrS1VHZG45SDg3bnpOX3RwR2dYekR3WEJXVTVlRU84UWZkZnZPRlZmVGExbm9aeGx3QzI5OFZUNTJ3c1A2ZXNEOW9EanJKQzREdlhnSXRBTDk1Mkp1T3c?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1188,6 +1162,19 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSlo3UVpKWkVWQjZJWG1kT1pIaTgxZktUdzB5cUJiUmVGODF0MWdmRUFkYW84ZlMwTHFQRzM2Yi1BQTY1ZEFWei1zV3NYUEJUeFBmZXJpQ2RqcjExNzFselBLZjRsNlY3c1dkcll6dENaWHNUQlFSTWpGUExEWkFwNzBUTWlqaGhDMjltbHFJUlhfRzRZSU4wN2E0T3o5MGxQR0ZhMlYzTGtPRXBnUXJGRlEyRF9VOWVhUnR0Wk1BcWpFX1ltRk9oRjc3ekZBTE1sS2hRenNjZWkwb0lxY0U5Z3Q3c0IyMk9pUlJTRlFpTGZRS29zQkxId1ZvSURkYll4Q3I2amE0enRaSDR6LWVROUdWX05qMGNKMkxURmJueDd3aDkyZ0pELU5FdUdfU1l2ZmQ1N2dpR3pLQlRMZTlCS3pQR2ROa3NzQ1lSalV5MmI1X0NUZnRGODB0Znl6dDgwemljcXhpTlpSTlJkQTdoaGIxN1I2QWp2dnV5eEwzUmt5bDZ6TWRkZktXb2J2VXQwVmpJd2N0MTFBdFU4VHVYRjRUTkJ6TjlpUURoeUlzaF9uYTBM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7e12ddd308fb",
+      "title": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE",
+      "published": "2026-10-29T02:30:53+00:00",
+      "summary": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE&nbsp;&nbsp;i-CABLE今年流感季提前 多毒株活躍&nbsp;&nbsp;on.cc東網",
+      "sources": [
+        {
+          "name": "i-CABLE",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQamduY2drZTdLN1FOQ3lGY21KWklHQWc1MVN2QzEwYndSdkptQm5pb3NNNk9tR0Q0ejFfeE1XeU12eXFsS0ZBamtVMkk1QVlublBWRTV0a1VJVC16Ul8yZzhqVlYzMW5kNlhSdXdlRzlFc1JEclJMeG9iY2hicDllSmtvTVBhMmxsRG5ONVJ6X2dFYVRtZmxLa2xvUElkOVVyc08zQXlXeERHd3ROdE04cXZ3SWMtN01xbF8wcGpyaVpkYVE1dWJXLXNYODF3LTB6OWVPT1dSaHJ2ZnRPMUhLZjV0ajZ0T0Ryb2xwdnItRFZ6UXdjQUxQNk1Vc3pScmlwTjZRQlMtVXBYR2NpN0xJbXVoSWN4eTZsSHZRdmRIYm1rSE9vTVR4SnlFb05GWHRLYjA5MGYtTnRESlhkd0V6OGZYLXB0ZWpWWkk4bURWazl3VWJoZzI0N1F6OExCeTY5ZGgwZzdGcHk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2390,32 +2377,6 @@
       ]
     },
     {
-      "id": "4db1f5aad91c",
-      "title": "感冒、流感康復後要換牙刷防二度感染嗎？醫：做好3件事更重要",
-      "published": "2026-10-27T00:10:40+00:00",
-      "summary": "感冒、流感康復後要換牙刷防二度感染嗎？醫：做好3件事更重要&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "10c74db3c3a0",
       "title": "感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯",
       "published": "2026-10-27T00:03:39+00:00",
@@ -2507,14 +2468,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f482095d6750",
+      "id": "c9d7fc6487ba",
       "title": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠",
       "published": "2026-10-26T07:52:24+00:00",
-      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;Yahoo新聞",
+      "summary": "怕發炎反而吃更少？營養師提醒自體免疫患者蛋白質要補夠&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxNNnlrUllwUzBncmYxN1lQOUVFa3lQRXkzN0hMcmcxeWpURlFUR2h0OWJoMlVPYzJMYUpPZ1pTeVZuQldFMzNPUThlejZCOUlNZy1ZSllZQldERlJOTlBfVmFQSXY1VnF3UFBsemRmd2lCMFlhd2NaMVRJWmNPb3FSbVAwM1hnVENqQ2tGVnhaUTVvMmRESjhVdDNRLWNLdDU3WEJpUFdYT2dLU1h6SzJDTTJUVFJzNXVXdFhiS2lYR0l6YTRuY09aVEJ1X3BDVkNTakV1cklyeHkwYVJvY2hxWENQSkZjWERFRko4Ymp4bUxpWXV6ZU8zVXNZRW0xUko2eGgxZzF3RjJobjUwdUhvS3hqTlI1MGNFWUpoYXhiUW93cEM1WERTV1UzMXZQRWVsUlRiOE5aVEFOMkhPTTYyRWR0RmM3THBOYzNMdXVrbmNuR1VfRDhTRktaRkdZRG9DSkYxQkRIWHp6YVZyVHA3VTVLTUxXOVFOTVJzVDVycm0?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZFhqSm53cjMzQzdPZVJsb3M4cVBha3A2cjI4bTlxcFc5S2xQOTYtYVRPSldFb21fSzV1MW9xc3A4SE1uaWtaRjVpLU1scFlBWUlN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2851,14 +2812,14 @@
       ]
     },
     {
-      "id": "5735963c3c77",
+      "id": "8e42112042d3",
       "title": "剛甩渣男就出事！女下體不適就醫驗出披衣菌、HPV 超音波更震驚",
-      "published": "2026-10-25T10:42:30+00:00",
-      "summary": "剛甩渣男就出事！女下體不適就醫驗出披衣菌、HPV 超音波更震驚&nbsp;&nbsp;三立新聞網SETN.com",
+      "published": "2026-10-25T08:05:22+00:00",
+      "summary": "剛甩渣男就出事！女下體不適就醫驗出披衣菌、HPV 超音波更震驚&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ub1dKVWJfZTBpN25wd09NblR6LW9OaEdDWExWZDlSMkN2dExhckE3N0FINWxUNjRzWkE2aEd6S0xXdkllbEctSmtTdE0?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQNW9NVmdoRHAtR0RCb2hpQlhhZXpTOHVBTlRKVzN6Z3BFR1h5N1dZeTNDNzd6SHFUa2dEYy01b0NzcmRFX0ZpV0tQUmhtQ3hldmFMTThaeVlNX29nTFEwRGdPT2xzZnhIbGhKY01RWEwtMVk3RkxDeUtnZHBoNEJDS2JERGpmbVU2ZHoydUpPV2VIbElLV0lQMW1IWUVRLUtlQWxZdWl1ZjdXMXlsZEEzVWNfUlAwb2pHRzJvdFhpU21wVnUtZGtVSVpCYlYzOXhHMjZrT2JXaTdLcVZ4VVFxSVJNRlRIc2JrT2lxcThjdno0ME5INTZFUkstWm41QWxoS1d6N1cwbXhCclp5c3lqLXJic25xcFpWRUVaZUtLMFcwZHhBanAzX2lIbTNLcDZkOGhRQzFuczBBRzBxUG1mbXRpX29GTm1xX2N0YmVUbE5BTUp1UEs0eHduN3BCbktlbXI3LWdtRG1PR3ZBc0R3N1R5ZlJDT01mRmNSQUg2ZkRrOXExNUY0?oc=5"
         }
       ],
       "matched_keywords": []

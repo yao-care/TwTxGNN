@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T22:05:39.023414+00:00",
-  "count": 19,
+  "generated": "2026-11-01T01:41:28.663510+00:00",
+  "count": 17,
   "news": [
     {
       "id": "9c5bc1a0fbff",
@@ -332,31 +332,6 @@
               "slug": "zanubrutinib",
               "name": "Zanubrutinib",
               "url": "/drugs/zanubrutinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cd28606c324c",
-      "title": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼",
-      "published": "2026-10-31T02:21:36+00:00",
-      "sources": [
-        {
-          "name": "台灣民眾電子報",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LXdtLVhnSEdxTEl6YTJVbGZZODR2ck54TkVaSHhwczFzUFlQY2JXNlRjSTduUHR1cUtYNFNmUk95cEpFR1UzYw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
             }
           ]
         }
@@ -1966,31 +1941,6 @@
               "slug": "dehydrocholic-acid",
               "name": "Dehydrocholic acid",
               "url": "/drugs/dehydrocholic-acid/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4db1f5aad91c",
-      "title": "感冒、流感康復後要換牙刷防二度感染嗎？醫：做好3件事更重要",
-      "published": "2026-10-27T00:10:40+00:00",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBVTVBKbmRwSnlyazkxMzNkTlMwV1FXY0JsTXZWWFVvOWN0Q3lTdl80WUlfTU5TYjEwc2hQWm9yU1VuNHZUTWFNSTRscU1wNHNZVVNhVnZKMld0V0M10gFiQVVfeXFMTnJIRXpZMmNpcXdHNW5GZmx2X0dhNzR6djZsRzlmbzZYMzlWNGxicGUtTWtKYV8yVHdLejBBdWVheWhvZmI3MHdrRkd3VVdQN3hqcnpJaW9EOHRwX0VUME5naGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
             }
           ]
         }
