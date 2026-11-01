@@ -1,17 +1,30 @@
 {
-  "last_updated": "2026-11-01T08:26:52.662840+00:00",
-  "total_count": 55,
+  "last_updated": "2026-11-01T15:36:41.186348+00:00",
+  "total_count": 52,
   "matched_count": 14,
   "news": [
     {
-      "id": "ab0c68b0316b",
-      "title": "家有老幼小心RSV！醫：造成肺炎機率為流感2.7倍 籲盤點「5大疫苗」",
-      "published": "2026-11-01T03:08:21+00:00",
-      "summary": "家有老幼小心RSV！醫：造成肺炎機率為流感2.7倍 籲盤點「5大疫苗」&nbsp;&nbsp;Yahoo新聞秋冬呼吸道隱形殺手！呼吸道細胞融合病毒威脅大，專家籲補齊「五重防護」 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒RSV初期像感冒「一人感染全家承擔」 這4族群重症死亡風險最高&nbsp;&nbsp;TVBS新聞網像瓦斯無聲無息！ 一旦感染RSV病毒 恐陷3大風險&nbsp;&nbsp;中時新聞網一人染RSV恐全家中鏢 醫示警「4大族群」重症死亡風險高&nbsp;&nbsp;ETtoday健康雲",
+      "id": "262da5e0f10c",
+      "title": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療",
+      "published": "2026-11-01T13:22:33+00:00",
+      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa幽門螺旋菌｜內地一半人带菌 成人感染難自癒 專家籲6類高危人士規範除菌&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3MwbzgxOENaQWZ1SEdjUW85THlKRDBTQmxCZWZZXzFVbHd6TjR5Q1VkYzNYSjBPb3ZiS216TlI2amdKV3ZJNGlkWVN6NXJkdnY0d3NORDBNa0RiVm1uMXRhYm5wWV9SZjlIaEFQNTFCd2FNM2Q1RExsX3ZSVzlpWFpEYnVoLXVXX0hYSjJHRWpxRGxXcUJfaHRXN0UzNktpNTdFWFBhMDEyUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "40dfbbac6837",
+      "title": "長者感染「RSV病毒」恐引發肺炎！住院後半年仍可能喘",
+      "published": "2026-11-01T09:00:45+00:00",
+      "summary": "長者感染「RSV病毒」恐引發肺炎！住院後半年仍可能喘&nbsp;&nbsp;Yahoo新聞家有老幼小心RSV！醫：造成肺炎機率為流感2.7倍 籲盤點「5大疫苗」&nbsp;&nbsp;三立新聞網SETN.com秋冬呼吸道隱形殺手！呼吸道細胞融合病毒威脅大，專家籲補齊「五重防護」 | 黃天如 | 新聞&nbsp;&nbsp;風傳媒RSV初期像感冒「一人感染全家承擔」 這4族群重症死亡風險最高&nbsp;&nbsp;TVBS新聞網一人染RSV恐全家中鏢 醫示警「4大族群」重症死亡風險高&nbsp;&nbsp;ETtoday健康雲",
       "sources": [
         {
           "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPM3BRcnF4bmpvSWtWdXZoOEhZWWtaTUNlYUVUa0lmdzBabHR3Q3FLQjAxNjRGWVlVcDNURXdzZGwxbkY2V1VLczA0YXczR0ZSeVFGTW9nUUJTX1ZueGV1ZUp4dWdIeUpfXzlCLXZNMU5YRDFqUDF5ZlY3aVBSNHJPcDBrVGc3LW4tdHpYUms2eEVSTjhLVFM4clBFb2ZQMWI4cHVYVUZqbjdCSGhFd2xGOVV2dzRsQjBmU0puVTJKSmJfcHRReU9BamFUM1R1enRqQy1RQXg5S0VmYUZ1cjRSRWZ2dWdpT0F5YVlsZ2FENmpwdzRrTmVUOVlBV1FRLUc4NGhSbjJHVEhuQmt3eEo2S0ZSZE10ek5wYU03RXY4ZXE2ZFN2MTUyTW1qNURPMVlKRVowcDkwLU1PS011R0Y1WUFaRU81bGQ1NzZMZjNSdw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQMm92TGxjLUNta2Q1c1BJdVRLQmFRVmUwUFpsSHJGTENaNHJOQ2ZKUnJzc0lMX3YtdVpkMHBNNzZGd1dZNkxQbVhwYjg3a2lORFB3XzlQb0ROX0NwSWtZUWhTLTNzaFlPakRySUk0bVk5NHhKbGUzOVZvRkRDLXAtakdNbWtodkd0VHNCNFhzSlh0bUoxZlo5S255bExvN0VzLUxaaV9ZVlhKQzFsaDMzcTRsT0swXzRVR3BYMVZRZU9LeUl6VVZmRmV4bUdwb2lrbmhDX25fZ19KRG9NbGhWaVprRnc5Sl9fUGJEbTR6Q2dGSTlfNXJuWGVKYm1WdDhGQzlRc3lnbmg0b1E1T2FSVzhPM1BnSVFSRFVfdGprcUREWElOODItQzlkTm5FSzB0TUJUdDJTeEVZQ1c4S0RKenRUb25ISGdHYXUw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -30,14 +43,14 @@
       ]
     },
     {
-      "id": "11f780bea329",
-      "title": "「偉哥」竟可以抗癌？ 最新研究：或有助抑制癌細胞轉移",
-      "published": "2026-11-01T02:26:05+00:00",
-      "summary": "「偉哥」竟可以抗癌？ 最新研究：或有助抑制癌細胞轉移&nbsp;&nbsp;加拿大星島日報",
+      "id": "2223210fc143",
+      "title": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明",
+      "published": "2026-11-01T02:00:56+00:00",
+      "summary": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "加拿大星島日報",
-          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxPdU9Xa0NZZmpMdmlqa2s5Z3hUZWVhdVlkV0hVaVFwMGN3OXhTT1p6alV1Z1FYM1ZYMXFhRlFOSUN4RWx1dnU5dFJFMmZnLUVUMFV1R0I2VU9WWHA1U0RkLXlWQ0Y0d293LS1CbGdtNGt1bnVKZl9xYk1ybFV5LXFtSlEwYjFCTVhRT0pDM21Bdlp5ekdWc1NGYTVLWE1tUmZUTUEzank4eF94UjRYRmFpcHo4bjlUT3p0TXNiNDUzaG9CdFA0dEJoeVlvazFUTXlXbmNrSlI4NE9NNVRES1FLU2FRamx3MXh5OFdsYnhvZmRSdkI5d2g1cEotb0FyRkEzUk9kZ19CQjNNd2N0QjQ0TWdINnd3ZF8xNWlxZ3VXOGVFNEFXaVluWGxuckdtaFZ2X2NnU2s3U1Z5NWRPMThVeUhWTXhlYlI3anpDMHdENGg0MlJ6ZEF5Nm9YbGRJVWpIZzdFaTRsRW8yUnVKS1dDaEFHQmxjV0I3WXBoRXVDZGM1OFIxbXB0VklEM1dMV2p1b0VONlJB?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOUy1lRDByNU9DQzZXQ3VqbUMtV3dHbzctYjFoMDBBcjhrQWtHVFZ4Sm5nUW1jRnlud25PNFp1Rk4zdnR6WEkxWURLWTE4bDRrZ0lxa1ZSWF9FczF0UmUwd1YtRkZ3TXJsSFZ4eGxTQUdhamR5Nmdsc0Z6eGEwa0FXMnhieDYwcmcyVFhaandUMTRES2VSQnUyamx3SFJvcGJSYjdXdGVzZEhjSDJPWTJqeHBDSl9qelRpMi01SzNMTE1WV0NxbVlLNWtyWnp6cFdqRnZYbmc1aDducmo2VmdsLUlCYkFLS2NBZDR4aWpvTW5QNmlQNXNZN3p3akllZjhqeUd1ZDBwNnlQYXBDSFp5LU9uRC1UcVNUMW9udVZ4STBnWDRLM2k1bW9zTmQzZFdzTmpZcWpHbFNRVmhYbUVBckd1eFpGcGt3cWFxMVRaVDFWODliWVBoMnhucnBMckdOZ3ZaZllxV25Oc0FKVG5fanBRanBQYnJFaFRRbTAyY1JZVm1Ia21reXBxX1UxQ1RBcW9mVVpRTmYwcTdnbTF0dUlKam5mdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -107,6 +120,19 @@
         {
           "name": "Sing Tao Daily 星島日報加拿大",
           "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPTkEtcUx6Rk4zVklMNS1KN19La1dlWU5UNWZQd0ZkUzZFUG1Ya0hkUF8yamswMVF5bmtBYzV1S0M0djJMVDcwVzdQRlVpQjJuV3V2bHl5dFFETXhvSHZBQzJBS3otUktKQkllNXhyazg3dVJ2ZmE2ZlFIeVUxVHIwbFBsY202Slg2RFdrWGhQUG9TYU9ET0dOZ2xQbXV4TmFINW1QdDFwSzUtUWJSQ0I5aGNyLWFfUjcwNDVYd3lhOVRraFk3RTl5VFdRT1RIR25kbDdOTjJSYy1CbFg2N1hHRGI2YW1zZUVZdkZXcEFtWktJQUU4NkJpZ1lBM2l5Vkd3V0FKV3psX3VtbjJOM20tTF93ZzhDdHRDVlFXbnZpTlFLS2FnNWZtcjJ6UnhURk5EM3NXVzlwYVpDMUd3ZmphZUVSN0JoWXFwSTkzTWFIMm1fZ2MwY05ESVA3WXo3YmhhVjl0cFRIMU5pU19VZDIzc0tHelQwc19OekRPV2dZSVbSAY8BQVVfeXFMTng4MXZmcllVcWNqZU5hQ2o4MHpEakl3SThsSGtoOXQzaHJvZXptTGxCQWlxWXRIcG03OVZvMnc0cGtBN0dsWlZTUEEyVFZwU1NpQnVQbkRoQzVXNWpPRTNkVFRFX1NNV0ZIdy16LUN3VlpnVlBDRkJoWVlZT2V2ckY3amp0eHBNUjBFRTdXN2s?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6e0d0b28935f",
+      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報 - LINE TODAY",
+      "published": "2026-10-31T17:16:22+00:00",
+      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZGRfVy1Qd2g5bDFzVS14OWw0OW15cGxTTjlOdDhCQUN1MHA0NDROelVRc3VUX1ptOVJHOFoxZllJN3JZTmktWTJQVFZwTmN3dlF3S0NB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -415,19 +441,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOWW9mb29LQlh6QW4zeEhQWU1iNVZfM3h3ZUp0VU1ram5OMjI4czdDQ09GOEZuWTdyVExqVlYzcmhyeXVzcXNNeXZxdUNZVDBjbGwxVmRub0dRMEIwY1ZPSEJLZnBmeDBEZDBmMFhPX01GaThzTm5mOXZ0S0NDWlBxbVlWWWhySUZlUkl6MW5DLXZFY0o5S1NITURuc1dILTRtMkMxWHNUaUhNWGEwcWtpcDRsSXBpeEU5UFI0WkYxQzVzVl9HUFBYTUVRbWhWY0pjanRsM3hmTTkwLVRTSlBVU1ctbHhDek5RVnVDbUE3MUl3cUl4clZiTk5NTlpkSXJwSlU5RzZZbDJzTWdKVXI2TVkwNlVfVjNzdFZPalp2MkJINndJLTZRSzRJWmxGaV80ckt5WXF4b2hNeHFOQlRHMTlJQlZiM3RnQmJoVEEyVmFxV1pLZjJDYzNlRjRxQXRzN3IzaS1qUHdOMkNlZ3BSUDB6WTFxY3FVWlYwb2JaeFlsVUs1RGdESEhhaUFPRUk0djFxY2ptQV9ITVRVTl84?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6099d319aed5",
-      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 - TechNews 科技新報",
-      "published": "2026-10-31T08:19:53+00:00",
-      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92emE2MW1rQzFzQVZwMG90X2FNS2NkN0NRQUUxSVB0bkFjOWxnMWZRMzdKemtRajhmckcxbXJPcTlhYkR4dEFUNnp0R01WYjlsX3VDTEZiWE1UR3R4aHI0LWxzUVlFWnplVnU5TXhkTUtfVkYtNzMySUpB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -806,14 +819,14 @@
       "matched_keywords": []
     },
     {
-      "id": "7941a1e842ee",
-      "title": "高端疫苗本公司向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA) | MoneyDJ理財網 - LINE TODAY",
-      "published": "2026-10-29T10:18:56+00:00",
-      "summary": "高端疫苗本公司向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA) | MoneyDJ理財網&nbsp;&nbsp;LINE TODAY",
+      "id": "e5aa7006eca8",
+      "title": "【公告】高端疫苗向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA)",
+      "published": "2026-10-29T09:54:51+00:00",
+      "summary": "【公告】高端疫苗向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA)&nbsp;&nbsp;Yahoo股市",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xM1B4MUxLdEVhMVZyeWllZXRycjRQbmN2V2FsYWFVV2M2UjBac2RDSnJ5blhpaE1iZERkSEVySTVMS21jN00xcVpXeFZKY2JFeS1PVFh3?oc=5"
+          "name": "Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPQ28wWjk0UTlyNTBJLWdxZ2wtWGRaZ2xzWjFIdDV4S29QUkMyYkFpcUFhS1RhbklES21yQnZXTHNxam9FYXpFc3M5cUV0a2pxUjBFVDRjem1pcUJiYXozcmJ4QWdxeU92YmhVR1pvNHhhZ2lkZHdWalNyeGpnc0ExaVo3OVd6c0xfVm5MOHJzUUxwRTVHTmo2X3ZPLVNiRE54eURkN1Z4T0dmc1VZZDFxSmRvZURZQU9RNGRvNXVRZkQ5Z012bnZXNTNmRy1FMUFVNkdoYUJIUE5PYnEzR1ZXQlZEbWlocGpxd0w4cllrbUcxZnRyZEMtV2JmX3E3NEk0TGhZUGJINEVzZm5PWUhiYkpaUzlxbUZCN1l2OGlSQ2FaQ0hoV2VjYXY0OVZJTzJ5cUx3VXFhYjhCNFBwbTBnN3M1LXpSZ2RYX0NjTGYzb3l4TGdoaUdfVW1KeThOWXphcXU4M2lqTW41cDMyQ2lIdzZsdW9ZZG4yZjNyRG1ucGZkamo5Y0ljbkJKYjhybGV3LS15bWprUnc1aFZtMTlaRGhRMkpiX3JBbW9pakFXVHJ4M2xtNk5jTGl0REdfelFob25VS0dXWElxbU1kVXdiYWVRZ2JjUElNX0c1SGxsVFpLRkotS2twMWFaZ1JVSEllZ2RBYmlPbzI?oc=5"
         }
       ],
       "matched_keywords": []
@@ -840,19 +853,6 @@
         {
           "name": "i-CABLE",
           "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQamduY2drZTdLN1FOQ3lGY21KWklHQWc1MVN2QzEwYndSdkptQm5pb3NNNk9tR0Q0ejFfeE1XeU12eXFsS0ZBamtVMkk1QVlublBWRTV0a1VJVC16Ul8yZzhqVlYzMW5kNlhSdXdlRzlFc1JEclJMeG9iY2hicDllSmtvTVBhMmxsRG5ONVJ6X2dFYVRtZmxLa2xvUElkOVVyc08zQXlXeERHd3ROdE04cXZ3SWMtN01xbF8wcGpyaVpkYVE1dWJXLXNYODF3LTB6OWVPT1dSaHJ2ZnRPMUhLZjV0ajZ0T0Ryb2xwdnItRFZ6UXdjQUxQNk1Vc3pScmlwTjZRQlMtVXBYR2NpN0xJbXVoSWN4eTZsSHZRdmRIYm1rSE9vTVR4SnlFb05GWHRLYjA5MGYtTnRESlhkd0V6OGZYLXB0ZWpWWkk4bURWazl3VWJoZzI0N1F6OExCeTY5ZGgwZzdGcHk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bacbb5ce6cc3",
-      "title": "年紀愈大愈難減肥非代謝慢 研究拆解迷思揭3 大真正原因",
-      "published": "2026-10-28T22:40:15+00:00",
-      "summary": "年紀愈大愈難減肥非代謝慢 研究拆解迷思揭3 大真正原因&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxOUHgzWENBVE0zWldzdnZLZk5NTXltSUZqTU5uQnBQU3pjWUs5b3ljUk85RnFRdUZKbEYwSkFBWkREV3ZMUFA3dHVIR042YkhDLWUxRkpuYXVfeDBnTTE4MUJFTGptcy1odDRkakdQcDZiRThxWnRiclRDMXFuUlFKVi1ncFZzN0sxeDN5S3h1T0dhc2o4eVAyMy1weFFBRjFUVDd2U0liMFFMdk5iR0xDMzNiWWVkLXpQMVV3MEE2SG16ZDF1bDl1TTUwaWFJNUhjM3ZVaW9NREE2VlNyNWdORkhTMGZHNFNpcmdjYm5jSkZSOS1NT1pDMHdKWDYwaVZCX0JRNUQxR1hmN1RQbHM4R1pkUFJNRmZ5WnpxYzBYcVRpMTQ2S1VJWF9kMlBMXy1nUjFmU21IOEUtMEVZQWZDSE9wbW1hOHVmX1JHd3l4d2FfeFZEblNmTmRzMFMxZGNqZFh6VW1iUWFzQ3NKNHlmRw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1873,19 +1873,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a070acf4e8fb",
-      "title": "生蠔低熱量又高蛋白質！哈佛認證「最營養海鮮」搭配1物營養升級",
-      "published": "2026-10-27T09:00:00+00:00",
-      "summary": "生蠔低熱量又高蛋白質！哈佛認證「最營養海鮮」搭配1物營養升級&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wVUZNbTRJOVhrRHVqQmp6VXZmSS1qUnBTZldUSUU3aDFrNktZQ2tvcGQtdjhhR3hiVFgybk9JNTVWcUJ0bnJFTmVzSHJUQ3FLMFVJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "619188afad0f",
       "title": "吃一樣多卻少囤脂！科學家揭開細胞代謝關鍵",
       "published": "2026-10-27T08:44:00+00:00",
@@ -2423,32 +2410,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rTFdsdTJJNFBRelA3bGtMdlRxeERxSlJTYVluaTVRQlBVNzZhTndkQ1kxcklKTVFHU1VKWjg4SGV3QUo2bVlub3RXUzRHNVFydXJRSjB6UDM0MFRvNjVGM1c1NUw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3b7d64f5e111",
-      "title": "封面故事／「公筷公匙」上陣 讓幽門桿菌下桌 聚餐更安心",
-      "published": "2026-10-25T19:50:00+00:00",
-      "summary": "封面故事／「公筷公匙」上陣 讓幽門桿菌下桌 聚餐更安心&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rQnFZYjA2Z01IOV9BUkdJOEJWTTJWNGdfQ0VPZ0Z3c3FiVFduZGtDVDF4RE9vbWhKbE54LWFmaHpZQWJHY0VpYU1sQ0xjemlHR1g0TXhTY05Qd2VNTE9MSTVn0gFnQVVfeXFMT1RnU2treXJYcjVTZHV1OEd6ZmFlQkhZUEhBTlhsRHFQY3RZbEhqSmhka2pfcjZjY2c3TTVKVXZXVjR4T28zdjJNZ3NxdFU2dUpVMXhXSTFQZHR4OW43ZGNrODBKSEh6UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5735963c3c77",
-      "title": "剛甩渣男就出事！女下體不適就醫驗出披衣菌、HPV 超音波更震驚",
-      "published": "2026-10-25T10:42:30+00:00",
-      "summary": "剛甩渣男就出事！女下體不適就醫驗出披衣菌、HPV 超音波更震驚&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ub1dKVWJfZTBpN25wd09NblR6LW9OaEdDWExWZDlSMkN2dExhckE3N0FINWxUNjRzWkE2aEd6S0xXdkllbEctSmtTdE0?oc=5"
         }
       ],
       "matched_keywords": []
