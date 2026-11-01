@@ -1,6 +1,6 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-01T19:59:00.404049+00:00",
+  "fetched_at": "2026-11-01T23:24:03.297119+00:00",
   "count": 53,
   "news": [
     {
@@ -52,6 +52,18 @@
       ]
     },
     {
+      "id": "589df5395503",
+      "title": "彎腰、坐下就骨折 骨鬆早已找上門 - 元氣網",
+      "published": "2026-10-30T00:57:43+00:00",
+      "summary": "彎腰、坐下就骨折 骨鬆早已找上門&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0QThJa0tVR2RuOUg4N256Tl90cEdnWHpEd1hCV1U1ZUVPOFFmZGZ2T0ZWZlRhMW5vWnhsd0MyOThWVDUyd3NQNmVzRDlvRGpySkM0RHZYZ0l0QUw5NTJKdU930gFiQVVfeXFMUHRBOElrS1VHZG45SDg3bnpOX3RwR2dYekR3WEJXVTVlRU84UWZkZnZPRlZmVGExbm9aeGx3QzI5OFZUNTJ3c1A2ZXNEOW9EanJKQzREdlhnSXRBTDk1Mkp1T3c?oc=5"
+        }
+      ]
+    },
+    {
       "id": "686875d42b8b",
       "title": "哈佛發現發炎訊號「停不下來」的關鍵，有望成為自體免疫疾病新療法 - TechNews 科技新報",
       "published": "2026-10-31T16:04:56+00:00",
@@ -64,14 +76,26 @@
       ]
     },
     {
-      "id": "589df5395503",
-      "title": "彎腰、坐下就骨折 骨鬆早已找上門 - 元氣網",
-      "published": "2026-10-30T00:57:43+00:00",
-      "summary": "彎腰、坐下就骨折 骨鬆早已找上門&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "4e3438c33dee",
+      "title": "癌症治療皮膚副作用，要放棄嗎？皮膚科醫師：健康人也要遵循的養膚三原則 - Vogue Taiwan",
+      "published": "2026-10-26T06:13:07+00:00",
+      "summary": "癌症治療皮膚副作用，要放棄嗎？皮膚科醫師：健康人也要遵循的養膚三原則&nbsp;&nbsp;Vogue Taiwan",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0QThJa0tVR2RuOUg4N256Tl90cEdnWHpEd1hCV1U1ZUVPOFFmZGZ2T0ZWZlRhMW5vWnhsd0MyOThWVDUyd3NQNmVzRDlvRGpySkM0RHZYZ0l0QUw5NTJKdU930gFiQVVfeXFMUHRBOElrS1VHZG45SDg3bnpOX3RwR2dYekR3WEJXVTVlRU84UWZkZnZPRlZmVGExbm9aeGx3QzI5OFZUNTJ3c1A2ZXNEOW9EanJKQzREdlhnSXRBTDk1Mkp1T3c?oc=5"
+          "name": "Vogue Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2223210fc143",
+      "title": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明 - 香港01",
+      "published": "2026-11-01T02:00:56+00:00",
+      "summary": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明&nbsp;&nbsp;香港01前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOUy1lRDByNU9DQzZXQ3VqbUMtV3dHbzctYjFoMDBBcjhrQWtHVFZ4Sm5nUW1jRnlud25PNFp1Rk4zdnR6WEkxWURLWTE4bDRrZ0lxa1ZSWF9FczF0UmUwd1YtRkZ3TXJsSFZ4eGxTQUdhamR5Nmdsc0Z6eGEwa0FXMnhieDYwcmcyVFhaandUMTRES2VSQnUyamx3SFJvcGJSYjdXdGVzZEhjSDJPWTJqeHBDSl9qelRpMi01SzNMTE1WV0NxbVlLNWtyWnp6cFdqRnZYbmc1aDducmo2VmdsLUlCYkFLS2NBZDR4aWpvTW5QNmlQNXNZN3p3akllZjhqeUd1ZDBwNnlQYXBDSFp5LU9uRC1UcVNUMW9udVZ4STBnWDRLM2k1bW9zTmQzZFdzTmpZcWpHbFNRVmhYbUVBckd1eFpGcGt3cWFxMVRaVDFWODliWVBoMnhucnBMckdOZ3ZaZllxV25Oc0FKVG5fanBRanBQYnJFaFRRbTAyY1JZVm1Ia21reXBxX1UxQ1RBcW9mVVpRTmYwcTdnbTF0dUlKam5mdw?oc=5"
         }
       ]
     },
@@ -96,18 +120,6 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZGRfVy1Qd2g5bDFzVS14OWw0OW15cGxTTjlOdDhCQUN1MHA0NDROelVRc3VUX1ptOVJHOFoxZllJN3JZTmktWTJQVFZwTmN3dlF3S0NB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4e3438c33dee",
-      "title": "癌症治療皮膚副作用，要放棄嗎？皮膚科醫師：健康人也要遵循的養膚三原則 - Vogue Taiwan",
-      "published": "2026-10-26T06:13:07+00:00",
-      "summary": "癌症治療皮膚副作用，要放棄嗎？皮膚科醫師：健康人也要遵循的養膚三原則&nbsp;&nbsp;Vogue Taiwan",
-      "sources": [
-        {
-          "name": "Vogue Taiwan",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5"
         }
       ]
     },
@@ -148,18 +160,6 @@
       ]
     },
     {
-      "id": "2223210fc143",
-      "title": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明 - 香港01",
-      "published": "2026-11-01T02:00:56+00:00",
-      "summary": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOUy1lRDByNU9DQzZXQ3VqbUMtV3dHbzctYjFoMDBBcjhrQWtHVFZ4Sm5nUW1jRnlud25PNFp1Rk4zdnR6WEkxWURLWTE4bDRrZ0lxa1ZSWF9FczF0UmUwd1YtRkZ3TXJsSFZ4eGxTQUdhamR5Nmdsc0Z6eGEwa0FXMnhieDYwcmcyVFhaandUMTRES2VSQnUyamx3SFJvcGJSYjdXdGVzZEhjSDJPWTJqeHBDSl9qelRpMi01SzNMTE1WV0NxbVlLNWtyWnp6cFdqRnZYbmc1aDducmo2VmdsLUlCYkFLS2NBZDR4aWpvTW5QNmlQNXNZN3p3akllZjhqeUd1ZDBwNnlQYXBDSFp5LU9uRC1UcVNUMW9udVZ4STBnWDRLM2k1bW9zTmQzZFdzTmpZcWpHbFNRVmhYbUVBckd1eFpGcGt3cWFxMVRaVDFWODliWVBoMnhucnBMckdOZ3ZaZllxV25Oc0FKVG5fanBRanBQYnJFaFRRbTAyY1JZVm1Ia21reXBxX1UxQ1RBcW9mVVpRTmYwcTdnbTF0dUlKam5mdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "776ac81c0a52",
       "title": "長期吃身心科藥，50多歲女常做鬼臉、嘴巴停不下來！以為顏面神經失調？醫揭「遲發性運動障礙」有解 - 幸福熟齡",
       "published": "2026-10-27T07:00:00+00:00",
@@ -184,14 +184,14 @@
       ]
     },
     {
-      "id": "e5aa7006eca8",
-      "title": "【公告】高端疫苗向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA) - Yahoo股市",
-      "published": "2026-10-29T09:54:51+00:00",
-      "summary": "【公告】高端疫苗向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA)&nbsp;&nbsp;Yahoo股市",
+      "id": "7941a1e842ee",
+      "title": "高端疫苗本公司向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA) | MoneyDJ理財網 - LINE TODAY",
+      "published": "2026-10-29T10:18:56+00:00",
+      "summary": "高端疫苗本公司向印尼國家食品藥物管理局(BPOM) 提交恩穩健腸病毒71型疫苗新藥審查(NDA) | MoneyDJ理財網&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "Yahoo股市",
-          "link": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPQ28wWjk0UTlyNTBJLWdxZ2wtWGRaZ2xzWjFIdDV4S29QUkMyYkFpcUFhS1RhbklES21yQnZXTHNxam9FYXpFc3M5cUV0a2pxUjBFVDRjem1pcUJiYXozcmJ4QWdxeU92YmhVR1pvNHhhZ2lkZHdWalNyeGpnc0ExaVo3OVd6c0xfVm5MOHJzUUxwRTVHTmo2X3ZPLVNiRE54eURkN1Z4T0dmc1VZZDFxSmRvZURZQU9RNGRvNXVRZkQ5Z012bnZXNTNmRy1FMUFVNkdoYUJIUE5PYnEzR1ZXQlZEbWlocGpxd0w4cllrbUcxZnRyZEMtV2JmX3E3NEk0TGhZUGJINEVzZm5PWUhiYkpaUzlxbUZCN1l2OGlSQ2FaQ0hoV2VjYXY0OVZJTzJ5cUx3VXFhYjhCNFBwbTBnN3M1LXpSZ2RYX0NjTGYzb3l4TGdoaUdfVW1KeThOWXphcXU4M2lqTW41cDMyQ2lIdzZsdW9ZZG4yZjNyRG1ucGZkamo5Y0ljbkJKYjhybGV3LS15bWprUnc1aFZtMTlaRGhRMkpiX3JBbW9pakFXVHJ4M2xtNk5jTGl0REdfelFob25VS0dXWElxbU1kVXdiYWVRZ2JjUElNX0c1SGxsVFpLRkotS2twMWFaZ1JVSEllZ2RBYmlPbzI?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xM1B4MUxLdEVhMVZyeWllZXRycjRQbmN2V2FsYWFVV2M2UjBac2RDSnJ5blhpaE1iZERkSEVySTVMS21jN00xcVpXeFZKY2JFeS1PVFh3?oc=5"
         }
       ]
     },
@@ -268,18 +268,6 @@
       ]
     },
     {
-      "id": "d88adfb84cd3",
-      "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉 - 自由健康網",
-      "published": "2026-10-27T07:12:00+00:00",
-      "summary": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mTXVWMDB4WDllT1pSOV9VZlVhVGVmb0FUaGFPUDJkM2NyM2JxejlNVjMyZGx6MkRtaGhtUDNlSGg3OUZNWjFod05fUmh0d1I3emdsYThGb0psajdXdHUwejJvaTA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7bafa9cdca32",
       "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 健康醫療網",
       "published": "2026-10-27T01:00:00+00:00",
@@ -300,6 +288,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EY0FhU2E2S2FDcEVVa0ZlNThKdVdLYUdjeEhRd0YxVDl2YmxQdGJxZmhaaTJxRTlYTUJ2RzFVVGtEa1BLSzR1WXE5MjFLaFNVUTB5eVpIVl9OUk5TNm90YXdXcXJ2M0pZWlFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d88adfb84cd3",
+      "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉 - 自由健康網",
+      "published": "2026-10-27T07:12:00+00:00",
+      "summary": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mTXVWMDB4WDllT1pSOV9VZlVhVGVmb0FUaGFPUDJkM2NyM2JxejlNVjMyZGx6MkRtaGhtUDNlSGg3OUZNWjFod05fUmh0d1I3emdsYThGb0psajdXdHUwejJvaTA?oc=5"
         }
       ]
     },
@@ -439,7 +439,7 @@
       "id": "a983e53cef27",
       "title": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例 - 希望之聲電台",
       "published": "2026-10-26T11:16:17+00:00",
-      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台全球首例人類感染！ 法國通報「沙門達病毒」死亡&nbsp;&nbsp;MoneyDJ",
+      "summary": "目前尚無疫苗可用 法國通報全球首宗“沙門達病毒”死亡病例&nbsp;&nbsp;希望之聲電台前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "希望之聲電台",
