@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "感冒 (common cold) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # 感冒 (common cold) 相關新聞
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-01
 
 ## 相關新聞（3 則）
 
-### [長者感染「RSV病毒」恐引發肺炎！住院後半年仍可能喘](https://news.google.com/rss/articles/CBMiywJBVV95cUxQMm92TGxjLUNta2Q1c1BJdVRLQmFRVmUwUFpsSHJGTENaNHJOQ2ZKUnJzc0lMX3YtdVpkMHBNNzZGd1dZNkxQbVhwYjg3a2lORFB3XzlQb0ROX0NwSWtZUWhTLTNzaFlPakRySUk0bVk5NHhKbGUzOVZvRkRDLXAtakdNbWtodkd0VHNCNFhzSlh0bUoxZlo5S255bExvN0VzLUxaaV9ZVlhKQzFsaDMzcTRsT0swXzRVR3BYMVZRZU9LeUl6VVZmRmV4bUdwb2lrbmhDX25fZ19KRG9NbGhWaVprRnc5Sl9fUGJEbTR6Q2dGSTlfNXJuWGVKYm1WdDhGQzlRc3lnbmg0b1E1T2FSVzhPM1BnSVFSRFVfdGprcUREWElOODItQzlkTm5FSzB0TUJUdDJTeEVZQ1c4S0RKenRUb25ISGdHYXUw?oc=5)
+### [長者感染呼吸道疾病，肺炎、失能、死亡風險增！專家籲接種 5 大呼吸道疫苗防護](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YajRubDNwLUhuc2hJYlFBVnEzUlRUX0swa1dTV3Z4VUVzam5DS20tUVc4bThpZmdCVFdsT0lKQkdtUThrc0dRek1tYw?oc=5)
 
-2026-11-01
+2026-11-02
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiywJBVV95cUxQMm92TGxjLUNta2Q1c1BJdVRLQmFRVmUwUFpsSHJGTENaNHJOQ2ZKUnJzc0lMX3YtdVpkMHBNNzZGd1dZNkxQbVhwYjg3a2lORFB3XzlQb0ROX0NwSWtZUWhTLTNzaFlPakRySUk0bVk5NHhKbGUzOVZvRkRDLXAtakdNbWtodkd0VHNCNFhzSlh0bUoxZlo5S255bExvN0VzLUxaaV9ZVlhKQzFsaDMzcTRsT0swXzRVR3BYMVZRZU9LeUl6VVZmRmV4bUdwb2lrbmhDX25fZ19KRG9NbGhWaVprRnc5Sl9fUGJEbTR6Q2dGSTlfNXJuWGVKYm1WdDhGQzlRc3lnbmg0b1E1T2FSVzhPM1BnSVFSRFVfdGprcUREWElOODItQzlkTm5FSzB0TUJUdDJTeEVZQ1c4S0RKenRUb25ISGdHYXUw?oc=5)
+來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YajRubDNwLUhuc2hJYlFBVnEzUlRUX0swa1dTV3Z4VUVzam5DS20tUVc4bThpZmdCVFdsT0lKQkdtUThrc0dRek1tYw?oc=5)
 
 ---
 

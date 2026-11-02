@@ -3,9 +3,9 @@ layout: default
 title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # 失智 (dementia) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智 (dementia)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-01
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
-### [吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看](https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5)
+### [得閒要曬下 研究：日照不足可能會增加失智風險](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5)
+
+2026-11-02
+
+來源: [am730](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5)
+
+---
+
+### [吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5)
 
 2026-10-27
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMilwJBVV95cUxPNmRPYkUtNUdCMTFzRVVRTzZZY1Z5dWQtUHNkNFM5SVZ3Zk5VLUdTMTlSVU5naG1Yb3NIMTJkakFfdUJLMXFQYVAxRFRzVUI3R0dodUI0dnExclFNR1pMZVJDbHZzQUxOaFluRHVrQ2RIbnNodUNsWmJYYVhkLVEwUXRDWUdBR3pYc20teGpTOTgtejE5TFlnSGhvdlRhc2xua3ZqdFVaT2dUWTEtMHR4YlZFdUVITjZKZ3duQ2t0MUVBb01hOW04SXpNY2N1ZGVIUER5NFhiNTl4T28teEZ2S1VHM2NFQXNNcXFsSEdVVlZfZXN4cmNKUHBNdS1HVENIS1h3QW5OSjV3aXQtaE1vaEd5VkZuSmM?oc=5)
+來源: [鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5)
 
 ---
 

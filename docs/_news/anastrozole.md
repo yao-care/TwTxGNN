@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Anastrozole 的相關健康新聞報導。原適應症：治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對TAMOXIF...。預測適應症 6 個。"
 permalink: /news/anastrozole/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Anastrozole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ last_modified_at: 2026-11-01
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [【冬陽天地】乳癌與骨質疏鬆](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
 
@@ -49,11 +49,11 @@ last_modified_at: 2026-11-01
 
 ---
 
-### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
+### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
 
 2026-10-31 <span class="news-indication-tag">腫瘤</span>
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
 
 ---
 
@@ -94,14 +94,6 @@ last_modified_at: 2026-11-01
 2026-10-27 <span class="news-indication-tag">乳腺癌</span>
 
 來源: [shemom.com](https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5)
-
----
-
-### [癌症治療皮膚副作用，要放棄嗎？皮膚科醫師：健康人也要遵循的養膚三原則 - Vogue Taiwan](https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5)
-
-2026-10-26 <span class="news-indication-tag">癌症</span>
-
-來源: [Vogue Taiwan](https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5)
 
 ---
 

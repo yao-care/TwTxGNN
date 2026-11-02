@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Nebivolol 的相關健康新聞報導。原適應症：治療原發性高血壓。。預測適應症 5 個。"
 permalink: /news/nebivolol/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # Nebivolol 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="Nebivolol 有什麼相關新聞？">
-<strong>Nebivolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Nebivolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,13 @@ last_modified_at: 2026-11-01
 <p><a href="{{ '/drugs/nebivolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
-### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
+### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 - TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
 
 2026-10-31 <span class="news-indication-tag">腫瘤</span>
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcDRjMmZsZUo0aWhYVnlhZWtYMGFGc0E3NWNuZlNIZ0g5N3BUZzhOMENITlkya21KNUZER1RmcEdnOGxGZFJrdGJNOU0ycW93dGtIb1phVkZhWkJ0OWhCdEc0ajlheUFZVXEyVTFWWHc3YXpHejMxa3dmZmJPb1RIT05mVHhtdFVMUy0w?oc=5)
 
 ---
 
@@ -77,14 +77,6 @@ last_modified_at: 2026-11-01
 2026-10-27 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [香港01](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5)
-
----
-
-### [癌症治療皮膚副作用，要放棄嗎？皮膚科醫師：健康人也要遵循的養膚三原則 - Vogue Taiwan](https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5)
-
-2026-10-26 <span class="news-indication-tag">癌症</span>
-
-來源: [Vogue Taiwan](https://news.google.com/rss/articles/CBMiowJBVV95cUxPS1dxbFpBQ1lrZnc5T3p0M3JTZkdCSlVieGp2NEVhY2h2NTFNb0ZzUXpnT1RlWjdBbnJCTkN3UmtFSnFYU1B0b2ROZ294NzZUc0VydGozcG1YVDJiNUVldmZIYlE1SEtHMGFRaFFwbV9xLVpoUHlhZV9pc3BPSC0weXVRMWtrVHpTLXJUNW5OSnkyRzlQZ3dGUGxYZlFncDJfUmJsbEJBZ1ZXekVZZkY4aEotWGFBdjRZQW9wdHVXTENKRkozTEVUUFZZQjBaMjBmV3lpOERySi11MEotQlpDNWVGclE5Y054WE83MHFoeFRsajVtaFpqczRUc1RBOFpWMUszRmVRYVJkRTZJMGVqejJETDJkTG1PTGdlclVnLV96SHc?oc=5)
 
 ---
 
