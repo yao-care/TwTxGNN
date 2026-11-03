@@ -3,9 +3,9 @@ layout: default
 title: "Nystatin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Nystatin 的相關健康新聞報導。原適應症：抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道...。預測適應症 10 個。"
+description: "Nystatin 的相關健康新聞報導。原適應症：抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道...。預測適應症 9 個。"
 permalink: /news/nystatin/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 ---
 
 # Nystatin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nystatin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -26,9 +26,8 @@ last_modified_at: 2026-10-29
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道及陰道感染）</li>
-<li><strong>證據等級</strong>: L3</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>vulvovaginitis</li>
+<li><strong>證據等級</strong>: N/A</li>
+<li><strong>預測適應症（9 個）</strong>:<ul>
 <li>disease of orbital region</li>
 <li>disease of orbital part of eye adnexa</li>
 <li>cystic teratoma</li>

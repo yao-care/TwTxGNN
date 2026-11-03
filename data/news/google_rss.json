@@ -1,20 +1,8 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-03T11:29:09.573001+00:00",
-  "count": 42,
+  "fetched_at": "2026-11-03T18:51:08.511276+00:00",
+  "count": 36,
   "news": [
-    {
-      "id": "1ed4d11fe1e2",
-      "title": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87% - 威傳媒",
-      "published": "2026-11-02T10:02:00+00:00",
-      "summary": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%&nbsp;&nbsp;威傳媒前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "威傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2WXR2WnpyRmQzOTJEd214d2pXOHpkUFpYR21EQ2hNWlNoUXVPV20zWVB6MHFaZUREWXd1bjhYYUd0TXVvaXNDRUtR?oc=5"
-        }
-      ]
-    },
     {
       "id": "188c2556eea4",
       "title": "健康網》女性肥胖 傷心血管甚鉅！醫：產後盡快恢復體重 - 自由健康網",
@@ -28,14 +16,26 @@
       ]
     },
     {
-      "id": "2af75e910943",
+      "id": "1ed4d11fe1e2",
+      "title": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87% - 威傳媒",
+      "published": "2026-11-02T10:02:00+00:00",
+      "summary": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%&nbsp;&nbsp;威傳媒前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "威傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2WXR2WnpyRmQzOTJEd214d2pXOHpkUFpYR21EQ2hNWlNoUXVPV20zWVB6MHFaZUREWXd1bjhYYUd0TXVvaXNDRUtR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28e0e6b6d66d",
       "title": "只差不到三週...期待《GTA6》發售的美國重症粉絲逝世 得年25歲 - udn遊戲角落",
       "published": "2026-11-03T03:01:55+00:00",
       "summary": "只差不到三週...期待《GTA6》發售的美國重症粉絲逝世 得年25歲&nbsp;&nbsp;udn遊戲角落",
       "sources": [
         {
           "name": "udn遊戲角落",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MmlzUWhkUG1nN1pTYjlFYVRDWTgxWXlGc21MdVd2am9jSi1vRUM1cnpRNDNyblpDQ1ZZRnJ6cWExaVEtbFNCa1JGRXdKUE9fa0RyS0VDbC1Xd9IBX0FVX3lxTFBBNDF3ZEtmdU9iMDZ0dG5hSGtjck5nYW1VMVRMRnhTREQ3dVdaQmdQc0pnRDNIMlFWN3pKWDNveXNaRFJLb3hUOE9tcTFBcV9Jb2lLcDRpUTdNWFhHTExZ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KU01UUkxVcjg1NGUyNDV1djNQRXVrcUhiTHZRNUJXRC1XcG53am5sOHp6Y0FUbWNMaUl6UWJyc29lMXVYRWw0R3dsM1FuQWRLdVppc2Q0RnBOQTh3WWtFMXA4N3ZZcXJIYV9USkdfOUg4dXVmQkpnRkJoWFlEZEXSAV9BVV95cUxQQTQxd2RLZnVPYjA2dHRuYUhrY3JOZ2FtVTFUTEZ4U0REN3VXWkJnUHNKZ0QzSDJRVjd6Slgzb3lzWkRSS294VDhPbXExQXFfSW9pS3A0aVE3TVhYR0xMWQ?oc=5"
         }
       ]
     },
@@ -64,18 +64,6 @@
       ]
     },
     {
-      "id": "fc23eee34075",
-      "title": "大肚腩兼缺乏維他命D要留心 大學研究發現50歲後死亡風險高123% - 香港01",
-      "published": "2026-11-03T00:01:32+00:00",
-      "summary": "大肚腩兼缺乏維他命D要留心 大學研究發現50歲後死亡風險高123%&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNZzVGTGFLdDBSZmFYN2Z3eU1kRWJiN2lsR3FESjdaLXZtV085bUQwanFxVVJpY29hazc2UEF1bFhnS1dITVpjSXlJTVAyZUZTcTF0S1pjY1ZmdXdLS1JKQVRqbWZ0WE5KcmpOWUhXUjhxeGZUbmlFZUJUTU5ORmRwSGJkN2E5cFd3ME1vckVSU3VkZ3VZRktGbHZ5ZzZJdm83dWxiNE43dXZlLTlDRU9jaWtzMUU5RnlQY2ZCcC1nNUlscUctOWVkQXIwZEdHNm8yT3E1NU5lbXRVTmlKRXZuZTJMSllxQ2dKcFJkZVdiSHJuMTRMRW1IeC1QWFNKLWtTMFNhNjRxVnhxVF96RUZYSU8zYnh3UzlyS3AwVkdSSG9aUktZLXR3bTFkTi1BTEJVZXE5MUkxbHJHOW1ZVG9pXzRSTmpHbWREaXQzNmxyM0QyeGFKcTNkLXZCdFkzcWJKNWkxTG1oanB6TDZBcTEtbzFSQWFsVWRwakxGX3luaGJTc2d5aXJRQVZYczk3QUNSWjkwaS1tQmlIdlhVY3VFX0UtQzZ1NGpoeUFr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "559779e43089",
       "title": "得閒要曬下 研究：日照不足可能會增加失智風險 - am730",
       "published": "2026-11-02T03:30:00+00:00",
@@ -88,46 +76,22 @@
       ]
     },
     {
-      "id": "0800932e5417",
-      "title": "每天吃60克花生 研究發現熟齡者記憶相關腦區反應改善 - 自由健康網",
-      "published": "2026-11-02T02:56:00+00:00",
-      "summary": "每天吃60克花生 研究發現熟齡者記憶相關腦區反應改善&nbsp;&nbsp;自由健康網",
+      "id": "fc23eee34075",
+      "title": "大肚腩兼缺乏維他命D要留心 大學研究發現50歲後死亡風險高123% - 香港01",
+      "published": "2026-11-03T00:01:32+00:00",
+      "summary": "大肚腩兼缺乏維他命D要留心 大學研究發現50歲後死亡風險高123%&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hdjF3Skw0T2pyS1NUTmdtX0RXbm1fbVp1bDFWUFFNYktENWljQkwxb19OSWxDTENSaDAwcmV5cXlqTHdBeW1GMFctdDBMbjItaXJydWh1Z1c1ZEYzeUxIMThpeG0?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNZzVGTGFLdDBSZmFYN2Z3eU1kRWJiN2lsR3FESjdaLXZtV085bUQwanFxVVJpY29hazc2UEF1bFhnS1dITVpjSXlJTVAyZUZTcTF0S1pjY1ZmdXdLS1JKQVRqbWZ0WE5KcmpOWUhXUjhxeGZUbmlFZUJUTU5ORmRwSGJkN2E5cFd3ME1vckVSU3VkZ3VZRktGbHZ5ZzZJdm83dWxiNE43dXZlLTlDRU9jaWtzMUU5RnlQY2ZCcC1nNUlscUctOWVkQXIwZEdHNm8yT3E1NU5lbXRVTmlKRXZuZTJMSllxQ2dKcFJkZVdiSHJuMTRMRW1IeC1QWFNKLWtTMFNhNjRxVnhxVF96RUZYSU8zYnh3UzlyS3AwVkdSSG9aUktZLXR3bTFkTi1BTEJVZXE5MUkxbHJHOW1ZVG9pXzRSTmpHbWREaXQzNmxyM0QyeGFKcTNkLXZCdFkzcWJKNWkxTG1oanB6TDZBcTEtbzFSQWFsVWRwakxGX3luaGJTc2d5aXJRQVZYczk3QUNSWjkwaS1tQmlIdlhVY3VFX0UtQzZ1NGpoeUFr?oc=5"
         }
       ]
     },
     {
-      "id": "db1a136e3f65",
-      "title": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法 - Cosmopolitan",
-      "published": "2026-11-02T05:18:21+00:00",
-      "summary": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法&nbsp;&nbsp;Cosmopolitan",
-      "sources": [
-        {
-          "name": "Cosmopolitan",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQy1aOHdIU2VSTDdXTFkyYnpoWDhIUU9oenlwb04xbXk2b2V2cExhcW9oRXExVkZnYmtiZWk1cVQtODZxRjd3YlBYNGJ3R0lEWEJGeEJuOXpIbnBMRmFfMDVqb1BoQ0NyLXV4VjJ6ZWh2dXM1TDhqLWNzR0loNXYxbmhmTGt5clV3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7491f954ab4c",
-      "title": "骨質疏鬆｜28歲OL逼返工被撞跌手腕撐地秒骨折醫生警告：3大行為屬極高危【附1分鐘自測骨質疏鬆】 - 香港經濟日報HKET",
-      "published": "2026-10-30T08:04:18+00:00",
-      "summary": "骨質疏鬆｜28歲OL逼返工被撞跌手腕撐地秒骨折醫生警告：3大行為屬極高危【附1分鐘自測骨質疏鬆】&nbsp;&nbsp;香港經濟日報HKET鈣片「一次吃多少最好」？營養師揭關鍵數字 很多人都浪費了&nbsp;&nbsp;Yahoo新聞從看得見的體態，到看不見的骨骼：觀點營養師高敏敏解析骨密度背後的健康盲點- 生活新聞&nbsp;&nbsp;PChome Online 新聞變矮、走路易疲累 可能與肌力流失、骨質疏鬆有關&nbsp;&nbsp;世界新聞網二林基督教醫院推廣骨質疏鬆防治 顧好骨本從日常保養做起&nbsp;&nbsp;彰化人彰化事新聞",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxNZjlNTWM2S2VxN3JSZHM1WGdubEtyeHRnVnlpT1RWQ2xFREh0RVFqRzFCQXpISDhWTF96QzMtQU5PYnFyTkFzSnA3cTlROUFaaVNrdFZ3Z00xdDFBT1VKYTd2SHB0NkpsWHk0WFMxRFBHTl9hWUFmaEF2Z3RIbnhzczFTT0F1NXM0a0FsOFE4WThPUlFrdldycjktUm5QcWJlR3VjNDltMGV6SXJpNnVyb193d2ludzE0QU5kY01Pb2pQSS1DbVRUelB2eTZJRkprbWlJN0JjTnpGRnJCVkowNDJoelVSaUdEbFNXVWFxTjFSQ1hWY2V3WXdpVnRzWlRNUlNaLV84eGtTM2ZYeFRBcHRON2s1VW5lWHotS29QWUxpd1VvM1BUWFJUTEpaenRydjBDcTNULVBzVEhBV0paWU96dG9QQjA2XzdfNTN2cVZZMUFudEItdFU0TjdxZk5faGpCV1dtN2VWWVlxWFNQR2dPRmstSXJlcTR5X1hwVVcyNENOakxGNG1rMjRuc0xINkcwS2pzbDJsVGZtT3V0QUhOLWY4UXo5eTJoM09OMG9zMWxlSnd3cVoxMmdlbXVYY2ppcjhpeXZYYUEzcUhYYk1MR3luS2NDaG5sUkt2NE55alo5d1FFeXpwQlpSemhrZXVfT0FKaGEwWkxWRk1zYnBSbzFfS0JHZmVIZENvMVYwUzFFdzM2Wmo1cVlTenZVUlVQUWRaTnIxVjBGRU1HSjFqXzVZakJDREJ6Tk55a3FIRWpyX2FKZk5aclJiLXNqZXJsUjM0MUVMenF6M2hHOG9SdHZkZGJQNzhnUUZ0Q0E0N2tXNHRN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "18f7835b7ad5",
-      "title": "失明的眼睛重新感光？ 諾貝爾光遺傳學加特製護目鏡， 10 人試驗中 7 人光敏感度改善 - 明日科學",
+      "id": "6b770466fc46",
+      "title": "失明的眼睛重新感光？諾貝爾光遺傳學加特製護目鏡，10 人試驗中 7 人光敏感度改善 - 明日科學",
       "published": "2026-11-02T07:45:41+00:00",
-      "summary": "失明的眼睛重新感光？ 諾貝爾光遺傳學加特製護目鏡， 10 人試驗中 7 人光敏感度改善&nbsp;&nbsp;明日科學科學人／失明能被治好嗎？光遺傳學加上護目鏡或許有點搞頭| 放學微素養| 文教&nbsp;&nbsp;UDN益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌&nbsp;&nbsp;香港經濟日報HKET【全球大搜奇】腦機介面新突破 助失明者重獲視力- 軍事&nbsp;&nbsp;中時新聞網",
+      "summary": "失明的眼睛重新感光？諾貝爾光遺傳學加特製護目鏡，10 人試驗中 7 人光敏感度改善&nbsp;&nbsp;明日科學益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌&nbsp;&nbsp;香港經濟日報HKET科學人／失明能被治好嗎？光遺傳學加上護目鏡或許有點搞頭| 放學微素養| 文教&nbsp;&nbsp;UDN",
       "sources": [
         {
           "name": "明日科學",
@@ -196,18 +160,6 @@
       ]
     },
     {
-      "id": "0ba7c34046b2",
-      "title": "抗老醫學新里程碑？梅約診所發現對抗「殭屍細胞」的新策略 - 蕃新聞",
-      "published": "2026-10-27T11:40:43+00:00",
-      "summary": "抗老醫學新里程碑？梅約診所發現對抗「殭屍細胞」的新策略&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4M2RJUnVpZWlzM0FWZDR3Xzc3NWdxSl80LV9GMVM3dFQzdVQ4ek1CR3ZvMDRqdmQ3R1NfMUpIV3FTRUpmdTdpaHF5dV9GUDlOX3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "383d908a9f22",
       "title": "糖尿病治療新突破…科學家打造植入裝置 小鼠6周平均瘦10% - UDN",
       "published": "2026-10-30T12:31:30+00:00",
@@ -232,26 +184,14 @@
       ]
     },
     {
-      "id": "7e12ddd308fb",
-      "title": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE - i-CABLE",
-      "published": "2026-10-29T02:30:53+00:00",
-      "summary": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE&nbsp;&nbsp;i-CABLE今年流感季提前多毒株活躍｜即時新聞｜中港台｜on.cc東網&nbsp;&nbsp;on.cc東網秋冬流感流行季開始 單周錄145宗爆發疫情&nbsp;&nbsp;東方日報",
-      "sources": [
-        {
-          "name": "i-CABLE",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQamduY2drZTdLN1FOQ3lGY21KWklHQWc1MVN2QzEwYndSdkptQm5pb3NNNk9tR0Q0ejFfeE1XeU12eXFsS0ZBamtVMkk1QVlublBWRTV0a1VJVC16Ul8yZzhqVlYzMW5kNlhSdXdlRzlFc1JEclJMeG9iY2hicDllSmtvTVBhMmxsRG5ONVJ6X2dFYVRtZmxLa2xvUElkOVVyc08zQXlXeERHd3ROdE04cXZ3SWMtN01xbF8wcGpyaVpkYVE1dWJXLXNYODF3LTB6OWVPT1dSaHJ2ZnRPMUhLZjV0ajZ0T0Ryb2xwdnItRFZ6UXdjQUxQNk1Vc3pScmlwTjZRQlMtVXBYR2NpN0xJbXVoSWN4eTZsSHZRdmRIYm1rSE9vTVR4SnlFb05GWHRLYjA5MGYtTnRESlhkd0V6OGZYLXB0ZWpWWkk4bURWazl3VWJoZzI0N1F6OExCeTY5ZGgwZzdGcHk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "373a22ed38fb",
-      "title": "癌症與中風 哪一個更可怕？ - 報新聞 Mega News",
+      "id": "053fa19f5902",
+      "title": "癌症與中風 哪一個更可怕？ - 蕃新聞",
       "published": "2026-10-27T23:22:47+00:00",
-      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;報新聞 Mega News",
+      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;蕃新聞",
       "sources": [
         {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5"
+          "name": "蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RUhGRy1ldHFTMEZmNnJkVkpWbENYcUVja1ZoeGF2TTh5aXVIcTFxN1FZMDZUc1VKMkhKVHdvTVNFMnoxUUIwRXhudl9kZ0tKRlE?oc=5"
         }
       ]
     },
@@ -268,18 +208,6 @@
       ]
     },
     {
-      "id": "262da5e0f10c",
-      "title": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療 - Singtaousa",
-      "published": "2026-11-01T13:22:33+00:00",
-      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa幽門螺旋菌｜內地一半人带菌 成人感染難自癒 專家籲6類高危人士規範除菌&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3MwbzgxOENaQWZ1SEdjUW85THlKRDBTQmxCZWZZXzFVbHd6TjR5Q1VkYzNYSjBPb3ZiS216TlI2amdKV3ZJNGlkWVN6NXJkdnY0d3NORDBNa0RiVm1uMXRhYm5wWV9SZjlIaEFQNTFCd2FNM2Q1RExsX3ZSVzlpWFpEYnVoLXVXX0hYSjJHRWpxRGxXcUJfaHRXN0UzNktpNTdFWFBhMDEyUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "86d455158a30",
       "title": "加拿大35至54歲女性子宮頸癌個案上升　專家呼籲及早檢查 - Sing Tao Daily 星島日報加拿大",
       "published": "2026-10-31T16:45:39+00:00",
@@ -288,6 +216,18 @@
         {
           "name": "Sing Tao Daily 星島日報加拿大",
           "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYnlJQTRlMERJVk9KRHZBeEZLMkpYRlNQV0tZVC1ZbS0xVnV0RG5FcVIwNDJFUUxtdi1wYjdLSkxINHJDVGdRWXZSVGpsc1FiZ3JQQWhhTEdnMm9heHE2bDYtTTByZG9OeXQ0elpRRFlHMW1LYU9nc1FBNUxDUkR0LXljamdoODd5dFpSVmxGbmc3TmRjTWdxQWwwYk85LV9vRlNramZnZk9WV3Nrb0pNZHVVc3RDLXROUC1xZDYzb2tMWE52WVpjcWpFUUpjT19qbHE5dTlGYmNYSnpER1RHSWdCazJDTEVORnhUclVSUFZKd1dCb081akJUeHR5OTZjdkFDekk3MHItTkRaTDNMZl96OFcxUUtFVXdMZkhEVUpIUzZoMFFrdVRHU2xEVU9sSkoxaWdRaUFFdi1NN2YtWktBWVlMNzZVazBnUk1rWGdxaVRlcENCRmNvbC1rRVpXYXBnRHozNlpZQVhKbFVJaGs1SE1RczJwSHlGeU8wRm0wZ9IBkgFBVV95cUxPbXV0Q2FCRlBJYjZHcE1QZ1ZQWlhPUmljbVZVUDNOY2p0TFF3a2NBNDlhQ005aERFU1NkcGNQUzlLb2dZeUNVcHNCcDl0N2ZLTFRjOFVwUXl0UFRNU29Kb0hoY1NwSUdMa2ktZEhFMkNqZDlOdVE5MVhGdlh3ZkZOWnRBaE1mWEdzdUUzYVdISE0zQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "262da5e0f10c",
+      "title": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療 - Singtaousa",
+      "published": "2026-11-01T13:22:33+00:00",
+      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa幽門螺旋菌｜內地一半人带菌 成人感染難自癒 專家籲6類高危人士規範除菌&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3MwbzgxOENaQWZ1SEdjUW85THlKRDBTQmxCZWZZXzFVbHd6TjR5Q1VkYzNYSjBPb3ZiS216TlI2amdKV3ZJNGlkWVN6NXJkdnY0d3NORDBNa0RiVm1uMXRhYm5wWV9SZjlIaEFQNTFCd2FNM2Q1RExsX3ZSVzlpWFpEYnVoLXVXX0hYSjJHRWpxRGxXcUJfaHRXN0UzNktpNTdFWFBhMDEyUQ?oc=5"
         }
       ]
     },
@@ -304,18 +244,6 @@
       ]
     },
     {
-      "id": "086185537c39",
-      "title": "哥倫比亞發現輸入性瘧疾病例 1死1留醫 暫無伊波拉個案 - Yahoo 財經",
-      "published": "2026-11-02T01:46:35+00:00",
-      "summary": "哥倫比亞發現輸入性瘧疾病例 1死1留醫 暫無伊波拉個案&nbsp;&nbsp;Yahoo 財經",
-      "sources": [
-        {
-          "name": "Yahoo 財經",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNMVFWQUc5b2s4b2w5WHpJc3lfR0lLWlpaclRxQ21lWnI0YkRtQnhXeFJ5SXZnaEZveXhnVXpuU0RvbzBtTmtYTXdndGN3Tl9rYXNmYzhiZWhVZEJEeVRmYkY5R3N4WnBpYjdrcm9ja3VGSDZud0hlS0ZmdEo4WUYyUkE4ZXJZMGhMMmJVVjBOd1VRQVFzOVB0cmIxRS1VWHM5eXNjVURmQ0t2REdGSTVWNExCQTZmMDM3NG55aWpoRXpaWEdhRnYyREtXTlptdlg2VVd1QlFmTllwd2dTOWtGMmRaU3daVFhhdUZmSkN6MjllemhRTmRWQUlrUHVMcHNsX3VYdWVjdUFZOERBS1FiTFJ4dWZCanpiYnlMTXNFWmlQX2V5d0EzeE9HcjJIdVJDTWI2TXZybXdTQ0ZjVFhJaTJLVVR1NEhpWmRWZ09KQjBKQ0JGWGRLaWk4SmF2NDF6Y3pXOXFTd1pmdks0c2NpcFY3MlJxa0k?oc=5"
-        }
-      ]
-    },
-    {
       "id": "df94ed17264c",
       "title": "不甩脂肪肝竟養出巨大膽結石醫取出也驚呆：我看過最大顆- 健康 - 中時新聞網",
       "published": "2026-11-03T06:44:59+00:00",
@@ -324,6 +252,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wcGZPS2xCTE1IUzY0cmxtSTJDaGNNemdkeHFzZlFVVG5Sel9GbVNnLWxXN2dTQkcyaEw0NFFVZEM4dHFrRHNKUGRQOC0xSTNKNHJYZ1VuRnBSZlpnd29RNGZHaEMzdlc4aEFwTHd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "086185537c39",
+      "title": "哥倫比亞發現輸入性瘧疾病例 1死1留醫 暫無伊波拉個案 - Yahoo 財經",
+      "published": "2026-11-02T01:46:35+00:00",
+      "summary": "哥倫比亞發現輸入性瘧疾病例 1死1留醫 暫無伊波拉個案&nbsp;&nbsp;Yahoo 財經",
+      "sources": [
+        {
+          "name": "Yahoo 財經",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNMVFWQUc5b2s4b2w5WHpJc3lfR0lLWlpaclRxQ21lWnI0YkRtQnhXeFJ5SXZnaEZveXhnVXpuU0RvbzBtTmtYTXdndGN3Tl9rYXNmYzhiZWhVZEJEeVRmYkY5R3N4WnBpYjdrcm9ja3VGSDZud0hlS0ZmdEo4WUYyUkE4ZXJZMGhMMmJVVjBOd1VRQVFzOVB0cmIxRS1VWHM5eXNjVURmQ0t2REdGSTVWNExCQTZmMDM3NG55aWpoRXpaWEdhRnYyREtXTlptdlg2VVd1QlFmTllwd2dTOWtGMmRaU3daVFhhdUZmSkN6MjllemhRTmRWQUlrUHVMcHNsX3VYdWVjdUFZOERBS1FiTFJ4dWZCanpiYnlMTXNFWmlQX2V5d0EzeE9HcjJIdVJDTWI2TXZybXdTQ0ZjVFhJaTJLVVR1NEhpWmRWZ09KQjBKQ0JGWGRLaWk4SmF2NDF6Y3pXOXFTd1pmdks0c2NpcFY3MlJxa0k?oc=5"
         }
       ]
     },
@@ -340,14 +280,14 @@
       ]
     },
     {
-      "id": "2ef63311ffae",
-      "title": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀 - 星島頭條",
+      "id": "ac66e33dce65",
+      "title": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀 - 加拿大星島日報",
       "published": "2026-11-03T08:01:44+00:00",
-      "summary": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀&nbsp;&nbsp;星島頭條",
+      "summary": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀&nbsp;&nbsp;加拿大星島日報",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQQUxVWk9HWU10QzQya2xRbG0zWldzbG5QOURnS013R1FRTmtiZXhOOXhUNkFpX280NkRnejYxUTVBT0dNNktQa0duRU52anp6azdSOEd0MGVCc2s0enh4enh4clYwdzJ4cjRQOXAxeTRLdFBPdEIyc0g3a3J1dDJrbzg2anZYYWtYWW9YLS12Y1RBc3l2dGFrMkpZU2tQYU1ZVVQ0NEgzb2M0R3o0WVZEVnFjWE04eWVPYkVaUHZROVltbjUwTFhkQkdqeEtsRGl6Q1lMUTUxSDJfRjkyN1dFTjFLTHEta1JMd1FVTUV6b0RWOEJjYlNLckViZGNjeUd1RXJER2NkUVpyVUhXUWhPLURrSFR2TUpQbzF2alR4SW9yVlRzc2RLMlBianBUUDc4UU5sOEFsZGxDMWlocE1iZDdTbGplWkdvTVhVVFBrQmdMcEllbkY5cHNtT0w5VW5QVEJUSnlRQ3F2ZFpaWkYzQVdJMUVtN1U5aFZyS3dCeWxxTzhJM0lKd0xTNWloTzJUXzJNUlhYSQ?oc=5"
+          "name": "加拿大星島日報",
+          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNR0gtdTdBMkoySGNOUVd4RjV1MWJuY05QdEs4ZWRBZEdFbG5sMjFjeTlRWWtRc1JuSGNEWGZWeW5JbU5aQk5Dc1kySUp4cnYtVm9sei1Id0laRFlWc00wVHdqSHlMZ2hFU01KUTcwRGVyUERHb0JSVjNueHlfSE9tX2lTWVE3QlRNM3BfQThxNU55TDJWSm1wOGgzUkhFNjV3dXRkQkFOUnI4NHlzeDBMc1ljRUlDaW1XUVdodF9YS21kOGFMbmtHQlFsa1plVkN4QVJvMUlmbjVFTlNpYndwYlBJdnp0WngtdGxEdzc0bXk4aFdXbG9YVEhDS3JLTnlEc29ER28wcGpCODcycDI5X3FfTEpQbjl3aVMxc3hfLWMyay1GYy1HVFpCSnVSejNhb1NmenhYRVZCd08xZmFTQkI2a3UxdEJESlhhVTBSUzBEYmdsakE?oc=5"
         }
       ]
     },
@@ -408,18 +348,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSlo3UVpKWkVWQjZJWG1kT1pIaTgxZktUdzB5cUJiUmVGODF0MWdmRUFkYW84ZlMwTHFQRzM2Yi1BQTY1ZEFWei1zV3NYUEJUeFBmZXJpQ2RqcjExNzFselBLZjRsNlY3c1dkcll6dENaWHNUQlFSTWpGUExEWkFwNzBUTWlqaGhDMjltbHFJUlhfRzRZSU4wN2E0T3o5MGxQR0ZhMlYzTGtPRXBnUXJGRlEyRF9VOWVhUnR0Wk1BcWpFX1ltRk9oRjc3ekZBTE1sS2hRenNjZWkwb0lxY0U5Z3Q3c0IyMk9pUlJTRlFpTGZRS29zQkxId1ZvSURkYll4Q3I2amE0enRaSDR6LWVROUdWX05qMGNKMkxURmJueDd3aDkyZ0pELU5FdUdfU1l2ZmQ1N2dpR3pLQlRMZTlCS3pQR2ROa3NzQ1lSalV5MmI1X0NUZnRGODB0Znl6dDgwemljcXhpTlpSTlJkQTdoaGIxN1I2QWp2dnV5eEwzUmt5bDZ6TWRkZktXb2J2VXQwVmpJd2N0MTFBdFU4VHVYRjRUTkJ6TjlpUURoeUlzaF9uYTBM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8224e25af8e3",
-      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節 - 香港01",
-      "published": "2026-10-27T15:02:09+00:00",
-      "summary": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5"
         }
       ]
     },
