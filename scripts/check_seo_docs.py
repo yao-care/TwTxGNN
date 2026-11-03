@@ -18,7 +18,7 @@
     6. 藥物頁的許可證字號都屬於該藥（TFDA 快照）、許可證表是程式產生的、張數一致、
        沒有產線開場白與「Evidence Pack」用語；被 superseded 的查核紀錄確認屬於本藥的字號
        （asserted_license_ids）必須都在程式表裡（2026-10-03 補）。
-    7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
+    7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級（主預測重審撤回時＝其他預測表保留的最高等級，沒有就 N/A，2026-11-03 補）；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
        不能用 Liquid 的寫死藥物數／等級分布等於 drug_stats.json（2026-10-04 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
@@ -259,7 +259,7 @@ for md in sorted((DOCS / "_drugs").glob("*.md")):
 _fm_level = {}
 for md in (DOCS / "_drugs").glob("*.md"):
     _head = md.read_text(encoding="utf-8", errors="replace")[:2000]
-    _m = re.search(r"^evidence_level:[ \t]*(L[1-5])", _head, re.M)
+    _m = re.search(r"^evidence_level:[ \t]*(L[1-5]|N/A)", _head, re.M)
     if _m and not re.search(r"^noindex:[ \t]*true", _head, re.M):  # noindex 頁不進衍生檔（2026-10-17）
         _fm_level[md.stem] = _m.group(1)
 _DERIVED = [("_data/drug_stats.json", "all_drugs", "level", "scripts/generate_drug_stats.py"),
@@ -290,9 +290,8 @@ _stats_path = DOCS / "_data" / "drug_stats.json"
 if _stats_path.exists():
     _stats = json.loads(_stats_path.read_text(encoding="utf-8"))
     # 2026-10-28：已知用途頁（evidence_level N/A）也是公開藥物報告，總數要算進去
-    _n_public = len(_fm_level) + sum(1 for md in (DOCS / "_drugs").glob("*.md")
-                                     if re.search(r"^evidence_level:[ \t]*N/A", (_h := md.read_text(encoding="utf-8", errors="replace")[:2000]), re.M)
-                                     and not re.search(r"^noindex:[ \t]*true", _h, re.M))
+    # 2026-11-03：_fm_level 已含 N/A 頁（主預測重審撤回的頁也是 N/A），衍生檔一併比對
+    _n_public = len(_fm_level)
     if _stats.get("total_drugs") != _n_public:
         errors.append(f"drug_stats.json total_drugs={_stats.get('total_drugs')}，藥物頁 {_n_public} 頁（跑 scripts/generate_drug_stats.py）")
     errors.extend(f"寫死的藥物數：{e}（跑 scripts/generate_drug_stats.py）" for e in _count_spots(_stats))

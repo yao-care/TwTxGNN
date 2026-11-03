@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tioconazole
-parent: 僅模型預測 (L5)
+parent: 僅已知用途（無新預測）
 nav_order: 280
-evidence_level: L5
+evidence_level: N/A
 indication_count: 3
 last_modified_at: 2026-11-03
 description: "Tioconazole：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L2）。原適應症：感受性黴菌引起之局部感染"
@@ -14,7 +14,7 @@ predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic v
 # Tioconazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+證據等級: **N/A** | 預測適應症: **3** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -124,6 +124,12 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 
 **決策：Proceed with Guardrails**
 
+<!-- review:begin tioconazole-decision-withdrawn-2026-11-03 -->
+
+> **查核加註（2026-11-03）**：上面的決策與理由是模型報告針對「外陰陰道炎 (Vulvovaginitis)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。依據：[US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937)。
+
+<!-- review:end tioconazole-decision-withdrawn-2026-11-03 -->
+
 **理由：**
 - 有 2 篇 RCT（含與 Clotrimazole 的比較，療效相當）及多篇開放性研究支持 Tioconazole 用於念珠菌性外陰陰道炎，機轉也合理；但無登記的臨床試驗，且文獻多為 1980 年代的研究，證據屬間接且較老舊。
 - 此預測僅適用於念珠菌性病因；排名第 2 的「外陰炎」證據更間接（等級 L3），排名第 3 的「停經後萎縮性陰道炎」主要由雌激素缺乏所致，與抗黴菌機轉無關，僅有模型預測，建議 Hold。
@@ -147,6 +153,8 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | 2026-10-03 | 快速總覽「有效許可證（妥舒乳膏等）」 | 報告重生後已無此錯誤（2026-10-15：新報告未再把已註銷的「妥舒乳膏」列為有效許可證；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937) |
 | 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L5→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L5」→「證據等級／撤回：外陰陰道炎 (Vulvovaginitis)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L5→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 「結論與下一步」的決策（主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回） | 加註 | [US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937) |
 
 <!-- review:end log -->
 

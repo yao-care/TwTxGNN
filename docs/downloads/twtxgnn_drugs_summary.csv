@@ -31,7 +31,7 @@ Bempedoic Acid,L5,9,僅模型預測 (L5),/drugs/bempedoic_acid/
 Benazepril,L5,4,僅模型預測 (L5),/drugs/benazepril/
 Benzylpenicillin,L5,7,僅模型預測 (L5),/drugs/benzylpenicillin/
 Berberine,L5,10,僅模型預測 (L5),/drugs/berberine/
-Betamethasone,L2,8,高證據等級 (L1-L2),/drugs/betamethasone/
+Betamethasone,N/A,8,僅已知用途（無新預測）,/drugs/betamethasone/
 Bevacizumab,L5,10,僅模型預測 (L5),/drugs/bevacizumab/
 Brivaracetam,L5,1,僅模型預測 (L5),/drugs/brivaracetam/
 Brodalumab,L5,10,僅模型預測 (L5),/drugs/brodalumab/
@@ -69,10 +69,10 @@ Dehydrocholic Acid,L5,10,僅模型預測 (L5),/drugs/dehydrocholic_acid/
 Denosumab,L5,2,僅模型預測 (L5),/drugs/denosumab/
 Deoxycholic Acid,L5,3,僅模型預測 (L5),/drugs/deoxycholic_acid/
 Desogestrel,L5,10,僅模型預測 (L5),/drugs/desogestrel/
-Dexamethasone,L2,10,高證據等級 (L1-L2),/drugs/dexamethasone/
+Dexamethasone,N/A,10,僅已知用途（無新預測）,/drugs/dexamethasone/
 Dexketoprofen,L5,10,僅模型預測 (L5),/drugs/dexketoprofen/
 Diosmin,L5,1,僅模型預測 (L5),/drugs/diosmin/
-Dipyridamole,L5,8,僅模型預測 (L5),/drugs/dipyridamole/
+Dipyridamole,N/A,8,僅已知用途（無新預測）,/drugs/dipyridamole/
 Disopyramide,L5,10,僅模型預測 (L5),/drugs/disopyramide/
 Dl-Alpha-Tocopherol,N/A,0,僅已知用途（無新預測）,/drugs/dl-alpha-tocopherol/
 Docetaxel,L3,7,中證據等級 (L3-L4),/drugs/docetaxel/
@@ -94,7 +94,7 @@ Famotidine,L5,4,僅模型預測 (L5),/drugs/famotidine/
 Felodipine,L5,5,僅模型預測 (L5),/drugs/felodipine/
 Fenoprofen,L5,9,僅模型預測 (L5),/drugs/fenoprofen/
 Fenoterol,L5,8,僅模型預測 (L5),/drugs/fenoterol/
-Ferrous Gluconate,L5,5,僅模型預測 (L5),/drugs/ferrous_gluconate/
+Ferrous Gluconate,N/A,5,僅已知用途（無新預測）,/drugs/ferrous_gluconate/
 Fidaxomicin,L5,9,僅模型預測 (L5),/drugs/fidaxomicin/
 Flucloxacillin,L5,10,僅模型預測 (L5),/drugs/flucloxacillin/
 Fludarabine,L3,10,中證據等級 (L3-L4),/drugs/fludarabine/
@@ -119,14 +119,14 @@ Hesperidin,L5,5,僅模型預測 (L5),/drugs/hesperidin/
 Hexachlorophene,L5,10,僅模型預測 (L5),/drugs/hexachlorophene/
 Homatropine Methylbromide,L5,1,僅模型預測 (L5),/drugs/homatropine_methylbromide/
 Human Immunoglobulin G,L5,3,僅模型預測 (L5),/drugs/human_immunoglobulin_g/
-Hyaluronic Acid,L2,10,高證據等級 (L1-L2),/drugs/hyaluronic_acid/
+Hyaluronic Acid,N/A,10,僅已知用途（無新預測）,/drugs/hyaluronic_acid/
 Hydrocortisone,L3,9,中證據等級 (L3-L4),/drugs/hydrocortisone/
 Hydroquinone,L5,4,僅模型預測 (L5),/drugs/hydroquinone/
 Hydroxyprogesterone Caproate,L5,10,僅模型預測 (L5),/drugs/hydroxyprogesterone_caproate/
 Hydroxyurea,L5,9,僅模型預測 (L5),/drugs/hydroxyurea/
 Hymecromone,L5,10,僅模型預測 (L5),/drugs/hymecromone/
 Ibuprofen,L5,7,僅模型預測 (L5),/drugs/ibuprofen/
-Icatibant,L1,7,高證據等級 (L1-L2),/drugs/icatibant/
+Icatibant,N/A,7,僅已知用途（無新預測）,/drugs/icatibant/
 Imatinib,L5,10,僅模型預測 (L5),/drugs/imatinib/
 Inclisiran,L5,9,僅模型預測 (L5),/drugs/inclisiran/
 Indacaterol,L5,10,僅模型預測 (L5),/drugs/indacaterol/
@@ -156,12 +156,12 @@ Lorcaserin,L5,4,僅模型預測 (L5),/drugs/lorcaserin/
 Lornoxicam,L5,8,僅模型預測 (L5),/drugs/lornoxicam/
 Loteprednol Etabonate,L5,9,僅模型預測 (L5),/drugs/loteprednol_etabonate/
 Lutetium Lu 177 Dotatate,L5,10,僅模型預測 (L5),/drugs/lutetium_lu_177_dotatate/
-Magnesium Sulfate,L1,9,高證據等級 (L1-L2),/drugs/magnesium_sulfate/
+Magnesium Sulfate,L2,9,高證據等級 (L1-L2),/drugs/magnesium_sulfate/
 Mannitol,L5,9,僅模型預測 (L5),/drugs/mannitol/
 Maraviroc,L5,10,僅模型預測 (L5),/drugs/maraviroc/
 Methionine,L5,10,僅模型預測 (L5),/drugs/methionine/
 Methocarbamol,L5,10,僅模型預測 (L5),/drugs/methocarbamol/
-Methylprednisolone,L3,9,中證據等級 (L3-L4),/drugs/methylprednisolone/
+Methylprednisolone,N/A,9,僅已知用途（無新預測）,/drugs/methylprednisolone/
 Methylprednisone,L5,7,僅模型預測 (L5),/drugs/methylprednisone/
 Metoprolol,L5,6,僅模型預測 (L5),/drugs/metoprolol/
 Mexiletine,L3,10,中證據等級 (L3-L4),/drugs/mexiletine/
@@ -182,9 +182,9 @@ Nitrofurantoin,L5,10,僅模型預測 (L5),/drugs/nitrofurantoin/
 Nitrous Oxide,L5,1,僅模型預測 (L5),/drugs/nitrous_oxide/
 Nitroxoline,L5,10,僅模型預測 (L5),/drugs/nitroxoline/
 Norethindrone Enanthate,N/A,0,僅已知用途（無新預測）,/drugs/norethindrone_enanthate/
-Nystatin,L3,10,中證據等級 (L3-L4),/drugs/nystatin/
+Nystatin,N/A,10,僅已知用途（無新預測）,/drugs/nystatin/
 Omalizumab,L4,10,中證據等級 (L3-L4),/drugs/omalizumab/
-Oteracil,L2,10,高證據等級 (L1-L2),/drugs/oteracil/
+Oteracil,N/A,10,僅已知用途（無新預測）,/drugs/oteracil/
 Ouabain,L5,10,僅模型預測 (L5),/drugs/ouabain/
 Oxybutynin,L5,3,僅模型預測 (L5),/drugs/oxybutynin/
 Oxytetracycline,L5,10,僅模型預測 (L5),/drugs/oxytetracycline/
@@ -252,7 +252,7 @@ Sulfamethazine,L5,5,僅模型預測 (L5),/drugs/sulfamethazine/
 Tazarotene,L5,3,僅模型預測 (L5),/drugs/tazarotene/
 Temozolomide,L5,1,僅模型預測 (L5),/drugs/temozolomide/
 Tenofovir Alafenamide,L5,3,僅模型預測 (L5),/drugs/tenofovir_alafenamide/
-Terbutaline,L1,3,高證據等級 (L1-L2),/drugs/terbutaline/
+Terbutaline,N/A,3,僅已知用途（無新預測）,/drugs/terbutaline/
 Teriparatide,L5,9,僅模型預測 (L5),/drugs/teriparatide/
 Tetrabenazine,L5,10,僅模型預測 (L5),/drugs/tetrabenazine/
 Tetryzoline,L5,1,僅模型預測 (L5),/drugs/tetryzoline/
@@ -263,7 +263,7 @@ Thyrotropin Alfa,L5,9,僅模型預測 (L5),/drugs/thyrotropin_alfa/
 Tiaprofenic Acid,L5,9,僅模型預測 (L5),/drugs/tiaprofenic_acid/
 Timepidium,L5,1,僅模型預測 (L5),/drugs/timepidium/
 Tinidazole,L5,10,僅模型預測 (L5),/drugs/tinidazole/
-Tioconazole,L5,3,僅模型預測 (L5),/drugs/tioconazole/
+Tioconazole,N/A,3,僅已知用途（無新預測）,/drugs/tioconazole/
 Titanium Dioxide,L5,10,僅模型預測 (L5),/drugs/titanium_dioxide/
 Tizanidine,L2,5,高證據等級 (L1-L2),/drugs/tizanidine/
 Tolmetin,L5,8,僅模型預測 (L5),/drugs/tolmetin/
@@ -277,7 +277,7 @@ Triamcinolone,L4,8,中證據等級 (L3-L4),/drugs/triamcinolone/
 Trifluoperazine,L5,1,僅模型預測 (L5),/drugs/trifluoperazine/
 Trihexyphenidyl,L5,10,僅模型預測 (L5),/drugs/trihexyphenidyl/
 Tyrosine,L5,10,僅模型預測 (L5),/drugs/tyrosine/
-Uracil,L5,10,僅模型預測 (L5),/drugs/uracil/
+Uracil,N/A,10,僅已知用途（無新預測）,/drugs/uracil/
 Urofollitropin,L5,9,僅模型預測 (L5),/drugs/urofollitropin/
 Vasopressin,L5,2,僅模型預測 (L5),/drugs/vasopressin/
 Verteporfin,L5,1,僅模型預測 (L5),/drugs/verteporfin/

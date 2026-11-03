@@ -1,5 +1,5 @@
 {
- "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜upgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級、升級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。header_level（2026-10-04 起）記錄頁首等級依快速總覽重算後的變動：original_level／new_level／original_parent／new_parent，只列在查核紀錄表。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新（升級 2026-10-16 起經用戶核准，只限重審找到符合 methodology 定義、可查證 PMID／NCT 的本藥證據），原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。2026-10-15 起：報告整份重生後原句消失、新報告已無該錯誤的紀錄標 status=resolved_by_regeneration（resolved_on、resolved_note），頁面不顯示框、查核紀錄表註明；錯誤仍在的紀錄重新定錨到新句子，前版存進 history。2026-10-16 起：查核本身判斷有誤或與另一筆重複的紀錄標 status=withdrawn（withdrawn_on、withdrawn_note），許可證表程式改版後已無該錯誤的紀錄標 status=resolved_by_program（resolved_on、resolved_note）；兩者頁面都不顯示框，只在查核紀錄表註明。",
+ "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜upgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級、升級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。header_level（2026-10-04 起）記錄頁首等級依快速總覽重算後的變動：original_level／new_level／original_parent／new_parent，只列在查核紀錄表。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新（升級 2026-10-16 起經用戶核准，只限重審找到符合 methodology 定義、可查證 PMID／NCT 的本藥證據），原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。2026-10-15 起：報告整份重生後原句消失、新報告已無該錯誤的紀錄標 status=resolved_by_regeneration（resolved_on、resolved_note），頁面不顯示框、查核紀錄表註明；錯誤仍在的紀錄重新定錨到新句子，前版存進 history。2026-10-16 起：查核本身判斷有誤或與另一筆重複的紀錄標 status=withdrawn（withdrawn_on、withdrawn_note），許可證表程式改版後已無該錯誤的紀錄標 status=resolved_by_program（resolved_on、resolved_note）；兩者頁面都不顯示框，只在查核紀錄表註明。2026-11-03 起：主預測重審撤回（快速總覽「證據等級」格經 table_updates 換成「撤回…」）的頁，頁首改取本頁其他預測表保留的最高等級，沒有就是 N/A（歸「僅已知用途（無新預測）」），header_level 紀錄帶 trigger=withdraw、based_on；verdict=withdraw 的預測不進證據監測（scripts/extract_drug_list.py 讀 known_use_exclusion[].predicted 或 withdrawn_predictions）。",
  "schema_version": 2,
  "records": [
   {
@@ -12779,7 +12779,10 @@
      "reanchored": true
     }
    ],
-   "anchor": "| 預測新適應症 | 會厭腫瘤 (Epiglottis Neoplasm) |"
+   "anchor": "| 預測新適應症 | 會厭腫瘤 (Epiglottis Neoplasm) |",
+   "withdrawn_predictions": [
+    "epiglottis neoplasm"
+   ]
   },
   {
    "id": "cyclizine-prediction-rereview-result-2026-10-03",
@@ -13526,7 +13529,12 @@
      "reanchored": true
     }
    ],
-   "anchor": "| 預測新適應症 | 禿髮 (Alopecia) |"
+   "anchor": "| 預測新適應症 | 禿髮 (Alopecia) |",
+   "withdrawn_predictions": [
+    "alopecia",
+    "hypotrichosis simplex of the scalp",
+    "congenital hypotrichosis milia"
+   ]
   },
   {
    "id": "diosmin-amenorrhea-rereview-result-2026-10-03",
@@ -13827,7 +13835,10 @@
      "reanchored": true
     }
    ],
-   "anchor": "| 預測新適應症 | 閉經 (Amenorrhea) |"
+   "anchor": "| 預測新適應症 | 閉經 (Amenorrhea) |",
+   "withdrawn_predictions": [
+    "amenorrhea (disease)"
+   ]
   },
   {
    "id": "alirocumab-header-level-2026-10-04",
@@ -22685,6 +22696,50 @@
    "anchor": "| 預測新適應症 | 斑禿 (Alopecia Areata) |"
   },
   {
+   "id": "betamethasone-header-level-withdraw-2026-11-03",
+   "drug": "betamethasone",
+   "file": "betamethasone.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "betamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "original_parent": "高證據等級 (L1-L2)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L2",
+   "basis": "快速總覽「證據等級」列：主預測「斑禿 (Alopecia Areata)」已重審撤回（betamethasone-alopecia-areata-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「斑禿 (Alopecia Areata)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「斑禿 (Alopecia Areata)」已重審撤回（betamethasone-alopecia-areata-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "betamethasone-decision-withdrawn-2026-11-03",
+   "drug": "betamethasone",
+   "file": "betamethasone.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "betamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「斑禿 (Alopecia Areata)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「斑禿 (Alopecia Areata)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad",
+     "excerpt": "intralesional administration of CELESTONE SOLUSPAN Injectable Suspension is indicated for alopecia areata; discoid lupus erythematosus; keloids; localized hypertrophic, infiltrated, inflammatory",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "choline-salicylate-rheumatoid-arthritis-known-use-rereview-2026-11-03",
    "drug": "choline_salicylate",
    "file": "choline_salicylate.md",
@@ -22910,6 +22965,50 @@
    "anchor": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |"
   },
   {
+   "id": "dexamethasone-header-level-withdraw-2026-11-03",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "dexamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "original_parent": "高證據等級 (L1-L2)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L2",
+   "basis": "快速總覽「證據等級」列：主預測「圓形禿 (Alopecia Areata)」已重審撤回（dexamethasone-alopecia-areata-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「圓形禿 (Alopecia Areata)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「圓形禿 (Alopecia Areata)」已重審撤回（dexamethasone-alopecia-areata-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "dexamethasone-decision-withdrawn-2026-11-03",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "dexamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「圓形禿 (Alopecia Areata)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「圓形禿 (Alopecia Areata)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DEXAMETHASONE SODIUM PHOSPHATE INJECTION [HENRY SCHEIN, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9b935d5-1b4f-4a08-8d40-57f397368fef",
+     "excerpt": "hronicus (neurodermatitis) Discoid lupus erythematosus Necrobiosis lipoidica diabeticorum Alopecia areata They also may be useful in cystic tumors of an aponeurosis tendon (ganglia).",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "dipyridamole-thrombotic-known-use-rereview-2026-11-03",
    "drug": "dipyridamole",
    "file": "dipyridamole.md",
@@ -23055,6 +23154,50 @@
    "anchor": "此方向的整體證據明顯強於「血栓性疾病」，可作為後續優先評估對象。"
   },
   {
+   "id": "dipyridamole-header-level-withdraw-2026-11-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "dipyridamole-thrombotic-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "N/A",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：主預測「血栓性疾病 (thrombotic disease)」已重審撤回（dipyridamole-thrombotic-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「血栓性疾病 (thrombotic disease)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「血栓性疾病 (thrombotic disease)」已重審撤回（dipyridamole-thrombotic-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "dipyridamole-decision-withdrawn-2026-11-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "dipyridamole-thrombotic-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「血栓性疾病 (thrombotic disease)」已重審撤回）",
+   "claim": "**決策：Hold**",
+   "note": "上面的決策與理由是模型報告針對「血栓性疾病 (thrombotic disease)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5",
+     "excerpt": "are indicated as an adjunct to coumarin anticoagulants in the prevention of postoperative thromboembolic complications of cardiac valve replacement.",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-2026-11-03",
    "drug": "ferrous_gluconate",
    "file": "ferrous_gluconate.md",
@@ -23133,6 +23276,50 @@
    "anchor": "| 預測新適應症 | Plummer-Vinson 症候群 (Plummer-Vinson syndrome) |"
   },
   {
+   "id": "ferrous_gluconate-header-level-withdraw-2026-11-03",
+   "drug": "ferrous_gluconate",
+   "file": "ferrous_gluconate.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "N/A",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：主預測「Plummer-Vinson 症候群 (Plummer-Vinson syndrome)」已重審撤回（ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「Plummer-Vinson 症候群 (Plummer-Vinson syndrome)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「Plummer-Vinson 症候群 (Plummer-Vinson syndrome)」已重審撤回（ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "ferrous_gluconate-decision-withdrawn-2026-11-03",
+   "drug": "ferrous_gluconate",
+   "file": "ferrous_gluconate.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「Plummer-Vinson 症候群 (Plummer-Vinson syndrome)」已重審撤回）",
+   "claim": "**決策：Hold**",
+   "note": "上面的決策與理由是模型報告針對「Plummer-Vinson 症候群 (Plummer-Vinson syndrome)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "內衛藥製字第002605號｜葡萄糖酸鐵糖衣錠｜主成分 FERROUS GLUCONATE｜單方｜狀態 有效｜適應症：各種鐵缺乏性貧血症",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "hyaluronic-acid-dry-eye-syndrome-known-use-rereview-2026-11-03",
    "drug": "hyaluronic_acid",
    "file": "hyaluronic_acid.md",
@@ -23209,6 +23396,50 @@
     }
    ],
    "anchor": "| 預測新適應症 | 乾眼症 (Dry Eye Syndrome) |"
+  },
+  {
+   "id": "hyaluronic_acid-header-level-withdraw-2026-11-03",
+   "drug": "hyaluronic_acid",
+   "file": "hyaluronic_acid.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "original_parent": "高證據等級 (L1-L2)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L2",
+   "basis": "快速總覽「證據等級」列：主預測「乾眼症 (Dry Eye Syndrome)」已重審撤回（hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「乾眼症 (Dry Eye Syndrome)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「乾眼症 (Dry Eye Syndrome)」已重審撤回（hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "hyaluronic_acid-decision-withdrawn-2026-11-03",
+   "drug": "hyaluronic_acid",
+   "file": "hyaluronic_acid.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「乾眼症 (Dry Eye Syndrome)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「乾眼症 (Dry Eye Syndrome)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ヒアレイン",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059034",
+     "excerpt": "1319720Q5038 28.9円／個 4. 効能または効果 下記疾患に伴う角結膜上皮障害 ○ シェーグレン症候群 、 スティーブンス・ジョンソン症候群 、 眼球乾燥症候群 （ ドライアイ ）等の内因性疾患 ○術後、薬剤性、外傷、コンタクトレンズ装用等による外因性疾患 6. 用法及び用量 1回1滴、1日5〜6回点眼し、症状により適宜増減する。 なお、通常は0.1％製",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-2026-11-03",
@@ -23459,6 +23690,56 @@
    "anchor": "| 預測新適應症 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency) |"
   },
   {
+   "id": "icatibant-header-level-withdraw-2026-11-03",
+   "drug": "icatibant",
+   "file": "icatibant.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L1",
+   "new_level": "N/A",
+   "original_parent": "高證據等級 (L1-L2)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L1",
+   "basis": "快速總覽「證據等級」列：主預測「C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)」已重審撤回（icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)」已重審撤回（icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "icatibant-decision-withdrawn-2026-11-03",
+   "drug": "icatibant",
+   "file": "icatibant.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540",
+     "excerpt": "ATIONS AND USAGE FIRAZYR ® (icatibant) is indicated for the treatment of acute attacks of hereditary angioedema (HAE) in adults 18 years of age and older. FIRAZYR is a bradykinin B2 receptor antagonist",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部罕藥製字第000021號｜益康倍注射劑｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。；衛部罕藥輸字第000066號｜凡得適注射劑30毫克｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-2026-11-03",
    "drug": "magnesium_sulfate",
    "file": "magnesium_sulfate.md",
@@ -23549,6 +23830,56 @@
    "anchor": "| 預測新適應症 | 妊娠毒血症 (toxemia of pregnancy) |"
   },
   {
+   "id": "magnesium_sulfate-header-level-withdraw-2026-11-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L1",
+   "new_level": "L2",
+   "original_parent": "高證據等級 (L1-L2)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L1",
+   "basis": "快速總覽「證據等級」列：主預測「妊娠毒血症 (toxemia of pregnancy)」已重審撤回（magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-result-2026-11-03）；本頁其他預測表保留的最高等級為 L2",
+   "note": "本頁快速總覽的主預測「妊娠毒血症 (toxemia of pregnancy)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級；依站方 2026-11-03 決定，頁首改取本頁其他預測表仍保留的最高等級 L2。模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「妊娠毒血症 (toxemia of pregnancy)」已重審撤回（magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-result-2026-11-03）；本頁其他預測表保留的最高等級為 L2",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "magnesium_sulfate-decision-withdrawn-2026-11-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「妊娠毒血症 (toxemia of pregnancy)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「妊娠毒血症 (toxemia of pregnancy)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc",
+     "excerpt": "gnesium sulfate injection is also indicated for the prevention and control of seizures in pre-eclampsia and eclampsia, respectively.",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第004771號｜硫酸鎂注射液｜主成分 MAGNESIUM SULFATE 7H2O｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充；衛署藥製字第038935號｜〝中國化學〞硫酸鎂注射液１００公絲/公撮｜主成分 MAGNESIUM SULFATE 7H2O｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充；衛部藥製字第062091號｜美我欣注射液100毫克/毫升｜主成分 MAGNESIUM SULFATE HEPTAHYDRATE｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉補助；體內鎂離子缺乏時之補充。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "methylprednisolone-alopecia-areata-known-use-rereview-2026-11-03",
    "drug": "methylprednisolone",
    "file": "methylprednisolone.md",
@@ -23625,6 +23956,50 @@
     }
    ],
    "anchor": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |"
+  },
+  {
+   "id": "methylprednisolone-header-level-withdraw-2026-11-03",
+   "drug": "methylprednisolone",
+   "file": "methylprednisolone.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L3",
+   "new_level": "N/A",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L3",
+   "basis": "快速總覽「證據等級」列：主預測「圓形禿 (Alopecia Areata)」已重審撤回（methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「圓形禿 (Alopecia Areata)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「圓形禿 (Alopecia Areata)」已重審撤回（methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "methylprednisolone-decision-withdrawn-2026-11-03",
+   "drug": "methylprednisolone",
+   "file": "methylprednisolone.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「圓形禿 (Alopecia Areata)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「圓形禿 (Alopecia Areata)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8",
+     "excerpt": "is. C. For Intralesional Administration DEPO-MEDROL is indicated for intralesional use in alopecia areata, discoid lupus erythematosus; keloids, localized hypertrophic, infiltrated inflammatory l",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "mitomycin-pancreatic-intraductal-papillary-mucinou-known-use-rereview-2026-11-03",
@@ -23786,6 +24161,50 @@
     }
    ],
    "anchor": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |"
+  },
+  {
+   "id": "nystatin-header-level-withdraw-2026-11-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L3",
+   "new_level": "N/A",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L3",
+   "basis": "快速總覽「證據等級」列：主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回（nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「外陰陰道炎 (Vulvovaginitis)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回（nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "nystatin-decision-withdrawn-2026-11-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「外陰陰道炎 (Vulvovaginitis)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第014596號｜\"永信\"寧司泰定陰道錠｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌所引起之陰道感染症；衛署藥製字第027557號｜\"生達\" 速淨陰道錠１０萬單位（耐絲菌素）｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症；衛署藥製字第034585號｜\"衛達\"妳達新陰道栓劑｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌感染引起之陰道炎。；衛署藥製字第057924號｜婦可安陰道錠10萬單位(耐絲菌素)｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症。",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "omalizumab-obstructive-lung-disease-known-use-rereview-2026-11-03",
@@ -23955,6 +24374,56 @@
     }
    ],
    "anchor": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |"
+  },
+  {
+   "id": "oteracil-header-level-withdraw-2026-11-03",
+   "drug": "oteracil",
+   "file": "oteracil.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "original_parent": "高證據等級 (L1-L2)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L2",
+   "basis": "快速總覽「證據等級」列：主預測「大腸腫瘤 (Colonic Neoplasm)」已重審撤回（oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「大腸腫瘤 (Colonic Neoplasm)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「大腸腫瘤 (Colonic Neoplasm)」已重審撤回（oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "oteracil-decision-withdrawn-2026-11-03",
+   "drug": "oteracil",
+   "file": "oteracil.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「大腸腫瘤 (Colonic Neoplasm)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「大腸腫瘤 (Colonic Neoplasm)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ティーエスワン",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730",
+     "excerpt": "2.6 フルシトシンを投与中の患者［ 1.4 、 10.1 、 16.7 参照］ 2.7 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 胃癌 、 結腸・直腸癌 、 頭頸部癌 、 非小細胞肺癌 、手術不能又は再発 乳癌 、 膵癌 、胆道癌、ホルモン受容体陽性かつHER2陰性で再発高リスクの 乳癌 における術後薬物療法 5. 効能または効果",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第025242號｜愛斯萬膠囊25毫克｜主成分 TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM、GIMERACIL｜複方｜狀態 有效｜適應症：1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期胃癌。 2. 胰臟癌：適用於治療局部晚期或轉移性胰臟癌病人。 3. 大腸直腸癌：與Irinotecan合併使用於已使用含有Oxaliplatin化學療法失敗之轉移性大腸直腸癌病人。 4. 晚期非小細胞肺癌：適用於對含鉑之（台灣核准範圍為胃癌、胰臟癌，未含大腸直腸癌）",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "prednisone-tenosynovitis-known-use-rereview-2026-11-03",
@@ -24193,6 +24662,56 @@
    "anchor": "| 預測新適應症 | 阻塞性肺病 (Obstructive Lung Disease) |"
   },
   {
+   "id": "terbutaline-header-level-withdraw-2026-11-03",
+   "drug": "terbutaline",
+   "file": "terbutaline.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L1",
+   "new_level": "N/A",
+   "original_parent": "高證據等級 (L1-L2)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L1",
+   "basis": "快速總覽「證據等級」列：主預測「阻塞性肺病 (Obstructive Lung Disease)」已重審撤回（terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「阻塞性肺病 (Obstructive Lung Disease)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「阻塞性肺病 (Obstructive Lung Disease)」已重審撤回（terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "terbutaline-decision-withdrawn-2026-11-03",
+   "drug": "terbutaline",
+   "file": "terbutaline.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「阻塞性肺病 (Obstructive Lung Disease)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「阻塞性肺病 (Obstructive Lung Disease)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726",
+     "excerpt": "INDICATIONS AND USAGE Terbutaline sulfate is indicated for the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第020022號｜喘力定錠（特必林）｜主成分 TERBUTALINE SULFATE｜單方｜狀態 有效｜適應症：下列疾患的氣道閉塞性障礙所伴隨呼吸困難諸症狀的緩解、支氣管氣喘、慢性支氣管炎、氣喘性支氣管炎、肺氣腫",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "tioconazole-vulvovaginitis-known-use-rereview-2026-11-03",
    "drug": "tioconazole",
    "file": "tioconazole.md",
@@ -24269,6 +24788,50 @@
     }
    ],
    "anchor": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |"
+  },
+  {
+   "id": "tioconazole-header-level-withdraw-2026-11-03",
+   "drug": "tioconazole",
+   "file": "tioconazole.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "tioconazole-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "N/A",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回（tioconazole-vulvovaginitis-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「外陰陰道炎 (Vulvovaginitis)」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回（tioconazole-vulvovaginitis-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "tioconazole-decision-withdrawn-2026-11-03",
+   "drug": "tioconazole",
+   "file": "tioconazole.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "tioconazole-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回）",
+   "claim": "**決策：Proceed with Guardrails**",
+   "note": "上面的決策與理由是模型報告針對「外陰陰道炎 (Vulvovaginitis)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937",
+     "excerpt": "Uses treats vaginal yeast infections",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "uracil-colonic-neoplasm-known-use-rereview-2026-11-03",
@@ -24375,6 +24938,56 @@
     }
    ],
    "anchor": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |"
+  },
+  {
+   "id": "uracil-header-level-withdraw-2026-11-03",
+   "drug": "uracil",
+   "file": "uracil.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "trigger": "withdraw",
+   "based_on": "uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "N/A",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "僅已知用途（無新預測）",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列：主預測「大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）」已重審撤回（uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+   "note": "本頁快速總覽的主預測「大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）」於 2026-11-03 重審撤回（已核准用途，不是新適應症），總覽「證據等級」列已無有效等級，本頁也沒有其他保留中的預測等級，依站方 2026-11-03 決定頁首等級改為 N/A，歸入「僅已知用途（無新預測）」，不再列在證據等級清單。模型預測原文與本頁其餘預測清單保留不改寫。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "快速總覽「證據等級」列：主預測「大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）」已重審撤回（uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03），本頁其他預測表沒有保留中的證據等級",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "uracil-decision-withdrawn-2026-11-03",
+   "drug": "uracil",
+   "file": "uracil.md",
+   "checked": "2026-11-03",
+   "action": "annotate",
+   "based_on": "uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "summary": "「結論與下一步」的決策（主預測「大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）」已重審撤回）",
+   "claim": "**決策：Hold**",
+   "note": "上面的決策與理由是模型報告針對「大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368",
+     "excerpt": "6 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 ＜テガフール・ウラシル通常療法＞ 次の疾患の自覚的並びに他覚的症状の寛解 頭頸部癌 、 胃癌 、 結腸・直腸癌 、 肝臓癌 、 胆のう・胆管癌 、 膵臓癌 、 肺癌 、 乳癌 、 膀胱癌 、 前立腺癌 、 子宮頸癌 ＜ホリナート・テガフール・ウラシル療法＞ 結腸・直腸癌 5. 効能または効",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第043698號｜友復　膠囊｜主成分 TEGAFUR (FTORAFUR)、URACIL｜複方｜狀態 有效｜適應症：胃癌、大腸(結腸直腸)癌、乳癌、與Cisplatin併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。；衛署藥製字第049563號｜〝美時〞復癒 膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、大腸（結腸直腸）癌、乳癌、頭頸部鱗狀上皮癌、與cisplatin 併用治療轉移及末期肺癌、用於病理分期T2 之第一期B 肺腺癌病人手術後輔助治療。；衛署藥輸字第023484號｜優富多膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、結腸癌、大腸癌、乳癌、與CISPLATIN併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。",
+     "accessed": "2026-11-03"
+    }
+   ]
   }
  ]
 }

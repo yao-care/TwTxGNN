@@ -306,17 +306,22 @@ def _sync_levels_from_pages():
     drugs_dir = _Path("docs/_drugs")
     if not idx_path.exists():
         return
-    idx = _json.loads(idx_path.read_text(encoding="utf-8"))
+    raw = idx_path.read_text(encoding="utf-8")
+    idx = _json.loads(raw)
+    compact = "\n" not in raw.strip()  # 已被壓成一行的索引維持一行，避免整檔改格式
     changed = 0
     for d in idx.get("drugs", []):
         page = drugs_dir / f"{d.get('slug')}.md"
         if not page.exists():
             continue
-        m = _re.search(r"^evidence_level:[ \t]*(L[1-5])", page.read_text(encoding="utf-8")[:2000], _re.M)
+        # 2026-11-03：主預測重審撤回的頁頁首是 N/A（page_format.target_level），也要同步
+        m = _re.search(r"^evidence_level:[ \t]*(L[1-5]|N/A)", page.read_text(encoding="utf-8")[:2000], _re.M)
         if m and d.get("level") != m.group(1):
             d["level"] = m.group(1)
             changed += 1
-    idx_path.write_text(_json.dumps(idx, ensure_ascii=False, indent=2), encoding="utf-8")
+    out = (_json.dumps(idx, ensure_ascii=False, separators=(",", ":")) if compact
+           else _json.dumps(idx, ensure_ascii=False, indent=2))
+    idx_path.write_text(out, encoding="utf-8")
     print(f"  Synced drug levels from pages: {changed} changed")
 
 

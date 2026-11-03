@@ -1,4 +1,5 @@
 """scripts/apply_drug_reviews.py：重審結果（rereview_result）、同 id 重發的 history、頁首等級同步。"""
+import json
 import sys
 from pathlib import Path
 
@@ -153,3 +154,73 @@ def test_pipeline_parsers_read_annotated_cells():
     txt = "| 證據等級 | **L2** (偏頭痛)、**L3** (類風濕) |\n"
     assert sync_notes_to_docs.extract_evidence_level(txt) == "L2"
     assert build_docs.get_evidence_level(txt) == "L2"
+
+
+# ---- 主預測重審撤回 → 頁首 N/A（2026-11-03 用戶決定）----
+WITHDRAW_CELL = "| 證據等級 | 撤回：甲病是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+OTHER_TABLE = """
+## 附註：其他預測適應症
+
+| 預測適應症 | TxGNN 分數 | 證據等級 | 說明 | 決策 |
+|-----------|-----------|---------|------|------|
+| 乙病 | 0.99 | L4 | 動物研究 | Research Question |
+| 丙病 | 0.98 | 撤回（已核准用途，不列新適應症等級） | 已核准 | 撤回 |
+| 丁病 | 0.97 | L5 | 僅模型預測 | Hold |
+"""
+
+
+def withdraw_recs():
+    rs = recs(verdict="withdraw", new="撤回（已核准用途，不列新適應症等級）", updates=False)
+    rs[2]["table_updates"] = [{"label": "快速總覽「證據等級」", "claim": "| 證據等級 | L3 (觀察性研究) |",
+                               "replacement": WITHDRAW_CELL}]
+    return rs
+
+
+def test_withdrawn_main_prediction_header_na():
+    out, problems = render(withdraw_recs())
+    assert problems == []
+    assert F.overview_withdrawn(out) and F.target_level(out) == "N/A"
+    assert "evidence_level: N/A" in out and "證據等級: **N/A**" in out
+    assert "parent: 僅已知用途（無新預測）" in out
+    assert F.header_problems(out) == []
+    assert F.sync_header_level(out) == out
+
+
+def test_withdrawn_main_prediction_keeps_other_table_level():
+    page = PAGE.replace("## 免責聲明", OTHER_TABLE.strip() + "\n\n## 免責聲明")
+    out, problems = render(withdraw_recs(), page)
+    assert problems == []
+    assert F.other_prediction_levels(out) == ["L4", "L5"]  # 撤回的丙病列不算
+    assert "evidence_level: L4" in out and "parent: 中證據等級 (L3-L4)" in out and "證據等級: **L4**" in out
+    assert F.header_problems(out) == []
+
+
+def test_non_withdrawn_cell_without_level_leaves_header():
+    page = PAGE.replace("| 證據等級 | L3 (觀察性研究) |", "| 證據等級 | 待評估 |")
+    assert F.target_level(page) is None and F.sync_header_level(page) == page and F.header_problems(page) == []
+
+
+def test_gate_flags_stale_header_after_withdraw():
+    page = PAGE.replace("| 證據等級 | L3 (觀察性研究) |", WITHDRAW_CELL)
+    assert any("N/A" in e for e in F.header_problems(page))
+
+
+def test_header_level_withdraw_log_text():
+    rec = {"id": "demo-h", "file": "demo.md", "checked": "2026-11-03", "action": "header_level", "trigger": "withdraw",
+           "summary": "頁首證據等級", "original_level": "L3", "new_level": "N/A", "sources": SRC}
+    out = A.log_md(withdraw_recs() + [rec])
+    assert "主預測重審撤回，頁首等級重算（原 L3→N/A），改列「僅已知用途（無新預測）」" in out
+
+
+def test_extract_drug_list_skips_withdrawn(tmp_path):
+    import extract_drug_list as X
+    f = tmp_path / "r.json"
+    f.write_text(json.dumps({"records": [
+        {"action": "rereview_result", "verdict": "withdraw", "file": "a.md",
+         "known_use_exclusion": [{"predicted": "Obstructive Lung Disease"}]},
+        {"action": "rereview_result", "verdict": "withdraw", "file": "b.md", "withdrawn_predictions": ["alopecia"]},
+        {"action": "rereview_result", "verdict": "withdraw", "file": "c.md", "status": "withdrawn",
+         "withdrawn_predictions": ["x"]},
+        {"action": "rereview_result", "verdict": "downgrade", "file": "d.md", "withdrawn_predictions": ["y"]},
+    ]}), encoding="utf-8")
+    assert X.withdrawn_predictions(f) == {"a.md": {"obstructive lung disease"}, "b.md": {"alopecia"}}

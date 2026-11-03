@@ -2,11 +2,11 @@
   "total_drugs": 291,
   "total_indications": 1995,
   "level_counts": {
-    "L1": 5,
-    "L2": 15,
-    "L3": 12,
+    "L1": 2,
+    "L2": 12,
+    "L3": 10,
     "L4": 17,
-    "L5": 237
+    "L5": 233
   },
   "top_by_indications": [
     {
@@ -414,7 +414,7 @@
     {
       "name": "Dexamethasone",
       "slug": "dexamethasone",
-      "level": "L2",
+      "level": "N/A",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 0
@@ -518,7 +518,7 @@
     {
       "name": "Hyaluronic Acid",
       "slug": "hyaluronic_acid",
-      "level": "L2",
+      "level": "N/A",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 10
@@ -710,7 +710,7 @@
     {
       "name": "Nystatin",
       "slug": "nystatin",
-      "level": "L3",
+      "level": "N/A",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 0
@@ -726,7 +726,7 @@
     {
       "name": "Oteracil",
       "slug": "oteracil",
-      "level": "L2",
+      "level": "N/A",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 6
@@ -950,7 +950,7 @@
     {
       "name": "Uracil",
       "slug": "uracil",
-      "level": "L5",
+      "level": "N/A",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 1
@@ -1206,7 +1206,7 @@
     {
       "name": "Magnesium Sulfate",
       "slug": "magnesium_sulfate",
-      "level": "L1",
+      "level": "L2",
       "indication_count": 9,
       "prediction_score": 0,
       "nct_count": 10
@@ -1222,7 +1222,7 @@
     {
       "name": "Methylprednisolone",
       "slug": "methylprednisolone",
-      "level": "L3",
+      "level": "N/A",
       "indication_count": 9,
       "prediction_score": 0,
       "nct_count": 1
@@ -1358,7 +1358,7 @@
     {
       "name": "Betamethasone",
       "slug": "betamethasone",
-      "level": "L2",
+      "level": "N/A",
       "indication_count": 8,
       "prediction_score": 0,
       "nct_count": 6
@@ -1382,7 +1382,7 @@
     {
       "name": "Dipyridamole",
       "slug": "dipyridamole",
-      "level": "L5",
+      "level": "N/A",
       "indication_count": 8,
       "prediction_score": 0,
       "nct_count": 2
@@ -1574,7 +1574,7 @@
     {
       "name": "Icatibant",
       "slug": "icatibant",
-      "level": "L1",
+      "level": "N/A",
       "indication_count": 7,
       "prediction_score": 0,
       "nct_count": 10
@@ -1750,7 +1750,7 @@
     {
       "name": "Ferrous Gluconate",
       "slug": "ferrous_gluconate",
-      "level": "L5",
+      "level": "N/A",
       "indication_count": 5,
       "prediction_score": 0,
       "nct_count": 0
@@ -2086,7 +2086,7 @@
     {
       "name": "Terbutaline",
       "slug": "terbutaline",
-      "level": "L1",
+      "level": "N/A",
       "indication_count": 3,
       "prediction_score": 0,
       "nct_count": 11
@@ -2102,7 +2102,7 @@
     {
       "name": "Tioconazole",
       "slug": "tioconazole",
-      "level": "L5",
+      "level": "N/A",
       "indication_count": 3,
       "prediction_score": 0,
       "nct_count": 0

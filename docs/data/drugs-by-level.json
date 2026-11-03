@@ -3,7 +3,7 @@
   "source": "TwTxGNN - https://twtxgnn.yao.care/",
   "summary": {
     "L1": {
-      "count": 5,
+      "count": 2,
       "drugs": [
         {
           "name": "Clomipramine",
@@ -16,46 +16,16 @@
           "slug": "doxorubicin",
           "decision": "Proceed with Guardrails",
           "indication_count": 8
-        },
-        {
-          "name": "Icatibant",
-          "slug": "icatibant",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 7
-        },
-        {
-          "name": "Magnesium Sulfate",
-          "slug": "magnesium_sulfate",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 9
-        },
-        {
-          "name": "Terbutaline",
-          "slug": "terbutaline",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 3
         }
       ]
     },
     "L2": {
-      "count": 15,
+      "count": 12,
       "drugs": [
-        {
-          "name": "Betamethasone",
-          "slug": "betamethasone",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 8
-        },
         {
           "name": "Busulfan",
           "slug": "busulfan",
           "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Dexamethasone",
-          "slug": "dexamethasone",
-          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {
@@ -65,10 +35,10 @@
           "indication_count": 8
         },
         {
-          "name": "Hyaluronic Acid",
-          "slug": "hyaluronic_acid",
+          "name": "Magnesium Sulfate",
+          "slug": "magnesium_sulfate",
           "decision": "撤回（已核准用途）",
-          "indication_count": 10
+          "indication_count": 9
         },
         {
           "name": "Mycophenolate Mofetil",
@@ -80,12 +50,6 @@
           "name": "Nepafenac",
           "slug": "nepafenac",
           "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Oteracil",
-          "slug": "oteracil",
-          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {
@@ -133,7 +97,7 @@
       ]
     },
     "L3": {
-      "count": 12,
+      "count": 10,
       "drugs": [
         {
           "name": "Conjugated Estrogens",
@@ -178,12 +142,6 @@
           "indication_count": 5
         },
         {
-          "name": "Methylprednisolone",
-          "slug": "methylprednisolone",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 9
-        },
-        {
           "name": "Mexiletine",
           "slug": "mexiletine",
           "decision": "Hold（頭痛疾患方向可列為 Research Question）",
@@ -194,12 +152,6 @@
           "slug": "moclobemide",
           "decision": "Hold",
           "indication_count": 2
-        },
-        {
-          "name": "Nystatin",
-          "slug": "nystatin",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 10
         },
         {
           "name": "Xylometazoline",
@@ -317,7 +269,7 @@
       ]
     },
     "L5": {
-      "count": 237,
+      "count": 233,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -686,12 +638,6 @@
           "indication_count": 1
         },
         {
-          "name": "Dipyridamole",
-          "slug": "dipyridamole",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 8
-        },
-        {
           "name": "Disopyramide",
           "slug": "disopyramide",
           "decision": "Hold",
@@ -768,12 +714,6 @@
           "slug": "fenoterol",
           "decision": "Hold",
           "indication_count": 8
-        },
-        {
-          "name": "Ferrous Gluconate",
-          "slug": "ferrous_gluconate",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 5
         },
         {
           "name": "Fidaxomicin",
@@ -1598,12 +1538,6 @@
           "indication_count": 10
         },
         {
-          "name": "Tioconazole",
-          "slug": "tioconazole",
-          "decision": "撤回（已核准用途）",
-          "indication_count": 3
-        },
-        {
           "name": "Titanium Dioxide",
           "slug": "titanium_dioxide",
           "decision": "Hold",
@@ -1667,12 +1601,6 @@
           "name": "Tyrosine",
           "slug": "tyrosine",
           "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Uracil",
-          "slug": "uracil",
-          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {
@@ -1744,13 +1672,31 @@
       ]
     },
     "N/A": {
-      "count": 5,
+      "count": 17,
       "drugs": [
         {
           "name": "Aluminum Hydroxide",
           "slug": "aluminum_hydroxide",
           "decision": "",
           "indication_count": 0
+        },
+        {
+          "name": "Betamethasone",
+          "slug": "betamethasone",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 8
+        },
+        {
+          "name": "Dexamethasone",
+          "slug": "dexamethasone",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 10
+        },
+        {
+          "name": "Dipyridamole",
+          "slug": "dipyridamole",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 8
         },
         {
           "name": "Dl-Alpha-Tocopherol",
@@ -1765,16 +1711,70 @@
           "indication_count": 0
         },
         {
+          "name": "Ferrous Gluconate",
+          "slug": "ferrous_gluconate",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 5
+        },
+        {
+          "name": "Hyaluronic Acid",
+          "slug": "hyaluronic_acid",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 10
+        },
+        {
+          "name": "Icatibant",
+          "slug": "icatibant",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 7
+        },
+        {
+          "name": "Methylprednisolone",
+          "slug": "methylprednisolone",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 9
+        },
+        {
           "name": "Norethindrone Enanthate",
           "slug": "norethindrone_enanthate",
           "decision": "",
           "indication_count": 0
         },
         {
+          "name": "Nystatin",
+          "slug": "nystatin",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 10
+        },
+        {
+          "name": "Oteracil",
+          "slug": "oteracil",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 10
+        },
+        {
           "name": "Silicon Dioxide",
           "slug": "silicon_dioxide",
           "decision": "",
           "indication_count": 0
+        },
+        {
+          "name": "Terbutaline",
+          "slug": "terbutaline",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 3
+        },
+        {
+          "name": "Tioconazole",
+          "slug": "tioconazole",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 3
+        },
+        {
+          "name": "Uracil",
+          "slug": "uracil",
+          "decision": "撤回（已核准用途）",
+          "indication_count": 10
         }
       ]
     }

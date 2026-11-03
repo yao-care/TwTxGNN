@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nystatin
-parent: 中證據等級 (L3-L4)
+parent: 僅已知用途（無新預測）
 nav_order: 198
-evidence_level: L3
+evidence_level: N/A
 indication_count: 10
 last_modified_at: 2026-11-03
 description: "Nystatin：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L3）。原適應症：抗生素"
@@ -14,7 +14,7 @@ predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease 
 # Nystatin
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **10** 個
+證據等級: **N/A** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -183,6 +183,12 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 
 **決策：Proceed with Guardrails**
 
+<!-- review:begin nystatin-decision-withdrawn-2026-11-03 -->
+
+> **查核加註（2026-11-03）**：上面的決策與理由是模型報告針對「外陰陰道炎 (Vulvovaginitis)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end nystatin-decision-withdrawn-2026-11-03 -->
+
 **理由：**
 Nystatin 對念珠菌性外陰陰道炎的機轉直接相關，且台灣已有陰道劑型核准此類適應症。但現有證據以綜述和較舊的研究為主，沒有臨床試驗登記，且 Nystatin 在現行指引中已非首選（唑類藥物取代），因此證據等級為 L3。
 
@@ -207,6 +213,8 @@ Nystatin 對念珠菌性外陰陰道炎的機轉直接相關，且台灣已有�
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
 | 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L3」→「證據等級／撤回：外陰陰道炎 (Vulvovaginitis)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L3→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 「結論與下一步」的決策（主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回） | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

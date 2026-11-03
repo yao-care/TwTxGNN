@@ -58,7 +58,7 @@ permalink: /tw-availability/
 | [Benazepril](/drugs/benazepril/) | 上市中（有效許可證 5 張／共 8 張） |  | L5 |
 | [Benzylpenicillin](/drugs/benzylpenicillin/) | 上市中（有效許可證 3 張／共 180 張） |  | L5 |
 | [Berberine](/drugs/berberine/) | 上市中（有效許可證 36 張／共 206 張） |  | L5 |
-| [Betamethasone](/drugs/betamethasone/) | 上市中（有效許可證 276 張／共 605 張） |  | L2 |
+| [Betamethasone](/drugs/betamethasone/) | 上市中（有效許可證 276 張／共 605 張） |  | N/A |
 | [Bevacizumab](/drugs/bevacizumab/) | 上市中（有效許可證 5 張／共 8 張） |  | L5 |
 | [Brivaracetam](/drugs/brivaracetam/) | 上市中（有效許可證 8 張／共 8 張） |  | L5 |
 | [Brodalumab](/drugs/brodalumab/) | 上市中（有效許可證 1 張／共 1 張） |  | L5 |
@@ -98,10 +98,10 @@ permalink: /tw-availability/
 | [Denosumab](/drugs/denosumab/) | 上市中（有效許可證 11 張／共 11 張） |  | L5 |
 | [Deoxycholic Acid](/drugs/deoxycholic-acid/) | 上市中（有效許可證 4 張／共 6 張） |  | L5 |
 | [Desogestrel](/drugs/desogestrel/) | 上市中（有效許可證 5 張／共 9 張） |  | L5 |
-| [Dexamethasone](/drugs/dexamethasone/) | 上市中（有效許可證 175 張／共 566 張） |  | L2 |
+| [Dexamethasone](/drugs/dexamethasone/) | 上市中（有效許可證 175 張／共 566 張） |  | N/A |
 | [Dexketoprofen](/drugs/dexketoprofen/) | 上市中（有效許可證 2 張／共 2 張） |  | L5 |
 | [Diosmin](/drugs/diosmin/) | 上市中（有效許可證 8 張／共 10 張） |  | L5 |
-| [Dipyridamole](/drugs/dipyridamole/) | 上市中（有效許可證 52 張／共 166 張） |  | L5 |
+| [Dipyridamole](/drugs/dipyridamole/) | 上市中（有效許可證 52 張／共 166 張） |  | N/A |
 | [Disopyramide](/drugs/disopyramide/) | 上市中（有效許可證 2 張／共 28 張） |  | L5 |
 | [Dl-Alpha-Tocopherol](/drugs/dl-alpha-tocopherol/) | 見報告 |  | N/A |
 | [Docetaxel](/drugs/docetaxel/) | 上市中（有效許可證 18 張／共 26 張） |  | L3 |
@@ -123,7 +123,7 @@ permalink: /tw-availability/
 | [Felodipine](/drugs/felodipine/) | 上市中（有效許可證 15 張／共 26 張） |  | L5 |
 | [Fenoprofen](/drugs/fenoprofen/) | 上市中（有效許可證 2 張／共 10 張） |  | L5 |
 | [Fenoterol](/drugs/fenoterol/) | 上市中（有效許可證 32 張／共 66 張） |  | L5 |
-| [Ferrous Gluconate](/drugs/ferrous-gluconate/) | 上市中（有效許可證 4 張／共 25 張） |  | L5 |
+| [Ferrous Gluconate](/drugs/ferrous-gluconate/) | 上市中（有效許可證 4 張／共 25 張） |  | N/A |
 | [Fidaxomicin](/drugs/fidaxomicin/) | 上市中（有效許可證 1 張／共 1 張） |  | L5 |
 | [Flucloxacillin](/drugs/flucloxacillin/) | 上市中（有效許可證 1 張／共 24 張） |  | L5 |
 | [Fludarabine](/drugs/fludarabine/) | 上市中（有效許可證 1 張／共 3 張） |  | L3 |
@@ -149,14 +149,14 @@ permalink: /tw-availability/
 | [Hexachlorophene](/drugs/hexachlorophene/) | 上市中（有效許可證 17 張／共 86 張） |  | L5 |
 | [Homatropine Methylbromide](/drugs/homatropine-methylbromide/) | 上市中（有效許可證 31 張／共 104 張） |  | L5 |
 | [Human Immunoglobulin G](/drugs/human-immunoglobulin-g/) | 上市中（有效許可證 7 張／共 33 張） |  | L5 |
-| [Hyaluronic Acid](/drugs/hyaluronic-acid/) | 上市中（有效許可證 1 張／共 11 張） |  | L2 |
+| [Hyaluronic Acid](/drugs/hyaluronic-acid/) | 上市中（有效許可證 1 張／共 11 張） |  | N/A |
 | [Hydrocortisone](/drugs/hydrocortisone/) | 上市中（有效許可證 140 張／共 442 張） |  | L3 |
 | [Hydroquinone](/drugs/hydroquinone/) | 上市中（有效許可證 71 張／共 103 張） |  | L5 |
 | [Hydroxyprogesterone Caproate](/drugs/hydroxyprogesterone-caproate/) | 上市中（有效許可證 3 張／共 23 張） |  | L5 |
 | [Hydroxyurea](/drugs/hydroxyurea/) | 上市中（有效許可證 2 張／共 5 張） |  | L5 |
 | [Hymecromone](/drugs/hymecromone/) | 上市中（有效許可證 2 張／共 14 張） |  | L5 |
 | [Ibuprofen](/drugs/ibuprofen/) | 上市中（有效許可證 188 張／共 421 張） |  | L5 |
-| [Icatibant](/drugs/icatibant/) | 上市中（有效許可證 2 張／共 2 張） |  | L1 |
+| [Icatibant](/drugs/icatibant/) | 上市中（有效許可證 2 張／共 2 張） |  | N/A |
 | [Imatinib](/drugs/imatinib/) | 上市中（有效許可證 17 張／共 28 張） |  | L5 |
 | [Inclisiran](/drugs/inclisiran/) | 上市中（有效許可證 1 張／共 1 張） |  | L5 |
 | [Indacaterol](/drugs/indacaterol/) | 上市中（有效許可證 4 張／共 7 張） |  | L5 |
@@ -186,12 +186,12 @@ permalink: /tw-availability/
 | [Lornoxicam](/drugs/lornoxicam/) | 上市中（有效許可證 2 張／共 5 張） |  | L5 |
 | [Loteprednol Etabonate](/drugs/loteprednol-etabonate/) | 上市中（有效許可證 2 張／共 2 張） |  | L5 |
 | [Lutetium Lu 177 Dotatate](/drugs/lutetium-lu-177-dotatate/) | 上市中（有效許可證 1 張／共 1 張） |  | L5 |
-| [Magnesium Sulfate](/drugs/magnesium-sulfate/) | 上市中（有效許可證 19 張／共 117 張） |  | L1 |
+| [Magnesium Sulfate](/drugs/magnesium-sulfate/) | 上市中（有效許可證 19 張／共 117 張） |  | L2 |
 | [Mannitol](/drugs/mannitol/) | 上市中（有效許可證 8 張／共 83 張） |  | L5 |
 | [Maraviroc](/drugs/maraviroc/) | 上市中（有效許可證 2 張／共 2 張） |  | L5 |
 | [Methionine](/drugs/methionine/) | 上市中（有效許可證 144 張／共 693 張） |  | L5 |
 | [Methocarbamol](/drugs/methocarbamol/) | 上市中（有效許可證 6 張／共 39 張） |  | L5 |
-| [Methylprednisolone](/drugs/methylprednisolone/) | 上市中（有效許可證 35 張／共 86 張） |  | L3 |
+| [Methylprednisolone](/drugs/methylprednisolone/) | 上市中（有效許可證 35 張／共 86 張） |  | N/A |
 | [Methylprednisone](/drugs/methylprednisone/) | 上市中（有效許可證 3 張／共 11 張） |  | L5 |
 | [Metoprolol](/drugs/metoprolol/) | 上市中（有效許可證 8 張／共 46 張） |  | L5 |
 | [Mexiletine](/drugs/mexiletine/) | 上市中（有效許可證 5 張／共 11 張） |  | L3 |
@@ -212,9 +212,9 @@ permalink: /tw-availability/
 | [Nitrous Oxide](/drugs/nitrous-oxide/) | 上市中（有效許可證 2 張／共 8 張） |  | L5 |
 | [Nitroxoline](/drugs/nitroxoline/) | 上市中（有效許可證 7 張／共 22 張） |  | L5 |
 | [Norethindrone Enanthate](/drugs/norethindrone-enanthate/) | 未上市（已註銷許可證 1 張／共 1 張） |  | N/A |
-| [Nystatin](/drugs/nystatin/) | 上市中（有效許可證 39 張／共 126 張） |  | L3 |
+| [Nystatin](/drugs/nystatin/) | 上市中（有效許可證 39 張／共 126 張） |  | N/A |
 | [Omalizumab](/drugs/omalizumab/) | 上市中（有效許可證 3 張／共 3 張） |  | L4 |
-| [Oteracil](/drugs/oteracil/) | 上市中（有效許可證 6 張／共 6 張） |  | L2 |
+| [Oteracil](/drugs/oteracil/) | 上市中（有效許可證 6 張／共 6 張） |  | N/A |
 | [Ouabain](/drugs/ouabain/) | 上市中（有效許可證 1 張／共 4 張） |  | L5 |
 | [Oxybutynin](/drugs/oxybutynin/) | 上市中（有效許可證 22 張／共 36 張） |  | L5 |
 | [Oxytetracycline](/drugs/oxytetracycline/) | 上市中（有效許可證 3 張／共 132 張） |  | L5 |
@@ -283,7 +283,7 @@ permalink: /tw-availability/
 | [Tazarotene](/drugs/tazarotene/) | 上市中（有效許可證 10 張／共 18 張） |  | L5 |
 | [Temozolomide](/drugs/temozolomide/) | 上市中（有效許可證 11 張／共 21 張） |  | L5 |
 | [Tenofovir Alafenamide](/drugs/tenofovir-alafenamide/) | 上市中（有效許可證 8 張／共 8 張） |  | L5 |
-| [Terbutaline](/drugs/terbutaline/) | 上市中（有效許可證 17 張／共 52 張） |  | L1 |
+| [Terbutaline](/drugs/terbutaline/) | 上市中（有效許可證 17 張／共 52 張） |  | N/A |
 | [Teriparatide](/drugs/teriparatide/) | 上市中（有效許可證 5 張／共 5 張） |  | L5 |
 | [Tetrabenazine](/drugs/tetrabenazine/) | 上市中（有效許可證 2 張／共 2 張） |  | L5 |
 | [Tetryzoline](/drugs/tetryzoline/) | 上市中（有效許可證 30 張／共 62 張） |  | L5 |
@@ -294,7 +294,7 @@ permalink: /tw-availability/
 | [Tiaprofenic Acid](/drugs/tiaprofenic-acid/) | 上市中（有效許可證 13 張／共 33 張） |  | L5 |
 | [Timepidium](/drugs/timepidium/) | 上市中（有效許可證 6 張／共 20 張） |  | L5 |
 | [Tinidazole](/drugs/tinidazole/) | 上市中（有效許可證 21 張／共 85 張） |  | L5 |
-| [Tioconazole](/drugs/tioconazole/) | 上市中（有效許可證 2 張／共 6 張） |  | L5 |
+| [Tioconazole](/drugs/tioconazole/) | 上市中（有效許可證 2 張／共 6 張） |  | N/A |
 | [Titanium Dioxide](/drugs/titanium-dioxide/) | 上市中（有效許可證 1 張／共 7 張） |  | L5 |
 | [Tizanidine](/drugs/tizanidine/) | 上市中（有效許可證 8 張／共 10 張） |  | L2 |
 | [Tofacitinib](/drugs/tofacitinib/) | 見報告 |  | N/A |
@@ -309,7 +309,7 @@ permalink: /tw-availability/
 | [Trifluoperazine](/drugs/trifluoperazine/) | 上市中（有效許可證 6 張／共 44 張） |  | L5 |
 | [Trihexyphenidyl](/drugs/trihexyphenidyl/) | 上市中（有效許可證 12 張／共 35 張） |  | L5 |
 | [Tyrosine](/drugs/tyrosine/) | 上市中（有效許可證 38 張／共 174 張） |  | L5 |
-| [Uracil](/drugs/uracil/) | 上市中（有效許可證 5 張／共 7 張） |  | L5 |
+| [Uracil](/drugs/uracil/) | 上市中（有效許可證 5 張／共 7 張） |  | N/A |
 | [Urea](/drugs/urea/) | 見報告 |  | N/A |
 | [Urofollitropin](/drugs/urofollitropin/) | 上市中（有效許可證 1 張／共 10 張） |  | L5 |
 | [Vasopressin](/drugs/vasopressin/) | 僅有已註銷許可證（目前無有效上市） |  | L5 |

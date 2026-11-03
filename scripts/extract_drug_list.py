@@ -38,8 +38,33 @@ def extract_predicted_indication(content: str) -> str:
     return ""
 
 
+def withdrawn_predictions(reviews_file: Path) -> dict:
+    """查核紀錄裡重審撤回（verdict=withdraw）的預測：{頁面檔名: {預測名稱（小寫）}}。
+
+    2026-11-03 用戶決定：撤回的預測不再做證據監測（不開 issue）。front matter 的 predicted_indications
+    依站方規則原文不刪，所以排除清單以 docs/_data/drug_reviews.json 為準：
+    known_use_exclusion[].predicted（已核准用途撤回）或 withdrawn_predictions（其他撤回），
+    兩者都是 front matter predicted_indications 的原字串。被標 resolved_by_regeneration／withdrawn 的紀錄不算。
+    """
+    if not reviews_file.exists():
+        return {}
+    out: dict = {}
+    for r in json.loads(reviews_file.read_text(encoding="utf-8")).get("records", []):
+        if r.get("action") != "rereview_result" or r.get("verdict") != "withdraw":
+            continue
+        if r.get("status") in ("resolved_by_regeneration", "withdrawn"):
+            continue
+        names = [e.get("predicted") for e in r.get("known_use_exclusion") or []]
+        names += r.get("withdrawn_predictions") or []
+        out.setdefault(r["file"], set()).update(n.strip().lower() for n in names if n)
+    return out
+
+
 def main():
     drugs_dir = Path(__file__).parent.parent / "docs" / "_drugs"
+    reviews_file = Path(__file__).parent.parent / "docs" / "_data" / "drug_reviews.json"
+    withdrawn = withdrawn_predictions(reviews_file)
+    skipped = []
     output_file = Path(__file__).parent / "drug_list.json"
 
     drugs = []
@@ -62,6 +87,10 @@ def main():
         except ValueError:
             predicted_indications = []
         monitor_inn = front_matter.get("monitor_inn", "")
+        gone = withdrawn.get(md_file.name, set())
+        if gone:
+            skipped += [(md_file.name, p) for p in predicted_indications if p.strip().lower() in gone]
+            predicted_indications = [p for p in predicted_indications if p.strip().lower() not in gone]
         if not predicted_indications or not monitor_inn:
             continue
 
@@ -84,6 +113,11 @@ def main():
         }, f, indent=2, ensure_ascii=False)
 
     print(f"Extracted {len(drugs)} drugs to {output_file}")
+    print(f"Skipped {len(skipped)} withdrawn predictions (docs/_data/drug_reviews.json verdict=withdraw)")
+    unmatched = sorted((f, n) for f, ns in withdrawn.items() for n in ns
+                       if (f, n) not in {(sf, sp.strip().lower()) for sf, sp in skipped})
+    for f, n in unmatched:
+        print(f"  ⚠ 撤回紀錄的預測不在 {f} 的 predicted_indications：{n}")
 
     # Print summary
     level_counts = {}

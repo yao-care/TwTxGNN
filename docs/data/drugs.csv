@@ -31,7 +31,7 @@ Bempedoic Acid,bempedoic_acid,L5,9,１、適用於患有異合子家族性或非
 Benazepril,benazepril,L5,4,治療高血壓，此複方藥品不適合用於起始治療; 治療高血壓，此複方藥品不適合用於起始治療。; 高血壓。; 血管收縮素轉化每抑制劑; 治療高血壓。此複方藥品不適合用於起始治療。,惡性高血壓腎病 (malignant hypertensive renal disease),0.9965,False,Hold,/drugs/benazepril/
 Benzylpenicillin,benzylpenicillin,L5,7,急慢性感染症（由葡萄球菌、鏈球菌、肺炎球菌、髓膜炎菌、放線菌、紡錘狀菌等引起的化膿性疾患）、髓膜炎、亞急性細菌性心內膜炎、淋病、梅毒、手術後感染預防,牙冠周炎 (Pericoronitis),0.9936,False,Hold,/drugs/benzylpenicillin/
 Berberine,berberine,L5,10,痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎,重度子癇前症 (Severe Pre-eclampsia),0.9983,False,Hold,/drugs/berberine/
-Betamethasone,betamethasone,L2,8,原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹,斑禿 (Alopecia Areata),0.9997,False,撤回（已核准用途）,/drugs/betamethasone/
+Betamethasone,betamethasone,N/A,8,原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹,斑禿 (Alopecia Areata),0.9997,False,撤回（已核准用途）,/drugs/betamethasone/
 Bevacizumab,bevacizumab,L5,10,轉移性大腸直腸癌（mCRC）：與含 5-fluorouracil 的化學療法併用，作為第一線治療,會厭腫瘤 (Epiglottis Neoplasm),0.9990,False,Hold,/drugs/bevacizumab/
 Brivaracetam,brivaracetam,L5,1,抗癲癇藥; 適用於1個月大以上局部癲癇發作病人的治療。,β-酮硫解酶缺乏症 (beta-ketothiolase deficiency),0.9914,False,Hold,/drugs/brivaracetam/
 Brodalumab,brodalumab,L5,10,斑塊性乾癬：治療適合接受全身性治療的中至重度斑塊性乾癬成人病人（另含膿疱性乾癬、乾癬性關節炎、僵直性脊椎炎、掌蹠膿皰症）,類圓線蟲症 (Strongyloidiasis),0.9984,False,Hold,/drugs/brodalumab/
@@ -69,10 +69,10 @@ Dehydrocholic Acid,dehydrocholic_acid,L5,10,膽石症、膽石形成之預防、
 Denosumab,denosumab,L5,2,多發性骨髓瘤及實質腫瘤骨轉移：適用於實體腫瘤已有骨轉移及多發性骨髓瘤之成人病人，預防發生骨骼相關事件,嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy),0.9963,False,Hold,/drugs/denosumab/
 Deoxycholic Acid,deoxycholic_acid,L5,3,適用於改善成人頦下脂肪堆積所致的中度至重度隆起或肥厚的外觀。; 乳化劑；頦下脂肪消除劑(注射); 緩瀉劑; 肝炎、肝硬變,體染色體顯性家族性血尿-視網膜小動脈迂曲-攣縮症候群 (autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome),0.9949,False,Hold,/drugs/deoxycholic-acid/
 Desogestrel,desogestrel,L5,10,避孕（台灣目前無單方有效許可證，以複方許可證的核准適應症為準）,閉經 (Amenorrhea),0.9996,False,Hold,/drugs/desogestrel/
-Dexamethasone,dexamethasone,L2,10,過敏症、關節炎、風濕痛,圓形禿 (Alopecia Areata),0.9999,False,撤回（已核准用途）,/drugs/dexamethasone/
+Dexamethasone,dexamethasone,N/A,10,過敏症、關節炎、風濕痛,圓形禿 (Alopecia Areata),0.9999,False,撤回（已核准用途）,/drugs/dexamethasone/
 Dexketoprofen,dexketoprofen,L5,10,治療輕度至中等強度疼痛症狀，如肌肉骨骼疼痛、經痛、牙痛。; 須使用dexketoprofen及tramadol合併療法之成人中度至重度急性疼痛短期治療,肌腱炎 (tendinitis),0.9990,False,Hold,/drugs/dexketoprofen/
 Diosmin,diosmin,L5,1,協助改善慢性靜脈功能不全引起之局部腫脹或疼痛、痔瘡症狀之緩解,閉經 (Amenorrhea),0.9942,False,Hold,/drugs/diosmin/
-Dipyridamole,dipyridamole,L5,8,對於慢性狹心症之治療可能有效,血栓性疾病 (thrombotic disease),0.9994,False,撤回（已核准用途）,/drugs/dipyridamole/
+Dipyridamole,dipyridamole,N/A,8,對於慢性狹心症之治療可能有效,血栓性疾病 (thrombotic disease),0.9994,False,撤回（已核准用途）,/drugs/dipyridamole/
 Disopyramide,disopyramide,L5,10,心室性不整律,妥瑞氏症 (Tourette syndrome),0.9986,False,Hold,/drugs/disopyramide/
 Dl-Alpha-Tocopherol,dl-alpha-tocopherol,N/A,0,,,,False,,/drugs/dl-alpha-tocopherol/
 Docetaxel,docetaxel,L3,7,抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。; １、乳癌 - 與doxorubicin和cyclophosphamide併用適用於可手術切除具有淋巴結轉移及無淋巴結轉移的乳癌病人的術後輔助療法。對於可接受手術切除且無淋巴結轉移的乳癌病人，輔助療法僅限用於可接受化學治療的病人，該化療方式則是遵照國際標準對早期乳癌之主要治療方式。 - 與doxorubicin併用適用局部晚期或轉移性乳癌且先前未曾接受過化學治療之病人。 - 單獨使用，適用於治療局部晚期或轉移性且先前化學治療失敗之乳癌病人。 - 與trastuzumab併用，可用於治療腫瘤HER,尤文氏肉瘤 (Ewing sarcoma),0.9990,False,Hold,/drugs/docetaxel/
@@ -94,7 +94,7 @@ Famotidine,famotidine,L5,4,胃潰瘍、十二指腸潰瘍、逆流性食道炎�
 Felodipine,felodipine,L5,5,高血壓、心絞痛,因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia),0.9991,False,Hold,/drugs/felodipine/
 Fenoprofen,fenoprofen,L5,9,鎮痛（現行有效許可證：衛署藥製字第037862號、第041435號；其餘 8 張已註銷）,"肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)",1.0000,False,Hold,/drugs/fenoprofen/
 Fenoterol,fenoterol,L5,8,下列支氣管痙攣疾患之治療與預防：支氣管氣喘、阻塞性支氣管炎、肺氣腫和伴有支氣管痙攣之肺支氣管障害,多發性系統萎縮症 (Multiple System Atrophy),0.9970,False,Hold,/drugs/fenoterol/
-Ferrous Gluconate,ferrous_gluconate,L5,5,各種鐵缺乏性貧血症,Plummer-Vinson 症候群 (Plummer-Vinson syndrome),0.9994,False,撤回（已核准用途）,/drugs/ferrous-gluconate/
+Ferrous Gluconate,ferrous_gluconate,N/A,5,各種鐵缺乏性貧血症,Plummer-Vinson 症候群 (Plummer-Vinson syndrome),0.9994,False,撤回（已核准用途）,/drugs/ferrous-gluconate/
 Fidaxomicin,fidaxomicin,L5,9,"困難梭狀桿菌相關腹瀉 (C. difficile-associated diarrhoea, CDAD)",葡萄球菌燙傷樣皮膚症候群 (Staphylococcal Scalded Skin Syndrome),0.9971,False,Hold,/drugs/fidaxomicin/
 Flucloxacillin,flucloxacillin,L5,10,皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎。; 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、腸結腸炎; 對青黴素有感受性之細菌感染症; 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症; 革蘭氏陽性菌陰性菌引起之感染症; 對革蘭氏陽性菌及陰性菌所引起之感染; 革蘭氏陽性菌及陰性菌所引起之感染症。; 皮膚及軟組織感染、中耳炎、呼吸道感染、整形外科感染、外傷及灼傷感染、敗血症、腦膜炎、心內膜炎、尿道感染、結腸炎。; 皮膚及軟組織感染、中耳炎、呼吸,結膜炎 (conjunctivitis),0.9984,False,Hold,/drugs/flucloxacillin/
 Fludarabine,fludarabine,L3,10,B 細胞慢性淋巴性白血病（CLL）、低惡性度非何杰金氏淋巴瘤（LG-NHL；限烷化基藥劑治療無效或惡化者）（衛署藥輸字第022732號）,漿細胞骨髓瘤 (Plasma Cell Myeloma),0.9982,False,Hold（作為研究問題持續追蹤；不建議以單藥骨髓瘤適應症推進）,/drugs/fludarabine/
@@ -119,14 +119,14 @@ Hesperidin,hesperidin,L5,5,四季感冒、發熱、咳嗽、鼻涕、流行性�
 Hexachlorophene,hexachlorophene,L5,10,外科擦拭用、供皮膚抑菌使用目的之清潔劑,脂漏性角化症 (Seborrheic Keratosis),0.9997,False,Hold,/drugs/hexachlorophene/
 Homatropine Methylbromide,homatropine_methylbromide,L5,1,胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、胃痛、腸疝痛、膽管及尿路痙攣,馬尾症候群 (Cauda Equina Syndrome),0.9910,False,Hold,/drugs/homatropine-methylbromide/
 Human Immunoglobulin G,human_immunoglobulin_g,L5,3,IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症；以及改善免疫調節機能：原發性血小板缺乏性紫斑症（ITP）、異體骨髓移植、川崎氏症、Guillain-Barré 症候群,嚴重非增殖性糖尿病視網膜病變 (severe nonproliferative diabetic retinopathy),0.9975,False,Hold,/drugs/human-immunoglobulin-g/
-Hyaluronic Acid,hyaluronic_acid,L2,10,本報告彙整的資料中未提供,乾眼症 (Dry Eye Syndrome),0.9986,False,撤回（已核准用途）,/drugs/hyaluronic-acid/
+Hyaluronic Acid,hyaluronic_acid,N/A,10,本報告彙整的資料中未提供,乾眼症 (Dry Eye Syndrome),0.9986,False,撤回（已核准用途）,/drugs/hyaluronic-acid/
 Hydrocortisone,hydrocortisone,L3,9,暫時緩解濕疹、尿布疹、蚊蟲咬傷、皮膚搔癢、皮膚炎等皮膚疾患的症狀,圓形禿 (Alopecia Areata),0.9997,False,Hold,/drugs/hydrocortisone/
 Hydroquinone,hydroquinone,L5,4,黑斑、雀斑,脂漏性角化症 (Seborrheic Keratosis),0.9973,False,Hold,/drugs/hydroquinone/
 Hydroxyprogesterone Caproate,hydroxyprogesterone_caproate,L5,10,先兆流產、習慣流產、子宮機能性出血、痛經、月經困難,子宮內膜異位症 (Endometriosis of uterus),0.9998,False,Hold,/drugs/hydroxyprogesterone-caproate/
 Hydroxyurea,hydroxyurea,L5,9,慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制,女性乳癌 (Female Breast Carcinoma),0.9997,False,Hold,/drugs/hydroxyurea/
 Hymecromone,hymecromone,L5,10,下列諸症之利膽及鎮痙作用：膽石、膽囊炎、膽道阻礙、膽囊切除後症候群,糖尿病腎病變 (Diabetic Nephropathy),0.9985,False,Hold,/drugs/hymecromone/
 Ibuprofen,ibuprofen,L5,7,(僅用於成人)解熱、下列疾患及症狀之消炎、鎮痛：慢性風濕關節炎、關節痛及關節炎、神經痛及神經炎、背腰痛、手術及外傷後之消炎、鎮痛,"肢端中段發育不良 Hunter-Thompson 型 (Acromesomelic dysplasia, Hunter-Thompson type)",0.9974,False,Hold,/drugs/ibuprofen/
-Icatibant,icatibant,L1,7,體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療,C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency),0.9999,False,撤回（已核准用途）,/drugs/icatibant/
+Icatibant,icatibant,N/A,7,體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療,C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency),0.9999,False,撤回（已核准用途）,/drugs/icatibant/
 Imatinib,imatinib,L5,10,治療急性轉化期、加速期或經 α-干擾素治療無效之慢性期慢性骨髓性白血病（CML）；無法手術切除或轉移的惡性胃腸道基質瘤（GIST）等,心臟纖維肉瘤 (Heart Fibrosarcoma),0.9994,False,Hold,/drugs/imatinib/
 Inclisiran,inclisiran,L5,9,原發性高血脂症（家族性高膽固醇血症僅適用於異合子型 HeFH）：作為飲食及其他降血脂藥品（例如最大耐受劑量 statin 類藥品）的輔助治療，以降低成人病人之 LDL-C,鉀缺乏症 (Potassium Deficiency Disease),0.9993,False,Hold,/drugs/inclisiran/
 Indacaterol,indacaterol,L5,10,慢性阻塞性肺疾之維持治療,腎因性抗利尿激素不適當分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis),0.9954,False,Hold,/drugs/indacaterol/
@@ -156,12 +156,12 @@ Lorcaserin,lorcaserin,L5,4,,,,False,,/drugs/lorcaserin/
 Lornoxicam,lornoxicam,L5,8,輕度至中度急性疼痛之短期止痛,偏頭痛 (Migraine Disorder),0.9987,False,Hold,/drugs/lornoxicam/
 Loteprednol Etabonate,loteprednol_etabonate,L5,9,眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎、酒渣鼻角膜炎、表淺性點狀角膜炎、帶狀疱疹角膜炎、虹膜炎、睫狀體炎，以及其他感染性結膜炎等；及眼睛手術之發炎,結膜濾泡增生症 (Conjunctival Folliculosis),0.9969,False,Hold,/drugs/loteprednol-etabonate/
 Lutetium Lu 177 Dotatate,lutetium_lu_177_dotatate,L5,10,本地許可證資料未記載適應症,垂體性侏儒症 (pituitary dwarfism),0.9999,False,Hold,/drugs/lutetium-lu-177-dotatate/
-Magnesium Sulfate,magnesium_sulfate,L1,9,子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充,妊娠毒血症 (toxemia of pregnancy),1.0000,False,撤回（已核准用途）,/drugs/magnesium-sulfate/
+Magnesium Sulfate,magnesium_sulfate,L2,9,子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充,妊娠毒血症 (toxemia of pregnancy),1.0000,False,撤回（已核准用途）,/drugs/magnesium-sulfate/
 Mannitol,mannitol,L5,9,利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）,腎因性抗利尿不適當綜合症 (nephrogenic syndrome of inappropriate antidiuresis),0.9997,False,Hold,/drugs/mannitol/
 Maraviroc,maraviroc,L5,10,與其他抗反轉錄病毒藥物併用，適用於對第一線抗反轉錄病毒藥物無法耐受或治療失敗，且只具 CCR5 趨性之 HIV-1 感染成人患者,多發性內分泌腫瘤 (Multiple Endocrine Neoplasia),0.9982,False,Hold,/drugs/maraviroc/
 Methionine,methionine,L5,10,營養補給、發育不良、乙醯胺基酸逾量之解毒劑,痤瘡 (Acne),1.0000,False,Hold,/drugs/methionine/
 Methocarbamol,methocarbamol,L5,10,肌肉攣縮症狀、肩痛斜頸、肌肉痙攣,馬尾症候群 (Cauda Equina Syndrome),0.9998,False,Hold,/drugs/methocarbamol/
-Methylprednisolone,methylprednisolone,L3,9,抗炎性皮質固醇,圓形禿 (Alopecia Areata),0.9999,False,撤回（已核准用途）,/drugs/methylprednisolone/
+Methylprednisolone,methylprednisolone,N/A,9,抗炎性皮質固醇,圓形禿 (Alopecia Areata),0.9999,False,撤回（已核准用途）,/drugs/methylprednisolone/
 Methylprednisone,methylprednisone,L5,7,腎上腺皮質機能不全、劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染,痲瘋病 (Leprosy),0.9949,False,Hold,/drugs/methylprednisone/
 Metoprolol,metoprolol,L5,6,高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整; 交感神經β１－感受體遮斷劑; 隆壓劑; 主治高血壓、心絞痛; 隆壓劑。; 高血壓。; 降壓劑。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後預防心肌之死亡及再梗塞、心律不整。; 高血壓？狹心症。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後、預防心肌之死亡及再梗塞、心律不整、有心悸症狀之功能性心臟病。,惡性高血壓性腎病 (malignant hypertensive renal disease),0.9991,False,Hold,/drugs/metoprolol/
 Mexiletine,mexiletine,L3,10,抗心律不整藥（心室性不整律）,毛髮過多症 (Hypertrichosis)（排名第 1，無證據）；證據最多者為頭痛疾患 (Headache Disorder)（排名第 10）,毛髮過多症 0.9978；頭痛疾患 0.9948,False,Hold（頭痛疾患方向可列為 Research Question）,/drugs/mexiletine/
@@ -182,9 +182,9 @@ Nitrofurantoin,nitrofurantoin,L5,10,腎盂炎、膀胱炎、淋病、尿路感�
 Nitrous Oxide,nitrous_oxide,L5,1,吸入性全身麻醉、鎮痛,良性攝護腺肥大 (Benign Prostatic Hyperplasia),0.9952,False,Hold,/drugs/nitrous-oxide/
 Nitroxoline,nitroxoline,L5,10,尿道炎、膀胱炎、腎盂腎炎及其他泌尿道感染症,閉經 (Amenorrhea),0.9974,False,Hold,/drugs/nitroxoline/
 Norethindrone Enanthate,norethindrone_enanthate,N/A,0,,,,False,,/drugs/norethindrone-enanthate/
-Nystatin,nystatin,L3,10,抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道及陰道感染）,外陰陰道炎 (Vulvovaginitis),0.9992,False,撤回（已核准用途）,/drugs/nystatin/
+Nystatin,nystatin,N/A,10,抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道及陰道感染）,外陰陰道炎 (Vulvovaginitis),0.9992,False,撤回（已核准用途）,/drugs/nystatin/
 Omalizumab,omalizumab,L4,10,過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法,支氣管炎 (Bronchitis),1.0000,False,Hold,/drugs/omalizumab/
-Oteracil,oteracil,L2,10,胃癌用藥,大腸腫瘤 (Colonic Neoplasm),0.9999,False,撤回（已核准用途）,/drugs/oteracil/
+Oteracil,oteracil,N/A,10,胃癌用藥,大腸腫瘤 (Colonic Neoplasm),0.9999,False,撤回（已核准用途）,/drugs/oteracil/
 Ouabain,ouabain,L5,10,心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速,Prinzmetal 心絞痛 (Prinzmetal angina),0.9969,False,Hold,/drugs/ouabain/
 Oxybutynin,oxybutynin,L5,3,適用於12歲以上之原發性手掌多汗症病人（擦劑）；錠劑、貼片則用於膀胱過動症及排尿症狀緩解,不寧腿症候群 (Restless Legs Syndrome),0.9974,False,Hold,/drugs/oxybutynin/
 Oxytetracycline,oxytetracycline,L5,10,支氣管炎、Q 熱、細菌性痢疾、扁桃腺炎、軟性下疳、耳炎、胃腸炎,慢性鼻竇炎 (Chronic Rhinosinusitis),0.9961,False,Hold,/drugs/oxytetracycline/
@@ -252,7 +252,7 @@ Sulfamethazine,sulfamethazine,L5,5,細菌性感染症,痛風 (Gout),0.9987,False
 Tazarotene,tazarotene,L5,3,乾癬及尋常性痤瘡,脂漏性皮膚炎 (Seborrheic Dermatitis),0.9979,False,Hold,/drugs/tazarotene/
 Temozolomide,temozolomide,L5,1,新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤,馬尾腫瘤 (Cauda Equina Neoplasm),0.9930,False,Hold,/drugs/temozolomide/
 Tenofovir Alafenamide,tenofovir_alafenamide,L5,3,"適用於治療6歲以上且體重至少25公斤之慢性B型肝炎病人。; 先前未曾使用過抗病毒藥物治療之愛滋病毒(HIV-1)感染之完整治療，且在治療開始時其病毒量HIV-1 RNA ≦100,000 copies/mL之12歲以上(體重至少35公斤)患者；適用於特定正穩定接受抗反轉錄病毒療法，且治療開始時已達病毒學抑制狀態(HIV-1 RNA <50 copies/mL)的患者，取代其現有的抗反轉錄病毒療法。對emtricitabine/ rilpivirine/ tenofovir 的任一成分，患者過去或現在應無抗藥性病史才適用。; 治療感染第一型人類免疫缺乏病毒(HIV-1) 且不具已知或疑似與bic",貓後天免疫缺乏症候群 (feline acquired immunodeficiency syndrome),0.9989,False,Hold,/drugs/tenofovir-alafenamide/
-Terbutaline,terbutaline,L1,3,支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解,阻塞性肺病 (Obstructive Lung Disease),0.9996,False,撤回（已核准用途）,/drugs/terbutaline/
+Terbutaline,terbutaline,N/A,3,支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解,阻塞性肺病 (Obstructive Lung Disease),0.9996,False,撤回（已核准用途）,/drugs/terbutaline/
 Teriparatide,teriparatide,L5,9,停經後婦女骨質疏鬆症具高度骨折風險者；男性原發性或次發於性腺功能低下症之骨質疏鬆且具高度骨折風險者；女性及男性因糖化皮質類固醇治療引起之骨質疏鬆症且具高度骨折風險者,十二指腸潰瘍 (duodenal ulcer),0.9986,False,Hold,/drugs/teriparatide/
 Tetrabenazine,tetrabenazine,L5,10,治療亨汀頓舞蹈症之舞蹈症狀,多囊腎疾病 3 型，可合併多囊肝 (polycystic kidney disease 3 with or without polycystic liver disease),0.9990,False,Hold,/drugs/tetrabenazine/
 Tetryzoline,tetryzoline,L5,1,眼睛受刺激、結膜炎、結膜充血; 過敏性結膜炎，眼瞼緣炎，角膜炎。; 暫時緩解因輕微眼部刺激所引起之不適、或眼睛紅、眼睛癢、眼睛疲勞。; 暫時緩解因輕微眼部刺激所引起之不適、或眼睛紅，眼睛癢，眼睛疲勞。,鼻腔疾病 (nasal cavity disease),0.9998,False,Hold,/drugs/tetryzoline/
@@ -263,7 +263,7 @@ Thyrotropin Alfa,thyrotropin_alfa,L5,9,甲狀腺分化癌治療之輔助診斷�
 Tiaprofenic Acid,tiaprofenic_acid,L5,9,消炎、鎮痛,短指（趾）併指症候群 (Brachydactyly-Syndactyly Syndrome),0.9999,False,Hold,/drugs/tiaprofenic-acid/
 Timepidium,timepidium,L5,1,胃炎、胃、十二指腸潰瘍，腸炎、膽道疾患、尿路結石症、胰炎所引起之痙攣性疼痛,失眠 (Insomnia),0.9945,False,Hold,/drugs/timepidium/
 Tinidazole,tinidazole,L5,10,男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎,停經後萎縮性陰道炎 (postmenopausal atrophic vaginitis),0.9993,False,Hold,/drugs/tinidazole/
-Tioconazole,tioconazole,L5,3,感受性黴菌引起之局部感染,外陰陰道炎 (Vulvovaginitis),0.9923,False,撤回（已核准用途）,/drugs/tioconazole/
+Tioconazole,tioconazole,N/A,3,感受性黴菌引起之局部感染,外陰陰道炎 (Vulvovaginitis),0.9923,False,撤回（已核准用途）,/drugs/tioconazole/
 Titanium Dioxide,titanium_dioxide,L5,10,外用抗刺激劑（單方許可證，已註銷）,藥物性骨質疏鬆症 (Drug-induced Osteoporosis),1.0000,False,Hold,/drugs/titanium-dioxide/
 Tizanidine,tizanidine,L2,5,神經疾患所引起之痙攣症狀、疼痛性肌肉痙攣,偏頭痛 (Migraine Disorder),0.9979,False,Proceed with Guardrails,/drugs/tizanidine/
 Tolmetin,tolmetin,L5,8,類風濕性關節炎、骨關節炎（關節痛、退化性關節炎）、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風,"肢端中段發育不良，Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)",0.9998,False,Hold,/drugs/tolmetin/
@@ -277,7 +277,7 @@ Triamcinolone,triamcinolone,L4,8,短期緩解急慢性口腔黏膜破損（冠�
 Trifluoperazine,trifluoperazine,L5,1,精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙,躁期雙相情感障礙 (Manic Bipolar Affective Disorder),0.9951,False,Hold,/drugs/trifluoperazine/
 Trihexyphenidyl,trihexyphenidyl,L5,10,帕金森氏症候群,注意力不足過動症 (Attention Deficit-Hyperactivity Disorder),0.9992,False,Hold,/drugs/trihexyphenidyl/
 Tyrosine,tyrosine,L5,10,氨基酸補給劑、營養劑（胺基酸）（取自台灣單一成分許可證中現行有效者；有效證另有 TKI 類產品的血液腫瘤適應症，其藥理與酪胺酸營養劑不同）,馬尾症候群 (Cauda Equina Syndrome),0.9977,False,Hold,/drugs/tyrosine/
-Uracil,uracil,L5,10,抗惡性腫瘤劑,大腸腫瘤 (Colonic Neoplasm),0.9950,False,撤回（已核准用途）,/drugs/uracil/
+Uracil,uracil,N/A,10,抗惡性腫瘤劑,大腸腫瘤 (Colonic Neoplasm),0.9950,False,撤回（已核准用途）,/drugs/uracil/
 Urofollitropin,urofollitropin,L5,9,因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀,偏頭痛 (Migraine Disorder),0.9985,False,Hold,/drugs/urofollitropin/
 Vasopressin,vasopressin,L5,2,尿崩症,先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency),0.9963,False,Hold,/drugs/vasopressin/
 Verteporfin,verteporfin,L5,1,因年齡相關性黃斑部退化病變引起之主要典型或潛隱性視網膜下中央凹脈絡膜血管新生，病理性近視(PM)或疑似眼組織漿菌症引起之視網膜下中央凹脈絡膜血管新生,核 DNA 異常所致的粒線體氧化磷酸化疾病 (mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies),0.9949,False,Hold,/drugs/verteporfin/

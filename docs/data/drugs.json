@@ -390,7 +390,7 @@
     {
       "slug": "betamethasone",
       "name": "Betamethasone",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 8,
       "original_indication": "原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹",
       "predicted_indication": "斑禿 (Alopecia Areata)",
@@ -846,7 +846,7 @@
     {
       "slug": "dexamethasone",
       "name": "Dexamethasone",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "original_indication": "過敏症、關節炎、風濕痛",
       "predicted_indication": "圓形禿 (Alopecia Areata)",
@@ -882,7 +882,7 @@
     {
       "slug": "dipyridamole",
       "name": "Dipyridamole",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 8,
       "original_indication": "對於慢性狹心症之治療可能有效",
       "predicted_indication": "血栓性疾病 (thrombotic disease)",
@@ -1146,7 +1146,7 @@
     {
       "slug": "ferrous_gluconate",
       "name": "Ferrous Gluconate",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 5,
       "original_indication": "各種鐵缺乏性貧血症",
       "predicted_indication": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)",
@@ -1446,7 +1446,7 @@
     {
       "slug": "hyaluronic_acid",
       "name": "Hyaluronic Acid",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "original_indication": "本報告彙整的資料中未提供",
       "predicted_indication": "乾眼症 (Dry Eye Syndrome)",
@@ -1530,7 +1530,7 @@
     {
       "slug": "icatibant",
       "name": "Icatibant",
-      "evidence_level": "L1",
+      "evidence_level": "N/A",
       "indication_count": 7,
       "original_indication": "體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療",
       "predicted_indication": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)",
@@ -1890,7 +1890,7 @@
     {
       "slug": "magnesium_sulfate",
       "name": "Magnesium Sulfate",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 9,
       "original_indication": "子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充",
       "predicted_indication": "妊娠毒血症 (toxemia of pregnancy)",
@@ -1950,7 +1950,7 @@
     {
       "slug": "methylprednisolone",
       "name": "Methylprednisolone",
-      "evidence_level": "L3",
+      "evidence_level": "N/A",
       "indication_count": 9,
       "original_indication": "抗炎性皮質固醇",
       "predicted_indication": "圓形禿 (Alopecia Areata)",
@@ -2202,7 +2202,7 @@
     {
       "slug": "nystatin",
       "name": "Nystatin",
-      "evidence_level": "L3",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "original_indication": "抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道及陰道感染）",
       "predicted_indication": "外陰陰道炎 (Vulvovaginitis)",
@@ -2226,7 +2226,7 @@
     {
       "slug": "oteracil",
       "name": "Oteracil",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "original_indication": "胃癌用藥",
       "predicted_indication": "大腸腫瘤 (Colonic Neoplasm)",
@@ -3042,7 +3042,7 @@
     {
       "slug": "terbutaline",
       "name": "Terbutaline",
-      "evidence_level": "L1",
+      "evidence_level": "N/A",
       "indication_count": 3,
       "original_indication": "支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解",
       "predicted_indication": "阻塞性肺病 (Obstructive Lung Disease)",
@@ -3174,7 +3174,7 @@
     {
       "slug": "tioconazole",
       "name": "Tioconazole",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 3,
       "original_indication": "感受性黴菌引起之局部感染",
       "predicted_indication": "外陰陰道炎 (Vulvovaginitis)",
@@ -3342,7 +3342,7 @@
     {
       "slug": "uracil",
       "name": "Uracil",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "original_indication": "抗惡性腫瘤劑",
       "predicted_indication": "大腸腫瘤 (Colonic Neoplasm)",

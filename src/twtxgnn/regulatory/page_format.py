@@ -8,6 +8,11 @@ gate（scripts/check_seo_docs.py 第 7 項）用同一套函式檢查，三者�
   儲存格裡的等級；儲存格有多個等級（如「L2 (偏頭痛)、L3 (類風濕)」「L4 至 L5」）取最高（數字最小）。
   儲存格沒有任何 Lx（「不適用」「待評估」等）或沒有這一列：頁首不動。
   舊解析式只認「| 證據等級 | L3 |」這種純值儲存格，帶說明文字就落到預設 L5，造成頁首與總覽表不一致。
+  主預測重審撤回（2026-11-03 用戶決定）：查核紀錄的 table_updates 把總覽「證據等級」格換成「撤回：…」
+  （格內不再有 Lx）時，頁首改取本頁其他預測表（表頭有「證據等級」欄的表，如「其他預測適應症概況」
+  「附註：其他預測適應症」）裡仍保留的最高等級；沒有就是 N/A，parent 跟既有 N/A 頁一樣歸
+  「僅已知用途（無新預測）」（docs/known-uses.md 的 title；head_custom.html 的 breadcrumb：N/A→/known-uses）。
+  只看表格裡的等級欄，不解析敘述文字裡提到的等級；被撤回的列在表裡同樣已換成「撤回…」，不會被算進去。
 
 表格前空行：kramdown 不把緊接在標題或段落下一行的 `|` 列當表格，整張表會變成一段純文字；
 表格第一列的前一行不是空行時補一個空行（程式碼區塊內不動）。
@@ -23,7 +28,12 @@ from pathlib import Path
 
 DOCS = Path(__file__).resolve().parents[3] / "docs"
 EVIDENCE_PAGES = ("evidence-high.md", "evidence-medium.md", "evidence-low.md")
+KNOWN_USES_PAGE = "known-uses.md"  # evidence_level N/A 的列表頁
+NA = "N/A"
 OVERVIEW_ROW_RE = re.compile(r"^\|\s*證據等級\s*\|([^|\n]*)\|", re.M)
+WITHDRAWN_CELL_RE = re.compile(r"^\s*(\*\*)?撤回")
+REVIEW_BLOCK_RE = re.compile(r"<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->", re.S)
+LEVEL_RE = r"(?:L[1-5]|N/A)"
 _PARENTS: dict = {}
 
 
@@ -38,9 +48,56 @@ def overview_level(text: str) -> str | None:
     return best_level(m.group(1)) if m else None
 
 
+def overview_withdrawn(text: str) -> bool:
+    """快速總覽「證據等級」格是重審撤回後的「撤回：…」（格內沒有 Lx）。"""
+    m = OVERVIEW_ROW_RE.search(text)
+    return bool(m and WITHDRAWN_CELL_RE.match(m.group(1)) and not best_level(m.group(1)))
+
+
+def other_prediction_levels(text: str) -> list[str]:
+    """快速總覽以外、表頭有「證據等級」欄的表格裡，該欄的等級（查核框與程式碼區塊內不算）。"""
+    text = REVIEW_BLOCK_RE.sub("", text)
+    out, col, fence = [], None, False
+    lines = text.split("\n")
+    for i, ln in enumerate(lines):
+        if ln.startswith("```"):
+            fence = not fence
+        if fence or not ln.startswith("|"):
+            col = None
+            continue
+        cells = [c.strip() for c in ln.strip().strip("|").split("|")]
+        prev = lines[i - 1] if i else ""
+        if not prev.startswith("|"):  # 表頭列
+            col = cells.index("證據等級") if "證據等級" in cells else None
+            continue
+        if col is None or set(ln.replace("|", "").strip()) <= set("-: "):
+            continue
+        if col < len(cells):
+            lv = best_level(cells[col])
+            if lv:
+                out.append(lv)
+    return out
+
+
+def target_level(text: str) -> str | None:
+    """頁首應有的等級：總覽列最高等級；總覽主預測已撤回時取其他預測表保留的最高等級，沒有就 N/A；
+    其餘情況（總覽列沒有 Lx 也不是撤回、或沒有總覽列）回 None＝頁首不動。"""
+    best = overview_level(text)
+    if best:
+        return best
+    if overview_withdrawn(text):
+        return best_level(" ".join(other_prediction_levels(text))) or NA
+    return None
+
+
 def parent_titles() -> dict:
-    """證據等級 → 列表頁標題（docs/evidence-*.md 的 title，標題裡的 L 範圍決定歸屬）。"""
+    """證據等級 → 列表頁標題（docs/evidence-*.md 的 title，標題裡的 L 範圍決定歸屬；N/A → known-uses.md）。"""
     if not _PARENTS:
+        p = DOCS / KNOWN_USES_PAGE
+        if p.exists():
+            m = re.search(r"^title:\s*(.+?)\s*$", p.read_text(encoding="utf-8"), re.M)
+            if m:
+                _PARENTS[NA] = m.group(1).strip().strip('"').strip("'")
         for fname in EVIDENCE_PAGES:
             p = DOCS / fname
             if not p.exists():
@@ -66,36 +123,36 @@ def header_state(text: str) -> dict:
     """目前頁首的 evidence_level／parent／頁首列等級（gate 與重算紀錄用）。"""
     fm, rest = _split_fm(text)
     fm = fm or ""
-    lv = re.search(r"^evidence_level:[ \t]*(L[1-5])[ \t]*$", fm, re.M)
+    lv = re.search(rf"^evidence_level:[ \t]*({LEVEL_RE})[ \t]*$", fm, re.M)
     par = re.search(r"^parent:[ \t]*(.*?)[ \t]*$", fm, re.M)
-    head = re.search(r"^證據等級: \*\*(L[1-5])\*\*", rest, re.M)
+    head = re.search(rf"^證據等級: \*\*({LEVEL_RE})\*\*", rest, re.M)
     return {"evidence_level": lv.group(1) if lv else None, "parent": par.group(1) if par else None,
             "header": head.group(1) if head else None}
 
 
 def sync_header_level(text: str) -> str:
-    best = overview_level(text)
+    best = target_level(text)
     fm, rest = _split_fm(text)
     if not best or fm is None:
         return text
-    fm = re.sub(r"^(evidence_level:[ \t]*)L[1-5][ \t]*$", lambda x: x.group(1) + best, fm, count=1, flags=re.M)
+    fm = re.sub(rf"^(evidence_level:[ \t]*){LEVEL_RE}[ \t]*$", lambda x: x.group(1) + best, fm, count=1, flags=re.M)
     parent = parent_titles().get(best)
     if parent:
         fm = re.sub(r"^parent:.*$", lambda x: f"parent: {parent}", fm, count=1, flags=re.M)
-    rest = re.sub(r"^(證據等級: \*\*)L[1-5](\*\*)", lambda x: x.group(1) + best + x.group(2), rest, count=1, flags=re.M)
+    rest = re.sub(rf"^(證據等級: \*\*){LEVEL_RE}(\*\*)", lambda x: x.group(1) + best + x.group(2), rest, count=1, flags=re.M)
     return fm + rest
 
 
 def header_problems(text: str) -> list[str]:
-    best = overview_level(text)
+    best = target_level(text)
     if not best:
         return []
     st = header_state(text)
     errs = []
     if st["evidence_level"] != best:
-        errs.append(f"front matter evidence_level={st['evidence_level']}，快速總覽最高等級={best}")
+        errs.append(f"front matter evidence_level={st['evidence_level']}，快速總覽最高等級（主預測撤回時為其他預測表最高等級或 N/A）={best}")
     if st["header"] not in (None, best):
-        errs.append(f"頁首「證據等級」={st['header']}，快速總覽最高等級={best}")
+        errs.append(f"頁首「證據等級」={st['header']}，快速總覽最高等級（主預測撤回時為其他預測表最高等級或 N/A）={best}")
     want = parent_titles().get(best)
     if want and st["parent"] != want:
         errs.append(f"parent={st['parent']}，應為 {want}")

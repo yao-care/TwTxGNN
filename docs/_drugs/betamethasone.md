@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Betamethasone
-parent: 高證據等級 (L1-L2)
+parent: 僅已知用途（無新預測）
 nav_order: 44
-evidence_level: L2
+evidence_level: N/A
 indication_count: 8
 last_modified_at: 2026-11-03
 description: "Betamethasone：預測新適應症為斑禿 (Alopecia Areata)（證據等級 L2）。原適應症：原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Betamethasone
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **8** 個
+證據等級: **N/A** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -132,6 +132,12 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 **決策：Proceed with Guardrails**
 
+<!-- review:begin betamethasone-decision-withdrawn-2026-11-03 -->
+
+> **查核加註（2026-11-03）**：上面的決策與理由是模型報告針對「斑禿 (Alopecia Areata)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。依據：[US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad)。
+
+<!-- review:end betamethasone-decision-withdrawn-2026-11-03 -->
+
 **理由：**
 - 已有 1 個完成的 Phase 2 試驗（口服 Betamethasone mini-pulse）及多篇 RCT 支持斑禿的使用，且機轉上與自體免疫性毛囊發炎吻合，證據等級為 L2。
 - 現有試驗多以 Betamethasone 作為對照組或合併療法，缺乏以斑禿為適應症的 Phase 3 確證性試驗；長期全身性類固醇有已知的副作用風險。
@@ -154,6 +160,8 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 | 2026-10-03 | 許可證表所列許可證多數已註銷，其中「必乃膚通－Ｎ藥膏」為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 斑禿 (Alopecia Areata)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad) |
 | 2026-11-03 | 斑禿 (Alopecia Areata)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L2→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L2」→「證據等級／撤回：斑禿 (Alopecia Areata)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L2→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 「結論與下一步」的決策（主預測「斑禿 (Alopecia Areata)」已重審撤回） | 加註 | [US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad) |
 
 <!-- review:end log -->
 

@@ -3,7 +3,7 @@ layout: default
 title: Magnesium Sulfate
 parent: 高證據等級 (L1-L2)
 nav_order: 172
-evidence_level: L1
+evidence_level: L2
 indication_count: 9
 monitor_inn: "Magnesium sulfate"
 predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
@@ -14,7 +14,7 @@ description: "Magnesium Sulfate：預測新適應症為妊娠毒血症 (toxemia 
 # Magnesium Sulfate
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **9** 個
+證據等級: **L2** | 預測適應症: **9** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -190,6 +190,12 @@ TxGNN 模型預測它可能對**妊娠毒血症 (toxemia of pregnancy)** 有效�
 
 **決策：Proceed with Guardrails**
 
+<!-- review:begin magnesium_sulfate-decision-withdrawn-2026-11-03 -->
+
+> **查核加註（2026-11-03）**：上面的決策與理由是模型報告針對「妊娠毒血症 (toxemia of pregnancy)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。依據：[US FDA label (DailyMed)：MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end magnesium_sulfate-decision-withdrawn-2026-11-03 -->
+
 **理由：**
 - 有多個已完成的 Phase 2/3 以上試驗直接研究硫酸鎂用於子癇前症與子癇，且此用途已是台灣許可證載明的適應症。
 - 現有試驗多在比較劑量與療程，而非療效有無；用藥需嚴密監測，因此建議在防護措施下推進。
@@ -239,6 +245,8 @@ TxGNN 模型預測它可能對**妊娠毒血症 (toxemia of pregnancy)** 有效�
 | 2026-10-16 | 子癇前症／子癇證據等級重審結果 | 重審：維持，證據等級 L1 不變 | [PubMed：Do women with pre-eclampsia, and their babies, benefit from magnesium sulphate? The Magpie Trial（PMID 12057549）](https://pubmed.ncbi.nlm.nih.gov/12057549/)；[PubMed：Magnesium sulphate and other anticonvulsants for women with pre-eclampsia（Cochrane 2010）（PMID 21069663）](https://pubmed.ncbi.nlm.nih.gov/21069663/)；[PubMed：Magnesium sulphate versus diazepam for eclampsia（Cochrane 2010）（PMID 21154341）](https://pubmed.ncbi.nlm.nih.gov/21154341/)；[PubMed：Magnesium sulphate versus phenytoin for eclampsia（Cochrane 2010）（PMID 20927719）](https://pubmed.ncbi.nlm.nih.gov/20927719/)；[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 妊娠毒血症 (toxemia of pregnancy)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 妊娠毒血症 (toxemia of pregnancy)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L1→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法）」→「證據等級／撤回：妊娠毒血症 (toxemia of pregnancy)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L1→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 「結論與下一步」的決策（主預測「妊娠毒血症 (toxemia of pregnancy)」已重審撤回） | 加註 | [US FDA label (DailyMed)：MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

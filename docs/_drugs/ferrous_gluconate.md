@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ferrous Gluconate
-parent: 僅模型預測 (L5)
+parent: 僅已知用途（無新預測）
 nav_order: 109
-evidence_level: L5
+evidence_level: N/A
 indication_count: 5
 monitor_inn: "Ferrous gluconate"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder"]
@@ -14,7 +14,7 @@ description: "Ferrous Gluconate：預測新適應症為Plummer-Vinson 症候群 
 # Ferrous Gluconate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **5** 個
+證據等級: **N/A** | 預測適應症: **5** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -124,6 +124,12 @@ Plummer-Vinson 症候群的特徵是缺鐵性貧血合併食道蹼（esophageal 
 
 **決策：Hold**
 
+<!-- review:begin ferrous_gluconate-decision-withdrawn-2026-11-03 -->
+
+> **查核加註（2026-11-03）**：上面的決策與理由是模型報告針對「Plummer-Vinson 症候群 (Plummer-Vinson syndrome)」寫的；這筆預測已於 2026-11-03 重審撤回（已核准用途，不是新適應症），這個決策不再適用，見快速總覽下方的重審結果框。報告原文保留不改寫。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end ferrous_gluconate-decision-withdrawn-2026-11-03 -->
+
 **理由：**
 - 雖然 TxGNN 分數很高，也有合理的機轉連結，但針對 Plummer-Vinson 症候群沒有任何臨床試驗或文獻，且補鐵本來就是此病的既有處置，不構成新的再利用價值。
 - 排名較後的預測（如巨母紅血球性貧血、食道畸形、生物素代謝疾病）機轉上關聯薄弱，不建議投入資源。
@@ -146,6 +152,8 @@ Plummer-Vinson 症候群的特徵是缺鐵性貧血合併食道蹼（esophageal 
 | 2026-10-03 | 有效許可證清單含複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | Plummer-Vinson 症候群 (Plummer-Vinson syndrome)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | Plummer-Vinson 症候群 (Plummer-Vinson syndrome)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L5→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L5（僅有模型預測；另有機轉層面的推論）」→「證據等級／撤回：Plummer-Vinson 症候群 (Plummer-Vinson syndrome)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Hold」→「建議決策／撤回（已核准用途）」 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L5→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 「結論與下一步」的決策（主預測「Plummer-Vinson 症候群 (Plummer-Vinson syndrome)」已重審撤回） | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -23,6 +23,9 @@
             見 src/twtxgnn/regulatory/page_format.py）後與原值不同的頁，各記一筆 original_level／
             new_level／original_parent／new_parent。不顯示框，只在查核紀錄表列「頁首等級依總覽表重算（原 Lx→Ly）」。
             頁首重算本身每頁都做（有沒有紀錄都一樣），產線寫頁前也做。
+            2026-11-03 起：主預測重審撤回（總覽「證據等級」格經 table_updates 換成「撤回…」）的頁，頁首改取
+            其他預測表保留的最高等級，沒有就是 N/A（歸「僅已知用途（無新預測）」）；這類紀錄帶 trigger=withdraw、
+            based_on（撤回的 rereview_result id），查核紀錄表列「主預測重審撤回，頁首等級重算（原 Lx→N/A）」。
 紀錄可帶 history：同 id 重發時的前版（整筆前版內容＋retired 日期＋reason）。correct 紀錄
 在頁面上找不到 claim 時，會改找 history 裡前版的 replacement 換成新版（頁面停在前版時用）。
 紀錄的 status 為 superseded（錨點落在已改由程式產生的許可證表或張數上）時：紀錄保留、
@@ -205,6 +208,10 @@ def log_md(recs):
             act = "標記待重審 → 已重審（見下列重審結果）"
         if r["action"] == "header_level":
             act = f"頁首等級依總覽表重算（原 {r['original_level']}→{r['new_level']}）"
+            if r.get("trigger") == "withdraw":
+                act = f"主預測重審撤回，頁首等級重算（原 {r['original_level']}→{r['new_level']}）"
+                if r["new_level"] == F.NA:
+                    act += "，改列「僅已知用途（無新預測）」"
         if r["action"] == "rereview_result":
             act = f"重審：{VERDICT_ZH[r['verdict']]}，{level_change(r)}"
             for u in r.get("table_updates") or []:

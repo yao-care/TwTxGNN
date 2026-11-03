@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T09:54:37.936216",
+  "generated_at": "2026-11-03T10:33:02.341068",
   "total_drugs": 291,
   "evidence_distribution": {
-    "L5": 237,
+    "L5": 233,
     "L4": 17,
-    "N/A": 5,
-    "L2": 15,
-    "L1": 5,
-    "L3": 12
+    "N/A": 17,
+    "L2": 12,
+    "L1": 2,
+    "L3": 10
   },
   "drugs": [
     {
@@ -236,9 +236,9 @@
     },
     {
       "drug_name": "Betamethasone",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 8,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/betamethasone/"
     },
     {
@@ -502,9 +502,9 @@
     },
     {
       "drug_name": "Dexamethasone",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/dexamethasone/"
     },
     {
@@ -523,9 +523,9 @@
     },
     {
       "drug_name": "Dipyridamole",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 8,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/dipyridamole/"
     },
     {
@@ -677,9 +677,9 @@
     },
     {
       "drug_name": "Ferrous Gluconate",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 5,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/ferrous_gluconate/"
     },
     {
@@ -852,9 +852,9 @@
     },
     {
       "drug_name": "Hyaluronic Acid",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/hyaluronic_acid/"
     },
     {
@@ -901,9 +901,9 @@
     },
     {
       "drug_name": "Icatibant",
-      "evidence_level": "L1",
+      "evidence_level": "N/A",
       "indication_count": 7,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/icatibant/"
     },
     {
@@ -1111,7 +1111,7 @@
     },
     {
       "drug_name": "Magnesium Sulfate",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 9,
       "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/magnesium_sulfate/"
@@ -1146,9 +1146,9 @@
     },
     {
       "drug_name": "Methylprednisolone",
-      "evidence_level": "L3",
+      "evidence_level": "N/A",
       "indication_count": 9,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/methylprednisolone/"
     },
     {
@@ -1293,9 +1293,9 @@
     },
     {
       "drug_name": "Nystatin",
-      "evidence_level": "L3",
+      "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/nystatin/"
     },
     {
@@ -1307,9 +1307,9 @@
     },
     {
       "drug_name": "Oteracil",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/oteracil/"
     },
     {
@@ -1783,9 +1783,9 @@
     },
     {
       "drug_name": "Terbutaline",
-      "evidence_level": "L1",
+      "evidence_level": "N/A",
       "indication_count": 3,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/terbutaline/"
     },
     {
@@ -1860,9 +1860,9 @@
     },
     {
       "drug_name": "Tioconazole",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 3,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/tioconazole/"
     },
     {
@@ -1958,9 +1958,9 @@
     },
     {
       "drug_name": "Uracil",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "僅已知用途（無新預測）",
       "url": "/drugs/uracil/"
     },
     {
