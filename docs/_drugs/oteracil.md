@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Oteracil"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "rectosigmoid junction neoplasm", "benign neoplasm of cecum", "colonic lymphangioma", "colon leiomyoma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Oteracil：預測新適應症為大腸腫瘤 (Colonic Neoplasm)（證據等級 L2）。原適應症：胃癌用藥"
 ---
 
@@ -49,10 +49,16 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 | 原適應症 | 胃癌用藥 |
 | 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |
 | TxGNN 預測分數 | 0.9999 |
-| 證據等級 | L2 |
+| 證據等級 | 撤回：大腸腫瘤 (Colonic Neoplasm)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 6 張／共 6 張） |
 | 許可證數 | 6 張（有效單方 2／有效複方 4／已註銷 0） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L2→撤回（已核准用途，不列新適應症等級））。大腸腫瘤 (Colonic Neoplasm)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：oteracil 只以 S-1（tegafur／gimeracil／oteracil）複方上市；日本 S-1 添付文書的效能效果包括結腸・直腸癌。台灣 S-1 許可證只核准胃癌與胰臟癌，這筆是依「任一國核准」原則撤回。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ティーエスワン](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -154,11 +160,13 @@ Oteracil 本身無抗腫瘤活性，但它是抗腫瘤複方 S-1（氟化嘧啶�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 8 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 大腸腫瘤 (Colonic Neoplasm)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ティーエスワン](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 大腸腫瘤 (Colonic Neoplasm)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L2→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L2」→「證據等級／撤回：大腸腫瘤 (Colonic Neoplasm)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ティーエスワン](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

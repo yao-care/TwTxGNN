@@ -51,10 +51,16 @@ TxGNN 模型預測它對 **C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)
 | 原適應症 | 體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療 |
 | 預測新適應症 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency) |
 | TxGNN 預測分數 | 0.9999 |
-| 證據等級 | L1 |
+| 證據等級 | 撤回：C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L1→撤回（已核准用途，不列新適應症等級））。C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：icatibant 美國仿單核准用於遺傳性血管性水腫（HAE，即 C1 酯酶抑制劑缺乏）急性發作；台灣 2 張有效許可證的適應症原文就寫「體內 C1 酯酶抑制劑不足」的遺傳性血管性水腫急性發作。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03 -->
 
 ---
 
@@ -159,6 +165,19 @@ C1 酯酶抑制劑缺乏會使激肽釋放酶-激肽系統失控活化，造成�
 | 免疫介導壞死性肌病 (immune-mediated necrotizing myopathy) | 0.9906 | Hold |
 | 抗合成酶症候群 (antisynthetase syndrome) | 0.9902 | Hold |
 | 血小板無力症 (Glanzmann thrombasthenia) | 0.9900 | Hold |
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L1→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L1」→「證據等級／撤回：C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

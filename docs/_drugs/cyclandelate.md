@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 monitor_inn: "Cyclandelate"
 predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]
 description: "Cyclandelate：預測新適應症為Prinzmetal angina（證據等級 L5）。原適應症：末梢血管循環障礙"
@@ -103,7 +103,13 @@ TxGNN 模型預測它可能對**偏頭痛 (migraine disorder)** 有效，
 | 脊柱後側彎性心臟病 | 0.9936 | L5 | 無；連結屬推測 | Hold |
 | 良性前列腺增生 | 0.9908 | L5 | 無；缺乏相關標靶活性 | Hold |
 | 外生骨疣 | 0.9906 | L5 | 無；無合理機轉 | Hold |
-| 周邊血管疾病 | 0.9904 | L3 | 多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效 | Research Question |
+| 周邊血管疾病 | 0.9904 | 撤回（已核准用途，不列新適應症等級） | 多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效 | 撤回 |
+
+<!-- review:begin cyclandelate-peripheral-vascular-disease-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L3（本頁「其他預測適應症概況」表）→撤回（已核准用途，不列新適應症等級））。周邊血管疾病是本頁正文提到的預測，但它是已核准用途，不是新適應症：cyclandelate 在台灣唯一的有效許可證（衛署藥製字第001045號）適應症就是「末梢血管循環障礙」，歷年已註銷的許可證也多為同一適應症；國外屬已下市藥的歷史核准用途（周邊血管疾病／間歇性跛行），找不到可查證的現行英文官方仿單，排除表的國外出處待補。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測（國外現行官方仿單出處待補，見上）；本頁表格中該列的等級與建議改為撤回，模型預測原文保留不改寫。本頁「其他預測適應症概況」表周邊血管疾病列已依重審結果更新，原值列在下方查核紀錄。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end cyclandelate-peripheral-vascular-disease-known-use-rereview-result-2026-11-03 -->
 
 ## 台灣上市資訊
 
@@ -159,13 +165,15 @@ TxGNN 模型預測它可能對**偏頭痛 (migraine disorder)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表 5 張中 4 張已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原核准用於腦循環及末梢血管循環障礙」 | 報告重生後已無此錯誤（2026-10-15：一句話總結已改寫為「原本用於末梢血管循環障礙」；推論段「原適應症為末梢與腦循環障礙」由另一筆查核紀錄處理；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 預測理由稱原適應症含腦循環障礙 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 周邊血管疾病：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 周邊血管疾病預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3（本頁「其他預測適應症概況」表）→撤回（已核准用途，不列新適應症等級）；「其他預測適應症概況」表周邊血管疾病列：原「周邊血管疾病／0.9904／L3／多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效／Research Question」→「周邊血管疾病／0.9904／撤回（已核准用途，不列新適應症等級）／多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效／撤回」 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

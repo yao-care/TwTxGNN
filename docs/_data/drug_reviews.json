@@ -22209,7 +22209,35 @@
      "excerpt": "L1｜多個 Phase 3 RCT / 系統性回顧｜有 ≥2 個 Phase 3 試驗或系統性回顧",
      "accessed": "2026-10-16"
     }
-   ]
+   ],
+   "history": [
+    {
+     "id": "magnesium-sulfate-preeclampsia-rereview-2026-10-16",
+     "drug": "magnesium_sulfate",
+     "file": "magnesium_sulfate.md",
+     "checked": "2026-10-16",
+     "action": "rereview",
+     "section": "快速總覽「證據等級」",
+     "summary": "子癇前症／子癇 L1 標記待重審",
+     "claim": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
+     "prediction": "子癇前症／子癇 (preeclampsia/eclampsia)",
+     "status": "rereviewed",
+     "resolved_by": "magnesium-sulfate-preeclampsia-rereview-result-2026-10-16",
+     "note": "頁面把子癇前症／子癇評為 L1，但同一格自述「已完成的 Phase 3 RCT 不足 2 個」，文獻表也沒有系統性回顧，與研究方法的 L1 定義不一致，標記待重審。",
+     "finding": "證據等級格自述不足 2 個 Phase 3 RCT、文獻表無系統性回顧，卻評 L1。",
+     "sources": [
+      {
+       "title": "TwTxGNN 研究方法：證據等級判定",
+       "url": "https://twtxgnn.yao.care/methodology/",
+       "excerpt": "L1｜多個 Phase 3 RCT / 系統性回顧｜有 ≥2 個 Phase 3 試驗或系統性回顧",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "retired": "2026-11-03",
+     "reason": "2026-11-03 已核准用途撤回會改寫快速總覽「證據等級」格（本筆原錨點），錨點改到同表「預測新適應症」列；查核框位置與內容不變"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 妊娠毒血症 (toxemia of pregnancy) |"
   },
   {
    "id": "magnesium-sulfate-preeclampsia-rereview-result-2026-10-16",
@@ -22498,6 +22526,1855 @@
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-28",
    "resolved_note": "報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）"
+  },
+  {
+   "id": "alprostadil-tricuspid-valve-agenesis-known-use-rereview-2026-11-03",
+   "drug": "alprostadil",
+   "file": "alprostadil.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽之後（預測清單）",
+   "summary": "tricuspid valve agenesis（三尖瓣閉鎖）：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 主動脈畸形 (Aortic Malformation) |",
+   "anchor": "| 預測新適應症 | 主動脈畸形 (Aortic Malformation) |",
+   "prediction": "tricuspid valve agenesis（三尖瓣閉鎖）",
+   "status": "rereviewed",
+   "resolved_by": "alprostadil-tricuspid-valve-agenesis-known-use-rereview-result-2026-11-03",
+   "finding": "tricuspid valve agenesis（三尖瓣閉鎖）在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "tricuspid valve agenesis（三尖瓣閉鎖）在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3",
+     "excerpt": "or survival. Such congenital heart defects include pulmonary atresia, pulmonary stenosis, tricuspid atresia, tetralogy of Fallot, interruption of the aortic arch, coarctation of the aorta, or trans",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第042206號｜\"生達\"速暢注射劑５００微公絲/公撮（前列腺素Ｅ）｜主成分 ALPROSTADIL (PGE1)｜單方｜狀態 有效｜適應症：用於先天性心臟缺損之新生兒緩解但非最終的治療，此療法可暫時維持動脈導管之開放至嬌正手術施行為止。（先天性心臟缺損包括肺閉症、肺狹窄、三尖瓣閉鎖、法祿氏四疊症、主動脈弓中斷、主動脈狹窄或伴有無其他缺陷之大血管轉位）。；衛署藥輸字第017057號｜普洛舒定ＶＲ小兒用５００微克／亳升｜主成分 ALPROSTADIL (PGE1)｜單方｜狀態 有效｜適應症：用於先天性心臟缺損之新生兒緩解但非最終的治療，此療法可幾暫時維持動脈導管之開放至矯正手術施行為止，（先天性心臟缺損包括肺閉鎖，肺狹窄，三尖瓣閉鎖，法祿氏四疊症，主動脈弓中斷，主動脈狹窄或伴有無其它缺陷之大血管轉位",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "alprostadil-tricuspid-valve-agenesis-known-use-rereview-result-2026-11-03",
+   "drug": "alprostadil",
+   "file": "alprostadil.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "alprostadil-tricuspid-valve-agenesis-known-use-rereview-2026-11-03",
+   "summary": "tricuspid valve agenesis（三尖瓣閉鎖）預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 主動脈畸形 (Aortic Malformation) |",
+   "prediction": "tricuspid valve agenesis（三尖瓣閉鎖）",
+   "verdict": "withdraw",
+   "original_level": "本頁未列等級（僅在預測清單）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "本頁未列等級（僅在預測清單）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：tricuspid valve agenesis"
+   ],
+   "remaining_support": [],
+   "rationale": "tricuspid valve agenesis與已核准適應症是同一疾病（已核准：maintain ductus arteriosus patency in neonates with ductal-dependent CHD (incl. tricuspid atresia)）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "tricuspid valve agenesis（三尖瓣閉鎖）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：alprostadil 核准用於維持動脈導管開放的先天性心臟缺損新生兒，仿單列舉的缺損就包括三尖瓣閉鎖（tricuspid atresia）；台灣 2 張有效許可證的適應症原文同樣寫明「三尖瓣閉鎖」。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3",
+     "excerpt": "or survival. Such congenital heart defects include pulmonary atresia, pulmonary stenosis, tricuspid atresia, tetralogy of Fallot, interruption of the aortic arch, coarctation of the aorta, or trans",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第042206號｜\"生達\"速暢注射劑５００微公絲/公撮（前列腺素Ｅ）｜主成分 ALPROSTADIL (PGE1)｜單方｜狀態 有效｜適應症：用於先天性心臟缺損之新生兒緩解但非最終的治療，此療法可暫時維持動脈導管之開放至嬌正手術施行為止。（先天性心臟缺損包括肺閉症、肺狹窄、三尖瓣閉鎖、法祿氏四疊症、主動脈弓中斷、主動脈狹窄或伴有無其他缺陷之大血管轉位）。；衛署藥輸字第017057號｜普洛舒定ＶＲ小兒用５００微克／亳升｜主成分 ALPROSTADIL (PGE1)｜單方｜狀態 有效｜適應症：用於先天性心臟缺損之新生兒緩解但非最終的治療，此療法可幾暫時維持動脈導管之開放至矯正手術施行為止，（先天性心臟缺損包括肺閉鎖，肺狹窄，三尖瓣閉鎖，法祿氏四疊症，主動脈弓中斷，主動脈狹窄或伴有無其它缺陷之大血管轉位",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "tricuspid valve agenesis",
+     "drug": "alprostadil",
+     "approved_use": "maintain ductus arteriosus patency in neonates with ductal-dependent CHD (incl. tricuspid atresia)",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "| 預測新適應症 | 主動脈畸形 (Aortic Malformation) |"
+  },
+  {
+   "id": "betamethasone-alopecia-areata-known-use-rereview-2026-11-03",
+   "drug": "betamethasone",
+   "file": "betamethasone.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "斑禿 (Alopecia Areata)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 斑禿 (Alopecia Areata) |",
+   "anchor": "| 預測新適應症 | 斑禿 (Alopecia Areata) |",
+   "prediction": "斑禿 (Alopecia Areata)",
+   "status": "rereviewed",
+   "resolved_by": "betamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "finding": "斑禿 (Alopecia Areata)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "斑禿 (Alopecia Areata)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad",
+     "excerpt": "intralesional administration of CELESTONE SOLUSPAN Injectable Suspension is indicated for alopecia areata; discoid lupus erythematosus; keloids; localized hypertrophic, infiltrated, inflammatory",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "betamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "drug": "betamethasone",
+   "file": "betamethasone.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "betamethasone-alopecia-areata-known-use-rereview-2026-11-03",
+   "summary": "斑禿 (Alopecia Areata)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 斑禿 (Alopecia Areata) |",
+   "prediction": "斑禿 (Alopecia Areata)",
+   "verdict": "withdraw",
+   "original_level": "L2",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L2",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：alopecia areata"
+   ],
+   "remaining_support": [],
+   "rationale": "alopecia areata與已核准適應症是同一疾病（已核准：intralesional injection (e.g., Celestone Soluspan): alopecia areata）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "斑禿 (Alopecia Areata)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：betamethasone 注射懸浮液（Celestone Soluspan）美國仿單的病灶內注射適應症第一項就是斑禿。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad",
+     "excerpt": "intralesional administration of CELESTONE SOLUSPAN Injectable Suspension is indicated for alopecia areata; discoid lupus erythematosus; keloids; localized hypertrophic, infiltrated, inflammatory",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "alopecia areata",
+     "drug": "betamethasone",
+     "approved_use": "intralesional injection (e.g., Celestone Soluspan): alopecia areata",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L2 |",
+     "replacement": "| 證據等級 | 撤回：斑禿 (Alopecia Areata)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 斑禿 (Alopecia Areata) |"
+  },
+  {
+   "id": "choline-salicylate-rheumatoid-arthritis-known-use-rereview-2026-11-03",
+   "drug": "choline_salicylate",
+   "file": "choline_salicylate.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽之後（預測清單）",
+   "summary": "rheumatoid arthritis（類風濕性關節炎）：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 變異型心絞痛 (Prinzmetal angina) |",
+   "anchor": "| 預測新適應症 | 變異型心絞痛 (Prinzmetal angina) |",
+   "prediction": "rheumatoid arthritis（類風濕性關節炎）",
+   "status": "rereviewed",
+   "resolved_by": "choline-salicylate-rheumatoid-arthritis-known-use-rereview-result-2026-11-03",
+   "finding": "rheumatoid arthritis（類風濕性關節炎）在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "rheumatoid arthritis（類風濕性關節炎）在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第021417號｜蒙得莎凝膠｜主成分 CHOLINE SALICYLATE｜單方｜狀態 有效｜適應症：發炎、疼痛、單純疱瘡；衛署藥輸字第009882號｜水楊酸膽素８０％｜主成分 CHOLINE SALICYLATE｜單方｜狀態 已註銷｜適應症：解熱鎮痛劑；衛署藥輸字第011187號｜柳酸膽/｜主成分 CHOLINE SALICYLATE｜單方｜狀態 已註銷｜適應症：解熱、鎮痛劑（台灣沒有核准類風濕性關節炎的 choline salicylate 許可證；列出以說明查無現行仿單）",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "choline-salicylate-rheumatoid-arthritis-known-use-rereview-result-2026-11-03",
+   "drug": "choline_salicylate",
+   "file": "choline_salicylate.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "choline-salicylate-rheumatoid-arthritis-known-use-rereview-2026-11-03",
+   "summary": "rheumatoid arthritis（類風濕性關節炎）預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 變異型心絞痛 (Prinzmetal angina) |",
+   "prediction": "rheumatoid arthritis（類風濕性關節炎）",
+   "verdict": "withdraw",
+   "original_level": "本頁未列等級（僅在預測清單）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "本頁未列等級（僅在預測清單）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：rheumatoid arthritis"
+   ],
+   "remaining_support": [],
+   "rationale": "rheumatoid arthritis與已核准適應症是同一疾病（已核准：oral choline salicylate: rheumatoid arthritis, osteoarthritis）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。出處狀態：國外現行官方仿單出處待補（已下市藥／歷史核准）。",
+   "note": "rheumatoid arthritis（類風濕性關節炎）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：口服 choline salicylate（如美國的 Arthropan 口服液）過去核准用於類風濕性關節炎與骨關節炎，屬已下市藥的歷史核准用途；目前找不到可查證的現行官方仿單（美國 DailyMed 現存的 choline salicylate 產品都是 OTC 止痛複方，台灣有效許可證只有外用凝膠，口服原料藥「解熱鎮痛劑」許可證皆已註銷），出處待補。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測（國外現行官方仿單出處待補，見上）；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第021417號｜蒙得莎凝膠｜主成分 CHOLINE SALICYLATE｜單方｜狀態 有效｜適應症：發炎、疼痛、單純疱瘡；衛署藥輸字第009882號｜水楊酸膽素８０％｜主成分 CHOLINE SALICYLATE｜單方｜狀態 已註銷｜適應症：解熱鎮痛劑；衛署藥輸字第011187號｜柳酸膽/｜主成分 CHOLINE SALICYLATE｜單方｜狀態 已註銷｜適應症：解熱、鎮痛劑（台灣沒有核准類風濕性關節炎的 choline salicylate 許可證；列出以說明查無現行仿單）",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "DailyMed",
+     "query": "choline salicylate／choline magnesium trisalicylate × rheumatoid arthritis 仿單",
+     "result": "現存 choline salicylate 標示皆為 OTC 止痛或感冒複方（如 TEXACLEAR 系列），無類風濕性關節炎適應症；choline magnesium trisalicylate 查無現行 SPL（2026-11-03）。",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "rheumatoid arthritis",
+     "drug": "choline salicylate",
+     "approved_use": "oral choline salicylate: rheumatoid arthritis, osteoarthritis",
+     "relation": "同一疾病",
+     "source_pending": true
+    }
+   ],
+   "table_updates": [],
+   "anchor": "| 預測新適應症 | 變異型心絞痛 (Prinzmetal angina) |"
+  },
+  {
+   "id": "cyclandelate-peripheral-vascular-disease-known-use-rereview-2026-11-03",
+   "drug": "cyclandelate",
+   "file": "cyclandelate.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "正文",
+   "summary": "周邊血管疾病：疑為已核准用途，標記待重審",
+   "claim": "| 周邊血管疾病 | 0.9904 |",
+   "anchor": "| 周邊血管疾病 | 0.9904 |",
+   "prediction": "周邊血管疾病",
+   "status": "rereviewed",
+   "resolved_by": "cyclandelate-peripheral-vascular-disease-known-use-rereview-result-2026-11-03",
+   "finding": "周邊血管疾病在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "周邊血管疾病在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第001045號｜脈速朗膠囊｜主成分 CYCLANDELATE｜單方｜狀態 有效｜適應症：末梢血管循環障礙；衛署藥製字第003642號｜佳泌朗膠囊｜主成分 CYCLANDELATE｜單方｜狀態 已註銷｜適應症：末梢血管血行障礙",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "cyclandelate-peripheral-vascular-disease-known-use-rereview-result-2026-11-03",
+   "drug": "cyclandelate",
+   "file": "cyclandelate.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "cyclandelate-peripheral-vascular-disease-known-use-rereview-2026-11-03",
+   "summary": "周邊血管疾病預測重審結果（已核准用途，撤回）",
+   "claim": "| 周邊血管疾病 | 0.9904 |",
+   "prediction": "周邊血管疾病",
+   "verdict": "withdraw",
+   "original_level": "L3（本頁「其他預測適應症概況」表）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L3（本頁「其他預測適應症概況」表）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：peripheral vascular disease"
+   ],
+   "remaining_support": [],
+   "rationale": "peripheral vascular disease與已核准適應症是同一疾病（已核准：peripheral vascular disease / intermittent claudication (older labels)）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。出處狀態：國外現行官方仿單出處待補（已下市藥／歷史核准）。",
+   "note": "周邊血管疾病是本頁正文提到的預測，但它是已核准用途，不是新適應症：cyclandelate 在台灣唯一的有效許可證（衛署藥製字第001045號）適應症就是「末梢血管循環障礙」，歷年已註銷的許可證也多為同一適應症；國外屬已下市藥的歷史核准用途（周邊血管疾病／間歇性跛行），找不到可查證的現行英文官方仿單，排除表的國外出處待補。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測（國外現行官方仿單出處待補，見上）；本頁表格中該列的等級與建議改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第001045號｜脈速朗膠囊｜主成分 CYCLANDELATE｜單方｜狀態 有效｜適應症：末梢血管循環障礙；衛署藥製字第003642號｜佳泌朗膠囊｜主成分 CYCLANDELATE｜單方｜狀態 已註銷｜適應症：末梢血管血行障礙",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "peripheral vascular disease",
+     "drug": "cyclandelate",
+     "approved_use": "peripheral vascular disease / intermittent claudication (older labels)",
+     "relation": "同一疾病",
+     "source_pending": true
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "「其他預測適應症概況」表周邊血管疾病列",
+     "claim": "| 周邊血管疾病 | 0.9904 | L3 | 多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效 | Research Question |",
+     "replacement": "| 周邊血管疾病 | 0.9904 | 撤回（已核准用途，不列新適應症等級） | 多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效 | 撤回 |"
+    }
+   ],
+   "anchor": "| 周邊血管疾病 | 0.9904 |"
+  },
+  {
+   "id": "dexamethasone-alopecia-areata-known-use-rereview-2026-11-03",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "圓形禿 (Alopecia Areata)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |",
+   "anchor": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |",
+   "prediction": "圓形禿 (Alopecia Areata)",
+   "status": "rereviewed",
+   "resolved_by": "dexamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "finding": "圓形禿 (Alopecia Areata)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "圓形禿 (Alopecia Areata)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DEXAMETHASONE SODIUM PHOSPHATE INJECTION [HENRY SCHEIN, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9b935d5-1b4f-4a08-8d40-57f397368fef",
+     "excerpt": "hronicus (neurodermatitis) Discoid lupus erythematosus Necrobiosis lipoidica diabeticorum Alopecia areata They also may be useful in cystic tumors of an aponeurosis tendon (ganglia).",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "dexamethasone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "dexamethasone-alopecia-areata-known-use-rereview-2026-11-03",
+   "summary": "圓形禿 (Alopecia Areata)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |",
+   "prediction": "圓形禿 (Alopecia Areata)",
+   "verdict": "withdraw",
+   "original_level": "L2",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L2",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：alopecia areata"
+   ],
+   "remaining_support": [],
+   "rationale": "alopecia areata與已核准適應症是同一疾病（已核准：intralesional injection: alopecia areata, discoid lupus, keloids）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "圓形禿 (Alopecia Areata)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：dexamethasone 注射劑美國仿單的病灶內注射適應症包括斑禿（圓形禿）。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DEXAMETHASONE SODIUM PHOSPHATE INJECTION [HENRY SCHEIN, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9b935d5-1b4f-4a08-8d40-57f397368fef",
+     "excerpt": "hronicus (neurodermatitis) Discoid lupus erythematosus Necrobiosis lipoidica diabeticorum Alopecia areata They also may be useful in cystic tumors of an aponeurosis tendon (ganglia).",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "alopecia areata",
+     "drug": "dexamethasone",
+     "approved_use": "intralesional injection: alopecia areata, discoid lupus, keloids",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L2 |",
+     "replacement": "| 證據等級 | 撤回：圓形禿 (Alopecia Areata)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |"
+  },
+  {
+   "id": "dipyridamole-thrombotic-known-use-rereview-2026-11-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "血栓性疾病 (thrombotic disease)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 血栓性疾病 (thrombotic disease) |",
+   "anchor": "| 預測新適應症 | 血栓性疾病 (thrombotic disease) |",
+   "prediction": "血栓性疾病 (thrombotic disease)",
+   "status": "rereviewed",
+   "resolved_by": "dipyridamole-thrombotic-known-use-rereview-result-2026-11-03",
+   "finding": "血栓性疾病 (thrombotic disease)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "血栓性疾病 (thrombotic disease)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5",
+     "excerpt": "are indicated as an adjunct to coumarin anticoagulants in the prevention of postoperative thromboembolic complications of cardiac valve replacement.",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "dipyridamole-thrombotic-known-use-rereview-result-2026-11-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "dipyridamole-thrombotic-known-use-rereview-2026-11-03",
+   "summary": "血栓性疾病 (thrombotic disease)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 血栓性疾病 (thrombotic disease) |",
+   "prediction": "血栓性疾病 (thrombotic disease)",
+   "verdict": "withdraw",
+   "original_level": "L5",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L5",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：thrombotic disease"
+   ],
+   "remaining_support": [],
+   "rationale": "thrombotic disease是已核准適應症的上位概念（已核准的疾病屬於它的下位）（已核准：prophylaxis of thromboembolism after valve replacement; stroke prevention (with aspirin)）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "血栓性疾病 (thrombotic disease)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：dipyridamole 美國仿單核准作為 coumarin 類抗凝血劑的輔助，預防心臟瓣膜置換術後的血栓栓塞併發症；「血栓性疾病」是這個已核准用途的上位概念。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5",
+     "excerpt": "are indicated as an adjunct to coumarin anticoagulants in the prevention of postoperative thromboembolic complications of cardiac valve replacement.",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "thrombotic disease",
+     "drug": "dipyridamole",
+     "approved_use": "prophylaxis of thromboembolism after valve replacement; stroke prevention (with aspirin)",
+     "relation": "上位概念（已核准者為其下位）",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L5 |",
+     "replacement": "| 證據等級 | 撤回：血栓性疾病 (thrombotic disease)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Hold |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 血栓性疾病 (thrombotic disease) |"
+  },
+  {
+   "id": "dipyridamole-tia-known-use-rereview-2026-11-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "正文",
+   "summary": "暫時性腦缺血發作 (TIA)：疑為已核准用途，標記待重審",
+   "claim": "此方向的整體證據明顯強於「血栓性疾病」，可作為後續優先評估對象。",
+   "anchor": "此方向的整體證據明顯強於「血栓性疾病」，可作為後續優先評估對象。",
+   "prediction": "暫時性腦缺血發作 (TIA)",
+   "status": "rereviewed",
+   "resolved_by": "dipyridamole-tia-known-use-rereview-result-2026-11-03",
+   "finding": "暫時性腦缺血發作 (TIA)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "暫時性腦缺血發作 (TIA)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "UK SmPC (emc)：Attia 200 mg Modified-Release Capsules, Hard - Summary of Product Characteristics (SmPC) - (emc) | 3472",
+     "url": "https://www.medicines.org.uk/emc/product/3472/smpc",
+     "excerpt": "4.1 Therapeutic indications • Secondary prevention of ischaemic stroke and transient ischaemic attacks either alone or in conjunction with aspirin. • An adjunct to oral anti-coagu",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "dipyridamole-tia-known-use-rereview-result-2026-11-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "dipyridamole-tia-known-use-rereview-2026-11-03",
+   "summary": "暫時性腦缺血發作 (TIA)預測重審結果（已核准用途，撤回）",
+   "claim": "此方向的整體證據明顯強於「血栓性疾病」，可作為後續優先評估對象。",
+   "prediction": "暫時性腦缺血發作 (TIA)",
+   "verdict": "withdraw",
+   "original_level": "本頁未列等級（「補充：暫時性腦缺血發作 (TIA) 方向」段）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "本頁未列等級（「補充：暫時性腦缺血發作 (TIA) 方向」段）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：transient ischemic attack (disease)"
+   ],
+   "remaining_support": [],
+   "rationale": "transient ischemic attack (disease)與已核准適應症是同一疾病（已核准：with aspirin: reduce risk of stroke after TIA/ischemic stroke）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "暫時性腦缺血發作 (TIA)是本頁正文提到的預測，但它是已核准用途，不是新適應症：dipyridamole 英國 SmPC 的適應症第一項是缺血性中風與暫時性腦缺血發作的次級預防（單用或併用 aspirin）；美國則以 aspirin／dipyridamole 複方（Aggrenox）核准。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "UK SmPC (emc)：Attia 200 mg Modified-Release Capsules, Hard - Summary of Product Characteristics (SmPC) - (emc) | 3472",
+     "url": "https://www.medicines.org.uk/emc/product/3472/smpc",
+     "excerpt": "4.1 Therapeutic indications • Secondary prevention of ischaemic stroke and transient ischaemic attacks either alone or in conjunction with aspirin. • An adjunct to oral anti-coagu",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "transient ischemic attack (disease)",
+     "drug": "dipyridamole",
+     "approved_use": "with aspirin: reduce risk of stroke after TIA/ischemic stroke",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "此方向的整體證據明顯強於「血栓性疾病」，可作為後續優先評估對象。"
+  },
+  {
+   "id": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-2026-11-03",
+   "drug": "ferrous_gluconate",
+   "file": "ferrous_gluconate.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | Plummer-Vinson 症候群 (Plummer-Vinson syndrome) |",
+   "anchor": "| 預測新適應症 | Plummer-Vinson 症候群 (Plummer-Vinson syndrome) |",
+   "prediction": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)",
+   "status": "rereviewed",
+   "resolved_by": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-result-2026-11-03",
+   "finding": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "內衛藥製字第002605號｜葡萄糖酸鐵糖衣錠｜主成分 FERROUS GLUCONATE｜單方｜狀態 有效｜適應症：各種鐵缺乏性貧血症",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-result-2026-11-03",
+   "drug": "ferrous_gluconate",
+   "file": "ferrous_gluconate.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-2026-11-03",
+   "summary": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | Plummer-Vinson 症候群 (Plummer-Vinson syndrome) |",
+   "prediction": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)",
+   "verdict": "withdraw",
+   "original_level": "L5",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L5",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：Plummer-Vinson syndrome"
+   ],
+   "remaining_support": [],
+   "rationale": "Plummer-Vinson syndrome是已核准適應症的一種表現（已核准：iron deficiency anemia）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。出處狀態：國外現行官方仿單出處待補（已下市藥／歷史核准）。",
+   "note": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：Plummer-Vinson 症候群的核心是缺鐵性貧血（合併食道蹼與吞嚥困難），補鐵是其標準處置；ferrous gluconate 的核准適應症就是鐵缺乏性貧血，台灣有效單方許可證（內衛藥製字第002605號）適應症為「各種鐵缺乏性貧血症」。這筆預測是已核准適應症的一種表現；國外口服鐵劑多為 OTC 或膳食補充品標示，找不到以 Plummer-Vinson 症候群為名的現行官方仿單，排除表的國外出處待補。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測（國外現行官方仿單出處待補，見上）；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "內衛藥製字第002605號｜葡萄糖酸鐵糖衣錠｜主成分 FERROUS GLUCONATE｜單方｜狀態 有效｜適應症：各種鐵缺乏性貧血症",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "Plummer-Vinson syndrome",
+     "drug": "ferrous gluconate",
+     "approved_use": "iron deficiency anemia",
+     "relation": "已核准疾病的表現",
+     "source_pending": true
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L5（僅有模型預測；另有機轉層面的推論） |",
+     "replacement": "| 證據等級 | 撤回：Plummer-Vinson 症候群 (Plummer-Vinson syndrome)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Hold |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | Plummer-Vinson 症候群 (Plummer-Vinson syndrome) |"
+  },
+  {
+   "id": "hyaluronic-acid-dry-eye-syndrome-known-use-rereview-2026-11-03",
+   "drug": "hyaluronic_acid",
+   "file": "hyaluronic_acid.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "乾眼症 (Dry Eye Syndrome)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 乾眼症 (Dry Eye Syndrome) |",
+   "anchor": "| 預測新適應症 | 乾眼症 (Dry Eye Syndrome) |",
+   "prediction": "乾眼症 (Dry Eye Syndrome)",
+   "status": "rereviewed",
+   "resolved_by": "hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03",
+   "finding": "乾眼症 (Dry Eye Syndrome)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "乾眼症 (Dry Eye Syndrome)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ヒアレイン",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059034",
+     "excerpt": "1319720Q5038 28.9円／個 4. 効能または効果 下記疾患に伴う角結膜上皮障害 ○ シェーグレン症候群 、 スティーブンス・ジョンソン症候群 、 眼球乾燥症候群 （ ドライアイ ）等の内因性疾患 ○術後、薬剤性、外傷、コンタクトレンズ装用等による外因性疾患 6. 用法及び用量 1回1滴、1日5〜6回点眼し、症状により適宜増減する。 なお、通常は0.1％製",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03",
+   "drug": "hyaluronic_acid",
+   "file": "hyaluronic_acid.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "hyaluronic-acid-dry-eye-syndrome-known-use-rereview-2026-11-03",
+   "summary": "乾眼症 (Dry Eye Syndrome)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 乾眼症 (Dry Eye Syndrome) |",
+   "prediction": "乾眼症 (Dry Eye Syndrome)",
+   "verdict": "withdraw",
+   "original_level": "L2",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L2",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：dry eye syndrome"
+   ],
+   "remaining_support": [],
+   "rationale": "dry eye syndrome與已核准適應症是同一疾病（已核准：ophthalmic: dry eye / keratoconjunctival epithelial disorders）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "乾眼症 (Dry Eye Syndrome)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：玻尿酸鈉點眼液（ヒアレイン）日本添付文書的效能效果為伴隨乾眼症（眼球乾燥症候群）等疾病的角結膜上皮障害；美國的玻尿酸點眼屬醫療器材，未以藥品核准。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ヒアレイン",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059034",
+     "excerpt": "1319720Q5038 28.9円／個 4. 効能または効果 下記疾患に伴う角結膜上皮障害 ○ シェーグレン症候群 、 スティーブンス・ジョンソン症候群 、 眼球乾燥症候群 （ ドライアイ ）等の内因性疾患 ○術後、薬剤性、外傷、コンタクトレンズ装用等による外因性疾患 6. 用法及び用量 1回1滴、1日5〜6回点眼し、症状により適宜増減する。 なお、通常は0.1％製",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "dry eye syndrome",
+     "drug": "hyaluronic acid",
+     "approved_use": "ophthalmic: dry eye / keratoconjunctival epithelial disorders",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L2（有 1 個已完成的 Phase 3 RCT，另有多篇統合分析與 RCT 文獻） |",
+     "replacement": "| 證據等級 | 撤回：乾眼症 (Dry Eye Syndrome)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 乾眼症 (Dry Eye Syndrome) |"
+  },
+  {
+   "id": "hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-2026-11-03",
+   "drug": "hydroxyprogesterone_caproate",
+   "file": "hydroxyprogesterone_caproate.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "正文",
+   "summary": "子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)：疑為已核准用途，標記待重審",
+   "claim": "另外，同一批預測中，子宮體癌與子宮內膜癌雖有較多早期文獻（L3）",
+   "anchor": "另外，同一批預測中，子宮體癌與子宮內膜癌雖有較多早期文獻（L3）",
+   "prediction": "子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)",
+   "status": "rereviewed",
+   "resolved_by": "hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-result-2026-11-03",
+   "finding": "子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df",
+     "excerpt": "P is indicated in non-pregnant women: for the treatment of advanced adenocarcinoma of the uterine corpus (Stage III or IV); in the management of amenorrhea (primary and secondary) and abnormal u",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-result-2026-11-03",
+   "drug": "hydroxyprogesterone_caproate",
+   "file": "hydroxyprogesterone_caproate.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-2026-11-03",
+   "summary": "子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)預測重審結果（已核准用途，撤回）",
+   "claim": "另外，同一批預測中，子宮體癌與子宮內膜癌雖有較多早期文獻（L3）",
+   "prediction": "子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)",
+   "verdict": "withdraw",
+   "original_level": "L3（本頁「為什麼這個預測合理」段的敘述）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L3（本頁「為什麼這個預測合理」段的敘述）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：uterine corpus cancer",
+    "把已核准用途當成新適應症預測：endometrial cancer"
+   ],
+   "remaining_support": [],
+   "rationale": "uterine corpus cancer與已核准適應症是同一疾病（已核准：generic HPC label: advanced adenocarcinoma of uterine corpus (stage III/IV)）；endometrial cancer與已核准適應症是同一疾病（已核准：generic HPC label: advanced adenocarcinoma of uterine corpus）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)是本頁正文提到的預測，但它是已核准用途，不是新適應症：hydroxyprogesterone caproate 學名藥美國仿單核准用於非懷孕婦女的晚期子宮體腺癌（第 III、IV 期）治療；子宮內膜癌即子宮體腺癌。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df",
+     "excerpt": "P is indicated in non-pregnant women: for the treatment of advanced adenocarcinoma of the uterine corpus (Stage III or IV); in the management of amenorrhea (primary and secondary) and abnormal u",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "uterine corpus cancer",
+     "drug": "hydroxyprogesterone caproate",
+     "approved_use": "generic HPC label: advanced adenocarcinoma of uterine corpus (stage III/IV)",
+     "relation": "同一疾病",
+     "source_pending": false
+    },
+    {
+     "predicted": "endometrial cancer",
+     "drug": "hydroxyprogesterone caproate",
+     "approved_use": "generic HPC label: advanced adenocarcinoma of uterine corpus",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "另外，同一批預測中，子宮體癌與子宮內膜癌雖有較多早期文獻（L3）"
+  },
+  {
+   "id": "hydroxyurea-sickle-cell-beta-thalassemia-disease-syn-known-use-rereview-2026-11-03",
+   "drug": "hydroxyurea",
+   "file": "hydroxyurea.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "正文",
+   "summary": "鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease：疑為已核准用途，標記待重審",
+   "claim": "**其他預測的參考：** 在同一批預測中，**鐮狀細胞-血紅素 C 病 (HbSC)**",
+   "anchor": "**其他預測的參考：** 在同一批預測中，**鐮狀細胞-血紅素 C 病 (HbSC)**",
+   "prediction": "鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease",
+   "status": "rereviewed",
+   "resolved_by": "hydroxyurea-sickle-cell-beta-thalassemia-disease-syn-known-use-rereview-result-2026-11-03",
+   "finding": "鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "EMA EPAR：EMA EPAR siklos",
+     "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/siklos",
+     "excerpt": "eatment with Siklos should be started by a doctor who has experience in the management of sickle cell syndrome. Siklos is taken once a day, preferably in the morning before breakfast. The starting dos",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "hydroxyurea-sickle-cell-beta-thalassemia-disease-syn-known-use-rereview-result-2026-11-03",
+   "drug": "hydroxyurea",
+   "file": "hydroxyurea.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "hydroxyurea-sickle-cell-beta-thalassemia-disease-syn-known-use-rereview-2026-11-03",
+   "summary": "鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease預測重審結果（已核准用途，撤回）",
+   "claim": "**其他預測的參考：** 在同一批預測中，**鐮狀細胞-血紅素 C 病 (HbSC)**",
+   "prediction": "鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease",
+   "verdict": "withdraw",
+   "original_level": "HbSC L2（本頁「其他預測的參考」段的敘述）；另兩項本頁未列等級",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "HbSC L2（本頁「其他預測的參考」段的敘述）；另兩項本頁未列等級",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：sickle cell-beta-thalassemia disease syndrome",
+    "把已核准用途當成新適應症預測：sickle cell-hemoglobin c disease syndrome",
+    "把已核准用途當成新適應症預測：sickle cell-hemoglobin d disease syndrome"
+   ],
+   "remaining_support": [],
+   "rationale": "sickle cell-beta-thalassemia disease syndrome是已核准適應症的亞型（已核准：sickle cell anemia / sickle cell syndrome (EU Siklos incl. compound genotypes)）；sickle cell-hemoglobin c disease syndrome是已核准適應症的亞型（已核准：sickle cell syndrome (EU Siklos)）；sickle cell-hemoglobin d disease syndrome是已核准適應症的亞型（已核准：sickle cell syndrome (EU Siklos)）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease是本頁正文提到的預測，但它是已核准用途，不是新適應症：hydroxyurea 歐盟（Siklos）核准用於鐮狀細胞症候群（sickle cell syndrome，含 HbSC、HbS/β-地中海貧血等複合基因型），美國核准用於鐮狀細胞貧血；這三項都是已核准疾病的亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "EMA EPAR：EMA EPAR siklos",
+     "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/siklos",
+     "excerpt": "eatment with Siklos should be started by a doctor who has experience in the management of sickle cell syndrome. Siklos is taken once a day, preferably in the morning before breakfast. The starting dos",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "sickle cell-beta-thalassemia disease syndrome",
+     "drug": "hydroxyurea",
+     "approved_use": "sickle cell anemia / sickle cell syndrome (EU Siklos incl. compound genotypes)",
+     "relation": "下位／亞型",
+     "source_pending": false
+    },
+    {
+     "predicted": "sickle cell-hemoglobin c disease syndrome",
+     "drug": "hydroxyurea",
+     "approved_use": "sickle cell syndrome (EU Siklos)",
+     "relation": "下位／亞型",
+     "source_pending": false
+    },
+    {
+     "predicted": "sickle cell-hemoglobin d disease syndrome",
+     "drug": "hydroxyurea",
+     "approved_use": "sickle cell syndrome (EU Siklos)",
+     "relation": "下位／亞型",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "**其他預測的參考：** 在同一批預測中，**鐮狀細胞-血紅素 C 病 (HbSC)**"
+  },
+  {
+   "id": "icatibant-c1-inhibitor-deficiency-known-use-rereview-2026-11-03",
+   "drug": "icatibant",
+   "file": "icatibant.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency) |",
+   "anchor": "| 預測新適應症 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency) |",
+   "prediction": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)",
+   "status": "rereviewed",
+   "resolved_by": "icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03",
+   "finding": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540",
+     "excerpt": "ATIONS AND USAGE FIRAZYR ® (icatibant) is indicated for the treatment of acute attacks of hereditary angioedema (HAE) in adults 18 years of age and older. FIRAZYR is a bradykinin B2 receptor antagonist",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部罕藥製字第000021號｜益康倍注射劑｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。；衛部罕藥輸字第000066號｜凡得適注射劑30毫克｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "icatibant-c1-inhibitor-deficiency-known-use-rereview-result-2026-11-03",
+   "drug": "icatibant",
+   "file": "icatibant.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "icatibant-c1-inhibitor-deficiency-known-use-rereview-2026-11-03",
+   "summary": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency) |",
+   "prediction": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)",
+   "verdict": "withdraw",
+   "original_level": "L1",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L1",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：C1 inhibitor deficiency"
+   ],
+   "remaining_support": [],
+   "rationale": "C1 inhibitor deficiency與已核准適應症是同一疾病（已核准：hereditary angioedema (C1-INH deficiency)）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：icatibant 美國仿單核准用於遺傳性血管性水腫（HAE，即 C1 酯酶抑制劑缺乏）急性發作；台灣 2 張有效許可證的適應症原文就寫「體內 C1 酯酶抑制劑不足」的遺傳性血管性水腫急性發作。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540",
+     "excerpt": "ATIONS AND USAGE FIRAZYR ® (icatibant) is indicated for the treatment of acute attacks of hereditary angioedema (HAE) in adults 18 years of age and older. FIRAZYR is a bradykinin B2 receptor antagonist",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛部罕藥製字第000021號｜益康倍注射劑｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。；衛部罕藥輸字第000066號｜凡得適注射劑30毫克｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "C1 inhibitor deficiency",
+     "drug": "icatibant",
+     "approved_use": "hereditary angioedema (C1-INH deficiency)",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L1 |",
+     "replacement": "| 證據等級 | 撤回：C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency) |"
+  },
+  {
+   "id": "magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-2026-11-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "妊娠毒血症 (toxemia of pregnancy)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 妊娠毒血症 (toxemia of pregnancy) |",
+   "anchor": "| 預測新適應症 | 妊娠毒血症 (toxemia of pregnancy) |",
+   "prediction": "妊娠毒血症 (toxemia of pregnancy)",
+   "status": "rereviewed",
+   "resolved_by": "magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-result-2026-11-03",
+   "finding": "妊娠毒血症 (toxemia of pregnancy)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "妊娠毒血症 (toxemia of pregnancy)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc",
+     "excerpt": "gnesium sulfate injection is also indicated for the prevention and control of seizures in pre-eclampsia and eclampsia, respectively.",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第004771號｜硫酸鎂注射液｜主成分 MAGNESIUM SULFATE 7H2O｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充；衛署藥製字第038935號｜〝中國化學〞硫酸鎂注射液１００公絲/公撮｜主成分 MAGNESIUM SULFATE 7H2O｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充；衛部藥製字第062091號｜美我欣注射液100毫克/毫升｜主成分 MAGNESIUM SULFATE HEPTAHYDRATE｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉補助；體內鎂離子缺乏時之補充。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-result-2026-11-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "magnesium-sulfate-toxemia-of-pregnancy-known-use-rereview-2026-11-03",
+   "summary": "妊娠毒血症 (toxemia of pregnancy)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 妊娠毒血症 (toxemia of pregnancy) |",
+   "prediction": "妊娠毒血症 (toxemia of pregnancy)",
+   "verdict": "withdraw",
+   "original_level": "L1",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L1",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：toxemia of pregnancy"
+   ],
+   "remaining_support": [],
+   "rationale": "toxemia of pregnancy與已核准適應症是同一疾病（已核准：prevention/control of seizures in pre-eclampsia and eclampsia）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "妊娠毒血症 (toxemia of pregnancy)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：硫酸鎂注射液美國仿單核准用於子癇前症的抽搐預防與子癇的抽搐控制；台灣有效許可證的適應症原文就是「子癇症、子癇前症、妊娠毒血症」。2026-10-16 的重審已註明這筆預測屬既有用途的再確認。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc",
+     "excerpt": "gnesium sulfate injection is also indicated for the prevention and control of seizures in pre-eclampsia and eclampsia, respectively.",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第004771號｜硫酸鎂注射液｜主成分 MAGNESIUM SULFATE 7H2O｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充；衛署藥製字第038935號｜〝中國化學〞硫酸鎂注射液１００公絲/公撮｜主成分 MAGNESIUM SULFATE 7H2O｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充；衛部藥製字第062091號｜美我欣注射液100毫克/毫升｜主成分 MAGNESIUM SULFATE HEPTAHYDRATE｜單方｜狀態 有效｜適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉補助；體內鎂離子缺乏時之補充。",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "toxemia of pregnancy",
+     "drug": "magnesium sulfate",
+     "approved_use": "prevention/control of seizures in pre-eclampsia and eclampsia",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L1（資料彙整評級；已完成的 Phase 3 RCT 不足 2 個，但有已完成的 Phase 2/3 RCT 及多項 Phase 4 RCT，且臨床上為標準療法） |",
+     "replacement": "| 證據等級 | 撤回：妊娠毒血症 (toxemia of pregnancy)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 妊娠毒血症 (toxemia of pregnancy) |"
+  },
+  {
+   "id": "methylprednisolone-alopecia-areata-known-use-rereview-2026-11-03",
+   "drug": "methylprednisolone",
+   "file": "methylprednisolone.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "圓形禿 (Alopecia Areata)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |",
+   "anchor": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |",
+   "prediction": "圓形禿 (Alopecia Areata)",
+   "status": "rereviewed",
+   "resolved_by": "methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "finding": "圓形禿 (Alopecia Areata)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "圓形禿 (Alopecia Areata)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8",
+     "excerpt": "is. C. For Intralesional Administration DEPO-MEDROL is indicated for intralesional use in alopecia areata, discoid lupus erythematosus; keloids, localized hypertrophic, infiltrated inflammatory l",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03",
+   "drug": "methylprednisolone",
+   "file": "methylprednisolone.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "methylprednisolone-alopecia-areata-known-use-rereview-2026-11-03",
+   "summary": "圓形禿 (Alopecia Areata)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |",
+   "prediction": "圓形禿 (Alopecia Areata)",
+   "verdict": "withdraw",
+   "original_level": "L3",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L3",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：alopecia areata"
+   ],
+   "remaining_support": [],
+   "rationale": "alopecia areata與已核准適應症是同一疾病（已核准：intralesional acetate injection (Depo-Medrol): alopecia areata）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "圓形禿 (Alopecia Areata)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：methylprednisolone acetate 注射懸浮液（Depo-Medrol）美國仿單的病灶內注射適應症包括斑禿（圓形禿）。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8",
+     "excerpt": "is. C. For Intralesional Administration DEPO-MEDROL is indicated for intralesional use in alopecia areata, discoid lupus erythematosus; keloids, localized hypertrophic, infiltrated inflammatory l",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "alopecia areata",
+     "drug": "methylprednisolone",
+     "approved_use": "intralesional acetate injection (Depo-Medrol): alopecia areata",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L3 |",
+     "replacement": "| 證據等級 | 撤回：圓形禿 (Alopecia Areata)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 圓形禿 (Alopecia Areata) |"
+  },
+  {
+   "id": "mitomycin-pancreatic-intraductal-papillary-mucinou-known-use-rereview-2026-11-03",
+   "drug": "mitomycin",
+   "file": "mitomycin.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽之後（預測清單）",
+   "summary": "pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 胰臟實體假乳突癌 (Solid Pseudopapillary Carcinoma of Pancreas) |",
+   "anchor": "| 預測新適應症 | 胰臟實體假乳突癌 (Solid Pseudopapillary Carcinoma of Pancreas) |",
+   "prediction": "pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm",
+   "status": "rereviewed",
+   "resolved_by": "mitomycin-pancreatic-intraductal-papillary-mucinou-known-use-rereview-result-2026-11-03",
+   "finding": "pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f",
+     "excerpt": "s been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative tre",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "mitomycin-pancreatic-intraductal-papillary-mucinou-known-use-rereview-result-2026-11-03",
+   "drug": "mitomycin",
+   "file": "mitomycin.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "mitomycin-pancreatic-intraductal-papillary-mucinou-known-use-rereview-2026-11-03",
+   "summary": "pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 胰臟實體假乳突癌 (Solid Pseudopapillary Carcinoma of Pancreas) |",
+   "prediction": "pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm",
+   "verdict": "withdraw",
+   "original_level": "本頁未列等級（僅在預測清單）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "本頁未列等級（僅在預測清單）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：pancreatic intraductal papillary-mucinous carcinoma",
+    "把已核准用途當成新適應症預測：pancreatic signet ring cell adenocarcinoma",
+    "把已核准用途當成新適應症預測：malignant exocrine pancreas neoplasm"
+   ],
+   "remaining_support": [],
+   "rationale": "pancreatic intraductal papillary-mucinous carcinoma是已核准適應症的亞型（已核准：disseminated adenocarcinoma of pancreas）；pancreatic signet ring cell adenocarcinoma是已核准適應症的亞型（已核准：disseminated adenocarcinoma of pancreas）；malignant exocrine pancreas neoplasm與已核准適應症是同一疾病（已核准：disseminated adenocarcinoma of stomach or pancreas）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：mitomycin 美國仿單核准用於播散性胃腺癌或胰臟腺癌（與其他核准化療併用）；胰臟外分泌惡性腫瘤與胰臟腺癌是同一疾病，導管內乳突黏液性癌與印戒細胞腺癌是胰臟腺癌的亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f",
+     "excerpt": "s been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative tre",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "pancreatic intraductal papillary-mucinous carcinoma",
+     "drug": "mitomycin",
+     "approved_use": "disseminated adenocarcinoma of pancreas",
+     "relation": "下位／亞型",
+     "source_pending": false
+    },
+    {
+     "predicted": "pancreatic signet ring cell adenocarcinoma",
+     "drug": "mitomycin",
+     "approved_use": "disseminated adenocarcinoma of pancreas",
+     "relation": "下位／亞型",
+     "source_pending": false
+    },
+    {
+     "predicted": "malignant exocrine pancreas neoplasm",
+     "drug": "mitomycin",
+     "approved_use": "disseminated adenocarcinoma of stomach or pancreas",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "| 預測新適應症 | 胰臟實體假乳突癌 (Solid Pseudopapillary Carcinoma of Pancreas) |"
+  },
+  {
+   "id": "nystatin-vulvovaginitis-known-use-rereview-2026-11-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "外陰陰道炎 (Vulvovaginitis)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |",
+   "anchor": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |",
+   "prediction": "外陰陰道炎 (Vulvovaginitis)",
+   "status": "rereviewed",
+   "resolved_by": "nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "finding": "外陰陰道炎 (Vulvovaginitis)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "外陰陰道炎 (Vulvovaginitis)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第014596號｜\"永信\"寧司泰定陰道錠｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌所引起之陰道感染症；衛署藥製字第027557號｜\"生達\" 速淨陰道錠１０萬單位（耐絲菌素）｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症；衛署藥製字第034585號｜\"衛達\"妳達新陰道栓劑｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌感染引起之陰道炎。；衛署藥製字第057924號｜婦可安陰道錠10萬單位(耐絲菌素)｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "nystatin-vulvovaginitis-known-use-rereview-2026-11-03",
+   "summary": "外陰陰道炎 (Vulvovaginitis)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |",
+   "prediction": "外陰陰道炎 (Vulvovaginitis)",
+   "verdict": "withdraw",
+   "original_level": "L3",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L3",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：vulvovaginitis"
+   ],
+   "remaining_support": [],
+   "rationale": "vulvovaginitis是已核准適應症的上位概念（已核准的疾病屬於它的下位）（已核准：vaginal candidiasis）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。出處狀態：國外現行官方仿單出處待補（已下市藥／歷史核准）。",
+   "note": "外陰陰道炎 (Vulvovaginitis)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：nystatin 陰道錠／栓劑在台灣核准用於念珠菌引起的陰道感染，4 張有效單方許可證仍在（例如衛署藥製字第034585號「念珠菌感染引起之陰道炎」）；外陰陰道炎是陰道念珠菌感染的上位概念。國外（英、美）的 nystatin 陰道製劑已下市，找不到現行英文官方仿單，排除表的國外出處待補。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測（國外現行官方仿單出處待補，見上）；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第014596號｜\"永信\"寧司泰定陰道錠｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌所引起之陰道感染症；衛署藥製字第027557號｜\"生達\" 速淨陰道錠１０萬單位（耐絲菌素）｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症；衛署藥製字第034585號｜\"衛達\"妳達新陰道栓劑｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌感染引起之陰道炎。；衛署藥製字第057924號｜婦可安陰道錠10萬單位(耐絲菌素)｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症。",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "vulvovaginitis",
+     "drug": "nystatin",
+     "approved_use": "vaginal candidiasis",
+     "relation": "上位概念（已核准者為其下位）",
+     "source_pending": true
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L3 |",
+     "replacement": "| 證據等級 | 撤回：外陰陰道炎 (Vulvovaginitis)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |"
+  },
+  {
+   "id": "omalizumab-obstructive-lung-disease-known-use-rereview-2026-11-03",
+   "drug": "omalizumab",
+   "file": "omalizumab.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽之後（預測清單）",
+   "summary": "obstructive lung disease（阻塞性肺病）：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 支氣管炎 (Bronchitis) |",
+   "anchor": "| 預測新適應症 | 支氣管炎 (Bronchitis) |",
+   "prediction": "obstructive lung disease（阻塞性肺病）",
+   "status": "rereviewed",
+   "resolved_by": "omalizumab-obstructive-lung-disease-known-use-rereview-result-2026-11-03",
+   "finding": "obstructive lung disease（阻塞性肺病）在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "obstructive lung disease（阻塞性肺病）在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+     "excerpt": "ONS AND USAGE XOLAIR is an anti-IgE antibody indicated for: Moderate to severe persistent asthma in adults and pediatric patients 6 years of age and older with a positive skin test or in",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署菌疫輸字第000835號｜喜瑞樂凍晶注射劑150毫克｜主成分 OMALIZUMAB｜單方｜狀態 有效｜適應症：1.過敏性氣喘附加療法： 為附加療法用於改善已接受高劑量吸入性類固醇製劑及長效乙二型作用劑(ß2-agonist)治療下仍有頻繁之日間症狀或夜間覺醒且具有多次重度氣喘惡化記錄之重度持續過敏性氣喘成人、青少年及兒童(6歲及以上) 病人之氣喘控制。這些氣喘病人必須有經由皮膚測試或體外試驗顯示長期對空氣中過敏原呈陽性且肺功能降低 (FEV1 < 80%)。僅適用於證實為IgE媒介型之氣喘病人。 2.慢性",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "omalizumab-obstructive-lung-disease-known-use-rereview-result-2026-11-03",
+   "drug": "omalizumab",
+   "file": "omalizumab.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "omalizumab-obstructive-lung-disease-known-use-rereview-2026-11-03",
+   "summary": "obstructive lung disease（阻塞性肺病）預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 支氣管炎 (Bronchitis) |",
+   "prediction": "obstructive lung disease（阻塞性肺病）",
+   "verdict": "withdraw",
+   "original_level": "本頁未列等級（僅在預測清單）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "本頁未列等級（僅在預測清單）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：obstructive lung disease"
+   ],
+   "remaining_support": [],
+   "rationale": "obstructive lung disease是已核准適應症的上位概念（已核准的疾病屬於它的下位）（已核准：asthma and/or COPD）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "obstructive lung disease（阻塞性肺病）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：omalizumab 美國仿單與台灣有效許可證都核准用於中重度持續性過敏性氣喘；阻塞性肺病是氣喘的上位概念。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+     "excerpt": "ONS AND USAGE XOLAIR is an anti-IgE antibody indicated for: Moderate to severe persistent asthma in adults and pediatric patients 6 years of age and older with a positive skin test or in",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署菌疫輸字第000835號｜喜瑞樂凍晶注射劑150毫克｜主成分 OMALIZUMAB｜單方｜狀態 有效｜適應症：1.過敏性氣喘附加療法： 為附加療法用於改善已接受高劑量吸入性類固醇製劑及長效乙二型作用劑(ß2-agonist)治療下仍有頻繁之日間症狀或夜間覺醒且具有多次重度氣喘惡化記錄之重度持續過敏性氣喘成人、青少年及兒童(6歲及以上) 病人之氣喘控制。這些氣喘病人必須有經由皮膚測試或體外試驗顯示長期對空氣中過敏原呈陽性且肺功能降低 (FEV1 < 80%)。僅適用於證實為IgE媒介型之氣喘病人。 2.慢性",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "obstructive lung disease",
+     "drug": "omalizumab",
+     "approved_use": "asthma and/or COPD",
+     "relation": "上位概念（已核准者為其下位）",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "| 預測新適應症 | 支氣管炎 (Bronchitis) |"
+  },
+  {
+   "id": "oteracil-colonic-neoplasm-known-use-rereview-2026-11-03",
+   "drug": "oteracil",
+   "file": "oteracil.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "大腸腫瘤 (Colonic Neoplasm)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |",
+   "anchor": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |",
+   "prediction": "大腸腫瘤 (Colonic Neoplasm)",
+   "status": "rereviewed",
+   "resolved_by": "oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "finding": "大腸腫瘤 (Colonic Neoplasm)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "大腸腫瘤 (Colonic Neoplasm)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ティーエスワン",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730",
+     "excerpt": "2.6 フルシトシンを投与中の患者［ 1.4 、 10.1 、 16.7 参照］ 2.7 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 胃癌 、 結腸・直腸癌 、 頭頸部癌 、 非小細胞肺癌 、手術不能又は再発 乳癌 、 膵癌 、胆道癌、ホルモン受容体陽性かつHER2陰性で再発高リスクの 乳癌 における術後薬物療法 5. 効能または効果",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第025242號｜愛斯萬膠囊25毫克｜主成分 TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM、GIMERACIL｜複方｜狀態 有效｜適應症：1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期胃癌。 2. 胰臟癌：適用於治療局部晚期或轉移性胰臟癌病人。 3. 大腸直腸癌：與Irinotecan合併使用於已使用含有Oxaliplatin化學療法失敗之轉移性大腸直腸癌病人。 4. 晚期非小細胞肺癌：適用於對含鉑之（台灣核准範圍為胃癌、胰臟癌，未含大腸直腸癌）",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "oteracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "drug": "oteracil",
+   "file": "oteracil.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "oteracil-colonic-neoplasm-known-use-rereview-2026-11-03",
+   "summary": "大腸腫瘤 (Colonic Neoplasm)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |",
+   "prediction": "大腸腫瘤 (Colonic Neoplasm)",
+   "verdict": "withdraw",
+   "original_level": "L2",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L2",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：colonic neoplasm"
+   ],
+   "remaining_support": [],
+   "rationale": "colonic neoplasm是已核准適應症的上位概念（已核准的疾病屬於它的下位）（已核准：S-1: gastric cancer; colorectal cancer in JP）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。適用國家說明：S-1 的大腸直腸癌適應症只在日本（2026-11-03 起改為任一國核准即對全站生效）。",
+   "note": "大腸腫瘤 (Colonic Neoplasm)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：oteracil 只以 S-1（tegafur／gimeracil／oteracil）複方上市；日本 S-1 添付文書的效能效果包括結腸・直腸癌。台灣 S-1 許可證只核准胃癌與胰臟癌，這筆是依「任一國核准」原則撤回。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ティーエスワン",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730",
+     "excerpt": "2.6 フルシトシンを投与中の患者［ 1.4 、 10.1 、 16.7 参照］ 2.7 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 胃癌 、 結腸・直腸癌 、 頭頸部癌 、 非小細胞肺癌 、手術不能又は再発 乳癌 、 膵癌 、胆道癌、ホルモン受容体陽性かつHER2陰性で再発高リスクの 乳癌 における術後薬物療法 5. 効能または効果",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第025242號｜愛斯萬膠囊25毫克｜主成分 TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM、GIMERACIL｜複方｜狀態 有效｜適應症：1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期胃癌。 2. 胰臟癌：適用於治療局部晚期或轉移性胰臟癌病人。 3. 大腸直腸癌：與Irinotecan合併使用於已使用含有Oxaliplatin化學療法失敗之轉移性大腸直腸癌病人。 4. 晚期非小細胞肺癌：適用於對含鉑之（台灣核准範圍為胃癌、胰臟癌，未含大腸直腸癌）",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "colonic neoplasm",
+     "drug": "oteracil",
+     "approved_use": "S-1: gastric cancer; colorectal cancer in JP",
+     "relation": "上位概念（已核准者為其下位）",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L2 |",
+     "replacement": "| 證據等級 | 撤回：大腸腫瘤 (Colonic Neoplasm)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |"
+  },
+  {
+   "id": "prednisone-tenosynovitis-known-use-rereview-2026-11-03",
+   "drug": "prednisone",
+   "file": "prednisone.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽之後（預測清單）",
+   "summary": "tenosynovitis（腱鞘炎）：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 圓禿 (alopecia areata) |",
+   "anchor": "| 預測新適應症 | 圓禿 (alopecia areata) |",
+   "prediction": "tenosynovitis（腱鞘炎）",
+   "status": "rereviewed",
+   "resolved_by": "prednisone-tenosynovitis-known-use-rereview-result-2026-11-03",
+   "finding": "tenosynovitis（腱鞘炎）在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "tenosynovitis（腱鞘炎）在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f",
+     "excerpt": "maintenance therapy) Ankylosing spondylitis Acute and subacute bursitis Acute nonspecific tenosynovitis Acute gouty arthritis Post-traumatic osteoarthritis Synovitis of osteoarthritis Epicondyl",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "prednisone-tenosynovitis-known-use-rereview-result-2026-11-03",
+   "drug": "prednisone",
+   "file": "prednisone.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "prednisone-tenosynovitis-known-use-rereview-2026-11-03",
+   "summary": "tenosynovitis（腱鞘炎）預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 圓禿 (alopecia areata) |",
+   "prediction": "tenosynovitis（腱鞘炎）",
+   "verdict": "withdraw",
+   "original_level": "本頁未列等級（僅在預測清單）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "本頁未列等級（僅在預測清單）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：tenosynovitis"
+   ],
+   "remaining_support": [],
+   "rationale": "tenosynovitis與已核准適應症是同一疾病（已核准：rheumatic disorders incl. acute nonspecific tenosynovitis）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "tenosynovitis（腱鞘炎）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：prednisone 美國仿單的風濕性疾病適應症明列「急性非特異性腱鞘炎」。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f",
+     "excerpt": "maintenance therapy) Ankylosing spondylitis Acute and subacute bursitis Acute nonspecific tenosynovitis Acute gouty arthritis Post-traumatic osteoarthritis Synovitis of osteoarthritis Epicondyl",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "tenosynovitis",
+     "drug": "prednisone",
+     "approved_use": "rheumatic disorders incl. acute nonspecific tenosynovitis",
+     "relation": "同一疾病",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "| 預測新適應症 | 圓禿 (alopecia areata) |"
+  },
+  {
+   "id": "riluzole-amyotrohpic-lateral-sclerosis-type-22-known-use-rereview-2026-11-03",
+   "drug": "riluzole",
+   "file": "riluzole.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "正文",
+   "summary": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)：疑為已核准用途，標記待重審",
+   "claim": "相較之下，排名較後的幾項預測與運動神經元疾病有重疊",
+   "anchor": "相較之下，排名較後的幾項預測與運動神經元疾病有重疊",
+   "prediction": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)",
+   "status": "rereviewed",
+   "resolved_by": "riluzole-amyotrohpic-lateral-sclerosis-type-22-known-use-rereview-result-2026-11-03",
+   "finding": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6",
+     "excerpt": "AGE 1 INDICATIONS AND USAGE Riluzole tablets is indicated for the treatment of amyotrophic lateral sclerosis (ALS). Riluzole tablets is indicated for the treatment of amyotrophic lateral sclerosis (",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第021905號｜銳力得膜衣錠｜主成分 RILUZOLE｜單方｜狀態 有效｜適應症：肌萎縮脊髓側索硬化症（ＡＭＹＯＴＲＯＰＨＩＣ ＬＡＴＥＲＡＬＳＣＬＥＲＯＳＩＳ，ＡＬＳ）",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "riluzole-amyotrohpic-lateral-sclerosis-type-22-known-use-rereview-result-2026-11-03",
+   "drug": "riluzole",
+   "file": "riluzole.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "riluzole-amyotrohpic-lateral-sclerosis-type-22-known-use-rereview-2026-11-03",
+   "summary": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)預測重審結果（已核准用途，撤回）",
+   "claim": "相較之下，排名較後的幾項預測與運動神經元疾病有重疊",
+   "prediction": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)",
+   "verdict": "withdraw",
+   "original_level": "本頁未列等級（「為什麼這個預測合理」段的敘述）",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "本頁未列等級（「為什麼這個預測合理」段的敘述）",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：amyotrohpic lateral sclerosis type 22"
+   ],
+   "remaining_support": [],
+   "rationale": "amyotrohpic lateral sclerosis type 22是已核准適應症的亞型（已核准：amyotrophic lateral sclerosis）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)是本頁正文提到的預測，但它是已核准用途，不是新適應症：riluzole 美國仿單與台灣有效許可證都核准用於肌萎縮性脊髓側索硬化症（ALS）；ALS 第 22 型是 ALS 的遺傳亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6",
+     "excerpt": "AGE 1 INDICATIONS AND USAGE Riluzole tablets is indicated for the treatment of amyotrophic lateral sclerosis (ALS). Riluzole tablets is indicated for the treatment of amyotrophic lateral sclerosis (",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥輸字第021905號｜銳力得膜衣錠｜主成分 RILUZOLE｜單方｜狀態 有效｜適應症：肌萎縮脊髓側索硬化症（ＡＭＹＯＴＲＯＰＨＩＣ ＬＡＴＥＲＡＬＳＣＬＥＲＯＳＩＳ，ＡＬＳ）",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "本頁未就此預測列決策",
+   "known_use_exclusion": [
+    {
+     "predicted": "amyotrohpic lateral sclerosis type 22",
+     "drug": "riluzole",
+     "approved_use": "amyotrophic lateral sclerosis",
+     "relation": "下位／亞型",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [],
+   "anchor": "相較之下，排名較後的幾項預測與運動神經元疾病有重疊"
+  },
+  {
+   "id": "terbutaline-obstructive-lung-disease-known-use-rereview-2026-11-03",
+   "drug": "terbutaline",
+   "file": "terbutaline.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "阻塞性肺病 (Obstructive Lung Disease)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 阻塞性肺病 (Obstructive Lung Disease) |",
+   "anchor": "| 預測新適應症 | 阻塞性肺病 (Obstructive Lung Disease) |",
+   "prediction": "阻塞性肺病 (Obstructive Lung Disease)",
+   "status": "rereviewed",
+   "resolved_by": "terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03",
+   "finding": "阻塞性肺病 (Obstructive Lung Disease)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "阻塞性肺病 (Obstructive Lung Disease)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726",
+     "excerpt": "INDICATIONS AND USAGE Terbutaline sulfate is indicated for the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第020022號｜喘力定錠（特必林）｜主成分 TERBUTALINE SULFATE｜單方｜狀態 有效｜適應症：下列疾患的氣道閉塞性障礙所伴隨呼吸困難諸症狀的緩解、支氣管氣喘、慢性支氣管炎、氣喘性支氣管炎、肺氣腫",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03",
+   "drug": "terbutaline",
+   "file": "terbutaline.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "terbutaline-obstructive-lung-disease-known-use-rereview-2026-11-03",
+   "summary": "阻塞性肺病 (Obstructive Lung Disease)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 阻塞性肺病 (Obstructive Lung Disease) |",
+   "prediction": "阻塞性肺病 (Obstructive Lung Disease)",
+   "verdict": "withdraw",
+   "original_level": "L1",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L1",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：obstructive lung disease"
+   ],
+   "remaining_support": [],
+   "rationale": "obstructive lung disease是已核准適應症的上位概念（已核准的疾病屬於它的下位）（已核准：asthma and/or COPD）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "阻塞性肺病 (Obstructive Lung Disease)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：terbutaline 美國仿單核准用於氣喘及可逆性支氣管痙攣（含支氣管炎、肺氣腫）的預防與緩解；台灣有效許可證的適應症原文為「氣道閉塞性障礙所伴隨呼吸困難諸症狀的緩解、支氣管氣喘、慢性支氣管炎、肺氣腫」。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726",
+     "excerpt": "INDICATIONS AND USAGE Terbutaline sulfate is indicated for the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第020022號｜喘力定錠（特必林）｜主成分 TERBUTALINE SULFATE｜單方｜狀態 有效｜適應症：下列疾患的氣道閉塞性障礙所伴隨呼吸困難諸症狀的緩解、支氣管氣喘、慢性支氣管炎、氣喘性支氣管炎、肺氣腫",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "obstructive lung disease",
+     "drug": "terbutaline",
+     "approved_use": "asthma and/or COPD",
+     "relation": "上位概念（已核准者為其下位）",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L1 |",
+     "replacement": "| 證據等級 | 撤回：阻塞性肺病 (Obstructive Lung Disease)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 阻塞性肺病 (Obstructive Lung Disease) |"
+  },
+  {
+   "id": "tioconazole-vulvovaginitis-known-use-rereview-2026-11-03",
+   "drug": "tioconazole",
+   "file": "tioconazole.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "外陰陰道炎 (Vulvovaginitis)：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |",
+   "anchor": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |",
+   "prediction": "外陰陰道炎 (Vulvovaginitis)",
+   "status": "rereviewed",
+   "resolved_by": "tioconazole-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "finding": "外陰陰道炎 (Vulvovaginitis)在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "外陰陰道炎 (Vulvovaginitis)在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937",
+     "excerpt": "Uses treats vaginal yeast infections",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "tioconazole-vulvovaginitis-known-use-rereview-result-2026-11-03",
+   "drug": "tioconazole",
+   "file": "tioconazole.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "tioconazole-vulvovaginitis-known-use-rereview-2026-11-03",
+   "summary": "外陰陰道炎 (Vulvovaginitis)預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |",
+   "prediction": "外陰陰道炎 (Vulvovaginitis)",
+   "verdict": "withdraw",
+   "original_level": "L5",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "L5",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：vulvovaginitis"
+   ],
+   "remaining_support": [],
+   "rationale": "vulvovaginitis是已核准適應症的上位概念（已核准的疾病屬於它的下位）（已核准：vulvovaginal candidiasis）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。",
+   "note": "外陰陰道炎 (Vulvovaginitis)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：tioconazole 陰道軟膏美國 OTC 標示核准用於陰道念珠菌感染；外陰陰道炎是它的上位概念。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]",
+     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937",
+     "excerpt": "Uses treats vaginal yeast infections",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "vulvovaginitis",
+     "drug": "tioconazole",
+     "approved_use": "vulvovaginal candidiasis",
+     "relation": "上位概念（已核准者為其下位）",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L5 |",
+     "replacement": "| 證據等級 | 撤回：外陰陰道炎 (Vulvovaginitis)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Proceed with Guardrails |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |"
+  },
+  {
+   "id": "uracil-colonic-neoplasm-known-use-rereview-2026-11-03",
+   "drug": "uracil",
+   "file": "uracil.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）：疑為已核准用途，標記待重審",
+   "claim": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |",
+   "anchor": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |",
+   "prediction": "大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）",
+   "status": "rereviewed",
+   "resolved_by": "uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "finding": "大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）在已核准用途排除表中（官方仿單核准範圍內），需重審是否仍列為新適應症預測。",
+   "note": "大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）在官方仿單或許可證的核准範圍內，標記待重審。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368",
+     "excerpt": "6 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 ＜テガフール・ウラシル通常療法＞ 次の疾患の自覚的並びに他覚的症状の寛解 頭頸部癌 、 胃癌 、 結腸・直腸癌 、 肝臓癌 、 胆のう・胆管癌 、 膵臓癌 、 肺癌 、 乳癌 、 膀胱癌 、 前立腺癌 、 子宮頸癌 ＜ホリナート・テガフール・ウラシル療法＞ 結腸・直腸癌 5. 効能または効",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第043698號｜友復　膠囊｜主成分 TEGAFUR (FTORAFUR)、URACIL｜複方｜狀態 有效｜適應症：胃癌、大腸(結腸直腸)癌、乳癌、與Cisplatin併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。；衛署藥製字第049563號｜〝美時〞復癒 膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、大腸（結腸直腸）癌、乳癌、頭頸部鱗狀上皮癌、與cisplatin 併用治療轉移及末期肺癌、用於病理分期T2 之第一期B 肺腺癌病人手術後輔助治療。；衛署藥輸字第023484號｜優富多膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、結腸癌、大腸癌、乳癌、與CISPLATIN併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03",
+   "drug": "uracil",
+   "file": "uracil.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "uracil-colonic-neoplasm-known-use-rereview-2026-11-03",
+   "summary": "大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）預測重審結果（已核准用途，撤回）",
+   "claim": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |",
+   "prediction": "大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）",
+   "verdict": "withdraw",
+   "original_level": "大腸腫瘤 L5；另兩項本頁未列等級",
+   "new_level": "撤回（已核准用途，不列新適應症等級）",
+   "level_note": "大腸腫瘤 L5；另兩項本頁未列等級",
+   "flawed_premises": [
+    "把已核准用途當成新適應症預測：colonic neoplasm",
+    "把已核准用途當成新適應症預測：gastric carcinoma",
+    "把已核准用途當成新適應症預測：rectosigmoid junction neoplasm"
+   ],
+   "remaining_support": [],
+   "rationale": "colonic neoplasm是已核准適應症的上位概念（已核准的疾病屬於它的下位）（已核准：colorectal cancer (tegafur-uracil)）；gastric carcinoma與已核准適應症是同一疾病（已核准：tegafur-uracil (JP): gastric cancer）；rectosigmoid junction neoplasm是已核准適應症的亞型（已核准：colorectal cancer (tegafur-uracil)）。撤回依據是核准狀態而不是證據強弱：既然已是核准用途，就不是老藥新用候選，methodology 的 L1–L5 新適應症等級不適用。適用國家說明：tegafur-uracil 的胃癌適應症見於日本仿單（2026-11-03 起改為任一國核准即對全站生效）。",
+   "note": "大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：uracil 只以 tegafur-uracil（UFT）複方上市；日本 UFT 添付文書與台灣 3 張有效複方許可證都核准胃癌與大腸（結腸直腸）癌，直腸乙狀結腸交界腫瘤是大腸直腸癌的亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。",
+   "sources": [
+    {
+     "title": "日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ",
+     "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368",
+     "excerpt": "6 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 ＜テガフール・ウラシル通常療法＞ 次の疾患の自覚的並びに他覚的症状の寛解 頭頸部癌 、 胃癌 、 結腸・直腸癌 、 肝臓癌 、 胆のう・胆管癌 、 膵臓癌 、 肺癌 、 乳癌 、 膀胱癌 、 前立腺癌 、 子宮頸癌 ＜ホリナート・テガフール・ウラシル療法＞ 結腸・直腸癌 5. 効能または効",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "衛署藥製字第043698號｜友復　膠囊｜主成分 TEGAFUR (FTORAFUR)、URACIL｜複方｜狀態 有效｜適應症：胃癌、大腸(結腸直腸)癌、乳癌、與Cisplatin併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。；衛署藥製字第049563號｜〝美時〞復癒 膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、大腸（結腸直腸）癌、乳癌、頭頸部鱗狀上皮癌、與cisplatin 併用治療轉移及末期肺癌、用於病理分期T2 之第一期B 肺腺癌病人手術後輔助治療。；衛署藥輸字第023484號｜優富多膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、結腸癌、大腸癌、乳癌、與CISPLATIN併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [],
+   "method": "比對官方仿單適應症段（DailyMed SPL、EMA EPAR、emc SmPC、JAPIC 添付文書）與衛福部食藥署許可證資料集→確認預測病名與已核准適應症為同一疾病、其上位概念、亞型或表現→依 2026-11-03 已核准用途排除原則撤回（不屬 methodology L1–L5 的新適應症等級判定範圍）",
+   "decision_basis": "已核准用途不列為老藥新用候選；決策改為撤回",
+   "known_use_exclusion": [
+    {
+     "predicted": "colonic neoplasm",
+     "drug": "uracil",
+     "approved_use": "colorectal cancer (tegafur-uracil)",
+     "relation": "上位概念（已核准者為其下位）",
+     "source_pending": false
+    },
+    {
+     "predicted": "gastric carcinoma",
+     "drug": "uracil",
+     "approved_use": "tegafur-uracil (JP): gastric cancer",
+     "relation": "同一疾病",
+     "source_pending": false
+    },
+    {
+     "predicted": "rectosigmoid junction neoplasm",
+     "drug": "uracil",
+     "approved_use": "colorectal cancer (tegafur-uracil)",
+     "relation": "下位／亞型",
+     "source_pending": false
+    }
+   ],
+   "table_updates": [
+    {
+     "label": "快速總覽「證據等級」",
+     "claim": "| 證據等級 | L5 |",
+     "replacement": "| 證據等級 | 撤回：大腸腫瘤 (Colonic Neoplasm)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |"
+    },
+    {
+     "label": "快速總覽「建議決策」",
+     "claim": "| 建議決策 | Hold |",
+     "replacement": "| 建議決策 | 撤回（已核准用途） |"
+    }
+   ],
+   "anchor": "| 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |"
   }
  ]
 }

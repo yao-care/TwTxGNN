@@ -396,7 +396,7 @@
       "predicted_indication": "斑禿 (Alopecia Areata)",
       "txgnn_score": "0.9997",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/betamethasone/"
     },
     {
@@ -753,8 +753,8 @@
       "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "末梢血管循環障礙",
-      "predicted_indication": "偏頭痛 (migraine disorder)；此為證據最完整的預測，TxGNN 排名第 3，排名第 1 為 Prinzmetal 心絞痛",
-      "txgnn_score": "0.9969（偏頭痛）；排名第 1 的 Prinzmetal 心絞痛為 0.9980",
+      "predicted_indication": "Prinzmetal angina",
+      "txgnn_score": "0.9980",
       "taiwan_approved": false,
       "decision": "Proceed with Guardrails",
       "url": "/drugs/cyclandelate/"
@@ -852,7 +852,7 @@
       "predicted_indication": "圓形禿 (Alopecia Areata)",
       "txgnn_score": "0.9999",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/dexamethasone/"
     },
     {
@@ -888,7 +888,7 @@
       "predicted_indication": "血栓性疾病 (thrombotic disease)",
       "txgnn_score": "0.9994",
       "taiwan_approved": false,
-      "decision": "Hold",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/dipyridamole/"
     },
     {
@@ -1152,7 +1152,7 @@
       "predicted_indication": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)",
       "txgnn_score": "0.9994",
       "taiwan_approved": false,
-      "decision": "Hold",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/ferrous-gluconate/"
     },
     {
@@ -1437,7 +1437,7 @@
       "evidence_level": "L5",
       "indication_count": 3,
       "original_indication": "IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症；以及改善免疫調節機能：原發性血小板缺乏性紫斑症（ITP）、異體骨髓移植、川崎氏症、Guillain-Barré 症候群",
-      "predicted_indication": "嚴重非增殖性糖尿病視網膜病變 (Severe Nonproliferative Diabetic Retinopathy)",
+      "predicted_indication": "嚴重非增殖性糖尿病視網膜病變 (severe nonproliferative diabetic retinopathy)",
       "txgnn_score": "0.9975",
       "taiwan_approved": false,
       "decision": "Hold",
@@ -1452,7 +1452,7 @@
       "predicted_indication": "乾眼症 (Dry Eye Syndrome)",
       "txgnn_score": "0.9986",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/hyaluronic-acid/"
     },
     {
@@ -1536,7 +1536,7 @@
       "predicted_indication": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)",
       "txgnn_score": "0.9999",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/icatibant/"
     },
     {
@@ -1896,7 +1896,7 @@
       "predicted_indication": "妊娠毒血症 (toxemia of pregnancy)",
       "txgnn_score": "1.0000",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/magnesium-sulfate/"
     },
     {
@@ -1956,7 +1956,7 @@
       "predicted_indication": "圓形禿 (Alopecia Areata)",
       "txgnn_score": "0.9999",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/methylprednisolone/"
     },
     {
@@ -2208,7 +2208,7 @@
       "predicted_indication": "外陰陰道炎 (Vulvovaginitis)",
       "txgnn_score": "0.9992",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/nystatin/"
     },
     {
@@ -2232,7 +2232,7 @@
       "predicted_indication": "大腸腫瘤 (Colonic Neoplasm)",
       "txgnn_score": "0.9999",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/oteracil/"
     },
     {
@@ -3048,7 +3048,7 @@
       "predicted_indication": "阻塞性肺病 (Obstructive Lung Disease)",
       "txgnn_score": "0.9996",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/terbutaline/"
     },
     {
@@ -3180,7 +3180,7 @@
       "predicted_indication": "外陰陰道炎 (Vulvovaginitis)",
       "txgnn_score": "0.9923",
       "taiwan_approved": false,
-      "decision": "Proceed with Guardrails",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/tioconazole/"
     },
     {
@@ -3348,7 +3348,7 @@
       "predicted_indication": "大腸腫瘤 (Colonic Neoplasm)",
       "txgnn_score": "0.9950",
       "taiwan_approved": false,
-      "decision": "Hold",
+      "decision": "撤回（已核准用途）",
       "url": "/drugs/uracil/"
     },
     {

@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Hydroxyprogesterone Caproate：預測新適應症為子宮內膜異位症 (Endometriosis of uterus)（證據等級 L4）。原適應症：先兆流產、習慣流產、子宮機能性出血、痛經、月經困難"
 monitor_inn: "Hydroxyprogesterone caproate"
 predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
@@ -108,12 +108,32 @@ TxGNN 模型預測它可能對**子宮內膜異位症 (Endometriosis of uterus)*
 **理由：**
 TxGNN 分數很高，機轉上也合理，但沒有任何臨床試驗，唯一文獻也未實際評估此藥用於子宮內膜異位症，證據僅達前臨床／機轉層級（L4）。另外，同一批預測中，子宮體癌與子宮內膜癌雖有較多早期文獻（L3），但多為 1970–1990 年代的小型病例研究與世代研究，且缺乏隨機試驗。
 
+<!-- review:begin hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L3（本頁「為什麼這個預測合理」段的敘述）→撤回（已核准用途，不列新適應症等級））。子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)是本頁正文提到的預測，但它是已核准用途，不是新適應症：hydroxyprogesterone caproate 學名藥美國仿單核准用於非懷孕婦女的晚期子宮體腺癌（第 III、IV 期）治療；子宮內膜癌即子宮體腺癌。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df)。
+
+<!-- review:end hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-result-2026-11-03 -->
+
 **若要推進需要：**
 - 取得 Hydroxyprogesterone caproate 的作用機轉資料（MOA）
 - 系統性搜尋此藥用於子宮內膜異位症的臨床與前臨床研究
 - 與現行標準治療（其他黃體素類、GnRH 類藥物等）比較的證據
 - 評估注射劑型對慢性治療的可行性與耐受性
 - 針對上述潛在禁忌族群（如高血壓、糖尿病、肝病、乳癌病史）訂定篩選與監測計畫
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
+| 2026-11-03 | 子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3（本頁「為什麼這個預測合理」段的敘述）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Prednisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "tenosynovitis", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Prednisone：預測新適應症為圓禿 (alopecia areata)（證據等級 L2）。原適應症：濕疹或皮膚炎"
 ---
 
@@ -53,6 +53,12 @@ TxGNN 模型預測它可能對**圓禿 (alopecia areata)** 有效，
 | 台灣上市 | 上市中（有效許可證 1 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 0／有效複方 1／已註銷 6） |
 | 建議決策 | Proceed with Guardrails |
+
+<!-- review:begin prednisone-tenosynovitis-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級））。tenosynovitis（腱鞘炎）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：prednisone 美國仿單的風濕性疾病適應症明列「急性非特異性腱鞘炎」。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[US FDA label (DailyMed)：PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f)。
+
+<!-- review:end prednisone-tenosynovitis-known-use-rereview-result-2026-11-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -135,6 +141,8 @@ TxGNN 模型預測它可能對**圓禿 (alopecia areata)** 有效，
 | 2026-10-03 | 原適應症寫風溼性關節炎（台灣無有效單方） | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題以風溼性關節炎為台灣原適應症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結稱台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | tenosynovitis（腱鞘炎）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f) |
+| 2026-11-03 | tenosynovitis（腱鞘炎）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f) |
 
 <!-- review:end log -->
 

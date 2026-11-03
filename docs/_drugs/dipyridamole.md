@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Dipyridamole"
 predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Dipyridamole：預測新適應症為血栓性疾病 (thrombotic disease)（證據等級 L5）。原適應症：對於慢性狹心症之治療可能有效"
 ---
 
@@ -49,10 +49,16 @@ TxGNN 模型預測它可能對**血栓性疾病 (thrombotic disease)** 有效，
 | 原適應症 | 對於慢性狹心症之治療可能有效 |
 | 預測新適應症 | 血栓性疾病 (thrombotic disease) |
 | TxGNN 預測分數 | 0.9994 |
-| 證據等級 | L5 |
+| 證據等級 | 撤回：血栓性疾病 (thrombotic disease)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 52 張／共 166 張） |
 | 許可證數 | 166 張（有效單方 52／有效複方 0／已過期 4／已註銷 110） |
-| 建議決策 | Hold |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin dipyridamole-thrombotic-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L5→撤回（已核准用途，不列新適應症等級））。血栓性疾病 (thrombotic disease)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：dipyridamole 美國仿單核准作為 coumarin 類抗凝血劑的輔助，預防心臟瓣膜置換術後的血栓栓塞併發症；「血栓性疾病」是這個已核准用途的上位概念。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5)。
+
+<!-- review:end dipyridamole-thrombotic-known-use-rereview-result-2026-11-03 -->
 
 註：「血栓性疾病」是範圍很廣的疾病名稱，現有文獻多為綜述或與其他疾病（如血栓性血小板減少性紫斑症、抗磷脂症候群）有關，沒有直接以此疾病為對象的臨床研究，因此依規則將證據等級定為 L5。
 
@@ -115,6 +121,12 @@ TIA 是排名第 3 的預測（分數 0.9987），有直接研究該疾病的證
 
 相關文獻包括 Cochrane 系統性回顧（[12535415](https://pubmed.ncbi.nlm.nih.gov/12535415/)、[17636684](https://pubmed.ncbi.nlm.nih.gov/17636684/)）、網絡統合分析（[26304937](https://pubmed.ncbi.nlm.nih.gov/26304937/)、[31177983](https://pubmed.ncbi.nlm.nih.gov/31177983/)）及抗血小板治療統合分析（[11786451](https://pubmed.ncbi.nlm.nih.gov/11786451/)）。此方向的整體證據明顯強於「血栓性疾病」，可作為後續優先評估對象。
 
+<!-- review:begin dipyridamole-tia-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 本頁未列等級（「補充：暫時性腦缺血發作 (TIA) 方向」段）→撤回（已核准用途，不列新適應症等級））。暫時性腦缺血發作 (TIA)是本頁正文提到的預測，但它是已核准用途，不是新適應症：dipyridamole 英國 SmPC 的適應症第一項是缺血性中風與暫時性腦缺血發作的次級預防（單用或併用 aspirin）；美國則以 aspirin／dipyridamole 複方（Aggrenox）核准。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[UK SmPC (emc)：Attia 200 mg Modified-Release Capsules, Hard - Summary of Product Characteristics (SmPC) - (emc) | 3472](https://www.medicines.org.uk/emc/product/3472/smpc)。
+
+<!-- review:end dipyridamole-tia-known-use-rereview-result-2026-11-03 -->
+
 ## 台灣上市資訊
 
 <!-- tfda-licenses:begin（程式產生，勿手改；scripts/regenerate_tfda_tables.py） -->
@@ -162,11 +174,15 @@ TIA 是排名第 3 的預測（分數 0.9987），有直接研究該疾病的證
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Dipyridamole Tablets, USP 仿單（Amneal）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a18b2af5-7c4a-4b7f-92c7-8a76e34da373) |
+| 2026-11-03 | 血栓性疾病 (thrombotic disease)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5) |
+| 2026-11-03 | 血栓性疾病 (thrombotic disease)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L5→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L5」→「證據等級／撤回：血栓性疾病 (thrombotic disease)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Hold」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5) |
+| 2026-11-03 | 暫時性腦缺血發作 (TIA)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [UK SmPC (emc)：Attia 200 mg Modified-Release Capsules, Hard - Summary of Product Characteristics (SmPC) - (emc) | 3472](https://www.medicines.org.uk/emc/product/3472/smpc) |
+| 2026-11-03 | 暫時性腦缺血發作 (TIA)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（「補充：暫時性腦缺血發作 (TIA) 方向」段）→撤回（已核准用途，不列新適應症等級） | [UK SmPC (emc)：Attia 200 mg Modified-Release Capsules, Hard - Summary of Product Characteristics (SmPC) - (emc) | 3472](https://www.medicines.org.uk/emc/product/3472/smpc) |
 
 <!-- review:end log -->
 

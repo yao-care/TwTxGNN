@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "mitomycin"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "pancreatic intraductal papillary-mucinous carcinoma", "mixed ductal-endocrine carcinoma of pancreas", "pancreatic signet ring cell adenocarcinoma", "undifferentiated pancreatic carcinoma", "malignant exocrine pancreas neoplasm", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Mitomycin：預測新適應症為胰臟實體假乳突癌 (Solid Pseudopapillary Carcinoma of Pancreas)（證據等級 L5）。原適應症：胃癌、膀胱癌（灌注使用）、肺癌、肉瘤、白血病等症狀之緩解"
 ---
 
@@ -54,6 +54,12 @@ TxGNN 模型預測它可能對**胰臟實體假乳突癌 (Solid Pseudopapillary 
 | 台灣上市 | 上市中（有效許可證 1 張／共 9 張） |
 | 許可證數 | 9 張（有效單方 1／有效複方 0／已註銷 8） |
 | 建議決策 | Hold |
+
+<!-- review:begin mitomycin-pancreatic-intraductal-papillary-mucinou-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級））。pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：mitomycin 美國仿單核准用於播散性胃腺癌或胰臟腺癌（與其他核准化療併用）；胰臟外分泌惡性腫瘤與胰臟腺癌是同一疾病，導管內乳突黏液性癌與印戒細胞腺癌是胰臟腺癌的亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[US FDA label (DailyMed)：MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f)。
+
+<!-- review:end mitomycin-pancreatic-intraductal-papillary-mucinou-known-use-rereview-result-2026-11-03 -->
 
 ---
 
@@ -152,6 +158,20 @@ TxGNN 模型預測它可能對**胰臟實體假乳突癌 (Solid Pseudopapillary 
 - 進行前臨床研究（如細胞株或類器官試驗）驗證對實體假乳突癌的敏感性。
 - 取得完整的仿單警語、禁忌症與血液毒性監測計畫。
 - 評估各預測項目的優先順序，並考慮改以證據較多的胰臟癌亞型作為驗證起點。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f) |
+| 2026-11-03 | pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

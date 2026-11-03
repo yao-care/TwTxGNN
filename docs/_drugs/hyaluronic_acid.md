@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Hyaluronic acid"
 predicted_indications: ["dry eye syndrome", "Sjogren syndrome", "xerophthalmia", "psoriasis", "dermatitis, atopic", "prolapse of lacrimal gland", "parapsoriasis", "pityriasis lichenoides", "severe nonproliferative diabetic retinopathy", "exanthem (disease)"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Hyaluronic Acid：預測新適應症為乾眼症 (Dry Eye Syndrome)（證據等級 L2）。原適應症：本報告彙整的資料中未提供"
 ---
 
@@ -48,10 +48,16 @@ TxGNN 模型預測它可能對**乾眼症 (Dry Eye Syndrome)** 有效，目前�
 | 原適應症 | 本報告彙整的資料中未提供 |
 | 預測新適應症 | 乾眼症 (Dry Eye Syndrome) |
 | TxGNN 預測分數 | 0.9986 |
-| 證據等級 | L2（有 1 個已完成的 Phase 3 RCT，另有多篇統合分析與 RCT 文獻） |
+| 證據等級 | 撤回：乾眼症 (Dry Eye Syndrome)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 1 張／共 11 張） |
 | 許可證數 | 11 張（有效單方 0／有效複方 1／已註銷 10） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L2→撤回（已核准用途，不列新適應症等級））。乾眼症 (Dry Eye Syndrome)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：玻尿酸鈉點眼液（ヒアレイン）日本添付文書的效能效果為伴隨乾眼症（眼球乾燥症候群）等疾病的角結膜上皮障害；美國的玻尿酸點眼屬醫療器材，未以藥品核准。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ヒアレイン](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059034)。
+
+<!-- review:end hyaluronic-acid-dry-eye-syndrome-known-use-rereview-result-2026-11-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -149,12 +155,14 @@ TxGNN 模型預測它可能對**乾眼症 (Dry Eye Syndrome)** 有效，目前�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「台灣上市：未上市」 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱台灣目前無上市許可證 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 乾眼症 (Dry Eye Syndrome)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ヒアレイン](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059034) |
+| 2026-11-03 | 乾眼症 (Dry Eye Syndrome)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L2→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L2（有 1 個已完成的 Phase 3 RCT，另有多篇統合分析與 RCT 文獻）」→「證據等級／撤回：乾眼症 (Dry Eye Syndrome)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ヒアレイン](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059034) |
 
 <!-- review:end log -->
 

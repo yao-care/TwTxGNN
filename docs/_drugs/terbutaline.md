@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 3
 monitor_inn: "Terbutaline"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Terbutaline：預測新適應症為阻塞性肺病 (Obstructive Lung Disease)（證據等級 L1）。原適應症：支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解"
 ---
 
@@ -52,10 +52,16 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 | 原適應症 | 支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解 |
 | 預測新適應症 | 阻塞性肺病 (Obstructive Lung Disease) |
 | TxGNN 預測分數 | 0.9996 |
-| 證據等級 | L1 |
+| 證據等級 | 撤回：阻塞性肺病 (Obstructive Lung Disease)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 17 張／共 52 張） |
 | 許可證數 | 52 張（有效單方 17／有效複方 0／已過期 1／已註銷 34） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L1→撤回（已核准用途，不列新適應症等級））。阻塞性肺病 (Obstructive Lung Disease)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：terbutaline 美國仿單核准用於氣喘及可逆性支氣管痙攣（含支氣管炎、肺氣腫）的預防與緩解；台灣有效許可證的適應症原文為「氣道閉塞性障礙所伴隨呼吸困難諸症狀的緩解、支氣管氣喘、慢性支氣管炎、肺氣腫」。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[US FDA label (DailyMed)：TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03 -->
 
 ---
 
@@ -174,7 +180,7 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -183,6 +189,8 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 | 2026-10-03 | 台灣上市資訊表許可證 衛署藥製字第019714號 與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表許可證 衛署藥製字第033582號 與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 快速總覽「特必林錠、布乃可錠」 | 報告重生後已無此錯誤（2026-10-15：新報告未再出現「特必林錠」「布乃可錠」；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 阻塞性肺病 (Obstructive Lung Disease)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 阻塞性肺病 (Obstructive Lung Disease)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L1→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L1」→「證據等級／撤回：阻塞性肺病 (Obstructive Lung Disease)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

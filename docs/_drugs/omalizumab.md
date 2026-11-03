@@ -5,7 +5,7 @@ parent: 中證據等級 (L3-L4)
 nav_order: 199
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Omalizumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L4）。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）"
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
@@ -53,6 +53,12 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 | 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
+
+<!-- review:begin omalizumab-obstructive-lung-disease-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級））。obstructive lung disease（阻塞性肺病）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：omalizumab 美國仿單與台灣有效許可證都核准用於中重度持續性過敏性氣喘；阻塞性肺病是氣喘的上位概念。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end omalizumab-obstructive-lung-disease-known-use-rereview-result-2026-11-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -130,6 +136,8 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 2 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | obstructive lung disease（阻塞性肺病）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | obstructive lung disease（阻塞性肺病）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

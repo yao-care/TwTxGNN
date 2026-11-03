@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 139
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Hydroxyurea：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制"
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
@@ -157,6 +157,12 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 **其他預測的參考：** 在同一批預測中，**鐮狀細胞-血紅素 C 病 (HbSC)** 的證據明顯較強，已有一項 Phase 2 試驗 (NCT00532883，因提前終止而說服力受限)、一篇 NEJM Evidence 2025 RCT (PMID 39647172) 以及多項世代研究，模型評為 L2 且建議 Proceed with Guardrails。若優先考量證據強度，建議先評估該方向。
 
+<!-- review:begin hydroxyurea-sickle-cell-beta-thalassemia-disease-syn-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 HbSC L2（本頁「其他預測的參考」段的敘述）；另兩項本頁未列等級→撤回（已核准用途，不列新適應症等級））。鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease是本頁正文提到的預測，但它是已核准用途，不是新適應症：hydroxyurea 歐盟（Siklos）核准用於鐮狀細胞症候群（sickle cell syndrome，含 HbSC、HbS/β-地中海貧血等複合基因型），美國核准用於鐮狀細胞貧血；這三項都是已核准疾病的亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[EMA EPAR：EMA EPAR siklos](https://www.ema.europa.eu/en/medicines/human/EPAR/siklos)。
+
+<!-- review:end hydroxyurea-sickle-cell-beta-thalassemia-disease-syn-known-use-rereview-result-2026-11-03 -->
+
 <!-- review:begin log -->
 
 ## 查核紀錄
@@ -168,6 +174,8 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 | 2026-10-03 | 「原適應症」列入骨髓纖維化、真性紅血球增多症 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為 hydroxyurea 許可證原文，並註明捷可衛錠是誤併的另一種藥；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 一句話總結寫原本用於骨髓纖維化及真性紅血球增多症 | 報告重生後已無此錯誤（2026-10-15：新報告一句話總結為慢性骨髓性白血病、卵巢癌與頭頸部鱗狀細胞癌；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「捷可衛錠」一列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [EMA EPAR：EMA EPAR siklos](https://www.ema.europa.eu/en/medicines/human/EPAR/siklos) |
+| 2026-11-03 | 鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 HbSC L2（本頁「其他預測的參考」段的敘述）；另兩項本頁未列等級→撤回（已核准用途，不列新適應症等級） | [EMA EPAR：EMA EPAR siklos](https://www.ema.europa.eu/en/medicines/human/EPAR/siklos) |
 
 <!-- review:end log -->
 

@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 245
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Riluzole：預測新適應症為雙側副矢狀頂枕多小腦回症 (bilateral parasagittal parieto-occipital polymicrogyria)（證據等級 L5）。原適應症：肌萎縮脊髓側索硬化症（ALS）"
 monitor_inn: "Riluzole"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
@@ -61,6 +61,12 @@ TxGNN 模型預測排名第一的新適應症是**雙側副矢狀頂枕多小腦
 對於排名第一的皮質發育異常（多小腦回症），資料中找不到與上述機轉的明確連結，這個預測目前只來自 TxGNN 模型，缺乏任何實證。因此合理性偏低。
 
 相較之下，排名較後的幾項預測與運動神經元疾病有重疊，機轉上較說得通，例如下運動神經元症候群、單肢肌萎縮症、Mills 症候群、ALS 第 22 型。不過這些同樣沒有臨床證據，只能視為待驗證的假說。
+
+<!-- review:begin riluzole-amyotrohpic-lateral-sclerosis-type-22-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 本頁未列等級（「為什麼這個預測合理」段的敘述）→撤回（已核准用途，不列新適應症等級））。ALS 第 22 型 (amyotrophic lateral sclerosis type 22)是本頁正文提到的預測，但它是已核准用途，不是新適應症：riluzole 美國仿單與台灣有效許可證都核准用於肌萎縮性脊髓側索硬化症（ALS）；ALS 第 22 型是 ALS 的遺傳亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[US FDA label (DailyMed)：RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end riluzole-amyotrohpic-lateral-sclerosis-type-22-known-use-rereview-result-2026-11-03 -->
 
 ## 臨床試驗證據
 
@@ -137,6 +143,8 @@ TxGNN 模型預測排名第一的新適應症是**雙側副矢狀頂枕多小腦
 |---------|------|------|------|
 | 2026-10-03 | 許可證字號寫成「衛部藥輸字第XXXXXX號」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「Riluzole 是目前唯一被核准用於 ALS 治療的藥物」 | 報告重生後已無此錯誤（2026-10-15：新報告正文未再寫 riluzole 是唯一核准用於 ALS 的藥物（文獻表引述的是回顧文章「唯一被證實可延長存活」的結論）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | ALS 第 22 型 (amyotrophic lateral sclerosis type 22)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | ALS 第 22 型 (amyotrophic lateral sclerosis type 22)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（「為什麼這個預測合理」段的敘述）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

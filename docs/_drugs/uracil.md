@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Uracil"
 predicted_indications: ["colonic neoplasm", "gastric carcinoma", "rectosigmoid junction neoplasm", "lipoma of colon", "colonic lymphangioma", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cavernous hemangioma of colon", "cecal disease", "colon leiomyoma"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Uracil：預測新適應症為大腸腫瘤 (Colonic Neoplasm)（證據等級 L5）。原適應症：抗惡性腫瘤劑"
 ---
 
@@ -49,10 +49,16 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效。
 | 原適應症 | 抗惡性腫瘤劑 |
 | 預測新適應症 | 大腸腫瘤 (Colonic Neoplasm) |
 | TxGNN 預測分數 | 0.9950 |
-| 證據等級 | L5 |
+| 證據等級 | 撤回：大腸腫瘤 (Colonic Neoplasm)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 5 張／共 7 張） |
 | 許可證數 | 7 張（有效單方 2／有效複方 3／已過期 1／已註銷 1） |
-| 建議決策 | Hold |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 大腸腫瘤 L5；另兩項本頁未列等級→撤回（已核准用途，不列新適應症等級））。大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：uracil 只以 tegafur-uracil（UFT）複方上市；日本 UFT 添付文書與台灣 3 張有效複方許可證都核准胃癌與大腸（結腸直腸）癌，直腸乙狀結腸交界腫瘤是大腸直腸癌的亞型。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end uracil-colonic-neoplasm-known-use-rereview-result-2026-11-03 -->
 
 證據等級說明：所列的臨床試驗（NCT04164069）是 dasatinib 預防奧沙利鉑神經病變的研究，文獻也沒有直接研究 uracil 單方用於大腸腫瘤的臨床試驗，因此依規則定為 L5。資料中的 L3 評級僅反映間接文獻。
 
@@ -147,7 +153,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效。
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -159,6 +165,8 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效。
 | 2026-10-16 | 預測理由稱 uracil 單方許可證適應症為甲狀腺機能亢進 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱 uracil 單方許可證適應症為甲狀腺機能亢進 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步稱 UFT 許可證需另行確認 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 大腸腫瘤 L5；另兩項本頁未列等級→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L5」→「證據等級／撤回：大腸腫瘤 (Colonic Neoplasm)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Hold」→「建議決策／撤回（已核准用途）」 | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

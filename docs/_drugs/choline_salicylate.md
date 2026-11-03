@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Choline salicylate"
 predicted_indications: ["Prinzmetal angina", "rheumatoid arthritis", "hypertensive disorder", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Raynaud disease", "pulmonary hypertension"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Choline Salicylate：預測新適應症為變異型心絞痛 (Prinzmetal angina)（證據等級 L5）。原適應症：解熱鎮痛劑"
 ---
 
@@ -53,6 +53,12 @@ TxGNN 模型預測它可能對**變異型心絞痛 (Prinzmetal angina)** 有效�
 | 台灣上市 | 上市中（有效許可證 3 張／共 6 張） |
 | 許可證數 | 6 張（有效單方 1／有效複方 2／已註銷 3） |
 | 建議決策 | Hold |
+
+<!-- review:begin choline-salicylate-rheumatoid-arthritis-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級））。rheumatoid arthritis（類風濕性關節炎）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：口服 choline salicylate（如美國的 Arthropan 口服液）過去核准用於類風濕性關節炎與骨關節炎，屬已下市藥的歷史核准用途；目前找不到可查證的現行官方仿單（美國 DailyMed 現存的 choline salicylate 產品都是 OTC 止痛複方，台灣有效許可證只有外用凝膠，口服原料藥「解熱鎮痛劑」許可證皆已註銷），出處待補。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測（國外現行官方仿單出處待補，見上）；模型預測原文保留不改寫。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end choline-salicylate-rheumatoid-arthritis-known-use-rereview-result-2026-11-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -132,6 +138,8 @@ TxGNN 模型預測它可能對**變異型心絞痛 (Prinzmetal angina)** 有效�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表中原料藥已註銷、兩張凝膠為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | rheumatoid arthritis（類風濕性關節炎）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | rheumatoid arthritis（類風濕性關節炎）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

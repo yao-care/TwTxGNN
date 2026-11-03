@@ -20,19 +20,19 @@
         {
           "name": "Icatibant",
           "slug": "icatibant",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 7
         },
         {
           "name": "Magnesium Sulfate",
           "slug": "magnesium_sulfate",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 9
         },
         {
           "name": "Terbutaline",
           "slug": "terbutaline",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 3
         }
       ]
@@ -43,7 +43,7 @@
         {
           "name": "Betamethasone",
           "slug": "betamethasone",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 8
         },
         {
@@ -55,7 +55,7 @@
         {
           "name": "Dexamethasone",
           "slug": "dexamethasone",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {
@@ -67,7 +67,7 @@
         {
           "name": "Hyaluronic Acid",
           "slug": "hyaluronic_acid",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {
@@ -85,7 +85,7 @@
         {
           "name": "Oteracil",
           "slug": "oteracil",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {
@@ -180,7 +180,7 @@
         {
           "name": "Methylprednisolone",
           "slug": "methylprednisolone",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 9
         },
         {
@@ -198,7 +198,7 @@
         {
           "name": "Nystatin",
           "slug": "nystatin",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {
@@ -688,7 +688,7 @@
         {
           "name": "Dipyridamole",
           "slug": "dipyridamole",
-          "decision": "Hold",
+          "decision": "撤回（已核准用途）",
           "indication_count": 8
         },
         {
@@ -772,7 +772,7 @@
         {
           "name": "Ferrous Gluconate",
           "slug": "ferrous_gluconate",
-          "decision": "Hold",
+          "decision": "撤回（已核准用途）",
           "indication_count": 5
         },
         {
@@ -1600,7 +1600,7 @@
         {
           "name": "Tioconazole",
           "slug": "tioconazole",
-          "decision": "Proceed with Guardrails",
+          "decision": "撤回（已核准用途）",
           "indication_count": 3
         },
         {
@@ -1672,7 +1672,7 @@
         {
           "name": "Uracil",
           "slug": "uracil",
-          "decision": "Hold",
+          "decision": "撤回（已核准用途）",
           "indication_count": 10
         },
         {

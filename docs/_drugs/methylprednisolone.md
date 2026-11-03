@@ -5,7 +5,7 @@ parent: 中證據等級 (L3-L4)
 nav_order: 177
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Methylprednisolone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L3）。原適應症：抗炎性皮質固醇"
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
@@ -49,10 +49,16 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 | 原適應症 | 抗炎性皮質固醇 |
 | 預測新適應症 | 圓形禿 (Alopecia Areata) |
 | TxGNN 預測分數 | 0.9999 |
-| 證據等級 | L3 |
+| 證據等級 | 撤回：圓形禿 (Alopecia Areata)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 35 張／共 86 張） |
 | 許可證數 | 86 張（有效單方 35／有效複方 0／已過期 1／已註銷 50） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L3→撤回（已核准用途，不列新適應症等級））。圓形禿 (Alopecia Areata)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：methylprednisolone acetate 注射懸浮液（Depo-Medrol）美國仿單的病灶內注射適應症包括斑禿（圓形禿）。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8)。
+
+<!-- review:end methylprednisolone-alopecia-areata-known-use-rereview-result-2026-11-03 -->
 
 ## 為什麼這個預測合理？
 
@@ -127,6 +133,20 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 - 補充詳細的作用機轉資料，並確認口服與靜脈劑型在台灣的可及性
 
 排名第 2 至第 9 的預測（如 alopecia mucinosa、telogen effluvium 等）目前僅有模型預測、缺乏臨床證據，建議暫緩（Hold）。特發性類固醇敏感型腎病症候群（第 10 名）有文獻支持，但多為回顧性質，且以類固醇抗藥型為主，可列為後續研究問題。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 圓形禿 (Alopecia Areata)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8) |
+| 2026-11-03 | 圓形禿 (Alopecia Areata)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L3」→「證據等級／撤回：圓形禿 (Alopecia Areata)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

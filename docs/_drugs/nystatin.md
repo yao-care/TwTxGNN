@@ -5,7 +5,7 @@ parent: 中證據等級 (L3-L4)
 nav_order: 198
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Nystatin：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L3）。原適應症：抗生素"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
@@ -50,10 +50,16 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 | 原適應症 | 抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道及陰道感染） |
 | 預測新適應症 | 外陰陰道炎 (Vulvovaginitis) |
 | TxGNN 預測分數 | 0.9992 |
-| 證據等級 | L3 |
+| 證據等級 | 撤回：外陰陰道炎 (Vulvovaginitis)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 39 張／共 126 張） |
 | 許可證數 | 126 張（有效單方 11／有效複方 28／已註銷 87） |
-| 建議決策 | Proceed with Guardrails |
+| 建議決策 | 撤回（已核准用途） |
+
+<!-- review:begin nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03 -->
+
+> **重審結果（2026-11-03）**：**撤回**（證據等級 L3→撤回（已核准用途，不列新適應症等級））。外陰陰道炎 (Vulvovaginitis)是本頁快速總覽的主預測，但它是已核准用途，不是新適應症：nystatin 陰道錠／栓劑在台灣核准用於念珠菌引起的陰道感染，4 張有效單方許可證仍在（例如衛署藥製字第034585號「念珠菌感染引起之陰道炎」）；外陰陰道炎是陰道念珠菌感染的上位概念。國外（英、美）的 nystatin 陰道製劑已下市，找不到現行英文官方仿單，排除表的國外出處待補。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測（國外現行官方仿單出處待補，見上）；快速總覽的證據等級與建議決策改為撤回，模型預測原文保留不改寫。本頁快速總覽「證據等級」、快速總覽「建議決策」已依重審結果更新，原值列在下方查核紀錄。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end nystatin-vulvovaginitis-known-use-rereview-result-2026-11-03 -->
 
 <!-- review:begin nystatin-moa-2026-10-03 -->
 
@@ -192,13 +198,15 @@ Nystatin 對念珠菌性外陰陰道炎的機轉直接相關，且台灣已有�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」寫細菌感染 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列未再引用 demeclocycline 複方的細菌感染適應症；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
 | 2026-10-03 | 台灣上市資訊表第一列（立達泰定膠囊） | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
+| 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L3」→「證據等級／撤回：外陰陰道炎 (Vulvovaginitis)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 
