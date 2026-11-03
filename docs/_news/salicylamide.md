@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 10 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Salicylamide 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,13 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
-### [長者感染呼吸道疾病，肺炎、失能、死亡風險增！專家籲接種 5 大呼吸道疫苗防護](https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUmtxMDMtWjRLbjViM0JmTjFjeUJ3azRKQmVDa0pNTkYxcXd6aGpNbzJfdTNQblhfTUtEVjVCREdDNG9vMUNyMHlWa1U2dno2cWJzb0NCRjNvZ0FQa0VpLTBZRUhSRFc1SEhrLXNGdmM1NF9vRXc1eWR4cUVHSzJnMlNXYkhHX2M2YUZubjZoRHhTX3BMTGJ6cEtNQmxPc2pWWW56NzZuY3JYYW1HdGl2NGlEWE9oS2xDN2lCc0ZPY2dZNndJUEptSjVRNlVvTFNlTGEzekxjTzlwMHZTemlOVmhMN1J4VU1oTkd6QWFuVmpxR3E0ZjU2YUVCQy1wLWVORUd0LWdzTHo4SWxYOUhhWkpnWktpU09ZV0k4V2JqdTRMTGROTWo5eVVtSzhtLW9uclFTY2FJWENtdURUM29UWEJZUXZ4d3MwdGFxMlpkemwxelhaRmkxZ0xXWnRvaHIxSndBeXd5MzJHY1Nh?oc=5)
+### [RSV威脅老幼健康 5疫苗防重症](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TV1ZScC1pSHN3UExlOFdaVmNaMy15QjN2Z3BSc28yZHhUQVZ3Q0ZyOEhFdTZXN05HRGt5VDcyTTE0Y0lNX052SWxadXRQRjJPOW9HRUZhX3hGdXQwZ0FYNWNqWE9vc1k?oc=5)
 
-2026-11-02 <span class="news-indication-tag">感冒</span>
+2026-11-03 <span class="news-indication-tag">感冒</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUmtxMDMtWjRLbjViM0JmTjFjeUJ3azRKQmVDa0pNTkYxcXd6aGpNbzJfdTNQblhfTUtEVjVCREdDNG9vMUNyMHlWa1U2dno2cWJzb0NCRjNvZ0FQa0VpLTBZRUhSRFc1SEhrLXNGdmM1NF9vRXc1eWR4cUVHSzJnMlNXYkhHX2M2YUZubjZoRHhTX3BMTGJ6cEtNQmxPc2pWWW56NzZuY3JYYW1HdGl2NGlEWE9oS2xDN2lCc0ZPY2dZNndJUEptSjVRNlVvTFNlTGEzekxjTzlwMHZTemlOVmhMN1J4VU1oTkd6QWFuVmpxR3E0ZjU2YUVCQy1wLWVORUd0LWdzTHo4SWxYOUhhWkpnWktpU09ZV0k4V2JqdTRMTGROTWo5eVVtSzhtLW9uclFTY2FJWENtdURUM29UWEJZUXZ4d3MwdGFxMlpkemwxelhaRmkxZ0xXWnRvaHIxSndBeXd5MzJHY1Nh?oc=5)
+來源: [人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TV1ZScC1pSHN3UExlOFdaVmNaMy15QjN2Z3BSc28yZHhUQVZ3Q0ZyOEhFdTZXN05HRGt5VDcyTTE0Y0lNX052SWxadXRQRjJPOW9HRUZhX3hGdXQwZ0FYNWNqWE9vc1k?oc=5)
 
 ---
 
@@ -58,14 +58,6 @@ last_modified_at: 2026-11-02
 2026-10-30 <span class="news-indication-tag">感冒</span>
 
 來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxPT191RG84eDk0V3E0NXVibVBlVjZMQWQxMEc4bERvb01xODBsajJvVDJ4aWdFZTB6SXlPeWV3cGI2SWdBUm4yWDlFRThyQXRJbEhPejg5eXVYLUtZaUZwMzVYaEVXSTlFZ3NiVF8wdDBEWTEzY0MwZzl2MWdfSFI0N0tQTHVsTzBERmZmb1FibFA?oc=5)
-
----
-
-### [感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯](https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5)
-
-2026-10-27 <span class="news-indication-tag">感冒</span>
-
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5)
 
 ---
 

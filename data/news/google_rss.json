@@ -1,8 +1,56 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-02T21:07:36.369809+00:00",
-  "count": 49,
+  "fetched_at": "2026-11-03T03:11:15.483764+00:00",
+  "count": 52,
   "news": [
+    {
+      "id": "3dc31be5679c",
+      "title": "驚人研究！每週喝2杯以上汽水 胰臟癌風險竟增加87%？ - Yahoo新聞",
+      "published": "2026-11-02T03:14:42+00:00",
+      "summary": "驚人研究！每週喝2杯以上汽水 胰臟癌風險竟增加87%？&nbsp;&nbsp;Yahoo新聞這款熱門飲料與胰臟癌有關！腫瘤醫示警：「每週2杯」就要注意&nbsp;&nbsp;Yahoo新聞最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%&nbsp;&nbsp;蕃新聞不是酒精 這種常見飲品與「胰臟癌」有關 1周只喝2次也有風險&nbsp;&nbsp;世界新聞網每週喝「這飲品」與胰臟癌有關？研究發現風險高87% 專家解析真相&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ2VwUUFpbHhYbTZRZ09TSVl6OE1iYW43SWpTSXlOUkFpbUNIb3drWXdPZV9jVzhjdDRCZTQ1UjhpYU04RGNMTGxXT0R3RkdlMGZidXVVRGlxWjdpZEFnRWJONHh3OXJmalBtU0dlVW0xOUI2NjdteXktRlN3M3RQQUxlLXlkTk05RHY2NzhJbll6VHc4QzJZVXdXVWwxSGRMSmZiYlczT1hSZWlfZnBOcXdsbS0tUXNBUHFjdEtzczJxOWxpMmxFU0daUHFHazZlNXlNNnFRSl9xdFFGejNiQ0VlTkxWWjJRWFBmUVJ5TzF0RmJneDRXRFhEOFlNdzhGZnJ5WWt6S0UwdE9mcHh3T1hIYVZNUnJqaWttcUZ3VndyTmtPYlVuWXZtY0RtSE5HRGJGLVpndldxN2UxYTkzZzFENEZJRDM0Qmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fc23eee34075",
+      "title": "大肚腩兼缺乏維他命D要留心 大學研究發現50歲後死亡風險高123% - 香港01",
+      "published": "2026-11-03T00:01:32+00:00",
+      "summary": "大肚腩兼缺乏維他命D要留心 大學研究發現50歲後死亡風險高123%&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNZzVGTGFLdDBSZmFYN2Z3eU1kRWJiN2lsR3FESjdaLXZtV085bUQwanFxVVJpY29hazc2UEF1bFhnS1dITVpjSXlJTVAyZUZTcTF0S1pjY1ZmdXdLS1JKQVRqbWZ0WE5KcmpOWUhXUjhxeGZUbmlFZUJUTU5ORmRwSGJkN2E5cFd3ME1vckVSU3VkZ3VZRktGbHZ5ZzZJdm83dWxiNE43dXZlLTlDRU9jaWtzMUU5RnlQY2ZCcC1nNUlscUctOWVkQXIwZEdHNm8yT3E1NU5lbXRVTmlKRXZuZTJMSllxQ2dKcFJkZVdiSHJuMTRMRW1IeC1QWFNKLWtTMFNhNjRxVnhxVF96RUZYSU8zYnh3UzlyS3AwVkdSSG9aUktZLXR3bTFkTi1BTEJVZXE5MUkxbHJHOW1ZVG9pXzRSTmpHbWREaXQzNmxyM0QyeGFKcTNkLXZCdFkzcWJKNWkxTG1oanB6TDZBcTEtbzFSQWFsVWRwakxGX3luaGJTc2d5aXJRQVZYczk3QUNSWjkwaS1tQmlIdlhVY3VFX0UtQzZ1NGpoeUFr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20c85fe22523",
+      "title": "RSV威脅老幼健康 5疫苗防重症 - 人間福報電子報",
+      "published": "2026-11-03T01:05:20+00:00",
+      "summary": "RSV威脅老幼健康 5疫苗防重症&nbsp;&nbsp;人間福報電子報長者感染呼吸道疾病，肺炎、失能、死亡風險增！專家籲接種 5 大呼吸道疫苗防護&nbsp;&nbsp;Yahoo新聞以為只是感冒？RSV病毒比流感更兇&nbsp;&nbsp;東森新聞家有老幼小心RSV！醫：造成肺炎機率為流感2.7倍 籲盤點「5大疫苗」&nbsp;&nbsp;三立新聞網SETN.comRSV初期像感冒「一人感染全家承擔」 這4族群重症死亡風險最高&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "人間福報電子報",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TV1ZScC1pSHN3UExlOFdaVmNaMy15QjN2Z3BSc28yZHhUQVZ3Q0ZyOEhFdTZXN05HRGt5VDcyTTE0Y0lNX052SWxadXRQRjJPOW9HRUZhX3hGdXQwZ0FYNWNqWE9vc1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3efcc3e6cc8",
+      "title": "嘴角往下掉、法令紋愈來愈深？醫師揭口周3 大老化訊號- 健康新聞 - PChome Online 新聞",
+      "published": "2026-11-03T01:00:00+00:00",
+      "summary": "嘴角往下掉、法令紋愈來愈深？醫師揭口周3 大老化訊號- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTl6WUVyVWVVdThtS3pLQmJOQ21Fdjg2aXVfQ2JPZDFYQ0xUUWUzcm1sZ1Bpb01fa0p2Y2xNcXhXQmYwTnhsVmt3RDZqYWhnS0l5WTZGSk13bGtlaU1mRzhTczc0aGxZdmpUd3dPREpORkY0NXZtR3hoaTY4UmxZb2NEcDNlN3hjNk10WncxVVpRdWs?oc=5"
+        }
+      ]
+    },
     {
       "id": "0800932e5417",
       "title": "每天吃60克花生 研究發現熟齡者記憶相關腦區反應改善 - 自由健康網",
@@ -16,14 +64,14 @@
       ]
     },
     {
-      "id": "a085c8904b59",
-      "title": "長者感染呼吸道疾病，肺炎、失能、死亡風險增！專家籲接種 5 大呼吸道疫苗防護 - Yahoo新聞",
-      "published": "2026-11-02T15:44:44+00:00",
-      "summary": "長者感染呼吸道疾病，肺炎、失能、死亡風險增！專家籲接種 5 大呼吸道疫苗防護&nbsp;&nbsp;Yahoo新聞一人染RSV恐全家中鏢 醫示警「4大族群」重症死亡風險高&nbsp;&nbsp;ETtoday健康雲以為只是感冒？RSV病毒比流感更兇&nbsp;&nbsp;東森新聞家有老幼小心RSV！醫：造成肺炎機率為流感2.7倍 籲盤點「5大疫苗」&nbsp;&nbsp;三立新聞網SETN.com呼吸道細胞融合病毒(RSV) 威脅橫跨老幼一旦感染高風險族群肺炎、慢病惡化與失能風險增加- 健康新聞&nbsp;&nbsp;PChome Online新聞",
+      "id": "559779e43089",
+      "title": "得閒要曬下 研究：日照不足可能會增加失智風險 - am730",
+      "published": "2026-11-02T03:30:00+00:00",
+      "summary": "得閒要曬下 研究：日照不足可能會增加失智風險&nbsp;&nbsp;am730",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOUmtxMDMtWjRLbjViM0JmTjFjeUJ3azRKQmVDa0pNTkYxcXd6aGpNbzJfdTNQblhfTUtEVjVCREdDNG9vMUNyMHlWa1U2dno2cWJzb0NCRjNvZ0FQa0VpLTBZRUhSRFc1SEhrLXNGdmM1NF9vRXc1eWR4cUVHSzJnMlNXYkhHX2M2YUZubjZoRHhTX3BMTGJ6cEtNQmxPc2pWWW56NzZuY3JYYW1HdGl2NGlEWE9oS2xDN2lCc0ZPY2dZNndJUEptSjVRNlVvTFNlTGEzekxjTzlwMHZTemlOVmhMN1J4VU1oTkd6QWFuVmpxR3E0ZjU2YUVCQy1wLWVORUd0LWdzTHo4SWxYOUhhWkpnWktpU09ZV0k4V2JqdTRMTGROTWo5eVVtSzhtLW9uclFTY2FJWENtdURUM29UWEJZUXZ4d3MwdGFxMlpkemwxelhaRmkxZ0xXWnRvaHIxSndBeXd5MzJHY1Nh?oc=5"
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5"
         }
       ]
     },
@@ -52,18 +100,6 @@
       ]
     },
     {
-      "id": "559779e43089",
-      "title": "得閒要曬下 研究：日照不足可能會增加失智風險 - am730",
-      "published": "2026-11-02T03:30:00+00:00",
-      "summary": "得閒要曬下 研究：日照不足可能會增加失智風險&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2ef1886c89da",
       "title": "研究：強化特殊基因活性 或有助於維護大腦記憶力 - 自由健康網",
       "published": "2026-10-27T06:03:00+00:00",
@@ -72,18 +108,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zajdpQnViSE5fV29EeHJYbTNwX1REYy1pVnp2RUJYVUlNTUdPVjNRRFYwSWlsS3gxYWsyMTQ3djRITzNRb3pjUjZESld6akNYM014elNSa3llSWlubWp2WHRRc2U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6f29923c0f9b",
-      "title": "美國麻疹破4800例 疫苗政策官司未決成期中選舉議題 - 報新聞 Mega News",
-      "published": "2026-11-02T17:46:51+00:00",
-      "summary": "美國麻疹破4800例 疫苗政策官司未決成期中選舉議題&nbsp;&nbsp;報新聞 Mega News前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPdml1a3liVzlNOUttNDZjQ0hDT0cxZFkwZS1GMlBfUzhTdVliTm1naWxVQWdpZkswNWw4VlZiQ0pjd3NLTHRtSkctMDhzWV84dmlxNzZWUno3eFBPaEVTaVd0RkFQbG5aQVVadmJIcm5ZWFpjdGZkLThkN3J0RU5zcTZhQWE2WGlmcFhITkhFZzR2engtb1VybVZYQkxjVmMtMHlnZXowcDhGTWhZaFo0YXAxeXpER3hXbXdQLTRwZ3EzdjB3RkU3Y2ExWG9GV3BhNGNMdFdXdkkxUkQ2Q1ZYS0YwempNeXJWMjF5MkotMzFocmNTR2NNZ3dPbE1QVnJMZkxFajh0eWFpMFY5a0t0RHNxS1ZNcW9ZaUNSNEItNW5MVm41SkprYU5MMzVzWE84eDcxSnRmVmJfNzBjdU10VzRaQ2FJNG1pdWZoNWExblNucGZwQklmOWxRaFd3UlpkM2c?oc=5"
         }
       ]
     },
@@ -108,18 +132,6 @@
         {
           "name": "明日科學",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Sb3R1LTFpYmNoWnNjeUlDMjNmb0s2TG11NTJFNkVQUTFKTGtrNV9uZVRDT3ppaG9QMXppeU5ydTRVOE0wQ0xLUkw1N0M4SGNRbGhXLWk5Vm1QbzhxSHcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10c74db3c3a0",
-      "title": "感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯 - Yahoo新聞",
-      "published": "2026-10-27T00:03:39+00:00",
-      "summary": "感冒怎麼好得快？醫列「7種抗病食物」蘋果芭樂上榜 滴雞精竟不如這碗湯&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxQT1R2dU1HYWVScWQ1bEJyTEZlQkdFQlpJdm15My1YU0h5X0FHeFpRcExrdkRSYVZZcVpVaC04QjNYSm9sYW5OWnVSQ3B0WmExNVpvLVFScDFNaDI4SzI2cmJqdk1scTUySEh2elJyUUpEWENwVjhLZGd4aGs2NnM3czJ6NURULXFJT0puNlI5SGtCZ1dQMm02Z1EwMmtncDd2S0tFeFIxV2FNY3VfUEtJS3cyZHUwV1QxR2h1VUhwQ2FmRzlwOHJjeVBxSVBMT045TmI5eUVmRldzVXgxUG9lM1NRVWRRTy1NQmxjUVRFTUNqVDk4THdJbG8xQUhIcmZxQmVhR25uMi1YZENKTzBQbzBseHFMeFdMRVBSNE15Sk5aNjJXcnE5cGZuNlB2TkNtWmZoRU5OQ3pLOHdyRUV4M2U2Q1lOLU93ZDNCR3FDTnZvMmVKOFFXMWZIZEwybUtIQ1FPOWNzcHdHM09HbktNNUdnRUJ5NFdqOGRsMEJwYWpYb0RpTV9Nd0EwRUxGTVhXTW5fNC1lUjRVZEJtRENQOUtKMXE0eXFBdVN2WU8ydzYtazJoN2c?oc=5"
         }
       ]
     },
@@ -160,14 +172,26 @@
       ]
     },
     {
-      "id": "2223210fc143",
-      "title": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明 - 香港01",
-      "published": "2026-11-01T02:00:56+00:00",
-      "summary": "兒童吃甚麼魚最好？營養師推4大高營養魚類 護眼補腦吃了變聰明&nbsp;&nbsp;香港01前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "3445d145384b",
+      "title": "魚油與大腦健康有關？研究揭關鍵- 健康 - 中時新聞網",
+      "published": "2026-10-30T08:42:00+00:00",
+      "summary": "魚油與大腦健康有關？研究揭關鍵- 健康&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOUy1lRDByNU9DQzZXQ3VqbUMtV3dHbzctYjFoMDBBcjhrQWtHVFZ4Sm5nUW1jRnlud25PNFp1Rk4zdnR6WEkxWURLWTE4bDRrZ0lxa1ZSWF9FczF0UmUwd1YtRkZ3TXJsSFZ4eGxTQUdhamR5Nmdsc0Z6eGEwa0FXMnhieDYwcmcyVFhaandUMTRES2VSQnUyamx3SFJvcGJSYjdXdGVzZEhjSDJPWTJqeHBDSl9qelRpMi01SzNMTE1WV0NxbVlLNWtyWnp6cFdqRnZYbmc1aDducmo2VmdsLUlCYkFLS2NBZDR4aWpvTW5QNmlQNXNZN3p3akllZjhqeUd1ZDBwNnlQYXBDSFp5LU9uRC1UcVNUMW9udVZ4STBnWDRLM2k1bW9zTmQzZFdzTmpZcWpHbFNRVmhYbUVBckd1eFpGcGt3cWFxMVRaVDFWODliWVBoMnhucnBMckdOZ3ZaZllxV25Oc0FKVG5fanBRanBQYnJFaFRRbTAyY1JZVm1Ia21reXBxX1UxQ1RBcW9mVVpRTmYwcTdnbTF0dUlKam5mdw?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uQUlzX0RUdVlVYUJ1ME85bVR3THhFcEpQV2FhQm9hVkNPRU5hbTM2UmJGd0ZwcjBNc2F2c3N5alRGRWxrMkxtdWhpZjRQUHVFMGtFdnVHRXVDazJHYjNMaGpEbUlDYW91SHoxRWRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "934d39639881",
+      "title": "怕失智常喝柳橙汁有效嗎？研究發現風險較低，醫師提醒3類人要避開- 書房 - 工商時報",
+      "published": "2026-10-30T23:25:00+00:00",
+      "summary": "怕失智常喝柳橙汁有效嗎？研究發現風險較低，醫師提醒3類人要避開- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sMmpUTXc3OUZiWVF5cWoybVJiQUJCRk0xeUpGWjBTbG5EeUJyOVEzMlRrQjB6QW1ETmxldzBQcDN3OTFZcEd2RGtic0g3R29DMVM2Q29wOU1OV25mYTFv?oc=5"
         }
       ]
     },
@@ -232,30 +256,6 @@
       ]
     },
     {
-      "id": "00ac787b7bd2",
-      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media",
-      "published": "2026-10-27T01:30:00+00:00",
-      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "鏡週刊Mirror Media",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7bafa9cdca32",
-      "title": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護 - 健康醫療網",
-      "published": "2026-10-27T01:00:00+00:00",
-      "summary": "93歲阿嬤肝硬化合併末期腎臟病 醫師談腹膜透析與居家照護&nbsp;&nbsp;健康醫療網",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81YUhtbnR6YU03WExsY2RTWVpnTTIwODVrcnpXQlB1RS0ydVZLYU5FdHpFZS0wUEZ6eDNmbm0xZ3JuVjY4cWZNNC16NFMxR1pyS0FSbk9B?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d88adfb84cd3",
       "title": "破解癌王變身密碼！科學家抑制1基因讓惡性胰臟癌細胞逆轉 - 自由健康網",
       "published": "2026-10-27T07:12:00+00:00",
@@ -295,7 +295,7 @@
       "id": "262da5e0f10c",
       "title": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療 - Singtaousa",
       "published": "2026-11-01T13:22:33+00:00",
-      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa幽門螺旋菌｜內地一半人带菌 成人感染難自癒 專家籲6類高危人士規範除菌&nbsp;&nbsp;星島頭條",
+      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Singtaousa",
@@ -352,6 +352,42 @@
       ]
     },
     {
+      "id": "62ee4502eb80",
+      "title": "​協和澳門藉“世界卒中日”辦健康諮詢活動 推動居民重視卒中防治 - 濠江日報",
+      "published": "2026-11-03T02:48:33+00:00",
+      "summary": "​協和澳門藉“世界卒中日”辦健康諮詢活動 推動居民重視卒中防治&nbsp;&nbsp;濠江日報",
+      "sources": [
+        {
+          "name": "濠江日報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTXhSTGQtUlh3RWwxRGRLSUl2OUNKQVM4TFBpd3RtTzlzSlh2cEt2RUZ5RnBkRkM3RHBOaFlNQVlnTjdKR3R2YmFTQ2hqSVd6VmVBSXg0UGxYYkFkOEhQdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1789a2f8ee12",
+      "title": "衞生防護中心籲長者接種流感疫苗 拆解無長期病亦需打針迷思 - 巴士的報",
+      "published": "2026-11-03T01:38:18+00:00",
+      "summary": "衞生防護中心籲長者接種流感疫苗 拆解無長期病亦需打針迷思&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQUWljcWE2TTRfb0pDaE54LXVEUExtbnFvbjctRFpqc2V3UDVxbUhMUEhuVXFIRzBQRlJELUstc2VaQldiRWJkdWc3aF84SWhIc3pyV3B6NzdqTEpWcU0yNmtrbmZuc2RvMXlpM3lINHZsM2xqV1lGeE5tOEtqQmJuYVYtYmI1bXdsVWlXS0d2S2FaMk44aXZ0d2c3TGppYzZqV3VLM1FJYXNYdDFHNjZ1MFVzVlNtb0NwWGU4cVVGSTluTEh0cTVtdGFrSThlejVlbWEwZWpEMGpoTXRnWkhwYk55NWtQMVV5U2ZwT05yTE5VaE5sLUVHakJzMGVwY3RTc2JCRUlSN2QxQ2pBeDFmU3BJRDZfc09sTDNDT2ZnRmUwWGRmRGgxWHVIRWlDaUF2Y1B2dzgtOVZFOUNMSEtBcjBya2ZzZEs3bVhNRExPa3BneGs5Tm1BYVlKbHoxSEo5TUt6QmhtSVk0bnZjeUJJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3d3a8d1f22e2",
+      "title": "49歲女心跳飆160下！曾換心臟瓣膜又中風 「雙能量消融導管」微創治療難題 - 健康醫療網",
+      "published": "2026-10-27T05:00:00+00:00",
+      "summary": "49歲女心跳飆160下！曾換心臟瓣膜又中風 「雙能量消融導管」微創治療難題&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WY2RERGd6R21Zbks2djBZVjNUbWFFNDJaOVI0YnZGQlptY1I3d1FUYUJneWFGVVNVWVFhYzFiczA3LVM5TGE2SHB2WGhINmZJUUdrRXJB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6240e6cf589c",
       "title": "僵人症可能迎來第一個核准療法？CAR-T 試驗中 12 人有 8 人擺脫助行輔具 - 明日科學",
       "published": "2026-10-27T07:40:43+00:00",
@@ -376,18 +412,6 @@
       ]
     },
     {
-      "id": "fb58e9366330",
-      "title": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活 - 工商時報",
-      "published": "2026-10-27T01:39:00+00:00",
-      "summary": "心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e4b53ee22c9f",
       "title": "當代年輕人老得更快 研究揭如何延緩老化 - 大紀元",
       "published": "2026-10-29T22:53:00+00:00",
@@ -396,6 +420,18 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yY2RhMWo3Q1ZqQUVhU0lweVlpdjFuUkxHcmR6RnNvLVBvYkg4X1F6RFFRR1lTeXhjYmpaTWQ2bzZjTGl1XzZBZEpoV1lNRFZyblcwejBMZGZiTXlCaF9reEFB0gFnQVVfeXFMT3k3SkR4VFdLVGFXYmpTMmhBX0lNUWlBTG94NEl1a3VJODN1UmtNaHhkTE1DM3R6TmdYNDRpVkJhaUZaQ3JtbU5kSE1wSUFPNUhpR3NxT2d0UlJVNjg5ZGNFOWhtUlBMUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ac0ef044e5e",
+      "title": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - FTNN 新聞網",
+      "published": "2026-10-27T07:16:00+00:00",
+      "summary": "吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看&nbsp;&nbsp;FTNN 新聞網",
+      "sources": [
+        {
+          "name": "FTNN 新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRmZta3NJUkpfajRPM01pRkprQTB3LVc4ZGZXYWhEX2pmMWdWMG5VeThweUJlM1Z3RDFHbXpyZ0VrYnltdlN2SkFKaw?oc=5"
         }
       ]
     },
@@ -460,13 +496,13 @@
       ]
     },
     {
-      "id": "8224e25af8e3",
-      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節 - 香港01",
+      "id": "f6cc428e95ed",
+      "title": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節 - HK01",
       "published": "2026-10-27T15:02:09+00:00",
-      "summary": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節&nbsp;&nbsp;香港01",
+      "summary": "6mm乳腺結節竟是癌腫瘤！北京女確診乳癌 醫生點出1個保命細節&nbsp;&nbsp;HK01",
       "sources": [
         {
-          "name": "香港01",
+          "name": "HK01",
           "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5"
         }
       ]
@@ -487,7 +523,7 @@
       "id": "12ef7d829e4f",
       "title": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK - 明報新聞網",
       "published": "2026-10-27T10:20:47+00:00",
-      "summary": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK&nbsp;&nbsp;明報新聞網推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站流感｜病毒肆虐打針進度較滯 新季度港人僅打90萬劑流感針 較去年同期少一成&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "夏季流感高峰持續許樹昌籲即使已感染須打疫苗預防冬季爆發(18:20) - 20261027 - 即時熱點- 熱門HOTPICK&nbsp;&nbsp;明報新聞網推前流感防線 社區診所把關 兒童嚴重個案大增 併發症來得急&nbsp;&nbsp;信報網站夏季流感高峰持續 許樹昌籲即使已感染 須打疫苗預防冬季爆發 (18:20) - 20261027 - 熱點&nbsp;&nbsp;明報新聞網",
       "sources": [
         {
           "name": "明報新聞網",

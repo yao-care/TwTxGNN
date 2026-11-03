@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 15 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Gefitinib 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -48,7 +48,7 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [得閒要曬下 研究：日照不足可能會增加失智風險](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5)
 
@@ -58,11 +58,27 @@ last_modified_at: 2026-11-02
 
 ---
 
+### [驚人研究！每週喝2杯以上汽水 胰臟癌風險竟增加87%？](https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ2VwUUFpbHhYbTZRZ09TSVl6OE1iYW43SWpTSXlOUkFpbUNIb3drWXdPZV9jVzhjdDRCZTQ1UjhpYU04RGNMTGxXT0R3RkdlMGZidXVVRGlxWjdpZEFnRWJONHh3OXJmalBtU0dlVW0xOUI2NjdteXktRlN3M3RQQUxlLXlkTk05RHY2NzhJbll6VHc4QzJZVXdXVWwxSGRMSmZiYlczT1hSZWlfZnBOcXdsbS0tUXNBUHFjdEtzczJxOWxpMmxFU0daUHFHazZlNXlNNnFRSl9xdFFGejNiQ0VlTkxWWjJRWFBmUVJ5TzF0RmJneDRXRFhEOFlNdzhGZnJ5WWt6S0UwdE9mcHh3T1hIYVZNUnJqaWttcUZ3VndyTmtPYlVuWXZtY0RtSE5HRGJGLVpndldxN2UxYTkzZzFENEZJRDM0Qmc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">腫瘤</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ2VwUUFpbHhYbTZRZ09TSVl6OE1iYW43SWpTSXlOUkFpbUNIb3drWXdPZV9jVzhjdDRCZTQ1UjhpYU04RGNMTGxXT0R3RkdlMGZidXVVRGlxWjdpZEFnRWJONHh3OXJmalBtU0dlVW0xOUI2NjdteXktRlN3M3RQQUxlLXlkTk05RHY2NzhJbll6VHc4QzJZVXdXVWwxSGRMSmZiYlczT1hSZWlfZnBOcXdsbS0tUXNBUHFjdEtzczJxOWxpMmxFU0daUHFHazZlNXlNNnFRSl9xdFFGejNiQ0VlTkxWWjJRWFBmUVJ5TzF0RmJneDRXRFhEOFlNdzhGZnJ5WWt6S0UwdE9mcHh3T1hIYVZNUnJqaWttcUZ3VndyTmtPYlVuWXZtY0RtSE5HRGJGLVpndldxN2UxYTkzZzFENEZJRDM0Qmc?oc=5)
+
+---
+
 ### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
 
 2026-10-31 <span class="news-indication-tag">腫瘤</span>
 
 來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
+
+---
+
+### [怕失智常喝柳橙汁有效嗎？研究發現風險較低，醫師提醒3類人要避開- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sMmpUTXc3OUZiWVF5cWoybVJiQUJCRk0xeUpGWjBTbG5EeUJyOVEzMlRrQjB6QW1ETmxldzBQcDN3OTFZcEd2RGtic0g3R29DMVM2Q29wOU1OV25mYTFv?oc=5)
+
+2026-10-30 <span class="news-indication-tag">失智</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sMmpUTXc3OUZiWVF5cWoybVJiQUJCRk0xeUpGWjBTbG5EeUJyOVEzMlRrQjB6QW1ETmxldzBQcDN3OTFZcEd2RGtic0g3R29DMVM2Q29wOU1OV25mYTFv?oc=5)
 
 ---
 
@@ -94,23 +110,15 @@ last_modified_at: 2026-11-02
 
 2026-10-27 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
-來源: [香港01](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5)
+來源: [HK01](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5)
 
 ---
 
-### [心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
-
-2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
-
----
-
-### [吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - 鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5)
+### [吃葡萄糖胺加速失智？ 醫：勿恐慌，我看看 - FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRmZta3NJUkpfajRPM01pRkprQTB3LVc4ZGZXYWhEX2pmMWdWMG5VeThweUJlM1Z3RDFHbXpyZ0VrYnltdlN2SkFKaw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">失智</span>
 
-來源: [鏡週刊Mirror Media](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tWVpMSkhWZkllVVFua01jUC1keDBzNWhGVnJGUkNHc1g2NzVOUFdvYzJqM2VFQnp3bUMycG1lRDZXNV9WcmxtNnFBZ05HVjcyTEJUZ0toZGFrQdIBX0FVX3lxTE9RWDN2ejQ0LW9NUi01Tnlsek1mc1NoTW4yYzVZT2RDeVp0VEJNbGotSWcwNlh0d3g1T2h2SW96LXpyTWNUbFhCLXduZ2RWT3FZM25iam9Ncl9JeUJZbWlB?oc=5)
+來源: [FTNN 新聞網](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9uRmZta3NJUkpfajRPM01pRkprQTB3LVc4ZGZXYWhEX2pmMWdWMG5VeThweUJlM1Z3RDFHbXpyZ0VrYnltdlN2SkFKaw?oc=5)
 
 ---
 

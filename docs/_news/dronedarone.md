@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dronedarone 的相關健康新聞報導。原適應症：血管擴張劑。（另一張許可證：最近 6 個月內有陣發性或持續性 AF/AFL，且目前處於竇性節律者，降...。預測適應症 10 個。"
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Dronedarone 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Dronedarone</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [癌症與中風 哪一個更可怕？ - 報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
 
 來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+
+---
+
+### [49歲女心跳飆160下！曾換心臟瓣膜又中風 「雙能量消融導管」微創治療難題](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WY2RERGd6R21Zbks2djBZVjNUbWFFNDJaOVI0YnZGQlptY1I3d1FUYUJneWFGVVNVWVFhYzFiczA3LVM5TGE2SHB2WGhINmZJUUdrRXJB?oc=5)
+
+2026-10-27 <span class="news-indication-tag">中風</span>
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WY2RERGd6R21Zbks2djBZVjNUbWFFNDJaOVI0YnZGQlptY1I3d1FUYUJneWFGVVNVWVFhYzFiczA3LVM5TGE2SHB2WGhINmZJUUdrRXJB?oc=5)
 
 ---
 

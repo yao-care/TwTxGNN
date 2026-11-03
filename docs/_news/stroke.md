@@ -3,9 +3,9 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。2 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # 中風 (stroke) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>2 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ last_modified_at: 2026-11-02
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [癌症與中風 哪一個更可怕？ - 報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
 
 2026-10-27
 
 來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSUM0TWZYYmJqYW5ldXFvRDdkZkdtaEFVVTB5ZmZiX3JFUXZ6OW84dlRKVldTbmdXQkJya09OQWV3MVRSeUN5RXUwbDQta0pVbC1vbTVucVM0SjIwZ0FyWDJXNjBrQTFhVTB1M2pva2ZTMDItZjQ3aDNuMzFRZk8yTFQyUEowZUMzWkxWSTFMX2hmNmVlRVNkYXRDRlhwb0hVSktGcGN2NnRwYVB3Y3BUMU1zWXRXZGEwbGZKMzNfVHJSRzZ3OC1zckM4Ri1XeldtcjlZOWwteUlmUG41UmVjM1d1cHQ0WlV1M3hSMHFLXzE?oc=5)
+
+---
+
+### [49歲女心跳飆160下！曾換心臟瓣膜又中風 「雙能量消融導管」微創治療難題](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WY2RERGd6R21Zbks2djBZVjNUbWFFNDJaOVI0YnZGQlptY1I3d1FUYUJneWFGVVNVWVFhYzFiczA3LVM5TGE2SHB2WGhINmZJUUdrRXJB?oc=5)
+
+2026-10-27
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WY2RERGd6R21Zbks2djBZVjNUbWFFNDJaOVI0YnZGQlptY1I3d1FUYUJneWFGVVNVWVFhYzFiczA3LVM5TGE2SHB2WGhINmZJUUdrRXJB?oc=5)
 
 ---
 

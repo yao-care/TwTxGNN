@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gemcitabine 的相關健康新聞報導。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾...。預測適應症 10 個。"
 permalink: /news/gemcitabine/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # Gemcitabine 相關新聞
@@ -44,6 +44,14 @@ last_modified_at: 2026-11-02
 </div>
 
 ## 相關新聞（8 則）
+
+### [驚人研究！每週喝2杯以上汽水 胰臟癌風險竟增加87%？](https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ2VwUUFpbHhYbTZRZ09TSVl6OE1iYW43SWpTSXlOUkFpbUNIb3drWXdPZV9jVzhjdDRCZTQ1UjhpYU04RGNMTGxXT0R3RkdlMGZidXVVRGlxWjdpZEFnRWJONHh3OXJmalBtU0dlVW0xOUI2NjdteXktRlN3M3RQQUxlLXlkTk05RHY2NzhJbll6VHc4QzJZVXdXVWwxSGRMSmZiYlczT1hSZWlfZnBOcXdsbS0tUXNBUHFjdEtzczJxOWxpMmxFU0daUHFHazZlNXlNNnFRSl9xdFFGejNiQ0VlTkxWWjJRWFBmUVJ5TzF0RmJneDRXRFhEOFlNdzhGZnJ5WWt6S0UwdE9mcHh3T1hIYVZNUnJqaWttcUZ3VndyTmtPYlVuWXZtY0RtSE5HRGJGLVpndldxN2UxYTkzZzFENEZJRDM0Qmc?oc=5)
+
+2026-11-02 <span class="news-indication-tag">腫瘤</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxOQ2VwUUFpbHhYbTZRZ09TSVl6OE1iYW43SWpTSXlOUkFpbUNIb3drWXdPZV9jVzhjdDRCZTQ1UjhpYU04RGNMTGxXT0R3RkdlMGZidXVVRGlxWjdpZEFnRWJONHh3OXJmalBtU0dlVW0xOUI2NjdteXktRlN3M3RQQUxlLXlkTk05RHY2NzhJbll6VHc4QzJZVXdXVWwxSGRMSmZiYlczT1hSZWlfZnBOcXdsbS0tUXNBUHFjdEtzczJxOWxpMmxFU0daUHFHazZlNXlNNnFRSl9xdFFGejNiQ0VlTkxWWjJRWFBmUVJ5TzF0RmJneDRXRFhEOFlNdzhGZnJ5WWt6S0UwdE9mcHh3T1hIYVZNUnJqaWttcUZ3VndyTmtPYlVuWXZtY0RtSE5HRGJGLVpndldxN2UxYTkzZzFENEZJRDM0Qmc?oc=5)
+
+---
 
 ### [【冬陽天地】乳癌與骨質疏鬆](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
 
@@ -89,7 +97,7 @@ last_modified_at: 2026-11-02
 
 2026-10-27 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">乳癌</span>
 
-來源: [香港01](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5)
+來源: [HK01](https://news.google.com/rss/articles/CBMiqgNBVV95cUxPNzlZQm5ocDM0RmRMZU9xYW1fNWtOaWh0UzRnYWhGbVoxTV9hQ1pRa1lGRUExRkhmeGlMcjZQRkpUSUNPM05xMTFNTzlZdlJEd3ZKTkVJMFVSRGxaUmU4NFU4c19OTVVDOG1FVGUydzJKYXRVSGVYUVhHMlZMWlpfQzVfUVYyVEhHX1B4aFJvbEVqT2NRMHVMeVlKTlNoWmtXQzV0T1NCWHE2X2lSeUZUMEgyUGs2U3hFRWhIYXRuQ2J6ckt5MlFtb296eXVYMDJPRGtodmlYSjhwS2RjeTNFU2lHQlNxaDV1aEdrcUVlOVJxM1VzcHhObTgwYlF3NVlwVVJneko0aDNJcmhkTmdWWldGTzZObGxzRS1nWW1mWTI4a0dxY1V0cXE5VE44MU9GYTd2NUQyMXEzNm8xRmFzeTUxdHY5Szctd3pWVHZPWXBxS2MxZzBucjNsSFhxbE8zbGNUaHVxNE1OS2tuV2xaZ1N4S3h6RkdtYnloYWVmSC12a3ZjQlBjelRPUENlM1BDR3ZNelBFNkhZSy1iMjZUVWpvZDUycVgwQ0E?oc=5)
 
 ---
 
@@ -98,14 +106,6 @@ last_modified_at: 2026-11-02
 2026-10-27 <span class="news-indication-tag">乳腺癌</span>
 
 來源: [shemom.com](https://news.google.com/rss/articles/CBMirgNBVV95cUxNazNYRHlyRF9wUlZVcjZxMjlweEZjU2xHb1E1Y3pYbS0yWXFZUEwwczVrbklMMjdmMnJlUUNYVzZ4Y2trbTNTaTdHamxrY21HN2NNbGxhRkZKSTFsRFVuUDd5RW5sWlY5bnVWc01XaEFPUGJPWTl1V2xMYlFrTXlQZzgwT0ZuRTN4UWY1c18zRThNY2NFaEUzZUZEYkk1b1RrWUh1b05HaTg4MWpSdUhTRTNjWGVRb2lJVTlzUkVFUGxUUl9CUXA5Qzd1UlZCRlFaUXQ1cnJVYm8wdEUyN2UtR0pUZk9QZ1VnNndDZ1JGdHJIdWpyejB4Z1FITXhhNExnVHRRYkNBQTRwU3lJNmNhcTJpVVJwX0xIcHMyWVlvQjB1NDVIbkF3ZlF5SkF5U0pqcjg1VzVZUVFhZ3lreXBxMnZZWEZ5SnE4cTBlVERGYXlhRWhxbTRWaklyMnVwbnkyb21TZVNiRkJUV3dJQU1STnpyOFdQazUxcnJtYTZrb1MtM0JEdHVnTWZsenFyR3JhLW13amVwQ1c3UXlUbU4wS3lmbndka2JYdnh6Ym5B?oc=5)
-
----
-
-### [心臟衰竭與癌症有何關聯？醫師揭密三大機轉：慢性發炎是關鍵推手- 樂活](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
-
-2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心臟衰竭</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZGk3SS1BU1labWZxUVdFdGFNdEI4b3ZJOXh2dXdiTmkxTFFOZlNoX3Jia0RxVzFpZ0ZsTDFnTVF5R2VYMHdhNURUNGl4dkQtMXJPYjd5eG4wY0VFMnFr?oc=5)
 
 ---
 
