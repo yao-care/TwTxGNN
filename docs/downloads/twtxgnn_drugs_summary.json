@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:33:02.341068",
+  "generated_at": "2026-11-03T10:56:06.691515",
   "total_drugs": 291,
   "evidence_distribution": {
     "L5": 233,
@@ -105,7 +105,7 @@
       "drug_name": "Aluminum Hydroxide",
       "evidence_level": "N/A",
       "indication_count": 0,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/aluminum_hydroxide/"
     },
     {
@@ -238,7 +238,7 @@
       "drug_name": "Betamethasone",
       "evidence_level": "N/A",
       "indication_count": 8,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/betamethasone/"
     },
     {
@@ -504,7 +504,7 @@
       "drug_name": "Dexamethasone",
       "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/dexamethasone/"
     },
     {
@@ -525,7 +525,7 @@
       "drug_name": "Dipyridamole",
       "evidence_level": "N/A",
       "indication_count": 8,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/dipyridamole/"
     },
     {
@@ -539,7 +539,7 @@
       "drug_name": "Dl-Alpha-Tocopherol",
       "evidence_level": "N/A",
       "indication_count": 0,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/dl-alpha-tocopherol/"
     },
     {
@@ -602,7 +602,7 @@
       "drug_name": "Emedastine",
       "evidence_level": "N/A",
       "indication_count": 0,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/emedastine/"
     },
     {
@@ -679,7 +679,7 @@
       "drug_name": "Ferrous Gluconate",
       "evidence_level": "N/A",
       "indication_count": 5,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/ferrous_gluconate/"
     },
     {
@@ -854,7 +854,7 @@
       "drug_name": "Hyaluronic Acid",
       "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/hyaluronic_acid/"
     },
     {
@@ -903,7 +903,7 @@
       "drug_name": "Icatibant",
       "evidence_level": "N/A",
       "indication_count": 7,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/icatibant/"
     },
     {
@@ -1148,7 +1148,7 @@
       "drug_name": "Methylprednisolone",
       "evidence_level": "N/A",
       "indication_count": 9,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/methylprednisolone/"
     },
     {
@@ -1288,14 +1288,14 @@
       "drug_name": "Norethindrone Enanthate",
       "evidence_level": "N/A",
       "indication_count": 0,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/norethindrone_enanthate/"
     },
     {
       "drug_name": "Nystatin",
       "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/nystatin/"
     },
     {
@@ -1309,7 +1309,7 @@
       "drug_name": "Oteracil",
       "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/oteracil/"
     },
     {
@@ -1701,7 +1701,7 @@
       "drug_name": "Silicon Dioxide",
       "evidence_level": "N/A",
       "indication_count": 0,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/silicon_dioxide/"
     },
     {
@@ -1785,7 +1785,7 @@
       "drug_name": "Terbutaline",
       "evidence_level": "N/A",
       "indication_count": 3,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/terbutaline/"
     },
     {
@@ -1862,7 +1862,7 @@
       "drug_name": "Tioconazole",
       "evidence_level": "N/A",
       "indication_count": 3,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/tioconazole/"
     },
     {
@@ -1960,7 +1960,7 @@
       "drug_name": "Uracil",
       "evidence_level": "N/A",
       "indication_count": 10,
-      "parent_category": "僅已知用途（無新預測）",
+      "parent_category": "僅已知用途／主預測已撤回",
       "url": "/drugs/uracil/"
     },
     {

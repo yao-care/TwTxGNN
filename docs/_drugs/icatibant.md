@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Icatibant
-parent: 僅已知用途（無新預測）
+parent: 僅已知用途／主預測已撤回
 nav_order: 142
 evidence_level: N/A
 indication_count: 7
@@ -182,7 +182,7 @@ C1 酯酶抑制劑缺乏會使激肽釋放酶-激肽系統失控活化，造成�
 |---------|------|------|------|
 | 2026-11-03 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L1→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L1」→「證據等級／撤回：C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L1→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L1→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)」已重審撤回） | 加註 | [US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L1」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 

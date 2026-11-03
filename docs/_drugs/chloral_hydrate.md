@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chloral Hydrate
-parent: 僅已知用途（無新預測）
+parent: 僅已知用途／主預測已撤回
 nav_order: 63
 noindex: true
 sitemap: false

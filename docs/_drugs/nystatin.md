@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nystatin
-parent: 僅已知用途（無新預測）
+parent: 僅已知用途／主預測已撤回
 nav_order: 198
 evidence_level: N/A
 indication_count: 10
@@ -213,7 +213,7 @@ Nystatin 對念珠菌性外陰陰道炎的機轉直接相關，且台灣已有�
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Nystatin Oral Suspension USP 仿單（PAI）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=28b4e26e-206a-4e8a-abfe-774b780e91c3) |
 | 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 外陰陰道炎 (Vulvovaginitis)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L3」→「證據等級／撤回：外陰陰道炎 (Vulvovaginitis)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Proceed with Guardrails」→「建議決策／撤回（已核准用途）」 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L3→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L3→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回） | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 

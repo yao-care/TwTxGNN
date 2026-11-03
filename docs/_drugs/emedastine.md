@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Emedastine
-parent: 僅已知用途（無新預測）
+parent: 僅已知用途／主預測已撤回
 nav_order: 98
 last_modified_at: 2026-10-29
 description: "Emedastine: known uses and market status in Taiwan; currently no new candidate indication"

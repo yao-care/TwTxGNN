@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Voriconazole
-parent: 僅已知用途（無新預測）
+parent: 僅已知用途／主預測已撤回
 nav_order: 305
 noindex: true
 sitemap: false

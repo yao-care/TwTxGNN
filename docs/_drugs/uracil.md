@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Uracil
-parent: 僅已知用途（無新預測）
+parent: 僅已知用途／主預測已撤回
 nav_order: 295
 evidence_level: N/A
 indication_count: 10
@@ -173,7 +173,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效。
 | 2026-10-16 | 下一步稱 UFT 許可證需另行確認 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 大腸腫瘤 L5；另兩項本頁未列等級→撤回（已核准用途，不列新適應症等級）；快速總覽「證據等級」：原「證據等級／L5」→「證據等級／撤回：大腸腫瘤 (Colonic Neoplasm)是已核准用途，不列新適應症證據等級（原值見查核紀錄）」；快速總覽「建議決策」：原「建議決策／Hold」→「建議決策／撤回（已核准用途）」 | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L5→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L5→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「大腸腫瘤 (Colonic Neoplasm)、gastric carcinoma（胃癌）、rectosigmoid junction neoplasm（直腸乙狀結腸交界腫瘤）」已重審撤回） | 加註 | [日本添付文書（KEGG MEDICUS／JAPIC）：JAPIC 添付文書 ユーエフティ](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 

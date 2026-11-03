@@ -24,7 +24,7 @@
             new_level／original_parent／new_parent。不顯示框，只在查核紀錄表列「頁首等級依總覽表重算（原 Lx→Ly）」。
             頁首重算本身每頁都做（有沒有紀錄都一樣），產線寫頁前也做。
             2026-11-03 起：主預測重審撤回（總覽「證據等級」格經 table_updates 換成「撤回…」）的頁，頁首改取
-            其他預測表保留的最高等級，沒有就是 N/A（歸「僅已知用途（無新預測）」）；這類紀錄帶 trigger=withdraw、
+            其他預測表保留的最高等級，沒有就是 N/A（歸 known-uses「僅已知用途／主預測已撤回」）；這類紀錄帶 trigger=withdraw、
             based_on（撤回的 rereview_result id），查核紀錄表列「主預測重審撤回，頁首等級重算（原 Lx→N/A）」。
   description_level  front matter description 的等級跟著頁首（2026-11-03 起，用戶決定）：記 original_description／
             original_level，套用時只把 description 裡「證據等級 Lx」換成目前頁首等級（N/A 頁換成「僅已知用途」），
@@ -215,7 +215,7 @@ def log_md(recs):
             if r.get("trigger") == "withdraw":
                 act = f"主預測重審撤回，頁首等級重算（原 {r['original_level']}→{r['new_level']}）"
                 if r["new_level"] == F.NA:
-                    act += "，改列「僅已知用途（無新預測）」"
+                    act += f"，改列「{F.parent_titles().get(F.NA, 'N/A')}」"
         if r["action"] == "rereview_result":
             act = f"重審：{VERDICT_ZH[r['verdict']]}，{level_change(r)}"
             for u in r.get("table_updates") or []:

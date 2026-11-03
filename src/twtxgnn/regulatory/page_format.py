@@ -11,7 +11,7 @@ gate（scripts/check_seo_docs.py 第 7 項）用同一套函式檢查，三者�
   主預測重審撤回（2026-11-03 用戶決定）：查核紀錄的 table_updates 把總覽「證據等級」格換成「撤回：…」
   （格內不再有 Lx）時，頁首改取本頁其他預測表（表頭有「證據等級」欄的表，如「其他預測適應症概況」
   「附註：其他預測適應症」）裡仍保留的最高等級；沒有就是 N/A，parent 跟既有 N/A 頁一樣歸
-  「僅已知用途（無新預測）」（docs/known-uses.md 的 title；head_custom.html 的 breadcrumb：N/A→/known-uses）。
+  known-uses 列表頁（docs/known-uses.md 的 title，2026-11-03 改為「僅已知用途／主預測已撤回」；head_custom.html 的 breadcrumb：N/A→/known-uses）。
   只看表格裡的等級欄，不解析敘述文字裡提到的等級；被撤回的列在表裡同樣已換成「撤回…」，不會被算進去。
 
 description 的等級（2026-11-03 用戶決定）：front matter description 是產線依報告寫的（「（證據等級 Lx）」），
@@ -186,6 +186,11 @@ def description_level_problems(text: str) -> list[str]:
 def header_problems(text: str) -> list[str]:
     best = target_level(text)
     if not best:
+        # 已知用途頁（N/A、沒有總覽等級）：parent 也要等於 known-uses 列表頁標題（改標題時一起改，2026-11-03）
+        st = header_state(text)
+        want = parent_titles().get(NA)
+        if st["evidence_level"] == NA and want and st["parent"] != want:
+            return [f"parent={st['parent']}，N/A 頁應為 {want}（docs/known-uses.md 的 title）"]
         return []
     st = header_state(text)
     errs = []

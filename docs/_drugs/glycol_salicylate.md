@@ -3,7 +3,7 @@ noindex: true
 sitemap: false
 layout: default
 title: Glycol Salicylate
-parent: 僅已知用途（無新預測）
+parent: 僅已知用途／主預測已撤回
 nav_order: 127
 monitor_inn: "Glycol salicylate"
 last_modified_at: 2026-10-29

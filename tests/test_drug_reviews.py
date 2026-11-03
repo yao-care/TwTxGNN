@@ -181,7 +181,7 @@ def test_withdrawn_main_prediction_header_na():
     assert problems == []
     assert F.overview_withdrawn(out) and F.target_level(out) == "N/A"
     assert "evidence_level: N/A" in out and "證據等級: **N/A**" in out
-    assert "parent: 僅已知用途（無新預測）" in out
+    assert f"parent: {F.parent_titles()['N/A']}" in out
     assert F.header_problems(out) == []
     assert F.sync_header_level(out) == out
 
@@ -209,7 +209,7 @@ def test_header_level_withdraw_log_text():
     rec = {"id": "demo-h", "file": "demo.md", "checked": "2026-11-03", "action": "header_level", "trigger": "withdraw",
            "summary": "頁首證據等級", "original_level": "L3", "new_level": "N/A", "sources": SRC}
     out = A.log_md(withdraw_recs() + [rec])
-    assert "主預測重審撤回，頁首等級重算（原 L3→N/A），改列「僅已知用途（無新預測）」" in out
+    assert f"主預測重審撤回，頁首等級重算（原 L3→N/A），改列「{F.parent_titles()['N/A']}」" in out
 
 
 def test_extract_drug_list_skips_withdrawn(tmp_path):
