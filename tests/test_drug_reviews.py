@@ -289,3 +289,22 @@ def test_fhir_sync_from_files(tmp_path):
     assert st["mk_level_changed"] == [("demo-drug", "L1", "N/A")] and st["entries"] == 2
     assert G.fhir_problems(out, drugs) == []
     assert G.sync_from_files(out, drugs)["bundle_changed"] is False  # 可重複執行
+
+
+def test_fhir_sync_drops_noindex(tmp_path):
+    import generate_fhir_resources as G
+    out, drugs = tmp_path / "fhir", tmp_path / "_drugs"
+    for d in ("MedicationKnowledge", "ClinicalUseDefinition", "Bundle"):
+        (out / d).mkdir(parents=True)
+    drugs.mkdir()
+    (drugs / "hid.md").write_text("---\nevidence_level: L5\nnoindex: true\n---\n", encoding="utf-8")
+    mk = G.create_medication_knowledge({"slug": "hid", "name": "Hid", "level": "L5"}, "https://x")
+    cud = G.create_clinical_use_definition({"slug": "hid"}, {"name": "a", "score": 90}, "https://x")
+    G._dump(out / "MedicationKnowledge" / "hid.json", mk)
+    G._dump(out / "ClinicalUseDefinition" / f"{cud['id']}.json", cud)
+    G._dump(out / "Bundle" / "all-predictions.json", G.create_bundle([mk, cud], "https://x"))
+    G._dump(out / "metadata", G.create_capability_statement("https://x", 1, 1))
+    assert any("noindex" in e for e in G.fhir_problems(out, drugs))
+    st = G.sync_from_files(out, drugs)
+    assert len(st["hidden_removed"]) == 2 and st["entries"] == 0
+    assert G.fhir_problems(out, drugs) == []

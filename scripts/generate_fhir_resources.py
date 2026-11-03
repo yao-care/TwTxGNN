@@ -30,14 +30,30 @@ def slugify(text: str) -> str:
 DRUGS_DIR = Path(__file__).resolve().parent.parent / "docs" / "_drugs"
 
 
-def page_level(slug: str, drugs_dir: Path = DRUGS_DIR) -> str | None:
-    """藥物頁頁首的 evidence_level（L1–L5 或 N/A；2026-11-03 起 MedicationKnowledge 的等級以頁首為準）。"""
+def _page(slug: str, drugs_dir: Path = DRUGS_DIR) -> Path | None:
     for cand in dict.fromkeys([slug, slug.replace("-", "_"), slug.replace("_", "-")]):
         f = drugs_dir / f"{cand}.md"
         if f.exists():
-            m = re.search(r"^evidence_level:[ \t]*(L[1-5]|N/A)[ \t]*$", f.read_text(encoding="utf-8")[:3000], re.M)
-            return m.group(1) if m else None
+            return f
     return None
+
+
+def page_level(slug: str, drugs_dir: Path = DRUGS_DIR) -> str | None:
+    """藥物頁頁首的 evidence_level（L1–L5 或 N/A；2026-11-03 起 MedicationKnowledge 的等級以頁首為準）。"""
+    f = _page(slug, drugs_dir)
+    if not f:
+        return None
+    m = re.search(r"^evidence_level:[ \t]*(L[1-5]|N/A)[ \t]*$", f.read_text(encoding="utf-8")[:3000], re.M)
+    return m.group(1) if m else None
+
+
+def page_hidden(slug: str, drugs_dir: Path = DRUGS_DIR) -> bool:
+    """藥物頁是 noindex／search_exclude／轉址頁：不進 FHIR（跟 search-index 一致，2026-11-03 用戶決定）。"""
+    f = _page(slug, drugs_dir)
+    if not f:
+        return False
+    text = f.read_text(encoding="utf-8", errors="replace")
+    return bool(re.search(r"^(noindex|search_exclude):[ \t]*true", text[:3000], re.M | re.I)) or 'http-equiv="refresh"' in text
 
 
 def create_medication_knowledge(drug: dict, base_url: str) -> dict:
@@ -300,13 +316,23 @@ def _dump(path: Path, obj) -> bool:
 
 def sync_from_files(output_dir: Path, drugs_dir: Path = DRUGS_DIR) -> dict:
     """FHIR 與頁面、實際檔案對齊（2026-11-03 用戶決定）：
+    0. noindex／search_exclude／轉址頁的藥（page_hidden）：刪掉它的 MedicationKnowledge 與 ClinicalUseDefinition。
     1. MedicationKnowledge 的 evidence-level ＝ 藥物頁頁首（含 N/A）；找不到頁的不動。
     2. Bundle 依實際的 MedicationKnowledge／ClinicalUseDefinition 檔重建：既有 entry 保留順序、內容換成檔案內容，
        沒有檔案的 entry 刪除，缺的資源補在同藥最後一筆之後（整個藥都缺就接在最後）；total＝entry 數。
     3. metadata（CapabilityStatement）描述裡的藥物數、適應症數＝MedicationKnowledge／ClinicalUseDefinition 檔數。
     內容有變才改 Bundle timestamp 與 metadata date。"""
     base_url = "https://twtxgnn.yao.care"
-    stats = {"mk_level_changed": [], "bundle_changed": False, "metadata_changed": False}
+    stats = {"mk_level_changed": [], "bundle_changed": False, "metadata_changed": False, "hidden_removed": []}
+    # 0. noindex／search_exclude／轉址頁的藥：刪掉它的 MedicationKnowledge 與 ClinicalUseDefinition 檔
+    for f in sorted((output_dir / "ClinicalUseDefinition").glob("*.json")):
+        if page_hidden(_cud_key(json.loads(f.read_text(encoding="utf-8")))[0], drugs_dir):
+            stats["hidden_removed"].append(f"ClinicalUseDefinition/{f.stem}")
+            f.unlink()
+    for f in sorted((output_dir / "MedicationKnowledge").glob("*.json")):
+        if page_hidden(f.stem, drugs_dir):
+            stats["hidden_removed"].append(f"MedicationKnowledge/{f.stem}")
+            f.unlink()
     mk = {}
     for f in sorted((output_dir / "MedicationKnowledge").glob("*.json")):
         res = json.loads(f.read_text(encoding="utf-8"))
@@ -366,7 +392,8 @@ def sync_from_files(output_dir: Path, drugs_dir: Path = DRUGS_DIR) -> dict:
 
 
 def fhir_problems(output_dir: Path, drugs_dir: Path = DRUGS_DIR) -> list[str]:
-    """gate 用：MedicationKnowledge 等級＝頁首、Bundle 與檔案一致（total＝entry 數）、metadata 數字＝檔案數。"""
+    """gate 用：MedicationKnowledge 等級＝頁首、不含 noindex／轉址頁的藥、Bundle 與檔案一致（total＝entry 數）、
+    metadata 數字＝檔案數。"""
     errs = []
     mk = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (output_dir / "MedicationKnowledge").glob("*.json")}
     cud = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (output_dir / "ClinicalUseDefinition").glob("*.json")}
@@ -378,6 +405,9 @@ def fhir_problems(output_dir: Path, drugs_dir: Path = DRUGS_DIR) -> list[str]:
             bad.append(f"{rid}（{got}≠頁首 {lv}）")
     if bad:
         errs.append(f"MedicationKnowledge 等級與頁首不一致 {len(bad)} 個：{bad[:5]}")
+    hidden = sorted({k for k in mk if page_hidden(k, drugs_dir)} | {_cud_key(v)[0] for v in cud.values() if page_hidden(_cud_key(v)[0], drugs_dir)})
+    if hidden:
+        errs.append(f"FHIR 含 noindex／轉址頁的藥 {len(hidden)} 個：{hidden[:5]}")
     bpath = output_dir / "Bundle" / "all-predictions.json"
     if bpath.exists():
         b = json.loads(bpath.read_text(encoding="utf-8"))
@@ -428,6 +458,8 @@ def main():
     total_indications = 0
 
     for drug in drugs:
+        if page_hidden(drug["slug"]):
+            continue  # noindex／轉址頁的藥不進 FHIR（2026-11-03）
         # Create MedicationKnowledge
         med_knowledge = create_medication_knowledge(drug, base_url)
         all_resources.append(med_knowledge)

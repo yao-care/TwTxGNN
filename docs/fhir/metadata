@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "TwTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 300 drugs and 2250 predicted indications.",
+  "description": "TwTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 291 drugs and 2240 predicted indications.",
   "kind": "instance",
   "software": {
     "name": "TwTxGNN Static FHIR API",

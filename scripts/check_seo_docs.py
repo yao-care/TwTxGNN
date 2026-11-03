@@ -310,7 +310,7 @@ if _wd and (DOCS / "fhir" / "ClinicalUseDefinition").is_dir():
     if _left:
         errors.append(f"FHIR 仍有重審撤回的預測 {_left[:5]}（跑 scripts/generate_fhir_resources.py --prune-withdrawn）")
 
-# 7e) FHIR 不能跟頁面、實際檔案脫節（2026-11-03 用戶決定）：MedicationKnowledge 等級＝藥物頁頁首（含 N/A）、
+# 7e) FHIR 不能跟頁面、實際檔案脫節（2026-11-03 用戶決定）：MedicationKnowledge 等級＝藥物頁頁首（含 N/A）、不含 noindex／轉址頁的藥、
 #     Bundle 與資源檔一致且 total＝entry 數、metadata 的藥物數／適應症數＝檔案數
 if (DOCS / "fhir" / "MedicationKnowledge").is_dir():
     sys.path.insert(0, str(DOCS.parent / "scripts"))
