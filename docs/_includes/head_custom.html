@@ -189,7 +189,7 @@ window.TWTXGNN_ANALYTICS = {
         "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "mainEntityOfPage": "https://twtxgnn.yao.care/",
       "isAccessibleForFree": true
     },
@@ -222,7 +222,7 @@ window.TWTXGNN_ANALYTICS = {
       "description": "TwTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
       "mainEntity": {
         "@id": "https://www.yao.care/#organization"
       }
@@ -441,7 +441,7 @@ window.TWTXGNN_ANALYTICS = {
       "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-21",
-      "dateModified": "2026-02-21",
+      "dateModified": "{{ page.last_modified_at | default: '2026-02-21' | date: '%Y-%m-%d' }}",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
