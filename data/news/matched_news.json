@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-03T18:51:10.248864+00:00",
-  "total_count": 36,
-  "matched_count": 11,
+  "last_updated": "2026-11-03T23:47:52.491432+00:00",
+  "total_count": 35,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "31820c380d48",
+      "title": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞",
+      "published": "2026-11-03T14:42:10+00:00",
+      "summary": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTXlxQlM3cnJmRWU0Q0hLOTc3bjVOSG1DU1V1bVFNelVzczhGWlJ0eWRMSGtTNE94V3ZSQUVEa3RydUMtNWh6bWVYb1l6Tk51MDNzdHZHM2lxZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "188c2556eea4",
       "title": "健康網》女性肥胖 傷心血管甚鉅！醫：產後盡快恢復體重",
@@ -33,7 +46,7 @@
       "id": "ac66e33dce65",
       "title": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀",
       "published": "2026-11-03T08:01:44+00:00",
-      "summary": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀&nbsp;&nbsp;加拿大星島日報",
+      "summary": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀&nbsp;&nbsp;加拿大星島日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "加拿大星島日報",
@@ -142,19 +155,6 @@
         {
           "name": "威傳媒",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2WXR2WnpyRmQzOTJEd214d2pXOHpkUFpYR21EQ2hNWlNoUXVPV20zWVB6MHFaZUREWXd1bjhYYUd0TXVvaXNDRUtR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6b770466fc46",
-      "title": "失明的眼睛重新感光？諾貝爾光遺傳學加特製護目鏡，10 人試驗中 7 人光敏感度改善",
-      "published": "2026-11-02T07:45:41+00:00",
-      "summary": "失明的眼睛重新感光？諾貝爾光遺傳學加特製護目鏡，10 人試驗中 7 人光敏感度改善&nbsp;&nbsp;明日科學益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌&nbsp;&nbsp;香港經濟日報HKET科學人／失明能被治好嗎？光遺傳學加上護目鏡或許有點搞頭| 放學微素養| 文教&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "明日科學",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Sb3R1LTFpYmNoWnNjeUlDMjNmb0s2TG11NTJFNkVQUTFKTGtrNV9uZVRDT3ppaG9QMXppeU5ydTRVOE0wQ0xLUkw1N0M4SGNRbGhXLWk5Vm1QbzhxSHcw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1027,6 +1027,19 @@
       "matched_keywords": []
     },
     {
+      "id": "7e12ddd308fb",
+      "title": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE",
+      "published": "2026-10-29T02:30:53+00:00",
+      "summary": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE&nbsp;&nbsp;i-CABLE今年流感季提前多毒株活躍｜即時新聞｜中港台｜on.cc東網&nbsp;&nbsp;on.cc東網秋冬流感流行季開始 單周錄145宗爆發疫情&nbsp;&nbsp;東方日報",
+      "sources": [
+        {
+          "name": "i-CABLE",
+          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQamduY2drZTdLN1FOQ3lGY21KWklHQWc1MVN2QzEwYndSdkptQm5pb3NNNk9tR0Q0ejFfeE1XeU12eXFsS0ZBamtVMkk1QVlublBWRTV0a1VJVC16Ul8yZzhqVlYzMW5kNlhSdXdlRzlFc1JEclJMeG9iY2hicDllSmtvTVBhMmxsRG5ONVJ6X2dFYVRtZmxLa2xvUElkOVVyc08zQXlXeERHd3ROdE04cXZ3SWMtN01xbF8wcGpyaVpkYVE1dWJXLXNYODF3LTB6OWVPT1dSaHJ2ZnRPMUhLZjV0ajZ0T0Ryb2xwdnItRFZ6UXdjQUxQNk1Vc3pScmlwTjZRQlMtVXBYR2NpN0xJbXVoSWN4eTZsSHZRdmRIYm1rSE9vTVR4SnlFb05GWHRLYjA5MGYtTnRESlhkd0V6OGZYLXB0ZWpWWkk4bURWazl3VWJoZzI0N1F6OExCeTY5ZGgwZzdGcHk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f62aa07e9547",
       "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病",
       "published": "2026-10-28T19:00:00+00:00",
@@ -1040,600 +1053,17 @@
       "matched_keywords": []
     },
     {
-      "id": "4474144a4646",
-      "title": "社恐｜返工後開始不想社交？或因壓力引起美調查揭近半人曾因壓力減少至少一種社交逾半人感孤單",
-      "published": "2026-10-28T07:30:00+00:00",
-      "summary": "社恐｜返工後開始不想社交？或因壓力引起美調查揭近半人曾因壓力減少至少一種社交逾半人感孤單&nbsp;&nbsp;AM730",
+      "id": "74c4d8ddee57",
+      "title": "益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌",
+      "published": "2026-10-28T05:00:00+00:00",
+      "summary": "益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌&nbsp;&nbsp;香港經濟日報HKET失明的眼睛重新感光？ 諾貝爾光遺傳學加特製護目鏡， 10 人試驗中 7 人光敏感度改善&nbsp;&nbsp;明日科學科學人／失明能被治好嗎？光遺傳學加上護目鏡或許有點搞頭| 放學微素養| 文教&nbsp;&nbsp;UDN",
       "sources": [
         {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOZWxyQVljMGlkQ1FtcWNCb3RCbkJiQ3NXUlRVdmIwQWlTVFZ4b2N3WUgwWThRVFRNVVA1cm50dFJVUDJlY2N4RURrSzVOeG5pTVUxTUtsOTJoQkNLX2h6T1Q3TTBQSkZzWjdJWWpGdXQ1NUdoLTBMT0Uxc0liY0JKWlhKTzF2cWxBdmlQM0JfRWc5dTJaWWstZVI0WWpkMDh6LWhENTF5MTh3bjRsa2NPbUVUaVNCZ2JmcVZFREtUMnY5dzRNSmRxUjEtMXh3U2phOFpKdnFFN1dVYXgyaHpzenk4NGppdWw1eDFrMEk3TEp6Ukd4UDV2WlUzb0FTQUZVWnVzSkVHYVZYVU5wVVlKZk8ydmlxRjVkTGVVcVJHR0JJVnpvcEF3aU5nNFdVbFc2ZUhJWDdZcmlYY1MwZ3ZKOXZMVWlWcWhTVjRYWFNtT2YzNWwwX01QdFRtS3lCOEZMeWZBQUc4VUFac1hOdGhZdldxSndsUU1tc3BxbUVFTkFBY2g0MUdwXy1EWmtuVzJKQURKcXAwVXB5SXJTX3Npa3NTUlJYSW9QMTlmRVgxbjU5a0x4U1d3M0twTmRyTFpsMl9zZGt4Q0ZEQWVEaXVObV9HMERrX2R2VXZhSXVOYXduWjdjU2NqZTRjRllOUlBnR0dreU0tYzVXdlFoY0hjVGdINjV0VF9GVmRHMzFSRGdxQkFTbVl5MUNQYUh3X29GeHRGc1Q5aHhYRW9aY2tzTHVfVEFkUEJZNGNZMWpPczVmSERLeEFHNlRuQ0h4Zll0YXlBam92aFN4X1RvM2t3?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQWGc4Y2JPUG5FSE05bFRSbEpldTlqRUdsemZFUDdNNnJlQmJ2M0hESDRuZWxZY0ZnSjZHUWgxNnp0MzdIU1lpc3FIZHh5eFhWWVY3SHFXb0pUbkJBTVlTazBKUldiaUpDSUZQWGVxSUE4d2xnNGxsY25XbWxiQmRQVll3aTVwWllldmw5R3ZTVUx2YlUtYVE0WXZsNU5LbDlDU3M2LXRCQ1BabloxdTR4emtOVXhvV1o4a001N3VQNnRabDBCcU5jTlJidlBDd0lnbUp0d0t6ZXRITmV0YTRoZjJKeUNyZnBORzlqZTc5UDJBNzI0QXo0emVXN0c0VG84UHZwTm8wT2tGUmw1Sjl3Xy1WZEttYXBXLWh2OFVwSGNKRGNqSFFKSjEwMUliVFJjVUltT2VzanNDUm5fNzlxWlJtbUNXNG1tVGx3Wk9rcWdWM05DYUkzU3hzczZOcnF0QUpzSDZR?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "baaa3c6fc483",
-      "title": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人",
-      "published": "2026-10-28T01:31:27+00:00",
-      "summary": "停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊&nbsp;&nbsp;Marie Claire 美麗佳人",
-      "sources": [
-        {
-          "name": "Marie Claire 美麗佳人",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin",
-              "url": "/drugs/acitretin/"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib",
-              "url": "/drugs/regorafenib/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine",
-              "url": "/drugs/cladribine/"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide",
-              "url": "/drugs/amcinonide/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol",
-              "url": "/drugs/acebutolol/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate",
-              "url": "/drugs/hydroxyprogesterone-caproate/"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab",
-              "url": "/drugs/durvalumab/"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab",
-              "url": "/drugs/atezolizumab/"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine",
-              "url": "/drugs/berberine/"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab",
-              "url": "/drugs/ipilimumab/"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone",
-              "url": "/drugs/clobetasone/"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone",
-              "url": "/drugs/carbenoxolone/"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate",
-              "url": "/drugs/pralatrexate/"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b",
-              "url": "/drugs/interferon-beta-1b/"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab",
-              "url": "/drugs/omalizumab/"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol",
-              "url": "/drugs/nebivolol/"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab",
-              "url": "/drugs/avelumab/"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide",
-              "url": "/drugs/disopyramide/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole",
-              "url": "/drugs/levamisole/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid",
-              "url": "/drugs/bempedoic-acid/"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril",
-              "url": "/drugs/benazepril/"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib",
-              "url": "/drugs/vismodegib/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed",
-              "url": "/drugs/pemetrexed/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib",
-              "url": "/drugs/zanubrutinib/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "停經",
-          "keyword": "停經",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "053fa19f5902",
-      "title": "癌症與中風 哪一個更可怕？",
-      "published": "2026-10-27T23:22:47+00:00",
-      "summary": "癌症與中風 哪一個更可怕？&nbsp;&nbsp;蕃新聞",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RUhGRy1ldHFTMEZmNnJkVkpWbENYcUVja1ZoeGF2TTh5aXVIcTFxN1FZMDZUc1VKMkhKVHdvTVNFMnoxUUIwRXhudl9kZ0tKRlE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "癌症",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "cytarabine",
-              "name": "Cytarabine",
-              "url": "/drugs/cytarabine/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "acitretin",
-              "name": "Acitretin",
-              "url": "/drugs/acitretin/"
-            },
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "regorafenib",
-              "name": "Regorafenib",
-              "url": "/drugs/regorafenib/"
-            },
-            {
-              "slug": "irbesartan",
-              "name": "Irbesartan",
-              "url": "/drugs/irbesartan/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "cladribine",
-              "name": "Cladribine",
-              "url": "/drugs/cladribine/"
-            },
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "amcinonide",
-              "name": "Amcinonide",
-              "url": "/drugs/amcinonide/"
-            },
-            {
-              "slug": "temozolomide",
-              "name": "Temozolomide",
-              "url": "/drugs/temozolomide/"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            },
-            {
-              "slug": "vinorelbine",
-              "name": "Vinorelbine",
-              "url": "/drugs/vinorelbine/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol",
-              "url": "/drugs/acebutolol/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "hydroxyprogesterone_caproate",
-              "name": "Hydroxyprogesterone caproate",
-              "url": "/drugs/hydroxyprogesterone-caproate/"
-            },
-            {
-              "slug": "durvalumab",
-              "name": "Durvalumab",
-              "url": "/drugs/durvalumab/"
-            },
-            {
-              "slug": "atezolizumab",
-              "name": "Atezolizumab",
-              "url": "/drugs/atezolizumab/"
-            },
-            {
-              "slug": "berberine",
-              "name": "Berberine",
-              "url": "/drugs/berberine/"
-            },
-            {
-              "slug": "ipilimumab",
-              "name": "Ipilimumab",
-              "url": "/drugs/ipilimumab/"
-            },
-            {
-              "slug": "clobetasone",
-              "name": "Clobetasone",
-              "url": "/drugs/clobetasone/"
-            },
-            {
-              "slug": "carbenoxolone",
-              "name": "Carbenoxolone",
-              "url": "/drugs/carbenoxolone/"
-            },
-            {
-              "slug": "pralatrexate",
-              "name": "Pralatrexate",
-              "url": "/drugs/pralatrexate/"
-            },
-            {
-              "slug": "interferon_beta-1b",
-              "name": "Interferon beta-1b",
-              "url": "/drugs/interferon-beta-1b/"
-            },
-            {
-              "slug": "omalizumab",
-              "name": "Omalizumab",
-              "url": "/drugs/omalizumab/"
-            },
-            {
-              "slug": "nebivolol",
-              "name": "Nebivolol",
-              "url": "/drugs/nebivolol/"
-            },
-            {
-              "slug": "dehydrocholic_acid",
-              "name": "Dehydrocholic acid",
-              "url": "/drugs/dehydrocholic-acid/"
-            },
-            {
-              "slug": "avelumab",
-              "name": "Avelumab",
-              "url": "/drugs/avelumab/"
-            },
-            {
-              "slug": "disopyramide",
-              "name": "Disopyramide",
-              "url": "/drugs/disopyramide/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "bevacizumab",
-              "name": "Bevacizumab",
-              "url": "/drugs/bevacizumab/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "levamisole",
-              "name": "levamisole",
-              "url": "/drugs/levamisole/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "bempedoic_acid",
-              "name": "Bempedoic acid",
-              "url": "/drugs/bempedoic-acid/"
-            },
-            {
-              "slug": "ramucirumab",
-              "name": "Ramucirumab",
-              "url": "/drugs/ramucirumab/"
-            },
-            {
-              "slug": "cefmetazole",
-              "name": "Cefmetazole",
-              "url": "/drugs/cefmetazole/"
-            },
-            {
-              "slug": "benazepril",
-              "name": "Benazepril",
-              "url": "/drugs/benazepril/"
-            },
-            {
-              "slug": "vismodegib",
-              "name": "Vismodegib",
-              "url": "/drugs/vismodegib/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "pemetrexed",
-              "name": "Pemetrexed",
-              "url": "/drugs/pemetrexed/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            },
-            {
-              "slug": "zanubrutinib",
-              "name": "Zanubrutinib",
-              "url": "/drugs/zanubrutinib/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

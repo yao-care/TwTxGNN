@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -76,7 +76,7 @@ last_modified_at: 2026-11-03
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（2 則）
 
 ### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
 
@@ -91,22 +91,6 @@ last_modified_at: 2026-11-03
 2026-10-30
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
-
----
-
-### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
-
-2026-10-28
-
-來源: [Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
-
----
-
-### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RUhGRy1ldHFTMEZmNnJkVkpWbENYcUVja1ZoeGF2TTh5aXVIcTFxN1FZMDZUc1VKMkhKVHdvTVNFMnoxUUIwRXhudl9kZ0tKRlE?oc=5)
-
-2026-10-27
-
-來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RUhGRy1ldHFTMEZmNnJkVkpWbENYcUVja1ZoeGF2TTh5aXVIcTFxN1FZMDZUc1VKMkhKVHdvTVNFMnoxUUIwRXhudl9kZ0tKRlE?oc=5)
 
 ---
 

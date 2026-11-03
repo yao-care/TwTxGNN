@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（3 則）
 
 ### [【冬陽天地】乳癌與骨質疏鬆](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
 
@@ -66,22 +66,6 @@ last_modified_at: 2026-11-03
 2026-10-30 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
-
----
-
-### [停經後出血不是回春！女性癌症一年新增逾6萬例 醫揭更年期必防4大癌症警訊 - Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
-
-2026-10-28 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
-
-來源: [Marie Claire 美麗佳人](https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRlZJM0dYZG90OFZsaFlvelhMQkM5eWVkUUdNa2VrQzRXLXhDb2k0WXcyT0FWUHRqMkpxTVF3X196WHdrZ19DaExSbG9aRkwyMGVtWW9Fd0pjQ01QT2lxM25wWnJCcjk3Snc?oc=5)
-
----
-
-### [癌症與中風 哪一個更可怕？](https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RUhGRy1ldHFTMEZmNnJkVkpWbENYcUVja1ZoeGF2TTh5aXVIcTFxN1FZMDZUc1VKMkhKVHdvTVNFMnoxUUIwRXhudl9kZ0tKRlE?oc=5)
-
-2026-10-27 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">中風</span>
-
-來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RUhGRy1ldHFTMEZmNnJkVkpWbENYcUVja1ZoeGF2TTh5aXVIcTFxN1FZMDZUc1VKMkhKVHdvTVNFMnoxUUIwRXhudl9kZ0tKRlE?oc=5)
 
 ---
 
