@@ -20,7 +20,8 @@
        （asserted_license_ids）必須都在程式表裡（2026-10-03 補）。
     7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級（主預測重審撤回時＝其他預測表保留的最高等級，沒有就 N/A，2026-11-03 補）；
        front matter description 提到的「證據等級 Lx」＝頁首等級（2026-11-03 補）；
-       重審撤回的預測不在 search-index 與 FHIR（7d，2026-11-03 補）；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
+       重審撤回的預測不在 search-index 與 FHIR（7d，2026-11-03 補）；FHIR 的 MedicationKnowledge 等級＝頁首、
+       Bundle／metadata 數字＝實際檔案（7e，2026-11-03 補）；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
        不能用 Liquid 的寫死藥物數／等級分布等於 drug_stats.json（2026-10-04 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
@@ -308,6 +309,14 @@ if _wd and (DOCS / "fhir" / "ClinicalUseDefinition").is_dir():
                         and _Wd.is_withdrawn(_wd, *_cud_key(e["resource"])))
     if _left:
         errors.append(f"FHIR 仍有重審撤回的預測 {_left[:5]}（跑 scripts/generate_fhir_resources.py --prune-withdrawn）")
+
+# 7e) FHIR 不能跟頁面、實際檔案脫節（2026-11-03 用戶決定）：MedicationKnowledge 等級＝藥物頁頁首（含 N/A）、
+#     Bundle 與資源檔一致且 total＝entry 數、metadata 的藥物數／適應症數＝檔案數
+if (DOCS / "fhir" / "MedicationKnowledge").is_dir():
+    sys.path.insert(0, str(DOCS.parent / "scripts"))
+    from generate_fhir_resources import fhir_problems as _fhir_problems  # noqa: E402
+    errors.extend(f"FHIR：{e}（跑 scripts/generate_fhir_resources.py --sync-from-files）"
+                  for e in _fhir_problems(DOCS / "fhir", DOCS / "_drugs"))
 
 # 7c) 不能用 Liquid 的寫死藥物數／等級分布（front matter description、ld+json numberOfItems、README、CITATION…）
 #     必須等於 drug_stats.json（2026-10-04 補）。清單與修法：scripts/generate_drug_stats.py 的 COUNT_SPOTS。

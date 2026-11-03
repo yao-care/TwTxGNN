@@ -268,3 +268,24 @@ def test_fhir_cud_key():
     res = G.create_clinical_use_definition({"slug": "terbutaline", "name": "Terbutaline"},
                                            {"name": "obstructive lung disease", "score": 99.0}, "https://x")
     assert G._cud_key(res) == ("terbutaline", "obstructive lung disease")
+
+
+def test_fhir_sync_from_files(tmp_path):
+    import generate_fhir_resources as G
+    out, drugs = tmp_path / "fhir", tmp_path / "_drugs"
+    for d in ("MedicationKnowledge", "ClinicalUseDefinition", "Bundle"):
+        (out / d).mkdir(parents=True)
+    drugs.mkdir()
+    (drugs / "demo_drug.md").write_text("---\ntitle: Demo\nevidence_level: N/A\n---\n", encoding="utf-8")
+    mk = G.create_medication_knowledge({"slug": "demo-drug", "name": "Demo", "level": "L1"}, "https://x")
+    mk["extension"][0]["valueCode"] = "L1"
+    cud = G.create_clinical_use_definition({"slug": "demo-drug"}, {"name": "a", "score": 90}, "https://x")
+    G._dump(out / "MedicationKnowledge" / "demo-drug.json", mk)
+    G._dump(out / "ClinicalUseDefinition" / f"{cud['id']}.json", cud)
+    G._dump(out / "Bundle" / "all-predictions.json", G.create_bundle([mk], "https://x"))
+    G._dump(out / "metadata", G.create_capability_statement("https://x", 9, 9))
+    assert len(G.fhir_problems(out, drugs)) == 3
+    st = G.sync_from_files(out, drugs)
+    assert st["mk_level_changed"] == [("demo-drug", "L1", "N/A")] and st["entries"] == 2
+    assert G.fhir_problems(out, drugs) == []
+    assert G.sync_from_files(out, drugs)["bundle_changed"] is False  # 可重複執行

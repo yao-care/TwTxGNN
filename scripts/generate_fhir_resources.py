@@ -27,6 +27,19 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
+DRUGS_DIR = Path(__file__).resolve().parent.parent / "docs" / "_drugs"
+
+
+def page_level(slug: str, drugs_dir: Path = DRUGS_DIR) -> str | None:
+    """藥物頁頁首的 evidence_level（L1–L5 或 N/A；2026-11-03 起 MedicationKnowledge 的等級以頁首為準）。"""
+    for cand in dict.fromkeys([slug, slug.replace("-", "_"), slug.replace("_", "-")]):
+        f = drugs_dir / f"{cand}.md"
+        if f.exists():
+            m = re.search(r"^evidence_level:[ \t]*(L[1-5]|N/A)[ \t]*$", f.read_text(encoding="utf-8")[:3000], re.M)
+            return m.group(1) if m else None
+    return None
+
+
 def create_medication_knowledge(drug: dict, base_url: str) -> dict:
     """Create a FHIR MedicationKnowledge resource for a drug."""
     resource = {
@@ -60,7 +73,7 @@ def create_medication_knowledge(drug: dict, base_url: str) -> dict:
         "extension": [
             {
                 "url": f"{base_url}/fhir/StructureDefinition/evidence-level",
-                "valueCode": drug.get("level", "L5")
+                "valueCode": page_level(drug["slug"]) or drug.get("level", "L5")
             }
         ]
     }
@@ -276,6 +289,117 @@ def prune_withdrawn(output_dir: Path) -> int:
     return len(gone)
 
 
+def _dump(path: Path, obj) -> bool:
+    """跟現有檔案同格式（ensure_ascii=False、indent=2、無結尾換行）寫檔；內容沒變就不寫。"""
+    text = json.dumps(obj, ensure_ascii=False, indent=2)
+    if path.exists() and path.read_text(encoding="utf-8") == text:
+        return False
+    path.write_text(text, encoding="utf-8")
+    return True
+
+
+def sync_from_files(output_dir: Path, drugs_dir: Path = DRUGS_DIR) -> dict:
+    """FHIR 與頁面、實際檔案對齊（2026-11-03 用戶決定）：
+    1. MedicationKnowledge 的 evidence-level ＝ 藥物頁頁首（含 N/A）；找不到頁的不動。
+    2. Bundle 依實際的 MedicationKnowledge／ClinicalUseDefinition 檔重建：既有 entry 保留順序、內容換成檔案內容，
+       沒有檔案的 entry 刪除，缺的資源補在同藥最後一筆之後（整個藥都缺就接在最後）；total＝entry 數。
+    3. metadata（CapabilityStatement）描述裡的藥物數、適應症數＝MedicationKnowledge／ClinicalUseDefinition 檔數。
+    內容有變才改 Bundle timestamp 與 metadata date。"""
+    base_url = "https://twtxgnn.yao.care"
+    stats = {"mk_level_changed": [], "bundle_changed": False, "metadata_changed": False}
+    mk = {}
+    for f in sorted((output_dir / "MedicationKnowledge").glob("*.json")):
+        res = json.loads(f.read_text(encoding="utf-8"))
+        lv = page_level(res["id"], drugs_dir)
+        for ext in res.get("extension") or []:
+            if ext.get("url", "").endswith("/evidence-level") and lv and ext.get("valueCode") != lv:
+                stats["mk_level_changed"].append((res["id"], ext.get("valueCode"), lv))
+                ext["valueCode"] = lv
+        _dump(f, res)
+        mk[res["id"]] = res
+    cud = {}
+    for f in sorted((output_dir / "ClinicalUseDefinition").glob("*.json")):
+        res = json.loads(f.read_text(encoding="utf-8"))
+        cud[res["id"]] = res
+    files = {("MedicationKnowledge", k): v for k, v in mk.items()}
+    files.update({("ClinicalUseDefinition", k): v for k, v in cud.items()})
+
+    def drug_of(rt, res):
+        return res["id"] if rt == "MedicationKnowledge" else _cud_key(res)[0]
+
+    bpath = output_dir / "Bundle" / "all-predictions.json"
+    bundle = json.loads(bpath.read_text(encoding="utf-8")) if bpath.exists() else create_bundle([], base_url)
+    old_entries = bundle.get("entry") or []
+    keys = [(e["resource"]["resourceType"], e["resource"]["id"]) for e in old_entries
+            if (e["resource"]["resourceType"], e["resource"]["id"]) in files]
+    keys = list(dict.fromkeys(keys))
+    missing = sorted(set(files) - set(keys), key=lambda k: (k[0] != "MedicationKnowledge", k[1]))
+    by_drug = {}
+    for k in missing:
+        by_drug.setdefault(drug_of(k[0], files[k]), []).append(k)
+    out = []
+    for i, k in enumerate(keys):
+        out.append(k)
+        d = drug_of(k[0], files[k])
+        later = any(drug_of(x[0], files[x]) == d for x in keys[i + 1:i + 2])
+        if not later and d in by_drug:
+            out.extend(by_drug.pop(d))
+    for d in sorted(by_drug):
+        out.extend(by_drug[d])
+    entries = [{"fullUrl": f"{base_url}/fhir/{rt}/{rid}", "resource": files[(rt, rid)]} for rt, rid in out]
+    if entries != old_entries or bundle.get("total") != len(entries):
+        bundle["entry"] = entries
+        bundle["total"] = len(entries)
+        bundle["timestamp"] = datetime.now().isoformat()
+        stats["bundle_changed"] = _dump(bpath, bundle)
+    mpath = output_dir / "metadata"
+    if mpath.exists():
+        meta = json.loads(mpath.read_text(encoding="utf-8"))
+        desc = re.sub(r"Contains \d+ drugs and \d+ predicted indications",
+                      f"Contains {len(mk)} drugs and {len(cud)} predicted indications", meta.get("description", ""))
+        if desc != meta.get("description"):
+            meta["description"] = desc
+            meta["date"] = datetime.now().strftime("%Y-%m-%d")
+            stats["metadata_changed"] = _dump(mpath, meta)
+    stats.update(mk=len(mk), cud=len(cud), entries=len(entries))
+    return stats
+
+
+def fhir_problems(output_dir: Path, drugs_dir: Path = DRUGS_DIR) -> list[str]:
+    """gate 用：MedicationKnowledge 等級＝頁首、Bundle 與檔案一致（total＝entry 數）、metadata 數字＝檔案數。"""
+    errs = []
+    mk = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (output_dir / "MedicationKnowledge").glob("*.json")}
+    cud = {f.stem: json.loads(f.read_text(encoding="utf-8")) for f in (output_dir / "ClinicalUseDefinition").glob("*.json")}
+    bad = []
+    for rid, res in mk.items():
+        lv = page_level(rid, drugs_dir)
+        got = next((e.get("valueCode") for e in res.get("extension") or [] if e.get("url", "").endswith("/evidence-level")), None)
+        if lv and got != lv:
+            bad.append(f"{rid}（{got}≠頁首 {lv}）")
+    if bad:
+        errs.append(f"MedicationKnowledge 等級與頁首不一致 {len(bad)} 個：{bad[:5]}")
+    bpath = output_dir / "Bundle" / "all-predictions.json"
+    if bpath.exists():
+        b = json.loads(bpath.read_text(encoding="utf-8"))
+        ent = b.get("entry") or []
+        files = {("MedicationKnowledge", k): v for k, v in mk.items()}
+        files.update({("ClinicalUseDefinition", k): v for k, v in cud.items()})
+        got = {(e["resource"]["resourceType"], e["resource"]["id"]): e["resource"] for e in ent}
+        if b.get("total") != len(ent):
+            errs.append(f"Bundle total={b.get('total')}，entry {len(ent)} 筆")
+        if set(got) != set(files) or len(got) != len(ent):
+            errs.append(f"Bundle 與資源檔不一致：缺 {len(set(files) - set(got))}、多 {len(set(got) - set(files))}、重複 {len(ent) - len(got)}")
+        elif any(got[k] != files[k] for k in files):
+            errs.append("Bundle 內有 entry 與資源檔內容不同")
+    mpath = output_dir / "metadata"
+    if mpath.exists():
+        m = re.search(r"Contains (\d+) drugs and (\d+) predicted indications",
+                      json.loads(mpath.read_text(encoding="utf-8")).get("description", ""))
+        if not m or (int(m.group(1)), int(m.group(2))) != (len(mk), len(cud)):
+            errs.append(f"metadata 寫 {m.groups() if m else '（無數字）'}，實際 MedicationKnowledge {len(mk)}、ClinicalUseDefinition {len(cud)}")
+    return errs
+
+
 def main():
     """Main function to generate FHIR resources."""
     # Configuration
@@ -342,12 +466,17 @@ def main():
     print(f"Generated Bundle with {len(all_resources)} resources")
 
     prune_withdrawn(output_dir)  # 舊檔裡殘留的撤回預測一併清掉
+    print(sync_from_files(output_dir))  # 等級對頁首、Bundle／metadata 數字對實際檔案
     print(f"\nFHIR resources generated successfully in {output_dir}")
 
 
 if __name__ == "__main__":
-    if "--prune-withdrawn" in sys.argv:
-        # 只清撤回的預測，不重產其他資源（現行 FHIR 由 kept 產生，格式與本腳本的全量重產不完全相同）
-        prune_withdrawn(Path(__file__).parent.parent / "docs" / "fhir")
+    if "--prune-withdrawn" in sys.argv or "--sync-from-files" in sys.argv:
+        # 不重產資源本身（現行 FHIR 由 kept 產生，格式與本腳本的全量重產不完全相同）：
+        # --prune-withdrawn 清撤回的預測；兩者都會把 MK 等級對頁首、Bundle／metadata 對實際檔案
+        _out = Path(__file__).parent.parent / "docs" / "fhir"
+        if "--prune-withdrawn" in sys.argv:
+            prune_withdrawn(_out)
+        print(sync_from_files(_out))
     else:
         main()
