@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Daptomycin"
 predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
-last_modified_at: 2026-10-29
-description: "Daptomycin：預測新適應症為骨關節炎 (osteoarthritis)（證據等級 L4）。原適應症：成人及兒童（1至17歲）革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染（cSSSI）"
+last_modified_at: 2026-11-03
+description: "Daptomycin：預測新適應症為骨關節炎 (osteoarthritis)（證據等級 L5）。原適應症：成人及兒童（1至17歲）革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染（cSSSI）"
 ---
 
 # Daptomycin
@@ -132,6 +132,19 @@ TxGNN 模型預測它可能對**骨關節炎 (osteoarthritis)** 有效，但目�
 - 先以細胞或動物的骨關節炎模型驗證抗發炎或軟骨保護效果。
 - 若要探索免疫調節方向，類風濕性關節炎（已有膠原誘導關節炎動物證據）可能是較合理的研究問題，但仍屬早期階段。
 - 若仍有興趣於骨關節領域，應將「骨關節感染」與「骨關節炎」明確區分，前者本就屬於抗生素的既有用途範疇。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

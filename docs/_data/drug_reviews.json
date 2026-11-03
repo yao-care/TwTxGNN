@@ -1,5 +1,5 @@
 {
- "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜upgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級、升級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。header_level（2026-10-04 起）記錄頁首等級依快速總覽重算後的變動：original_level／new_level／original_parent／new_parent，只列在查核紀錄表。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新（升級 2026-10-16 起經用戶核准，只限重審找到符合 methodology 定義、可查證 PMID／NCT 的本藥證據），原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。2026-10-15 起：報告整份重生後原句消失、新報告已無該錯誤的紀錄標 status=resolved_by_regeneration（resolved_on、resolved_note），頁面不顯示框、查核紀錄表註明；錯誤仍在的紀錄重新定錨到新句子，前版存進 history。2026-10-16 起：查核本身判斷有誤或與另一筆重複的紀錄標 status=withdrawn（withdrawn_on、withdrawn_note），許可證表程式改版後已無該錯誤的紀錄標 status=resolved_by_program（resolved_on、resolved_note）；兩者頁面都不顯示框，只在查核紀錄表註明。2026-11-03 起：主預測重審撤回（快速總覽「證據等級」格經 table_updates 換成「撤回…」）的頁，頁首改取本頁其他預測表保留的最高等級，沒有就是 N/A（歸「僅已知用途（無新預測）」），header_level 紀錄帶 trigger=withdraw、based_on；verdict=withdraw 的預測不進證據監測（scripts/extract_drug_list.py 讀 known_use_exclusion[].predicted 或 withdrawn_predictions）。",
+ "_doc": "藥物頁人工查核紀錄（單一真實來源）。每筆＝一次查核：drug／claim（頁面原句）／finding（查證結論）／sources（網址＋仿單或許可證逐字摘錄＋查閱日）／checked（查核日）／action（correct 更正｜annotate 加註｜rereview 待重審｜section 新增附來源段落｜rereview_result 重審結果）。rereview_result 以 resolves 指回一筆 rereview，欄位 verdict（maintain｜downgrade｜upgrade｜withdraw）、original_level、new_level、rationale、note、sources、searches（查無結果的查詢也留）；降級、升級或撤回時以 table_updates 更新頁面上該適應症的等級／決策儲存格（原值留在 claim），被指到的 rereview 標 status=rereviewed 保留不刪。header_level（2026-10-04 起）記錄頁首等級依快速總覽重算後的變動：original_level／new_level／original_parent／new_parent，只列在查核紀錄表。同 id 重發時前版整筆存進 history（附 retired、reason），不覆蓋丟棄。由 scripts/apply_drug_reviews.py 套到 docs/_drugs/*.md；產線重產後會自動重套，scripts/check_seo_docs.py 會擋下未套用的紀錄。原則：基本藥理事實照仿單或許可證更正；預測推論原文一律不刪不改寫，只加註；證據等級與決策只在重審結果為降級、升級或撤回時更新（升級 2026-10-16 起經用戶核准，只限重審找到符合 methodology 定義、可查證 PMID／NCT 的本藥證據），原值保留在紀錄與查核紀錄表。之後補的藥沿用本檔。2026-10-15 起：報告整份重生後原句消失、新報告已無該錯誤的紀錄標 status=resolved_by_regeneration（resolved_on、resolved_note），頁面不顯示框、查核紀錄表註明；錯誤仍在的紀錄重新定錨到新句子，前版存進 history。2026-10-16 起：查核本身判斷有誤或與另一筆重複的紀錄標 status=withdrawn（withdrawn_on、withdrawn_note），許可證表程式改版後已無該錯誤的紀錄標 status=resolved_by_program（resolved_on、resolved_note）；兩者頁面都不顯示框，只在查核紀錄表註明。2026-11-03 起：主預測重審撤回（快速總覽「證據等級」格經 table_updates 換成「撤回…」）的頁，頁首改取本頁其他預測表保留的最高等級，沒有就是 N/A（歸「僅已知用途（無新預測）」），header_level 紀錄帶 trigger=withdraw、based_on；verdict=withdraw 的預測不進證據監測（scripts/extract_drug_list.py 讀 known_use_exclusion[].predicted 或 withdrawn_predictions）。2026-11-03 起：description_level 紀錄（original_description、original_level）讓 front matter description 的「證據等級 Lx」跟著頁首等級（N/A→「僅已知用途」），其他文字不動。",
  "schema_version": 2,
  "records": [
   {
@@ -416,6 +416,26 @@
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b",
      "excerpt": "The mechanism of action of carisoprodol in relieving discomfort associated with acute painful musculoskeletal conditions has not been clearly identified.",
      "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "carisoprodol-description-level-2026-11-03",
+   "drug": "carisoprodol",
+   "file": "carisoprodol.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Carisoprodol：預測新適應症為失眠 (Insomnia)（證據等級 L4）。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
     }
    ]
   },
@@ -865,6 +885,26 @@
    "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
    "asserted_license_ids": [
     "衛部藥輸字第028104號"
+   ]
+  },
+  {
+   "id": "pitolisant-description-level-2026-11-03",
+   "drug": "pitolisant",
+   "file": "pitolisant.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Pitolisant：預測新適應症為失眠 (Insomnia)（證據等級 L4）。原適應症：1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS）…",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
    ]
   },
   {
@@ -3741,6 +3781,26 @@
    ],
    "status": "superseded",
    "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
+  },
+  {
+   "id": "desogestrel-description-level-2026-11-03",
+   "drug": "desogestrel",
+   "file": "desogestrel.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Desogestrel：預測新適應症為閉經 (Amenorrhea)（證據等級 L3）。原適應症：避孕",
+   "original_level": "L3",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L3；依站方 2026-11-03 決定，description 只把「證據等級 L3」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "dexamethasone-tw-license-cancelled-2026-10-03",
@@ -7661,6 +7721,26 @@
    "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
   },
   {
+   "id": "rotigotine-description-level-2026-11-03",
+   "drug": "rotigotine",
+   "file": "rotigotine.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Rotigotine：預測新適應症為注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)（證據等級 L4）。原適應症：原發性帕金森氏症",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "sacituzumab_govitecan-license-count-2026-10-03",
    "drug": "sacituzumab_govitecan",
    "file": "sacituzumab_govitecan.md",
@@ -7707,6 +7787,26 @@
    "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）",
    "asserted_license_ids": [
     "衛署藥製字第020224號"
+   ]
+  },
+  {
+   "id": "salicylamide-description-level-2026-11-03",
+   "drug": "salicylamide",
+   "file": "salicylamide.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Salicylamide：預測新適應症為咽炎 (Pharyngitis)（證據等級 L4）。原適應症：鎮痛藥",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
    ]
   },
   {
@@ -9287,6 +9387,26 @@
    "superseded_by": "程式化許可證表（scripts/regenerate_tfda_tables.py，2026-10-03 依 TFDA 資料集 36 重產）"
   },
   {
+   "id": "trabectedin-description-level-2026-11-03",
+   "drug": "trabectedin",
+   "file": "trabectedin.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Trabectedin：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L2）。原適應症：無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)…",
+   "original_level": "L2",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L2；依站方 2026-11-03 決定，description 只把「證據等級 L2」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "trastuzumab-deruxtecan-license-count-2026-10-03",
    "drug": "trastuzumab-deruxtecan",
    "file": "trastuzumab_deruxtecan.md",
@@ -10674,6 +10794,26 @@
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "許可證字號 衛署藥製字第033738號｜中文品名 迪威樂（艾賽可威）眼藥膏３％｜英文品名 DEVIRO OPHTHALMIC OINTMENT 3% (ACYCLOVIR) ｜主成分略述 ACYCLOVIR｜適應症 單純皰疹性角膜炎｜有效日期 2031/03/04",
      "accessed": "2026-10-03"
+    }
+   ]
+  },
+  {
+   "id": "acyclovir-description-level-2026-11-03",
+   "drug": "acyclovir",
+   "file": "acyclovir.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Acyclovir：預測新適應症為點狀上皮角結膜炎（證據等級 L2）。原適應症：帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染…",
+   "original_level": "L2",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L2；依站方 2026-11-03 決定，description 只把「證據等級 L2」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
     }
    ]
   },
@@ -14294,6 +14434,26 @@
    ]
   },
   {
+   "id": "felodipine-description-level-2026-11-03",
+   "drug": "felodipine",
+   "file": "felodipine.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Felodipine：預測新適應症為因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓、心絞痛",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "fenoprofen-header-level-2026-10-04",
    "drug": "fenoprofen",
    "file": "fenoprofen.md",
@@ -14831,6 +14991,26 @@
    "resolved_note": "報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算"
   },
   {
+   "id": "trifluoperazine-description-level-2026-11-03",
+   "drug": "trifluoperazine",
+   "file": "trifluoperazine.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Trifluoperazine：預測新適應症為躁期雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L4）。原適應症：精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "warfarin-af-header-level-2026-10-04",
    "drug": "warfarin_af",
    "file": "warfarin_af.md",
@@ -14924,6 +15104,26 @@
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-16",
    "resolved_note": "報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算"
+  },
+  {
+   "id": "zanubrutinib-description-level-2026-11-03",
+   "drug": "zanubrutinib",
+   "file": "zanubrutinib.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Zanubrutinib：預測新適應症為骨髓性白血病 (Myeloid Leukemia)（證據等級 L4）。原適應症：先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症）",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "drug": "cyclizine",
@@ -22618,6 +22818,26 @@
    "anchor": "| 預測新適應症 | 主動脈畸形 (Aortic Malformation) |"
   },
   {
+   "id": "alprostadil-description-level-2026-11-03",
+   "drug": "alprostadil",
+   "file": "alprostadil.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Alprostadil：預測新適應症為主動脈畸形 (Aortic Malformation)（證據等級 L3）。原適應症：末梢血管擴張劑",
+   "original_level": "L3",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L3；依站方 2026-11-03 決定，description 只把「證據等級 L3」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "betamethasone-alopecia-areata-known-use-rereview-2026-11-03",
    "drug": "betamethasone",
    "file": "betamethasone.md",
@@ -22735,6 +22955,26 @@
      "title": "US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad",
      "excerpt": "intralesional administration of CELESTONE SOLUSPAN Injectable Suspension is indicated for alopecia areata; discoid lupus erythematosus; keloids; localized hypertrophic, infiltrated, inflammatory",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "betamethasone-description-level-2026-11-03",
+   "drug": "betamethasone",
+   "file": "betamethasone.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Betamethasone：預測新適應症為斑禿 (Alopecia Areata)（證據等級 L2）。原適應症：原發性腎上腺皮質機能不全症（安迪生氏病）、風濕熱、關節風濕症、全身性紅斑狼瘡、支氣管氣喘、腎病、濕疹、皮膚炎、藥疹",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L2」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
      "accessed": "2026-11-03"
     }
    ]
@@ -23009,6 +23249,26 @@
    ]
   },
   {
+   "id": "dexamethasone-description-level-2026-11-03",
+   "drug": "dexamethasone",
+   "file": "dexamethasone.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Dexamethasone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L2）。原適應症：過敏症、關節炎、風濕痛",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L2」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "dipyridamole-thrombotic-known-use-rereview-2026-11-03",
    "drug": "dipyridamole",
    "file": "dipyridamole.md",
@@ -23198,6 +23458,26 @@
    ]
   },
   {
+   "id": "dipyridamole-description-level-2026-11-03",
+   "drug": "dipyridamole",
+   "file": "dipyridamole.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Dipyridamole：預測新適應症為血栓性疾病 (thrombotic disease)（證據等級 L5）。原適應症：對於慢性狹心症之治療可能有效",
+   "original_level": "L5",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L5」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "ferrous-gluconate-plummer-vinson-syndrome-known-use-rereview-2026-11-03",
    "drug": "ferrous_gluconate",
    "file": "ferrous_gluconate.md",
@@ -23315,6 +23595,26 @@
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "內衛藥製字第002605號｜葡萄糖酸鐵糖衣錠｜主成分 FERROUS GLUCONATE｜單方｜狀態 有效｜適應症：各種鐵缺乏性貧血症",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "ferrous_gluconate-description-level-2026-11-03",
+   "drug": "ferrous_gluconate",
+   "file": "ferrous_gluconate.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Ferrous Gluconate：預測新適應症為Plummer-Vinson 症候群 (Plummer-Vinson syndrome)（證據等級 L5）。原適應症：各種鐵缺乏性貧血症",
+   "original_level": "L5",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L5」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
      "accessed": "2026-11-03"
     }
    ]
@@ -23442,6 +23742,26 @@
    ]
   },
   {
+   "id": "hyaluronic_acid-description-level-2026-11-03",
+   "drug": "hyaluronic_acid",
+   "file": "hyaluronic_acid.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Hyaluronic Acid：預測新適應症為乾眼症 (Dry Eye Syndrome)（證據等級 L2）。原適應症：本報告彙整的資料中未提供",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L2」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "hydroxyprogesterone-caproate-uterine-corpus-cancer-known-use-rereview-2026-11-03",
    "drug": "hydroxyprogesterone_caproate",
    "file": "hydroxyprogesterone_caproate.md",
@@ -23515,6 +23835,26 @@
    ],
    "table_updates": [],
    "anchor": "另外，同一批預測中，子宮體癌與子宮內膜癌雖有較多早期文獻（L3）"
+  },
+  {
+   "id": "hydroxyprogesterone_caproate-description-level-2026-11-03",
+   "drug": "hydroxyprogesterone_caproate",
+   "file": "hydroxyprogesterone_caproate.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Hydroxyprogesterone Caproate：預測新適應症為子宮內膜異位症 (Endometriosis of uterus)（證據等級 L4）。原適應症：先兆流產、習慣流產、子宮機能性出血、痛經、月經困難",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "hydroxyurea-sickle-cell-beta-thalassemia-disease-syn-known-use-rereview-2026-11-03",
@@ -23598,6 +23938,26 @@
    ],
    "table_updates": [],
    "anchor": "**其他預測的參考：** 在同一批預測中，**鐮狀細胞-血紅素 C 病 (HbSC)**"
+  },
+  {
+   "id": "hydroxyurea-description-level-2026-11-03",
+   "drug": "hydroxyurea",
+   "file": "hydroxyurea.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Hydroxyurea：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
   },
   {
    "id": "icatibant-c1-inhibitor-deficiency-known-use-rereview-2026-11-03",
@@ -23735,6 +24095,26 @@
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "衛部罕藥製字第000021號｜益康倍注射劑｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。；衛部罕藥輸字第000066號｜凡得適注射劑30毫克｜主成分 icatibant｜單方｜狀態 有效｜適應症：適用於體內C1酯酶抑制劑不足的成人、青少年及2歲以上兒童，在其遺傳性血管性水腫 (hereditary angioedema，HAE)急性發作時進行症狀治療。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "icatibant-description-level-2026-11-03",
+   "drug": "icatibant",
+   "file": "icatibant.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Icatibant：預測新適應症為C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)（證據等級 L1）。原適應症：體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療",
+   "original_level": "L1",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L1」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
      "accessed": "2026-11-03"
     }
    ]
@@ -23880,6 +24260,26 @@
    ]
   },
   {
+   "id": "magnesium_sulfate-description-level-2026-11-03",
+   "drug": "magnesium_sulfate",
+   "file": "magnesium_sulfate.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Magnesium Sulfate：預測新適應症為妊娠毒血症 (toxemia of pregnancy)（證據等級 L1）。原適應症：子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助",
+   "original_level": "L1",
+   "new_level": "L2",
+   "note": "頁首等級（依快速總覽與重審結果）為 L2，description 仍寫產線當時的 L1；依站方 2026-11-03 決定，description 只把「證據等級 L1」改成「證據等級 L2」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L2",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "methylprednisolone-alopecia-areata-known-use-rereview-2026-11-03",
    "drug": "methylprednisolone",
    "file": "methylprednisolone.md",
@@ -23997,6 +24397,26 @@
      "title": "US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8",
      "excerpt": "is. C. For Intralesional Administration DEPO-MEDROL is indicated for intralesional use in alopecia areata, discoid lupus erythematosus; keloids, localized hypertrophic, infiltrated inflammatory l",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "methylprednisolone-description-level-2026-11-03",
+   "drug": "methylprednisolone",
+   "file": "methylprednisolone.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Methylprednisolone：預測新適應症為圓形禿 (Alopecia Areata)（證據等級 L3）。原適應症：抗炎性皮質固醇",
+   "original_level": "L3",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L3」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
      "accessed": "2026-11-03"
     }
    ]
@@ -24202,6 +24622,26 @@
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "衛署藥製字第014596號｜\"永信\"寧司泰定陰道錠｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌所引起之陰道感染症；衛署藥製字第027557號｜\"生達\" 速淨陰道錠１０萬單位（耐絲菌素）｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症；衛署藥製字第034585號｜\"衛達\"妳達新陰道栓劑｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：念珠菌感染引起之陰道炎。；衛署藥製字第057924號｜婦可安陰道錠10萬單位(耐絲菌素)｜主成分 NYSTATIN｜單方｜狀態 有效｜適應症：陰道念珠菌感染症。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "nystatin-description-level-2026-11-03",
+   "drug": "nystatin",
+   "file": "nystatin.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Nystatin：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L3）。原適應症：抗生素",
+   "original_level": "L3",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L3」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
      "accessed": "2026-11-03"
     }
    ]
@@ -24421,6 +24861,26 @@
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "衛署藥輸字第025242號｜愛斯萬膠囊25毫克｜主成分 TEGAFUR (FTORAFUR)、OTERACIL POTASSIUM、GIMERACIL｜複方｜狀態 有效｜適應症：1. 胃癌： (１) 胃癌術後輔助性化療，用於罹患TNM Stage II (排除TI)、IIIA或IIIB胃癌且接受過胃癌根除性手術之成年病人。 (２) 適用於治療無法切除之晚期胃癌。 2. 胰臟癌：適用於治療局部晚期或轉移性胰臟癌病人。 3. 大腸直腸癌：與Irinotecan合併使用於已使用含有Oxaliplatin化學療法失敗之轉移性大腸直腸癌病人。 4. 晚期非小細胞肺癌：適用於對含鉑之（台灣核准範圍為胃癌、胰臟癌，未含大腸直腸癌）",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "oteracil-description-level-2026-11-03",
+   "drug": "oteracil",
+   "file": "oteracil.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Oteracil：預測新適應症為大腸腫瘤 (Colonic Neoplasm)（證據等級 L2）。原適應症：胃癌用藥",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L2」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
      "accessed": "2026-11-03"
     }
    ]
@@ -24712,6 +25172,26 @@
    ]
   },
   {
+   "id": "terbutaline-description-level-2026-11-03",
+   "drug": "terbutaline",
+   "file": "terbutaline.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Terbutaline：預測新適應症為阻塞性肺病 (Obstructive Lung Disease)（證據等級 L1）。原適應症：支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解",
+   "original_level": "L1",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L1」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
    "id": "tioconazole-vulvovaginitis-known-use-rereview-2026-11-03",
    "drug": "tioconazole",
    "file": "tioconazole.md",
@@ -24829,6 +25309,26 @@
      "title": "US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]",
      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937",
      "excerpt": "Uses treats vaginal yeast infections",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "tioconazole-description-level-2026-11-03",
+   "drug": "tioconazole",
+   "file": "tioconazole.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Tioconazole：預測新適應症為外陰陰道炎 (Vulvovaginitis)（證據等級 L2）。原適應症：感受性黴菌引起之局部感染",
+   "original_level": "L2",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L2」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
      "accessed": "2026-11-03"
     }
    ]
@@ -24985,6 +25485,246 @@
      "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "衛署藥製字第043698號｜友復　膠囊｜主成分 TEGAFUR (FTORAFUR)、URACIL｜複方｜狀態 有效｜適應症：胃癌、大腸(結腸直腸)癌、乳癌、與Cisplatin併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。；衛署藥製字第049563號｜〝美時〞復癒 膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、大腸（結腸直腸）癌、乳癌、頭頸部鱗狀上皮癌、與cisplatin 併用治療轉移及末期肺癌、用於病理分期T2 之第一期B 肺腺癌病人手術後輔助治療。；衛署藥輸字第023484號｜優富多膠囊｜主成分 URACIL、TEGAFUR (FTORAFUR)｜複方｜狀態 有效｜適應症：胃癌、結腸癌、大腸癌、乳癌、與CISPLATIN併用治療轉移及末期肺癌、頭頸部癌、用於病理分期T2之第一期B肺腺癌病人手術後輔助治療。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "uracil-description-level-2026-11-03",
+   "drug": "uracil",
+   "file": "uracil.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Uracil：預測新適應症為大腸腫瘤 (Colonic Neoplasm)（證據等級 L5）。原適應症：抗惡性腫瘤劑",
+   "original_level": "L5",
+   "new_level": "N/A",
+   "note": "本頁主預測已重審撤回，頁首等級改為 N/A（僅已知用途）；依站方 2026-11-03 決定，description 只把「證據等級 L5」改成「僅已知用途」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：N/A",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "aliskiren-description-level-2026-11-03",
+   "drug": "aliskiren",
+   "file": "aliskiren.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Aliskiren：預測新適應症為肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "cabazitaxel-description-level-2026-11-03",
+   "drug": "cabazitaxel",
+   "file": "cabazitaxel.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Cabazitaxel：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：與 prednisone 或 prednisolone 併用治療去勢抗性轉移性前列腺癌且已接受過 docetaxel 治療者",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "daptomycin-description-level-2026-11-03",
+   "drug": "daptomycin",
+   "file": "daptomycin.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Daptomycin：預測新適應症為骨關節炎 (osteoarthritis)（證據等級 L4）。原適應症：成人及兒童（1至17歲）革蘭氏陽性菌引起的複雜性皮膚和皮膚組織感染（cSSSI）",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "hydroquinone-description-level-2026-11-03",
+   "drug": "hydroquinone",
+   "file": "hydroquinone.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Hydroquinone：預測新適應症為脂漏性角化症 (Seborrheic Keratosis)（證據等級 L4）。原適應症：黑斑、雀斑",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "lacosamide-description-level-2026-11-03",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L3）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療",
+   "original_level": "L3",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L3；依站方 2026-11-03 決定，description 只把「證據等級 L3」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "larotrectinib-description-level-2026-11-03",
+   "drug": "larotrectinib",
+   "file": "larotrectinib.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Larotrectinib：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L4）。原適應症：具 NTRK 基因融合的實體腫瘤（成人和兒童），須符合：無已知後天阻抗性突變、為轉移性或手術切除極可能造成嚴重病症…",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "nitrous_oxide-description-level-2026-11-03",
+   "drug": "nitrous_oxide",
+   "file": "nitrous_oxide.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign Prostatic Hyperplasia)（證據等級 L4）。原適應症：吸入性全身麻醉、鎮痛",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "perindopril-description-level-2026-11-03",
+   "drug": "perindopril",
+   "file": "perindopril.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Perindopril：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L4）。原適應症：高血壓、充血性心臟衰竭",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "posaconazole-description-level-2026-11-03",
+   "drug": "posaconazole",
+   "file": "posaconazole.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Posaconazole：預測新適應症為肺囊蟲病 (Pneumocystosis)（證據等級 L4）。原適應症：對 amphotericin B、itraconazole 或 voriconazole 治療無效或不能忍受之成人侵入性麴菌病的第二線用藥",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "tranexamic_acid-description-level-2026-11-03",
+   "drug": "tranexamic_acid",
+   "file": "tranexamic_acid.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Tranexamic Acid：預測新適應症為無月經 (Amenorrhea)（證據等級 L4）。原適應症：全身及局部出血或出血性疾病",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "vasopressin-description-level-2026-11-03",
+   "drug": "vasopressin",
+   "file": "vasopressin.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Vasopressin：預測新適應症為先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)（證據等級 L4）。原適應症：尿崩症",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級（依快速總覽與重審結果）為 L5，description 仍寫產線當時的 L4；依站方 2026-11-03 決定，description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "本頁頁首證據等級：L5",
      "accessed": "2026-11-03"
     }
    ]

@@ -6,7 +6,7 @@ nav_order: 139
 evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-11-03
-description: "Hydroxyurea：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制"
+description: "Hydroxyurea：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L5）。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制"
 monitor_inn: "Hydroxyurea"
 predicted_indications: ["female breast carcinoma", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin c disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin E disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
 ---
@@ -176,6 +176,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 | 2026-10-03 | 許可證表「捷可衛錠」一列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [EMA EPAR：EMA EPAR siklos](https://www.ema.europa.eu/en/medicines/human/EPAR/siklos) |
 | 2026-11-03 | 鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 HbSC L2（本頁「其他預測的參考」段的敘述）；另兩項本頁未列等級→撤回（已核准用途，不列新適應症等級） | [EMA EPAR：EMA EPAR siklos](https://www.ema.europa.eu/en/medicines/human/EPAR/siklos) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

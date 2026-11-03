@@ -6,7 +6,7 @@ nav_order: 22
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-03
-description: "Alprostadil：預測新適應症為主動脈畸形 (Aortic Malformation)（證據等級 L3）。原適應症：末梢血管擴張劑"
+description: "Alprostadil：預測新適應症為主動脈畸形 (Aortic Malformation)（證據等級 L5）。原適應症：末梢血管擴張劑"
 monitor_inn: "Alprostadil"
 predicted_indications: ["aortic malformation", "congenital tricuspid stenosis", "congenital valvular dysplasia", "tricuspid valve agenesis", "straddling or overriding tricuspid valve", "tricuspid valve prolapse (disease)", "anomaly of the tricuspid subvalvular apparatus", "double outlet right ventricle with atrioventricular septal defect, pulmonary stenosis, heterotaxy", "heart septal defect", "endemic goiter"]
 ---
@@ -146,6 +146,7 @@ TxGNN 模型預測它可能對**主動脈畸形 (Aortic Malformation)** 有效�
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L3，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L1）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | tricuspid valve agenesis（三尖瓣閉鎖）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | tricuspid valve agenesis（三尖瓣閉鎖）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

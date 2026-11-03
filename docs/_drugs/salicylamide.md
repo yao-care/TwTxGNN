@@ -5,8 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 253
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-29
-description: "Salicylamide：預測新適應症為咽炎 (Pharyngitis)（證據等級 L4）。原適應症：鎮痛藥"
+last_modified_at: 2026-11-03
+description: "Salicylamide：預測新適應症為咽炎 (Pharyngitis)（證據等級 L5）。原適應症：鎮痛藥"
 monitor_inn: "Salicylamide"
 predicted_indications: ["pharyngitis", "nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria", "lung disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
 ---
@@ -172,6 +172,7 @@ TxGNN 模型預測它可能對**咽炎 (Pharyngitis)** 有效，
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「人生」必治僂糖衣錠狀態寫有效 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

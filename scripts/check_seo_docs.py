@@ -18,7 +18,8 @@
     6. 藥物頁的許可證字號都屬於該藥（TFDA 快照）、許可證表是程式產生的、張數一致、
        沒有產線開場白與「Evidence Pack」用語；被 superseded 的查核紀錄確認屬於本藥的字號
        （asserted_license_ids）必須都在程式表裡（2026-10-03 補）。
-    7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級（主預測重審撤回時＝其他預測表保留的最高等級，沒有就 N/A，2026-11-03 補）；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
+    7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級（主預測重審撤回時＝其他預測表保留的最高等級，沒有就 N/A，2026-11-03 補）；
+       front matter description 提到的「證據等級 Lx」＝頁首等級（2026-11-03 補）；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
        不能用 Liquid 的寫死藥物數／等級分布等於 drug_stats.json（2026-10-04 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
@@ -253,6 +254,8 @@ for md in sorted((DOCS / "_drugs").glob("*.md")):
         continue  # 轉址頁（2026-10-17）
     for e in _F.header_problems(text):
         errors.append(f"{md.name}：頁首等級與快速總覽不一致：{e}")
+    for e in _F.description_level_problems(text):  # 2026-11-03：description 的等級＝頁首等級
+        errors.append(f"{md.name}：{e}")
     for e in _F.table_spacing_problems(text):
         errors.append(f"{md.name}：{e}")
 # 7b) 吃等級的衍生檔要跟頁首一致（重產頁面後忘了重產衍生檔就擋）

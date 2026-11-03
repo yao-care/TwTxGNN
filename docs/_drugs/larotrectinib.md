@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Larotrectinib"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
-last_modified_at: 2026-10-29
-description: "Larotrectinib：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L4）。原適應症：具 NTRK 基因融合的實體腫瘤（成人和兒童），須符合：無已知後天阻抗性突變、為轉移性或手術切除極可能造成嚴重病症…"
+last_modified_at: 2026-11-03
+description: "Larotrectinib：預測新適應症為多發性內分泌腫瘤 (Multiple Endocrine Neoplasia)（證據等級 L5）。原適應症：具 NTRK 基因融合的實體腫瘤（成人和兒童），須符合：無已知後天阻抗性突變、為轉移性或手術切除極可能造成嚴重病症…"
 ---
 
 # Larotrectinib
@@ -126,6 +126,19 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 - 補充詳細的作用機轉（MOA）資料
 - 蒐集 Larotrectinib 用於 RET 抑制劑抗藥後旁路活化病人的臨床或轉譯研究證據
 - 查閱原廠仿單，補齊警語與禁忌症資訊
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

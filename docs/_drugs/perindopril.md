@@ -5,8 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 214
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-29
-description: "Perindopril：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L4）。原適應症：高血壓、充血性心臟衰竭"
+last_modified_at: 2026-11-03
+description: "Perindopril：預測新適應症為惡性高血壓性腎病變 (Malignant Hypertensive Renal Disease)（證據等級 L5）。原適應症：高血壓、充血性心臟衰竭"
 monitor_inn: "perindopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 ---
@@ -133,6 +133,19 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 - 系統性搜尋 ACE 抑制劑用於惡性高血壓／高血壓性腎病變的臨床與觀察性研究
 - 評估腎功能惡化、高血鉀與血管性水腫的風險管理計畫
 - 若有初步證據，再設計小規模前瞻性研究，並先確認適用族群與排除條件
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

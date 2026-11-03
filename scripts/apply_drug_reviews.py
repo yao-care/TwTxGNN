@@ -26,6 +26,9 @@
             2026-11-03 起：主預測重審撤回（總覽「證據等級」格經 table_updates 換成「撤回…」）的頁，頁首改取
             其他預測表保留的最高等級，沒有就是 N/A（歸「僅已知用途（無新預測）」）；這類紀錄帶 trigger=withdraw、
             based_on（撤回的 rereview_result id），查核紀錄表列「主預測重審撤回，頁首等級重算（原 Lx→N/A）」。
+  description_level  front matter description 的等級跟著頁首（2026-11-03 起，用戶決定）：記 original_description／
+            original_level，套用時只把 description 裡「證據等級 Lx」換成目前頁首等級（N/A 頁換成「僅已知用途」），
+            其他文字不動（page_format.sync_description_level）。不顯示框，只列在查核紀錄表。
 紀錄可帶 history：同 id 重發時的前版（整筆前版內容＋retired 日期＋reason）。correct 紀錄
 在頁面上找不到 claim 時，會改找 history 裡前版的 replacement 換成新版（頁面停在前版時用）。
 紀錄的 status 為 superseded（錨點落在已改由程式產生的許可證表或張數上）時：紀錄保留、
@@ -50,7 +53,8 @@ DRUGS = DOCS / "_drugs"
 
 LABEL = {"correct": "查核更正", "annotate": "查核加註", "rereview": "待重審", "rereview_result": "重審結果"}
 ACTION_ZH = {"correct": "更正", "annotate": "加註", "rereview": "標記待重審", "section": "新增附來源段落",
-             "rereview_result": "重審完成", "header_level": "頁首等級依總覽表重算"}
+             "rereview_result": "重審完成", "header_level": "頁首等級依總覽表重算",
+             "description_level": "頁面描述的證據等級改為頁首等級"}
 VERDICT_ZH = {"maintain": "維持", "downgrade": "降級", "upgrade": "升級", "withdraw": "撤回"}
 # 2026-10-15 起：報告整份重生後原句消失、且新報告已沒有那個錯誤的紀錄，標 status=resolved_by_regeneration
 # （附 resolved_on、resolved_note＝新報告的對應寫法）。紀錄保留、頁面不顯示框，只在查核紀錄表註明。
@@ -216,6 +220,9 @@ def log_md(recs):
             act = f"重審：{VERDICT_ZH[r['verdict']]}，{level_change(r)}"
             for u in r.get("table_updates") or []:
                 act += f"；{u['label']}：原「{display(u['claim'])}」→「{display(u['replacement'])}」"
+        if r["action"] == "description_level":
+            act = (f"頁面描述（description）的「證據等級 {r['original_level']}」改為"
+                   f"「{F.description_level_text(r['new_level'])}」（依頁首等級；其他文字未改，原文留在紀錄）")
         if r.get("history"):
             act += f"（{r['history'][-1]['retired']} 修訂，前版保留於紀錄）"
         if r.get("status") == "superseded":
@@ -229,9 +236,12 @@ def log_md(recs):
         rows.append(f"| {r['checked']} | {item} | {act} | {sources_md(r)} |")
     intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
              "更正只限基本藥理事實，模型預測、證據等級與結論未改寫。")
-    if all(r["action"] == "header_level" for r in recs):
+    if all(r["action"] in ("header_level", "description_level") for r in recs):
         intro = ("以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，"
                  "模型預測、總覽表與結論未改寫。")
+        if all(r["action"] == "description_level" for r in recs):
+            intro = ("以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，"
+                     "其他文字、模型預測、總覽表與結論未改寫。")
     elif any(r["action"] == "rereview_result" and r.get("table_updates") for r in recs):
         intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
                  "更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。")
@@ -356,8 +366,8 @@ def render_page(text, recs, problems):
     for r in recs:
         if r.get("status") in ("superseded", RESOLVED, WITHDRAWN, RESOLVED_PROGRAM):
             continue  # 撤回的紀錄同樣不顯示框； 錨點所在的許可證表／張數已由程式化區塊取代，或報告重生後已無此錯誤：紀錄保留、頁面不再顯示框
-        if r["action"] in ("rereview_result", "header_level"):
-            continue  # rereview_result 在它 resolves 的那筆 rereview 位置渲染；header_level 只進查核紀錄表
+        if r["action"] in ("rereview_result", "header_level", "description_level"):
+            continue  # rereview_result 在它 resolves 的那筆 rereview 位置渲染；header_level／description_level 只進查核紀錄表
         if r["action"] == "rereview" and r["id"] in retired:
             continue
         if r["action"] == "rereview" and r["id"] in results:
@@ -365,6 +375,12 @@ def render_page(text, recs, problems):
             continue
         text = apply_record(text, r, problems)
     text = F.sync_header_level(text)  # 頁首等級依快速總覽重算（全站規則，見 page_format）
+    if any(r["action"] == "description_level" and r.get("status") not in ("superseded", RESOLVED, WITHDRAWN, RESOLVED_PROGRAM)
+           for r in recs):
+        before = text
+        text = F.sync_description_level(text)  # description 的等級跟頁首（只改「證據等級 Lx」字樣）
+        if not re.search(r"^description:", before.split("\n---", 1)[0], re.M):
+            problems.append(f"{recs[0]['file']}：有 description_level 紀錄但頁面沒有 description")
     m = re.search(r"^## 免責聲明", text, re.M)
     log = log_md(recs)
     text = text[:m.start()] + log + text[m.start():] if m else text.rstrip() + "\n\n" + log

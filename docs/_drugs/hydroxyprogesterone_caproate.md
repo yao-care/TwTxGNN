@@ -6,7 +6,7 @@ nav_order: 138
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-11-03
-description: "Hydroxyprogesterone Caproate：預測新適應症為子宮內膜異位症 (Endometriosis of uterus)（證據等級 L4）。原適應症：先兆流產、習慣流產、子宮機能性出血、痛經、月經困難"
+description: "Hydroxyprogesterone Caproate：預測新適應症為子宮內膜異位症 (Endometriosis of uterus)（證據等級 L5）。原適應症：先兆流產、習慣流產、子宮機能性出血、痛經、月經困難"
 monitor_inn: "Hydroxyprogesterone caproate"
 predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 ---
@@ -131,6 +131,7 @@ TxGNN 分數很高，機轉上也合理，但沒有任何臨床試驗，唯一�
 |---------|------|------|------|
 | 2026-11-03 | 子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
 | 2026-11-03 | 子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3（本頁「為什麼這個預測合理」段的敘述）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

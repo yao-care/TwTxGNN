@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Nitrous oxide"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-10-29
-description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign Prostatic Hyperplasia)（證據等級 L4）。原適應症：吸入性全身麻醉、鎮痛"
+last_modified_at: 2026-11-03
+description: "Nitrous Oxide：預測新適應症為良性攝護腺肥大 (Benign Prostatic Hyperplasia)（證據等級 L5）。原適應症：吸入性全身麻醉、鎮痛"
 ---
 
 # Nitrous Oxide
@@ -114,6 +114,19 @@ TxGNN 模型預測它可能對**良性攝護腺肥大 (Benign Prostatic Hyperpla
 - 補充詳細的作用機轉資料（MOA）
 - 若要探討 BPH 療效，需有機轉假說與前臨床或臨床研究支持
 - 評估與 methotrexate 及鴉片類藥物併用時的安全性
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

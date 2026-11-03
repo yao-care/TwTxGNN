@@ -14,6 +14,12 @@ gate（scripts/check_seo_docs.py 第 7 項）用同一套函式檢查，三者�
   「僅已知用途（無新預測）」（docs/known-uses.md 的 title；head_custom.html 的 breadcrumb：N/A→/known-uses）。
   只看表格裡的等級欄，不解析敘述文字裡提到的等級；被撤回的列在表裡同樣已換成「撤回…」，不會被算進去。
 
+description 的等級（2026-11-03 用戶決定）：front matter description 是產線依報告寫的（「（證據等級 Lx）」），
+  主預測撤回或頁首重算後會過期。drug_reviews.json 的 action: description_level 紀錄（記 original_description）
+  由 apply_drug_reviews.py 呼叫 sync_description_level，只把 description 裡「證據等級 Lx」換成目前頁首等級
+  （N/A 頁換成「僅已知用途」，與 docs/known-uses.md 的用語一致），其他文字一字不動；
+  gate 用 description_level_problems 檢查 description 提到的等級與頁首一致。
+
 表格前空行：kramdown 不把緊接在標題或段落下一行的 `|` 列當表格，整張表會變成一段純文字；
 表格第一列的前一行不是空行時補一個空行（程式碼區塊內不動）。
 表格後空行（2026-11-03 補）：表格最後一列的下一行直接接「## 免責聲明」之類的非表格行，kramdown 同樣把
@@ -141,6 +147,40 @@ def sync_header_level(text: str) -> str:
         fm = re.sub(r"^parent:.*$", lambda x: f"parent: {parent}", fm, count=1, flags=re.M)
     rest = re.sub(rf"^(證據等級: \*\*){LEVEL_RE}(\*\*)", lambda x: x.group(1) + best + x.group(2), rest, count=1, flags=re.M)
     return fm + rest
+
+
+DESC_LEVEL_RE = re.compile(r"證據等級 (L[1-5]|N/A)")
+NA_DESC = "僅已知用途"
+
+
+def _desc_line(fm: str):
+    return re.search(r"^description:.*$", fm, re.M)
+
+
+def description_level_text(level: str) -> str:
+    return NA_DESC if level == NA else f"證據等級 {level}"
+
+
+def sync_description_level(text: str) -> str:
+    """description 裡的「證據等級 Lx」換成目前頁首等級（N/A→「僅已知用途」）；其他文字不動。"""
+    fm, rest = _split_fm(text)
+    lv = header_state(text)["evidence_level"]
+    m = _desc_line(fm or "")
+    if not m or not lv:
+        return text
+    line = DESC_LEVEL_RE.sub(lambda _: description_level_text(lv), m.group(0))
+    return fm[:m.start()] + line + fm[m.end():] + rest
+
+
+def description_level_problems(text: str) -> list[str]:
+    fm, _ = _split_fm(text)
+    lv = header_state(text)["evidence_level"]
+    m = _desc_line(fm or "")
+    if not m or not lv:
+        return []
+    bad = sorted({x for x in DESC_LEVEL_RE.findall(m.group(0)) if x != lv})
+    return [f"description 寫「證據等級 {x}」，頁首等級={lv}（加 description_level 查核紀錄後跑 scripts/apply_drug_reviews.py）"
+            for x in bad]
 
 
 def header_problems(text: str) -> list[str]:

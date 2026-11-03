@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Dipyridamole"
 predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
 last_modified_at: 2026-11-03
-description: "Dipyridamole：預測新適應症為血栓性疾病 (thrombotic disease)（證據等級 L5）。原適應症：對於慢性狹心症之治療可能有效"
+description: "Dipyridamole：預測新適應症為血栓性疾病 (thrombotic disease)（僅已知用途）。原適應症：對於慢性狹心症之治療可能有效"
 ---
 
 # Dipyridamole
@@ -191,6 +191,7 @@ TIA 是排名第 3 的預測（分數 0.9987），有直接研究該疾病的證
 | 2026-11-03 | 暫時性腦缺血發作 (TIA)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（「補充：暫時性腦缺血發作 (TIA) 方向」段）→撤回（已核准用途，不列新適應症等級） | [UK SmPC (emc)：Attia 200 mg Modified-Release Capsules, Hard - Summary of Product Characteristics (SmPC) - (emc) | 3472](https://www.medicines.org.uk/emc/product/3472/smpc) |
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L5→N/A），改列「僅已知用途（無新預測）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「血栓性疾病 (thrombotic disease)」已重審撤回） | 加註 | [US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

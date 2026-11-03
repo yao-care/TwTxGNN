@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Hydroquinone"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
-last_modified_at: 2026-10-29
-description: "Hydroquinone：預測新適應症為脂漏性角化症 (Seborrheic Keratosis)（證據等級 L4）。原適應症：黑斑、雀斑"
+last_modified_at: 2026-11-03
+description: "Hydroquinone：預測新適應症為脂漏性角化症 (Seborrheic Keratosis)（證據等級 L5）。原適應症：黑斑、雀斑"
 ---
 
 # Hydroquinone
@@ -133,6 +133,19 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 - 補充氫醌的作用機轉資料。
 - 進行小規模對照研究，評估氫醌對脂漏性角化症病灶顏色的改善，並與現有治療（如冷凍治療）比較。
 - 確認各類製劑（濃度、劑型）的適用性，並對照知識圖譜所列的潛在禁忌疾病（如皮膚炎、皮膚萎縮）進行安全性評估。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

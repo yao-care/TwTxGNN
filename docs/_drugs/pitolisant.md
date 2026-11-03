@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Pitolisant"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
-last_modified_at: 2026-10-29
-description: "Pitolisant：預測新適應症為失眠 (Insomnia)（證據等級 L4）。原適應症：1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS）…"
+last_modified_at: 2026-11-03
+description: "Pitolisant：預測新適應症為失眠 (Insomnia)（證據等級 L5）。原適應症：1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS）…"
 ---
 
 # Pitolisant
@@ -134,6 +134,7 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 |---------|------|------|------|
 | 2026-10-03 | 唯醒膜衣錠4.5毫克許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 唯醒膜衣錠18毫克許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

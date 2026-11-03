@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-10-29
-description: "Rotigotine：預測新適應症為注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)（證據等級 L4）。原適應症：原發性帕金森氏症"
+last_modified_at: 2026-11-03
+description: "Rotigotine：預測新適應症為注意力不足過動症 (Attention Deficit-Hyperactivity Disorder)（證據等級 L5）。原適應症：原發性帕金森氏症"
 ---
 
 # Rotigotine
@@ -130,6 +130,7 @@ ADHD 的病理被認為與多巴胺及正腎上腺素調節失衡有關。文獻
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 12 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

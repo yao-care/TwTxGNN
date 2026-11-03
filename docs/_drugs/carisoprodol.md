@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Carisoprodol"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-29
-description: "Carisoprodol：預測新適應症為失眠 (Insomnia)（證據等級 L4）。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛"
+last_modified_at: 2026-11-03
+description: "Carisoprodol：預測新適應症為失眠 (Insomnia)（證據等級 L5）。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛"
 ---
 
 # Carisoprodol
@@ -171,6 +171,7 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：SOMA 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

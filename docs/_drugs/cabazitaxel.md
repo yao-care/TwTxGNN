@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cabazitaxel"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin c disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "HIV infectious disease", "hyperthyroidism", "neuroblastoma", "rheumatoid arthritis"]
-last_modified_at: 2026-10-29
-description: "Cabazitaxel：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L4）。原適應症：與 prednisone 或 prednisolone 併用治療去勢抗性轉移性前列腺癌且已接受過 docetaxel 治療者"
+last_modified_at: 2026-11-03
+description: "Cabazitaxel：預測新適應症為女性乳癌 (Female Breast Carcinoma)（證據等級 L5）。原適應症：與 prednisone 或 prednisolone 併用治療去勢抗性轉移性前列腺癌且已接受過 docetaxel 治療者"
 ---
 
 # Cabazitaxel
@@ -158,6 +158,19 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 - 評估目標族群的肝腎功能與血液學條件，並確認在台灣使用的法規途徑（仿單外使用或新增適應症）。
 
 **其他預測適應症備註：** 排名第 2–10 的預測（鐮狀細胞相關血紅素病變、HIV、甲狀腺機能亢進、神經母細胞瘤、類風濕性關節炎）目前都只有模型預測，沒有臨床或文獻證據，且多數缺乏合理的機轉連結，建議維持 Hold。神經母細胞瘤在抗有絲分裂機轉上有可能性，但仍需前臨床資料支持。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -6,7 +6,7 @@ nav_order: 17
 evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-11-03
-description: "Aliskiren：預測新適應症為肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓"
+description: "Aliskiren：預測新適應症為肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L5）。原適應症：高血壓"
 monitor_inn: "aliskiren"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "cerebrovascular disorder"]
 ---
@@ -125,6 +125,18 @@ TxGNN 模型預測它可能對**肺疾病及（或）缺氧所致的肺高壓 (p
 | 惡性高血壓腎病變 | L5 | 僅有間接文獻，無 aliskiren 直接證據 |
 | 慢性肺心病 | L5 | 僅為模型預測與間接文獻 |
 | 原因不明的多因素肺高壓、Braddock 症候群 | L5 | 僅有模型預測，無相關試驗或文獻 |
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

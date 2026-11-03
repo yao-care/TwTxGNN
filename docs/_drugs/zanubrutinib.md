@@ -5,8 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 311
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-29
-description: "Zanubrutinib：預測新適應症為骨髓性白血病 (Myeloid Leukemia)（證據等級 L4）。原適應症：先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症）"
+last_modified_at: 2026-11-03
+description: "Zanubrutinib：預測新適應症為骨髓性白血病 (Myeloid Leukemia)（證據等級 L5）。原適應症：先前曾接受至少一種治療的被套細胞淋巴瘤 (MCL) 成人病人（另含 WM、MZL、CLL/SLL、FL 等適應症）"
 monitor_inn: "Zanubrutinib"
 predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
 ---
@@ -142,6 +142,7 @@ BTK 在骨髓系細胞中也有表現，因此在機轉上對骨髓性白血病�
 |---------|------|------|------|
 | 2026-10-03 | BTK IC50 寫約 20 nM | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 BTK IC50 約 20 nM；原為更正） | [EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics](https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

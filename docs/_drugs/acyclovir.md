@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-29
-description: "Acyclovir：預測新適應症為點狀上皮角結膜炎（證據等級 L2）。原適應症：帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染…"
+last_modified_at: 2026-11-03
+description: "Acyclovir：預測新適應症為點狀上皮角結膜炎（證據等級 L5）。原適應症：帶狀疱疹病毒引起之感染、單純疱疹病毒引起之皮膚及黏膜感染、預防骨髓移植及白血病所引起之免疫不全病人之單純疱疹感染…"
 ---
 
 # Acyclovir
@@ -152,6 +152,7 @@ TxGNN 模型排名第一的預測是「點狀上皮角結膜炎」，但該預�
 | 2026-10-03 | 許可證表「鹽酸伐習洛書」「艾疹零凍晶注射劑」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「台灣現行核准適應症中已涵蓋帶狀疱疹眼炎相關治療」 | 報告重生後已無此錯誤（2026-10-15：新報告的預測改為尋常疣，正文未再提及帶狀疱疹眼炎或台灣核准適應症涵蓋帶狀疱疹眼炎；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症寫「復發性生殖器疱疹的預防及治療」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L2」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

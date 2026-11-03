@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-10-29
-description: "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L3）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療"
+last_modified_at: 2026-11-03
+description: "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L5）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療"
 ---
 
 # Lacosamide
@@ -155,6 +155,19 @@ TxGNN 模型預測它可能對**躁症型雙相情感障礙 (Manic Bipolar Affec
 
 **備選方向（偏頭痛）：**
 同一份資料中，偏頭痛的評估為 L2、建議 Proceed with Guardrails。已有 2 個已完成的 Phase 3 試驗（NCT05851781 對比 propranolol；NCT05632133 為 CGRP 生物標記先導研究）、1 個已完成的 Phase 2 試驗（NCT00440518），以及一個 Phase 3 狀態未知的對比 topiramate 試驗（NCT06243692）。2026 年另有一篇 Lacosamide 對比 propranolol 的雙盲 RCT（PMID 41863672）。不過這些試驗的療效結果未在本次資料中提供，需先查證再決定是否推進，這個適應症若要優先評估，建議另行撰寫專屬報告。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

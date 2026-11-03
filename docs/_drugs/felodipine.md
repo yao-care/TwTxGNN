@@ -5,8 +5,8 @@ parent: 僅模型預測 (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-29
-description: "Felodipine：預測新適應症為因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L4）。原適應症：高血壓、心絞痛"
+last_modified_at: 2026-11-03
+description: "Felodipine：預測新適應症為因肺部疾病和/或缺氧引起的肺高壓 (pulmonary hypertension owing to lung disease and/or…（證據等級 L5）。原適應症：高血壓、心絞痛"
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 ---
@@ -179,6 +179,7 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

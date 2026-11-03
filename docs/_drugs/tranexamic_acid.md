@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Tranexamic acid"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-29
-description: "Tranexamic Acid：預測新適應症為無月經 (Amenorrhea)（證據等級 L4）。原適應症：全身及局部出血或出血性疾病"
+last_modified_at: 2026-11-03
+description: "Tranexamic Acid：預測新適應症為無月經 (Amenorrhea)（證據等級 L5）。原適應症：全身及局部出血或出血性疾病"
 ---
 
 # Tranexamic Acid
@@ -128,6 +128,19 @@ TxGNN 模型預測它可能與**無月經 (Amenorrhea)** 相關，但目前**沒
 - 補充作用機轉資料（MOA）。
 - 針對血液腫瘤等特定族群，蒐集 Tranexamic acid 用於月經抑制的臨床研究資料。
 - 建立血栓風險評估與併用荷爾蒙藥物的安全監測計畫。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

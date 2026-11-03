@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Trifluoperazine"
 predicted_indications: ["manic bipolar affective disorder"]
-last_modified_at: 2026-10-29
-description: "Trifluoperazine：預測新適應症為躁期雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L4）。原適應症：精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙"
+last_modified_at: 2026-11-03
+description: "Trifluoperazine：預測新適應症為躁期雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L5）。原適應症：精神病狀態、噁心、嘔吐、攻擊性與破壞性之行為障礙"
 ---
 
 # Trifluoperazine
@@ -145,6 +145,7 @@ TxGNN 預測分數雖高，但沒有任何針對躁期雙相情感障礙的臨�
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

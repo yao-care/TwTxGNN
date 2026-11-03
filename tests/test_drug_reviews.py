@@ -224,3 +224,29 @@ def test_extract_drug_list_skips_withdrawn(tmp_path):
         {"action": "rereview_result", "verdict": "downgrade", "file": "d.md", "withdrawn_predictions": ["y"]},
     ]}), encoding="utf-8")
     assert X.withdrawn_predictions(f) == {"a.md": {"obstructive lung disease"}, "b.md": {"alopecia"}}
+
+
+# ---- description 的等級跟頁首（2026-11-03 用戶決定）----
+def desc_rec(lv_old, lv_new):
+    return {"id": "demo-desc", "file": "demo.md", "checked": "2026-11-03", "action": "description_level",
+            "summary": "頁面描述（description）的證據等級", "original_description": "x",
+            "original_level": lv_old, "new_level": lv_new, "note": "n", "sources": SRC}
+
+
+def test_description_level_follows_header_na():
+    page = PAGE.replace("evidence_level: L5\n", 'evidence_level: L5\ndescription: "Demo：預測新適應症為甲病（證據等級 L3）。原適應症：舊"\n')
+    assert F.description_level_problems(page)
+    out, problems = render(withdraw_recs() + [desc_rec("L3", "N/A")], page)
+    assert problems == []
+    assert 'description: "Demo：預測新適應症為甲病（僅已知用途）。原適應症：舊"' in out
+    assert F.description_level_problems(out) == []
+    assert "「證據等級 L3」改為「僅已知用途」" in out
+
+
+def test_description_level_follows_header_level():
+    page = PAGE.replace("evidence_level: L5\n", 'evidence_level: L5\ndescription: "Demo（甲病，證據等級 L2）。"\n')
+    out, _ = render(recs(verdict="maintain", new="L3", updates=False) + [desc_rec("L2", "L3")], page)
+    assert 'description: "Demo（甲病，證據等級 L3）。"' in out
+    # 沒有紀錄就不動 description（gate 會擋）
+    out2, _ = render(recs(verdict="maintain", new="L3", updates=False), page)
+    assert "證據等級 L2" in out2 and F.description_level_problems(out2)

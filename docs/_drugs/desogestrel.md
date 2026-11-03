@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Desogestrel"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "acne (disease)", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "primary ovarian failure", "symptomatic form of fragile X syndrome in female carrier"]
-last_modified_at: 2026-10-29
-description: "Desogestrel：預測新適應症為閉經 (Amenorrhea)（證據等級 L3）。原適應症：避孕"
+last_modified_at: 2026-11-03
+description: "Desogestrel：預測新適應症為閉經 (Amenorrhea)（證據等級 L5）。原適應症：避孕"
 ---
 
 # Desogestrel
@@ -149,6 +149,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表皆為複方，母扶樂錠已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

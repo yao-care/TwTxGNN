@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "vasopressin"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-29
-description: "Vasopressin：預測新適應症為先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)（證據等級 L4）。原適應症：尿崩症"
+last_modified_at: 2026-11-03
+description: "Vasopressin：預測新適應症為先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency)（證據等級 L5）。原適應症：尿崩症"
 ---
 
 # Vasopressin
@@ -116,6 +116,19 @@ TxGNN 模型預測它可能對**先天性凝血酶原缺乏症 (Congenital Proth
 - 釐清是否有針對凝血酶原缺乏症的機轉或前臨床研究。
 - 蒐集直接以該疾病為對象的臨床或病例證據。
 - 確認製劑可取得性（現無有效許可證）及給藥途徑是否適用。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。
