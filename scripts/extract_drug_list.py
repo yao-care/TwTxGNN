@@ -6,7 +6,11 @@ Creates a JSON file with drug names, evidence levels, and indication counts.
 
 import json
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from twtxgnn.regulatory import withdrawn as W  # noqa: E402
 
 
 def parse_front_matter(content: str) -> dict:
@@ -42,22 +46,9 @@ def withdrawn_predictions(reviews_file: Path) -> dict:
     """查核紀錄裡重審撤回（verdict=withdraw）的預測：{頁面檔名: {預測名稱（小寫）}}。
 
     2026-11-03 用戶決定：撤回的預測不再做證據監測（不開 issue）。front matter 的 predicted_indications
-    依站方規則原文不刪，所以排除清單以 docs/_data/drug_reviews.json 為準：
-    known_use_exclusion[].predicted（已核准用途撤回）或 withdrawn_predictions（其他撤回），
-    兩者都是 front matter predicted_indications 的原字串。被標 resolved_by_regeneration／withdrawn 的紀錄不算。
+    依站方規則原文不刪，名單以 docs/_data/drug_reviews.json 為準（規則見 src/twtxgnn/regulatory/withdrawn.py）。
     """
-    if not reviews_file.exists():
-        return {}
-    out: dict = {}
-    for r in json.loads(reviews_file.read_text(encoding="utf-8")).get("records", []):
-        if r.get("action") != "rereview_result" or r.get("verdict") != "withdraw":
-            continue
-        if r.get("status") in ("resolved_by_regeneration", "withdrawn"):
-            continue
-        names = [e.get("predicted") for e in r.get("known_use_exclusion") or []]
-        names += r.get("withdrawn_predictions") or []
-        out.setdefault(r["file"], set()).update(n.strip().lower() for n in names if n)
-    return out
+    return {f"{slug}.md": names for slug, names in W.load(reviews_file).items()}
 
 
 def main():

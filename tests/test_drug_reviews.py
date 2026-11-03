@@ -250,3 +250,21 @@ def test_description_level_follows_header_level():
     # 沒有紀錄就不動 description（gate 會擋）
     out2, _ = render(recs(verdict="maintain", new="L3", updates=False), page)
     assert "證據等級 L2" in out2 and F.description_level_problems(out2)
+
+
+# ---- 撤回的預測不進搜尋索引／FHIR（2026-11-03 用戶決定）----
+def test_withdrawn_name_matching():
+    from twtxgnn.regulatory import withdrawn as W
+    t = {"camphor": {"erectile dysfunction (disease)"}, "terbutaline": {"obstructive lung disease"}}
+    assert W.is_withdrawn(t, "terbutaline", "Obstructive Lung Disease")
+    assert W.is_withdrawn(t, "camphor", "勃起功能障礙 (Erectile Dysfunction) (erectile dysfunction (disease))")
+    assert W.is_withdrawn(t, "terbutaline", "阻塞性肺病（obstructive lung disease）")
+    assert not W.is_withdrawn(t, "terbutaline", "respiratory malformation")
+    assert not W.is_withdrawn(t, "omalizumab", "obstructive lung disease")
+
+
+def test_fhir_cud_key():
+    import generate_fhir_resources as G
+    res = G.create_clinical_use_definition({"slug": "terbutaline", "name": "Terbutaline"},
+                                           {"name": "obstructive lung disease", "score": 99.0}, "https://x")
+    assert G._cud_key(res) == ("terbutaline", "obstructive lung disease")

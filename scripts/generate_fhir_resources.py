@@ -11,8 +11,12 @@ This script reads the search-index.json and generates:
 
 import json
 import re
+import sys
 from datetime import datetime
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from twtxgnn.regulatory import withdrawn as W  # noqa: E402  重審撤回的預測（2026-11-03）
 
 
 def slugify(text: str) -> str:
@@ -236,6 +240,42 @@ def create_bundle(entries: list, base_url: str) -> dict:
     }
 
 
+def _cud_key(res: dict):
+    """ClinicalUseDefinition → (藥 slug, 適應症名稱)。"""
+    subj = (res.get("subject") or [{}])[0].get("reference", "")
+    slug = subj.split("/", 1)[1] if subj.startswith("MedicationKnowledge/") else ""
+    concept = ((res.get("indication") or {}).get("diseaseSymptomProcedure") or {}).get("concept") or {}
+    name = concept.get("text") or next((c.get("display", "") for c in concept.get("coding") or []), "")
+    return slug, name
+
+
+def prune_withdrawn(output_dir: Path) -> int:
+    """重審撤回的預測（docs/_data/drug_reviews.json verdict=withdraw）從 FHIR 拿掉（2026-11-03 用戶決定）：
+    刪掉對應的 ClinicalUseDefinition 檔與 Bundle 內的 entry（total 同步扣掉），其他資源與欄位不動。
+    MedicationKnowledge 不引用 ClinicalUseDefinition，不需改。回傳刪掉的 CUD 數。"""
+    table = W.load()
+    gone = set()
+    for f in sorted((output_dir / "ClinicalUseDefinition").glob("*.json")):
+        res = json.loads(f.read_text(encoding="utf-8"))
+        if res.get("resourceType") == "ClinicalUseDefinition" and W.is_withdrawn(table, *_cud_key(res)):
+            gone.add(res.get("id"))
+            f.unlink()
+    bpath = output_dir / "Bundle" / "all-predictions.json"
+    if bpath.exists():
+        bundle = json.loads(bpath.read_text(encoding="utf-8"))
+        before = len(bundle.get("entry") or [])
+        bundle["entry"] = [e for e in bundle.get("entry") or []
+                           if not (e.get("resource", {}).get("resourceType") == "ClinicalUseDefinition"
+                                   and (e["resource"].get("id") in gone or W.is_withdrawn(table, *_cud_key(e["resource"]))))]
+        removed = before - len(bundle["entry"])
+        if removed:
+            if isinstance(bundle.get("total"), int):
+                bundle["total"] -= removed
+            bpath.write_text(json.dumps(bundle, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"Pruned {len(gone)} withdrawn ClinicalUseDefinition resources")
+    return len(gone)
+
+
 def main():
     """Main function to generate FHIR resources."""
     # Configuration
@@ -252,6 +292,7 @@ def main():
 
     drugs = search_index.get("drugs", [])
     print(f"Found {len(drugs)} drugs")
+    withdrawn = W.load()
 
     # Create output directories
     (output_dir / "MedicationKnowledge").mkdir(parents=True, exist_ok=True)
@@ -274,6 +315,8 @@ def main():
 
         # Create ClinicalUseDefinition for each indication
         for indication in drug.get("indications", []):
+            if W.is_withdrawn(withdrawn, drug["slug"], indication.get("name", "")):
+                continue  # 重審撤回的預測不發布（頁面原文不動，2026-11-03）
             clinical_use = create_clinical_use_definition(drug, indication, base_url)
             all_resources.append(clinical_use)
             total_indications += 1
@@ -298,8 +341,13 @@ def main():
         json.dump(bundle, f, ensure_ascii=False, indent=2)
     print(f"Generated Bundle with {len(all_resources)} resources")
 
+    prune_withdrawn(output_dir)  # 舊檔裡殘留的撤回預測一併清掉
     print(f"\nFHIR resources generated successfully in {output_dir}")
 
 
 if __name__ == "__main__":
-    main()
+    if "--prune-withdrawn" in sys.argv:
+        # 只清撤回的預測，不重產其他資源（現行 FHIR 由 kept 產生，格式與本腳本的全量重產不完全相同）
+        prune_withdrawn(Path(__file__).parent.parent / "docs" / "fhir")
+    else:
+        main()

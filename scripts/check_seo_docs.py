@@ -19,7 +19,8 @@
        沒有產線開場白與「Evidence Pack」用語；被 superseded 的查核紀錄確認屬於本藥的字號
        （asserted_license_ids）必須都在程式表裡（2026-10-03 補）。
     7. 藥物頁頁首等級＝快速總覽證據等級列的最高等級（主預測重審撤回時＝其他預測表保留的最高等級，沒有就 N/A，2026-11-03 補）；
-       front matter description 提到的「證據等級 Lx」＝頁首等級（2026-11-03 補）；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
+       front matter description 提到的「證據等級 Lx」＝頁首等級（2026-11-03 補）；
+       重審撤回的預測不在 search-index 與 FHIR（7d，2026-11-03 補）；表格前後不缺空行（表格後 2026-11-03 補）；吃等級的衍生檔與頁首一致；
        不能用 Liquid 的寫死藥物數／等級分布等於 drug_stats.json（2026-10-04 補）。
     5. docs/_data/drug_reviews.json 的人工查核紀錄（更正／加註／待重審／附來源段落）
        都還套在藥物頁上（產線重產會蓋掉；修法：python3 scripts/apply_drug_reviews.py）。
@@ -285,6 +286,28 @@ for _rel, _key, _fld, _fix in _DERIVED:
     _missing = sorted(set(_fm_level) - set(_rows))
     if _bad or _missing:
         errors.append(f"{_rel}：等級與藥物頁頁首不一致 {_bad[:5]}、缺 {_missing[:5]}（跑 {_fix}）")
+
+# 7d) 重審撤回的預測（drug_reviews.json verdict=withdraw）不能留在搜尋索引與 FHIR（2026-11-03 用戶決定）
+from twtxgnn.regulatory import withdrawn as _Wd  # noqa: E402
+_wd = _Wd.load()
+_si = DOCS / "data" / "search-index.json"
+if _wd and _si.exists():
+    _left = sorted((d.get("slug"), i.get("name")) for d in json.loads(_si.read_text(encoding="utf-8")).get("drugs", [])
+                   for i in d.get("indications") or [] if _Wd.is_withdrawn(_wd, d.get("slug"), i.get("name")))
+    if _left:
+        errors.append(f"search-index.json 仍有重審撤回的預測 {_left[:5]}（跑 scripts/generate_search_index.py --levels-from-pages）")
+if _wd and (DOCS / "fhir" / "ClinicalUseDefinition").is_dir():
+    sys.path.insert(0, str(DOCS.parent / "scripts"))
+    from generate_fhir_resources import _cud_key  # noqa: E402
+    _left = sorted(f.name for f in (DOCS / "fhir" / "ClinicalUseDefinition").glob("*.json")
+                   if _Wd.is_withdrawn(_wd, *_cud_key(json.loads(f.read_text(encoding="utf-8")))))
+    _b = DOCS / "fhir" / "Bundle" / "all-predictions.json"
+    if _b.exists():
+        _left += sorted(e["resource"].get("id", "") for e in json.loads(_b.read_text(encoding="utf-8")).get("entry", [])
+                        if e.get("resource", {}).get("resourceType") == "ClinicalUseDefinition"
+                        and _Wd.is_withdrawn(_wd, *_cud_key(e["resource"])))
+    if _left:
+        errors.append(f"FHIR 仍有重審撤回的預測 {_left[:5]}（跑 scripts/generate_fhir_resources.py --prune-withdrawn）")
 
 # 7c) 不能用 Liquid 的寫死藥物數／等級分布（front matter description、ld+json numberOfItems、README、CITATION…）
 #     必須等於 drug_stats.json（2026-10-04 補）。清單與修法：scripts/generate_drug_stats.py 的 COUNT_SPOTS。

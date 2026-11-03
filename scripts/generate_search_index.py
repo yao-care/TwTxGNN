@@ -17,6 +17,9 @@ from datetime import date
 # Paths
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
+import sys as _sys  # noqa: E402
+_sys.path.insert(0, str(PROJECT_ROOT / "src"))
+from twtxgnn.regulatory import withdrawn as _W  # noqa: E402  重審撤回的預測（2026-11-03）
 BUNDLES_DIR = PROJECT_ROOT / "data" / "bundles"
 OUTPUT_FILE = PROJECT_ROOT / "docs" / "data" / "search-index.json"
 
@@ -113,6 +116,7 @@ def build_search_index(bundles: list) -> dict:
     indication_map = defaultdict(list)  # indication -> list of drugs
 
     level_order = {"L1": 1, "L2": 2, "L3": 3, "L4": 4, "L5": 5}
+    withdrawn = _W.load()
 
     for bundle in bundles:
         drug_data = bundle.get("drug", {})
@@ -132,6 +136,8 @@ def build_search_index(bundles: list) -> dict:
 
         for ind in predicted:
             ind_name = ind.get("disease_name", "")
+            if _W.is_withdrawn(withdrawn, slug, ind_name):
+                continue  # 重審撤回的預測不進索引（頁面原文不動，2026-11-03 用戶決定）
             score = ind.get("txgnn_score", 0)
             level = calculate_evidence_level(ind)
 
@@ -325,6 +331,57 @@ def _sync_levels_from_pages():
     print(f"  Synced drug levels from pages: {changed} changed")
 
 
+def _drop_withdrawn():
+    """重審撤回的預測（docs/_data/drug_reviews.json verdict=withdraw）從索引拿掉（2026-11-03 用戶決定）。
+
+    drugs[].indications 刪掉該筆；indications 反查表刪掉該藥，沒有藥的適應症整筆刪除並更新計數。
+    其他欄位與格式（一行或縮排）不動。沒有 bundle 也能跑（--levels-from-pages 時同樣執行）。
+    """
+    import json as _json
+    from pathlib import Path as _Path
+
+    idx_path = _Path("docs/data/search-index.json")
+    if not idx_path.exists():
+        return
+    table = _W.load()
+    raw = idx_path.read_text(encoding="utf-8")
+    idx = _json.loads(raw)
+    gone = set()
+    for d in idx.get("drugs", []):
+        keep = []
+        for ind in d.get("indications") or []:
+            if _W.is_withdrawn(table, d.get("slug"), ind.get("name")):
+                gone.add((d.get("slug"), ind.get("name")))
+            else:
+                keep.append(ind)
+        if "indications" in d:
+            d["indications"] = keep
+    inds = idx.get("indications")
+    if isinstance(inds, list):
+        kept = []
+        for ind in inds:
+            refs = ind.get("drugs")
+            if isinstance(refs, list):
+                new = [r for r in refs if (r.get("slug"), ind.get("name")) not in gone
+                       and not _W.is_withdrawn(table, r.get("slug"), ind.get("name"))]
+                if len(new) != len(refs):
+                    if not new:
+                        continue
+                    ind["drugs"] = new
+                    for k in ("drug_count", "count"):
+                        if k in ind:
+                            ind[k] = len(new)
+            kept.append(ind)
+        idx["indications"] = kept
+        if "indication_count" in idx:
+            idx["indication_count"] = len(kept)
+    compact = "\n" not in raw.strip()
+    out = (_json.dumps(idx, ensure_ascii=False, separators=(",", ":")) if compact
+           else _json.dumps(idx, ensure_ascii=False, indent=2))
+    idx_path.write_text(out, encoding="utf-8")
+    print(f"  Dropped withdrawn predictions: {len(gone)}")
+
+
 _main_before_prune = main
 
 
@@ -333,6 +390,7 @@ def main():
     if "--levels-from-pages" not in _sys.argv:
         _main_before_prune()
         _prune_search_index()
+    _drop_withdrawn()
     _sync_levels_from_pages()
 
 

@@ -3,7 +3,7 @@
   "id": "all-predictions",
   "type": "collection",
   "timestamp": "2026-05-01T08:46:04.814768",
-  "total": 2425,
+  "total": 2394,
   "link": [
     {
       "relation": "self",
@@ -11736,54 +11736,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/choline_salicylate-rheumatoid-arthritis",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "choline_salicylate-rheumatoid-arthritis",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/choline_salicylate"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "rheumatoid arthritis"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9982
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/choline_salicylate-hypertensive-disorder",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -18750,54 +18702,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/methylprednisolone-alopecia-areata",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "methylprednisolone-alopecia-areata",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/methylprednisolone"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "alopecia areata"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9998999999999999
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/methylprednisolone-alopecia-mucinosa",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -20343,54 +20247,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/tioconazole-vulvovaginitis",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "tioconazole-vulvovaginitis",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/tioconazole"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "vulvovaginitis"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9923000000000001
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/tioconazole-vulvitis",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -20533,150 +20389,6 @@
                 }
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/uracil-colonic-neoplasm",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "uracil-colonic-neoplasm",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/uracil"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "colonic neoplasm"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.995
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/uracil-gastric-carcinoma",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "uracil-gastric-carcinoma",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/uracil"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "gastric carcinoma"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9945999999999999
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/uracil-rectosigmoid-junction-neoplasm",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "uracil-rectosigmoid-junction-neoplasm",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/uracil"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "rectosigmoid junction neoplasm"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9937
           }
         ]
       }
@@ -22471,54 +22183,6 @@
                 }
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/oteracil-colonic-neoplasm",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "oteracil-colonic-neoplasm",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/oteracil"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "colonic neoplasm"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9998999999999999
           }
         ]
       }
@@ -27843,54 +27507,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/diosmin-amenorrhea-disease",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "diosmin-amenorrhea-disease",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/diosmin"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "amenorrhea (disease)"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9942
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/MedicationKnowledge/trifluoperazine",
       "resource": {
         "resourceType": "MedicationKnowledge",
@@ -31024,54 +30640,6 @@
           "diseaseSymptomProcedure": {
             "concept": {
               "text": "preeclampsia/eclampsia"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 1.0
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/magnesium_sulfate-toxemia-of-pregnancy",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "magnesium_sulfate-toxemia-of-pregnancy",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/magnesium_sulfate"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "toxemia of pregnancy"
             }
           }
         },
@@ -38874,54 +38442,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hydroxyprogesterone_caproate-uterine-corpus-cancer",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "hydroxyprogesterone_caproate-uterine-corpus-cancer",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/hydroxyprogesterone_caproate"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "uterine corpus cancer"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9995999999999999
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hydroxyprogesterone_caproate-cervix-endometriosis",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -38961,54 +38481,6 @@
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
             "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9995999999999999
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hydroxyprogesterone_caproate-endometrial-cancer",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "hydroxyprogesterone_caproate-endometrial-cancer",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/hydroxyprogesterone_caproate"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "endometrial cancer"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
           },
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
@@ -40371,54 +39843,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/alprostadil-tricuspid-valve-agenesis",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "alprostadil-tricuspid-valve-agenesis",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/alprostadil"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "tricuspid valve agenesis"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9993000000000001
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/alprostadil-straddling-or-overriding-tricuspid-valve",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -41241,54 +40665,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/dexamethasone-alopecia-areata",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "dexamethasone-alopecia-areata",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/dexamethasone"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "alopecia areata"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9998999999999999
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/dexamethasone-alopecia-mucinosa",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -41868,54 +41244,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/dipyridamole-thrombotic-disease",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "dipyridamole-thrombotic-disease",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/dipyridamole"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "thrombotic disease"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9994
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/dipyridamole-sick-sinus-syndrome-2-autosomal-dominant",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -41959,54 +41287,6 @@
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
             "valueDecimal": 0.9989
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/dipyridamole-transient-ischemic-attack-disease",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "dipyridamole-transient-ischemic-attack-disease",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/dipyridamole"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "transient ischemic attack (disease)"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9987
           }
         ]
       }
@@ -42829,54 +42109,6 @@
                 }
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/terbutaline-obstructive-lung-disease",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "terbutaline-obstructive-lung-disease",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/terbutaline"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "obstructive lung disease"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9995999999999999
           }
         ]
       }
@@ -47911,54 +47143,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/betamethasone-alopecia-areata",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "betamethasone-alopecia-areata",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/betamethasone"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "alopecia areata"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9997
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/betamethasone-alopecia-mucinosa",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -51001,54 +50185,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/riluzole-amyotrohpic-lateral-sclerosis-type-22",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "riluzole-amyotrohpic-lateral-sclerosis-type-22",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/riluzole"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "amyotrohpic lateral sclerosis type 22"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9998
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/MedicationKnowledge/milrinone",
       "resource": {
         "resourceType": "MedicationKnowledge",
@@ -51095,150 +50231,6 @@
                 }
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/milrinone-alopecia",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "milrinone-alopecia",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/milrinone"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "alopecia"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9991
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/milrinone-hypotrichosis-simplex-of-the-scalp",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "milrinone-hypotrichosis-simplex-of-the-scalp",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/milrinone"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "hypotrichosis simplex of the scalp"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9990000000000001
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/milrinone-congenital-hypotrichosis-milia",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "milrinone-congenital-hypotrichosis-milia",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/milrinone"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "congenital hypotrichosis milia"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9989
           }
         ]
       }
@@ -52389,54 +51381,6 @@
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
             "valueCode": "L1"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hyaluronic_acid-dry-eye-syndrome",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "hyaluronic_acid-dry-eye-syndrome",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/hyaluronic_acid"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "dry eye syndrome"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9986
           }
         ]
       }
@@ -54513,54 +53457,6 @@
                 }
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/ferrous_gluconate-plummer-vinson-syndrome",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "ferrous_gluconate-plummer-vinson-syndrome",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/ferrous_gluconate"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "Plummer-Vinson syndrome"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9994
           }
         ]
       }
@@ -63936,54 +62832,6 @@
           "diseaseSymptomProcedure": {
             "concept": {
               "text": "atopic eczema"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9997
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/omalizumab-obstructive-lung-disease",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "omalizumab-obstructive-lung-disease",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/omalizumab"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "obstructive lung disease"
             }
           }
         },
@@ -74385,54 +73233,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/nystatin-vulvovaginitis",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "nystatin-vulvovaginitis",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/nystatin"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "vulvovaginitis"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9992
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/nystatin-disease-of-orbital-region",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -75010,54 +73810,6 @@
                 }
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/bevacizumab-epiglottis-neoplasm",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "bevacizumab-epiglottis-neoplasm",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/bevacizumab"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "epiglottis neoplasm"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9990000000000001
           }
         ]
       }
@@ -99496,54 +98248,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/prednisone-tenosynovitis",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "prednisone-tenosynovitis",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/prednisone"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "tenosynovitis"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.998
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/prednisone-prolapse-of-lacrimal-gland",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -103795,54 +102499,6 @@
       }
     },
     {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hydroxyurea-sickle-cell-hemoglobin-c-disease-syndrome",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "hydroxyurea-sickle-cell-hemoglobin-c-disease-syndrome",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/hydroxyurea"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "sickle cell-hemoglobin c disease syndrome"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9967
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hydroxyurea-hereditary-persistence-of-fetal-hemoglobin-sickle-ce",
       "resource": {
         "resourceType": "ClinicalUseDefinition",
@@ -103882,102 +102538,6 @@
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
             "valueCode": "L4"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9967
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hydroxyurea-sickle-cell-hemoglobin-d-disease-syndrome",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "hydroxyurea-sickle-cell-hemoglobin-d-disease-syndrome",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/hydroxyurea"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "sickle cell-hemoglobin d disease syndrome"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9967
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/hydroxyurea-sickle-cell-beta-thalassemia-disease-syndrome",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "hydroxyurea-sickle-cell-beta-thalassemia-disease-syndrome",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/hydroxyurea"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "sickle cell-beta-thalassemia disease syndrome"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
           },
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
@@ -110934,54 +109494,6 @@
                 }
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://twtxgnn.yao.care/fhir/ClinicalUseDefinition/icatibant-c1-inhibitor-deficiency",
-      "resource": {
-        "resourceType": "ClinicalUseDefinition",
-        "id": "icatibant-c1-inhibitor-deficiency",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
-          ]
-        },
-        "type": "indication",
-        "status": {
-          "coding": [
-            {
-              "system": "http://hl7.org/fhir/publication-status",
-              "code": "draft",
-              "display": "Draft"
-            }
-          ]
-        },
-        "subject": [
-          {
-            "reference": "MedicationKnowledge/icatibant"
-          }
-        ],
-        "indication": {
-          "diseaseSymptomProcedure": {
-            "concept": {
-              "text": "C1 inhibitor deficiency"
-            }
-          }
-        },
-        "extension": [
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
-            "valueCode": "predicted"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          },
-          {
-            "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-            "valueDecimal": 0.9998999999999999
           }
         ]
       }
