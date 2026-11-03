@@ -119,8 +119,8 @@ redirect_from:
 </style>
 
 {% comment %}分布數字由 docs/_data/drug_stats.json 計算（scripts/generate_drug_stats.py），不要手寫。{% endcomment %}
-{% assign lc = site.data.drug_stats.level_counts %}{% assign tot = site.data.drug_stats.total_drugs %}{% assign nh = lc.L1 | plus: lc.L2 %}{% assign nm = lc.L3 | plus: lc.L4 %}{% assign nl = lc.L5 %}
-{% assign ph = nh | times: 100.0 | divided_by: tot | round: 1 %}{% assign pm = nm | times: 100.0 | divided_by: tot | round: 1 %}{% assign pl = nl | times: 100.0 | divided_by: tot | round: 1 %}
+{% assign lc = site.data.drug_stats.level_counts %}{% assign tot = site.data.drug_stats.total_drugs %}{% assign nh = lc.L1 | plus: lc.L2 %}{% assign nm = lc.L3 | plus: lc.L4 %}{% assign nl = lc.L5 %}{% assign nt = nh | plus: nm | plus: nl %}
+{% assign ph = nh | times: 100.0 | divided_by: nt | round: 1 %}{% assign pm = nm | times: 100.0 | divided_by: nt | round: 1 %}{% assign pl = nl | times: 100.0 | divided_by: nt | round: 1 %}
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
     <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: {{ ph }}%;" title="高證據等級：{{ nh }} 個藥物">{{ nh }}</a>
