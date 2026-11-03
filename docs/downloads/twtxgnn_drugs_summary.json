@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T10:56:06.691515",
+  "generated_at": "2026-11-03T22:48:00.220768",
   "total_drugs": 291,
   "evidence_distribution": {
-    "L5": 233,
+    "L5": 234,
     "L4": 17,
     "N/A": 17,
     "L2": 12,
     "L1": 2,
-    "L3": 10
+    "L3": 9
   },
   "drugs": [
     {
@@ -1167,9 +1167,9 @@
     },
     {
       "drug_name": "Mexiletine",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/mexiletine/"
     },
     {

@@ -164,7 +164,7 @@ Methocarbamol,methocarbamol,L5,10,肌肉攣縮症狀、肩痛斜頸、肌肉痙�
 Methylprednisolone,methylprednisolone,N/A,9,抗炎性皮質固醇,圓形禿 (Alopecia Areata),0.9999,False,撤回（已核准用途）,/drugs/methylprednisolone/
 Methylprednisone,methylprednisone,L5,7,腎上腺皮質機能不全、劇烈休克、支氣管性氣喘、膠原疾病、過敏反應、泛發性感染,痲瘋病 (Leprosy),0.9949,False,Hold,/drugs/methylprednisone/
 Metoprolol,metoprolol,L5,6,高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整; 交感神經β１－感受體遮斷劑; 隆壓劑; 主治高血壓、心絞痛; 隆壓劑。; 高血壓。; 降壓劑。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後預防心肌之死亡及再梗塞、心律不整。; 高血壓？狹心症。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後、預防心肌之死亡及再梗塞、心律不整、有心悸症狀之功能性心臟病。,惡性高血壓性腎病 (malignant hypertensive renal disease),0.9991,False,Hold,/drugs/metoprolol/
-Mexiletine,mexiletine,L3,10,抗心律不整藥（心室性不整律）,毛髮過多症 (Hypertrichosis)（排名第 1，無證據）；證據最多者為頭痛疾患 (Headache Disorder)（排名第 10）,毛髮過多症 0.9978；頭痛疾患 0.9948,False,Hold（頭痛疾患方向可列為 Research Question）,/drugs/mexiletine/
+Mexiletine,mexiletine,L5,10,抗心律不整藥（心室性不整律）,毛髮過多症 (Hypertrichosis)（排名第 1，無證據）；證據最多者為頭痛疾患 (Headache Disorder)（排名第 10）,毛髮過多症 0.9978；頭痛疾患 0.9948,False,Hold（頭痛疾患方向可列為 Research Question）,/drugs/mexiletine/
 Milrinone,milrinone,L5,9,充血性心衰竭的短期療法,禿髮 (Alopecia),0.9991,False,Hold,/drugs/milrinone/
 Minoxidil,minoxidil,L4,10,雄激素禿髮（ＡＬＯＰＥＣＩＡ　ＡＮＤＲＯＧＥＮＥＴＩＣＡ）; 雄激素性禿髮; 雄激素性禿髮。; 雄激素禿髮。; 雄激素性禿髮（ＡＬＯＰＥＣＩＡ　ＡＮＤＲＯＧＥＮＥＴＩＣＡ）; 雄激素性禿髮　（ＡＬＯＰＥＣＩＡ　ＡＮＤＲＯＧＥＮＥＴＩＣＡ）。; 雄激素性禿頭。; 雄激素性禿髮 (ALOPECIA ANDROGENETICA); 雄激素性禿髮(Alopecia Androgenetica); 嚴重高血壓; 降血壓劑; 雄激素性秃髮。; 降血壓劑。; 治療女性雄激素性落髮。; 降血壓藥; 抗高血壓劑; 雄激素性禿髮(Alopecia Androgenetica)。; 治療嚴重性高血壓、適用於全身性高,頭皮單純性毛髮稀少症 (hypotrichosis simplex of the scalp),1.0000,False,Hold,/drugs/minoxidil/
 Mitiglinide,mitiglinide,L5,1,對無法經由飲食控制與運動達到良好控制的第二型糖尿病患者，有助於改善餐後血糖,Opsismodysplasia,0.9904,False,Hold,/drugs/mitiglinide/

@@ -97,7 +97,7 @@
       ]
     },
     "L3": {
-      "count": 10,
+      "count": 9,
       "drugs": [
         {
           "name": "Conjugated Estrogens",
@@ -140,12 +140,6 @@
           "slug": "lenvatinib",
           "decision": "Hold（列為研究問題，待更多證據）",
           "indication_count": 5
-        },
-        {
-          "name": "Mexiletine",
-          "slug": "mexiletine",
-          "decision": "Hold（頭痛疾患方向可列為 Research Question）",
-          "indication_count": 10
         },
         {
           "name": "Moclobemide",
@@ -269,7 +263,7 @@
       ]
     },
     "L5": {
-      "count": 233,
+      "count": 234,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -1080,6 +1074,12 @@
           "slug": "metoprolol",
           "decision": "Hold",
           "indication_count": 6
+        },
+        {
+          "name": "Mexiletine",
+          "slug": "mexiletine",
+          "decision": "Hold（頭痛疾患方向可列為 Research Question）",
+          "indication_count": 10
         },
         {
           "name": "Milrinone",

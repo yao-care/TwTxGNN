@@ -4,9 +4,9 @@
   "level_counts": {
     "L1": 2,
     "L2": 12,
-    "L3": 10,
+    "L3": 9,
     "L4": 17,
-    "L5": 233
+    "L5": 234
   },
   "top_by_indications": [
     {
@@ -630,7 +630,7 @@
     {
       "name": "Mexiletine",
       "slug": "mexiletine",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 0

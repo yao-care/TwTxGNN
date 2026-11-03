@@ -25728,6 +25728,128 @@
      "accessed": "2026-11-03"
     }
    ]
+  },
+  {
+   "id": "mexiletine-hypertrichosis-level-rereview-2026-11-03",
+   "drug": "mexiletine",
+   "file": "mexiletine.md",
+   "checked": "2026-11-03",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "頁首證據等級 L3 來自非主預測，標記待重審",
+   "claim": "| 預測新適應症 | 毛髮過多症 (Hypertrichosis)（排名第 1，無證據）；證據最多者為頭痛疾患 (Headache Disorder)（排名第 10） |",
+   "anchor": "| 預測新適應症 | 毛髮過多症 (Hypertrichosis)（排名第 1，無證據）；證據最多者為頭痛疾患 (Headache Disorder)（排名第 10） |",
+   "prediction": "毛髮過多症 (Hypertrichosis)",
+   "status": "rereviewed",
+   "resolved_by": "mexiletine-hypertrichosis-level-rereview-result-2026-11-03",
+   "finding": "本頁主預測（front matter predicted_indications 第一個）是毛髮過多症，總覽列為 L5、沒有任何證據；頁首與 front matter 的 L3 來自排名第 10 的頭痛疾患。頁首等級沒有被主預測的證據支持，需重審。",
+   "note": "本頁頁首 L3 取自排名第 10 的頭痛疾患，主預測毛髮過多症沒有任何證據，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L5：僅模型預測，尚無人體證據；L3：觀察性研究或病例系列。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "mexiletine-hypertrichosis-level-rereview-result-2026-11-03",
+   "drug": "mexiletine",
+   "file": "mexiletine.md",
+   "checked": "2026-11-03",
+   "action": "rereview_result",
+   "resolves": "mexiletine-hypertrichosis-level-rereview-2026-11-03",
+   "summary": "毛髮過多症（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | 毛髮過多症 L5；頭痛疾患 L3 |",
+   "prediction": "毛髮過多症 (Hypertrichosis)",
+   "verdict": "downgrade",
+   "original_level": "L3",
+   "new_level": "L5",
+   "level_note": "L3（頁首與 front matter，取自總覽列中排名第 10 的頭痛疾患）",
+   "flawed_premises": [
+    "頁首等級取總覽「證據等級」列的最高等級，但該列混入了非主預測（頭痛疾患，排名第 10）的等級"
+   ],
+   "remaining_support": [
+    "主預測毛髮過多症：證據包與 PubMed／ClinicalTrials.gov 皆無 mexiletine 用於毛髮過多症的研究",
+    "頭痛疾患另有本藥病例系列（PMID 18793209、6938859），屬另一筆預測，不是本頁主預測的證據"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義，只計主預測（毛髮過多症）與本藥的研究：沒有任何人體或前臨床證據，屬 L5。頭痛疾患的病例系列是排名第 10 的另一筆預測，不能當本頁主預測的等級。",
+   "note": "本頁主預測是毛髮過多症（模型排名第 1），沒有任何研究支持，屬 L5；原本頁首的 L3 取自排名第 10 的頭痛疾患（mexiletine 有病例系列，[PMID 18793209](https://pubmed.ncbi.nlm.nih.gov/18793209/)）。依用戶 2026-11-03 決定（重審後降級），快速總覽的證據等級格只列主預測的等級；頭痛疾患的文獻與說明原文保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L5：僅模型預測，尚無人體證據；L3：觀察性研究或病例系列。",
+     "accessed": "2026-11-03"
+    },
+    {
+     "title": "PubMed：Mexiletine for refractory chronic daily headache: a report of nine cases（PMID 18793209）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/18793209/",
+     "excerpt": "9 例難治性慢性每日頭痛的 mexiletine 使用經驗（病例系列）；屬頭痛疾患，不是毛髮過多症。",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "searches": [
+    {
+     "db": "證據包（TxGNN evidence pack）",
+     "query": "mexiletine × hypertrichosis",
+     "result": "臨床試驗 0、文獻 0（2026-11-03）。",
+     "accessed": "2026-11-03"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | 毛髮過多症 L5；頭痛疾患 L3 |",
+     "replacement": "| 證據等級 | 毛髮過多症 L5（主預測；頭痛疾患為排名第 10 的另一筆預測，不計入本頁等級） |"
+    }
+   ]
+  },
+  {
+   "id": "mexiletine-header-level-2026-11-03",
+   "drug": "mexiletine",
+   "file": "mexiletine.md",
+   "checked": "2026-11-03",
+   "action": "header_level",
+   "based_on": "mexiletine-hypertrichosis-level-rereview-result-2026-11-03",
+   "summary": "頁首證據等級",
+   "original_level": "L3",
+   "new_level": "L5",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "僅模型預測 (L5)",
+   "original_header": "L3",
+   "basis": "快速總覽「證據等級」列重審後只列主預測毛髮過多症 L5（mexiletine-hypertrichosis-level-rereview-result-2026-11-03）",
+   "note": "快速總覽的證據等級格重審後只列主預測（毛髮過多症 L5），頁首等級依總覽表重算為 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L5：僅模型預測，尚無人體證據；L3：觀察性研究或病例系列。",
+     "accessed": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "id": "mexiletine-description-level-2026-11-03",
+   "drug": "mexiletine",
+   "file": "mexiletine.md",
+   "checked": "2026-11-03",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Mexiletine：預測新適應症為毛髮過多症 (Hypertrichosis)（證據等級 L3）。原適應症：抗心律不整藥（心室性不整律）",
+   "original_level": "L3",
+   "new_level": "L5",
+   "note": "頁首等級重審後為 L5；description 只把「證據等級 L3」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L5：僅模型預測，尚無人體證據；L3：觀察性研究或病例系列。",
+     "accessed": "2026-11-03"
+    }
+   ]
   }
  ]
 }

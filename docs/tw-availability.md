@@ -194,7 +194,7 @@ permalink: /tw-availability/
 | [Methylprednisolone](/drugs/methylprednisolone/) | 上市中（有效許可證 35 張／共 86 張） |  | N/A |
 | [Methylprednisone](/drugs/methylprednisone/) | 上市中（有效許可證 3 張／共 11 張） |  | L5 |
 | [Metoprolol](/drugs/metoprolol/) | 上市中（有效許可證 8 張／共 46 張） |  | L5 |
-| [Mexiletine](/drugs/mexiletine/) | 上市中（有效許可證 5 張／共 11 張） |  | L3 |
+| [Mexiletine](/drugs/mexiletine/) | 上市中（有效許可證 5 張／共 11 張） |  | L5 |
 | [Milrinone](/drugs/milrinone/) | 上市中（有效許可證 2 張／共 3 張） |  | L5 |
 | [Minoxidil](/drugs/minoxidil/) | 上市中（有效許可證 59 張／共 100 張） |  | L4 |
 | [Mitiglinide](/drugs/mitiglinide/) | 上市中（有效許可證 1 張／共 1 張） |  | L5 |
