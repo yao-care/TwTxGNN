@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 7
 monitor_inn: "Icatibant"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-03
 description: "Icatibant：預測新適應症為C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)（證據等級 L1）。原適應症：體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療"
 ---
 
@@ -159,6 +159,7 @@ C1 酯酶抑制劑缺乏會使激肽釋放酶-激肽系統失控活化，造成�
 | 免疫介導壞死性肌病 (immune-mediated necrotizing myopathy) | 0.9906 | Hold |
 | 抗合成酶症候群 (antisynthetase syndrome) | 0.9902 | Hold |
 | 血小板無力症 (Glanzmann thrombasthenia) | 0.9900 | Hold |
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

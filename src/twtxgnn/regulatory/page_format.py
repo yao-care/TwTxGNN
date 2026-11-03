@@ -11,6 +11,10 @@ gate（scripts/check_seo_docs.py 第 7 項）用同一套函式檢查，三者�
 
 表格前空行：kramdown 不把緊接在標題或段落下一行的 `|` 列當表格，整張表會變成一段純文字；
 表格第一列的前一行不是空行時補一個空行（程式碼區塊內不動）。
+表格後空行（2026-11-03 補）：表格最後一列的下一行直接接「## 免責聲明」之類的非表格行，kramdown 同樣把
+整張表排成純文字（aliskiren、icatibant 實例）；最後一列以 `|` 收尾、下一行不是空行／`{:` 屬性列／
+Liquid `{%` 時補一個空行。最後一列沒以 `|` 收尾（儲存格內含換行，例如 TFDA 適應症原文多行）不是缺空行，
+補空行也救不回那張表，這裡不處理。
 """
 from __future__ import annotations
 
@@ -111,14 +115,31 @@ def _table_starts_without_blank(lines: list[str]):
             yield i
 
 
+def _table_ends_without_blank(lines: list[str]):
+    """表格最後一列的下一行不是空行（回傳下一行的索引，也就是要在它前面補空行的位置）。"""
+    fence = False
+    for i, ln in enumerate(lines[:-1]):
+        if ln.startswith("```"):
+            fence = not fence
+            continue
+        if fence:
+            continue
+        nxt = lines[i + 1]
+        if (ln.startswith("|") and ln.rstrip().endswith("|") and nxt.strip() and not nxt.startswith("|")
+                and not nxt.lstrip().startswith(("{:", "{%"))):
+            yield i + 1
+
+
 def fix_table_spacing(text: str) -> str:
     lines = text.split("\n")
-    for i in reversed(list(_table_starts_without_blank(lines))):
+    for i in sorted(set(_table_starts_without_blank(lines)) | set(_table_ends_without_blank(lines)), reverse=True):
         lines.insert(i, "")
     return "\n".join(lines)
 
 
 def table_spacing_problems(text: str) -> list[str]:
     lines = text.split("\n")
-    return [f"第 {i + 1} 行的表格前面缺空行（前一行：{lines[i - 1][:30]}）"
-            for i in _table_starts_without_blank(lines)]
+    return ([f"第 {i + 1} 行的表格前面缺空行（前一行：{lines[i - 1][:30]}）"
+             for i in _table_starts_without_blank(lines)]
+            + [f"第 {i} 行的表格後面缺空行（下一行：{lines[i][:30]}）"
+               for i in _table_ends_without_blank(lines)])

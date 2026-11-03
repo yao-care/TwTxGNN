@@ -136,6 +136,17 @@ def test_table_spacing():
     assert F.fix_table_spacing(out) == out
 
 
+def test_table_spacing_after():
+    page = "## 表\n\n| a | b |\n|---|---|\n| 1 | 2 |\n## 免責聲明\n\n| c |\n|---|\n| 3 |\n{: .x }\n"
+    assert len(F.table_spacing_problems(page)) == 1
+    out = F.fix_table_spacing(page)
+    assert "| 1 | 2 |\n\n## 免責聲明" in out and "| 3 |\n{: .x }" in out and F.table_spacing_problems(out) == []
+    assert F.fix_table_spacing(out) == out
+    # 儲存格內含換行（最後一列沒以 | 收尾）不是缺空行，不動
+    multi = "\n| 項目 | 內容 |\n|---|---|\n| 原適應症 | 1、甲\n 2、乙 |\n"
+    assert F.table_spacing_problems(multi) == [] and F.fix_table_spacing(multi) == multi
+
+
 def test_pipeline_parsers_read_annotated_cells():
     import build_docs
     import sync_notes_to_docs

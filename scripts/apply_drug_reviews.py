@@ -341,7 +341,7 @@ def render_page(text, recs, problems):
     # 先清掉本頁所有先前產生的區塊，再依序重套；否則 A 紀錄的說明文字裡引用的原句
     # 會被 B 紀錄誤認成頁面原文。
     text = re.sub(r"\n*<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->\n*", "\n\n", text, flags=re.S)
-    text = F.fix_table_spacing(text)  # 先補表格前空行，查核框的插入位置才與產線一致
+    text = F.fix_table_spacing(text)  # 先補表格前後空行，查核框的插入位置才與產線一致
     text = undo_retired(text, recs)
     # 重審結果標了 resolved_by_regeneration（重審對象是舊版報告、新報告已反映重審意見）就不再顯示框
     results = {r["resolves"]: r for r in recs if r["action"] == "rereview_result" and r.get("status") != RESOLVED}
