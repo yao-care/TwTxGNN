@@ -1,6 +1,6 @@
 {
-  "total": 286,
-  "generated_at": "2026-11-03T04:54:55.346391",
+  "total": 285,
+  "generated_at": "2026-11-03T18:55:39.850953",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -198,7 +198,6 @@
         "aortic malformation",
         "congenital tricuspid stenosis",
         "congenital valvular dysplasia",
-        "tricuspid valve agenesis",
         "straddling or overriding tricuspid valve",
         "tricuspid valve prolapse (disease)",
         "anomaly of the tricuspid subvalvular apparatus",
@@ -557,12 +556,11 @@
     {
       "name": "Betamethasone",
       "file": "betamethasone.md",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 8,
       "predicted_indication": "斑禿 (Alopecia Areata)",
       "inn": "Betamethasone",
       "predicted_indications": [
-        "alopecia areata",
         "alopecia mucinosa",
         "telogen effluvium",
         "Quinquaud's folliculitis decalvans",
@@ -580,7 +578,6 @@
       "predicted_indication": "會厭腫瘤 (Epiglottis Neoplasm)",
       "inn": "Bevacizumab",
       "predicted_indications": [
-        "epiglottis neoplasm",
         "benign neoplasm of tongue",
         "tumor of testis and paratestis",
         "benign neoplasm of hypopharynx",
@@ -912,7 +909,6 @@
       "inn": "Choline salicylate",
       "predicted_indications": [
         "Prinzmetal angina",
-        "rheumatoid arthritis",
         "hypertensive disorder",
         "migraine disorder",
         "pulmonary hypertension owing to lung disease and/or hypoxia",
@@ -1103,8 +1099,7 @@
         "gout",
         "kyphoscoliotic heart disease",
         "benign prostatic hyperplasia (disease)",
-        "exostosis",
-        "peripheral vascular disease"
+        "exostosis"
       ]
     },
     {
@@ -1230,12 +1225,11 @@
     {
       "name": "Dexamethasone",
       "file": "dexamethasone.md",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "predicted_indication": "圓形禿 (Alopecia Areata)",
       "inn": "Dexamethasone",
       "predicted_indications": [
-        "alopecia areata",
         "alopecia mucinosa",
         "telogen effluvium",
         "Quinquaud's folliculitis decalvans",
@@ -1268,27 +1262,14 @@
       ]
     },
     {
-      "name": "Diosmin",
-      "file": "diosmin.md",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "predicted_indication": "閉經 (Amenorrhea)",
-      "inn": "Diosmin",
-      "predicted_indications": [
-        "amenorrhea (disease)"
-      ]
-    },
-    {
       "name": "Dipyridamole",
       "file": "dipyridamole.md",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 8,
       "predicted_indication": "血栓性疾病 (thrombotic disease)",
       "inn": "Dipyridamole",
       "predicted_indications": [
-        "thrombotic disease",
         "sick sinus syndrome 2, autosomal dominant",
-        "transient ischemic attack (disease)",
         "sarcoglycanopathy",
         "Wildervanck syndrome",
         "macrocephaly, dysmorphic facies, and psychomotor retardation",
@@ -1619,12 +1600,11 @@
     {
       "name": "Ferrous Gluconate",
       "file": "ferrous_gluconate.md",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 5,
       "predicted_indication": "Plummer-Vinson 症候群 (Plummer-Vinson syndrome)",
       "inn": "Ferrous gluconate",
       "predicted_indications": [
-        "Plummer-Vinson syndrome",
         "vitamin B12- and folate-independent constitutional megaloblastic anemia",
         "non-syndromic esophageal malformation",
         "biotin metabolic disease",
@@ -2045,12 +2025,11 @@
     {
       "name": "Hyaluronic Acid",
       "file": "hyaluronic_acid.md",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "predicted_indication": "乾眼症 (Dry Eye Syndrome)",
       "inn": "Hyaluronic acid",
       "predicted_indications": [
-        "dry eye syndrome",
         "Sjogren syndrome",
         "xerophthalmia",
         "psoriasis",
@@ -2108,9 +2087,7 @@
         "endometriosis of rectovaginal septum and vagina",
         "endometriosis in cutaneous scar",
         "renal hypoplasia (disease)",
-        "uterine corpus cancer",
         "cervix endometriosis",
-        "endometrial cancer",
         "breast fibrocystic disease",
         "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"
       ]
@@ -2124,9 +2101,6 @@
       "inn": "Hydroxyurea",
       "predicted_indications": [
         "female breast carcinoma",
-        "sickle cell-beta-thalassemia disease syndrome",
-        "sickle cell-hemoglobin c disease syndrome",
-        "sickle cell-hemoglobin d disease syndrome",
         "sickle cell-hemoglobin E disease syndrome",
         "cervical adenosarcoma",
         "colon mucinous adenocarcinoma",
@@ -2174,12 +2148,11 @@
     {
       "name": "Icatibant",
       "file": "icatibant.md",
-      "evidence_level": "L1",
+      "evidence_level": "N/A",
       "indication_count": 7,
       "predicted_indication": "C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)",
       "inn": "Icatibant",
       "predicted_indications": [
-        "C1 inhibitor deficiency",
         "serpinopathy with toxic serpin polymerization",
         "pseudo-von Willebrand disease",
         "primary release disorder of platelets",
@@ -2674,12 +2647,11 @@
     {
       "name": "Magnesium Sulfate",
       "file": "magnesium_sulfate.md",
-      "evidence_level": "L1",
+      "evidence_level": "L2",
       "indication_count": 9,
       "predicted_indication": "妊娠毒血症 (toxemia of pregnancy)",
       "inn": "Magnesium sulfate",
       "predicted_indications": [
-        "toxemia of pregnancy",
         "thrombotic disease",
         "pharyngitis",
         "nasal cavity disease",
@@ -2772,12 +2744,11 @@
     {
       "name": "Methylprednisolone",
       "file": "methylprednisolone.md",
-      "evidence_level": "L3",
+      "evidence_level": "N/A",
       "indication_count": 9,
       "predicted_indication": "圓形禿 (Alopecia Areata)",
       "inn": "Methylprednisolone",
       "predicted_indications": [
-        "alopecia areata",
         "alopecia mucinosa",
         "telogen effluvium",
         "Quinquaud's folliculitis decalvans",
@@ -2849,9 +2820,6 @@
       "predicted_indication": "禿髮 (Alopecia)",
       "inn": "Milrinone",
       "predicted_indications": [
-        "alopecia",
-        "hypotrichosis simplex of the scalp",
-        "congenital hypotrichosis milia",
         "diffuse alopecia areata",
         "headache disorder",
         "migraine disorder",
@@ -2902,11 +2870,8 @@
         "solid pseudopapillary carcinoma of pancreas",
         "osteoclastic giant cell tumor of pancreas",
         "pancreatic carcinoma with mixed differentiation",
-        "pancreatic intraductal papillary-mucinous carcinoma",
         "mixed ductal-endocrine carcinoma of pancreas",
-        "pancreatic signet ring cell adenocarcinoma",
         "undifferentiated pancreatic carcinoma",
-        "malignant exocrine pancreas neoplasm",
         "pancreatic intraductal papillary-mucinous neoplasm",
         "pancreatic acinar cell cystadenocarcinoma"
       ]
@@ -3118,12 +3083,11 @@
     {
       "name": "Nystatin",
       "file": "nystatin.md",
-      "evidence_level": "L3",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "predicted_indication": "外陰陰道炎 (Vulvovaginitis)",
       "inn": "Nystatin",
       "predicted_indications": [
-        "vulvovaginitis",
         "disease of orbital region",
         "disease of orbital part of eye adnexa",
         "cystic teratoma",
@@ -3145,7 +3109,6 @@
       "predicted_indications": [
         "bronchitis",
         "atopic eczema",
-        "obstructive lung disease",
         "dermatitis",
         "bronchial neoplasm (disease)",
         "acne keloid",
@@ -3158,12 +3121,11 @@
     {
       "name": "Oteracil",
       "file": "oteracil.md",
-      "evidence_level": "L2",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "predicted_indication": "大腸腫瘤 (Colonic Neoplasm)",
       "inn": "Oteracil",
       "predicted_indications": [
-        "colonic neoplasm",
         "cecum villous adenoma",
         "cecum neuroendocrine tumor G1",
         "lipoma of colon",
@@ -3660,7 +3622,6 @@
         "hereditary hypotrichosis with recurrent skin vesicles",
         "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome",
         "atrichia with papular lesions",
-        "tenosynovitis",
         "prolapse of lacrimal gland"
       ]
     },
@@ -3890,8 +3851,7 @@
         "lethal arthrogryposis-anterior horn cell disease syndrome",
         "monomelic amyotrophy",
         "Mills syndrome",
-        "autosomal dominant mitochondrial myopathy with exercise intolerance",
-        "amyotrohpic lateral sclerosis type 22"
+        "autosomal dominant mitochondrial myopathy with exercise intolerance"
       ]
     },
     {
@@ -4256,12 +4216,11 @@
     {
       "name": "Terbutaline",
       "file": "terbutaline.md",
-      "evidence_level": "L1",
+      "evidence_level": "N/A",
       "indication_count": 3,
       "predicted_indication": "阻塞性肺病 (Obstructive Lung Disease)",
       "inn": "Terbutaline",
       "predicted_indications": [
-        "obstructive lung disease",
         "respiratory malformation",
         "Rienhoff syndrome"
       ]
@@ -4428,12 +4387,11 @@
     {
       "name": "Tioconazole",
       "file": "tioconazole.md",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 3,
       "predicted_indication": "外陰陰道炎 (Vulvovaginitis)",
       "inn": "Tioconazole",
       "predicted_indications": [
-        "vulvovaginitis",
         "vulvitis",
         "postmenopausal atrophic vaginitis"
       ]
@@ -4650,14 +4608,11 @@
     {
       "name": "Uracil",
       "file": "uracil.md",
-      "evidence_level": "L5",
+      "evidence_level": "N/A",
       "indication_count": 10,
       "predicted_indication": "大腸腫瘤 (Colonic Neoplasm)",
       "inn": "Uracil",
       "predicted_indications": [
-        "colonic neoplasm",
-        "gastric carcinoma",
-        "rectosigmoid junction neoplasm",
         "lipoma of colon",
         "colonic lymphangioma",
         "cecum villous adenoma",
