@@ -174,7 +174,7 @@ permalink: /tw-availability/
 | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | 上市中（有效許可證 5 張／共 71 張） |  | L5 |
 | [Isosorbide Mononitrate](/drugs/isosorbide-mononitrate/) | 上市中（有效許可證 10 張／共 30 張） |  | L5 |
 | [Ivermectin](/drugs/ivermectin/) | 上市中（有效許可證 4 張／共 4 張） |  | L5 |
-| [Lacosamide](/drugs/lacosamide/) | 上市中（有效許可證 18 張／共 18 張） |  | L3 |
+| [Lacosamide](/drugs/lacosamide/) | 上市中（有效許可證 18 張／共 18 張） |  | L5 |
 | [Lactic Acid](/drugs/lactic-acid/) | 上市中（有效許可證 76 張／共 268 張） |  | L5 |
 | [Larotrectinib](/drugs/larotrectinib/) | 上市中（有效許可證 3 張／共 3 張） |  | L5 |
 | [Leflunomide](/drugs/leflunomide/) | 上市中（有效許可證 7 張／共 12 張） |  | L5 |

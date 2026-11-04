@@ -26015,21 +26015,21 @@
    "checked": "2026-11-04",
    "action": "rereview_result",
    "resolves": "lacosamide-manic-bipolar-level-rereview-2026-11-04",
-   "summary": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（主預測）證據等級重審結果",
+   "summary": "躁症型雙相情感障礙（主預測）證據等級重審結果",
    "claim": "| 證據等級 | L5 |",
    "prediction": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)",
-   "verdict": "upgrade",
+   "verdict": "maintain",
    "original_level": "L5",
-   "new_level": "L3",
+   "new_level": "L5",
    "flawed_premises": [
-    "頁首 L5（僅模型預測、無臨床證據），但本頁已引用一篇本藥用於急性雙相情感障礙的觀察性研究"
+    "本頁引用的觀察性研究（PMID 30251375）收的是急性雙相情感障礙發作的住院病人，不限躁症"
    ],
    "remaining_support": [
-    "PMID 30251375：102 名無癲癇的急性雙相情感障礙住院病人使用 lacosamide 50–300 mg/天，第 3 天起 Young 躁症量表改善優於回溯性對照組（其他抗癲癇藥）",
-    "PMID 33666402 為雙相憂鬱的開放性前驅試驗，不是躁症；其餘為病例或機轉回顧"
+    "PMID 30251375：102 名急性雙相情感障礙住院病人使用 lacosamide，與回溯性對照組比較；研究對象是雙相情感障礙整體（含混合發作），不是躁症專屬",
+    "PMID 33666402 為雙相憂鬱的開放性前驅試驗；其餘為病例或機轉回顧；沒有本藥用於躁症的研究"
    ],
-   "rationale": "依 methodology 的 L1–L5 定義：有本藥用於急性雙相情感障礙（以躁症量表評估）的觀察性研究，沒有 RCT，屬 L3。",
-   "note": "本頁已引用一篇觀察性研究：102 名急性雙相情感障礙住院病人使用 lacosamide，躁症量表改善優於回溯性對照組（[PMID 30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/)），符合 L3（觀察性研究）定義；沒有 RCT。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L3，建議決策維持 Hold；原文與文獻保留不動。",
+   "rationale": "依 methodology 的 L1–L5 定義，只計本藥用於主預測（躁症型雙相情感障礙）的研究；雙相情感障礙整體是上層病，其研究不算。沒有本藥用於躁症的研究，維持 L5。",
+   "note": "本頁引用的觀察性研究（[PMID 30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/)）收的是急性雙相情感障礙發作的住院病人，不限躁症；雙相情感障礙整體是上層病，依用戶 2026-11-04 決定的重審原則（上層病或病人族群的研究不算），不能算躁症型雙相情感障礙的證據。沒有本藥用於躁症的研究，證據等級維持 L5；原文與文獻保留不動。",
    "sources": [
     {
      "title": "TwTxGNN 研究方法：證據等級判定",
@@ -26059,55 +26059,67 @@
     }
    ],
    "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
-   "table_updates": [
+   "history": [
     {
-     "label": "證據等級",
+     "id": "lacosamide-manic-bipolar-level-rereview-result-2026-11-04",
+     "drug": "lacosamide",
+     "file": "lacosamide.md",
+     "checked": "2026-11-04",
+     "action": "rereview_result",
+     "resolves": "lacosamide-manic-bipolar-level-rereview-2026-11-04",
+     "summary": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（主預測）證據等級重審結果",
      "claim": "| 證據等級 | L5 |",
-     "replacement": "| 證據等級 | L3 |"
-    }
-   ]
-  },
-  {
-   "id": "lacosamide-header-level-2026-11-04",
-   "drug": "lacosamide",
-   "file": "lacosamide.md",
-   "checked": "2026-11-04",
-   "action": "header_level",
-   "based_on": "lacosamide-manic-bipolar-level-rereview-result-2026-11-04",
-   "summary": "頁首證據等級",
-   "original_level": "L5",
-   "new_level": "L3",
-   "original_parent": "僅模型預測 (L5)",
-   "new_parent": "中證據等級 (L3-L4)",
-   "original_header": "L5",
-   "basis": "快速總覽「證據等級」列重審後為 L3（lacosamide-manic-bipolar-level-rereview-result-2026-11-04）",
-   "note": "快速總覽的證據等級格重審後為 L3，頁首等級依總覽表重算為 L3。",
-   "sources": [
-    {
-     "title": "TwTxGNN 研究方法：證據等級判定",
-     "url": "https://twtxgnn.yao.care/methodology/",
-     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
-     "accessed": "2026-11-04"
-    }
-   ]
-  },
-  {
-   "id": "lacosamide-description-level-2026-11-04",
-   "drug": "lacosamide",
-   "file": "lacosamide.md",
-   "checked": "2026-11-04",
-   "action": "description_level",
-   "summary": "頁面描述（description）的證據等級",
-   "original_description": "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L5）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療",
-   "original_level": "L5",
-   "new_level": "L3",
-   "note": "頁首等級重審後為 L3；description 只把「證據等級 L5」改成「證據等級 L3」，其他文字不動。",
-   "sources": [
-    {
-     "title": "TwTxGNN 研究方法：證據等級判定",
-     "url": "https://twtxgnn.yao.care/methodology/",
-     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
-     "accessed": "2026-11-04"
+     "prediction": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)",
+     "verdict": "upgrade",
+     "original_level": "L5",
+     "new_level": "L3",
+     "flawed_premises": [
+      "頁首 L5（僅模型預測、無臨床證據），但本頁已引用一篇本藥用於急性雙相情感障礙的觀察性研究"
+     ],
+     "remaining_support": [
+      "PMID 30251375：102 名無癲癇的急性雙相情感障礙住院病人使用 lacosamide 50–300 mg/天，第 3 天起 Young 躁症量表改善優於回溯性對照組（其他抗癲癇藥）",
+      "PMID 33666402 為雙相憂鬱的開放性前驅試驗，不是躁症；其餘為病例或機轉回顧"
+     ],
+     "rationale": "依 methodology 的 L1–L5 定義：有本藥用於急性雙相情感障礙（以躁症量表評估）的觀察性研究，沒有 RCT，屬 L3。",
+     "note": "本頁已引用一篇觀察性研究：102 名急性雙相情感障礙住院病人使用 lacosamide，躁症量表改善優於回溯性對照組（[PMID 30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/)），符合 L3（觀察性研究）定義；沒有 RCT。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L3，建議決策維持 Hold；原文與文獻保留不動。",
+     "sources": [
+      {
+       "title": "TwTxGNN 研究方法：證據等級判定",
+       "url": "https://twtxgnn.yao.care/methodology/",
+       "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+       "accessed": "2026-11-04"
+      },
+      {
+       "title": "PubMed：Lacosamide in bipolar disorder: A 30-day comparison to a retrospective control group treated with other antiepileptics（PMID 30251375）",
+       "url": "https://pubmed.ncbi.nlm.nih.gov/30251375/",
+       "excerpt": "102 名急性雙相情感障礙住院病人使用 lacosamide，第 3 天起 Young 躁症量表與 CGI-S 優於回溯性對照組（觀察性研究）。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "searches": [
+      {
+       "db": "PubMed",
+       "query": "lacosamide[tiab] AND (mania OR manic OR bipolar)",
+       "result": "17 筆；本藥用於躁症的臨床研究只有 PMID 30251375，沒有 RCT（2026-11-04）。",
+       "accessed": "2026-11-04"
+      },
+      {
+       "db": "ClinicalTrials.gov",
+       "query": "介入 lacosamide × 病況 mania",
+       "result": "0 筆（2026-11-04）。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+     "table_updates": [
+      {
+       "label": "證據等級",
+       "claim": "| 證據等級 | L5 |",
+       "replacement": "| 證據等級 | L3 |"
+      }
+     ],
+     "retired": "2026-11-04",
+     "reason": "同日改判：PMID 30251375 收的是急性雙相情感障礙發作的住院病人（不限躁症），屬上層病（雙相情感障礙）的研究，依「上層病或病人族群的研究不算」的重審原則不能算躁症型雙相情感障礙的證據，改為維持 L5。"
     }
    ]
   },

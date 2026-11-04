@@ -4,9 +4,9 @@
   "level_counts": {
     "L1": 2,
     "L2": 15,
-    "L3": 10,
+    "L3": 9,
     "L4": 15,
-    "L5": 232
+    "L5": 233
   },
   "top_by_indications": [
     {
@@ -574,7 +574,7 @@
     {
       "name": "Lacosamide",
       "slug": "lacosamide",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 4

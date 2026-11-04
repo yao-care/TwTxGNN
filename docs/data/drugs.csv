@@ -144,7 +144,7 @@ Isoleucine,isoleucine,L5,1,營養劑,胃輕癱 (Gastroparesis),0.9932,False,Hold
 Isosorbide Dinitrate,isosorbide_dinitrate,L5,10,預防狹心症之發作,alopecia（禿髮）,0.9999,False,Hold,/drugs/isosorbide-dinitrate/
 Isosorbide Mononitrate,isosorbide_mononitrate,L5,10,預防狹心症之發作,毛髮過多症 (Hypertrichosis),1.0000,False,Hold,/drugs/isosorbide-mononitrate/
 Ivermectin,ivermectin,L5,9,驅蟲劑,外陰陰道念珠菌病 (Vulvovaginal Candidiasis),0.9995,False,Hold,/drugs/ivermectin/
-Lacosamide,lacosamide,L3,10,四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療；四歲以上複雜性局部癲癇發作與單純或複雜性局部發作合併次發性全身發作之輔助治療,躁症型雙相情感障礙 (Manic Bipolar Affective Disorder),0.9996,False,Hold（僅適合作為研究問題）,/drugs/lacosamide/
+Lacosamide,lacosamide,L5,10,四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療；四歲以上複雜性局部癲癇發作與單純或複雜性局部發作合併次發性全身發作之輔助治療,躁症型雙相情感障礙 (Manic Bipolar Affective Disorder),0.9996,False,Hold（僅適合作為研究問題）,/drugs/lacosamide/
 Lactic Acid,lactic_acid,L5,5,婦女陰道及陰部之除臭與洗潔、白帶之預防與治療,非典型主動脈縮窄 (Atypical coarctation of aorta),0.9959,False,Hold,/drugs/lactic-acid/
 Larotrectinib,larotrectinib,L5,2,具 NTRK 基因融合的實體腫瘤（成人和兒童），須符合：無已知後天阻抗性突變、為轉移性或手術切除極可能造成嚴重病症、無合適替代治療或治療後惡化,多發性內分泌腫瘤 (Multiple Endocrine Neoplasia),0.9924,False,Hold,/drugs/larotrectinib/
 Leflunomide,leflunomide,L5,2,風濕性關節炎,短指併指症候群 (Brachydactyly-Syndactyly Syndrome),0.9993,False,Hold,/drugs/leflunomide/

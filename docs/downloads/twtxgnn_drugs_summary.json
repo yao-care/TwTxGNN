@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T05:15:20.361696",
+  "generated_at": "2026-11-04T05:57:30.292018",
   "total_drugs": 291,
   "evidence_distribution": {
-    "L5": 232,
+    "L5": 233,
     "L4": 15,
     "N/A": 17,
     "L2": 15,
     "L1": 2,
-    "L3": 10
+    "L3": 9
   },
   "drugs": [
     {
@@ -1027,9 +1027,9 @@
     },
     {
       "drug_name": "Lacosamide",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/lacosamide/"
     },
     {

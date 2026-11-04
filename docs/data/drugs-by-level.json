@@ -115,7 +115,7 @@
       ]
     },
     "L3": {
-      "count": 10,
+      "count": 9,
       "drugs": [
         {
           "name": "Docetaxel",
@@ -146,12 +146,6 @@
           "slug": "hydrocortisone",
           "decision": "Hold",
           "indication_count": 9
-        },
-        {
-          "name": "Lacosamide",
-          "slug": "lacosamide",
-          "decision": "Hold（僅適合作為研究問題）",
-          "indication_count": 10
         },
         {
           "name": "Lenvatinib",
@@ -275,7 +269,7 @@
       ]
     },
     "L5": {
-      "count": 232,
+      "count": 233,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -990,6 +984,12 @@
           "slug": "ivermectin",
           "decision": "Hold",
           "indication_count": 9
+        },
+        {
+          "name": "Lacosamide",
+          "slug": "lacosamide",
+          "decision": "Hold（僅適合作為研究問題）",
+          "indication_count": 10
         },
         {
           "name": "Lactic Acid",
