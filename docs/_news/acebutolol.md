@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acebutolol 的相關健康新聞報導。原適應症：高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）。預測適應症 2 個。"
 permalink: /news/acebutolol/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Acebutolol 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Acebutolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查](https://news.google.com/rss/articles/CBMihgNBVV95cUxOUG9wMFREMk42RXJrY3dtMWtLVmhKSWVZX044ZXZKQ3paa19jVWNEMUE4SkVBbFJtMkppS0VsSExWeEtYLWJpMEozT1BFeExBNHJrWGVOY1hkdFNTdjRPMk4xanR5YXpiZ0o1Rllkdk13UUQ0bUN2eUZhMUJOc0QyZU5oVGdWUmVIY2RXeTN5d3dDRXY0UC1BaXJEUFFyWi13YUdDWFFLLUY4dS1vU3RvSFJsblBLOWVGY0ZmcHlRN1k3dDc4RjdCb1Q3VUxyNDVRT3lTVGdFTDlObVVRak9ITlF1bzBtUzJlcmhJMkg4LXZuZE5ucGY1Qlg1T0s5V0JkZ2swR1Q1cnhSWmk0WUJKWEU1UHRVclN5TXhCelJlZnQ1eFdxcDgyZ05MeFJHVUozQTRJeWJYbWhYWnRURHNLUDZkNHZMQVpadE83VTRDWTlwNW1xdXFJNWxSUWFkSWtMbFhnQlVDQ1BsWUZfb2JrQnFJMEl4S3k2RmtiQmVzQ20wWjBiWEE?oc=5)
+
+2026-11-04 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMihgNBVV95cUxOUG9wMFREMk42RXJrY3dtMWtLVmhKSWVZX044ZXZKQ3paa19jVWNEMUE4SkVBbFJtMkppS0VsSExWeEtYLWJpMEozT1BFeExBNHJrWGVOY1hkdFNTdjRPMk4xanR5YXpiZ0o1Rllkdk13UUQ0bUN2eUZhMUJOc0QyZU5oVGdWUmVIY2RXeTN5d3dDRXY0UC1BaXJEUFFyWi13YUdDWFFLLUY4dS1vU3RvSFJsblBLOWVGY0ZmcHlRN1k3dDc4RjdCb1Q3VUxyNDVRT3lTVGdFTDlObVVRak9ITlF1bzBtUzJlcmhJMkg4LXZuZE5ucGY1Qlg1T0s5V0JkZ2swR1Q1cnhSWmk0WUJKWEU1UHRVclN5TXhCelJlZnQ1eFdxcDgyZ05MeFJHVUozQTRJeWJYbWhYWnRURHNLUDZkNHZMQVpadE83VTRDWTlwNW1xdXFJNWxSUWFkSWtMbFhnQlVDQ1BsWUZfb2JrQnFJMEl4S3k2RmtiQmVzQ20wWjBiWEE?oc=5)
+
+---
 
 ### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
 

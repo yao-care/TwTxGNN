@@ -1,13 +1,13 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-03T23:47:50.326656+00:00",
-  "count": 35,
+  "fetched_at": "2026-11-04T04:00:20.610342+00:00",
+  "count": 32,
   "news": [
     {
       "id": "31820c380d48",
       "title": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞 - 經濟日報",
       "published": "2026-11-03T14:42:10+00:00",
-      "summary": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
+      "summary": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "經濟日報",
@@ -16,14 +16,38 @@
       ]
     },
     {
-      "id": "1ed4d11fe1e2",
-      "title": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87% - 威傳媒",
-      "published": "2026-11-02T10:02:00+00:00",
-      "summary": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%&nbsp;&nbsp;威傳媒前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "992a7d28901e",
+      "title": "花生紅皮別剝掉！研究揭藏抗老關鍵日吃25克半年有感- 健康 - 中時新聞網",
+      "published": "2026-11-04T02:09:59+00:00",
+      "summary": "花生紅皮別剝掉！研究揭藏抗老關鍵日吃25克半年有感- 健康&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "威傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2WXR2WnpyRmQzOTJEd214d2pXOHpkUFpYR21EQ2hNWlNoUXVPV20zWVB6MHFaZUREWXd1bjhYYUd0TXVvaXNDRUtR?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vSi10cEJteXBhaVcyUlpXTGJOcnExcXloT0ltekRVY2llNzBZTVRGZEMtX2FOekxBQ3l2UkY5MWtVVHpXcUMxM2RucjEwbkJCd0NXZE0xRUVNRTF6bTFEaWdhNm5DUm9pRTBSTXZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dcfa28cdb780",
+      "title": "健康網》愛喝「這飲料」要留意！ 研究：每週2杯恐與胰臟癌有關 - 自由健康網",
+      "published": "2026-11-03T11:16:00+00:00",
+      "summary": "健康網》愛喝「這飲料」要留意！ 研究：每週2杯恐與胰臟癌有關&nbsp;&nbsp;自由健康網每週喝「這飲品」與胰臟癌有關？研究發現風險高87% 專家解析真相&nbsp;&nbsp;Yahoo新聞不只酒精、香菸！研究揭「1常見飲品」與胰臟癌風險增87%有關&nbsp;&nbsp;造咖每週2罐汽水胰臟癌增87%？專家拆解致癌真相：真正元兇是「它」！&nbsp;&nbsp;香港01不是酒精 這種常見飲品與「胰臟癌」有關 1周只喝2次也有風險&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCX0tVWXQ3Mm10VGJCMi1oV3hGbnNhQldiYy1FSHF0NkVuM2ZYUWJIX0Jjd19aQm9FYm5yOUFib2VjLUlFLVVFOUFNYVdIUDJhQ19KT1l5Z1Y0emtldy1YMnk3MWo?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "31719bc14338",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查 - Yahoo新聞",
+      "published": "2026-11-04T01:35:41+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOUG9wMFREMk42RXJrY3dtMWtLVmhKSWVZX044ZXZKQ3paa19jVWNEMUE4SkVBbFJtMkppS0VsSExWeEtYLWJpMEozT1BFeExBNHJrWGVOY1hkdFNTdjRPMk4xanR5YXpiZ0o1Rllkdk13UUQ0bUN2eUZhMUJOc0QyZU5oVGdWUmVIY2RXeTN5d3dDRXY0UC1BaXJEUFFyWi13YUdDWFFLLUY4dS1vU3RvSFJsblBLOWVGY0ZmcHlRN1k3dDc4RjdCb1Q3VUxyNDVRT3lTVGdFTDlObVVRak9ITlF1bzBtUzJlcmhJMkg4LXZuZE5ucGY1Qlg1T0s5V0JkZ2swR1Q1cnhSWmk0WUJKWEU1UHRVclN5TXhCelJlZnQ1eFdxcDgyZ05MeFJHVUozQTRJeWJYbWhYWnRURHNLUDZkNHZMQVpadE83VTRDWTlwNW1xdXFJNWxSUWFkSWtMbFhnQlVDQ1BsWUZfb2JrQnFJMEl4S3k2RmtiQmVzQ20wWjBiWEE?oc=5"
         }
       ]
     },
@@ -40,18 +64,6 @@
       ]
     },
     {
-      "id": "28e0e6b6d66d",
-      "title": "只差不到三週...期待《GTA6》發售的美國重症粉絲逝世 得年25歲 - udn遊戲角落",
-      "published": "2026-11-03T03:01:55+00:00",
-      "summary": "只差不到三週...期待《GTA6》發售的美國重症粉絲逝世 得年25歲&nbsp;&nbsp;udn遊戲角落",
-      "sources": [
-        {
-          "name": "udn遊戲角落",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KU01UUkxVcjg1NGUyNDV1djNQRXVrcUhiTHZRNUJXRC1XcG53am5sOHp6Y0FUbWNMaUl6UWJyc29lMXVYRWw0R3dsM1FuQWRLdVppc2Q0RnBOQTh3WWtFMXA4N3ZZcXJIYV9USkdfOUg4dXVmQkpnRkJoWFlEZEXSAV9BVV95cUxQQTQxd2RLZnVPYjA2dHRuYUhrY3JOZ2FtVTFUTEZ4U0REN3VXWkJnUHNKZ0QzSDJRVjd6Slgzb3lzWkRSS294VDhPbXExQXFfSW9pS3A0aVE3TVhYR0xMWQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "20c85fe22523",
       "title": "RSV威脅老幼健康 5疫苗防重症 - 人間福報電子報",
       "published": "2026-11-03T01:05:20+00:00",
@@ -60,6 +72,18 @@
         {
           "name": "人間福報電子報",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TV1ZScC1pSHN3UExlOFdaVmNaMy15QjN2Z3BSc28yZHhUQVZ3Q0ZyOEhFdTZXN05HRGt5VDcyTTE0Y0lNX052SWxadXRQRjJPOW9HRUZhX3hGdXQwZ0FYNWNqWE9vc1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28e0e6b6d66d",
+      "title": "只差不到三週...期待《GTA6》發售的美國重症粉絲逝世 得年25歲 - udn遊戲角落",
+      "published": "2026-11-03T03:01:55+00:00",
+      "summary": "只差不到三週...期待《GTA6》發售的美國重症粉絲逝世 得年25歲&nbsp;&nbsp;udn遊戲角落",
+      "sources": [
+        {
+          "name": "udn遊戲角落",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KU01UUkxVcjg1NGUyNDV1djNQRXVrcUhiTHZRNUJXRC1XcG53am5sOHp6Y0FUbWNMaUl6UWJyc29lMXVYRWw0R3dsM1FuQWRLdVppc2Q0RnBOQTh3WWtFMXA4N3ZZcXJIYV9USkdfOUg4dXVmQkpnRkJoWFlEZEXSAV9BVV95cUxQQTQxd2RLZnVPYjA2dHRuYUhrY3JOZ2FtVTFUTEZ4U0REN3VXWkJnUHNKZ0QzSDJRVjd6Slgzb3lzWkRSS294VDhPbXExQXFfSW9pS3A0aVE3TVhYR0xMWQ?oc=5"
         }
       ]
     },
@@ -96,18 +120,6 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxNZzVGTGFLdDBSZmFYN2Z3eU1kRWJiN2lsR3FESjdaLXZtV085bUQwanFxVVJpY29hazc2UEF1bFhnS1dITVpjSXlJTVAyZUZTcTF0S1pjY1ZmdXdLS1JKQVRqbWZ0WE5KcmpOWUhXUjhxeGZUbmlFZUJUTU5ORmRwSGJkN2E5cFd3ME1vckVSU3VkZ3VZRktGbHZ5ZzZJdm83dWxiNE43dXZlLTlDRU9jaWtzMUU5RnlQY2ZCcC1nNUlscUctOWVkQXIwZEdHNm8yT3E1NU5lbXRVTmlKRXZuZTJMSllxQ2dKcFJkZVdiSHJuMTRMRW1IeC1QWFNKLWtTMFNhNjRxVnhxVF96RUZYSU8zYnh3UzlyS3AwVkdSSG9aUktZLXR3bTFkTi1BTEJVZXE5MUkxbHJHOW1ZVG9pXzRSTmpHbWREaXQzNmxyM0QyeGFKcTNkLXZCdFkzcWJKNWkxTG1oanB6TDZBcTEtbzFSQWFsVWRwakxGX3luaGJTc2d5aXJRQVZYczk3QUNSWjkwaS1tQmlIdlhVY3VFX0UtQzZ1NGpoeUFr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74c4d8ddee57",
-      "title": "益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌 - 香港經濟日報HKET",
-      "published": "2026-10-28T05:00:00+00:00",
-      "summary": "益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌&nbsp;&nbsp;香港經濟日報HKET失明的眼睛重新感光？ 諾貝爾光遺傳學加特製護目鏡， 10 人試驗中 7 人光敏感度改善&nbsp;&nbsp;明日科學科學人／失明能被治好嗎？光遺傳學加上護目鏡或許有點搞頭| 放學微素養| 文教&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQWGc4Y2JPUG5FSE05bFRSbEpldTlqRUdsemZFUDdNNnJlQmJ2M0hESDRuZWxZY0ZnSjZHUWgxNnp0MzdIU1lpc3FIZHh5eFhWWVY3SHFXb0pUbkJBTVlTazBKUldiaUpDSUZQWGVxSUE4d2xnNGxsY25XbWxiQmRQVll3aTVwWllldmw5R3ZTVUx2YlUtYVE0WXZsNU5LbDlDU3M2LXRCQ1BabloxdTR4emtOVXhvV1o4a001N3VQNnRabDBCcU5jTlJidlBDd0lnbUp0d0t6ZXRITmV0YTRoZjJKeUNyZnBORzlqZTc5UDJBNzI0QXo0emVXN0c0VG84UHZwTm8wT2tGUmw1Sjl3Xy1WZEttYXBXLWh2OFVwSGNKRGNqSFFKSjEwMUliVFJjVUltT2VzanNDUm5fNzlxWlJtbUNXNG1tVGx3Wk9rcWdWM05DYUkzU3hzczZOcnF0QUpzSDZR?oc=5"
         }
       ]
     },
@@ -196,18 +208,6 @@
       ]
     },
     {
-      "id": "7e12ddd308fb",
-      "title": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE - i-CABLE",
-      "published": "2026-10-29T02:30:53+00:00",
-      "summary": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE&nbsp;&nbsp;i-CABLE今年流感季提前多毒株活躍｜即時新聞｜中港台｜on.cc東網&nbsp;&nbsp;on.cc東網秋冬流感流行季開始 單周錄145宗爆發疫情&nbsp;&nbsp;東方日報",
-      "sources": [
-        {
-          "name": "i-CABLE",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQamduY2drZTdLN1FOQ3lGY21KWklHQWc1MVN2QzEwYndSdkptQm5pb3NNNk9tR0Q0ejFfeE1XeU12eXFsS0ZBamtVMkk1QVlublBWRTV0a1VJVC16Ul8yZzhqVlYzMW5kNlhSdXdlRzlFc1JEclJMeG9iY2hicDllSmtvTVBhMmxsRG5ONVJ6X2dFYVRtZmxLa2xvUElkOVVyc08zQXlXeERHd3ROdE04cXZ3SWMtN01xbF8wcGpyaVpkYVE1dWJXLXNYODF3LTB6OWVPT1dSaHJ2ZnRPMUhLZjV0ajZ0T0Ryb2xwdnItRFZ6UXdjQUxQNk1Vc3pScmlwTjZRQlMtVXBYR2NpN0xJbXVoSWN4eTZsSHZRdmRIYm1rSE9vTVR4SnlFb05GWHRLYjA5MGYtTnRESlhkd0V6OGZYLXB0ZWpWWkk4bURWazl3VWJoZzI0N1F6OExCeTY5ZGgwZzdGcHk?oc=5"
-        }
-      ]
-    },
-    {
       "id": "86d455158a30",
       "title": "加拿大35至54歲女性子宮頸癌個案上升　專家呼籲及早檢查 - Sing Tao Daily 星島日報加拿大",
       "published": "2026-10-31T16:45:39+00:00",
@@ -220,18 +220,6 @@
       ]
     },
     {
-      "id": "262da5e0f10c",
-      "title": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療 - Singtaousa",
-      "published": "2026-11-01T13:22:33+00:00",
-      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa幽門螺旋菌｜內地一半人带菌 成人感染難自癒 專家籲6類高危人士規範除菌&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3MwbzgxOENaQWZ1SEdjUW85THlKRDBTQmxCZWZZXzFVbHd6TjR5Q1VkYzNYSjBPb3ZiS216TlI2amdKV3ZJNGlkWVN6NXJkdnY0d3NORDBNa0RiVm1uMXRhYm5wWV9SZjlIaEFQNTFCd2FNM2Q1RExsX3ZSVzlpWFpEYnVoLXVXX0hYSjJHRWpxRGxXcUJfaHRXN0UzNktpNTdFWFBhMDEyUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f62aa07e9547",
       "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病 - 星島頭條",
       "published": "2026-10-28T19:00:00+00:00",
@@ -240,6 +228,18 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlBwR28zcWw0SE14UTJ4bUxfcXE4MGJjaHI3cFBFdHFkcU1PbGpyUlNRUWh4TXhGVG5zemw5T21ERlhPNDhOUXJVRUxacW1wcTdrSUZMcjFJSXV1SE9BaThIcmVwTkJHcW80b21kOXFjMmFpdXJ2VkFjU0ZVZkZ3MnNESklMV0dGNktselNPVDlLcmZpVzUtTHczMWJlTEEwM1J2ZmdOcXFqN0w4M1dmN0ZUQmJ0Y1lBVFpFUnZCemZBUDNwWVVXR2YxQU5LLWk3MXF6b3R0YkJEcG0tSklNeWhuRXg3NXM4RlpfdTRyeXRVRkJNeDRzak8zc2l6OEZwTVBmVTVaZ1hQQ2NqLWFhVFFubGloS2NqZm1kU0hNb1pMVVNLMXVtdTctdE0wY2hxRF91d2haaGk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "262da5e0f10c",
+      "title": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療 - Singtaousa",
+      "published": "2026-11-01T13:22:33+00:00",
+      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3MwbzgxOENaQWZ1SEdjUW85THlKRDBTQmxCZWZZXzFVbHd6TjR5Q1VkYzNYSjBPb3ZiS216TlI2amdKV3ZJNGlkWVN6NXJkdnY0d3NORDBNa0RiVm1uMXRhYm5wWV9SZjlIaEFQNTFCd2FNM2Q1RExsX3ZSVzlpWFpEYnVoLXVXX0hYSjJHRWpxRGxXcUJfaHRXN0UzNktpNTdFWFBhMDEyUQ?oc=5"
         }
       ]
     },
@@ -280,18 +280,6 @@
       ]
     },
     {
-      "id": "ac66e33dce65",
-      "title": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀 - 加拿大星島日報",
-      "published": "2026-11-03T08:01:44+00:00",
-      "summary": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀&nbsp;&nbsp;加拿大星島日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "加拿大星島日報",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNR0gtdTdBMkoySGNOUVd4RjV1MWJuY05QdEs4ZWRBZEdFbG5sMjFjeTlRWWtRc1JuSGNEWGZWeW5JbU5aQk5Dc1kySUp4cnYtVm9sei1Id0laRFlWc00wVHdqSHlMZ2hFU01KUTcwRGVyUERHb0JSVjNueHlfSE9tX2lTWVE3QlRNM3BfQThxNU55TDJWSm1wOGgzUkhFNjV3dXRkQkFOUnI4NHlzeDBMc1ljRUlDaW1XUVdodF9YS21kOGFMbmtHQlFsa1plVkN4QVJvMUlmbjVFTlNpYndwYlBJdnp0WngtdGxEdzc0bXk4aFdXbG9YVEhDS3JLTnlEc29ER28wcGpCODcycDI5X3FfTEpQbjl3aVMxc3hfLWMyay1GYy1HVFpCSnVSejNhb1NmenhYRVZCd08xZmFTQkI2a3UxdEJESlhhVTBSUzBEYmdsakE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4a5f3b0a5bcf",
       "title": "卑詩疑似禽流感來勢洶洶 保育機構：到處散落野鳥屍體 - Sing Tao Daily 星島日報加拿大",
       "published": "2026-10-31T19:59:21+00:00",
@@ -300,18 +288,6 @@
         {
           "name": "Sing Tao Daily 星島日報加拿大",
           "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPTkEtcUx6Rk4zVklMNS1KN19La1dlWU5UNWZQd0ZkUzZFUG1Ya0hkUF8yamswMVF5bmtBYzV1S0M0djJMVDcwVzdQRlVpQjJuV3V2bHl5dFFETXhvSHZBQzJBS3otUktKQkllNXhyazg3dVJ2ZmE2ZlFIeVUxVHIwbFBsY202Slg2RFdrWGhQUG9TYU9ET0dOZ2xQbXV4TmFINW1QdDFwSzUtUWJSQ0I5aGNyLWFfUjcwNDVYd3lhOVRraFk3RTl5VFdRT1RIR25kbDdOTjJSYy1CbFg2N1hHRGI2YW1zZUVZdkZXcEFtWktJQUU4NkJpZ1lBM2l5Vkd3V0FKV3psX3VtbjJOM20tTF93ZzhDdHRDVlFXbnZpTlFLS2FnNWZtcjJ6UnhURk5EM3NXVzlwYVpDMUd3ZmphZUVSN0JoWXFwSTkzTWFIMm1fZ2MwY05ESVA3WXo3YmhhVjl0cFRIMU5pU19VZDIzc0tHelQwc19OekRPV2dZSVbSAY8BQVVfeXFMTng4MXZmcllVcWNqZU5hQ2o4MHpEakl3SThsSGtoOXQzaHJvZXptTGxCQWlxWXRIcG03OVZvMnc0cGtBN0dsWlZTUEEyVFZwU1NpQnVQbkRoQzVXNWpPRTNkVFRFX1NNV0ZIdy16LUN3VlpnVlBDRkJoWVlZT2V2ckY3amp0eHBNUjBFRTdXN2s?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e4b53ee22c9f",
-      "title": "當代年輕人老得更快 研究揭如何延緩老化 - 大紀元",
-      "published": "2026-10-29T22:53:00+00:00",
-      "summary": "當代年輕人老得更快 研究揭如何延緩老化&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yY2RhMWo3Q1ZqQUVhU0lweVlpdjFuUkxHcmR6RnNvLVBvYkg4X1F6RFFRR1lTeXhjYmpaTWQ2bzZjTGl1XzZBZEpoV1lNRFZyblcwejBMZGZiTXlCaF9reEFB0gFnQVVfeXFMT3k3SkR4VFdLVGFXYmpTMmhBX0lNUWlBTG94NEl1a3VJODN1UmtNaHhkTE1DM3R6TmdYNDRpVkJhaUZaQ3JtbU5kSE1wSUFPNUhpR3NxT2d0UlJVNjg5ZGNFOWhtUlBMUQ?oc=5"
         }
       ]
     },
@@ -340,14 +316,14 @@
       ]
     },
     {
-      "id": "ad0815c9c8fb",
-      "title": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓 - 香港01",
-      "published": "2026-10-29T04:30:16+00:00",
-      "summary": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓&nbsp;&nbsp;香港01",
+      "id": "7de0c309fca1",
+      "title": "長者超級食物｜營養不足促老化 3食物強效易吸收 專家推飯+1隻蛋 - 香港01",
+      "published": "2026-11-01T01:00:43+00:00",
+      "summary": "長者超級食物｜營養不足促老化 3食物強效易吸收 專家推飯+1隻蛋&nbsp;&nbsp;香港01",
       "sources": [
         {
           "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSlo3UVpKWkVWQjZJWG1kT1pIaTgxZktUdzB5cUJiUmVGODF0MWdmRUFkYW84ZlMwTHFQRzM2Yi1BQTY1ZEFWei1zV3NYUEJUeFBmZXJpQ2RqcjExNzFselBLZjRsNlY3c1dkcll6dENaWHNUQlFSTWpGUExEWkFwNzBUTWlqaGhDMjltbHFJUlhfRzRZSU4wN2E0T3o5MGxQR0ZhMlYzTGtPRXBnUXJGRlEyRF9VOWVhUnR0Wk1BcWpFX1ltRk9oRjc3ekZBTE1sS2hRenNjZWkwb0lxY0U5Z3Q3c0IyMk9pUlJTRlFpTGZRS29zQkxId1ZvSURkYll4Q3I2amE0enRaSDR6LWVROUdWX05qMGNKMkxURmJueDd3aDkyZ0pELU5FdUdfU1l2ZmQ1N2dpR3pLQlRMZTlCS3pQR2ROa3NzQ1lSalV5MmI1X0NUZnRGODB0Znl6dDgwemljcXhpTlpSTlJkQTdoaGIxN1I2QWp2dnV5eEwzUmt5bDZ6TWRkZktXb2J2VXQwVmpJd2N0MTFBdFU4VHVYRjRUTkJ6TjlpUURoeUlzaF9uYTBM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNaG1Bc2FPZ2JkWUladG1NZkpCYjBadl9mZ2lOTDdMaG8yeFFkMW9OcGd6SkUxTllYVWtDNDF1WGE1eC1IZTc5bG1SRDBINjJwMEllWTBrUTJQR0U3UE5KSkI2S2ZkME1VUE1FamloZUQ0NlhDX0NPY29jck9jeGxKSVlyZ2VFM202R1E0cDJ5dXJBN2d0UDBNV0g1eEQ1OUdMMzRjYXV4ci01ZHpzbVI0RDh4Sm1QaVBmWE1zX2NNTXZvQ2NtZUZqMXcwTzNNYndDVXdxOWZSSFZOMUlXb0VrM1hISXB3NTBndHZYV296LVBTQ2ppSTBOd3JCYXhvR2hoY2dJS1kzNVNUSmt2TGFVX016QUZEeGxqcGhLUThnOXhRNEFIanl3MnVTTERDT0JtQnZrTnZyNTBENTZ5a0hZLWVLYk5RLTRBY0tFVjBLNFVWWDZZR0NwNEU1ck94dkQtYk9PSG80d0poVW55YnVIaXZjWF81WEdzQlJUUlRwYmJQVEdQREs0anVwMEc1OXV1Tl8yUGc1RUU0UTNvLVRnZHJfd19LZ3FPZGhpenprVUh5OEtPVnc?oc=5"
         }
       ]
     },
@@ -360,18 +336,6 @@
         {
           "name": "UHK 港生活",
           "link": "https://news.google.com/rss/articles/CBMijARBVV95cUxQX3BpYXkxdktvVXNEd1NQUXBSM2xMWjBFMnYyQzVZelBYV0NqeGpGU3VRcmo3VlVGUFFHYnhOT09uUXN6OVI3TUU5WTZLOVdzQnAzaHU3OUMxX1MxQ21kdW1IN1hQUjg3aE9fMjg4Z1BYUXJ4OTA4YkRPQk1MRy1jbE9RcXNfN0ZQNF83dnI4QjZOcjRibWROQjQ1YnVFeWx5SXRNT2xuT1lKRzVReWI4cEIzSTZSMS10QTRNdnV5SG4ydXFuSjVkSjRMTnNlR09sMlFGWWpKS0w5aXFVWllfNlU2NFh4U0VBeVI2MFFDa3J4cXVUM3djcXFIaHNnSzI3RUlldWxab1ZrbjBVUkFETjN3RUZPOFJJakZ6Z25JeXFQM2RxbFA2dHNydTVBdkZKMXd4NGtwZi1hVDdBWl84cG8yaXJyUl95aE1UVmtJZW0zeUxTYkowTmo1Yk84b1JsOTE1emE1RUU5ekl5ZjA3RWVkVEt6MDF4S1BaTU5oVlFES2FxdDA3QjhOYnBUMXJlOVlhM0lvbVZEZG5FNi1QODB2d21HelpwTHBTQXdHdHpnaHNieGNEQWxLOEVFeHAxT1Zta0xucTIyaHZoSTBFdWlrUjhrUzBtNmQxV3YtdHpFWXM4MTdHSWJDWk9kdjhLVGtOVlh4UHRUVGswTDFkOXNSbG40NXdRRnhPRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8dc95b4a0b61",
-      "title": "靈異｜少女昏迷4個月「活在另一個現實」：如鬼壓床但嚴重100萬倍 - 香港01",
-      "published": "2026-10-31T15:30:44+00:00",
-      "summary": "靈異｜少女昏迷4個月「活在另一個現實」：如鬼壓床但嚴重100萬倍&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOWW9mb29LQlh6QW4zeEhQWU1iNVZfM3h3ZUp0VU1ram5OMjI4czdDQ09GOEZuWTdyVExqVlYzcmhyeXVzcXNNeXZxdUNZVDBjbGwxVmRub0dRMEIwY1ZPSEJLZnBmeDBEZDBmMFhPX01GaThzTm5mOXZ0S0NDWlBxbVlWWWhySUZlUkl6MW5DLXZFY0o5S1NITURuc1dILTRtMkMxWHNUaUhNWGEwcWtpcDRsSXBpeEU5UFI0WkYxQzVzVl9HUFBYTUVRbWhWY0pjanRsM3hmTTkwLVRTSlBVU1ctbHhDek5RVnVDbUE3MUl3cUl4clZiTk5NTlpkSXJwSlU5RzZZbDJzTWdKVXI2TVkwNlVfVjNzdFZPalp2MkJINndJLTZRSzRJWmxGaV80ckt5WXF4b2hNeHFOQlRHMTlJQlZiM3RnQmJoVEEyVmFxV1pLZjJDYzNlRjRxQXRzN3IzaS1qUHdOMkNlZ3BSUDB6WTFxY3FVWlYwb2JaeFlsVUs1RGdESEhhaUFPRUk0djFxY2ptQV9ITVRVTl84?oc=5"
         }
       ]
     },

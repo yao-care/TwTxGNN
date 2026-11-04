@@ -3,12 +3,17 @@
     {
       "url": "/news/acebutolol/",
       "title": "Acebutolol 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 2
+    },
+    {
+      "url": "/news/高血壓/",
+      "title": "高血壓 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/acetazolamide/": [
@@ -353,6 +358,18 @@
       "count": 2
     }
   ],
+  "/drugs/iodixanol/": [
+    {
+      "url": "/news/iodixanol/",
+      "title": "Iodixanol 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/腦血管/",
+      "title": "腦血管 相關新聞",
+      "count": 1
+    }
+  ],
   "/drugs/ipilimumab/": [
     {
       "url": "/news/ipilimumab/",
@@ -417,12 +434,17 @@
     {
       "url": "/news/metoprolol/",
       "title": "Metoprolol 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 2
+    },
+    {
+      "url": "/news/高血壓/",
+      "title": "高血壓 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/nebivolol/": [

@@ -1,17 +1,86 @@
 {
-  "last_updated": "2026-11-03T23:47:52.491432+00:00",
-  "total_count": 35,
-  "matched_count": 9,
+  "last_updated": "2026-11-04T04:00:22.751480+00:00",
+  "total_count": 32,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "992a7d28901e",
+      "title": "花生紅皮別剝掉！研究揭藏抗老關鍵日吃25克半年有感- 健康",
+      "published": "2026-11-04T02:09:59+00:00",
+      "summary": "花生紅皮別剝掉！研究揭藏抗老關鍵日吃25克半年有感- 健康&nbsp;&nbsp;中時新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vSi10cEJteXBhaVcyUlpXTGJOcnExcXloT0ltekRVY2llNzBZTVRGZEMtX2FOekxBQ3l2UkY5MWtVVHpXcUMxM2RucjEwbkJCd0NXZE0xRUVNRTF6bTFEaWdhNm5DUm9pRTBSTXZB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "31719bc14338",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
+      "published": "2026-11-04T01:35:41+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOUG9wMFREMk42RXJrY3dtMWtLVmhKSWVZX044ZXZKQ3paa19jVWNEMUE4SkVBbFJtMkppS0VsSExWeEtYLWJpMEozT1BFeExBNHJrWGVOY1hkdFNTdjRPMk4xanR5YXpiZ0o1Rllkdk13UUQ0bUN2eUZhMUJOc0QyZU5oVGdWUmVIY2RXeTN5d3dDRXY0UC1BaXJEUFFyWi13YUdDWFFLLUY4dS1vU3RvSFJsblBLOWVGY0ZmcHlRN1k3dDc4RjdCb1Q3VUxyNDVRT3lTVGdFTDlObVVRak9ITlF1bzBtUzJlcmhJMkg4LXZuZE5ucGY1Qlg1T0s5V0JkZ2swR1Q1cnhSWmk0WUJKWEU1UHRVclN5TXhCelJlZnQ1eFdxcDgyZ05MeFJHVUozQTRJeWJYbWhYWnRURHNLUDZkNHZMQVpadE83VTRDWTlwNW1xdXFJNWxSUWFkSWtMbFhnQlVDQ1BsWUZfb2JrQnFJMEl4S3k2RmtiQmVzQ20wWjBiWEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol",
+              "url": "/drugs/iodixanol/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "31820c380d48",
       "title": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞",
       "published": "2026-11-03T14:42:10+00:00",
-      "summary": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報",
+      "summary": "吃素就一定比較健康？醫師提醒：B12、鐵、鈣、Omega-3都可能不足 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "經濟日報",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kTXlxQlM3cnJmRWU0Q0hLOTc3bjVOSG1DU1V1bVFNelVzczhGWlJ0eWRMSGtTNE94V3ZSQUVEa3RydUMtNWh6bWVYb1l6Tk51MDNzdHZHM2lxZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dcfa28cdb780",
+      "title": "健康網》愛喝「這飲料」要留意！ 研究：每週2杯恐與胰臟癌有關",
+      "published": "2026-11-03T11:16:00+00:00",
+      "summary": "健康網》愛喝「這飲料」要留意！ 研究：每週2杯恐與胰臟癌有關&nbsp;&nbsp;自由健康網每週喝「這飲品」與胰臟癌有關？研究發現風險高87% 專家解析真相&nbsp;&nbsp;Yahoo新聞不只酒精、香菸！研究揭「1常見飲品」與胰臟癌風險增87%有關&nbsp;&nbsp;造咖每週2罐汽水胰臟癌增87%？專家拆解致癌真相：真正元兇是「它」！&nbsp;&nbsp;香港01不是酒精 這種常見飲品與「胰臟癌」有關 1周只喝2次也有風險&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCX0tVWXQ3Mm10VGJCMi1oV3hGbnNhQldiYy1FSHF0NkVuM2ZYUWJIX0Jjd19aQm9FYm5yOUFib2VjLUlFLVVFOUFNYVdIUDJhQ19KT1l5Z1Y0emtldy1YMnk3MWo?oc=5"
         }
       ],
       "matched_keywords": []
@@ -41,19 +110,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ac66e33dce65",
-      "title": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀",
-      "published": "2026-11-03T08:01:44+00:00",
-      "summary": "15歲名校生捱夜捱出禍！驚患甲狀腺癌 醫生揭「致命關鍵」附6大症狀&nbsp;&nbsp;加拿大星島日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "加拿大星島日報",
-          "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNR0gtdTdBMkoySGNOUVd4RjV1MWJuY05QdEs4ZWRBZEdFbG5sMjFjeTlRWWtRc1JuSGNEWGZWeW5JbU5aQk5Dc1kySUp4cnYtVm9sei1Id0laRFlWc00wVHdqSHlMZ2hFU01KUTcwRGVyUERHb0JSVjNueHlfSE9tX2lTWVE3QlRNM3BfQThxNU55TDJWSm1wOGgzUkhFNjV3dXRkQkFOUnI4NHlzeDBMc1ljRUlDaW1XUVdodF9YS21kOGFMbmtHQlFsa1plVkN4QVJvMUlmbjVFTlNpYndwYlBJdnp0WngtdGxEdzc0bXk4aFdXbG9YVEhDS3JLTnlEc29ER28wcGpCODcycDI5X3FfTEpQbjl3aVMxc3hfLWMyay1GYy1HVFpCSnVSejNhb1NmenhYRVZCd08xZmFTQkI2a3UxdEJESlhhVTBSUzBEYmdsakE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "df94ed17264c",
@@ -147,19 +203,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1ed4d11fe1e2",
-      "title": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%",
-      "published": "2026-11-02T10:02:00+00:00",
-      "summary": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%&nbsp;&nbsp;威傳媒前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "威傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2WXR2WnpyRmQzOTJEd214d2pXOHpkUFpYR21EQ2hNWlNoUXVPV20zWVB6MHFaZUREWXd1bjhYYUd0TXVvaXNDRUtR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "559779e43089",
       "title": "得閒要曬下 研究：日照不足可能會增加失智風險",
       "published": "2026-11-02T03:30:00+00:00",
@@ -202,11 +245,24 @@
       "id": "262da5e0f10c",
       "title": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療",
       "published": "2026-11-01T13:22:33+00:00",
-      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa幽門螺旋菌｜內地一半人带菌 成人感染難自癒 專家籲6類高危人士規範除菌&nbsp;&nbsp;星島頭條",
+      "summary": "內地幽門螺旋桿菌感染率近半 專家籲高危群組及早規範治療&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3MwbzgxOENaQWZ1SEdjUW85THlKRDBTQmxCZWZZXzFVbHd6TjR5Q1VkYzNYSjBPb3ZiS216TlI2amdKV3ZJNGlkWVN6NXJkdnY0d3NORDBNa0RiVm1uMXRhYm5wWV9SZjlIaEFQNTFCd2FNM2Q1RExsX3ZSVzlpWFpEYnVoLXVXX0hYSjJHRWpxRGxXcUJfaHRXN0UzNktpNTdFWFBhMDEyUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7de0c309fca1",
+      "title": "長者超級食物｜營養不足促老化 3食物強效易吸收 專家推飯+1隻蛋",
+      "published": "2026-11-01T01:00:43+00:00",
+      "summary": "長者超級食物｜營養不足促老化 3食物強效易吸收 專家推飯+1隻蛋&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNaG1Bc2FPZ2JkWUladG1NZkpCYjBadl9mZ2lOTDdMaG8yeFFkMW9OcGd6SkUxTllYVWtDNDF1WGE1eC1IZTc5bG1SRDBINjJwMEllWTBrUTJQR0U3UE5KSkI2S2ZkME1VUE1FamloZUQ0NlhDX0NPY29jck9jeGxKSVlyZ2VFM202R1E0cDJ5dXJBN2d0UDBNV0g1eEQ1OUdMMzRjYXV4ci01ZHpzbVI0RDh4Sm1QaVBmWE1zX2NNTXZvQ2NtZUZqMXcwTzNNYndDVXdxOWZSSFZOMUlXb0VrM1hISXB3NTBndHZYV296LVBTQ2ppSTBOd3JCYXhvR2hoY2dJS1kzNVNUSmt2TGFVX016QUZEeGxqcGhLUThnOXhRNEFIanl3MnVTTERDT0JtQnZrTnZyNTBENTZ5a0hZLWVLYk5RLTRBY0tFVjBLNFVWWDZZR0NwNEU1ck94dkQtYk9PSG80d0poVW55YnVIaXZjWF81WEdzQlJUUlRwYmJQVEdQREs0anVwMEc1OXV1Tl8yUGc1RUU0UTNvLVRnZHJfd19LZ3FPZGhpenprVUh5OEtPVnc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -574,19 +630,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "8dc95b4a0b61",
-      "title": "靈異｜少女昏迷4個月「活在另一個現實」：如鬼壓床但嚴重100萬倍",
-      "published": "2026-10-31T15:30:44+00:00",
-      "summary": "靈異｜少女昏迷4個月「活在另一個現實」：如鬼壓床但嚴重100萬倍&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxOWW9mb29LQlh6QW4zeEhQWU1iNVZfM3h3ZUp0VU1ram5OMjI4czdDQ09GOEZuWTdyVExqVlYzcmhyeXVzcXNNeXZxdUNZVDBjbGwxVmRub0dRMEIwY1ZPSEJLZnBmeDBEZDBmMFhPX01GaThzTm5mOXZ0S0NDWlBxbVlWWWhySUZlUkl6MW5DLXZFY0o5S1NITURuc1dILTRtMkMxWHNUaUhNWGEwcWtpcDRsSXBpeEU5UFI0WkYxQzVzVl9HUFBYTUVRbWhWY0pjanRsM3hmTTkwLVRTSlBVU1ctbHhDek5RVnVDbUE3MUl3cUl4clZiTk5NTlpkSXJwSlU5RzZZbDJzTWdKVXI2TVkwNlVfVjNzdFZPalp2MkJINndJLTZRSzRJWmxGaV80ckt5WXF4b2hNeHFOQlRHMTlJQlZiM3RnQmJoVEEyVmFxV1pLZjJDYzNlRjRxQXRzN3IzaS1qUHdOMkNlZ3BSUDB6WTFxY3FVWlYwb2JaeFlsVUs1RGdESEhhaUFPRUk0djFxY2ptQV9ITVRVTl84?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "6099d319aed5",
@@ -975,19 +1018,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e4b53ee22c9f",
-      "title": "當代年輕人老得更快 研究揭如何延緩老化",
-      "published": "2026-10-29T22:53:00+00:00",
-      "summary": "當代年輕人老得更快 研究揭如何延緩老化&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yY2RhMWo3Q1ZqQUVhU0lweVlpdjFuUkxHcmR6RnNvLVBvYkg4X1F6RFFRR1lTeXhjYmpaTWQ2bzZjTGl1XzZBZEpoV1lNRFZyblcwejBMZGZiTXlCaF9reEFB0gFnQVVfeXFMT3k3SkR4VFdLVGFXYmpTMmhBX0lNUWlBTG94NEl1a3VJODN1UmtNaHhkTE1DM3R6TmdYNDRpVkJhaUZaQ3JtbU5kSE1wSUFPNUhpR3NxT2d0UlJVNjg5ZGNFOWhtUlBMUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0b1a68b878c7",
       "title": "純肉飲食背後令人驚訝的結果",
       "published": "2026-10-29T19:00:00+00:00",
@@ -1014,32 +1044,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ad0815c9c8fb",
-      "title": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓",
-      "published": "2026-10-29T04:30:16+00:00",
-      "summary": "銀髮飲食｜營養師推長者必吃食物10大 三文魚護血管、大蒜降血壓&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxQSlo3UVpKWkVWQjZJWG1kT1pIaTgxZktUdzB5cUJiUmVGODF0MWdmRUFkYW84ZlMwTHFQRzM2Yi1BQTY1ZEFWei1zV3NYUEJUeFBmZXJpQ2RqcjExNzFselBLZjRsNlY3c1dkcll6dENaWHNUQlFSTWpGUExEWkFwNzBUTWlqaGhDMjltbHFJUlhfRzRZSU4wN2E0T3o5MGxQR0ZhMlYzTGtPRXBnUXJGRlEyRF9VOWVhUnR0Wk1BcWpFX1ltRk9oRjc3ekZBTE1sS2hRenNjZWkwb0lxY0U5Z3Q3c0IyMk9pUlJTRlFpTGZRS29zQkxId1ZvSURkYll4Q3I2amE0enRaSDR6LWVROUdWX05qMGNKMkxURmJueDd3aDkyZ0pELU5FdUdfU1l2ZmQ1N2dpR3pLQlRMZTlCS3pQR2ROa3NzQ1lSalV5MmI1X0NUZnRGODB0Znl6dDgwemljcXhpTlpSTlJkQTdoaGIxN1I2QWp2dnV5eEwzUmt5bDZ6TWRkZktXb2J2VXQwVmpJd2N0MTFBdFU4VHVYRjRUTkJ6TjlpUURoeUlzaF9uYTBM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7e12ddd308fb",
-      "title": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE",
-      "published": "2026-10-29T02:30:53+00:00",
-      "summary": "內地流感疫苗四價變三價防護力不減- 有線寬頻i-CABLE&nbsp;&nbsp;i-CABLE今年流感季提前多毒株活躍｜即時新聞｜中港台｜on.cc東網&nbsp;&nbsp;on.cc東網秋冬流感流行季開始 單周錄145宗爆發疫情&nbsp;&nbsp;東方日報",
-      "sources": [
-        {
-          "name": "i-CABLE",
-          "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQamduY2drZTdLN1FOQ3lGY21KWklHQWc1MVN2QzEwYndSdkptQm5pb3NNNk9tR0Q0ejFfeE1XeU12eXFsS0ZBamtVMkk1QVlublBWRTV0a1VJVC16Ul8yZzhqVlYzMW5kNlhSdXdlRzlFc1JEclJMeG9iY2hicDllSmtvTVBhMmxsRG5ONVJ6X2dFYVRtZmxLa2xvUElkOVVyc08zQXlXeERHd3ROdE04cXZ3SWMtN01xbF8wcGpyaVpkYVE1dWJXLXNYODF3LTB6OWVPT1dSaHJ2ZnRPMUhLZjV0ajZ0T0Ryb2xwdnItRFZ6UXdjQUxQNk1Vc3pScmlwTjZRQlMtVXBYR2NpN0xJbXVoSWN4eTZsSHZRdmRIYm1rSE9vTVR4SnlFb05GWHRLYjA5MGYtTnRESlhkd0V6OGZYLXB0ZWpWWkk4bURWazl3VWJoZzI0N1F6OExCeTY5ZGgwZzdGcHk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "f62aa07e9547",
       "title": "老鼠出沒污染食物環境 糞便唾液傳播疾病",
       "published": "2026-10-28T19:00:00+00:00",
@@ -1048,19 +1052,6 @@
         {
           "name": "星島頭條",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxONlBwR28zcWw0SE14UTJ4bUxfcXE4MGJjaHI3cFBFdHFkcU1PbGpyUlNRUWh4TXhGVG5zemw5T21ERlhPNDhOUXJVRUxacW1wcTdrSUZMcjFJSXV1SE9BaThIcmVwTkJHcW80b21kOXFjMmFpdXJ2VkFjU0ZVZkZ3MnNESklMV0dGNktselNPVDlLcmZpVzUtTHczMWJlTEEwM1J2ZmdOcXFqN0w4M1dmN0ZUQmJ0Y1lBVFpFUnZCemZBUDNwWVVXR2YxQU5LLWk3MXF6b3R0YkJEcG0tSklNeWhuRXg3NXM4RlpfdTRyeXRVRkJNeDRzak8zc2l6OEZwTVBmVTVaZ1hQQ2NqLWFhVFFubGloS2NqZm1kU0hNb1pMVVNLMXVtdTctdE0wY2hxRF91d2haaGk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "74c4d8ddee57",
-      "title": "益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌",
-      "published": "2026-10-28T05:00:00+00:00",
-      "summary": "益生第一關｜光遺傳學源自綠藻 光控神經及腸道菌&nbsp;&nbsp;香港經濟日報HKET失明的眼睛重新感光？ 諾貝爾光遺傳學加特製護目鏡， 10 人試驗中 7 人光敏感度改善&nbsp;&nbsp;明日科學科學人／失明能被治好嗎？光遺傳學加上護目鏡或許有點搞頭| 放學微素養| 文教&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQWGc4Y2JPUG5FSE05bFRSbEpldTlqRUdsemZFUDdNNnJlQmJ2M0hESDRuZWxZY0ZnSjZHUWgxNnp0MzdIU1lpc3FIZHh5eFhWWVY3SHFXb0pUbkJBTVlTazBKUldiaUpDSUZQWGVxSUE4d2xnNGxsY25XbWxiQmRQVll3aTVwWllldmw5R3ZTVUx2YlUtYVE0WXZsNU5LbDlDU3M2LXRCQ1BabloxdTR4emtOVXhvV1o4a001N3VQNnRabDBCcU5jTlJidlBDd0lnbUp0d0t6ZXRITmV0YTRoZjJKeUNyZnBORzlqZTc5UDJBNzI0QXo0emVXN0c0VG84UHZwTm8wT2tGUmw1Sjl3Xy1WZEttYXBXLWh2OFVwSGNKRGNqSFFKSjEwMUliVFJjVUltT2VzanNDUm5fNzlxWlJtbUNXNG1tVGx3Wk9rcWdWM05DYUkzU3hzczZOcnF0QUpzSDZR?oc=5"
         }
       ],
       "matched_keywords": []
