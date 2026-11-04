@@ -28,7 +28,7 @@ permalink: /nct-lookup/
 | [NCT00002466](https://clinicaltrials.gov/study/NCT00002466) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 含 doxorubicin 的多藥化療，之後接手術與放射治療，用於週邊原始神經外胚層腫瘤或尤文氏肉瘤 |
 | [NCT00002516](https://clinicaltrials.gov/study/NCT00002516) | [Doxorubicin](/drugs/doxorubicin/) | L1 | EICESS 92：隨機比較多種合併化療，搭配手術與放射治療 |
 | [NCT00002825](https://clinicaltrials.gov/study/NCT00002825) | [Docetaxel](/drugs/docetaxel/) | L3 | docetaxel 單用於兒童復發實體瘤（混合族群） |
-| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | [Vinorelbine](/drugs/vinorelbine/) | L5 | 以 vinorelbine 治療兒童復發或難治性惡性腫瘤；族群為混合實體瘤，非僅尤文氏肉瘤 |
+| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | [Vinorelbine](/drugs/vinorelbine/) | L3 | 以 vinorelbine 治療兒童復發或難治性惡性腫瘤；族群為混合實體瘤，非僅尤文氏肉瘤 |
 | [NCT00003667](https://clinicaltrials.gov/study/NCT00003667) | [Doxorubicin](/drugs/doxorubicin/) | L1 | VAC 加 dexrazoxane，搭配或不搭配 ImmTher，用於高風險尤文氏肉瘤 |
 | [NCT00004310](https://clinicaltrials.gov/study/NCT00004310) | [Clomipramine](/drugs/clomipramine/) | L1 | 比較靜脈與口服 Clomipramine 負荷給藥，後續 12 週維持治療用於強迫症（直接相關） |
 | [NCT00004399](https://clinicaltrials.gov/study/NCT00004399) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L2 | Nimodipine 與硫酸鎂預防子癇發作的比較 |
@@ -52,7 +52,7 @@ permalink: /nct-lookup/
 | [NCT00117533](https://clinicaltrials.gov/study/NCT00117533) | [Ribavirin](/drugs/ribavirin/) | L2 | Peginterferon alfa-2b 併用 ribavirin，用於 B 型合併 D 型肝炎感染 |
 | [NCT00154869](https://clinicaltrials.gov/study/NCT00154869) | [Ribavirin](/drugs/ribavirin/) | L2 | Peginterferon alfa-2a 併用 ribavirin，用於 C/B 型肝炎共同感染及慢性 C 型肝炎 |
 | [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | [Dipyridamole](/drugs/dipyridamole/) | N/A | ESPRIT：比較阿斯匹靈加 Dipyridamole、輕度抗凝血與單用阿斯匹靈在腦缺血後的療效與安全性 |
-| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | [Vinorelbine](/drugs/vinorelbine/) | L5 | Vinorelbine 合併環磷醯胺用於難治或復發腫瘤，涵蓋橫紋肌肉瘤、尤文氏腫瘤、骨肉瘤、神經母細胞瘤等 |
+| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | [Vinorelbine](/drugs/vinorelbine/) | L3 | Vinorelbine 合併環磷醯胺用於難治或復發腫瘤，涵蓋橫紋肌肉瘤、尤文氏腫瘤、骨肉瘤、神經母細胞瘤等 |
 | [NCT00217620](https://clinicaltrials.gov/study/NCT00217620) | [Sorafenib](/drugs/sorafenib/) | L5 | 評估 sorafenib 用於晚期軟組織肉瘤；族群包含脂肪肉瘤，但並非脂肪肉瘤專屬 |
 | [NCT00221754](https://clinicaltrials.gov/study/NCT00221754) | [Pravastatin](/drugs/pravastatin/) | L2 | 隨機雙盲，評估 pravastatin 用於接受 HAART 且高膽固醇的 HIV 患者 |
 | [NCT00227500](https://clinicaltrials.gov/study/NCT00227500) | [Pravastatin](/drugs/pravastatin/) | L2 | 隨機、安慰劑對照，評估 pravastatin 用於接受蛋白酶抑制劑治療之 HIV 高血脂患者 |
@@ -60,7 +60,7 @@ permalink: /nct-lookup/
 | [NCT00254735](https://clinicaltrials.gov/study/NCT00254735) | [Clomipramine](/drugs/clomipramine/) | L1 | 嚴重強迫症在 SSRI／Clomipramine 基礎治療上加用 Quetiapine（試驗藥物為 Quetiapine） |
 | [NCT00259766](https://clinicaltrials.gov/study/NCT00259766) | [Terbutaline](/drugs/terbutaline/) | N/A | 真實世界氣喘醫療成本比較，terbutaline（Bricanyl）為隨需對照 |
 | [NCT00275938](https://clinicaltrials.gov/study/NCT00275938) | [Ribavirin](/drugs/ribavirin/) | L2 | Interferon alpha-2b 併用 ribavirin 治療慢性 B 型肝炎的先導研究 |
-| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | [Lornoxicam](/drugs/lornoxicam/) | L5 | 隨機、雙盲、安慰劑對照的單劑試驗，評估靜脈注射 Lornoxicam（8 mg 或 16 mg）對偏頭痛急性頭痛的療效與安全性；結果數據未提供 |
+| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | [Lornoxicam](/drugs/lornoxicam/) | L2 | 隨機、雙盲、安慰劑對照的單劑試驗，評估靜脈注射 Lornoxicam（8 mg 或 16 mg）對偏頭痛急性頭痛的療效與安全性；結果數據未提供 |
 | [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | [Fludarabine](/drugs/fludarabine/) | L3 | Cyclophosphamide／fludarabine／全身放射線的臍帶血移植前處理，用於血液疾病 |
 | [NCT00333255](https://clinicaltrials.gov/study/NCT00333255) | [Nepafenac](/drugs/nepafenac/) | L2 | Nevanac 0.1% 對比 Acular LS，用於白內障術後發炎 |
 | [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | [Terbutaline](/drugs/terbutaline/) | N/A | Symbicort 用於中國慢性阻塞性肺病 (COPD) 患者的療效與安全性 |
@@ -118,7 +118,7 @@ permalink: /nct-lookup/
 | [NCT01872611](https://clinicaltrials.gov/study/NCT01872611) | [Nepafenac](/drugs/nepafenac/) | L2 | 同上設計之重複試驗，評估糖尿病患者術後臨床結果 |
 | [NCT02028208](https://clinicaltrials.gov/study/NCT02028208) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L5 | 汞、鋁、鈀金屬過敏原斑貼試驗劑量反應研究，屬鋁的皮膚反應（安全性訊號），非治療效益 |
 | [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | [Regorafenib](/drugs/regorafenib/) | L2 | SARC024：評估口服 Regorafenib 用於特定肉瘤亞型（含脂肪肉瘤族群） |
-| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | [Omalizumab](/drugs/omalizumab/) | L4 | 雙盲安慰劑對照試驗，評估 Omalizumab 對氣喘合併嗜酸性球性支氣管炎病人的類固醇節省效果；樣本數很小 |
+| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | [Omalizumab](/drugs/omalizumab/) | L2 | 雙盲安慰劑對照試驗，評估 Omalizumab 對氣喘合併嗜酸性球性支氣管炎病人的類固醇節省效果；樣本數很小 |
 | [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 隨機比較標準與強化治療，用於非轉移性尤文氏肉瘤 |
 | [NCT02135315](https://clinicaltrials.gov/study/NCT02135315) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L5 | 非 ST 上升型急性冠心症的強化與標準降壓策略 |
 | [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | [Terbutaline](/drugs/terbutaline/) | N/A | Symbicort 隨需使用 vs. 隨需 terbutaline vs. Pulmicort＋隨需 terbutaline |
@@ -135,7 +135,7 @@ permalink: /nct-lookup/
 | [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L2 | 維持劑量 1 g/h 與 2 g/h 預防子癇（樣本小） |
 | [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | [Tizanidine](/drugs/tizanidine/) | L2 | 外用 NSAID 止痛療效的觀察性研究，與 Tizanidine 及偏頭痛關聯有限，僅屬間接參考 |
 | [NCT02465060](https://clinicaltrials.gov/study/NCT02465060) | [Larotrectinib](/drugs/larotrectinib/) | L5 | NCI-MATCH：依基因檢測結果分派治療的泛腫瘤籃式試驗，針對標準治療後惡化的晚期實體腫瘤、淋巴瘤或多發性骨髓瘤；並非針對 MEN 或 Larotrectinib，僅能支持機轉層面的合理性 |
-| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | [Omalizumab](/drugs/omalizumab/) | L4 | QGE031 用於慢性自發性蕁麻疹的劑量探索試驗，並非支氣管炎族群，僅提供 IgE 路徑的背景資訊 |
+| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | [Omalizumab](/drugs/omalizumab/) | L2 | QGE031 用於慢性自發性蕁麻疹的劑量探索試驗，並非支氣管炎族群，僅提供 IgE 路徑的背景資訊 |
 | [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | [Docetaxel](/drugs/docetaxel/) | L3 | 轉移性尤文氏肉瘤：Vigil 免疫療法對比 gemcitabine 加 docetaxel（第一部分隨機分組） |
 | [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | [Oteracil](/drugs/oteracil/) | N/A | Raltitrexed＋S-1 用於標準化療失敗的轉移性癌症，主要終點為無惡化存活期 |
 | [NCT02789033](https://clinicaltrials.gov/study/NCT02789033) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L5 | 二硝酸異山梨酯噴劑合併幾丁聚醣用於糖尿病足潰瘍 |
@@ -186,7 +186,7 @@ permalink: /nct-lookup/
 | [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | [Oteracil](/drugs/oteracil/) | N/A | Fruquintinib＋S-1 複方用於晚期轉移性大腸直腸癌三線治療，尚無資料 |
 | [NCT06261684](https://clinicaltrials.gov/study/NCT06261684) | [Acyclovir](/drugs/acyclovir/) | L5 | 病灶內 Acyclovir 對比冷凍治療於足底疣的隨機對照試驗，評估安全性與療效 |
 | [NCT06413498](https://clinicaltrials.gov/study/NCT06413498) | [Fludarabine](/drugs/fludarabine/) | L3 | Anito-cel 對比標準治療用於復發／難治性骨髓瘤；fludarabine 僅涉及淋巴清除 |
-| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | [Vinorelbine](/drugs/vinorelbine/) | L5 | 中國兒童尤文氏肉瘤風險分層治療的前瞻性世代研究；vinorelbine 所扮演角色不明確 |
+| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | [Vinorelbine](/drugs/vinorelbine/) | L3 | 中國兒童尤文氏肉瘤風險分層治療的前瞻性世代研究；vinorelbine 所扮演角色不明確 |
 | [NCT06478134](https://clinicaltrials.gov/study/NCT06478134) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | N/A | 多成分人工淚液 TriMix 對比以玻尿酸為基底的對照淚液（雙盲 RCT） |
 | [NCT06486025](https://clinicaltrials.gov/study/NCT06486025) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L2 | 過重與肥胖子癇前症孕婦的替代劑量方案 |
 | [NCT06544447](https://clinicaltrials.gov/study/NCT06544447) | [Hyaluronic Acid](/drugs/hyaluronic-acid/) | N/A | 耳迷走神經刺激治療合併瞼板腺功能障礙的乾眼症；玻尿酸可能僅為背景治療 |

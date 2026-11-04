@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T22:48:00.220768",
+  "generated_at": "2026-11-04T05:15:20.361696",
   "total_drugs": 291,
   "evidence_distribution": {
-    "L5": 234,
-    "L4": 17,
+    "L5": 232,
+    "L4": 15,
     "N/A": 17,
-    "L2": 12,
+    "L2": 15,
     "L1": 2,
-    "L3": 9
+    "L3": 10
   },
   "drugs": [
     {
@@ -425,9 +425,9 @@
     },
     {
       "drug_name": "Conjugated Estrogens",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/conjugated_estrogens/"
     },
     {
@@ -1027,9 +1027,9 @@
     },
     {
       "drug_name": "Lacosamide",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/lacosamide/"
     },
     {
@@ -1090,9 +1090,9 @@
     },
     {
       "drug_name": "Lornoxicam",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 8,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/lornoxicam/"
     },
     {
@@ -1300,9 +1300,9 @@
     },
     {
       "drug_name": "Omalizumab",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/omalizumab/"
     },
     {
@@ -1419,9 +1419,9 @@
     },
     {
       "drug_name": "Pipemidic Acid",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "中證據等級 (L3-L4)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/pipemidic_acid/"
     },
     {
@@ -1552,9 +1552,9 @@
     },
     {
       "drug_name": "Propantheline",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 1,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "高證據等級 (L1-L2)",
       "url": "/drugs/propantheline/"
     },
     {
@@ -1986,9 +1986,9 @@
     },
     {
       "drug_name": "Vinorelbine",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 8,
-      "parent_category": "僅模型預測 (L5)",
+      "parent_category": "中證據等級 (L3-L4)",
       "url": "/drugs/vinorelbine/"
     },
     {

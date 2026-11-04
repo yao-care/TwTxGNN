@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lacosamide
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 160
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 monitor_inn: "Lacosamide"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
-last_modified_at: 2026-11-03
-description: "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L5）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療"
+last_modified_at: 2026-11-04
+description: "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L3）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療"
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+證據等級: **L3** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -53,10 +53,16 @@ TxGNN 模型預測它可能對**躁症型雙相情感障礙 (Manic Bipolar Affec
 | 原適應症 | 四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療；四歲以上複雜性局部癲癇發作與單純或複雜性局部發作合併次發性全身發作之輔助治療 |
 | 預測新適應症 | 躁症型雙相情感障礙 (Manic Bipolar Affective Disorder) |
 | TxGNN 預測分數 | 0.9996 |
-| 證據等級 | L5 |
+| 證據等級 | L3 |
 | 台灣上市 | 上市中（有效許可證 18 張／共 18 張） |
 | 許可證數 | 18 張（有效單方 18／有效複方 0／已註銷 0） |
 | 建議決策 | Hold（僅適合作為研究問題） |
+
+<!-- review:begin lacosamide-manic-bipolar-level-rereview-result-2026-11-04 -->
+
+> **重審結果（2026-11-04）**：**升級**（證據等級 L5→L3）。本頁已引用一篇觀察性研究：102 名急性雙相情感障礙住院病人使用 lacosamide，躁症量表改善優於回溯性對照組（[PMID 30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/)），符合 L3（觀察性研究）定義；沒有 RCT。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L3，建議決策維持 Hold；原文與文獻保留不動。本頁證據等級已依重審結果更新，原值列在下方查核紀錄。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Lacosamide in bipolar disorder: A 30-day comparison to a retrospective control group treated with other antiepileptics（PMID 30251375）](https://pubmed.ncbi.nlm.nih.gov/30251375/)。
+
+<!-- review:end lacosamide-manic-bipolar-level-rereview-result-2026-11-04 -->
 
 ---
 
@@ -160,11 +166,15 @@ TxGNN 模型預測它可能對**躁症型雙相情感障礙 (Manic Bipolar Affec
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 主預測證據等級與研究設計不符，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（主預測）證據等級重審結果 | 重審：升級，證據等級 L5→L3；證據等級：原「證據等級／L5」→「證據等級／L3」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Lacosamide in bipolar disorder: A 30-day comparison to a retrospective control group treated with other antiepileptics（PMID 30251375）](https://pubmed.ncbi.nlm.nih.gov/30251375/) |
+| 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「證據等級 L3」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

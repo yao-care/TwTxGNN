@@ -714,7 +714,7 @@
     {
       "slug": "conjugated_estrogens",
       "name": "Conjugated Estrogens",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 9,
       "original_indication": "卵巢機能不全、月經不順、月經困難、機能性子宮出血",
       "predicted_indication": "偏頭痛 (Migraine Disorder)",
@@ -1746,7 +1746,7 @@
     {
       "slug": "lacosamide",
       "name": "Lacosamide",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 10,
       "original_indication": "四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療；四歲以上複雜性局部癲癇發作與單純或複雜性局部發作合併次發性全身發作之輔助治療",
       "predicted_indication": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)",
@@ -1854,7 +1854,7 @@
     {
       "slug": "lornoxicam",
       "name": "Lornoxicam",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 8,
       "original_indication": "輕度至中度急性疼痛之短期止痛",
       "predicted_indication": "偏頭痛 (Migraine Disorder)",
@@ -2214,7 +2214,7 @@
     {
       "slug": "omalizumab",
       "name": "Omalizumab",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
       "original_indication": "過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法",
       "predicted_indication": "支氣管炎 (Bronchitis)",
@@ -2418,7 +2418,7 @@
     {
       "slug": "pipemidic_acid",
       "name": "Pipemidic Acid",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）",
       "predicted_indication": "心臟疾病 (Heart disease)",
@@ -2646,7 +2646,7 @@
     {
       "slug": "propantheline",
       "name": "Propantheline",
-      "evidence_level": "L5",
+      "evidence_level": "L2",
       "indication_count": 1,
       "original_indication": "胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣",
       "predicted_indication": "腸躁症 (Irritable Bowel Syndrome)",
@@ -3390,7 +3390,7 @@
     {
       "slug": "vinorelbine",
       "name": "Vinorelbine",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 8,
       "original_indication": "非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小細胞肺癌，移轉性乳癌; 1.非小細胞肺癌  2.轉移性乳癌。; 非小細胞肺癌、移轉性乳癌。; 非小細胞肺癌，轉移性乳癌。",
       "predicted_indication": "尤文氏肉瘤 (Ewing sarcoma)",

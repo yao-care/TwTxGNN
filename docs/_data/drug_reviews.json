@@ -25850,6 +25850,895 @@
      "accessed": "2026-11-03"
     }
    ]
+  },
+  {
+   "id": "conjugated-estrogens-migraine-level-rereview-2026-11-04",
+   "drug": "conjugated_estrogens",
+   "file": "conjugated_estrogens.md",
+   "checked": "2026-11-04",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "主預測證據等級與研究設計不符，標記待重審",
+   "claim": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
+   "anchor": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
+   "prediction": "偏頭痛 (Migraine Disorder)",
+   "status": "rereviewed",
+   "resolved_by": "conjugated-estrogens-migraine-level-rereview-result-2026-11-04",
+   "finding": "頁首 L3 沒有被支持本藥治療偏頭痛的研究支持：本頁引用的兩篇臨床研究（PMID 11306204、12390622）觀察停經後荷爾蒙補充療法對偏頭痛病程的影響，口服共軛雌激素組的偏頭痛發作頻率與頭痛天數增加；其餘為回顧或更年期症狀治療。需重審。",
+   "note": "本頁主預測的證據等級與 methodology 定義不符，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "conjugated-estrogens-migraine-level-rereview-result-2026-11-04",
+   "drug": "conjugated_estrogens",
+   "file": "conjugated_estrogens.md",
+   "checked": "2026-11-04",
+   "action": "rereview_result",
+   "resolves": "conjugated-estrogens-migraine-level-rereview-2026-11-04",
+   "summary": "偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | L3 |",
+   "prediction": "偏頭痛 (Migraine Disorder)",
+   "verdict": "downgrade",
+   "original_level": "L3",
+   "new_level": "L5",
+   "flawed_premises": [
+    "頁首 L3 把荷爾蒙補充療法對偏頭痛病程的觀察研究當成支持證據，但這些研究顯示口服共軛雌激素使偏頭痛惡化"
+   ],
+   "remaining_support": [
+    "PubMed 與 ClinicalTrials.gov 都沒有共軛雌激素治療或預防偏頭痛、結果有效的研究",
+    "PMID 11306204（隨機分組）與 12390622：口服共軛雌激素 0.625 mg 加 medroxyprogesterone 後，偏頭痛發作頻率與頭痛天數顯著增加"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義只計支持主預測的本藥研究：沒有任何研究顯示共軛雌激素改善偏頭痛，現有臨床研究反而顯示口服共軛雌激素使偏頭痛惡化，沒有支持證據，屬 L5。",
+   "note": "主預測偏頭痛沒有支持證據：本頁引用的兩篇臨床研究顯示，停經後口服共軛雌激素補充療法使偏頭痛發作頻率與頭痛天數增加（[PMID 11306204](https://pubmed.ncbi.nlm.nih.gov/11306204/)、[PMID 12390622](https://pubmed.ncbi.nlm.nih.gov/12390622/)）。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L5；原文與文獻保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "title": "PubMed：Course of primary headaches during hormone replacement therapy（PMID 11306204）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/11306204/",
+     "excerpt": "50 名停經後頭痛婦女隨機接受經皮雌二醇或口服共軛雌激素 0.625 mg 加 MAP；偏頭痛發作頻率與頭痛天數在口服組顯著增加。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "title": "PubMed：Hormone supplementation differently affects migraine in postmenopausal women（PMID 12390622）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12390622/",
+     "excerpt": "38 名停經後偏頭痛婦女接受三種口服荷爾蒙補充方案（含共軛雌激素 0.625 mg）；6 個月後發作頻率、頭痛天數與止痛藥用量增加。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "conjugated estrogens[tiab] AND migraine",
+     "result": "6 筆（29521155、12390622、11306204、8309263、12278953、14195735），沒有共軛雌激素改善偏頭痛的研究（2026-11-04）。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "介入 conjugated estrogens × 病況 migraine",
+     "result": "0 筆（2026-11-04）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L3 |",
+     "replacement": "| 證據等級 | L5 |"
+    }
+   ]
+  },
+  {
+   "id": "conjugated-estrogens-header-level-2026-11-04",
+   "drug": "conjugated_estrogens",
+   "file": "conjugated_estrogens.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "conjugated-estrogens-migraine-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L3",
+   "new_level": "L5",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "僅模型預測 (L5)",
+   "original_header": "L3",
+   "basis": "快速總覽「證據等級」列重審後為 L5（conjugated-estrogens-migraine-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L5，頁首等級依總覽表重算為 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "conjugated-estrogens-description-level-2026-11-04",
+   "drug": "conjugated_estrogens",
+   "file": "conjugated_estrogens.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Conjugated Estrogens：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L3）。原適應症：卵巢機能不全、月經不順、月經困難、機能性子宮出血",
+   "original_level": "L3",
+   "new_level": "L5",
+   "note": "頁首等級重審後為 L5；description 只把「證據等級 L3」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "lacosamide-manic-bipolar-level-rereview-2026-11-04",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "checked": "2026-11-04",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "主預測證據等級與研究設計不符，標記待重審",
+   "claim": "| 預測新適應症 | 躁症型雙相情感障礙 (Manic Bipolar Affective Disorder) |",
+   "anchor": "| 預測新適應症 | 躁症型雙相情感障礙 (Manic Bipolar Affective Disorder) |",
+   "prediction": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)",
+   "status": "rereviewed",
+   "resolved_by": "lacosamide-manic-bipolar-level-rereview-result-2026-11-04",
+   "finding": "頁首 L5，但本頁引用的研究中有一篇觀察性研究以 lacosamide 治療 102 名住院的急性雙相情感障礙病人，並與回溯性對照組比較躁症量表（PMID 30251375），符合 L3 定義。需重審。",
+   "note": "本頁主預測的證據等級與 methodology 定義不符，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "lacosamide-manic-bipolar-level-rereview-result-2026-11-04",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "checked": "2026-11-04",
+   "action": "rereview_result",
+   "resolves": "lacosamide-manic-bipolar-level-rereview-2026-11-04",
+   "summary": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | L5 |",
+   "prediction": "躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)",
+   "verdict": "upgrade",
+   "original_level": "L5",
+   "new_level": "L3",
+   "flawed_premises": [
+    "頁首 L5（僅模型預測、無臨床證據），但本頁已引用一篇本藥用於急性雙相情感障礙的觀察性研究"
+   ],
+   "remaining_support": [
+    "PMID 30251375：102 名無癲癇的急性雙相情感障礙住院病人使用 lacosamide 50–300 mg/天，第 3 天起 Young 躁症量表改善優於回溯性對照組（其他抗癲癇藥）",
+    "PMID 33666402 為雙相憂鬱的開放性前驅試驗，不是躁症；其餘為病例或機轉回顧"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義：有本藥用於急性雙相情感障礙（以躁症量表評估）的觀察性研究，沒有 RCT，屬 L3。",
+   "note": "本頁已引用一篇觀察性研究：102 名急性雙相情感障礙住院病人使用 lacosamide，躁症量表改善優於回溯性對照組（[PMID 30251375](https://pubmed.ncbi.nlm.nih.gov/30251375/)），符合 L3（觀察性研究）定義；沒有 RCT。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L3，建議決策維持 Hold；原文與文獻保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "title": "PubMed：Lacosamide in bipolar disorder: A 30-day comparison to a retrospective control group treated with other antiepileptics（PMID 30251375）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/30251375/",
+     "excerpt": "102 名急性雙相情感障礙住院病人使用 lacosamide，第 3 天起 Young 躁症量表與 CGI-S 優於回溯性對照組（觀察性研究）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "lacosamide[tiab] AND (mania OR manic OR bipolar)",
+     "result": "17 筆；本藥用於躁症的臨床研究只有 PMID 30251375，沒有 RCT（2026-11-04）。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "介入 lacosamide × 病況 mania",
+     "result": "0 筆（2026-11-04）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L5 |",
+     "replacement": "| 證據等級 | L3 |"
+    }
+   ]
+  },
+  {
+   "id": "lacosamide-header-level-2026-11-04",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "lacosamide-manic-bipolar-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列重審後為 L3（lacosamide-manic-bipolar-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L3，頁首等級依總覽表重算為 L3。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "lacosamide-description-level-2026-11-04",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L5）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療",
+   "original_level": "L5",
+   "new_level": "L3",
+   "note": "頁首等級重審後為 L3；description 只把「證據等級 L5」改成「證據等級 L3」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "lornoxicam-migraine-level-rereview-2026-11-04",
+   "drug": "lornoxicam",
+   "file": "lornoxicam.md",
+   "checked": "2026-11-04",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "主預測證據等級與研究設計不符，標記待重審",
+   "claim": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
+   "anchor": "| 預測新適應症 | 偏頭痛 (Migraine Disorder) |",
+   "prediction": "偏頭痛 (Migraine Disorder)",
+   "status": "rereviewed",
+   "resolved_by": "lornoxicam-migraine-level-rereview-result-2026-11-04",
+   "finding": "頁首 L5，但本頁已引用一項本藥用於偏頭痛急性發作的隨機、雙盲、安慰劑對照 Phase 2 試驗（NCT00293657，150 人，已完成）；依 methodology，1 個 RCT 即為 L2。需重審。",
+   "note": "本頁主預測的證據等級與 methodology 定義不符，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "lornoxicam-migraine-level-rereview-result-2026-11-04",
+   "drug": "lornoxicam",
+   "file": "lornoxicam.md",
+   "checked": "2026-11-04",
+   "action": "rereview_result",
+   "resolves": "lornoxicam-migraine-level-rereview-2026-11-04",
+   "summary": "偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | L5（依規則上限：見下方說明） |",
+   "prediction": "偏頭痛 (Migraine Disorder)",
+   "verdict": "upgrade",
+   "original_level": "L5",
+   "new_level": "L2",
+   "flawed_premises": [
+    "本頁以「試驗結果未提供」把等級保守判為 L5，但 methodology 依研究設計定級：已完成的隨機對照試驗屬 L2"
+   ],
+   "remaining_support": [
+    "NCT00293657：靜脈注射 lornoxicam 8 或 16 mg 對偏頭痛急性頭痛的隨機雙盲安慰劑對照單劑試驗，已完成，150 人；ClinicalTrials.gov 未張貼結果",
+    "PubMed 只有兩篇回顧（1495823、8706598），沒有其他偏頭痛試驗"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義：有 1 個本藥用於偏頭痛的隨機對照試驗（已完成，結果未公開），屬 L2；結果未公開，建議決策維持 Hold。",
+   "note": "本頁引用的 [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) 是靜脈注射 lornoxicam 治療偏頭痛急性發作的隨機、雙盲、安慰劑對照 Phase 2 試驗（150 人，已完成），依 methodology「1 個 RCT」屬 L2；試驗結果未公開，療效無法確認，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "title": "ClinicalTrials.gov：Study of Lornoxicam or Placebo for Acute Treatment of the Headache of Migraine（NCT00293657）",
+     "url": "https://clinicaltrials.gov/study/NCT00293657",
+     "excerpt": "隨機、雙盲、安慰劑對照、平行分組；已完成，150 人；未張貼結果。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "lornoxicam[tiab] AND migraine",
+     "result": "2 筆回顧（8706598、1495823），沒有已發表的偏頭痛試驗結果（2026-11-04）。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "介入 lornoxicam × 病況 migraine",
+     "result": "1 筆（NCT00293657，已完成，未張貼結果）（2026-11-04）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L5（依規則上限：見下方說明） |",
+     "replacement": "| 證據等級 | L2 |"
+    }
+   ]
+  },
+  {
+   "id": "lornoxicam-header-level-2026-11-04",
+   "drug": "lornoxicam",
+   "file": "lornoxicam.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "lornoxicam-migraine-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列重審後為 L2（lornoxicam-migraine-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L2，頁首等級依總覽表重算為 L2。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "lornoxicam-description-level-2026-11-04",
+   "drug": "lornoxicam",
+   "file": "lornoxicam.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Lornoxicam：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：輕度至中度急性疼痛之短期止痛",
+   "original_level": "L5",
+   "new_level": "L2",
+   "note": "頁首等級重審後為 L2；description 只把「證據等級 L5」改成「證據等級 L2」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "omalizumab-bronchitis-level-rereview-2026-11-04",
+   "drug": "omalizumab",
+   "file": "omalizumab.md",
+   "checked": "2026-11-04",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "主預測證據等級與研究設計不符，標記待重審",
+   "claim": "| 預測新適應症 | 支氣管炎 (Bronchitis) |",
+   "anchor": "| 預測新適應症 | 支氣管炎 (Bronchitis) |",
+   "prediction": "支氣管炎 (Bronchitis)",
+   "status": "rereviewed",
+   "resolved_by": "omalizumab-bronchitis-level-rereview-result-2026-11-04",
+   "finding": "頁首 L4，但本頁已引用一項 omalizumab 用於持續性嗜酸性球性支氣管炎的隨機、三盲、安慰劑對照試驗（NCT02049294，已完成）；嗜酸性球性支氣管炎屬支氣管炎，依 methodology，1 個 RCT 即為 L2。需重審。",
+   "note": "本頁主預測的證據等級與 methodology 定義不符，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "omalizumab-bronchitis-level-rereview-result-2026-11-04",
+   "drug": "omalizumab",
+   "file": "omalizumab.md",
+   "checked": "2026-11-04",
+   "action": "rereview_result",
+   "resolves": "omalizumab-bronchitis-level-rereview-2026-11-04",
+   "summary": "支氣管炎 (Bronchitis)（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | L4 |",
+   "prediction": "支氣管炎 (Bronchitis)",
+   "verdict": "upgrade",
+   "original_level": "L4",
+   "new_level": "L2",
+   "flawed_premises": [
+    "頁首 L4（前臨床／個案），但本頁已引用一項本藥用於嗜酸性球性支氣管炎的隨機對照試驗"
+   ],
+   "remaining_support": [
+    "NCT02049294：omalizumab 對類固醇依賴、合併持續性嗜酸性球性支氣管炎病人的類固醇節省效果，隨機、三盲、安慰劑對照，已完成，11 人；未張貼結果",
+    "其餘文獻為氣喘、COPD 重疊或個案，不是支氣管炎試驗"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義：有 1 個本藥用於嗜酸性球性支氣管炎的隨機對照試驗（樣本很小、結果未公開），屬 L2；建議決策維持 Hold。",
+   "note": "本頁引用的 [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) 是 omalizumab 用於持續性嗜酸性球性支氣管炎的隨機、三盲、安慰劑對照試驗（11 人，已完成），依 methodology「1 個 RCT」屬 L2；樣本很小且結果未公開，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "title": "ClinicalTrials.gov：Study of the Steroid Sparing Effect of Xolair (Omalizumab) in Patients With Persistent Eosinophilic Bronchitis（NCT02049294）",
+     "url": "https://clinicaltrials.gov/study/NCT02049294",
+     "excerpt": "隨機、三盲、安慰劑對照；病況為類固醇依賴氣喘與嗜酸性球性支氣管炎；已完成；未張貼結果。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "omalizumab[tiab] AND (eosinophilic bronchitis OR bronchitis)",
+     "result": "7 筆，多為氣喘或回顧，沒有已發表的支氣管炎試驗結果（2026-11-04）。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "介入 omalizumab × 病況 eosinophilic bronchitis",
+     "result": "1 筆（NCT02049294）（2026-11-04）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L4 |",
+     "replacement": "| 證據等級 | L2 |"
+    }
+   ]
+  },
+  {
+   "id": "omalizumab-header-level-2026-11-04",
+   "drug": "omalizumab",
+   "file": "omalizumab.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "omalizumab-bronchitis-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L4",
+   "new_level": "L2",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L4",
+   "basis": "快速總覽「證據等級」列重審後為 L2（omalizumab-bronchitis-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L2，頁首等級依總覽表重算為 L2。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "omalizumab-description-level-2026-11-04",
+   "drug": "omalizumab",
+   "file": "omalizumab.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Omalizumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L4）。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）",
+   "original_level": "L4",
+   "new_level": "L2",
+   "note": "頁首等級重審後為 L2；description 只把「證據等級 L4」改成「證據等級 L2」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "pipemidic-acid-heart-disease-level-rereview-2026-11-04",
+   "drug": "pipemidic_acid",
+   "file": "pipemidic_acid.md",
+   "checked": "2026-11-04",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "主預測證據等級與研究設計不符，標記待重審",
+   "claim": "| 預測新適應症 | 心臟疾病 (Heart disease) |",
+   "anchor": "| 預測新適應症 | 心臟疾病 (Heart disease) |",
+   "prediction": "心臟疾病 (Heart disease)",
+   "status": "rereviewed",
+   "resolved_by": "pipemidic-acid-heart-disease-level-rereview-result-2026-11-04",
+   "finding": "快速總覽的證據等級格寫「L5（資料中另標示為 L4…）」，頁首依整格最高等級取到 L4；但主預測心臟疾病沒有任何本藥研究，報告本身判定為 L5。需重審。",
+   "note": "本頁主預測的證據等級與 methodology 定義不符，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "pipemidic-acid-heart-disease-level-rereview-result-2026-11-04",
+   "drug": "pipemidic_acid",
+   "file": "pipemidic_acid.md",
+   "checked": "2026-11-04",
+   "action": "rereview_result",
+   "resolves": "pipemidic-acid-heart-disease-level-rereview-2026-11-04",
+   "summary": "心臟疾病 (Heart disease)（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | L5（資料中另標示為 L4，但目前僅有模型預測與一篇不相關的舊文獻，無機轉或前臨床研究支持，故以 L5 判定） |",
+   "prediction": "心臟疾病 (Heart disease)",
+   "verdict": "downgrade",
+   "original_level": "L4",
+   "new_level": "L5",
+   "flawed_premises": [
+    "頁首 L4 取自總覽證據等級格說明文字中提到的「資料中另標示為 L4」，不是主預測的證據"
+   ],
+   "remaining_support": [
+    "PubMed 只有一篇本類抗菌劑的組織分布藥動學研究（PMID 2907467），與心臟疾病治療無關",
+    "ClinicalTrials.gov 沒有本藥用於心臟疾病的試驗"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義：主預測心臟疾病沒有任何本藥的人體或前臨床研究，屬 L5。",
+   "note": "主預測心臟疾病沒有任何本藥研究，報告本身已判定 L5；原本頁首的 L4 來自總覽格說明文字裡的「資料中另標示為 L4」。依用戶 2026-11-04 決定（等級不符頁逐組重審），總覽證據等級格只列 L5，頁首隨之為 L5；原文保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "pipemidic acid[tiab] AND heart",
+     "result": "1 筆（2907467，藥動學，與心臟疾病治療無關）（2026-11-04）。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "介入 pipemidic acid × 病況 heart disease",
+     "result": "0 筆（2026-11-04）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L5（資料中另標示為 L4，但目前僅有模型預測與一篇不相關的舊文獻，無機轉或前臨床研究支持，故以 L5 判定） |",
+     "replacement": "| 證據等級 | L5 |"
+    }
+   ]
+  },
+  {
+   "id": "pipemidic-acid-header-level-2026-11-04",
+   "drug": "pipemidic_acid",
+   "file": "pipemidic_acid.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "pipemidic-acid-heart-disease-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L4",
+   "new_level": "L5",
+   "original_parent": "中證據等級 (L3-L4)",
+   "new_parent": "僅模型預測 (L5)",
+   "original_header": "L4",
+   "basis": "快速總覽「證據等級」列重審後為 L5（pipemidic-acid-heart-disease-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L5，頁首等級依總覽表重算為 L5。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "pipemidic-acid-description-level-2026-11-04",
+   "drug": "pipemidic_acid",
+   "file": "pipemidic_acid.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Pipemidic Acid：預測新適應症為心臟疾病 (Heart disease)（證據等級 L4）。原適應症：抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）",
+   "original_level": "L4",
+   "new_level": "L5",
+   "note": "頁首等級重審後為 L5；description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "propantheline-ibs-level-rereview-2026-11-04",
+   "drug": "propantheline",
+   "file": "propantheline.md",
+   "checked": "2026-11-04",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "主預測證據等級與研究設計不符，標記待重審",
+   "claim": "| 預測新適應症 | 腸躁症 (Irritable Bowel Syndrome) |",
+   "anchor": "| 預測新適應症 | 腸躁症 (Irritable Bowel Syndrome) |",
+   "prediction": "腸躁症 (Irritable Bowel Syndrome)",
+   "status": "rereviewed",
+   "resolved_by": "propantheline-ibs-level-rereview-result-2026-11-04",
+   "finding": "頁首 L5，但本頁已引用一項腸躁症隨機安慰劑對照試驗（PMID 2697886），試驗藥物為 ispaghula husk 加 propantheline；依 methodology，含本藥的 1 個 RCT 即為 L2。需重審。",
+   "note": "本頁主預測的證據等級與 methodology 定義不符，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "propantheline-ibs-level-rereview-result-2026-11-04",
+   "drug": "propantheline",
+   "file": "propantheline.md",
+   "checked": "2026-11-04",
+   "action": "rereview_result",
+   "resolves": "propantheline-ibs-level-rereview-2026-11-04",
+   "summary": "腸躁症 (Irritable Bowel Syndrome)（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | L5 |",
+   "prediction": "腸躁症 (Irritable Bowel Syndrome)",
+   "verdict": "upgrade",
+   "original_level": "L5",
+   "new_level": "L2",
+   "flawed_premises": [
+    "本頁以「合併用藥、無法單獨歸因」把等級保守判為 L5，但 methodology 依研究設計定級；含本藥的合併處方隨機對照試驗屬 L2，其他各站對含本藥合併處方的試驗也採同一判定"
+   ],
+   "remaining_support": [
+    "PMID 2697886：28 名腸躁症病人以 ispaghula husk 加 propantheline 緩解後，隨機分為繼續治療或安慰劑，6 個月復發率 46% 對 82%",
+    "PMID 2888056：bromazepam 加 propantheline 合併處方的多中心研究"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義：有 1 個含本藥合併處方的腸躁症隨機對照試驗，屬 L2；療效無法單獨歸因於 propantheline，建議決策維持 Hold。",
+   "note": "本頁引用的 [PMID 2697886](https://pubmed.ncbi.nlm.nih.gov/2697886/) 是腸躁症的隨機安慰劑對照維持試驗，試驗藥物為 ispaghula husk 加 propantheline（繼續治療組 6 個月復發率 46%，安慰劑組 82%），依 methodology「1 個 RCT」屬 L2；療效無法單獨歸因於 propantheline，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "title": "PubMed：Long-term treatment of irritable bowel syndrome: results of a randomized controlled trial（PMID 2697886）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/2697886/",
+     "excerpt": "28 名以 ispaghula husk 加 propantheline 緩解的腸躁症病人隨機分為繼續治療或安慰劑；6 個月復發率 46% 對 82%。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "propantheline[tiab] AND irritable bowel",
+     "result": "3 筆（11488427 動物模型、2697886 RCT、2888056 合併處方研究）（2026-11-04）。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "介入 propantheline × 病況 irritable bowel syndrome",
+     "result": "0 筆（2026-11-04）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L5 |",
+     "replacement": "| 證據等級 | L2 |"
+    }
+   ]
+  },
+  {
+   "id": "propantheline-header-level-2026-11-04",
+   "drug": "propantheline",
+   "file": "propantheline.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "propantheline-ibs-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L2",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "高證據等級 (L1-L2)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列重審後為 L2（propantheline-ibs-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L2，頁首等級依總覽表重算為 L2。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "propantheline-description-level-2026-11-04",
+   "drug": "propantheline",
+   "file": "propantheline.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Propantheline：預測新適應症為腸躁症 (Irritable Bowel Syndrome)（證據等級 L5）。原適應症：胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣",
+   "original_level": "L5",
+   "new_level": "L2",
+   "note": "頁首等級重審後為 L2；description 只把「證據等級 L5」改成「證據等級 L2」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "vinorelbine-ewing-level-rereview-2026-11-04",
+   "drug": "vinorelbine",
+   "file": "vinorelbine.md",
+   "checked": "2026-11-04",
+   "action": "rereview",
+   "section": "快速總覽「預測新適應症」",
+   "summary": "主預測證據等級與研究設計不符，標記待重審",
+   "claim": "| 預測新適應症 | 尤文氏肉瘤 (Ewing sarcoma) |",
+   "anchor": "| 預測新適應症 | 尤文氏肉瘤 (Ewing sarcoma) |",
+   "prediction": "尤文氏肉瘤 (Ewing sarcoma)",
+   "status": "rereviewed",
+   "resolved_by": "vinorelbine-ewing-level-rereview-result-2026-11-04",
+   "finding": "頁首 L5，但本頁已引用一項 Phase 2 試驗，其中尤文氏肉瘤分層 15 人接受 vinorelbine 加低劑量環磷醯胺、反應率 13%（PMID 22633624），符合 L3 定義。需重審。",
+   "note": "本頁主預測的證據等級與 methodology 定義不符，標記待重審；證據等級、文獻與決策在重審完成前不更動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "vinorelbine-ewing-level-rereview-result-2026-11-04",
+   "drug": "vinorelbine",
+   "file": "vinorelbine.md",
+   "checked": "2026-11-04",
+   "action": "rereview_result",
+   "resolves": "vinorelbine-ewing-level-rereview-2026-11-04",
+   "summary": "尤文氏肉瘤 (Ewing sarcoma)（主預測）證據等級重審結果",
+   "claim": "| 證據等級 | L5 |",
+   "prediction": "尤文氏肉瘤 (Ewing sarcoma)",
+   "verdict": "upgrade",
+   "original_level": "L5",
+   "new_level": "L3",
+   "flawed_premises": [
+    "頁首 L5（僅模型預測、無臨床證據），但本頁已引用一項含尤文氏肉瘤分層的本藥 Phase 2 試驗"
+   ],
+   "remaining_support": [
+    "PMID 22633624：vinorelbine 加持續低劑量環磷醯胺的 Phase 2 試驗，尤文氏肉瘤分層 15 人，最佳整體反應率 13%",
+    "PMID 42561548：INTER-EWING-1 維持療法試驗的理論基礎回顧；沒有尤文氏肉瘤的隨機對照試驗結果"
+   ],
+   "rationale": "依 methodology 的 L1–L5 定義：只有一項 Phase 2 試驗的尤文氏肉瘤分層（單臂、15 人），沒有 RCT 或多個 Phase 2 試驗，屬 L3。",
+   "note": "本頁引用的 Phase 2 試驗含尤文氏肉瘤分層：15 名病人接受 vinorelbine 加低劑量環磷醯胺，最佳整體反應率 13%（[PMID 22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/)），屬 L3；沒有隨機對照試驗。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L3，建議決策維持 Hold；原文與文獻保留不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "title": "PubMed：Phase II study of vinorelbine and continuous low doses cyclophosphamide in children and young adults with a relapsed or refractory malignant solid tumour（PMID 22633624）",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/22633624/",
+     "excerpt": "117 名復發或難治實體瘤病人；尤文氏肉瘤分層 15 人，最佳整體反應率 13%。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "searches": [
+    {
+     "db": "PubMed",
+     "query": "vinorelbine[tiab] AND Ewing",
+     "result": "6 筆（42561548、37637411、36451163、26260582、22633624、12115359）（2026-11-04）。",
+     "accessed": "2026-11-04"
+    },
+    {
+     "db": "ClinicalTrials.gov",
+     "query": "介入 vinorelbine × 病況 Ewing",
+     "result": "3 筆（NCT00003234、NCT06451302、NCT00180947），沒有已公開結果的尤文氏肉瘤專屬試驗（2026-11-04）。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "table_updates": [
+    {
+     "label": "證據等級",
+     "claim": "| 證據等級 | L5 |",
+     "replacement": "| 證據等級 | L3 |"
+    }
+   ]
+  },
+  {
+   "id": "vinorelbine-header-level-2026-11-04",
+   "drug": "vinorelbine",
+   "file": "vinorelbine.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "vinorelbine-ewing-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列重審後為 L3（vinorelbine-ewing-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L3，頁首等級依總覽表重算為 L3。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
+  },
+  {
+   "id": "vinorelbine-description-level-2026-11-04",
+   "drug": "vinorelbine",
+   "file": "vinorelbine.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Vinorelbine：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L5）。原適應症：非小細胞肺癌，移轉性乳癌",
+   "original_level": "L5",
+   "new_level": "L3",
+   "note": "頁首等級重審後為 L3；description 只把「證據等級 L5」改成「證據等級 L3」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ]
   }
  ]
 }

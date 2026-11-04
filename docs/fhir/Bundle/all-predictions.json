@@ -2,7 +2,7 @@
   "resourceType": "Bundle",
   "id": "all-predictions",
   "type": "collection",
-  "timestamp": "2026-11-03T22:48:01.551600",
+  "timestamp": "2026-11-04T05:15:21.774754",
   "total": 2531,
   "link": [
     {
@@ -4204,7 +4204,7 @@
         "extension": [
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
+            "valueCode": "L3"
           }
         ],
         "indicationGuideline": [
@@ -21337,7 +21337,7 @@
         "extension": [
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
+            "valueCode": "L2"
           }
         ],
         "indicationGuideline": [
@@ -32755,7 +32755,7 @@
         "extension": [
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
+            "valueCode": "L3"
           }
         ],
         "indicationGuideline": [
@@ -63729,7 +63729,7 @@
         "extension": [
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L2"
           }
         ],
         "indicationGuideline": [
@@ -79228,7 +79228,7 @@
         "extension": [
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ],
         "indicationGuideline": [
@@ -89614,7 +89614,7 @@
         "extension": [
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ],
         "indicationGuideline": [
@@ -111632,7 +111632,7 @@
         "extension": [
           {
             "url": "https://twtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
+            "valueCode": "L2"
           }
         ],
         "indicationGuideline": [

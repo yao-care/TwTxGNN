@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pipemidic Acid
-parent: 中證據等級 (L3-L4)
+parent: 僅模型預測 (L5)
 nav_order: 217
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Pipemidic acid"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "orofacial clefting syndrome", "pulmonary valve disease", "disorder of fucoglycosan synthesis", "mitral valve disease", "Jeune syndrome situs inversus"]
-last_modified_at: 2026-10-29
-description: "Pipemidic Acid：預測新適應症為心臟疾病 (Heart disease)（證據等級 L4）。原適應症：抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）"
+last_modified_at: 2026-11-04
+description: "Pipemidic Acid：預測新適應症為心臟疾病 (Heart disease)（證據等級 L5）。原適應症：抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等）"
 ---
 
 # Pipemidic Acid
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,16 @@ TxGNN 模型預測它可能對**心臟疾病 (Heart disease)** 有效，但目�
 | 原適應症 | 抗菌劑（細菌感染所致之腎盂腎炎、膀胱炎、尿道炎、前列腺炎、中耳炎等） |
 | 預測新適應症 | 心臟疾病 (Heart disease) |
 | TxGNN 預測分數 | 0.9993 |
-| 證據等級 | L5（資料中另標示為 L4，但目前僅有模型預測與一篇不相關的舊文獻，無機轉或前臨床研究支持，故以 L5 判定） |
+| 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 24 張／共 74 張） |
 | 許可證數 | 74 張（有效單方 24／有效複方 0／已過期 4／已註銷 46） |
 | 建議決策 | Hold |
+
+<!-- review:begin pipemidic-acid-heart-disease-level-rereview-result-2026-11-04 -->
+
+> **重審結果（2026-11-04）**：**降級**（證據等級 L4→L5）。主預測心臟疾病沒有任何本藥研究，報告本身已判定 L5；原本頁首的 L4 來自總覽格說明文字裡的「資料中另標示為 L4」。依用戶 2026-11-04 決定（等級不符頁逐組重審），總覽證據等級格只列 L5，頁首隨之為 L5；原文保留不動。本頁證據等級已依重審結果更新，原值列在下方查核紀錄。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)。
+
+<!-- review:end pipemidic-acid-heart-disease-level-rereview-result-2026-11-04 -->
 
 ---
 
@@ -154,11 +160,15 @@ TxGNN 模型預測它可能對**心臟疾病 (Heart disease)** 有效，但目�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「目前有效許可證約 12 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-04 | 主預測證據等級與研究設計不符，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 心臟疾病 (Heart disease)（主預測）證據等級重審結果 | 重審：降級，證據等級 L4→L5；證據等級：原「證據等級／L5（資料中另標示為 L4，但目前僅有模型預測與一篇不相關的舊文獻，無機轉或前臨床研究支持，故以 L5 判定）」→「證據等級／L5」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L4→L5） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

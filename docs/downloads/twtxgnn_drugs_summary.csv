@@ -58,7 +58,7 @@ Clobetasone,L5,10,僅模型預測 (L5),/drugs/clobetasone/
 Clomipramine,L1,8,高證據等級 (L1-L2),/drugs/clomipramine/
 Cobicistat,L5,3,僅模型預測 (L5),/drugs/cobicistat/
 Cobimetinib,L5,9,僅模型預測 (L5),/drugs/cobimetinib/
-Conjugated Estrogens,L3,9,中證據等級 (L3-L4),/drugs/conjugated_estrogens/
+Conjugated Estrogens,L5,9,僅模型預測 (L5),/drugs/conjugated_estrogens/
 Cortisone Acetate,L4,8,中證據等級 (L3-L4),/drugs/cortisone_acetate/
 Cromoglicic Acid,L5,10,僅模型預測 (L5),/drugs/cromoglicic_acid/
 Cyclandelate,L5,10,僅模型預測 (L5),/drugs/cyclandelate/
@@ -144,7 +144,7 @@ Isoleucine,L5,1,僅模型預測 (L5),/drugs/isoleucine/
 Isosorbide Dinitrate,L5,10,僅模型預測 (L5),/drugs/isosorbide_dinitrate/
 Isosorbide Mononitrate,L5,10,僅模型預測 (L5),/drugs/isosorbide_mononitrate/
 Ivermectin,L5,9,僅模型預測 (L5),/drugs/ivermectin/
-Lacosamide,L5,10,僅模型預測 (L5),/drugs/lacosamide/
+Lacosamide,L3,10,中證據等級 (L3-L4),/drugs/lacosamide/
 Lactic Acid,L5,5,僅模型預測 (L5),/drugs/lactic_acid/
 Larotrectinib,L5,2,僅模型預測 (L5),/drugs/larotrectinib/
 Leflunomide,L5,2,僅模型預測 (L5),/drugs/leflunomide/
@@ -153,7 +153,7 @@ Letrozole,L5,4,僅模型預測 (L5),/drugs/letrozole/
 Levamisole,L5,10,僅模型預測 (L5),/drugs/levamisole/
 Lidocaine,L5,10,僅模型預測 (L5),/drugs/lidocaine/
 Lorcaserin,L5,4,僅模型預測 (L5),/drugs/lorcaserin/
-Lornoxicam,L5,8,僅模型預測 (L5),/drugs/lornoxicam/
+Lornoxicam,L2,8,高證據等級 (L1-L2),/drugs/lornoxicam/
 Loteprednol Etabonate,L5,9,僅模型預測 (L5),/drugs/loteprednol_etabonate/
 Lutetium Lu 177 Dotatate,L5,10,僅模型預測 (L5),/drugs/lutetium_lu_177_dotatate/
 Magnesium Sulfate,L2,9,高證據等級 (L1-L2),/drugs/magnesium_sulfate/
@@ -183,7 +183,7 @@ Nitrous Oxide,L5,1,僅模型預測 (L5),/drugs/nitrous_oxide/
 Nitroxoline,L5,10,僅模型預測 (L5),/drugs/nitroxoline/
 Norethindrone Enanthate,N/A,0,僅已知用途／主預測已撤回,/drugs/norethindrone_enanthate/
 Nystatin,N/A,10,僅已知用途／主預測已撤回,/drugs/nystatin/
-Omalizumab,L4,10,中證據等級 (L3-L4),/drugs/omalizumab/
+Omalizumab,L2,10,高證據等級 (L1-L2),/drugs/omalizumab/
 Oteracil,N/A,10,僅已知用途／主預測已撤回,/drugs/oteracil/
 Ouabain,L5,10,僅模型預測 (L5),/drugs/ouabain/
 Oxybutynin,L5,3,僅模型預測 (L5),/drugs/oxybutynin/
@@ -200,7 +200,7 @@ Peppermint Oil,L5,10,僅模型預測 (L5),/drugs/peppermint_oil/
 Perindopril,L5,4,僅模型預測 (L5),/drugs/perindopril/
 Pexidartinib,L5,10,僅模型預測 (L5),/drugs/pexidartinib/
 Pimozide,L4,10,中證據等級 (L3-L4),/drugs/pimozide/
-Pipemidic Acid,L4,10,中證據等級 (L3-L4),/drugs/pipemidic_acid/
+Pipemidic Acid,L5,10,僅模型預測 (L5),/drugs/pipemidic_acid/
 Pitavastatin,L5,4,僅模型預測 (L5),/drugs/pitavastatin/
 Pitolisant,L5,3,僅模型預測 (L5),/drugs/pitolisant/
 Polyethylene Glycol,L5,1,僅模型預測 (L5),/drugs/polyethylene_glycol/
@@ -219,7 +219,7 @@ Prednisone,L2,10,高證據等級 (L1-L2),/drugs/prednisone/
 Prilocaine,L5,10,僅模型預測 (L5),/drugs/prilocaine/
 Probenecid,L5,3,僅模型預測 (L5),/drugs/probenecid/
 Procaine,L5,10,僅模型預測 (L5),/drugs/procaine/
-Propantheline,L5,1,僅模型預測 (L5),/drugs/propantheline/
+Propantheline,L2,1,高證據等級 (L1-L2),/drugs/propantheline/
 Prucalopride,L5,10,僅模型預測 (L5),/drugs/prucalopride/
 Raloxifene,L5,4,僅模型預測 (L5),/drugs/raloxifene/
 Ramucirumab,L5,10,僅模型預測 (L5),/drugs/ramucirumab/
@@ -281,7 +281,7 @@ Uracil,N/A,10,僅已知用途／主預測已撤回,/drugs/uracil/
 Urofollitropin,L5,9,僅模型預測 (L5),/drugs/urofollitropin/
 Vasopressin,L5,2,僅模型預測 (L5),/drugs/vasopressin/
 Verteporfin,L5,1,僅模型預測 (L5),/drugs/verteporfin/
-Vinorelbine,L5,8,僅模型預測 (L5),/drugs/vinorelbine/
+Vinorelbine,L3,8,中證據等級 (L3-L4),/drugs/vinorelbine/
 Vismodegib,L5,8,僅模型預測 (L5),/drugs/vismodegib/
 Vitamin E,L5,10,僅模型預測 (L5),/drugs/vitamin_e/
 Vonoprazan,L5,8,僅模型預測 (L5),/drugs/vonoprazan/

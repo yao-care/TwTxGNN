@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Omalizumab
-parent: 中證據等級 (L3-L4)
+parent: 高證據等級 (L1-L2)
 nav_order: 199
-evidence_level: L4
+evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-03
-description: "Omalizumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L4）。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）"
+last_modified_at: 2026-11-04
+description: "Omalizumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L2）。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）"
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease
 # Omalizumab
 {: .fs-9 }
 
-證據等級: **L4** | 預測適應症: **10** 個
+證據等級: **L2** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,7 +49,7 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 | 原適應症 | 過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法 |
 | 預測新適應症 | 支氣管炎 (Bronchitis) |
 | TxGNN 預測分數 | 1.0000 |
-| 證據等級 | L4 |
+| 證據等級 | L2 |
 | 台灣上市 | 上市中（有效許可證 3 張／共 3 張） |
 | 許可證數 | 3 張（有效單方 3／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
@@ -59,6 +59,12 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 > **重審結果（2026-11-03）**：**撤回**（證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級））。obstructive lung disease（阻塞性肺病）是本頁預測清單中的預測（正文未展開），但它是已核准用途，不是新適應症：omalizumab 美國仿單與台灣有效許可證都核准用於中重度持續性過敏性氣喘；阻塞性肺病是氣喘的上位概念。依站方 2026-11-03 的已核准用途排除原則（任一國官方仿單或許可證核准的用途即視為已知用途，不列為老藥新用預測），撤回這筆預測；模型預測原文保留不改寫。依據：[US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end omalizumab-obstructive-lung-disease-known-use-rereview-result-2026-11-03 -->
+
+<!-- review:begin omalizumab-bronchitis-level-rereview-result-2026-11-04 -->
+
+> **重審結果（2026-11-04）**：**升級**（證據等級 L4→L2）。本頁引用的 [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) 是 omalizumab 用於持續性嗜酸性球性支氣管炎的隨機、三盲、安慰劑對照試驗（11 人，已完成），依 methodology「1 個 RCT」屬 L2；樣本很小且結果未公開，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。本頁證據等級已依重審結果更新，原值列在下方查核紀錄。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[ClinicalTrials.gov：Study of the Steroid Sparing Effect of Xolair (Omalizumab) in Patients With Persistent Eosinophilic Bronchitis（NCT02049294）](https://clinicaltrials.gov/study/NCT02049294)。
+
+<!-- review:end omalizumab-bronchitis-level-rereview-result-2026-11-04 -->
 
 ## 為什麼這個預測合理？
 
@@ -131,13 +137,17 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 2 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | obstructive lung disease（阻塞性肺病）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | obstructive lung disease（阻塞性肺病）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-04 | 主預測證據等級與研究設計不符，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 支氣管炎 (Bronchitis)（主預測）證據等級重審結果 | 重審：升級，證據等級 L4→L2；證據等級：原「證據等級／L4」→「證據等級／L2」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[ClinicalTrials.gov：Study of the Steroid Sparing Effect of Xolair (Omalizumab) in Patients With Persistent Eosinophilic Bronchitis（NCT02049294）](https://clinicaltrials.gov/study/NCT02049294) |
+| 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L4→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L2」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

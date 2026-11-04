@@ -20,7 +20,7 @@
       ]
     },
     "L2": {
-      "count": 12,
+      "count": 15,
       "drugs": [
         {
           "name": "Busulfan",
@@ -32,6 +32,12 @@
           "name": "Everolimus",
           "slug": "everolimus",
           "decision": "",
+          "indication_count": 8
+        },
+        {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "decision": "Hold",
           "indication_count": 8
         },
         {
@@ -53,6 +59,12 @@
           "indication_count": 10
         },
         {
+          "name": "Omalizumab",
+          "slug": "omalizumab",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Pravastatin",
           "slug": "pravastatin",
           "decision": "Proceed with Guardrails",
@@ -69,6 +81,12 @@
           "slug": "prednisone",
           "decision": "Proceed with Guardrails",
           "indication_count": 10
+        },
+        {
+          "name": "Propantheline",
+          "slug": "propantheline",
+          "decision": "Hold",
+          "indication_count": 1
         },
         {
           "name": "Regorafenib",
@@ -97,14 +115,8 @@
       ]
     },
     "L3": {
-      "count": 9,
+      "count": 10,
       "drugs": [
-        {
-          "name": "Conjugated Estrogens",
-          "slug": "conjugated_estrogens",
-          "decision": "Hold",
-          "indication_count": 9
-        },
         {
           "name": "Docetaxel",
           "slug": "docetaxel",
@@ -136,6 +148,12 @@
           "indication_count": 9
         },
         {
+          "name": "Lacosamide",
+          "slug": "lacosamide",
+          "decision": "Hold（僅適合作為研究問題）",
+          "indication_count": 10
+        },
+        {
           "name": "Lenvatinib",
           "slug": "lenvatinib",
           "decision": "Hold（列為研究問題，待更多證據）",
@@ -148,6 +166,12 @@
           "indication_count": 2
         },
         {
+          "name": "Vinorelbine",
+          "slug": "vinorelbine",
+          "decision": "Hold",
+          "indication_count": 8
+        },
+        {
           "name": "Xylometazoline",
           "slug": "xylometazoline",
           "decision": "Proceed with Guardrails",
@@ -156,7 +180,7 @@
       ]
     },
     "L4": {
-      "count": 17,
+      "count": 15,
       "drugs": [
         {
           "name": "Acitretin",
@@ -213,20 +237,8 @@
           "indication_count": 10
         },
         {
-          "name": "Omalizumab",
-          "slug": "omalizumab",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
           "name": "Pimozide",
           "slug": "pimozide",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Pipemidic Acid",
-          "slug": "pipemidic_acid",
           "decision": "Hold",
           "indication_count": 10
         },
@@ -263,7 +275,7 @@
       ]
     },
     "L5": {
-      "count": 234,
+      "count": 232,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -574,6 +586,12 @@
         {
           "name": "Cobimetinib",
           "slug": "cobimetinib",
+          "decision": "Hold",
+          "indication_count": 9
+        },
+        {
+          "name": "Conjugated Estrogens",
+          "slug": "conjugated_estrogens",
           "decision": "Hold",
           "indication_count": 9
         },
@@ -974,12 +992,6 @@
           "indication_count": 9
         },
         {
-          "name": "Lacosamide",
-          "slug": "lacosamide",
-          "decision": "Hold（僅適合作為研究問題）",
-          "indication_count": 10
-        },
-        {
           "name": "Lactic Acid",
           "slug": "lactic_acid",
           "decision": "Hold",
@@ -1020,12 +1032,6 @@
           "slug": "lorcaserin",
           "decision": "",
           "indication_count": 4
-        },
-        {
-          "name": "Lornoxicam",
-          "slug": "lornoxicam",
-          "decision": "Hold",
-          "indication_count": 8
         },
         {
           "name": "Loteprednol Etabonate",
@@ -1238,6 +1244,12 @@
           "indication_count": 10
         },
         {
+          "name": "Pipemidic Acid",
+          "slug": "pipemidic_acid",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
           "name": "Pitavastatin",
           "slug": "pitavastatin",
           "decision": "Hold",
@@ -1314,12 +1326,6 @@
           "slug": "procaine",
           "decision": "Hold",
           "indication_count": 10
-        },
-        {
-          "name": "Propantheline",
-          "slug": "propantheline",
-          "decision": "Hold",
-          "indication_count": 1
         },
         {
           "name": "Prucalopride",
@@ -1620,12 +1626,6 @@
           "slug": "verteporfin",
           "decision": "Hold",
           "indication_count": 1
-        },
-        {
-          "name": "Vinorelbine",
-          "slug": "vinorelbine",
-          "decision": "Hold",
-          "indication_count": 8
         },
         {
           "name": "Vismodegib",

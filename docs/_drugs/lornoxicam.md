@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lornoxicam
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 169
-evidence_level: L5
+evidence_level: L2
 indication_count: 8
 monitor_inn: "Lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-29
-description: "Lornoxicam：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L5）。原適應症：輕度至中度急性疼痛之短期止痛"
+last_modified_at: 2026-11-04
+description: "Lornoxicam：預測新適應症為偏頭痛 (Migraine Disorder)（證據等級 L2）。原適應症：輕度至中度急性疼痛之短期止痛"
 ---
 
 # Lornoxicam
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+證據等級: **L2** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,16 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 | 原適應症 | 輕度至中度急性疼痛之短期止痛 |
 | 預測新適應症 | 偏頭痛 (Migraine Disorder) |
 | TxGNN 預測分數 | 0.9987 |
-| 證據等級 | L5（依規則上限：見下方說明） |
+| 證據等級 | L2 |
 | 台灣上市 | 上市中（有效許可證 2 張／共 5 張） |
 | 許可證數 | 5 張（有效單方 2／有效複方 0／已註銷 3） |
 | 建議決策 | Hold |
+
+<!-- review:begin lornoxicam-migraine-level-rereview-result-2026-11-04 -->
+
+> **重審結果（2026-11-04）**：**升級**（證據等級 L5→L2）。本頁引用的 [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) 是靜脈注射 lornoxicam 治療偏頭痛急性發作的隨機、雙盲、安慰劑對照 Phase 2 試驗（150 人，已完成），依 methodology「1 個 RCT」屬 L2；試驗結果未公開，療效無法確認，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。本頁證據等級已依重審結果更新，原值列在下方查核紀錄。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[ClinicalTrials.gov：Study of Lornoxicam or Placebo for Acute Treatment of the Headache of Migraine（NCT00293657）](https://clinicaltrials.gov/study/NCT00293657)。
+
+<!-- review:end lornoxicam-migraine-level-rereview-result-2026-11-04 -->
 
 > 證據等級說明：資料中有一項直接研究偏頭痛的 Phase 2 試驗（NCT00293657），但其結果未提供，無法確認療效。本報告保守判定為 L5；若取得試驗結果，可重新評估為 L2。
 
@@ -128,12 +134,16 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 半衰期寫 3-5 小時 | 更正（2026-10-16 修訂，前版保留於紀錄） | [HPRA（愛爾蘭藥品主管機關）：Xefo Rapid 8 mg film-coated tablets（lornoxicam）SmPC §5.2](https://assets.hpra.ie/products/Human/28642/LicenseSPC_PA1547-005-004_11012017183040.pdf) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L3→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 主預測證據等級與研究設計不符，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果 | 重審：升級，證據等級 L5→L2；證據等級：原「證據等級／L5（依規則上限：見下方說明）」→「證據等級／L2」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[ClinicalTrials.gov：Study of Lornoxicam or Placebo for Acute Treatment of the Headache of Migraine（NCT00293657）](https://clinicaltrials.gov/study/NCT00293657) |
+| 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「證據等級 L2」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

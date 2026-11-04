@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vinorelbine
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 301
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 monitor_inn: "Vinorelbine"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "lung germ cell tumor", "pulmonary sulcus neoplasm", "hamartoma of lung", "lung benign neoplasm", "pulmonary blastoma"]
-last_modified_at: 2026-10-29
-description: "Vinorelbine：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L5）。原適應症：非小細胞肺癌，移轉性乳癌"
+last_modified_at: 2026-11-04
+description: "Vinorelbine：預測新適應症為尤文氏肉瘤 (Ewing sarcoma)（證據等級 L3）。原適應症：非小細胞肺癌，移轉性乳癌"
 ---
 
 # Vinorelbine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **8** 個
+證據等級: **L3** | 預測適應症: **8** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,16 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 | 原適應症 | 非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小細胞肺癌，移轉性乳癌; 1.非小細胞肺癌  2.轉移性乳癌。; 非小細胞肺癌、移轉性乳癌。; 非小細胞肺癌，轉移性乳癌。 |
 | 預測新適應症 | 尤文氏肉瘤 (Ewing sarcoma) |
 | TxGNN 預測分數 | 1.0000 |
-| 證據等級 | L5 |
+| 證據等級 | L3 |
 | 台灣上市 | 上市中（有效許可證 7 張／共 10 張） |
 | 許可證數 | 10 張（有效單方 7／有效複方 0／已註銷 3） |
 | 建議決策 | Hold |
+
+<!-- review:begin vinorelbine-ewing-level-rereview-result-2026-11-04 -->
+
+> **重審結果（2026-11-04）**：**升級**（證據等級 L5→L3）。本頁引用的 Phase 2 試驗含尤文氏肉瘤分層：15 名病人接受 vinorelbine 加低劑量環磷醯胺，最佳整體反應率 13%（[PMID 22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/)），屬 L3；沒有隨機對照試驗。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L3，建議決策維持 Hold；原文與文獻保留不動。本頁證據等級已依重審結果更新，原值列在下方查核紀錄。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Phase II study of vinorelbine and continuous low doses cyclophosphamide in children and young adults with a relapsed or refractory malignant solid tumour（PMID 22633624）](https://pubmed.ncbi.nlm.nih.gov/22633624/)。
+
+<!-- review:end vinorelbine-ewing-level-rereview-result-2026-11-04 -->
 
 > 註：TxGNN 原始分數為 0.99999022，四捨五入至小數點後四位為 1.0000。
 
@@ -145,11 +151,15 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：19 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-04 | 主預測證據等級與研究設計不符，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 尤文氏肉瘤 (Ewing sarcoma)（主預測）證據等級重審結果 | 重審：升級，證據等級 L5→L3；證據等級：原「證據等級／L5」→「證據等級／L3」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Phase II study of vinorelbine and continuous low doses cyclophosphamide in children and young adults with a relapsed or refractory malignant solid tumour（PMID 22633624）](https://pubmed.ncbi.nlm.nih.gov/22633624/) |
+| 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「證據等級 L3」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 
 <!-- review:end log -->
 

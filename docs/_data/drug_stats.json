@@ -3,10 +3,10 @@
   "total_indications": 1995,
   "level_counts": {
     "L1": 2,
-    "L2": 12,
-    "L3": 9,
-    "L4": 17,
-    "L5": 234
+    "L2": 15,
+    "L3": 10,
+    "L4": 15,
+    "L5": 232
   },
   "top_by_indications": [
     {
@@ -574,7 +574,7 @@
     {
       "name": "Lacosamide",
       "slug": "lacosamide",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 4
@@ -718,7 +718,7 @@
     {
       "name": "Omalizumab",
       "slug": "omalizumab",
-      "level": "L4",
+      "level": "L2",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 2
@@ -790,7 +790,7 @@
     {
       "name": "Pipemidic Acid",
       "slug": "pipemidic_acid",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 0
@@ -1046,7 +1046,7 @@
     {
       "name": "Conjugated Estrogens",
       "slug": "conjugated_estrogens",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 9,
       "prediction_score": 0,
       "nct_count": 0
@@ -1446,7 +1446,7 @@
     {
       "name": "Lornoxicam",
       "slug": "lornoxicam",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 8,
       "prediction_score": 0,
       "nct_count": 1
@@ -1486,7 +1486,7 @@
     {
       "name": "Vinorelbine",
       "slug": "vinorelbine",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 8,
       "prediction_score": 0,
       "nct_count": 3
@@ -2366,7 +2366,7 @@
     {
       "name": "Propantheline",
       "slug": "propantheline",
-      "level": "L5",
+      "level": "L2",
       "indication_count": 1,
       "prediction_score": 0,
       "nct_count": 0

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Propantheline
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 236
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 monitor_inn: "Propantheline"
 predicted_indications: ["irritable bowel syndrome"]
-last_modified_at: 2026-10-29
-description: "Propantheline：預測新適應症為腸躁症 (Irritable Bowel Syndrome)（證據等級 L5）。原適應症：胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣"
+last_modified_at: 2026-11-04
+description: "Propantheline：預測新適應症為腸躁症 (Irritable Bowel Syndrome)（證據等級 L2）。原適應症：胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣"
 ---
 
 # Propantheline
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L2** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,16 @@ TxGNN 模型預測它可能對**腸躁症 (Irritable Bowel Syndrome)** 有效，
 | 原適應症 | 胃、十二指腸潰瘍、幽門痙攣、胃炎、胃酸過多、結腸痙攣、輸尿道及膀胱痙攣 |
 | 預測新適應症 | 腸躁症 (Irritable Bowel Syndrome) |
 | TxGNN 預測分數 | 0.9916 |
-| 證據等級 | L5 |
+| 證據等級 | L2 |
 | 台灣上市 | 上市中（有效許可證 9 張／共 53 張） |
 | 許可證數 | 53 張（有效單方 4／有效複方 5／已註銷 44） |
 | 建議決策 | Hold |
+
+<!-- review:begin propantheline-ibs-level-rereview-result-2026-11-04 -->
+
+> **重審結果（2026-11-04）**：**升級**（證據等級 L5→L2）。本頁引用的 [PMID 2697886](https://pubmed.ncbi.nlm.nih.gov/2697886/) 是腸躁症的隨機安慰劑對照維持試驗，試驗藥物為 ispaghula husk 加 propantheline（繼續治療組 6 個月復發率 46%，安慰劑組 82%），依 methodology「1 個 RCT」屬 L2；療效無法單獨歸因於 propantheline，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。本頁證據等級已依重審結果更新，原值列在下方查核紀錄。依據：[TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Long-term treatment of irritable bowel syndrome: results of a randomized controlled trial（PMID 2697886）](https://pubmed.ncbi.nlm.nih.gov/2697886/)。
+
+<!-- review:end propantheline-ibs-level-rereview-result-2026-11-04 -->
 
 **證據等級說明：**文獻中雖有直接研究腸躁症的 RCT（1989 年），但該研究為 ispaghula husk（洋車前子殼）加 propantheline 的合併治療，無法單獨歸因於 propantheline；另一篇為 bromazepam 合併 propantheline 的研究，同樣屬合併用藥，且無摘要可供查核。依證據上限規則與保守原則，本報告判定為 L5。
 
@@ -129,6 +135,22 @@ TxGNN 模型預測它可能對**腸躁症 (Irritable Bowel Syndrome)** 有效，
 - 補充 DrugBank 的作用機轉資料，並釐清與現有抗膽鹼類腸躁症用藥（如 hyoscyamine）的相對定位。
 - 取得原廠仿單中的警語與禁忌資訊，並針對老年人、便秘型腸躁症患者與多重抗膽鹼用藥者制定安全監測計畫。
 - 評估是否需要申請腸躁症適應症的擴增，以及台灣有效單方許可證（4 張）的適用範圍。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-04 | 主預測證據等級與研究設計不符，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 腸躁症 (Irritable Bowel Syndrome)（主預測）證據等級重審結果 | 重審：升級，證據等級 L5→L2；證據等級：原「證據等級／L5」→「證據等級／L2」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Long-term treatment of irritable bowel syndrome: results of a randomized controlled trial（PMID 2697886）](https://pubmed.ncbi.nlm.nih.gov/2697886/) |
+| 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L2） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「證據等級 L2」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。
