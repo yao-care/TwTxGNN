@@ -1,6 +1,6 @@
 {
   "total": 285,
-  "generated_at": "2026-11-03T18:55:39.850953",
+  "generated_at": "2026-11-04T04:24:29.339606",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -2795,7 +2795,7 @@
     {
       "name": "Mexiletine",
       "file": "mexiletine.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 10,
       "predicted_indication": "毛髮過多症 (Hypertrichosis)（排名第 1，無證據）；證據最多者為頭痛疾患 (Headache Disorder)（排名第 10）",
       "inn": "Mexiletine",
