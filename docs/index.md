@@ -29,22 +29,35 @@ image: /assets/images/og-default.png
 
 本站公開 **{{ site.data.drug_stats.total_drugs }}** 個藥品的報告，藥品來自[食藥署 TFDA](https://www.fda.gov.tw/)的許可證資料（台灣）。
 
-各證據等級報告數： L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+資料集：[食藥署開放資料第 36 號「全部藥品許可證資料集」](https://data.fda.gov.tw/data/opendata/export/36/json)，每週一自動下載比對。詳見[資料來源]({{ '/sources/' | relative_url }})。
+
+各證據等級報告數：
+
+| 證據等級 | 報告數 | 占比 |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+本站有 126 組預測的藥物–疾病配對，在其他 29 個 TxGNN 站台都沒有。
 
 ### 本站證據等級最高的藥品
 
 | 藥品 | 證據等級 |
 |---|---|
-| [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L1 |
 | [Clomipramine](/drugs/clomipramine/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
-| [Icatibant](/drugs/icatibant/) | L1 |
-| [Terbutaline](/drugs/terbutaline/) | L1 |
 | [Busulfan](/drugs/busulfan/) | L2 |
-| [Dexamethasone](/drugs/dexamethasone/) | L2 |
-| [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L2 |
 | [Mycophenolate Mofetil](/drugs/mycophenolate-mofetil/) | L2 |
 | [Nepafenac](/drugs/nepafenac/) | L2 |
+| [Prednisone](/drugs/prednisone/) | L2 |
+| [Ropinirole](/drugs/ropinirole/) | L2 |
+| [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L2 |
+| [Prednisolone](/drugs/prednisolone/) | L2 |
+| [Ribavirin](/drugs/ribavirin/) | L2 |
 
 ### 30 個 TxGNN 站台中只有本站涵蓋的藥品
 
@@ -117,11 +130,11 @@ image: /assets/images/og-default.png
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">台灣藥品全覆蓋</strong><br>
-    <span style="color: #666;">聚焦 TFDA 核准藥品，涵蓋 {{ site.data.drug_stats.total_drugs }} 種藥物、704 個預測適應症。報告包含台灣許可證狀態與健保資訊，直接對接本地研究與臨床需求。</span>
+    <span style="color: #666;">聚焦 TFDA 核准藥品，涵蓋 {{ site.data.drug_stats.total_drugs }} 種藥物、{{ site.data.drug_stats.total_indications }} 個預測適應症。報告包含台灣許可證狀態與健保資訊，直接對接本地研究與臨床需求。</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">四大交互作用資料庫</strong><br>
-    <span style="color: #666;">整合 DDI（藥物-藥物 30 萬筆）、DDSI（藥物-疾病 8,359 筆）、DFI（藥物-食物 857 筆）、DHI（藥物-草藥 35 筆），涵蓋禁忌併用、疾病禁忌、飲食注意事項，讓安全性評估一次到位。</span>
+    <span style="color: #666;">整合 DDI（藥物-藥物 222,391 筆）、DDSI（藥物-疾病 8,359 筆）、DFI（藥物-食物 857 筆）、DHI（藥物-草藥 35 筆），涵蓋禁忌併用、疾病禁忌、飲食注意事項，讓安全性評估一次到位。</span>
   </div>
 </div>
 
@@ -130,14 +143,8 @@ image: /assets/images/og-default.png
 ## 亮點發現
 
 <p class="key-answer" data-question="目前證據最充分的老藥新用案例有哪些？">
-以下是經過臨床證據驗證、證據等級達 L1-L2 的老藥新用案例，可優先考慮進入臨床評估：
+本站證據等級達 L1–L2 的藥物目前有 <strong>{{ site.data.drug_stats.level_counts.L1 | plus: site.data.drug_stats.level_counts.L2 }}</strong> 個（等級取各藥物頁頁首），完整清單見<a href="{{ '/evidence-high/' | relative_url }}">高證據等級 (L1-L2)</a>。
 </p>
-
-| 藥物 | 證據等級 | 預測適應症 | 說明 |
-|------|---------|-----------|------|
-| **[Temozolomide]({{ '/drugs/temozolomide/' | relative_url }})** | L1 / Go | 星狀細胞瘤 | 口服腦瘤藥物，能穿透血腦屏障。20+ 篇文獻、2 個臨床試驗支持，已在台灣核准適應症範圍內。 |
-| **[Vonoprazan]({{ '/drugs/vonoprazan/' | relative_url }})** | L2 / Strong Proceed | 活動性消化性潰瘍 | 新一代胃藥，抑酸效力是傳統 PPI 的 350 倍。16 篇文獻支持。 |
-| **[Icatibant]({{ '/drugs/icatibant/' | relative_url }})** | L1 / Proceed | C1 Inhibitor Deficiency | 罕病藥物新機會，22 項臨床試驗、13 篇文獻支持。 |
 
 ---
 
@@ -319,7 +326,7 @@ image: /assets/images/og-default.png
 | **高證據等級** | L1-L2，可優先評估 | [查看 {{ lc.L1 | plus: lc.L2 }} 個藥物]({{ '/evidence-high' | relative_url }}) |
 | **中證據等級** | L3-L4，需補充證據 | [查看 {{ lc.L3 | plus: lc.L4 }} 個藥物]({{ '/evidence-medium' | relative_url }}) |
 | **僅模型預測** | L5，研究方向參考 | [查看 {{ lc.L5 }} 個藥物]({{ '/evidence-low' | relative_url }}) |
-| **完整列表** | 所有 {{ tot }} 個藥物（可搜尋篩選） | [藥物列表](${window.TWTXGNN_CONFIG.drugsBaseUrl}) |
+| **完整列表** | 所有 {{ tot }} 個藥物（可搜尋篩選） | [藥物列表]({{ '/drugs/' | relative_url }}) |
 | **藥物交互作用** | 222,391 筆 DDI 資料 | [DDI 專區]({{ '/ddi/' | relative_url }}) |
 | **研究案例** | 教學與案例解讀 | [研究案例]({{ '/blog/' | relative_url }}) |
 | **資料下載** | CSV / JSON 格式 | [下載頁面]({{ '/downloads/' | relative_url }}) |
@@ -508,12 +515,4 @@ image: /assets/images/og-default.png
 
 ## 關於開發單位
 
-本平台由**藥提醒科技有限公司**（yao.care，統一編號 83620786，地址：台中市西區台灣大道二段220號12樓）開發與維運。
-
-TwTxGNN 是該公司「TxGNN 老藥新用」產品線的台灣站。同一套系統已部署於 30 個國家／地區，
-各站依 `{國碼}TxGNN` 命名（JpTxGNN、UsTxGNN、DETxGNN…），網址格式為 `{國碼}txgnn.yao.care`。
-產品總覽見 <https://www.yao.care/medical/txgnn/>。
-
-TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medicine*；
-本平台是藥提醒科技有限公司以該模型為基礎建置的落地系統，負責各國藥證資料串接、
-深度學習預測（已排除知識圖譜中已記錄的用途）、PubMed／ClinicalTrials 證據分級，以及 SMART on FHIR 電子病歷整合。
+本平台由**藥提醒科技有限公司**（yao.care）開發與維運。公司完整介紹與方法背景見<a href="{{ '/about/' | relative_url }}">關於專案</a>頁。

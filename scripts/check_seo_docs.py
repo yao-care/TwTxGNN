@@ -374,6 +374,23 @@ for _f in sorted(DOCS.glob("nav-*.md")) + sorted(DOCS.glob("evidence-*.md")) + [
             _bad.append(f"{_ln(_m.start())} 行寫死的藥物／報告數「{' '.join(_m.group(0).split())}」")
     errors.extend(f"{_f.name}：{b}（改用 site.data.drug_stats 的 Liquid；description 不寫數字）" for b in _bad)
 
+# 8b) 首頁 index.md 內文不得寫死 drug_stats.json 的藥物總數、預測適應症數（2026-11-04 補）：
+#    首頁曾寫死「704 個預測適應症」（實際 1,995）、亮點表寫死已重審過的等級。修法：改用 Liquid 讀 site.data.drug_stats
+#    （total_drugs、total_indications、level_counts）；front matter description 的數字列在 scripts/generate_drug_stats.py 的 COUNT_SPOTS。
+#    DDI／DDSI 等安全性資料集的筆數不是 drug_stats，不在此列（只擋等於 total_drugs／total_indications 的數字）。
+_idx = DOCS / "index.md"
+if _idx.exists():
+    _ds_now = json.loads((DOCS / "_data" / "drug_stats.json").read_text(encoding="utf-8"))
+    _want_n = {str(_ds_now.get("total_drugs")), str(_ds_now.get("total_indications"))}
+    _t = _idx.read_bytes().decode("utf-8", errors="replace")
+    _fm = re.match(r"\ufeff?---\r?\n.*?\r?\n---\r?\n", _t, re.S)
+    _body0 = _fm.end() if _fm else 0
+    _masked = _NAV_MASK.sub(lambda m: re.sub(r"[^\n]", " ", m.group(0)), _t)
+    for _m in _NAV_HARD.finditer(_masked, _body0):
+        _num = (_m.group(1) or _m.group(2)).replace(",", "").replace(".", "")
+        if _num in _want_n:
+            errors.append(f"index.md：{_t.count(chr(10), 0, _m.start()) + 1} 行寫死的藥物／適應症數「{' '.join(_m.group(0).split())}」（改用 site.data.drug_stats 的 Liquid）")
+
 # 9) llms.txt／llms-full.txt 的範例藥物行「- 名稱 (Lx): 網址」（2026-11-03 補）：標籤＝該藥物頁 front matter 的
 #    evidence_level，且網址指到存在的藥物頁、不是 ID 轉址頁、不是 noindex 頁（藥物頁重新評級後標籤會過期，
 #    NZTxGNN 等站曾發生）。修法：母目錄 python3 .claude/sync_llms_descriptions.py <站> 會依頁面同步標籤；
