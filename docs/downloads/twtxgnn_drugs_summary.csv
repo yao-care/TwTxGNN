@@ -153,7 +153,7 @@ Letrozole,L5,4,僅模型預測 (L5),/drugs/letrozole/
 Levamisole,L5,10,僅模型預測 (L5),/drugs/levamisole/
 Lidocaine,L5,10,僅模型預測 (L5),/drugs/lidocaine/
 Lorcaserin,L5,4,僅模型預測 (L5),/drugs/lorcaserin/
-Lornoxicam,L2,8,高證據等級 (L1-L2),/drugs/lornoxicam/
+Lornoxicam,L5,8,僅模型預測 (L5),/drugs/lornoxicam/
 Loteprednol Etabonate,L5,9,僅模型預測 (L5),/drugs/loteprednol_etabonate/
 Lutetium Lu 177 Dotatate,L5,10,僅模型預測 (L5),/drugs/lutetium_lu_177_dotatate/
 Magnesium Sulfate,L2,9,高證據等級 (L1-L2),/drugs/magnesium_sulfate/
@@ -183,7 +183,7 @@ Nitrous Oxide,L5,1,僅模型預測 (L5),/drugs/nitrous_oxide/
 Nitroxoline,L5,10,僅模型預測 (L5),/drugs/nitroxoline/
 Norethindrone Enanthate,N/A,0,僅已知用途／主預測已撤回,/drugs/norethindrone_enanthate/
 Nystatin,N/A,10,僅已知用途／主預測已撤回,/drugs/nystatin/
-Omalizumab,L2,10,高證據等級 (L1-L2),/drugs/omalizumab/
+Omalizumab,L5,10,僅模型預測 (L5),/drugs/omalizumab/
 Oteracil,N/A,10,僅已知用途／主預測已撤回,/drugs/oteracil/
 Ouabain,L5,10,僅模型預測 (L5),/drugs/ouabain/
 Oxybutynin,L5,3,僅模型預測 (L5),/drugs/oxybutynin/

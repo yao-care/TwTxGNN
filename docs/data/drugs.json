@@ -1854,7 +1854,7 @@
     {
       "slug": "lornoxicam",
       "name": "Lornoxicam",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 8,
       "original_indication": "輕度至中度急性疼痛之短期止痛",
       "predicted_indication": "偏頭痛 (Migraine Disorder)",
@@ -2214,7 +2214,7 @@
     {
       "slug": "omalizumab",
       "name": "Omalizumab",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
       "original_indication": "過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法",
       "predicted_indication": "支氣管炎 (Bronchitis)",

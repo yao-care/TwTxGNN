@@ -20,7 +20,7 @@
       ]
     },
     "L2": {
-      "count": 15,
+      "count": 13,
       "drugs": [
         {
           "name": "Busulfan",
@@ -32,12 +32,6 @@
           "name": "Everolimus",
           "slug": "everolimus",
           "decision": "",
-          "indication_count": 8
-        },
-        {
-          "name": "Lornoxicam",
-          "slug": "lornoxicam",
-          "decision": "Hold",
           "indication_count": 8
         },
         {
@@ -56,12 +50,6 @@
           "name": "Nepafenac",
           "slug": "nepafenac",
           "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Omalizumab",
-          "slug": "omalizumab",
-          "decision": "Hold",
           "indication_count": 10
         },
         {
@@ -269,7 +257,7 @@
       ]
     },
     "L5": {
-      "count": 233,
+      "count": 235,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -1034,6 +1022,12 @@
           "indication_count": 4
         },
         {
+          "name": "Lornoxicam",
+          "slug": "lornoxicam",
+          "decision": "Hold",
+          "indication_count": 8
+        },
+        {
           "name": "Loteprednol Etabonate",
           "slug": "loteprednol_etabonate",
           "decision": "Hold",
@@ -1156,6 +1150,12 @@
         {
           "name": "Nitroxoline",
           "slug": "nitroxoline",
+          "decision": "Hold",
+          "indication_count": 10
+        },
+        {
+          "name": "Omalizumab",
+          "slug": "omalizumab",
           "decision": "Hold",
           "indication_count": 10
         },

@@ -153,7 +153,7 @@ Letrozole,letrozole,L5,4,轉移性乳癌。; 接受抗動情激素治療失敗�
 Levamisole,levamisole,L5,10,驅除蛔蟲、鉤蟲、糞圓蟲,藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis),1.0000,False,Hold,/drugs/levamisole/
 Lidocaine,lidocaine,L5,10,局部麻醉,點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis),0.9999,False,Hold,/drugs/lidocaine/
 Lorcaserin,lorcaserin,L5,4,,,,False,,/drugs/lorcaserin/
-Lornoxicam,lornoxicam,L2,8,輕度至中度急性疼痛之短期止痛,偏頭痛 (Migraine Disorder),0.9987,False,Hold,/drugs/lornoxicam/
+Lornoxicam,lornoxicam,L5,8,輕度至中度急性疼痛之短期止痛,偏頭痛 (Migraine Disorder),0.9987,False,Hold,/drugs/lornoxicam/
 Loteprednol Etabonate,loteprednol_etabonate,L5,9,眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎、酒渣鼻角膜炎、表淺性點狀角膜炎、帶狀疱疹角膜炎、虹膜炎、睫狀體炎，以及其他感染性結膜炎等；及眼睛手術之發炎,結膜濾泡增生症 (Conjunctival Folliculosis),0.9969,False,Hold,/drugs/loteprednol-etabonate/
 Lutetium Lu 177 Dotatate,lutetium_lu_177_dotatate,L5,10,本地許可證資料未記載適應症,垂體性侏儒症 (pituitary dwarfism),0.9999,False,Hold,/drugs/lutetium-lu-177-dotatate/
 Magnesium Sulfate,magnesium_sulfate,L2,9,子癇症、子癇前症、妊娠毒血症、產科全身麻醉輔助；體內鎂離子缺乏時之補充,妊娠毒血症 (toxemia of pregnancy),1.0000,False,撤回（已核准用途）,/drugs/magnesium-sulfate/
@@ -183,7 +183,7 @@ Nitrous Oxide,nitrous_oxide,L5,1,吸入性全身麻醉、鎮痛,良性攝護腺�
 Nitroxoline,nitroxoline,L5,10,尿道炎、膀胱炎、腎盂腎炎及其他泌尿道感染症,閉經 (Amenorrhea),0.9974,False,Hold,/drugs/nitroxoline/
 Norethindrone Enanthate,norethindrone_enanthate,N/A,0,,,,False,,/drugs/norethindrone-enanthate/
 Nystatin,nystatin,N/A,10,抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道及陰道感染）,外陰陰道炎 (Vulvovaginitis),0.9992,False,撤回（已核准用途）,/drugs/nystatin/
-Omalizumab,omalizumab,L2,10,過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法,支氣管炎 (Bronchitis),1.0000,False,Hold,/drugs/omalizumab/
+Omalizumab,omalizumab,L5,10,過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法,支氣管炎 (Bronchitis),1.0000,False,Hold,/drugs/omalizumab/
 Oteracil,oteracil,N/A,10,胃癌用藥,大腸腫瘤 (Colonic Neoplasm),0.9999,False,撤回（已核准用途）,/drugs/oteracil/
 Ouabain,ouabain,L5,10,心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速,Prinzmetal 心絞痛 (Prinzmetal angina),0.9969,False,Hold,/drugs/ouabain/
 Oxybutynin,oxybutynin,L5,3,適用於12歲以上之原發性手掌多汗症病人（擦劑）；錠劑、貼片則用於膀胱過動症及排尿症狀緩解,不寧腿症候群 (Restless Legs Syndrome),0.9974,False,Hold,/drugs/oxybutynin/

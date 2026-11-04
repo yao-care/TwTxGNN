@@ -60,7 +60,7 @@ permalink: /nct-lookup/
 | [NCT00254735](https://clinicaltrials.gov/study/NCT00254735) | [Clomipramine](/drugs/clomipramine/) | L1 | 嚴重強迫症在 SSRI／Clomipramine 基礎治療上加用 Quetiapine（試驗藥物為 Quetiapine） |
 | [NCT00259766](https://clinicaltrials.gov/study/NCT00259766) | [Terbutaline](/drugs/terbutaline/) | N/A | 真實世界氣喘醫療成本比較，terbutaline（Bricanyl）為隨需對照 |
 | [NCT00275938](https://clinicaltrials.gov/study/NCT00275938) | [Ribavirin](/drugs/ribavirin/) | L2 | Interferon alpha-2b 併用 ribavirin 治療慢性 B 型肝炎的先導研究 |
-| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | [Lornoxicam](/drugs/lornoxicam/) | L2 | 隨機、雙盲、安慰劑對照的單劑試驗，評估靜脈注射 Lornoxicam（8 mg 或 16 mg）對偏頭痛急性頭痛的療效與安全性；結果數據未提供 |
+| [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) | [Lornoxicam](/drugs/lornoxicam/) | L5 | 隨機、雙盲、安慰劑對照的單劑試驗，評估靜脈注射 Lornoxicam（8 mg 或 16 mg）對偏頭痛急性頭痛的療效與安全性；結果數據未提供 |
 | [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | [Fludarabine](/drugs/fludarabine/) | L3 | Cyclophosphamide／fludarabine／全身放射線的臍帶血移植前處理，用於血液疾病 |
 | [NCT00333255](https://clinicaltrials.gov/study/NCT00333255) | [Nepafenac](/drugs/nepafenac/) | L2 | Nevanac 0.1% 對比 Acular LS，用於白內障術後發炎 |
 | [NCT00421122](https://clinicaltrials.gov/study/NCT00421122) | [Terbutaline](/drugs/terbutaline/) | N/A | Symbicort 用於中國慢性阻塞性肺病 (COPD) 患者的療效與安全性 |
@@ -118,7 +118,7 @@ permalink: /nct-lookup/
 | [NCT01872611](https://clinicaltrials.gov/study/NCT01872611) | [Nepafenac](/drugs/nepafenac/) | L2 | 同上設計之重複試驗，評估糖尿病患者術後臨床結果 |
 | [NCT02028208](https://clinicaltrials.gov/study/NCT02028208) | [Aluminum Chloride](/drugs/aluminum-chloride/) | L5 | 汞、鋁、鈀金屬過敏原斑貼試驗劑量反應研究，屬鋁的皮膚反應（安全性訊號），非治療效益 |
 | [NCT02048371](https://clinicaltrials.gov/study/NCT02048371) | [Regorafenib](/drugs/regorafenib/) | L2 | SARC024：評估口服 Regorafenib 用於特定肉瘤亞型（含脂肪肉瘤族群） |
-| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | [Omalizumab](/drugs/omalizumab/) | L2 | 雙盲安慰劑對照試驗，評估 Omalizumab 對氣喘合併嗜酸性球性支氣管炎病人的類固醇節省效果；樣本數很小 |
+| [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) | [Omalizumab](/drugs/omalizumab/) | L5 | 雙盲安慰劑對照試驗，評估 Omalizumab 對氣喘合併嗜酸性球性支氣管炎病人的類固醇節省效果；樣本數很小 |
 | [NCT02063022](https://clinicaltrials.gov/study/NCT02063022) | [Doxorubicin](/drugs/doxorubicin/) | L1 | 隨機比較標準與強化治療，用於非轉移性尤文氏肉瘤 |
 | [NCT02135315](https://clinicaltrials.gov/study/NCT02135315) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L5 | 非 ST 上升型急性冠心症的強化與標準降壓策略 |
 | [NCT02149199](https://clinicaltrials.gov/study/NCT02149199) | [Terbutaline](/drugs/terbutaline/) | N/A | Symbicort 隨需使用 vs. 隨需 terbutaline vs. Pulmicort＋隨需 terbutaline |
@@ -135,7 +135,7 @@ permalink: /nct-lookup/
 | [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | L2 | 維持劑量 1 g/h 與 2 g/h 預防子癇（樣本小） |
 | [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | [Tizanidine](/drugs/tizanidine/) | L2 | 外用 NSAID 止痛療效的觀察性研究，與 Tizanidine 及偏頭痛關聯有限，僅屬間接參考 |
 | [NCT02465060](https://clinicaltrials.gov/study/NCT02465060) | [Larotrectinib](/drugs/larotrectinib/) | L5 | NCI-MATCH：依基因檢測結果分派治療的泛腫瘤籃式試驗，針對標準治療後惡化的晚期實體腫瘤、淋巴瘤或多發性骨髓瘤；並非針對 MEN 或 Larotrectinib，僅能支持機轉層面的合理性 |
-| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | [Omalizumab](/drugs/omalizumab/) | L2 | QGE031 用於慢性自發性蕁麻疹的劑量探索試驗，並非支氣管炎族群，僅提供 IgE 路徑的背景資訊 |
+| [NCT02477332](https://clinicaltrials.gov/study/NCT02477332) | [Omalizumab](/drugs/omalizumab/) | L5 | QGE031 用於慢性自發性蕁麻疹的劑量探索試驗，並非支氣管炎族群，僅提供 IgE 路徑的背景資訊 |
 | [NCT02511132](https://clinicaltrials.gov/study/NCT02511132) | [Docetaxel](/drugs/docetaxel/) | L3 | 轉移性尤文氏肉瘤：Vigil 免疫療法對比 gemcitabine 加 docetaxel（第一部分隨機分組） |
 | [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | [Oteracil](/drugs/oteracil/) | N/A | Raltitrexed＋S-1 用於標準化療失敗的轉移性癌症，主要終點為無惡化存活期 |
 | [NCT02789033](https://clinicaltrials.gov/study/NCT02789033) | [Isosorbide Dinitrate](/drugs/isosorbide-dinitrate/) | L5 | 二硝酸異山梨酯噴劑合併幾丁聚醣用於糖尿病足潰瘍 |

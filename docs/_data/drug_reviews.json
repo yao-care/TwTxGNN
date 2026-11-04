@@ -26151,24 +26151,23 @@
    "id": "lornoxicam-migraine-level-rereview-result-2026-11-04",
    "drug": "lornoxicam",
    "file": "lornoxicam.md",
-   "checked": "2026-11-04",
    "action": "rereview_result",
    "resolves": "lornoxicam-migraine-level-rereview-2026-11-04",
    "summary": "偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果",
    "claim": "| 證據等級 | L5（依規則上限：見下方說明） |",
    "prediction": "偏頭痛 (Migraine Disorder)",
-   "verdict": "upgrade",
+   "verdict": "maintain",
    "original_level": "L5",
-   "new_level": "L2",
+   "new_level": "L5",
    "flawed_premises": [
-    "本頁以「試驗結果未提供」把等級保守判為 L5，但 methodology 依研究設計定級：已完成的隨機對照試驗屬 L2"
+    "前版把已完成但沒有公布結果的登記試驗 NCT00293657 當成 RCT 證據升為 L2"
    ],
    "remaining_support": [
-    "NCT00293657：靜脈注射 lornoxicam 8 或 16 mg 對偏頭痛急性頭痛的隨機雙盲安慰劑對照單劑試驗，已完成，150 人；ClinicalTrials.gov 未張貼結果",
-    "PubMed 只有兩篇回顧（1495823、8706598），沒有其他偏頭痛試驗"
+    "NCT00293657：靜脈注射 lornoxicam 治療偏頭痛急性發作的隨機雙盲安慰劑對照試驗，已完成，但 ClinicalTrials.gov 沒有 posted results、PubMed 也沒有發表，不算證據",
+    "PubMed 只有兩篇回顧（1495823、8706598），沒有已發表的偏頭痛臨床研究"
    ],
-   "rationale": "依 methodology 的 L1–L5 定義：有 1 個本藥用於偏頭痛的隨機對照試驗（已完成，結果未公開），屬 L2；結果未公開，建議決策維持 Hold。",
-   "note": "本頁引用的 [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) 是靜脈注射 lornoxicam 治療偏頭痛急性發作的隨機、雙盲、安慰劑對照 Phase 2 試驗（150 人，已完成），依 methodology「1 個 RCT」屬 L2；試驗結果未公開，療效無法確認，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。",
+   "rationale": "依 methodology 的 L1–L5 定義，只計已發表結果的本藥＋主預測研究：沒有任何已發表的偏頭痛研究，維持 L5。",
+   "note": "本頁引用的 [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) 已完成，但沒有公布結果（ClinicalTrials.gov 沒有 posted results、PubMed 沒有發表）。依用戶 2026-11-04 決定：已完成但沒有公布結果（PubMed 沒有發表、ClinicalTrials.gov 沒有 posted results）的登記試驗一律不算證據，只看已發表的結果。本藥沒有已發表的偏頭痛研究，證據等級維持 L5（撤回同日稍早的 L5→L2 升級）；原文與文獻保留不動。",
    "sources": [
     {
      "title": "TwTxGNN 研究方法：證據等級判定",
@@ -26179,30 +26178,87 @@
     {
      "title": "ClinicalTrials.gov：Study of Lornoxicam or Placebo for Acute Treatment of the Headache of Migraine（NCT00293657）",
      "url": "https://clinicaltrials.gov/study/NCT00293657",
-     "excerpt": "隨機、雙盲、安慰劑對照、平行分組；已完成，150 人；未張貼結果。",
+     "excerpt": "已完成，150 人；沒有 posted results，登記紀錄沒有結果文獻。",
      "accessed": "2026-11-04"
     }
    ],
    "searches": [
     {
      "db": "PubMed",
-     "query": "lornoxicam[tiab] AND migraine",
-     "result": "2 筆回顧（8706598、1495823），沒有已發表的偏頭痛試驗結果（2026-11-04）。",
+     "query": "lornoxicam[tiab] AND (migraine OR headache)",
+     "result": "7 筆，都是術後或肌肉骨骼疼痛試驗與回顧，沒有偏頭痛研究的結果（2026-11-04）。",
      "accessed": "2026-11-04"
     },
     {
      "db": "ClinicalTrials.gov",
-     "query": "介入 lornoxicam × 病況 migraine",
-     "result": "1 筆（NCT00293657，已完成，未張貼結果）（2026-11-04）。",
+     "query": "NCT00293657 結果",
+     "result": "hasResults=false，沒有結果文獻（2026-11-04）。",
      "accessed": "2026-11-04"
     }
    ],
-   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
-   "table_updates": [
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（含有無 posted results）→只計已發表結果的本藥＋主預測研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "checked": "2026-11-04",
+   "history": [
     {
-     "label": "證據等級",
+     "id": "lornoxicam-migraine-level-rereview-result-2026-11-04",
+     "drug": "lornoxicam",
+     "file": "lornoxicam.md",
+     "checked": "2026-11-04",
+     "action": "rereview_result",
+     "resolves": "lornoxicam-migraine-level-rereview-2026-11-04",
+     "summary": "偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果",
      "claim": "| 證據等級 | L5（依規則上限：見下方說明） |",
-     "replacement": "| 證據等級 | L2 |"
+     "prediction": "偏頭痛 (Migraine Disorder)",
+     "verdict": "upgrade",
+     "original_level": "L5",
+     "new_level": "L2",
+     "flawed_premises": [
+      "本頁以「試驗結果未提供」把等級保守判為 L5，但 methodology 依研究設計定級：已完成的隨機對照試驗屬 L2"
+     ],
+     "remaining_support": [
+      "NCT00293657：靜脈注射 lornoxicam 8 或 16 mg 對偏頭痛急性頭痛的隨機雙盲安慰劑對照單劑試驗，已完成，150 人；ClinicalTrials.gov 未張貼結果",
+      "PubMed 只有兩篇回顧（1495823、8706598），沒有其他偏頭痛試驗"
+     ],
+     "rationale": "依 methodology 的 L1–L5 定義：有 1 個本藥用於偏頭痛的隨機對照試驗（已完成，結果未公開），屬 L2；結果未公開，建議決策維持 Hold。",
+     "note": "本頁引用的 [NCT00293657](https://clinicaltrials.gov/study/NCT00293657) 是靜脈注射 lornoxicam 治療偏頭痛急性發作的隨機、雙盲、安慰劑對照 Phase 2 試驗（150 人，已完成），依 methodology「1 個 RCT」屬 L2；試驗結果未公開，療效無法確認，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。",
+     "sources": [
+      {
+       "title": "TwTxGNN 研究方法：證據等級判定",
+       "url": "https://twtxgnn.yao.care/methodology/",
+       "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+       "accessed": "2026-11-04"
+      },
+      {
+       "title": "ClinicalTrials.gov：Study of Lornoxicam or Placebo for Acute Treatment of the Headache of Migraine（NCT00293657）",
+       "url": "https://clinicaltrials.gov/study/NCT00293657",
+       "excerpt": "隨機、雙盲、安慰劑對照、平行分組；已完成，150 人；未張貼結果。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "searches": [
+      {
+       "db": "PubMed",
+       "query": "lornoxicam[tiab] AND migraine",
+       "result": "2 筆回顧（8706598、1495823），沒有已發表的偏頭痛試驗結果（2026-11-04）。",
+       "accessed": "2026-11-04"
+      },
+      {
+       "db": "ClinicalTrials.gov",
+       "query": "介入 lornoxicam × 病況 migraine",
+       "result": "1 筆（NCT00293657，已完成，未張貼結果）（2026-11-04）。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+     "table_updates": [
+      {
+       "label": "證據等級",
+       "claim": "| 證據等級 | L5（依規則上限：見下方說明） |",
+       "replacement": "| 證據等級 | L2 |"
+      }
+     ],
+     "retired": "2026-11-04",
+     "reason": "同日改判：用戶 2026-11-04 決定：已完成但沒有公布結果（PubMed 沒有發表、ClinicalTrials.gov 沒有 posted results）的登記試驗一律不算證據，只看已發表的結果。"
     }
    ]
   },
@@ -26228,7 +26284,10 @@
      "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
      "accessed": "2026-11-04"
     }
-   ]
+   ],
+   "status": "withdrawn",
+   "withdrawn_on": "2026-11-04",
+   "withdrawn_note": "同日改判：NCT00293657 沒有公布結果、不算證據，主預測維持 L5，這筆頁首／描述的 L5→L2 變更撤回。"
   },
   {
    "id": "lornoxicam-description-level-2026-11-04",
@@ -26248,7 +26307,10 @@
      "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
      "accessed": "2026-11-04"
     }
-   ]
+   ],
+   "status": "withdrawn",
+   "withdrawn_on": "2026-11-04",
+   "withdrawn_note": "同日改判：NCT00293657 沒有公布結果、不算證據，主預測維持 L5，這筆頁首／描述的 L5→L2 變更撤回。"
   },
   {
    "id": "omalizumab-bronchitis-level-rereview-2026-11-04",
@@ -26278,24 +26340,23 @@
    "id": "omalizumab-bronchitis-level-rereview-result-2026-11-04",
    "drug": "omalizumab",
    "file": "omalizumab.md",
-   "checked": "2026-11-04",
    "action": "rereview_result",
    "resolves": "omalizumab-bronchitis-level-rereview-2026-11-04",
    "summary": "支氣管炎 (Bronchitis)（主預測）證據等級重審結果",
    "claim": "| 證據等級 | L4 |",
    "prediction": "支氣管炎 (Bronchitis)",
-   "verdict": "upgrade",
+   "verdict": "downgrade",
    "original_level": "L4",
-   "new_level": "L2",
+   "new_level": "L5",
    "flawed_premises": [
-    "頁首 L4（前臨床／個案），但本頁已引用一項本藥用於嗜酸性球性支氣管炎的隨機對照試驗"
+    "頁首 L4（前臨床／個案）沒有對應的本藥支氣管炎研究；前版又把沒有公布結果的登記試驗 NCT02049294 當成 RCT 證據升為 L2"
    ],
    "remaining_support": [
-    "NCT02049294：omalizumab 對類固醇依賴、合併持續性嗜酸性球性支氣管炎病人的類固醇節省效果，隨機、三盲、安慰劑對照，已完成，11 人；未張貼結果",
-    "其餘文獻為氣喘、COPD 重疊或個案，不是支氣管炎試驗"
+    "NCT02049294：omalizumab 用於持續性嗜酸性球性支氣管炎的隨機安慰劑對照試驗，已完成，但沒有 posted results、PubMed 也沒有發表，不算證據",
+    "其餘文獻為氣喘、氣喘合併 COPD 的研究或回顧；PMID 31478531 是支氣管熱成形術後塑型性支氣管炎的個案，不是本藥治療支氣管炎"
    ],
-   "rationale": "依 methodology 的 L1–L5 定義：有 1 個本藥用於嗜酸性球性支氣管炎的隨機對照試驗（樣本很小、結果未公開），屬 L2；建議決策維持 Hold。",
-   "note": "本頁引用的 [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) 是 omalizumab 用於持續性嗜酸性球性支氣管炎的隨機、三盲、安慰劑對照試驗（11 人，已完成），依 methodology「1 個 RCT」屬 L2；樣本很小且結果未公開，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。",
+   "rationale": "依 methodology 的 L1–L5 定義，只計已發表結果的本藥＋主預測研究：沒有任何已發表的本藥支氣管炎研究，屬 L5。",
+   "note": "本頁引用的 [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) 已完成，但沒有公布結果（ClinicalTrials.gov 沒有 posted results、PubMed 沒有發表）；其餘文獻是氣喘或氣喘合併 COPD 的研究、回顧，以及一篇與本藥療效無關的塑型性支氣管炎個案。依用戶 2026-11-04 決定：已完成但沒有公布結果（PubMed 沒有發表、ClinicalTrials.gov 沒有 posted results）的登記試驗一律不算證據，只看已發表的結果。本藥沒有已發表的支氣管炎研究，證據等級改為 L5（撤回同日稍早的 L4→L2 升級）；原文與文獻保留不動。",
    "sources": [
     {
      "title": "TwTxGNN 研究方法：證據等級判定",
@@ -26306,7 +26367,7 @@
     {
      "title": "ClinicalTrials.gov：Study of the Steroid Sparing Effect of Xolair (Omalizumab) in Patients With Persistent Eosinophilic Bronchitis（NCT02049294）",
      "url": "https://clinicaltrials.gov/study/NCT02049294",
-     "excerpt": "隨機、三盲、安慰劑對照；病況為類固醇依賴氣喘與嗜酸性球性支氣管炎；已完成；未張貼結果。",
+     "excerpt": "已完成，11 人；沒有 posted results，登記紀錄沒有結果文獻。",
      "accessed": "2026-11-04"
     }
    ],
@@ -26314,22 +26375,86 @@
     {
      "db": "PubMed",
      "query": "omalizumab[tiab] AND (eosinophilic bronchitis OR bronchitis)",
-     "result": "7 筆，多為氣喘或回顧，沒有已發表的支氣管炎試驗結果（2026-11-04）。",
+     "result": "7 筆，都是氣喘、COPD 重疊、回顧或個案，沒有已發表的支氣管炎試驗結果（2026-11-04）。",
      "accessed": "2026-11-04"
     },
     {
      "db": "ClinicalTrials.gov",
-     "query": "介入 omalizumab × 病況 eosinophilic bronchitis",
-     "result": "1 筆（NCT02049294）（2026-11-04）。",
+     "query": "NCT02049294 結果",
+     "result": "hasResults=false，沒有結果文獻（2026-11-04）。",
      "accessed": "2026-11-04"
     }
    ],
-   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+   "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（含有無 posted results）→只計已發表結果的本藥＋主預測研究→依 docs/methodology.md 的 L1–L5 定義判定",
    "table_updates": [
     {
      "label": "證據等級",
      "claim": "| 證據等級 | L4 |",
-     "replacement": "| 證據等級 | L2 |"
+     "replacement": "| 證據等級 | L5 |"
+    }
+   ],
+   "checked": "2026-11-04",
+   "history": [
+    {
+     "id": "omalizumab-bronchitis-level-rereview-result-2026-11-04",
+     "drug": "omalizumab",
+     "file": "omalizumab.md",
+     "checked": "2026-11-04",
+     "action": "rereview_result",
+     "resolves": "omalizumab-bronchitis-level-rereview-2026-11-04",
+     "summary": "支氣管炎 (Bronchitis)（主預測）證據等級重審結果",
+     "claim": "| 證據等級 | L4 |",
+     "prediction": "支氣管炎 (Bronchitis)",
+     "verdict": "upgrade",
+     "original_level": "L4",
+     "new_level": "L2",
+     "flawed_premises": [
+      "頁首 L4（前臨床／個案），但本頁已引用一項本藥用於嗜酸性球性支氣管炎的隨機對照試驗"
+     ],
+     "remaining_support": [
+      "NCT02049294：omalizumab 對類固醇依賴、合併持續性嗜酸性球性支氣管炎病人的類固醇節省效果，隨機、三盲、安慰劑對照，已完成，11 人；未張貼結果",
+      "其餘文獻為氣喘、COPD 重疊或個案，不是支氣管炎試驗"
+     ],
+     "rationale": "依 methodology 的 L1–L5 定義：有 1 個本藥用於嗜酸性球性支氣管炎的隨機對照試驗（樣本很小、結果未公開），屬 L2；建議決策維持 Hold。",
+     "note": "本頁引用的 [NCT02049294](https://clinicaltrials.gov/study/NCT02049294) 是 omalizumab 用於持續性嗜酸性球性支氣管炎的隨機、三盲、安慰劑對照試驗（11 人，已完成），依 methodology「1 個 RCT」屬 L2；樣本很小且結果未公開，建議決策維持 Hold。依用戶 2026-11-04 決定（等級不符頁逐組重審），證據等級改為 L2，與其他各站同一證據包的判定一致；原文保留不動。",
+     "sources": [
+      {
+       "title": "TwTxGNN 研究方法：證據等級判定",
+       "url": "https://twtxgnn.yao.care/methodology/",
+       "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+       "accessed": "2026-11-04"
+      },
+      {
+       "title": "ClinicalTrials.gov：Study of the Steroid Sparing Effect of Xolair (Omalizumab) in Patients With Persistent Eosinophilic Bronchitis（NCT02049294）",
+       "url": "https://clinicaltrials.gov/study/NCT02049294",
+       "excerpt": "隨機、三盲、安慰劑對照；病況為類固醇依賴氣喘與嗜酸性球性支氣管炎；已完成；未張貼結果。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "searches": [
+      {
+       "db": "PubMed",
+       "query": "omalizumab[tiab] AND (eosinophilic bronchitis OR bronchitis)",
+       "result": "7 筆，多為氣喘或回顧，沒有已發表的支氣管炎試驗結果（2026-11-04）。",
+       "accessed": "2026-11-04"
+      },
+      {
+       "db": "ClinicalTrials.gov",
+       "query": "介入 omalizumab × 病況 eosinophilic bronchitis",
+       "result": "1 筆（NCT02049294）（2026-11-04）。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "method": "讀頁面總覽與 front matter 主預測→查 PubMed 與 ClinicalTrials.gov（正反證據）→只計本藥＋主預測的研究→依 docs/methodology.md 的 L1–L5 定義判定",
+     "table_updates": [
+      {
+       "label": "證據等級",
+       "claim": "| 證據等級 | L4 |",
+       "replacement": "| 證據等級 | L2 |"
+      }
+     ],
+     "retired": "2026-11-04",
+     "reason": "同日改判：用戶 2026-11-04 決定：已完成但沒有公布結果（PubMed 沒有發表、ClinicalTrials.gov 沒有 posted results）的登記試驗一律不算證據，只看已發表的結果。"
     }
    ]
   },
@@ -26337,17 +26462,16 @@
    "id": "omalizumab-header-level-2026-11-04",
    "drug": "omalizumab",
    "file": "omalizumab.md",
-   "checked": "2026-11-04",
    "action": "header_level",
    "based_on": "omalizumab-bronchitis-level-rereview-result-2026-11-04",
    "summary": "頁首證據等級",
    "original_level": "L4",
-   "new_level": "L2",
+   "new_level": "L5",
    "original_parent": "中證據等級 (L3-L4)",
-   "new_parent": "高證據等級 (L1-L2)",
+   "new_parent": "僅模型預測 (L5)",
    "original_header": "L4",
-   "basis": "快速總覽「證據等級」列重審後為 L2（omalizumab-bronchitis-level-rereview-result-2026-11-04）",
-   "note": "快速總覽的證據等級格重審後為 L2，頁首等級依總覽表重算為 L2。",
+   "basis": "快速總覽「證據等級」列重審後為 L5（omalizumab-bronchitis-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L5，頁首等級依總覽表重算為 L5。",
    "sources": [
     {
      "title": "TwTxGNN 研究方法：證據等級判定",
@@ -26355,25 +26479,78 @@
      "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
      "accessed": "2026-11-04"
     }
+   ],
+   "checked": "2026-11-04",
+   "history": [
+    {
+     "id": "omalizumab-header-level-2026-11-04",
+     "drug": "omalizumab",
+     "file": "omalizumab.md",
+     "checked": "2026-11-04",
+     "action": "header_level",
+     "based_on": "omalizumab-bronchitis-level-rereview-result-2026-11-04",
+     "summary": "頁首證據等級",
+     "original_level": "L4",
+     "new_level": "L2",
+     "original_parent": "中證據等級 (L3-L4)",
+     "new_parent": "高證據等級 (L1-L2)",
+     "original_header": "L4",
+     "basis": "快速總覽「證據等級」列重審後為 L2（omalizumab-bronchitis-level-rereview-result-2026-11-04）",
+     "note": "快速總覽的證據等級格重審後為 L2，頁首等級依總覽表重算為 L2。",
+     "sources": [
+      {
+       "title": "TwTxGNN 研究方法：證據等級判定",
+       "url": "https://twtxgnn.yao.care/methodology/",
+       "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "retired": "2026-11-04",
+     "reason": "同日改判：用戶 2026-11-04 決定：已完成但沒有公布結果（PubMed 沒有發表、ClinicalTrials.gov 沒有 posted results）的登記試驗一律不算證據，只看已發表的結果。"
+    }
    ]
   },
   {
    "id": "omalizumab-description-level-2026-11-04",
    "drug": "omalizumab",
    "file": "omalizumab.md",
-   "checked": "2026-11-04",
    "action": "description_level",
    "summary": "頁面描述（description）的證據等級",
    "original_description": "Omalizumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L4）。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）",
    "original_level": "L4",
-   "new_level": "L2",
-   "note": "頁首等級重審後為 L2；description 只把「證據等級 L4」改成「證據等級 L2」，其他文字不動。",
+   "new_level": "L5",
+   "note": "頁首等級重審後為 L5；description 只把「證據等級 L4」改成「證據等級 L5」，其他文字不動。",
    "sources": [
     {
      "title": "TwTxGNN 研究方法：證據等級判定",
      "url": "https://twtxgnn.yao.care/methodology/",
      "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
      "accessed": "2026-11-04"
+    }
+   ],
+   "checked": "2026-11-04",
+   "history": [
+    {
+     "id": "omalizumab-description-level-2026-11-04",
+     "drug": "omalizumab",
+     "file": "omalizumab.md",
+     "checked": "2026-11-04",
+     "action": "description_level",
+     "summary": "頁面描述（description）的證據等級",
+     "original_description": "Omalizumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L4）。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）",
+     "original_level": "L4",
+     "new_level": "L2",
+     "note": "頁首等級重審後為 L2；description 只把「證據等級 L4」改成「證據等級 L2」，其他文字不動。",
+     "sources": [
+      {
+       "title": "TwTxGNN 研究方法：證據等級判定",
+       "url": "https://twtxgnn.yao.care/methodology/",
+       "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+       "accessed": "2026-11-04"
+      }
+     ],
+     "retired": "2026-11-04",
+     "reason": "同日改判：用戶 2026-11-04 決定：已完成但沒有公布結果（PubMed 沒有發表、ClinicalTrials.gov 沒有 posted results）的登記試驗一律不算證據，只看已發表的結果。"
     }
    ]
   },

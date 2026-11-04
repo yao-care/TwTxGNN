@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T05:57:30.292018",
+  "generated_at": "2026-11-04T07:03:47.884592",
   "total_drugs": 291,
   "evidence_distribution": {
-    "L5": 233,
+    "L5": 235,
     "L4": 15,
     "N/A": 17,
-    "L2": 15,
+    "L2": 13,
     "L1": 2,
     "L3": 9
   },
@@ -1090,9 +1090,9 @@
     },
     {
       "drug_name": "Lornoxicam",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 8,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/lornoxicam/"
     },
     {
@@ -1300,9 +1300,9 @@
     },
     {
       "drug_name": "Omalizumab",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 10,
-      "parent_category": "高證據等級 (L1-L2)",
+      "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/omalizumab/"
     },
     {

@@ -3,10 +3,10 @@
   "total_indications": 1995,
   "level_counts": {
     "L1": 2,
-    "L2": 15,
+    "L2": 13,
     "L3": 9,
     "L4": 15,
-    "L5": 233
+    "L5": 235
   },
   "top_by_indications": [
     {
@@ -718,7 +718,7 @@
     {
       "name": "Omalizumab",
       "slug": "omalizumab",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 10,
       "prediction_score": 0,
       "nct_count": 2
@@ -1446,7 +1446,7 @@
     {
       "name": "Lornoxicam",
       "slug": "lornoxicam",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 8,
       "prediction_score": 0,
       "nct_count": 1

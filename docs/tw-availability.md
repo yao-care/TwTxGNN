@@ -183,7 +183,7 @@ permalink: /tw-availability/
 | [Levamisole](/drugs/levamisole/) | 上市中（有效許可證 4 張／共 21 張） |  | L5 |
 | [Lidocaine](/drugs/lidocaine/) | 上市中（有效許可證 147 張／共 493 張） |  | L5 |
 | [Lorcaserin](/drugs/lorcaserin/) | 未上市（已註銷許可證 2 張／共 2 張） |  | L5 |
-| [Lornoxicam](/drugs/lornoxicam/) | 上市中（有效許可證 2 張／共 5 張） |  | L2 |
+| [Lornoxicam](/drugs/lornoxicam/) | 上市中（有效許可證 2 張／共 5 張） |  | L5 |
 | [Loteprednol Etabonate](/drugs/loteprednol-etabonate/) | 上市中（有效許可證 2 張／共 2 張） |  | L5 |
 | [Lutetium Lu 177 Dotatate](/drugs/lutetium-lu-177-dotatate/) | 上市中（有效許可證 1 張／共 1 張） |  | L5 |
 | [Magnesium Sulfate](/drugs/magnesium-sulfate/) | 上市中（有效許可證 19 張／共 117 張） |  | L2 |
@@ -213,7 +213,7 @@ permalink: /tw-availability/
 | [Nitroxoline](/drugs/nitroxoline/) | 上市中（有效許可證 7 張／共 22 張） |  | L5 |
 | [Norethindrone Enanthate](/drugs/norethindrone-enanthate/) | 未上市（已註銷許可證 1 張／共 1 張） |  | N/A |
 | [Nystatin](/drugs/nystatin/) | 上市中（有效許可證 39 張／共 126 張） |  | N/A |
-| [Omalizumab](/drugs/omalizumab/) | 上市中（有效許可證 3 張／共 3 張） |  | L2 |
+| [Omalizumab](/drugs/omalizumab/) | 上市中（有效許可證 3 張／共 3 張） |  | L5 |
 | [Oteracil](/drugs/oteracil/) | 上市中（有效許可證 6 張／共 6 張） |  | N/A |
 | [Ouabain](/drugs/ouabain/) | 上市中（有效許可證 1 張／共 4 張） |  | L5 |
 | [Oxybutynin](/drugs/oxybutynin/) | 上市中（有效許可證 22 張／共 36 張） |  | L5 |
