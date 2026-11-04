@@ -29,21 +29,24 @@ nav_order: 10
 
 | Metric | Count |
 |--------|-------|
-| Drug Reports | 191 |
-| Predicted New Indications (known uses excluded) | 2,293 |
-| Predicted Indications | 1,268 |
+| Drug Reports | {{ site.data.drug_stats.total_drugs }} |
+| Predicted New Indications (known uses excluded) | {{ site.data.drug_stats.total_indications }} |
 | Drug-Drug Interactions (DDI) | 222,391 |
 | Drug-Disease Contraindications (DDSI) | 8,359 |
 
 ### Evidence Distribution
 
+{% comment %}Counts come from docs/_data/drug_stats.json (scripts/generate_drug_stats.py); do not hard-code them.{% endcomment %}
+{% assign lc = site.data.drug_stats.level_counts %}{% assign n_lv = lc.L1 | plus: lc.L2 | plus: lc.L3 | plus: lc.L4 | plus: lc.L5 %}{% assign n_na = site.data.drug_stats.total_drugs | minus: n_lv %}
+
 | Level | Definition | Drug Count |
 |-------|------------|------------|
-| L1 | Multiple Phase 3 RCTs | 6 |
-| L2 | Single RCT or Phase 2 trials | 12 |
-| L3 | Observational studies | 16 |
-| L4 | Preclinical / mechanistic | 19 |
-| L5 | AI prediction only | 138 |
+| L1 | Multiple Phase 3 RCTs | {{ lc.L1 }} |
+| L2 | Single RCT or Phase 2 trials | {{ lc.L2 }} |
+| L3 | Observational studies | {{ lc.L3 }} |
+| L4 | Preclinical / mechanistic | {{ lc.L4 }} |
+| L5 | AI prediction only | {{ lc.L5 }} |
+| N/A | [Known uses only / main prediction withdrawn]({{ '/known-uses/' | relative_url }}) | {{ n_na }} |
 
 ---
 
@@ -99,11 +102,14 @@ TwTxGNN provides a fully functional SMART on FHIR application that can be integr
 
 ### FHIR API Endpoints
 
+{% comment %}Resource counts are the files actually published under docs/fhir/; do not hard-code them.{% endcomment %}
+{% assign fhir_mk = site.static_files | where_exp: "f", "f.path contains '/fhir/MedicationKnowledge/'" %}{% assign fhir_cud = site.static_files | where_exp: "f", "f.path contains '/fhir/ClinicalUseDefinition/'" %}
+
 | Endpoint | Description |
 |----------|-------------|
 | `/fhir/metadata` | CapabilityStatement |
-| `/fhir/MedicationKnowledge/{drug-slug}.json` | Drug resource (189 drugs) |
-| `/fhir/ClinicalUseDefinition/{drug-indication}.json` | Prediction resource (1,268 predictions) |
+| `/fhir/MedicationKnowledge/{drug-slug}.json` | Drug resource ({{ fhir_mk.size }} drugs) |
+| `/fhir/ClinicalUseDefinition/{drug-indication}.json` | Prediction resource ({{ fhir_cud.size }} predictions) |
 | `/fhir/Bundle/all-predictions.json` | Complete dataset |
 
 ---
@@ -192,7 +198,3 @@ uv run python scripts/run_kg_prediction.py
 ## Disclaimer
 
 This platform is intended for **research purposes only** and does not constitute medical advice. All drug repurposing predictions require clinical validation before application. Healthcare decisions should be made in consultation with qualified medical professionals.
-
----
-
-*Last updated: 2026-03-01*
