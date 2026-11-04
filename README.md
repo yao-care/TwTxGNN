@@ -332,7 +332,7 @@ python scripts/run_txgnn_prediction.py
 | **藥品** | 台灣 FDA 藥品 | [食藥署開放資料](https://data.fda.gov.tw/data/opendata/export/36/json) | 71,545 筆藥品許可證 |
 | **知識圖譜** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 種疾病、7,957 個藥品 |
 | **藥物資料庫** | DrugBank | [DrugBank](https://go.drugbank.com/) | 藥品成分映射、DrugBank ID |
-| **藥物交互** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | 302,516 筆 DDI、857 筆 DFI、8,359 筆 DDSI |
+| **藥物交互** | DDInter（DDI：1.0 `ddinter_code_*.csv`；DFI、DDSI：2.0） | [DDInter](https://ddinter2.scbdd.com/) | 222,391 筆 DDI、857 筆 DFI、8,359 筆 DDSI |
 | **藥物交互** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | 4,689 筆核准藥物交互作用 |
 | **臨床試驗** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | 臨床試驗資料查詢 |
 | **臨床試驗** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | 國際臨床試驗平台 |

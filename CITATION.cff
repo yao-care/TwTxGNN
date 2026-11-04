@@ -13,7 +13,7 @@ abstract: >-
   (NHI) approved drugs. The platform provides 291 drug validation reports with
   evidence levels (L1-L5), integrating data from ClinicalTrials.gov, PubMed,
   DrugBank, and Taiwan FDA. It also includes comprehensive drug interaction
-  data: DDI (302,516), DDSI (8,359), DFI (857), and DHI (35).
+  data: DDI (222,391), DDSI (8,359), DFI (857), and DHI (35).
 keywords:
   - drug repurposing
   - TxGNN
