@@ -26124,6 +26124,56 @@
    ]
   },
   {
+   "id": "lacosamide-header-level-2026-11-04",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "checked": "2026-11-04",
+   "action": "header_level",
+   "based_on": "lacosamide-manic-bipolar-level-rereview-result-2026-11-04",
+   "summary": "頁首證據等級",
+   "original_level": "L5",
+   "new_level": "L3",
+   "original_parent": "僅模型預測 (L5)",
+   "new_parent": "中證據等級 (L3-L4)",
+   "original_header": "L5",
+   "basis": "快速總覽「證據等級」列重審後為 L3（lacosamide-manic-bipolar-level-rereview-result-2026-11-04）",
+   "note": "快速總覽的證據等級格重審後為 L3，頁首等級依總覽表重算為 L3。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "status": "withdrawn",
+   "withdrawn_on": "2026-11-04",
+   "withdrawn_note": "同日改判：PMID 30251375 收的是急性雙相情感障礙發作的病人（不限躁症），屬上層病的研究，主預測維持 L5（lacosamide-manic-bipolar-level-rereview-result-2026-11-04 改為 maintain），這筆頁首／描述的 L5→L3 變更撤回。"
+  },
+  {
+   "id": "lacosamide-description-level-2026-11-04",
+   "drug": "lacosamide",
+   "file": "lacosamide.md",
+   "checked": "2026-11-04",
+   "action": "description_level",
+   "summary": "頁面描述（description）的證據等級",
+   "original_description": "Lacosamide：預測新適應症為躁症型雙相情感障礙 (Manic Bipolar Affective Disorder)（證據等級 L5）。原適應症：四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療",
+   "original_level": "L5",
+   "new_level": "L3",
+   "note": "頁首等級重審後為 L3；description 只把「證據等級 L5」改成「證據等級 L3」，其他文字不動。",
+   "sources": [
+    {
+     "title": "TwTxGNN 研究方法：證據等級判定",
+     "url": "https://twtxgnn.yao.care/methodology/",
+     "excerpt": "L1：多個 Phase 3 RCT／系統性回顧；L2：單一 RCT 或多個 Phase 2 試驗；L3：觀察性研究／病例系列；L4：前臨床／機轉研究／個案報告；L5：僅模型預測，無臨床證據。",
+     "accessed": "2026-11-04"
+    }
+   ],
+   "status": "withdrawn",
+   "withdrawn_on": "2026-11-04",
+   "withdrawn_note": "同日改判：PMID 30251375 收的是急性雙相情感障礙發作的病人（不限躁症），屬上層病的研究，主預測維持 L5（lacosamide-manic-bipolar-level-rereview-result-2026-11-04 改為 maintain），這筆頁首／描述的 L5→L3 變更撤回。"
+  },
+  {
    "id": "lornoxicam-migraine-level-rereview-2026-11-04",
    "drug": "lornoxicam",
    "file": "lornoxicam.md",
