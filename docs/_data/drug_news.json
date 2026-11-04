@@ -483,6 +483,18 @@
       "count": 2
     }
   ],
+  "/drugs/ouabain/": [
+    {
+      "url": "/news/ouabain/",
+      "title": "Ouabain 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/myocardial-infarction/",
+      "title": "心梗 (myocardial infarction) 相關新聞",
+      "count": 1
+    }
+  ],
   "/drugs/oxytetracycline/": [
     {
       "url": "/news/oxytetracycline/",

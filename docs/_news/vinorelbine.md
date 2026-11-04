@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Vinorelbine 的相關健康新聞報導。原適應症：非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小...。預測適應症 10 個。"
 permalink: /news/vinorelbine/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # Vinorelbine 相關新聞
@@ -26,7 +26,7 @@ last_modified_at: 2026-11-03
 <strong>藥物資訊</strong>
 <ul>
 <li><strong>原適應症</strong>: 非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小細胞肺癌，移轉性乳癌; 1.非小細胞肺癌  2.轉移性乳癌。; 非小細胞肺癌、移轉性乳癌。; 非小細胞肺癌，轉移性乳癌。</li>
-<li><strong>證據等級</strong>: L5</li>
+<li><strong>證據等級</strong>: L3</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Ewing sarcoma</li>
 <li>fibromatosis, gingival</li>

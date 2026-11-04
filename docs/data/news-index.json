@@ -1,7 +1,32 @@
 {
-  "generated": "2026-11-04T04:00:22.789175+00:00",
-  "count": 10,
+  "generated": "2026-11-04T12:40:36.369473+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "f580f6eabfba",
+      "title": "有氧不夠！1運動每周加做2小時醫：心梗風險砍半- 健康",
+      "published": "2026-11-04T03:09:44+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13RlBDaWJjd0lXbXVvc254SE1qbVJMXzBlTDBwTjJ4TXFoR0U5X0lxNm00aVhLYi1lOTdOcG16a1BremoxbmdJTlAxb1BEaS1DNE5jc080VjFfbHpRS1R1ZWdCdG9PakdZWUFhNEx3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "31719bc14338",
       "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
