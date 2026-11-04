@@ -20,6 +20,11 @@ nav_exclude: true
 3. 簡潔、專業風格
 4. 背景純色或簡單圖案
 5. 適合在社群媒體預覽顯示
+6. 不放藥物數、候選數等數字（會過期）
+
+### 產生方式
+
+由 TxGNN 母 repo 的 `.claude/gen_og_image.py` 產生（同時輸出 og-default.svg）。
 
 ### 使用位置
 
