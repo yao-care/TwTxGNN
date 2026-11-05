@@ -34,9 +34,9 @@ permalink: /ddi/
 </tr>
 <tr>
   <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a>（核准藥物的藥物-標靶資料，不是 DDI）</td>
-  <td>4,799</td>
-  <td>2,248 個藥物（ligand）</td>
-  <td>GtoPdb 2026.3（2026-09-16 發布）</td>
+  <td>4,808</td>
+  <td>2,253 個藥物（ligand）</td>
+  <td>GtoPdb 2026.3.1（2026-10-12 發布）</td>
 </tr>
 </tbody>
 </table>
