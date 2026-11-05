@@ -446,7 +446,7 @@ ls docs/fhir/ClinicalUseDefinition/ | wc -l
 | FHIR 版本 | R4 |
 | Client ID | `twtxgnn-smart-app` |
 | 授權方式 | OAuth 2.0 with PKCE |
-| 請求權限 | `patient/MedicationRequest.read`, `patient/MedicationStatement.read` |
+| 請求權限 | `launch`, `patient/Patient.read`, `patient/MedicationRequest.read`, `patient/MedicationStatement.read`, `openid`, `fhirUser` |
 
 ### 藥物映射流程
 

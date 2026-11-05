@@ -266,7 +266,7 @@ TwTxGNN 資料庫以**台灣健保藥品**為主，而 SMART Launcher 使用的�
 | Launch URL | `https://twtxgnn.yao.care/smart/launch.html` |
 | Redirect URI | `https://twtxgnn.yao.care/smart/app.html` |
 | Client ID | `twtxgnn-smart-app` |
-| Scopes | `launch patient/MedicationRequest.read openid fhirUser` |
+| Scopes | `launch patient/Patient.read patient/MedicationRequest.read patient/MedicationStatement.read openid fhirUser` |
 
 ### 病患資料安全嗎？
 

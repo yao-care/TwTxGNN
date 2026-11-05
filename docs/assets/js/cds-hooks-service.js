@@ -27,7 +27,7 @@
       {
         hook: 'order-sign',
         title: 'TwTxGNN 藥物交互作用檢查',
-        description: '基於 DDInter 2.0 資料庫，檢查處方中的潛在藥物交互作用',
+        description: '以 15 條內建規則（參考 DDInter）檢查處方中的潛在藥物交互作用，不是完整資料庫比對',
         id: 'twtxgnn-ddi-check',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',

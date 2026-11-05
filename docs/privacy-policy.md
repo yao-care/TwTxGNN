@@ -70,6 +70,7 @@ TwTxGNN SMART App 採用<strong>純前端（Client-Side Only）</strong>架構�
 
 ```
 launch                          - EHR 啟動上下文
+patient/Patient.read            - 讀取病患基本資料（姓名、生日、性別，只在 App 中顯示）
 patient/MedicationRequest.read  - 讀取用藥處方
 patient/MedicationStatement.read - 讀取用藥陳述
 openid                          - OpenID Connect 身份驗證
