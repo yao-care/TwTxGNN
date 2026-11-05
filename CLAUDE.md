@@ -120,7 +120,11 @@ ls data/processed/integrated_predictions.csv data/processed/integration_stats.js
 - `data/processed/integrated_predictions.csv` - 整合後的預測結果
 - `data/processed/integration_stats.json` - 統計摘要
 
-**整合統計（2026-03-04）**：
+**整合統計（2026-03-04）**：下面兩張表是 2026-03-04 執行 `integrate_predictions.py --dl-threshold 0.9` 時的 `integration_stats.json`（commit e4dd734e5 記下），數字照當時紀錄、不更新；之後整合方式改過（現行 Release 的 integration_stats.json 也收 DL 分數低於 0.9 的配對，by_confidence 有 low、medium），現行 Release 的值用這行查（先還原本站 Release 的 data/）：
+
+```bash
+python3 -c "import json;print(json.load(open('data/processed/integration_stats.json')))"
+```
 
 | 指標 | 數值 |
 |------|------|
@@ -348,7 +352,7 @@ uv run python scripts/build_rxnorm_synonyms.py
 
 | 來源 | 網址 | 涵蓋範圍 |
 |------|------|----------|
-| DDInter | https://ddinter2.scbdd.com | 網站統計 302,516 DDI、2,310 藥物（DDInter 2.0）；下載檔 `ddinter_code_*.csv` 是 222,383 列資料、160,235 組藥物配對、1,939 個藥名 |
+| DDInter | https://ddinter2.scbdd.com | 網站統計 302,516 DDI、2,310 藥物（DDInter 2.0 網站自己的數字）；本站用的下載檔 `ddinter_code_*.csv` 的列數、配對數、藥名數見下方查詢指令 |
 | Guide to PHARMACOLOGY | https://www.guidetopharmacology.org/download.jsp | 核准藥物的藥物–標靶資料（不是 DDI） |
 
 ### 更新 DDI 資料
@@ -380,8 +384,15 @@ data/external/ddi/
 
 ### 上次更新時間
 
-- DDInter 下載檔: 2026-02-08（8 個 `ddinter_code_*.csv`，222,391 行＝222,383 列資料＋8 個標題列；160,235 組不重複藥物配對、1,939 個藥名）。1.0 與 2.0 下載頁提供的是同一組檔案（2026-11-05 比對位元組一致），檔案本身不標版本，所以不寫版本號
-- Guide to PHARMACOLOGY: GtoPdb 2026.3.1（2026-10-12 發布），4,808 筆核准藥物的藥物–標靶資料（檔案 4,810 行＝版本列＋標題列＋4,808 列；2026-11-05 經 replace-gtopdb.yml 換進 Release data-20261105-123754，藥物報告尚未用新版重產）
+- DDInter 下載檔: 2026-02-08（8 個 `ddinter_code_*.csv`，每檔第一行是標題列）。1.0 與 2.0 下載頁提供的是同一組檔案（2026-11-05 比對位元組一致），檔案本身不標版本，所以不寫版本號
+- Guide to PHARMACOLOGY: 檔案第一行是版本註記（版本與發布日），第二行是標題列；2026-11-05 經 replace-gtopdb.yml 換進 Release（哪一版見 site_data 的 gtopdb_release），藥物報告尚未用新版重產
+- 現在的筆數、版本（2026-11-05 起不在這裡寫死）記在 `.github/ddi-versions.json` 的 site_data，網站頁面經 `scripts/sync_ddi_sources.py` 讀同一份；查目前記的值：
+
+  ```bash
+  python3 -c "import json;sd=json.load(open('.github/ddi-versions.json'))['site_data'];print({k:v for k,v in sd.items() if not k.endswith(('note','files'))})"
+  ```
+
+  要從資料檔重算，照 site_data.note 裡每個欄位的指令跑（先還原本站 Release 的 data/）。
 
 > **提醒**：DDI 資料會定期更新，建議每季檢查是否有新版本。
 

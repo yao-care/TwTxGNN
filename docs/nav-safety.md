@@ -125,12 +125,15 @@ redirect_from:
 .safety-card.dhi .safety-card-badge { background: #FFF3E0; color: #E65100; }
 </style>
 
+{% comment %} 分布條寬度＝各類筆數／四類合計（2026-11-05 起由 site.data.ddi_sources 算，不寫死） {% endcomment %}
+{% assign dsrc = site.data.ddi_sources %}
+{% assign dist_total = dsrc.ddinter_rows | plus: dsrc.ddsi_records | plus: dsrc.dfi_records | plus: dsrc.dhi_records | times: 1.0 %}
 <div class="safety-dist-container">
   <div class="safety-dist-bar">
-    <a href="{{ '/ddi/' | relative_url }}" class="dist-ddi" style="width: 96%;" title="藥物-藥物交互作用：{{ site.data.ddi_sources.display.ddinter_rows }} 筆">DDI {{ site.data.ddi_sources.ddinter_rows | divided_by: 10000 }}萬</a>
-    <a href="{{ '/ddsi/' | relative_url }}" class="dist-ddsi" style="width: 3.6%;" title="藥物-疾病注意事項：{{ site.data.ddi_sources.display.ddsi_records }} 筆"></a>
-    <a href="{{ '/dfi/' | relative_url }}" class="dist-dfi" style="width: 0.4%;" title="藥物-食物交互作用：{{ site.data.ddi_sources.display.dfi_records }} 筆"></a>
-    <a href="{{ '/dhi/' | relative_url }}" class="dist-dhi" style="width: 0.01%;" title="藥物-草藥交互作用：{{ site.data.ddi_sources.display.dhi_records }} 筆"></a>
+    <a href="{{ '/ddi/' | relative_url }}" class="dist-ddi" style="width: {{ dsrc.ddinter_rows | times: 100 | divided_by: dist_total | round: 2 }}%;" title="藥物-藥物交互作用：{{ site.data.ddi_sources.display.ddinter_rows }} 筆">DDI {{ site.data.ddi_sources.ddinter_rows | divided_by: 10000 }}萬</a>
+    <a href="{{ '/ddsi/' | relative_url }}" class="dist-ddsi" style="width: {{ dsrc.ddsi_records | times: 100 | divided_by: dist_total | round: 2 }}%;" title="藥物-疾病注意事項：{{ site.data.ddi_sources.display.ddsi_records }} 筆"></a>
+    <a href="{{ '/dfi/' | relative_url }}" class="dist-dfi" style="width: {{ dsrc.dfi_records | times: 100 | divided_by: dist_total | round: 2 }}%;" title="藥物-食物交互作用：{{ site.data.ddi_sources.display.dfi_records }} 筆"></a>
+    <a href="{{ '/dhi/' | relative_url }}" class="dist-dhi" style="width: {{ dsrc.dhi_records | times: 100 | divided_by: dist_total | round: 2 }}%;" title="藥物-草藥交互作用：{{ site.data.ddi_sources.display.dhi_records }} 筆"></a>
   </div>
 
   <div class="safety-cards">
