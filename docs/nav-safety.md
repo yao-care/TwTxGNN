@@ -127,7 +127,7 @@ redirect_from:
 
 <div class="safety-dist-container">
   <div class="safety-dist-bar">
-    <a href="{{ '/ddi/' | relative_url }}" class="dist-ddi" style="width: 96%;" title="藥物-藥物交互作用：222,391 筆">DDI 22萬</a>
+    <a href="{{ '/ddi/' | relative_url }}" class="dist-ddi" style="width: 96%;" title="藥物-藥物交互作用：222,383 筆">DDI 22萬</a>
     <a href="{{ '/ddsi/' | relative_url }}" class="dist-ddsi" style="width: 3.6%;" title="藥物-疾病注意事項：8,359 筆"></a>
     <a href="{{ '/dfi/' | relative_url }}" class="dist-dfi" style="width: 0.4%;" title="藥物-食物交互作用：857 筆"></a>
     <a href="{{ '/dhi/' | relative_url }}" class="dist-dhi" style="width: 0.01%;" title="藥物-草藥交互作用：35 筆"></a>
@@ -184,11 +184,11 @@ redirect_from:
 
 ## 資料來源
 
-所有交互作用資料主要來自 [DDInter](https://ddinter2.scbdd.com/)（DDI 用 DDInter 1.0 的 `ddinter_code_*.csv` 下載檔，DDSI、DFI 來自 DDInter 2.0），這是目前最完整的公開藥物交互作用資料庫。
+所有交互作用資料主要來自 [DDInter](https://ddinter2.scbdd.com/)（DDI 用 DDInter 的 `ddinter_code_*.csv` 下載檔，DDSI、DFI 來自 DDInter 2.0），這是目前最完整的公開藥物交互作用資料庫。
 
 | 類型 | 資料來源 | 記錄數 | 最後更新 |
 |------|----------|--------|----------|
-| DDI | DDInter 1.0（`ddinter_code_*.csv`） | 222,391 | 2026-02-08 |
+| DDI | DDInter 下載檔（`ddinter_code_*.csv`） | 222,383 | 2026-02-08 |
 | DDSI | DDInter 2.0 | 8,359 | 2026-02-21 |
 | DFI | DDInter 2.0 | 857 | 2026-02-21 |
 | DHI | 精選資料集 | 35 | 2026-02-21 |

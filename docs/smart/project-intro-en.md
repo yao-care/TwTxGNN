@@ -21,7 +21,7 @@ nav_order: 10
 | **Five-Level Evidence Classification** | L1 (multiple Phase 3 RCTs) to L5 (AI prediction only) |
 | **SMART on FHIR Integration** | Ready-to-use app for EHR integration |
 | **FHIR R4 API** | Static FHIR resources for external system integration |
-| **Comprehensive Safety Data** | 222,391 DDI records, 8,359 DDSI records |
+| **Comprehensive Safety Data** | 222,383 DDI records, 8,359 DDSI records |
 
 ---
 
@@ -31,7 +31,7 @@ nav_order: 10
 |--------|-------|
 | Drug Reports | {{ site.data.drug_stats.total_drugs }} |
 | Predicted New Indications (known uses excluded) | {{ site.data.drug_stats.total_indications }} |
-| Drug-Drug Interactions (DDI) | 222,391 |
+| Drug-Drug Interactions (DDI) | 222,383 |
 | Drug-Disease Contraindications (DDSI) | 8,359 |
 
 ### Evidence Distribution
@@ -66,7 +66,7 @@ nav_order: 10
 | PubMed | Biomedical literature (PMIDs) |
 | DrugBank | Drug properties and interactions |
 | TFDA | Taiwan FDA approval status |
-| DDInter 2.0 | Drug-drug interactions |
+| DDInter (DDI download files; DDSI and DFI from the DDInter 2.0 API) | Drug interactions |
 | Disease Ontology | Disease classification (DOIDs) |
 
 ### Technical Implementation

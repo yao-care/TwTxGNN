@@ -9,14 +9,14 @@ permalink: /privacy-policy/
 
 # 隱私權政策
 
-**最後更新日期**：2026 年 2 月 27 日
+**最後更新日期**：2026 年 11 月 5 日
 
 ---
 
 ## 概述
 
 <p class="key-answer" data-question="TwTxGNN 如何處理我的資料？">
-TwTxGNN SMART App 是一個<strong>純前端應用程式</strong>，所有資料處理都在您的瀏覽器中進行。我們<strong>不收集、不儲存、不傳輸</strong>任何病患的個人健康資訊 (PHI) 到我們的伺服器。
+TwTxGNN SMART App 是一個<strong>純前端應用程式</strong>，本站沒有後端伺服器處理病患資料。我們<strong>不收集、不儲存、不傳輸</strong>任何病患的個人健康資訊 (PHI) 到我們的伺服器；但為了對應藥名，App 會把藥品的 RxNorm 代碼送到美國國家醫學圖書館（NLM）的 RxNav，這個代碼不含病患身分。
 </p>
 
 ---
@@ -37,8 +37,8 @@ TwTxGNN SMART App 是一個<strong>純前端應用程式</strong>，所有資料
 <ol class="actionable-steps">
 <li><strong>EHR 授權</strong>：您從電子病歷系統 (EHR) 啟動 TwTxGNN SMART App</li>
 <li><strong>本地處理</strong>：應用程式在您的瀏覽器中讀取用藥資料</li>
-<li><strong>本地查詢</strong>：藥物映射和老藥新用查詢完全在瀏覽器中完成</li>
-<li><strong>無資料外傳</strong>：病患資料不會離開您的瀏覽器</li>
+<li><strong>本地查詢與藥名對應</strong>：老藥新用查詢在瀏覽器中完成；藥物映射會把藥品的 RxNorm 代碼送到 NLM 的 RxNav 查成分名稱（不含病患身分）</li>
+<li><strong>不送到本站伺服器</strong>：病患身分與電子病歷資料不會送到本站伺服器（本站是靜態網站，沒有後端）；您要求查詢臨床試驗時，送到 ClinicalTrials.gov 的是藥名與適應症名稱</li>
 </ol>
 
 ---
@@ -56,7 +56,7 @@ TwTxGNN SMART App 採用<strong>純前端（Client-Side Only）</strong>架構�
 | 伺服器端處理 | 無 |
 | 資料庫 | 無（使用靜態 JSON 檔案） |
 | 病患資料儲存 | 無 |
-| Session 儲存 | 僅在瀏覽器記憶體中，關閉即清除 |
+| Session 儲存 | 僅在瀏覽器（記憶體與 sessionStorage），關閉分頁即清除 |
 
 ### OAuth 2.0 安全授權
 
@@ -99,14 +99,14 @@ fhirUser                        - 使用者資訊
 
 ### 我們的網站
 
-TwTxGNN 網站（twtxgnn.yao.care）可能使用以下分析工具：
+TwTxGNN 網站（twtxgnn.yao.care）使用 Google Analytics 4 分析 Cookie 統計使用情況：
 
-- **匿名流量統計**：頁面瀏覽數、訪客來源等
-- **無個人識別**：不追蹤個別使用者行為
+- **流量統計**：頁面瀏覽數、訪客來源、捲動深度、停留時間，以及點擊藥物報告與引用來源的次數
+- **分析 Cookie**：載入頁面時設定 GA4 的分析 Cookie（如 `_ga`）；不傳送搜尋字詞、表單內容與網址查詢參數
 
 ### SMART App
 
-SMART App 頁面和網站其他頁面一樣載入 Google Analytics 4，只記錄頁面瀏覽；病患資料、搜尋字詞與網址查詢參數不會送出。
+SMART App 頁面和網站其他頁面一樣載入 Google Analytics 4，記錄頁面瀏覽與捲動、停留時間等使用情況；病患資料、搜尋字詞與網址查詢參數不會送出。
 
 ---
 
@@ -116,14 +116,14 @@ SMART App 頁面和網站其他頁面一樣載入 Google Analytics 4，只記錄
 
 | 儲存位置 | 內容 | 存續時間 |
 |----------|------|----------|
-| 瀏覽器記憶體 | OAuth token、用藥資料 | 關閉分頁即清除 |
+| 瀏覽器記憶體 | 用藥資料 | 關閉分頁即清除 |
 | Local Storage | 無 | 不使用 |
-| Session Storage | 無 | 不使用 |
-| Cookies | 無 | 不使用 |
+| Session Storage | SMART App 的 EHR 授權狀態（含 OAuth token，由 SMART on FHIR 用戶端程式庫寫入） | 關閉分頁即清除 |
+| Cookies | Google Analytics 4 分析 Cookie（如 `_ga`） | 依 GA4 預設，最長 2 年 |
 
 ### 伺服器端儲存
 
-**無**。我們沒有後端伺服器，不儲存任何使用者或病患資料。
+**無**。我們沒有後端伺服器，不儲存任何使用者或病患資料。網站使用統計由 Google Analytics 4 保存，見「網站分析」。
 
 ---
 
@@ -134,8 +134,8 @@ SMART App 頁面和網站其他頁面一樣載入 Google Analytics 4，只記錄
 <div class="key-takeaway">
 <strong>隱私保護措施</strong>
 <ul>
-<li>無 PHI 傳輸至外部伺服器</li>
-<li>純前端處理，資料不離開瀏覽器</li>
+<li>不把病患身分傳到外部伺服器：送到外部服務的只有藥品 RxNorm 代碼（RxNav），以及您要求查詢時的藥名與適應症名稱（ClinicalTrials.gov）</li>
+<li>純前端處理，本站沒有後端伺服器接收病患資料</li>
 <li>使用加密連線 (HTTPS)</li>
 <li>OAuth 2.0 + PKCE 安全授權</li>
 <li>最小權限原則</li>
@@ -157,7 +157,7 @@ TwTxGNN 是開源專案，您可以檢視完整的程式碼：
 
 ## 兒童隱私
 
-本應用程式不特別針對 13 歲以下兒童設計，但作為醫療輔助工具，可能用於顯示兒科病患的用藥資訊。無論使用者年齡，我們都不收集任何個人資料。
+本應用程式不特別針對 13 歲以下兒童設計，但作為醫療輔助工具，可能用於顯示兒科病患的用藥資訊。無論使用者年齡，我們都不收集病患的個人資料；網站使用統計見「網站分析」。
 
 ---
 

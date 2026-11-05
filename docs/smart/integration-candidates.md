@@ -122,7 +122,7 @@ nav_order: 6
 | 3 | **Tizanidine DDI-CDS App** | DDI-CDS.org | R4 | 替扎尼定與 CYP1A2 抑制劑的交互作用警示 | 當預測候選藥物為替扎尼定時，提示交互作用風險 | 無 |
 
 **整合建議**：
-- TwTxGNN 已有 DDInter + Guide to PHARMACOLOGY 的 DDI 資料
+- TwTxGNN 已有 DDInter 的 DDI 資料，另有 Guide to PHARMACOLOGY 的藥物–標靶資料
 - 可參考 DDI-CDS 的**警示設計模式**和**視覺化呈現方式**
 - 這 3 個 App 展示了如何將 DDI 資訊整合到臨床決策流程中
 - AHRQ 資助的學術專案
@@ -528,7 +528,7 @@ application.
 Our Project:
 - TwTxGNN: Drug repurposing predictions using the TxGNN graph neural network
 - FHIR R4 compatible SMART App
-- Currently integrates DDInter and Guide to PHARMACOLOGY DDI data
+- Currently integrates DDInter DDI data and Guide to PHARMACOLOGY drug–target data
 
 Collaboration Goals:
 1. Reference DDI-CDS alert design patterns for clinical decision support
@@ -748,7 +748,7 @@ TwTxGNN Team
 | 合作對象 | 相關疾病領域 | TwTxGNN 資料量 |
 |----------|-------------|----------------|
 | RTI Wellmine | Rare Diseases | 101 藥物、101 適應症 |
-| DDI-CDS.org | 所有領域（DDI 警示） | 222,391 筆 DDI |
+| DDI-CDS.org | 所有領域（DDI 警示） | 222,383 筆 DDI |
 | Dr. Ted Pincus (ClinDat) | Autoimmune | 17 藥物、16 適應症 |
 | Aditus (Lupus Advisor) | Autoimmune | 17 藥物、16 適應症 |
 | OM1 (Depression) | Psychiatric | 14 藥物、8 適應症 |

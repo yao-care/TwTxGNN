@@ -482,7 +482,7 @@ DDI-CDS.org 開發了多個藥物交互作用應用：
 - **DDInteract**：華法林 + NSAIDs 出血風險
 - **Tizanidine DDI-CDS App**：替扎尼定 + CYP1A2 抑制劑
 
-**參考價值**：TwTxGNN 已有 DDI 資料（DDInter + Guide to PHARMACOLOGY），可考慮整合為類似的 CDS 警示功能。
+**參考價值**：TwTxGNN 已有 DDInter 的 DDI 資料（另有 Guide to PHARMACOLOGY 的藥物–標靶資料），可考慮整合為類似的 CDS 警示功能。
 
 #### 2. 風險計算視覺化
 

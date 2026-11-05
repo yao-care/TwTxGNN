@@ -3,14 +3,14 @@ layout: default
 title: 藥物交互作用
 parent: 安全性資料
 nav_order: 1
-description: "TwTxGNN 藥物交互作用資料：DDInter 1.0 下載檔共 222,391 筆藥物-藥物交互作用，另附 Guide to PHARMACOLOGY 的藥物標靶資料，協助評估老藥新用的安全性。"
+description: "TwTxGNN 藥物交互作用資料：DDInter 下載檔共 222,383 筆藥物-藥物交互作用，另附 Guide to PHARMACOLOGY 的藥物標靶資料，協助評估老藥新用的安全性。"
 permalink: /ddi/
 ---
 
 # 藥物交互作用 (DDI)
 
 <p class="key-answer" data-question="TwTxGNN 有哪些藥物交互作用資料？">
-本平台的藥物-藥物交互作用（DDI）資料來自 <strong>DDInter 1.0</strong> 的 <code>ddinter_code_*.csv</code> 下載檔，共 <strong>222,391 筆</strong>，涵蓋 1,939 個藥物名稱。藥物報告另外列出 <strong>Guide to PHARMACOLOGY</strong> 的核准藥物標靶資料（藥物-標靶，不是藥物-藥物交互作用，也沒有嚴重度分級），協助研究人員在評估老藥新用時考量安全性因素。
+本平台的藥物-藥物交互作用（DDI）資料來自 <strong>DDInter</strong> 的 <code>ddinter_code_*.csv</code> 下載檔，共 <strong>222,383 筆</strong>（160,235 組不重複藥物配對），涵蓋 1,939 個藥物名稱。藥物報告另外列出 <strong>Guide to PHARMACOLOGY</strong> 的核准藥物標靶資料（藥物-標靶，不是藥物-藥物交互作用，也沒有嚴重度分級），協助研究人員在評估老藥新用時考量安全性因素。
 </p>
 
 <div class="key-takeaway">
@@ -27,8 +27,8 @@ permalink: /ddi/
 </thead>
 <tbody>
 <tr>
-  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 1.0</a>（<code>ddinter_code_*.csv</code>，藥物-藥物交互作用）</td>
-  <td>222,391</td>
+  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter</a> 下載檔（<code>ddinter_code_*.csv</code>，藥物-藥物交互作用）</td>
+  <td>222,383</td>
   <td>1,939 個藥物名稱</td>
   <td>2026-02-08 下載</td>
 </tr>

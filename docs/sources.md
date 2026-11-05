@@ -166,7 +166,7 @@ TxGNN 是由哈佛醫學院 Marinka Zitnik 教授團隊開發的藥物再利用�
 ### DDInter
 
 - **網址**：[https://ddinter2.scbdd.com/](https://ddinter2.scbdd.com/)
-- **規模**：本站使用 222,391 筆 DDI（DDInter 1.0 的 `ddinter_code_*.csv`，2026-02-08 下載）、1,939 個藥物名稱；DDSI、DFI 來自 DDInter 2.0
+- **規模**：本站使用 222,383 筆 DDI（DDInter 的 `ddinter_code_*.csv` 下載檔，2026-02-08 下載；160,235 組不重複藥物配對）、1,939 個藥物名稱；DDSI、DFI 來自 DDInter 2.0
 - **用途**：藥物-藥物交互作用資訊
 
 ### Guide to PHARMACOLOGY (GtoPdb)
@@ -179,7 +179,7 @@ TxGNN 是由哈佛醫學院 Marinka Zitnik 教授團隊開發的藥物再利用�
 
 | 來源 | 筆數 | 版本／下載日期 |
 |------|---------|----------|
-| DDInter | 222,391 筆 | 2026-02-08 |
+| DDInter | 222,383 筆 | 2026-02-08 |
 | GtoPdb（藥物-標靶） | 4,799 筆 | 2026.3（2026-09-16 發布） |
 
 ---

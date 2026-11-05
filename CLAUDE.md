@@ -347,8 +347,8 @@ uv run python scripts/build_rxnorm_synonyms.py
 
 | 來源 | 網址 | 涵蓋範圍 |
 |------|------|----------|
-| DDInter 2.0 | https://ddinter2.scbdd.com | 302,516 DDI、2,310 藥物 |
-| Guide to PHARMACOLOGY | https://www.guidetopharmacology.org/download.jsp | 核准藥物交互作用 |
+| DDInter | https://ddinter2.scbdd.com | 網站統計 302,516 DDI、2,310 藥物（DDInter 2.0）；下載檔 `ddinter_code_*.csv` 是 222,383 列資料、160,235 組藥物配對、1,939 個藥名 |
+| Guide to PHARMACOLOGY | https://www.guidetopharmacology.org/download.jsp | 核准藥物的藥物–標靶資料（不是 DDI） |
 
 ### 更新 DDI 資料
 
@@ -361,26 +361,26 @@ mkdir -p data/external/ddi/pharmacology
 curl -L -o data/external/ddi/pharmacology/approved_drug_detailed_interactions.csv \
   "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv"
 
-# DDInter 2.0 需從網站手動下載：
-# 1. 訪問 https://ddinter2.scbdd.com/download/
-# 2. 下載 DDI 資料集（CSV 或 JSON 格式）
-# 3. 放置到 data/external/ddi/ddinter/
+# DDInter 需從網站手動下載：
+# 1. 訪問 https://ddinter2.scbdd.com/download/（1.0 的 ddinter.scbdd.com/download/ 提供同一組檔案）
+# 2. 下載 8 個 ddinter_downloads_code_{A,B,D,H,L,P,R,V}.csv
+# 3. 改名為 ddinter_code_{A,...}.csv，放置到 data/external/ddi/ddinter/
 ```
 
 ### 資料檔案結構
 
 ```
 data/external/ddi/
-├── ddinter/                    # DDInter 2.0 資料
-│   └── ddinter_downloads.csv   # DDI 資料集
+├── ddinter/                    # DDInter 下載檔
+│   └── ddinter_code_*.csv      # DDI 資料集（8 檔，依 ATC 分類）
 └── pharmacology/               # Guide to PHARMACOLOGY 資料
-    └── approved_drug_detailed_interactions.csv  # 核准藥物交互作用
+    └── approved_drug_detailed_interactions.csv  # 核准藥物的藥物–標靶資料
 ```
 
 ### 上次更新時間
 
-- DDInter 1.0: 2026-02-08 (222,391 筆 DDI)
-- Guide to PHARMACOLOGY: 2026-02-25 (v2025.4, 4,636 筆)
+- DDInter 下載檔: 2026-02-08（8 個 `ddinter_code_*.csv`，222,391 行＝222,383 列資料＋8 個標題列；160,235 組不重複藥物配對、1,939 個藥名）。1.0 與 2.0 下載頁提供的是同一組檔案（2026-11-05 比對位元組一致），檔案本身不標版本，所以不寫版本號
+- Guide to PHARMACOLOGY: GtoPdb 2026.3（2026-09-16 發布），4,799 筆核准藥物的藥物–標靶資料（檔案 4,801 行＝版本列＋標題列＋4,799 列）
 
 > **提醒**：DDI 資料會定期更新，建議每季檢查是否有新版本。
 

@@ -11,7 +11,7 @@ nav_exclude: true
 
 | 類型 | 資料來源 | 記錄數 | 最後更新 | 授權 |
 |------|----------|--------|----------|------|
-| DDI (藥物-藥物) | DDInter 1.0（`ddinter_code_*.csv`） | 222,391 | 2026-02-08 | CC BY-NC-SA 4.0 |
+| DDI (藥物-藥物) | DDInter 下載檔（`ddinter_code_*.csv`） | 222,383 | 2026-02-08 | CC BY-NC-SA 4.0 |
 | DFI (藥物-食物) | DDInter 2.0 | 857 | 2026-02-21 | CC BY-NC-SA 4.0 |
 | DDSI (藥物-疾病) | DDInter 2.0 | 8,359 | 2026-02-21 | CC BY-NC-SA 4.0 |
 | DHI (藥物-草藥) | 精選資料集 | 35 | 2026-02-21 | - |
@@ -20,9 +20,10 @@ nav_exclude: true
 
 ## DDI - 藥物-藥物交互作用
 
-### 資料來源：DDInter 2.0
+### 資料來源：DDInter（下載檔）
 
 - **網站**：https://ddinter2.scbdd.com/
+- **版本**：本站的 `ddinter_code_*.csv` 與 DDInter 1.0（ddinter.scbdd.com）、2.0（ddinter2.scbdd.com）下載頁提供的檔案相同（2026-11-05 比對位元組一致），檔案本身不標版本；共 222,383 列資料、160,235 組不重複藥物配對、1,939 個藥名
 - **論文**：[DDInter 2.0 (Nucleic Acids Research, 2024)](https://academic.oup.com/nar/article/53/D1/D1356/7740584)
 - **授權**：CC BY-NC-SA 4.0
 

@@ -36,8 +36,8 @@ TwTxGNN SMART App 整合了多個外部資源，提供更完整的臨床決策�
 
 | 資源 | 說明 | 連結 |
 |------|------|------|
-| **DDInter** | 內建規則參考 DDInter；藥物報告的 DDI 用 DDInter 1.0 下載檔（222,391 筆，見[安全性資料]({{ '/nav-safety/' | relative_url }})） | [DDInter 網站](https://ddinter2.scbdd.com/) |
-| **Guide to PHARMACOLOGY** | IUPHAR/BPS 藥理學指南，藥物報告使用其核准藥物交互作用資料；頁面即時檢查不使用 | [官方網站](https://www.guidetopharmacology.org/) |
+| **DDInter** | 內建規則參考 DDInter；藥物報告的 DDI 用 DDInter 下載檔（222,383 筆，見[安全性資料]({{ '/nav-safety/' | relative_url }})） | [DDInter 網站](https://ddinter2.scbdd.com/) |
+| **Guide to PHARMACOLOGY** | IUPHAR/BPS 藥理學指南，藥物報告使用其核准藥物的藥物–標靶資料（不是 DDI）；頁面即時檢查不使用 | [官方網站](https://www.guidetopharmacology.org/) |
 
 ### 警示等級
 

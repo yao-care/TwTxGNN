@@ -126,7 +126,7 @@ curl https://twtxgnn.yao.care/fhir/MedicationKnowledge/warfarin.json
 ## 隱私與安全
 
 - **無資料儲存**：應用程式不會在伺服器端儲存任何病患資料
-- **純前端處理**：所有資料處理都在瀏覽器中進行
+- **純前端處理**：本站沒有後端，病患資料不會送到本站伺服器；為了對應藥名，會把藥品的 RxNorm 代碼（不含病患身分）送到美國 NLM 的 RxNav，查詢臨床試驗時把藥名與適應症名稱送到 ClinicalTrials.gov
 - **PKCE 保護**：使用 OAuth 2.0 PKCE 流程確保授權安全
 - **最小權限**：只請求必要的讀取權限
 

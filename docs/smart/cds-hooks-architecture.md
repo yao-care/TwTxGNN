@@ -7,6 +7,8 @@ nav_order: 14
 
 # TwTxGNN CDS Hooks 架構設計
 
+> **規劃文件**：本頁為規劃文件，所述服務（包括 `cds.twtxgnn.yao.care` 端點與 Cloudflare Workers 部署）尚未部署；本站目前僅提供 [cds-services.json]({{ '/cds-hooks/cds-services.json' | relative_url }}) 服務描述與[瀏覽器內的示範]({{ '/cds-hooks/demo.html' | relative_url }})。
+
 本文件定義 TwTxGNN 的 CDS Hooks 服務架構，用於在 EHR 工作流程中提供老藥新用建議和 DDI 警示。
 
 ---

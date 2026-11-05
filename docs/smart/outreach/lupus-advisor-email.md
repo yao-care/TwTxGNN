@@ -86,7 +86,7 @@ GET https://twtxgnn.yao.care/fhir/MedicationKnowledge/hydroxychloroquine.json
 |---------|-------------|
 | **Expanded Options** | AI-identified candidates beyond standard guidelines |
 | **Evidence-Based** | Each prediction validated against clinical data |
-| **Safety Integrated** | DDI checking for 222,391 drug pairs |
+| **Safety Integrated** | DDI checking for 160,235 drug pairs |
 | **Trial Links** | Direct connection to relevant clinical trials |
 
 ### Next Steps

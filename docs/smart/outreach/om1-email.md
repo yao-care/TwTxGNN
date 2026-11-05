@@ -41,7 +41,7 @@ TwTxGNN is an open-source drug repurposing platform that uses Harvard's TxGNN gr
 **Platform Stats:**
 - 189 total drugs analyzed
 - 1,268 predicted new indications
-- 222,391 DDI records for safety checking
+- 222,383 DDI records for safety checking
 
 **Website:** https://twtxgnn.yao.care/
 **GitHub:** https://github.com/yao-care/TwTxGNN
@@ -87,7 +87,7 @@ We understand the sensitivity of psychiatric medications. TwTxGNN includes:
 
 | Safety Feature | Implementation |
 |----------------|----------------|
-| DDI Checking | 222,391 drug pairs from DDInter |
+| DDI Checking | 160,235 drug pairs from DDInter |
 | Evidence Levels | L1-L5 classification |
 | Disclaimers | Clear research-only labeling |
 | References | ClinicalTrials.gov + PubMed links |
