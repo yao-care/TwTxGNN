@@ -32,7 +32,7 @@ TwTxGNN is an open-source platform that provides AI-powered drug repurposing pre
 **Current DDI Capabilities:**
 - DDInter (download files): {{ site.data.ddi_sources.display.ddinter_rows }} drug-drug interaction records ({{ site.data.ddi_sources.display.ddinter_unique_pairs }} unique drug pairs)
 - Guide to PHARMACOLOGY (GtoPdb {{ site.data.ddi_sources.gtopdb_version }}): {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} approved-drug target records (drug–target data, not interactions)
-- Drug-Disease Contraindications (DDSI): 8,359 records
+- Drug-Disease Contraindications (DDSI): {{ site.data.ddi_sources.display.ddsi_records }} records
 
 **Platform Stats:**
 - 189 drugs with repurposing predictions
@@ -122,9 +122,9 @@ https://twtxgnn.yao.care/
 |----------|------|----------|
 | DDInter（下載檔） | {{ site.data.ddi_sources.display.ddinter_rows }} | {{ site.data.ddi_sources.display.ddinter_drug_names }} 個藥名的 DDI（{{ site.data.ddi_sources.display.ddinter_unique_pairs }} 組藥物配對） |
 | Guide to PHARMACOLOGY（GtoPdb {{ site.data.ddi_sources.gtopdb_version }}） | {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} | 核准藥物的藥物–標靶資料（不是交互作用） |
-| DDSI（藥物-疾病禁忌） | 8,359 | 疾病禁忌用藥 |
-| DFI（藥物-食物） | 857 | 食物交互作用 |
-| DHI（藥物-草藥） | 35 | 草藥交互作用 |
+| DDSI（藥物-疾病禁忌） | {{ site.data.ddi_sources.display.ddsi_records }} | 疾病禁忌用藥 |
+| DFI（藥物-食物） | {{ site.data.ddi_sources.display.dfi_records }} | 食物交互作用 |
+| DHI（藥物-草藥） | {{ site.data.ddi_sources.display.dhi_records }} | 草藥交互作用 |
 
 ---
 

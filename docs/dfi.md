@@ -10,7 +10,7 @@ permalink: /dfi/
 # 藥物-食物交互作用 (DFI)
 
 <p class="key-answer" data-question="什麼是藥物-食物交互作用？">
-<strong>藥物-食物交互作用（Drug-Food Interaction, DFI）</strong> 是指食物成分影響藥物吸收、代謝或療效的現象。本平台整合 DDInter 2.0 的 <strong>857 筆</strong> DFI 資料，涵蓋 <strong>29 種常見食物</strong>，幫助研究人員了解飲食對藥物的影響。
+<strong>藥物-食物交互作用（Drug-Food Interaction, DFI）</strong> 是指食物成分影響藥物吸收、代謝或療效的現象。本平台整合 DDInter 2.0 的 <strong>{{ site.data.ddi_sources.display.dfi_records }} 筆</strong> DFI 資料，涵蓋 <strong>{{ site.data.ddi_sources.display.dfi_foods }} 種常見食物</strong>，幫助研究人員了解飲食對藥物的影響。
 </p>
 
 <div class="key-takeaway">
@@ -45,11 +45,11 @@ permalink: /dfi/
 </tr>
 <tr>
   <td>DFI 筆數</td>
-  <td>857</td>
+  <td>{{ site.data.ddi_sources.display.dfi_records }}</td>
 </tr>
 <tr>
   <td>涵蓋食物種類</td>
-  <td>29 種</td>
+  <td>{{ site.data.ddi_sources.display.dfi_foods }} 種</td>
 </tr>
 <tr>
   <td>最後更新</td>
@@ -125,7 +125,7 @@ permalink: /dfi/
 
 ## 涵蓋的食物類別
 
-本資料庫涵蓋以下 29 種常見食物/食物成分：
+本資料庫涵蓋以下 {{ site.data.ddi_sources.display.dfi_foods }} 種常見食物/食物成分：
 
 | 類別 | 食物 |
 |------|------|

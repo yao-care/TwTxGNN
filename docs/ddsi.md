@@ -10,7 +10,7 @@ permalink: /ddsi/
 # 藥物-疾病注意事項 (DDSI)
 
 <p class="key-answer" data-question="什麼是藥物-疾病注意事項？">
-<strong>藥物-疾病注意事項（Drug-Disease Safety Information, DDSI）</strong> 是指某些藥物在特定疾病患者身上可能加重病情或造成不良反應的警示資訊。本平台整合 DDInter 2.0 的 <strong>8,359 筆</strong> DDSI 資料，涵蓋 <strong>115 種藥物</strong>的禁忌症與注意事項。
+<strong>藥物-疾病注意事項（Drug-Disease Safety Information, DDSI）</strong> 是指某些藥物在特定疾病患者身上可能加重病情或造成不良反應的警示資訊。本平台整合 DDInter 2.0 的 <strong>{{ site.data.ddi_sources.display.ddsi_records }} 筆</strong> DDSI 資料，涵蓋 <strong>{{ site.data.ddi_sources.display.ddsi_processed_drugs }} 種藥物</strong>的禁忌症與注意事項。
 </p>
 
 <div class="key-takeaway">
@@ -45,11 +45,11 @@ permalink: /ddsi/
 </tr>
 <tr>
   <td>DDSI 筆數</td>
-  <td>8,359</td>
+  <td>{{ site.data.ddi_sources.display.ddsi_records }}</td>
 </tr>
 <tr>
   <td>涵蓋藥物</td>
-  <td>115 種</td>
+  <td>{{ site.data.ddi_sources.display.ddsi_processed_drugs }} 種</td>
 </tr>
 <tr>
   <td>最後更新</td>

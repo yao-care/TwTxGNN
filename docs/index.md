@@ -134,7 +134,7 @@ image: /assets/images/og-default.png
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">四大交互作用資料庫</strong><br>
-    <span style="color: #666;">整合 DDI（藥物-藥物 {{ site.data.ddi_sources.display.ddinter_rows }} 筆）、DDSI（藥物-疾病 8,359 筆）、DFI（藥物-食物 857 筆）、DHI（藥物-草藥 35 筆），涵蓋禁忌併用、疾病禁忌、飲食注意事項，讓安全性評估一次到位。</span>
+    <span style="color: #666;">整合 DDI（藥物-藥物 {{ site.data.ddi_sources.display.ddinter_rows }} 筆）、DDSI（藥物-疾病 {{ site.data.ddi_sources.display.ddsi_records }} 筆）、DFI（藥物-食物 {{ site.data.ddi_sources.display.dfi_records }} 筆）、DHI（藥物-草藥 {{ site.data.ddi_sources.display.dhi_records }} 筆），涵蓋禁忌併用、疾病禁忌、飲食注意事項，讓安全性評估一次到位。</span>
   </div>
 </div>
 

@@ -18,16 +18,25 @@ VERSIONS = ROOT / ".github" / "ddi-versions.json"
 OUT = ROOT / "docs" / "_data" / "ddi_sources.json"
 
 KEYS = ["ddinter_rows", "ddinter_unique_pairs", "ddinter_drug_names",
-        "gtopdb_version", "gtopdb_published", "gtopdb_drug_target_records", "gtopdb_ligands", "gtopdb_release"]
+        "gtopdb_version", "gtopdb_published", "gtopdb_drug_target_records", "gtopdb_ligands", "gtopdb_release",
+        # 2026-11-05：DFI／DDSI／DHI（本站另有這三類資料）也從 site_data 來
+        "dfi_records", "ddsi_records", "dhi_records", "dfi_foods", "ddsi_processed_drugs", "dhi_herbs"]
 
 # Liquid 進不去的地方（front matter）：(檔案, 正規式, site_data 欄位)；正規式第 1 組是要換掉的數字
 SPOTS = [
     ("docs/ddi.md", r"下載檔共 ([\d,]+) 筆藥物-藥物交互作用", "ddinter_rows"),
     ("README.md", r"\| \*\*DDI 資料\*\* \| ([\d,]+) 筆 \|", "ddinter_rows"),
     ("README.md", r"\| ([\d,]+) 筆 DDI、", "ddinter_rows"),
+    ("README.md", r"筆 DDI、([\d,]+) 筆 DFI、", "dfi_records"),
+    ("README.md", r"筆 DFI、([\d,]+) 筆 DDSI", "ddsi_records"),
     ("README.md", r"\| ([\d,]+) 筆核准藥物的藥物–標靶資料（GtoPdb [\d.]+）", "gtopdb_drug_target_records"),
     ("README.md", r"筆核准藥物的藥物–標靶資料（GtoPdb ([\d.]+)）", "gtopdb_version"),
     ("CITATION.cff", r"DDI \(([\d,]+)\)", "ddinter_rows"),
+    ("docs/ddsi.md", r"收錄 ([\d,]+) 筆 DDSI 資料", "ddsi_records"),
+    ("docs/dfi.md", r"收錄 ([\d,]+) 筆 DFI 資料", "dfi_records"),
+    ("docs/dfi.md", r"筆 DFI 資料，涵蓋 ([\d,]+) 種常見食物", "dfi_foods"),
+    ("docs/dhi.md", r"收錄 ([\d,]+) 筆 DHI 資料", "dhi_records"),
+    ("docs/dhi.md", r"筆 DHI 資料，涵蓋 ([\d,]+) 種常見草藥", "dhi_herbs"),
 ]
 
 
@@ -48,9 +57,11 @@ def render(data):
 
 
 _SKIP_DIRS = {"_site", "vendor", "node_modules", ".jekyll-cache", "_drugs", "_news", "data", "fhir", ".bundle"}
-_CTX = re.compile(r"DDInter(?!act)|\bDDI\b|GtoPdb|PHARMACOLOGY|[Ll]igand")
+_CTX = re.compile(r"DDInter(?!act)|\bDDI\b|\b(?:DFI|DDSI|DHI)\b|GtoPdb|PHARMACOLOGY|[Ll]igand")  # DFI／DDSI／DHI：2026-11-05
 _GTOP_CTX = re.compile(r"GtoPdb|PHARMACOLOGY|[Ll]igand")
 _VER = re.compile(r"(?<![\d.])(20\d\d\.\d+(?:\.\d+)?)(?![\d.]?\d)")
+# 2026-11-05：版本歷史表的列（| 2026-02-21 | 整合 … DFI 資料（857 筆） |）記的是當時的筆數，是紀錄不是現況，不擋
+_HISTORY_ROW = re.compile(r"^\|\s*\d{4}-\d{2}-\d{2}\s*\|")
 _ANYNUM = re.compile(r"(?<![\d,.])(\d{1,3}(?:,\d{3})+)(?![\d,]?\d)")
 
 
@@ -59,7 +70,14 @@ def hardcode_problems(data):
     不得手寫 site_data 的數字；提到 GtoPdb 的行（與緊接的 <td> 行）不得手寫任何千分位數字或 GtoPdb 版本號（YYYY.N）。
     要用 {{ site.data.ddi_sources.display.<欄位> }}、{{ site.data.ddi_sources.gtopdb_version }}。"""
     nums = {data["display"][k] for k in data["display"] if k != "gtopdb_published_month"}
-    num_re = re.compile(r"(?<![\d,.])(" + "|".join(re.escape(n) for n in sorted(nums, key=len, reverse=True)) + r")(?![\d,]?\d)")
+    # 2026-11-05：兩位數（DHI 35 筆、DFI 29 種食物）太常撞到別的數字（表格編號等），只在後面接單位、
+    # 或同一行寫明 DFI／DDSI／DHI 時才算手寫
+    small = {n for n in nums if len(n) < 3}
+    num_re = re.compile(r"(?<![\d,.])(" + "|".join(re.escape(n) for n in sorted(nums - small, key=len, reverse=True)) + r")(?![\d,]?\d)")
+    small_re = re.compile(r"(?<![\d,.])(" + "|".join(re.escape(n) for n in sorted(small)) + r")(?![\d,.]?\d)"
+                          r"(?=\s*(?:</strong>)?\s*(?:筆|種|個|records|interactions|foods))") if small else None
+    small_line = re.compile(r"\b(?:DFI|DDSI|DHI)\b")
+    small_any = re.compile(r"(?<![\d,.])(" + "|".join(re.escape(n) for n in sorted(small)) + r")(?![\d,.]?\d)") if small else None
     out = []
     docs = ROOT / "docs"
     for f in sorted(docs.rglob("*")):
@@ -74,12 +92,15 @@ def hardcode_problems(data):
                     break
         bad = set()
         for i in range(start, len(lines)):
-            if not _CTX.search(lines[i]):
+            if not _CTX.search(lines[i]) or _HISTORY_ROW.match(lines[i]):
                 continue
             gtop = bool(_GTOP_CTX.search(lines[i]))
             for j in range(i, min(i + 4, len(lines))):
                 for m in num_re.finditer(lines[j]):
                     bad.add((j + 1, m.group(1)))
+                if small_re and not _HISTORY_ROW.match(lines[j]):
+                    for m in (small_any if small_line.search(lines[j]) else small_re).finditer(lines[j]):
+                        bad.add((j + 1, m.group(1)))
                 if gtop and (j == i or lines[j].lstrip().startswith("<td")):
                     for m in list(_VER.finditer(lines[j])) + list(_ANYNUM.finditer(lines[j])):
                         bad.add((j + 1, m.group(1)))

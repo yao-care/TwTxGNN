@@ -10,7 +10,7 @@ permalink: /dhi/
 # 藥物-草藥交互作用 (DHI)
 
 <p class="key-answer" data-question="什麼是藥物-草藥交互作用？">
-<strong>藥物-草藥交互作用（Drug-Herb Interaction, DHI）</strong> 是指草藥或植物性補充品影響藥物療效或安全性的現象。本平台精選 <strong>35 筆</strong> DHI 資料，涵蓋 <strong>10 種臨床上最重要的草藥</strong>，協助研究人員評估草藥使用對老藥新用的影響。
+<strong>藥物-草藥交互作用（Drug-Herb Interaction, DHI）</strong> 是指草藥或植物性補充品影響藥物療效或安全性的現象。本平台精選 <strong>{{ site.data.ddi_sources.display.dhi_records }} 筆</strong> DHI 資料，涵蓋 <strong>{{ site.data.ddi_sources.display.dhi_herbs }} 種臨床上最重要的草藥</strong>，協助研究人員評估草藥使用對老藥新用的影響。
 </p>
 
 <div class="key-takeaway">
@@ -45,11 +45,11 @@ permalink: /dhi/
 </tr>
 <tr>
   <td>DHI 筆數</td>
-  <td>35</td>
+  <td>{{ site.data.ddi_sources.display.dhi_records }}</td>
 </tr>
 <tr>
   <td>涵蓋草藥種類</td>
-  <td>10 種</td>
+  <td>{{ site.data.ddi_sources.display.dhi_herbs }} 種</td>
 </tr>
 <tr>
   <td>最後更新</td>
@@ -65,7 +65,7 @@ permalink: /dhi/
 ## 涵蓋的重要草藥
 
 <p class="key-answer" data-question="哪些草藥與藥物的交互作用最重要？">
-以下 10 種草藥在臨床上最常見且交互作用最為顯著，是評估藥物安全性時的重點關注對象。
+以下 {{ site.data.ddi_sources.display.dhi_herbs }} 種草藥在臨床上最常見且交互作用最為顯著，是評估藥物安全性時的重點關注對象。
 </p>
 
 ### 1. 聖約翰草（St. John's Wort）

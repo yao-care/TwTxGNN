@@ -8,12 +8,24 @@
   "gtopdb_drug_target_records": 4808,
   "gtopdb_ligands": 2253,
   "gtopdb_release": "data-20261105-123754",
+  "dfi_records": 857,
+  "ddsi_records": 8359,
+  "dhi_records": 35,
+  "dfi_foods": 29,
+  "ddsi_processed_drugs": 115,
+  "dhi_herbs": 10,
   "display": {
     "ddinter_rows": "222,383",
     "ddinter_unique_pairs": "160,235",
     "ddinter_drug_names": "1,939",
     "gtopdb_drug_target_records": "4,808",
     "gtopdb_ligands": "2,253",
+    "dfi_records": "857",
+    "ddsi_records": "8,359",
+    "dhi_records": "35",
+    "dfi_foods": "29",
+    "ddsi_processed_drugs": "115",
+    "dhi_herbs": "10",
     "gtopdb_published_month": "2026-10"
   }
 }

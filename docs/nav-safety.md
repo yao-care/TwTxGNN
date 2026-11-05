@@ -128,9 +128,9 @@ redirect_from:
 <div class="safety-dist-container">
   <div class="safety-dist-bar">
     <a href="{{ '/ddi/' | relative_url }}" class="dist-ddi" style="width: 96%;" title="藥物-藥物交互作用：{{ site.data.ddi_sources.display.ddinter_rows }} 筆">DDI {{ site.data.ddi_sources.ddinter_rows | divided_by: 10000 }}萬</a>
-    <a href="{{ '/ddsi/' | relative_url }}" class="dist-ddsi" style="width: 3.6%;" title="藥物-疾病注意事項：8,359 筆"></a>
-    <a href="{{ '/dfi/' | relative_url }}" class="dist-dfi" style="width: 0.4%;" title="藥物-食物交互作用：857 筆"></a>
-    <a href="{{ '/dhi/' | relative_url }}" class="dist-dhi" style="width: 0.01%;" title="藥物-草藥交互作用：35 筆"></a>
+    <a href="{{ '/ddsi/' | relative_url }}" class="dist-ddsi" style="width: 3.6%;" title="藥物-疾病注意事項：{{ site.data.ddi_sources.display.ddsi_records }} 筆"></a>
+    <a href="{{ '/dfi/' | relative_url }}" class="dist-dfi" style="width: 0.4%;" title="藥物-食物交互作用：{{ site.data.ddi_sources.display.dfi_records }} 筆"></a>
+    <a href="{{ '/dhi/' | relative_url }}" class="dist-dhi" style="width: 0.01%;" title="藥物-草藥交互作用：{{ site.data.ddi_sources.display.dhi_records }} 筆"></a>
   </div>
 
   <div class="safety-cards">
@@ -140,40 +140,40 @@ redirect_from:
       </div>
       <div class="safety-card-info">
         <div class="safety-card-title">藥物-藥物交互作用</div>
-        <div class="safety-card-desc">1,939 個藥物名稱的併用風險</div>
+        <div class="safety-card-desc">{{ site.data.ddi_sources.display.ddinter_drug_names }} 個藥物名稱的併用風險</div>
       </div>
       <span class="safety-card-badge">DDI</span>
     </a>
 
     <a href="{{ '/ddsi/' | relative_url }}" class="safety-card ddsi">
       <div class="safety-card-icon">
-        <span class="safety-card-count">8,359</span>
+        <span class="safety-card-count">{{ site.data.ddi_sources.display.ddsi_records }}</span>
       </div>
       <div class="safety-card-info">
         <div class="safety-card-title">藥物-疾病注意事項</div>
-        <div class="safety-card-desc">115 種藥物的禁忌症</div>
+        <div class="safety-card-desc">{{ site.data.ddi_sources.display.ddsi_processed_drugs }} 種藥物的禁忌症</div>
       </div>
       <span class="safety-card-badge">DDSI</span>
     </a>
 
     <a href="{{ '/dfi/' | relative_url }}" class="safety-card dfi">
       <div class="safety-card-icon">
-        <span class="safety-card-count">857</span>
+        <span class="safety-card-count">{{ site.data.ddi_sources.display.dfi_records }}</span>
       </div>
       <div class="safety-card-info">
         <div class="safety-card-title">藥物-食物交互作用</div>
-        <div class="safety-card-desc">29 種常見食物的影響</div>
+        <div class="safety-card-desc">{{ site.data.ddi_sources.display.dfi_foods }} 種常見食物的影響</div>
       </div>
       <span class="safety-card-badge">DFI</span>
     </a>
 
     <a href="{{ '/dhi/' | relative_url }}" class="safety-card dhi">
       <div class="safety-card-icon">
-        <span class="safety-card-count">35</span>
+        <span class="safety-card-count">{{ site.data.ddi_sources.display.dhi_records }}</span>
       </div>
       <div class="safety-card-info">
         <div class="safety-card-title">藥物-草藥交互作用</div>
-        <div class="safety-card-desc">10 種常見草藥的風險</div>
+        <div class="safety-card-desc">{{ site.data.ddi_sources.display.dhi_herbs }} 種常見草藥的風險</div>
       </div>
       <span class="safety-card-badge">DHI</span>
     </a>
@@ -189,8 +189,8 @@ redirect_from:
 | 類型 | 資料來源 | 記錄數 | 最後更新 |
 |------|----------|--------|----------|
 | DDI | DDInter 下載檔（`ddinter_code_*.csv`） | {{ site.data.ddi_sources.display.ddinter_rows }} | 2026-02-08 |
-| DDSI | DDInter 2.0 | 8,359 | 2026-02-21 |
-| DFI | DDInter 2.0 | 857 | 2026-02-21 |
-| DHI | 精選資料集 | 35 | 2026-02-21 |
+| DDSI | DDInter 2.0 | {{ site.data.ddi_sources.display.ddsi_records }} | 2026-02-21 |
+| DFI | DDInter 2.0 | {{ site.data.ddi_sources.display.dfi_records }} | 2026-02-21 |
+| DHI | 精選資料集 | {{ site.data.ddi_sources.display.dhi_records }} | 2026-02-21 |
 
 

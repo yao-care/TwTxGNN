@@ -12,9 +12,9 @@ nav_exclude: true
 | 類型 | 資料來源 | 記錄數 | 最後更新 | 授權 |
 |------|----------|--------|----------|------|
 | DDI (藥物-藥物) | DDInter 下載檔（`ddinter_code_*.csv`） | {{ site.data.ddi_sources.display.ddinter_rows }} | 2026-02-08 | CC BY-NC-SA 4.0 |
-| DFI (藥物-食物) | DDInter 2.0 | 857 | 2026-02-21 | CC BY-NC-SA 4.0 |
-| DDSI (藥物-疾病) | DDInter 2.0 | 8,359 | 2026-02-21 | CC BY-NC-SA 4.0 |
-| DHI (藥物-草藥) | 精選資料集 | 35 | 2026-02-21 | - |
+| DFI (藥物-食物) | DDInter 2.0 | {{ site.data.ddi_sources.display.dfi_records }} | 2026-02-21 | CC BY-NC-SA 4.0 |
+| DDSI (藥物-疾病) | DDInter 2.0 | {{ site.data.ddi_sources.display.ddsi_records }} | 2026-02-21 | CC BY-NC-SA 4.0 |
+| DHI (藥物-草藥) | 精選資料集 | {{ site.data.ddi_sources.display.dhi_records }} | 2026-02-21 | - |
 
 ---
 
@@ -81,7 +81,7 @@ data/external/ddi/ddinter/
 ### 資料來源：DDInter 2.0
 
 - **網站**：https://ddinter2.scbdd.com/
-- **統計**：857 筆 DFI，涵蓋 29 種食物
+- **統計**：{{ site.data.ddi_sources.display.dfi_records }} 筆 DFI，涵蓋 {{ site.data.ddi_sources.display.dfi_foods }} 種食物
 - **授權**：CC BY-NC-SA 4.0
 
 ### API 端點
@@ -97,8 +97,8 @@ curl -X POST "https://ddinter2.scbdd.com/server/food-interaction-source/" \
 ```json
 {
   "draw": 1,
-  "recordsTotal": 857,
-  "recordsFiltered": 857,
+  "recordsTotal": {{ site.data.ddi_sources.dfi_records }},
+  "recordsFiltered": {{ site.data.ddi_sources.dfi_records }},
   "data": [
     {
       "id": 1,
@@ -172,7 +172,7 @@ DDInter 2.0 不提供 DHI 資料，目前使用手動精選的資料集。
 
 ```
 data/external/dhi/
-└── dhi_curated.json   # 精選資料集（35 筆）
+└── dhi_curated.json   # 精選資料集（{{ site.data.ddi_sources.display.dhi_records }} 筆）
 ```
 
 ---
@@ -182,7 +182,7 @@ data/external/dhi/
 ### 資料來源：DDInter 2.0
 
 - **網站**：https://ddinter2.scbdd.com/
-- **統計**：8,359 筆 DDSI，涵蓋 115 種藥物
+- **統計**：{{ site.data.ddi_sources.display.ddsi_records }} 筆 DDSI；處理後（`ddinter2_ddsi_processed.json`）收錄 {{ site.data.ddi_sources.display.ddsi_processed_drugs }} 種藥物
 - **授權**：CC BY-NC-SA 4.0
 
 ### API 端點
@@ -197,8 +197,8 @@ curl -X POST "https://ddinter2.scbdd.com/server/disease-interaction-source/" \
 ```json
 {
   "draw": 1,
-  "recordsTotal": 8359,
-  "recordsFiltered": 8359,
+  "recordsTotal": {{ site.data.ddi_sources.ddsi_records }},
+  "recordsFiltered": {{ site.data.ddi_sources.ddsi_records }},
   "data": [
     {
       "id": 1,
