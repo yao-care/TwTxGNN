@@ -140,7 +140,7 @@ redirect_from:
       </div>
       <div class="safety-card-info">
         <div class="safety-card-title">藥物-藥物交互作用</div>
-        <div class="safety-card-desc">2,310 種藥物的併用風險</div>
+        <div class="safety-card-desc">1,939 個藥物名稱的併用風險</div>
       </div>
       <span class="safety-card-badge">DDI</span>
     </a>

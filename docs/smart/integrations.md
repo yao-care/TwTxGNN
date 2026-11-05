@@ -59,7 +59,7 @@ TwTxGNN SMART App 整合了多個外部資源，提供更完整的臨床決策�
 
 ## CDS Hooks 服務
 
-TwTxGNN 提供 CDS Hooks 服務，可整合至 EHR 系統的處方流程。
+TwTxGNN 提供 CDS Hooks 服務的描述與瀏覽器端示範。本站是靜態網站，沒有能接收 EHR 請求的服務端點；要接進 EHR 的處方流程，需要另外架設能接收 POST 請求的伺服器。
 
 ### 可用服務
 
@@ -71,7 +71,7 @@ TwTxGNN 提供 CDS Hooks 服務，可整合至 EHR 系統的處方流程。
 
 ### 服務端點
 
-**服務發現端點**：[/cds-hooks/cds-services.json](/cds-hooks/cds-services.json)
+**服務描述**：[/cds-hooks/cds-services.json](/cds-hooks/cds-services.json)（只是描述檔，不是可呼叫的服務）
 
 <div style="margin: 20px 0;">
   <a href="/cds-hooks/demo.html" style="display: inline-block; padding: 12px 24px; background: #17a2b8; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">測試 CDS Hooks Demo</a>
@@ -79,7 +79,7 @@ TwTxGNN 提供 CDS Hooks 服務，可整合至 EHR 系統的處方流程。
 
 ### 整合方式
 
-1. 將服務發現端點註冊到您的 EHR 系統
+1. 在自行架設的伺服器上提供服務發現端點，並註冊到您的 EHR 系統
 2. 配置 prefetch 以提供 MedicationRequest 資源
 3. 在 order-sign hook 觸發時呼叫服務
 4. 顯示回傳的 cards 給臨床人員

@@ -3,7 +3,7 @@
     {
       "hook": "order-sign",
       "title": "TwTxGNN 藥物交互作用檢查",
-      "description": "基於 DDInter 2.0 資料庫，檢查處方中的潛在藥物交互作用 (PDDI)。提供臨床情境化警示和處置建議。",
+      "description": "以 ddi-checker.js 內建的 15 條規則（參考 DDInter）檢查處方中常見的高風險藥物組合 (PDDI)，不是完整資料庫比對。提供警示和處置建議。",
       "id": "twtxgnn-ddi-check",
       "prefetch": {
         "patient": "Patient/{{context.patientId}}",
@@ -26,7 +26,7 @@
     {
       "hook": "patient-view",
       "title": "TwTxGNN 臨床試驗配對",
-      "description": "根據病患用藥和診斷，自動搜尋 ClinicalTrials.gov 相關臨床試驗。",
+      "description": "根據病患用藥和診斷，提供 ClinicalTrials.gov 的搜尋連結（不會自行搜尋或計算試驗數）。",
       "id": "twtxgnn-trial-match",
       "prefetch": {
         "patient": "Patient/{{context.patientId}}",

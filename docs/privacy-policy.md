@@ -84,8 +84,10 @@ fhirUser                        - 使用者資訊
 
 | 服務 | 用途 | 資料傳輸 |
 |------|------|----------|
-| **RxNorm API** | 藥物名稱查詢 | 僅傳送 RxCUI 代碼（非病患資料） |
-| **CDN (jsDelivr)** | JavaScript 函式庫載入 | 無病患資料 |
+| **RxNorm API**（rxnav.nlm.nih.gov） | SMART App 查藥品成分名稱 | 僅傳送從電子病歷讀到的藥品 RxCUI 代碼（不含病患身分資料） |
+| **CDN (jsDelivr)**（cdn.jsdelivr.net） | 程式庫：每頁的 d3 圖表；SMART 頁面與首頁藥物查詢的 Fuse.js、SMART on FHIR 用戶端 | 無病患資料 |
+| **ClinicalTrials.gov API**（clinicaltrials.gov） | SMART 頁面的臨床試驗查詢 | 只在您要求查詢時，傳送藥名與適應症名稱 |
+| **Google Analytics 4**（www.googletagmanager.com、google-analytics.com） | 網站瀏覽統計 | 瀏覽頁面、來源網站，使用分析 Cookie；不傳送搜尋字詞、表單內容與網址查詢參數 |
 
 ### 靜態資源
 
@@ -104,7 +106,7 @@ TwTxGNN 網站（twtxgnn.yao.care）可能使用以下分析工具：
 
 ### SMART App
 
-SMART App 本身**不包含任何分析追蹤程式碼**，確保病患資料的完全隱私。
+SMART App 頁面和網站其他頁面一樣載入 Google Analytics 4，只記錄頁面瀏覽；病患資料、搜尋字詞與網址查詢參數不會送出。
 
 ---
 

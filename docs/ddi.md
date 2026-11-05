@@ -3,14 +3,14 @@ layout: default
 title: 藥物交互作用
 parent: 安全性資料
 nav_order: 1
-description: "TwTxGNN 藥物交互作用資料庫，整合 DDInter 2.0 與 Guide to PHARMACOLOGY 共 222,391 筆 DDI 資料，協助評估老藥新用的安全性。"
+description: "TwTxGNN 藥物交互作用資料：DDInter 1.0 下載檔共 222,391 筆藥物-藥物交互作用，另附 Guide to PHARMACOLOGY 的藥物標靶資料，協助評估老藥新用的安全性。"
 permalink: /ddi/
 ---
 
 # 藥物交互作用 (DDI)
 
 <p class="key-answer" data-question="TwTxGNN 有哪些藥物交互作用資料？">
-本平台整合 <strong>DDInter 2.0</strong> 和 <strong>Guide to PHARMACOLOGY</strong> 兩大資料來源，共收錄 <strong>222,391 筆</strong>藥物交互作用資料，涵蓋 2,310 種藥物，協助研究人員在評估老藥新用時考量安全性因素。
+本平台的藥物-藥物交互作用（DDI）資料來自 <strong>DDInter 1.0</strong> 的 <code>ddinter_code_*.csv</code> 下載檔，共 <strong>222,391 筆</strong>，涵蓋 1,939 個藥物名稱。藥物報告另外列出 <strong>Guide to PHARMACOLOGY</strong> 的核准藥物標靶資料（藥物-標靶，不是藥物-藥物交互作用，也沒有嚴重度分級），協助研究人員在評估老藥新用時考量安全性因素。
 </p>
 
 <div class="key-takeaway">
@@ -23,20 +23,20 @@ permalink: /ddi/
 
 <table class="comparison-table">
 <thead>
-<tr><th>資料來源</th><th>DDI 筆數</th><th>涵蓋藥物</th><th>更新時間</th></tr>
+<tr><th>資料來源</th><th>筆數</th><th>涵蓋藥物</th><th>版本／下載日期</th></tr>
 </thead>
 <tbody>
 <tr>
-  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 2.0</a></td>
+  <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter 1.0</a>（<code>ddinter_code_*.csv</code>，藥物-藥物交互作用）</td>
   <td>222,391</td>
-  <td>2,310</td>
-  <td>2026-02-08</td>
+  <td>1,939 個藥物名稱</td>
+  <td>2026-02-08 下載</td>
 </tr>
 <tr>
-  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a></td>
-  <td>4,636</td>
-  <td>2,156</td>
-  <td>2026-02-25 (v2025.4)</td>
+  <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a>（核准藥物的藥物-標靶資料，不是 DDI）</td>
+  <td>4,799</td>
+  <td>2,248 個藥物（ligand）</td>
+  <td>GtoPdb 2026.3（2026-09-16 發布）</td>
 </tr>
 </tbody>
 </table>
@@ -71,12 +71,12 @@ permalink: /ddi/
 
 ### 下載完整資料集
 
-需要進行大規模分析？可從 GitHub 下載原始 DDI 資料：
+需要進行大規模分析？原始資料不在 git repo 裡，而是放在 GitHub Release 的資料壓縮檔中（解開後在 <code>data/external/ddi/</code>）：
 
 | 資料 | 說明 | 連結 |
 |------|------|------|
-| DDInter 資料 | 完整 DDI 對照表 | [GitHub](https://github.com/yao-care/TwTxGNN/tree/main/data/external/ddi) |
-| Pharmacology 資料 | 核准藥物交互作用 | [GitHub](https://github.com/yao-care/TwTxGNN/tree/main/data/external/ddi) |
+| DDInter 資料 | 完整 DDI 對照表（`ddinter/ddinter_code_*.csv`） | [GitHub Releases](https://github.com/yao-care/TwTxGNN/releases) |
+| Pharmacology 資料 | 核准藥物的藥物-標靶資料（`pharmacology/approved_drug_detailed_interactions.csv`） | [GitHub Releases](https://github.com/yao-care/TwTxGNN/releases) |
 
 ---
 
