@@ -17,6 +17,7 @@ CITATION.cff 等不經 Jekyll 的檔。清單在 COUNT_SPOTS；能用 Liquid 的
   total     ＝ drug_stats.json 的 total_drugs（藥物頁數）
   keywords  ＝ docs/data/keywords.json 的藥物數（新聞監測的藥物數，與報告數不同）
   L1…L5     ＝ drug_stats.json 的 level_counts
+  indications＝ drug_stats.json 的 total_indications（千分位寫法，README 用）
 用法：python3 scripts/generate_drug_stats.py（可重複執行，結果相同）
 """
 import json
@@ -40,6 +41,9 @@ COUNT_SPOTS = [
     ("docs/_includes/head_custom.html", r'("numberOfItems": )(\d+)()', "total"),
     ("README.md", r'(\| \*\*藥物報告\*\* \| )(\d+)( 份)', "total"),
     ("README.md", r'(\| \*\*涵蓋藥物\*\* \| )(\d+)( 種)', "total"),  # 一份報告對應一個藥
+    # 2026-11-05：README 的「預測新適應症（已排除已知用途）」＝drug_stats.json 的 total_indications（千分位）
+    ("README.md", r'(\| \*\*預測新適應症\*\*（已排除已知用途） \| )([\d,]+)( 筆)', "indications"),
+    ("README.md", r'(\| 預測新適應症數（已排除已知用途） \| )([\d,]+)( \|)', "indications"),
     *[("README.md", rf'(^\| \*\*L{n}\*\* \| )(\d+)( \|)', f"L{n}") for n in range(1, 6)],
     ("CITATION.cff", r'(provides )(\d+)( drug validation reports)', "total"),
     ("docs/sop/chart-data-maintenance.md", r'("total_drugs": )(\d+)()', "total"),
@@ -50,7 +54,7 @@ def count_sources(stats):
     kw = ROOT / "docs" / "data" / "keywords.json"
     k = json.loads(kw.read_text(encoding="utf-8")) if kw.exists() else {}
     return {"total": stats["total_drugs"], "keywords": k.get("drug_count", len(k.get("drugs", []))),
-            **stats["level_counts"]}
+            "indications": f"{stats['total_indications']:,}", **stats["level_counts"]}
 
 
 def count_spot_problems(stats, fix=False):
