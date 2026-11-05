@@ -113,11 +113,11 @@ python3 -c "import pandas as pd;c=pd.read_csv('data/processed/repurposing_candid
 uv run python scripts/integrate_predictions.py --dl-threshold 0.9
 
 # 驗證
-ls data/processed/integrated_predictions.csv data/processed/integration_stats.json
+ls data/processed/integrated_predictions.csv.gz data/processed/integration_stats.json
 ```
 
 **結果檔案**：
-- `data/processed/integrated_predictions.csv` - 整合後的預測結果
+- `data/processed/integrated_predictions.csv.gz` - 整合後的預測結果（gzip 壓縮的 CSV；`scripts/integrate_predictions.py` 的 OUTPUT_FILE）
 - `data/processed/integration_stats.json` - 統計摘要
 
 **整合統計（2026-03-04）**：下面兩張表是 2026-03-04 執行 `integrate_predictions.py --dl-threshold 0.9` 時的 `integration_stats.json`（commit e4dd734e5 記下），數字照當時紀錄、不更新；之後整合方式改過（現行 Release 的 integration_stats.json 也收 DL 分數低於 0.9 的配對，by_confidence 有 low、medium），現行 Release 的值用這行查（先還原本站 Release 的 data/）：
