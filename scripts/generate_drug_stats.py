@@ -18,6 +18,8 @@ CITATION.cff 等不經 Jekyll 的檔。清單在 COUNT_SPOTS；能用 Liquid 的
   keywords  ＝ docs/data/keywords.json 的藥物數（新聞監測的藥物數，與報告數不同）
   L1…L5     ＝ drug_stats.json 的 level_counts
   indications＝ drug_stats.json 的 total_indications（千分位寫法，README 用）
+  pred:<鍵>  ＝ docs/_data/prediction_stats.json 的 display.<鍵>（README「預測方法」段的 KG／DL 數字，2026-11-05；
+               那份檔由 scripts/generate_prediction_stats.py 從 Release 的 data/ 算出）
 用法：python3 scripts/generate_drug_stats.py（可重複執行，結果相同）
 """
 import json
@@ -45,6 +47,29 @@ COUNT_SPOTS = [
     ("README.md", r'(\| \*\*預測新適應症\*\*（已排除已知用途） \| )([\d,]+)( 筆)', "indications"),
     ("README.md", r'(\| 預測新適應症數（已排除已知用途） \| )([\d,]+)( \|)', "indications"),
     *[("README.md", rf'(^\| \*\*L{n}\*\* \| )(\d+)( \|)', f"L{n}") for n in range(1, 6)],
+    # 2026-11-05：README「預測方法」段「現行 Release 的數字」兩張表＝prediction_stats.json（Release 的 data/ 算出）。
+    # 同名列（涉及藥物數、高信心預測…）在 KG 表、DL 表、歷次實驗表都有，所以每列連「算法」欄開頭一起比對；
+    # 歷次實驗表（2026-01-14 等）的數字是當時紀錄，不在這裡。
+    *[("README.md", rf'(^\| {re.escape(label)} \| )([\d,.%]+)( \| {re.escape(how)})', f"pred:{key}") for label, how, key in (
+        ("台灣 FDA 藥品資料筆數", "`data/raw/tw_fda_drugs.json` 的筆數", "fda_records"),
+        ("有效藥品數", "同檔中未註銷", "fda_active"),
+        ("DrugBank 成分映射率", "`drug_mapping.csv` 映射成功列", "ingredient_mapping_rate"),
+        ("對應 DrugBank 藥品數", "映射成功列的不重複", "drugbank_ids"),
+        ("適應症映射率", "`indication_mapping.csv`", "indication_mapping_rate"),
+        ("對應到疾病數", "不重複疾病 ID", "mapped_diseases"),
+        ("知識圖譜候選數", "`repurposing_candidates.csv.gz`", "kg_candidates"),
+        ("涉及藥物數", "候選中不重複的藥物成分", "kg_drugs"),
+        ("潛在新適應症數", "候選中不重複的潛在新適應症", "kg_diseases"),
+        ("DL 預測檔列數", "`txgnn_dl_predictions.csv.gz` 的列數", "dl_rows"),
+        ("涉及藥物數", "不重複 DrugBank ID", "dl_drugs"),
+        ("涉及適應症數", "不重複適應症", "dl_diseases"),
+        ("高信心預測 (>0.9)", "分數 > 0.9", "dl_gt_0_9"),
+        ("中高信心預測 (>0.7)", "分數 > 0.7", "dl_gt_0_7"),
+        ("KG 與 DL 整合後總筆數", "`integration_stats.json` 的 total_predictions", "integration_total"),
+        ("整合後涉及藥物數", "`integration_stats.json` 的 unique_drugs", "integration_drugs"))],
+    ("README.md", r'(檔案只存分數 ≥ )([\d.]+)( 的配對)', "pred:dl_min_score"),
+    ("README.md", r'(\| )([\d,]+)( 種疾病、[\d,]+ 個藥品（`data/external/disease_vocab.csv`)', "pred:kg_vocab_diseases"),
+    ("README.md", r'(種疾病、)([\d,]+)( 個藥品（`data/external/disease_vocab.csv`)', "pred:kg_vocab_drugs"),
     ("CITATION.cff", r'(provides )(\d+)( drug validation reports)', "total"),
     ("docs/sop/chart-data-maintenance.md", r'("total_drugs": )(\d+)()', "total"),
 ]
@@ -53,8 +78,11 @@ COUNT_SPOTS = [
 def count_sources(stats):
     kw = ROOT / "docs" / "data" / "keywords.json"
     k = json.loads(kw.read_text(encoding="utf-8")) if kw.exists() else {}
+    pred = ROOT / "docs" / "_data" / "prediction_stats.json"
+    pd_ = json.loads(pred.read_text(encoding="utf-8")).get("display", {}) if pred.exists() else {}
     return {"total": stats["total_drugs"], "keywords": k.get("drug_count", len(k.get("drugs", []))),
-            "indications": f"{stats['total_indications']:,}", **stats["level_counts"]}
+            "indications": f"{stats['total_indications']:,}", **stats["level_counts"],
+            **{f"pred:{key}": v for key, v in pd_.items()}}
 
 
 def count_spot_problems(stats, fix=False):
@@ -71,6 +99,9 @@ def count_spot_problems(stats, fix=False):
             ms = list(rx.finditer(new))
             if len(ms) != 1:
                 errs.append(f"{rel}：找不到（或不只一處）{rx.pattern}")
+                continue
+            if key not in src:
+                errs.append(f"{rel}：{key} 沒有來源（docs/_data/prediction_stats.json 不在？跑 scripts/generate_prediction_stats.py）")
                 continue
             want = str(src[key])
             if ms[0].group(2) != want:

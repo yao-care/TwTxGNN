@@ -66,17 +66,29 @@ uv run python scripts/run_kg_prediction.py
 
 **結果檔案**：`data/processed/repurposing_candidates.csv`
 
+**現行 Release 的數字**：由 `scripts/generate_prediction_stats.py` 從本 repo Release 的 `data/` 算出，寫進 `docs/_data/prediction_stats.json`（裡面記著是哪個 Release），本表由 `scripts/generate_drug_stats.py` 同步，`scripts/check_seo_docs.py` 第 7c 項擋不一致。
+
+| 指標 | 數值 | 算法 |
+|------|------|------|
+| 台灣 FDA 藥品資料筆數 | 72,062 | `data/raw/tw_fda_drugs.json` 的筆數 |
+| 有效藥品數 | 23,553 | 同檔中未註銷、且有主成分的筆數 |
+| DrugBank 成分映射率 | 85.08% | `drug_mapping.csv` 映射成功列／全部列 |
+| 對應 DrugBank 藥品數 | 1,549 | 映射成功列的不重複 DrugBank ID |
+| 適應症映射率 | 44.85% | `indication_mapping.csv` 對應到疾病的列／全部列 |
+| 對應到疾病數 | 166 | 不重複疾病 ID |
+| 知識圖譜候選數 | 4,889 | `repurposing_candidates.csv.gz` 的列數 |
+| 涉及藥物數 | 677 | 候選中不重複的藥物成分 |
+| 潛在新適應症數 | 1,035 | 候選中不重複的潛在新適應症 |
+| 預測新適應症數（已排除已知用途） | 1,995 | 網站藥物報告合計（`docs/_data/drug_stats.json`） |
+
+**2026-01-14 初版實驗的紀錄**：下面是專案第一次執行（2026-01-14）時記下的數字，數字照當時紀錄、不更新。當次的 `drug_mapping.csv` 不在現行 Release，1,404、73.87% 無法重算；71,552、23,612 是當次用的 2026-01-13 食藥署資料，可用 Release 裡保留的快照重算：`python3 -c "import json;d=json.load(open('data/raw/tw_fda_drugs.json.bak_20260113'));print(len(d),len([x for x in d if x.get('註銷狀態')!='已註銷' and x.get('主成分略述')]))"`。
+
 | 指標 | 數值 |
 |------|------|
 | 台灣 FDA 總藥品數 | 71,552 |
 | 有效藥品數 | 23,612 (33%) |
 | 對應 DrugBank 藥品數 | 1,404 (<6%) |
 | DrugBank 成分映射率 | 73.87% |
-| 對應到疾病數 | 166 (<12%) |
-| 適應症映射率 | 44.85% |
-| 預測新適應症數（已排除已知用途） | 1,995 |
-| 涉及藥物數 | 677 |
-| 潛在新適應症數 | 1,035 |
 
 ### 深度學習方法
 
@@ -90,22 +102,38 @@ python scripts/run_txgnn_prediction.py
 
 **結果檔案**：`data/processed/txgnn_dl_predictions.csv`
 
-| 指標 | 數值 |
-|------|------|
-| 總預測數 | 73,834,542 |
-| 涉及藥物數 | 1,404 |
-| 涉及適應症數 | 17,041 |
-| 平均信心分數 | 0.1932 |
-| 最高信心分數 | 1.0 |
-| 高信心預測 (>0.9) | 133,499 |
-| 中高信心預測 (>0.7) | 433,136 |
-| 中等信心預測 (>0.5) | 1,995,813 |
+**現行 Release 的數字**（同上，由 `docs/_data/prediction_stats.json` 同步）：
+
+| 指標 | 數值 | 算法 |
+|------|------|------|
+| DL 預測檔列數 | 3,222,467 | `txgnn_dl_predictions.csv.gz` 的列數；檔案只存分數 ≥ 0.5 的配對 |
+| 涉及藥物數 | 1,543 | 不重複 DrugBank ID |
+| 涉及適應症數 | 17,041 | 不重複適應症 |
+| 高信心預測 (>0.9) | 148,892 | 分數 > 0.9 的列數 |
+| 中高信心預測 (>0.7) | 489,052 | 分數 > 0.7 的列數 |
+| KG 與 DL 整合後總筆數 | 74,715,523 | `integration_stats.json` 的 total_predictions（依許可證展開） |
+| 整合後涉及藥物數 | 1,543 | `integration_stats.json` 的 unique_drugs |
+
+**歷次實驗的紀錄**：下面的數字照當時紀錄、不更新；現行 Release 沒有這幾次的結果檔，無法重算。除「總預測數」外都是 2026-01-14 初版深度學習實驗（1,404 個藥 × 17,041 個疾病全部配對，共 23,925,564 筆；結果檔即上方「方法」表的 Google Drive 連結）的統計。
+
+| 指標 | 數值 | 出處 |
+|------|------|------|
+| 總預測數 | 73,834,542 | 2026-03-31 改寫 README 時填入（同日以 GPU 結果重跑 DL 並重新整合）；與本表其他列不是同一次實驗 |
+| 涉及藥物數 | 1,404 | 2026-01-14 初版實驗 |
+| 涉及適應症數 | 17,041 | 2026-01-14 初版實驗 |
+| 平均信心分數 | 0.1932 | 2026-01-14 初版實驗 |
+| 最高信心分數 | 1.0 | 2026-01-14 初版實驗 |
+| 高信心預測 (>0.9) | 133,499 | 2026-01-14 初版實驗 |
+| 中高信心預測 (>0.7) | 433,136 | 2026-01-14 初版實驗 |
+| 中等信心預測 (>0.5) | 1,995,813 | 2026-01-14 初版實驗 |
 
 ### TxGNN 分數解讀
 
 TxGNN 分數代表模型對「藥物-疾病」配對的預測信心，範圍為 0-1。
 
 #### 分數分布
+
+下表是 2026-01-14 初版深度學習實驗的分數分布，佔比以當次全部配對 23,925,564 筆為分母；現行 Release 沒有該次結果檔，數字照當時紀錄、不更新。
 
 | 門檻 | 預測數 | 佔比 | 意義 |
 |-----|-------|------|------|
@@ -328,7 +356,7 @@ python scripts/run_txgnn_prediction.py
 | 類別 | 資料 | 來源 | 說明 |
 |------|------|------|------|
 | **藥品** | 台灣 FDA 藥品 | [食藥署開放資料](https://data.fda.gov.tw/data/opendata/export/36/json) | 71,545 筆藥品許可證 |
-| **知識圖譜** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 種疾病、7,957 個藥品 |
+| **知識圖譜** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 種疾病、7,957 個藥品（`data/external/disease_vocab.csv`、`drugbank_vocab.csv` 的列數） |
 | **藥物資料庫** | DrugBank | [DrugBank](https://go.drugbank.com/) | 藥品成分映射、DrugBank ID |
 | **藥物交互** | DDInter（DDI：下載檔 `ddinter_code_*.csv`；DFI、DDSI：2.0 API） | [DDInter](https://ddinter2.scbdd.com/) | 222,383 筆 DDI、857 筆 DFI、8,359 筆 DDSI |
 | **藥物交互** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | 4,799 筆核准藥物的藥物–標靶資料（GtoPdb 2026.3） |
