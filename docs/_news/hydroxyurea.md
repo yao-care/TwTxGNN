@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,29 +40,21 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
+
+### [她拒切0.8cm息肉！吃素數十年仍得大腸癌 醫揭「3地雷食物」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xb0hYT0pjZGRmbko4NDE2b2lxdUZOaU5hZFNqQk9jRXh4LWhyRmEzdXh3dk9XZGZsRVA5OWdpcmRaamlURzVVaUkyMkg?oc=5)
+
+2026-11-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xb0hYT0pjZGRmbko4NDE2b2lxdUZOaU5hZFNqQk9jRXh4LWhyRmEzdXh3dk9XZGZsRVA5OWdpcmRaamlURzVVaUkyMkg?oc=5)
+
+---
 
 ### [【冬陽天地】乳癌與骨質疏鬆](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
 
 2026-10-31 <span class="news-indication-tag">乳癌</span>
 
 來源: [香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
-
----
-
-### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
-
-2026-10-31 <span class="news-indication-tag">腫瘤</span>
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
-
----
-
-### [新檢測方法讓女性常見癌症篩檢更容易](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">癌症</span>
-
-來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
 
 ---
 

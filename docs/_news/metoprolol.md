@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,29 +43,13 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLU1TZnlRMzh4V1JMdmxkeWNELUxHZFVDRzhCMjRmeXV0X0l5RFpiU2RjUUMtUUdSZVVxUFoxUHNvc1BVc21xVEpmNTEzYzdiRjctbU52S1Y3WFVjUVU4Qw?oc=5)
 
 2026-11-04 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
 
 來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLU1TZnlRMzh4V1JMdmxkeWNELUxHZFVDRzhCMjRmeXV0X0l5RFpiU2RjUUMtUUdSZVVxUFoxUHNvc1BVc21xVEpmNTEzYzdiRjctbU52S1Y3WFVjUVU4Qw?oc=5)
-
----
-
-### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
-
-2026-10-31 <span class="news-indication-tag">腫瘤</span>
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
-
----
-
-### [新檢測方法讓女性常見癌症篩檢更容易](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">癌症</span>
-
-來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
 
 ---
 

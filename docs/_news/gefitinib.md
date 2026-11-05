@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -48,29 +48,13 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（1 則）
 
 ### [失智症不是老了才預防！《Lancet》揭14項風險因子 醫：及早管理有助降低失智風險](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5)
 
 2026-11-05 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5)
-
----
-
-### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
-
-2026-10-31 <span class="news-indication-tag">腫瘤</span>
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
-
----
-
-### [新檢測方法讓女性常見癌症篩檢更容易](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
-
-2026-10-30 <span class="news-indication-tag">癌症</span>
-
-來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQcmtHYkRCaVpCbjNLLWZfQ01ZWl92aHhaTWp2ZnBjWGZvXzN0ZDZfVkd5Q2dCVXZXT1NFT1h0UG5LUmZEVk5oSFJ4TDYtQnBhQVE1czhzUjBINEhDS01OQlhR0gFnQVVfeXFMTjhVNEs2aXhXTjgyNW5TNGdtMFN3OGtrTWxPUFZ1bl8zNGZRSmhWVzNTX1NMZzhwTnVPWS1nYUFGOGlCZ0RjSi0tYTZ1MVRpaXBNWnlyTi0xUGJhTHVaczE2NkhrdGNyYw?oc=5)
 
 ---
 
