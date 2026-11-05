@@ -226,8 +226,8 @@ CDS 服務回傳 CDS Hooks Card：
    - 回傳 Warning/Info Card
 
 2. **使用現有 DDI 資料**
-   - DDInter: 222,383 筆（下載檔 `ddinter_code_*.csv`）
-   - GtoPdb: 4,799 筆（2026.3，藥物–標靶資料，不是交互作用資料）
+   - DDInter: {{ site.data.ddi_sources.display.ddinter_rows }} 筆（下載檔 `ddinter_code_*.csv`）
+   - GtoPdb: {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} 筆（{{ site.data.ddi_sources.gtopdb_version }}，藥物–標靶資料，不是交互作用資料）
 
 3. **基本 Card 設計**
    ```

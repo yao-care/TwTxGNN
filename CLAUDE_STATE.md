@@ -46,7 +46,7 @@ TxGNN 預測結果
 | DrugEvidencePackGenerator | ✅ | v4 架構：程式化資料傳輸 + LLM 分析 |
 | DrugPharmacistNotesWriter | ✅ | v4 prompt：正確解讀 query_log 狀態 |
 | DrugSponsorNotesWriter | ✅ | v4 prompt：正確解讀 query_log 狀態 |
-| 公開 DDI 資料來源 | ✅ | DDInter 下載檔 (222,383 筆) + GtoPdb 2026.3 (4,799 筆藥物–標靶資料) |
+| 公開 DDI 資料來源 | ✅ | DDInter 下載檔 (222,383 筆) + GtoPdb 2026.3.1 (4,808 筆藥物–標靶資料；數字以 .github/ddi-versions.json 的 site_data 為準) |
 | 驗證管線 | ✅ | validate_data_pipeline.py |
 
 ### ✅ 測試

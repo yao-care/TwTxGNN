@@ -30,8 +30,8 @@ I am reaching out regarding a potential technical collaboration for integrating 
 TwTxGNN is an open-source platform that provides AI-powered drug repurposing predictions using Harvard's TxGNN graph neural network model. Our goal is to help clinicians identify potential new therapeutic uses for existing medications while ensuring patient safety.
 
 **Current DDI Capabilities:**
-- DDInter (download files): 222,383 drug-drug interaction records (160,235 unique drug pairs)
-- Guide to PHARMACOLOGY (GtoPdb 2026.3): 4,799 approved-drug target records (drug–target data, not interactions)
+- DDInter (download files): {{ site.data.ddi_sources.display.ddinter_rows }} drug-drug interaction records ({{ site.data.ddi_sources.display.ddinter_unique_pairs }} unique drug pairs)
+- Guide to PHARMACOLOGY (GtoPdb {{ site.data.ddi_sources.gtopdb_version }}): {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} approved-drug target records (drug–target data, not interactions)
 - Drug-Disease Contraindications (DDSI): 8,359 records
 
 **Platform Stats:**
@@ -120,8 +120,8 @@ https://twtxgnn.yao.care/
 
 | 資料來源 | 筆數 | 涵蓋範圍 |
 |----------|------|----------|
-| DDInter（下載檔） | 222,383 | 1,939 個藥名的 DDI（160,235 組藥物配對） |
-| Guide to PHARMACOLOGY（GtoPdb 2026.3） | 4,799 | 核准藥物的藥物–標靶資料（不是交互作用） |
+| DDInter（下載檔） | {{ site.data.ddi_sources.display.ddinter_rows }} | {{ site.data.ddi_sources.display.ddinter_drug_names }} 個藥名的 DDI（{{ site.data.ddi_sources.display.ddinter_unique_pairs }} 組藥物配對） |
+| Guide to PHARMACOLOGY（GtoPdb {{ site.data.ddi_sources.gtopdb_version }}） | {{ site.data.ddi_sources.display.gtopdb_drug_target_records }} | 核准藥物的藥物–標靶資料（不是交互作用） |
 | DDSI（藥物-疾病禁忌） | 8,359 | 疾病禁忌用藥 |
 | DFI（藥物-食物） | 857 | 食物交互作用 |
 | DHI（藥物-草藥） | 35 | 草藥交互作用 |

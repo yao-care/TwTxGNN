@@ -359,7 +359,7 @@ python scripts/run_txgnn_prediction.py
 | **知識圖譜** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 種疾病、7,957 個藥品（`data/external/disease_vocab.csv`、`drugbank_vocab.csv` 的列數） |
 | **藥物資料庫** | DrugBank | [DrugBank](https://go.drugbank.com/) | 藥品成分映射、DrugBank ID |
 | **藥物交互** | DDInter（DDI：下載檔 `ddinter_code_*.csv`；DFI、DDSI：2.0 API） | [DDInter](https://ddinter2.scbdd.com/) | 222,383 筆 DDI、857 筆 DFI、8,359 筆 DDSI |
-| **藥物交互** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | 4,799 筆核准藥物的藥物–標靶資料（GtoPdb 2026.3） |
+| **藥物交互** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | 4,808 筆核准藥物的藥物–標靶資料（GtoPdb 2026.3.1） |
 | **臨床試驗** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | 臨床試驗資料查詢 |
 | **臨床試驗** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | 國際臨床試驗平台 |
 | **文獻** | PubMed | [NCBI E-utilities](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/) | 醫學文獻搜尋 |

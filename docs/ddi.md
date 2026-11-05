@@ -10,7 +10,7 @@ permalink: /ddi/
 # 藥物交互作用 (DDI)
 
 <p class="key-answer" data-question="TwTxGNN 有哪些藥物交互作用資料？">
-本平台的藥物-藥物交互作用（DDI）資料來自 <strong>DDInter</strong> 的 <code>ddinter_code_*.csv</code> 下載檔，共 <strong>222,383 筆</strong>（160,235 組不重複藥物配對），涵蓋 1,939 個藥物名稱。藥物報告另外列出 <strong>Guide to PHARMACOLOGY</strong> 的核准藥物標靶資料（藥物-標靶，不是藥物-藥物交互作用，也沒有嚴重度分級），協助研究人員在評估老藥新用時考量安全性因素。
+本平台的藥物-藥物交互作用（DDI）資料來自 <strong>DDInter</strong> 的 <code>ddinter_code_*.csv</code> 下載檔，共 <strong>{{ site.data.ddi_sources.display.ddinter_rows }} 筆</strong>（{{ site.data.ddi_sources.display.ddinter_unique_pairs }} 組不重複藥物配對），涵蓋 {{ site.data.ddi_sources.display.ddinter_drug_names }} 個藥物名稱。藥物報告另外列出 <strong>Guide to PHARMACOLOGY</strong> 的核准藥物標靶資料（藥物-標靶，不是藥物-藥物交互作用，也沒有嚴重度分級），協助研究人員在評估老藥新用時考量安全性因素。
 </p>
 
 <div class="key-takeaway">
@@ -28,15 +28,15 @@ permalink: /ddi/
 <tbody>
 <tr>
   <td><a href="https://ddinter2.scbdd.com/" target="_blank" rel="noopener">DDInter</a> 下載檔（<code>ddinter_code_*.csv</code>，藥物-藥物交互作用）</td>
-  <td>222,383</td>
-  <td>1,939 個藥物名稱</td>
+  <td>{{ site.data.ddi_sources.display.ddinter_rows }}</td>
+  <td>{{ site.data.ddi_sources.display.ddinter_drug_names }} 個藥物名稱</td>
   <td>2026-02-08 下載</td>
 </tr>
 <tr>
   <td><a href="https://www.guidetopharmacology.org/" target="_blank" rel="noopener">Guide to PHARMACOLOGY</a>（核准藥物的藥物-標靶資料，不是 DDI）</td>
-  <td>4,808</td>
-  <td>2,253 個藥物（ligand）</td>
-  <td>GtoPdb 2026.3.1（2026-10-12 發布）</td>
+  <td>{{ site.data.ddi_sources.display.gtopdb_drug_target_records }}</td>
+  <td>{{ site.data.ddi_sources.display.gtopdb_ligands }} 個藥物（ligand）</td>
+  <td>GtoPdb {{ site.data.ddi_sources.gtopdb_version }}（{{ site.data.ddi_sources.gtopdb_published }} 發布）</td>
 </tr>
 </tbody>
 </table>

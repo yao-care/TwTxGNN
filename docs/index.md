@@ -134,7 +134,7 @@ image: /assets/images/og-default.png
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">四大交互作用資料庫</strong><br>
-    <span style="color: #666;">整合 DDI（藥物-藥物 222,383 筆）、DDSI（藥物-疾病 8,359 筆）、DFI（藥物-食物 857 筆）、DHI（藥物-草藥 35 筆），涵蓋禁忌併用、疾病禁忌、飲食注意事項，讓安全性評估一次到位。</span>
+    <span style="color: #666;">整合 DDI（藥物-藥物 {{ site.data.ddi_sources.display.ddinter_rows }} 筆）、DDSI（藥物-疾病 8,359 筆）、DFI（藥物-食物 857 筆）、DHI（藥物-草藥 35 筆），涵蓋禁忌併用、疾病禁忌、飲食注意事項，讓安全性評估一次到位。</span>
   </div>
 </div>
 
@@ -327,7 +327,7 @@ image: /assets/images/og-default.png
 | **中證據等級** | L3-L4，需補充證據 | [查看 {{ lc.L3 | plus: lc.L4 }} 個藥物]({{ '/evidence-medium' | relative_url }}) |
 | **僅模型預測** | L5，研究方向參考 | [查看 {{ lc.L5 }} 個藥物]({{ '/evidence-low' | relative_url }}) |
 | **完整列表** | 所有 {{ tot }} 個藥物（可搜尋篩選） | [藥物列表]({{ '/drugs/' | relative_url }}) |
-| **藥物交互作用** | 222,383 筆 DDI 資料 | [DDI 專區]({{ '/ddi/' | relative_url }}) |
+| **藥物交互作用** | {{ site.data.ddi_sources.display.ddinter_rows }} 筆 DDI 資料 | [DDI 專區]({{ '/ddi/' | relative_url }}) |
 | **研究案例** | 教學與案例解讀 | [研究案例]({{ '/blog/' | relative_url }}) |
 | **資料下載** | CSV / JSON 格式 | [下載頁面]({{ '/downloads/' | relative_url }}) |
 | **意見回饋** | 回報問題、功能建議 | [GitHub Issues](https://github.com/yao-care/TwTxGNN/issues/new/choose) |
@@ -352,7 +352,7 @@ image: /assets/images/og-default.png
 |------|------|
 | 藥物報告 | {{ site.data.drug_stats.total_drugs }} 份 |
 | 預測新適應症 | {{ site.data.drug_stats.total_indications }} 筆 |
-| DDI 資料 | 222,383 筆 |
+| DDI 資料 | {{ site.data.ddi_sources.display.ddinter_rows }} 筆 |
 
 ### 驗證流程
 

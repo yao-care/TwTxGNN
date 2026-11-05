@@ -748,7 +748,7 @@ TwTxGNN Team
 | 合作對象 | 相關疾病領域 | TwTxGNN 資料量 |
 |----------|-------------|----------------|
 | RTI Wellmine | Rare Diseases | 101 藥物、101 適應症 |
-| DDI-CDS.org | 所有領域（DDI 警示） | 222,383 筆 DDI |
+| DDI-CDS.org | 所有領域（DDI 警示） | {{ site.data.ddi_sources.display.ddinter_rows }} 筆 DDI |
 | Dr. Ted Pincus (ClinDat) | Autoimmune | 17 藥物、16 適應症 |
 | Aditus (Lupus Advisor) | Autoimmune | 17 藥物、16 適應症 |
 | OM1 (Depression) | Psychiatric | 14 藥物、8 適應症 |
