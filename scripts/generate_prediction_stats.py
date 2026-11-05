@@ -9,6 +9,7 @@ data/ 不進 git（成果放本 repo 的 Release，還原：cat TwTxGNN-data.tar
 
 算法（每項都只數檔案，不做推估）：
     fda_records          data/raw/tw_fda_drugs.json 的筆數
+    fda_license_ids      同檔中不重複的「許可證字號」數（一張許可證可有多筆資料）
     fda_active           同檔中「註銷狀態」不是「已註銷」且「主成分略述」不空的筆數（同 twtxgnn.data.filter_active_drugs）
     ingredient_mapping_rate / drugbank_ids
                          data/processed/drug_mapping.csv：映射成功列／全部列；映射成功列的不重複 drugbank_id
@@ -75,6 +76,7 @@ def build():
 
     v = {
         "fda_records": len(fda),
+        "fda_license_ids": len({d.get("許可證字號") for d in fda if d.get("許可證字號")}),
         "fda_active": len(active),
         "ingredient_mapping_rate": ok / n,
         "drugbank_ids": len(db),

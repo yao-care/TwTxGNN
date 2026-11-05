@@ -68,6 +68,8 @@ COUNT_SPOTS = [
         ("KG 與 DL 整合後總筆數", "`integration_stats.json` 的 total_predictions", "integration_total"),
         ("整合後涉及藥物數", "`integration_stats.json` 的 unique_drugs", "integration_drugs"))],
     ("README.md", r'(檔案只存分數 ≥ )([\d.]+)( 的配對)', "pred:dl_min_score"),
+    ("README.md", r'(\| )([\d,]+)( 筆資料、[\d,]+ 個許可證字號（`data/raw/tw_fda_drugs.json`)', "pred:fda_records"),
+    ("README.md", r'(筆資料、)([\d,]+)( 個許可證字號（`data/raw/tw_fda_drugs.json`)', "pred:fda_license_ids"),
     ("README.md", r'(\| )([\d,]+)( 種疾病、[\d,]+ 個藥品（`data/external/disease_vocab.csv`)', "pred:kg_vocab_diseases"),
     ("README.md", r'(種疾病、)([\d,]+)( 個藥品（`data/external/disease_vocab.csv`)', "pred:kg_vocab_drugs"),
     ("CITATION.cff", r'(provides )(\d+)( drug validation reports)', "total"),

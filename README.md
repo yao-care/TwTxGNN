@@ -64,7 +64,7 @@ uv run python scripts/run_kg_prediction.py
 
 直接查詢 TxGNN 知識圖譜中的藥物-疾病關係。
 
-**結果檔案**：`data/processed/repurposing_candidates.csv`
+**結果檔案**：`data/processed/repurposing_candidates.csv.gz`
 
 **現行 Release 的數字**：由 `scripts/generate_prediction_stats.py` 從本 repo Release 的 `data/` 算出，寫進 `docs/_data/prediction_stats.json`（裡面記著是哪個 Release），本表由 `scripts/generate_drug_stats.py` 同步，`scripts/check_seo_docs.py` 第 7c 項擋不一致。
 
@@ -100,7 +100,7 @@ python scripts/run_txgnn_prediction.py
 
 使用 TxGNN 預訓練神經網路模型計算預測分數。
 
-**結果檔案**：`data/processed/txgnn_dl_predictions.csv`
+**結果檔案**：`data/processed/txgnn_dl_predictions.csv.gz`
 
 **現行 Release 的數字**（同上，由 `docs/_data/prediction_stats.json` 同步）：
 
@@ -355,7 +355,7 @@ python scripts/run_txgnn_prediction.py
 
 | 類別 | 資料 | 來源 | 說明 |
 |------|------|------|------|
-| **藥品** | 台灣 FDA 藥品 | [食藥署開放資料](https://data.fda.gov.tw/data/opendata/export/36/json) | 71,545 筆藥品許可證 |
+| **藥品** | 台灣 FDA 藥品 | [食藥署開放資料](https://data.fda.gov.tw/data/opendata/export/36/json) | 72,062 筆資料、66,503 個許可證字號（`data/raw/tw_fda_drugs.json`） |
 | **知識圖譜** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 種疾病、7,957 個藥品（`data/external/disease_vocab.csv`、`drugbank_vocab.csv` 的列數） |
 | **藥物資料庫** | DrugBank | [DrugBank](https://go.drugbank.com/) | 藥品成分映射、DrugBank ID |
 | **藥物交互** | DDInter（DDI：下載檔 `ddinter_code_*.csv`；DFI、DDSI：2.0 API） | [DDInter](https://ddinter2.scbdd.com/) | 222,383 筆 DDI、857 筆 DFI、8,359 筆 DDSI |
@@ -407,8 +407,8 @@ TwTxGNN/
 │   ├── processed/
 │   │   ├── drug_mapping.csv            # 🔵 台灣藥品→DrugBank 映射
 │   │   ├── indication_mapping.csv      # 🔵 適應症→疾病映射
-│   │   ├── repurposing_candidates.csv  # 🔵 知識圖譜方法結果
-│   │   └── txgnn_dl_predictions.csv    # 🔵 深度學習方法結果
+│   │   ├── repurposing_candidates.csv.gz  # 🔵 知識圖譜方法結果
+│   │   └── txgnn_dl_predictions.csv.gz    # 🔵 深度學習方法結果
 │   ├── collected/                      # 🟠 驗證流程 - 原始收集資料
 │   │   ├── clinicaltrials/             # ClinicalTrials.gov 資料
 │   │   ├── pubmed/                     # PubMed 文獻
@@ -506,8 +506,8 @@ flowchart TD
     ind_map --> KG["知識圖譜方法<br/>(repurposing.py)"]
     ind_map --> DL["深度學習方法<br/>(txgnn_model.py)"]
 
-    KG --> kg_out["repurposing_candidates.csv"]
-    DL --> dl_out["txgnn_dl_predictions.csv"]
+    KG --> kg_out["repurposing_candidates.csv.gz"]
+    DL --> dl_out["txgnn_dl_predictions.csv.gz"]
 ```
 
 ---

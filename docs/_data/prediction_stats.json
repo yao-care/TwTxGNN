@@ -1,7 +1,8 @@
 {
-  "_source": "本 repo Release data-20261102-155217 的 data/（算法見 scripts/generate_prediction_stats.py 開頭）。由 scripts/generate_prediction_stats.py 產生，勿手改；README 數字由 scripts/generate_drug_stats.py 同步。",
-  "release": "data-20261102-155217",
+  "_source": "本 repo Release data-20261105-123754 的 data/（算法見 scripts/generate_prediction_stats.py 開頭）。由 scripts/generate_prediction_stats.py 產生，勿手改；README 數字由 scripts/generate_drug_stats.py 同步。",
+  "release": "data-20261105-123754",
   "fda_records": 72062,
+  "fda_license_ids": 66503,
   "fda_active": 23553,
   "ingredient_mapping_rate": 0.8507559058624452,
   "drugbank_ids": 1549,
@@ -22,6 +23,7 @@
   "kg_vocab_drugs": 7957,
   "display": {
     "fda_records": "72,062",
+    "fda_license_ids": "66,503",
     "fda_active": "23,553",
     "ingredient_mapping_rate": "85.08%",
     "drugbank_ids": "1,549",

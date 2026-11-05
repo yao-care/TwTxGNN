@@ -82,15 +82,16 @@ ls data/external/drugbank_vocab.csv data/external/disease_vocab.csv data/externa
 uv run python scripts/run_kg_prediction.py
 
 # 驗證
-ls data/processed/repurposing_candidates.csv
+ls data/processed/repurposing_candidates.csv.gz
 ```
 
-**結果檔案**：`data/processed/repurposing_candidates.csv`
+**結果檔案**：`data/processed/repurposing_candidates.csv.gz`
 
-預期輸出：
-- 老藥新用候選數：142,328
-- 涉及藥物數：677
-- 潛在新適應症數：1,035
+輸出的候選數、涉及藥物數、潛在新適應症數用這行查（2026-11-05 起不在這裡寫死數字；現行 Release 的值見 `docs/_data/prediction_stats.json` 的 kg_candidates、kg_drugs、kg_diseases）：
+
+```bash
+python3 -c "import pandas as pd;c=pd.read_csv('data/processed/repurposing_candidates.csv.gz');print(len(c),c['藥物成分'].nunique(),c['潛在新適應症'].nunique())"
+```
 
 ---
 
@@ -254,7 +255,7 @@ FDA ZIP 檔案 (手動下載)         TxGNN 資料 (node.csv, kg.csv)
                         ↓
                run_kg_prediction.py
                         ↓
-           repurposing_candidates.csv (142,328 筆)
+           repurposing_candidates.csv.gz
 ```
 
 ## 疑難排解
