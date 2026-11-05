@@ -32,12 +32,12 @@ TwTxGNN SMART App 整合了多個外部資源，提供更完整的臨床決策�
 
 ## 藥物交互作用檢查
 
-查詢多個藥物時，系統會自動檢查藥物交互作用（DDI）並顯示警示。
+查詢多個藥物時，頁面會用 `ddi-checker.js` 內建的 15 條規則檢查常見的高風險藥物組合（DDI）並顯示警示。這不是完整的資料庫比對：沒有警示不代表沒有交互作用。
 
 | 資源 | 說明 | 連結 |
 |------|------|------|
-| **DDInter 2.0** | 收錄 222,391 個藥物交互作用，涵蓋 2,310 種藥物 | [DDInter 網站](https://ddinter2.scbdd.com/) |
-| **Guide to PHARMACOLOGY** | IUPHAR/BPS 藥理學指南，核准藥物交互作用資料 | [官方網站](https://www.guidetopharmacology.org/) |
+| **DDInter** | 內建規則參考 DDInter；藥物報告的 DDI 用 DDInter 1.0 下載檔（222,391 筆，見[安全性資料]({{ '/nav-safety/' | relative_url }})） | [DDInter 網站](https://ddinter2.scbdd.com/) |
+| **Guide to PHARMACOLOGY** | IUPHAR/BPS 藥理學指南，藥物報告使用其核准藥物交互作用資料；頁面即時檢查不使用 | [官方網站](https://www.guidetopharmacology.org/) |
 
 ### 警示等級
 

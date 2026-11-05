@@ -121,7 +121,8 @@ document.addEventListener('DOMContentLoaded', function() {
     'L2': '#66BB6A',
     'L3': '#FDD835',
     'L4': '#FB8C00',
-    'L5': '#9E9E9E'
+    'L5': '#9E9E9E',
+    'N/A': '#BDBDBD'
   };
 
   const levelLabels = {
@@ -129,7 +130,8 @@ document.addEventListener('DOMContentLoaded', function() {
     'L2': 'Phase 2 RCT',
     'L3': '觀察性研究',
     'L4': '前臨床研究',
-    'L5': '僅模型預測'
+    'L5': '僅模型預測',
+    'N/A': '僅已知用途'
   };
 
   const tooltip = d3.select('.d3-tooltip');
@@ -274,7 +276,8 @@ document.addEventListener('DOMContentLoaded', function() {
       .append('g')
       .attr('transform', `translate(${margin.left},${margin.top})`);
 
-    const levelOrder = ['L1', 'L2', 'L3', 'L4', 'L5'];
+    // N/A＝主預測已撤回、只剩已知用途的藥物頁，單獨一欄
+    const levelOrder = ['L1', 'L2', 'L3', 'L4', 'L5', 'N/A'];
 
     const x = d3.scalePoint()
       .domain(levelOrder)
