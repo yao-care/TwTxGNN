@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -48,13 +48,13 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [得閒要曬下 研究：日照不足可能會增加失智風險](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5)
+### [失智症不是老了才預防！《Lancet》揭14項風險因子 醫：及早管理有助降低失智風險](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5)
 
-2026-11-02 <span class="news-indication-tag">失智</span>
+2026-11-05 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源: [am730](https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5)
 
 ---
 
@@ -63,14 +63,6 @@ last_modified_at: 2026-11-05
 2026-10-31 <span class="news-indication-tag">腫瘤</span>
 
 來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
-
----
-
-### [怕失智常喝柳橙汁有效嗎？研究發現風險較低，醫師提醒3類人要避開- 書房](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sMmpUTXc3OUZiWVF5cWoybVJiQUJCRk0xeUpGWjBTbG5EeUJyOVEzMlRrQjB6QW1ETmxldzBQcDN3OTFZcEd2RGtic0g3R29DMVM2Q29wOU1OV25mYTFv?oc=5)
-
-2026-10-30 <span class="news-indication-tag">失智</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sMmpUTXc3OUZiWVF5cWoybVJiQUJCRk0xeUpGWjBTbG5EeUJyOVEzMlRrQjB6QW1ETmxldzBQcDN3OTFZcEd2RGtic0g3R29DMVM2Q29wOU1OV25mYTFv?oc=5)
 
 ---
 

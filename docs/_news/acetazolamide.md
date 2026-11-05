@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [虹膜炎反覆發作 眼壓急升恐致青光眼](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSnpCVDRvVm85Q0ZfNFVzUkEwRVRlTG8xM1NlWS0wNEhlRGVNZ2JTb3FDV1JFWWt2ZlBHdWg5aEphUG8tVFlQVlJyMnRjbXViU1pMdnFzVE9HOWh0N2V6ZlNsQWtTaW0xSktORGRHWUpPcFIxUlZsSGtXaDdzMDIzckxtc284VUtpd3dkTlRwbkd1ejR6eE9DS3k0R0duZmdHV05zTUJ3eUd0MGxybzdwejlQdUUzU2lFWUtGaG40b1J0cTItUjJ4dzVOcWMwWi1sMW9qWi1WblIxUzNhS2NWYW9FdHpzQkpqN1ljX3V0TG5keGxza0ZLb0pydmcwdjJKMGpONnl6LTNNak53NGYxZ3ZOVUV4OEU5em92ckp4LVpkNTIxZmhNY1EzOA?oc=5)
+
+2026-11-05 <span class="news-indication-tag">青光眼</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSnpCVDRvVm85Q0ZfNFVzUkEwRVRlTG8xM1NlWS0wNEhlRGVNZ2JTb3FDV1JFWWt2ZlBHdWg5aEphUG8tVFlQVlJyMnRjbXViU1pMdnFzVE9HOWh0N2V6ZlNsQWtTaW0xSktORGRHWUpPcFIxUlZsSGtXaDdzMDIzckxtc284VUtpd3dkTlRwbkd1ejR6eE9DS3k0R0duZmdHV05zTUJ3eUd0MGxybzdwejlQdUUzU2lFWUtGaG40b1J0cTItUjJ4dzVOcWMwWi1sMW9qWi1WblIxUzNhS2NWYW9FdHpzQkpqN1ljX3V0TG5keGxza0ZLb0pydmcwdjJKMGpONnl6LTNNak53NGYxZ3ZOVUV4OEU5em92ckp4LVpkNTIxZmhNY1EzOA?oc=5)
+
+---
 
 ### [擠到活不下去，最新研究：腫瘤內部的高壓物理環境竟能觸發癌細胞「自毀」 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE53QUc2UVFBb29TVUV3REV5T2ViZE9Gc1ktSHBpckdSeFRsSzZNbnhTSUV5U245bHJCRjNySGFKdElNMFR2eXpDYWNRWUkzckFHY2k4cjl3?oc=5)
 

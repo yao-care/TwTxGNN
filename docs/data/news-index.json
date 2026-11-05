@@ -1,40 +1,77 @@
 {
-  "generated": "2026-11-05T01:10:13.952953+00:00",
-  "count": 11,
+  "generated": "2026-11-05T08:45:09.448068+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "f580f6eabfba",
-      "title": "有氧不夠！1運動每周加做2小時醫：心梗風險砍半- 健康",
-      "published": "2026-11-04T03:09:44+00:00",
+      "id": "ae04587baff1",
+      "title": "失智症不是老了才預防！《Lancet》揭14項風險因子 醫：及早管理有助降低失智風險",
+      "published": "2026-11-05T04:10:59+00:00",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13RlBDaWJjd0lXbXVvc254SE1qbVJMXzBlTDBwTjJ4TXFoR0U5X0lxNm00aVhLYi1lOTdOcG16a1BremoxbmdJTlAxb1BEaS1DNE5jc080VjFfbHpRS1R1ZWdCdG9PakdZWUFhNEx3?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
+          "name": "dementia",
+          "keyword": "失智症",
           "related_drugs": [
             {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
             }
           ]
         }
       ]
     },
     {
-      "id": "31719bc14338",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
-      "published": "2026-11-04T01:35:41+00:00",
+      "id": "d44ae7da93c1",
+      "title": "虹膜炎反覆發作 眼壓急升恐致青光眼",
+      "published": "2026-11-05T03:49:26+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOUG9wMFREMk42RXJrY3dtMWtLVmhKSWVZX044ZXZKQ3paa19jVWNEMUE4SkVBbFJtMkppS0VsSExWeEtYLWJpMEozT1BFeExBNHJrWGVOY1hkdFNTdjRPMk4xanR5YXpiZ0o1Rllkdk13UUQ0bUN2eUZhMUJOc0QyZU5oVGdWUmVIY2RXeTN5d3dDRXY0UC1BaXJEUFFyWi13YUdDWFFLLUY4dS1vU3RvSFJsblBLOWVGY0ZmcHlRN1k3dDc4RjdCb1Q3VUxyNDVRT3lTVGdFTDlObVVRak9ITlF1bzBtUzJlcmhJMkg4LXZuZE5ucGY1Qlg1T0s5V0JkZ2swR1Q1cnhSWmk0WUJKWEU1UHRVclN5TXhCelJlZnQ1eFdxcDgyZ05MeFJHVUozQTRJeWJYbWhYWnRURHNLUDZkNHZMQVpadE83VTRDWTlwNW1xdXFJNWxSUWFkSWtMbFhnQlVDQ1BsWUZfb2JrQnFJMEl4S3k2RmtiQmVzQ20wWjBiWEE?oc=5"
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSnpCVDRvVm85Q0ZfNFVzUkEwRVRlTG8xM1NlWS0wNEhlRGVNZ2JTb3FDV1JFWWt2ZlBHdWg5aEphUG8tVFlQVlJyMnRjbXViU1pMdnFzVE9HOWh0N2V6ZlNsQWtTaW0xSktORGRHWUpPcFIxUlZsSGtXaDdzMDIzckxtc284VUtpd3dkTlRwbkd1ejR6eE9DS3k0R0duZmdHV05zTUJ3eUd0MGxybzdwejlQdUUzU2lFWUtGaG40b1J0cTItUjJ4dzVOcWMwWi1sMW9qWi1WblIxUzNhS2NWYW9FdHpzQkpqN1ljX3V0TG5keGxza0ZLb0pydmcwdjJKMGpONnl6LTNNak53NGYxZ3ZOVUV4OEU5em92ckp4LVpkNTIxZmhNY1EzOA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "青光眼",
+          "keyword": "青光眼",
+          "related_drugs": [
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e04b848e73d5",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
+      "published": "2026-11-04T22:30:00+00:00",
+      "sources": [
+        {
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLU1TZnlRMzh4V1JMdmxkeWNELUxHZFVDRzhCMjRmeXV0X0l5RFpiU2RjUUMtUUdSZVVxUFoxUHNvc1BVc21xVEpmNTEzYzdiRjctbU52S1Y3WFVjUVU4Qw?oc=5"
         }
       ],
       "keywords": [
@@ -70,6 +107,31 @@
       ]
     },
     {
+      "id": "a2760d9f7a34",
+      "title": "護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心",
+      "published": "2026-11-04T08:22:02+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPRE0tNG9aaVAwcGNTOVF4ZGt2WlAzMURZT01pdTVnVzJFY3lxYVNYSmx2M2xhYUg5YkJYNU1ncFExMFlvWHYyR3ZkLURDR3lGS0JoQVRlSTFTYUZ4QkpaOFpIbjM3YlY4dVJ0aFR1QmdwSGxRNWtrelcyN0MxVndrandzWk1ORzBpblh6RzdJR1AwcUxqdzhRbDd4MENUQzRFOU4wOVpmTXc4ZjdUWm9XRGl5R3lHeU5DRlNHbjZ2M0VrQjN2T19VUGpYSTlwSVZaVUNLMjFCYm9QcUNITU4xeWpiTEd5LWtXME84bHZrUEFkN3d0cGhqN1JkbFAxeHd4NlpzWFU4blBSM2kxU29TUzFQSHM2N2FpVVBJV2pUSFdfWlFUMFdEMkhyZ016ZmtCaFdmU0c4MEFBdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4f356ff49464",
       "title": "父親只有一個！老父罹患肝癌4兄弟抽籤搶捐肝| 生活",
       "published": "2026-11-03T14:48:00+00:00",
@@ -89,56 +151,6 @@
               "slug": "cladribine",
               "name": "Cladribine",
               "url": "/drugs/cladribine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "454623be110b",
-      "title": "防流感更要防RSV重症！醫籲３步驟建立呼吸道「五重防護」",
-      "published": "2026-11-03T09:07:45+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45WThVMzNUQl9VUTVEQzM3M0s4bWh1QTJMYW9YZlJHeDlleVBkREpFSGxhUkpXZlB6d2NySTNmSzZsaTBJdC1YUXFyV01UZGdKZmc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "559779e43089",
-      "title": "得閒要曬下 研究：日照不足可能會增加失智風險",
-      "published": "2026-11-02T03:30:00+00:00",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQb3ViMDdrdS1qeWRPVXMzUzFTZlBOaU9PbG9Sd2YzLUdkZzZKWmp0bGQ3VWlhcEpralk3cC1LN0NyWU5hVWdodGNEYm9DdVFLNkFuejN1enc5SmtMUUZZMzdLVHhITXd2TGNSX08zSGhsYURXOUpBMVk0YUUzX1BSbjNIN2tVVWZqXzFvQUctcnBxVExHUi1lcmpBMWFONWpzNGtZeTQwT2w2aTNwaElTNkJlZE1XTmVIMEc1czRvV1lJbjRQMVpWMHh1NW9GbldTWlVqX1g3bmJhdGFLc0NEeXhqME9pRTR2WjBvWGhKNjNfS2J0Y3FqSVphdTdhMDNrUG9pMmZKTTY0Tk5XYzdlTUJYLUZXS3lVTjAxVzE3OUt3MDFjdThZaGJ6ODcwcUF4WnJEd09hX2pxb3kzdFppVGJ5MUFIWEQxZ1lGdVRpSFNSWFoy?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
             }
           ]
         }
@@ -474,31 +486,6 @@
               "slug": "zanubrutinib",
               "name": "Zanubrutinib",
               "url": "/drugs/zanubrutinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "934d39639881",
-      "title": "怕失智常喝柳橙汁有效嗎？研究發現風險較低，醫師提醒3類人要避開- 書房",
-      "published": "2026-10-30T23:25:00+00:00",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sMmpUTXc3OUZiWVF5cWoybVJiQUJCRk0xeUpGWjBTbG5EeUJyOVEzMlRrQjB6QW1ETmxldzBQcDN3OTFZcEd2RGtic0g3R29DMVM2Q29wOU1OV25mYTFv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
             }
           ]
         }
