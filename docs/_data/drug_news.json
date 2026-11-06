@@ -39,17 +39,17 @@
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 3
+      "count": 4
+    },
+    {
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
+      "count": 2
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 2
-    },
-    {
-      "url": "/news/腸癌/",
-      "title": "腸癌 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/docetaxel/": [
@@ -85,34 +85,34 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 3
+      "count": 4
+    },
+    {
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
+      "count": 2
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 2
-    },
-    {
-      "url": "/news/腸癌/",
-      "title": "腸癌 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/hydroxyurea/": [
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
-      "count": 3
+      "count": 4
+    },
+    {
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
+      "count": 2
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 2
-    },
-    {
-      "url": "/news/腸癌/",
-      "title": "腸癌 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/iodixanol/": [
@@ -155,16 +155,28 @@
     {
       "url": "/news/oteracil/",
       "title": "Oteracil 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/colonic-neoplasm/",
       "title": "大腸癌 (colonic neoplasm) 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
+      "count": 2
+    }
+  ],
+  "/drugs/ouabain/": [
+    {
+      "url": "/news/ouabain/",
+      "title": "Ouabain 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/myocardial-infarction/",
+      "title": "心梗 (myocardial infarction) 相關新聞",
       "count": 1
     }
   ],

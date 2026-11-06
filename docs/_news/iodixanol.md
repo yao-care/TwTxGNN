@@ -38,11 +38,11 @@ last_modified_at: 2026-11-06
 
 ## 相關新聞（1 則）
 
-### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLU1TZnlRMzh4V1JMdmxkeWNELUxHZFVDRzhCMjRmeXV0X0l5RFpiU2RjUUMtUUdSZVVxUFoxUHNvc1BVc21xVEpmNTEzYzdiRjctbU52S1Y3WFVjUVU4Qw?oc=5)
+### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
 
-2026-11-04 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
+2026-11-05 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
 
-來源: [民視新聞網](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLU1TZnlRMzh4V1JMdmxkeWNELUxHZFVDRzhCMjRmeXV0X0l5RFpiU2RjUUMtUUdSZVVxUFoxUHNvc1BVc21xVEpmNTEzYzdiRjctbU52S1Y3WFVjUVU4Qw?oc=5)
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
 
 ---
 

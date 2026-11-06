@@ -1,7 +1,84 @@
 {
-  "generated": "2026-11-06T10:24:31.018658+00:00",
-  "count": 9,
+  "generated": "2026-11-06T17:44:30.704448+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "c9ff4fc40ff5",
+      "title": "零卡≠健康！60歲男每天喝「1種無糖飲」竟血管栓塞 醫：心梗風險多2倍",
+      "published": "2026-11-06T14:11:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWUpHLXN2ZEFqV3g5ektWX3ZSWTN0c2wyTVlGOEN6TGVhd0VFakd6dnVLRDl0VkQyZGEwd2xmSE5EcXdpR0ZMR010X0Zmc2ZQZVBQRFl4WWVsckhmSUJxM25iTW1GSE9iQ0pURXg4SkViODFqenhfUTcxNDlmN1kyMVVKMm5EMU84dVhvNVVORnlBWTlZNXRoek9ybEdWNUhSTFJfWWlzY1Z2dXJlS3pZb2I2OWpsYUlKQi1ac2xfR3V5NnFqSExxLXlrbElVa0NQTkNaM2FrVFJzSWtxNnhLQ3g1aThYNm03ZHhFQXJEcVVjSDRoNVV0OWpYUjZ2M3FKZDJpVWEtNHpuSEd0bl8zeTh3N3UxYzRkSHFxZVlWVTZ3c3E3SXhTSmNRcDROWmotXzhqRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7d75f629160",
+      "title": "腸道健康｜比傳統照腸慳8成時間！英國引入新款「微型鏡頭膠囊」每秒兩張相無痛無創助篩查大腸癌",
+      "published": "2026-11-06T09:58:57+00:00",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNcGQtX3dyeTdnZXFaS2p1M0NHUUhLOTZqcFNfZFV0Y0c3bVJzam1qQWpZUWZLQkNvWWNfVlRNQ3JwTmZQQjlqUnRNVVpENTFjTWpYQVloZXRYUEp6RjAzTTRHY0VLT0RVVUNVMHJVSUpGSllwS2FkX05LcGo4WG0xOGV2a29jbHR4aHk0LThxWEZka01TZTRBc2ZLZk9qTDlUMjA5MzAzXzlsZjU4U1c0UFZNcUVRbHQwaEJNa0dScjgxc0FkdkJqRmxNNzVkamNkSllSSXZzZ3JKU2R1NjZ6SFYyekZBQ094YXVOVmRDUHNHOGxzV0toLUlKSmxhR0pOX05BRllQbzY5cXo0V2M0a0xDMVJwc1dMWWdFekRaeGJVMnV0YXczUjZPVEVZWk84Y0w1NzI4NjRBeU9PRkpZS05SMktWX0hCemRvMm5QNE5UeTg1QXBjS0U1UkRLTEVJR0JHWnROY1BqT0lIMmxoVmNMOFZuQTFsUWZfWUp5MjN6MHVEQjBENHc0cDZWMUVjQmk5WVdpXzZDdEJNYWd0eGdCY2xZRDZMbVlMZ1Uza3ZfMVdFQy1JU3UwNkdYUDdwWFRNdjAzVm5nakREQkZ4dEdGVGxIa19scl8za0xWNUNaTllob2dwV3BLTEZvREEzN0pWMW50ZUZfVUZvSzVjSWNTOWYwaVNLbFZTbDlndV9XN0JQaTdRV3BwbmVLTUZaMVlKZ2dRYll4T0ZfOU02c3k3UTRuMmhzZE5PTTd2QXhPNXhkZ1pmLUVsN040QXhqQzNyQ2N4XzVkRmthTXVjR0NRMA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a026d696fa30",
       "title": "0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌",
@@ -117,13 +194,13 @@
       ]
     },
     {
-      "id": "e04b848e73d5",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
-      "published": "2026-11-04T22:30:00+00:00",
+      "id": "dd5b6efb7c72",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查",
+      "published": "2026-11-05T03:21:25+00:00",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLU1TZnlRMzh4V1JMdmxkeWNELUxHZFVDRzhCMjRmeXV0X0l5RFpiU2RjUUMtUUdSZVVxUFoxUHNvc1BVc21xVEpmNTEzYzdiRjctbU52S1Y3WFVjUVU4Qw?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
         }
       ],
       "keywords": [
