@@ -31,6 +31,7 @@
     11. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
     13. docs/_data/ddi_sources.json＝.github/ddi-versions.json 的 site_data；頁面的 DDInter／GtoPdb 數字與版本用 Liquid 讀它（scripts/sync_ddi_sources.py，2026-11-05）。
     14. FHIR metadata（docs/fhir/metadata*）的在地欄位：jurisdiction 國碼＝本站 ISO 3166-1 alpha-2、不出現別站國名／代號、網址在本站網域、非中日文站不含漢字（2026-11-06）。
+    15. docs/fhir 所有檔的 jurisdiction 國碼＝本站、含 txgnn／github.io 的網址在本站網域；metadata 與 metadata.json 內容相同、只宣稱 read（2026-11-06）。
 
 用法：python3 scripts/check_seo_docs.py      # 非零＝不通過
 """
@@ -607,6 +608,49 @@ for _mn in ("metadata", "metadata.json"):
 if _md_bad:
     errors.append(f"FHIR metadata 在地欄位錯 {len(_md_bad)} 處：{'；'.join(_md_bad[:6])}"
                   f"（只改 docs/fhir/metadata* 錯的欄位與 scripts/generate_fhir_resources.py，數字欄位不動）")
+
+
+# 15) 所有 FHIR 檔的在地欄位（2026-11-06 補）：docs/fhir 底下每個檔（MedicationKnowledge、ClinicalUseDefinition、Bundle 等）
+#    jurisdiction（urn:iso:std:iso:3166）國碼都＝本站國碼（上一項的 _MD_ISO；Dk／Nl／Za 的 MedicationKnowledge 曾寫 Dk／Nl／Za）；
+#    網址的主機名含 txgnn 或是 github.io 的，必須是本站網域（Ph 曾有 2,289 個檔寫 phtxgnn.github.io）；
+#    metadata 與 metadata.json 都在時內容要相同（/fhir/metadata 才是實際對外的那份）；metadata* 只宣稱 read（靜態站做不到 search-type）。
+_fx_bad, _fx_code, _fx_host = [], {}, {}
+_fx_rx_code = re.compile(r'"system":\s*"urn:iso:std:iso:3166",\s*"code":\s*"([^"]*)"')
+_fx_rx_host = re.compile(r'https?://([A-Za-z0-9.-]+)')
+_fx_own = _MD_HOST.split("://", 1)[1]
+for _fp in sorted((DOCS / "fhir").rglob("*")) if (DOCS / "fhir").is_dir() else []:
+    if not _fp.is_file():
+        continue
+    _ft = _fp.read_text(encoding="utf-8", errors="ignore")
+    _rel = _fp.relative_to(DOCS).as_posix()
+    for _c in _fx_rx_code.findall(_ft):
+        if _c != _MD_ISO:
+            _fx_code.setdefault(_c, []).append(_rel)
+    for _h in set(_fx_rx_host.findall(_ft)):
+        _hl = _h.lower()
+        if ("txgnn" in _hl or _hl.endswith("github.io")) and _hl != _fx_own:
+            _fx_host.setdefault(_h, []).append(_rel)
+for _c, _fs in _fx_code.items():
+    _fx_bad.append(f"jurisdiction 國碼 {_c!r}（本站 {_MD_ISO}）{len(_fs)} 個檔，例：{_fs[0]}")
+for _h, _fs in _fx_host.items():
+    _fx_bad.append(f"網址主機 {_h} 不是本站 {_fx_own}，{len(_fs)} 個檔，例：{_fs[0]}")
+_fx_md = {}
+for _mn in ("metadata", "metadata.json"):
+    _mp = DOCS / "fhir" / _mn
+    if _mp.exists():
+        try:
+            _fx_md[_mn] = json.loads(_mp.read_text(encoding="utf-8"))
+        except ValueError:
+            continue
+        _ints = {_i.get("code") for _r in _fx_md[_mn].get("rest") or [] for _x in _r.get("resource") or []
+                 for _i in _x.get("interaction") or []}
+        if _ints - {"read"}:
+            _fx_bad.append(f"fhir/{_mn} 宣稱 {sorted(_ints - {'read'})}，靜態站只支援 read")
+if len(_fx_md) == 2 and _fx_md["metadata"] != _fx_md["metadata.json"]:
+    _fx_bad.append("fhir/metadata 與 fhir/metadata.json 內容不同（/fhir/metadata 是實際對外的那份，metadata.json 要跟它一樣）")
+if _fx_bad:
+    errors.append(f"FHIR 檔的在地欄位錯 {len(_fx_bad)} 項：{'；'.join(_fx_bad[:6])}"
+                  f"（只改國碼／網域那一處；metadata.json 照 metadata 寫；scripts/generate_fhir_resources.py 寫錯的地方一起改）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
