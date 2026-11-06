@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carboplatin 的相關健康新聞報導。原適應症：卵巢癌。; 卵巢癌; 上皮性卵巢癌、肺部小細胞癌及頭頸部麟狀細胞癌、子宮頸癌。; 卯巢癌; 抗腫瘤藥。預測適應症 10 個。"
 permalink: /news/carboplatin/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Carboplatin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,13 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [她拒切0.8cm息肉！吃素數十年仍得大腸癌 醫揭「3地雷食物」](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xb0hYT0pjZGRmbko4NDE2b2lxdUZOaU5hZFNqQk9jRXh4LWhyRmEzdXh3dk9XZGZsRVA5OWdpcmRaamlURzVVaUkyMkg?oc=5)
+### [0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌](https://news.google.com/rss/articles/CBMiygJBVV95cUxQVUNqekFBbkkxVm5PaUxTNFVnSlZPNElTUi1WT3ZVZ2ZKUDJMMXRHWW1NREdxQ3hYRmxDdEROYTFRTndzMk0yZll4MFBLWDRaczliMHdSbnhCejdJbnVESmpPUGxpazItSjZremVENjU4VVNTZWFHcExKYlJWMnhwSTRQcEN3OWdrQWJZY1c1TFM4b0lfUXpLbldQTHo2S3JhNlZ0S2FqR2pvbVdQbGRIcnI1Nkl4Z3FHLWdrYjFDXy1TTEJFU0Zwa0dsT2xGTUtjWWRxdGtOQ3RSRWc0Q0k2VW9WM1VKekZROTJtZ3BET0FGYS1XMWd3Z1ZhS2F4dmh4UE1DVUIyZnFfUXpmaElZbWlrTlV0RTU0b2N4VUg0dXoyLUlzd3FOUkZSbEpRcVhqUW1tQ0xFYVAyRThMaEFubUNKVEIzN0lhUWc?oc=5)
 
-2026-11-05 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+2026-11-06 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xb0hYT0pjZGRmbko4NDE2b2lxdUZOaU5hZFNqQk9jRXh4LWhyRmEzdXh3dk9XZGZsRVA5OWdpcmRaamlURzVVaUkyMkg?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxQVUNqekFBbkkxVm5PaUxTNFVnSlZPNElTUi1WT3ZVZ2ZKUDJMMXRHWW1NREdxQ3hYRmxDdEROYTFRTndzMk0yZll4MFBLWDRaczliMHdSbnhCejdJbnVESmpPUGxpazItSjZremVENjU4VVNTZWFHcExKYlJWMnhwSTRQcEN3OWdrQWJZY1c1TFM4b0lfUXpLbldQTHo2S3JhNlZ0S2FqR2pvbVdQbGRIcnI1Nkl4Z3FHLWdrYjFDXy1TTEJFU0Zwa0dsT2xGTUtjWWRxdGtOQ3RSRWc0Q0k2VW9WM1VKekZROTJtZ3BET0FGYS1XMWd3Z1ZhS2F4dmh4UE1DVUIyZnFfUXpmaElZbWlrTlV0RTU0b2N4VUg0dXoyLUlzd3FOUkZSbEpRcVhqUW1tQ0xFYVAyRThMaEFubUNKVEIzN0lhUWc?oc=5)
 
 ---
 
@@ -58,6 +58,14 @@ last_modified_at: 2026-11-05
 2026-10-31 <span class="news-indication-tag">乳癌</span>
 
 來源: [香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
+
+---
+
+### [小酌也很傷身 為何飲用任何劑量酒精都增加乳癌風險？](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4SDZLQm5DS2tOS3VoS29oMzNDZi1PV1lreXRXTlV3dXFfYkhOc3AxczVyWWdWSzZMaFROdXI5bXpQQ21tN2dkT0pZdWw4Vk11b3pOcTBfajJSbUtQVVpN?oc=5)
+
+2026-10-31 <span class="news-indication-tag">乳癌</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4SDZLQm5DS2tOS3VoS29oMzNDZi1PV1lreXRXTlV3dXFfYkhOc3AxczVyWWdWSzZMaFROdXI5bXpQQ21tN2dkT0pZdWw4Vk11b3pOcTBfajJSbUtQVVpN?oc=5)
 
 ---
 

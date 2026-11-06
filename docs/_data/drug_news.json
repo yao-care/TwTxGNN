@@ -27,40 +27,28 @@
     {
       "url": "/news/anastrozole/",
       "title": "Anastrozole 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/carboplatin/": [
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
+      "count": 3
+    },
+    {
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 2
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
-    }
-  ],
-  "/drugs/cladribine/": [
-    {
-      "url": "/news/cladribine/",
-      "title": "Cladribine 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/liver-sarcoma/",
-      "title": "肝癌 (liver sarcoma) 相關新聞",
       "count": 1
     }
   ],
@@ -68,12 +56,12 @@
     {
       "url": "/news/docetaxel/",
       "title": "Docetaxel 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/gefitinib/": [
@@ -97,16 +85,16 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
+      "count": 3
+    },
+    {
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 2
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 1
     }
   ],
@@ -114,16 +102,16 @@
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
+      "count": 3
+    },
+    {
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 2
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 1
     }
   ],
@@ -143,12 +131,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide dinitrate 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/metoprolol/": [
@@ -184,12 +172,12 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/子宮頸癌/",
@@ -197,28 +185,16 @@
       "count": 1
     }
   ],
-  "/drugs/salicylamide/": [
-    {
-      "url": "/news/salicylamide/",
-      "title": "Salicylamide 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/common-cold/",
-      "title": "感冒 (common cold) 相關新聞",
-      "count": 1
-    }
-  ],
   "/drugs/trabectedin/": [
     {
       "url": "/news/trabectedin/",
       "title": "Trabectedin 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
+      "count": 2
     }
   ]
 }

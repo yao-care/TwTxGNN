@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Docetaxel 的相關健康新聞報導。原適應症：抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。;...。預測適應症 10 個。"
 permalink: /news/docetaxel/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # Docetaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [【冬陽天地】乳癌與骨質疏鬆](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
 
 2026-10-31 <span class="news-indication-tag">乳癌</span>
 
 來源: [香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
+
+---
+
+### [小酌也很傷身 為何飲用任何劑量酒精都增加乳癌風險？](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4SDZLQm5DS2tOS3VoS29oMzNDZi1PV1lreXRXTlV3dXFfYkhOc3AxczVyWWdWSzZMaFROdXI5bXpQQ21tN2dkT0pZdWw4Vk11b3pOcTBfajJSbUtQVVpN?oc=5)
+
+2026-10-31 <span class="news-indication-tag">乳癌</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4SDZLQm5DS2tOS3VoS29oMzNDZi1PV1lreXRXTlV3dXFfYkhOc3AxczVyWWdWSzZMaFROdXI5bXpQQ21tN2dkT0pZdWw4Vk11b3pOcTBfajJSbUtQVVpN?oc=5)
 
 ---
 
