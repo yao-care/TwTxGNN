@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-05T22:30:42.788407+00:00",
-  "count": 40,
+  "fetched_at": "2026-11-06T02:57:59.392747+00:00",
+  "count": 42,
   "news": [
     {
-      "id": "90b4a8450548",
-      "title": "睡不好和維生素D有關？ 藥劑師：這個時間吃可能更適合 | 熱門話題 | 要聞 - 經濟日報",
+      "id": "6e8bc1c2acd9",
+      "title": "睡不好和維生素D有關？ 藥劑師：這個時間吃可能更適合 - 經濟日報",
       "published": "2026-11-05T17:53:06+00:00",
-      "summary": "睡不好和維生素D有關？ 藥劑師：這個時間吃可能更適合 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "睡不好和維生素D有關？ 藥劑師：這個時間吃可能更適合&nbsp;&nbsp;經濟日報",
       "sources": [
         {
           "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5taGFwUnNsZXRocnBsQ3Jldy1aS1JqZVRHYk5TYWV3VnZwSDRsZTNJQXRaQ01LYmJYeDN0b3NHRUF1UjhPLTl6QURVeGwwV296UlJOV3k0cEQ0OXhCOFFNbWc1MEpsZFRTNVdKbXJlZy1qTHhZQlE4?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mOWdXSTZWMWw1by1YNGRmMVg1aWJuUGZvNTRmeXdKYnQ0Wjg0NEd1ak9VTlpGaWRLMWJJbDNNQjBXUWUxNjdHMWI1X3owVktXa05scUpRSksxZ9IBX0FVX3lxTE0ySENsSi1mODJ1Rzc2Wm9mMG9QNlU3aEh0dTZUYXhsaEoxMzMxSjJqd3A3bTg3WkEtUGV1SjZvQzE3ZzdXNGw1aHJGZGhYNVlTclZRSVVTZ3RzZWQ4bURr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3ec3345cb672",
+      "title": "澳洲研究顯示 三分之一被認定花生過敏嬰兒疑誤診 - 中時新聞網",
+      "published": "2026-11-06T01:05:43+00:00",
+      "summary": "澳洲研究顯示 三分之一被認定花生過敏嬰兒疑誤診&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rN0pYY1JxbVFlb1BQQVdVRjM5ZVp3eWg1cTc5bFNJNjk2UlhsclhBSkNmdHJXZllTUGVSaWdVVVhHaV9sWUdMalFaOUM4aFhTY1FiN0duQXdHeXVDZEc2a3FoOXZnaEpNMjlQQ0FB?oc=5"
         }
       ]
     },
@@ -28,14 +40,26 @@
       ]
     },
     {
-      "id": "bb8812d23097",
-      "title": "RSV恐拖垮慢性病控制 醫籲高風險對象評估接種疫苗 | 中央廣播電臺 - LINE TODAY",
-      "published": "2026-11-05T04:00:19+00:00",
-      "summary": "RSV恐拖垮慢性病控制 醫籲高風險對象評估接種疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY4成慢病患者「會怕但沒問過」 醫籲回診多問「RSV風險」&nbsp;&nbsp;自由健康網秋冬防感染別只打流感、新冠！醫提醒長輩留意5種疫苗&nbsp;&nbsp;Yahoo新聞調查曝成人染RSV半數自覺健康受影響、4成慢性病惡化 醫提醒及早預防&nbsp;&nbsp;UDNRSV不只威脅嬰幼兒！三高患者中鏢 恐被折磨1個月&nbsp;&nbsp;中時新聞網",
+      "id": "1a38be4693a4",
+      "title": "秋冬防感染別只打流感、新冠！醫提醒長輩留意5種疫苗 - 中天新聞網",
+      "published": "2026-11-05T02:52:08+00:00",
+      "summary": "秋冬防感染別只打流感、新冠！醫提醒長輩留意5種疫苗&nbsp;&nbsp;中天新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UUF8wTUJKZmlEZS1wbU9DbGRpTkJlTG9oUzd5LXU3dGc3SXVneDJpUng3QTNIWXUteUdVRE9MUlQwcUpFQmZsR1Q2ZkMyczNVUEh5bmtB?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40U2hJeVA2Y3RzdFFITkZXMVh4TXVVd0ZmR2ozUVZCWEV3YTFIby1kRV9JY2JCSHplSndvMWxxTmJCOG5wUjA4dURVRWVNWFlzMVRJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "95c4d839d020",
+      "title": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國 - 巴士的報",
+      "published": "2026-11-05T21:30:01+00:00",
+      "summary": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國&nbsp;&nbsp;巴士的報23歲澳洲網紅峇里島旅遊染腦膜炎命危 即睇東南亞旅遊患病風險&nbsp;&nbsp;香港01網紅峇里島度假險喪命 頭痛進ICU搶救9天&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQcmNXQk9kNlplc0diWm1OT0JXYmk1X1BLR2ZJUk9jOWhkWUdCeFlrUVdrTDNNYnlmVU41QUhfT21UUnIyeV9PbE0yZmo2aXo1bzcxQzFFdnVCVzU0RjV6clU5RXFPd3N2alI2cFdLd0o2Y2h5SGRTZkd6alVWUUJaVHBEd3o4NjlIODZORHBxak5TVEpDLW1KVzh0TUx6aDJZR0FpVXJBOU92SnZ0TTRTdmhTNzZYVW9BWktrS24zNm1DZ2lTTEFTR2NDV053NG5UcFRIbGNfSk9iRUZNWURqLW5yLS1QNEZFR1dPSlVhWVJCallxUGFJU1ZSdFdPbUFteVU3ZTMzRF9EZG9LdEx1S2dQU2JwY0VmYVlVS0tzQ2k5Z1ZDTjVXcTlmTkR4RGVJSzVDUTVQaHJBNDg2UWlZemp2NUhLWWVPWjRZQ09UZy1TWUZ0djhCRkotcDFYNWNySkdWNDZxSXc1dU5FUDZJXw?oc=5"
         }
       ]
     },
@@ -60,18 +84,6 @@
         {
           "name": "台視新聞網",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LLTZ3cFNIV3duMC1xb3BHR2RoaE1ndkQzYTJOZXdxb05KejJwMGx2eW1ON0hILWNOX2VObzQwQUZldHEtbEdnVV9rNzlSOWw1UEg4bDFPUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95c4d839d020",
-      "title": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國 - 巴士的報",
-      "published": "2026-11-05T21:30:01+00:00",
-      "summary": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國&nbsp;&nbsp;巴士的報23歲澳洲網紅峇里島旅遊染腦膜炎命危 即睇東南亞旅遊患病風險&nbsp;&nbsp;香港01網紅峇里島度假險喪命 頭痛進ICU搶救9天&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQcmNXQk9kNlplc0diWm1OT0JXYmk1X1BLR2ZJUk9jOWhkWUdCeFlrUVdrTDNNYnlmVU41QUhfT21UUnIyeV9PbE0yZmo2aXo1bzcxQzFFdnVCVzU0RjV6clU5RXFPd3N2alI2cFdLd0o2Y2h5SGRTZkd6alVWUUJaVHBEd3o4NjlIODZORHBxak5TVEpDLW1KVzh0TUx6aDJZR0FpVXJBOU92SnZ0TTRTdmhTNzZYVW9BWktrS24zNm1DZ2lTTEFTR2NDV053NG5UcFRIbGNfSk9iRUZNWURqLW5yLS1QNEZFR1dPSlVhWVJCallxUGFJU1ZSdFdPbUFteVU3ZTMzRF9EZG9LdEx1S2dQU2JwY0VmYVlVS0tzQ2k5Z1ZDTjVXcTlmTkR4RGVJSzVDUTVQaHJBNDg2UWlZemp2NUhLWWVPWjRZQ09UZy1TWUZ0djhCRkotcDFYNWNySkdWNDZxSXc1dU5FUDZJXw?oc=5"
         }
       ]
     },
@@ -124,26 +136,26 @@
       ]
     },
     {
-      "id": "e04b848e73d5",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查 - 民視新聞網",
-      "published": "2026-11-04T22:30:00+00:00",
-      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查&nbsp;&nbsp;民視新聞網",
+      "id": "dd5b6efb7c72",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查 - 元氣網",
+      "published": "2026-11-05T03:21:25+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPLU1TZnlRMzh4V1JMdmxkeWNELUxHZFVDRzhCMjRmeXV0X0l5RFpiU2RjUUMtUUdSZVVxUFoxUHNvc1BVc21xVEpmNTEzYzdiRjctbU52S1Y3WFVjUVU4Qw?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
         }
       ]
     },
     {
-      "id": "f509d7eaac4e",
-      "title": "愛喝1飲品小心癌王！研究曝「每週5杯」：胰臟癌風險增87% - TVBS新聞網",
-      "published": "2026-11-02T09:21:00+00:00",
-      "summary": "愛喝1飲品小心癌王！研究曝「每週5杯」：胰臟癌風險增87%&nbsp;&nbsp;TVBS新聞網健康網》愛喝「這飲料」要留意！ 研究：每週2杯恐與胰臟癌有關&nbsp;&nbsp;自由健康網每週喝「這飲品」與胰臟癌有關？研究發現風險高87% 專家解析真相&nbsp;&nbsp;Yahoo新聞不只酒精、香菸！研究揭「1常見飲品」與胰臟癌風險增87%有關&nbsp;&nbsp;造咖每週2罐汽水胰臟癌增87%？專家拆解致癌真相：真正元兇是「它」！&nbsp;&nbsp;香港01",
+      "id": "8f9f80e09baa",
+      "title": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87% - 民視新聞網",
+      "published": "2026-11-02T07:12:00+00:00",
+      "summary": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%&nbsp;&nbsp;民視新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OSE81bks1R2RSLUJhYjRoZUp6dDhGdXlzX09BNnpkSERfMnIwSlZyWEZRclNwOEVtTU5jckZMT0lEenVqYW1qUmpYQ19lWHI5?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EekVUMmtRN1NvOHFKZ0pvb2ZsVmxjUnVVTV9FekdJMlV0U0ViYkptQmtid004ck5uZU1ZWTdfWlNPT2JxQ1pUUnBWMjFYdS1kelNrX2FOSzNHMHczY0VHbQ?oc=5"
         }
       ]
     },
@@ -256,18 +268,6 @@
       ]
     },
     {
-      "id": "72bdfc95eb14",
-      "title": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病 - Singtaousa",
-      "published": "2026-11-04T20:08:59+00:00",
-      "summary": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdi01UllRWVl6THdDSnhMbFFJQ284VDlGUkdKeDJsZzJQR2tMSHNPbUlLN2NNd2dPVHRtMnZjeFZKa1N2YTZ3czQxbHdoRFpYMkc1X3BNaUN4OTkxMzlJRFBNUEs1SlVnRnBJa0d6QUlwNTQ4bkpIRkdQaTRHODMtb2l0TUwtR1VqRkpjb1ZzYjgwUVN4eEFDcURabHNiNFcyZFlpbFF2eno1TC0tV3QtTVU0Ym9yX1dRX0I1dzQ4YTBFVFZNTFdJQ2RiN3RrYlY0QlNvZEY2UWhTdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c30132af061a",
       "title": "讓骨折快速康復的全新方法 - 大紀元",
       "published": "2026-11-05T21:00:00+00:00",
@@ -276,6 +276,18 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWGV3aHNfdHdsc0N0dEZpTDFDbFNXUktkSExkc0h5N3JRa2Ntdm9hVkRJamY0LUczMG9kYjlmNXVRd0s3dlFkajE1VjFQR1VMTDl4OHFtdl9PRkZqX3lIUjJ30gFnQVVfeXFMTzBoVHJZSE9PanJLNUFtdVlRc1pVY1M3RTlic19qQXR1ekNOTlRlb1JOUGs0UUNFTzhZaTFhQ0VHdjBCRkJRcm91ZkxYRHpnUkpJSXlZM0VfM2JTcUpVSWEtS19zUmQ2SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "72bdfc95eb14",
+      "title": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病 - Singtaousa",
+      "published": "2026-11-04T20:08:59+00:00",
+      "summary": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病&nbsp;&nbsp;Singtaousa",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdi01UllRWVl6THdDSnhMbFFJQ284VDlGUkdKeDJsZzJQR2tMSHNPbUlLN2NNd2dPVHRtMnZjeFZKa1N2YTZ3czQxbHdoRFpYMkc1X3BNaUN4OTkxMzlJRFBNUEs1SlVnRnBJa0d6QUlwNTQ4bkpIRkdQaTRHODMtb2l0TUwtR1VqRkpjb1ZzYjgwUVN4eEFDcURabHNiNFcyZFlpbFF2eno1TC0tV3QtTVU0Ym9yX1dRX0I1dzQ4YTBFVFZNTFdJQ2RiN3RrYlY0QlNvZEY2UWhTdw?oc=5"
         }
       ]
     },
@@ -300,6 +312,18 @@
         {
           "name": "Techapple.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UN1hBOXlEVWpTLW9pNVVUY0ZUUlJkdWNFM1BNOG4xZmFFam84VlYtWW14OURzQ0oycG50YVhMUzYwM2U4T2lZam5kNXg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "911076c649d3",
+      "title": "流鼻水｜用力擤鼻涕會擤爆耳膜？流鼻水忌紙巾塞鼻孔 醫生公開3招正確擤鼻涕技巧 - AM730",
+      "published": "2026-11-06T01:00:00+00:00",
+      "summary": "流鼻水｜用力擤鼻涕會擤爆耳膜？流鼻水忌紙巾塞鼻孔 醫生公開3招正確擤鼻涕技巧&nbsp;&nbsp;AM730",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi_wNBVV95cUxPLTJ4ZXRZM1NnS0M0eDQ1NEQ2WnNUTXhvTlhFV0JuNXJFbU5IaUdjbGhQWnRvYUhnakExWF9ZSjM3QlJkME8zOTBqTXlLZHpYR0ZnYnBYeWFGWDdMRTA0bThhZmcxbDM5a3Jfb2QxY3piaFRTNzRWMlNjQlNNbTVSdDRfLWVzcGU4end6UTZQcVFRTDhqSGpPeTB6RVJaMHdKS2JCNG5WbTBkdDZyc0pseVRnSHRxTVY2LW1hZjR3elR6dkRwaGp6bTh1QjhGMTRHd1F0YWZEN2xXX2dfQVpaRlc4dXRELTUyWEM4eUJNenhHWUIxNFZ1Nk1aQjV4UXJnLVRvdmp3S3hubEVsM1cxcWNIYXMyY2ItckNrbDdIekpYYVVZQUVyRXN1bmdldlFkdXdMWEJFY1BncW9DdndKT0FiWmVldE5ZdE1HRWJ4RlhrempBTFkzdkduYUY4a2VLUk9wQWNEaHdKUDhoWE9YX1pMalhwLWREbWR0bUJ5TjNINjZoZ3pQbEFESDU0TFYwQWxIRTFFaWx3VnBHRU1MZTdBMHBzcG82MW5HRU5aR1B4RDJrQ2lVQXhsZHB6VnpMZGUteEZaalJRS3Jzd2VUSnl5UWxYVm9BMjVQb0ZteXlKVUxHZGpxdDNjd2wySjFRSm50RWx6OWhuUENMSHRn?oc=5"
         }
       ]
     },
