@@ -15,7 +15,7 @@ description: "兩類藥物：TxGNN 模型候選全部屬於已知用途、目前
 
 各頁列出已知用途與本地上市狀況。
 
-{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | sort: "title" %}
+{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 {% assign withdrawn_files = site.data.drug_reviews.records | where: "action", "header_level" | where: "trigger", "withdraw" | where: "new_level", "N/A" | map: "file" %}
 
 **{{ known_drugs.size }} 個藥物**
