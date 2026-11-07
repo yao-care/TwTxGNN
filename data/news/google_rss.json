@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-07T15:58:23.251908+00:00",
-  "count": 32,
+  "fetched_at": "2026-11-07T19:54:33.691317+00:00",
+  "count": 30,
   "news": [
     {
       "id": "404f7d047108",
@@ -28,18 +28,6 @@
       ]
     },
     {
-      "id": "351d454f046a",
-      "title": "他明明在線卻不回訊息！心理學研究揭3種互動訊號，秒回不代表真心喜歡 - udn 女子漾",
-      "published": "2026-11-06T06:46:22+00:00",
-      "summary": "他明明在線卻不回訊息！心理學研究揭3種互動訊號，秒回不代表真心喜歡&nbsp;&nbsp;udn 女子漾",
-      "sources": [
-        {
-          "name": "udn 女子漾",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QRERFamlHdEYtVGJyX1J6REVpeWlzUEhVUUJVeDh3el80a05FV2xjNVFaZXNTSkdibUx2Yl9qYlFaNVNxLTJ5QTgwRFp1bUx4UmgxXzgyZ0Jkem4y0gFiQVVfeXFMT2I3WS0xVjA1N3RFam5MM01IQXNDcEppa2xrMDJWMVUzdmQ5djN2RTNaaXRYMGp5RFB4anB3dFVTZWt5Z2MydURnZHhoLVdUU0RIVTkzcmdCYkp0YmZKb1hySmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b41583fcebad",
       "title": "0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌 - 中天新聞網",
       "published": "2026-11-06T03:40:06+00:00",
@@ -48,18 +36,6 @@
         {
           "name": "中天新聞網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUi1yNzcyUzVrM3FzSEVaT3RrbEhuWEdVM242RmZjMndhRC1nNUIwMmFfb0hNVjYyaGlJbFVXUWtVSHRBT2hsQ21fY1BqaE5WSUhr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95c4d839d020",
-      "title": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國 - 巴士的報",
-      "published": "2026-11-05T21:30:01+00:00",
-      "summary": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國&nbsp;&nbsp;巴士的報23歲澳洲網紅峇里島旅遊染腦膜炎命危 即睇東南亞旅遊患病風險&nbsp;&nbsp;香港01網紅峇里島度假險喪命 頭痛進ICU搶救9天&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQcmNXQk9kNlplc0diWm1OT0JXYmk1X1BLR2ZJUk9jOWhkWUdCeFlrUVdrTDNNYnlmVU41QUhfT21UUnIyeV9PbE0yZmo2aXo1bzcxQzFFdnVCVzU0RjV6clU5RXFPd3N2alI2cFdLd0o2Y2h5SGRTZkd6alVWUUJaVHBEd3o4NjlIODZORHBxak5TVEpDLW1KVzh0TUx6aDJZR0FpVXJBOU92SnZ0TTRTdmhTNzZYVW9BWktrS24zNm1DZ2lTTEFTR2NDV053NG5UcFRIbGNfSk9iRUZNWURqLW5yLS1QNEZFR1dPSlVhWVJCallxUGFJU1ZSdFdPbUFteVU3ZTMzRF9EZG9LdEx1S2dQU2JwY0VmYVlVS0tzQ2k5Z1ZDTjVXcTlmTkR4RGVJSzVDUTVQaHJBNDg2UWlZemp2NUhLWWVPWjRZQ09UZy1TWUZ0djhCRkotcDFYNWNySkdWNDZxSXc1dU5FUDZJXw?oc=5"
         }
       ]
     },
@@ -76,6 +52,18 @@
       ]
     },
     {
+      "id": "95c4d839d020",
+      "title": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國 - 巴士的報",
+      "published": "2026-11-05T21:30:01+00:00",
+      "summary": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國&nbsp;&nbsp;巴士的報23歲澳洲網紅峇里島旅遊染腦膜炎命危 即睇東南亞旅遊患病風險&nbsp;&nbsp;香港01網紅峇里島度假險喪命 頭痛進ICU搶救9天&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQcmNXQk9kNlplc0diWm1OT0JXYmk1X1BLR2ZJUk9jOWhkWUdCeFlrUVdrTDNNYnlmVU41QUhfT21UUnIyeV9PbE0yZmo2aXo1bzcxQzFFdnVCVzU0RjV6clU5RXFPd3N2alI2cFdLd0o2Y2h5SGRTZkd6alVWUUJaVHBEd3o4NjlIODZORHBxak5TVEpDLW1KVzh0TUx6aDJZR0FpVXJBOU92SnZ0TTRTdmhTNzZYVW9BWktrS24zNm1DZ2lTTEFTR2NDV053NG5UcFRIbGNfSk9iRUZNWURqLW5yLS1QNEZFR1dPSlVhWVJCallxUGFJU1ZSdFdPbUFteVU3ZTMzRF9EZG9LdEx1S2dQU2JwY0VmYVlVS0tzQ2k5Z1ZDTjVXcTlmTkR4RGVJSzVDUTVQaHJBNDg2UWlZemp2NUhLWWVPWjRZQ09UZy1TWUZ0djhCRkotcDFYNWNySkdWNDZxSXc1dU5FUDZJXw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "df94ed17264c",
       "title": "不甩脂肪肝竟養出巨大膽結石醫取出也驚呆：我看過最大顆- 健康 - 中時新聞網",
       "published": "2026-11-03T06:44:59+00:00",
@@ -88,14 +76,14 @@
       ]
     },
     {
-      "id": "c8c25ca32e77",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查 - 健康醫療網",
-      "published": "2026-11-04T01:31:05+00:00",
-      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查&nbsp;&nbsp;健康醫療網",
+      "id": "dd5b6efb7c72",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查 - 元氣網",
+      "published": "2026-11-05T03:21:25+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLXlzZmNNV28zb2d2OGdYN2o5b3JFUkZCMkU3cmxNMUlhWThUNjJFNzlQb2lmYVZEMURiTUowMWZSbmhSNTV4a2dBWWFBYWZnLUNWeENR?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
         }
       ]
     },
@@ -124,18 +112,6 @@
       ]
     },
     {
-      "id": "86d455158a30",
-      "title": "加拿大35至54歲女性子宮頸癌個案上升　專家呼籲及早檢查 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-31T16:45:39+00:00",
-      "summary": "加拿大35至54歲女性子宮頸癌個案上升 專家呼籲及早檢查&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYnlJQTRlMERJVk9KRHZBeEZLMkpYRlNQV0tZVC1ZbS0xVnV0RG5FcVIwNDJFUUxtdi1wYjdLSkxINHJDVGdRWXZSVGpsc1FiZ3JQQWhhTEdnMm9heHE2bDYtTTByZG9OeXQ0elpRRFlHMW1LYU9nc1FBNUxDUkR0LXljamdoODd5dFpSVmxGbmc3TmRjTWdxQWwwYk85LV9vRlNramZnZk9WV3Nrb0pNZHVVc3RDLXROUC1xZDYzb2tMWE52WVpjcWpFUUpjT19qbHE5dTlGYmNYSnpER1RHSWdCazJDTEVORnhUclVSUFZKd1dCb081akJUeHR5OTZjdkFDekk3MHItTkRaTDNMZl96OFcxUUtFVXdMZkhEVUpIUzZoMFFrdVRHU2xEVU9sSkoxaWdRaUFFdi1NN2YtWktBWVlMNzZVazBnUk1rWGdxaVRlcENCRmNvbC1rRVpXYXBnRHozNlpZQVhKbFVJaGs1SE1RczJwSHlGeU8wRm0wZ9IBkgFBVV95cUxPbXV0Q2FCRlBJYjZHcE1QZ1ZQWlhPUmljbVZVUDNOY2p0TFF3a2NBNDlhQ005aERFU1NkcGNQUzlLb2dZeUNVcHNCcDl0N2ZLTFRjOFVwUXl0UFRNU29Kb0hoY1NwSUdMa2ktZEhFMkNqZDlOdVE5MVhGdlh3ZkZOWnRBaE1mWEdzdUUzYVdISE0zQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c7d75f629160",
       "title": "腸道健康｜比傳統照腸慳8成時間！英國引入新款「微型鏡頭膠囊」每秒兩張相無痛無創助篩查大腸癌 - 香港經濟日報HKET",
       "published": "2026-11-06T09:58:57+00:00",
@@ -144,6 +120,18 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNcGQtX3dyeTdnZXFaS2p1M0NHUUhLOTZqcFNfZFV0Y0c3bVJzam1qQWpZUWZLQkNvWWNfVlRNQ3JwTmZQQjlqUnRNVVpENTFjTWpYQVloZXRYUEp6RjAzTTRHY0VLT0RVVUNVMHJVSUpGSllwS2FkX05LcGo4WG0xOGV2a29jbHR4aHk0LThxWEZka01TZTRBc2ZLZk9qTDlUMjA5MzAzXzlsZjU4U1c0UFZNcUVRbHQwaEJNa0dScjgxc0FkdkJqRmxNNzVkamNkSllSSXZzZ3JKU2R1NjZ6SFYyekZBQ094YXVOVmRDUHNHOGxzV0toLUlKSmxhR0pOX05BRllQbzY5cXo0V2M0a0xDMVJwc1dMWWdFekRaeGJVMnV0YXczUjZPVEVZWk84Y0w1NzI4NjRBeU9PRkpZS05SMktWX0hCemRvMm5QNE5UeTg1QXBjS0U1UkRLTEVJR0JHWnROY1BqT0lIMmxoVmNMOFZuQTFsUWZfWUp5MjN6MHVEQjBENHc0cDZWMUVjQmk5WVdpXzZDdEJNYWd0eGdCY2xZRDZMbVlMZ1Uza3ZfMVdFQy1JU3UwNkdYUDdwWFRNdjAzVm5nakREQkZ4dEdGVGxIa19scl8za0xWNUNaTllob2dwV3BLTEZvREEzN0pWMW50ZUZfVUZvSzVjSWNTOWYwaVNLbFZTbDlndV9XN0JQaTdRV3BwbmVLTUZaMVlKZ2dRYll4T0ZfOU02c3k3UTRuMmhzZE5PTTd2QXhPNXhkZ1pmLUVsN040QXhqQzNyQ2N4XzVkRmthTXVjR0NRMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a305f17cef15",
+      "title": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】 - 香港經濟日報HKET",
+      "published": "2026-11-06T08:34:54+00:00",
+      "summary": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiggVBVV95cUxPS3lHa0pDUkdCbkRfd2JCakY3M1djNDJOcnd4cWI1LUtlZU9pLVdkSFR5TjYzbm9ZS0twcVVjMmkwT0hoR2tvMTR5OGRhSVlERGtCMW8xU1d0VkZPeXNpWlBZRVdLYXVjd2xwVmxsQWh6WThwUEgzdEFJUkFlUEdmYm5TaGZmS085YUtKQ09TV0JjWjRaY0JwNmRXd3VjRmd5Mmx6a1hreUMwSnR6cHZsZDRYZFY2MTRTY0tMbVAzVkI4cXBBcmZPZTFfTXlDaVdBbjRCaGNpUWtIaVVHcHdpWFVQZVBiU0VGNWMwT1dNcW5uVnU3OUpQOC1hbEtqdjhiZHB1U042ellQbGU0b244ZVo2MkdzNFVQVkRqMTJ5Tm9FZ09pS1NZZkxtcE03WnI1X1l0UklSdkhZUnRaMUlqQ2RjZzJCLTVnbl9IRTNEdjNKejZWcXU3c2pEYjY4R25hZmJwSUwyYnRBdUFVdzY2UE5LVFhUazhUd2pMUHR2YVFoTVRKbGlNVDNESGRxeFFYSk84THdtTFJ0N25pNFM0Vmx6TWdDNjlWNmdtRk5nODB1cjBJaGtNM2RmV2ZDWDdjNXVLc3JBdklJSzBWMmR3dlhHNVU1UW1fSDJPeS1FZ3FScThfcFUxOGl4dTFnT1lMaGdKLTdBZVFQbGk3bWJsUmw3MGE5N0NVQ0dMd0FNM3pncy0zcTlTRlcxeUFUMWhKUklFMXc3UDFUbVdTQmxqNk5CZVFwWXRldWNzNGJOYWh1THNOelZlV2txdXRmRFhsTUhib0pkdXNjQ0o2V1gtejNNT3BCelFGQzZKbDN1NHRaR3kxLTEtX2YwajdkWndNdGc?oc=5"
         }
       ]
     },
@@ -228,18 +216,6 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZzNTWGxTemo2U21CYTk2Nkhaei1EdUJBZERTQVdMc19hNFMtSUMydUVoNUQ1Tndxendtc2pGbExJaVhNSUE4R3RJbGczYV9mek1LUGtiSDNESDhsYXBqZ0wzbFpNVDFwcjhPNzVaTERuRGJRN1EtNG9MNEJWWl9kbE4xQjhIQWhXMnFicWNlRjVqaU9iN3JPUE94Z1pYWGhzS2YyejM1NHZVVnJOVDdhTm8tSm92ZGhNUHhydWFfSWhmc1RTZUVKUTdyNWh5dk5HT0xWbUozT2JMQzgzZGJoa2YwaVNjckhwRVJGUGZHX29RYzdIdDhHU1ZjWHoyN3BDMWN0emFsa1dQQWZKRmZlZ3VLeWpHQWhrYWdLZUlPb01JcEFFZkU0WGVwc0x2VWpMWWVHMWlWZTFySzJQVVZmMy1DTGg0UDViOHY5TVdqNlJ0U1RKekxBQ2RiQlFkWklVb3BXSE1hbmU0dEViNDlmUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a5f3b0a5bcf",
-      "title": "卑詩疑似禽流感來勢洶洶 保育機構：到處散落野鳥屍體 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-31T19:59:21+00:00",
-      "summary": "卑詩疑似禽流感來勢洶洶 保育機構：到處散落野鳥屍體&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPTkEtcUx6Rk4zVklMNS1KN19La1dlWU5UNWZQd0ZkUzZFUG1Ya0hkUF8yamswMVF5bmtBYzV1S0M0djJMVDcwVzdQRlVpQjJuV3V2bHl5dFFETXhvSHZBQzJBS3otUktKQkllNXhyazg3dVJ2ZmE2ZlFIeVUxVHIwbFBsY202Slg2RFdrWGhQUG9TYU9ET0dOZ2xQbXV4TmFINW1QdDFwSzUtUWJSQ0I5aGNyLWFfUjcwNDVYd3lhOVRraFk3RTl5VFdRT1RIR25kbDdOTjJSYy1CbFg2N1hHRGI2YW1zZUVZdkZXcEFtWktJQUU4NkJpZ1lBM2l5Vkd3V0FKV3psX3VtbjJOM20tTF93ZzhDdHRDVlFXbnZpTlFLS2FnNWZtcjJ6UnhURk5EM3NXVzlwYVpDMUd3ZmphZUVSN0JoWXFwSTkzTWFIMm1fZ2MwY05ESVA3WXo3YmhhVjl0cFRIMU5pU19VZDIzc0tHelQwc19OekRPV2dZSVbSAY8BQVVfeXFMTng4MXZmcllVcWNqZU5hQ2o4MHpEakl3SThsSGtoOXQzaHJvZXptTGxCQWlxWXRIcG03OVZvMnc0cGtBN0dsWlZTUEEyVFZwU1NpQnVQbkRoQzVXNWpPRTNkVFRFX1NNV0ZIdy16LUN3VlpnVlBDRkJoWVlZT2V2ckY3amp0eHBNUjBFRTdXN2s?oc=5"
         }
       ]
     },

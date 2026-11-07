@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T15:58:25.116461+00:00",
-  "count": 8,
+  "generated": "2026-11-07T19:54:36.302745+00:00",
+  "count": 7,
   "news": [
     {
       "id": "c7d75f629160",
@@ -132,38 +132,13 @@
       ]
     },
     {
-      "id": "a2760d9f7a34",
-      "title": "護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心",
-      "published": "2026-11-04T08:22:02+00:00",
+      "id": "dd5b6efb7c72",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查",
+      "published": "2026-11-05T03:21:25+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPRE0tNG9aaVAwcGNTOVF4ZGt2WlAzMURZT01pdTVnVzJFY3lxYVNYSmx2M2xhYUg5YkJYNU1ncFExMFlvWHYyR3ZkLURDR3lGS0JoQVRlSTFTYUZ4QkpaOFpIbjM3YlY4dVJ0aFR1QmdwSGxRNWtrelcyN0MxVndrandzWk1ORzBpblh6RzdJR1AwcUxqdzhRbDd4MENUQzRFOU4wOVpmTXc4ZjdUWm9XRGl5R3lHeU5DRlNHbjZ2M0VrQjN2T19VUGpYSTlwSVZaVUNLMjFCYm9QcUNITU4xeWpiTEd5LWtXME84bHZrUEFkN3d0cGhqN1JkbFAxeHd4NlpzWFU4blBSM2kxU29TUzFQSHM2N2FpVVBJV2pUSFdfWlFUMFdEMkhyZ016ZmtCaFdmU0c4MEFBdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c8c25ca32e77",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
-      "published": "2026-11-04T01:31:05+00:00",
-      "sources": [
-        {
-          "name": "健康醫療網",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLXlzZmNNV28zb2d2OGdYN2o5b3JFUkZCMkU3cmxNMUlhWThUNjJFNzlQb2lmYVZEMURiTUowMWZSbmhSNTV4a2dBWWFBYWZnLUNWeENR?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
         }
       ],
       "keywords": [
@@ -193,6 +168,31 @@
               "slug": "iodixanol",
               "name": "Iodixanol",
               "url": "/drugs/iodixanol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2760d9f7a34",
+      "title": "護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心",
+      "published": "2026-11-04T08:22:02+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPRE0tNG9aaVAwcGNTOVF4ZGt2WlAzMURZT01pdTVnVzJFY3lxYVNYSmx2M2xhYUg5YkJYNU1ncFExMFlvWHYyR3ZkLURDR3lGS0JoQVRlSTFTYUZ4QkpaOFpIbjM3YlY4dVJ0aFR1QmdwSGxRNWtrelcyN0MxVndrandzWk1ORzBpblh6RzdJR1AwcUxqdzhRbDd4MENUQzRFOU4wOVpmTXc4ZjdUWm9XRGl5R3lHeU5DRlNHbjZ2M0VrQjN2T19VUGpYSTlwSVZaVUNLMjFCYm9QcUNITU4xeWpiTEd5LWtXME84bHZrUEFkN3d0cGhqN1JkbFAxeHd4NlpzWFU4blBSM2kxU29TUzFQSHM2N2FpVVBJV2pUSFdfWlFUMFdEMkhyZ016ZmtCaFdmU0c4MEFBdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
@@ -273,31 +273,6 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "86d455158a30",
-      "title": "加拿大35至54歲女性子宮頸癌個案上升　專家呼籲及早檢查 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-10-31T16:45:39+00:00",
-      "sources": [
-        {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOYnlJQTRlMERJVk9KRHZBeEZLMkpYRlNQV0tZVC1ZbS0xVnV0RG5FcVIwNDJFUUxtdi1wYjdLSkxINHJDVGdRWXZSVGpsc1FiZ3JQQWhhTEdnMm9heHE2bDYtTTByZG9OeXQ0elpRRFlHMW1LYU9nc1FBNUxDUkR0LXljamdoODd5dFpSVmxGbmc3TmRjTWdxQWwwYk85LV9vRlNramZnZk9WV3Nrb0pNZHVVc3RDLXROUC1xZDYzb2tMWE52WVpjcWpFUUpjT19qbHE5dTlGYmNYSnpER1RHSWdCazJDTEVORnhUclVSUFZKd1dCb081akJUeHR5OTZjdkFDekk3MHItTkRaTDNMZl96OFcxUUtFVXdMZkhEVUpIUzZoMFFrdVRHU2xEVU9sSkoxaWdRaUFFdi1NN2YtWktBWVlMNzZVazBnUk1rWGdxaVRlcENCRmNvbC1rRVpXYXBnRHozNlpZQVhKbFVJaGs1SE1RczJwSHlGeU8wRm0wZ9IBkgFBVV95cUxPbXV0Q2FCRlBJYjZHcE1QZ1ZQWlhPUmljbVZVUDNOY2p0TFF3a2NBNDlhQ005aERFU1NkcGNQUzlLb2dZeUNVcHNCcDl0N2ZLTFRjOFVwUXl0UFRNU29Kb0hoY1NwSUdMa2ktZEhFMkNqZDlOdVE5MVhGdlh3ZkZOWnRBaE1mWEdzdUUzYVdISE0zQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "子宮頸癌",
-          "keyword": "子宮頸癌",
-          "related_drugs": [
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
             }
           ]
         }
