@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T09:26:10.399169+00:00",
-  "count": 9,
+  "generated": "2026-11-07T15:58:25.116461+00:00",
+  "count": 8,
   "news": [
     {
       "id": "c7d75f629160",
@@ -55,13 +55,13 @@
       ]
     },
     {
-      "id": "a026d696fa30",
+      "id": "b41583fcebad",
       "title": "0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌",
-      "published": "2026-11-06T03:54:33+00:00",
+      "published": "2026-11-06T03:40:06+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVUNqekFBbkkxVm5PaUxTNFVnSlZPNElTUi1WT3ZVZ2ZKUDJMMXRHWW1NREdxQ3hYRmxDdEROYTFRTndzMk0yZll4MFBLWDRaczliMHdSbnhCejdJbnVESmpPUGxpazItSjZremVENjU4VVNTZWFHcExKYlJWMnhwSTRQcEN3OWdrQWJZY1c1TFM4b0lfUXpLbldQTHo2S3JhNlZ0S2FqR2pvbVdQbGRIcnI1Nkl4Z3FHLWdrYjFDXy1TTEJFU0Zwa0dsT2xGTUtjWWRxdGtOQ3RSRWc0Q0k2VW9WM1VKekZROTJtZ3BET0FGYS1XMWd3Z1ZhS2F4dmh4UE1DVUIyZnFfUXpmaElZbWlrTlV0RTU0b2N4VUg0dXoyLUlzd3FOUkZSbEpRcVhqUW1tQ0xFYVAyRThMaEFubUNKVEIzN0lhUWc?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUi1yNzcyUzVrM3FzSEVaT3RrbEhuWEdVM242RmZjMndhRC1nNUIwMmFfb0hNVjYyaGlJbFVXUWtVSHRBT2hsQ21fY1BqaE5WSUhr?oc=5"
         }
       ],
       "keywords": [
@@ -107,13 +107,13 @@
       ]
     },
     {
-      "id": "d44ae7da93c1",
+      "id": "e7605aa4811b",
       "title": "虹膜炎反覆發作 眼壓急升恐致青光眼",
       "published": "2026-11-05T03:49:26+00:00",
       "sources": [
         {
           "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSnpCVDRvVm85Q0ZfNFVzUkEwRVRlTG8xM1NlWS0wNEhlRGVNZ2JTb3FDV1JFWWt2ZlBHdWg5aEphUG8tVFlQVlJyMnRjbXViU1pMdnFzVE9HOWh0N2V6ZlNsQWtTaW0xSktORGRHWUpPcFIxUlZsSGtXaDdzMDIzckxtc284VUtpd3dkTlRwbkd1ejR6eE9DS3k0R0duZmdHV05zTUJ3eUd0MGxybzdwejlQdUUzU2lFWUtGaG40b1J0cTItUjJ4dzVOcWMwWi1sMW9qWi1WblIxUzNhS2NWYW9FdHpzQkpqN1ljX3V0TG5keGxza0ZLb0pydmcwdjJKMGpONnl6LTNNak53NGYxZ3ZOVUV4OEU5em92ckp4LVpkNTIxZmhNY1EzOA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMXJ5TmthQjNwZUJwMTh1YjdQTEw1NFI5UUQtX2ZReEFqZk1RVXM1VkpiMkFMVVRHSGdoaFhyYXQzQ0cxUzdZSEpWOExsOEVSQ2c?oc=5"
         }
       ],
       "keywords": [
@@ -298,61 +298,6 @@
               "slug": "paclitaxel",
               "name": "Paclitaxel",
               "url": "/drugs/paclitaxel/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6d2c68275978",
-      "title": "小酌也很傷身 為何飲用任何劑量酒精都增加乳癌風險？",
-      "published": "2026-10-31T12:50:00+00:00",
-      "sources": [
-        {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4SDZLQm5DS2tOS3VoS29oMzNDZi1PV1lreXRXTlV3dXFfYkhOc3AxczVyWWdWSzZMaFROdXI5bXpQQ21tN2dkT0pZdWw4Vk11b3pOcTBfajJSbUtQVVpN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acetazolamide 的相關健康新聞報導。原適應症：青光眼及下列疾患之輔助治療：水腫、癲癇。預測適應症 10 個。"
 permalink: /news/acetazolamide/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-07
 ---
 
 # Acetazolamide 相關新聞
@@ -45,11 +45,11 @@ last_modified_at: 2026-11-05
 
 ## 相關新聞（1 則）
 
-### [虹膜炎反覆發作 眼壓急升恐致青光眼](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSnpCVDRvVm85Q0ZfNFVzUkEwRVRlTG8xM1NlWS0wNEhlRGVNZ2JTb3FDV1JFWWt2ZlBHdWg5aEphUG8tVFlQVlJyMnRjbXViU1pMdnFzVE9HOWh0N2V6ZlNsQWtTaW0xSktORGRHWUpPcFIxUlZsSGtXaDdzMDIzckxtc284VUtpd3dkTlRwbkd1ejR6eE9DS3k0R0duZmdHV05zTUJ3eUd0MGxybzdwejlQdUUzU2lFWUtGaG40b1J0cTItUjJ4dzVOcWMwWi1sMW9qWi1WblIxUzNhS2NWYW9FdHpzQkpqN1ljX3V0TG5keGxza0ZLb0pydmcwdjJKMGpONnl6LTNNak53NGYxZ3ZOVUV4OEU5em92ckp4LVpkNTIxZmhNY1EzOA?oc=5)
+### [虹膜炎反覆發作 眼壓急升恐致青光眼](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMXJ5TmthQjNwZUJwMTh1YjdQTEw1NFI5UUQtX2ZReEFqZk1RVXM1VkpiMkFMVVRHSGdoaFhyYXQzQ0cxUzdZSEpWOExsOEVSQ2c?oc=5)
 
 2026-11-05 <span class="news-indication-tag">青光眼</span>
 
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiqwJBVV95cUxOSnpCVDRvVm85Q0ZfNFVzUkEwRVRlTG8xM1NlWS0wNEhlRGVNZ2JTb3FDV1JFWWt2ZlBHdWg5aEphUG8tVFlQVlJyMnRjbXViU1pMdnFzVE9HOWh0N2V6ZlNsQWtTaW0xSktORGRHWUpPcFIxUlZsSGtXaDdzMDIzckxtc284VUtpd3dkTlRwbkd1ejR6eE9DS3k0R0duZmdHV05zTUJ3eUd0MGxybzdwejlQdUUzU2lFWUtGaG40b1J0cTItUjJ4dzVOcWMwWi1sMW9qWi1WblIxUzNhS2NWYW9FdHpzQkpqN1ljX3V0TG5keGxza0ZLb0pydmcwdjJKMGpONnl6LTNNak53NGYxZ3ZOVUV4OEU5em92ckp4LVpkNTIxZmhNY1EzOA?oc=5)
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMXJ5TmthQjNwZUJwMTh1YjdQTEw1NFI5UUQtX2ZReEFqZk1RVXM1VkpiMkFMVVRHSGdoaFhyYXQzQ0cxUzdZSEpWOExsOEVSQ2c?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Oteracil 的相關健康新聞報導。原適應症：胃癌用藥。預測適應症 9 個。"
 permalink: /news/oteracil/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Oteracil 相關新聞
@@ -52,11 +52,11 @@ last_modified_at: 2026-11-06
 
 ---
 
-### [0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌](https://news.google.com/rss/articles/CBMiygJBVV95cUxQVUNqekFBbkkxVm5PaUxTNFVnSlZPNElTUi1WT3ZVZ2ZKUDJMMXRHWW1NREdxQ3hYRmxDdEROYTFRTndzMk0yZll4MFBLWDRaczliMHdSbnhCejdJbnVESmpPUGxpazItSjZremVENjU4VVNTZWFHcExKYlJWMnhwSTRQcEN3OWdrQWJZY1c1TFM4b0lfUXpLbldQTHo2S3JhNlZ0S2FqR2pvbVdQbGRIcnI1Nkl4Z3FHLWdrYjFDXy1TTEJFU0Zwa0dsT2xGTUtjWWRxdGtOQ3RSRWc0Q0k2VW9WM1VKekZROTJtZ3BET0FGYS1XMWd3Z1ZhS2F4dmh4UE1DVUIyZnFfUXpmaElZbWlrTlV0RTU0b2N4VUg0dXoyLUlzd3FOUkZSbEpRcVhqUW1tQ0xFYVAyRThMaEFubUNKVEIzN0lhUWc?oc=5)
+### [0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUi1yNzcyUzVrM3FzSEVaT3RrbEhuWEdVM242RmZjMndhRC1nNUIwMmFfb0hNVjYyaGlJbFVXUWtVSHRBT2hsQ21fY1BqaE5WSUhr?oc=5)
 
 2026-11-06 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiygJBVV95cUxQVUNqekFBbkkxVm5PaUxTNFVnSlZPNElTUi1WT3ZVZ2ZKUDJMMXRHWW1NREdxQ3hYRmxDdEROYTFRTndzMk0yZll4MFBLWDRaczliMHdSbnhCejdJbnVESmpPUGxpazItSjZremVENjU4VVNTZWFHcExKYlJWMnhwSTRQcEN3OWdrQWJZY1c1TFM4b0lfUXpLbldQTHo2S3JhNlZ0S2FqR2pvbVdQbGRIcnI1Nkl4Z3FHLWdrYjFDXy1TTEJFU0Zwa0dsT2xGTUtjWWRxdGtOQ3RSRWc0Q0k2VW9WM1VKekZROTJtZ3BET0FGYS1XMWd3Z1ZhS2F4dmh4UE1DVUIyZnFfUXpmaElZbWlrTlV0RTU0b2N4VUg0dXoyLUlzd3FOUkZSbEpRcVhqUW1tQ0xFYVAyRThMaEFubUNKVEIzN0lhUWc?oc=5)
+來源: [中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUi1yNzcyUzVrM3FzSEVaT3RrbEhuWEdVM242RmZjMndhRC1nNUIwMmFfb0hNVjYyaGlJbFVXUWtVSHRBT2hsQ21fY1BqaE5WSUhr?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已...。預測適應症 10 個。"
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Paclitaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Paclitaxel</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-06
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [【冬陽天地】乳癌與骨質疏鬆](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
 
@@ -58,14 +58,6 @@ last_modified_at: 2026-11-06
 2026-10-31 <span class="news-indication-tag">子宮頸癌</span>
 
 來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMiggNBVV95cUxOYnlJQTRlMERJVk9KRHZBeEZLMkpYRlNQV0tZVC1ZbS0xVnV0RG5FcVIwNDJFUUxtdi1wYjdLSkxINHJDVGdRWXZSVGpsc1FiZ3JQQWhhTEdnMm9heHE2bDYtTTByZG9OeXQ0elpRRFlHMW1LYU9nc1FBNUxDUkR0LXljamdoODd5dFpSVmxGbmc3TmRjTWdxQWwwYk85LV9vRlNramZnZk9WV3Nrb0pNZHVVc3RDLXROUC1xZDYzb2tMWE52WVpjcWpFUUpjT19qbHE5dTlGYmNYSnpER1RHSWdCazJDTEVORnhUclVSUFZKd1dCb081akJUeHR5OTZjdkFDekk3MHItTkRaTDNMZl96OFcxUUtFVXdMZkhEVUpIUzZoMFFrdVRHU2xEVU9sSkoxaWdRaUFFdi1NN2YtWktBWVlMNzZVazBnUk1rWGdxaVRlcENCRmNvbC1rRVpXYXBnRHozNlpZQVhKbFVJaGs1SE1RczJwSHlGeU8wRm0wZ9IBkgFBVV95cUxPbXV0Q2FCRlBJYjZHcE1QZ1ZQWlhPUmljbVZVUDNOY2p0TFF3a2NBNDlhQ005aERFU1NkcGNQUzlLb2dZeUNVcHNCcDl0N2ZLTFRjOFVwUXl0UFRNU29Kb0hoY1NwSUdMa2ktZEhFMkNqZDlOdVE5MVhGdlh3ZkZOWnRBaE1mWEdzdUUzYVdISE0zQQ?oc=5)
-
----
-
-### [小酌也很傷身 為何飲用任何劑量酒精都增加乳癌風險？](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4SDZLQm5DS2tOS3VoS29oMzNDZi1PV1lreXRXTlV3dXFfYkhOc3AxczVyWWdWSzZMaFROdXI5bXpQQ21tN2dkT0pZdWw4Vk11b3pOcTBfajJSbUtQVVpN?oc=5)
-
-2026-10-31 <span class="news-indication-tag">乳癌</span>
-
-來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4SDZLQm5DS2tOS3VoS29oMzNDZi1PV1lreXRXTlV3dXFfYkhOc3AxczVyWWdWSzZMaFROdXI5bXpQQ21tN2dkT0pZdWw4Vk11b3pOcTBfajJSbUtQVVpN?oc=5)
 
 ---
 

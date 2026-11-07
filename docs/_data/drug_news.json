@@ -27,19 +27,19 @@
     {
       "url": "/news/anastrozole/",
       "title": "Anastrozole 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/carboplatin/": [
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/腸癌/",
@@ -49,26 +49,26 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/docetaxel/": [
     {
       "url": "/news/docetaxel/",
       "title": "Docetaxel 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/gemcitabine/": [
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/腸癌/",
@@ -78,14 +78,14 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/hydroxyurea/": [
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/腸癌/",
@@ -95,7 +95,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ],
   "/drugs/iodixanol/": [
@@ -155,12 +155,12 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 3
+      "count": 2
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/子宮頸癌/",
@@ -172,12 +172,12 @@
     {
       "url": "/news/trabectedin/",
       "title": "Trabectedin 相關新聞",
-      "count": 2
+      "count": 1
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 2
+      "count": 1
     }
   ]
 }
