@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ last_modified_at: 2026-11-07
 <li><strong>原適應症</strong>: 1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌患者。5.用於曾經使用含鉑類藥物(PLATINUM-BASED)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 抗癌藥。; 非小細胞肺癌、胰臟癌、膀胱癌。Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用含鉑類藥物(platinum-based)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 非</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li class="indication-matched">female breast carcinoma<span class="indication-tag">📰 乳癌</span></li>
+<li>female breast carcinoma</li>
 <li>rectum mucinous adenocarcinoma</li>
 <li>colon mucinous adenocarcinoma</li>
 <li>endometrial mixed adenocarcinoma</li>
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-07
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [腸道健康｜比傳統照腸慳8成時間！英國引入新款「微型鏡頭膠囊」每秒兩張相無痛無創助篩查大腸癌](https://news.google.com/rss/articles/CBMi4wRBVV95cUxNcGQtX3dyeTdnZXFaS2p1M0NHUUhLOTZqcFNfZFV0Y0c3bVJzam1qQWpZUWZLQkNvWWNfVlRNQ3JwTmZQQjlqUnRNVVpENTFjTWpYQVloZXRYUEp6RjAzTTRHY0VLT0RVVUNVMHJVSUpGSllwS2FkX05LcGo4WG0xOGV2a29jbHR4aHk0LThxWEZka01TZTRBc2ZLZk9qTDlUMjA5MzAzXzlsZjU4U1c0UFZNcUVRbHQwaEJNa0dScjgxc0FkdkJqRmxNNzVkamNkSllSSXZzZ3JKU2R1NjZ6SFYyekZBQ094YXVOVmRDUHNHOGxzV0toLUlKSmxhR0pOX05BRllQbzY5cXo0V2M0a0xDMVJwc1dMWWdFekRaeGJVMnV0YXczUjZPVEVZWk84Y0w1NzI4NjRBeU9PRkpZS05SMktWX0hCemRvMm5QNE5UeTg1QXBjS0U1UkRLTEVJR0JHWnROY1BqT0lIMmxoVmNMOFZuQTFsUWZfWUp5MjN6MHVEQjBENHc0cDZWMUVjQmk5WVdpXzZDdEJNYWd0eGdCY2xZRDZMbVlMZ1Uza3ZfMVdFQy1JU3UwNkdYUDdwWFRNdjAzVm5nakREQkZ4dEdGVGxIa19scl8za0xWNUNaTllob2dwV3BLTEZvREEzN0pWMW50ZUZfVUZvSzVjSWNTOWYwaVNLbFZTbDlndV9XN0JQaTdRV3BwbmVLTUZaMVlKZ2dRYll4T0ZfOU02c3k3UTRuMmhzZE5PTTd2QXhPNXhkZ1pmLUVsN040QXhqQzNyQ2N4XzVkRmthTXVjR0NRMA?oc=5)
 
@@ -58,14 +58,6 @@ last_modified_at: 2026-11-07
 2026-11-06 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GUi1yNzcyUzVrM3FzSEVaT3RrbEhuWEdVM242RmZjMndhRC1nNUIwMmFfb0hNVjYyaGlJbFVXUWtVSHRBT2hsQ21fY1BqaE5WSUhr?oc=5)
-
----
-
-### [【冬陽天地】乳癌與骨質疏鬆](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
-
-2026-10-31 <span class="news-indication-tag">乳癌</span>
-
-來源: [香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5)
 
 ---
 

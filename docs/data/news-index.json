@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-07T19:54:36.302745+00:00",
-  "count": 7,
+  "generated": "2026-11-07T23:16:13.744037+00:00",
+  "count": 6,
   "news": [
     {
       "id": "c7d75f629160",
@@ -218,61 +218,6 @@
               "slug": "isosorbide-dinitrate",
               "name": "Isosorbide dinitrate",
               "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9c5bc1a0fbff",
-      "title": "【冬陽天地】乳癌與骨質疏鬆",
-      "published": "2026-10-31T20:21:51+00:00",
-      "sources": [
-        {
-          "name": "香港文匯報",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CMk53VS04MUxFUnp3QWZrcHg2S3JiTFUzSTdoTGZRSm5mUWtkT1NOVW44UnhYU2VCdElBOXZlWHdVaWh0MUpvNlFra0VmV1FFYmRBbzhzN1hFZ1ZkMEJiLUllMnNYX2tlMWh0aUJHYnZBakRJWW8w?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
