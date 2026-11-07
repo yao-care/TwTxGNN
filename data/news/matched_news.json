@@ -1,33 +1,33 @@
 {
-  "last_updated": "2026-11-07T02:27:58.567335+00:00",
+  "last_updated": "2026-11-07T09:26:10.365445+00:00",
   "total_count": 38,
-  "matched_count": 11,
+  "matched_count": 9,
   "news": [
     {
-      "id": "9b21632e23d6",
-      "title": "60歲男狂喝無糖氣泡飲半年後心絞痛醫點名1物：恐傷心血管- 健康新聞 - PChome Online 新聞",
-      "published": "2026-11-06T14:31:05+00:00",
-      "summary": "60歲男狂喝無糖氣泡飲半年後心絞痛醫點名1物：恐傷心血管- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "0057d781fcd2",
+      "title": "DNA奈米開關怎麼找新藥？哈佛FIND平台從4億分子庫篩出新藥候選（試管與細胞實驗）",
+      "published": "2026-11-07T06:44:17+00:00",
+      "summary": "DNA奈米開關怎麼找新藥？哈佛FIND平台從4億分子庫篩出新藥候選（試管與細胞實驗）&nbsp;&nbsp;明日科學",
       "sources": [
         {
-          "name": "PChome Online 新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanVJZ2dBSUZncXlUcjJrNnNKOTBqV0g3b1owYkxINjFTV1c4dE5kdUp3azZTYzlJYkJFaGlCUDdIZ1JlN0MzNXpaSmVXbUNPS3cyTzBFWEZMdXNnV2pHZ2JfWmR3NWR1SjR0VTV2TEpTZ0tCWU5RQnhXcWw1TjdyYWtkSWhpUy1RVExTaEVn?oc=5"
+          "name": "明日科學",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RMHo2Zlp3U1JxNDNQRWNqQV9HTFFPeW1MVzRKelNIUXRwVV9xOHlnMVlEWlFvZU1yRnh1OGRPVXZUODljaHRRTG1JdHFtY2ZZVzVnSFozV0ExeDA?oc=5"
         }
       ],
-      "matched_keywords": [
+      "matched_keywords": []
+    },
+    {
+      "id": "6814e3524c9b",
+      "title": "台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康",
+      "published": "2026-11-07T04:30:31+00:00",
+      "summary": "台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
         {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5veEN5dGRRWDNBQUZQNHFPODIyMnlVNVMyNEs1Q2hDU1NvaGlqTldzMlZlYklJZllXcWp5R1h5T1hkTEU2LVRtRzdHenFUQ0d0RUV5eTBFV2dvdU1RemVlb1RzZW1zR3o5dFlGdkRn?oc=5"
         }
-      ]
+      ],
+      "matched_keywords": []
     },
     {
       "id": "c7d75f629160",
@@ -292,49 +292,6 @@
       ]
     },
     {
-      "id": "dd5b6efb7c72",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查",
-      "published": "2026-11-05T03:21:25+00:00",
-      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol",
-              "url": "/drugs/acebutolol/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腦血管",
-          "keyword": "腦血管",
-          "related_drugs": [
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol",
-              "url": "/drugs/iodixanol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "72bdfc95eb14",
       "title": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病",
       "published": "2026-11-04T20:08:59+00:00",
@@ -452,6 +409,49 @@
       "matched_keywords": []
     },
     {
+      "id": "c8c25ca32e77",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
+      "published": "2026-11-04T01:31:05+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查&nbsp;&nbsp;健康醫療網",
+      "sources": [
+        {
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLXlzZmNNV28zb2d2OGdYN2o5b3JFUkZCMkU3cmxNMUlhWThUNjJFNzlQb2lmYVZEMURiTUowMWZSbmhSNTV4a2dBWWFBYWZnLUNWeENR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol",
+              "url": "/drugs/iodixanol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "188c2556eea4",
       "title": "健康網》女性肥胖 傷心血管甚鉅！醫：產後盡快恢復體重",
       "published": "2026-11-03T09:26:00+00:00",
@@ -491,42 +491,17 @@
       "matched_keywords": []
     },
     {
-      "id": "15bf4ddfbe8f",
-      "title": "澳洲失智症連2年居死因榜首！去年逾1.9萬人死亡 醫揭正常健忘與失智症差異 | 信傳媒 - LINE TODAY",
-      "published": "2026-11-03T00:33:24+00:00",
-      "summary": "澳洲失智症連2年居死因榜首！去年逾1.9萬人死亡 醫揭正常健忘與失智症差異 | 信傳媒&nbsp;&nbsp;LINE TODAY",
+      "id": "62ee4502eb80",
+      "title": "​協和澳門藉“世界卒中日”辦健康諮詢活動 推動居民重視卒中防治",
+      "published": "2026-11-03T02:48:33+00:00",
+      "summary": "​協和澳門藉“世界卒中日”辦健康諮詢活動 推動居民重視卒中防治&nbsp;&nbsp;濠江日報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRl9jbEowUWJVTmFaazhMMGhXX0RPcDBYRkd4bG02T0pxNTRCdkxGd3YwNlFSSTJuRGJnZnFuVEcwUG8zVjJ5ZlVDTW15My1XNWgydUp3?oc=5"
+          "name": "濠江日報",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTXhSTGQtUlh3RWwxRGRLSUl2OUNKQVM4TFBpd3RtTzlzSlh2cEt2RUZ5RnBkRkM3RHBOaFlNQVlnTjdKR3R2YmFTQ2hqSVd6VmVBSXg0UGxYYkFkOEhQdA?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "e15d886c7585",
@@ -537,19 +512,6 @@
         {
           "name": "PChome Online 新聞",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelkxM254RzhOQlk0WGZGWXVKRWxaUHRyNmxrUU92ZmU4a3EtQ3NDdVdjTU1EaGpWQ1dhb0hnc051TFV4RGswSkh5NjFicXpKX0tTZHFNb1djU0xmUlpESXdFTm1zZ1NtNDhqdHU4V0hLVWFYUEY3RGlydnl5QjRwaEh1bURZZnh3bkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "db1a136e3f65",
-      "title": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法",
-      "published": "2026-11-02T05:18:21+00:00",
-      "summary": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法&nbsp;&nbsp;Cosmopolitan",
-      "sources": [
-        {
-          "name": "Cosmopolitan",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQy1aOHdIU2VSTDdXTFkyYnpoWDhIUU9oenlwb04xbXk2b2V2cExhcW9oRXExVkZnYmtiZWk1cVQtODZxRjd3YlBYNGJ3R0lEWEJGeEJuOXpIbnBMRmFfMDVqb1BoQ0NyLXV4VjJ6ZWh2dXM1TDhqLWNzR0loNXYxbmhmTGt5clV3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -702,6 +664,19 @@
       ]
     },
     {
+      "id": "6e0d0b28935f",
+      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報 - LINE TODAY",
+      "published": "2026-10-31T16:15:37+00:00",
+      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZGRfVy1Qd2g5bDFzVS14OWw0OW15cGxTTjlOdDhCQUN1MHA0NDROelVRc3VUX1ptOVJHOFoxZllJN3JZTmktWTJQVFZwTmN3dlF3S0NB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "686875d42b8b",
       "title": "哈佛發現發炎訊號「停不下來」的關鍵，有望成為自體免疫疾病新療法 - TechNews 科技新報",
       "published": "2026-10-31T16:04:56+00:00",
@@ -769,19 +744,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "6099d319aed5",
-      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 - TechNews 科技新報",
-      "published": "2026-10-31T08:19:53+00:00",
-      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92emE2MW1rQzFzQVZwMG90X2FNS2NkN0NRQUUxSVB0bkFjOWxnMWZRMzdKemtRajhmckcxbXJPcTlhYkR4dEFUNnp0R01WYjlsX3VDTEZiWE1UR3R4aHI0LWxzUVlFWnplVnU5TXhkTUtfVkYtNzMySUpB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

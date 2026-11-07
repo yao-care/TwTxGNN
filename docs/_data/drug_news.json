@@ -64,23 +64,6 @@
       "count": 2
     }
   ],
-  "/drugs/gefitinib/": [
-    {
-      "url": "/news/gefitinib/",
-      "title": "Gefitinib 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/dementia/",
-      "title": "失智症 (dementia) 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/失智/",
-      "title": "失智 相關新聞",
-      "count": 1
-    }
-  ],
   "/drugs/gemcitabine/": [
     {
       "url": "/news/gemcitabine/",
@@ -131,12 +114,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide dinitrate 相關新聞",
-      "count": 3
+      "count": 2
     },
     {
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
-      "count": 3
+      "count": 2
     }
   ],
   "/drugs/metoprolol/": [

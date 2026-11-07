@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acebutolol 的相關健康新聞報導。原適應症：高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）。預測適應症 2 個。"
 permalink: /news/acebutolol/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # Acebutolol 相關新聞
@@ -37,11 +37,11 @@ last_modified_at: 2026-11-06
 
 ## 相關新聞（1 則）
 
-### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
+### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLXlzZmNNV28zb2d2OGdYN2o5b3JFUkZCMkU3cmxNMUlhWThUNjJFNzlQb2lmYVZEMURiTUowMWZSbmhSNTV4a2dBWWFBYWZnLUNWeENR?oc=5)
 
-2026-11-05 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
+2026-11-04 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLXlzZmNNV28zb2d2OGdYN2o5b3JFUkZCMkU3cmxNMUlhWThUNjJFNzlQb2lmYVZEMURiTUowMWZSbmhSNTV4a2dBWWFBYWZnLUNWeENR?oc=5)
 
 ---
 
