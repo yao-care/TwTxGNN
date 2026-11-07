@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 15 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-07
 ---
 
 # Gefitinib 相關新聞
@@ -50,11 +50,11 @@ last_modified_at: 2026-11-05
 
 ## 相關新聞（1 則）
 
-### [失智症不是老了才預防！《Lancet》揭14項風險因子 醫：及早管理有助降低失智風險](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5)
+### [澳洲失智症連2年居死因榜首！去年逾1.9萬人死亡 醫揭正常健忘與失智症差異 | 信傳媒 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRl9jbEowUWJVTmFaazhMMGhXX0RPcDBYRkd4bG02T0pxNTRCdkxGd3YwNlFSSTJuRGJnZnFuVEcwUG8zVjJ5ZlVDTW15My1XNWgydUp3?oc=5)
 
-2026-11-05 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
+2026-11-03 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRl9jbEowUWJVTmFaazhMMGhXX0RPcDBYRkd4bG02T0pxNTRCdkxGd3YwNlFSSTJuRGJnZnFuVEcwUG8zVjJ5ZlVDTW15My1XNWgydUp3?oc=5)
 
 ---
 

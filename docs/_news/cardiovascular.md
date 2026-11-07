@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # 心血管 (cardiovascular) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-06
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
 
-### [台灣「國民家魚」護腦顧心血管專家：3類人先別急著吃- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaDVON2REb2NfVXg4NDlKeXNQQUNBd0VyREgzVzRzOGRNS0ZyODlDUHRJT29vS0lSeEQ1ZjZBTnpwcl9Oc3FGcHhHUEw2dmFySE5UcVlmb2piY3JCOFpjX05qZGkzTEU4cDhmZnNB?oc=5)
+### [60歲男狂喝無糖氣泡飲半年後心絞痛醫點名1物：恐傷心血管- 健康新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxQanVJZ2dBSUZncXlUcjJrNnNKOTBqV0g3b1owYkxINjFTV1c4dE5kdUp3azZTYzlJYkJFaGlCUDdIZ1JlN0MzNXpaSmVXbUNPS3cyTzBFWEZMdXNnV2pHZ2JfWmR3NWR1SjR0VTV2TEpTZ0tCWU5RQnhXcWw1TjdyYWtkSWhpUy1RVExTaEVn?oc=5)
+
+2026-11-06
+
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxQanVJZ2dBSUZncXlUcjJrNnNKOTBqV0g3b1owYkxINjFTV1c4dE5kdUp3azZTYzlJYkJFaGlCUDdIZ1JlN0MzNXpaSmVXbUNPS3cyTzBFWEZMdXNnV2pHZ2JfWmR3NWR1SjR0VTV2TEpTZ0tCWU5RQnhXcWw1TjdyYWtkSWhpUy1RVExTaEVn?oc=5)
+
+---
+
+### [護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心](https://news.google.com/rss/articles/CBMiugJBVV95cUxPRE0tNG9aaVAwcGNTOVF4ZGt2WlAzMURZT01pdTVnVzJFY3lxYVNYSmx2M2xhYUg5YkJYNU1ncFExMFlvWHYyR3ZkLURDR3lGS0JoQVRlSTFTYUZ4QkpaOFpIbjM3YlY4dVJ0aFR1QmdwSGxRNWtrelcyN0MxVndrandzWk1ORzBpblh6RzdJR1AwcUxqdzhRbDd4MENUQzRFOU4wOVpmTXc4ZjdUWm9XRGl5R3lHeU5DRlNHbjZ2M0VrQjN2T19VUGpYSTlwSVZaVUNLMjFCYm9QcUNITU4xeWpiTEd5LWtXME84bHZrUEFkN3d0cGhqN1JkbFAxeHd4NlpzWFU4blBSM2kxU29TUzFQSHM2N2FpVVBJV2pUSFdfWlFUMFdEMkhyZ016ZmtCaFdmU0c4MEFBdw?oc=5)
 
 2026-11-04
 
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaDVON2REb2NfVXg4NDlKeXNQQUNBd0VyREgzVzRzOGRNS0ZyODlDUHRJT29vS0lSeEQ1ZjZBTnpwcl9Oc3FGcHhHUEw2dmFySE5UcVlmb2piY3JCOFpjX05qZGkzTEU4cDhmZnNB?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiugJBVV95cUxPRE0tNG9aaVAwcGNTOVF4ZGt2WlAzMURZT01pdTVnVzJFY3lxYVNYSmx2M2xhYUg5YkJYNU1ncFExMFlvWHYyR3ZkLURDR3lGS0JoQVRlSTFTYUZ4QkpaOFpIbjM3YlY4dVJ0aFR1QmdwSGxRNWtrelcyN0MxVndrandzWk1ORzBpblh6RzdJR1AwcUxqdzhRbDd4MENUQzRFOU4wOVpmTXc4ZjdUWm9XRGl5R3lHeU5DRlNHbjZ2M0VrQjN2T19VUGpYSTlwSVZaVUNLMjFCYm9QcUNITU4xeWpiTEd5LWtXME84bHZrUEFkN3d0cGhqN1JkbFAxeHd4NlpzWFU4blBSM2kxU29TUzFQSHM2N2FpVVBJV2pUSFdfWlFUMFdEMkhyZ016ZmtCaFdmU0c4MEFBdw?oc=5)
 
 ---
 

@@ -131,12 +131,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide dinitrate 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
-      "count": 2
+      "count": 3
     }
   ],
   "/drugs/metoprolol/": [
@@ -166,18 +166,6 @@
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
       "count": 2
-    }
-  ],
-  "/drugs/ouabain/": [
-    {
-      "url": "/news/ouabain/",
-      "title": "Ouabain 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/myocardial-infarction/",
-      "title": "心梗 (myocardial infarction) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/paclitaxel/": [

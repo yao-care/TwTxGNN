@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-11-06T22:32:29.570386+00:00",
-  "total_count": 39,
+  "last_updated": "2026-11-07T02:27:58.567335+00:00",
+  "total_count": 38,
   "matched_count": 11,
   "news": [
     {
-      "id": "c9ff4fc40ff5",
-      "title": "零卡≠健康！60歲男每天喝「1種無糖飲」竟血管栓塞 醫：心梗風險多2倍",
-      "published": "2026-11-06T14:11:00+00:00",
-      "summary": "零卡≠健康！60歲男每天喝「1種無糖飲」竟血管栓塞 醫：心梗風險多2倍&nbsp;&nbsp;Yahoo新聞",
+      "id": "9b21632e23d6",
+      "title": "60歲男狂喝無糖氣泡飲半年後心絞痛醫點名1物：恐傷心血管- 健康新聞 - PChome Online 新聞",
+      "published": "2026-11-06T14:31:05+00:00",
+      "summary": "60歲男狂喝無糖氣泡飲半年後心絞痛醫點名1物：恐傷心血管- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNWUpHLXN2ZEFqV3g5ektWX3ZSWTN0c2wyTVlGOEN6TGVhd0VFakd6dnVLRDl0VkQyZGEwd2xmSE5EcXdpR0ZMR010X0Zmc2ZQZVBQRFl4WWVsckhmSUJxM25iTW1GSE9iQ0pURXg4SkViODFqenhfUTcxNDlmN1kyMVVKMm5EMU84dVhvNVVORnlBWTlZNXRoek9ybEdWNUhSTFJfWWlzY1Z2dXJlS3pZb2I2OWpsYUlKQi1ac2xfR3V5NnFqSExxLXlrbElVa0NQTkNaM2FrVFJzSWtxNnhLQ3g1aThYNm03ZHhFQXJEcVVjSDRoNVV0OWpYUjZ2M3FKZDJpVWEtNHpuSEd0bl8zeTh3N3UxYzRkSHFxZVlWVTZ3c3E3SXhTSmNRcDROWmotXzhqRQ?oc=5"
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanVJZ2dBSUZncXlUcjJrNnNKOTBqV0g3b1owYkxINjFTV1c4dE5kdUp3azZTYzlJYkJFaGlCUDdIZ1JlN0MzNXpaSmVXbUNPS3cyTzBFWEZMdXNnV2pHZ2JfWmR3NWR1SjR0VTV2TEpTZ0tCWU5RQnhXcWw1TjdyYWtkSWhpUy1RVExTaEVn?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心梗",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
@@ -266,44 +266,6 @@
       "matched_keywords": []
     },
     {
-      "id": "ae04587baff1",
-      "title": "失智症不是老了才預防！《Lancet》揭14項風險因子 醫：及早管理有助降低失智風險",
-      "published": "2026-11-05T04:10:59+00:00",
-      "summary": "失智症不是老了才預防！《Lancet》揭14項風險因子 醫：及早管理有助降低失智風險&nbsp;&nbsp;Yahoo新聞澳洲失智症連2年居死因榜首！去年逾1.9萬人死亡 醫揭正常健忘與失智症差異 | 信傳媒&nbsp;&nbsp;LINE TODAY怕失智常喝柳橙汁有效嗎？研究發現風險較低，醫師提醒3類人要避開- 書房&nbsp;&nbsp;工商時報",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQUDJfbVVaWjNlXzUxRUhHMFVfRGE1ZXlZa1p5TXUzWFBPUENFemVlRWNFWUJtSlVfaXhDdUl5ZEQ1aVVSeFVrOUtDRUlWZldfOEpOUTFTNTdud1dlcWMwUVM0ZmY4dzZmRW5TYjhMZHpWWTlzU3FIeXNpMjhNaDJnVFJseFFfNlBuNmJFeUU5U3ZGRnFGeVZQZFhWN2c5eERxX2czZ3VCekFTYjBqclBRWmw4MEtyUUJ0SWJmZTFKVGRSVUVaQWx1azFjRzlYLWRJZHJZMm1DMWVfQ3RlMy1CTURFSlZ1MVk5dHdZUTVVaWJKcDA2NTFBdEtWYmZzMWtZNFhtaE84c0ZqVmdoTHM4STEwTHJrU0hxNVNqYkVCSldoYmMtNGRmbzFwTkNRRl93QlNiT0ozQ2hlcDJEellOSmNPMlF0UFNQejFmZk9HRnNTdUNOSWhBN3BZQkJSUlhKM3lOYW5va1ViN3VqczE0MkQ5d09wS2c5SXBaclBERjBaU2hyMzBOOTJWOUpvYTZOeVBnaXJXWEFKR3VGcmljNjN6RUFVVzBSaDIxRC1QTmFxTFZjTDQ0bmdtajJ5MnM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "失智",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "d44ae7da93c1",
       "title": "虹膜炎反覆發作 眼壓急升恐致青光眼",
       "published": "2026-11-05T03:49:26+00:00",
@@ -438,6 +400,32 @@
       "matched_keywords": []
     },
     {
+      "id": "a2760d9f7a34",
+      "title": "護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心",
+      "published": "2026-11-04T08:22:02+00:00",
+      "summary": "護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心&nbsp;&nbsp;Yahoo新聞台灣「國民家魚」護腦顧心血管專家：3類人先別急著吃- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPRE0tNG9aaVAwcGNTOVF4ZGt2WlAzMURZT01pdTVnVzJFY3lxYVNYSmx2M2xhYUg5YkJYNU1ncFExMFlvWHYyR3ZkLURDR3lGS0JoQVRlSTFTYUZ4QkpaOFpIbjM3YlY4dVJ0aFR1QmdwSGxRNWtrelcyN0MxVndrandzWk1ORzBpblh6RzdJR1AwcUxqdzhRbDd4MENUQzRFOU4wOVpmTXc4ZjdUWm9XRGl5R3lHeU5DRlNHbjZ2M0VrQjN2T19VUGpYSTlwSVZaVUNLMjFCYm9QcUNITU4xeWpiTEd5LWtXME84bHZrUEFkN3d0cGhqN1JkbFAxeHd4NlpzWFU4blBSM2kxU29TUzFQSHM2N2FpVVBJV2pUSFdfWlFUMFdEMkhyZ016ZmtCaFdmU0c4MEFBdw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7036fa90e786",
       "title": "中國“癌譜”20年巨變，防癌思路也有新變化",
       "published": "2026-11-04T08:08:23+00:00",
@@ -462,32 +450,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "31ae6c134ae3",
-      "title": "台灣「國民家魚」護腦顧心血管專家：3類人先別急著吃- 健康",
-      "published": "2026-11-04T04:20:25+00:00",
-      "summary": "台灣「國民家魚」護腦顧心血管專家：3類人先別急著吃- 健康&nbsp;&nbsp;中時新聞網護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaDVON2REb2NfVXg4NDlKeXNQQUNBd0VyREgzVzRzOGRNS0ZyODlDUHRJT29vS0lSeEQ1ZjZBTnpwcl9Oc3FGcHhHUEw2dmFySE5UcVlmb2piY3JCOFpjX05qZGkzTEU4cDhmZnNB?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "188c2556eea4",
@@ -529,14 +491,52 @@
       "matched_keywords": []
     },
     {
-      "id": "1ed4d11fe1e2",
-      "title": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%",
-      "published": "2026-11-02T10:02:00+00:00",
-      "summary": "最新研究曝！每週喝2杯汽水胰臟癌風險飆升87%&nbsp;&nbsp;威傳媒每週喝「這飲品」與胰臟癌有關？研究發現風險高87% 專家解析真相&nbsp;&nbsp;Yahoo新聞健康網》愛喝「這飲料」要留意！ 研究：每週2杯恐與胰臟癌有關&nbsp;&nbsp;自由健康網不只酒精、香菸！研究揭「1常見飲品」與胰臟癌風險增87%有關&nbsp;&nbsp;造咖每週2罐汽水胰臟癌增87%？專家拆解致癌真相：真正元兇是「它」！&nbsp;&nbsp;香港01",
+      "id": "15bf4ddfbe8f",
+      "title": "澳洲失智症連2年居死因榜首！去年逾1.9萬人死亡 醫揭正常健忘與失智症差異 | 信傳媒 - LINE TODAY",
+      "published": "2026-11-03T00:33:24+00:00",
+      "summary": "澳洲失智症連2年居死因榜首！去年逾1.9萬人死亡 醫揭正常健忘與失智症差異 | 信傳媒&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "威傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB2WXR2WnpyRmQzOTJEd214d2pXOHpkUFpYR21EQ2hNWlNoUXVPV20zWVB6MHFaZUREWXd1bjhYYUd0TXVvaXNDRUtR?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRl9jbEowUWJVTmFaazhMMGhXX0RPcDBYRkd4bG02T0pxNTRCdkxGd3YwNlFSSTJuRGJnZnFuVEcwUG8zVjJ5ZlVDTW15My1XNWgydUp3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e15d886c7585",
+      "title": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼一旦感染高風險族群肺炎、慢病惡化與失能風險增加- 健康新聞 - PChome Online 新聞",
+      "published": "2026-11-02T07:45:00+00:00",
+      "summary": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼一旦感染高風險族群肺炎、慢病惡化與失能風險增加- 健康新聞&nbsp;&nbsp;PChome Online 新聞防重症風險 醫：慢性病患宜主動諮詢RSV&nbsp;&nbsp;自由健康網秋冬防感染別只打流感、新冠！醫提醒長輩留意5種疫苗&nbsp;&nbsp;Yahoo新聞RSV恐拖垮慢性病控制 醫籲高風險對象評估接種疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY調查曝成人染RSV半數自覺健康受影響、4成慢性病惡化 醫提醒及早預防&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQelkxM254RzhOQlk0WGZGWXVKRWxaUHRyNmxrUU92ZmU4a3EtQ3NDdVdjTU1EaGpWQ1dhb0hnc051TFV4RGswSkh5NjFicXpKX0tTZHFNb1djU0xmUlpESXdFTm1zZ1NtNDhqdHU4V0hLVWFYUEY3RGlydnl5QjRwaEh1bURZZnh3bkE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -702,19 +702,6 @@
       ]
     },
     {
-      "id": "6e0d0b28935f",
-      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報 - LINE TODAY",
-      "published": "2026-10-31T16:15:37+00:00",
-      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GZGRfVy1Qd2g5bDFzVS14OWw0OW15cGxTTjlOdDhCQUN1MHA0NDROelVRc3VUX1ptOVJHOFoxZllJN3JZTmktWTJQVFZwTmN3dlF3S0NB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "686875d42b8b",
       "title": "哈佛發現發炎訊號「停不下來」的關鍵，有望成為自體免疫疾病新療法 - TechNews 科技新報",
       "published": "2026-10-31T16:04:56+00:00",
@@ -784,14 +771,14 @@
       ]
     },
     {
-      "id": "cd28606c324c",
-      "title": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼",
-      "published": "2026-10-31T02:21:36+00:00",
-      "summary": "呼吸道細胞融合病毒(RSV) 威脅橫跨老幼&nbsp;&nbsp;台灣民眾電子報防重症風險 醫：慢性病患宜主動諮詢RSV&nbsp;&nbsp;自由健康網秋冬防感染別只打流感、新冠！醫提醒長輩留意5種疫苗&nbsp;&nbsp;Yahoo新聞RSV恐拖垮慢性病控制 醫籲高風險對象評估接種疫苗 | 中央廣播電臺&nbsp;&nbsp;LINE TODAY調查曝成人染RSV半數自覺健康受影響、4成慢性病惡化 醫提醒及早預防&nbsp;&nbsp;UDN",
+      "id": "6099d319aed5",
+      "title": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊 - TechNews 科技新報",
+      "published": "2026-10-31T08:19:53+00:00",
+      "summary": "年紀大了，咖啡怎麼愈來愈不香？可能是健康警訊&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "台灣民眾電子報",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1LXdtLVhnSEdxTEl6YTJVbGZZODR2ck54TkVaSHhwczFzUFlQY2JXNlRjSTduUHR1cUtYNFNmUk95cEpFR1UzYw?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92emE2MW1rQzFzQVZwMG90X2FNS2NkN0NRQUUxSVB0bkFjOWxnMWZRMzdKemtRajhmckcxbXJPcTlhYkR4dEFUNnp0R01WYjlsX3VDTEZiWE1UR3R4aHI0LWxzUVlFWnplVnU5TXhkTUtfVkYtNzMySUpB?oc=5"
         }
       ],
       "matched_keywords": []
