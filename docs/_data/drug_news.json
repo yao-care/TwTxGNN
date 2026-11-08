@@ -11,52 +11,40 @@
       "count": 1
     }
   ],
-  "/drugs/acetazolamide/": [
-    {
-      "url": "/news/acetazolamide/",
-      "title": "Acetazolamide 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/青光眼/",
-      "title": "青光眼 相關新聞",
-      "count": 1
-    }
-  ],
   "/drugs/carboplatin/": [
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 2
+      "count": 3
     }
   ],
   "/drugs/gemcitabine/": [
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 2
+      "count": 3
     }
   ],
   "/drugs/hydroxyurea/": [
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 2
+      "count": 3
     }
   ],
   "/drugs/iodixanol/": [
@@ -99,17 +87,17 @@
     {
       "url": "/news/oteracil/",
       "title": "Oteracil 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/colonic-neoplasm/",
       "title": "大腸癌 (colonic neoplasm) 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 2
+      "count": 3
     }
   ]
 }

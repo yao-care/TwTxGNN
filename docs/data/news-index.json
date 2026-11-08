@@ -1,7 +1,59 @@
 {
-  "generated": "2026-11-07T23:16:13.744037+00:00",
+  "generated": "2026-11-08T03:30:45.046204+00:00",
   "count": 6,
   "news": [
+    {
+      "id": "762c887ca3e6",
+      "title": "18歲男學生愛吃烤香腸罹大腸癌亡譚敦慈教排毒法- 健康",
+      "published": "2026-11-08T02:31:00+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdTJtTzgyYjRKLVNZU1FFT2EtTjV5c2hVZmdJbkFSQzRoUXEzTm9qX2tINFRuQWhETF9BV2RxOTlBaUZTbVJVT1VTdGsyQTdPSnUzaF9FYzVyaTdwYWVsdk45RXFaeUhERlFlNTFn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c7d75f629160",
       "title": "腸道健康｜比傳統照腸慳8成時間！英國引入新款「微型鏡頭膠囊」每秒兩張相無痛無創助篩查大腸癌",
@@ -107,38 +159,38 @@
       ]
     },
     {
-      "id": "e7605aa4811b",
-      "title": "虹膜炎反覆發作 眼壓急升恐致青光眼",
-      "published": "2026-11-05T03:49:26+00:00",
+      "id": "31ae6c134ae3",
+      "title": "台灣「國民家魚」護腦顧心血管專家：3類人先別急著吃- 健康",
+      "published": "2026-11-04T04:20:25+00:00",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XMXJ5TmthQjNwZUJwMTh1YjdQTEw1NFI5UUQtX2ZReEFqZk1RVXM1VkpiMkFMVVRHSGdoaFhyYXQzQ0cxUzdZSEpWOExsOEVSQ2c?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaDVON2REb2NfVXg4NDlKeXNQQUNBd0VyREgzVzRzOGRNS0ZyODlDUHRJT29vS0lSeEQ1ZjZBTnpwcl9Oc3FGcHhHUEw2dmFySE5UcVlmb2piY3JCOFpjX05qZGkzTEU4cDhmZnNB?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "青光眼",
-          "keyword": "青光眼",
+          "name": "cardiovascular",
+          "keyword": "心血管",
           "related_drugs": [
             {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
       ]
     },
     {
-      "id": "dd5b6efb7c72",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查",
-      "published": "2026-11-05T03:21:25+00:00",
+      "id": "c8c25ca32e77",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
+      "published": "2026-11-04T01:31:05+00:00",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
+          "name": "健康醫療網",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MLXlzZmNNV28zb2d2OGdYN2o5b3JFUkZCMkU3cmxNMUlhWThUNjJFNzlQb2lmYVZEMURiTUowMWZSbmhSNTV4a2dBWWFBYWZnLUNWeENR?oc=5"
         }
       ],
       "keywords": [
@@ -168,31 +220,6 @@
               "slug": "iodixanol",
               "name": "Iodixanol",
               "url": "/drugs/iodixanol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a2760d9f7a34",
-      "title": "護腦好物！虱目魚DHA、EPA含量驚人 專家：3類人要小心",
-      "published": "2026-11-04T08:22:02+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPRE0tNG9aaVAwcGNTOVF4ZGt2WlAzMURZT01pdTVnVzJFY3lxYVNYSmx2M2xhYUg5YkJYNU1ncFExMFlvWHYyR3ZkLURDR3lGS0JoQVRlSTFTYUZ4QkpaOFpIbjM3YlY4dVJ0aFR1QmdwSGxRNWtrelcyN0MxVndrandzWk1ORzBpblh6RzdJR1AwcUxqdzhRbDd4MENUQzRFOU4wOVpmTXc4ZjdUWm9XRGl5R3lHeU5DRlNHbjZ2M0VrQjN2T19VUGpYSTlwSVZaVUNLMjFCYm9QcUNITU4xeWpiTEd5LWtXME84bHZrUEFkN3d0cGhqN1JkbFAxeHd4NlpzWFU4blBSM2kxU29TUzFQSHM2N2FpVVBJV2pUSFdfWlFUMFdEMkhyZ016ZmtCaFdmU0c4MEFBdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
