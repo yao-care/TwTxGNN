@@ -1,8 +1,316 @@
 {
-  "last_updated": "2026-11-08T16:51:56.153036+00:00",
-  "total_count": 36,
-  "matched_count": 6,
+  "last_updated": "2026-11-08T20:53:45.419550+00:00",
+  "total_count": 38,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "936908ab6e4d",
+      "title": "醫路同行：慢性鼻竇炎新曙光 - 20261109 - 副刊",
+      "published": "2026-11-08T20:30:00+00:00",
+      "summary": "醫路同行：慢性鼻竇炎新曙光 - 20261109 - 副刊&nbsp;&nbsp;明報新聞網",
+      "sources": [
+        {
+          "name": "明報新聞網",
+          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOX1dXVkhQcFF0bGFUeHRnMVRGc0lSMWpaM3doczZBX0RqNVF6VEVuOGIwZ1ViQXctRmQ1YXY5WmRzUGU5RXZUTFc1LXgyTl82QkNKS2FISndjMmNZcEFUZkhNLVYxajFEV0VKWm9TZkNUR2tDVEhEcmF3bjRyU0dYQXpKVlJ2d1QtRnVVYmhRYWdxSlp4M19xVGM4OWh6dUhhY1g0bDVDX2JKdldxTFlXbWRaenRyUGgzMVVOVHN5VklXSmYtellEN3JKdEF3WnpSSjJjbllzVmVrcXVzRnczbG14bV8zZnFjLVNHLUsyTllrMmFNdXZSRVB3OVdIaHU2MjB6YWRPRkRkSlROeUZWM1lwZVFhaWpUN0tYbW44NHU?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c259b97dec31",
+      "title": "50歲以下大腸癌更難治 189顆腫瘤揭原因",
+      "published": "2026-11-08T17:30:00+00:00",
+      "summary": "50歲以下大腸癌更難治 189顆腫瘤揭原因&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2cdd4578ec9f",
       "title": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索",
@@ -72,7 +380,7 @@
       "id": "57022e931c41",
       "title": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌",
       "published": "2026-11-07T21:50:57+00:00",
-      "summary": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌&nbsp;&nbsp;巴士的報卵巢癌︱60歲婦肚腩突變大誤當贅肉 天天用筋膜槍消脂險打破腫瘤&nbsp;&nbsp;香港01浙江女用筋膜槍減肥 竟查出「婦癌之王」&nbsp;&nbsp;新唐人電視台卵巢癌誤當發福 六旬婦以筋膜槍打肚令「肚腩」越來越大&nbsp;&nbsp;am730【60歲女用筋膜槍打肚子竟查出「婦癌之王」 醫傻：腫瘤如柚子大】 肚子越來越大。 （#起啵） #大陸&nbsp;&nbsp;Facebook",
+      "summary": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌&nbsp;&nbsp;巴士的報卵巢癌︱60歲婦肚腩突變大誤當贅肉 天天用筋膜槍消脂險打破腫瘤&nbsp;&nbsp;HK01浙江女用筋膜槍減肥 竟查出「婦癌之王」&nbsp;&nbsp;新唐人電視台卵巢癌誤當發福 六旬婦以筋膜槍打肚令「肚腩」越來越大&nbsp;&nbsp;am730【60歲女用筋膜槍打肚子竟查出「婦癌之王」 醫傻：腫瘤如柚子大】 肚子越來越大。 （#起啵） #大陸&nbsp;&nbsp;Facebook",
       "sources": [
         {
           "name": "巴士的報",
@@ -434,13 +742,13 @@
       ]
     },
     {
-      "id": "9d2304b76e7e",
+      "id": "92000e0adcba",
       "title": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%",
       "published": "2026-11-06T09:18:21+00:00",
-      "summary": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%&nbsp;&nbsp;香港01",
+      "summary": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%&nbsp;&nbsp;HK01",
       "sources": [
         {
-          "name": "香港01",
+          "name": "HK01",
           "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOMGJaXzNXVDdKN1pfMmxMY0lkY1hENXdBeUtaVkRJREFZZ1ZHeXpCM1Z3NWYxSXZlMGRIYm5pZnBYbHZkWUQ2S2VDenhmNjhZTTFKUURrd1VkQ3RTQU0tS3lhRzZqSWd1NmEwMHEwQ0hHcFhuSmNOZzM0eHZoZ0xBSDhyUmM1N0tFTGJicDRxQ0lyRmwxT0JWZVdGZHJXNmtHM0tOOG5tT19teGE4U2t5bUZXU0x1T3ltN2FIWW9TTFEwQzZWQm5WWWRUOTBNclF0M1l1Z3V1OE42enF3cDB6WllZdG1rMVZjTU1fMjM0b21YMHFzZHZYMDAxLVZRbUF3NlZ3RnBGQWdnVVp1amJXeUpoSmEzSDB4SnZJckJneld4SUpWU3FhbTR6YTNEOWNOaVFId1JDTU1nRVFraHFvS2dHZjd1V1FyZkVtbjZ2V2plaXZvUnkzVWx6LWVpRGJ6Zlc3VzZONXd4V3BROXBLbFBSNlRCaDBCbXN6aHZCT2dwN2c?oc=5"
         }
       ],
@@ -838,13 +1146,13 @@
       "matched_keywords": []
     },
     {
-      "id": "a2726ff01d45",
+      "id": "61a20ccad720",
       "title": "來稿｜吸煙增肺炎流感重症風險 實施統一煙包可防煙害蔓延",
       "published": "2026-11-01T22:00:11+00:00",
-      "summary": "來稿｜吸煙增肺炎流感重症風險 實施統一煙包可防煙害蔓延&nbsp;&nbsp;香港01",
+      "summary": "來稿｜吸煙增肺炎流感重症風險 實施統一煙包可防煙害蔓延&nbsp;&nbsp;HK01",
       "sources": [
         {
-          "name": "香港01",
+          "name": "HK01",
           "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNSWdoM0h4LVhjbUs5V2t4MzU0M2NHOG9wTlMyb1NDMXZONHVXNE5rODM4Qjh5UGpRYXZMT0tudTBpM2xYemN6OEZaTVZqRVhzZTE3TVYyX1JnMHZCRjgwSHNzMlhtdEFJMm40V1BvWTY5Z1JMX3RZYXpzakxKNjlYMEdkSE95cHoxcmFaZDJwTGp3eWJLUVp1blFBMnloY3dLYU1nM0hPNEE1akN3LU1BbzFubEpjNlU3MU1MLVZIZWVHY0QzNVNoalZnUmMyTG5Za3ZtME5GT2JpTzhIVHZaaC12NzRXdHI3QUdMRGFkQjNsTzlfcmNhQkoxQ21CQTY0T3FnRVZrcElpZThuZDByOXZrYnpvaEtQXzlob01VbW5kTnJhQnpPSExvUC15ZjRPdGQ1WFkwNmlGSjd5VlBlTWR0MmlmcWZGTms4SEd3eHh2aXlRTDFMZmxMMm1qMERmUmJYZDBpcU5OZFpWMmQwWGNsNUdMczg4V0M4QzFkeWhPaWxNM3lvM0w2Y19YbjQ?oc=5"
         }
       ],

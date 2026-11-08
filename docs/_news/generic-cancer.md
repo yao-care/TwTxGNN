@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。1 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。2 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-08
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>1 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>2 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -76,7 +76,15 @@ last_modified_at: 2026-11-08
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [50歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
+
+2026-11-08
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
+
+---
 
 ### [肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSFhkQk5UejJScWRVMlhHeWQtby1XaGtjdER3MldBQUZxc3FMQVc3T21iZnB2cExpMnpHdTJFTVI0bnFnT0FkSUctY2JKNU1XMFRLakwzMHpaYWJFcm1DRkx5bFlwVnJGSGF6TEFuY2p1VG9FZVdad2tMWEVnOG13MHpRdXFTdmtzc2pJOHlFNHdWa0ZPRnpueUM5Uy03UGpvSHFRSEZFdC05ejlqMEY1RHJKLUtCLVhWTXlVUzA2Zm5MVmdSU2FHVWxfQUk4MllrRzR4MUplSHRxUmdDUUl0VE1KODRCZ1FGZ3V0NVBVbDZzTU45blZDNHZxd1Y0TWJBemRFRm4wcHI5VU1MUzRkTEZYcUd6Mmw1Z1htOGtCSWFFR1R6VWNab3dKRTlXaTZUNDBqaFZYNlNXZHlTYklCbjg5Vy1WMU5DcGNIYkdiN3JNU21JbldTN1piSHpmLXlBQjRmSTNhaTVnaFNRaERN?oc=5)
 
