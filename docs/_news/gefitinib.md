@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -48,7 +48,15 @@ last_modified_at: 2026-11-08
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
+
+2026-11-08 <span class="news-indication-tag">失智</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
+
+---
 
 ### [肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSFhkQk5UejJScWRVMlhHeWQtby1XaGtjdER3MldBQUZxc3FMQVc3T21iZnB2cExpMnpHdTJFTVI0bnFnT0FkSUctY2JKNU1XMFRLakwzMHpaYWJFcm1DRkx5bFlwVnJGSGF6TEFuY2p1VG9FZVdad2tMWEVnOG13MHpRdXFTdmtzc2pJOHlFNHdWa0ZPRnpueUM5Uy03UGpvSHFRSEZFdC05ejlqMEY1RHJKLUtCLVhWTXlVUzA2Zm5MVmdSU2FHVWxfQUk4MllrRzR4MUplSHRxUmdDUUl0VE1KODRCZ1FGZ3V0NVBVbDZzTU45blZDNHZxd1Y0TWJBemRFRm4wcHI5VU1MUzRkTEZYcUd6Mmw1Z1htOGtCSWFFR1R6VWNab3dKRTlXaTZUNDBqaFZYNlNXZHlTYklCbjg5Vy1WMU5DcGNIYkdiN3JNU21JbldTN1piSHpmLXlBQjRmSTNhaTVnaFNRaERN?oc=5)
 
