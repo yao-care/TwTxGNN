@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-08T20:53:43.851897+00:00",
-  "count": 38,
+  "fetched_at": "2026-11-09T00:20:49.867932+00:00",
+  "count": 37,
   "news": [
     {
       "id": "2cdd4578ec9f",
@@ -40,14 +40,38 @@
       ]
     },
     {
-      "id": "6814e3524c9b",
-      "title": "台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康 - 中時新聞網",
-      "published": "2026-11-07T04:30:31+00:00",
-      "summary": "台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "456ebce6cea5",
+      "title": "愛吃煎鮭魚注意 高溫恐產生有害物質 - 中天新聞網",
+      "published": "2026-11-07T08:39:22+00:00",
+      "summary": "愛吃煎鮭魚注意 高溫恐產生有害物質&nbsp;&nbsp;中天新聞網",
       "sources": [
         {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5veEN5dGRRWDNBQUZQNHFPODIyMnlVNVMyNEs1Q2hDU1NvaGlqTldzMlZlYklJZllXcWp5R1h5T1hkTEU2LVRtRzdHenFUQ0d0RUV5eTBFV2dvdU1RemVlb1RzZW1zR3o5dFlGdkRn?oc=5"
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vY3BZWXNMaEdWdUZZUF90VEJlZkFiWU1HRzhmSER0cXc4Z2twWENnTW9GMWRDcU0wVTdCTkVXQy1CbGVzaVVkSlJUa3I0UDg4Zm9j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2056df2f93c",
+      "title": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報",
+      "published": "2026-11-08T06:33:14+00:00",
+      "summary": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48%&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e15c2293604",
+      "title": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康 - 巴士的報",
+      "published": "2026-11-08T22:40:35+00:00",
+      "summary": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5"
         }
       ]
     },
@@ -88,14 +112,14 @@
       ]
     },
     {
-      "id": "91fbb55e02d9",
-      "title": "健康網》驚！脂肪肝不只傷肝 婦人膽囊養出「巨大紅棗」結石 - 自由健康網",
-      "published": "2026-11-04T03:18:00+00:00",
-      "summary": "健康網》驚！脂肪肝不只傷肝 婦人膽囊養出「巨大紅棗」結石&nbsp;&nbsp;自由健康網",
+      "id": "df94ed17264c",
+      "title": "不甩脂肪肝竟養出巨大膽結石醫取出也驚呆：我看過最大顆- 健康 - 中時新聞網",
+      "published": "2026-11-03T06:44:59+00:00",
+      "summary": "不甩脂肪肝竟養出巨大膽結石醫取出也驚呆：我看過最大顆- 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44SzJITmpOcTFyRHhnMm1iOE1pTzY0Q0g2anZ1NVpSOWQxanZvMy1xZmpHYmQtaWktTEF4TnJ3d1h0WEJmWjRJNzZ3ZHdxSWdzNlM4ZEkyelh3RmpzODBuR3dBMG4?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wcGZPS2xCTE1IUzY0cmxtSTJDaGNNemdkeHFzZlFVVG5Sel9GbVNnLWxXN2dTQkcyaEw0NFFVZEM4dHFrRHNKUGRQOC0xSTNKNHJYZ1VuRnBSZlpnd29RNGZHaEMzdlc4aEFwTHd3?oc=5"
         }
       ]
     },
@@ -148,18 +172,6 @@
       ]
     },
     {
-      "id": "57022e931c41",
-      "title": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌 - 巴士的報",
-      "published": "2026-11-07T21:50:57+00:00",
-      "summary": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌&nbsp;&nbsp;巴士的報卵巢癌︱60歲婦肚腩突變大誤當贅肉 天天用筋膜槍消脂險打破腫瘤&nbsp;&nbsp;HK01浙江女用筋膜槍減肥 竟查出「婦癌之王」&nbsp;&nbsp;新唐人電視台卵巢癌誤當發福 六旬婦以筋膜槍打肚令「肚腩」越來越大&nbsp;&nbsp;am730【60歲女用筋膜槍打肚子竟查出「婦癌之王」 醫傻：腫瘤如柚子大】 肚子越來越大。 （#起啵） #大陸&nbsp;&nbsp;Facebook",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSFhkQk5UejJScWRVMlhHeWQtby1XaGtjdER3MldBQUZxc3FMQVc3T21iZnB2cExpMnpHdTJFTVI0bnFnT0FkSUctY2JKNU1XMFRLakwzMHpaYWJFcm1DRkx5bFlwVnJGSGF6TEFuY2p1VG9FZVdad2tMWEVnOG13MHpRdXFTdmtzc2pJOHlFNHdWa0ZPRnpueUM5Uy03UGpvSHFRSEZFdC05ejlqMEY1RHJKLUtCLVhWTXlVUzA2Zm5MVmdSU2FHVWxfQUk4MllrRzR4MUplSHRxUmdDUUl0VE1KODRCZ1FGZ3V0NVBVbDZzTU45blZDNHZxd1Y0TWJBemRFRm4wcHI5VU1MUzRkTEZYcUd6Mmw1Z1htOGtCSWFFR1R6VWNab3dKRTlXaTZUNDBqaFZYNlNXZHlTYklCbjg5Vy1WMU5DcGNIYkdiN3JNU21JbldTN1piSHpmLXlBQjRmSTNhaTVnaFNRaERN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "31ae6c134ae3",
       "title": "台灣「國民家魚」護腦顧心血管專家：3類人先別急著吃- 健康 - 中時新聞網",
       "published": "2026-11-04T04:20:25+00:00",
@@ -172,14 +184,14 @@
       ]
     },
     {
-      "id": "db1a136e3f65",
-      "title": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法 - Cosmopolitan",
-      "published": "2026-11-02T05:18:21+00:00",
-      "summary": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法&nbsp;&nbsp;Cosmopolitan",
+      "id": "57022e931c41",
+      "title": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌 - 巴士的報",
+      "published": "2026-11-07T21:50:57+00:00",
+      "summary": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌&nbsp;&nbsp;巴士的報卵巢癌︱60歲婦肚腩突變大誤當贅肉 天天用筋膜槍消脂險打破腫瘤&nbsp;&nbsp;香港01浙江女用筋膜槍減肥 竟查出「婦癌之王」&nbsp;&nbsp;新唐人電視台卵巢癌誤當發福 六旬婦以筋膜槍打肚令「肚腩」越來越大&nbsp;&nbsp;am730【60歲女用筋膜槍打肚子竟查出「婦癌之王」 醫傻：腫瘤如柚子大】 肚子越來越大。 （#起啵） #大陸&nbsp;&nbsp;Facebook",
       "sources": [
         {
-          "name": "Cosmopolitan",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQy1aOHdIU2VSTDdXTFkyYnpoWDhIUU9oenlwb04xbXk2b2V2cExhcW9oRXExVkZnYmtiZWk1cVQtODZxRjd3YlBYNGJ3R0lEWEJGeEJuOXpIbnBMRmFfMDVqb1BoQ0NyLXV4VjJ6ZWh2dXM1TDhqLWNzR0loNXYxbmhmTGt5clV3?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSFhkQk5UejJScWRVMlhHeWQtby1XaGtjdER3MldBQUZxc3FMQVc3T21iZnB2cExpMnpHdTJFTVI0bnFnT0FkSUctY2JKNU1XMFRLakwzMHpaYWJFcm1DRkx5bFlwVnJGSGF6TEFuY2p1VG9FZVdad2tMWEVnOG13MHpRdXFTdmtzc2pJOHlFNHdWa0ZPRnpueUM5Uy03UGpvSHFRSEZFdC05ejlqMEY1RHJKLUtCLVhWTXlVUzA2Zm5MVmdSU2FHVWxfQUk4MllrRzR4MUplSHRxUmdDUUl0VE1KODRCZ1FGZ3V0NVBVbDZzTU45blZDNHZxd1Y0TWJBemRFRm4wcHI5VU1MUzRkTEZYcUd6Mmw1Z1htOGtCSWFFR1R6VWNab3dKRTlXaTZUNDBqaFZYNlNXZHlTYklCbjg5Vy1WMU5DcGNIYkdiN3JNU21JbldTN1piSHpmLXlBQjRmSTNhaTVnaFNRaERN?oc=5"
         }
       ]
     },
@@ -280,18 +292,6 @@
       ]
     },
     {
-      "id": "f96ce6c340a6",
-      "title": "入秋易攰又想食多 咖啡3大作用助應對「秋膘、秋乏、秋愁」 但並非人人適合 - 巴士的報",
-      "published": "2026-11-01T22:40:17+00:00",
-      "summary": "入秋易攰又想食多 咖啡3大作用助應對「秋膘、秋乏、秋愁」 但並非人人適合&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZzNTWGxTemo2U21CYTk2Nkhaei1EdUJBZERTQVdMc19hNFMtSUMydUVoNUQ1Tndxendtc2pGbExJaVhNSUE4R3RJbGczYV9mek1LUGtiSDNESDhsYXBqZ0wzbFpNVDFwcjhPNzVaTERuRGJRN1EtNG9MNEJWWl9kbE4xQjhIQWhXMnFicWNlRjVqaU9iN3JPUE94Z1pYWGhzS2YyejM1NHZVVnJOVDdhTm8tSm92ZGhNUHhydWFfSWhmc1RTZUVKUTdyNWh5dk5HT0xWbUozT2JMQzgzZGJoa2YwaVNjckhwRVJGUGZHX29RYzdIdDhHU1ZjWHoyN3BDMWN0emFsa1dQQWZKRmZlZ3VLeWpHQWhrYWdLZUlPb01JcEFFZkU0WGVwc0x2VWpMWWVHMWlWZTFySzJQVVZmMy1DTGg0UDViOHY5TVdqNlJ0U1RKekxBQ2RiQlFkWklVb3BXSE1hbmU0dEViNDlmUA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "80b993b6ce02",
       "title": "電視看太久恐影響老化！研究揭每天多看2小時，健康老化機率下降12% - Women's Health",
       "published": "2026-11-05T11:26:22+00:00",
@@ -330,7 +330,7 @@
     {
       "id": "c30132af061a",
       "title": "讓骨折快速康復的全新方法 - 大紀元",
-      "published": "2026-11-05T21:00:00+00:00",
+      "published": "2026-11-06T01:01:00+00:00",
       "summary": "讓骨折快速康復的全新方法&nbsp;&nbsp;大紀元",
       "sources": [
         {
@@ -436,25 +436,13 @@
       ]
     },
     {
-      "id": "61a20ccad720",
-      "title": "來稿｜吸煙增肺炎流感重症風險 實施統一煙包可防煙害蔓延 - HK01",
-      "published": "2026-11-01T22:00:11+00:00",
-      "summary": "來稿｜吸煙增肺炎流感重症風險 實施統一煙包可防煙害蔓延&nbsp;&nbsp;HK01",
-      "sources": [
-        {
-          "name": "HK01",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNSWdoM0h4LVhjbUs5V2t4MzU0M2NHOG9wTlMyb1NDMXZONHVXNE5rODM4Qjh5UGpRYXZMT0tudTBpM2xYemN6OEZaTVZqRVhzZTE3TVYyX1JnMHZCRjgwSHNzMlhtdEFJMm40V1BvWTY5Z1JMX3RZYXpzakxKNjlYMEdkSE95cHoxcmFaZDJwTGp3eWJLUVp1blFBMnloY3dLYU1nM0hPNEE1akN3LU1BbzFubEpjNlU3MU1MLVZIZWVHY0QzNVNoalZnUmMyTG5Za3ZtME5GT2JpTzhIVHZaaC12NzRXdHI3QUdMRGFkQjNsTzlfcmNhQkoxQ21CQTY0T3FnRVZrcElpZThuZDByOXZrYnpvaEtQXzlob01VbW5kTnJhQnpPSExvUC15ZjRPdGQ1WFkwNmlGSjd5VlBlTWR0MmlmcWZGTms4SEd3eHh2aXlRTDFMZmxMMm1qMERmUmJYZDBpcU5OZFpWMmQwWGNsNUdMczg4V0M4QzFkeWhPaWxNM3lvM0w2Y19YbjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92000e0adcba",
-      "title": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30% - HK01",
+      "id": "9d2304b76e7e",
+      "title": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30% - 香港01",
       "published": "2026-11-06T09:18:21+00:00",
-      "summary": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%&nbsp;&nbsp;HK01",
+      "summary": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "HK01",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOMGJaXzNXVDdKN1pfMmxMY0lkY1hENXdBeUtaVkRJREFZZ1ZHeXpCM1Z3NWYxSXZlMGRIYm5pZnBYbHZkWUQ2S2VDenhmNjhZTTFKUURrd1VkQ3RTQU0tS3lhRzZqSWd1NmEwMHEwQ0hHcFhuSmNOZzM0eHZoZ0xBSDhyUmM1N0tFTGJicDRxQ0lyRmwxT0JWZVdGZHJXNmtHM0tOOG5tT19teGE4U2t5bUZXU0x1T3ltN2FIWW9TTFEwQzZWQm5WWWRUOTBNclF0M1l1Z3V1OE42enF3cDB6WllZdG1rMVZjTU1fMjM0b21YMHFzZHZYMDAxLVZRbUF3NlZ3RnBGQWdnVVp1amJXeUpoSmEzSDB4SnZJckJneld4SUpWU3FhbTR6YTNEOWNOaVFId1JDTU1nRVFraHFvS2dHZjd1V1FyZkVtbjZ2V2plaXZvUnkzVWx6LWVpRGJ6Zlc3VzZONXd4V3BROXBLbFBSNlRCaDBCbXN6aHZCT2dwN2c?oc=5"
         }
       ]

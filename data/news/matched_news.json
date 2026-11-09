@@ -1,8 +1,264 @@
 {
-  "last_updated": "2026-11-08T20:53:45.419550+00:00",
-  "total_count": 38,
-  "matched_count": 7,
+  "last_updated": "2026-11-09T00:20:51.444363+00:00",
+  "total_count": 37,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "0e15c2293604",
+      "title": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康",
+      "published": "2026-11-08T22:40:35+00:00",
+      "summary": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "936908ab6e4d",
       "title": "醫路同行：慢性鼻竇炎新曙光 - 20261109 - 副刊",
@@ -351,6 +607,32 @@
       "matched_keywords": []
     },
     {
+      "id": "d2056df2f93c",
+      "title": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報",
+      "published": "2026-11-08T06:33:14+00:00",
+      "summary": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48%&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1c226f5143d0",
       "title": "植牙後牙肉腫好不了！台大醫連收3病例切片驚見牙齦癌- 健康",
       "published": "2026-11-08T04:52:59+00:00",
@@ -380,7 +662,7 @@
       "id": "57022e931c41",
       "title": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌",
       "published": "2026-11-07T21:50:57+00:00",
-      "summary": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌&nbsp;&nbsp;巴士的報卵巢癌︱60歲婦肚腩突變大誤當贅肉 天天用筋膜槍消脂險打破腫瘤&nbsp;&nbsp;HK01浙江女用筋膜槍減肥 竟查出「婦癌之王」&nbsp;&nbsp;新唐人電視台卵巢癌誤當發福 六旬婦以筋膜槍打肚令「肚腩」越來越大&nbsp;&nbsp;am730【60歲女用筋膜槍打肚子竟查出「婦癌之王」 醫傻：腫瘤如柚子大】 肚子越來越大。 （#起啵） #大陸&nbsp;&nbsp;Facebook",
+      "summary": "肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌&nbsp;&nbsp;巴士的報卵巢癌︱60歲婦肚腩突變大誤當贅肉 天天用筋膜槍消脂險打破腫瘤&nbsp;&nbsp;香港01浙江女用筋膜槍減肥 竟查出「婦癌之王」&nbsp;&nbsp;新唐人電視台卵巢癌誤當發福 六旬婦以筋膜槍打肚令「肚腩」越來越大&nbsp;&nbsp;am730【60歲女用筋膜槍打肚子竟查出「婦癌之王」 醫傻：腫瘤如柚子大】 肚子越來越大。 （#起啵） #大陸&nbsp;&nbsp;Facebook",
       "sources": [
         {
           "name": "巴士的報",
@@ -663,6 +945,19 @@
       "matched_keywords": []
     },
     {
+      "id": "456ebce6cea5",
+      "title": "愛吃煎鮭魚注意 高溫恐產生有害物質",
+      "published": "2026-11-07T08:39:22+00:00",
+      "summary": "愛吃煎鮭魚注意 高溫恐產生有害物質&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "中天新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vY3BZWXNMaEdWdUZZUF90VEJlZkFiWU1HRzhmSER0cXc4Z2twWENnTW9GMWRDcU0wVTdCTkVXQy1CbGVzaVVkSlJUa3I0UDg4Zm9j?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0057d781fcd2",
       "title": "DNA奈米開關怎麼找新藥？哈佛FIND平台從4億分子庫篩出新藥候選（試管與細胞實驗）",
       "published": "2026-11-07T06:44:17+00:00",
@@ -671,19 +966,6 @@
         {
           "name": "明日科學",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RMHo2Zlp3U1JxNDNQRWNqQV9HTFFPeW1MVzRKelNIUXRwVV9xOHlnMVlEWlFvZU1yRnh1OGRPVXZUODljaHRRTG1JdHFtY2ZZVzVnSFozV0ExeDA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6814e3524c9b",
-      "title": "台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康",
-      "published": "2026-11-07T04:30:31+00:00",
-      "summary": "台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5veEN5dGRRWDNBQUZQNHFPODIyMnlVNVMyNEs1Q2hDU1NvaGlqTldzMlZlYklJZllXcWp5R1h5T1hkTEU2LVRtRzdHenFUQ0d0RUV5eTBFV2dvdU1RemVlb1RzZW1zR3o5dFlGdkRn?oc=5"
         }
       ],
       "matched_keywords": []
@@ -742,13 +1024,13 @@
       ]
     },
     {
-      "id": "92000e0adcba",
+      "id": "9d2304b76e7e",
       "title": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%",
       "published": "2026-11-06T09:18:21+00:00",
-      "summary": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%&nbsp;&nbsp;HK01",
+      "summary": "前列腺癌年奪500命！萬人研究驚爆：常吃「這類食物」風險飆升30%&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "HK01",
+          "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOMGJaXzNXVDdKN1pfMmxMY0lkY1hENXdBeUtaVkRJREFZZ1ZHeXpCM1Z3NWYxSXZlMGRIYm5pZnBYbHZkWUQ2S2VDenhmNjhZTTFKUURrd1VkQ3RTQU0tS3lhRzZqSWd1NmEwMHEwQ0hHcFhuSmNOZzM0eHZoZ0xBSDhyUmM1N0tFTGJicDRxQ0lyRmwxT0JWZVdGZHJXNmtHM0tOOG5tT19teGE4U2t5bUZXU0x1T3ltN2FIWW9TTFEwQzZWQm5WWWRUOTBNclF0M1l1Z3V1OE42enF3cDB6WllZdG1rMVZjTU1fMjM0b21YMHFzZHZYMDAxLVZRbUF3NlZ3RnBGQWdnVVp1amJXeUpoSmEzSDB4SnZJckJneld4SUpWU3FhbTR6YTNEOWNOaVFId1JDTU1nRVFraHFvS2dHZjd1V1FyZkVtbjZ2V2plaXZvUnkzVWx6LWVpRGJ6Zlc3VzZONXd4V3BROXBLbFBSNlRCaDBCbXN6aHZCT2dwN2c?oc=5"
         }
       ],
@@ -821,6 +1103,19 @@
       ]
     },
     {
+      "id": "c30132af061a",
+      "title": "讓骨折快速康復的全新方法",
+      "published": "2026-11-06T01:01:00+00:00",
+      "summary": "讓骨折快速康復的全新方法&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWGV3aHNfdHdsc0N0dEZpTDFDbFNXUktkSExkc0h5N3JRa2Ntdm9hVkRJamY0LUczMG9kYjlmNXVRd0s3dlFkajE1VjFQR1VMTDl4OHFtdl9PRkZqX3lIUjJ30gFnQVVfeXFMTzBoVHJZSE9PanJLNUFtdVlRc1pVY1M3RTlic19qQXR1ekNOTlRlb1JOUGs0UUNFTzhZaTFhQ0VHdjBCRkJRcm91ZkxYRHpnUkpJSXlZM0VfM2JTcUpVSWEtS19zUmQ2SQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "911076c649d3",
       "title": "流鼻水｜用力擤鼻涕會擤爆耳膜？流鼻水忌紙巾塞鼻孔 醫生公開3招正確擤鼻涕技巧",
       "published": "2026-11-06T01:00:00+00:00",
@@ -842,19 +1137,6 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNLU0zVERpN1hKczFDeXpURUtBTEZOcENzcGpSQ1NsMkxsRnY4Zl84eFVZWjlLcGJjUjdOX2stN05XQ01Ea0dnTWJDRWY2LS1HLTF4LS1RZjdwTXNNb0RtSjZCWHpsclYxS1VtLWt0SXZGSW1Ja1IxdW92Nm5lY0lpSVpUSS1lc2MtY1JyaUVTcDc3SWJCSHVmbGpyZjFnYzEyQ0tvYkxveTRkMFloMWJQeWdOTWtWMzYzUERmNnppUzlsTE5pWDVjUXFDNnhhaGtFUGFYSUpkaTlfc1JDbHgwZDRUQVJrR3F0dWtHSEZCWmNfV3QwV3liX3RTTDVscjlsb0o0Yk1CTDFIWl9Fdkh2WDl2RG9BY3BwQURMdUZacFpOTF82YXMxUGJtcTFKWXFYY3FoODNkMGUwTjgzN2h1dnJiRGh5THJhTzVkeXRnZEJoRVNwNjc5UW9lQ0VXcnhnUWFOMVJFdFYxM1RuWFdTUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c30132af061a",
-      "title": "讓骨折快速康復的全新方法",
-      "published": "2026-11-05T21:00:00+00:00",
-      "summary": "讓骨折快速康復的全新方法&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWGV3aHNfdHdsc0N0dEZpTDFDbFNXUktkSExkc0h5N3JRa2Ntdm9hVkRJamY0LUczMG9kYjlmNXVRd0s3dlFkajE1VjFQR1VMTDl4OHFtdl9PRkZqX3lIUjJ30gFnQVVfeXFMTzBoVHJZSE9PanJLNUFtdVlRc1pVY1M3RTlic19qQXR1ekNOTlRlb1JOUGs0UUNFTzhZaTFhQ0VHdjBCRkJRcm91ZkxYRHpnUkpJSXlZM0VfM2JTcUpVSWEtS19zUmQ2SQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1016,19 +1298,6 @@
       ]
     },
     {
-      "id": "91fbb55e02d9",
-      "title": "健康網》驚！脂肪肝不只傷肝 婦人膽囊養出「巨大紅棗」結石",
-      "published": "2026-11-04T03:18:00+00:00",
-      "summary": "健康網》驚！脂肪肝不只傷肝 婦人膽囊養出「巨大紅棗」結石&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44SzJITmpOcTFyRHhnMm1iOE1pTzY0Q0g2anZ1NVpSOWQxanZvMy1xZmpHYmQtaWktTEF4TnJ3d1h0WEJmWjRJNzZ3ZHdxSWdzNlM4ZEkyelh3RmpzODBuR3dBMG4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "188c2556eea4",
       "title": "健康網》女性肥胖 傷心血管甚鉅！醫：產後盡快恢復體重",
       "published": "2026-11-03T09:26:00+00:00",
@@ -1053,6 +1322,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "df94ed17264c",
+      "title": "不甩脂肪肝竟養出巨大膽結石醫取出也驚呆：我看過最大顆- 健康",
+      "published": "2026-11-03T06:44:59+00:00",
+      "summary": "不甩脂肪肝竟養出巨大膽結石醫取出也驚呆：我看過最大顆- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wcGZPS2xCTE1IUzY0cmxtSTJDaGNNemdkeHFzZlFVVG5Sel9GbVNnLWxXN2dTQkcyaEw0NFFVZEM4dHFrRHNKUGRQOC0xSTNKNHJYZ1VuRnBSZlpnd29RNGZHaEMzdlc4aEFwTHd3?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "666eb024a654",
@@ -1107,19 +1389,6 @@
       "matched_keywords": []
     },
     {
-      "id": "db1a136e3f65",
-      "title": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法",
-      "published": "2026-11-02T05:18:21+00:00",
-      "summary": "頭髮一個月長幾公分？怎麼讓頭髮長得快？皮膚科醫師解答11個養髮方法&nbsp;&nbsp;Cosmopolitan",
-      "sources": [
-        {
-          "name": "Cosmopolitan",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQy1aOHdIU2VSTDdXTFkyYnpoWDhIUU9oenlwb04xbXk2b2V2cExhcW9oRXExVkZnYmtiZWk1cVQtODZxRjd3YlBYNGJ3R0lEWEJGeEJuOXpIbnBMRmFfMDVqb1BoQ0NyLXV4VjJ6ZWh2dXM1TDhqLWNzR0loNXYxbmhmTGt5clV3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "086185537c39",
       "title": "哥倫比亞發現輸入性瘧疾病例 1死1留醫 暫無伊波拉個案 - Yahoo 財經",
       "published": "2026-11-02T01:46:35+00:00",
@@ -1128,32 +1397,6 @@
         {
           "name": "Yahoo 財經",
           "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNMVFWQUc5b2s4b2w5WHpJc3lfR0lLWlpaclRxQ21lWnI0YkRtQnhXeFJ5SXZnaEZveXhnVXpuU0RvbzBtTmtYTXdndGN3Tl9rYXNmYzhiZWhVZEJEeVRmYkY5R3N4WnBpYjdrcm9ja3VGSDZud0hlS0ZmdEo4WUYyUkE4ZXJZMGhMMmJVVjBOd1VRQVFzOVB0cmIxRS1VWHM5eXNjVURmQ0t2REdGSTVWNExCQTZmMDM3NG55aWpoRXpaWEdhRnYyREtXTlptdlg2VVd1QlFmTllwd2dTOWtGMmRaU3daVFhhdUZmSkN6MjllemhRTmRWQUlrUHVMcHNsX3VYdWVjdUFZOERBS1FiTFJ4dWZCanpiYnlMTXNFWmlQX2V5d0EzeE9HcjJIdVJDTWI2TXZybXdTQ0ZjVFhJaTJLVVR1NEhpWmRWZ09KQjBKQ0JGWGRLaWk4SmF2NDF6Y3pXOXFTd1pmdks0c2NpcFY3MlJxa0k?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f96ce6c340a6",
-      "title": "入秋易攰又想食多 咖啡3大作用助應對「秋膘、秋乏、秋愁」 但並非人人適合",
-      "published": "2026-11-01T22:40:17+00:00",
-      "summary": "入秋易攰又想食多 咖啡3大作用助應對「秋膘、秋乏、秋愁」 但並非人人適合&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPZzNTWGxTemo2U21CYTk2Nkhaei1EdUJBZERTQVdMc19hNFMtSUMydUVoNUQ1Tndxendtc2pGbExJaVhNSUE4R3RJbGczYV9mek1LUGtiSDNESDhsYXBqZ0wzbFpNVDFwcjhPNzVaTERuRGJRN1EtNG9MNEJWWl9kbE4xQjhIQWhXMnFicWNlRjVqaU9iN3JPUE94Z1pYWGhzS2YyejM1NHZVVnJOVDdhTm8tSm92ZGhNUHhydWFfSWhmc1RTZUVKUTdyNWh5dk5HT0xWbUozT2JMQzgzZGJoa2YwaVNjckhwRVJGUGZHX29RYzdIdDhHU1ZjWHoyN3BDMWN0emFsa1dQQWZKRmZlZ3VLeWpHQWhrYWdLZUlPb01JcEFFZkU0WGVwc0x2VWpMWWVHMWlWZTFySzJQVVZmMy1DTGg0UDViOHY5TVdqNlJ0U1RKekxBQ2RiQlFkWklVb3BXSE1hbmU0dEViNDlmUA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "61a20ccad720",
-      "title": "來稿｜吸煙增肺炎流感重症風險 實施統一煙包可防煙害蔓延",
-      "published": "2026-11-01T22:00:11+00:00",
-      "summary": "來稿｜吸煙增肺炎流感重症風險 實施統一煙包可防煙害蔓延&nbsp;&nbsp;HK01",
-      "sources": [
-        {
-          "name": "HK01",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNSWdoM0h4LVhjbUs5V2t4MzU0M2NHOG9wTlMyb1NDMXZONHVXNE5rODM4Qjh5UGpRYXZMT0tudTBpM2xYemN6OEZaTVZqRVhzZTE3TVYyX1JnMHZCRjgwSHNzMlhtdEFJMm40V1BvWTY5Z1JMX3RZYXpzakxKNjlYMEdkSE95cHoxcmFaZDJwTGp3eWJLUVp1blFBMnloY3dLYU1nM0hPNEE1akN3LU1BbzFubEpjNlU3MU1MLVZIZWVHY0QzNVNoalZnUmMyTG5Za3ZtME5GT2JpTzhIVHZaaC12NzRXdHI3QUdMRGFkQjNsTzlfcmNhQkoxQ21CQTY0T3FnRVZrcElpZThuZDByOXZrYnpvaEtQXzlob01VbW5kTnJhQnpPSExvUC15ZjRPdGQ1WFkwNmlGSjd5VlBlTWR0MmlmcWZGTms4SEd3eHh2aXlRTDFMZmxMMm1qMERmUmJYZDBpcU5OZFpWMmQwWGNsNUdMczg4V0M4QzFkeWhPaWxNM3lvM0w2Y19YbjQ?oc=5"
         }
       ],
       "matched_keywords": []

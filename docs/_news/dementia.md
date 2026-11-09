@@ -3,9 +3,9 @@ layout: default
 title: "失智 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "失智 (dementia) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # 失智 (dementia) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>失智 (dementia)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-08
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
 
 2026-11-08
 
 來源: [元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
+
+---
+
+### [以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+
+2026-11-08
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
 
 ---
 
