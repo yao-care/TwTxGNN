@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # 心血管 (cardiovascular) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-08
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [每天快走30分鐘就夠了？哈佛11萬人研究打臉：女性少做「這項運動」心血管保護少一大半 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iSURFRGxJcWtvcERFU1lEd2pUcVBGbmhLd0dNeXpIZ1ZjNzEwcmxURU00QWd2RjRrMFJzMDB1RThlaVc5NHpwSGFyaUFLYTdWMFRR?oc=5)
+
+2026-11-09
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iSURFRGxJcWtvcERFU1lEd2pUcVBGbmhLd0dNeXpIZ1ZjNzEwcmxURU00QWd2RjRrMFJzMDB1RThlaVc5NHpwSGFyaUFLYTdWMFRR?oc=5)
+
+---
 
 ### [台灣「國民家魚」護腦顧心血管專家：3類人先別急著吃- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaDVON2REb2NfVXg4NDlKeXNQQUNBd0VyREgzVzRzOGRNS0ZyODlDUHRJT29vS0lSeEQ1ZjZBTnpwcl9Oc3FGcHhHUEw2dmFySE5UcVlmb2piY3JCOFpjX05qZGkzTEU4cDhmZnNB?oc=5)
 

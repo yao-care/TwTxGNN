@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-09
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [每天快走30分鐘就夠了？哈佛11萬人研究打臉：女性少做「這項運動」心血管保護少一大半 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iSURFRGxJcWtvcERFU1lEd2pUcVBGbmhLd0dNeXpIZ1ZjNzEwcmxURU00QWd2RjRrMFJzMDB1RThlaVc5NHpwSGFyaUFLYTdWMFRR?oc=5)
+
+2026-11-09 <span class="news-indication-tag">心血管</span>
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iSURFRGxJcWtvcERFU1lEd2pUcVBGbmhLd0dNeXpIZ1ZjNzEwcmxURU00QWd2RjRrMFJzMDB1RThlaVc5NHpwSGFyaUFLYTdWMFRR?oc=5)
+
+---
 
 ### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5)
 

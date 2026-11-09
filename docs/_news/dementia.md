@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "失智 (dementia) 相關新聞"
+title: "失智症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "失智症 (dementia) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-09
 ---
 
-# 失智 (dementia) 相關新聞
+# 失智症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
+<strong>失智症 (dementia)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-09
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
-### [不是小腿！男性「1處」沒力＝失智、巴金森氏症前兆](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblk4S1lvUzJnTXlfdHJwSzhlSU1abVM4SzRfYjdEQzRpMkVrSGtlSjg2RUYtWFJ0ODg5M3ptbDRqRjE4RGdTcDcwLWJYazdPZXZPZlQ1VEJfNXFNbWtjTVhINDc2dzRmRF9EcWdLZ25peDVvREYtVG44TjJHOFZCd09kSEloMGNsZWNyVENVQ0JhTjNRa08wMTNDdG83Q3JYcl9rU0NkZV9qVENyNlQ1M3NGX2I4NXJLUERpNjJMY1dqSFk1eVduSWNrX25sUGZPRDJlMkdYck9ibjJoSlE?oc=5)
+### [每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動](https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5)
 
 2026-11-09
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQblk4S1lvUzJnTXlfdHJwSzhlSU1abVM4SzRfYjdEQzRpMkVrSGtlSjg2RUYtWFJ0ODg5M3ptbDRqRjE4RGdTcDcwLWJYazdPZXZPZlQ1VEJfNXFNbWtjTVhINDc2dzRmRF9EcWdLZ25peDVvREYtVG44TjJHOFZCd09kSEloMGNsZWNyVENVQ0JhTjNRa08wMTNDdG83Q3JYcl9rU0NkZV9qVENyNlQ1M3NGX2I4NXJLUERpNjJMY1dqSFk1eVduSWNrX25sUGZPRDJlMkdYck9ibjJoSlE?oc=5)
+來源: [ELLE](https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5)
+
+---
+
+### [聽力損失與失智風險有關？醫解析可能原因 助聽器選配有學問](https://news.google.com/rss/articles/CBMixwJBVV95cUxQS2NFLWdwUjI4Q3dkM0lLVFNycE5wbDdBdzZLbGpXOVJsUkZzU2JiNzhkZjVfaFI2X3V4VmtsRkdTeV9BSDlFRHFlTHVwLUc1UE9sUGlrWExhcXV0VDFYbGZ4UVZIYmRQYlVGdndmSkVBVnMtSTcxREZjLUEwWlJpdV91andBeC1NQmZ1cHdHZ3MxdWdiQzBkNGcwTDE0SXJ6dXFaR3JhemVVU0JrUDRFNnBoV2JRWjhIdXAwYnEtakg1Nm5TUDdxODFhNGhzZUZGeDhyaEUxY2pXRVpibHNiZFlwN2N4R0JqTlhFNlJLSm4wb3lYVV9IR3hCb0FTMk9kNG9uYUNCZEV1Tk5wX1RsS2E4UVZDVDVHU01VQWZFYzdSMzNVTC1kMGtORVlERE13d0Mxd3lhRjhWZmJBcF9TSTI3TWhGSVk?oc=5)
+
+2026-11-09
+
+來源: [草根影響力新視野](https://news.google.com/rss/articles/CBMixwJBVV95cUxQS2NFLWdwUjI4Q3dkM0lLVFNycE5wbDdBdzZLbGpXOVJsUkZzU2JiNzhkZjVfaFI2X3V4VmtsRkdTeV9BSDlFRHFlTHVwLUc1UE9sUGlrWExhcXV0VDFYbGZ4UVZIYmRQYlVGdndmSkVBVnMtSTcxREZjLUEwWlJpdV91andBeC1NQmZ1cHdHZ3MxdWdiQzBkNGcwTDE0SXJ6dXFaR3JhemVVU0JrUDRFNnBoV2JRWjhIdXAwYnEtakg1Nm5TUDdxODFhNGhzZUZGeDhyaEUxY2pXRVpibHNiZFlwN2N4R0JqTlhFNlJLSm4wb3lYVV9IR3hCb0FTMk9kNG9uYUNCZEV1Tk5wX1RsS2E4UVZDVDVHU01VQWZFYzdSMzNVTC1kMGtORVlERE13d0Mxd3lhRjhWZmJBcF9TSTI3TWhGSVk?oc=5)
 
 ---
 
