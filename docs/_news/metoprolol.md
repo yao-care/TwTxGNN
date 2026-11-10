@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Metoprolol 的相關健康新聞報導。原適應症：高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整...。預測適應症 10 個。"
 permalink: /news/metoprolol/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Metoprolol 相關新聞
@@ -53,14 +53,6 @@ last_modified_at: 2026-11-09
 
 ---
 
-### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5)
-
-2026-11-09 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
-
-來源: [幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5)
-
----
-
 ### [早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5)
 
 2026-11-08 <span class="news-indication-tag">腫瘤</span>
@@ -82,6 +74,14 @@ last_modified_at: 2026-11-09
 2026-11-08 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [聯合報數位版](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
+
+---
+
+### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
+
+2026-11-05 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
 
 ---
 

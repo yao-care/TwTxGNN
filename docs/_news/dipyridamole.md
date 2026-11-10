@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dipyridamole 的相關健康新聞報導。原適應症：對於慢性狹心症之治療可能有效。預測適應症 8 個。"
 permalink: /news/dipyridamole/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Dipyridamole 相關新聞
@@ -43,11 +43,11 @@ last_modified_at: 2026-11-09
 
 ## 相關新聞（1 則）
 
-### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5)
+### [​協和澳門推動居民重視中風防治](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11X09qQ0dlZml0RGREQ1dkR2szblNNazVnX1dUWGV3YVpvSks0YUNzaGhVRUgwOW00SzgwNmJGYWxTZFRiY3JDa09OeEo5bVhWVjNwdVVR?oc=5)
 
-2026-11-09 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+2026-11-03 <span class="news-indication-tag">中風</span>
 
-來源: [幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5)
+來源: [大衆報](https://news.google.com/rss/articles/CBMiVkFVX3lxTE11X09qQ0dlZml0RGREQ1dkR2szblNNazVnX1dUWGV3YVpvSks0YUNzaGhVRUgwOW00SzgwNmJGYWxTZFRiY3JDa09OeEo5bVhWVjNwdVVR?oc=5)
 
 ---
 

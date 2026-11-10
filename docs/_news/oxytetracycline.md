@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Oxytetracycline 的相關健康新聞報導。原適應症：支氣管炎、Q 熱、細菌性痢疾、扁桃腺炎、軟性下疳、耳炎、胃腸炎。預測適應症 10 個。"
 permalink: /news/oxytetracycline/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Oxytetracycline 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="Oxytetracycline 有什麼相關新聞？">
-<strong>Oxytetracycline</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Oxytetracycline</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ last_modified_at: 2026-11-09
 <p><a href="{{ '/drugs/oxytetracycline/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [60歲婦大肚腩以為發福竟是患卵巢癌！日用筋膜槍打肚想消脂險打爆腫瘤擴散癌細胞 - U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
 
 2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
-
----
-
-### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5)
-
-2026-11-09 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
-
-來源: [幸福熟齡](https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5)
 
 ---
 

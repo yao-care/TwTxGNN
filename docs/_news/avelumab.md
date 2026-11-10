@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Avelumab 的相關健康新聞報導。原適應症：轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎...。預測適應症 10 個。"
 permalink: /news/avelumab/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # Avelumab 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-09
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [60歲婦大肚腩以為發福竟是患卵巢癌！日用筋膜槍打肚想消脂險打爆腫瘤擴散癌細胞 - U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
 
@@ -74,6 +74,14 @@ last_modified_at: 2026-11-09
 2026-11-08 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [聯合報數位版](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
+
+---
+
+### [陳美雅要求高市府評估帶狀疱疹疫苗補助的可行性- 生活新聞 - PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxNenkxN2prQUtyZmlJN1lwLXpfM05oWkgxMzRNMUo4YnZ2bUYzdGFUSFFnN2NaejVibmtGbEpzMTkwd00wR1R3LV9LQzBocFA0Um9SX1RYbVhlQXhJSFQ4Q0REZ3Vka00xSl9ETlVfM3pTODVjb1VfRlhLcVdpbkR2OUozMEl3WE5PMmV2WQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">皮蛇</span>
+
+來源: [PChome Online 新聞](https://news.google.com/rss/articles/CBMijAFBVV95cUxNenkxN2prQUtyZmlJN1lwLXpfM05oWkgxMzRNMUo4YnZ2bUYzdGFUSFFnN2NaejVibmtGbEpzMTkwd00wR1R3LV9LQzBocFA0Um9SX1RYbVhlQXhJSFQ4Q0REZ3Vka00xSl9ETlVfM3pTODVjb1VfRlhLcVdpbkR2OUozMEl3WE5PMmV2WQ?oc=5)
 
 ---
 

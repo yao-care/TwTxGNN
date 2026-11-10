@@ -1,20 +1,33 @@
 {
-  "last_updated": "2026-11-09T17:59:59.538624+00:00",
-  "total_count": 40,
-  "matched_count": 16,
+  "last_updated": "2026-11-10T01:19:28.422615+00:00",
+  "total_count": 43,
+  "matched_count": 19,
   "news": [
     {
-      "id": "6c6c93cc0ae5",
-      "title": "人擠人活動後咳不停？流感高峰期必備「自我防護清單」",
-      "published": "2026-11-09T15:10:00+00:00",
-      "summary": "人擠人活動後咳不停？流感高峰期必備「自我防護清單」&nbsp;&nbsp;東森新聞",
+      "id": "5c5e623f5d33",
+      "title": "感冒｜感冒時望邊個都唔順眼？或因感冒藥1成份所致！醫生揭4大原因感冒時更動怒",
+      "published": "2026-11-09T23:00:00+00:00",
+      "summary": "感冒｜感冒時望邊個都唔順眼？或因感冒藥1成份所致！醫生揭4大原因感冒時更動怒&nbsp;&nbsp;AM730",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XbGI5OFc3SDB3RkdaVFpaX2FjUlBYZUNmTkRNUWdVQ2NyZ2pfamRvY0JIZEFCQUJQb01qQkx2ckxEQk5rMTAyT2dyX3ppcHlEMWpKRw?oc=5"
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPMy1PQTVZTzU0WTJfaHU5VUJXVHJ2SzV3M04tXzNCRjAwazZKWmNrOW5YbEtrNU43dUNjR0poSWd3VDFSZjcwUVdQRG9NWGZSc05qcWJWX3JRYnFqdmhtR080UGJwckJQM3F1Nk5ubEdsaTdqODFoVUJkdFdLR3NEYXVsSmdjeEk3S2lUYXVaNS1RSnNaZ2ZjZk9SUlREQk53VWRBMWV1VVlDbTNVMkRrNWM2STBJYy1pWXBrUnFTSjFXbGRjN3N3UUt5VHhXNHZOa1pYYng3aTd6akFQSVVQYS1pS1NRT2wyWEV5SU5YWk5lcWVDOUNTUUZvNnc2aDBoNUo5T2RQSnZXekdNT2Y2VnI2akR0WnFiQWdPX0J6NmRzMHkyN21FZFRwX3RuVWhick5NU3VTMkx1cXpLNHFPdjRRZDdaa2I5cWJERGc3SWJrSTE5elZMZ1N3dVVTU0tFZzhRTFlQM3FDZDVzM3dsQXY5WmxyLV9kUGJmN3p2QkVLYnhEYXNFR1dnekhab2Rtb1BYOUpPMDJLaExVZkZhZ2hTZHUzcWJGUGdHX3lqSGc3dHVDa20xUFZjRFUwRmhsai0yU0lrZDh0WFBSQk1qSS1lQTdrckpkSWZjb1ZWNFNDelM3RTNqeWhLc2FITnN0bVptdA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "4e66939d3bd1",
@@ -429,145 +442,17 @@
       ]
     },
     {
-      "id": "130ea86e337c",
+      "id": "34400bdabb5b",
       "title": "煎鮭魚錯了！專家曝「正確煮法」：錯了反而致癌",
       "published": "2026-11-09T02:58:24+00:00",
-      "summary": "煎鮭魚錯了！專家曝「正確煮法」：錯了反而致癌&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "煎鮭魚錯了！專家曝「正確煮法」：錯了反而致癌&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "三立新聞網SETN.com",
+          "name": "三立新聞",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9LWlJaX3ozelJtZ2VWVWNzcnJoazZWTk9kRTVZNHBDSU5ldWhLZl9PMkVWbERQSFoxVWRma2YzeDdXNWwtMFJHWTh0M3o?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "e7fb1df921db",
-      "title": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要",
-      "published": "2026-11-09T01:37:00+00:00",
-      "summary": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要&nbsp;&nbsp;幸福熟齡",
-      "sources": [
-        {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BcElodnctaWl4TE12aUF1RnNWa3pYOGZ3Y1otT0UtN3I0ZWhuRDFmQzJ5UzFySWZFWlgtQ01CR1hSY1FXRTJNWXRHcTBrRlF6TWZDbXRPcnN6SmpNd2RFYUxfTWREVThYTzdaS3NwVFFnWU5IMWlKSlBZWQ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone",
-              "url": "/drugs/milrinone/"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol",
-              "url": "/drugs/inositol/"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid",
-              "url": "/drugs/pipemidic-acid/"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide",
-              "url": "/drugs/dorzolamide/"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil",
-              "url": "/drugs/treprostinil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "6eff8015e7e3",
@@ -1533,6 +1418,19 @@
       "matched_keywords": []
     },
     {
+      "id": "cccc84b2c166",
+      "title": "Healthy Life｜茶餐廳外賣9成屬免疫力殺手營養師拆解5大關鍵營養素教打工仔一日三餐外食健康餐單",
+      "published": "2026-11-07T16:07:00+00:00",
+      "summary": "Healthy Life｜茶餐廳外賣9成屬免疫力殺手營養師拆解5大關鍵營養素教打工仔一日三餐外食健康餐單&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMixwRBVV95cUxQSURZQUtQSE9aenk2QmFSbVY5V0ZuZlpnM1B4emEwOVJyTHdHenhtckxyRmRqblFEUnZzOG5Jckhqby1LUzNzRFc5NmNFak5YRm1CLWJDSXh2aUhESVlib0YxLWdVZnJWTWhiQUlIQzREWm5zaEdsaXo2T2U4MUt6Zmo4UkxLM3BsbGlYanJ2OWNXT3lJbGM1VTUxTGZLSGpaU3VqQ24zeWZEaEhNZ00xQUE0M0NCRk9YNDBMR1lCci1pYThUM3BRTWs0alBvWXkwejVPbDE4UEZHX0FhVGlqd2ZGU0MzR2NISHhKd2RGc29OaDZPU01QbG44aTg2WWFSMEpkaU1leThjWmNwekpBenNIalA2SHpuR2ZZalRGczM5N0JOZjlraWYzMWptanE0V0RnUWpMQXQ4SG5seDRvcGFRLVh4NXFTQmJMOUpQTmw4aWhvZ3BOa2FsY3RxTWhESF96N3lLVkwzM1lNTElEeUpQYjd6a01rNVMzakFJc3J5TEVHUTBWeWY0a0dXTzJveFJGR0J3WDI2d21MbUtaekIxTDZhSWs4X21LQ19nOUZjTXRVVkR4UTJpcERKcldRTHowajdvbjlRS0JZTHotNWlHOXZ6SlF1THEzdVBpb0F3NXJxTFNYRUtKZ0t0bVpuOFVyaFdGcWJEV2FPQjQ1Z2ZMNUdxcGRXbVh0WFpfOXZmUHlmbXUtUDlBYklTc0VVX3diVW8zT1ZHRy1ZQlZfZnVsdGgwMHlMUU9MVklZRXBVMDkyNXJr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0057d781fcd2",
       "title": "DNA奈米開關怎麼找新藥？哈佛FIND平台從4億分子庫篩出新藥候選（試管與細胞實驗）",
       "published": "2026-11-07T06:44:17+00:00",
@@ -1654,7 +1552,7 @@
       "id": "a026d696fa30",
       "title": "0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌",
       "published": "2026-11-06T03:54:33+00:00",
-      "summary": "0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌&nbsp;&nbsp;Yahoo新聞她拒切0.8cm息肉！吃素數十年仍得大腸癌 醫揭「3地雷食物」&nbsp;&nbsp;三立新聞網SETN.com吃素也得大腸癌？醫揭3大地雷&nbsp;&nbsp;東森新聞拒切息肉 素食女3年後罹癌慘切大腸 醫曝愛吃3物害的 - 健康&nbsp;&nbsp;中時新聞網健康網》吃純素恐增大腸癌風險 牛津研究揭關鍵 醫曝3營養缺口&nbsp;&nbsp;自由健康網",
+      "summary": "0.8公分息肉她堅持不切 2年後就醫已是晚期大腸癌&nbsp;&nbsp;Yahoo新聞她拒切0.8cm息肉！吃素數十年仍得大腸癌 醫揭「3地雷食物」&nbsp;&nbsp;三立新聞網SETN.com吃素也得大腸癌？醫揭3大地雷&nbsp;&nbsp;東森新聞拒切息肉 素食女3年後罹癌慘切大腸 醫曝愛吃3物害的 - 健康&nbsp;&nbsp;中時新聞網吃素防癌超錯？牛津研究驚揭純素者患大腸癌風險不降反升 缺兩物最傷腸黏膜&nbsp;&nbsp;加拿大星島日報",
       "sources": [
         {
           "name": "Yahoo新聞",
@@ -1741,6 +1639,62 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "d0a8b98843e2",
+      "title": "陳梓鍵專訪｜「蝸牛仔」陳梓鍵活過18歲大限盼做大體老師造福病童媽媽由痛哭抗拒到理解：最難係最後決定嗰一刻",
+      "published": "2026-11-05T06:51:47+00:00",
+      "summary": "陳梓鍵專訪｜「蝸牛仔」陳梓鍵活過18歲大限盼做大體老師造福病童媽媽由痛哭抗拒到理解：最難係最後決定嗰一刻&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxQTVRrekpxYWUxbVcyYm4wR3lEZ1h2emdNbmE5QklkeW80bzd5Z1NLNWd1VUg1Ynl6aHctUElteUc3M29sU3plUnFpYXRfNWU4eGItcGFSSi1tdjNISTN1Z05SWXBfRmpqSUdWMVN0NEtlUE4zMjZteGJCbFB6eUVDUjA1S1lveUExbEZlaDc5cjhkWmZTNXJqbVBnUVF0X2ppSFI3TXNzbktOV2FIREVSbHcxUW8tbDBDX0tpTG8wcmFuNldMa0dCYjZZem1nSEZ6eHBRSVJoMDV6YnZ0RmV4TjhRMWFnV181bVpYbDVzT2VGVVFmck16a1RXenVHbDAwLWNLbGNUM1BCMmZ1YS1lR1JVWEtaZ2xpRkxiV3ZGeGNhVnNsM0dOT0F1ZDhYZ3FFNmw0UWoyc2Z4YXc1SEI1bXlBakhveG9sa1dKZmhkOEZpU0ViT0xSNWs5Q3FNQnFNcDluSEVfbFhRR3N2dUFjVVV3U1NhU2QzRU1HeFFUa3N2ZHVPUFpHempIdjhRT0pLb0dZRU12TVRjU2VfMjM3cnB6cENXeUhhQU5naWRDX0YyM2c1enRzT1B1Q3hKOVVjN2tkeDhONXhFWkFGZTZGakFoZ3lXZ1RYd3dYQ28teE80ZUxRS191eFlTTEowRnFzeE1tTGpXcVdBajFJZVlpZEdLSDZvSVY3WmpmQ2NvMUgzcmkxdFByVTEwVkNBdWhhUE5FX3RCLWhXdkhOWmx6WG5HVFdSWVNmN2g5R3FnMnAteHhodFk2aGgzVnBuYjN1WWR3Y1gxWnRaclBNNVVDb0ZrMUlRWkNRQk1kSHg2aVdwOUM0NWpVa3NfQllxTVY2VW10Uk5HVGt3ekFrTFVGRE1VSUxtNzViRDEtdnRFR2VGRWlWUFc3S0doSmtsdmNKZF9FOWhzako?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "dd5b6efb7c72",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查",
+      "published": "2026-11-05T03:21:25+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查&nbsp;&nbsp;元氣網",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol",
+              "url": "/drugs/iodixanol/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "72bdfc95eb14",
@@ -1873,6 +1827,32 @@
       ]
     },
     {
+      "id": "1412d7bd6211",
+      "title": "陳美雅要求高市府評估帶狀疱疹疫苗補助的可行性- 生活新聞 - PChome Online 新聞",
+      "published": "2026-11-03T12:41:04+00:00",
+      "summary": "陳美雅要求高市府評估帶狀疱疹疫苗補助的可行性- 生活新聞&nbsp;&nbsp;PChome Online 新聞擴大公費帶狀疱疹疫苗 屏東50歲符合條件免費接種&nbsp;&nbsp;自由健康網糖友只控血糖還不夠！小心皮蛇侵犯眼部，恐威脅視力ft歐弘毅醫師中華民國糖尿病衛教學會理事長- 健康新聞&nbsp;&nbsp;PChome Online 新聞屏東即起擴大公費帶狀疱疹疫苗補助對象 年齡下修至50歲 | 中華日報&nbsp;&nbsp;LINE TODAY屏東皮蛇疫苗補助下修至50歲符合3條件可免費接種- 生活&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenkxN2prQUtyZmlJN1lwLXpfM05oWkgxMzRNMUo4YnZ2bUYzdGFUSFFnN2NaejVibmtGbEpzMTkwd00wR1R3LV9LQzBocFA0Um9SX1RYbVhlQXhJSFQ4Q0REZ3Vka00xSl9ETlVfM3pTODVjb1VfRlhLcVdpbkR2OUozMEl3WE5PMmV2WQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "188c2556eea4",
       "title": "健康網》女性肥胖 傷心血管甚鉅！醫：產後盡快恢復體重",
       "published": "2026-11-03T09:26:00+00:00",
@@ -1899,17 +1879,35 @@
       ]
     },
     {
-      "id": "62ee4502eb80",
-      "title": "​協和澳門藉“世界卒中日”辦健康諮詢活動 推動居民重視卒中防治",
-      "published": "2026-11-03T02:48:33+00:00",
-      "summary": "​協和澳門藉“世界卒中日”辦健康諮詢活動 推動居民重視卒中防治&nbsp;&nbsp;濠江日報",
+      "id": "8083a7a1048a",
+      "title": "​協和澳門推動居民重視中風防治",
+      "published": "2026-11-03T02:46:24+00:00",
+      "summary": "​協和澳門推動居民重視中風防治&nbsp;&nbsp;大衆報",
       "sources": [
         {
-          "name": "濠江日報",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTXhSTGQtUlh3RWwxRGRLSUl2OUNKQVM4TFBpd3RtTzlzSlh2cEt2RUZ5RnBkRkM3RHBOaFlNQVlnTjdKR3R2YmFTQ2hqSVd6VmVBSXg0UGxYYkFkOEhQdA?oc=5"
+          "name": "大衆報",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11X09qQ0dlZml0RGREQ1dkR2szblNNazVnX1dUWGV3YVpvSks0YUNzaGhVRUgwOW00SzgwNmJGYWxTZFRiY3JDa09OeEo5bVhWVjNwdVVR?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone",
+              "url": "/drugs/dronedarone/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1789a2f8ee12",

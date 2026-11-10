@@ -3,18 +3,6 @@
     {
       "url": "/news/acebutolol/",
       "title": "Acebutolol 相關新聞",
-      "count": 4
-    },
-    {
-      "url": "/news/generic-cancer/",
-      "title": "腫瘤 (generic_cancer) 相關新聞",
-      "count": 4
-    }
-  ],
-  "/drugs/acetazolamide/": [
-    {
-      "url": "/news/acetazolamide/",
-      "title": "Acetazolamide 相關新聞",
       "count": 5
     },
     {
@@ -23,9 +11,21 @@
       "count": 4
     },
     {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
+      "url": "/news/高血壓/",
+      "title": "高血壓 相關新聞",
       "count": 1
+    }
+  ],
+  "/drugs/acetazolamide/": [
+    {
+      "url": "/news/acetazolamide/",
+      "title": "Acetazolamide 相關新聞",
+      "count": 4
+    },
+    {
+      "url": "/news/generic-cancer/",
+      "title": "腫瘤 (generic_cancer) 相關新聞",
+      "count": 4
     }
   ],
   "/drugs/acitretin/": [
@@ -56,17 +56,12 @@
     {
       "url": "/news/anastrozole/",
       "title": "Anastrozole 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/atezolizumab/": [
@@ -85,12 +80,17 @@
     {
       "url": "/news/avelumab/",
       "title": "Avelumab 相關新聞",
-      "count": 4
+      "count": 5
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
+    },
+    {
+      "url": "/news/herpes-zoster/",
+      "title": "皮蛇 (herpes zoster) 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/bempedoic-acid/": [
@@ -157,7 +157,7 @@
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 7
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
@@ -168,11 +168,6 @@
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/cefmetazole/": [
@@ -242,8 +237,8 @@
       "count": 1
     },
     {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
+      "url": "/news/stroke/",
+      "title": "中風 (stroke) 相關新聞",
       "count": 1
     }
   ],
@@ -263,28 +258,23 @@
     {
       "url": "/news/docetaxel/",
       "title": "Docetaxel 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
     }
   ],
-  "/drugs/dorzolamide/": [
+  "/drugs/dronedarone/": [
     {
-      "url": "/news/dorzolamide/",
-      "title": "Dorzolamide 相關新聞",
+      "url": "/news/dronedarone/",
+      "title": "Dronedarone 相關新聞",
       "count": 1
     },
     {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
+      "url": "/news/stroke/",
+      "title": "中風 (stroke) 相關新聞",
       "count": 1
     }
   ],
@@ -304,17 +294,12 @@
     {
       "url": "/news/felodipine/",
       "title": "Felodipine 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/gefitinib/": [
@@ -343,7 +328,7 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 7
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
@@ -354,11 +339,6 @@
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/hydroxyprogesterone-caproate/": [
@@ -377,7 +357,7 @@
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
-      "count": 7
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
@@ -393,23 +373,6 @@
       "url": "/news/卵巢癌/",
       "title": "卵巢癌 相關新聞",
       "count": 1
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
-    }
-  ],
-  "/drugs/inositol/": [
-    {
-      "url": "/news/inositol/",
-      "title": "Inositol 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/interferon-beta-1b/": [
@@ -422,6 +385,18 @@
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
+    }
+  ],
+  "/drugs/iodixanol/": [
+    {
+      "url": "/news/iodixanol/",
+      "title": "Iodixanol 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/腦血管/",
+      "title": "腦血管 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/ipilimumab/": [
@@ -452,17 +427,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide dinitrate 相關新聞",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
       "count": 3
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/levamisole/": [
@@ -481,17 +451,12 @@
     {
       "url": "/news/mannitol/",
       "title": "Mannitol 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/metoprolol/": [
@@ -506,20 +471,8 @@
       "count": 4
     },
     {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
-    }
-  ],
-  "/drugs/milrinone/": [
-    {
-      "url": "/news/milrinone/",
-      "title": "Milrinone 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
+      "url": "/news/高血壓/",
+      "title": "高血壓 相關新聞",
       "count": 1
     }
   ],
@@ -569,40 +522,23 @@
       "count": 4
     }
   ],
-  "/drugs/ouabain/": [
-    {
-      "url": "/news/ouabain/",
-      "title": "Ouabain 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
-    }
-  ],
   "/drugs/oxytetracycline/": [
     {
       "url": "/news/oxytetracycline/",
       "title": "Oxytetracycline 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/paclitaxel/": [
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 6
+      "count": 5
     },
     {
       "url": "/news/generic-cancer/",
@@ -618,11 +554,6 @@
       "url": "/news/卵巢癌/",
       "title": "卵巢癌 相關新聞",
       "count": 1
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/pemetrexed/": [
@@ -635,18 +566,6 @@
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
-    }
-  ],
-  "/drugs/pipemidic-acid/": [
-    {
-      "url": "/news/pipemidic_acid/",
-      "title": "Pipemidic acid 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/pralatrexate/": [
@@ -694,12 +613,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/common-cold/",
       "title": "感冒 (common cold) 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/temozolomide/": [
@@ -730,17 +649,12 @@
     {
       "url": "/news/trabectedin/",
       "title": "Trabectedin 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/trastuzumab-deruxtecan/": [
@@ -752,18 +666,6 @@
     {
       "url": "/news/胃癌/",
       "title": "胃癌 相關新聞",
-      "count": 1
-    }
-  ],
-  "/drugs/treprostinil/": [
-    {
-      "url": "/news/treprostinil/",
-      "title": "Treprostinil 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/heart-disease/",
-      "title": "心臟病 (heart_disease) 相關新聞",
       "count": 1
     }
   ],
