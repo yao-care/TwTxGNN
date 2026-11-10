@@ -3,9 +3,9 @@ layout: default
 title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。4 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。3 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # 腫瘤 (generic_cancer) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>4 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>3 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -76,7 +76,7 @@ last_modified_at: 2026-11-09
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
 ### [60歲婦大肚腩以為發福竟是患卵巢癌！日用筋膜槍打肚想消脂險打爆腫瘤擴散癌細胞 - U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
 
@@ -99,14 +99,6 @@ last_modified_at: 2026-11-09
 2026-11-08
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
-
----
-
-### [運動腫瘤學受重視！可省醫療支出為何拿不到保險給付| 紐時風格](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
-
-2026-11-08
-
-來源: [聯合報數位版](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
 
 ---
 
