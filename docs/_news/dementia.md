@@ -56,19 +56,19 @@ last_modified_at: 2026-11-10
 
 ---
 
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
-
-2026-11-08
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
-
----
-
 ### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5)
 
 2026-11-08
 
 來源: [元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5)
+
+---
+
+### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+
+2026-11-08
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
 
 ---
 

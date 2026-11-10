@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [每天快走30分鐘就夠了？哈佛11萬人研究打臉：女性少做「這項運動」心血管保護少一大半 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iSURFRGxJcWtvcERFU1lEd2pUcVBGbmhLd0dNeXpIZ1ZjNzEwcmxURU00QWd2RjRrMFJzMDB1RThlaVc5NHpwSGFyaUFLYTdWMFRR?oc=5)
 
@@ -58,14 +58,6 @@ last_modified_at: 2026-11-10
 2026-11-04 <span class="news-indication-tag">心血管</span>
 
 來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaDVON2REb2NfVXg4NDlKeXNQQUNBd0VyREgzVzRzOGRNS0ZyODlDUHRJT29vS0lSeEQ1ZjZBTnpwcl9Oc3FGcHhHUEw2dmFySE5UcVlmb2piY3JCOFpjX05qZGkzTEU4cDhmZnNB?oc=5)
-
----
-
-### [健康網》女性肥胖 傷心血管甚鉅！醫：產後盡快恢復體重](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ibmwxdFI4NGpiYmI0MjREQUIwUjdmamtVODdLVlRjU2xybmxKNWJ2MnVXZXd0SHo5aDAxRmdKZWw3U2dnWUNCRlhob1A5NXdDeUFiOVJvaUx2ejNqaGFFeE1jZ3Q?oc=5)
-
-2026-11-03 <span class="news-indication-tag">心血管</span>
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ibmwxdFI4NGpiYmI0MjREQUIwUjdmamtVODdLVlRjU2xybmxKNWJ2MnVXZXd0SHo5aDAxRmdKZWw3U2dnWUNCRlhob1A5NXdDeUFiOVJvaUx2ejNqaGFFeE1jZ3Q?oc=5)
 
 ---
 
