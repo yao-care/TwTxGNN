@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-10T16:49:51.424867+00:00",
-  "total_count": 43,
+  "last_updated": "2026-11-10T22:03:46.714944+00:00",
+  "total_count": 44,
   "matched_count": 18,
   "news": [
+    {
+      "id": "d91939cd613a",
+      "title": "別再餵浣熊了…紐約狂犬病病例飆升 餵食者好心竟成幫兇",
+      "published": "2026-11-10T18:35:57+00:00",
+      "summary": "別再餵浣熊了…紐約狂犬病病例飆升 餵食者好心竟成幫兇&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50bi1ETVpPeGlJbUZpRUxWZFRMVGdSVlMyOVY5MlRROHVpUFlCTmF5UWFjNUNQclN3OV9ZSVBUbkNpdm1NdjgxVTNWem5HbzVicUJWX0tlRlhWMHpwcXFGRUZ30gFnQVVfeXFMTUNobzQ2aHNTdFZYMDNlN2ZJTGp4c3daVlI1Ti1DclBrZXhTTFZaVnZEMmVaN3ozMjViVkpTRkNqckVvRUtCekF3Y2NPOEZsUE00YnpiREVpS19sSG9lRTU3Uy1OX25xbw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "5114041e23dd",
       "title": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 健康",
@@ -1349,10 +1362,10 @@
       "matched_keywords": []
     },
     {
-      "id": "6370068f5a57",
-      "title": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】",
+      "id": "a305f17cef15",
+      "title": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】",
       "published": "2026-11-06T08:34:54+00:00",
-      "summary": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -1428,14 +1441,14 @@
       ]
     },
     {
-      "id": "541a1491010c",
+      "id": "c30132af061a",
       "title": "讓骨折快速康復的全新方法",
       "published": "2026-11-06T01:01:00+00:00",
       "summary": "讓骨折快速康復的全新方法&nbsp;&nbsp;大紀元",
       "sources": [
         {
           "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWGV3aHNfdHdsc0N0dEZpTDFDbFNXUktkSExkc0h5N3JRa2Ntdm9hVkRJamY0LUczMG9kYjlmNXVRd0s3dlFkajE1VjFQR1VMTDl4OHFtdl9PRkZqX3lIUjJ3?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWGV3aHNfdHdsc0N0dEZpTDFDbFNXUktkSExkc0h5N3JRa2Ntdm9hVkRJamY0LUczMG9kYjlmNXVRd0s3dlFkajE1VjFQR1VMTDl4OHFtdl9PRkZqX3lIUjJ30gFnQVVfeXFMTzBoVHJZSE9PanJLNUFtdVlRc1pVY1M3RTlic19qQXR1ekNOTlRlb1JOUGs0UUNFTzhZaTFhQ0VHdjBCRkJRcm91ZkxYRHpnUkpJSXlZM0VfM2JTcUpVSWEtS19zUmQ2SQ?oc=5"
         }
       ],
       "matched_keywords": []
