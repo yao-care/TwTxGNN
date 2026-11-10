@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-10T05:39:58.810398",
+  "last_check": "2026-11-10T19:14:03.507282",
   "seen_trials": {
     "Acetazolamide": [
       "NCT05470283",
@@ -1749,6 +1749,9 @@
     ],
     "Xylitol": [
       "NCT04096599"
+    ],
+    "Fosfomycin": [
+      "NCT07928063"
     ]
   }
 }
