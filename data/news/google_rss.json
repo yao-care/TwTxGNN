@@ -1,7 +1,7 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-10T22:03:44.938145+00:00",
-  "count": 44,
+  "fetched_at": "2026-11-11T02:24:36.882382+00:00",
+  "count": 43,
   "news": [
     {
       "id": "c0caa4555bc4",
@@ -16,14 +16,14 @@
       ]
     },
     {
-      "id": "dd5b6efb7c72",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查 - 元氣網",
-      "published": "2026-11-05T03:21:25+00:00",
-      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查&nbsp;&nbsp;元氣網",
+      "id": "535c7bde0786",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查 - 草根影響力新視野",
+      "published": "2026-11-10T04:20:18+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查&nbsp;&nbsp;草根影響力新視野",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5"
         }
       ]
     },
@@ -40,18 +40,6 @@
       ]
     },
     {
-      "id": "c1e64bf6477a",
-      "title": "微創手術不等於零沾黏！大腸直腸醫揭術中預防關鍵守住術後生活品質 - 優活健康網",
-      "published": "2026-11-10T02:00:00+00:00",
-      "summary": "微創手術不等於零沾黏！大腸直腸醫揭術中預防關鍵守住術後生活品質&nbsp;&nbsp;優活健康網",
-      "sources": [
-        {
-          "name": "優活健康網",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XNS1CcVp1aEwyeENvZUM3VUhwZ2VaM1FTdkpMajcxWkFDeGxDZGVTMExIbjhGTWVHZjBQeXNIbm94dmlXcGVBbnhCaWpEeEdwajRn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "879388f61b4b",
       "title": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索 - 元氣網",
       "published": "2026-11-08T08:41:42+00:00",
@@ -60,6 +48,18 @@
         {
           "name": "元氣網",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1e64bf6477a",
+      "title": "微創手術不等於零沾黏！大腸直腸醫揭術中預防關鍵守住術後生活品質 - 優活健康網",
+      "published": "2026-11-10T02:00:00+00:00",
+      "summary": "微創手術不等於零沾黏！大腸直腸醫揭術中預防關鍵守住術後生活品質&nbsp;&nbsp;優活健康網",
+      "sources": [
+        {
+          "name": "優活健康網",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XNS1CcVp1aEwyeENvZUM3VUhwZ2VaM1FTdkpMajcxWkFDeGxDZGVTMExIbjhGTWVHZjBQeXNIbm94dmlXcGVBbnhCaWpEeEdwajRn?oc=5"
         }
       ]
     },
@@ -124,6 +124,18 @@
       ]
     },
     {
+      "id": "dc8eed625060",
+      "title": "有些長者已有阿茲海默症病變，為何記憶力仍然良好？ - TechNews 科技新報",
+      "published": "2026-11-10T23:42:41+00:00",
+      "summary": "有些長者已有阿茲海默症病變，為何記憶力仍然良好？&nbsp;&nbsp;TechNews 科技新報人老了就會健忘？權威期刊證實大腦神經細胞能再生 做4件事防退化&nbsp;&nbsp;三立新聞網SETN.com大腦不是慢慢變老！權威期刊揭40歲起是關鍵67歲變化最劇烈- 生活&nbsp;&nbsp;中時新聞網80歲失智症權威曝護腦祕訣：運動最重要&nbsp;&nbsp;世界新聞網一轉頭就忘記要做什麼？研究：「旅行」有助刺激大腦、保持活力&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7c335084f96a",
       "title": "AI 演算法解碼兩萬基因發現天然胜肽 BRP，進食量降 50% 且純減脂不甩肌 | 科技新報 - LINE TODAY",
       "published": "2026-11-05T08:00:00+00:00",
@@ -174,7 +186,7 @@
     {
       "id": "55f132f4a2e1",
       "title": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-11-09T09:29:24+00:00",
+      "published": "2026-11-09T09:29:16+00:00",
       "summary": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY中國“癌譜”20年巨變，防癌思路也有新變化&nbsp;&nbsp;鉅亨號胸悶、喘、咳嗽別輕忽！罕見甲狀腺異位藏胸腔，巨大鈣化結節恐壓迫器官- 健康新聞&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
@@ -268,10 +280,10 @@
       ]
     },
     {
-      "id": "5114041e23dd",
-      "title": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 健康 - 中時新聞網",
+      "id": "64b5826a4db6",
+      "title": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 國際 - 中時新聞網",
       "published": "2026-11-10T15:59:01+00:00",
-      "summary": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -300,30 +312,6 @@
         {
           "name": "大紀元時報香港",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTnI5OWo5clkwY3NkVGpNcmFLWDZQTGp1cjdIQWFvakk3elZZdDhUd2xKWDVoZ1lyU0NHT3lOYmdQQlpjTWlFUDA2eFluSldTVlRYM3RoZDFBQ3ZWNUs0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c5e623f5d33",
-      "title": "感冒｜感冒時望邊個都唔順眼？或因感冒藥1成份所致！醫生揭4大原因感冒時更動怒 - AM730",
-      "published": "2026-11-09T23:00:00+00:00",
-      "summary": "感冒｜感冒時望邊個都唔順眼？或因感冒藥1成份所致！醫生揭4大原因感冒時更動怒&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPMy1PQTVZTzU0WTJfaHU5VUJXVHJ2SzV3M04tXzNCRjAwazZKWmNrOW5YbEtrNU43dUNjR0poSWd3VDFSZjcwUVdQRG9NWGZSc05qcWJWX3JRYnFqdmhtR080UGJwckJQM3F1Nk5ubEdsaTdqODFoVUJkdFdLR3NEYXVsSmdjeEk3S2lUYXVaNS1RSnNaZ2ZjZk9SUlREQk53VWRBMWV1VVlDbTNVMkRrNWM2STBJYy1pWXBrUnFTSjFXbGRjN3N3UUt5VHhXNHZOa1pYYng3aTd6akFQSVVQYS1pS1NRT2wyWEV5SU5YWk5lcWVDOUNTUUZvNnc2aDBoNUo5T2RQSnZXekdNT2Y2VnI2akR0WnFiQWdPX0J6NmRzMHkyN21FZFRwX3RuVWhick5NU3VTMkx1cXpLNHFPdjRRZDdaa2I5cWJERGc3SWJrSTE5elZMZ1N3dVVTU0tFZzhRTFlQM3FDZDVzM3dsQXY5WmxyLV9kUGJmN3p2QkVLYnhEYXNFR1dnekhab2Rtb1BYOUpPMDJLaExVZkZhZ2hTZHUzcWJGUGdHX3lqSGc3dHVDa20xUFZjRFUwRmhsai0yU0lrZDh0WFBSQk1qSS1lQTdrckpkSWZjb1ZWNFNDelM3RTNqeWhLc2FITnN0bVptdA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0e15c2293604",
-      "title": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康 - 巴士的報",
-      "published": "2026-11-08T22:40:35+00:00",
-      "summary": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5"
         }
       ]
     },
@@ -360,6 +348,18 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MmZvUVU1S1ZjZ1VMT2VrLXNrTEtNYWRxSU5Gb1NnR2VUZk9XdWF5WnB4U3Zvc1prR3VhNm9PUW1hdHhCSmtfX1dVVi1DOC1zS1ZITGh5aHdYanJkUXpQWHVB0gFnQVVfeXFMTzNVYWF4ZDY5NTVIcThQcktYNTd5V0dlWEUtakdpSlFqbjhlVE93VUhOb0xnbk9YSF8tQjFVckJxUWpsMkNYd01sMUJlN2t5bG5vRnNBYy1hbTVkdXlkcHltLTVFY2dyTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0e15c2293604",
+      "title": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康 - 巴士的報",
+      "published": "2026-11-08T22:40:35+00:00",
+      "summary": "早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5"
         }
       ]
     },
@@ -448,10 +448,10 @@
       ]
     },
     {
-      "id": "a305f17cef15",
-      "title": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】 - 香港經濟日報HKET",
+      "id": "6370068f5a57",
+      "title": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】 - 香港經濟日報HKET",
       "published": "2026-11-06T08:34:54+00:00",
-      "summary": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -468,18 +468,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMiuAVBVV95cUxQTVRrekpxYWUxbVcyYm4wR3lEZ1h2emdNbmE5QklkeW80bzd5Z1NLNWd1VUg1Ynl6aHctUElteUc3M29sU3plUnFpYXRfNWU4eGItcGFSSi1tdjNISTN1Z05SWXBfRmpqSUdWMVN0NEtlUE4zMjZteGJCbFB6eUVDUjA1S1lveUExbEZlaDc5cjhkWmZTNXJqbVBnUVF0X2ppSFI3TXNzbktOV2FIREVSbHcxUW8tbDBDX0tpTG8wcmFuNldMa0dCYjZZem1nSEZ6eHBRSVJoMDV6YnZ0RmV4TjhRMWFnV181bVpYbDVzT2VGVVFmck16a1RXenVHbDAwLWNLbGNUM1BCMmZ1YS1lR1JVWEtaZ2xpRkxiV3ZGeGNhVnNsM0dOT0F1ZDhYZ3FFNmw0UWoyc2Z4YXc1SEI1bXlBakhveG9sa1dKZmhkOEZpU0ViT0xSNWs5Q3FNQnFNcDluSEVfbFhRR3N2dUFjVVV3U1NhU2QzRU1HeFFUa3N2ZHVPUFpHempIdjhRT0pLb0dZRU12TVRjU2VfMjM3cnB6cENXeUhhQU5naWRDX0YyM2c1enRzT1B1Q3hKOVVjN2tkeDhONXhFWkFGZTZGakFoZ3lXZ1RYd3dYQ28teE80ZUxRS191eFlTTEowRnFzeE1tTGpXcVdBajFJZVlpZEdLSDZvSVY3WmpmQ2NvMUgzcmkxdFByVTEwVkNBdWhhUE5FX3RCLWhXdkhOWmx6WG5HVFdSWVNmN2g5R3FnMnAteHhodFk2aGgzVnBuYjN1WWR3Y1gxWnRaclBNNVVDb0ZrMUlRWkNRQk1kSHg2aVdwOUM0NWpVa3NfQllxTVY2VW10Uk5HVGt3ekFrTFVGRE1VSUxtNzViRDEtdnRFR2VGRWlWUFc3S0doSmtsdmNKZF9FOWhzako?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "446520178dd7",
-      "title": "15歲名校高中生竟患甲狀腺癌！初中起長期凌晨1點後瞓 醫生警告3大壞習慣正摧毀防線 - UHK 港生活",
-      "published": "2026-11-03T23:11:23+00:00",
-      "summary": "15歲名校高中生竟患甲狀腺癌！初中起長期凌晨1點後瞓 醫生警告3大壞習慣正摧毀防線&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPT0xjSjV3bGk2eEtwbVpCUVdEbHdQaGZSSU0zdl9QS3dQcWoxckxwcEdyWTk3bTc4aTQ4bDFsQWpPR0pFaVp3OEYxZFpKNkdRc0ctTW8ycWVoS09BMU5OWVVhQWRTMzdNZ1BpdG8tS2RlbVZNLWcxYlNsN0dvSS10SElVNkdFd0RhLU83MXdsZmFDTGY1ZVphMHgyUDh5bG5lM1dPS05DV2FDMTRPanNTSG5CYnhSc1hhcHJ2U2MyYnJGV2dycVBET1FocEZyckdSRk95WHMwS3E5dGUtMTJVU1RjaUM2Z1doQTZscE90R0NEeVlFVkhoeWhVdVgzNnlscm1memlxM3RqTDFPTno4YUs3UGFSQ3AwX0pwZUlZelNrY0VpdU9qSlh4WGZQaHZQM0U3dFYzRXNvZ3ZzSC1jbThNRFhtUXdkQmJRTVNGSF9pYzU1N2Zkc1RESThCRzJRRVBmUEd1bzI5ZkJXdVY0UXlFdzhCVmdxeTNSWWFPeFZKQy1GUF8xc2xzUFg1VW9OM2FEdldWTXY1QWxYNXZOcWJhS2ExVDlnZXVhR1JVVVpJUVFPb05qMUtFYUk5QmpwWEJCS1NtVzFLRHZrYXJnUVFQUVBTU3JwOGc?oc=5"
         }
       ]
     },

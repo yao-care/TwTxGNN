@@ -277,12 +277,12 @@
     {
       "url": "/news/gefitinib/",
       "title": "Gefitinib 相關新聞",
-      "count": 8
+      "count": 9
     },
     {
       "url": "/news/dementia/",
-      "title": "阿茲海默症 (dementia) 相關新聞",
-      "count": 5
+      "title": "失智症 (dementia) 相關新聞",
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
@@ -292,6 +292,11 @@
     {
       "url": "/news/失智/",
       "title": "失智 相關新聞",
+      "count": 2
+    },
+    {
+      "url": "/news/阿茲海默症/",
+      "title": "阿茲海默症 相關新聞",
       "count": 1
     }
   ],
@@ -574,12 +579,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 4
+      "count": 3
     },
     {
       "url": "/news/common-cold/",
       "title": "感冒 (common cold) 相關新聞",
-      "count": 4
+      "count": 3
     }
   ],
   "/drugs/temozolomide/": [

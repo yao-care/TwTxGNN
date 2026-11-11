@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 10 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Salicylamide 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,21 +43,13 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVnRZOXVqa0pnbzRHMG40N1VNYmktXzc1S2hmdXpncTNiZF9kYW9yQXRJak5GclI5OUtyLVVSNXJSTDRLLVRCZzAxampRMTIzelJTWGdLWWl5MDVhSlVqeDRKX1lJNElvUjV1Tzln?oc=5)
+### [不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVnRZOXVqa0pnbzRHMG40N1VNYmktXzc1S2hmdXpncTNiZF9kYW9yQXRJak5GclI5OUtyLVVSNXJSTDRLLVRCZzAxampRMTIzelJTWGdLWWl5MDVhSlVqeDRKX1lJNElvUjV1Tzln?oc=5)
 
 2026-11-10 <span class="news-indication-tag">感冒</span>
 
 來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVnRZOXVqa0pnbzRHMG40N1VNYmktXzc1S2hmdXpncTNiZF9kYW9yQXRJak5GclI5OUtyLVVSNXJSTDRLLVRCZzAxampRMTIzelJTWGdLWWl5MDVhSlVqeDRKX1lJNElvUjV1Tzln?oc=5)
-
----
-
-### [感冒｜感冒時望邊個都唔順眼？或因感冒藥1成份所致！醫生揭4大原因感冒時更動怒](https://news.google.com/rss/articles/CBMi9ANBVV95cUxPMy1PQTVZTzU0WTJfaHU5VUJXVHJ2SzV3M04tXzNCRjAwazZKWmNrOW5YbEtrNU43dUNjR0poSWd3VDFSZjcwUVdQRG9NWGZSc05qcWJWX3JRYnFqdmhtR080UGJwckJQM3F1Nk5ubEdsaTdqODFoVUJkdFdLR3NEYXVsSmdjeEk3S2lUYXVaNS1RSnNaZ2ZjZk9SUlREQk53VWRBMWV1VVlDbTNVMkRrNWM2STBJYy1pWXBrUnFTSjFXbGRjN3N3UUt5VHhXNHZOa1pYYng3aTd6akFQSVVQYS1pS1NRT2wyWEV5SU5YWk5lcWVDOUNTUUZvNnc2aDBoNUo5T2RQSnZXekdNT2Y2VnI2akR0WnFiQWdPX0J6NmRzMHkyN21FZFRwX3RuVWhick5NU3VTMkx1cXpLNHFPdjRRZDdaa2I5cWJERGc3SWJrSTE5elZMZ1N3dVVTU0tFZzhRTFlQM3FDZDVzM3dsQXY5WmxyLV9kUGJmN3p2QkVLYnhEYXNFR1dnekhab2Rtb1BYOUpPMDJLaExVZkZhZ2hTZHUzcWJGUGdHX3lqSGc3dHVDa20xUFZjRFUwRmhsai0yU0lrZDh0WFBSQk1qSS1lQTdrckpkSWZjb1ZWNFNDelM3RTNqeWhLc2FITnN0bVptdA?oc=5)
-
-2026-11-09 <span class="news-indication-tag">感冒</span>
-
-來源: [AM730](https://news.google.com/rss/articles/CBMi9ANBVV95cUxPMy1PQTVZTzU0WTJfaHU5VUJXVHJ2SzV3M04tXzNCRjAwazZKWmNrOW5YbEtrNU43dUNjR0poSWd3VDFSZjcwUVdQRG9NWGZSc05qcWJWX3JRYnFqdmhtR080UGJwckJQM3F1Nk5ubEdsaTdqODFoVUJkdFdLR3NEYXVsSmdjeEk3S2lUYXVaNS1RSnNaZ2ZjZk9SUlREQk53VWRBMWV1VVlDbTNVMkRrNWM2STBJYy1pWXBrUnFTSjFXbGRjN3N3UUt5VHhXNHZOa1pYYng3aTd6akFQSVVQYS1pS1NRT2wyWEV5SU5YWk5lcWVDOUNTUUZvNnc2aDBoNUo5T2RQSnZXekdNT2Y2VnI2akR0WnFiQWdPX0J6NmRzMHkyN21FZFRwX3RuVWhick5NU3VTMkx1cXpLNHFPdjRRZDdaa2I5cWJERGc3SWJrSTE5elZMZ1N3dVVTU0tFZzhRTFlQM3FDZDVzM3dsQXY5WmxyLV9kUGJmN3p2QkVLYnhEYXNFR1dnekhab2Rtb1BYOUpPMDJLaExVZkZhZ2hTZHUzcWJGUGdHX3lqSGc3dHVDa20xUFZjRFUwRmhsai0yU0lrZDh0WFBSQk1qSS1lQTdrckpkSWZjb1ZWNFNDelM3RTNqeWhLc2FITnN0bVptdA?oc=5)
 
 ---
 

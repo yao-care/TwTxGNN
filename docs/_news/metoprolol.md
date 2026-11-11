@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Metoprolol 的相關健康新聞報導。原適應症：高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整...。預測適應症 10 個。"
 permalink: /news/metoprolol/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Metoprolol 相關新聞
@@ -45,6 +45,14 @@ last_modified_at: 2026-11-10
 
 ## 相關新聞（4 則）
 
+### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
+
+來源: [草根影響力新視野](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5)
+
+---
+
 ### [60歲婦大肚腩以為發福竟是患卵巢癌！日用筋膜槍打肚想消脂險打爆腫瘤擴散癌細胞 - U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
 
 2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
@@ -66,14 +74,6 @@ last_modified_at: 2026-11-10
 2026-11-08 <span class="news-indication-tag">腫瘤</span>
 
 來源: [巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5)
-
----
-
-### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
-
-2026-11-05 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
-
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
 
 ---
 

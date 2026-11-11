@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Iodixanol 的相關健康新聞報導。原適應症：X 光對比劑：用於心臟血管、腦血管、周邊動脈造影、腹腔動脈造影、泌尿道攝影、靜脈造影、電腦斷層影像加...。預測適應症 3 個。"
 permalink: /news/iodixanol/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Iodixanol 相關新聞
@@ -38,11 +38,11 @@ last_modified_at: 2026-11-10
 
 ## 相關新聞（1 則）
 
-### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
+### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5)
 
-2026-11-05 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
+2026-11-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5)
+來源: [草根影響力新視野](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5)
 
 ---
 

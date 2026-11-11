@@ -1,8 +1,58 @@
 {
-  "last_updated": "2026-11-10T22:03:46.714944+00:00",
-  "total_count": 44,
+  "last_updated": "2026-11-11T02:24:39.295276+00:00",
+  "total_count": 43,
   "matched_count": 18,
   "news": [
+    {
+      "id": "dc8eed625060",
+      "title": "有些長者已有阿茲海默症病變，為何記憶力仍然良好？ - TechNews 科技新報",
+      "published": "2026-11-10T23:42:41+00:00",
+      "summary": "有些長者已有阿茲海默症病變，為何記憶力仍然良好？&nbsp;&nbsp;TechNews 科技新報人老了就會健忘？權威期刊證實大腦神經細胞能再生 做4件事防退化&nbsp;&nbsp;三立新聞網SETN.com大腦不是慢慢變老！權威期刊揭40歲起是關鍵67歲變化最劇烈- 生活&nbsp;&nbsp;中時新聞網80歲失智症權威曝護腦祕訣：運動最重要&nbsp;&nbsp;世界新聞網一轉頭就忘記要做什麼？研究：「旅行」有助刺激大腦、保持活力&nbsp;&nbsp;Harper's BAZAAR",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "阿茲海默症",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "失智",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "d91939cd613a",
       "title": "別再餵浣熊了…紐約狂犬病病例飆升 餵食者好心竟成幫兇",
@@ -17,10 +67,10 @@
       "matched_keywords": []
     },
     {
-      "id": "5114041e23dd",
-      "title": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 健康",
+      "id": "64b5826a4db6",
+      "title": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 國際",
       "published": "2026-11-10T15:59:01+00:00",
-      "summary": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 健康&nbsp;&nbsp;中時新聞網",
+      "summary": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 國際&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
           "name": "中時新聞網",
@@ -82,6 +132,49 @@
       ]
     },
     {
+      "id": "535c7bde0786",
+      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
+      "published": "2026-11-10T04:20:18+00:00",
+      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查&nbsp;&nbsp;草根影響力新視野",
+      "sources": [
+        {
+          "name": "草根影響力新視野",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "高血壓",
+          "keyword": "高血壓",
+          "related_drugs": [
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腦血管",
+          "keyword": "腦血管",
+          "related_drugs": [
+            {
+              "slug": "iodixanol",
+              "name": "Iodixanol",
+              "url": "/drugs/iodixanol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c1e64bf6477a",
       "title": "微創手術不等於零沾黏！大腸直腸醫揭術中預防關鍵守住術後生活品質",
       "published": "2026-11-10T02:00:00+00:00",
@@ -93,32 +186,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "5c5e623f5d33",
-      "title": "感冒｜感冒時望邊個都唔順眼？或因感冒藥1成份所致！醫生揭4大原因感冒時更動怒",
-      "published": "2026-11-09T23:00:00+00:00",
-      "summary": "感冒｜感冒時望邊個都唔順眼？或因感冒藥1成份所致！醫生揭4大原因感冒時更動怒&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPMy1PQTVZTzU0WTJfaHU5VUJXVHJ2SzV3M04tXzNCRjAwazZKWmNrOW5YbEtrNU43dUNjR0poSWd3VDFSZjcwUVdQRG9NWGZSc05qcWJWX3JRYnFqdmhtR080UGJwckJQM3F1Nk5ubEdsaTdqODFoVUJkdFdLR3NEYXVsSmdjeEk3S2lUYXVaNS1RSnNaZ2ZjZk9SUlREQk53VWRBMWV1VVlDbTNVMkRrNWM2STBJYy1pWXBrUnFTSjFXbGRjN3N3UUt5VHhXNHZOa1pYYng3aTd6akFQSVVQYS1pS1NRT2wyWEV5SU5YWk5lcWVDOUNTUUZvNnc2aDBoNUo5T2RQSnZXekdNT2Y2VnI2akR0WnFiQWdPX0J6NmRzMHkyN21FZFRwX3RuVWhick5NU3VTMkx1cXpLNHFPdjRRZDdaa2I5cWJERGc3SWJrSTE5elZMZ1N3dVVTU0tFZzhRTFlQM3FDZDVzM3dsQXY5WmxyLV9kUGJmN3p2QkVLYnhEYXNFR1dnekhab2Rtb1BYOUpPMDJLaExVZkZhZ2hTZHUzcWJGUGdHX3lqSGc3dHVDa20xUFZjRFUwRmhsai0yU0lrZDh0WFBSQk1qSS1lQTdrckpkSWZjb1ZWNFNDelM3RTNqeWhLc2FITnN0bVptdA?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "d0cb1945841e",
@@ -240,7 +307,7 @@
     {
       "id": "55f132f4a2e1",
       "title": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-11-09T09:29:24+00:00",
+      "published": "2026-11-09T09:29:16+00:00",
       "summary": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY中國“癌譜”20年巨變，防癌思路也有新變化&nbsp;&nbsp;鉅亨號胸悶、喘、咳嗽別輕忽！罕見甲狀腺異位藏胸腔，巨大鈣化結節恐壓迫器官- 健康新聞&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
@@ -1362,10 +1429,10 @@
       "matched_keywords": []
     },
     {
-      "id": "a305f17cef15",
-      "title": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】",
+      "id": "6370068f5a57",
+      "title": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】",
       "published": "2026-11-06T08:34:54+00:00",
-      "summary": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
+      "summary": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
       "sources": [
         {
           "name": "香港經濟日報HKET",
@@ -1506,49 +1573,6 @@
       "matched_keywords": []
     },
     {
-      "id": "dd5b6efb7c72",
-      "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查",
-      "published": "2026-11-05T03:21:25+00:00",
-      "summary": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：健檢別漏了腦血管檢查&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oQUd2QkVveGpiNmhvQlpBdWZFM2FNTmJwWGRMTW9GU09ja1hqbW44WnhUWUdBSHRjVFlSZEtUa19zWWNRQ2tkQ0FiUFNOUWlYTU5PajB6NEZ6WGdm0gFiQVVfeXFMT29Na0tMbnlYQUtfb2QxQjczYXFjQlROWF8yRUc4cGdwVktHc19YZFY1RXo2cGFzSk9lMnRyd2hkTWE0WkxsRUU0bzExY1BERjU2dmp1dHU5SzYyV1h3aEtubmc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "高血壓",
-          "keyword": "高血壓",
-          "related_drugs": [
-            {
-              "slug": "acebutolol",
-              "name": "Acebutolol",
-              "url": "/drugs/acebutolol/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腦血管",
-          "keyword": "腦血管",
-          "related_drugs": [
-            {
-              "slug": "iodixanol",
-              "name": "Iodixanol",
-              "url": "/drugs/iodixanol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "72bdfc95eb14",
       "title": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病",
       "published": "2026-11-04T20:08:59+00:00",
@@ -1651,19 +1675,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "446520178dd7",
-      "title": "15歲名校高中生竟患甲狀腺癌！初中起長期凌晨1點後瞓 醫生警告3大壞習慣正摧毀防線 - UHK 港生活",
-      "published": "2026-11-03T23:11:23+00:00",
-      "summary": "15歲名校高中生竟患甲狀腺癌！初中起長期凌晨1點後瞓 醫生警告3大壞習慣正摧毀防線&nbsp;&nbsp;UHK 港生活",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxPT0xjSjV3bGk2eEtwbVpCUVdEbHdQaGZSSU0zdl9QS3dQcWoxckxwcEdyWTk3bTc4aTQ4bDFsQWpPR0pFaVp3OEYxZFpKNkdRc0ctTW8ycWVoS09BMU5OWVVhQWRTMzdNZ1BpdG8tS2RlbVZNLWcxYlNsN0dvSS10SElVNkdFd0RhLU83MXdsZmFDTGY1ZVphMHgyUDh5bG5lM1dPS05DV2FDMTRPanNTSG5CYnhSc1hhcHJ2U2MyYnJGV2dycVBET1FocEZyckdSRk95WHMwS3E5dGUtMTJVU1RjaUM2Z1doQTZscE90R0NEeVlFVkhoeWhVdVgzNnlscm1memlxM3RqTDFPTno4YUs3UGFSQ3AwX0pwZUlZelNrY0VpdU9qSlh4WGZQaHZQM0U3dFYzRXNvZ3ZzSC1jbThNRFhtUXdkQmJRTVNGSF9pYzU1N2Zkc1RESThCRzJRRVBmUEd1bzI5ZkJXdVY0UXlFdzhCVmdxeTNSWWFPeFZKQy1GUF8xc2xzUFg1VW9OM2FEdldWTXY1QWxYNXZOcWJhS2ExVDlnZXVhR1JVVVpJUVFPb05qMUtFYUk5QmpwWEJCS1NtVzFLRHZrYXJnUVFQUVBTU3JwOGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
