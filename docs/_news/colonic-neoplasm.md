@@ -3,9 +3,9 @@ layout: default
 title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # 大腸癌 (colonic neoplasm) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 相關新聞（4 則）
-
-### [德國大學教授揭運動防癌關鍵2大時間！研究列2大最有用時間點降大腸癌風險11％ - U Food](https://news.google.com/rss/articles/CBMi_wNBVV95cUxNekNBRjF6MmJxVEZLa3l0RTRTSkFnS3RYNVRjU1lXTnJxZUhpWkpLbHBVUlFOWElmUzJ4eHE5UktfOVdNbXF6UDM1V0VWQVpxN0FlaHBGZXM1RGdia0kxYjBZR2ZfQWFWeGFkY2RFVTc3amhPUGhlb3FsQjh5UXQxX01NQ2ZsRC0zQk1ld1VMaWRza0dTNHNUT3FBbDladnhwcXdRS2xNRy1MZHhkOTk2S0dBVmZwVDhKdGJqXzZQNlZGRUF5UENJT1I0cEdOYnZSRm05eHBWSW9xWVpkcWhLWkZDYUQ3SmJaX0J0WU8wTFBGdHFtM0ptdjQzZ3JyVkpselAzbXI2UDdPQUZXQnpLM0k3WUJNTlRyYzUyZ3Bab3VXYmNRWnNzMndSUm1Wd1ZLSmhpWkhyeTZ2NG1fc0ZrTlNydk1YYXVDTFN5ZDhjUmNUNUhLazRJRko1aXZ2X3hNNURic0VYSVZaRzd0WksxQTlHQnhLNHhyTUp0Z0R5OWh5ZDFEdTVkSUo5LVQ0NDNBaHRzTUtCOFJJSFJVd2NJMHRuemtvRXhodFBhWG4xMFF2R2lUcGhVbVdadUZfQTd4Q2N6V1dFMDE5Q3FfZnhGTDYzQVlMQ256Z3p5VnVEa1VJOVFIQTlQOEpKVjVrcjNQQjRpaXB0bjhBRm9CTl9V?oc=5)
-
-2026-11-09
-
-來源: [U Food](https://news.google.com/rss/articles/CBMi_wNBVV95cUxNekNBRjF6MmJxVEZLa3l0RTRTSkFnS3RYNVRjU1lXTnJxZUhpWkpLbHBVUlFOWElmUzJ4eHE5UktfOVdNbXF6UDM1V0VWQVpxN0FlaHBGZXM1RGdia0kxYjBZR2ZfQWFWeGFkY2RFVTc3amhPUGhlb3FsQjh5UXQxX01NQ2ZsRC0zQk1ld1VMaWRza0dTNHNUT3FBbDladnhwcXdRS2xNRy1MZHhkOTk2S0dBVmZwVDhKdGJqXzZQNlZGRUF5UENJT1I0cEdOYnZSRm05eHBWSW9xWVpkcWhLWkZDYUQ3SmJaX0J0WU8wTFBGdHFtM0ptdjQzZ3JyVkpselAzbXI2UDdPQUZXQnpLM0k3WUJNTlRyYzUyZ3Bab3VXYmNRWnNzMndSUm1Wd1ZLSmhpWkhyeTZ2NG1fc0ZrTlNydk1YYXVDTFN5ZDhjUmNUNUhLazRJRko1aXZ2X3hNNURic0VYSVZaRzd0WksxQTlHQnhLNHhyTUp0Z0R5OWh5ZDFEdTVkSUo5LVQ0NDNBaHRzTUtCOFJJSFJVd2NJMHRuemtvRXhodFBhWG4xMFF2R2lUcGhVbVdadUZfQTd4Q2N6V1dFMDE5Q3FfZnhGTDYzQVlMQ256Z3p5VnVEa1VJOVFIQTlQOEpKVjVrcjNQQjRpaXB0bjhBRm9CTl9V?oc=5)
-
----
+## 相關新聞（3 則）
 
 ### [五十歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTnI5OWo5clkwY3NkVGpNcmFLWDZQTGp1cjdIQWFvakk3elZZdDhUd2xKWDVoZ1lyU0NHT3lOYmdQQlpjTWlFUDA2eFluSldTVlRYM3RoZDFBQ3ZWNUs0?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="Carbenoxolone 有什麼相關新聞？">
-<strong>Carbenoxolone</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Carbenoxolone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/carbenoxolone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
 
@@ -74,11 +74,19 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [卵巢癌誤當發福！陸女筋膜槍狂打肚「消脂」 15公分腫瘤險爆](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
+### [運動腫瘤學受重視！可省醫療支出為何拿不到保險給付| 紐時風格](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
 
-2026-11-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+2026-11-08 <span class="news-indication-tag">腫瘤</span>
 
-來源: [中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
+來源: [聯合報數位版](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
+
+---
+
+### [浙江女用筋膜槍減肥 竟查出「婦癌之王」](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5TFNoOGpsb3M1WS1qZGFVQnJOb1R6RHBUdl9BZGJHczhWcF83NW8yNDN6LXcteUNQRmVTbDJ0VElSRFBsNmRQM3dpdWxtaFRrMEVRZ2NlOUNzVEstc1lLcdIBZkFVX3lxTE9vR1NVQ2ZtRV9WSUhBeUItdTVyb0ZfTkZCNFR2V2Ewd0dHa0NWODh2RklxakN3RThiNWJ0R3BDbVpvVkVLamZhdVEwTlNPZ1ZTdTQtdlpkME5JTTRrbU9JOGZCYTlWdw?oc=5)
+
+2026-11-05 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+
+來源: [新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5TFNoOGpsb3M1WS1qZGFVQnJOb1R6RHBUdl9BZGJHczhWcF83NW8yNDN6LXcteUNQRmVTbDJ0VElSRFBsNmRQM3dpdWxtaFRrMEVRZ2NlOUNzVEstc1lLcdIBZkFVX3lxTE9vR1NVQ2ZtRV9WSUhBeUItdTVyb0ZfTkZCNFR2V2Ewd0dHa0NWODh2RklxakN3RThiNWJ0R3BDbVpvVkVLamZhdVEwTlNPZ1ZTdTQtdlpkME5JTTRrbU9JOGZCYTlWdw?oc=5)
 
 ---
 

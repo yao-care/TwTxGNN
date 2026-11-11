@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-11-11
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（2 則）
 
 ### [健康網》吃完感冒藥竟尿不出 醫揭鎖尿元凶 點名4族群別輕忽](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRjRFU3lWNU03QU01cFBORElXazNWdjZ6bUxpbmxPTFppa3RIdk5SRENKYy0yWmVsdmdOc3FSXzVDM0FBMm1qRXZmX083OHdNTlFYNFUyLUswYnZJZkhjM2JqbzY?oc=5)
 
 2026-11-11
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRjRFU3lWNU03QU01cFBORElXazNWdjZ6bUxpbmxPTFppa3RIdk5SRENKYy0yWmVsdmdOc3FSXzVDM0FBMm1qRXZmX083OHdNTlFYNFUyLUswYnZJZkhjM2JqbzY?oc=5)
-
----
-
-### [【全國新聞】流感與COVID病徵非常相似 教大家如何分辨](https://news.google.com/rss/articles/CBMifkFVX3lxTE1yV3luRDhBOC1HejFIazZhdVk0NzlKcWdyRDVZSUtlVTIxQ0ktX21TOTNZVW5fbEFmVTZQalNWTm92azJvV2lOZGU0Z1VLN3hNQlFmZ0RuLVh3RFIxQ2Y3VUF1ek9PVHYtb29TYzVtd01LSlJrdmQ5bndCQUZUUQ?oc=5)
-
-2026-11-09
-
-來源: [KTSF.com](https://news.google.com/rss/articles/CBMifkFVX3lxTE1yV3luRDhBOC1HejFIazZhdVk0NzlKcWdyRDVZSUtlVTIxQ0ktX21TOTNZVW5fbEFmVTZQalNWTm92azJvV2lOZGU0Z1VLN3hNQlFmZ0RuLVh3RFIxQ2Y3VUF1ek9PVHYtb29TYzVtd01LSlJrdmQ5bndCQUZUUQ?oc=5)
 
 ---
 

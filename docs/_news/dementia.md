@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-11
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（5 則）
 
 ### [阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 - TechNews 科技新報](https://news.google.com/rss/articles/CBMib0FVX3lxTE5uVnNTaDhTSDJsUTBfR2hUQm1zZE93US1COGRQUGlyMGV4anlkN25rYW1nNk10bVlZLTNMN0pTUUE1TXhhZ0RpaldGLVBfZURWWkM2SGJrWnA1TTE5cS1zLTRWN2E0d0dTZ0pmWkQzUQ?oc=5)
 
@@ -69,14 +69,6 @@ last_modified_at: 2026-11-11
 2026-11-08
 
 來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
-
----
-
-### [活到90歲還能記得家人？醫揭延長「大腦健康年限」祕訣 5招防老退化 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwMXVrLWo3Y0syX3ljYVdfU19fQzQxT3ZSV3BPcE1lTzVQQTNFSURjY19sVEFPVktHTWFMUGtLdlhqOFhQQkNubjZrdHVSUnBkXzhv?oc=5)
-
-2026-11-06
-
-來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwMXVrLWo3Y0syX3ljYVdfU19fQzQxT3ZSV3BPcE1lTzVQQTNFSURjY19sVEFPVktHTWFMUGtLdlhqOFhQQkNubjZrdHVSUnBkXzhv?oc=5)
 
 ---
 
