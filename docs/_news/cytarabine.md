@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cytarabine 的相關健康新聞報導。原適應症：急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、...。預測適應症 9 個。"
 permalink: /news/cytarabine/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Cytarabine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
 
-### [60歲婦大肚腩以為發福竟是患卵巢癌！日用筋膜槍打肚想消脂險打爆腫瘤擴散癌細胞 - U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
+### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
 
-2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+2026-11-11 <span class="news-indication-tag">腫瘤</span>
 
-來源: [U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
+
+---
+
+### [流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">腫瘤</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
 
 ---
 
@@ -65,6 +73,14 @@ last_modified_at: 2026-11-10
 2026-11-08 <span class="news-indication-tag">腫瘤</span>
 
 來源: [巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5)
+
+---
+
+### [卵巢癌誤當發福！陸女筋膜槍狂打肚「消脂」 15公分腫瘤險爆](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
+
+2026-11-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+
+來源: [中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
 
 ---
 

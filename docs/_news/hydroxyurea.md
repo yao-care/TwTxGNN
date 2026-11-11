@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Hydroxyurea 的相關健康新聞報導。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭...。預測適應症 7 個。"
 permalink: /news/hydroxyurea/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # Hydroxyurea 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,29 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/hydroxyurea/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
+
+2026-11-11 <span class="news-indication-tag">腫瘤</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
+
+---
+
+### [流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">腫瘤</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
+
+---
 
 ### [德國大學教授揭運動防癌關鍵2大時間！研究列2大最有用時間點降大腸癌風險11％ - U Food](https://news.google.com/rss/articles/CBMi_wNBVV95cUxNekNBRjF6MmJxVEZLa3l0RTRTSkFnS3RYNVRjU1lXTnJxZUhpWkpLbHBVUlFOWElmUzJ4eHE5UktfOVdNbXF6UDM1V0VWQVpxN0FlaHBGZXM1RGdia0kxYjBZR2ZfQWFWeGFkY2RFVTc3amhPUGhlb3FsQjh5UXQxX01NQ2ZsRC0zQk1ld1VMaWRza0dTNHNUT3FBbDladnhwcXdRS2xNRy1MZHhkOTk2S0dBVmZwVDhKdGJqXzZQNlZGRUF5UENJT1I0cEdOYnZSRm05eHBWSW9xWVpkcWhLWkZDYUQ3SmJaX0J0WU8wTFBGdHFtM0ptdjQzZ3JyVkpselAzbXI2UDdPQUZXQnpLM0k3WUJNTlRyYzUyZ3Bab3VXYmNRWnNzMndSUm1Wd1ZLSmhpWkhyeTZ2NG1fc0ZrTlNydk1YYXVDTFN5ZDhjUmNUNUhLazRJRko1aXZ2X3hNNURic0VYSVZaRzd0WksxQTlHQnhLNHhyTUp0Z0R5OWh5ZDFEdTVkSUo5LVQ0NDNBaHRzTUtCOFJJSFJVd2NJMHRuemtvRXhodFBhWG4xMFF2R2lUcGhVbVdadUZfQTd4Q2N6V1dFMDE5Q3FfZnhGTDYzQVlMQ256Z3p5VnVEa1VJOVFIQTlQOEpKVjVrcjNQQjRpaXB0bjhBRm9CTl9V?oc=5)
 
 2026-11-09 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMi_wNBVV95cUxNekNBRjF6MmJxVEZLa3l0RTRTSkFnS3RYNVRjU1lXTnJxZUhpWkpLbHBVUlFOWElmUzJ4eHE5UktfOVdNbXF6UDM1V0VWQVpxN0FlaHBGZXM1RGdia0kxYjBZR2ZfQWFWeGFkY2RFVTc3amhPUGhlb3FsQjh5UXQxX01NQ2ZsRC0zQk1ld1VMaWRza0dTNHNUT3FBbDladnhwcXdRS2xNRy1MZHhkOTk2S0dBVmZwVDhKdGJqXzZQNlZGRUF5UENJT1I0cEdOYnZSRm05eHBWSW9xWVpkcWhLWkZDYUQ3SmJaX0J0WU8wTFBGdHFtM0ptdjQzZ3JyVkpselAzbXI2UDdPQUZXQnpLM0k3WUJNTlRyYzUyZ3Bab3VXYmNRWnNzMndSUm1Wd1ZLSmhpWkhyeTZ2NG1fc0ZrTlNydk1YYXVDTFN5ZDhjUmNUNUhLazRJRko1aXZ2X3hNNURic0VYSVZaRzd0WksxQTlHQnhLNHhyTUp0Z0R5OWh5ZDFEdTVkSUo5LVQ0NDNBaHRzTUtCOFJJSFJVd2NJMHRuemtvRXhodFBhWG4xMFF2R2lUcGhVbVdadUZfQTd4Q2N6V1dFMDE5Q3FfZnhGTDYzQVlMQ256Z3p5VnVEa1VJOVFIQTlQOEpKVjVrcjNQQjRpaXB0bjhBRm9CTl9V?oc=5)
-
----
-
-### [60歲婦大肚腩以為發福竟是患卵巢癌！日用筋膜槍打肚想消脂險打爆腫瘤擴散癌細胞 - U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
-
-2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
-
-來源: [U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
 
 ---
 
@@ -79,6 +87,14 @@ last_modified_at: 2026-11-10
 2026-11-06 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMi4wRBVV95cUxNcGQtX3dyeTdnZXFaS2p1M0NHUUhLOTZqcFNfZFV0Y0c3bVJzam1qQWpZUWZLQkNvWWNfVlRNQ3JwTmZQQjlqUnRNVVpENTFjTWpYQVloZXRYUEp6RjAzTTRHY0VLT0RVVUNVMHJVSUpGSllwS2FkX05LcGo4WG0xOGV2a29jbHR4aHk0LThxWEZka01TZTRBc2ZLZk9qTDlUMjA5MzAzXzlsZjU4U1c0UFZNcUVRbHQwaEJNa0dScjgxc0FkdkJqRmxNNzVkamNkSllSSXZzZ3JKU2R1NjZ6SFYyekZBQ094YXVOVmRDUHNHOGxzV0toLUlKSmxhR0pOX05BRllQbzY5cXo0V2M0a0xDMVJwc1dMWWdFekRaeGJVMnV0YXczUjZPVEVZWk84Y0w1NzI4NjRBeU9PRkpZS05SMktWX0hCemRvMm5QNE5UeTg1QXBjS0U1UkRLTEVJR0JHWnROY1BqT0lIMmxoVmNMOFZuQTFsUWZfWUp5MjN6MHVEQjBENHc0cDZWMUVjQmk5WVdpXzZDdEJNYWd0eGdCY2xZRDZMbVlMZ1Uza3ZfMVdFQy1JU3UwNkdYUDdwWFRNdjAzVm5nakREQkZ4dEdGVGxIa19scl8za0xWNUNaTllob2dwV3BLTEZvREEzN0pWMW50ZUZfVUZvSzVjSWNTOWYwaVNLbFZTbDlndV9XN0JQaTdRV3BwbmVLTUZaMVlKZ2dRYll4T0ZfOU02c3k3UTRuMmhzZE5PTTd2QXhPNXhkZ1pmLUVsN040QXhqQzNyQ2N4XzVkRmthTXVjR0NRMA?oc=5)
+
+---
+
+### [卵巢癌誤當發福！陸女筋膜槍狂打肚「消脂」 15公分腫瘤險爆](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
+
+2026-11-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+
+來源: [中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
 
 ---
 

@@ -32,11 +32,11 @@ last_modified_at: 2026-11-11
 
 ## 相關新聞（3 則）
 
-### [不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 國際](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVnRZOXVqa0pnbzRHMG40N1VNYmktXzc1S2hmdXpncTNiZF9kYW9yQXRJak5GclI5OUtyLVVSNXJSTDRLLVRCZzAxampRMTIzelJTWGdLWWl5MDVhSlVqeDRKX1lJNElvUjV1Tzln?oc=5)
+### [健康網》吃完感冒藥竟尿不出 醫揭鎖尿元凶 點名4族群別輕忽](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRjRFU3lWNU03QU01cFBORElXazNWdjZ6bUxpbmxPTFppa3RIdk5SRENKYy0yWmVsdmdOc3FSXzVDM0FBMm1qRXZmX083OHdNTlFYNFUyLUswYnZJZkhjM2JqbzY?oc=5)
 
-2026-11-10
+2026-11-11
 
-來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVnRZOXVqa0pnbzRHMG40N1VNYmktXzc1S2hmdXpncTNiZF9kYW9yQXRJak5GclI5OUtyLVVSNXJSTDRLLVRCZzAxampRMTIzelJTWGdLWWl5MDVhSlVqeDRKX1lJNElvUjV1Tzln?oc=5)
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRjRFU3lWNU03QU01cFBORElXazNWdjZ6bUxpbmxPTFppa3RIdk5SRENKYy0yWmVsdmdOc3FSXzVDM0FBMm1qRXZmX083OHdNTlFYNFUyLUswYnZJZkhjM2JqbzY?oc=5)
 
 ---
 

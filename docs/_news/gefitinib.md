@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 15 個。
 </p>
 
 <div class="key-takeaway">
@@ -48,13 +48,21 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
-### [有些長者已有阿茲海默症病變，為何記憶力仍然良好？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
+### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
 
-2026-11-10 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+2026-11-11 <span class="news-indication-tag">腫瘤</span>
 
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
+
+---
+
+### [流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
+
+2026-11-11 <span class="news-indication-tag">腫瘤</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
 
 ---
 
@@ -71,14 +79,6 @@ last_modified_at: 2026-11-11
 2026-11-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源: [ELLE](https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5)
-
----
-
-### [60歲婦大肚腩以為發福竟是患卵巢癌！日用筋膜槍打肚想消脂險打爆腫瘤擴散癌細胞 - U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
-
-2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
-
-來源: [U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
 
 ---
 
@@ -119,6 +119,22 @@ last_modified_at: 2026-11-11
 2026-11-08 <span class="news-indication-tag">失智</span>
 
 來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+
+---
+
+### [卵巢癌誤當發福！陸女筋膜槍狂打肚「消脂」 15公分腫瘤險爆](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
+
+2026-11-06 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+
+來源: [中天新聞網](https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3bVF5SnNEZzA1U0ltR1VEQTdXTmdyUEdXbGU4QjRLUEZETk5fNnFuQldUbE5pZWVidWNuc3c0QWVMV2liSmlxcThuX3FOZ0VPYjY4?oc=5)
+
+---
+
+### [活到90歲還能記得家人？醫揭延長「大腦健康年限」祕訣 5招防老退化 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwMXVrLWo3Y0syX3ljYVdfU19fQzQxT3ZSV3BPcE1lTzVQQTNFSURjY19sVEFPVktHTWFMUGtLdlhqOFhQQkNubjZrdHVSUnBkXzhv?oc=5)
+
+2026-11-06 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwMXVrLWo3Y0syX3ljYVdfU19fQzQxT3ZSV3BPcE1lTzVQQTNFSURjY19sVEFPVktHTWFMUGtLdlhqOFhQQkNubjZrdHVSUnBkXzhv?oc=5)
 
 ---
 
