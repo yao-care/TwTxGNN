@@ -3,17 +3,12 @@
     {
       "url": "/news/acebutolol/",
       "title": "Acebutolol 相關新聞",
-      "count": 7
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 6
-    },
-    {
-      "url": "/news/高血壓/",
-      "title": "高血壓 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/acetazolamide/": [
@@ -363,18 +358,6 @@
       "count": 6
     }
   ],
-  "/drugs/iodixanol/": [
-    {
-      "url": "/news/iodixanol/",
-      "title": "Iodixanol 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/腦血管/",
-      "title": "腦血管 相關新聞",
-      "count": 1
-    }
-  ],
   "/drugs/ipilimumab/": [
     {
       "url": "/news/ipilimumab/",
@@ -403,12 +386,12 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide dinitrate 相關新聞",
-      "count": 1
+      "count": 3
     },
     {
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
-      "count": 1
+      "count": 3
     },
     {
       "url": "/news/心血管疾病/",
@@ -444,17 +427,12 @@
     {
       "url": "/news/metoprolol/",
       "title": "Metoprolol 相關新聞",
-      "count": 7
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 6
-    },
-    {
-      "url": "/news/高血壓/",
-      "title": "高血壓 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/nebivolol/": [
@@ -467,6 +445,18 @@
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 6
+    }
+  ],
+  "/drugs/nystatin/": [
+    {
+      "url": "/news/nystatin/",
+      "title": "Nystatin 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "更年期 (menopause) 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/omalizumab/": [
@@ -503,6 +493,18 @@
       "count": 3
     }
   ],
+  "/drugs/ouabain/": [
+    {
+      "url": "/news/ouabain/",
+      "title": "Ouabain 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/myocardial-infarction/",
+      "title": "心肌梗塞 (myocardial infarction) 相關新聞",
+      "count": 1
+    }
+  ],
   "/drugs/oxytetracycline/": [
     {
       "url": "/news/oxytetracycline/",
@@ -519,12 +521,17 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 6
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "更年期 (menopause) 相關新聞",
+      "count": 1
     },
     {
       "url": "/news/卵巢癌/",
@@ -608,12 +615,29 @@
     {
       "url": "/news/tinidazole/",
       "title": "Tinidazole 相關新聞",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 6
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "更年期 (menopause) 相關新聞",
+      "count": 1
+    }
+  ],
+  "/drugs/tioconazole/": [
+    {
+      "url": "/news/tioconazole/",
+      "title": "Tioconazole 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "更年期 (menopause) 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/trabectedin/": [

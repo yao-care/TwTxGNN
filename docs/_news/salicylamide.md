@@ -3,9 +3,9 @@ layout: default
 title: "Salicylamide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 10 個。"
+description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 9 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Salicylamide 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Salicylamide</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,13 +27,12 @@ last_modified_at: 2026-11-11
 <ul>
 <li><strong>原適應症</strong>: 鎮痛藥</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>pharyngitis</li>
-<li>nasal cavity disease</li>
-<li>acute laryngopharyngitis</li>
-<li>trigeminal autonomic cephalalgia</li>
-<li class="indication-matched">common cold<span class="indication-tag">📰 感冒</span></li>
-<li>allergic urticaria</li>
+<li><strong>預測適應症（9 個）</strong>:<ul>
+<li>咽炎 (pharyngitis)</li>
+<li>鼻腔疾病 (nasal cavity disease)</li>
+<li>急性喉咽炎 (acute laryngopharyngitis)</li>
+<li>三叉自主神經頭痛 (trigeminal autonomic cephalalgia)</li>
+<li>過敏性蕁麻疹 (allergic urticaria)</li>
 <li>lung disease</li>
 <li>massive neonatal aspiration syndrome</li>
 <li>respiratory syncytial virus bronchiolitis</li>

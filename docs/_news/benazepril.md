@@ -3,7 +3,7 @@ layout: default
 title: "Benazepril 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Benazepril 的相關健康新聞報導。原適應症：治療高血壓，此複方藥品不適合用於起始治療; 治療高血壓，此複方藥品不適合用於起始治療。; 高血壓。;...。預測適應症 5 個。"
+description: "Benazepril 的相關健康新聞報導。原適應症：治療高血壓，此複方藥品不適合用於起始治療; 治療高血壓，此複方藥品不適合用於起始治療。; 高血壓。;...。預測適應症 4 個。"
 permalink: /news/benazepril/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Benazepril 有什麼相關新聞？">
-<strong>Benazepril</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Benazepril</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 4 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,11 +27,10 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 治療高血壓，此複方藥品不適合用於起始治療; 治療高血壓，此複方藥品不適合用於起始治療。; 高血壓。; 血管收縮素轉化每抑制劑; 治療高血壓。此複方藥品不適合用於起始治療。</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（5 個）</strong>:<ul>
-<li>malignant renovascular hypertension</li>
-<li>malignant hypertensive renal disease</li>
+<li><strong>預測適應症（4 個）</strong>:<ul>
+<li>惡性高血壓腎病 (malignant hypertensive renal disease)</li>
+<li>肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia</li>
 <li>Braddock syndrome</li>
 </ul></li>
 </ul>

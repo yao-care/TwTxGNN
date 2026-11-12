@@ -3,7 +3,7 @@ layout: default
 title: "Pemetrexed 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Pemetrexed 的相關健康新聞報導。原適應症：1.ALIMTA 併用cisplatin 是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外...。預測適應症 10 個。"
+description: "Pemetrexed 的相關健康新聞報導。原適應症：1.ALIMTA 併用cisplatin 是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外...。預測適應症 3 個。"
 permalink: /news/pemetrexed/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Pemetrexed 有什麼相關新聞？">
-<strong>Pemetrexed</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Pemetrexed</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,16 +27,9 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 1.ALIMTA 併用cisplatin 是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)之第一線化療用藥。2 ALIMTA 單一藥物是局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)病人接受4 個週期含鉑藥物的第一線化療後疾病並未惡化之維持療法。3. ALIMTA 單一藥物是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)之第二線治療用藥。4. ALIMTA與pembrolizumab及含鉑化學療法併用，做為轉移性，不具有EGFR或ALK腫瘤基因異常之非鱗狀非小細胞肺癌的第一線治療藥物。5. ALIMTA 與cisplatin 併用於治療惡性肋膜間質細胞瘤。; 1</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>malignant peritoneal mesothelioma</li>
-<li>pleural adenomatoid tumor</li>
-<li>pleural mesothelioma</li>
-<li>pleural epithelioid mesothelioma</li>
-<li>pleural sarcomatoid mesothelioma</li>
-<li>pleural biphasic mesothelioma</li>
+<li><strong>預測適應症（3 個）</strong>:<ul>
+<li>胸膜腺瘤樣瘤 (pleural adenomatoid tumor)</li>
 <li>pericardium cancer</li>
-<li>well differentiated papillary mesothelioma</li>
-<li>lymphohistiocytoid mesothelioma</li>
 <li>iminoglycinuria</li>
 </ul></li>
 </ul>

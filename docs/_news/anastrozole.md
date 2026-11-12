@@ -3,7 +3,7 @@ layout: default
 title: "Anastrozole 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Anastrozole 的相關健康新聞報導。原適應症：治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對TAMOXIF...。預測適應症 6 個。"
+description: "Anastrozole 的相關健康新聞報導。原適應症：治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對TAMOXIF...。預測適應症 5 個。"
 permalink: /news/anastrozole/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Anastrozole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,9 +27,8 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對TAMOXIFEN有陽性反應。輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌。輔助治療已使用tamoxifen 2-3年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌。; 治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對Tamoxifen有陽性反應。輔助治療停經後婦女且荷爾蒙接受器為陽性的早期侵犯性乳癌。輔助治療已使用Tamoxifen 2-3年之停經後婦女且荷爾蒙接受器為陽性的早期乳癌。; 抗腫瘤原料藥。; 治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病人尚</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（6 個）</strong>:<ul>
-<li>female breast carcinoma</li>
-<li>neuroblastoma</li>
+<li><strong>預測適應症（5 個）</strong>:<ul>
+<li>神經母細胞瘤 (neuroblastoma)</li>
 <li>vertebral anomalies and variable endocrine and T-cell dysfunction</li>
 <li>ganglioneuroblastoma (disease)</li>
 <li>retroperitoneal neoplasm</li>

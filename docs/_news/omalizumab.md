@@ -28,7 +28,7 @@ last_modified_at: 2026-11-12
 <li><strong>原適應症</strong>: 過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）；慢性鼻竇炎併鼻息肉附加療法；慢性自發性蕁麻疹附加療法</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（9 個）</strong>:<ul>
-<li>bronchitis</li>
+<li>支氣管炎 (bronchitis)</li>
 <li>atopic eczema</li>
 <li>dermatitis</li>
 <li>bronchial neoplasm (disease)</li>

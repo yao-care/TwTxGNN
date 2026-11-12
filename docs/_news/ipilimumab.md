@@ -3,7 +3,7 @@ layout: default
 title: "Ipilimumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Ipilimumab 的相關健康新聞報導。原適應症：無法切除或轉移性黑色素瘤（併用 nivolumab）、晚期腎細胞癌、MSI-H/dMMR 轉移性大腸...。預測適應症 3 個。"
+description: "Ipilimumab 的相關健康新聞報導。原適應症：無法切除或轉移性黑色素瘤（併用 nivolumab）、晚期腎細胞癌、MSI-H/dMMR 轉移性大腸...。預測適應症 1 個。"
 permalink: /news/ipilimumab/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Ipilimumab 有什麼相關新聞？">
-<strong>Ipilimumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Ipilimumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,10 +27,8 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 無法切除或轉移性黑色素瘤（併用 nivolumab）、晚期腎細胞癌、MSI-H/dMMR 轉移性大腸直腸癌、肝細胞癌、非小細胞肺癌、惡性肋膜間皮瘤、食道鱗狀細胞癌</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（3 個）</strong>:<ul>
-<li>脈絡膜無虹膜症</li>
-<li>choroideremia</li>
-<li>non-cutaneous melanoma</li>
+<li><strong>預測適應症（1 個）</strong>:<ul>
+<li>脈絡膜缺失症 (choroideremia)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ipilimumab/' | relative_url }}">查看完整藥物報告 →</a></p>

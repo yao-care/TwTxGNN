@@ -3,7 +3,7 @@ layout: default
 title: "Atezolizumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Atezolizumab 的相關健康新聞報導。原適應症：1. 非小細胞肺癌： (1) 單獨使用，適用於第II至IIIA期(UICC/AJCC分期系統第7版)...。預測適應症 10 個。"
+description: "Atezolizumab 的相關健康新聞報導。原適應症：1. 非小細胞肺癌： (1) 單獨使用，適用於第II至IIIA期(UICC/AJCC分期系統第7版)...。預測適應症 6 個。"
 permalink: /news/atezolizumab/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Atezolizumab 有什麼相關新聞？">
-<strong>Atezolizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Atezolizumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,12 +27,8 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 1. 非小細胞肺癌： (1) 單獨使用，適用於第II至IIIA期(UICC/AJCC分期系統第7版)且腫瘤具PD-L1表現(tumor cell (TC) ≥ 1%)之非小細胞肺癌病人接受手術切除及含鉑藥物化學治療後的輔助性治療。 (2) 單獨使用，適用於治療接受含鉑化學治療後，疾病惡化之局部晚期或轉移性非小細胞肺癌病人。病人若具有EGFR或ALK腫瘤基因異常，則須先經EGFR或ALK抑制劑治療，若治療後疾病惡化方可使用本品。 (3) 與bevacizumab、paclitaxel和carboplatin併用，做為轉移性之非鱗狀非小細胞肺癌的第一線治療藥物。病人若具有 EGFR 突變或 ALK</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>prostatic urethra urothelial carcinoma</li>
-<li>kidney pelvis sarcomatoid transitional cell carcinoma</li>
-<li>infiltrating bladder urothelial carcinoma sarcomatoid variant</li>
-<li>renal pelvis papillary urothelial carcinoma</li>
-<li>uterine ligament adenocarcinoma</li>
+<li><strong>預測適應症（6 個）</strong>:<ul>
+<li>子宮韌帶腺癌 (uterine ligament adenocarcinoma)</li>
 <li>endocervical carcinoma</li>
 <li>adenoid cystic carcinoma of the cervix uteri</li>
 <li>uterine ligament serous adenocarcinoma</li>

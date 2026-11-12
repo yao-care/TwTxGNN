@@ -28,10 +28,10 @@ last_modified_at: 2026-11-12
 <li><strong>原適應症</strong>: 先兆流產、習慣流產、子宮機能性出血、痛經、月經困難</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（8 個）</strong>:<ul>
-<li>endometriosis of uterus</li>
+<li>子宮內膜異位症 (endometriosis of uterus)</li>
 <li>renal hypoplasia, bilateral</li>
-<li>endometriosis in cutaneous scar</li>
 <li>endometriosis of rectovaginal septum and vagina</li>
+<li>endometriosis in cutaneous scar</li>
 <li>renal hypoplasia (disease)</li>
 <li>cervix endometriosis</li>
 <li>breast fibrocystic disease</li>
