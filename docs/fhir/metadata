@@ -7,7 +7,7 @@
   "title": "TwTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-11-03",
+  "date": "2026-11-12",
   "publisher": "TwTxGNN",
   "contact": [
     {
@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "TwTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 291 drugs and 2240 predicted indications.",
+  "description": "TwTxGNN drug repurposing prediction data exposed as FHIR resources. Contains 291 drugs and 1960 predicted indications.",
   "kind": "instance",
   "software": {
     "name": "TwTxGNN Static FHIR API",
