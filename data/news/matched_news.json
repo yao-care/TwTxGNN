@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-11-12T17:24:55.368371+00:00",
-  "total_count": 48,
-  "matched_count": 21,
+  "last_updated": "2026-11-12T22:59:22.038665+00:00",
+  "total_count": 45,
+  "matched_count": 20,
   "news": [
     {
       "id": "f23c9e6cc4c8",
       "title": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗",
       "published": "2026-11-12T14:11:00+00:00",
-      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元",
+      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元美CDC證實今年已6人死於麻疹 疫情創數十年來最嚴重 | 民視新聞網&nbsp;&nbsp;LINE TODAY大砍防疫人力、動搖疫苗政策嘗苦果 美國恐失「麻疹消除國」地位&nbsp;&nbsp;中時新聞網病毒傳播年餘 美已不具備麻疹根除資格&nbsp;&nbsp;Singtaousa泛美衛生組織審議美國麻疹疫情認定 相關決定預計下週初公佈&nbsp;&nbsp;觀點網",
       "sources": [
         {
           "name": "大紀元",
@@ -32,7 +32,7 @@
     {
       "id": "5664d5c12ba7",
       "title": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天 - UHK 港生活",
-      "published": "2026-11-12T11:34:47+00:00",
+      "published": "2026-11-12T11:34:48+00:00",
       "summary": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
@@ -50,6 +50,140 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e264ab6fe36c",
+      "title": "女性每周重訓超過1時數 研究揭：重大心血管疾病風險降20%",
+      "published": "2026-11-12T09:30:00+00:00",
+      "summary": "女性每周重訓超過1時數 研究揭：重大心血管疾病風險降20%&nbsp;&nbsp;AM730女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%&nbsp;&nbsp;Yahoo新聞「肌肉1特徵」藏心臟健康線索！研究揭關聯 這類人心梗風險較低&nbsp;&nbsp;台視新聞網護心運動｜研究揭多操練2部位肌肉心臟病發率降31% 專家拆解「操肌護心」關鍵：重質不重量【附最佳運動時長建議】&nbsp;&nbsp;香港經濟日報HKET每天快走30分鐘就夠了？哈佛11萬人研究打臉：女性少做「這項運動」心血管保護少一大半&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone",
+              "url": "/drugs/milrinone/"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol",
+              "url": "/drugs/inositol/"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid",
+              "url": "/drugs/pipemidic-acid/"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide",
+              "url": "/drugs/dorzolamide/"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil",
+              "url": "/drugs/treprostinil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心臟病發",
+          "keyword": "心臟病發",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
             }
           ]
         }
@@ -109,14 +243,14 @@
       ]
     },
     {
-      "id": "06e28f185e12",
-      "title": "杭州女子檢出18種HPV亞型陽性 含10種高危型",
-      "published": "2026-11-12T05:32:00+00:00",
-      "summary": "杭州女子檢出18種HPV亞型陽性 含10種高危型&nbsp;&nbsp;大紀元18歲妹私密處痛到影響生活！ 醫一查驚見18種HPV同時陽性&nbsp;&nbsp;Yahoo新聞私密處痛半個月！18歲女確診「18種HPV」 醫師也驚呆&nbsp;&nbsp;TVBS新聞網18歲少女染18種HPV遭質疑 醫師：極其少見 別急著貼標籤&nbsp;&nbsp;世界新聞網18歲少女私密處痛半個月！一查竟感染「18種HPV」 醫師驚呆&nbsp;&nbsp;ETtoday新聞雲",
+      "id": "534e121dab7b",
+      "title": "18歲妹私密處痛到影響生活！ 醫一查驚見18種HPV同時陽性",
+      "published": "2026-11-12T07:27:49+00:00",
+      "summary": "18歲妹私密處痛到影響生活！ 醫一查驚見18種HPV同時陽性&nbsp;&nbsp;Yahoo新聞杭州女子檢出18種HPV亞型陽性 含10種高危型&nbsp;&nbsp;大紀元私密處痛半個月！18歲女確診「18種HPV」 醫師也驚呆&nbsp;&nbsp;TVBS新聞網【18歲少女私密處痛半個月！一查竟感染「18種HPV」 醫師驚呆】 OMG... （#嘴邊肉）&nbsp;&nbsp;Facebook18歲少女染18種HPV遭質疑 醫師：極其少見 別急著貼標籤&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LZEF6U3c4QXFhYUVqUGkwVXR3X2xrSXRTWUU4SlczUkFhQlUtLUp5cW9zdERCQ1E5T3o4bFhrenFXZGVDU3ZYbUN6bTR6X0xoMjkxb0lESUUtVTlnVVhzSUpB0gFnQVVfeXFMT3ZyekczNjdpS0RhQ2RLTTBUS1MwS0lxZ3RuaVM0c0MxU2p4RDRndV81UncxYmF6NERHemc0M0cxTGh2MGxqbXczdHAzRnVjY3ZhZTJlb1ZtaGpFMjU1b293UnRpVVJVQQ?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRWdaUWJrQ0FYSThKNWFGSHhickVzSWxsZDdZeFhMSWgzSGN5SHQyaGZqY24zQ1ZEMllMbEdoT0NuYWMta0ZwR1Z5cE5BMnJCZWNVcDJYSUx4WE5vR2JQbVloSy1PSzJYUjBNY1lxQlZkR3JxUU1WemNnakljWDYzcE8zYU96Qjg5QjQyWDU5TEhXQ2JXQnpKa0RNNVBiWmNiV3lnZ3ktNGJDVzFkSUxERnNaN0R6eHJzd19BV2ZjdlhfaVdNdUdiRnZEcTFuMVhZWUN0SzRjUi14RUFzTVdjdnpSWjY0Z1pGblRCN0ZDeWtKOWsxc0xNb0U5dmhZcm53cERDcTdpYnhUcjV1N1dWdEhpcElMT0JQSkpIQnFQczVJWV9zYmpDd3NiNW14dGV4Rm4ycElhOEdHOFpEUDZpS1ZGVEpYX0xWU2YzNWotMA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -138,7 +272,7 @@
       "id": "ad754b8e85b4",
       "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意",
       "published": "2026-11-12T04:55:11+00:00",
-      "summary": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意&nbsp;&nbsp;Heho健康防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55% | 科技新報&nbsp;&nbsp;LINE TODAY左流右新護健康 有效降低心血管風險&nbsp;&nbsp;Yahoo新聞",
+      "summary": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意&nbsp;&nbsp;Heho健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "Heho健康",
@@ -146,30 +280,6 @@
         }
       ],
       "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -542,152 +652,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "8aad94b8fb60",
-      "title": "女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%",
-      "published": "2026-11-11T11:00:00+00:00",
-      "summary": "女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%&nbsp;&nbsp;Yahoo新聞「肌肉1特徵」藏心臟健康線索！研究揭關聯 這類人心梗風險較低&nbsp;&nbsp;台視新聞網常運動就不會心梗？ 醫：健檢正常≠零風險！ | 運動 | 心肌梗塞| 陳建州&nbsp;&nbsp;台灣大紀元護心運動｜研究揭多操練2部位肌肉心臟病發率降31% 專家拆解「操肌護心」關鍵：重質不重量【附最佳運動時長建議】&nbsp;&nbsp;香港經濟日報HKET每天快走30分鐘就夠了？哈佛11萬人研究打臉：女性少做「這項運動」心血管保護少一大半&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb2ZzbTEzWjgtTUJiWURpSjJETm41QW9PbnQxNTlkclFON0wxcjBkYURUdW9LQkNkNkFfMVVUVVE5elhaMF9LN19Xb2hLcXV6QlZEcFQweDRlZTRyODBfWHMxaUx6UXJjYlJhT2oxSTNaU0RyUk9JVjBPdFFqdlpJVjVzOXpSLVJ4Mm1aa25BM3gxQ044Qm5wTnZ1WFNkajk0SjlPeFMyUzdRTGlEUHBGS1h3bnBRY0pGYzcxZVdvY0tCSHZ1cU5TNUkzWFU5X2VwMmlpS3duUkFEMkxHY2p4dFVRNG12c1JZSnhPU2xyejBReVYtdjZoWGJvemVubUZsTXJDQ0F2Q2dnNUlOYzlzbFl3c0hVaHR1WnVYQjVzNGlFNG1KUUNZbktzQU50THN2YWlEQUtRbVV3cVByLTQ1Nk9NQzVCT1Y2b0xMeWpHTUE4TnFOYXBGR1FJQlIwR1FlTVd5dmdCaFd5YXIyUjNz?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone",
-              "url": "/drugs/milrinone/"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol",
-              "url": "/drugs/inositol/"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid",
-              "url": "/drugs/pipemidic-acid/"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide",
-              "url": "/drugs/dorzolamide/"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil",
-              "url": "/drugs/treprostinil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心梗",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心臟病發",
-          "keyword": "心臟病發",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "33604a986bb4",
@@ -1254,6 +1218,19 @@
       ]
     },
     {
+      "id": "5bb9f5416a03",
+      "title": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了",
+      "published": "2026-11-11T03:15:39+00:00",
+      "summary": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了&nbsp;&nbsp;三立新聞網SETN.com暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY鹽昆布爆紅！會害甲狀腺失控？專業醫解答&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc3hpZ3cyLVZZN0R0YWF3bmFUR2tvaktNMzhKQm11WlZKeDlmek5pRktVdnV5WmhSQUVTdUwtSTB6dGczQTlqNGxwOHQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f71759d6167d",
       "title": "榮獲BOTB 2026 最佳緊緻活顏療程｜抗老不等於變臉！Kandy靠JULÄINE™ 新一代膠原生態重啟劑解鎖自然緊緻美學 - Cosmopolitan HK",
       "published": "2026-11-10T07:43:43+00:00",
@@ -1318,45 +1295,6 @@
       ]
     },
     {
-      "id": "55f132f4a2e1",
-      "title": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-11-09T09:29:16+00:00",
-      "summary": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRWd6b2FDdHAyMmVpSjllS3ZORndvd1hEYV9JckFWYnFwYmt0ZU0wSUFHYnY4WC16dW5Yenl6M3JaS1lTemo2dmh1U3g4aWhLcU92Q1RB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ffd7fd56366d",
-      "title": "聽力損失與失智風險有關？醫解析可能原因 助聽器選配有學問",
-      "published": "2026-11-09T04:19:29+00:00",
-      "summary": "聽力損失與失智風險有關？醫解析可能原因 助聽器選配有學問&nbsp;&nbsp;草根影響力新視野",
-      "sources": [
-        {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQS2NFLWdwUjI4Q3dkM0lLVFNycE5wbDdBdzZLbGpXOVJsUkZzU2JiNzhkZjVfaFI2X3V4VmtsRkdTeV9BSDlFRHFlTHVwLUc1UE9sUGlrWExhcXV0VDFYbGZ4UVZIYmRQYlVGdndmSkVBVnMtSTcxREZjLUEwWlJpdV91andBeC1NQmZ1cHdHZ3MxdWdiQzBkNGcwTDE0SXJ6dXFaR3JhemVVU0JrUDRFNnBoV2JRWjhIdXAwYnEtakg1Nm5TUDdxODFhNGhzZUZGeDhyaEUxY2pXRVpibHNiZFlwN2N4R0JqTlhFNlJLSm4wb3lYVV9IR3hCb0FTMk9kNG9uYUNCZEV1Tk5wX1RsS2E4UVZDVDVHU01VQWZFYzdSMzNVTC1kMGtORVlERE13d0Mxd3lhRjhWZmJBcF9TSTI3TWhGSVk?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "失智",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6eff8015e7e3",
       "title": "迎戰超級細菌威脅，Google DeepMind 導入尖端 AI 攻克抗藥性危機 - TechNews 科技新報",
       "published": "2026-11-09T01:04:53+00:00",
@@ -1370,10 +1308,10 @@
       "matched_keywords": []
     },
     {
-      "id": "a55aa536734d",
-      "title": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物 連吃10星期19種發炎指標全下降！",
+      "id": "b8fb3e1da25c",
+      "title": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物連吃10星期19種發炎指標全下降！",
       "published": "2026-11-09T01:00:00+00:00",
-      "summary": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物 連吃10星期19種發炎指標全下降！&nbsp;&nbsp;星島頭條",
+      "summary": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物連吃10星期19種發炎指標全下降！&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "星島頭條",
@@ -2788,32 +2726,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c30132af061a",
-      "title": "讓骨折快速康復的全新方法",
-      "published": "2026-11-06T01:01:00+00:00",
-      "summary": "讓骨折快速康復的全新方法&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWGV3aHNfdHdsc0N0dEZpTDFDbFNXUktkSExkc0h5N3JRa2Ntdm9hVkRJamY0LUczMG9kYjlmNXVRd0s3dlFkajE1VjFQR1VMTDl4OHFtdl9PRkZqX3lIUjJ30gFnQVVfeXFMTzBoVHJZSE9PanJLNUFtdVlRc1pVY1M3RTlic19qQXR1ekNOTlRlb1JOUGs0UUNFTzhZaTFhQ0VHdjBCRkJRcm91ZkxYRHpnUkpJSXlZM0VfM2JTcUpVSWEtS19zUmQ2SQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "95c4d839d020",
-      "title": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國",
-      "published": "2026-11-05T21:30:01+00:00",
-      "summary": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國&nbsp;&nbsp;巴士的報前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQcmNXQk9kNlplc0diWm1OT0JXYmk1X1BLR2ZJUk9jOWhkWUdCeFlrUVdrTDNNYnlmVU41QUhfT21UUnIyeV9PbE0yZmo2aXo1bzcxQzFFdnVCVzU0RjV6clU5RXFPd3N2alI2cFdLd0o2Y2h5SGRTZkd6alVWUUJaVHBEd3o4NjlIODZORHBxak5TVEpDLW1KVzh0TUx6aDJZR0FpVXJBOU92SnZ0TTRTdmhTNzZYVW9BWktrS24zNm1DZ2lTTEFTR2NDV053NG5UcFRIbGNfSk9iRUZNWURqLW5yLS1QNEZFR1dPSlVhWVJCallxUGFJU1ZSdFdPbUFteVU3ZTMzRF9EZG9LdEx1S2dQU2JwY0VmYVlVS0tzQ2k5Z1ZDTjVXcTlmTkR4RGVJSzVDUTVQaHJBNDg2UWlZemp2NUhLWWVPWjRZQ09UZy1TWUZ0djhCRkotcDFYNWNySkdWNDZxSXc1dU5FUDZJXw?oc=5"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

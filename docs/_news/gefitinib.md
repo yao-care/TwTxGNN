@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
-
-### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
-
-2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">心肌梗塞</span>
-
-來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
-
----
+## 相關新聞（10 則）
 
 ### [專家提醒：甲狀腺腫瘤患者需重視定期隨訪](https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5)
 
@@ -81,14 +73,6 @@ last_modified_at: 2026-11-12
 2026-11-09 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源: [ELLE](https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5)
-
----
-
-### [聽力損失與失智風險有關？醫解析可能原因 助聽器選配有學問](https://news.google.com/rss/articles/CBMixwJBVV95cUxQS2NFLWdwUjI4Q3dkM0lLVFNycE5wbDdBdzZLbGpXOVJsUkZzU2JiNzhkZjVfaFI2X3V4VmtsRkdTeV9BSDlFRHFlTHVwLUc1UE9sUGlrWExhcXV0VDFYbGZ4UVZIYmRQYlVGdndmSkVBVnMtSTcxREZjLUEwWlJpdV91andBeC1NQmZ1cHdHZ3MxdWdiQzBkNGcwTDE0SXJ6dXFaR3JhemVVU0JrUDRFNnBoV2JRWjhIdXAwYnEtakg1Nm5TUDdxODFhNGhzZUZGeDhyaEUxY2pXRVpibHNiZFlwN2N4R0JqTlhFNlJLSm4wb3lYVV9IR3hCb0FTMk9kNG9uYUNCZEV1Tk5wX1RsS2E4UVZDVDVHU01VQWZFYzdSMzNVTC1kMGtORVlERE13d0Mxd3lhRjhWZmJBcF9TSTI3TWhGSVk?oc=5)
-
-2026-11-09 <span class="news-indication-tag">失智</span>
-
-來源: [草根影響力新視野](https://news.google.com/rss/articles/CBMixwJBVV95cUxQS2NFLWdwUjI4Q3dkM0lLVFNycE5wbDdBdzZLbGpXOVJsUkZzU2JiNzhkZjVfaFI2X3V4VmtsRkdTeV9BSDlFRHFlTHVwLUc1UE9sUGlrWExhcXV0VDFYbGZ4UVZIYmRQYlVGdndmSkVBVnMtSTcxREZjLUEwWlJpdV91andBeC1NQmZ1cHdHZ3MxdWdiQzBkNGcwTDE0SXJ6dXFaR3JhemVVU0JrUDRFNnBoV2JRWjhIdXAwYnEtakg1Nm5TUDdxODFhNGhzZUZGeDhyaEUxY2pXRVpibHNiZFlwN2N4R0JqTlhFNlJLSm4wb3lYVV9IR3hCb0FTMk9kNG9uYUNCZEV1Tk5wX1RsS2E4UVZDVDVHU01VQWZFYzdSMzNVTC1kMGtORVlERE13d0Mxd3lhRjhWZmJBcF9TSTI3TWhGSVk?oc=5)
 
 ---
 

@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-12T17:24:53.524172+00:00",
-  "count": 48,
+  "fetched_at": "2026-11-12T22:59:20.208741+00:00",
+  "count": 45,
   "news": [
+    {
+      "id": "e264ab6fe36c",
+      "title": "女性每周重訓超過1時數 研究揭：重大心血管疾病風險降20% - AM730",
+      "published": "2026-11-12T09:30:00+00:00",
+      "summary": "女性每周重訓超過1時數 研究揭：重大心血管疾病風險降20%&nbsp;&nbsp;AM730女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%&nbsp;&nbsp;Yahoo新聞「肌肉1特徵」藏心臟健康線索！研究揭關聯 這類人心梗風險較低&nbsp;&nbsp;台視新聞網護心運動｜研究揭多操練2部位肌肉心臟病發率降31% 專家拆解「操肌護心」關鍵：重質不重量【附最佳運動時長建議】&nbsp;&nbsp;香港經濟日報HKET每天快走30分鐘就夠了？哈佛11萬人研究打臉：女性少做「這項運動」心血管保護少一大半&nbsp;&nbsp;TVBS 健康2.0",
+      "sources": [
+        {
+          "name": "AM730",
+          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5"
+        }
+      ]
+    },
     {
       "id": "90efd1a00892",
       "title": "IBD患者限制飲食仍發病？研究揭腸道菌相變化 消化食物能力恐受影響 - 健康醫療網",
@@ -12,18 +24,6 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UmZhdTdma2hVR2l3aFJrQWtOTExtRVpyaURjLURCdTBOTHE2TXdzT2h4LW1BaTBUN0ZRX0dpdHdQb3NWS1JGU2tOYVVEa2h0LUpveG1B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8aad94b8fb60",
-      "title": "女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20% - Yahoo新聞",
-      "published": "2026-11-11T11:00:00+00:00",
-      "summary": "女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%&nbsp;&nbsp;Yahoo新聞「肌肉1特徵」藏心臟健康線索！研究揭關聯 這類人心梗風險較低&nbsp;&nbsp;台視新聞網常運動就不會心梗？ 醫：健檢正常≠零風險！ | 運動 | 心肌梗塞| 陳建州&nbsp;&nbsp;台灣大紀元護心運動｜研究揭多操練2部位肌肉心臟病發率降31% 專家拆解「操肌護心」關鍵：重質不重量【附最佳運動時長建議】&nbsp;&nbsp;香港經濟日報HKET每天快走30分鐘就夠了？哈佛11萬人研究打臉：女性少做「這項運動」心血管保護少一大半&nbsp;&nbsp;TVBS 健康2.0",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb2ZzbTEzWjgtTUJiWURpSjJETm41QW9PbnQxNTlkclFON0wxcjBkYURUdW9LQkNkNkFfMVVUVVE5elhaMF9LN19Xb2hLcXV6QlZEcFQweDRlZTRyODBfWHMxaUx6UXJjYlJhT2oxSTNaU0RyUk9JVjBPdFFqdlpJVjVzOXpSLVJ4Mm1aa25BM3gxQ044Qm5wTnZ1WFNkajk0SjlPeFMyUzdRTGlEUHBGS1h3bnBRY0pGYzcxZVdvY0tCSHZ1cU5TNUkzWFU5X2VwMmlpS3duUkFEMkxHY2p4dFVRNG12c1JZSnhPU2xyejBReVYtdjZoWGJvemVubUZsTXJDQ0F2Q2dnNUlOYzlzbFl3c0hVaHR1WnVYQjVzNGlFNG1KUUNZbktzQU50THN2YWlEQUtRbVV3cVByLTQ1Nk9NQzVCT1Y2b0xMeWpHTUE4TnFOYXBGR1FJQlIwR1FlTVd5dmdCaFd5YXIyUjNz?oc=5"
         }
       ]
     },
@@ -40,14 +40,14 @@
       ]
     },
     {
-      "id": "06e28f185e12",
-      "title": "杭州女子檢出18種HPV亞型陽性 含10種高危型 - 大紀元",
-      "published": "2026-11-12T05:32:00+00:00",
-      "summary": "杭州女子檢出18種HPV亞型陽性 含10種高危型&nbsp;&nbsp;大紀元18歲妹私密處痛到影響生活！ 醫一查驚見18種HPV同時陽性&nbsp;&nbsp;Yahoo新聞私密處痛半個月！18歲女確診「18種HPV」 醫師也驚呆&nbsp;&nbsp;TVBS新聞網18歲少女染18種HPV遭質疑 醫師：極其少見 別急著貼標籤&nbsp;&nbsp;世界新聞網18歲少女私密處痛半個月！一查竟感染「18種HPV」 醫師驚呆&nbsp;&nbsp;ETtoday新聞雲",
+      "id": "fdd9e6ef46c2",
+      "title": "台灣人吃鮭魚最愛「用煎的」！營養跑光光，還容易產生致癌物？營養師教最安全煮法：留住Omega-3 - 幸福熟齡",
+      "published": "2026-11-11T04:43:00+00:00",
+      "summary": "台灣人吃鮭魚最愛「用煎的」！營養跑光光，還容易產生致癌物？營養師教最安全煮法：留住Omega-3&nbsp;&nbsp;幸福熟齡一堆人天天吃！營養師警告：「這樣煮鮭魚」根本在吞毒 | TVBS&nbsp;&nbsp;LINE TODAY煎鮭魚錯了！專家曝「正確煮法」：錯了反而致癌&nbsp;&nbsp;三立新聞網SETN.com鮭魚別再用煎的！營養師曝高溫烹調恐讓營養流失&nbsp;&nbsp;Yahoo新聞台人吃鮭魚愛用煎的 專家搖頭：水煮才能留住營養 - 健康&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LZEF6U3c4QXFhYUVqUGkwVXR3X2xrSXRTWUU4SlczUkFhQlUtLUp5cW9zdERCQ1E5T3o4bFhrenFXZGVDU3ZYbUN6bTR6X0xoMjkxb0lESUUtVTlnVVhzSUpB0gFnQVVfeXFMT3ZyekczNjdpS0RhQ2RLTTBUS1MwS0lxZ3RuaVM0c0MxU2p4RDRndV81UncxYmF6NERHemc0M0cxTGh2MGxqbXczdHAzRnVjY3ZhZTJlb1ZtaGpFMjU1b293UnRpVVJVQQ?oc=5"
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43SU5mOXVkQndkbVNRZjVORS1DT3dDNnJRcnZFWl82S0s0OGR0eWoySHlhX2VyT0huZEY4el9Gb0dNQlZnLVR1VjlHb0J6MTBOZWRBZVJUaDFUYlJ6Vy1XQ2dkcWllVk84QWxHZU05ZlVaRHR5NGlKbTdYUQ?oc=5"
         }
       ]
     },
@@ -64,14 +64,26 @@
       ]
     },
     {
-      "id": "fdd9e6ef46c2",
-      "title": "台灣人吃鮭魚最愛「用煎的」！營養跑光光，還容易產生致癌物？營養師教最安全煮法：留住Omega-3 - 幸福熟齡",
-      "published": "2026-11-11T04:43:00+00:00",
-      "summary": "台灣人吃鮭魚最愛「用煎的」！營養跑光光，還容易產生致癌物？營養師教最安全煮法：留住Omega-3&nbsp;&nbsp;幸福熟齡一堆人天天吃！營養師警告：「這樣煮鮭魚」根本在吞毒 | TVBS&nbsp;&nbsp;LINE TODAY煎鮭魚錯了！專家曝「正確煮法」：錯了反而致癌&nbsp;&nbsp;三立新聞網SETN.com鮭魚別再用煎的！營養師曝高溫烹調恐讓營養流失&nbsp;&nbsp;Yahoo新聞台人吃鮭魚愛用煎的 專家搖頭：水煮才能留住營養 - 健康&nbsp;&nbsp;中時新聞網",
+      "id": "f23c9e6cc4c8",
+      "title": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗 - 大紀元",
+      "published": "2026-11-12T14:11:00+00:00",
+      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元美CDC證實今年已6人死於麻疹 疫情創數十年來最嚴重 | 民視新聞網&nbsp;&nbsp;LINE TODAY大砍防疫人力、動搖疫苗政策嘗苦果 美國恐失「麻疹消除國」地位&nbsp;&nbsp;中時新聞網病毒傳播年餘 美已不具備麻疹根除資格&nbsp;&nbsp;Singtaousa泛美衛生組織審議美國麻疹疫情認定 相關決定預計下週初公佈&nbsp;&nbsp;觀點網",
       "sources": [
         {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43SU5mOXVkQndkbVNRZjVORS1DT3dDNnJRcnZFWl82S0s0OGR0eWoySHlhX2VyT0huZEY4el9Gb0dNQlZnLVR1VjlHb0J6MTBOZWRBZVJUaDFUYlJ6Vy1XQ2dkcWllVk84QWxHZU05ZlVaRHR5NGlKbTdYUQ?oc=5"
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhb0M5Zk9VcTEwUFNVbjdqZ3FxT1ZVQUVvOENGSU0wOWpDWGQ5U3c0cmp3ak5BX0kyb25MTkdwMXV6WWRyNVRnMWJYNDBNVFJWUXdGaS1iUmlDdGZRQnJKYmxn0gFnQVVfeXFMTUdnc3VLTUcwVmR4c3NFZGJUOHpIbG1GRlBEcHZHd2FWQ2U4TDFNdlB4clhCQjZMX0w0bVVWZW85SVgycWVRUUxlV1o4MThkRFUtX0lKckhyWXprV015UU41aG9IbE5zYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "534e121dab7b",
+      "title": "18歲妹私密處痛到影響生活！ 醫一查驚見18種HPV同時陽性 - Yahoo新聞",
+      "published": "2026-11-12T07:27:49+00:00",
+      "summary": "18歲妹私密處痛到影響生活！ 醫一查驚見18種HPV同時陽性&nbsp;&nbsp;Yahoo新聞杭州女子檢出18種HPV亞型陽性 含10種高危型&nbsp;&nbsp;大紀元私密處痛半個月！18歲女確診「18種HPV」 醫師也驚呆&nbsp;&nbsp;TVBS新聞網【18歲少女私密處痛半個月！一查竟感染「18種HPV」 醫師驚呆】 OMG... （#嘴邊肉）&nbsp;&nbsp;Facebook18歲少女染18種HPV遭質疑 醫師：極其少見 別急著貼標籤&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQRWdaUWJrQ0FYSThKNWFGSHhickVzSWxsZDdZeFhMSWgzSGN5SHQyaGZqY24zQ1ZEMllMbEdoT0NuYWMta0ZwR1Z5cE5BMnJCZWNVcDJYSUx4WE5vR2JQbVloSy1PSzJYUjBNY1lxQlZkR3JxUU1WemNnakljWDYzcE8zYU96Qjg5QjQyWDU5TEhXQ2JXQnpKa0RNNVBiWmNiV3lnZ3ktNGJDVzFkSUxERnNaN0R6eHJzd19BV2ZjdlhfaVdNdUdiRnZEcTFuMVhZWUN0SzRjUi14RUFzTVdjdnpSWjY0Z1pGblRCN0ZDeWtKOWsxc0xNb0U5dmhZcm53cERDcTdpYnhUcjV1N1dWdEhpcElMT0JQSkpIQnFQczVJWV9zYmpDd3NiNW14dGV4Rm4ycElhOEdHOFpEUDZpS1ZGVEpYX0xWU2YzNWotMA?oc=5"
         }
       ]
     },
@@ -88,14 +100,14 @@
       ]
     },
     {
-      "id": "ad754b8e85b4",
-      "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意 - Heho健康",
-      "published": "2026-11-12T04:55:11+00:00",
-      "summary": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意&nbsp;&nbsp;Heho健康防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55% | 科技新報&nbsp;&nbsp;LINE TODAY左流右新護健康 有效降低心血管風險&nbsp;&nbsp;Yahoo新聞",
+      "id": "2cdd4578ec9f",
+      "title": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索 - 元氣網",
+      "published": "2026-11-08T08:41:42+00:00",
+      "summary": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "Heho健康",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5"
         }
       ]
     },
@@ -108,30 +120,6 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90YU53bDNKdDRVbHU2ZDNrMzhlNWJ5UjBDN21jWXFXUHZxVnFxdnp6U21iRWdlSnRuZ0JFdEtaMkVvMFVpbG5GRXBvRVB2Ym9SNUxqU3VpR1h5SmRpRHh3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f23c9e6cc4c8",
-      "title": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗 - 大紀元",
-      "published": "2026-11-12T14:11:00+00:00",
-      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhb0M5Zk9VcTEwUFNVbjdqZ3FxT1ZVQUVvOENGSU0wOWpDWGQ5U3c0cmp3ak5BX0kyb25MTkdwMXV6WWRyNVRnMWJYNDBNVFJWUXdGaS1iUmlDdGZRQnJKYmxn0gFnQVVfeXFMTUdnc3VLTUcwVmR4c3NFZGJUOHpIbG1GRlBEcHZHd2FWQ2U4TDFNdlB4clhCQjZMX0w0bVVWZW85SVgycWVRUUxlV1o4MThkRFUtX0lKckhyWXprV015UU41aG9IbE5zYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2cdd4578ec9f",
-      "title": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索 - 元氣網",
-      "published": "2026-11-08T08:41:42+00:00",
-      "summary": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5"
         }
       ]
     },
@@ -160,6 +148,18 @@
       ]
     },
     {
+      "id": "ad754b8e85b4",
+      "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意 - Heho健康",
+      "published": "2026-11-12T04:55:11+00:00",
+      "summary": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意&nbsp;&nbsp;Heho健康前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "Heho健康",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "02747fda103b",
       "title": "美研究發現特殊蛋白質弱點 有望為攝護腺癌開創治療新方向 - 自由健康網",
       "published": "2026-11-11T05:52:00+00:00",
@@ -184,30 +184,6 @@
       ]
     },
     {
-      "id": "4e66939d3bd1",
-      "title": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動 - ELLE",
-      "published": "2026-11-09T09:54:22+00:00",
-      "summary": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55f132f4a2e1",
-      "title": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-11-09T09:29:16+00:00",
-      "summary": "暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了&nbsp;&nbsp;三立新聞網SETN.com",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4tRWd6b2FDdHAyMmVpSjllS3ZORndvd1hEYV9JckFWYnFwYmt0ZU0wSUFHYnY4WC16dW5Yenl6M3JaS1lTemo2dmh1U3g4aWhLcU92Q1RB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7eb942038aeb",
       "title": "運動腫瘤學受重視！可省醫療支出為何拿不到保險給付| 紐時風格 - 聯合報數位版",
       "published": "2026-11-08T04:00:00+00:00",
@@ -220,14 +196,26 @@
       ]
     },
     {
-      "id": "ffd7fd56366d",
-      "title": "聽力損失與失智風險有關？醫解析可能原因 助聽器選配有學問 - 草根影響力新視野",
-      "published": "2026-11-09T04:19:29+00:00",
-      "summary": "聽力損失與失智風險有關？醫解析可能原因 助聽器選配有學問&nbsp;&nbsp;草根影響力新視野",
+      "id": "5bb9f5416a03",
+      "title": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了 - 三立新聞網SETN.com",
+      "published": "2026-11-11T03:15:39+00:00",
+      "summary": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了&nbsp;&nbsp;三立新聞網SETN.com暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY鹽昆布爆紅！會害甲狀腺失控？專業醫解答&nbsp;&nbsp;鏡週刊Mirror Media",
       "sources": [
         {
-          "name": "草根影響力新視野",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQS2NFLWdwUjI4Q3dkM0lLVFNycE5wbDdBdzZLbGpXOVJsUkZzU2JiNzhkZjVfaFI2X3V4VmtsRkdTeV9BSDlFRHFlTHVwLUc1UE9sUGlrWExhcXV0VDFYbGZ4UVZIYmRQYlVGdndmSkVBVnMtSTcxREZjLUEwWlJpdV91andBeC1NQmZ1cHdHZ3MxdWdiQzBkNGcwTDE0SXJ6dXFaR3JhemVVU0JrUDRFNnBoV2JRWjhIdXAwYnEtakg1Nm5TUDdxODFhNGhzZUZGeDhyaEUxY2pXRVpibHNiZFlwN2N4R0JqTlhFNlJLSm4wb3lYVV9IR3hCb0FTMk9kNG9uYUNCZEV1Tk5wX1RsS2E4UVZDVDVHU01VQWZFYzdSMzNVTC1kMGtORVlERE13d0Mxd3lhRjhWZmJBcF9TSTI3TWhGSVk?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc3hpZ3cyLVZZN0R0YWF3bmFUR2tvaktNMzhKQm11WlZKeDlmek5pRktVdnV5WmhSQUVTdUwtSTB6dGczQTlqNGxwOHQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e66939d3bd1",
+      "title": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動 - ELLE",
+      "published": "2026-11-09T09:54:22+00:00",
+      "summary": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5"
         }
       ]
     },
@@ -256,18 +244,6 @@
       ]
     },
     {
-      "id": "59f9fc4ae310",
-      "title": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際 - 中央社 CNA",
-      "published": "2026-11-09T11:03:00+00:00",
-      "summary": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際&nbsp;&nbsp;中央社 CNA",
-      "sources": [
-        {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WalhtTGRJZ2hOaGNhVE9ZSW9FdFhucEhwNWJ6amZWVkg0SmZ5eTZLT3QyMFdhTGp3aTRWOVV6RzRpR3Y3YXA3TDFOOC1kSHJnUjJXS3YzX0I2MmlzOHhF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "74932a9abed9",
       "title": "以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY",
       "published": "2026-11-08T15:28:33+00:00",
@@ -276,6 +252,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "59f9fc4ae310",
+      "title": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際 - 中央社 CNA",
+      "published": "2026-11-09T11:03:00+00:00",
+      "summary": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際&nbsp;&nbsp;中央社 CNA",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WalhtTGRJZ2hOaGNhVE9ZSW9FdFhucEhwNWJ6amZWVkg0SmZ5eTZLT3QyMFdhTGp3aTRWOVV6RzRpR3Y3YXA3TDFOOC1kSHJnUjJXS3YzX0I2MmlzOHhF?oc=5"
         }
       ]
     },
@@ -316,10 +304,10 @@
       ]
     },
     {
-      "id": "a55aa536734d",
-      "title": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物 連吃10星期19種發炎指標全下降！ - 星島頭條",
+      "id": "b8fb3e1da25c",
+      "title": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物連吃10星期19種發炎指標全下降！ - 星島頭條",
       "published": "2026-11-09T01:00:00+00:00",
-      "summary": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物 連吃10星期19種發炎指標全下降！&nbsp;&nbsp;星島頭條",
+      "summary": "狂吃蔬菜未必夠？研究揭保養腸道必吃1種食物連吃10星期19種發炎指標全下降！&nbsp;&nbsp;星島頭條",
       "sources": [
         {
           "name": "星島頭條",
@@ -352,18 +340,6 @@
       ]
     },
     {
-      "id": "6b1662026222",
-      "title": "流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退 - 自由健康網",
-      "published": "2026-11-11T04:17:00+00:00",
-      "summary": "流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fd33422cad0e",
       "title": "飲果汁未必等於食水果？ 研究揭果汁與心血管疾病關聯完整水果或更護心 - 巴士的報",
       "published": "2026-11-11T22:40:21+00:00",
@@ -388,6 +364,18 @@
       ]
     },
     {
+      "id": "6b1662026222",
+      "title": "流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退 - 自由健康網",
+      "published": "2026-11-11T04:17:00+00:00",
+      "summary": "流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1f25ab14e939",
       "title": "骨質疏鬆年輕化？35歲女日飲兩杯咖啡少運動 打噴嚏後竟肋骨骨折 - AM730",
       "published": "2026-11-12T05:30:00+00:00",
@@ -402,7 +390,7 @@
     {
       "id": "5664d5c12ba7",
       "title": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天 - UHK 港生活",
-      "published": "2026-11-12T11:34:47+00:00",
+      "published": "2026-11-12T11:34:48+00:00",
       "summary": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
@@ -420,18 +408,6 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQVUNqekFBbkkxVm5PaUxTNFVnSlZPNElTUi1WT3ZVZ2ZKUDJMMXRHWW1NREdxQ3hYRmxDdEROYTFRTndzMk0yZll4MFBLWDRaczliMHdSbnhCejdJbnVESmpPUGxpazItSjZremVENjU4VVNTZWFHcExKYlJWMnhwSTRQcEN3OWdrQWJZY1c1TFM4b0lfUXpLbldQTHo2S3JhNlZ0S2FqR2pvbVdQbGRIcnI1Nkl4Z3FHLWdrYjFDXy1TTEJFU0Zwa0dsT2xGTUtjWWRxdGtOQ3RSRWc0Q0k2VW9WM1VKekZROTJtZ3BET0FGYS1XMWd3Z1ZhS2F4dmh4UE1DVUIyZnFfUXpmaElZbWlrTlV0RTU0b2N4VUg0dXoyLUlzd3FOUkZSbEpRcVhqUW1tQ0xFYVAyRThMaEFubUNKVEIzN0lhUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "95c4d839d020",
-      "title": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國 - 巴士的報",
-      "published": "2026-11-05T21:30:01+00:00",
-      "summary": "赴峇里島度假突患腦膜炎併發肺炎命危 澳23歲網紅留醫9 日記憶力衰退難返國&nbsp;&nbsp;巴士的報前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQcmNXQk9kNlplc0diWm1OT0JXYmk1X1BLR2ZJUk9jOWhkWUdCeFlrUVdrTDNNYnlmVU41QUhfT21UUnIyeV9PbE0yZmo2aXo1bzcxQzFFdnVCVzU0RjV6clU5RXFPd3N2alI2cFdLd0o2Y2h5SGRTZkd6alVWUUJaVHBEd3o4NjlIODZORHBxak5TVEpDLW1KVzh0TUx6aDJZR0FpVXJBOU92SnZ0TTRTdmhTNzZYVW9BWktrS24zNm1DZ2lTTEFTR2NDV053NG5UcFRIbGNfSk9iRUZNWURqLW5yLS1QNEZFR1dPSlVhWVJCallxUGFJU1ZSdFdPbUFteVU3ZTMzRF9EZG9LdEx1S2dQU2JwY0VmYVlVS0tzQ2k5Z1ZDTjVXcTlmTkR4RGVJSzVDUTVQaHJBNDg2UWlZemp2NUhLWWVPWjRZQ09UZy1TWUZ0djhCRkotcDFYNWNySkdWNDZxSXc1dU5FUDZJXw?oc=5"
         }
       ]
     },
@@ -468,18 +444,6 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c30132af061a",
-      "title": "讓骨折快速康復的全新方法 - 大紀元",
-      "published": "2026-11-06T01:01:00+00:00",
-      "summary": "讓骨折快速康復的全新方法&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iWGV3aHNfdHdsc0N0dEZpTDFDbFNXUktkSExkc0h5N3JRa2Ntdm9hVkRJamY0LUczMG9kYjlmNXVRd0s3dlFkajE1VjFQR1VMTDl4OHFtdl9PRkZqX3lIUjJ30gFnQVVfeXFMTzBoVHJZSE9PanJLNUFtdVlRc1pVY1M3RTlic19qQXR1ekNOTlRlb1JOUGs0UUNFTzhZaTFhQ0VHdjBCRkJRcm91ZkxYRHpnUkpJSXlZM0VfM2JTcUpVSWEtS19zUmQ2SQ?oc=5"
         }
       ]
     },
