@@ -995,6 +995,7 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - 吃等級的衍生檔都從藥物頁頁首重算，頁面重產後要一起跑：`scripts/generate_drug_stats.py`（`docs/_data/drug_stats.json`，首頁圖表）、`scripts/generate_data_exports.py`（`docs/data/drugs*.json/csv`）、`scripts/generate_download_data.py`（`docs/downloads/`）、`scripts/build_lookup_pages.py`（`tw-availability.md`、`nct-lookup.md`）、`scripts/generate_search_index.py --levels-from-pages`（搜尋索引的藥物層等級）；`scripts/generate_fhir_resources.py --sync-from-files`（FHIR MedicationKnowledge 等級對頁首、拿掉 noindex／轉址頁的藥、Bundle 與 metadata 數字對實際檔案，2026-11-03 起，gate 第 7e 項檢查）；新聞頁由新聞排程依 `docs/data/drugs.json` 重產。公開頁面上的藥物總數與等級分布數字一律用 Liquid 讀 `site.data.drug_stats`（`total_drugs`、`level_counts`），不要手寫；不能用 Liquid 的地方（front matter `description`、ld+json `numberOfItems`、`README.md`、`CITATION.cff` 等）列在 `scripts/generate_drug_stats.py` 的 `COUNT_SPOTS`，由該腳本改寫，gate 第 7c 項檢查。新增這類數字時要嘛用 Liquid，要嘛加進 `COUNT_SPOTS`。
 - 同 id 重發的紀錄：前版整筆存進該筆的 `history`（`retired`、`reason`），不覆蓋丟棄；頁面停在前版更正文字時，套用會把它換成新版。
 - 待查清單 `docs/_data/drug_reviews_uncertain.json` 的項目不刪：查清標 `status: resolved`（附 `record_ids`），查不出定論標 `status: unresolvable`（附 `searched`、`unresolvable_reason`）。
+- 2026-11-12 正文張數對 TFDA 快照再掃一次：oxytetracycline 兩句（「有效許可證僅 1 張口服膠囊」，實際 3 張含 1 張皮膚外用軟膏）以 `oxytetracycline-*-2026-11-12` 更正；`urea-dpp4-not-urea-derivative-2026-10-03` 同 id 重發（更正文字的「上表 4 張」在程式化許可證表依主成分比對後已不成立）。其餘「N 張」敘述由 `page_postprocess.rewrite_count_prose` 產生，跟快照一致。
 
 ## 藥物頁許可證表與張數：程式產生（2026-10-03 起）
 

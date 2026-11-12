@@ -160,11 +160,11 @@ evidence_level: N/A
 
 <!-- tfda-licenses:end -->
 
-**備註**：上表 4 張是 DPP-4 抑制劑，主成分不含 urea，也不是 urea 衍生物；目前有效的 urea 製劑主要是去角質用的尿素乳膏（如優親水軟膏、膚可優乳膏）。
+**備註**：DPP-4 抑制劑主成分不含 urea，也不是 urea 衍生物；目前有效的 urea 製劑主要是去角質用的尿素乳膏（如優親水軟膏、膚可優乳膏）。
 
 <!-- review:begin urea-dpp4-not-urea-derivative-2026-10-03 -->
 
-> **查核更正（2026-10-03）**：原寫「**備註**：現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑，與純 urea 的藥理作用不同。」。上表 4 張 DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物）。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。依據：[NLM MeSH：Vildagliptin（D000077597）](https://meshb.nlm.nih.gov/record/ui?ui=D000077597)；[NLM MeSH：Sitagliptin Phosphate（D000068900）](https://meshb.nlm.nih.gov/record/ui?ui=D000068900)；[NLM MeSH：Linagliptin（D000069476）](https://meshb.nlm.nih.gov/record/ui?ui=D000069476)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+> **查核更正（2026-11-12）**：原寫「**備註**：現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑，與純 urea 的藥理作用不同。」。DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物），上方許可證表依主成分比對，不收這些許可證。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。依據：[NLM MeSH：Vildagliptin（D000077597）](https://meshb.nlm.nih.gov/record/ui?ui=D000077597)；[NLM MeSH：Sitagliptin Phosphate（D000068900）](https://meshb.nlm.nih.gov/record/ui?ui=D000068900)；[NLM MeSH：Linagliptin（D000069476）](https://meshb.nlm.nih.gov/record/ui?ui=D000069476)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
 <!-- review:end urea-dpp4-not-urea-derivative-2026-10-03 -->
 
@@ -236,7 +236,7 @@ evidence_level: N/A
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-10-03 | 備註「現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑」 | 更正 | [NLM MeSH：Vildagliptin（D000077597）](https://meshb.nlm.nih.gov/record/ui?ui=D000077597)；[NLM MeSH：Sitagliptin Phosphate（D000068900）](https://meshb.nlm.nih.gov/record/ui?ui=D000068900)；[NLM MeSH：Linagliptin（D000069476）](https://meshb.nlm.nih.gov/record/ui?ui=D000069476)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-12 | 備註「現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑」 | 更正（2026-11-12 修訂，前版保留於紀錄） | [NLM MeSH：Vildagliptin（D000077597）](https://meshb.nlm.nih.gov/record/ui?ui=D000077597)；[NLM MeSH：Sitagliptin Phosphate（D000068900）](https://meshb.nlm.nih.gov/record/ui?ui=D000068900)；[NLM MeSH：Linagliptin（D000069476）](https://meshb.nlm.nih.gov/record/ui?ui=D000069476)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 快速總覽「多為已註銷；少數含 urea 衍生物藥品有效」 | 許可證表程式修正後已無此錯誤（2026-10-29：「台灣上市狀態」列改由程式依 TFDA 許可證事實產生：上市中（有效許可證 42 張／共 80 張），本紀錄指出的上市狀態錯誤已不存在（2026-10-29 用戶核准的處理方式）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->

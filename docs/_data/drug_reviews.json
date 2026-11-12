@@ -9720,14 +9720,14 @@
    "id": "urea-dpp4-not-urea-derivative-2026-10-03",
    "drug": "urea",
    "file": "urea.md",
-   "checked": "2026-10-03",
+   "checked": "2026-11-12",
    "action": "correct",
    "section": "台灣上市資訊",
    "summary": "備註「現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑」",
    "claim": "**備註**：現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑，與純 urea 的藥理作用不同。",
-   "replacement": "**備註**：上表 4 張是 DPP-4 抑制劑，主成分不含 urea，也不是 urea 衍生物；目前有效的 urea 製劑主要是去角質用的尿素乳膏（如優親水軟膏、膚可優乳膏）。",
-   "finding": "上表 4 張 DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物）。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。",
-   "note": "上表 4 張 DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物）。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。",
+   "replacement": "**備註**：DPP-4 抑制劑主成分不含 urea，也不是 urea 衍生物；目前有效的 urea 製劑主要是去角質用的尿素乳膏（如優親水軟膏、膚可優乳膏）。",
+   "finding": "原句說現行有效藥品多為「含 urea 結構衍生物的 DPP-4 抑制劑」。DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物）；程式化許可證表依主成分比對，不收這些許可證。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。",
+   "note": "DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物），上方許可證表依主成分比對，不收這些許可證。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。",
    "sources": [
     {
      "title": "NLM MeSH：Vildagliptin（D000077597）",
@@ -9764,6 +9764,61 @@
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
      "excerpt": "許可證字號 衛部藥製字第058228號｜中文品名 膚可優乳膏｜英文品名 Fluco-U Cream｜主成分略述 UREA｜適應症 去角質。｜有效日期 2029/03/14",
      "accessed": "2026-10-03"
+    }
+   ],
+   "history": [
+    {
+     "id": "urea-dpp4-not-urea-derivative-2026-10-03",
+     "drug": "urea",
+     "file": "urea.md",
+     "checked": "2026-10-03",
+     "action": "correct",
+     "section": "台灣上市資訊",
+     "summary": "備註「現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑」",
+     "claim": "**備註**：現行有效藥品多為含有 urea 結構衍生物的 DPP-4 抑制劑，與純 urea 的藥理作用不同。",
+     "replacement": "**備註**：上表 4 張是 DPP-4 抑制劑，主成分不含 urea，也不是 urea 衍生物；目前有效的 urea 製劑主要是去角質用的尿素乳膏（如優親水軟膏、膚可優乳膏）。",
+     "finding": "上表 4 張 DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物）。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。",
+     "note": "上表 4 張 DPP-4 抑制劑主成分不含 urea，依 NLM MeSH 也不是 urea 衍生物（vildagliptin 為 pyrrolidine-carbonitrile 衍生物、sitagliptin 為 pyrazine 衍生物、linagliptin 為 purine／quinazoline 衍生物）。TFDA 資料集中目前有效的 urea 製劑是去角質用尿素乳膏，如 衛署藥製字第032481號 優親水軟膏、衛部藥製字第058228號 膚可優乳膏。",
+     "sources": [
+      {
+       "title": "NLM MeSH：Vildagliptin（D000077597）",
+       "url": "https://meshb.nlm.nih.gov/record/ui?ui=D000077597",
+       "excerpt": "A pyrrolidine-carbonitrile derivative and potent inhibitor of DIPEPTIDYL PEPTIDASE 4 that is used in the treatment of TYPE 2 DIABETES MELLITUS.",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "NLM MeSH：Sitagliptin Phosphate（D000068900）",
+       "url": "https://meshb.nlm.nih.gov/record/ui?ui=D000068900",
+       "excerpt": "A pyrazine-derived DIPEPTIDYL-PEPTIDASE IV INHIBITOR and HYPOGLYCEMIC AGENT that increases the levels of the INCRETIN hormones GLUCAGON-LIKE PEPTIDE-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP).",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "NLM MeSH：Linagliptin（D000069476）",
+       "url": "https://meshb.nlm.nih.gov/record/ui?ui=D000069476",
+       "excerpt": "A purine and quinazoline derivative that functions as an INCRETIN and DIPEPTIDYL-PEPTIDASE IV INHIBTOR.",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥製字第061933號｜中文品名 達降醣錠 50毫克｜英文品名 Vigliptin Tablets 50mg｜主成分略述 VILDAGLIPTIN｜適應症 第2型糖尿病： 作為單一治療 -針對僅經 ...｜有效日期 2030/02/17",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛署藥製字第032481號｜中文品名 優親水軟膏１５０公絲/公克（尿素）｜英文品名 U.H. OINTMENT 150MG/GM (UREA)｜主成分略述 UREA｜適應症 可溶解角質、使乾裂魚鱗化等表皮軟化、防止乾裂｜有效日期 2030/03/21",
+       "accessed": "2026-10-03"
+      },
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 衛部藥製字第058228號｜中文品名 膚可優乳膏｜英文品名 Fluco-U Cream｜主成分略述 UREA｜適應症 去角質。｜有效日期 2029/03/14",
+       "accessed": "2026-10-03"
+      }
+     ],
+     "retired": "2026-11-12",
+     "reason": "更正文字寫「上表 4 張是 DPP-4 抑制劑」；10-03 之後許可證表改由程式依主成分比對產生，已不收這 4 張 DPP-4 抑制劑，「上表 4 張」不再成立"
     }
    ]
   },
@@ -14683,6 +14738,48 @@
    "status": "resolved_by_regeneration",
    "resolved_on": "2026-10-16",
    "resolved_note": "報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算"
+  },
+  {
+   "id": "oxytetracycline-valid-licenses-2026-11-12",
+   "drug": "oxytetracycline",
+   "file": "oxytetracycline.md",
+   "checked": "2026-11-12",
+   "action": "correct",
+   "section": "結論與下一步",
+   "summary": "理由寫「目前台灣有效許可證僅 1 張口服膠囊，與外用劑型不符」",
+   "claim": "此外，目前台灣有效許可證僅 1 張口服膠囊，與外用劑型不符。",
+   "replacement": "此外，目前台灣有效許可證 3 張：口服膠囊 2 張、皮膚外用軟膏 1 張（衛署藥製字第055116號，適應症為皮膚刀傷、刮傷、燙傷之感染），沒有耳用製劑。",
+   "finding": "TFDA 資料集（2026-09-29）主成分含 oxytetracycline 的有效許可證 3 張（皆單方）：內衛藥製字第006780號、衛署藥製字第001165號（膠囊劑）、衛署藥製字第055116號（外用軟膏，適應症皮膚外傷感染）。原句的張數與「與外用劑型不符」都跟資料不符；有外用軟膏，但沒有耳用製劑。決策（Hold）不變。",
+   "note": "TFDA 全部藥品許可證資料集（2026-09-29）主成分含 oxytetracycline 的有效許可證有 3 張：口服膠囊 2 張、皮膚外用軟膏 1 張（衛署藥製字第055116號，適應症為皮膚刀傷、刮傷、燙傷之感染）；沒有耳用製劑。決策維持 Hold。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第006780號｜\"利達\" 鹽酸羥四環素膠囊２５０公絲｜膠囊劑｜有效（至 2029/05/25） ／ 許可證字號 衛署藥製字第001165號｜鹽酸羥四環素膠囊｜膠囊劑｜有效（至 2029/05/25） ／ 許可證字號 衛署藥製字第055116號｜“羅得”塩酸羥四環素外用軟膏｜軟膏劑｜有效（至 2030/07/16）｜適應症 急救、預防及減緩皮膚刀傷、刮傷、燙傷之感染。",
+     "accessed": "2026-11-12"
+    }
+   ]
+  },
+  {
+   "id": "oxytetracycline-route-licenses-2026-11-12",
+   "drug": "oxytetracycline",
+   "file": "oxytetracycline.md",
+   "checked": "2026-11-12",
+   "action": "correct",
+   "section": "結論與下一步",
+   "summary": "「目前台灣有效許可證為口服膠囊」",
+   "claim": "（目前台灣有效許可證為口服膠囊）",
+   "replacement": "（目前台灣有效許可證為口服膠囊 2 張、皮膚外用軟膏 1 張，沒有耳用製劑）",
+   "finding": "同上：有效許可證除口服膠囊外另有 1 張皮膚外用軟膏（衛署藥製字第055116號）。",
+   "note": "TFDA 全部藥品許可證資料集（2026-09-29）的有效許可證另有 1 張皮膚外用軟膏（衛署藥製字第055116號），沒有耳用製劑。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第006780號｜\"利達\" 鹽酸羥四環素膠囊２５０公絲｜膠囊劑｜有效（至 2029/05/25） ／ 許可證字號 衛署藥製字第001165號｜鹽酸羥四環素膠囊｜膠囊劑｜有效（至 2029/05/25） ／ 許可證字號 衛署藥製字第055116號｜“羅得”塩酸羥四環素外用軟膏｜軟膏劑｜有效（至 2030/07/16）｜適應症 急救、預防及減緩皮膚刀傷、刮傷、燙傷之感染。",
+     "accessed": "2026-11-12"
+    }
+   ]
   },
   {
    "id": "paclitaxel-header-level-2026-10-04",
