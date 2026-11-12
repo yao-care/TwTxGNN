@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
 
 2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">心肌梗塞</span>
 
 來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
+
+---
+
+### [女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb2ZzbTEzWjgtTUJiWURpSjJETm41QW9PbnQxNTlkclFON0wxcjBkYURUdW9LQkNkNkFfMVVUVVE5elhaMF9LN19Xb2hLcXV6QlZEcFQweDRlZTRyODBfWHMxaUx6UXJjYlJhT2oxSTNaU0RyUk9JVjBPdFFqdlpJVjVzOXpSLVJ4Mm1aa25BM3gxQ044Qm5wTnZ1WFNkajk0SjlPeFMyUzdRTGlEUHBGS1h3bnBRY0pGYzcxZVdvY0tCSHZ1cU5TNUkzWFU5X2VwMmlpS3duUkFEMkxHY2p4dFVRNG12c1JZSnhPU2xyejBReVYtdjZoWGJvemVubUZsTXJDQ0F2Q2dnNUlOYzlzbFl3c0hVaHR1WnVYQjVzNGlFNG1KUUNZbktzQU50THN2YWlEQUtRbVV3cVByLTQ1Nk9NQzVCT1Y2b0xMeWpHTUE4TnFOYXBGR1FJQlIwR1FlTVd5dmdCaFd5YXIyUjNz?oc=5)
+
+2026-11-11 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">心臟病發</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb2ZzbTEzWjgtTUJiWURpSjJETm41QW9PbnQxNTlkclFON0wxcjBkYURUdW9LQkNkNkFfMVVUVVE5elhaMF9LN19Xb2hLcXV6QlZEcFQweDRlZTRyODBfWHMxaUx6UXJjYlJhT2oxSTNaU0RyUk9JVjBPdFFqdlpJVjVzOXpSLVJ4Mm1aa25BM3gxQ044Qm5wTnZ1WFNkajk0SjlPeFMyUzdRTGlEUHBGS1h3bnBRY0pGYzcxZVdvY0tCSHZ1cU5TNUkzWFU5X2VwMmlpS3duUkFEMkxHY2p4dFVRNG12c1JZSnhPU2xyejBReVYtdjZoWGJvemVubUZsTXJDQ0F2Q2dnNUlOYzlzbFl3c0hVaHR1WnVYQjVzNGlFNG1KUUNZbktzQU50THN2YWlEQUtRbVV3cVByLTQ1Nk9NQzVCT1Y2b0xMeWpHTUE4TnFOYXBGR1FJQlIwR1FlTVd5dmdCaFd5YXIyUjNz?oc=5)
 
 ---
 

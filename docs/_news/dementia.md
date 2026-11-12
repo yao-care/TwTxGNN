@@ -32,14 +32,6 @@ last_modified_at: 2026-11-12
 
 ## 相關新聞（5 則）
 
-### [大腦活動藏失智警訊！美研究開發系統提前評估阿茲海默症風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POEx0cl9fV0ZidVl2dHVMWjV4Ynlfckx3R3BtLVEwSWVxTkI2bGRZZ3hhcEVfRzlITjBxUVhZQlRMVWdURGRUWFd5NHFnYldPcmEtWkpkcE1MRDRuQkJRSVlwUEw?oc=5)
-
-2026-11-12
-
-來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POEx0cl9fV0ZidVl2dHVMWjV4Ynlfckx3R3BtLVEwSWVxTkI2bGRZZ3hhcEVfRzlITjBxUVhZQlRMVWdURGRUWFd5NHFnYldPcmEtWkpkcE1MRDRuQkJRSVlwUEw?oc=5)
-
----
-
 ### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
 
 2026-11-12
@@ -64,11 +56,19 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 2026-11-08
 
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
+
+---
+
+### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
+
+2026-11-08
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
 
 ---
 

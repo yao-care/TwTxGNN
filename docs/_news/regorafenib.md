@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Regorafenib 有什麼相關新聞？">
-<strong>Regorafenib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Regorafenib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/regorafenib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [專家提醒：甲狀腺腫瘤患者需重視定期隨訪](https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5)
+
+2026-11-12 <span class="news-indication-tag">腫瘤</span>
+
+來源: [人民网-上海频道](https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5)
+
+---
 
 ### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
 
@@ -83,11 +91,11 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [浙江女用筋膜槍減肥 竟查出「婦癌之王」](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5TFNoOGpsb3M1WS1qZGFVQnJOb1R6RHBUdl9BZGJHczhWcF83NW8yNDN6LXcteUNQRmVTbDJ0VElSRFBsNmRQM3dpdWxtaFRrMEVRZ2NlOUNzVEstc1lLcdIBZkFVX3lxTE9vR1NVQ2ZtRV9WSUhBeUItdTVyb0ZfTkZCNFR2V2Ewd0dHa0NWODh2RklxakN3RThiNWJ0R3BDbVpvVkVLamZhdVEwTlNPZ1ZTdTQtdlpkME5JTTRrbU9JOGZCYTlWdw?oc=5)
+### [肚腩變大誤當贅肉 浙江婦每日用筋膜槍敲打「消脂」 求醫確診卵巢癌](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSFhkQk5UejJScWRVMlhHeWQtby1XaGtjdER3MldBQUZxc3FMQVc3T21iZnB2cExpMnpHdTJFTVI0bnFnT0FkSUctY2JKNU1XMFRLakwzMHpaYWJFcm1DRkx5bFlwVnJGSGF6TEFuY2p1VG9FZVdad2tMWEVnOG13MHpRdXFTdmtzc2pJOHlFNHdWa0ZPRnpueUM5Uy03UGpvSHFRSEZFdC05ejlqMEY1RHJKLUtCLVhWTXlVUzA2Zm5MVmdSU2FHVWxfQUk4MllrRzR4MUplSHRxUmdDUUl0VE1KODRCZ1FGZ3V0NVBVbDZzTU45blZDNHZxd1Y0TWJBemRFRm4wcHI5VU1MUzRkTEZYcUd6Mmw1Z1htOGtCSWFFR1R6VWNab3dKRTlXaTZUNDBqaFZYNlNXZHlTYklCbjg5Vy1WMU5DcGNIYkdiN3JNU21JbldTN1piSHpmLXlBQjRmSTNhaTVnaFNRaERN?oc=5)
 
-2026-11-05 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
+2026-11-07 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
 
-來源: [新唐人電視台](https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5TFNoOGpsb3M1WS1qZGFVQnJOb1R6RHBUdl9BZGJHczhWcF83NW8yNDN6LXcteUNQRmVTbDJ0VElSRFBsNmRQM3dpdWxtaFRrMEVRZ2NlOUNzVEstc1lLcdIBZkFVX3lxTE9vR1NVQ2ZtRV9WSUhBeUItdTVyb0ZfTkZCNFR2V2Ewd0dHa0NWODh2RklxakN3RThiNWJ0R3BDbVpvVkVLamZhdVEwTlNPZ1ZTdTQtdlpkME5JTTRrbU9JOGZCYTlWdw?oc=5)
+來源: [巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSFhkQk5UejJScWRVMlhHeWQtby1XaGtjdER3MldBQUZxc3FMQVc3T21iZnB2cExpMnpHdTJFTVI0bnFnT0FkSUctY2JKNU1XMFRLakwzMHpaYWJFcm1DRkx5bFlwVnJGSGF6TEFuY2p1VG9FZVdad2tMWEVnOG13MHpRdXFTdmtzc2pJOHlFNHdWa0ZPRnpueUM5Uy03UGpvSHFRSEZFdC05ejlqMEY1RHJKLUtCLVhWTXlVUzA2Zm5MVmdSU2FHVWxfQUk4MllrRzR4MUplSHRxUmdDUUl0VE1KODRCZ1FGZ3V0NVBVbDZzTU45blZDNHZxd1Y0TWJBemRFRm4wcHI5VU1MUzRkTEZYcUd6Mmw1Z1htOGtCSWFFR1R6VWNab3dKRTlXaTZUNDBqaFZYNlNXZHlTYklCbjg5Vy1WMU5DcGNIYkdiN3JNU21JbldTN1piSHpmLXlBQjRmSTNhaTVnaFNRaERN?oc=5)
 
 ---
 
