@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Avelumab 的相關健康新聞報導。原適應症：轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎...。預測適應症 10 個。"
 permalink: /news/avelumab/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Avelumab 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/avelumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
 
 ### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
 
@@ -61,14 +61,6 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [五十歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTnI5OWo5clkwY3NkVGpNcmFLWDZQTGp1cjdIQWFvakk3elZZdDhUd2xKWDVoZ1lyU0NHT3lOYmdQQlpjTWlFUDA2eFluSldTVlRYM3RoZDFBQ3ZWNUs0?oc=5)
-
-2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [大紀元時報香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTnI5OWo5clkwY3NkVGpNcmFLWDZQTGp1cjdIQWFvakk3elZZdDhUd2xKWDVoZ1lyU0NHT3lOYmdQQlpjTWlFUDA2eFluSldTVlRYM3RoZDFBQ3ZWNUs0?oc=5)
-
----
-
 ### [早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5)
 
 2026-11-08 <span class="news-indication-tag">腫瘤</span>
@@ -77,11 +69,27 @@ last_modified_at: 2026-11-11
 
 ---
 
+### [50歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
+
+2026-11-08 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
+
+---
+
 ### [運動腫瘤學受重視！可省醫療支出為何拿不到保險給付| 紐時風格](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
 
 2026-11-08 <span class="news-indication-tag">腫瘤</span>
 
 來源: [聯合報數位版](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Sb3ZMbUVzeTU4RGJLemp3Um9KVlRVUkpqQ3hqOW9USENjYmRkdnN0NVhidzdJUFQxTG8yMGtVbUJnd2Y4TXhBSG1HeVVlRnVqODNPclJqdw?oc=5)
+
+---
+
+### [糖友只控血糖還不夠！小心皮蛇侵犯眼部，恐威脅視力ft歐弘毅醫師中華民國糖尿病衛教學會理事長](https://news.google.com/rss/articles/CBMixgRBVV95cUxQX3hwbEFRNGNsX1dxSXk5SE1oNjFXZ0ozWWp4Zl9uajYxTDFPZUJUZjB6N1NQOW9IN0dXWTFNcVdYMFVBZlRhZHY5NW5vTUl4aHdDdFIwZGZuMF9IWTkzZk51VzFVdTM2Q3lEeFAxSEVyREZVdE5rTEFtTkdPdzNkR09sNGt3N2RXUE1hMi1uOFRpRFNDZ0p5MU5xRndRd0ZsX21yTkpTaG1vVEU1SWYwSFhyejg1b2ZVN1pOaGdISnRxeUFGVm1oYjZiemlmYTJPSEpUbkszVkpDenN3aW5hTVhObnh1N19kTmM4Rm9oVEt5SEZVWnl5SUdRbnFDb1dHRE1HaDk2LVdreHFmWkJwal85dVJxMkk0SFlFeGpiVzM1N1dJYjJHWXoycEF3YXFkbllRTWo1NTdBbFFyQUJTY1NaVFdPT3RKZ0J4LXU4SzdIbVJmR1FEZ1ZfM1ZUYUM4U0kwdjZIZEFmaEZGcElLYnl0amx2amVyaHlzY0JlSjZmYUVsZ1A3TDA4OExFcXBQZ3BWam9QZ3NnVTZLdGhzZklFVDJpUjNiVkJuRl82eENLakxKS05ZTUdHZ1lpclVGLWt6NmxmQ1hwbUFRb1FBSVNkZEFrMkdhUXdjb3lwZkdvTDhDWEVtSlFncExpUGI5SVA2Y04xRzdweWRUdXBEUEIxTzlTUF93cEdVNTdNSFRITlZzeDFDMjBENVVXUWo0MF90RjFMNEx4MGdIMUdhc0ZwblJPOFl0aXhSRE1falcwcUR6SXc?oc=5)
+
+2026-11-07 <span class="news-indication-tag">皮蛇</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMixgRBVV95cUxQX3hwbEFRNGNsX1dxSXk5SE1oNjFXZ0ozWWp4Zl9uajYxTDFPZUJUZjB6N1NQOW9IN0dXWTFNcVdYMFVBZlRhZHY5NW5vTUl4aHdDdFIwZGZuMF9IWTkzZk51VzFVdTM2Q3lEeFAxSEVyREZVdE5rTEFtTkdPdzNkR09sNGt3N2RXUE1hMi1uOFRpRFNDZ0p5MU5xRndRd0ZsX21yTkpTaG1vVEU1SWYwSFhyejg1b2ZVN1pOaGdISnRxeUFGVm1oYjZiemlmYTJPSEpUbkszVkpDenN3aW5hTVhObnh1N19kTmM4Rm9oVEt5SEZVWnl5SUdRbnFDb1dHRE1HaDk2LVdreHFmWkJwal85dVJxMkk0SFlFeGpiVzM1N1dJYjJHWXoycEF3YXFkbllRTWo1NTdBbFFyQUJTY1NaVFdPT3RKZ0J4LXU4SzdIbVJmR1FEZ1ZfM1ZUYUM4U0kwdjZIZEFmaEZGcElLYnl0amx2amVyaHlzY0JlSjZmYUVsZ1A3TDA4OExFcXBQZ3BWam9QZ3NnVTZLdGhzZklFVDJpUjNiVkJuRl82eENLakxKS05ZTUdHZ1lpclVGLWt6NmxmQ1hwbUFRb1FBSVNkZEFrMkdhUXdjb3lwZkdvTDhDWEVtSlFncExpUGI5SVA2Y04xRzdweWRUdXBEUEIxTzlTUF93cEdVNTdNSFRITlZzeDFDMjBENVVXUWo0MF90RjFMNEx4MGdIMUdhc0ZwblJPOFl0aXhSRE1falcwcUR6SXc?oc=5)
 
 ---
 

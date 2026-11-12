@@ -80,12 +80,17 @@
     {
       "url": "/news/avelumab/",
       "title": "Avelumab 相關新聞",
-      "count": 6
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 6
+    },
+    {
+      "url": "/news/herpes-zoster/",
+      "title": "皮蛇 (herpes zoster) 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/bempedoic-acid/": [
@@ -292,7 +297,7 @@
     {
       "url": "/news/失智/",
       "title": "失智 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/gemcitabine/": [
@@ -392,6 +397,23 @@
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 6
+    }
+  ],
+  "/drugs/isosorbide-dinitrate/": [
+    {
+      "url": "/news/isosorbide_dinitrate/",
+      "title": "Isosorbide dinitrate 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/cardiovascular/",
+      "title": "心血管 (cardiovascular) 相關新聞",
+      "count": 1
+    },
+    {
+      "url": "/news/心血管疾病/",
+      "title": "心血管疾病 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/levamisole/": [

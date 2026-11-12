@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "阿茲海默症 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # 阿茲海默症 (dementia) 相關新聞
@@ -32,11 +32,19 @@ last_modified_at: 2026-11-11
 
 ## 相關新聞（5 則）
 
-### [阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 - TechNews 科技新報](https://news.google.com/rss/articles/CBMib0FVX3lxTE5uVnNTaDhTSDJsUTBfR2hUQm1zZE93US1COGRQUGlyMGV4anlkN25rYW1nNk10bVlZLTNMN0pTUUE1TXhhZ0RpaldGLVBfZURWWkM2SGJrWnA1TTE5cS1zLTRWN2E0d0dTZ0pmWkQzUQ?oc=5)
+### [有些長者已有阿茲海默症病變，為何記憶力仍然良好？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
 
 2026-11-10
 
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMib0FVX3lxTE5uVnNTaDhTSDJsUTBfR2hUQm1zZE93US1COGRQUGlyMGV4anlkN25rYW1nNk10bVlZLTNMN0pTUUE1TXhhZ0RpaldGLVBfZURWWkM2SGJrWnA1TTE5cS1zLTRWN2E0d0dTZ0pmWkQzUQ?oc=5)
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
+
+---
+
+### [阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
+
+2026-11-10
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
 
 ---
 
@@ -56,19 +64,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5)
+### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 2026-11-08
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5)
-
----
-
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
-
-2026-11-08
-
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 ---
 

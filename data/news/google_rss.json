@@ -1,8 +1,32 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-11T18:13:18.745608+00:00",
-  "count": 41,
+  "fetched_at": "2026-11-12T01:11:02.521155+00:00",
+  "count": 43,
   "news": [
+    {
+      "id": "c688da89de61",
+      "title": "MIT 推出 WorldParticle 單一 AI 模型，從沙土、液體到蛋白質皆可模擬 - TechNews 科技新報",
+      "published": "2026-11-11T23:26:55+00:00",
+      "summary": "MIT 推出 WorldParticle 單一 AI 模型，從沙土、液體到蛋白質皆可模擬&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSWlkc0dVUjhzT3N5b2VheFI5U3NCV3gwQ3dGcDA0T2lzRWE5ekZFRG00bllRZzlIQVlzMi0ycEE3U1lmYUJ0cDVTV19aT0tWVEFRSHQtcFZ0Y0RCS0ZRdXVMQkxPaXhpWG5vVzZXbzUya2xubkVWM2gxdm9sYkVtSEhIUWg5b25VeWE5VVRZdnNpQUNHTF9oNUEtb3MzRjhfYktxWTZqOWpjb1dHQ3Q2bk96RXM1VlBP?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "928aa6b2e79e",
+      "title": "阿爾茨海默病可能是大腦的「能源危機」 - 大紀元",
+      "published": "2026-11-11T22:10:00+00:00",
+      "summary": "阿爾茨海默病可能是大腦的「能源危機」&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45czhFYjl1ckN4dFNpZWh4dWtSVVF5VDhTeC1XbVluSDk4T2RZbm5fcmc0VHFESFpjNFVQQWNBbzhva01VX2VDNUJ3MDl5WjdRSFdFT2FMYXEyNFZDZUFHN9IBZkFVX3lxTFA0M2hQeTlkMnNMcGR6QW0wLXBCbEVYZlc4UnZ5YWhSblhGTi1JdkQ0WXdnODNrdVhXdHhfUklFbFBnazk1SW9yWlFkZFlNZGU2NUp5NUN6YUlZTndobjNUeFN5c3EyQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "e6e48cacfd28",
       "title": "英國牛津大學研究發現人體免疫系統在抑制攝護腺癌發展扮演關鍵角色- 國際 - 工商時報",
@@ -12,6 +36,18 @@
         {
           "name": "工商時報",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sQXlSQVdZbEE5RzYxNWtFUW9tb3IyX3gyVGM3UVNRYjBPOGZWRnp1VXZBbktBMHE2QVAtdDh3d1ZvYzVHRUUzeENya3U1Nms1T1ExNjYwbVM1bENyOFlV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7960e50aedc6",
+      "title": "台灣人吃鮭魚最愛「用煎的」？營養跑光光，還容易產生致癌物！營養師教最安全煮法：留住Omega-3 - 幸福熟齡",
+      "published": "2026-11-11T04:43:00+00:00",
+      "summary": "台灣人吃鮭魚最愛「用煎的」？營養跑光光，還容易產生致癌物！營養師教最安全煮法：留住Omega-3&nbsp;&nbsp;幸福熟齡一堆人天天吃！營養師警告：「這樣煮鮭魚」根本在吞毒 | TVBS&nbsp;&nbsp;LINE TODAY煎鮭魚錯了！專家曝「正確煮法」：錯了反而致癌&nbsp;&nbsp;三立新聞網SETN.com鮭魚別再用煎的！營養師曝高溫烹調恐讓營養流失&nbsp;&nbsp;Yahoo新聞台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康&nbsp;&nbsp;中時新聞網",
+      "sources": [
+        {
+          "name": "幸福熟齡",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43SU5mOXVkQndkbVNRZjVORS1DT3dDNnJRcnZFWl82S0s0OGR0eWoySHlhX2VyT0huZEY4el9Gb0dNQlZnLVR1VjlHb0J6MTBOZWRBZVJUaDFUYlJ6Vy1XQ2dkcWllVk84QWxHZU05ZlVaRHR5NGlKbTdYUQ?oc=5"
         }
       ]
     },
@@ -40,14 +76,14 @@
       ]
     },
     {
-      "id": "7960e50aedc6",
-      "title": "台灣人吃鮭魚最愛「用煎的」？營養跑光光，還容易產生致癌物！營養師教最安全煮法：留住Omega-3 - 幸福熟齡",
-      "published": "2026-11-11T04:43:00+00:00",
-      "summary": "台灣人吃鮭魚最愛「用煎的」？營養跑光光，還容易產生致癌物！營養師教最安全煮法：留住Omega-3&nbsp;&nbsp;幸福熟齡一堆人天天吃！營養師警告：「這樣煮鮭魚」根本在吞毒 | TVBS&nbsp;&nbsp;LINE TODAY煎鮭魚錯了！專家曝「正確煮法」：錯了反而致癌&nbsp;&nbsp;三立新聞網SETN.com鮭魚別再用煎的！營養師曝高溫烹調恐讓營養流失&nbsp;&nbsp;Yahoo新聞台人吃鮭魚愛用煎的專家搖頭：水煮才能留住營養- 健康&nbsp;&nbsp;中時新聞網",
+      "id": "5bb9f5416a03",
+      "title": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了 - 三立新聞網SETN.com",
+      "published": "2026-11-11T03:15:39+00:00",
+      "summary": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了&nbsp;&nbsp;三立新聞網SETN.com暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY胸悶、喘、咳嗽別輕忽！罕見甲狀腺異位藏胸腔，巨大鈣化結節恐壓迫器官- 健康新聞&nbsp;&nbsp;PChome Online新聞",
       "sources": [
         {
-          "name": "幸福熟齡",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43SU5mOXVkQndkbVNRZjVORS1DT3dDNnJRcnZFWl82S0s0OGR0eWoySHlhX2VyT0huZEY4el9Gb0dNQlZnLVR1VjlHb0J6MTBOZWRBZVJUaDFUYlJ6Vy1XQ2dkcWllVk84QWxHZU05ZlVaRHR5NGlKbTdYUQ?oc=5"
+          "name": "三立新聞網SETN.com",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc3hpZ3cyLVZZN0R0YWF3bmFUR2tvaktNMzhKQm11WlZKeDlmek5pRktVdnV5WmhSQUVTdUwtSTB6dGczQTlqNGxwOHQ?oc=5"
         }
       ]
     },
@@ -64,30 +100,6 @@
       ]
     },
     {
-      "id": "4113769e085d",
-      "title": "密西根大學發現攝護腺癌隱藏弱點，新藥 PBITE-1 有望翻轉治療困境 | 科技新報 - LINE TODAY",
-      "published": "2026-11-10T15:40:32+00:00",
-      "summary": "密西根大學發現攝護腺癌隱藏弱點，新藥 PBITE-1 有望翻轉治療困境 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xX0IzUjY2NkhHZnhhWTNNQ1BrMjJjSFozUzNCU0x4NlloZXVqLUdORUl2alJmNVRqREZLQWxEaXF1OGlaYUlqZFRKWW9pWGluV2JGeXJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5bb9f5416a03",
-      "title": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了 - 三立新聞網SETN.com",
-      "published": "2026-11-11T03:15:39+00:00",
-      "summary": "鹽昆布爆紅！狂吃會害甲狀腺失控？專業醫解答了&nbsp;&nbsp;三立新聞網SETN.com暴躁、怕冷、疲倦可能都是甲狀腺作怪！健檢發現「結節」怎麼辦？海帶、紫菜還能吃嗎？權威醫解答| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY胸悶、喘、咳嗽別輕忽！罕見甲狀腺異位藏胸腔，巨大鈣化結節恐壓迫器官- 健康新聞&nbsp;&nbsp;PChome Online新聞",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Oc3hpZ3cyLVZZN0R0YWF3bmFUR2tvaktNMzhKQm11WlZKeDlmek5pRktVdnV5WmhSQUVTdUwtSTB6dGczQTlqNGxwOHQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "535c7bde0786",
       "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查 - 草根影響力新視野",
       "published": "2026-11-10T04:20:18+00:00",
@@ -100,38 +112,26 @@
       ]
     },
     {
-      "id": "879388f61b4b",
-      "title": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索 - 元氣網",
-      "published": "2026-11-08T08:41:42+00:00",
-      "summary": "還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索&nbsp;&nbsp;元氣網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "4113769e085d",
+      "title": "密西根大學發現攝護腺癌隱藏弱點，新藥 PBITE-1 有望翻轉治療困境 | 科技新報 - LINE TODAY",
+      "published": "2026-11-10T15:40:32+00:00",
+      "summary": "密西根大學發現攝護腺癌隱藏弱點，新藥 PBITE-1 有望翻轉治療困境 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xX0IzUjY2NkhHZnhhWTNNQ1BrMjJjSFozUzNCU0x4NlloZXVqLUdORUl2alJmNVRqREZLQWxEaXF1OGlaYUlqZFRKWW9pWGluV2JGeXJR?oc=5"
         }
       ]
     },
     {
-      "id": "4e66939d3bd1",
-      "title": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動 - ELLE",
-      "published": "2026-11-09T09:54:22+00:00",
-      "summary": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動&nbsp;&nbsp;ELLE",
-      "sources": [
-        {
-          "name": "ELLE",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8720a3d31d48",
-      "title": "阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 - TechNews 科技新報",
-      "published": "2026-11-10T06:35:23+00:00",
-      "summary": "阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊&nbsp;&nbsp;TechNews 科技新報",
+      "id": "dc8eed625060",
+      "title": "有些長者已有阿茲海默症病變，為何記憶力仍然良好？ - TechNews 科技新報",
+      "published": "2026-11-10T23:42:41+00:00",
+      "summary": "有些長者已有阿茲海默症病變，為何記憶力仍然良好？&nbsp;&nbsp;TechNews 科技新報還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索&nbsp;&nbsp;元氣網",
       "sources": [
         {
           "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uVnNTaDhTSDJsUTBfR2hUQm1zZE93US1COGRQUGlyMGV4anlkN25rYW1nNk10bVlZLTNMN0pTUUE1TXhhZ0RpaldGLVBfZURWWkM2SGJrWnA1TTE5cS1zLTRWN2E0d0dTZ0pmWkQzUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5"
         }
       ]
     },
@@ -144,6 +144,30 @@
         {
           "name": "優活健康網",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XNS1CcVp1aEwyeENvZUM3VUhwZ2VaM1FTdkpMajcxWkFDeGxDZGVTMExIbjhGTWVHZjBQeXNIbm94dmlXcGVBbnhCaWpEeEdwajRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ca448f56473",
+      "title": "阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 | 科技新報 - LINE TODAY",
+      "published": "2026-11-10T14:40:18+00:00",
+      "summary": "阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4e66939d3bd1",
+      "title": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動 - ELLE",
+      "published": "2026-11-09T09:54:22+00:00",
+      "summary": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動&nbsp;&nbsp;ELLE",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNakZySUV6LU9pY3FuSl9tZkxvU1ZDcEdfR0VCYTJFUWZ2dkNCSl9lSlFJUkRSVFN1ZFN5RzZQcWlOVHZfS21DMG9BQjdfejZ4WmRYdDFZUUZtX1BsOFkwQnlzanFSLXhCVTVoczREUkd3Wk9YR1I1UVhtalotS0d1TXB1SWJzZ2c3MnVYU1RSV3Y?oc=5"
         }
       ]
     },
@@ -172,26 +196,14 @@
       ]
     },
     {
-      "id": "b9069c9680fc",
-      "title": "迎戰超級細菌威脅，Google DeepMind 導入尖端 AI 攻克抗藥性危機 | 科技新報 - LINE TODAY",
-      "published": "2026-11-05T08:00:00+00:00",
-      "summary": "迎戰超級細菌威脅，Google DeepMind 導入尖端 AI 攻克抗藥性危機 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "6eff8015e7e3",
+      "title": "迎戰超級細菌威脅，Google DeepMind 導入尖端 AI 攻克抗藥性危機 - TechNews 科技新報",
+      "published": "2026-11-09T01:04:53+00:00",
+      "summary": "迎戰超級細菌威脅，Google DeepMind 導入尖端 AI 攻克抗藥性危機&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00SkpJSldvRE9CZHFGaTJXakxzaEg0c0NtVWszbldNU3dkaUE4d2ZJa1dKSUdtWFNpa3Z3UWF4aHJPTDBGdVFEa3FsLWZqWldVZ1NpUDlB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59f9fc4ae310",
-      "title": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際 - 中央社 CNA",
-      "published": "2026-11-09T11:03:00+00:00",
-      "summary": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際&nbsp;&nbsp;中央社 CNA",
-      "sources": [
-        {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WalhtTGRJZ2hOaGNhVE9ZSW9FdFhucEhwNWJ6amZWVkg0SmZ5eTZLT3QyMFdhTGp3aTRWOVV6RzRpR3Y3YXA3TDFOOC1kSHJnUjJXS3YzX0I2MmlzOHhF?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83WFhZQm5tWU1PYnJCbHVCNDh3NTl5Q2tlV2Vjb0xLM2FOVGdpN2E4Q1J1UVlDSXVLM093ZFZKbUo1dTloQVpFY2RpM29mbG5QdkJSU0RqR3FrQWZNcGlfV3ExMUU0U0xmek1tOFB2WQ?oc=5"
         }
       ]
     },
@@ -208,14 +220,26 @@
       ]
     },
     {
-      "id": "2cc03ea4fe56",
-      "title": "以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報",
-      "published": "2026-11-08T06:33:14+00:00",
-      "summary": "以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48%&nbsp;&nbsp;TechNews 科技新報",
+      "id": "59f9fc4ae310",
+      "title": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際 - 中央社 CNA",
+      "published": "2026-11-09T11:03:00+00:00",
+      "summary": "泰國M痘主流病毒株轉為Ib型當局示警症狀多元未必有皮疹| 國際&nbsp;&nbsp;中央社 CNA",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5"
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WalhtTGRJZ2hOaGNhVE9ZSW9FdFhucEhwNWJ6amZWVkg0SmZ5eTZLT3QyMFdhTGp3aTRWOVV6RzRpR3Y3YXA3TDFOOC1kSHJnUjJXS3YzX0I2MmlzOHhF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "74932a9abed9",
+      "title": "以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY",
+      "published": "2026-11-08T15:28:33+00:00",
+      "summary": "以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5"
         }
       ]
     },
@@ -304,6 +328,18 @@
       ]
     },
     {
+      "id": "eb9d364cfeaa",
+      "title": "糖友只控血糖還不夠！小心皮蛇侵犯眼部，恐威脅視力ft歐弘毅醫師中華民國糖尿病衛教學會理事長 - Yahoo新聞",
+      "published": "2026-11-07T04:46:06+00:00",
+      "summary": "糖友只控血糖還不夠！小心皮蛇侵犯眼部，恐威脅視力ft歐弘毅醫師中華民國糖尿病衛教學會理事長&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQX3hwbEFRNGNsX1dxSXk5SE1oNjFXZ0ozWWp4Zl9uajYxTDFPZUJUZjB6N1NQOW9IN0dXWTFNcVdYMFVBZlRhZHY5NW5vTUl4aHdDdFIwZGZuMF9IWTkzZk51VzFVdTM2Q3lEeFAxSEVyREZVdE5rTEFtTkdPdzNkR09sNGt3N2RXUE1hMi1uOFRpRFNDZ0p5MU5xRndRd0ZsX21yTkpTaG1vVEU1SWYwSFhyejg1b2ZVN1pOaGdISnRxeUFGVm1oYjZiemlmYTJPSEpUbkszVkpDenN3aW5hTVhObnh1N19kTmM4Rm9oVEt5SEZVWnl5SUdRbnFDb1dHRE1HaDk2LVdreHFmWkJwal85dVJxMkk0SFlFeGpiVzM1N1dJYjJHWXoycEF3YXFkbllRTWo1NTdBbFFyQUJTY1NaVFdPT3RKZ0J4LXU4SzdIbVJmR1FEZ1ZfM1ZUYUM4U0kwdjZIZEFmaEZGcElLYnl0amx2amVyaHlzY0JlSjZmYUVsZ1A3TDA4OExFcXBQZ3BWam9QZ3NnVTZLdGhzZklFVDJpUjNiVkJuRl82eENLakxKS05ZTUdHZ1lpclVGLWt6NmxmQ1hwbUFRb1FBSVNkZEFrMkdhUXdjb3lwZkdvTDhDWEVtSlFncExpUGI5SVA2Y04xRzdweWRUdXBEUEIxTzlTUF93cEdVNTdNSFRITlZzeDFDMjBENVVXUWo0MF90RjFMNEx4MGdIMUdhc0ZwblJPOFl0aXhSRE1falcwcUR6SXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6b1662026222",
       "title": "流感疫苗竟成抗癌奇兵！美臨床試驗直接注入腫瘤助消退 - 自由健康網",
       "published": "2026-11-11T04:17:00+00:00",
@@ -316,26 +352,26 @@
       ]
     },
     {
-      "id": "72bdfc95eb14",
-      "title": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病 - Singtaousa",
-      "published": "2026-11-04T20:08:59+00:00",
-      "summary": "德州新科參議員塔拉里科 競選險死揭患一型糖尿病&nbsp;&nbsp;Singtaousa",
+      "id": "fcb3cdd02f24",
+      "title": "中年之後，為什麼身體開始想念豆漿豆腐？ - 美南新聞",
+      "published": "2026-11-11T21:47:51+00:00",
+      "summary": "中年之後，為什麼身體開始想念豆漿豆腐？&nbsp;&nbsp;美南新聞",
       "sources": [
         {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdi01UllRWVl6THdDSnhMbFFJQ284VDlGUkdKeDJsZzJQR2tMSHNPbUlLN2NNd2dPVHRtMnZjeFZKa1N2YTZ3czQxbHdoRFpYMkc1X3BNaUN4OTkxMzlJRFBNUEs1SlVnRnBJa0d6QUlwNTQ4bkpIRkdQaTRHODMtb2l0TUwtR1VqRkpjb1ZzYjgwUVN4eEFDcURabHNiNFcyZFlpbFF2eno1TC0tV3QtTVU0Ym9yX1dRX0I1dzQ4YTBFVFZNTFdJQ2RiN3RrYlY0QlNvZEY2UWhTdw?oc=5"
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92el9YTld3TGV1QXFRa2l1Q3RhR1NYQzMtS3gybHR1ZEh4cHExNnFzdERjMlBFNDF3WUhESGFneG4xaUwyVVE?oc=5"
         }
       ]
     },
     {
-      "id": "d9efa5df0265",
-      "title": "衰老細胞如何重返幹細胞狀態 修復人體組織 - 大紀元",
-      "published": "2026-11-04T20:00:00+00:00",
-      "summary": "衰老細胞如何重返幹細胞狀態 修復人體組織&nbsp;&nbsp;大紀元",
+      "id": "fd33422cad0e",
+      "title": "飲果汁未必等於食水果？ 研究揭果汁與心血管疾病關聯完整水果或更護心 - 巴士的報",
+      "published": "2026-11-11T22:40:21+00:00",
+      "summary": "飲果汁未必等於食水果？ 研究揭果汁與心血管疾病關聯完整水果或更護心&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50MmZvUVU1S1ZjZ1VMT2VrLXNrTEtNYWRxSU5Gb1NnR2VUZk9XdWF5WnB4U3Zvc1prR3VhNm9PUW1hdHhCSmtfX1dVVi1DOC1zS1ZITGh5aHdYanJkUXpQWHVB0gFnQVVfeXFMTzNVYWF4ZDY5NTVIcThQcktYNTd5V0dlWEUtakdpSlFqbjhlVE93VUhOb0xnbk9YSF8tQjFVckJxUWpsMkNYd01sMUJlN2t5bG5vRnNBYy1hbTVkdXlkcHltLTVFY2dyTQ?oc=5"
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxObFd2OG9oUlc0OXNKVFJ1Z3J6S2hOeEhWWlpIMUFpWDdHMm1vWGdUTWNMU3QxQUVTbF9RdXNjSEt1QUprdC1QbHNNd2E0VVM3UmtaMF9tcDBpUVpYOUs2VUhhT2NTX2dBVE9uOWFEaUdZVjh1UUJkM2Vwak1Gc2prOEJvRndWcVZzNUdPaUE3VFNqRGJPSkp0V3JHUXgwTmJTWGo5V3UyejFsU1AzelpTY29hWFJ2X1o2SXgzYmR2VlJFMnlzYUxhakZqNy1GMDhMa1FDWVdLY2w0NXNLRnhBRk8wM1hza3htcXR4V2NIdWMwa210UlFJc3p2MkhZMl9zNGZnX2NMRUx6bHZ6aWZEZFUzeGw3NXQ1WlhBOE94NkpFWm9EUkFhVC14cVdFQnREQzhqQXhsNm5od0p0SFFZQVg1WlJnUnE5RGdkcEk2M3VBZVFKaEkwekhUUVJ5eTRtcXUzVXdJOGx0NldkSWc?oc=5"
         }
       ]
     },
@@ -352,30 +388,6 @@
       ]
     },
     {
-      "id": "dc3b23326e51",
-      "title": "腦齡測試可信嗎？專家解析大腦檢測真相 - 大紀元",
-      "published": "2026-11-04T19:57:00+00:00",
-      "summary": "腦齡測試可信嗎？專家解析大腦檢測真相&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43djdZQjhJanFhdFNNTF9WRmdnamVlZ3ZsaDlmWXBHUWc1RjZNZ3phM3g2UFU4enE3U3RKS2Q0b2pwY3NVR1E4WDd5TTgyejNXWHV6d1gwVEgteDZ4WG5vTNIBZkFVX3lxTE4yUHBGUU5ibWpyYmhidlFpNjJ1OFREQzdlRmNzbnhNdzgzUGZIcmV0dER2d0p0M1ZBcFNyYTk0aEJLZjFLcjhfQWVBYlRVM2J6TWUyM0VLNjY4cWYzMU5ucmg2ZUpnQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2073fbc5d567",
-      "title": "五十歲以下大腸癌更難治 189顆腫瘤揭原因 - 大紀元時報香港",
-      "published": "2026-11-09T03:22:00+00:00",
-      "summary": "五十歲以下大腸癌更難治 189顆腫瘤揭原因&nbsp;&nbsp;大紀元時報香港",
-      "sources": [
-        {
-          "name": "大紀元時報香港",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTnI5OWo5clkwY3NkVGpNcmFLWDZQTGp1cjdIQWFvakk3elZZdDhUd2xKWDVoZ1lyU0NHT3lOYmdQQlpjTWlFUDA2eFluSldTVlRYM3RoZDFBQ3ZWNUs0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "500c648b3b12",
       "title": "年少時一項能力或關乎晚年認知障礙風險 研究揭：歸納推理佳者風險低16% - 巴士的報",
       "published": "2026-11-07T22:40:23+00:00",
@@ -384,6 +396,18 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxONW5rRFI3bWJWOFVUYlJiLTJSTFpXcjQyNXM3a01uTmF3QkhLa0M5eHFtNkpOR3lOc19ZZW92ZGdpVnI4aV9venhoU195OGZmX2lzb2ZBc0hFNVUxc1dMR1o3cjVXRkx0WlVBOTFzZnJfV0ZEeEowN1ZCMkh0SzNDRHBxTkFFRmc4U1lHU3d3Z0g2ejc0VTFyM29lcDRYNXVjUzNpRXdKbVFBWl81S0thNDFTZFB1WklIVzh1andybHFoMDhqdlF0Q3NZX09URGF4RW9aczVYR1VHQUtQVkI2dVJzQ1RGazltSG5lU2FIYl93STEwbFdkTmdRZnBmZWIwbU9samVqMFhzWUh6SVNwNWt5amMtSEVPLUE1RENiU0N1VkJUTzdMeXpDcGZUaTA3UVl5RUczamtudWlGVU12Y3FPbHF1NS10WE1OQ2FQdVZGalpFdE4xcEpwRk1OQllfLWlmLU5YTUFsQVhRaEFN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c259b97dec31",
+      "title": "50歲以下大腸癌更難治 189顆腫瘤揭原因 - 大紀元",
+      "published": "2026-11-08T17:30:00+00:00",
+      "summary": "50歲以下大腸癌更難治 189顆腫瘤揭原因&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5"
         }
       ]
     },
@@ -412,6 +436,18 @@
       ]
     },
     {
+      "id": "6370068f5a57",
+      "title": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】 - 香港經濟日報HKET",
+      "published": "2026-11-06T08:34:54+00:00",
+      "summary": "美甲風險｜女子頻換Gel甲慘染真菌確診「灰甲」 醫生：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMiggVBVV95cUxPS3lHa0pDUkdCbkRfd2JCakY3M1djNDJOcnd4cWI1LUtlZU9pLVdkSFR5TjYzbm9ZS0twcVVjMmkwT0hoR2tvMTR5OGRhSVlERGtCMW8xU1d0VkZPeXNpWlBZRVdLYXVjd2xwVmxsQWh6WThwUEgzdEFJUkFlUEdmYm5TaGZmS085YUtKQ09TV0JjWjRaY0JwNmRXd3VjRmd5Mmx6a1hreUMwSnR6cHZsZDRYZFY2MTRTY0tMbVAzVkI4cXBBcmZPZTFfTXlDaVdBbjRCaGNpUWtIaVVHcHdpWFVQZVBiU0VGNWMwT1dNcW5uVnU3OUpQOC1hbEtqdjhiZHB1U042ellQbGU0b244ZVo2MkdzNFVQVkRqMTJ5Tm9FZ09pS1NZZkxtcE03WnI1X1l0UklSdkhZUnRaMUlqQ2RjZzJCLTVnbl9IRTNEdjNKejZWcXU3c2pEYjY4R25hZmJwSUwyYnRBdUFVdzY2UE5LVFhUazhUd2pMUHR2YVFoTVRKbGlNVDNESGRxeFFYSk84THdtTFJ0N25pNFM0Vmx6TWdDNjlWNmdtRk5nODB1cjBJaGtNM2RmV2ZDWDdjNXVLc3JBdklJSzBWMmR3dlhHNVU1UW1fSDJPeS1FZ3FScThfcFUxOGl4dTFnT1lMaGdKLTdBZVFQbGk3bWJsUmw3MGE5N0NVQ0dMd0FNM3pncy0zcTlTRlcxeUFUMWhKUklFMXc3UDFUbVdTQmxqNk5CZVFwWXRldWNzNGJOYWh1THNOelZlV2txdXRmRFhsTUhib0pkdXNjQ0o2V1gtejNNT3BCelFGQzZKbDN1NHRaR3kxLTEtX2YwajdkWndNdGc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c7d75f629160",
       "title": "腸道健康｜比傳統照腸慳8成時間！英國引入新款「微型鏡頭膠囊」每秒兩張相無痛無創助篩查大腸癌 - 香港經濟日報HKET",
       "published": "2026-11-06T09:58:57+00:00",
@@ -420,18 +456,6 @@
         {
           "name": "香港經濟日報HKET",
           "link": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxNcGQtX3dyeTdnZXFaS2p1M0NHUUhLOTZqcFNfZFV0Y0c3bVJzam1qQWpZUWZLQkNvWWNfVlRNQ3JwTmZQQjlqUnRNVVpENTFjTWpYQVloZXRYUEp6RjAzTTRHY0VLT0RVVUNVMHJVSUpGSllwS2FkX05LcGo4WG0xOGV2a29jbHR4aHk0LThxWEZka01TZTRBc2ZLZk9qTDlUMjA5MzAzXzlsZjU4U1c0UFZNcUVRbHQwaEJNa0dScjgxc0FkdkJqRmxNNzVkamNkSllSSXZzZ3JKU2R1NjZ6SFYyekZBQ094YXVOVmRDUHNHOGxzV0toLUlKSmxhR0pOX05BRllQbzY5cXo0V2M0a0xDMVJwc1dMWWdFekRaeGJVMnV0YXczUjZPVEVZWk84Y0w1NzI4NjRBeU9PRkpZS05SMktWX0hCemRvMm5QNE5UeTg1QXBjS0U1UkRLTEVJR0JHWnROY1BqT0lIMmxoVmNMOFZuQTFsUWZfWUp5MjN6MHVEQjBENHc0cDZWMUVjQmk5WVdpXzZDdEJNYWd0eGdCY2xZRDZMbVlMZ1Uza3ZfMVdFQy1JU3UwNkdYUDdwWFRNdjAzVm5nakREQkZ4dEdGVGxIa19scl8za0xWNUNaTllob2dwV3BLTEZvREEzN0pWMW50ZUZfVUZvSzVjSWNTOWYwaVNLbFZTbDlndV9XN0JQaTdRV3BwbmVLTUZaMVlKZ2dRYll4T0ZfOU02c3k3UTRuMmhzZE5PTTd2QXhPNXhkZ1pmLUVsN040QXhqQzNyQ2N4XzVkRmthTXVjR0NRMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a305f17cef15",
-      "title": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】 - 香港經濟日報HKET",
-      "published": "2026-11-06T08:34:54+00:00",
-      "summary": "美甲風險｜女子頻換Gel甲慘染「灰甲」 醫警告：指甲變1顏色恐發霉速求醫【附3大美甲風險+安全期】&nbsp;&nbsp;香港經濟日報HKET",
-      "sources": [
-        {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMiggVBVV95cUxPS3lHa0pDUkdCbkRfd2JCakY3M1djNDJOcnd4cWI1LUtlZU9pLVdkSFR5TjYzbm9ZS0twcVVjMmkwT0hoR2tvMTR5OGRhSVlERGtCMW8xU1d0VkZPeXNpWlBZRVdLYXVjd2xwVmxsQWh6WThwUEgzdEFJUkFlUEdmYm5TaGZmS085YUtKQ09TV0JjWjRaY0JwNmRXd3VjRmd5Mmx6a1hreUMwSnR6cHZsZDRYZFY2MTRTY0tMbVAzVkI4cXBBcmZPZTFfTXlDaVdBbjRCaGNpUWtIaVVHcHdpWFVQZVBiU0VGNWMwT1dNcW5uVnU3OUpQOC1hbEtqdjhiZHB1U042ellQbGU0b244ZVo2MkdzNFVQVkRqMTJ5Tm9FZ09pS1NZZkxtcE03WnI1X1l0UklSdkhZUnRaMUlqQ2RjZzJCLTVnbl9IRTNEdjNKejZWcXU3c2pEYjY4R25hZmJwSUwyYnRBdUFVdzY2UE5LVFhUazhUd2pMUHR2YVFoTVRKbGlNVDNESGRxeFFYSk84THdtTFJ0N25pNFM0Vmx6TWdDNjlWNmdtRk5nODB1cjBJaGtNM2RmV2ZDWDdjNXVLc3JBdklJSzBWMmR3dlhHNVU1UW1fSDJPeS1FZ3FScThfcFUxOGl4dTFnT1lMaGdKLTdBZVFQbGk3bWJsUmw3MGE5N0NVQ0dMd0FNM3pncy0zcTlTRlcxeUFUMWhKUklFMXc3UDFUbVdTQmxqNk5CZVFwWXRldWNzNGJOYWh1THNOelZlV2txdXRmRFhsTUhib0pkdXNjQ0o2V1gtejNNT3BCelFGQzZKbDN1NHRaR3kxLTEtX2YwajdkWndNdGc?oc=5"
         }
       ]
     },

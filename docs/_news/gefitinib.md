@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 15 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # Gefitinib 相關新聞
@@ -66,11 +66,19 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 - TechNews 科技新報](https://news.google.com/rss/articles/CBMib0FVX3lxTE5uVnNTaDhTSDJsUTBfR2hUQm1zZE93US1COGRQUGlyMGV4anlkN25rYW1nNk10bVlZLTNMN0pTUUE1TXhhZ0RpaldGLVBfZURWWkM2SGJrWnA1TTE5cS1zLTRWN2E0d0dTZ0pmWkQzUQ?oc=5)
+### [有些長者已有阿茲海默症病變，為何記憶力仍然良好？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
+
+---
+
+### [阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
 
 2026-11-10 <span class="news-indication-tag">阿茲海默症</span>
 
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMib0FVX3lxTE5uVnNTaDhTSDJsUTBfR2hUQm1zZE93US1COGRQUGlyMGV4anlkN25rYW1nNk10bVlZLTNMN0pTUUE1TXhhZ0RpaldGLVBfZURWWkM2SGJrWnA1TTE5cS1zLTRWN2E0d0dTZ0pmWkQzUQ?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
 
 ---
 
@@ -90,14 +98,6 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [五十歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTnI5OWo5clkwY3NkVGpNcmFLWDZQTGp1cjdIQWFvakk3elZZdDhUd2xKWDVoZ1lyU0NHT3lOYmdQQlpjTWlFUDA2eFluSldTVlRYM3RoZDFBQ3ZWNUs0?oc=5)
-
-2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [大紀元時報香港](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wTnI5OWo5clkwY3NkVGpNcmFLWDZQTGp1cjdIQWFvakk3elZZdDhUd2xKWDVoZ1lyU0NHT3lOYmdQQlpjTWlFUDA2eFluSldTVlRYM3RoZDFBQ3ZWNUs0?oc=5)
-
----
-
 ### [早餐不只雞蛋！ 腫瘤科醫生推薦全穀燕麥高纖飲食或有助腸道及細胞健康](https://news.google.com/rss/articles/CBMi7wJBVV95cUxPMUVIUDNfNWhjcUJUMFhKSHFWTUY5bWxDYXdJRl9WZjRBdGFhdG9taXIxaDZoVjFnOTJKSWE4TVFRTm9tYmRaOW92bG1FakZZdTFmQURpeGExU2Q0aEVFN2s2aklRYk4tbUc1b2YwQVFSbXRTSGRHTnp5WG8tWUM0bUMzRTRyNG5xemNTVm8ya0FvN0VtUmRKRUZTZTdPV0F0dHNxVUE0XzFBTjJIRFhVUHJOUEQ5bzM3V2MzSDNEeG1jQkhKUm5LZllLLXY0dm85TGhTdVl2bGN4SWVxeEVhTEVEemNzSy12aDJsYi1ZU3g0Y3ZfTGtUVS1zSHJrZWtjemFfS1BZZUdkY0JIVzM5djlxbHlveTJRUkRIMGlMOGtvazVhVGk1RVB2VlV5dHRTOXdSRmJaaVJDa1hZRlhQbXc3dGhsRjU0XzlLRWIzMXBkbG8yc1hjdUpzcWJDYlVEejV1RlBlRWk2TjNFbnA4?oc=5)
 
 2026-11-08 <span class="news-indication-tag">腫瘤</span>
@@ -106,19 +106,19 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5)
+### [50歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
 
-2026-11-08 <span class="news-indication-tag">失智</span>
+2026-11-08 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sMGlzdGtLWmhMcjVlUHJVbmxmbmE0QkJxVGd4bDhzMGp4eGJTa0l2WXpBNUp0MzhIb0I4V3ViNnI2bFhEWEpuMGpIY3JUOW1BTldkOVN2ZlpnMWFJVFHSAWNBVV95cUxOby1ER1U2dnd6d2pYOUkwLWVMaXFmaVFPNXROaXhXQmMyZWlRNTU2eVB1UVVRNExrdllLR0gwRjZSMmJwdTgwbFdsSnFOX3NqaUx6QVFhX0x1Tm9HN2ptZG1xakU?oc=5)
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
 
 ---
 
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 2026-11-08 <span class="news-indication-tag">失智</span>
 
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 ---
 
