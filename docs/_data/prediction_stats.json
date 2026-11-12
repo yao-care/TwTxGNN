@@ -1,6 +1,6 @@
 {
-  "_source": "本 repo Release data-20261105-123754 的 data/（算法見 scripts/generate_prediction_stats.py 開頭）。由 scripts/generate_prediction_stats.py 產生，勿手改；README 數字由 scripts/generate_drug_stats.py 同步。",
-  "release": "data-20261105-123754",
+  "_source": "本 repo Release data-20261112-165738 的 data/（算法見 scripts/generate_prediction_stats.py 開頭）。由 scripts/generate_prediction_stats.py 產生，勿手改；README 數字由 scripts/generate_drug_stats.py 同步。",
+  "release": "data-20261112-165738",
   "fda_records": 72062,
   "fda_license_ids": 66503,
   "fda_active": 23553,
