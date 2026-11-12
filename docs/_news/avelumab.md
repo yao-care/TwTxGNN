@@ -3,7 +3,7 @@ layout: default
 title: "Avelumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Avelumab 的相關健康新聞報導。原適應症：轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎...。預測適應症 10 個。"
+description: "Avelumab 的相關健康新聞報導。原適應症：轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎...。預測適應症 9 個。"
 permalink: /news/avelumab/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Avelumab 有什麼相關新聞？">
-<strong>Avelumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Avelumab</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,8 +27,8 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 轉移性默克細胞癌 (Merkel Cell Carcinoma)；併用 axitinib 用於晚期腎細胞癌 (RCC) 第一線治療；第一線含鉑化療後疾病未惡化之局部晚期或轉移性泌尿道上皮癌 (UC) 維持療法</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>human herpesvirus 8-related tumor</li>
+<li><strong>預測適應症（9 個）</strong>:<ul>
+<li>人類疱疹病毒 8 型相關腫瘤 (human herpesvirus 8-related tumor)</li>
 <li>middle ear neuroendocrine tumor</li>
 <li>malignant cutaneous granular cell skin tumor</li>
 <li>ectomesenchymoma</li>
@@ -36,7 +36,6 @@ last_modified_at: 2026-11-12
 <li>reticular dysgenesis</li>
 <li>Immunoerythromyeloid hypoplasia</li>
 <li>non-severe combined immunodeficiency</li>
-<li>prostatic urethra urothelial carcinoma</li>
 <li>kidney pelvis sarcomatoid transitional cell carcinoma</li>
 </ul></li>
 </ul>

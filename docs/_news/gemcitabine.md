@@ -3,7 +3,7 @@ layout: default
 title: "Gemcitabine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Gemcitabine 的相關健康新聞報導。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾...。預測適應症 10 個。"
+description: "Gemcitabine 的相關健康新聞報導。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾...。預測適應症 8 個。"
 permalink: /news/gemcitabine/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Gemcitabine</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,16 +27,14 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌患者。5.用於曾經使用含鉑類藥物(PLATINUM-BASED)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 抗癌藥。; 非小細胞肺癌、胰臟癌、膀胱癌。Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用含鉑類藥物(platinum-based)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。膽道癌。; 非</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>female breast carcinoma</li>
-<li>rectum mucinous adenocarcinoma</li>
+<li><strong>預測適應症（8 個）</strong>:<ul>
+<li>直腸黏液腺癌 (rectum mucinous adenocarcinoma)</li>
 <li>colon mucinous adenocarcinoma</li>
-<li>endometrial mixed adenocarcinoma</li>
 <li>villoglandular endometrial endometrioid adenocarcinoma</li>
+<li>endometrial mixed adenocarcinoma</li>
 <li>endometrial mucinous adenocarcinoma</li>
 <li>cervical mucinous adenocarcinoma</li>
 <li>gallbladder mucinous adenocarcinoma</li>
-<li>rete ovarii adenocarcinoma</li>
 <li>secretory uterine corpus endometrioid adenocarcinoma</li>
 </ul></li>
 </ul>

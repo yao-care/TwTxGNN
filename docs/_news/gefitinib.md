@@ -3,7 +3,7 @@ layout: default
 title: "Gefitinib 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 15 個。"
+description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 9 個。"
 permalink: /news/gefitinib/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 15 個。
+<strong>Gefitinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,21 +27,15 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後仍惡化或轉移之肺腺癌第二線治療</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（15 個）</strong>:<ul>
-<li>牙齦纖維瘤</li>
-<li>肺纖維瘤</li>
-<li>額顳葉失智伴肌病</li>
-<li>肺錯構瘤</li>
-<li>肺門癌</li>
-<li>fibromatosis, gingival</li>
+<li><strong>預測適應症（9 個）</strong>:<ul>
+<li>牙齦纖維瘤病 (fibromatosis, gingival)</li>
 <li>fibroma of lung</li>
 <li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia</li>
 <li>hamartoma of lung</li>
-<li>lung hilum carcinoma</li>
 <li>lung benign neoplasm</li>
 <li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome</li>
-<li>lung germ cell tumor</li>
 <li>pulmonary sulcus neoplasm</li>
+<li>lung germ cell tumor</li>
 <li>junctional epidermolysis bullosa</li>
 </ul></li>
 </ul>
@@ -49,6 +43,22 @@ last_modified_at: 2026-11-12
 </div>
 
 ## 相關新聞（11 則）
+
+### [大腦活動藏失智警訊！美研究開發系統提前評估阿茲海默症風險](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POEx0cl9fV0ZidVl2dHVMWjV4Ynlfckx3R3BtLVEwSWVxTkI2bGRZZ3hhcEVfRzlITjBxUVhZQlRMVWdURGRUWFd5NHFnYldPcmEtWkpkcE1MRDRuQkJRSVlwUEw?oc=5)
+
+2026-11-12 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1POEx0cl9fV0ZidVl2dHVMWjV4Ynlfckx3R3BtLVEwSWVxTkI2bGRZZ3hhcEVfRzlITjBxUVhZQlRMVWdURGRUWFd5NHFnYldPcmEtWkpkcE1MRDRuQkJRSVlwUEw?oc=5)
+
+---
+
+### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">心肌梗塞</span>
+
+來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
+
+---
 
 ### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
 
@@ -63,22 +73,6 @@ last_modified_at: 2026-11-12
 2026-11-11 <span class="news-indication-tag">腫瘤</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
-
----
-
-### [有些長者已有阿茲海默症病變，為何記憶力仍然良好？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
-
-2026-11-10 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
-
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiqgFBVV95cUxObVdaVmo3OWY5RnFablpOZEpqVmpfSEJ0bHJRMWVWR00ycldjUWd2YlBsQVloYTdfNnRJUnB2VFNFR1ZGcFVDRkVTMXJ5UzZicF9OZHQ5cEFzOHE5TnVyZlB6djVfdHNJLU9JYjhfVGozclBXc0psNWxBSl95VzZ5d2NtS1lWQ042T0YtOHNuQ0lrcEZIQmxkVXdudEdSV19nSkl3VEtucGJnQQ?oc=5)
-
----
-
-### [阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
-
-2026-11-10 <span class="news-indication-tag">阿茲海默症</span>
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
 
 ---
 
@@ -114,11 +108,11 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
+### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
 
 2026-11-08 <span class="news-indication-tag">失智</span>
 
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
 
 ---
 

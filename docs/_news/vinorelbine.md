@@ -3,7 +3,7 @@ layout: default
 title: "Vinorelbine 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Vinorelbine 的相關健康新聞報導。原適應症：非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小...。預測適應症 10 個。"
+description: "Vinorelbine 的相關健康新聞報導。原適應症：非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小...。預測適應症 8 個。"
 permalink: /news/vinorelbine/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Vinorelbine 有什麼相關新聞？">
-<strong>Vinorelbine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vinorelbine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,16 +27,14 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小細胞肺癌，移轉性乳癌; 1.非小細胞肺癌  2.轉移性乳癌。; 非小細胞肺癌、移轉性乳癌。; 非小細胞肺癌，轉移性乳癌。</li>
 <li><strong>證據等級</strong>: L3</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>Ewing sarcoma</li>
-<li>fibromatosis, gingival</li>
+<li><strong>預測適應症（8 個）</strong>:<ul>
+<li>尤文氏肉瘤 (Ewing sarcoma)</li>
+<li>牙齦纖維瘤病 (fibromatosis, gingival)</li>
 <li>fibroma of lung</li>
 <li>lung germ cell tumor</li>
 <li>pulmonary sulcus neoplasm</li>
 <li>hamartoma of lung</li>
-<li>small cell lung carcinoma</li>
 <li>lung benign neoplasm</li>
-<li>lung hilum carcinoma</li>
 <li>pulmonary blastoma</li>
 </ul></li>
 </ul>

@@ -3,7 +3,7 @@ layout: default
 title: "Docetaxel 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Docetaxel 的相關健康新聞報導。原適應症：抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。;...。預測適應症 10 個。"
+description: "Docetaxel 的相關健康新聞報導。原適應症：抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。;...。預測適應症 7 個。"
 permalink: /news/docetaxel/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Docetaxel</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,17 +27,14 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。; １、乳癌 - 與doxorubicin和cyclophosphamide併用適用於可手術切除具有淋巴結轉移及無淋巴結轉移的乳癌病人的術後輔助療法。對於可接受手術切除且無淋巴結轉移的乳癌病人，輔助療法僅限用於可接受化學治療的病人，該化療方式則是遵照國際標準對早期乳癌之主要治療方式。 - 與doxorubicin併用適用局部晚期或轉移性乳癌且先前未曾接受過化學治療之病人。 - 單獨使用，適用於治療局部晚期或轉移性且先前化學治療失敗之乳癌病人。 - 與trastuzumab併用，可用於治療腫瘤HER</li>
 <li><strong>證據等級</strong>: L3</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>female breast carcinoma</li>
-<li>Ewing sarcoma</li>
-<li>well-differentiated fetal adenocarcinoma of the lung</li>
-<li>small cell lung carcinoma</li>
+<li><strong>預測適應症（7 個）</strong>:<ul>
+<li>尤文氏肉瘤 (Ewing sarcoma)</li>
 <li>primary pulmonary lymphoma</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina</li>
+<li>陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoid-type embryonal rhabdomyosarcoma of the vagina)</li>
 <li>pulmonary blastoma</li>
 <li>rhabdomyosarcoma (disease)</li>
 <li>embryonal extrahepatic bile duct rhabdomyosarcoma</li>
-<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>腦膜旁胚胎型橫紋肌肉瘤 (parameningeal embryonal rhabdomyosarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>

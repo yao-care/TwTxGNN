@@ -3,7 +3,7 @@ layout: default
 title: "levamisole 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "levamisole 的相關健康新聞報導。原適應症：驅除蛔蟲、鉤蟲、糞圓蟲。預測適應症 3 個。"
+description: "levamisole 的相關健康新聞報導。原適應症：驅除蛔蟲、鉤蟲、糞圓蟲。預測適應症 10 個。"
 permalink: /news/levamisole/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="levamisole 有什麼相關新聞？">
-<strong>levamisole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>levamisole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,10 +27,17 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 驅除蛔蟲、鉤蟲、糞圓蟲</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（3 個）</strong>:<ul>
-<li>drug-induced osteoporosis</li>
+<li><strong>預測適應症（10 個）</strong>:<ul>
+<li>藥物性骨質疏鬆 (drug-induced osteoporosis)</li>
 <li>benign neoplasm of tongue</li>
 <li>cervical neuroblastoma</li>
+<li>benign neoplasm of buccal mucosa</li>
+<li>會厭腫瘤 (epiglottis neoplasm)</li>
+<li>cystic neoplasm</li>
+<li>benign neoplasm of floor of mouth</li>
+<li>schwannoma of jugular foramen</li>
+<li>benign neoplasm of hypopharynx</li>
+<li>inner ear neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levamisole/' | relative_url }}">查看完整藥物報告 →</a></p>

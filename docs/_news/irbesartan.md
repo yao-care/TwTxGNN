@@ -3,7 +3,7 @@ layout: default
 title: "Irbesartan 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Irbesartan 的相關健康新聞報導。原適應症：本態性高血壓之治療。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 本態性高血壓。治療...。預測適應症 4 個。"
+description: "Irbesartan 的相關健康新聞報導。原適應症：本態性高血壓之治療。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 本態性高血壓。治療...。預測適應症 3 個。"
 permalink: /news/irbesartan/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Irbesartan 有什麼相關新聞？">
-<strong>Irbesartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 4 個。
+<strong>Irbesartan</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,11 +27,10 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 本態性高血壓之治療。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 本態性高血壓。治療併有高血壓及第二型糖尿病患者的高血壓及糖尿病性腎病變。; 降血壓劑; 降血壓劑。; 本態性高血壓之治療。治療併有高血壓及第二型糖尿病病人的高血壓及糖尿病性腎病變。; 降血壓藥; 本態性高血壓。</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（4 個）</strong>:<ul>
-<li>malignant hypertensive renal disease</li>
-<li>malignant renovascular hypertension</li>
+<li><strong>預測適應症（3 個）</strong>:<ul>
+<li>惡性高血壓腎病 (malignant hypertensive renal disease)</li>
+<li>肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/irbesartan/' | relative_url }}">查看完整藥物報告 →</a></p>

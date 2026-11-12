@@ -3,7 +3,7 @@ layout: default
 title: "Carboplatin 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Carboplatin 的相關健康新聞報導。原適應症：卵巢癌。; 卵巢癌; 上皮性卵巢癌、肺部小細胞癌及頭頸部麟狀細胞癌、子宮頸癌。; 卯巢癌; 抗腫瘤藥。預測適應症 10 個。"
+description: "Carboplatin 的相關健康新聞報導。原適應症：卵巢癌。; 卵巢癌; 上皮性卵巢癌、肺部小細胞癌及頭頸部麟狀細胞癌、子宮頸癌。; 卯巢癌; 抗腫瘤藥。預測適應症 9 個。"
 permalink: /news/carboplatin/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Carboplatin</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,9 +27,8 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 卵巢癌。; 卵巢癌; 上皮性卵巢癌、肺部小細胞癌及頭頸部麟狀細胞癌、子宮頸癌。; 卯巢癌; 抗腫瘤藥</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>female breast carcinoma</li>
-<li>rectum mucinous adenocarcinoma</li>
+<li><strong>預測適應症（9 個）</strong>:<ul>
+<li>直腸黏液腺癌 (rectum mucinous adenocarcinoma)</li>
 <li>colon mucinous adenocarcinoma</li>
 <li>adult germ cell tumor</li>
 <li>cervical mucinous adenocarcinoma</li>

@@ -3,7 +3,7 @@ layout: default
 title: "Mannitol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Mannitol 的相關健康新聞報導。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）。預測適應症 10 個。"
+description: "Mannitol 的相關健康新聞報導。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）。預測適應症 9 個。"
 permalink: /news/mannitol/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Mannitol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,17 +27,16 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis</li>
+<li><strong>預測適應症（9 個）</strong>:<ul>
+<li>腎因性抗利尿不適當綜合症 (nephrogenic syndrome of inappropriate antidiuresis)</li>
 <li>acute pulmonary heart disease</li>
-<li>exercise-induced malignant hyperthermia</li>
-<li>malignant hyperthermia, susceptibility to</li>
+<li>運動誘發惡性高熱 (exercise-induced malignant hyperthermia)</li>
 <li>familial periodic paralysis</li>
 <li>hypokalemic periodic paralysis</li>
 <li>congenital multicore myopathy with external ophthalmoplegia</li>
 <li>moderate multiminicore disease with hand involvement</li>
 <li>nephrogenic diabetes insipidus</li>
-<li>King-Denborough syndrome</li>
+<li>central core myopathy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "Hydroxyurea 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Hydroxyurea 的相關健康新聞報導。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭...。預測適應症 7 個。"
+description: "Hydroxyurea 的相關健康新聞報導。原適應症：慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭...。預測適應症 6 個。"
 permalink: /news/hydroxyurea/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Hydroxyurea 有什麼相關新聞？">
-<strong>Hydroxyurea</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Hydroxyurea</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,13 +27,12 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 慢性骨髓性白血病（治療前期與安寧療護）、復發／轉移／不可開刀之卵巢癌、與放射線併用於除唇外之原發性頭頸部鱗狀細胞癌之局部控制</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（7 個）</strong>:<ul>
-<li>female breast carcinoma</li>
+<li><strong>預測適應症（6 個）</strong>:<ul>
+<li>女性乳癌 (female breast carcinoma)</li>
 <li>sickle cell-hemoglobin E disease syndrome</li>
-<li>hereditary persistence of fetal hemoglobin-sickle cell disease syndrome</li>
 <li>cervical adenosarcoma</li>
 <li>colon mucinous adenocarcinoma</li>
-<li>rectum mucinous adenocarcinoma</li>
+<li>直腸黏液腺癌 (rectum mucinous adenocarcinoma)</li>
 <li>gallbladder mucinous adenocarcinoma</li>
 </ul></li>
 </ul>

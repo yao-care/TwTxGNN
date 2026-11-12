@@ -3,7 +3,7 @@ layout: default
 title: "Vismodegib 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Vismodegib 的相關健康新聞報導。原適應症：治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期(Locally Advanced)基底...。預測適應症 10 個。"
+description: "Vismodegib 的相關健康新聞報導。原適應症：治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期(Locally Advanced)基底...。預測適應症 8 個。"
 permalink: /news/vismodegib/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Vismodegib 有什麼相關新聞？">
-<strong>Vismodegib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Vismodegib</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,16 +27,14 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期(Locally Advanced)基底細胞癌成人病患。</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>medulloblastoma with extensive nodularity</li>
+<li><strong>預測適應症（8 個）</strong>:<ul>
+<li>伴有廣泛結節的髓母細胞瘤 (medulloblastoma with extensive nodularity)</li>
 <li>xeroderma pigmentosum</li>
 <li>annular epidermolytic ichthyosis</li>
 <li>epidermolysis bullosa simplex with mottled pigmentation</li>
-<li>prostate cancer/brain cancer susceptibility</li>
 <li>Brenner tumor</li>
 <li>cutaneous adenocystic carcinoma</li>
 <li>prostate leiomyoma</li>
-<li>skin cancer</li>
 <li>benign neoplasm of sweat gland</li>
 </ul></li>
 </ul>

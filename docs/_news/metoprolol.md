@@ -3,7 +3,7 @@ layout: default
 title: "Metoprolol 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Metoprolol 的相關健康新聞報導。原適應症：高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整...。預測適應症 10 個。"
+description: "Metoprolol 的相關健康新聞報導。原適應症：高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整...。預測適應症 6 個。"
 permalink: /news/metoprolol/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Metoprolol 有什麼相關新聞？">
-<strong>Metoprolol</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Metoprolol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,23 +27,19 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 高血壓、狹心症; 高血壓、狹心症。; 降血壓劑。; 降壓劑; 降血壓劑; 高血壓; 心室上部心律不整; 交感神經β１－感受體遮斷劑; 隆壓劑; 主治高血壓、心絞痛; 隆壓劑。; 高血壓。; 降壓劑。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後預防心肌之死亡及再梗塞、心律不整。; 高血壓？狹心症。; 高血壓、心絞痛、慢性心衰竭、在心肌梗塞之急性期後、預防心肌之死亡及再梗塞、心律不整、有心悸症狀之功能性心臟病。</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>malignant hypertensive renal disease</li>
-<li>malignant renovascular hypertension</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia</li>
+<li><strong>預測適應症（6 個）</strong>:<ul>
+<li>惡性高血壓腎病 (malignant hypertensive renal disease)</li>
+<li>肺疾病及（或）缺氧所致的肺高壓 (pulmonary hypertension owing to lung disease and/or hypoxia)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism</li>
 <li>Braddock syndrome</li>
-<li>posteroinferior myocardial infarction</li>
-<li>posterolateral myocardial infarction</li>
-<li>septal myocardial infarction</li>
 <li>chronic pulmonary heart disease</li>
-<li>trichotillomania</li>
+<li>拔毛症 (trichotillomania)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（6 則）
 
 ### [癌細胞竟會釋放物質「關掉」免疫攻擊！研究揭腫瘤逃脫關鍵手法](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnWXB5LW43dDA3SnNzTzdpcEx5M3RWMnpvM3RBZHZoT255SnI5RFpIZm1wV0ZvLXREVllycnh6eHVkUzd6eW5NTDlVTGFpUmkwY014X0FTTGJNYUl5TEhiSDd6NTY?oc=5)
 
@@ -58,14 +54,6 @@ last_modified_at: 2026-11-12
 2026-11-11 <span class="news-indication-tag">腫瘤</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
-
----
-
-### [48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5)
-
-2026-11-10 <span class="news-indication-tag">高血壓</span> <span class="news-indication-tag">腦血管</span>
-
-來源: [草根影響力新視野](https://news.google.com/rss/articles/CBMivwJBVV95cUxPZ2lXR0Z1QW0zWnBNQm83bE9uMHltV3U2c0NrLUd0YXd3NUl0blp2V2FBbi0wSmNwX1cxSzVGdGR2Nkh4Qk90Tk5zNXNtb0VZTGE5VnpHX2Z2dmI3WmNzYnl0Tm5JYmxGWEV1ZHhTRHM1WDV0TkhXcUdLUVRyaENxemI1dGlNZ3lfOXJ2OUJ1Y3BVRUJJbENiWVdEU2g1RUY2WU1fYTFqU2cxb0pxcFdRRk12ckc4M0J3MjVoN2QxRmRsUVdYWVMxSHdFRElmWEdNbFRoUDJvOGxoV1Zvc25NZHRJYmtCZjFTSnd0SWZFQmNzRWo2WTdKTHZmalQtejJMY0RVVU1SdElEeFhSbWhhRFNGaV93YkxNTFFXbW9RcS1ZQVVwcTVqTDZReG5pcXhRNmxiMnU4blZJN2dBX3RJ?oc=5)
 
 ---
 

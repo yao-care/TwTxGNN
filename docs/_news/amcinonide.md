@@ -3,7 +3,7 @@ layout: default
 title: "Amcinonide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Amcinonide 的相關健康新聞報導。原適應症：副腎上腺皮質荷爾蒙; 消炎、抗過敏; 副腎皮質荷爾蒙劑; 急慢性皮膚病如異味性皮膚炎、接觸性或濕疹性...。預測適應症 8 個。"
+description: "Amcinonide 的相關健康新聞報導。原適應症：副腎上腺皮質荷爾蒙; 消炎、抗過敏; 副腎皮質荷爾蒙劑; 急慢性皮膚病如異味性皮膚炎、接觸性或濕疹性...。預測適應症 7 個。"
 permalink: /news/amcinonide/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Amcinonide 有什麼相關新聞？">
-<strong>Amcinonide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Amcinonide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,14 +27,13 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 副腎上腺皮質荷爾蒙; 消炎、抗過敏; 副腎皮質荷爾蒙劑; 急慢性皮膚病如異味性皮膚炎、接觸性或濕疹性皮膚病，牛皮癬及神經性皮膚炎。; 急慢性皮膚病如異位性皮膚炎、接觸性或濕疹性皮膚病、牛皮癬及神經性皮膚炎; 皮膚炎群、皮膚搔癢症、、癢疹群、蟲螫、濕疹、苔癬化型濕疹、尿布疹、牛皮癬、富貴手、苔癬、頑癬、掌蹠膿？症、紅皮症、圓形脫毛症、紅斑症、汗斑、頭癬、日光皮膚炎、股癬、體癬</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（8 個）</strong>:<ul>
-<li>vulvar inverted follicular keratosis</li>
-<li>annular atrophic lichen planus</li>
-<li>lichen planus pigmentosus</li>
+<li><strong>預測適應症（7 個）</strong>:<ul>
+<li>外陰倒置性毛囊角化症 (vulvar inverted follicular keratosis)</li>
 <li>hypertrophic lichen planus</li>
+<li>lichen planus pigmentosus</li>
+<li>annular atrophic lichen planus</li>
 <li>lichen planus pemphigoides</li>
 <li>primary cutaneous B-cell lymphoma</li>
-<li>dermatitis</li>
 <li>2-hydroxyethyl methacrylate sensitization</li>
 </ul></li>
 </ul>

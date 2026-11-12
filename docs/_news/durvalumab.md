@@ -3,7 +3,7 @@ layout: default
 title: "Durvalumab 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Durvalumab 的相關健康新聞報導。原適應症：非小細胞肺癌（可切除之前導性／輔助治療，及局部晚期無法切除且放化療後未惡化者）、小細胞肺癌、膽道癌、...。預測適應症 10 個。"
+description: "Durvalumab 的相關健康新聞報導。原適應症：非小細胞肺癌（可切除之前導性／輔助治療，及局部晚期無法切除且放化療後未惡化者）、小細胞肺癌、膽道癌、...。預測適應症 6 個。"
 permalink: /news/durvalumab/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Durvalumab 有什麼相關新聞？">
-<strong>Durvalumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Durvalumab</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,12 +27,8 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 非小細胞肺癌（可切除之前導性／輔助治療，及局部晚期無法切除且放化療後未惡化者）、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌、膀胱癌</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（10 個）</strong>:<ul>
-<li>prostatic urethra urothelial carcinoma</li>
-<li>kidney pelvis sarcomatoid transitional cell carcinoma</li>
-<li>infiltrating bladder urothelial carcinoma sarcomatoid variant</li>
-<li>renal pelvis papillary urothelial carcinoma</li>
-<li>uterine ligament adenocarcinoma</li>
+<li><strong>預測適應症（6 個）</strong>:<ul>
+<li>子宮韌帶腺癌 (uterine ligament adenocarcinoma)</li>
 <li>endocervical carcinoma</li>
 <li>adenoid cystic carcinoma of the cervix uteri</li>
 <li>uterine ligament serous adenocarcinoma</li>

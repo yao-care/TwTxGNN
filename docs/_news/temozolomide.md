@@ -3,7 +3,7 @@ layout: default
 title: "Temozolomide 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "Temozolomide 的相關健康新聞報導。原適應症：新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性...。預測適應症 2 個。"
+description: "Temozolomide 的相關健康新聞報導。原適應症：新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性...。預測適應症 1 個。"
 permalink: /news/temozolomide/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Temozolomide 有什麼相關新聞？">
-<strong>Temozolomide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Temozolomide</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -27,9 +27,8 @@ last_modified_at: 2026-11-12
 <ul>
 <li><strong>原適應症</strong>: 新診斷的多形神經膠母細胞瘤，與放射治療同步進行，然後作為輔助性治療；給予標準治療後復發性或惡化之惡性神經膠質瘤，例如多形神經膠母細胞瘤或退行性星狀細胞瘤</li>
 <li><strong>證據等級</strong>: L5</li>
-<li><strong>預測適應症（2 個）</strong>:<ul>
-<li>adult astrocytic tumour</li>
-<li>cauda equina neoplasm</li>
+<li><strong>預測適應症（1 個）</strong>:<ul>
+<li>馬尾腫瘤 (cauda equina neoplasm)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>
