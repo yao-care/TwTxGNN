@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "失智症 (dementia) 相關新聞"
+title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智症 (dementia) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-13
 ---
 
-# 失智症 (dementia) 相關新聞
+# 阿茲海默症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
-<strong>失智症 (dementia)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,13 +30,13 @@ last_modified_at: 2026-11-13
 </ul>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（3 則）
 
-### [避免失智壯年就要開始做！疏通肝經助氣血循環到腦部 還能助好眠](https://news.google.com/rss/articles/CBMipgNBVV95cUxONkxQSTQ2NExZVmVyc2FOLTZ4MHBsQ3NnTmIxZVpYOS1pY0dzS1lFSEJkaXZ5WDBwRmFnUjV5bHRSalhXLW45SG9lMjZXWHhTb2VsX3o1N2FlOFJWQldESnVXcHhfUVl4LTl3NlBSRDVMYjNnTEJLWGltRXA2SnBXU2V3eVV2OV9IaWptZG9FZXJ6QnJZTzZuNy15NGRPalRfa0VzaFAtU0JreERvUkxWLW9hU1ozY0dtVHF4V3hkbXVwZzJaNjRoOGdUUVZlNDVJWEFtT2oteVpNNmZHcFlwRE8zZlNtejFPRzBLX0Ytd3BJdV83a1pqak5CaVdFSGpfdlhnNEZWY2tuaVlXeFo5blVjRXp1cjRhbUttWl9EZ1FrblMtT1pGRTNod0E0TDhYem1IS1J6LXJnT0Y4OWxSTGk2Mm5MWGU1aHFJbzAtWGRDeTVXRmFUTGZHcm9USGtmZ3BKZzdrV2h1S2dxYzVvdU12djdXR0g2WjRmTVVHTWVRczNnQnBlc2xXcThDZUxxN0prbDZReWlkNXRVclNONXBnLWxIUQ?oc=5)
+### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMi4wNBVV95cUxPNzlqQU5EcE1BZ3NkRE82N1QxdkgxNDdLalhqOXltR0ZQVEpLS0ZxaUsxVmQ0aUo2X0xTSlZSQkM2emtHanVhMGxULS1temFCNjRPaU1TY0p1RFZveXRwaWk0RmZNUTlHVHFzQ0JpalhieDhDdUdiNmxFRDM5bEpvWVFjb2ItdkM3UXhOdGw5Q2FJQ3Z6anU1cDZsemQzTGdNazU0QTVCclFiaTlTNDFMaERJem5MelA5ZzNNbEJtdjdnUXlaaG5oR0tzR1BvaGZ4Wk5uM2x2MXVieHpwZ0VFYV83dWIxSDZlYVZxYlVCRVJrMnNYdTUtZUtwX0ttNWxzY3NmZkswLUl1NXJPYlhJWjZkVVpBcWp5dWlDbG0wdy1aTlRiNzVjdko4b19zdUVQQlpLanFWd3dCN2EwcEZyQXdldi05MTRxWGxTbXAwWHluMzhFcDhfcWJyNnNfZks3RHlkb3l6Vnc4LWFEZEpWbVRVTHk4TGJVNi1ORXVZZjltbDR5TlpjOFhJbFFnUmpXQ0l0UlJRYmNLRmZoRTc5QWZ2WGdEYVVmRURZbU5yZmJGRU1ybks0MnJESG9sdGZobWE5aHlPdC1WZ203X1VNOHM2YkNUanhJanZlUER3VVhJVjQ?oc=5)
 
-2026-11-13
+2026-11-12
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMipgNBVV95cUxONkxQSTQ2NExZVmVyc2FOLTZ4MHBsQ3NnTmIxZVpYOS1pY0dzS1lFSEJkaXZ5WDBwRmFnUjV5bHRSalhXLW45SG9lMjZXWHhTb2VsX3o1N2FlOFJWQldESnVXcHhfUVl4LTl3NlBSRDVMYjNnTEJLWGltRXA2SnBXU2V3eVV2OV9IaWptZG9FZXJ6QnJZTzZuNy15NGRPalRfa0VzaFAtU0JreERvUkxWLW9hU1ozY0dtVHF4V3hkbXVwZzJaNjRoOGdUUVZlNDVJWEFtT2oteVpNNmZHcFlwRE8zZlNtejFPRzBLX0Ytd3BJdV83a1pqak5CaVdFSGpfdlhnNEZWY2tuaVlXeFo5blVjRXp1cjRhbUttWl9EZ1FrblMtT1pGRTNod0E0TDhYem1IS1J6LXJnT0Y4OWxSTGk2Mm5MWGU1aHFJbzAtWGRDeTVXRmFUTGZHcm9USGtmZ3BKZzdrV2h1S2dxYzVvdU12djdXR0g2WjRmTVVHTWVRczNnQnBlc2xXcThDZUxxN0prbDZReWlkNXRVclNONXBnLWxIUQ?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi4wNBVV95cUxPNzlqQU5EcE1BZ3NkRE82N1QxdkgxNDdLalhqOXltR0ZQVEpLS0ZxaUsxVmQ0aUo2X0xTSlZSQkM2emtHanVhMGxULS1temFCNjRPaU1TY0p1RFZveXRwaWk0RmZNUTlHVHFzQ0JpalhieDhDdUdiNmxFRDM5bEpvWVFjb2ItdkM3UXhOdGw5Q2FJQ3Z6anU1cDZsemQzTGdNazU0QTVCclFiaTlTNDFMaERJem5MelA5ZzNNbEJtdjdnUXlaaG5oR0tzR1BvaGZ4Wk5uM2x2MXVieHpwZ0VFYV83dWIxSDZlYVZxYlVCRVJrMnNYdTUtZUtwX0ttNWxzY3NmZkswLUl1NXJPYlhJWjZkVVpBcWp5dWlDbG0wdy1aTlRiNzVjdko4b19zdUVQQlpLanFWd3dCN2EwcEZyQXdldi05MTRxWGxTbXAwWHluMzhFcDhfcWJyNnNfZks3RHlkb3l6Vnc4LWFEZEpWbVRVTHk4TGJVNi1ORXVZZjltbDR5TlpjOFhJbFFnUmpXQ0l0UlJRYmNLRmZoRTc5QWZ2WGdEYVVmRURZbU5yZmJGRU1ybks0MnJESG9sdGZobWE5aHlPdC1WZ203X1VNOHM2YkNUanhJanZlUER3VVhJVjQ?oc=5)
 
 ---
 
@@ -48,19 +48,11 @@ last_modified_at: 2026-11-13
 
 ---
 
-### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
+### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 2026-11-08
 
-來源: [元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
-
----
-
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
-
-2026-11-08
-
-來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 ---
 
