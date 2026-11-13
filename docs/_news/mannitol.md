@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Mannitol 的相關健康新聞報導。原適應症：利尿、降顱內壓、腦水腫、促進毒物之尿中排除、腎小球過濾速率之測定（診斷用）。預測適應症 9 個。"
 permalink: /news/mannitol/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Mannitol 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Mannitol 有什麼相關新聞？">
-<strong>Mannitol</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Mannitol</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/mannitol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [年滿50歲？前列腺癌篩查不再是可選項了](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+2026-11-13 <span class="news-indication-tag">癌症</span>
+
+來源: [华尔街日报中文网](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+---
 
 ### [女性每周重訓超過1時數 研究揭：重大心血管疾病風險降20%](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5)
 

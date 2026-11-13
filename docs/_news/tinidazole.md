@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Tinidazole 的相關健康新聞報導。原適應症：男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎。預測適應症 10 個。"
 permalink: /news/tinidazole/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Tinidazole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [年滿50歲？前列腺癌篩查不再是可選項了](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+2026-11-13 <span class="news-indication-tag">癌症</span>
+
+來源: [华尔街日报中文网](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+---
 
 ### [58歲婦人車禍後突發「心碎症候群」！醫師提醒：更年期女性別忽略心血管健康](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwV1NUX3FGU25ndTFQQzBxQjlMdl8wU0RkeEh1OG42c2pfZUt4c3Nzc2Exbkk3X19aVXpSUlJBWVpXOUwwY0hPRWh6Zy1WMTVlSkJwMjE4ZkFZQdIBX0FVX3lxTE0yTjJma1BzM29LZE95ZEVncWxuQ0ZOUEdCZUpPU3lOV0RPdUVMM2ZWa0h0WmZHUlBxUG1nU2d4ZW1lQUEtMTBHcDNtLS1ocE9QeGJHeEo1anctZnlHYzV3?oc=5)
 

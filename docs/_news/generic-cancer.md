@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "腫瘤 (generic_cancer) 相關新聞"
+title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。7 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。8 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
-# 腫瘤 (generic_cancer) 相關新聞
+# 癌症 (generic_cancer) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>7 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>8 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -76,7 +76,15 @@ last_modified_at: 2026-11-12
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [年滿50歲？前列腺癌篩查不再是可選項了](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+2026-11-13
+
+來源: [华尔街日报中文网](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+---
 
 ### [專家提醒：甲狀腺腫瘤患者需重視定期隨訪](https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5)
 

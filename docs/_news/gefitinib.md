@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 9 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # Gefitinib 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（12 則）
+
+### [年滿50歲？前列腺癌篩查不再是可選項了](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+2026-11-13 <span class="news-indication-tag">癌症</span>
+
+來源: [华尔街日报中文网](https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5)
+
+---
+
+### [避免失智壯年就要開始做！疏通肝經助氣血循環到腦部 還能助好眠](https://news.google.com/rss/articles/CBMipgNBVV95cUxONkxQSTQ2NExZVmVyc2FOLTZ4MHBsQ3NnTmIxZVpYOS1pY0dzS1lFSEJkaXZ5WDBwRmFnUjV5bHRSalhXLW45SG9lMjZXWHhTb2VsX3o1N2FlOFJWQldESnVXcHhfUVl4LTl3NlBSRDVMYjNnTEJLWGltRXA2SnBXU2V3eVV2OV9IaWptZG9FZXJ6QnJZTzZuNy15NGRPalRfa0VzaFAtU0JreERvUkxWLW9hU1ozY0dtVHF4V3hkbXVwZzJaNjRoOGdUUVZlNDVJWEFtT2oteVpNNmZHcFlwRE8zZlNtejFPRzBLX0Ytd3BJdV83a1pqak5CaVdFSGpfdlhnNEZWY2tuaVlXeFo5blVjRXp1cjRhbUttWl9EZ1FrblMtT1pGRTNod0E0TDhYem1IS1J6LXJnT0Y4OWxSTGk2Mm5MWGU1aHFJbzAtWGRDeTVXRmFUTGZHcm9USGtmZ3BKZzdrV2h1S2dxYzVvdU12djdXR0g2WjRmTVVHTWVRczNnQnBlc2xXcThDZUxxN0prbDZReWlkNXRVclNONXBnLWxIUQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMipgNBVV95cUxONkxQSTQ2NExZVmVyc2FOLTZ4MHBsQ3NnTmIxZVpYOS1pY0dzS1lFSEJkaXZ5WDBwRmFnUjV5bHRSalhXLW45SG9lMjZXWHhTb2VsX3o1N2FlOFJWQldESnVXcHhfUVl4LTl3NlBSRDVMYjNnTEJLWGltRXA2SnBXU2V3eVV2OV9IaWptZG9FZXJ6QnJZTzZuNy15NGRPalRfa0VzaFAtU0JreERvUkxWLW9hU1ozY0dtVHF4V3hkbXVwZzJaNjRoOGdUUVZlNDVJWEFtT2oteVpNNmZHcFlwRE8zZlNtejFPRzBLX0Ytd3BJdV83a1pqak5CaVdFSGpfdlhnNEZWY2tuaVlXeFo5blVjRXp1cjRhbUttWl9EZ1FrblMtT1pGRTNod0E0TDhYem1IS1J6LXJnT0Y4OWxSTGk2Mm5MWGU1aHFJbzAtWGRDeTVXRmFUTGZHcm9USGtmZ3BKZzdrV2h1S2dxYzVvdU12djdXR0g2WjRmTVVHTWVRczNnQnBlc2xXcThDZUxxN0prbDZReWlkNXRVclNONXBnLWxIUQ?oc=5)
+
+---
 
 ### [專家提醒：甲狀腺腫瘤患者需重視定期隨訪](https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5)
 
@@ -92,19 +108,19 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
-
-2026-11-08 <span class="news-indication-tag">失智</span>
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
-
----
-
 ### [還沒健忘就能看出失智風險？研究發現大腦活動藏有早期線索](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
 
 2026-11-08 <span class="news-indication-tag">失智</span>
 
 來源: [元氣網](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRdIBY0FVX3lxTE5vLURHVTZ2d3p3alg5STAtZUxpcWZpUU81dE5peFdCYzJlaVE1NTZ5UHVRVVE0TGt2WUtHSDBGNlIyYnB1ODBsV2xKcU5fc2ppTHpBUWFfTHVOb0c3am1kbXFqRQ?oc=5)
+
+---
+
+### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% - TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
+
+2026-11-08 <span class="news-indication-tag">失智</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMiekFVX3lxTFBYZi1nY0otWHJ1enVwUnpEekV3ZlV0VGFUc181SjhZc2tSb0Y1cDVJRnZDVWdyaW5nRXY5Z1FFdUZsSnR0NWZCSlFpaUJGazV5U0JFNUxHNnJ0YTRkWkRtNUpudzJ1bUNMQlJXNEFNWXJ4WjR2SDkyNC1R?oc=5)
 
 ---
 
