@@ -7,7 +7,7 @@
   "title": "TwTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "publisher": "TwTxGNN",
   "contact": [
     {
@@ -55,6 +55,25 @@
               "code": "read"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://yao.care/fhir/StructureDefinition/txgnn-resource-counts",
+      "extension": [
+        {
+          "url": "MedicationKnowledge",
+          "valueInteger": 291
+        },
+        {
+          "url": "ClinicalUseDefinition",
+          "valueInteger": 1960
+        },
+        {
+          "url": "countedAt",
+          "valueDate": "2026-11-13"
         }
       ]
     }
