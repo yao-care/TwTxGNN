@@ -80,17 +80,12 @@
     {
       "url": "/news/avelumab/",
       "title": "Avelumab 相關新聞",
-      "count": 9
+      "count": 8
     },
     {
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 8
-    },
-    {
-      "url": "/news/herpes-zoster/",
-      "title": "皮蛇 (herpes zoster) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/bempedoic-acid/": [
@@ -127,6 +122,11 @@
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 8
+    },
+    {
+      "url": "/news/腹瀉/",
+      "title": "腹瀉 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/bevacizumab/": [
@@ -157,7 +157,7 @@
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 8
+      "count": 9
     },
     {
       "url": "/news/generic-cancer/",
@@ -167,7 +167,7 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/cefmetazole/": [
@@ -360,7 +360,7 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 8
+      "count": 9
     },
     {
       "url": "/news/generic-cancer/",
@@ -370,7 +370,7 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/hydroxyprogesterone-caproate/": [
@@ -399,7 +399,7 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/卵巢癌/",
@@ -459,22 +459,22 @@
     {
       "url": "/news/isosorbide_dinitrate/",
       "title": "Isosorbide dinitrate 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/cardiovascular/",
       "title": "心血管 (cardiovascular) 相關新聞",
-      "count": 5
-    },
-    {
-      "url": "/news/心血管疾病/",
-      "title": "心血管疾病 相關新聞",
-      "count": 2
+      "count": 4
     },
     {
       "url": "/news/heart-disease/",
       "title": "心臟病 (heart_disease) 相關新聞",
       "count": 2
+    },
+    {
+      "url": "/news/心血管疾病/",
+      "title": "心血管疾病 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/levamisole/": [
@@ -575,7 +575,7 @@
     {
       "url": "/news/oteracil/",
       "title": "Oteracil 相關新聞",
-      "count": 8
+      "count": 9
     },
     {
       "url": "/news/generic-cancer/",
@@ -585,12 +585,12 @@
     {
       "url": "/news/colonic-neoplasm/",
       "title": "大腸癌 (colonic neoplasm) 相關新聞",
-      "count": 1
+      "count": 2
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/ouabain/": [
@@ -636,7 +636,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 10
+      "count": 9
     },
     {
       "url": "/news/generic-cancer/",

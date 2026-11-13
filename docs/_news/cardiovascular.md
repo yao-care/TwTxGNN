@@ -3,7 +3,7 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-13
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（4 則）
 
 ### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMi4wNBVV95cUxPNzlqQU5EcE1BZ3NkRE82N1QxdkgxNDdLalhqOXltR0ZQVEpLS0ZxaUsxVmQ0aUo2X0xTSlZSQkM2emtHanVhMGxULS1temFCNjRPaU1TY0p1RFZveXRwaWk0RmZNUTlHVHFzQ0JpalhieDhDdUdiNmxFRDM5bEpvWVFjb2ItdkM3UXhOdGw5Q2FJQ3Z6anU1cDZsemQzTGdNazU0QTVCclFiaTlTNDFMaERJem5MelA5ZzNNbEJtdjdnUXlaaG5oR0tzR1BvaGZ4Wk5uM2x2MXVieHpwZ0VFYV83dWIxSDZlYVZxYlVCRVJrMnNYdTUtZUtwX0ttNWxzY3NmZkswLUl1NXJPYlhJWjZkVVpBcWp5dWlDbG0wdy1aTlRiNzVjdko4b19zdUVQQlpLanFWd3dCN2EwcEZyQXdldi05MTRxWGxTbXAwWHluMzhFcDhfcWJyNnNfZks3RHlkb3l6Vnc4LWFEZEpWbVRVTHk4TGJVNi1ORXVZZjltbDR5TlpjOFhJbFFnUmpXQ0l0UlJRYmNLRmZoRTc5QWZ2WGdEYVVmRURZbU5yZmJGRU1ybks0MnJESG9sdGZobWE5aHlPdC1WZ203X1VNOHM2YkNUanhJanZlUER3VVhJVjQ?oc=5)
 
@@ -61,14 +61,6 @@ last_modified_at: 2026-11-13
 2026-11-12
 
 來源: [巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ05wcnFVdUVHVUhYTUhrRzNaRzgzMEJqMVNrN0lKSWdzT0pMN1NvOHByZVN6ME5YZnFRN3RJcEhsQmdGLXVJSFZXX3kySFFaY05fYUd0cGZMYXI0dXFPMG4tNDhXMW5IdFJMMlJZbDU5a1NySTh1OW9DZ3I3Y1JtaTVpWF92cWNibkExZjFWOHF0UW5CTHliWENTWTd2cjljRWd3SVM2bDV1NU91bFRibUV1ZHkwQUg4X3g5SWRrZy1KNEJlcUJ0TnBBWjR1YU1wWkhRNlh5RkFESGpYR2tjUUtDbUhWbDZfV2xJVjVfUlBoR1l1RC16NnY5cEFya2FCTUhLNjVKNk1PbEl1RVhvVmU1aVB2bVBWMHNFZGpEZWF0SVN1NDFvdXpPb1FxZHBTVzdRMlpFY2tWbnRPQVhwZS04QllyTWpnMDdqVmhTVjBYSkF1RmhkSUhhbFV0dU9Rc3lkREY0X3ZKVklhb0lF?oc=5)
-
----
-
-### [飲果汁未必等於食水果？ 研究揭果汁與心血管疾病關聯完整水果或更護心](https://news.google.com/rss/articles/CBMi7gJBVV95cUxObFd2OG9oUlc0OXNKVFJ1Z3J6S2hOeEhWWlpIMUFpWDdHMm1vWGdUTWNMU3QxQUVTbF9RdXNjSEt1QUprdC1QbHNNd2E0VVM3UmtaMF9tcDBpUVpYOUs2VUhhT2NTX2dBVE9uOWFEaUdZVjh1UUJkM2Vwak1Gc2prOEJvRndWcVZzNUdPaUE3VFNqRGJPSkp0V3JHUXgwTmJTWGo5V3UyejFsU1AzelpTY29hWFJ2X1o2SXgzYmR2VlJFMnlzYUxhakZqNy1GMDhMa1FDWVdLY2w0NXNLRnhBRk8wM1hza3htcXR4V2NIdWMwa210UlFJc3p2MkhZMl9zNGZnX2NMRUx6bHZ6aWZEZFUzeGw3NXQ1WlhBOE94NkpFWm9EUkFhVC14cVdFQnREQzhqQXhsNm5od0p0SFFZQVg1WlJnUnE5RGdkcEk2M3VBZVFKaEkwekhUUVJ5eTRtcXUzVXdJOGx0NldkSWc?oc=5)
-
-2026-11-11
-
-來源: [巴士的報](https://news.google.com/rss/articles/CBMi7gJBVV95cUxObFd2OG9oUlc0OXNKVFJ1Z3J6S2hOeEhWWlpIMUFpWDdHMm1vWGdUTWNMU3QxQUVTbF9RdXNjSEt1QUprdC1QbHNNd2E0VVM3UmtaMF9tcDBpUVpYOUs2VUhhT2NTX2dBVE9uOWFEaUdZVjh1UUJkM2Vwak1Gc2prOEJvRndWcVZzNUdPaUE3VFNqRGJPSkp0V3JHUXgwTmJTWGo5V3UyejFsU1AzelpTY29hWFJ2X1o2SXgzYmR2VlJFMnlzYUxhakZqNy1GMDhMa1FDWVdLY2w0NXNLRnhBRk8wM1hza3htcXR4V2NIdWMwa210UlFJc3p2MkhZMl9zNGZnX2NMRUx6bHZ6aWZEZFUzeGw3NXQ1WlhBOE94NkpFWm9EUkFhVC14cVdFQnREQzhqQXhsNm5od0p0SFFZQVg1WlJnUnE5RGdkcEk2M3VBZVFKaEkwekhUUVJ5eTRtcXUzVXdJOGx0NldkSWc?oc=5)
 
 ---
 
