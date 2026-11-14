@@ -1,8 +1,61 @@
 {
-  "last_updated": "2026-11-13T18:58:03.544579+00:00",
-  "total_count": 41,
-  "matched_count": 20,
+  "last_updated": "2026-11-14T00:10:20.021908+00:00",
+  "total_count": 44,
+  "matched_count": 22,
   "news": [
+    {
+      "id": "e661cace543e",
+      "title": "本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱 - UHK 港生活",
+      "published": "2026-11-13T23:32:11+00:00",
+      "summary": "本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱&nbsp;&nbsp;UHK 港生活",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNXVGYjhQSkMxTEFVcG9HUlhjWDl2OE9SM2xpVG5XMk9uekNVWkhUZDlSRWFWcGFVWnc2bXFhM2pkNFBCS2dHeEdKR0hGRm04NVlpRHhlb2pseDFCa3lIUEJ3SHBuV3Bka3RDMlVreVNuaFI1aEx6RGxYaGpkTEs1WmZHZllIMGhpbTlSc3ZrbGVtLW5mWDVDcklvSXlMQVY1YVJLMDI0WmFwS1NBQzRDMzE3TU9zazBLNUZka0dQNWpnUkp4N1dnclJxamUxcG5Vdm9QSExIejVGTG5WWlM4T1ltbjRSUkNrZXBXeVJ5XzMzVnBTUG91MGRIcTdlLXVibWREVlhLbWYzT0xUS3pmaVNGMktidmI5NDI3VXJwLV9FZUV3eHpCd0xySzlwT1Bza1czRExJV19keUZtYTN4LTMtek9xTkpsRFd3SVhiOEJnRmZaRnlRUUtKbzVmRXFVemZGVnlHTXFWUWdlS3B3MjE3ckpsOXZDa0lPRThhSzdELTdySEhZRWdhaXc3VGtRVG9qR1VsTHdZbWdGLUlQUVN5ZHo2cENCcUFzN09BdFRINC01MjI4VFdDZnlKZXY5UnRSdmh4WVB0MmJWMkx5blFzWTBZRU5x?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "ca9f764549ac",
       "title": "唾液檢測掌握生理時鐘，德國新創 TimeTeller 助癌症治療精準掌握「給藥時機」 - TechNews 科技新報",
@@ -629,6 +682,262 @@
       ]
     },
     {
+      "id": "ef34a87b0d9a",
+      "title": "年滿50歲？前列腺癌篩查不再是可選項",
+      "published": "2026-11-13T01:22:17+00:00",
+      "summary": "年滿50歲？前列腺癌篩查不再是可選項&nbsp;&nbsp;华尔街日报中文网美癌症協會：男性50歲後應兩年做一次PSA檢測&nbsp;&nbsp;大紀元美國癌症協會修訂指引 建議定期篩檢前列腺癌&nbsp;&nbsp;Singtaousa攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次&nbsp;&nbsp;中時新聞網美國癌症協會修訂指引 建議中年男士定期篩查前列腺癌&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9cee7e8b72bc",
       "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意",
       "published": "2026-11-12T16:55:11+00:00",
@@ -682,24 +991,11 @@
       "id": "f23c9e6cc4c8",
       "title": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗",
       "published": "2026-11-12T14:11:00+00:00",
-      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元美CDC證實今年已6人死於麻疹 疫情創數十年來最嚴重 | 民視新聞網&nbsp;&nbsp;LINE TODAY大砍防疫人力、動搖疫苗政策嘗苦果 美國恐失「麻疹消除國」地位&nbsp;&nbsp;中時新聞網累計報告數千麻疹病例 美國或失去「麻疹消除國」地位&nbsp;&nbsp;香港文匯報病毒傳播年餘 美已不具備麻疹根除資格&nbsp;&nbsp;Singtaousa",
+      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元美CDC證實今年已6人死於麻疹 疫情創數十年來最嚴重 | 民視新聞網&nbsp;&nbsp;LINE TODAY大砍防疫人力、動搖疫苗政策嘗苦果 美國恐失「麻疹消除國」地位&nbsp;&nbsp;中時新聞網賓州麻疹逾1500例 孕婦感染創數十年新高&nbsp;&nbsp;世界新聞網病毒傳播年餘 美已不具備麻疹根除資格&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhb0M5Zk9VcTEwUFNVbjdqZ3FxT1ZVQUVvOENGSU0wOWpDWGQ5U3c0cmp3ak5BX0kyb25MTkdwMXV6WWRyNVRnMWJYNDBNVFJWUXdGaS1iUmlDdGZRQnJKYmxn0gFnQVVfeXFMTUdnc3VLTUcwVmR4c3NFZGJUOHpIbG1GRlBEcHZHd2FWQ2U4TDFNdlB4clhCQjZMX0w0bVVWZW85SVgycWVRUUxlV1o4MThkRFUtX0lKckhyWXprV015UU41aG9IbE5zYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "46fd9db6da33",
-      "title": "招蚊子體質真相大白！研究揭「蚊子挑人真相」 3大偏好曝光",
-      "published": "2026-11-12T13:07:00+00:00",
-      "summary": "招蚊子體質真相大白！研究揭「蚊子挑人真相」 3大偏好曝光&nbsp;&nbsp;Yahoo新聞特別好吃？為什麼蚊子只叮你 科學家實驗揭露「蚊子挑人秘密」&nbsp;&nbsp;UDN美國研究揭3病媒蚊叮人各有所好 人類皮膚的「氣味指紋」成關鍵&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOcjJsNkZCUFRIUTl5VXBnODBDOHdMTjVjdHVTYW50REZhbWhWYjExcm1Xa2pCY3N3Ti1aRlZSeXFTVzQ5NzQzd2h6ZjR0THBGci1XVXlya210cGNKVjRSSEpraTQ0dVRhSFc5cWtYVXlaR0xLYk5PSUladkN0MV9jWmkwc3pwemNLalp3elhsX0NCNlFiZm5CSG5vMGZZTDltOGJjZmhuTWRUVGUyejVlUVNhdEV2M2x0WE1rNWN4MDdWdmJxanF3X0ZzbWl0UmVtNldyZFdrT2JuUWdSQWNod0hEZlRfbFRxNUN6ZkVDcEJaT3hHVS1Pb2llZGJpV29CQnF1ZTliekdxdGNPRGRfNmFLa3hIYXFkVUlhWTZOaTFqVGZPdk9wNDlodWdaNGNRTF95cEkxMFBlcEV4Q2RwUUxGd01GdmJGdlJGeXBPM3lQUXNhWWFfeUxuVFZEZ0t2Nk5SNk9rWE5KcFN3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -865,6 +1161,19 @@
       ]
     },
     {
+      "id": "45872f3e02c2",
+      "title": "連吃2天壞膽固醇降10%！最新研究揭燕麥「降脂奇效」關鍵是它- 營養好食 - TVBS 健康2.0",
+      "published": "2026-11-12T09:28:00+00:00",
+      "summary": "連吃2天壞膽固醇降10%！最新研究揭燕麥「降脂奇效」關鍵是它- 營養好食&nbsp;&nbsp;TVBS 健康2.0健康網》燕麥降膽固醇有新發現！ 營養師教5招吃對幫助更大&nbsp;&nbsp;自由健康網只食水煮燕麥未必降膽固醇？營養師教5招跟住做 買麥片首選這一款「神隊友」！&nbsp;&nbsp;加拿大星島日報三高管理｜新研究揭燕麥降膽固醇機制配合蛋白質吸收效果更佳專家推薦5大降血脂食法| 健康&nbsp;&nbsp;東方新地不只少吃蛋肉！研究曝燕麥新機制：連吃2天「壞膽固醇降10%」&nbsp;&nbsp;TVBS新聞網",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FQTRabllQWGhZQ1gySi0yVVJMV3cwWU5PSi14RXF4eEJFNEJwQ0RvNFh3UnlaUTBmUXoyZ2VJS0Y4LVhHLWdWckdEa0VXZnE5cm0wdkhB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "dd2c416740af",
       "title": "MIT 推出 WorldParticle 單一 AI 模型，從沙土、液體到蛋白質皆可模擬 | 科技新報 - LINE TODAY",
       "published": "2026-11-12T08:51:05+00:00",
@@ -939,6 +1248,19 @@
         {
           "name": "AM730",
           "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOczMxVVc4N3BaUkRkUnJSQXFMTDJfMlJfMG0wTnE3dVQ0NjhxaUhyeEF0Y3VpVEllMFVTNFhqN1lmZ1VzNFQ1UlM1c1pRUzFQMWRjQmpzZGRDd3dXZnZRdUF0X19GSnFZSDVkd1FTWUxfXzJPSnl5ZFl6TnhuYzQ2NndXRkFxT3RQaFAybkdLQ2JzZHZLa2ppTWtXcjdITzhLWmlfbU9hRWVuZzlTYXFIZFZpeDBSZmpqOFJJVWtyVDl3NTk1WmwyR2ZRY1N0SFV5QXhXUUh5VWppVkZzWWMya0EtSlY1Wm1OeTNIWl9waG82TmNJZmFJRGpxdUQxWmZfVUthU3ROVzFKY1pJNl9EZTlVZkg0NHQ2X29fR21tR0I5OG92QW9mOF9qdDdLVUVaWkZVZVhpNWluVHRXdF9Kc2RGZEdfeXBxSzVwQTVZR3FzNTVSUi13V080b0F5S2RaUzNod3FYVWFlUTZ1M2xVZnI1eTVHdy10RGFrTDFhYTFCcmtjd3VUQlJQNllCSlowRm1TdG5pdXVCNlRYVTg2b1dKa1UwSE81M01r?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cb8d6a921c90",
+      "title": "黑芝麻真的能補鈣？營養師為你拆解高鈣迷思 - etnet 經濟通",
+      "published": "2026-11-12T04:43:56+00:00",
+      "summary": "黑芝麻真的能補鈣？營養師為你拆解高鈣迷思&nbsp;&nbsp;etnet 經濟通維生素D補過頭 恐血鈣過高傷腎&nbsp;&nbsp;短新聞SHOTNEWS夜班工作者的維生素D缺乏問題比你想的更複雜？醫師說補充劑量要跟日照族群完全不同才有意義&nbsp;&nbsp;墨新聞-MORE News補鈣不是愈多愈好！營養師拆解4 大迷思過量或增腎結石風險&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQSjh4dWNTOEU5YWU5eVJVU3hYd3Jod2VmN0lPNHU3OGlRa0FNWU00YmlMTnQzZTlDR0JwZW9hTFJrNDRMY291UWZQUjVhTEFsX0NfeHFZcnFNRnRyQXdPZkl1bjZlN0hHbUpYcW1sdmtpOTZzREEtMEtuS3BCenQzT0J2QkZWUFBVMGdnaXpfLTNWeGFTZjJ6czZaUTF4Mmd4QjRUQVJlV0lnTk1EQ0tfcUY0SlByazg4WFdDU2IwdkNraVJfN3lzakJnNjlpLVIwOHVxX29BM1NkSkZHUnZvZHdQek5Sd1k1WG1NeThXc1dvTVlFS04wSXJRbGx5Qm54Wk4ySk52X1hGRm1jaU9sUlktd0pzb2R3T29yeWFBME1vQWt1ZG1uRkJaRkpSTG1VdFlXTDNKVkJ4U0hvWGJqS3puTkdlc2hOMHc?oc=5"
         }
       ],
       "matched_keywords": []

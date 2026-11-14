@@ -1,17 +1,29 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-13T18:58:01.005427+00:00",
-  "count": 41,
+  "fetched_at": "2026-11-14T00:10:18.219302+00:00",
+  "count": 44,
   "news": [
     {
-      "id": "46fd9db6da33",
-      "title": "招蚊子體質真相大白！研究揭「蚊子挑人真相」 3大偏好曝光 - Yahoo新聞",
-      "published": "2026-11-12T13:07:00+00:00",
-      "summary": "招蚊子體質真相大白！研究揭「蚊子挑人真相」 3大偏好曝光&nbsp;&nbsp;Yahoo新聞特別好吃？為什麼蚊子只叮你 科學家實驗揭露「蚊子挑人秘密」&nbsp;&nbsp;UDN美國研究揭3病媒蚊叮人各有所好 人類皮膚的「氣味指紋」成關鍵&nbsp;&nbsp;香港01",
+      "id": "45872f3e02c2",
+      "title": "連吃2天壞膽固醇降10%！最新研究揭燕麥「降脂奇效」關鍵是它- 營養好食 - TVBS 健康2.0",
+      "published": "2026-11-12T09:28:00+00:00",
+      "summary": "連吃2天壞膽固醇降10%！最新研究揭燕麥「降脂奇效」關鍵是它- 營養好食&nbsp;&nbsp;TVBS 健康2.0健康網》燕麥降膽固醇有新發現！ 營養師教5招吃對幫助更大&nbsp;&nbsp;自由健康網只食水煮燕麥未必降膽固醇？營養師教5招跟住做 買麥片首選這一款「神隊友」！&nbsp;&nbsp;加拿大星島日報三高管理｜新研究揭燕麥降膽固醇機制配合蛋白質吸收效果更佳專家推薦5大降血脂食法| 健康&nbsp;&nbsp;東方新地不只少吃蛋肉！研究曝燕麥新機制：連吃2天「壞膽固醇降10%」&nbsp;&nbsp;TVBS新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOcjJsNkZCUFRIUTl5VXBnODBDOHdMTjVjdHVTYW50REZhbWhWYjExcm1Xa2pCY3N3Ti1aRlZSeXFTVzQ5NzQzd2h6ZjR0THBGci1XVXlya210cGNKVjRSSEpraTQ0dVRhSFc5cWtYVXlaR0xLYk5PSUladkN0MV9jWmkwc3pwemNLalp3elhsX0NCNlFiZm5CSG5vMGZZTDltOGJjZmhuTWRUVGUyejVlUVNhdEV2M2x0WE1rNWN4MDdWdmJxanF3X0ZzbWl0UmVtNldyZFdrT2JuUWdSQWNod0hEZlRfbFRxNUN6ZkVDcEJaT3hHVS1Pb2llZGJpV29CQnF1ZTliekdxdGNPRGRfNmFLa3hIYXFkVUlhWTZOaTFqVGZPdk9wNDlodWdaNGNRTF95cEkxMFBlcEV4Q2RwUUxGd01GdmJGdlJGeXBPM3lQUXNhWWFfeUxuVFZEZ0t2Nk5SNk9rWE5KcFN3?oc=5"
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FQTRabllQWGhZQ1gySi0yVVJMV3cwWU5PSi14RXF4eEJFNEJwQ0RvNFh3UnlaUTBmUXoyZ2VJS0Y4LVhHLWdWckdEa0VXZnE5cm0wdkhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cb8d6a921c90",
+      "title": "黑芝麻真的能補鈣？營養師為你拆解高鈣迷思 - etnet 經濟通",
+      "published": "2026-11-12T04:43:56+00:00",
+      "summary": "黑芝麻真的能補鈣？營養師為你拆解高鈣迷思&nbsp;&nbsp;etnet 經濟通維生素D補過頭 恐血鈣過高傷腎&nbsp;&nbsp;短新聞SHOTNEWS夜班工作者的維生素D缺乏問題比你想的更複雜？醫師說補充劑量要跟日照族群完全不同才有意義&nbsp;&nbsp;墨新聞-MORE News補鈣不是愈多愈好！營養師拆解4 大迷思過量或增腎結石風險&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "etnet 經濟通",
+          "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQSjh4dWNTOEU5YWU5eVJVU3hYd3Jod2VmN0lPNHU3OGlRa0FNWU00YmlMTnQzZTlDR0JwZW9hTFJrNDRMY291UWZQUjVhTEFsX0NfeHFZcnFNRnRyQXdPZkl1bjZlN0hHbUpYcW1sdmtpOTZzREEtMEtuS3BCenQzT0J2QkZWUFBVMGdnaXpfLTNWeGFTZjJ6czZaUTF4Mmd4QjRUQVJlV0lnTk1EQ0tfcUY0SlByazg4WFdDU2IwdkNraVJfN3lzakJnNjlpLVIwOHVxX29BM1NkSkZHUnZvZHdQek5Sd1k1WG1NeThXc1dvTVlFS04wSXJRbGx5Qm54Wk4ySk52X1hGRm1jaU9sUlktd0pzb2R3T29yeWFBME1vQWt1ZG1uRkJaRkpSTG1VdFlXTDNKVkJ4U0hvWGJqS3puTkdlc2hOMHc?oc=5"
         }
       ]
     },
@@ -19,23 +31,11 @@
       "id": "f23c9e6cc4c8",
       "title": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗 - 大紀元",
       "published": "2026-11-12T14:11:00+00:00",
-      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元美CDC證實今年已6人死於麻疹 疫情創數十年來最嚴重 | 民視新聞網&nbsp;&nbsp;LINE TODAY大砍防疫人力、動搖疫苗政策嘗苦果 美國恐失「麻疹消除國」地位&nbsp;&nbsp;中時新聞網累計報告數千麻疹病例 美國或失去「麻疹消除國」地位&nbsp;&nbsp;香港文匯報病毒傳播年餘 美已不具備麻疹根除資格&nbsp;&nbsp;Singtaousa",
+      "summary": "賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元美CDC證實今年已6人死於麻疹 疫情創數十年來最嚴重 | 民視新聞網&nbsp;&nbsp;LINE TODAY大砍防疫人力、動搖疫苗政策嘗苦果 美國恐失「麻疹消除國」地位&nbsp;&nbsp;中時新聞網賓州麻疹逾1500例 孕婦感染創數十年新高&nbsp;&nbsp;世界新聞網病毒傳播年餘 美已不具備麻疹根除資格&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhb0M5Zk9VcTEwUFNVbjdqZ3FxT1ZVQUVvOENGSU0wOWpDWGQ5U3c0cmp3ak5BX0kyb25MTkdwMXV6WWRyNVRnMWJYNDBNVFJWUXdGaS1iUmlDdGZRQnJKYmxn0gFnQVVfeXFMTUdnc3VLTUcwVmR4c3NFZGJUOHpIbG1GRlBEcHZHd2FWQ2U4TDFNdlB4clhCQjZMX0w0bVVWZW85SVgycWVRUUxlV1o4MThkRFUtX0lKckhyWXprV015UU41aG9IbE5zYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "349c35fcc126",
-      "title": "中國多種病毒齊襲 官方承認毒株複雜 高危人群當心 - 新唐人電視台",
-      "published": "2026-11-13T08:18:28+00:00",
-      "summary": "中國多種病毒齊襲 官方承認毒株複雜 高危人群當心&nbsp;&nbsp;新唐人電視台",
-      "sources": [
-        {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdDZ5b0lGYjNuWGFKLUh6b1hLZUljcTkxR0JCUnU1RlRwbWdfMFhKUEVxaWpEa3locFBGZlRtSVBjRExfMzVKUkJYY2lERWVWREhDWmR3NkpEZGtPQTdvWtIBZkFVX3lxTFBHX0JBbEJselNGQnVhX203cnJORVJOLWRRS0pyZkpoSE9BMzZvYXA4dU5VYVpaVk9LVjJIc1ZWYUJJbVRqOUZGT3BTeTRGLVJVb2pwRV9MY0Z3VTNoUV9UXzdzRHJlUQ?oc=5"
         }
       ]
     },
@@ -64,6 +64,18 @@
       ]
     },
     {
+      "id": "349c35fcc126",
+      "title": "中國多種病毒齊襲 官方承認毒株複雜 高危人群當心 - 新唐人電視台",
+      "published": "2026-11-13T08:18:28+00:00",
+      "summary": "中國多種病毒齊襲 官方承認毒株複雜 高危人群當心&nbsp;&nbsp;新唐人電視台",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdDZ5b0lGYjNuWGFKLUh6b1hLZUljcTkxR0JCUnU1RlRwbWdfMFhKUEVxaWpEa3locFBGZlRtSVBjRExfMzVKUkJYY2lERWVWREhDWmR3NkpEZGtPQTdvWtIBZkFVX3lxTFBHX0JBbEJselNGQnVhX203cnJORVJOLWRRS0pyZkpoSE9BMzZvYXA4dU5VYVpaVk9LVjJIc1ZWYUJJbVRqOUZGT3BTeTRGLVJVb2pwRV9MY0Z3VTNoUV9UXzdzRHJlUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "176c89adcfc7",
       "title": "健康網》一生必抽血驗Lp（a）醫談保護血管3招 - 自由健康網",
       "published": "2026-11-12T01:24:00+00:00",
@@ -84,6 +96,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UclVFMEZyZzdqdHJzVVhldTU2OHdoNFJOZFZhYlNZTENiRjUtMjJuZ0phX05vUlRYVG4yYUtLSW5sNkhZWGlPRWM2eldwTnhVd0E5S2Rn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9cee7e8b72bc",
+      "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意 - Yahoo新聞",
+      "published": "2026-11-12T16:55:11+00:00",
+      "summary": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意&nbsp;&nbsp;Yahoo新聞防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55%&nbsp;&nbsp;TechNews 科技新報左流右新護健康 有效降低心血管風險&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPNzlqQU5EcE1BZ3NkRE82N1QxdkgxNDdLalhqOXltR0ZQVEpLS0ZxaUsxVmQ0aUo2X0xTSlZSQkM2emtHanVhMGxULS1temFCNjRPaU1TY0p1RFZveXRwaWk0RmZNUTlHVHFzQ0JpalhieDhDdUdiNmxFRDM5bEpvWVFjb2ItdkM3UXhOdGw5Q2FJQ3Z6anU1cDZsemQzTGdNazU0QTVCclFiaTlTNDFMaERJem5MelA5ZzNNbEJtdjdnUXlaaG5oR0tzR1BvaGZ4Wk5uM2x2MXVieHpwZ0VFYV83dWIxSDZlYVZxYlVCRVJrMnNYdTUtZUtwX0ttNWxzY3NmZkswLUl1NXJPYlhJWjZkVVpBcWp5dWlDbG0wdy1aTlRiNzVjdko4b19zdUVQQlpLanFWd3dCN2EwcEZyQXdldi05MTRxWGxTbXAwWHluMzhFcDhfcWJyNnNfZks3RHlkb3l6Vnc4LWFEZEpWbVRVTHk4TGJVNi1ORXVZZjltbDR5TlpjOFhJbFFnUmpXQ0l0UlJRYmNLRmZoRTc5QWZ2WGdEYVVmRURZbU5yZmJGRU1ybks0MnJESG9sdGZobWE5aHlPdC1WZ203X1VNOHM2YkNUanhJanZlUER3VVhJVjQ?oc=5"
         }
       ]
     },
@@ -120,18 +144,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRjRFU3lWNU03QU01cFBORElXazNWdjZ6bUxpbmxPTFppa3RIdk5SRENKYy0yWmVsdmdOc3FSXzVDM0FBMm1qRXZmX083OHdNTlFYNFUyLUswYnZJZkhjM2JqbzY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9cee7e8b72bc",
-      "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意 - Yahoo新聞",
-      "published": "2026-11-12T16:55:11+00:00",
-      "summary": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意&nbsp;&nbsp;Yahoo新聞防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55%&nbsp;&nbsp;TechNews 科技新報左流右新護健康 有效降低心血管風險&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPNzlqQU5EcE1BZ3NkRE82N1QxdkgxNDdLalhqOXltR0ZQVEpLS0ZxaUsxVmQ0aUo2X0xTSlZSQkM2emtHanVhMGxULS1temFCNjRPaU1TY0p1RFZveXRwaWk0RmZNUTlHVHFzQ0JpalhieDhDdUdiNmxFRDM5bEpvWVFjb2ItdkM3UXhOdGw5Q2FJQ3Z6anU1cDZsemQzTGdNazU0QTVCclFiaTlTNDFMaERJem5MelA5ZzNNbEJtdjdnUXlaaG5oR0tzR1BvaGZ4Wk5uM2x2MXVieHpwZ0VFYV83dWIxSDZlYVZxYlVCRVJrMnNYdTUtZUtwX0ttNWxzY3NmZkswLUl1NXJPYlhJWjZkVVpBcWp5dWlDbG0wdy1aTlRiNzVjdko4b19zdUVQQlpLanFWd3dCN2EwcEZyQXdldi05MTRxWGxTbXAwWHluMzhFcDhfcWJyNnNfZks3RHlkb3l6Vnc4LWFEZEpWbVRVTHk4TGJVNi1ORXVZZjltbDR5TlpjOFhJbFFnUmpXQ0l0UlJRYmNLRmZoRTc5QWZ2WGdEYVVmRURZbU5yZmJGRU1ybks0MnJESG9sdGZobWE5aHlPdC1WZ203X1VNOHM2YkNUanhJanZlUER3VVhJVjQ?oc=5"
         }
       ]
     },
@@ -304,14 +316,14 @@
       ]
     },
     {
-      "id": "eaafd392877c",
-      "title": "專家提醒：甲狀腺腫瘤患者需重視定期隨訪 - 人民网-上海频道",
-      "published": "2026-11-12T03:13:00+00:00",
-      "summary": "專家提醒：甲狀腺腫瘤患者需重視定期隨訪&nbsp;&nbsp;人民网-上海频道",
+      "id": "ef34a87b0d9a",
+      "title": "年滿50歲？前列腺癌篩查不再是可選項 - 华尔街日报中文网",
+      "published": "2026-11-13T01:22:17+00:00",
+      "summary": "年滿50歲？前列腺癌篩查不再是可選項&nbsp;&nbsp;华尔街日报中文网美癌症協會：男性50歲後應兩年做一次PSA檢測&nbsp;&nbsp;大紀元美國癌症協會修訂指引 建議定期篩檢前列腺癌&nbsp;&nbsp;Singtaousa攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次&nbsp;&nbsp;中時新聞網美國癌症協會修訂指引 建議中年男士定期篩查前列腺癌&nbsp;&nbsp;巴士的報",
       "sources": [
         {
-          "name": "人民网-上海频道",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5"
+          "name": "华尔街日报中文网",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDZkcGNUWFpROTY5NWxaMnoyVUI2UXYyd0JpbkhqQXd0RUlrNUpOZFBQeVJNYWc5ZUhmWTlJbV9XWnlmcmJRRU13Rm1jbjlNOXo0Rm1UdGlpc2FyRWpkZ2ljZTdoMUMzUHRwcHM4LXNBT05EeDUyUkFtV3lYVTZvZ21SZ0tKTVRneGhES0FzcnNGYjdNWVpmdzlhRnJyTEJnclNuSmRwYXhxdGVFQmp0b2dudnBzT1FWazlrOVkzWHRxNWg2dHBFU3dkM2xkZDVyeUgySmJoUnd5cHB1Y3RkQ19oTjhzZk5YYk5IZ3VBMWQ4cXlXY0JoRWQyYlVTU3M5c25FakhOaUw0WGxZRDA5U3J3?oc=5"
         }
       ]
     },
@@ -328,14 +340,14 @@
       ]
     },
     {
-      "id": "c42a7f9a5ef6",
-      "title": "長期孤獨增心臟病中風風險 醫生拆解隱形心血管危機 - 巴士的報",
-      "published": "2026-11-12T01:41:10+00:00",
-      "summary": "長期孤獨增心臟病中風風險 醫生拆解隱形心血管危機&nbsp;&nbsp;巴士的報",
+      "id": "eaafd392877c",
+      "title": "專家提醒：甲狀腺腫瘤患者需重視定期隨訪 - 人民网-上海频道",
+      "published": "2026-11-12T03:13:00+00:00",
+      "summary": "專家提醒：甲狀腺腫瘤患者需重視定期隨訪&nbsp;&nbsp;人民网-上海频道",
       "sources": [
         {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ05wcnFVdUVHVUhYTUhrRzNaRzgzMEJqMVNrN0lKSWdzT0pMN1NvOHByZVN6ME5YZnFRN3RJcEhsQmdGLXVJSFZXX3kySFFaY05fYUd0cGZMYXI0dXFPMG4tNDhXMW5IdFJMMlJZbDU5a1NySTh1OW9DZ3I3Y1JtaTVpWF92cWNibkExZjFWOHF0UW5CTHliWENTWTd2cjljRWd3SVM2bDV1NU91bFRibUV1ZHkwQUg4X3g5SWRrZy1KNEJlcUJ0TnBBWjR1YU1wWkhRNlh5RkFESGpYR2tjUUtDbUhWbDZfV2xJVjVfUlBoR1l1RC16NnY5cEFya2FCTUhLNjVKNk1PbEl1RVhvVmU1aVB2bVBWMHNFZGpEZWF0SVN1NDFvdXpPb1FxZHBTVzdRMlpFY2tWbnRPQVhwZS04QllyTWpnMDdqVmhTVjBYSkF1RmhkSUhhbFV0dU9Rc3lkREY0X3ZKVklhb0lF?oc=5"
+          "name": "人民网-上海频道",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5"
         }
       ]
     },
@@ -364,14 +376,26 @@
       ]
     },
     {
-      "id": "fcb3cdd02f24",
-      "title": "中年之後，為什麼身體開始想念豆漿豆腐？ - 美南新聞",
-      "published": "2026-11-11T21:47:51+00:00",
-      "summary": "中年之後，為什麼身體開始想念豆漿豆腐？&nbsp;&nbsp;美南新聞",
+      "id": "e661cace543e",
+      "title": "本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱 - UHK 港生活",
+      "published": "2026-11-13T23:32:11+00:00",
+      "summary": "本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱&nbsp;&nbsp;UHK 港生活",
       "sources": [
         {
-          "name": "美南新聞",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92el9YTld3TGV1QXFRa2l1Q3RhR1NYQzMtS3gybHR1ZEh4cHExNnFzdERjMlBFNDF3WUhESGFneG4xaUwyVVE?oc=5"
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNXVGYjhQSkMxTEFVcG9HUlhjWDl2OE9SM2xpVG5XMk9uekNVWkhUZDlSRWFWcGFVWnc2bXFhM2pkNFBCS2dHeEdKR0hGRm04NVlpRHhlb2pseDFCa3lIUEJ3SHBuV3Bka3RDMlVreVNuaFI1aEx6RGxYaGpkTEs1WmZHZllIMGhpbTlSc3ZrbGVtLW5mWDVDcklvSXlMQVY1YVJLMDI0WmFwS1NBQzRDMzE3TU9zazBLNUZka0dQNWpnUkp4N1dnclJxamUxcG5Vdm9QSExIejVGTG5WWlM4T1ltbjRSUkNrZXBXeVJ5XzMzVnBTUG91MGRIcTdlLXVibWREVlhLbWYzT0xUS3pmaVNGMktidmI5NDI3VXJwLV9FZUV3eHpCd0xySzlwT1Bza1czRExJV19keUZtYTN4LTMtek9xTkpsRFd3SVhiOEJnRmZaRnlRUUtKbzVmRXFVemZGVnlHTXFWUWdlS3B3MjE3ckpsOXZDa0lPRThhSzdELTdySEhZRWdhaXc3VGtRVG9qR1VsTHdZbWdGLUlQUVN5ZHo2cENCcUFzN09BdFRINC01MjI4VFdDZnlKZXY5UnRSdmh4WVB0MmJWMkx5blFzWTBZRU5x?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c42a7f9a5ef6",
+      "title": "長期孤獨增心臟病中風風險 醫生拆解隱形心血管危機 - 巴士的報",
+      "published": "2026-11-12T01:41:10+00:00",
+      "summary": "長期孤獨增心臟病中風風險 醫生拆解隱形心血管危機&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ05wcnFVdUVHVUhYTUhrRzNaRzgzMEJqMVNrN0lKSWdzT0pMN1NvOHByZVN6ME5YZnFRN3RJcEhsQmdGLXVJSFZXX3kySFFaY05fYUd0cGZMYXI0dXFPMG4tNDhXMW5IdFJMMlJZbDU5a1NySTh1OW9DZ3I3Y1JtaTVpWF92cWNibkExZjFWOHF0UW5CTHliWENTWTd2cjljRWd3SVM2bDV1NU91bFRibUV1ZHkwQUg4X3g5SWRrZy1KNEJlcUJ0TnBBWjR1YU1wWkhRNlh5RkFESGpYR2tjUUtDbUhWbDZfV2xJVjVfUlBoR1l1RC16NnY5cEFya2FCTUhLNjVKNk1PbEl1RVhvVmU1aVB2bVBWMHNFZGpEZWF0SVN1NDFvdXpPb1FxZHBTVzdRMlpFY2tWbnRPQVhwZS04QllyTWpnMDdqVmhTVjBYSkF1RmhkSUhhbFV0dU9Rc3lkREY0X3ZKVklhb0lF?oc=5"
         }
       ]
     },
@@ -456,6 +480,18 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2RThxYnVZaEpZbUk2eU9RaE1aOGh1bzlyTXE2d0NTVkI3UHlVRTQwV3kwTzhzeUMydWxfR0ZtMTBWaUxHSEs1WllUX2dkd012OEc1Uk5QcXJ2aFNjWHRGaXh3SnNoYzdIUVRPdlF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fcb3cdd02f24",
+      "title": "中年之後，為什麼身體開始想念豆漿豆腐？ - 美南新聞",
+      "published": "2026-11-11T21:47:51+00:00",
+      "summary": "中年之後，為什麼身體開始想念豆漿豆腐？&nbsp;&nbsp;美南新聞",
+      "sources": [
+        {
+          "name": "美南新聞",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92el9YTld3TGV1QXFRa2l1Q3RhR1NYQzMtS3gybHR1ZEh4cHExNnFzdERjMlBFNDF3WUhESGFneG4xaUwyVVE?oc=5"
         }
       ]
     },
