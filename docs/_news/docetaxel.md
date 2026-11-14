@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Docetaxel</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [拆掉癌細胞防護牆！胰臟癌動物實驗新藥顯威 75％腫瘤完全消失](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcElRQzYwS3VsZDdKZl91dE5YUG5ldVJ2QXdqbkpLQURtRUZtUjhIYmM2UktHbGZzaFY5dmVnUlpGZTFIWnhGMmg4NXJJamdWTkVEc0RBblAzN2VsYUZ5V2xhZU8?oc=5)
 
@@ -55,14 +55,6 @@ last_modified_at: 2026-11-14
 2026-11-13 <span class="news-indication-tag">肺癌</span>
 
 來源: [AM730](https://news.google.com/rss/articles/CBMiygJBVV95cUxPak12OVBsVUZIUl9oNkU0RWtxbXZpZ3B5NmdadEFGcmhvY3lnVTd4RVA0VDB5VGtxb2tQb2JDcU9rcVEwc3EyLXpLQlhPWFlHamp0WXc5bUhHekdUc1IzSlNpZE5DanRFSG5YbWNmMnpNcm5zaWdvSlFSVERFOHJENFZKRGdpam1CVmMwVDNWcDl6aEphVmN0bkQ1TEdOU0RQaDdFd3J0YldpdmxONWc2TEFiUEd2SHhWU2ZhUHcxak14c0hyNDJ0el9wUzZLd3ZJSm5fVXl2bmd2a3FMbjd2X01lcjhIX0ZKTHdsVU41SWhZOXRLTDl1UkhWcDNjSFZBSWpGV3AxUExfaU0xU2pBQ2YwcGV0dlNya010eXB1SWNEWXNaemw1MWRKWkpVN0VaS3FENmE4LWxqUjJWcnJYRTlxbng5ZlByc2c?oc=5)
-
----
-
-### [東張西望︱患胃酸倒流遭Hard sell「排毒淨肝減肥藥」 74歲婆婆日吞400粒保健膠囊狂瀉店員誇口：Cancer都食好](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nNWNhYlRsTW82akxYOWZKdWV2eFRIQ3dsX2M2RzZPVWF2VmtXLTBiMXpUYUdqcDlvMmw0Q3AyNVBjckhpWVVXOWJFZDlxMmtt?oc=5)
-
-2026-11-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腹瀉</span>
-
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nNWNhYlRsTW82akxYOWZKdWV2eFRIQ3dsX2M2RzZPVWF2VmtXLTBiMXpUYUdqcDlvMmw0Q3AyNVBjckhpWVVXOWJFZDlxMmtt?oc=5)
 
 ---
 

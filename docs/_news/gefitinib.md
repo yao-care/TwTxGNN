@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（7 則）
 
 ### [拆掉癌細胞防護牆！胰臟癌動物實驗新藥顯威 75％腫瘤完全消失](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcElRQzYwS3VsZDdKZl91dE5YUG5ldVJ2QXdqbkpLQURtRUZtUjhIYmM2UktHbGZzaFY5dmVnUlpGZTFIWnhGMmg4NXJJamdWTkVEc0RBblAzN2VsYUZ5V2xhZU8?oc=5)
 
 2026-11-14 <span class="news-indication-tag">腫瘤</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcElRQzYwS3VsZDdKZl91dE5YUG5ldVJ2QXdqbkpLQURtRUZtUjhIYmM2UktHbGZzaFY5dmVnUlpGZTFIWnhGMmg4NXJJamdWTkVEc0RBblAzN2VsYUZ5V2xhZU8?oc=5)
-
----
-
-### [東張西望︱患胃酸倒流遭Hard sell「排毒淨肝減肥藥」 74歲婆婆日吞400粒保健膠囊狂瀉店員誇口：Cancer都食好](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nNWNhYlRsTW82akxYOWZKdWV2eFRIQ3dsX2M2RzZPVWF2VmtXLTBiMXpUYUdqcDlvMmw0Q3AyNVBjckhpWVVXOWJFZDlxMmtt?oc=5)
-
-2026-11-13 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腹瀉</span>
-
-來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5nNWNhYlRsTW82akxYOWZKdWV2eFRIQ3dsX2M2RzZPVWF2VmtXLTBiMXpUYUdqcDlvMmw0Q3AyNVBjckhpWVVXOWJFZDlxMmtt?oc=5)
 
 ---
 
@@ -100,27 +92,11 @@ last_modified_at: 2026-11-14
 
 ---
 
-### [不是小腿！男性「1處」沒力＝失智、巴金森氏症前兆](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sRUlmQjVSdzY1bjgyOWJkMzVVWHp5TUVkU0pKZ3pfTGRwNV9IV1RHMFV4OFlGZndsZzh0Y2p4bVI2aG5LUjFLVmxCeTE?oc=5)
-
-2026-11-09 <span class="news-indication-tag">失智</span>
-
-來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sRUlmQjVSdzY1bjgyOWJkMzVVWHp5TUVkU0pKZ3pfTGRwNV9IV1RHMFV4OFlGZndsZzh0Y2p4bVI2aG5LUjFLVmxCeTE?oc=5)
-
----
-
 ### [50歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
 
 2026-11-08 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
-
----
-
-### [以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
-
-2026-11-08 <span class="news-indication-tag">失智</span>
-
-來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GZzF3VEJZX0VkUzVjR1R2YUptSzd1VzdudmhMQjc5X2ZzYzlBSGZaWU5PYzZsQ00yZjFIYkhfZWJXc183My1JMC1PYkVTM0VpSVh5NlVn?oc=5)
 
 ---
 

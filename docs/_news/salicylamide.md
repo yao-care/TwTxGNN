@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
 ### [感冒越早看醫生好越快？醫揭殘酷真相：3關鍵才是康復主因](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEbURPNkEwWGQ0R2FTSmZkLTlhcU94dlJJNGJ2MnZLMWhSZ1RwMzVJQXVWNmJwUmZaV3VIM244eldDN1hQYS1Wb09Zbm8?oc=5)
 
@@ -57,6 +57,14 @@ last_modified_at: 2026-11-14
 2026-11-13 <span class="news-indication-tag">感冒</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GeGVrVXZQckVOcXBIOFN1VEVHN3VNM3ZERWhEYnFXdWNlSXJFWndfQ094ZXdoMDRTcGpSX0xtN0NvQXNLV01sbERhdUFpejlRWnp4cE82eEd3TUlCMV9nQlJn0gFnQVVfeXFMUDQ3OHFLb3otWVNTUWdDMVZLWEV2UmFQRTUzd212VDJ0b3AyZDBndUp5NE1VQzhMNmt3ajhvZWRiSVBCUFNyYm5Gb0JBQWtpUEN5NDd6bkE5alIzbkJ0NnpWNEotTjRscw?oc=5)
+
+---
+
+### [以為B流只是小感冒？醫急喊「恐爆心肌炎肺炎」 5類人最危險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZaHVPVzRiRFpCNFV5MXJyZURTaXZfQ1N0a0dZaG1GMHlBMjc2SFc1a19aZGFJdjF6WGJ1dkJOMXh0M1dWaDVUeFhzT205Q3NR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZaHVPVzRiRFpCNFV5MXJyZURTaXZfQ1N0a0dZaG1GMHlBMjc2SFc1a19aZGFJdjF6WGJ1dkJOMXh0M1dWaDVUeFhzT205Q3NR?oc=5)
 
 ---
 
