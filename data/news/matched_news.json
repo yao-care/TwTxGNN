@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-11-14T19:37:00.438531+00:00",
-  "total_count": 50,
+  "last_updated": "2026-11-14T23:31:10.121308+00:00",
+  "total_count": 49,
   "matched_count": 20,
   "news": [
+    {
+      "id": "32be22a6190b",
+      "title": "美國失去麻疹清零地位　疫情升溫數十年來最嚴重",
+      "published": "2026-11-14T22:09:52+00:00",
+      "summary": "美國失去麻疹清零地位 疫情升溫數十年來最嚴重&nbsp;&nbsp;經濟日報26年紀錄終結！美國失去「消除麻疹」地位&nbsp;&nbsp;Yahoo新聞確診病例飆新高！美國26年麻疹清零國地位被撤銷&nbsp;&nbsp;自由時報美國公衛重大倒退！「無麻疹國家」地位失守 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY麻疹爆發｜美國正式失去「已除麻」地位 猶他州病毒株傳播超過1年&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WM21ZSEwyb18tVXZQUTlSSXctdWY5RWRwUjBzUFN2cVgwWnVxa19JTGdUWENSVzFoTVBOR214dUM5RFR4Z0xrTGdCUTJrWW1EQWwzX2hWR2xhd9IBX0FVX3lxTFBoakMwM1dVSEV3WDVNMEE0X1hHTm9EcEtLSGdWZVZDOGRidi1XMTAtOHZranc0cjNrUGxkUmFYUkd0T3ZWU053VERORlhiNFJiRkJZZW85VTJwcDV3eHlN?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "23dea795b4f5",
+      "title": "南加女突然倒下、無法走路 禍首竟是小小的牠",
+      "published": "2026-11-14T21:35:34+00:00",
+      "summary": "南加女突然倒下、無法走路 禍首竟是小小的牠&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtckQtaGZsZEpldEpMX25ZZkZMYzY3Qk9paFVkNndhVFcwZUJiVXRMR09XUTl1WVhxSjMyLTFTNlNqMF9QYlVTLTlONEJpeEh2dXJoYVRROTB4WlJBUjRaRzF30gFnQVVfeXFMTU5zZW1pVFZnd1NrVGFLVUZ3VWVRQVU2VTZaaFlIbkNXZlhsVmRfelRlMWp5LUVwR1FEQWdWVmRRcVBXSHJwS0hmbC02NXRUNFAtNGV3LWhQNi16Q1c4U0tGcDhteFdnaw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "e57c55005cdc",
       "title": "肝指數正常！38歲男一照「已纖維化第3級」　1年後竟罹肝癌",
@@ -108,21 +134,73 @@
       "matched_keywords": []
     },
     {
-      "id": "9ad0e4d6f01f",
-      "title": "拆掉癌細胞防護牆！胰臟癌動物實驗新藥顯威 75％腫瘤完全消失",
-      "published": "2026-11-14T05:00:00+00:00",
-      "summary": "拆掉癌細胞防護牆！胰臟癌動物實驗新藥顯威 75％腫瘤完全消失&nbsp;&nbsp;自由健康網",
+      "id": "2f666ace441e",
+      "title": "初步研究發現線索 或助活體診斷慢性創傷性腦病變",
+      "published": "2026-11-14T04:00:35+00:00",
+      "summary": "初步研究發現線索 或助活體診斷慢性創傷性腦病變&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQazFzcnZEWnJBZVlSQ0dwVFZlUG1ERkFuSU1ycWMwMVRTQ2FvSmZtVlFEWkNBVUJTZnViSkVndS1wUnhhY2ZYN3JxbVlkR1dLNmlPSTQ5NzRJeFVEQ3hQNUN4NnlFVE1FQ0VqZVlSYWc1d1BaR1hVT2xJWEdFMUlZZ0YtWVJyUFZvTWhqeURybnVaZXJRVU1XY3lQUmlEOWJwRnJDZEJ0UFJWSE5uUzFJdUxLMS00a1Y2UDFJeGoyNGxvRUJtY3pIUi1WU2RlUXhPQzhTdjd6Vk1rWVREWXRyckFLdU43RjRzZ1BoY1dKRllSTDFMbEYtbWpjMk9fQW02NEFMTDlXQnAtZHNqd2J5STV2RjVDcXJ1bC1wQTlseXFndmxiTkZ2MGR1Q3REa0xwWTRBYV9FLXQ0M05GQnFlVzd0SkI5LUNyUjk4ZkxkLWlETzlPcWVlVW1MOF9rUTVNbDBnWlNOM285Z0xKRjBB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "505940e0d23b",
+      "title": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本",
+      "published": "2026-11-14T01:21:00+00:00",
+      "summary": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本&nbsp;&nbsp;自由健康網黑芝麻真的能補鈣？營養師為你拆解高鈣迷思&nbsp;&nbsp;etnet 經濟通夜班工作者的維生素D缺乏問題比你想的更複雜？醫師說補充劑量要跟日照族群完全不同才有意義&nbsp;&nbsp;墨新聞-MORE News補鈣不是愈多愈好！營養師拆解4 大迷思過量或增腎結石風險&nbsp;&nbsp;巴士的報",
       "sources": [
         {
           "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcElRQzYwS3VsZDdKZl91dE5YUG5ldVJ2QXdqbkpLQURtRUZtUjhIYmM2UktHbGZzaFY5dmVnUlpGZTFIWnhGMmg4NXJJamdWTkVEc0RBblAzN2VsYUZ5V2xhZU8?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRXlMbC01MFc1dlpqWGE2OFp0UndZWm1CUjFocXRMVFFaRTk5WDZPVnppa2t4b1hWWW9OVEttVnhvQ2N3aG94VUcwdEZld3V4WnVWWDR1TXEyaVNDdmdWYmdFanc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "804306828a05",
+      "title": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命",
+      "published": "2026-11-14T01:11:17+00:00",
+      "summary": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVV0RBYWw0VUthVGxpbmQ4LWxrZG5DODlPdlV2Xzg2U1I0SWJMTFJQU2NaSTJMWjhjQnBXUGFwTmtUSzFjYjFMc3VrN1RuNUR0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "587f8b1c93be",
+      "title": "健康網》顧健康必做10件事！ 醫揭每週2次這運動 年輕就要練",
+      "published": "2026-11-14T00:20:00+00:00",
+      "summary": "健康網》顧健康必做10件事！ 醫揭每週2次這運動 年輕就要練&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OeDNpVHdrN05aR3FMYXdMYnV6QWZlOUw5TjdOYTRrZmZkLVlZWXJHcDNFb293djdLZnRES3Q5bVRTNmdheU1RWnZDcklfTzVmekxiZDJUWlRoMHpQYW9ZYUJfX3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6c3af61c5ccb",
+      "title": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際",
+      "published": "2026-11-13T23:39:00+00:00",
+      "summary": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際&nbsp;&nbsp;工商時報年滿50歲？前列腺癌篩查不再是可選項&nbsp;&nbsp;华尔街日报中文网美國癌症協會修訂指引 建議定期篩檢前列腺癌&nbsp;&nbsp;Singtaousa美癌症協會：男性50歲後應兩年做一次PSA檢測&nbsp;&nbsp;大紀元美國癌症協會修訂指引 建議中年男士定期篩查前列腺癌&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "腫瘤",
+          "keyword": "癌症",
           "related_drugs": [
             {
               "slug": "trabectedin",
@@ -362,71 +440,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "2f666ace441e",
-      "title": "初步研究發現線索 或助活體診斷慢性創傷性腦病變",
-      "published": "2026-11-14T04:00:35+00:00",
-      "summary": "初步研究發現線索 或助活體診斷慢性創傷性腦病變&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQazFzcnZEWnJBZVlSQ0dwVFZlUG1ERkFuSU1ycWMwMVRTQ2FvSmZtVlFEWkNBVUJTZnViSkVndS1wUnhhY2ZYN3JxbVlkR1dLNmlPSTQ5NzRJeFVEQ3hQNUN4NnlFVE1FQ0VqZVlSYWc1d1BaR1hVT2xJWEdFMUlZZ0YtWVJyUFZvTWhqeURybnVaZXJRVU1XY3lQUmlEOWJwRnJDZEJ0UFJWSE5uUzFJdUxLMS00a1Y2UDFJeGoyNGxvRUJtY3pIUi1WU2RlUXhPQzhTdjd6Vk1rWVREWXRyckFLdU43RjRzZ1BoY1dKRllSTDFMbEYtbWpjMk9fQW02NEFMTDlXQnAtZHNqd2J5STV2RjVDcXJ1bC1wQTlseXFndmxiTkZ2MGR1Q3REa0xwWTRBYV9FLXQ0M05GQnFlVzd0SkI5LUNyUjk4ZkxkLWlETzlPcWVlVW1MOF9rUTVNbDBnWlNOM285Z0xKRjBB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4c34ced30f33",
-      "title": "麻疹疫情持續擴散逾一年 美國痛失維持26年消除認證",
-      "published": "2026-11-14T01:54:46+00:00",
-      "summary": "麻疹疫情持續擴散逾一年 美國痛失維持26年消除認證&nbsp;&nbsp;民視新聞網26年紀錄終結！美國失去「消除麻疹」地位&nbsp;&nbsp;Yahoo新聞確診病例飆新高！美國26年麻疹清零國地位被撤銷&nbsp;&nbsp;自由時報美國公衛重大倒退！「無麻疹國家」地位失守 | NOWNEWS今日新聞&nbsp;&nbsp;LINE TODAY賓州近百孕婦確診麻疹 醫生籲孕前接種疫苗&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "民視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10RzNVNnBGX1o0Tmw3UVE2eW9XZ3JITkdoQnhHaHdJM3ZzYVpwclJMWml1MTZab21BUzBjMjBWRHJCU0l0T2puQnMzcEk4ZVh6ei1pVGlFQTRGS3RyWV9zRQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "505940e0d23b",
-      "title": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本",
-      "published": "2026-11-14T01:21:00+00:00",
-      "summary": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本&nbsp;&nbsp;自由健康網黑芝麻真的能補鈣？營養師為你拆解高鈣迷思&nbsp;&nbsp;etnet 經濟通夜班工作者的維生素D缺乏問題比你想的更複雜？醫師說補充劑量要跟日照族群完全不同才有意義&nbsp;&nbsp;墨新聞-MORE News維生素D補過頭 恐血鈣過高傷腎&nbsp;&nbsp;短新聞SHOTNEWS補鈣不是愈多愈好！營養師拆解4 大迷思過量或增腎結石風險&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRXlMbC01MFc1dlpqWGE2OFp0UndZWm1CUjFocXRMVFFaRTk5WDZPVnppa2t4b1hWWW9OVEttVnhvQ2N3aG94VUcwdEZld3V4WnVWWDR1TXEyaVNDdmdWYmdFanc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "804306828a05",
-      "title": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命",
-      "published": "2026-11-14T01:11:17+00:00",
-      "summary": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVV0RBYWw0VUthVGxpbmQ4LWxrZG5DODlPdlV2Xzg2U1I0SWJMTFJQU2NaSTJMWjhjQnBXUGFwTmtUSzFjYjFMc3VrN1RuNUR0?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "587f8b1c93be",
-      "title": "健康網》顧健康必做10件事！ 醫揭每週2次這運動 年輕就要練",
-      "published": "2026-11-14T00:20:00+00:00",
-      "summary": "健康網》顧健康必做10件事！ 醫揭每週2次這運動 年輕就要練&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OeDNpVHdrN05aR3FMYXdMYnV6QWZlOUw5TjdOYTRrZmZkLVlZWXJHcDNFb293djdLZnRES3Q5bVRTNmdheU1RWnZDcklfTzVmekxiZDJUWlRoMHpQYW9ZYUJfX3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "e661cace543e",
@@ -799,19 +812,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1f25ab14e939",
-      "title": "骨質疏鬆年輕化？35歲女日飲兩杯咖啡少運動 打噴嚏後竟肋骨骨折",
-      "published": "2026-11-12T05:30:00+00:00",
-      "summary": "骨質疏鬆年輕化？35歲女日飲兩杯咖啡少運動 打噴嚏後竟肋骨骨折&nbsp;&nbsp;AM730",
-      "sources": [
-        {
-          "name": "AM730",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOczMxVVc4N3BaUkRkUnJSQXFMTDJfMlJfMG0wTnE3dVQ0NjhxaUhyeEF0Y3VpVEllMFVTNFhqN1lmZ1VzNFQ1UlM1c1pRUzFQMWRjQmpzZGRDd3dXZnZRdUF0X19GSnFZSDVkd1FTWUxfXzJPSnl5ZFl6TnhuYzQ2NndXRkFxT3RQaFAybkdLQ2JzZHZLa2ppTWtXcjdITzhLWmlfbU9hRWVuZzlTYXFIZFZpeDBSZmpqOFJJVWtyVDl3NTk1WmwyR2ZRY1N0SFV5QXhXUUh5VWppVkZzWWMya0EtSlY1Wm1OeTNIWl9waG82TmNJZmFJRGpxdUQxWmZfVUthU3ROVzFKY1pJNl9EZTlVZkg0NHQ2X29fR21tR0I5OG92QW9mOF9qdDdLVUVaWkZVZVhpNWluVHRXdF9Kc2RGZEdfeXBxSzVwQTVZR3FzNTVSUi13V080b0F5S2RaUzNod3FYVWFlUTZ1M2xVZnI1eTVHdy10RGFrTDFhYTFCcmtjd3VUQlJQNllCSlowRm1TdG5pdXVCNlRYVTg2b1dKa1UwSE81M01r?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "631bc4476dc0",
@@ -2572,19 +2572,6 @@
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2RThxYnVZaEpZbUk2eU9RaE1aOGh1bzlyTXE2d0NTVkI3UHlVRTQwV3kwTzhzeUMydWxfR0ZtMTBWaUxHSEs1WllUX2dkd012OEc1Uk5QcXJ2aFNjWHRGaXh3SnNoYzdIUVRPdlF3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "500c648b3b12",
-      "title": "年少時一項能力或關乎晚年認知障礙風險 研究揭：歸納推理佳者風險低16%",
-      "published": "2026-11-07T22:40:23+00:00",
-      "summary": "年少時一項能力或關乎晚年認知障礙風險 研究揭：歸納推理佳者風險低16%&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "巴士的報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxONW5rRFI3bWJWOFVUYlJiLTJSTFpXcjQyNXM3a01uTmF3QkhLa0M5eHFtNkpOR3lOc19ZZW92ZGdpVnI4aV9venhoU195OGZmX2lzb2ZBc0hFNVUxc1dMR1o3cjVXRkx0WlVBOTFzZnJfV0ZEeEowN1ZCMkh0SzNDRHBxTkFFRmc4U1lHU3d3Z0g2ejc0VTFyM29lcDRYNXVjUzNpRXdKbVFBWl81S0thNDFTZFB1WklIVzh1andybHFoMDhqdlF0Q3NZX09URGF4RW9aczVYR1VHQUtQVkI2dVJzQ1RGazltSG5lU2FIYl93STEwbFdkTmdRZnBmZWIwbU9samVqMFhzWUh6SVNwNWt5amMtSEVPLUE1RENiU0N1VkJUTzdMeXpDcGZUaTA3UVl5RUczamtudWlGVU12Y3FPbHF1NS10WE1OQ2FQdVZGalpFdE4xcEpwRk1OQllfLWlmLU5YTUFsQVhRaEFN?oc=5"
         }
       ],
       "matched_keywords": []

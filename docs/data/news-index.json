@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T19:37:00.458335+00:00",
+  "generated": "2026-11-14T23:31:10.145269+00:00",
   "count": 20,
   "news": [
     {
@@ -28,20 +28,20 @@
       ]
     },
     {
-      "id": "9ad0e4d6f01f",
-      "title": "拆掉癌細胞防護牆！胰臟癌動物實驗新藥顯威 75％腫瘤完全消失",
-      "published": "2026-11-14T05:00:00+00:00",
+      "id": "6c3af61c5ccb",
+      "title": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際",
+      "published": "2026-11-13T23:39:00+00:00",
       "sources": [
         {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lcElRQzYwS3VsZDdKZl91dE5YUG5ldVJ2QXdqbkpLQURtRUZtUjhIYmM2UktHbGZzaFY5dmVnUlpGZTFIWnhGMmg4NXJJamdWTkVEc0RBblAzN2VsYUZ5V2xhZU8?oc=5"
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "腫瘤",
+          "keyword": "癌症",
           "related_drugs": [
             {
               "slug": "trabectedin",
