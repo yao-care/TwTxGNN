@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T14:39:18.437827+00:00",
+  "generated": "2026-11-14T19:37:00.458335+00:00",
   "count": 20,
   "news": [
     {
@@ -451,31 +451,6 @@
               "slug": "carisoprodol",
               "name": "Carisoprodol",
               "url": "/drugs/carisoprodol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e6b734fef9ea",
-      "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意",
-      "published": "2026-11-12T16:55:11+00:00",
-      "sources": [
-        {
-          "name": "蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ydXhwcGg2MFR5VGJTZkF2UUE4U3dFNHEwVmtyZDdVdUo1Q0ZyQ0VZbFRxYVp1b242alZpY3VGemtnQ25MYk9udk9fZzBoemNzeUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
             }
           ]
         }
@@ -1827,6 +1802,31 @@
               "slug": "paclitaxel",
               "name": "Paclitaxel",
               "url": "/drugs/paclitaxel/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1bf958de321",
+      "title": "左流右新護健康 有效降低心血管風險",
+      "published": "2026-11-09T05:17:22+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQkJVbEJoUnU5eE5PdlZub05QMUY0aG1JUGxFQS0wZjZUVmdXV0RGOTAxUzVCN2JwbDhaWlZKY2dTdGw2LUZKRXVwb2VCZEtGRWpJOE1QdXcyTnJqSGtDZzQwRjVPWFdwSkFUYWszTWx1M2xIbUdpdTVRa3dHSGp5a3VobFNERTFUNExNMVhCVVRHUE41YlVFTTBTMUJ0clJXWWNuZ2d5aVR2SXU5OGJneXV6Uk9fVEpob3pvbDhrc1h4bjZseDlyVEVNS2JhQ1Q3N1VKMGI0bmVyeEtzUU90aEhDUjRpS3R4OTdFN0czem1HdUpCY3pLcjhiNVNBcWx6NlBKdG9wR295bkwtTTNlUTR4STQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
