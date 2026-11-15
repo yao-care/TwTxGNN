@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Oteracil 的相關健康新聞報導。原適應症：胃癌用藥。預測適應症 9 個。"
 permalink: /news/oteracil/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Oteracil 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Oteracil</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
 
 2026-11-13 <span class="news-indication-tag">癌症</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
-
----
-
-### [本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱 - UHK 港生活](https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNXVGYjhQSkMxTEFVcG9HUlhjWDl2OE9SM2xpVG5XMk9uekNVWkhUZDlSRWFWcGFVWnc2bXFhM2pkNFBCS2dHeEdKR0hGRm04NVlpRHhlb2pseDFCa3lIUEJ3SHBuV3Bka3RDMlVreVNuaFI1aEx6RGxYaGpkTEs1WmZHZllIMGhpbTlSc3ZrbGVtLW5mWDVDcklvSXlMQVY1YVJLMDI0WmFwS1NBQzRDMzE3TU9zazBLNUZka0dQNWpnUkp4N1dnclJxamUxcG5Vdm9QSExIejVGTG5WWlM4T1ltbjRSUkNrZXBXeVJ5XzMzVnBTUG91MGRIcTdlLXVibWREVlhLbWYzT0xUS3pmaVNGMktidmI5NDI3VXJwLV9FZUV3eHpCd0xySzlwT1Bza1czRExJV19keUZtYTN4LTMtek9xTkpsRFd3SVhiOEJnRmZaRnlRUUtKbzVmRXFVemZGVnlHTXFWUWdlS3B3MjE3ckpsOXZDa0lPRThhSzdELTdySEhZRWdhaXc3VGtRVG9qR1VsTHdZbWdGLUlQUVN5ZHo2cENCcUFzN09BdFRINC01MjI4VFdDZnlKZXY5UnRSdmh4WVB0MmJWMkx5blFzWTBZRU5x?oc=5)
-
-2026-11-13 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [UHK 港生活](https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNXVGYjhQSkMxTEFVcG9HUlhjWDl2OE9SM2xpVG5XMk9uekNVWkhUZDlSRWFWcGFVWnc2bXFhM2pkNFBCS2dHeEdKR0hGRm04NVlpRHhlb2pseDFCa3lIUEJ3SHBuV3Bka3RDMlVreVNuaFI1aEx6RGxYaGpkTEs1WmZHZllIMGhpbTlSc3ZrbGVtLW5mWDVDcklvSXlMQVY1YVJLMDI0WmFwS1NBQzRDMzE3TU9zazBLNUZka0dQNWpnUkp4N1dnclJxamUxcG5Vdm9QSExIejVGTG5WWlM4T1ltbjRSUkNrZXBXeVJ5XzMzVnBTUG91MGRIcTdlLXVibWREVlhLbWYzT0xUS3pmaVNGMktidmI5NDI3VXJwLV9FZUV3eHpCd0xySzlwT1Bza1czRExJV19keUZtYTN4LTMtek9xTkpsRFd3SVhiOEJnRmZaRnlRUUtKbzVmRXFVemZGVnlHTXFWUWdlS3B3MjE3ckpsOXZDa0lPRThhSzdELTdySEhZRWdhaXc3VGtRVG9qR1VsTHdZbWdGLUlQUVN5ZHo2cENCcUFzN09BdFRINC01MjI4VFdDZnlKZXY5UnRSdmh4WVB0MmJWMkx5blFzWTBZRU5x?oc=5)
 
 ---
 

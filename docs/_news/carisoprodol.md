@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carisoprodol 的相關健康新聞報導。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。預測適應症 1 個。"
 permalink: /news/carisoprodol/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Carisoprodol 相關新聞
@@ -36,11 +36,11 @@ last_modified_at: 2026-11-14
 
 ## 相關新聞（1 則）
 
-### [以為B流只是小感冒？醫急喊「恐爆心肌炎肺炎」 5類人最危險](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZaHVPVzRiRFpCNFV5MXJyZURTaXZfQ1N0a0dZaG1GMHlBMjc2SFc1a19aZGFJdjF6WGJ1dkJOMXh0M1dWaDVUeFhzT205Q3NR?oc=5)
+### [A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫](https://news.google.com/rss/articles/CBMi9wJBVV95cUxPdW9nc2NQaDdYeTBLQVoyWHhvdl8xYktXRnhTRUN2T3BWa29JWXhwQUhMOFhpSTlPZFgtY3BMdzVsWWdGWjEtaXM5VkZMU3RVN0FHMV9iaUFkemRxTmNwR04weGpBMl8xRWJkaG9JSm1xMVdTU2cyUHU3b1ljOUg0U3pqczhyQzFxQnRCU09TbjN0ejVlRXJmOThzcmdZbm5wVjlzTklhVjUyM3o3R3FBMzFRWFdvX2o0YVR6ZDYtOE8xdHlKQ0tpamNETHRzVklVR3g0Y1B2UXY4X05Tak5sQ2RtYlZ1dFlhVGQzSlZUQW5DM1RmbGJxdDRGYUh1c1RNVlBwV1U2MWdkUTRUdTZSdklYVW1rbjlWWlNWSnFrTC1GOXduaXlSbkMzVTJQUTl3VzJ1ajVXUU91aDdlTTV5TTVheXZQWHNIZlRrd0kwYTFUbDVTU2pNbHlTZzhLd1puWkZPNVZ2ZC02bnpvN2xFVVNINUZNX2M?oc=5)
 
-2026-11-13 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+2026-11-15 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
-來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZaHVPVzRiRFpCNFV5MXJyZURTaXZfQ1N0a0dZaG1GMHlBMjc2SFc1a19aZGFJdjF6WGJ1dkJOMXh0M1dWaDVUeFhzT205Q3NR?oc=5)
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxPdW9nc2NQaDdYeTBLQVoyWHhvdl8xYktXRnhTRUN2T3BWa29JWXhwQUhMOFhpSTlPZFgtY3BMdzVsWWdGWjEtaXM5VkZMU3RVN0FHMV9iaUFkemRxTmNwR04weGpBMl8xRWJkaG9JSm1xMVdTU2cyUHU3b1ljOUg0U3pqczhyQzFxQnRCU09TbjN0ejVlRXJmOThzcmdZbm5wVjlzTklhVjUyM3o3R3FBMzFRWFdvX2o0YVR6ZDYtOE8xdHlKQ0tpamNETHRzVklVR3g0Y1B2UXY4X05Tak5sQ2RtYlZ1dFlhVGQzSlZUQW5DM1RmbGJxdDRGYUh1c1RNVlBwV1U2MWdkUTRUdTZSdklYVW1rbjlWWlNWSnFrTC1GOXduaXlSbkMzVTJQUTl3VzJ1ajVXUU91aDdlTTV5TTVheXZQWHNIZlRrd0kwYTFUbDVTU2pNbHlTZzhLd1puWkZPNVZ2ZC02bnpvN2xFVVNINUZNX2M?oc=5)
 
 ---
 

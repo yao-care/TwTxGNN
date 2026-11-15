@@ -1,27 +1,39 @@
 {
-  "generated": "2026-11-14T23:31:10.145269+00:00",
-  "count": 20,
+  "generated": "2026-11-15T03:55:57.207763+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "e57c55005cdc",
-      "title": "肝指數正常！38歲男一照「已纖維化第3級」　1年後竟罹肝癌",
-      "published": "2026-11-14T11:18:00+00:00",
+      "id": "e2d974dab35e",
+      "title": "A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫",
+      "published": "2026-11-15T01:13:55+00:00",
       "sources": [
         {
-          "name": "ETtoday健康雲",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94Y1dWcC1aSmZYLTZIRFo2dm5sVlF2RUFhNUQtN3R0MFJ1enlSYzJjNTluNFhEa3JvelEyZVllczFWaUhnRkhQQVBxYUVBS1Na0gFPQVVfeXFMUEpRUDYwOGJiaTRjRGo2ZWNmaVh1Uzk1cDhfbTVYVFNadld4RXJFTlZwc0N6UkxaVUVvbXVlMlZmVW85ZHl4a0x1Rm5DMFo5Yw?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPdW9nc2NQaDdYeTBLQVoyWHhvdl8xYktXRnhTRUN2T3BWa29JWXhwQUhMOFhpSTlPZFgtY3BMdzVsWWdGWjEtaXM5VkZMU3RVN0FHMV9iaUFkemRxTmNwR04weGpBMl8xRWJkaG9JSm1xMVdTU2cyUHU3b1ljOUg0U3pqczhyQzFxQnRCU09TbjN0ejVlRXJmOThzcmdZbm5wVjlzTklhVjUyM3o3R3FBMzFRWFdvX2o0YVR6ZDYtOE8xdHlKQ0tpamNETHRzVklVR3g0Y1B2UXY4X05Tak5sQ2RtYlZ1dFlhVGQzSlZUQW5DM1RmbGJxdDRGYUh1c1RNVlBwV1U2MWdkUTRUdTZSdklYVW1rbjlWWlNWSnFrTC1GOXduaXlSbkMzVTJQUTl3VzJ1ajVXUU91aDdlTTV5TTVheXZQWHNIZlRrd0kwYTFUbDVTU2pNbHlTZzhLd1puWkZPNVZ2ZC02bnpvN2xFVVNINUZNX2M?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "liver sarcoma",
-          "keyword": "肝癌",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "cladribine",
-              "name": "Cladribine",
-              "url": "/drugs/cladribine/"
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol",
+              "url": "/drugs/carisoprodol/"
             }
           ]
         }
@@ -283,58 +295,6 @@
       ]
     },
     {
-      "id": "e661cace543e",
-      "title": "本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱 - UHK 港生活",
-      "published": "2026-11-13T23:32:11+00:00",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNXVGYjhQSkMxTEFVcG9HUlhjWDl2OE9SM2xpVG5XMk9uekNVWkhUZDlSRWFWcGFVWnc2bXFhM2pkNFBCS2dHeEdKR0hGRm04NVlpRHhlb2pseDFCa3lIUEJ3SHBuV3Bka3RDMlVreVNuaFI1aEx6RGxYaGpkTEs1WmZHZllIMGhpbTlSc3ZrbGVtLW5mWDVDcklvSXlMQVY1YVJLMDI0WmFwS1NBQzRDMzE3TU9zazBLNUZka0dQNWpnUkp4N1dnclJxamUxcG5Vdm9QSExIejVGTG5WWlM4T1ltbjRSUkNrZXBXeVJ5XzMzVnBTUG91MGRIcTdlLXVibWREVlhLbWYzT0xUS3pmaVNGMktidmI5NDI3VXJwLV9FZUV3eHpCd0xySzlwT1Bza1czRExJV19keUZtYTN4LTMtek9xTkpsRFd3SVhiOEJnRmZaRnlRUUtKbzVmRXFVemZGVnlHTXFWUWdlS3B3MjE3ckpsOXZDa0lPRThhSzdELTdySEhZRWdhaXc3VGtRVG9qR1VsTHdZbWdGLUlQUVN5ZHo2cENCcUFzN09BdFRINC01MjI4VFdDZnlKZXY5UnRSdmh4WVB0MmJWMkx5blFzWTBZRU5x?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7e3900f04224",
       "title": "感冒越早看醫生好越快？醫揭殘酷真相：3關鍵才是康復主因",
       "published": "2026-11-13T13:24:11+00:00",
@@ -414,68 +374,6 @@
               "slug": "vinorelbine",
               "name": "Vinorelbine",
               "url": "/drugs/vinorelbine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bf433ae3b4b6",
-      "title": "以為B流只是小感冒？醫急喊「恐爆心肌炎肺炎」 5類人最危險",
-      "published": "2026-11-13T01:25:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZaHVPVzRiRFpCNFV5MXJyZURTaXZfQ1N0a0dZaG1GMHlBMjc2SFc1a19aZGFJdjF6WGJ1dkJOMXh0M1dWaDVUeFhzT205Q3NR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol",
-              "url": "/drugs/carisoprodol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5664d5c12ba7",
-      "title": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天 - UHK 港生活",
-      "published": "2026-11-12T10:34:11+00:00",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGczdDJQWWREQXIxYUFMNEVUSVNacHhaMTRYMHJEaW9vS0d4NEVCbFhYVXFxY0hobl83aXpFd2oxbE8tQ2NZeUs2OW9aMjVQcUR1VUREem1NYVFlNm41aHBuNnVOd2xXcnlHREh4OUoyVFJQcE5qMy1HQ2wtSUVfM0xQcUF0NThNUlFyM1ZpZmFqWkVDQW9BTDVFTVBWeDFGeEpOeTFnVEQ5NmtVblY0VTRicjJDVWxiaU4zRnhmcF9YRGFXdEhZaDNnQ3VjTWFfVVJteEptaC11dy0zZldiX3p0ZDZKQ0I1enotQUtxWUdRZk93Qm1EcndGVm9QZWdobTd0QUx3eTctMXZGX0szampoVEgwcVIzWkFyNkNGRTctZGNSWU5oQndoM25NRk1RVzIyMDdydnBJOTN6UExHQzdOdHh1MWVObDhCZVRNVEFoUndjV0E5UDV5VnVUUW5VSUs5RFlVOEtybHYzOVZ1OUZtTWlwUkNxVWRYUFg3MGFaWVBRSUszWlhOOGdwdTNnOUYyUXhyeldQa00yMHRIbGI0R25rODBCT0dB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
             }
           ]
         }

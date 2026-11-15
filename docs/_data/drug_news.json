@@ -152,7 +152,7 @@
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 8
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -162,7 +162,7 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 3
+      "count": 2
     }
   ],
   "/drugs/carisoprodol/": [
@@ -193,17 +193,12 @@
     {
       "url": "/news/cladribine/",
       "title": "Cladribine 相關新聞",
-      "count": 7
+      "count": 6
     },
     {
       "url": "/news/generic-cancer/",
       "title": "癌症 (generic_cancer) 相關新聞",
       "count": 6
-    },
-    {
-      "url": "/news/liver-sarcoma/",
-      "title": "肝癌 (liver sarcoma) 相關新聞",
-      "count": 1
     }
   ],
   "/drugs/clobetasone/": [
@@ -372,7 +367,7 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 8
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -382,7 +377,7 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 3
+      "count": 2
     }
   ],
   "/drugs/hydroxyprogesterone-caproate/": [
@@ -401,7 +396,7 @@
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
-      "count": 8
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -411,7 +406,7 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 3
+      "count": 2
     },
     {
       "url": "/news/卵巢癌/",
@@ -587,7 +582,7 @@
     {
       "url": "/news/oteracil/",
       "title": "Oteracil 相關新聞",
-      "count": 8
+      "count": 7
     },
     {
       "url": "/news/generic-cancer/",
@@ -597,12 +592,12 @@
     {
       "url": "/news/colonic-neoplasm/",
       "title": "大腸癌 (colonic neoplasm) 相關新聞",
-      "count": 3
+      "count": 2
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 3
+      "count": 2
     }
   ],
   "/drugs/ouabain/": [
@@ -730,12 +725,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 5
+      "count": 4
     },
     {
       "url": "/news/common-cold/",
       "title": "感冒 (common cold) 相關新聞",
-      "count": 5
+      "count": 4
     }
   ],
   "/drugs/temozolomide/": [

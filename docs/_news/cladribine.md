@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cladribine 的相關健康新聞報導。原適應症：復發型多發性硬化症（臨床上有發作，且前二年有二次復發者）。預測適應症 7 個。"
 permalink: /news/cladribine/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Cladribine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,21 +34,13 @@ last_modified_at: 2026-11-14
 <li>prostate embryonal rhabdomyosarcoma</li>
 <li>extrahepatic bile duct rhabdomyosarcoma</li>
 <li>rhabdomyosarcoma (disease)</li>
-<li class="indication-matched">liver sarcoma<span class="indication-tag">📰 肝癌</span></li>
+<li>liver sarcoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（7 則）
-
-### [肝指數正常！38歲男一照「已纖維化第3級」　1年後竟罹肝癌](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94Y1dWcC1aSmZYLTZIRFo2dm5sVlF2RUFhNUQtN3R0MFJ1enlSYzJjNTluNFhEa3JvelEyZVllczFWaUhnRkhQQVBxYUVBS1Na0gFPQVVfeXFMUEpRUDYwOGJiaTRjRGo2ZWNmaVh1Uzk1cDhfbTVYVFNadld4RXJFTlZwc0N6UkxaVUVvbXVlMlZmVW85ZHl4a0x1Rm5DMFo5Yw?oc=5)
-
-2026-11-14 <span class="news-indication-tag">肝癌</span>
-
-來源: [ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE94Y1dWcC1aSmZYLTZIRFo2dm5sVlF2RUFhNUQtN3R0MFJ1enlSYzJjNTluNFhEa3JvelEyZVllczFWaUhnRkhQQVBxYUVBS1Na0gFPQVVfeXFMUEpRUDYwOGJiaTRjRGo2ZWNmaVh1Uzk1cDhfbTVYVFNadld4RXJFTlZwc0N6UkxaVUVvbXVlMlZmVW85ZHl4a0x1Rm5DMFo5Yw?oc=5)
-
----
+## 相關新聞（6 則）
 
 ### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
 
