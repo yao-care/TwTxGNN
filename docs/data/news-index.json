@@ -1,15 +1,40 @@
 {
-  "generated": "2026-11-15T03:55:57.207763+00:00",
-  "count": 17,
+  "generated": "2026-11-15T11:41:25.024469+00:00",
+  "count": 21,
   "news": [
     {
-      "id": "e2d974dab35e",
-      "title": "A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫",
-      "published": "2026-11-15T01:13:55+00:00",
+      "id": "41096928c185",
+      "title": "阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化 - TechNews 科技新報",
+      "published": "2026-11-15T09:07:27+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPdW9nc2NQaDdYeTBLQVoyWHhvdl8xYktXRnhTRUN2T3BWa29JWXhwQUhMOFhpSTlPZFgtY3BMdzVsWWdGWjEtaXM5VkZMU3RVN0FHMV9iaUFkemRxTmNwR04weGpBMl8xRWJkaG9JSm1xMVdTU2cyUHU3b1ljOUg0U3pqczhyQzFxQnRCU09TbjN0ejVlRXJmOThzcmdZbm5wVjlzTklhVjUyM3o3R3FBMzFRWFdvX2o0YVR6ZDYtOE8xdHlKQ0tpamNETHRzVklVR3g0Y1B2UXY4X05Tak5sQ2RtYlZ1dFlhVGQzSlZUQW5DM1RmbGJxdDRGYUh1c1RNVlBwV1U2MWdkUTRUdTZSdklYVW1rbjlWWlNWSnFrTC1GOXduaXlSbkMzVTJQUTl3VzJ1ajVXUU91aDdlTTV5TTVheXZQWHNIZlRrd0kwYTFUbDVTU2pNbHlTZzhLd1puWkZPNVZ2ZC02bnpvN2xFVVNINUZNX2M?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuZWxmdWhCQVp5ZjYxVHhESHc1M3lBMU9XNGdjZmU1cEpieEFrUzdCRVhFZkNHM0FqWUNhVU1lcmRzOEJYWTZoYkUzWXhDT0xuWjFHaEpsZmV5ZnhQNXBRTHdrY2RSSDd6SFFybTlaMXd3dGNnYXpyRWtpSEU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3365eab9b6e6",
+      "title": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫",
+      "published": "2026-11-15T07:00:04+00:00",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5"
         }
       ],
       "keywords": [
@@ -295,6 +320,58 @@
       ]
     },
     {
+      "id": "e661cace543e",
+      "title": "本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱 - UHK 港生活",
+      "published": "2026-11-13T23:32:11+00:00",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNNXVGYjhQSkMxTEFVcG9HUlhjWDl2OE9SM2xpVG5XMk9uekNVWkhUZDlSRWFWcGFVWnc2bXFhM2pkNFBCS2dHeEdKR0hGRm04NVlpRHhlb2pseDFCa3lIUEJ3SHBuV3Bka3RDMlVreVNuaFI1aEx6RGxYaGpkTEs1WmZHZllIMGhpbTlSc3ZrbGVtLW5mWDVDcklvSXlMQVY1YVJLMDI0WmFwS1NBQzRDMzE3TU9zazBLNUZka0dQNWpnUkp4N1dnclJxamUxcG5Vdm9QSExIejVGTG5WWlM4T1ltbjRSUkNrZXBXeVJ5XzMzVnBTUG91MGRIcTdlLXVibWREVlhLbWYzT0xUS3pmaVNGMktidmI5NDI3VXJwLV9FZUV3eHpCd0xySzlwT1Bza1czRExJV19keUZtYTN4LTMtek9xTkpsRFd3SVhiOEJnRmZaRnlRUUtKbzVmRXFVemZGVnlHTXFWUWdlS3B3MjE3ckpsOXZDa0lPRThhSzdELTdySEhZRWdhaXc3VGtRVG9qR1VsTHdZbWdGLUlQUVN5ZHo2cENCcUFzN09BdFRINC01MjI4VFdDZnlKZXY5UnRSdmh4WVB0MmJWMkx5blFzWTBZRU5x?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "7e3900f04224",
       "title": "感冒越早看醫生好越快？醫揭殘酷真相：3關鍵才是康復主因",
       "published": "2026-11-13T13:24:11+00:00",
@@ -374,6 +451,31 @@
               "slug": "vinorelbine",
               "name": "Vinorelbine",
               "url": "/drugs/vinorelbine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5664d5c12ba7",
+      "title": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天 - UHK 港生活",
+      "published": "2026-11-12T10:34:11+00:00",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGczdDJQWWREQXIxYUFMNEVUSVNacHhaMTRYMHJEaW9vS0d4NEVCbFhYVXFxY0hobl83aXpFd2oxbE8tQ2NZeUs2OW9aMjVQcUR1VUREem1NYVFlNm41aHBuNnVOd2xXcnlHREh4OUoyVFJQcE5qMy1HQ2wtSUVfM0xQcUF0NThNUlFyM1ZpZmFqWkVDQW9BTDVFTVBWeDFGeEpOeTFnVEQ5NmtVblY0VTRicjJDVWxiaU4zRnhmcF9YRGFXdEhZaDNnQ3VjTWFfVVJteEptaC11dy0zZldiX3p0ZDZKQ0I1enotQUtxWUdRZk93Qm1EcndGVm9QZWdobTd0QUx3eTctMXZGX0szampoVEgwcVIzWkFyNkNGRTctZGNSWU5oQndoM25NRk1RVzIyMDdydnBJOTN6UExHQzdOdHh1MWVObDhCZVRNVEFoUndjV0E5UDV5VnVUUW5VSUs5RFlVOEtybHYzOVZ1OUZtTWlwUkNxVWRYUFg3MGFaWVBRSUszWlhOOGdwdTNnOUYyUXhyeldQa00yMHRIbGI0R25rODBCT0dB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
             }
           ]
         }
@@ -1391,6 +1493,31 @@
               "slug": "zanubrutinib",
               "name": "Zanubrutinib",
               "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8720a3d31d48",
+      "title": "阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 - TechNews 科技新報",
+      "published": "2026-11-10T06:35:23+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uVnNTaDhTSDJsUTBfR2hUQm1zZE93US1COGRQUGlyMGV4anlkN25rYW1nNk10bVlZLTNMN0pTUUE1TXhhZ0RpaldGLVBfZURWWkM2SGJrWnA1TTE5cS1zLTRWN2E0d0dTZ0pmWkQzUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
             }
           ]
         }

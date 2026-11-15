@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
 
-### [A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫](https://news.google.com/rss/articles/CBMi9wJBVV95cUxPdW9nc2NQaDdYeTBLQVoyWHhvdl8xYktXRnhTRUN2T3BWa29JWXhwQUhMOFhpSTlPZFgtY3BMdzVsWWdGWjEtaXM5VkZMU3RVN0FHMV9iaUFkemRxTmNwR04weGpBMl8xRWJkaG9JSm1xMVdTU2cyUHU3b1ljOUg0U3pqczhyQzFxQnRCU09TbjN0ejVlRXJmOThzcmdZbm5wVjlzTklhVjUyM3o3R3FBMzFRWFdvX2o0YVR6ZDYtOE8xdHlKQ0tpamNETHRzVklVR3g0Y1B2UXY4X05Tak5sQ2RtYlZ1dFlhVGQzSlZUQW5DM1RmbGJxdDRGYUh1c1RNVlBwV1U2MWdkUTRUdTZSdklYVW1rbjlWWlNWSnFrTC1GOXduaXlSbkMzVTJQUTl3VzJ1ajVXUU91aDdlTTV5TTVheXZQWHNIZlRrd0kwYTFUbDVTU2pNbHlTZzhLd1puWkZPNVZ2ZC02bnpvN2xFVVNINUZNX2M?oc=5)
+### [A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5)
 
 2026-11-15 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
-來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi9wJBVV95cUxPdW9nc2NQaDdYeTBLQVoyWHhvdl8xYktXRnhTRUN2T3BWa29JWXhwQUhMOFhpSTlPZFgtY3BMdzVsWWdGWjEtaXM5VkZMU3RVN0FHMV9iaUFkemRxTmNwR04weGpBMl8xRWJkaG9JSm1xMVdTU2cyUHU3b1ljOUg0U3pqczhyQzFxQnRCU09TbjN0ejVlRXJmOThzcmdZbm5wVjlzTklhVjUyM3o3R3FBMzFRWFdvX2o0YVR6ZDYtOE8xdHlKQ0tpamNETHRzVklVR3g0Y1B2UXY4X05Tak5sQ2RtYlZ1dFlhVGQzSlZUQW5DM1RmbGJxdDRGYUh1c1RNVlBwV1U2MWdkUTRUdTZSdklYVW1rbjlWWlNWSnFrTC1GOXduaXlSbkMzVTJQUTl3VzJ1ajVXUU91aDdlTTV5TTVheXZQWHNIZlRrd0kwYTFUbDVTU2pNbHlTZzhLd1puWkZPNVZ2ZC02bnpvN2xFVVNINUZNX2M?oc=5)
+來源: [台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5)
 
 ---
 
@@ -65,6 +65,14 @@ last_modified_at: 2026-11-15
 2026-11-13 <span class="news-indication-tag">感冒</span>
 
 來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GeGVrVXZQckVOcXBIOFN1VEVHN3VNM3ZERWhEYnFXdWNlSXJFWndfQ094ZXdoMDRTcGpSX0xtN0NvQXNLV01sbERhdUFpejlRWnp4cE82eEd3TUlCMV9nQlJn0gFnQVVfeXFMUDQ3OHFLb3otWVNTUWdDMVZLWEV2UmFQRTUzd212VDJ0b3AyZDBndUp5NE1VQzhMNmt3ajhvZWRiSVBCUFNyYm5Gb0JBQWtpUEN5NDd6bkE5alIzbkJ0NnpWNEotTjRscw?oc=5)
+
+---
+
+### [萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天 - UHK 港生活](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGczdDJQWWREQXIxYUFMNEVUSVNacHhaMTRYMHJEaW9vS0d4NEVCbFhYVXFxY0hobl83aXpFd2oxbE8tQ2NZeUs2OW9aMjVQcUR1VUREem1NYVFlNm41aHBuNnVOd2xXcnlHREh4OUoyVFJQcE5qMy1HQ2wtSUVfM0xQcUF0NThNUlFyM1ZpZmFqWkVDQW9BTDVFTVBWeDFGeEpOeTFnVEQ5NmtVblY0VTRicjJDVWxiaU4zRnhmcF9YRGFXdEhZaDNnQ3VjTWFfVVJteEptaC11dy0zZldiX3p0ZDZKQ0I1enotQUtxWUdRZk93Qm1EcndGVm9QZWdobTd0QUx3eTctMXZGX0szampoVEgwcVIzWkFyNkNGRTctZGNSWU5oQndoM25NRk1RVzIyMDdydnBJOTN6UExHQzdOdHh1MWVObDhCZVRNVEFoUndjV0E5UDV5VnVUUW5VSUs5RFlVOEtybHYzOVZ1OUZtTWlwUkNxVWRYUFg3MGFaWVBRSUszWlhOOGdwdTNnOUYyUXhyeldQa00yMHRIbGI0R25rODBCT0dB?oc=5)
+
+2026-11-12 <span class="news-indication-tag">感冒</span>
+
+來源: [UHK 港生活](https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGczdDJQWWREQXIxYUFMNEVUSVNacHhaMTRYMHJEaW9vS0d4NEVCbFhYVXFxY0hobl83aXpFd2oxbE8tQ2NZeUs2OW9aMjVQcUR1VUREem1NYVFlNm41aHBuNnVOd2xXcnlHREh4OUoyVFJQcE5qMy1HQ2wtSUVfM0xQcUF0NThNUlFyM1ZpZmFqWkVDQW9BTDVFTVBWeDFGeEpOeTFnVEQ5NmtVblY0VTRicjJDVWxiaU4zRnhmcF9YRGFXdEhZaDNnQ3VjTWFfVVJteEptaC11dy0zZldiX3p0ZDZKQ0I1enotQUtxWUdRZk93Qm1EcndGVm9QZWdobTd0QUx3eTctMXZGX0szampoVEgwcVIzWkFyNkNGRTctZGNSWU5oQndoM25NRk1RVzIyMDdydnBJOTN6UExHQzdOdHh1MWVObDhCZVRNVEFoUndjV0E5UDV5VnVUUW5VSUs5RFlVOEtybHYzOVZ1OUZtTWlwUkNxVWRYUFg3MGFaWVBRSUszWlhOOGdwdTNnOUYyUXhyeldQa00yMHRIbGI0R25rODBCT0dB?oc=5)
 
 ---
 
