@@ -175,18 +175,6 @@
       "count": 1
     }
   ],
-  "/drugs/carisoprodol/": [
-    {
-      "url": "/news/carisoprodol/",
-      "title": "Carisoprodol 相關新聞",
-      "count": 1
-    },
-    {
-      "url": "/news/肌炎/",
-      "title": "肌炎 相關新聞",
-      "count": 1
-    }
-  ],
   "/drugs/cefmetazole/": [
     {
       "url": "/news/cefmetazole/",
@@ -293,13 +281,13 @@
       "count": 5
     },
     {
-      "url": "/news/small-cell-lung-carcinoma/",
-      "title": "肺癌 (small cell lung carcinoma) 相關新聞",
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 1
     },
     {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "url": "/news/small-cell-lung-carcinoma/",
+      "title": "肺癌 (small cell lung carcinoma) 相關新聞",
       "count": 1
     }
   ],
@@ -755,12 +743,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 6
+      "count": 5
     },
     {
       "url": "/news/common-cold/",
       "title": "感冒 (common cold) 相關新聞",
-      "count": 6
+      "count": 5
     }
   ],
   "/drugs/temozolomide/": [

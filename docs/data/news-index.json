@@ -1,7 +1,62 @@
 {
-  "generated": "2026-11-15T18:15:00.282633+00:00",
-  "count": 22,
+  "generated": "2026-11-15T23:16:10.750944+00:00",
+  "count": 21,
   "news": [
+    {
+      "id": "f3ca9c1969a2",
+      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高",
+      "published": "2026-11-15T22:00:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "711a98cc0a37",
       "title": "醫生教你三招 避免冬天罹患感冒或流感",
@@ -47,43 +102,6 @@
               "slug": "gefitinib",
               "name": "Gefitinib",
               "url": "/drugs/gefitinib/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3365eab9b6e6",
-      "title": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫",
-      "published": "2026-11-15T07:00:04+00:00",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol",
-              "url": "/drugs/carisoprodol/"
             }
           ]
         }
@@ -476,61 +494,6 @@
               "slug": "vinorelbine",
               "name": "Vinorelbine",
               "url": "/drugs/vinorelbine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "20b2f7b5a20c",
-      "title": "別碰永久化學物質，研究：侵襲性乳癌發生率高近一倍 - TechNews 科技新報",
-      "published": "2026-11-13T02:32:16+00:00",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDhTSm5UcFlvN1NZVkJENllSWkVUcW5VWWt6ZnotRDVtbV9Vblh2Q0luRUpIdDFoQVRJdTl2U0Y1dnc1T2RNNVVfUlp1bzRjY19hdVJPbWhaNlhidUJOaHRuZXg3SldTVi1UeTNVVC04YnBWRk5sWnA4SV8zQ3kwbVFUVFRlck4zcm03X24yU25pVFZNZGdNZExHVmFDNUFaOHMtZUoxczNKVW83NEF3dW5Xd2VwUTQ3cWlIR3NoUXV0U0JR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }

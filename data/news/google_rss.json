@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-15T18:14:57.887088+00:00",
-  "count": 51,
+  "fetched_at": "2026-11-15T23:16:08.692259+00:00",
+  "count": 52,
   "news": [
+    {
+      "id": "f3ca9c1969a2",
+      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高 - Yahoo新聞",
+      "published": "2026-11-15T22:00:00+00:00",
+      "summary": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高&nbsp;&nbsp;Yahoo新聞別碰永久化學物質，研究：侵襲性乳癌發生率高近一倍 | 科技新報&nbsp;&nbsp;LINE TODAY尚無充足人體科學實證證明穿聚酯纖維衣會致癌或影響荷爾蒙&nbsp;&nbsp;台灣事實查核中心乳癌｜1類食品包裝恐致乳癌！醫教8招自保 減少使用一次性餐具&nbsp;&nbsp;香港01血液中兩種PFAS濃度高女性 易罹乳癌&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5"
+        }
+      ]
+    },
     {
       "id": "711a98cc0a37",
       "title": "醫生教你三招 避免冬天罹患感冒或流感 - 大紀元",
@@ -12,6 +24,18 @@
         {
           "name": "大紀元",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMV9xRU02OUJ6ZGZyRnJBSlZjSTliOUl5dUhWaDVlUjIwSDJzend5dmJmZmcwV3dDSEdiSkJ2N09oRFZPQnUydk9zZlcwMGJ6ZmNRREdWZjFWT0RQd2M0OVRR0gFnQVVfeXFMTzgyWXFocl9XWWFfODdtczQyTTBqMEV5MURnYTQwaUR2Tkl2QVVCLWRRWWRfdy0wZy1GMi0tUmhhZ1kwVjIweGxzdVgxUF9LSm1SektKV3A0blM4aFlQcElaamNnOU9WQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "56f1d415b44c",
+      "title": "美國麻疹「清零」地位為何被撤銷？幼兒園接種率跌到92.4%，今年逾5400例、11月至今5人死亡| 中央社 | 新聞 - 風傳媒",
+      "published": "2026-11-15T03:17:00+00:00",
+      "summary": "美國麻疹「清零」地位為何被撤銷？幼兒園接種率跌到92.4%，今年逾5400例、11月至今5人死亡| 中央社 | 新聞&nbsp;&nbsp;風傳媒美國失去麻疹清零地位 疫情升溫數十年來最嚴重&nbsp;&nbsp;Rti 中央廣播電臺MPN具高度異質性 停藥假期宜醫病共決&nbsp;&nbsp;中華新聞雲／中華日報討論牆 | 26年防疫金字招牌砸了！美國麻疹疫情大失控 痛失清零國家地位&nbsp;&nbsp;LINE TODAY26年來首度失守！美國失去麻疹消除地位 今年累計逾5400例&nbsp;&nbsp;Taiwan News",
+      "sources": [
+        {
+          "name": "風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRR0xvVDlmbjlIanFfRUpZZU95LTQ4WVlpVUd3dzc3VWVEQTBId2R4cjNIT0NCVHd4NEZVczVqV1p3RXUwblBXUWdwNV9zUQ?oc=5"
         }
       ]
     },
@@ -28,26 +52,38 @@
       ]
     },
     {
-      "id": "56f1d415b44c",
-      "title": "美國麻疹「清零」地位為何被撤銷？幼兒園接種率跌到92.4%，今年逾5400例、11月至今5人死亡| 中央社 | 新聞 - 風傳媒",
-      "published": "2026-11-15T03:17:00+00:00",
-      "summary": "美國麻疹「清零」地位為何被撤銷？幼兒園接種率跌到92.4%，今年逾5400例、11月至今5人死亡| 中央社 | 新聞&nbsp;&nbsp;風傳媒美國失去麻疹清零地位 疫情升溫數十年來最嚴重&nbsp;&nbsp;Rti 中央廣播電臺確診病例飆新高！美國26年麻疹清零國地位被撤銷&nbsp;&nbsp;自由時報討論牆 | 26年防疫金字招牌砸了！美國麻疹疫情大失控 痛失清零國家地位&nbsp;&nbsp;LINE TODAY26年紀錄終結！美國失去「消除麻疹」地位&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRR0xvVDlmbjlIanFfRUpZZU95LTQ4WVlpVUd3dzc3VWVEQTBId2R4cjNIT0NCVHd4NEZVczVqV1p3RXUwblBXUWdwNV9zUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ecf8554b79f",
       "title": "遠古病毒「關閉」黑猩猩關鍵基因，意外成就人類複雜大腦 | 科技新報 - LINE TODAY",
-      "published": "2026-11-15T15:00:21+00:00",
+      "published": "2026-11-15T15:20:21+00:00",
       "summary": "遠古病毒「關閉」黑猩猩關鍵基因，意外成就人類複雜大腦 | 科技新報&nbsp;&nbsp;LINE TODAY",
       "sources": [
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HSHo4R1V3MjRhdGxXVGc2akJNYnNGWkZLRmRqckhsUHpPZnZaUFIwT3FnRDkwb0hmeGZZWDN2dFpiQ1QteFM5WTZGRURkZGl1a3MteTBB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "804306828a05",
+      "title": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命 - UDN",
+      "published": "2026-11-14T01:11:17+00:00",
+      "summary": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVV0RBYWw0VUthVGxpbmQ4LWxrZG5DODlPdlV2Xzg2U1I0SWJMTFJQU2NaSTJMWjhjQnBXUGFwTmtUSzFjYjFMc3VrN1RuNUR0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6d66126f0583",
+      "title": "蚊子叮人都「挑食」！研究揭三種蚊各有所好 埃及伊蚊喜男性、 亞洲虎蚊愛酮類 - 巴士的報",
+      "published": "2026-11-15T20:35:20+00:00",
+      "summary": "蚊子叮人都「挑食」！研究揭三種蚊各有所好 埃及伊蚊喜男性、 亞洲虎蚊愛酮類&nbsp;&nbsp;巴士的報招蚊子體質真相大白！研究揭「蚊子挑人真相」 3大偏好曝光&nbsp;&nbsp;Yahoo新聞美國研究揭3病媒蚊叮人各有所好 人類皮膚的「氣味指紋」成關鍵&nbsp;&nbsp;香港01美國研究：119人無一同時吸引三種病媒蚊 皮膚氣味與細菌組成或影響叮咬&nbsp;&nbsp;新假期特別好吃？為什麼蚊子只叮你 科學家實驗揭露「蚊子挑人秘密」&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOV3RVMnpraG9lWkVaLWhPWkE3b2UzX3JIbFFSRnpadEZHekNjYng5bTNObUhWcW5kTUNuX2wyaG9RZ2pJZ2Z2RElYSHFzVWs0S2Z0MVN2TUZJVGNkTWpMSVRDYk85WnZsUlY5eHhoVDYzU2RiQnRzU1hoek9mdGRKMEU4R25JWUJfTUFuSE1BNlgzd1h6OXRxaG85Qk5CN1NnVjRzMW00YWk1RTVPS2kxeE42Z0tKRF9SdFJYaEFCSjZkRG9waEhSd29LZGhDUWZ2UGRvYVJLWjB5blZYbEhGa2FqZEVxR0ZZRlNhaC1mUERfYUh4emFHZm9lOFAwLUVsalhBcmJzVlp1YWE3SlZtZzYyOWc5RjFtVUNpN09iVTRGbERISVFYOWxSTlJDZTh2dUFwM0ZCQ0xCOWU4Tk1pdkMtdDJsQjQydDh5TXM0Wm9SNmFhUHBJSlE3dUEwbF9zblFpX0hGTXluZ2RjekE?oc=5"
         }
       ]
     },
@@ -72,30 +108,6 @@
         {
           "name": "自由健康網",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rOUpFRFdjeE9KOExYY3c3b0JDYnJScmFETjA1STkyUlVWMjM0NWZCdWxqX0o4WDVXcTV4dE52bTJETWZGTXBBZ3pzam1JdXFyamdncEo2MjNrdnZvVWxuem45VXg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20b2f7b5a20c",
-      "title": "別碰永久化學物質，研究：侵襲性乳癌發生率高近一倍 - TechNews 科技新報",
-      "published": "2026-11-13T02:32:16+00:00",
-      "summary": "別碰永久化學物質，研究：侵襲性乳癌發生率高近一倍&nbsp;&nbsp;TechNews 科技新報別碰永久化學物質，研究：侵襲性乳癌發生率高近一倍 | 科技新報&nbsp;&nbsp;LINE TODAY乳癌｜1類食品包裝恐致乳癌！醫教8招自保 減少使用一次性餐具&nbsp;&nbsp;香港01血液中兩種PFAS濃度高女性 易罹乳癌&nbsp;&nbsp;世界新聞網別碰永久化學物質，研究：侵襲性乳癌發生率高近一倍- 股市爆料同學會&nbsp;&nbsp;CMoney",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDhTSm5UcFlvN1NZVkJENllSWkVUcW5VWWt6ZnotRDVtbV9Vblh2Q0luRUpIdDFoQVRJdTl2U0Y1dnc1T2RNNVVfUlp1bzRjY19hdVJPbWhaNlhidUJOaHRuZXg3SldTVi1UeTNVVC04YnBWRk5sWnA4SV8zQ3kwbVFUVFRlck4zcm03X24yU25pVFZNZGdNZExHVmFDNUFaOHMtZUoxczNKVW83NEF3dW5Xd2VwUTQ3cWlIR3NoUXV0U0JR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "804306828a05",
-      "title": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命 - UDN",
-      "published": "2026-11-14T01:11:17+00:00",
-      "summary": "這款水果竟是腎臟殺手！健康者連吃4顆可能導致腎衰竭 最嚴重喪命&nbsp;&nbsp;UDN",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVV0RBYWw0VUthVGxpbmQ4LWxrZG5DODlPdlV2Xzg2U1I0SWJMTFJQU2NaSTJMWjhjQnBXUGFwTmtUSzFjYjFMc3VrN1RuNUR0?oc=5"
         }
       ]
     },
@@ -127,7 +139,7 @@
       "id": "3365eab9b6e6",
       "title": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫 - 台視新聞網",
       "published": "2026-11-15T07:00:04+00:00",
-      "summary": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫&nbsp;&nbsp;台視新聞網A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫&nbsp;&nbsp;Yahoo新聞醫師：高風險族群染B流 仍可能引發重症&nbsp;&nbsp;UDN以為B流只是小感冒？醫急喊「恐爆心肌炎肺炎」 5類人最危險 | TVBS&nbsp;&nbsp;LINE TODAY健康網》流感季 孩子喉嚨痛？醫：謹記4危險警訊&nbsp;&nbsp;自由健康網",
+      "summary": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫&nbsp;&nbsp;台視新聞網A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫&nbsp;&nbsp;Yahoo新聞感染A流、B流哪個比較嚴重？ 醫揭4大差異：B流也可能引發重症｜感染科｜醫療&nbsp;&nbsp;元氣網醫師：高風險族群染B流 仍可能引發重症 | 聯合新聞網&nbsp;&nbsp;LINE TODAY健康網》流感季 孩子喉嚨痛？醫：謹記4危險警訊&nbsp;&nbsp;自由健康網",
       "sources": [
         {
           "name": "台視新聞網",
@@ -184,18 +196,6 @@
       ]
     },
     {
-      "id": "505940e0d23b",
-      "title": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本 - 自由健康網",
-      "published": "2026-11-14T01:21:00+00:00",
-      "summary": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本&nbsp;&nbsp;自由健康網黑芝麻真的能補鈣？營養師為你拆解高鈣迷思&nbsp;&nbsp;etnet 經濟通夜班工作者的維生素D缺乏問題比你想的更複雜？醫師說補充劑量要跟日照族群完全不同才有意義&nbsp;&nbsp;墨新聞-MORE News維生素D補過頭 恐血鈣過高傷腎&nbsp;&nbsp;短新聞SHOTNEWS補鈣不是愈多愈好！營養師拆解4 大迷思過量或增腎結石風險&nbsp;&nbsp;巴士的報",
-      "sources": [
-        {
-          "name": "自由健康網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRXlMbC01MFc1dlpqWGE2OFp0UndZWm1CUjFocXRMVFFaRTk5WDZPVnppa2t4b1hWWW9OVEttVnhvQ2N3aG94VUcwdEZld3V4WnVWWDR1TXEyaVNDdmdWYmdFanc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5638c4328c28",
       "title": "58歲婦人車禍後突發「心碎症候群」！醫師提醒：更年期女性別忽略心血管健康 - 經濟日報",
       "published": "2026-11-12T08:28:17+00:00",
@@ -228,6 +228,18 @@
         {
           "name": "Heho健康",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yZU85Z2QteGZfc3FvdFo0bkVTbVlEMzBIeEFBM0lZQTZ6clhUR0xIZHNyTldDU1hKX2M2czlJWmx4MkwzV1M4aF9YOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "505940e0d23b",
+      "title": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本 - 自由健康網",
+      "published": "2026-11-14T01:21:00+00:00",
+      "summary": "健康網》不是喝豆漿！補鈣吃錯恐白忙 國健署曝3類食物存骨本&nbsp;&nbsp;自由健康網黑芝麻真的能補鈣？營養師為你拆解高鈣迷思&nbsp;&nbsp;etnet 經濟通夜班工作者的維生素D缺乏問題比你想的更複雜？醫師說補充劑量要跟日照族群完全不同才有意義&nbsp;&nbsp;墨新聞-MORE News維生素D補過頭 恐血鈣過高傷腎&nbsp;&nbsp;短新聞SHOTNEWS補鈣不是愈多愈好！營養師拆解4 大迷思過量或增腎結石風險&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pRXlMbC01MFc1dlpqWGE2OFp0UndZWm1CUjFocXRMVFFaRTk5WDZPVnppa2t4b1hWWW9OVEttVnhvQ2N3aG94VUcwdEZld3V4WnVWWDR1TXEyaVNDdmdWYmdFanc?oc=5"
         }
       ]
     },
@@ -396,6 +408,18 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFNlRjlIOUhOUVZUeVZEbnluMk55aGxxSE5qX0JYNmQyMXI0bU9Nc0p0Q3BLTTR4YkJWd2xzNUIzMkRmTWpFM1c0ZjRMMGdsc2xQQUVsOThJdTI5M0xXNlp2X0ZjbFA4dkdWd0haYU1XYWJKR0tCcy10TWFzSjV0WVd0Z3hFbjdYTVhpeDhxVFNTR0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "92fc22a912df",
+      "title": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證 | 科技新報 - LINE TODAY",
+      "published": "2026-11-15T18:04:10+00:00",
+      "summary": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uV2wteXBPLUw5SW1yY3c3VlV3UHFEbzYxY0hPMDVieFJZUG5FTm9ERGM5Z1dHQ004ZmFacUoyTUJsNkFkY3A3VlBpR2pLSUdmYnJ0ajdB?oc=5"
         }
       ]
     },
@@ -588,18 +612,6 @@
         {
           "name": "Cosmopolitan HK",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04N1d6cGNUM01EajZTWXJRbGJUQjNIUEJrTHFGUG04RGFldS1hbzVSajhjUl9Uczl1Nk4tUVZ5WUtpY3NSN2ZSTmxxOVkxQWVmYkhhLU1Jd2hvWFNzSXJoQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "936908ab6e4d",
-      "title": "醫路同行：慢性鼻竇炎新曙光 - 20261109 - 副刊 - 明報新聞網",
-      "published": "2026-11-08T20:30:00+00:00",
-      "summary": "醫路同行：慢性鼻竇炎新曙光 - 20261109 - 副刊&nbsp;&nbsp;明報新聞網",
-      "sources": [
-        {
-          "name": "明報新聞網",
-          "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOX1dXVkhQcFF0bGFUeHRnMVRGc0lSMWpaM3doczZBX0RqNVF6VEVuOGIwZ1ViQXctRmQ1YXY5WmRzUGU5RXZUTFc1LXgyTl82QkNKS2FISndjMmNZcEFUZkhNLVYxajFEV0VKWm9TZkNUR2tDVEhEcmF3bjRyU0dYQXpKVlJ2d1QtRnVVYmhRYWdxSlp4M19xVGM4OWh6dUhhY1g0bDVDX2JKdldxTFlXbWRaenRyUGgzMVVOVHN5VklXSmYtellEN3JKdEF3WnpSSjJjbllzVmVrcXVzRnczbG14bV8zZnFjLVNHLUsyTllrMmFNdXZSRVB3OVdIaHU2MjB6YWRPRkRkSlROeUZWM1lwZVFhaWpUN0tYbW44NHU?oc=5"
         }
       ]
     },
