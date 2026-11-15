@@ -570,10 +570,10 @@
       <h3>獨立測試模式</h3>
       <p>
         此頁面允許您手動輸入<strong>藥物名稱</strong>來測試 TwTxGNN 的老藥新用預測功能，
-        無需連接 EHR 系統。請輸入英文藥物名稱（如 Famotidine、Docetaxel、Paclitaxel）。
+        無需連接 EHR 系統。請輸入英文藥物名稱（如 Clomipramine、Doxorubicin、Busulfan）。
       </p>
       <p style="margin-top: 8px; color: #856404;">
-        <strong>注意：</strong>請輸入藥物名稱，而非疾病名稱。例如輸入「Famotidine」而非「diabetes」。
+        <strong>注意：</strong>請輸入藥物名稱，而非疾病名稱。例如輸入「Clomipramine」而非「diabetes」。
         可點擊下方範例按鈕快速測試。
       </p>
     </div>
@@ -582,7 +582,7 @@
       <h2 class="section-title">輸入藥物名稱</h2>
 
       <div class="input-group">
-        <input type="text" id="drug-input" placeholder="輸入藥物名稱，如 Famotidine、Docetaxel..." autocomplete="off">
+        <input type="text" id="drug-input" placeholder="輸入藥物名稱，如 Clomipramine、Doxorubicin..." autocomplete="off">
         <button class="btn btn-primary" id="add-btn">新增</button>
       </div>
 
@@ -596,16 +596,16 @@
       </div>
 
       <div class="sample-drugs">
-        <p>L1 高證據藥物範例（點擊新增）：</p>
+        <p>本站證據等級最高的藥物範例（點擊新增）：</p>
         <div class="sample-list">
-          <button class="sample-btn" data-drug="Famotidine">Famotidine</button>
-          <button class="sample-btn" data-drug="Docetaxel">Docetaxel</button>
-          <button class="sample-btn" data-drug="Paclitaxel">Paclitaxel</button>
-          <button class="sample-btn" data-drug="Remdesivir">Remdesivir</button>
-          <button class="sample-btn" data-drug="Vitamin E">Vitamin E</button>
-          <button class="sample-btn" data-drug="Isosorbide dinitrate">Isosorbide dinitrate</button>
-          <button class="sample-btn" data-drug="Dronedarone">Dronedarone</button>
-          <button class="sample-btn" data-drug="Nepafenac">Nepafenac</button>
+          <button class="sample-btn" data-drug="Clomipramine">Clomipramine (L1)</button>
+          <button class="sample-btn" data-drug="Doxorubicin">Doxorubicin (L1)</button>
+          <button class="sample-btn" data-drug="Busulfan">Busulfan (L2)</button>
+          <button class="sample-btn" data-drug="Mycophenolate Mofetil">Mycophenolate Mofetil (L2)</button>
+          <button class="sample-btn" data-drug="Nepafenac">Nepafenac (L2)</button>
+          <button class="sample-btn" data-drug="Ropinirole">Ropinirole (L2)</button>
+          <button class="sample-btn" data-drug="Prednisolone">Prednisolone (L2)</button>
+          <button class="sample-btn" data-drug="Prednisone">Prednisone (L2)</button>
         </div>
       </div>
     </section>
