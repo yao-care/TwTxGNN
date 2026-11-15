@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速。預測適應症 10 個。"
 permalink: /news/ouabain/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # Ouabain 相關新聞
@@ -47,17 +47,17 @@ last_modified_at: 2026-11-12
 
 ### [女性每周重訓超過1時數 研究揭：重大心血管疾病風險降20%](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5)
 
-2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">心臟病發</span>
+2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心梗</span>
 
 來源: [AM730](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5)
 
 ---
 
-### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
+### [長期孤獨增心臟病中風風險 醫生拆解隱形心血管危機](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ05wcnFVdUVHVUhYTUhrRzNaRzgzMEJqMVNrN0lKSWdzT0pMN1NvOHByZVN6ME5YZnFRN3RJcEhsQmdGLXVJSFZXX3kySFFaY05fYUd0cGZMYXI0dXFPMG4tNDhXMW5IdFJMMlJZbDU5a1NySTh1OW9DZ3I3Y1JtaTVpWF92cWNibkExZjFWOHF0UW5CTHliWENTWTd2cjljRWd3SVM2bDV1NU91bFRibUV1ZHkwQUg4X3g5SWRrZy1KNEJlcUJ0TnBBWjR1YU1wWkhRNlh5RkFESGpYR2tjUUtDbUhWbDZfV2xJVjVfUlBoR1l1RC16NnY5cEFya2FCTUhLNjVKNk1PbEl1RVhvVmU1aVB2bVBWMHNFZGpEZWF0SVN1NDFvdXpPb1FxZHBTVzdRMlpFY2tWbnRPQVhwZS04QllyTWpnMDdqVmhTVjBYSkF1RmhkSUhhbFV0dU9Rc3lkREY0X3ZKVklhb0lF?oc=5)
 
-2026-11-12 <span class="news-indication-tag">心肌梗塞</span>
+2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">中風</span>
 
-來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
+來源: [巴士的報](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ05wcnFVdUVHVUhYTUhrRzNaRzgzMEJqMVNrN0lKSWdzT0pMN1NvOHByZVN6ME5YZnFRN3RJcEhsQmdGLXVJSFZXX3kySFFaY05fYUd0cGZMYXI0dXFPMG4tNDhXMW5IdFJMMlJZbDU5a1NySTh1OW9DZ3I3Y1JtaTVpWF92cWNibkExZjFWOHF0UW5CTHliWENTWTd2cjljRWd3SVM2bDV1NU91bFRibUV1ZHkwQUg4X3g5SWRrZy1KNEJlcUJ0TnBBWjR1YU1wWkhRNlh5RkFESGpYR2tjUUtDbUhWbDZfV2xJVjVfUlBoR1l1RC16NnY5cEFya2FCTUhLNjVKNk1PbEl1RVhvVmU1aVB2bVBWMHNFZGpEZWF0SVN1NDFvdXpPb1FxZHBTVzdRMlpFY2tWbnRPQVhwZS04QllyTWpnMDdqVmhTVjBYSkF1RmhkSUhhbFV0dU9Rc3lkREY0X3ZKVklhb0lF?oc=5)
 
 ---
 
