@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Oteracil</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（7 則）
 
 ### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
 
@@ -97,14 +97,6 @@ last_modified_at: 2026-11-15
 2026-11-09 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [香港01](https://news.google.com/rss/articles/CBMilANBVV95cUxNek1wX3owRGVGM0t6U19oUV94WG5mNndHekVaLThFZXZSZnJpbWtoeDlwQWNwdERtRGRTMlJZeEZOYU5ZTmJYNVlUVUZaT2NnbWZmWk9HeDVXTzloUlFaRUVGRE9nZ3pkdEk5cmZVSHVtdjJZTVJUMTNaMDU0anF2bFd4MFhZWXJfbmtUbUh0MG9JSDFjeWJjbVBGZm0xYlI3aVRGVmhkVENvTnRTbW9hbldzdTJySkxRbTk1V1M1VGFWRVR4ZUV3VmozSVNCQnhTN1ZVNE41cU9YcnRjZW9TMW5abG5DSDVPNEFHWGJON0FnNUd5ZzVKSDNLX1E1bGZCQVdxX05FRng3OGtTZjc5RkZzelBXVm5DXzFDZUFFZE10b05MMWhnRl9RRnJvQUgxRVRzaFFIeWhXcjlqUVRJUTY4Sm1aUVdpRkZGQ01XR1RXSHZrMnRtTkp3ZW1XajlzczFXdTN5bDR6RWIxYlhCVDJYR2ZpZTZoS0h0MDdQLUdaVXlYWWVUVTlRX2FTT09UNUQ5cw?oc=5)
-
----
-
-### [50歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
-
-2026-11-08 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
 
 ---
 

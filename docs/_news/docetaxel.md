@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Docetaxel 的相關健康新聞報導。原適應症：抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。;...。預測適應症 7 個。"
 permalink: /news/docetaxel/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # Docetaxel 相關新聞
@@ -58,6 +58,14 @@ last_modified_at: 2026-11-14
 
 ---
 
+### [別碰永久化學物質，研究：侵襲性乳癌發生率高近一倍 - TechNews 科技新報](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDhTSm5UcFlvN1NZVkJENllSWkVUcW5VWWt6ZnotRDVtbV9Vblh2Q0luRUpIdDFoQVRJdTl2U0Y1dnc1T2RNNVVfUlp1bzRjY19hdVJPbWhaNlhidUJOaHRuZXg3SldTVi1UeTNVVC04YnBWRk5sWnA4SV8zQ3kwbVFUVFRlck4zcm03X24yU25pVFZNZGdNZExHVmFDNUFaOHMtZUoxczNKVW83NEF3dW5Xd2VwUTQ3cWlIR3NoUXV0U0JR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">乳癌</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMixAFBVV95cUxPaDhTSm5UcFlvN1NZVkJENllSWkVUcW5VWWt6ZnotRDVtbV9Vblh2Q0luRUpIdDFoQVRJdTl2U0Y1dnc1T2RNNVVfUlp1bzRjY19hdVJPbWhaNlhidUJOaHRuZXg3SldTVi1UeTNVVC04YnBWRk5sWnA4SV8zQ3kwbVFUVFRlck4zcm03X24yU25pVFZNZGdNZExHVmFDNUFaOHMtZUoxczNKVW83NEF3dW5Xd2VwUTQ3cWlIR3NoUXV0U0JR?oc=5)
+
+---
+
 ### [專家提醒：甲狀腺腫瘤患者需重視定期隨訪](https://news.google.com/rss/articles/CBMicEFVX3lxTE5selppOXREeDFGYWFhTWJSdWJTRzFhbU5rNmpJYnBXZ1Q1WW56VjlzZVZyTVVzNndFSG1KNXdrNVJCZktKakJqUU5NZDZfUFNMekFQcVI4SjZiTXROYUd2OS1Eekc0NV9QbjVDeDQ2Y1E?oc=5)
 
 2026-11-12 <span class="news-indication-tag">腫瘤</span>
@@ -87,14 +95,6 @@ last_modified_at: 2026-11-14
 2026-11-09 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">卵巢癌</span>
 
 來源: [U Food](https://news.google.com/rss/articles/CBMiiARBVV95cUxNNkdfcDlYLW0zY0JKY04zQXEwaGZ3a1diS2l1NWFWX291bVdhTEpHUGxBbExMb2FXdFM1bE00bkxwVkhQQ280QUpFd2t1WkQ1Zm5ybTVYcmRzWEZqZk1TYkJtU2t0NFFvWjVMdzliX0JGc3prcXpIVWE3LXdBZmJhM3RZNllUdHk2ejU1dUhQRE1ybTMzRzRfaGRqdkxlMFVNU3p3TWgwVENIckx1LXJ0bUljaWZZZjFrS1NGU2Y4NE9GTFFLSHdPZDJxNlU1VThQeEV6VElJNE1KenZBazRZTVFXY1A0cHlBT045ckRyenB5dFF0YWc5MGpmdEVMRnFMRlVoNF9id2gwZ3JoSTFKbkRoYnplRER2VEpRSmlvVV9HUjYwQ09KdnFWZTZWZkVEY1d4T25qZy1wVXN3VUhqUC1LYzFJRUF5NGxJUEtZQmVaU1BNQWZhYUZQc056SFFQQkNrZVRhYUVoLTBxOU5lSnUtY1BONllwX0NhazV5WHp5Vmp1c25OazhEdWhKZlpqQXItdnBGNlROSjBod1pJV1AwZUNJUVBJcE52Rk1XWG9NOGlUNlhGTmNXblJlZkQ4NFhxV3N0V0dtaExaZ3gwRHZKZGYybXB3aVFmanJTWmFMaHJ5ZDVFQnA3NTJQV2gwOEZDVVpHV2pFMmg2QS1Ddk5hTy1yb201?oc=5)
-
----
-
-### [50歲以下大腸癌更難治 189顆腫瘤揭原因](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
-
-2026-11-08 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
-
-來源: [大紀元](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkY3REZEp0MkhtalFiTHF3NjRRalU4YlB0VkpHdGo3eThDSHozeFlLc0ZBd3BwQ1hJMkoxZkQzdVA2VXBxX1BNcWxTZmE3b3Azcnl2SlE3Y2d5UjJWNVNrdtIBZkFVX3lxTE43Q0Ffc1FtRDhoNTY0cEZoczBIYUFPM1Z2VW9RRTJYR0hrWVpPUld3RF9NS2RLTmcyWGpXMFZ2Y3c1YTBGbDV0a0NPRmg0OHV1cFpmNWpIX1UxbEdZUTFPekNhaDhnZw?oc=5)
 
 ---
 
