@@ -1,6 +1,6 @@
 {
   "generated": "2026-02-19",
-  "total_count": 291,
+  "total_count": 292,
   "source": "TwTxGNN - https://twtxgnn.yao.care/",
   "drugs": [
     {
@@ -266,6 +266,18 @@
       "taiwan_approved": false,
       "decision": "Hold",
       "url": "/drugs/asfotase-alfa/"
+    },
+    {
+      "slug": "aspirin",
+      "name": "Aspirin",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）; 退燒、止痛(緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛)。; 退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）。; 僂麻質斯熱、關節僂麻質斯、關節痛、神經痛、頭痛、齒痛、月經痛等之鎮痛解熱消炎。; 男性短暫性缺血性發作、預防心肌梗塞、預防心栓性栓塞症。; 退燒，止痛（緩解頭痛，牙痛，咽喉痛，關節痛，神經痛，肌肉酸痛，月經痛）．; 預防心肌梗塞，預防血栓性栓塞症，短暫性缺血性發作; 男性短暫性缺血性發作、預防心肌梗塞、預防心栓性栓塞症; 男性短暫性缺血性發作，預防心肌梗塞及心栓性栓塞症。",
+      "predicted_indication": "蠕蟲狀萎縮性皮膚病 (atrophoderma vermiculata)",
+      "txgnn_score": "0.9959",
+      "taiwan_approved": true,
+      "decision": "Hold",
+      "url": "/drugs/aspirin/"
     },
     {
       "slug": "atezolizumab",

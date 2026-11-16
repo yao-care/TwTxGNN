@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "癌症 (generic_cancer) 相關新聞"
+title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "癌症 (generic_cancer) 的相關健康新聞報導。5 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。7 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
-# 癌症 (generic_cancer) 相關新聞
+# 腫瘤 (generic_cancer) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
-<strong>癌症 (generic_cancer)</strong> 目前有 <strong>5 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>7 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -76,7 +76,23 @@ last_modified_at: 2026-11-15
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [美研究開發抗攝護腺癌新藥 降低腫瘤活性與患者疼痛](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
+
+2026-11-16
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
+
+---
+
+### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次](https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYUEyam85Tk1CeDdTd2kxQUQwaHBKS0JhQ2xzVHBmWTZ1QXZ4cFlLcVlta0o1NnRwRzByLWZTRko3MWl3aEltNVNKUUNwNEFDZ1NWV1JCVXczWHZoY3lFekZzV2xzU2ZQN2VhVXRB?oc=5)
+
+2026-11-13
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYUEyam85Tk1CeDdTd2kxQUQwaHBKS0JhQ2xzVHBmWTZ1QXZ4cFlLcVlta0o1NnRwRzByLWZTRko3MWl3aEltNVNKUUNwNEFDZ1NWV1JCVXczWHZoY3lFekZzV2xzU2ZQN2VhVXRB?oc=5)
+
+---
 
 ### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
 

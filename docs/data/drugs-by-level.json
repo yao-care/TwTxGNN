@@ -257,7 +257,7 @@
       ]
     },
     "L5": {
-      "count": 235,
+      "count": 236,
       "drugs": [
         {
           "name": "Acebutolol",
@@ -378,6 +378,12 @@
           "slug": "asfotase_alfa",
           "decision": "Hold",
           "indication_count": 10
+        },
+        {
+          "name": "Aspirin",
+          "slug": "aspirin",
+          "decision": "Hold",
+          "indication_count": 7
         },
         {
           "name": "Atezolizumab",

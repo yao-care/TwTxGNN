@@ -3,7 +3,7 @@ layout: default
 title: "腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腸癌 (colonic neoplasm) 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "腸癌 (colonic neoplasm) 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 last_modified_at: 2026-11-16
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>腸癌 (colonic neoplasm)</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>腸癌 (colonic neoplasm)</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [抗腸癌也要抗發炎研究揭日吃1物 5年存活率提高17個百分點- 健康](https://news.google.com/rss/articles/CBMijwFBVV95cUxOdERHbVdTcFFoWGRhblV5cThZQ2hvdmVUdFNLTVZ4ck4wcW0zUm5MdW5PN2tNSzJQb2hzQjdaUS1aa2hyMk1iWjJiVW12SG9HTGZ4dGUxdmtrVXNWQ0Z0cWp2SU1lS05jbE5SXzhHX19QOUVwanIxc21BeUZZcXMteUFHalhlQzg5RzJFOWpPcw?oc=5)
+
+2026-11-16
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMijwFBVV95cUxOdERHbVdTcFFoWGRhblV5cThZQ2hvdmVUdFNLTVZ4ck4wcW0zUm5MdW5PN2tNSzJQb2hzQjdaUS1aa2hyMk1iWjJiVW12SG9HTGZ4dGUxdmtrVXNWQ0Z0cWp2SU1lS05jbE5SXzhHX19QOUVwanIxc21BeUZZcXMteUFHalhlQzg5RzJFOWpPcw?oc=5)
+
+---
 
 ### [抗腸癌也要抗發炎研究揭日吃1物 5年存活率提高17個百分點- 健康](https://news.google.com/rss/articles/CBMibkFVX3lxTFAxelBrSFN3TnBfUzFtNDNSWUpJTXFxOUpzYmQ1LTJ3Sjg2WjVWWE5ZclVCQ1BZUVVHaHBsY2ZvaFR4X2s2QWt1NlJjQkJVTlMwYlR2U2JhbUVXTTNUSnJjMUh2a1NnV1JFSmZPYXlB?oc=5)
 

@@ -30,7 +30,7 @@ last_modified_at: 2026-11-16
 <li><strong>預測適應症（10 個）</strong>:<ul>
 <li>Prinzmetal angina</li>
 <li>hemoglobinopathy</li>
-<li class="indication-matched">myocardial infarction<span class="indication-tag">📰 心肌梗塞</span></li>
+<li class="indication-matched">myocardial infarction<span class="indication-tag">📰 心梗</span></li>
 <li>thrombotic disease</li>
 <li>hyperthyroidism</li>
 <li>homozygous familial hypercholesterolemia</li>
@@ -71,7 +71,7 @@ last_modified_at: 2026-11-16
 
 ### [防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YS0xYmN0TllVTWdYRDJsSFc0aEgyU04tZlZIeVcwS0EwalF4TDNmNGRKRGdPd2l2VTlTc1JGell6X0x0QTZWZVZ6S3BxVnVHVUVXbktn?oc=5)
 
-2026-11-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">心肌梗塞</span>
+2026-11-09 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心血管</span>
 
 來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YS0xYmN0TllVTWdYRDJsSFc0aEgyU04tZlZIeVcwS0EwalF4TDNmNGRKRGdPd2l2VTlTc1JGell6X0x0QTZWZVZ6S3BxVnVHVUVXbktn?oc=5)
 
