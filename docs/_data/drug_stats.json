@@ -1,12 +1,12 @@
 {
-  "total_drugs": 291,
-  "total_indications": 1995,
+  "total_drugs": 292,
+  "total_indications": 2002,
   "level_counts": {
     "L1": 2,
     "L2": 13,
     "L3": 9,
     "L4": 15,
-    "L5": 235
+    "L5": 236
   },
   "top_by_indications": [
     {
@@ -1510,6 +1510,14 @@
     {
       "name": "Amcinonide",
       "slug": "amcinonide",
+      "level": "L5",
+      "indication_count": 7,
+      "prediction_score": 0,
+      "nct_count": 0
+    },
+    {
+      "name": "Aspirin",
+      "slug": "aspirin",
       "level": "L5",
       "indication_count": 7,
       "prediction_score": 0,

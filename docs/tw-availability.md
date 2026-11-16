@@ -47,7 +47,7 @@ permalink: /tw-availability/
 | [Anthralin](/drugs/anthralin/) | 上市中（有效許可證 1 張／共 9 張） |  | L5 |
 | [Ascorbyl Phosphate](/drugs/ascorbyl-phosphate/) | 僅有已註銷許可證（目前無有效上市） |  | L5 |
 | [Asfotase Alfa](/drugs/asfotase-alfa/) | 上市中（有效許可證 2 張／共 2 張） |  | L5 |
-| [Aspirin](/drugs/aspirin/) | 上市中（有效許可證 63 張／共 325 張） |  | N/A |
+| [Aspirin](/drugs/aspirin/) | ✓ 已上市 |  | L5 |
 | [Atezolizumab](/drugs/atezolizumab/) | 上市中（有效許可證 2 張／共 2 張） |  | L5 |
 | [Atracurium Besylate](/drugs/atracurium-besylate/) | 上市中（有效許可證 2 張／共 6 張） |  | L5 |
 | [Avelumab](/drugs/avelumab/) | 上市中（有效許可證 1 張／共 1 張） |  | L5 |

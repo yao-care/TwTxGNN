@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aspirin
-parent: 僅已知用途／主預測已撤回
+parent: 僅模型預測 (L5)
 nav_order: 33
-noindex: true
-sitemap: false
-last_modified_at: 2026-10-29
-predicted_indications: []
-indication_count: 0
-evidence_level: N/A
+evidence_level: L5
+indication_count: 7
+monitor_inn: "aspirin"
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
+last_modified_at: 2026-11-16
+description: "Aspirin：預測新適應症為蠕蟲狀萎縮性皮膚病 (atrophoderma vermiculata)（證據等級 L5）。原適應症：退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）"
 ---
 
 # Aspirin
 {: .fs-9 }
 
-證據等級: **N/A** | 預測適應症: **0** 個
+證據等級: **L5** | 預測適應症: **7** 個
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,16 +33,41 @@ evidence_level: N/A
 
 </div>
 
-## Aspirin
+## 阿斯匹靈（Aspirin）：環氧化酶（COX）抑制劑 → 蠕蟲狀萎縮性皮膚病 (atrophoderma vermiculata)
 {: .text-alpha }
+
+## 一句話總結
+
+阿斯匹靈是一種環氧化酶（COX-1/COX-2）抑制劑，在台灣已有多張有效許可證。
+TxGNN 模型預測它可能對**蠕蟲狀萎縮性皮膚病 (atrophoderma vermiculata)** 有效，但目前**沒有任何臨床試驗或文獻**直接支持這個方向，僅屬模型預測。
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 解熱鎮痛劑 |
-| 台灣上市 | 上市中（有效許可證 63 張／共 325 張） |
+| 原適應症 | 退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）; 退燒、止痛(緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛)。; 退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）。; 僂麻質斯熱、關節僂麻質斯、關節痛、神經痛、頭痛、齒痛、月經痛等之鎮痛解熱消炎。; 男性短暫性缺血性發作、預防心肌梗塞、預防心栓性栓塞症。; 退燒，止痛（緩解頭痛，牙痛，咽喉痛，關節痛，神經痛，肌肉酸痛，月經痛）．; 預防心肌梗塞，預防血栓性栓塞症，短暫性缺血性發作; 男性短暫性缺血性發作、預防心肌梗塞、預防心栓性栓塞症; 男性短暫性缺血性發作，預防心肌梗塞及心栓性栓塞症。 |
+| 預測新適應症 | 蠕蟲狀萎縮性皮膚病 (atrophoderma vermiculata) |
+| TxGNN 預測分數 | 0.9959 |
+| 證據等級 | L5 |
+| 台灣上市 | ✓ 已上市 |
 | 許可證數 | 325 張（有效單方 48／有效複方 15／已過期 1／已註銷 261） |
+| 建議決策 | Hold |
+
+## 為什麼這個預測合理？
+
+目前缺乏詳細的作用機轉資料。已知阿斯匹靈作用於 COX-1 與 COX-2，透過抑制前列腺素與血栓素的生成，產生抗發炎、解熱、鎮痛與抗血小板作用。
+
+蠕蟲狀萎縮性皮膚病是一種以毛囊周圍萎縮為特徵的皮膚疾患。阿斯匹靈的 COX 抑制作用與這種毛囊萎縮病變之間，目前看不出明確的機轉連結。
+
+TxGNN 的高分預測只代表模型從資料關聯中推得的訊號，沒有任何臨床或文獻證據佐證，不能視為療效依據。
+
+## 臨床試驗證據
+
+目前無相關臨床試驗登記。
+
+## 文獻證據
+
+目前無相關文獻。
 
 ## 台灣上市資訊
 
@@ -83,12 +108,9 @@ evidence_level: N/A
 
 <!-- tfda-licenses:end -->
 
-## 安全性考量
+<!-- TFDA_LICENSE_TABLE -->
 
-- **藥物交互作用**：
-  - 與 ASIC3 的交互作用
-  - 與 COX-1 的交互作用
-  - 與 COX-2 的交互作用
+## 安全性考量
 
 安全性資訊請參考原廠仿單。
 
@@ -97,12 +119,13 @@ evidence_level: N/A
 **決策：Hold**
 
 **理由：**
-目前缺乏新的適應症預測和詳細的作用機轉資料，需進一步研究以確認新的適應症可能性。
+- 證據等級僅為 L5，沒有任何針對此疾病的臨床試驗或文獻。
+- 阿斯匹靈的已知機轉與此疾病之間缺乏明確連結，不宜推進。
 
 **若要推進需要：**
-- 詳細的藥物作用機轉資料（MOA）
-- 針對特定適應症的臨床試驗設計
-- 更廣泛的藥物交互作用研究
+- 補齊詳細的作用機轉資料，並釐清 COX 抑制與毛囊萎縮病變之間是否有合理的生物學連結。
+- 蒐集此疾病的病例報告、前臨床或觀察性研究，確認是否有任何療效訊號。
+- 若有初步訊號，再評估給藥途徑（口服或外用）是否適合皮膚病灶，並設計小型探索性研究。
 
 <!-- review:begin log -->
 

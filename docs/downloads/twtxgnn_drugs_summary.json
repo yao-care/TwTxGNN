@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T07:03:47.884592",
-  "total_drugs": 291,
+  "generated_at": "2026-11-16T14:21:10.876895",
+  "total_drugs": 292,
   "evidence_distribution": {
-    "L5": 235,
+    "L5": 236,
     "L4": 15,
     "N/A": 17,
     "L2": 13,
@@ -163,6 +163,13 @@
       "indication_count": 10,
       "parent_category": "僅模型預測 (L5)",
       "url": "/drugs/asfotase_alfa/"
+    },
+    {
+      "drug_name": "Aspirin",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "parent_category": "僅模型預測 (L5)",
+      "url": "/drugs/aspirin/"
     },
     {
       "drug_name": "Atezolizumab",
