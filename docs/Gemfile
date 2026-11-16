@@ -10,6 +10,7 @@ gem "jekyll-feed"
 # GitHub Pages
 group :jekyll_plugins do
   gem "jekyll-github-metadata"
+  gem "jekyll-redirect-from"
 end
 
 # Windows and JRuby does not include zoneinfo files
