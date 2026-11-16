@@ -83,29 +83,53 @@ def download_tfda_data() -> tuple:
     return [], None
 
 
+CACHE_SCHEMA = 2  # 2026-11-16：同一張許可證在資料集有多列（每個製造廠一列），依字號合併；狀態用 註銷狀態／註銷日期／有效日期
+COMPARE_FIELDS = ("status", "cn_name", "eng_name", "form", "indication", "manufacturers")
+FIELD_LABELS = {"status": "狀態", "cn_name": "中文品名", "eng_name": "英文品名", "form": "劑型",
+                "indication": "適應症", "manufacturers": "製造廠"}
+
+
+def _status(item: dict) -> str:
+    if str(item.get("註銷狀態") or "").strip():
+        return f"已註銷（{str(item.get('註銷日期') or '').strip() or '日期不明'}）"
+    exp = str(item.get("有效日期") or "").strip()
+    return f"有效（有效日期 {exp}）" if exp else "有效"
+
+
 def find_drug_licenses(tfda_data: list, drug_name: str) -> list:
-    """Find all licenses for a specific drug."""
-    licenses = []
+    """Find all licenses for a specific drug.
+
+    TFDA 資料集同一張許可證每個製造廠一列，列的順序每次下載不同；以前依字號只留最後一列，
+    製造廠欄跟著順序跳動，每次都被當成「許可證變更」（2026-10～11 的 Tw TFDA issue 全是這種）。
+    現在依字號合併，製造廠收成排序後的清單。
+    """
     drug_name_lower = drug_name.lower()
+    by_no = {}
 
     for item in tfda_data:
-        # Check multiple fields for drug name match
         eng_name = str(item.get("英文品名", "")).lower()
-        cn_name = str(item.get("中文品名", "")).lower()
-        ingredients = str(item.get("成分", "")).lower()
+        ingredients = str(item.get("主成分略述") or item.get("成分") or "").lower()  # 資料集欄位是「主成分略述」
+        if not (drug_name_lower in eng_name or drug_name_lower in ingredients):
+            continue
+        no = item.get("許可證字號", "")
+        lic = by_no.setdefault(no, {
+            "license_no": no,
+            "cn_name": item.get("中文品名", ""),
+            "eng_name": item.get("英文品名", ""),
+            "form": item.get("劑型", ""),
+            "indication": item.get("適應症", ""),
+            "manufacturers": set(),
+            "status": _status(item),
+        })
+        m = str(item.get("製造商名稱", "") or "").strip()
+        if m:
+            lic["manufacturers"].add(m)
 
-        if drug_name_lower in eng_name or drug_name_lower in ingredients:
-            licenses.append({
-                "license_no": item.get("許可證字號", ""),
-                "cn_name": item.get("中文品名", ""),
-                "eng_name": item.get("英文品名", ""),
-                "form": item.get("劑型", ""),
-                "indication": item.get("適應症", ""),
-                "manufacturer": item.get("製造商名稱", ""),
-                "status": item.get("許可證狀態", "")
-            })
-
-    return licenses
+    out = []
+    for lic in by_no.values():
+        lic["manufacturers"] = sorted(lic["manufacturers"])
+        out.append(lic)
+    return sorted(out, key=lambda x: x["license_no"])
 
 
 def compare_licenses(old_licenses: list, new_licenses: list) -> dict:
@@ -119,10 +143,12 @@ def compare_licenses(old_licenses: list, new_licenses: list) -> dict:
     changed = []
     for no in old_by_no:
         if no in new_by_no:
-            if old_by_no[no] != new_by_no[no]:
+            fields = [f for f in COMPARE_FIELDS if old_by_no[no].get(f) != new_by_no[no].get(f)]
+            if fields:
                 changed.append({
                     "old": old_by_no[no],
-                    "new": new_by_no[no]
+                    "new": new_by_no[no],
+                    "fields": fields,
                 })
 
     return {
@@ -172,10 +198,13 @@ def create_github_issue(drug_name: str, changes: dict):
     if changes["changed"]:
         sections.append("\n### 許可證變更\n")
         for change in changes["changed"]:
-            sections.append(
-                f"- **{change['new']['license_no']}** {change['new']['cn_name']}\n"
-                f"  - 狀態: {change['old']['status']} → {change['new']['status']}\n"
-            )
+            lines = [f"- **{change['new']['license_no']}** {change['new']['cn_name']}\n"]
+            for f in change["fields"]:
+                o, n = change["old"].get(f), change["new"].get(f)
+                if isinstance(o, list) or isinstance(n, list):
+                    o, n = "、".join(o or []), "、".join(n or [])
+                lines.append(f"  - {FIELD_LABELS.get(f, f)}: {str(o)[:150]} → {str(n)[:150]}\n")
+            sections.append("".join(lines))
 
     evidence_type = []
     if changes["added"]:
@@ -237,8 +266,14 @@ def main():
     print(f"Downloaded {len(tfda_data)} license records")
     print(f"Current data hash: {data_hash}")
 
+    # 快取格式改版：舊格式（每張許可證只留一列）全部重建，不開 issue
+    rebuild = cache.get("schema") != CACHE_SCHEMA
+    if rebuild:
+        print(f"Cache schema {cache.get('schema')} → {CACHE_SCHEMA}: rebuilding cache without creating issues")
+        cache["drug_licenses"] = {}
+
     # Check if data has changed at all
-    if data_hash == cache.get("data_hash"):
+    if not rebuild and data_hash == cache.get("data_hash"):
         print("TFDA data unchanged since last check. No updates needed.")
         cache["last_check"] = datetime.now().isoformat()
         save_cache(cache)
@@ -295,6 +330,7 @@ def main():
 
     # Update cache
     cache["data_hash"] = data_hash
+    cache["schema"] = CACHE_SCHEMA
     cache["drug_licenses"] = cached_licenses
     save_cache(cache)
 
