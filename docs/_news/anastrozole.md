@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Anastrozole 的相關健康新聞報導。原適應症：治療停經後婦女晚期乳癌。其療效對於雌激素接受器陰性之病患尚未被證實，除非這些病患曾經對TAMOXIF...。預測適應症 5 個。"
 permalink: /news/anastrozole/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Anastrozole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Anastrozole</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要](https://news.google.com/rss/articles/CBMinANBVV95cUxNbG1DY1d2N1lkZk1jMTNCeER5Wk1fM3pfcWNtSTFWSmRKdmZpNGxZLVlqSWJCTllwcnVsck5BWGhIV1Etd1RULTFYQnV3S2Fpbm5pR2FSNXZ2ckNhLWhyS1I3Unc1TzZPR3pQZU40VnlERC1UN3ZjYUx2cUxhXzJlLWRLZ3VETk16WkRpcFlEd1JsdTZLTWZlNDhmUWlmb2E5Z2tmYTFNNVk3dVg5OWtHV1F4enpuWjhIRUxsb3FLVkk3TnU5eUNpeDdERGljeFkyNTZEbnlCUU9MQXJsVmF0eWpHbjZoU3RYdm53UTBUeE16Y2hGa0RfRmJXWjl2Q2xLdG9udVluNlNicEt6V2kxRVR4ZTd6UWRPQ3l4LXktQmhlRFYwNm1HY09RWVN0SVVMcmR5MUg1dUd5RFhNbkRCZ2dLME9iWlhRNTdzZGVZMjRNQWstS0wwOV9XcEZfa3BVMFFPaDQtak90U29TdUJhbVlLWEM4TndOeFNUSUE1bHYzbFg0NFJKYkZyM2t4ZjFzRDVEOU8yRkdIN0VO?oc=5)
+
+2026-11-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMinANBVV95cUxNbG1DY1d2N1lkZk1jMTNCeER5Wk1fM3pfcWNtSTFWSmRKdmZpNGxZLVlqSWJCTllwcnVsck5BWGhIV1Etd1RULTFYQnV3S2Fpbm5pR2FSNXZ2ckNhLWhyS1I3Unc1TzZPR3pQZU40VnlERC1UN3ZjYUx2cUxhXzJlLWRLZ3VETk16WkRpcFlEd1JsdTZLTWZlNDhmUWlmb2E5Z2tmYTFNNVk3dVg5OWtHV1F4enpuWjhIRUxsb3FLVkk3TnU5eUNpeDdERGljeFkyNTZEbnlCUU9MQXJsVmF0eWpHbjZoU3RYdm53UTBUeE16Y2hGa0RfRmJXWjl2Q2xLdG9udVluNlNicEt6V2kxRVR4ZTd6UWRPQ3l4LXktQmhlRFYwNm1HY09RWVN0SVVMcmR5MUg1dUd5RFhNbkRCZ2dLME9iWlhRNTdzZGVZMjRNQWstS0wwOV9XcEZfa3BVMFFPaDQtak90U29TdUJhbVlLWEM4TndOeFNUSUE1bHYzbFg0NFJKYkZyM2t4ZjFzRDVEOU8yRkdIN0VO?oc=5)
+
+---
 
 ### [東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高](https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5)
 

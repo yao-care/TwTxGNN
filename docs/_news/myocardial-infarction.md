@@ -3,9 +3,9 @@ layout: default
 title: "心梗 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心梗 (myocardial infarction) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "心梗 (myocardial infarction) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # 心梗 (myocardial infarction) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
-<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-15
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [女性每周重訓超過1時數 研究揭：重大心血管疾病風險降20%](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5)
 
 2026-11-12
 
 來源: [AM730](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5)
+
+---
+
+### [防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YS0xYmN0TllVTWdYRDJsSFc0aEgyU04tZlZIeVcwS0EwalF4TDNmNGRKRGdPd2l2VTlTc1JGell6X0x0QTZWZVZ6S3BxVnVHVUVXbktn?oc=5)
+
+2026-11-09
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YS0xYmN0TllVTWdYRDJsSFc0aEgyU04tZlZIeVcwS0EwalF4TDNmNGRKRGdPd2l2VTlTc1JGell6X0x0QTZWZVZ6S3BxVnVHVUVXbktn?oc=5)
 
 ---
 

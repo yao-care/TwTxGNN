@@ -1,18 +1,127 @@
 {
-  "generated": "2026-11-15T23:16:10.750944+00:00",
-  "count": 21,
+  "generated": "2026-11-16T03:56:06.541658+00:00",
+  "count": 26,
   "news": [
     {
-      "id": "f3ca9c1969a2",
-      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高",
-      "published": "2026-11-15T22:00:00+00:00",
+      "id": "64cc031bac07",
+      "title": "聯合國糖尿病日：警惕糖尿病與帶狀皰疹疊加風險",
+      "published": "2026-11-16T02:15:20+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5"
+          "name": "紫荊網",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFIwb3pTa0pZSE5fUGFRX1d4aFJpelNZS0RZaUczdVV5QmJCMjRRYmdjYjlpZVR4VXhEbktiMWZiZUtzYzJ4S3o2azdpcjE5eUNqOUZybFlYbURRVzdhVjctSDE5QjNtR05HYmRBZ1d4djgzWHBVNF9UdUpYT1A0UFBxeXFObHVVdHRtcjY3dnk?oc=5"
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帶狀皰疹",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "皮蛇",
+          "keyword": "皮蛇",
+          "related_drugs": [
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f8f0933c787",
+      "title": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要",
+      "published": "2026-11-16T02:11:46+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNbG1DY1d2N1lkZk1jMTNCeER5Wk1fM3pfcWNtSTFWSmRKdmZpNGxZLVlqSWJCTllwcnVsck5BWGhIV1Etd1RULTFYQnV3S2Fpbm5pR2FSNXZ2ckNhLWhyS1I3Unc1TzZPR3pQZU40VnlERC1UN3ZjYUx2cUxhXzJlLWRLZ3VETk16WkRpcFlEd1JsdTZLTWZlNDhmUWlmb2E5Z2tmYTFNNVk3dVg5OWtHV1F4enpuWjhIRUxsb3FLVkk3TnU5eUNpeDdERGljeFkyNTZEbnlCUU9MQXJsVmF0eWpHbjZoU3RYdm53UTBUeE16Y2hGa0RfRmJXWjl2Q2xLdG9udVluNlNicEt6V2kxRVR4ZTd6UWRPQ3l4LXktQmhlRFYwNm1HY09RWVN0SVVMcmR5MUg1dUd5RFhNbkRCZ2dLME9iWlhRNTdzZGVZMjRNQWstS0wwOV9XcEZfa3BVMFFPaDQtak90U29TdUJhbVlLWEM4TndOeFNUSUE1bHYzbFg0NFJKYkZyM2t4ZjFzRDVEOU8yRkdIN0VO?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone",
+              "url": "/drugs/milrinone/"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol",
+              "url": "/drugs/inositol/"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "pipemidic-acid",
+              "name": "Pipemidic acid",
+              "url": "/drugs/pipemidic-acid/"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide",
+              "url": "/drugs/dorzolamide/"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil",
+              "url": "/drugs/treprostinil/"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "female breast carcinoma",
@@ -58,6 +167,31 @@
       ]
     },
     {
+      "id": "3924e9f4b1fc",
+      "title": "抗腸癌也要抗發炎研究揭日吃1物 5年存活率提高17個百分點- 健康",
+      "published": "2026-11-16T00:45:58+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxelBrSFN3TnBfUzFtNDNSWUpJTXFxOUpzYmQ1LTJ3Sjg2WjVWWE5ZclVCQ1BZUVVHaHBsY2ZvaFR4X2s2QWt1NlJjQkJVTlMwYlR2U2JhbUVXTTNUSnJjMUh2a1NnV1JFSmZPYXlB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "711a98cc0a37",
       "title": "醫生教你三招 避免冬天罹患感冒或流感",
       "published": "2026-11-15T12:54:00+00:00",
@@ -83,25 +217,37 @@
       ]
     },
     {
-      "id": "41096928c185",
-      "title": "阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化 - TechNews 科技新報",
-      "published": "2026-11-15T09:07:27+00:00",
+      "id": "3365eab9b6e6",
+      "title": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫",
+      "published": "2026-11-15T07:00:04+00:00",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuZWxmdWhCQVp5ZjYxVHhESHc1M3lBMU9XNGdjZmU1cEpieEFrUzdCRVhFZkNHM0FqWUNhVU1lcmRzOEJYWTZoYkUzWXhDT0xuWjFHaEpsZmV5ZnhQNXBRTHdrY2RSSDd6SFFybTlaMXd3dGNnYXpyRWtpSEU?oc=5"
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "dementia",
-          "keyword": "阿茲海默症",
+          "name": "common cold",
+          "keyword": "感冒",
           "related_drugs": [
             {
-              "slug": "gefitinib",
-              "name": "Gefitinib",
-              "url": "/drugs/gefitinib/"
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol",
+              "url": "/drugs/carisoprodol/"
             }
           ]
         }
@@ -1639,6 +1785,55 @@
       ]
     },
     {
+      "id": "ec25cd109c95",
+      "title": "防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55% | 科技新報 - LINE TODAY",
+      "published": "2026-11-09T13:15:05+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YS0xYmN0TllVTWdYRDJsSFc0aEgyU04tZlZIeVcwS0EwalF4TDNmNGRKRGdPd2l2VTlTc1JGell6X0x0QTZWZVZ6S3BxVnVHVUVXbktn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4e66939d3bd1",
       "title": "每天曬太陽不到「這時間」失智症風險較高？研究揭護腦關鍵，預防癡呆症不只靠運動",
       "published": "2026-11-09T09:54:22+00:00",
@@ -1948,31 +2143,6 @@
       ]
     },
     {
-      "id": "c1bf958de321",
-      "title": "左流右新護健康 有效降低心血管風險",
-      "published": "2026-11-09T05:17:22+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQkJVbEJoUnU5eE5PdlZub05QMUY0aG1JUGxFQS0wZjZUVmdXV0RGOTAxUzVCN2JwbDhaWlZKY2dTdGw2LUZKRXVwb2VCZEtGRWpJOE1QdXcyTnJqSGtDZzQwRjVPWFdwSkFUYWszTWx1M2xIbUdpdTVRa3dHSGp5a3VobFNERTFUNExNMVhCVVRHUE41YlVFTTBTMUJ0clJXWWNuZ2d5aVR2SXU5OGJneXV6Uk9fVEpob3pvbDhrc1h4bjZseDlyVEVNS2JhQ1Q3N1VKMGI0bmVyeEtzUU90aEhDUjRpS3R4OTdFN0czem1HdUpCY3pLcjhiNVNBcWx6NlBKdG9wR295bkwtTTNlUTR4STQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "36eee05d0bf5",
       "title": "抗癌｜末期大腸癌仍現轉機？患者術後規律做一事 5年未見復發",
       "published": "2026-11-09T04:47:17+00:00",
@@ -2019,6 +2189,111 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3ca9c1969a2",
+      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高",
+      "published": "2026-11-15T22:00:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41096928c185",
+      "title": "阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化 - TechNews 科技新報",
+      "published": "2026-11-15T09:07:27+00:00",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuZWxmdWhCQVp5ZjYxVHhESHc1M3lBMU9XNGdjZmU1cEpieEFrUzdCRVhFZkNHM0FqWUNhVU1lcmRzOEJYWTZoYkUzWXhDT0xuWjFHaEpsZmV5ZnhQNXBRTHdrY2RSSDd6SFFybTlaMXd3dGNnYXpyRWtpSEU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1bf958de321",
+      "title": "左流右新護健康 有效降低心血管風險",
+      "published": "2026-11-09T05:17:22+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQkJVbEJoUnU5eE5PdlZub05QMUY0aG1JUGxFQS0wZjZUVmdXV0RGOTAxUzVCN2JwbDhaWlZKY2dTdGw2LUZKRXVwb2VCZEtGRWpJOE1QdXcyTnJqSGtDZzQwRjVPWFdwSkFUYWszTWx1M2xIbUdpdTVRa3dHSGp5a3VobFNERTFUNExNMVhCVVRHUE41YlVFTTBTMUJ0clJXWWNuZ2d5aVR2SXU5OGJneXV6Uk9fVEpob3pvbDhrc1h4bjZseDlyVEVNS2JhQ1Q3N1VKMGI0bmVyeEtzUU90aEhDUjRpS3R4OTdFN0czem1HdUpCY3pLcjhiNVNBcWx6NlBKdG9wR295bkwtTTNlUTR4STQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
             }
           ]
         }
