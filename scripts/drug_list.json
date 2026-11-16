@@ -1,6 +1,6 @@
 {
-  "total": 285,
-  "generated_at": "2026-11-16T04:18:36.191052",
+  "total": 286,
+  "generated_at": "2026-11-16T21:30:03.107742",
   "drugs": [
     {
       "name": "Acebutolol",
@@ -376,6 +376,23 @@
         "esophageal varices without bleeding",
         "esophageal varices with bleeding",
         "cystinosis"
+      ]
+    },
+    {
+      "name": "Aspirin",
+      "file": "aspirin.md",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "predicted_indication": "蠕蟲狀萎縮性皮膚病 (atrophoderma vermiculata)",
+      "inn": "aspirin",
+      "predicted_indications": [
+        "atrophoderma vermiculata",
+        "ulerythema ophryogenesis",
+        "heparin cofactor 2 deficiency",
+        "factor 5 excess with spontaneous thrombosis",
+        "antithrombin deficiency type 2",
+        "trigeminal autonomic cephalalgia",
+        "thrombophilia"
       ]
     },
     {
