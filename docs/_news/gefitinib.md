@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [美研究開發抗攝護腺癌新藥 降低腫瘤活性與患者疼痛](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
+
+2026-11-16 <span class="news-indication-tag">腫瘤</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
+
+---
 
 ### [阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化 - TechNews 科技新報](https://news.google.com/rss/articles/CBMifEFVX3lxTFBuZWxmdWhCQVp5ZjYxVHhESHc1M3lBMU9XNGdjZmU1cEpieEFrUzdCRVhFZkNHM0FqWUNhVU1lcmRzOEJYWTZoYkUzWXhDT0xuWjFHaEpsZmV5ZnhQNXBRTHdrY2RSSDd6SFFybTlaMXd3dGNnYXpyRWtpSEU?oc=5)
 
 2026-11-15 <span class="news-indication-tag">阿茲海默症</span>
 
 來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMifEFVX3lxTFBuZWxmdWhCQVp5ZjYxVHhESHc1M3lBMU9XNGdjZmU1cEpieEFrUzdCRVhFZkNHM0FqWUNhVU1lcmRzOEJYWTZoYkUzWXhDT0xuWjFHaEpsZmV5ZnhQNXBRTHdrY2RSSDd6SFFybTlaMXd3dGNnYXpyRWtpSEU?oc=5)
+
+---
+
+### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次](https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYUEyam85Tk1CeDdTd2kxQUQwaHBKS0JhQ2xzVHBmWTZ1QXZ4cFlLcVlta0o1NnRwRzByLWZTRko3MWl3aEltNVNKUUNwNEFDZ1NWV1JCVXczWHZoY3lFekZzV2xzU2ZQN2VhVXRB?oc=5)
+
+2026-11-13 <span class="news-indication-tag">癌症</span>
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYUEyam85Tk1CeDdTd2kxQUQwaHBKS0JhQ2xzVHBmWTZ1QXZ4cFlLcVlta0o1NnRwRzByLWZTRko3MWl3aEltNVNKUUNwNEFDZ1NWV1JCVXczWHZoY3lFekZzV2xzU2ZQN2VhVXRB?oc=5)
 
 ---
 
@@ -94,7 +110,7 @@ last_modified_at: 2026-11-16
 
 ### [防流感兼護腦？研究：長者打「高劑量」流感疫苗，阿茲海默症風險降近 55% | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YS0xYmN0TllVTWdYRDJsSFc0aEgyU04tZlZIeVcwS0EwalF4TDNmNGRKRGdPd2l2VTlTc1JGell6X0x0QTZWZVZ6S3BxVnVHVUVXbktn?oc=5)
 
-2026-11-09 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">心肌梗塞</span>
+2026-11-09 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">心肌梗塞</span> <span class="news-indication-tag">心血管</span>
 
 來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE01YS0xYmN0TllVTWdYRDJsSFc0aEgyU04tZlZIeVcwS0EwalF4TDNmNGRKRGdPd2l2VTlTc1JGell6X0x0QTZWZVZ6S3BxVnVHVUVXbktn?oc=5)
 

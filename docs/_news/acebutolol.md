@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acebutolol 的相關健康新聞報導。原適應症：高血壓、狹心症、心律不整（心室性心律不整、上心室性心律不整）。預測適應症 1 個。"
 permalink: /news/acebutolol/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # Acebutolol 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="Acebutolol 有什麼相關新聞？">
-<strong>Acebutolol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Acebutolol</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,31 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/acebutolol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（8 則）
+
+### [美研究開發抗攝護腺癌新藥 降低腫瘤活性與患者疼痛](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
+
+2026-11-16 <span class="news-indication-tag">腫瘤</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
+
+---
+
+### [高血壓吃藥仍控制不好？研究揭簡化用藥、居家量血壓的好處](https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MWpfVmNWRHdMU1lRTEFiZWlJVGFpcmc2RXV4RW5QanRkVHJ6dFEtNUU2a0stS2J0cVhTNTVCbGJIdGNXbld2VmJ4ZVV6eURHbzY5cEt0TEdOSkFS0gFiQVVfeXFMUGpUanhHQTFkU3gyU0NfR1ZjdUZybmFNa3l3M1VsTkt0cnR3NHpRRktMcWI3NktRdlc5X092SjRLQ2poSXAxa2toY05kbXoyb1V5VmpqX1RZNTNXUnRXN05CS1E?oc=5)
+
+2026-11-15 <span class="news-indication-tag">高血壓</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MWpfVmNWRHdMU1lRTEFiZWlJVGFpcmc2RXV4RW5QanRkVHJ6dFEtNUU2a0stS2J0cVhTNTVCbGJIdGNXbld2VmJ4ZVV6eURHbzY5cEt0TEdOSkFS0gFiQVVfeXFMUGpUanhHQTFkU3gyU0NfR1ZjdUZybmFNa3l3M1VsTkt0cnR3NHpRRktMcWI3NktRdlc5X092SjRLQ2poSXAxa2toY05kbXoyb1V5VmpqX1RZNTNXUnRXN05CS1E?oc=5)
+
+---
+
+### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次](https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYUEyam85Tk1CeDdTd2kxQUQwaHBKS0JhQ2xzVHBmWTZ1QXZ4cFlLcVlta0o1NnRwRzByLWZTRko3MWl3aEltNVNKUUNwNEFDZ1NWV1JCVXczWHZoY3lFekZzV2xzU2ZQN2VhVXRB?oc=5)
+
+2026-11-13 <span class="news-indication-tag">癌症</span>
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9OYUEyam85Tk1CeDdTd2kxQUQwaHBKS0JhQ2xzVHBmWTZ1QXZ4cFlLcVlta0o1NnRwRzByLWZTRko3MWl3aEltNVNKUUNwNEFDZ1NWV1JCVXczWHZoY3lFekZzV2xzU2ZQN2VhVXRB?oc=5)
+
+---
 
 ### [攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
 
