@@ -652,6 +652,10 @@ if _fx_bad:
     errors.append(f"FHIR 檔的在地欄位錯 {len(_fx_bad)} 項：{'；'.join(_fx_bad[:6])}"
                   f"（只改國碼／網域那一處；metadata.json 照 metadata 寫；scripts/generate_fhir_resources.py 寫錯的地方一起改）")
 
+# 證據包漏收 DL 預測（2026-11-16；沒有 data/ 就略過，說明見 scripts/check_dl_coverage.py）
+from check_dl_coverage import check_errors as _dl_cov_errors  # noqa: E402
+errors += _dl_cov_errors()
+
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
     for e in errors:
