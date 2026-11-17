@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。8 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。9 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 last_modified_at: 2026-11-17
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>8 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>9 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [醫生教你三招 避免冬天罹患感冒或流感](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMV9xRU02OUJ6ZGZyRnJBSlZjSTliOUl5dUhWaDVlUjIwSDJzend5dmJmZmcwV3dDSEdiSkJ2N09oRFZPQnUydk9zZlcwMGJ6ZmNRREdWZjFWT0RQd2M0OVRR0gFnQVVfeXFMTzgyWXFocl9XWWFfODdtczQyTTBqMEV5MURnYTQwaUR2Tkl2QVVCLWRRWWRfdy0wZy1GMi0tUmhhZ1kwVjIweGxzdVgxUF9LSm1SektKV3A0blM4aFlQcElaamNnOU9WQQ?oc=5)
 
@@ -53,6 +53,14 @@ last_modified_at: 2026-11-17
 2026-11-13
 
 來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEbURPNkEwWGQ0R2FTSmZkLTlhcU94dlJJNGJ2MnZLMWhSZ1RwMzVJQXVWNmJwUmZaV3VIM244eldDN1hQYS1Wb09Zbm8?oc=5)
+
+---
+
+### [感冒一有症狀就看醫生會好更快？醫揭真相 出現2症狀才急就醫 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Umg1T1IzQ1JYSVlKWVM4bUY4ZVBvNHJTMkVLVHVfZHF6SEtyOUh2d0dkRE82Qm5kTFZ0cnBxVkFjTzlLV3RtNHNwOS14Wk1jblJCX2xB?oc=5)
+
+2026-11-13
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Umg1T1IzQ1JYSVlKWVM4bUY4ZVBvNHJTMkVLVHVfZHF6SEtyOUh2d0dkRE82Qm5kTFZ0cnBxVkFjTzlLV3RtNHNwOS14Wk1jblJCX2xB?oc=5)
 
 ---
 

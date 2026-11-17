@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
 
 ### [醫生教你三招 避免冬天罹患感冒或流感](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMV9xRU02OUJ6ZGZyRnJBSlZjSTliOUl5dUhWaDVlUjIwSDJzend5dmJmZmcwV3dDSEdiSkJ2N09oRFZPQnUydk9zZlcwMGJ6ZmNRREdWZjFWT0RQd2M0OVRR0gFnQVVfeXFMTzgyWXFocl9XWWFfODdtczQyTTBqMEV5MURnYTQwaUR2Tkl2QVVCLWRRWWRfdy0wZy1GMi0tUmhhZ1kwVjIweGxzdVgxUF9LSm1SektKV3A0blM4aFlQcElaamNnOU9WQQ?oc=5)
 
@@ -65,6 +65,14 @@ last_modified_at: 2026-11-17
 2026-11-13 <span class="news-indication-tag">感冒</span>
 
 來源: [三立新聞網SETN.com](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEbURPNkEwWGQ0R2FTSmZkLTlhcU94dlJJNGJ2MnZLMWhSZ1RwMzVJQXVWNmJwUmZaV3VIM244eldDN1hQYS1Wb09Zbm8?oc=5)
+
+---
+
+### [感冒一有症狀就看醫生會好更快？醫揭真相 出現2症狀才急就醫 | TVBS - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Umg1T1IzQ1JYSVlKWVM4bUY4ZVBvNHJTMkVLVHVfZHF6SEtyOUh2d0dkRE82Qm5kTFZ0cnBxVkFjTzlLV3RtNHNwOS14Wk1jblJCX2xB?oc=5)
+
+2026-11-13 <span class="news-indication-tag">感冒</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Umg1T1IzQ1JYSVlKWVM4bUY4ZVBvNHJTMkVLVHVfZHF6SEtyOUh2d0dkRE82Qm5kTFZ0cnBxVkFjTzlLV3RtNHNwOS14Wk1jblJCX2xB?oc=5)
 
 ---
 

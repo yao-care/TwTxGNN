@@ -3,7 +3,7 @@ layout: default
 title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "癌症 (generic_cancer) 的相關健康新聞報導。9 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。11 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-17
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
-<strong>癌症 (generic_cancer)</strong> 目前有 <strong>9 則</strong>相關新聞報導，47 個相關藥物。
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>11 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -76,7 +76,15 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
+
+### [香腸、醬料都有！逾10萬人研究揭12種防腐劑與糖尿病有關 這6種與癌症相關 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHLXRidjBTcE9Hb080N3RKbnJCMDVzdG92N3NDX0RORVRCejVuckR1eHpYX1JTaVNUM2doOWMtTEs0Z1lXN19US1JFRkpPdjU5eFFJZ1dR?oc=5)
+
+2026-11-17
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHLXRidjBTcE9Hb080N3RKbnJCMDVzdG92N3NDX0RORVRCejVuckR1eHpYX1JTaVNUM2doOWMtTEs0Z1lXN19US1JFRkpPdjU5eFFJZ1dR?oc=5)
+
+---
 
 ### [攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
 
@@ -115,6 +123,14 @@ last_modified_at: 2026-11-17
 2026-11-13
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
+
+---
+
+### [癌症免疫治療有副作用 研究：穩定特殊細胞或減輕發炎反應](https://news.google.com/rss/articles/CBMiZEFVX3lxTE55QXFtek0wZGdGRGMteDROME1KTmJqbHVPbUdxSG81LTF1Nko0UlhzYlEzdjJiZmVYYWgtYl9sLVIySnRyZk5yTWxpb1N3Rm1oeU0xTkxWT1V2V3YwUWx5MGRKdGs?oc=5)
+
+2026-11-13
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE55QXFtek0wZGdGRGMteDROME1KTmJqbHVPbUdxSG81LTF1Nko0UlhzYlEzdjJiZmVYYWgtYl9sLVIySnRyZk5yTWxpb1N3Rm1oeU0xTkxWT1V2V3YwUWx5MGRKdGs?oc=5)
 
 ---
 
