@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Gemcitabine</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（15 則）
+
+### [直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛](https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5)
+
+2026-11-17 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [香港01](https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5)
+
+---
+
+### [攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
+
+---
 
 ### [前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
 

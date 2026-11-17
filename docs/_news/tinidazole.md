@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
+
+---
 
 ### [前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
 

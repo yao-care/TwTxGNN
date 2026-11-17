@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
+
+### [攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
+
+---
 
 ### [前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
 
@@ -105,6 +113,14 @@ last_modified_at: 2026-11-17
 2026-11-11 <span class="news-indication-tag">腫瘤</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHdrZ08tTUxHblB1SDFBVmpuN2h6MUJXSUVLc1h1d3Y1RjY0cGFhVFgtMUozdW9ZTXFRMFZNaFk4S1BuNjFzbndiMXF3ZGk3a2xfMUc5UTZOOGlBeFZSUFdSaUw?oc=5)
+
+---
+
+### [阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
+
+2026-11-10 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5)
 
 ---
 

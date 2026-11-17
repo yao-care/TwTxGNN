@@ -1,15 +1,67 @@
 {
-  "generated": "2026-11-17T04:53:29.420998+00:00",
-  "count": 37,
+  "generated": "2026-11-17T13:59:33.228714+00:00",
+  "count": 43,
   "news": [
     {
-      "id": "055c75b9b89d",
-      "title": "前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇",
-      "published": "2026-11-16T15:40:00+00:00",
+      "id": "0114e207a211",
+      "title": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛",
+      "published": "2026-11-17T10:14:55+00:00",
       "sources": [
         {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d285c80fe09c",
+      "title": "攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝 - TVBS 健康2.0",
+      "published": "2026-11-17T08:06:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5"
         }
       ],
       "keywords": [
@@ -252,6 +304,66 @@
               "slug": "zanubrutinib",
               "name": "Zanubrutinib",
               "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e53896ce2e71",
+      "title": "麻省男子濫用牛用合成睪酮，隱瞞11年致心臟衰竭險喪命",
+      "published": "2026-11-17T06:00:00+00:00",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkRQZjRoVHhiM3A2bkIxOVo4Z05EaVAtSnlrVGZDYTlfM1cxTmY0ODFMSFUzWFFkOEFjRjFsa05oNUpxSjM2WnByb0I2RkRJOU9zX0lPSHZ4UHNYeldqM3NtOTk1RVAwc29SZVV3Q01JeWZhakZwWGQ0Y1A1aXBxWGVkeHNBV2U0eGNtNkN2UTVvZ3JOUjFHdXpYSFJySjJYbElCQzFRWF9FNG1KTUtRTEc2LUVBd2ZUMVZrREdpaVdBWlZQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "心臟衰竭",
+          "keyword": "心臟衰竭",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e64951ffd40d",
+      "title": "全球痛風患者2050年恐近億 肥胖增風險",
+      "published": "2026-11-17T04:55:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qb0owMVZHekdrOHRPSk9XYjdhRU9HTEFVeUFxTFZCSEJJMXQ4Y2doOUZzX1Jac0FmUEdVVllfc0N3RTQxbkZmMlp0TTlKTEdsM2VlWGlMaFIycXEyLTV4NjlR0gFnQVVfeXFMTkRkc1ZhSVpEYU5mZmFTeUJyZzBvOVItenplUUt4QS05VFZ5M29NOEZHcFZkaHRRV0U4cGZTOVpHWVdfYWs5X1pOTWtRdXAweU9EbHUxWktsa3dMTFpoWXB2ZnRFVEFnWQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "gout",
+          "keyword": "痛風",
+          "related_drugs": [
+            {
+              "slug": "nitrofurantoin",
+              "name": "Nitrofurantoin",
+              "url": "/drugs/nitrofurantoin/"
+            },
+            {
+              "slug": "sulfamerazine",
+              "name": "Sulfamerazine",
+              "url": "/drugs/sulfamerazine/"
+            },
+            {
+              "slug": "sulfamethazine",
+              "name": "Sulfamethazine",
+              "url": "/drugs/sulfamethazine/"
             }
           ]
         }
@@ -695,31 +807,6 @@
       ]
     },
     {
-      "id": "711a98cc0a37",
-      "title": "醫生教你三招 避免冬天罹患感冒或流感",
-      "published": "2026-11-15T12:54:00+00:00",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMV9xRU02OUJ6ZGZyRnJBSlZjSTliOUl5dUhWaDVlUjIwSDJzend5dmJmZmcwV3dDSEdiSkJ2N09oRFZPQnUydk9zZlcwMGJ6ZmNRREdWZjFWT0RQd2M0OVRR0gFnQVVfeXFMTzgyWXFocl9XWWFfODdtczQyTTBqMEV5MURnYTQwaUR2Tkl2QVVCLWRRWWRfdy0wZy1GMi0tUmhhZ1kwVjIweGxzdVgxUF9LSm1SektKV3A0blM4aFlQcElaamNnOU9WQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "d96e681cc4e9",
       "title": "高血壓吃藥仍控制不好？研究揭簡化用藥、居家量血壓的好處",
       "published": "2026-11-15T09:09:19+00:00",
@@ -931,6 +1018,31 @@
         {
           "name": "TVBS新聞網",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tRXM0eGhPcnc2Zjk3SHhZaWgxaXFTLWJEUHR4SklCdHpzclQ0OV9TT3ZxOTh1WkFKb2JyM0lyME9SSGxLbDFCMlZxWm9QNzZ2?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5664d5c12ba7",
+      "title": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天 - UHK 港生活",
+      "published": "2026-11-12T10:34:11+00:00",
+      "sources": [
+        {
+          "name": "UHK 港生活",
+          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGczdDJQWWREQXIxYUFMNEVUSVNacHhaMTRYMHJEaW9vS0d4NEVCbFhYVXFxY0hobl83aXpFd2oxbE8tQ2NZeUs2OW9aMjVQcUR1VUREem1NYVFlNm41aHBuNnVOd2xXcnlHREh4OUoyVFJQcE5qMy1HQ2wtSUVfM0xQcUF0NThNUlFyM1ZpZmFqWkVDQW9BTDVFTVBWeDFGeEpOeTFnVEQ5NmtVblY0VTRicjJDVWxiaU4zRnhmcF9YRGFXdEhZaDNnQ3VjTWFfVVJteEptaC11dy0zZldiX3p0ZDZKQ0I1enotQUtxWUdRZk93Qm1EcndGVm9QZWdobTd0QUx3eTctMXZGX0szampoVEgwcVIzWkFyNkNGRTctZGNSWU5oQndoM25NRk1RVzIyMDdydnBJOTN6UExHQzdOdHh1MWVObDhCZVRNVEFoUndjV0E5UDV5VnVUUW5VSUs5RFlVOEtybHYzOVZ1OUZtTWlwUkNxVWRYUFg3MGFaWVBRSUszWlhOOGdwdTNnOUYyUXhyeldQa00yMHRIbGI0R25rODBCT0dB?oc=5"
         }
       ],
       "keywords": [
@@ -1431,67 +1543,6 @@
               "slug": "dipyridamole",
               "name": "Dipyridamole",
               "url": "/drugs/dipyridamole/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8aad94b8fb60",
-      "title": "女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%",
-      "published": "2026-11-11T11:00:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb2ZzbTEzWjgtTUJiWURpSjJETm41QW9PbnQxNTlkclFON0wxcjBkYURUdW9LQkNkNkFfMVVUVVE5elhaMF9LN19Xb2hLcXV6QlZEcFQweDRlZTRyODBfWHMxaUx6UXJjYlJhT2oxSTNaU0RyUk9JVjBPdFFqdlpJVjVzOXpSLVJ4Mm1aa25BM3gxQ044Qm5wTnZ1WFNkajk0SjlPeFMyUzdRTGlEUHBGS1h3bnBRY0pGYzcxZVdvY0tCSHZ1cU5TNUkzWFU5X2VwMmlpS3duUkFEMkxHY2p4dFVRNG12c1JZSnhPU2xyejBReVYtdjZoWGJvemVubUZsTXJDQ0F2Q2dnNUlOYzlzbFl3c0hVaHR1WnVYQjVzNGlFNG1KUUNZbktzQU50THN2YWlEQUtRbVV3cVByLTQ1Nk9NQzVCT1Y2b0xMeWpHTUE4TnFOYXBGR1FJQlIwR1FlTVd5dmdCaFd5YXIyUjNz?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾病",
-          "keyword": "心血管疾病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心梗",
-          "keyword": "心梗",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
             }
           ]
         }
@@ -2058,6 +2109,397 @@
       ]
     },
     {
+      "id": "64b5826a4db6",
+      "title": "不是洗手！新研究曝1天2次「簡單好習慣」助祛感冒病符- 國際",
+      "published": "2026-11-10T15:59:01+00:00",
+      "sources": [
+        {
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xVnRZOXVqa0pnbzRHMG40N1VNYmktXzc1S2hmdXpncTNiZF9kYW9yQXRJak5GclI5OUtyLVVSNXJSTDRLLVRCZzAxampRMTIzelJTWGdLWWl5MDVhSlVqeDRKX1lJNElvUjV1Tzln?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ca448f56473",
+      "title": "阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 | 科技新報 - LINE TODAY",
+      "published": "2026-11-10T14:40:12+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1weXFnZXhBTzV1WFJaTzN4QUdBaW9uYlhIbDNGOHhQRkg3QjBtb1BlSmduOURxeXdfZVJKZmo0QmN6bmg3SVhzc3VUUndFMUpTNGotcFpn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055c75b9b89d",
+      "title": "前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇",
+      "published": "2026-11-16T15:40:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone-caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon-beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic-acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic-acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "711a98cc0a37",
+      "title": "醫生教你三招 避免冬天罹患感冒或流感",
+      "published": "2026-11-15T12:54:00+00:00",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMV9xRU02OUJ6ZGZyRnJBSlZjSTliOUl5dUhWaDVlUjIwSDJzend5dmJmZmcwV3dDSEdiSkJ2N09oRFZPQnUydk9zZlcwMGJ6ZmNRREdWZjFWT0RQd2M0OVRR0gFnQVVfeXFMTzgyWXFocl9XWWFfODdtczQyTTBqMEV5MURnYTQwaUR2Tkl2QVVCLWRRWWRfdy0wZy1GMi0tUmhhZ1kwVjIweGxzdVgxUF9LSm1SektKV3A0blM4aFlQcElaamNnOU9WQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8aad94b8fb60",
+      "title": "女性每週重訓超過「1時數」 研究揭：重大心血管疾病風險降20%",
+      "published": "2026-11-11T11:00:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOb2ZzbTEzWjgtTUJiWURpSjJETm41QW9PbnQxNTlkclFON0wxcjBkYURUdW9LQkNkNkFfMVVUVVE5elhaMF9LN19Xb2hLcXV6QlZEcFQweDRlZTRyODBfWHMxaUx6UXJjYlJhT2oxSTNaU0RyUk9JVjBPdFFqdlpJVjVzOXpSLVJ4Mm1aa25BM3gxQ044Qm5wTnZ1WFNkajk0SjlPeFMyUzdRTGlEUHBGS1h3bnBRY0pGYzcxZVdvY0tCSHZ1cU5TNUkzWFU5X2VwMmlpS3duUkFEMkxHY2p4dFVRNG12c1JZSnhPU2xyejBReVYtdjZoWGJvemVubUZsTXJDQ0F2Q2dnNUlOYzlzbFl3c0hVaHR1WnVYQjVzNGlFNG1KUUNZbktzQU50THN2YWlEQUtRbVV3cVByLTQ1Nk9NQzVCT1Y2b0xMeWpHTUE4TnFOYXBGR1FJQlIwR1FlTVd5dmdCaFd5YXIyUjNz?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾病",
+          "keyword": "心血管疾病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心梗",
+          "keyword": "心梗",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "8720a3d31d48",
       "title": "阿茲海默症病變不在大腦？美研究揭：走路不穩恐為極早期警訊 - TechNews 科技新報",
       "published": "2026-11-10T06:35:23+00:00",
@@ -2407,31 +2849,6 @@
         {
           "name": "三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEbURPNkEwWGQ0R2FTSmZkLTlhcU94dlJJNGJ2MnZLMWhSZ1RwMzVJQXVWNmJwUmZaV3VIM244eldDN1hQYS1Wb09Zbm8?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5664d5c12ba7",
-      "title": "萬人研究實證！家庭醫生親授感冒零成本抗病：用「這杯水」沖洗！病程最多縮短4天 - UHK 港生活",
-      "published": "2026-11-12T10:34:11+00:00",
-      "sources": [
-        {
-          "name": "UHK 港生活",
-          "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWGczdDJQWWREQXIxYUFMNEVUSVNacHhaMTRYMHJEaW9vS0d4NEVCbFhYVXFxY0hobl83aXpFd2oxbE8tQ2NZeUs2OW9aMjVQcUR1VUREem1NYVFlNm41aHBuNnVOd2xXcnlHREh4OUoyVFJQcE5qMy1HQ2wtSUVfM0xQcUF0NThNUlFyM1ZpZmFqWkVDQW9BTDVFTVBWeDFGeEpOeTFnVEQ5NmtVblY0VTRicjJDVWxiaU4zRnhmcF9YRGFXdEhZaDNnQ3VjTWFfVVJteEptaC11dy0zZldiX3p0ZDZKQ0I1enotQUtxWUdRZk93Qm1EcndGVm9QZWdobTd0QUx3eTctMXZGX0szampoVEgwcVIzWkFyNkNGRTctZGNSWU5oQndoM25NRk1RVzIyMDdydnBJOTN6UExHQzdOdHh1MWVObDhCZVRNVEFoUndjV0E5UDV5VnVUUW5VSUs5RFlVOEtybHYzOVZ1OUZtTWlwUkNxVWRYUFg3MGFaWVBRSUszWlhOOGdwdTNnOUYyUXhyeldQa00yMHRIbGI0R25rODBCT0dB?oc=5"
         }
       ],
       "keywords": [
