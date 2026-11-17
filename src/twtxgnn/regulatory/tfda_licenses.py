@@ -184,8 +184,9 @@ _INDEX_CACHE: dict[int, tuple] = {}
 def _index(by_id: dict[str, dict]) -> tuple:
     """成分名稱變體的倒排索引（首詞 → 證、詞集合 → 證），讓全站比對在數秒內完成。"""
     key = id(by_id)
-    if key in _INDEX_CACHE:
-        return _INDEX_CACHE[key]
+    hit = _INDEX_CACHE.get(key)
+    if hit is not None and hit[0] is by_id:  # id() 只在物件活著時唯一：快取存住物件本身並比對，回收後被重用的 id 不會讀到別批資料的索引
+        return hit[1], hit[2]
     first: dict[str, list] = {}
     tset: dict[tuple, set] = {}
     for lid, r in by_id.items():
@@ -199,7 +200,7 @@ def _index(by_id: dict[str, dict]) -> tuple:
                     core = tuple(sorted(_sing(x) for x in toks if x not in STEREO))
                     if core:
                         tset.setdefault(core, set()).add(lid)
-    _INDEX_CACHE[key] = (first, tset)
+    _INDEX_CACHE[key] = (by_id, first, tset)
     return first, tset
 
 
