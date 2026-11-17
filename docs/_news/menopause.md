@@ -3,9 +3,9 @@ layout: default
 title: "更年期 (menopause) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "更年期 (menopause) 的相關健康新聞報導。1 則新聞、4 個相關藥物。"
+description: "更年期 (menopause) 的相關健康新聞報導。2 則新聞、4 個相關藥物。"
 permalink: /news/menopause/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 ---
 
 # 更年期 (menopause) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) 有什麼相關新聞？">
-<strong>更年期 (menopause)</strong> 目前有 <strong>1 則</strong>相關新聞報導，4 個相關藥物。
+<strong>更年期 (menopause)</strong> 目前有 <strong>2 則</strong>相關新聞報導，4 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ last_modified_at: 2026-11-12
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [58歲婦人車禍後突發「心碎症候群」！醫師提醒：更年期女性別忽略心血管健康](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwV1NUX3FGU25ndTFQQzBxQjlMdl8wU0RkeEh1OG42c2pfZUt4c3Nzc2Exbkk3X19aVXpSUlJBWVpXOUwwY0hPRWh6Zy1WMTVlSkJwMjE4ZkFZQdIBX0FVX3lxTE0yTjJma1BzM29LZE95ZEVncWxuQ0ZOUEdCZUpPU3lOV0RPdUVMM2ZWa0h0WmZHUlBxUG1nU2d4ZW1lQUEtMTBHcDNtLS1ocE9QeGJHeEo1anctZnlHYzV3?oc=5)
 
 2026-11-12
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwV1NUX3FGU25ndTFQQzBxQjlMdl8wU0RkeEh1OG42c2pfZUt4c3Nzc2Exbkk3X19aVXpSUlJBWVpXOUwwY0hPRWh6Zy1WMTVlSkJwMjE4ZkFZQdIBX0FVX3lxTE0yTjJma1BzM29LZE95ZEVncWxuQ0ZOUEdCZUpPU3lOV0RPdUVMM2ZWa0h0WmZHUlBxUG1nU2d4ZW1lQUEtMTBHcDNtLS1ocE9QeGJHeEo1anctZnlHYzV3?oc=5)
+
+---
+
+### [更年期也要留意血糖 吳佳鴻談代謝變化與荷爾蒙治療評估](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bnY3bENoT0pJTFZzSlg0XzZKUkt0ZXBXYjVnaG44dmJPUmFoVGRrWnFxQzFFR3Q5N1o5eGFYSzlGZnl3M0g0OVZWcUVvWWNkTnc?oc=5)
+
+2026-11-12
+
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bnY3bENoT0pJTFZzSlg0XzZKUkt0ZXBXYjVnaG44dmJPUmFoVGRrWnFxQzFFR3Q5N1o5eGFYSzlGZnl3M0g0OVZWcUVvWWNkTnc?oc=5)
 
 ---
 

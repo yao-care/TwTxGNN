@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Trabectedin 的相關健康新聞報導。原適應症：無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)...。預測適應症 1 個。"
 permalink: /news/trabectedin/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Trabectedin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">癌症</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+---
 
 ### [乳癌復發需全乳房切除？了解4種電療方法](https://news.google.com/rss/articles/CBMikAJBVV95cUxOSzY3UV84Wm9CUk9Zd3V5OTNiNmQ4YlhKUExMQnhXS3lHR0lhdUlHNUwzQUpIc0VldXd0LVBHUm9tYUkwNkZOdEh4bTlxM1dKTjBvWk5pRGdMMEdKQ2dkeHVLVFczNFhQUHRabFFBdUJCNUNjak9MSk9DWlE1VVRQeGpscEJjZWdIUGNFV09XMDBPM0owLU9BYWZuMWR1MFItZ0xwUWdOUld1NDNJWmh2OTBIMzdldENheEpCclNxbGFDd2ZnY2ZXaG54VnA4dE8yem1OQXdURWFEM3F2SFlJS2dOSWQzbmFOZ2lpNjJ0RUl2TlJaUXpiOHl1ZzdDNkthak9ZYVhfR3Q2RkZaOXBmcQ?oc=5)
 

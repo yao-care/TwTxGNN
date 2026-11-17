@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "腫瘤 (generic_cancer) 相關新聞"
+title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。7 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。8 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
-# 腫瘤 (generic_cancer) 相關新聞
+# 癌症 (generic_cancer) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>7 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>8 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -76,7 +76,15 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+2026-11-16
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+---
 
 ### [美研究開發抗攝護腺癌新藥 降低腫瘤活性與患者疼痛](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
 

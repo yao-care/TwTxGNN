@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "帶狀皰疹 (herpes zoster) 相關新聞"
+title: "皮蛇 (herpes zoster) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "帶狀皰疹 (herpes zoster) 的相關健康新聞報導。1 則新聞、1 個相關藥物。"
+description: "皮蛇 (herpes zoster) 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
-# 帶狀皰疹 (herpes zoster) 相關新聞
+# 皮蛇 (herpes zoster) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="帶狀皰疹 (herpes zoster) 有什麼相關新聞？">
-<strong>帶狀皰疹 (herpes zoster)</strong> 目前有 <strong>1 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="皮蛇 (herpes zoster) 有什麼相關新聞？">
+<strong>皮蛇 (herpes zoster)</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「帶狀皰疹」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「皮蛇」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [聯合國糖尿病日：警惕糖尿病與帶狀皰疹疊加風險](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFIwb3pTa0pZSE5fUGFRX1d4aFJpelNZS0RZaUczdVV5QmJCMjRRYmdjYjlpZVR4VXhEbktiMWZiZUtzYzJ4S3o2azdpcjE5eUNqOUZybFlYbURRVzdhVjctSDE5QjNtR05HYmRBZ1d4djgzWHBVNF9UdUpYT1A0UFBxeXFObHVVdHRtcjY3dnk?oc=5)
 
 2026-11-16
 
 來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFIwb3pTa0pZSE5fUGFRX1d4aFJpelNZS0RZaUczdVV5QmJCMjRRYmdjYjlpZVR4VXhEbktiMWZiZUtzYzJ4S3o2azdpcjE5eUNqOUZybFlYbURRVzdhVjctSDE5QjNtR05HYmRBZ1d4djgzWHBVNF9UdUpYT1A0UFBxeXFObHVVdHRtcjY3dnk?oc=5)
+
+---
+
+### [健康網》皮蛇好了別大意！ 醫警水泡消失仍可能電擊般疼痛](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTzduU2lJenBvNHNRcDB2Z2N1NGo0dTZKODhCNURZS0xVX25xRXRCaWZLZTBjYkdqWlQ2UnVfYjVjZHotR01sVENqNHptanhxUnhqRzdoYjhaUWdUb2VTWHdOWUk?oc=5)
+
+2026-11-13
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GTzduU2lJenBvNHNRcDB2Z2N1NGo0dTZKODhCNURZS0xVX25xRXRCaWZLZTBjYkdqWlQ2UnVfYjVjZHotR01sVENqNHptanhxUnhqRzdoYjhaUWdUb2VTWHdOWUk?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已...。預測適應症 2 個。"
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # Paclitaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">癌症</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+---
 
 ### [乳癌復發需全乳房切除？了解4種電療方法](https://news.google.com/rss/articles/CBMikAJBVV95cUxOSzY3UV84Wm9CUk9Zd3V5OTNiNmQ4YlhKUExMQnhXS3lHR0lhdUlHNUwzQUpIc0VldXd0LVBHUm9tYUkwNkZOdEh4bTlxM1dKTjBvWk5pRGdMMEdKQ2dkeHVLVFczNFhQUHRabFFBdUJCNUNjak9MSk9DWlE1VVRQeGpscEJjZWdIUGNFV09XMDBPM0owLU9BYWZuMWR1MFItZ0xwUWdOUld1NDNJWmh2OTBIMzdldENheEpCclNxbGFDd2ZnY2ZXaG54VnA4dE8yem1OQXdURWFEM3F2SFlJS2dOSWQzbmFOZ2lpNjJ0RUl2TlJaUXpiOHl1ZzdDNkthak9ZYVhfR3Q2RkZaOXBmcQ?oc=5)
 
@@ -90,6 +98,14 @@ last_modified_at: 2026-11-16
 2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">更年期</span>
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwV1NUX3FGU25ndTFQQzBxQjlMdl8wU0RkeEh1OG42c2pfZUt4c3Nzc2Exbkk3X19aVXpSUlJBWVpXOUwwY0hPRWh6Zy1WMTVlSkJwMjE4ZkFZQdIBX0FVX3lxTE0yTjJma1BzM29LZE95ZEVncWxuQ0ZOUEdCZUpPU3lOV0RPdUVMM2ZWa0h0WmZHUlBxUG1nU2d4ZW1lQUEtMTBHcDNtLS1ocE9QeGJHeEo1anctZnlHYzV3?oc=5)
+
+---
+
+### [更年期也要留意血糖 吳佳鴻談代謝變化與荷爾蒙治療評估](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bnY3bENoT0pJTFZzSlg0XzZKUkt0ZXBXYjVnaG44dmJPUmFoVGRrWnFxQzFFR3Q5N1o5eGFYSzlGZnl3M0g0OVZWcUVvWWNkTnc?oc=5)
+
+2026-11-12 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4bnY3bENoT0pJTFZzSlg0XzZKUkt0ZXBXYjVnaG44dmJPUmFoVGRrWnFxQzFFR3Q5N1o5eGFYSzlGZnl3M0g0OVZWcUVvWWNkTnc?oc=5)
 
 ---
 
