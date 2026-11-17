@@ -133,6 +133,14 @@ TxGNN 模型本身由哈佛醫學院 Zitnik Lab 開發並發表於 *Nature Medic
 
 ---
 
+## 免費下載老藥新用預測資料集
+
+<p class="key-answer" data-question="有沒有免費的老藥新用預測資料集可以下載？">
+有。TwTxGNN 的老藥新用預測資料集完全公開免費，任何人都可以下載使用：<a href="/downloads/">資料下載頁</a>提供 CSV／JSON 格式的完整預測結果，並已收錄於 Zenodo 開放資料儲存庫（見下方引用資訊），可直接取得永久 DOI 連結與版本化資料集。
+</p>
+
+---
+
 ## 如何引用
 
 本專案已收錄於 Zenodo，DOI: [10.5281/zenodo.18723194](https://doi.org/10.5281/zenodo.18723194)
