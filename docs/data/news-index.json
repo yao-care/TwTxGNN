@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-17T22:04:55.417483+00:00",
-  "count": 46,
+  "generated": "2026-11-18T03:57:50.197930+00:00",
+  "count": 48,
   "news": [
     {
       "id": "d588804e44ad",
@@ -1092,43 +1092,6 @@
       ]
     },
     {
-      "id": "3365eab9b6e6",
-      "title": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫",
-      "published": "2026-11-15T07:00:04+00:00",
-      "sources": [
-        {
-          "name": "台視新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "肌炎",
-          "keyword": "肌炎",
-          "related_drugs": [
-            {
-              "slug": "carisoprodol",
-              "name": "Carisoprodol",
-              "url": "/drugs/carisoprodol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "e661cace543e",
       "title": "本港大腸癌致命率第2位！牛津研究揭一飲食習慣更高危：以為好健康但暗藏陷阱 - UHK 港生活",
       "published": "2026-11-13T23:32:11+00:00",
@@ -1200,31 +1163,6 @@
               "slug": "avelumab",
               "name": "Avelumab",
               "url": "/drugs/avelumab/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c00e1a07d4d1",
-      "title": "感冒一有症狀就看醫生會好更快？醫揭真相 出現2症狀才急就醫 | TVBS - LINE TODAY",
-      "published": "2026-11-13T07:51:28+00:00",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Umg1T1IzQ1JYSVlKWVM4bUY4ZVBvNHJTMkVLVHVfZHF6SEtyOUh2d0dkRE82Qm5kTFZ0cnBxVkFjTzlLV3RtNHNwOS14Wk1jblJCX2xB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
             }
           ]
         }
@@ -1505,6 +1443,93 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "76fefe519968",
+      "title": "感冒一有症狀就看醫生會好更快？醫揭真相 出現2症狀才急就醫",
+      "published": "2026-11-13T02:58:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tRXM0eGhPcnc2Zjk3SHhZaWgxaXFTLWJEUHR4SklCdHpzclQ0OV9TT3ZxOTh1WkFKb2JyM0lyME9SSGxLbDFCMlZxWm9QNzZ2?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30ab8cba5a95",
+      "title": "A、B流都有重症風險 醫：接種疫苗預防",
+      "published": "2026-11-13T01:20:55+00:00",
+      "sources": [
+        {
+          "name": "人間福報電子報",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol",
+              "url": "/drugs/carisoprodol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9cee7e8b72bc",
+      "title": "打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意",
+      "published": "2026-11-12T16:55:11+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPNzlqQU5EcE1BZ3NkRE82N1QxdkgxNDdLalhqOXltR0ZQVEpLS0ZxaUsxVmQ0aUo2X0xTSlZSQkM2emtHanVhMGxULS1temFCNjRPaU1TY0p1RFZveXRwaWk0RmZNUTlHVHFzQ0JpalhieDhDdUdiNmxFRDM5bEpvWVFjb2ItdkM3UXhOdGw5Q2FJQ3Z6anU1cDZsemQzTGdNazU0QTVCclFiaTlTNDFMaERJem5MelA5ZzNNbEJtdjdnUXlaaG5oR0tzR1BvaGZ4Wk5uM2x2MXVieHpwZ0VFYV83dWIxSDZlYVZxYlVCRVJrMnNYdTUtZUtwX0ttNWxzY3NmZkswLUl1NXJPYlhJWjZkVVpBcWp5dWlDbG0wdy1aTlRiNzVjdko4b19zdUVQQlpLanFWd3dCN2EwcEZyQXdldi05MTRxWGxTbXAwWHluMzhFcDhfcWJyNnNfZks3RHlkb3l6Vnc4LWFEZEpWbVRVTHk4TGJVNi1ORXVZZjltbDR5TlpjOFhJbFFnUmpXQ0l0UlJRYmNLRmZoRTc5QWZ2WGdEYVVmRURZbU5yZmJGRU1ybks0MnJESG9sdGZobWE5aHlPdC1WZ203X1VNOHM2YkNUanhJanZlUER3VVhJVjQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
             }
           ]
         }
@@ -1966,31 +1991,6 @@
               "slug": "dipyridamole",
               "name": "Dipyridamole",
               "url": "/drugs/dipyridamole/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a313162a7c62",
-      "title": "流感傷肺也傷心！研究揭心肌梗塞風險增6倍 中醫推2穴道、2茶飲護心肺 - TVBS 健康2.0",
-      "published": "2026-11-11T10:59:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS 健康2.0",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81YTdpam5xYkFoQmlKVHBNT3lGcGQ0cldUMGNTRjR1WS11OGlsUTg0QU5WcUVNdmwtUG9feTI0dUVLRktxRWtFcEs1N1dJMjNMQ2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心肌梗塞",
-          "related_drugs": [
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
             }
           ]
         }
@@ -2532,6 +2532,93 @@
       ]
     },
     {
+      "id": "3365eab9b6e6",
+      "title": "A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫",
+      "published": "2026-11-15T07:00:04+00:00",
+      "sources": [
+        {
+          "name": "台視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "肌炎",
+          "keyword": "肌炎",
+          "related_drugs": [
+            {
+              "slug": "carisoprodol",
+              "name": "Carisoprodol",
+              "url": "/drugs/carisoprodol/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c00e1a07d4d1",
+      "title": "感冒一有症狀就看醫生會好更快？醫揭真相 出現2症狀才急就醫 | TVBS - LINE TODAY",
+      "published": "2026-11-13T07:51:28+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03Umg1T1IzQ1JYSVlKWVM4bUY4ZVBvNHJTMkVLVHVfZHF6SEtyOUh2d0dkRE82Qm5kTFZ0cnBxVkFjTzlLV3RtNHNwOS14Wk1jblJCX2xB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a313162a7c62",
+      "title": "流感傷肺也傷心！研究揭心肌梗塞風險增6倍 中醫推2穴道、2茶飲護心肺 - TVBS 健康2.0",
+      "published": "2026-11-11T10:59:00+00:00",
+      "sources": [
+        {
+          "name": "TVBS 健康2.0",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81YTdpam5xYkFoQmlKVHBNT3lGcGQ0cldUMGNTRjR1WS11OGlsUTg0QU5WcUVNdmwtUG9feTI0dUVLRktxRWtFcEs1N1dJMjNMQ2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b3c7f2ffe2ca",
       "title": "柑橘、洋葱 含天然化合物 或有助抵抗肺癌細胞",
       "published": "2026-11-13T03:30:00+00:00",
@@ -2561,31 +2648,6 @@
               "slug": "vinorelbine",
               "name": "Vinorelbine",
               "url": "/drugs/vinorelbine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "76fefe519968",
-      "title": "感冒一有症狀就看醫生會好更快？醫揭真相 出現2症狀才急就醫",
-      "published": "2026-11-13T02:58:00+00:00",
-      "sources": [
-        {
-          "name": "TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tRXM0eGhPcnc2Zjk3SHhZaWgxaXFTLWJEUHR4SklCdHpzclQ0OV9TT3ZxOTh1WkFKb2JyM0lyME9SSGxLbDFCMlZxWm9QNzZ2?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
             }
           ]
         }
