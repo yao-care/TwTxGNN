@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "癌症 (generic_cancer) 相關新聞"
+title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "癌症 (generic_cancer) 的相關健康新聞報導。11 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。13 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
-# 癌症 (generic_cancer) 相關新聞
+# 腫瘤 (generic_cancer) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
-<strong>癌症 (generic_cancer)</strong> 目前有 <strong>11 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>13 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -76,7 +76,23 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [郵票大小的“器官芯片”能模擬腫瘤生長 可同時培養癌細胞、血管和神經](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
+
+2026-11-18
+
+來源: [紫荊網](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
+
+---
+
+### [光靠團險不夠！逾9成癌症理賠申請人40歲以上　缺口近5萬元](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQRV9JeXBBV0pvTFI5VnBMLTE1a0w3aUtOR3N4OUhmbE9Hd3poejBJTF9SZWwxc1dYMVYtOU9aM1hyX3BNdkRMcXV6R3c1YjF2bnfSAVBBVV95cUxNWkRKOWtsdC01ZHEtems3Sm84T2J1eVNHeTA2aXFid3RrS1NvelQwT0hwX2thQ0s3NFdtT1JXZmgwQmYway1MNnhsbEZneHZVUg?oc=5)
+
+2026-11-18
+
+來源: [ETtoday財經雲](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQRV9JeXBBV0pvTFI5VnBMLTE1a0w3aUtOR3N4OUhmbE9Hd3poejBJTF9SZWwxc1dYMVYtOU9aM1hyX3BNdkRMcXV6R3c1YjF2bnfSAVBBVV95cUxNWkRKOWtsdC01ZHEtems3Sm84T2J1eVNHeTA2aXFid3RrS1NvelQwT0hwX2thQ0s3NFdtT1JXZmgwQmYway1MNnhsbEZneHZVUg?oc=5)
+
+---
 
 ### [香腸、醬料都有！逾10萬人研究揭12種防腐劑與糖尿病有關 這6種與癌症相關 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHLXRidjBTcE9Hb080N3RKbnJCMDVzdG92N3NDX0RORVRCejVuckR1eHpYX1JTaVNUM2doOWMtTEs0Z1lXN19US1JFRkpPdjU5eFFJZ1dR?oc=5)
 

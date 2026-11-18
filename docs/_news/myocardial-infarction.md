@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "心肌梗塞 (myocardial infarction) 相關新聞"
+title: "心梗 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心肌梗塞 (myocardial infarction) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "心梗 (myocardial infarction) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-18
 ---
 
-# 心肌梗塞 (myocardial infarction) 相關新聞
+# 心梗 (myocardial infarction) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心肌梗塞 (myocardial infarction) 有什麼相關新聞？">
-<strong>心肌梗塞 (myocardial infarction)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
+<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「心肌梗塞」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「心梗」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [A、B流都有重症風險 醫：接種疫苗預防](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
+
+2026-11-13
+
+來源: [人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
+
+---
 
 ### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMi4wNBVV95cUxPNzlqQU5EcE1BZ3NkRE82N1QxdkgxNDdLalhqOXltR0ZQVEpLS0ZxaUsxVmQ0aUo2X0xTSlZSQkM2emtHanVhMGxULS1temFCNjRPaU1TY0p1RFZveXRwaWk0RmZNUTlHVHFzQ0JpalhieDhDdUdiNmxFRDM5bEpvWVFjb2ItdkM3UXhOdGw5Q2FJQ3Z6anU1cDZsemQzTGdNazU0QTVCclFiaTlTNDFMaERJem5MelA5ZzNNbEJtdjdnUXlaaG5oR0tzR1BvaGZ4Wk5uM2x2MXVieHpwZ0VFYV83dWIxSDZlYVZxYlVCRVJrMnNYdTUtZUtwX0ttNWxzY3NmZkswLUl1NXJPYlhJWjZkVVpBcWp5dWlDbG0wdy1aTlRiNzVjdko4b19zdUVQQlpLanFWd3dCN2EwcEZyQXdldi05MTRxWGxTbXAwWHluMzhFcDhfcWJyNnNfZks3RHlkb3l6Vnc4LWFEZEpWbVRVTHk4TGJVNi1ORXVZZjltbDR5TlpjOFhJbFFnUmpXQ0l0UlJRYmNLRmZoRTc5QWZ2WGdEYVVmRURZbU5yZmJGRU1ybks0MnJESG9sdGZobWE5aHlPdC1WZ203X1VNOHM2YkNUanhJanZlUER3VVhJVjQ?oc=5)
 

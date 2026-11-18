@@ -46,7 +46,7 @@ last_modified_at: 2026-11-18
 
 ### [A、B流都有重症風險 醫：接種疫苗預防](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
 
-2026-11-13 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+2026-11-13 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
 來源: [人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。1 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。3 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # 中風 (stroke) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>1 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>3 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,23 @@ last_modified_at: 2026-11-13
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（3 則）
+
+### [炒菜換減鈉鹽能護心臟防中風？研究證中風風險降14% 附安全食用指南](https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5)
+
+2026-11-18
+
+來源: [星島頭條](https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5)
+
+---
+
+### [A、B流都有重症風險 醫：接種疫苗預防](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
+
+2026-11-13
+
+來源: [人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
+
+---
 
 ### [長期孤獨增心臟病中風風險 醫生拆解隱形心血管危機](https://news.google.com/rss/articles/CBMi7wJBVV95cUxOZ05wcnFVdUVHVUhYTUhrRzNaRzgzMEJqMVNrN0lKSWdzT0pMN1NvOHByZVN6ME5YZnFRN3RJcEhsQmdGLXVJSFZXX3kySFFaY05fYUd0cGZMYXI0dXFPMG4tNDhXMW5IdFJMMlJZbDU5a1NySTh1OW9DZ3I3Y1JtaTVpWF92cWNibkExZjFWOHF0UW5CTHliWENTWTd2cjljRWd3SVM2bDV1NU91bFRibUV1ZHkwQUg4X3g5SWRrZy1KNEJlcUJ0TnBBWjR1YU1wWkhRNlh5RkFESGpYR2tjUUtDbUhWbDZfV2xJVjVfUlBoR1l1RC16NnY5cEFya2FCTUhLNjVKNk1PbEl1RVhvVmU1aVB2bVBWMHNFZGpEZWF0SVN1NDFvdXpPb1FxZHBTVzdRMlpFY2tWbnRPQVhwZS04QllyTWpnMDdqVmhTVjBYSkF1RmhkSUhhbFV0dU9Rc3lkREY0X3ZKVklhb0lF?oc=5)
 

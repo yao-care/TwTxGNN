@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dipyridamole 的相關健康新聞報導。原適應症：對於慢性狹心症之治療可能有效。預測適應症 6 個。"
 permalink: /news/dipyridamole/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-18
 ---
 
 # Dipyridamole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Dipyridamole</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,29 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [炒菜換減鈉鹽能護心臟防中風？研究證中風風險降14% 附安全食用指南](https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">中風</span>
+
+來源: [星島頭條](https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5)
+
+---
 
 ### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要](https://news.google.com/rss/articles/CBMinANBVV95cUxNbG1DY1d2N1lkZk1jMTNCeER5Wk1fM3pfcWNtSTFWSmRKdmZpNGxZLVlqSWJCTllwcnVsck5BWGhIV1Etd1RULTFYQnV3S2Fpbm5pR2FSNXZ2ckNhLWhyS1I3Unc1TzZPR3pQZU40VnlERC1UN3ZjYUx2cUxhXzJlLWRLZ3VETk16WkRpcFlEd1JsdTZLTWZlNDhmUWlmb2E5Z2tmYTFNNVk3dVg5OWtHV1F4enpuWjhIRUxsb3FLVkk3TnU5eUNpeDdERGljeFkyNTZEbnlCUU9MQXJsVmF0eWpHbjZoU3RYdm53UTBUeE16Y2hGa0RfRmJXWjl2Q2xLdG9udVluNlNicEt6V2kxRVR4ZTd6UWRPQ3l4LXktQmhlRFYwNm1HY09RWVN0SVVMcmR5MUg1dUd5RFhNbkRCZ2dLME9iWlhRNTdzZGVZMjRNQWstS0wwOV9XcEZfa3BVMFFPaDQtak90U29TdUJhbVlLWEM4TndOeFNUSUE1bHYzbFg0NFJKYkZyM2t4ZjFzRDVEOU8yRkdIN0VO?oc=5)
 
 2026-11-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMinANBVV95cUxNbG1DY1d2N1lkZk1jMTNCeER5Wk1fM3pfcWNtSTFWSmRKdmZpNGxZLVlqSWJCTllwcnVsck5BWGhIV1Etd1RULTFYQnV3S2Fpbm5pR2FSNXZ2ckNhLWhyS1I3Unc1TzZPR3pQZU40VnlERC1UN3ZjYUx2cUxhXzJlLWRLZ3VETk16WkRpcFlEd1JsdTZLTWZlNDhmUWlmb2E5Z2tmYTFNNVk3dVg5OWtHV1F4enpuWjhIRUxsb3FLVkk3TnU5eUNpeDdERGljeFkyNTZEbnlCUU9MQXJsVmF0eWpHbjZoU3RYdm53UTBUeE16Y2hGa0RfRmJXWjl2Q2xLdG9udVluNlNicEt6V2kxRVR4ZTd6UWRPQ3l4LXktQmhlRFYwNm1HY09RWVN0SVVMcmR5MUg1dUd5RFhNbkRCZ2dLME9iWlhRNTdzZGVZMjRNQWstS0wwOV9XcEZfa3BVMFFPaDQtak90U29TdUJhbVlLWEM4TndOeFNUSUE1bHYzbFg0NFJKYkZyM2t4ZjFzRDVEOU8yRkdIN0VO?oc=5)
+
+---
+
+### [A、B流都有重症風險 醫：接種疫苗預防](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
+
+2026-11-13 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [人間福報電子報](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
 
 ---
 
