@@ -3,7 +3,7 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。3 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。4 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>3 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>4 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
 
 ### [炒菜換減鈉鹽能護心臟防中風？研究證中風風險降14% 附安全食用指南](https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5)
 
 2026-11-18
 
 來源: [星島頭條](https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5)
+
+---
+
+### [盧肯 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+2026-11-17
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
 
 ---
 

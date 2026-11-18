@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>12 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,29 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（12 則）
+
+### [盧肯 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+2026-11-17 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+---
 
 ### [麻省男子濫用牛用合成睪酮，隱瞞11年致心臟衰竭險喪命](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkRQZjRoVHhiM3A2bkIxOVo4Z05EaVAtSnlrVGZDYTlfM1cxTmY0ODFMSFUzWFFkOEFjRjFsa05oNUpxSjM2WnByb0I2RkRJOU9zX0lPSHZ4UHNYeldqM3NtOTk1RVAwc29SZVV3Q01JeWZhakZwWGQ0Y1A1aXBxWGVkeHNBV2U0eGNtNkN2UTVvZ3JOUjFHdXpYSFJySjJYbElCQzFRWF9FNG1KTUtRTEc2LUVBd2ZUMVZrREdpaVdBWlZQ?oc=5)
 
 2026-11-17 <span class="news-indication-tag">心臟衰竭</span>
 
 來源: [Singtaousa](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkRQZjRoVHhiM3A2bkIxOVo4Z05EaVAtSnlrVGZDYTlfM1cxTmY0ODFMSFUzWFFkOEFjRjFsa05oNUpxSjM2WnByb0I2RkRJOU9zX0lPSHZ4UHNYeldqM3NtOTk1RVAwc29SZVV3Q01JeWZhakZwWGQ0Y1A1aXBxWGVkeHNBV2U0eGNtNkN2UTVvZ3JOUjFHdXpYSFJySjJYbElCQzFRWF9FNG1KTUtRTEc2LUVBd2ZUMVZrREdpaVdBWlZQ?oc=5)
+
+---
+
+### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5)
 
 ---
 
@@ -82,6 +98,14 @@ last_modified_at: 2026-11-18
 2026-11-12 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">心臟病發</span>
 
 來源: [AM730](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5)
+
+---
+
+### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">心肌梗塞</span>
+
+來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
 
 ---
 

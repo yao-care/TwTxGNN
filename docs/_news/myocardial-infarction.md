@@ -3,7 +3,7 @@ layout: default
 title: "心梗 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心梗 (myocardial infarction) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
+description: "心梗 (myocardial infarction) 的相關健康新聞報導。8 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
-<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>8 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（8 則）
+
+### [盧肯 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+2026-11-17
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+---
 
 ### [A、B流都有重症風險 醫：接種疫苗預防](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94a3lIaXlreFhrLVFkeThiSlFRTk1GMS1udkF6Qk1GbXphUGpZTVJKUHZOZWRlM010Uk1JTmM1TDBidVRRdGFXM0NPRnJuZjh0NHBRdkctZUZrV2NYRVNXVmlYT2lKTVU?oc=5)
 
@@ -53,6 +61,14 @@ last_modified_at: 2026-11-18
 2026-11-12
 
 來源: [AM730](https://news.google.com/rss/articles/CBMi_gJBVV95cUxNUXYzYzJYQlhQWWVWbklkVl92WW1oSTdNV2FlVjVjNzhaR3RuQ2NrQlFqbmZmTU5fbVNZcUpiRG81RGREb3B3dmtUbnlyRnVFSkF3cUdya0JfaHIyLV9LUnRjYjl2a0NqSVlTZFliSW5oZUdEU1pKbEJJVlV0NlFFeXpmYnpodk50SUdaQ1Q3eldXbFNZWC00TExrSFBLaFNRdHIxclgyR1EtSDUtTFN2VkpwYjk4MTFUenVkVkZOTmVkeTZhU2dLWVA2NTVIQWpOWTdjTGdSVDRVbWpMXzVtdmUtdHV2UTlmS3gtLWs4OGwtT3lGUk5NTE01WnVrWjJrTno3Z3hZdG10VVVoUEJfejlEb3JkN3NrWEJoRTloVVRBUUd1RUxIdjY1ZzhURWlLN3RxRzF6dDd0RmlDMDBSdXg1MnBuY29hYU1NTW13RjFra09MWlozbVBaVjdLMXAxUFR0VHVIUGxlUF9mS014OU5ydmJCdm51WkdaZWln?oc=5)
+
+---
+
+### [打流感疫苗不只防病毒！也能穩定血管斑塊預防心肌梗塞「五大高風險族」需注意](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
+
+2026-11-12
+
+來源: [Heho健康](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QOGJZSExkS2FpNTRPUDFsd1RocFl0S3ZoRTZjbVd6cWNycUFYTXJzNDNpZWs1RmZRbDVrazZsVjlLMFlhS2ZWcUpfNA?oc=5)
 
 ---
 

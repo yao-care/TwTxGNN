@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [盧肯 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+2026-11-17 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+---
 
 ### [醫生教你三招 避免冬天罹患感冒或流感](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMV9xRU02OUJ6ZGZyRnJBSlZjSTliOUl5dUhWaDVlUjIwSDJzend5dmJmZmcwV3dDSEdiSkJ2N09oRFZPQnUydk9zZlcwMGJ6ZmNRREdWZjFWT0RQd2M0OVRR0gFnQVVfeXFMTzgyWXFocl9XWWFfODdtczQyTTBqMEV5MURnYTQwaUR2Tkl2QVVCLWRRWWRfdy0wZy1GMi0tUmhhZ1kwVjIweGxzdVgxUF9LSm1SektKV3A0blM4aFlQcElaamNnOU9WQQ?oc=5)
 

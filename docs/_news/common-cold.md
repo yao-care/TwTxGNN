@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。10 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。11 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>10 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>11 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [盧肯 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+2026-11-17
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+---
 
 ### [醫生教你三招 避免冬天罹患感冒或流感](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMV9xRU02OUJ6ZGZyRnJBSlZjSTliOUl5dUhWaDVlUjIwSDJzend5dmJmZmcwV3dDSEdiSkJ2N09oRFZPQnUydk9zZlcwMGJ6ZmNRREdWZjFWT0RQd2M0OVRR0gFnQVVfeXFMTzgyWXFocl9XWWFfODdtczQyTTBqMEV5MURnYTQwaUR2Tkl2QVVCLWRRWWRfdy0wZy1GMi0tUmhhZ1kwVjIweGxzdVgxUF9LSm1SektKV3A0blM4aFlQcElaamNnOU9WQQ?oc=5)
 

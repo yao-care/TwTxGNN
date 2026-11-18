@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（22 則）
 
 ### [郵票大小的“器官芯片”能模擬腫瘤生長 可同時培養癌細胞、血管和神經](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
 
@@ -53,6 +53,14 @@ last_modified_at: 2026-11-18
 
 ---
 
+### [光靠幸福企業仍不夠團險出現癌症保障缺口2025年癌症理賠申請人逾九成為40歲以上- 金融](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6bklqYzE1TkVCWVdMa3NCa20xa09hTDM0bU1wRDQ4Z3VvakhZZEhmMDNJc3U1N08tdWN4WVdOY3NnRXFFeHVhdmJCOEZyVERQWENENXpydzF3a3d0NkFj?oc=5)
+
+2026-11-18 <span class="news-indication-tag">癌症</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6bklqYzE1TkVCWVdMa3NCa20xa09hTDM0bU1wRDQ4Z3VvakhZZEhmMDNJc3U1N08tdWN4WVdOY3NnRXFFeHVhdmJCOEZyVERQWENENXpydzF3a3d0NkFj?oc=5)
+
+---
+
 ### [香腸、醬料都有！逾10萬人研究揭12種防腐劑與糖尿病有關 這6種與癌症相關 - TVBS 健康2.0](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHLXRidjBTcE9Hb080N3RKbnJCMDVzdG92N3NDX0RORVRCejVuckR1eHpYX1JTaVNUM2doOWMtTEs0Z1lXN19US1JFRkpPdjU5eFFJZ1dR?oc=5)
 
 2026-11-17 <span class="news-indication-tag">癌症</span>
@@ -66,6 +74,14 @@ last_modified_at: 2026-11-18
 2026-11-17 <span class="news-indication-tag">癌症</span>
 
 來源: [TVBS 健康2.0](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoNkdMczNlaGpveTB3V0lZaE9UZG5LdFAwaFc5UEhLaGpWc0ZjUl9PWWR2QVJaY1o3NnV4OFlFeG9OR1dLVjR3cncya2FrMXdIOWc?oc=5)
+
+---
+
+### [日本百萬解剖數據揭密 體內「潛在癌症」檢出率暴增逾四倍](https://news.google.com/rss/articles/CBMitgJBVV95cUxPb2N3cllvMG1OdjhZd2xBdFM0bjlXeXJCd0JVdVQ4LVRsYTdKT3RhclVzSmtRcXJSZGlvR01ZWGt1ZTZaZU83QjY1blZOVjNXWFEzRDNrVWVwRVJaMFBLZUtSMnU1N2s4OXpkZEtZYW5vS0c4MjhzU3dES2FGaTJxRzhNT0oyOGRGUXd5cldxOVBqSm9Kd0tCQm9vaUtzMTItTmlGRFdmNHIxMzN1a3pwZUx4VWpBel9PVW5nRE1IczQ0OTllYXY5Nl9vbHl2UmhfN3ptTkZZdGRqSkRMNGxGY0FRNi1ESFJScmhTRjhZY2Z2WTlwaG9tcGVTQlhDTGR6OF9qUWk1QlEwbmVIZEVYQXhEWlhjcUVxdzVkUllMTkNqNEtYQTFnUFJkVjZ2S2lIYkp0SXhB?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMitgJBVV95cUxPb2N3cllvMG1OdjhZd2xBdFM0bjlXeXJCd0JVdVQ4LVRsYTdKT3RhclVzSmtRcXJSZGlvR01ZWGt1ZTZaZU83QjY1blZOVjNXWFEzRDNrVWVwRVJaMFBLZUtSMnU1N2s4OXpkZEtZYW5vS0c4MjhzU3dES2FGaTJxRzhNT0oyOGRGUXd5cldxOVBqSm9Kd0tCQm9vaUtzMTItTmlGRFdmNHIxMzN1a3pwZUx4VWpBel9PVW5nRE1IczQ0OTllYXY5Nl9vbHl2UmhfN3ptTkZZdGRqSkRMNGxGY0FRNi1ESFJScmhTRjhZY2Z2WTlwaG9tcGVTQlhDTGR6OF9qUWk1QlEwbmVIZEVYQXhEWlhjcUVxdzVkUllMTkNqNEtYQTFnUFJkVjZ2S2lIYkp0SXhB?oc=5)
 
 ---
 
@@ -90,6 +106,14 @@ last_modified_at: 2026-11-18
 2026-11-16 <span class="news-indication-tag">腫瘤</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcFJTNEZHdUkzckhibVFoejJjSEVyUnFkWFNVQ0EzYlBtRElwZ3Q1am16ZVg2azdfZjhLUUR1eE9BRkF1TW8taVhnSXpkSTU0TFd5bHVGWjJDaXJaNjVSTi05eTY?oc=5)
+
+---
+
+### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5)
+
+2026-11-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5)
 
 ---
 
@@ -122,6 +146,14 @@ last_modified_at: 2026-11-18
 2026-11-13 <span class="news-indication-tag">癌症</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VdmQ3bC1rZV9TM3RCdW05VnQ3RVlDblpyeXhjNnlNM2F5bHVZc1VlSlE3c2Zpei1kRWJjcFc4RllQbGVqb1p2VDZBdlZPR0UyYTl0Q2VPUElhenR6NGh3?oc=5)
+
+---
+
+### [40幾歲確診卵巢癌二期！卡姐：不逼自己樂觀，我只專注讓每次化療過關](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNVFpKQktVZ082WTA2NHpxQVJMYjI2NXJkU25FLXVXNTZoUzY2V2I5b0ptbjdvOVFoRDU3cFAzVWNBQThCZEE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">卵巢癌</span>
+
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNVFpKQktVZ082WTA2NHpxQVJMYjI2NXJkU25FLXVXNTZoUzY2V2I5b0ptbjdvOVFoRDU3cFAzVWNBQThCZEE?oc=5)
 
 ---
 

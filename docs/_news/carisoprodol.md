@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [盧肯 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+2026-11-17 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+---
 
 ### [A型流感來勢洶洶！醫提醒別只靠退燒 出現症狀應及早就醫](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "肺癌 (small cell lung carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。1 則新聞、3 個相關藥物。"
+description: "肺癌 (small cell lung carcinoma) 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
 permalink: /news/small-cell-lung-carcinoma/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-18
 ---
 
 # 肺癌 (small cell lung carcinoma) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="肺癌 (small cell lung carcinoma) 有什麼相關新聞？">
-<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>1 則</strong>相關新聞報導，3 個相關藥物。
+<strong>肺癌 (small cell lung carcinoma)</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ last_modified_at: 2026-11-13
 </ul>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
 
 ### [柑橘、洋葱 含天然化合物 或有助抵抗肺癌細胞](https://news.google.com/rss/articles/CBMiygJBVV95cUxPak12OVBsVUZIUl9oNkU0RWtxbXZpZ3B5NmdadEFGcmhvY3lnVTd4RVA0VDB5VGtxb2tQb2JDcU9rcVEwc3EyLXpLQlhPWFlHamp0WXc5bUhHekdUc1IzSlNpZE5DanRFSG5YbWNmMnpNcm5zaWdvSlFSVERFOHJENFZKRGdpam1CVmMwVDNWcDl6aEphVmN0bkQ1TEdOU0RQaDdFd3J0YldpdmxONWc2TEFiUEd2SHhWU2ZhUHcxak14c0hyNDJ0el9wUzZLd3ZJSm5fVXl2bmd2a3FMbjd2X01lcjhIX0ZKTHdsVU41SWhZOXRLTDl1UkhWcDNjSFZBSWpGV3AxUExfaU0xU2pBQ2YwcGV0dlNya010eXB1SWNEWXNaemw1MWRKWkpVN0VaS3FENmE4LWxqUjJWcnJYRTlxbng5ZlByc2c?oc=5)
 
 2026-11-13
 
 來源: [AM730](https://news.google.com/rss/articles/CBMiygJBVV95cUxPak12OVBsVUZIUl9oNkU0RWtxbXZpZ3B5NmdadEFGcmhvY3lnVTd4RVA0VDB5VGtxb2tQb2JDcU9rcVEwc3EyLXpLQlhPWFlHamp0WXc5bUhHekdUc1IzSlNpZE5DanRFSG5YbWNmMnpNcm5zaWdvSlFSVERFOHJENFZKRGdpam1CVmMwVDNWcDl6aEphVmN0bkQ1TEdOU0RQaDdFd3J0YldpdmxONWc2TEFiUEd2SHhWU2ZhUHcxak14c0hyNDJ0el9wUzZLd3ZJSm5fVXl2bmd2a3FMbjd2X01lcjhIX0ZKTHdsVU41SWhZOXRLTDl1UkhWcDNjSFZBSWpGV3AxUExfaU0xU2pBQ2YwcGV0dlNya010eXB1SWNEWXNaemw1MWRKWkpVN0VaS3FENmE4LWxqUjJWcnJYRTlxbng5ZlByc2c?oc=5)
+
+---
+
+### [沙特醫療集團 為從未吸菸女性篩查肺癌](https://news.google.com/rss/articles/CBMiYkFVX3lxTE93NWQxMThXWXlSU2kyODZVSXMweEdiZWxxd3NjVnE5REhoRHBnNU1xMVJzUzVTTmQ1YTlaT2NzUGZhdDVOT1hjblUtYXIzS3pRTWVvUFNhNHhZWDhsQjJHMDF30gFnQVVfeXFMT21ybVNPLTlrQ3lIRXNsZTUtZG1tRDRXSTBBaUxWYUZDQWlQMUxaWHBRbFo1Z1JtUWxGNzFxZDhVWUtsdDJzWWpQWVZQSlNEdjctalFIY1Rwb3ZTV3FxUGVyTHRjSTdwWQ?oc=5)
+
+2026-11-12
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE93NWQxMThXWXlSU2kyODZVSXMweEdiZWxxd3NjVnE5REhoRHBnNU1xMVJzUzVTTmQ1YTlaT2NzUGZhdDVOT1hjblUtYXIzS3pRTWVvUFNhNHhZWDhsQjJHMDF30gFnQVVfeXFMT21ybVNPLTlrQ3lIRXNsZTUtZG1tRDRXSTBBaUxWYUZDQWlQMUxaWHBRbFo1Z1JtUWxGNzFxZDhVWUtsdDJzWWpQWVZQSlNEdjctalFIY1Rwb3ZTV3FxUGVyTHRjSTdwWQ?oc=5)
 
 ---
 

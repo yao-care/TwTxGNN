@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "阿茲海默症 (dementia) 相關新聞"
+title: "失智症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "失智症 (dementia) 的相關健康新聞報導。7 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
-# 阿茲海默症 (dementia) 相關新聞
+# 失智症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
+<strong>失智症 (dementia)</strong> 目前有 <strong>7 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（7 則）
+
+### [韓國研究團隊解開漸凍症與失智症神經細胞死亡路徑，抗氧化蛋白成關鍵 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMWptNlRlbjlBc2lvRGtYNjRXTlh3V1FrYUlvTGszWDV6cjZqMlE1bWI3YmtQbTJnZXJ4dHZEVy1lcHpOc3BHNEt3T09QcUVUUENRU2NZcktHRGhNLS1QaEZIdDBiYVNsRGNfbVZLc3J1ajlzajhqQ05n?oc=5)
+
+2026-11-18
+
+來源: [BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMWptNlRlbjlBc2lvRGtYNjRXTlh3V1FrYUlvTGszWDV6cjZqMlE1bWI3YmtQbTJnZXJ4dHZEVy1lcHpOc3BHNEt3T09QcUVUUENRU2NZcktHRGhNLS1QaEZIdDBiYVNsRGNfbVZLc3J1ajlzajhqQ05n?oc=5)
+
+---
+
+### [日本專家揭失智症防線 散步與社交竟比算數更護腦](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPZDNsalVFVDR4VDh4ZnlXY1E4cjJNcmtPVmhmQ0VQa2FIZF9pOHRHUG16RTRzczRlWmlsbFlnZzJ6UUVqeGZ2N2dGanAtNzE3X0gxSjhCSng0b01RUE9nMUNMeVBFVXRrTVNOcmR6c3p2RHY2Tnh3dGdNOU9vWS1teVJ1a0xQVDMtdlF2Y19fWjJSM0xZRHFJam4wTm9sZ1pwMFVxUG9VX09ia1AyT3hWcTFIUnBWN2tMa3NJZHd0Umx2WWQ4X2h6dzJlOG5nNS11eVZXWmtTM3RMbmdMNWswWVh0dmFySjctVGxfdlp5cFBIZWZXZ3BabHhSQ1hvYUJmODQyb0lUTVV5REwxUlJLS00xOGR5SE9mNTFfZnhqTFhJVDhETjNDWA?oc=5)
+
+2026-11-17
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPZDNsalVFVDR4VDh4ZnlXY1E4cjJNcmtPVmhmQ0VQa2FIZF9pOHRHUG16RTRzczRlWmlsbFlnZzJ6UUVqeGZ2N2dGanAtNzE3X0gxSjhCSng0b01RUE9nMUNMeVBFVXRrTVNOcmR6c3p2RHY2Tnh3dGdNOU9vWS1teVJ1a0xQVDMtdlF2Y19fWjJSM0xZRHFJam4wTm9sZ1pwMFVxUG9VX09ia1AyT3hWcTFIUnBWN2tMa3NJZHd0Umx2WWQ4X2h6dzJlOG5nNS11eVZXWmtTM3RMbmdMNWswWVh0dmFySjctVGxfdlp5cFBIZWZXZ3BabHhSQ1hvYUJmODQyb0lUTVV5REwxUlJLS00xOGR5SE9mNTFfZnhqTFhJVDhETjNDWA?oc=5)
+
+---
 
 ### [阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化 - TechNews 科技新報](https://news.google.com/rss/articles/CBMifEFVX3lxTFBuZWxmdWhCQVp5ZjYxVHhESHc1M3lBMU9XNGdjZmU1cEpieEFrUzdCRVhFZkNHM0FqWUNhVU1lcmRzOEJYWTZoYkUzWXhDT0xuWjFHaEpsZmV5ZnhQNXBRTHdrY2RSSDd6SFFybTlaMXd3dGNnYXpyRWtpSEU?oc=5)
 
