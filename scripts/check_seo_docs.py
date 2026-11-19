@@ -655,6 +655,9 @@ if _fx_bad:
 # 證據包漏收 DL 預測（2026-11-16；沒有 data/ 就略過，說明見 scripts/check_dl_coverage.py）
 from check_dl_coverage import check_errors as _dl_cov_errors  # noqa: E402
 errors += _dl_cov_errors()
+# 公開藥物頁的預測要在 search-index.json、有 drugbank_id 的要有 FHIR MedicationKnowledge（2026-11-19；說明見 scripts/check_search_index_coverage.py）
+from check_search_index_coverage import check_errors as _si_cov_errors  # noqa: E402
+errors += _si_cov_errors()
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
