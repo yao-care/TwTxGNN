@@ -46,10 +46,7 @@ TxGNN 模型預測它可能對**消化性潰瘍穿孔 (peptic ulcer perforation)
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 1.	糜爛性食道炎(EE)的治療及維持治療。
- 2.	治療胃潰瘍。
- 3.	治療十二指腸潰瘍。
- 4.	輔助根除幽門螺旋桿菌(Helicobacter pylori)。 |
+| 原適應症 | 1.	糜爛性食道炎(EE)的治療及維持治療。 2.	治療胃潰瘍。 3.	治療十二指腸潰瘍。 4.	輔助根除幽門螺旋桿菌(Helicobacter pylori)。 |
 
 | 預測新適應症 | 消化性潰瘍穿孔 (peptic ulcer perforation) |
 | TxGNN 預測分數 | 0.9997 |

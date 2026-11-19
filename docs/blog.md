@@ -100,6 +100,7 @@ permalink: /blog/
 ## 所有文章
 
 {% if site.posts.size > 0 %}
+
 | 日期 | 類型 | 標題 |
 |------|------|------|
 {% for post in site.posts %}| {{ post.date | date: "%Y-%m-%d" }} | {{ post.categories | first }} | [{{ post.title }}]({{ post.url | relative_url }}) |
