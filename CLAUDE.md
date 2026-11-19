@@ -1008,3 +1008,8 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - gate（`scripts/check_seo_docs.py`）第 6 項會擋：不屬於該藥的許可證字號、許可證表不是程式區塊、張數與快照不符、殘留開場白或「Evidence Pack」；另外被 superseded 的查核紀錄裡確認屬於本藥的字號（`asserted_license_ids`）必須都在程式表裡——比對漏同義名時會在這裡被擋下。
 - gate 第 7 項（2026-10-04 起）會擋：頁首等級不等於快速總覽最高等級、表格前面缺空行、上列衍生檔的等級與頁首不一致（或缺藥）、`COUNT_SPOTS` 裡寫死的藥物數或等級分布與 `drug_stats.json` 不符。
 - 「原適應症」列的交叉驗證：`python3 scripts/check_original_indications.py`，只把可疑頁寫進 `docs/_data/drug_reviews_uncertain.json`，不改頁面。
+
+## 說明頁與證據等級頁的在地資料（2026-11-19）
+
+用戶 2026-11-19 決定的第一批改版（母目錄 `.claude/gen_local_pages_20261119.py` 產生，不逐站手改）：說明頁（about／guide／sources／downloads／methodology，自有結構站只有證據等級頁與隱私頁）加本站資料區塊（`<!-- local-facts -->`）、證據等級頁的事實段與藥名表（`<!-- tier-facts -->`、`<!-- tier-table -->`）、隱私頁的適用法律／權利／著作權與資料來源段（`<!-- privacy-law -->`）；en／es／de 樣板站的共用長段落縮成一段（`<!-- local-condensed -->`）。
+資料檔 `docs/_data/local_facts.json`、`docs/_data/evidence_tier_facts.json` 由 `scripts/local_facts.py`（＝母目錄 `.claude/local_facts_lib.py`）依藥物頁、許可證快照、查核紀錄、FHIR 算；`apply_drug_reviews.py`、許可證快照程式結尾會自動 `--write`，`check_seo_docs.py` 跑 `--check` 擋過期。跨站欄位（cross：本站獨有預測、30 站中位數）與頁面區塊只由母目錄產生器更新；藥物頁改等級、noindex 或預測後要在母目錄重跑。

@@ -1,0 +1,547 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 292,
+ "level_counts": {
+  "L1": 2,
+  "L2": 13,
+  "L3": 9,
+  "L4": 15,
+  "L5": 236
+ },
+ "level_na": 17,
+ "public_pages": 292,
+ "licence_snapshot": "tfda_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 292,
+  "drugs_with_current": 281,
+  "drugs_none_current": 11,
+  "drugs_without_data": 0,
+  "drugs_partial": 0,
+  "items_total": 20342,
+  "items_current": 5750
+ },
+ "reviews": {
+  "records": 658,
+  "pages": 215,
+  "public_pages_with_records": 204,
+  "by_action": {
+   "annotate": 188,
+   "correct": 268,
+   "description_level": 45,
+   "header_level": 65,
+   "rereview": 41,
+   "rereview_result": 41,
+   "section": 10
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 292,
+  "clinical_use_definition": 1967
+ },
+ "top_licensed": [
+  {
+   "t": "Thiamine",
+   "u": "/drugs/thiamine/",
+   "l": "L5",
+   "lt": 2707,
+   "lv": 465,
+   "r": 0,
+   "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"
+  },
+  {
+   "t": "Guaiacol",
+   "u": "/drugs/guaiacol/",
+   "l": "L5",
+   "lt": 1080,
+   "lv": 368,
+   "r": 0,
+   "i": "nasal cavity disease"
+  },
+  {
+   "t": "Betamethasone",
+   "u": "/drugs/betamethasone/",
+   "l": "N/A",
+   "lt": 605,
+   "lv": 276,
+   "r": 6,
+   "i": "alopecia areata"
+  },
+  {
+   "t": "Aluminum Hydroxide",
+   "u": "/drugs/aluminum-hydroxide/",
+   "l": "N/A",
+   "lt": 849,
+   "lv": 218,
+   "r": 6,
+   "i": ""
+  },
+  {
+   "t": "Triamcinolone",
+   "u": "/drugs/triamcinolone/",
+   "l": "L4",
+   "lt": 463,
+   "lv": 199,
+   "r": 3,
+   "i": "alopecia mucinosa"
+  },
+  {
+   "t": "Ibuprofen",
+   "u": "/drugs/ibuprofen/",
+   "l": "L5",
+   "lt": 421,
+   "lv": 188,
+   "r": 0,
+   "i": "acromesomelic dysplasia, Hunter-Thompson type"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "l": "N/A",
+   "lt": 566,
+   "lv": 175,
+   "r": 6,
+   "i": "alopecia areata"
+  },
+  {
+   "t": "Camphor",
+   "u": "/drugs/camphor/",
+   "l": "L5",
+   "lt": 423,
+   "lv": 169,
+   "r": 7,
+   "i": "偏頭痛"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Aliskiren",
+   "u": "/drugs/aliskiren/",
+   "l": "L5",
+   "lt": 15,
+   "lv": 0,
+   "r": 1,
+   "i": "pulmonary hypertension owing to lung disease and/or hypoxia"
+  },
+  {
+   "t": "Ascorbyl Phosphate",
+   "u": "/drugs/ascorbyl-phosphate/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 6,
+   "i": "severe nonproliferative diabetic retinopathy"
+  },
+  {
+   "t": "Interferon Beta-1B",
+   "u": "/drugs/interferon-beta-1b/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 3,
+   "i": "毛細胞白血病"
+  },
+  {
+   "t": "Lorcaserin",
+   "u": "/drugs/lorcaserin/",
+   "l": "L5",
+   "lt": 2,
+   "lv": 0,
+   "r": 0,
+   "i": "高維生素症"
+  },
+  {
+   "t": "Norethindrone Enanthate",
+   "u": "/drugs/norethindrone-enanthate/",
+   "l": "N/A",
+   "lt": 1,
+   "lv": 0,
+   "r": 4,
+   "i": ""
+  },
+  {
+   "t": "Pefloxacin",
+   "u": "/drugs/pefloxacin/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 0,
+   "i": "heart conduction disease"
+  },
+  {
+   "t": "Pexidartinib",
+   "u": "/drugs/pexidartinib/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 2,
+   "i": "HER2 陽性乳癌"
+  },
+  {
+   "t": "Silicon Dioxide",
+   "u": "/drugs/silicon-dioxide/",
+   "l": "N/A",
+   "lt": 20,
+   "lv": 0,
+   "r": 10,
+   "i": ""
+  },
+  {
+   "t": "Sulfamerazine",
+   "u": "/drugs/sulfamerazine/",
+   "l": "L5",
+   "lt": 40,
+   "lv": 0,
+   "r": 2,
+   "i": "gout"
+  },
+  {
+   "t": "Sulfamethazine",
+   "u": "/drugs/sulfamethazine/",
+   "l": "L5",
+   "lt": 59,
+   "lv": 0,
+   "r": 2,
+   "i": "gout"
+  },
+  {
+   "t": "Vasopressin",
+   "u": "/drugs/vasopressin/",
+   "l": "L5",
+   "lt": 4,
+   "lv": 0,
+   "r": 1,
+   "i": "congenital prothrombin deficiency"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Magnesium Sulfate",
+   "u": "/drugs/magnesium-sulfate/",
+   "l": "L2",
+   "lt": 117,
+   "lv": 19,
+   "r": 16,
+   "i": "妊娠毒血症"
+  },
+  {
+   "t": "Ergometrine",
+   "u": "/drugs/ergometrine/",
+   "l": "L5",
+   "lt": 101,
+   "lv": 18,
+   "r": 15,
+   "i": "hypertrichosis (disease)"
+  },
+  {
+   "t": "Uracil",
+   "u": "/drugs/uracil/",
+   "l": "N/A",
+   "lt": 7,
+   "lv": 5,
+   "r": 13,
+   "i": "colonic neoplasm"
+  },
+  {
+   "t": "Carboplatin",
+   "u": "/drugs/carboplatin/",
+   "l": "L5",
+   "lt": 16,
+   "lv": 3,
+   "r": 12,
+   "i": "直腸黏液腺癌"
+  },
+  {
+   "t": "Cyclizine",
+   "u": "/drugs/cyclizine/",
+   "l": "L4",
+   "lt": 9,
+   "lv": 1,
+   "r": 12,
+   "i": "allergic urticaria"
+  },
+  {
+   "t": "Cromoglicic Acid",
+   "u": "/drugs/cromoglicic-acid/",
+   "l": "L5",
+   "lt": 46,
+   "lv": 13,
+   "r": 10,
+   "i": "潰瘍性直腸乙狀結腸炎"
+  }
+ ],
+ "example": {
+  "t": "Doxorubicin",
+  "u": "/drugs/doxorubicin/",
+  "l": "L1",
+  "lt": 28,
+  "lv": 7,
+  "r": 5,
+  "i": "尤文氏肉瘤"
+ },
+ "recent_reviews": [
+  {
+   "t": "Oxytetracycline",
+   "u": "/drugs/oxytetracycline/",
+   "s": "理由寫「目前台灣有效許可證僅 1 張口服膠囊，與外用劑型不符」",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Vinorelbine",
+   "u": "/drugs/vinorelbine/",
+   "s": "頁首證據等級",
+   "d": "2026-11-04"
+  },
+  {
+   "t": "Propantheline",
+   "u": "/drugs/propantheline/",
+   "s": "腸躁症 (Irritable Bowel Syndrome)（主預測）證據等級重審結果",
+   "d": "2026-11-04"
+  },
+  {
+   "t": "Pipemidic Acid",
+   "u": "/drugs/pipemidic-acid/",
+   "s": "心臟疾病 (Heart disease)（主預測）證據等級重審結果",
+   "d": "2026-11-04"
+  },
+  {
+   "t": "Omalizumab",
+   "u": "/drugs/omalizumab/",
+   "s": "頁首證據等級",
+   "d": "2026-11-04"
+  },
+  {
+   "t": "Lornoxicam",
+   "u": "/drugs/lornoxicam/",
+   "s": "偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果",
+   "d": "2026-11-04"
+  },
+  {
+   "t": "Lacosamide",
+   "u": "/drugs/lacosamide/",
+   "s": "躁症型雙相情感障礙（主預測）證據等級重審結果",
+   "d": "2026-11-04"
+  },
+  {
+   "t": "Conjugated Estrogens",
+   "u": "/drugs/conjugated-estrogens/",
+   "s": "偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果",
+   "d": "2026-11-04"
+  },
+  {
+   "t": "Zanubrutinib",
+   "u": "/drugs/zanubrutinib/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Vasopressin",
+   "u": "/drugs/vasopressin/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Uracil",
+   "u": "/drugs/uracil/",
+   "s": "頁首證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Trifluoperazine",
+   "u": "/drugs/trifluoperazine/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Tranexamic Acid",
+   "u": "/drugs/tranexamic-acid/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Trabectedin",
+   "u": "/drugs/trabectedin/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Tioconazole",
+   "u": "/drugs/tioconazole/",
+   "s": "外陰陰道炎 (Vulvovaginitis)預測重審結果（已核准用途，撤回）",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Terbutaline",
+   "u": "/drugs/terbutaline/",
+   "s": "阻塞性肺病 (Obstructive Lung Disease)預測重審結果（已核准用途，撤回）",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Salicylamide",
+   "u": "/drugs/salicylamide/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Rotigotine",
+   "u": "/drugs/rotigotine/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Riluzole",
+   "u": "/drugs/riluzole/",
+   "s": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)預測重審結果（已核准用途，撤回）",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Prednisone",
+   "u": "/drugs/prednisone/",
+   "s": "tenosynovitis（腱鞘炎）預測重審結果（已核准用途，撤回）",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Posaconazole",
+   "u": "/drugs/posaconazole/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Pitolisant",
+   "u": "/drugs/pitolisant/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Perindopril",
+   "u": "/drugs/perindopril/",
+   "s": "頁面描述（description）的證據等級",
+   "d": "2026-11-03"
+  },
+  {
+   "t": "Oteracil",
+   "u": "/drugs/oteracil/",
+   "s": "頁首證據等級",
+   "d": "2026-11-03"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Atracurium Besylate",
+   "u": "/drugs/atracurium-besylate/",
+   "s": "原適應症取自 cisatracurium 許可證原文",
+   "d": "2026-10-16"
+  }
+ ],
+ "files": {
+  "search_index": 292,
+  "drugs_json": 292
+ },
+ "by_level": {
+  "L1": {
+   "n": 2,
+   "current": 2
+  },
+  "L2": {
+   "n": 13,
+   "current": 13
+  },
+  "L3": {
+   "n": 9,
+   "current": 9
+  },
+  "L4": {
+   "n": 15,
+   "current": 15
+  },
+  "L5": {
+   "n": 236,
+   "current": 227
+  }
+ },
+ "cross": {
+  "unique_pairs": 126,
+  "unique_examples": [
+   {
+    "t": "Magnesium Sulfate",
+    "u": "/drugs/magnesium-sulfate/",
+    "i": "妊娠毒血症"
+   },
+   {
+    "t": "Prednisone",
+    "u": "/drugs/prednisone/",
+    "i": "tenosynovitis"
+   },
+   {
+    "t": "Ethynodiol Diacetate",
+    "u": "/drugs/ethynodiol-diacetate/",
+    "i": "acne (disease)"
+   },
+   {
+    "t": "Alpha-Tocopherol Succinate",
+    "u": "/drugs/alpha-tocopherol-succinate/",
+    "i": "drug-induced osteoporosis"
+   },
+   {
+    "t": "Alprostadil",
+    "u": "/drugs/alprostadil/",
+    "i": "tricuspid valve agenesis"
+   },
+   {
+    "t": "Anthralin",
+    "u": "/drugs/anthralin/",
+    "i": "光化性唇炎"
+   },
+   {
+    "t": "Ascorbyl Phosphate",
+    "u": "/drugs/ascorbyl-phosphate/",
+    "i": "severe nonproliferative diabetic retinopathy"
+   },
+   {
+    "t": "Cefmetazole",
+    "u": "/drugs/cefmetazole/",
+    "i": "多株性高黏滯症候群"
+   },
+   {
+    "t": "Choline Salicylate",
+    "u": "/drugs/choline-salicylate/",
+    "i": "rheumatoid arthritis"
+   },
+   {
+    "t": "Cyclandelate",
+    "u": "/drugs/cyclandelate/",
+    "i": "peripheral vascular disease"
+   },
+   {
+    "t": "Gabexate",
+    "u": "/drugs/gabexate/",
+    "i": "葛蘭茲曼氏血小板無力症"
+   },
+   {
+    "t": "Hydroxyprogesterone Caproate",
+    "u": "/drugs/hydroxyprogesterone-caproate/",
+    "i": "uterine corpus cancer"
+   },
+   {
+    "t": "Hydroxyurea",
+    "u": "/drugs/hydroxyurea/",
+    "i": "sickle cell-beta-thalassemia disease syndrome"
+   },
+   {
+    "t": "Levamisole",
+    "u": "/drugs/levamisole/",
+    "i": "inner ear neoplasm"
+   },
+   {
+    "t": "Lutetium Lu 177 Dotatate",
+    "u": "/drugs/lutetium-lu-177-dotatate/",
+    "i": "垂體性侏儒症"
+   },
+   {
+    "t": "Methylprednisone",
+    "u": "/drugs/methylprednisone/",
+    "i": "leprosy"
+   }
+  ]
+ }
+}

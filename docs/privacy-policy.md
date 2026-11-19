@@ -162,6 +162,35 @@ TwTxGNN 是開源專案，您可以檢視完整的程式碼：
 
 ---
 
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## 適用法律
+
+台灣訪客適用[個人資料保護法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0050021)。依 2023 年增訂條文，主管機關為個人資料保護委員會（目前由[個人資料保護委員會籌備處](https://www.pdpc.gov.tw/)推動設立），非公務機關仍由各目的事業主管機關監督。本站不收集姓名、電子郵件或病歷，涉及的個人資料只有 Google Analytics 4 透過分析 cookie 收集的瀏覽統計，由 Google 在境外處理。
+
+## 您的權利與行使方式
+
+- 查詢、請求閱覽或製給複製本（第 3 條）。
+- 請求補充或更正（第 3 條）。
+- 請求停止蒐集、處理或利用，或請求刪除；封鎖分析 cookie 也能停止被收集。
+- 對處理方式有疑義時，可向主管機關陳情。
+
+請求與詢問：service@yao.care。本站沒有帳號系統，Google Analytics 保存的資料需要您提供足夠資訊（例如造訪日期與頁面）我們才能處理；您也可以隨時在瀏覽器封鎖或刪除分析 cookie。
+
+## 著作權與資料來源
+
+本站文字受[著作權法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0070017)保護。 本站程式碼依 MIT 授權公開於 [GitHub 儲存庫](https://github.com/yao-care/TwTxGNN)；報告文字著作權屬藥提醒科技有限公司 (yao.care)。
+
+本站使用的資料來源與其條款：
+
+- **TxGNN** 預測資料（Harvard Dataverse）：CC0 1.0 公眾領域貢獻宣告；引用請註明 Huang et al., *Nature Medicine* 2024。
+- **ClinicalTrials.gov** 與 **PubMed**：美國國家醫學圖書館，見 [ClinicalTrials.gov 條款](https://clinicaltrials.gov/about-site/terms-conditions)與 [NCBI 政策](https://www.ncbi.nlm.nih.gov/home/about/policies/)（部分 PubMed 摘要著作權仍屬出版者）。
+- **DrugBank** 識別碼與藥物資料：依 [DrugBank](https://go.drugbank.com/) 授權條款（非商業用途）。
+- **本地資料集**：[食藥署開放資料第 36 號「全部藥品許可證資料集」](https://data.fda.gov.tw/data/opendata/export/36/json), 由 衛生福利部食品藥物管理署 發布，再利用依發布者的條款，本站不另外授予權利。
+
+<!-- privacy-law:end -->
+
+---
+
 ## 政策變更
 
 如果本隱私權政策有重大變更，我們將：
