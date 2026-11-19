@@ -3,7 +3,7 @@ layout: default
 title: "心梗 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心梗 (myocardial infarction) 的相關健康新聞報導。9 則新聞、1 個相關藥物。"
+description: "心梗 (myocardial infarction) 的相關健康新聞報導。10 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
-<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>9 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>10 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
+
+### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
+
+2026-11-19
+
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
+
+---
 
 ### [秋冬流感威脅不容輕忽！ 高齡長者慎防肺炎、失能風險 醫師籲主動升級疫苗](https://news.google.com/rss/articles/CBMiywNBVV95cUxNTDhORDQzcmVmMW1RSVZjLUYtc2lCWVVnRUhtYUxnX3A2TzFUQmxCUnN2YUxHLTl6NVI2MWdxRUNxS1Q2cEs1emxzUC1EUXgtYTlmTXprSUlLaVdlNHdDQXRxcU9XRzNRY1htMmdRc0k0Zk5XbHFKa1pTSDI2Z1BfWmloOU9CQU91X0NZM2VMQXRQTXhNOHRDUWlWYUxqQUl1dHk5dmFPRV9Xa0ZZTGtrYkNlVXhLRWF3VnM0dmpiYnlkU3NjR3RNc08wSmx1dkQyUFlVanpJdXBCZ1N3YzUwX1REX0JaQURKNC16MklnUmFwNklfTUF6SktRRlhobFdkZ1p0bW42R0dOVGo4bFRnRkRtTktkRHh2a21DNi1ITnoxZEEtOVpQNkU5bk4zakZXUTJOenc1WFVNVUtPdGFFeGZLb3o3M0U4My10OUs2MkFDVTAwSTFyYUE2Y3A2LU5lT1ZaXzlaTFl2YkFkakZva182OGJFQ3J5bk1uaUd4amJDTnQwMHU3YlJ6OFhDM1pDREt1NXVRMlRzbkVjaXpoUHloeTFOWVhiUnhxTHlEcHZyN0Z2NXdFRGFoNUNZZDZVSUQxSTVXLUo2elk?oc=5)
 
