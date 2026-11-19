@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [痛風病例激增 醫師：做這3件事能減低發作風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcF9mU3RYelBPR2MwcFJCd2d4T0V2cGJ6djd5TGtNRGpSMzh3cXh0eVFEb2RkSkphRHhiSldad2JNU3lTNTdudDVLQlJ5R3JqVC1SVEJsYWo4VlNuWXN0bEJR0gFnQVVfeXFMTmVfMzY0MVhtYjBrU3gwcUNuTTdpeVFENHdoMGE1OEJmN3RnZzBianQ2N2lmTDdkM1dmRVZoaGZjTmxTc1l1c2ItWjd3Znd1djUzUkk2REZiaEZpNUxBUnl0cXRURFhycw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">痛風</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcF9mU3RYelBPR2MwcFJCd2d4T0V2cGJ6djd5TGtNRGpSMzh3cXh0eVFEb2RkSkphRHhiSldad2JNU3lTNTdudDVLQlJ5R3JqVC1SVEJsYWo4VlNuWXN0bEJR0gFnQVVfeXFMTmVfMzY0MVhtYjBrU3gwcUNuTTdpeVFENHdoMGE1OEJmN3RnZzBianQ2N2lmTDdkM1dmRVZoaGZjTmxTc1l1c2ItWjd3Znd1djUzUkk2REZiaEZpNUxBUnl0cXRURFhycw?oc=5)
+
+---
 
 ### [新證據對薑黃改善膝部骨關節炎的效益提出質疑](https://news.google.com/rss/articles/CBMic0FVX3lxTE81cHpWZGJPUVNyc0QtSi0xNGtnS0g5RzA5MU5pUHVXWGRNSUZMOUVrUy15SnloZ3VMV2lXTFNiTFJudXNmdFdaR0JzRnlwMFotN1hnT3hGeVdFODE0NW4xakVtSmlJQ1hJaS15TzFkcTZzeVk?oc=5)
 

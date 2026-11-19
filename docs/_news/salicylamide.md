@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（16 則）
+
+### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
+
+---
+
+### [別把新冠當感冒！2025新冠高峰重症/死亡數是年底流感季3倍？醫點名高風險族群必做一件事保命](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">感冒</span>
+
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
+
+---
 
 ### [過敏人秒懂！醫揭「過敏vs感冒」3大差異](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaQUJmQk8zal9qZlU2VExhcUhfbWF5eXd4MWRxS3lycHFPN1dwU0VMRFF5eFA2aGJtMmVLemU4SU5YTnBFaFJNY1lzSENxT1c2cUhV?oc=5)
 
