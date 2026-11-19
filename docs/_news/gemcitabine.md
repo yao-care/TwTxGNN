@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gemcitabine 的相關健康新聞報導。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾...。預測適應症 8 個。"
 permalink: /news/gemcitabine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Gemcitabine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Gemcitabine</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（24 則）
 
 ### [郵票大小的“器官芯片”能模擬腫瘤生長 可同時培養癌細胞、血管和神經](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
 
@@ -64,6 +64,14 @@ last_modified_at: 2026-11-18
 2026-11-18 <span class="news-indication-tag">癌症</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6bklqYzE1TkVCWVdMa3NCa20xa09hTDM0bU1wRDQ4Z3VvakhZZEhmMDNJc3U1N08tdWN4WVdOY3NnRXFFeHVhdmJCOEZyVERQWENENXpydzF3a3d0NkFj?oc=5)
+
+---
+
+### [癌症免疫治療部分高脂飲食竟讓療效更好- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
 
 ---
 
@@ -104,6 +112,14 @@ last_modified_at: 2026-11-18
 2026-11-16 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+---
+
+### [吃純素恐增大腸癌風險牛津研究揭關鍵- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMUE5ODBIZnYtT3BlN0Ruby1SNjZlZHVPZmdEM2FXaklWZlFtU1dDQWhnUno1SzdRY0ZkLTdQZVpmU09rWWRSNG12SXdsZkxwVzBkQko2Z19WNkFoYi12WGtNYVEwZw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMUE5ODBIZnYtT3BlN0Ruby1SNjZlZHVPZmdEM2FXaklWZlFtU1dDQWhnUno1SzdRY0ZkLTdQZVpmU09rWWRSNG12SXdsZkxwVzBkQko2Z19WNkFoYi12WGtNYVEwZw?oc=5)
 
 ---
 

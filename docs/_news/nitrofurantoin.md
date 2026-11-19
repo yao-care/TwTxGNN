@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Nitrofurantoin 的相關健康新聞報導。原適應症：腎盂炎、膀胱炎、淋病、尿路感染症。預測適應症 10 個。"
 permalink: /news/nitrofurantoin/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 ---
 
 # Nitrofurantoin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Nitrofurantoin 有什麼相關新聞？">
-<strong>Nitrofurantoin</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Nitrofurantoin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -28,7 +28,7 @@ last_modified_at: 2026-11-17
 <li><strong>原適應症</strong>: 腎盂炎、膀胱炎、淋病、尿路感染症</li>
 <li><strong>證據等級</strong>: L5</li>
 <li><strong>預測適應症（10 個）</strong>:<ul>
-<li>rheumatoid arthritis</li>
+<li class="indication-matched">rheumatoid arthritis<span class="indication-tag">📰 關節炎</span></li>
 <li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome</li>
 <li>brain small vessel disease 1 with or without ocular anomalies</li>
 <li>diabetic nephropathy</li>
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/nitrofurantoin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [新證據對薑黃改善膝部骨關節炎的效益提出質疑](https://news.google.com/rss/articles/CBMic0FVX3lxTE81cHpWZGJPUVNyc0QtSi0xNGtnS0g5RzA5MU5pUHVXWGRNSUZMOUVrUy15SnloZ3VMV2lXTFNiTFJudXNmdFdaR0JzRnlwMFotN1hnT3hGeVdFODE0NW4xakVtSmlJQ1hJaS15TzFkcTZzeVk?oc=5)
+
+2026-11-19 <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">骨關節炎</span>
+
+來源: [EurekAlert!](https://news.google.com/rss/articles/CBMic0FVX3lxTE81cHpWZGJPUVNyc0QtSi0xNGtnS0g5RzA5MU5pUHVXWGRNSUZMOUVrUy15SnloZ3VMV2lXTFNiTFJudXNmdFdaR0JzRnlwMFotN1hnT3hGeVdFODE0NW4xakVtSmlJQ1hJaS15TzFkcTZzeVk?oc=5)
+
+---
 
 ### [全球痛風患者2050年恐近億 肥胖增風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qb0owMVZHekdrOHRPSk9XYjdhRU9HTEFVeUFxTFZCSEJJMXQ4Y2doOUZzX1Jac0FmUEdVVllfc0N3RTQxbkZmMlp0TTlKTEdsM2VlWGlMaFIycXEyLTV4NjlR0gFnQVVfeXFMTkRkc1ZhSVpEYU5mZmFTeUJyZzBvOVItenplUUt4QS05VFZ5M29NOEZHcFZkaHRRV0U4cGZTOVpHWVdfYWs5X1pOTWtRdXAweU9EbHUxWktsa3dMTFpoWXB2ZnRFVEFnWQ?oc=5)
 

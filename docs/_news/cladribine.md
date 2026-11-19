@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cladribine 的相關健康新聞報導。原適應症：復發型多發性硬化症（臨床上有發作，且前二年有二次復發者）。預測適應症 7 個。"
 permalink: /news/cladribine/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Cladribine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（16 則）
 
 ### [郵票大小的“器官芯片”能模擬腫瘤生長 可同時培養癌細胞、血管和神經](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
 
@@ -63,6 +63,14 @@ last_modified_at: 2026-11-18
 2026-11-18 <span class="news-indication-tag">癌症</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6bklqYzE1TkVCWVdMa3NCa20xa09hTDM0bU1wRDQ4Z3VvakhZZEhmMDNJc3U1N08tdWN4WVdOY3NnRXFFeHVhdmJCOEZyVERQWENENXpydzF3a3d0NkFj?oc=5)
+
+---
+
+### [癌症免疫治療部分高脂飲食竟讓療效更好- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
 
 ---
 

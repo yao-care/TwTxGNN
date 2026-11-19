@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "直腸癌 (colonic neoplasm) 相關新聞"
+title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "直腸癌 (colonic neoplasm) 的相關健康新聞報導。5 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 ---
 
-# 直腸癌 (colonic neoplasm) 相關新聞
+# 大腸癌 (colonic neoplasm) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="直腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>直腸癌 (colonic neoplasm)</strong> 目前有 <strong>5 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「直腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛](https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5)
 
 2026-11-17
 
 來源: [香港01](https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5)
+
+---
+
+### [吃純素恐增大腸癌風險牛津研究揭關鍵- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMUE5ODBIZnYtT3BlN0Ruby1SNjZlZHVPZmdEM2FXaklWZlFtU1dDQWhnUno1SzdRY0ZkLTdQZVpmU09rWWRSNG12SXdsZkxwVzBkQko2Z19WNkFoYi12WGtNYVEwZw?oc=5)
+
+2026-11-16
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMUE5ODBIZnYtT3BlN0Ruby1SNjZlZHVPZmdEM2FXaklWZlFtU1dDQWhnUno1SzdRY0ZkLTdQZVpmU09rWWRSNG12SXdsZkxwVzBkQko2Z19WNkFoYi12WGtNYVEwZw?oc=5)
 
 ---
 

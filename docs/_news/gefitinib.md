@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 9 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Gefitinib 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
 
 ### [郵票大小的“器官芯片”能模擬腫瘤生長 可同時培養癌細胞、血管和神經](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
 
@@ -73,6 +73,14 @@ last_modified_at: 2026-11-18
 2026-11-18 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源: [BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMWptNlRlbjlBc2lvRGtYNjRXTlh3V1FrYUlvTGszWDV6cjZqMlE1bWI3YmtQbTJnZXJ4dHZEVy1lcHpOc3BHNEt3T09QcUVUUENRU2NZcktHRGhNLS1QaEZIdDBiYVNsRGNfbVZLc3J1ajlzajhqQ05n?oc=5)
+
+---
+
+### [癌症免疫治療部分高脂飲食竟讓療效更好- 醫藥新知- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carisoprodol 的相關健康新聞報導。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。預測適應症 1 個。"
 permalink: /news/carisoprodol/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Carisoprodol 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（5 則）
+
+### [新證據對薑黃改善膝部骨關節炎的效益提出質疑](https://news.google.com/rss/articles/CBMic0FVX3lxTE81cHpWZGJPUVNyc0QtSi0xNGtnS0g5RzA5MU5pUHVXWGRNSUZMOUVrUy15SnloZ3VMV2lXTFNiTFJudXNmdFdaR0JzRnlwMFotN1hnT3hGeVdFODE0NW4xakVtSmlJQ1hJaS15TzFkcTZzeVk?oc=5)
+
+2026-11-19 <span class="news-indication-tag">關節炎</span> <span class="news-indication-tag">骨關節炎</span>
+
+來源: [EurekAlert!](https://news.google.com/rss/articles/CBMic0FVX3lxTE81cHpWZGJPUVNyc0QtSi0xNGtnS0g5RzA5MU5pUHVXWGRNSUZMOUVrUy15SnloZ3VMV2lXTFNiTFJudXNmdFdaR0JzRnlwMFotN1hnT3hGeVdFODE0NW4xakVtSmlJQ1hJaS15TzFkcTZzeVk?oc=5)
+
+---
+
+### [Al Qoubaiyat 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMihgFBVV95cUxONjREa0tvcWtia1JYVGR0ZTFRcTcxTE9XWEM0R0kyT0tSQ25JN2xYZmppa0NvNThFNGRPT0NXRXo1bmFwbGhqemJMWC1zcVBsTzlwVk9VbmY0eXNOZ0tvS0FpOWJzaWQ5R1cxd3ROQ2dzaTVRUHVDZk1jYjlxRzJKbW5ZdWY4dw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMihgFBVV95cUxONjREa0tvcWtia1JYVGR0ZTFRcTcxTE9XWEM0R0kyT0tSQ25JN2xYZmppa0NvNThFNGRPT0NXRXo1bmFwbGhqemJMWC1zcVBsTzlwVk9VbmY0eXNOZ0tvS0FpOWJzaWQ5R1cxd3ROQ2dzaTVRUHVDZk1jYjlxRzJKbW5ZdWY4dw?oc=5)
+
+---
 
 ### [盧肯 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
 
