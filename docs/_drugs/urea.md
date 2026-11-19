@@ -5,7 +5,7 @@ parent: 僅已知用途／主預測已撤回
 nav_order: 296
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-12
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
