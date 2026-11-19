@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Anastrozole 有什麼相關新聞？">
-<strong>Anastrozole</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Anastrozole</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/anastrozole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
 
 ### [郵票大小的“器官芯片”能模擬腫瘤生長 可同時培養癌細胞、血管和神經](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
 
@@ -69,6 +69,14 @@ last_modified_at: 2026-11-19
 2026-11-17 <span class="news-indication-tag">癌症</span>
 
 來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
+
+---
+
+### [攝護腺癌篩檢指引16年首更！家族史提前至45歲 健保條件一次看](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUjlqVktLeGRReFJXTnZmcWMyQ2pXMExQa3c3MER0TTUxOWN1UjNuYXIwMXRoSUdabFpPNjlka2lRLTc0cjhrWUpYQ3ZVQTJt?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUjlqVktLeGRReFJXTnZmcWMyQ2pXMExQa3c3MER0TTUxOWN1UjNuYXIwMXRoSUdabFpPNjlka2lRLTc0cjhrWUpYQ3ZVQTJt?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "腫瘤 (generic_cancer) 相關新聞"
+title: "癌症 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。16 則新聞、47 個相關藥物。"
+description: "癌症 (generic_cancer) 的相關健康新聞報導。17 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-19
 ---
 
-# 腫瘤 (generic_cancer) 相關新聞
+# 癌症 (generic_cancer) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>16 則</strong>相關新聞報導，47 個相關藥物。
+<p class="key-answer" data-question="癌症 (generic_cancer) 有什麼相關新聞？">
+<strong>癌症 (generic_cancer)</strong> 目前有 <strong>17 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「腫瘤」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「癌症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -76,7 +76,7 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
 
 ### [郵票大小的“器官芯片”能模擬腫瘤生長 可同時培養癌細胞、血管和神經](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0RiT051elllbTlCUnZUa0U3c09KLXdLVWFzWURQSm03RF9pVTVaZURCWVJKRTJSREhXZDlWY2VqaE5JVGJvbWp1TWVmSUlPTXJGMlk3YnhGaGgtR0NGRmVPM01MMlFCUVluWUlzRi0taUlOWkNjX3AtV2ZfRzVMOUZCeGc3dHhHRFM1VjBJTXY?oc=5)
 
@@ -107,6 +107,14 @@ last_modified_at: 2026-11-19
 2026-11-17
 
 來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IanpWdVdMMjN1U1BQZ2RiNnE1anBvVnJOSUZONW9UODJqTThQcjBCSlIySlB6WkxkcVFGejZDWXllZ2p6MHY2UGNxQWpCb3BQMjBHTlJTREFveVBuLUhzd3pXN1BMZw?oc=5)
+
+---
+
+### [攝護腺癌篩檢指引16年首更！家族史提前至45歲 健保條件一次看](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUjlqVktLeGRReFJXTnZmcWMyQ2pXMExQa3c3MER0TTUxOWN1UjNuYXIwMXRoSUdabFpPNjlka2lRLTc0cjhrWUpYQ3ZVQTJt?oc=5)
+
+2026-11-17
+
+來源: [TVBS新聞網](https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xUjlqVktLeGRReFJXTnZmcWMyQ2pXMExQa3c3MER0TTUxOWN1UjNuYXIwMXRoSUdabFpPNjlka2lRLTc0cjhrWUpYQ3ZVQTJt?oc=5)
 
 ---
 

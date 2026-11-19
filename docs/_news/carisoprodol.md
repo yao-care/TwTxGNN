@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [秋冬流感威脅不容輕忽！ 高齡長者慎防肺炎、失能風險 醫師籲主動升級疫苗](https://news.google.com/rss/articles/CBMiywNBVV95cUxNTDhORDQzcmVmMW1RSVZjLUYtc2lCWVVnRUhtYUxnX3A2TzFUQmxCUnN2YUxHLTl6NVI2MWdxRUNxS1Q2cEs1emxzUC1EUXgtYTlmTXprSUlLaVdlNHdDQXRxcU9XRzNRY1htMmdRc0k0Zk5XbHFKa1pTSDI2Z1BfWmloOU9CQU91X0NZM2VMQXRQTXhNOHRDUWlWYUxqQUl1dHk5dmFPRV9Xa0ZZTGtrYkNlVXhLRWF3VnM0dmpiYnlkU3NjR3RNc08wSmx1dkQyUFlVanpJdXBCZ1N3YzUwX1REX0JaQURKNC16MklnUmFwNklfTUF6SktRRlhobFdkZ1p0bW42R0dOVGo4bFRnRkRtTktkRHh2a21DNi1ITnoxZEEtOVpQNkU5bk4zakZXUTJOenc1WFVNVUtPdGFFeGZLb3o3M0U4My10OUs2MkFDVTAwSTFyYUE2Y3A2LU5lT1ZaXzlaTFl2YkFkakZva182OGJFQ3J5bk1uaUd4amJDTnQwMHU3YlJ6OFhDM1pDREt1NXVRMlRzbkVjaXpoUHloeTFOWVhiUnhxTHlEcHZyN0Z2NXdFRGFoNUNZZDZVSUQxSTVXLUo2elk?oc=5)
+
+2026-11-19 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiywNBVV95cUxNTDhORDQzcmVmMW1RSVZjLUYtc2lCWVVnRUhtYUxnX3A2TzFUQmxCUnN2YUxHLTl6NVI2MWdxRUNxS1Q2cEs1emxzUC1EUXgtYTlmTXprSUlLaVdlNHdDQXRxcU9XRzNRY1htMmdRc0k0Zk5XbHFKa1pTSDI2Z1BfWmloOU9CQU91X0NZM2VMQXRQTXhNOHRDUWlWYUxqQUl1dHk5dmFPRV9Xa0ZZTGtrYkNlVXhLRWF3VnM0dmpiYnlkU3NjR3RNc08wSmx1dkQyUFlVanpJdXBCZ1N3YzUwX1REX0JaQURKNC16MklnUmFwNklfTUF6SktRRlhobFdkZ1p0bW42R0dOVGo4bFRnRkRtTktkRHh2a21DNi1ITnoxZEEtOVpQNkU5bk4zakZXUTJOenc1WFVNVUtPdGFFeGZLb3o3M0U4My10OUs2MkFDVTAwSTFyYUE2Y3A2LU5lT1ZaXzlaTFl2YkFkakZva182OGJFQ3J5bk1uaUd4amJDTnQwMHU3YlJ6OFhDM1pDREt1NXVRMlRzbkVjaXpoUHloeTFOWVhiUnhxTHlEcHZyN0Z2NXdFRGFoNUNZZDZVSUQxSTVXLUo2elk?oc=5)
+
+---
 
 ### [新證據對薑黃改善膝部骨關節炎的效益提出質疑](https://news.google.com/rss/articles/CBMic0FVX3lxTE81cHpWZGJPUVNyc0QtSi0xNGtnS0g5RzA5MU5pUHVXWGRNSUZMOUVrUy15SnloZ3VMV2lXTFNiTFJudXNmdFdaR0JzRnlwMFotN1hnT3hGeVdFODE0NW4xakVtSmlJQ1hJaS15TzFkcTZzeVk?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Treprostinil 的相關健康新聞報導。原適應症：特發性或遺傳性肺動脈高壓(WHO functional class III 及IV); 治療特發性或...。預測適應症 5 個。"
 permalink: /news/treprostinil/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # Treprostinil 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="Treprostinil 有什麼相關新聞？">
-<strong>Treprostinil</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 5 個。
+<strong>Treprostinil</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 5 個。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/treprostinil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（4 則）
+## 相關新聞（5 則）
+
+### [心臟病｜6旬男耳朵兩個特徵以為有福 驚揭心肌缺氧險梗塞 自測耳仔出現「求救線」心臟病風險高1.4倍 - myTV SUPER](https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">心臟病</span>
+
+來源: [myTV SUPER](https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5)
+
+---
 
 ### [阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊 - LINE TODAY](https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5)
 

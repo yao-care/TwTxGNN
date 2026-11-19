@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。12 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。14 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>12 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>14 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
+
+### [過敏人秒懂！醫揭「過敏vs感冒」3大差異](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaQUJmQk8zal9qZlU2VExhcUhfbWF5eXd4MWRxS3lycHFPN1dwU0VMRFF5eFA2aGJtMmVLemU4SU5YTnBFaFJNY1lzSENxT1c2cUhV?oc=5)
+
+2026-11-19
+
+來源: [造咖](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaQUJmQk8zal9qZlU2VExhcUhfbWF5eXd4MWRxS3lycHFPN1dwU0VMRFF5eFA2aGJtMmVLemU4SU5YTnBFaFJNY1lzSENxT1c2cUhV?oc=5)
+
+---
+
+### [秋冬流感威脅不容輕忽！ 高齡長者慎防肺炎、失能風險 醫師籲主動升級疫苗](https://news.google.com/rss/articles/CBMiywNBVV95cUxNTDhORDQzcmVmMW1RSVZjLUYtc2lCWVVnRUhtYUxnX3A2TzFUQmxCUnN2YUxHLTl6NVI2MWdxRUNxS1Q2cEs1emxzUC1EUXgtYTlmTXprSUlLaVdlNHdDQXRxcU9XRzNRY1htMmdRc0k0Zk5XbHFKa1pTSDI2Z1BfWmloOU9CQU91X0NZM2VMQXRQTXhNOHRDUWlWYUxqQUl1dHk5dmFPRV9Xa0ZZTGtrYkNlVXhLRWF3VnM0dmpiYnlkU3NjR3RNc08wSmx1dkQyUFlVanpJdXBCZ1N3YzUwX1REX0JaQURKNC16MklnUmFwNklfTUF6SktRRlhobFdkZ1p0bW42R0dOVGo4bFRnRkRtTktkRHh2a21DNi1ITnoxZEEtOVpQNkU5bk4zakZXUTJOenc1WFVNVUtPdGFFeGZLb3o3M0U4My10OUs2MkFDVTAwSTFyYUE2Y3A2LU5lT1ZaXzlaTFl2YkFkakZva182OGJFQ3J5bk1uaUd4amJDTnQwMHU3YlJ6OFhDM1pDREt1NXVRMlRzbkVjaXpoUHloeTFOWVhiUnhxTHlEcHZyN0Z2NXdFRGFoNUNZZDZVSUQxSTVXLUo2elk?oc=5)
+
+2026-11-19
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiywNBVV95cUxNTDhORDQzcmVmMW1RSVZjLUYtc2lCWVVnRUhtYUxnX3A2TzFUQmxCUnN2YUxHLTl6NVI2MWdxRUNxS1Q2cEs1emxzUC1EUXgtYTlmTXprSUlLaVdlNHdDQXRxcU9XRzNRY1htMmdRc0k0Zk5XbHFKa1pTSDI2Z1BfWmloOU9CQU91X0NZM2VMQXRQTXhNOHRDUWlWYUxqQUl1dHk5dmFPRV9Xa0ZZTGtrYkNlVXhLRWF3VnM0dmpiYnlkU3NjR3RNc08wSmx1dkQyUFlVanpJdXBCZ1N3YzUwX1REX0JaQURKNC16MklnUmFwNklfTUF6SktRRlhobFdkZ1p0bW42R0dOVGo4bFRnRkRtTktkRHh2a21DNi1ITnoxZEEtOVpQNkU5bk4zakZXUTJOenc1WFVNVUtPdGFFeGZLb3o3M0U4My10OUs2MkFDVTAwSTFyYUE2Y3A2LU5lT1ZaXzlaTFl2YkFkakZva182OGJFQ3J5bk1uaUd4amJDTnQwMHU3YlJ6OFhDM1pDREt1NXVRMlRzbkVjaXpoUHloeTFOWVhiUnhxTHlEcHZyN0Z2NXdFRGFoNUNZZDZVSUQxSTVXLUo2elk?oc=5)
+
+---
 
 ### [Al Qoubaiyat 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMihgFBVV95cUxONjREa0tvcWtia1JYVGR0ZTFRcTcxTE9XWEM0R0kyT0tSQ25JN2xYZmppa0NvNThFNGRPT0NXRXo1bmFwbGhqemJMWC1zcVBsTzlwVk9VbmY0eXNOZ0tvS0FpOWJzaWQ5R1cxd3ROQ2dzaTVRUHVDZk1jYjlxRzJKbW5ZdWY4dw?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Nystatin 的相關健康新聞報導。原適應症：抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道...。預測適應症 9 個。"
 permalink: /news/nystatin/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-19
 ---
 
 # Nystatin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Nystatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [更年期少吃肚子也難消 營養師推食物保肌防復胖](https://news.google.com/rss/articles/CBMiREFVX3lxTE9oS2F6TUlmNmo0ZWZvS1EySWQzQjhfeG1JbldJQkJ2bmtjLVF2Y3dLc2FRdnEtX2VzemJ2RnMzVno2TWl4?oc=5)
+
+2026-11-19 <span class="news-indication-tag">更年期</span>
+
+來源: [全國旅遊時報](https://news.google.com/rss/articles/CBMiREFVX3lxTE9oS2F6TUlmNmo0ZWZvS1EySWQzQjhfeG1JbldJQkJ2bmtjLVF2Y3dLc2FRdnEtX2VzemJ2RnMzVno2TWl4?oc=5)
+
+---
 
 ### [58歲婦人車禍後突發「心碎症候群」！醫師提醒：更年期女性別忽略心血管健康](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwV1NUX3FGU25ndTFQQzBxQjlMdl8wU0RkeEh1OG42c2pfZUt4c3Nzc2Exbkk3X19aVXpSUlJBWVpXOUwwY0hPRWh6Zy1WMTVlSkJwMjE4ZkFZQdIBX0FVX3lxTE0yTjJma1BzM29LZE95ZEVncWxuQ0ZOUEdCZUpPU3lOV0RPdUVMM2ZWa0h0WmZHUlBxUG1nU2d4ZW1lQUEtMTBHcDNtLS1ocE9QeGJHeEo1anctZnlHYzV3?oc=5)
 
