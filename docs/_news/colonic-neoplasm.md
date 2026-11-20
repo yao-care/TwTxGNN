@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "直腸癌 (colonic neoplasm) 相關新聞"
+title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "直腸癌 (colonic neoplasm) 的相關健康新聞報導。6 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。7 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
 last_modified_at: 2026-11-20
 ---
 
-# 直腸癌 (colonic neoplasm) 相關新聞
+# 大腸癌 (colonic neoplasm) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="直腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>直腸癌 (colonic neoplasm)</strong> 目前有 <strong>6 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>7 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「直腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [抗大腸癌兼抗發炎！最新研究揭：日吃1種營養素 5年存活率飆升17個百分點 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMi1wNBVV95cUxQRkdfUk1sMmtvN2lGQkdFalZYa2NFM05xSDgwclhpajZrV3JrZ0RBZjQwdVotaE9oWEdjT3ZxeHBJRnZKZGs2RHQ0bEV0QlYxMVRIREtSYmJzQktpb290ckoyT2tLeVJhOWhlU1JDYjFHV0NpZldSd1NoLTFuN3Vuci12Mm03Q3lFYzd1d3dfZkwwNVpmV0tTalBZWWtaV2tDaXpjcmFnUjM5S2plQ056Yjlra3p6MFdJelZBeGJZY0J5dktIMi1pWUhqVm9TSjIyVUFpLTFyY1F6ZlJUSU8wY1ZjRno3bDl3MVZIT3pfUjY3MDU3SDFPb3NCOHcycGVlUGFWd2lSZDJlTzFmZ0ZvaDZjN0JkU3ZUSXQ4V1IyaTB3R2Exd2t5QVk4eHFtdDNzdmVaS3BuVDEyamVZd2tqWUxKQ2tvbGlKTTdWUXZqWUZOM29FWDc0bVJUZnhlaTlJX2pwZTZaN1M5bG9KdENkSjBDcENwUlpVcG5tUjlsT1lfRTdIaXQxa2p6VHd0cDhZTkZXRlZtNWVVSDNEcUIzVHlSalV3SGdTR2VIRnJ3OElpcnFDLUVTaFNjRHRERXVsVU1PdXZDRS1SV3d3NHNvYlhKZGhEZHfSAZIBQVVfeXFMUFNDMGpOOFk3WG14OTBRRHZmVU5VRkttLVFweXdOOWRmbVk5Y2FvSHBPZUp3OVBMR25pdUdLanhUZzNnOEN0Z3R4c01jMVNUQkpYc09TUFVMZEVrX1o2S2hWVldWZmF6a0xXOWEtSnh6R24zREE1cGY2aHpJaVlfWmtDcDRVMUdfMURNZWd4SXZXTXc?oc=5)
+
+2026-11-20
+
+來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMi1wNBVV95cUxQRkdfUk1sMmtvN2lGQkdFalZYa2NFM05xSDgwclhpajZrV3JrZ0RBZjQwdVotaE9oWEdjT3ZxeHBJRnZKZGs2RHQ0bEV0QlYxMVRIREtSYmJzQktpb290ckoyT2tLeVJhOWhlU1JDYjFHV0NpZldSd1NoLTFuN3Vuci12Mm03Q3lFYzd1d3dfZkwwNVpmV0tTalBZWWtaV2tDaXpjcmFnUjM5S2plQ056Yjlra3p6MFdJelZBeGJZY0J5dktIMi1pWUhqVm9TSjIyVUFpLTFyY1F6ZlJUSU8wY1ZjRno3bDl3MVZIT3pfUjY3MDU3SDFPb3NCOHcycGVlUGFWd2lSZDJlTzFmZ0ZvaDZjN0JkU3ZUSXQ4V1IyaTB3R2Exd2t5QVk4eHFtdDNzdmVaS3BuVDEyamVZd2tqWUxKQ2tvbGlKTTdWUXZqWUZOM29FWDc0bVJUZnhlaTlJX2pwZTZaN1M5bG9KdENkSjBDcENwUlpVcG5tUjlsT1lfRTdIaXQxa2p6VHd0cDhZTkZXRlZtNWVVSDNEcUIzVHlSalV3SGdTR2VIRnJ3OElpcnFDLUVTaFNjRHRERXVsVU1PdXZDRS1SV3d3NHNvYlhKZGhEZHfSAZIBQVVfeXFMUFNDMGpOOFk3WG14OTBRRHZmVU5VRkttLVFweXdOOWRmbVk5Y2FvSHBPZUp3OVBMR25pdUdLanhUZzNnOEN0Z3R4c01jMVNUQkpYc09TUFVMZEVrX1o2S2hWVldWZmF6a0xXOWEtSnh6R24zREE1cGY2aHpJaVlfWmtDcDRVMUdfMURNZWd4SXZXTXc?oc=5)
+
+---
 
 ### [直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛](https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5)
 
