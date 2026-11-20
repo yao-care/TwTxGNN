@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**慢性鼻竇炎 (Chronic Rhinosinusitis)** 有�
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Oxytetracycline 作用機轉（非官方翻譯）：「細菌 70S 核糖體抑制劑」英文原文："Bacterial 70S ribosome inhibitor"（[ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Oxytetracycline 是四環素類抗生素，屬抑菌性藥物，一般認為是透過抑制細菌 30S 核糖體次單位而阻斷蛋白質合成。四環素類另有次要的抗發炎作用，理論上可能與鼻竇疾病相關。
+ChEMBL（EMBL-EBI）收錄的 Oxytetracycline 作用機轉（非官方翻譯）：「細菌 70S 核糖體抑制劑」。英文原文："Bacterial 70S ribosome inhibitor"（[ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Oxytetracycline 是四環素類抗生素，屬抑菌性藥物，一般認為是透過抑制細菌 30S 核糖體次單位而阻斷蛋白質合成。四環素類另有次要的抗發炎作用，理論上可能與鼻竇疾病相關。
 
 慢性鼻竇炎與原適應症中的上呼吸道感染（如支氣管炎、扁桃腺炎、耳炎）同屬呼吸道與耳鼻喉相關疾病，涉及的病原菌有部分重疊，這可能是模型給出高分的原因。
 
@@ -155,7 +155,7 @@ ChEMBL（EMBL-EBI）收錄的 Oxytetracycline 作用機轉（非官方翻譯）�
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-12 | 理由寫「目前台灣有效許可證僅 1 張口服膠囊，與外用劑型不符」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-12 | 「目前台灣有效許可證為口服膠囊」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL1517 (oxytetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1517) |
 
 <!-- review:end log -->
 

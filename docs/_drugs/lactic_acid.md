@@ -61,7 +61,7 @@ TxGNN 模型預測它可能對**非典型主動脈縮窄 (Atypical coarctation o
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Lactic Acid 作用機轉（非官方翻譯）：「pH降低劑」英文原文："pH lowering agent"（[ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559)，CC BY-SA 3.0；查閱日期 2026-11-19）。Lactic acid 是一種有機酸，在台灣產品中多用於外用洗潔液，用以維持陰道酸性環境、除臭與清潔。
+ChEMBL（EMBL-EBI）收錄的 Lactic Acid 作用機轉（非官方翻譯）：「pH降低劑」。英文原文："pH lowering agent"（[ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559)，CC BY-SA 3.0；查閱日期 2026-11-19）。Lactic acid 是一種有機酸，在台灣產品中多用於外用洗潔液，用以維持陰道酸性環境、除臭與清潔。
 
 主動脈縮窄是先天性的血管結構缺陷，需靠手術或導管介入矯正，並非藥物可改善的疾病。乳酸（外用酸化劑與腸道輔助用途）與此疾病之間，在機轉上找不到可信的關聯。此預測僅來自 TxGNN 模型（深度學習）的分數，可能反映模型學到的相關疾病間的相似性，並非生物學證據，缺乏任何臨床或文獻佐證。
 
@@ -157,7 +157,7 @@ ChEMBL（EMBL-EBI）收錄的 Lactic Acid 作用機轉（非官方翻譯）：�
 | 2026-10-03 | 一句話總結稱乳酸見於腸胃藥 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 預測理由稱乳酸有腸道輔助用途 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「蓋寧妥滴劑」一列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL1200559 (lactic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200559) |
 
 <!-- review:end log -->
 

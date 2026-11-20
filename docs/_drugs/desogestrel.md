@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Desogestrel 作用機轉（非官方翻譯）：「黃體素受體促效劑」英文原文："Progesterone receptor agonist"（[ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Desogestrel 是活性代謝物 etonogestrel 的前驅藥，屬於黃體素類，常與乙炔雌二醇組成口服避孕複方，其避孕療效已被證實。
+ChEMBL（EMBL-EBI）收錄的 Desogestrel 作用機轉（非官方翻譯）：「黃體素受體促效劑」。英文原文："Progesterone receptor agonist"（[ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Desogestrel 是活性代謝物 etonogestrel 的前驅藥，屬於黃體素類，常與乙炔雌二醇組成口服避孕複方，其避孕療效已被證實。
 
 閉經（尤其是下視丘性或運動相關的低雌激素閉經）常伴隨骨密度流失。含黃體素的荷爾蒙療法可提供週期性的荷爾蒙補充，並可能有助保護骨密度，因此在機轉上有推論空間。不過這個連結是從藥物類別藥理推論而來，並非直接證據。
 
@@ -150,7 +150,7 @@ ChEMBL（EMBL-EBI）收錄的 Desogestrel 作用機轉（非官方翻譯）：�
 |---------|------|------|------|
 | 2026-10-03 | 許可證表皆為複方，母扶樂錠已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL1533 (desogestrel): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1533) |
 
 <!-- review:end log -->
 

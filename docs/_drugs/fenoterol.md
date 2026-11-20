@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**多發性系統萎縮症 (Multiple System Atroph
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Fenoterol 作用機轉（非官方翻譯）：「Beta-2 腎上腺素受體致效劑」英文原文："Beta-2 adrenergic receptor agonist"（[ChEMBL CHEMBL32800 (fenoterol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL32800)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Fenoterol 屬於 β2 腎上腺素受體促效劑，藥理資料顯示它可作用於 β1、β2、β3 腎上腺素受體，臨床上用於支氣管擴張，也可用於抑制早產宮縮。
+ChEMBL（EMBL-EBI）收錄的 Fenoterol 作用機轉（非官方翻譯）：「Beta-2 腎上腺素受體致效劑」。英文原文："Beta-2 adrenergic receptor agonist"（[ChEMBL CHEMBL32800 (fenoterol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL32800)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Fenoterol 屬於 β2 腎上腺素受體促效劑，藥理資料顯示它可作用於 β1、β2、β3 腎上腺素受體，臨床上用於支氣管擴張，也可用於抑制早產宮縮。
 
 β2 受體刺激會造成血管平滑肌舒張，理論上可能影響多發性系統萎縮症的自主神經心血管調節。但這個推論屬於推測，而且血管舒張反而可能加重此疾病常見的姿勢性低血壓。原適應症（呼吸道痙攣）與新適應症（神經退行性疾病合併自主神經失調）之間的關聯性很弱，此預測目前只能視為模型產生的假說。
 
@@ -126,7 +126,7 @@ ChEMBL（EMBL-EBI）收錄的 Fenoterol 作用機轉（非官方翻譯）：「B
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL32800 (fenoterol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL32800) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL32800 (fenoterol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL32800) |
 
 <!-- review:end log -->
 

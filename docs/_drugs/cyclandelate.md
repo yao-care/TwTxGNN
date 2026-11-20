@@ -58,7 +58,7 @@ TxGNN 模型預測它可能對**偏頭痛 (migraine disorder)** 有效，
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Cyclandelate 作用機轉（非官方翻譯）：「不明」英文原文："Unknown"（[ChEMBL CHEMBL1480987 (cyclandelate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1480987)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Cyclandelate 是直接作用於血管平滑肌的血管擴張劑，帶有類似鈣離子拮抗劑的活性。文獻指出它能抑制鈣離子誘發的血管平滑肌收縮，也能抑制血小板聚集及血清素（5-HT）釋放。
+ChEMBL（EMBL-EBI）收錄的 Cyclandelate 作用機轉（非官方翻譯）：「不明」。英文原文："Unknown"（[ChEMBL CHEMBL1480987 (cyclandelate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1480987)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Cyclandelate 是直接作用於血管平滑肌的血管擴張劑，帶有類似鈣離子拮抗劑的活性。文獻指出它能抑制鈣離子誘發的血管平滑肌收縮，也能抑制血小板聚集及血清素（5-HT）釋放。
 
 原適應症為末梢與腦循環障礙，偏頭痛則與腦血管張力及神經興奮性異常有關。同屬鈣離子拮抗劑類的 flunarizine 已被用於偏頭痛預防，因此從機轉上推論，Cyclandelate 可能調節腦血管張力與神經興奮性，具有預防偏頭痛的潛力。
 
@@ -174,7 +174,7 @@ ChEMBL（EMBL-EBI）收錄的 Cyclandelate 作用機轉（非官方翻譯）：�
 | 2026-10-03 | 預測理由稱原適應症含腦循環障礙 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 周邊血管疾病：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 周邊血管疾病預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3（本頁「其他預測適應症概況」表）→撤回（已核准用途，不列新適應症等級）；「其他預測適應症概況」表周邊血管疾病列：原「周邊血管疾病／0.9904／L3／多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效／Research Question」→「周邊血管疾病／0.9904／撤回（已核准用途，不列新適應症等級）／多為回顧與小型研究，結果不一致；一項安慰劑對照交叉試驗（[6364892](https://pubmed.ncbi.nlm.nih.gov/6364892/)）報告無療效／撤回」 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1480987 (cyclandelate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1480987) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL1480987 (cyclandelate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1480987) |
 
 <!-- review:end log -->
 

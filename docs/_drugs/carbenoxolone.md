@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**非症候群型食道畸形 (Non-syndromic Esoph
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Carbenoxolone 作用機轉（非官方翻譯）：「11-β-羥基類固醇去氫酶抑制劑」英文原文："11-beta-hydroxysteroid dehydrogenase inhibitor"（[ChEMBL CHEMBL499915 (carbenoxolone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL499915)，CC BY-SA 3.0；查閱日期 2026-11-19）。就一般藥理知識，carbenoxolone 是甘草次酸衍生物，可促進胃黏液分泌，並具有抑制間隙連接（gap junction）與 11-β-羥類固醇脫氫酶（11-β-HSD）的作用。
+ChEMBL（EMBL-EBI）收錄的 Carbenoxolone 作用機轉（非官方翻譯）：「11-β-羥基類固醇去氫酶抑制劑」。英文原文："11-beta-hydroxysteroid dehydrogenase inhibitor"（[ChEMBL CHEMBL499915 (carbenoxolone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL499915)，CC BY-SA 3.0；查閱日期 2026-11-19）。就一般藥理知識，carbenoxolone 是甘草次酸衍生物，可促進胃黏液分泌，並具有抑制間隙連接（gap junction）與 11-β-羥類固醇脫氫酶（11-β-HSD）的作用。
 
 原適應症為消化道潰瘍與口腔黏膜潰瘍，屬於黏膜保護的範疇。然而，非症候群型食道畸形是胚胎發育期的結構異常，與黏膜保護或潰瘍癒合沒有已知的機轉關聯。因此，此高分預測目前**缺乏機轉上的支持**，其分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
@@ -130,7 +130,7 @@ ChEMBL（EMBL-EBI）收錄的 Carbenoxolone 作用機轉（非官方翻譯）：
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL499915 (carbenoxolone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL499915) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL499915 (carbenoxolone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL499915) |
 
 <!-- review:end log -->
 

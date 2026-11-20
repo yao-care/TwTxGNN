@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Tioconazole 作用機轉（非官方翻譯）：「細胞色素 P450 51 抑制劑」英文原文："Cytochrome P450 51 inhibitor"（[ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438)，CC BY-SA 3.0；查閱日期 2026-11-19）。依據同類藥物的已知知識，Tioconazole 屬咪唑類抗黴菌藥，
+ChEMBL（EMBL-EBI）收錄的 Tioconazole 作用機轉（非官方翻譯）：「細胞色素 P450 51 抑制劑」。英文原文："Cytochrome P450 51 inhibitor"（[ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438)，CC BY-SA 3.0；查閱日期 2026-11-19）。依據同類藥物的已知知識，Tioconazole 屬咪唑類抗黴菌藥，
 可抑制黴菌的羊毛固醇 14-α 去甲基酶（CYP51 / ERG11），使細胞膜必需成分麥角固醇無法生成，病原體因而無法存活。
 另有藥理資料顯示，它也會抑制人類的 CYP8B1（參與膽汁酸合成的分支途徑）。
 
@@ -156,7 +156,7 @@ ChEMBL（EMBL-EBI）收錄的 Tioconazole 作用機轉（非官方翻譯）：�
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L5→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回） | 加註 | [US FDA label (DailyMed)：MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L2」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL1200438 (tioconazole): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200438) |
 
 <!-- review:end log -->
 

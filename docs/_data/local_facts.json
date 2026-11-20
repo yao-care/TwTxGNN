@@ -21,7 +21,7 @@
   "items_current": 5750
  },
  "reviews": {
-  "records": 870,
+  "records": 872,
   "pages": 283,
   "public_pages_with_records": 272,
   "by_action": {
@@ -29,7 +29,7 @@
    "correct": 268,
    "description_level": 45,
    "header_level": 65,
-   "mechanism": 212,
+   "mechanism": 214,
    "rereview": 41,
    "rereview_result": 41,
    "section": 10

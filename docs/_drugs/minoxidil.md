@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀少症 (hypotrichosis si
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Minoxidil 作用機轉（非官方翻譯）：「磺醯尿素受體 2、Kir6.2 開啟劑」英文原文："Sulfonylurea receptor 2, Kir6.2 opener"（[ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，minoxidil 的活性代謝物 minoxidil sulfate 可開啟 ATP 敏感性鉀離子通道，被認為能促進毛囊周邊血管擴張、延長生長期，並可能與 VEGF 相關的刺激作用有關。
+ChEMBL（EMBL-EBI）收錄的 Minoxidil 作用機轉（非官方翻譯）：「磺醯尿素受體 2、Kir6.2 開啟劑」。英文原文："Sulfonylurea receptor 2, Kir6.2 opener"（[ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，minoxidil 的活性代謝物 minoxidil sulfate 可開啟 ATP 敏感性鉀離子通道，被認為能促進毛囊周邊血管擴張、延長生長期，並可能與 VEGF 相關的刺激作用有關。
 
 遺傳性頭皮單純性毛髮稀少症是罕見的單基因顯性遺傳疾病（文獻中的病例與 CDSN 基因變異有關），主要表現為毛髮的生長與密度不足，目前缺乏明確有效的治療。Minoxidil 促進毛髮生長的作用，在機轉上可能部分改善毛囊微小化的情形。
 
@@ -118,7 +118,7 @@ ChEMBL（EMBL-EBI）收錄的 Minoxidil 作用機轉（非官方翻譯）：「�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL802 (minoxidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL802) |
 
 <!-- review:end log -->
 

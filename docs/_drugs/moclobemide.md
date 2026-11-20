@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**懼曠症 (Agoraphobia)** 有效，
 
 ## 為什麼這個預測合理？
 
-Moclobemide 是選擇性、可逆性的 MAO-A 抑制劑，可提高突觸間隙的血清素、正腎上腺素與多巴胺濃度。這條單胺路徑也是治療恐慌症合併懼曠症及社交焦慮的抗憂鬱藥物所作用的路徑。ChEMBL（EMBL-EBI）收錄的 Moclobemide 作用機轉（非官方翻譯）：「單胺氧化酶A抑制劑」英文原文："Monoamine oxidase A inhibitor"（[ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304)，CC BY-SA 3.0；查閱日期 2026-11-19）。）
+Moclobemide 是選擇性、可逆性的 MAO-A 抑制劑，可提高突觸間隙的血清素、正腎上腺素與多巴胺濃度。這條單胺路徑也是治療恐慌症合併懼曠症及社交焦慮的抗憂鬱藥物所作用的路徑。ChEMBL（EMBL-EBI）收錄的 Moclobemide 作用機轉（非官方翻譯）：「單胺氧化酶A抑制劑」。英文原文："Monoamine oxidase A inhibitor"（[ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304)，CC BY-SA 3.0；查閱日期 2026-11-19）。）
 
 原適應症憂鬱症與社交畏懼症，和懼曠症同屬情緒與焦慮相關疾患，常共病且共用部分治療藥物。不過現有證據多來自「恐慌症合併懼曠症」的研究，結果並不一致，對懼曠症本身屬於間接證據。
 
@@ -134,7 +134,7 @@ Moclobemide 是選擇性、可逆性的 MAO-A 抑制劑，可提高突觸間隙�
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL86304 (moclobemide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL86304) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型預測分數最高的新適應症是**顱顏錐形發育不良 (cran
 
 ## 為什麼這個預測合理？
 
-ChEMBL（EMBL-EBI）收錄的 Alfacalcidol 作用機轉（非官方翻譯）：「維生素 D 受體致效劑」英文原文："Vitamin D receptor agonist"（[ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669)，CC BY-SA 3.0；查閱日期 2026-11-19）。已知 Alfacalcidol 在肝臟經羥化後轉變為活性的 calcitriol，參與鈣磷恆定與骨礦化，並可繞過腎臟的 1-α 羥化步驟。
+ChEMBL（EMBL-EBI）收錄的 Alfacalcidol 作用機轉（非官方翻譯）：「維生素 D 受體致效劑」。英文原文："Vitamin D receptor agonist"（[ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669)，CC BY-SA 3.0；查閱日期 2026-11-19）。已知 Alfacalcidol 在肝臟經羥化後轉變為活性的 calcitriol，參與鈣磷恆定與骨礦化，並可繞過腎臟的 1-α 羥化步驟。
 
 顱顏錐形發育不良是罕見的骨骼發育異常。它與 Alfacalcidol 原有的骨代謝適應症之間，目前僅有 TxGNN 的計算預測，沒有臨床或文獻佐證，機轉上的連結只能視為假說。
 
@@ -130,7 +130,7 @@ ChEMBL（EMBL-EBI）收錄的 Alfacalcidol 作用機轉（非官方翻譯）：�
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「衛署藥輸字第024916號 萬乃補軟膠囊」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表「衛署藥輸字第023050號 骨精鈣膠囊 1.0ug」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
 
 <!-- review:end log -->
 
