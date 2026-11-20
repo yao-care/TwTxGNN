@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "aspirin"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "trigeminal autonomic cephalalgia", "thrombophilia"]
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-20
 description: "Aspirin：預測新適應症為蠕蟲狀萎縮性皮膚病 (atrophoderma vermiculata)（證據等級 L5）。原適應症：退燒、止痛（緩解頭痛、牙痛、咽喉痛、關節痛、神經痛、肌肉酸痛、月經痛）"
 ---
 

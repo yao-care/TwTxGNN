@@ -5,7 +5,7 @@ parent: 僅已知用途／主預測已撤回
 nav_order: 177
 evidence_level: N/A
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Methylprednisolone：預測新適應症為圓形禿 (Alopecia Areata)（僅已知用途）。原適應症：抗炎性皮質固醇"
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]

@@ -7,7 +7,7 @@ evidence_level: N/A
 indication_count: 7
 monitor_inn: "Icatibant"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "Glanzmann thrombasthenia"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Icatibant：預測新適應症為C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)（僅已知用途）。原適應症：體內 C1 酯酶抑制劑不足的成人、青少年及 2 歲以上兒童，在遺傳性血管性水腫 (HAE) 急性發作時進行症狀治療"
 ---
 

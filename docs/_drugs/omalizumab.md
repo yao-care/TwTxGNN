@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 199
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 description: "Omalizumab：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L5）。原適應症：過敏性氣喘附加療法（重度持續過敏性氣喘，需證實為 IgE 媒介型）"
 monitor_inn: "Omalizumab"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]

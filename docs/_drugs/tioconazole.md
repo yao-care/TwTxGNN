@@ -5,7 +5,7 @@ parent: 僅已知用途／主預測已撤回
 nav_order: 280
 evidence_level: N/A
 indication_count: 3
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Tioconazole：預測新適應症為外陰陰道炎 (Vulvovaginitis)（僅已知用途）。原適應症：感受性黴菌引起之局部感染"
 monitor_inn: "Tioconazole"
 predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]

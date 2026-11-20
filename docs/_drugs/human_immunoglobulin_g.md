@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Human immunoglobulin G"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-20
 description: "Human Immunoglobulin G：預測新適應症為嚴重非增殖性糖尿病視網膜病變 (severe nonproliferative diabetic retinopathy)（證據等級 L5）。原適應症：IgG 的替代治療用藥：原發性免疫不全症、次發性症狀性低伽瑪球蛋白血症"
 ---
 

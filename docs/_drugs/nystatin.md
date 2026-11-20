@@ -5,7 +5,7 @@ parent: 僅已知用途／主預測已撤回
 nav_order: 198
 evidence_level: N/A
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Nystatin：預測新適應症為外陰陰道炎 (Vulvovaginitis)（僅已知用途）。原適應症：抗生素"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]

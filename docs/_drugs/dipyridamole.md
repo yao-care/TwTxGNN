@@ -7,7 +7,7 @@ evidence_level: N/A
 indication_count: 8
 monitor_inn: "Dipyridamole"
 predicted_indications: ["thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Dipyridamole：預測新適應症為血栓性疾病 (thrombotic disease)（僅已知用途）。原適應症：對於慢性狹心症之治療可能有效"
 ---
 

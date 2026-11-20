@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 76
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Cyclandelate"
 predicted_indications: ["Prinzmetal angina", "Raynaud disease", "migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "gout", "kyphoscoliotic heart disease", "benign prostatic hyperplasia (disease)", "exostosis", "peripheral vascular disease"]
 description: "Cyclandelate：預測新適應症為Prinzmetal angina（證據等級 L5）。原適應症：末梢血管循環障礙"
