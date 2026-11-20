@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**膽固醇酯轉運蛋白缺乏症 (cholesterol-e
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據一般藥理知識，Pitavastatin 屬於 HMG-CoA 還原酶抑制劑，可降低 LDL 膽固醇。
+根據美國 FDA 核准的 Pitavastatin 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Pitavastatin 是 3-羥基-3-甲基戊二醯輔酶 A（HMG-CoA）還原酶的抑制劑，該酶催化 HMG-CoA 轉化為甲羥戊酸，此為膽固醇生物合成途徑中的限速步驟。因此，LDL 受體的表現增加，隨之血液中 LDL 被肝臟攝取的作用加速，進而使血漿 TC 降低。」英文原文："Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases."（[DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2)，版本日期 2026-03-31；查閱日期 2026-11-19）。根據一般藥理知識，Pitavastatin 屬於 HMG-CoA 還原酶抑制劑，可降低 LDL 膽固醇。
 
 膽固醇酯轉運蛋白（CETP）缺乏症的特徵是 HDL 膽固醇偏高、脂蛋白代謝異常。由於 Pitavastatin 作用於脂質代謝，兩者在脂蛋白調節上有關聯，這可能是模型給出高分的原因。
 
@@ -123,12 +123,13 @@ TxGNN 模型預測它可能對**膽固醇酯轉運蛋白缺乏症 (cholesterol-e
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 力清之口溶錠許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 庇脂清膜衣錠許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
 
 <!-- review:end log -->
 

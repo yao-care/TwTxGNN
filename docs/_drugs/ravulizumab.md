@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**體染色體隱性嚴重先天性嗜中性白血
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Ravulizumab 是補體 C5 抑制劑，可阻斷末端補體路徑，在補體介導的溶血與發炎疾病中的療效已被證實。
+根據美國 FDA 核准的 Ravulizumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Ravulizumab-cwvz 為一種末端補體抑制劑，能以高親和力專一性地與補體蛋白 C5 結合，從而抑制其裂解為 C5a（促發炎性過敏毒素）及 C5b（膜攻擊複合體 [MAC 或 C5b-9] 的起始次單元），因而防止 MAC 形成。ULTOMIRIS 可抑制 PNH 患者中由末端補體介導的血管內溶血，以及 aHUS 患者中由補體介導的血栓性微血管病變（TMA）。」英文原文："Ravulizumab-cwvz is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a (the proinflammatory anaphylatoxin) and C5b (the initiating subunit of the membrane attack complex [MAC or C5b-9]) thus preventing MAC formation. ULTOMIRIS inhibits terminal complement-mediated intravascular hemolysis in patients with PNH and complement-mediated thrombotic microangiopathy (TMA) in patients with aHUS."（[DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791)，版本日期 2026-10-29；查閱日期 2026-11-19）。已知 Ravulizumab 是補體 C5 抑制劑，可阻斷末端補體路徑，在補體介導的溶血與發炎疾病中的療效已被證實。
 
 然而，G6PC3 缺乏所致的嗜中性白血球低下症，成因是代謝功能異常與嗜中性白血球凋亡，目前沒有已確立的補體介導機轉。兩者之間的連結僅來自 TxGNN 模型（深度學習）的預測，其分數可能反映模型學到的相關疾病之間的相似性，而非生物學證據，機轉上的合理性有限。
 
@@ -117,11 +117,12 @@ TxGNN 模型預測它可能對**體染色體隱性嚴重先天性嗜中性白血
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 15 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Ultomiris (ravulizumab) prescribing information, Alexion Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a9a590d9-0217-43c7-908d-e62a71279791) |
 
 <!-- review:end log -->
 

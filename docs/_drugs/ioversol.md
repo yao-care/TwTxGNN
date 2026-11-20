@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Ioversol 是不具藥理活性的碘化造影劑，作用在於影像對比增強，沒有已知的抗發炎或軟骨保護作用。
+根據美國 FDA 核准的 Ioversol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「血管內注射ioversol可使造影劑流經路徑上的血管顯影，從而在出現顯著血液稀釋之前，可透過放射攝影顯示內部結構。快速靜脈注射後30至60秒內，即可在腎實質中觀察到ioversol。」英文原文："Intravascular injection of ioversol opacifies those vessels in the path of the flow of the contrast medium, permitting radiographic visualization of the internal structures until significant hemodilution occurs. Ioversol may be visualized in the renal parenchyma within 30 to 60 seconds following rapid intravenous injection."（[DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74)，版本日期 2025-12-29；查閱日期 2026-11-19）。Ioversol 是不具藥理活性的碘化造影劑，作用在於影像對比增強，沒有已知的抗發炎或軟骨保護作用。
 
 唯一被連結的文獻 (LipioJoint-1) 研究的是使用碘化油性乳劑進行膝部動脈栓塞，用於治療膝關節退化性關節炎。這是一種介入性手術，與 ioversol 的關聯屬間接，不構成 ioversol 的治療機轉。因此，這項預測目前主要依賴 TxGNN 的網路分數，缺乏藥理上的支持。
 
@@ -119,6 +119,19 @@ TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis)** 有效，�
 - 補充 ioversol 的作用機轉資料，釐清是否存在可信的藥理路徑
 - 找到直接以 ioversol 研究退化性關節炎的前臨床或臨床研究
 - 若仍想探討，需先釐清造影劑作為診斷輔助與作為治療的差異，以及可行的給藥途徑
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Optiray 320 (ioversol) prescribing information, Liebel-Flarsheim Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6cb6ca5f-b249-49b0-a9eb-8aa583da7c74) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**肝性紫質症 (Hepatic Porphyria)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Allopurinol 為黃嘌呤氧化酶抑制劑，可降低尿酸生成，並減少黃嘌呤氧化酶產生的活性氧。有資料提到它可能影響肝臟血基質（heme）代謝，但這一點在本報告所整理的資料中並無直接研究支持。
+根據美國 FDA 核准的 Allopurinol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Allopurinol 是天然嘌呤鹼基次黃嘌呤的結構類似物。Allopurinol 及其代謝物 oxypurinol 抑制黃嘌呤氧化酶；該酵素負責將次黃嘌呤轉化為黃嘌呤，以及將黃嘌呤轉化為尿酸，而尿酸是人體嘌呤代謝的最終產物。」英文原文："Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans."（[DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449)，版本日期 2022-02-18；查閱日期 2026-11-19）。已知 Allopurinol 為黃嘌呤氧化酶抑制劑，可降低尿酸生成，並減少黃嘌呤氧化酶產生的活性氧。有資料提到它可能影響肝臟血基質（heme）代謝，但這一點在本報告所整理的資料中並無直接研究支持。
 
 肝性紫質症的核心問題是血基質合成路徑中 5-胺基乙醯丙酸合成酶（ALAS）被過度誘導。所取得的文獻中，一篇是針對 ALAS 與色胺酸 2,3-雙加氧酶的假說性文章，另一篇是 carbamazepine 對大鼠肝臟血基質代謝的研究。兩篇都沒有測試 Allopurinol 對紫質症的效果。
 
@@ -134,11 +134,12 @@ TxGNN 模型預測它可能對**肝性紫質症 (Hepatic Porphyria)** 有效，�
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
 
 <!-- review:end log -->
 

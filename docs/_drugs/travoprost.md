@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**內臟鈣化防禦症 (Visceral Calciphylaxis)**
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 travoprost 是前列腺素 F2α 類似物，作用為 FP 受體促效劑，臨床上以點眼液形式降低眼壓。
+根據美國 FDA 核准的 Travoprost 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Travoprost 游離酸為一種前列腺素類似物，是選擇性 FP 前列腺素類受體致效劑，咸信其藉由增加葡萄膜鞏膜外流而降低 IOP。確切作用機轉目前尚不明。」英文原文："Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time."（[DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5)，版本日期 2026-09-28；查閱日期 2026-11-19）。已知 travoprost 是前列腺素 F2α 類似物，作用為 FP 受體促效劑，臨床上以點眼液形式降低眼壓。
 
 至於它與鈣化防禦症（鈣化性尿毒症小動脈病變）的關聯，目前僅來自 TxGNN 模型預測，沒有臨床試驗或文獻佐證，機轉上的連結屬於推測。
 
@@ -122,6 +122,19 @@ TxGNN 模型預測它可能對**內臟鈣化防禦症 (Visceral Calciphylaxis)**
 - 進行文獻與前臨床研究，探討 FP 受體促效作用與鈣化防禦症病理的關聯。
 - 評估給藥途徑的可行性（目前僅有眼用劑型）。
 - 若考慮全身性使用，需另行評估前列腺素類似物的系統性血管與血壓影響。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

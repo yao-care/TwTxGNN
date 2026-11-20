@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（MOA）。根據已知資訊，Prednisolone 是糖皮質素類藥物，具有抗發炎與免疫抑制作用，其在多種自體免疫與發炎性疾病中的療效已被廣泛證實。
+根據美國 FDA 核准的 Prednisolone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Prednisolone 是一種合成的腎上腺皮質類固醇藥物，主要具有糖皮質素特性。其中部分特性重現內生性糖皮質類固醇的生理作用，但其他特性則不一定反映任何腎上腺激素的正常功能；這些特性僅在投予大劑量治療劑量的本藥後才會出現。」英文原文："Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug."（[DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1)，版本日期 2025-06-03；查閱日期 2026-11-19）。根據已知資訊，Prednisolone 是糖皮質素類藥物，具有抗發炎與免疫抑制作用，其在多種自體免疫與發炎性疾病中的療效已被廣泛證實。
 
 圓形禿是一種由 T 細胞介導的自體免疫疾病，免疫系統攻擊毛囊，使毛囊失去「免疫豁免」狀態而造成非疤痕性掉髮。糖皮質素可抑制 T 細胞介導的免疫攻擊，因此在機轉上與圓形禿的核心病理相符。文獻也指出，口服脈衝類固醇可能透過改變血清與組織 TNF-α 濃度而發揮作用。
 
@@ -130,11 +130,12 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」取自已註銷的軟膏許可證 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為現行有效口服單方許可證的適應症；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
 
 <!-- review:end log -->
 

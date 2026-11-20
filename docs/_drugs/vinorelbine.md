@@ -64,7 +64,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉登錄資料。根據已知藥理，Vinorelbine 屬於長春花生物鹼，會結合微管蛋白、阻止微管組裝，造成細胞有絲分裂停滯並誘發凋亡，對快速增殖的腫瘤細胞特別有影響。
+根據美國 FDA 核准的 Vinorelbine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Vinorelbine 為一種長春花生物鹼，可干擾微管組裝。一般認為 vinorelbine 的抗腫瘤活性主要源於其與微管蛋白（tubulin）交互作用，從而在分裂中期抑制有絲分裂。Vinorelbine 亦可能干擾：1) 胺基酸、環磷酸腺苷（cyclic AMP）及穀胱甘肽代謝，2) 鈣調蛋白依賴性 Ca++ 轉運 ATPase 活性，3) 細胞呼吸作用，以及 4) 核酸及脂質生物合成。」英文原文："Vinorelbine is a vinca alkaloid that interferes with microtubule assembly. The antitumor activity of vinorelbine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinorelbine may also interfere with: 1) amino acid, cyclic AMP and glutathione metabolism, 2) calmodulin-dependent Ca++-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis."（[DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397)，版本日期 2024-08-16；查閱日期 2026-11-19）。根據已知藥理，Vinorelbine 屬於長春花生物鹼，會結合微管蛋白、阻止微管組裝，造成細胞有絲分裂停滯並誘發凋亡，對快速增殖的腫瘤細胞特別有影響。
 
 在尤文氏肉瘤方面，Vinorelbine 與低劑量環磷醯胺（節拍式或維持性療法）合併使用，已出現在復發或難治性肉瘤的研究中。2026 年的一篇系統性回顧即在討論此組合作為尤文氏肉瘤維持療法的理論基礎，並作為國際 INTER-EWING-1 試驗的依據。另有體外研究顯示，微管干擾藥物（含 vinorelbine）與 PLK1 抑制劑在尤文氏肉瘤細胞中有協同誘導凋亡的作用。
 
@@ -151,7 +151,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -160,6 +160,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效，
 | 2026-11-04 | 尤文氏肉瘤 (Ewing sarcoma)（主預測）證據等級重審結果 | 重審：升級，證據等級 L5→L3；證據等級：原「證據等級／L5」→「證據等級／L3」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Phase II study of vinorelbine and continuous low doses cyclophosphamide in children and young adults with a relapsed or refractory malignant solid tumour（PMID 22633624）](https://pubmed.ncbi.nlm.nih.gov/22633624/) |
 | 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「證據等級 L3」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: vinorelbine prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10a70995-e04d-4044-b1dc-c9aa27460397) |
 
 <!-- review:end log -->
 

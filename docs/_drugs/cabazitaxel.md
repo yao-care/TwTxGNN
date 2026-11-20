@@ -58,7 +58,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Cabazitaxel 屬於紫杉烷類微管穩定劑，透過穩定微管、阻斷有絲分裂來抑制腫瘤細胞增生。這與乳癌化療中常用的 paclitaxel、docetaxel 屬於同一類機轉。
+根據美國 FDA 核准的 Cabazitaxel 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Cabazitaxel 是一種微管抑制劑。Cabazitaxel 會與微管蛋白結合，促進其組裝成微管，同時抑制其解聚。這會使微管穩定化，進而導致有絲分裂期及間期細胞功能受到抑制。」英文原文："Cabazitaxel is a microtubule inhibitor. Cabazitaxel binds to tubulin and promotes its assembly into microtubules while simultaneously inhibiting disassembly. This leads to the stabilization of microtubules, which results in the inhibition of mitotic and interphase cellular functions."（[DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa)，版本日期 2025-10-07；查閱日期 2026-11-19）。根據已知資訊，Cabazitaxel 屬於紫杉烷類微管穩定劑，透過穩定微管、阻斷有絲分裂來抑制腫瘤細胞增生。這與乳癌化療中常用的 paclitaxel、docetaxel 屬於同一類機轉。
 
 前列腺癌與乳癌雖然器官不同，但同屬對激素與增生訊號敏感的實體瘤，且紫杉烷類在兩者中都有地位。文獻指出，cabazitaxel 受 P-glycoprotein 介導抗藥性的影響較小，對已對其他紫杉烷產生抗藥的細胞株仍有活性，這對復發或難治型乳癌具有探索價值。
 
@@ -163,11 +163,12 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Jevtana (cabazitaxel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de3d9c26-572b-4ea4-9b2d-dd58a2b3e8fa) |
 
 <!-- review:end log -->
 

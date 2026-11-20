@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對 **X 染色體性聯魚鱗癬（ichthyosis, X-link
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Alirocumab 是針對 PCSK9 的單株抗體，透過阻斷 PCSK9 對 LDL 受體的降解，增加肝臟的 LDL-C 清除，進而降低血中 LDL-C。
+根據美國 FDA 核准的 Alirocumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Alirocumab為一種人類單株抗體，可與前蛋白轉化酶枯草桿菌蛋白酶/kexin第9型（PCSK9）結合。PCSK9會與肝細胞表面的低密度脂蛋白（LDL）受體（LDLR）結合，以促進LDLR於肝臟內降解。」英文原文："Alirocumab is a human monoclonal antibody that binds to proprotein convertase subtilisin kexin type 9 (PCSK9). PCSK9 binds to the low-density lipoprotein (LDL) receptors (LDLR) on the surface of hepatocytes to promote LDLR degradation within the liver."（[DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172)，版本日期 2026-07-16；查閱日期 2026-11-19）。已知 Alirocumab 是針對 PCSK9 的單株抗體，透過阻斷 PCSK9 對 LDL 受體的降解，增加肝臟的 LDL-C 清除，進而降低血中 LDL-C。
 
 X 染色體性聯魚鱗癬與膽固醇硫酸鹽代謝異常有關，因此與膽固醇相關的路徑在概念上有些交集。但目前並沒有任何直接的機轉或臨床證據，顯示抑制 PCSK9 能改善這個疾病。這個預測目前只能視為模型產生的假說，合理性有限。
 
@@ -122,11 +122,12 @@ X 染色體性聯魚鱗癬與膽固醇硫酸鹽代謝異常有關，因此與膽
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Praluent (alirocumab) prescribing information, Regeneron Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7bcfbac2-e8ac-4569-8edc-bcde3b1fd172) |
 
 <!-- review:end log -->
 

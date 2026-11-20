@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**垂體性侏儒症 (pituitary dwarfism)** 有效
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Lutetium Lu 177 dotatate 是結合 Lu-177 的體抑素類似物，
+根據美國 FDA 核准的 Lutetium Lu 177 Dotatate 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Lutetium Lu 177 dotatate 可與體抑素受體結合，其中對第 2 亞型體抑素受體（SSTR2）的親和力最高。與表現體抑素受體的細胞（包括惡性體抑素受體陽性腫瘤）結合後，該化合物會被內化。」英文原文："Lutetium Lu 177 dotatate binds to somatostatin receptors with highest affinity for subtype 2 somatostatin receptors (SSTR2). Upon binding to somatostatin receptor expressing cells, including malignant somatostatin receptor-positive tumors, the compound is internalized."（[DailyMed: Bexlutry (lutetium lu 177 dotatate) prescribing information, Curium US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d7642094-9ec6-4927-8582-bbe60e5e74cc)，版本日期 2026-10-26；查閱日期 2026-11-19）。根據已知資訊，Lutetium Lu 177 dotatate 是結合 Lu-177 的體抑素類似物，
 可將 β 輻射送至表現體抑素受體第 2 型（SSTR2）的細胞。
 
 垂體性侏儒症是生長激素缺乏所造成的疾病，病理上並非由 SSTR2 表現的腫瘤細胞驅動。
@@ -126,7 +126,7 @@ TxGNN 模型預測它可能對**垂體性侏儒症 (pituitary dwarfism)** 有效
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -134,6 +134,7 @@ TxGNN 模型預測它可能對**垂體性侏儒症 (pituitary dwarfism)** 有效
 | 2026-10-03 | 「許可證數：0 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「未在台灣取得任何藥品許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 結論理由稱台灣尚未上市 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Bexlutry (lutetium lu 177 dotatate) prescribing information, Curium US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d7642094-9ec6-4927-8582-bbe60e5e74cc) |
 
 <!-- review:end log -->
 

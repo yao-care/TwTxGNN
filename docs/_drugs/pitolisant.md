@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據文獻，pitolisant 是選擇性組織胺 H3 受體反向促效劑，能提高腦內組織胺的釋放，增強促醒的神經傳導。
+根據美國 FDA 核准的 Pitolisant 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Pitolisant 用於 6 歲及以上猝睡症病人之日間過度嗜睡（EDS）或猝倒的作用機轉尚不明確。然而，其療效可能是透過其作為組織胺-3（H3）受體拮抗劑/反向促效劑的活性所介導。」英文原文："The mechanism of action of pitolisant in excessive daytime sleepiness (EDS) or cataplexy in patients 6 years and older with narcolepsy is unclear. However, its efficacy could be mediated through its activity as an antagonist/inverse agonist at histamine-3 (H3) receptors."（[DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e)，版本日期 2026-02-13；查閱日期 2026-11-19）。根據文獻，pitolisant 是選擇性組織胺 H3 受體反向促效劑，能提高腦內組織胺的釋放，增強促醒的神經傳導。
 
 這正是預測的問題所在：失眠需要的是降低覺醒，而 pitolisant 的作用是促進覺醒，方向相反。現有證據都針對猝睡症與 OSA 的日間嗜睡，並非失眠本身。TxGNN 模型（深度學習）給出的分數很高，但這個分數來自模型，可能反映模型學到的相關疾病之間的相似性，而非生物學證據，也不代表治療方向一致。
 
@@ -128,13 +128,14 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 唯醒膜衣錠4.5毫克許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 唯醒膜衣錠18毫克許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Wakix (pitolisant hydrochloride) prescribing information, Harmony Biosciences, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8daa5562-824e-476c-9652-26ceef3d4b0e) |
 
 <!-- review:end log -->
 

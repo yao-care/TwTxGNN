@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**肺動脈高壓 (Pulmonary Hypertension)** 有�
 
 ## 為什麼這個預測合理？
 
-Erdafitinib 是 pan-FGFR 酪胺酸激酶抑制劑，可阻斷 FGFR 訊號傳遞。在原適應症中，它針對帶有 FGFR3 變異的泌尿道上皮癌細胞發揮作用。（目前缺乏 DrugBank 的詳細作用機轉資料，以上為依藥物類別所作的說明。）
+Erdafitinib 是 pan-FGFR 酪胺酸激酶抑制劑，可阻斷 FGFR 訊號傳遞。在原適應症中，它針對帶有 FGFR3 變異的泌尿道上皮癌細胞發揮作用。根據美國 FDA 核准的 Erdafitinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「根據體外試驗數據，erdafitinib是一種激酶抑制劑，可與FGFR1、FGFR2、FGFR3及FGFR4結合並抑制其酵素活性。在表現FGFR基因變異（包括點突變、擴增及融合）的細胞株中，erdafitinib抑制了FGFR磷酸化及訊號傳遞，並降低了細胞存活率。」英文原文："Erdafitinib is a kinase inhibitor that binds to and inhibits enzymatic activity of FGFR1, FGFR2, FGFR3 and FGFR4 based on in vitro data. Erdafitinib inhibited FGFR phosphorylation and signaling and decreased cell viability in cell lines expressing FGFR genetic alterations, including point mutations, amplifications, and fusions."（[DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee)，版本日期 2025-10-24；查閱日期 2026-11-19）。）
 
 文獻上曾有人提出 FGF/FGFR 訊號與肺血管重塑有關，而血管重塑是肺動脈高壓的核心病理變化之一，這是此預測在機轉上唯一的合理連結。
 
@@ -122,6 +122,19 @@ Erdafitinib 是 pan-FGFR 酪胺酸激酶抑制劑，可阻斷 FGFR 訊號傳遞�
 - 進行前臨床研究（如肺動脈高壓動物模型），評估療效與血管安全性
 - 補充完整的安全性資料（警語、禁忌症），特別是心血管相關風險
 - 評估與肺動脈高壓常用藥物併用時的交互作用
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Balversa (erdafitinib) prescribing information, Janssen Products LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a8aa5c0-6c92-4566-8c45-e8f4d1fc20ee) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

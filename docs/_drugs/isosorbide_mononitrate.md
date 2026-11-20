@@ -62,7 +62,7 @@ TxGNN 模型預測分數最高的新適應症是**毛髮過多症 (Hypertrichosi
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未收錄）。依一般藥理知識，Isosorbide mononitrate 會釋放 NO，活化可溶性鳥苷酸環化酶（sGC），使 cGMP 上升，進而舒張血管平滑肌，這也是它預防狹心症的基礎。
+根據美國 FDA 核准的 Isosorbide Mononitrate 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Isosorbide mononitrate緩釋錠為ISMN的口服緩釋劑型，ISMN為isosorbide dinitrate的主要活性代謝物；dinitrate的大部分臨床活性可歸因於mononitrate。ISMN及一般所有有機硝酸鹽的主要藥理作用為鬆弛血管平滑肌，使周邊動脈及靜脈擴張，尤以後者為甚。」英文原文："Isosorbide mononitrate extended-release tablet are an oral extended-release formulation of ISMN, the major active metabolite of isosorbide dinitrate; most of the clinical activity of the dinitrate is attributable to the mononitrate. The principal pharmacological action of ISMN and all organic nitrates in general is relaxation of vascular smooth muscle, producing dilatation of peripheral arteries and veins, especially the latter."（[DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158)，版本日期 2026-11-10；查閱日期 2026-11-19）。依一般藥理知識，Isosorbide mononitrate 會釋放 NO，活化可溶性鳥苷酸環化酶（sGC），使 cGMP 上升，進而舒張血管平滑肌，這也是它預防狹心症的基礎。
 
 就毛髮過多症而言，NO/cGMP 血管舒張作用與毛髮過度生長之間沒有已知的關聯，這個預測目前純屬計算結果，機轉上缺乏支持。排名前 9 的預測（毛髮過多症、Ambras 症候群、齒或牙周畸形症候群、Dandy-Walker 畸形症候群、落髮、遺傳性毛幹異常、頭皮單純性毛髮稀少症、先天性毛髮稀少伴粟粒疹、瀰漫性斑禿）多屬遺傳性或結構性疾病，或自體免疫疾病，同樣沒有任何證據。落髮一項僅能類比 minoxidil 這類血管舒張劑，屬於推測。
 
@@ -139,13 +139,14 @@ TxGNN 模型預測分數最高的新適應症是**毛髮過多症 (Hypertrichosi
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 預測理由「minoxidil 促進毛髮生長主要透過開放 K⁺ 通道」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 minoxidil 經開放 K⁺ 通道促進毛髮生長；原為加註） | [emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
 | 2026-10-03 | 多毛症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [emc：Regaine for Men Extra Strength Scalp Solution 5% w/v SmPC §5.1](https://www.medicines.org.uk/emc/product/5765/smpc) |
 | 2026-10-03 | 多毛症預測重審結果 | 重審：維持，證據等級 L5 不變（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Novel and established potassium channel openers stimulate hair growth in vitro: implications for their modes of action in hair follicles（PMID 15816824）](https://pubmed.ncbi.nlm.nih.gov/15816824/)；[PubMed：Human hair follicles contain two forms of ATP-sensitive potassium channels, only one of which is sensitive to minoxidil（PMID 18258787）](https://pubmed.ncbi.nlm.nih.gov/18258787/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: isosorbide mononitrate prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=86be0e85-5337-bee4-e053-2a91aa0a8158) |
 
 <!-- review:end log -->
 

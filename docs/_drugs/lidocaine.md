@@ -60,7 +60,7 @@ TxGNN 模型預測分數最高的新適應症是**點狀上皮角結膜炎 (Punc
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知的藥理特性而言，Lidocaine 屬於局部麻醉劑，作用是阻斷電壓門控鈉離子通道，抑制感覺神經傳導，因此能緩解眼表疼痛與不適。
+根據美國 FDA 核准的 Lidocaine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Lidocaine hydrochloride透過提高心室於舒張期的電刺激閾值而發揮抗心律不整作用。在一般治療劑量下，lidocaine hydrochloride不會改變心肌收縮力、全身動脈壓或絕對不反應期。」英文原文："Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period."（[DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0)，版本日期 2026-02-20；查閱日期 2026-11-19）。就已知的藥理特性而言，Lidocaine 屬於局部麻醉劑，作用是阻斷電壓門控鈉離子通道，抑制感覺神經傳導，因此能緩解眼表疼痛與不適。
 
 排名第一的點狀上皮角結膜炎、以及第 2、3 名的乳突性結膜炎與酒糟性結膜炎，都屬於眼表疾病。Lidocaine 最多只能提供症狀性的止痛，對這些疾病的發炎、感染或過敏成因沒有已知療效。此外，反覆局部使用可能傷害角膜上皮，這是使用上的疑慮。
 
@@ -157,11 +157,12 @@ TxGNN 模型預測分數最高的新適應症是**點狀上皮角結膜炎 (Punc
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」寫牙科麻醉 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為 lidocaine 單方許可證的「局部麻醉」；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0) |
 
 <!-- review:end log -->
 

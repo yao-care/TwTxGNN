@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 
 ## 為什麼這個預測合理？
 
-目前缺乏完整的作用機轉資料。Docetaxel 屬於紫杉類藥物，一般認為它會穩定微管並造成有絲分裂停滯，使快速增生的腫瘤細胞無法分裂。
+根據美國 FDA 核准的 Docetaxel 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Docetaxel為一種抗腫瘤藥物，其作用方式為破壞細胞內對有絲分裂及間期細胞功能至關重要的微管網絡。Docetaxel會與游離微管蛋白結合，促進微管蛋白組裝成穩定的微管，同時抑制其解聚。」英文原文："Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly."（[DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b)，版本日期 2025-12-17；查閱日期 2026-11-19）。Docetaxel 屬於紫杉類藥物，一般認為它會穩定微管並造成有絲分裂停滯，使快速增生的腫瘤細胞無法分裂。
 
 尤文氏肉瘤是增生快速的骨與軟組織惡性腫瘤，理論上可能對抗有絲分裂藥物敏感。前臨床資料顯示，docetaxel 先接在 gemcitabine 之後使用時有協同細胞毒性。臨床上，復發或難治的尤文氏肉瘤已有 docetaxel 單用或合併 gemcitabine、irinotecan 的 Phase 2 研究。
 
@@ -171,7 +171,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -182,6 +182,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 | 2026-10-16 | 資料註記稱彙整的許可證都是 trastuzumab 類 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由引用 trastuzumab 許可證文字 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步建議另行確認 docetaxel 許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b) |
 
 <!-- review:end log -->
 

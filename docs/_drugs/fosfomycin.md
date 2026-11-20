@@ -55,7 +55,7 @@ TxGNN 模型預測排名第一的新適應症為**子宮發炎性疾病 (Uterine
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供）。根據已知的藥理特性，Fosfomycin 抑制細菌 MurA 酶（UDP-N-乙醯葡萄糖胺烯醇丙酮酸轉移酶），阻斷肽聚醣前驅物合成，具殺菌作用，且在尿液中濃度高。
+根據美國 FDA 核准的 Fosfomycin 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「CONTEPO 為一種抗菌藥物。[…] Fosfomycin 為一種環氧化物類抗菌藥物，藉由共價結合並抑制磷酸烯醇丙酮酸轉移酶 (MurA)，從而阻斷肽聚糖的合成，以破壞細菌細胞壁合成。Fosfomycin 對腸桿菌目 (Enterobacterales) 具殺菌作用。」英文原文："CONTEPO is an antibacterial drug. […] Fosfomycin is an epoxide antibacterial drug that disrupts bacterial cell wall synthesis by covalently binding and inhibiting phosphoenolpyruvate transferase (MurA), thereby blocking the synthesis of peptidoglycan. Fosfomycin is bactericidal against Enterobacterales."（[DailyMed: Contepo (fosfomycin disodium) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=855574f2-39f8-43bc-a3d2-79dbb578cb94)，版本日期 2025-11-04；查閱日期 2026-11-19）。根據已知的藥理特性，Fosfomycin 抑制細菌 MurA 酶（UDP-N-乙醯葡萄糖胺烯醇丙酮酸轉移酶），阻斷肽聚醣前驅物合成，具殺菌作用，且在尿液中濃度高。
 
 子宮發炎性疾病若屬細菌性（如骨盆腔或子宮內感染），理論上可由廣譜殺菌抗生素治療，這是模型預測的可能依據。但現有資料中，與此預測連結的唯一文獻討論的是 dienogest 相關膀胱炎，並非子宮發炎，也未評估 Fosfomycin 用於子宮疾病。兩個臨床試驗是兒童藥動學研究，與此疾病無關。因此這項預測目前僅屬模型推論。
 
@@ -123,6 +123,19 @@ TxGNN 模型預測排名第一的新適應症為**子宮發炎性疾病 (Uterine
 - 評估 Fosfomycin 在子宮／骨盆腔組織的穿透性與藥動學
 - 搜尋或設計直接針對子宮發炎性疾病（如子宮內膜炎、骨盆腔炎）的臨床研究
 - 依腎功能、鈉負荷（靜脈劑型）及上述 3 項交互作用制定安全性監測計畫
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Contepo (fosfomycin disodium) prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=855574f2-39f8-43bc-a3d2-79dbb578cb94) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

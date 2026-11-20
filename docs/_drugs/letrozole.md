@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**乳頭癌 (nipple carcinoma)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，letrozole 屬於非固醇性抗雌激素藥，透過抑制雌激素合成來降低雌激素驅動的腫瘤生長。
+根據美國 FDA 核准的 Letrozole 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「部分乳癌的生長受雌激素刺激或維持。對於被認為具荷爾蒙反應性（即雌激素及／或黃體素受體陽性或受體狀態未知）之乳癌，其治療曾包括多種降低雌激素濃度（卵巢切除術、腎上腺切除術、腦下垂體切除術）或抑制雌激素作用（抗雌激素及黃體素類藥物）的方法。[…] Letrozole 是芳香環轉化酶系統的非類固醇競爭性抑制劑；它抑制雄激素轉化為雌激素。」英文原文："The growth of some cancers of the breast is stimulated or maintained by estrogens. Treatment of breast cancer thought to be hormonally responsive (i.e., estrogen and/or progesterone receptor positive or receptor unknown) has included a variety of efforts to decrease estrogen levels (ovariectomy, adrenalectomy, hypophysectomy) or inhibit estrogen effects (antiestrogens and progestational agents). […] Letrozole is a nonsteroidal competitive inhibitor of the aromatase enzyme system; it inhibits the conversion of androgens to estrogens."（[DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406)，版本日期 2026-06-11；查閱日期 2026-11-19）。根據已知資訊，letrozole 屬於非固醇性抗雌激素藥，透過抑制雌激素合成來降低雌激素驅動的腫瘤生長。
 
 乳頭癌屬於乳房相關惡性腫瘤。若腫瘤為荷爾蒙受體陽性，抑制雌激素在機轉上有可能抑制其生長。不過這個推論僅來自一般乳癌的類比，針對乳頭癌這個亞型並沒有直接證據。
 
@@ -144,11 +144,12 @@ Letrozole 為荷爾蒙類抗腫瘤藥物，並非傳統細胞毒性化療藥物�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「雌激素降幅超過 95%」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫雌激素降幅超過 95%；原為更正） | [DailyMed：Femara (letrozole) tablets 仿單（Novartis），Pharmacodynamics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Femara (letrozole) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82b77d74-085f-45ac-a7dd-1f5c038bf406) |
 
 <!-- review:end log -->
 

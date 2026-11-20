@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Ramucirumab 是針對 VEGFR-2 的單株抗體，能阻斷 VEGF 驅動的腫瘤血管新生。原適應症皆為實體腫瘤（胃腺癌、肺癌、大腸直腸癌、肝細胞癌），其療效與抑制腫瘤血管新生有關。
+根據美國 FDA 核准的 Ramucirumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Ramucirumab是一種VEGFR2拮抗劑，可專一性地與VEGFR2結合，並阻斷VEGFR配體VEGF-A、VEGF-C及VEGF-D的結合。因此，ramucirumab可抑制配體刺激的VEGFR2活化，從而抑制配體誘導的人類內皮細胞增生及遷移。在活體動物模型中，ramucirumab可抑制血管新生。」英文原文："Ramucirumab is a VEGFR2 antagonist that specifically binds VEGFR2 and blocks binding of VEGFR ligands, VEGF-A, VEGF-C, and VEGF-D. As a result, ramucirumab inhibits ligand-stimulated activation of VEGFR2, thereby inhibiting ligand-induced proliferation, and migration of human endothelial cells. Ramucirumab inhibited angiogenesis in an in vivo animal model."（[DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4)，版本日期 2026-06-09；查閱日期 2026-11-19）。根據已知資訊，Ramucirumab 是針對 VEGFR-2 的單株抗體，能阻斷 VEGF 驅動的腫瘤血管新生。原適應症皆為實體腫瘤（胃腺癌、肺癌、大腸直腸癌、肝細胞癌），其療效與抑制腫瘤血管新生有關。
 
 子宮韌帶腺癌同屬腺癌，若腫瘤依賴 VEGF 訊號促進血管新生，理論上 VEGFR-2 阻斷可能有效。此外，模型同時預測了多種子宮頸及子宮韌帶腺癌亞型（如子宮頸內膜癌、子宮頸腺樣囊性癌、腸型子宮頸黏液腺癌等），顯示預測集中在婦科腺癌這一方向。
 
@@ -125,11 +125,12 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (Uterine Ligament Adenocarcin
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 4 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Cyramza (ramucirumab) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6080942-dee6-423e-b688-1272c2ae90d4) |
 
 <!-- review:end log -->
 

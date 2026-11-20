@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**葡萄球菌燙傷樣皮膚症候群 (Staphyloco
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Fidaxomicin 是一種抑制細菌 RNA 聚合酶的窄譜巨環內酯類抗生素，對部分革蘭氏陽性菌（包含金黃色葡萄球菌）在體外具有活性。這是模型預測唯一可能的機轉連結。
+根據美國 FDA 核准的 Fidaxomicin 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Fidaxomicin 是一種抗菌藥物。[…] Fidaxomicin 是由放線菌 Dactylosporangium aurantiacum 取得的發酵產物。Fidaxomicin 是一種巨環內酯類抗菌藥物，藉由與 RNA 聚合酶結合而抑制 RNA 合成。Fidaxomicin 於體外對 C. difficile 具殺菌作用，並對 C. difficile 呈現 6-10 hrs 的抗生素後效應。」英文原文："Fidaxomicin is an antibacterial drug. […] Fidaxomicin is a fermentation product obtained from the Actinomycete Dactylosporangium aurantiacum. Fidaxomicin is a macrolide antibacterial drug that inhibits RNA synthesis by binding to RNA polymerases. Fidaxomicin is bactericidal against C. difficile in vitro, and demonstrates a post-antibiotic effect vs. C. difficile of 6-10 hrs."（[DailyMed: Dificid (fidaxomicin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb)，版本日期 2024-10-16；查閱日期 2026-11-19）。根據已知資訊，Fidaxomicin 是一種抑制細菌 RNA 聚合酶的窄譜巨環內酯類抗生素，對部分革蘭氏陽性菌（包含金黃色葡萄球菌）在體外具有活性。這是模型預測唯一可能的機轉連結。
 
 然而，這個連結相當薄弱。葡萄球菌燙傷樣皮膚症候群是由金黃色葡萄球菌所產生的毒素介導的全身性疾病，而 Fidaxomicin 幾乎不被全身吸收，難以在皮膚或血液中達到有效濃度。此外，現有的標準治療已相當完善。
 
@@ -115,12 +115,13 @@ TxGNN 模型預測它可能對**葡萄球菌燙傷樣皮膚症候群 (Staphyloco
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 作用機轉寫成「σ 因子釋放步驟」 | 報告重生後已無此錯誤（2026-10-15：新報告機轉只寫抑制細菌 RNA 聚合酶，未再寫 σ 因子釋放步驟；新報告另寫對金黃色葡萄球菌在體外有活性，有體外研究支持（Biedenbach 等，Antimicrob Agents Chemother 2010，PMC2863674）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb)；[EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2](https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf)；[PubChem：Fidaxomicin（CID 10034073），Pharmacology and Biochemistry › Mechanism of Action（DrugBank 提供）](https://pubchem.ncbi.nlm.nih.gov/compound/10034073) |
 | 2026-10-03 | 口服生體可用率寫「< 1%」 | 報告重生後已無此錯誤（2026-10-15：新報告只寫幾乎不被全身吸收，未再寫生體可用率 < 1%；原為加註） | [EMA：DIFICLIR（fidaxomicin）產品資訊（SmPC）§5.1、§5.2](https://www.ema.europa.eu/en/documents/product-information/dificlir-epar-product-information_en.pdf)；[DailyMed：DIFICID（fidaxomicin）仿單（Merck），12.4 Microbiology／12.3 Pharmacokinetics](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Dificid (fidaxomicin) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd966338-c820-4270-b704-09ef75fa3ceb) |
 
 <!-- review:end log -->
 

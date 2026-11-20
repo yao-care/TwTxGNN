@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 
 ## 為什麼這個預測合理？
 
-目前缺乏來自 DrugBank 的詳細作用機轉資料。
+根據美國 FDA 核准的 Doxorubicin 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「鹽酸多柔比星（doxorubicin hydrochloride）對惡性細胞的細胞毒性作用及其對各器官的毒性作用，被認為與多柔比星的核苷酸鹼基嵌入及細胞膜脂質結合活性有關。嵌入作用會抑制核苷酸複製以及DNA和RNA聚合酶的作用。」英文原文："The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases."（[DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd)，版本日期 2026-11-12；查閱日期 2026-11-19）。
 依本報告所整理的資料，doxorubicin 可嵌入 DNA 並抑制拓撲異構酶 II，造成 DNA 損傷，對快速增生的小圓細胞腫瘤具有細胞毒性。
 
 尤文氏肉瘤是好發於兒童、青少年與年輕成人的骨與軟組織惡性腫瘤。
@@ -160,7 +160,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -169,6 +169,7 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 | 2026-10-03 | 許可證表列 polatuzumab vedotin 製劑「保癌寧」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 資料說明「20 張許可證均登記為相同許可證號」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題以 HER2 陽性乳癌與 DLBCL 為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
 
 <!-- review:end log -->
 

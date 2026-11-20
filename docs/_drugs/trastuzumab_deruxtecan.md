@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (drug-induced osteop
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Trastuzumab deruxtecan 是以 HER2 為標靶的抗體藥物複合體，將拓樸異構酶 I 抑制劑類的毒性載荷送至表現 HER2 的腫瘤細胞，其療效已在 HER2 相關癌症中被證實。
+根據美國 FDA 核准的 Trastuzumab Deruxtecan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Fam-trastuzumab deruxtecan-nxki 是一種以 HER2 為標靶的抗體藥物複合體。其抗體為人源化抗 HER2 IgG1。小分子 DXd 為一種拓撲異構酶 I 抑制劑，經由可裂解的連接子與抗體相連。」英文原文："Fam-trastuzumab deruxtecan-nxki is a HER2-directed antibody-drug conjugate. The antibody is a humanized anti-HER2 IgG1. The small molecule, DXd, is a topoisomerase I inhibitor attached to the antibody by a cleavable linker."（[DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6)，版本日期 2026-05-15；查閱日期 2026-11-19）。就已知資訊，Trastuzumab deruxtecan 是以 HER2 為標靶的抗體藥物複合體，將拓樸異構酶 I 抑制劑類的毒性載荷送至表現 HER2 的腫瘤細胞，其療效已在 HER2 相關癌症中被證實。
 
 然而，目前沒有已知的生物學路徑，可以把這種機轉與藥物誘發性骨質疏鬆的預防或治療連結起來。原適應症是 HER2 表現的惡性腫瘤，新預測的適應症則是骨代謝疾病，兩者在疾病性質與治療目標上差異很大。
 
@@ -140,11 +140,12 @@ TxGNN 的 0.9931 分數僅是模型預測結果，在缺乏機轉資料與實際
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：6 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Enhertu (fam-trastuzumab deruxtecan-nxki) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7e67e73e-ddf4-4e4d-8b50-09d7514910b6) |
 
 <!-- review:end log -->
 

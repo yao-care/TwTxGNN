@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**外陰倒置性毛囊角化症 (vulvar inverted 
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Amcinonide 屬於外用糖皮質素類，
+ChEMBL（EMBL-EBI）收錄的 Amcinonide 作用機轉（非官方翻譯）：「糖皮質激素受體促效劑」英文原文："Glucocorticoid receptor agonist"（[ChEMBL CHEMBL1200732 (amcinonide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200732)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Amcinonide 屬於外用糖皮質素類，
 其抗發炎與抗增生作用在多種發炎性皮膚疾病中已被廣泛運用。
 
 外陰倒置性毛囊角化症是一種良性的毛囊相關病灶。從藥理角度看，
@@ -115,6 +115,19 @@ TxGNN 模型預測它可能對**外陰倒置性毛囊角化症 (vulvar inverted 
 - 補充詳細的作用機轉資料
 - 由皮膚科與婦科專家評估外陰部使用的可行性與安全性
 - 若要進一步探索，可先規劃小規模探索性研究並設定嚴格的安全監測
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1200732 (amcinonide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200732) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

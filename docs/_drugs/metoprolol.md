@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病 (malignant hypertensive
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。依一般藥理知識，metoprolol 是 β1 選擇性阻斷劑，可降低心跳速率、心輸出量與腎素釋放，因此在機轉上具有降血壓的合理性。
+根據美國 FDA 核准的 Metoprolol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Metoprolol 是一種β1選擇性（心臟選擇性）腎上腺素受體阻斷劑。然而，此優先作用並非絕對，在較高血漿濃度下，metoprolol 亦會抑制主要位於支氣管及血管肌肉組織的β2腎上腺素受體。」英文原文："Metoprolol is a beta 1 -selective (cardioselective) adrenergic receptor blocking agent. This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature."（[DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a)，版本日期 2026-03-03；查閱日期 2026-11-19）。依一般藥理知識，metoprolol 是 β1 選擇性阻斷劑，可降低心跳速率、心輸出量與腎素釋放，因此在機轉上具有降血壓的合理性。
 
 惡性高血壓性腎病屬於嚴重高血壓造成的腎臟損傷，控制血壓是處置核心，這是模型預測的可能依據。但目前沒有提供任何針對此疾病的試驗或文獻，這個推論仍停留在模型預測與理論層次。
 
@@ -120,11 +120,12 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病 (malignant hypertensive
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a) |
 
 <!-- review:end log -->
 

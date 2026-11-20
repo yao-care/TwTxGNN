@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Ethynodiol diacetate 是複方口服避孕藥的一部分，其成分在避孕與抑制排卵上的作用已被證實。
+ChEMBL（EMBL-EBI）收錄的 Ethynodiol Diacetate 作用機轉（非官方翻譯）：「黃體素受體促效劑」英文原文："Progesterone receptor agonist"（[ChEMBL CHEMBL1200624 (ethynodiol diacetate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200624)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Ethynodiol diacetate 是複方口服避孕藥的一部分，其成分在避孕與抑制排卵上的作用已被證實。
 
 在複方避孕藥中，Ethynodiol diacetate 常與 ethinyl estradiol 合用。雌激素成分可抑制卵巢雄性素的產生，並提高性荷爾蒙結合球蛋白（SHBG），因而可能減少皮脂分泌並改善痤瘡。
 
@@ -140,13 +140,14 @@ TxGNN 知識圖譜中，有下列疾病與本藥存在禁忌關聯（此為圖�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表字號與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「其他上市產品」原料藥字號不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1200624 (ethynodiol diacetate): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1200624) |
 
 <!-- review:end log -->
 

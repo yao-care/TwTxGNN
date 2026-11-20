@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**人類免疫缺乏病毒感染 (HIV infectious d
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，fulvestrant 屬於雌激素受體（ER）拮抗劑與降解劑，可阻斷並促進雌激素受體的降解。
+根據美國 FDA 核准的 Fulvestrant 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「許多乳癌具有雌激素受體（ER），這些腫瘤的生長可受雌激素刺激。Fulvestrant 是一種雌激素受體拮抗劑，以與 estradiol 相當的親和力，競爭性地與雌激素受體結合，並下調人類乳癌細胞中的 ER 蛋白。」英文原文："Many breast cancers have estrogen receptors (ER) and the growth of these tumors can be stimulated by estrogen. Fulvestrant is an estrogen receptor antagonist that binds to the estrogen receptor in a competitive manner with affinity comparable to that of estradiol and downregulates the ER protein in human breast cancer cells."（[DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a)，版本日期 2026-10-16；查閱日期 2026-11-19）。根據已知資訊，fulvestrant 屬於雌激素受體（ER）拮抗劑與降解劑，可阻斷並促進雌激素受體的降解。
 
 近期一項體外研究（2026 年）探討雌激素受體 α 在 CD4+ T 細胞中的作用，並檢視 fulvestrant 與 HIV 潛伏反轉劑對該路徑的影響。這提供了「雌激素受體訊號可能調節 HIV 潛伏與再活化」的機轉假說。
 
@@ -135,11 +135,12 @@ TxGNN 模型預測它可能對**人類免疫缺乏病毒感染 (HIV infectious d
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表列入 abemaciclib 製劑「捷癌寧膜衣錠」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Cligavyx (fulvestrant) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e20d8ca3-8837-4003-8b01-1ebec342062a) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**結膜炎 (Conjunctivitis)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Rifampicin 是抑制細菌 DNA 依賴性 RNA 聚合酶的抗生素，對結膜炎常見病原體如砂眼披衣菌（Chlamydia trachomatis）與金黃色葡萄球菌具有活性。
+根據美國 FDA 核准的 Rifampicin 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Rifampin可抑制易感性結核分枝桿菌（Mycobacterium tuberculosis）菌體內依賴DNA的RNA聚合酶活性。具體而言，其會與細菌RNA聚合酶產生交互作用，但不會抑制哺乳類動物的該酵素。」英文原文："Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme."（[DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5)，版本日期 2026-05-05；查閱日期 2026-11-19）。根據已知資訊，Rifampicin 是抑制細菌 DNA 依賴性 RNA 聚合酶的抗生素，對結膜炎常見病原體如砂眼披衣菌（Chlamydia trachomatis）與金黃色葡萄球菌具有活性。
 
 結核病與細菌性結膜炎同屬細菌感染，原適應症中的抗菌活性，理論上可延伸到眼表感染。部分文獻也提到，Rifampicin 曾以局部眼膏形式用於砂眼與披衣菌眼部感染。
 
@@ -149,6 +149,19 @@ TxGNN 模型預測它可能對**結膜炎 (Conjunctivitis)** 有效，
 - 評估眼用劑型的可行性（配方、眼部耐受性與毒性）
 - 與現有局部抗生素比較的對照研究設計
 - 評估使用 Rifampicin 對抗結核治療之抗藥性管理的影響
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: rifampin prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8be91604-d7cd-4f2b-997d-e3364e4092e5) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

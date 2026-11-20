@@ -60,7 +60,7 @@ TxGNN 模型預測排名第一的新適應症為**結膜濾泡增生 (conjunctiv
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Prednisolone acetate 屬於糖皮質素受體促效劑，可抑制磷脂酶 A2、下調 NF-κB 等發炎介質，進而降低結膜濾泡的發炎反應。
+根據美國 FDA 核准的 Prednisolone Acetate 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Prednisolone 是一種合成的腎上腺皮質類固醇藥物，主要具有糖皮質素特性。其中部分特性重現內生性糖皮質類固醇的生理作用，但其他特性則不一定反映任何腎上腺激素的正常功能；這些特性僅在投予大劑量治療劑量的本藥後才會出現。」英文原文："Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug."（[DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1)，版本日期 2025-06-03；查閱日期 2026-11-19）。根據已知資訊，Prednisolone acetate 屬於糖皮質素受體促效劑，可抑制磷脂酶 A2、下調 NF-κB 等發炎介質，進而降低結膜濾泡的發炎反應。
 
 台灣核准適應症本身已涵蓋眼瞼炎、結膜炎、角膜炎、鞏膜炎及虹彩毛樣體炎等眼部過敏性與發炎性疾患。預測的新適應症多為結膜發炎類疾病，與既有的眼科用途在病理上高度相關，因此機轉上有其合理性。
 
@@ -166,6 +166,19 @@ TxGNN 模型預測排名第一的新適應症為**結膜濾泡增生 (conjunctiv
 - 對感染性結膜炎（寄生蟲性、病毒性）先釐清致病原，並評估使用類固醇的風險。
 - 擬定眼壓、白內障及感染的監測計畫。
 - 確認既有眼用劑型（點眼液劑、點眼懸液劑）與預測疾病的給藥途徑相容。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

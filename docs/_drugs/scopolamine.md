@@ -66,7 +66,7 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Scopolamine 屬於蕈毒鹼受體拮抗劑（抗膽鹼藥物），
+根據美國 FDA 核准的 Scopolamine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Scopolamine 為一種顛茄生物鹼，屬抗膽鹼藥物。Scopolamine 的作用：i) 作為副交感神經系統節後蕈毒鹼受體部位的競爭性抑制劑，以及 ii) 作用於對乙醯膽鹼有反應但缺乏膽鹼性神經支配的平滑肌。」英文原文："Scopolamine, a belladonna alkaloid, is an anticholinergic. Scopolamine acts: i) as a competitive inhibitor at postganglionic muscarinic receptor sites of the parasympathetic nervous system, and ii) on smooth muscles that respond to acetylcholine but lack cholinergic innervation."（[DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88)，版本日期 2025-06-10；查閱日期 2026-11-19）。根據已知資訊，Scopolamine 屬於蕈毒鹼受體拮抗劑（抗膽鹼藥物），
 在痙攣性疼痛，包括尿路痙攣的療效已被臨床使用證實。
 
 理論上，抗膽鹼作用可降低膀胱逼尿肌的活性，可能緩解馬尾症候群相關神經性膀胱功能障礙所導致的膀胱過動。
@@ -188,11 +188,12 @@ TxGNN 模型預測它可能對**脊髓馬尾症候群 (Cauda Equina Syndrome)** 
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」取自丁基東莨菪鹼許可證 | 加註（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Transderm Scop (scopolamine) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b877a694-a1d0-4280-937a-a06820b12a88) |
 
 <!-- review:end log -->
 

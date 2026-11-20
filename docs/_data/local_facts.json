@@ -21,14 +21,15 @@
   "items_current": 5750
  },
  "reviews": {
-  "records": 658,
-  "pages": 215,
-  "public_pages_with_records": 204,
+  "records": 870,
+  "pages": 283,
+  "public_pages_with_records": 272,
   "by_action": {
    "annotate": 188,
    "correct": 268,
    "description_level": 45,
    "header_level": 65,
+   "mechanism": 212,
    "rereview": 41,
    "rereview_result": 41,
    "section": 10
@@ -63,7 +64,7 @@
    "l": "N/A",
    "lt": 605,
    "lv": 276,
-   "r": 6,
+   "r": 7,
    "i": "alopecia areata"
   },
   {
@@ -81,7 +82,7 @@
    "l": "L4",
    "lt": 463,
    "lv": 199,
-   "r": 3,
+   "r": 4,
    "i": "alopecia mucinosa"
   },
   {
@@ -90,7 +91,7 @@
    "l": "L5",
    "lt": 421,
    "lv": 188,
-   "r": 0,
+   "r": 1,
    "i": "acromesomelic dysplasia, Hunter-Thompson type"
   },
   {
@@ -99,7 +100,7 @@
    "l": "N/A",
    "lt": 566,
    "lv": 175,
-   "r": 6,
+   "r": 7,
    "i": "alopecia areata"
   },
   {
@@ -119,7 +120,7 @@
    "l": "L5",
    "lt": 15,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "pulmonary hypertension owing to lung disease and/or hypoxia"
   },
   {
@@ -137,7 +138,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 3,
+   "r": 4,
    "i": "毛細胞白血病"
   },
   {
@@ -173,7 +174,7 @@
    "l": "L5",
    "lt": 1,
    "lv": 0,
-   "r": 2,
+   "r": 3,
    "i": "HER2 陽性乳癌"
   },
   {
@@ -191,7 +192,7 @@
    "l": "L5",
    "lt": 40,
    "lv": 0,
-   "r": 2,
+   "r": 3,
    "i": "gout"
   },
   {
@@ -200,7 +201,7 @@
    "l": "L5",
    "lt": 59,
    "lv": 0,
-   "r": 2,
+   "r": 3,
    "i": "gout"
   },
   {
@@ -209,7 +210,7 @@
    "l": "L5",
    "lt": 4,
    "lv": 0,
-   "r": 1,
+   "r": 2,
    "i": "congenital prothrombin deficiency"
   }
  ],
@@ -234,6 +235,15 @@
    "i": "hypertrichosis (disease)"
   },
   {
+   "t": "Carboplatin",
+   "u": "/drugs/carboplatin/",
+   "l": "L5",
+   "lt": 16,
+   "lv": 3,
+   "r": 13,
+   "i": "直腸黏液腺癌"
+  },
+  {
    "t": "Uracil",
    "u": "/drugs/uracil/",
    "l": "N/A",
@@ -241,15 +251,6 @@
    "lv": 5,
    "r": 13,
    "i": "colonic neoplasm"
-  },
-  {
-   "t": "Carboplatin",
-   "u": "/drugs/carboplatin/",
-   "l": "L5",
-   "lt": 16,
-   "lv": 3,
-   "r": 12,
-   "i": "直腸黏液腺癌"
   },
   {
    "t": "Cyclizine",
@@ -261,13 +262,13 @@
    "i": "allergic urticaria"
   },
   {
-   "t": "Cromoglicic Acid",
-   "u": "/drugs/cromoglicic-acid/",
-   "l": "L5",
-   "lt": 46,
-   "lv": 13,
-   "r": 10,
-   "i": "潰瘍性直腸乙狀結腸炎"
+   "t": "Terbutaline",
+   "u": "/drugs/terbutaline/",
+   "l": "N/A",
+   "lt": 52,
+   "lv": 17,
+   "r": 11,
+   "i": "obstructive lung disease"
   }
  ],
  "example": {
@@ -276,7 +277,7 @@
   "l": "L1",
   "lt": 28,
   "lv": 7,
-  "r": 5,
+  "r": 6,
   "i": "尤文氏肉瘤"
  },
  "recent_reviews": [

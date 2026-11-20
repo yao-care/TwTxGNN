@@ -62,7 +62,7 @@ TxGNN 模型排名第一的預測是「點狀上皮角結膜炎」，但該預�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Acyclovir 經病毒胸苷激酶磷酸化後，抑制病毒 DNA 聚合酶，是疱疹病毒感染的標準抗病毒藥物。
+根據美國 FDA 核准的 Acyclovir 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Acyclovir 是一種合成嘌呤核苷類似物，在體外及體內對第 1 型單純疱疹病毒（HSV-1）、第 2 型單純疱疹病毒（HSV-2）及水痘帶狀疱疹病毒（VZV）具有抑制活性。由於 acyclovir 對 HSV 及 VZV 所編碼的胸苷激酶（TK）具有親和力，其抑制活性具有高度選擇性。」英文原文："Acyclovir is a synthetic purine nucleoside analogue with in vitro and in vivo inhibitory activity against herpes simplex virus types 1 (HSV-1), 2 (HSV-2), and varicella-zoster virus (VZV). The inhibitory activity of acyclovir is highly selective due to its affinity for the enzyme thymidine kinase (TK) encoded by HSV and VZV."（[DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4)，版本日期 2026-06-26；查閱日期 2026-11-19）。根據已知資訊，Acyclovir 經病毒胸苷激酶磷酸化後，抑制病毒 DNA 聚合酶，是疱疹病毒感染的標準抗病毒藥物。
 
 尋常疣由人類乳突病毒（HPV）引起。HPV 是 DNA 病毒，但**本身不具備胸苷激酶**，因此 Acyclovir 的傳統活化途徑是否適用仍有疑問。
 目前文獻提出的可能解釋包括局部免疫刺激或其他非典型抗病毒作用，這些都尚未被證實。
@@ -145,7 +145,7 @@ TxGNN 模型排名第一的預測是「點狀上皮角結膜炎」，但該預�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -153,6 +153,7 @@ TxGNN 模型排名第一的預測是「點狀上皮角結膜炎」，但該預�
 | 2026-10-03 | 「台灣現行核准適應症中已涵蓋帶狀疱疹眼炎相關治療」 | 報告重生後已無此錯誤（2026-10-15：新報告的預測改為尋常疣，正文未再提及帶狀疱疹眼炎或台灣核准適應症涵蓋帶狀疱疹眼炎；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 原適應症寫「復發性生殖器疱疹的預防及治療」 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L2」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: acyclovir prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=499c6a98-0614-4ded-8526-909942bae8a4) |
 
 <!-- review:end log -->
 

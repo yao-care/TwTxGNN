@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**伴有廣泛結節的髓母細胞瘤 (medullobla
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未收錄 MOA）。依本報告彙整的資料，Vismodegib 為 SMO 抑制劑，可阻斷 Hedgehog 訊號路徑。
+根據美國 FDA 核准的 Vismodegib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Vismodegib 是 Hedgehog 路徑的抑制劑。Vismodegib 會與 Smoothened 結合並加以抑制；Smoothened 是一種參與 Hedgehog 訊息傳遞的跨膜蛋白。」英文原文："Vismodegib is an inhibitor of the Hedgehog pathway. Vismodegib binds to and inhibits Smoothened, a transmembrane protein involved in Hedgehog signal transduction."（[DailyMed: Erivedge (vismodegib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eb368bb6-80e3-4df9-8a85-91df0a2ada6a)，版本日期 2024-12-02；查閱日期 2026-11-19）。依本報告彙整的資料，Vismodegib 為 SMO 抑制劑，可阻斷 Hedgehog 訊號路徑。
 
 髓母細胞瘤中的 SHH 亞型依賴 Hedgehog 路徑的異常活化，因此在機轉上，抑制 SMO 有可能對此類腫瘤產生作用。不過，針對此特定亞型（廣泛結節型），目前沒有任何臨床試驗或文獻被納入，支持僅來自 TxGNN 模型預測，尚無法視為已被驗證。
 
@@ -122,11 +122,12 @@ TxGNN 模型預測它可能對**伴有廣泛結節的髓母細胞瘤 (medullobla
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：2 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Erivedge (vismodegib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eb368bb6-80e3-4df9-8a85-91df0a2ada6a) |
 
 <!-- review:end log -->
 

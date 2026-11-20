@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對 **偽性類血友病 (pseudo-von Willebrand disea
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供 MOA）。根據已知資訊，Simoctocog alfa 是重組第八凝血因子，作用是補充缺乏的 FVIII 活性，在 A 型血友病中的療效已被證實。
+ChEMBL（EMBL-EBI）收錄的 Simoctocog Alfa 作用機轉（非官方翻譯）：「凝血因子 VIII 外源性蛋白質」英文原文："Coagulation factor VIII exogenous protein"（[ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Simoctocog alfa 是重組第八凝血因子，作用是補充缺乏的 FVIII 活性，在 A 型血友病中的療效已被證實。
 
 然而，偽性類血友病是一種血小板型疾病，成因是 GP1BA 基因的功能增強變異，使血小板過度結合 von Willebrand 因子。其病理核心在血小板，而非 FVIII 缺乏，因此補充 FVIII 在機轉上沒有明確依據。
 
@@ -116,11 +116,12 @@ TxGNN 模型預測它可能對 **偽性類血友病 (pseudo-von Willebrand disea
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 9 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL2108319 (simoctocog alfa): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108319) |
 
 <!-- review:end log -->
 

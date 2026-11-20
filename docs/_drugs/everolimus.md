@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (liposarcoma)** 有效，
 
 ## 為什麼這個預測合理？
 
-Everolimus 抑制 mTORC1，進而壓抑 PI3K/AKT/mTOR 路徑驅動的細胞增殖。目前缺乏 DrugBank 的詳細作用機轉資料，以下推論依據為本次彙整的機轉假說。
+Everolimus 抑制 mTORC1，進而壓抑 PI3K/AKT/mTOR 路徑驅動的細胞增殖。根據美國 FDA 核准的 Everolimus 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Everolimus可抑制抗原及介白素（IL-2及IL-15）刺激所引起的T及B淋巴球活化與增生。在細胞內，everolimus與一種細胞質蛋白FK506結合蛋白-12（FKBP-12）結合，形成免疫抑制複合物（everolimus：FKBP-12），該複合物可結合並抑制哺乳動物雷帕黴素標靶蛋白（mTOR），一種關鍵的調節激酶。」英文原文："Everolimus inhibits antigenic and interleukin (IL-2 and IL-15) stimulated activation and proliferation of T and B lymphocytes. In cells, everolimus binds to a cytoplasmic protein, the FK506 Binding Protein-12 (FKBP-12), to form an immunosuppressive complex (everolimus: FKBP-12) that binds to and inhibits the mammalian target of rapamycin (mTOR), a key regulatory kinase."（[DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a)，版本日期 2026-09-16；查閱日期 2026-11-19）。
 
 去分化脂肪肉瘤 (dedifferentiated liposarcoma) 常見 CDK4/MDM2 擴增。研究者將 CDK4/6 抑制劑 ribociclib 與 everolimus 合併，期望同時阻斷細胞週期與生長訊號兩條平行路徑；臨床前模型顯示兩者有協同抑制腫瘤生長的作用。
 
@@ -140,11 +140,12 @@ Everolimus 抑制 mTORC1，進而壓抑 PI3K/AKT/mTOR 路徑驅動的細胞增�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表列入 lenvatinib 製劑「樂衛瑪膠囊」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Zortress (everolimus) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e082a024-7850-400b-a5c2-2a140612562a) |
 
 <!-- review:end log -->
 

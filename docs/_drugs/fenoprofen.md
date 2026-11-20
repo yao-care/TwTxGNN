@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**肢端中段發育不良，Hunter-Thompson 型 (
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Fenoprofen 屬於 COX-1/COX-2 抑制劑，主要透過減少前列腺素合成來緩解疼痛與發炎。
+根據美國 FDA 核准的 Fenoprofen 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Fenoprofen 具有止痛、抗發炎及解熱特性。與其他 NSAIDs 一樣，FENOPRON TM 的作用機轉尚未完全明瞭，但涉及抑制環氧化酶（COX-1 及 COX-2）。」英文原文："Fenoprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of FENOPRON TM, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)."（[DailyMed: Fenopron Tm (fenoprofen calcium) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ed1a69a-2375-4cc8-ac2f-1201d7e0b9d0)，版本日期 2026-02-16；查閱日期 2026-11-19）。已知 Fenoprofen 屬於 COX-1/COX-2 抑制劑，主要透過減少前列腺素合成來緩解疼痛與發炎。
 
 Hunter-Thompson 型肢端中段發育不良是一種罕見的骨骼發育疾病，與 CDMP1/GDF5 訊號傳遞缺陷有關。這條路徑與 COX 抑制並無已知關聯，因此從機轉上看，這個預測缺乏支持。就算 NSAID 對骨骼疾病的繼發性疼痛有緩解可能，也無法處理疾病本身的成因。
 
@@ -121,7 +121,7 @@ Hunter-Thompson 型肢端中段發育不良是一種罕見的骨骼發育疾病�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -133,6 +133,7 @@ Hunter-Thompson 型肢端中段發育不良是一種罕見的骨骼發育疾病�
 | 2026-10-16 | 結論稱與既有核准適應症（關節強硬性脊椎炎）重疊 | 許可證表程式修正後已無此錯誤（2026-10-28：原適應症列改為現行有效許可證（衛署藥製字第037862號、第041435號）所載「鎮痛」；已註銷的 011765 號適應症（含關節強硬性脊椎炎）不再列為原適應症（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 模型排名寫第 1839 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [TwTxGNN TxGNN 深度學習預測檔 txgnn_dl_predictions.csv.gz（2026-10-12 產出；封存於 GitHub Release data-20261015 的 TwTxGNN-data 包，yao-care/txgnn 私有 repo）](https://github.com/yao-care/txgnn/releases/tag/data-20261015) |
 | 2026-10-16 | 一句話總結稱含 2 篇雙盲交叉試驗 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/fenoprofen/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Fenopron Tm (fenoprofen calcium) prescribing information, Galt Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ed1a69a-2375-4cc8-ac2f-1201d7e0b9d0) |
 
 <!-- review:end log -->
 

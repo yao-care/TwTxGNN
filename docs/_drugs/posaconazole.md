@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**肺囊蟲病 (Pneumocystosis)** 有效，但目�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Posaconazole 屬於三唑類抗黴菌藥，一般認為它抑制黴菌的 CYP51（羊毛固醇 14-α 去甲基酶），阻斷麥角固醇合成，在侵入性麴菌病和黴菌感染預防中的療效已被證實。
+根據美國 FDA 核准的 Posaconazole 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Posaconazole是一種azole類抗黴菌藥物。[…] Posaconazole藉由抑制細胞色素P-450依賴性酵素羊毛固醇14α-去甲基酶（負責將真菌細胞膜中的羊毛固醇轉化為麥角固醇），阻斷麥角固醇（真菌細胞膜的關鍵成分）的合成。此作用會導致甲基化固醇前驅物累積及細胞膜內麥角固醇耗竭，從而削弱真菌細胞膜的結構與功能。」英文原文："Posaconazole is an azole antifungal agent. […] Posaconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane."（[DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84)，版本日期 2026-02-13；查閱日期 2026-11-19）。Posaconazole 屬於三唑類抗黴菌藥，一般認為它抑制黴菌的 CYP51（羊毛固醇 14-α 去甲基酶），阻斷麥角固醇合成，在侵入性麴菌病和黴菌感染預防中的療效已被證實。
 
 肺囊蟲病與原適應症都發生在免疫低下的族群（如血液惡性腫瘤、造血幹細胞移植患者），臨床上屬於同一類高風險人群，這是預測在臨床情境上的關聯。
 
@@ -147,11 +147,12 @@ TxGNN 模型預測它可能對**肺囊蟲病 (Pneumocystosis)** 有效，但目�
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Noxafil (posaconazole) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b073b082-7b57-4423-8c06-4fd4263d6f84) |
 
 <!-- review:end log -->
 

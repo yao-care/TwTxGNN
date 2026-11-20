@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Nitrofurantoin 是還原型硝基呋喃類抗菌藥，主要用於下泌尿道感染，目前沒有已知的抗發炎或免疫調節機轉可對應類風濕性關節炎。
+根據美國 FDA 核准的 Nitrofurantoin 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Nitrofurantoin 是一種抗菌藥物。[…] Nitrofurantoin 可被多種酶（包括細菌黃素蛋白）還原為具反應性的中間產物，這些中間產物會損害 DNA 及蛋白質等巨分子。」英文原文："Nitrofurantoin is an antibacterial drug. […] Nitrofurantoin is reduced by a wide range of enzymes including bacterial flavoproteins to reactive intermediates which are damaging to macromolecules such as DNA and proteins."（[DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5)，版本日期 2026-01-22；查閱日期 2026-11-19）。根據已知資訊，Nitrofurantoin 是還原型硝基呋喃類抗菌藥，主要用於下泌尿道感染，目前沒有已知的抗發炎或免疫調節機轉可對應類風濕性關節炎。
 
 模型分數雖高（0.9989），但這個分數來自 TxGNN 模型（深度學習），可能反映的是模型從相關疾病之間學到的相似性，並非生物學證據。已檢索到的文獻主要是在描述類風濕性關節炎患者使用 Nitrofurantoin 時的肺毒性（例如與 methotrexate 併用造成不可逆肺纖維化的病例），或抗生素使用與類風濕性關節炎發作的關聯，並未顯示治療效益。
 
@@ -147,6 +147,19 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 - 先進行前臨床研究（如類風濕性關節炎的細胞或動物模型），以驗證是否有療效
 - 評估肺、肝毒性與 methotrexate 交互作用的風險是否可接受
 - 確認台灣的供應與許可狀況（目前 75 張許可證中有 7 張有效）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: nitrofurantoin prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dd99ba40-edff-47c3-9ee4-7e5b7774e5b5) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

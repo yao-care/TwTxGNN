@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供）。根據已知的藥理背景，MMF 的活性代謝物黴酚酸 (mycophenolic acid) 會抑制 IMPDH，使鳥嘌呤核苷酸耗竭，進而限制淋巴球增殖。
+根據美國 FDA 核准的 Mycophenolate Mofetil 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Mycophenolate mofetil（MMF）於口服給藥後被吸收，並水解為活性代謝物 mycophenolic acid（MPA）。MPA 是肌苷單磷酸脫氫酶（IMPDH）兩種同功型（第 I 型及第 II 型）的選擇性非競爭性抑制劑，可抑制鳥苷核苷酸合成的從頭合成途徑，並阻斷 DNA 合成。」英文原文："Mycophenolate mofetil (MMF) is absorbed following oral administration and hydrolyzed to mycophenolic acid (MPA), the active metabolite. MPA is a selective uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novo pathway of guanosine nucleotide synthesis and blocks DNA synthesis."（[DailyMed: Myhibbin (mycophenolate mofetil) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9)，版本日期 2026-07-31；查閱日期 2026-11-19）。根據已知的藥理背景，MMF 的活性代謝物黴酚酸 (mycophenolic acid) 會抑制 IMPDH，使鳥嘌呤核苷酸耗竭，進而限制淋巴球增殖。
 
 在 HIV 的情境下，這個機轉有兩個可能的作用：
 1. 減少被活化的 CD4⁺ T 細胞（病毒的目標細胞）數量。
@@ -143,11 +143,12 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「新睦樂凍晶注射劑」一列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Myhibbin (mycophenolate mofetil) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d9af72d6-7b3e-4c08-94b9-1d8b499cb7f9) |
 
 <!-- review:end log -->
 

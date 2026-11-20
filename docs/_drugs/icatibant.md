@@ -66,7 +66,7 @@ TxGNN 模型預測它對 **C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Icatibant 是選擇性的緩激肽 B2 受體拮抗劑（藥理資料顯示其作用標的包含 B1、B2 受體）。
+根據美國 FDA 核准的 Icatibant 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Icatibant 是對緩激肽 B2 受體具選擇性的競爭性拮抗劑，其親和力與緩激肽相似。遺傳性血管性水腫是由 C1-酯酶抑制劑缺乏或功能異常所引起；C1-酯酶抑制劑是導致緩激肽生成之第 XII 因子/激肽釋放酶蛋白水解級聯反應的關鍵調節因子。」英文原文："Icatibant is a competitive antagonist selective for the bradykinin B2 receptor, with an affinity similar to bradykinin. Hereditary angioedema is caused by an absence or dysfunction of C1-esterase-inhibitor, a key regulator of the Factor XII/kallikrein proteolytic cascade that leads to bradykinin production."（[DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)，版本日期 2025-07-07；查閱日期 2026-11-19）。根據已知資訊，Icatibant 是選擇性的緩激肽 B2 受體拮抗劑（藥理資料顯示其作用標的包含 B1、B2 受體）。
 
 C1 酯酶抑制劑缺乏會使激肽釋放酶-激肽系統失控活化，造成緩激肽過量，進而引發血管性水腫發作。Icatibant 直接阻斷緩激肽與 B2 受體結合，因此在機轉上與疾病病理高度吻合。
 
@@ -176,7 +176,7 @@ C1 酯酶抑制劑缺乏會使激肽釋放酶-激肽系統失控活化，造成�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -185,6 +185,7 @@ C1 酯酶抑制劑缺乏會使激肽釋放酶-激肽系統失控活化，造成�
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L1→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「C1 酯酶抑制劑缺乏症 (C1 inhibitor deficiency)」已重審撤回） | 加註 | [US FDA label (DailyMed)：FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L1」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Firazyr (icatibant acetate) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540) |
 
 <!-- review:end log -->
 

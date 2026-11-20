@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，人類免疫球蛋白 G 是血漿衍生的免疫球蛋白製劑，在原適應症中同時扮演替代治療與免疫調節的角色。
+根據美國 FDA 核准的 Human Immunoglobulin G 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「ASCENIV 是用於原發性體液免疫缺乏（PI）病人的替代療法。ASCENIV 提供廣譜的調理性及中和性 IgG 抗體，可對抗細菌及病毒病原體及其毒素。」英文原文："ASCENIV is a replacement therapy for patients with primary humoral immunodeficiency (PI). ASCENIV provides a broad spectrum of opsonizing and neutralizing IgG antibodies against bacterial and viral pathogens and their toxins."（[DailyMed: Asceniv (human immunoglobulin g) prescribing information, ADMA Biologics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d74f4360-3b51-496c-96fb-84c3976958d2)，版本日期 2026-09-29；查閱日期 2026-11-19）。根據已知資訊，人類免疫球蛋白 G 是血漿衍生的免疫球蛋白製劑，在原適應症中同時扮演替代治療與免疫調節的角色。
 
 理論上，IgG 的免疫調節作用（例如 Fc 受體阻斷、細胞激素與補體調節）可能影響糖尿病視網膜病變中的發炎路徑。不過這個關聯僅是推測，沒有任何臨床或文獻證據支持，目前完全仰賴 TxGNN 的預測分數。
 
@@ -114,6 +114,19 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 - 進行系統性文獻回顧，以及前臨床或機轉研究，確認是否有任何生物學支持
 - 評估給藥途徑的相容性（全身性靜脈注射 vs. 眼部局部給藥）
 - 補齊安全性資料（警語、禁忌症、藥物交互作用），並評估糖尿病患者使用 IgG 的風險
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Asceniv (human immunoglobulin g) prescribing information, ADMA Biologics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d74f4360-3b51-496c-96fb-84c3976958d2) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

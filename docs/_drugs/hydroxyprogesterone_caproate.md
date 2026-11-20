@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**子宮內膜異位症 (Endometriosis of uterus)*
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Hydroxyprogesterone caproate 是一種合成黃體素，能對抗雌激素驅動的子宮內膜增生。
+根據美國 FDA 核准的 Hydroxyprogesterone Caproate 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Hydroxyprogesterone 為一種強效、長效的黃體素類固醇酯，可將增生期內皮轉變為分泌期內皮、誘導乳腺導管發育，並抑制促性腺激素的生成及/或釋放；其亦顯示輕微的雌激素、雄激素或皮質類固醇作用，但不應依賴其產生這些作用。在晚期子宮體腺癌中，Hydroxyprogesterone Caproate Injection, USP 以 1,000 mg 或以上的劑量、每週一次或多次給藥，常可誘發退化性變化。」英文原文："Hydroxyprogesterone is a potent, long-acting, progestational steroid ester which transforms proliferative endothelium into secretory endothelium, induces mammary gland duct development, and inhibits the production and/or release of gonadotropic hormone; it also shows slight estrogenic, androgenic, or corticoid effects as well, but should not be relied upon for these effects. In advanced adenocarcinoma of the uterine corpus, Hydroxyprogesterone Caproate Injection, USP in a dosage of 1,000 mg or more, one or more times each week, often induces regressive changes."（[DailyMed: hydroxyprogesterone caproate prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df)，版本日期 2026-06-12；查閱日期 2026-11-19）。根據已知資訊，Hydroxyprogesterone caproate 是一種合成黃體素，能對抗雌激素驅動的子宮內膜增生。
 
 子宮內膜異位症是異位的內膜組織受雌激素刺激而生長，黃體素類藥物在理論上可抑制這類組織。原適應症（機能性子宮出血、痛經、習慣性流產）也都與子宮內膜與黃體素不足有關，兩者在病理生理上有相近之處。
 
@@ -125,13 +125,14 @@ TxGNN 分數很高，機轉上也合理，但沒有任何臨床試驗，唯一�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
 | 2026-11-03 | 子宮體癌 (uterine corpus cancer)、子宮內膜癌 (endometrial cancer)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 L3（本頁「為什麼這個預測合理」段的敘述）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: hydroxyprogesterone caproate prescribing information, Eugia US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df) |
 
 <!-- review:end log -->
 

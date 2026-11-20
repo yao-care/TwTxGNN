@@ -68,7 +68,7 @@ TxGNN 模型預測它可能對**躁症型雙相情感障礙 (Manic Bipolar Affec
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據文獻與一般藥理知識，Lacosamide 可增強電壓門控鈉離子通道的慢失活，並可能調節 CRMP2 蛋白，進而降低神經元過度興奮。
+根據美國 FDA 核准的 Lacosamide 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Lacosamide口服溶液在人體中發揮抗癲癇作用的確切機制仍有待完全闡明。體外電生理研究顯示，lacosamide選擇性增強電壓門控鈉通道的緩慢失活，從而穩定過度興奮的神經元膜，並抑制神經元重複放電。」英文原文："The precise mechanism by which Lacosamide oral solution exerts its antiepileptic effects in humans remains to be fully elucidated. In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing."（[DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738)，版本日期 2026-09-09；查閱日期 2026-11-19）。根據文獻與一般藥理知識，Lacosamide 可增強電壓門控鈉離子通道的慢失活，並可能調節 CRMP2 蛋白，進而降低神經元過度興奮。
 
 抗癲癇藥長期以來在精神科被用作情緒穩定劑（如部分鈉離子通道作用藥物），因此癲癇與雙相情感障礙在「神經元興奮性過高」這一點上有共通基礎。這是預測合理性的主要依據，但屬於一般藥理推論，並非本藥的直接證據。
 
@@ -166,7 +166,7 @@ TxGNN 模型預測它可能對**躁症型雙相情感障礙 (Manic Bipolar Affec
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -175,6 +175,7 @@ TxGNN 模型預測它可能對**躁症型雙相情感障礙 (Manic Bipolar Affec
 | 2026-11-04 | 躁症型雙相情感障礙（主預測）證據等級重審結果 | 重審：維持，證據等級 L5 不變（2026-11-04 修訂，前版保留於紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Lacosamide in bipolar disorder: A 30-day comparison to a retrospective control group treated with other antiepileptics（PMID 30251375）](https://pubmed.ncbi.nlm.nih.gov/30251375/) |
 | 2026-11-04 | 頁首證據等級 | 查核撤回（2026-11-04：同日改判：PMID 30251375 收的是急性雙相情感障礙發作的病人（不限躁症），屬上層病的研究，主預測維持 L5（lacosamide-manic-bipolar-level-rereview-result-2026-11-04 改為 maintain），這筆頁首／描述的 L5→L3 變更撤回。；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-04 | 頁面描述（description）的證據等級 | 查核撤回（2026-11-04：同日改判：PMID 30251375 收的是急性雙相情感障礙發作的病人（不限躁症），屬上層病的研究，主預測維持 L5（lacosamide-manic-bipolar-level-rereview-result-2026-11-04 改為 maintain），這筆頁首／描述的 L5→L3 變更撤回。；原為頁面描述（description）的「證據等級 L5」改為「證據等級 L3」（依頁首等級；其他文字未改，原文留在紀錄）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Lacosamide Oral Solution (lacosamide) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5b10986e-0809-b6d1-e063-6394a90a5738) |
 
 <!-- review:end log -->
 

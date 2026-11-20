@@ -61,7 +61,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（原廠機轉欄位為空）。根據模型分析所附的機轉推論，hydroxyurea 抑制核糖核苷酸還原酶 (ribonucleotide reductase)，使去氧核糖核苷酸 (dNTP) 庫耗竭，造成 S 期停滯與複製壓力。這是癌細胞的一個弱點，前臨床乳癌研究也在利用這點。
+根據美國 FDA 核准的 Hydroxyurea 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Hydroxyurea 產生其細胞毒性及細胞減量作用的確切機轉尚不清楚。然而，多項研究支持以下假說：hydroxyurea 作為核糖核苷酸還原酶抑制劑，可立即抑制 DNA 合成，而不干擾核糖核酸或蛋白質的合成。」英文原文："The precise mechanism by which hydroxyurea produces its cytotoxic and cytoreductive effects is not known. However, various studies support the hypothesis that hydroxyurea causes an immediate inhibition of DNA synthesis by acting as a ribonucleotide reductase inhibitor, without interfering with the synthesis of ribonucleic acid or of protein."（[DailyMed: Xromi (hydroxyurea) prescribing information, Nova Laboratories, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b37d336-86da-4363-aef1-34a7d3ba973b)，版本日期 2026-02-02；查閱日期 2026-11-19）。根據模型分析所附的機轉推論，hydroxyurea 抑制核糖核苷酸還原酶 (ribonucleotide reductase)，使去氧核糖核苷酸 (dNTP) 庫耗竭，造成 S 期停滯與複製壓力。這是癌細胞的一個弱點，前臨床乳癌研究也在利用這點。
 
 原適應症（卵巢癌、頭頸癌、白血病）都是快速增殖的惡性腫瘤，乳癌同樣屬於增殖活躍的實體腫瘤。因此從機轉上推測，抑制 DNA 合成的策略可能適用。此外，hydroxyurea 兼具放射線增敏作用，與卵巢癌和頭頸癌「併用放療」的使用方式類似。
 
@@ -167,7 +167,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -177,6 +177,7 @@ TxGNN 模型預測它可能對**女性乳癌 (Female Breast Carcinoma)** 有效�
 | 2026-11-03 | 鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [EMA EPAR：EMA EPAR siklos](https://www.ema.europa.eu/en/medicines/human/EPAR/siklos) |
 | 2026-11-03 | 鐮狀細胞-血紅素 C 病 (HbSC)、sickle cell-beta-thalassemia、sickle cell-hemoglobin D disease預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 HbSC L2（本頁「其他預測的參考」段的敘述）；另兩項本頁未列等級→撤回（已核准用途，不列新適應症等級） | [EMA EPAR：EMA EPAR siklos](https://www.ema.europa.eu/en/medicines/human/EPAR/siklos) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Xromi (hydroxyurea) prescribing information, Nova Laboratories, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b37d336-86da-4363-aef1-34a7d3ba973b) |
 
 <!-- review:end log -->
 

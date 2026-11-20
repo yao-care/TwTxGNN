@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (papillary conjunctivitis)** 
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知藥理而言，prilocaine 屬於局部麻醉劑，作用方式是阻斷電壓門控鈉離子通道，抑制感覺神經的動作電位傳導。
+根據美國 FDA 核准的 Prilocaine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Prilocaine 可藉由抑制啟動及傳導神經衝動所需的離子流動來穩定神經元細胞膜，從而產生局部麻醉作用。」英文原文："Prilocaine stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action."（[DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41)，版本日期 2021-11-10；查閱日期 2026-11-19）。就已知藥理而言，prilocaine 屬於局部麻醉劑，作用方式是阻斷電壓門控鈉離子通道，抑制感覺神經的動作電位傳導。
 
 理論上，這類作用可能降低眼表的感覺訊號（如搔癢、不適）。但乳頭狀結膜炎主要是過敏性或機械刺激引起的發炎性疾病，麻醉劑並不處理其免疫或發炎成因。
 
@@ -155,12 +155,13 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (papillary conjunctivitis)** 
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 20 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「台灣共 20 張許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Citanest Plain (prilocaine hydrochloride) prescribing information, Dentsply Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=db23a56f-1e41-4843-9220-1b2e3059db41) |
 
 <!-- review:end log -->
 

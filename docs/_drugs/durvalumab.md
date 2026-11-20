@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (uterine ligament adenocarcin
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供 MOA）。根據已知資訊，Durvalumab 是抗 PD-L1 單株抗體，可解除腫瘤微環境對 T 細胞的抑制，恢復抗腫瘤免疫活性。
+根據美國 FDA 核准的 Durvalumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「程序性細胞死亡配體-1（PD-L1）的表現可由發炎訊號（例如 IFN-gamma）誘導，且可表現於腫瘤微環境中的腫瘤細胞及腫瘤相關免疫細胞上。PD-L1 透過與 PD-1 及 CD80（B7.1）的交互作用，阻斷 T 細胞的功能及活化。[…] Durvalumab 是一種人類免疫球蛋白 G1 kappa（IgG1κ）單株抗體，可與 PD-L1 結合，並阻斷 PD-L1 與 PD-1 及 CD80（B7.1）的交互作用。」英文原文："Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). […] Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1)."（[DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3)，版本日期 2026-08-31；查閱日期 2026-11-19）。根據已知資訊，Durvalumab 是抗 PD-L1 單株抗體，可解除腫瘤微環境對 T 細胞的抑制，恢復抗腫瘤免疫活性。
 
 Durvalumab 已在台灣核准用於晚期或復發性子宮內膜癌的第一線治療（與含鉑化療併用後的維持治療）。子宮韌帶腺癌同屬婦科腺癌，理論上 PD-L1 阻斷可能適用。
 
@@ -132,11 +132,12 @@ Durvalumab 已在台灣核准用於晚期或復發性子宮內膜癌的第一線
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數「13 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3) |
 
 <!-- review:end log -->
 

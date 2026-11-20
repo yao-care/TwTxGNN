@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**痛風 (Gout)** 有效，但目前**沒有任何
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Sulfamerazine 是磺胺類抗菌藥物，一般認為其作用是抑制細菌的二氫蝶酸合成酶（dihydropteroate synthase），干擾細菌葉酸合成。
+ChEMBL（EMBL-EBI）收錄的 Sulfamerazine 作用機轉（非官方翻譯）：「細菌二氫蝶酸合成酶抑制劑」英文原文："Bacterial dihydropteroate synthase inhibitor"（[ChEMBL CHEMBL438 (sulfamerazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL438)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Sulfamerazine 是磺胺類抗菌藥物，一般認為其作用是抑制細菌的二氫蝶酸合成酶（dihydropteroate synthase），干擾細菌葉酸合成。
 
 這個機轉與尿酸代謝或痛風的病理生理（尿酸結晶沉積引發的發炎反應）之間，**沒有已知的明確關聯**。TxGNN 模型（深度學習）給出的高分（0.9935）可能反映模型學到的相關疾病之間的相似性，而非生物學證據，需要審慎看待。
 
@@ -119,12 +119,13 @@ TxGNN 模型預測它可能對**痛風 (Gout)** 有效，但目前**沒有任何
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「全部已註銷」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L4）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL438 (sulfamerazine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL438) |
 
 <!-- review:end log -->
 

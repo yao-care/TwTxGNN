@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**肺高壓 (Pulmonary Hypertension)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 prasugrel 是不可逆的 P2Y12 血小板受體拮抗劑，可抑制血小板活化與聚集，臨床上用於預防 ACS 患者接受 PCI 後的血栓事件。
+根據美國 FDA 核准的 Prasugrel 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Prasugrel是一種血小板活化及凝集抑制劑，其作用係透過其活性代謝物與血小板上P2Y 12類ADP受體不可逆結合。」英文原文："Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets."（[DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e)，版本日期 2022-09-07；查閱日期 2026-11-19）。已知 prasugrel 是不可逆的 P2Y12 血小板受體拮抗劑，可抑制血小板活化與聚集，臨床上用於預防 ACS 患者接受 PCI 後的血栓事件。
 
 肺高壓與 ACS 看似不同，但血小板活化被認為可能參與肺血管重塑與血栓形成，因此抑制 P2Y12 在機轉上有理論上的可能性。
 
@@ -130,6 +130,19 @@ TxGNN 模型預測它可能對**肺高壓 (Pulmonary Hypertension)** 有效，�
 - 若前臨床結果正向，再設計小規模探索性臨床試驗
 
 **補充說明：** 同一份資料中，**偏頭痛 (migraine disorder)**（TxGNN 分數 0.9988）的證據相對較多，包括 1 項招募中的 Phase 3 試驗（NCT07629635，為 PFO 導向治療）及 2 篇 thienopyridine/ticagrelor 於合併 PFO 偏頭痛的小型研究，證據等級 L3，建議列為後續研究問題，優先於肺高壓評估。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

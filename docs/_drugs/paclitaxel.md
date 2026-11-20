@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**腦膜旁胚胎型橫紋肌肉瘤 (parameningeal
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知的藥理知識，paclitaxel 屬於抗微管類抗癌藥，理論上可透過穩定微管、干擾細胞有絲分裂，影響快速增生的腫瘤細胞。
+根據美國 FDA 核准的 Paclitaxel 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Paclitaxel 蛋白結合微粒注射用懸浮劑（白蛋白結合型）是一種微管抑制劑，可促進微管蛋白二聚體組裝成微管，並透過防止解聚合作用而使微管穩定。此穩定作用導致微管網絡正常的動態重組受到抑制，而此動態重組對細胞的重要間期及有絲分裂功能不可或缺。」英文原文："Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions."（[DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c)，版本日期 2025-09-17；查閱日期 2026-11-19）。根據已知的藥理知識，paclitaxel 屬於抗微管類抗癌藥，理論上可透過穩定微管、干擾細胞有絲分裂，影響快速增生的腫瘤細胞。
 
 橫紋肌肉瘤是增生快速的軟組織肉瘤，從機轉上推論，抗有絲分裂藥物有可能產生作用。但這只是理論推測：目前沒有任何臨床試驗或文獻直接研究 paclitaxel 用於此疾病，這個關聯僅建立在 TxGNN 模型的預測上。
 
@@ -136,7 +136,7 @@ TxGNN 模型預測它可能對**腦膜旁胚胎型橫紋肌肉瘤 (parameningeal
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -149,6 +149,7 @@ TxGNN 模型預測它可能對**腦膜旁胚胎型橫紋肌肉瘤 (parameningeal
 | 2026-10-16 | 預測理由引用 trastuzumab 許可證文字 | 查核撤回（2026-10-16：查核判斷有誤：paclitaxel 本身的有效單方許可證（衛署藥輸字第021157號汰癌勝、衛署藥製字第044601號伏摩素）就寫明「與 HERCEPTIN 併用時，用於治療未接受過化學治療之轉移性且乳癌過度表現 HER-2 之病人」，這段許可證文字不是只出自 trastuzumab 許可證；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步建議另行釐清 paclitaxel 單方許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 資料說明稱原適應症欄反映併用情境 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
 
 <!-- review:end log -->
 

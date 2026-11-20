@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**拔毛症 (Trichotillomania)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Pimozide 是強效的多巴胺 D2 受體拮抗劑，用於精神病狀態的療效已被證實。
+根據美國 FDA 核准的 Pimozide 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「藥效學作用 Pimozide錠劑是一種口服有效的抗精神病藥品，與其他抗精神病藥物同樣具有阻斷中樞神經系統神經元上多巴胺受體的能力。雖然其確切作用模式尚未確立，但一般認為pimozide抑制妥瑞氏症（Tourette’s Disorder）之動作型及聲語型抽搐的能力，與其多巴胺阻斷活性有關。」英文原文："Pharmacodynamic Actions Pimozide tablets, are an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. Although its exact mode of action has not been established, the ability of pimozide to suppress motor and phonic tics in Tourette’s Disorder is thought to be a function of its dopaminergic blocking activity."（[DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280)，版本日期 2026-08-12；查閱日期 2026-11-19）。根據已知資訊，Pimozide 是強效的多巴胺 D2 受體拮抗劑，用於精神病狀態的療效已被證實。
 
 拔毛症屬於重複性行為障礙，與妥瑞氏症、強迫症在臨床表現與治療反應上有部分重疊。多巴胺系統在習慣形成與重複行為迴路中的失調，是一個合理的作用標的。
 
@@ -133,12 +133,13 @@ TxGNN 模型預測它可能對**拔毛症 (Trichotillomania)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 原核准適應症多列精神分裂症、幻覺、妄想 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為「精神病狀態」；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 核准適應症多列精神分裂症 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: pimozide prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=70b079e2-a1f7-4a93-8685-d60a4d7c1280) |
 
 <!-- review:end log -->
 

@@ -61,7 +61,7 @@ TxGNN 模型預測它可能對**妥瑞氏症 (Tourette syndrome)** 有效，但�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位為空）。根據已知藥理特性，zonisamide 可阻斷電壓門控鈉離子通道與 T 型鈣離子通道，並調節 GABA／麩胺酸訊號。
+根據美國 FDA 核准的 Zonisamide 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Zonisamide 發揮其抗癲癇發作作用的確切機轉尚不明。Zonisamide 在數種實驗模型中顯示抗痙攣活性。在動物中，zonisamide 對最大電擊誘發之強直伸展型癲癇發作有效，但對皮下注射 pentylenetetrazol 誘發之陣攣型癲癇發作無效。」英文原文："The precise mechanism(s) by which zonisamide exerts its antiseizure effect is unknown. Zonisamide demonstrated anticonvulsant activity in several experimental models. In animals, zonisamide was effective against tonic extension seizures induced by maximal electroshock but ineffective against clonic seizures induced by subcutaneous pentylenetetrazol."（[DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb)，版本日期 2026-09-23；查閱日期 2026-11-19）。根據已知藥理特性，zonisamide 可阻斷電壓門控鈉離子通道與 T 型鈣離子通道，並調節 GABA／麩胺酸訊號。
 
 妥瑞氏症與基底核迴路的興奮性失衡有關，因此上述機轉在理論上可能影響抽動症狀。不過，這只是推測性的機轉連結，原適應症（癲癇）與妥瑞氏症在臨床表現上差異很大，本次也沒有檢索到任何試驗或文獻佐證。
 
@@ -147,6 +147,19 @@ Moderate 等級包括 Aprepitant、Morphine、Dexamethasone、Cimetidine、Clari
 - 針對失神發作癲癇：取得更高等級的對照研究證據，並建立 DDI 審查與精神行為不良反應的監測計畫。
 - 針對雙相情感障礙：需特別評估 zonisamide 誘發躁狂的風險。
 - 確認原廠仿單的警語與禁忌症，補足目前缺漏的安全性資料。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Zonegran (zonisamide) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d12de43e-3ac3-4335-bc85-70d7366a91eb) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

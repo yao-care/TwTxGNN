@@ -65,7 +65,7 @@ TxGNN 模型預測它可能對**會厭腫瘤 (Epiglottis Neoplasm)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Bevacizumab 是中和 VEGF-A 的單株抗體，理論上可抑制腫瘤血管新生，進而限制腫瘤生長。
+根據美國 FDA 核准的 Bevacizumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Bevacizumab 產品會與 VEGF 結合，並阻止 VEGF 與其位於內皮細胞表面的受體（Flt-1 及 KDR）交互作用。在血管新生的體外模型中，VEGF 與其受體的交互作用會導致內皮細胞增生及新血管形成。」英文原文："Bevacizumab products bind VEGF and prevent the interaction of VEGF to its receptors (Flt-1 and KDR) on the surface of endothelial cells. The interaction of VEGF with its receptors leads to endothelial cell proliferation and new blood vessel formation in in vitro models of angiogenesis."（[DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe)，版本日期 2026-08-21；查閱日期 2026-11-19）。根據已知資訊，Bevacizumab 是中和 VEGF-A 的單株抗體，理論上可抑制腫瘤血管新生，進而限制腫瘤生長。
 
 原適應症（大腸直腸癌、肺癌、卵巢癌等）都是依賴血管新生的實體腫瘤，而會厭腫瘤同屬頭頸部腫瘤。從機轉上看，抗血管新生策略有可能適用，但這只是一般性的推論。
 
@@ -150,7 +150,7 @@ TxGNN 模型預測它可能對**會厭腫瘤 (Epiglottis Neoplasm)** 有效，�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -159,6 +159,7 @@ TxGNN 模型預測它可能對**會厭腫瘤 (Epiglottis Neoplasm)** 有效，�
 | 2026-10-03 | 「Vegzelma (艾法施) - 信東」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「ABEVMY - 三星生技」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 會厭腫瘤預測重審結果 | 重審：撤回，證據等級 L5 不變（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Phase III Randomized Trial of Chemotherapy With or Without Bevacizumab in Patients With Recurrent or Metastatic Head and Neck Cancer（PMID 31618129）](https://pubmed.ncbi.nlm.nih.gov/31618129/)；[ClinicalTrials.gov：Chemotherapy With or Without Bevacizumab in Treating Patients With Recurrent or Metastatic Head and Neck Squamous Cell Carcinoma（NCT00588770）](https://clinicaltrials.gov/study/NCT00588770)；[PubMed：Phase II randomized trial of radiation therapy, cetuximab, and pemetrexed with or without bevacizumab in patients with locally advanced head and neck cancer（PMID 27177865）](https://pubmed.ncbi.nlm.nih.gov/27177865/)；[ClinicalTrials.gov：Testing the Use of Investigational Drugs Atezolizumab and/or Bevacizumab With or Without Standard Chemotherapy in the Second-Line Treatment of Advanced-Stage Head and Neck Cancers（NCT05063552）](https://clinicaltrials.gov/study/NCT05063552) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Vegzelma (bevacizumab-adcd) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe) |
 
 <!-- review:end log -->
 

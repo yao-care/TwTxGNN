@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**血栓性疾病 (Thrombotic Disease)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知的藥理背景，Theophylline 是非選擇性磷酸二酯酶（PDE）抑制劑，可提高細胞內 cAMP。血小板內 cAMP 上升理論上能抑制血小板聚集，這是此預測在機轉上的可能連結。
+根據美國 FDA 核准的 Theophylline 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Theophylline 在可逆性阻塞患者的呼吸道中具有兩種不同作用：平滑肌鬆弛（即支氣管擴張）及抑制呼吸道對刺激的反應（即非支氣管擴張性的預防作用）。」英文原文："Theophylline has two distinct actions in the airways of patients with reversible obstruction: smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects)."（[DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410)，版本日期 2024-07-08；查閱日期 2026-11-19）。根據已知的藥理背景，Theophylline 是非選擇性磷酸二酯酶（PDE）抑制劑，可提高細胞內 cAMP。血小板內 cAMP 上升理論上能抑制血小板聚集，這是此預測在機轉上的可能連結。
 
 不過，Theophylline 同時是腺苷受體拮抗劑。腺苷本身會透過提高血小板 cAMP 來抑制聚集，因此拮抗腺苷可能抵銷上述效果。兩種作用的淨效應不明，目前沒有臨床資料支持。
 
@@ -174,7 +174,7 @@ TxGNN 模型預測它可能對**血栓性疾病 (Thrombotic Disease)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -183,6 +183,7 @@ TxGNN 模型預測它可能對**血栓性疾病 (Thrombotic Disease)** 有效，
 | 2026-10-03 | 台灣上市資訊表許可證 衛署藥製字第034567號 與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表許可證 衛署藥製字第045678號 與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 快速總覽「台灣商品名」三個品名 | 報告重生後已無此錯誤（2026-10-15：新報告未再出現「氣舒錠」「泰乙乳甘液」；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410) |
 
 <!-- review:end log -->
 

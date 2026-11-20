@@ -74,7 +74,7 @@ TxGNN 模型預測它可能對**乳突狀結膜炎 (Papillary conjunctivitis)** 
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，水楊酸是外用角質溶解劑，同時具有以抑制 COX 酵素為方向的抗發炎特性（但公開資料中缺乏足以證實其分子標靶的生物活性數據）。理論上，這類抗發炎作用可能調節眼表面的發炎反應。
+根據美國 FDA 核准的 Salicylic Acid 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「雖然 salicylic acid 治療疣的確切作用方式尚不明確，但其活性似乎與其角質溶解作用有關，此作用可機械性地去除受疣病毒感染的表皮細胞。」英文原文："Although the exact mode of action for salicylic acid in the treatment of warts is unknown, its activity appears to be associated with its keratolytic action, which results in mechanical removal of epidermal cells infected with wart viruses."（[DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b)，版本日期 2025-10-15；查閱日期 2026-11-19）。根據已知資訊，水楊酸是外用角質溶解劑，同時具有以抑制 COX 酵素為方向的抗發炎特性（但公開資料中缺乏足以證實其分子標靶的生物活性數據）。理論上，這類抗發炎作用可能調節眼表面的發炎反應。
 
 乳突狀結膜炎屬於眼表面的發炎性疾病，與水楊酸在抗發炎、抗風濕方面的既有用途有間接關聯。不過，這個關聯僅屬推測：沒有任何臨床試驗或文獻佐證，且水楊酸具刺激性，用於眼表面的安全性需特別審慎。
 
@@ -162,7 +162,7 @@ TxGNN 模型預測它可能對**乳突狀結膜炎 (Papillary conjunctivitis)** 
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -171,6 +171,7 @@ TxGNN 模型預測它可能對**乳突狀結膜炎 (Papillary conjunctivitis)** 
 | 2026-10-16 | 標題以解熱鎮痛為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結以解熱鎮痛為原用途 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由稱水楊酸有抗發炎、抗風濕用途 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Xalix (salicylic acid) prescribing information, Cintex Services, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41369b38-7f15-b597-e063-6394a90a614b) |
 
 <!-- review:end log -->
 

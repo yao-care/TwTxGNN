@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**類圓線蟲症 (Strongyloidiasis)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未收錄 MOA）。依已知資訊，Brodalumab 是針對 IL-17RA 的單株抗體，可同時阻斷多種 IL-17 家族細胞激素的訊號。
+根據美國 FDA 核准的 Brodalumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Brodalumab 為一種人類單株 IgG2 抗體，可選擇性與人類 IL-17RA 結合，並抑制其與細胞激素 IL-17A、IL-17F、IL-17C、IL-17A/F 異二聚體及 IL-25 的交互作用。IL-17RA 是一種表現於細胞表面的蛋白質，為多種 IL-17 家族細胞激素所使用之受體複合物的必要組成部分。」英文原文："Brodalumab is a human monoclonal IgG2 antibody that selectively binds to human IL-17RA and inhibits its interactions with cytokines IL-17A, IL-17F, IL-17C, IL-17A/F heterodimer, and IL-25. IL-17RA is a protein expressed on the cell surface and is a required component of receptor complexes utilized by multiple IL-17 family cytokines."（[DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688)，版本日期 2026-05-28；查閱日期 2026-11-19）。依已知資訊，Brodalumab 是針對 IL-17RA 的單株抗體，可同時阻斷多種 IL-17 家族細胞激素的訊號。
 
 IL-17 訊號對黏膜免疫與抗寄生蟲（含蠕蟲）的宿主防禦有貢獻。阻斷此路徑預期會**削弱**宿主防禦，而非幫助清除感染。因此，這項預測缺乏臨床證據，機轉方向也不利，較可能只是模型的統計關聯，而非真正可行的治療方向。
 
@@ -109,6 +109,19 @@ IL-17 訊號對黏膜免疫與抗寄生蟲（含蠕蟲）的宿主防禦有貢�
 - 先做 IL-17 訊號在類圓線蟲感染中角色的前臨床或機轉研究，確認是否有任何潛在益處。
 - 在有支持性證據之前，不建議投入臨床開發。
 - 另可評估排名第 2 的眼部發炎類適應症，但現有文獻偏向風險訊號，需更多資料才能判斷。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Siliq (brodalumab) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1a550c33-456a-4833-814e-8591aea7c688) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

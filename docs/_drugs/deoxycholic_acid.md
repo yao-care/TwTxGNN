@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**體染色體顯性家族性血尿-視網膜小�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 deoxycholic acid 是一種次級膽酸，具有清潔劑般的乳化作用與細胞溶解活性。
+根據美國 FDA 核准的 Deoxycholic Acid 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「KYBELLA為一種細胞溶解性藥物，當注射至頦下脂肪時（用於伴有頦下脂肪所致中度至重度凸出或飽滿的患者），可物理性破壞細胞膜而導致細胞溶解。」英文原文："KYBELLA is a cytolytic drug, which when injected into submental fat - in patients with moderate to severe convexity or fullness associated with submental fat - physically destroys the cell membrane causing lysis."（[DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553)，版本日期 2026-09-11；查閱日期 2026-11-19）。已知 deoxycholic acid 是一種次級膽酸，具有清潔劑般的乳化作用與細胞溶解活性。
 
 預測的疾病是與 COL4A1 相關的罕見血管基底膜疾病，影響腎臟、視網膜血管與肌肉。就目前資料而言，deoxycholic acid 與此疾病之間沒有已建立的機轉關聯。
 
@@ -124,7 +124,7 @@ TxGNN 的高分應視為計算模型的推測結果，可能反映網路特徵�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -134,6 +134,7 @@ TxGNN 的高分應視為計算模型的推測結果，可能反映網路特徵�
 | 2026-10-03 | 備註「多數許可證已註銷，目前主要以 UDCA 產品為主流」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫「以 ursodeoxycholic acid 產品為主流」；把膽結石算成本藥用途的寫法（一句話總結、快速總覽、標題、預測理由）另有查核紀錄更正；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 標題以膽固醇性膽結石為原用途 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 | 2026-10-16 | 預測理由稱原本用於溶解膽固醇性膽結石 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json)；[DailyMed：KYBELLA（deoxycholic acid）injection 美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Kybella (deoxycholic acid) prescribing information, Kythera Biopharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fe431ed4-ea6f-4e99-b4bc-ec25ae7b8553) |
 
 <!-- review:end log -->
 

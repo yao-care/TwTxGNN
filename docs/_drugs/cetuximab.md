@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**兒童支氣管腺瘤/類癌 (bronchial adenomas
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，cetuximab 是靶向 EGFR 的單株抗體，可阻斷 EGFR 訊號傳遞，抑制腫瘤細胞的增生與存活。
+根據美國 FDA 核准的 Cetuximab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「表皮生長因子受體（EGFR, HER1, c-ErbB-1）是一種跨膜醣蛋白，屬於第 I 型受體酪胺酸激酶亞家族的成員，該亞家族包括 EGFR、HER2、HER3 及 HER4。EGFR 在許多正常上皮組織中持續性表現，包括皮膚及毛囊。[…] Cetuximab 會特異性地與正常細胞及腫瘤細胞上的 EGFR 結合，並競爭性地抑制表皮生長因子（EGF）及其他配體（例如轉化生長因子-α）的結合。」英文原文："The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha."（[DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9)，版本日期 2026-04-16；查閱日期 2026-11-19）。根據已知資訊，cetuximab 是靶向 EGFR 的單株抗體，可阻斷 EGFR 訊號傳遞，抑制腫瘤細胞的增生與存活。
 
 就本次預測的疾病而言，沒有任何臨床試驗或文獻將 cetuximab 與兒童支氣管腺瘤/類癌連結起來。兩者的關聯目前僅來自 TxGNN 模型的預測，機轉上是否適用仍有待驗證。
 
@@ -122,6 +122,19 @@ Cetuximab 為標靶單株抗體，並非傳統細胞毒性化療藥物。
 - 補充詳細的作用機轉資料，評估此腫瘤是否依賴 EGFR 訊號
 - 評估兒童族群使用 cetuximab 的安全性與劑量依據
 - 取得原廠仿單的警語與禁忌症，完成安全性評估
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -67,6 +67,12 @@ WITHDRAWN = "withdrawn"
 RESOLVED_PROGRAM = "resolved_by_program"
 
 
+# 附出處的作用機轉（mechanism，2026-11-19）：「目前缺乏詳細的作用機轉資料」那句換成美國 FDA 仿單節錄（附非官方翻譯與英文原文）
+MOA_INTRO_ONLY = "以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。"
+MOA_INTRO_ADD = "「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。"
+ACTION_ZH = dict(ACTION_ZH, mechanism="「缺乏作用機轉資料」句改為附出處的仿單節錄")
+
+
 def load():
     return json.loads(DATA.read_text(encoding="utf-8"))["records"]
 
@@ -171,6 +177,13 @@ def apply_record(text, rec, problems):
             return text
         block = f"{begin(rid)}\n\n{rec['markdown'].strip()}\n\n{end(rid)}\n\n"
         return text[:m.start()] + block + text[m.start():]
+    if act == "mechanism":
+        j = find_outside(text, rec["claim"])
+        if j >= 0:
+            text = text[:j] + rec["replacement"] + text[j + len(rec["claim"]):]
+        elif find_outside(text, rec["replacement"]) < 0:
+            problems.append(f"{rid}：頁面上找不到「缺乏作用機轉資料」原句或附出處的作用機轉（頁面可能被重產改寫，需人工重查）")
+        return text
     if act == "correct":
         # 頁面上是原句就換；頁面停在前版更正（同 id 重發）就把前版換成新版
         # 重新定錨（reanchored）的前版是舊報告的句子，不會留在新頁面上，不參與替換；
@@ -245,6 +258,10 @@ def log_md(recs):
     elif any(r["action"] == "rereview_result" and r.get("table_updates") for r in recs):
         intro = ("以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；"
                  "更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。")
+    if recs and all(r["action"] in ("mechanism", "header_level", "description_level") for r in recs) and any(r["action"] == "mechanism" for r in recs):
+        intro = MOA_INTRO_ONLY
+    elif any(r["action"] == "mechanism" for r in recs):
+        intro += MOA_INTRO_ADD
     return f"{begin('log')}\n\n## 查核紀錄\n\n{intro}\n\n" + "\n".join(rows) + f"\n\n{end('log')}\n\n"
 
 
@@ -297,6 +314,15 @@ def validate(recs):
     if len(by_id) != len(recs):
         errs.append("drug_reviews.json 有重複的 id")
     for r in recs:
+        if r.get("action") == "mechanism":
+            if not (r.get("claim") and r.get("replacement")):
+                errs.append(f"{r.get('id')}：mechanism 要有 claim 與 replacement")
+            for sx in r.get("sources") or []:
+                if not (sx.get("url") and sx.get("accessed") and sx.get("excerpt")):
+                    errs.append(f"{r.get('id')}：mechanism 的來源要有 url、accessed、excerpt（原文節錄）")
+                elif sx["url"] not in (r.get("replacement") or ""):
+                    errs.append(f"{r.get('id')}：mechanism 的 replacement 要附來源連結 {sx['url']}")
+            continue
         if r["action"] != "rereview_result":
             continue
         tgt = by_id.get(r.get("resolves"))

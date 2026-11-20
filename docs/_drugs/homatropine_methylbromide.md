@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，甲溴化后瑪托品是外周作用的抗膽鹼（抗毒蕈鹼）藥物，在台灣許可證上被標示為副交感神經抑制劑，用於緩解胃腸道痙攣與胃酸過多。
+根據美國 FDA 核准的 hydrocodone bitartrate and homatropine methylbromide（含 Homatropine Methylbromide 的複方） 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Homatropine Homatropine 是一種抗膽鹼藥，可抑制毒蕈鹼型乙醯膽鹼受體的活性，其效力低於 atropine。」英文原文："Homatropine Homatropine is an anticholinergic that inhibits activity of the muscarinic acetylcholine receptor with less potency than atropine."（[DailyMed: hydrocodone bitartrate and homatropine methylbromide prescribing information, Genus Lifesciences Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320ff639-9854-407b-9bbd-a035c4f173e1)，版本日期 2026-05-07；查閱日期 2026-11-19）。根據已知資訊，甲溴化后瑪托品是外周作用的抗膽鹼（抗毒蕈鹼）藥物，在台灣許可證上被標示為副交感神經抑制劑，用於緩解胃腸道痙攣與胃酸過多。
 
 從機轉推測，抗毒蕈鹼藥物可降低逼尿肌過度活動與平滑肌痙攣，理論上可能與馬尾損傷後的神經性膀胱或腸道症狀有關。
 
@@ -148,6 +148,19 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 - 系統性搜尋馬尾症候群相關的抗膽鹼藥物研究，並釐清預期的治療目標（症狀緩解而非治療疾病本身）
 - 評估外周抗膽鹼藥在尿滯留風險族群中的安全性（可能加重尿滯留）
 - 若有初步證據，再設計小規模探索性研究
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: hydrocodone bitartrate and homatropine methylbromide prescribing information, Genus Lifesciences Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=320ff639-9854-407b-9bbd-a035c4f173e1) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

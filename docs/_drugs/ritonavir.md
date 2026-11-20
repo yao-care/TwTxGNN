@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**猿猴免疫缺乏病毒感染 (Simian Immunodef
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Ritonavir 是 HIV-1 天門冬胺酸蛋白酶抑制劑，同時也是 CYP3A4 抑制劑，臨床上主要用來提升其他蛋白酶抑制劑的血中濃度。
+根據美國 FDA 核准的 Ritonavir 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Ritonavir 是一種抗反轉錄病毒藥物。[…] Ritonavir 是 HIV-1 蛋白酶的擬肽類抑制劑。抑制 HIV 蛋白酶會使該酵素無法處理 Gag-Pol 多蛋白前驅物，導致產生不具感染性的未成熟 HIV 顆粒。」英文原文："Ritonavir is an antiretroviral drug. […] Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles."（[DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3)，版本日期 2026-07-23；查閱日期 2026-11-19）。根據已知資訊，Ritonavir 是 HIV-1 天門冬胺酸蛋白酶抑制劑，同時也是 CYP3A4 抑制劑，臨床上主要用來提升其他蛋白酶抑制劑的血中濃度。
 
 SIV 與 HIV 同為靈長類慢病毒，蛋白酶結構相近。體外研究顯示 SIVmac239 對 ritonavir 敏感（半數有效濃度約 13 nM，HIV-1 約 25 nM），顯示機轉上具合理性。
 
@@ -129,11 +129,12 @@ SIV 與 HIV 同為靈長類慢病毒，蛋白酶結構相近。體外研究顯�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「普利他膜衣錠150毫克」列（darunavir，非 ritonavir） | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Norvir (ritonavir) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2849298e-de6e-47bb-8194-56e075b33fc3) |
 
 <!-- review:end log -->
 

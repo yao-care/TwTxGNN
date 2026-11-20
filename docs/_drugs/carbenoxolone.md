@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**非症候群型食道畸形 (Non-syndromic Esoph
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位為空）。就一般藥理知識，carbenoxolone 是甘草次酸衍生物，可促進胃黏液分泌，並具有抑制間隙連接（gap junction）與 11-β-羥類固醇脫氫酶（11-β-HSD）的作用。
+ChEMBL（EMBL-EBI）收錄的 Carbenoxolone 作用機轉（非官方翻譯）：「11-β-羥基類固醇去氫酶抑制劑」英文原文："11-beta-hydroxysteroid dehydrogenase inhibitor"（[ChEMBL CHEMBL499915 (carbenoxolone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL499915)，CC BY-SA 3.0；查閱日期 2026-11-19）。就一般藥理知識，carbenoxolone 是甘草次酸衍生物，可促進胃黏液分泌，並具有抑制間隙連接（gap junction）與 11-β-羥類固醇脫氫酶（11-β-HSD）的作用。
 
 原適應症為消化道潰瘍與口腔黏膜潰瘍，屬於黏膜保護的範疇。然而，非症候群型食道畸形是胚胎發育期的結構異常，與黏膜保護或潰瘍癒合沒有已知的機轉關聯。因此，此高分預測目前**缺乏機轉上的支持**，其分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
@@ -121,6 +121,19 @@ TxGNN 模型預測它可能對**非症候群型食道畸形 (Non-syndromic Esoph
 - 釐清此預測是否為 TxGNN 模型（深度學習）的雜訊，並與排名較後的預測（如膽管疾病）交叉比對。
 - 評估臨床上是否存在可治療的目標族群與合理的給藥途徑（目前途徑相容性尚未評估）。
 - 補充安全性資料（警語、禁忌症）；已知此藥有影響電解質與血壓的風險，須以原廠仿單為準。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL499915 (carbenoxolone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL499915) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**惡性高血壓腎病變 (malignant hypertensive
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Irbesartan 屬於 AT1 受體阻斷劑，可阻斷血管張力素 II 經由 AT1 受體產生的血管收縮作用，進而降低血壓。
+根據美國 FDA 核准的 Irbesartan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Angiotensin II是一種強效血管收縮劑，由angiotensin I經血管收縮素轉化酶（ACE，kininase II）催化的反應生成。Angiotensin II是腎素-血管收縮素系統的主要血管活性激素，亦是高血壓病理生理學中的重要組成部分。[…] Irbesartan透過選擇性結合存在於多種組織（例如血管平滑肌、腎上腺）中的AT 1 angiotensin II受體，阻斷angiotensin II的血管收縮及促進醛固酮分泌作用。」英文原文："Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland)."（[DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98)，版本日期 2026-08-24；查閱日期 2026-11-19）。根據已知資訊，Irbesartan 屬於 AT1 受體阻斷劑，可阻斷血管張力素 II 經由 AT1 受體產生的血管收縮作用，進而降低血壓。
 
 惡性高血壓腎病變的核心問題是嚴重高血壓造成腎臟小血管損傷。AT1 阻斷在機轉上可降低全身血壓與腎絲球內壓力，因此在生物學上具合理性。
 
@@ -147,6 +147,19 @@ TxGNN 模型預測它可能對**惡性高血壓腎病變 (malignant hypertensive
 - 取得詳細的作用機轉資料
 - 評估此族群（嚴重高血壓、腎功能受損）使用時的血鉀與腎功能監測計畫
 - 設計小規模探索性研究，或回顧性分析現有病患資料
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

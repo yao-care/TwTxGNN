@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Ipratropium 為毒蕈鹼受體拮抗劑，可阻斷膽鹼性神經對腺體與平滑肌的刺激。
+根據美國 FDA 核准的 Ipratropium 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Ipratropium bromide是一種抗膽鹼（副交感神經阻斷）藥物；根據動物研究，其似乎通過拮抗乙醯膽鹼（肺部神經肌肉接頭釋放的傳遞物質）的作用，抑制迷走神經介導的反射。抗膽鹼藥物可防止因乙醯膽鹼與支氣管平滑肌上的毒蕈鹼受體相互作用而引起的細胞內Ca++濃度升高。」英文原文："Ipratropium bromide is an anticholinergic (parasympatholytic) agent which, based on animal studies, appears to inhibit vagally-mediated reflexes by antagonizing the action of acetylcholine, the transmitter agent released at the neuromuscular junctions in the lung. Anticholinergics prevent the increases in intracellular concentration of Ca++ which is caused by interaction of acetylcholine with the muscarinic receptors on bronchial smooth muscle."（[DailyMed: Atrovent Hfa (ipratropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=170e98ef-5560-4068-be7d-e649068eb884)，版本日期 2025-11-05；查閱日期 2026-11-19）。根據已知資訊，Ipratropium 為毒蕈鹼受體拮抗劑，可阻斷膽鹼性神經對腺體與平滑肌的刺激。
 
 在鼻腔，鼻黏膜下腺體受膽鹼性神經調控，阻斷毒蕈鹼受體理論上可減少分泌物，緩解流鼻水。這是預測在機轉上的合理之處。
 
@@ -133,6 +133,19 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 有效，
 - 補充詳細的作用機轉資料。
 - 將「鼻腔疾病」具體化為明確的臨床適應症（如過敏性或非過敏性鼻炎的流鼻水），並檢視現有鼻用抗膽鹼劑的臨床證據。
 - 若要進一步評估，需規劃含鼻黏膜耐受性與抗膽鹼副作用監測的臨床試驗設計。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Atrovent Hfa (ipratropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=170e98ef-5560-4068-be7d-e649068eb884) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

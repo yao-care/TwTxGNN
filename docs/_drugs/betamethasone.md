@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供 MOA）。根據已知資訊，Betamethasone 屬於強效糖皮質素，具有抗發炎與免疫抑制作用，在自體免疫與過敏性發炎疾病中的療效已被證實。
+根據美國 FDA 核准的 Betamethasone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「皮質類固醇在細胞訊息傳遞、免疫功能、發炎及蛋白質調節中扮演角色；然而，SERNIVO Spray治療乾癬的確切作用機轉不明。」英文原文："Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown."（[DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66)，版本日期 2026-04-22；查閱日期 2026-11-19）。根據已知資訊，Betamethasone 屬於強效糖皮質素，具有抗發炎與免疫抑制作用，在自體免疫與過敏性發炎疾病中的療效已被證實。
 
 斑禿是一種由 T 細胞介導、攻擊毛囊的自體免疫疾病，造成非疤痕性掉髮。糖皮質素能抑制這類免疫攻擊，因此在機轉上與斑禿高度吻合。Betamethasone 原本就用於紅斑性狼瘡、風濕熱等自體免疫與發炎疾病，與斑禿在免疫病理上有共通之處。
 
@@ -153,7 +153,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -163,6 +163,7 @@ TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L2→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「斑禿 (Alopecia Areata)」已重審撤回） | 加註 | [US FDA label (DailyMed)：CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L2」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
 
 <!-- review:end log -->
 

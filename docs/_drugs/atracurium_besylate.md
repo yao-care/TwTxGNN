@@ -67,7 +67,7 @@ TxGNN 模型預測它可能對**子癇前症 (Preeclampsia)** 有效，但目前
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知的藥理分類，Atracurium 是作用於神經肌肉接合處菸鹼型乙醯膽鹼受體的非去極化神經肌肉阻斷劑，主要用於麻醉時的骨骼肌鬆弛。
+根據美國 FDA 核准的 Atracurium Besylate 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Atracurium besylate 為一種非去極化骨骼肌鬆弛劑。非去極化藥物藉由與運動終板上的膽鹼性受體部位競爭性結合，拮抗乙醯膽鹼的神經傳導物質作用。」英文原文："Atracurium besylate is a nondepolarizing skeletal muscle relaxant. Nondepolarizing agents antagonize the neurotransmitter action of acetylcholine by binding competitively with cholinergic receptor sites on the motor end-plate."（[DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12)，版本日期 2024-12-04；查閱日期 2026-11-19）。根據已知的藥理分類，Atracurium 是作用於神經肌肉接合處菸鹼型乙醯膽鹼受體的非去極化神經肌肉阻斷劑，主要用於麻醉時的骨骼肌鬆弛。
 
 目前**沒有已知機轉**能把這類藥物與子癇前症的病理（胎盤與血管內皮功能異常）連結起來。肌肉鬆弛劑在子癇前症的相關性，僅限於分娩時的麻醉處置，並不是治療疾病本身。這項預測的分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，並非生物學證據，缺乏藥理學或臨床支持，應謹慎看待。
 
@@ -125,7 +125,7 @@ TxGNN 模型預測它可能對**子癇前症 (Preeclampsia)** 有效，但目前
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -134,6 +134,7 @@ TxGNN 模型預測它可能對**子癇前症 (Preeclampsia)** 有效，但目前
 | 2026-10-03 | 許可證表中三張是 cisatracurium 製劑 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 子癇前症預測重審結果 | 重審：降級，證據等級 L3→L5（2026-10-16 修訂，前版保留於紀錄） | [PubMed：Use of atracurium in pre-eclamptic patients（PMID 3778800）](https://pubmed.ncbi.nlm.nih.gov/3778800/)；[PubMed：Clinical pharmacokinetics of neuromuscular relaxants in pregnancy（PMID 9646009）](https://pubmed.ncbi.nlm.nih.gov/9646009/)；[PubMed：[Remifentanil bolus for cesarean section in high-risk patients: study of 12 cases]（PMID 18383970）](https://pubmed.ncbi.nlm.nih.gov/18383970/) |
 | 2026-10-16 | 原適應症取自 cisatracurium 許可證原文 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: atracurium besylate prescribing information, Meitheal Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efe90ee2-fe9e-421f-9e54-2961085d3b12) |
 
 <!-- review:end log -->
 

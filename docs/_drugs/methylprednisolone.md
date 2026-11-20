@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Methylprednisolone 屬於糖皮質素類藥物，在風濕性疾病與過敏性疾病等發炎性、免疫性病症中的療效已被證實。
+根據美國 FDA 核准的 Methylprednisolone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「天然存在的糖皮質激素（hydrocortisone 及 cortisone）亦具有保鈉特性，用作腎上腺皮質功能不全狀態的替代療法。其合成類似物主要因其強效抗發炎作用而用於多種器官系統的疾病。」英文原文："Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems."（[DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4)，版本日期 2026-07-01；查閱日期 2026-11-19）。根據已知資訊，Methylprednisolone 屬於糖皮質素類藥物，在風濕性疾病與過敏性疾病等發炎性、免疫性病症中的療效已被證實。
 
 圓形禿是一種自體免疫性掉髮疾病，T 細胞攻擊毛囊是主要病理機制。糖皮質素能抑制 T 細胞介導的免疫反應，因此機轉上可能適用。臨床上，高劑量脈衝式（pulse）療法已被用於嚴重、廣泛或難治型圓形禿，以誘導毛髮再生。
 
@@ -144,7 +144,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -153,6 +153,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L3→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「圓形禿 (Alopecia Areata)」已重審撤回） | 加註 | [US FDA label (DailyMed)：DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型對 **甲狀腺機能亢進 (Hyperthyroidism)** 給出最高的預�
 
 ## 為什麼這個預測合理？
 
-Palbociclib 是 CDK4/6 抑制劑，作用是阻斷 Rb 蛋白磷酸化，使細胞停滯在 G1-S 期，抑制細胞增殖。目前缺乏詳細的作用機轉資料庫記載，以上為已知的藥理類別描述。
+Palbociclib 是 CDK4/6 抑制劑，作用是阻斷 Rb 蛋白磷酸化，使細胞停滯在 G1-S 期，抑制細胞增殖。根據美國 FDA 核准的 Palbociclib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Palbociclib 是細胞週期蛋白依賴性激酶（CDK）4 及 6 的抑制劑。細胞週期蛋白 D1 及 CDK4/6 位於導致細胞增殖的訊息傳遞路徑下游。在體外試驗中，palbociclib 透過阻斷細胞週期由 G1 期進入 S 期，減少雌激素受體（ER）陽性乳癌細胞株的細胞增殖。」英文原文："Palbociclib is an inhibitor of cyclin-dependent kinases (CDK) 4 and 6. Cyclin D1 and CDK4/6 are downstream of signaling pathways which lead to cellular proliferation. In vitro, palbociclib reduced cellular proliferation of estrogen receptor (ER)-positive breast cancer cell lines by blocking progression of the cell from G1 into S phase of the cell cycle."（[DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792)，版本日期 2026-07-06；查閱日期 2026-11-19）。
 
 就甲狀腺機能亢進而言，目前**沒有已知機轉**將 CDK4/6 抑制與甲狀腺素過量連結起來。此分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病間學到的相似性，而非生物學證據。分數雖高，但缺乏任何實證支持，應視為假說而非有力線索。
 
@@ -137,12 +137,13 @@ Palbociclib 是 CDK4/6 抑制劑，作用是阻斷 Rb 蛋白磷酸化，使細�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 18 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「總計 18 張許可證（另包含膠囊劑及注射劑劑型）」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Ibrance (palbociclib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89a142d5-7e61-48bf-9e77-e2cd124c4792) |
 
 <!-- review:end log -->
 

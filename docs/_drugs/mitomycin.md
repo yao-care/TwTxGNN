@@ -65,7 +65,7 @@ TxGNN 模型預測它可能對**胰臟實體假乳突癌 (Solid Pseudopapillary 
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Mitomycin 屬於 DNA 交聯型烷化劑，是一種需經生物還原活化的細胞毒性藥物，能抑制增生中腫瘤細胞的 DNA 複製。這類廣譜的抗增生作用，在機轉上有可能延伸到胰臟上皮來源的腫瘤。
+根據美國 FDA 核准的 Mitomycin 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Mitomycin選擇性抑制去氧核糖核酸（DNA）的合成。鳥嘌呤及胞嘧啶的含量與mitomycin所誘導的交聯程度相關。在高藥物濃度下，細胞的RNA及蛋白質合成亦受到抑制。」英文原文："Mitomycin selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of mitomycin-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed."（[DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e)，版本日期 2025-03-12；查閱日期 2026-11-19）。根據已知資訊，Mitomycin 屬於 DNA 交聯型烷化劑，是一種需經生物還原活化的細胞毒性藥物，能抑制增生中腫瘤細胞的 DNA 複製。這類廣譜的抗增生作用，在機轉上有可能延伸到胰臟上皮來源的腫瘤。
 
 本次 TxGNN 模型（深度學習）的前 10 名預測皆為胰臟腫瘤，主要預測為胰臟實體假乳突癌（胰臟實體假乳突癌，solid pseudopapillary carcinoma of pancreas），分數 0.9986；其餘分數介於 0.9982 至 0.9986。這些分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，並非生物學證據。
 
@@ -163,12 +163,13 @@ TxGNN 模型預測它可能對**胰臟實體假乳突癌 (Solid Pseudopapillary 
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f) |
 | 2026-11-03 | pancreatic intraductal papillary-mucinous carcinoma、胰臟印戒細胞腺癌 (pancreatic signet ring cell adenocarcinoma)、malignant exocrine pancreas neoplasm預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Mutamycin (mitomycin) prescribing information, Accord BioPharma Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e) |
 
 <!-- review:end log -->
 

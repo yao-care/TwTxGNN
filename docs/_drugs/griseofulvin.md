@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**蠅蛆症 (Myiasis)** 有效，但目前**沒有
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Griseofulvin 會干擾黴菌的微管功能與有絲分裂，這是它抗黴菌的基礎。
+根據美國 FDA 核准的 Griseofulvin 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Griseofulvin 的作用機轉為與有絲分裂所需的微管蛋白結合。[…] Griseofulvin 的作用機轉為與有絲分裂所需的微管蛋白結合。體內活性 如「適應症與用法」章節所述，griseofulvin 可能對下列皮癬菌的大多數菌株具有活性：Epidermophyton floccosum、Microsporum audouinii、Microsporum canis、Microsporum gypseum、Trichophyton crateriformis、Trichophyton gallinae、Trichophyton interdigitalis、Trichophyton megnini、Trichophyton mentagrophytes、Trichophyton rubrum、Trichophyton sulphureum、Trichophyton schoenleini、Trichophyton tonsurans 及 Trichophyton verrucosum。」英文原文："The mechanism of griseofulvin consists of binding microtubular proteins, which are required for mitosis. […] The mechanism of griseofulvin consists of binding microtubular proteins, which are required for mitosis. Activity In Vivo Griseofulvin may be active against most strains of the following dermatophytes as described in the INDICATIONS AND USAGE section: Epidermophyton floccosum, Microsporum audouinii, Microsporum canis, Microsporum gypseum, Trichophyton crateriformis, Trichophyton gallinae, Trichophyton interdigitalis, Trichophyton megnini, Trichophyton mentagrophytes, Trichophyton rubrum, Trichophyton sulphureum, Trichophyton schoenleini, Trichophyton tonsurans and Trichophyton verrucosum."（[DailyMed: griseofulvin prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98829d90-b289-4bec-a625-7af412a5cb2d)，版本日期 2025-05-14；查閱日期 2026-11-19）。就已知資訊，Griseofulvin 會干擾黴菌的微管功能與有絲分裂，這是它抗黴菌的基礎。
 
 蠅蛆症是蠅類幼蟲寄生於人體組織所致，與黴菌感染的病原體完全不同。目前沒有已知機轉能把 Griseofulvin 的抗黴菌作用連到幼蟲感染。這個分數（0.9941）來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，因此合理性偏低。
 
@@ -133,11 +133,12 @@ TxGNN 模型預測它可能對**蠅蛆症 (Myiasis)** 有效，但目前**沒有
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「76 筆…多為有效許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: griseofulvin prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98829d90-b289-4bec-a625-7af412a5cb2d) |
 
 <!-- review:end log -->
 

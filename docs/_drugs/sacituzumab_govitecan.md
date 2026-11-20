@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Sacituzumab govitecan 是以 Trop-2 為標的的抗體，連結 SN-38（拓樸異構酶 I 抑制劑）作為細胞毒性藥物載荷，用於已多線治療的乳癌。
+根據美國 FDA 核准的 Sacituzumab Govitecan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Sacituzumab govitecan-hziy 為一種以 Trop-2 為標靶的抗體藥物複合體。Sacituzumab 為一種可辨識 Trop-2 的人源化抗體。小分子 SN-38 為一種拓樸異構酶 I 抑制劑，經由連接子以共價鍵與抗體相連。」英文原文："Sacituzumab govitecan-hziy is a Trop-2-directed antibody-drug conjugate. Sacituzumab is a humanized antibody that recognizes Trop-2. The small molecule, SN-38, is a topoisomerase I inhibitor, which is covalently attached to the antibody by a linker."（[DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d)，版本日期 2026-06-24；查閱日期 2026-11-19）。已知 Sacituzumab govitecan 是以 Trop-2 為標的的抗體，連結 SN-38（拓樸異構酶 I 抑制劑）作為細胞毒性藥物載荷，用於已多線治療的乳癌。
 
 **坦白說，這個預測在機轉上缺乏合理性。** 目前沒有任何證據顯示 Trop-2 標的的細胞毒性藥物與骨重塑或骨質疏鬆有關。細胞毒性載荷反而可能對骨骼健康造成不利影響，而非改善。這項預測完全來自 TxGNN 的計算分數，沒有臨床或前臨床研究佐證。
 
@@ -127,11 +127,12 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 3 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Trodelvy (sacituzumab govitecan) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=57a597d2-03f0-472e-b148-016d7169169d) |
 
 <!-- review:end log -->
 

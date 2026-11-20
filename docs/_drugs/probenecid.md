@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**腎性低尿酸血症 (hypouricemia, renal)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Probenecid 是促尿酸排泄藥物，會抑制腎小管對尿酸的再吸收（主要作用於 URAT1，即 SLC22A12），因此增加尿酸從腎臟排出，血中尿酸下降。
+根據美國 FDA 核准的 Probenecid 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Probenecid為促尿酸排泄劑及腎小管阻斷劑。」英文原文："Probenecid is a uricosuric and renal tubular blocking agent."（[DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069)，版本日期 2026-11-06；查閱日期 2026-11-19）。已知 Probenecid 是促尿酸排泄藥物，會抑制腎小管對尿酸的再吸收（主要作用於 URAT1，即 SLC22A12），因此增加尿酸從腎臟排出，血中尿酸下降。
 
 腎性低尿酸血症，則是因為 URAT1 功能喪失，導致尿酸排出過多、血中尿酸過低。兩者在「腎臟尿酸轉運」上高度相關，這大概就是模型給出高分的原因。
 
@@ -131,6 +131,19 @@ TxGNN 模型預測它可能對**腎性低尿酸血症 (hypouricemia, renal)** �
 - 先釐清機轉：確認是否有任何理論或實驗證據顯示 Probenecid 對此疾病有益。目前判斷為無，建議不要投入資源。
 - 補齊 Probenecid 的作用機轉資料。
 - 若仍要探索尿酸代謝相關的其他預測（Lesch-Nyhan 症候群、HPRT 部分缺乏症），目前同樣僅有模型預測（L5）；這些疾病的尿酸產生過多，促尿酸排泄雖在理論上可降低血中尿酸，卻會增加尿路結石風險。標準治療是抑制黃嘌呤氧化酶，並無直接臨床證據支持 Probenecid，同樣建議 Hold。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: probenecid prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=65b4888c-d49a-433f-9bfd-17880ae40069) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

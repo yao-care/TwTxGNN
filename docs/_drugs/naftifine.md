@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**外毛癬菌感染 (ectothrix infectious disease
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料庫記載。依已知藥理，Naftifine 屬丙烯胺類，抑制真菌角鯊烯環氧酶 (squalene epoxidase)，阻斷麥角固醇合成，並造成角鯊烯堆積而損傷真菌細胞。
+根據美國 FDA 核准的 Naftifine 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「NAFTIN ® Gel 為一種外用抗真菌藥物。[…] Naftifine 為一種屬於丙烯胺類的抗真菌劑。雖然其對真菌的確切作用機轉尚未明瞭，但 naftifine hydrochloride 似乎係透過抑制角鯊烯 2, 3-環氧酶而干擾固醇的生物合成。」英文原文："NAFTIN ® Gel is a topical antifungal drug. […] Naftifine is an antifungal that belongs to the allylamine class. Although the exact mechanism of action against fungi is not known, naftifine hydrochloride appears to interfere with sterol biosynthesis by inhibiting the enzyme squalene 2, 3-epoxidase."（[DailyMed: Naftin (naftifine hydrochloride) prescribing information, Legacy Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c6ee055-4031-45a7-8561-ccd989343580)，版本日期 2025-07-30；查閱日期 2026-11-19）。依已知藥理，Naftifine 屬丙烯胺類，抑制真菌角鯊烯環氧酶 (squalene epoxidase)，阻斷麥角固醇合成，並造成角鯊烯堆積而損傷真菌細胞。
 
 外毛癬菌感染是皮癬菌（如小芽胞癬菌屬、毛癬菌屬）侵犯毛髮所致，與 Naftifine 已知作用的皮癬菌屬於同一類病原，因此機轉上合理。
 
@@ -122,6 +122,19 @@ TxGNN 模型預測它可能對**外毛癬菌感染 (ectothrix infectious disease
 - 評估外用劑型在毛幹與毛囊的藥物穿透性
 - 補齊詳細的作用機轉資料
 - 確認是否需要口服等其他給藥途徑
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Naftin (naftifine hydrochloride) prescribing information, Legacy Pharma USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c6ee055-4031-45a7-8561-ccd989343580) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

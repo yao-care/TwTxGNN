@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**腦小血管病 1 型（伴或不伴眼部異常
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，sacubitril 是神經腎素抑制劑，可減少利尿鈉肽的分解、提高其濃度，通常與纈沙坦（valsartan）組成複方使用。
+根據美國 FDA 核准的 sacubitril and valsartan（含 Sacubitril 的複方） 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Sacubitril and valsartan 含有一種腦啡肽酶（neprilysin）抑制劑 sacubitril，以及一種血管收縮素受體阻斷劑 valsartan。Sacubitril and valsartan 經由前驅藥 sacubitril 的活性代謝物 LBQ657 抑制腦啡肽酶（中性內肽酶；NEP），並經由 valsartan 阻斷血管收縮素 II 第 1 型（AT 1 ）受體。」英文原文："Sacubitril and valsartan contains a neprilysin inhibitor, sacubitril, and an angiotensin receptor blocker, valsartan. Sacubitril and valsartan inhibits neprilysin (neutral endopeptidase; NEP) via LBQ657, the active metabolite of the prodrug sacubitril, and blocks the angiotensin II type-1 (AT 1 ) receptor via valsartan."（[DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c)，版本日期 2026-10-30；查閱日期 2026-11-19）。就已知資訊，sacubitril 是神經腎素抑制劑，可減少利尿鈉肽的分解、提高其濃度，通常與纈沙坦（valsartan）組成複方使用。
 
 腦小血管病 1 型與 COL4A1 基因相關，屬於血管與基底膜的罕見遺傳疾病。目前沒有資料顯示神經腎素抑制與此疾病的病理機轉之間有可信的關聯。
 
@@ -123,11 +123,12 @@ TxGNN 模型預測它可能對**腦小血管病 1 型（伴或不伴眼部異常
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-16 | 一句話總結稱有 15 篇文獻 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [本頁「文獻證據」表](https://twtxgnn.yao.care/drugs/sacubitril/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: sacubitril and valsartan prescribing information, Novadoz Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44db8114-622e-41f6-96a1-447d47b0267c) |
 
 <!-- review:end log -->
 

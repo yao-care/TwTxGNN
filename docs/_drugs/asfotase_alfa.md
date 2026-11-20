@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Asfotase alfa 是重組的組織非特異性鹼性磷酸酶 (TNSALP)，
+根據美國 FDA 核准的 Asfotase Alfa 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「HPP 是由 TNSALP 酵素活性缺乏所致，會導致多種 TNSALP 受質升高，包括無機焦磷酸（PPi）。TNSALP 為一種金屬酵素，可催化磷酸單酯的水解，並釋出無機磷酸及醇。」英文原文："HPP is caused by a deficiency in TNSALP enzyme activity, which leads to elevations in several TNSALP substrates, including inorganic pyrophosphate (PPi). TNSALP is a metallo-enzyme that catalyzes the hydrolysis of phosphomonoesters with release of inorganic phosphate and alcohol."（[DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031)，版本日期 2025-12-12；查閱日期 2026-11-19）。已知 Asfotase alfa 是重組的組織非特異性鹼性磷酸酶 (TNSALP)，
 可水解細胞外的受質，例如無機焦磷酸 (inorganic pyrophosphate) 與吡哆醛-5'-磷酸 (pyridoxal-5'-phosphate)，
 在低磷酸酯酶症中用來促進骨礦化。
 
@@ -112,6 +112,19 @@ TxGNN 模型預測它可能對**核 DNA 異常所致的粒線體氧化磷酸化�
 - 若有機轉假說，先以細胞或動物模型做前臨床驗證
 - 補齊安全性資料（警語、禁忌、藥物交互作用），再評估特定族群的風險
 - 在上述證據出現前，建議不投入臨床開發資源，並持續監測新發表的研究
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Strensiq (asfotase alfa) prescribing information, Alexion Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3387574f-5eaa-4501-a71d-4cbfbd563031) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

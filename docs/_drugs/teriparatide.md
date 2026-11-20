@@ -70,7 +70,7 @@ TxGNN 模型預測它可能對**十二指腸潰瘍 (duodenal ulcer)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知的藥理資料，Teriparatide 是 PTH1R（PTH1 受體）的促效劑，也與 PTH2 受體有關聯，透過刺激成骨細胞促進骨形成，間歇性給藥可增加骨密度並降低骨折風險。
+根據美國 FDA 核准的 Teriparatide 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「內源性 84 個胺基酸的副甲狀腺素（PTH）是骨骼及腎臟中鈣與磷酸鹽代謝的主要調節因子。PTH 的生理作用包括調節骨骼代謝、腎小管對鈣與磷酸鹽的再吸收，以及腸道對鈣的吸收。[…] PTH 與 teriparatide 的生物作用是透過與特定高親和力細胞表面受體結合而介導。」英文原文："Endogenous 84-amino acid parathyroid hormone (PTH) is the primary regulator of calcium and phosphate metabolism in bone and kidney. Physiological actions of PTH include regulation of bone metabolism, renal tubular reabsorption of calcium and phosphate, and intestinal calcium absorption. […] The biological actions of PTH and teriparatide are mediated through binding to specific high-affinity cell-surface receptors."（[DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c)，版本日期 2026-08-31；查閱日期 2026-11-19）。根據已知的藥理資料，Teriparatide 是 PTH1R（PTH1 受體）的促效劑，也與 PTH2 受體有關聯，透過刺激成骨細胞促進骨形成，間歇性給藥可增加骨密度並降低骨折風險。
 
 **十二指腸潰瘍：**PTH1R 訊號與十二指腸黏膜修復之間沒有已知的機轉連結，原適應症（骨質疏鬆）與胃腸潰瘍在病理上也無關聯。因此這個預測目前只能視為模型的統計訊號，缺乏生物學支持。
 
@@ -164,7 +164,7 @@ TxGNN 模型預測它可能對**十二指腸潰瘍 (duodenal ulcer)** 有效，�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -173,6 +173,7 @@ TxGNN 模型預測它可能對**十二指腸潰瘍 (duodenal ulcer)** 有效，�
 | 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第028123號 與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第028456號 與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「已核准產品（共 12 項）」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Bonsity (teriparatide) prescribing information, Alvogen Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d0c89a2-3849-adf6-007d-aeca21cf417c) |
 
 <!-- review:end log -->
 

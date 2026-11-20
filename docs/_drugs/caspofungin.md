@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**胃泌素分泌異常 (Gastrin Secretion Abnorma
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Caspofungin 屬於 echinocandin 類抗真菌藥物，一般認為其作用是抑制真菌的 1,3-β-D-葡聚糖合成酶，破壞真菌細胞壁的合成。
+根據美國 FDA 核准的 Caspofungin 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Caspofungin 是一種 echinocandin 類抗真菌藥物。[…] Caspofungin（一種 echinocandin）可抑制 beta (1,3)-D-glucan 的合成，beta (1,3)-D-glucan 是敏感性 Aspergillus 屬及 Candida 屬細胞壁的必要成分。哺乳類動物細胞中不存在 beta (1,3)-D-glucan。」英文原文："Caspofungin is an echinocandin antifungal drug. […] Caspofungin, an echinocandin, inhibits the synthesis of beta (1,3)-D-glucan, an essential component of the cell wall of susceptible Aspergillus species and Candida species. Beta (1,3)-D-glucan is not present in mammalian cells."（[DailyMed: Cancidas (caspofungin acetate) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bad23a6-09a6-4194-9182-093ed61bc71c)，版本日期 2024-10-11；查閱日期 2026-11-19）。Caspofungin 屬於 echinocandin 類抗真菌藥物，一般認為其作用是抑制真菌的 1,3-β-D-葡聚糖合成酶，破壞真菌細胞壁的合成。
 
 這個標的在哺乳動物細胞中並不存在。因此，從已知機轉看不出 caspofungin 與胃泌素調控、G 細胞或胃酸分泌生理之間有合理的關聯。原適應症（黴菌感染）與預測的新適應症（胃泌素分泌異常）在疾病性質上也相距甚遠。
 
@@ -122,6 +122,19 @@ TxGNN 模型預測它可能對**胃泌素分泌異常 (Gastrin Secretion Abnorma
 - 若有初步的機轉假說，先以前臨床實驗（如 G 細胞或動物模型）驗證。
 - 評估給藥途徑的可行性：本藥在台灣皆為注射劑型，需確認是否符合該適應症所需的給藥方式。
 - 完整檢視仿單的警語、禁忌症與 DDI，特別是 Dexamethasone 的 Major 交互作用。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Cancidas (caspofungin acetate) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bad23a6-09a6-4194-9182-093ed61bc71c) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

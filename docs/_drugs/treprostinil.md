@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**肺動靜脈畸形 (pulmonary arteriovenous malf
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Treprostinil 屬於前列環素類似物，具有血管擴張與抑制血小板凝集的作用。
+根據美國 FDA 核准的 Treprostinil 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Treprostinil 是一種前列環素類似物。Treprostinil 的主要藥理作用為直接擴張肺動脈及全身動脈血管床，以及抑制血小板凝集。」英文原文："Treprostinil is a prostacyclin analogue. The major pharmacologic actions of treprostinil are direct vasodilation of pulmonary and systemic arterial vascular beds and inhibition of platelet aggregation."（[DailyMed: Tyvaso (treprostinil) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbc31ab1-a80f-4b50-a3b1-39910b0fb609)，版本日期 2026-04-14；查閱日期 2026-11-19）。已知 Treprostinil 屬於前列環素類似物，具有血管擴張與抑制血小板凝集的作用。
 
 肺動靜脈畸形是肺部血管的結構異常，與 Treprostinil 目前的使用情境（肺部血管阻力升高）在血管層面上有關聯，但並沒有任何研究直接連結兩者。
 
@@ -130,12 +130,13 @@ TxGNN 模型預測它可能對**肺動靜脈畸形 (pulmonary arteriovenous malf
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：25 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L3，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Tyvaso (treprostinil) prescribing information, United Therapeutics Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbc31ab1-a80f-4b50-a3b1-39910b0fb609) |
 
 <!-- review:end log -->
 

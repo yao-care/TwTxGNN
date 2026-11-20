@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀少症 (hypotrichosis si
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Dorzolamide 作用於碳酸酐酶（包括 CA1、CA7、CA12、CA14），主要以眼用製劑形式使用，局部給藥的全身暴露量低。
+根據美國 FDA 核准的 Dorzolamide 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「碳酸酐酶（CA）是一種存在於人體多種組織（包括眼睛）中的酵素。其催化涉及二氧化碳水合及碳酸脫水的可逆反應。[…] Dorzolamide鹽酸鹽眼用溶液含有dorzolamide鹽酸鹽，為一種人類碳酸酐酶II抑制劑。」英文原文："Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. […] Dorzolamide hydrochloride ophthalmic solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II."（[DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea)，版本日期 2026-11-14；查閱日期 2026-11-19）。已知 Dorzolamide 作用於碳酸酐酶（包括 CA1、CA7、CA12、CA14），主要以眼用製劑形式使用，局部給藥的全身暴露量低。
 
 頭皮單純性毛髮稀少症是一種遺傳性毛囊疾病。目前看不出碳酸酐酶抑制與毛囊發育或毛髮生長之間有合理的機轉關聯。這項預測較可能是模型從資料關聯中推得的結果，缺乏生物學上的支持。
 
@@ -122,6 +122,19 @@ TxGNN 模型預測它可能對**頭皮單純性毛髮稀少症 (hypotrichosis si
 - 確認碳酸酐酶在毛囊發育中是否扮演角色。
 - 評估眼用劑型是否適合頭皮給藥，包括劑型與給藥途徑的可行性。
 - 取得任何針對此疾病的臨床或文獻證據後，再重新評估。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

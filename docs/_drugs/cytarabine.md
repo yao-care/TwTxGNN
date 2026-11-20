@@ -67,7 +67,7 @@ TxGNN 模型預測它可能對**小細胞肺癌 (Small Cell Lung Carcinoma)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，cytarabine 是嘧啶核苷類似物，屬 S 期特異性的抗代謝藥物，可抑制 DNA 合成。小細胞肺癌增殖快速，機轉上理論上可能對這類藥物敏感。
+根據美國 FDA 核准的 Cytarabine 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「雖然其作用機制尚未完全明瞭，但cytarabine似乎是透過抑制DNA聚合酶而發揮作用。亦有報告指出cytarabine會有限但顯著地嵌入DNA及RNA中。」英文原文："Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported."（[DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd)，版本日期 2026-10-19；查閱日期 2026-11-19）。根據已知資訊，cytarabine 是嘧啶核苷類似物，屬 S 期特異性的抗代謝藥物，可抑制 DNA 合成。小細胞肺癌增殖快速，機轉上理論上可能對這類藥物敏感。
 
 原適應症為血液惡性腫瘤，新預測為實體腫瘤，兩者的關聯主要建立在「快速增殖腫瘤對抗代謝藥物敏感」的推論上。不過，文獻也指出 cytarabine 對多數實體腫瘤活性有限，這是此預測的主要疑慮。
 
@@ -152,7 +152,7 @@ TxGNN 模型預測它可能對**小細胞肺癌 (Small Cell Lung Carcinoma)** �
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -160,6 +160,7 @@ TxGNN 模型預測它可能對**小細胞肺癌 (Small Cell Lung Carcinoma)** �
 | 2026-10-03 | 併用表「CLL 治療｜Venetoclax 併用低劑量 Ara-C」 | 報告重生後已無此錯誤（2026-10-15：新報告已無「venetoclax 併用低劑量 Ara-C 治療 CLL」的表列；原為更正） | [DailyMed：VENCLEXTA（venetoclax）美國仿單 §1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b118a40d-6b56-cee3-10f6-ded821a97018) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-10-16 | 一句話總結以併用藥物許可證呈現原適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: cytarabine prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e3a8c0e9-19ed-49b7-8464-11e8806f47fd) |
 
 <!-- review:end log -->
 

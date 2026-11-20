@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 相關族
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Pravastatin 屬於 HMG-CoA 還原酶抑制劑（史他汀類），可降低低密度脂蛋白膽固醇，並具有抗發炎與改善血管內皮功能的作用。
+根據美國 FDA 核准的 Pravastatin 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Pravastatin 是 HMG-CoA 還原酶的可逆性抑制劑，此酶為將 HMG-CoA 轉化為 mevalonate（膽固醇的前驅物）的速率限制酶。」英文原文："Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol."（[DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d)，版本日期 2026-10-23；查閱日期 2026-11-19）。根據已知資訊，Pravastatin 屬於 HMG-CoA 還原酶抑制劑（史他汀類），可降低低密度脂蛋白膽固醇，並具有抗發炎與改善血管內皮功能的作用。
 
 HIV 感染者在接受蛋白酶抑制劑等抗病毒治療後，常出現血脂異常並增加心血管疾病風險。因此 Pravastatin 在機轉上可用於處理 HIV 相關的血脂異常與心血管風險。需要特別說明的是，目前沒有證據顯示它對 HIV 病毒本身具有抗病毒活性，實際可支持的用途是 HIV 相關血脂異常，而非 HIV 感染的直接治療。
 
@@ -167,11 +167,12 @@ HIV 感染者在接受蛋白酶抑制劑等抗病毒治療後，常出現血脂�
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
 
 <!-- review:end log -->
 

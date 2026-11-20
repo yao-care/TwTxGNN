@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，lenvatinib 可抑制 VEGFR1-3、FGFR1-4、PDGFRα、KIT 與 RET，這些訊號路徑與腫瘤血管新生有關，可能抑制依賴血管新生的肉瘤生長。
+根據美國 FDA 核准的 Lenvatinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Lenvatinib是一種激酶抑制劑，可抑制血管內皮生長因子（VEGF）受體VEGFR1（FLT1）、VEGFR2（KDR）及VEGFR3（FLT4）的激酶活性。Lenvatinib亦抑制其他除正常細胞功能外亦與病理性血管新生、腫瘤生長及癌症進展有關的激酶，包括纖維母細胞生長因子（FGF）受體FGFR1、2、3及4；血小板衍生生長因子受體alpha（PDGFRA）、KIT及RET。」英文原文："Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib inhibits other kinases that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; platelet derived growth factor receptor alpha (PDGFRA), KIT, and RET."（[DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e)，版本日期 2026-10-14；查閱日期 2026-11-19）。根據已知資訊，lenvatinib 可抑制 VEGFR1-3、FGFR1-4、PDGFRα、KIT 與 RET，這些訊號路徑與腫瘤血管新生有關，可能抑制依賴血管新生的肉瘤生長。
 
 原適應症（甲狀腺癌、腎細胞癌、肝細胞癌、子宮內膜癌）都是富含血管的實體腫瘤，抗血管新生策略的療效已獲證實。脂肪肉瘤屬軟組織肉瘤，在抗血管新生的機轉上有延伸的可能。
 
@@ -139,6 +139,19 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效，
 - 補齊 lenvatinib 的作用機轉資料（MOA）
 - 評估與 eribulin 併用時的毒性與藥物交互作用（含 QT 延長相關藥物）
 - 確認台灣現行許可適應症不含軟組織肉瘤，需評估仿單外使用或申請適應症擴充的途徑
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Iohexol 是惰性的非離子型碘造影劑，作用在於影像對比，並無已知的鎮靜或調節睡眠的藥理活性。
+根據美國 FDA 核准的 Iohexol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「iohexol中的碘原子可衰減X射線，衰減程度與iohexol的濃度成正比。由於濃度隨時間變化，iohexol可提供隨時間變化的影像對比，有助於顯示身體結構。」英文原文："The iodine atoms in iohexol provide attenuation of X-rays in direct proportion to the concentration of iohexol. Since concentration changes over time, iohexol provides time-dependent image contrast which may assist in visualizing body structures."（[DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f)，版本日期 2026-04-28；查閱日期 2026-11-19）。Iohexol 是惰性的非離子型碘造影劑，作用在於影像對比，並無已知的鎮靜或調節睡眠的藥理活性。
 
 失眠屬於中樞神經與睡眠調節問題，與造影劑的診斷用途沒有明顯關聯。分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
@@ -132,6 +132,19 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 - 完成前臨床或機轉研究，證明對睡眠調節有任何作用
 - 評估造影劑給藥途徑與長期使用需求是否符合失眠治療情境
 - 若無上述證據，建議不進一步投入資源
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Omnipaque (iohexol) prescribing information, Medical Purchasing Solutions, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=508c42eb-f5e5-44f1-e063-6294a90a4d1f) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

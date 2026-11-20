@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，但目前僅有 **1 個
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Acitretin 屬於口服類視色素，一般認為它透過 RAR/RXR 核受體，調節毛囊角質細胞的分化，並減少角化過度與發炎。
+根據美國 FDA 核准的 Acitretin 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Acitretin 的作用機轉不明。」英文原文："The mechanism of action of acitretin is unknown."（[DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910)，版本日期 2026-10-20；查閱日期 2026-11-19）。根據已知資訊，Acitretin 屬於口服類視色素，一般認為它透過 RAR/RXR 核受體，調節毛囊角質細胞的分化，並減少角化過度與發炎。
 
 痤瘡與牛皮癬、角化症都和角質細胞分化異常及發炎有關，因此機轉上有可能適用。同類藥物 isotretinoin 已是重度痤瘡的標準類視色素，這也支持此預測的方向。
 
@@ -125,6 +125,19 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，但目前僅有 **1 個
 - 補充詳細的作用機轉資料（MOA）。
 - 設計針對痤瘡、與 isotretinoin 比較的臨床研究。
 - 規劃嚴格的避孕與懷孕預防方案，並監測肝功能與血脂。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: acitretin prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6af396c2-af3e-436d-ba9a-583637495910) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

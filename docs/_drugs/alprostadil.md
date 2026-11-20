@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**主動脈畸形 (Aortic Malformation)** 有效�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。依一般藥理學，Alprostadil（PGE1）活化 EP 受體並提高 cAMP，使動脈導管平滑肌鬆弛，讓導管維持開放。
+根據美國 FDA 核准的 Alprostadil 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Alprostadil（PGE1）為一種前列腺素，具有多種藥理作用，包括血管擴張及抑制血小板凝集。Alprostadil 與其受體結合，並經由調節腺苷酸環化酶而增加細胞內環單磷酸腺苷（cAMP）濃度，使海綿體小樑平滑肌鬆弛及海綿體動脈擴張，從而誘發勃起。」英文原文："Alprostadil (PGE1) is a prostaglandin with a wide variety of pharmacological actions including vasodilation and inhibition of platelet aggregation. Alprostadil induces erection by relaxation of trabecular smooth muscle and by dilation of cavernosal arteries by binding to its receptors and increasing intracellular cyclic adenosine monophosphate (cAMP) levels via modulation of adenylate cyclase."（[DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98)，版本日期 2024-05-13；查閱日期 2026-11-19）。依一般藥理學，Alprostadil（PGE1）活化 EP 受體並提高 cAMP，使動脈導管平滑肌鬆弛，讓導管維持開放。
 
 主動脈畸形（如主動脈弓中斷、主動脈狹窄）常屬於「依賴動脈導管」的病變，體循環血流需靠導管維持。現行台灣仿單已涵蓋主動脈弓中斷與主動脈狹窄等先天性心臟缺損，因此這項預測與既有用途高度重疊，較像是把既有適應症的範圍以疾病名稱重新歸類，而非全新的療效方向。
 
@@ -139,7 +139,7 @@ TxGNN 模型預測它可能對**主動脈畸形 (Aortic Malformation)** 有效�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -147,6 +147,7 @@ TxGNN 模型預測它可能對**主動脈畸形 (Aortic Malformation)** 有效�
 | 2026-11-03 | tricuspid valve agenesis（三尖瓣閉鎖）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | tricuspid valve agenesis（三尖瓣閉鎖）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Caverject (alprostadil) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a295fc1e-d82c-4f44-bc2d-a552bf594c98) |
 
 <!-- review:end log -->
 

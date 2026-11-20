@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**肌萎縮性側索硬化症 (Amyotrophic Lateral
 
 ## 為什麼這個預測合理？
 
-目前缺乏完整的作用機轉資料。根據已知資訊，cobimetinib 是 MEK1/2 抑制劑，會阻斷 RAS-RAF-MEK-ERK 訊號路徑，這也是它在 BRAF V600 突變黑色素瘤中發揮療效的基礎。
+根據美國 FDA 核准的 Cobimetinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Cobimetinib 為絲裂原活化蛋白激酶（MAPK）/細胞外訊息調節激酶 1（MEK1）及 MEK2 的可逆性抑制劑。MEK 蛋白為細胞外訊息相關激酶（ERK）路徑的上游調節因子，而該路徑會促進細胞增生。」英文原文："Cobimetinib is a reversible inhibitor of mitogen-activated protein kinase (MAPK)/extracellular signal regulated kinase 1 (MEK1) and MEK2. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway, which promotes cellular proliferation."（[DailyMed: Cotellic (cobimetinib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c387579e-cee0-4334-bd1e-73f93ac1bde6)，版本日期 2026-07-29；查閱日期 2026-11-19）。根據已知資訊，cobimetinib 是 MEK1/2 抑制劑，會阻斷 RAS-RAF-MEK-ERK 訊號路徑，這也是它在 BRAF V600 突變黑色素瘤中發揮療效的基礎。
 
 ERK 訊號失調曾被提出與運動神經元退化及神經發炎有關，因此從機轉上推測，抑制此路徑理論上可能影響 ALS 的病程。不過這只是理論推測，目前沒有臨床或文獻證據顯示 cobimetinib 對 ALS 有效，這個連結僅來自 TxGNN 的預測。
 
@@ -119,6 +119,19 @@ ERK 訊號失調曾被提出與運動神經元退化及神經發炎有關，因�
 - 進行 ALS 細胞或動物模型的前臨床研究，驗證 MEK 抑制的效果
 - 評估藥物能否通過血腦障壁，以及長期使用於神經退化性疾病的安全性
 - 完整整理原廠仿單中的警語與禁忌症
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Cotellic (cobimetinib) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c387579e-cee0-4334-bd1e-73f93ac1bde6) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

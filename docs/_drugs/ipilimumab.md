@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**脈絡膜缺失症 (Choroideremia)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。根據已知資訊，Ipilimumab 透過阻斷 CTLA-4 來解除 T 細胞的活化抑制，增強抗腫瘤 T 細胞反應，這也是它在黑色素瘤等癌症中有效的原因。
+根據美國 FDA 核准的 Ipilimumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「CTLA-4 是 T 細胞活性的負向調節因子。Ipilimumab 是一種單株抗體，可與 CTLA-4 結合，並阻斷 CTLA-4 與其配體 CD80/CD86 之間的交互作用。研究顯示，阻斷 CTLA-4 可增強 T 細胞的活化及增生，包括腫瘤浸潤性效應 T 細胞的活化及增生。」英文原文："CTLA-4 is a negative regulator of T-cell activity. Ipilimumab is a monoclonal antibody that binds to CTLA-4 and blocks the interaction of CTLA-4 with its ligands, CD80/CD86. Blockade of CTLA-4 has been shown to augment T-cell activation and proliferation, including the activation and proliferation of tumor infiltrating T-effector cells."（[DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66)，版本日期 2026-08-20；查閱日期 2026-11-19）。根據已知資訊，Ipilimumab 透過阻斷 CTLA-4 來解除 T 細胞的活化抑制，增強抗腫瘤 T 細胞反應，這也是它在黑色素瘤等癌症中有效的原因。
 
 脈絡膜缺失症是一種 X 染色體連鎖的單基因視網膜退化疾病，起因是 CHM/REP1 基因功能喪失。它與腫瘤免疫沒有已知的關聯，也沒有已建立的免疫檢查點機轉。
 
@@ -117,6 +117,19 @@ TxGNN 模型預測它可能對**脈絡膜缺失症 (Choroideremia)** 有效，�
 - 釐清 CTLA-4 抑制與 CHM/REP1 缺失造成的視網膜退化之間有無可驗證的機轉假說。
 - 進行前臨床研究（如視網膜細胞或動物模型），以取得初步療效與安全性訊號。
 - 補齊 DrugBank 作用機轉資料。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

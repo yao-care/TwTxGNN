@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**副腦膜胚胎型橫紋肌肉瘤 (Parameningeal
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Cladribine 是嘌呤核苷類似物，會被去氧胞苷激酶（deoxycytidine kinase）磷酸化，干擾 DNA 合成與修復，作用對象主要是淋巴球。這也是它能用於毛髮狀細胞白血病（血液腫瘤）與多發性硬化症（免疫介導疾病）的基礎。
+根據美國 FDA 核准的 Cladribine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Cladribine在多發性硬化症患者中發揮治療效果的機轉尚未完全闡明，但一般認為其涉及透過損害DNA合成而對B及T淋巴球產生細胞毒性作用，導致淋巴球耗竭。」英文原文："The mechanism by which cladribine exerts its therapeutic effects in patients with multiple sclerosis has not been fully elucidated but is thought to involve cytotoxic effects on B and T lymphocytes through impairment of DNA synthesis, resulting in depletion of lymphocytes."（[DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144)，版本日期 2026-05-27；查閱日期 2026-11-19）。根據已知資訊，Cladribine 是嘌呤核苷類似物，會被去氧胞苷激酶（deoxycytidine kinase）磷酸化，干擾 DNA 合成與修復，作用對象主要是淋巴球。這也是它能用於毛髮狀細胞白血病（血液腫瘤）與多發性硬化症（免疫介導疾病）的基礎。
 
 橫紋肌肉瘤是源自間質組織的實體腫瘤，與淋巴球惡性疾病在細胞來源上差異很大。Cladribine 與此疾病的關聯目前僅來自 TxGNN 模型（深度學習）的預測，分數可能反映模型從相關疾病之間學到的相似性，而非生物學證據；目前沒有臨床或文獻佐證，機轉上的合理性仍待驗證。
 
@@ -125,6 +125,19 @@ TxGNN 模型預測它可能對**副腦膜胚胎型橫紋肌肉瘤 (Parameningeal
 - 進行系統性文獻檢索，並尋找橫紋肌肉瘤細胞株或動物模型的前臨床證據。
 - 評估該族群（多為兒童及青少年）的風險效益與給藥途徑可行性。
 - 取得仿單完整的警語與禁忌資訊，確認血液學與神經毒性的風險管理方式。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Mavenclad (cladribine) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9c75e30a-a410-40f1-b653-04d532bd9144) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

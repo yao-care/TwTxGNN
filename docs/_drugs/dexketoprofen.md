@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**肌腱炎 (tendinitis)** 有效，但目前沒�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉登錄資料。依一般藥理知識，dexketoprofen 屬於 COX-1/COX-2 抑制劑，可降低前列腺素合成，進而減輕發炎與疼痛。肌腱炎的症狀以局部發炎與疼痛為主，因此機轉上有其合理性。
+ChEMBL（EMBL-EBI）收錄的 Dexketoprofen 作用機轉（非官方翻譯）：「環氧化酶抑制劑」英文原文："Cyclooxygenase inhibitor"（[ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435)，CC BY-SA 3.0；查閱日期 2026-11-19）。依一般藥理知識，dexketoprofen 屬於 COX-1/COX-2 抑制劑，可降低前列腺素合成，進而減輕發炎與疼痛。肌腱炎的症狀以局部發炎與疼痛為主，因此機轉上有其合理性。
 
 不過，目前唯一的相關文獻是一項在急診比較靜脈注射 dexketoprofen 與 paracetamol 治療非創傷性肌肉骨骼疼痛的隨機試驗。該研究只在背景說明中提到肌腱炎是肌肉骨骼疼痛的成因之一，並非直接以肌腱炎病人為對象。因此證據屬間接推論，依規則證據等級只能判為 L5。
 
@@ -109,6 +109,19 @@ TxGNN 模型預測它可能對**肌腱炎 (tendinitis)** 有效，但目前沒�
 - 補充詳細的作用機轉資料。
 - 確認劑量、療程與腸胃道、心血管、腎臟風險的監測計畫。
 - 取得完整的仿單安全性資訊（警語、禁忌與藥物交互作用）。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL75435 (dexketoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL75435) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

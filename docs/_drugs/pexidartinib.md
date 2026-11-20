@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對 **HER2 陽性乳癌 (HER2 positive breast carcino
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Pexidartinib 抑制 CSF1R，可能減少腫瘤相關巨噬細胞所造成的免疫抑制。這種機轉在乳癌的腫瘤微環境中理論上可能有意義。
+根據美國 FDA 核准的 Pexidartinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Pexidartinib 為一種小分子酪胺酸激酶抑制劑，其標靶為群落刺激因子 1 受體（CSF1R）、KIT 原致癌基因受體酪胺酸激酶（KIT），以及帶有內部串聯重複（ITD）突變的 FMS 樣酪胺酸激酶 3（FLT3）。CSF1R 配體的過度表現會促進細胞於滑膜中增生及聚積。」英文原文："Pexidartinib is a small molecule tyrosine kinase inhibitor that targets colony stimulating factor 1 receptor (CSF1R), KIT proto-oncogene receptor tyrosine kinase (KIT), and FMS-like tyrosine kinase 3 (FLT3) harboring an internal tandem duplication (ITD) mutation. Overexpression of the CSF1R ligand promotes cell proliferation and accumulation in the synovium."（[DailyMed: Turalio (pexidartinib hydrochloride) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b0ec4bf-b2ac-49ee-96af-7740ad3f2e16)，版本日期 2025-01-16；查閱日期 2026-11-19）。根據已知資訊，Pexidartinib 抑制 CSF1R，可能減少腫瘤相關巨噬細胞所造成的免疫抑制。這種機轉在乳癌的腫瘤微環境中理論上可能有意義。
 
 唯一相關的文獻是一項動物研究，探討 CSF1R 抑制劑如何減輕 CDK4/6 抑制劑引起的免疫抑制，對象為 HR+/HER2- 乳癌。這項研究並未直接以 HER2 陽性乳癌為研究對象，也沒有任何 HER2 相關的臨床資料。因此本預測目前僅屬前臨床層級的機轉推論，不能視為已有直接證據。
 
@@ -125,12 +125,13 @@ TxGNN 模型預測它可能對 **HER2 陽性乳癌 (HER2 positive breast carcino
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「台灣上市 ✓ 已上市」（唯一許可證已註銷） | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證數寫 2 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Turalio (pexidartinib hydrochloride) prescribing information, Daiichi Sankyo Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7b0ec4bf-b2ac-49ee-96af-7740ad3f2e16) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**肢端中段發育不良 Hunter-Thompson 型 (Ac
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Ibuprofen 是非選擇性 COX-1/COX-2 抑制劑，透過抑制前列腺素合成產生消炎、鎮痛與解熱作用。
+根據美國 FDA 核准的 Ibuprofen 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Ibuprofen 具有止痛、抗發炎及退燒特性。CALDOLOR 的作用機轉與其他 NSAIDs 相同，尚未完全明瞭，但涉及對環氧化酶（COX-1 及 COX-2）的抑制。」英文原文："Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)."（[DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684)，版本日期 2026-01-29；查閱日期 2026-11-19）。根據已知資訊，Ibuprofen 是非選擇性 COX-1/COX-2 抑制劑，透過抑制前列腺素合成產生消炎、鎮痛與解熱作用。
 
 Hunter-Thompson 型肢端中段發育不良是與 CDMP1/GDF5 相關的遺傳性骨骼發育不良，病因在於骨骼發育訊號異常，並非前列腺素驅動的發炎反應。目前未發現 Ibuprofen 的 COX 抑制機轉與此疾病病程之間有合理的關聯。
 
@@ -122,6 +122,19 @@ Hunter-Thompson 型肢端中段發育不良是與 CDMP1/GDF5 相關的遺傳性�
 - 取得完整的作用機轉資料，並釐清 GDF5/CDMP1 相關通路與前列腺素路徑是否有交集
 - 進行文獻與前臨床研究（如細胞或動物模型）以驗證是否有疾病修飾效果
 - 若僅著眼於症狀性疼痛緩解，應另行評估其適用性，並考量該罕見病族群（可能含兒童）使用 NSAID 的長期安全性
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Denosumab 是一種 RANKL 中和性單株抗體，可抑制破骨細胞的活性，因此用於骨轉移、骨巨細胞瘤、惡性高血鈣症與骨質疏鬆症等骨骼相關疾病。
+根據美國 FDA 核准的 Denosumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Denosumab 產品與 RANKL 結合；RANKL 是一種跨膜或可溶性蛋白質，對蝕骨細胞（負責骨吸收的細胞）的形成、功能及存活至關重要。Denosumab 產品可阻止 RANKL 活化其位於蝕骨細胞及其前驅細胞表面的受體 RANK。」英文原文："Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors."（[DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd)，版本日期 2026-11-04；查閱日期 2026-11-19）。就已知資訊，Denosumab 是一種 RANKL 中和性單株抗體，可抑制破骨細胞的活性，因此用於骨轉移、骨巨細胞瘤、惡性高血鈣症與骨質疏鬆症等骨骼相關疾病。
 
 原適應症（骨骼疾病）與糖尿病視網膜病變（視網膜微血管病變）在病理上差異很大。視網膜病變主要與 VEGF 驅動的血管新生和發炎有關，目前沒有已確立的機轉連結。因此，這項預測僅建立在 TxGNN 模型的計算結果上。
 
@@ -146,11 +146,12 @@ TxGNN 模型預測它可能對**嚴重非增殖性糖尿病視網膜病變 (Seve
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 保骼麗許可證效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
 
 <!-- review:end log -->
 

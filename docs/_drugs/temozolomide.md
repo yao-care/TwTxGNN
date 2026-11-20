@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**馬尾腫瘤 (Cauda Equina Neoplasm)** 有效。
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就一般藥理知識，Temozolomide 是口服烷化劑，會使 DNA 甲基化（特別是 O6-鳥嘌呤），對分裂中的腫瘤細胞造成細胞毒性傷害。療效可能與腫瘤的 MGMT 表現有關。
+根據美國 FDA 核准的 Temozolomide 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Temozolomide 本身並無直接活性，但在生理 pH 下會快速經非酵素性轉化為反應性化合物 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide（MTIC）。MTIC 的細胞毒性被認為主要源於 DNA 烷化作用，主要發生在鳥嘌呤的 O 6 及 N 7 位置，此作用會造成 DNA 雙股斷裂，並導致細胞程序性死亡。」英文原文："Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death."（[DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56)，版本日期 2026-02-20；查閱日期 2026-11-19）。就一般藥理知識，Temozolomide 是口服烷化劑，會使 DNA 甲基化（特別是 O6-鳥嘌呤），對分裂中的腫瘤細胞造成細胞毒性傷害。療效可能與腫瘤的 MGMT 表現有關。
 
 原適應症是中樞神經系統的惡性神經膠質瘤，而馬尾腫瘤（例如脊髓黏液乳突型室管膜瘤）同樣位於神經軸，因此在機轉上有可能適用。
 
@@ -142,11 +142,12 @@ TxGNN 模型預測它可能對**馬尾腫瘤 (Cauda Equina Neoplasm)** 有效。
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 台灣上市資訊表把 bevacizumab（艾法施）列為 temozolomide 製劑 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
 
 <!-- review:end log -->
 

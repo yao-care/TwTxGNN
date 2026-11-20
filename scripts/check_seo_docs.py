@@ -32,6 +32,8 @@
     13. docs/_data/ddi_sources.json＝.github/ddi-versions.json 的 site_data；頁面的 DDInter／GtoPdb 數字與版本用 Liquid 讀它（scripts/sync_ddi_sources.py，2026-11-05）。
     14. FHIR metadata（docs/fhir/metadata*）的在地欄位：jurisdiction 國碼＝本站 ISO 3166-1 alpha-2、不出現別站國名／代號、網址在本站網域、非中日文站不含漢字（2026-11-06）。
     15. docs/fhir 所有檔的 jurisdiction 國碼＝本站、含 txgnn／github.io 的網址在本站網域；metadata 與 metadata.json 內容相同、只宣稱 read（2026-11-06）。
+  16. 公開藥物頁寫「作用機轉資料不可得」的，有附出處的作用機轉紀錄（drug_reviews.json action=mechanism）
+      或列在待查清單（source＝mechanism of action，附補不到的原因）（scripts/build_mechanism_reviews.py）（2026-11-19）。
 
 用法：python3 scripts/check_seo_docs.py      # 非零＝不通過
 """
@@ -658,6 +660,10 @@ errors += _dl_cov_errors()
 # 公開藥物頁的預測要在 search-index.json、有 drugbank_id 的要有 FHIR MedicationKnowledge（2026-11-19；說明見 scripts/check_search_index_coverage.py）
 from check_search_index_coverage import check_errors as _si_cov_errors  # noqa: E402
 errors += _si_cov_errors()
+# 16) 作用機轉（2026-11-19）：公開頁寫「作用機轉資料不可得」的，要嘛有附出處的作用機轉紀錄
+#     （drug_reviews.json action=mechanism，由 scripts/build_mechanism_reviews.py 產生），要嘛列在待查清單並寫明補不到的原因。
+from build_mechanism_reviews import gate_errors as _moa_errors  # noqa: E402
+errors += _moa_errors()
 # 說明頁／證據等級頁的在地資料檔（2026-11-19；docs/_data/local_facts.json、evidence_tier_facts.json，說明見 scripts/local_facts.py）
 import subprocess as _lf_sp  # noqa: E402
 _lf = _lf_sp.run([sys.executable, str(DOCS.parent / "scripts/local_facts.py"), "--check"], capture_output=True, text=True)

@@ -58,7 +58,7 @@ TxGNN 模型預測它可能對 **HIV 感染相關疾病 (HIV infectious disease)
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，eltrombopag 是血小板生成素受體促效劑，能刺激巨核細胞分化與血小板生成，在 ITP、C 型肝炎相關血小板減少及再生不良性貧血中的療效已被證實。
+根據美國 FDA 核准的 Eltrombopag 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Eltrombopag是一種TPO受體促效劑，可與人類TPO受體（又稱cMpl）的跨膜區域交互作用，並啟動訊號傳遞級聯反應，誘導巨核細胞增生及分化，進而使血小板生成增加。」英文原文："Eltrombopag is a TPO-receptor agonist that interacts with the transmembrane domain of the human TPO-receptor (also known as cMpl) and initiates signaling cascades that induce proliferation and differentiation of megakaryocytes leading to increased platelet production."（[DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46)，版本日期 2026-05-20；查閱日期 2026-11-19）。根據已知資訊，eltrombopag 是血小板生成素受體促效劑，能刺激巨核細胞分化與血小板生成，在 ITP、C 型肝炎相關血小板減少及再生不良性貧血中的療效已被證實。
 
 HIV 感染常合併血小板減少（包括 HIV 相關 ITP）。因此，TxGNN 的高分預測較可能反映的是**血小板數量層面的症狀性益處**，而不是對 HIV 病毒本身的抗病毒活性。文獻中的病例報告也支持這個方向：有難治型 HIV 相關 ITP 使用血小板生成素受體促效劑的病例系列，以及 HIV 相關再生不良性貧血使用 eltrombopag 後三系血球恢復的個案。其中一例還觀察到免疫調節現象（Th1、Th17 細胞下降，調節性 T 細胞比例上升），但僅為單一個案，不足以作為結論。
 
@@ -129,6 +129,19 @@ HIV 感染常合併血小板減少（包括 HIV 相關 ITP）。因此，TxGNN �
 - 補齊作用機轉資料（MOA）。
 - 評估肝功能風險（知識圖譜標示肝臟相關疾病為潛在禁忌）以及與抗反轉錄病毒藥物的交互作用。
 - 確認台灣現行核准適應症不含 HIV 相關血小板減少，若推進屬於仿單外使用，需另行評估法規路徑。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Eltrombopag Olamine (eltrombopag) prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4af8f855-f710-e96f-e063-6294a90abb46) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

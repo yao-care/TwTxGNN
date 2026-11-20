@@ -74,7 +74,7 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank MOA 欄位為空）。根據已知資訊，Felodipine 屬於二氫吡啶類（dihydropyridine）L 型鈣離子通道阻斷劑，會造成血管平滑肌鬆弛與血管擴張，這也是它在高血壓與心絞痛中的療效基礎。
+根據美國 FDA 核准的 Felodipine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Felodipine屬於二氫吡啶類鈣離子通道拮抗劑（鈣離子通道阻斷劑）。它可與nitrendipine及/或其他鈣離子通道阻斷劑可逆性地競爭二氫吡啶結合位點，阻斷血管平滑肌及培養的兔心房細胞中電壓依賴性Ca ++電流，並阻斷鉀離子誘導的大鼠門靜脈攣縮。」英文原文："Felodipine is a member of the dihydropyridine class of calcium channel antagonists (calcium channel blockers). It reversibly competes with nitrendipine and/or other calcium channel blockers for dihydropyridine binding sites, blocks voltage-dependent Ca ++ currents in vascular smooth muscle and cultured rabbit atrial cells, and blocks potassium-induced contracture of the rat portal vein."（[DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115)，版本日期 2024-08-07；查閱日期 2026-11-19）。根據已知資訊，Felodipine 屬於二氫吡啶類（dihydropyridine）L 型鈣離子通道阻斷劑，會造成血管平滑肌鬆弛與血管擴張，這也是它在高血壓與心絞痛中的療效基礎。
 
 肺高壓的特徵是肺血管阻力上升，因此從機轉上看，血管擴張作用有可能降低肺血管阻力。前臨床研究也顯示，Felodipine 在缺氧與再氧合模型中具有保護作用，例如保護大鼠近端腎小管免於缺氧損傷、保護人類心房肌免於缺氧再氧合功能障礙。
 
@@ -173,13 +173,14 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Felodipine Extended-Release Tablets, USP 仿單（Westminster）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a6560584-e39f-47b3-84db-95da1f90fd40) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L4） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
 
 <!-- review:end log -->
 

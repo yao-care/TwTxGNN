@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**慢性 B 型肝炎 (chronic hepatitis B virus in
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。依據本報告彙整的資料，ribavirin 可抑制 IMP 去氫酶（造成 GTP 耗竭），並具有免疫調節作用，可能增強干擾素為基礎療法的反應。
+根據美國 FDA 核准的 Ribavirin 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Ribavirin是一種抗病毒藥物。[…] Ribavirin在臨床上發揮抗病毒療效的機轉尚未完全明瞭。在組織培養中，ribavirin對多種RNA病毒具有直接抗病毒活性。Ribavirin可提高數種RNA病毒基因體的突變頻率，而ribavirin三磷酸在生化反應中可抑制HCV聚合酶。」英文原文："Ribavirin is an antiviral drug. […] The mechanism by which ribavirin contributes to its antiviral efficacy in the clinic is not fully understood. Ribavirin has direct antiviral activity in tissue culture against many RNA viruses. Ribavirin increases the mutation frequency in the genomes of several RNA viruses and ribavirin triphosphate inhibits HCV polymerase in a biochemical reaction."（[DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c)，版本日期 2024-02-06；查閱日期 2026-11-19）。依據本報告彙整的資料，ribavirin 可抑制 IMP 去氫酶（造成 GTP 耗竭），並具有免疫調節作用，可能增強干擾素為基礎療法的反應。
 
 C 型與 B 型肝炎同為慢性病毒性肝炎，臨床上常以干擾素為治療骨幹，且兩者可能共同感染。因此「peginterferon 加 ribavirin」的做法，自然延伸到 B 型肝炎的研究。
 
@@ -152,11 +152,12 @@ Ribavirin 屬抗病毒藥物，非典型的抗腫瘤藥物，故不列細胞毒�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「速威干軟膠囊100毫克等」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: ribavirin prescribing information, Aurobindo Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eee304d0-c2ea-44f4-97d9-92a414d31b6c) |
 
 <!-- review:end log -->
 

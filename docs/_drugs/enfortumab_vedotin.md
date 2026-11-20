@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**痲瘋病 (leprosy)** 有效，但目前**沒有
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，enfortumab vedotin 是針對 Nectin-4 的抗體藥物複合體，透過 MMAE 干擾微管、殺傷表現 Nectin-4 的腫瘤細胞。
+根據美國 FDA 核准的 Enfortumab Vedotin 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Enfortumab vedotin-ejfv 為一種 ADC。其抗體為針對 Nectin-4 的人類 IgG1 kappa 抗體，Nectin-4 為一種位於細胞表面的黏附蛋白。小分子 MMAE 為一種微管破壞劑，經由可被蛋白酶切割的連接子與抗體相連。」英文原文："Enfortumab vedotin-ejfv is an ADC. The antibody is a human IgG1 kappa directed against Nectin-4, an adhesion protein located on the surface of cells. The small molecule, MMAE, is a microtubule-disrupting agent, attached to the antibody via a protease-cleavable linker."（[DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed)，版本日期 2026-08-04；查閱日期 2026-11-19）。就已知資訊，enfortumab vedotin 是針對 Nectin-4 的抗體藥物複合體，透過 MMAE 干擾微管、殺傷表現 Nectin-4 的腫瘤細胞。
 
 痲瘋病是由麻風分枝桿菌 (Mycobacterium leprae) 引起的慢性感染，與 Nectin-4 標靶的細胞毒性遞送之間，並沒有已知的機轉關聯。這項預測目前只來自 TxGNN 模型，缺乏生物學上的支持，應視為純假設，不宜據此推論療效。
 
@@ -119,13 +119,14 @@ TxGNN 模型預測它可能對**痲瘋病 (leprosy)** 有效，但目前**沒有
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 原適應症漏列肌肉侵犯性膀胱癌（MIBC） | 許可證表程式修正後已無此錯誤（2026-10-28：原適應症列依本紀錄更正補上 MIBC 前導性及術後輔助治療（衛部菌疫輸字第001212號）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結漏列肌肉侵犯性膀胱癌 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 稱 EV-202 有 HER2 陽性乳癌依據 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [ClinicalTrials.gov：NCT04225117（EV-202）](https://clinicaltrials.gov/study/NCT04225117) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed) |
 
 <!-- review:end log -->
 

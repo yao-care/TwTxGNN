@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**血小板釋放障礙（primary release disorder
 
 ## 為什麼這個預測合理？
 
-Caplacizumab 結合 vWF 的 A1 結構域，阻斷 vWF 與血小板 GPIb-IX-V 的交互作用。在 ADAMTS13 缺乏的 TTP 中，超大型 vWF 多聚體會造成微血管血栓，caplacizumab 可預防這個過程。目前缺乏 DrugBank 的詳細作用機轉資料，以上機轉來自 vWF 抑制劑的已知藥理。
+Caplacizumab 結合 vWF 的 A1 結構域，阻斷 vWF 與血小板 GPIb-IX-V 的交互作用。在 ADAMTS13 缺乏的 TTP 中，超大型 vWF 多聚體會造成微血管血栓，caplacizumab 可預防這個過程。根據美國 FDA 核准的 Caplacizumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Caplacizumab-yhdp 以 vWF 的 A1 結構域為標靶，抑制 vWF 與血小板之間的交互作用，從而減少 vWF 媒介的血小板黏附及血小板消耗。」英文原文："Caplacizumab-yhdp targets the A1-domain of vWF, and inhibits the interaction between vWF and platelets, thereby reducing both vWF-mediated platelet adhesion and platelet consumption."（[DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905)，版本日期 2026-04-24；查閱日期 2026-11-19）。
 
 血小板釋放障礙的核心問題是血小板顆粒分泌缺陷，也就是血小板功能不足。這與 TTP 的過度血小板黏附正好相反。Caplacizumab 的作用等同抑制血小板黏附，不僅無法修復顆粒分泌缺陷，還可能加重出血傾向。
 
@@ -113,6 +113,19 @@ Caplacizumab 結合 vWF 的 A1 結構域，阻斷 vWF 與血小板 GPIb-IX-V 的
 - 前臨床研究（如血小板功能與出血模型）評估 vWF–GPIb 阻斷在此疾病中的影響。
 - 完整的作用機轉資料（MOA）與出血風險評估。
 - 建議把資源優先放在機轉上較可信的候選適應症，而非此項預測。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Cablivi (caplacizumab) prescribing information, Genzyme Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2348f06e-8004-4040-832e-e9e86a39f905) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

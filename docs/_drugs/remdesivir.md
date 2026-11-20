@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Remdesivir 是腺苷核苷酸類似物的前驅藥，作用於病毒的 RNA 依賴性 RNA 聚合酶，用於抑制 SARS-CoV-2 複製。
+根據美國 FDA 核准的 Remdesivir 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Remdesivir 為一種抗病毒藥物，具有對抗嚴重急性呼吸道症候群冠狀病毒 2 型（SARS-CoV-2）的活性。[…] Remdesivir 為 SARS-CoV-2 RNA 依賴性 RNA 聚合酶（RdRp）的抑制劑，而 RdRp 為病毒複製所必需。Remdesivir 為一種腺苷核苷酸前驅藥，可分布至細胞內，並視細胞類型而經由羧酸酯酶 1 及／或組織蛋白酶 A 代謝為核苷單磷酸中間產物。」英文原文："Remdesivir is an antiviral drug with activity against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). […] Remdesivir is an inhibitor of the SARS-CoV-2 RNA-dependent RNA polymerase (RdRp), which is essential for viral replication. Remdesivir is an adenosine nucleotide prodrug that distributes into cells where it is metabolized to a nucleoside monophosphate intermediate by carboxyesterase 1 and/or cathepsin A, depending upon the cell type."（[DailyMed: Veklury (remdesivir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0978fa8-53ff-4ca2-82a7-567fd3e958ca)，版本日期 2026-07-29；查閱日期 2026-11-19）。就已知資訊，Remdesivir 是腺苷核苷酸類似物的前驅藥，作用於病毒的 RNA 依賴性 RNA 聚合酶，用於抑制 SARS-CoV-2 複製。
 
 多發性內分泌腫瘤是由 MEN1、RET 等抑癌基因或致癌基因異常所驅動的遺傳性疾病。這條致病路徑與病毒聚合酶抑制之間，沒有已知的合理機轉連結。因此，這項預測的分數來自 TxGNN 模型（深度學習），可能反映模型在相關疾病之間學到的相似性，而非生物學證據，應視為低可信度的假說。
 
@@ -119,11 +119,12 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證字號寫成「衛部藥輸字第XXXXXX號」（且該證已註銷） | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Veklury (remdesivir) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0978fa8-53ff-4ca2-82a7-567fd3e958ca) |
 
 <!-- review:end log -->
 

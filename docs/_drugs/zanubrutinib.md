@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**骨髓性白血病 (Myeloid Leukemia)** 有效�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Zanubrutinib 是選擇性 BTK 抑制劑，可阻斷惡性 B 細胞中的 B 細胞受體訊號傳遞，在多種 B 細胞惡性腫瘤中的療效已被證實。
+根據美國 FDA 核准的 Zanubrutinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Zanubrutinib 是布魯頓氏酪胺酸激酶（BTK）的小分子抑制劑。Zanubrutinib 與 BTK 活性部位中的一個半胱胺酸殘基形成共價鍵，進而抑制 BTK 活性。BTK 是 B 細胞抗原受體（BCR）及細胞激素受體路徑的訊息傳遞分子。」英文原文："Zanubrutinib is a small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Zanubrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK activity. BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways."（[DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902)，版本日期 2026-09-04；查閱日期 2026-11-19）。根據已知資訊，Zanubrutinib 是選擇性 BTK 抑制劑，可阻斷惡性 B 細胞中的 B 細胞受體訊號傳遞，在多種 B 細胞惡性腫瘤中的療效已被證實。
 
 BTK 在骨髓系細胞中也有表現，因此在機轉上對骨髓性白血病有一定的合理性，但這仍屬未經證實的推測。目前提供的臨床證據全部集中在 B 細胞惡性腫瘤（如 CLL/SLL、WM），並非骨髓性白血病。
 
@@ -136,13 +136,14 @@ BTK 在骨髓系細胞中也有表現，因此在機轉上對骨髓性白血病�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | BTK IC50 寫約 20 nM | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 BTK IC50 約 20 nM；原為更正） | [EMA：Brukinsa（zanubrutinib）EPAR 公開評估報告（EMA/627600/2021），Primary pharmacodynamics](https://www.ema.europa.eu/en/documents/assessment-report/brukinsa-epar-public-assessment-report_en.pdf) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Brukinsa (zanubrutinib) prescribing information, BeOne Medicines USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3e08fe23-d70e-424c-bc51-1222e320f902) |
 
 <!-- review:end log -->
 

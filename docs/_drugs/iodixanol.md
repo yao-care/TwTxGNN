@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Iodixanol 是等滲透壓的碘化對比劑，其功能是在 X 光下提高組織與血管的影像對比，而不是調節疾病過程。
+根據美國 FDA 核准的 Iodixanol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「血管內注射 iodixanol 可使顯影劑流經路徑上的血管顯影不透光，從而使內部結構得以顯像。在身體造影中，含碘顯影劑會由血管內擴散至血管外腔隙。」英文原文："Intravascular injection of iodixanol opacifies vessels in the path of flow of the contrast agent, permitting visualization of internal structures. In imaging of the body, iodinated contrast agents diffuse from the vascular into the extravascular space."（[DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e)，版本日期 2026-10-16；查閱日期 2026-11-19）。Iodixanol 是等滲透壓的碘化對比劑，其功能是在 X 光下提高組織與血管的影像對比，而不是調節疾病過程。
 
 退化性關節炎是關節軟骨與軟骨下骨的退化性疾病。目前查到的文獻，是把 iodixanol 當作電腦斷層的示蹤劑，用來觀察軟骨結構以及溶質在軟骨與軟骨下骨之間的傳輸，也就是診斷與研究工具的用途，並非治療用途。
 
@@ -137,6 +137,19 @@ TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis)** 有效，�
 ---
 
 **補充：** 本次資料中的第二個預測（類風濕性關節炎）同樣只有模型預測，沒有臨床試驗；唯一的文獻是另一種對比劑（iohexol）的過敏脫敏個案報告，與治療無關，證據等級同為 L5，建議同樣維持 Hold。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Visipaque (iodixanol) prescribing information, GE Healthcare Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2d964c13-88ad-43be-88d4-a3a7ea4d5b5e) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

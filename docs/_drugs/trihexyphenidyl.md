@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**注意力不足過動症 (Attention Deficit-Hype
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Trihexyphenidyl 是中樞型毒蕈鹼 M1 受體拮抗劑，可調節紋狀體內膽鹼與多巴胺系統的平衡，這是它在帕金森氏症候群中緩解顫抖與僵直的基礎。
+根據美國 FDA 核准的 Trihexyphenidyl 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Trihexyphenidyl Hydrochloride 為經取代之哌啶鹽，即 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride，對副交感神經系統具有直接抑制作用。其亦對平滑肌具有鬆弛作用；此作用既直接作用於肌肉組織本身，亦經由對副交感神經系統的抑制作用而間接產生。」英文原文："Trihexyphenidyl Hydrochloride is the substituted piperidine salt, 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride, which exerts a direct inhibitory effect upon the parasympathetic nervous system. It also has a relaxing effect on smooth musculature; exerted both directly upon the muscle tissue itself and indirectly through an inhibitory effect upon the parasympathetic nervous system."（[DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af)，版本日期 2026-07-23；查閱日期 2026-11-19）。根據已知資訊，Trihexyphenidyl 是中樞型毒蕈鹼 M1 受體拮抗劑，可調節紋狀體內膽鹼與多巴胺系統的平衡，這是它在帕金森氏症候群中緩解顫抖與僵直的基礎。
 
 從機轉上推論，膽鹼與多巴胺的平衡失調，可能與過動以及抽動、肌張力不全等動作症狀共病有關，這是此預測唯一較合理的連結。不過，目前沒有任何直接在 ADHD 患者中的證據。
 
@@ -149,6 +149,19 @@ TxGNN 模型預測它可能對**注意力不足過動症 (Attention Deficit-Hype
 - 前臨床或小規模探索性研究，驗證在過動或抽動共病族群的效果
 - 評估認知與注意力的不良影響，以及兒童族群的安全性
 - 在目前候選預測中，PLA2G6 相關神經退化症（可能緩解肌張力不全與類帕金森症狀，為 L4）與本藥原適應症機轉較為接近，可優先評估
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

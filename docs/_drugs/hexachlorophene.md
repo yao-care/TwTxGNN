@@ -71,7 +71,7 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。一般藥理認為，Hexachlorophene 是雙酚類抗菌劑，可破壞細菌細胞膜與膜結合酶，因此可降低皮膚細菌負荷。另有研究指出它可能抑制 SHP2，進而影響 RAS/MEK/ERK 與 PI3K/AKT 訊號路徑，在 KRAS 突變癌細胞中產生抗增生效果，但這只是初步證據，並未與皮膚病變連結。
+ChEMBL（EMBL-EBI）收錄的 Hexachlorophene 作用機轉（非官方翻譯）：「細菌烯醯-[醯基載體蛋白]還原酶抑制劑」英文原文："Bacterial enoyl-[acyl-carrier-protein] reductase inhibitor"（[ChEMBL CHEMBL496 (hexachlorophene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL496)，CC BY-SA 3.0；查閱日期 2026-11-19）。一般藥理認為，Hexachlorophene 是雙酚類抗菌劑，可破壞細菌細胞膜與膜結合酶，因此可降低皮膚細菌負荷。另有研究指出它可能抑制 SHP2，進而影響 RAS/MEK/ERK 與 PI3K/AKT 訊號路徑，在 KRAS 突變癌細胞中產生抗增生效果，但這只是初步證據，並未與皮膚病變連結。
 
 脂漏性角化症是良性的表皮增生性病變，與抗菌作用沒有已知的關聯。因此，目前沒有明確的機轉理由支持這個預測，TxGNN 分數是唯一的支持依據。
 
@@ -188,7 +188,7 @@ TxGNN 排名前 10 的預測中，下列兩項有部分資料可供參考，但�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -198,6 +198,7 @@ TxGNN 排名前 10 的預測中，下列兩項有部分資料可供參考，但�
 | 2026-10-03 | 安全性段稱美國 FDA 已終止核准用途 | 加註（2026-10-16 修訂，前版保留於紀錄） | [Drugs@FDA：NDA 017433（PRE-OP／PRE-OP II，hexachlorophene 480MG sponge;topical）](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=017433)；[openFDA Drugs@FDA API：主成分 HEXACHLOROPHENE 的申請案（查詢 products.active_ingredients.name:"HEXACHLOROPHENE"）](https://api.fda.gov/drug/drugsfda.json?search=products.active_ingredients.name:%22HEXACHLOROPHENE%22&limit=100) |
 | 2026-10-16 | 一句話總結把皮膚黴菌感染列為原用途 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 預測理由稱原適應症含皮膚黴菌感染 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL496 (hexachlorophene): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL496) |
 
 <!-- review:end log -->
 

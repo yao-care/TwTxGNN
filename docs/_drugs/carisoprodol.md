@@ -74,7 +74,7 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Carisoprodol 是中樞性肌肉鬆弛劑，其活性代謝物 meprobamate 具有 GABA-A 調節作用與類巴比妥的鎮靜效果。
+根據美國 FDA 核准的 Carisoprodol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Carisoprodol 緩解急性疼痛性肌肉骨骼疾病相關不適的作用機轉尚未明確確立。在動物研究中，carisoprodol 誘發的肌肉鬆弛與脊髓及腦部下行網狀結構中的中間神經元活性改變有關。」英文原文："The mechanism of action of carisoprodol in relieving discomfort associated with acute painful musculoskeletal conditions has not been clearly identified. In animal studies, muscle relaxation induced by carisoprodol is associated with altered interneuronal activity in the spinal cord and in the descending reticular formation of the brain."（[DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa)，版本日期 2026-11-03；查閱日期 2026-11-19）。根據已知資訊，Carisoprodol 是中樞性肌肉鬆弛劑，其活性代謝物 meprobamate 具有 GABA-A 調節作用與類巴比妥的鎮靜效果。
 
 原適應症多為肌肉緊張與疼痛，台灣部分許可證也列有「焦慮緊張症」，並有一張許可證註明「骨骼肌鬆弛、鎮靜」。鎮靜作用在機轉上可能有助於入睡，這是預測合理的主要依據。
 
@@ -166,12 +166,13 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：SOMA 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6297cf20-830a-11dc-94c8-0002a5d5c51b) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Carisoprodol Tablets, Usp, 350 Mg (carisoprodol) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1f08f4af-37c2-49b5-a4e3-284414f866fa) |
 
 <!-- review:end log -->
 

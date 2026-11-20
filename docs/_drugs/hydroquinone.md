@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料庫記錄。根據已知資訊，氫醌可抑制酪胺酸酶（tyrosinase），減少黑色素合成，這也是它用於黑斑、雀斑的基礎。
+根據美國 FDA 核准的 Hydroquinone 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「局部塗抹hydroquinone可抑制酪胺酸經酵素氧化為3,4-二羥基苯丙胺酸（dopa）的過程（Denton, C. et al., 1952）1，並抑制黑色素細胞的其他代謝過程（Jimbow, K. et al., 1974）2，從而使皮膚產生可逆性色素脫失。暴露於陽光或紫外線下會使已漂白的區域重新產生色素沉著（Parrish, L.A. et al., 1978）3。」英文原文："Topical application of hydroquinone produces a reversible depigmentation of the skin by inhibition of the enzymatic oxidation of tyrosine to 3,4-dihydroxyphenylalanine (dopa) (Denton, C. et al., 1952)1 and suppression of other melanocyte metabolic processes (Jimbow, K. et al., 1974)2. Exposure to sunlight or ultraviolet light will cause repigmentation of bleached areas (Parrish, L.A. et al., 1978)3."（[DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b)，版本日期 2026-07-10；查閱日期 2026-11-19）。根據已知資訊，氫醌可抑制酪胺酸酶（tyrosinase），減少黑色素合成，這也是它用於黑斑、雀斑的基礎。
 
 脂漏性角化症常呈現褐色至黑色的色素性病灶，因此氫醌理論上可能淡化這類病灶的顏色。
 
@@ -138,11 +138,12 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Hydroquinone 4% (hydroquinone) prescribing information, Acella Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595dfc50-ee6f-41b5-ab5b-4c293aee342b) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**運動誘發惡性高熱 (Exercise-induced Malig
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Acetazolamide 是碳酸酐酶抑制劑，會造成利尿與代謝性酸中毒，其在青光眼、水腫與癲癇的療效已被證實。
+根據美國 FDA 核准的 Acetazolamide 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Acetazolamide為一種強效碳酸酐酶抑制劑，可有效控制液體分泌（例如某些類型的青光眼）、治療某些痙攣性疾病（例如癲癇），以及在異常液體滯留的情況下（例如心因性水腫）促進利尿。Acetazolamide並非汞類利尿劑。」英文原文："Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion (e.g., some types of glaucoma), in the treatment of certain convulsive disorders (e.g., epilepsy), and in the promotion of diuresis in instances of abnormal fluid retention (e.g., cardiac edema). Acetazolamide is not a mercurial diuretic."（[DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b)，版本日期 2026-11-10；查閱日期 2026-11-19）。根據已知資訊，Acetazolamide 是碳酸酐酶抑制劑，會造成利尿與代謝性酸中毒，其在青光眼、水腫與癲癇的療效已被證實。
 
 然而，就運動誘發惡性高熱而言，目前沒有臨床或文獻證據將兩者連結。這個關聯完全來自 TxGNN 的模型預測，機轉上是否適用尚無法確認，應視為待驗證的假說。
 
@@ -117,6 +117,19 @@ TxGNN 模型預測它可能對**運動誘發惡性高熱 (Exercise-induced Malig
 - 進行系統性文獻回顧與前臨床研究，確認是否有任何生物學合理性
 - 評估酸中毒、電解質變化對此類患者的潛在風險
 - 另可留意同一模型輸出中的**心肌病變／心衰竭**方向（證據等級 L4，有間接的個案與前臨床資料），其優先度可能高於本適應症，但仍屬研究假說階段
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: acetazolamide prescribing information, Chartwell RX, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e8e48a25-5f6c-4b5a-a5f2-ee87aabea33b) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

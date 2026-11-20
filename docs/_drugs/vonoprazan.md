@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**消化性潰瘍穿孔 (peptic ulcer perforation)
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據藥理資料，Vonoprazan 的作用標的為胃壁細胞的質子幫浦（H+/K+-ATPase，基因 ATP4A），屬於鉀離子競爭型酸阻斷劑，可強效抑制胃酸分泌。
+根據美國 FDA 核准的 Vonoprazan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Vonoprazan 以鉀離子競爭性方式抑制 H +, K + -ATPase 酶系統，從而在胃壁細胞分泌面抑制基礎及受刺激的胃酸分泌。由於此酶被視為壁細胞內的酸（質子）幫浦，vonoprazan 被歸類為一種胃質子幫浦抑制劑，因其阻斷胃酸生成的最後步驟。」英文原文："Vonoprazan suppresses basal and stimulated gastric acid secretion at the secretory surface of the gastric parietal cell through inhibition of the H +, K + -ATPase enzyme system in a potassium-competitive manner. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, vonoprazan has been characterized as a type of gastric proton-pump inhibitor, in that it blocks the final step of acid production."（[DailyMed: Voquezna (vonoprazan fumarate) prescribing information, Phathom Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914)，版本日期 2026-07-16；查閱日期 2026-11-19）。根據藥理資料，Vonoprazan 的作用標的為胃壁細胞的質子幫浦（H+/K+-ATPase，基因 ATP4A），屬於鉀離子競爭型酸阻斷劑，可強效抑制胃酸分泌。
 
 消化性潰瘍穿孔的根本成因是胃酸與黏膜損傷造成的潰瘍。因此，抑制胃酸理論上可能有助於穿孔修補後底層潰瘍的癒合，並降低復發風險。
 
@@ -124,12 +124,13 @@ TxGNN 模型預測它可能對**消化性潰瘍穿孔 (peptic ulcer perforation)
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 台灣上市資訊表「衛部藥輸字（待確認）福星定膜衣錠10毫克」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 快速總覽「許可證數：1 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Voquezna (vonoprazan fumarate) prescribing information, Phathom Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914) |
 
 <!-- review:end log -->
 

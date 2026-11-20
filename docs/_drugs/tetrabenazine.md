@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**多囊腎疾病 3 型（可合併多囊肝，pol
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Tetrabenazine 是可逆性 VMAT2 抑制劑，會耗竭突觸前的單胺類神經傳遞物質，這也是它用於控制亨汀頓舞蹈症之舞蹈症狀的基礎。
+根據美國 FDA 核准的 Tetrabenazine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「XENAZINE（tetrabenazine）發揮抗舞蹈症作用的確切機轉不明，但據信與其作為神經末梢單胺類（如多巴胺、血清素、正腎上腺素及組織胺）之可逆性耗竭劑的作用有關。Tetrabenazine 可逆性抑制人類第 2 型囊泡單胺轉運體（VMAT2）（K i ≈ 100 nM），導致單胺類進入突觸囊泡的攝取減少及單胺儲存耗竭。」英文原文："The precise mechanism by which XENAZINE (tetrabenazine) exerts its anti-chorea effects is unknown but is believed to be related to its effect as a reversible depletor of monoamines (such as dopamine, serotonin, norepinephrine, and histamine) from nerve terminals. Tetrabenazine reversibly inhibits the human vesicular monoamine transporter type 2 (VMAT2) (K i ≈ 100 nM), resulting in decreased uptake of monoamines into synaptic vesicles and depletion of monoamine stores."（[DailyMed: Xenazine (tetrabenazine) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac768bab-8afa-4446-bc7f-caeeffec0cda)，版本日期 2026-11-06；查閱日期 2026-11-19）。根據已知資訊，Tetrabenazine 是可逆性 VMAT2 抑制劑，會耗竭突觸前的單胺類神經傳遞物質，這也是它用於控制亨汀頓舞蹈症之舞蹈症狀的基礎。
 
 然而，多囊腎疾病屬於與纖毛及腎臟病理相關的遺傳性疾病，單胺耗竭與囊腫形成之間，目前看不出合理的機轉關聯。這個預測完全來自 TxGNN 的模型分數，並無機轉、臨床或文獻上的佐證。
 
@@ -124,12 +124,13 @@ TxGNN 模型預測它可能對**多囊腎疾病 3 型（可合併多囊肝，pol
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 止蹈錠 12.5 毫克許可證字號 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 止蹈錠 25 毫克許可證字號 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Xenazine (tetrabenazine) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac768bab-8afa-4446-bc7f-caeeffec0cda) |
 
 <!-- review:end log -->
 

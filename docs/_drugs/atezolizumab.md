@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (uterine ligament adenocarcin
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Atezolizumab 是阻斷 PD-L1 的單株抗體，可解除腫瘤對 T 細胞的抑制，恢復抗腫瘤免疫反應。
+根據美國 FDA 核准的 Atezolizumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「PD-L1可表達於腫瘤細胞及／或腫瘤浸潤免疫細胞上，並可促成腫瘤微環境中抗腫瘤免疫反應的抑制。PD-L1與T細胞及抗原呈現細胞上的PD-1及B7.1受體結合，會抑制細胞毒性T細胞活性、T細胞增殖及細胞激素產生。[…] Atezolizumab是一種單株抗體，可與PD-L1結合，並阻斷其與PD-1及B7.1受體兩者的交互作用。」英文原文："PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. […] Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors."（[DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee)，版本日期 2026-10-13；查閱日期 2026-11-19）。根據已知資訊，Atezolizumab 是阻斷 PD-L1 的單株抗體，可解除腫瘤對 T 細胞的抑制，恢復抗腫瘤免疫反應。
 
 對於表現 PD-L1 的腺癌，這種機轉在理論上可能適用。但目前沒有任何研究直接探討子宮韌帶腺癌，這項連結僅建立在 TxGNN 的預測上，需謹慎看待。
 
@@ -122,11 +122,12 @@ TxGNN 模型預測它可能對**子宮韌帶腺癌 (uterine ligament adenocarcin
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L2）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee) |
 
 <!-- review:end log -->
 

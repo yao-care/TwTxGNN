@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**變異型心絞痛 (Prinzmetal angina)** 有效�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Fluorescein 是一種螢光染劑，用於眼科檢查（如眼壓測量、角膜病變檢查）及螢光血管造影，作用在於顯影，而非藥理治療。
+根據美國 FDA 核准的 Fluorescein 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Fluorescein sodium 對波長介於 465 至 490 nm 之間的電磁輻射及光產生反應並發出螢光，即發出波長為 520 至 530 nm 的光。因此，該碳氫化合物受藍光激發，並發出呈黃綠色的光。」英文原文："Fluorescein sodium responds to electromagnetic radiation and light between the wavelengths of 465 to 490 nm and fluoresces, i.e., emits light at wavelengths of 520 to 530 nm. Thus, the hydrocarbon is excited by blue light and emits light that appears yellowish green."（[DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0)，版本日期 2026-02-26；查閱日期 2026-11-19）。Fluorescein 是一種螢光染劑，用於眼科檢查（如眼壓測量、角膜病變檢查）及螢光血管造影，作用在於顯影，而非藥理治療。
 
 變異型心絞痛的成因是冠狀動脈痙攣，治療需要血管擴張或鈣離子通道阻斷等藥理作用。Fluorescein 沒有已知的血管活性藥理作用，與冠狀動脈痙攣之間找不到合理的機轉連結。
 
@@ -115,12 +115,13 @@ TxGNN 模型預測它可能對**變異型心絞痛 (Prinzmetal angina)** 有效�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「在體內幾乎不被代謝即原形排出」 | 報告重生後已無此錯誤（2026-10-15：新報告未再寫 fluorescein 幾乎不被代謝；原為更正） | [DailyMed：FLUORESCITE（fluorescein injection, USP）10% 美國仿單 §12.3](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ebb3883c-71f6-4fd0-a7e6-0ba8e1136dd9) |
 | 2026-10-03 | 許可證表 5 張全數已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Ak-Fluor (fluorescein) prescribing information, Long Grove Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73511e79-c050-4dc0-aa2f-a79ed320b5b0) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Urofollitropin 是尿液來源的促性腺激素，作用於性腺的 FSH／LH 受體，用來促進濾泡發育與排卵。
+ChEMBL（EMBL-EBI）收錄的 Urofollitropin 作用機轉（非官方翻譯）：「濾泡刺激素受體促效劑」英文原文："Follicle stimulating hormone receptor agonist"（[ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Urofollitropin 是尿液來源的促性腺激素，作用於性腺的 FSH／LH 受體，用來促進濾泡發育與排卵。
 
 目前沒有已建立的機轉能把這類藥物與偏頭痛連結起來。唯一較具推測性的關聯，是女性偏頭痛與雌激素濃度波動有關，促性腺激素可能間接影響性荷爾蒙，進而調節偏頭痛。但這只是推測，並無臨床或文獻資料支持。
 
@@ -114,12 +114,13 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：8 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表「保孕威」已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL1201520 (urofollitropin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1201520) |
 
 <!-- review:end log -->
 

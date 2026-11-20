@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對 **Scheie 症候群 (Scheie syndrome)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Cerliponase alfa 是重組 TPP1 酵素，以腦室內給藥方式補充 CLN2 患者缺乏的溶小體酵素。
+根據美國 FDA 核准的 Cerliponase Alfa 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「CLN2 疾病是一種神經退化性疾病，由溶酶體酵素三肽基肽酶-1（TPP1）缺乏所引起；TPP1 負責在中樞神經系統（CNS）內分解多肽。TPP1 並無已知的受質專一性。[…] Cerliponase alfa（rhTTP1）為一種酵素原，可被中樞神經系統內的標靶細胞攝取，並經由非陽離子依賴性甘露糖-6-磷酸受體（CI-MPR，亦稱為 M6P/IGF2 受體）轉運至溶酶體。」英文原文："CLN2 disease is a neurodegenerative disease caused by deficiency of the lysosomal enzyme tripeptidyl peptidase-1 (TPP1), which catabolizes polypeptides in the CNS. TPP1 has no known substrate specificity. […] Cerliponase alfa (rhTTP1), a proenzyme, is taken up by target cells in the CNS and is translocated to the lysosomes through the Cation Independent Mannose-6-Phosphate Receptor (CI-MPR, also known as M6P/IGF2 receptor)."（[DailyMed: Brineura (cerliponase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=485ab3c5-0359-4878-872f-2fe1e7df4047)，版本日期 2024-08-05；查閱日期 2026-11-19）。已知 Cerliponase alfa 是重組 TPP1 酵素，以腦室內給藥方式補充 CLN2 患者缺乏的溶小體酵素。
 
 Scheie 症候群（黏多醣症第一型，MPS I 的輕症型）是由 IDUA 酵素缺乏造成，與 TPP1 缺乏屬不同的溶小體酵素疾病。TPP1 不會分解 IDUA 的受質（醣胺聚醣），兩者沒有受質重疊。因此，這個預測的連結僅建立在「同屬溶小體儲積症、可用酵素替代」這個通用概念上，機轉依據薄弱。
 
@@ -107,6 +107,19 @@ TxGNN 同時預測的其他疾病（如 Hurler 症候群、戈謝氏症、膽固
 - 評估腦室內給藥是否適合 Scheie 症候群的全身性病變，並確認給藥途徑相容性。
 - 補充安全性資料（警語、禁忌、藥物交互作用），並查核原廠仿單。
 - 若未來要擴大探索，建議優先檢視其他 TxGNN 預測的疾病，尤其是與中樞神經病變相關者，再決定研究順序。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Brineura (cerliponase alfa) prescribing information, BioMarin Pharmaceutical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=485ab3c5-0359-4878-872f-2fe1e7df4047) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

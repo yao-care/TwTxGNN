@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**腎因性抗利尿不適當綜合症 (nephrogeni
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知甘露醇是滲透性利尿劑，經腎小球過濾後不易被再吸收，使腎小管內滲透壓升高而增加尿量與溶質排出，這也是它用於降顱內壓與腦水腫的基礎。
+根據美國 FDA 核准的 Mannitol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Mannitol 經靜脈給藥時，作為一種分子相對較小、主要局限於細胞外間隙的溶質而發揮其滲透性利尿作用。Mannitol 藉由提高腎絲球濾液的滲透壓，阻礙腎小管對水的再吸收，並增加鈉及氯的排泄。」英文原文："Mannitol, when administered intravenously, exerts its osmotic diuretic effect as a solute of relatively small molecular size being largely confined to the extracellular space. Mannitol hinders tubular reabsorption of water and enhances excretion of sodium and chloride by elevating the osmolarity of the glomerular filtrate."（[DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc)，版本日期 2025-08-26；查閱日期 2026-11-19）。已知甘露醇是滲透性利尿劑，經腎小球過濾後不易被再吸收，使腎小管內滲透壓升高而增加尿量與溶質排出，這也是它用於降顱內壓與腦水腫的基礎。
 
 從理論上看，腎因性抗利尿不適當綜合症是一種水分滯留、容易低血鈉的疾病，而滲透性利尿能增加排尿，因此模型可能因此建立關聯。不過，這個連結相當間接：滲透性負荷本身也可能擾動鈉的平衡，反而使電解質問題更複雜。
 
@@ -125,11 +125,12 @@ TxGNN 模型預測它可能對**腎因性抗利尿不適當綜合症 (nephrogeni
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Osmitrol (mannitol) prescribing information, Baxter Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d914965-7001-45cb-ba51-d7c5964b05bc) |
 
 <!-- review:end log -->
 

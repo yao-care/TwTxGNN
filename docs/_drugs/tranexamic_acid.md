@@ -59,7 +59,7 @@ TxGNN 模型預測它可能與**無月經 (Amenorrhea)** 相關，但目前**沒
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據一般藥理知識，Tranexamic acid 是離胺酸類似物，可阻斷纖維蛋白溶解酶原與纖維蛋白的結合，減少纖維蛋白溶解，進而降低出血量。
+根據美國 FDA 核准的 Tranexamic Acid 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Tranexamic acid 是一種合成的離胺酸胺基酸衍生物，可減少胞漿素對止血性纖維蛋白的溶解。在 tranexamic acid 存在下，胞漿素與纖維蛋白結合的離胺酸受體結合位會被佔據，從而阻止其與纖維蛋白單體結合，因此可保持並穩定纖維蛋白的基質結構。」英文原文："Tranexamic acid is a synthetic lysine amino acid derivative, which diminishes the dissolution of hemostatic fibrin by plasmin. In the presence of tranexamic acid, the lysine receptor binding sites of plasmin for fibrin are occupied, preventing binding to fibrin monomers, thus preserving and stabilizing fibrin's matrix structure."（[DailyMed: Cyklokapron (tranexamic acid) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e89a7d9-4da4-42aa-b7f8-c602c24eefe5)，版本日期 2025-09-03；查閱日期 2026-11-19）。根據一般藥理知識，Tranexamic acid 是離胺酸類似物，可阻斷纖維蛋白溶解酶原與纖維蛋白的結合，減少纖維蛋白溶解，進而降低出血量。
 
 在子宮內膜，這個作用可減少內膜纖維蛋白溶解與經血量。因此它和「異常子宮出血、月經量過多」的關聯性較直接。
 
@@ -133,11 +133,12 @@ TxGNN 模型預測它可能與**無月經 (Amenorrhea)** 相關，但目前**沒
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Cyklokapron (tranexamic acid) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e89a7d9-4da4-42aa-b7f8-c602c24eefe5) |
 
 <!-- review:end log -->
 

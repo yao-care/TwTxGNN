@@ -67,7 +67,7 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Terbutaline 屬於 β2 腎上腺素受體促效劑類別。這類藥物已知可使氣道平滑肌細胞內的 cAMP 上升，進而使氣道平滑肌放鬆而擴張支氣管（此為文獻中對 β2 促效劑的一般性描述，並非來自本報告所整理的藥物機轉資料）。
+根據美國 FDA 核准的 Terbutaline 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「體外及體內藥理學研究證實，terbutaline 對 beta 2 -腎上腺素受體具優先作用。雖然已知 beta2-腎上腺素受體是支氣管平滑肌中的主要受體，但數據顯示人類心臟中亦存在一群 beta2-受體，其濃度介於 10% 至 50% 之間。」英文原文："In vitro and in vivo pharmacologic studies have demonstrated that terbutaline exerts a preferential effect on beta 2 -adrenergic receptors. While it is recognized that beta2-adrenergic receptors are the predominant receptors in bronchial smooth muscle, data indicate that there is a population of beta2-receptors in the human heart, existing in a concentration between 10% to 50%."（[DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726)，版本日期 2025-12-10；查閱日期 2026-11-19）。根據已知資訊，Terbutaline 屬於 β2 腎上腺素受體促效劑類別。這類藥物已知可使氣道平滑肌細胞內的 cAMP 上升，進而使氣道平滑肌放鬆而擴張支氣管（此為文獻中對 β2 促效劑的一般性描述，並非來自本報告所整理的藥物機轉資料）。
 
 台灣核准適應症包含支氣管氣喘、慢性支氣管炎、氣喘性支氣管炎、支氣管擴張症與肺氣腫，這些疾病都屬於氣道阻塞性疾病。因此「阻塞性肺病」與原適應症高度重疊，預測合理性高，臨床上屬於既有用途的延伸。
 
@@ -186,7 +186,7 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -200,6 +200,7 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L1→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「阻塞性肺病 (Obstructive Lung Disease)」已重審撤回） | 加註 | [US FDA label (DailyMed)：TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L1」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: terbutaline sulfate prescribing information, Chartwell RX, LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726) |
 
 <!-- review:end log -->
 

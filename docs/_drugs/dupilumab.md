@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效。
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供）。就已知的藥理特性，dupilumab 阻斷 IL-4Rα，抑制 IL-4/IL-13 驅動的第 2 型發炎，這類發炎與嗜伊紅性氣道發炎及黏液栓塞有關。
+根據美國 FDA 核准的 Dupilumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Dupilumab是一種人類單株IgG4抗體，透過專一性結合IL-4與IL-13受體複合物共有的IL-4Rα次單元，抑制介白素-4（IL-4）及介白素-13（IL-13）的訊號傳遞。Dupilumab抑制經由第I型受體的IL-4訊號傳遞，以及經由第II型受體的IL-4和IL-13訊號傳遞。」英文原文："Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes. Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor."（[DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780)，版本日期 2026-04-22；查閱日期 2026-11-19）。就已知的藥理特性，dupilumab 阻斷 IL-4Rα，抑制 IL-4/IL-13 驅動的第 2 型發炎，這類發炎與嗜伊紅性氣道發炎及黏液栓塞有關。
 
 因此，在嗜伊紅性氣道疾病（如氣喘、慢性阻塞性肺病）以及嗜伊紅性塑型性支氣管炎的個案報告中，可看到此機轉被討論。但一般支氣管炎多為感染性或吸菸相關的嗜中性發炎，並非以第 2 型發炎為主，因此機轉上的適用性有限。
 
@@ -127,11 +127,12 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效。
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「Dupilumab 是一種人源化單株抗體」 | 報告重生後已無此錯誤（2026-10-15：新報告未再稱 dupilumab 為人源化抗體；原為更正） | [DailyMed：DUPIXENT（dupilumab）injection 美國仿單 §12.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Dupixent (dupilumab) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=595f437d-2729-40bb-9c62-c8ece1f82780) |
 
 <!-- review:end log -->
 

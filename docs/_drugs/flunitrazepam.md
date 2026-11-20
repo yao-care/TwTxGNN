@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**偏頭痛 (migraine disorder)** 有效，但目�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據藥理資料，flunitrazepam 與 GABA-A 受體的 α1、α2、α3、α5 亞單位有交互作用，屬於苯二氮平類藥物。
+ChEMBL（EMBL-EBI）收錄的 Flunitrazepam 作用機轉（非官方翻譯）：「GABA-A受體；陰離子通道正向異位調節劑」英文原文："GABA-A receptor; anion channel positive allosteric modulator"（[ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據藥理資料，flunitrazepam 與 GABA-A 受體的 α1、α2、α3、α5 亞單位有交互作用，屬於苯二氮平類藥物。
 
 理論上，增強 GABA-A 介導的抑制作用，可能減弱皮質過度興奮，而皮質過度興奮被認為與偏頭痛有關。不過這只是推測性的機轉連結。目前沒有任何臨床或文獻證據顯示 flunitrazepam 對偏頭痛有效，此訊號僅來自 TxGNN 模型預測。
 
@@ -118,6 +118,19 @@ TxGNN 模型預測它可能對**偏頭痛 (migraine disorder)** 有效，但目�
 - 取得 flunitrazepam 在偏頭痛的前臨床或臨床研究證據
 - 補充完整的作用機轉資料
 - 與現有偏頭痛標準治療比較風險效益，並制定依賴性與濫用風險管控計畫
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL13280 (flunitrazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL13280) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

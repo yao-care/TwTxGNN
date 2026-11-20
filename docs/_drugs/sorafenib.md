@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (liposarcoma)** 有效。
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 的詳細作用機轉資料。根據已整理的資料，sorafenib 可抑制 RAF/MEK/ERK 訊號，並抑制 VEGFR、PDGFR 等酪胺酸激酶，可能減少腫瘤血管新生與增殖訊號。
+根據美國 FDA 核准的 Sorafenib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Sorafenib 是一種激酶抑制劑，可於體外減少腫瘤細胞增生。Sorafenib 已證實可抑制多種細胞內激酶（c-CRAF、BRAF 及突變型 BRAF）及細胞表面激酶（KIT、FLT- 3、RET、RET/PTC、VEGFR-1、VEGFR- 2、VEGFR- 3 及 PDGFR-ß）。」英文原文："Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)."（[DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0)，版本日期 2023-08-28；查閱日期 2026-11-19）。根據已整理的資料，sorafenib 可抑制 RAF/MEK/ERK 訊號，並抑制 VEGFR、PDGFR 等酪胺酸激酶，可能減少腫瘤血管新生與增殖訊號。
 
 軟組織肉瘤（含脂肪肉瘤）常依賴這些訊號路徑，因此機轉上有合理性。體外研究也顯示，sorafenib 可抑制去分化脂肪肉瘤細胞株的生長與 MAPK 訊號。
 
@@ -136,6 +136,19 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (liposarcoma)** 有效。
 - 針對脂肪肉瘤（特別是去分化型）設計專屬的前瞻性試驗或擴展世代研究
 - 補充 DrugBank 的作用機轉資料
 - 針對心血管、血壓與出血風險擬定監測計畫
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**肺疾病及（或）缺氧所致的肺高壓 (p
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，aliskiren 直接抑制腎素 (renin)，也就是腎素-血管收縮素系統 (RAS) 的限速步驟，因此能降低血管收縮素 II。
+根據美國 FDA 核准的 Aliskiren 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「腎臟會因應血容量及腎灌流量下降而分泌腎素。腎素裂解血管收縮素原，形成無活性的十肽血管收縮素 I（Ang I）。Ang I 經由 ACE 及非 ACE 途徑轉化為具活性的八肽血管收縮素 II（Ang II）。」英文原文："Renin is secreted by the kidney in response to decreases in blood volume and renal perfusion. Renin cleaves angiotensinogen to form the inactive decapeptide angiotensin I (Ang I). Ang I is converted to the active octapeptide angiotensin II (Ang II) by ACE and non-ACE pathways."（[DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb)，版本日期 2022-12-30；查閱日期 2026-11-19）。根據已知資訊，aliskiren 直接抑制腎素 (renin)，也就是腎素-血管收縮素系統 (RAS) 的限速步驟，因此能降低血管收縮素 II。
 
 間歇性缺氧的前臨床模型顯示，血管收縮素 II 與交感神經過度興奮、血管及心房重塑有關。例如大鼠慢性間歇性缺氧模型中，aliskiren 可能對心房重塑有保護作用。這是原適應症（高血壓）與預測適應症（缺氧相關肺高壓）在機轉上的可能連結。
 
@@ -130,11 +130,12 @@ TxGNN 模型預測它可能對**肺疾病及（或）缺氧所致的肺高壓 (p
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: aliskiren prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f3fd2503-25ef-4660-a29a-f62c491e28fb) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**血紅素病變 (Hemoglobinopathy)** 有效，�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊而言，Glatiramer 是一種免疫調節劑，可使 T 細胞反應偏向 Th2／調節型表現，用於多發性硬化症以降低復發。
+根據美國 FDA 核准的 Glatiramer 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Glatiramer acetate 在多發性硬化症（MS）患者體內發揮作用的機轉尚未完全明瞭。然而，一般認為 glatiramer acetate 係透過調節被認為導致 MS 致病機轉的免疫過程而發揮作用。」英文原文："The mechanism(s) by which glatiramer acetate exerts its effects in patients with MS are not fully understood. However, glatiramer acetate is thought to act by modifying immune processes that are believed to be responsible for the pathogenesis of MS."（[DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716)，版本日期 2026-10-26；查閱日期 2026-11-19）。就已知資訊而言，Glatiramer 是一種免疫調節劑，可使 T 細胞反應偏向 Th2／調節型表現，用於多發性硬化症以降低復發。
 
 血紅素病變是血紅素結構或合成缺陷所致的疾病。目前沒有已知機轉顯示 Glatiramer 的免疫調節作用能影響血紅素的結構或合成，因此這個預測在機轉上**缺乏支持**，分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
 
@@ -115,11 +115,12 @@ TxGNN 模型預測它可能對**血紅素病變 (Hemoglobinopathy)** 有效，�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「可舒鬆」兩張許可證已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Glatopa (glatiramer acetate) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0679689e-8930-4d6a-b922-5125082b2716) |
 
 <!-- review:end log -->
 

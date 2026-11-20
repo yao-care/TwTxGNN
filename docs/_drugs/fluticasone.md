@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Fluticasone 是具有抗發炎活性的糖皮質素，已在過敏性鼻炎、氣喘及發炎性皮膚病中證實療效。
+根據美國 FDA 核准的 Fluticasone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Fluticasone propionate 為一種具抗發炎活性的合成三氟化皮質類固醇。體外試驗顯示，fluticasone propionate 對人類糖皮質激素受體的結合親和力為 dexamethasone 的 18 倍，約為 beclomethasone-17-monopropionate（BMP，即 beclomethasone dipropionate 的活性代謝物）的兩倍，並為 budesonide 的 3 倍以上。」英文原文："Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide."（[DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2)，版本日期 2026-10-23；查閱日期 2026-11-19）。根據已知資訊，Fluticasone 是具有抗發炎活性的糖皮質素，已在過敏性鼻炎、氣喘及發炎性皮膚病中證實療效。
 
 理論上，糖皮質素可能調節神經源性發炎，而神經源性發炎被認為與偏頭痛的病理有關。不過這只是推論，目前沒有臨床前或臨床資料直接支持。
 
@@ -178,11 +178,12 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，但目�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「肺服欣乾粉吸入劑」為複方且已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2) |
 
 <!-- review:end log -->
 

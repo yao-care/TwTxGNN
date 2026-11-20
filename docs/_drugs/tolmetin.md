@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**肢端中段發育不良（Hunter-Thompson 型�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Tolmetin 是非選擇性 COX 抑制劑，具有消炎與止痛作用，在類風濕性關節炎等發炎性關節疾病中的症狀緩解效果已有核准適應症。
+根據美國 FDA 核准的 Tolmetin 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「動物研究顯示 TOLECTIN（tolmetin sodium）具有抗發炎、止痛及解熱活性。在大鼠中，TOLECTIN 可預防實驗誘發之多發性關節炎的發生，亦可減輕已形成的發炎。」英文原文："Studies in animals have shown TOLECTIN (tolmetin sodium) to possess anti-inflammatory, analgesic, and antipyretic activity. In the rat, TOLECTIN prevents the development of experimentally induced polyarthritis and also decreases established inflammation."（[DailyMed: Tolectin (tolmetin sodium) prescribing information, Poly Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15467b19-e43a-5be9-e063-6294a90a3cca)，版本日期 2025-12-30；查閱日期 2026-11-19）。根據已知資訊，Tolmetin 是非選擇性 COX 抑制劑，具有消炎與止痛作用，在類風濕性關節炎等發炎性關節疾病中的症狀緩解效果已有核准適應症。
 
 然而，Hunter-Thompson 型肢端中段發育不良是一種與 CDMP1/GDF5 相關的罕見遺傳性骨骼發育異常。Tolmetin 的 COX 抑制作用與此疾病的致病機轉之間，**沒有已知的機轉連結**。此預測分數來自 TxGNN 模型（深度學習），可能反映模型在相關疾病之間學到的相似性，而非生物學證據，高分並不等於有生物學或臨床上的合理性。
 
@@ -115,6 +115,19 @@ TxGNN 模型預測它可能對**肢端中段發育不良（Hunter-Thompson 型�
 - 進行系統性文獻與臨床試驗檢索，確認是否有任何前臨床或病例層級的證據。
 - 若仍想探索，建議優先評估與原適應症較相關的預測（如類風濕因子陽性多關節型幼年特發性關節炎、脊椎關節病變、類風濕性結節病），這些在機轉上較合理。
 - 補充仿單層級的警語與禁忌症資料，並評估長期使用的風險效益。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Tolectin (tolmetin sodium) prescribing information, Poly Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=15467b19-e43a-5be9-e063-6294a90a3cca) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

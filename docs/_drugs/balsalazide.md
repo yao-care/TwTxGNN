@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**痛風 (Gout)** 有效，但目前**沒有任何
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Balsalazide 是一種前驅藥，會將 5-ASA 送到結腸，具有抗發炎活性，在潰瘍性結腸炎中的療效已被證實。
+根據美國 FDA 核准的 Balsalazide 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Balsalazide disodium 以完整形式送達結腸，並於結腸內經細菌偶氮還原作用裂解，釋出等莫耳量的 mesalamine（即該分子具治療活性的部分）及 4-胺基苯甲醯基-β-丙胺酸載體部分。Balsalazide disodium 裂解時所釋出的載體部分僅極少量被吸收，且大致為惰性。」英文原文："Balsalazide disodium is delivered intact to the colon where it is cleaved by bacterial azoreduction to release equimolar quantities of mesalamine, which is the therapeutically active portion of the molecule, and the 4-aminobenzoyl-β-alanine carrier moiety. The carrier moiety released when balsalazide disodium is cleaved is only minimally absorbed and is largely inert."（[DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898)，版本日期 2026-11-03；查閱日期 2026-11-19）。根據已知資訊，Balsalazide 是一種前驅藥，會將 5-ASA 送到結腸，具有抗發炎活性，在潰瘍性結腸炎中的療效已被證實。
 
 不過，目前沒有證據顯示它與尿酸代謝或痛風性發炎有直接關聯。這個預測目前只有 TxGNN 分數支持，機轉上是否適用於痛風仍屬未驗證的推測。
 
@@ -112,6 +112,19 @@ TxGNN 模型預測它可能對**痛風 (Gout)** 有效，但目前**沒有任何
 - 系統性搜尋 5-ASA 或 Balsalazide 與痛風的前臨床或臨床研究
 - 評估是否有更合理的候選適應症（如僵直性脊椎炎、類風濕性關節炎）並優先驗證
 - 若未來考慮推進，需評估腎功能風險與常見併用藥（如 NSAIDs）的交互作用
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: balsalazide disodium prescribing information, Zydus Pharmaceuticals (USA) Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0ed73067-e2ca-4184-a93a-5a2141bb4898) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

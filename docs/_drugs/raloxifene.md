@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**十二指腸潰瘍 (Duodenal Ulcer)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Raloxifene 是選擇性雌激素受體調節劑（SERM），
+根據美國 FDA 核准的 Raloxifene 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Raloxifene 為一種雌激素促效劑／拮抗劑，通常稱為選擇性雌激素受體調節劑（SERM）。Raloxifene 的生物作用主要經由與雌激素受體結合而介導。此結合可在某些組織中活化雌激素路徑（促效作用），而在其他組織中阻斷雌激素路徑（拮抗作用）。」英文原文："Raloxifene is an estrogen agonist/antagonist, commonly referred to as a selective estrogen receptor modulator (SERM). The biological actions of raloxifene are largely mediated through binding to estrogen receptors. This binding results in activation of estrogenic pathways in some tissues (agonism) and blockade of estrogenic pathways in others (antagonism)."（[DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9)，版本日期 2026-02-11；查閱日期 2026-11-19）。根據已知資訊，Raloxifene 是選擇性雌激素受體調節劑（SERM），
 在骨質疏鬆症中的療效已被證實。但它並沒有已知的抑制胃酸或保護黏膜作用，
 因此機轉上是否適用於十二指腸潰瘍，目前無法證實。
 
@@ -121,6 +121,19 @@ TxGNN 模型（深度學習）的高分預測可能反映模型從相關疾病�
 - 進行文獻與臨床試驗的系統性檢索，確認是否有任何支持或反對的證據
 - 若有機轉假說，先做前臨床研究（如動物潰瘤模型）驗證
 - 評估目標族群的血栓、心血管風險，並確認可接受的安全性範圍
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Evista (raloxifene hydrochloride) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

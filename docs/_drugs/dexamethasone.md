@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位尚未取得）。根據已知資訊，Dexamethasone 是強效糖皮質素，能抑制免疫與發炎反應。圓形禿被認為是由 T 細胞攻擊毛囊所致的自體免疫疾病，因此全身性糖皮質素的免疫抑制作用在機轉上可能適用。
+根據美國 FDA 核准的 Dexamethasone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Dexamethasone 是一種具有抗發炎作用且礦物皮質素活性低的皮質類固醇。其在多發性骨髓瘤中的確切作用機轉尚不清楚。Dexamethasone 可誘導多發性骨髓瘤細胞凋亡。」英文原文："Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells."（[DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129)，版本日期 2026-01-09；查閱日期 2026-11-19）。根據已知資訊，Dexamethasone 是強效糖皮質素，能抑制免疫與發炎反應。圓形禿被認為是由 T 細胞攻擊毛囊所致的自體免疫疾病，因此全身性糖皮質素的免疫抑制作用在機轉上可能適用。
 
 原適應症（風濕性關節炎、紅斑性狼瘡、過敏性疾病、皮膚炎等）多屬免疫或發炎相關疾病，與圓形禿在「免疫失調」這一點上有共通性。臨床上，口服小劑量脈衝（mini-pulse）Dexamethasone 已被用於活動性圓形禿，文獻中也有靜脈脈衝合併外用類固醇的兒童治療經驗。
 
@@ -146,7 +146,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -156,6 +156,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L2→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「圓形禿 (Alopecia Areata)」已重審撤回） | 加註 | [US FDA label (DailyMed)：DEXAMETHASONE SODIUM PHOSPHATE INJECTION [HENRY SCHEIN, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9b935d5-1b4f-4a08-8d40-57f397368fef) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L2」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
 
 <!-- review:end log -->
 

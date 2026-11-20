@@ -56,7 +56,7 @@ TxGNN 模型預測排名第一的新適應症是**雙側副矢狀頂枕多小腦
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Riluzole 能減少麩胺酸釋放，並阻斷電壓門控鈉離子通道，以此減輕興奮性毒性，這是它用於 ALS 的主要理論基礎。
+根據美國 FDA 核准的 Riluzole 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Riluzole 對 ALS 患者發揮治療作用的機轉尚不明確。」英文原文："The mechanism by which riluzole exerts its therapeutic effects in patients with ALS is unknown."（[DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857)，版本日期 2026-07-27；查閱日期 2026-11-19）。根據已知資訊，Riluzole 能減少麩胺酸釋放，並阻斷電壓門控鈉離子通道，以此減輕興奮性毒性，這是它用於 ALS 的主要理論基礎。
 
 對於排名第一的皮質發育異常（多小腦回症），資料中找不到與上述機轉的明確連結，這個預測目前只來自 TxGNN 模型，缺乏任何實證。因此合理性偏低。
 
@@ -137,7 +137,7 @@ TxGNN 模型預測排名第一的新適應症是**雙側副矢狀頂枕多小腦
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -145,6 +145,7 @@ TxGNN 模型預測排名第一的新適應症是**雙側副矢狀頂枕多小腦
 | 2026-10-03 | 「Riluzole 是目前唯一被核准用於 ALS 治療的藥物」 | 報告重生後已無此錯誤（2026-10-15：新報告正文未再寫 riluzole 是唯一核准用於 ALS 的藥物（文獻表引述的是回顧文章「唯一被證實可延長存活」的結論）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | ALS 第 22 型 (amyotrophic lateral sclerosis type 22)：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | ALS 第 22 型 (amyotrophic lateral sclerosis type 22)預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（「為什麼這個預測合理」段的敘述）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6)；[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Tiglutik (riluzole) prescribing information, EDW PHARMA, INC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=75d68f19-4208-109e-e053-2991aa0ac857) |
 
 <!-- review:end log -->
 

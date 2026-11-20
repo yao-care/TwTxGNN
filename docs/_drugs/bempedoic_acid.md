@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**甲狀腺機能亢進 (hyperthyroidism)** 有效
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料庫記載。根據已知資訊，bempedoic acid 透過抑制 ATP 檸檬酸裂解酶（ATP-citrate lyase）來減少肝臟的膽固醇合成。
+根據美國 FDA 核准的 Bempedoic Acid 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Bempedoic acid 是一種三磷酸腺苷檸檬酸裂解酶（ACL）抑制劑，透過抑制肝臟中的膽固醇合成而降低 LDL-C。ACL 是膽固醇生物合成途徑中位於 3-羥基-3-甲基戊二醯輔酶 A（HMG-CoA）還原酶上游的酵素。」英文原文："Bempedoic acid is an adenosine triphosphate-citrate lyase (ACL) inhibitor that lowers LDL-C by inhibition of cholesterol synthesis in the liver. ACL is an enzyme upstream of 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase in the cholesterol biosynthesis pathway."（[DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9)，版本日期 2026-06-25；查閱日期 2026-11-19）。根據已知資訊，bempedoic acid 透過抑制 ATP 檸檬酸裂解酶（ATP-citrate lyase）來減少肝臟的膽固醇合成。
 
 就現有資料而言，這個機轉與甲狀腺機能亢進之間**沒有已建立的直接關聯**。甲狀腺激素訊號雖會影響肝臟脂質代謝，但 bempedoic acid 並不作用於甲狀腺激素受體或甲狀腺功能路徑。
 
@@ -120,7 +120,7 @@ TxGNN 模型預測它可能對**甲狀腺機能亢進 (hyperthyroidism)** 有效
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -128,6 +128,7 @@ TxGNN 模型預測它可能對**甲狀腺機能亢進 (hyperthyroidism)** 有效
 | 2026-10-03 | 同合子家族性高膽固醇血症預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [DailyMed：NEXLETOL（bempedoic acid）美國仿單 §12.1 Mechanism of Action](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 | 2026-10-03 | 同合子家族性高膽固醇血症預測重審結果 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為重審：維持，證據等級 L3 不變（2026-10-16 修訂，前版保留於紀錄）） | [PubMed：Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia（PMID 41274797）](https://pubmed.ncbi.nlm.nih.gov/41274797/)；[PubMed：Bempedoic Acid Lowers Low-Density Lipoprotein Cholesterol and Attenuates Atherosclerosis in Low-Density Lipoprotein Receptor-Deficient (LDLR(+/-) and LDLR(-/-)) Yucatan Miniature Pigs（PMID 29449335）](https://pubmed.ncbi.nlm.nih.gov/29449335/) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L3） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Nexletol (bempedoic acid) prescribing information, Esperion Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=88d06d89-a3da-40b4-b273-8f4f7d56c4c9) |
 
 <!-- review:end log -->
 

@@ -81,7 +81,7 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫中未收錄）。依一般藥理知識，Nystatin 會結合念珠菌細胞膜上的麥角固醇 (ergosterol)，形成孔洞造成細胞內容物滲漏而致菌體死亡。
+根據美國 FDA 核准的 Nystatin 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Nystatin 的作用方式是與敏感念珠菌屬細胞膜中的固醇結合，進而改變細胞膜通透性，使細胞內成分滲漏。Nystatin 對細菌、原蟲或病毒不具明顯活性。」英文原文："Nystatin acts by binding to sterols in the cell membrane of susceptible Candida species with a resultant change in membrane permeability allowing leakage of intracellular components. Nystatin exhibits no appreciable activity against bacteria, protozoa, or viruses."（[DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6)，版本日期 2026-02-06；查閱日期 2026-11-19）。依一般藥理知識，Nystatin 會結合念珠菌細胞膜上的麥角固醇 (ergosterol)，形成孔洞造成細胞內容物滲漏而致菌體死亡。
 
 外陰陰道炎中最常見的病因即為念珠菌感染，白色念珠菌約占 85–90%。Nystatin 的作用標的正是這類致病菌，因此機轉上高度吻合。
 
@@ -204,7 +204,7 @@ Nystatin 對念珠菌性外陰陰道炎的機轉直接相關，且台灣已有�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -216,6 +216,7 @@ Nystatin 對念珠菌性外陰陰道炎的機轉直接相關，且台灣已有�
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L3→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「外陰陰道炎 (Vulvovaginitis)」已重審撤回） | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Nystatin Oral Suspension (nystatin) prescribing information, Xttrium Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4a670371-d373-1ba6-e063-6394a90a13b6) |
 
 <!-- review:end log -->
 

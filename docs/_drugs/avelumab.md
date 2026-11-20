@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**人類疱疹病毒 8 型相關腫瘤 (human herp
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Avelumab 是 PD-L1 阻斷抗體，可解除腫瘤對 T 細胞的免疫抑制，恢復抗腫瘤免疫反應。
+根據美國 FDA 核准的 Avelumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「PD-L1 可表現於腫瘤細胞及腫瘤浸潤免疫細胞上，並可能促成腫瘤微環境中抗腫瘤免疫反應的抑制。PD-L1 與 T 細胞及抗原呈現細胞上的 PD-1 及 B7.1 受體結合後，會抑制細胞毒性 T 細胞活性、T 細胞增生及細胞激素生成。[…] Avelumab 與 PD-L1 結合，並阻斷 PD-L1 與其受體 PD-1 及 B7.1 之間的交互作用。」英文原文："PD-L1 may be expressed on tumor cells and tumor-infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD-L1 to the PD-1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation, and cytokine production. […] Avelumab binds PD-L1 and blocks the interaction between PD-L1 and its receptors PD-1 and B7.1."（[DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118)，版本日期 2026-09-22；查閱日期 2026-11-19）。根據已知資訊，Avelumab 是 PD-L1 阻斷抗體，可解除腫瘤對 T 細胞的免疫抑制，恢復抗腫瘤免疫反應。
 
 HHV-8 相關腫瘤（例如卡波西氏肉瘤）由病毒驅動，且可能表現 PD-L1，因此在機轉上有可能適用。
 此外，Avelumab 已核准用於默克細胞癌，而默克細胞癌同樣與病毒（默克細胞多瘤病毒）相關，兩者在免疫機轉上有部分類比性。
@@ -136,6 +136,19 @@ HHV-8 相關腫瘤（例如卡波西氏肉瘤）由病毒驅動，且可能表�
 - 搜尋 HHV-8 相關腫瘤（如卡波西氏肉瘤）中 PD-L1 表現及免疫檢查點抑制劑的文獻與臨床試驗
 - 評估是否改以泌尿道上皮癌亞型（前列腺尿道、腎盂）為優先驗證對象
 - 針對目標族群（如 HIV 相關或免疫低下病人）建立安全性評估，並留意與 lenalidomide、pomalidomide、thalidomide 併用的風險
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Bavencio (avelumab) prescribing information, EMD Serono, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5cd725a1-2fa4-408a-a651-57a7b84b2118) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

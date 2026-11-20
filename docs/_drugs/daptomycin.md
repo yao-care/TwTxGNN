@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**骨關節炎 (osteoarthritis)** 有效，但目�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Daptomycin 是環狀脂肽類抗生素，可使革蘭氏陽性菌的細胞膜去極化而殺菌。這是抗菌作用，與退化性骨關節炎的病理（軟骨退化、關節慢性發炎）沒有直接關聯。
+根據美國 FDA 核准的 Daptomycin 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Daptomycin為一種抗菌藥物。[…] Daptomycin會與細菌細胞膜結合，並引起膜電位迅速去極化。此膜電位的喪失會導致DNA、RNA及蛋白質合成受抑制，進而導致細菌細胞死亡。」英文原文："Daptomycin is an antibacterial drug. […] Daptomycin binds to bacterial cell membranes and causes a rapid depolarization of membrane potential. This loss of membrane potential causes inhibition of DNA, RNA, and protein synthesis, which results in bacterial cell death."（[DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8)，版本日期 2022-01-25；查閱日期 2026-11-19）。已知 Daptomycin 是環狀脂肽類抗生素，可使革蘭氏陽性菌的細胞膜去極化而殺菌。這是抗菌作用，與退化性骨關節炎的病理（軟骨退化、關節慢性發炎）沒有直接關聯。
 
 模型給出高分，較可能是「疾病標籤重疊」所致：文獻中的 Daptomycin 研究主要是骨關節感染（如人工關節感染、骨髓炎），檢索時被歸到「osteoarthritis」相關詞彙。這些研究支持的是**感染性**骨關節疾病的治療，不能推論到**退化性**骨關節炎。
 
@@ -137,11 +137,12 @@ TxGNN 模型預測它可能對**骨關節炎 (osteoarthritis)** 有效，但目�
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Dapzura Rt (daptomycin) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb1283e1-35b8-425c-b338-d9ac0c7161f8) |
 
 <!-- review:end log -->
 

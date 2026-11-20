@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**視網膜失養症（Retinal dystrophy with or w
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知的藥理背景，Fluphenazine 是多巴胺 D2 受體拮抗劑，同時也具有鈣調蛋白（calmodulin）抑制作用。視網膜中的多巴胺訊號與視網膜生理功能有關，這是此預測唯一可推想的機轉連結。
+根據美國 FDA 核准的 Fluphenazine 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Fluphenazine hydrochloride 對中樞神經系統的各個層面以及多個器官系統均具有活性。其發揮治療作用的機轉尚不清楚。」英文原文："Fluphenazine hydrochloride has activity at all levels of the central nervous system as well as on multiple organ systems. The mechanism whereby its therapeutic action is exerted is unknown."（[DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12)，版本日期 2026-07-03；查閱日期 2026-11-19）。根據已知的藥理背景，Fluphenazine 是多巴胺 D2 受體拮抗劑，同時也具有鈣調蛋白（calmodulin）抑制作用。視網膜中的多巴胺訊號與視網膜生理功能有關，這是此預測唯一可推想的機轉連結。
 
 然而，目前沒有證據顯示此藥與遺傳性視網膜失養症有直接關聯。原適應症（精神病狀態）與預測的新適應症（遺傳性視網膜疾病）在疾病性質上差異很大，此預測的分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，應視為待驗證的假說。
 
@@ -146,6 +146,19 @@ TxGNN 模型預測它可能對**視網膜失養症（Retinal dystrophy with or w
 - 進行視網膜多巴胺/鈣調蛋白相關的前臨床研究（細胞或動物模型），以驗證是否有治療訊號。
 - 若優先考量有間接證據的方向，可改以**躁期雙相情感疾病**為研究問題，並蒐集 fluphenazine 專屬的對照試驗資料。
 - 針對目標族群制定安全性監測計畫（心電圖/QT、血球計數、錐體外症候群）。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Fluphenazine Hydrochoride (fluphenazine hydrochloride) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91b85b8d-4c10-4395-915e-272b81ef3b12) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

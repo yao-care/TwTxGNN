@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcino
 
 ## 為什麼這個預測合理？
 
-本次彙整的資料中缺乏詳細的作用機轉（MOA）資料。依藥物類別判斷，Gemcitabine 屬於核苷類似物抗代謝藥物。它進入細胞後可摻入 DNA 並抑制核糖核苷酸還原酶，因此能阻斷增生中細胞的 DNA 合成。
+根據美國 FDA 核准的 Gemcitabine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Gemcitabine 可殺死正在進行 DNA 合成的細胞，並阻斷細胞通過 G1/S 期交界的進程。Gemcitabine 經核苷激酶代謝為二磷酸（dFdCDP）及三磷酸（dFdCTP）核苷。」英文原文："Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides."（[DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84)，版本日期 2026-07-27；查閱日期 2026-11-19）。依藥物類別判斷，Gemcitabine 屬於核苷類似物抗代謝藥物。它進入細胞後可摻入 DNA 並抑制核糖核苷酸還原酶，因此能阻斷增生中細胞的 DNA 合成。
 
 直腸黏液腺癌是增生活躍的腺癌，理論上可能受到這種 DNA 合成抑制作用影響。不過，目前沒有試驗或文獻證實這點。Gemcitabine 也不是大腸直腸癌的標準用藥。因此這個預測目前只能視為機轉上的假說，需要進一步驗證。
 
@@ -134,7 +134,7 @@ TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcino
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -144,6 +144,7 @@ TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcino
 | 2026-10-03 | 預測理由「在轉移性大腸直腸癌中的療效已被證實」 | 報告重生後已無此錯誤（2026-10-15：新報告預測理由改以台灣已核准併用 paclitaxel 治療乳癌為依據，未再引用大腸直腸癌；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 女性乳腺癌預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 女性乳腺癌預測重審結果 | 報告重生後已無此錯誤（2026-10-16：2026-10-15 重生的報告依已完成的第三期試驗評為 L1（重審時已註明達 L1 門檻），並寫明乳癌（併用 paclitaxel）已列入台灣核准適應症，重審意見兩點都已反映；原為重審：維持，證據等級 L2 不變（2026-10-16 修訂，前版保留於紀錄）） | [PubMed：Gemcitabine plus Paclitaxel versus Paclitaxel monotherapy in patients with metastatic breast cancer and prior anthracycline treatment（PMID 18711184）](https://pubmed.ncbi.nlm.nih.gov/18711184/)；[PubMed：Biomarker assessment of the CBCSG006 trial: a randomized phase III trial of cisplatin plus gemcitabine compared with paclitaxel plus gemcitabine as first-line therapy for patients with metastatic triple-negative breast cancer（PMID 29905759）](https://pubmed.ncbi.nlm.nih.gov/29905759/)；[PubMed：Addition of gemcitabine to paclitaxel, epirubicin, and cyclophosphamide adjuvant chemotherapy for women with early-stage breast cancer (tAnGo): final 10-year follow-up of an open-label, randomised, phase 3 trial（PMID 28479233）](https://pubmed.ncbi.nlm.nih.gov/28479233/)；[ClinicalTrials.gov：Paclitaxel With or Without Gemcitabine in Treating Women With Advanced Breast Cancer（NCT00006459）](https://clinicaltrials.gov/study/NCT00006459) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
 
 <!-- review:end log -->
 

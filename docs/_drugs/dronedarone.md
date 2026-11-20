@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**中風相關疾患 (Stroke Disorder)** 有效。
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據文獻，Dronedarone 是結構類似 amiodarone 的非碘化苯并呋喃衍生物，具有多通道阻斷（鈉、鉀、鈣電流）特性，可維持心房顫動患者的竇性節律。
+根據美國 FDA 核准的 Dronedarone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Dronedarone 的作用機轉尚不清楚。Dronedarone 具有屬於 Vaughan-Williams 全部四類的抗心律不整特性，但各項活性對臨床效果的貢獻尚不清楚。」英文原文："The mechanism of action of dronedarone is unknown. Dronedarone has antiarrhythmic properties belonging to all four Vaughan-Williams classes, but the contribution of each of these activities to the clinical effect is unknown."（[DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c)，版本日期 2026-01-27；查閱日期 2026-11-19）。根據文獻，Dronedarone 是結構類似 amiodarone 的非碘化苯并呋喃衍生物，具有多通道阻斷（鈉、鉀、鈣電流）特性，可維持心房顫動患者的竇性節律。
 
 心房顫動是心源性栓塞性中風的重要危險因子。若能維持竇性節律，理論上可間接降低心房內血栓形成與栓塞性中風的風險。ATHENA 試驗的事後分析顯示，Dronedarone 可能降低中風風險；另有研究指出它可能具有獨立於抗心律不整作用之外的抗凝血與抗血小板效果，前臨床研究也提示對腦缺血／再灌注損傷可能有保護作用。
 
@@ -128,12 +128,13 @@ TxGNN 模型預測它可能對**中風相關疾患 (Stroke Disorder)** 有效。
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表品名「決奈達隆鹽酸鹽」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證數「1 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Multaq (dronedarone) prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3bd4006a-8bad-4909-ac6d-b6d84390155c) |
 
 <!-- review:end log -->
 

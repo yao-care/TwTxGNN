@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**鉀缺乏症 (Potassium Deficiency Disease)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Inclisiran 是一種小干擾 RNA（siRNA），在肝細胞中抑制 PCSK9 mRNA，藉此降低 LDL-C。
+根據美國 FDA 核准的 Inclisiran 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Inclisiran 是一種雙股小干擾核糖核酸（siRNA），其正義股上接合三觸角 N-乙醯半乳糖胺（GalNAc），以促進肝細胞攝取。在肝細胞中，inclisiran 利用 RNA 干擾機制，引導 PCSK9 mRNA 的催化性分解。」英文原文："Inclisiran is a double-stranded small interfering ribonucleic acid (siRNA), conjugated on the sense strand with triantennary N-Acetylgalactosamine (GalNAc) to facilitate uptake by hepatocytes. In hepatocytes, inclisiran utilizes the RNA interference mechanism and directs catalytic breakdown of mRNA for PCSK9."（[DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44)，版本日期 2026-08-19；查閱日期 2026-11-19）。根據已知資訊，Inclisiran 是一種小干擾 RNA（siRNA），在肝細胞中抑制 PCSK9 mRNA，藉此降低 LDL-C。
 
 這個作用路徑與鉀的體內平衡沒有已知的關聯。原適應症（高血脂）屬於脂質代謝問題，鉀缺乏症則屬於電解質失衡，兩者在病理機轉上沒有明確的交集。
 
@@ -120,6 +120,19 @@ TxGNN 模型預測它可能對**鉀缺乏症 (Potassium Deficiency Disease)** �
 - 進行文獻回顧與前臨床研究，確認是否有支持此預測的訊號
 - 補齊安全性資料（警語、禁忌症、藥物交互作用），再評估是否值得啟動臨床研究
 - 若仍想探索新適應症，可考慮優先檢視與原適應症較相關的方向（例如兒童家族性高膽固醇血症，目前已有 Phase 3 試驗進行中），而非本預測
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Leqvio (inclisiran) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fc0afca-4513-4c35-b594-6544aee29a44) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

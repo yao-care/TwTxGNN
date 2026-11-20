@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**停經後萎縮性陰道炎 (postmenopausal atro
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Tinidazole 屬硝基咪唑類，其還原後的中間產物會破壞厭氧微生物的 DNA，對厭氧菌與原蟲有選擇性活性。
+根據美國 FDA 核准的 Tinidazole 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Tinidazole 為一種抗原蟲、抗細菌藥物。[…] Tinidazole 為一種抗原蟲、抗細菌藥物。Tinidazole 的硝基會被陰道滴蟲（Trichomonas）的細胞萃取物還原。此還原作用所產生的游離硝基自由基可能是其抗原蟲活性的成因。」英文原文："Tinidazole is an antiprotozoal, antibacterial agent.. […] Tinidazole is an antiprotozoal, antibacterial agent. The nitro- group of tinidazole is reduced by cell extracts of Trichomonas. The free nitro radical generated as a result of this reduction may be responsible for the antiprotozoal activity."（[DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7)，版本日期 2026-08-18；查閱日期 2026-11-19）。已知 Tinidazole 屬硝基咪唑類，其還原後的中間產物會破壞厭氧微生物的 DNA，對厭氧菌與原蟲有選擇性活性。
 
 停經後萎縮性陰道炎的主要成因是雌激素缺乏，並非感染。因此兩者的關聯，最多只在於萎縮的陰道黏膜可能合併厭氧菌或原蟲的次發感染。這個推論並無直接證據，分數來自 TxGNN 模型（深度學習），較高的分數可能反映模型學到的相關疾病之間的相似性，並非生物學證據。
 
@@ -136,6 +136,19 @@ TxGNN 模型預測它可能對**停經後萎縮性陰道炎 (postmenopausal atro
 - 檢視萎縮性陰道炎患者是否常合併厭氧菌或滴蟲感染，並以文獻或觀察性研究驗證。
 - 若有合理假設，再設計小規模探索性研究，並先評估神經與血液學風險。
 - 補齊仿單的警語與禁忌症資料。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Tindazole (tinidazole) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=45fa3ebd-52da-4987-82a1-4a64f99785a7) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

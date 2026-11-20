@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Pemigatinib 是選擇性 FGFR1–3 激酶抑制劑，在 FGFR2 融合或重排的膽管癌中療效已被證實。
+根據美國 FDA 核准的 Pemigatinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Pemigatinib是一種小分子激酶抑制劑，以FGFR1、2及3為標靶，其IC 50值低於2 nM。Pemigatinib在體外亦可抑制FGFR4，所需濃度約為抑制FGFR1、2及3之濃度的100倍。」英文原文："Pemigatinib is a small molecule kinase inhibitor that targets FGFR1, 2 and 3 with IC 50 values of less than 2 nM. Pemigatinib also inhibited FGFR4 in vitro at a concentration approximately 100 times higher than those that inhibit FGFR1, 2, and 3."（[DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4)，版本日期 2026-06-09；查閱日期 2026-11-19）。根據已知資訊，Pemigatinib 是選擇性 FGFR1–3 激酶抑制劑，在 FGFR2 融合或重排的膽管癌中療效已被證實。
 
 然而，多發性內分泌腫瘤通常由 MEN1 或 RET 等基因變異驅動，與 FGFR 訊號並無已知的因果關聯。因此，這項預測的分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，缺乏機轉面的支持。
 
@@ -127,11 +127,12 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 6 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Pemazyre (pemigatinib) prescribing information, Incyte Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9e1f2222-1d89-4e63-989c-ccebe2ab1eb4) |
 
 <!-- review:end log -->
 

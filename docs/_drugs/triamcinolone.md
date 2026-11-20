@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**黏蛋白性禿髮 (Alopecia Mucinosa)** 有效�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Triamcinolone 是具抗發炎與免疫抑制作用的皮質類固醇，在多種皮膚與過敏性發炎疾病中的療效已被廣泛使用，機轉上可能適用於發炎性的毛囊疾病。
+根據美國 FDA 核准的 Triamcinolone 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「研究顯示，單次肌肉注射 60 mg 至 100 mg 的 triamcinolone acetonide 後，腎上腺抑制於 24 至 48 小時內發生，之後逐漸恢復正常，通常需時 30 至 40 天。此發現與該藥物所達成的延長治療作用持續時間密切相關。」英文原文："Studies indicate that following a single intramuscular dose of 60 mg to 100 mg of triamcinolone acetonide, adrenal suppression occurs within 24 to 48 hours and then gradually returns to normal, usually in 30 to 40 days. This finding correlates closely with the extended duration of therapeutic action achieved with the drug."（[DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad)，版本日期 2026-01-05；查閱日期 2026-11-19）。根據已知資訊，Triamcinolone 是具抗發炎與免疫抑制作用的皮質類固醇，在多種皮膚與過敏性發炎疾病中的療效已被廣泛使用，機轉上可能適用於發炎性的毛囊疾病。
 
 黏蛋白性禿髮（毛囊黏蛋白沉積症）的特徵是毛囊周圍有發炎細胞浸潤與黏蛋白堆積。皮質類固醇，特別是病灶內注射，理論上可減輕毛囊周圍的發炎反應，進而減少黏蛋白沉積。
 
@@ -138,13 +138,14 @@ TxGNN 模型預測它可能對**黏蛋白性禿髮 (Alopecia Mucinosa)** 有效�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數：20 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 一句話總結「在台灣已有 20 張許可證上市」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 台灣上市資訊表所列 5 張均已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
 
 <!-- review:end log -->
 

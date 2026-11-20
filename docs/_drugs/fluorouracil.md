@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就藥理上而言，Fluorouracil 會抑制胸苷酸合成酶，並以代謝物形式嵌入 RNA 與 DNA，因此可能影響快速增殖的腫瘤細胞。
+根據美國 FDA 核准的 Fluorouracil 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Fluorouracil 為一種核苷代謝抑制劑，會干擾去氧核糖核酸（DNA）的合成，並在較小程度上抑制核糖核酸（RNA）的形成；這些作用會影響快速生長的細胞，並可能導致細胞死亡。Fluorouracil 會轉換為三種主要活性代謝物：5-fluoro-2′-deoxyuridine-5′-monophosphate（FdUMP）、5-fluorouridine-5′triphosphate（FUTP）及 5-fluoro-2′-deoxyuridine-5′-triphosphate（FdUTP）。」英文原文："Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death. Fluorouracil is converted to three main active metabolites: 5-fluoro-2′-deoxyuridine-5′-monophosphate (FdUMP), 5-fluorouridine-5′triphosphate (FUTP) and 5-fluoro-2′-deoxyuridine-5′-triphosphate (FdUTP)."（[DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b)，版本日期 2026-10-23；查閱日期 2026-11-19）。就藥理上而言，Fluorouracil 會抑制胸苷酸合成酶，並以代謝物形式嵌入 RNA 與 DNA，因此可能影響快速增殖的腫瘤細胞。
 
 橫紋肌肉瘤是增殖活躍的軟組織惡性腫瘤，理論上可能受到抗代謝藥物影響。不過，針對這個特定亞型，本報告所整理的資料中沒有任何臨床試驗或文獻，因此這個連結目前僅建立在模型預測上，屬於假說層級。
 
@@ -127,7 +127,7 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -139,6 +139,7 @@ TxGNN 模型預測它可能對**陰道葡萄狀胚胎型橫紋肌肉瘤 (botryoi
 | 2026-10-16 | 資料提醒稱許可證都屬 trastuzumab 類 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 結論稱許可證資料與 fluorouracil 不對應 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步建議另行核對 fluorouracil 許可證 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
 
 <!-- review:end log -->
 

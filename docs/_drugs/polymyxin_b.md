@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前**
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Polymyxin B 可結合革蘭氏陰性菌外膜脂多醣中的 lipid A，破壞外膜結構而殺菌。因此在機轉上，它可能適用於由多重抗藥性革蘭氏陰性菌（如綠膿桿菌、鮑氏不動桿菌）引起的氣管支氣管感染。
+根據美國 FDA 核准的 Polymyxin B 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Polymyxin B sulfate對除變形桿菌屬（Proteus）以外的幾乎所有革蘭氏陰性桿菌具有殺菌作用。Polymyxins可增加細菌細胞膜的通透性，導致細胞死亡。所有革蘭氏陽性菌、真菌及革蘭氏陰性球菌均對polymyxin B具抗藥性。有關FDA針對本藥品所認可的感受性試驗判讀標準、相關試驗方法及品質管制標準的具體資訊，請參閱：www.fda.gov/STIC。」英文原文："Polymyxin B sulfate has a bactericidal action against almost all gram-negative bacilli except the Proteus group. Polymyxins increase the permeability of bacterial cell membrane leading to death of the cell. All gram positive bacteria, fungi, and gram-negative cocci are resistant to polymyxin B. For specific information regarding susceptibility test criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: www.fda.gov/STIC."（[DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6)，版本日期 2026-06-22；查閱日期 2026-11-19）。根據已知資訊，Polymyxin B 可結合革蘭氏陰性菌外膜脂多醣中的 lipid A，破壞外膜結構而殺菌。因此在機轉上，它可能適用於由多重抗藥性革蘭氏陰性菌（如綠膿桿菌、鮑氏不動桿菌）引起的氣管支氣管感染。
 
 原適應症為眼、耳、皮膚的局部細菌感染，與支氣管炎同屬革蘭氏陰性菌可能涉入的感染，抗菌機制具共通性。不過，吸入給藥有引發支氣管收縮與氣道高反應性的記載，這是此預測最大的疑慮。
 
@@ -171,11 +171,12 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前**
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁首證據等級依本頁「快速總覽」的證據等級列重算，模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L4，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Polymyxin B (polymyxin b sulfate) prescribing information, Xellia Pharmaceuticals USA LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b56f18c0-ef5e-4ed9-a5af-f79f3cd189b6) |
 
 <!-- review:end log -->
 

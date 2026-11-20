@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Larotrectinib 是選擇性 TRK 抑制劑，在 NTRK 融合陽性實體腫瘤中的療效已被確立。
+根據美國 FDA 核准的 Larotrectinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Larotrectinib是原肌球蛋白受體激酶（TRK）TRKA、TRKB及TRKC的抑制劑。在一系列廣泛的純化酵素分析中，larotrectinib抑制TRKA、TRKB及TRKC的IC 50值介於5-11 nM之間。另有一種激酶TNK2在約高100倍的濃度下受到抑制。」英文原文："Larotrectinib is an inhibitor of the tropomyosin receptor kinases (TRK), TRKA, TRKB, and TRKC. In a broad panel of purified enzyme assays, larotrectinib inhibited TRKA, TRKB, and TRKC with IC 50 values between 5-11 nM. One other kinase TNK2 was inhibited at approximately 100-fold higher concentration."（[DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd)，版本日期 2026-05-22；查閱日期 2026-11-19）。根據已知資訊，Larotrectinib 是選擇性 TRK 抑制劑，在 NTRK 融合陽性實體腫瘤中的療效已被確立。
 
 多發性內分泌腫瘤主要由 RET 或 MEN1 基因異常驅動，與 TRK 訊號路徑並無直接關聯。因此，若 Larotrectinib 有任何益處，也屬間接性：例如用於罕見的 NTRK 融合陽性內分泌腫瘤，或作為 RET 抑制劑治療後的旁路路徑標靶。
 
@@ -131,11 +131,12 @@ TxGNN 模型預測它可能對**多發性內分泌腫瘤 (Multiple Endocrine Neo
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Vitrakvi (larotrectinib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0c8ca614-58b2-4aa4-83d3-0387a8f782fd) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**腎肝胰發育不良 (renal-hepatic-pancreatic 
 
 ## 為什麼這個預測合理？
 
-本報告彙整的資料缺乏詳細的作用機轉紀錄。依已知藥理，tolvaptan 阻斷腎臟集合管的 V2 受體，進而降低細胞內 cAMP 訊號。
+根據美國 FDA 核准的 Tolvaptan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Tolvaptan 是一種選擇性血管加壓素 V 2 受體拮抗劑，其對 V 2 受體的親和力為天然精胺酸血管加壓素（AVP）的 1.8 倍。Tolvaptan 對 V 2 受體的親和力為對 V 1a 受體的 29 倍。」英文原文："Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor."（[DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4)，版本日期 2026-09-30；查閱日期 2026-11-19）。依已知藥理，tolvaptan 阻斷腎臟集合管的 V2 受體，進而降低細胞內 cAMP 訊號。
 
 腎肝胰發育不良屬於纖毛病變 (ciliopathy)，特徵是腎臟囊性發育不良。在囊性腎病變中，cAMP 訊號被認為會促進囊泡生長。因此從概念上看，V2 拮抗與降低 cAMP 有可能適用，這也是模型給出高分的合理背景。
 
@@ -120,7 +120,7 @@ TxGNN 模型預測它可能對**腎肝胰發育不良 (renal-hepatic-pancreatic 
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -128,6 +128,7 @@ TxGNN 模型預測它可能對**腎肝胰發育不良 (renal-hepatic-pancreatic 
 | 2026-10-03 | 台灣上市資訊表下「台灣共有 19 張許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「PKD3 由 GANAB 或 DNAJB11 基因突變引起」 | 報告重生後已無此錯誤（2026-10-15：新報告寫 PKD3 為 GANAB 基因相關，未再列 DNAJB11；原為加註） | [NCBI MedGen：Polycystic kidney disease 3 with or without polycystic liver disease（C3887964）](https://www.ncbi.nlm.nih.gov/medgen/854672)；[NCBI MedGen：Polycystic kidney disease 6 with or without polycystic liver disease（C4748044）](https://www.ncbi.nlm.nih.gov/medgen/1648469) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
 
 <!-- review:end log -->
 

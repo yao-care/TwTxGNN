@@ -62,7 +62,7 @@ TxGNN 模型預測分數最高的是毛髮過多症，但該預測完全沒有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Mexiletine 是一種 Class 1B 鈉離子通道阻斷劑，在心室性心律不整中的療效已被證實。
+根據美國 FDA 核准的 Mexiletine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Mexiletine hydrochloride 為一種局部麻醉劑、抗心律不整藥物，結構與 lidocaine 相似，但具口服活性。動物研究顯示，mexiletine 可有效抑制誘發性心室心律不整，包括由配醣體毒性及冠狀動脈結紮所誘發者。」英文原文："Mexiletine hydrochloride is a local anesthetic, antiarrhythmic agent, structurally similar to lidocaine, but orally active. In animal studies, mexiletine has been shown to be effective in the suppression of induced ventricular arrhythmias, including those induced by glycoside toxicity and coronary artery ligation."（[DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5)，版本日期 2026-03-31；查閱日期 2026-11-19）。已知 Mexiletine 是一種 Class 1B 鈉離子通道阻斷劑，在心室性心律不整中的療效已被證實。
 
 **排名第 1 的毛髮過多症**：鈉離子通道阻斷與毛髮生長之間沒有已知關聯，這個分數來自 TxGNN 模型（深度學習），較可能反映模型學到的相近疾病之間的相似性，而非生物學證據，不具機轉支持。排名第 2 至 5 的預測（抗利尿不適當症候群、牙周畸形症候群、Dandy-Walker 畸形等）同樣缺乏機轉與臨床證據。
 
@@ -140,7 +140,7 @@ TxGNN 模型預測分數最高的是毛髮過多症，但該預測完全沒有�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -148,6 +148,7 @@ TxGNN 模型預測分數最高的是毛髮過多症，但該預測完全沒有�
 | 2026-11-03 | 毛髮過多症（主預測）證據等級重審結果 | 重審：降級，證據等級 L3→L5；證據等級：原「證據等級／毛髮過多症 L5；頭痛疾患 L3」→「證據等級／毛髮過多症 L5（主預測；頭痛疾患為排名第 10 的另一筆預測，不計入本頁等級）」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Mexiletine for refractory chronic daily headache: a report of nine cases（PMID 18793209）](https://pubmed.ncbi.nlm.nih.gov/18793209/) |
 | 2026-11-03 | 頁首證據等級 | 頁首等級依總覽表重算（原 L3→L5） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: mexiletine hydrochloride prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c09f68fa-759e-4772-9f6b-11005d8f83d5) |
 
 <!-- review:end log -->
 

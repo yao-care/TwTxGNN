@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Acebutolol 是具有內在擬交感活性的心臟選擇性 Beta-1 阻斷劑，能降低血壓、減慢心跳並減少腎素釋放。
+根據美國 FDA 核准的 Acebutolol 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Acebutolol 為一種心臟選擇性 β-腎上腺素受體阻斷劑，在其治療有效劑量範圍內具有輕微的內在擬交感神經活性（ISA）。」英文原文："Acebutolol is a cardioselective, β-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range."（[DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9)，版本日期 2026-01-13；查閱日期 2026-11-19）。根據已知資訊，Acebutolol 是具有內在擬交感活性的心臟選擇性 Beta-1 阻斷劑，能降低血壓、減慢心跳並減少腎素釋放。
 
 原適應症「高血壓」與預測的「惡性高血壓性腎病變」在病理上密切相關：長期、嚴重的血壓升高會造成腎臟小血管損傷。控制血壓與抑制腎素—血管張力素系統的活化，理論上有助於減緩腎臟傷害。
 
@@ -150,6 +150,19 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 - 針對惡性高血壓與腎臟保護進行系統性文獻回顧，確認是否有直接證據。
 - 評估腎功能不全患者的藥物動力學與劑量調整（Acebutolol 及其活性代謝物主要經腎排除），並釐清腎臟疾病禁忌的實際依據。
 - 若機轉較合理的次要預測（惡性腎血管性高血壓）值得優先探索，可先設計小型探索性研究。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

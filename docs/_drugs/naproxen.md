@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**短指併指症候群 (Brachydactyly-syndactyly 
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就一般藥理知識而言，Naproxen 是非選擇性 COX-1/COX-2 抑制劑，透過降低前列腺素合成來發揮消炎、止痛與解熱作用。
+根據美國 FDA 核准的 Naproxen 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Naproxen 具有止痛、抗發炎及退燒特性。NAPRELAN 的作用機轉與其他 NSAIDs 相同，尚未完全明瞭，但涉及對環氧化酶（COX-1 及 COX-2）的抑制。」英文原文："Naproxen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of NAPRELAN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)."（[DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893)，版本日期 2026-01-08；查閱日期 2026-11-19）。就一般藥理知識而言，Naproxen 是非選擇性 COX-1/COX-2 抑制劑，透過降低前列腺素合成來發揮消炎、止痛與解熱作用。
 
 短指併指症候群是一種先天性肢體發育異常，成因屬於發育與遺傳層面，並非由前列腺素介導的發炎所驅動。Naproxen 的機轉與這類疾病的致病機制之間，目前沒有已知的合理關聯。
 
@@ -123,6 +123,19 @@ TxGNN 模型預測它可能對**短指併指症候群 (Brachydactyly-syndactyly 
 - 進行系統性文獻檢索與前臨床研究（細胞或動物模型），確認是否有可驗證的假說
 - 若僅考慮症狀緩解（如疼痛處理），需另行評估並以現有核准適應症為基礎，不宜視為疾病修飾治療
 - 評估目標族群（可能包含兒童）的安全性，並對照知識圖譜標示的相關疾病風險與原廠仿單
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Naprelan (naproxen sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b8a51c9a-488e-4377-a041-436f6a2f8893) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

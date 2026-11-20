@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**類風濕性關節炎 (Rheumatoid Arthritis)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Gemfibrozil 是 PPAR-alpha 促效劑（fibrate 類），透過活化 PPAR-alpha 調節脂質代謝，原適應症中的降脂療效已被證實。
+根據美國 FDA 核准的 Gemfibrozil 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Gemfibrozil是一種血脂調節劑，可降低血清三酸甘油酯及極低密度脂蛋白（VLDL）膽固醇，並提高高密度脂蛋白（HDL）膽固醇。雖然gemfibrozil治療可能觀察到總膽固醇及低密度脂蛋白（LDL）膽固醇輕度下降，但治療因第IV型高脂蛋白血症而三酸甘油酯升高的患者時，常導致LDL膽固醇上升。」英文原文："Gemfibrozil is a lipid regulating agent which decreases serum triglycerides and very low density lipoprotein (VLDL) cholesterol, and increases high density lipoprotein (HDL) cholesterol. While modest decreases in total and low density lipoprotein (LDL) cholesterol may be observed with gemfibrozil therapy, treatment of patients with elevated triglycerides due to Type IV hyperlipoproteinemia often results in a rise in LDL-cholesterol."（[DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725)，版本日期 2026-11-10；查閱日期 2026-11-19）。根據已知資訊，Gemfibrozil 是 PPAR-alpha 促效劑（fibrate 類），透過活化 PPAR-alpha 調節脂質代謝，原適應症中的降脂療效已被證實。
 
 PPAR 活化具有抗發炎與免疫調節作用，包括降低促發炎細胞介素，以及影響 T 細胞（Foxp3）調控，這些在類風濕性關節炎的病理中有其合理性。大鼠佐劑性關節炎模型顯示，Gemfibrozil 合併減量類固醇，可達到與全量類固醇相近的控制效果。
 
@@ -159,6 +159,19 @@ PPAR 活化具有抗發炎與免疫調節作用，包括降低促發炎細胞介
 ---
 
 **補充說明：** 在同批預測中，**HIV 感染者的藥物相關血脂異常**與**低 α 脂蛋白血症 (Hypoalphalipoproteinemia)** 的證據較完整（均為 L2，並有隨機對照試驗，建議為 Proceed with Guardrails）。但 HIV 方面的證據支持的是管理脂質異常，而非治療 HIV 感染本身。若以臨床可行性為優先，建議後續評估報告改以這兩項為重點。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: gemfibrozil prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5501438d-5247-4f2a-8e15-085276d01725) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**注意力不足過動症 (Attention Deficit-Hype
 
 ## 為什麼這個預測合理？
 
-Ropinirole 是 D2/D3（亦對 D4 有活性）多巴胺促效劑。目前缺乏 DrugBank 的詳細作用機轉資料，以下推論主要根據藥物類別與文獻。多巴胺功能低下被認為與 ADHD 有關，因此以多巴胺促效劑調節此路徑，在機轉上有合理性。
+Ropinirole 是 D2/D3（亦對 D4 有活性）多巴胺促效劑。根據美國 FDA 核准的 Ropinirole 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Ropinirole是一種非麥角類多巴胺促效劑。Ropinirole治療帕金森氏症的確切作用機轉尚不明確，但一般認為與其刺激腦內尾狀核－殼核多巴胺D 2受體的能力有關。」英文原文："Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain."（[DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da)，版本日期 2026-11-06；查閱日期 2026-11-19）。多巴胺功能低下被認為與 ADHD 有關，因此以多巴胺促效劑調節此路徑，在機轉上有合理性。
 
 ADHD 與腳部躁動症（RLS）常同時出現，而 RLS 正是 ropinirole 的核准適應症之一。兩者可能共享多巴胺相關通路，有文獻回顧討論過這種關聯，以及兩者共用藥物治療的可能性。2005 年有一則個案報告：一名 6 歲男童同時有 ADHD 與疑似 RLS，使用 ropinirole 後，ADHD 症狀與睡眠問題都有明顯改善。
 
@@ -136,11 +136,12 @@ ADHD 與腳部躁動症（RLS）常同時出現，而 RLS 正是 ropinirole 的�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 11 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
 
 <!-- review:end log -->
 

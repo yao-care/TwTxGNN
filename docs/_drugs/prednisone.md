@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**圓禿 (alopecia areata)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據一般糖皮質素藥理，prednisone 轉化為 prednisolone 後，作為糖皮質素受體促效劑，可抑制 T 細胞介導的自體免疫攻擊。
+根據美國 FDA 核准的 Prednisone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「天然存在的皮質類固醇（hydrocortisone 及 cortisone）亦具有滯鹽特性，用於腎上腺皮質功能不全狀態的替代治療。其合成類似物（例如 prednisone）主要因其強效抗發炎作用而用於多種器官系統的疾病。」英文原文："Naturally occurring corticosteroids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs, such as prednisone, are primarily used for their potent anti-inflammatory effects in disorders of many organ systems."（[DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a)，版本日期 2026-09-23；查閱日期 2026-11-19）。根據一般糖皮質素藥理，prednisone 轉化為 prednisolone 後，作為糖皮質素受體促效劑，可抑制 T 細胞介導的自體免疫攻擊。
 
 圓禿被認為是免疫細胞攻擊毛囊所致的自體免疫疾病。糖皮質素的免疫抑制作用正好針對這個病理環節，因此在機轉上具合理性。早期研究（1970 年代）顯示 prednisone 初期有療效，但停藥後長期效果有限，且副作用明顯。
 
@@ -133,7 +133,7 @@ TxGNN 模型預測它可能對**圓禿 (alopecia areata)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -143,6 +143,7 @@ TxGNN 模型預測它可能對**圓禿 (alopecia areata)** 有效，
 | 2026-10-16 | 一句話總結稱台灣核准適應症涵蓋風溼性關節炎、急性過敏性病症 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | tenosynovitis（腱鞘炎）：疑為已核准用途，標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [US FDA label (DailyMed)：PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f) |
 | 2026-11-03 | tenosynovitis（腱鞘炎）預測重審結果（已核准用途，撤回） | 重審：撤回，證據等級 本頁未列等級（僅在預測清單）→撤回（已核准用途，不列新適應症等級） | [US FDA label (DailyMed)：PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Prednisone Delayed Release (prednisone) prescribing information, Dr. Reddys Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=01bdc479-1f1f-af94-837c-12e7e861321a) |
 
 <!-- review:end log -->
 

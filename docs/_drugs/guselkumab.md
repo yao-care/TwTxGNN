@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (Drug-induced Osteop
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Guselkumab 會選擇性結合 IL-23 的 p19 次單位，阻斷 IL-23/Th17 發炎路徑，因此能治療乾癬、潰瘍性結腸炎、克隆氏症等免疫媒介疾病。
+根據美國 FDA 核准的 Guselkumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Guselkumab是一種人類單株IgG1λ抗體，可選擇性地與介白素23（IL-23）的p19次單元結合，並抑制其與IL-23受體的交互作用。IL-23是一種天然存在的細胞激素，參與正常的發炎及免疫反應。」英文原文："Guselkumab is a human monoclonal IgG1λ antibody that selectively binds to the p19 subunit of interleukin 23 (IL-23) and inhibits its interaction with the IL-23 receptor. IL-23 is a naturally occurring cytokine that is involved in normal inflammatory and immune responses."（[DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56)，版本日期 2026-10-20；查閱日期 2026-11-19）。就已知資訊，Guselkumab 會選擇性結合 IL-23 的 p19 次單位，阻斷 IL-23/Th17 發炎路徑，因此能治療乾癬、潰瘍性結腸炎、克隆氏症等免疫媒介疾病。
 
 IL-23/IL-17 訊號可能影響破骨細胞生成，所以理論上可能與骨流失有關。不過這只是推測，並無臨床或文獻證據。
 
@@ -118,11 +118,12 @@ IL-23/IL-17 訊號可能影響破骨細胞生成，所以理論上可能與骨�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數「8 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Tremfya (guselkumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6dc9ae-1c4c-42d9-87aa-c315ecc51b56) |
 
 <!-- review:end log -->
 

@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，共軛雌激素是天然來源的混合雌激素，可補充體內不足的雌激素，用於更年期與卵巢機能不全相關症狀。
+根據美國 FDA 核准的 Conjugated Estrogens 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「內源性雌激素主要負責女性生殖系統及第二性徵的發育與維持。雖然循環中的雌激素處於代謝互相轉換的動態平衡中，但 estradiol 是人體主要的細胞內雌激素，且在受體層面上其效力遠高於其代謝物 estrone 及 estriol。[…] 因此，estrone 及其硫酸結合形式 estrone sulfate 是停經後婦女體內含量最豐富的循環雌激素。」英文原文："Endogenous estrogens are largely responsible for the development and maintenance of the female reproductive system and secondary sexual characteristics. Although circulating estrogens exist in a dynamic equilibrium of metabolic interconversions, estradiol is the principal intracellular human estrogen and is substantially more potent than its metabolites, estrone and estriol, at the receptor level. […] Thus, estrone and the sulfate-conjugated form, estrone sulfate, are the most abundant circulating estrogens in postmenopausal women."（[DailyMed: Premarin Vaginal (conjugated estrogens) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96609623-528e-4aba-cabe-7254aed816d5)，版本日期 2025-05-30；查閱日期 2026-11-19）。根據已知資訊，共軛雌激素是天然來源的混合雌激素，可補充體內不足的雌激素，用於更年期與卵巢機能不全相關症狀。
 
 偏頭痛，特別是月經期與停經過渡期的偏頭痛，與雌二醇濃度下降或劇烈波動有關。因此理論上，穩定的雌激素補充可能減少部分女性的發作。
 
@@ -141,7 +141,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -150,6 +150,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 | 2026-11-04 | 偏頭痛 (Migraine Disorder)（主預測）證據等級重審結果 | 重審：降級，證據等級 L3→L5；證據等級：原「證據等級／L3」→「證據等級／L5」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[PubMed：Course of primary headaches during hormone replacement therapy（PMID 11306204）](https://pubmed.ncbi.nlm.nih.gov/11306204/)；[PubMed：Hormone supplementation differently affects migraine in postmenopausal women（PMID 12390622）](https://pubmed.ncbi.nlm.nih.gov/12390622/) |
 | 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L3→L5） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L3」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Premarin Vaginal (conjugated estrogens) prescribing information, Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=96609623-528e-4aba-cabe-7254aed816d5) |
 
 <!-- review:end log -->
 

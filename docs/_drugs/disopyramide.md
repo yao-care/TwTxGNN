@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**妥瑞氏症 (Tourette syndrome)** 有效，但�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供 MOA）。根據已知資訊，Disopyramide 是 Ia 類鈉離子通道阻斷劑，同時具有抗膽鹼作用，主要用於控制心室性心律不整。
+根據美國 FDA 核准的 Disopyramide 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Norpace (disopyramide phosphate) 為第 1 類抗心律不整藥物（即與 procainamide 及 quinidine 相似）。在動物研究中，Norpace 可降低自動性增強之細胞的舒張期去極化速率（第 4 期），降低正常心肌細胞的上升速度（第 0 期）並延長其動作電位持續時間，減少梗塞心肌與鄰近正常灌流心肌之間不反應期的差異，且對 α 或 β 腎上腺素受體無影響。」英文原文："Norpace (disopyramide phosphate) is a Type 1 antiarrhythmic drug (i.e., similar to procainamide and quinidine). In animal studies Norpace decreases the rate of diastolic depolarization (phase 4) in cells with augmented automaticity, decreases the upstroke velocity (phase 0) and increases the action potential duration of normal cardiac cells, decreases the disparity in refractoriness between infarcted and adjacent normally perfused myocardium, and has no effect on alpha- or beta-adrenergic receptors."（[DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677)，版本日期 2026-08-24；查閱日期 2026-11-19）。根據已知資訊，Disopyramide 是 Ia 類鈉離子通道阻斷劑，同時具有抗膽鹼作用，主要用於控制心室性心律不整。
 
 妥瑞氏症的病理與多巴胺及紋狀體神經迴路相關。目前沒有已知的機轉能把鈉離子通道阻斷或抗膽鹼活性，連結到這些路徑。
 
@@ -124,11 +124,12 @@ TxGNN 模型預測它可能對**妥瑞氏症 (Tourette syndrome)** 有效，但�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「台灣僅剩一項有效許可證」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677) |
 
 <!-- review:end log -->
 

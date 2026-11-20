@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**核 DNA 異常所致粒線體氧化磷酸化疾�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Pancrelipase 是外源性胰臟酵素混合物（脂肪酶、蛋白酶、澱粉酶），作用部位在腸腔，用於補充消化酵素。
+ChEMBL（EMBL-EBI）收錄的 Pancrelipase 作用機轉（非官方翻譯）：「脂肪酸水解酶；澱粉水解酶；多肽水解酶」英文原文："Fatty acids hydrolytic enzyme; Starch hydrolytic enzyme; Polypeptides hydrolytic enzyme"（[ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074)，CC BY-SA 3.0；查閱日期 2026-11-19）。已知 Pancrelipase 是外源性胰臟酵素混合物（脂肪酶、蛋白酶、澱粉酶），作用部位在腸腔，用於補充消化酵素。
 
 核 DNA 異常所致的粒線體氧化磷酸化疾病，病因在於細胞內粒線體呼吸鏈相關蛋白的缺陷。Pancrelipase 不進入細胞，也不作用於粒線體功能，因此在機轉上找不到合理的連結。
 
@@ -121,11 +121,12 @@ TxGNN 模型預測它可能對**核 DNA 異常所致粒線體氧化磷酸化疾�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」寫「解脂」 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列已寫明有效許可證皆為複方，「解脂」屬已註銷的單方許可證；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL2108074 (pancrelipase): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2108074) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**先天性凝血酶原缺乏症 (Congenital Proth
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，vasopressin 與其類似物 desmopressin (DDAVP) 可經由 V2 受體促使內皮細胞釋放 von Willebrand 因子與第 VIII 凝血因子，因此在 FVIII/FV 相關的出血性疾病中有一定作用。
+根據美國 FDA 核准的 Vasopressin 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Vasopressin 藉由與血管平滑肌上之 V 1 受體結合而引起血管收縮，該受體與 Gq/11-磷脂酶 C-磷脂醯肌醇三磷酸路徑偶聯，導致細胞內鈣離子釋放。此外，vasopressin 經由刺激與腺苷酸環化酶偶聯之 V 2 受體而產生抗利尿作用。」英文原文："Vasopressin causes vasoconstriction by binding to V 1 receptors on vascular smooth muscle coupled to the Gq/11-phospholipase C-phosphatidyl-inositol-triphosphate pathway, resulting in the release of intracellular calcium. In addition, vasopressin stimulates antidiuresis via stimulation of V 2 receptors which are coupled to adenyl cyclase."（[DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8)，版本日期 2026-04-21；查閱日期 2026-11-19）。根據已知資訊，vasopressin 與其類似物 desmopressin (DDAVP) 可經由 V2 受體促使內皮細胞釋放 von Willebrand 因子與第 VIII 凝血因子，因此在 FVIII/FV 相關的出血性疾病中有一定作用。
 
 然而，這個機轉並不會直接提高凝血酶原（第 II 因子）的量。因此，vasopressin 與先天性凝血酶原缺乏症之間的關聯是間接且推測性的。原適應症（尿崩症）屬於水分平衡調節，和凝血疾病的病理也無明顯相似之處。
 
@@ -121,11 +121,12 @@ TxGNN 模型預測它可能對**先天性凝血酶原缺乏症 (Congenital Proth
 
 ## 查核紀錄
 
-以下是本頁的查核紀錄；頁面描述（description）裡的證據等級依頁首等級更新，其他文字、模型預測、總覽表與結論未改寫。
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Vasostrict (vasopressin) prescribing information, Par Health USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1147beb-743e-4c62-8927-91192447f8b8) |
 
 <!-- review:end log -->
 

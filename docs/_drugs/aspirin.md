@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**蠕蟲狀萎縮性皮膚病 (atrophoderma vermic
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知阿斯匹靈作用於 COX-1 與 COX-2，透過抑制前列腺素與血栓素的生成，產生抗發炎、解熱、鎮痛與抗血小板作用。
+根據美國 FDA 核准的 aspirin and extended - release dipyridamole（含 Aspirin 的複方） 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Aspirin Aspirin 透過不可逆地抑制血小板環氧合酶而抑制血小板凝集，從而抑制血栓素 A 2 的生成；血栓素 A 2 是強效的血小板凝集及血管收縮誘導物。」英文原文："Aspirin Aspirin inhibits platelet aggregation by irreversible inhibition of platelet cyclooxygenase and thus inhibits the generation of thromboxane A 2, a powerful inducer of platelet aggregation and vasoconstriction."（[DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1)，版本日期 2026-08-19；查閱日期 2026-11-19）。已知阿斯匹靈作用於 COX-1 與 COX-2，透過抑制前列腺素與血栓素的生成，產生抗發炎、解熱、鎮痛與抗血小板作用。
 
 蠕蟲狀萎縮性皮膚病是一種以毛囊周圍萎縮為特徵的皮膚疾患。阿斯匹靈的 COX 抑制作用與這種毛囊萎縮病變之間，目前看不出明確的機轉連結。
 
@@ -131,11 +131,12 @@ TxGNN 的高分預測只代表模型從資料關聯中推得的訊號，沒有�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表所列 5 張許可證皆已註銷，其中「彼施必寧」為複方 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Aspirin And Extended - Release Dipyridamole Capsules, 25 Mg / 200 Mg (aspirin and extended - release dipyridamole) prescribing information, Major Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6e652e1-b2e4-47ba-bed2-c5e902f8b8f1) |
 
 <!-- review:end log -->
 

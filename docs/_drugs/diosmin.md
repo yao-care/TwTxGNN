@@ -62,7 +62,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Diosmin 是一種靜脈活性類黃酮，可改善靜脈張力與毛細血管抵抗力，在慢性靜脈功能不全與痔瘡中的使用已被認可。
+ChEMBL（EMBL-EBI）收錄的 Diosmin 作用機轉（非官方翻譯）：「不明」英文原文："Unknown"（[ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884)，CC BY-SA 3.0；查閱日期 2026-11-19）。根據已知資訊，Diosmin 是一種靜脈活性類黃酮，可改善靜脈張力與毛細血管抵抗力，在慢性靜脈功能不全與痔瘡中的使用已被認可。
 
 台灣部分舊許可證曾核准「機能性月經過多症」，這是與月經相關的適應症。但月經過多與閉經是不同的病理狀態，目前沒有機轉資料能把 Diosmin 與閉經連結起來。
 
@@ -132,7 +132,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -143,6 +143,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 | 2026-10-03 | 閉經預測標記待重審 | 標記待重審 → 已重審（見下列重審結果） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 閉經預測重審結果 | 重審：撤回，證據等級 L5 不變（2026-10-16 修訂，前版保留於紀錄） | [PubMed：To Study the Efficacy and Safety of Diosmin with Tranexamic Acid and Mefenamic Acid Versus only Tranexamic Acid and Mefenamic Acid in Medical Management of Abnormal Uterine Bleeding: A Randomized Controlled Trial（PMID 38029032）](https://pubmed.ncbi.nlm.nih.gov/38029032/)；[PubMed：Treatment of abnormal uterine bleeding with micronized flavonoids（PMID 15847886）](https://pubmed.ncbi.nlm.nih.gov/15847886/)；[ClinicalTrials.gov：Oral Tranexamic Acid Versus Diosmin for Treatment of Menorrhagia in Women Using Copper IUD（NCT02616731）](https://clinicaltrials.gov/study/NCT02616731)；[PubMed：Diosmin Mitigates Cyclophosphamide Induced Premature Ovarian Insufficiency in Rat Model（PMID 33802633）](https://pubmed.ncbi.nlm.nih.gov/33802633/)；[ClinicalTrials.gov：Evaluation of the Effects of Diosmin/Hespiridin Combination on the Clinical Outcomes in Patients With Polycystic Ovary Syndrome（NCT06083935）](https://clinicaltrials.gov/study/NCT06083935) |
 | 2026-10-16 | 結論稱月經過多為已知用途 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [ChEMBL CHEMBL231884 (diosmin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL231884) |
 
 <!-- review:end log -->
 

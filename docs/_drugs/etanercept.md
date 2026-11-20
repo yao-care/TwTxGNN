@@ -57,7 +57,7 @@ TxGNN 模型預測它可能對**尾骨過度活動 (hypermobility of coccyx)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。就已知資訊，Etanercept 是結合 TNF 的融合蛋白，可阻斷 TNF 介導的發炎反應，臨床上用於多種免疫發炎性疾病。
+根據美國 FDA 核准的 Etanercept 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「TNF 是一種天然存在的細胞激素，參與正常的發炎及免疫反應。它在 RA、多關節型 JIA、PsA 及 AS 的發炎過程及其所導致的關節病變中扮演重要角色。[…] Etanercept 是 p75 TNF 受體的二聚體可溶性形式，可與 TNF 分子結合。」英文原文："TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. It plays an important role in the inflammatory processes of RA, polyarticular JIA, PsA, and AS and the resulting joint pathology. […] Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind TNF molecules."（[DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f)，版本日期 2026-05-11；查閱日期 2026-11-19）。就已知資訊，Etanercept 是結合 TNF 的融合蛋白，可阻斷 TNF 介導的發炎反應，臨床上用於多種免疫發炎性疾病。
 
 然而，尾骨過度活動主要屬於機械性或退化性的問題，並非典型的 TNF 驅動疾病。目前沒有明確的機轉連結可說明 Etanercept 為何適用，這個預測也沒有任何臨床試驗或文獻佐證。因此，這項預測的合理性仍待驗證，應視為僅由模型產生的假說。
 
@@ -121,11 +121,12 @@ TxGNN 模型預測它可能對**尾骨過度活動 (hypermobility of coccyx)** �
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證字號、英文品名、持有者、日期不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f) |
 
 <!-- review:end log -->
 

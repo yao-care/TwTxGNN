@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**毛細胞白血病 (hairy cell leukemia)** 有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 未提供 MOA）。根據已知的藥物類別，Interferon beta-1b 與干擾素 alpha 同樣透過 I 型干擾素受體（IFNAR）傳遞訊號。干擾素 alpha 在毛細胞白血病中具有已確立的抗增殖與免疫調節作用，因此從受體路徑來看，此預測在生物學上有其合理性。
+根據美國 FDA 核准的 Interferon Beta-1B 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「BETASERON（干擾素β-1b）在多發性硬化症患者中的作用機制未明。」英文原文："The mechanism of action of BETASERON (interferon beta-1b) in patients with multiple sclerosis is unknown."（[DailyMed: Betaseron (interferon beta-1b) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5)，版本日期 2026-03-03；查閱日期 2026-11-19）。根據已知的藥物類別，Interferon beta-1b 與干擾素 alpha 同樣透過 I 型干擾素受體（IFNAR）傳遞訊號。干擾素 alpha 在毛細胞白血病中具有已確立的抗增殖與免疫調節作用，因此從受體路徑來看，此預測在生物學上有其合理性。
 
 不過，這個推論建立在藥物類別的一般知識上，並非來自本報告所整理的直接研究。目前沒有任何針對 Interferon beta-1b 用於毛細胞白血病的臨床試驗或文獻，β 型與 α 型干擾素在此疾病中的療效是否相當，仍需驗證。
 
@@ -108,13 +108,14 @@ TxGNN 模型預測它可能對**毛細胞白血病 (hairy cell leukemia)** 有�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「台灣上市：已上市」 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正（2026-10-15 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「Beta 干擾素曾用於 HCL 治療」 | 報告重生後已無此錯誤（2026-10-15：新報告改以 interferon alpha 與同一受體的類別推論說明，未再寫 beta 干擾素曾用於毛細胞白血病；原為加註） | [Drugs@FDA：INTRON A（interferon alfa-2b）仿單，Indications and Usage](https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103132s5199lbl.pdf)；[DailyMed：BETASERON（interferon beta-1b）仿單（Bayer），1 Indications and Usage](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5) |
 | 2026-10-16 | 下一步稱目前台灣僅有凍晶注射劑 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註（2026-10-16 修訂，前版保留於紀錄）） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Betaseron (interferon beta-1b) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=66311f74-0472-4fa3-848a-06002ca0def5) |
 
 <!-- review:end log -->
 

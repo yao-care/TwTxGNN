@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**焦慮症 (Anxiety Disorder)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位無資料）。根據已知藥理，Clomipramine 是三環類抗憂鬱劑，能強力抑制血清素再回收，並有次要的正腎上腺素作用。這種血清素系統的調節，是它在強迫症與恐慌／畏懼型焦慮中發揮療效的基礎。
+根據美國 FDA 核准的 Clomipramine 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Clomipramine（CMI）推測是經由其對血清素能神經元傳導的作用而影響強迫意念及強迫行為。實際的神經化學機轉尚不清楚，但一般認為 CMI 抑制血清素（5-HT）再回收的能力相當重要。」英文原文："Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission. The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important."（[DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059)，版本日期 2024-11-26；查閱日期 2026-11-19）。根據已知藥理，Clomipramine 是三環類抗憂鬱劑，能強力抑制血清素再回收，並有次要的正腎上腺素作用。這種血清素系統的調節，是它在強迫症與恐慌／畏懼型焦慮中發揮療效的基礎。
 
 憂鬱與焦慮常合併出現，且共享血清素與正腎上腺素神經傳導的失衡，因此抗憂鬱劑常被用於焦慮相關疾患。強迫症屬於焦慮譜系疾病，Clomipramine 在其中有長期的臨床使用歷史；文獻也顯示它對伴有懼曠症的恐慌症有效。
 
@@ -148,7 +148,7 @@ TxGNN 模型預測它可能對**焦慮症 (Anxiety Disorder)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -156,6 +156,7 @@ TxGNN 模型預測它可能對**焦慮症 (Anxiety Disorder)** 有效，
 | 2026-10-03 | 許可證表核准適應症 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 備註「台灣核准適應症已包含恐懼症及驚懼發作」 | 報告重生後已無此錯誤（2026-10-15：新報告改寫為「原本核准用於憂鬱病（部分舊證另核准強迫症、恐懼症等）」，與許可證資料相符；原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L5→L1） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059) |
 
 <!-- review:end log -->
 

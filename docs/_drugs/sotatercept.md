@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**急性淋巴性白血病 (Acute Lymphoblastic Le
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Sotatercept 是活化素受體 IIA-Fc 融合蛋白，可捕捉活化素與生長分化因子 (GDF) 等配體。它在肺動脈高壓中的療效已獲核准，但與急性淋巴性白血病的發病機轉之間，目前沒有已確立的直接關聯。
+根據美國 FDA 核准的 Sotatercept 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Sotatercept-csrk 是一種重組活化素受體 IIA 型-Fc（ActRIIA-Fc）融合蛋白，為活化素訊號傳遞抑制劑，可與活化素 A 及其他 TGF- β 超家族配體結合。因此，sotatercept-csrk 可改善促增生（ActRIIA/Smad2/3 介導）與抗增生（BMPRII/Smad1/5/8 介導）訊號傳遞之間的平衡，從而調節血管增生。」英文原文："Sotatercept-csrk, a recombinant activin receptor type IIA-Fc (ActRIIA-Fc) fusion protein, is an activin signaling inhibitor that binds to activin A and other TGF- β superfamily ligands. As a result, sotatercept-csrk improves the balance between the pro-proliferative (ActRIIA/Smad2/3-mediated) and anti-proliferative (BMPRII/Smad1/5/8-mediated) signaling to modulate vascular proliferation."（[DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7)，版本日期 2026-09-21；查閱日期 2026-11-19）。根據已知資訊，Sotatercept 是活化素受體 IIA-Fc 融合蛋白，可捕捉活化素與生長分化因子 (GDF) 等配體。它在肺動脈高壓中的療效已獲核准，但與急性淋巴性白血病的發病機轉之間，目前沒有已確立的直接關聯。
 
 這個預測的 TxGNN 分數很高，但沒有任何臨床或文獻證據佐證。活化素／TGF-β 家族訊號在腫瘤生物學中的角色因情境而異，只能視為推測性的假設，不足以支持實際應用。
 
@@ -113,11 +113,12 @@ TxGNN 模型預測它可能對**急性淋巴性白血病 (Acute Lymphoblastic Le
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 快速總覽「許可證數 4 張」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Winrevair (sotatercept-csrk) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=21693ee2-cd23-4137-ac67-066bb3a4a9b7) |
 
 <!-- review:end log -->
 

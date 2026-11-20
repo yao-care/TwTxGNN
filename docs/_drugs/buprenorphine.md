@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Buprenorphine 是部分 mu 類鴉片受體促效劑，作用於疼痛與成癮治療；它與急性間歇性紫質症的血紅素生合成缺陷之間，並無已知的機轉關聯。
+根據美國 FDA 核准的 Buprenorphine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「SUBLOCADE 注射劑含有 buprenorphine。Buprenorphine 是 mu 類鴉片受體的部分促效劑，以及 kappa 類鴉片受體的拮抗劑。」英文原文："SUBLOCADE Injection contains buprenorphine. Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist at the kappa-opioid receptor."（[DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95)，版本日期 2026-07-27；查閱日期 2026-11-19）。已知 Buprenorphine 是部分 mu 類鴉片受體促效劑，作用於疼痛與成癮治療；它與急性間歇性紫質症的血紅素生合成缺陷之間，並無已知的機轉關聯。
 
 目前唯一的文獻是一篇 1993 年的麻醉處置個案報告，討論的是紫質症患者手術時的圍手術期安全，而非藥物對疾病本身的治療效果。因此，這項預測的分數來自 TxGNN 模型（深度學習），可能反映模型從相關疾病之間學到的相似性，而非生物學證據，機轉上的合理性不足。
 
@@ -129,13 +129,14 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「速必治舌下錠 (含 naloxone)」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「舒免疼貼片」許可證已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L4）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Sublocade (buprenorphine) prescribing information, Indivior Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6189fb21-9432-45f8-8481-0bfaf3ccde95) |
 
 <!-- review:end log -->
 

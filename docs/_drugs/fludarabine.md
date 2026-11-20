@@ -68,7 +68,7 @@ TxGNN 模型預測它可能對**漿細胞骨髓瘤 (Plasma Cell Myeloma)** 有�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（DrugBank 的 MOA 欄位未收錄）。根據已知資訊，fludarabine 是嘌呤類似物，其活性代謝物會抑制 DNA 合成並造成明顯的淋巴細胞耗竭。
+根據美國 FDA 核准的 Fludarabine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Fludarabine phosphate 會迅速轉換為具活性的 2-fluoro-ara-ATP，其似乎經由抑制 DNA 聚合酶 α、核糖核苷酸還原酶及 DNA 引子酶而抑制 DNA 合成。」英文原文："Fludarabine phosphate is rapidly converted to active 2-fluoro-ara-ATP, which appears to inhibit DNA synthesis through inhibition of DNA polymerase alpha, ribonucleotide reductase and DNA primase."（[DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951)，版本日期 2026-09-20；查閱日期 2026-11-19）。根據已知資訊，fludarabine 是嘌呤類似物，其活性代謝物會抑制 DNA 合成並造成明顯的淋巴細胞耗竭。
 
 骨髓瘤與 CLL 同屬 B 細胞系惡性腫瘤，一篇 1992 年的綜述也討論了兩者的相似與差異。
 fludarabine 在骨髓瘤中的角色，主要是作為異體幹細胞移植的減量前處理（reduced-intensity conditioning）骨幹，以及 BCMA CAR-T 療法的淋巴清除（lymphodepletion）用藥，而非直接的抗骨髓瘤藥物。
@@ -177,7 +177,7 @@ fludarabine 在骨髓瘤中的角色，主要是作為異體幹細胞移植的�
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -185,6 +185,7 @@ fludarabine 在骨髓瘤中的角色，主要是作為異體幹細胞移植的�
 | 2026-10-03 | 原適應症寫濾泡性淋巴瘤並稱單方適應症屬 CD20 抗體 | 更正（2026-10-15 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 下一步稱取得的單方適應症多屬 CD20 抗體 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 一句話總結把「癌即瓦」當成本藥品名 | 更正（2026-10-16 修訂，前版保留於紀錄） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: fludarabine phosphate prescribing information, Hisun Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=291f6ee2-f5d2-ae6c-e063-6294a90a5951) |
 
 <!-- review:end log -->
 

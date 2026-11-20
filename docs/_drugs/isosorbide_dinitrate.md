@@ -58,7 +58,7 @@ TxGNN 模型預測分數最高的新適應症是 **alopecia（禿髮）**，但�
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Isosorbide dinitrate 屬於一氧化氮（NO）供體，可在血管平滑肌提高 cGMP，使血管擴張、降低前負荷與後負荷，這與其狹心症用途一致。
+根據美國 FDA 核准的 hydralazine hydrochloride and isosorbide dinitrate（含 Isosorbide Dinitrate 的複方） 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Isosorbide dinitrate 是一種同時作用於動脈及靜脈的血管擴張劑。」英文原文："Isosorbide dinitrate is a vasodilator affecting both arteries and veins."（[DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00)，版本日期 2025-11-30；查閱日期 2026-11-19）。已知 Isosorbide dinitrate 屬於一氧化氮（NO）供體，可在血管平滑肌提高 cGMP，使血管擴張、降低前負荷與後負荷，這與其狹心症用途一致。
 
 針對禿髮，唯一的推測是血管擴張可能增加毛囊血流，類似 minoxidil 等血管擴張劑的聯想。但目前沒有任何臨床或前臨床證據支持，此推論屬高度推測，分數僅代表模型預測。
 
@@ -138,6 +138,19 @@ TxGNN 模型預測分數最高的新適應症是 **alopecia（禿髮）**，但�
 - 取得完整的作用機轉資料，並建立 NO 供體與毛囊血流或毛髮生長之間的前臨床證據。
 - 若考慮肺動脈高壓，建議另行評估：收集區分前、後毛細血管型的現代對照試驗，並評估 COPD 患者通氣灌注失衡及硝酸酯耐受性的風險。
 - 確認給藥途徑（外用或口服）與目標族群的低血壓風險。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Bidil (hydralazine hydrochloride and isosorbide dinitrate) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e1e63cd5-d1e4-4af5-bad5-1ad41ea46b00) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

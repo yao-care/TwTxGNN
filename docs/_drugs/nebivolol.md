@@ -74,7 +74,7 @@ TxGNN 模型預測它可能對**惡性高血壓腎病 (malignant hypertensive re
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Nebivolol 是 β1 選擇性受體阻斷劑，另具促進內皮型一氧化氮合成酶（eNOS）活化、釋放 NO 的血管擴張作用。
+根據美國 FDA 核准的 Nebivolol 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「BYSTOLIC 產生降血壓反應的作用機轉尚未確立。可能涉及的因素包括：心率降低、心肌收縮力降低、由大腦血管運動中樞傳至周邊的緊張性交感神經輸出減少、腎素活性受抑制，以及血管擴張和周邊血管阻力降低。」英文原文："The mechanism of action of the antihypertensive response of BYSTOLIC has not been definitively established. Possible factors that may be involved include: decreased heart rate, decreased myocardial contractility, diminution of tonic sympathetic outflow to the periphery from cerebral vasomotor centers, suppression of renin activity and vasodilation and decreased peripheral vascular resistance."（[DailyMed: Bystolic (nebivolol hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8)，版本日期 2024-08-01；查閱日期 2026-11-19）。根據已知資訊，Nebivolol 是 β1 選擇性受體阻斷劑，另具促進內皮型一氧化氮合成酶（eNOS）活化、釋放 NO 的血管擴張作用。
 
 惡性高血壓腎病是嚴重高血壓造成腎臟血管損傷的結果。理論上，Nebivolol 的降血壓作用與內皮 NO 相關效應，可能有助於減輕腎血管傷害。
 
@@ -134,12 +134,13 @@ TxGNN 模型預測它可能對**惡性高血壓腎病 (malignant hypertensive re
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：BYSTOLIC 美國仿單 §12](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Bystolic (nebivolol hydrochloride) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8b8ad213-1dc8-454e-a524-075685c0e1a8) |
 
 <!-- review:end log -->
 

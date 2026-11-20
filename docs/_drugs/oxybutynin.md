@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**不寧腿症候群 (Restless Legs Syndrome)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Oxybutynin 是一種具有抗痙攣作用的毒蕈鹼受體拮抗劑，透過阻斷膽鹼作用來放鬆膀胱平滑肌、減少不自主收縮。
+根據美國 FDA 核准的 Oxybutynin 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Oxybutynin 可使膀胱平滑肌鬆弛。Oxybutynin chloride 對平滑肌具有直接的解痙作用，並可抑制乙醯膽鹼對平滑肌的蕈毒鹼作用。在骨骼肌神經肌肉接合處或自主神經節不會產生阻斷作用（抗菸鹼作用）。」英文原文："Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects)."（[DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67)，版本日期 2026-11-11；查閱日期 2026-11-19）。根據已知資訊，Oxybutynin 是一種具有抗痙攣作用的毒蕈鹼受體拮抗劑，透過阻斷膽鹼作用來放鬆膀胱平滑肌、減少不自主收縮。
 
 不寧腿症候群的病理主要與多巴胺系統及鐵代謝異常有關，目前沒有已知的路徑將抗毒蕈鹼作用與此疾病連結。這個預測分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，並非生物學證據。
 
@@ -141,6 +141,19 @@ TxGNN 模型預測它可能對**不寧腿症候群 (Restless Legs Syndrome)** �
 - 先進行系統性文獻回顧，確認抗膽鹼藥物對不寧腿症候群的影響（是否惡化症狀）
 - 若機轉上仍有支持，再設計前臨床或小規模探索性研究
 - 確認給藥途徑與劑型的適配性（目前路徑相容性尚未評估）
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

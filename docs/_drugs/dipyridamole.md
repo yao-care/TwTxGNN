@@ -83,7 +83,7 @@ TxGNN 模型預測它可能對**血栓性疾病 (thrombotic disease)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫欄位為空）。不過根據文獻資料，Dipyridamole 能抑制腺苷再攝取與磷酸二酯酶活性，提高血小板內 cAMP／cGMP 濃度，進而抑制血小板凝集。這與抗血栓用途在生物學上相符。
+根據美國 FDA 核准的 Dipyridamole 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Dipyridamole在體外及體內均可抑制血小板、內皮細胞及紅血球對腺苷的攝取；在治療濃度（0.5至1.9 mcg/mL）下，此抑制作用呈劑量依賴性。此抑制作用導致局部腺苷濃度增加，腺苷作用於血小板A 2 受體，從而刺激血小板腺苷酸環化酶，並增加血小板環-3',5'-單磷酸腺苷（cAMP）濃度。」英文原文："Dipyridamole inhibits the uptake of adenosine into platelets, endothelial cells and erythrocytes in vitro and in vivo; the inhibition occurs in a dose-dependent manner at therapeutic concentrations (0.5 to 1.9 mcg/mL). This inhibition results in an increase in local concentrations of adenosine which acts on the platelet A 2 -receptor thereby stimulating platelet adenylate cyclase and increasing platelet cyclic-3',5'-adenosine monophosphate (cAMP) levels."（[DailyMed: dipyridamole prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5)，版本日期 2026-04-29；查閱日期 2026-11-19）。不過根據文獻資料，Dipyridamole 能抑制腺苷再攝取與磷酸二酯酶活性，提高血小板內 cAMP／cGMP 濃度，進而抑制血小板凝集。這與抗血栓用途在生物學上相符。
 
 原適應症為慢性狹心症，屬於冠狀動脈血流不足的疾病，與血栓形成、血小板活化有共同的病理基礎。台灣部分舊許可證也曾載明「血小板集結降低藥」，顯示其抗血小板特性早已被認識。
 
@@ -180,7 +180,7 @@ TIA 是排名第 3 的預測（分數 0.9987），有直接研究該疾病的證
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -192,6 +192,7 @@ TIA 是排名第 3 的預測（分數 0.9987），有直接研究該疾病的證
 | 2026-11-03 | 頁首證據等級 | 主預測重審撤回，頁首等級重算（原 L5→N/A），改列「僅已知用途／主預測已撤回」 | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-03 | 「結論與下一步」的決策（主預測「血栓性疾病 (thrombotic disease)」已重審撤回） | 加註 | [US FDA label (DailyMed)：DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L5」改為「僅已知用途」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: dipyridamole prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5) |
 
 <!-- review:end log -->
 

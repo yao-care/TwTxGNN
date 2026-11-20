@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**牙齦纖維瘤病 (Fibromatosis, Gingival)** �
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Gefitinib 是 EGFR 酪胺酸激酶抑制劑，在 EGFR 突變的非小細胞肺癌中療效已被證實。
+根據美國 FDA 核准的 Gefitinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「表皮生長因子受體（EGFR）表現於正常細胞與癌細胞的細胞表面，並在細胞生長與增生的過程中扮演一定角色。NSCLC 細胞內的某些 EGFR 活化突變（外顯子 19 缺失或外顯子 21 點突變 L858R）已被確認有助於促進腫瘤細胞生長、阻斷細胞凋亡、增加血管新生因子的產生，以及促進轉移過程。[…] Gefitinib 可逆性地抑制野生型及某些活化突變型 EGFR 的激酶活性，防止與該受體相關之酪胺酸殘基的自體磷酸化，從而抑制進一步的下游訊息傳遞，並阻斷 EGFR 依賴性的增生。」英文原文："The epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells and plays a role in the processes of cell growth and proliferation. Some EGFR activating mutations (exon 19 deletion or exon 21 point mutation L858R) within NSCLC cells have been identified as contributing to the promotion of tumor cell growth, blocking of apoptosis, increasing the production of angiogenic factors and facilitating the processes of metastasis. […] Gefitinib reversibly inhibits the kinase activity of wild-type and certain activating mutations of EGFR, preventing autophosphorylation of tyrosine residues associated with the receptor, thereby inhibiting further downstream signaling and blocking EGFR-dependent proliferation."（[DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41)，版本日期 2023-02-28；查閱日期 2026-11-19）。根據已知資訊，Gefitinib 是 EGFR 酪胺酸激酶抑制劑，在 EGFR 突變的非小細胞肺癌中療效已被證實。
 
 從機轉推論，EGFR 訊號可能參與纖維母細胞增生，因此理論上 EGFR 抑制可能影響纖維增生性疾病。不過這個連結目前僅屬推測，沒有臨床或文獻證據支持，高 TxGNN 分數是唯一的依據。
 
@@ -150,11 +150,12 @@ TxGNN 模型預測它可能對**牙齦纖維瘤病 (Fibromatosis, Gingival)** �
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 艾瑞莎許可證字號錯誤、學名藥字號為佔位符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41) |
 
 <!-- review:end log -->
 

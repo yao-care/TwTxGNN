@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**胸膜腺瘤樣瘤 (pleural adenomatoid tumor)**
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Pralatrexate 屬於抗葉酸類藥物，會抑制二氫葉酸還原酶（DHFR），並透過還原型葉酸載體 1（RFC-1）進入細胞，因此理論上可能影響增生活躍的間皮來源細胞。
+根據美國 FDA 核准的 Pralatrexate 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Pralatrexate 為一種葉酸類似物代謝抑制劑，可競爭性抑制二氫葉酸還原酶。其亦為葉酸聚麩胺酸合成酶所催化之聚麩胺酸化作用的競爭性抑制劑。此抑制作用導致胸苷及其他須依賴單碳轉移進行合成的生物分子耗竭。」英文原文："Pralatrexate is a folate analog metabolic inhibitor that competitively inhibits dihydrofolate reductase. It is also a competitive inhibitor for polyglutamylation by the enzyme folylpolyglutamyl synthetase. This inhibition results in the depletion of thymidine and other biological molecules the synthesis of which depends on single carbon transfer."（[DailyMed: Folotyn (pralatrexate) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f3d9c4d-9386-4451-b712-0fbdc5478d8f)，版本日期 2026-09-16；查閱日期 2026-11-19）。根據已知資訊，Pralatrexate 屬於抗葉酸類藥物，會抑制二氫葉酸還原酶（DHFR），並透過還原型葉酸載體 1（RFC-1）進入細胞，因此理論上可能影響增生活躍的間皮來源細胞。
 
 不過，腺瘤樣瘤屬於良性腫瘤，增生活性低，使用具細胞毒性的藥物，其風險與效益是否合理令人存疑。目前沒有任何臨床或文獻證據支持此用途，預測僅來自模型分數。
 
@@ -123,11 +123,12 @@ TxGNN 模型預測它可能對**胸膜腺瘤樣瘤 (pleural adenomatoid tumor)**
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 2 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Folotyn (pralatrexate) prescribing information, Acrotech Biopharma Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f3d9c4d-9386-4451-b712-0fbdc5478d8f) |
 
 <!-- review:end log -->
 

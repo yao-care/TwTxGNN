@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**注意力不足過動症 (Attention Deficit-Hype
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Rotigotine 是非麥角鹼類多巴胺促效劑，對 D1–D5 受體皆有作用，其中以 D3/D2 活性較為顯著，另有部分 5-HT1A 與 alpha2B 活性。
+根據美國 FDA 核准的 Rotigotine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Rotigotine 是一種非麥角類多巴胺促效劑。Rotigotine 治療帕金森氏症的確切作用機轉尚不明確，但一般認為與其刺激腦內尾狀核－殼核中多巴胺受體的能力有關。」英文原文："Rotigotine is a non-ergoline dopamine agonist. The precise mechanism of action of rotigotine as a treatment for Parkinson's disease is unknown, although it is thought to be related to its ability to stimulate dopamine receptors within the caudate-putamen in the brain."（[DailyMed: Neupro (rotigotine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=939e28c5-f3a9-42c0-9a2d-8d471d82a6e0)，版本日期 2026-11-11；查閱日期 2026-11-19）。根據已知資訊，Rotigotine 是非麥角鹼類多巴胺促效劑，對 D1–D5 受體皆有作用，其中以 D3/D2 活性較為顯著，另有部分 5-HT1A 與 alpha2B 活性。
 
 ADHD 的病理被認為與多巴胺及正腎上腺素調節失衡有關。文獻指出多巴胺 D4 受體基因多型性與 α2A 腎上腺素受體皆與 ADHD 相關，例如 guanfacine 即作用於 α2A 受體。因此，從機轉上看，Rotigotine 作用於多巴胺系統有其合理性。
 
@@ -125,12 +125,13 @@ ADHD 的病理被認為與多巴胺及正腎上腺素調節失衡有關。文獻
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證數寫 12 張 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-11-03 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Neupro (rotigotine) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=939e28c5-f3a9-42c0-9a2d-8d471d82a6e0) |
 
 <!-- review:end log -->
 

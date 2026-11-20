@@ -59,7 +59,7 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉（MOA）資料。已知膽酸是 FXR（法尼醇 X 受體）與 GPBA（TGR5，GPBAR1）受體的天然配體，在膽酸合成、膽汁分泌與脂質吸收中扮演核心角色。
+根據美國 FDA 核准的 Cholic Acid 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「膽酸是一種在肝臟中由膽固醇合成的初級膽酸。在因生物合成途徑中的 SEDs 所致之膽酸合成異常，以及包括 Zellweger 症候群譜系疾病在內的 PDs 中，初級膽酸缺乏會導致中間膽酸失調性累積及膽汁鬱積。」英文原文："Cholic acid is a primary bile acid synthesized from cholesterol in the liver. In bile acid synthesis disorders due to SEDs in the biosynthetic pathway, and in PDs including Zellweger spectrum disorders, deficiency of primary bile acids leads to unregulated accumulation of intermediate bile acids and cholestasis."（[DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723)，版本日期 2026-01-26；查閱日期 2026-11-19）。已知膽酸是 FXR（法尼醇 X 受體）與 GPBA（TGR5，GPBAR1）受體的天然配體，在膽酸合成、膽汁分泌與脂質吸收中扮演核心角色。
 
 與 HIV 的關聯較為間接。1993 年的體外研究顯示，膽酸鈉具有殺精與抗 HIV-1 活性，能抑制病毒相關逆轉錄酶活性，並曾被用於含膽酸鈉的陰道避孕海綿。不過，2006 年另一項研究指出，胺基修飾的膽酸衍生物反而**誘發 T 細胞融合（syncytia）並增強 HIV-1 複製**。因此機轉上的連結薄弱，且部分結果相互矛盾。
 
@@ -151,13 +151,14 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「在台灣以「得利膽錠」等多種品名上市」 | 報告重生後已無此錯誤（2026-10-15：新報告一句話總結寫明先天性膽酸合成障礙與過氧化體代謝異常，未再出現「得利膽錠」；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「原適應症」引自 dehydrocholic acid 製劑 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列已是酷立酸膠囊的核准適應症原文；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表所列皆非 cholic acid | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Cholbam (cholic acid) prescribing information, Mirum Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5c6e4c9d-b85e-493f-9420-ab2fd0ff3723) |
 
 <!-- review:end log -->
 

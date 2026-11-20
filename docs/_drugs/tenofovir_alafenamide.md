@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**貓後天免疫缺乏症候群 (feline acquired 
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Tenofovir alafenamide 是 tenofovir 的前驅藥，進入細胞後轉換為具活性的 tenofovir diphosphate，抑制逆轉錄酶並終止病毒 DNA 鏈延長。
+根據美國 FDA 核准的 Tenofovir Alafenamide 仿單（Prescribing Information）「Mechanism of Action」與「Microbiology」段（非官方翻譯）：「Tenofovir alafenamide 為一種抗 B 型肝炎病毒之抗病毒藥物。[…] Tenofovir alafenamide 為 tenofovir（2'-去氧腺苷單磷酸類似物）之 phosphonamidate 前驅藥。Tenofovir alafenamide 作為一種親脂性、可穿透細胞之化合物，藉由被動擴散及肝臟攝取轉運蛋白 OATP1B1 與 OATP1B3 進入初代肝細胞。」英文原文："Tenofovir alafenamide is an antiviral drug against the hepatitis B virus. […] Tenofovir alafenamide is a phosphonamidate prodrug of tenofovir (2'-deoxyadenosine monophosphate analog). Tenofovir alafenamide as a lipophilic cell-permeant compound enters primary hepatocytes by passive diffusion and by the hepatic uptake transporters OATP1B1 and OATP1B3."（[DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2)，版本日期 2025-07-14；查閱日期 2026-11-19）。根據已知資訊，Tenofovir alafenamide 是 tenofovir 的前驅藥，進入細胞後轉換為具活性的 tenofovir diphosphate，抑制逆轉錄酶並終止病毒 DNA 鏈延長。
 
 貓免疫缺乏病毒 (FIV) 與 HIV 同屬慢病毒，同樣依賴逆轉錄酶進行複製，因此在機轉上有可能適用。不過，這只是推論：本報告所整理的資料中，沒有任何針對此疾病的臨床試驗或文獻。此外，這個預測屬於獸醫領域，與人類用藥的許可證與臨床情境不同。
 
@@ -120,7 +120,7 @@ TxGNN 模型預測它可能對**貓後天免疫缺乏症候群 (feline acquired 
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -131,6 +131,7 @@ TxGNN 模型預測它可能對**貓後天免疫缺乏症候群 (feline acquired 
 | 2026-10-03 | 台灣上市資訊表許可證 衛部藥輸字第027645號 與品名不符 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 「已核准產品（共 13 項）」 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 快速總覽「必克達膜衣錠」 | 報告重生後已無此錯誤（2026-10-15：新報告未再出現「必克達膜衣錠」；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Vemlidy (tenofovir alafenamide) prescribing information, Gilead Sciences, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e6b33c-0351-4070-9172-eeaa186c01d2) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料（資料庫中的 MOA 欄位為空）。根據已知藥理資訊，Tizanidine 是中樞型 α2 腎上腺素促效劑，可能抑制三叉神經痛覺傳導，並減輕顱周肌肉緊繃。
+根據美國 FDA 核准的 Tizanidine 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Tizanidine 是一種中樞 alpha-2-腎上腺素受體促效劑，推測其藉由增加運動神經元的突觸前抑制而減輕痙攣。Tizanidine 對多突觸路徑的作用最強。這些作用的整體效果被認為是減少脊髓運動神經元的易化作用。」英文原文："Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons."（[DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08)，版本日期 2026-01-02；查閱日期 2026-11-19）。根據已知藥理資訊，Tizanidine 是中樞型 α2 腎上腺素促效劑，可能抑制三叉神經痛覺傳導，並減輕顱周肌肉緊繃。
 
 原適應症為痙攣與疼痛性肌肉痙攣，與偏頭痛、慢性每日頭痛預防在「肌肉張力與疼痛傳導調節」上有共通之處。文獻回顧（如 Freitag 2003、Mathew 2006）也將 Tizanidine 列為慢性偏頭痛或慢性每日頭痛的預防選項之一。
 
@@ -140,11 +140,12 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 立舒肌錠效期 | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案 36_5.json，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
 
 <!-- review:end log -->
 

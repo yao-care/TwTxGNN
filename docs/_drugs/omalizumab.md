@@ -68,7 +68,7 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據文獻與資料，Omalizumab 是一種人源化單株抗體，可結合游離 IgE，降低 IgE 與肥大細胞、嗜鹼性球上 FcεRI 受體的結合，進而減少過敏介質釋放與氣道發炎。
+根據美國 FDA 核准的 Omalizumab 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「氣喘、伴有鼻息肉的慢性鼻竇炎及IgE介導的食物過敏：Omalizumab產品可抑制IgE與肥大細胞、嗜鹼性球及樹突細胞表面的高親和力IgE受體（FcεRI）結合，導致這些細胞上的FcεRI下調。在過敏性氣喘患者中，使用omalizumab產品治療可抑制IgE介導的發炎反應，證據為血液及組織中的嗜酸性球減少，以及包括IL-4、IL-5及IL-13在內的發炎介質減少。」英文原文："Asthma, Chronic Rhinosinusitis with Nasal Polyps, and IgE-Mediated Food Allergy Omalizumab products inhibit the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of mast cells, basophils, and dendritic cells, resulting in FcεRI down-regulation on these cells. In allergic asthmatics, treatment with omalizumab products inhibit IgE-mediated inflammation, as evidenced by reduced blood and tissue eosinophils and reduced inflammatory mediators, including IL-4, IL-5, and IL-13."（[DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84)，版本日期 2026-10-06；查閱日期 2026-11-19）。根據文獻與資料，Omalizumab 是一種人源化單株抗體，可結合游離 IgE，降低 IgE 與肥大細胞、嗜鹼性球上 FcεRI 受體的結合，進而減少過敏介質釋放與氣道發炎。
 
 原適應症（過敏性氣喘）與支氣管炎同屬下呼吸道疾病，氣道發炎是共通的病理環節。從機轉推論，若支氣管炎的發炎有 IgE 或過敏成分，例如嗜酸性球性支氣管炎，抗 IgE 治療才有可能發揮作用。
 
@@ -137,7 +137,7 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測原文未改寫；證據等級與決策只依重審結果（降級、升級或撤回）更新，原值列在下表。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
@@ -148,6 +148,7 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，目前有 *
 | 2026-11-04 | 支氣管炎 (Bronchitis)（主預測）證據等級重審結果 | 重審：降級，證據等級 L4→L5；證據等級：原「證據等級／L4」→「證據等級／L5」（2026-11-04 修訂，前版保留於紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/)；[ClinicalTrials.gov：Study of the Steroid Sparing Effect of Xolair (Omalizumab) in Patients With Persistent Eosinophilic Bronchitis（NCT02049294）](https://clinicaltrials.gov/study/NCT02049294) |
 | 2026-11-04 | 頁首證據等級 | 頁首等級依總覽表重算（原 L4→L5）（2026-11-04 修訂，前版保留於紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-04 | 頁面描述（description）的證據等級 | 頁面描述（description）的「證據等級 L4」改為「證據等級 L5」（依頁首等級；其他文字未改，原文留在紀錄）（2026-11-04 修訂，前版保留於紀錄） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Omlyclo (omalizumab-igec) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dbd8709f-1636-45d9-ba94-5a3bc5f22f84) |
 
 <!-- review:end log -->
 

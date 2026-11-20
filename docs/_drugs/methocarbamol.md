@@ -72,7 +72,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Methocarbamol 屬於中樞性骨骼肌鬆弛劑，其機轉尚未完全釐清，一般認為與中樞神經系統抑制有關。
+根據美國 FDA 核准的 Methocarbamol 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Methocarbamol 在人體的作用機轉尚未確立，但可能與全身性 CNS 抑制有關。其對橫紋肌的收縮機制、運動終板或神經纖維均無直接作用。」英文原文："The mechanism of action of methocarbamol in humans has not been established, but may be due to general CNS depression. It has no direct action on the contractile mechanism of striated muscle, the motor end plate or the nerve fiber."（[DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522)，版本日期 2026-11-06；查閱日期 2026-11-19）。Methocarbamol 屬於中樞性骨骼肌鬆弛劑，其機轉尚未完全釐清，一般認為與中樞神經系統抑制有關。
 
 馬尾症候群是脊椎下段神經根受壓所致，常伴隨腰背痛與下肢症狀。Methocarbamol 或許能緩解伴隨的肌肉痙攣與背痛，這可能是模型將兩者連結的原因。然而，它對造成馬尾症候群的神經根壓迫本身沒有已知作用，而該疾病屬於需要緊急手術處理的急症。因此，這個預測在機轉上的支持相當薄弱，最多只能視為症狀緩解的輔助角色，而非疾病治療。
 
@@ -141,12 +141,13 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 新增「作用機轉」段（每點附仿單來源） | 新增附來源段落 | [DailyMed：Methocarbamol Tablets, USP 仿單（Granules）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c) |
 | 2026-10-03 | 把抑制多突觸反射弧寫成確定的主要機轉 | 報告重生後已無此錯誤（2026-10-15：新報告寫機轉尚未完全釐清、與中樞神經抑制有關，未再寫抑制多突觸反射弧；原為加註） | [DailyMed：Methocarbamol Tablets, USP 仿單（Granules），Clinical Pharmacology](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6f0d3966-962d-fa7c-e053-2a91aa0a8e3c) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Methocarbamol Tablets, Usp, 500 Mg (methocarbamol) prescribing information, Marlex Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2e38ac9-1cf3-14ca-e053-2a95a90a8522) |
 
 <!-- review:end log -->
 

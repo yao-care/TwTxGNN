@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**胸膜腺瘤樣瘤 (pleural adenomatoid tumor)**
 
 ## 為什麼這個預測合理？
 
-本報告所用的資料缺乏詳細的作用機轉記錄。Pemetrexed 在台灣許可證上被歸類為抗腫瘤用藥／代謝拮抗劑，理論上它的抗葉酸活性可能影響間皮細胞來源的腫瘤。
+根據美國 FDA 核准的 Pemetrexed 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Pemetrexed為葉酸類似物代謝抑制劑，可干擾細胞複製所必需的葉酸依賴性代謝過程。體外研究顯示，pemetrexed可抑制胸苷酸合成酶（TS）、二氫葉酸還原酶（DHFR）及甘胺醯胺核糖核苷酸甲醯基轉移酶（GARFT），這些均為參與胸苷及嘌呤核苷酸從頭生物合成的葉酸依賴性酵素。」英文原文："Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication. In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides."（[DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0)，版本日期 2026-06-18；查閱日期 2026-11-19）。Pemetrexed 在台灣許可證上被歸類為抗腫瘤用藥／代謝拮抗劑，理論上它的抗葉酸活性可能影響間皮細胞來源的腫瘤。
 
 不過，腺瘤樣瘤通常是良性腫瘤。對良性腫瘤使用細胞毒性化療，在臨床上沒有明確的治療理由。模型給出的高分，目前沒有任何臨床或文獻證據支持。
 
@@ -151,12 +151,13 @@ TxGNN 模型預測它可能對**胸膜腺瘤樣瘤 (pleural adenomatoid tumor)**
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「吉舒達注射劑」列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L3，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L1）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Pemfexy (pemetrexed) prescribing information, Acacia Pharma, Ltd.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=caef07ce-066b-4c48-98dc-974b05ebbbe0) |
 
 <!-- review:end log -->
 

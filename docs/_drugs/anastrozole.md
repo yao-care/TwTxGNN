@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**神經母細胞瘤 (neuroblastoma)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。Anastrozole 屬於芳香環轉化酶抑制劑類別，已知可抑制雌激素合成，用於荷爾蒙依賴性疾病。
+根據美國 FDA 核准的 Anastrozole 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「許多乳癌的生長受到雌激素刺激或維持。在停經後婦女中，雌激素主要來自芳香酶的作用，該酵素可將腎上腺雄激素（主要為雄烯二酮及睪固酮）轉化為雌酮及雌二醇。[…] Anastrozole為一種選擇性非類固醇芳香酶抑制劑。」英文原文："The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. […] Anastrozole is a selective non-steroidal aromatase inhibitor."（[DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de)，版本日期 2026-03-02；查閱日期 2026-11-19）。Anastrozole 屬於芳香環轉化酶抑制劑類別，已知可抑制雌激素合成，用於荷爾蒙依賴性疾病。
 
 就現有資訊而言，芳香環轉化酶抑制與神經母細胞瘤的生物學之間，並沒有已確立的關聯。神經母細胞瘤是源自神經嵴的兒童腫瘤，其發病驅動因素與雌激素訊號並無明確連結。因此，這個高分預測目前只能視為計算結果，機轉上的合理性尚待驗證。
 
@@ -128,6 +128,19 @@ TxGNN 模型預測它可能對**神經母細胞瘤 (neuroblastoma)** 有效，
 - 進行前臨床研究（如神經母細胞瘤細胞株或動物模型），驗證是否有抗腫瘤活性
 - 檢視相關神經嵴腫瘤的既有研究，確認預測是否只反映疾病相似性
 - 若前臨床結果正向，再評估兒童族群的安全性與劑量
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

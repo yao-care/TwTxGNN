@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Rocuronium 是競爭性菸鹼型乙醯膽鹼受體拮抗劑，作用於運動終板，使骨骼肌暫時麻痺，臨床上用於麻醉誘導與加護病房的插管、呼吸器使用情境。
+根據美國 FDA 核准的 Rocuronium 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Rocuronium bromide注射劑是一種非去極化神經肌肉阻斷劑，依劑量不同，其起效時間為快速至中等，作用持續時間為中等。其作用機轉為在運動終板競爭膽鹼性受體。」英文原文："Rocuronium bromide injection is a nondepolarizing neuromuscular blocking agent with a rapid to intermediate onset depending on dose and intermediate duration. It acts by competing for cholinergic receptors at the motor end-plate."（[DailyMed: rocuronium bromide prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a18fce42-0f3d-4354-845e-57c37ac3a147)，版本日期 2026-10-01；查閱日期 2026-11-19）。根據已知資訊，Rocuronium 是競爭性菸鹼型乙醯膽鹼受體拮抗劑，作用於運動終板，使骨骼肌暫時麻痺，臨床上用於麻醉誘導與加護病房的插管、呼吸器使用情境。
 
 偏頭痛的病理機轉主要涉及 CGRP、三叉神經血管系統活化與皮質擴散性抑制。Rocuronium 作用於周邊神經肌肉接合處，與上述路徑並無已知關聯。
 
@@ -130,13 +130,14 @@ TxGNN 模型預測它可能對**偏頭痛 (Migraine Disorder)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「原適應症」寫成 sugammadex 的適應症 | 報告重生後已無此錯誤（2026-10-15：新報告「原適應症」列為 rocuronium 許可證原文；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證數寫 20 張（計入 sugammadex） | 已由程式化許可證表取代（原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表全為 sugammadex | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: rocuronium bromide prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a18fce42-0f3d-4354-845e-57c37ac3a147) |
 
 <!-- review:end log -->
 

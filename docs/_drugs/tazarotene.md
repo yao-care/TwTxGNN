@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**脂漏性皮膚炎 (Seborrheic Dermatitis)** 有
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Tazarotene 是外用類視黃醇前驅藥，在體內轉換為活性形式 tazarotenic acid，可選擇性結合 RAR-beta/gamma 受體，調節角質細胞分化並減少過度增生與發炎。
+根據美國 FDA 核准的 Tazarotene 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Tazarotene 是一種類視色素前驅藥，經去酯化作用轉化為其活性形式，即 tazarotene 的羧酸。Tazarotenic acid 可與視黃酸受體（RAR）家族的全部三個成員結合：RARα、RARβ 及 RARγ，但對 RARβ 及 RARγ 顯示相對選擇性，並可能調節基因表現。」英文原文："Tazarotene is a retinoid prodrug which is converted to its active form, the carboxylic acid of tazarotene, by deesterification. Tazarotenic acid binds to all three members of the retinoic acid receptor (RAR) family: RARα, RARβ, and RARγ, but shows relative selectivity for RARβ, and RARγ and may modify gene expression."（[DailyMed: Tazorac (tazarotene) prescribing information, Almirall, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e4e4b81-420e-4492-8a74-80b692a80057)，版本日期 2026-11-04；查閱日期 2026-11-19）。根據已知資訊，Tazarotene 是外用類視黃醇前驅藥，在體內轉換為活性形式 tazarotenic acid，可選擇性結合 RAR-beta/gamma 受體，調節角質細胞分化並減少過度增生與發炎。
 
 乾癬與脂漏性皮膚炎都是以皮膚發炎、角質細胞異常增生與脫屑為特徵的慢性皮膚病。Tazarotene 在乾癬中的作用（使角質細胞分化正常化、減少過度增生）在機轉上可能也與脂漏性皮膚炎的脫屑和發炎相關。
 
@@ -137,11 +137,12 @@ TxGNN 模型預測它可能對**脂漏性皮膚炎 (Seborrheic Dermatitis)** 有
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「對 RARB 具有最高親和力」 | 報告重生後已無此錯誤（2026-10-15：新報告寫 tazarotenic acid 選擇性結合 RAR-beta/gamma，未再寫對 RARβ 親和力最高；原為加註） | [DailyMed：TAZORAC (tazarotene) Cream 仿單 §12.1（Almirall）](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=021744d1-a6d7-4ad6-99c2-7187c24e64c6) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Tazorac (tazarotene) prescribing information, Almirall, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4e4e4b81-420e-4492-8a74-80b692a80057) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。已知 Cisatracurium 是非去極化神經肌肉阻斷劑，作用於骨骼肌神經肌肉接合處的菸鹼型乙醯膽鹼受體，用於麻醉時暫時性鬆弛肌肉。
+根據美國 FDA 核准的 Cisatracurium 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「苯磺酸順阿曲庫銨（Cisatracurium besylate）可競爭性結合運動終板上的膽鹼性受體，以拮抗乙醯膽鹼的作用，從而阻斷神經肌肉傳導。此作用可被乙醯膽鹼酯酶抑制劑（如neostigmine）所拮抗。」英文原文："Cisatracurium besylate binds competitively to cholinergic receptors on the motor end-plate to antagonize the action of acetylcholine, resulting in blockade of neuromuscular transmission. This action is antagonized by acetylcholinesterase inhibitors such as neostigmine."（[DailyMed: cisatracurium besylate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67908e20-044d-454d-9c51-bf106e817bd0)，版本日期 2026-10-14；查閱日期 2026-11-19）。已知 Cisatracurium 是非去極化神經肌肉阻斷劑，作用於骨骼肌神經肌肉接合處的菸鹼型乙醯膽鹼受體，用於麻醉時暫時性鬆弛肌肉。
 
 馬尾症候群是脊髓末端神經根受壓所造成的急症，標準處置是儘早手術減壓。肌肉鬆弛劑並不能解除神經壓迫，也沒有修復神經的作用，因此機轉上找不到合理的治療連結。
 
@@ -118,6 +118,19 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 有效
 - 取得詳細的作用機轉資料，確認是否存在任何可檢驗的神經保護或其他相關機制。
 - 進行系統性文獻回顧，確認是否有任何前臨床或臨床訊號。
 - 在此之前，建議把資源放在證據更充分的候選藥物與適應症上。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁的查核紀錄。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）；模型預測、證據等級與結論都沒有改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: cisatracurium besylate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67908e20-044d-454d-9c51-bf106e817bd0) |
+
+<!-- review:end log -->
+
 ## 免責聲明
 
 本內容僅供研究參考，不構成醫療建議。

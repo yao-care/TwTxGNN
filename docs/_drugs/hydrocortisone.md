@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 為什麼這個預測合理？
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，hydrocortisone 屬於糖皮質素類藥物，在皮膚炎症與過敏性疾病中的抗發炎療效已被廣泛使用。
+根據美國 FDA 核准的 Hydrocortisone 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Hydrocortisone 是一種糖皮質類固醇。糖皮質類固醇（腎上腺皮質類固醇）可引起多種代謝作用。此外，它們可改變身體對各種刺激的免疫反應。」英文原文："Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.."（[DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682)，版本日期 2026-04-21；查閱日期 2026-11-19）。根據已知資訊，hydrocortisone 屬於糖皮質素類藥物，在皮膚炎症與過敏性疾病中的抗發炎療效已被廣泛使用。
 
 圓形禿被認為是 T 細胞媒介的自體免疫疾病，免疫細胞攻擊毛囊。糖皮質素可抑制此類免疫發炎反應，因此在機轉上有合理性。早期文獻（1950–1970 年代）也有以 hydrocortisone 皮內或病灶內注射治療圓形禿的病例報告。
 
@@ -129,11 +129,12 @@ TxGNN 模型預測它可能對**圓形禿 (Alopecia Areata)** 有效，
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表「敷疾聖眼膏」「敷疾聖軟膏」兩列 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
 
 <!-- review:end log -->
 

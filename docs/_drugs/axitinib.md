@@ -56,7 +56,7 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效。
 
 ## 為什麼這個預測合理？
 
-目前缺乏 DrugBank 收錄的詳細作用機轉資料。就一般藥理知識，Axitinib 是多標靶酪胺酸激酶抑制劑，主要作用於 VEGFR1-3，也影響 PDGFR 與 c-KIT，可阻斷由 VEGF 驅動的血管新生。
+根據美國 FDA 核准的 Axitinib 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Axitinib已證實在治療血漿濃度下可抑制受體酪胺酸激酶，包括血管內皮生長因子受體（VEGFR）-1、VEGFR-2及VEGFR-3。此等受體與病理性血管新生、腫瘤生長及癌症進展有關。」英文原文："Axitinib has been shown to inhibit receptor tyrosine kinases including vascular endothelial growth factor receptors (VEGFR)-1, VEGFR-2, and VEGFR-3 at therapeutic plasma concentrations. These receptors are implicated in pathologic angiogenesis, tumor growth, and cancer progression."（[DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338)，版本日期 2026-03-12；查閱日期 2026-11-19）。就一般藥理知識，Axitinib 是多標靶酪胺酸激酶抑制劑，主要作用於 VEGFR1-3，也影響 PDGFR 與 c-KIT，可阻斷由 VEGF 驅動的血管新生。
 
 腎細胞癌是血管豐富的腫瘤，抗血管新生治療是其核心策略。黏液性脂肪肉瘤同樣依賴血管新生，因此從機轉上推測，抑制 VEGFR 有可能抑制腫瘤生長。
 
@@ -130,12 +130,13 @@ TxGNN 模型預測它可能對**脂肪肉瘤 (Liposarcoma)** 有效。
 
 ## 查核紀錄
 
-以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。「缺乏作用機轉資料」的句子已改為所列官方仿單的節錄（附非官方翻譯與英文原文）。
 
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | Axitinib 台灣中文品名寫成「英利達」 | 報告重生後已無此錯誤（2026-10-15：新報告正文未再出現中文品名「英利達」；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-03 | 許可證表只列出 pembrolizumab（吉舒達）的許可證 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
 
 <!-- review:end log -->
 
