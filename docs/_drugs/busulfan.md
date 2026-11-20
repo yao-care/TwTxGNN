@@ -60,7 +60,7 @@ Busulfan 是雙功能烷化劑，可使 DNA 交叉連結，並清除造血幹細
 
 骨髓增生異常症候群 (MDS) 是造血幹細胞的克隆性疾病，異體造血幹細胞移植是目前唯一可能治癒的方式，也是適合患者（特別是較高風險者）的標準治療。移植前需要清除異常骨髓並讓出空間給供體細胞，這正是 busulfan 的藥理作用。
 
-根據美國 FDA 核准的 Busulfan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Busulfan 為一種雙官能基烷化劑，其兩個不穩定的甲磺酸基分別連接於四碳烷基鏈的兩端。在水性介質中，busulfan 會水解並釋出甲磺酸基。」英文原文："Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups."（[DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203)，版本日期 2026-07-29；查閱日期 2026-11-19）。上述機轉說明來自藥物類別與移植條件療法的文獻脈絡。Busulfan 在此是移植條件療法的一部分，而非直接治療 MDS 的單一藥物。
+上述機轉說明來自藥物類別與移植條件療法的文獻脈絡。根據美國 FDA 核准的 Busulfan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Busulfan 為一種雙官能基烷化劑，其兩個不穩定的甲磺酸基分別連接於四碳烷基鏈的兩端。在水性介質中，busulfan 會水解並釋出甲磺酸基。」英文原文："Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups."（[DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203)，版本日期 2026-07-29；查閱日期 2026-11-19）。Busulfan 在此是移植條件療法的一部分，而非直接治療 MDS 的單一藥物。
 
 ## 臨床試驗證據
 
@@ -158,7 +158,7 @@ Busulfan 是雙功能烷化劑，可使 DNA 交叉連結，並清除造血幹細
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 許可證表中 3 張口服製劑皆已註銷 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
-| 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
+| 2026-11-20 | "需要注意的是，目前缺乏詳細的作用機轉資料（MOA）。上述機轉說明來自藥物類別與移植條件療法的文獻脈絡。" replaced with a sourced mechanism-of-action statement | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203) |
 
 <!-- review:end log -->
 

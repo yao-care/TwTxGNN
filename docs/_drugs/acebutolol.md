@@ -63,7 +63,7 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 
 原適應症「高血壓」與預測的「惡性高血壓性腎病變」在病理上密切相關：長期、嚴重的血壓升高會造成腎臟小血管損傷。控制血壓與抑制腎素—血管張力素系統的活化，理論上有助於減緩腎臟傷害。
 
-不過，這僅屬機轉上的推論。根據美國 FDA 核准的 Acebutolol 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Acebutolol 為一種心臟選擇性 β-腎上腺素受體阻斷劑，在其治療有效劑量範圍內具有輕微的內在擬交感神經活性（ISA）。」英文原文："Acebutolol is a cardioselective, β-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range."（[DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9)，版本日期 2026-01-13；查閱日期 2026-11-20）。
+不過，這僅屬機轉上的推論。作用機轉已連同出處引用於上文（[DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9)）。
 
 另有一個相關的次要預測是**惡性腎血管性高血壓 (Malignant Renovascular Hypertension)**（分數同為 0.9910）。其機轉較為合理，因為腎血管性高血壓由腎素驅動，而 Beta 阻斷劑可減少腎素釋放。此預測有一篇 1975 年的病例系列（證據等級 L4），屬間接證據。
 
@@ -160,7 +160,7 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9) |
-| 2026-11-20 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9) |
+| 2026-11-20 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9) |
 
 <!-- review:end log -->
 

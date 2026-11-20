@@ -27847,9 +27847,9 @@
    "drug": "busulfan",
    "file": "busulfan.md",
    "action": "mechanism",
-   "claim": "需要注意的是，目前缺乏詳細的作用機轉資料（MOA）。",
-   "replacement": "根據美國 FDA 核准的 Busulfan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Busulfan 為一種雙官能基烷化劑，其兩個不穩定的甲磺酸基分別連接於四碳烷基鏈的兩端。在水性介質中，busulfan 會水解並釋出甲磺酸基。」英文原文：\"Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups.\"（[DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203)，版本日期 2026-07-29；查閱日期 2026-11-19）。",
-   "summary": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+   "claim": "需要注意的是，目前缺乏詳細的作用機轉資料（MOA）。上述機轉說明來自藥物類別與移植條件療法的文獻脈絡。",
+   "replacement": "上述機轉說明來自藥物類別與移植條件療法的文獻脈絡。根據美國 FDA 核准的 Busulfan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Busulfan 為一種雙官能基烷化劑，其兩個不穩定的甲磺酸基分別連接於四碳烷基鏈的兩端。在水性介質中，busulfan 會水解並釋出甲磺酸基。」英文原文：\"Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups.\"（[DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203)，版本日期 2026-07-29；查閱日期 2026-11-19）。",
+   "summary": "\"需要注意的是，目前缺乏詳細的作用機轉資料（MOA）。上述機轉說明來自藥物類別與移植條件療法的文獻脈絡。\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -27866,8 +27866,39 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "checked": "2026-11-20",
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "busulfan-moa-fda-2026-11-19",
+     "drug": "busulfan",
+     "file": "busulfan.md",
+     "action": "mechanism",
+     "claim": "需要注意的是，目前缺乏詳細的作用機轉資料（MOA）。",
+     "replacement": "根據美國 FDA 核准的 Busulfan 仿單（Prescribing Information）「Mechanism of Action」段（非官方翻譯）：「Busulfan 為一種雙官能基烷化劑，其兩個不穩定的甲磺酸基分別連接於四碳烷基鏈的兩端。在水性介質中，busulfan 會水解並釋出甲磺酸基。」英文原文：\"Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups.\"（[DailyMed: busulfan prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203)，版本日期 2026-07-29；查閱日期 2026-11-19）。",
+     "summary": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 12.1 Mechanism of Action 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: busulfan prescribing information, Sagent Pharmaceuticals",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=086a715e-4958-4bb5-9ebd-86171e6b6203",
+       "accessed": "2026-11-19",
+       "excerpt": "Busulfan is a bifunctional alkylating agent in which two labile methanesulfonate groups are attached to opposite ends of a four-carbon alkyl chain. In aqueous media, busulfan hydrolyzes to release the methanesulfonate groups.",
+       "label_version": "2026-07-29",
+       "section": "12.1 Mechanism of Action",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "086a715e-4958-4bb5-9ebd-86171e6b6203",
+       "translation": "Busulfan 為一種雙官能基烷化劑，其兩個不穩定的甲磺酸基分別連接於四碳烷基鏈的兩端。在水性介質中，busulfan 會水解並釋出甲磺酸基。",
+       "translation_lang": "zh",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
+    }
+   ]
   },
   {
    "id": "cabazitaxel-moa-fda-2026-11-19",
@@ -32921,7 +32952,7 @@
    "file": "acebutolol.md",
    "action": "mechanism",
    "claim": "目前沒有任何臨床或文獻證據顯示 Acebutolol 對這個疾病有效，且原始作用機轉資料也有缺口，因此只能視為待驗證的假說。",
-   "replacement": "根據美國 FDA 核准的 Acebutolol 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Acebutolol 為一種心臟選擇性 β-腎上腺素受體阻斷劑，在其治療有效劑量範圍內具有輕微的內在擬交感神經活性（ISA）。」英文原文：\"Acebutolol is a cardioselective, β-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range.\"（[DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9)，版本日期 2026-01-13；查閱日期 2026-11-20）。",
+   "replacement": "作用機轉已連同出處引用於上文（[DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9)）。",
    "summary": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -32940,7 +32971,38 @@
     }
    ],
    "checked": "2026-11-20",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "acebutolol-moa-fda-2026-11-20-2",
+     "drug": "acebutolol",
+     "file": "acebutolol.md",
+     "action": "mechanism",
+     "claim": "目前沒有任何臨床或文獻證據顯示 Acebutolol 對這個疾病有效，且原始作用機轉資料也有缺口，因此只能視為待驗證的假說。",
+     "replacement": "根據美國 FDA 核准的 Acebutolol 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「Acebutolol 為一種心臟選擇性 β-腎上腺素受體阻斷劑，在其治療有效劑量範圍內具有輕微的內在擬交感神經活性（ISA）。」英文原文：\"Acebutolol is a cardioselective, β-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range.\"（[DailyMed: acebutolol hydrochloride prescribing information, AvKARE](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9)，版本日期 2026-01-13；查閱日期 2026-11-20）。",
+     "summary": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: acebutolol hydrochloride prescribing information, AvKARE",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa40a564-a579-15c1-e053-6294a90ad8e9",
+       "accessed": "2026-11-20",
+       "excerpt": "Acebutolol is a cardioselective, β-adrenoreceptor blocking agent, which possesses mild intrinsic sympathomimetic activity (ISA) in its therapeutically effective dose range.",
+       "label_version": "2026-01-13",
+       "section": "Clinical Pharmacology",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "fa40a564-a579-15c1-e053-6294a90ad8e9",
+       "translation": "Acebutolol 為一種心臟選擇性 β-腎上腺素受體阻斷劑，在其治療有效劑量範圍內具有輕微的內在擬交感神經活性（ISA）。",
+       "translation_lang": "zh",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
   },
   {
    "id": "benzylpenicillin-moa-fda-2026-11-20-2",
@@ -32948,7 +33010,7 @@
    "file": "benzylpenicillin.md",
    "action": "mechanism",
    "claim": "不過目前沒有任何臨床試驗或文獻佐證，原藥物的作用機轉資料也缺漏，這個預測仍停留在假說階段。",
-   "replacement": "根據美國 FDA 核准的 Benzylpenicillin 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「青黴素類會與血清蛋白（主要為白蛋白）結合。在正常情況下，青黴素類在細胞外液及大多數其他身體組織中很容易達到治療濃度。青黴素類會以不同程度分布至胸膜液、心包液、腹膜液、腹水、滑液及間質液中。」英文原文：\"Penicillins bind to serum proteins, mainly albumin. Therapeutic levels of the penicillins are easily achieved under normal circumstances in extracellular fluid and most other body tissues. Penicillins are distributed in varying degrees into pleural, pericardial, peritoneal, ascitic, synovial, and interstitial fluids.\"（[DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2)，版本日期 2026-11-04；查閱日期 2026-11-20）。",
+   "replacement": "作用機轉已連同出處引用於上文（[DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2)）。",
    "summary": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -32967,7 +33029,38 @@
     }
    ],
    "checked": "2026-11-20",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "id": "benzylpenicillin-moa-fda-2026-11-20-2",
+     "drug": "benzylpenicillin",
+     "file": "benzylpenicillin.md",
+     "action": "mechanism",
+     "claim": "不過目前沒有任何臨床試驗或文獻佐證，原藥物的作用機轉資料也缺漏，這個預測仍停留在假說階段。",
+     "replacement": "根據美國 FDA 核准的 Benzylpenicillin 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「青黴素類會與血清蛋白（主要為白蛋白）結合。在正常情況下，青黴素類在細胞外液及大多數其他身體組織中很容易達到治療濃度。青黴素類會以不同程度分布至胸膜液、心包液、腹膜液、腹水、滑液及間質液中。」英文原文：\"Penicillins bind to serum proteins, mainly albumin. Therapeutic levels of the penicillins are easily achieved under normal circumstances in extracellular fluid and most other body tissues. Penicillins are distributed in varying degrees into pleural, pericardial, peritoneal, ascitic, synovial, and interstitial fluids.\"（[DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2)，版本日期 2026-11-04；查閱日期 2026-11-20）。",
+     "summary": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 美國 FDA 仿單 Clinical Pharmacology 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig",
+       "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2",
+       "accessed": "2026-11-20",
+       "excerpt": "Penicillins bind to serum proteins, mainly albumin. Therapeutic levels of the penicillins are easily achieved under normal circumstances in extracellular fluid and most other body tissues. Penicillins are distributed in varying degrees into pleural, pericardial, peritoneal, ascitic, synovial, and interstitial fluids.",
+       "label_version": "2026-11-04",
+       "section": "Clinical Pharmacology",
+       "via": "openFDA drug label API (https://open.fda.gov/apis/drug/label/)",
+       "set_id": "efef4846-9497-41af-8dd6-518f86eca7f2",
+       "translation": "青黴素類會與血清蛋白（主要為白蛋白）結合。在正常情況下，青黴素類在細胞外液及大多數其他身體組織中很容易達到治療濃度。青黴素類會以不同程度分布至胸膜液、心包液、腹膜液、腹水、滑液及間質液中。",
+       "translation_lang": "zh",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-20",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
   }
  ]
 }

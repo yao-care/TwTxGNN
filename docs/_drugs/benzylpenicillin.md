@@ -60,7 +60,7 @@ TxGNN 模型預測它可能對**牙冠周炎 (Pericoronitis)** 有效，
 
 牙冠周炎是智齒周圍軟組織的細菌感染，常涉及口腔內的革蘭氏陽性菌與厭氧菌。從抗菌譜來看，青黴素類藥物與此類感染有合理的關聯，因此模型的預測在生物學上說得通。
 
-根據美國 FDA 核准的 Benzylpenicillin 仿單（Prescribing Information）「Clinical Pharmacology」段（非官方翻譯）：「青黴素類會與血清蛋白（主要為白蛋白）結合。在正常情況下，青黴素類在細胞外液及大多數其他身體組織中很容易達到治療濃度。青黴素類會以不同程度分布至胸膜液、心包液、腹膜液、腹水、滑液及間質液中。」英文原文："Penicillins bind to serum proteins, mainly albumin. Therapeutic levels of the penicillins are easily achieved under normal circumstances in extracellular fluid and most other body tissues. Penicillins are distributed in varying degrees into pleural, pericardial, peritoneal, ascitic, synovial, and interstitial fluids."（[DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2)，版本日期 2026-11-04；查閱日期 2026-11-20）。
+作用機轉已連同出處引用於上文（[DailyMed](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2)）。
 
 **其他預測適應症（皆為 L5，僅有模型預測，建議 Hold）：**
 
@@ -146,7 +146,7 @@ TxGNN 模型預測它可能對**牙冠周炎 (Pericoronitis)** 有效，
 | 2026-10-03 | 許可證表代表品項「博西林注四十萬單位」 | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-04 | 頁首證據等級 | 報告重生後已無此錯誤（2026-10-16：報告重生後頁首依新報告為 L5，此筆記的是舊版報告的重算；原為頁首等級依總覽表重算（原 L5→L3）） | [TwTxGNN 研究方法：證據等級判定](https://twtxgnn.yao.care/methodology/) |
 | 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2) |
-| 2026-11-20 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2) |
+| 2026-11-20 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄（2026-11-20 修訂，前版保留於紀錄） | [DailyMed: Pfizerpen (penicillin g potassium) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=efef4846-9497-41af-8dd6-518f86eca7f2) |
 
 <!-- review:end log -->
 
