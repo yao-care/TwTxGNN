@@ -1,8 +1,329 @@
 {
-  "last_updated": "2026-11-20T09:27:10.169525+00:00",
-  "total_count": 122,
-  "matched_count": 81,
+  "last_updated": "2026-11-20T18:09:37.047179+00:00",
+  "total_count": 126,
+  "matched_count": 84,
   "news": [
+    {
+      "id": "1976f83db26c",
+      "title": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報",
+      "published": "2026-11-20T16:00:39+00:00",
+      "summary": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關&nbsp;&nbsp;TechNews 科技新報",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "腫瘤",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "944a13b98a6d",
+      "title": "不修壞基因把好基因開大聲- 醫藥新知- 新聞",
+      "published": "2026-11-20T14:28:15+00:00",
+      "summary": "不修壞基因把好基因開大聲- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yYVBvcUxEY1Zrc3dhYlZ1SmpuY0FzQnZHdEY0SEtSeE9hNi15Z1JGUGg3OU53eU5yTzVINkdmZFU1dUhJUjdQdnhNMlFhZHlNWEZjZTJQTkllX2RnU1BlZGRIeGZjdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f1a1d1873eff",
+      "title": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽",
+      "published": "2026-11-20T13:02:42+00:00",
+      "summary": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQbE1pR21vRC1ETDFROHBBYWtfX0s4c0E2ZFNSS0RVeWlUZXdHblo0a0oyNUpRUV9qMU9aTkp5bWE1bjBDc0FEZ2oxWmlFb29QY2NuWERHQmRPbmdCbm1yeVIwcWNoUnNnWWNfOW5NbS04WkJNdXF0SFp0ZjJoN1FjaFNjVU9OVmhtV09ZX3RSWUgyY21WT3FpRFlmRlQyTVVKVUt1R29RQlE0Sm91V0xUSVJxa1JpYjA2REp4OFZzeXJuOXJiZ29IUjRieW02WHloekVpQ054eDdPTS10S2xjWE04WHBIZWJYWUtSUFh6SE1LNkZHcDkySUNYU25yYXM1ZDh5bVRUQzM4UnV2Rl83d0FfTzNuSzRyb3hnMTR6RG5YV2Y3MV9tcUhvdi16NUxRakNYaWw2SllIYmZ1WEpIRFNDaDhKSVQ3Z0tHc3dDZkpCT1ZDNVFmYk8tX0lEUEMyU1hrcGJmNTRVNUJJdm9WckhYaG84TjZhQ2tnUGZQcEc4TG9DX1ZpTk14MVhkRUU4NmtRcENLaHF2VERBVmJMTEE4RHViY3pvVm16ZXhMMGRUemZqSW9iSFpGUzZ2anM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0ea2aa0197a7",
+      "title": "紐約市流感病例持續攀升 衛生局籲節日前接種疫苗",
+      "published": "2026-11-20T11:00:00+00:00",
+      "summary": "紐約市流感病例持續攀升 衛生局籲節日前接種疫苗&nbsp;&nbsp;Singtaousa流感高峰將至 美國大學校園祭出防疫指引防堵擴散&nbsp;&nbsp;商傳媒 - SUN MEDIA紐約流感住院人數一週翻倍節前接種還來得及嗎？&nbsp;&nbsp;世界新聞網美國流感季提前報到 七州患病數達高水平&nbsp;&nbsp;大紀元美國流感季提早來襲 南部西部疫情升溫&nbsp;&nbsp;巴士的報",
+      "sources": [
+        {
+          "name": "Singtaousa",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51QUFsZzA3WEJjQmlaRDMzSHBLVGZQN2JIYzNNMnFoaVlUT1lqRjVRdE4zZlVGbUo5TGg3bkZDWGIyVVJwd1NxMTRjYTlVcFJpZ0dDMWJrbGlKMENTYU9nYlA4Yk1VM2tKWTVxVkFXaWNSaW95SFJBVl9zWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a5b1ece0c426",
+      "title": "鼻塞怎緩解？日網友分享「手指通鼻法」 台網友笑翻：快抽筋",
+      "published": "2026-11-20T10:44:14+00:00",
+      "summary": "鼻塞怎緩解？日網友分享「手指通鼻法」 台網友笑翻：快抽筋&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TMVM4U1FOYUFrWW9OSmV6M3V4N1VYd240cE5fYjRiME9tMmtGb2tXRVM2Qml3YmdveXVTTDZvWEhhMWl2dHJmMXMweGZ0ZzhzV3BsN01RUmk2VDNoYlBnbTdpNW42Z3pHUGV4WWRrVXdZSTQ30gFYQVVfeXFMTUdFSXl4S09XZGNGaDhfZTMtRXpkNm4yeWExMkt4V3pEQ0RUSGtITUVqckstUi00SGFYUGNEZjNvakVtdXNJYXFlUjRxUmxrb0VIWVhDRHpIYw?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "鼻塞",
+          "keyword": "鼻塞",
+          "related_drugs": [
+            {
+              "slug": "xylometazoline",
+              "name": "Xylometazoline",
+              "url": "/drugs/xylometazoline/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a88ead701a1f",
       "title": "70歲還可以做醫美手術嗎？林靜芸提醒留意6件事：全身麻醉先避免",
@@ -33,24 +354,11 @@
       "id": "ced4cdb77cc0",
       "title": "18歲少女私密處痛半個月 一查竟同時中18種HPV",
       "published": "2026-11-20T06:47:30+00:00",
-      "summary": "18歲少女私密處痛半個月 一查竟同時中18種HPV&nbsp;&nbsp;中時新聞網18歲嫩妹內診整片菜花！下體痛半個月「感染18種HPV」 10種高風險致癌&nbsp;&nbsp;三立新聞網SETN.com私密處反覆疼痛別輕忽 竟感染18種HPV&nbsp;&nbsp;東森新聞",
+      "summary": "18歲少女私密處痛半個月 一查竟同時中18種HPV&nbsp;&nbsp;中時新聞網私密處反覆疼痛別輕忽 竟感染18種HPV&nbsp;&nbsp;東森新聞",
       "sources": [
         {
           "name": "中時新聞網",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Rb0dGTTVvaFlpMWEtZnBOUzZCcWpxX0FQdGhOUkF5eVUzdTVsNnpsbUU1Mkl1cnQ2TGIxd0tZZWhxRDY4VDA3UGRuVnNVWTV3MVFBQno4am45dUVFQjFnNU84WFdkdEJCM2ZPc0lR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5c97e4269eff",
-      "title": "紐約流感住院人數一週翻倍節前接種還來得及嗎？",
-      "published": "2026-11-20T05:59:00+00:00",
-      "summary": "紐約流感住院人數一週翻倍節前接種還來得及嗎？&nbsp;&nbsp;世界新聞網前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtWVl1X3dXVm9ubmRlRmlnbzY3MVEwUElWZ0daYkNaR1duV2pmQnpIcUphSjBIbU9kazl5Mng1Wm81QzM2Z1RGRkFnVHlaNkFpTVpJajVZN1cyUFNIdlpTNWtR0gFnQVVfeXFMTmxEUVEzWjloMjh5N0JKcDZFLXk2ZHFDeU1rTjVfX0d2dXM5NU5aVUNzQl95bVBId0w5M2xBaFg0eVBXTkZOLVJlVVI5VkZNZ0VJWWRRMEJpRGlZWXFYTkQ5ZFJpQUtFYw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -365,30 +673,57 @@
       ]
     },
     {
-      "id": "767bded94863",
-      "title": "美國麻疹疫情再升溫！賓州今年第8人染疫死亡 全美逾5400例確診 - Taiwan News",
-      "published": "2026-11-20T02:52:00+00:00",
-      "summary": "美國麻疹疫情再升溫！賓州今年第8人染疫死亡 全美逾5400例確診&nbsp;&nbsp;Taiwan News美國麻疹根除地位遭取消 疫苗接種率下降致確診數攀升&nbsp;&nbsp;Rti 中央廣播電臺美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國「麻疹消除國」地位撤銷 我疾管署：旅遊疫情升至第2級&nbsp;&nbsp;公視新聞美國麻疹疫情升級警示｜新聞事件整理與重點摘要&nbsp;&nbsp;Yahoo新聞",
+      "id": "0da83f7ca439",
+      "title": "腎癌｜發病率急升！50歲以下患者增12% 常末期才發現難活過5年認清4大症狀勿當拉傷更年期- 東張+ - myTV SUPER",
+      "published": "2026-11-20T02:31:31+00:00",
+      "summary": "腎癌｜發病率急升！50歲以下患者增12% 常末期才發現難活過5年認清4大症狀勿當拉傷更年期- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
-          "name": "Taiwan News",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PcGlLMTJBRGZtM2Q4Z3dOM2xVRXRqSy12akFvNE9jRThEWDJ1NjVXeXF1dnJJck43eUhibF83Vi1WUEViOThESEtvX1Z6R0VwYWtvdVRmY1U?oc=5"
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMi4ARBVV95cUxQY3ZnTDZCOUZrM2l3ZEl2dW9YaU5vU2VXSnRpWEljVGdNM3N5Q1JYbmd4Q2lERDhuMGJXc0FMSDI3b0tzaTBYLWV4clE0Z2dLa0NLRjcwdE9nZkhHc1RMV001SEdzcjM0aUlfLVVhdGstSHFCRXFJTWlQeHF6YkZ4bGI5MnRYTzl1X284NVdtMFhtWkhuQm13czFUZWszY3J5MF8xUF91Vklzd0w1WEs0V0NmY0h5bmVORER0a09WQ01URHlBbG5oZnBXWVp3Nmd5dnluZHJkVF9GcWlnMllhbUlOVkZMMHFGSm15Tk9LQjdmY2xJNGdyMG1fcjFVQW5PQUo3OVBDVHVGSjNQYk9KWW9TOUx1dWUzblgyamF5ODVOc1ozWEUtSGNaQ2h6ZEE3TEN0N2p4c0llNFpsT3RzalVwX05kV29aQlNTa3ZucFdXakI5SnBoQTEzN211aWYwdm1VYUJjSEI0RzQtSHBDckotUVJ4akx0QXRPNUI1Z3J3MXJZLU95SjMzRHZNN1BCLVVZNlk0RXZmeURybTFlSEV0b2dXZWdaSmlXanloYnJYVGNYaEJ5RGxvN2NyWWthWV9qMEtBcDZtMW4taHg4dF9NX0dUemJKc1BDd090SUU0bEFhRDdpVGVvcWI1U0VCdV9lbGxBQklMZTQ4elNQM0RRWllGRmtYMEdSdFBiRDVWQUJ2SjAzdWp5ZFh6SU54ajdIRXV5NnVRVkpaUW9RS241X1ZkLVlDdzZkU2VrZ1NNT0FHSUFEaTZOVk1XRGhHdW0yWEdEYkFjU2JDeG5KMw?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e7283b098aaa",
-      "title": "奇異果連皮吃＝較健康？名醫科學解答！「小心這問題」",
-      "published": "2026-11-20T02:25:03+00:00",
-      "summary": "奇異果連皮吃＝較健康？名醫科學解答！「小心這問題」&nbsp;&nbsp;三立新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "三立新聞",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLdmVzRnhJU2pkbERQR1hxTFRjYm9QcWRXcXZsZHdCbDlEY05GWllGbWdZOUJJb0h4YTJxQ2RHWnBGU3hFTHFzUGw2QmI?oc=5"
+          "type": "indication",
+          "name": "clear cell renal carcinoma",
+          "keyword": "腎癌",
+          "related_drugs": [
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "d69b761e75d8",
@@ -1006,7 +1341,7 @@
       "id": "fe3c7b7dbb67",
       "title": "長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事",
       "published": "2026-11-19T16:00:00+00:00",
-      "summary": "長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事&nbsp;&nbsp;早安健康天氣轉涼流感殺到！專家揭長者中招未必咳 先現「極度疲倦」等6大警號 恐誘心梗中風&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事&nbsp;&nbsp;早安健康公費流感防護大升級！加強型疫苗築起65+ 機構長者的健康防線&nbsp;&nbsp;風傳媒秋冬流感威脅不容輕忽！ 高齡長者慎防肺炎、失能風險 醫師籲主動升級疫苗 | 中廣新聞網&nbsp;&nbsp;LINE TODAY天氣轉涼流感殺到！專家揭長者中招未必咳 先現「極度疲倦」等6大警號 恐誘心梗中風&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "早安健康",
@@ -1466,6 +1801,19 @@
       "matched_keywords": []
     },
     {
+      "id": "0ea178df6fca",
+      "title": "流感疫苗施打前，是不是一定要先經過醫師諮詢？",
+      "published": "2026-11-19T05:24:14+00:00",
+      "summary": "流感疫苗施打前，是不是一定要先經過醫師諮詢？&nbsp;&nbsp;桃園市政府流感疫苗今起開放接種&nbsp;&nbsp;澳門日報幼兒流感疫苗別只打一劑！6.5萬名寶寶還沒補第2劑，11 月新冠疫苗也開放補打&nbsp;&nbsp;嬰兒與母親孩子打流感疫苗怕副作用？醫破除三大網傳迷思 籲併發症風險不容輕忽&nbsp;&nbsp;UDN瑞芳流感疫苗施打率約四成呼籲把握時間接種| 大台北| 地方&nbsp;&nbsp;UDN",
+      "sources": [
+        {
+          "name": "桃園市政府",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KS2dHVjc2WU5tMFZHZkY0bXk4MFpqMVA5WndtVmlWOUlVakQwcTB6MDhnNkc3bEdvNDlPNjNBaVF0Q0MyaGRMT3lkT2hEY2VUTGlvVVdJVmhaSFBVcl9XWG1SUGpvY0U?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7aad5d32915f",
       "title": "新證據對薑黃改善膝部骨關節炎的效益提出質疑",
       "published": "2026-11-19T01:27:40+00:00",
@@ -1542,90 +1890,17 @@
       "matched_keywords": []
     },
     {
-      "id": "d99be7c66850",
-      "title": "心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+ - myTV SUPER",
-      "published": "2026-11-19T00:13:07+00:00",
-      "summary": "心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+&nbsp;&nbsp;myTV SUPER",
+      "id": "af19d4efd636",
+      "title": "美麻疹疫情失控 今年確診數破5700例創35年新高",
+      "published": "2026-11-18T22:27:44+00:00",
+      "summary": "美麻疹疫情失控 今年確診數破5700例創35年新高&nbsp;&nbsp;民視新聞網美國麻疹疫情再升溫！賓州今年第8人染疫死亡 全美逾5400例確診&nbsp;&nbsp;Taiwan News美國麻疹根除地位遭取消 疫苗接種率下降致確診數攀升&nbsp;&nbsp;Rti 中央廣播電臺美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國「麻疹消除國」地位撤銷 我疾管署：旅遊疫情升至第2級&nbsp;&nbsp;公視新聞",
       "sources": [
         {
-          "name": "myTV SUPER",
-          "link": "https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQkNZZVlPNThnM3hrM3JNeFZsQkkxU0pBbDNjbklJZkpuVFpoNlpXeEdaTmFfbU9WTFRfSjU0S0hZQlJYeVd6d1hzVzFnNTExSml0VEVFSkhMY0ZBQktYbg?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
-          "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone",
-              "url": "/drugs/milrinone/"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol",
-              "url": "/drugs/inositol/"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid",
-              "url": "/drugs/pipemidic-acid/"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide",
-              "url": "/drugs/dorzolamide/"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil",
-              "url": "/drugs/treprostinil/"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "19372677089d",
@@ -2018,6 +2293,19 @@
       ]
     },
     {
+      "id": "25e22fe762e4",
+      "title": "兒童患肺炎可以好危險 家長及照顧者勿忘4大康復要點及3大日常防病措施",
+      "published": "2026-11-17T10:27:57+00:00",
+      "summary": "兒童患肺炎可以好危險 家長及照顧者勿忘4大康復要點及3大日常防病措施&nbsp;&nbsp;shemom.com",
+      "sources": [
+        {
+          "name": "shemom.com",
+          "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxONW5XTDNZQnc1X2xfdlRTMkk0R19GT0JJWWZ6UmdhdC1rVFdBU3otRld1aVNvYU9ld3NjU19SSlBVMFRRTGt1aERlb29OVlo3TkRSd3ZzaDU1LXBoRnA3eE9vTXU1SnJQVGZDMjNIbHg3aElxVE5nYjhKQ1V5UWluSjZsTEI5dXc3ZVFQVU1ETVhHOFM2OTdrQ2N2OE9oai01eGgyZEVRSUV4dENqa3lsb2loSFdpa0pnLXFOOFhqR2E2MWlRR2gwOTRPdDNKdUtxZ2trbmZUMXZjYi1VckR3S0dhczYzdlFBV3NpaThQNzhfbENGMmkxaVlQS3Jwd3RocnNScGtTTUhDTUZxZ3BtZFRJaU41N0RGQlU4LUpHT0w4SUJBLXRCNmdDM01YQUlGdnFyN0ZXbnRnQ1dYOFRRcThwVWpEVGROWkJmOEticXBhNEgxaG4wZXcyaHRnR1FYaEVvN2tEQm44aGVSenBiUW9sSURpNGNEUWQ2ZElmemt0SGhWMzlsTkFhQjFMNHZvNXNBVGM5ak1SMW1YdFV5UnpMWFpod1gwS2pGM2FQYXFqT09mb2hKay1RVS0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0114e207a211",
       "title": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛",
       "published": "2026-11-17T10:14:55+00:00",
@@ -2136,19 +2424,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1b8fca8b9f46",
-      "title": "BASM - 看圖說故事",
-      "published": "2026-11-17T01:15:57+00:00",
-      "summary": "BASM - 看圖說故事&nbsp;&nbsp;Substack",
-      "sources": [
-        {
-          "name": "Substack",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5od25vN3NEZl81dk91bnlMbzI5Q1NKM3AyV29ya01TUEJUX0lMTno3QWJPa1labG84dWZUNjQtYjl2ZHYtdkUwakdsS0R0dVBLX3A1Z09B?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a7a8195cbf1f",
       "title": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 - TechNews 科技新報",
       "published": "2026-11-17T00:06:10+00:00",
@@ -2253,6 +2528,19 @@
       "matched_keywords": []
     },
     {
+      "id": "92fc22a912df",
+      "title": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證 | 科技新報 - LINE TODAY",
+      "published": "2026-11-15T18:56:28+00:00",
+      "summary": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uV2wteXBPLUw5SW1yY3c3VlV3UHFEbzYxY0hPMDVieFJZUG5FTm9ERGM5Z1dHQ004ZmFacUoyTUJsNkFkY3A3VlBpR2pLSUdmYnJ0ajdB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f49cc6bc5686",
       "title": "博士牙科集團提醒：易引發蛀牙及牙齦問題",
       "published": "2026-11-15T11:00:00+00:00",
@@ -2261,32 +2549,6 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFNlRjlIOUhOUVZUeVZEbnluMk55aGxxSE5qX0JYNmQyMXI0bU9Nc0p0Q3BLTTR4YkJWd2xzNUIzMkRmTWpFM1c0ZjRMMGdsc2xQQUVsOThJdTI5M0xXNlp2X0ZjbFA4dkdWd0haYU1XYWJKR0tCcy10TWFzSjV0WVd0Z3hFbjdYTVhpeDhxVFNTR0U?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "80842c852e36",
-      "title": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報 - LINE TODAY",
-      "published": "2026-11-15T09:49:22+00:00",
-      "summary": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlJycjJXZGh5LVlFWjRoZ3RZdFp3QnIxTkgzY1NCelpMTXBCYXBsdE1VRGIwS0ZaQXVVQ3I0TjJlbDVVZWJaOFdJNnFEc0d4cWx4c2UyMWY0Mlh3TzUyN3o1dW55UHAtTWRRbUp4YlZjWE1UQ3JSNjEyZ0tXem8yelRLdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ba41f377eaae",
-      "title": "生病不只吃藥！「食物處方」助美年省數兆美元醫療費",
-      "published": "2026-11-15T09:46:52+00:00",
-      "summary": "生病不只吃藥！「食物處方」助美年省數兆美元醫療費&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXdaSkNzOUtLdTRkMU5xMFlkM3kxWVppMFJOMml2dURfcExjdk1QckJyclFoTlNQT2twR29tMi1SQzJQZm9Fek1jNnNYeVBGUzRBSlpsbWIxRHU5d0hENDVMUTE1MDNKd09xVXZfNEZrVHBmaFBfejYzelFUY2RscW5aZVhNVERmdVBpVXBNdXZKS3ZSR1V4M3lWV2RrUXNzaUQwWC1fYldBQl9wRGNzcERZamRZMWVKbjRtWHBienU4U2RjOG9oN3gwQmMtUHZiazVpTHAyVXloQTNHVmpqbDlJMjg5dnZtTUNZSVRIMWtibzVpcnN3cHBkY2lpbGhPNUlNWXk5cU1XV2t5Mmhhc0ZpWWI1Rm03NHhuam5ZWnJzUG9q?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2321,6 +2583,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "84f404a1b631",
+      "title": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報 - LINE TODAY",
+      "published": "2026-11-15T08:50:07+00:00",
+      "summary": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yRVpka2FtMTRMVlEzUC14c0lVblNqYjQya2piT1ZqSG9nWWtfVUtJWk9HOGlCRGlGWXRkcFAwNWhHT1dwVGJqdmx1YWJhZ211bmxBR29R?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "d409dad27227",
@@ -2391,7 +2666,7 @@
       "id": "6c3af61c5ccb",
       "title": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際",
       "published": "2026-11-13T23:39:00+00:00",
-      "summary": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際&nbsp;&nbsp;工商時報攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝&nbsp;&nbsp;TVBS 健康2.0前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇&nbsp;&nbsp;大紀元攝護腺癌檢測準則大轉彎：中年男性每2年驗血&nbsp;&nbsp;世界新聞網美國癌症協會修訂指引 建議定期篩檢前列腺癌&nbsp;&nbsp;Singtaousa",
+      "summary": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際&nbsp;&nbsp;工商時報攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝&nbsp;&nbsp;TVBS 健康2.0前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇&nbsp;&nbsp;大紀元攝護腺癌檢測準則大轉彎：中年男性每2年驗血&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
           "name": "工商時報",
@@ -2644,17 +2919,90 @@
       ]
     },
     {
-      "id": "0c9e06c09da2",
-      "title": "健康時間 - 記憶與遺傳：能否將創傷傳給後代？",
-      "published": "2026-11-13T15:38:33+00:00",
-      "summary": "健康時間 - 記憶與遺傳：能否將創傷傳給後代？&nbsp;&nbsp;RFI",
+      "id": "d99be7c66850",
+      "title": "心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+ - myTV SUPER",
+      "published": "2026-11-19T00:13:07+00:00",
+      "summary": "心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
-          "name": "RFI",
-          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUmxUano4dDZBOTk1c0F0a3FCellTN01vWE5nRkhyMUdxczRaNDFyWDhLTmJOeUR5c1pncE1WVk5aRVo1NnNYSGNYRkN6UXppcW1wdktneEJYNkdQYmdNb0U2QkNUdzNrb1B6YThnQ3VNNXU5YjRxc1FuZzhQQTkwTXE1QVdLeDRWTmlaUWc2cm4yM09nVVg1RmJtVm1iUHZueFk5a0UxS3c2S19yXzgyd2xGblJQZ3d4Wmw5cHozUXNydnE1S0tlOEViM2ktYU4tc25rY1M3TjNmeFdzTTZDdnJVRXZqVlVhYm1rWEF5WUU4UTdmRmwtOERqWk5pU3dsdWNCN0xkNzdhSXV3eEd3QmtNazFVbnpJZU96UGhVc29QU1VhZ1JsRFdlLUFOVWRkZkhXMWZOMmlFODNUaUFGbHl1NWd0S3lBTEZvZnJySDJQUQ?oc=5"
+          "name": "myTV SUPER",
+          "link": "https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone",
+              "url": "/drugs/milrinone/"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol",
+              "url": "/drugs/inositol/"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid",
+              "url": "/drugs/pipemidic-acid/"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide",
+              "url": "/drugs/dorzolamide/"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil",
+              "url": "/drugs/treprostinil/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "7e3900f04224",
