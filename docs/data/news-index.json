@@ -1,7 +1,32 @@
 {
-  "generated": "2026-11-19T19:18:45.197145+00:00",
-  "count": 76,
+  "generated": "2026-11-20T01:32:59.826102+00:00",
+  "count": 78,
   "news": [
+    {
+      "id": "5a8736e6d48c",
+      "title": "澳洲研究團隊開發經鼻吸入mRNA阿茲海默症療法，小鼠實驗證實可阻認知退化 - BigGo 財經",
+      "published": "2026-11-19T21:55:00+00:00",
+      "sources": [
+        {
+          "name": "BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "832373e68aa6",
       "title": "南山人壽：光靠幸福企業仍不夠 團險出現癌症保障缺口",
@@ -674,46 +699,6 @@
       ]
     },
     {
-      "id": "b05a50be19f4",
-      "title": "更年期少吃肚子也難消 營養師推食物保肌防復胖",
-      "published": "2026-11-19T07:58:00+00:00",
-      "sources": [
-        {
-          "name": "全國旅遊時報",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oS2F6TUlmNmo0ZWZvS1EySWQzQjhfeG1JbldJQkJ2bmtjLVF2Y3dLc2FRdnEtX2VzemJ2RnMzVno2TWl4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "1c0cd67abc85",
       "title": "過敏人秒懂！醫揭「過敏vs感冒」3大差異",
       "published": "2026-11-19T07:52:00+00:00",
@@ -801,8 +786,8 @@
       ]
     },
     {
-      "id": "9cb59daec6a3",
-      "title": "心臟病｜6旬男耳朵兩個特徵以為有福 驚揭心肌缺氧險梗塞 自測耳仔出現「求救線」心臟病風險高1.4倍 - myTV SUPER",
+      "id": "d99be7c66850",
+      "title": "心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+ - myTV SUPER",
       "published": "2026-11-19T00:13:07+00:00",
       "sources": [
         {
@@ -1178,107 +1163,37 @@
       ]
     },
     {
-      "id": "00864c299f95",
-      "title": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-11-16T02:19:36+00:00",
+      "id": "0114e207a211",
+      "title": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛",
+      "published": "2026-11-17T10:14:55+00:00",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
           "related_drugs": [
             {
-              "slug": "isosorbide-dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone",
-              "url": "/drugs/milrinone/"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol",
-              "url": "/drugs/inositol/"
-            },
-            {
-              "slug": "ouabain",
-              "name": "Ouabain",
-              "url": "/drugs/ouabain/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "pipemidic-acid",
-              "name": "Pipemidic acid",
-              "url": "/drugs/pipemidic-acid/"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide",
-              "url": "/drugs/dorzolamide/"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil",
-              "url": "/drugs/treprostinil/"
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
             }
           ]
         },
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "腸癌",
+          "keyword": "腸癌",
           "related_drugs": [
             {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
             },
             {
               "slug": "carboplatin",
@@ -1291,14 +1206,34 @@
               "url": "/drugs/gemcitabine/"
             },
             {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e861728d9654",
+      "title": "維持體重、腰圍沒變也別鬆懈！上了年紀「心周脂肪」增心肌梗塞風險",
+      "published": "2026-11-16T00:53:40+00:00",
+      "sources": [
+        {
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neHkxQndpcHRObFhlaVFWV3diX21pVWV2VGQ4cUJWTGs5UU1mZkJkeHNKSER2WXdTWlhaZHY5VW5iX1dndms5SXF4VVNjdHI5MFJwZ2lsWDU2bE5h0gFiQVVfeXFMTzJ2SFhIMVFTeGpyMi02Uk5HRWQwZld3LXE2U1NTeVEwUkE2cFk2WXpOVi0xQ3YwRGlkSjJvazY4eTBDSGpDTjRNQVV3M0xvR1RhbjRmTDZ1cmswaC1hZlhmM1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
             }
           ]
         }
@@ -1894,6 +1829,173 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b05a50be19f4",
+      "title": "更年期少吃肚子也難消 營養師推食物保肌防復胖",
+      "published": "2026-11-19T07:58:00+00:00",
+      "sources": [
+        {
+          "name": "全國旅遊時報",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oS2F6TUlmNmo0ZWZvS1EySWQzQjhfeG1JbldJQkJ2bmtjLVF2Y3dLc2FRdnEtX2VzemJ2RnMzVno2TWl4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00864c299f95",
+      "title": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-11-16T02:19:36+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide-dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone",
+              "url": "/drugs/milrinone/"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol",
+              "url": "/drugs/inositol/"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "pipemidic-acid",
+              "name": "Pipemidic acid",
+              "url": "/drugs/pipemidic-acid/"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide",
+              "url": "/drugs/dorzolamide/"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil",
+              "url": "/drugs/treprostinil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
@@ -4766,58 +4868,6 @@
               "slug": "carisoprodol",
               "name": "Carisoprodol",
               "url": "/drugs/carisoprodol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0114e207a211",
-      "title": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛",
-      "published": "2026-11-17T10:14:55+00:00",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速。預測適應症 10 個。"
 permalink: /news/ouabain/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Ouabain 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>15 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（15 則）
+## 相關新聞（16 則）
 
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 
@@ -61,7 +61,7 @@ last_modified_at: 2026-11-19
 
 ---
 
-### [心臟病｜6旬男耳朵兩個特徵以為有福 驚揭心肌缺氧險梗塞 自測耳仔出現「求救線」心臟病風險高1.4倍 - myTV SUPER](https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5)
+### [心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5)
 
 2026-11-19 <span class="news-indication-tag">心臟病</span>
 
@@ -98,6 +98,14 @@ last_modified_at: 2026-11-19
 2026-11-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMinANBVV95cUxNbG1DY1d2N1lkZk1jMTNCeER5Wk1fM3pfcWNtSTFWSmRKdmZpNGxZLVlqSWJCTllwcnVsck5BWGhIV1Etd1RULTFYQnV3S2Fpbm5pR2FSNXZ2ckNhLWhyS1I3Unc1TzZPR3pQZU40VnlERC1UN3ZjYUx2cUxhXzJlLWRLZ3VETk16WkRpcFlEd1JsdTZLTWZlNDhmUWlmb2E5Z2tmYTFNNVk3dVg5OWtHV1F4enpuWjhIRUxsb3FLVkk3TnU5eUNpeDdERGljeFkyNTZEbnlCUU9MQXJsVmF0eWpHbjZoU3RYdm53UTBUeE16Y2hGa0RfRmJXWjl2Q2xLdG9udVluNlNicEt6V2kxRVR4ZTd6UWRPQ3l4LXktQmhlRFYwNm1HY09RWVN0SVVMcmR5MUg1dUd5RFhNbkRCZ2dLME9iWlhRNTdzZGVZMjRNQWstS0wwOV9XcEZfa3BVMFFPaDQtak90U29TdUJhbVlLWEM4TndOeFNUSUE1bHYzbFg0NFJKYkZyM2t4ZjFzRDVEOU8yRkdIN0VO?oc=5)
+
+---
+
+### [維持體重、腰圍沒變也別鬆懈！上了年紀「心周脂肪」增心肌梗塞風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neHkxQndpcHRObFhlaVFWV3diX21pVWV2VGQ4cUJWTGs5UU1mZkJkeHNKSER2WXdTWlhaZHY5VW5iX1dndms5SXF4VVNjdHI5MFJwZ2lsWDU2bE5h0gFiQVVfeXFMTzJ2SFhIMVFTeGpyMi02Uk5HRWQwZld3LXE2U1NTeVEwUkE2cFk2WXpOVi0xQ3YwRGlkSjJvazY4eTBDSGpDTjRNQVV3M0xvR1RhbjRmTDZ1cmswaC1hZlhmM1E?oc=5)
+
+2026-11-16 <span class="news-indication-tag">心肌梗塞</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neHkxQndpcHRObFhlaVFWV3diX21pVWV2VGQ4cUJWTGs5UU1mZkJkeHNKSER2WXdTWlhaZHY5VW5iX1dndms5SXF4VVNjdHI5MFJwZ2lsWDU2bE5h0gFiQVVfeXFMTzJ2SFhIMVFTeGpyMi02Uk5HRWQwZld3LXE2U1NTeVEwUkE2cFk2WXpOVi0xQ3YwRGlkSjJvazY4eTBDSGpDTjRNQVV3M0xvR1RhbjRmTDZ1cmswaC1hZlhmM1E?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "失智症 (dementia) 相關新聞"
+title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智症 (dementia) 的相關健康新聞報導。7 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。8 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-20
 ---
 
-# 失智症 (dementia) 相關新聞
+# 阿茲海默症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
-<strong>失智症 (dementia)</strong> 目前有 <strong>7 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>8 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [澳洲研究團隊開發經鼻吸入mRNA阿茲海默症療法，小鼠實驗證實可阻認知退化 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5)
+
+2026-11-19
+
+來源: [BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5)
+
+---
 
 ### [韓國研究團隊解開漸凍症與失智症神經細胞死亡路徑，抗氧化蛋白成關鍵 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMWptNlRlbjlBc2lvRGtYNjRXTlh3V1FrYUlvTGszWDV6cjZqMlE1bWI3YmtQbTJnZXJ4dHZEVy1lcHpOc3BHNEt3T09QcUVUUENRU2NZcktHRGhNLS1QaEZIdDBiYVNsRGNfbVZLc3J1ajlzajhqQ05n?oc=5)
 

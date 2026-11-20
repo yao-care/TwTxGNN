@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-11-19T19:18:45.133995+00:00",
-  "total_count": 111,
-  "matched_count": 76,
+  "last_updated": "2026-11-20T01:32:59.760864+00:00",
+  "total_count": 115,
+  "matched_count": 78,
   "news": [
+    {
+      "id": "5a8736e6d48c",
+      "title": "澳洲研究團隊開發經鼻吸入mRNA阿茲海默症療法，小鼠實驗證實可阻認知退化 - BigGo 財經",
+      "published": "2026-11-19T21:55:00+00:00",
+      "summary": "澳洲研究團隊開發經鼻吸入mRNA阿茲海默症療法，小鼠實驗證實可阻認知退化&nbsp;&nbsp;BigGo 財經",
+      "sources": [
+        {
+          "name": "BigGo 財經",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "阿茲海默症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cccacfde08c",
+      "title": "越南瘋傳打匹克球染HIV？ 衛生部門查核證實純屬謠言",
+      "published": "2026-11-19T20:25:50+00:00",
+      "summary": "越南瘋傳打匹克球染HIV？ 衛生部門查核證實純屬謠言&nbsp;&nbsp;巴士的報打匹克球集體感染HIV？ 越南闢謠約談造謠者&nbsp;&nbsp;澳門力報越南網傳打匹克球染HIV？官方核實揭荒謬真相 警約談兩人涉造謠&nbsp;&nbsp;香港01越南離奇傳出多人打匹克球染HIV？官方闢謠向2人問話&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大打匹克球害多人染HIV？越南離奇傳聞瘋傳 官方調查結果出爐&nbsp;&nbsp;東森新聞",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNUXY3RXVIZnpaQ3lCMUI2Nm0yUzNQQmw4M3Axa29maHFRM0xKV0dER2s5VEJGR1FWcXJOQlZJTlBnaUI0LXo2Zjd4czNGZ05DckpnNGJDS0VYWEFlZHFVN25QdXhLNmlQSm1jRVA2enRiY2tjc3Q0V1BrZnlnbkFXeU83WlFsdllydnk2b2duQ0JadzNOVkRFcnBuNFF1bTJYZ1ltMkplcU14Qm5lMlA1R3Z0b3VxZ3hoVGp2Zk5sLXlvcWNxMXNKcUNSTTlxN3dvdmRuRm4xZE9acldEamJtQk4yRF8wb2ZNODNGWUlRNFVBY1ZfRnYzY1JlY0ZzbDZmMDNNaHB3WTZ4OHZqeGdMaFpZYzVpV0tTNmlFTk1Ob0daZmZoMVFxRDZxbzBNT29GQnZtQTh3clpLWW1SQ0FTWVcwcFhhNzlGRkE1Zi1NeHdKTGRjQjhaVU41RkY0VVZydENOQ0d3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "832373e68aa6",
       "title": "南山人壽：光靠幸福企業仍不夠 團險出現癌症保障缺口",
@@ -312,7 +351,7 @@
       "id": "fe3c7b7dbb67",
       "title": "長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事",
       "published": "2026-11-19T16:00:00+00:00",
-      "summary": "長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事&nbsp;&nbsp;早安健康以為B流只是小感冒？醫急喊「恐爆心肌炎肺炎」 5類人最危險&nbsp;&nbsp;TVBS新聞網天氣轉涼流感殺到！專家揭長者中招未必咳 先現「極度疲倦」等6大警號 恐誘心梗中風&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "summary": "長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事&nbsp;&nbsp;早安健康天氣轉涼流感殺到！專家揭長者中招未必咳 先現「極度疲倦」等6大警號 恐誘心梗中風&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大A型流感來勢洶洶！醫提醒別只靠退燒，出現症狀應及早就醫- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
       "sources": [
         {
           "name": "早安健康",
@@ -723,7 +762,7 @@
       "id": "d3d48f3eb76a",
       "title": "18歲女私處痛半個月 1次檢出18種HPV 醫生揭癌變率：含10種高風險致癌型 附預防方法",
       "published": "2026-11-19T08:00:00+00:00",
-      "summary": "18歲女私處痛半個月 1次檢出18種HPV 醫生揭癌變率：含10種高風險致癌型 附預防方法&nbsp;&nbsp;星島頭條私密處反覆疼痛別輕忽 竟感染18種HPV&nbsp;&nbsp;東森新聞18歲嫩妹內診整片菜花！下體痛半個月「感染18種HPV」 10種高風險致癌&nbsp;&nbsp;三立新聞網SETN.com",
+      "summary": "18歲女私處痛半個月 1次檢出18種HPV 醫生揭癌變率：含10種高風險致癌型 附預防方法&nbsp;&nbsp;星島頭條前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
           "name": "星島頭條",
@@ -731,47 +770,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b05a50be19f4",
-      "title": "更年期少吃肚子也難消 營養師推食物保肌防復胖",
-      "published": "2026-11-19T07:58:00+00:00",
-      "summary": "更年期少吃肚子也難消 營養師推食物保肌防復胖&nbsp;&nbsp;全國旅遊時報前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "全國旅遊時報",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oS2F6TUlmNmo0ZWZvS1EySWQzQjhfeG1JbldJQkJ2bmtjLVF2Y3dLc2FRdnEtX2VzemJ2RnMzVno2TWl4?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "tinidazole",
-              "name": "Tinidazole",
-              "url": "/drugs/tinidazole/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "tioconazole",
-              "name": "Tioconazole",
-              "url": "/drugs/tioconazole/"
-            },
-            {
-              "slug": "nystatin",
-              "name": "Nystatin",
-              "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "1c0cd67abc85",
@@ -928,10 +926,23 @@
       ]
     },
     {
-      "id": "9cb59daec6a3",
-      "title": "心臟病｜6旬男耳朵兩個特徵以為有福 驚揭心肌缺氧險梗塞 自測耳仔出現「求救線」心臟病風險高1.4倍 - myTV SUPER",
+      "id": "98022100f2bc",
+      "title": "陳為民《醫學大聯盟》爆「變矮危機」！醫揭骨質疏鬆「駝矮痛」三防線",
+      "published": "2026-11-19T00:33:45+00:00",
+      "summary": "陳為民《醫學大聯盟》爆「變矮危機」！醫揭骨質疏鬆「駝矮痛」三防線&nbsp;&nbsp;四季線上4gTV",
+      "sources": [
+        {
+          "name": "四季線上4gTV",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43Q2g0UFhNbk5PdzZCejFSb2RvOGFhdDhvTHhHNmtYVVZZdUsxbzVZVllKdXczVXJpWUFwMGJqdGVDdDRhX1JlYllCMkZSd1J6UThLWW5XSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d99be7c66850",
+      "title": "心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+ - myTV SUPER",
       "published": "2026-11-19T00:13:07+00:00",
-      "summary": "心臟病｜6旬男耳朵兩個特徵以為有福 驚揭心肌缺氧險梗塞 自測耳仔出現「求救線」心臟病風險高1.4倍&nbsp;&nbsp;myTV SUPER",
+      "summary": "心臟病｜6旬男耳朵兩個特徵以為有福驚揭心肌缺氧險梗塞自測耳仔出現「求救線」心臟病風險高1.4倍 - 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
           "name": "myTV SUPER",
@@ -1014,32 +1025,6 @@
       ]
     },
     {
-      "id": "79161b73f7a8",
-      "title": "從《易經》與《黃帝內經》出發：重整人類知識、醫療科技與永續文明的新格局",
-      "published": "2026-11-18T21:08:41+00:00",
-      "summary": "從《易經》與《黃帝內經》出發：重整人類知識、醫療科技與永續文明的新格局&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVUdZT19aSFFUYk5aQTBWY0FuOGpZanpvS181UGV1emFrTmd2RTJtcjZoemJKZXliZTFnVjBnaVgtNUNTbC10LXh4QXhIRTdTVEt4dHg2R1otTTFHOEM2M3B5TjNFRTZ0d0lzMXBFRXVWUFZ4MVE2ZFNaWEgxQjVDczNlVlFTZnI0UGNPaS1ieURUbTR2RXNFbzRKVnp6YlNKMUI4dHpNbVZTQ0Q1eXZzXzVVcGZ5TC1vMTZWSjYzZzJ0YjlSYmM3aGhWX3BDbmM2?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "19372677089d",
-      "title": "醫健：老有所醫：公眾場所容易感染疣",
-      "published": "2026-11-18T19:40:55+00:00",
-      "summary": "醫健：老有所醫：公眾場所容易感染疣&nbsp;&nbsp;東方日報",
-      "sources": [
-        {
-          "name": "東方日報",
-          "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxORjl2UnFNcEdFYXJZdUdQRUhTcGdkTzI5VlQyLWRCQ0Fhb0dVRzNHa0haRUZsNDc0M0ViaG9rcEY3TzVSMm1odXF3MUttM0VUZFV6M21KWmxhLWs0R0g4di02REZBUlFMejdHNjRvWjRaeXdPd21tbm9GMkI1U055X00tZEV6UUdxcnJubTA5V2k4RHdHTmJqX3p5MXFxazhtcDZqWlN1QlB6ekpZa3dKWXkteFE1R0c4N0EtSFh5OWdZY2k1cEJzSEk0UTE2akROamkzT2lPLWY1QmN1UGNxd21GSUhsRkkzS3UyYl9pYURrNXpMUUlxZXJyMGswOEpOaVk3UkxTU2UzWVZDUnJhTEFOR3JUZkVpay1jczhFcHdGSkZvYjdFd3ByYlJvdi1HdWlnTDFMS25CMU41NmF5QTdWWVZmQ0VseUpvNGtGSl9yN21qemVjY05QV05uYlpHZG1YdW9nZ3FFSzJtb3pB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "564c98dfba7e",
       "title": "全球第二大致命寄生蟲病解密 美團隊找出利什曼原蟲休眠抗藥關鍵",
       "published": "2026-11-18T07:58:05+00:00",
@@ -1104,27 +1089,14 @@
       "matched_keywords": []
     },
     {
-      "id": "04dcfe7cf384",
-      "title": "秋冬流感呈上升趨勢 藥師幫（09885）迎抗流感產品急需窗口 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
-      "published": "2026-11-18T00:42:13+00:00",
-      "summary": "秋冬流感呈上升趨勢 藥師幫（09885）迎抗流感產品急需窗口 作者 智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞今冬明春多種呼吸道病原體交替疊加 專家籲防流感&nbsp;&nbsp;on.cc東網中國多種病毒齊襲 官方承認毒株複雜 高危人群當心&nbsp;&nbsp;新唐人電視台內地流感3種毒株同時活躍 高風險人群需防護&nbsp;&nbsp;on.cc東網3流感毒株同時活躍 或拉長流行季增風險&nbsp;&nbsp;東方日報",
+      "id": "9af46e8bb9d4",
+      "title": "萬錦土生土長眼科醫生　捲訴訟被指白內障手術致失明 - Sing Tao Daily 星島日報加拿大",
+      "published": "2026-11-17T18:52:27+00:00",
+      "summary": "萬錦土生土長眼科醫生 捲訴訟被指白內障手術致失明&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
       "sources": [
         {
-          "name": "Investing.com 香港 - 股市報價& 財經新聞",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpQWVTY2tpZXRORDMzbmEwVXhHdFQyZnlIYnBjM0ExTnZVeUlDV1F5OTNyb0RodFdrUFhOcDFYakJPMGFUWUdIYV9UOGNLNGsxNUhjYkZMVVR6U2REakltZzh2ZmFpeDVDcHVXZHY1N2g?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fad80b8661a0",
-      "title": "利與弊 你對長期服用抗抑鬱藥有了解嗎？",
-      "published": "2026-11-17T20:55:00+00:00",
-      "summary": "利與弊 你對長期服用抗抑鬱藥有了解嗎？&nbsp;&nbsp;大紀元",
-      "sources": [
-        {
-          "name": "大紀元",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jcm1mTWgySTFfa1pXZDZ4VlB5b216YV9xcndMa0xENjJCWUZCMXFwSklaMFBINUNaLURpazhiRmRlWjZ4MkNVQjNYbDRsMnVVMVhRSW5oUjRhZXlNRGhCTtIBZkFVX3lxTE12TW5ueVpyUTJ3VERuRGV4X1JxQ0tjaDlHV3lEZVpxRXhOdDd5UDNuOGM0TUtQLTlWdkRwSkQ0NUJ2REl3XzVKQ1Zwb0xKS0FtaXN1aTRIUWo1ZWRPQWNoc21BWE1oZw?oc=5"
+          "name": "Sing Tao Daily 星島日報加拿大",
+          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPUzZUdExIbDdJNzBOX2dXeXJaRmJLZGtObm10Y3JpWDJYLVBLMy1COVFSZnNpSW8zUVFqTWFHS1B5U2ZTbUwxM0tQSmVvYk1sOS1IVkRubWRIWXB4SDdpTlNKTXBwOEQ3Sl9oT2lyYjZwc0Ytd0dzenRNYWNQSkZkbUF0c1JIMDlYbHhxR2UxcnRDNmFWcVJINWFXRkY1VW1HNVJ5Tm1heG0yVVVFOC1ZYjI3QUxRX1pEYlRWVl95ZzY5TzFXZG8yeldob3FnVEZLUW5MdTB2VlFXQnFLNnN4NFhQUTdyLWVwRkRTQ2F1TTZiYnNUOTE5QmNhMHhGWTM4Q3prQ0JrdnhCeS1VbUoydGJSZmNQTnQ5bXJQNGh6Q0VZUERLUUhFWGtUOVFSdDBscG9oZGFXd0dKYVZaZGNNZ2RKcXlsMGx6bXJsN244YlRJYmJaTndMNC16UGhYOXBXTUhhUjlReEdhZkNWNExpQ1o1djZGZWF6eF82MdIBkgFBVV95cUxNVjJHOGZFRi0tUXFOb1JLYUlocHk4OEtidFlhcWdtWlo0cVpTeW01emNRSlpCby1ZSm5ZZm9zUUhkQzBPUjdRSGRKdW4yb183bjVfWlRfQWxmNHkyaEY0cmhkOEVGcXl0Z2k0by1HYzZVbHdqcUdxaFBXS19sMkk4OTVGUjBqVjJLU204cXNPWktuQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1386,17 +1358,57 @@
       ]
     },
     {
-      "id": "59f45dfb25d7",
-      "title": "萬錦土生土長眼科醫生捲訴訟　被指白內障手術致失明 - Sing Tao Daily 星島日報加拿大",
-      "published": "2026-11-17T09:30:33+00:00",
-      "summary": "萬錦土生土長眼科醫生捲訴訟 被指白內障手術致失明&nbsp;&nbsp;Sing Tao Daily 星島日報加拿大",
+      "id": "0114e207a211",
+      "title": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛",
+      "published": "2026-11-17T10:14:55+00:00",
+      "summary": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "Sing Tao Daily 星島日報加拿大",
-          "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQTDA4ZmMxcmdkakxWVG1FNzhhWERwYWVraXJzV3hSWjlvMjhLV2VGajJCdmV5cnRRZ1RvZTM3MVJZdW51MVE4b2NSZVRBbjdvZllqUzBfQzlHSE9XLXk2N3UtakFPalV5amtkS2VfNW96ZWQ4Ry1FWVNtRC0yOVVSWVBXQzF3NDVRVE1nZDQ3Z3pPZG5jYzlVQ2FOTGdaMzNNWkZsQTVYenFCLXZ0cWFoUDZTMFZCSi0wSzU3OXFrNTlCa0dGLUVsWUZlYlFJTWc2Z3NXN2MyYUVmNzZEQXlod21UNC1BeVM5TVNJQ3RscFdmdk54d25uQ3pDRGxWU2VWVkRrNzloOUN4MFZIak9jTjBzdlpiM1BHYkZ0cDVxVms1U1RyeW1FUHFjZkV1YW1fdWo1V3BxcVRfS1ZhR01lLVhMeDVSZkJmQkxTVmFGN1ptZ3RoYkNKV0FuT2JfNmF4c1ktbVQwZ0tGTDlXeXNnLXlaSnNDcEVuNzRLRtIBkgFBVV95cUxNVjJHOGZFRi0tUXFOb1JLYUlocHk4OEtidFlhcWdtWlo0cVpTeW01emNRSlpCby1ZSm5ZZm9zUUhkQzBPUjdRSGRKdW4yb183bjVfWlRfQWxmNHkyaEY0cmhkOEVGcXl0Z2k0by1HYzZVbHdqcUdxaFBXS19sMkk4OTVGUjBqVjJLU204cXNPWktuQQ?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "直腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "3f29e6b9fa56",
@@ -1464,6 +1476,19 @@
       "matched_keywords": []
     },
     {
+      "id": "1b8fca8b9f46",
+      "title": "BASM - 看圖說故事",
+      "published": "2026-11-17T01:15:57+00:00",
+      "summary": "BASM - 看圖說故事&nbsp;&nbsp;Substack",
+      "sources": [
+        {
+          "name": "Substack",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5od25vN3NEZl81dk91bnlMbzI5Q1NKM3AyV29ya01TUEJUX0lMTno3QWJPa1labG84dWZUNjQtYjl2ZHYtdkUwakdsS0R0dVBLX3A1Z09B?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a7a8195cbf1f",
       "title": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 - TechNews 科技新報",
       "published": "2026-11-17T00:06:10+00:00",
@@ -1503,19 +1528,6 @@
       "matched_keywords": []
     },
     {
-      "id": "00cfa6e078ff",
-      "title": "拿鐵去冰不補滿當心缺鈣！一天少300毫克 營養師揭「6種食物」輕鬆補鈣",
-      "published": "2026-11-16T09:17:49+00:00",
-      "summary": "拿鐵去冰不補滿當心缺鈣！一天少300毫克 營養師揭「6種食物」輕鬆補鈣&nbsp;&nbsp;三立新聞網SETN.com前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "sources": [
-        {
-          "name": "三立新聞網SETN.com",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1KemZhMWZubHNYRTJ3YjdqRVJsTzc2eWp3cVlRMDdIN1RDMlRoTlpGM3hTU3BDNUwxM1dxdWhWQUdyaklOV28yS1pYMV8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "407c1556b766",
       "title": "哪些方法有助抗老？51項人體研究揭飲食、運動與保健食品差異",
       "published": "2026-11-16T06:53:02+00:00",
@@ -1542,132 +1554,43 @@
       "matched_keywords": []
     },
     {
-      "id": "00864c299f95",
-      "title": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊 - LINE TODAY",
-      "published": "2026-11-16T02:19:36+00:00",
-      "summary": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "id": "e861728d9654",
+      "title": "維持體重、腰圍沒變也別鬆懈！上了年紀「心周脂肪」增心肌梗塞風險",
+      "published": "2026-11-16T00:53:40+00:00",
+      "summary": "維持體重、腰圍沒變也別鬆懈！上了年紀「心周脂肪」增心肌梗塞風險&nbsp;&nbsp;元氣網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5"
+          "name": "元氣網",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neHkxQndpcHRObFhlaVFWV3diX21pVWV2VGQ4cUJWTGs5UU1mZkJkeHNKSER2WXdTWlhaZHY5VW5iX1dndms5SXF4VVNjdHI5MFJwZ2lsWDU2bE5h0gFiQVVfeXFMTzJ2SFhIMVFTeGpyMi02Uk5HRWQwZld3LXE2U1NTeVEwUkE2cFk2WXpOVi0xQ3YwRGlkSjJvazY4eTBDSGpDTjRNQVV3M0xvR1RhbjRmTDZ1cmswaC1hZlhmM1E?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臟病",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
           "related_drugs": [
-            {
-              "slug": "isosorbide_dinitrate",
-              "name": "Isosorbide dinitrate",
-              "url": "/drugs/isosorbide-dinitrate/"
-            },
-            {
-              "slug": "felodipine",
-              "name": "Felodipine",
-              "url": "/drugs/felodipine/"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol",
-              "url": "/drugs/metoprolol/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
-            },
-            {
-              "slug": "milrinone",
-              "name": "Milrinone",
-              "url": "/drugs/milrinone/"
-            },
-            {
-              "slug": "inositol",
-              "name": "Inositol",
-              "url": "/drugs/inositol/"
-            },
             {
               "slug": "ouabain",
               "name": "Ouabain",
               "url": "/drugs/ouabain/"
-            },
-            {
-              "slug": "acetazolamide",
-              "name": "Acetazolamide",
-              "url": "/drugs/acetazolamide/"
-            },
-            {
-              "slug": "mannitol",
-              "name": "Mannitol",
-              "url": "/drugs/mannitol/"
-            },
-            {
-              "slug": "oxytetracycline",
-              "name": "Oxytetracycline",
-              "url": "/drugs/oxytetracycline/"
-            },
-            {
-              "slug": "pipemidic_acid",
-              "name": "Pipemidic acid",
-              "url": "/drugs/pipemidic-acid/"
-            },
-            {
-              "slug": "dorzolamide",
-              "name": "Dorzolamide",
-              "url": "/drugs/dorzolamide/"
-            },
-            {
-              "slug": "treprostinil",
-              "name": "Treprostinil",
-              "url": "/drugs/treprostinil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "8453f1eca20a",
+      "title": "Sick問識答｜風癩伴隨3種徵狀速求醫 史泰祖醫生拆解風癩成因+4大常見症狀",
+      "published": "2026-11-15T23:00:00+00:00",
+      "summary": "Sick問識答｜風癩伴隨3種徵狀速求醫 史泰祖醫生拆解風癩成因+4大常見症狀&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxPYXF6ckJfUFp1NUV1VDZDU09qeFZUUTJGWkVPNXhnWjNRWGMzclp4Q0NtaGl6UlZOZ0xZNGx4UkZjX3lVa2l0bXNJMEN3N0RlYWotZ1FtYlgtaXpQRlA0SmItd2lHdExaeTJhRjl6UkFwUFlfYWItS2doMlRSSTdYWmNkblU0Y3BWaU5WMi10cWhGWTlqcFNvdDRkb3FRcHlERDRoOUY5Q2dpNUdHaHZkRUI3SmdOSzU5YzdpcFlJb2hXU2V4WExIRklYNkxHZ3ZLSUhuMGpGbjlEM3pOeHRtS3lPcEdtWXhwVV9qNVZZOTRzdU1jaFN6MkVKMTU3aXVWRGp5aG5qU2xhVXN1OV90c0tPc29yZlplX1gyLXREM2dmRm5MenBFSkYxQ0o5MHJ5cmh6ZzdzYjlwYW5tSHVEa2FXaDd0ZEVqR1gxVlB4LVY2Vm1FMlNfOEZNNkZab1dGbmh0bmotb1VNem9leWNzUmVHal9FMVdUTElJdGE2c1Y0c2ktaUhSNW9qLXZ6ZWpaR1VTVXFUMlJid0VVZ1VFcTBfWG9ZblQ2emJWcm5zTC00WTdJNndoNy1kTm0zZWZ6Nk1uNFhQQUU2VFR2UmpJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "f49cc6bc5686",
@@ -1691,6 +1614,19 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlJycjJXZGh5LVlFWjRoZ3RZdFp3QnIxTkgzY1NCelpMTXBCYXBsdE1VRGIwS0ZaQXVVQ3I0TjJlbDVVZWJaOFdJNnFEc0d4cWx4c2UyMWY0Mlh3TzUyN3o1dW55UHAtTWRRbUp4YlZjWE1UQ3JSNjEyZ0tXem8yelRLdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ba41f377eaae",
+      "title": "生病不只吃藥！「食物處方」助美年省數兆美元醫療費",
+      "published": "2026-11-15T09:46:52+00:00",
+      "summary": "生病不只吃藥！「食物處方」助美年省數兆美元醫療費&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXdaSkNzOUtLdTRkMU5xMFlkM3kxWVppMFJOMml2dURfcExjdk1QckJyclFoTlNQT2twR29tMi1SQzJQZm9Fek1jNnNYeVBGUzRBSlpsbWIxRHU5d0hENDVMUTE1MDNKd09xVXZfNEZrVHBmaFBfejYzelFUY2RscW5aZVhNVERmdVBpVXBNdXZKS3ZSR1V4M3lWV2RrUXNzaUQwWC1fYldBQl9wRGNzcERZamRZMWVKbjRtWHBienU4U2RjOG9oN3gwQmMtUHZiazVpTHAyVXloQTNHVmpqbDlJMjg5dnZtTUNZSVRIMWtibzVpcnN3cHBkY2lpbGhPNUlNWXk5cU1XV2t5Mmhhc0ZpWWI1Rm03NHhuam5ZWnJzUG9q?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1795,7 +1731,7 @@
       "id": "6c3af61c5ccb",
       "title": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際",
       "published": "2026-11-13T23:39:00+00:00",
-      "summary": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際&nbsp;&nbsp;工商時報攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝&nbsp;&nbsp;TVBS 健康2.0前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇&nbsp;&nbsp;大紀元攝護腺癌檢測準則大轉彎：中年男性每2年驗血&nbsp;&nbsp;世界新聞網年滿50歲？前列腺癌篩查不再是可選項&nbsp;&nbsp;华尔街日报中文网",
+      "summary": "攝護腺癌篩檢大轉彎！美癌症協會更新指引：50歲起每兩年驗一次- 國際&nbsp;&nbsp;工商時報攝護腺癌早期幾乎沒症狀！美國新指引：男性「這年齡」起定期篩檢 台灣健保給付條件曝&nbsp;&nbsp;TVBS 健康2.0前列腺癌不一定要開刀！專家揭遺傳風險與治療新選擇&nbsp;&nbsp;大紀元攝護腺癌檢測準則大轉彎：中年男性每2年驗血&nbsp;&nbsp;世界新聞網美國癌症協會修訂指引 建議定期篩檢前列腺癌&nbsp;&nbsp;Singtaousa",
       "sources": [
         {
           "name": "工商時報",
@@ -2048,6 +1984,19 @@
       ]
     },
     {
+      "id": "349c35fcc126",
+      "title": "中國多種病毒齊襲 官方承認毒株複雜 高危人群當心",
+      "published": "2026-11-13T21:11:00+00:00",
+      "summary": "中國多種病毒齊襲 官方承認毒株複雜 高危人群當心&nbsp;&nbsp;新唐人電視台今冬明春多種呼吸道病原體交替疊加 專家籲防流感&nbsp;&nbsp;on.cc東網秋冬流感呈上升趨勢 藥師幫（09885）迎抗流感產品急需窗口 作者 智通財經&nbsp;&nbsp;Investing.com 香港 - 股市報價& 財經新聞內地流感3種毒株同時活躍 高風險人群需防護&nbsp;&nbsp;on.cc東網3流感毒株同時活躍 或拉長流行季增風險&nbsp;&nbsp;東方日報",
+      "sources": [
+        {
+          "name": "新唐人電視台",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BdDZ5b0lGYjNuWGFKLUh6b1hLZUljcTkxR0JCUnU1RlRwbWdfMFhKUEVxaWpEa3locFBGZlRtSVBjRExfMzVKUkJYY2lERWVWREhDWmR3NkpEZGtPQTdvWtIBZkFVX3lxTFBHX0JBbEJselNGQnVhX203cnJORVJOLWRRS0pyZkpoSE9BMzZvYXA4dU5VYVpaVk9LVjJIc1ZWYUJJbVRqOUZGT3BTeTRGLVJVb2pwRV9MY0Z3VTNoUV9UXzdzRHJlUQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "0c9e06c09da2",
       "title": "健康時間 - 記憶與遺傳：能否將創傷傳給後代？",
       "published": "2026-11-13T15:38:33+00:00",
@@ -2090,6 +2039,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a1f8e898d01a",
+      "title": "美國研究揭3病媒蚊叮人各有所好 人類皮膚的「氣味指紋」成關鍵",
+      "published": "2026-11-13T06:30:42+00:00",
+      "summary": "美國研究揭3病媒蚊叮人各有所好 人類皮膚的「氣味指紋」成關鍵&nbsp;&nbsp;香港01蚊子叮人都「挑食」！研究揭三種蚊各有所好 埃及伊蚊喜男性、 亞洲虎蚊愛酮類&nbsp;&nbsp;巴士的報美國研究：119人無一同時吸引三種病媒蚊 皮膚氣味與細菌組成或影響叮咬&nbsp;&nbsp;新假期",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQT2xsblVsZzQ1eHB6Z2psd1NwcllkYlRhcS1RRlRPbnJKaF9IeTZYV3RrU3BVWGY5NGxwdTNNdEVjT1VKa2RnSHNDNTlTMl9rQXFKR2pDU19ySV9helExZFdYRGcyNS0xU09HWnFVWHo0ajd1bEJ0dGxoU0FNa2YyNG1KRW13YjVjV2xwb2NCUFNHbEphajVrMllMZ2hPNFFsU0d6ZEx4Q3hvQ1U5dzU1VHVzX0FxQ1hQcVdQMUhNZGJXRHlrTFpuTjhwSE51MUVyamJHV1ZVQUhLMGY4T0hJd3hOUVpQNjJKZ0dOVXp2ZEZQMVpBeFBpckQxa1RULW82eGpMbWV4MEppLTJSay1wclR1ZHBJNXNGNlZJLXZNYkU3aUFEdXl5eGJnaS16TlpNSDVMdkVTOXZRcHg2NTk4M1ppRm93VDZmVl82cllCWGZXVUZkQW1rakJJR3FYUUtkYjFwRXRDaWFzejJGTFJGX283WkFhMEt3QkVhRTNuR2k5aGZLdFJTbnZ3SjVGNnhGOUx4b2FUelVnX2dxWFcwRE5jYldiaGFKcGJNajNjMHNxaWc?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "cf88858af0ad",
@@ -2368,6 +2330,175 @@
               "slug": "salicylamide",
               "name": "Salicylamide",
               "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b05a50be19f4",
+      "title": "更年期少吃肚子也難消 營養師推食物保肌防復胖",
+      "published": "2026-11-19T07:58:00+00:00",
+      "summary": "更年期少吃肚子也難消 營養師推食物保肌防復胖&nbsp;&nbsp;全國旅遊時報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "全國旅遊時報",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oS2F6TUlmNmo0ZWZvS1EySWQzQjhfeG1JbldJQkJ2bmtjLVF2Y3dLc2FRdnEtX2VzemJ2RnMzVno2TWl4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "tioconazole",
+              "name": "Tioconazole",
+              "url": "/drugs/tioconazole/"
+            },
+            {
+              "slug": "nystatin",
+              "name": "Nystatin",
+              "url": "/drugs/nystatin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00864c299f95",
+      "title": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊 - LINE TODAY",
+      "published": "2026-11-16T02:19:36+00:00",
+      "summary": "阿姨乳癌、爺爺心臟病…家族病史真的問對了嗎？醫揭關鍵：「確診年齡」比病名更重要| 幸福熟齡X 今周刊&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zLVFiU2NwRHFOOVVtRmE4Y2ZldVlkTUpNczJoOEFSV1JJYTBqTVRwRGRZYXVQYzZ3a0RDNEdaY1ZGSDFEZmxON1Y3MTlqVmZ0bFM0cEZvUXRvQmJ2QU4xQ1BET2c1S1cxZFhsMnNCanc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臟病",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate",
+              "url": "/drugs/isosorbide-dinitrate/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
+            },
+            {
+              "slug": "milrinone",
+              "name": "Milrinone",
+              "url": "/drugs/milrinone/"
+            },
+            {
+              "slug": "inositol",
+              "name": "Inositol",
+              "url": "/drugs/inositol/"
+            },
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "pipemidic_acid",
+              "name": "Pipemidic acid",
+              "url": "/drugs/pipemidic-acid/"
+            },
+            {
+              "slug": "dorzolamide",
+              "name": "Dorzolamide",
+              "url": "/drugs/dorzolamide/"
+            },
+            {
+              "slug": "treprostinil",
+              "name": "Treprostinil",
+              "url": "/drugs/treprostinil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
@@ -5263,59 +5394,6 @@
               "slug": "carisoprodol",
               "name": "Carisoprodol",
               "url": "/drugs/carisoprodol/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0114e207a211",
-      "title": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛",
-      "published": "2026-11-17T10:14:55+00:00",
-      "summary": "直腸癌年輕化半數無症狀！港安增第五代機械臂 結合跨專科助保肛&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "直腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }

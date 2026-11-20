@@ -3,9 +3,9 @@ layout: default
 title: "心梗 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心梗 (myocardial infarction) 的相關健康新聞報導。10 則新聞、1 個相關藥物。"
+description: "心梗 (myocardial infarction) 的相關健康新聞報導。11 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # 心梗 (myocardial infarction) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
-<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>10 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>11 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
 
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 
@@ -53,6 +53,14 @@ last_modified_at: 2026-11-19
 2026-11-17
 
 來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiekFVX3lxTFBqQzZuLWVsczVxSFIzcXVra2FRaFNpN0duODctLXpaQUt4ZHI0ZGt2YUpZOS1lTWlUQlA3aFNMSHRPNGVrYWpaLXRXdE94YkFQLWlqNzEybEFmWjdBTVg4U2dNZVhUTmMtbExSR0VoMEpadG1zbm4yUHd3?oc=5)
+
+---
+
+### [維持體重、腰圍沒變也別鬆懈！上了年紀「心周脂肪」增心肌梗塞風險](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neHkxQndpcHRObFhlaVFWV3diX21pVWV2VGQ4cUJWTGs5UU1mZkJkeHNKSER2WXdTWlhaZHY5VW5iX1dndms5SXF4VVNjdHI5MFJwZ2lsWDU2bE5h0gFiQVVfeXFMTzJ2SFhIMVFTeGpyMi02Uk5HRWQwZld3LXE2U1NTeVEwUkE2cFk2WXpOVi0xQ3YwRGlkSjJvazY4eTBDSGpDTjRNQVV3M0xvR1RhbjRmTDZ1cmswaC1hZlhmM1E?oc=5)
+
+2026-11-16
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9neHkxQndpcHRObFhlaVFWV3diX21pVWV2VGQ4cUJWTGs5UU1mZkJkeHNKSER2WXdTWlhaZHY5VW5iX1dndms5SXF4VVNjdHI5MFJwZ2lsWDU2bE5h0gFiQVVfeXFMTzJ2SFhIMVFTeGpyMi02Uk5HRWQwZld3LXE2U1NTeVEwUkE2cFk2WXpOVi0xQ3YwRGlkSjJvazY4eTBDSGpDTjRNQVV3M0xvR1RhbjRmTDZ1cmswaC1hZlhmM1E?oc=5)
 
 ---
 

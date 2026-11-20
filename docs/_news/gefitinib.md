@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 9 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Gefitinib 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
+
+### [澳洲研究團隊開發經鼻吸入mRNA阿茲海默症療法，小鼠實驗證實可阻認知退化 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5)
+
+2026-11-19 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5)
+
+---
 
 ### [南山人壽：光靠幸福企業仍不夠 團險出現癌症保障缺口](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wWTFnMkJqY0tHTmYzaVotUXBJN1QwNENaMUsxVjRvb2VRWGNGY2E1QlFCMVY1ZWtNaEpJR3lybFhMeGFRNWEtWUpaZTVLOEVLWGQ0?oc=5)
 
