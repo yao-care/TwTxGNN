@@ -1,6 +1,6 @@
 {
-  "last_check": "2026-11-19T19:58:45.147164",
-  "data_hash": "2f87a5a81cb5e465f529af3ffc5da18ebc9de3fd3e1e09d5bb4f0d855c67817b",
+  "last_check": "2026-11-20T19:38:28.175669",
+  "data_hash": "3fb6366812b5dad4dfe04ef185ebfc3e4fad6099b0c9354df04536ba6bbdf62b",
   "drug_licenses": {
     "Acebutolol": [
       {
@@ -14829,7 +14829,7 @@
         "form": "軟膏劑",
         "indication": "濕疹或皮膚炎、急救、預防及減緩皮膚刀傷、刮傷、燙傷之感染",
         "manufacturers": [
-          "福元化學製藥股份有限公司"
+          "福元醫藥生技股份有限公司"
         ],
         "status": "有效（有效日期 2029/12/31）"
       },
@@ -19563,7 +19563,7 @@
         "manufacturers": [
           "SYMBIOTEC PHARMALAB LIMITED"
         ],
-        "status": "有效（有效日期 2026/07/11）"
+        "status": "有效（有效日期 2031/07/11）"
       },
       {
         "license_no": "衛署藥輸字第024487號",
@@ -20680,7 +20680,7 @@
         "manufacturers": [
           "RUSAN PHARMA LTD."
         ],
-        "status": "已註銷（日期不明）"
+        "status": "已註銷（2026/10/29）"
       },
       {
         "license_no": "衛部藥輸字第028483號",
@@ -32988,7 +32988,7 @@
         "manufacturers": [
           "中生生技製藥股份有限公司淡水廠"
         ],
-        "status": "有效（有效日期 2027/02/07）"
+        "status": "有效（有效日期 2032/02/07）"
       },
       {
         "license_no": "衛署藥輸字第000105號",
@@ -49906,7 +49906,7 @@
         "manufacturers": [
           "井田國際醫藥廠股份有限公司"
         ],
-        "status": "有效（有效日期 2027/02/15）"
+        "status": "有效（有效日期 2032/02/15）"
       },
       {
         "license_no": "衛署藥製字第035006號",
@@ -52733,7 +52733,7 @@
         "cn_name": "潤娃易利達184/22 mcg 乾粉吸入劑",
         "eng_name": "Relvar Ellipta 184/22 mcg Inhalation Powder",
         "form": "乾粉吸入劑",
-        "indication": "治療適合使用吸入型皮質類固醇及長效β2作用劑合併治療的18歲及以上氣喘患者",
+        "indication": "治療適合使用吸入型皮質類固醇及長效β2作用劑合併治療的18歲及以上氣喘病人。",
         "manufacturers": [
           "GLAXOSMITHKLINE LLC.",
           "裕利股份有限公司"
@@ -52830,7 +52830,7 @@
           "GLAXOSMITHKLINE LLC.",
           "裕利股份有限公司"
         ],
-        "status": "有效（有效日期 2027/02/07）"
+        "status": "有效（有效日期 2032/02/07）"
       },
       {
         "license_no": "衛部藥輸字第028479號",
@@ -78891,7 +78891,7 @@
         "manufacturers": [
           "中生生技製藥股份有限公司淡水廠"
         ],
-        "status": "有效（有效日期 2027/02/07）"
+        "status": "有效（有效日期 2032/02/07）"
       },
       {
         "license_no": "衛署藥製字第057245號",
@@ -81204,7 +81204,7 @@
         "manufacturers": [
           "SYMBIOTEC PHARMALAB LIMITED"
         ],
-        "status": "有效（有效日期 2026/06/15）"
+        "status": "有效（有效日期 2031/06/15）"
       },
       {
         "license_no": "衛部藥輸字第027618號",
@@ -85104,7 +85104,7 @@
         "manufacturers": [
           "永信藥品工業股份有限公司台中幼獅廠"
         ],
-        "status": "有效（有效日期 2027/03/27）"
+        "status": "有效（有效日期 2032/03/27）"
       },
       {
         "license_no": "衛署藥製字第048758號",
@@ -87520,7 +87520,6 @@
         "form": "膜衣錠",
         "indication": "治療正值急性轉化期(BLAST CRISIS)、加速期或經ALPHA-干擾素治療無效之慢性期的慢性骨髓性白血病(CML)患者。治療成年人無法手術切除或轉移的惡性胃腸道基質瘤。用於治療初診斷為慢性骨髓性白血病(CML)的病人。治療初診斷為費城染色體陽性急性淋巴性白血病（Ph+ ALL)且併用化療之成年及兒童患者。做為治療成人復發性或難治性費城染色體陽性急性淋巴性白血病(Ph+ ALL)之單一療法。治療患有與血小板衍生生長因子受體（PDGFR)基因重組相關之骨髓發育不全症候群(MDS)/骨髓增生性疾病(MPD)之成人患者。治療患有系統性肥大細胞增生症(SM)，限具FIP1L1-PDGFR基因變異且不具有c-Kit基因D816V突變之成人患者。治療嗜伊紅性白血球增加症候群(HES)與或慢性嗜伊紅性白血病(CEL)且有血小板衍生生長因子受體(PDGFR)基因重組之成人患者。作為成人KIT(CD 117)陽性胃腸道基質瘤完全切除（complete gross resection）後之術後輔助治療。治療患有無法手術切除、復發性或轉移性且有血小板衍生生長因子受體(PDGFR)基因重組之隆突性皮膚纖維肉瘤(DFSP)之成人患者。",
         "manufacturers": [
-          "NOVARTIS PHARMA PRODUKTIONS GMBH",
           "NOVARTIS PHARMA. AG",
           "Novartis Pharmaceutical Manufacturing LLC",
           "裕利股份有限公司"
@@ -87703,7 +87702,7 @@
         "manufacturers": [
           "SIGNA CIVAC, S.A. de C.V."
         ],
-        "status": "有效（有效日期 2025/06/19）"
+        "status": "已註銷（2026/11/02）"
       },
       {
         "license_no": "衛部藥輸字第027972號",
@@ -97792,7 +97791,7 @@
           "Daewon Pharm. Co., Ltd.",
           "嘉里醫藥物流股份有限公司"
         ],
-        "status": "有效（有效日期 2027/04/19）"
+        "status": "有效（有效日期 2032/04/19）"
       },
       {
         "license_no": "衛部藥輸字第027125號",
@@ -98815,6 +98814,17 @@
           "健喬信元醫藥生技股份有限公司健喬廠"
         ],
         "status": "有效（有效日期 2031/08/07）"
+      },
+      {
+        "license_no": "衛部藥製字第062417號",
+        "cn_name": "\"濟生\"樂癲平10毫克/毫升輸液",
+        "eng_name": "Ladnpine 10 mg/ml solution for infusion  \"CHI SHENG\"",
+        "form": "注射劑",
+        "indication": "1.四歲以上有或無次發性全身發作的局部癲癇發作病人的單一藥物治療。\n2.輔助治療以下症狀：\n四歲以上複雜性局部癲癇發作(complex partial seizure)與單純或複雜性局部發作之合併有次發性全身發作(simple or complex partial seizure with secondary generalization)癲癇病人。",
+        "manufacturers": [
+          "濟生醫藥生技股份有限公司"
+        ],
+        "status": "有效（有效日期 2031/09/18）"
       },
       {
         "license_no": "衛部藥輸字第026283號",
@@ -101815,7 +101825,7 @@
         "manufacturers": [
           "井田國際醫藥廠股份有限公司"
         ],
-        "status": "有效（有效日期 2027/01/20）"
+        "status": "有效（有效日期 2032/01/20）"
       },
       {
         "license_no": "衛署藥製字第035332號",
@@ -102253,7 +102263,7 @@
         "form": "乳膏劑",
         "indication": "與下列狀況有關的皮膚表面止痛：1.插針，如靜脈注射導管或抽血前。2.表皮外科處置。3.生殖器黏膜，如表皮外科處置前或浸潤麻醉前。",
         "manufacturers": [
-          "福元化學製藥股份有限公司"
+          "福元醫藥生技股份有限公司"
         ],
         "status": "有效（有效日期 2027/06/29）"
       },
@@ -104876,7 +104886,8 @@
         "form": "軟膏劑",
         "indication": "緩解因痔瘡所引起的疼痛、灼熱、搔癢、腫脹、痔出血。",
         "manufacturers": [
-          "AMATO PHARMACEUTICAL PRODUCTS LTD.FUKUCHIYAMA PLANT"
+          "AMATO PHARMACEUTICAL PRODUCTS LTD.",
+          "新竹物流股份有限公司"
         ],
         "status": "有效（有效日期 2028/07/09）"
       },
@@ -112494,7 +112505,7 @@
         "manufacturers": [
           "井田國際醫藥廠股份有限公司"
         ],
-        "status": "有效（有效日期 2027/02/25）"
+        "status": "有效（有效日期 2032/02/25）"
       },
       {
         "license_no": "衛署藥製字第035101號",
@@ -128545,7 +128556,7 @@
         "manufacturers": [
           "正和製藥股份有限公司新營廠"
         ],
-        "status": "有效（有效日期 2026/10/11）"
+        "status": "有效（有效日期 2031/10/11）"
       },
       {
         "license_no": "衛署藥製字第041360號",
@@ -132920,7 +132931,6 @@
         "manufacturers": [
           "KOWA COMPANY LTD.",
           "KOWA COMPANY LTD. NAGOYA FACTORY",
-          "ONODA  PLANT, NISSAN CHEMICAL CORPORATION",
           "台灣田邊製藥股份有限公司新竹廠"
         ],
         "status": "有效（有效日期 2028/02/25）"
@@ -144689,7 +144699,8 @@
         "form": "軟膏劑",
         "indication": "緩解因痔瘡所引起的疼痛、灼熱、搔癢、腫脹、痔出血。",
         "manufacturers": [
-          "AMATO PHARMACEUTICAL PRODUCTS LTD.FUKUCHIYAMA PLANT"
+          "AMATO PHARMACEUTICAL PRODUCTS LTD.",
+          "新竹物流股份有限公司"
         ],
         "status": "有效（有效日期 2028/07/09）"
       },
@@ -145848,7 +145859,8 @@
         "form": "軟膏劑",
         "indication": "緩解因痔瘡所引起的疼痛、灼熱、搔癢、腫脹、痔出血。",
         "manufacturers": [
-          "AMATO PHARMACEUTICAL PRODUCTS LTD.FUKUCHIYAMA PLANT"
+          "AMATO PHARMACEUTICAL PRODUCTS LTD.",
+          "新竹物流股份有限公司"
         ],
         "status": "有效（有效日期 2028/07/09）"
       },
@@ -146321,7 +146333,7 @@
         "form": "乳膏劑",
         "indication": "與下列狀況有關的皮膚表面止痛：1.插針，如靜脈注射導管或抽血前。2.表皮外科處置。3.生殖器黏膜，如表皮外科處置前或浸潤麻醉前。",
         "manufacturers": [
-          "福元化學製藥股份有限公司"
+          "福元醫藥生技股份有限公司"
         ],
         "status": "有效（有效日期 2027/06/29）"
       },
@@ -151763,7 +151775,8 @@
         "form": "持續性藥效膜衣錠",
         "indication": "治療帕金森氏症。",
         "manufacturers": [
-          "GLAXO WELLCOME, S.A."
+          "GLAXO WELLCOME, S.A.",
+          "裕利股份有限公司"
         ],
         "status": "有效（有效日期 2029/12/01）"
       },
@@ -185892,7 +185905,7 @@
         "form": "糖衣錠",
         "indication": "神經炎、多發性神經炎、腳氣病、維他命Ｂ１缺乏症",
         "manufacturers": [
-          "福元化學製藥股份有限公司"
+          "福元醫藥生技股份有限公司"
         ],
         "status": "有效（有效日期 2028/12/25）"
       },
@@ -213241,7 +213254,7 @@
         "manufacturers": [
           "TIANJIN TIANYAO PHARMACEUTICALS CO., LTD."
         ],
-        "status": "有效（有效日期 2026/12/04）"
+        "status": "有效（有效日期 2031/12/04）"
       },
       {
         "license_no": "衛署藥陸輸字第000579號",
@@ -221615,7 +221628,7 @@
         "manufacturers": [
           "ORION CORPORATION ORION PHARMA ESPOO PLANT"
         ],
-        "status": "有效（有效日期 2027/10/23）"
+        "status": "已註銷（日期不明）"
       },
       {
         "license_no": "衛署藥輸字第023573號",
@@ -221626,7 +221639,7 @@
         "manufacturers": [
           "ORION CORPORATION ORION PHARMA ESPOO PLANT"
         ],
-        "status": "有效（有效日期 2027/10/23）"
+        "status": "已註銷（日期不明）"
       },
       {
         "license_no": "衛部藥製字第060168號",
