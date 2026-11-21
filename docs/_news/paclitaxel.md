@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已...。預測適應症 2 個。"
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Paclitaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（33 則）
 
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
 
@@ -202,6 +202,14 @@ last_modified_at: 2026-11-20
 2026-11-16 <span class="news-indication-tag">心臟病</span> <span class="news-indication-tag">乳癌</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMinANBVV95cUxNbG1DY1d2N1lkZk1jMTNCeER5Wk1fM3pfcWNtSTFWSmRKdmZpNGxZLVlqSWJCTllwcnVsck5BWGhIV1Etd1RULTFYQnV3S2Fpbm5pR2FSNXZ2ckNhLWhyS1I3Unc1TzZPR3pQZU40VnlERC1UN3ZjYUx2cUxhXzJlLWRLZ3VETk16WkRpcFlEd1JsdTZLTWZlNDhmUWlmb2E5Z2tmYTFNNVk3dVg5OWtHV1F4enpuWjhIRUxsb3FLVkk3TnU5eUNpeDdERGljeFkyNTZEbnlCUU9MQXJsVmF0eWpHbjZoU3RYdm53UTBUeE16Y2hGa0RfRmJXWjl2Q2xLdG9udVluNlNicEt6V2kxRVR4ZTd6UWRPQ3l4LXktQmhlRFYwNm1HY09RWVN0SVVMcmR5MUg1dUd5RFhNbkRCZ2dLME9iWlhRNTdzZGVZMjRNQWstS0wwOV9XcEZfa3BVMFFPaDQtak90U29TdUJhbVlLWEM4TndOeFNUSUE1bHYzbFg0NFJKYkZyM2t4ZjFzRDVEOU8yRkdIN0VO?oc=5)
+
+---
+
+### [東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WUmhjdlFweURNdW1UNHo0MG9NazNlSEpYcGtBcW5LbzVabXlDYlB5ekV0TjJKWlUtOGhTZE51UUE2YW9kMEwxZklESlVueHdyWkFhTA?oc=5)
+
+2026-11-15 <span class="news-indication-tag">乳癌</span>
+
+來源: [東森新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WUmhjdlFweURNdW1UNHo0MG9NazNlSEpYcGtBcW5LbzVabXlDYlB5ekV0TjJKWlUtOGhTZE51UUE2YW9kMEwxZklESlVueHdyWkFhTA?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。7 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。8 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-21
 ---
 
 # 心血管 (cardiovascular) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>7 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>8 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 相關新聞（7 則）
+## 相關新聞（8 則）
+
+### [「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
+
+2026-11-21
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
+
+---
 
 ### [心臟科醫攜手名廚 倡導健康飲食預防心血管疾病](https://news.google.com/rss/articles/CBMiowJBVV95cUxNNFRoX1ptU0J1d0NYdFBOQ2VqR280Y3NvUTJjOG8xRnNlMl9ZRERGWjZLNXpRd0xBVEJhRUF4bGZ4aHFDN0JuREdMMEFYWjB4ajJSWTZUOTU3d2djdklWYXZkOHhldzdTQUFDbGZQSDJkRTU2Wk14bm0tUHVhX2d6WkJoMnBkSlJKRGF0d1VwQ3YzdTRuOVMweVNvT1kyZklFRjBtQUE3T0lxTld0TUtUdndWeXJVLWs3UGQ1bXJjRmJpVkpxY3NaTGx0aklORklaMUFEdlJsZlhYMXVPYWZTVXdOZDZ4aW9uOVBrRmVIdXd5bHBERnc5UnhyWklSX1B3NWRjVWw4bU1VNUh6aXhFN241TVV6X0E0VG0xc3QyaVpGOHM?oc=5)
 
