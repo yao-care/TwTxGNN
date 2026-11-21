@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carboplatin 的相關健康新聞報導。原適應症：卵巢癌。; 卵巢癌; 上皮性卵巢癌、肺部小細胞癌及頭頸部麟狀細胞癌、子宮頸癌。; 卯巢癌; 抗腫瘤藥。預測適應症 9 個。"
 permalink: /news/carboplatin/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # Carboplatin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Carboplatin 有什麼相關新聞？">
-<strong>Carboplatin</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Carboplatin</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/carboplatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（32 則）
 
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
 
@@ -185,6 +185,14 @@ last_modified_at: 2026-11-20
 2026-11-16 <span class="news-indication-tag">乳癌</span>
 
 來源: [明報健康網](https://news.google.com/rss/articles/CBMikAJBVV95cUxOSzY3UV84Wm9CUk9Zd3V5OTNiNmQ4YlhKUExMQnhXS3lHR0lhdUlHNUwzQUpIc0VldXd0LVBHUm9tYUkwNkZOdEh4bTlxM1dKTjBvWk5pRGdMMEdKQ2dkeHVLVFczNFhQUHRabFFBdUJCNUNjak9MSk9DWlE1VVRQeGpscEJjZWdIUGNFV09XMDBPM0owLU9BYWZuMWR1MFItZ0xwUWdOUld1NDNJWmh2OTBIMzdldENheEpCclNxbGFDd2ZnY2ZXaG54VnA4dE8yem1OQXdURWFEM3F2SFlJS2dOSWQzbmFOZ2lpNjJ0RUl2TlJaUXpiOHl1ZzdDNkthak9ZYVhfR3Q2RkZaOXBmcQ?oc=5)
+
+---
+
+### [73歲翁沒症狀竟罹直腸癌第3期！靠「1檢查」揪出異常 醫提醒別忽略](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jdWtRVkFKb1puTkZsVy1XdFVJWDJNUzhyNzI4a2FFMm9MNmJEaXp5Si1RWEV2eDh1dHFPc0ZXOVZnbng3TEc3eTNEbzFlT3kwMmZtV19n?oc=5)
+
+2026-11-16 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jdWtRVkFKb1puTkZsVy1XdFVJWDJNUzhyNzI4a2FFMm9MNmJEaXp5Si1RWEV2eDh1dHFPc0ZXOVZnbng3TEc3eTNEbzFlT3kwMmZtV19n?oc=5)
 
 ---
 
