@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 9 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-21
 ---
 
 # Salicylamide 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>17 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（17 則）
 
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 
@@ -105,6 +105,14 @@ last_modified_at: 2026-11-19
 2026-11-15 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
 來源: [台視新聞網](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LZlgtUk1WeEgzQU13RU9CYlN2QzFNRjBlSWk0YnItdHN0eHk0dlR3U0pQX0c1ZURUY1NzaVhCOHdnZGctc0ZEaVl0WnZWbkUwRGJvMFhqTQ?oc=5)
+
+---
+
+### [Custóias 感冒與流感預報 - The Weather Channel](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTbmo4Y3RxbDZrVTIxUjZxbmRNUlE2eGFlMFZqZjk0dnZLSzREUXA5WldzSW5yZ1JBT1JidWF0TDBCaEFyZFR5amNDbXF4bTNieWZOTjh6SXRvdkhVeTIySHlwdHdlR3pv?oc=5)
+
+2026-11-14 <span class="news-indication-tag">感冒</span>
+
+來源: [The Weather Channel](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTbmo4Y3RxbDZrVTIxUjZxbmRNUlE2eGFlMFZqZjk0dnZLSzREUXA5WldzSW5yZ1JBT1JidWF0TDBCaEFyZFR5amNDbXF4bTNieWZOTjh6SXRvdkhVeTIySHlwdHdlR3pv?oc=5)
 
 ---
 

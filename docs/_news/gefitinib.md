@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（30 則）
+
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘤</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
+
+---
+
+### [從精準醫療到整體修復： 癌症醫療的下一個方向 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">癌症</span>
+
+來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5)
+
+---
+
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
+
+來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
 
 ### [澳洲研究團隊開發經鼻吸入mRNA阿茲海默症療法，小鼠實驗證實可阻認知退化 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5)
 

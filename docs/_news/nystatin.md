@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Nystatin 的相關健康新聞報導。原適應症：抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道...。預測適應症 9 個。"
 permalink: /news/nystatin/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # Nystatin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Nystatin</strong> 目前有 <strong>4 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [腎癌｜發病率急升！50歲以下患者增12% 常末期才發現難活過5年認清4大症狀勿當拉傷更年期- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMi4ARBVV95cUxQY3ZnTDZCOUZrM2l3ZEl2dW9YaU5vU2VXSnRpWEljVGdNM3N5Q1JYbmd4Q2lERDhuMGJXc0FMSDI3b0tzaTBYLWV4clE0Z2dLa0NLRjcwdE9nZkhHc1RMV001SEdzcjM0aUlfLVVhdGstSHFCRXFJTWlQeHF6YkZ4bGI5MnRYTzl1X284NVdtMFhtWkhuQm13czFUZWszY3J5MF8xUF91Vklzd0w1WEs0V0NmY0h5bmVORER0a09WQ01URHlBbG5oZnBXWVp3Nmd5dnluZHJkVF9GcWlnMllhbUlOVkZMMHFGSm15Tk9LQjdmY2xJNGdyMG1fcjFVQW5PQUo3OVBDVHVGSjNQYk9KWW9TOUx1dWUzblgyamF5ODVOc1ozWEUtSGNaQ2h6ZEE3TEN0N2p4c0llNFpsT3RzalVwX05kV29aQlNTa3ZucFdXakI5SnBoQTEzN211aWYwdm1VYUJjSEI0RzQtSHBDckotUVJ4akx0QXRPNUI1Z3J3MXJZLU95SjMzRHZNN1BCLVVZNlk0RXZmeURybTFlSEV0b2dXZWdaSmlXanloYnJYVGNYaEJ5RGxvN2NyWWthWV9qMEtBcDZtMW4taHg4dF9NX0dUemJKc1BDd090SUU0bEFhRDdpVGVvcWI1U0VCdV9lbGxBQklMZTQ4elNQM0RRWllGRmtYMEdSdFBiRDVWQUJ2SjAzdWp5ZFh6SU54ajdIRXV5NnVRVkpaUW9RS241X1ZkLVlDdzZkU2VrZ1NNT0FHSUFEaTZOVk1XRGhHdW0yWEdEYkFjU2JDeG5KMw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腎癌</span> <span class="news-indication-tag">更年期</span>
+
+來源: [myTV SUPER](https://news.google.com/rss/articles/CBMi4ARBVV95cUxQY3ZnTDZCOUZrM2l3ZEl2dW9YaU5vU2VXSnRpWEljVGdNM3N5Q1JYbmd4Q2lERDhuMGJXc0FMSDI3b0tzaTBYLWV4clE0Z2dLa0NLRjcwdE9nZkhHc1RMV001SEdzcjM0aUlfLVVhdGstSHFCRXFJTWlQeHF6YkZ4bGI5MnRYTzl1X284NVdtMFhtWkhuQm13czFUZWszY3J5MF8xUF91Vklzd0w1WEs0V0NmY0h5bmVORER0a09WQ01URHlBbG5oZnBXWVp3Nmd5dnluZHJkVF9GcWlnMllhbUlOVkZMMHFGSm15Tk9LQjdmY2xJNGdyMG1fcjFVQW5PQUo3OVBDVHVGSjNQYk9KWW9TOUx1dWUzblgyamF5ODVOc1ozWEUtSGNaQ2h6ZEE3TEN0N2p4c0llNFpsT3RzalVwX05kV29aQlNTa3ZucFdXakI5SnBoQTEzN211aWYwdm1VYUJjSEI0RzQtSHBDckotUVJ4akx0QXRPNUI1Z3J3MXJZLU95SjMzRHZNN1BCLVVZNlk0RXZmeURybTFlSEV0b2dXZWdaSmlXanloYnJYVGNYaEJ5RGxvN2NyWWthWV9qMEtBcDZtMW4taHg4dF9NX0dUemJKc1BDd090SUU0bEFhRDdpVGVvcWI1U0VCdV9lbGxBQklMZTQ4elNQM0RRWllGRmtYMEdSdFBiRDVWQUJ2SjAzdWp5ZFh6SU54ajdIRXV5NnVRVkpaUW9RS241X1ZkLVlDdzZkU2VrZ1NNT0FHSUFEaTZOVk1XRGhHdW0yWEdEYkFjU2JDeG5KMw?oc=5)
+
+---
 
 ### [更年期少吃肚子也難消 營養師推食物保肌防復胖](https://news.google.com/rss/articles/CBMiREFVX3lxTE9oS2F6TUlmNmo0ZWZvS1EySWQzQjhfeG1JbldJQkJ2bmtjLVF2Y3dLc2FRdnEtX2VzemJ2RnMzVno2TWl4?oc=5)
 

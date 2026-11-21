@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Oteracil 的相關健康新聞報導。原適應症：胃癌用藥。預測適應症 9 個。"
 permalink: /news/oteracil/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-21
 ---
 
 # Oteracil 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Oteracil</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（30 則）
+
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘤</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
+
+---
+
+### [抗大腸癌兼抗發炎！最新研究揭：日吃1種營養素 5年存活率飆升17個百分點 - Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMi1wNBVV95cUxQRkdfUk1sMmtvN2lGQkdFalZYa2NFM05xSDgwclhpajZrV3JrZ0RBZjQwdVotaE9oWEdjT3ZxeHBJRnZKZGs2RHQ0bEV0QlYxMVRIREtSYmJzQktpb290ckoyT2tLeVJhOWhlU1JDYjFHV0NpZldSd1NoLTFuN3Vuci12Mm03Q3lFYzd1d3dfZkwwNVpmV0tTalBZWWtaV2tDaXpjcmFnUjM5S2plQ056Yjlra3p6MFdJelZBeGJZY0J5dktIMi1pWUhqVm9TSjIyVUFpLTFyY1F6ZlJUSU8wY1ZjRno3bDl3MVZIT3pfUjY3MDU3SDFPb3NCOHcycGVlUGFWd2lSZDJlTzFmZ0ZvaDZjN0JkU3ZUSXQ4V1IyaTB3R2Exd2t5QVk4eHFtdDNzdmVaS3BuVDEyamVZd2tqWUxKQ2tvbGlKTTdWUXZqWUZOM29FWDc0bVJUZnhlaTlJX2pwZTZaN1M5bG9KdENkSjBDcENwUlpVcG5tUjlsT1lfRTdIaXQxa2p6VHd0cDhZTkZXRlZtNWVVSDNEcUIzVHlSalV3SGdTR2VIRnJ3OElpcnFDLUVTaFNjRHRERXVsVU1PdXZDRS1SV3d3NHNvYlhKZGhEZHfSAZIBQVVfeXFMUFNDMGpOOFk3WG14OTBRRHZmVU5VRkttLVFweXdOOWRmbVk5Y2FvSHBPZUp3OVBMR25pdUdLanhUZzNnOEN0Z3R4c01jMVNUQkpYc09TUFVMZEVrX1o2S2hWVldWZmF6a0xXOWEtSnh6R24zREE1cGY2aHpJaVlfWmtDcDRVMUdfMURNZWd4SXZXTXc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMi1wNBVV95cUxQRkdfUk1sMmtvN2lGQkdFalZYa2NFM05xSDgwclhpajZrV3JrZ0RBZjQwdVotaE9oWEdjT3ZxeHBJRnZKZGs2RHQ0bEV0QlYxMVRIREtSYmJzQktpb290ckoyT2tLeVJhOWhlU1JDYjFHV0NpZldSd1NoLTFuN3Vuci12Mm03Q3lFYzd1d3dfZkwwNVpmV0tTalBZWWtaV2tDaXpjcmFnUjM5S2plQ056Yjlra3p6MFdJelZBeGJZY0J5dktIMi1pWUhqVm9TSjIyVUFpLTFyY1F6ZlJUSU8wY1ZjRno3bDl3MVZIT3pfUjY3MDU3SDFPb3NCOHcycGVlUGFWd2lSZDJlTzFmZ0ZvaDZjN0JkU3ZUSXQ4V1IyaTB3R2Exd2t5QVk4eHFtdDNzdmVaS3BuVDEyamVZd2tqWUxKQ2tvbGlKTTdWUXZqWUZOM29FWDc0bVJUZnhlaTlJX2pwZTZaN1M5bG9KdENkSjBDcENwUlpVcG5tUjlsT1lfRTdIaXQxa2p6VHd0cDhZTkZXRlZtNWVVSDNEcUIzVHlSalV3SGdTR2VIRnJ3OElpcnFDLUVTaFNjRHRERXVsVU1PdXZDRS1SV3d3NHNvYlhKZGhEZHfSAZIBQVVfeXFMUFNDMGpOOFk3WG14OTBRRHZmVU5VRkttLVFweXdOOWRmbVk5Y2FvSHBPZUp3OVBMR25pdUdLanhUZzNnOEN0Z3R4c01jMVNUQkpYc09TUFVMZEVrX1o2S2hWVldWZmF6a0xXOWEtSnh6R24zREE1cGY2aHpJaVlfWmtDcDRVMUdfMURNZWd4SXZXTXc?oc=5)
+
+---
+
+### [從精準醫療到整體修復： 癌症醫療的下一個方向 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">癌症</span>
+
+來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5)
+
+---
+
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
+
+來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
 
 ### [南山人壽：光靠幸福企業仍不夠 團險出現癌症保障缺口](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wWTFnMkJqY0tHTmYzaVotUXBJN1QwNENaMUsxVjRvb2VRWGNGY2E1QlFCMVY1ZWtNaEpJR3lybFhMeGFRNWEtWUpaZTVLOEVLWGQ0?oc=5)
 
@@ -145,6 +177,14 @@ last_modified_at: 2026-11-19
 2026-11-16 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iMUE5ODBIZnYtT3BlN0Ruby1SNjZlZHVPZmdEM2FXaklWZlFtU1dDQWhnUno1SzdRY0ZkLTdQZVpmU09rWWRSNG12SXdsZkxwVzBkQko2Z19WNkFoYi12WGtNYVEwZw?oc=5)
+
+---
+
+### [73歲翁沒症狀竟罹直腸癌第3期！靠「1檢查」揪出異常 醫提醒別忽略](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jdWtRVkFKb1puTkZsVy1XdFVJWDJNUzhyNzI4a2FFMm9MNmJEaXp5Si1RWEV2eDh1dHFPc0ZXOVZnbng3TEc3eTNEbzFlT3kwMmZtV19n?oc=5)
+
+2026-11-16 <span class="news-indication-tag">直腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jdWtRVkFKb1puTkZsVy1XdFVJWDJNUzhyNzI4a2FFMm9MNmJEaXp5Si1RWEV2eDh1dHFPc0ZXOVZnbng3TEc3eTNEbzFlT3kwMmZtV19n?oc=5)
 
 ---
 
