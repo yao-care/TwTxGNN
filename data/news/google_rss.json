@@ -1,17 +1,53 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-21T21:21:02.346509+00:00",
-  "count": 62,
+  "fetched_at": "2026-11-22T01:48:42.315186+00:00",
+  "count": 65,
   "news": [
     {
-      "id": "749f9b4bd525",
-      "title": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球 - UDN",
-      "published": "2026-11-18T06:29:00+00:00",
-      "summary": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球&nbsp;&nbsp;UDN到美國旅遊當心！麻疹疫情35年新高已6人死 升2級旅遊警示，2類人避免去&nbsp;&nbsp;Yahoo新聞美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國麻疹疫情創新高 台大醫：打1劑疫苗就有9成保護力&nbsp;&nbsp;ETtoday健康雲美國麻疹疫情升溫！台灣調旅遊警示至第二級 疾管署：2類人避前往&nbsp;&nbsp;鏡週刊Mirror Media",
+      "id": "a74fe5a9014e",
+      "title": "胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險 | 熱門話題 | 要聞 - 經濟日報",
+      "published": "2026-11-21T10:01:51+00:00",
+      "summary": "胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險&nbsp;&nbsp;經濟日報新版肥胖指引首提分期防治 醫籲量腰圍揪泡芙人|新創臺灣&nbsp;&nbsp;僑新聞減肥不該只看體重機 醫學界提肥胖治療新評估標準&nbsp;&nbsp;LIFE 生活網",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fTWxHb3hyb3Y2LWhicTV0OE5rbF9Uek1SX0FnWVFnVmo3a0h2Y2VrNHVrY05MVTZQTGc0Yy14YnZNZVNqeTFHLTJlbkdLb1gzNk9OQ2dFM1Q4djRXckhjckJRbTV1M2ZLcF80S1N6Y19zQ0E?oc=5"
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zNWVOSXdGTGlHNHlPal9EZk9QaXdzdUxqWlVRdUlneVpZYW1fME9ybHJPY2dndHFaR1dDemxKVEVzU2k5dW9KQ0xSMm9QaXFCM1hwMG52VldiZ0M5b0ZSb2ZUOTA4REdEb1I4RDBDYlJ2LWdsdWs0c0lMOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2506619cd62c",
+      "title": "21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發 - 三立新聞",
+      "published": "2026-11-22T01:01:29+00:00",
+      "summary": "21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b7df1d2f532",
+      "title": "心律調節器植入後還會心悸、喘？醫師提醒注意心臟功能變化- 書房 - 工商時報",
+      "published": "2026-11-21T23:44:00+00:00",
+      "summary": "心律調節器植入後還會心悸、喘？醫師提醒注意心臟功能變化- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41WjVJWkRsOVRSNWlYZl9oWjdmQkJhSXBqMjVqb00tRjh4Z0pYLVFiSnZ3MjdEc2ZTMWlxTGl4YzA2T1ZSdVpkVHBtRDRsVkkyLWhibHQ3V1pIeFlYUmQ4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7abfea88248d",
+      "title": "創35年新高！美國麻疹疫情延燒 痛失維持26年消除地位 | 民視新聞網 - LINE TODAY",
+      "published": "2026-11-17T23:04:52+00:00",
+      "summary": "創35年新高！美國麻疹疫情延燒 痛失維持26年消除地位 | 民視新聞網&nbsp;&nbsp;LINE TODAY到美國旅遊當心！麻疹疫情35年新高已6人死 升2級旅遊警示，2類人避免去&nbsp;&nbsp;Yahoo新聞美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國麻疹疫情創新高 台大醫：打1劑疫苗就有9成保護力&nbsp;&nbsp;ETtoday健康雲美國麻疹疫情升溫！台灣調旅遊警示至第二級 疾管署：2類人避前往&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRldZWVp0dk1lWDFwZW1iQWlSQW82TlRDUUtWSUtNc0dqSklvUVlPM0RMRUtjbi1hN2UwOHVQanlvTjJXT2FUaDhJaVgta3k2NUdzTkJBQ0YxdjIybW0zMGtGNnNKaFMtS2hERTdjWHY?oc=5"
         }
       ]
     },
@@ -28,18 +64,6 @@
       ]
     },
     {
-      "id": "a74fe5a9014e",
-      "title": "胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險 | 熱門話題 | 要聞 - 經濟日報",
-      "published": "2026-11-21T10:01:51+00:00",
-      "summary": "胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險&nbsp;&nbsp;經濟日報新版肥胖指引首提分期防治 醫籲量腰圍揪泡芙人|新創臺灣&nbsp;&nbsp;僑新聞減肥不該只看體重機 醫學界提肥胖治療新評估標準&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zNWVOSXdGTGlHNHlPal9EZk9QaXdzdUxqWlVRdUlneVpZYW1fME9ybHJPY2dndHFaR1dDemxKVEVzU2k5dW9KQ0xSMm9QaXFCM1hwMG52VldiZ0M5b0ZSb2ZUOTA4REdEb1I4RDBDYlJ2LWdsdWs0c0lMOA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c04954d1353a",
       "title": "73歲翁沒症狀竟罹直腸癌第3期！靠「1檢查」揪出異常 醫提醒別忽略 - 健康醫療網",
       "published": "2026-11-16T07:00:00+00:00",
@@ -48,18 +72,6 @@
         {
           "name": "健康醫療網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jdWtRVkFKb1puTkZsVy1XdFVJWDJNUzhyNzI4a2FFMm9MNmJEaXp5Si1RWEV2eDh1dHFPc0ZXOVZnbng3TEc3eTNEbzFlT3kwMmZtV19n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1976f83db26c",
-      "title": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報",
-      "published": "2026-11-20T16:00:39+00:00",
-      "summary": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關&nbsp;&nbsp;TechNews 科技新報",
-      "sources": [
-        {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5"
         }
       ]
     },
@@ -76,14 +88,14 @@
       ]
     },
     {
-      "id": "dcb930fd5017",
-      "title": "「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際 - 工商時報",
-      "published": "2026-11-21T00:34:00+00:00",
-      "summary": "「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際&nbsp;&nbsp;工商時報",
+      "id": "1976f83db26c",
+      "title": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報",
+      "published": "2026-11-20T16:00:39+00:00",
+      "summary": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "工商時報",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5"
         }
       ]
     },
@@ -100,18 +112,6 @@
       ]
     },
     {
-      "id": "9133ec939f74",
-      "title": "從精準醫療到整體修復： 癌症醫療的下一個方向 - 報新聞 Mega News",
-      "published": "2026-11-20T03:00:15+00:00",
-      "summary": "從精準醫療到整體修復： 癌症醫療的下一個方向&nbsp;&nbsp;報新聞 Mega News",
-      "sources": [
-        {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3f29e6b9fa56",
       "title": "換季疲倦低落必看：營養師揭「維他命D什麼時候吃最有效」？黃金補充期到女性荷爾蒙加乘吃法全收錄 - Vogue Taiwan",
       "published": "2026-11-17T09:11:09+00:00",
@@ -120,6 +120,42 @@
         {
           "name": "Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDBvQ2tDYTE5RE9RYTZjUVJaX1ZiYnRLWld2R3hRRUtXTTdLZE9vRmR3V2tDUlZlZGlUWFBLLW5oNk1PLU1oRGdoRS1SRTZJZUQwS3RaSGlzYUNYUmNyTUN0MXpEVVJuei1tQ2w0dlFiTC1FUHBZMHFPeDRyWmVpRWZfN2U0S3VqVVZ3NGtlUjVBek9k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dcb930fd5017",
+      "title": "「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際 - 工商時報",
+      "published": "2026-11-21T00:34:00+00:00",
+      "summary": "「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ed9f2351646",
+      "title": "從精準醫療到整體修復： 癌症醫療的下一個方向 - 行銷人",
+      "published": "2026-11-20T03:32:32+00:00",
+      "summary": "從精準醫療到整體修復： 癌症醫療的下一個方向&nbsp;&nbsp;行銷人",
+      "sources": [
+        {
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQNVM3elJCWER4S2dhdzJTZHFYekFaTVNERzBUdzRlRVRoZnE2UV9BbUJvNVpLVWNab19mYWpNdUgwRERQSHBJa2dlZ0dUd3J5V0c2NU43SFpoRTllQU83bDFOUXVVc09FSHd1QTE1NjNQME5UTDYzNUUySnpPU291ZHZMTWw1SzYzbnNPWkh3bFJ0NHhyTjRIelg4SVVCUnU1TUxUVkhWRFpyWHUxenZwUlhzTC1kN0RDdmE0bC1ONk5OdHBVVExCb3Zrc0lzY3BHUXQwcGViVV9QMDlHS2xPLTRxZlRoekt1T1djUmtKTGt1NWdRV0tpTE04eVlpdGhGRXB3RWpnVFFMU1NMS1dIblBVbnRTWUZXekxOZlg0Q3lBSFBmc0doTFV2TE95Wk81aUtCdmNnOU9fT2dyOTQ2QnRyZjZBbGQwTWRyRHdScWNFd1hWX2VoOEp4LVU1Z0VtRDVNaGNsMXBYOUJBT2w3TW1hZGNqQ09qTEI4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5412ea42c810",
+      "title": "性傳染病年輕化! 20至24歲感染人數最多 - Yahoo新聞",
+      "published": "2026-11-20T10:58:03+00:00",
+      "summary": "性傳染病年輕化! 20至24歲感染人數最多&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOTBBcElFTEhVTnVqZ0JLSnU4ZmhQdUZHNWlWNkpPV01Hb0dmOUVaUWZwQkVJWHlYaUppSkRMcDFsNVZwZEZWTC02blhybmpFNEFRd0c0dDQ5OGtoaDBpQkkxamRJQXQwcHJxUExJVWZYWDBBTFZJT2czWndYZ1RJZmpjOUtfSVJxWnF5ZVVaRzB4UUtodlllRjlWX2U4VGs4OUtVdFl3d09hV1hZcWJpTl96MU1BNjU0Yk1iZFJlNHNmUEJvOUJSeGdtZXpzUktFOHBhY3FBMnkzZ182XzZGeFJaZFlXZkMyRExybHljRlAtZWtoUUZnUV9SNmlUYUQyMlVmN2o1WTNNZDIwNWc?oc=5"
         }
       ]
     },
@@ -184,18 +220,6 @@
       ]
     },
     {
-      "id": "6ff053e66d51",
-      "title": "同樣富含Omega-3 動植物油的抗發炎效果差別大 - Mobile01",
-      "published": "2026-11-20T13:08:37+00:00",
-      "summary": "同樣富含Omega-3 動植物油的抗發炎效果差別大&nbsp;&nbsp;Mobile01",
-      "sources": [
-        {
-          "name": "Mobile01",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZ253ajR5aVNVdV9hYlVDbmstRWdnbnZVLWhVVXdadkVPaHJRUWplaGhIZ01wOUh1OTdNdUFlaTlNTlZUWXh4RWFzYzg2bGNnWDlaWVNhUG12VWw0aV9Eb0pxS0hLWFE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3d0e75593dab",
       "title": "光靠幸福企業仍不夠團險出現癌症保障缺口2025年癌症理賠申請人逾九成為40歲以上- 金融 - 工商時報",
       "published": "2026-11-18T04:50:00+00:00",
@@ -220,14 +244,14 @@
       ]
     },
     {
-      "id": "a7a8195cbf1f",
-      "title": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 - TechNews 科技新報",
-      "published": "2026-11-17T00:06:10+00:00",
-      "summary": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "6ff053e66d51",
+      "title": "同樣富含Omega-3 動植物油的抗發炎效果差別大 - Mobile01",
+      "published": "2026-11-20T13:08:37+00:00",
+      "summary": "同樣富含Omega-3 動植物油的抗發炎效果差別大&nbsp;&nbsp;Mobile01",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN3lhekY3NTVyaXpJczEzSmN3ZjBWS3VMNXBvbHA3dk9tN3A1SGxOX29RalZ0TWM2Wjd0UU1SVENKQWdjM29VQ01rZnF2QkFsUzRjazFxSnZBQm5TRTczb1p5aEFBbVd0dFNtUXZaaVhIck92YU1zMUxFZG95OXlWbDc0R0dKamJ6NlJ2WmxqQWw2SVFUejZnSnJsTTM0eTJOWHZHbXVCLWF1ckJkTFhYbU1xNDlHRjhDZ01vYmp2WGtRQU9lbnBhRGlDWmxqUmtGZDk5Z0lmNXhuaGUyb3MzTQ?oc=5"
+          "name": "Mobile01",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZ253ajR5aVNVdV9hYlVDbmstRWdnbnZVLWhVVXdadkVPaHJRUWplaGhIZ01wOUh1OTdNdUFlaTlNTlZUWXh4RWFzYzg2bGNnWDlaWVNhUG12VWw0aV9Eb0pxS0hLWFE?oc=5"
         }
       ]
     },
@@ -240,6 +264,18 @@
         {
           "name": "Yahoo新聞",
           "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQUERZU244dllmOGhYT094NmFuUXJZaEhMUGJnc0RfM2lsMkV1NndrNHlrM1dqanI4eGJzZnJMNFBlZHE5TFFjM3JTTFotQ3MtSV9uU01EaTFKQXFSSkJGMVJDVWhuZVdfa2RmSUcydWJLVW9zU2NpNDZlU1dMcEhUckhNY2tNUWV3djcyRkxiY3FkRnpyYk5aNURtSHJ6dEI1bElKYkZJXzlDc3RlMDhEV2Q2RmNQX0F2RzJkVG9HdDJXdXJrSmFtNWJZQU1qMVFiTGJMa2pmUkVjZFl0bWdVTkpZWVlMVkVFdUtiNFdNcDVhS0ZPYm02ZENqSEVUeDhVclVoUk8wRzc1NXRUZHlsMURHUlBUQ1p2Zms3TUdtbW1Zcnlfa0FTZWh4aU5ON2dDXzBENkd0LXRvcG42?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a7a8195cbf1f",
+      "title": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 - TechNews 科技新報",
+      "published": "2026-11-17T00:06:10+00:00",
+      "summary": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN3lhekY3NTVyaXpJczEzSmN3ZjBWS3VMNXBvbHA3dk9tN3A1SGxOX29RalZ0TWM2Wjd0UU1SVENKQWdjM29VQ01rZnF2QkFsUzRjazFxSnZBQm5TRTczb1p5aEFBbVd0dFNtUXZaaVhIck92YU1zMUxFZG95OXlWbDc0R0dKamJ6NlJ2WmxqQWw2SVFUejZnSnJsTTM0eTJOWHZHbXVCLWF1ckJkTFhYbU1xNDlHRjhDZ01vYmp2WGtRQU9lbnBhRGlDWmxqUmtGZDk5Z0lmNXhuaGUyb3MzTQ?oc=5"
         }
       ]
     },
@@ -376,18 +412,6 @@
       ]
     },
     {
-      "id": "ced4cdb77cc0",
-      "title": "18歲少女私密處痛半個月 一查竟同時中18種HPV - 中時新聞網",
-      "published": "2026-11-20T06:47:30+00:00",
-      "summary": "18歲少女私密處痛半個月 一查竟同時中18種HPV&nbsp;&nbsp;中時新聞網",
-      "sources": [
-        {
-          "name": "中時新聞網",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Rb0dGTTVvaFlpMWEtZnBOUzZCcWpxX0FQdGhOUkF5eVUzdTVsNnpsbUU1Mkl1cnQ2TGIxd0tZZWhxRDY4VDA3UGRuVnNVWTV3MVFBQno4am45dUVFQjFnNU84WFdkdEJCM2ZPc0lR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d409dad27227",
       "title": "遠古病毒「關閉」黑猩猩關鍵基因，意外成就人類複雜大腦 - TechNews 科技新報",
       "published": "2026-11-15T07:02:24+00:00",
@@ -424,14 +448,14 @@
       ]
     },
     {
-      "id": "84f404a1b631",
-      "title": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報 - LINE TODAY",
-      "published": "2026-11-15T08:50:07+00:00",
-      "summary": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "ced4cdb77cc0",
+      "title": "18歲少女私密處痛半個月 一查竟同時中18種HPV - 中時新聞網",
+      "published": "2026-11-20T06:47:30+00:00",
+      "summary": "18歲少女私密處痛半個月 一查竟同時中18種HPV&nbsp;&nbsp;中時新聞網",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yRVpka2FtMTRMVlEzUC14c0lVblNqYjQya2piT1ZqSG9nWWtfVUtJWk9HOGlCRGlGWXRkcFAwNWhHT1dwVGJqdmx1YWJhZ211bmxBR29R?oc=5"
+          "name": "中時新聞網",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Rb0dGTTVvaFlpMWEtZnBOUzZCcWpxX0FQdGhOUkF5eVUzdTVsNnpsbUU1Mkl1cnQ2TGIxd0tZZWhxRDY4VDA3UGRuVnNVWTV3MVFBQno4am45dUVFQjFnNU84WFdkdEJCM2ZPc0lR?oc=5"
         }
       ]
     },
@@ -484,18 +508,6 @@
       ]
     },
     {
-      "id": "512bb622af18",
-      "title": "衛生醫療-成人是否會感染腸病毒？ - 桃園市政府",
-      "published": "2026-11-19T05:24:51+00:00",
-      "summary": "衛生醫療-成人是否會感染腸病毒？&nbsp;&nbsp;桃園市政府",
-      "sources": [
-        {
-          "name": "桃園市政府",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RV2FuU1pPMkxRMEZGU3RGekNwekFnbWR1WFJBaWd4bDVxMzFoMmhESzJ6Y3M3dVpRMGQyZ3pBeXJGbjdYZlNLc1ViVHNtV25iMGJsT1UzZVFEelotc1lhRjY2c0Rhenc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6cee7b895207",
       "title": "巴西研究： 特殊蚊子有效抵禦登革熱及屈公病 - 巴士的報",
       "published": "2026-11-21T14:00:07+00:00",
@@ -534,7 +546,7 @@
     {
       "id": "f1a1d1873eff",
       "title": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽 - 香港01",
-      "published": "2026-11-20T13:00:12+00:00",
+      "published": "2026-11-21T18:57:28+00:00",
       "summary": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽&nbsp;&nbsp;香港01",
       "sources": [
         {
@@ -546,7 +558,7 @@
     {
       "id": "0da83f7ca439",
       "title": "腎癌｜發病率急升！50歲以下患者增12% 常末期才發現難活過5年認清4大症狀勿當拉傷更年期- 東張+ - myTV SUPER",
-      "published": "2026-11-20T02:31:31+00:00",
+      "published": "2026-11-20T02:15:00+00:00",
       "summary": "腎癌｜發病率急升！50歲以下患者增12% 常末期才發現難活過5年認清4大症狀勿當拉傷更年期- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
@@ -580,6 +592,18 @@
       ]
     },
     {
+      "id": "84f404a1b631",
+      "title": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報 - LINE TODAY",
+      "published": "2026-11-15T08:50:07+00:00",
+      "summary": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yRVpka2FtMTRMVlEzUC14c0lVblNqYjQya2piT1ZqSG9nWWtfVUtJWk9HOGlCRGlGWXRkcFAwNWhHT1dwVGJqdmx1YWJhZ211bmxBR29R?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7f07e2a7f45b",
       "title": "23歲網紅峇里島度假突劇烈頭痛 確診腦膜炎 兩度入住ICU - 世界新聞網",
       "published": "2026-11-18T01:36:23+00:00",
@@ -604,18 +628,6 @@
       ]
     },
     {
-      "id": "23dea795b4f5",
-      "title": "南加女突然倒下、無法走路 禍首竟是小小的牠 - 世界新聞網",
-      "published": "2026-11-14T21:35:34+00:00",
-      "summary": "南加女突然倒下、無法走路 禍首竟是小小的牠&nbsp;&nbsp;世界新聞網",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtckQtaGZsZEpldEpMX25ZZkZMYzY3Qk9paFVkNndhVFcwZUJiVXRMR09XUTl1WVhxSjMyLTFTNlNqMF9QYlVTLTlONEJpeEh2dXJoYVRROTB4WlJBUjRaRzF30gFnQVVfeXFMTU5zZW1pVFZnd1NrVGFLVUZ3VWVRQVU2VTZaaFlIbkNXZlhsVmRfelRlMWp5LUVwR1FEQWdWVmRRcVBXSHJwS0hmbC02NXRUNFAtNGV3LWhQNi16Q1c4U0tGcDhteFdnaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6ce31ea29b3e",
       "title": "韓國研究團隊解開漸凍症與失智症神經細胞死亡路徑，抗氧化蛋白成關鍵 - BigGo 財經",
       "published": "2026-11-18T04:25:00+00:00",
@@ -636,6 +648,18 @@
         {
           "name": "LINE TODAY",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uV2wteXBPLUw5SW1yY3c3VlV3UHFEbzYxY0hPMDVieFJZUG5FTm9ERGM5Z1dHQ004ZmFacUoyTUJsNkFkY3A3VlBpR2pLSUdmYnJ0ajdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fad80b8661a0",
+      "title": "利與弊 你對長期服用抗抑鬱藥有了解嗎？ - 大紀元",
+      "published": "2026-11-17T20:55:00+00:00",
+      "summary": "利與弊 你對長期服用抗抑鬱藥有了解嗎？&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jcm1mTWgySTFfa1pXZDZ4VlB5b216YV9xcndMa0xENjJCWUZCMXFwSklaMFBINUNaLURpazhiRmRlWjZ4MkNVQjNYbDRsMnVVMVhRSW5oUjRhZXlNRGhCTtIBZkFVX3lxTE12TW5ueVpyUTJ3VERuRGV4X1JxQ0tjaDlHV3lEZVpxRXhOdDd5UDNuOGM0TUtQLTlWdkRwSkQ0NUJ2REl3XzVKQ1Zwb0xKS0FtaXN1aTRIUWo1ZWRPQWNoc21BWE1oZw?oc=5"
         }
       ]
     },
@@ -708,6 +732,18 @@
         {
           "name": "香港01",
           "link": "https://news.google.com/rss/articles/CBMitgNBVV95cUxPb3BBcWpzSzRkeTdEdHN2ZTNLWVFwSW1nRTc0VE1JdHl0b2ZiQzJpR25NWk1tN3hOT3ZtcTVzYnNkX1R2bURLZDIxNHBUZ0tiZGlxOGFaeWdMVFJyd0VrMVJqNVZmQkNiRVRDSW1OVzE4RlQ0UDE1QnQwd0p6Zm05b19zMXVfZXlMTWd1Zm5EXzQ2b20xSDhQNXB6RVhubzVCbnRqRE5XYzJLeEl3eUN0Q1J5ZFNmWWNKSzJsaTJKbmdNSGZSNmZraldtb2lQUERfYm5oRU9aRkstaFJWVm1WSTdPSGJEdmJEcTAyMmlfYms0TjdMaVZXVUFtdklRWGdvZTFRRzliWFBCbUxzOU9tLW5aVWxvRlgyRVo3ZkVqa3d1c2lPTldDRktGczBaeXA2MXRMMTE1azNRWlJqeFF6WW1WalRUcTlBblYzRHVSUWZ1QW45bWtyeWtockNwdGF2TzFjM3pBSDlpN3RjaEs4YzdXeXJHZXhwdGFTWEQ0WmZ0WEhhOXEtRjRRQl81XzN5dmtjNG9FMnpGQTA2YzdNenRQZWFqZGFLMGRRdm8yQWp2clpsVGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b9f420d2860c",
+      "title": "多囊性腎病 ──── 腎衰竭第4大元兇¹ 早期可無明顯症狀 子女有50%機會遺傳¹ - 香港經濟日報HKET",
+      "published": "2026-11-16T02:30:00+00:00",
+      "summary": "多囊性腎病 ──── 腎衰竭第4大元兇¹ 早期可無明顯症狀 子女有50%機會遺傳¹&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQT1NJVDhIdXNRRlRuamJ3a2FuTnIwTVRpRnZDdFNOaFB4WGdNN21RdHgtU0xCTXdSOFF0V2ZwazlzeDRjNGFYRW02MktjNEJIMnlFbElYQ0FRQTliZUs0RXpSRExvcUZOZU9uM3lWUmFWT3dXTVE3NEtOWTgwSHB1SjRNOHprMVRrNDdMak1zN1JROWFQemcyT1E1Qk1CcW1kNk1UQ3lrOEQxdWJYUDZEbEN4OGVOZ19UaXJfc0RCWnlvTnpCcDFSQ3RvWWY0bER4X09mbl8tMkRZUHZLTUdFcTBFaWpPTnFlSUhRQnA1TlExWk5LbnRRNVhvcjVHSXZ3T0VjVkZOSzNJcURqVmowOFNEeU1QUzJvd3gwS3Y4N19xTFEzaGNIYjktNEpaeEUtN0hYRXFEb0xfZXFEUldRVDhDWWxIV3FYQldVZzVSOU5rRkFpRG5HZWlPUlhZODYwSERLM0c5M1k0Uk9EN3BEU2huTnpLMlNnR21kRXB2MWpuT0xIYXFQbGRXZmNTN0VZSklzVV9KSFV6LXdNbWNUa3h3alM2WkdXNFdOdXFZQmNwYnAtQXVhaE45TEJFNXdpaFN1ek5DYTJ2RjJHZW1ScDJlanJSYk9vdFN4ZXBZNmFILUc1c21QV19fTXhTLThneW9zOXVmMVkwajVZcnRZOFNwbkhYRGM?oc=5"
         }
       ]
     },

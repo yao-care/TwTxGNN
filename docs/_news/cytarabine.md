@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cytarabine 的相關健康新聞報導。原適應症：急性顆粒白血病及其他急性白血病（衛署藥輸字第001879號）；抗腫瘤劑（衛署藥輸字第025603號、...。預測適應症 9 個。"
 permalink: /news/cytarabine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # Cytarabine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="Cytarabine 有什麼相關新聞？">
-<strong>Cytarabine</strong> 目前有 <strong>24 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Cytarabine</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/cytarabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（25 則）
 
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
 
 2026-11-20 <span class="news-indication-tag">腫瘤</span>
 
 來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
+
+---
+
+### [從精準醫療到整體修復： 癌症醫療的下一個方向](https://news.google.com/rss/articles/CBMi-wJBVV95cUxQNVM3elJCWER4S2dhdzJTZHFYekFaTVNERzBUdzRlRVRoZnE2UV9BbUJvNVpLVWNab19mYWpNdUgwRERQSHBJa2dlZ0dUd3J5V0c2NU43SFpoRTllQU83bDFOUXVVc09FSHd1QTE1NjNQME5UTDYzNUUySnpPU291ZHZMTWw1SzYzbnNPWkh3bFJ0NHhyTjRIelg4SVVCUnU1TUxUVkhWRFpyWHUxenZwUlhzTC1kN0RDdmE0bC1ONk5OdHBVVExCb3Zrc0lzY3BHUXQwcGViVV9QMDlHS2xPLTRxZlRoekt1T1djUmtKTGt1NWdRV0tpTE04eVlpdGhGRXB3RWpnVFFMU1NMS1dIblBVbnRTWUZXekxOZlg0Q3lBSFBmc0doTFV2TE95Wk81aUtCdmNnOU9fT2dyOTQ2QnRyZjZBbGQwTWRyRHdScWNFd1hWX2VoOEp4LVU1Z0VtRDVNaGNsMXBYOUJBT2w3TW1hZGNqQ09qTEI4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">癌症</span>
+
+來源: [行銷人](https://news.google.com/rss/articles/CBMi-wJBVV95cUxQNVM3elJCWER4S2dhdzJTZHFYekFaTVNERzBUdzRlRVRoZnE2UV9BbUJvNVpLVWNab19mYWpNdUgwRERQSHBJa2dlZ0dUd3J5V0c2NU43SFpoRTllQU83bDFOUXVVc09FSHd1QTE1NjNQME5UTDYzNUUySnpPU291ZHZMTWw1SzYzbnNPWkh3bFJ0NHhyTjRIelg4SVVCUnU1TUxUVkhWRFpyWHUxenZwUlhzTC1kN0RDdmE0bC1ONk5OdHBVVExCb3Zrc0lzY3BHUXQwcGViVV9QMDlHS2xPLTRxZlRoekt1T1djUmtKTGt1NWdRV0tpTE04eVlpdGhGRXB3RWpnVFFMU1NMS1dIblBVbnRTWUZXekxOZlg0Q3lBSFBmc0doTFV2TE95Wk81aUtCdmNnOU9fT2dyOTQ2QnRyZjZBbGQwTWRyRHdScWNFd1hWX2VoOEp4LVU1Z0VtRDVNaGNsMXBYOUJBT2w3TW1hZGNqQ09qTEI4?oc=5)
 
 ---
 

@@ -1,8 +1,70 @@
 {
-  "last_updated": "2026-11-21T21:21:05.499661+00:00",
-  "total_count": 126,
-  "matched_count": 89,
+  "last_updated": "2026-11-22T01:48:44.874885+00:00",
+  "total_count": 130,
+  "matched_count": 91,
   "news": [
+    {
+      "id": "2506619cd62c",
+      "title": "21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發",
+      "published": "2026-11-22T01:01:29+00:00",
+      "summary": "21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發&nbsp;&nbsp;三立新聞",
+      "sources": [
+        {
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "胃癌",
+          "keyword": "胃癌",
+          "related_drugs": [
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "trastuzumab_deruxtecan",
+              "name": "Trastuzumab deruxtecan",
+              "url": "/drugs/trastuzumab-deruxtecan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b7df1d2f532",
+      "title": "心律調節器植入後還會心悸、喘？醫師提醒注意心臟功能變化- 書房",
+      "published": "2026-11-21T23:44:00+00:00",
+      "summary": "心律調節器植入後還會心悸、喘？醫師提醒注意心臟功能變化- 書房&nbsp;&nbsp;工商時報",
+      "sources": [
+        {
+          "name": "工商時報",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41WjVJWkRsOVRSNWlYZl9oWjdmQkJhSXBqMjVqb00tRjh4Z0pYLVFiSnZ3MjdEc2ZTMWlxTGl4YzA2T1ZSdVpkVHBtRDRsVkkyLWhibHQ3V1pIeFlYUmQ4?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f1a1d1873eff",
+      "title": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽",
+      "published": "2026-11-21T18:57:28+00:00",
+      "summary": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQbE1pR21vRC1ETDFROHBBYWtfX0s4c0E2ZFNSS0RVeWlUZXdHblo0a0oyNUpRUV9qMU9aTkp5bWE1bjBDc0FEZ2oxWmlFb29QY2NuWERHQmRPbmdCbm1yeVIwcWNoUnNnWWNfOW5NbS04WkJNdXF0SFp0ZjJoN1FjaFNjVU9OVmhtV09ZX3RSWUgyY21WT3FpRFlmRlQyTVVKVUt1R29RQlE0Sm91V0xUSVJxa1JpYjA2REp4OFZzeXJuOXJiZ29IUjRieW02WHloekVpQ054eDdPTS10S2xjWE04WHBIZWJYWUtSUFh6SE1LNkZHcDkySUNYU25yYXM1ZDh5bVRUQzM4UnV2Rl83d0FfTzNuSzRyb3hnMTR6RG5YV2Y3MV9tcUhvdi16NUxRakNYaWw2SllIYmZ1WEpIRFNDaDhKSVQ3Z0tHc3dDZkpCT1ZDNVFmYk8tX0lEUEMyU1hrcGJmNTRVNUJJdm9WckhYaG84TjZhQ2tnUGZQcEc4TG9DX1ZpTk14MVhkRUU4NmtRcENLaHF2VERBVmJMTEE4RHViY3pvVm16ZXhMMGRUemZqSW9iSFpGUzZ2anM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "21a5788e3430",
       "title": "280 萬人基因分析揭阿茲海默症新線索，48 個風險區域首度現身 - TechNews 科技新報",
@@ -46,7 +108,7 @@
       "id": "a74fe5a9014e",
       "title": "胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險 | 熱門話題 | 要聞",
       "published": "2026-11-21T10:01:51+00:00",
-      "summary": "胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險&nbsp;&nbsp;經濟日報新版肥胖指引首提分期防治 醫籲量腰圍揪泡芙人|新創臺灣&nbsp;&nbsp;僑新聞減肥不該只看體重機 醫學界提肥胖治療新評估標準&nbsp;&nbsp;商傳媒",
+      "summary": "胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險 | 熱門話題 | 要聞&nbsp;&nbsp;經濟日報胖在肚子比胖在大腿更危險？研究揭腰圍增加10公分的死亡風險&nbsp;&nbsp;經濟日報新版肥胖指引首提分期防治 醫籲量腰圍揪泡芙人|新創臺灣&nbsp;&nbsp;僑新聞減肥不該只看體重機 醫學界提肥胖治療新評估標準&nbsp;&nbsp;LIFE 生活網",
       "sources": [
         {
           "name": "經濟日報",
@@ -377,19 +439,6 @@
       "matched_keywords": []
     },
     {
-      "id": "f1a1d1873eff",
-      "title": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽",
-      "published": "2026-11-20T13:00:12+00:00",
-      "summary": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQbE1pR21vRC1ETDFROHBBYWtfX0s4c0E2ZFNSS0RVeWlUZXdHblo0a0oyNUpRUV9qMU9aTkp5bWE1bjBDc0FEZ2oxWmlFb29QY2NuWERHQmRPbmdCbm1yeVIwcWNoUnNnWWNfOW5NbS04WkJNdXF0SFp0ZjJoN1FjaFNjVU9OVmhtV09ZX3RSWUgyY21WT3FpRFlmRlQyTVVKVUt1R29RQlE0Sm91V0xUSVJxa1JpYjA2REp4OFZzeXJuOXJiZ29IUjRieW02WHloekVpQ054eDdPTS10S2xjWE04WHBIZWJYWUtSUFh6SE1LNkZHcDkySUNYU25yYXM1ZDh5bVRUQzM4UnV2Rl83d0FfTzNuSzRyb3hnMTR6RG5YV2Y3MV9tcUhvdi16NUxRakNYaWw2SllIYmZ1WEpIRFNDaDhKSVQ3Z0tHc3dDZkpCT1ZDNVFmYk8tX0lEUEMyU1hrcGJmNTRVNUJJdm9WckhYaG84TjZhQ2tnUGZQcEc4TG9DX1ZpTk14MVhkRUU4NmtRcENLaHF2VERBVmJMTEE4RHViY3pvVm16ZXhMMGRUemZqSW9iSFpGUzZ2anM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0ea2aa0197a7",
       "title": "紐約市流感病例持續攀升 衛生局籲節日前接種疫苗",
       "published": "2026-11-20T11:00:00+00:00",
@@ -398,6 +447,19 @@
         {
           "name": "Singtaousa",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51QUFsZzA3WEJjQmlaRDMzSHBLVGZQN2JIYzNNMnFoaVlUT1lqRjVRdE4zZlVGbUo5TGg3bkZDWGIyVVJwd1NxMTRjYTlVcFJpZ0dDMWJrbGlKMENTYU9nYlA4Yk1VM2tKWTVxVkFXaWNSaW95SFJBVl9zWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5412ea42c810",
+      "title": "性傳染病年輕化! 20至24歲感染人數最多",
+      "published": "2026-11-20T10:58:03+00:00",
+      "summary": "性傳染病年輕化! 20至24歲感染人數最多&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOTBBcElFTEhVTnVqZ0JLSnU4ZmhQdUZHNWlWNkpPV01Hb0dmOUVaUWZwQkVJWHlYaUppSkRMcDFsNVZwZEZWTC02blhybmpFNEFRd0c0dDQ5OGtoaDBpQkkxamRJQXQwcHJxUExJVWZYWDBBTFZJT2czWndYZ1RJZmpjOUtfSVJxWnF5ZVVaRzB4UUtodlllRjlWX2U4VGs4OUtVdFl3d09hV1hZcWJpTl96MU1BNjU0Yk1iZFJlNHNmUEJvOUJSeGdtZXpzUktFOHBhY3FBMnkzZ182XzZGeFJaZFlXZkMyRExybHljRlAtZWtoUUZnUV9SNmlUYUQyMlVmN2o1WTNNZDIwNWc?oc=5"
         }
       ],
       "matched_keywords": []
@@ -442,14 +504,14 @@
       "matched_keywords": []
     },
     {
-      "id": "9133ec939f74",
-      "title": "從精準醫療到整體修復： 癌症醫療的下一個方向 - 報新聞 Mega News",
-      "published": "2026-11-20T03:00:15+00:00",
-      "summary": "從精準醫療到整體修復： 癌症醫療的下一個方向&nbsp;&nbsp;報新聞 Mega News",
+      "id": "7ed9f2351646",
+      "title": "從精準醫療到整體修復： 癌症醫療的下一個方向",
+      "published": "2026-11-20T03:32:32+00:00",
+      "summary": "從精準醫療到整體修復： 癌症醫療的下一個方向&nbsp;&nbsp;行銷人",
       "sources": [
         {
-          "name": "報新聞 Mega News",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5"
+          "name": "行銷人",
+          "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQNVM3elJCWER4S2dhdzJTZHFYekFaTVNERzBUdzRlRVRoZnE2UV9BbUJvNVpLVWNab19mYWpNdUgwRERQSHBJa2dlZ0dUd3J5V0c2NU43SFpoRTllQU83bDFOUXVVc09FSHd1QTE1NjNQME5UTDYzNUUySnpPU291ZHZMTWw1SzYzbnNPWkh3bFJ0NHhyTjRIelg4SVVCUnU1TUxUVkhWRFpyWHUxenZwUlhzTC1kN0RDdmE0bC1ONk5OdHBVVExCb3Zrc0lzY3BHUXQwcGViVV9QMDlHS2xPLTRxZlRoekt1T1djUmtKTGt1NWdRV0tpTE04eVlpdGhGRXB3RWpnVFFMU1NMS1dIblBVbnRTWUZXekxOZlg0Q3lBSFBmc0doTFV2TE95Wk81aUtCdmNnOU9fT2dyOTQ2QnRyZjZBbGQwTWRyRHdScWNFd1hWX2VoOEp4LVU1Z0VtRDVNaGNsMXBYOUJBT2w3TW1hZGNqQ09qTEI4?oc=5"
         }
       ],
       "matched_keywords": [
@@ -700,7 +762,7 @@
     {
       "id": "0da83f7ca439",
       "title": "腎癌｜發病率急升！50歲以下患者增12% 常末期才發現難活過5年認清4大症狀勿當拉傷更年期- 東張+ - myTV SUPER",
-      "published": "2026-11-20T02:31:31+00:00",
+      "published": "2026-11-20T02:15:00+00:00",
       "summary": "腎癌｜發病率急升！50歲以下患者增12% 常末期才發現難活過5年認清4大症狀勿當拉傷更年期- 東張+&nbsp;&nbsp;myTV SUPER",
       "sources": [
         {
@@ -1249,19 +1311,6 @@
       "matched_keywords": []
     },
     {
-      "id": "512bb622af18",
-      "title": "衛生醫療-成人是否會感染腸病毒？",
-      "published": "2026-11-19T05:24:51+00:00",
-      "summary": "衛生醫療-成人是否會感染腸病毒？&nbsp;&nbsp;桃園市政府",
-      "sources": [
-        {
-          "name": "桃園市政府",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RV2FuU1pPMkxRMEZGU3RGekNwekFnbWR1WFJBaWd4bDVxMzFoMmhESzJ6Y3M3dVpRMGQyZ3pBeXJGbjdYZlNLc1ViVHNtV25iMGJsT1UzZVFEelotc1lhRjY2c0Rhenc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "0e5bfb3ca920",
       "title": "氫水是什麼？有什麼作用？專家解析氫分子、自由基研究與奈米氫水技術",
       "published": "2026-11-19T04:00:00+00:00",
@@ -1466,19 +1515,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "749f9b4bd525",
-      "title": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球",
-      "published": "2026-11-18T06:29:00+00:00",
-      "summary": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球&nbsp;&nbsp;UDN到美國旅遊當心！麻疹疫情35年新高已6人死 升2級旅遊警示，2類人避免去&nbsp;&nbsp;Yahoo新聞美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國麻疹疫情創新高 台大醫：打1劑疫苗就有9成保護力&nbsp;&nbsp;ETtoday健康雲美國麻疹疫情升溫！台灣調旅遊警示至第二級 疾管署：2類人避前往&nbsp;&nbsp;鏡週刊Mirror Media",
-      "sources": [
-        {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fTWxHb3hyb3Y2LWhicTV0OE5rbF9Uek1SX0FnWVFnVmo3a0h2Y2VrNHVrY05MVTZQTGc0Yy14YnZNZVNqeTFHLTJlbkdLb1gzNk9OQ2dFM1Q4djRXckhjckJRbTV1M2ZLcF80S1N6Y19zQ0E?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "3d0e75593dab",
@@ -1783,6 +1819,32 @@
         {
           "name": "世界新聞網",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qdVZHWDl3OTVKRnJDOUZtMFh6Wk9HRUJhcjdBVDYzNm00V0czS3pyX1ZFQUVHNlYtUDd0TVR1bksxbzhMajNGSUYwYVdiUXBHT3hFRFV6ZFYtaU1fbEFPWjBB0gFnQVVfeXFMTnNhb19BR0J2UWNkVlh6Y0JQWXNFZWJ4TU1kVUJiYjJNY1NBQmZJaWJSWTFTZ1NFeTFJa2djdUVweTd2dUoxcEk1aDJ2Sk41dUlBenpRbE1VM3pEa2VuQVNIYWNua2R3dw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7abfea88248d",
+      "title": "創35年新高！美國麻疹疫情延燒 痛失維持26年消除地位 | 民視新聞網 - LINE TODAY",
+      "published": "2026-11-17T23:04:52+00:00",
+      "summary": "創35年新高！美國麻疹疫情延燒 痛失維持26年消除地位 | 民視新聞網&nbsp;&nbsp;LINE TODAY到美國旅遊當心！麻疹疫情35年新高已6人死 升2級旅遊警示，2類人避免去&nbsp;&nbsp;Yahoo新聞美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國麻疹疫情創新高 台大醫：打1劑疫苗就有9成保護力&nbsp;&nbsp;ETtoday健康雲美國麻疹疫情升溫！台灣調旅遊警示至第二級 疾管署：2類人避前往&nbsp;&nbsp;鏡週刊Mirror Media",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wRldZWVp0dk1lWDFwZW1iQWlSQW82TlRDUUtWSUtNc0dqSklvUVlPM0RMRUtjbi1hN2UwOHVQanlvTjJXT2FUaDhJaVgta3k2NUdzTkJBQ0YxdjIybW0zMGtGNnNKaFMtS2hERTdjWHY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fad80b8661a0",
+      "title": "利與弊 你對長期服用抗抑鬱藥有了解嗎？",
+      "published": "2026-11-17T20:55:00+00:00",
+      "summary": "利與弊 你對長期服用抗抑鬱藥有了解嗎？&nbsp;&nbsp;大紀元",
+      "sources": [
+        {
+          "name": "大紀元",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Jcm1mTWgySTFfa1pXZDZ4VlB5b216YV9xcndMa0xENjJCWUZCMXFwSklaMFBINUNaLURpazhiRmRlWjZ4MkNVQjNYbDRsMnVVMVhRSW5oUjRhZXlNRGhCTtIBZkFVX3lxTE12TW5ueVpyUTJ3VERuRGV4X1JxQ0tjaDlHV3lEZVpxRXhOdDd5UDNuOGM0TUtQLTlWdkRwSkQ0NUJ2REl3XzVKQ1Zwb0xKS0FtaXN1aTRIUWo1ZWRPQWNoc21BWE1oZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2805,6 +2867,19 @@
       "matched_keywords": []
     },
     {
+      "id": "b9f420d2860c",
+      "title": "多囊性腎病 ──── 腎衰竭第4大元兇¹ 早期可無明顯症狀 子女有50%機會遺傳¹",
+      "published": "2026-11-16T02:30:00+00:00",
+      "summary": "多囊性腎病 ──── 腎衰竭第4大元兇¹ 早期可無明顯症狀 子女有50%機會遺傳¹&nbsp;&nbsp;香港經濟日報HKET",
+      "sources": [
+        {
+          "name": "香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQT1NJVDhIdXNRRlRuamJ3a2FuTnIwTVRpRnZDdFNOaFB4WGdNN21RdHgtU0xCTXdSOFF0V2ZwazlzeDRjNGFYRW02MktjNEJIMnlFbElYQ0FRQTliZUs0RXpSRExvcUZOZU9uM3lWUmFWT3dXTVE3NEtOWTgwSHB1SjRNOHprMVRrNDdMak1zN1JROWFQemcyT1E1Qk1CcW1kNk1UQ3lrOEQxdWJYUDZEbEN4OGVOZ19UaXJfc0RCWnlvTnpCcDFSQ3RvWWY0bER4X09mbl8tMkRZUHZLTUdFcTBFaWpPTnFlSUhRQnA1TlExWk5LbnRRNVhvcjVHSXZ3T0VjVkZOSzNJcURqVmowOFNEeU1QUzJvd3gwS3Y4N19xTFEzaGNIYjktNEpaeEUtN0hYRXFEb0xfZXFEUldRVDhDWWxIV3FYQldVZzVSOU5rRkFpRG5HZWlPUlhZODYwSERLM0c5M1k0Uk9EN3BEU2huTnpLMlNnR21kRXB2MWpuT0xIYXFQbGRXZmNTN0VZSklzVV9KSFV6LXdNbWNUa3h3alM2WkdXNFdOdXFZQmNwYnAtQXVhaE45TEJFNXdpaFN1ek5DYTJ2RjJHZW1ScDJlanJSYk9vdFN4ZXBZNmFILUc1c21QV19fTXhTLThneW9zOXVmMVkwajVZcnRZOFNwbkhYRGM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "e861728d9654",
       "title": "維持體重、腰圍沒變也別鬆懈！上了年紀「心周脂肪」增心肌梗塞風險",
       "published": "2026-11-16T00:53:40+00:00",
@@ -3047,17 +3122,260 @@
       "matched_keywords": []
     },
     {
-      "id": "23dea795b4f5",
-      "title": "南加女突然倒下、無法走路 禍首竟是小小的牠",
-      "published": "2026-11-14T21:35:34+00:00",
-      "summary": "南加女突然倒下、無法走路 禍首竟是小小的牠&nbsp;&nbsp;世界新聞網",
+      "id": "9133ec939f74",
+      "title": "從精準醫療到整體修復： 癌症醫療的下一個方向 - 報新聞 Mega News",
+      "published": "2026-11-20T03:00:15+00:00",
+      "summary": "從精準醫療到整體修復： 癌症醫療的下一個方向&nbsp;&nbsp;報新聞 Mega News",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtckQtaGZsZEpldEpMX25ZZkZMYzY3Qk9paFVkNndhVFcwZUJiVXRMR09XUTl1WVhxSjMyLTFTNlNqMF9QYlVTLTlONEJpeEh2dXJoYVRROTB4WlJBUjRaRzF30gFnQVVfeXFMTU5zZW1pVFZnd1NrVGFLVUZ3VWVRQVU2VTZaaFlIbkNXZlhsVmRfelRlMWp5LUVwR1FEQWdWVmRRcVBXSHJwS0hmbC02NXRUNFAtNGV3LWhQNi16Q1c4U0tGcDhteFdnaw?oc=5"
+          "name": "報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌症",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "cytarabine",
+              "name": "Cytarabine",
+              "url": "/drugs/cytarabine/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "acitretin",
+              "name": "Acitretin",
+              "url": "/drugs/acitretin/"
+            },
+            {
+              "slug": "tinidazole",
+              "name": "Tinidazole",
+              "url": "/drugs/tinidazole/"
+            },
+            {
+              "slug": "regorafenib",
+              "name": "Regorafenib",
+              "url": "/drugs/regorafenib/"
+            },
+            {
+              "slug": "irbesartan",
+              "name": "Irbesartan",
+              "url": "/drugs/irbesartan/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "cladribine",
+              "name": "Cladribine",
+              "url": "/drugs/cladribine/"
+            },
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "amcinonide",
+              "name": "Amcinonide",
+              "url": "/drugs/amcinonide/"
+            },
+            {
+              "slug": "temozolomide",
+              "name": "Temozolomide",
+              "url": "/drugs/temozolomide/"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "vinorelbine",
+              "name": "Vinorelbine",
+              "url": "/drugs/vinorelbine/"
+            },
+            {
+              "slug": "felodipine",
+              "name": "Felodipine",
+              "url": "/drugs/felodipine/"
+            },
+            {
+              "slug": "acebutolol",
+              "name": "Acebutolol",
+              "url": "/drugs/acebutolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "hydroxyprogesterone_caproate",
+              "name": "Hydroxyprogesterone caproate",
+              "url": "/drugs/hydroxyprogesterone-caproate/"
+            },
+            {
+              "slug": "durvalumab",
+              "name": "Durvalumab",
+              "url": "/drugs/durvalumab/"
+            },
+            {
+              "slug": "atezolizumab",
+              "name": "Atezolizumab",
+              "url": "/drugs/atezolizumab/"
+            },
+            {
+              "slug": "berberine",
+              "name": "Berberine",
+              "url": "/drugs/berberine/"
+            },
+            {
+              "slug": "ipilimumab",
+              "name": "Ipilimumab",
+              "url": "/drugs/ipilimumab/"
+            },
+            {
+              "slug": "clobetasone",
+              "name": "Clobetasone",
+              "url": "/drugs/clobetasone/"
+            },
+            {
+              "slug": "carbenoxolone",
+              "name": "Carbenoxolone",
+              "url": "/drugs/carbenoxolone/"
+            },
+            {
+              "slug": "pralatrexate",
+              "name": "Pralatrexate",
+              "url": "/drugs/pralatrexate/"
+            },
+            {
+              "slug": "interferon_beta-1b",
+              "name": "Interferon beta-1b",
+              "url": "/drugs/interferon-beta-1b/"
+            },
+            {
+              "slug": "omalizumab",
+              "name": "Omalizumab",
+              "url": "/drugs/omalizumab/"
+            },
+            {
+              "slug": "nebivolol",
+              "name": "Nebivolol",
+              "url": "/drugs/nebivolol/"
+            },
+            {
+              "slug": "dehydrocholic_acid",
+              "name": "Dehydrocholic acid",
+              "url": "/drugs/dehydrocholic-acid/"
+            },
+            {
+              "slug": "avelumab",
+              "name": "Avelumab",
+              "url": "/drugs/avelumab/"
+            },
+            {
+              "slug": "disopyramide",
+              "name": "Disopyramide",
+              "url": "/drugs/disopyramide/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "acetazolamide",
+              "name": "Acetazolamide",
+              "url": "/drugs/acetazolamide/"
+            },
+            {
+              "slug": "bevacizumab",
+              "name": "Bevacizumab",
+              "url": "/drugs/bevacizumab/"
+            },
+            {
+              "slug": "mannitol",
+              "name": "Mannitol",
+              "url": "/drugs/mannitol/"
+            },
+            {
+              "slug": "levamisole",
+              "name": "levamisole",
+              "url": "/drugs/levamisole/"
+            },
+            {
+              "slug": "oxytetracycline",
+              "name": "Oxytetracycline",
+              "url": "/drugs/oxytetracycline/"
+            },
+            {
+              "slug": "bempedoic_acid",
+              "name": "Bempedoic acid",
+              "url": "/drugs/bempedoic-acid/"
+            },
+            {
+              "slug": "ramucirumab",
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
+            },
+            {
+              "slug": "cefmetazole",
+              "name": "Cefmetazole",
+              "url": "/drugs/cefmetazole/"
+            },
+            {
+              "slug": "benazepril",
+              "name": "Benazepril",
+              "url": "/drugs/benazepril/"
+            },
+            {
+              "slug": "vismodegib",
+              "name": "Vismodegib",
+              "url": "/drugs/vismodegib/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "pemetrexed",
+              "name": "Pemetrexed",
+              "url": "/drugs/pemetrexed/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "zanubrutinib",
+              "name": "Zanubrutinib",
+              "url": "/drugs/zanubrutinib/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "c3bc9cd2b5e3",
