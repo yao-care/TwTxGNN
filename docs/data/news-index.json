@@ -1,32 +1,7 @@
 {
-  "generated": "2026-11-22T09:05:17.362009+00:00",
-  "count": 95,
+  "generated": "2026-11-22T17:30:23.706697+00:00",
+  "count": 97,
   "news": [
-    {
-      "id": "8fb99bd7ebd2",
-      "title": "四川高中生連吞20粒感冒藥險死 誤信網傳有「愉悅感」可見鬼仔",
-      "published": "2026-11-22T06:07:26+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNNDZZVnRRQ05Nb09PZjJRb1hhLWpJNUlXd3EzM0J2dkdIVWxTRWEyclBkbTg0SFg3c2Vrd3NEaFlWY2tlYUFQWndYWHN4dzVNVUV3MnBlOGpxYzVCMDRpLU1ibnpVOEhDNzhtSU9McU40UlFqMFFuOHZFNXhWcGgxNC1xLWlfeDJ6a3ozdElBQzdlMEdpaUNYcXpWdVNYR3dhNFJHOXkxZTYwN2VCUlRBelBKTHlodDRkSlFIa2VrS29qTGFLbFloeDBqNHRaZm9DM1BqajJpRTJfYld2Z0s2V0ZWbXAzSTFORkVQWVhCZEVfNzB1b2Y1aHEyaGx3S09VSDdXZzhWeTZ0eTViWE1saXdnbC1JWS1iZEstNk5sdk9VeVU5RGV1YUlwOWJiQ0tYY29VV0d4X2EwWXpYeXFoODRSdExSSXpDNEczTENkZ0VXcS14NklrUlk4a2RHa0llbEhnalEwOWdTcHVyVE8yTFZIeUVzX1h2YlpsMFlDVXVKc21US0Y1WWR0V0VDcjQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "21a5788e3430",
       "title": "280 萬人基因分析揭阿茲海默症新線索，48 個風險區域首度現身 - TechNews 科技新報",
@@ -803,6 +778,31 @@
       ]
     },
     {
+      "id": "137f6905b131",
+      "title": "長輩電視音量越開越大聲？醫：聽力退化恐增失智風險",
+      "published": "2026-11-19T09:19:29+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeU1Tb3ozbnRYdkhZS2owVkp1cDZDSEtzSXl0bTlXQm90RVlQOG52c21LYXNBQ3RCalpIcFVEb1Y2Z1VqMi1QakpXa1dOV1ZrVkJRa2lKRVVuLWRHS0lRN25hQ3UxcDF5aG9nX25yQjQtY0pvRURnNjZlVVVkaUtWZTI1Qjljb2Z5dldtcXZmLTdyOExEYVlfVllvVlBwaTlsUDZDZVc5TVV4endjWGhaMDNvNnJnM210NGg5cjVlQ2NEQmhxbmI2UlVzME5GTnMwNGRTbWVCdzY3WmRlY3V0YUxTUGJGdmpvVF9lTk8xYW9jTEFjYmItRXFBT0Q1YTNwd2prY2hsbEJXUnhwbl9SdkJlaWZLYzJ0cVhYWEFMQnNGRlBiRkpFMThMa09hZGgxRlJtWDR5Y0hyOTc3WDZ5eWVFVFkwb3VtM3l2R3FMbnZaVXhjbElqMlNhMm84QQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "2514e66871e8",
       "title": "癌症醫療新時代 從精準抗癌到中西醫整合照護 - 報新聞 Mega News",
       "published": "2026-11-19T03:00:12+00:00",
@@ -1114,36 +1114,6 @@
               "slug": "tolmetin",
               "name": "Tolmetin",
               "url": "/drugs/tolmetin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2cd0d4d43475",
-      "title": "炒菜換減鈉鹽能護心臟防中風？研究證中風風險降14% 附安全食用指南",
-      "published": "2026-11-18T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "中風",
-          "related_drugs": [
-            {
-              "slug": "dronedarone",
-              "name": "Dronedarone",
-              "url": "/drugs/dronedarone/"
-            },
-            {
-              "slug": "dipyridamole",
-              "name": "Dipyridamole",
-              "url": "/drugs/dipyridamole/"
             }
           ]
         }
@@ -2039,6 +2009,31 @@
       ]
     },
     {
+      "id": "9d537290ce12",
+      "title": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 | 科技新報 - LINE TODAY",
+      "published": "2026-11-16T11:35:12+00:00",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GX2hkazNjT2VWRDdjZ1RLeU14aGdRLVozeVAzWUxQSVRZcmRrTjBJTzh5WHdDemtSdkl3dTI1VGw5YjFzOVY2OFRHSWw1eGp3VmljQlZn?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "失智",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "Gefitinib",
+              "url": "/drugs/gefitinib/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "c04954d1353a",
       "title": "73歲翁沒症狀竟罹直腸癌第3期！靠「1檢查」揪出異常 醫提醒別忽略",
       "published": "2026-11-16T07:00:00+00:00",
@@ -2135,6 +2130,116 @@
               "slug": "oteracil",
               "name": "Oteracil",
               "url": "/drugs/oteracil/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f3ca9c1969a2",
+      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高",
+      "published": "2026-11-15T22:00:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8fb99bd7ebd2",
+      "title": "四川高中生連吞20粒感冒藥險死 誤信網傳有「愉悅感」可見鬼仔",
+      "published": "2026-11-22T06:07:26+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNNDZZVnRRQ05Nb09PZjJRb1hhLWpJNUlXd3EzM0J2dkdIVWxTRWEyclBkbTg0SFg3c2Vrd3NEaFlWY2tlYUFQWndYWHN4dzVNVUV3MnBlOGpxYzVCMDRpLU1ibnpVOEhDNzhtSU9McU40UlFqMFFuOHZFNXhWcGgxNC1xLWlfeDJ6a3ozdElBQzdlMEdpaUNYcXpWdVNYR3dhNFJHOXkxZTYwN2VCUlRBelBKTHlodDRkSlFIa2VrS29qTGFLbFloeDBqNHRaZm9DM1BqajJpRTJfYld2Z0s2V0ZWbXAzSTFORkVQWVhCZEVfNzB1b2Y1aHEyaGx3S09VSDdXZzhWeTZ0eTViWE1saXdnbC1JWS1iZEstNk5sdk9VeVU5RGV1YUlwOWJiQ0tYY29VV0d4X2EwWXpYeXFoODRSdExSSXpDNEczTENkZ0VXcS14NklrUlk4a2RHa0llbEhnalEwOWdTcHVyVE8yTFZIeUVzX1h2YlpsMFlDVXVKc21US0Y1WWR0V0VDcjQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2cd0d4d43475",
+      "title": "炒菜換減鈉鹽能護心臟防中風？研究證中風風險降14% 附安全食用指南",
+      "published": "2026-11-18T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "中風",
+          "related_drugs": [
+            {
+              "slug": "dronedarone",
+              "name": "Dronedarone",
+              "url": "/drugs/dronedarone/"
+            },
+            {
+              "slug": "dipyridamole",
+              "name": "Dipyridamole",
+              "url": "/drugs/dipyridamole/"
             }
           ]
         }
@@ -9515,61 +9620,6 @@
               "slug": "gemcitabine",
               "name": "Gemcitabine",
               "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f3ca9c1969a2",
-      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高",
-      "published": "2026-11-15T22:00:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
             },
             {
               "slug": "hydroxyurea",

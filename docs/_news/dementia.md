@@ -3,9 +3,9 @@ layout: default
 title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。9 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。11 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # 阿茲海默症 (dementia) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>9 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>11 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（11 則）
 
 ### [280 萬人基因分析揭阿茲海默症新線索，48 個風險區域首度現身 - TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0xRanFVOXN3QTQ2X1RXalZHYk9GQUZKRVJuYWRBaC1YUEpvMkhXeXB2SVZQc0FLMGRhQ0dTeWpBWEFTUXNpZjU1c3g1ekZjeVY4LUNmVDNYMVJYMVV3Y041bWVTc2xPNEI2WUpobUljN1FxMDdFbkRPSkxXaXVQSmM3bmVHd3FHODAwOFYxOHJvbHdGcjJObUhMX2p5RVdGaW9rbHpyTms0MGhfT0E?oc=5)
 
@@ -48,6 +48,14 @@ last_modified_at: 2026-11-21
 
 ---
 
+### [長輩電視音量越開越大聲？醫：聽力退化恐增失智風險](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeU1Tb3ozbnRYdkhZS2owVkp1cDZDSEtzSXl0bTlXQm90RVlQOG52c21LYXNBQ3RCalpIcFVEb1Y2Z1VqMi1QakpXa1dOV1ZrVkJRa2lKRVVuLWRHS0lRN25hQ3UxcDF5aG9nX25yQjQtY0pvRURnNjZlVVVkaUtWZTI1Qjljb2Z5dldtcXZmLTdyOExEYVlfVllvVlBwaTlsUDZDZVc5TVV4endjWGhaMDNvNnJnM210NGg5cjVlQ2NEQmhxbmI2UlVzME5GTnMwNGRTbWVCdzY3WmRlY3V0YUxTUGJGdmpvVF9lTk8xYW9jTEFjYmItRXFBT0Q1YTNwd2prY2hsbEJXUnhwbl9SdkJlaWZLYzJ0cVhYWEFMQnNGRlBiRkpFMThMa09hZGgxRlJtWDR5Y0hyOTc3WDZ5eWVFVFkwb3VtM3l2R3FMbnZaVXhjbElqMlNhMm84QQ?oc=5)
+
+2026-11-19
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeU1Tb3ozbnRYdkhZS2owVkp1cDZDSEtzSXl0bTlXQm90RVlQOG52c21LYXNBQ3RCalpIcFVEb1Y2Z1VqMi1QakpXa1dOV1ZrVkJRa2lKRVVuLWRHS0lRN25hQ3UxcDF5aG9nX25yQjQtY0pvRURnNjZlVVVkaUtWZTI1Qjljb2Z5dldtcXZmLTdyOExEYVlfVllvVlBwaTlsUDZDZVc5TVV4endjWGhaMDNvNnJnM210NGg5cjVlQ2NEQmhxbmI2UlVzME5GTnMwNGRTbWVCdzY3WmRlY3V0YUxTUGJGdmpvVF9lTk8xYW9jTEFjYmItRXFBT0Q1YTNwd2prY2hsbEJXUnhwbl9SdkJlaWZLYzJ0cVhYWEFMQnNGRlBiRkpFMThMa09hZGgxRlJtWDR5Y0hyOTc3WDZ5eWVFVFkwb3VtM3l2R3FMbnZaVXhjbElqMlNhMm84QQ?oc=5)
+
+---
+
 ### [韓國研究團隊解開漸凍症與失智症神經細胞死亡路徑，抗氧化蛋白成關鍵 - BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMWptNlRlbjlBc2lvRGtYNjRXTlh3V1FrYUlvTGszWDV6cjZqMlE1bWI3YmtQbTJnZXJ4dHZEVy1lcHpOc3BHNEt3T09QcUVUUENRU2NZcktHRGhNLS1QaEZIdDBiYVNsRGNfbVZLc3J1ajlzajhqQ05n?oc=5)
 
 2026-11-18
@@ -61,6 +69,14 @@ last_modified_at: 2026-11-21
 2026-11-17
 
 來源: [商傳媒](https://news.google.com/rss/articles/CBMiqAJBVV95cUxPZDNsalVFVDR4VDh4ZnlXY1E4cjJNcmtPVmhmQ0VQa2FIZF9pOHRHUG16RTRzczRlWmlsbFlnZzJ6UUVqeGZ2N2dGanAtNzE3X0gxSjhCSng0b01RUE9nMUNMeVBFVXRrTVNOcmR6c3p2RHY2Tnh3dGdNOU9vWS1teVJ1a0xQVDMtdlF2Y19fWjJSM0xZRHFJam4wTm9sZ1pwMFVxUG9VX09ia1AyT3hWcTFIUnBWN2tMa3NJZHd0Umx2WWQ4X2h6dzJlOG5nNS11eVZXWmtTM3RMbmdMNWswWVh0dmFySjctVGxfdlp5cFBIZWZXZ3BabHhSQ1hvYUJmODQyb0lUTVV5REwxUlJLS00xOGR5SE9mNTFfZnhqTFhJVDhETjNDWA?oc=5)
+
+---
+
+### [記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GX2hkazNjT2VWRDdjZ1RLeU14aGdRLVozeVAzWUxQSVRZcmRrTjBJTzh5WHdDemtSdkl3dTI1VGw5YjFzOVY2OFRHSWw1eGp3VmljQlZn?oc=5)
+
+2026-11-16
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GX2hkazNjT2VWRDdjZ1RLeU14aGdRLVozeVAzWUxQSVRZcmRrTjBJTzh5WHdDemtSdkl3dTI1VGw5YjFzOVY2OFRHSWw1eGp3VmljQlZn?oc=5)
 
 ---
 

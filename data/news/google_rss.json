@@ -1,8 +1,20 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-22T09:05:14.705734+00:00",
-  "count": 56,
+  "fetched_at": "2026-11-22T17:30:21.043677+00:00",
+  "count": 52,
   "news": [
+    {
+      "id": "749f9b4bd525",
+      "title": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球 - UDN",
+      "published": "2026-11-18T06:29:00+00:00",
+      "summary": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球&nbsp;&nbsp;UDN到美國旅遊當心！麻疹疫情35年新高已6人死 升2級旅遊警示，2類人避免去&nbsp;&nbsp;Yahoo新聞美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國麻疹疫情創新高 台大醫：打1劑疫苗就有9成保護力&nbsp;&nbsp;ETtoday健康雲全球公衛醫藥最新進展 美麻疹疫情升溫與新藥研發動態 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "UDN",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fTWxHb3hyb3Y2LWhicTV0OE5rbF9Uek1SX0FnWVFnVmo3a0h2Y2VrNHVrY05MVTZQTGc0Yy14YnZNZVNqeTFHLTJlbkdLb1gzNk9OQ2dFM1Q4djRXckhjckJRbTV1M2ZLcF80S1N6Y19zQ0E?oc=5"
+        }
+      ]
+    },
     {
       "id": "9219a3968a52",
       "title": "巴西研究：釋放沃爾巴克氏菌蚊子 登革熱及屈公病感染減少近7成 - 太報 TaiSounds",
@@ -16,14 +28,14 @@
       ]
     },
     {
-      "id": "749f9b4bd525",
-      "title": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球 - UDN",
-      "published": "2026-11-18T06:29:00+00:00",
-      "summary": "泛美衛生組織宣布：美墨失去麻疹清零地位| 國際焦點| 全球&nbsp;&nbsp;UDN到美國旅遊當心！麻疹疫情35年新高已6人死 升2級旅遊警示，2類人避免去&nbsp;&nbsp;Yahoo新聞美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際&nbsp;&nbsp;工商時報美國麻疹疫情創新高 台大醫：打1劑疫苗就有9成保護力&nbsp;&nbsp;ETtoday健康雲全球公衛醫藥最新進展 美麻疹疫情升溫與新藥研發動態 | 民視新聞網&nbsp;&nbsp;LINE TODAY",
+      "id": "fd031131f258",
+      "title": "科學家發現數位習慣與大腦之間的關聯 - Root-Nation.com",
+      "published": "2026-11-22T11:38:57+00:00",
+      "summary": "科學家發現數位習慣與大腦之間的關聯&nbsp;&nbsp;Root-Nation.com",
       "sources": [
         {
-          "name": "UDN",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fTWxHb3hyb3Y2LWhicTV0OE5rbF9Uek1SX0FnWVFnVmo3a0h2Y2VrNHVrY05MVTZQTGc0Yy14YnZNZVNqeTFHLTJlbkdLb1gzNk9OQ2dFM1Q4djRXckhjckJRbTV1M2ZLcF80S1N6Y19zQ0E?oc=5"
+          "name": "Root-Nation.com",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUw5VEJLOWZ3aHhxRklVUGZBZ0J4dk51dlp5YlZXNjJkbXp3b09INGJNVlZxQXd5eWMxV0lRMFByLWY2QTZaTmJlV3NGNnUxU1JTWTR5bDd0S0loX2FLN2hKQ2VPdU1TRm5NN3VlSE96SG9fZUEtZENNZjktX3VkTkdJSWRabVNlbVRIdHlyekVPNTJmRDdyNVdmSl9rUQ?oc=5"
         }
       ]
     },
@@ -88,6 +100,18 @@
       ]
     },
     {
+      "id": "fc17e60627f5",
+      "title": "嘉義市政府11/19於嘉義大學蘭潭校區辦理M痘疫苗接種服務 - 中央社 CNA",
+      "published": "2026-11-16T10:00:32+00:00",
+      "summary": "嘉義市政府11/19於嘉義大學蘭潭校區辦理M痘疫苗接種服務&nbsp;&nbsp;中央社 CNA",
+      "sources": [
+        {
+          "name": "中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwWDBBeHRabHNPVlc3bjVCdm9XVUp1RWdNVUN1WTlsMGY4ZjkyODVnLUxzdkphcWtXaW4tSl9UeW10TERqeC16ZW9LOEQ5cVM0eWVBX3ZR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a756474c8842",
       "title": "腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是T 細胞攻擊開關- 股市爆料同學會 - CMoney",
       "published": "2026-11-20T16:09:44+00:00",
@@ -112,18 +136,6 @@
       ]
     },
     {
-      "id": "fc17e60627f5",
-      "title": "嘉義市政府11/19於嘉義大學蘭潭校區辦理M痘疫苗接種服務 - 中央社 CNA",
-      "published": "2026-11-16T10:00:32+00:00",
-      "summary": "嘉義市政府11/19於嘉義大學蘭潭校區辦理M痘疫苗接種服務&nbsp;&nbsp;中央社 CNA",
-      "sources": [
-        {
-          "name": "中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwWDBBeHRabHNPVlc3bjVCdm9XVUp1RWdNVUN1WTlsMGY4ZjkyODVnLUxzdkphcWtXaW4tSl9UeW10TERqeC16ZW9LOEQ5cVM0eWVBX3ZR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2514e66871e8",
       "title": "癌症醫療新時代 從精準抗癌到中西醫整合照護 - 報新聞 Mega News",
       "published": "2026-11-19T03:00:12+00:00",
@@ -136,14 +148,14 @@
       ]
     },
     {
-      "id": "5412ea42c810",
-      "title": "性傳染病年輕化! 20至24歲感染人數最多 - Yahoo新聞",
-      "published": "2026-11-20T10:58:03+00:00",
-      "summary": "性傳染病年輕化! 20至24歲感染人數最多&nbsp;&nbsp;Yahoo新聞",
+      "id": "1ec4317ce026",
+      "title": "性傳染病年輕化！ 20至24歲感染人數最多 - 民視新聞網",
+      "published": "2026-11-20T10:02:09+00:00",
+      "summary": "性傳染病年輕化！ 20至24歲感染人數最多&nbsp;&nbsp;民視新聞網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOTBBcElFTEhVTnVqZ0JLSnU4ZmhQdUZHNWlWNkpPV01Hb0dmOUVaUWZwQkVJWHlYaUppSkRMcDFsNVZwZEZWTC02blhybmpFNEFRd0c0dDQ5OGtoaDBpQkkxamRJQXQwcHJxUExJVWZYWDBBTFZJT2czWndYZ1RJZmpjOUtfSVJxWnF5ZVVaRzB4UUtodlllRjlWX2U4VGs4OUtVdFl3d09hV1hZcWJpTl96MU1BNjU0Yk1iZFJlNHNmUEJvOUJSeGdtZXpzUktFOHBhY3FBMnkzZ182XzZGeFJaZFlXZkMyRExybHljRlAtZWtoUUZnUV9SNmlUYUQyMlVmN2o1WTNNZDIwNWc?oc=5"
+          "name": "民視新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BeGUzcVlJZW9Gc1g4YS14RXMyTC1FTXRuaEI1bHI0M3ozWk83c3o5ejJoUWtYVWx1MXFhbkVpS1p5ZGkxQUtMQ0VzMWl2WGRpNlAyNktZVnpiVkZiVll2cg?oc=5"
         }
       ]
     },
@@ -180,6 +192,18 @@
         {
           "name": "BigGo 財經",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mRVZKT3NfTldnOGtVVEpTVnVQeVBUcG01TC0xWVJ1QmdRZmg0WEh2ZmNXdnQ4YVU5MnR0ak1hRTVRYllwZHViNnZRenpIY2VwNVA2T2ZBcHRlWTZ2bVc3V0dwOG1FS05ZTk1RbkJ6TDdyaE94RGk4Nl9B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "137f6905b131",
+      "title": "長輩電視音量越開越大聲？醫：聽力退化恐增失智風險 - Yahoo新聞",
+      "published": "2026-11-19T09:19:29+00:00",
+      "summary": "長輩電視音量越開越大聲？醫：聽力退化恐增失智風險&nbsp;&nbsp;Yahoo新聞長輩看電視「1習慣」別當老化！大腦發警訊 研究：失智風險高7%&nbsp;&nbsp;三立新聞網SETN.com長輩電視開太大？小心失智警訊&nbsp;&nbsp;東森新聞不想老了靠別人？醫籲提前檢視生活習慣防失智&nbsp;&nbsp;元氣網一覺醒來單耳悶塞恐是「突發性耳聾」醫：別當耳垢太多&nbsp;&nbsp;中天新聞網",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeU1Tb3ozbnRYdkhZS2owVkp1cDZDSEtzSXl0bTlXQm90RVlQOG52c21LYXNBQ3RCalpIcFVEb1Y2Z1VqMi1QakpXa1dOV1ZrVkJRa2lKRVVuLWRHS0lRN25hQ3UxcDF5aG9nX25yQjQtY0pvRURnNjZlVVVkaUtWZTI1Qjljb2Z5dldtcXZmLTdyOExEYVlfVllvVlBwaTlsUDZDZVc5TVV4endjWGhaMDNvNnJnM210NGg5cjVlQ2NEQmhxbmI2UlVzME5GTnMwNGRTbWVCdzY3WmRlY3V0YUxTUGJGdmpvVF9lTk8xYW9jTEFjYmItRXFBT0Q1YTNwd2prY2hsbEJXUnhwbl9SdkJlaWZLYzJ0cVhYWEFMQnNGRlBiRkpFMThMa09hZGgxRlJtWDR5Y0hyOTc3WDZ5eWVFVFkwb3VtM3l2R3FMbnZaVXhjbElqMlNhMm84QQ?oc=5"
         }
       ]
     },
@@ -232,26 +256,26 @@
       ]
     },
     {
-      "id": "ead918da289d",
-      "title": "陳為民《醫學大聯盟》爆「變矮危機」！醫揭骨質疏鬆「駝矮痛」三防線 - Yahoo新聞",
-      "published": "2026-11-18T08:00:00+00:00",
-      "summary": "陳為民《醫學大聯盟》爆「變矮危機」！醫揭骨質疏鬆「駝矮痛」三防線&nbsp;&nbsp;Yahoo新聞",
+      "id": "98022100f2bc",
+      "title": "陳為民《醫學大聯盟》爆「變矮危機」！醫揭骨質疏鬆「駝矮痛」三防線 - 四季線上4gTV",
+      "published": "2026-11-19T00:33:45+00:00",
+      "summary": "陳為民《醫學大聯盟》爆「變矮危機」！醫揭骨質疏鬆「駝矮痛」三防線&nbsp;&nbsp;四季線上4gTV",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQUERZU244dllmOGhYT094NmFuUXJZaEhMUGJnc0RfM2lsMkV1NndrNHlrM1dqanI4eGJzZnJMNFBlZHE5TFFjM3JTTFotQ3MtSV9uU01EaTFKQXFSSkJGMVJDVWhuZVdfa2RmSUcydWJLVW9zU2NpNDZlU1dMcEhUckhNY2tNUWV3djcyRkxiY3FkRnpyYk5aNURtSHJ6dEI1bElKYkZJXzlDc3RlMDhEV2Q2RmNQX0F2RzJkVG9HdDJXdXJrSmFtNWJZQU1qMVFiTGJMa2pmUkVjZFl0bWdVTkpZWVlMVkVFdUtiNFdNcDVhS0ZPYm02ZENqSEVUeDhVclVoUk8wRzc1NXRUZHlsMURHUlBUQ1p2Zms3TUdtbW1Zcnlfa0FTZWh4aU5ON2dDXzBENkd0LXRvcG42?oc=5"
+          "name": "四季線上4gTV",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43Q2g0UFhNbk5PdzZCejFSb2RvOGFhdDhvTHhHNmtYVVZZdUsxbzVZVllKdXczVXJpWUFwMGJqdGVDdDRhX1JlYllCMkZSd1J6UThLWW5XSQ?oc=5"
         }
       ]
     },
     {
-      "id": "a7a8195cbf1f",
-      "title": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 - TechNews 科技新報",
-      "published": "2026-11-17T00:06:10+00:00",
-      "summary": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧&nbsp;&nbsp;TechNews 科技新報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "id": "9d537290ce12",
+      "title": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 | 科技新報 - LINE TODAY",
+      "published": "2026-11-16T11:35:12+00:00",
+      "summary": "記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 | 科技新報&nbsp;&nbsp;LINE TODAY為超高齡社會打造「抗失智支柱」，中醫教你如何防患於未然&nbsp;&nbsp;TNL The News Lens 關鍵評論網記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧&nbsp;&nbsp;TechNews 科技新報75歲記憶如45歲 研究揭超級老人大腦祕密&nbsp;&nbsp;大紀元保護大腦先顧心臟 美國臨床試驗證實改善代謝可延緩認知退化&nbsp;&nbsp;商傳媒",
       "sources": [
         {
-          "name": "TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN3lhekY3NTVyaXpJczEzSmN3ZjBWS3VMNXBvbHA3dk9tN3A1SGxOX29RalZ0TWM2Wjd0UU1SVENKQWdjM29VQ01rZnF2QkFsUzRjazFxSnZBQm5TRTczb1p5aEFBbVd0dFNtUXZaaVhIck92YU1zMUxFZG95OXlWbDc0R0dKamJ6NlJ2WmxqQWw2SVFUejZnSnJsTTM0eTJOWHZHbXVCLWF1ckJkTFhYbU1xNDlHRjhDZ01vYmp2WGtRQU9lbnBhRGlDWmxqUmtGZDk5Z0lmNXhuaGUyb3MzTQ?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GX2hkazNjT2VWRDdjZ1RLeU14aGdRLVozeVAzWUxQSVRZcmRrTjBJTzh5WHdDemtSdkl3dTI1VGw5YjFzOVY2OFRHSWw1eGp3VmljQlZn?oc=5"
         }
       ]
     },
@@ -268,14 +292,14 @@
       ]
     },
     {
-      "id": "d57da35f062f",
-      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高 - 東森新聞",
+      "id": "f3ca9c1969a2",
+      "title": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高 - Yahoo新聞",
       "published": "2026-11-15T22:00:00+00:00",
-      "summary": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高&nbsp;&nbsp;東森新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "東森深度周報／塑膠微粒可能致癌 攝護腺、乳癌機率高&nbsp;&nbsp;Yahoo新聞前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "sources": [
         {
-          "name": "東森新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WUmhjdlFweURNdW1UNHo0MG9NazNlSEpYcGtBcW5LbzVabXlDYlB5ekV0TjJKWlUtOGhTZE51UUE2YW9kMEwxZklESlVueHdyWkFhTA?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQOXdNZU4yX0VkNzFKQndiYzBXdHlMLW9aS1lYZlNzLVNwOTY0SnNpbkpBUWxsM1U0ZjNmTTQ5UUowcDUzZXJrV0VWcmpxMDhqRE5oNlNsc1ZiR0dWOEtRVzgwMk9qelBjMjZKRE5iWXI4QUp0Nzd3RWlXRk5hcDhqTkxxdGZWOXppSV9nbklQSUlBSU1HUFNjYTg1dDdLSlFyQWVVN3ZidVVwbXE2TVdkeXBkaWwxWFVsMFV3eGZLcGRNU05rTXJrLU92SzNxRURqaDdYZ2Qza2d4VVBqZFFyRFBQT0JNUWt3eE5BRzNOdi03RDRPMXp6MHhuR2lHTkZyMlhQTWlHU0hHWWhtaWV0a2JudjdKZEIyaFAwWmZDcEtkeXhZcXBRRFlLRm1FVkg0LWVrWUxvVURiN2EySXg4cU9fNmVHeTVZcWJMTnFfa0pmQ1drTUNNY1Z6Uk1ZZmM?oc=5"
         }
       ]
     },
@@ -364,18 +388,6 @@
       ]
     },
     {
-      "id": "d96e681cc4e9",
-      "title": "高血壓吃藥仍控制不好？研究揭簡化用藥、居家量血壓的好處 - 元氣網",
-      "published": "2026-11-15T09:09:19+00:00",
-      "summary": "高血壓吃藥仍控制不好？研究揭簡化用藥、居家量血壓的好處&nbsp;&nbsp;元氣網",
-      "sources": [
-        {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96MWpfVmNWRHdMU1lRTEFiZWlJVGFpcmc2RXV4RW5QanRkVHJ6dFEtNUU2a0stS2J0cVhTNTVCbGJIdGNXbld2VmJ4ZVV6eURHbzY5cEt0TEdOSkFS0gFiQVVfeXFMUGpUanhHQTFkU3gyU0NfR1ZjdUZybmFNa3l3M1VsTkt0cnR3NHpRRktMcWI3NktRdlc5X092SjRLQ2poSXAxa2toY05kbXoyb1V5VmpqX1RZNTNXUnRXN05CS1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ced4cdb77cc0",
       "title": "18歲少女私密處痛半個月 一查竟同時中18種HPV - 中時新聞網",
       "published": "2026-11-20T06:47:30+00:00",
@@ -436,42 +448,6 @@
       ]
     },
     {
-      "id": "8fb99bd7ebd2",
-      "title": "四川高中生連吞20粒感冒藥險死 誤信網傳有「愉悅感」可見鬼仔 - 星島頭條",
-      "published": "2026-11-22T06:07:26+00:00",
-      "summary": "四川高中生連吞20粒感冒藥險死 誤信網傳有「愉悅感」可見鬼仔&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNNDZZVnRRQ05Nb09PZjJRb1hhLWpJNUlXd3EzM0J2dkdIVWxTRWEyclBkbTg0SFg3c2Vrd3NEaFlWY2tlYUFQWndYWHN4dzVNVUV3MnBlOGpxYzVCMDRpLU1ibnpVOEhDNzhtSU9McU40UlFqMFFuOHZFNXhWcGgxNC1xLWlfeDJ6a3ozdElBQzdlMEdpaUNYcXpWdVNYR3dhNFJHOXkxZTYwN2VCUlRBelBKTHlodDRkSlFIa2VrS29qTGFLbFloeDBqNHRaZm9DM1BqajJpRTJfYld2Z0s2V0ZWbXAzSTFORkVQWVhCZEVfNzB1b2Y1aHEyaGx3S09VSDdXZzhWeTZ0eTViWE1saXdnbC1JWS1iZEstNk5sdk9VeVU5RGV1YUlwOWJiQ0tYY29VV0d4X2EwWXpYeXFoODRSdExSSXpDNEczTENkZ0VXcS14NklrUlk4a2RHa0llbEhnalEwOWdTcHVyVE8yTFZIeUVzX1h2YlpsMFlDVXVKc21US0Y1WWR0V0VDcjQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "944a13b98a6d",
-      "title": "不修壞基因把好基因開大聲- 醫藥新知- 新聞 - 華人今日網",
-      "published": "2026-11-20T14:28:15+00:00",
-      "summary": "不修壞基因把好基因開大聲- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9yYVBvcUxEY1Zrc3dhYlZ1SmpuY0FzQnZHdEY0SEtSeE9hNi15Z1JGUGg3OU53eU5yTzVINkdmZFU1dUhJUjdQdnhNMlFhZHlNWEZjZTJQTkllX2RnU1BlZGRIeGZjdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f1a1d1873eff",
-      "title": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽 - 香港01",
-      "published": "2026-11-21T19:57:59+00:00",
-      "summary": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQbE1pR21vRC1ETDFROHBBYWtfX0s4c0E2ZFNSS0RVeWlUZXdHblo0a0oyNUpRUV9qMU9aTkp5bWE1bjBDc0FEZ2oxWmlFb29QY2NuWERHQmRPbmdCbm1yeVIwcWNoUnNnWWNfOW5NbS04WkJNdXF0SFp0ZjJoN1FjaFNjVU9OVmhtV09ZX3RSWUgyY21WT3FpRFlmRlQyTVVKVUt1R29RQlE0Sm91V0xUSVJxa1JpYjA2REp4OFZzeXJuOXJiZ29IUjRieW02WHloekVpQ054eDdPTS10S2xjWE04WHBIZWJYWUtSUFh6SE1LNkZHcDkySUNYU25yYXM1ZDh5bVRUQzM4UnV2Rl83d0FfTzNuSzRyb3hnMTR6RG5YV2Y3MV9tcUhvdi16NUxRakNYaWw2SllIYmZ1WEpIRFNDaDhKSVQ3Z0tHc3dDZkpCT1ZDNVFmYk8tX0lEUEMyU1hrcGJmNTRVNUJJdm9WckhYaG84TjZhQ2tnUGZQcEc4TG9DX1ZpTk14MVhkRUU4NmtRcENLaHF2VERBVmJMTEE4RHViY3pvVm16ZXhMMGRUemZqSW9iSFpGUzZ2anM?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ff4cd4792f45",
       "title": "每日補充鐵劑可降低兒童及青少年缺鐵性貧血風險 - EurekAlert!",
       "published": "2026-11-17T01:40:23+00:00",
@@ -484,18 +460,6 @@
       ]
     },
     {
-      "id": "f49cc6bc5686",
-      "title": "博士牙科集團提醒：易引發蛀牙及牙齦問題 - Singtaousa",
-      "published": "2026-11-15T11:00:00+00:00",
-      "summary": "博士牙科集團提醒：易引發蛀牙及牙齦問題&nbsp;&nbsp;Singtaousa",
-      "sources": [
-        {
-          "name": "Singtaousa",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMFNlRjlIOUhOUVZUeVZEbnluMk55aGxxSE5qX0JYNmQyMXI0bU9Nc0p0Q3BLTTR4YkJWd2xzNUIzMkRmTWpFM1c0ZjRMMGdsc2xQQUVsOThJdTI5M0xXNlp2X0ZjbFA4dkdWd0haYU1XYWJKR0tCcy10TWFzSjV0WVd0Z3hFbjdYTVhpeDhxVFNTR0U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6d66126f0583",
       "title": "蚊子叮人都「挑食」！研究揭三種蚊各有所好 埃及伊蚊喜男性、 亞洲虎蚊愛酮類 - 巴士的報",
       "published": "2026-11-15T20:35:20+00:00",
@@ -504,18 +468,6 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOV3RVMnpraG9lWkVaLWhPWkE3b2UzX3JIbFFSRnpadEZHekNjYng5bTNObUhWcW5kTUNuX2wyaG9RZ2pJZ2Z2RElYSHFzVWs0S2Z0MVN2TUZJVGNkTWpMSVRDYk85WnZsUlY5eHhoVDYzU2RiQnRzU1hoek9mdGRKMEU4R25JWUJfTUFuSE1BNlgzd1h6OXRxaG85Qk5CN1NnVjRzMW00YWk1RTVPS2kxeE42Z0tKRF9SdFJYaEFCSjZkRG9waEhSd29LZGhDUWZ2UGRvYVJLWjB5blZYbEhGa2FqZEVxR0ZZRlNhaC1mUERfYUh4emFHZm9lOFAwLUVsalhBcmJzVlp1YWE3SlZtZzYyOWc5RjFtVUNpN09iVTRGbERISVFYOWxSTlJDZTh2dUFwM0ZCQ0xCOWU4Tk1pdkMtdDJsQjQydDh5TXM0Wm9SNmFhUHBJSlE3dUEwbF9zblFpX0hGTXluZ2RjekE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "80842c852e36",
-      "title": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報 - LINE TODAY",
-      "published": "2026-11-15T09:49:22+00:00",
-      "summary": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑 | 科技新報&nbsp;&nbsp;LINE TODAY",
-      "sources": [
-        {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlJycjJXZGh5LVlFWjRoZ3RZdFp3QnIxTkgzY1NCelpMTXBCYXBsdE1VRGIwS0ZaQXVVQ3I0TjJlbDVVZWJaOFdJNnFEc0d4cWx4c2UyMWY0Mlh3TzUyN3o1dW55UHAtTWRRbUp4YlZjWE1UQ3JSNjEyZ0tXem8yelRLdw?oc=5"
         }
       ]
     },
@@ -652,14 +604,14 @@
       ]
     },
     {
-      "id": "2cd0d4d43475",
-      "title": "炒菜換減鈉鹽能護心臟防中風？研究證中風風險降14% 附安全食用指南 - 星島頭條",
-      "published": "2026-11-18T07:00:00+00:00",
-      "summary": "炒菜換減鈉鹽能護心臟防中風？研究證中風風險降14% 附安全食用指南&nbsp;&nbsp;星島頭條",
+      "id": "f1a1d1873eff",
+      "title": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽 - 香港01",
+      "published": "2026-11-21T19:57:59+00:00",
+      "summary": "全球20億人感染弓形蟲病！專家中招證無藥根治 感染途徑症狀一覽&nbsp;&nbsp;香港01",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQSTU3U3pvZU9mMWhFaENEOTZ6NDdlYXJRQ0pPYWx5TzFzM2ZUWUNpTmdESURkTHlRRE9KSkRqUjhQX0dDUkJkNE5BcGNvRHZDSDBuR2hGY2pMdHYwelYzcUJoWnFRbmstQ2RSUl9PZTQxOWRFcEtSU1ZIVmtGeU1uV2RZTnVQekxidnNFSllfZVRWcGpPTlpOdklDLXI1Q0ZLV1VYbm1PY3dzU1lQR09DYTlQaVozbjJMNVltSTZDazluMVl1OUdmUU9MSGV0TE1kYkpabHJtbFI1XzAwREhSZDhtR1oxaWM5ZUZkNkZoeG1hS3BHT2JnQ25PT1IwZVI5aGJiSGZSaC1mMDFQUkVTa1lPNnM4NnhWWktSUmpRVzBFWXpMYVIwdzJScnRFWl9VbXVQUHlRMXRBMnhwR3Y4dXR5TUFGTGF3ZUFKQUctVFB3M0RjblZEX0JRN01kQXo2ZTh1cHNOcl9OOURpOEV0QkhyTlRVaGF1cXlwTEZMdEhHS1NvTlJVVXRGQ19LWnpwUDZEV0VvaXpzM0haOWFQZ0hMMDdtck8xNHJmbURDRQ?oc=5"
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQbE1pR21vRC1ETDFROHBBYWtfX0s4c0E2ZFNSS0RVeWlUZXdHblo0a0oyNUpRUV9qMU9aTkp5bWE1bjBDc0FEZ2oxWmlFb29QY2NuWERHQmRPbmdCbm1yeVIwcWNoUnNnWWNfOW5NbS04WkJNdXF0SFp0ZjJoN1FjaFNjVU9OVmhtV09ZX3RSWUgyY21WT3FpRFlmRlQyTVVKVUt1R29RQlE0Sm91V0xUSVJxa1JpYjA2REp4OFZzeXJuOXJiZ29IUjRieW02WHloekVpQ054eDdPTS10S2xjWE04WHBIZWJYWUtSUFh6SE1LNkZHcDkySUNYU25yYXM1ZDh5bVRUQzM4UnV2Rl83d0FfTzNuSzRyb3hnMTR6RG5YV2Y3MV9tcUhvdi16NUxRakNYaWw2SllIYmZ1WEpIRFNDaDhKSVQ3Z0tHc3dDZkpCT1ZDNVFmYk8tX0lEUEMyU1hrcGJmNTRVNUJJdm9WckhYaG84TjZhQ2tnUGZQcEc4TG9DX1ZpTk14MVhkRUU4NmtRcENLaHF2VERBVmJMTEE4RHViY3pvVm16ZXhMMGRUemZqSW9iSFpGUzZ2anM?oc=5"
         }
       ]
     },

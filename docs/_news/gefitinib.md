@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（35 則）
+## 相關新聞（37 則）
 
 ### [280 萬人基因分析揭阿茲海默症新線索，48 個風險區域首度現身 - TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0xRanFVOXN3QTQ2X1RXalZHYk9GQUZKRVJuYWRBaC1YUEpvMkhXeXB2SVZQc0FLMGRhQ0dTeWpBWEFTUXNpZjU1c3g1ekZjeVY4LUNmVDNYMVJYMVV3Y041bWVTc2xPNEI2WUpobUljN1FxMDdFbkRPSkxXaXVQSmM3bmVHd3FHODAwOFYxOHJvbHdGcjJObUhMX2p5RVdGaW9rbHpyTms0MGhfT0E?oc=5)
 
@@ -113,6 +113,14 @@ last_modified_at: 2026-11-22
 2026-11-19 <span class="news-indication-tag">腫瘤</span>
 
 來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYaE1LWnFwVzVxTWNwVE9MbkFONFREd21EcFNxcVpzRlVqYVJLcWEtdUZjNFAySkhnbGxBVEx0Si16RWFvOU11LWZxU2JGU2sxNldPUHk3MnR0a2pYWFBMRFFBZTdVdw?oc=5)
+
+---
+
+### [長輩電視音量越開越大聲？醫：聽力退化恐增失智風險](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeU1Tb3ozbnRYdkhZS2owVkp1cDZDSEtzSXl0bTlXQm90RVlQOG52c21LYXNBQ3RCalpIcFVEb1Y2Z1VqMi1QakpXa1dOV1ZrVkJRa2lKRVVuLWRHS0lRN25hQ3UxcDF5aG9nX25yQjQtY0pvRURnNjZlVVVkaUtWZTI1Qjljb2Z5dldtcXZmLTdyOExEYVlfVllvVlBwaTlsUDZDZVc5TVV4endjWGhaMDNvNnJnM210NGg5cjVlQ2NEQmhxbmI2UlVzME5GTnMwNGRTbWVCdzY3WmRlY3V0YUxTUGJGdmpvVF9lTk8xYW9jTEFjYmItRXFBT0Q1YTNwd2prY2hsbEJXUnhwbl9SdkJlaWZLYzJ0cVhYWEFMQnNGRlBiRkpFMThMa09hZGgxRlJtWDR5Y0hyOTc3WDZ5eWVFVFkwb3VtM3l2R3FMbnZaVXhjbElqMlNhMm84QQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">失智</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeU1Tb3ozbnRYdkhZS2owVkp1cDZDSEtzSXl0bTlXQm90RVlQOG52c21LYXNBQ3RCalpIcFVEb1Y2Z1VqMi1QakpXa1dOV1ZrVkJRa2lKRVVuLWRHS0lRN25hQ3UxcDF5aG9nX25yQjQtY0pvRURnNjZlVVVkaUtWZTI1Qjljb2Z5dldtcXZmLTdyOExEYVlfVllvVlBwaTlsUDZDZVc5TVV4endjWGhaMDNvNnJnM210NGg5cjVlQ2NEQmhxbmI2UlVzME5GTnMwNGRTbWVCdzY3WmRlY3V0YUxTUGJGdmpvVF9lTk8xYW9jTEFjYmItRXFBT0Q1YTNwd2prY2hsbEJXUnhwbl9SdkJlaWZLYzJ0cVhYWEFMQnNGRlBiRkpFMThMa09hZGgxRlJtWDR5Y0hyOTc3WDZ5eWVFVFkwb3VtM3l2R3FMbnZaVXhjbElqMlNhMm84QQ?oc=5)
 
 ---
 
@@ -217,6 +225,14 @@ last_modified_at: 2026-11-22
 2026-11-16 <span class="news-indication-tag">癌症</span>
 
 來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1XY3NOa3Zwa1ZFR3dvazdvNy16VVp4WUtwSkJIT2RXbkNoRElDQXlYdG5pTzBoTlNET1ZCXzZYM0pSTjhtYlp6TTJpd3dYU1hBQzN5enFPMEh6YjAzSWNvU2930gFnQVVfeXFMTkRwWWI1dFFjbFRDN3NmQzlIc0l6b0EySnplcmNJbkYxSWZ5Q2wzUldBeVhRN0t0RXZEd2tNaXYtNGVsRW9YNUNWR29zamttREtVYi1FeTZqdXk3bjJMeDNvYW5VcXJLNA?oc=5)
+
+---
+
+### [記憶力衰退是演化結果，研究：老化大腦捨棄細節換取智慧 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GX2hkazNjT2VWRDdjZ1RLeU14aGdRLVozeVAzWUxQSVRZcmRrTjBJTzh5WHdDemtSdkl3dTI1VGw5YjFzOVY2OFRHSWw1eGp3VmljQlZn?oc=5)
+
+2026-11-16 <span class="news-indication-tag">失智</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GX2hkazNjT2VWRDdjZ1RLeU14aGdRLVozeVAzWUxQSVRZcmRrTjBJTzh5WHdDemtSdkl3dTI1VGw5YjFzOVY2OFRHSWw1eGp3VmljQlZn?oc=5)
 
 ---
 
