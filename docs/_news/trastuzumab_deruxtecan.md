@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Trastuzumab deruxtecan 的相關健康新聞報導。原適應症：轉移性乳癌（HER2 陽性、HER2 弱陽性／微陽性）、HER2 突變之無法切除或轉移性非小細胞肺癌...。預測適應症 1 個。"
 permalink: /news/trastuzumab_deruxtecan/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-22
 ---
 
 # Trastuzumab deruxtecan 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Trastuzumab deruxtecan 有什麼相關新聞？">
-<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>1 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/trastuzumab-deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（1 則）
+## 相關新聞（2 則）
+
+### [21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5)
+
+2026-11-22 <span class="news-indication-tag">胃癌</span>
+
+來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5)
+
+---
 
 ### [胃癌診斷的困惑（叶华青医师，MD/Ph.D）（美中报导）](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQzRLNzlkNkNhMDdjNjF3Rl9JdGVqTEc3a3VvOTd3dWYyNWU0dDFScXhMT3k0NjA5aW9NM3htUnYxQTU2WHY3NHBEY0c5NEMta3BSR3EtV3p0Zmp2Vm1ERHRGLVo5RFdwcm5GWGRVaTNwNUpyQjFOdnRCVlpGN1dQZHgwUVZlQ2NkcWIzRzFR?oc=5)
 
