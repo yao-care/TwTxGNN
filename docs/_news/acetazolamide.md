@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（31 則）
+
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是T 細胞攻擊開關- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tZkgxT2lUYk9yWGFUWDJrVi11RUJMalJDNzEzZzRaNDZyWGREQURCUGR3N0wwYjJRN2xDdWc1MzRfd1c3RVVIX294RkZDWmVBVW9CdXhpRk4?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘤</span>
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tZkgxT2lUYk9yWGFUWDJrVi11RUJMalJDNzEzZzRaNDZyWGREQURCUGR3N0wwYjJRN2xDdWc1MzRfd1c3RVVIX294RkZDWmVBVW9CdXhpRk4?oc=5)
+
+---
 
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 - TechNews 科技新報](https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlFOT2VmZGlFOVZ5LVFiRHEtR19PcDBkRHdodGMzUlE2LTFGNXdrZy01cl9vR1hSUnpGT3pFcUVTVWE3V0xGR3pKd0pvNnhkN1VRS3BKdGhmaElrclpkLW1adV9neEZHXzVuZFpISkpFQ2JpUGQ2UDVtNzAwNHNOeTljM3UwdndtdERHM3c4UFJsd2s5Mk13bXFwQl9LUGhkV2hXVktfNA?oc=5)
 
@@ -93,6 +101,14 @@ last_modified_at: 2026-11-22
 
 ---
 
+### [癌症醫療新時代 從精準抗癌到中西醫整合照護 - 報新聞 Mega News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUkltLTd4a0U1SDFaUThBaHpHaW1hVlgyQ01PQjU5NF9OcW5sNUNyVHc5UjJJdWFGdGF2ZkkxcVhaMkF4dlZDaDRtZ0Y1M0hFdUNEaV9ySUN6TFVRRm55LWQxcFZ4Sld5aENxekNMbE9vQzZGb0F5T2JuUTVkRWN6aldNNDh5QVIwcXg5RV9nRWxIWFNuRUZtOVlVdHp0T0EweUhSZm40MWpMZ01NOXA1WHRWNUs0NldvbkxlZlZ1LVhnRWxGX2U2TWZqcGt3V2tFQ2x0eF9TeTZlQVhUbWNpckdGbFJpN0ZuSEt5OFBrMzlYcEt3VDJrdjVWRWtMbm0xR2NUbXN4ZzRnSjRsek0wOHNqVEU0TXo1YzJOR3RDWENSODJOZVcyRTFlOEZhdmZFdVpnazhQRlNZTmFaUnp4QjFCU0tVWDVqeWNQM1VHUHg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">癌症</span>
+
+來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUkltLTd4a0U1SDFaUThBaHpHaW1hVlgyQ01PQjU5NF9OcW5sNUNyVHc5UjJJdWFGdGF2ZkkxcVhaMkF4dlZDaDRtZ0Y1M0hFdUNEaV9ySUN6TFVRRm55LWQxcFZ4Sld5aENxekNMbE9vQzZGb0F5T2JuUTVkRWN6aldNNDh5QVIwcXg5RV9nRWxIWFNuRUZtOVlVdHp0T0EweUhSZm40MWpMZ01NOXA1WHRWNUs0NldvbkxlZlZ1LVhnRWxGX2U2TWZqcGt3V2tFQ2x0eF9TeTZlQVhUbWNpckdGbFJpN0ZuSEt5OFBrMzlYcEt3VDJrdjVWRWtMbm0xR2NUbXN4ZzRnSjRsek0wOHNqVEU0TXo1YzJOR3RDWENSODJOZVcyRTFlOEZhdmZFdVpnazhQRlNZTmFaUnp4QjFCU0tVWDVqeWNQM1VHUHg?oc=5)
+
+---
+
 ### [心臟病｜6旬男耳朵兩個特徵以為有福 驚揭心肌缺氧險梗塞 自測耳仔出現「求救線」心臟病風險高1.4倍 - myTV SUPER](https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5)
 
 2026-11-18 <span class="news-indication-tag">心臟病</span>
@@ -122,6 +138,14 @@ last_modified_at: 2026-11-22
 2026-11-18 <span class="news-indication-tag">癌症</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6bklqYzE1TkVCWVdMa3NCa20xa09hTDM0bU1wRDQ4Z3VvakhZZEhmMDNJc3U1N08tdWN4WVdOY3NnRXFFeHVhdmJCOEZyVERQWENENXpydzF3a3d0NkFj?oc=5)
+
+---
+
+### [團險出現癌症保障缺口 40歲以上申請理賠人數逾9成](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYmdKRDNWcTFFbElXQ0cycElrUWFCZzF5azhSVUpmbnZkVng3SHRhWDNxRTY5QV95VFVXYkkzLUpxdjROaGl3RDhSVnFzWWhRU3l3RTV4NU1kUdIBX0FVX3lxTFBGajlVcG1BWUtNOVhCQU13RGM3WG5DaEtZN211NmZucndEcm56SG8xVXZVelp2LUdBOE4zazN6UTdVSjB3UnBHVVJlT0MyT1BPQjhBWTdGMWMyRXpLcV9z?oc=5)
+
+2026-11-18 <span class="news-indication-tag">癌症</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYmdKRDNWcTFFbElXQ0cycElrUWFCZzF5azhSVUpmbnZkVng3SHRhWDNxRTY5QV95VFVXYkkzLUpxdjROaGl3RDhSVnFzWWhRU3l3RTV4NU1kUdIBX0FVX3lxTFBGajlVcG1BWUtNOVhCQU13RGM3WG5DaEtZN211NmZucndEcm56SG8xVXZVelp2LUdBOE4zazN6UTdVSjB3UnBHVVJlT0MyT1BPQjhBWTdGMWMyRXpLcV9z?oc=5)
 
 ---
 
