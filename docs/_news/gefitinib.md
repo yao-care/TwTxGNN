@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（37 則）
+## 相關新聞（38 則）
 
 ### [280 萬人基因分析揭阿茲海默症新線索，48 個風險區域首度現身 - TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0xRanFVOXN3QTQ2X1RXalZHYk9GQUZKRVJuYWRBaC1YUEpvMkhXeXB2SVZQc0FLMGRhQ0dTeWpBWEFTUXNpZjU1c3g1ekZjeVY4LUNmVDNYMVJYMVV3Y041bWVTc2xPNEI2WUpobUljN1FxMDdFbkRPSkxXaXVQSmM3bmVHd3FHODAwOFYxOHJvbHdGcjJObUhMX2p5RVdGaW9rbHpyTms0MGhfT0E?oc=5)
 
@@ -169,6 +169,14 @@ last_modified_at: 2026-11-22
 2026-11-18 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">失智</span>
 
 來源: [BigGo 財經](https://news.google.com/rss/articles/CBMiekFVX3lxTE1kMWptNlRlbjlBc2lvRGtYNjRXTlh3V1FrYUlvTGszWDV6cjZqMlE1bWI3YmtQbTJnZXJ4dHZEVy1lcHpOc3BHNEt3T09QcUVUUENRU2NZcktHRGhNLS1QaEZIdDBiYVNsRGNfbVZLc3J1ajlzajhqQ05n?oc=5)
+
+---
+
+### [團險出現癌症保障缺口40歲以上申請理賠人數逾9成 | 金融脈動| 金融 - 經濟日報- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
 
 ---
 

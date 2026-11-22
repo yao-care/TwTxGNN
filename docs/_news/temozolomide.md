@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Temozolomide 有什麼相關新聞？">
-<strong>Temozolomide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Temozolomide</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/temozolomide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
 
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是T 細胞攻擊開關- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tZkgxT2lUYk9yWGFUWDJrVi11RUJMalJDNzEzZzRaNDZyWGREQURCUGR3N0wwYjJRN2xDdWc1MzRfd1c3RVVIX294RkZDWmVBVW9CdXhpRk4?oc=5)
 
@@ -129,6 +129,14 @@ last_modified_at: 2026-11-22
 2026-11-18 <span class="news-indication-tag">癌症</span>
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYmdKRDNWcTFFbElXQ0cycElrUWFCZzF5azhSVUpmbnZkVng3SHRhWDNxRTY5QV95VFVXYkkzLUpxdjROaGl3RDhSVnFzWWhRU3l3RTV4NU1kUdIBX0FVX3lxTFBGajlVcG1BWUtNOVhCQU13RGM3WG5DaEtZN211NmZucndEcm56SG8xVXZVelp2LUdBOE4zazN6UTdVSjB3UnBHVVJlT0MyT1BPQjhBWTdGMWMyRXpLcV9z?oc=5)
+
+---
+
+### [團險出現癌症保障缺口40歲以上申請理賠人數逾9成 | 金融脈動| 金融 - 經濟日報- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
 
 ---
 

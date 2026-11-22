@@ -3,7 +3,7 @@ layout: default
 title: "腫瘤 (generic_cancer) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "腫瘤 (generic_cancer) 的相關健康新聞報導。26 則新聞、47 個相關藥物。"
+description: "腫瘤 (generic_cancer) 的相關健康新聞報導。27 則新聞、47 個相關藥物。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="腫瘤 (generic_cancer) 有什麼相關新聞？">
-<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>26 則</strong>相關新聞報導，47 個相關藥物。
+<strong>腫瘤 (generic_cancer)</strong> 目前有 <strong>27 則</strong>相關新聞報導，47 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -76,7 +76,7 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（27 則）
 
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是T 細胞攻擊開關- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tZkgxT2lUYk9yWGFUWDJrVi11RUJMalJDNzEzZzRaNDZyWGREQURCUGR3N0wwYjJRN2xDdWc1MzRfd1c3RVVIX294RkZDWmVBVW9CdXhpRk4?oc=5)
 
@@ -171,6 +171,14 @@ last_modified_at: 2026-11-22
 2026-11-18
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYmdKRDNWcTFFbElXQ0cycElrUWFCZzF5azhSVUpmbnZkVng3SHRhWDNxRTY5QV95VFVXYkkzLUpxdjROaGl3RDhSVnFzWWhRU3l3RTV4NU1kUdIBX0FVX3lxTFBGajlVcG1BWUtNOVhCQU13RGM3WG5DaEtZN211NmZucndEcm56SG8xVXZVelp2LUdBOE4zazN6UTdVSjB3UnBHVVJlT0MyT1BPQjhBWTdGMWMyRXpLcV9z?oc=5)
+
+---
+
+### [團險出現癌症保障缺口40歲以上申請理賠人數逾9成 | 金融脈動| 金融 - 經濟日報- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
+
+2026-11-17
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
 
 ---
 

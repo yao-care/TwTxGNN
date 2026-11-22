@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（28 則）
+## 相關新聞（29 則）
 
 ### [21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5)
 
@@ -154,6 +154,14 @@ last_modified_at: 2026-11-22
 2026-11-18 <span class="news-indication-tag">癌症</span>
 
 來源: [經濟日報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PYmdKRDNWcTFFbElXQ0cycElrUWFCZzF5azhSVUpmbnZkVng3SHRhWDNxRTY5QV95VFVXYkkzLUpxdjROaGl3RDhSVnFzWWhRU3l3RTV4NU1kUdIBX0FVX3lxTFBGajlVcG1BWUtNOVhCQU13RGM3WG5DaEtZN211NmZucndEcm56SG8xVXZVelp2LUdBOE4zazN6UTdVSjB3UnBHVVJlT0MyT1BPQjhBWTdGMWMyRXpLcV9z?oc=5)
+
+---
+
+### [團險出現癌症保障缺口40歲以上申請理賠人數逾9成 | 金融脈動| 金融 - 經濟日報- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
+
+2026-11-17 <span class="news-indication-tag">癌症</span>
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZXZfOV94SVdXV09kT1lZVlNnd1MtSnFCYnBjS2k0WmQ3MlZrN2ZMVEtZYVRDY1ZKNmtMdWdaQVZKam9JUVVCZDdfYmgzdnp4czlkZHMzcUo?oc=5)
 
 ---
 
