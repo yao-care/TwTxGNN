@@ -3,9 +3,9 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。18 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。19 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # 感冒 (common cold) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>18 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>19 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（19 則）
+
+### [安寶醫療發布秋冬健康管理指南 灣仔醫生推薦預防感冒、流感及持續咳嗽建議](https://news.google.com/rss/articles/CBMi4ANBVV95cUxPQjM0YVIzeTZQU3lVbksxekFRWHQ5WVJNMmdXVm1oRDI4eF9ianVrbzhWckxSaWtfWGNPandGV05GQUdwdDRIem9XbFJoV2Ruek1DcnhTMzJWYnVPbVFGZTZEeExhQ1NpQjhjam9QZDVpblk2VUtrNHVzc1hzNi1qV1Y3a3JORXVuTEdRUnBaNy1IVVgtQ2tpb2s2djM3c0N5MFktWGI4UHU4S3dSdl9xcm8yZUxST0hvcEI1RFpCQ19wMU5iMEJudGdCWnRjeUVmTnBSNEFSYnBOQnpDS3VWUzAxRWNfeG5HdURUb0tsWjNvZUR3V1lUcktJTFhsZGZzYWt1TkZTOFZxaDBhMFZVazdsY1JuNjQzUVE5bVVQUmxhT1czVGpSRTJYS1ZEY0w4OUhfN0tTOEZaa0VHVWpKRmlJVlJQUDdaUXJjRW5wMGcwU2g0SUdfTkJpSVZrbE1vU253SFlKQlhqekFDdVBrUDBMbEpnNDZyal9heW5mT2lwbnJ4OWhGdGxHUGhWRTgtdTZiWFlXWGJrQk5MMmc0dlc3M3JEUS10S1V3dGpwUld2dXIwXzJLbTluR0ZQSXRXRWVsX3ExMWg0MUR2NGE4SjIzV3BhWlRxLXV2M3lPSlE?oc=5)
+
+2026-11-23
+
+來源: [BusinessFocus](https://news.google.com/rss/articles/CBMi4ANBVV95cUxPQjM0YVIzeTZQU3lVbksxekFRWHQ5WVJNMmdXVm1oRDI4eF9ianVrbzhWckxSaWtfWGNPandGV05GQUdwdDRIem9XbFJoV2Ruek1DcnhTMzJWYnVPbVFGZTZEeExhQ1NpQjhjam9QZDVpblk2VUtrNHVzc1hzNi1qV1Y3a3JORXVuTEdRUnBaNy1IVVgtQ2tpb2s2djM3c0N5MFktWGI4UHU4S3dSdl9xcm8yZUxST0hvcEI1RFpCQ19wMU5iMEJudGdCWnRjeUVmTnBSNEFSYnBOQnpDS3VWUzAxRWNfeG5HdURUb0tsWjNvZUR3V1lUcktJTFhsZGZzYWt1TkZTOFZxaDBhMFZVazdsY1JuNjQzUVE5bVVQUmxhT1czVGpSRTJYS1ZEY0w4OUhfN0tTOEZaa0VHVWpKRmlJVlJQUDdaUXJjRW5wMGcwU2g0SUdfTkJpSVZrbE1vU253SFlKQlhqekFDdVBrUDBMbEpnNDZyal9heW5mT2lwbnJ4OWhGdGxHUGhWRTgtdTZiWFlXWGJrQk5MMmc0dlc3M3JEUS10S1V3dGpwUld2dXIwXzJLbTluR0ZQSXRXRWVsX3ExMWg0MUR2NGE4SjIzV3BhWlRxLXV2M3lPSlE?oc=5)
+
+---
 
 ### [四川高中生連吞20粒感冒藥險死 誤信網傳有「愉悅感」可見鬼仔](https://news.google.com/rss/articles/CBMijwNBVV95cUxNNDZZVnRRQ05Nb09PZjJRb1hhLWpJNUlXd3EzM0J2dkdIVWxTRWEyclBkbTg0SFg3c2Vrd3NEaFlWY2tlYUFQWndYWHN4dzVNVUV3MnBlOGpxYzVCMDRpLU1ibnpVOEhDNzhtSU9McU40UlFqMFFuOHZFNXhWcGgxNC1xLWlfeDJ6a3ozdElBQzdlMEdpaUNYcXpWdVNYR3dhNFJHOXkxZTYwN2VCUlRBelBKTHlodDRkSlFIa2VrS29qTGFLbFloeDBqNHRaZm9DM1BqajJpRTJfYld2Z0s2V0ZWbXAzSTFORkVQWVhCZEVfNzB1b2Y1aHEyaGx3S09VSDdXZzhWeTZ0eTViWE1saXdnbC1JWS1iZEstNk5sdk9VeVU5RGV1YUlwOWJiQ0tYY29VV0d4X2EwWXpYeXFoODRSdExSSXpDNEczTENkZ0VXcS14NklrUlk4a2RHa0llbEhnalEwOWdTcHVyVE8yTFZIeUVzX1h2YlpsMFlDVXVKc21US0Y1WWR0V0VDcjQ?oc=5)
 
@@ -40,19 +48,19 @@ last_modified_at: 2026-11-22
 
 ---
 
-### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
-
-2026-11-19
-
-來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
-
----
-
 ### [別把新冠當感冒！2025新冠高峰重症/死亡數是年底流感季3倍？醫點名高風險族群必做一件事保命](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
 
 2026-11-19
 
 來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
+
+---
+
+### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
+
+2026-11-19
+
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 
 ---
 

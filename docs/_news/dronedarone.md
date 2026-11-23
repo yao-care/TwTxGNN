@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dronedarone 的相關健康新聞報導。原適應症：血管擴張劑。（另一張許可證：最近 6 個月內有陣發性或持續性 AF/AFL，且目前處於竇性節律者，降...。預測適應症 9 個。"
 permalink: /news/dronedarone/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-23
 ---
 
 # Dronedarone 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="Dronedarone 有什麼相關新聞？">
-<strong>Dronedarone</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Dronedarone</strong> 目前有 <strong>7 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/dronedarone/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [子曰論健康》流感不是吃成藥就會好！ 醫教3原則防重症](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+2026-11-23 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+---
 
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 

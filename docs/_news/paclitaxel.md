@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已...。預測適應症 2 個。"
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Paclitaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（39 則）
+## 相關新聞（41 則）
+
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
+
+來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
+
+### [全球更年期商機破 8,000 億 英媒揭健康產業行銷陷阱](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMFgtLUFuRlU4NWhkZHBRenp3ZDE2eGs3dE82TDNzTWtxbjVwYWVBS1lKRjhrUHk4R0c0cWJxSEZEM0R2MXZCMWVNUnlVVzMwQVlrNXQzSVBxX0NrNzJNWmZNb2p3NUF2OU4xT0g4aEZTNFdpaDJ0a1FpbjFpTGk3ZjVIUG1FYVZwTVFGT04ycDdSSzhWamJnUGRNZEpvWm96SVg4UG1HcUxaZXFZOVdnRkpKQXJQQXlPUk14MEFDR1JYcnBYTnJCaDlVbHB6bktqUG5wcXQ4dWQ1Z3VTQWxYMExsOE5ONmJneVM5VHMyOG0yOEZ4U1FCRHY4NmdMV2VTc2FuZkx6OXVQVVZOZENUNTExeEpwd1dIcE1iLXd2X3ZTX1l6LWVvUVNFSkVRUHNxODdObEZSVEdMMUtOT25zc3RNMHJZczZHYzRyc2wxYXFiREF5cnJzM1p6anY5akZWMnFz?oc=5)
+
+2026-11-23 <span class="news-indication-tag">更年期</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMFgtLUFuRlU4NWhkZHBRenp3ZDE2eGs3dE82TDNzTWtxbjVwYWVBS1lKRjhrUHk4R0c0cWJxSEZEM0R2MXZCMWVNUnlVVzMwQVlrNXQzSVBxX0NrNzJNWmZNb2p3NUF2OU4xT0g4aEZTNFdpaDJ0a1FpbjFpTGk3ZjVIUG1FYVZwTVFGT04ycDdSSzhWamJnUGRNZEpvWm96SVg4UG1HcUxaZXFZOVdnRkpKQXJQQXlPUk14MEFDR1JYcnBYTnJCaDlVbHB6bktqUG5wcXQ4dWQ1Z3VTQWxYMExsOE5ONmJneVM5VHMyOG0yOEZ4U1FCRHY4NmdMV2VTc2FuZkx6OXVQVVZOZENUNTExeEpwd1dIcE1iLXd2X3ZTX1l6LWVvUVNFSkVRUHNxODdObEZSVEdMMUtOT25zc3RNMHJZczZHYzRyc2wxYXFiREF5cnJzM1p6anY5akZWMnFz?oc=5)
+
+---
+
+### [卵巢癌術後腳腫緊繃難走！醫揭下肢淋巴水腫風險、處置對策](https://news.google.com/rss/articles/CBMi3gJBVV95cUxPeEVUVk5iSVNqV1VYR1lNUTBDWHUwc01MQXJNT0w4QVUwaVNDV2MyR1lKd2RFN0FvYW5qRTl1Nm5PQVV4a2dNZGM4YnVfeXFiTnlCTXFuUmg1QkxxUW1iRDUwY3BzRlgwVlNHUndXQ3l1clctbGdRSElwNjBuOG9WV2hwTzJONnRCMW9MMVljQXhoc3QzOHViUGNNTUwtalNXU0dJOHpSVXVGZWdNNFp0bzExLVNBc2R0T05keHJMZnFwYlVMTU1ydmVxZjNOX3o0eTR1VjlKbVRBWmQ4aUhrMDNXUFlQbk1GS3JGLS1yZWJTSE5zRGFwQzREdXJRbGRRUnJRVldESXdocnFvaFV0OFRWYnhCRWx2dzQwYmU1dnZBQ2h2d0x4YkZqek1CMnlpSkowbG1ad0VDbDNkUGFrenQ5M2lUUUhEMUZ0ZVFlQnJaT2hrSlZheF9WLXNDQQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">卵巢癌</span>
+
+來源: [獨家報導](https://news.google.com/rss/articles/CBMi3gJBVV95cUxPeEVUVk5iSVNqV1VYR1lNUTBDWHUwc01MQXJNT0w4QVUwaVNDV2MyR1lKd2RFN0FvYW5qRTl1Nm5PQVV4a2dNZGM4YnVfeXFiTnlCTXFuUmg1QkxxUW1iRDUwY3BzRlgwVlNHUndXQ3l1clctbGdRSElwNjBuOG9WV2hwTzJONnRCMW9MMVljQXhoc3QzOHViUGNNTUwtalNXU0dJOHpSVXVGZWdNNFp0bzExLVNBc2R0T05keHJMZnFwYlVMTU1ydmVxZjNOX3o0eTR1VjlKbVRBWmQ4aUhrMDNXUFlQbk1GS3JGLS1yZWJTSE5zRGFwQzREdXJRbGRRUnJRVldESXdocnFvaFV0OFRWYnhCRWx2dzQwYmU1dnZBQ2h2d0x4YkZqek1CMnlpSkowbG1ad0VDbDNkUGFrenQ5M2lUUUhEMUZ0ZVFlQnJaT2hrSlZheF9WLXNDQQ?oc=5)
+
+---
 
 ### [21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5)
 
@@ -82,14 +106,6 @@ last_modified_at: 2026-11-22
 2026-11-20 <span class="news-indication-tag">腎癌</span> <span class="news-indication-tag">更年期</span>
 
 來源: [myTV SUPER](https://news.google.com/rss/articles/CBMi4ARBVV95cUxQY3ZnTDZCOUZrM2l3ZEl2dW9YaU5vU2VXSnRpWEljVGdNM3N5Q1JYbmd4Q2lERDhuMGJXc0FMSDI3b0tzaTBYLWV4clE0Z2dLa0NLRjcwdE9nZkhHc1RMV001SEdzcjM0aUlfLVVhdGstSHFCRXFJTWlQeHF6YkZ4bGI5MnRYTzl1X284NVdtMFhtWkhuQm13czFUZWszY3J5MF8xUF91Vklzd0w1WEs0V0NmY0h5bmVORER0a09WQ01URHlBbG5oZnBXWVp3Nmd5dnluZHJkVF9GcWlnMllhbUlOVkZMMHFGSm15Tk9LQjdmY2xJNGdyMG1fcjFVQW5PQUo3OVBDVHVGSjNQYk9KWW9TOUx1dWUzblgyamF5ODVOc1ozWEUtSGNaQ2h6ZEE3TEN0N2p4c0llNFpsT3RzalVwX05kV29aQlNTa3ZucFdXakI5SnBoQTEzN211aWYwdm1VYUJjSEI0RzQtSHBDckotUVJ4akx0QXRPNUI1Z3J3MXJZLU95SjMzRHZNN1BCLVVZNlk0RXZmeURybTFlSEV0b2dXZWdaSmlXanloYnJYVGNYaEJ5RGxvN2NyWWthWV9qMEtBcDZtMW4taHg4dF9NX0dUemJKc1BDd090SUU0bEFhRDdpVGVvcWI1U0VCdV9lbGxBQklMZTQ4elNQM0RRWllGRmtYMEdSdFBiRDVWQUJ2SjAzdWp5ZFh6SU54ajdIRXV5NnVRVkpaUW9RS241X1ZkLVlDdzZkU2VrZ1NNT0FHSUFEaTZOVk1XRGhHdW0yWEdEYkFjU2JDeG5KMw?oc=5)
-
----
-
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
-
-2026-11-20 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
-
-來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 ---
 

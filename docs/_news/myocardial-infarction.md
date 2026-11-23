@@ -3,9 +3,9 @@ layout: default
 title: "心梗 (myocardial infarction) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心梗 (myocardial infarction) 的相關健康新聞報導。11 則新聞、1 個相關藥物。"
+description: "心梗 (myocardial infarction) 的相關健康新聞報導。12 則新聞、1 個相關藥物。"
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-23
 ---
 
 # 心梗 (myocardial infarction) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="心梗 (myocardial infarction) 有什麼相關新聞？">
-<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>11 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心梗 (myocardial infarction)</strong> 目前有 <strong>12 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（12 則）
+
+### [子曰論健康》流感不是吃成藥就會好！ 醫教3原則防重症](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+2026-11-23
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+---
 
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 

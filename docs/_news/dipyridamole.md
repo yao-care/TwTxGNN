@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Dipyridamole 的相關健康新聞報導。原適應症：對於慢性狹心症之治療可能有效。預測適應症 6 個。"
 permalink: /news/dipyridamole/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 # Dipyridamole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>10 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Dipyridamole</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（10 則）
+## 相關新聞（11 則）
+
+### [子曰論健康》流感不是吃成藥就會好！ 醫教3原則防重症](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+2026-11-23 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+---
 
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 

@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Regorafenib 的相關健康新聞報導。原適應症：大腸直腸癌（轉移性，曾接受含 fluoropyrimidine、oxaliplatin、irinot...。預測適應症 8 個。"
 permalink: /news/regorafenib/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Regorafenib 相關新聞
@@ -42,6 +42,14 @@ last_modified_at: 2026-11-22
 </div>
 
 ## 相關新聞（28 則）
+
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
+
+來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
 
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是T 細胞攻擊開關- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tZkgxT2lUYk9yWGFUWDJrVi11RUJMalJDNzEzZzRaNDZyWGREQURCUGR3N0wwYjJRN2xDdWc1MzRfd1c3RVVIX294RkZDWmVBVW9CdXhpRk4?oc=5)
 
@@ -80,14 +88,6 @@ last_modified_at: 2026-11-22
 2026-11-20 <span class="news-indication-tag">腎癌</span> <span class="news-indication-tag">更年期</span>
 
 來源: [myTV SUPER](https://news.google.com/rss/articles/CBMi4ARBVV95cUxQY3ZnTDZCOUZrM2l3ZEl2dW9YaU5vU2VXSnRpWEljVGdNM3N5Q1JYbmd4Q2lERDhuMGJXc0FMSDI3b0tzaTBYLWV4clE0Z2dLa0NLRjcwdE9nZkhHc1RMV001SEdzcjM0aUlfLVVhdGstSHFCRXFJTWlQeHF6YkZ4bGI5MnRYTzl1X284NVdtMFhtWkhuQm13czFUZWszY3J5MF8xUF91Vklzd0w1WEs0V0NmY0h5bmVORER0a09WQ01URHlBbG5oZnBXWVp3Nmd5dnluZHJkVF9GcWlnMllhbUlOVkZMMHFGSm15Tk9LQjdmY2xJNGdyMG1fcjFVQW5PQUo3OVBDVHVGSjNQYk9KWW9TOUx1dWUzblgyamF5ODVOc1ozWEUtSGNaQ2h6ZEE3TEN0N2p4c0llNFpsT3RzalVwX05kV29aQlNTa3ZucFdXakI5SnBoQTEzN211aWYwdm1VYUJjSEI0RzQtSHBDckotUVJ4akx0QXRPNUI1Z3J3MXJZLU95SjMzRHZNN1BCLVVZNlk0RXZmeURybTFlSEV0b2dXZWdaSmlXanloYnJYVGNYaEJ5RGxvN2NyWWthWV9qMEtBcDZtMW4taHg4dF9NX0dUemJKc1BDd090SUU0bEFhRDdpVGVvcWI1U0VCdV9lbGxBQklMZTQ4elNQM0RRWllGRmtYMEdSdFBiRDVWQUJ2SjAzdWp5ZFh6SU54ajdIRXV5NnVRVkpaUW9RS241X1ZkLVlDdzZkU2VrZ1NNT0FHSUFEaTZOVk1XRGhHdW0yWEdEYkFjU2JDeG5KMw?oc=5)
-
----
-
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
-
-2026-11-20 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
-
-來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 ---
 

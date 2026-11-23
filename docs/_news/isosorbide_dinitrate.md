@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Isosorbide dinitrate 的相關健康新聞報導。原適應症：預防狹心症之發作。預測適應症 10 個。"
 permalink: /news/isosorbide_dinitrate/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 # Isosorbide dinitrate 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>11 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,23 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（11 則）
+## 相關新聞（13 則）
+
+### [別只看每天睡多久！ 研究揭睡眠落差「這分鐘數」心血管風險增24％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRXFUVzctM25sZzBKTW9xR1dBeldvcGhSdnRfazFOcDhvQm9RMDIzd0Vic0RERW4zWmNZUEM3WUxuZHRZWl8yRlp0QU5weFpNZlQ5WlZsWTB4RVAzLU5qR05LU1U?oc=5)
+
+2026-11-23 <span class="news-indication-tag">心血管</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRXFUVzctM25sZzBKTW9xR1dBeldvcGhSdnRfazFOcDhvQm9RMDIzd0Vic0RERW4zWmNZUEM3WUxuZHRZWl8yRlp0QU5weFpNZlQ5WlZsWTB4RVAzLU5qR05LU1U?oc=5)
+
+---
+
+### [飲食攻略｜食飯定食麵好？ 常吃1種主食增患心血管疾病風險 研究揭1類人風險暴升90%](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbGNraUI1ZGxLZkh0UWpTS0tMMmx4ajBPUUo3VmM3NFVvb1IyLU52SkZFQlctWHB3RVZZME9lOWdQME52OFVmTVZja1hIWWJadUE?oc=5)
+
+2026-11-23 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbGNraUI1ZGxLZkh0UWpTS0tMMmx4ajBPUUo3VmM3NFVvb1IyLU52SkZFQlctWHB3RVZZME9lOWdQME52OFVmTVZja1hIWWJadUE?oc=5)
+
+---
 
 ### [「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
 

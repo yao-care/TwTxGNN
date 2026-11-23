@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（39 則）
+## 相關新聞（41 則）
+
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
+
+來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
+
+### [實驗性鼻滴劑有望提供阿爾茨海默病治療新思路](https://news.google.com/rss/articles/CBMid0FVX3lxTE85U3NNVGtSdDd6YzdLelA2YjFyRzZ2M2RSSlFTbDRmdkEtamVfUFRVaFEwVF8tME5GTzBRMVI4c2x3QXFYWm5RMy1YWV84eWhTZWNRMEIyQ19JaWpNWldtQ05GYTBxZXdDWlBCUnByLXgyTUZlc2sw?oc=5)
+
+2026-11-23 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [香港文匯報](https://news.google.com/rss/articles/CBMid0FVX3lxTE85U3NNVGtSdDd6YzdLelA2YjFyRzZ2M2RSSlFTbDRmdkEtamVfUFRVaFEwVF8tME5GTzBRMVI4c2x3QXFYWm5RMy1YWV84eWhTZWNRMEIyQ19JaWpNWldtQ05GYTBxZXdDWlBCUnByLXgyTUZlc2sw?oc=5)
+
+---
 
 ### [你中了幾項? 研究：中年出現6症狀恐是失智警訊](https://news.google.com/rss/articles/CBMiywNBVV95cUxQMXZDU2p0SnYwN3JsMDNCYmxSa001ZDRjUndoMlN5QzdiNm1oVlZlZU9zek8zSkg4RnlqSW9sNnJndG9FRGNTaGhRa1pSbkhpSm11eVd4QTVxZXpyMy1CT29nMXZmc002S0tZaFlEcGt1QmZtTzRuRnR3dzhRc19uY2tNSFlUQWRUczVVVGVmLVZ3VFhZdFN5SWZLNnkyTl9QbHN6dEV5eXZWRU1pTjhsOExzVmI5SUF3R2l1ckdZM1BhRU4yb2d4YXVHQlNsR0F4U1hILThaMlBQS0V5X2d6MVN4NkczeTVMeHBGMXhOVmM5cGh3VFlmWm94UE12OXpLWkJnUmcyelI1b1hDUFVUNk12Z2NWTEZTcmdaMll5YnVxWG9hLW16M19oZTFWUC1kUnYzeTNMY2xyZlI0N2NMQ3d4Yjdva3ZSLTZSWjQzbUhkcTJOMjRoUHdEeGo0MmdWSjhCVVBoYjJRTXNzazI1Nkh4ZjYyUGRrc3hDRmp1RXNGTDJ1ZnJvMGloeDBUSGF5bFpkaEFYQURqbnFKNjlBM0V2SjllUEtRZlRVNkJVdkJycUlLbGNDWGFTU05Vb3FNZDAybzQ4YWgtd2s?oc=5)
 
 2026-11-22 <span class="news-indication-tag">失智</span>
 
 來源: [MSN](https://news.google.com/rss/articles/CBMiywNBVV95cUxQMXZDU2p0SnYwN3JsMDNCYmxSa001ZDRjUndoMlN5QzdiNm1oVlZlZU9zek8zSkg4RnlqSW9sNnJndG9FRGNTaGhRa1pSbkhpSm11eVd4QTVxZXpyMy1CT29nMXZmc002S0tZaFlEcGt1QmZtTzRuRnR3dzhRc19uY2tNSFlUQWRUczVVVGVmLVZ3VFhZdFN5SWZLNnkyTl9QbHN6dEV5eXZWRU1pTjhsOExzVmI5SUF3R2l1ckdZM1BhRU4yb2d4YXVHQlNsR0F4U1hILThaMlBQS0V5X2d6MVN4NkczeTVMeHBGMXhOVmM5cGh3VFlmWm94UE12OXpLWkJnUmcyelI1b1hDUFVUNk12Z2NWTEZTcmdaMll5YnVxWG9hLW16M19oZTFWUC1kUnYzeTNMY2xyZlI0N2NMQ3d4Yjdva3ZSLTZSWjQzbUhkcTJOMjRoUHdEeGo0MmdWSjhCVVBoYjJRTXNzazI1Nkh4ZjYyUGRrc3hDRmp1RXNGTDJ1ZnJvMGloeDBUSGF5bFpkaEFYQURqbnFKNjlBM0V2SjllUEtRZlRVNkJVdkJycUlLbGNDWGFTU05Vb3FNZDAybzQ4YWgtd2s?oc=5)
+
+---
+
+### [280 萬人基因分析揭阿茲海默症新線索，48 個風險區域首度現身 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TaTdBLUtoZnZyU2hwWHRNQjcwVW41OThsQjBlQVN6RlpqNGVxbkNPaDBjLW9KTWhGdFlVRGcwa2JNblRiWTZOTTdJTDVISUM2RzJGaHBR?oc=5)
+
+2026-11-22 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1TaTdBLUtoZnZyU2hwWHRNQjcwVW41OThsQjBlQVN6RlpqNGVxbkNPaDBjLW9KTWhGdFlVRGcwa2JNblRiWTZOTTdJTDVISUM2RzJGaHBR?oc=5)
 
 ---
 
@@ -89,14 +113,6 @@ last_modified_at: 2026-11-23
 2026-11-20 <span class="news-indication-tag">癌症</span>
 
 來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5)
-
----
-
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
-
-2026-11-20 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
-
-來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 ---
 

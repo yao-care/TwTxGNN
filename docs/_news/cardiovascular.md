@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。8 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。10 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 # 心血管 (cardiovascular) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>8 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>10 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（10 則）
+
+### [別只看每天睡多久！ 研究揭睡眠落差「這分鐘數」心血管風險增24％](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRXFUVzctM25sZzBKTW9xR1dBeldvcGhSdnRfazFOcDhvQm9RMDIzd0Vic0RERW4zWmNZUEM3WUxuZHRZWl8yRlp0QU5weFpNZlQ5WlZsWTB4RVAzLU5qR05LU1U?oc=5)
+
+2026-11-23
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pRXFUVzctM25sZzBKTW9xR1dBeldvcGhSdnRfazFOcDhvQm9RMDIzd0Vic0RERW4zWmNZUEM3WUxuZHRZWl8yRlp0QU5weFpNZlQ5WlZsWTB4RVAzLU5qR05LU1U?oc=5)
+
+---
+
+### [飲食攻略｜食飯定食麵好？ 常吃1種主食增患心血管疾病風險 研究揭1類人風險暴升90%](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbGNraUI1ZGxLZkh0UWpTS0tMMmx4ajBPUUo3VmM3NFVvb1IyLU52SkZFQlctWHB3RVZZME9lOWdQME52OFVmTVZja1hIWWJadUE?oc=5)
+
+2026-11-23
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbGNraUI1ZGxLZkh0UWpTS0tMMmx4ajBPUUo3VmM3NFVvb1IyLU52SkZFQlctWHB3RVZZME9lOWdQME52OFVmTVZja1hIWWJadUE?oc=5)
+
+---
 
 ### [「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
 

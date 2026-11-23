@@ -3,9 +3,9 @@ layout: default
 title: "中風 (stroke) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "中風 (stroke) 的相關健康新聞報導。6 則新聞、2 個相關藥物。"
+description: "中風 (stroke) 的相關健康新聞報導。7 則新聞、2 個相關藥物。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-23
 ---
 
 # 中風 (stroke) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="中風 (stroke) 有什麼相關新聞？">
-<strong>中風 (stroke)</strong> 目前有 <strong>6 則</strong>相關新聞報導，2 個相關藥物。
+<strong>中風 (stroke)</strong> 目前有 <strong>7 則</strong>相關新聞報導，2 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [子曰論健康》流感不是吃成藥就會好！ 醫教3原則防重症](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+2026-11-23
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+---
 
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 
