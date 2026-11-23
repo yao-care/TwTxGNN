@@ -75,21 +75,21 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，但目前**沒有�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Timepidium 的不重複許可證共 **20 張**：有效單方 6 張、有效複方 0 張、已註銷 14 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Timepidium 的不重複許可證共 **20 張**：有效單方 6 張、有效複方 0 張、已註銷 14 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（6 張）
+**有效・單方（截至資料集日期 2026-11-20）**（6 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第015674號 | 生舒定膠囊（梯每匹定） | 膠囊劑 | 台灣田邊製藥股份有限公司 | 2029/05/25 | 胃炎、胃、十二指腸潰瘍、腸炎、膽囊、膽管疾患、尿路結石症等平滑肌痙攣所致之疼痛、胰炎引起之疼痛 |
 | 衛署藥製字第030940號 | 永復膠囊３０絲（梯每匹定） | 膠囊劑 | 永信藥品工業股份有限公司 | 2028/06/15 | 胃炎、胃、十二指腸潰瘍，腸炎、膽道疾患、尿路結石症、胰炎所引起之痙 攣性疼痛 |
 | 衛署藥製字第034375號 | "衛達"痙免膠囊３０公絲（梯每匹定） | 膠囊劑 | 衛達化學製藥股份有限公司 | 2031/09/30 | 適用於下列疾病之平滑肌痙攣所伴隨之疼痛：胃炎、胃、十二指腸潰瘍、腸炎、膽囊、膽道疾病、尿路結石症、胰臟炎。 |
-| 衛署藥製字第034641號 | 立痙康膠囊３０公絲（梯每匹定） | 膠囊劑 | 元宙化學製藥股份有限公司 | 2026/12/10 | 胃炎、胃、十二指腸潰瘍、腸炎、膽囊或膽道疾患、尿道結石症及胰臟炎所引起之痙攣性疼痛。 |
+| 衛署藥製字第034641號 | 立痙康膠囊３０公絲（梯每匹定） | 膠囊劑 | 元宙化學製藥股份有限公司 | 2031/12/10 | 胃炎、胃、十二指腸潰瘍、腸炎、膽囊或膽道疾患、尿道結石症及胰臟炎所引起之痙攣性疼痛。 |
 | 衛署藥製字第036060號 | "華興"得拔痙膠囊３０公絲（梯每匹定） | 膠囊劑 | 華興化學製藥廠股份有限公司 | 2028/01/08 | 胃炎、胃、十二指腸潰瘍、腸炎、膽囊、膽管疾患、尿路結石症等平滑肌痙攣所致之疼痛、胰炎引起之疼痛。 |
 | 衛署藥製字第041949號 | "約克"必舒痙膠囊30毫克 | 膠囊劑 | 約克製藥股份有限公司 | 2028/03/03 | 胃炎、胃、十二指腸潰瘍、腸炎、膽囊、膽管疾患、尿路結石症等平滑肌痙攣所致之疼痛 、胰炎引起之疼痛。 |
 
 <details><summary><strong>已註銷</strong>（14 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第015678號</td><td>生舒定注射液（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>1988/04/08</td></tr><tr><td>衛署藥製字第036241號</td><td>"黃氏"威樂弛錠３０公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2023/09/28</td></tr><tr><td>衛署藥製字第036269號</td><td>"永昌" 痛舒康膠囊３０公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第036641號</td><td>省斯痛膠囊３０公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2014/06/11</td></tr><tr><td>衛署藥製字第037133號</td><td>"應元" 必滅痙膠囊30公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2010/03/18</td></tr><tr><td>衛署藥製字第037541號</td><td>田邊生舒益膠囊</td><td>MAGNESIUM ALUMINUM HYDROXIDE、TIMEPIDIUM BROMIDE</td><td>2016/09/19</td></tr><tr><td>衛署藥輸字第006216號</td><td>梯每匹定</td><td>TIMEPIDIUM</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第015904號</td><td>固力克錠</td><td>TIMEPIDIUM BROMIDE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第016758號</td><td>生舒定注射液</td><td>TIMEPIDIUM BROMIDE</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第019180號</td><td>提美匹痙</td><td>TIMEPIDIUM BROMIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019220號</td><td>泰必鎮錠</td><td>TIMEPIDIUM BROMIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第020245號</td><td>梯每匹定</td><td>TIMEPIDIUM BROMIDE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第020429號</td><td>羅易瑟婷膠囊３０公絲</td><td>TIMEPIDIUM BROMIDE</td><td>2003/12/15</td></tr><tr><td>衛署藥輸字第024284號</td><td>梯每匹定</td><td>TIMEPIDIUM BROMIDE</td><td>2022/07/08</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第015678號</td><td>生舒定注射液（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>1988/04/08</td></tr><tr><td>衛署藥製字第036241號</td><td>"黃氏"威樂弛錠３０公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2023/09/28</td></tr><tr><td>衛署藥製字第036269號</td><td>"永昌" 痛舒康膠囊３０公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2020/10/05</td></tr><tr><td>衛署藥製字第036641號</td><td>省斯痛膠囊３０公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2014/06/11</td></tr><tr><td>衛署藥製字第037133號</td><td>"應元" 必滅痙膠囊30公絲（梯每匹定）</td><td>TIMEPIDIUM BROMIDE</td><td>2010/03/18</td></tr><tr><td>衛署藥製字第037541號</td><td>田邊生舒益膠囊</td><td>TIMEPIDIUM BROMIDE、MAGNESIUM ALUMINUM HYDROXIDE</td><td>2016/09/19</td></tr><tr><td>衛署藥輸字第006216號</td><td>梯每匹定</td><td>TIMEPIDIUM</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第015904號</td><td>固力克錠</td><td>TIMEPIDIUM BROMIDE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第016758號</td><td>生舒定注射液</td><td>TIMEPIDIUM BROMIDE</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第019180號</td><td>提美匹痙</td><td>TIMEPIDIUM BROMIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第019220號</td><td>泰必鎮錠</td><td>TIMEPIDIUM BROMIDE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第020245號</td><td>梯每匹定</td><td>TIMEPIDIUM BROMIDE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第020429號</td><td>羅易瑟婷膠囊３０公絲</td><td>TIMEPIDIUM BROMIDE</td><td>2003/12/15</td></tr><tr><td>衛署藥輸字第024284號</td><td>梯每匹定</td><td>TIMEPIDIUM BROMIDE</td><td>2022/07/08</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

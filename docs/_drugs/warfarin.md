@@ -51,7 +51,7 @@ TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2
 | TxGNN 預測分數 | 0.9987 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 16 張／共 37 張） |
-| 許可證數 | 37 張（有效單方 16／有效複方 0／已註銷 21） |
+| 許可證數 | 37 張（有效單方 14／有效複方 0／已註銷 23） |
 | 建議決策 | Hold |
 
 > 證據等級說明：現有 3 篇文獻為肝素輔因子 II 缺乏或其他遺傳性血栓症的個案報告，其中只有部分提及 warfarin 作為病患的治療背景，並未研究 warfarin 對此疾病的療效。依規則，未有直接研究該疾病療效的證據時，等級定為 L5。
@@ -82,9 +82,9 @@ TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Warfarin 的不重複許可證共 **37 張**：有效單方 16 張、有效複方 0 張、已註銷 21 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Warfarin 的不重複許可證共 **37 張**：有效單方 14 張、有效複方 0 張、已註銷 23 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（16 張）
+**有效・單方（截至資料集日期 2026-11-20）**（14 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -97,16 +97,14 @@ TxGNN 模型預測它可能對**肝素輔因子 II 缺乏症 (Heparin Cofactor 2
 | 衛署藥製字第052559號 | 脈化寧 錠 1 毫克 | 錠劑 | 恆振企業有限公司 | 2030/03/17 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 衛署藥製字第055237號 | 欣服寧錠 2.5 毫克 | 錠劑 | 健喬信元醫藥生技股份有限公司 | 2030/07/29 | 1.預防及/或治療靜脈栓塞症及相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 衛署藥製字第055271號 | “政德”可化凝錠 5 毫克 | 錠劑 | 政德製藥股份有限公司 | 2030/08/30 | 1.預防及/或治療靜脈栓塞症及相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
-| 衛署藥輸字第023572號 | 歐服寧錠５公絲 | 錠劑 | 健喬信元醫藥生技股份有限公司 | 2027/10/23 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。 2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
-| 衛署藥輸字第023573號 | 歐服寧錠3公絲 | 錠劑 | 健喬信元醫藥生技股份有限公司 | 2027/10/23 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。 2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 衛部藥製字第060168號 | 瓦寧錠5毫克 | 錠劑 | 優良化學製藥股份有限公司 | 2028/09/05 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 衛部藥製字第060318號 | 瓦寧錠2.5毫克 | 錠劑 | 優良化學製藥股份有限公司 | 2029/07/10 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 衛部藥製字第060391號 | 瓦寧錠1毫克 | 錠劑 | 優良化學製藥股份有限公司 | 2029/11/21 | 1.預防及/或治療靜脈栓塞症及相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 衛部藥製字第060563號 | 瓦寧錠3毫克 | 錠劑 | 優良化學製藥股份有限公司 | 2030/10/08 | 1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。 |
 | 衛部藥輸字第026478號 | 苯甲香豆醇鈉籠晶 | （粉） | 新雙隆生技股份有限公司 | 2029/12/29 | 抗凝血劑 |
 
-<details><summary><strong>已註銷</strong>（21 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第002493號</td><td>活福寧鈉片</td><td>WARFARIN SODIUM</td><td>1985/09/26</td></tr><tr><td>內衛藥輸字第002494號</td><td>活福寧鈉片</td><td>WARFARIN SODIUM</td><td>1985/09/26</td></tr><tr><td>內衛藥輸字第002938號</td><td>安汝命－Ｋ</td><td>WARFARIN POTASSIUM</td><td>1985/07/01</td></tr><tr><td>內衛藥輸字第003471號</td><td>可邁丁錠１０公絲</td><td>WARFARIN (SODIUM)</td><td>1986/10/15</td></tr><tr><td>內衛藥輸字第003472號</td><td>可邁丁錠５公絲</td><td>WARFARIN (SODIUM)</td><td>1986/10/15</td></tr><tr><td>衛署藥製字第045335號</td><td>"生達" 歐發靈鈉鹽</td><td>WARFARIN SODIUM</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第006396號</td><td>抗凝血原錠</td><td>WARFARIN POTASSIUM</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第014066號</td><td>活福寧鈉錠５公絲</td><td>WARFARIN SODIUM</td><td>1990/03/02</td></tr><tr><td>衛署藥輸字第014067號</td><td>活福寧鈉錠３公絲</td><td>WARFARIN SODIUM</td><td>1990/02/22</td></tr><tr><td>衛署藥輸字第015348號</td><td>可邁丁錠５公絲</td><td>WARFARIN SODIUM</td><td>1990/06/30</td></tr><tr><td>衛署藥輸字第015349號</td><td>可邁丁錠１０公絲</td><td>WARFARIN (SODIUM)</td><td>1990/06/30</td></tr><tr><td>衛署藥輸字第017512號</td><td>活福寧鈉錠５公絲</td><td>WARFARIN SODIUM</td><td>2009/06/28</td></tr><tr><td>衛署藥輸字第017514號</td><td>活福寧鈉錠３公絲</td><td>WARFARIN SODIUM</td><td>2009/06/28</td></tr><tr><td>衛署藥輸字第017523號</td><td>苯甲香豆醇鈉</td><td>WARFARIN (SODIUM)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017879號</td><td>可邁丁錠１０公絲</td><td>WARFARIN (SODIUM)</td><td>1994/09/07</td></tr><tr><td>衛署藥輸字第017880號</td><td>可邁丁錠５公絲</td><td>WARFARIN SODIUM</td><td>1994/09/07</td></tr><tr><td>衛署藥輸字第020346號</td><td>可邁丁錠２．５公絲</td><td>WARFARIN SODIUM</td><td>2020/04/16</td></tr><tr><td>衛署藥輸字第020354號</td><td>可邁丁錠1毫克</td><td>WARFARIN SODIUM CRYSTALLINE</td><td>2020/04/16</td></tr><tr><td>衛署藥輸字第020515號</td><td>可邁丁錠１０公絲</td><td>WARFARIN SODIUM</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第020516號</td><td>可邁丁錠５毫克</td><td>WARFARIN SODIUM</td><td>2019/04/25</td></tr><tr><td>衛署藥輸字第023426號</td><td>瓦化寧錠5公絲</td><td>WARFARIN SODIUM</td><td>2016/05/31</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（23 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第002493號</td><td>活福寧鈉片</td><td>WARFARIN SODIUM</td><td>1985/09/26</td></tr><tr><td>內衛藥輸字第002494號</td><td>活福寧鈉片</td><td>WARFARIN SODIUM</td><td>1985/09/26</td></tr><tr><td>內衛藥輸字第002938號</td><td>安汝命－Ｋ</td><td>WARFARIN POTASSIUM</td><td>1985/07/01</td></tr><tr><td>內衛藥輸字第003471號</td><td>可邁丁錠１０公絲</td><td>WARFARIN (SODIUM)</td><td>1986/10/15</td></tr><tr><td>內衛藥輸字第003472號</td><td>可邁丁錠５公絲</td><td>WARFARIN (SODIUM)</td><td>1986/10/15</td></tr><tr><td>衛署藥製字第045335號</td><td>"生達" 歐發靈鈉鹽</td><td>WARFARIN SODIUM</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第006396號</td><td>抗凝血原錠</td><td>WARFARIN POTASSIUM</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第014066號</td><td>活福寧鈉錠５公絲</td><td>WARFARIN SODIUM</td><td>1990/03/02</td></tr><tr><td>衛署藥輸字第014067號</td><td>活福寧鈉錠３公絲</td><td>WARFARIN SODIUM</td><td>1990/02/22</td></tr><tr><td>衛署藥輸字第015348號</td><td>可邁丁錠５公絲</td><td>WARFARIN SODIUM</td><td>1990/06/30</td></tr><tr><td>衛署藥輸字第015349號</td><td>可邁丁錠１０公絲</td><td>WARFARIN (SODIUM)</td><td>1990/06/30</td></tr><tr><td>衛署藥輸字第017512號</td><td>活福寧鈉錠５公絲</td><td>WARFARIN SODIUM</td><td>2009/06/28</td></tr><tr><td>衛署藥輸字第017514號</td><td>活福寧鈉錠３公絲</td><td>WARFARIN SODIUM</td><td>2009/06/28</td></tr><tr><td>衛署藥輸字第017523號</td><td>苯甲香豆醇鈉</td><td>WARFARIN (SODIUM)</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第017879號</td><td>可邁丁錠１０公絲</td><td>WARFARIN (SODIUM)</td><td>1994/09/07</td></tr><tr><td>衛署藥輸字第017880號</td><td>可邁丁錠５公絲</td><td>WARFARIN SODIUM</td><td>1994/09/07</td></tr><tr><td>衛署藥輸字第020346號</td><td>可邁丁錠２．５公絲</td><td>WARFARIN SODIUM</td><td>2020/04/16</td></tr><tr><td>衛署藥輸字第020354號</td><td>可邁丁錠1毫克</td><td>WARFARIN SODIUM CRYSTALLINE</td><td>2020/04/16</td></tr><tr><td>衛署藥輸字第020515號</td><td>可邁丁錠１０公絲</td><td>WARFARIN SODIUM</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第020516號</td><td>可邁丁錠５毫克</td><td>WARFARIN SODIUM</td><td>2019/04/25</td></tr><tr><td>衛署藥輸字第023426號</td><td>瓦化寧錠5公絲</td><td>WARFARIN SODIUM</td><td>2016/05/31</td></tr><tr><td>衛署藥輸字第023572號</td><td>歐服寧錠５公絲</td><td>WARFARIN SODIUM</td><td></td></tr><tr><td>衛署藥輸字第023573號</td><td>歐服寧錠3公絲</td><td>WARFARIN SODIUM</td><td></td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

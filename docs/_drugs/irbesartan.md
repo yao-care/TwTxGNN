@@ -51,7 +51,7 @@ TxGNN 模型預測它可能對**惡性高血壓腎病變 (malignant hypertensive
 | TxGNN 預測分數 | 0.9931 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 30 張／共 49 張） |
-| 許可證數 | 49 張（有效單方 30／有效複方 0／已過期 4／已註銷 15） |
+| 許可證數 | 49 張（有效單方 30／有效複方 2／已過期 2／已註銷 15） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -76,9 +76,9 @@ TxGNN 模型預測它可能對**惡性高血壓腎病變 (malignant hypertensive
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Irbesartan 的不重複許可證共 **49 張**：有效單方 30 張、有效複方 0 張、已過期 4 張（未註銷但有效日期早於資料集日期）、已註銷 15 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Irbesartan 的不重複許可證共 **49 張**：有效單方 30 張、有效複方 2 張、已過期 2 張（未註銷但有效日期早於資料集日期）、已註銷 15 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（30 張）
+**有效・單方（截至資料集日期 2026-11-20）**（30 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -113,11 +113,18 @@ TxGNN 模型預測它可能對**惡性高血壓腎病變 (malignant hypertensive
 | 衛部藥陸輸字第000914號 | 艾比沙坦 | （粉） | 川聖貿易股份有限公司 | 2030/01/13 | 降血壓藥 |
 | 衛部藥陸輸字第001187號 | 艾比沙坦 | （粉） | 盛佳國際股份有限公司 | 2029/11/06 | 降血壓藥 |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第023266號</td><td>可普諾維膜衣錠　１５０毫克/１２．５毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2026/08/23</td></tr><tr><td>衛署藥輸字第023267號</td><td>可普諾維膜衣錠300毫克/12.5毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2026/08/23</td></tr><tr><td>衛署藥輸字第025342號</td><td>適壓諾錠 150 毫克</td><td>IRBESARTAN</td><td>2026/01/25</td></tr><tr><td>衛部藥輸字第026768號</td><td>艾比沙坦</td><td>Irbesartan</td><td>2026/03/21</td></tr></tbody></table></details>
+**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+
+| 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
+|------|------|------|------|------|
+| 衛署藥輸字第023266號 | 可普諾維膜衣錠　１５０毫克/１２．５毫克 | IRBESARTAN、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZ… | 膜衣錠 | 本態性高血壓。 |
+| 衛署藥輸字第023267號 | 可普諾維膜衣錠300毫克/12.5毫克 | HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA… | 膜衣錠 | 本態性高血壓。 |
+
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（2 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025342號</td><td>適壓諾錠 150 毫克</td><td>IRBESARTAN</td><td>2026/01/25</td></tr><tr><td>衛部藥輸字第026768號</td><td>艾比沙坦</td><td>Irbesartan</td><td>2026/03/21</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（15 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第022551號</td><td>安普諾維膜衣錠１５０毫克</td><td>IRBESARTAN</td><td>2025/04/15</td></tr><tr><td>衛署藥輸字第022552號</td><td>安普諾維膜衣錠７５毫克</td><td>IRBESARTAN</td><td>2019/04/12</td></tr><tr><td>衛署藥輸字第024742號</td><td>可普諾維膜衣錠 300 毫克/25 毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2017/11/29</td></tr><tr><td>衛署藥輸字第025184號</td><td>愛力諾膜衣錠 150 毫克</td><td>IRBESARTAN</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025185號</td><td>愛力諾膜衣錠 300 毫克</td><td>IRBESARTAN</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025787號</td><td>力普諾維膜衣錠150毫克/12.5毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025788號</td><td>力普諾維膜衣錠300毫克/25毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025879號</td><td>爾本沙丁"山德士"膜衣錠150毫克</td><td>IRBESARTAN</td><td>2024/03/06</td></tr><tr><td>衛署藥輸字第025889號</td><td>厄貝沙坦</td><td>Irbesartan</td><td>2024/05/03</td></tr><tr><td>衛署藥輸字第025965號</td><td>壓可穩錠300毫克</td><td>IRBESARTAN</td><td>2024/05/09</td></tr><tr><td>衛部藥製字第058199號</td><td>"十全"倍心坦膜衣錠150毫克</td><td>IRBESARTAN</td><td>2026/09/07</td></tr><tr><td>衛部藥輸字第026398號</td><td>壓樂適膜衣錠300毫克/25毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2020/02/05</td></tr><tr><td>衛部藥輸字第026399號</td><td>壓樂適膜衣錠150毫克/12.5毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2020/02/05</td></tr><tr><td>衛部藥輸字第026400號</td><td>壓樂適膜衣錠300毫克/12.5毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2020/02/05</td></tr><tr><td>衛部藥輸字第026537號</td><td>可艾妥搏穩膜衣錠300毫克/25毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2022/06/28</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第022551號</td><td>安普諾維膜衣錠１５０毫克</td><td>IRBESARTAN</td><td>2025/04/15</td></tr><tr><td>衛署藥輸字第022552號</td><td>安普諾維膜衣錠７５毫克</td><td>IRBESARTAN</td><td>2019/04/12</td></tr><tr><td>衛署藥輸字第024742號</td><td>可普諾維膜衣錠 300 毫克/25 毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2017/11/29</td></tr><tr><td>衛署藥輸字第025184號</td><td>愛力諾膜衣錠 150 毫克</td><td>IRBESARTAN</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025185號</td><td>愛力諾膜衣錠 300 毫克</td><td>IRBESARTAN</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025787號</td><td>力普諾維膜衣錠150毫克/12.5毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025788號</td><td>力普諾維膜衣錠300毫克/25毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2017/07/27</td></tr><tr><td>衛署藥輸字第025879號</td><td>爾本沙丁"山德士"膜衣錠150毫克</td><td>IRBESARTAN</td><td>2024/03/06</td></tr><tr><td>衛署藥輸字第025889號</td><td>厄貝沙坦</td><td>Irbesartan</td><td>2024/05/03</td></tr><tr><td>衛署藥輸字第025965號</td><td>壓可穩錠300毫克</td><td>IRBESARTAN</td><td>2024/05/09</td></tr><tr><td>衛部藥製字第058199號</td><td>"十全"倍心坦膜衣錠150毫克</td><td>IRBESARTAN</td><td>2026/09/07</td></tr><tr><td>衛部藥輸字第026398號</td><td>壓樂適膜衣錠300毫克/25毫克</td><td>IRBESARTAN、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZ…</td><td>2020/02/05</td></tr><tr><td>衛部藥輸字第026399號</td><td>壓樂適膜衣錠150毫克/12.5毫克</td><td>IRBESARTAN、HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZ…</td><td>2020/02/05</td></tr><tr><td>衛部藥輸字第026400號</td><td>壓樂適膜衣錠300毫克/12.5毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2020/02/05</td></tr><tr><td>衛部藥輸字第026537號</td><td>可艾妥搏穩膜衣錠300毫克/25毫克</td><td>HYDROCHLOROTHIAZIDE (EQ TO 3,4-DIHYDROCHLOROTHIAZIDE)、IRBESA…</td><td>2022/06/28</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

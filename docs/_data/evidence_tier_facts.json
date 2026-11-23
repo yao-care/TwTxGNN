@@ -248,7 +248,7 @@
     "l": "L3",
     "i": "alopecia areata",
     "lt": 442,
-    "lv": 140,
+    "lv": 141,
     "r": 2,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
@@ -390,8 +390,8 @@
     "u": "/drugs/minoxidil/",
     "l": "L4",
     "i": "頭皮單純性毛髮稀少症",
-    "lt": 100,
-    "lv": 59,
+    "lt": 102,
+    "lv": 61,
     "r": 1,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
@@ -500,7 +500,7 @@
     "l": "L5",
     "i": "nasal cavity disease",
     "lt": 1080,
-    "lv": 368,
+    "lv": 369,
     "r": 0,
     "rs": "",
     "x": 0
@@ -511,7 +511,7 @@
     "l": "L5",
     "i": "acromesomelic dysplasia, Hunter-Thompson type",
     "lt": 421,
-    "lv": 188,
+    "lv": 187,
     "r": 1,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
@@ -522,7 +522,7 @@
     "l": "L5",
     "i": "偏頭痛",
     "lt": 423,
-    "lv": 169,
+    "lv": 170,
     "r": 7,
     "rs": "預測理由稱原適應症有大量疼痛類用途",
     "x": 0
@@ -532,8 +532,8 @@
     "u": "/drugs/lidocaine/",
     "l": "L5",
     "i": "punctate epithelial keratoconjunctivitis",
-    "lt": 493,
-    "lv": 147,
+    "lt": 494,
+    "lv": 148,
     "r": 2,
     "rs": "「原適應症」寫牙科麻醉",
     "x": 0
@@ -555,7 +555,7 @@
     "l": "L5",
     "i": "drug-induced osteoporosis",
     "lt": 803,
-    "lv": 102,
+    "lv": 103,
     "r": 1,
     "rs": "",
     "x": 0
@@ -577,7 +577,7 @@
     "l": "L5",
     "i": "atypical coarctation of aorta",
     "lt": 268,
-    "lv": 76,
+    "lv": 75,
     "r": 4,
     "rs": "預測理由稱乳酸有腸道輔助用途",
     "x": 0
@@ -605,17 +605,6 @@
     "x": 0
    },
    {
-    "t": "Hydroquinone",
-    "u": "/drugs/hydroquinone/",
-    "l": "L5",
-    "i": "seborrheic keratosis",
-    "lt": 103,
-    "lv": 71,
-    "r": 2,
-    "rs": "頁面描述（description）的證據等級",
-    "x": 0
-   },
-   {
     "t": "Sodium Acetate",
     "u": "/drugs/sodium-acetate/",
     "l": "L5",
@@ -634,6 +623,17 @@
     "lt": 99,
     "lv": 70,
     "r": 5,
+    "rs": "頁面描述（description）的證據等級",
+    "x": 0
+   },
+   {
+    "t": "Hydroquinone",
+    "u": "/drugs/hydroquinone/",
+    "l": "L5",
+    "i": "seborrheic keratosis",
+    "lt": 103,
+    "lv": 70,
+    "r": 2,
     "rs": "頁面描述（description）的證據等級",
     "x": 0
    },
@@ -660,6 +660,17 @@
     "x": 0
    },
    {
+    "t": "Naproxen",
+    "u": "/drugs/naproxen/",
+    "l": "L5",
+    "i": "brachydactyly-syndactyly syndrome",
+    "lt": 165,
+    "lv": 59,
+    "r": 1,
+    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "x": 0
+   },
+   {
     "t": "Famotidine",
     "u": "/drugs/famotidine/",
     "l": "L5",
@@ -679,17 +690,6 @@
     "lv": 58,
     "r": 1,
     "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Naproxen",
-    "u": "/drugs/naproxen/",
-    "l": "L5",
-    "i": "brachydactyly-syndactyly syndrome",
-    "lt": 165,
-    "lv": 58,
-    "r": 1,
-    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
    },
    {
@@ -737,23 +737,23 @@
     "x": 0
    },
    {
-    "t": "Tyrosine",
-    "u": "/drugs/tyrosine/",
+    "t": "Sennosides",
+    "u": "/drugs/sennosides/",
     "l": "L5",
-    "i": "cauda equina syndrome",
-    "lt": 174,
+    "i": "頭皮單純性毛髮稀疏症",
+    "lt": 54,
     "lv": 38,
     "r": 0,
     "rs": "",
     "x": 0
    },
    {
-    "t": "Sennosides",
-    "u": "/drugs/sennosides/",
+    "t": "Tyrosine",
+    "u": "/drugs/tyrosine/",
     "l": "L5",
-    "i": "頭皮單純性毛髮稀疏症",
-    "lt": 54,
-    "lv": 37,
+    "i": "cauda equina syndrome",
+    "lt": 174,
+    "lv": 38,
     "r": 0,
     "rs": "",
     "x": 0
@@ -803,23 +803,23 @@
     "x": 0
    },
    {
+    "t": "Irbesartan",
+    "u": "/drugs/irbesartan/",
+    "l": "L5",
+    "i": "惡性高血壓腎病變",
+    "lt": 49,
+    "lv": 32,
+    "r": 1,
+    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "x": 0
+   },
+   {
     "t": "Homatropine Methylbromide",
     "u": "/drugs/homatropine-methylbromide/",
     "l": "L5",
     "i": "cauda equina syndrome",
     "lt": 104,
     "lv": 31,
-    "r": 1,
-    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
-    "x": 0
-   },
-   {
-    "t": "Irbesartan",
-    "u": "/drugs/irbesartan/",
-    "l": "L5",
-    "i": "惡性高血壓腎病變",
-    "lt": 49,
-    "lv": 30,
     "r": 1,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
@@ -841,7 +841,7 @@
     "l": "L5",
     "i": "鼻腔疾病",
     "lt": 62,
-    "lv": 30,
+    "lv": 29,
     "r": 1,
     "rs": "",
     "x": 0
@@ -924,6 +924,17 @@
     "x": 0
    },
    {
+    "t": "Lacosamide",
+    "u": "/drugs/lacosamide/",
+    "l": "L5",
+    "i": "manic bipolar affective disorder",
+    "lt": 20,
+    "lv": 20,
+    "r": 6,
+    "rs": "躁症型雙相情感障礙（主預測）證據等級重審結果",
+    "x": 0
+   },
+   {
     "t": "Prednisolone Acetate",
     "u": "/drugs/prednisolone-acetate/",
     "l": "L5",
@@ -946,6 +957,17 @@
     "x": 0
    },
    {
+    "t": "Cefoperazone",
+    "u": "/drugs/cefoperazone/",
+    "l": "L5",
+    "i": "sclerosing cholangitis",
+    "lt": 44,
+    "lv": 19,
+    "r": 2,
+    "rs": "把鮑曼不動桿菌列為 cefoperazone 主要抗菌目標",
+    "x": 0
+   },
+   {
     "t": "Amorolfine",
     "u": "/drugs/amorolfine/",
     "l": "L5",
@@ -957,17 +979,6 @@
     "x": 0
    },
    {
-    "t": "Cefoperazone",
-    "u": "/drugs/cefoperazone/",
-    "l": "L5",
-    "i": "sclerosing cholangitis",
-    "lt": 44,
-    "lv": 18,
-    "r": 2,
-    "rs": "把鮑曼不動桿菌列為 cefoperazone 主要抗菌目標",
-    "x": 0
-   },
-   {
     "t": "Ergometrine",
     "u": "/drugs/ergometrine/",
     "l": "L5",
@@ -976,17 +987,6 @@
     "lv": 18,
     "r": 15,
     "rs": "標題把多毛症寫成「猖毛症」，並把已核准的偏頭痛寫成新用途",
-    "x": 0
-   },
-   {
-    "t": "Lacosamide",
-    "u": "/drugs/lacosamide/",
-    "l": "L5",
-    "i": "manic bipolar affective disorder",
-    "lt": 18,
-    "lv": 18,
-    "r": 6,
-    "rs": "躁症型雙相情感障礙（主預測）證據等級重審結果",
     "x": 0
    },
    {
@@ -1023,28 +1023,6 @@
     "x": 0
    },
    {
-    "t": "Warfarin",
-    "u": "/drugs/warfarin/",
-    "l": "L5",
-    "i": "heparin cofactor 2 deficiency",
-    "lt": 37,
-    "lv": 16,
-    "r": 2,
-    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
-    "x": 0
-   },
-   {
-    "t": "Butenafine",
-    "u": "/drugs/butenafine/",
-    "l": "L5",
-    "i": "髮內型感染症",
-    "lt": 17,
-    "lv": 15,
-    "r": 3,
-    "rs": "頁首證據等級",
-    "x": 0
-   },
-   {
     "t": "Dehydrocholic Acid",
     "u": "/drugs/dehydrocholic-acid/",
     "l": "L5",
@@ -1078,6 +1056,28 @@
     "x": 0
    },
    {
+    "t": "Butenafine",
+    "u": "/drugs/butenafine/",
+    "l": "L5",
+    "i": "髮內型感染症",
+    "lt": 17,
+    "lv": 14,
+    "r": 3,
+    "rs": "頁首證據等級",
+    "x": 0
+   },
+   {
+    "t": "Clobetasone",
+    "u": "/drugs/clobetasone/",
+    "l": "L5",
+    "i": "原發性皮膚 T 細胞淋巴瘤",
+    "lt": 30,
+    "lv": 14,
+    "r": 1,
+    "rs": "",
+    "x": 0
+   },
+   {
     "t": "Paclitaxel",
     "u": "/drugs/paclitaxel/",
     "l": "L5",
@@ -1089,25 +1089,25 @@
     "x": 0
    },
    {
-    "t": "Clobetasone",
-    "u": "/drugs/clobetasone/",
+    "t": "Warfarin",
+    "u": "/drugs/warfarin/",
     "l": "L5",
-    "i": "原發性皮膚 T 細胞淋巴瘤",
-    "lt": 30,
-    "lv": 13,
-    "r": 1,
-    "rs": "",
+    "i": "heparin cofactor 2 deficiency",
+    "lt": 37,
+    "lv": 14,
+    "r": 2,
+    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
    },
    {
-    "t": "Cromoglicic Acid",
-    "u": "/drugs/cromoglicic-acid/",
+    "t": "Denosumab",
+    "u": "/drugs/denosumab/",
     "l": "L5",
-    "i": "潰瘍性直腸乙狀結腸炎",
-    "lt": 46,
+    "i": "severe nonproliferative diabetic retinopathy",
+    "lt": 13,
     "lv": 13,
-    "r": 10,
-    "rs": "標題以氣喘為原用途",
+    "r": 2,
+    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
    },
    {
@@ -1152,6 +1152,17 @@
     "lv": 13,
     "r": 2,
     "rs": "快速總覽「僅 1 張有效許可證」",
+    "x": 0
+   },
+   {
+    "t": "Cromoglicic Acid",
+    "u": "/drugs/cromoglicic-acid/",
+    "l": "L5",
+    "i": "潰瘍性直腸乙狀結腸炎",
+    "lt": 46,
+    "lv": 12,
+    "r": 10,
+    "rs": "標題以氣喘為原用途",
     "x": 0
    },
    {
@@ -1206,17 +1217,6 @@
     "lt": 35,
     "lv": 12,
     "r": 1,
-    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
-    "x": 0
-   },
-   {
-    "t": "Denosumab",
-    "u": "/drugs/denosumab/",
-    "l": "L5",
-    "i": "severe nonproliferative diabetic retinopathy",
-    "lt": 11,
-    "lv": 11,
-    "r": 2,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
    },
@@ -1276,17 +1276,6 @@
     "x": 0
    },
    {
-    "t": "Gemcitabine",
-    "u": "/drugs/gemcitabine/",
-    "l": "L5",
-    "i": "直腸黏液腺癌",
-    "lt": 20,
-    "lv": 10,
-    "r": 7,
-    "rs": "預測理由「在轉移性大腸直腸癌中的療效已被證實」",
-    "x": 0
-   },
-   {
     "t": "Isosorbide Mononitrate",
     "u": "/drugs/isosorbide-mononitrate/",
     "l": "L5",
@@ -1309,14 +1298,14 @@
     "x": 0
    },
    {
-    "t": "Anastrozole",
-    "u": "/drugs/anastrozole/",
+    "t": "Brivaracetam",
+    "u": "/drugs/brivaracetam/",
     "l": "L5",
-    "i": "神經母細胞瘤",
-    "lt": 13,
+    "i": "β-酮硫解酶缺乏症",
+    "lt": 9,
     "lv": 9,
-    "r": 1,
-    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "r": 3,
+    "rs": "頁首證據等級",
     "x": 0
    },
    {
@@ -1328,6 +1317,17 @@
     "lv": 9,
     "r": 1,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "x": 0
+   },
+   {
+    "t": "Gemcitabine",
+    "u": "/drugs/gemcitabine/",
+    "l": "L5",
+    "i": "直腸黏液腺癌",
+    "lt": 20,
+    "lv": 9,
+    "r": 7,
+    "rs": "預測理由「在轉移性大腸直腸癌中的療效已被證實」",
     "x": 0
    },
    {
@@ -1375,14 +1375,14 @@
     "x": 0
    },
    {
-    "t": "Brivaracetam",
-    "u": "/drugs/brivaracetam/",
+    "t": "Anastrozole",
+    "u": "/drugs/anastrozole/",
     "l": "L5",
-    "i": "β-酮硫解酶缺乏症",
-    "lt": 8,
+    "i": "神經母細胞瘤",
+    "lt": 13,
     "lv": 8,
-    "r": 3,
-    "rs": "頁首證據等級",
+    "r": 1,
+    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
    },
    {
@@ -1727,17 +1727,6 @@
     "x": 0
    },
    {
-    "t": "Mexiletine",
-    "u": "/drugs/mexiletine/",
-    "l": "L5",
-    "i": "hypertrichosis (disease)",
-    "lt": 11,
-    "lv": 5,
-    "r": 5,
-    "rs": "毛髮過多症（主預測）證據等級重審結果",
-    "x": 0
-   },
-   {
     "t": "Nebivolol",
     "u": "/drugs/nebivolol/",
     "l": "L5",
@@ -1804,17 +1793,6 @@
     "x": 0
    },
    {
-    "t": "Fluorouracil",
-    "u": "/drugs/fluorouracil/",
-    "l": "L5",
-    "i": "陰道葡萄狀胚胎型橫紋肌肉瘤",
-    "lt": 40,
-    "lv": 4,
-    "r": 9,
-    "rs": "標題以 trastuzumab 許可證的適應症為原用途",
-    "x": 0
-   },
-   {
     "t": "Indacaterol",
     "u": "/drugs/indacaterol/",
     "l": "L5",
@@ -1857,6 +1835,17 @@
     "r": 0,
     "rs": "",
     "x": 1
+   },
+   {
+    "t": "Mexiletine",
+    "u": "/drugs/mexiletine/",
+    "l": "L5",
+    "i": "hypertrichosis (disease)",
+    "lt": 11,
+    "lv": 4,
+    "r": 5,
+    "rs": "毛髮過多症（主預測）證據等級重審結果",
+    "x": 0
    },
    {
     "t": "Raloxifene",
@@ -1969,17 +1958,6 @@
     "x": 0
    },
    {
-    "t": "Choline Salicylate",
-    "u": "/drugs/choline-salicylate/",
-    "l": "L5",
-    "i": "變異型心絞痛",
-    "lt": 6,
-    "lv": 3,
-    "r": 3,
-    "rs": "rheumatoid arthritis（類風濕性關節炎）預測重審結果（已核准用途，撤回）",
-    "x": 1
-   },
-   {
     "t": "Cisatracurium",
     "u": "/drugs/cisatracurium/",
     "l": "L5",
@@ -2021,6 +1999,17 @@
     "lv": 3,
     "r": 1,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "x": 0
+   },
+   {
+    "t": "Fluorouracil",
+    "u": "/drugs/fluorouracil/",
+    "l": "L5",
+    "i": "陰道葡萄狀胚胎型橫紋肌肉瘤",
+    "lt": 40,
+    "lv": 3,
+    "r": 9,
+    "rs": "標題以 trastuzumab 許可證的適應症為原用途",
     "x": 0
    },
    {
@@ -2255,6 +2244,17 @@
     "x": 0
    },
    {
+    "t": "Choline Salicylate",
+    "u": "/drugs/choline-salicylate/",
+    "l": "L5",
+    "i": "變異型心絞痛",
+    "lt": 6,
+    "lv": 2,
+    "r": 3,
+    "rs": "rheumatoid arthritis（類風濕性關節炎）預測重審結果（已核准用途，撤回）",
+    "x": 1
+   },
+   {
     "t": "Dexketoprofen",
     "u": "/drugs/dexketoprofen/",
     "l": "L5",
@@ -2483,6 +2483,17 @@
     "lv": 2,
     "r": 3,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "x": 0
+   },
+   {
+    "t": "Zanubrutinib",
+    "u": "/drugs/zanubrutinib/",
+    "l": "L5",
+    "i": "myeloid leukemia",
+    "lt": 2,
+    "lv": 2,
+    "r": 4,
+    "rs": "頁面描述（description）的證據等級",
     "x": 0
    },
    {
@@ -2956,17 +2967,6 @@
     "lv": 1,
     "r": 2,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
-    "x": 0
-   },
-   {
-    "t": "Zanubrutinib",
-    "u": "/drugs/zanubrutinib/",
-    "l": "L5",
-    "i": "myeloid leukemia",
-    "lt": 1,
-    "lv": 1,
-    "r": 4,
-    "rs": "頁面描述（description）的證據等級",
     "x": 0
    },
    {

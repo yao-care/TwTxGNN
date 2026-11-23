@@ -96,9 +96,9 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Carisoprodol 的不重複許可證共 **37 張**：有效單方 11 張、有效複方 9 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 16 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Carisoprodol 的不重複許可證共 **37 張**：有效單方 11 張、有效複方 9 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 16 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（11 張）
+**有效・單方（截至資料集日期 2026-11-20）**（11 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -114,25 +114,25 @@ TxGNN 模型預測它可能對**失眠 (Insomnia)** 有效，
 | 衛部藥製字第058551號 | 可舒利筋錠350毫克 | 錠劑 | 滎洋醫藥股份有限公司 | 2029/12/08 | 焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。 |
 | 衛部藥輸字第028545號 | 卡利索普若多 | （粉） | 新雙隆生技股份有限公司 | 2028/08/14 | 骨骼肌弛緩劑 |
 
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（9 張）
+**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（9 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第029037號 | 如來舒膠囊 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 膠囊劑 | 骨骼肌肉之異常緊張（包括外傷、扭傷、骨折、脫臼、肌炎、風溼性）所引起之各種症狀、如酸痛、痙攣、強直、僵硬 |
+| 衛署藥製字第029037號 | 如來舒膠囊 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 膠囊劑 | 骨骼肌肉之異常緊張（包括外傷、扭傷、骨折、脫臼、肌炎、風溼性）所引起之各種症狀、如酸痛、痙攣、強直、僵硬 |
 | 衛署藥製字第029090號 | 痛福錠 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 神經痛、關節痛、腰痛、背痛、扭傷、肌肉痛、脊椎炎、肌肉痙攣、關節周圍炎、斜頸 |
 | 衛署藥製字第046682號 | "強生"肌舒錠 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如痠痛、痙攣、強直、僵硬。 |
 | 衛署藥製字第047877號 | 萊世膠囊 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 膠囊劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬等。 |
-| 衛署藥製字第047884號 | 妥痛膠囊 | GELATIN、GELATIN、CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMO… | 膠囊劑 | 骨骼肌肉異常緊張包括外傷、扭傷、骨折、脫臼、肌炎、風濕性所引起之各種症狀，如酸痛、痙攣、強直、僵硬等。 |
-| 衛署藥製字第048320號 | "元宙" 肌力康錠 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
+| 衛署藥製字第047884號 | 妥痛膠囊 | ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL、GELATIN、GELAT… | 膠囊劑 | 骨骼肌肉異常緊張包括外傷、扭傷、骨折、脫臼、肌炎、風濕性所引起之各種症狀，如酸痛、痙攣、強直、僵硬等。 |
+| 衛署藥製字第048320號 | "元宙" 肌力康錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
 | 衛署藥製字第057404號 | "杏輝"弛筋定錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
 | 衛部藥製字第058048號 | 肌倍康錠 | CARISOPRODOL、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 骨骼肌肉之異常緊張(包括外傷、扭傷、骨折、脫臼、肌炎、風濕性)所引起之各種症狀，如酸痛、痙攣、強直、僵硬。 |
-| 衛部藥製字第060185號 | "應元"舒穩錠 | CARISOPRODOL、CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL) | 錠劑 | 頸肩腕症候群、肩關節周圍炎、變形性脊椎症之肌肉鬆弛劑。 |
+| 衛部藥製字第060185號 | "應元"舒穩錠 | CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL | 錠劑 | 頸肩腕症候群、肩關節周圍炎、變形性脊椎症之肌肉鬆弛劑。 |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第024478號</td><td>卡利索普若多"佛萊明"</td><td>CARISOPRODOL USP</td><td>2026/07/06</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（16 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000097號</td><td>司吾朗錠</td><td>PHENACETIN (ACETOPHENETIDIN)、CARISOPRODOL、CAFFEINE ANHYDROUS</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第012220號</td><td>"三東"福濕膠囊</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>2018/10/17</td></tr><tr><td>衛署藥製字第018330號</td><td>炎制錠</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第047963號</td><td>"中化合成生技" 卡利索普若多</td><td>CARISOPRODOL</td><td>2015/10/27</td></tr><tr><td>衛署藥製字第057250號</td><td>克力舒錠350毫克</td><td>CARISOPRODOL</td><td>2023/08/08</td></tr><tr><td>衛署藥輸字第000450號</td><td>卡利索普若多</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005066號</td><td>丙基氨基甲酸鹽</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006031號</td><td>Ｎ－異丙基－２－甲基－２－丙基－１，３－丙二醇二氨基甲酸酯</td><td>CARISOPRODOL</td><td>1999/12/02</td></tr><tr><td>衛署藥輸字第006827號</td><td>卡利異普魯杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第008440號</td><td>卡利索普魯道</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第011016號</td><td>科發克痛錠</td><td>CHLORTHENOXAZIN、CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZO…</td><td>1987/08/20</td></tr><tr><td>衛署藥輸字第011891號</td><td>可立舒錠３５０公絲</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第011927號</td><td>卡利異普魯杜粉劑</td><td>CARISOPRODOL</td><td>2022/06/21</td></tr><tr><td>衛署藥輸字第012106號</td><td>佳立舒錠</td><td>CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL)、CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第012447號</td><td>卡利索普洛杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013763號</td><td>卡力蘇波粉劑</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第000097號</td><td>司吾朗錠</td><td>CAFFEINE ANHYDROUS、PHENACETIN (ACETOPHENETIDIN)、CARISOPRODOL</td><td>1988/07/19</td></tr><tr><td>衛署藥製字第012220號</td><td>"三東"福濕膠囊</td><td>CARISOPRODOL、PHENYLBUTAZONE (DI-PHENYLBUTAZONE)</td><td>2018/10/17</td></tr><tr><td>衛署藥製字第018330號</td><td>炎制錠</td><td>PHENYLBUTAZONE (DI-PHENYLBUTAZONE)、CARISOPRODOL</td><td>1989/12/31</td></tr><tr><td>衛署藥製字第047963號</td><td>"中化合成生技" 卡利索普若多</td><td>CARISOPRODOL</td><td>2015/10/27</td></tr><tr><td>衛署藥製字第057250號</td><td>克力舒錠350毫克</td><td>CARISOPRODOL</td><td>2023/08/08</td></tr><tr><td>衛署藥輸字第000450號</td><td>卡利索普若多</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第005066號</td><td>丙基氨基甲酸鹽</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第006031號</td><td>Ｎ－異丙基－２－甲基－２－丙基－１，３－丙二醇二氨基甲酸酯</td><td>CARISOPRODOL</td><td>1999/12/02</td></tr><tr><td>衛署藥輸字第006827號</td><td>卡利異普魯杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第008440號</td><td>卡利索普魯道</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第011016號</td><td>科發克痛錠</td><td>CARISOPRODOL、CHLORTHENOXAZIN、PHENYLBUTAZONE (DI-PHENYLBUTAZO…</td><td>1987/08/20</td></tr><tr><td>衛署藥輸字第011891號</td><td>可立舒錠３５０公絲</td><td>CARISOPRODOL</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第011927號</td><td>卡利異普魯杜粉劑</td><td>CARISOPRODOL</td><td>2022/06/21</td></tr><tr><td>衛署藥輸字第012106號</td><td>佳立舒錠</td><td>CARISOPRODOL、CAFFEINE、ACETAMINOPHEN (EQ TO PARACETAMOL)</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第012447號</td><td>卡利索普洛杜</td><td>CARISOPRODOL</td><td>2000/10/18</td></tr><tr><td>衛署藥輸字第013763號</td><td>卡力蘇波粉劑</td><td>CARISOPRODOL</td><td>1999/10/25</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

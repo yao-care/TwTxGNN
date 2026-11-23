@@ -54,7 +54,7 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 | TxGNN 預測分數 | 0.9996 |
 | 證據等級 | 撤回：阻塞性肺病 (Obstructive Lung Disease)是已核准用途，不列新適應症證據等級（原值見查核紀錄） |
 | 台灣上市 | 上市中（有效許可證 17 張／共 52 張） |
-| 許可證數 | 52 張（有效單方 17／有效複方 0／已過期 1／已註銷 34） |
+| 許可證數 | 52 張（有效單方 16／有效複方 0／已過期 2／已註銷 34） |
 | 建議決策 | 撤回（已核准用途） |
 
 <!-- review:begin terbutaline-obstructive-lung-disease-known-use-rereview-result-2026-11-03 -->
@@ -117,9 +117,9 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Terbutaline 的不重複許可證共 **52 張**：有效單方 17 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 34 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Terbutaline 的不重複許可證共 **52 張**：有效單方 16 張、有效複方 0 張、已過期 2 張（未註銷但有效日期早於資料集日期）、已註銷 34 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（17 張）
+**有效・單方（截至資料集日期 2026-11-20）**（16 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -133,7 +133,6 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 | 衛署藥製字第041454號 | "井田"舒管錠2.5毫克(硫酸特必林) | 錠劑 | 井田國際醫藥廠股份有限公司 | 2027/07/11 | 支氣管氣喘、支氣管炎、氣喘性支氣管炎、支氣管擴張症及肺氣腫。 |
 | 衛署藥製字第043735號 | "信東"必坦寧吸入液2.5毫克/毫升 | 吸入用液劑 | 信東生技股份有限公司 | 2030/05/08 | 支氣管氣喘、支氣管炎及肺氣腫所伴隨之支氣管痙攣之緩解。 |
 | 衛署藥製字第046487號 | 特剋寧吸入液2.5毫克/毫升 | 口腔吸入劑 | 科進製藥科技股份有限公司 | 2029/09/13 | 支氣管氣喘、支氣管炎及肺氣腫所伴隨之支氣管痙攣之緩解。 |
-| 衛署藥製字第048343號 | "強生" 撲喘寧錠2.5毫克 | 錠劑 | 強生化學製藥廠股份有限公司 | 2026/10/30 | 支氣管氣喘、支氣管炎、氣喘性支氣管炎、支氣管擴張症及肺氣腫。 |
 | 衛署藥製字第048385號 | "晟德" 泰坦尼吸入液2.5毫克/毫升 | 口腔吸入劑 | 晟德大藥廠股份有限公司 | 2031/11/15 | 支氣管氣喘、支氣管炎及肺氣腫所伴隨之支氣管痙攣之緩解。 |
 | 衛署藥製字第049183號 | 抑安喘吸入液 2.5 毫克/毫升 | 口腔吸入劑 | 瑩碩生技醫藥股份有限公司 | 2027/12/03 | 支氣管氣喘、支氣管炎及肺氣腫所伴隨之支氣管痙攣之緩解。 |
 | 衛署藥製字第049788號 | “台裕”解喘安錠 2.5 毫克 | 錠劑 | 台裕化學製藥廠股份有限公司 | 2028/11/11 | 支氣管氣喘、慢性支氣管炎、氣喘性支氣管炎、肺氣腫、支氣管擴張症。 |
@@ -141,8 +140,8 @@ TxGNN 模型預測它可能對**阻塞性肺病 (Obstructive Lung Disease)** 有
 | 衛部藥製字第058325號 | "汎生"喘克注射液0.2毫克/毫升(特必林) | 注射劑 | 臺灣汎生製藥廠股份有限公司 | 2029/03/01 | 支氣管喘息引起之支氣管閉塞性障害、和呼吸困難諸症狀之緩解。 |
 | 衛部藥輸字第027797號 | 硫酸特布泰林 | （粉） | 丸聖貿易股份有限公司 | 2030/01/07 | 支氣管擴張劑 |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第029499號</td><td>"利達"特舒喘錠2.5毫克（特必林）</td><td>TERBUTALINE SULFATE</td><td>2024/03/18</td></tr></tbody></table></details>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（2 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第029499號</td><td>"利達"特舒喘錠2.5毫克（特必林）</td><td>TERBUTALINE SULFATE</td><td>2024/03/18</td></tr><tr><td>衛署藥製字第048343號</td><td>"強生" 撲喘寧錠2.5毫克</td><td>TERBUTALINE SULFATE</td><td>2026/10/30</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（34 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第026899號</td><td>"汎生"喘克注射液０．２毫克/毫升（特必林）</td><td>TERBUTALINE SULFATE</td><td>2014/12/24</td></tr><tr><td>衛署藥製字第040718號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2013/10/03</td></tr><tr><td>衛署藥製字第047571號</td><td>氣呼舒 吸入液 2.5 毫克/毫升</td><td>TERBUTALINE SULFATE</td><td>2016/09/07</td></tr><tr><td>衛署藥製字第048569號</td><td>"強生" 撲喘寧錠5毫克</td><td>TERBUTALINE SULFATE</td><td>2024/04/29</td></tr><tr><td>衛署藥輸字第007269號</td><td>１－（３，５雙羥苯基）２－四－丁胺基乙醇硫酸鹽</td><td>TERBUTALINE SULFATE</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第009433號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第011442號</td><td>撲咳喘錠劑２．５公絲</td><td>TERBUTALINE SULFATE</td><td>1989/06/06</td></tr><tr><td>衛署藥輸字第011466號</td><td>撲咳喘吸入劑</td><td>TERBUTALINE SULFATE</td><td>1989/05/03</td></tr><tr><td>衛署藥輸字第012985號</td><td>撲咳喘酏劑０．３公絲/公撮</td><td>TERBUTALINE SULFATE</td><td>1989/07/25</td></tr><tr><td>衛署藥輸字第013516號</td><td>撲咳喘持續錠５公絲</td><td>TERBUTALINE SULFATE</td><td>1989/06/06</td></tr><tr><td>衛署藥輸字第013961號</td><td>撲咳喘持續錠７．５公絲</td><td>TERBUTALINE SULFATE</td><td>1989/05/03</td></tr><tr><td>衛署藥輸字第013976號</td><td>撲咳喘注射劑０．５公絲/公撮</td><td>TERBUTALINE SULFATE</td><td>1989/07/25</td></tr><tr><td>衛署藥輸字第014876號</td><td>撲咳喘吸入液２．５公絲/公撮</td><td>TERBUTALINE SULFATE、SODIUM CHLORIDE</td><td>1989/06/06</td></tr><tr><td>衛署藥輸字第015659號</td><td>硫酸特比林</td><td>TERBUTALINE SULFATE</td><td>1999/09/22</td></tr><tr><td>衛署藥輸字第017206號</td><td>撲咳喘吸入劑</td><td>TERBUTALINE SULFATE</td><td>1992/04/17</td></tr><tr><td>衛署藥輸字第017207號</td><td>撲咳喘注射劑０．５公絲/公撮</td><td>TERBUTALINE SULFATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第017209號</td><td>撲咳喘錠２．５公絲</td><td>TERBUTALINE SULFATE</td><td>2007/08/03</td></tr><tr><td>衛署藥輸字第017210號</td><td>撲咳喘持續錠５公絲</td><td>TERBUTALINE SULFATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第017211號</td><td>撲咳喘持續錠７．５公絲</td><td>TERBUTALINE SULFATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第017214號</td><td>撲咳喘吸入液２．５毫克／毫升</td><td>TERBUTALINE SULFATE</td><td>2022/09/28</td></tr><tr><td>衛署藥輸字第017229號</td><td>撲咳喘酏劑０．３公絲/公撮</td><td>TERBUTALINE SULFATE</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第017299號</td><td>克喘寧</td><td>TERBUTALINE SULFATE</td><td>2003/08/20</td></tr><tr><td>衛署藥輸字第017948號</td><td>撲咳喘定量粉狀吸入劑０．５公絲/劑量</td><td>TERBUTALINE SULFATE</td><td>1998/03/18</td></tr><tr><td>衛署藥輸字第018914號</td><td>撲咳喘吸入劑</td><td>TERBUTALINE SULFATE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第020136號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第020386號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第020520號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2009/12/31</td></tr><tr><td>衛署藥輸字第021537號</td><td>撲咳喘吸入劑５公絲/２公撮</td><td>TERBUTALINE SULFATE</td><td>2016/06/03</td></tr><tr><td>衛署藥輸字第021878號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2005/06/16</td></tr><tr><td>衛署藥輸字第022082號</td><td>撲咳喘都保定量粉狀吸入劑0.5毫克/劑量</td><td>TERBUTALINE SULFATE</td><td>2022/07/08</td></tr><tr><td>衛署藥輸字第022964號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2016/09/21</td></tr><tr><td>衛署藥輸字第022969號</td><td>硫酸特必林</td><td>TERBUTALINE SULFATE</td><td>2005/08/16</td></tr><tr><td>衛署藥輸字第023662號</td><td>硫酸特比林</td><td>TERBUTALINE SULFATE</td><td>2008/09/30</td></tr><tr><td>衛部藥輸字第026418號</td><td>硫酸特必林</td><td>Terbutaline Sulfate</td><td>2026/05/22</td></tr></tbody></table></details>

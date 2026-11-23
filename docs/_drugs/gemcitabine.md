@@ -51,7 +51,7 @@ TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcino
 | TxGNN 預測分數 | 0.9977 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 10 張／共 20 張） |
-| 許可證數 | 20 張（有效單方 10／有效複方 0／已註銷 10） |
+| 許可證數 | 20 張（有效單方 9／有效複方 0／已過期 1／已註銷 10） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -74,9 +74,9 @@ TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcino
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Gemcitabine 的不重複許可證共 **20 張**：有效單方 10 張、有效複方 0 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Gemcitabine 的不重複許可證共 **20 張**：有效單方 9 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（10 張）
+**有效・單方（截至資料集日期 2026-11-20）**（9 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -89,7 +89,9 @@ TxGNN 模型預測它可能對**直腸黏液腺癌 (rectum mucinous adenocarcino
 | 衛部藥製字第061175號 | "霖揚"吉西他濱凍晶注射劑200毫克 | 凍晶注射劑 | 霖揚生技製藥股份有限公司 | 2027/10/26 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
 | 衛部藥輸字第026977號 | 健喜得平鹽酸鹽 | （粉） | 中大藥品股份有限公司 | 2031/10/28 | 抗癌藥。 |
 | 衛部藥輸字第027468號 | 健特瑞凍晶注射劑 | 凍晶注射劑 | 凱沛爾藥品有限公司 | 2028/07/09 | 非小細胞肺癌、胰臟癌、膀胱癌。GEMCITABINE與PACLITAXEL併用，可使用於曾經使用過ANTHRACYCLINE之局部復發且無法手術切除或轉移性之乳癌病患。用於曾經使用… |
-| 衛部藥輸字第028196號 | 鹽酸吉西他濱 | （粉） | 新雙隆生技股份有限公司 | 2026/11/10 | 抗癌藥 |
+
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥輸字第028196號</td><td>鹽酸吉西他濱</td><td>Gemcitabine Hydrochloride</td><td>2026/11/10</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（10 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第048080號</td><td>雙福全靜脈注射劑</td><td>GEMCITABINE HYDROCHLORIDE</td><td>2017/02/06</td></tr><tr><td>衛署藥製字第055548號</td><td>吉西他濱鹽酸鹽</td><td>Gemcitabine Hydrochloride</td><td>2023/06/30</td></tr><tr><td>衛署藥輸字第021841號</td><td>健擇注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2011/03/28</td></tr><tr><td>衛署藥輸字第023298號</td><td>健擇注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2024/10/17</td></tr><tr><td>衛署藥輸字第024846號</td><td>健彌達靜脈凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2024/06/18</td></tr><tr><td>衛署藥輸字第025183號</td><td>健達必凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE、GEMCITAB…</td><td>2022/06/30</td></tr><tr><td>衛署藥輸字第026065號</td><td>健米喜凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE、GEMCITAB…</td><td>2019/04/15</td></tr><tr><td>衛部藥輸字第026627號</td><td>健達必注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2022/09/12</td></tr><tr><td>衛部藥輸字第027106號</td><td>珍喜得平凍晶注射劑</td><td>GEMCITABINE HYDROCHLORIDE、GEMCITABINE HYDROCHLORIDE</td><td>2026/02/10</td></tr><tr><td>衛部藥輸字第027808號</td><td>健賽特平"泰和碩"注射劑</td><td>GEMCITABINE HYDROCHLORIDE</td><td>2021/10/12</td></tr></tbody></table></details>

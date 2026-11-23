@@ -51,7 +51,7 @@ TxGNN 模型預測它可能對**閉經 (Amenorrhea)** 有效，
 | TxGNN 預測分數 | 0.9996 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 5 張／共 9 張） |
-| 許可證數 | 9 張（有效單方 0／有效複方 5／已過期 1／已註銷 3） |
+| 許可證數 | 9 張（有效單方 0／有效複方 5／已註銷 4） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -89,9 +89,9 @@ ChEMBL（EMBL-EBI）收錄的 Desogestrel 作用機轉（非官方翻譯）：�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Desogestrel 的不重複許可證共 **9 張**：有效單方 0 張、有效複方 5 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Desogestrel 的不重複許可證共 **9 張**：有效單方 0 張、有效複方 5 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
+**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -101,11 +101,8 @@ ChEMBL（EMBL-EBI）收錄的 Desogestrel 作用機轉（非官方翻譯）：�
 | 衛部藥輸字第027194號 | 美偌琳膜衣錠 | DESOGESTREL、ETHINYLESTRADIOL MICRONIZED | 膜衣錠 | 避孕。 |
 | 衛部藥輸字第028613號 | 母扶樂膜衣錠 | DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T… | 膜衣錠 | 口服避孕劑。 |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（1 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第025503號</td><td>愛逸定膜衣錠</td><td>DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T…</td><td>2026/08/15</td></tr></tbody></table></details>
-
-<details><summary><strong>已註銷</strong>（3 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012690號</td><td>母扶樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>1987/10/19</td></tr><tr><td>衛署藥輸字第016025號</td><td>母扶樂錠</td><td>DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T…</td><td>2019/01/18</td></tr><tr><td>衛署藥輸字第025375號</td><td>可若絲膚錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2022/07/07</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（4 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第012690號</td><td>母扶樂錠</td><td>DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ T…</td><td>1987/10/19</td></tr><tr><td>衛署藥輸字第016025號</td><td>母扶樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2019/01/18</td></tr><tr><td>衛署藥輸字第025375號</td><td>可若絲膚錠</td><td>DESOGESTREL、DESOGESTREL、ESTRADIOL ETHINYL (EQ TO ETHINYLOEST…</td><td>2022/07/07</td></tr><tr><td>衛署藥輸字第025503號</td><td>愛逸定膜衣錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2026/10/02</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

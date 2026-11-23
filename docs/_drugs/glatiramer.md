@@ -77,9 +77,9 @@ TxGNN 模型預測它可能對**血紅素病變 (Hemoglobinopathy)** 有效，�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Glatiramer 的不重複許可證共 **4 張**：有效單方 2 張、有效複方 0 張、已註銷 2 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Glatiramer 的不重複許可證共 **4 張**：有效單方 2 張、有效複方 0 張、已註銷 2 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（2 張）
+**有效・單方（截至資料集日期 2026-11-20）**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -87,7 +87,7 @@ TxGNN 模型預測它可能對**血紅素病變 (Hemoglobinopathy)** 有效，�
 | 衛部罕藥輸字第000035號 | 柯珮鬆注射液40毫克 | 注射液劑 | 香港商梯瓦藥業有限公司台灣分公司 | 2031/08/25 | 用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率。 |
 
 <details><summary><strong>已註銷</strong>（2 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署罕藥輸字第000009號</td><td>可舒鬆凍晶注射劑20毫克</td><td>WATER FOR INJECTION、GLATIRAMER ACETATE</td><td>2008/10/13</td></tr><tr><td>衛署罕藥輸字第000015號</td><td>可舒鬆注射液20公絲</td><td>GLATIRAMER ACETATE</td><td>2019/03/14</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署罕藥輸字第000009號</td><td>可舒鬆凍晶注射劑20毫克</td><td>GLATIRAMER ACETATE、WATER FOR INJECTION</td><td>2008/10/13</td></tr><tr><td>衛署罕藥輸字第000015號</td><td>可舒鬆注射液20公絲</td><td>GLATIRAMER ACETATE</td><td>2019/03/14</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

@@ -76,9 +76,9 @@ TxGNN 模型預測它可能對**肢端中段發育不良（Hunter-Thompson 型�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Tolmetin 的不重複許可證共 **14 張**：有效單方 3 張、有效複方 0 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Tolmetin 的不重複許可證共 **14 張**：有效單方 3 張、有效複方 0 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（3 張）
+**有效・單方（截至資料集日期 2026-11-20）**（3 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -87,7 +87,7 @@ TxGNN 模型預測它可能對**肢端中段發育不良（Hunter-Thompson 型�
 | 衛署藥製字第055941號 | “應元”遠痛錠 200 毫克 | 錠劑 | 應元化學製藥股份有限公司 | 2031/02/21 | 類風濕性關節炎、骨關節炎(關節痛、退化性關節炎)、僵直性脊椎炎、急性肌肉骨骼症狀、急性痛風。 |
 
 <details><summary><strong>已註銷</strong>（11 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第030056號</td><td>妥力定錠２００公絲（妥美汀）</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2013/09/30</td></tr><tr><td>衛署藥輸字第006365號</td><td>妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1987/12/18</td></tr><tr><td>衛署藥輸字第008441號</td><td>一－甲基５－對位－甲苯基/喀２－醋酸鈉二水合物</td><td>TOLMETIN SODIUM</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第008609號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM)</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第014881號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015258號</td><td>施樂妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1989/08/29</td></tr><tr><td>衛署藥輸字第017293號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>1993/02/12</td></tr><tr><td>衛署藥輸字第017649號</td><td>妥美汀</td><td>TOLMETIN SODIUM DIHYDRATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第019628號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>2004/07/15</td></tr><tr><td>衛署藥輸字第021930號</td><td>妥力定膠囊２００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN、TOLMETIN SODIUM DIHYDRATE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第021935號</td><td>妥力定膠４００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN、TOLMETIN SODIUM DIHYDRATE</td><td>2005/06/15</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第030056號</td><td>妥力定錠２００公絲（妥美汀）</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2013/09/30</td></tr><tr><td>衛署藥輸字第006365號</td><td>妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1987/12/18</td></tr><tr><td>衛署藥輸字第008441號</td><td>一－甲基５－對位－甲苯基/喀２－醋酸鈉二水合物</td><td>TOLMETIN SODIUM</td><td>1999/10/25</td></tr><tr><td>衛署藥輸字第008609號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM)</td><td>2010/08/16</td></tr><tr><td>衛署藥輸字第014881號</td><td>妥力定膠囊４００公絲</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第015258號</td><td>施樂妥力定錠</td><td>TOLMETIN (SODIUM DIHYDRATE)</td><td>1989/08/29</td></tr><tr><td>衛署藥輸字第017293號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>1993/02/12</td></tr><tr><td>衛署藥輸字第017649號</td><td>妥美汀</td><td>TOLMETIN SODIUM DIHYDRATE</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第019628號</td><td>妥力定凝膠</td><td>TOLMETIN</td><td>2004/07/15</td></tr><tr><td>衛署藥輸字第021930號</td><td>妥力定膠囊２００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN SODIUM DIHYDRATE、TOLMETIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第021935號</td><td>妥力定膠４００公絲　〝嬌生瑞士廠〞</td><td>TOLMETIN、TOLMETIN SODIUM DIHYDRATE</td><td>2005/06/15</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

@@ -87,16 +87,16 @@ SIV 與 HIV 同為靈長類慢病毒，蛋白酶結構相近。體外研究顯�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ritonavir 的不重複許可證共 **11 張**：有效單方 0 張、有效複方 1 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Ritonavir 的不重複許可證共 **11 張**：有效單方 0 張、有效複方 1 張、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 衛部藥輸字第028474號 | 倍拉維150毫克/100毫克膜衣錠 | Nirmatrelvir、RITONAVIR | 膜衣錠 | 適用於治療12歲以上，具有進展為重症風險因子之輕度至中度新型冠狀病毒疾病(COVID-19)病人。 |
 
 <details><summary><strong>已註銷</strong>（10 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第021892號</td><td>諾億亞內服液劑８０毫克/毫升</td><td>RITONAVIR</td><td>2024/05/03</td></tr><tr><td>衛署藥輸字第021897號</td><td>諾億亞膠囊１００公絲</td><td>RITONAVIR</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第023023號</td><td>諾億亞軟膠囊１００毫克</td><td>RITONAVIR</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第023187號</td><td>快利佳軟膠囊</td><td>RITONAVIR、LOPINAVIR</td><td>2013/01/03</td></tr><tr><td>衛署藥輸字第023188號</td><td>快利佳內服液劑</td><td>LOPINAVIR、RITONAVIR</td><td>2024/01/10</td></tr><tr><td>衛署藥輸字第024560號</td><td>快利佳錠劑</td><td>LOPINAVIR、RITONAVIR</td><td>2024/01/12</td></tr><tr><td>衛署藥輸字第025067號</td><td>快利佳膜衣錠100毫克/25毫克</td><td>LOPINAVIR、RITONAVIR</td><td>2024/01/11</td></tr><tr><td>衛署藥輸字第025473號</td><td>諾億亞膜衣錠 100毫克</td><td>RITONAVIR</td><td>2022/07/08</td></tr><tr><td>衛部藥輸字第026200號</td><td>愛剋殺膜衣錠</td><td>RITONAVIR、LOPINAVIR</td><td>2023/01/11</td></tr><tr><td>衛部藥輸字第026709號</td><td>維建樂12.5毫克/75毫克/50毫克膜衣錠</td><td>RITONAVIR、Ombitasvir、Paritaprevir</td><td>2021/02/19</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第021892號</td><td>諾億亞內服液劑８０毫克/毫升</td><td>RITONAVIR</td><td>2024/05/03</td></tr><tr><td>衛署藥輸字第021897號</td><td>諾億亞膠囊１００公絲</td><td>RITONAVIR</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第023023號</td><td>諾億亞軟膠囊１００毫克</td><td>RITONAVIR</td><td>2016/05/30</td></tr><tr><td>衛署藥輸字第023187號</td><td>快利佳軟膠囊</td><td>LOPINAVIR、RITONAVIR</td><td>2013/01/03</td></tr><tr><td>衛署藥輸字第023188號</td><td>快利佳內服液劑</td><td>RITONAVIR、LOPINAVIR</td><td>2024/01/10</td></tr><tr><td>衛署藥輸字第024560號</td><td>快利佳錠劑</td><td>LOPINAVIR、RITONAVIR</td><td>2024/01/12</td></tr><tr><td>衛署藥輸字第025067號</td><td>快利佳膜衣錠100毫克/25毫克</td><td>RITONAVIR、LOPINAVIR</td><td>2024/01/11</td></tr><tr><td>衛署藥輸字第025473號</td><td>諾億亞膜衣錠 100毫克</td><td>RITONAVIR</td><td>2022/07/08</td></tr><tr><td>衛部藥輸字第026200號</td><td>愛剋殺膜衣錠</td><td>LOPINAVIR、RITONAVIR</td><td>2023/01/11</td></tr><tr><td>衛部藥輸字第026709號</td><td>維建樂12.5毫克/75毫克/50毫克膜衣錠</td><td>Ombitasvir、Paritaprevir、RITONAVIR</td><td>2021/02/19</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

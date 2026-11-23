@@ -145,5 +145,12 @@ def main():
 if __name__ == "__main__":
     # 2026-11-19：說明頁／證據等級頁的資料檔跟著重算（scripts/local_facts.py；--check 時不跑）
     import atexit as _lf_ax, os as _lf_os, subprocess as _lf_sp, sys as _lf_sys
-    _lf_ax.register(lambda: "--check" in _lf_sys.argv or _lf_sp.run([_lf_sys.executable, _lf_os.path.join(_lf_os.path.dirname(_lf_os.path.abspath(__file__)), "local_facts.py"), "--write"]))
+    _lf_here = _lf_os.path.dirname(_lf_os.path.abspath(__file__))  # 先算好：atexit 時 __main__ 的 __file__ 已不在（NameError；同 apply_drug_reviews.py 2026-11-19 的修正，2026-11-24 補）
+    _lf_fail = []  # 結尾自動重算失敗時印 ✗ 並讓整支 exit 1（同 apply_drug_reviews.py 2026-11-20）
+    def _lf_chk(r, what):
+        if r.returncode != 0:
+            print(f"  ✗ 結尾自動重算失敗：{what}（exit {r.returncode}）", file=_lf_sys.stderr)
+            _lf_fail.append(what)
+    _lf_ax.register(lambda: _lf_fail and (_lf_sys.stdout.flush(), _lf_os._exit(1)))  # 最先註冊＝最後執行
+    _lf_ax.register(lambda: "--check" in _lf_sys.argv or _lf_chk(_lf_sp.run([_lf_sys.executable, _lf_os.path.join(_lf_here, "local_facts.py"), "--write"]), "local_facts.py --write"))
     main()

@@ -50,7 +50,7 @@ TxGNN 模型預測它可能對**心臟纖維肉瘤 (Heart Fibrosarcoma)** 有效
 | TxGNN 預測分數 | 0.9994 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 17 張／共 28 張） |
-| 許可證數 | 28 張（有效單方 17／有效複方 0／已過期 4／已註銷 7） |
+| 許可證數 | 28 張（有效單方 17／有效複方 0／已過期 3／已註銷 8） |
 | 建議決策 | Hold |
 
 ## 為什麼這個預測合理？
@@ -79,9 +79,9 @@ DFSP 與纖維肉瘤同屬纖維母細胞來源的肉瘤，這是模型預測的
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Imatinib 的不重複許可證共 **28 張**：有效單方 17 張、有效複方 0 張、已過期 4 張（未註銷但有效日期早於資料集日期）、已註銷 7 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Imatinib 的不重複許可證共 **28 張**：有效單方 17 張、有效複方 0 張、已過期 3 張（未註銷但有效日期早於資料集日期）、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（17 張）
+**有效・單方（截至資料集日期 2026-11-20）**（17 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -103,11 +103,11 @@ DFSP 與纖維肉瘤同屬纖維母細胞來源的肉瘤，這是模型預測的
 | 衛部藥輸字第027993號 | 立滅伏膜衣錠100毫克 | 膜衣錠 | 毅有生技醫藥股份有限公司 | 2030/11/30 | 治療正值急性轉化期（BLAST CRISIS）、加速期或經ALPHA-干擾素治療無效之慢性期的慢性骨髓性白血病（CML）患者。治療成年人無法手術切除或轉移的惡性胃腸道基質瘤。用於治… |
 | 衛部藥輸字第029161號 | 護血寶膜衣錠100毫克 | 膜衣錠 | 意欣國際有限公司 | 2031/05/20 | 治療正值急性轉化期(BLAST CRISIS)、加速期或經ALPHA-干擾素治療無效之慢性期的慢性骨髓性白血病(CML)患者。治療成年人無法手術切除或轉移的惡性胃腸道基質瘤。用於治… |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-09-29）</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥輸字第027910號</td><td>甲磺酸伊馬替尼</td><td>Imatinib Mesylate</td><td>2025/06/19</td></tr><tr><td>衛部藥輸字第028045號</td><td>甲磺酸伊馬替尼</td><td>Imatinib Mesylate</td><td>2026/03/15</td></tr><tr><td>衛部藥陸輸字第001009號</td><td>抑嘧啶挺命甲磺酸鹽</td><td>Imatinib Mesylate</td><td>2026/08/20</td></tr><tr><td>衛部藥陸輸字第001010號</td><td>抑嘧啶挺命甲磺酸鹽</td><td>Imatinib Mesilate</td><td>2026/08/20</td></tr></tbody></table></details>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（3 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥輸字第028045號</td><td>甲磺酸伊馬替尼</td><td>Imatinib Mesylate</td><td>2026/03/15</td></tr><tr><td>衛部藥陸輸字第001009號</td><td>抑嘧啶挺命甲磺酸鹽</td><td>Imatinib Mesylate</td><td>2026/08/20</td></tr><tr><td>衛部藥陸輸字第001010號</td><td>抑嘧啶挺命甲磺酸鹽</td><td>Imatinib Mesilate</td><td>2026/08/20</td></tr></tbody></table></details>
 
-<details><summary><strong>已註銷</strong>（7 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第023291號</td><td>基利克膠囊100毫克</td><td>IMATINIB MESYLATE</td><td>2021/05/07</td></tr><tr><td>衛署藥輸字第024026號</td><td>基利克膜衣錠400毫克</td><td>IMATINIB MESYLATE</td><td>2021/05/10</td></tr><tr><td>衛部藥輸字第026383號</td><td>維提歐膜衣錠100毫克</td><td>IMATINIB MESYLATE</td><td>2021/02/19</td></tr><tr><td>衛部藥輸字第027351號</td><td>伊麻提寧膜衣錠100毫克</td><td>IMATINIB MESYLATE</td><td>2025/04/28</td></tr><tr><td>衛部藥輸字第027352號</td><td>伊麻提寧膜衣錠400毫克</td><td>IMATINIB MESYLATE</td><td>2025/07/14</td></tr><tr><td>衛部藥輸字第027788號</td><td>瑞迪釆膠囊100毫克</td><td>IMATINIB MESYLATE</td><td>2026/06/09</td></tr><tr><td>衛部藥輸字第028452號</td><td>癌滅靈膜衣錠100毫克</td><td>IMATINIB MESYLATE</td><td>2023/09/25</td></tr></tbody></table></details>
+<details><summary><strong>已註銷</strong>（8 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第023291號</td><td>基利克膠囊100毫克</td><td>IMATINIB MESYLATE</td><td>2021/05/07</td></tr><tr><td>衛署藥輸字第024026號</td><td>基利克膜衣錠400毫克</td><td>IMATINIB MESYLATE</td><td>2021/05/10</td></tr><tr><td>衛部藥輸字第026383號</td><td>維提歐膜衣錠100毫克</td><td>IMATINIB MESYLATE</td><td>2021/02/19</td></tr><tr><td>衛部藥輸字第027351號</td><td>伊麻提寧膜衣錠100毫克</td><td>IMATINIB MESYLATE</td><td>2025/04/28</td></tr><tr><td>衛部藥輸字第027352號</td><td>伊麻提寧膜衣錠400毫克</td><td>IMATINIB MESYLATE</td><td>2025/07/14</td></tr><tr><td>衛部藥輸字第027788號</td><td>瑞迪釆膠囊100毫克</td><td>IMATINIB MESYLATE</td><td>2026/06/09</td></tr><tr><td>衛部藥輸字第027910號</td><td>甲磺酸伊馬替尼</td><td>Imatinib Mesylate</td><td>2026/11/02</td></tr><tr><td>衛部藥輸字第028452號</td><td>癌滅靈膜衣錠100毫克</td><td>IMATINIB MESYLATE</td><td>2023/09/25</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

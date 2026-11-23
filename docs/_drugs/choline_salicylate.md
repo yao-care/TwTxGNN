@@ -51,7 +51,7 @@ TxGNN 模型預測它可能對**變異型心絞痛 (Prinzmetal angina)** 有效�
 | TxGNN 預測分數 | 0.9984 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 3 張／共 6 張） |
-| 許可證數 | 6 張（有效單方 1／有效複方 2／已註銷 3） |
+| 許可證數 | 6 張（有效單方 0／有效複方 2／已過期 1／已註銷 3） |
 | 建議決策 | Hold |
 
 <!-- review:begin choline-salicylate-rheumatoid-arthritis-known-use-rereview-result-2026-11-03 -->
@@ -82,20 +82,17 @@ TxGNN 模型預測它可能對**變異型心絞痛 (Prinzmetal angina)** 有效�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Choline Salicylate 的不重複許可證共 **6 張**：有效單方 1 張、有效複方 2 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Choline Salicylate 的不重複許可證共 **6 張**：有效單方 0 張、有效複方 2 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（1 張）
-
-| 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
-|------|------|------|------|------|------|
-| 衛署藥輸字第021417號 | 蒙得莎凝膠 | 外用凝膠劑 | 嘉德藥品企業股份有限公司 | 2026/11/06 | 發炎、疼痛、單純疱瘡 |
-
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 衛署藥製字第039009號 | 治膜炎凝膠 | CHOLINE SALICYLATE、CETALKONIUM CHLORIDE | 外用凝膠劑 | 發炎、疼痛、單純庖瘡 |
 | 衛署藥製字第047620號 | 允消炎凝膠 | CHOLINE SALICYLATE、CETALKONIUM CHLORIDE | 外用凝膠劑 | 發炎、疼痛、單純&#30129;瘡。 |
+
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（1 張，展開）</summary>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥輸字第021417號</td><td>蒙得莎凝膠</td><td>CHOLINE SALICYLATE</td><td>2026/11/06</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第008406號</td><td>炎可愈凝膠</td><td>CETALKONIUM CHLORIDE、CHOLINE SALICYLATE</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第009882號</td><td>水楊酸膽素８０％</td><td>CHOLINE SALICYLATE</td><td>2014/01/28</td></tr><tr><td>衛署藥輸字第011187號</td><td>柳酸膽/</td><td>CHOLINE SALICYLATE</td><td>1999/09/22</td></tr></tbody></table></details>

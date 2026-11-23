@@ -17,8 +17,8 @@
   "drugs_none_current": 11,
   "drugs_without_data": 0,
   "drugs_partial": 0,
-  "items_total": 20342,
-  "items_current": 5750
+  "items_total": 20351,
+  "items_current": 5756
  },
  "reviews": {
   "records": 872,
@@ -54,7 +54,7 @@
    "u": "/drugs/guaiacol/",
    "l": "L5",
    "lt": 1080,
-   "lv": 368,
+   "lv": 369,
    "r": 0,
    "i": "nasal cavity disease"
   },
@@ -63,7 +63,7 @@
    "u": "/drugs/betamethasone/",
    "l": "N/A",
    "lt": 605,
-   "lv": 276,
+   "lv": 279,
    "r": 7,
    "i": "alopecia areata"
   },
@@ -90,7 +90,7 @@
    "u": "/drugs/ibuprofen/",
    "l": "L5",
    "lt": 421,
-   "lv": 188,
+   "lv": 187,
    "r": 1,
    "i": "acromesomelic dysplasia, Hunter-Thompson type"
   },
@@ -108,7 +108,7 @@
    "u": "/drugs/camphor/",
    "l": "L5",
    "lt": 423,
-   "lv": 169,
+   "lv": 170,
    "r": 7,
    "i": "偏頭痛"
   }
@@ -266,7 +266,7 @@
    "u": "/drugs/terbutaline/",
    "l": "N/A",
    "lt": 52,
-   "lv": 17,
+   "lv": 16,
    "r": 11,
    "i": "obstructive lung disease"
   }

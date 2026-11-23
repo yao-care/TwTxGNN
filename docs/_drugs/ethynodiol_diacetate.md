@@ -89,9 +89,9 @@ ChEMBL（EMBL-EBI）收錄的 Ethynodiol Diacetate 作用機轉（非官方翻�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Ethynodiol Diacetate 的不重複許可證共 **8 張**：有效單方 0 張、有效複方 2 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Ethynodiol Diacetate 的不重複許可證共 **8 張**：有效單方 0 張、有效複方 2 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
@@ -99,7 +99,7 @@ ChEMBL（EMBL-EBI）收錄的 Ethynodiol Diacetate 作用機轉（非官方翻�
 | 衛署藥製字第043147號 | 克妊滿錠　〝汎生〞 | ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD… | 錠劑 | 避孕、月經異常。 |
 
 <details><summary><strong>已註銷</strong>（6 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第002668號</td><td>爾非</td><td>ETHYNODIOL DIACETATE、MESTRANOL</td><td>1986/06/20</td></tr><tr><td>衛署藥輸字第005174號</td><td>隔舒錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第005422號</td><td>亞卡南爾非滅錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006867號</td><td>隔樂錠</td><td>ETHYNODIOL DIACETATE、FERROUS FUMARATE、ESTRADIOL ETHINYL (EQ…</td><td>1991/12/19</td></tr><tr><td>衛署藥輸字第012829號</td><td>克妊滿膜衣錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>1999/01/07</td></tr><tr><td>衛署藥輸字第018877號</td><td>隔樂錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>2004/03/19</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第002668號</td><td>爾非</td><td>ETHYNODIOL DIACETATE、MESTRANOL</td><td>1986/06/20</td></tr><tr><td>衛署藥輸字第005174號</td><td>隔舒錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>2000/10/21</td></tr><tr><td>衛署藥輸字第005422號</td><td>亞卡南爾非滅錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>2004/12/23</td></tr><tr><td>衛署藥輸字第006867號</td><td>隔樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>1991/12/19</td></tr><tr><td>衛署藥輸字第012829號</td><td>克妊滿膜衣錠</td><td>ETHYNODIOL DIACETATE、ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRAD…</td><td>1999/01/07</td></tr><tr><td>衛署藥輸字第018877號</td><td>隔樂錠</td><td>ESTRADIOL ETHINYL (EQ TO ETHINYLOESTRADIOL)(EQ TO ETHINYLEST…</td><td>2004/03/19</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

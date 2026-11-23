@@ -76,9 +76,9 @@ TxGNN 的高分應視為計算模型的推測結果，可能反映網路特徵�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Deoxycholic Acid 的不重複許可證共 **6 張**：有效單方 4 張、有效複方 0 張、已註銷 2 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Deoxycholic Acid 的不重複許可證共 **6 張**：有效單方 4 張、有效複方 0 張、已註銷 2 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（4 張）
+**有效・單方（截至資料集日期 2026-11-20）**（4 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -88,7 +88,7 @@ TxGNN 的高分應視為計算模型的推測結果，可能反映網路特徵�
 | 衛部藥輸字第028648號 | 去氧膽酸 | （粉） | 溫帝國際有限公司 | 2029/01/17 | 乳化劑；頦下脂肪消除劑(注射) |
 
 <details><summary><strong>已註銷</strong>（2 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第020217號</td><td>可樂秘膠囊</td><td>PHENOLPHTHALEIN、DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、DE…</td><td>1991/06/27</td></tr><tr><td>衛署藥輸字第010588號</td><td>肝得健注射劑</td><td>CYANOCOBALAMIN (VIT B12)、DEOXYCHOLIC ACID (DESOXYCHOLIC ACID…</td><td>1992/05/28</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第020217號</td><td>可樂秘膠囊</td><td>DIOCTYL SODIUM SULFOSUCCINATE(AEROSOL OT)、DEOXYCHOLIC ACID (…</td><td>1991/06/27</td></tr><tr><td>衛署藥輸字第010588號</td><td>肝得健注射劑</td><td>SODIUM PANTOTHENATE、PHOSPHOLIPID ESSENTIAL、PYRIDOXINE HCL、RI…</td><td>1992/05/28</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

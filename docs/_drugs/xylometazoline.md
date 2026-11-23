@@ -83,9 +83,9 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-09-29），主成分含 Xylometazoline 的不重複許可證共 **24 張**：有效單方 18 張、有效複方 1 張、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Xylometazoline 的不重複許可證共 **24 張**：有效單方 18 張、有效複方 1 張、已註銷 5 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-09-29）**（18 張）
+**有效・單方（截至資料集日期 2026-11-20）**（18 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -108,14 +108,14 @@ TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，
 | 衛部藥輸字第026450號 | 歐治鼻薄荷噴鼻液0.1% (西羅美塔柔林) | 鼻用噴液劑 | 英商赫力昂股份有限公司台灣分公司 | 2029/11/13 | 暫時緩解因鼻炎、過敏性鼻炎、過敏或感冒引起之鼻塞、流鼻水症狀。 |
 | 衛部藥輸字第026889號 | 鹽酸在羅美達佐林 | （粉） | 恒亞貿易股份有限公司 | 2031/07/04 | 局部消除鼻黏膜充血的血管收縮劑。 |
 
-**有效・複方（截至資料集日期 2026-09-29；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛部藥製字第059891號 | 樂佐寧複方噴鼻液 | Ipratropium bromide (monohydrate)、XYLOMETAZOLINE HCL | 鼻用噴液劑 | 一般感冒引起的鼻塞、流鼻水症狀之治療。 |
+| 衛部藥製字第059891號 | 樂佐寧複方噴鼻液 | XYLOMETAZOLINE HCL、Ipratropium bromide (monohydrate) | 鼻用噴液劑 | 一般感冒引起的鼻塞、流鼻水症狀之治療。 |
 
 <details><summary><strong>已註銷</strong>（5 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第030792號</td><td>歐治鼻噴鼻液０．１％（西羅美塔柔林）</td><td>XYLOMETAZOLINE HCL</td><td>2007/09/04</td></tr><tr><td>衛署藥輸字第010865號</td><td>鹽酸（Ｔ２，６二甲/基）味唑粉劑</td><td>XYLOMETAZOLINE HCL</td><td>1998/03/05</td></tr><tr><td>衛署藥輸字第013222號</td><td>鹽酸愛克羅美達多林</td><td>XYLOMETAZOLINE HCL</td><td>2025/04/24</td></tr><tr><td>衛部藥輸字第026137號</td><td>歐治鼻雙效噴鼻液</td><td>XYLOMETAZOLINE HCL、Ipratropium bromide (monohydrate)</td><td>2025/04/07</td></tr><tr><td>衛部藥輸字第026177號</td><td>施諾通鼻噴溶液劑0.1%</td><td>XYLOMETAZOLINE HCL</td><td>2025/05/08</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第030792號</td><td>歐治鼻噴鼻液０．１％（西羅美塔柔林）</td><td>XYLOMETAZOLINE HCL</td><td>2007/09/04</td></tr><tr><td>衛署藥輸字第010865號</td><td>鹽酸（Ｔ２，６二甲/基）味唑粉劑</td><td>XYLOMETAZOLINE HCL</td><td>1998/03/05</td></tr><tr><td>衛署藥輸字第013222號</td><td>鹽酸愛克羅美達多林</td><td>XYLOMETAZOLINE HCL</td><td>2025/04/24</td></tr><tr><td>衛部藥輸字第026137號</td><td>歐治鼻雙效噴鼻液</td><td>Ipratropium bromide (monohydrate)、XYLOMETAZOLINE HCL</td><td>2025/04/07</td></tr><tr><td>衛部藥輸字第026177號</td><td>施諾通鼻噴溶液劑0.1%</td><td>XYLOMETAZOLINE HCL</td><td>2025/05/08</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
