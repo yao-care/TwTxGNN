@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 9 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # Gefitinib 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（38 則）
+## 相關新聞（39 則）
+
+### [你中了幾項? 研究：中年出現6症狀恐是失智警訊](https://news.google.com/rss/articles/CBMiywNBVV95cUxQMXZDU2p0SnYwN3JsMDNCYmxSa001ZDRjUndoMlN5QzdiNm1oVlZlZU9zek8zSkg4RnlqSW9sNnJndG9FRGNTaGhRa1pSbkhpSm11eVd4QTVxZXpyMy1CT29nMXZmc002S0tZaFlEcGt1QmZtTzRuRnR3dzhRc19uY2tNSFlUQWRUczVVVGVmLVZ3VFhZdFN5SWZLNnkyTl9QbHN6dEV5eXZWRU1pTjhsOExzVmI5SUF3R2l1ckdZM1BhRU4yb2d4YXVHQlNsR0F4U1hILThaMlBQS0V5X2d6MVN4NkczeTVMeHBGMXhOVmM5cGh3VFlmWm94UE12OXpLWkJnUmcyelI1b1hDUFVUNk12Z2NWTEZTcmdaMll5YnVxWG9hLW16M19oZTFWUC1kUnYzeTNMY2xyZlI0N2NMQ3d4Yjdva3ZSLTZSWjQzbUhkcTJOMjRoUHdEeGo0MmdWSjhCVVBoYjJRTXNzazI1Nkh4ZjYyUGRrc3hDRmp1RXNGTDJ1ZnJvMGloeDBUSGF5bFpkaEFYQURqbnFKNjlBM0V2SjllUEtRZlRVNkJVdkJycUlLbGNDWGFTU05Vb3FNZDAybzQ4YWgtd2s?oc=5)
+
+2026-11-22 <span class="news-indication-tag">失智</span>
+
+來源: [MSN](https://news.google.com/rss/articles/CBMiywNBVV95cUxQMXZDU2p0SnYwN3JsMDNCYmxSa001ZDRjUndoMlN5QzdiNm1oVlZlZU9zek8zSkg4RnlqSW9sNnJndG9FRGNTaGhRa1pSbkhpSm11eVd4QTVxZXpyMy1CT29nMXZmc002S0tZaFlEcGt1QmZtTzRuRnR3dzhRc19uY2tNSFlUQWRUczVVVGVmLVZ3VFhZdFN5SWZLNnkyTl9QbHN6dEV5eXZWRU1pTjhsOExzVmI5SUF3R2l1ckdZM1BhRU4yb2d4YXVHQlNsR0F4U1hILThaMlBQS0V5X2d6MVN4NkczeTVMeHBGMXhOVmM5cGh3VFlmWm94UE12OXpLWkJnUmcyelI1b1hDUFVUNk12Z2NWTEZTcmdaMll5YnVxWG9hLW16M19oZTFWUC1kUnYzeTNMY2xyZlI0N2NMQ3d4Yjdva3ZSLTZSWjQzbUhkcTJOMjRoUHdEeGo0MmdWSjhCVVBoYjJRTXNzazI1Nkh4ZjYyUGRrc3hDRmp1RXNGTDJ1ZnJvMGloeDBUSGF5bFpkaEFYQURqbnFKNjlBM0V2SjllUEtRZlRVNkJVdkJycUlLbGNDWGFTU05Vb3FNZDAybzQ4YWgtd2s?oc=5)
+
+---
 
 ### [280 萬人基因分析揭阿茲海默症新線索，48 個風險區域首度現身 - TechNews 科技新報](https://news.google.com/rss/articles/CBMirgFBVV95cUxOb0xRanFVOXN3QTQ2X1RXalZHYk9GQUZKRVJuYWRBaC1YUEpvMkhXeXB2SVZQc0FLMGRhQ0dTeWpBWEFTUXNpZjU1c3g1ekZjeVY4LUNmVDNYMVJYMVV3Y041bWVTc2xPNEI2WUpobUljN1FxMDdFbkRPSkxXaXVQSmM3bmVHd3FHODAwOFYxOHJvbHdGcjJObUhMX2p5RVdGaW9rbHpyTms0MGhfT0E?oc=5)
 
