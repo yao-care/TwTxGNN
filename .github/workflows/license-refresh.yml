@@ -98,6 +98,42 @@ jobs:
             --notes "許可證排程更新後的完整 data/。還原：bash scripts/restore_data.sh（預設取最新建立的 data-* tag，不含 -handoff）。" \
             "$STAGE/$SITE-data".tar.gz.part-* "$STAGE/$SITE-data.sha256"
 
+      # 2026-11-24（用戶決定）：TFDA 資料集 36 → 程式化許可證表重產接進每週排程（以前要人手動跑 regenerate_tfda_tables.py，
+      # 頁面停在舊資料集，check-new-evidence 每次都開一批「TFDA 許可證變更」issue）。放在許可證排程 commit 之後：
+      # license_refresh 在工作目錄有未提交藥物頁時會中止。任一步失敗就還原頁面、不推、開 issue。
+      - name: Regenerate TFDA tables (dataset 36)
+        id: tfda
+        if: inputs.dry_run != 'true'
+        run: |
+          git pull --rebase || true
+          set +e
+          bash scripts/tfda_regen_weekly.sh
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Commit TFDA tables and close reflected issues
+        if: steps.tfda.outputs.ok == '1' && inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898273+github-actions[bot]@users.noreply.github.com"
+          git add docs snapshots
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(tfda): 許可證表依資料集 36（${{ steps.tfda.outputs.data_date }}）重產（${{ steps.tfda.outputs.pages }} 個藥物頁）"
+            git pull --rebase
+            git push
+            gh workflow run pages.yml --ref main
+          fi
+          "$GITHUB_WORKSPACE/.venv/bin/python" scripts/close_reflected_tfda_issues.py --repo "${{ github.repository }}" --commit "$(git rev-parse --short HEAD)"
+
+      - name: Open issue on TFDA regeneration failure
+        if: steps.tfda.outputs.ok == '0' && inputs.dry_run != 'true'
+        run: |
+          gh label create license-refresh --color B60205 --description "許可證排程更新需要人看" 2>/dev/null || true
+          gh issue create --label license-refresh --title "TFDA 許可證表重產失敗，頁面未更新（需要人看）" \
+            --body "scripts/tfda_regen_weekly.sh 沒過，頁面已還原。看 run 的「Regenerate TFDA tables」步驟輸出。
+
+          Run：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          exit 1
+
       - name: Upload field changes
         if: always()
         uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2

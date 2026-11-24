@@ -1003,6 +1003,11 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - 產線寫頁前一律走 `src/twtxgnn/regulatory/page_postprocess.py` 的 `process_for_site()`：清 LLM 開場白與「Evidence Pack」用語 → 替換許可證表與「許可證數」列 → 套查核紀錄 → 改寫其他「N 張許可證」敘述 → 驗證頁面上每個許可證字號都屬於這個藥；不符就不寫該頁。
 - `llm_client.py` 呼叫 `claude -p` 時帶 `--disable-slash-commands --setting-sources ""`（不載技能與設定），回應再過 `clean_response()`。
 - 既有頁面重產：`python3 scripts/regenerate_tfda_tables.py --data-date <資料集檔案日期>`（可重複執行）；它同時更新 `snapshots/tfda_licenses.json.gz`（gate 與沒有資料集時的產線用）。
+- 每週排程自動重產（2026-11-24 用戶決定）：以前這步要人手動跑，頁面停在 2026-09-29 資料集，check-new-evidence 每次 TFDA 更新都開一批 label=tfda 的「TFDA 許可證變更」issue（11-20 18 個、11-24 12 個）。
+  `.github/workflows/license-refresh.yml` 在許可證排程 commit 之後跑 `scripts/tfda_regen_weekly.sh`（下載資料集 36 → process_fda_data → regenerate_tfda_tables，資料集日期取 ZIP 檔案日期 → apply_drug_reviews --check → check_seo_docs；
+  資料集少於 60,000 筆、重套後仍有頁面變動、有問題項或 gate 沒過就還原頁面、開 issue），通過才 commit；接著 `scripts/close_reflected_tfda_issues.py` 逐筆確認 tfda issue 列的變更都在頁面上
+  （註銷→在已註銷區、展延→有效日期相符（複方表沒有有效日期欄）、新增→字號在頁上；製造廠變更頁面不顯示；字號不屬於任何藥物頁的另註明），全部確認得到才留言關閉，確認不了的留給人看。
+  2026-11-24 對當天處理的 30 個 issue 試跑判定與人工結果一致，另以錯的有效日期、頁面仍有效卻寫註銷、空內文三種假 issue 確認不會誤關。
 - 查核紀錄的錨點落在被取代的許可證表或張數上時，該筆標 `status: superseded`＋`superseded_by`，紀錄保留、頁面不顯示框，查核紀錄表註明「已由程式化許可證表取代」。
 - 比對用的別名（INN 別名、鹽類／酯類、放射性核種寫法、拼字變體）放在 `config/tfda_synonyms.json`，每筆附依據；只收同一個藥的寫法。改完重跑 `scripts/regenerate_tfda_tables.py`。
 - gate（`scripts/check_seo_docs.py`）第 6 項會擋：不屬於該藥的許可證字號、許可證表不是程式區塊、張數與快照不符、殘留開場白或「Evidence Pack」；另外被 superseded 的查核紀錄裡確認屬於本藥的字號（`asserted_license_ids`）必須都在程式表裡——比對漏同義名時會在這裡被擋下。
