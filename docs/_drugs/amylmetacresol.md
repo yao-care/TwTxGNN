@@ -148,15 +148,15 @@ TxGNN 另預測下列適應症，皆同為 L5、建議 Hold，且均無臨床試
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Amylmetacresol 的不重複許可證共 **4 張**：有效單方 0 張、有效複方 4 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Amylmetacresol 的不重複許可證共 **4 張**：有效單方 0 張、有效複方 4 張、已註銷 0 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
+**有效・複方（截至資料集日期 2026-11-24；適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥輸字第022195號 | 舒立效口含錠 | AMYLMETACRESOL、AMYLMETACRESOL、DYBENAL (DICHLOROBENZYL 2,4- A… | 口含錠 | 口腔殺菌劑、咽喉炎。 |
+| 衛署藥輸字第022195號 | 舒立效口含錠 | DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、DYBENAL (DICHLOROBENZY… | 口含錠 | 口腔殺菌劑、咽喉炎。 |
 | 衛署藥輸字第022196號 | 舒立效口含錠舒緩蜂蜜檸檬 | AMYLMETACRESOL、DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL) | 口含錠 | 口腔殺菌劑、咽喉炎。 |
-| 衛署藥輸字第022197號 | 舒立效口含錠 酷涼薄荷 | DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、MENTHOL、AMYLMETACRESOL | 口含錠 | 口腔殺菌劑、咽喉炎。 |
+| 衛署藥輸字第022197號 | 舒立效口含錠 酷涼薄荷 | MENTHOL、DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、AMYLMETACRESOL | 口含錠 | 口腔殺菌劑、咽喉炎。 |
 | 衛署藥輸字第024072號 | 舒立效口含錠柑橘維他命Ｃ | DYBENAL (DICHLOROBENZYL 2,4- ALCOHOL)、VITAMIN C (ROSE HIPS E… | 口含錠 | 口腔殺菌劑、咽喉炎。 |
 
 <!-- tfda-licenses:end -->

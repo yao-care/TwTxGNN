@@ -17,8 +17,8 @@
   "drugs_none_current": 11,
   "drugs_without_data": 0,
   "drugs_partial": 0,
-  "items_total": 20351,
-  "items_current": 5756
+  "items_total": 20352,
+  "items_current": 5754
  },
  "reviews": {
   "records": 872,
@@ -221,7 +221,7 @@
    "u": "/drugs/magnesium-sulfate/",
    "l": "L2",
    "lt": 117,
-   "lv": 19,
+   "lv": 18,
    "r": 16,
    "i": "妊娠毒血症"
   },

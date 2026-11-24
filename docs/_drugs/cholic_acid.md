@@ -91,24 +91,24 @@ TxGNN 模型預測它可能對 **HIV 感染 (HIV infectious disease)** 有效，
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Cholic Acid 的不重複許可證共 **10 張**：有效單方 2 張、有效複方 2 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Cholic Acid 的不重複許可證共 **10 張**：有效單方 2 張、有效複方 2 張、已註銷 6 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（2 張）
+**有效・單方（截至資料集日期 2026-11-24）**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛部罕藥輸字第000054號 | 酷立酸 膠囊250毫克 | 膠囊劑 | 吉帝藥品股份有限公司 | 2028/06/06 | 治療由於單一酵素缺乏所造成之先天性膽酸 (cholic acid) 合成障礙。輔助治療過氧化體代謝異常（包括Zellweger spectrum disorders）病人呈現之肝病… |
 | 衛部罕藥輸字第000055號 | 酷立酸 膠囊50毫克 | 膠囊劑 | 吉帝藥品股份有限公司 | 2028/06/07 | 治療由於單一酵素缺乏所造成之先天性膽酸 (cholic acid) 合成障礙。輔助治療過氧化體代謝異常（包括Zellweger spectrum disorders）病人呈現之肝病… |
 
-**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+**有效・複方（截至資料集日期 2026-11-24；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 內衛藥製字第011108號 | "人生"胃立爽顆粒 | BENACTYZINE HCL、CHOLIC ACID、POLYMIGEL (AL.HYDROXIDE +CACO3 +… | 內服顆粒劑 | 急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍 |
-| 衛署藥製字第018650號 | 力保體康膠囊 | PYRIDOXINE HCL、PANTOTHENATE CALCIUM、RIBOFLAVIN (VIT B2)、NIAC… | 膠囊劑 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給、維護肝臟正常功能 |
+| 內衛藥製字第011108號 | "人生"胃立爽顆粒 | POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 )、MAGNESIUM CARBONATE、… | 內服顆粒劑 | 急慢性胃炎、胃酸過多、噁心、嘔吐、胃潰瘍、十二指腸潰瘍 |
+| 衛署藥製字第018650號 | 力保體康膠囊 | RIBOFLAVIN (VIT B2)、CYANOCOBALAMIN (VIT B12)、THIOCTIC ACID (… | 膠囊劑 | 發育不良、營養補給、虛弱體質、熱性消耗性疾患之補助治療、妊娠婦之營養補給、維護肝臟正常功能 |
 
 <details><summary><strong>已註銷</strong>（6 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004256號</td><td>胃好實錠</td><td>SCOPOLIA EXTRACT、MAGNESIUM CARBONATE、CHLOROPHYLL SODIUM COPP…</td><td>2012/11/30</td></tr><tr><td>內衛藥輸字第003265號</td><td>利保力體片</td><td>LECITHIN(LECITHOL)、CHOLIC ACID、THIOCTIC ACID (VIT B14ALPHA-L…</td><td>1990/09/13</td></tr><tr><td>衛署藥製字第004579號</td><td>爽胃王顆粒</td><td>BENACTYZINE HCL、POLYMIGEL (AL.HYDROXIDE +CACO3 +MGCO3 )、SWER…</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第016203號</td><td>爽胃王錠</td><td>SODIUM BICARBONATE ( EQ TO SODIUM HYDROGEN CARBONATE)、SCOPOL…</td><td>1999/09/06</td></tr><tr><td>衛署藥輸字第002730號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1988/09/02</td></tr><tr><td>衛署藥輸字第003007號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1999/09/22</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第004256號</td><td>胃好實錠</td><td>SCOPOLIA EXTRACT、BENACTYZINE HCL、CHOLIC ACID、CHLOROPHYLL SOD…</td><td>2012/11/30</td></tr><tr><td>內衛藥輸字第003265號</td><td>利保力體片</td><td>FOLIC ACID、GLUCURONIC ACID、PANTOTHENATE CALCIUM、PYRIDOXINE(V…</td><td>1990/09/13</td></tr><tr><td>衛署藥製字第004579號</td><td>爽胃王顆粒</td><td>CHOLIC ACID、BENACTYZINE HCL、CHLOROPHYLL SODIUM COPPER、SODIUM…</td><td>2010/03/05</td></tr><tr><td>衛署藥製字第016203號</td><td>爽胃王錠</td><td>CHLOROPHYLL SODIUM COPPER、SODIUM BICARBONATE ( EQ TO SODIUM…</td><td>1999/09/06</td></tr><tr><td>衛署藥輸字第002730號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1988/09/02</td></tr><tr><td>衛署藥輸字第003007號</td><td>膽酸</td><td>CHOLIC ACID</td><td>1999/09/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

@@ -56,23 +56,23 @@ evidence_level: N/A
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Chloral Hydrate 的不重複許可證共 **7 張**：有效單方 1 張、有效複方 2 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Chloral Hydrate 的不重複許可證共 **7 張**：有效單方 1 張、有效複方 2 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（1 張）
+**有效・單方（截至資料集日期 2026-11-24）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛部罕藥製字第000020號 | "晟德" 可律靜內服液劑 | 內服液劑 | 晟德大藥廠股份有限公司 | 2029/04/12 | 兒童檢查(non-painful procedure)前之鎮靜 |
 
-**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
+**有效・複方（截至資料集日期 2026-11-24；適應症屬整個複方，不是本藥單獨的適應症）**（2 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第018653號 | "好貼" 撫比膏 | D-CAMPHOR、METHYL SALICYLATE、CHLORAL HYDRATE、MENTHOL、DIPHENHY… | 軟膏劑 | 止癢 |
-| 衛署藥製字第024205號 | "政德 " 樂髮癢液 | SALICYLIC ACID、CHLORAL HYDRATE | 外用液劑 | 圓形脫毛症 |
+| 衛署藥製字第018653號 | "好貼" 撫比膏 | METHYL SALICYLATE、D-CAMPHOR、DIPHENHYDRAMINE HCL、MENTHOL、CHLO… | 軟膏劑 | 止癢 |
+| 衛署藥製字第024205號 | "政德 " 樂髮癢液 | CHLORAL HYDRATE、SALICYLIC ACID | 外用液劑 | 圓形脫毛症 |
 
 <details><summary><strong>已註銷</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第000493號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/06/24</td></tr><tr><td>內衛藥輸字第004905號</td><td>惠痔康軟膏</td><td>NAPHAZOLINE HCL、DL-MENTHOL、EPINEPHRINE HCL、CAMPHOR、DYCLONINE…</td><td>1990/07/20</td></tr><tr><td>內衛藥輸字第004918號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/07/27</td></tr><tr><td>衛署藥輸字第013503號</td><td>水合三氯乙醛粉劑</td><td>CHLORAL HYDRATE</td><td>1999/09/22</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥輸字第000493號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/06/24</td></tr><tr><td>內衛藥輸字第004905號</td><td>惠痔康軟膏</td><td>NAPHAZOLINE HCL、EPINEPHRINE HCL、CHLORAL HYDRATE、CAMPHOR、DYCL…</td><td>1990/07/20</td></tr><tr><td>內衛藥輸字第004918號</td><td>水合三氯乙醛</td><td>CHLORAL HYDRATE</td><td>1985/07/27</td></tr><tr><td>衛署藥輸字第013503號</td><td>水合三氯乙醛粉劑</td><td>CHLORAL HYDRATE</td><td>1999/09/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

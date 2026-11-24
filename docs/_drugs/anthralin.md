@@ -73,16 +73,16 @@ TxGNN 模型預測它可能對**光化性唇炎 (actinic cheilitis)** 有效，�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Anthralin 的不重複許可證共 **9 張**：有效單方 1 張、有效複方 0 張、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Anthralin 的不重複許可證共 **9 張**：有效單方 1 張、有效複方 0 張、已註銷 8 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（1 張）
+**有效・單方（截至資料集日期 2026-11-24）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第049649號 | 貝諾乳膏 1% | 乳膏劑 | 華盛頓製藥廠股份有限公司 | 2028/09/10 | 頑癬、牛皮癬、錢癬及其他癬菌所致之皮膚病。 |
 
 <details><summary><strong>已註銷</strong>（8 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第011402號</td><td>嗎爾宜唐</td><td>ZINC OXIDE、ANTHRALIN (DITHRANOL)、SALICYLIC ACID</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第012742號</td><td>疥能淨軟膏</td><td>ANTHRALIN (DITHRANOL)</td><td></td></tr><tr><td>衛署藥製字第014923號</td><td>速利癬軟膏</td><td>ZINC OXIDE、ANTHRALIN (DITHRANOL)、SALICYLIC ACID</td><td>1989/11/22</td></tr><tr><td>衛署藥製字第022694號</td><td>嗎爾宜唐軟膏０．１％</td><td>ZINC OXIDE、ANTHRALIN (DITHRANOL)、SALICYLIC ACID</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第022883號</td><td>嗎爾宜唐軟膏０．５％</td><td>SALICYLIC ACID、ANTHRALIN (DITHRANOL)、ZINC OXIDE</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第028949號</td><td>嗎爾宜唐軟膏０．３％</td><td>ZINC OXIDE、ANTHRALIN (DITHRANOL)、SALICYLIC ACID</td><td>1999/09/30</td></tr><tr><td>衛署藥輸字第005432號</td><td>/酚</td><td>ANTHRALIN (DITHRANOL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第017338號</td><td>/酚</td><td>ANTHRALIN (DITHRANOL)</td><td>1990/07/07</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第011402號</td><td>嗎爾宜唐</td><td>ANTHRALIN (DITHRANOL)、ZINC OXIDE、SALICYLIC ACID</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第012742號</td><td>疥能淨軟膏</td><td>ANTHRALIN (DITHRANOL)</td><td></td></tr><tr><td>衛署藥製字第014923號</td><td>速利癬軟膏</td><td>ANTHRALIN (DITHRANOL)、ZINC OXIDE、SALICYLIC ACID</td><td>1989/11/22</td></tr><tr><td>衛署藥製字第022694號</td><td>嗎爾宜唐軟膏０．１％</td><td>ANTHRALIN (DITHRANOL)、ZINC OXIDE、SALICYLIC ACID</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第022883號</td><td>嗎爾宜唐軟膏０．５％</td><td>ZINC OXIDE、SALICYLIC ACID、ANTHRALIN (DITHRANOL)</td><td>2013/09/26</td></tr><tr><td>衛署藥製字第028949號</td><td>嗎爾宜唐軟膏０．３％</td><td>ANTHRALIN (DITHRANOL)、ZINC OXIDE、SALICYLIC ACID</td><td>1999/09/30</td></tr><tr><td>衛署藥輸字第005432號</td><td>/酚</td><td>ANTHRALIN (DITHRANOL)</td><td>1989/10/05</td></tr><tr><td>衛署藥輸字第017338號</td><td>/酚</td><td>ANTHRALIN (DITHRANOL)</td><td>1990/07/07</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

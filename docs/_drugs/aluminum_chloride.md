@@ -97,16 +97,16 @@ TxGNN 模型預測它可能對**脂漏性角化症 (Seborrheic Keratosis)** 有�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Aluminum Chloride 的不重複許可證共 **4 張**：有效單方 1 張、有效複方 0 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Aluminum Chloride 的不重複許可證共 **4 張**：有效單方 1 張、有效複方 0 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（1 張）
+**有效・單方（截至資料集日期 2026-11-24）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥製字第043123號 | 克狐　止汗劑〝汎生〞 | 外用液劑 | 臺灣汎生製藥廠股份有限公司 | 2029/07/23 | 抗多汗。 |
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第009014號</td><td>純露糖漿</td><td>POTASSIUM GUAIACOLSULFONATE、CHLORPHENIRAMINE MALEATE、ALUMINU…</td><td>2023/07/24</td></tr><tr><td>衛署藥輸字第009331號</td><td>牙齦止血液</td><td>OXYQUINOLINE SULFATE、ALUMINUM CHLORIDE HYDRATED</td><td>1987/08/29</td></tr><tr><td>衛署藥輸字第009332號</td><td>牙齦收縮止血劑</td><td>ALUMINUM CHLORIDE HYDRATED、LIDOCAINE、OXYQUINOLINE SULFATE</td><td>1987/08/29</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>內衛藥製字第009014號</td><td>純露糖漿</td><td>ALUMINUM CHLORIDE、CHLORPHENIRAMINE MALEATE、POTASSIUM GUAIACO…</td><td>2023/07/24</td></tr><tr><td>衛署藥輸字第009331號</td><td>牙齦止血液</td><td>OXYQUINOLINE SULFATE、ALUMINUM CHLORIDE HYDRATED</td><td>1987/08/29</td></tr><tr><td>衛署藥輸字第009332號</td><td>牙齦收縮止血劑</td><td>LIDOCAINE、ALUMINUM CHLORIDE HYDRATED、OXYQUINOLINE SULFATE</td><td>1987/08/29</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

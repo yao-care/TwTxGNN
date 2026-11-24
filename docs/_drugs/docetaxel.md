@@ -96,9 +96,9 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Docetaxel 的不重複許可證共 **26 張**：有效單方 18 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 7 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Docetaxel 的不重複許可證共 **26 張**：有效單方 18 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 7 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（18 張）
+**有效・單方（截至資料集日期 2026-11-24）**（18 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -121,11 +121,11 @@ TxGNN 模型預測它可能對**尤文氏肉瘤 (Ewing sarcoma)** 有效。
 | 衛部藥陸輸字第001174號 | 三水合多賜特舒 | （粉） | 台灣荃新股份有限公司 | 2029/07/23 | 抗癌藥。 |
 | 衛部藥陸輸字第001267號 | 三水合多賜特舒 | （粉） | 台灣荃新股份有限公司 | 2031/04/13 | 抗腫瘤藥。 |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-24）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第056672號</td><td>泰欣注射劑40毫克/毫升</td><td>DOCETAXEL</td><td>2026/08/12</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（7 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第047882號</td><td>汰杉注射劑</td><td>ETHANOL ( EQ TO ETHYL ALCOHOL) (EQ TO ALCOHOL)、DOCETAXEL、WAT…</td><td>2025/07/01</td></tr><tr><td>衛署藥輸字第022048號</td><td>剋癌易注射劑</td><td>DOCETAXEL</td><td>2018/08/08</td></tr><tr><td>衛署藥輸字第025055號</td><td>紫杉寧注射劑</td><td>DOCETAXEL</td><td>2015/06/01</td></tr><tr><td>衛署藥輸字第025558號</td><td>朵安索“山德士”注射劑 10 毫克/毫升</td><td>DOCETAXEL</td><td>2021/05/18</td></tr><tr><td>衛署藥輸字第025600號</td><td>多泰舒靜脈注射劑</td><td>DOCETAXEL ANHYDROUS</td><td>2023/07/12</td></tr><tr><td>衛部藥輸字第027138號</td><td>多適特舒注射劑</td><td>DOCETAXEL ANHYDROUS</td><td>2026/02/09</td></tr><tr><td>衛部藥輸字第027786號</td><td>"橫山"多希汰癌20毫克/毫升注射液</td><td>DOCETAXEL ANHYDROUS</td><td>2026/05/20</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第047882號</td><td>汰杉注射劑</td><td>WATER FOR INJECTION、DOCETAXEL、ETHANOL ( EQ TO ETHYL ALCOHOL)…</td><td>2025/07/01</td></tr><tr><td>衛署藥輸字第022048號</td><td>剋癌易注射劑</td><td>DOCETAXEL</td><td>2018/08/08</td></tr><tr><td>衛署藥輸字第025055號</td><td>紫杉寧注射劑</td><td>DOCETAXEL</td><td>2015/06/01</td></tr><tr><td>衛署藥輸字第025558號</td><td>朵安索“山德士”注射劑 10 毫克/毫升</td><td>DOCETAXEL</td><td>2021/05/18</td></tr><tr><td>衛署藥輸字第025600號</td><td>多泰舒靜脈注射劑</td><td>DOCETAXEL ANHYDROUS</td><td>2023/07/12</td></tr><tr><td>衛部藥輸字第027138號</td><td>多適特舒注射劑</td><td>DOCETAXEL ANHYDROUS</td><td>2026/02/09</td></tr><tr><td>衛部藥輸字第027786號</td><td>"橫山"多希汰癌20毫克/毫升注射液</td><td>DOCETAXEL ANHYDROUS</td><td>2026/05/20</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

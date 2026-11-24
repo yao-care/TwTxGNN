@@ -75,16 +75,16 @@ ChEMBL（EMBL-EBI）收錄的 Urofollitropin 作用機轉（非官方翻譯）�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Urofollitropin 的不重複許可證共 **10 張**：有效單方 1 張、有效複方 0 張、已註銷 9 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Urofollitropin 的不重複許可證共 **10 張**：有效單方 1 張、有效複方 0 張、已註銷 9 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（1 張）
+**有效・單方（截至資料集日期 2026-11-24）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥輸字第025661號 | 福喜多滿注射劑75國際單位 | 凍晶注射劑 | 豐樂國際有限公司 | 2027/03/23 | 因FSH與LH之比例不適當所引起之不排卵不孕症及多囊性卵巢之症狀。 |
 
 <details><summary><strong>已註銷</strong>（9 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第013517號</td><td>娩樂臨注射劑</td><td>UROFOLLITROPHIN</td><td>1997/10/14</td></tr><tr><td>衛署藥輸字第021284號</td><td>娩得定注射劑</td><td>EACH SOLVENT CONTAINS、SODIUM CHLORIDE、UROFOLLITROPHIN</td><td>2003/08/26</td></tr><tr><td>衛署藥輸字第021285號</td><td>普格納注射劑</td><td>EACH SOLVENT CONTAINS、LUTEINIZING HOUMONE HUMAN、SODIUM CHLOR…</td><td>2003/08/26</td></tr><tr><td>衛署藥輸字第021375號</td><td>娩得定高純化注射劑</td><td>UROFOLLITROPHIN、SODIUM CHLORIDE、WATER FOR INJECTION、EACH SOL…</td><td>2004/05/28</td></tr><tr><td>衛署藥輸字第021805號</td><td>注射劑</td><td>UROFOLLITROPHIN、SODIUM CHLORIDE</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第021850號</td><td>娩樂臨凍晶注射劑</td><td>UROFOLLITROPHIN</td><td>1998/09/08</td></tr><tr><td>衛署藥輸字第022096號</td><td>福喜多滿注射劑７５國際單位</td><td>WATER FOR INJECTION、UROFOLLITROPHIN</td><td>2009/10/21</td></tr><tr><td>衛署藥輸字第022771號</td><td>娩得定注射劑７５國際單位</td><td>UROFOLLITROPHIN</td><td>2004/05/28</td></tr><tr><td>衛署藥輸字第025574號</td><td>保孕威凍晶注射劑75國際單位</td><td>UROFOLLITROPIN (HIGHLY PURIFIED URINARY FOLLICLE STIMULATING…</td><td>2019/07/31</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第013517號</td><td>娩樂臨注射劑</td><td>UROFOLLITROPHIN</td><td>1997/10/14</td></tr><tr><td>衛署藥輸字第021284號</td><td>娩得定注射劑</td><td>UROFOLLITROPHIN、EACH SOLVENT CONTAINS、SODIUM CHLORIDE</td><td>2003/08/26</td></tr><tr><td>衛署藥輸字第021285號</td><td>普格納注射劑</td><td>LUTEINIZING HOUMONE HUMAN、EACH SOLVENT CONTAINS、SODIUM CHLOR…</td><td>2003/08/26</td></tr><tr><td>衛署藥輸字第021375號</td><td>娩得定高純化注射劑</td><td>WATER FOR INJECTION、SODIUM CHLORIDE、EACH SOLVENT CONTAINS、UR…</td><td>2004/05/28</td></tr><tr><td>衛署藥輸字第021805號</td><td>注射劑</td><td>SODIUM CHLORIDE、UROFOLLITROPHIN</td><td>2005/06/15</td></tr><tr><td>衛署藥輸字第021850號</td><td>娩樂臨凍晶注射劑</td><td>UROFOLLITROPHIN</td><td>1998/09/08</td></tr><tr><td>衛署藥輸字第022096號</td><td>福喜多滿注射劑７５國際單位</td><td>UROFOLLITROPHIN、WATER FOR INJECTION</td><td>2009/10/21</td></tr><tr><td>衛署藥輸字第022771號</td><td>娩得定注射劑７５國際單位</td><td>UROFOLLITROPHIN</td><td>2004/05/28</td></tr><tr><td>衛署藥輸字第025574號</td><td>保孕威凍晶注射劑75國際單位</td><td>UROFOLLITROPIN (HIGHLY PURIFIED URINARY FOLLICLE STIMULATING…</td><td>2019/07/31</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

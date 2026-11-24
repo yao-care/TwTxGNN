@@ -104,9 +104,9 @@ C 型與 B 型肝炎同為慢性病毒性肝炎，臨床上常以干擾素為治
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Ribavirin 的不重複許可證共 **13 張**：有效單方 2 張、有效複方 0 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Ribavirin 的不重複許可證共 **13 張**：有效單方 2 張、有效複方 0 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（2 張）
+**有效・單方（截至資料集日期 2026-11-24）**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -114,7 +114,7 @@ C 型與 B 型肝炎同為慢性病毒性肝炎，臨床上常以干擾素為治
 | 衛署藥製字第048152號 | 源展膠囊200毫克 | 膠囊劑 | 健喬信元醫藥生技股份有限公司 | 2031/08/02 | 與peginterferon α 或α-interferon 併用治療：1.曾經使用α-interferon 單一療法後又復發的慢性C型肝炎。2.首次接受治療的慢性C型肝炎。 |
 
 <details><summary><strong>已註銷</strong>（11 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第027769號</td><td>速百敏膠囊</td><td>RIBAVIRIN、BIOTIN、GLYCYRRHIZIN (AMMONIATED)、CHLORPHENIRAMINE…</td><td>1991/09/24</td></tr><tr><td>衛署藥製字第044650號</td><td>羅拔除膠囊200毫克</td><td>RIBAVIRIN</td><td>2021/10/21</td></tr><tr><td>衛署藥輸字第017379號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>1995/09/18</td></tr><tr><td>衛署藥輸字第021029號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>1998/08/05</td></tr><tr><td>衛署藥輸字第022173號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第023204號</td><td>利必妥合併療法（因治隆注射液六百萬單位﹨毫升合併瑞比達膠囊２</td><td>RIBAVIRIN、INTERFERON ALPHA- 2B</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第023205號</td><td>利必妥合併療法（因治隆注射液一千五百萬單位/毫升合併瑞比達膠</td><td>RIBAVIRIN、INTERFERON ALPHA- 2B</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第023208號</td><td>瑞比達膠囊</td><td>RIBAVIRIN</td><td>2019/02/12</td></tr><tr><td>衛署藥輸字第025232號</td><td>適維肝膠囊 200 毫克</td><td>RIBAVIRIN</td><td>2022/06/23</td></tr><tr><td>衛署藥輸字第025605號</td><td>可珮格膜衣錠200毫克</td><td>RIBAVIRIN</td><td>2021/10/20</td></tr><tr><td>衛署藥輸字第025995號</td><td>立貝維爾</td><td>Ribavirin</td><td>2024/05/02</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第027769號</td><td>速百敏膠囊</td><td>RIBAVIRIN、CHLORPHENIRAMINE MALEATE、BIOTIN、PYRIDOXINE HCL、TOC…</td><td>1991/09/24</td></tr><tr><td>衛署藥製字第044650號</td><td>羅拔除膠囊200毫克</td><td>RIBAVIRIN</td><td>2021/10/21</td></tr><tr><td>衛署藥輸字第017379號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>1995/09/18</td></tr><tr><td>衛署藥輸字第021029號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>1998/08/05</td></tr><tr><td>衛署藥輸字第022173號</td><td>丕拉弱凍晶吸入劑</td><td>RIBAVIRIN</td><td>2013/12/16</td></tr><tr><td>衛署藥輸字第023204號</td><td>利必妥合併療法（因治隆注射液六百萬單位﹨毫升合併瑞比達膠囊２</td><td>RIBAVIRIN、INTERFERON ALPHA- 2B</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第023205號</td><td>利必妥合併療法（因治隆注射液一千五百萬單位/毫升合併瑞比達膠</td><td>RIBAVIRIN、INTERFERON ALPHA- 2B</td><td>2010/05/31</td></tr><tr><td>衛署藥輸字第023208號</td><td>瑞比達膠囊</td><td>RIBAVIRIN</td><td>2019/02/12</td></tr><tr><td>衛署藥輸字第025232號</td><td>適維肝膠囊 200 毫克</td><td>RIBAVIRIN</td><td>2022/06/23</td></tr><tr><td>衛署藥輸字第025605號</td><td>可珮格膜衣錠200毫克</td><td>RIBAVIRIN</td><td>2021/10/20</td></tr><tr><td>衛署藥輸字第025995號</td><td>立貝維爾</td><td>Ribavirin</td><td>2024/05/02</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

@@ -61,7 +61,7 @@
     "l": "L2",
     "i": "妊娠毒血症",
     "lt": 117,
-    "lv": 19,
+    "lv": 18,
     "r": 16,
     "rs": "頁首證據等級",
     "x": 1
@@ -544,7 +544,7 @@
     "l": "L5",
     "i": "acne (disease)",
     "lt": 693,
-    "lv": 144,
+    "lv": 143,
     "r": 1,
     "rs": "",
     "x": 0
@@ -577,7 +577,7 @@
     "l": "L5",
     "i": "atypical coarctation of aorta",
     "lt": 268,
-    "lv": 75,
+    "lv": 76,
     "r": 4,
     "rs": "預測理由稱乳酸有腸道輔助用途",
     "x": 0
@@ -588,7 +588,7 @@
     "l": "L5",
     "i": "gastroparesis (disease)",
     "lt": 387,
-    "lv": 75,
+    "lv": 74,
     "r": 0,
     "rs": "",
     "x": 0
@@ -599,20 +599,20 @@
     "l": "L5",
     "i": "gastroparesis (disease)",
     "lt": 380,
-    "lv": 74,
+    "lv": 73,
     "r": 1,
     "rs": "",
     "x": 0
    },
    {
-    "t": "Sodium Acetate",
-    "u": "/drugs/sodium-acetate/",
+    "t": "Hydroquinone",
+    "u": "/drugs/hydroquinone/",
     "l": "L5",
-    "i": "congenital prothrombin deficiency",
-    "lt": 196,
+    "i": "seborrheic keratosis",
+    "lt": 103,
     "lv": 71,
-    "r": 1,
-    "rs": "",
+    "r": 2,
+    "rs": "頁面描述（description）的證據等級",
     "x": 0
    },
    {
@@ -627,14 +627,14 @@
     "x": 0
    },
    {
-    "t": "Hydroquinone",
-    "u": "/drugs/hydroquinone/",
+    "t": "Sodium Acetate",
+    "u": "/drugs/sodium-acetate/",
     "l": "L5",
-    "i": "seborrheic keratosis",
-    "lt": 103,
+    "i": "congenital prothrombin deficiency",
+    "lt": 196,
     "lv": 70,
-    "r": 2,
-    "rs": "頁面描述（description）的證據等級",
+    "r": 1,
+    "rs": "",
     "x": 0
    },
    {
@@ -709,7 +709,7 @@
     "l": "L5",
     "i": "cauda equina syndrome",
     "lt": 179,
-    "lv": 53,
+    "lv": 52,
     "r": 2,
     "rs": "「原適應症」取自丁基東莨菪鹼許可證",
     "x": 0
@@ -753,7 +753,7 @@
     "l": "L5",
     "i": "cauda equina syndrome",
     "lt": 174,
-    "lv": 38,
+    "lv": 37,
     "r": 0,
     "rs": "",
     "x": 0
@@ -885,7 +885,7 @@
     "l": "L5",
     "i": "restless legs syndrome",
     "lt": 36,
-    "lv": 22,
+    "lv": 23,
     "r": 1,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
@@ -1100,6 +1100,17 @@
     "x": 0
    },
    {
+    "t": "Cromoglicic Acid",
+    "u": "/drugs/cromoglicic-acid/",
+    "l": "L5",
+    "i": "潰瘍性直腸乙狀結腸炎",
+    "lt": 46,
+    "lv": 13,
+    "r": 10,
+    "rs": "標題以氣喘為原用途",
+    "x": 0
+   },
+   {
     "t": "Denosumab",
     "u": "/drugs/denosumab/",
     "l": "L5",
@@ -1152,17 +1163,6 @@
     "lv": 13,
     "r": 2,
     "rs": "快速總覽「僅 1 張有效許可證」",
-    "x": 0
-   },
-   {
-    "t": "Cromoglicic Acid",
-    "u": "/drugs/cromoglicic-acid/",
-    "l": "L5",
-    "i": "潰瘍性直腸乙狀結腸炎",
-    "lt": 46,
-    "lv": 12,
-    "r": 10,
-    "rs": "標題以氣喘為原用途",
     "x": 0
    },
    {
@@ -1617,6 +1617,17 @@
     "x": 0
    },
    {
+    "t": "Teriparatide",
+    "u": "/drugs/teriparatide/",
+    "l": "L5",
+    "i": "duodenal ulcer (disease)",
+    "lt": 6,
+    "lv": 6,
+    "r": 6,
+    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "x": 0
+   },
+   {
     "t": "Timepidium",
     "u": "/drugs/timepidium/",
     "l": "L5",
@@ -1745,17 +1756,6 @@
     "lt": 5,
     "lv": 5,
     "r": 1,
-    "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
-    "x": 0
-   },
-   {
-    "t": "Teriparatide",
-    "u": "/drugs/teriparatide/",
-    "l": "L5",
-    "i": "duodenal ulcer (disease)",
-    "lt": 5,
-    "lv": 5,
-    "r": 6,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
     "x": 0
    },

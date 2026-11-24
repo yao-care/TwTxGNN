@@ -90,24 +90,24 @@ NSIAD 的成因是 AVPR2（血管加壓素 V2 受體）的功能獲得型突變�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Indacaterol 的不重複許可證共 **7 張**：有效單方 1 張、有效複方 3 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Indacaterol 的不重複許可證共 **7 張**：有效單方 1 張、有效複方 3 張、已註銷 3 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（1 張）
+**有效・單方（截至資料集日期 2026-11-24）**（1 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
 | 衛署藥輸字第025282號 | 昂舒吸入膠囊150微克 | 吸入用膠囊劑 | 台灣諾華股份有限公司 | 2030/10/19 | 慢性阻塞性肺疾之維持治療 |
 
-**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
+**有效・複方（截至資料集日期 2026-11-24；適應症屬整個複方，不是本藥單獨的適應症）**（3 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛部藥輸字第026301號 | 昂帝博吸入膠囊110/50微克 | INDACATEROL MALEATE、Glycopyrronium bromide | 吸入用膠囊劑 | 慢性阻塞性肺疾 (COPD; 包括慢性支氣管炎及肺氣腫 ) 之維持治療。降低有惡化病史病人之COPD 惡化。 |
-| 衛部藥輸字第028048號 | 艾能舒吸入膠囊150/50/80微克 | Glycopyrronium bromide、MOMETASONE FUROATE、Indacaterol acetat… | 吸入用膠囊劑 | 適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 |
-| 衛部藥輸字第028049號 | 艾能舒吸入膠囊150/50/160微克 | Indacaterol acetate、MOMETASONE FUROATE、Glycopyrronium bromid… | 吸入用膠囊劑 | 適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 |
+| 衛部藥輸字第026301號 | 昂帝博吸入膠囊110/50微克 | Glycopyrronium bromide、INDACATEROL MALEATE | 吸入用膠囊劑 | 慢性阻塞性肺疾 (COPD; 包括慢性支氣管炎及肺氣腫 ) 之維持治療。降低有惡化病史病人之COPD 惡化。 |
+| 衛部藥輸字第028048號 | 艾能舒吸入膠囊150/50/80微克 | Indacaterol acetate、MOMETASONE FUROATE、Glycopyrronium bromid… | 吸入用膠囊劑 | 適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 |
+| 衛部藥輸字第028049號 | 艾能舒吸入膠囊150/50/160微克 | MOMETASONE FUROATE、Indacaterol acetate、Glycopyrronium bromid… | 吸入用膠囊劑 | 適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 |
 
 <details><summary><strong>已註銷</strong>（3 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛部藥輸字第028050號</td><td>愛克喘吸入膠囊150/160微克</td><td>Indacaterol acetate、MOMETASONE FUROATE</td><td>2026/04/22</td></tr><tr><td>衛部藥輸字第028051號</td><td>愛克喘吸入膠囊150/320微克</td><td>MOMETASONE FUROATE、Indacaterol acetate</td><td>2026/04/22</td></tr><tr><td>衛部藥輸字第028052號</td><td>愛克喘吸入膠囊150/80微克</td><td>MOMETASONE FUROATE、Indacaterol acetate</td><td>2026/04/22</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛部藥輸字第028050號</td><td>愛克喘吸入膠囊150/160微克</td><td>MOMETASONE FUROATE、Indacaterol acetate</td><td>2026/04/22</td></tr><tr><td>衛部藥輸字第028051號</td><td>愛克喘吸入膠囊150/320微克</td><td>Indacaterol acetate、MOMETASONE FUROATE</td><td>2026/04/22</td></tr><tr><td>衛部藥輸字第028052號</td><td>愛克喘吸入膠囊150/80微克</td><td>Indacaterol acetate、MOMETASONE FUROATE</td><td>2026/04/22</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

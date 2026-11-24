@@ -75,9 +75,9 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Buprenorphine 的不重複許可證共 **19 張**：有效單方 3 張、有效複方 5 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Buprenorphine 的不重複許可證共 **19 張**：有效單方 3 張、有效複方 5 張、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（3 張）
+**有效・單方（截至資料集日期 2026-11-24）**（3 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -85,14 +85,14 @@ TxGNN 模型預測它可能對**急性間歇性紫質症 (Acute Intermittent Por
 | 衛署藥製字第050250號 | 解佳 舌下錠8毫克 | 舌下錠 | 美時化學製藥股份有限公司 | 2029/07/22 | 鴉片類物質成癮之替代療法。 |
 | 衛部藥輸字第028483號 | 丁基原啡因鹽酸鹽 | （粉） | 恒亞貿易股份有限公司 | 2028/05/22 | 麻醉性鎮痛藥。 |
 
-**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
+**有效・複方（截至資料集日期 2026-11-24；適應症屬整個複方，不是本藥單獨的適應症）**（5 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
 | 衛署藥製字第050251號 | 解佳益 舌下錠 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
 | 衛署藥輸字第024951號 | 舒倍生 2 毫克 | NALOXONE HCL DIHYDRATE、BUPRENORPHINE HYDROCHLORIDE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
 | 衛署藥輸字第024952號 | 舒倍生 8 毫克 | NALOXONE HCL DIHYDRATE、BUPRENORPHINE HYDROCHLORIDE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
-| 衛部藥製字第058289號 | 解佳益 4/1毫克 舌下錠 | BUPRENORPHINE HYDROCHLORIDE、NALOXONE HCL DIHYDRATE | 舌下錠 | 鴉片類物質成癮之替代療法 |
+| 衛部藥製字第058289號 | 解佳益 4/1毫克 舌下錠 | NALOXONE HCL DIHYDRATE、BUPRENORPHINE HYDROCHLORIDE | 舌下錠 | 鴉片類物質成癮之替代療法 |
 | 衛部藥製字第058395號 | 解佳益2/0.5毫克舌下錠 | NALOXONE HCL DIHYDRATE、BUPRENORPHINE HYDROCHLORIDE | 舌下錠 | 鴉片類物質成癮之替代療法。 |
 
 <details><summary><strong>已註銷</strong>（11 張，展開）</summary>

@@ -76,9 +76,9 @@ TxGNN 模型預測它可能對**多株性高黏滯症候群 (polyclonal hypervis
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Cefmetazole 的不重複許可證共 **19 張**：有效單方 7 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Cefmetazole 的不重複許可證共 **19 張**：有效單方 7 張、有效複方 0 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 11 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（7 張）
+**有效・單方（截至資料集日期 2026-11-24）**（7 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -90,11 +90,11 @@ TxGNN 模型預測它可能對**多株性高黏滯症候群 (polyclonal hypervis
 | 衛署藥製字第055121號 | 樂飛達靜脈乾粉注射劑 0.25/0.5/1/2 克 | 乾粉注射劑 | 嘉信藥品股份有限公司 | 2030/07/19 | 葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症。 |
 | 衛部藥陸輸字第001172號 | 西福每他唑鈉鹽 | （粉） | 和聯生醫股份有限公司 | 2029/07/23 | 抗生素。 |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-24）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛部藥陸輸字第000954號</td><td>西福每他唑鈉</td><td>Cefmetazole Sodium</td><td>2025/09/16</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（11 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第008822號</td><td>賜乎滅達榮肌肉注射劑０．５公克</td><td>CEFMETAZOLE (SODIUM)、LIDOCAINE</td><td>1992/10/17</td></tr><tr><td>衛署藥輸字第008823號</td><td>賜乎滅達榮靜脈注射劑０．５公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第008832號</td><td>賜乎滅達榮靜脈注射劑０．２５公克</td><td>CEFMETAZOLE (SODIUM)</td><td>1992/10/23</td></tr><tr><td>衛署藥輸字第008833號</td><td>賜乎滅達榮靜脈注射劑１公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第008939號</td><td>賜乎滅達榮注射劑（靜脈注射用）２公克</td><td>CEFMETAZOLE (SODIUM)</td><td>1992/10/23</td></tr><tr><td>衛署藥輸字第019322號</td><td>賜乎滅達榮肌肉注射劑０．５公克</td><td>CEFMETAZOLE SODIUM</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第019323號</td><td>賜乎滅達榮靜脈注射劑０．２５公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第019324號</td><td>賜乎滅達榮注射劑（靜脈注射用）２公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2004/05/11</td></tr><tr><td>衛署藥輸字第020561號</td><td>賜乎滅達榮靜脈注射劑０．５公克</td><td>CEFMETAZOLE SODIUM</td><td>2014/01/13</td></tr><tr><td>衛署藥輸字第020562號</td><td>賜乎滅達榮靜脈注射劑１公克</td><td>CEFMETAZOLE SODIUM</td><td>2014/01/13</td></tr><tr><td>衛署藥輸字第025784號</td><td>西華美達諾鈉</td><td>Cefmetazole Sodium Sterile</td><td>2024/05/03</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第008822號</td><td>賜乎滅達榮肌肉注射劑０．５公克</td><td>LIDOCAINE、CEFMETAZOLE (SODIUM)</td><td>1992/10/17</td></tr><tr><td>衛署藥輸字第008823號</td><td>賜乎滅達榮靜脈注射劑０．５公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第008832號</td><td>賜乎滅達榮靜脈注射劑０．２５公克</td><td>CEFMETAZOLE (SODIUM)</td><td>1992/10/23</td></tr><tr><td>衛署藥輸字第008833號</td><td>賜乎滅達榮靜脈注射劑１公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2000/10/16</td></tr><tr><td>衛署藥輸字第008939號</td><td>賜乎滅達榮注射劑（靜脈注射用）２公克</td><td>CEFMETAZOLE (SODIUM)</td><td>1992/10/23</td></tr><tr><td>衛署藥輸字第019322號</td><td>賜乎滅達榮肌肉注射劑０．５公克</td><td>CEFMETAZOLE SODIUM</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第019323號</td><td>賜乎滅達榮靜脈注射劑０．２５公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2000/10/20</td></tr><tr><td>衛署藥輸字第019324號</td><td>賜乎滅達榮注射劑（靜脈注射用）２公克</td><td>CEFMETAZOLE (SODIUM)</td><td>2004/05/11</td></tr><tr><td>衛署藥輸字第020561號</td><td>賜乎滅達榮靜脈注射劑０．５公克</td><td>CEFMETAZOLE SODIUM</td><td>2014/01/13</td></tr><tr><td>衛署藥輸字第020562號</td><td>賜乎滅達榮靜脈注射劑１公克</td><td>CEFMETAZOLE SODIUM</td><td>2014/01/13</td></tr><tr><td>衛署藥輸字第025784號</td><td>西華美達諾鈉</td><td>Cefmetazole Sodium Sterile</td><td>2024/05/03</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

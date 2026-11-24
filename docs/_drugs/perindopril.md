@@ -80,9 +80,9 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Perindopril 的不重複許可證共 **24 張**：有效單方 8 張、有效複方 4 張、已註銷 12 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Perindopril 的不重複許可證共 **24 張**：有效單方 8 張、有效複方 4 張、已註銷 12 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（8 張）
+**有效・單方（截至資料集日期 2026-11-24）**（8 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -95,17 +95,17 @@ TxGNN 模型預測它可能對**惡性高血壓性腎病變 (Malignant Hypertens
 | 衛署藥輸字第025596號 | 叔丁胺培林口朵普利 | （粉） | 宇直泰貿易股份有限公司 | 2031/12/30 | 降血壓劑。 |
 | 衛署藥輸字第026071號 | 叔丁胺培林哚普利 | （粉） | 鴻傑藥品有限公司 | 2028/06/22 | 降血壓劑。 |
 
-**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
+**有效・複方（截至資料集日期 2026-11-24；適應症屬整個複方，不是本藥單獨的適應症）**（4 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第049756號 | 脈利舒複方錠 | PERINDOPRIL TERT-BUTYLAMINE、INDAPAMIDE | 錠劑 | 本態性動脈高血壓。 |
+| 衛署藥製字第049756號 | 脈利舒複方錠 | INDAPAMIDE、PERINDOPRIL TERT-BUTYLAMINE | 錠劑 | 本態性動脈高血壓。 |
 | 衛署藥輸字第025046號 | 雅施達 加強錠 5 毫克/1.25 毫克 | PERINDOPRIL ARGININE、INDAPAMIDE | 膜衣錠 | 本態性高血壓。當perindopril單方無法有效控制血壓時可用雅詩達加強錠 5mg/1.25mg治療。 |
-| 衛部藥製字第058573號 | 複倍立平錠 | INDAPAMIDE、PERINDOPRIL TERT-BUTYLAMINE | 錠劑 | 本態性動脈高血壓。 |
+| 衛部藥製字第058573號 | 複倍立平錠 | PERINDOPRIL TERT-BUTYLAMINE、INDAPAMIDE | 錠劑 | 本態性動脈高血壓。 |
 | 衛部藥輸字第026653號 | 康復來 5毫克 / 5毫克 | PERINDOPRIL ARGININE、AMLODIPINE BESILATE | 錠劑 | 治療Perindopril每日5mg無法理想控制血壓之高血壓 |
 
 <details><summary><strong>已註銷</strong>（12 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第019238號</td><td>雅施達錠４毫克</td><td>PERINDOPRIL SALIFIED WITH TERT-BUTYLAMINE</td><td>2023/07/14</td></tr><tr><td>衛署藥輸字第019431號</td><td>雅施達錠２公絲</td><td>PERINDOPRIL</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第023757號</td><td>配德利錠</td><td>PERINDOPRIL TERT-BUTYLAMINE SALT、INDAPAMIDE</td><td>2025/07/08</td></tr><tr><td>衛署藥輸字第023758號</td><td>雅施達加強錠</td><td>INDAPAMIDE、PERINDOPRIL TERT-BUTYLAMINE SALT</td><td>2021/08/04</td></tr><tr><td>衛署藥輸字第024108號</td><td>培林多皮爾</td><td>PERINDOPRIL ERBUMINE</td><td>2026/05/22</td></tr><tr><td>衛署藥輸字第024304號</td><td>雅施達錠8毫克</td><td>PERINDOPRIL SALIFIED WITH TERT-BUTYLAMINE</td><td>2021/02/19</td></tr><tr><td>衛署藥輸字第024855號</td><td>雅施達膜衣錠10毫克</td><td>PERINDOPRIL ARGININE</td><td>2021/02/19</td></tr><tr><td>衛署藥輸字第025045號</td><td>配德利 錠 2.5 毫克/0.625 毫克</td><td>INDAPAMIDE、PERINDOPRIL ARGININE</td><td>2021/02/19</td></tr><tr><td>衛署藥輸字第025409號</td><td>貝林達“山德士”4毫克錠</td><td>PERINDOPRIL TERT-BUTYLAMINE</td><td>2018/03/23</td></tr><tr><td>衛部藥製字第058258號</td><td>降壓平順錠8毫克</td><td>PERINDOPRIL TERT-BUTYLAMINE</td><td>2023/07/07</td></tr><tr><td>衛部藥輸字第026990號</td><td>雅康來錠3.5毫克/2.5毫克</td><td>PERINDOPRIL ARGININE、AMLODIPINE BESILATE</td><td>2022/05/04</td></tr><tr><td>衛部藥輸字第026991號</td><td>雅康來 7毫克/5毫克</td><td>PERINDOPRIL ARGININE、AMLODIPINE BESILATE</td><td>2021/05/14</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第019238號</td><td>雅施達錠４毫克</td><td>PERINDOPRIL SALIFIED WITH TERT-BUTYLAMINE</td><td>2023/07/14</td></tr><tr><td>衛署藥輸字第019431號</td><td>雅施達錠２公絲</td><td>PERINDOPRIL</td><td>2010/09/21</td></tr><tr><td>衛署藥輸字第023757號</td><td>配德利錠</td><td>INDAPAMIDE、PERINDOPRIL TERT-BUTYLAMINE SALT</td><td>2025/07/08</td></tr><tr><td>衛署藥輸字第023758號</td><td>雅施達加強錠</td><td>INDAPAMIDE、PERINDOPRIL TERT-BUTYLAMINE SALT</td><td>2021/08/04</td></tr><tr><td>衛署藥輸字第024108號</td><td>培林多皮爾</td><td>PERINDOPRIL ERBUMINE</td><td>2026/05/22</td></tr><tr><td>衛署藥輸字第024304號</td><td>雅施達錠8毫克</td><td>PERINDOPRIL SALIFIED WITH TERT-BUTYLAMINE</td><td>2021/02/19</td></tr><tr><td>衛署藥輸字第024855號</td><td>雅施達膜衣錠10毫克</td><td>PERINDOPRIL ARGININE</td><td>2021/02/19</td></tr><tr><td>衛署藥輸字第025045號</td><td>配德利 錠 2.5 毫克/0.625 毫克</td><td>INDAPAMIDE、PERINDOPRIL ARGININE</td><td>2021/02/19</td></tr><tr><td>衛署藥輸字第025409號</td><td>貝林達“山德士”4毫克錠</td><td>PERINDOPRIL TERT-BUTYLAMINE</td><td>2018/03/23</td></tr><tr><td>衛部藥製字第058258號</td><td>降壓平順錠8毫克</td><td>PERINDOPRIL TERT-BUTYLAMINE</td><td>2023/07/07</td></tr><tr><td>衛部藥輸字第026990號</td><td>雅康來錠3.5毫克/2.5毫克</td><td>AMLODIPINE BESILATE、PERINDOPRIL ARGININE</td><td>2022/05/04</td></tr><tr><td>衛部藥輸字第026991號</td><td>雅康來 7毫克/5毫克</td><td>AMLODIPINE BESILATE、PERINDOPRIL ARGININE</td><td>2021/05/14</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

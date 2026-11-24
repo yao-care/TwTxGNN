@@ -106,9 +106,9 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Felodipine 的不重複許可證共 **26 張**：有效單方 14 張、有效複方 1 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Felodipine 的不重複許可證共 **26 張**：有效單方 14 張、有效複方 1 張、已過期 1 張（未註銷但有效日期早於資料集日期）、已註銷 10 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（14 張）
+**有效・單方（截至資料集日期 2026-11-24）**（14 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -127,17 +127,17 @@ TxGNN 模型預測它可能對**因肺部疾病和/或缺氧引起的肺高壓 (
 | 衛署藥輸字第017488號 | 普心寧持續性藥效錠５公絲 | 持續性釋放錠 | 裕利股份有限公司 | 2029/10/13 | 高血壓、心絞痛。 |
 | 衛部藥陸輸字第000747號 | 非洛地平 | （粉） | 漢旭股份有限公司 | 2031/10/12 | 鈣離子拮抗劑。 |
 
-**有效・複方（截至資料集日期 2026-11-20；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
+**有效・複方（截至資料集日期 2026-11-24；適應症屬整個複方，不是本藥單獨的適應症）**（1 張）
 
 | 許可證字號 | 品名 | 主成分 | 劑型 | 核准適應症 |
 |------|------|------|------|------|
-| 衛署藥製字第049516號 | 菲洛安 持續性藥效膜衣錠 | ENALAPRIL MALEATE、FELODIPINE | 持續性藥效膜衣錠 | 治療高血壓。此複方藥品不適合用於起始治療。 |
+| 衛署藥製字第049516號 | 菲洛安 持續性藥效膜衣錠 | FELODIPINE、ENALAPRIL MALEATE | 持續性藥效膜衣錠 | 治療高血壓。此複方藥品不適合用於起始治療。 |
 
-<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-20）</strong>（1 張，展開）</summary>
+<details><summary><strong>已過期（未註銷但有效日期早於資料集日期 2026-11-24）</strong>（1 張，展開）</summary>
 <table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>有效日期</th></tr></thead><tbody><tr><td>衛署藥製字第046480號</td><td>安壓定持續釋放錠5公絲</td><td>FELODIPINE</td><td>2024/09/01</td></tr></tbody></table></details>
 
 <details><summary><strong>已註銷</strong>（10 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第044631號</td><td>撫樂平持續性藥效錠５公絲</td><td>FELODIPINE</td><td>2020/07/15</td></tr><tr><td>衛署藥製字第046021號</td><td>"南光" 非洛緩釋放錠５公絲</td><td>FELODIPINE</td><td>2013/12/17</td></tr><tr><td>衛署藥製字第049876號</td><td>允降 持續釋放膜衣錠 5 毫克</td><td>FELODIPINE</td><td>2023/12/12</td></tr><tr><td>衛署藥製字第049963號</td><td>允降持續釋放膜衣錠 10 毫克</td><td>FELODIPINE</td><td>2024/01/23</td></tr><tr><td>衛署藥輸字第020949號</td><td>寧壓持續性藥效錠２．５公絲</td><td>FELODIPINE</td><td>1996/05/20</td></tr><tr><td>衛署藥輸字第021149號</td><td>普心寧持續性藥效錠２．５公絲</td><td>FELODIPINE</td><td>2020/06/12</td></tr><tr><td>衛署藥輸字第024544號</td><td>采心平5毫克緩釋錠</td><td>RAMIPRIL、FELODIPINE</td><td>2020/11/06</td></tr><tr><td>衛署藥輸字第025565號</td><td>菲洛的平</td><td>Felodipine</td><td>2018/03/09</td></tr><tr><td>衛署藥陸輸字第000454號</td><td>非洛地平</td><td>Felodipine</td><td>2017/04/14</td></tr><tr><td>衛部藥製字第058208號</td><td>"十全"壓落持續釋放膜衣錠5毫克</td><td>FELODIPINE</td><td>2026/09/07</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥製字第044631號</td><td>撫樂平持續性藥效錠５公絲</td><td>FELODIPINE</td><td>2020/07/15</td></tr><tr><td>衛署藥製字第046021號</td><td>"南光" 非洛緩釋放錠５公絲</td><td>FELODIPINE</td><td>2013/12/17</td></tr><tr><td>衛署藥製字第049876號</td><td>允降 持續釋放膜衣錠 5 毫克</td><td>FELODIPINE</td><td>2023/12/12</td></tr><tr><td>衛署藥製字第049963號</td><td>允降持續釋放膜衣錠 10 毫克</td><td>FELODIPINE</td><td>2024/01/23</td></tr><tr><td>衛署藥輸字第020949號</td><td>寧壓持續性藥效錠２．５公絲</td><td>FELODIPINE</td><td>1996/05/20</td></tr><tr><td>衛署藥輸字第021149號</td><td>普心寧持續性藥效錠２．５公絲</td><td>FELODIPINE</td><td>2020/06/12</td></tr><tr><td>衛署藥輸字第024544號</td><td>采心平5毫克緩釋錠</td><td>FELODIPINE、RAMIPRIL</td><td>2020/11/06</td></tr><tr><td>衛署藥輸字第025565號</td><td>菲洛的平</td><td>Felodipine</td><td>2018/03/09</td></tr><tr><td>衛署藥陸輸字第000454號</td><td>非洛地平</td><td>Felodipine</td><td>2017/04/14</td></tr><tr><td>衛部藥製字第058208號</td><td>"十全"壓落持續釋放膜衣錠5毫克</td><td>FELODIPINE</td><td>2026/09/07</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 

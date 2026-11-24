@@ -77,9 +77,9 @@ TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis)** 有效，�
 
 ### 台灣許可證（依 TFDA 資料集自動產生）
 
-依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-20），主成分含 Ioversol 的不重複許可證共 **6 張**：有效單方 2 張、有效複方 0 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
+依衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36）（檔案日期 2026-11-24），主成分含 Ioversol 的不重複許可證共 **6 張**：有效單方 2 張、有效複方 0 張、已註銷 4 張。本表由程式依主成分比對產生，適應症為許可證原文（過長者截斷）。資料來源：[TFDA 開放資料](https://data.fda.gov.tw/data/opendata/export/36/json)。
 
-**有效・單方（截至資料集日期 2026-11-20）**（2 張）
+**有效・單方（截至資料集日期 2026-11-24）**（2 張）
 
 | 許可證字號 | 品名 | 劑型 | 申請商 | 有效日期 | 核准適應症 |
 |------|------|------|------|------|------|
@@ -87,7 +87,7 @@ TxGNN 模型預測它可能對**退化性關節炎 (Osteoarthritis)** 有效，�
 | 衛署藥輸字第022492號 | 歐得利350造影劑 | 注射劑 | 台灣古爾貝特股份有限公司 | 2029/05/31 | 成人冠狀動脈攝影和心室Ｘ射線攝影、週邊和內臟血管攝影、拍攝電腦斷層掃描時頭部及身體之靜脈對照增強劑、排泄性尿路Ｘ射線攝影、靜脈數位減法血管Ｘ射線攝影和靜脈Ｘ射線攝影。兒童心臟血管Ｘ… |
 
 <details><summary><strong>已註銷</strong>（4 張，展開）</summary>
-<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第018460號</td><td>歐得利１６０造影劑</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOVERSO…</td><td>2014/04/28</td></tr><tr><td>衛署藥輸字第018461號</td><td>歐得利２４０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/11/05</td></tr><tr><td>衛署藥輸字第018463號</td><td>歐得利３２０造影劑</td><td>IOVERSOL</td><td>2022/04/11</td></tr><tr><td>衛署藥輸字第021156號</td><td>加拿大 "麥林可" 歐得利２４０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/11/12</td></tr></tbody></table></details>
+<table><thead><tr><th>許可證字號</th><th>品名</th><th>主成分</th><th>註銷日期</th></tr></thead><tbody><tr><td>衛署藥輸字第018460號</td><td>歐得利１６０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/04/28</td></tr><tr><td>衛署藥輸字第018461號</td><td>歐得利２４０造影劑</td><td>IOVERSOL、TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL…</td><td>2014/11/05</td></tr><tr><td>衛署藥輸字第018463號</td><td>歐得利３２０造影劑</td><td>IOVERSOL</td><td>2022/04/11</td></tr><tr><td>衛署藥輸字第021156號</td><td>加拿大 "麥林可" 歐得利２４０造影劑</td><td>TROMETHAMINE ( EQ TO TROMETAMOL)( EQ TO TROMETHAMOL)、IOVERSO…</td><td>2014/11/12</td></tr></tbody></table></details>
 
 <!-- tfda-licenses:end -->
 
