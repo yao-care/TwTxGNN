@@ -9,10 +9,15 @@ PY=${PY:-.venv/bin/python}
 out() { [ -n "${GITHUB_OUTPUT:-}" ] && echo "$1" >> "$GITHUB_OUTPUT"; echo "$1"; }
 fail() { echo "✗ $1" >&2; git checkout -- docs snapshots 2>/dev/null; out "ok=0"; exit 1; }
 
+# 下載到獨立目錄、直接指定這個 ZIP 轉檔：process_fda_data.py 的 main 會挑 data/raw 裡第一個檔名含 36 的 ZIP，
+# CI 還原的 Release 另有舊 ZIP，會被挑到舊資料（2026-11-24 第一次上線時因此擋下 224 頁）
 mkdir -p data/raw
-curl -fsSL --retry 3 --max-time 900 -o data/raw/fda_36.zip "https://data.fda.gov.tw/data/opendata/export/36/json" || fail "TFDA 資料集 36 下載失敗"
-DATE=$("$PY" -c "import zipfile,sys;z=zipfile.ZipFile('data/raw/fda_36.zip');i=max(z.infolist(),key=lambda x:x.file_size);print('%04d-%02d-%02d'%i.date_time[:3])") || fail "讀不到 ZIP 檔案日期"
-"$PY" scripts/process_fda_data.py > /tmp/tfda_process.log 2>&1 || fail "process_fda_data.py 失敗：$(tail -3 /tmp/tfda_process.log)"
+ZIPDIR=$(mktemp -d); ZIP="$ZIPDIR/tfda_36_latest.zip"
+curl -fsSL --retry 3 --max-time 900 -o "$ZIP" "https://data.fda.gov.tw/data/opendata/export/36/json" || fail "TFDA 資料集 36 下載失敗"
+DATE=$("$PY" -c "import zipfile,sys;z=zipfile.ZipFile(sys.argv[1]);i=max(z.infolist(),key=lambda x:x.file_size);print('%04d-%02d-%02d'%i.date_time[:3])" "$ZIP") || fail "讀不到 ZIP 檔案日期"
+echo "TFDA 資料集 36：檔案日期 $DATE"
+"$PY" -c "import sys;sys.path.insert(0,'scripts');from pathlib import Path;import process_fda_data as p;p.process_fda_zip(Path(sys.argv[1]),Path('data/raw/tw_fda_drugs.json'))" "$ZIP" > /tmp/tfda_process.log 2>&1 \
+  || fail "轉檔失敗：$(tail -3 /tmp/tfda_process.log)"
 n=$("$PY" -c "import json;print(len(json.load(open('data/raw/tw_fda_drugs.json'))))")
 [ "$n" -ge 60000 ] || fail "資料集只有 $n 筆（少於 60,000），疑似來源異常，不重產"
 log=$("$PY" scripts/regenerate_tfda_tables.py --data-date "$DATE" 2>&1) || fail "regenerate_tfda_tables.py 失敗：$(echo "$log" | tail -3)"
