@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（33 則）
 
 ### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
@@ -58,6 +58,14 @@ last_modified_at: 2026-11-24
 2026-11-23 <span class="news-indication-tag">更年期</span>
 
 來源: [商傳媒](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMFgtLUFuRlU4NWhkZHBRenp3ZDE2eGs3dE82TDNzTWtxbjVwYWVBS1lKRjhrUHk4R0c0cWJxSEZEM0R2MXZCMWVNUnlVVzMwQVlrNXQzSVBxX0NrNzJNWmZNb2p3NUF2OU4xT0g4aEZTNFdpaDJ0a1FpbjFpTGk3ZjVIUG1FYVZwTVFGT04ycDdSSzhWamJnUGRNZEpvWm96SVg4UG1HcUxaZXFZOVdnRkpKQXJQQXlPUk14MEFDR1JYcnBYTnJCaDlVbHB6bktqUG5wcXQ4dWQ1Z3VTQWxYMExsOE5ONmJneVM5VHMyOG0yOEZ4U1FCRHY4NmdMV2VTc2FuZkx6OXVQVVZOZENUNTExeEpwd1dIcE1iLXd2X3ZTX1l6LWVvUVNFSkVRUHNxODdObEZSVEdMMUtOT25zc3RNMHJZczZHYzRyc2wxYXFiREF5cnJzM1p6anY5akZWMnFz?oc=5)
+
+---
+
+### [女性護心不能等到更年期！停經適合168斷食嗎？更年期護心保骨3重點](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yV2VpZEg4VmJKbVliVE1vdm5GT0V2MlNTZURHTVpSQUJQMWhyNkF0eWRObEhFMzZpdzFLbkFaUVd2bGlfb2JRU2syNHF2R2E2Q1VCeXhzblUxak900gFiQVVfeXFMUHNTbjdSTFhaM3RLOU1UQU1qUlFSVHlfRkxjaGhHLThoMUFSS1QxdXRZMHdFTzV2LTlXcXVubGpUQ2M1OGs4dEtUQlppYkZJTFJNbTJkYXZLNEhZTzFzQ0IyWnc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yV2VpZEg4VmJKbVliVE1vdm5GT0V2MlNTZURHTVpSQUJQMWhyNkF0eWRObEhFMzZpdzFLbkFaUVd2bGlfb2JRU2syNHF2R2E2Q1VCeXhzblUxak900gFiQVVfeXFMUHNTbjdSTFhaM3RLOU1UQU1qUlFSVHlfRkxjaGhHLThoMUFSS1QxdXRZMHdFTzV2LTlXcXVubGpUQ2M1OGs4dEtUQlppYkZJTFJNbTJkYXZLNEhZTzFzQ0IyWnc?oc=5)
 
 ---
 
