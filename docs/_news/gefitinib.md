@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>44 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（41 則）
+## 相關新聞（44 則）
+
+### [阿茲海默症早期大腦就有變化 研究：下視丘出現分子層面改變](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RXzBjcWRvZFZuVVlUSmNvaWMtNFRtajZmdTM3WVVaWmdGZ0VzUGZrak13amxZemxzaGZnWDVueEdUTDJyNnRGRDZ0Rzl1U1E2M0Mwd3ZMQXc3TXo3b0d6anNhYl8?oc=5)
+
+2026-11-24 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RXzBjcWRvZFZuVVlUSmNvaWMtNFRtajZmdTM3WVVaWmdGZ0VzUGZrak13amxZemxzaGZnWDVueEdUTDJyNnRGRDZ0Rzl1U1E2M0Mwd3ZMQXc3TXo3b0d6anNhYl8?oc=5)
+
+---
+
+### [GLP-1 減肥藥跨界應用遇冷暖 思覺失調風險降兩成但失智療效有限](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVUFuak1lSzBUVEh2ZU5CRnFsakpTT1BDaWk5OV90V1RyelVxakNYY0RpV0Q3VnhXdGtkWDVKeFhISUE1MG04SUlRNnhWQ1dCaXpCOU1CQnRta1BKY2JITHBOR1pQbkVBdkZlVFpYOWd2bVlfbmRoRDR6Q1BhRkx5TUJBZDA4bnR5V2xmUEEyemlObm5naDdHd3FYejYxQWM3M09RcGw0eF9lRXZfdFNERU4xVUlRTjBtMFNzRFpzNDl0c0x5MlBTRkZ1WWNONXNWRHh5SWZ4dS1lSUpVZWpqMGtNYWpJejBIZ2lGWmRfUlVZd3k2ZGFZZWNKN3ltemx2al92cy10d2Z4R1lFWUdJNWpZSERfNnNaSzIyb3ZSV1REcUZYOHZYRTlSM2ZuVEx0aDlCWUM5MzFwY292MjZpNTd4X1czbnlG?oc=5)
+
+2026-11-24 <span class="news-indication-tag">失智</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVUFuak1lSzBUVEh2ZU5CRnFsakpTT1BDaWk5OV90V1RyelVxakNYY0RpV0Q3VnhXdGtkWDVKeFhISUE1MG04SUlRNnhWQ1dCaXpCOU1CQnRta1BKY2JITHBOR1pQbkVBdkZlVFpYOWd2bVlfbmRoRDR6Q1BhRkx5TUJBZDA4bnR5V2xmUEEyemlObm5naDdHd3FYejYxQWM3M09RcGw0eF9lRXZfdFNERU4xVUlRTjBtMFNzRFpzNDl0c0x5MlBTRkZ1WWNONXNWRHh5SWZ4dS1lSUpVZWpqMGtNYWpJejBIZ2lGWmRfUlVZd3k2ZGFZZWNKN3ltemx2al92cy10d2Z4R1lFWUdJNWpZSERfNnNaSzIyb3ZSV1REcUZYOHZYRTlSM2ZuVEx0aDlCWUM5MzFwY292MjZpNTd4X1czbnlG?oc=5)
+
+---
 
 ### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
@@ -153,6 +169,14 @@ last_modified_at: 2026-11-24
 2026-11-19 <span class="news-indication-tag">癌症</span>
 
 來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi0AJBVV95cUxQUkltLTd4a0U1SDFaUThBaHpHaW1hVlgyQ01PQjU5NF9OcW5sNUNyVHc5UjJJdWFGdGF2ZkkxcVhaMkF4dlZDaDRtZ0Y1M0hFdUNEaV9ySUN6TFVRRm55LWQxcFZ4Sld5aENxekNMbE9vQzZGb0F5T2JuUTVkRWN6aldNNDh5QVIwcXg5RV9nRWxIWFNuRUZtOVlVdHp0T0EweUhSZm40MWpMZ01NOXA1WHRWNUs0NldvbkxlZlZ1LVhnRWxGX2U2TWZqcGt3V2tFQ2x0eF9TeTZlQVhUbWNpckdGbFJpN0ZuSEt5OFBrMzlYcEt3VDJrdjVWRWtMbm0xR2NUbXN4ZzRnSjRsek0wOHNqVEU0TXo1YzJOR3RDWENSODJOZVcyRTFlOEZhdmZFdVpnazhQRlNZTmFaUnp4QjFCU0tVWDVqeWNQM1VHUHg?oc=5)
+
+---
+
+### [健康網》研究揭大腦夜間循環隨年齡減弱！ 醫提醒護腦5原則](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02Q0ZXLTZSaVVlaWk4djR1N0ZlNl9lTVFqckZxRnZXU2dYbUlQOWs0cHgyNV8wcGR4dmVwVy1GTHpXM2dlSm5XTVhQQjhqeTliYlNfQXlSQnZqQm81aHoyeVB4aGo?oc=5)
+
+2026-11-18 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02Q0ZXLTZSaVVlaWk4djR1N0ZlNl9lTVFqckZxRnZXU2dYbUlQOWs0cHgyNV8wcGR4dmVwVy1GTHpXM2dlSm5XTVhQQjhqeTliYlNfQXlSQnZqQm81aHoyeVB4aGo?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "失智 (dementia) 相關新聞"
+title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智 (dementia) 的相關健康新聞報導。14 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。17 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-24
 ---
 
-# 失智 (dementia) 相關新聞
+# 阿茲海默症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智 (dementia) 有什麼相關新聞？">
-<strong>失智 (dementia)</strong> 目前有 <strong>14 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>17 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（17 則）
+
+### [阿茲海默症早期大腦就有變化 研究：下視丘出現分子層面改變](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RXzBjcWRvZFZuVVlUSmNvaWMtNFRtajZmdTM3WVVaWmdGZ0VzUGZrak13amxZemxzaGZnWDVueEdUTDJyNnRGRDZ0Rzl1U1E2M0Mwd3ZMQXc3TXo3b0d6anNhYl8?oc=5)
+
+2026-11-24
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RXzBjcWRvZFZuVVlUSmNvaWMtNFRtajZmdTM3WVVaWmdGZ0VzUGZrak13amxZemxzaGZnWDVueEdUTDJyNnRGRDZ0Rzl1U1E2M0Mwd3ZMQXc3TXo3b0d6anNhYl8?oc=5)
+
+---
+
+### [GLP-1 減肥藥跨界應用遇冷暖 思覺失調風險降兩成但失智療效有限](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVUFuak1lSzBUVEh2ZU5CRnFsakpTT1BDaWk5OV90V1RyelVxakNYY0RpV0Q3VnhXdGtkWDVKeFhISUE1MG04SUlRNnhWQ1dCaXpCOU1CQnRta1BKY2JITHBOR1pQbkVBdkZlVFpYOWd2bVlfbmRoRDR6Q1BhRkx5TUJBZDA4bnR5V2xmUEEyemlObm5naDdHd3FYejYxQWM3M09RcGw0eF9lRXZfdFNERU4xVUlRTjBtMFNzRFpzNDl0c0x5MlBTRkZ1WWNONXNWRHh5SWZ4dS1lSUpVZWpqMGtNYWpJejBIZ2lGWmRfUlVZd3k2ZGFZZWNKN3ltemx2al92cy10d2Z4R1lFWUdJNWpZSERfNnNaSzIyb3ZSV1REcUZYOHZYRTlSM2ZuVEx0aDlCWUM5MzFwY292MjZpNTd4X1czbnlG?oc=5)
+
+2026-11-24
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVUFuak1lSzBUVEh2ZU5CRnFsakpTT1BDaWk5OV90V1RyelVxakNYY0RpV0Q3VnhXdGtkWDVKeFhISUE1MG04SUlRNnhWQ1dCaXpCOU1CQnRta1BKY2JITHBOR1pQbkVBdkZlVFpYOWd2bVlfbmRoRDR6Q1BhRkx5TUJBZDA4bnR5V2xmUEEyemlObm5naDdHd3FYejYxQWM3M09RcGw0eF9lRXZfdFNERU4xVUlRTjBtMFNzRFpzNDl0c0x5MlBTRkZ1WWNONXNWRHh5SWZ4dS1lSUpVZWpqMGtNYWpJejBIZ2lGWmRfUlVZd3k2ZGFZZWNKN3ltemx2al92cy10d2Z4R1lFWUdJNWpZSERfNnNaSzIyb3ZSV1REcUZYOHZYRTlSM2ZuVEx0aDlCWUM5MzFwY292MjZpNTd4X1czbnlG?oc=5)
+
+---
 
 ### [實驗性鼻滴劑有望提供阿爾茨海默病治療新思路](https://news.google.com/rss/articles/CBMid0FVX3lxTE85U3NNVGtSdDd6YzdLelA2YjFyRzZ2M2RSSlFTbDRmdkEtamVfUFRVaFEwVF8tME5GTzBRMVI4c2x3QXFYWm5RMy1YWV84eWhTZWNRMEIyQ19JaWpNWldtQ05GYTBxZXdDWlBCUnByLXgyTUZlc2sw?oc=5)
 
@@ -77,6 +93,14 @@ last_modified_at: 2026-11-24
 2026-11-19
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi3gJBVV95cUxQeU1Tb3ozbnRYdkhZS2owVkp1cDZDSEtzSXl0bTlXQm90RVlQOG52c21LYXNBQ3RCalpIcFVEb1Y2Z1VqMi1QakpXa1dOV1ZrVkJRa2lKRVVuLWRHS0lRN25hQ3UxcDF5aG9nX25yQjQtY0pvRURnNjZlVVVkaUtWZTI1Qjljb2Z5dldtcXZmLTdyOExEYVlfVllvVlBwaTlsUDZDZVc5TVV4endjWGhaMDNvNnJnM210NGg5cjVlQ2NEQmhxbmI2UlVzME5GTnMwNGRTbWVCdzY3WmRlY3V0YUxTUGJGdmpvVF9lTk8xYW9jTEFjYmItRXFBT0Q1YTNwd2prY2hsbEJXUnhwbl9SdkJlaWZLYzJ0cVhYWEFMQnNGRlBiRkpFMThMa09hZGgxRlJtWDR5Y0hyOTc3WDZ5eWVFVFkwb3VtM3l2R3FMbnZaVXhjbElqMlNhMm84QQ?oc=5)
+
+---
+
+### [健康網》研究揭大腦夜間循環隨年齡減弱！ 醫提醒護腦5原則](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02Q0ZXLTZSaVVlaWk4djR1N0ZlNl9lTVFqckZxRnZXU2dYbUlQOWs0cHgyNV8wcGR4dmVwVy1GTHpXM2dlSm5XTVhQQjhqeTliYlNfQXlSQnZqQm81aHoyeVB4aGo?oc=5)
+
+2026-11-18
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE02Q0ZXLTZSaVVlaWk4djR1N0ZlNl9lTVFqckZxRnZXU2dYbUlQOWs0cHgyNV8wcGR4dmVwVy1GTHpXM2dlSm5XTVhQQjhqeTliYlNfQXlSQnZqQm81aHoyeVB4aGo?oc=5)
 
 ---
 

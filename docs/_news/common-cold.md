@@ -3,7 +3,7 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。20 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。21 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>20 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>21 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
 
 ### [吃保健品增抵抗力？　醫揭改變「關鍵習慣」4事降發炎](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
 
@@ -85,6 +85,14 @@ last_modified_at: 2026-11-24
 2026-11-19
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMiywNBVV95cUxNTDhORDQzcmVmMW1RSVZjLUYtc2lCWVVnRUhtYUxnX3A2TzFUQmxCUnN2YUxHLTl6NVI2MWdxRUNxS1Q2cEs1emxzUC1EUXgtYTlmTXprSUlLaVdlNHdDQXRxcU9XRzNRY1htMmdRc0k0Zk5XbHFKa1pTSDI2Z1BfWmloOU9CQU91X0NZM2VMQXRQTXhNOHRDUWlWYUxqQUl1dHk5dmFPRV9Xa0ZZTGtrYkNlVXhLRWF3VnM0dmpiYnlkU3NjR3RNc08wSmx1dkQyUFlVanpJdXBCZ1N3YzUwX1REX0JaQURKNC16MklnUmFwNklfTUF6SktRRlhobFdkZ1p0bW42R0dOVGo4bFRnRkRtTktkRHh2a21DNi1ITnoxZEEtOVpQNkU5bk4zakZXUTJOenc1WFVNVUtPdGFFeGZLb3o3M0U4My10OUs2MkFDVTAwSTFyYUE2Y3A2LU5lT1ZaXzlaTFl2YkFkakZva182OGJFQ3J5bk1uaUd4amJDTnQwMHU3YlJ6OFhDM1pDREt1NXVRMlRzbkVjaXpoUHloeTFOWVhiUnhxTHlEcHZyN0Z2NXdFRGFoNUNZZDZVSUQxSTVXLUo2elk?oc=5)
+
+---
+
+### [天氣忽冷忽熱容易感冒？專家公開6種「提升免疫力食物」，打造身體防護罩 | Women's Health](https://news.google.com/rss/articles/CBMivgNBVV95cUxPZlY2Qy1HY3NibVhoS3VYZF9SUFVNVU5BdTBCajk0YTVQQk8zMDg3V1g0aklWOUZzZzEzS0VRYzlhbTF4N3BWMFYzR2lyNkpNS3dqTFNsOHFWOGotdlR3ZFk5OS1fUkl3ZjZNRXVIaEdjUGJlSi1DaWtNaUNvWVNjdlpFNVBKT09BWEp2RzM0THhNRmh1YnZQaEFHRUMxem50dXhWQzlkTkt5b1liWkJZb0VabENqeERDLW1XUHl0RHhrWmtvajNRQzVxTXh2d2FWWmdjVjBmOGlDcEhPVThzZ2JEYmhhWGJudUxlazBhVnNZa3AwSUktN0d6UGpXS2JDYmhhOTBaYXhoWjlWUDZoMF9NU29DbVlTN2ZYWXBFMkdVZnpHcXk2a1M2dm5LYmp1QnZ1NkJrZUNJT3o1Q09HeFJvU0xpQVEtN3ZiQ2J5QXpmOXBxa0lLLVN2WGxQUzhBMUUzdUFSUmh2OGRyZ0ZlbHV0Zm5UZVFhbjZFbEVxTWpwUUd5cHl5Vmh4eGgtQlcxbnVDNGszM0REZzlZQUlVN3doVHI5a1pqWGx3TjNyejVJUkVNWWlfX1VxYzlEZw?oc=5)
+
+2026-11-19
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxPZlY2Qy1HY3NibVhoS3VYZF9SUFVNVU5BdTBCajk0YTVQQk8zMDg3V1g0aklWOUZzZzEzS0VRYzlhbTF4N3BWMFYzR2lyNkpNS3dqTFNsOHFWOGotdlR3ZFk5OS1fUkl3ZjZNRXVIaEdjUGJlSi1DaWtNaUNvWVNjdlpFNVBKT09BWEp2RzM0THhNRmh1YnZQaEFHRUMxem50dXhWQzlkTkt5b1liWkJZb0VabENqeERDLW1XUHl0RHhrWmtvajNRQzVxTXh2d2FWWmdjVjBmOGlDcEhPVThzZ2JEYmhhWGJudUxlazBhVnNZa3AwSUktN0d6UGpXS2JDYmhhOTBaYXhoWjlWUDZoMF9NU29DbVlTN2ZYWXBFMkdVZnpHcXk2a1M2dm5LYmp1QnZ1NkJrZUNJT3o1Q09HeFJvU0xpQVEtN3ZiQ2J5QXpmOXBxa0lLLVN2WGxQUzhBMUUzdUFSUmh2OGRyZ0ZlbHV0Zm5UZVFhbjZFbEVxTWpwUUd5cHl5Vmh4eGgtQlcxbnVDNGszM0REZzlZQUlVN3doVHI5a1pqWGx3TjNyejVJUkVNWWlfX1VxYzlEZw?oc=5)
 
 ---
 

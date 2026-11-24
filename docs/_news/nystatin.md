@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Nystatin 的相關健康新聞報導。原適應症：抗生素（單方有效許可證中第一個非空的核准適應症文字；其他單方許可證另載有念珠菌引起之口腔、皮膚、腸道...。預測適應症 9 個。"
 permalink: /news/nystatin/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Nystatin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Nystatin 有什麼相關新聞？">
-<strong>Nystatin</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Nystatin</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
 
 ### [全球更年期商機破 8,000 億 英媒揭健康產業行銷陷阱](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMFgtLUFuRlU4NWhkZHBRenp3ZDE2eGs3dE82TDNzTWtxbjVwYWVBS1lKRjhrUHk4R0c0cWJxSEZEM0R2MXZCMWVNUnlVVzMwQVlrNXQzSVBxX0NrNzJNWmZNb2p3NUF2OU4xT0g4aEZTNFdpaDJ0a1FpbjFpTGk3ZjVIUG1FYVZwTVFGT04ycDdSSzhWamJnUGRNZEpvWm96SVg4UG1HcUxaZXFZOVdnRkpKQXJQQXlPUk14MEFDR1JYcnBYTnJCaDlVbHB6bktqUG5wcXQ4dWQ1Z3VTQWxYMExsOE5ONmJneVM5VHMyOG0yOEZ4U1FCRHY4NmdMV2VTc2FuZkx6OXVQVVZOZENUNTExeEpwd1dIcE1iLXd2X3ZTX1l6LWVvUVNFSkVRUHNxODdObEZSVEdMMUtOT25zc3RNMHJZczZHYzRyc2wxYXFiREF5cnJzM1p6anY5akZWMnFz?oc=5)
 
 2026-11-23 <span class="news-indication-tag">更年期</span>
 
 來源: [商傳媒](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNMFgtLUFuRlU4NWhkZHBRenp3ZDE2eGs3dE82TDNzTWtxbjVwYWVBS1lKRjhrUHk4R0c0cWJxSEZEM0R2MXZCMWVNUnlVVzMwQVlrNXQzSVBxX0NrNzJNWmZNb2p3NUF2OU4xT0g4aEZTNFdpaDJ0a1FpbjFpTGk3ZjVIUG1FYVZwTVFGT04ycDdSSzhWamJnUGRNZEpvWm96SVg4UG1HcUxaZXFZOVdnRkpKQXJQQXlPUk14MEFDR1JYcnBYTnJCaDlVbHB6bktqUG5wcXQ4dWQ1Z3VTQWxYMExsOE5ONmJneVM5VHMyOG0yOEZ4U1FCRHY4NmdMV2VTc2FuZkx6OXVQVVZOZENUNTExeEpwd1dIcE1iLXd2X3ZTX1l6LWVvUVNFSkVRUHNxODdObEZSVEdMMUtOT25zc3RNMHJZczZHYzRyc2wxYXFiREF5cnJzM1p6anY5akZWMnFz?oc=5)
+
+---
+
+### [女性護心不能等到更年期！停經適合168斷食嗎？更年期護心保骨3重點](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yV2VpZEg4VmJKbVliVE1vdm5GT0V2MlNTZURHTVpSQUJQMWhyNkF0eWRObEhFMzZpdzFLbkFaUVd2bGlfb2JRU2syNHF2R2E2Q1VCeXhzblUxak900gFiQVVfeXFMUHNTbjdSTFhaM3RLOU1UQU1qUlFSVHlfRkxjaGhHLThoMUFSS1QxdXRZMHdFTzV2LTlXcXVubGpUQ2M1OGs4dEtUQlppYkZJTFJNbTJkYXZLNEhZTzFzQ0IyWnc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
+
+來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yV2VpZEg4VmJKbVliVE1vdm5GT0V2MlNTZURHTVpSQUJQMWhyNkF0eWRObEhFMzZpdzFLbkFaUVd2bGlfb2JRU2syNHF2R2E2Q1VCeXhzblUxak900gFiQVVfeXFMUHNTbjdSTFhaM3RLOU1UQU1qUlFSVHlfRkxjaGhHLThoMUFSS1QxdXRZMHdFTzV2LTlXcXVubGpUQ2M1OGs4dEtUQlppYkZJTFJNbTJkYXZLNEhZTzFzQ0IyWnc?oc=5)
 
 ---
 

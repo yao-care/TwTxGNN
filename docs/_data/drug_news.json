@@ -402,7 +402,7 @@
     {
       "url": "/news/gefitinib/",
       "title": "Gefitinib 相關新聞",
-      "count": 41
+      "count": 44
     },
     {
       "url": "/news/generic-cancer/",
@@ -411,8 +411,8 @@
     },
     {
       "url": "/news/dementia/",
-      "title": "失智 (dementia) 相關新聞",
-      "count": 14
+      "title": "阿茲海默症 (dementia) 相關新聞",
+      "count": 17
     },
     {
       "url": "/news/失智/",
@@ -683,17 +683,17 @@
     {
       "url": "/news/nystatin/",
       "title": "Nystatin 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/menopause/",
       "title": "更年期 (menopause) 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/停經/",
       "title": "停經 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/omalizumab/": [
@@ -783,7 +783,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 42
+      "count": 44
     },
     {
       "url": "/news/generic-cancer/",
@@ -791,14 +791,14 @@
       "count": 27
     },
     {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "url": "/news/menopause/",
+      "title": "更年期 (menopause) 相關新聞",
       "count": 6
     },
     {
-      "url": "/news/menopause/",
-      "title": "更年期 (menopause) 相關新聞",
-      "count": 5
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 6
     },
     {
       "url": "/news/卵巢癌/",
@@ -806,13 +806,18 @@
       "count": 3
     },
     {
+      "url": "/news/停經/",
+      "title": "停經 相關新聞",
+      "count": 2
+    },
+    {
       "url": "/news/胃癌/",
       "title": "胃癌 相關新聞",
       "count": 2
     },
     {
-      "url": "/news/停經/",
-      "title": "停經 相關新聞",
+      "url": "/news/子宮頸癌/",
+      "title": "子宮頸癌 相關新聞",
       "count": 1
     }
   ],
@@ -890,12 +895,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 20
+      "count": 21
     },
     {
       "url": "/news/common-cold/",
       "title": "感冒 (common cold) 相關新聞",
-      "count": 20
+      "count": 21
     }
   ],
   "/drugs/sulfamerazine/": [
@@ -938,7 +943,7 @@
     {
       "url": "/news/tinidazole/",
       "title": "Tinidazole 相關新聞",
-      "count": 32
+      "count": 33
     },
     {
       "url": "/news/generic-cancer/",
@@ -948,29 +953,29 @@
     {
       "url": "/news/menopause/",
       "title": "更年期 (menopause) 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/停經/",
       "title": "停經 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/tioconazole/": [
     {
       "url": "/news/tioconazole/",
       "title": "Tioconazole 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/menopause/",
       "title": "更年期 (menopause) 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/停經/",
       "title": "停經 相關新聞",
-      "count": 1
+      "count": 2
     }
   ],
   "/drugs/tolmetin/": [
