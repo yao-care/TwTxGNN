@@ -21,14 +21,14 @@
   "items_current": 5754
  },
  "reviews": {
-  "records": 872,
+  "records": 861,
   "pages": 283,
   "public_pages_with_records": 272,
   "by_action": {
-   "annotate": 188,
+   "annotate": 181,
    "correct": 268,
-   "description_level": 45,
-   "header_level": 65,
+   "description_level": 43,
+   "header_level": 63,
    "mechanism": 214,
    "rereview": 41,
    "rereview_result": 41,
@@ -222,17 +222,8 @@
    "l": "L2",
    "lt": 117,
    "lv": 18,
-   "r": 16,
-   "i": "妊娠毒血症"
-  },
-  {
-   "t": "Ergometrine",
-   "u": "/drugs/ergometrine/",
-   "l": "L5",
-   "lt": 101,
-   "lv": 18,
    "r": 15,
-   "i": "hypertrichosis (disease)"
+   "i": "妊娠毒血症"
   },
   {
    "t": "Carboplatin",
@@ -242,6 +233,15 @@
    "lv": 3,
    "r": 13,
    "i": "直腸黏液腺癌"
+  },
+  {
+   "t": "Ergometrine",
+   "u": "/drugs/ergometrine/",
+   "l": "L5",
+   "lt": 101,
+   "lv": 18,
+   "r": 13,
+   "i": "hypertrichosis (disease)"
   },
   {
    "t": "Uracil",
@@ -258,7 +258,7 @@
    "l": "L4",
    "lt": 9,
    "lv": 1,
-   "r": 12,
+   "r": 11,
    "i": "allergic urticaria"
   },
   {
