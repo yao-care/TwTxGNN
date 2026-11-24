@@ -783,7 +783,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 44
+      "count": 45
     },
     {
       "url": "/news/generic-cancer/",
@@ -801,6 +801,11 @@
       "count": 6
     },
     {
+      "url": "/news/胃癌/",
+      "title": "胃癌 相關新聞",
+      "count": 3
+    },
+    {
       "url": "/news/卵巢癌/",
       "title": "卵巢癌 相關新聞",
       "count": 3
@@ -808,11 +813,6 @@
     {
       "url": "/news/停經/",
       "title": "停經 相關新聞",
-      "count": 2
-    },
-    {
-      "url": "/news/胃癌/",
-      "title": "胃癌 相關新聞",
       "count": 2
     },
     {
@@ -861,7 +861,7 @@
     {
       "url": "/news/ramucirumab/",
       "title": "Ramucirumab 相關新聞",
-      "count": 29
+      "count": 30
     },
     {
       "url": "/news/generic-cancer/",
@@ -871,7 +871,7 @@
     {
       "url": "/news/胃癌/",
       "title": "胃癌 相關新聞",
-      "count": 2
+      "count": 3
     }
   ],
   "/drugs/regorafenib/": [
@@ -943,7 +943,7 @@
     {
       "url": "/news/tinidazole/",
       "title": "Tinidazole 相關新聞",
-      "count": 33
+      "count": 34
     },
     {
       "url": "/news/generic-cancer/",
@@ -959,6 +959,11 @@
       "url": "/news/停經/",
       "title": "停經 相關新聞",
       "count": 2
+    },
+    {
+      "url": "/news/aids/",
+      "title": "AIDS 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/tioconazole/": [
@@ -1011,12 +1016,12 @@
     {
       "url": "/news/trastuzumab_deruxtecan/",
       "title": "Trastuzumab deruxtecan 相關新聞",
-      "count": 2
+      "count": 3
     },
     {
       "url": "/news/胃癌/",
       "title": "胃癌 相關新聞",
-      "count": 2
+      "count": 3
     }
   ],
   "/drugs/treprostinil/": [

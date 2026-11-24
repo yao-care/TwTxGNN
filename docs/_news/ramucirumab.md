@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>30 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（30 則）
+
+### [釐清成因風險 比對檢測結果 晚期胃癌治療新方案](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdk1kTV9QQjkwdzVYWmJIdzdIME4yYS1TUFhDY29VMExOdVFsd1ZacVkzSFQ2Wm5qSF8yVmd5UmY5X3N5aXF5TjdHaFp4LWQ3clVreGd0SkFoM3RxR0tmMHNIVzhGR3V4RDJqZEZpUmVGaFZwY3Y1RzBYelZkYUQ1SmttenlzUDc1di1qVm9uVlF3SjhIWUxSS0dGTEhfODhTaEhOY3NmOFhJbkVnOFZicXJNeVcyVWtOYVI3d1I3RE1pSUJla3VVTnU4QTZrOWV2Um1HREdpWFNkUzVJei1lNF85dVN6a1B3aXQyRE5sWFVNLTFsaF9yUUNqM2ZXU0Y2em9EZjRvbUJUWU1FMERXdHZBOGZoenZycDM5TmpNM1BNMEF0TGNaMlZYRHNxLUlnRUo0c256cGNoT0lVcVozSU5aaVFla19nQVJvR053aGlrV0luN1lMcnRrMEp3M1JsbkNsdw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">胃癌</span>
+
+來源: [信報網站](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdk1kTV9QQjkwdzVYWmJIdzdIME4yYS1TUFhDY29VMExOdVFsd1ZacVkzSFQ2Wm5qSF8yVmd5UmY5X3N5aXF5TjdHaFp4LWQ3clVreGd0SkFoM3RxR0tmMHNIVzhGR3V4RDJqZEZpUmVGaFZwY3Y1RzBYelZkYUQ1SmttenlzUDc1di1qVm9uVlF3SjhIWUxSS0dGTEhfODhTaEhOY3NmOFhJbkVnOFZicXJNeVcyVWtOYVI3d1I3RE1pSUJla3VVTnU4QTZrOWV2Um1HREdpWFNkUzVJei1lNF85dVN6a1B3aXQyRE5sWFVNLTFsaF9yUUNqM2ZXU0Y2em9EZjRvbUJUWU1FMERXdHZBOGZoenZycDM5TmpNM1BNMEF0TGNaMlZYRHNxLUlnRUo0c256cGNoT0lVcVozSU5aaVFla19nQVJvR053aGlrV0luN1lMcnRrMEp3M1JsbkNsdw?oc=5)
+
+---
 
 ### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 

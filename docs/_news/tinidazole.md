@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ last_modified_at: 2026-11-24
 <li>ulceration of vulva</li>
 <li>vulvar neoplasm</li>
 <li>breast fibrocystic disease</li>
-<li>AIDS</li>
+<li class="indication-matched">AIDS<span class="indication-tag">📰 AIDS</span></li>
 <li>blunt duct adenosis of breast</li>
 <li>apocrine adenosis of breast</li>
 <li>AIDS related complex</li>
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（34 則）
+
+### [健康話題／HIV ≠ AIDS？認識愛滋，別讓恐懼成為歧視的起點！](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hWDQtUF9Id1ZRckhHREV0Qkp1Uk04d3BsM18teEZ0dGM3QzNYc29yX3NjWW14cFVhRWozSW41aHZ3OFRNUThJUE5ZVkd1QXpQZUlobTNZTXREV2pRbVE?oc=5)
+
+2026-11-24 <span class="news-indication-tag">AIDS</span>
+
+來源: [馬祖日報](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hWDQtUF9Id1ZRckhHREV0Qkp1Uk04d3BsM18teEZ0dGM3QzNYc29yX3NjWW14cFVhRWozSW41aHZ3OFRNUThJUE5ZVkd1QXpQZUlobTNZTXREV2pRbVE?oc=5)
+
+---
 
 ### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>44 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>45 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（44 則）
+## 相關新聞（45 則）
+
+### [釐清成因風險 比對檢測結果 晚期胃癌治療新方案](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdk1kTV9QQjkwdzVYWmJIdzdIME4yYS1TUFhDY29VMExOdVFsd1ZacVkzSFQ2Wm5qSF8yVmd5UmY5X3N5aXF5TjdHaFp4LWQ3clVreGd0SkFoM3RxR0tmMHNIVzhGR3V4RDJqZEZpUmVGaFZwY3Y1RzBYelZkYUQ1SmttenlzUDc1di1qVm9uVlF3SjhIWUxSS0dGTEhfODhTaEhOY3NmOFhJbkVnOFZicXJNeVcyVWtOYVI3d1I3RE1pSUJla3VVTnU4QTZrOWV2Um1HREdpWFNkUzVJei1lNF85dVN6a1B3aXQyRE5sWFVNLTFsaF9yUUNqM2ZXU0Y2em9EZjRvbUJUWU1FMERXdHZBOGZoenZycDM5TmpNM1BNMEF0TGNaMlZYRHNxLUlnRUo0c256cGNoT0lVcVozSU5aaVFla19nQVJvR053aGlrV0luN1lMcnRrMEp3M1JsbkNsdw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">胃癌</span>
+
+來源: [信報網站](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdk1kTV9QQjkwdzVYWmJIdzdIME4yYS1TUFhDY29VMExOdVFsd1ZacVkzSFQ2Wm5qSF8yVmd5UmY5X3N5aXF5TjdHaFp4LWQ3clVreGd0SkFoM3RxR0tmMHNIVzhGR3V4RDJqZEZpUmVGaFZwY3Y1RzBYelZkYUQ1SmttenlzUDc1di1qVm9uVlF3SjhIWUxSS0dGTEhfODhTaEhOY3NmOFhJbkVnOFZicXJNeVcyVWtOYVI3d1I3RE1pSUJla3VVTnU4QTZrOWV2Um1HREdpWFNkUzVJei1lNF85dVN6a1B3aXQyRE5sWFVNLTFsaF9yUUNqM2ZXU0Y2em9EZjRvbUJUWU1FMERXdHZBOGZoenZycDM5TmpNM1BNMEF0TGNaMlZYRHNxLUlnRUo0c256cGNoT0lVcVozSU5aaVFla19nQVJvR053aGlrV0luN1lMcnRrMEp3M1JsbkNsdw?oc=5)
+
+---
 
 ### [HPV感染機率高達9成！沒症狀也會傳染 身體出現5大警訊快檢查](https://news.google.com/rss/articles/CBMihwNBVV95cUxONUUzdzhuU3ZvTGRkdWxUdkpkeFVDWUZFM3laR3pyaER6SDYxNUtXa0x5b1p4bllsaVZudUh2RlNLNHNhQ3lkY1d1Tk5OZ0pzTWVKVmlBRi13THd1UFZldkFJNl9CcGFEYlFHaVJsYnBmblFyMmlXZThnMXFhM1YwX2ItX2E2TVhkSFdkWW9ON1B1TFpfbGgzMDdxS1hRNnRpeGJEc2szVzlDRHhwQ1BtaVREcUw4STk1bVRsQ0gzejNRbEVsdDlVbTJpblRBT2Ewb0ktSzh3Y1YwSW5uRXFiME9oTnZQRkJ2NTBPMXVrMnMzX29TNjNKV2lvOV9Ea2EyRjVxOGpGSEQ5QWh3ZE1zUWJsNkdHYk1FQTctTHA4U0xDYWZkZmNpWUpjUUFobkkwbUd1NGplUjJyQVR4eE5PU0hxMTB3MXVBRE9ickRTQnFFV1FsZmtOVTRZcHdmQnlQY052RzIzR21VcjItNWlONjJ6aWh1REF1UE80MTFTZjFYbGFsNGtn?oc=5)
 

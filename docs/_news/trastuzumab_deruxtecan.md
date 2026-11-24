@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Trastuzumab deruxtecan 的相關健康新聞報導。原適應症：轉移性乳癌（HER2 陽性、HER2 弱陽性／微陽性）、HER2 突變之無法切除或轉移性非小細胞肺癌...。預測適應症 1 個。"
 permalink: /news/trastuzumab_deruxtecan/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 ---
 
 # Trastuzumab deruxtecan 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="Trastuzumab deruxtecan 有什麼相關新聞？">
-<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>2 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trastuzumab deruxtecan</strong> 目前有 <strong>3 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/trastuzumab-deruxtecan/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [釐清成因風險 比對檢測結果 晚期胃癌治療新方案](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdk1kTV9QQjkwdzVYWmJIdzdIME4yYS1TUFhDY29VMExOdVFsd1ZacVkzSFQ2Wm5qSF8yVmd5UmY5X3N5aXF5TjdHaFp4LWQ3clVreGd0SkFoM3RxR0tmMHNIVzhGR3V4RDJqZEZpUmVGaFZwY3Y1RzBYelZkYUQ1SmttenlzUDc1di1qVm9uVlF3SjhIWUxSS0dGTEhfODhTaEhOY3NmOFhJbkVnOFZicXJNeVcyVWtOYVI3d1I3RE1pSUJla3VVTnU4QTZrOWV2Um1HREdpWFNkUzVJei1lNF85dVN6a1B3aXQyRE5sWFVNLTFsaF9yUUNqM2ZXU0Y2em9EZjRvbUJUWU1FMERXdHZBOGZoenZycDM5TmpNM1BNMEF0TGNaMlZYRHNxLUlnRUo0c256cGNoT0lVcVozSU5aaVFla19nQVJvR053aGlrV0luN1lMcnRrMEp3M1JsbkNsdw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">胃癌</span>
+
+來源: [信報網站](https://news.google.com/rss/articles/CBMi5AJBVV95cUxOdk1kTV9QQjkwdzVYWmJIdzdIME4yYS1TUFhDY29VMExOdVFsd1ZacVkzSFQ2Wm5qSF8yVmd5UmY5X3N5aXF5TjdHaFp4LWQ3clVreGd0SkFoM3RxR0tmMHNIVzhGR3V4RDJqZEZpUmVGaFZwY3Y1RzBYelZkYUQ1SmttenlzUDc1di1qVm9uVlF3SjhIWUxSS0dGTEhfODhTaEhOY3NmOFhJbkVnOFZicXJNeVcyVWtOYVI3d1I3RE1pSUJla3VVTnU4QTZrOWV2Um1HREdpWFNkUzVJei1lNF85dVN6a1B3aXQyRE5sWFVNLTFsaF9yUUNqM2ZXU0Y2em9EZjRvbUJUWU1FMERXdHZBOGZoenZycDM5TmpNM1BNMEF0TGNaMlZYRHNxLUlnRUo0c256cGNoT0lVcVozSU5aaVFla19nQVJvR053aGlrV0luN1lMcnRrMEp3M1JsbkNsdw?oc=5)
+
+---
 
 ### [21歲陸女「2症狀」慘胃癌末期！醫示警：年輕人、中年人好發](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5)
 
