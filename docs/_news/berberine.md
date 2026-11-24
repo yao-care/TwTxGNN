@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Berberine 的相關健康新聞報導。原適應症：痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎。預測適應症 10 個。"
 permalink: /news/berberine/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Berberine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>27 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>28 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,9 +43,17 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（27 則）
+## 相關新聞（28 則）
 
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+### [吃保健品增抵抗力？　醫揭改變「關鍵習慣」4事降發炎](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">腹瀉</span>
+
+來源: [ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
+
+---
+
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
 

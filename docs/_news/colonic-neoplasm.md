@@ -3,9 +3,9 @@ layout: default
 title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。9 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。10 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # 大腸癌 (colonic neoplasm) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>9 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>10 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-23
 </ul>
 </div>
 
-## 相關新聞（9 則）
+## 相關新聞（10 則）
 
 ### [大腸癌｜25歲男無便秘確診大腸癌 醫揭長期缺蔬果吃1類食物導致](https://news.google.com/rss/articles/CBMinANBVV95cUxOSVE3c2pOOWRjaWpVRFl2d1Z3aEYyY2lSRjFKNjdhSEI1QzVFVHJFdU5idFgwVG02RDV6MnhkcDRtSFRaQUxxWlU3VnB6V0xJeXJhUHpkb2ZkTVZ0Z3BoQkJLTzBudXJpRFkyT3lmRHJUa3J0S2ZzdHF2MHFQVlZCLWFIUkQyVEUwdzh4VGt4czBCU1dmRGtfbi0teGdjSGk1RHlTRVJ3M0hKaS1JaTVIN3AxRWxqUnBJUk9jeWM0Y3U0Y3VQbFd5TVE0VzByZmJqajY4OExOZEdzT2tUNjZSUXpJNmJXVnA5TFJzQm05YjlCZTNHZDFPUWRhekprc3FvQjZiLVMydTNMSFVkSjhaQUFkZHFUZWx0c0pJMTVWT19QNE9RT3dpSWpmVEQ3NWV2dlZSeWttYktpRG43M3RVTU0wR1dZUEpPcWRQNHVJQkJzN1hZZXBJWEZVRndSdmJueng5TFg0a2dDd3BJdGJOMnppZm5DWllqU25ERWtJNVNPai1zWmRqV0ZpVjBmeFJLVFktT01Mb3FuaWJO?oc=5)
 
@@ -45,6 +45,14 @@ last_modified_at: 2026-11-23
 2026-11-20
 
 來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMi1wNBVV95cUxQRkdfUk1sMmtvN2lGQkdFalZYa2NFM05xSDgwclhpajZrV3JrZ0RBZjQwdVotaE9oWEdjT3ZxeHBJRnZKZGs2RHQ0bEV0QlYxMVRIREtSYmJzQktpb290ckoyT2tLeVJhOWhlU1JDYjFHV0NpZldSd1NoLTFuN3Vuci12Mm03Q3lFYzd1d3dfZkwwNVpmV0tTalBZWWtaV2tDaXpjcmFnUjM5S2plQ056Yjlra3p6MFdJelZBeGJZY0J5dktIMi1pWUhqVm9TSjIyVUFpLTFyY1F6ZlJUSU8wY1ZjRno3bDl3MVZIT3pfUjY3MDU3SDFPb3NCOHcycGVlUGFWd2lSZDJlTzFmZ0ZvaDZjN0JkU3ZUSXQ4V1IyaTB3R2Exd2t5QVk4eHFtdDNzdmVaS3BuVDEyamVZd2tqWUxKQ2tvbGlKTTdWUXZqWUZOM29FWDc0bVJUZnhlaTlJX2pwZTZaN1M5bG9KdENkSjBDcENwUlpVcG5tUjlsT1lfRTdIaXQxa2p6VHd0cDhZTkZXRlZtNWVVSDNEcUIzVHlSalV3SGdTR2VIRnJ3OElpcnFDLUVTaFNjRHRERXVsVU1PdXZDRS1SV3d3NHNvYlhKZGhEZHfSAZIBQVVfeXFMUFNDMGpOOFk3WG14OTBRRHZmVU5VRkttLVFweXdOOWRmbVk5Y2FvSHBPZUp3OVBMR25pdUdLanhUZzNnOEN0Z3R4c01jMVNUQkpYc09TUFVMZEVrX1o2S2hWVldWZmF6a0xXOWEtSnh6R24zREE1cGY2aHpJaVlfWmtDcDRVMUdfMURNZWd4SXZXTXc?oc=5)
+
+---
+
+### [抗大腸癌兼抗發炎！最新研究揭：日吃1種營養素 5年存活率飆升17個百分點](https://news.google.com/rss/articles/CBMivgNBVV95cUxOLUZSTmhlRFRPYm92RmUtVm1BOXZHMWphUnByZzVncGtGUkszV3BtaldHUzJ3SHJFbzhTU3FDbEZ1V29kSUQ4VWJYVEo1b1o1T0ZjUXJ2NS10UXY0X1laSU82aXVLUjhLcU83UjJEQnpqS2RLU3NQT2FDelZOVTJjNTl4Q3B0Uk0xdE5XdnFVRFNtMENsdE55LVBPODFMVjAzRVc2NXZTUTZ6dFVUZVJmMGtMRFh0am12b2dWZmQ1dlJHX3NlWndJNE41cmFFd0FCdWpPblNBMTJ4WEVsR1ZIWU5PbUozRFktd0N0bmVkVkxJdkN0WHdQWlRZOFZlSnVZQjhBSjVmVG95N0hpX0pnWDgyZVNrVlozMExIelJ4WGMwMVVNLWlKRXZGRWtTR2NaVXV0ckM5bnBGMDdQTGpscDhKZTVyeHE3dkFoS25QbTVsUnQyZUNzbGsyU0JKNlh4b0tueVcydFhSLW5rRlRHMk9ITWwwRXlDUEdTaUdqM0hhREV3YXhWbW85R0stTUtuQXJodFh5eEdoRkE1Y1FRUUpzMlA5SlU3czRta0pDenJEcW9NVC01SmJnMlZxdw?oc=5)
+
+2026-11-20
+
+來源: [星島頭條](https://news.google.com/rss/articles/CBMivgNBVV95cUxOLUZSTmhlRFRPYm92RmUtVm1BOXZHMWphUnByZzVncGtGUkszV3BtaldHUzJ3SHJFbzhTU3FDbEZ1V29kSUQ4VWJYVEo1b1o1T0ZjUXJ2NS10UXY0X1laSU82aXVLUjhLcU83UjJEQnpqS2RLU3NQT2FDelZOVTJjNTl4Q3B0Uk0xdE5XdnFVRFNtMENsdE55LVBPODFMVjAzRVc2NXZTUTZ6dFVUZVJmMGtMRFh0am12b2dWZmQ1dlJHX3NlWndJNE41cmFFd0FCdWpPblNBMTJ4WEVsR1ZIWU5PbUozRFktd0N0bmVkVkxJdkN0WHdQWlRZOFZlSnVZQjhBSjVmVG95N0hpX0pnWDgyZVNrVlozMExIelJ4WGMwMVVNLWlKRXZGRWtTR2NaVXV0ckM5bnBGMDdQTGpscDhKZTVyeHE3dkFoS25QbTVsUnQyZUNzbGsyU0JKNlh4b0tueVcydFhSLW5rRlRHMk9ITWwwRXlDUEdTaUdqM0hhREV3YXhWbW85R0stTUtuQXJodFh5eEdoRkE1Y1FRUUpzMlA5SlU3czRta0pDenJEcW9NVC01SmJnMlZxdw?oc=5)
 
 ---
 

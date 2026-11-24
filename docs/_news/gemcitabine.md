@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gemcitabine 的相關健康新聞報導。原適應症：1.非小細胞肺癌2.胰臟癌3.膀胱癌4.Gemcitabine與paclitaxel併用，可使用於曾...。預測適應症 8 個。"
 permalink: /news/gemcitabine/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Gemcitabine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Gemcitabine 有什麼相關新聞？">
-<strong>Gemcitabine</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Gemcitabine</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,9 +41,9 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/gemcitabine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（39 則）
+## 相關新聞（41 則）
 
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
 
@@ -56,6 +56,14 @@ last_modified_at: 2026-11-23
 2026-11-23 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
 
 來源: [香港01](https://news.google.com/rss/articles/CBMinANBVV95cUxOSVE3c2pOOWRjaWpVRFl2d1Z3aEYyY2lSRjFKNjdhSEI1QzVFVHJFdU5idFgwVG02RDV6MnhkcDRtSFRaQUxxWlU3VnB6V0xJeXJhUHpkb2ZkTVZ0Z3BoQkJLTzBudXJpRFkyT3lmRHJUa3J0S2ZzdHF2MHFQVlZCLWFIUkQyVEUwdzh4VGt4czBCU1dmRGtfbi0teGdjSGk1RHlTRVJ3M0hKaS1JaTVIN3AxRWxqUnBJUk9jeWM0Y3U0Y3VQbFd5TVE0VzByZmJqajY4OExOZEdzT2tUNjZSUXpJNmJXVnA5TFJzQm05YjlCZTNHZDFPUWRhekprc3FvQjZiLVMydTNMSFVkSjhaQUFkZHFUZWx0c0pJMTVWT19QNE9RT3dpSWpmVEQ3NWV2dlZSeWttYktpRG43M3RVTU0wR1dZUEpPcWRQNHVJQkJzN1hZZXBJWEZVRndSdmJueng5TFg0a2dDd3BJdGJOMnppZm5DWllqU25ERWtJNVNPai1zWmRqV0ZpVjBmeFJLVFktT01Mb3FuaWJO?oc=5)
+
+---
+
+### [乳癌切除不一定放假體！40歲婦罹乳癌憂切乳 自體組織重建保留腹直肌](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdjk0QnFlajNPV3dQNFdhaWlLWFpMLWZwWFRINVZfclZhdnN0WEhFRW1GMmRTaWE5anFncXhjTG1aMk5LNmkwNlJtRFBFM1hzckdlZzRB?oc=5)
+
+2026-11-23 <span class="news-indication-tag">乳癌</span>
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdjk0QnFlajNPV3dQNFdhaWlLWFpMLWZwWFRINVZfclZhdnN0WEhFRW1GMmRTaWE5anFncXhjTG1aMk5LNmkwNlJtRFBFM1hzckdlZzRB?oc=5)
 
 ---
 
@@ -96,6 +104,14 @@ last_modified_at: 2026-11-23
 2026-11-20 <span class="news-indication-tag">癌症</span>
 
 來源: [報新聞 Mega News](https://news.google.com/rss/articles/CBMi3AJBVV95cUxORFNaMVRadk9YRy1OV2V2ODl2M3l5d1JyUHhUTTJTMENjV3Rvak8xNmQwa1RZaTgxSmdzN2NURTdmTEdlcktvcWoxQ3hVQ08wMFQtY2d0UWItaWFyTlZOaHZGeXRaNDRPSTJXX3BOc25UWHFYVFdHMlg1RUtkRGNybERISDl5ZkdhZ1FENnJWY1Y0RGd5cE9XQ2RYNXdaMTRNQUZ6Mnl2RHd2WmNtSlI3QktLc3BmNFQzcmoyQTdYZy1SOEJCbnYwT1FpZjU0MUZjV0JWV1dyb0hCOUpfMG9oaXRXWXBuN25ROHVQZlhtc1I2cEs4UW9lZk5rMGFYUXZsTk5JbWVLWExSTElOb3NhNUxOSmlMbFlmbVJ4elFBVUx6OVVzcGZWa0s1dmd2bFJMZWtYUEtsMk9OaTBaczY4Z0FNVlkwcjZzTXNsT0JBQTFYUU9YWWtObXNsVU4?oc=5)
+
+---
+
+### [抗大腸癌兼抗發炎！最新研究揭：日吃1種營養素 5年存活率飆升17個百分點](https://news.google.com/rss/articles/CBMivgNBVV95cUxOLUZSTmhlRFRPYm92RmUtVm1BOXZHMWphUnByZzVncGtGUkszV3BtaldHUzJ3SHJFbzhTU3FDbEZ1V29kSUQ4VWJYVEo1b1o1T0ZjUXJ2NS10UXY0X1laSU82aXVLUjhLcU83UjJEQnpqS2RLU3NQT2FDelZOVTJjNTl4Q3B0Uk0xdE5XdnFVRFNtMENsdE55LVBPODFMVjAzRVc2NXZTUTZ6dFVUZVJmMGtMRFh0am12b2dWZmQ1dlJHX3NlWndJNE41cmFFd0FCdWpPblNBMTJ4WEVsR1ZIWU5PbUozRFktd0N0bmVkVkxJdkN0WHdQWlRZOFZlSnVZQjhBSjVmVG95N0hpX0pnWDgyZVNrVlozMExIelJ4WGMwMVVNLWlKRXZGRWtTR2NaVXV0ckM5bnBGMDdQTGpscDhKZTVyeHE3dkFoS25QbTVsUnQyZUNzbGsyU0JKNlh4b0tueVcydFhSLW5rRlRHMk9ITWwwRXlDUEdTaUdqM0hhREV3YXhWbW85R0stTUtuQXJodFh5eEdoRkE1Y1FRUUpzMlA5SlU3czRta0pDenJEcW9NVC01SmJnMlZxdw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [星島頭條](https://news.google.com/rss/articles/CBMivgNBVV95cUxOLUZSTmhlRFRPYm92RmUtVm1BOXZHMWphUnByZzVncGtGUkszV3BtaldHUzJ3SHJFbzhTU3FDbEZ1V29kSUQ4VWJYVEo1b1o1T0ZjUXJ2NS10UXY0X1laSU82aXVLUjhLcU83UjJEQnpqS2RLU3NQT2FDelZOVTJjNTl4Q3B0Uk0xdE5XdnFVRFNtMENsdE55LVBPODFMVjAzRVc2NXZTUTZ6dFVUZVJmMGtMRFh0am12b2dWZmQ1dlJHX3NlWndJNE41cmFFd0FCdWpPblNBMTJ4WEVsR1ZIWU5PbUozRFktd0N0bmVkVkxJdkN0WHdQWlRZOFZlSnVZQjhBSjVmVG95N0hpX0pnWDgyZVNrVlozMExIelJ4WGMwMVVNLWlKRXZGRWtTR2NaVXV0ckM5bnBGMDdQTGpscDhKZTVyeHE3dkFoS25QbTVsUnQyZUNzbGsyU0JKNlh4b0tueVcydFhSLW5rRlRHMk9ITWwwRXlDUEdTaUdqM0hhREV3YXhWbW85R0stTUtuQXJodFh5eEdoRkE1Y1FRUUpzMlA5SlU3czRta0pDenJEcW9NVC01SmJnMlZxdw?oc=5)
 
 ---
 

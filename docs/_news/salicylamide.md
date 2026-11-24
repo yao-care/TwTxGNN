@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 9 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Salicylamide 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（20 則）
+
+### [吃保健品增抵抗力？　醫揭改變「關鍵習慣」4事降發炎](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">腹瀉</span>
+
+來源: [ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
+
+---
 
 ### [安寶醫療發布秋冬健康管理指南 灣仔醫生推薦預防感冒、流感及持續咳嗽建議](https://news.google.com/rss/articles/CBMi4ANBVV95cUxPQjM0YVIzeTZQU3lVbksxekFRWHQ5WVJNMmdXVm1oRDI4eF9ianVrbzhWckxSaWtfWGNPandGV05GQUdwdDRIem9XbFJoV2Ruek1DcnhTMzJWYnVPbVFGZTZEeExhQ1NpQjhjam9QZDVpblk2VUtrNHVzc1hzNi1qV1Y3a3JORXVuTEdRUnBaNy1IVVgtQ2tpb2s2djM3c0N5MFktWGI4UHU4S3dSdl9xcm8yZUxST0hvcEI1RFpCQ19wMU5iMEJudGdCWnRjeUVmTnBSNEFSYnBOQnpDS3VWUzAxRWNfeG5HdURUb0tsWjNvZUR3V1lUcktJTFhsZGZzYWt1TkZTOFZxaDBhMFZVazdsY1JuNjQzUVE5bVVQUmxhT1czVGpSRTJYS1ZEY0w4OUhfN0tTOEZaa0VHVWpKRmlJVlJQUDdaUXJjRW5wMGcwU2g0SUdfTkJpSVZrbE1vU253SFlKQlhqekFDdVBrUDBMbEpnNDZyal9heW5mT2lwbnJ4OWhGdGxHUGhWRTgtdTZiWFlXWGJrQk5MMmc0dlc3M3JEUS10S1V3dGpwUld2dXIwXzJLbTluR0ZQSXRXRWVsX3ExMWg0MUR2NGE4SjIzV3BhWlRxLXV2M3lPSlE?oc=5)
 

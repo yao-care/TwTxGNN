@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已...。預測適應症 2 個。"
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Paclitaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>42 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,9 +35,9 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（41 則）
+## 相關新聞（42 則）
 
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
 
@@ -58,6 +58,14 @@ last_modified_at: 2026-11-23
 2026-11-23 <span class="news-indication-tag">卵巢癌</span>
 
 來源: [獨家報導](https://news.google.com/rss/articles/CBMi3gJBVV95cUxPeEVUVk5iSVNqV1VYR1lNUTBDWHUwc01MQXJNT0w4QVUwaVNDV2MyR1lKd2RFN0FvYW5qRTl1Nm5PQVV4a2dNZGM4YnVfeXFiTnlCTXFuUmg1QkxxUW1iRDUwY3BzRlgwVlNHUndXQ3l1clctbGdRSElwNjBuOG9WV2hwTzJONnRCMW9MMVljQXhoc3QzOHViUGNNTUwtalNXU0dJOHpSVXVGZWdNNFp0bzExLVNBc2R0T05keHJMZnFwYlVMTU1ydmVxZjNOX3o0eTR1VjlKbVRBWmQ4aUhrMDNXUFlQbk1GS3JGLS1yZWJTSE5zRGFwQzREdXJRbGRRUnJRVldESXdocnFvaFV0OFRWYnhCRWx2dzQwYmU1dnZBQ2h2d0x4YkZqek1CMnlpSkowbG1ad0VDbDNkUGFrenQ5M2lUUUhEMUZ0ZVFlQnJaT2hrSlZheF9WLXNDQQ?oc=5)
+
+---
+
+### [乳癌切除不一定放假體！40歲婦罹乳癌憂切乳 自體組織重建保留腹直肌](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdjk0QnFlajNPV3dQNFdhaWlLWFpMLWZwWFRINVZfclZhdnN0WEhFRW1GMmRTaWE5anFncXhjTG1aMk5LNmkwNlJtRFBFM1hzckdlZzRB?oc=5)
+
+2026-11-23 <span class="news-indication-tag">乳癌</span>
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdjk0QnFlajNPV3dQNFdhaWlLWFpMLWZwWFRINVZfclZhdnN0WEhFRW1GMmRTaWE5anFncXhjTG1aMk5LNmkwNlJtRFBFM1hzckdlZzRB?oc=5)
 
 ---
 

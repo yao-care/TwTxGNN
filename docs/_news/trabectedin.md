@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Trabectedin 的相關健康新聞報導。原適應症：無法切除或轉移性脂肪肉瘤 (liposarcoma) 或平滑肌肉瘤 (leiomyosarcoma)...。預測適應症 1 個。"
 permalink: /news/trabectedin/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Trabectedin 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="Trabectedin 有什麼相關新聞？">
-<strong>Trabectedin</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Trabectedin</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/trabectedin/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（33 則）
 
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
 
 來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
+
+### [乳癌切除不一定放假體！40歲婦罹乳癌憂切乳 自體組織重建保留腹直肌](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdjk0QnFlajNPV3dQNFdhaWlLWFpMLWZwWFRINVZfclZhdnN0WEhFRW1GMmRTaWE5anFncXhjTG1aMk5LNmkwNlJtRFBFM1hzckdlZzRB?oc=5)
+
+2026-11-23 <span class="news-indication-tag">乳癌</span>
+
+來源: [健康醫療網](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5pdjk0QnFlajNPV3dQNFdhaWlLWFpMLWZwWFRINVZfclZhdnN0WEhFRW1GMmRTaWE5anFncXhjTG1aMk5LNmkwNlJtRFBFM1hzckdlZzRB?oc=5)
 
 ---
 

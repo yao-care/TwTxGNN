@@ -73,7 +73,7 @@
     {
       "url": "/news/anastrozole/",
       "title": "Anastrozole 相關新聞",
-      "count": 32
+      "count": 33
     },
     {
       "url": "/news/generic-cancer/",
@@ -83,7 +83,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/atezolizumab/": [
@@ -148,12 +148,17 @@
     {
       "url": "/news/berberine/",
       "title": "Berberine 相關新聞",
-      "count": 27
+      "count": 28
     },
     {
       "url": "/news/generic-cancer/",
       "title": "腫瘤 (generic_cancer) 相關新聞",
       "count": 27
+    },
+    {
+      "url": "/news/腹瀉/",
+      "title": "腹瀉 相關新聞",
+      "count": 1
     }
   ],
   "/drugs/bevacizumab/": [
@@ -184,7 +189,7 @@
     {
       "url": "/news/carboplatin/",
       "title": "Carboplatin 相關新聞",
-      "count": 39
+      "count": 41
     },
     {
       "url": "/news/generic-cancer/",
@@ -194,12 +199,12 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/頭頸部鱗狀細胞癌/",
@@ -322,7 +327,7 @@
     {
       "url": "/news/docetaxel/",
       "title": "Docetaxel 相關新聞",
-      "count": 34
+      "count": 35
     },
     {
       "url": "/news/generic-cancer/",
@@ -332,7 +337,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/small-cell-lung-carcinoma/",
@@ -406,7 +411,7 @@
     },
     {
       "url": "/news/dementia/",
-      "title": "阿茲海默症 (dementia) 相關新聞",
+      "title": "失智 (dementia) 相關新聞",
       "count": 14
     },
     {
@@ -419,7 +424,7 @@
     {
       "url": "/news/gemcitabine/",
       "title": "Gemcitabine 相關新聞",
-      "count": 39
+      "count": 41
     },
     {
       "url": "/news/generic-cancer/",
@@ -429,12 +434,12 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/hydroxyprogesterone-caproate/": [
@@ -453,7 +458,7 @@
     {
       "url": "/news/hydroxyurea/",
       "title": "Hydroxyurea 相關新聞",
-      "count": 41
+      "count": 43
     },
     {
       "url": "/news/generic-cancer/",
@@ -463,12 +468,12 @@
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 7
+      "count": 8
     },
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 5
+      "count": 6
     },
     {
       "url": "/news/卵巢癌/",
@@ -707,7 +712,7 @@
     {
       "url": "/news/oteracil/",
       "title": "Oteracil 相關新聞",
-      "count": 36
+      "count": 37
     },
     {
       "url": "/news/generic-cancer/",
@@ -717,12 +722,12 @@
     {
       "url": "/news/colonic-neoplasm/",
       "title": "大腸癌 (colonic neoplasm) 相關新聞",
-      "count": 9
+      "count": 10
     },
     {
       "url": "/news/腸癌/",
       "title": "腸癌 相關新聞",
-      "count": 7
+      "count": 8
     }
   ],
   "/drugs/ouabain/": [
@@ -778,7 +783,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 41
+      "count": 42
     },
     {
       "url": "/news/generic-cancer/",
@@ -786,13 +791,13 @@
       "count": 27
     },
     {
-      "url": "/news/menopause/",
-      "title": "更年期 (menopause) 相關新聞",
-      "count": 5
-    },
-    {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "count": 6
+    },
+    {
+      "url": "/news/menopause/",
+      "title": "更年期 (menopause) 相關新聞",
       "count": 5
     },
     {
@@ -885,12 +890,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 19
+      "count": 20
     },
     {
       "url": "/news/common-cold/",
       "title": "感冒 (common cold) 相關新聞",
-      "count": 19
+      "count": 20
     }
   ],
   "/drugs/sulfamerazine/": [
@@ -984,7 +989,7 @@
     {
       "url": "/news/trabectedin/",
       "title": "Trabectedin 相關新聞",
-      "count": 32
+      "count": 33
     },
     {
       "url": "/news/generic-cancer/",
@@ -994,7 +999,7 @@
     {
       "url": "/news/female-breast-carcinoma/",
       "title": "乳癌 (female breast carcinoma) 相關新聞",
-      "count": 5
+      "count": 6
     }
   ],
   "/drugs/trastuzumab-deruxtecan/": [

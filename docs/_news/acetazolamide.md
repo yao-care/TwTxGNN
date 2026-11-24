@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Acetazolamide 的相關健康新聞報導。原適應症：青光眼及下列疾患之輔助治療：水腫、癲癇。預測適應症 10 個。"
 permalink: /news/acetazolamide/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # Acetazolamide 相關新聞
@@ -45,7 +45,7 @@ last_modified_at: 2026-11-23
 
 ## 相關新聞（32 則）
 
-### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌(HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用- 生技投資第一站](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+### [《生技前沿》瑞典與義大利團隊開發頭頸部鱗狀細胞癌 (HNSCC) 器官晶片，揭示腫瘤、血管與神經複雜的相互作用](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
 
 2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
 
