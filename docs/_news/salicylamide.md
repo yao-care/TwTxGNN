@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 9 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Salicylamide 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（22 則）
 
 ### [吃保健品增抵抗力？　醫揭改變「關鍵習慣」4事降發炎](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
 
@@ -60,6 +60,14 @@ last_modified_at: 2026-11-24
 
 ---
 
+### [安寶醫療發布秋冬健康管理指南 灣仔醫生推薦預防感冒、流感及持續咳嗽建議 | 國際現場 | 商情](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cjgxOHVtN1FkRWUwWTJhRXBRdUZTc1VTeFFiZ013b1h0QlNZZ2lMeXVYV0tLZElKaDJGSjVOYzVKMjN0X0RkYnAtY19XRHdhenRpSG5kUF9lWlU?oc=5)
+
+2026-11-23 <span class="news-indication-tag">感冒</span>
+
+來源: [經濟日報](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cjgxOHVtN1FkRWUwWTJhRXBRdUZTc1VTeFFiZ013b1h0QlNZZ2lMeXVYV0tLZElKaDJGSjVOYzVKMjN0X0RkYnAtY19XRHdhenRpSG5kUF9lWlU?oc=5)
+
+---
+
 ### [四川高中生連吞20粒感冒藥險死 誤信網傳有「愉悅感」可見鬼仔](https://news.google.com/rss/articles/CBMijwNBVV95cUxNNDZZVnRRQ05Nb09PZjJRb1hhLWpJNUlXd3EzM0J2dkdIVWxTRWEyclBkbTg0SFg3c2Vrd3NEaFlWY2tlYUFQWndYWHN4dzVNVUV3MnBlOGpxYzVCMDRpLU1ibnpVOEhDNzhtSU9McU40UlFqMFFuOHZFNXhWcGgxNC1xLWlfeDJ6a3ozdElBQzdlMEdpaUNYcXpWdVNYR3dhNFJHOXkxZTYwN2VCUlRBelBKTHlodDRkSlFIa2VrS29qTGFLbFloeDBqNHRaZm9DM1BqajJpRTJfYld2Z0s2V0ZWbXAzSTFORkVQWVhCZEVfNzB1b2Y1aHEyaGx3S09VSDdXZzhWeTZ0eTViWE1saXdnbC1JWS1iZEstNk5sdk9VeVU5RGV1YUlwOWJiQ0tYY29VV0d4X2EwWXpYeXFoODRSdExSSXpDNEczTENkZ0VXcS14NklrUlk4a2RHa0llbEhnalEwOWdTcHVyVE8yTFZIeUVzX1h2YlpsMFlDVXVKc21US0Y1WWR0V0VDcjQ?oc=5)
 
 2026-11-22 <span class="news-indication-tag">感冒</span>
@@ -68,19 +76,19 @@ last_modified_at: 2026-11-24
 
 ---
 
-### [別把新冠當感冒！2025新冠高峰重症/死亡數是年底流感季3倍？醫點名高風險族群必做一件事保命](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
-
-2026-11-19 <span class="news-indication-tag">感冒</span>
-
-來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
-
----
-
 ### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 
 2026-11-19 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
 
 來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
+
+---
+
+### [別把新冠當感冒！2025新冠高峰重症/死亡數是年底流感季3倍？醫點名高風險族群必做一件事保命](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">感冒</span>
+
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
 
 ---
 
@@ -102,7 +110,7 @@ last_modified_at: 2026-11-24
 
 ### [天氣忽冷忽熱容易感冒？專家公開6種「提升免疫力食物」，打造身體防護罩 | Women's Health](https://news.google.com/rss/articles/CBMivgNBVV95cUxPZlY2Qy1HY3NibVhoS3VYZF9SUFVNVU5BdTBCajk0YTVQQk8zMDg3V1g0aklWOUZzZzEzS0VRYzlhbTF4N3BWMFYzR2lyNkpNS3dqTFNsOHFWOGotdlR3ZFk5OS1fUkl3ZjZNRXVIaEdjUGJlSi1DaWtNaUNvWVNjdlpFNVBKT09BWEp2RzM0THhNRmh1YnZQaEFHRUMxem50dXhWQzlkTkt5b1liWkJZb0VabENqeERDLW1XUHl0RHhrWmtvajNRQzVxTXh2d2FWWmdjVjBmOGlDcEhPVThzZ2JEYmhhWGJudUxlazBhVnNZa3AwSUktN0d6UGpXS2JDYmhhOTBaYXhoWjlWUDZoMF9NU29DbVlTN2ZYWXBFMkdVZnpHcXk2a1M2dm5LYmp1QnZ1NkJrZUNJT3o1Q09HeFJvU0xpQVEtN3ZiQ2J5QXpmOXBxa0lLLVN2WGxQUzhBMUUzdUFSUmh2OGRyZ0ZlbHV0Zm5UZVFhbjZFbEVxTWpwUUd5cHl5Vmh4eGgtQlcxbnVDNGszM0REZzlZQUlVN3doVHI5a1pqWGx3TjNyejVJUkVNWWlfX1VxYzlEZw?oc=5)
 
-2026-11-19 <span class="news-indication-tag">感冒</span>
+2026-11-19 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">腹瀉</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxPZlY2Qy1HY3NibVhoS3VYZF9SUFVNVU5BdTBCajk0YTVQQk8zMDg3V1g0aklWOUZzZzEzS0VRYzlhbTF4N3BWMFYzR2lyNkpNS3dqTFNsOHFWOGotdlR3ZFk5OS1fUkl3ZjZNRXVIaEdjUGJlSi1DaWtNaUNvWVNjdlpFNVBKT09BWEp2RzM0THhNRmh1YnZQaEFHRUMxem50dXhWQzlkTkt5b1liWkJZb0VabENqeERDLW1XUHl0RHhrWmtvajNRQzVxTXh2d2FWWmdjVjBmOGlDcEhPVThzZ2JEYmhhWGJudUxlazBhVnNZa3AwSUktN0d6UGpXS2JDYmhhOTBaYXhoWjlWUDZoMF9NU29DbVlTN2ZYWXBFMkdVZnpHcXk2a1M2dm5LYmp1QnZ1NkJrZUNJT3o1Q09HeFJvU0xpQVEtN3ZiQ2J5QXpmOXBxa0lLLVN2WGxQUzhBMUUzdUFSUmh2OGRyZ0ZlbHV0Zm5UZVFhbjZFbEVxTWpwUUd5cHl5Vmh4eGgtQlcxbnVDNGszM0REZzlZQUlVN3doVHI5a1pqWGx3TjNyejVJUkVNWWlfX1VxYzlEZw?oc=5)
 
