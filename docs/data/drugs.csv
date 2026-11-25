@@ -88,7 +88,7 @@ Emedastine,emedastine,N/A,0,,,,False,,/drugs/emedastine/
 Enfortumab Vedotin,enfortumab_vedotin,L5,9,１、單獨使用適用於治療患有局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人：(１)先前接受過PD-1（programmed death receptor-1） 或PDL1（programmed death-ligand 1）抑制劑和含鉑化學治療；或(２)不適合接受含cisplatin 化學治療，且先前接受過一線以上治療。２、併用pembrolizumab適用於治療局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人。; 1.黑色素細胞瘤： 治療無法切除或轉移性黑色素瘤病人。 作為輔助性療法治療患有第IIB或IIC期黑色素瘤並已進行完全切除的成人與12歲以上兒童病人。 作為輔助性療法治療侵犯至淋巴結；另與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）,痲瘋病 (leprosy),0.9953,False,Hold,/drugs/enfortumab-vedotin/
 Erdafitinib,erdafitinib,L5,6,局部晚期或轉移性泌尿道上皮癌（需帶有敏感性 FGFR3 基因變異，且先前全身性療法治療期間或之後惡化）,肺動脈高壓 (Pulmonary Hypertension),0.9938,False,Hold,/drugs/erdafitinib/
 Ergometrine,ergometrine,L5,10,產褥期之出血、流產後之出血、分娩時之子宮弛緩出血、不正常出血、分娩第三期陣痛微弱,毛髮過多症 (Hypertrichosis),0.9996,False,Hold,/drugs/ergometrine/
-Etanercept,etanercept,L5,3,,,,False,,/drugs/etanercept/
+Etanercept,etanercept,L5,3,1、適用於對疾病緩解型抗風濕性藥物(即DMARDs，例如methotrexate)無適當療效之成人活動性類風濕性關節炎。 2、適用於先前未使用methotrexate治療之成人中度至重度活動性類風濕性關節炎。這些病人的X光檢查顯示，本品可以減緩疾病造成的關節結構性受損。 3、適用於methotrexate治療無效或無法耐受的2歲以上兒童及青少年的活動性多關節幼年型慢性關節炎。尚未對不足2歲的兒童進行試驗。 4、適用於對疾病緩解型抗風濕性藥物無療效之成人活動性與進行性乾癬性關節炎。 5、治療活動性僵直性脊椎炎。 6、適用於治療嚴重活動性無放射影像確認之中軸性脊椎關節炎(Non-radi,,,False,,/drugs/etanercept/
 Ethynodiol Diacetate,ethynodiol_diacetate,L3,6,避孕、月經異常、抑制排卵（皆為複方製劑的核准適應症）,痤瘡 (Acne),0.9957,False,Hold,/drugs/ethynodiol-diacetate/
 Everolimus,everolimus,L2,8,,,,False,,/drugs/everolimus/
 Famotidine,famotidine,L5,4,胃潰瘍、十二指腸潰瘍、逆流性食道炎、ＺＯＬＬＩＮＧＥＲ－ＥＬＬＩＳＯＮ症候群; 住院病人伴隨有病理性胃酸分泌過高之症狀，頑固性（難治的）十二指腸潰瘍，或不能口服之病人消化性潰瘍之短期替代療法。; 住院病人伴隨有病理性胃酸分泌過高之症狀，頑固性（難治的）十二指腸潰瘍或不能口服之病人消化性潰瘍之短期替代療法。; 胃潰瘍、十二指腸潰瘍、吻合部潰瘍上部消化管出血（消化性潰瘍、急性ＳＴＲＥＳＳ潰瘍、出血性胃炎而引起的）、逆流性食道炎ＺＯＬＬＩＮＧＥＲ－ＥＬＬＩＳＯＮ症候群。; 院病人伴隨有病理性胃酸分泌過高之症狀，頑固性(難治的)十二指腸潰瘍，或不能口服之病人消化性潰瘍之短期替代療法。; 住院病人伴隨有,十二指腸阻塞 (duodenal obstruction),0.9999,False,Hold,/drugs/famotidine/
@@ -153,7 +153,7 @@ Lenvatinib,lenvatinib,L3,5,分化型甲狀腺癌：適用於放射性碘治療�
 Letrozole,letrozole,L5,4,轉移性乳癌。; 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療，停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。荷爾蒙接受器呈陽性及LN metastasis positive之乳癌病人作為Tamoxifen輔助療法之後的延伸治療。停經後荷爾蒙接受器呈陽性反應的初期乳癌病人之輔助與治療。; 接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療。停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。荷爾蒙接受器呈陽性及LN METASTASIS POSITIVE之乳癌病人作為TAMOXIFEN輔助療法之後的延伸治療。停經後荷爾蒙接受器呈陽性反應的初期乳癌病人之輔助治療,乳頭癌 (nipple carcinoma),0.9976,False,Hold,/drugs/letrozole/
 Levamisole,levamisole,L5,10,驅除蛔蟲、鉤蟲、糞圓蟲,藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis),1.0000,False,Hold,/drugs/levamisole/
 Lidocaine,lidocaine,L5,10,局部麻醉,點狀上皮角結膜炎 (Punctate Epithelial Keratoconjunctivitis),0.9999,False,Hold,/drugs/lidocaine/
-Lorcaserin,lorcaserin,L5,4,,,,False,,/drugs/lorcaserin/
+Lorcaserin,lorcaserin,L5,4,抗肥胖劑; BELVIQ是血清素5-HT2c受體致效劑，對成人身體質量指數 (BMI) 過高者於飲食和運動控制後之長期體重輔助管理。 適用之身體質量指數為: (1) BMI ≧ 30 kg/m2 或 (2) BMI ≧ 27 kg/m2 且有一項與體重相關之疾病 (例如: 高血壓、血脂異常或第二型糖尿病)。 說明:●BELVIQ 併用其他減重藥物(處方藥、非處方藥及中草藥)之安全性和有效性尚未確立。 ●BELVIQ 對於心血管系統之影響(致病率及致死率)尚未確立。,,,False,,/drugs/lorcaserin/
 Lornoxicam,lornoxicam,L5,8,輕度至中度急性疼痛之短期止痛,偏頭痛 (Migraine Disorder),0.9987,False,Hold,/drugs/lornoxicam/
 Loteprednol Etabonate,loteprednol_etabonate,L5,9,眼瞼結膜及眼球結膜、角膜及眼球前部構造等對類固醇有反應之發炎，如過敏性結膜炎、酒渣鼻角膜炎、表淺性點狀角膜炎、帶狀疱疹角膜炎、虹膜炎、睫狀體炎，以及其他感染性結膜炎等；及眼睛手術之發炎,結膜濾泡增生症 (Conjunctival Folliculosis),0.9969,False,Hold,/drugs/loteprednol-etabonate/
 Lutetium Lu 177 Dotatate,lutetium_lu_177_dotatate,L5,10,本地許可證資料未記載適應症,垂體性侏儒症 (pituitary dwarfism),0.9999,False,Hold,/drugs/lutetium-lu-177-dotatate/
@@ -178,7 +178,7 @@ Naproxen,naproxen,L5,4,消炎鎮痛劑（風濕性關節炎、骨關節炎、強
 Nebivolol,nebivolol,L5,4,治療原發性高血壓。,惡性高血壓腎病 (malignant hypertensive renal disease),0.9942,False,Hold,/drugs/nebivolol/
 Nefopam,nefopam,L5,10,鎮痛,成熟性白內障 (Mature Cataract),0.9998,False,Hold,/drugs/nefopam/
 Nepafenac,nepafenac,L2,10,治療白內障手術引起之疼痛與發炎,眼部疾病 (Eye Disease),0.9985,False,Proceed with Guardrails,/drugs/nepafenac/
-Niraparib,niraparib,L5,10,,,,False,,/drugs/niraparib/
+Niraparib,niraparib,L5,10,與prednisone 或prednisolone 併用，用於治療具BRCA 1/2 (遺傳性及/或體細胞)致病性或疑似致病性突變的轉移性去勢療法抗性前列腺癌(mCRPC)，且尚未需要使用化學治療的成年病人。; １、晚期卵巢癌之第一線維持治療：用於對第一線含鉑化療有完全或部分反應的晚期表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人之維持治療。 ２、復發性卵巢癌之維持治療：用於對含鉑化療有完全或部分反應的復發性表皮卵巢癌、輸卵管腫瘤或原發性腹膜癌成年病人之維持治療，病人須對復發前含鉑化療有敏感性。; 1. 晚期卵巢癌之第一線維持治療 用於對第一線含鉑化療有完全或部分反應的晚期表皮卵巢癌、輸卵管,,,False,,/drugs/niraparib/
 Nitrofurantoin,nitrofurantoin,L5,10,腎盂炎、膀胱炎、淋病、尿路感染症,類風濕性關節炎 (Rheumatoid Arthritis),0.9989,False,Hold,/drugs/nitrofurantoin/
 Nitrous Oxide,nitrous_oxide,L5,1,吸入性全身麻醉、鎮痛,良性攝護腺肥大 (Benign Prostatic Hyperplasia),0.9952,False,Hold,/drugs/nitrous-oxide/
 Nitroxoline,nitroxoline,L5,10,尿道炎、膀胱炎、腎盂腎炎及其他泌尿道感染症,閉經 (Amenorrhea),0.9974,False,Hold,/drugs/nitroxoline/
@@ -246,7 +246,7 @@ Simoctocog Alfa,simoctocog_alfa,L5,9,治療與預防A型血友病(先天性第�
 Sodium Acetate,sodium_acetate,L5,10,血液透析藥,先天性凝血酶原缺乏症 (Congenital Prothrombin Deficiency),0.9998,False,Hold,/drugs/sodium-acetate/
 Sodium Carbonate,sodium_carbonate,L5,6,無菌製劑輔助劑(鹼化藥)（唯一單方原料藥許可證「展旺無菌碳酸鈉」，2023-06-30 已註銷）；現行有效許可證中為複方點眼液、人工淚液與胃散的成分（ceftazidime、meropenem 注射劑與原料藥粉末中則是賦形劑）,馬尾症候群 (cauda equina syndrome),0.9980,False,Hold,/drugs/sodium-carbonate/
 Sodium Citrate,sodium_citrate,L5,8,輸血用抗凝結劑,乳突性結膜炎 (Papillary Conjunctivitis),0.9995,False,Hold,/drugs/sodium-citrate/
-Sorafenib,sorafenib,L5,6,,,,False,,/drugs/sorafenib/
+Sorafenib,sorafenib,L5,6,轉移性或無法手術切除且不適合局部治療或局部治療失敗之晚期肝細胞癌(HCC)。 晚期腎細胞癌(RCC)且已接受interferon-alpha或interleukin-2治療失敗，或不適合以上兩種藥物治療之病患。 放射性碘治療無效之局部晚期或轉移性的進行性(progressive)分化型甲狀腺癌(DTC)。; 轉移性或無法手術切除且不適合局部治療或局部治療失敗之晚期肝細胞癌(HCC)。晚期腎細胞癌(RCC)且已接受interferon-alpha或interleukin-2治療失敗，或不適合以上兩種藥物治療之病患。放射性碘治療無效之局部晚期或轉移性的進行性(progressive)分化型甲狀,,,False,,/drugs/sorafenib/
 Sotatercept,sotatercept,L5,10,適用於治療患有特發性或遺傳性肺動脈高壓的成人病人（註：台灣現有許可證歸類為複方，無單方有效許可證，此處引用該許可證所載適應症）,急性淋巴性白血病 (Acute Lymphoblastic Leukemia),0.9978,False,Hold,/drugs/sotatercept/
 Sulfamerazine,sulfamerazine,L5,4,肺炎球菌、鏈球菌、葡萄球菌、腦膜炎菌感染症,痛風 (Gout),0.9935,False,Hold,/drugs/sulfamerazine/
 Sulfamethazine,sulfamethazine,L5,5,細菌性感染症,痛風 (Gout),0.9987,False,Hold,/drugs/sulfamethazine/
@@ -285,7 +285,7 @@ Verteporfin,verteporfin,L5,1,因年齡相關性黃斑部退化病變引起之主
 Vinorelbine,vinorelbine,L3,8,非小細胞肺癌，移轉性乳癌。; 1.非小細胞肺癌。2.轉移性乳癌。; 非小細胞肺癌、轉移性乳癌; 非小細胞肺癌，移轉性乳癌; 1.非小細胞肺癌  2.轉移性乳癌。; 非小細胞肺癌、移轉性乳癌。; 非小細胞肺癌，轉移性乳癌。,尤文氏肉瘤 (Ewing sarcoma),1.0000,False,Hold,/drugs/vinorelbine/
 Vismodegib,vismodegib,L5,8,治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期(Locally Advanced)基底細胞癌成人病患。,伴有廣泛結節的髓母細胞瘤 (medulloblastoma with extensive nodularity),0.9993,False,Hold,/drugs/vismodegib/
 Vitamin E,vitamin_e,L5,10,皮膚乾燥及因維他命E缺乏引起之皮膚症,先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism),0.9999,False,Hold,/drugs/vitamin-e/
-Vonoprazan,vonoprazan,L5,8,,,,False,,/drugs/vonoprazan/
+Vonoprazan,vonoprazan,L5,8,1.	糜爛性食道炎(EE)的治療及維持治療。 2.	治療胃潰瘍。 3.	治療十二指腸潰瘍。 4.	輔助根除幽門螺旋桿菌(Helicobacter pylori)。,,,False,,/drugs/vonoprazan/
 Warfarin,warfarin,L5,7,1.預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞。2.預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症。,肝素輔因子 II 缺乏症 (Heparin Cofactor 2 Deficiency),0.9987,False,Hold,/drugs/warfarin/
 Xylitol,xylitol,L5,1,糖尿病、高血糖時之醣類補充液、由於水份或電解質代謝作用不良引起之脫水現象、外傷刺激麻醉、手術後引起之不正常醣類代謝作用時之熱能補充,腦膜炎球菌感染 (Meningococcal Infection),0.9966,False,Hold,/drugs/xylitol/
 Xylometazoline,xylometazoline,L3,1,暫時緩解因鼻炎、過敏性鼻炎、過敏或感冒引起之鼻塞、流鼻水症狀,鼻腔疾病 (Nasal Cavity Disease),0.9991,False,Proceed with Guardrails,/drugs/xylometazoline/

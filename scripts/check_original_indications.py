@@ -6,13 +6,16 @@
   (b) 其他藥的許可證適應症。
 某詞組在 (a) 找不到、卻在 (b) 找得到，就是「只出現在不屬於本藥的許可證」的詞組。
 一頁有這種詞組且占該列詞組一半以上，就寫進 docs/_data/drug_reviews_uncertain.json
-（source＝原適應症交叉驗證；每次執行整批替換這個 source 的項目），交人工判讀。
+（batch＝原適應症交叉驗證），交人工判讀。
+2026-11-25（第七輪，用戶決定）：不再整批替換——已標 resolved／unresolvable 的項目原樣保留；
+同一頁同一句已查過的不再列；同頁已有 open 項目就更新它；其餘新增（found＝執行日）。不刪項目。
 
 用法：python3 scripts/check_original_indications.py   （需要 data/raw/tw_fda_drugs.json）
 """
 import json
 import re
 import sys
+from datetime import date
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -69,13 +72,29 @@ def main():
                 "claim": m.group(0).strip(),
                 "why": (f"原適應症 {len(ph)} 個詞組中有 {len(foreign_only)} 個在本藥（主成分比對）的 TFDA 許可證適應症裡找不到，"
                         f"卻出現在其他藥的許可證：{ex}。可能取自別藥或複方的適應症，需人工確認。"),
-                "found": "2026-10-03",
+                "found": date.today().isoformat(),
                 "batch": SOURCE,
             })
     doc = json.loads(UNCERTAIN.read_text(encoding="utf-8"))
-    doc["items"] = [i for i in doc["items"] if i.get("batch") != SOURCE] + items
+    old_items = [i for i in doc["items"] if i.get("batch") == SOURCE]
+    done = {(i["file"], i["claim"]) for i in old_items if i.get("status") in ("resolved", "unresolvable")}
+    open_by_file = {i["file"]: i for i in old_items if i.get("status", "open") == "open"}
+    added = updated = skipped = 0
+    for it in items:
+        if (it["file"], it["claim"]) in done:
+            skipped += 1  # 已查過（resolved／unresolvable），不重列
+            continue
+        cur = open_by_file.get(it["file"])
+        if cur:
+            if cur.get("claim") != it["claim"] or cur.get("why") != it["why"]:
+                cur.update(claim=it["claim"], why=it["why"], updated=it["found"])
+                updated += 1
+            continue
+        it["status"] = "open"
+        doc["items"].append(it)
+        added += 1
     UNCERTAIN.write_text(json.dumps(doc, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"原適應症交叉驗證：{len(items)} 頁列入待查")
+    print(f"原適應症交叉驗證：{len(items)} 頁符合條件；新增 {added}、更新 open {updated}、已查過略過 {skipped}")
     for i in items:
         print("  -", i["file"], i["claim"][:80])
 

@@ -561,17 +561,6 @@
     "x": 0
    },
    {
-    "t": "Lactic Acid",
-    "u": "/drugs/lactic-acid/",
-    "l": "L5",
-    "i": "atypical coarctation of aorta",
-    "lt": 264,
-    "lv": 76,
-    "r": 4,
-    "rs": "預測理由稱乳酸有腸道輔助用途",
-    "x": 0
-   },
-   {
     "t": "Threonine",
     "u": "/drugs/threonine/",
     "l": "L5",
@@ -1009,6 +998,17 @@
     "lv": 17,
     "r": 1,
     "rs": "「目前缺乏詳細的作用機轉資料」改為美國仿單節錄",
+    "x": 0
+   },
+   {
+    "t": "Lactic Acid",
+    "u": "/drugs/lactic-acid/",
+    "l": "L5",
+    "i": "atypical coarctation of aorta",
+    "lt": 31,
+    "lv": 16,
+    "r": 4,
+    "rs": "預測理由稱乳酸有腸道輔助用途",
     "x": 0
    },
    {

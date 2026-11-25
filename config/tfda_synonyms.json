@@ -158,9 +158,11 @@
       "patterns": [
         "CIPROFLOXACIN",
         "PRENYLAMINE",
-        "ZINC"
+        "ZINC",
+        "CALCIUM",
+        "SODIUM"
       ],
-      "note": "CIPROFLOXACIN (LACTATE)、PRENYLAMINE (LACTATE)：乳酸根是鹽基，主成分是 ciprofloxacin／prenylamine；2026-10-16 補。2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：ZINC LACTATE（乳酸鋅，口腔保健用的鋅鹽，作用來自鋅）不算 lactic acid"
+      "note": "CIPROFLOXACIN (LACTATE)、PRENYLAMINE (LACTATE)：乳酸根是鹽基，主成分是 ciprofloxacin／prenylamine；2026-10-16 補。2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：ZINC LACTATE（乳酸鋅，口腔保健用的鋅鹽，作用來自鋅）不算 lactic acid。2026-11-25 第七輪補（用戶決定：照排除 zinc lactate 的同一理由）：CALCIUM LACTATE（乳酸鈣，補鈣劑，作用來自鈣）、SODIUM LACTATE（乳酸鈉，含 SOLUTION／ANHYDROUS／L-、S- 寫法，輸液與透析液的鹼化劑與電解質，作用來自鈉與代謝成的碳酸氫根）不算 lactic acid；同一張證另有 LACTIC ACID 成分的照收（licenses_for_drug 只在比對到的成分全部是別的藥時排除）"
     },
     "SODIUM CITRATE": {
       "patterns": [

@@ -382,6 +382,64 @@ def _drop_withdrawn():
     print(f"  Dropped withdrawn predictions: {len(gone)}")
 
 
+def _page_original(text: str) -> str:
+    """藥物頁上的原適應症（2026-11-25 第七輪，用戶決定）：快速總覽「原適應症」格；沒有這格時用 front matter
+    description 的「原適應症：…」；都沒有（已知用途頁）就是空字串。查核紀錄更正過的原適應症在頁面上已套用，
+    所以讀頁面就跟頁面一致；以前取自證據包 drug.original_indications（10-03 前的舊收錄，常是別的藥的適應症）。"""
+    import re as _re
+    m = _re.search(r"^\|\s*原適應症\s*\|(.*)\|\s*$", text, _re.M)
+    if m:
+        val = m.group(1)
+    else:
+        fm = text.split("\n---", 1)[0] if text.startswith("---") else ""
+        m = _re.search(r'^description:\s*"?(.*?)"?\s*$', fm, _re.M)
+        m2 = _re.search(r"原適應症[：:]\s*(.+)$", m.group(1)) if m else None
+        val = m2.group(1) if m2 else ""
+    val = _re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", val)
+    val = _re.sub(r"</?[A-Za-z][^>]*>", " ", val).replace("**", "")
+    val = _re.sub(r"\s+", " ", val).strip()
+    return val[:50] + "..." if len(val) > 50 else val
+
+
+def _sync_originals_from_pages():
+    """drugs[].original 與 indications[].drugs[].original 一律改成藥物頁上的原適應症（見 _page_original）。
+    沒有 bundle 也能跑（--levels-from-pages 時同樣執行）；頁面不存在的藥不動。"""
+    import json as _json
+    from pathlib import Path as _Path
+
+    idx_path = _Path("docs/data/search-index.json")
+    drugs_dir = _Path("docs/_drugs")
+    if not idx_path.exists():
+        return
+    raw = idx_path.read_text(encoding="utf-8")
+    idx = _json.loads(raw)
+    cache = {}
+
+    def orig(slug):
+        if slug not in cache:
+            page = drugs_dir / f"{slug}.md"
+            cache[slug] = _page_original(page.read_text(encoding="utf-8")) if page.exists() else None
+        return cache[slug]
+
+    changed = 0
+    for d in idx.get("drugs", []):
+        o = orig(d.get("slug"))
+        if o is not None and d.get("original") != o:
+            d["original"] = o
+            changed += 1
+    for ind in idx.get("indications") or []:
+        for r in ind.get("drugs") or []:
+            o = orig(r.get("slug"))
+            if o is not None and "original" in r and r["original"] != o:
+                r["original"] = o
+                changed += 1
+    compact = "\n" not in raw.strip()
+    out = (_json.dumps(idx, ensure_ascii=False, separators=(",", ":")) if compact
+           else _json.dumps(idx, ensure_ascii=False, indent=2))
+    idx_path.write_text(out, encoding="utf-8")
+    print(f"  Synced original indications from pages: {changed} changed")
+
+
 _main_before_prune = main
 
 
@@ -392,6 +450,7 @@ def main():
         _prune_search_index()
     _drop_withdrawn()
     _sync_levels_from_pages()
+    _sync_originals_from_pages()
 
 
 if __name__ == "__main__":

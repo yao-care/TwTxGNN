@@ -120,7 +120,9 @@ def main():
         for r in by_file.get(p.name, []):
             # 2026-10-16：所有已套用的更正都先還原成原句（不只 superseded），後處理只改 LLM 原文，
             # 改寫完再由 apply_drug_reviews 重套；否則張數改寫會改到更正後的句子（ergometrine 事件）
-            if r["action"] == "correct" and r.get("status") != "resolved_by_regeneration" \
+            # 2026-11-25（第七輪）：resolved_by_program 的更正已寫進頁面本文、apply 不再重套，不能還原成原句
+            # （11-23 重產時 sodium_carbonate 的原適應症列與一句話總結因此被改回 10-28 前的錯句）
+            if r["action"] == "correct" and r.get("status") not in ("resolved_by_regeneration", A.RESOLVED_PROGRAM) \
                     and r["replacement"] in base and r["claim"] not in base:
                 base = base.replace(r["replacement"], r["claim"], 1)
         new, bad = postprocess_with_licenses(base, title, lics, args.data_date, slug=p.stem)

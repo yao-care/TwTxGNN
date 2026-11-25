@@ -1058,3 +1058,14 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
   證據包：`scripts/exclude_mismatched_records.py` 依新快照從 13 個證據包移出 1,616 筆（guaifenesin、thiamine 衍生物等），第二次跑 0 筆；證據包 local_regulatory 重算 12 個（refresh_pack_regulatory），經 data-overlay 推進 Release。
 - 驗證：regenerate_tfda_tables.py 再跑 0 頁；apply --check 0；gate exit 0；checker（還原 bundles 後）M1 37→0，P 類前後相同（P1 63、P2 10、P3 18、P6 10、P7 60，跟許可證無關）。
 - 沒處理（回報待決定）：calcium lactate（70 張）、sodium lactate 照原規則仍算 lactic acid；inositol 有 2 張已註銷許可證品名「六菸/肌醇」「六菸　肌醇」（inositol hexanicotinate）主成分欄卻登載 INOSITOL，依主成分照收；search-index.json 的 original 取自證據包 drug.original_indications（guaiacol、scopolamine、inositol、PEG 等仍是別的藥的適應症），沒有跟頁面更正，要整份重產或另訂規則。
+
+## 第七輪：乳酸鈉／乳酸鈣排除、search-index 原適應症讀頁面、交叉驗證不覆蓋已查項目（2026-11-25）
+
+用戶 2026-11-25 決定（第七輪第 3 條）：
+- (a) `config/tfda_synonyms.json` 的 LACTIC ACID exclude 照排除 zinc lactate 的同一理由加 CALCIUM、SODIUM（乳酸鈣是補鈣劑、乳酸鈉是輸液與透析液的鹼化劑與電解質，作用不是來自乳酸；SOLUTION／ANHYDROUS／L-、S- 寫法一併排除；同一張證另有 LACTIC ACID 成分的照收）。`regenerate_tfda_tables.py --data-date 2026-11-24`：lactic_acid 程式表 264→31 張（有效單方 9 張全為外用洗潔液、有效複方 7 張、已過期 1、已註銷 14），其他頁不變。
+  查核紀錄說明寫「有效單方除 1 張乳酸鈉原料藥溶液（衛部藥輸字第027230號）外都是外用液劑」「含乳酸鹽的口服錠只有鈣補充劑（006734、007474）」的 2 筆（`lactic-acid-summary-oral-uses-2026-10-03`、`lactic-acid-why-oral-premise-2026-10-03`）同 id 重發（前版存 history），不再點名已不屬本藥的字號；正文其他句子跟新表一致。證據包 tfda 區塊由每週排程的 exclude_mismatched_records.py 依新快照移出（這次沒還原 bundles）。
+- 順帶修 `scripts/regenerate_tfda_tables.py`：重產前「已套用的更正先還原成原句」也還原了 resolved_by_program 的更正（這種更正已寫進本文、apply 不重套），11-23 重產時 sodium_carbonate 的原適應症列與一句話總結被改回 10-28 前的錯句（「取自單方且仍有效的許可證，其適應症為抗生素」）；改成跳過 resolved_by_program，頁面兩句照紀錄還原，再跑重產 0 頁。全站 resolved_by_program 更正只有這 2 句被改回。
+- (b) `scripts/generate_search_index.py` 加 `_sync_originals_from_pages()`（`--levels-from-pages` 與完整重產都跑）：drugs[].original 與 indications[].drugs[].original 改成藥物頁上的原適應症（快速總覽「原適應症」格；沒有就 description 的「原適應症：…」；都沒有＝空字串，SMART 顯示「—」），照舊截 50 字。以前取自證據包 drug.original_indications（10-03 前舊收錄，常是別的藥，例 axitinib 寫成 avelumab 的默克細胞癌、guaiacol 寫成 guaifenesin 的鎮咳袪痰、scopolamine 寫成 butylscopolamine 的胃腸痙攣、PEG 寫成 Mircera 的腎性貧血）。292 個藥 270 個改變；已知用途頁沒有原適應症格的 5 頁（aluminum_hydroxide、dl-alpha-tocopherol、emedastine、norethindrone_enanthate、silicon_dioxide）改成空字串。inositol 照頁面是「末梢血管循環障礙」（第六輪已加註，原文保留）。
+- (c) `scripts/generate_data_exports.py` 重跑：drugs.json／drugs.csv 原本空白的 5 筆（etanercept、lorcaserin、niraparib、sorafenib、vonoprazan）補上頁面原適應症；第 6 筆 sodium_carbonate 是頁面被 11-23 重產改錯，頁面還原後跟匯出一致。另寫一支比對（search-index original 對 drugs.json 全格）0 筆不符。
+- (d) `scripts/check_original_indications.py` 不再整批替換：resolved／unresolvable 原樣保留、同頁同句已查過的不重列、同頁已有 open 就更新、其餘新增（found＝執行日），不刪項目。這次跑出 7 頁：inositol、salicylic_acid 已有加註紀錄，標 resolved 附 record_ids；enfortumab_vedotin、erdafitinib、polyethylene_glycol_400、potassium_iodide、vitamin_e 5 項 open 待人工判讀；第二次跑新增 0。舊版會把既有 15 筆 resolved 換掉。
+- 驗證：regenerate 再跑 0 頁、問題 0；apply --check 0；gate exit 0；母目錄 checker M 類 0（本機沒還原 bundles，P1 292 跟許可證無關）。
