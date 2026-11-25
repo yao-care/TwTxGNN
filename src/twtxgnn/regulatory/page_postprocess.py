@@ -188,10 +188,29 @@ def replace_tfda(text: str, display_name: str, lics: list[dict], data_date: str)
     return re.sub(r"\n{3,}", "\n\n", text)
 
 
+# 快速總覽「台灣上市」列（2026-11-25 第六輪起程式維護）：2026-10-20 母目錄 rewrite_market_status 把這一列統一成
+# 「上市中（有效許可證 V 張／共 N 張）」「未上市（已註銷許可證 N 張／共 N 張）」，之後沒有程式跟著快照更新，
+# 許可證表程式改版（例：排除 guaifenesin 之於 guaiacol）或資料集更新後就跟「許可證數」列不一致（11-25 量到 37 頁）。
+# 只改已是這兩種寫法的列（其他人工寫法不動）；寫法同母目錄 check_drug_page.py M1 的 Tw 狀態列。
+MARKET_ROW_RE = re.compile(r"^(\|\s*台灣上市(?:狀態)?\s*\|)\s*(?:上市中（有效許可證 \d+ 張／共 \d+ 張）|未上市（已註銷許可證 \d+ 張／共 \d+ 張）)\s*(\|)", re.M)
+
+
+def market_text(s: dict) -> str | None:
+    if s["total"] == 0:
+        return None
+    if s["valid"]:
+        return f"上市中（有效許可證 {s['valid']} 張／共 {s['total']} 張）"
+    return f"未上市（已註銷許可證 {s['total']} 張／共 {s['total']} 張）"
+
+
 def _count_row(text: str, s: dict) -> str:
-    """快速總覽的「許可證數」列改成程式算的張數與分類。"""
-    return re.sub(r"^(\|\s*許可證數\s*\|)[^|\n]*(\|)", lambda m: f"{m.group(1)} {T.count_text(s)} {m.group(2)}",
+    """快速總覽的「許可證數」列改成程式算的張數與分類；「台灣上市」列（標準寫法者）跟著同一份張數。"""
+    text = re.sub(r"^(\|\s*許可證數\s*\|)[^|\n]*(\|)", lambda m: f"{m.group(1)} {T.count_text(s)} {m.group(2)}",
                   text, flags=re.M)
+    mt = market_text(s)
+    if mt:
+        text = MARKET_ROW_RE.sub(lambda m: f"{m.group(1)} {mt} {m.group(2)}", text)
+    return text
 
 
 def postprocess_with_licenses(text: str, display_name: str, lics: list[dict], data_date: str,

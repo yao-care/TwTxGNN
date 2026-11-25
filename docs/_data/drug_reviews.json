@@ -7929,19 +7929,31 @@
    "id": "scopolamine-butylscopolamine-licenses-2026-10-03",
    "drug": "scopolamine",
    "file": "scopolamine.md",
-   "checked": "2026-10-03",
-   "action": "annotate",
+   "checked": "2026-11-25",
+   "action": "correct",
    "section": "快速總覽「原適應症」",
-   "summary": "「原適應症」取自丁基東莨菪鹼許可證",
+   "summary": "「原適應症」取自丁基東莨菪鹼許可證，改為 scopolamine 本身的許可證適應症",
    "claim": "| 原適應症 | 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 |",
-   "finding": "這一列適應症原文取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine bromide，scopolamine 的四級銨衍生物），與 scopolamine 是不同藥品。不過 scopolamine 本身也有類似適應症的許可證：衛署藥製字第007944號「福元」得達息糖衣錠（scopolamine HBr，有效，胃十二指腸潰瘍、胃炎、膽管尿路痙攣）、衛署藥製字第005612號百痛賜安糖衣錠（scopolamine HBr，2024-05-25 已過期）；另衛署藥製字第044712號暈得寧貼片核准動暈症。",
-   "note": "這一列適應症原文取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine bromide，scopolamine 的四級銨衍生物），與 scopolamine 是不同藥品。不過 scopolamine 本身也有類似適應症的許可證：衛署藥製字第007944號「福元」得達息糖衣錠（scopolamine HBr，有效，胃十二指腸潰瘍、胃炎、膽管尿路痙攣）、衛署藥製字第005612號百痛賜安糖衣錠（scopolamine HBr，2024-05-25 已過期）；另衛署藥製字第044712號暈得寧貼片核准動暈症。原文保留。",
+   "finding": "這一列適應症原文取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine bromide／hyoscine-N-butylbromide），即 scopolamine 的四級銨衍生物，與 scopolamine 是不同藥品。2026-11-25 起程式化許可證表已排除 butylscopolamine 與 methscopolamine；scopolamine 本身現行有效的單方許可證只有衛署藥製字第007944號「福元」得達息糖衣錠（SCOPOLAMINE HBR），適應症「胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣」；衛署藥製字第005612號百痛賜安糖衣錠（同適應症）2024-05-25 已過期，衛署藥製字第044712號暈得寧防暈貼片（動暈症）2026-11-20 已過期。",
+   "note": "原文取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine，scopolamine 的四級銨衍生物），是另一個藥；改為 scopolamine 本身現行有效單方許可證衛署藥製字第007944號「福元」得達息糖衣錠（SCOPOLAMINE HBR）的核准適應症。",
    "sources": [
     {
-     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
      "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
-     "excerpt": "許可證字號 內衛藥製字第000509號｜中文品名 保賜康膠囊｜主成分略述 BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE)｜狀態 有效（至 2029/06/30）｜適應症 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 ／ 許可證字號 衛署藥製字第007944號｜中文品名 \"福元\" 得達息糖衣錠１０毫克｜主成分略述 SCOPOLAMINE HBR｜狀態 有效（至 2029/05/25）｜適應症 胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣 ／ 許可證字號 衛署藥製字第005612號｜中文品名 百痛賜安糖衣錠｜主成分略述 SCOPOLAMINE HBR｜狀態 已過期（有效日期 2024/05/25）｜適應症 胃、十二指腸潰瘍、胃、十二指腸炎、膽管、尿路之痙攣 ／ 許可證字號 衛署藥製字第044712號｜中文品名 暈得寧防暈貼片劑1.5毫克(東茛菪儉)｜主成分略述 SCOPOLAMINE｜狀態 有效（至 2026/11/20）｜適應症 預防或緩解動暈症(暈車、暈船、暈機)引起之頭暈、噁心、嘔吐、頭痛等症狀。",
-     "accessed": "2026-10-16"
+     "excerpt": "許可證字號 內衛藥製字第000509號｜中文品名 保賜康膠囊｜主成分略述 BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE)｜狀態 有效（至 2029/06/30）｜適應症 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 ／ 許可證字號 衛署藥製字第007944號｜中文品名 \"福元\" 得達息糖衣錠１０毫克｜主成分略述 SCOPOLAMINE HBR｜狀態 有效（至 2029/05/25）｜適應症 胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣 ／ 許可證字號 衛署藥製字第005612號｜中文品名 百痛賜安糖衣錠｜主成分略述 SCOPOLAMINE HBR｜狀態 已過期（有效日期 2024/05/25）｜適應症 胃、十二指腸潰瘍、胃、十二指腸炎、膽管、尿路之痙攣 ／ 許可證字號 衛署藥製字第044712號｜中文品名 暈得寧防暈貼片劑1.5毫克(東茛菪儉)｜主成分略述 SCOPOLAMINE｜狀態 已過期（有效日期 2026/11/20）｜適應症 預防或緩解動暈症(暈車、暈船、暈機)引起之頭暈、噁心、嘔吐、頭痛等症狀。",
+     "accessed": "2026-11-25"
+    },
+    {
+     "title": "NLM MeSH：Butylscopolammonium Bromide（D002086）",
+     "url": "https://meshb.nlm.nih.gov/record/ui?ui=D002086",
+     "excerpt": "Antimuscarinic quaternary ammonium derivative of scopolamine used to treat cramps in gastrointestinal, urinary, uterine, and biliary tracts, and to facilitate radiologic visualization of the gastrointestinal tract.",
+     "accessed": "2026-10-03"
+    },
+    {
+     "title": "NLM MeSH：Scopolamine（D012601）",
+     "url": "https://meshb.nlm.nih.gov/record/ui?ui=D012601",
+     "excerpt": "Scopolamine and its quaternary derivatives act as antimuscarinics like ATROPINE, but may have more central nervous system effects.",
+     "accessed": "2026-10-03"
     }
    ],
    "history": [
@@ -8111,9 +8123,32 @@
      "retired": "2026-10-16",
      "reason": "2026-10-16 pm 驗收：claim 欄改為目前錨點句（原句已不在新報告）",
      "reanchored": false
+    },
+    {
+     "id": "scopolamine-butylscopolamine-licenses-2026-10-03",
+     "drug": "scopolamine",
+     "file": "scopolamine.md",
+     "checked": "2026-10-03",
+     "action": "annotate",
+     "section": "快速總覽「原適應症」",
+     "summary": "「原適應症」取自丁基東莨菪鹼許可證",
+     "claim": "| 原適應症 | 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 |",
+     "finding": "這一列適應症原文取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine bromide，scopolamine 的四級銨衍生物），與 scopolamine 是不同藥品。不過 scopolamine 本身也有類似適應症的許可證：衛署藥製字第007944號「福元」得達息糖衣錠（scopolamine HBr，有效，胃十二指腸潰瘍、胃炎、膽管尿路痙攣）、衛署藥製字第005612號百痛賜安糖衣錠（scopolamine HBr，2024-05-25 已過期）；另衛署藥製字第044712號暈得寧貼片核准動暈症。",
+     "note": "這一列適應症原文取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine bromide，scopolamine 的四級銨衍生物），與 scopolamine 是不同藥品。不過 scopolamine 本身也有類似適應症的許可證：衛署藥製字第007944號「福元」得達息糖衣錠（scopolamine HBr，有效，胃十二指腸潰瘍、胃炎、膽管尿路痙攣）、衛署藥製字第005612號百痛賜安糖衣錠（scopolamine HBr，2024-05-25 已過期）；另衛署藥製字第044712號暈得寧貼片核准動暈症。原文保留。",
+     "sources": [
+      {
+       "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）",
+       "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+       "excerpt": "許可證字號 內衛藥製字第000509號｜中文品名 保賜康膠囊｜主成分略述 BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE)｜狀態 有效（至 2029/06/30）｜適應症 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 ／ 許可證字號 衛署藥製字第007944號｜中文品名 \"福元\" 得達息糖衣錠１０毫克｜主成分略述 SCOPOLAMINE HBR｜狀態 有效（至 2029/05/25）｜適應症 胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣 ／ 許可證字號 衛署藥製字第005612號｜中文品名 百痛賜安糖衣錠｜主成分略述 SCOPOLAMINE HBR｜狀態 已過期（有效日期 2024/05/25）｜適應症 胃、十二指腸潰瘍、胃、十二指腸炎、膽管、尿路之痙攣 ／ 許可證字號 衛署藥製字第044712號｜中文品名 暈得寧防暈貼片劑1.5毫克(東茛菪儉)｜主成分略述 SCOPOLAMINE｜狀態 有效（至 2026/11/20）｜適應症 預防或緩解動暈症(暈車、暈船、暈機)引起之頭暈、噁心、嘔吐、頭痛等症狀。",
+       "accessed": "2026-10-16"
+      }
+     ],
+     "anchor": "| 原適應症 | 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 |",
+     "retired": "2026-11-25",
+     "reason": "2026-11-25 第六輪（用戶決定）：程式化許可證表排除 butylscopolamine／methscopolamine 後，這一列取自別的藥，改為照 scopolamine 本身的許可證更正（前版是加註）"
     }
    ],
-   "anchor": "| 原適應症 | 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 |"
+   "replacement": "| 原適應症 | 胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣 |"
   },
   {
    "id": "silicon_dioxide-mecysteine-combo-row-2026-10-03",
@@ -33059,6 +33094,197 @@
      "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
      "retired": "2026-11-20",
      "reason": "同頁已有同一段節錄（較上方那筆），重複引用改成指向上方節錄的一句"
+    }
+   ]
+  },
+  {
+   "id": "guaiacol-guaifenesin-summary-2026-11-25",
+   "drug": "guaiacol",
+   "file": "guaiacol.md",
+   "checked": "2026-11-25",
+   "action": "correct",
+   "section": "一句話總結",
+   "summary": "「台灣常見品名如清痰片」「多種感冒、咳嗽複方的成分」其實是 guaifenesin",
+   "claim": "Guaiacol（癒創木酚，台灣常見品名如清痰片）原本用於祛痰，也是多種感冒、咳嗽複方的成分之一。",
+   "replacement": "Guaiacol（癒創木酚）原本用於祛痰；台灣主成分為 guaiacol 本身的許可證都已註銷。",
+   "finding": "清痰片（內衛藥製字第001007號「清痰片」等，主成分 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)，即 guaifenesin（甘油愈創木酯））與含 GUAIACOL GLYCERYL ETHER／GUAIACOL GLYCOLATE 的感冒、咳嗽複方，主成分都是 guaifenesin，不是 guaiacol。guaifenesin（甘油愈創木酯）與 potassium guaiacolsulfonate（愈創木酚磺酸鉀）的許可證主成分欄以「GUAIACOL」開頭（GUAIACOL GLYCERYL ETHER、GUAIACOL GLYCOLATE、GUAIACOL POTASSIUM SULPHONATE），2026-11-25 前被算成本藥；它們是另一個藥，現已排除。主成分就是 guaiacol 本身的許可證（如衛署藥輸字第000317號、第005017號、第020163號「癒創木酚」原料藥，適應症「袪痰劑」；內衛藥輸字第001400號「果舒」注射劑；口含錠「華達錠」「樺達錠」等）全部已註銷。",
+   "note": "清痰片（內衛藥製字第001007號「清痰片」等，主成分 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)，即 guaifenesin（甘油愈創木酯））與常見的感冒、咳嗽複方所含的都是 guaifenesin，是另一個藥；主成分為 guaiacol 本身的許可證（原料藥、注射劑、口含錠）在 TFDA 資料集中都已註銷。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第001007號｜中文品名 清痰片｜主成分略述 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)｜狀態 有效（至 2029/05/25）｜適應症 袪痰（支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰）。 ／ 許可證字號 衛署藥製字第041334號｜中文品名 感克嗽-益液｜主成分略述 NOSCAPINE HCL;;DL-CHLORPHENIRAMINE MALEATE;;GUAIACOL GLYCOLATE (EQ TO GLYCERYL GUAIACOLATE)｜狀態 有效（至 2027/05/30）｜適應症 緩解感冒之各種症狀（咳嗽，喀痰，鼻塞，流鼻水，打噴嚏） ／ 許可證字號 衛署藥輸字第000317號｜中文品名 癒創木酚｜主成分略述 GUAIACOL｜狀態 已註銷｜適應症 袪痰劑 ／ 許可證字號 內衛藥輸字第001400號｜中文品名 果舒｜主成分略述 GUAIACOL｜狀態 已註銷｜適應症 袪痰、潤喉（緩解諸如：支氣管炎及肺炎所致之喀痰症狀",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "guaiacol-original-indication-2026-11-25",
+   "drug": "guaiacol",
+   "file": "guaiacol.md",
+   "checked": "2026-11-25",
+   "action": "correct",
+   "section": "快速總覽「原適應症」",
+   "summary": "「原適應症」括號內文字取自 guaifenesin 許可證",
+   "claim": "| 原適應症 | 袪痰（支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰） |",
+   "replacement": "| 原適應症 | 袪痰（guaiacol 本身的許可證核准適應症；這些許可證均已註銷） |",
+   "finding": "括號內「支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰」是內衛藥製字第001007號「清痰片」等，主成分 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)，即 guaifenesin（甘油愈創木酯）的適應症原文。guaifenesin（甘油愈創木酯）與 potassium guaiacolsulfonate（愈創木酚磺酸鉀）的許可證主成分欄以「GUAIACOL」開頭（GUAIACOL GLYCERYL ETHER、GUAIACOL GLYCOLATE、GUAIACOL POTASSIUM SULPHONATE），2026-11-25 前被算成本藥；它們是另一個藥，現已排除。主成分就是 guaiacol 本身的許可證（如衛署藥輸字第000317號、第005017號、第020163號「癒創木酚」原料藥，適應症「袪痰劑」；內衛藥輸字第001400號「果舒」注射劑；口含錠「華達錠」「樺達錠」等）全部已註銷。",
+   "note": "原文括號內的適應症取自內衛藥製字第001007號「清痰片」等，主成分 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)，即 guaifenesin（甘油愈創木酯），是另一個藥；guaiacol 本身的許可證核准「袪痰劑」「袪痰、潤喉」，都已註銷。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第001007號｜中文品名 清痰片｜主成分略述 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)｜狀態 有效（至 2029/05/25）｜適應症 袪痰（支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰）。 ／ 許可證字號 衛署藥輸字第000317號｜中文品名 癒創木酚｜主成分略述 GUAIACOL｜狀態 已註銷｜適應症 袪痰劑 ／ 許可證字號 內衛藥輸字第001400號｜中文品名 果舒｜主成分略述 GUAIACOL｜狀態 已註銷｜適應症 袪痰、潤喉（緩解諸如：支氣管炎及肺炎所致之喀痰症狀",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "guaiacol-description-original-indication-2026-11-25",
+   "drug": "guaiacol",
+   "file": "guaiacol.md",
+   "checked": "2026-11-25",
+   "action": "correct",
+   "field": "description",
+   "section": "頁面描述（description）",
+   "summary": "description 的原適應症取自 guaifenesin 許可證",
+   "claim": "原適應症：袪痰（支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰）",
+   "replacement": "原適應症：袪痰（guaiacol 本身的許可證均已註銷）",
+   "finding": "description 裡的原適應症文字是內衛藥製字第001007號「清痰片」等，主成分 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)，即 guaifenesin（甘油愈創木酯）的適應症原文。guaifenesin（甘油愈創木酯）與 potassium guaiacolsulfonate（愈創木酚磺酸鉀）的許可證主成分欄以「GUAIACOL」開頭（GUAIACOL GLYCERYL ETHER、GUAIACOL GLYCOLATE、GUAIACOL POTASSIUM SULPHONATE），2026-11-25 前被算成本藥；它們是另一個藥，現已排除。主成分就是 guaiacol 本身的許可證（如衛署藥輸字第000317號、第005017號、第020163號「癒創木酚」原料藥，適應症「袪痰劑」；內衛藥輸字第001400號「果舒」注射劑；口含錠「華達錠」「樺達錠」等）全部已註銷。",
+   "note": "頁面描述（description）裡的原適應症原取自 guaifenesin 許可證，改成 guaiacol 本身的許可證內容。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第001007號｜中文品名 清痰片｜主成分略述 GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)｜狀態 有效（至 2029/05/25）｜適應症 袪痰（支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰）。 ／ 許可證字號 衛署藥輸字第000317號｜中文品名 癒創木酚｜主成分略述 GUAIACOL｜狀態 已註銷｜適應症 袪痰劑",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "guaiacol-why-combo-nasal-2026-11-25",
+   "drug": "guaiacol",
+   "file": "guaiacol.md",
+   "checked": "2026-11-25",
+   "action": "annotate",
+   "section": "為什麼這個預測合理？",
+   "summary": "推論所引的感冒複方（鼻塞、流鼻水）主成分是 guaifenesin",
+   "claim": "複方許可證的核准適應症中，包含鼻塞、流鼻水、打噴嚏等鼻部症狀。",
+   "anchor": "複方許可證的核准適應症中，包含鼻塞、流鼻水、打噴嚏等鼻部症狀。",
+   "finding": "核准適應症寫鼻塞、流鼻水、打噴嚏的有效複方（如衛署藥製字第041334號「感克嗽-益液」、衛署藥製字第036954號〝正和〞止咳糖漿），所含的成分是 GUAIACOL GLYCOLATE／GUAIACOL GLYCERYL ETHER，即 guaifenesin；主成分為 guaiacol 本身的複方（金達錠、華達錠、美好口含錠、複方帕勒托液等）都已註銷，適應症是咳嗽、喉痛、口臭與喀痰。guaifenesin（甘油愈創木酯）與 potassium guaiacolsulfonate（愈創木酚磺酸鉀）的許可證主成分欄以「GUAIACOL」開頭（GUAIACOL GLYCERYL ETHER、GUAIACOL GLYCOLATE、GUAIACOL POTASSIUM SULPHONATE），2026-11-25 前被算成本藥；它們是另一個藥，現已排除。主成分就是 guaiacol 本身的許可證（如衛署藥輸字第000317號、第005017號、第020163號「癒創木酚」原料藥，適應症「袪痰劑」；內衛藥輸字第001400號「果舒」注射劑；口含錠「華達錠」「樺達錠」等）全部已註銷。",
+   "note": "上兩段所說的感冒咳嗽複方、以及核准適應症含鼻塞、流鼻水、打噴嚏的複方，所含的是 guaifenesin（甘油愈創木酯，另一個藥），不是 guaiacol；主成分為 guaiacol 本身的複方都已註銷，適應症是咳嗽、喉痛、口臭與喀痰。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第041334號｜中文品名 感克嗽-益液｜主成分略述 NOSCAPINE HCL;;DL-CHLORPHENIRAMINE MALEATE;;GUAIACOL GLYCOLATE (EQ TO GLYCERYL GUAIACOLATE)｜狀態 有效（至 2027/05/30）｜適應症 緩解感冒之各種症狀（咳嗽，喀痰，鼻塞，流鼻水，打噴嚏） ／ 許可證字號 衛署藥製字第036954號｜中文品名 〝正和〞止咳糖漿｜主成分略述 CHLORPHENIRAMINE MALEATE;;GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN);;CODEINE PHOSPHATE;;CAFFEINE ANHYDROUS｜狀態 有效（至 2028/11/23）｜適應症 緩解感冒之各種症狀（咳嗽、喀痰、流鼻水、鼻塞、打噴嚏）。 ／ 許可證字號 衛署藥輸字第017828號｜中文品名 華達錠｜主成分略述 GUAIACOL;;THYMOL;;TERPINEOL;;MENTHOL;;EUCALYPTOL (CINEOLE)｜狀態 已註銷｜適應症 咳嗽、喉嚨痛等症狀的緩解",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "guaiacol-decision-premise-2026-11-25",
+   "drug": "guaiacol",
+   "file": "guaiacol.md",
+   "checked": "2026-11-25",
+   "action": "annotate",
+   "section": "結論與下一步（理由）",
+   "summary": "決策理由所說的鼻部症狀複方是 guaifenesin 複方",
+   "claim": "台灣核准的鼻部症狀適應症都來自複方，無法代表 Guaiacol 單一成分的效果。",
+   "anchor": "台灣核准的鼻部症狀適應症都來自複方，無法代表 Guaiacol 單一成分的效果。",
+   "finding": "同上：核准鼻部症狀的複方所含的是 guaifenesin；台灣主成分為 guaiacol 本身的許可證都已註銷，沒有核准鼻部症狀的 guaiacol 許可證。",
+   "note": "這裡所說核准鼻部症狀的複方，所含的是 guaifenesin（另一個藥），不是 guaiacol；台灣主成分為 guaiacol 本身的許可證都已註銷。決策與證據等級未改。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 衛署藥製字第041334號｜中文品名 感克嗽-益液｜主成分略述 NOSCAPINE HCL;;DL-CHLORPHENIRAMINE MALEATE;;GUAIACOL GLYCOLATE (EQ TO GLYCERYL GUAIACOLATE)｜狀態 有效（至 2027/05/30）｜適應症 緩解感冒之各種症狀（咳嗽，喀痰，鼻塞，流鼻水，打噴嚏） ／ 許可證字號 衛署藥製字第036954號｜中文品名 〝正和〞止咳糖漿｜主成分略述 CHLORPHENIRAMINE MALEATE;;GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN);;CODEINE PHOSPHATE;;CAFFEINE ANHYDROUS｜狀態 有效（至 2028/11/23）｜適應症 緩解感冒之各種症狀（咳嗽、喀痰、流鼻水、鼻塞、打噴嚏）。",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "scopolamine-description-original-indication-2026-11-25",
+   "drug": "scopolamine",
+   "file": "scopolamine.md",
+   "checked": "2026-11-25",
+   "action": "correct",
+   "field": "description",
+   "section": "頁面描述（description）",
+   "summary": "description 的原適應症取自丁基東莨菪鹼許可證",
+   "claim": "原適應症：胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿…",
+   "replacement": "原適應症：胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣",
+   "finding": "這一列適應症原文取自內衛藥製字第000509號「保賜康膠囊」，主成分是丁基東莨菪鹼（butylscopolamine bromide／hyoscine-N-butylbromide），即 scopolamine 的四級銨衍生物，與 scopolamine 是不同藥品。2026-11-25 起程式化許可證表已排除 butylscopolamine 與 methscopolamine；scopolamine 本身現行有效的單方許可證只有衛署藥製字第007944號「福元」得達息糖衣錠（SCOPOLAMINE HBR），適應症「胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣」；衛署藥製字第005612號百痛賜安糖衣錠（同適應症）2024-05-25 已過期，衛署藥製字第044712號暈得寧防暈貼片（動暈症）2026-11-20 已過期。",
+   "note": "頁面描述（description）裡的原適應症原取自丁基東莨菪鹼（butylscopolamine）許可證，改成 scopolamine 本身現行有效單方許可證的核准適應症。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第000509號｜中文品名 保賜康膠囊｜主成分略述 BUTYLSCOPOLAMINE BROMIDE (EQ TO HYOSCINE-N-BUTYLBROMIDE)｜狀態 有效（至 2029/06/30）｜適應症 胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛 ／ 許可證字號 衛署藥製字第007944號｜中文品名 \"福元\" 得達息糖衣錠１０毫克｜主成分略述 SCOPOLAMINE HBR｜狀態 有效（至 2029/05/25）｜適應症 胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "inositol-original-indication-nicotinate-2026-11-25",
+   "drug": "inositol",
+   "file": "inositol.md",
+   "checked": "2026-11-25",
+   "action": "annotate",
+   "section": "快速總覽「原適應症」",
+   "summary": "「原適應症」多見於肌醇菸鹼酸酯許可證",
+   "claim": "| 原適應症 | 末梢血管循環障礙 |",
+   "anchor": "| 原適應症 | 末梢血管循環障礙 |",
+   "finding": "「末梢血管循環障礙」原本多見於肌醇菸鹼酸酯（inositol nicotinate，主成分 INOSITOL NIACINATE）的許可證，如內衛藥製字第000394號\"強生\"血管淨錠、第004963號血氣新錠（有效）；2026-11-25 起程式化許可證表已把它們排除。主成分登載為肌醇本身（INOSITOL (MESO-INOSITOL)）的有效單方許可證只有 2 張：內衛藥製字第000007號血順錠（適應症原文「未梢血管循環障礙」）與衛署藥輸字第006420號\"築野\"肌醇（趨脂劑）。",
+   "note": "這一列的適應症原本多見於肌醇菸鹼酸酯（inositol nicotinate）的許可證（如內衛藥製字第000394號\"強生\"血管淨錠），那是另一個藥；主成分登載為肌醇本身的有效單方許可證中，內衛藥製字第000007號血順錠核准末梢血管循環障礙、衛署藥輸字第006420號\"築野\"肌醇核准為趨脂劑。原文保留。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "許可證字號 內衛藥製字第000394號｜中文品名 \"強生\"血管淨錠｜主成分略述 INOSITOL NIACINATE｜狀態 有效（至 2029/05/25）｜適應症 末梢血管循環障礙 ／ 許可證字號 內衛藥製字第000007號｜中文品名 血順錠｜主成分略述 INOSITOL (MESO-INOSITOL)｜狀態 有效（至 2029/06/30）｜適應症 未梢血管循環障礙 ／ 許可證字號 衛署藥輸字第006420號｜中文品名 \"築野\" 肌醇｜主成分略述 INOSITOL (MESO-INOSITOL)｜狀態 有效（至 2029/06/21）｜適應症 趨脂劑",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "camphor-stale-valid-count-2026-11-25",
+   "drug": "camphor",
+   "file": "camphor.md",
+   "checked": "2026-11-25",
+   "action": "correct",
+   "section": "一句話總結",
+   "summary": "「中有 N 張仍有效」是舊資料集的有效張數",
+   "claim": "中有 169 張仍有效；",
+   "replacement": "；",
+   "finding": "同一句前半的張數由程式依 TFDA 資料集重算（有效 170 張），後面 LLM 寫的「中有 169 張仍有效」是舊資料集的數字，兩個有效張數互相矛盾。",
+   "note": "拿掉依舊資料集寫的有效張數；目前張數見本句前半與「許可證數」列。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "依 tfda_licenses.py 主成分比對（snapshots/tfda_licenses.json.gz，資料集檔案日期 2026-11-24），Camphor 的不重複許可證 423 張：有效單方 2、有效複方 168、已過期 10、已註銷 243",
+     "accessed": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "id": "tyrosine-stale-license-count-2026-11-25",
+   "drug": "tyrosine",
+   "file": "tyrosine.md",
+   "checked": "2026-11-25",
+   "action": "correct",
+   "section": "快速總覽備註",
+   "summary": "備註裡的許可證張數是舊資料集的數字",
+   "claim": "本國許可證共 174 張，其中 38 張仍有效，藥品仍在市場上流通。",
+   "replacement": "本國仍有有效許可證（張數見「許可證數」列），藥品仍在市場上流通。",
+   "finding": "備註寫「共 174 張，其中 38 張仍有效」，依 TFDA 資料集（2026-11-24）目前有效 37 張；這句不在程式改寫張數的句型內，資料集更新後不會跟著變。",
+   "note": "原句的有效張數是舊資料集的數字，改成不寫死張數；目前張數見「許可證數」列。",
+   "sources": [
+    {
+     "title": "衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）",
+     "url": "https://data.fda.gov.tw/data/opendata/export/36/json",
+     "excerpt": "依 tfda_licenses.py 主成分比對（snapshots/tfda_licenses.json.gz，資料集檔案日期 2026-11-24），Tyrosine 的不重複許可證 174 張：有效單方 0、有效複方 37、已過期 1、已註銷 136",
+     "accessed": "2026-11-25"
     }
    ]
   }

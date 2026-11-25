@@ -13,20 +13,20 @@
  "licence_snapshot": "tfda_licenses.json.gz",
  "licence": {
   "drugs_with_data": 292,
-  "drugs_with_current": 281,
-  "drugs_none_current": 11,
+  "drugs_with_current": 280,
+  "drugs_none_current": 12,
   "drugs_without_data": 0,
   "drugs_partial": 0,
-  "items_total": 20352,
-  "items_current": 5754
+  "items_total": 18707,
+  "items_current": 5272
  },
  "reviews": {
-  "records": 861,
-  "pages": 283,
-  "public_pages_with_records": 272,
+  "records": 870,
+  "pages": 286,
+  "public_pages_with_records": 275,
   "by_action": {
-   "annotate": 181,
-   "correct": 268,
+   "annotate": 183,
+   "correct": 275,
    "description_level": 43,
    "header_level": 63,
    "mechanism": 214,
@@ -44,19 +44,10 @@
    "t": "Thiamine",
    "u": "/drugs/thiamine/",
    "l": "L5",
-   "lt": 2707,
-   "lv": 465,
+   "lt": 2282,
+   "lv": 388,
    "r": 0,
    "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"
-  },
-  {
-   "t": "Guaiacol",
-   "u": "/drugs/guaiacol/",
-   "l": "L5",
-   "lt": 1080,
-   "lv": 369,
-   "r": 0,
-   "i": "nasal cavity disease"
   },
   {
    "t": "Betamethasone",
@@ -109,8 +100,17 @@
    "l": "L5",
    "lt": 423,
    "lv": 170,
-   "r": 7,
+   "r": 8,
    "i": "偏頭痛"
+  },
+  {
+   "t": "Prednisolone",
+   "u": "/drugs/prednisolone/",
+   "l": "L2",
+   "lt": 442,
+   "lv": 152,
+   "r": 2,
+   "i": "alopecia areata"
   }
  ],
  "no_current": [
@@ -131,6 +131,15 @@
    "lv": 0,
    "r": 6,
    "i": "severe nonproliferative diabetic retinopathy"
+  },
+  {
+   "t": "Guaiacol",
+   "u": "/drugs/guaiacol/",
+   "l": "L5",
+   "lt": 11,
+   "lv": 0,
+   "r": 5,
+   "i": "nasal cavity disease"
   },
   {
    "t": "Interferon Beta-1B",
@@ -282,6 +291,36 @@
  },
  "recent_reviews": [
   {
+   "t": "Tyrosine",
+   "u": "/drugs/tyrosine/",
+   "s": "備註裡的許可證張數是舊資料集的數字",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Scopolamine",
+   "u": "/drugs/scopolamine/",
+   "s": "description 的原適應症取自丁基東莨菪鹼許可證",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Inositol",
+   "u": "/drugs/inositol/",
+   "s": "「原適應症」多見於肌醇菸鹼酸酯許可證",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Guaiacol",
+   "u": "/drugs/guaiacol/",
+   "s": "推論所引的感冒複方（鼻塞、流鼻水）主成分是 guaifenesin",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Camphor",
+   "u": "/drugs/camphor/",
+   "s": "「中有 N 張仍有效」是舊資料集的有效張數",
+   "d": "2026-11-25"
+  },
+  {
    "t": "Oxytetracycline",
    "u": "/drugs/oxytetracycline/",
    "s": "理由寫「目前台灣有效許可證僅 1 張口服膠囊，與外用劑型不符」",
@@ -394,36 +433,6 @@
    "u": "/drugs/riluzole/",
    "s": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)預測重審結果（已核准用途，撤回）",
    "d": "2026-11-03"
-  },
-  {
-   "t": "Prednisone",
-   "u": "/drugs/prednisone/",
-   "s": "tenosynovitis（腱鞘炎）預測重審結果（已核准用途，撤回）",
-   "d": "2026-11-03"
-  },
-  {
-   "t": "Posaconazole",
-   "u": "/drugs/posaconazole/",
-   "s": "頁面描述（description）的證據等級",
-   "d": "2026-11-03"
-  },
-  {
-   "t": "Pitolisant",
-   "u": "/drugs/pitolisant/",
-   "s": "頁面描述（description）的證據等級",
-   "d": "2026-11-03"
-  },
-  {
-   "t": "Perindopril",
-   "u": "/drugs/perindopril/",
-   "s": "頁面描述（description）的證據等級",
-   "d": "2026-11-03"
-  },
-  {
-   "t": "Oteracil",
-   "u": "/drugs/oteracil/",
-   "s": "頁首證據等級",
-   "d": "2026-11-03"
   }
  ],
  "recent_licence_reviews": [
@@ -457,7 +466,7 @@
   },
   "L5": {
    "n": 236,
-   "current": 227
+   "current": 226
   }
  },
  "cross": {

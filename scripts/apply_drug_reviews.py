@@ -26,6 +26,8 @@
             2026-11-03 起：主預測重審撤回（總覽「證據等級」格經 table_updates 換成「撤回…」）的頁，頁首改取
             其他預測表保留的最高等級，沒有就是 N/A（歸 known-uses「僅已知用途／主預測已撤回」）；這類紀錄帶 trigger=withdraw、
             based_on（撤回的 rereview_result id），查核紀錄表列「主預測重審撤回，頁首等級重算（原 Lx→N/A）」。
+  correct＋field: "description"（2026-11-25 起）：只更正 front matter description 那一行（claim→replacement），
+            不顯示框，只列在查核紀錄表（例：原適應症照抄了另一個藥的許可證適應症）。
   description_level  front matter description 的等級跟著頁首（2026-11-03 起，用戶決定）：記 original_description／
             original_level，套用時只把 description 裡「證據等級 Lx」換成目前頁首等級（N/A 頁換成「僅已知用途」），
             其他文字不動（page_format.sync_description_level）。不顯示框，只列在查核紀錄表。
@@ -184,6 +186,20 @@ def apply_record(text, rec, problems):
         elif find_outside(text, rec["replacement"]) < 0:
             problems.append(f"{rid}：頁面上找不到「缺乏作用機轉資料」原句或附出處的作用機轉（頁面可能被重產改寫，需人工重查）")
         return text
+    if act == "correct" and rec.get("field") == "description":
+        # 2026-11-25（第六輪，用戶決定）：front matter description 裡的事實（例：原適應症照抄了別的藥的許可證）。
+        # 只在 description 那一行把 claim 換成 replacement，不插查核框、只列在查核紀錄表；可重複執行。
+        fm_end = text.find("\n---", 3)
+        m = re.search(r"^description:.*$", text[:fm_end if fm_end > 0 else 0], re.M)
+        if not m:
+            problems.append(f"{rid}：頁面沒有 front matter description")
+            return text
+        line = m.group(0)
+        if rec["claim"] in line and rec["replacement"] not in line:
+            text = text[:m.start()] + line.replace(rec["claim"], rec["replacement"], 1) + text[m.end():]
+        elif rec["replacement"] not in line:
+            problems.append(f"{rid}：description 裡找不到原句或更正後文字（頁面可能被重產改寫，需人工重查）")
+        return text
     if act == "correct":
         # 頁面上是原句就換；頁面停在前版更正（同 id 重發）就把前版換成新版
         # 重新定錨（reanchored）的前版是舊報告的句子，不會留在新頁面上，不參與替換；
@@ -236,6 +252,8 @@ def log_md(recs):
         if r["action"] == "description_level":
             act = (f"頁面描述（description）的「證據等級 {r['original_level']}」改為"
                    f"「{F.description_level_text(r['new_level'])}」（依頁首等級；其他文字未改，原文留在紀錄）")
+        if r["action"] == "correct" and r.get("field") == "description":
+            act = f"頁面描述（description）更正：原「{display(r['claim'])}」→「{display(r['replacement'])}」"
         if r.get("history"):
             act += f"（{r['history'][-1]['retired']} 修訂，前版保留於紀錄）"
         if r.get("status") == "superseded":

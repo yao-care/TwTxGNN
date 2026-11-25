@@ -114,7 +114,7 @@ Gemfibrozil,gemfibrozil,L4,9,降血脂劑,類風濕性關節炎 (Rheumatoid Arth
 Glatiramer,glatiramer,L5,1,用於復發型多發性硬化症，以減少復發型多發性硬化症病人的復發頻率,血紅素病變 (Hemoglobinopathy),0.9903,False,Hold,/drugs/glatiramer/
 Glycerin,glycerin,L5,10,緩解便秘,馬尾症候群 (Cauda Equina Syndrome),0.9960,False,Hold,/drugs/glycerin/
 Griseofulvin,griseofulvin,L5,5,甲癬（Onychomycosis）、髮癬（Tinea capitis），不適宜局部外用治療或局部外用無效的皮膚黴菌感染,蠅蛆症 (Myiasis),0.9941,False,Hold,/drugs/griseofulvin/
-Guaiacol,guaiacol,L5,1,袪痰（支氣管炎、感冒、急、慢性喉頭炎、氣管炎等引起之喀痰）,鼻腔疾病 (Nasal Cavity Disease),0.9951,False,Hold,/drugs/guaiacol/
+Guaiacol,guaiacol,L5,1,袪痰（guaiacol 本身的許可證核准適應症；這些許可證均已註銷）,鼻腔疾病 (Nasal Cavity Disease),0.9951,False,Hold,/drugs/guaiacol/
 Guselkumab,guselkumab,L5,8,對傳統或生物製劑治療反應不佳、失去反應或無法耐受的中度至重度活動性潰瘍性結腸炎與克隆氏症成人病人,藥物誘發性骨質疏鬆 (Drug-induced Osteoporosis),0.9984,False,Hold,/drugs/guselkumab/
 Hesperidin,hesperidin,L5,5,四季感冒、發熱、咳嗽、鼻涕、流行性感冒症狀之治療、過敏性鼻炎、氣喘、頭痛、齒痛等; 緩解感冒之各種症狀（咽喉痛、發燒、頭痛、關節痛、肌肉痛、流鼻水、鼻塞、打噴嚏）。; 緩解感冒之各種症狀（咽喉痛、發燒、頭痛、關節痛、肌肉痛、流鼻水、鼻塞、打噴嚏、咳嗽）。; 緩解感冒之各種症狀（流鼻水、鼻塞、打噴嚏、咽喉痛、畏寒、發燒、頭痛、關節痛、肌肉酸痛）。; 鐵缺乏性貧血、惡性貧血及因貧血所引起之貧血症狀之改善; 緩解感冒之各種症狀（咽喉痛、畏寒、發燒、頭痛、關節痛、肌肉酸痛、流鼻水、鼻塞、打噴嚏）。; 感冒諸症狀（畏寒、發燒、頭痛、咳嗽、鼻塞、流鼻水、打噴嚏、咽喉痛、關節痛、肌肉痛等）。; 緩解感冒之各,骨髓增生性腫瘤 (myeloproliferative neoplasm),0.9947,False,Hold,/drugs/hesperidin/
 Hexachlorophene,hexachlorophene,L5,10,外科擦拭用、供皮膚抑菌使用目的之清潔劑,脂漏性角化症 (Seborrheic Keratosis),0.9997,False,Hold,/drugs/hexachlorophene/
@@ -239,7 +239,7 @@ Sacubitril,sacubitril,L5,5,治療慢性心臟衰竭（紐約心臟學會[NYHA]�
 Safinamide,safinamide,L5,3,用於改善以含有 levodopa 製劑治療的帕金森氏症之藥效漸退現象,Rasmussen 亞急性腦炎 (Rasmussen subacute encephalitis),0.9963,False,Hold,/drugs/safinamide/
 Salicylamide,salicylamide,L5,9,鎮痛藥,咽炎 (Pharyngitis),0.9998,False,Hold,/drugs/salicylamide/
 Salicylic Acid,salicylic_acid,L5,9,鎮痛藥、退熱藥、抗風濕藥,乳突狀結膜炎 (Papillary conjunctivitis),0.9988,False,Hold,/drugs/salicylic-acid/
-Scopolamine,scopolamine,L5,6,胃潰瘍、十二指腸潰瘍、胃炎、十二指腸炎、賁門痙攣、食道痙攣、膽囊炎、膽管炎、膽結石、尿路結石、膀胱痙攣、排尿困難及頻尿、分娩時子宮下部弛緩之遲延、切迫流產、痙攣性月經困難等痙攣性疼痛及炎症性疼痛,脊髓馬尾症候群 (Cauda Equina Syndrome),0.9999,False,Hold,/drugs/scopolamine/
+Scopolamine,scopolamine,L5,6,胃、十二指腸潰瘍、胃炎、十二指腸炎、腸疝痛、膽管尿路痙攣,脊髓馬尾症候群 (Cauda Equina Syndrome),0.9999,False,Hold,/drugs/scopolamine/
 Sennosides,sennosides,L5,6,緩解便秘,頭皮單純性毛髮稀疏症 (hypotrichosis simplex of the scalp),0.9929,False,Hold,/drugs/sennosides/
 Silicon Dioxide,silicon_dioxide,N/A,0,,,,False,,/drugs/silicon-dioxide/
 Simoctocog Alfa,simoctocog_alfa,L5,9,治療與預防A型血友病(先天性第八凝血因子缺乏)病人的出血,偽性類血友病 (pseudo-von Willebrand disease),1.0000,False,Hold,/drugs/simoctocog-alfa/

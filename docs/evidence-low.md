@@ -4,7 +4,7 @@ title: 僅模型預測 (L5)
 parent: 藥物報告
 nav_order: 3
 has_children: true
-description: "本站（台灣）證據等級 L5 的 236 個藥品，例如 Thiamine, Guaiacol, Ibuprofen；逐藥列出主要預測新適應症、本地藥品許可證張數與查核紀錄。"
+description: "本站（台灣）證據等級 L5 的 236 個藥品，例如 Thiamine, Ibuprofen, Camphor；逐藥列出主要預測新適應症、本地藥品許可證張數與查核紀錄。"
 permalink: /evidence-low/
 redirect_from:
   - /evidence-low.html

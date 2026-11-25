@@ -50,7 +50,7 @@ TxGNN 模型預測它可能對**肢端中段發育不良 Hunter-Thompson 型 (Ac
 | 預測新適應症 | 肢端中段發育不良 Hunter-Thompson 型 (Acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN 預測分數 | 0.9974 |
 | 證據等級 | L5 |
-| 台灣上市 | 上市中（有效許可證 188 張／共 421 張） |
+| 台灣上市 | 上市中（有效許可證 187 張／共 421 張） |
 | 許可證數 | 421 張（有效單方 185／有效複方 2／已過期 11／已註銷 223） |
 | 建議決策 | Hold |
 

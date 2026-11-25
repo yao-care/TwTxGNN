@@ -478,29 +478,18 @@
   "by_level": {
    "L5": 236
   },
-  "with_current": 227,
-  "none_current": 9,
+  "with_current": 226,
+  "none_current": 10,
   "without_data": 0,
-  "with_reviews": 216,
+  "with_reviews": 219,
   "rows": [
    {
     "t": "Thiamine",
     "u": "/drugs/thiamine/",
     "l": "L5",
     "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
-    "lt": 2707,
-    "lv": 465,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
-    "t": "Guaiacol",
-    "u": "/drugs/guaiacol/",
-    "l": "L5",
-    "i": "nasal cavity disease",
-    "lt": 1080,
-    "lv": 369,
+    "lt": 2282,
+    "lv": 388,
     "r": 0,
     "rs": "",
     "x": 0
@@ -523,8 +512,8 @@
     "i": "偏頭痛",
     "lt": 423,
     "lv": 170,
-    "r": 7,
-    "rs": "預測理由稱原適應症有大量疼痛類用途",
+    "r": 8,
+    "rs": "「中有 N 張仍有效」是舊資料集的有效張數",
     "x": 0
    },
    {
@@ -543,7 +532,7 @@
     "u": "/drugs/methionine/",
     "l": "L5",
     "i": "acne (disease)",
-    "lt": 693,
+    "lt": 692,
     "lv": 143,
     "r": 1,
     "rs": "",
@@ -565,8 +554,8 @@
     "u": "/drugs/salicylic-acid/",
     "l": "L5",
     "i": "papillary conjunctivitis",
-    "lt": 332,
-    "lv": 93,
+    "lt": 327,
+    "lv": 91,
     "r": 6,
     "rs": "預測理由稱水楊酸有抗發炎、抗風濕用途",
     "x": 0
@@ -576,7 +565,7 @@
     "u": "/drugs/lactic-acid/",
     "l": "L5",
     "i": "atypical coarctation of aorta",
-    "lt": 268,
+    "lt": 264,
     "lv": 76,
     "r": 4,
     "rs": "預測理由稱乳酸有腸道輔助用途",
@@ -686,7 +675,7 @@
     "u": "/drugs/glycerin/",
     "l": "L5",
     "i": "cauda equina syndrome",
-    "lt": 131,
+    "lt": 130,
     "lv": 58,
     "r": 1,
     "rs": "",
@@ -704,25 +693,14 @@
     "x": 0
    },
    {
-    "t": "Scopolamine",
-    "u": "/drugs/scopolamine/",
-    "l": "L5",
-    "i": "cauda equina syndrome",
-    "lt": 179,
-    "lv": 52,
-    "r": 2,
-    "rs": "「原適應症」取自丁基東莨菪鹼許可證",
-    "x": 0
-   },
-   {
     "t": "Inositol",
     "u": "/drugs/inositol/",
     "l": "L5",
     "i": "早發性家族性非肝硬化門脈高壓",
-    "lt": 400,
-    "lv": 45,
-    "r": 0,
-    "rs": "",
+    "lt": 362,
+    "lv": 43,
+    "r": 1,
+    "rs": "「原適應症」多見於肌醇菸鹼酸酯許可證",
     "x": 0
    },
    {
@@ -754,8 +732,8 @@
     "i": "cauda equina syndrome",
     "lt": 174,
     "lv": 37,
-    "r": 0,
-    "rs": "",
+    "r": 1,
+    "rs": "備註裡的許可證張數是舊資料集的數字",
     "x": 0
    },
    {
@@ -862,7 +840,7 @@
     "u": "/drugs/theophylline/",
     "l": "L5",
     "i": "thrombotic disease",
-    "lt": 159,
+    "lt": 157,
     "lv": 28,
     "r": 6,
     "rs": "快速總覽「台灣商品名」三個品名",
@@ -946,6 +924,17 @@
     "x": 0
    },
    {
+    "t": "Scopolamine",
+    "u": "/drugs/scopolamine/",
+    "l": "L5",
+    "i": "cauda equina syndrome",
+    "lt": 82,
+    "lv": 20,
+    "r": 3,
+    "rs": "description 的原適應症取自丁基東莨菪鹼許可證",
+    "x": 0
+   },
+   {
     "t": "Sodium Citrate",
     "u": "/drugs/sodium-citrate/",
     "l": "L5",
@@ -994,7 +983,7 @@
     "u": "/drugs/vitamin-e/",
     "l": "L5",
     "i": "先天性膽紅素代謝異常",
-    "lt": 163,
+    "lt": 162,
     "lv": 18,
     "r": 0,
     "rs": "",
@@ -1192,7 +1181,7 @@
     "u": "/drugs/polyethylene-glycol/",
     "l": "L5",
     "i": "congenital ichthyosiform erythroderma",
-    "lt": 40,
+    "lt": 39,
     "lv": 12,
     "r": 6,
     "rs": "預測理由把 CKD 貧血列為原適應症",
@@ -1412,7 +1401,7 @@
     "u": "/drugs/mannitol/",
     "l": "L5",
     "i": "腎因性抗利尿不適當綜合症",
-    "lt": 83,
+    "lt": 82,
     "lv": 8,
     "r": 2,
     "rs": "頁首證據等級",
@@ -3003,6 +2992,17 @@
     "x": 10
    },
    {
+    "t": "Guaiacol",
+    "u": "/drugs/guaiacol/",
+    "l": "L5",
+    "i": "nasal cavity disease",
+    "lt": 11,
+    "lv": 0,
+    "r": 5,
+    "rs": "推論所引的感冒複方（鼻塞、流鼻水）主成分是 guaifenesin",
+    "x": 0
+   },
+   {
     "t": "Interferon Beta-1B",
     "u": "/drugs/interferon-beta-1b/",
     "l": "L5",
@@ -3088,6 +3088,10 @@
    {
     "t": "Ascorbyl Phosphate",
     "u": "/drugs/ascorbyl-phosphate/"
+   },
+   {
+    "t": "Guaiacol",
+    "u": "/drugs/guaiacol/"
    },
    {
     "t": "Interferon Beta-1B",

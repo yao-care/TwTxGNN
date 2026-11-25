@@ -157,9 +157,10 @@
     "LACTIC ACID": {
       "patterns": [
         "CIPROFLOXACIN",
-        "PRENYLAMINE"
+        "PRENYLAMINE",
+        "ZINC"
       ],
-      "note": "CIPROFLOXACIN (LACTATE)、PRENYLAMINE (LACTATE)：乳酸根是鹽基，主成分是 ciprofloxacin／prenylamine；2026-10-16 補"
+      "note": "CIPROFLOXACIN (LACTATE)、PRENYLAMINE (LACTATE)：乳酸根是鹽基，主成分是 ciprofloxacin／prenylamine；2026-10-16 補。2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：ZINC LACTATE（乳酸鋅，口腔保健用的鋅鹽，作用來自鋅）不算 lactic acid"
     },
     "SODIUM CITRATE": {
       "patterns": [
@@ -169,21 +170,100 @@
     },
     "THIAMINE": {
       "patterns": [
-        "PROSULTIAMINE"
+        "PROSULTIAMINE",
+        "DISULFIDE",
+        "COCARBOXYLASE",
+        "PYROPHOSPHATE",
+        "BISBENTIAMINE",
+        "BISBUTIAMINE",
+        "DIBENZOYL",
+        "PHOSPHORIC"
       ],
-      "note": "PROSULTIAMINE (THIAMINE PROPYL DISULFIDE) 是 thiamine 的衍生物，不同藥；2026-10-16 補"
+      "note": "PROSULTIAMINE (THIAMINE PROPYL DISULFIDE) 是 thiamine 的衍生物，不同藥；2026-10-16 補。2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：THIAMINE DISULFIDE（硫胺二硫化物）、THIAMINE TETRAHYDROFURFURYL DISULFIDE（fursultiamine）、THIAMINE DISULFIDE O,O-DIISOBUTYRATE（sulbutiamine）、BISBENTIAMINE (THIAMINE O-BENZOYL DISULFIDE)、BISBUTIAMINE (THIAMINE BUTYRYL DISULFIDE)、THIAMINE HYDROXYETHYL DISULFIDE、THIAMINE DIBENZOYL（dibenzoylthiamine，如衛署藥輸字第013942號 苯硫胺明粉劑）、COCARBOXYLASE (THIAMINE PYROPHOSPHATE)、THIAMINE PHOSPHORIC ACID (ESTER)（thiamine monophosphate）都是 thiamine 的衍生物或磷酸酯，不同藥；鹽類（HCL、MONONITRATE、DICETYLSULFATE、THIOCYANATE）照收。同一張證另有真正的 thiamine 成分時照收（licenses_for_drug 2026-11-25 起只在比對到的成分全部是別的藥時排除）"
     },
     "GUAIACOL": {
       "patterns": [
-        "TETRACYCLINE"
+        "TETRACYCLINE",
+        "GLYCERYL",
+        "GLYCERIN",
+        "GLYCOLATE",
+        "GUAIFENESIN",
+        "SULPHONATE",
+        "SULFONATE",
+        "CARBONATE"
       ],
-      "note": "TETRACYCLINE (GUAIACOL SULFONATE) 主成分是 tetracycline；2026-10-16 補"
+      "note": "TETRACYCLINE (GUAIACOL SULFONATE) 主成分是 tetracycline；2026-10-16 補。2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：GUAIACOL GLYCERYL ETHER (EQ TO GUAIFENESIN)、GUAIACOL GLYCERIN ETHER、GUAIACOL GLYCOLATE (EQ TO GLYCERYL GUAIACOLATE) 都是 guaifenesin（甘油愈創木酯）；GUAIACOL POTASSIUM SULPHONATE 是 potassium guaiacolsulfonate（愈創木酚磺酸鉀）；GUAIACOL CARBONATE 是 guaiacol 的碳酸酯（不同酯類算不同藥）。只留主成分就是 guaiacol 的證"
     },
     "PROCAINE": {
       "patterns": [
         "PENICILLIN"
       ],
       "note": "PENICILLIN G (PROCAINE) 是 penicillin G procaine，屬抗生素（模組說明原已寫明不算 procaine）；2026-10-16 補"
+    },
+    "SCOPOLAMINE": {
+      "patterns": [
+        "BUTYL",
+        "METHYL",
+        "METHOBROMIDE",
+        "METHONITRATE"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：SCOPOLAMINE BROMOBUTYLATE／N-BUTYLBROMIDE／BUTYL BROMIDE 是 butylscopolamine（hyoscine butylbromide，丁溴東莨菪鹼，四級銨、不入中樞的胃腸解痙劑）；SCOPOLAMINE METHOBROMIDE／METHYLNITRATE／METHYL BROMIDE 是 methscopolamine（甲基東莨菪鹼）。模組說明原已寫明 butylscopolamine 不算 scopolamine，但比對規則以「SCOPOLAMINE」開頭就收，所以補 exclude；HBR、HCL、HYDROBROMIDE 是 scopolamine 本身的鹽類，照收"
+    },
+    "INOSITOL": {
+      "patterns": [
+        "NIACINATE",
+        "NICOTINATE"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：INOSITOL NIACINATE／INOSITOL HEXANICOTINATE 是 inositol nicotinate（肌醇菸鹼酸酯，周邊血管擴張劑，藥效來自菸鹼酸），不同藥；INOSITOL (MESO-INOSITOL)、MYO-INOSITOL 照收"
+    },
+    "UREA": {
+      "patterns": [
+        "PEROXID"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）：UREA PEROXIDE（過氧化脲＝carbamide peroxide，氧化劑）不是 urea；UREA PEROXIDASE 是診斷試劑盒裡過氧化脲受質的誤植（衛署菌疫輸字第000234號等），一併排除。UREA C-13（碳-13 脲呼氣試驗）是同位素標記的 urea，照收"
+    },
+    "VITAMIN E": {
+      "patterns": [
+        "NICOTINATE"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）（全量偵測找同類）：VITAMIN E NICOTINATE（tocopherol nicotinate，衛署藥陸輸字第000316號）是另一個藥（同本檔說明 tocopherol nicotinate 不是 tocopherol succinate 的判斷）"
+    },
+    "SALICYLIC ACID": {
+      "patterns": [
+        "ESTER"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）（全量偵測找同類）：SALICYLIC ACID (MONOSALICYL ACID ESTER OF ETHYLENE)、SALICYLIC ACID MONOGLYCOL ESTER 是 glycol salicylate（水楊酸乙二醇酯），SALICYLIC ACID-TRICHLORO-ISO-BUTYL ESTER 是另一個水楊酸酯，都是不同藥（同 methyl salicylate 不算 salicylic acid）"
+    },
+    "THEOPHYLLINE": {
+      "patterns": [
+        "OXYPROPYL"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）（全量偵測找同類）：THEOPHYLLINE BETA-OXYPROPYL-（proxyphylline，7-(β-羥丙基)茶鹼）是茶鹼衍生物，不同藥；aminophylline、theophylline sodium glycinate 等鹽類照收"
+    },
+    "MANNITOL": {
+      "patterns": [
+        "ISND",
+        "ISDN"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）（全量偵測找同類）：MANNITOL MIXTURE 25% ISND（衛署藥輸字第014508號 速必瑞咀嚼錠，治療狹心症）是以甘露醇稀釋的 isosorbide dinitrate，主成分是 isosorbide dinitrate"
+    },
+    "GLYCERIN": {
+      "patterns": [
+        "FATTY ACID ESTER"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）（全量偵測找同類）：GLYCERIN FATTY ACID ESTER（甘油脂肪酸酯，乳化劑）不是 glycerin"
+    },
+    "POLYETHYLENE GLYCOL": {
+      "patterns": [
+        "STEARATE"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）（全量偵測找同類）：POLYETHYLENE GLYCOL MONOSTEARATE（聚乙二醇硬脂酸酯，界面活性劑）不是 polyethylene glycol"
+    },
+    "METHIONINE": {
+      "patterns": [
+        "SULFOX"
+      ],
+      "note": "2026-11-25 第六輪補（用戶決定：程式許可證表排除名字相近的別的藥）（全量偵測找同類）：METHIONINE DL-SULFOXIME（methionine sulfoximine，衛署藥製字第041043號 邁爾糖衣錠的成分）不是 methionine"
     }
   }
 }

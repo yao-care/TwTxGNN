@@ -220,14 +220,21 @@ def licenses_for_drug(name: str, records: list[dict] | dict[str, dict]) -> list[
         hit |= tset.get(tuple(sorted(_sing(x) for x in tt if x not in STEREO)), set())
     terms = drug_terms(name)
     excl = EXCLUDE.get(norm(name), [])
+
+    def own(i: str) -> bool:
+        """成分是本藥：比對得到，且不含 config exclude 的字樣（另一個藥，例 guaifenesin 之於 guaiacol）。"""
+        return ingredient_matches(i, terms) and not (excl and any(x in norm(i) for x in excl))
+
     out = []
     for lid in hit:
         lic = to_license(by_id[lid])
-        if excl and any(ingredient_matches(i, terms) and any(x in norm(i) for x in excl) for i in lic["ingredients"]):
+        # 2026-11-25（第六輪）：比對到的成分全部都是另一個藥才排除；同一張證另有真正的本藥成分時照收
+        # （之前只要有一個比對到的成分含 exclude 字樣就整張排除，複方維生素同時含 thiamine 與 thiamine disulfide 會被漏掉）
+        if excl and not any(own(i) for i in lic["ingredients"]):
             continue  # 比對到的成分其實是另一個藥（config exclude）
         if excl and not by_id[lid].get("主成分略述") and any(x in norm(" ".join(lic["ingredients"])) for x in excl):
             continue  # 主成分欄空白、由英文品名拆出成分時，exclude 比對整個品名（如 Ceftazidime and Sodium Carbonate）
-        if lic["kind"] == "combo" and all(ingredient_matches(i, terms) for i in lic["ingredients"]):
+        if lic["kind"] == "combo" and all(own(i) for i in lic["ingredients"]):
             lic["kind"] = "single"  # 同一成分重複登載（如 GEMCITABINE;;GEMCITABINE HCL）仍是單方
         out.append(lic)
     order = {("valid", "single"): 0, ("valid", "combo"): 1, ("expired", "single"): 2, ("expired", "combo"): 2}
