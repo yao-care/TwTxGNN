@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Hydroxyprogesterone caproate 有什麼相關新聞？">
-<strong>Hydroxyprogesterone caproate</strong> 目前有 <strong>29 則</strong>相關新聞報導，預測適應症 8 個。
+<strong>Hydroxyprogesterone caproate</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 8 個。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/hydroxyprogesterone-caproate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（29 則）
+## 相關新聞（31 則）
+
+### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+2026-11-25 <span class="news-indication-tag">癌症</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+---
 
 ### [癌症成因︱成日嬲易患癌？營養師拆解8種癌症成因 每日吃1種食物腸癌風險升18%](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZk5iSWZPd1E3cWVtX3BJTWtNVEE4TThsanpfYVd5dzFFZEhscTUyQ0J3c0FFa2tSa2ZBU2xMczZERG81akRha0M5OGFyZzRmcEE?oc=5)
 
@@ -112,6 +120,14 @@ last_modified_at: 2026-11-25
 2026-11-19 <span class="news-indication-tag">癌症</span>
 
 來源: [《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wWTFnMkJqY0tHTmYzaVotUXBJN1QwNENaMUsxVjRvb2VRWGNGY2E1QlFCMVY1ZWtNaEpJR3lybFhMeGFRNWEtWUpaZTVLOEVLWGQ0?oc=5)
+
+---
+
+### [癌症醫療新時代 從精準抗癌到中西醫整合照護](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUk05X1Q4UTRZSUNMVDhPV2hWRGxMMWE0U3ZSSlc1aGNCeXVXMUthMDFRaHVxVGlwUGJVRkRUUWZHcWFjQlVoY1lJeDFhcUlzTEE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">癌症</span>
+
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUk05X1Q4UTRZSUNMVDhPV2hWRGxMMWE0U3ZSSlc1aGNCeXVXMUthMDFRaHVxVGlwUGJVRkRUUWZHcWFjQlVoY1lJeDFhcUlzTEE?oc=5)
 
 ---
 

@@ -76,19 +76,19 @@ last_modified_at: 2026-11-25
 
 ---
 
-### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
-
-2026-11-19 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
-
-來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
-
----
-
 ### [別把新冠當感冒！2025新冠高峰重症/死亡數是年底流感季3倍？醫點名高風險族群必做一件事保命](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
 
 2026-11-19 <span class="news-indication-tag">感冒</span>
 
 來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBWU2FNWXRzQ3d4al9wLTk1ZDF0WXZYbzFLQm1QZ0IyOVhEYXk4NHQ2dkpuTC00VW9VaXNSalZnSVUzZDFqQWc?oc=5)
+
+---
+
+### [長輩住機構仍怕染流感？ 醫師提醒：高齡、慢病族群防重症做好三件事](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span> <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">肌炎</span>
+
+來源: [早安健康](https://news.google.com/rss/articles/CBMiRkFVX3lxTE41Rm1yRkRGNjYxN1ZvamxNNU5LT2tQekI5Tjd0STJrT1doQlRpMDhQcnFqQUNlT0JrOS1fQTJrdTFyUkpMdEE?oc=5)
 
 ---
 

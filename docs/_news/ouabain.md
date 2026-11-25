@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>19 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（19 則）
 
 ### [科學家追蹤超10萬人30年發現：心梗、卒中預警可提前30年](https://news.google.com/rss/articles/CBMiSEFVX3lxTE96MXBRS1hQS2hkaUNrd05uWkxpTlM0cFR1LXBvTzUyR1pwUldRdkpqMmNiSlBUenp3ZVRoMXp5T3hHYTFfNU9ycA?oc=5)
 
@@ -58,6 +58,14 @@ last_modified_at: 2026-11-25
 2026-11-23 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+---
+
+### [研究：心臟病患者睡9小時以上 死亡風險高5成](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">心臟病</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
 
 ---
 

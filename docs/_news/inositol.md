@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Inositol 的相關健康新聞報導。原適應症：末梢血管循環障礙。預測適應症 9 個。"
 permalink: /news/inositol/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-25
 ---
 
 # Inositol 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="Inositol 有什麼相關新聞？">
-<strong>Inositol</strong> 目前有 <strong>5 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Inositol</strong> 目前有 <strong>6 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/inositol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（5 則）
+## 相關新聞（6 則）
+
+### [研究：心臟病患者睡9小時以上 死亡風險高5成](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">心臟病</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
+
+---
 
 ### [心臟病｜6旬男耳朵兩個特徵以為有福 驚揭心肌缺氧險梗塞 自測耳仔出現「求救線」心臟病風險高1.4倍 - myTV SUPER](https://news.google.com/rss/articles/CBMimgVBVV95cUxOMXpDdk5VQ0N4S1pXNkVIWG1UdGF6UVZoZUE1ajRPRWNYV2NJQVpiRml2WjBGODJTR042STczcl94RGoyWlNVeXlLSFQxNlNiVXhLV1Zsc3Z3dkd3MG52UzVqSU1kREdPOE1Yak1yX1JKbmtTNTI3RVRBLTFial8tRko3eC1HZFRJU1JNNk9HTURsekhUc3JHU25wbGhodzVFc0lqdjRPRkhJSlhZcDl3azBuSWEyU21fVmtNWU1IOEFWTlU4YVFvQ0hraVJETm9BX3k4ajVXdlNXZFVJa0hGbEs1MmRRakJobEtidEpBdlhEU0kzYV9HUEx6RU1MREJJQlFrRFZWd1VybkZTVEpqVjlCdWhvaVdtRDlPSDY2YURjTWI3UEdYcmFkS0ZCdmtrM2tOd0lSaDRXRHRsaVNSaWlLQ0p2bEk4RmlxVGVCTVFFS0ZMRDdsYlRVNkFLV2VHSXZjS1JyMm56dllqdHhXcjkzYUpVS2lsRExXbGRLc3R1bFZQTTgzTC1tcjljY1hHbzh2OFhGQkduNUVkOVdPUW5nNWRJMW5jaHhGVGp5NG5zYWZxam1GeXhLdVpYU3FuajA1RV9pc3BjVTl5TFlLRy15M2xZd1NEZEs1QWtqUmdkNUYwaTlVc1lTaGEwMU1zMVB6ZVNJV1g5VXlFSTF4a0lRaVdndE1fR0xlVFFHR0NtRUVYc2FUSU1JLU9wNlVSM0hzSzJkSjM5M3BiY043MkdzdGNNaERFWDl0NTdUVXdaa0lkcV9peE1LeTdNeWU3RHhLV2dtZGQ2WEtuVHNLSkQ3ZmhDSGc4aFA3bFdHc1BycGVvUlhfeTdNa1UwdmpFX0FKSVBWZHB6SGEyWDNpTW1KbWR2VTM2Snc?oc=5)
 

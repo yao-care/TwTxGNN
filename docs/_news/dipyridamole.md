@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Dipyridamole 有什麼相關新聞？">
-<strong>Dipyridamole</strong> 目前有 <strong>13 則</strong>相關新聞報導，預測適應症 6 個。
+<strong>Dipyridamole</strong> 目前有 <strong>14 則</strong>相關新聞報導，預測適應症 6 個。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/dipyridamole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（13 則）
+## 相關新聞（14 則）
 
 ### [降血糖｜美國最新研究證開一件電器瞓覺起身早餐血糖大降17% 遠離糖尿病中風癌症心血管疾病- 東張+ - myTV SUPER](https://news.google.com/rss/articles/CBMiigVBVV95cUxQcWVZRDAwMWxCZ1EzYUZ3aUVYUnFOSXd1WVg0dy00TjNXb09Eb0c3TzdJUDRPOTlGY3dzeHQxQTV0NHVyRUxZalVueHlpZ2oxSEtNSGtFYmNkeGZlZlZLTVNmb0xrU2NFM3MtRHJscjdVT3dUTHRiNXVmZzVfdncweWtUQ3k1TUVVSEh5UFdLTEYxUVNCd1BoQlp4c3J3VnltQWZBRGJ5M1c5UnVLajJsR3pLLXJnaDJaeU9qWUszWVBrQXFmNkxKUjZnR3gxajZLdUp1M2lOTElScjVZZU15RW4ybkhTa01tY3c5ZEl2Q3E4UEtvR2h2N21rcTFtcE51R3VSeEZzcy00elpISjRZT2F2LVVBTEZqcTVJVFo0YUtEbXVjb3ppUjVRcFd0dXBiSUc5Z0lvNTA2UVdqOU9lNkFxa1FjOFJKQzlHbmVycllnV2t5bEFteEdvRzU0LXhYMGdUWGZMM2RTUHRPQWZPeUtOSi1fR2c3SDlnUVlXX2d4WG5vSGNlcFhycUVlX0ZXSjgzQnZmanpYX1RQakRhZGdud3dDaW03Qm92V1ZKeS1VV1FSLVRYRkd3VnY2TW1TWlI2Nm1mSkVvbk90ZGxXcEl0RVh4emJhb0pmYUFzR21OVmsxNmptTmxERkRYNnZKd3BWSVdrdWFUV2pudTlCaW9QaUpiX0NpM2VkVWZObjM5TVV4VVJzQkYtRlduRHBQelpLUFdvQjhhUUlVNlVFX0ZUWExSU1VVbkk4MEtJVUQyM3E1NzhTdThpSnc4Mnc2THZvVEFPYVVyQnhvUVBXeHIzeHpzQ2RGcXowNGRrMmtIaFo0N2pYR3czQUlwQ0FNUmZ4bjVKQzVfUQ?oc=5)
 
@@ -62,6 +62,14 @@ last_modified_at: 2026-11-25
 2026-11-23 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+---
+
+### [研究：心臟病患者睡9小時以上 死亡風險高5成](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">心臟病</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
 
 ---
 

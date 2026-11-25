@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Acetazolamide 有什麼相關新聞？">
-<strong>Acetazolamide</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Acetazolamide</strong> 目前有 <strong>37 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/acetazolamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（37 則）
+
+### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+2026-11-25 <span class="news-indication-tag">癌症</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+---
 
 ### [癌症成因︱成日嬲易患癌？營養師拆解8種癌症成因 每日吃1種食物腸癌風險升18%](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZk5iSWZPd1E3cWVtX3BJTWtNVEE4TThsanpfYVd5dzFFZEhscTUyQ0J3c0FFa2tSa2ZBU2xMczZERG81akRha0M5OGFyZzRmcEE?oc=5)
 
@@ -66,6 +74,14 @@ last_modified_at: 2026-11-25
 2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
 
 來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
+
+### [研究：心臟病患者睡9小時以上 死亡風險高5成](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">心臟病</span>
+
+來源: [大紀元](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
 
 ---
 
@@ -114,6 +130,14 @@ last_modified_at: 2026-11-25
 2026-11-19 <span class="news-indication-tag">癌症</span>
 
 來源: [《現代保險》雜誌](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wWTFnMkJqY0tHTmYzaVotUXBJN1QwNENaMUsxVjRvb2VRWGNGY2E1QlFCMVY1ZWtNaEpJR3lybFhMeGFRNWEtWUpaZTVLOEVLWGQ0?oc=5)
+
+---
+
+### [癌症醫療新時代 從精準抗癌到中西醫整合照護](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUk05X1Q4UTRZSUNMVDhPV2hWRGxMMWE0U3ZSSlc1aGNCeXVXMUthMDFRaHVxVGlwUGJVRkRUUWZHcWFjQlVoY1lJeDFhcUlzTEE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">癌症</span>
+
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUk05X1Q4UTRZSUNMVDhPV2hWRGxMMWE0U3ZSSlc1aGNCeXVXMUthMDFRaHVxVGlwUGJVRkRUUWZHcWFjQlVoY1lJeDFhcUlzTEE?oc=5)
 
 ---
 

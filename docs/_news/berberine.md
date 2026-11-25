@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（33 則）
+
+### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+2026-11-25 <span class="news-indication-tag">癌症</span>
+
+來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+---
 
 ### [癌症成因︱成日嬲易患癌？營養師拆解8種癌症成因 每日吃1種食物腸癌風險升18%](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZk5iSWZPd1E3cWVtX3BJTWtNVEE4TThsanpfYVd5dzFFZEhscTUyQ0J3c0FFa2tSa2ZBU2xMczZERG81akRha0M5OGFyZzRmcEE?oc=5)
 
@@ -130,6 +138,14 @@ last_modified_at: 2026-11-25
 2026-11-19 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">腹瀉</span>
 
 來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMivgNBVV95cUxPZlY2Qy1HY3NibVhoS3VYZF9SUFVNVU5BdTBCajk0YTVQQk8zMDg3V1g0aklWOUZzZzEzS0VRYzlhbTF4N3BWMFYzR2lyNkpNS3dqTFNsOHFWOGotdlR3ZFk5OS1fUkl3ZjZNRXVIaEdjUGJlSi1DaWtNaUNvWVNjdlpFNVBKT09BWEp2RzM0THhNRmh1YnZQaEFHRUMxem50dXhWQzlkTkt5b1liWkJZb0VabENqeERDLW1XUHl0RHhrWmtvajNRQzVxTXh2d2FWWmdjVjBmOGlDcEhPVThzZ2JEYmhhWGJudUxlazBhVnNZa3AwSUktN0d6UGpXS2JDYmhhOTBaYXhoWjlWUDZoMF9NU29DbVlTN2ZYWXBFMkdVZnpHcXk2a1M2dm5LYmp1QnZ1NkJrZUNJT3o1Q09HeFJvU0xpQVEtN3ZiQ2J5QXpmOXBxa0lLLVN2WGxQUzhBMUUzdUFSUmh2OGRyZ0ZlbHV0Zm5UZVFhbjZFbEVxTWpwUUd5cHl5Vmh4eGgtQlcxbnVDNGszM0REZzlZQUlVN3doVHI5a1pqWGx3TjNyejVJUkVNWWlfX1VxYzlEZw?oc=5)
+
+---
+
+### [癌症醫療新時代 從精準抗癌到中西醫整合照護](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUk05X1Q4UTRZSUNMVDhPV2hWRGxMMWE0U3ZSSlc1aGNCeXVXMUthMDFRaHVxVGlwUGJVRkRUUWZHcWFjQlVoY1lJeDFhcUlzTEE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">癌症</span>
+
+來源: [蕃新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUk05X1Q4UTRZSUNMVDhPV2hWRGxMMWE0U3ZSSlc1aGNCeXVXMUthMDFRaHVxVGlwUGJVRkRUUWZHcWFjQlVoY1lJeDFhcUlzTEE?oc=5)
 
 ---
 
