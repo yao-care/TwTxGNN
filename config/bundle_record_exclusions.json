@@ -1,0 +1,7 @@
+{
+  "_doc": "證據包（data/bundles/*/drug_bundle.json）tfda 區塊收錯的許可證（2026-11-25 第五輪，用戶決定）：2026-10-03 以前的收集器用全文子字串比對（成分、品名、適應症裡出現藥名就收），Release 的證據包仍留著當時的紀錄，例 atracurium_besylate 收到 cisatracurium、hydroxyurea 收到適應症提到 hydroxyurea 的 ruxolitinib、axitinib 收到 pembrolizumab。頁面許可證表與張數一律由 src/twtxgnn/regulatory/tfda_licenses.py 依 TFDA 全量資料集主成分比對產生，不受證據包影響；這裡讓證據包跟頁面同一套規則。規則：紀錄的許可證字號在 TFDA 資料集裡、卻不在本藥的比對結果（有藥物頁的用 snapshots/tfda_licenses.json.gz 的該頁許可證，沒頁的用 tfda_licenses.licenses_for_drug(drug.inn)）裡，就從 tfda.records 移到 tfda.excluded_records（附 excluded、excluded_reason、excluded_basis）；keep 列的是比對規則認不到、但查證確屬本藥的字號（照留）。scripts/exclude_mismatched_records.py 套用（可重複執行；每週 license-refresh.yml 在 license_refresh 之前跑）；collectors/tfda.py 2026-10-03 起已用同一套比對，不會再收進來。資料集裡已沒有的字號判斷不了，照留。",
+  "keep": {
+    "isosorbide_mononitrate": {"ids": ["衛部藥輸字第027723號"], "reason": "稀硝酸異山梨酯 Diluted Isosorbide Mononitrate（原料藥，已註銷）就是本藥；主成分欄空白、英文品名以 Diluted 開頭，比對規則認不到"},
+    "conjugated_estrogens": {"ids": ["衛署藥製字第021038號", "衛署藥製字第038458號", "衛署藥輸字第016223號"], "reason": "品名標明 CONJUGATED ESTROGENS（淑寶糖衣錠、伊得蒙，皆已註銷），主成分登載 OESTRONE SODIUM SULPHATE（結合型雌激素的主要成分）；是否算本藥要人看，照留"}
+  }
+}
