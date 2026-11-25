@@ -85,7 +85,7 @@ Dupilumab,dupilumab,L5,9,"1. 異位性皮膚炎：可用於治療患有中度至
 Durvalumab,durvalumab,L5,6,非小細胞肺癌（可切除之前導性／輔助治療，及局部晚期無法切除且放化療後未惡化者）、小細胞肺癌、膽道癌、肝細胞癌、子宮內膜癌、膀胱癌,子宮韌帶腺癌 (uterine ligament adenocarcinoma),0.9992,False,Hold,/drugs/durvalumab/
 Eltrombopag,eltrombopag,L3,1,用於對其他治療（如類固醇、免疫球蛋白等）失敗之成年免疫性血小板減少症（ITP）病人,HIV 感染相關疾病 (HIV infectious disease),0.9926,False,Hold,/drugs/eltrombopag/
 Emedastine,emedastine,N/A,0,,,,False,,/drugs/emedastine/
-Enfortumab Vedotin,enfortumab_vedotin,L5,9,１、單獨使用適用於治療患有局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人：(１)先前接受過PD-1（programmed death receptor-1） 或PDL1（programmed death-ligand 1）抑制劑和含鉑化學治療；或(２)不適合接受含cisplatin 化學治療，且先前接受過一線以上治療。２、併用pembrolizumab適用於治療局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人。; 1.黑色素細胞瘤： 治療無法切除或轉移性黑色素瘤病人。 作為輔助性療法治療患有第IIB或IIC期黑色素瘤並已進行完全切除的成人與12歲以上兒童病人。 作為輔助性療法治療侵犯至淋巴結；另與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）,痲瘋病 (leprosy),0.9953,False,Hold,/drugs/enfortumab-vedotin/
+Enfortumab Vedotin,enfortumab_vedotin,L5,9,１、單獨使用適用於治療患有局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人：(１)先前接受過PD-1（programmed death receptor-1） 或PDL1（programmed death-ligand 1）抑制劑和含鉑化學治療；或(２)不適合接受含cisplatin 化學治療，且先前接受過一線以上治療。２、併用pembrolizumab適用於治療局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人。３、與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）,痲瘋病 (leprosy),0.9953,False,Hold,/drugs/enfortumab-vedotin/
 Erdafitinib,erdafitinib,L5,6,局部晚期或轉移性泌尿道上皮癌（需帶有敏感性 FGFR3 基因變異，且先前全身性療法治療期間或之後惡化）,肺動脈高壓 (Pulmonary Hypertension),0.9938,False,Hold,/drugs/erdafitinib/
 Ergometrine,ergometrine,L5,10,產褥期之出血、流產後之出血、分娩時之子宮弛緩出血、不正常出血、分娩第三期陣痛微弱,毛髮過多症 (Hypertrichosis),0.9996,False,Hold,/drugs/ergometrine/
 Etanercept,etanercept,L5,3,1、適用於對疾病緩解型抗風濕性藥物(即DMARDs，例如methotrexate)無適當療效之成人活動性類風濕性關節炎。 2、適用於先前未使用methotrexate治療之成人中度至重度活動性類風濕性關節炎。這些病人的X光檢查顯示，本品可以減緩疾病造成的關節結構性受損。 3、適用於methotrexate治療無效或無法耐受的2歲以上兒童及青少年的活動性多關節幼年型慢性關節炎。尚未對不足2歲的兒童進行試驗。 4、適用於對疾病緩解型抗風濕性藥物無療效之成人活動性與進行性乾癬性關節炎。 5、治療活動性僵直性脊椎炎。 6、適用於治療嚴重活動性無放射影像確認之中軸性脊椎關節炎(Non-radi,,,False,,/drugs/etanercept/
@@ -205,7 +205,7 @@ Pipemidic Acid,pipemidic_acid,L5,10,抗菌劑（細菌感染所致之腎盂腎�
 Pitavastatin,pitavastatin,L5,4,原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症。; 原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症; 原發性高膽固醇血症及混合型血脂異常。; 原發性高膽固醇血症及混合型血脂異常; 原發性高膽固醇血症及混合型血脂異常與10歲以上兒童家族性高膽固醇血症 。; 血脂調節劑; 血脂調節劑。; 對於患有原發性高膽固醇血症與混合型血脂異常的成人病人，可作為飲食控制外的輔助治療，以降低LDL-C。,膽固醇酯轉運蛋白缺乏症 (cholesterol-ester transfer protein deficiency),0.9998,False,Hold,/drugs/pitavastatin/
 Pitolisant,pitolisant,L5,3,1、治療 6 歲以上猝睡症（伴隨或未伴隨猝倒現象）的病人。2、改善患有 OSA 成人病人的覺醒狀態並減少日間過度嗜睡（EDS），這些病人的 EDS 無法透過 CPAP 等 OSA 主要治療方式得到滿意成果或無法耐受。,失眠 (Insomnia),0.9971,False,Hold,/drugs/pitolisant/
 Polyethylene Glycol,polyethylene_glycol,L5,1,便秘、軟便、檢查或手術前腸道清洗（PEG／macrogol 單方口服製劑，如衛署藥輸字第023462號腹樂疏、衛部藥製字第061592號易暢淨）,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),0.9903,False,Hold,/drugs/polyethylene-glycol/
-Polyethylene Glycol 400,polyethylene_glycol_400,L5,2,成人和八歲及以上兒童便秘的症狀治療,支氣管炎 (Bronchitis),0.9958,False,Hold,/drugs/polyethylene-glycol-400/
+Polyethylene Glycol 400,polyethylene_glycol_400,L5,2,暫時緩解因眼睛乾澀所引起之灼熱感與刺激感（含 PEG 400 的現行有效許可證都是人工淚液複方，如衛署藥輸字第024065號）,支氣管炎 (Bronchitis),0.9958,False,Hold,/drugs/polyethylene-glycol-400/
 Polymyxin B,polymyxin_b,L4,2,抗生素（單方許可證僅載明此項）,支氣管炎 (Bronchitis),0.9987,False,Hold,/drugs/polymyxin-b/
 Polysorbate 80,polysorbate_80,L5,1,界面活性劑,先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma),0.9943,False,Hold,/drugs/polysorbate-80/
 Posaconazole,posaconazole,L5,1,對 amphotericin B、itraconazole 或 voriconazole 治療無效或不能忍受之成人侵入性麴菌病的第二線用藥；以及高危險病人（造血幹細胞移植後接受高劑量免疫抑制劑治療者、AML 或高危險 MDS 誘導化療後長期嗜中性白血球減少者）侵入性黴菌感染的預防,肺囊蟲病 (Pneumocystosis),0.9977,False,Hold,/drugs/posaconazole/

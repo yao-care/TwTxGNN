@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Polyethylene glycol 400"
 predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
-last_modified_at: 2026-10-29
-description: "Polyethylene Glycol 400：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L5）。原適應症：成人和八歲及以上兒童便秘的症狀治療"
+last_modified_at: 2026-11-25
+description: "Polyethylene Glycol 400：預測新適應症為支氣管炎 (Bronchitis)（證據等級 L5）。原適應症：暫時緩解因眼睛乾澀所引起之灼熱感與刺激感（人工淚液複方）"
 ---
 
 # Polyethylene Glycol 400
@@ -33,19 +33,31 @@ description: "Polyethylene Glycol 400：預測新適應症為支氣管炎 (Bronc
 
 </div>
 
-## Polyethylene glycol 400：從便秘到支氣管炎
+## Polyethylene glycol 400：從人工淚液到支氣管炎
 {: .text-alpha }
+
+<!-- review:begin polyethylene_glycol_400-title-2026-11-25 -->
+
+> **查核更正（2026-11-25）**：原寫「## Polyethylene glycol 400：從便秘到支氣管炎」。便秘是聚乙二醇 4000（PEG 4000／macrogol 4000）製劑的適應症；含 PEG 400 的現行有效許可證都是人工淚液複方。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol_400-title-2026-11-25 -->
 
 ## 一句話總結
 
-Polyethylene glycol 400（聚乙二醇 400）是一種親水性高分子，在台灣原本用於成人及八歲以上兒童便秘的症狀治療，也常作為軟膏基劑與人工淚液的成分。
+Polyethylene glycol 400（聚乙二醇 400）是一種親水性高分子，在台灣的許可證中是人工淚液與軟膏基劑的成分（現行有效許可證都是人工淚液複方，核准暫時緩解眼睛乾澀引起的灼熱感與刺激感）；成人及八歲以上兒童便秘的症狀治療是聚乙二醇 4000 製劑的適應症。
 TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前**沒有任何臨床試驗或文獻**支持這個預測，僅屬模型推論。
+
+<!-- review:begin polyethylene_glycol_400-summary-2026-11-25 -->
+
+> **查核更正（2026-11-25）**：原寫「在台灣原本用於成人及八歲以上兒童便秘的症狀治療，也常作為軟膏基劑與人工淚液的成分。」。「成人及八歲以上兒童便秘的症狀治療」是聚乙二醇 4000（如衛署藥輸字第023462號「腹樂疏」）的適應症，不是 PEG 400；含 PEG 400 的現行有效許可證都是人工淚液複方（如衛署藥輸字第024065號「視舒坦」點眼液）。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol_400-summary-2026-11-25 -->
 
 ## 快速總覽
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | 成人和八歲及以上兒童便秘的症狀治療 |
+| 原適應症 | 暫時緩解因眼睛乾澀所引起之灼熱感與刺激感（含 PEG 400 的現行有效許可證都是人工淚液複方，如衛署藥輸字第024065號） |
 | 預測新適應症 | 支氣管炎 (Bronchitis) |
 | TxGNN 預測分數 | 0.9958 |
 | 證據等級 | L5 |
@@ -53,11 +65,23 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前**
 | 許可證數 | 14 張（有效單方 0／有效複方 3／已註銷 11） |
 | 建議決策 | Hold |
 
+<!-- review:begin polyethylene_glycol_400-original-indication-2026-11-25 -->
+
+> **查核更正（2026-11-25）**：原寫「原適應症／成人和八歲及以上兒童便秘的症狀治療」。原文是聚乙二醇 4000 製劑（衛署藥輸字第023462號「腹樂疏」、衛部藥製字第060864號「寶淨」）的適應症，是另一個藥；改為含 PEG 400 的現行有效許可證（人工淚液複方）核准的適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol_400-original-indication-2026-11-25 -->
+
 ## 為什麼這個預測合理？
 
 目前缺乏詳細的作用機轉資料。根據已知資訊，Polyethylene glycol 400 是一種惰性的親水性聚合物，主要用作賦形劑、潤滑劑，以及滲透性或保濕成分。在便秘適應症中，其作用來自滲透性緩瀉；在眼用與軟膏製劑中，則作為保濕與基劑成分。
 
 目前找不到與支氣管炎相關的已確立藥理機轉。便秘與支氣管炎在病理與治療標的上沒有明顯關聯，因此這項預測缺乏臨床與機轉證據支持。高預測分數來自 TxGNN 模型（深度學習），可能反映模型學到的相關疾病之間的相似性，而非生物學證據。
+
+<!-- review:begin polyethylene_glycol_400-why-constipation-2026-11-25 -->
+
+> **查核加註（2026-11-25）**：本段與上一段所說的「便秘適應症」是聚乙二醇 4000 製劑（如衛署藥輸字第023462號「腹樂疏」）的適應症，不是 PEG 400；含 PEG 400 的現行有效許可證都是人工淚液複方。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end polyethylene_glycol_400-why-constipation-2026-11-25 -->
 
 另一個被預測的適應症是**先天性魚鱗癬樣紅皮症 (Congenital Ichthyosiform Erythroderma)**，預測分數為 0.9910。PEG 400 的保濕特性在外用基劑中理論上可幫助皮膚補水，但它對角質化缺陷沒有疾病修飾作用，此連結同樣僅屬推測，也沒有試驗或文獻佐證。
 
@@ -128,6 +152,11 @@ TxGNN 模型預測它可能對**支氣管炎 (Bronchitis)** 有效，但目前**
 | 查核日期 | 項目 | 處理 | 依據 |
 |---------|------|------|------|
 | 2026-10-03 | 「腹樂疏口服懸液用粉劑」列（主成分為 PEG 4000） | 已由程式化許可證表取代（原為加註） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，2026-09-29）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-25 | 標題以便秘為原用途（便秘是 PEG 4000 的適應症） | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-25 | 稱 PEG 400 在台灣原本用於便秘（便秘是 PEG 4000 的適應症） | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-25 | 「原適應症」取自 PEG 4000 許可證 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-25 | description 的原適應症取自 PEG 4000 許可證 | 頁面描述（description）更正：原「原適應症：成人和八歲及以上兒童便秘的症狀治療」→「原適應症：暫時緩解因眼睛乾澀所引起之灼熱感與刺激感（人工淚液複方）」 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+| 2026-11-25 | 推論以便秘為本藥的適應症 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 

@@ -1069,3 +1069,12 @@ Kramdown 屬性語法在某些情況下不會被正確處理，會直接顯示�
 - (c) `scripts/generate_data_exports.py` 重跑：drugs.json／drugs.csv 原本空白的 5 筆（etanercept、lorcaserin、niraparib、sorafenib、vonoprazan）補上頁面原適應症；第 6 筆 sodium_carbonate 是頁面被 11-23 重產改錯，頁面還原後跟匯出一致。另寫一支比對（search-index original 對 drugs.json 全格）0 筆不符。
 - (d) `scripts/check_original_indications.py` 不再整批替換：resolved／unresolvable 原樣保留、同頁同句已查過的不重列、同頁已有 open 就更新、其餘新增（found＝執行日），不刪項目。這次跑出 7 頁：inositol、salicylic_acid 已有加註紀錄，標 resolved 附 record_ids；enfortumab_vedotin、erdafitinib、polyethylene_glycol_400、potassium_iodide、vitamin_e 5 項 open 待人工判讀；第二次跑新增 0。舊版會把既有 15 筆 resolved 換掉。
 - 驗證：regenerate 再跑 0 頁、問題 0；apply --check 0；gate exit 0；母目錄 checker M 類 0（本機沒還原 bundles，P1 292 跟許可證無關）。
+
+## 原適應症交叉驗證待查 5 項逐頁對照（2026-11-25 第八輪）
+
+用戶 2026-11-25 決定：`scripts/check_original_indications.py` 第七輪留下的 5 項 open（docs/_data/drug_reviews_uncertain.json），逐頁對照 TFDA 資料集 36（檔案日期 2026-11-24）與 snapshots/tfda_licenses.json.gz，確認快速總覽「原適應症」是不是本藥的。
+- 錯的 2 頁，寫 correct 紀錄（更正文字不寫張數）：enfortumab_vedotin 原適應症列混入 pembrolizumab（衛部菌疫輸字第001025號）的「1.黑色素細胞瘤……侵犯至淋巴結」，改成本藥衛部菌疫輸字第001212號、第001213號核准的三項（`enfortumab_vedotin-original-indication-pembrolizumab-2026-11-25`）；
+  polyethylene_glycol_400 的「成人和八歲及以上兒童便秘的症狀治療」是聚乙二醇 4000（衛署藥輸字第023462號「腹樂疏」、衛部藥製字第060864號「寶淨」，列在 polyethylene_glycol 頁）的適應症，含 PEG 400 的許可證沒有一張核准便秘、現行有效的都是人工淚液複方：更正原適應症列、description（field: description）、標題、一句話總結，「為什麼合理」段以便秘為前提的推論加註（模型預測原文保留），共 5 筆 `polyethylene_glycol_400-*-2026-11-25`。
+- 對的 3 頁標 resolved（附理由）：erdafitinib（本藥 Balversa 適應症的摘要，只是寫法不同）、potassium_iodide（本藥衛部藥輸字第027470號「碘化鉀」適應症「袪痰藥」，祛／袪異體字）；vitamin_e（衛部藥製字第060937號「意施乳膏(維他命E)」，主成分 dl-α-生育醇醋酸酯，是維生素 E 製劑，但主成分欄沒有「VIT E」字樣、程式表列在 alpha-tocopherol_acetate 頁，在原適應症列加註 `vitamin_e-original-indication-060937-2026-11-25`）。
+- 衍生檔：generate_search_index.py --levels-from-pages（original 改 1 筆：PEG 400）、generate_data_exports.py（drugs.json／drugs.csv 改 2 筆），跟頁面一致；check_original_indications.py 再跑新增 0、已查過略過 5。
+- 驗證：regenerate_tfda_tables.py 再跑 0 頁、問題 0；apply --check 0；gate exit 0；母目錄 checker 前後相同（P1 292，本機沒還原 bundles，跟許可證無關；M 類 0）。正文有變的 3 頁 last_modified_at 改 2026-11-25。

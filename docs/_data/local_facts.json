@@ -21,12 +21,12 @@
   "items_current": 5212
  },
  "reviews": {
-  "records": 870,
-  "pages": 286,
-  "public_pages_with_records": 275,
+  "records": 877,
+  "pages": 287,
+  "public_pages_with_records": 276,
   "by_action": {
-   "annotate": 183,
-   "correct": 275,
+   "annotate": 185,
+   "correct": 280,
    "description_level": 43,
    "header_level": 63,
    "mechanism": 214,
@@ -291,6 +291,12 @@
  },
  "recent_reviews": [
   {
+   "t": "Vitamin E",
+   "u": "/drugs/vitamin-e/",
+   "s": "「原適應症」取自主成分登載為 dl-α-生育醇醋酸酯的單方乳膏",
+   "d": "2026-11-25"
+  },
+  {
    "t": "Tyrosine",
    "u": "/drugs/tyrosine/",
    "s": "備註裡的許可證張數是舊資料集的數字",
@@ -303,6 +309,12 @@
    "d": "2026-11-25"
   },
   {
+   "t": "Polyethylene Glycol 400",
+   "u": "/drugs/polyethylene-glycol-400/",
+   "s": "推論以便秘為本藥的適應症",
+   "d": "2026-11-25"
+  },
+  {
    "t": "Inositol",
    "u": "/drugs/inositol/",
    "s": "「原適應症」多見於肌醇菸鹼酸酯許可證",
@@ -312,6 +324,12 @@
    "t": "Guaiacol",
    "u": "/drugs/guaiacol/",
    "s": "推論所引的感冒複方（鼻塞、流鼻水）主成分是 guaifenesin",
+   "d": "2026-11-25"
+  },
+  {
+   "t": "Enfortumab Vedotin",
+   "u": "/drugs/enfortumab-vedotin/",
+   "s": "「原適應症」混入 pembrolizumab（吉舒達）的黑色素瘤適應症",
    "d": "2026-11-25"
   },
   {
@@ -414,24 +432,6 @@
    "t": "Terbutaline",
    "u": "/drugs/terbutaline/",
    "s": "阻塞性肺病 (Obstructive Lung Disease)預測重審結果（已核准用途，撤回）",
-   "d": "2026-11-03"
-  },
-  {
-   "t": "Salicylamide",
-   "u": "/drugs/salicylamide/",
-   "s": "頁面描述（description）的證據等級",
-   "d": "2026-11-03"
-  },
-  {
-   "t": "Rotigotine",
-   "u": "/drugs/rotigotine/",
-   "s": "頁面描述（description）的證據等級",
-   "d": "2026-11-03"
-  },
-  {
-   "t": "Riluzole",
-   "u": "/drugs/riluzole/",
-   "s": "ALS 第 22 型 (amyotrophic lateral sclerosis type 22)預測重審結果（已核准用途，撤回）",
    "d": "2026-11-03"
   }
  ],

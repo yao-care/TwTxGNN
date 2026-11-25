@@ -5,7 +5,7 @@ parent: 僅模型預測 (L5)
 nav_order: 303
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-25
 description: "Vitamin E：預測新適應症為先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism)（證據等級 L5）。原適應症：皮膚乾燥及因維他命E缺乏引起之皮膚症"
 monitor_inn: "Vitamin E"
 predicted_indications: ["inborn disorder of bilirubin metabolism", "bilirubin metabolism disease", "hereditary North American Indian childhood cirrhosis", "drug-induced liver injury", "microvillus inclusion disease", "hyperbiliverdinemia", "Navajo neurohepatopathy", "nevus of Ito", "adult-onset multiple mitochondrial DNA deletion syndrome due to DGUOK deficiency", "mitochondrial DNA depletion syndrome, hepatocerebral form"]
@@ -52,6 +52,12 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 台灣上市 | 上市中（有效許可證 18 張／共 162 張） |
 | 許可證數 | 162 張（有效單方 0／有效複方 18／已過期 1／已註銷 143） |
 | 建議決策 | Hold |
+
+<!-- review:begin vitamin_e-original-indication-060937-2026-11-25 -->
+
+> **查核加註（2026-11-25）**：這一列的適應症取自衛部藥製字第060937號「意施乳膏(維他命E)」（有效單方，主成分登載為 dl-α-生育醇醋酸酯）；這張許可證的主成分欄沒有「VIT E」字樣，下方許可證表沒有列入，列在 alpha-tocopherol acetate 頁。原文保留。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end vitamin_e-original-indication-060937-2026-11-25 -->
 
 ## 為什麼這個預測合理？
 
@@ -133,6 +139,18 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 - 釐清此疾病與 Vitamin E 的具體病理關聯，例如是否與膽汁淤積導致的脂溶性維生素吸收不良有關。
 - 進行系統性文獻回顧，尋找人體研究證據，必要時再設計前臨床或小型探索性臨床研究。
 - 評估給藥途徑與劑型是否適用於目標族群（多為嬰幼兒）。
+
+<!-- review:begin log -->
+
+## 查核紀錄
+
+以下是本頁經人工對照官方仿單或衛福部食藥署許可證的查核紀錄；更正只限基本藥理事實，模型預測、證據等級與結論未改寫。
+
+| 查核日期 | 項目 | 處理 | 依據 |
+|---------|------|------|------|
+| 2026-11-25 | 「原適應症」取自主成分登載為 dl-α-生育醇醋酸酯的單方乳膏 | 加註 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
+
+<!-- review:end log -->
 
 ## 免責聲明
 

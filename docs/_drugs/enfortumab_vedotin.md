@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Enfortumab vedotin"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-25
 description: "Enfortumab Vedotin：預測新適應症為痲瘋病 (leprosy)（證據等級 L5）。原適應症：１…"
 ---
 
@@ -45,13 +45,19 @@ TxGNN 模型預測它可能對**痲瘋病 (leprosy)** 有效，但目前**沒有
 
 | 項目 | 內容 |
 |------|------|
-| 原適應症 | １、單獨使用適用於治療患有局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人：(１)先前接受過PD-1（programmed death receptor-1） 或PDL1（programmed death-ligand 1）抑制劑和含鉑化學治療；或(２)不適合接受含cisplatin 化學治療，且先前接受過一線以上治療。２、併用pembrolizumab適用於治療局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人。; 1.黑色素細胞瘤： 治療無法切除或轉移性黑色素瘤病人。 作為輔助性療法治療患有第IIB或IIC期黑色素瘤並已進行完全切除的成人與12歲以上兒童病人。 作為輔助性療法治療侵犯至淋巴結；另與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號） |
+| 原適應症 | １、單獨使用適用於治療患有局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人：(１)先前接受過PD-1（programmed death receptor-1） 或PDL1（programmed death-ligand 1）抑制劑和含鉑化學治療；或(２)不適合接受含cisplatin 化學治療，且先前接受過一線以上治療。２、併用pembrolizumab適用於治療局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人。３、與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號） |
 | 預測新適應症 | 痲瘋病 (leprosy) |
 | TxGNN 預測分數 | 0.9953 |
 | 證據等級 | L5 |
 | 台灣上市 | 上市中（有效許可證 2 張／共 2 張） |
 | 許可證數 | 2 張（有效單方 2／有效複方 0／已註銷 0） |
 | 建議決策 | Hold |
+
+<!-- review:begin enfortumab_vedotin-original-indication-pembrolizumab-2026-11-25 -->
+
+> **查核更正（2026-11-25）**：原寫「原適應症／１、單獨使用適用於治療患有局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人：(１)先前接受過PD-1（programmed death receptor-1） 或PDL1（programmed death-ligand 1）抑制劑和含鉑化學治療；或(２)不適合接受含cisplatin 化學治療，且先前接受過一線以上治療。２、併用pembrolizumab適用於治療局部晚期或轉移性泌尿道上皮癌(mUC)的成人病人。; 1.黑色素細胞瘤： 治療無法切除或轉移性黑色素瘤病人。 作為輔助性療法治療患有第IIB或IIC期黑色素瘤並已進行完全切除的成人與12歲以上兒童病人。 作為輔助性療法治療侵犯至淋巴結；另與 pembrolizumab 併用於不適合含 cisplatin 化療之肌肉侵犯性膀胱癌（MIBC）的前導性及術後輔助治療（衛部菌疫輸字第001212號）」。原文混入的「黑色素細胞瘤」等適應症取自 pembrolizumab 的許可證（衛部菌疫輸字第001025號），是另一個藥；改為本藥許可證（衛部菌疫輸字第001212號、第001213號）核准的三項適應症。依據：[衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json)。
+
+<!-- review:end enfortumab_vedotin-original-indication-pembrolizumab-2026-11-25 -->
 
 ## 為什麼這個預測合理？
 
@@ -127,6 +133,7 @@ TxGNN 模型預測它可能對**痲瘋病 (leprosy)** 有效，但目前**沒有
 | 2026-10-16 | 一句話總結漏列肌肉侵犯性膀胱癌 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為更正） | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-09-29；2026-10-16 逐號程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 | 2026-10-16 | 稱 EV-202 有 HER2 陽性乳癌依據 | 報告重生後已無此錯誤（2026-10-28：報告重產與事實層改寫後，本紀錄指出的錯誤原文已不在正文（僅見於本頁查核紀錄表或程式產生的許可證表）（2026-10-28 用戶核准的處理方案）；原為加註） | [ClinicalTrials.gov：NCT04225117（EV-202）](https://clinicaltrials.gov/study/NCT04225117) |
 | 2026-11-19 | 「目前缺乏詳細的作用機轉資料」改為美國仿單節錄 | 「缺乏作用機轉資料」句改為附出處的仿單節錄 | [DailyMed: Padcev Ejfv (enfortumab vedotin) prescribing information, SEAGEN INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5631d3e-4604-4363-8f20-11dfc5a4a8ed) |
+| 2026-11-25 | 「原適應症」混入 pembrolizumab（吉舒達）的黑色素瘤適應症 | 更正 | [衛福部食藥署開放資料「全部藥品許可證資料集」（資料集 36，檔案日期 2026-11-24；2026-11-25 程式核對）](https://data.fda.gov.tw/data/opendata/export/36/json) |
 
 <!-- review:end log -->
 
