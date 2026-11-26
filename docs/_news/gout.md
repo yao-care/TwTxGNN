@@ -3,9 +3,9 @@ layout: default
 title: "痛風 (gout) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "痛風 (gout) 的相關健康新聞報導。2 則新聞、3 個相關藥物。"
+description: "痛風 (gout) 的相關健康新聞報導。3 則新聞、3 個相關藥物。"
 permalink: /news/gout/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-26
 ---
 
 # 痛風 (gout) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="痛風 (gout) 有什麼相關新聞？">
-<strong>痛風 (gout)</strong> 目前有 <strong>2 則</strong>相關新聞報導，3 個相關藥物。
+<strong>痛風 (gout)</strong> 目前有 <strong>3 則</strong>相關新聞報導，3 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [痛風病例激增醫師：做這3件事能減低發作風險| 家居大小事| 生活 | 世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcF9mU3RYelBPR2MwcFJCd2d4T0V2cGJ6djd5TGtNRGpSMzh3cXh0eVFEb2RkSkphRHhiSldad2JNU3lTNTdudDVLQlJ5R3JqVC1SVEJsYWo4VlNuWXN0bEJR?oc=5)
+
+2026-11-19
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcF9mU3RYelBPR2MwcFJCd2d4T0V2cGJ6djd5TGtNRGpSMzh3cXh0eVFEb2RkSkphRHhiSldad2JNU3lTNTdudDVLQlJ5R3JqVC1SVEJsYWo4VlNuWXN0bEJR?oc=5)
+
+---
 
 ### [痛風病例激增 醫師：做這3件事能減低發作風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZcF9mU3RYelBPR2MwcFJCd2d4T0V2cGJ6djd5TGtNRGpSMzh3cXh0eVFEb2RkSkphRHhiSldad2JNU3lTNTdudDVLQlJ5R3JqVC1SVEJsYWo4VlNuWXN0bEJR0gFnQVVfeXFMTmVfMzY0MVhtYjBrU3gwcUNuTTdpeVFENHdoMGE1OEJmN3RnZzBianQ2N2lmTDdkM1dmRVZoaGZjTmxTc1l1c2ItWjd3Znd1djUzUkk2REZiaEZpNUxBUnl0cXRURFhycw?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "心臟病 (heart_disease) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心臟病 (heart_disease) 的相關健康新聞報導。6 則新聞、13 個相關藥物。"
+description: "心臟病 (heart_disease) 的相關健康新聞報導。7 則新聞、13 個相關藥物。"
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # 心臟病 (heart_disease) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="心臟病 (heart_disease) 有什麼相關新聞？">
-<strong>心臟病 (heart_disease)</strong> 目前有 <strong>6 則</strong>相關新聞報導，13 個相關藥物。
+<strong>心臟病 (heart_disease)</strong> 目前有 <strong>7 則</strong>相關新聞報導，13 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 相關新聞（6 則）
+## 相關新聞（7 則）
+
+### [你睡對了嗎？ 睡滿「這幾小時」防癡呆、抗衰老效果佳- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
+
+2026-11-26
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
+
+---
 
 ### [研究：心臟病患者睡9小時以上 死亡風險高5成](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNF80dzdhOTRFOVJwbS1mY2tDSFRRWEwwZ2tCelZ3MHZyYjhSOFFIRngtd2REOFhiSmo5OFIxRzUyM0NtV2tVMjlkX0dNRU9ZcHkxdG5NR2c4TTNVLWx2Y1V30gFnQVVfeXFMT21mY1hUdDgtUmtXaUplNGNlenM0TEpHTEdUSXVzX0JQUFlzY2RPUmVKMGtoV0M5Q2VzOVY3cy1xNW4zN0NMby1NN1NSZGR3UFlOYktIcW44Wm9CNnNSQ0V0Q0FTSjZXVQ?oc=5)
 

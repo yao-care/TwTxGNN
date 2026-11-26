@@ -3,9 +3,9 @@ layout: default
 title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。22 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。23 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # 感冒 (common cold) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>22 則</strong>相關新聞報導，1 個相關藥物。
+<strong>感冒 (common cold)</strong> 目前有 <strong>23 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
 
 ### [吃保健品增抵抗力？　醫揭改變「關鍵習慣」4事降發炎](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
 
@@ -61,6 +61,14 @@ last_modified_at: 2026-11-25
 2026-11-22
 
 來源: [星島頭條](https://news.google.com/rss/articles/CBMijwNBVV95cUxNNDZZVnRRQ05Nb09PZjJRb1hhLWpJNUlXd3EzM0J2dkdIVWxTRWEyclBkbTg0SFg3c2Vrd3NEaFlWY2tlYUFQWndYWHN4dzVNVUV3MnBlOGpxYzVCMDRpLU1ibnpVOEhDNzhtSU9McU40UlFqMFFuOHZFNXhWcGgxNC1xLWlfeDJ6a3ozdElBQzdlMEdpaUNYcXpWdVNYR3dhNFJHOXkxZTYwN2VCUlRBelBKTHlodDRkSlFIa2VrS29qTGFLbFloeDBqNHRaZm9DM1BqajJpRTJfYld2Z0s2V0ZWbXAzSTFORkVQWVhCZEVfNzB1b2Y1aHEyaGx3S09VSDdXZzhWeTZ0eTViWE1saXdnbC1JWS1iZEstNk5sdk9VeVU5RGV1YUlwOWJiQ0tYY29VV0d4X2EwWXpYeXFoODRSdExSSXpDNEczTENkZ0VXcS14NklrUlk4a2RHa0llbEhnalEwOWdTcHVyVE8yTFZIeUVzX1h2YlpsMFlDVXVKc21US0Y1WWR0V0VDcjQ?oc=5)
+
+---
+
+### [感冒狂吃「維生素C」好得快？小心腸胃不適、腹瀉找上門](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNHJRX3lhTWFGWUVrVzNSenk3cG1MQ2pISDROSnoxVExDQmp4cEZMVUZmczVzX0FNYXJZUDZOaUNTdE1sc3E2UnQ3ekNUcUhnSnhvRUhnMURpSkJtQ3VlSnlXb2pZakRtZjdfUVlJVWFBWU5INjVsQm5XY2VwMEEzME9nSkJwZmZsRmUwUjg3Ql9RYlUxaFNnNTdKREp3WHgtd3RESkFOSExoWGlIcXFNc2wxOTB0b3NPb3Z3enl5ZVFHdTFCZkRPTzdFZWUyTWVyR21pU0VBOWZTWUpXRy1wZURDR09wY3cwRDlFS0d4M0lvUjNZUWFfdHFEUVA5QkR3My1Gc0FsVjZJYkJTYTlOZGtZVW9OeDAzTHJUMmdCR3gxYUJnVUFIR05fRUFoazgyYzg2bHNWWmlFZWZldVBydm5RV3BZYzN3VkhKN2JCNDY1c1RCeEE?oc=5)
+
+2026-11-20
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNHJRX3lhTWFGWUVrVzNSenk3cG1MQ2pISDROSnoxVExDQmp4cEZMVUZmczVzX0FNYXJZUDZOaUNTdE1sc3E2UnQ3ekNUcUhnSnhvRUhnMURpSkJtQ3VlSnlXb2pZakRtZjdfUVlJVWFBWU5INjVsQm5XY2VwMEEzME9nSkJwZmZsRmUwUjg3Ql9RYlUxaFNnNTdKREp3WHgtd3RESkFOSExoWGlIcXFNc2wxOTB0b3NPb3Z3enl5ZVFHdTFCZkRPTzdFZWUyTWVyR21pU0VBOWZTWUpXRy1wZURDR09wY3cwRDlFS0d4M0lvUjNZUWFfdHFEUVA5QkR3My1Gc0FsVjZJYkJTYTlOZGtZVW9OeDAzTHJUMmdCR3gxYUJnVUFIR05fRUFoazgyYzg2bHNWWmlFZWZldVBydm5RV3BZYzN3VkhKN2JCNDY1c1RCeEE?oc=5)
 
 ---
 

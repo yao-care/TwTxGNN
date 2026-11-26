@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Berberine 的相關健康新聞報導。原適應症：痢疾菌、大腸菌、葡萄球菌、沙門氏腸內球菌、鏈球菌、變形菌等細菌性腹瀉、腸炎。預測適應症 10 個。"
 permalink: /news/berberine/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Berberine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Berberine 有什麼相關新聞？">
-<strong>Berberine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Berberine</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/berberine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（33 則）
+## 相關新聞（34 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -106,6 +106,14 @@ last_modified_at: 2026-11-25
 2026-11-20 <span class="news-indication-tag">癌症</span>
 
 來源: [行銷人](https://news.google.com/rss/articles/CBMi-wJBVV95cUxQNVM3elJCWER4S2dhdzJTZHFYekFaTVNERzBUdzRlRVRoZnE2UV9BbUJvNVpLVWNab19mYWpNdUgwRERQSHBJa2dlZ0dUd3J5V0c2NU43SFpoRTllQU83bDFOUXVVc09FSHd1QTE1NjNQME5UTDYzNUUySnpPU291ZHZMTWw1SzYzbnNPWkh3bFJ0NHhyTjRIelg4SVVCUnU1TUxUVkhWRFpyWHUxenZwUlhzTC1kN0RDdmE0bC1ONk5OdHBVVExCb3Zrc0lzY3BHUXQwcGViVV9QMDlHS2xPLTRxZlRoekt1T1djUmtKTGt1NWdRV0tpTE04eVlpdGhGRXB3RWpnVFFMU1NMS1dIblBVbnRTWUZXekxOZlg0Q3lBSFBmc0doTFV2TE95Wk81aUtCdmNnOU9fT2dyOTQ2QnRyZjZBbGQwTWRyRHdScWNFd1hWX2VoOEp4LVU1Z0VtRDVNaGNsMXBYOUJBT2w3TW1hZGNqQ09qTEI4?oc=5)
+
+---
+
+### [感冒狂吃「維生素C」好得快？小心腸胃不適、腹瀉找上門](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNHJRX3lhTWFGWUVrVzNSenk3cG1MQ2pISDROSnoxVExDQmp4cEZMVUZmczVzX0FNYXJZUDZOaUNTdE1sc3E2UnQ3ekNUcUhnSnhvRUhnMURpSkJtQ3VlSnlXb2pZakRtZjdfUVlJVWFBWU5INjVsQm5XY2VwMEEzME9nSkJwZmZsRmUwUjg3Ql9RYlUxaFNnNTdKREp3WHgtd3RESkFOSExoWGlIcXFNc2wxOTB0b3NPb3Z3enl5ZVFHdTFCZkRPTzdFZWUyTWVyR21pU0VBOWZTWUpXRy1wZURDR09wY3cwRDlFS0d4M0lvUjNZUWFfdHFEUVA5QkR3My1Gc0FsVjZJYkJTYTlOZGtZVW9OeDAzTHJUMmdCR3gxYUJnVUFIR05fRUFoazgyYzg2bHNWWmlFZWZldVBydm5RV3BZYzN3VkhKN2JCNDY1c1RCeEE?oc=5)
+
+2026-11-20 <span class="news-indication-tag">感冒</span> <span class="news-indication-tag">腹瀉</span>
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNHJRX3lhTWFGWUVrVzNSenk3cG1MQ2pISDROSnoxVExDQmp4cEZMVUZmczVzX0FNYXJZUDZOaUNTdE1sc3E2UnQ3ekNUcUhnSnhvRUhnMURpSkJtQ3VlSnlXb2pZakRtZjdfUVlJVWFBWU5INjVsQm5XY2VwMEEzME9nSkJwZmZsRmUwUjg3Ql9RYlUxaFNnNTdKREp3WHgtd3RESkFOSExoWGlIcXFNc2wxOTB0b3NPb3Z3enl5ZVFHdTFCZkRPTzdFZWUyTWVyR21pU0VBOWZTWUpXRy1wZURDR09wY3cwRDlFS0d4M0lvUjNZUWFfdHFEUVA5QkR3My1Gc0FsVjZJYkJTYTlOZGtZVW9OeDAzTHJUMmdCR3gxYUJnVUFIR05fRUFoazgyYzg2bHNWWmlFZWZldVBydm5RV3BZYzN3VkhKN2JCNDY1c1RCeEE?oc=5)
 
 ---
 

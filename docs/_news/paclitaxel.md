@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Paclitaxel 的相關健康新聞報導。原適應症：晚期卵巢癌、腋下淋巴轉移之乳癌，作為接續含杜薩魯比辛（DOXORUBICIN）在內之輔助化學療法、已...。預測適應症 2 個。"
 permalink: /news/paclitaxel/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Paclitaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>51 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>52 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（51 則）
+## 相關新聞（52 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -138,6 +138,14 @@ last_modified_at: 2026-11-25
 2026-11-22 <span class="news-indication-tag">胃癌</span>
 
 來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5)
+
+---
+
+### [HPV不只引發子宮頸癌 男性也有口咽癌、肛門癌及陰莖癌風險](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUYkZqV0YwendlNS1USnlNUW12SVZSdnQxOER0S3hVaDFKdHpqLVdiQTFkb29qQUx3QTRmcGFRME9PMVVYdE5velBfZTA4dzFxQmszVlI2bzJRYlFfU3M2dA?oc=5)
+
+2026-11-21 <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [民報](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUYkZqV0YwendlNS1USnlNUW12SVZSdnQxOER0S3hVaDFKdHpqLVdiQTFkb29qQUx3QTRmcGFRME9PMVVYdE5velBfZTA4dzFxQmszVlI2bzJRYlFfU3M2dA?oc=5)
 
 ---
 
