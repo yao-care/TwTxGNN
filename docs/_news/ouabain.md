@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>20 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（20 則）
+## 相關新聞（21 則）
 
 ### [你睡對了嗎？ 睡滿「這幾小時」防癡呆、抗衰老效果佳- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
 
@@ -66,6 +66,14 @@ last_modified_at: 2026-11-26
 2026-11-23 <span class="news-indication-tag">心梗</span> <span class="news-indication-tag">中風</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5)
+
+---
+
+### [「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
+
+2026-11-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
+
+來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
 
 ---
 

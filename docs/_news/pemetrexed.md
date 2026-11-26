@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Pemetrexed 的相關健康新聞報導。原適應症：1.ALIMTA 併用cisplatin 是治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外...。預測適應症 3 個。"
 permalink: /news/pemetrexed/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Pemetrexed 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Pemetrexed 有什麼相關新聞？">
-<strong>Pemetrexed</strong> 目前有 <strong>31 則</strong>相關新聞報導，預測適應症 3 個。
+<strong>Pemetrexed</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 3 個。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/pemetrexed/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（31 則）
+## 相關新聞（32 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -67,6 +67,14 @@ last_modified_at: 2026-11-25
 2026-11-23 <span class="news-indication-tag">腫瘤</span> <span class="news-indication-tag">頭頸部鱗狀細胞癌</span>
 
 來源: [生技投資第一站-Genet觀點](https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNDZyVjRHNnBfQWlvSE1HMW5fUU9rZWxQY1cyb051NXdWTVVPRGp0Uzd1MTRoLUZQWDhuZzk0amZpWlMxRXVGZWMwUm5vU3lnU203Wm1OT0dubTludFpWdG84RUlDdTNLbHQ4VQ?oc=5)
+
+---
+
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">腫瘤</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
 
 ---
 

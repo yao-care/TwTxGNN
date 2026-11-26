@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Ramucirumab 的相關健康新聞報導。原適應症：胃癌：與 paclitaxel 併用，或單一藥物用於接受過 fluoropyrimidine 和 p...。預測適應症 10 個。"
 permalink: /news/ramucirumab/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Ramucirumab 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Ramucirumab 有什麼相關新聞？">
-<strong>Ramucirumab</strong> 目前有 <strong>34 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ramucirumab</strong> 目前有 <strong>35 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（34 則）
+## 相關新聞（35 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -90,6 +90,14 @@ last_modified_at: 2026-11-25
 2026-11-22 <span class="news-indication-tag">胃癌</span>
 
 來源: [三立新聞](https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Pajh3Y1R2bU1pTU11cXRPSXR5OF9icWdaaHF1SnEtVXdGcEUwQ3VUVTNkSmRzZDNmMXZ2Xzk5LThjNGkwMVIxYV9JZU4?oc=5)
+
+---
+
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">腫瘤</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
 
 ---
 

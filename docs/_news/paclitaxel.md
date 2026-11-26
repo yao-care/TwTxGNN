@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>52 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>54 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（52 則）
+## 相關新聞（54 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -149,6 +149,14 @@ last_modified_at: 2026-11-26
 
 ---
 
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">腫瘤</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
+
+---
+
 ### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是T 細胞攻擊開關- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tZkgxT2lUYk9yWGFUWDJrVi11RUJMalJDNzEzZzRaNDZyWGREQURCUGR3N0wwYjJRN2xDdWc1MzRfd1c3RVVIX294RkZDWmVBVW9CdXhpRk4?oc=5)
 
 2026-11-20 <span class="news-indication-tag">腫瘤</span>
@@ -170,6 +178,14 @@ last_modified_at: 2026-11-26
 2026-11-20 <span class="news-indication-tag">癌症</span>
 
 來源: [行銷人](https://news.google.com/rss/articles/CBMi-wJBVV95cUxQNVM3elJCWER4S2dhdzJTZHFYekFaTVNERzBUdzRlRVRoZnE2UV9BbUJvNVpLVWNab19mYWpNdUgwRERQSHBJa2dlZ0dUd3J5V0c2NU43SFpoRTllQU83bDFOUXVVc09FSHd1QTE1NjNQME5UTDYzNUUySnpPU291ZHZMTWw1SzYzbnNPWkh3bFJ0NHhyTjRIelg4SVVCUnU1TUxUVkhWRFpyWHUxenZwUlhzTC1kN0RDdmE0bC1ONk5OdHBVVExCb3Zrc0lzY3BHUXQwcGViVV9QMDlHS2xPLTRxZlRoekt1T1djUmtKTGt1NWdRV0tpTE04eVlpdGhGRXB3RWpnVFFMU1NMS1dIblBVbnRTWUZXekxOZlg0Q3lBSFBmc0doTFV2TE95Wk81aUtCdmNnOU9fT2dyOTQ2QnRyZjZBbGQwTWRyRHdScWNFd1hWX2VoOEp4LVU1Z0VtRDVNaGNsMXBYOUJBT2w3TW1hZGNqQ09qTEI4?oc=5)
+
+---
+
+### [驚！「男性」也要防HPV 研究：未打疫苗「口咽癌風險」暴增24倍](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTFVVb01CTWI1NkhMd3dUQ1RvSWtwZ1A4a0RyN08teFhRYnZhRnJxbFRmcjBseS1QajVGckdjZ2VpVEo5T3kxMjNyRjFGNnBYTml1TDFKLWdXQQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [尋夢園聊天室](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fTFVVb01CTWI1NkhMd3dUQ1RvSWtwZ1A4a0RyN08teFhRYnZhRnJxbFRmcjBseS1QajVGckdjZ2VpVEo5T3kxMjNyRjFGNnBYTml1TDFKLWdXQQ?oc=5)
 
 ---
 

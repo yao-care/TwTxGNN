@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Tinidazole 的相關健康新聞報導。原適應症：男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎。預測適應症 10 個。"
 permalink: /news/tinidazole/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Tinidazole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>38 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>39 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（38 則）
+## 相關新聞（39 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -98,6 +98,14 @@ last_modified_at: 2026-11-25
 2026-11-23 <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">停經</span>
 
 來源: [元氣網](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yV2VpZEg4VmJKbVliVE1vdm5GT0V2MlNTZURHTVpSQUJQMWhyNkF0eWRObEhFMzZpdzFLbkFaUVd2bGlfb2JRU2syNHF2R2E2Q1VCeXhzblUxak900gFiQVVfeXFMUHNTbjdSTFhaM3RLOU1UQU1qUlFSVHlfRkxjaGhHLThoMUFSS1QxdXRZMHdFTzV2LTlXcXVubGpUQ2M1OGs4dEtUQlppYkZJTFJNbTJkYXZLNEhZTzFzQ0IyWnc?oc=5)
+
+---
+
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">腫瘤</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
 
 ---
 

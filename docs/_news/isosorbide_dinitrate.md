@@ -79,7 +79,7 @@ last_modified_at: 2026-11-26
 
 ### [「睡眠規律」更護心哈佛研究：作息不固定心血管風險大增- 國際](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
 
-2026-11-21 <span class="news-indication-tag">心血管</span>
+2026-11-21 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
 
 來源: [工商時報](https://news.google.com/rss/articles/CBMiX0FVX3lxTE44ajZ4U3hPcmtGV1Nva0dReTcwWVQ3RmZqbHNFYl9LQ2pWM2l5aDhSeU5IV1UzRzlvYVhKUGdlX3pwM0haUHZNeUR1SVd6YzFueC1GU0tnYjFycllRckFB?oc=5)
 

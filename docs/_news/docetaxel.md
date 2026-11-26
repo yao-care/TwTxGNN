@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Docetaxel 的相關健康新聞報導。原適應症：抗癌藥。; 乳癌、非小細胞肺癌、前列腺癌、頭頸癌、胃腺癌。; 抗乳癌、非小細胞肺癌、前列腺癌藥物。;...。預測適應症 7 個。"
 permalink: /news/docetaxel/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # Docetaxel 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>41 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Docetaxel</strong> 目前有 <strong>42 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（41 則）
+## 相關新聞（42 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -95,6 +95,14 @@ last_modified_at: 2026-11-25
 2026-11-23 <span class="news-indication-tag">乳癌</span>
 
 來源: [Sing Tao Daily 星島日報加拿大](https://news.google.com/rss/articles/CBMiuANBVV95cUxQalBrdVJlLTVMd3lZQTVJNDZCcHlZRXdEZ2Njei1XOXZVZXhrSW55U1ZlYV9YMFFwbzVOZkdzM0dLcjdoWVNfMUMxMXZzcUhzMndwRDlHaWFUdGdhS3dOTnF3ZzlwSFFieWxCSVl1WnNRazJNV2k1Vk13U2lzbS1Jcmlwanh5ZHVIa3VRTy1tWEhWSkprMng2S0ZhbklpdnQtUHFDVkhMTXNKUmNMUjVBbi01MjcxeG8xNlplLVcwNk51S1BRZWFMV3plNlRfSTRiWlhiYjdlblo1Y2J6UTc5MVNwQUVpNzYtT1NGcjdEYXFkdnpWUnBpb01kZDZrZ0pKWk5PVzhXRUN3T0NlT0NqclFDSl82elJtWEhua2l5dkl1dENxMC1NQ3hBclFJaGNfSTJXX0NxWVVnR2luN2RJX2xabDhrOWFTei1lVjNaeWlSdHNxY3ZscDdDRjNrZkJrdjIwUGt1UnFqN0YwZGtXS1F6VURsc09mMFp5VURxVjI0MUN3bm1WQ0JmaHQ2Mm1nSTkwQ3RqWjlKb0RrZk02YmVtVmRYYjN4bGg2ZWJJb1cybUVWc29FdNIBkgFBVV95cUxOQzNTc2Q4cXdVN3hrUzRFb3AzZ3RoeVNHNkpxTlloQlRXWF9PMXhjaTkyWW4yanNaX0FjRTBzbHRfYm1qT081WnlCZ2FTMTJXdl8tSVhXQnN6VjYtT2s2VlhZQmE2WG9YQ0M4SFFGMHp5Y1JodTgwR0FaOFYzNDBnSzJSR2d1aWlpcTVnLWlGQ1ZVUQ?oc=5)
+
+---
+
+### [腫瘤竟用抗氧化劑癱瘓免疫系統？少量自由基其實是 T 細胞攻擊開關 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">腫瘤</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE00cjRwbEtJQTY1UXRVcmlIdFZNckJMNUZ2Y0h5LXlRak10N2NTeEJfNEYwQjFpbjRNTHB4X3NsX19fWTFTWFBjQmRqRDhWZm01OHFncXBn?oc=5)
 
 ---
 
