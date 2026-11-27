@@ -1,5 +1,5 @@
 {
-  "last_check": "2026-11-27T06:14:59.268412",
+  "last_check": "2026-11-27T20:36:03.904400",
   "seen_trials": {
     "Acetazolamide": [
       "NCT05470283",
@@ -1762,6 +1762,12 @@
     ],
     "Fosfomycin": [
       "NCT07928063"
+    ],
+    "Dexketoprofen": [
+      "NCT07960901"
+    ],
+    "Nepafenac": [
+      "NCT07962981"
     ]
   }
 }
