@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>55 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>57 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（55 則）
+## 相關新聞（57 則）
+
+### [癌症心臟保護藥臨床療效分歧 常規預防面臨實證挑戰](https://news.google.com/rss/articles/CBMirgJBVV95cUxOOHZCcFh3ZG5kWGNmN09OY0RtR2ZsdlV6blRiUzNqWE9zdHRkTUxFUHlHLWFlYVJTWm5pNENUclNTdzNJcnd3a2tKUWIwejl0Q1Rhdm5WQjZIUjl4VVVSbnBfV013b1BMSi03TVJiMnctb01idWtDbjdUbWt2bVpJeWpBSjRQYTFRckh3eG5GVzNXZ21nVGk5RjN4RVZEdm9FczJqa21uaEwzdGxGMUZXZ3poSjR1WHMxNi1wQ3ZRa1phdVo5Q2dHaDZEY2VoNGtoTi14eVVUbTZuUUNfemlST3duVG9TMENnSzNkMTVVOF9HeWVUNnRLMnotQlJSQ2JZaHdpS1pVdW9sd2VYWTVrTlBVSDhBNWgweXFBUXk1TDkzZkxhLV9BRVJDRWtyZw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMirgJBVV95cUxOOHZCcFh3ZG5kWGNmN09OY0RtR2ZsdlV6blRiUzNqWE9zdHRkTUxFUHlHLWFlYVJTWm5pNENUclNTdzNJcnd3a2tKUWIwejl0Q1Rhdm5WQjZIUjl4VVVSbnBfV013b1BMSi03TVJiMnctb01idWtDbjdUbWt2bVpJeWpBSjRQYTFRckh3eG5GVzNXZ21nVGk5RjN4RVZEdm9FczJqa21uaEwzdGxGMUZXZ3poSjR1WHMxNi1wQ3ZRa1phdVo5Q2dHaDZEY2VoNGtoTi14eVVUbTZuUUNfemlST3duVG9TMENnSzNkMTVVOF9HeWVUNnRLMnotQlJSQ2JZaHdpS1pVdW9sd2VYWTVrTlBVSDhBNWgweXFBUXk1TDkzZkxhLV9BRVJDRWtyZw?oc=5)
+
+---
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
@@ -66,6 +74,14 @@ last_modified_at: 2026-11-27
 2026-11-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
 
 來源: [myTV SUPER](https://news.google.com/rss/articles/CBMiigVBVV95cUxQcWVZRDAwMWxCZ1EzYUZ3aUVYUnFOSXd1WVg0dy00TjNXb09Eb0c3TzdJUDRPOTlGY3dzeHQxQTV0NHVyRUxZalVueHlpZ2oxSEtNSGtFYmNkeGZlZlZLTVNmb0xrU2NFM3MtRHJscjdVT3dUTHRiNXVmZzVfdncweWtUQ3k1TUVVSEh5UFdLTEYxUVNCd1BoQlp4c3J3VnltQWZBRGJ5M1c5UnVLajJsR3pLLXJnaDJaeU9qWUszWVBrQXFmNkxKUjZnR3gxajZLdUp1M2lOTElScjVZZU15RW4ybkhTa01tY3c5ZEl2Q3E4UEtvR2h2N21rcTFtcE51R3VSeEZzcy00elpISjRZT2F2LVVBTEZqcTVJVFo0YUtEbXVjb3ppUjVRcFd0dXBiSUc5Z0lvNTA2UVdqOU9lNkFxa1FjOFJKQzlHbmVycllnV2t5bEFteEdvRzU0LXhYMGdUWGZMM2RTUHRPQWZPeUtOSi1fR2c3SDlnUVlXX2d4WG5vSGNlcFhycUVlX0ZXSjgzQnZmanpYX1RQakRhZGdud3dDaW03Qm92V1ZKeS1VV1FSLVRYRkd3VnY2TW1TWlI2Nm1mSkVvbk90ZGxXcEl0RVh4emJhb0pmYUFzR21OVmsxNmptTmxERkRYNnZKd3BWSVdrdWFUV2pudTlCaW9QaUpiX0NpM2VkVWZObjM5TVV4VVJzQkYtRlduRHBQelpLUFdvQjhhUUlVNlVFX0ZUWExSU1VVbkk4MEtJVUQyM3E1NzhTdThpSnc4Mnc2THZvVEFPYVVyQnhvUVBXeHIzeHpzQ2RGcXowNGRrMmtIaFo0N2pYR3czQUlwQ0FNUmZ4bjVKQzVfUQ?oc=5)
+
+---
+
+### [釐清成因風險 比對檢測結果 晚期胃癌治療新方案](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNRGdkVEFTRldsWmFsRXVBTUZZZTVUSWZ0ODRMQWpsQmhFZWRqZy1Gak9IdkF6ekJFdlQ1UWFnOWZqQmRaeE90d3pnX0dad25mZ2JBZWRpclhaVHM0ZzB1QXZTUGU4LU1sdHFaYURHeWdEb2E0ZDhUUUh2bnl1RE13WDREdXYxa1ZLODBIV1ZBUV8tRC12d2tOV2wzaVZsV1pTbGh6ZmJSQzFONnRqdEZCUnFteE9RWmV5U3VEb1hESlBTQUx2Y2QzSmI4OWFFQm1BdVVWTjZubzNOV2FEaTJ1WUVLMkd3MDlkaVBHcHI4TmF2SmhtVlpFZHE2cl9vS0xCc1VMRnd0aDhrUklTdE5lUVZXN2RDVnVsNEVLbHFOYW1FOHpRdFIxZEF0Z1kyc0wwN2ZRcW1aR0p4UnRwX0taaVJGU3Ywejk4SmtUV2s0Y3VOT3NBRm5GZFd2YTVPMmJRdnV3?oc=5)
+
+2026-11-25 <span class="news-indication-tag">胃癌</span>
+
+來源: [信報網站](https://news.google.com/rss/articles/CBMi4wJBVV95cUxNRGdkVEFTRldsWmFsRXVBTUZZZTVUSWZ0ODRMQWpsQmhFZWRqZy1Gak9IdkF6ekJFdlQ1UWFnOWZqQmRaeE90d3pnX0dad25mZ2JBZWRpclhaVHM0ZzB1QXZTUGU4LU1sdHFaYURHeWdEb2E0ZDhUUUh2bnl1RE13WDREdXYxa1ZLODBIV1ZBUV8tRC12d2tOV2wzaVZsV1pTbGh6ZmJSQzFONnRqdEZCUnFteE9RWmV5U3VEb1hESlBTQUx2Y2QzSmI4OWFFQm1BdVVWTjZubzNOV2FEaTJ1WUVLMkd3MDlkaVBHcHI4TmF2SmhtVlpFZHE2cl9vS0xCc1VMRnd0aDhrUklTdE5lUVZXN2RDVnVsNEVLbHFOYW1FOHpRdFIxZEF0Z1kyc0wwN2ZRcW1aR0p4UnRwX0taaVJGU3Ywejk4SmtUV2s0Y3VOT3NBRm5GZFd2YTVPMmJRdnV3?oc=5)
 
 ---
 

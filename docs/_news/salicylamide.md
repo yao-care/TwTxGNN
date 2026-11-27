@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>26 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（25 則）
+## 相關新聞（26 則）
 
 ### [破傷風出現 1 例死亡，河內相關高風險地區的防疫重點是什麼?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZVYwR3dBSjNFOUJiOGNjRzF4UFRqUVM3UnNaX2twaEVTNTctUU5UYm9VRTJoc1lNQk5MRkthNVlWTG1GVXpsV1pjUXdvZ1NHOXpJS1RPUGNqVGpKbjlHWHJZUHhqN0V2a0E4Z1hwVG9RQzREVkVXZU94dw?oc=5)
 
 2026-11-26 <span class="news-indication-tag">傷風</span>
 
 來源: [CMoney](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZVYwR3dBSjNFOUJiOGNjRzF4UFRqUVM3UnNaX2twaEVTNTctUU5UYm9VRTJoc1lNQk5MRkthNVlWTG1GVXpsV1pjUXdvZ1NHOXpJS1RPUGNqVGpKbjlHWHJZUHhqN0V2a0E4Z1hwVG9RQzREVkVXZU94dw?oc=5)
+
+---
+
+### [維他命C一天吃多少最好？營養師解析高C蔬果與最佳吃法 - PeoPo 公民新聞](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHdFU5SzdVNkZ2RGZ4UjRlQ29UMjNvYmUzYzdybnMtZ21RVnIwdUhBZ3dkWkluN0h5MnFPT1hMVnQyLUF0YnNDbg?oc=5)
+
+2026-11-26 <span class="news-indication-tag">感冒</span>
+
+來源: [PeoPo 公民新聞](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHdFU5SzdVNkZ2RGZ4UjRlQ29UMjNvYmUzYzdybnMtZ21RVnIwdUhBZ3dkWkluN0h5MnFPT1hMVnQyLUF0YnNDbg?oc=5)
 
 ---
 

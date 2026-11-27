@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "失智症 (dementia) 相關新聞"
+title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "失智症 (dementia) 的相關健康新聞報導。19 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。23 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-27
 ---
 
-# 失智症 (dementia) 相關新聞
+# 阿茲海默症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
-<strong>失智症 (dementia)</strong> 目前有 <strong>19 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>23 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（19 則）
+## 相關新聞（23 則）
+
+### [類大腦送上外太空催熟，揭阿茲海默症病變機制差異- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5)
+
+2026-11-27
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5)
+
+---
+
+### [感染第一型單純疱疹病毒 失智與阿茲海默症風險恐增48%](https://news.google.com/rss/articles/CBMisAJBVV95cUxPMkpzdzhRM0YxNEd1TEZPQXdXUS1uRElqNmtUeGJfRUEteEJBNGdObXhiRkV0d0VqajBDVkJNeERJa0ljRGdINGVVVDM2UGZXZ3FIMHFLSmtSVG1mN0xocGNISGl6VG9URWlWOW52QjlZaXJVY0p2eVJsTkY2c0RLTGx6UW54UFlGZGZlREY3dmUxUEhNU2pOMmRHcE0yYk5CaWt3QnVpajRlRDBXdlpDeHhMVWNkWmJvQktPemNvbWhwaEc4bXVMNFY0SzhWVWd2LURWMTdmcHM0TlVuaGpnNnQ4TDlucUFWdVp2cG4xZ0E4Qnl1eHktclpUTWJZWmVYaFk1SEpYUVMtdVppNnFHNDVCaXFrQnIxaENjRXFLYzQwb3FkcUxuWG12dG5jbnpf?oc=5)
+
+2026-11-27
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMisAJBVV95cUxPMkpzdzhRM0YxNEd1TEZPQXdXUS1uRElqNmtUeGJfRUEteEJBNGdObXhiRkV0d0VqajBDVkJNeERJa0ljRGdINGVVVDM2UGZXZ3FIMHFLSmtSVG1mN0xocGNISGl6VG9URWlWOW52QjlZaXJVY0p2eVJsTkY2c0RLTGx6UW54UFlGZGZlREY3dmUxUEhNU2pOMmRHcE0yYk5CaWt3QnVpajRlRDBXdlpDeHhMVWNkWmJvQktPemNvbWhwaEc4bXVMNFY0SzhWVWd2LURWMTdmcHM0TlVuaGpnNnQ4TDlucUFWdVp2cG4xZ0E4Qnl1eHktclpUTWJZWmVYaFk1SEpYUVMtdVppNnFHNDVCaXFrQnIxaENjRXFLYzQwb3FkcUxuWG12dG5jbnpf?oc=5)
+
+---
 
 ### [阿茲海默症新藥二期試驗報捷 認知退化減緩逾五成](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
 
@@ -40,11 +56,27 @@ last_modified_at: 2026-11-27
 
 ---
 
+### [失智症新藥要打多久？醫揭18個月觀察期 符合條件可停藥](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTkR4SnpheGFVV0RfYktRdWxjZFhGUmFhdGhybDM4cmJpdWd4UEcwemJwTTZraGpIeUVFb3RMdmN3bFAwVTNkVGRoNEVFUFpN?oc=5)
+
+2026-11-26
+
+來源: [TVBS新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTkR4SnpheGFVV0RfYktRdWxjZFhGUmFhdGhybDM4cmJpdWd4UEcwemJwTTZraGpIeUVFb3RMdmN3bFAwVTNkVGRoNEVFUFpN?oc=5)
+
+---
+
 ### [鼻滴mRNA改善記憶！ 新冠疫苗技術跨界瞄準阿茲海默症](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQmx6R2NDVUJodE5yS0VFek1DNkhTN1RGRVU4SHlVMG9wcGlvQ2QtNDJ1Yk5BYjY1OGQ2Vy0xVFNyMWRaZ005aFd0WlFXS3dFRGJEUmNEazBMRUtldi1vM2J6YjM?oc=5)
 
 2026-11-25
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQmx6R2NDVUJodE5yS0VFek1DNkhTN1RGRVU4SHlVMG9wcGlvQ2QtNDJ1Yk5BYjY1OGQ2Vy0xVFNyMWRaZ005aFd0WlFXS3dFRGJEUmNEazBMRUtldi1vM2J6YjM?oc=5)
+
+---
+
+### [研究：第二型糖尿病患者患阿茲海默症風險高53%](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUtMM0FuR1dXdWd4TU1UM3FQSk5UOW5wajNFQmdpNGVPVVlKaktxVWYwb0ROLWl6aXpYdjg3TVo1bUptUmxmMW53Sy05LXpVMU5yWlZMMENkbGJ0dVRGNHc5TUtQQ1FacHlSX091UjdSbFA3Q05ORXlOcE50cFBRR1c4aFppZmhjVGtqdWVtZFZpa1dMUmJrSWRIQUZ2STZTSjg2bDlmdUZqYndab2RKa0NTNnU1VjRCeGNfNUFmd3NldDJKR01wYUsyd2ZiU1U?oc=5)
+
+2026-11-25
+
+來源: [Singtaousa](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUtMM0FuR1dXdWd4TU1UM3FQSk5UOW5wajNFQmdpNGVPVVlKaktxVWYwb0ROLWl6aXpYdjg3TVo1bUptUmxmMW53Sy05LXpVMU5yWlZMMENkbGJ0dVRGNHc5TUtQQ1FacHlSX091UjdSbFA3Q05ORXlOcE50cFBRR1c4aFppZmhjVGtqdWVtZFZpa1dMUmJrSWRIQUZ2STZTSjg2bDlmdUZqYndab2RKa0NTNnU1VjRCeGNfNUFmd3NldDJKR01wYUsyd2ZiU1U?oc=5)
 
 ---
 

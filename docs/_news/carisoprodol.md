@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Carisoprodol 的相關健康新聞報導。原適應症：焦慮緊張症、經常緊張、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛。預測適應症 1 個。"
 permalink: /news/carisoprodol/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Carisoprodol 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Carisoprodol 有什麼相關新聞？">
-<strong>Carisoprodol</strong> 目前有 <strong>8 則</strong>相關新聞報導，預測適應症 1 個。
+<strong>Carisoprodol</strong> 目前有 <strong>9 則</strong>相關新聞報導，預測適應症 1 個。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/carisoprodol/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（9 則）
+
+### [心跳140拒住院 急性心肌炎險喪命 靠葉克膜搶命](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMQkhLVUZLMVU1WVVXMmRERE9saGVGNlI3cDFERGNTMktEX3M0NTJxSjdEMVZKNV9ZcnNzU2Q5OE9od2FQTWp3alR2ZFFuUGNreGRRdm9yYWpvR2lXUnAxWlN30gFnQVVfeXFMT09DcW9hc1BzQlNWX2cyVHNtVFF5Y2lwRFcyUVk2eDVQTDBJbGRFUXBuMUtoNHBLLVZvU1ZnekVPTms3YmhqMmg4cVZoVy1rZFRqSUpYMnFaZFk4ZHJUV25LZW5ZaXFiOA?oc=5)
+
+2026-11-26 <span class="news-indication-tag">肌炎</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMQkhLVUZLMVU1WVVXMmRERE9saGVGNlI3cDFERGNTMktEX3M0NTJxSjdEMVZKNV9ZcnNzU2Q5OE9od2FQTWp3alR2ZFFuUGNreGRRdm9yYWpvR2lXUnAxWlN30gFnQVVfeXFMT09DcW9hc1BzQlNWX2cyVHNtVFF5Y2lwRFcyUVk2eDVQTDBJbGRFUXBuMUtoNHBLLVZvU1ZnekVPTms3YmhqMmg4cVZoVy1rZFRqSUpYMnFaZFk4ZHJUV25LZW5ZaXFiOA?oc=5)
+
+---
 
 ### [心跳140拒住院 急性心肌炎險喪命 靠葉克膜搶命](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sdVE3Ql9uaUQyQ2g2cC1NbDlJR0tZZ2Y3ejJ5Ul9oYnJWV19WUjN2bHU2RGFaZHUyM0h4SWZDaTFBdER0dGdtWWhwQWhjQzZ5ZzdNcUdteUU3NjBKTEkxQnRYRWFaS2pQelRRZV9icFFBNVRZTmJjRGQyVkRpd9IBZ0FVX3lxTE9PQ3FvYXNQc0JTVl9nMlRzbVRReWNpcERXMlFZNng1UEwwSWxkRVFwbjFLaDRwSy1Wb1NWZ3pFT05rN2JoajJoOHFWaFcta2RUaklKWDJxWmRZOGRyVFduS2VuWWlxYjg?oc=5)
 

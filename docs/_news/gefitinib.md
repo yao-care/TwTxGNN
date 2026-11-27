@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>52 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>57 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,45 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（52 則）
+## 相關新聞（57 則）
+
+### [類大腦送上外太空催熟，揭阿茲海默症病變機制差異- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5)
+
+2026-11-27 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5)
+
+---
+
+### [感染第一型單純疱疹病毒 失智與阿茲海默症風險恐增48%](https://news.google.com/rss/articles/CBMisAJBVV95cUxPMkpzdzhRM0YxNEd1TEZPQXdXUS1uRElqNmtUeGJfRUEteEJBNGdObXhiRkV0d0VqajBDVkJNeERJa0ljRGdINGVVVDM2UGZXZ3FIMHFLSmtSVG1mN0xocGNISGl6VG9URWlWOW52QjlZaXJVY0p2eVJsTkY2c0RLTGx6UW54UFlGZGZlREY3dmUxUEhNU2pOMmRHcE0yYk5CaWt3QnVpajRlRDBXdlpDeHhMVWNkWmJvQktPemNvbWhwaEc4bXVMNFY0SzhWVWd2LURWMTdmcHM0TlVuaGpnNnQ4TDlucUFWdVp2cG4xZ0E4Qnl1eHktclpUTWJZWmVYaFk1SEpYUVMtdVppNnFHNDVCaXFrQnIxaENjRXFLYzQwb3FkcUxuWG12dG5jbnpf?oc=5)
+
+2026-11-27 <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMisAJBVV95cUxPMkpzdzhRM0YxNEd1TEZPQXdXUS1uRElqNmtUeGJfRUEteEJBNGdObXhiRkV0d0VqajBDVkJNeERJa0ljRGdINGVVVDM2UGZXZ3FIMHFLSmtSVG1mN0xocGNISGl6VG9URWlWOW52QjlZaXJVY0p2eVJsTkY2c0RLTGx6UW54UFlGZGZlREY3dmUxUEhNU2pOMmRHcE0yYk5CaWt3QnVpajRlRDBXdlpDeHhMVWNkWmJvQktPemNvbWhwaEc4bXVMNFY0SzhWVWd2LURWMTdmcHM0TlVuaGpnNnQ4TDlucUFWdVp2cG4xZ0E4Qnl1eHktclpUTWJZWmVYaFk1SEpYUVMtdVppNnFHNDVCaXFrQnIxaENjRXFLYzQwb3FkcUxuWG12dG5jbnpf?oc=5)
+
+---
+
+### [癌症心臟保護藥臨床療效分歧 常規預防面臨實證挑戰](https://news.google.com/rss/articles/CBMirgJBVV95cUxOOHZCcFh3ZG5kWGNmN09OY0RtR2ZsdlV6blRiUzNqWE9zdHRkTUxFUHlHLWFlYVJTWm5pNENUclNTdzNJcnd3a2tKUWIwejl0Q1Rhdm5WQjZIUjl4VVVSbnBfV013b1BMSi03TVJiMnctb01idWtDbjdUbWt2bVpJeWpBSjRQYTFRckh3eG5GVzNXZ21nVGk5RjN4RVZEdm9FczJqa21uaEwzdGxGMUZXZ3poSjR1WHMxNi1wQ3ZRa1phdVo5Q2dHaDZEY2VoNGtoTi14eVVUbTZuUUNfemlST3duVG9TMENnSzNkMTVVOF9HeWVUNnRLMnotQlJSQ2JZaHdpS1pVdW9sd2VYWTVrTlBVSDhBNWgweXFBUXk1TDkzZkxhLV9BRVJDRWtyZw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMirgJBVV95cUxOOHZCcFh3ZG5kWGNmN09OY0RtR2ZsdlV6blRiUzNqWE9zdHRkTUxFUHlHLWFlYVJTWm5pNENUclNTdzNJcnd3a2tKUWIwejl0Q1Rhdm5WQjZIUjl4VVVSbnBfV013b1BMSi03TVJiMnctb01idWtDbjdUbWt2bVpJeWpBSjRQYTFRckh3eG5GVzNXZ21nVGk5RjN4RVZEdm9FczJqa21uaEwzdGxGMUZXZ3poSjR1WHMxNi1wQ3ZRa1phdVo5Q2dHaDZEY2VoNGtoTi14eVVUbTZuUUNfemlST3duVG9TMENnSzNkMTVVOF9HeWVUNnRLMnotQlJSQ2JZaHdpS1pVdW9sd2VYWTVrTlBVSDhBNWgweXFBUXk1TDkzZkxhLV9BRVJDRWtyZw?oc=5)
+
+---
 
 ### [阿茲海默症新藥二期試驗報捷 認知退化減緩逾五成](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
 
 2026-11-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源: [商傳媒](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
+
+---
+
+### [失智症新藥要打多久？醫揭18個月觀察期 符合條件可停藥](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTkR4SnpheGFVV0RfYktRdWxjZFhGUmFhdGhybDM4cmJpdWd4UEcwemJwTTZraGpIeUVFb3RMdmN3bFAwVTNkVGRoNEVFUFpN?oc=5)
+
+2026-11-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [TVBS新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTkR4SnpheGFVV0RfYktRdWxjZFhGUmFhdGhybDM4cmJpdWd4UEcwemJwTTZraGpIeUVFb3RMdmN3bFAwVTNkVGRoNEVFUFpN?oc=5)
 
 ---
 
@@ -81,6 +113,14 @@ last_modified_at: 2026-11-27
 2026-11-25 <span class="news-indication-tag">阿茲海默症</span>
 
 來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQmx6R2NDVUJodE5yS0VFek1DNkhTN1RGRVU4SHlVMG9wcGlvQ2QtNDJ1Yk5BYjY1OGQ2Vy0xVFNyMWRaZ005aFd0WlFXS3dFRGJEUmNEazBMRUtldi1vM2J6YjM?oc=5)
+
+---
+
+### [研究：第二型糖尿病患者患阿茲海默症風險高53%](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUtMM0FuR1dXdWd4TU1UM3FQSk5UOW5wajNFQmdpNGVPVVlKaktxVWYwb0ROLWl6aXpYdjg3TVo1bUptUmxmMW53Sy05LXpVMU5yWlZMMENkbGJ0dVRGNHc5TUtQQ1FacHlSX091UjdSbFA3Q05ORXlOcE50cFBRR1c4aFppZmhjVGtqdWVtZFZpa1dMUmJrSWRIQUZ2STZTSjg2bDlmdUZqYndab2RKa0NTNnU1VjRCeGNfNUFmd3NldDJKR01wYUsyd2ZiU1U?oc=5)
+
+2026-11-25 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [Singtaousa](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUtMM0FuR1dXdWd4TU1UM3FQSk5UOW5wajNFQmdpNGVPVVlKaktxVWYwb0ROLWl6aXpYdjg3TVo1bUptUmxmMW53Sy05LXpVMU5yWlZMMENkbGJ0dVRGNHc5TUtQQ1FacHlSX091UjdSbFA3Q05ORXlOcE50cFBRR1c4aFppZmhjVGtqdWVtZFZpa1dMUmJrSWRIQUZ2STZTSjg2bDlmdUZqYndab2RKa0NTNnU1VjRCeGNfNUFmd3NldDJKR01wYUsyd2ZiU1U?oc=5)
 
 ---
 

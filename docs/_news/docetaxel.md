@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Docetaxel 有什麼相關新聞？">
-<strong>Docetaxel</strong> 目前有 <strong>43 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Docetaxel</strong> 目前有 <strong>45 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/docetaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（43 則）
+## 相關新聞（45 則）
+
+### [95%肺結節非肺癌 機械人導航抽組織 精準分析結節 免不必要治療](https://news.google.com/rss/articles/CBMixAJBVV95cUxQV0cxSUFCdlIxUzZ1STQ5MWM2SDZyLUo3SW5wNDNtR1VOcWZadHFFMXlCTXp0R2wtWDZiWXRrUEJUWGFvUFpuSVJtQ1JuX2pWTV81ZC05SGxWZ2o0cURWblhoOHhiMWRndkw1RVR1Tjk0S05EZjJHaDd2bHVNRGkwTmtJVzJEYnk4OUJQS1FGTGx3VGRMNlE3QlZaMkdkQUVzbUFTRVBpckRKUktkdU9rMmgyREpKNm1Ob0QwT1U4M3F1QjVOSzV6OTNuNXhHaXN0b3JXTTNUUnJyQ2tGbXJsRGxGOE8wNXNFOV9ZQlN5ajgyWFJVVldpaUlWUi0zNVFxTnR4SVBmTE5pX1lLWDVaSTQ0TTQxazEzTjdRU181bVJXeG5xZUxsY2Y5SGVLMGhhNUFYc2s2NURSSU40MmpWdE9Heno?oc=5)
+
+2026-11-27 <span class="news-indication-tag">肺癌</span>
+
+來源: [明報健康網](https://news.google.com/rss/articles/CBMixAJBVV95cUxQV0cxSUFCdlIxUzZ1STQ5MWM2SDZyLUo3SW5wNDNtR1VOcWZadHFFMXlCTXp0R2wtWDZiWXRrUEJUWGFvUFpuSVJtQ1JuX2pWTV81ZC05SGxWZ2o0cURWblhoOHhiMWRndkw1RVR1Tjk0S05EZjJHaDd2bHVNRGkwTmtJVzJEYnk4OUJQS1FGTGx3VGRMNlE3QlZaMkdkQUVzbUFTRVBpckRKUktkdU9rMmgyREpKNm1Ob0QwT1U4M3F1QjVOSzV6OTNuNXhHaXN0b3JXTTNUUnJyQ2tGbXJsRGxGOE8wNXNFOV9ZQlN5ajgyWFJVVldpaUlWUi0zNVFxTnR4SVBmTE5pX1lLWDVaSTQ0TTQxazEzTjdRU181bVJXeG5xZUxsY2Y5SGVLMGhhNUFYc2s2NURSSU40MmpWdE9Heno?oc=5)
+
+---
+
+### [癌症心臟保護藥臨床療效分歧 常規預防面臨實證挑戰](https://news.google.com/rss/articles/CBMirgJBVV95cUxOOHZCcFh3ZG5kWGNmN09OY0RtR2ZsdlV6blRiUzNqWE9zdHRkTUxFUHlHLWFlYVJTWm5pNENUclNTdzNJcnd3a2tKUWIwejl0Q1Rhdm5WQjZIUjl4VVVSbnBfV013b1BMSi03TVJiMnctb01idWtDbjdUbWt2bVpJeWpBSjRQYTFRckh3eG5GVzNXZ21nVGk5RjN4RVZEdm9FczJqa21uaEwzdGxGMUZXZ3poSjR1WHMxNi1wQ3ZRa1phdVo5Q2dHaDZEY2VoNGtoTi14eVVUbTZuUUNfemlST3duVG9TMENnSzNkMTVVOF9HeWVUNnRLMnotQlJSQ2JZaHdpS1pVdW9sd2VYWTVrTlBVSDhBNWgweXFBUXk1TDkzZkxhLV9BRVJDRWtyZw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">癌症</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMirgJBVV95cUxOOHZCcFh3ZG5kWGNmN09OY0RtR2ZsdlV6blRiUzNqWE9zdHRkTUxFUHlHLWFlYVJTWm5pNENUclNTdzNJcnd3a2tKUWIwejl0Q1Rhdm5WQjZIUjl4VVVSbnBfV013b1BMSi03TVJiMnctb01idWtDbjdUbWt2bVpJeWpBSjRQYTFRckh3eG5GVzNXZ21nVGk5RjN4RVZEdm9FczJqa21uaEwzdGxGMUZXZ3poSjR1WHMxNi1wQ3ZRa1phdVo5Q2dHaDZEY2VoNGtoTi14eVVUbTZuUUNfemlST3duVG9TMENnSzNkMTVVOF9HeWVUNnRLMnotQlJSQ2JZaHdpS1pVdW9sd2VYWTVrTlBVSDhBNWgweXFBUXk1TDkzZkxhLV9BRVJDRWtyZw?oc=5)
+
+---
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
