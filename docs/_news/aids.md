@@ -3,7 +3,7 @@ layout: default
 title: "AIDS 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "AIDS 的相關健康新聞報導。2 則新聞、1 個相關藥物。"
+description: "AIDS 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
 permalink: /news/aids/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="AIDS 有什麼相關新聞？">
-<strong>AIDS</strong> 目前有 <strong>2 則</strong>相關新聞報導，1 個相關藥物。
+<strong>AIDS</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（2 則）
+## 相關新聞（3 則）
+
+### [世界愛滋日 從恐懼到希望 邁向終結愛滋的未來](https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2ZWaUZnRnhvbWFQR1AzTTJybEtRT0FrVXdtdUgwR2hMWDJpVXFnOTBNSkMwLU5RUmg1Q3FDWDNpVUhaTHd5RVE5azdoQ0dKVGRSNVBDTXhDVWtCZDZzUkxtU1UzQVBmTzQzSnZhN3hXenRrQXlUU2doVHlCUGZyeEstalJSWTFVUHZUUEVQNDFxMTZlRHN0TXlmaGpmbnRI?oc=5)
+
+2026-11-26
+
+來源: [臺北市政府全球資訊網](https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2ZWaUZnRnhvbWFQR1AzTTJybEtRT0FrVXdtdUgwR2hMWDJpVXFnOTBNSkMwLU5RUmg1Q3FDWDNpVUhaTHd5RVE5azdoQ0dKVGRSNVBDTXhDVWtCZDZzUkxtU1UzQVBmTzQzSnZhN3hXenRrQXlUU2doVHlCUGZyeEstalJSWTFVUHZUUEVQNDFxMTZlRHN0TXlmaGpmbnRI?oc=5)
+
+---
 
 ### [甘肅省艾滋病感染者連續兩年保持下降態勢](https://news.google.com/rss/articles/CBMicEFVX3lxTE1IUklHa3RVQnJhVkF3eTN0WGdMXzZSR1hMaklWTFI0MncxTXJtb08wVTJ3RDBkVTBTX3NEaWpaYWdmRzNuTjBVQkU2blhSSFQ2aW5jNDNTUjdZWkZFcDhMUXlKNUxBcU9fV29Kb2otSTk?oc=5)
 

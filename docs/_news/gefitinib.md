@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>57 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>61 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（57 則）
+## 相關新聞（61 則）
+
+### [瘦瘦針不只幫助減重？台大跨國研究揭13種肥胖相關癌症風險降4成 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaDhQMFRRSTdwS3R0MU9KN3FwaXhyeGRHYW9jMkw2cHlyQjNhTTJ0LWdmWXA5TnRpUENiS3FGZVhqVDh2SGpfVWtMbm9DUmo4Unp0VVZ3?oc=5)
+
+2026-11-27 <span class="news-indication-tag">癌症</span>
+
+來源: [Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaDhQMFRRSTdwS3R0MU9KN3FwaXhyeGRHYW9jMkw2cHlyQjNhTTJ0LWdmWXA5TnRpUENiS3FGZVhqVDh2SGpfVWtMbm9DUmo4Unp0VVZ3?oc=5)
+
+---
 
 ### [類大腦送上外太空催熟，揭阿茲海默症病變機制差異- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5)
 
@@ -68,6 +76,14 @@ last_modified_at: 2026-11-27
 
 ---
 
+### [全球40%癌症本可避免　WHO研究揭「致癌因素之首」](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kNEdXbVBkQ3VsVmwzTFhDUHZvQTBXQ1FMbnhiR3I1S090NDhvekpnZHVsUXptbVlveEtIeEc5NkM1OEtrcThZNDNuYmdvcEV3LTJjbFdhZE1rdEVhUUHSAUtBVV95cUxPNFJmVHNlV3BienJoM2dpcGJiYzB6WTEwWUtNdnlJc04xai12c2hDU2FoaGlYVjFGdFphNnZsRHNUd1dIUlRfTjJacGM?oc=5)
+
+2026-11-27 <span class="news-indication-tag">癌症</span>
+
+來源: [ETtoday新聞雲](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kNEdXbVBkQ3VsVmwzTFhDUHZvQTBXQ1FMbnhiR3I1S090NDhvekpnZHVsUXptbVlveEtIeEc5NkM1OEtrcThZNDNuYmdvcEV3LTJjbFdhZE1rdEVhUUHSAUtBVV95cUxPNFJmVHNlV3BienJoM2dpcGJiYzB6WTEwWUtNdnlJc04xai12c2hDU2FoaGlYVjFGdFphNnZsRHNUd1dIUlRfTjJacGM?oc=5)
+
+---
+
 ### [阿茲海默症新藥二期試驗報捷 認知退化減緩逾五成](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
 
 2026-11-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
@@ -81,6 +97,14 @@ last_modified_at: 2026-11-27
 2026-11-26 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
 
 來源: [TVBS新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoTkR4SnpheGFVV0RfYktRdWxjZFhGUmFhdGhybDM4cmJpdWd4UEcwemJwTTZraGpIeUVFb3RMdmN3bFAwVTNkVGRoNEVFUFpN?oc=5)
+
+---
+
+### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YcC1PanN2bmRVbDNyTU1fVE1GeFNBbHNDamtrQ2xWdzlBN1JQWkxwaGdPaFRuYXNMZWdUYXJ0NzJMTnI2d3JwVVlOOEN2R29wNGJDQW1B?oc=5)
+
+2026-11-26 <span class="news-indication-tag">癌症</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YcC1PanN2bmRVbDNyTU1fVE1GeFNBbHNDamtrQ2xWdzlBN1JQWkxwaGdPaFRuYXNMZWdUYXJ0NzJMTnI2d3JwVVlOOEN2R29wNGJDQW1B?oc=5)
 
 ---
 
@@ -129,6 +153,14 @@ last_modified_at: 2026-11-27
 2026-11-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span> <span class="news-indication-tag">中風</span>
 
 來源: [myTV SUPER](https://news.google.com/rss/articles/CBMiigVBVV95cUxQcWVZRDAwMWxCZ1EzYUZ3aUVYUnFOSXd1WVg0dy00TjNXb09Eb0c3TzdJUDRPOTlGY3dzeHQxQTV0NHVyRUxZalVueHlpZ2oxSEtNSGtFYmNkeGZlZlZLTVNmb0xrU2NFM3MtRHJscjdVT3dUTHRiNXVmZzVfdncweWtUQ3k1TUVVSEh5UFdLTEYxUVNCd1BoQlp4c3J3VnltQWZBRGJ5M1c5UnVLajJsR3pLLXJnaDJaeU9qWUszWVBrQXFmNkxKUjZnR3gxajZLdUp1M2lOTElScjVZZU15RW4ybkhTa01tY3c5ZEl2Q3E4UEtvR2h2N21rcTFtcE51R3VSeEZzcy00elpISjRZT2F2LVVBTEZqcTVJVFo0YUtEbXVjb3ppUjVRcFd0dXBiSUc5Z0lvNTA2UVdqOU9lNkFxa1FjOFJKQzlHbmVycllnV2t5bEFteEdvRzU0LXhYMGdUWGZMM2RTUHRPQWZPeUtOSi1fR2c3SDlnUVlXX2d4WG5vSGNlcFhycUVlX0ZXSjgzQnZmanpYX1RQakRhZGdud3dDaW03Qm92V1ZKeS1VV1FSLVRYRkd3VnY2TW1TWlI2Nm1mSkVvbk90ZGxXcEl0RVh4emJhb0pmYUFzR21OVmsxNmptTmxERkRYNnZKd3BWSVdrdWFUV2pudTlCaW9QaUpiX0NpM2VkVWZObjM5TVV4VVJzQkYtRlduRHBQelpLUFdvQjhhUUlVNlVFX0ZUWExSU1VVbkk4MEtJVUQyM3E1NzhTdThpSnc4Mnc2THZvVEFPYVVyQnhvUVBXeHIzeHpzQ2RGcXowNGRrMmtIaFo0N2pYR3czQUlwQ0FNUmZ4bjVKQzVfUQ?oc=5)
+
+---
+
+### [早期阿茲海默症迎新療法 美國醫療機構引進第二款抗體輸液](https://news.google.com/rss/articles/CBMivgJBVV95cUxQc2NJZ2czMldZcFl2enE2NXNnc2dBSW1Yb1BFWTk5ZDllZzVFWTN2c3NyZ1RGZkJFODg0MGZhNjg3ak5NRjIxWEtJblI0OENlbVFBcENaVDVod09rQU5ldl93WTFhWldpb2xtczdzMWJwUG92bmlhcHA2OU1kR09xNk9kbjBQRHk1QUVWS0d3S3lBdmVHbFhGQ2NLRTN3ZXFUYnBraW4wT25CYkZrYkFjUFRLOVQ1Mjg2RVBwSk5lOXJxSjc4alk1Q2FwZ3VlR2gtelZncWc4a2wzeTFUcEFWTWlBTWdfVVBHRmZoX3hmTWpuV2V6ekMwb2NTOUt5cFhwZ0tIS3N2ZGN3MjN2RGp0WF9MNS1BNVM2OGoxU2hMZV82N1JDN1czc1ZrbVJnS0FFUDVuSXkyaTE2R0c2NEE?oc=5)
+
+2026-11-24 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMivgJBVV95cUxQc2NJZ2czMldZcFl2enE2NXNnc2dBSW1Yb1BFWTk5ZDllZzVFWTN2c3NyZ1RGZkJFODg0MGZhNjg3ak5NRjIxWEtJblI0OENlbVFBcENaVDVod09rQU5ldl93WTFhWldpb2xtczdzMWJwUG92bmlhcHA2OU1kR09xNk9kbjBQRHk1QUVWS0d3S3lBdmVHbFhGQ2NLRTN3ZXFUYnBraW4wT25CYkZrYkFjUFRLOVQ1Mjg2RVBwSk5lOXJxSjc4alk1Q2FwZ3VlR2gtelZncWc4a2wzeTFUcEFWTWlBTWdfVVBHRmZoX3hmTWpuV2V6ekMwb2NTOUt5cFhwZ0tIS3N2ZGN3MjN2RGp0WF9MNS1BNVM2OGoxU2hMZV82N1JDN1czc1ZrbVJnS0FFUDVuSXkyaTE2R0c2NEE?oc=5)
 
 ---
 

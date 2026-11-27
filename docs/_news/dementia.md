@@ -3,7 +3,7 @@ layout: default
 title: "阿茲海默症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。23 則新聞、1 個相關藥物。"
+description: "阿茲海默症 (dementia) 的相關健康新聞報導。24 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-27
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>23 則</strong>相關新聞報導，1 個相關藥物。
+<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>24 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（24 則）
 
 ### [類大腦送上外太空催熟，揭阿茲海默症病變機制差異- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5)
 
@@ -77,6 +77,14 @@ last_modified_at: 2026-11-27
 2026-11-25
 
 來源: [Singtaousa](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLUtMM0FuR1dXdWd4TU1UM3FQSk5UOW5wajNFQmdpNGVPVVlKaktxVWYwb0ROLWl6aXpYdjg3TVo1bUptUmxmMW53Sy05LXpVMU5yWlZMMENkbGJ0dVRGNHc5TUtQQ1FacHlSX091UjdSbFA3Q05ORXlOcE50cFBRR1c4aFppZmhjVGtqdWVtZFZpa1dMUmJrSWRIQUZ2STZTSjg2bDlmdUZqYndab2RKa0NTNnU1VjRCeGNfNUFmd3NldDJKR01wYUsyd2ZiU1U?oc=5)
+
+---
+
+### [早期阿茲海默症迎新療法 美國醫療機構引進第二款抗體輸液](https://news.google.com/rss/articles/CBMivgJBVV95cUxQc2NJZ2czMldZcFl2enE2NXNnc2dBSW1Yb1BFWTk5ZDllZzVFWTN2c3NyZ1RGZkJFODg0MGZhNjg3ak5NRjIxWEtJblI0OENlbVFBcENaVDVod09rQU5ldl93WTFhWldpb2xtczdzMWJwUG92bmlhcHA2OU1kR09xNk9kbjBQRHk1QUVWS0d3S3lBdmVHbFhGQ2NLRTN3ZXFUYnBraW4wT25CYkZrYkFjUFRLOVQ1Mjg2RVBwSk5lOXJxSjc4alk1Q2FwZ3VlR2gtelZncWc4a2wzeTFUcEFWTWlBTWdfVVBHRmZoX3hmTWpuV2V6ekMwb2NTOUt5cFhwZ0tIS3N2ZGN3MjN2RGp0WF9MNS1BNVM2OGoxU2hMZV82N1JDN1czc1ZrbVJnS0FFUDVuSXkyaTE2R0c2NEE?oc=5)
+
+2026-11-24
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMivgJBVV95cUxQc2NJZ2czMldZcFl2enE2NXNnc2dBSW1Yb1BFWTk5ZDllZzVFWTN2c3NyZ1RGZkJFODg0MGZhNjg3ak5NRjIxWEtJblI0OENlbVFBcENaVDVod09rQU5ldl93WTFhWldpb2xtczdzMWJwUG92bmlhcHA2OU1kR09xNk9kbjBQRHk1QUVWS0d3S3lBdmVHbFhGQ2NLRTN3ZXFUYnBraW4wT25CYkZrYkFjUFRLOVQ1Mjg2RVBwSk5lOXJxSjc4alk1Q2FwZ3VlR2gtelZncWc4a2wzeTFUcEFWTWlBTWdfVVBHRmZoX3hmTWpuV2V6ekMwb2NTOUt5cFhwZ0tIS3N2ZGN3MjN2RGp0WF9MNS1BNVM2OGoxU2hMZV82N1JDN1czc1ZrbVJnS0FFUDVuSXkyaTE2R0c2NEE?oc=5)
 
 ---
 
