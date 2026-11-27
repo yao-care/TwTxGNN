@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "心血管 (cardiovascular) 的相關健康新聞報導。12 則新聞、1 個相關藥物。"
+description: "心血管 (cardiovascular) 的相關健康新聞報導。14 則新聞、1 個相關藥物。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # 心血管 (cardiovascular) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) 有什麼相關新聞？">
-<strong>心血管 (cardiovascular)</strong> 目前有 <strong>12 則</strong>相關新聞報導，1 個相關藥物。
+<strong>心血管 (cardiovascular)</strong> 目前有 <strong>14 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（14 則）
 
 ### [你睡對了嗎？ 睡滿「這幾小時」防癡呆、抗衰老效果佳- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
 
 2026-11-26
 
 來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
+
+---
+
+### [健康網》心血管病友該少碳水？醫：吃進什麼更重要](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oUUVfcHRzc0VjeFdVMjV1QkFDV05NdnpvTC1VNksxT01FTjFPQ19fU2FBaG5TUnhaWW5ydjZHTEZEUFJvVXNFSC1JaWk1QTFTNXJOSW5nWWFoTE1EU2NoWXhsd3U?oc=5)
+
+2026-11-25
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oUUVfcHRzc0VjeFdVMjV1QkFDV05NdnpvTC1VNksxT01FTjFPQ19fU2FBaG5TUnhaWW5ydjZHTEZEUFJvVXNFSC1JaWk1QTFTNXJOSW5nWWFoTE1EU2NoWXhsd3U?oc=5)
 
 ---
 
@@ -61,6 +69,14 @@ last_modified_at: 2026-11-26
 2026-11-23
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbGNraUI1ZGxLZkh0UWpTS0tMMmx4ajBPUUo3VmM3NFVvb1IyLU52SkZFQlctWHB3RVZZME9lOWdQME52OFVmTVZja1hIWWJadUE?oc=5)
+
+---
+
+### [「睡眠規律」更護心 哈佛研究：作息不固定心血管風險大增](https://news.google.com/rss/articles/CBMibkFVX3lxTE9YazQ1S1l3VW1ZVlFnek5FTzFSc0E2cHVnN3RsZTlnUkFxZm1iMmJ3QU9EWDRfRG1Ldnl1YnRMakE3WUpnX0VTUDE0aDd4VE5xdUpVanhJTUg5cGpjclZCSWVERThYdkFiNWJVaHBB?oc=5)
+
+2026-11-21
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9YazQ1S1l3VW1ZVlFnek5FTzFSc0E2cHVnN3RsZTlnUkFxZm1iMmJ3QU9EWDRfRG1Ldnl1YnRMakE3WUpnX0VTUDE0aDd4VE5xdUpVanhJTUg5cGpjclZCSWVERThYdkFiNWJVaHBB?oc=5)
 
 ---
 

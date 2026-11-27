@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Salicylamide 的相關健康新聞報導。原適應症：鎮痛藥。預測適應症 9 個。"
 permalink: /news/salicylamide/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Salicylamide 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Salicylamide 有什麼相關新聞？">
-<strong>Salicylamide</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Salicylamide</strong> 目前有 <strong>25 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/salicylamide/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（25 則）
+
+### [破傷風出現 1 例死亡，河內相關高風險地區的防疫重點是什麼?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZVYwR3dBSjNFOUJiOGNjRzF4UFRqUVM3UnNaX2twaEVTNTctUU5UYm9VRTJoc1lNQk5MRkthNVlWTG1GVXpsV1pjUXdvZ1NHOXpJS1RPUGNqVGpKbjlHWHJZUHhqN0V2a0E4Z1hwVG9RQzREVkVXZU94dw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">傷風</span>
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZVYwR3dBSjNFOUJiOGNjRzF4UFRqUVM3UnNaX2twaEVTNTctUU5UYm9VRTJoc1lNQk5MRkthNVlWTG1GVXpsV1pjUXdvZ1NHOXpJS1RPUGNqVGpKbjlHWHJZUHhqN0V2a0E4Z1hwVG9RQzREVkVXZU94dw?oc=5)
+
+---
+
+### [🎙️感冒可能傷及心臟 病毒感染不能大意](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVNVZ0RGpXU3BjelNzZk1QYXlkZU9JZkVwM216a3MxRmxKT3RTTTRxU0wyTnlsVi1rVFZBdTlqek5ZVU9tQ1d4Z0ZzVDk1eThYRHpYdFV5eS1mSDUtSDlhSnZ30gFnQVVfeXFMT1N5aHQ0MThUcjBaVFhOMGhHa2RoanlVWW5DazZCNFpUajNkNmoybS1ZenJtRC1MeHhxUEw3U3p2RXVmQVlUcm5JSmp6RzRGWV9SMzFhak9jWGhfYWxWc1I3bEdqcklRdw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">感冒</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVNVZ0RGpXU3BjelNzZk1QYXlkZU9JZkVwM216a3MxRmxKT3RTTTRxU0wyTnlsVi1rVFZBdTlqek5ZVU9tQ1d4Z0ZzVDk1eThYRHpYdFV5eS1mSDUtSDlhSnZ30gFnQVVfeXFMT1N5aHQ0MThUcjBaVFhOMGhHa2RoanlVWW5DazZCNFpUajNkNmoybS1ZenJtRC1MeHhxUEw3U3p2RXVmQVlUcm5JSmp6RzRGWV9SMzFhak9jWGhfYWxWc1I3bEdqcklRdw?oc=5)
+
+---
 
 ### [吃保健品增抵抗力？　醫揭改變「關鍵習慣」4事降發炎](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
 

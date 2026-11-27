@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "感冒 (common cold) 相關新聞"
+title: "傷風 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "感冒 (common cold) 的相關健康新聞報導。23 則新聞、1 個相關藥物。"
+description: "傷風 (common cold) 的相關健康新聞報導。25 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
-# 感冒 (common cold) 相關新聞
+# 傷風 (common cold) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
-<strong>感冒 (common cold)</strong> 目前有 <strong>23 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="傷風 (common cold) 有什麼相關新聞？">
+<strong>傷風 (common cold)</strong> 目前有 <strong>25 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「感冒」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「傷風」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 相關新聞（23 則）
+## 相關新聞（25 則）
+
+### [破傷風出現 1 例死亡，河內相關高風險地區的防疫重點是什麼?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZVYwR3dBSjNFOUJiOGNjRzF4UFRqUVM3UnNaX2twaEVTNTctUU5UYm9VRTJoc1lNQk5MRkthNVlWTG1GVXpsV1pjUXdvZ1NHOXpJS1RPUGNqVGpKbjlHWHJZUHhqN0V2a0E4Z1hwVG9RQzREVkVXZU94dw?oc=5)
+
+2026-11-26
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZVYwR3dBSjNFOUJiOGNjRzF4UFRqUVM3UnNaX2twaEVTNTctUU5UYm9VRTJoc1lNQk5MRkthNVlWTG1GVXpsV1pjUXdvZ1NHOXpJS1RPUGNqVGpKbjlHWHJZUHhqN0V2a0E4Z1hwVG9RQzREVkVXZU94dw?oc=5)
+
+---
+
+### [🎙️感冒可能傷及心臟 病毒感染不能大意](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVNVZ0RGpXU3BjelNzZk1QYXlkZU9JZkVwM216a3MxRmxKT3RTTTRxU0wyTnlsVi1rVFZBdTlqek5ZVU9tQ1d4Z0ZzVDk1eThYRHpYdFV5eS1mSDUtSDlhSnZ30gFnQVVfeXFMT1N5aHQ0MThUcjBaVFhOMGhHa2RoanlVWW5DazZCNFpUajNkNmoybS1ZenJtRC1MeHhxUEw3U3p2RXVmQVlUcm5JSmp6RzRGWV9SMzFhak9jWGhfYWxWc1I3bEdqcklRdw?oc=5)
+
+2026-11-24
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVNVZ0RGpXU3BjelNzZk1QYXlkZU9JZkVwM216a3MxRmxKT3RTTTRxU0wyTnlsVi1rVFZBdTlqek5ZVU9tQ1d4Z0ZzVDk1eThYRHpYdFV5eS1mSDUtSDlhSnZ30gFnQVVfeXFMT1N5aHQ0MThUcjBaVFhOMGhHa2RoanlVWW5DazZCNFpUajNkNmoybS1ZenJtRC1MeHhxUEw3U3p2RXVmQVlUcm5JSmp6RzRGWV9SMzFhak9jWGhfYWxWc1I3bEdqcklRdw?oc=5)
+
+---
 
 ### [吃保健品增抵抗力？　醫揭改變「關鍵習慣」4事降發炎](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
 

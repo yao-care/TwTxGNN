@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Cladribine 的相關健康新聞報導。原適應症：復發型多發性硬化症（臨床上有發作，且前二年有二次復發者）。預測適應症 7 個。"
 permalink: /news/cladribine/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Cladribine 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Cladribine 有什麼相關新聞？">
-<strong>Cladribine</strong> 目前有 <strong>32 則</strong>相關新聞報導，預測適應症 7 個。
+<strong>Cladribine</strong> 目前有 <strong>33 則</strong>相關新聞報導，預測適應症 7 個。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/cladribine/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（32 則）
+## 相關新聞（33 則）
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
 2026-11-25 <span class="news-indication-tag">癌症</span>
 
 來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+---
+
+### [癌症成因︱成日嬲易患癌？營養師拆解8種癌症成因 每日吃1種食物腸癌風險升18%](https://news.google.com/rss/articles/CBMi_gNBVV95cUxPalNjdkVoZlpUeWRYV3lIb292OXhXVGVUQXhILTY2MWdQMXEzSDg4T0NiakE4M2xfTHRRUTlPXzhKYUhSSU1iTWR3eks4R1ZrUlE3UFp5OFZCczZLdWZUUUpWSVJMOFJtSlJrVHhfcUd1cHZkNUdxQ0tFY3Z0NWIxTHdGNFZmbVBZNDQtSEZiSGtXenJTVVcwcDRxSjdvVXE0cGFabHhoREhzYnY1Y3JlSUJWN3hma0JOb0ZBaEVQaVNZdjlfT0tNb01venRzTndKSlBtRFlqaVJuclVqc2FiYl81YjJGTXdzX2tVbWdaamlfMGp4b2JmMVdvUkVUQ0I0MGJzdnhEeURhVzZOZ05QOXpsQlFDRDZSUnBnRjBCZF9HNUszbDlBY09ydFpLR29uOVhTS29yUUNvWDVsNTFFNE5IQlRMY0JUSkhEeTJYandqZFpPSzAzRTBvanVUYVJRSHBwVnFQdEVPN1kzU1ZtdFNEQVgwTEp0c0FLVWk0bGpkOU9DV1QxX3pCZFZHZkNBejl1TWNtSUR1OVFadVBMTHRtQ2FSYm5yWmdGWnRibHB2d0luMk9vMzF4azFwbjQ0cGRYOFpUZXd1MEs4ckNnaUJnRzAwdFNlaU9jY0tNWFA0ckhOd2Rsc1pJeUV6Qmd2Qmg2RDZkbHNCWmxsMEE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMi_gNBVV95cUxPalNjdkVoZlpUeWRYV3lIb292OXhXVGVUQXhILTY2MWdQMXEzSDg4T0NiakE4M2xfTHRRUTlPXzhKYUhSSU1iTWR3eks4R1ZrUlE3UFp5OFZCczZLdWZUUUpWSVJMOFJtSlJrVHhfcUd1cHZkNUdxQ0tFY3Z0NWIxTHdGNFZmbVBZNDQtSEZiSGtXenJTVVcwcDRxSjdvVXE0cGFabHhoREhzYnY1Y3JlSUJWN3hma0JOb0ZBaEVQaVNZdjlfT0tNb01venRzTndKSlBtRFlqaVJuclVqc2FiYl81YjJGTXdzX2tVbWdaamlfMGp4b2JmMVdvUkVUQ0I0MGJzdnhEeURhVzZOZ05QOXpsQlFDRDZSUnBnRjBCZF9HNUszbDlBY09ydFpLR29uOVhTS29yUUNvWDVsNTFFNE5IQlRMY0JUSkhEeTJYandqZFpPSzAzRTBvanVUYVJRSHBwVnFQdEVPN1kzU1ZtdFNEQVgwTEp0c0FLVWk0bGpkOU9DV1QxX3pCZFZHZkNBejl1TWNtSUR1OVFadVBMTHRtQ2FSYm5yWmdGWnRibHB2d0luMk9vMzF4azFwbjQ0cGRYOFpUZXd1MEs4ckNnaUJnRzAwdFNlaU9jY0tNWFA0ckhOd2Rsc1pJeUV6Qmd2Qmg2RDZkbHNCWmxsMEE?oc=5)
 
 ---
 

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "阿茲海默症 (dementia) 相關新聞"
+title: "失智症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。18 則新聞、1 個相關藥物。"
+description: "失智症 (dementia) 的相關健康新聞報導。19 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
-# 阿茲海默症 (dementia) 相關新聞
+# 失智症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>18 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
+<strong>失智症 (dementia)</strong> 目前有 <strong>19 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 相關新聞（18 則）
+## 相關新聞（19 則）
+
+### [阿茲海默症新藥二期試驗報捷 認知退化減緩逾五成](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
+
+2026-11-27
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
+
+---
 
 ### [鼻滴mRNA改善記憶！ 新冠疫苗技術跨界瞄準阿茲海默症](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zQmx6R2NDVUJodE5yS0VFek1DNkhTN1RGRVU4SHlVMG9wcGlvQ2QtNDJ1Yk5BYjY1OGQ2Vy0xVFNyMWRaZ005aFd0WlFXS3dFRGJEUmNEazBMRUtldi1vM2J6YjM?oc=5)
 

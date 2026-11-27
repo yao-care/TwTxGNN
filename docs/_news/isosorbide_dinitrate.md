@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Isosorbide dinitrate 的相關健康新聞報導。原適應症：預防狹心症之發作。預測適應症 10 個。"
 permalink: /news/isosorbide_dinitrate/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Isosorbide dinitrate 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Isosorbide dinitrate 有什麼相關新聞？">
-<strong>Isosorbide dinitrate</strong> 目前有 <strong>16 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Isosorbide dinitrate</strong> 目前有 <strong>18 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（16 則）
+## 相關新聞（18 則）
 
 ### [你睡對了嗎？ 睡滿「這幾小時」防癡呆、抗衰老效果佳- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
 
 2026-11-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
 
 來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
+
+---
+
+### [健康網》心血管病友該少碳水？醫：吃進什麼更重要](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oUUVfcHRzc0VjeFdVMjV1QkFDV05NdnpvTC1VNksxT01FTjFPQ19fU2FBaG5TUnhaWW5ydjZHTEZEUFJvVXNFSC1JaWk1QTFTNXJOSW5nWWFoTE1EU2NoWXhsd3U?oc=5)
+
+2026-11-25 <span class="news-indication-tag">心血管</span>
+
+來源: [自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oUUVfcHRzc0VjeFdVMjV1QkFDV05NdnpvTC1VNksxT01FTjFPQ19fU2FBaG5TUnhaWW5ydjZHTEZEUFJvVXNFSC1JaWk1QTFTNXJOSW5nWWFoTE1EU2NoWXhsd3U?oc=5)
 
 ---
 
@@ -74,6 +82,14 @@ last_modified_at: 2026-11-26
 2026-11-23 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾病</span>
 
 來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xbGNraUI1ZGxLZkh0UWpTS0tMMmx4ajBPUUo3VmM3NFVvb1IyLU52SkZFQlctWHB3RVZZME9lOWdQME52OFVmTVZja1hIWWJadUE?oc=5)
+
+---
+
+### [「睡眠規律」更護心 哈佛研究：作息不固定心血管風險大增](https://news.google.com/rss/articles/CBMibkFVX3lxTE9YazQ1S1l3VW1ZVlFnek5FTzFSc0E2cHVnN3RsZTlnUkFxZm1iMmJ3QU9EWDRfRG1Ldnl1YnRMakE3WUpnX0VTUDE0aDd4VE5xdUpVanhJTUg5cGpjclZCSWVERThYdkFiNWJVaHBB?oc=5)
+
+2026-11-21 <span class="news-indication-tag">心血管</span>
+
+來源: [中時新聞網](https://news.google.com/rss/articles/CBMibkFVX3lxTE9YazQ1S1l3VW1ZVlFnek5FTzFSc0E2cHVnN3RsZTlnUkFxZm1iMmJ3QU9EWDRfRG1Ldnl1YnRMakE3WUpnX0VTUDE0aDd4VE5xdUpVanhJTUg5cGpjclZCSWVERThYdkFiNWJVaHBB?oc=5)
 
 ---
 

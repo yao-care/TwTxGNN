@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 9 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # Gefitinib 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>50 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>52 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（50 則）
+## 相關新聞（52 則）
+
+### [阿茲海默症新藥二期試驗報捷 認知退化減緩逾五成](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
+
+2026-11-27 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [商傳媒](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNVTAyM1FXMTF6NENCbjRfTHRXOXlIRFRoRDVjNWFkR1dJdmxXeGZ4UkFEazVkNm1Lb0RDSXJxYUxpLVdMR1ZEN1ZzXy1Ra2NHZUZhY1RGWnVrTTJ0REY3VUh0cER4WFBCc09qU3E0UDRaV0ZvSG16ZVA2Ym5Helk0SktzYnFXOURBaEpZVmxlX3IzSkpCdU9lUl9SU2s5aEItRUdFbjhvX3VTQ2RnQl8xLXZxR0lpTXdoSWx1ZzJiR1Q4Uk53d3BwMG9LR2dyWUo1Ymh6X21QbU1ORmx3V2I1Q3pURWpnQTUzbF9JYVo0YVJCWm1HdEEwWGM5VkZIUEc3TjNaM0NndklCVHUwLVNKZWZiVVhqMExtR25ERG1sdTJSR2x2c2JRVg?oc=5)
+
+---
 
 ### [新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
 
 2026-11-25 <span class="news-indication-tag">癌症</span>
 
 來源: [TechNews 科技新報](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5)
+
+---
+
+### [癌症成因︱成日嬲易患癌？營養師拆解8種癌症成因 每日吃1種食物腸癌風險升18%](https://news.google.com/rss/articles/CBMi_gNBVV95cUxPalNjdkVoZlpUeWRYV3lIb292OXhXVGVUQXhILTY2MWdQMXEzSDg4T0NiakE4M2xfTHRRUTlPXzhKYUhSSU1iTWR3eks4R1ZrUlE3UFp5OFZCczZLdWZUUUpWSVJMOFJtSlJrVHhfcUd1cHZkNUdxQ0tFY3Z0NWIxTHdGNFZmbVBZNDQtSEZiSGtXenJTVVcwcDRxSjdvVXE0cGFabHhoREhzYnY1Y3JlSUJWN3hma0JOb0ZBaEVQaVNZdjlfT0tNb01venRzTndKSlBtRFlqaVJuclVqc2FiYl81YjJGTXdzX2tVbWdaamlfMGp4b2JmMVdvUkVUQ0I0MGJzdnhEeURhVzZOZ05QOXpsQlFDRDZSUnBnRjBCZF9HNUszbDlBY09ydFpLR29uOVhTS29yUUNvWDVsNTFFNE5IQlRMY0JUSkhEeTJYandqZFpPSzAzRTBvanVUYVJRSHBwVnFQdEVPN1kzU1ZtdFNEQVgwTEp0c0FLVWk0bGpkOU9DV1QxX3pCZFZHZkNBejl1TWNtSUR1OVFadVBMTHRtQ2FSYm5yWmdGWnRibHB2d0luMk9vMzF4azFwbjQ0cGRYOFpUZXd1MEs4ckNnaUJnRzAwdFNlaU9jY0tNWFA0ckhOd2Rsc1pJeUV6Qmd2Qmg2RDZkbHNCWmxsMEE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">癌症</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMi_gNBVV95cUxPalNjdkVoZlpUeWRYV3lIb292OXhXVGVUQXhILTY2MWdQMXEzSDg4T0NiakE4M2xfTHRRUTlPXzhKYUhSSU1iTWR3eks4R1ZrUlE3UFp5OFZCczZLdWZUUUpWSVJMOFJtSlJrVHhfcUd1cHZkNUdxQ0tFY3Z0NWIxTHdGNFZmbVBZNDQtSEZiSGtXenJTVVcwcDRxSjdvVXE0cGFabHhoREhzYnY1Y3JlSUJWN3hma0JOb0ZBaEVQaVNZdjlfT0tNb01venRzTndKSlBtRFlqaVJuclVqc2FiYl81YjJGTXdzX2tVbWdaamlfMGp4b2JmMVdvUkVUQ0I0MGJzdnhEeURhVzZOZ05QOXpsQlFDRDZSUnBnRjBCZF9HNUszbDlBY09ydFpLR29uOVhTS29yUUNvWDVsNTFFNE5IQlRMY0JUSkhEeTJYandqZFpPSzAzRTBvanVUYVJRSHBwVnFQdEVPN1kzU1ZtdFNEQVgwTEp0c0FLVWk0bGpkOU9DV1QxX3pCZFZHZkNBejl1TWNtSUR1OVFadVBMTHRtQ2FSYm5yWmdGWnRibHB2d0luMk9vMzF4azFwbjQ0cGRYOFpUZXd1MEs4ckNnaUJnRzAwdFNlaU9jY0tNWFA0ckhOd2Rsc1pJeUV6Qmd2Qmg2RDZkbHNCWmxsMEE?oc=5)
 
 ---
 

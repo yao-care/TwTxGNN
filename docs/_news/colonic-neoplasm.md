@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "大腸癌 (colonic neoplasm) 相關新聞"
+title: "腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。12 則新聞、1 個相關藥物。"
+description: "腸癌 (colonic neoplasm) 的相關健康新聞報導。13 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
-# 大腸癌 (colonic neoplasm) 相關新聞
+# 腸癌 (colonic neoplasm) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>12 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="腸癌 (colonic neoplasm) 有什麼相關新聞？">
+<strong>腸癌 (colonic neoplasm)</strong> 目前有 <strong>13 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「大腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「腸癌」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 相關新聞（12 則）
+## 相關新聞（13 則）
+
+### [癌症成因︱成日嬲易患癌？營養師拆解8種癌症成因 每日吃1種食物腸癌風險升18%](https://news.google.com/rss/articles/CBMi_gNBVV95cUxPalNjdkVoZlpUeWRYV3lIb292OXhXVGVUQXhILTY2MWdQMXEzSDg4T0NiakE4M2xfTHRRUTlPXzhKYUhSSU1iTWR3eks4R1ZrUlE3UFp5OFZCczZLdWZUUUpWSVJMOFJtSlJrVHhfcUd1cHZkNUdxQ0tFY3Z0NWIxTHdGNFZmbVBZNDQtSEZiSGtXenJTVVcwcDRxSjdvVXE0cGFabHhoREhzYnY1Y3JlSUJWN3hma0JOb0ZBaEVQaVNZdjlfT0tNb01venRzTndKSlBtRFlqaVJuclVqc2FiYl81YjJGTXdzX2tVbWdaamlfMGp4b2JmMVdvUkVUQ0I0MGJzdnhEeURhVzZOZ05QOXpsQlFDRDZSUnBnRjBCZF9HNUszbDlBY09ydFpLR29uOVhTS29yUUNvWDVsNTFFNE5IQlRMY0JUSkhEeTJYandqZFpPSzAzRTBvanVUYVJRSHBwVnFQdEVPN1kzU1ZtdFNEQVgwTEp0c0FLVWk0bGpkOU9DV1QxX3pCZFZHZkNBejl1TWNtSUR1OVFadVBMTHRtQ2FSYm5yWmdGWnRibHB2d0luMk9vMzF4azFwbjQ0cGRYOFpUZXd1MEs4ckNnaUJnRzAwdFNlaU9jY0tNWFA0ckhOd2Rsc1pJeUV6Qmd2Qmg2RDZkbHNCWmxsMEE?oc=5)
+
+2026-11-25
+
+來源: [香港經濟日報HKET](https://news.google.com/rss/articles/CBMi_gNBVV95cUxPalNjdkVoZlpUeWRYV3lIb292OXhXVGVUQXhILTY2MWdQMXEzSDg4T0NiakE4M2xfTHRRUTlPXzhKYUhSSU1iTWR3eks4R1ZrUlE3UFp5OFZCczZLdWZUUUpWSVJMOFJtSlJrVHhfcUd1cHZkNUdxQ0tFY3Z0NWIxTHdGNFZmbVBZNDQtSEZiSGtXenJTVVcwcDRxSjdvVXE0cGFabHhoREhzYnY1Y3JlSUJWN3hma0JOb0ZBaEVQaVNZdjlfT0tNb01venRzTndKSlBtRFlqaVJuclVqc2FiYl81YjJGTXdzX2tVbWdaamlfMGp4b2JmMVdvUkVUQ0I0MGJzdnhEeURhVzZOZ05QOXpsQlFDRDZSUnBnRjBCZF9HNUszbDlBY09ydFpLR29uOVhTS29yUUNvWDVsNTFFNE5IQlRMY0JUSkhEeTJYandqZFpPSzAzRTBvanVUYVJRSHBwVnFQdEVPN1kzU1ZtdFNEQVgwTEp0c0FLVWk0bGpkOU9DV1QxX3pCZFZHZkNBejl1TWNtSUR1OVFadVBMTHRtQ2FSYm5yWmdGWnRibHB2d0luMk9vMzF4azFwbjQ0cGRYOFpUZXd1MEs4ckNnaUJnRzAwdFNlaU9jY0tNWFA0ckhOd2Rsc1pJeUV6Qmd2Qmg2RDZkbHNCWmxsMEE?oc=5)
+
+---
 
 ### [癌症成因︱成日嬲易患癌？營養師拆解8種癌症成因 每日吃1種食物腸癌風險升18%](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yZk5iSWZPd1E3cWVtX3BJTWtNVEE4TThsanpfYVd5dzFFZEhscTUyQ0J3c0FFa2tSa2ZBU2xMczZERG81akRha0M5OGFyZzRmcEE?oc=5)
 
