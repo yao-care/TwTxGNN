@@ -1,29 +1,89 @@
 {
   "source": "google_rss",
-  "fetched_at": "2026-11-28T02:23:24.895458+00:00",
-  "count": 60,
+  "fetched_at": "2026-11-28T11:09:32.936074+00:00",
+  "count": 61,
   "news": [
     {
-      "id": "dc9b4e62e8e4",
-      "title": "高齡卵子染色體易散 德團隊造人工黏合系統 - 短新聞SHOTNEWS",
-      "published": "2026-11-28T01:15:00+00:00",
-      "summary": "高齡卵子染色體易散 德團隊造人工黏合系統&nbsp;&nbsp;短新聞SHOTNEWS",
+      "id": "52f6bd81c26e",
+      "title": "衞生署響應世界愛滋病日 一連兩日觀塘海濱舉辦活動 - TVB",
+      "published": "2026-11-28T05:18:00+00:00",
+      "summary": "衞生署響應世界愛滋病日 一連兩日觀塘海濱舉辦活動&nbsp;&nbsp;TVB愛滋病防治邁向新篇章 國際愛滋日12月1日&nbsp;&nbsp;蕃新聞衞生署舉辦「全球同抗愛滋病運動2026」啟動禮 為觀塘海濱戶外藝術展覽和HIV測試月揭開序幕&nbsp;&nbsp;香港文匯報全城同抗愛滋病運動 衞生署冀HIV檢測包如量血壓血糖般方便&nbsp;&nbsp;on.cc東網12.1世界愛滋病日 雞尾酒療法推行30年 愛滋病已可防可控 冀以接納代替標籤&nbsp;&nbsp;明報健康網",
       "sources": [
         {
-          "name": "短新聞SHOTNEWS",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qU0loZFVIc05ybDJxanczcjFrRW9fVmFPaVY5NEdJLWdyc1M1MWdPTDhKYy0zZ2FQVFJKMU1tMVhmd1JMeXJoeVBZVVUzYjd1REVVTg?oc=5"
+          "name": "TVB",
+          "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPY1EtU2R4RkVrWVZPUGpuU2dKc08yTHpwbWNQSmQwMDRKVklXNUpfSVhoR1BRTVh1TzJTZjRaTlBBZXhyM25nMXBlYzVXUTFFNC1QX055cl9kaDhSeGo3NzM0RzJpN2dodFdCdkJWeUNXTUd0VmE2WXdRS2NEYUpWNnh0NW1BaEx4ZEIyVmJhb3IxYmxhY2paWHlocWw2ODNHR20xU3h6a2tmeEVPUi1za3R0c3hQQU1ZOFZ1RXZBWDZBQ01lZUhaMFpuY3JaVHdHY0Y4QzR5T1pMQ3FVNjhKV1dKWXF3Q0c3ZGU4NDlad1NCMWt6WXlHbTNoWkp4NFNhb0ZPNjd2c1dsREFkNndPYXQ2bzduZ0hPazlGd2VSR2ZVUGxmU2NBY2pENmFfNm83MnJFaFlDT3dWT016a1QzcmxGaVhPdDF1TC1sdjlrY0VNazRITllKV3VRNA?oc=5"
         }
       ]
     },
     {
-      "id": "98e6ee175a3c",
-      "title": "衞生署本周末將在觀塘舉辦有關預防和治療愛滋病的戶外藝術展覽 歡迎市民參與 - 紫荊雜誌",
-      "published": "2026-11-27T09:26:13+00:00",
-      "summary": "衞生署本周末將在觀塘舉辦有關預防和治療愛滋病的戶外藝術展覽 歡迎市民參與&nbsp;&nbsp;紫荊雜誌愛滋病防治邁向新篇章 國際愛滋日12月1日&nbsp;&nbsp;蕃新聞12.1世界愛滋病日 雞尾酒療法推行30年 愛滋病已可防可控 冀以接納代替標籤&nbsp;&nbsp;明報健康網健康話題／HIV ≠ AIDS？認識愛滋，別讓恐懼成為歧視的起點！&nbsp;&nbsp;馬祖日報HIV治療迎典範轉移 長效針劑與抗體療法邁向半年給藥一次&nbsp;&nbsp;商傳媒",
+      "id": "4a0f35c99ff0",
+      "title": "「92-96-95」台灣HIV防治數據超越國際！但仍有進步空間 「原因」曝 - 三立新聞",
+      "published": "2026-11-28T09:23:59+00:00",
+      "summary": "「92-96-95」台灣HIV防治數據超越國際！但仍有進步空間 「原因」曝&nbsp;&nbsp;三立新聞",
       "sources": [
         {
-          "name": "紫荊雜誌",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkptWGlOWlJfMWVHSlAybHhHc0d0TVc1V2FDVlA2c2hsVm4zSXE2Z052RnV3RWpIbW9xSkVSUWJfeTZBVUxuSUo1R3poN0pzMExBOEkzemdsMU55NWFzOFljMGJUcS00MnlHSHdPdXd4cEFzR2FXZTdhRWNwUUhkX2xtbDFkRmtfdEVrR0hwTjk?oc=5"
+          "name": "三立新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jWnJtU0pSMnJCOThZR2NQQjd4S0dNRk9ZUGtyWTdjRWlDLWh3YWxOOTdSb0E3RFYya0RaOU9DdThzcXNMZm5DcEVxMXU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "228e77b9b7f7",
+      "title": "自我乳房檢查別只摸胸部！醫師警告：腋下異狀恐是乳癌轉移警訊 - Yahoo新聞",
+      "published": "2026-11-28T08:51:00+00:00",
+      "summary": "自我乳房檢查別只摸胸部！醫師警告：腋下異狀恐是乳癌轉移警訊&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNUGNLOVpfbW43T2ZSeHFrbjdQWHBNWDJKQWdkVnc3OHdmcmdwbzd4RWtDRWZ4Vl9XczlMa1V0LTNiTzAtcHoyeUl5UG1jT3hQTXMzbTJPck5IVmlBOGdCZ0xZd3hnYzRxNmtCRU9KSW80ZXpUVVlueGdyMUFSTno4ajgteW91UlhLWGNORlpBYkhuUnVKTlRENEZuWWxIOTdLZ2tHclJKdE1sSUxEVEtCQnFpWkZOWVpQQjRxUEFiM0p3RjNTcGpMbGtDcHVFM2FweG5SZEJuTGVWVk1QZTBHM2FjRVdITVdxQl9QSGE1bDJTOEhtYmY0MHJfZ3hoX3ptS1BJV0l1TEtOaGRvTHQ0M3dJeHZUbWRnaVB6dm5yUkFodWpreTR1eHpxbTNiZGZqaWQtNFRMdFJnMkpsSG9razQ1WnJWVHQtME52NmQtelVjUGQ2Y0hPLVZsVGxrS1U5bnBKUXFXdEhpYzkxZFE5cnlNZ01BWVBxR2thelVOMkE4dEdfaTBkZVI4ejVTNllBR2puUVdqTldKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d72775655b45",
+      "title": "打過流感疫苗仍確診？醫揭「突破性感染」沒發燒也可能中鏢 - Yahoo新聞",
+      "published": "2026-11-28T04:00:39+00:00",
+      "summary": "打過流感疫苗仍確診？醫揭「突破性感染」沒發燒也可能中鏢&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPY3hfaEhKVU0zdFRQRzVXLWNXWkxfdmVNTW9pYTkxR2JQV0lKd2sxSThUUjBhNzRKN0hNRmtNMU9nOHNacU1lSk9aZWxRa0V0eFFWMVNfOFBPM2Y5RVNJTFEwUlBwbENJS2c2MzRkQnVmZ05UODlsV3VOMjhLWmEwLS05U3c3aklobWg5VkU4ekc5bkJYYWxNNXpVaDNkMEZPVnM1M0hvMF9KWmdIS08yUk5LY0NhVUFtY00tbzlXNlpRUzJseHg3ckVJMm16dUxrQWVrd0IzQ1ZJU1MwZ1ZOTDJvRzctdzVfMlRuajhoQy1QM1ZWb2FGSmR2dHdBY1kxOFRnLTZ5UHc4TEYxNkRuQy1yQV83MXM3Nm83bFZINlJqS20ydmNITktGMWN3ejIyTXpmUmpZM2ZHTVFHYWx0MVNpWEdnbElhTW5uUFg4T3JXVHplazRGTUUwTkJBSW4wTGNhT1dGYUdXdlFZbnM1VV9rZTIwTTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "07eb2c7d5846",
+      "title": "阿茲海默症有望降級慢性病？各大藥廠押注預防性試驗，有望改寫大腦退化命運- 股市爆料同學會 - CMoney",
+      "published": "2026-11-28T03:49:01+00:00",
+      "summary": "阿茲海默症有望降級慢性病？各大藥廠押注預防性試驗，有望改寫大腦退化命運- 股市爆料同學會&nbsp;&nbsp;CMoneyANALYTICAL ENGLISH 解析英語(常春藤)&nbsp;&nbsp;Taipei Times阿茲海默症有望降級慢性病？各大藥廠押注預防性試驗，有望改寫大腦退化命運&nbsp;&nbsp;TechNews 科技新報鼻滴mRNA改善記憶！ 新冠疫苗技術跨界瞄準阿茲海默症&nbsp;&nbsp;自由健康網失智症新藥要打多久？醫揭18個月觀察期 符合條件可停藥&nbsp;&nbsp;TVBS新聞",
+      "sources": [
+        {
+          "name": "CMoney",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95R0w2QmV1b1Q1RUkxQ1J3OWZzdHZCN1FkNmpDZ1dRcGM2bW5VMkRxOEwxMUF6NVlWTzNFRWgtRE9pV19SbEVneDdMY3VnemR0aVN4RFVCVGw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c8e770ee8fa",
+      "title": "維生素C治感冒？吃過量傷腸胃 - 世界新聞網",
+      "published": "2026-11-27T06:00:00+00:00",
+      "summary": "維生素C治感冒？吃過量傷腸胃&nbsp;&nbsp;世界新聞網吃保健品增抵抗力？ 醫揭改變「關鍵習慣」4事降發炎&nbsp;&nbsp;ETtoday健康雲維他命C一天吃多少最好？營養師解析高C蔬果與最佳吃法&nbsp;&nbsp;PeoPo 公民新聞秋冬病毒來襲 預防感冒服維他命C無用！補充一個分量症狀降15% 專家推介兩款保健品 病程縮短3日&nbsp;&nbsp;myTV SUPER健康網》感冒別狂吃維生素C！ 醫破迷思：攝取過量反增2風險&nbsp;&nbsp;自由健康網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1od0tnZ3V4blgteVJFeEZIT2hpZEE3dDRxcHk4WmFEU1E5cXFsd0RBQjRWRFYtZzRPTTNPM3UyMGVHdlF5Uzg4THBTcmJTVWNaYnFYZFRIV3ZOYXpCUjFQQU1n0gFnQVVfeXFMUEhIS2hIRGI2YS1KN05xNEZ5dnhVTjMzcndManNKb3Y4Tkh5b0dGVENRS3lrcHN3ZzFiSktQeHBQUl8tY1pLOXlWZmItblVLTlBIN3VwQUw5LXRQZ3RhNVJEdVFHcFdqdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eab6396a381b",
+      "title": "入冬容易疲勞、總是睡不飽？中醫曝按壓關鍵3穴位有助提神 - 經濟日報",
+      "published": "2026-11-27T02:42:42+00:00",
+      "summary": "入冬容易疲勞、總是睡不飽？中醫曝按壓關鍵3穴位有助提神&nbsp;&nbsp;經濟日報前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "sources": [
+        {
+          "name": "經濟日報",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKcTdkUjEyTUhmTGlDQ1pIaFJuLW9vMlEwcnFVc2ZhU2VyZ3NQUWl2VGszTXBxYWRqWm1MektLd1UxRTJINjc5cDNoSURTV2U4OXNCOWpQUjVuQ2pr0gFiQVVfeXFMUER1aFEwU1pnMXhlVFFQcTUxWVNMcVlWVDRQQ2lUU3NRcThnZFVYVk5WdGFKRzBIamVvMXZGdXBkV1dPdlRZTlRkWkZIWnB6Nmw2bE9tMTlFUkMxWTJxRS1HX3c?oc=5"
         }
       ]
     },
@@ -52,26 +112,14 @@
       ]
     },
     {
-      "id": "8c8e770ee8fa",
-      "title": "維生素C治感冒？吃過量傷腸胃 - 世界新聞網",
-      "published": "2026-11-27T06:00:00+00:00",
-      "summary": "維生素C治感冒？吃過量傷腸胃&nbsp;&nbsp;世界新聞網吃保健品增抵抗力？ 醫揭改變「關鍵習慣」4事降發炎&nbsp;&nbsp;ETtoday健康雲維他命C一天吃多少最好？營養師解析高C蔬果與最佳吃法&nbsp;&nbsp;PeoPo 公民新聞秋冬病毒來襲 預防感冒服維他命C無用！補充一個分量症狀降15% 專家推介兩款保健品 病程縮短3日&nbsp;&nbsp;myTV SUPER健康網》感冒別狂吃維生素C！ 醫破迷思：攝取過量反增2風險&nbsp;&nbsp;自由健康網",
+      "id": "eb68360f3e59",
+      "title": "類大腦送上外太空催熟，揭阿茲海默症病變機制差異 | 科技新報 - LINE TODAY",
+      "published": "2026-11-27T13:32:11+00:00",
+      "summary": "類大腦送上外太空催熟，揭阿茲海默症病變機制差異 | 科技新報&nbsp;&nbsp;LINE TODAY腦波變「孤單」害你忘東忘西？科學家揪出阿茲海默症與深度睡眠的隱藏殺手 | 生活 | 要聞&nbsp;&nbsp;經濟日報類大腦送上外太空催熟，揭阿茲海默症病變機制差異&nbsp;&nbsp;TechNews 科技新報阿茲海默症早期大腦就有變化 研究：下視丘出現分子層面改變&nbsp;&nbsp;自由健康網",
       "sources": [
         {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1od0tnZ3V4blgteVJFeEZIT2hpZEE3dDRxcHk4WmFEU1E5cXFsd0RBQjRWRFYtZzRPTTNPM3UyMGVHdlF5Uzg4THBTcmJTVWNaYnFYZFRIV3ZOYXpCUjFQQU1n0gFnQVVfeXFMUEhIS2hIRGI2YS1KN05xNEZ5dnhVTjMzcndManNKb3Y4Tkh5b0dGVENRS3lrcHN3ZzFiSktQeHBQUl8tY1pLOXlWZmItblVLTlBIN3VwQUw5LXRQZ3RhNVJEdVFHcFdqdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "321653edccf1",
-      "title": "類大腦送上外太空催熟，揭阿茲海默症病變機制差異- 股市爆料同學會 - CMoney",
-      "published": "2026-11-27T05:41:09+00:00",
-      "summary": "類大腦送上外太空催熟，揭阿茲海默症病變機制差異- 股市爆料同學會&nbsp;&nbsp;CMoney腦波變「孤單」害你忘東忘西？科學家揪出阿茲海默症與深度睡眠的隱藏殺手&nbsp;&nbsp;經濟日報類大腦送上外太空催熟，揭阿茲海默症病變機制差異&nbsp;&nbsp;TechNews 科技新報阿茲海默症早期大腦就有變化 研究：下視丘出現分子層面改變&nbsp;&nbsp;自由健康網",
-      "sources": [
-        {
-          "name": "CMoney",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5"
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRkozVDMxR0ZQU2xQc1I1dmpCX0NtMjdweHprRjBwQXd3c1RVLXd0VWFQMlJ5X082S3NMd0NZbXlheUVRbV9aNThQN2RzcTl4T2RNMkR3?oc=5"
         }
       ]
     },
@@ -79,11 +127,23 @@
       "id": "e5302079bc2c",
       "title": "瘦瘦針不只幫助減重？台大跨國研究揭13種肥胖相關癌症風險降4成 - Mombaby 媽媽寶寶懷孕生活網",
       "published": "2026-11-27T10:01:30+00:00",
-      "summary": "瘦瘦針不只幫助減重？台大跨國研究揭13種肥胖相關癌症風險降4成&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "summary": "瘦瘦針不只幫助減重？台大跨國研究揭13種肥胖相關癌症風險降4成&nbsp;&nbsp;Mombaby 媽媽寶寶懷孕生活網",
       "sources": [
         {
           "name": "Mombaby 媽媽寶寶懷孕生活網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaDhQMFRRSTdwS3R0MU9KN3FwaXhyeGRHYW9jMkw2cHlyQjNhTTJ0LWdmWXA5TnRpUENiS3FGZVhqVDh2SGpfVWtMbm9DUmo4Unp0VVZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1159d8864a57",
+      "title": "美華盛頓州3人染H5N1禽流感1死 世衛： 未證實人傳人 - 巴士的報",
+      "published": "2026-11-24T12:47:00+00:00",
+      "summary": "美華盛頓州3人染H5N1禽流感1死 世衛： 未證實人傳人&nbsp;&nbsp;巴士的報美國牛傳人H5N1禽流感死亡案例全球首見&nbsp;&nbsp;蕃新聞美國近期有三人染H5N1高致病性禽流感 其中一人死亡&nbsp;&nbsp;TVB禽流感｜美華盛頓州3名乳牛場工人確診 一人死亡&nbsp;&nbsp;香港01美國禽流感再現死亡病例 H5N1跨越乳牛群感染人類、人傳人風險仍低&nbsp;&nbsp;客新聞 HakkaNews",
+      "sources": [
+        {
+          "name": "巴士的報",
+          "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNdElfUER1SjNjU2FtLVpHNXVMa0lJZFgxclMyWWFNa0o5TWJRbkM1eHZLZmpkc0g1cTIwem5hSV84TzVoaWNEM2JjanpRTE9nRTNjOVpZeEQwemtMRGxIRndlbGhrbE96dHBpVkdkZG1sU0dzakVGQjRyMnp3eUI5R3k2TlAzWUZMaWZxYm1UbE9Uc2ZoalY1Zm1kcV9KUlV1UHNtdE5SN1NKeHljc0NBTHVNY0FSdWdUaVJLRVdBRjM0Um5KRVRVUmNOWHNZRU9PbDIwaXZTX0hqLUlPeDB3UURIOEJ2QnZVcGJKVGxvTi1sdTJTRmo0ZHN2RXBWVjllV2luZFIwajFCZTMzSVlhcVFySlEyVzBkNFBtNnpBeTBwYnZvUkNDNF84OG5xREJGQVI4NzJ1RU5tVmJPTGs2anY4MWlqSzJzWTJ1ZjhLMGpPMnI4QnhIZVR1bS1GMms?oc=5"
         }
       ]
     },
@@ -112,6 +172,18 @@
       ]
     },
     {
+      "id": "db345e049875",
+      "title": "大腸癌｜25歲男無便秘確診大腸癌 醫揭長期缺蔬果吃1類食物導致 - 香港01",
+      "published": "2026-11-23T08:00:33+00:00",
+      "summary": "大腸癌｜25歲男無便秘確診大腸癌 醫揭長期缺蔬果吃1類食物導致&nbsp;&nbsp;香港01",
+      "sources": [
+        {
+          "name": "香港01",
+          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOSVE3c2pOOWRjaWpVRFl2d1Z3aEYyY2lSRjFKNjdhSEI1QzVFVHJFdU5idFgwVG02RDV6MnhkcDRtSFRaQUxxWlU3VnB6V0xJeXJhUHpkb2ZkTVZ0Z3BoQkJLTzBudXJpRFkyT3lmRHJUa3J0S2ZzdHF2MHFQVlZCLWFIUkQyVEUwdzh4VGt4czBCU1dmRGtfbi0teGdjSGk1RHlTRVJ3M0hKaS1JaTVIN3AxRWxqUnBJUk9jeWM0Y3U0Y3VQbFd5TVE0VzByZmJqajY4OExOZEdzT2tUNjZSUXpJNmJXVnA5TFJzQm05YjlCZTNHZDFPUWRhekprc3FvQjZiLVMydTNMSFVkSjhaQUFkZHFUZWx0c0pJMTVWT19QNE9RT3dpSWpmVEQ3NWV2dlZSeWttYktpRG43M3RVTU0wR1dZUEpPcWRQNHVJQkJzN1hZZXBJWEZVRndSdmJueng5TFg0a2dDd3BJdGJOMnppZm5DWllqU25ERWtJNVNPai1zWmRqV0ZpVjBmeFJLVFktT01Mb3FuaWJO?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8649a1cfb731",
       "title": "癌症心臟保護藥臨床療效分歧 常規預防面臨實證挑戰 - 商傳媒",
       "published": "2026-11-27T02:34:21+00:00",
@@ -124,26 +196,14 @@
       ]
     },
     {
-      "id": "5e80f39946f5",
-      "title": "美國禽流感再現死亡病例 H5N1跨越乳牛群感染人類、人傳人風險仍低 - 客新聞 HakkaNews",
-      "published": "2026-11-26T08:57:53+00:00",
-      "summary": "美國禽流感再現死亡病例 H5N1跨越乳牛群感染人類、人傳人風險仍低&nbsp;&nbsp;客新聞 HakkaNews美國牛傳人H5N1禽流感死亡案例全球首見&nbsp;&nbsp;蕃新聞美國近期有三人染H5N1高致病性禽流感 其中一人死亡&nbsp;&nbsp;TVB禽流感｜美華盛頓州3名乳牛場工人確診 一人死亡&nbsp;&nbsp;香港01世衛：美國報告3人感染禽流感 1死&nbsp;&nbsp;世界新聞網",
+      "id": "51d23fa92d32",
+      "title": "遺傳性高膽固醇 飲控4周降18% - 世界新聞網",
+      "published": "2026-11-28T06:00:00+00:00",
+      "summary": "遺傳性高膽固醇 飲控4周降18%&nbsp;&nbsp;世界新聞網",
       "sources": [
         {
-          "name": "客新聞 HakkaNews",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PLTNSZmUzY1ptQ0tlTDJhSGhJZ0Y0ZFl1LWVoQm1jNkdZR1lyZXFKN2pSa1B2Y19Ob3d2bVcwY2pRbDZ2Xzc4WlBMVEVhcFcz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eab6396a381b",
-      "title": "入冬容易疲勞、總是睡不飽？中醫曝按壓關鍵3穴位有助提神 - 經濟日報",
-      "published": "2026-11-27T02:42:42+00:00",
-      "summary": "入冬容易疲勞、總是睡不飽？中醫曝按壓關鍵3穴位有助提神&nbsp;&nbsp;經濟日報",
-      "sources": [
-        {
-          "name": "經濟日報",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKcTdkUjEyTUhmTGlDQ1pIaFJuLW9vMlEwcnFVc2ZhU2VyZ3NQUWl2VGszTXBxYWRqWm1MektLd1UxRTJINjc5cDNoSURTV2U4OXNCOWpQUjVuQ2pr0gFiQVVfeXFMUER1aFEwU1pnMXhlVFFQcTUxWVNMcVlWVDRQQ2lUU3NRcThnZFVYVk5WdGFKRzBIamVvMXZGdXBkV1dPdlRZTlRkWkZIWnB6Nmw2bE9tMTlFUkMxWTJxRS1HX3c?oc=5"
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fRXE2NjVGSFVkMW9KVFF5cTR2TnktT2Nzbi1wSm40RTY1X2hWdDVjQjlZSDluQTdTU05Vc0RzVWVnQ3k3YlpJajlWVnktSl9nT3pYXzA3Sy1qMDdhTF9FT0V30gFnQVVfeXFMTjJXRUVEV2J6bTg3LTZJclBLeWtDbWJYbmxBZU5YeWp0eWVCYVBDRXhZbk5lM1ZEWFB5OHFyOXFjeWRUaTVEczBGTTlGNTZtTm0xNFVGNzduVHpXTkNuRUljb2JTMXVmVQ?oc=5"
         }
       ]
     },
@@ -172,18 +232,6 @@
       ]
     },
     {
-      "id": "66dc25428621",
-      "title": "從保養品到保健食品，這幾年真的開始有年紀感了🤣 - Mobile01",
-      "published": "2026-11-26T10:23:14+00:00",
-      "summary": "從保養品到保健食品，這幾年真的開始有年紀感了🤣&nbsp;&nbsp;Mobile01",
-      "sources": [
-        {
-          "name": "Mobile01",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIQU1CSGpXdFQ5Wm0tdmc4Z05TeDR0UFZPYTRPVXl1em5VaFRIbGRrOEVjMTZrYkN4VGhYb1NuOHJ4Z3ZXaFE3bHRaZkJNNHRDcnZKazZYdWo3UnVvMXo1RklLalcyVlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f6c17f1be6a1",
       "title": "美研究揭椎間盤退化關鍵 特殊蛋白質或成治療新方向 - 自由健康網",
       "published": "2026-11-26T05:49:00+00:00",
@@ -208,14 +256,14 @@
       ]
     },
     {
-      "id": "5f8feea952eb",
-      "title": "新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ | 科技新報 - LINE TODAY",
-      "published": "2026-11-26T07:46:10+00:00",
-      "summary": "新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ | 科技新報&nbsp;&nbsp;LINE TODAY",
+      "id": "1971e298e8db",
+      "title": "新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報",
+      "published": "2026-11-25T23:45:10+00:00",
+      "summary": "新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？&nbsp;&nbsp;TechNews 科技新報",
       "sources": [
         {
-          "name": "LINE TODAY",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YcC1PanN2bmRVbDNyTU1fVE1GeFNBbHNDamtrQ2xWdzlBN1JQWkxwaGdPaFRuYXNMZWdUYXJ0NzJMTnI2d3JwVVlOOEN2R29wNGJDQW1B?oc=5"
+          "name": "TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNjNuOWdJOUJBVU5JakxTdFRwQWVxdlFtX2ZFRlZrS3hNOWJQaUp1czBsd3NoVHhFcXhlN1hTRGFDX0FmclVia1QyeUE4NjZzRDNTdjJzZ3FqZDFPZG1QVG5vNVNfSGFVNnlibkU4V0lsZ1ZMQk9hQ0YzNGw0REVVMU5UQzRhUnp6RjRkNVB6d2hlVk0?oc=5"
         }
       ]
     },
@@ -232,14 +280,14 @@
       ]
     },
     {
-      "id": "3f2e9dcb0a4c",
-      "title": "打疫苗怎麼還得流感？ 醫師列5重點：不能只問有沒有感染 - Yahoo新聞",
-      "published": "2026-11-27T01:04:42+00:00",
-      "summary": "打疫苗怎麼還得流感？ 醫師列5重點：不能只問有沒有感染&nbsp;&nbsp;Yahoo新聞流感疫苗兩大迷思：為甚麼每年都要打？中了流感還需要打嗎？&nbsp;&nbsp;東周刊流感退燒還很喘？別只看體溫，這些變化應就醫- 健康新聞&nbsp;&nbsp;PChome Online 新聞",
+      "id": "7afeae1b5e5d",
+      "title": "全球公衛警訊！聯合國示警愛滋疫情恐反彈 美乳癌新藥獲准 - 民視健康長照網",
+      "published": "2026-11-24T21:42:14+00:00",
+      "summary": "全球公衛警訊！聯合國示警愛滋疫情恐反彈 美乳癌新藥獲准&nbsp;&nbsp;民視健康長照網",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPNjhTak9SWlhNUHE0MThESDNBOF8tQWlGcjgzbmtTUXVnSGZtUTd5UWFlUndVbGJBSWZLT1B1LV94TTBncU43LThLQ2R6cGRzUjBZaGxGOU9rZEsxM2ZoRnpBcXNZd3Z2c2hpOC1UX1hmc3BEalU5bFVnWDZtUGdjZnUzVTEtZ2thS0NvOFZuR09WTFRPMzV2and1aTZjOTNKdWtqd3FfNldna2diQzVKV2J6ak5QSjZqTUZsTy1xMVlnb2xYZ2ZQWW1zaS0xZnBacXhxeVI4TkYzQWh6bmNremM5TUM5cXJDdUVKdzhnVDZtWFUtYk10b1pwTHJFZ1lhNExoMWdGYTl2dmR4QnY5LUd2VktnR2VEaUNKVEdLSkpHX3pDQnAtZ3dMY3lQVWRaZ1RTNDJuS1M2LVJBcHJ3THRiRFZpa2dMR3RZR0dOY25FZW9nS0FHd1ZmenptUVZ5dkZ4cnhaSnZMc2s?oc=5"
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5COVlVNzhZV3BlZVVwUU5zLUV2b3Q3Wld3aFBLUklXTUFpLUpCNFk4b01WVVlIWEFJUHVQbHg5TU5ONTNZY0VkSlpyaVFSLVZZTVRQb1ItZVFUSHIxMzF3RnMyZ2c?oc=5"
         }
       ]
     },
@@ -256,14 +304,14 @@
       ]
     },
     {
-      "id": "940d2fb48a66",
-      "title": "女性護心不能等到更年期！停經適合168斷食嗎？更年期護心保骨3重點 - 元氣網",
-      "published": "2026-11-23T07:42:55+00:00",
-      "summary": "女性護心不能等到更年期！停經適合168斷食嗎？更年期護心保骨3重點&nbsp;&nbsp;元氣網",
+      "id": "bc650a58739e",
+      "title": "卵巢癌術後腳腫緊繃難走！醫揭下肢淋巴水腫風險、處置對策 - Yahoo新聞",
+      "published": "2026-11-23T07:13:56+00:00",
+      "summary": "卵巢癌術後腳腫緊繃難走！醫揭下肢淋巴水腫風險、處置對策&nbsp;&nbsp;Yahoo新聞",
       "sources": [
         {
-          "name": "元氣網",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5yV2VpZEg4VmJKbVliVE1vdm5GT0V2MlNTZURHTVpSQUJQMWhyNkF0eWRObEhFMzZpdzFLbkFaUVd2bGlfb2JRU2syNHF2R2E2Q1VCeXhzblUxak900gFiQVVfeXFMUHNTbjdSTFhaM3RLOU1UQU1qUlFSVHlfRkxjaGhHLThoMUFSS1QxdXRZMHdFTzV2LTlXcXVubGpUQ2M1OGs4dEtUQlppYkZJTFJNbTJkYXZLNEhZTzFzQ0IyWnc?oc=5"
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQZ3phRmRsbUtQX0VHQTBQLXFCd1ZJVURobHRDTDlxNGU5M2NRZVF4OGtIMHBxZWQ2OEdUWkNpV1ZQa3JFZm02Q3lCRHlxeHBmRXVRZVNMR3NFVm9FWnhaVVg2Nm9ETm12R1B6TGdGcmtjZWhaQkpFMlA4SVA2TUphSEFXQm9WUHQ2emVTOFUwcTY0YktyNWdfSGRpbk5ULWJMQkJWd0Z3dWpWaUtDb1lCRlU1dG9JVUNJTi1odmlQYUlpdDctdHFJbzkzcGNRZi1GNzlEZVlJVG9UbzNLaWw2T2hjd05ucU1CaDh3ZkYwYkVKcmF5WVlPcmdJcFd5RTJhWkplRFBicmZadVd3bGI2eGVPZWdaTmgzVzNjU1E0NTJJVl93Tm1zR1VsQm1kRk96SzM1bmcwak9EcElkS3EwVy1RcW00a096S2Y5aHJVaURNdjU3amZDajNZVWJ1cElMQVlzdGdOQ2IzMFVCX1Q0bG1lRmJncTduaENickZ5QmxEZw?oc=5"
         }
       ]
     },
@@ -280,26 +328,14 @@
       ]
     },
     {
-      "id": "6d94c77981cb",
-      "title": "【健康養成記】喉嚨卡卡總有痰？四種可能原因讓侯卡痰 - 新唐人電視台",
-      "published": "2026-11-23T14:37:00+00:00",
-      "summary": "【健康養成記】喉嚨卡卡總有痰？四種可能原因讓侯卡痰&nbsp;&nbsp;新唐人電視台",
+      "id": "4a30ce918376",
+      "title": "子曰論健康》流感不是吃成藥就會好！ 醫教3原則防重症 - 自由健康網",
+      "published": "2026-11-23T04:00:00+00:00",
+      "summary": "子曰論健康》流感不是吃成藥就會好！ 醫教3原則防重症&nbsp;&nbsp;自由健康網流感退燒還很喘？別只看體溫，這些變化應就醫- 健康新聞&nbsp;&nbsp;PChome Online 新聞打疫苗怎麼還得流感？ 醫師列5重點：不能只問有沒有感染&nbsp;&nbsp;鏡週刊Mirror Media腎友今年的流感疫苗打了嗎？醫師籲及早接種，掌握公費與加強型選項&nbsp;&nbsp;Hello 醫師流感疫苗兩大迷思：為甚麼每年都要打？中了流感還需要打嗎？&nbsp;&nbsp;東周刊",
       "sources": [
         {
-          "name": "新唐人電視台",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pVmxpWV8xNnJsY3Nic0FzNFZrdloyYzlfbzFUX2N2eGxYMGRaUnVoem5kUTRzWlRQRF8wYjVTWWVQcjBJU2JUc2w2YW4zNEhQYkQwdW5CeVRadTZLSTQ4dNIBZkFVX3lxTE1udlpHLWxPOG1odTd1a3ZVWml4SVB4cU9zOWdRQkYzWDZFcTN3WWktbUxsUnhrWXpFTlZFWmtpVnpiNTNOM1dHYXFSNEQtN2hkdUlpZlJ2YmV5MTRndWdTeVpvWUhqdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fd031131f258",
-      "title": "科學家發現數位習慣與大腦之間的關聯 - Root-Nation.com",
-      "published": "2026-11-22T11:38:57+00:00",
-      "summary": "科學家發現數位習慣與大腦之間的關聯&nbsp;&nbsp;Root-Nation.com",
-      "sources": [
-        {
-          "name": "Root-Nation.com",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeUw5VEJLOWZ3aHhxRklVUGZBZ0J4dk51dlp5YlZXNjJkbXp3b09INGJNVlZxQXd5eWMxV0lRMFByLWY2QTZaTmJlV3NGNnUxU1JTWTR5bDd0S0loX2FLN2hKQ2VPdU1TRm5NN3VlSE96SG9fZUEtZENNZjktX3VkTkdJSWRabVNlbVRIdHlyekVPNTJmRDdyNVdmSl9rUQ?oc=5"
+          "name": "自由健康網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdjVJZkZPR0g3emYxM19TZjNhY2FZM2dPU2tPSWtUY18zei1JQ0FzQjZ5YmdBcnBZcjVlZ09wZ05xcWRBcFZLNzlhUWJKLWJWUlFOZDFpanNsZEo4RWxUTDA5M2s?oc=5"
         }
       ]
     },
@@ -328,14 +364,14 @@
       ]
     },
     {
-      "id": "c57965e929e6",
-      "title": "巴西研究：釋放沃爾巴克氏菌蚊子 登革熱及屈公病感染減少近7成 - Yahoo新聞",
-      "published": "2026-11-22T03:14:24+00:00",
-      "summary": "巴西研究：釋放沃爾巴克氏菌蚊子 登革熱及屈公病感染減少近7成&nbsp;&nbsp;Yahoo新聞最新研究：帶有特殊細菌的蚊子能防治登革熱- 國際&nbsp;&nbsp;工商時報登革熱有解？野放「帶菌斑蚊」4年 染疫風險大減近7成&nbsp;&nbsp;自由時報巴西研究：釋放沃爾巴克氏菌蚊子 登革熱及屈公病感染減少近7成 | 太報&nbsp;&nbsp;LINE TODAY以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成&nbsp;&nbsp;singtao.ca",
+      "id": "9219a3968a52",
+      "title": "巴西研究：釋放沃爾巴克氏菌蚊子 登革熱及屈公病感染減少近7成 - 太報 TaiSounds",
+      "published": "2026-11-22T02:36:57+00:00",
+      "summary": "巴西研究：釋放沃爾巴克氏菌蚊子 登革熱及屈公病感染減少近7成&nbsp;&nbsp;太報 TaiSounds最新研究：帶有特殊細菌的蚊子能防治登革熱- 國際&nbsp;&nbsp;工商時報登革熱有解？野放「帶菌斑蚊」4年 染疫風險大減近7成&nbsp;&nbsp;自由時報巴西研究：釋放沃爾巴克氏菌蚊子 登革熱及屈公病感染減少近7成 | 太報&nbsp;&nbsp;LINE TODAY以蚊治蚊｜巴西「特殊帶菌蚊」化身抗疫奇兵 登革熱感染率大跌近7成&nbsp;&nbsp;singtao.ca",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOT3BZbHRxLTlCbkpBN1ViUEhGcjdjQUtlZFo4YXY0dXdpdHMwU0hza2ZXM05LOWs3Sl8wSW9ENXR2ZHFicFZPSXFmU2dfRGg1eHdVX3FiR016VUNHMlRZNExHaC1QTEwxMnVINE5DOVNQaFY2c0VuR2huNG5lX25mdFc1QXV5UXMwQmpiS3JBQnJGTkpmbWJJVjBFZ0FJQXRmNkE2aTNzcWxDMXp5YkJnRFVtTU9Ib0VRMEI2Qm1KMFZlSzhSZ29vMG1seHNDZVhiazVqSnFsb1hXb0JRdElYdEM2NEVmNEppVXAxQVVCOEU0V0Z3a0FqNk1FX2FpakdKbDNGc1RqaGhCN2J4NnVmdTNBYzBiZ1pyQmEzOUZNV0ZVa1RIOWZObmhZYy00d1BrXzViZkFzT1hzN3gzLVA0Z196VDVhWE9zME5VVUkzTmZFWkVENEVWdGtfSW5GWDJTbU51RUhTa2dzWmpqdzQwaUY5Q2RXaC04ZUdwVGUtT3FDaGNPMkhyLWdybzZocV9qMVF3MzlONHBkbk0?oc=5"
+          "name": "太報 TaiSounds",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rVVJkcE5Cai1ZMEktd096T0hYTTQxOXFiWFRFOGFSSTJpN1FiSXhEZGJHUmVmVjF3VFlHT3lDWS10dUVzdUNOc1pTWEtyOG51ZXdSSGNkVVc2TzZ6?oc=5"
         }
       ]
     },
@@ -364,18 +400,6 @@
       ]
     },
     {
-      "id": "72d233f26433",
-      "title": "轉天氣鼻敏發作?梓航終於有覺好瞓啦!💤 - U Lifestyle",
-      "published": "2026-11-23T17:13:26+00:00",
-      "summary": "轉天氣鼻敏發作?梓航終於有覺好瞓啦!💤&nbsp;&nbsp;U Lifestyle全家陷入「感冒接力賽」？醫教4招換季保養睡前多做1件事- 健康新聞&nbsp;&nbsp;PChome Online 新聞秋冬小朋友易患呼吸道感染 中醫拆解5大氣管敏感成因+3款止咳補肺湯水&nbsp;&nbsp;星島頭條",
-      "sources": [
-        {
-          "name": "U Lifestyle",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTmVfb1ZQMkhHQm1QVnlhMW1fa3ZZZ1h5WVZ4LU43UlBmN2t2SzVhNUxSbU1CQXpUMHNSWUZzQlRjRjFrVUpxRmwyVXJSbWpoV2ZaRjAtWEdNRWpueFM1SXlQOTZYWXBqUGpaTHdabld5UElic2FSM0tFeVZpMWR6LXg0dXFFWFhQZm42c09OOE16TU9rTEtVeThIcmNzaldDWjlmblU5YzRpM1pCclJxSEhyQnZQUXdLRThJTDFHaWVFZWJYVzBGY3NwVkNPUnRUc2hmcVFlR3lBdnBLbFd1R3NNdzREQVpvb2xrM1R2ajBwWS1lc1V5ZDE5MGotWFl4a0EwMDhUc1AtWjcxNmpFRDRTRV9MZWU3dmtzZEhVME5OVy1nSHNPVjM2cjNfYTc0UFR0ZnpNLUFpaU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "50e50e28a11d",
       "title": "心跳140拒住院 急性心肌炎險喪命 靠葉克膜搶命 - 世界新聞網",
       "published": "2026-11-26T06:00:00+00:00",
@@ -400,6 +424,18 @@
       ]
     },
     {
+      "id": "3869489ae295",
+      "title": "莊哲男腸胃中心迎劉穎恆醫師高品質腸鏡 降低大腸癌風險 - 世界新聞網",
+      "published": "2026-11-28T05:59:00+00:00",
+      "summary": "莊哲男腸胃中心迎劉穎恆醫師高品質腸鏡 降低大腸癌風險&nbsp;&nbsp;世界新聞網",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX2c4OU5ZMW5vODRwZHZCZU1adXNmNlNjN21TTlR6QTREODlGOC1Gd2VrZGZDam1RNEtwMWRhSWdWRmFsYkkxSkdoSlkzZDZ0VGRiTmNkcUdwNXdTU2pRQ1h30gFnQVVfeXFMUGpRdUxGQmNnTFVYMzhWZWtiRlRKZGdvT2t1UTU1VE1ERXF4X3IxVGZtWkxMVndfNHdyYmhGemJYRVpmRi1kcFZQWXQ0X0MzT0RHUm5NM0pPX0R4MkstSzBUT2hMZkJlUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "be5d21e1182c",
       "title": "化療掉髮 選用溫和洗護產品 忌自行服用生髮藥方 - 世界新聞網",
       "published": "2026-11-27T06:00:00+00:00",
@@ -412,18 +448,6 @@
       ]
     },
     {
-      "id": "a41708b271eb",
-      "title": "胰臟癌細胞會「偷」膽固醇向周圍細胞吸取養分- 醫藥新知- 新聞 - 華人今日網",
-      "published": "2026-11-27T08:56:25+00:00",
-      "summary": "胰臟癌細胞會「偷」膽固醇向周圍細胞吸取養分- 醫藥新知- 新聞&nbsp;&nbsp;華人今日網",
-      "sources": [
-        {
-          "name": "華人今日網",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43QUFpQ3dUSG53X0pLWHMyaTFTMDBLc0xBTzZrQ1REVXRQN0FVcno5eXQ5LU5JVHg3bXVOY1pKcTBNd0xrbWk2N2Q3VDRoTHlPcUU4QlFfZzBFT3FQQWhVenJ0WWxwUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f4268f628e1d",
       "title": "肯亞引進新型HIV預防針劑 男性接種意願低於女性 - 商傳媒",
       "published": "2026-11-27T02:25:16+00:00",
@@ -432,6 +456,18 @@
         {
           "name": "商傳媒",
           "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNQ1RNTExsd2U3dl9iLUFTd3FWZ0VHczZMeHcxWGFLcjFIRkhfSTc2MmFCcHUxZjZpUVdLakRPMjNoUHp2MGRBc1JON2Roak0yRHdqWkhCVWZMTkEwLW1nTzAycFFIZ19XTFlvai04R2tyNVpqY1R0TXZyYlg3VWN4UlNwa2pMUWNuMW82TTkzVzcwa3d6M3cyVGxVaHdkWi1vZEo3UEVnWEhrVGYzWmVGSEcxX0tNc1VLVzZiUFhHdVhmZ1RJOHFYVU1MeXU0OExWOUZCM0tyMEpTZEhIX0V2LU12XzMxeUVQNWxwSU9xRmZzcUhPZzFXblpEdmFhZkpYQ2k0b3JlV2lINTQ5WnpXODdQZlotaDdiNnBaXzRNd0MwdjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "32a06d95df98",
+      "title": "補充維生素D抗癌？醫建議日常補充「這樣吃」才正確 - Yahoo新聞",
+      "published": "2026-11-27T00:01:46+00:00",
+      "summary": "補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;Yahoo新聞",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQWlRnYm1ZOGJQY0U4RWw3U3o0ZFJKendUdTE2aWtRcFlicTFqeERjSDBWWmhUbjIzbk94Y09EQ0U1LXFmRi1QUDJ6TGNyWmNDMl8xYTlremMyYkFPd21QckhsQm1jaldhZDY2bnA5VWdfOHFfZWNyRXp0SXdDT2FJNkZUbXJLSEFOUHdONlczRFNMWjZiejgxV0wxb0hNZXQ0ay1LMHZUVk00ME1NSDZwM0lka1dVT0dBXzFwb19ZU052UkVtcXpKVHoxNVZERU1UNkpsREw3WlZuRFVFMmoxYmZQRDlZSTM3U3hoVDdJVk9hX0w4MjNMdzBKYlZqd1p1NTNQNmFaUDJVT1BPNzVObkkyX3M4TTRVUzZUMVo5bUU0eURMVnZFNVFMdVVTdE8zRVlDNGw4Z1h4Mkoza0g0eFR1YUF5MmJq?oc=5"
         }
       ]
     },
@@ -460,18 +496,6 @@
       ]
     },
     {
-      "id": "32a06d95df98",
-      "title": "補充維生素D抗癌？醫建議日常補充「這樣吃」才正確 - Yahoo新聞",
-      "published": "2026-11-27T00:01:46+00:00",
-      "summary": "補充維生素D抗癌？醫建議日常補充「這樣吃」才正確&nbsp;&nbsp;Yahoo新聞",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQWlRnYm1ZOGJQY0U4RWw3U3o0ZFJKendUdTE2aWtRcFlicTFqeERjSDBWWmhUbjIzbk94Y09EQ0U1LXFmRi1QUDJ6TGNyWmNDMl8xYTlremMyYkFPd21QckhsQm1jaldhZDY2bnA5VWdfOHFfZWNyRXp0SXdDT2FJNkZUbXJLSEFOUHdONlczRFNMWjZiejgxV0wxb0hNZXQ0ay1LMHZUVk00ME1NSDZwM0lka1dVT0dBXzFwb19ZU052UkVtcXpKVHoxNVZERU1UNkpsREw3WlZuRFVFMmoxYmZQRDlZSTM3U3hoVDdJVk9hX0w4MjNMdzBKYlZqd1p1NTNQNmFaUDJVT1BPNzVObkkyX3M4TTRVUzZUMVo5bUU0eURMVnZFNVFMdVVTdE8zRVlDNGw4Z1h4Mkoza0g0eFR1YUF5MmJq?oc=5"
-        }
-      ]
-    },
-    {
       "id": "28e25903dec1",
       "title": "腦癌｜22歲護理系學生不敵罕見腦癌離世抗癌3年屢次復發開腦化療從不言棄臨終盼以身試藥幫助同路人 - 香港經濟日報HKET",
       "published": "2026-11-27T02:43:54+00:00",
@@ -496,26 +520,14 @@
       ]
     },
     {
-      "id": "ac7bbc492bec",
-      "title": "心理健康︱親睹同事猝死衝擊一幕男子反覆頭痛活在焦慮慘被家人斥扮病醫生揭成因：1類人常見 - 香港經濟日報HKET",
-      "published": "2026-11-26T04:48:18+00:00",
-      "summary": "心理健康︱親睹同事猝死衝擊一幕男子反覆頭痛活在焦慮慘被家人斥扮病醫生揭成因：1類人常見&nbsp;&nbsp;香港經濟日報HKET",
+      "id": "fd1b915b5511",
+      "title": "口蹄疫疫苗開發新方向：免針微針貼片具熱穩定潛力 - 農業知識入口網",
+      "published": "2026-11-22T20:39:08+00:00",
+      "summary": "口蹄疫疫苗開發新方向：免針微針貼片具熱穩定潛力&nbsp;&nbsp;農業知識入口網",
       "sources": [
         {
-          "name": "香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQSEEwdWh4ZDBFUG8tRmNfVHk5enZ0SGhHbHp2NTItd1B3YVE0TVJ5RlBBMEdWRDlfT0V0SldvQV9sejEtUW0xakhpR1U4VGM3YjZBQU44NmhQaXdQTDFQanZObW1YcWdEd1lRTktXNjVVRHNwbDR6N1VBOUM2NllHWFdnUFZVd1h5Wmx6b0xnZGJZY3VXR0ZrWERzSEpENDVOUTB3TWN0UHRtX2cwM21jVS1KUUkxTkhfd3dta1hPc1lGalZoX1JldHZyYkVseXFSc1dfbXlpWFFhT1doOExwUkZmdFRTWU9xeFczTVJGX3Q3YkE1RHNHMWVMeFBxNWhtLVZzYXRtM2tpSXRCeS1FRWxhODRpWUx3b1NaOTRQQTVTWTRpMEhrSHM1Q09NZ1R3SVA0NmNVaGowUjVOQ0VpT2FiZFdYUWJWR1k0Y0pUR2xycEIzR2ctaERlU0VjSnBqREN6Zk81QTU2bEpudzU2S3FUd1dPTTAxMERqdVhMaGY2M3g5a2NpZ2tVd29hSnNtbXNEU2tTNUlVdEgzXzNGblpaNkp4eEJDWmFiTVZNUjdBZU8wWUpORURFZ1AtamkzZ05mUnpNVVBSN0t4clJVR1dUU3RKR18xSFQzR1Jqd2JwVXR0U0ttamdqNGh2Um5Fb0puQ29NeHAtVWlxeEY5YkRVdV9KbFRxTmxCa0lPQnBFZ1ViTFpleE1wa2ZqUWpQdExodGl2bERVSFlBZ0FGM0hOb0ZydVpCRFpFeGR2R2ZKbWN4amVnbVFJc0t5bWxJS3J2V0NfNjlRUzZRRG0zSnNDQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "03cc87d1cb51",
-      "title": "健身｜女性重訓防肌少症外也有這個好處 11萬人研究：每周重訓兩小時 降心梗風險近四成半 - am730",
-      "published": "2026-11-26T07:30:00+00:00",
-      "summary": "健身｜女性重訓防肌少症外也有這個好處 11萬人研究：每周重訓兩小時 降心梗風險近四成半&nbsp;&nbsp;am730",
-      "sources": [
-        {
-          "name": "am730",
-          "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOMzFTdzdCVGRTc2ZKVE41R2JFazJ0bE56NF9UOEZkbDZPX09IbW9raDUyRzM5cy1IbUdzV1RORDRMYTRPejF1NkdDc3MzeXpHSEFNM1FNcW1EY3diZV9QdzBuUVFlOTZZaWZzNmJ5SnhLb0MxTTlDTEJpaEYxMjY1MnZzME9SWEhqdElMNHFrcnhiNmo5UDJKRG9fWkJpYnFqQzRTcFR5d0JyOFMyd01ILUtwc3JTMUxiZDAyclRaVno4azBZTmM5NXR5bkxWYTNxT0U2MVhRSDFpbEJNUlkwejdDNU5ZejIydzhxNmY2Y1hSR3hNZURGTEs0cXIyV3RzYzBUSVFWWTJMcmNMVEthMmhlWjh0eHBHMlJLZVZnTHJYaTBPbWpaaFBROXBpQV9Rc1FVd1RRMVpIY2NGVUxnS0J0d0JXNGtIcEgxTm8zV1VGZXdhLUNYY2lxTU9LY2dpdmhZcThsbjl3RGEyYjI3M1ZJaWNoank3MmlNNUI4Q0Y4czFqaXJxTndZdkg3dUticXF3a2M2T1d2U29LWm9xdDU1Y28xbWsxemliNXBnc0JfaFBzb1U3ZFU3ZmkyVU5HZXRhR2xkRE90ZExxNEM1d1ZaaWw5SkV6ODk1QkQ5NlNaZ2luU2huNTJFcjJSMnV5UlYxT0NuYjJCMWt0b1gtMUdLRkhta210NVFKTWZ5LVVWdDZlWUlRZHJXR3lESGZUMlB4T0pn?oc=5"
+          "name": "農業知識入口網",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmVuQ20wWUk3SDNMZkhEMmFYd0hNS1FHV1FVY2Nnb0NRd2RaYUNhSUJCTnZpVURpX0FodDBXWG5wMDU1UnU3Wm9VYV9PMENUQVQzeTI3c19RVnlwSmpzQUhCel9QcHRWenZzR2dHaHcyYkozMjc4c2JXTjZ3ODhnMkd1WjVUTGlN?oc=5"
         }
       ]
     },
@@ -544,18 +556,6 @@
       ]
     },
     {
-      "id": "812c3e8b7fa7",
-      "title": "WHO正式認證蓋亞那 阻斷愛滋與梅毒母嬰傳播成公衛里程碑 - 商傳媒",
-      "published": "2026-11-22T23:58:39+00:00",
-      "summary": "WHO正式認證蓋亞那 阻斷愛滋與梅毒母嬰傳播成公衛里程碑&nbsp;&nbsp;商傳媒",
-      "sources": [
-        {
-          "name": "商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaGdBQjNTb0VsTURGV1Fxemh0Vk9YWWx5Z29ZQTVVM1pqQ2oyZkVET051VkpENnc0OEFLOTE4ZHVoSG5nRXp6RHpETVZKbmY2c2R3d2NtOFBldlYxS0I3Vk9MbU1PdWJ6d0UyTnR2THJLSng5UnpyMVBNQVBmeG1yb3NMaE56MFh1ZFhkSDM4QUpWYld3V2RjYmgwTXh0c2lkdFhjZnBiYzRTYXNrbXltMFBwWnZoNS1vZEl3Y05JTVRJYUkzLW93bEp3SVBJSTdTTmt1Mm1rWlNoZWoyeTNkZHhpeVhrUGlNbGpWRzczU19HTGFJNHBPNU9oYUZzaFZSWGVXWkpsLXRRYjNDaEVMdlJHcTBCZE1ibWY0TDd2el9ndk1qWFU0UjB3cU1ZTDJoX3hJbnMxeUo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1233a035fbb6",
       "title": "孩子從小愛閱讀好處多！研究揭記憶力、 學業表現較佳抑鬱徵狀也較少 - 巴士的報",
       "published": "2026-11-24T22:40:03+00:00",
@@ -564,6 +564,18 @@
         {
           "name": "巴士的報",
           "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNY3ZfeVVZaWhLQ2UzTVM2b2NTNTFMVlJDSkY1ZG1Vc1dMSDktUkQ3eEFOb2dvSllSNmhVeTJVblU2NFdqSjNBVnhoTjlOZldPNzg4c2pvYm5oMWVwZFlubG40c19hZE14bE9FODhQZ0tucEM0Vy0wYXdsamRFMVlDNFU5dVRiWDRGYlotQmd2X196bFQ2Y3Q3VFRSeW81ZlF0cVZBRDVzV21jbjUxNW9maTBEZGNOS1hXeFpUY1lQSHlkdnJlX2ZYa1hFb3E3MWEycFgwUWRTOXNITklqS2pZLWliMWxqMlluc0lEUWdJY0tEME9fd0tuTURiZkVnWk4xWnZ2bExCUjlfclFIZ3lRMG1icm12dHBiM21adkZWRkNzN2dRbGVGbnFtMTgyeDlhdmZxSzcxT0VYMGF1Zzl6dmRFQkJlNy10cXV3VWVxWlpsbU9QaVBUdVNKN2JmeVVldHpkc01kNWNWTlVJV3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "812c3e8b7fa7",
+      "title": "WHO正式認證蓋亞那 阻斷愛滋與梅毒母嬰傳播成公衛里程碑 - 商傳媒",
+      "published": "2026-11-22T23:58:39+00:00",
+      "summary": "WHO正式認證蓋亞那 阻斷愛滋與梅毒母嬰傳播成公衛里程碑&nbsp;&nbsp;商傳媒",
+      "sources": [
+        {
+          "name": "商傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaGdBQjNTb0VsTURGV1Fxemh0Vk9YWWx5Z29ZQTVVM1pqQ2oyZkVET051VkpENnc0OEFLOTE4ZHVoSG5nRXp6RHpETVZKbmY2c2R3d2NtOFBldlYxS0I3Vk9MbU1PdWJ6d0UyTnR2THJLSng5UnpyMVBNQVBmeG1yb3NMaE56MFh1ZFhkSDM4QUpWYld3V2RjYmgwTXh0c2lkdFhjZnBiYzRTYXNrbXltMFBwWnZoNS1vZEl3Y05JTVRJYUkzLW93bEp3SVBJSTdTTmt1Mm1rWlNoZWoyeTNkZHhpeVhrUGlNbGpWRzczU19HTGFJNHBPNU9oYUZzaFZSWGVXWkpsLXRRYjNDaEVMdlJHcTBCZE1ibWY0TDd2el9ndk1qWFU0UjB3cU1ZTDJoX3hJbnMxeUo?oc=5"
         }
       ]
     },
@@ -600,18 +612,6 @@
         {
           "name": "BigGo 財經",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BdDRmajhUNTItMGJsVEZlSXBIc1pYSVRKM1VTcHEtaXhVakpFR2drNi1TTHFLS0k4WUdOWG8zNWpBYjlYU05VQWtQaUpYcktEUzFVdnpybEdlcmJlNjEw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2cdd7d7c38e",
-      "title": "以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67% - singtao.ca",
-      "published": "2026-11-23T03:22:30+00:00",
-      "summary": "以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67%&nbsp;&nbsp;singtao.ca",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQalBrdVJlLTVMd3lZQTVJNDZCcHlZRXdEZ2Njei1XOXZVZXhrSW55U1ZlYV9YMFFwbzVOZkdzM0dLcjdoWVNfMUMxMXZzcUhzMndwRDlHaWFUdGdhS3dOTnF3ZzlwSFFieWxCSVl1WnNRazJNV2k1Vk13U2lzbS1Jcmlwanh5ZHVIa3VRTy1tWEhWSkprMng2S0ZhbklpdnQtUHFDVkhMTXNKUmNMUjVBbi01MjcxeG8xNlplLVcwNk51S1BRZWFMV3plNlRfSTRiWlhiYjdlblo1Y2J6UTc5MVNwQUVpNzYtT1NGcjdEYXFkdnpWUnBpb01kZDZrZ0pKWk5PVzhXRUN3T0NlT0NqclFDSl82elJtWEhua2l5dkl1dENxMC1NQ3hBclFJaGNfSTJXX0NxWVVnR2luN2RJX2xabDhrOWFTei1lVjNaeWlSdHNxY3ZscDdDRjNrZkJrdjIwUGt1UnFqN0YwZGtXS1F6VURsc09mMFp5VURxVjI0MUN3bm1WQ0JmaHQ2Mm1nSTkwQ3RqWjlKb0RrZk02YmVtVmRYYjN4bGg2ZWJJb1cybUVWc29FdNIBkgFBVV95cUxOQzNTc2Q4cXdVN3hrUzRFb3AzZ3RoeVNHNkpxTlloQlRXWF9PMXhjaTkyWW4yanNaX0FjRTBzbHRfYm1qT081WnlCZ2FTMTJXdl8tSVhXQnN6VjYtT2s2VlhZQmE2WG9YQ0M4SFFGMHp5Y1JodTgwR0FaOFYzNDBnSzJSR2d1aWlpcTVnLWlGQ1ZVUQ?oc=5"
         }
       ]
     },
@@ -664,18 +664,6 @@
       ]
     },
     {
-      "id": "db345e049875",
-      "title": "大腸癌｜25歲男無便秘確診大腸癌 醫揭長期缺蔬果吃1類食物導致 - 香港01",
-      "published": "2026-11-23T08:00:33+00:00",
-      "summary": "大腸癌｜25歲男無便秘確診大腸癌 醫揭長期缺蔬果吃1類食物導致&nbsp;&nbsp;香港01",
-      "sources": [
-        {
-          "name": "香港01",
-          "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOSVE3c2pOOWRjaWpVRFl2d1Z3aEYyY2lSRjFKNjdhSEI1QzVFVHJFdU5idFgwVG02RDV6MnhkcDRtSFRaQUxxWlU3VnB6V0xJeXJhUHpkb2ZkTVZ0Z3BoQkJLTzBudXJpRFkyT3lmRHJUa3J0S2ZzdHF2MHFQVlZCLWFIUkQyVEUwdzh4VGt4czBCU1dmRGtfbi0teGdjSGk1RHlTRVJ3M0hKaS1JaTVIN3AxRWxqUnBJUk9jeWM0Y3U0Y3VQbFd5TVE0VzByZmJqajY4OExOZEdzT2tUNjZSUXpJNmJXVnA5TFJzQm05YjlCZTNHZDFPUWRhekprc3FvQjZiLVMydTNMSFVkSjhaQUFkZHFUZWx0c0pJMTVWT19QNE9RT3dpSWpmVEQ3NWV2dlZSeWttYktpRG43M3RVTU0wR1dZUEpPcWRQNHVJQkJzN1hZZXBJWEZVRndSdmJueng5TFg0a2dDd3BJdGJOMnppZm5DWllqU25ERWtJNVNPai1zWmRqV0ZpVjBmeFJLVFktT01Mb3FuaWJO?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1c088ca5b5e",
       "title": "健康點滴：腦癌放射治療 須避開海馬體 - 20261123 - 副刊 - 明報新聞網",
       "published": "2026-11-22T20:30:00+00:00",
@@ -700,6 +688,18 @@
       ]
     },
     {
+      "id": "09f26c7e9133",
+      "title": "以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67% - 星島頭條",
+      "published": "2026-11-23T03:00:00+00:00",
+      "summary": "以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67%&nbsp;&nbsp;星島頭條",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPTDdYS1R4dnphM3lFQTZLMkV5QU81bnQzQlk0UzBWb3phdHRZemk0SlFUTVdKMUpYN2FEUlpnWVpaMkVkRjVJZWhWXzJBOEFNd0NoYmU5OUdLRVJaeGRiZlBLdl9GeHN1X3FyUUcxcm5iOFJXSFZRTnZXVXVadGdRZm45YUtlNnNGMmxxYlVJLXBFUlhua0s0X2NPdDNKNlQwMG9JZWc5eWNUNzZ1WUY2TzFMelBoa0I0V1F3SXJSN3RMY1BMTGVWQ25TLVU4LXFwOFVTM1VBUU5ocThWYU52SDExTlEyVUdrRW5KN1h3SXdSTXhlcWRwVVd3TVNlQ014XzZHZDdKS0EweEtfdENEa2k3NVN1ak1fWU1yZnN6b1otbWJJeFlYREVCcDY3Rng1bXRVanFmUkpWWnpab0hjc1hRc3FaRVlJemtWejJmMVYtbkFGR192V3BSME0wcnBCQVJYQ0dXcGhBOFYwVFVoekM1Vk5XV2xzVnFqT1BScnRwSGdyaUF0UlloRFFQYXlBRWNWRTBGQWR6RUVxaWhabVRoRFpYREU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3807909f75b5",
       "title": "釐清成因風險 比對檢測結果 晚期胃癌治療新方案 - 信報網站",
       "published": "2026-11-25T00:08:43+00:00",
@@ -720,6 +720,18 @@
         {
           "name": "明報新聞網",
           "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPam5kQllqb3lIb096RVpGS0JYNzdKR1FjZWhNZGtndXg0V2RXNkxIN3JLS1FOaTVyOExtY054YjRLa1p6OVlJeS1VMVkyaE9zRzZoOEtZT2ZFWHZYQmFQaDRaUWtfb2pjT3BxSkZObmwzWXhvWjZuVFZzVXhGLVNOOEdPX0Y5X3ZLQzA2dmUxaWRhNXRURkp3cnU4clNtQnJ6R0FDNXVIUmNFcW0tRXNzVm4wNVhlV3dfVTdjdElrQ2pfVDJ1Q0ZuRjRlMUhhRFFjU0pNTVJGVmM3WjVtMVgzNUdfbWFzVVE2dEFWVGRrRjdjUldVSC1CMzZxRURxMC1WSm1aYU5KRTZ2dW5xN2lhSHlVcEMzQ280aFl3SnRUMXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03cc87d1cb51",
+      "title": "健身｜女性重訓防肌少症外也有這個好處 11萬人研究：每周重訓兩小時 降心梗風險近四成半 - am730",
+      "published": "2026-11-26T07:30:00+00:00",
+      "summary": "健身｜女性重訓防肌少症外也有這個好處 11萬人研究：每周重訓兩小時 降心梗風險近四成半&nbsp;&nbsp;am730",
+      "sources": [
+        {
+          "name": "am730",
+          "link": "https://news.google.com/rss/articles/CBMipgRBVV95cUxOMzFTdzdCVGRTc2ZKVE41R2JFazJ0bE56NF9UOEZkbDZPX09IbW9raDUyRzM5cy1IbUdzV1RORDRMYTRPejF1NkdDc3MzeXpHSEFNM1FNcW1EY3diZV9QdzBuUVFlOTZZaWZzNmJ5SnhLb0MxTTlDTEJpaEYxMjY1MnZzME9SWEhqdElMNHFrcnhiNmo5UDJKRG9fWkJpYnFqQzRTcFR5d0JyOFMyd01ILUtwc3JTMUxiZDAyclRaVno4azBZTmM5NXR5bkxWYTNxT0U2MVhRSDFpbEJNUlkwejdDNU5ZejIydzhxNmY2Y1hSR3hNZURGTEs0cXIyV3RzYzBUSVFWWTJMcmNMVEthMmhlWjh0eHBHMlJLZVZnTHJYaTBPbWpaaFBROXBpQV9Rc1FVd1RRMVpIY2NGVUxnS0J0d0JXNGtIcEgxTm8zV1VGZXdhLUNYY2lxTU9LY2dpdmhZcThsbjl3RGEyYjI3M1ZJaWNoank3MmlNNUI4Q0Y4czFqaXJxTndZdkg3dUticXF3a2M2T1d2U29LWm9xdDU1Y28xbWsxemliNXBnc0JfaFBzb1U3ZFU3ZmkyVU5HZXRhR2xkRE90ZExxNEM1d1ZaaWw5SkV6ODk1QkQ5NlNaZ2luU2huNTJFcjJSMnV5UlYxT0NuYjJCMWt0b1gtMUdLRkhta210NVFKTWZ5LVVWdDZlWUlRZHJXR3lESGZUMlB4T0pn?oc=5"
         }
       ]
     }

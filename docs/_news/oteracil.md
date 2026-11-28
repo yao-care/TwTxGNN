@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Oteracil 的相關健康新聞報導。原適應症：胃癌用藥。預測適應症 9 個。"
 permalink: /news/oteracil/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Oteracil 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Oteracil 有什麼相關新聞？">
-<strong>Oteracil</strong> 目前有 <strong>49 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Oteracil</strong> 目前有 <strong>50 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/oteracil/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（49 則）
+## 相關新聞（50 則）
+
+### [莊哲男腸胃中心迎劉穎恆醫師高品質腸鏡 降低大腸癌風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX2c4OU5ZMW5vODRwZHZCZU1adXNmNlNjN21TTlR6QTREODlGOC1Gd2VrZGZDam1RNEtwMWRhSWdWRmFsYkkxSkdoSlkzZDZ0VGRiTmNkcUdwNXdTU2pRQ1h30gFnQVVfeXFMUGpRdUxGQmNnTFVYMzhWZWtiRlRKZGdvT2t1UTU1VE1ERXF4X3IxVGZtWkxMVndfNHdyYmhGemJYRVpmRi1kcFZQWXQ0X0MzT0RHUm5NM0pPX0R4MkstSzBUT2hMZkJlUQ?oc=5)
+
+2026-11-28 <span class="news-indication-tag">大腸癌</span> <span class="news-indication-tag">腸癌</span>
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX2c4OU5ZMW5vODRwZHZCZU1adXNmNlNjN21TTlR6QTREODlGOC1Gd2VrZGZDam1RNEtwMWRhSWdWRmFsYkkxSkdoSlkzZDZ0VGRiTmNkcUdwNXdTU2pRQ1h30gFnQVVfeXFMUGpRdUxGQmNnTFVYMzhWZWtiRlRKZGdvT2t1UTU1VE1ERXF4X3IxVGZtWkxMVndfNHdyYmhGemJYRVpmRi1kcFZQWXQ0X0MzT0RHUm5NM0pPX0R4MkstSzBUT2hMZkJlUQ?oc=5)
+
+---
 
 ### [瘦瘦針不只幫助減重？台大跨國研究揭13種肥胖相關癌症風險降4成 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaDhQMFRRSTdwS3R0MU9KN3FwaXhyeGRHYW9jMkw2cHlyQjNhTTJ0LWdmWXA5TnRpUENiS3FGZVhqVDh2SGpfVWtMbm9DUmo4Unp0VVZ3?oc=5)
 

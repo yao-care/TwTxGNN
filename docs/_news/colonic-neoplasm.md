@@ -3,9 +3,9 @@ layout: default
 title: "大腸癌 (colonic neoplasm) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。14 則新聞、1 個相關藥物。"
+description: "大腸癌 (colonic neoplasm) 的相關健康新聞報導。15 則新聞、1 個相關藥物。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # 大腸癌 (colonic neoplasm) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="大腸癌 (colonic neoplasm) 有什麼相關新聞？">
-<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>14 則</strong>相關新聞報導，1 個相關藥物。
+<strong>大腸癌 (colonic neoplasm)</strong> 目前有 <strong>15 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（14 則）
+## 相關新聞（15 則）
+
+### [莊哲男腸胃中心迎劉穎恆醫師高品質腸鏡 降低大腸癌風險](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX2c4OU5ZMW5vODRwZHZCZU1adXNmNlNjN21TTlR6QTREODlGOC1Gd2VrZGZDam1RNEtwMWRhSWdWRmFsYkkxSkdoSlkzZDZ0VGRiTmNkcUdwNXdTU2pRQ1h30gFnQVVfeXFMUGpRdUxGQmNnTFVYMzhWZWtiRlRKZGdvT2t1UTU1VE1ERXF4X3IxVGZtWkxMVndfNHdyYmhGemJYRVpmRi1kcFZQWXQ0X0MzT0RHUm5NM0pPX0R4MkstSzBUT2hMZkJlUQ?oc=5)
+
+2026-11-28
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX2c4OU5ZMW5vODRwZHZCZU1adXNmNlNjN21TTlR6QTREODlGOC1Gd2VrZGZDam1RNEtwMWRhSWdWRmFsYkkxSkdoSlkzZDZ0VGRiTmNkcUdwNXdTU2pRQ1h30gFnQVVfeXFMUGpRdUxGQmNnTFVYMzhWZWtiRlRKZGdvT2t1UTU1VE1ERXF4X3IxVGZtWkxMVndfNHdyYmhGemJYRVpmRi1kcFZQWXQ0X0MzT0RHUm5NM0pPX0R4MkstSzBUT2hMZkJlUQ?oc=5)
+
+---
 
 ### [健康網》大腸直腸癌研究揭微量元素變化！ 醫揭5大細胞修復關鍵](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Rc04tU1dXOWR0V0otYk85YV9qNXdyVUVVU1pSYXU0VnhRb05qcVRmSFNZbldvckM0djNCbk9iU1k3cDBNRXdtTnFmSTBRWFZ3TzFrb243aEFEcHJPUkRTUDdxeGY?oc=5)
 

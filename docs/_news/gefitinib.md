@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Gefitinib 的相關健康新聞報導。原適應症：具 EGFR-TK 突變之局部侵犯性或轉移性非小細胞肺癌（NSCLC）第一線治療；先前接受化學治療後...。預測適應症 9 個。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Gefitinib 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Gefitinib 有什麼相關新聞？">
-<strong>Gefitinib</strong> 目前有 <strong>61 則</strong>相關新聞報導，預測適應症 9 個。
+<strong>Gefitinib</strong> 目前有 <strong>63 則</strong>相關新聞報導，預測適應症 9 個。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（61 則）
+## 相關新聞（63 則）
+
+### [阿茲海默症有望降級慢性病？各大藥廠押注預防性試驗，有望改寫大腦退化命運- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE95R0w2QmV1b1Q1RUkxQ1J3OWZzdHZCN1FkNmpDZ1dRcGM2bW5VMkRxOEwxMUF6NVlWTzNFRWgtRE9pV19SbEVneDdMY3VnemR0aVN4RFVCVGw?oc=5)
+
+2026-11-28 <span class="news-indication-tag">失智症</span> <span class="news-indication-tag">阿茲海默症</span> <span class="news-indication-tag">失智</span>
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE95R0w2QmV1b1Q1RUkxQ1J3OWZzdHZCN1FkNmpDZ1dRcGM2bW5VMkRxOEwxMUF6NVlWTzNFRWgtRE9pV19SbEVneDdMY3VnemR0aVN4RFVCVGw?oc=5)
+
+---
+
+### [類大腦送上外太空催熟，揭阿茲海默症病變機制差異 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRkozVDMxR0ZQU2xQc1I1dmpCX0NtMjdweHprRjBwQXd3c1RVLXd0VWFQMlJ5X082S3NMd0NZbXlheUVRbV9aNThQN2RzcTl4T2RNMkR3?oc=5)
+
+2026-11-27 <span class="news-indication-tag">阿茲海默症</span>
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRkozVDMxR0ZQU2xQc1I1dmpCX0NtMjdweHprRjBwQXd3c1RVLXd0VWFQMlJ5X082S3NMd0NZbXlheUVRbV9aNThQN2RzcTl4T2RNMkR3?oc=5)
+
+---
 
 ### [瘦瘦針不只幫助減重？台大跨國研究揭13種肥胖相關癌症風險降4成 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaDhQMFRRSTdwS3R0MU9KN3FwaXhyeGRHYW9jMkw2cHlyQjNhTTJ0LWdmWXA5TnRpUENiS3FGZVhqVDh2SGpfVWtMbm9DUmo4Unp0VVZ3?oc=5)
 

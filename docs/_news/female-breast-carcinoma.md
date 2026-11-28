@@ -3,9 +3,9 @@ layout: default
 title: "乳癌 (female breast carcinoma) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。8 則新聞、7 個相關藥物。"
+description: "乳癌 (female breast carcinoma) 的相關健康新聞報導。11 則新聞、7 個相關藥物。"
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # 乳癌 (female breast carcinoma) 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="乳癌 (female breast carcinoma) 有什麼相關新聞？">
-<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>8 則</strong>相關新聞報導，7 個相關藥物。
+<strong>乳癌 (female breast carcinoma)</strong> 目前有 <strong>11 則</strong>相關新聞報導，7 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（8 則）
+## 相關新聞（11 則）
+
+### [自我乳房檢查別只摸胸部！醫師警告：腋下異狀恐是乳癌轉移警訊](https://news.google.com/rss/articles/CBMimgNBVV95cUxNUGNLOVpfbW43T2ZSeHFrbjdQWHBNWDJKQWdkVnc3OHdmcmdwbzd4RWtDRWZ4Vl9XczlMa1V0LTNiTzAtcHoyeUl5UG1jT3hQTXMzbTJPck5IVmlBOGdCZ0xZd3hnYzRxNmtCRU9KSW80ZXpUVVlueGdyMUFSTno4ajgteW91UlhLWGNORlpBYkhuUnVKTlRENEZuWWxIOTdLZ2tHclJKdE1sSUxEVEtCQnFpWkZOWVpQQjRxUEFiM0p3RjNTcGpMbGtDcHVFM2FweG5SZEJuTGVWVk1QZTBHM2FjRVdITVdxQl9QSGE1bDJTOEhtYmY0MHJfZ3hoX3ptS1BJV0l1TEtOaGRvTHQ0M3dJeHZUbWRnaVB6dm5yUkFodWpreTR1eHpxbTNiZGZqaWQtNFRMdFJnMkpsSG9razQ1WnJWVHQtME52NmQtelVjUGQ2Y0hPLVZsVGxrS1U5bnBKUXFXdEhpYzkxZFE5cnlNZ01BWVBxR2thelVOMkE4dEdfaTBkZVI4ejVTNllBR2puUVdqTldKZw?oc=5)
+
+2026-11-28
+
+來源: [Yahoo新聞](https://news.google.com/rss/articles/CBMimgNBVV95cUxNUGNLOVpfbW43T2ZSeHFrbjdQWHBNWDJKQWdkVnc3OHdmcmdwbzd4RWtDRWZ4Vl9XczlMa1V0LTNiTzAtcHoyeUl5UG1jT3hQTXMzbTJPck5IVmlBOGdCZ0xZd3hnYzRxNmtCRU9KSW80ZXpUVVlueGdyMUFSTno4ajgteW91UlhLWGNORlpBYkhuUnVKTlRENEZuWWxIOTdLZ2tHclJKdE1sSUxEVEtCQnFpWkZOWVpQQjRxUEFiM0p3RjNTcGpMbGtDcHVFM2FweG5SZEJuTGVWVk1QZTBHM2FjRVdITVdxQl9QSGE1bDJTOEhtYmY0MHJfZ3hoX3ptS1BJV0l1TEtOaGRvTHQ0M3dJeHZUbWRnaVB6dm5yUkFodWpreTR1eHpxbTNiZGZqaWQtNFRMdFJnMkpsSG9razQ1WnJWVHQtME52NmQtelVjUGQ2Y0hPLVZsVGxrS1U5bnBKUXFXdEhpYzkxZFE5cnlNZ01BWVBxR2thelVOMkE4dEdfaTBkZVI4ejVTNllBR2puUVdqTldKZw?oc=5)
+
+---
+
+### [全球公衛警訊！聯合國示警愛滋疫情恐反彈 美乳癌新藥獲准](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5COVlVNzhZV3BlZVVwUU5zLUV2b3Q3Wld3aFBLUklXTUFpLUpCNFk4b01WVVlIWEFJUHVQbHg5TU5ONTNZY0VkSlpyaVFSLVZZTVRQb1ItZVFUSHIxMzF3RnMyZ2c?oc=5)
+
+2026-11-24
+
+來源: [民視健康長照網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5COVlVNzhZV3BlZVVwUU5zLUV2b3Q3Wld3aFBLUklXTUFpLUpCNFk4b01WVVlIWEFJUHVQbHg5TU5ONTNZY0VkSlpyaVFSLVZZTVRQb1ItZVFUSHIxMzF3RnMyZ2c?oc=5)
+
+---
 
 ### [乳癌切除不一定放假體！40歲婦罹乳癌憂切乳 自體組織重建保留腹直肌](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EakY2c1RrcDlkRzdWV0wwZWl3VjVmQy1hQ0JZbDRNNzRKZ0ZacDZHR1NnQWRBWFZLa1dtSU5qTGVEdTJFOUgwX1FtbzlZRHVYM09kUWt3bG1jMEVRSkF5dg?oc=5)
 
@@ -59,6 +75,14 @@ last_modified_at: 2026-11-27
 2026-11-23
 
 來源: [singtao.ca](https://news.google.com/rss/articles/CBMiuANBVV95cUxQalBrdVJlLTVMd3lZQTVJNDZCcHlZRXdEZ2Njei1XOXZVZXhrSW55U1ZlYV9YMFFwbzVOZkdzM0dLcjdoWVNfMUMxMXZzcUhzMndwRDlHaWFUdGdhS3dOTnF3ZzlwSFFieWxCSVl1WnNRazJNV2k1Vk13U2lzbS1Jcmlwanh5ZHVIa3VRTy1tWEhWSkprMng2S0ZhbklpdnQtUHFDVkhMTXNKUmNMUjVBbi01MjcxeG8xNlplLVcwNk51S1BRZWFMV3plNlRfSTRiWlhiYjdlblo1Y2J6UTc5MVNwQUVpNzYtT1NGcjdEYXFkdnpWUnBpb01kZDZrZ0pKWk5PVzhXRUN3T0NlT0NqclFDSl82elJtWEhua2l5dkl1dENxMC1NQ3hBclFJaGNfSTJXX0NxWVVnR2luN2RJX2xabDhrOWFTei1lVjNaeWlSdHNxY3ZscDdDRjNrZkJrdjIwUGt1UnFqN0YwZGtXS1F6VURsc09mMFp5VURxVjI0MUN3bm1WQ0JmaHQ2Mm1nSTkwQ3RqWjlKb0RrZk02YmVtVmRYYjN4bGg2ZWJJb1cybUVWc29FdNIBkgFBVV95cUxOQzNTc2Q4cXdVN3hrUzRFb3AzZ3RoeVNHNkpxTlloQlRXWF9PMXhjaTkyWW4yanNaX0FjRTBzbHRfYm1qT081WnlCZ2FTMTJXdl8tSVhXQnN6VjYtT2s2VlhZQmE2WG9YQ0M4SFFGMHp5Y1JodTgwR0FaOFYzNDBnSzJSR2d1aWlpcTVnLWlGQ1ZVUQ?oc=5)
+
+---
+
+### [以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67%](https://news.google.com/rss/articles/CBMipwNBVV95cUxPTDdYS1R4dnphM3lFQTZLMkV5QU81bnQzQlk0UzBWb3phdHRZemk0SlFUTVdKMUpYN2FEUlpnWVpaMkVkRjVJZWhWXzJBOEFNd0NoYmU5OUdLRVJaeGRiZlBLdl9GeHN1X3FyUUcxcm5iOFJXSFZRTnZXVXVadGdRZm45YUtlNnNGMmxxYlVJLXBFUlhua0s0X2NPdDNKNlQwMG9JZWc5eWNUNzZ1WUY2TzFMelBoa0I0V1F3SXJSN3RMY1BMTGVWQ25TLVU4LXFwOFVTM1VBUU5ocThWYU52SDExTlEyVUdrRW5KN1h3SXdSTXhlcWRwVVd3TVNlQ014XzZHZDdKS0EweEtfdENEa2k3NVN1ak1fWU1yZnN6b1otbWJJeFlYREVCcDY3Rng1bXRVanFmUkpWWnpab0hjc1hRc3FaRVlJemtWejJmMVYtbkFGR192V3BSME0wcnBCQVJYQ0dXcGhBOFYwVFVoekM1Vk5XV2xzVnFqT1BScnRwSGdyaUF0UlloRFFQYXlBRWNWRTBGQWR6RUVxaWhabVRoRFpYREU?oc=5)
+
+2026-11-23
+
+來源: [星島頭條](https://news.google.com/rss/articles/CBMipwNBVV95cUxPTDdYS1R4dnphM3lFQTZLMkV5QU81bnQzQlk0UzBWb3phdHRZemk0SlFUTVdKMUpYN2FEUlpnWVpaMkVkRjVJZWhWXzJBOEFNd0NoYmU5OUdLRVJaeGRiZlBLdl9GeHN1X3FyUUcxcm5iOFJXSFZRTnZXVXVadGdRZm45YUtlNnNGMmxxYlVJLXBFUlhua0s0X2NPdDNKNlQwMG9JZWc5eWNUNzZ1WUY2TzFMelBoa0I0V1F3SXJSN3RMY1BMTGVWQ25TLVU4LXFwOFVTM1VBUU5ocThWYU52SDExTlEyVUdrRW5KN1h3SXdSTXhlcWRwVVd3TVNlQ014XzZHZDdKS0EweEtfdENEa2k3NVN1ak1fWU1yZnN6b1otbWJJeFlYREVCcDY3Rng1bXRVanFmUkpWWnpab0hjc1hRc3FaRVlJemtWejJmMVYtbkFGR192V3BSME0wcnBCQVJYQ0dXcGhBOFYwVFVoekM1Vk5XV2xzVnFqT1BScnRwSGdyaUF0UlloRFFQYXlBRWNWRTBGQWR6RUVxaWhabVRoRFpYREU?oc=5)
 
 ---
 

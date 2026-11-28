@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "阿茲海默症 (dementia) 相關新聞"
+title: "失智症 (dementia) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "阿茲海默症 (dementia) 的相關健康新聞報導。24 則新聞、1 個相關藥物。"
+description: "失智症 (dementia) 的相關健康新聞報導。26 則新聞、1 個相關藥物。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
-# 阿茲海默症 (dementia) 相關新聞
+# 失智症 (dementia) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="阿茲海默症 (dementia) 有什麼相關新聞？">
-<strong>阿茲海默症 (dementia)</strong> 目前有 <strong>24 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="失智症 (dementia) 有什麼相關新聞？">
+<strong>失智症 (dementia)</strong> 目前有 <strong>26 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「阿茲海默症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「失智症」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（24 則）
+## 相關新聞（26 則）
+
+### [阿茲海默症有望降級慢性病？各大藥廠押注預防性試驗，有望改寫大腦退化命運- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE95R0w2QmV1b1Q1RUkxQ1J3OWZzdHZCN1FkNmpDZ1dRcGM2bW5VMkRxOEwxMUF6NVlWTzNFRWgtRE9pV19SbEVneDdMY3VnemR0aVN4RFVCVGw?oc=5)
+
+2026-11-28
+
+來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE95R0w2QmV1b1Q1RUkxQ1J3OWZzdHZCN1FkNmpDZ1dRcGM2bW5VMkRxOEwxMUF6NVlWTzNFRWgtRE9pV19SbEVneDdMY3VnemR0aVN4RFVCVGw?oc=5)
+
+---
+
+### [類大腦送上外太空催熟，揭阿茲海默症病變機制差異 | 科技新報 - LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRkozVDMxR0ZQU2xQc1I1dmpCX0NtMjdweHprRjBwQXd3c1RVLXd0VWFQMlJ5X082S3NMd0NZbXlheUVRbV9aNThQN2RzcTl4T2RNMkR3?oc=5)
+
+2026-11-27
+
+來源: [LINE TODAY](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RRkozVDMxR0ZQU2xQc1I1dmpCX0NtMjdweHprRjBwQXd3c1RVLXd0VWFQMlJ5X082S3NMd0NZbXlheUVRbV9aNThQN2RzcTl4T2RNMkR3?oc=5)
+
+---
 
 ### [類大腦送上外太空催熟，揭阿茲海默症病變機制差異- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0talVRUUlmTUJUMjhqYXBGT1N4UW5idTZuR0JSZFg3Y2V5WGItcXA5NUNPZWdJcVF1TzN0V0NNY3VBRVlOOEFXTnE1ajE4eVVXMnVRNFh6TUc?oc=5)
 
