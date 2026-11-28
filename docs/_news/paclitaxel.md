@@ -15,7 +15,7 @@ last_modified_at: 2026-11-28
 ---
 
 <p class="key-answer" data-question="Paclitaxel 有什麼相關新聞？">
-<strong>Paclitaxel</strong> 目前有 <strong>64 則</strong>相關新聞報導，預測適應症 2 個。
+<strong>Paclitaxel</strong> 目前有 <strong>65 則</strong>相關新聞報導，預測適應症 2 個。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ last_modified_at: 2026-11-28
 <p><a href="{{ '/drugs/paclitaxel/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（64 則）
+## 相關新聞（65 則）
+
+### [新加坡子宮頸癌死亡率大降65% 發生率仍高於世衛標準兩倍](https://news.google.com/rss/articles/CBMib0FVX3lxTFBIMVUtNlkyc3BpYi1neFduRUNRTVMtb1AwR0hyT1pYaE1ScWZQRDFQbVJhNmU0M3laZlZkelRaMW5maC0ybTlfVk5OZE1fTVhIWk14TDJQWFVjTzU2R3lVODZyTllVeTVmeV9lOVlHYw?oc=5)
+
+2026-11-28 <span class="news-indication-tag">子宮頸癌</span>
+
+來源: [理財周刊](https://news.google.com/rss/articles/CBMib0FVX3lxTFBIMVUtNlkyc3BpYi1neFduRUNRTVMtb1AwR0hyT1pYaE1ScWZQRDFQbVJhNmU0M3laZlZkelRaMW5maC0ybTlfVk5OZE1fTVhIWk14TDJQWFVjTzU2R3lVODZyTllVeTVmeV9lOVlHYw?oc=5)
+
+---
 
 ### [自我乳房檢查別只摸胸部！醫師警告：腋下異狀恐是乳癌轉移警訊](https://news.google.com/rss/articles/CBMimgNBVV95cUxNUGNLOVpfbW43T2ZSeHFrbjdQWHBNWDJKQWdkVnc3OHdmcmdwbzd4RWtDRWZ4Vl9XczlMa1V0LTNiTzAtcHoyeUl5UG1jT3hQTXMzbTJPck5IVmlBOGdCZ0xZd3hnYzRxNmtCRU9KSW80ZXpUVVlueGdyMUFSTno4ajgteW91UlhLWGNORlpBYkhuUnVKTlRENEZuWWxIOTdLZ2tHclJKdE1sSUxEVEtCQnFpWkZOWVpQQjRxUEFiM0p3RjNTcGpMbGtDcHVFM2FweG5SZEJuTGVWVk1QZTBHM2FjRVdITVdxQl9QSGE1bDJTOEhtYmY0MHJfZ3hoX3ptS1BJV0l1TEtOaGRvTHQ0M3dJeHZUbWRnaVB6dm5yUkFodWpreTR1eHpxbTNiZGZqaWQtNFRMdFJnMkpsSG9razQ1WnJWVHQtME52NmQtelVjUGQ2Y0hPLVZsVGxrS1U5bnBKUXFXdEhpYzkxZFE5cnlNZ01BWVBxR2thelVOMkE4dEdfaTBkZVI4ejVTNllBR2puUVdqTldKZw?oc=5)
 

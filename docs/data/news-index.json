@@ -1,109 +1,27 @@
 {
-  "generated": "2026-11-28T11:09:34.830217+00:00",
-  "count": 171,
+  "generated": "2026-11-28T19:21:06.399330+00:00",
+  "count": 173,
   "news": [
     {
-      "id": "228e77b9b7f7",
-      "title": "自我乳房檢查別只摸胸部！醫師警告：腋下異狀恐是乳癌轉移警訊",
-      "published": "2026-11-28T08:51:00+00:00",
+      "id": "4067b12d4e14",
+      "title": "新加坡子宮頸癌死亡率大降65% 發生率仍高於世衛標準兩倍",
+      "published": "2026-11-28T17:19:41+00:00",
       "sources": [
         {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNUGNLOVpfbW43T2ZSeHFrbjdQWHBNWDJKQWdkVnc3OHdmcmdwbzd4RWtDRWZ4Vl9XczlMa1V0LTNiTzAtcHoyeUl5UG1jT3hQTXMzbTJPck5IVmlBOGdCZ0xZd3hnYzRxNmtCRU9KSW80ZXpUVVlueGdyMUFSTno4ajgteW91UlhLWGNORlpBYkhuUnVKTlRENEZuWWxIOTdLZ2tHclJKdE1sSUxEVEtCQnFpWkZOWVpQQjRxUEFiM0p3RjNTcGpMbGtDcHVFM2FweG5SZEJuTGVWVk1QZTBHM2FjRVdITVdxQl9QSGE1bDJTOEhtYmY0MHJfZ3hoX3ptS1BJV0l1TEtOaGRvTHQ0M3dJeHZUbWRnaVB6dm5yUkFodWpreTR1eHpxbTNiZGZqaWQtNFRMdFJnMkpsSG9razQ1WnJWVHQtME52NmQtelVjUGQ2Y0hPLVZsVGxrS1U5bnBKUXFXdEhpYzkxZFE5cnlNZ01BWVBxR2thelVOMkE4dEdfaTBkZVI4ejVTNllBR2puUVdqTldKZw?oc=5"
+          "name": "理財周刊",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIMVUtNlkyc3BpYi1neFduRUNRTVMtb1AwR0hyT1pYaE1ScWZQRDFQbVJhNmU0M3laZlZkelRaMW5maC0ybTlfVk5OZE1fTVhIWk14TDJQWFVjTzU2R3lVODZyTllVeTVmeV9lOVlHYw?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
+          "name": "子宮頸癌",
+          "keyword": "子宮頸癌",
           "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
             {
               "slug": "paclitaxel",
               "name": "Paclitaxel",
               "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3869489ae295",
-      "title": "莊哲男腸胃中心迎劉穎恆醫師高品質腸鏡 降低大腸癌風險",
-      "published": "2026-11-28T05:59:00+00:00",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX2c4OU5ZMW5vODRwZHZCZU1adXNmNlNjN21TTlR6QTREODlGOC1Gd2VrZGZDam1RNEtwMWRhSWdWRmFsYkkxSkdoSlkzZDZ0VGRiTmNkcUdwNXdTU2pRQ1h30gFnQVVfeXFMUGpRdUxGQmNnTFVYMzhWZWtiRlRKZGdvT2t1UTU1VE1ERXF4X3IxVGZtWkxMVndfNHdyYmhGemJYRVpmRi1kcFZQWXQ0X0MzT0RHUm5NM0pPX0R4MkstSzBUT2hMZkJlUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腸癌",
-          "keyword": "腸癌",
-          "related_drugs": [
-            {
-              "slug": "oteracil",
-              "name": "Oteracil",
-              "url": "/drugs/oteracil/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
@@ -866,6 +784,31 @@
       ]
     },
     {
+      "id": "8495c57fbb6e",
+      "title": "乾咳呼吸急促以為流感竟是心肌梗塞- 醫療保健- 新聞",
+      "published": "2026-11-26T00:54:32+00:00",
+      "sources": [
+        {
+          "name": "華人今日網",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHblNBdWFEd2d5UDJENlpnMTRycHJja05faVpfYTRRR0lOMXA5LVJIREU3VHhDeWZNcE1sMFFsY3VtWHlfYkhBY1BJMW1UeTBXTElyTU51bUpoS3pkTU41NW1zcW1NQQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心肌梗塞",
+          "related_drugs": [
+            {
+              "slug": "ouabain",
+              "name": "Ouabain",
+              "url": "/drugs/ouabain/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1971e298e8db",
       "title": "新型免疫細胞療法，能清除致命腦瘤並防止癌症復發？ - TechNews 科技新報",
       "published": "2026-11-25T23:45:10+00:00",
@@ -1231,86 +1174,6 @@
       ]
     },
     {
-      "id": "7afeae1b5e5d",
-      "title": "全球公衛警訊！聯合國示警愛滋疫情恐反彈 美乳癌新藥獲准",
-      "published": "2026-11-24T21:42:14+00:00",
-      "sources": [
-        {
-          "name": "民視健康長照網",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5COVlVNzhZV3BlZVVwUU5zLUV2b3Q3Wld3aFBLUklXTUFpLUpCNFk4b01WVVlIWEFJUHVQbHg5TU5ONTNZY0VkSlpyaVFSLVZZTVRQb1ItZVFUSHIxMzF3RnMyZ2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fb57fff6a240",
-      "title": "🎙️感冒可能傷及心臟 病毒感染不能大意",
-      "published": "2026-11-24T14:35:00+00:00",
-      "sources": [
-        {
-          "name": "世界新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVNVZ0RGpXU3BjelNzZk1QYXlkZU9JZkVwM216a3MxRmxKT3RTTTRxU0wyTnlsVi1rVFZBdTlqek5ZVU9tQ1d4Z0ZzVDk1eThYRHpYdFV5eS1mSDUtSDlhSnZ30gFnQVVfeXFMT1N5aHQ0MThUcjBaVFhOMGhHa2RoanlVWW5DazZCNFpUajNkNmoybS1ZenJtRC1MeHhxUEw3U3p2RXVmQVlUcm5JSmp6RzRGWV9SMzFhak9jWGhfYWxWc1I3bEdqcklRdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "感冒",
-          "related_drugs": [
-            {
-              "slug": "salicylamide",
-              "name": "Salicylamide",
-              "url": "/drugs/salicylamide/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "db345e049875",
       "title": "大腸癌｜25歲男無便秘確診大腸癌 醫揭長期缺蔬果吃1類食物導致",
       "published": "2026-11-23T08:00:33+00:00",
@@ -1357,36 +1220,6 @@
               "slug": "hydroxyurea",
               "name": "Hydroxyurea",
               "url": "/drugs/hydroxyurea/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bc650a58739e",
-      "title": "卵巢癌術後腳腫緊繃難走！醫揭下肢淋巴水腫風險、處置對策",
-      "published": "2026-11-23T07:13:56+00:00",
-      "sources": [
-        {
-          "name": "Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQZ3phRmRsbUtQX0VHQTBQLXFCd1ZJVURobHRDTDlxNGU5M2NRZVF4OGtIMHBxZWQ2OEdUWkNpV1ZQa3JFZm02Q3lCRHlxeHBmRXVRZVNMR3NFVm9FWnhaVVg2Nm9ETm12R1B6TGdGcmtjZWhaQkpFMlA4SVA2TUphSEFXQm9WUHQ2emVTOFUwcTY0YktyNWdfSGRpbk5ULWJMQkJWd0Z3dWpWaUtDb1lCRlU1dG9JVUNJTi1odmlQYUlpdDctdHFJbzkzcGNRZi1GNzlEZVlJVG9UbzNLaWw2T2hjd05ucU1CaDh3ZkYwYkVKcmF5WVlPcmdJcFd5RTJhWkplRFBicmZadVd3bGI2eGVPZWdaTmgzVzNjU1E0NTJJVl93Tm1zR1VsQm1kRk96SzM1bmcwak9EcElkS3EwVy1RcW00a096S2Y5aHJVaURNdjU3amZDajNZVWJ1cElMQVlzdGdOQ2IzMFVCX1Q0bG1lRmJncTduaENickZ5QmxEZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "卵巢癌",
-          "keyword": "卵巢癌",
-          "related_drugs": [
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
             }
           ]
         }
@@ -1490,13 +1323,13 @@
       ]
     },
     {
-      "id": "09f26c7e9133",
+      "id": "e2cdd7d7c38e",
       "title": "以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67%",
-      "published": "2026-11-23T03:00:00+00:00",
+      "published": "2026-11-23T03:26:15+00:00",
       "sources": [
         {
-          "name": "星島頭條",
-          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPTDdYS1R4dnphM3lFQTZLMkV5QU81bnQzQlk0UzBWb3phdHRZemk0SlFUTVdKMUpYN2FEUlpnWVpaMkVkRjVJZWhWXzJBOEFNd0NoYmU5OUdLRVJaeGRiZlBLdl9GeHN1X3FyUUcxcm5iOFJXSFZRTnZXVXVadGdRZm45YUtlNnNGMmxxYlVJLXBFUlhua0s0X2NPdDNKNlQwMG9JZWc5eWNUNzZ1WUY2TzFMelBoa0I0V1F3SXJSN3RMY1BMTGVWQ25TLVU4LXFwOFVTM1VBUU5ocThWYU52SDExTlEyVUdrRW5KN1h3SXdSTXhlcWRwVVd3TVNlQ014XzZHZDdKS0EweEtfdENEa2k3NVN1ak1fWU1yZnN6b1otbWJJeFlYREVCcDY3Rng1bXRVanFmUkpWWnpab0hjc1hRc3FaRVlJemtWejJmMVYtbkFGR192V3BSME0wcnBCQVJYQ0dXcGhBOFYwVFVoekM1Vk5XV2xzVnFqT1BScnRwSGdyaUF0UlloRFFQYXlBRWNWRTBGQWR6RUVxaWhabVRoRFpYREU?oc=5"
+          "name": "singtao.ca",
+          "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQalBrdVJlLTVMd3lZQTVJNDZCcHlZRXdEZ2Njei1XOXZVZXhrSW55U1ZlYV9YMFFwbzVOZkdzM0dLcjdoWVNfMUMxMXZzcUhzMndwRDlHaWFUdGdhS3dOTnF3ZzlwSFFieWxCSVl1WnNRazJNV2k1Vk13U2lzbS1Jcmlwanh5ZHVIa3VRTy1tWEhWSkprMng2S0ZhbklpdnQtUHFDVkhMTXNKUmNMUjVBbi01MjcxeG8xNlplLVcwNk51S1BRZWFMV3plNlRfSTRiWlhiYjdlblo1Y2J6UTc5MVNwQUVpNzYtT1NGcjdEYXFkdnpWUnBpb01kZDZrZ0pKWk5PVzhXRUN3T0NlT0NqclFDSl82elJtWEhua2l5dkl1dENxMC1NQ3hBclFJaGNfSTJXX0NxWVVnR2luN2RJX2xabDhrOWFTei1lVjNaeWlSdHNxY3ZscDdDRjNrZkJrdjIwUGt1UnFqN0YwZGtXS1F6VURsc09mMFp5VURxVjI0MUN3bm1WQ0JmaHQ2Mm1nSTkwQ3RqWjlKb0RrZk02YmVtVmRYYjN4bGg2ZWJJb1cybUVWc29FdNIBkgFBVV95cUxOQzNTc2Q4cXdVN3hrUzRFb3AzZ3RoeVNHNkpxTlloQlRXWF9PMXhjaTkyWW4yanNaX0FjRTBzbHRfYm1qT081WnlCZ2FTMTJXdl8tSVhXQnN6VjYtT2s2VlhZQmE2WG9YQ0M4SFFGMHp5Y1JodTgwR0FaOFYzNDBnSzJSR2d1aWlpcTVnLWlGQ1ZVUQ?oc=5"
         }
       ],
       "keywords": [
@@ -1614,6 +1447,278 @@
               "slug": "paclitaxel",
               "name": "Paclitaxel",
               "url": "/drugs/paclitaxel/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "228e77b9b7f7",
+      "title": "自我乳房檢查別只摸胸部！醫師警告：腋下異狀恐是乳癌轉移警訊",
+      "published": "2026-11-28T08:51:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxNUGNLOVpfbW43T2ZSeHFrbjdQWHBNWDJKQWdkVnc3OHdmcmdwbzd4RWtDRWZ4Vl9XczlMa1V0LTNiTzAtcHoyeUl5UG1jT3hQTXMzbTJPck5IVmlBOGdCZ0xZd3hnYzRxNmtCRU9KSW80ZXpUVVlueGdyMUFSTno4ajgteW91UlhLWGNORlpBYkhuUnVKTlRENEZuWWxIOTdLZ2tHclJKdE1sSUxEVEtCQnFpWkZOWVpQQjRxUEFiM0p3RjNTcGpMbGtDcHVFM2FweG5SZEJuTGVWVk1QZTBHM2FjRVdITVdxQl9QSGE1bDJTOEhtYmY0MHJfZ3hoX3ptS1BJV0l1TEtOaGRvTHQ0M3dJeHZUbWRnaVB6dm5yUkFodWpreTR1eHpxbTNiZGZqaWQtNFRMdFJnMkpsSG9razQ1WnJWVHQtME52NmQtelVjUGQ2Y0hPLVZsVGxrS1U5bnBKUXFXdEhpYzkxZFE5cnlNZ01BWVBxR2thelVOMkE4dEdfaTBkZVI4ejVTNllBR2puUVdqTldKZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3869489ae295",
+      "title": "莊哲男腸胃中心迎劉穎恆醫師高品質腸鏡 降低大腸癌風險",
+      "published": "2026-11-28T05:59:00+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrX2c4OU5ZMW5vODRwZHZCZU1adXNmNlNjN21TTlR6QTREODlGOC1Gd2VrZGZDam1RNEtwMWRhSWdWRmFsYkkxSkdoSlkzZDZ0VGRiTmNkcUdwNXdTU2pRQ1h30gFnQVVfeXFMUGpRdUxGQmNnTFVYMzhWZWtiRlRKZGdvT2t1UTU1VE1ERXF4X3IxVGZtWkxMVndfNHdyYmhGemJYRVpmRi1kcFZQWXQ0X0MzT0RHUm5NM0pPX0R4MkstSzBUT2hMZkJlUQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腸癌",
+          "keyword": "腸癌",
+          "related_drugs": [
+            {
+              "slug": "oteracil",
+              "name": "Oteracil",
+              "url": "/drugs/oteracil/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7afeae1b5e5d",
+      "title": "全球公衛警訊！聯合國示警愛滋疫情恐反彈 美乳癌新藥獲准",
+      "published": "2026-11-24T21:42:14+00:00",
+      "sources": [
+        {
+          "name": "民視健康長照網",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5COVlVNzhZV3BlZVVwUU5zLUV2b3Q3Wld3aFBLUklXTUFpLUpCNFk4b01WVVlIWEFJUHVQbHg5TU5ONTNZY0VkSlpyaVFSLVZZTVRQb1ItZVFUSHIxMzF3RnMyZ2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb57fff6a240",
+      "title": "🎙️感冒可能傷及心臟 病毒感染不能大意",
+      "published": "2026-11-24T14:35:00+00:00",
+      "sources": [
+        {
+          "name": "世界新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVNVZ0RGpXU3BjelNzZk1QYXlkZU9JZkVwM216a3MxRmxKT3RTTTRxU0wyTnlsVi1rVFZBdTlqek5ZVU9tQ1d4Z0ZzVDk1eThYRHpYdFV5eS1mSDUtSDlhSnZ30gFnQVVfeXFMT1N5aHQ0MThUcjBaVFhOMGhHa2RoanlVWW5DazZCNFpUajNkNmoybS1ZenJtRC1MeHhxUEw3U3p2RXVmQVlUcm5JSmp6RzRGWV9SMzFhak9jWGhfYWxWc1I3bEdqcklRdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "感冒",
+          "related_drugs": [
+            {
+              "slug": "salicylamide",
+              "name": "Salicylamide",
+              "url": "/drugs/salicylamide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc650a58739e",
+      "title": "卵巢癌術後腳腫緊繃難走！醫揭下肢淋巴水腫風險、處置對策",
+      "published": "2026-11-23T07:13:56+00:00",
+      "sources": [
+        {
+          "name": "Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQZ3phRmRsbUtQX0VHQTBQLXFCd1ZJVURobHRDTDlxNGU5M2NRZVF4OGtIMHBxZWQ2OEdUWkNpV1ZQa3JFZm02Q3lCRHlxeHBmRXVRZVNMR3NFVm9FWnhaVVg2Nm9ETm12R1B6TGdGcmtjZWhaQkpFMlA4SVA2TUphSEFXQm9WUHQ2emVTOFUwcTY0YktyNWdfSGRpbk5ULWJMQkJWd0Z3dWpWaUtDb1lCRlU1dG9JVUNJTi1odmlQYUlpdDctdHFJbzkzcGNRZi1GNzlEZVlJVG9UbzNLaWw2T2hjd05ucU1CaDh3ZkYwYkVKcmF5WVlPcmdJcFd5RTJhWkplRFBicmZadVd3bGI2eGVPZWdaTmgzVzNjU1E0NTJJVl93Tm1zR1VsQm1kRk96SzM1bmcwak9EcElkS3EwVy1RcW00a096S2Y5aHJVaURNdjU3amZDajNZVWJ1cElMQVlzdGdOQ2IzMFVCX1Q0bG1lRmJncTduaENickZ5QmxEZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "卵巢癌",
+          "keyword": "卵巢癌",
+          "related_drugs": [
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09f26c7e9133",
+      "title": "以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67%",
+      "published": "2026-11-23T03:00:00+00:00",
+      "sources": [
+        {
+          "name": "星島頭條",
+          "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPTDdYS1R4dnphM3lFQTZLMkV5QU81bnQzQlk0UzBWb3phdHRZemk0SlFUTVdKMUpYN2FEUlpnWVpaMkVkRjVJZWhWXzJBOEFNd0NoYmU5OUdLRVJaeGRiZlBLdl9GeHN1X3FyUUcxcm5iOFJXSFZRTnZXVXVadGdRZm45YUtlNnNGMmxxYlVJLXBFUlhua0s0X2NPdDNKNlQwMG9JZWc5eWNUNzZ1WUY2TzFMelBoa0I0V1F3SXJSN3RMY1BMTGVWQ25TLVU4LXFwOFVTM1VBUU5ocThWYU52SDExTlEyVUdrRW5KN1h3SXdSTXhlcWRwVVd3TVNlQ014XzZHZDdKS0EweEtfdENEa2k3NVN1ak1fWU1yZnN6b1otbWJJeFlYREVCcDY3Rng1bXRVanFmUkpWWnpab0hjc1hRc3FaRVlJemtWejJmMVYtbkFGR192V3BSME0wcnBCQVJYQ0dXcGhBOFYwVFVoekM1Vk5XV2xzVnFqT1BScnRwSGdyaUF0UlloRFFQYXlBRWNWRTBGQWR6RUVxaWhabVRoRFpYREU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳癌",
+          "related_drugs": [
+            {
+              "slug": "trabectedin",
+              "name": "Trabectedin",
+              "url": "/drugs/trabectedin/"
+            },
+            {
+              "slug": "docetaxel",
+              "name": "Docetaxel",
+              "url": "/drugs/docetaxel/"
+            },
+            {
+              "slug": "paclitaxel",
+              "name": "Paclitaxel",
+              "url": "/drugs/paclitaxel/"
+            },
+            {
+              "slug": "carboplatin",
+              "name": "Carboplatin",
+              "url": "/drugs/carboplatin/"
+            },
+            {
+              "slug": "gemcitabine",
+              "name": "Gemcitabine",
+              "url": "/drugs/gemcitabine/"
+            },
+            {
+              "slug": "anastrozole",
+              "name": "Anastrozole",
+              "url": "/drugs/anastrozole/"
+            },
+            {
+              "slug": "hydroxyurea",
+              "name": "Hydroxyurea",
+              "url": "/drugs/hydroxyurea/"
             }
           ]
         }
@@ -2036,61 +2141,6 @@
               "slug": "nystatin",
               "name": "Nystatin",
               "url": "/drugs/nystatin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e2cdd7d7c38e",
-      "title": "以為養生卻養癌？38歲女常吃1類水果確診乳癌 醫生揭患癌風險暴增67%",
-      "published": "2026-11-23T03:22:30+00:00",
-      "sources": [
-        {
-          "name": "singtao.ca",
-          "link": "https://news.google.com/rss/articles/CBMiuANBVV95cUxQalBrdVJlLTVMd3lZQTVJNDZCcHlZRXdEZ2Njei1XOXZVZXhrSW55U1ZlYV9YMFFwbzVOZkdzM0dLcjdoWVNfMUMxMXZzcUhzMndwRDlHaWFUdGdhS3dOTnF3ZzlwSFFieWxCSVl1WnNRazJNV2k1Vk13U2lzbS1Jcmlwanh5ZHVIa3VRTy1tWEhWSkprMng2S0ZhbklpdnQtUHFDVkhMTXNKUmNMUjVBbi01MjcxeG8xNlplLVcwNk51S1BRZWFMV3plNlRfSTRiWlhiYjdlblo1Y2J6UTc5MVNwQUVpNzYtT1NGcjdEYXFkdnpWUnBpb01kZDZrZ0pKWk5PVzhXRUN3T0NlT0NqclFDSl82elJtWEhua2l5dkl1dENxMC1NQ3hBclFJaGNfSTJXX0NxWVVnR2luN2RJX2xabDhrOWFTei1lVjNaeWlSdHNxY3ZscDdDRjNrZkJrdjIwUGt1UnFqN0YwZGtXS1F6VURsc09mMFp5VURxVjI0MUN3bm1WQ0JmaHQ2Mm1nSTkwQ3RqWjlKb0RrZk02YmVtVmRYYjN4bGg2ZWJJb1cybUVWc29FdNIBkgFBVV95cUxOQzNTc2Q4cXdVN3hrUzRFb3AzZ3RoeVNHNkpxTlloQlRXWF9PMXhjaTkyWW4yanNaX0FjRTBzbHRfYm1qT081WnlCZ2FTMTJXdl8tSVhXQnN6VjYtT2s2VlhZQmE2WG9YQ0M4SFFGMHp5Y1JodTgwR0FaOFYzNDBnSzJSR2d1aWlpcTVnLWlGQ1ZVUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳癌",
-          "related_drugs": [
-            {
-              "slug": "trabectedin",
-              "name": "Trabectedin",
-              "url": "/drugs/trabectedin/"
-            },
-            {
-              "slug": "docetaxel",
-              "name": "Docetaxel",
-              "url": "/drugs/docetaxel/"
-            },
-            {
-              "slug": "paclitaxel",
-              "name": "Paclitaxel",
-              "url": "/drugs/paclitaxel/"
-            },
-            {
-              "slug": "carboplatin",
-              "name": "Carboplatin",
-              "url": "/drugs/carboplatin/"
-            },
-            {
-              "slug": "gemcitabine",
-              "name": "Gemcitabine",
-              "url": "/drugs/gemcitabine/"
-            },
-            {
-              "slug": "anastrozole",
-              "name": "Anastrozole",
-              "url": "/drugs/anastrozole/"
-            },
-            {
-              "slug": "hydroxyurea",
-              "name": "Hydroxyurea",
-              "url": "/drugs/hydroxyurea/"
             }
           ]
         }

@@ -197,13 +197,13 @@
       "count": 37
     },
     {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
       "count": 11
     },
     {
-      "url": "/news/腸癌/",
-      "title": "腸癌 相關新聞",
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 11
     },
     {
@@ -437,13 +437,13 @@
       "count": 37
     },
     {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
       "count": 11
     },
     {
-      "url": "/news/腸癌/",
-      "title": "腸癌 相關新聞",
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 11
     }
   ],
@@ -471,13 +471,13 @@
       "count": 37
     },
     {
-      "url": "/news/female-breast-carcinoma/",
-      "title": "乳癌 (female breast carcinoma) 相關新聞",
+      "url": "/news/腸癌/",
+      "title": "腸癌 相關新聞",
       "count": 11
     },
     {
-      "url": "/news/腸癌/",
-      "title": "腸癌 相關新聞",
+      "url": "/news/female-breast-carcinoma/",
+      "title": "乳癌 (female breast carcinoma) 相關新聞",
       "count": 11
     },
     {
@@ -739,12 +739,12 @@
     {
       "url": "/news/ouabain/",
       "title": "Ouabain 相關新聞",
-      "count": 22
+      "count": 23
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "心梗 (myocardial infarction) 相關新聞",
-      "count": 14
+      "count": 15
     },
     {
       "url": "/news/heart-disease/",
@@ -788,7 +788,7 @@
     {
       "url": "/news/paclitaxel/",
       "title": "Paclitaxel 相關新聞",
-      "count": 64
+      "count": 65
     },
     {
       "url": "/news/generic-cancer/",
@@ -806,6 +806,11 @@
       "count": 6
     },
     {
+      "url": "/news/子宮頸癌/",
+      "title": "子宮頸癌 相關新聞",
+      "count": 4
+    },
+    {
       "url": "/news/胃癌/",
       "title": "胃癌 相關新聞",
       "count": 4
@@ -814,11 +819,6 @@
       "url": "/news/卵巢癌/",
       "title": "卵巢癌 相關新聞",
       "count": 4
-    },
-    {
-      "url": "/news/子宮頸癌/",
-      "title": "子宮頸癌 相關新聞",
-      "count": 3
     },
     {
       "url": "/news/停經/",

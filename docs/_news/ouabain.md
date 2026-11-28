@@ -15,7 +15,7 @@ last_modified_at: 2026-11-28
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>23 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,7 @@ last_modified_at: 2026-11-28
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（22 則）
+## 相關新聞（23 則）
 
 ### [健身｜女性重訓防肌少症外也有這個好處 11萬人研究：每周重訓兩小時 降心梗風險近四成半](https://news.google.com/rss/articles/CBMipgRBVV95cUxOMzFTdzdCVGRTc2ZKVE41R2JFazJ0bE56NF9UOEZkbDZPX09IbW9raDUyRzM5cy1IbUdzV1RORDRMYTRPejF1NkdDc3MzeXpHSEFNM1FNcW1EY3diZV9QdzBuUVFlOTZZaWZzNmJ5SnhLb0MxTTlDTEJpaEYxMjY1MnZzME9SWEhqdElMNHFrcnhiNmo5UDJKRG9fWkJpYnFqQzRTcFR5d0JyOFMyd01ILUtwc3JTMUxiZDAyclRaVno4azBZTmM5NXR5bkxWYTNxT0U2MVhRSDFpbEJNUlkwejdDNU5ZejIydzhxNmY2Y1hSR3hNZURGTEs0cXIyV3RzYzBUSVFWWTJMcmNMVEthMmhlWjh0eHBHMlJLZVZnTHJYaTBPbWpaaFBROXBpQV9Rc1FVd1RRMVpIY2NGVUxnS0J0d0JXNGtIcEgxTm8zV1VGZXdhLUNYY2lxTU9LY2dpdmhZcThsbjl3RGEyYjI3M1ZJaWNoank3MmlNNUI4Q0Y4czFqaXJxTndZdkg3dUticXF3a2M2T1d2U29LWm9xdDU1Y28xbWsxemliNXBnc0JfaFBzb1U3ZFU3ZmkyVU5HZXRhR2xkRE90ZExxNEM1d1ZaaWw5SkV6ODk1QkQ5NlNaZ2luU2huNTJFcjJSMnV5UlYxT0NuYjJCMWt0b1gtMUdLRkhta210NVFKTWZ5LVVWdDZlWUlRZHJXR3lESGZUMlB4T0pn?oc=5)
 
@@ -58,6 +58,14 @@ last_modified_at: 2026-11-28
 2026-11-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臟病</span>
 
 來源: [CMoney](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
+
+---
+
+### [乾咳呼吸急促以為流感竟是心肌梗塞- 醫療保健- 新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHblNBdWFEd2d5UDJENlpnMTRycHJja05faVpfYTRRR0lOMXA5LVJIREU3VHhDeWZNcE1sMFFsY3VtWHlfYkhBY1BJMW1UeTBXTElyTU51bUpoS3pkTU41NW1zcW1NQQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">心肌梗塞</span>
+
+來源: [華人今日網](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHblNBdWFEd2d5UDJENlpnMTRycHJja05faVpfYTRRR0lOMXA5LVJIREU3VHhDeWZNcE1sMFFsY3VtWHlfYkhBY1BJMW1UeTBXTElyTU51bUpoS3pkTU41NW1zcW1NQQ?oc=5)
 
 ---
 
