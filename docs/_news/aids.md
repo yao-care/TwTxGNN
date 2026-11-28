@@ -3,9 +3,9 @@ layout: default
 title: "AIDS 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "AIDS 的相關健康新聞報導。3 則新聞、1 個相關藥物。"
+description: "AIDS 的相關健康新聞報導。4 則新聞、1 個相關藥物。"
 permalink: /news/aids/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # AIDS 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="AIDS 有什麼相關新聞？">
-<strong>AIDS</strong> 目前有 <strong>3 則</strong>相關新聞報導，1 個相關藥物。
+<strong>AIDS</strong> 目前有 <strong>4 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（3 則）
+## 相關新聞（4 則）
+
+### [衞生署本周末將在觀塘舉辦有關預防和治療愛滋病的戶外藝術展覽 歡迎市民參與](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkptWGlOWlJfMWVHSlAybHhHc0d0TVc1V2FDVlA2c2hsVm4zSXE2Z052RnV3RWpIbW9xSkVSUWJfeTZBVUxuSUo1R3poN0pzMExBOEkzemdsMU55NWFzOFljMGJUcS00MnlHSHdPdXd4cEFzR2FXZTdhRWNwUUhkX2xtbDFkRmtfdEVrR0hwTjk?oc=5)
+
+2026-11-27
+
+來源: [紫荊雜誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkptWGlOWlJfMWVHSlAybHhHc0d0TVc1V2FDVlA2c2hsVm4zSXE2Z052RnV3RWpIbW9xSkVSUWJfeTZBVUxuSUo1R3poN0pzMExBOEkzemdsMU55NWFzOFljMGJUcS00MnlHSHdPdXd4cEFzR2FXZTdhRWNwUUhkX2xtbDFkRmtfdEVrR0hwTjk?oc=5)
+
+---
 
 ### [世界愛滋日 從恐懼到希望 邁向終結愛滋的未來](https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2ZWaUZnRnhvbWFQR1AzTTJybEtRT0FrVXdtdUgwR2hMWDJpVXFnOTBNSkMwLU5RUmg1Q3FDWDNpVUhaTHd5RVE5azdoQ0dKVGRSNVBDTXhDVWtCZDZzUkxtU1UzQVBmTzQzSnZhN3hXenRrQXlUU2doVHlCUGZyeEstalJSWTFVUHZUUEVQNDFxMTZlRHN0TXlmaGpmbnRI?oc=5)
 

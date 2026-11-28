@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Tinidazole 的相關健康新聞報導。原適應症：男女兩性生殖泌尿系的陰道毛滴蟲症、變形蟲症及賈第鞭毛蟲痢疾症、婦女白帶膣炎。預測適應症 10 個。"
 permalink: /news/tinidazole/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # Tinidazole 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="Tinidazole 有什麼相關新聞？">
-<strong>Tinidazole</strong> 目前有 <strong>46 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Tinidazole</strong> 目前有 <strong>47 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,13 +43,21 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/tinidazole/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（46 則）
+## 相關新聞（47 則）
 
 ### [瘦瘦針不只幫助減重？台大跨國研究揭13種肥胖相關癌症風險降4成 - Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaDhQMFRRSTdwS3R0MU9KN3FwaXhyeGRHYW9jMkw2cHlyQjNhTTJ0LWdmWXA5TnRpUENiS3FGZVhqVDh2SGpfVWtMbm9DUmo4Unp0VVZ3?oc=5)
 
 2026-11-27 <span class="news-indication-tag">癌症</span>
 
 來源: [Mombaby 媽媽寶寶懷孕生活網](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGaDhQMFRRSTdwS3R0MU9KN3FwaXhyeGRHYW9jMkw2cHlyQjNhTTJ0LWdmWXA5TnRpUENiS3FGZVhqVDh2SGpfVWtMbm9DUmo4Unp0VVZ3?oc=5)
+
+---
+
+### [衞生署本周末將在觀塘舉辦有關預防和治療愛滋病的戶外藝術展覽 歡迎市民參與](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkptWGlOWlJfMWVHSlAybHhHc0d0TVc1V2FDVlA2c2hsVm4zSXE2Z052RnV3RWpIbW9xSkVSUWJfeTZBVUxuSUo1R3poN0pzMExBOEkzemdsMU55NWFzOFljMGJUcS00MnlHSHdPdXd4cEFzR2FXZTdhRWNwUUhkX2xtbDFkRmtfdEVrR0hwTjk?oc=5)
+
+2026-11-27 <span class="news-indication-tag">AIDS</span>
+
+來源: [紫荊雜誌](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdkptWGlOWlJfMWVHSlAybHhHc0d0TVc1V2FDVlA2c2hsVm4zSXE2Z052RnV3RWpIbW9xSkVSUWJfeTZBVUxuSUo1R3poN0pzMExBOEkzemdsMU55NWFzOFljMGJUcS00MnlHSHdPdXd4cEFzR2FXZTdhRWNwUUhkX2xtbDFkRmtfdEVrR0hwTjk?oc=5)
 
 ---
 

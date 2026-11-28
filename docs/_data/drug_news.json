@@ -739,12 +739,12 @@
     {
       "url": "/news/ouabain/",
       "title": "Ouabain 相關新聞",
-      "count": 21
+      "count": 22
     },
     {
       "url": "/news/myocardial-infarction/",
       "title": "心梗 (myocardial infarction) 相關新聞",
-      "count": 13
+      "count": 14
     },
     {
       "url": "/news/heart-disease/",
@@ -900,12 +900,12 @@
     {
       "url": "/news/salicylamide/",
       "title": "Salicylamide 相關新聞",
-      "count": 26
+      "count": 28
     },
     {
       "url": "/news/common-cold/",
-      "title": "傷風 (common cold) 相關新聞",
-      "count": 26
+      "title": "感冒 (common cold) 相關新聞",
+      "count": 28
     }
   ],
   "/drugs/sulfamerazine/": [
@@ -948,7 +948,7 @@
     {
       "url": "/news/tinidazole/",
       "title": "Tinidazole 相關新聞",
-      "count": 46
+      "count": 47
     },
     {
       "url": "/news/generic-cancer/",
@@ -963,7 +963,7 @@
     {
       "url": "/news/aids/",
       "title": "AIDS 相關新聞",
-      "count": 3
+      "count": 4
     },
     {
       "url": "/news/停經/",

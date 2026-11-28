@@ -5,7 +5,7 @@ parent: 📰 健康新聞
 nav_exclude: true
 description: "Ouabain 的相關健康新聞報導。原適應症：心臟衰竭、心房撲動、心房纖維顫動、陣發性上室性心博過速。預測適應症 10 個。"
 permalink: /news/ouabain/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-28
 ---
 
 # Ouabain 相關新聞
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="Ouabain 有什麼相關新聞？">
-<strong>Ouabain</strong> 目前有 <strong>21 則</strong>相關新聞報導，預測適應症 10 個。
+<strong>Ouabain</strong> 目前有 <strong>22 則</strong>相關新聞報導，預測適應症 10 個。
 </p>
 
 <div class="key-takeaway">
@@ -43,7 +43,15 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/ouabain/' | relative_url }}">查看完整藥物報告 →</a></p>
 </div>
 
-## 相關新聞（21 則）
+## 相關新聞（22 則）
+
+### [健身｜女性重訓防肌少症外也有這個好處 11萬人研究：每周重訓兩小時 降心梗風險近四成半](https://news.google.com/rss/articles/CBMipgRBVV95cUxOMzFTdzdCVGRTc2ZKVE41R2JFazJ0bE56NF9UOEZkbDZPX09IbW9raDUyRzM5cy1IbUdzV1RORDRMYTRPejF1NkdDc3MzeXpHSEFNM1FNcW1EY3diZV9QdzBuUVFlOTZZaWZzNmJ5SnhLb0MxTTlDTEJpaEYxMjY1MnZzME9SWEhqdElMNHFrcnhiNmo5UDJKRG9fWkJpYnFqQzRTcFR5d0JyOFMyd01ILUtwc3JTMUxiZDAyclRaVno4azBZTmM5NXR5bkxWYTNxT0U2MVhRSDFpbEJNUlkwejdDNU5ZejIydzhxNmY2Y1hSR3hNZURGTEs0cXIyV3RzYzBUSVFWWTJMcmNMVEthMmhlWjh0eHBHMlJLZVZnTHJYaTBPbWpaaFBROXBpQV9Rc1FVd1RRMVpIY2NGVUxnS0J0d0JXNGtIcEgxTm8zV1VGZXdhLUNYY2lxTU9LY2dpdmhZcThsbjl3RGEyYjI3M1ZJaWNoank3MmlNNUI4Q0Y4czFqaXJxTndZdkg3dUticXF3a2M2T1d2U29LWm9xdDU1Y28xbWsxemliNXBnc0JfaFBzb1U3ZFU3ZmkyVU5HZXRhR2xkRE90ZExxNEM1d1ZaaWw5SkV6ODk1QkQ5NlNaZ2luU2huNTJFcjJSMnV5UlYxT0NuYjJCMWt0b1gtMUdLRkhta210NVFKTWZ5LVVWdDZlWUlRZHJXR3lESGZUMlB4T0pn?oc=5)
+
+2026-11-26 <span class="news-indication-tag">心梗</span>
+
+來源: [am730](https://news.google.com/rss/articles/CBMipgRBVV95cUxOMzFTdzdCVGRTc2ZKVE41R2JFazJ0bE56NF9UOEZkbDZPX09IbW9raDUyRzM5cy1IbUdzV1RORDRMYTRPejF1NkdDc3MzeXpHSEFNM1FNcW1EY3diZV9QdzBuUVFlOTZZaWZzNmJ5SnhLb0MxTTlDTEJpaEYxMjY1MnZzME9SWEhqdElMNHFrcnhiNmo5UDJKRG9fWkJpYnFqQzRTcFR5d0JyOFMyd01ILUtwc3JTMUxiZDAyclRaVno4azBZTmM5NXR5bkxWYTNxT0U2MVhRSDFpbEJNUlkwejdDNU5ZejIydzhxNmY2Y1hSR3hNZURGTEs0cXIyV3RzYzBUSVFWWTJMcmNMVEthMmhlWjh0eHBHMlJLZVZnTHJYaTBPbWpaaFBROXBpQV9Rc1FVd1RRMVpIY2NGVUxnS0J0d0JXNGtIcEgxTm8zV1VGZXdhLUNYY2lxTU9LY2dpdmhZcThsbjl3RGEyYjI3M1ZJaWNoank3MmlNNUI4Q0Y4czFqaXJxTndZdkg3dUticXF3a2M2T1d2U29LWm9xdDU1Y28xbWsxemliNXBnc0JfaFBzb1U3ZFU3ZmkyVU5HZXRhR2xkRE90ZExxNEM1d1ZaaWw5SkV6ODk1QkQ5NlNaZ2luU2huNTJFcjJSMnV5UlYxT0NuYjJCMWt0b1gtMUdLRkhta210NVFKTWZ5LVVWdDZlWUlRZHJXR3lESGZUMlB4T0pn?oc=5)
+
+---
 
 ### [你睡對了嗎？ 睡滿「這幾小時」防癡呆、抗衰老效果佳- 股市爆料同學會](https://news.google.com/rss/articles/CBMiWEFVX3lxTE13dTdqdGlHR1UteDVBOTF2VzFNM3JlUmFWLUhCU1NnN3hBWGwxUXdMel81N2pWMFJINEJlSHhyRHF1TTlDSjdLb0Uwa215akdjMjFYZVhtYTY?oc=5)
 

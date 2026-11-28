@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "傷風 (common cold) 相關新聞"
+title: "感冒 (common cold) 相關新聞"
 parent: 📰 健康新聞
 nav_exclude: true
-description: "傷風 (common cold) 的相關健康新聞報導。26 則新聞、1 個相關藥物。"
+description: "感冒 (common cold) 的相關健康新聞報導。28 則新聞、1 個相關藥物。"
 permalink: /news/common-cold/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
-# 傷風 (common cold) 相關新聞
+# 感冒 (common cold) 相關新聞
 
 [← 返回新聞總覽]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="傷風 (common cold) 有什麼相關新聞？">
-<strong>傷風 (common cold)</strong> 目前有 <strong>26 則</strong>相關新聞報導，1 個相關藥物。
+<p class="key-answer" data-question="感冒 (common cold) 有什麼相關新聞？">
+<strong>感冒 (common cold)</strong> 目前有 <strong>28 則</strong>相關新聞報導，1 個相關藥物。
 </p>
 
 <div class="key-takeaway">
-本頁整合「傷風」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
+本頁整合「感冒」相關的最新健康新聞，並列出 TwTxGNN 資料庫中預測適應症包含此疾病的藥物。
 </div>
 
 <div class="related-drugs-card">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 相關新聞（26 則）
+## 相關新聞（28 則）
+
+### [維生素C治感冒？吃過量傷腸胃](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1od0tnZ3V4blgteVJFeEZIT2hpZEE3dDRxcHk4WmFEU1E5cXFsd0RBQjRWRFYtZzRPTTNPM3UyMGVHdlF5Uzg4THBTcmJTVWNaYnFYZFRIV3ZOYXpCUjFQQU1n0gFnQVVfeXFMUEhIS2hIRGI2YS1KN05xNEZ5dnhVTjMzcndManNKb3Y4Tkh5b0dGVENRS3lrcHN3ZzFiSktQeHBQUl8tY1pLOXlWZmItblVLTlBIN3VwQUw5LXRQZ3RhNVJEdVFHcFdqdw?oc=5)
+
+2026-11-27
+
+來源: [世界新聞網](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1od0tnZ3V4blgteVJFeEZIT2hpZEE3dDRxcHk4WmFEU1E5cXFsd0RBQjRWRFYtZzRPTTNPM3UyMGVHdlF5Uzg4THBTcmJTVWNaYnFYZFRIV3ZOYXpCUjFQQU1n0gFnQVVfeXFMUEhIS2hIRGI2YS1KN05xNEZ5dnhVTjMzcndManNKb3Y4Tkh5b0dGVENRS3lrcHN3ZzFiSktQeHBQUl8tY1pLOXlWZmItblVLTlBIN3VwQUw5LXRQZ3RhNVJEdVFHcFdqdw?oc=5)
+
+---
 
 ### [破傷風出現 1 例死亡，河內相關高風險地區的防疫重點是什麼?](https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZVYwR3dBSjNFOUJiOGNjRzF4UFRqUVM3UnNaX2twaEVTNTctUU5UYm9VRTJoc1lNQk5MRkthNVlWTG1GVXpsV1pjUXdvZ1NHOXpJS1RPUGNqVGpKbjlHWHJZUHhqN0V2a0E4Z1hwVG9RQzREVkVXZU94dw?oc=5)
 
@@ -61,6 +69,14 @@ last_modified_at: 2026-11-27
 2026-11-24
 
 來源: [ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KT1RHYmZodkZUQ1NJclYwMXBQZXRPd2N0Ynp4djNwUHBZdk9fRTdIRG1Zd3JLRDRlb0hSSHJtaGVpTFVXakk1WnN6cmIzS0JS0gFPQVVfeXFMUGpTU1FLdklpNlVtYnJKd2RIN295VzlmVW1uT2NqYmJoTHBVMXpQcWZzeERYTU92YlRicl94dWYzcmNOdlYtWlZRM3NxeDJBdw?oc=5)
+
+---
+
+### [轉天氣鼻敏發作?梓航終於有覺好瞓啦!💤 - U Lifestyle](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTmVfb1ZQMkhHQm1QVnlhMW1fa3ZZZ1h5WVZ4LU43UlBmN2t2SzVhNUxSbU1CQXpUMHNSWUZzQlRjRjFrVUpxRmwyVXJSbWpoV2ZaRjAtWEdNRWpueFM1SXlQOTZYWXBqUGpaTHdabld5UElic2FSM0tFeVZpMWR6LXg0dXFFWFhQZm42c09OOE16TU9rTEtVeThIcmNzaldDWjlmblU5YzRpM1pCclJxSEhyQnZQUXdLRThJTDFHaWVFZWJYVzBGY3NwVkNPUnRUc2hmcVFlR3lBdnBLbFd1R3NNdzREQVpvb2xrM1R2ajBwWS1lc1V5ZDE5MGotWFl4a0EwMDhUc1AtWjcxNmpFRDRTRV9MZWU3dmtzZEhVME5OVy1nSHNPVjM2cjNfYTc0UFR0ZnpNLUFpaU0?oc=5)
+
+2026-11-23
+
+來源: [U Lifestyle](https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTmVfb1ZQMkhHQm1QVnlhMW1fa3ZZZ1h5WVZ4LU43UlBmN2t2SzVhNUxSbU1CQXpUMHNSWUZzQlRjRjFrVUpxRmwyVXJSbWpoV2ZaRjAtWEdNRWpueFM1SXlQOTZYWXBqUGpaTHdabld5UElic2FSM0tFeVZpMWR6LXg0dXFFWFhQZm42c09OOE16TU9rTEtVeThIcmNzaldDWjlmblU5YzRpM1pCclJxSEhyQnZQUXdLRThJTDFHaWVFZWJYVzBGY3NwVkNPUnRUc2hmcVFlR3lBdnBLbFd1R3NNdzREQVpvb2xrM1R2ajBwWS1lc1V5ZDE5MGotWFl4a0EwMDhUc1AtWjcxNmpFRDRTRV9MZWU3dmtzZEhVME5OVy1nSHNPVjM2cjNfYTc0UFR0ZnpNLUFpaU0?oc=5)
 
 ---
 
